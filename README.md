@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 20:51:38**
+As of **2024-04-18 21:03:31**
 
 ## Newspaper Stats
 
-*Scraped **19,617** Articles*
+*Scraped **19,619** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 168
+colombotelegraphcom | 169
 bbccomsinhala | 205
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,639
+adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,934
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,616 (100.0%) of 19,617 articles have been extended.
+19,617 (100.0%) of 19,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Asked whether people will accept  Wickremesinghe as a good custodian, the MP sa
 ...
 
 [Data](articles/fb9ae436.json)
+
+[Extended Data](ext_articles/fb9ae436.ext.json)
 
 ---
 
@@ -243,6 +245,22 @@ After being brought back to the country, the individual will be incarcerated to 
 [Data](articles/7247d8e8.json)
 
 [Extended Data](ext_articles/7247d8e8.ext.json)
+
+---
+
+### මිහින්තලා සෑයේ තීන්ත ආලේප කිරීම මහජනතාවගේ ශ්‍රමදායකත්වයෙන්
+
+*2024-04-18 18:40:37* · [`adalk`](https://www.ada.lk/religion/මිහින්තලා-සෑයේ-තීන්ත-ආලේප-කිරීම-මහජනතාවගේ-ශ්‍රමදායකත්වයෙන්/4-409153) · `si`
+
+එල්.ටී.ටී.ඊ. ත්‍රස්තවාදී  සමයේ හා ජනතා විමුක්ති පෙරමුණු භීෂණ  සමයේදී, පොසොන් උත්සවයට  ඝාතන අනතුරු අඟවා තිබීයදී පවා පැවැත්වූ පොසොන් උත්සව වලට රාජ්‍ය අනුග්‍රහය නොලැබුණා සේ මෙවරත් ලෝකවාසී සියලු ජනතාවගේ අනුග්‍රහයෙන්  2024 පොසොන් උත්සවය සාර්ථකව පැවැත්වීමට කටයුතු කරන බව ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණ වැවේ ධම්මරතන නා හිමිපාණන් පවසයි.
+
+නායක හිමියන් මේ බව පැවසුවේ එළඹෙන පොසොන් උත්සවයට සමගාමීව බුදුරජාණන් වහන්සේගේ ඌර්ණ රෝම ධාතූන් වහන්සේලා තැන්පත් කර ඇති මිහින්තලා මහා සෑයේ තීන්ත ආලේප කිරීමේ අවස්ථාවට එක්වෙමින් අද (18දා)  අනුශාසනාවක් සිදු කරමින්ය.
+
+"එල්.ටි.ටී. ඊ. ත්‍රස්තවාදී සමයේ පමණක් නොවේ පෙරහැර, ආලෝක පූජාව ඇතුළු පොසොන් මංගල්‍යය සිදු නොකරන ලෙසට ජනතා විමුක්ති පෙරමුණ විසින් ඝාතන අනතුරු අඟවා තිබූ කාලවලදීත් අපි සියලු අංගයන්ගෙන් යුතු පොසොන් උත්සවයන් ඓතිහාසික මිහින්තලා පුද බිමේදී පැවැත්වීමට කටයුතු කළා.ඒ නිසා  වර්තමානයේදී රාජ්‍ය අනුග්‍රහය නොලැබීම පොසොන් උත්සවය පැවැත්වීමට බාධාවක් වන්නේ නැහැ.
+
+...
+
+[Data](articles/29209f28.json)
 
 ---
 
@@ -1133,6 +1151,18 @@ Meanwhile, SLFP acting general secretary Dushmantha Mithrapala has filed objecti
 [Data](articles/64d05765.json)
 
 [Extended Data](ext_articles/64d05765.ext.json)
+
+---
+
+### Dr A .T. Ariyaratne Has Passed: My Memories Of Him To The Mid-1990s
+
+*2024-04-18 15:15:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-a-t-ariyaratne-has-passed-my-memories-of-him-to-the-mid-1990s/) · `en`
+
+I was extremely sad to hear the news of Dr A. T. Ariyaratne’s passing at the ripe old age of 93. He was the founder and President Emeritus of the Sarvodaya Shramadana Movement (SSM) of Sri Lanka. He was untiring in his efforts to put into practice ‘Sustainable Development and Peace’ based on the Buddhist precepts of “Awakening of all”. In principle, he was against the patterns of economic development based on neo-liberal values, which is unfortunately all the rage not only in Sri Lanka but also in large parts of the globe.
+
+...
+
+[Data](articles/e45a76f0.json)
 
 ---
 
@@ -2261,57 +2291,5 @@ The Colombo District Court has issued the order following a case filed by former
 [Data](articles/89fe5944.json)
 
 [Extended Data](ext_articles/89fe5944.ext.json)
-
----
-
-### As quickly, let the environment be harmed
-
-*2024-04-18 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195751) · `si`
-
-The police urge the public to report environmental issues and provide contact numbers for 1997 or 1981. The IGP has shared these numbers, emphasizing their importance for addressing environmental damage. This includes excavation, river banks, and industrial activities. The Police Special Bureau of 1997 is tasked with these raids.
-
-🟩
-
-The police calls on the public to educate any information on environmental mistakes and to educate the short telephone numbers of 1997 or 1981.
-
-The IGP has introduced the telephone numbers, as the information received from the public is very important to carry out raids on the environment.
-
-According to police, the environmental damage and the environment has been influenced by the ecological damage and the environment, such as excavation and river banks, industries and industries.
-
-The Police Special Bureau of 1997 has already been introduced to carry out the raids on the environmental damage.
-
-If this is the environmental damage in your area, the police said.
-
-◼️
-
-[Data](articles/51fe0e9c.json)
-
-[Extended Data](ext_articles/51fe0e9c.ext.json)
-
----
-
-### Police investigate mysterious deaths
-
-*2024-04-18 11:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்ம-மரணங்கள்-தொடர்பில்-பொலிஸார்-விசாரணை/175-336070) · `ta`
-
-Police in Kalutara are investigating the mysterious deaths of two elderly women, aged 65 and 79, found dead in their home. The women had been missing for days, and their disappearance was reported by neighbors. The house was locked, and the police entered through a window. Further investigations are ongoing.
-
-🟩
-
-Two -year -old women have been found dead on Wednesday (April 17) at a house in the Isuru area of Kalutara.
-
-Police said the neighbors had informed the emergency telephone number of the police as the two women had disappeared for a few days and were stench from their home.
-
-Police raided the house through the window and found two women lying dead on the ground of their bedroom, while the house was locked.
-
-The two women are aged 65 and 79 and are identified as residents of the area.
-
-Magistrate's inquiries on the death are due to be held today and the Kalutara police are conducting further investigations.
-
-◼️
-
-[Data](articles/64885fce.json)
-
-[Extended Data](ext_articles/64885fce.ext.json)
 
 ---

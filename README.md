@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 09:52:32**
+As of **2024-04-18 10:03:20**
 
 ## Newspaper Stats
 
-*Scraped **19,489** Articles*
+*Scraped **19,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
-adalk | 1,622
+adalk | 1,623
 tamilmirrorlk | 2,270
-adaderanalk | 2,337
+adaderanalk | 2,338
 virakesarilk | 2,904
 dailymirrorlk | 3,010
 adaderanasinhalalk | 3,172
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,487 (100.0%) of 19,489 articles have been extended.
+19,489 (100.0%) of 19,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Tsunami alert after a volcano in Indonesia has several big eruptions and thousands are told to leave
+
+*2024-04-18 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98696/tsunami-alert-after-a-volcano-in-indonesia-has-several-big-eruptions-and-thousands-are-told-to-leave) · `en`
+
+Indonesian authorities issued a tsunami alert Wednesday after eruptions at Ruang mountain sent ash thousands of feet high. Officials ordered more than 11,000 people to leave the area.
+
+The volcano on the northern side of Sulawesi island had at least five large eruptions in the past 24 hours, Indonesia’s Center for Volcanology and Geological Disaster Mitigation said. Authorities raised their volcano alert to its highest level.
+
+Indonesia, an archipelago of 270 million people, has 120 active volcanoes. It is prone to volcanic activity because it sits along the “Ring of Fire,” a horseshoe-shaped series of seismic fault lines around the Pacific Ocean.
+
+Authorities urged tourists and others to stay at least 6 kilometers (3.7 miles) from the 725-meter (2,378 foot) Ruang volcano.
+
+Officials worry that part of the volcano could collapse into the sea and cause a tsunami as in a 1871 eruption there.
+
+...
+
+[Data](articles/c6962e3a.json)
+
+---
 
 ### Electricity sector reforms gazetted, to be tabled in parliament
 
@@ -47,6 +67,8 @@ Wijesekara also mentioned that the public will have two weeks from the day of pr
 ◼️
 
 [Data](articles/b53cc6cb.json)
+
+[Extended Data](ext_articles/b53cc6cb.ext.json)
 
 ---
 
@@ -69,6 +91,8 @@ The magistrate’s inquests of the bodies are scheduled to be held today (18).
 ◼️
 
 [Data](articles/7b74a096.json)
+
+[Extended Data](ext_articles/7b74a096.ext.json)
 
 ---
 
@@ -1714,6 +1738,22 @@ Previously, the Director General of State Intelligence Suresh S Sarshie S Sarsh 
 
 ---
 
+### මේ වසරේ අප්‍රේල් 14 දා තෙක් දුම්රිය පීලි පැනීම් 30ක්
+
+*2024-04-17 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-අප්‍රේල්-14-දා-තෙක්-දුම්රිය-පීලි-පැනීම්-30ක්/11-409135) · `si`
+
+දුම්රිය මාර්ග නිසි ලෙස නඩත්තු නොකිරීම නිසා මේ වසරේ ජනවාරි 01 වන දින සිට අප්‍රියෙල් මස 14වන දින  දක්වා කාලය තුළ දුම්රිය පීළි පැනීම් 30 ක් සිදුව තිබෙන බවත්, මේ නිසා දුම්රිය මර්ගවලටත් හානි සිදුව තිබෙන බවත් දුම්රිය වෘත්තීය සමිති සඳහන් කරයි.
+
+මෙම පීළි පැනීම්වලින් 18 ක් මගී දුම්රිය පීළිපැනීම්  බවත්,  ඉතිරි 12 දුම්රිය අංගණවල පීළි පැනීම් බවත්, මගී දුම්රිය පීළිපැනීමට ලක් වූ අවස්ථාවල මගී ජනතාව දැඩි දුෂ්කරතාවන්ට පත්වන බවත්, අදාළ මාර්ගයේ අනෙකුත් දුම්රිය ධාවනයට බාධා සිදුවන බවත් වෘත්තීය සමිති පෙන්වා දෙති.මෙම කාලය තුළ අවසන් වරට මේ මස 13 වන දින දකුණු කළුතර ප්‍රදේශයේදී දුම්රිය පීළිපැනීමක් සිදුවූ බවත්, මේ නිසා දුම්රිය ගමනාගමනයට යම්  බාධා සිදුවූ  බවත් දුම්රිය වෘත්තීය සමිති සඳහන් කරයි.
+
+අඩු බරකින් යුත්  දුම්රිය එංජින් ධාවනය කිරීමට මෙරට බොහෝ දුම්රිය මාර්ග සකස් කර ඇතත් තාක්ෂණයේ දියුණුවත් සමග සකස් කරන දුම්රිය එංජින් වැඩි බරකින් යුත්  බවත්, වැඩි බරකින් යුත් දුම්රිය එංජින් ධාවනය වන විට සමහර ස්ථානවල පීළි දෙක අතර පරතරය වෙනස් වීම සිදුවන බවට වාර්තා වන බවත් පෙන්වා දෙයි.
+
+...
+
+[Data](articles/2c8b415d.json)
+
+---
+
 ### The national folk force spends justice to victims of the Passover attack
 
 *2024-04-17 19:27:40* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-වින්දිතයන්ට-යුක්තිය-ඉටු-කරන-හැටි-ජාතික-ජන-බලවේගය-කියයි/11-409134) · `si`
@@ -2153,51 +2193,5 @@ Beneficiaries have been selected to provide goats when they questioned the relev
 [Data](articles/413f87d2.json)
 
 [Extended Data](ext_articles/413f87d2.ext.json)
-
----
-
-### Sri Lanka’s discussions with bondholders constructive: State finance minister
-
-*2024-04-17 17:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-discussions-with-bondholders-constructive-state-finance-minister-158922/) · `en`
-
-ECONOMYNEXT – Sri Lankan authorities continue to engage all debt restructuring negotiations in good faith, within principles of equitable treatment among creditors, and with maximum transparency within the norms of such negotiations, State Minister of Finance, Shehan Semasinghe has said.
-
-“It is standard practice, when a representative group of bondholders is formed, to entertain confidential discussions with such group and its appointed advisors. In the case of Sri Lanka, the Ad Hoc Group of Bondholders represents holders controlling more than 50% of the bonds, which make them a privileged interlocutor for Sri Lanka,” Semasinghe said on X (twitter).
-
-“It is well understood that given the price sensitive nature of the negotiations, and according to market regulations, discussions with the Group and its advisors are to be conducted under non-disclosure agreements. This evidently restricts the ability of the Government to unilaterally report about the substance of the discussions.
-
-...
-
-[Data](articles/43b41f1f.json)
-
-[Extended Data](ext_articles/43b41f1f.ext.json)
-
----
-
-### Palitha Thevarapperuma's death inspection report released
-
-*2024-04-17 17:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195728) · `si`
-
-Palitha Thevarapperuma's post-mortem report revealed severe internal organ damage. The examination, led by M. T. B. at Nagoda Hospital, was attended by high-profile officials including the Chief Justice Officer, the Minister of Ughawalawatta, and the UNP General Secretary General. The remains were then taken to a flower hall in Kalutara, where condolences were expressed.
-
-🟩
-
-Palitha Thewarapperumakitha Thevarapperuma has been inspected at the post mortemic vehicle that caused serious damage to the internal organs of the body.
-
-Chief Justice Officer of the Judicial Medical Unit of the Nagoda Hospital in Kalutara. M. T. B. The post mortem examination was held today (17) under the patronage of Mr. Gunatullaka.
-
-Minister of Ughawalawatta, Navaththanda, Navaththanda, Ughaduwalawatta, Navattu yesterday (16).. M. T. B. After inspecting Mr. Gunatilake, the post mortem was carried out.
-
-Former minister's wife, Amaitan Naltaangani Amaratunga was identified at the Kalutara Survey Hospital.
-
-The Minister was observed where the Minister was hit by the Minister in Kalutara criminal laboratories and had a site investigation.
-
-Prior to the post mortem, Mrs. Kalutara Chief Magistrate Nathira Hemamali Hamfadandena was also checked by Hon.
-
-...
-
-[Data](articles/3393b196.json)
-
-[Extended Data](ext_articles/3393b196.ext.json)
 
 ---

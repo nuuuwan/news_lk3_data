@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 18:21:46**
+As of **2024-04-18 18:34:00**
 
 ## Newspaper Stats
 
-*Scraped **19,596** Articles*
+*Scraped **19,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,632
+adalk | 1,635
 tamilmirrorlk | 2,281
-adaderanalk | 2,350
+adaderanalk | 2,351
 virakesarilk | 2,931
 dailymirrorlk | 3,023
 adaderanasinhalalk | 3,188
@@ -26,33 +26,81 @@ adaderanasinhalalk | 3,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,593 (100.0%) of 19,596 articles have been extended.
+19,596 (100.0%) of 19,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### පාසල් සිසුවෙකුට අධිකරණය දුන් නියෝගය
+### Teenager reported missing while bathing in Castlereagh Reservoir
 
-*2024-04-18 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195763) · `si`
+*2024-04-18 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98708/teenager-reported-missing-while-bathing-in-castlereagh-reservoir) · `en`
 
-අම්බලන්ගොඩ ප්‍රදේශයේ නිවාස දෙකකින් මුදල් සහ ජංගම දුරකථන සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ලවූ පාසල් සිසුවෙකු අද අධිකරණය විසින් පරිවාස භාරයට පත්කර තිබේ.
+A 17-year-old boy who was bathing in the Castlereagh Reservoir is reported missing after being swept away by strong water currents.
 
-සැකකාර පාසල් සිසුවා අද අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව බළපිටිය මහේස්ත්‍රාත් ආර් ඩී ජනක මහතා අද (18) මෙම නියෝගය ලබාදී තිබේ.
+The teenage boy, who is a resident of Castlereagh Estate in Dick Oya, had visited the reservoir with his family members at around 03.30 p.m. this evening (18).
 
-මෙලෙස පරිවාස භාරයට පත්කර ඇත්තේ අම්බලන්ගොඩ, ගලගොඩ ප්‍රදේශයේම පදිංචි වයස අවුරුදු 15ක දරුවෙකි.
+The security personnel in charge of the Castlereagh Reservoir along with local fishermen and residents have launched an operation in search of the body of the student.
 
-එම දරුවාගේ පියා විදේශගතව සිටින බවත් දරුවා මවට අවනත නොවන බවත් අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+Eyewitnesses claim that the incident had occurred while the student was swimming back and forth across the reservoir, ignoring the warnings of the security officers.
 
-නිවාස දෙකකින් ලැබුණු පැමිණිල්ලක් විභාග කළ පොලිස් නිලධාරීන් විසින් මෙම දරුවා සිය භාරයට ගෙන අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+◼️
 
-එහිදී දරුවා සන්තකයේ තිබී සොරකම් කරන ලද ජංගම දුරකථන දෙක සොයාගෙන ඇතිමුත් මුදල් සොයාගෙන ඇත්තේ රුපියල් 800ක් පමණක් වීම විශේෂත්වයකි.
+[Data](articles/0d8d2d29.json)
 
-ඒ පිළිබඳව දරුවාගෙන් කළ ප්‍රශ්න කිරීම්වලදී සඳහන් කර ඇත්තේ සොරකම්කරන ලද මුදල්වලින් කොටසක් සිය නැගණියට ශ්‍රී පාදය වන්දනා කිරීමට යෑමට ලබාදුන් බවය.
+---
+
+### පිටකොටුවේ අනවසර කඩ ඉදිකිරීම පසුපස ජාවාරම්කරුවන්
+
+*2024-04-18 18:04:16* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුවේ-අනවසර-කඩ-ඉදිකිරීම-පසුපස-ජාවාරම්කරුවන්/11-409149) · `si`
+
+කොළඹ පිටකොටුවේ අනවසර කඩ ඉදිකිරීම පිටුපස සංවිධානාත්මක ජාවාරම්කරුවන් පිරිසක් සිටින බවට හෙළිවී ඇතැයි කොළඹ මහ නගර සභාව සහ නාගරික සංවර්ධන අධිකාරිය පවසයි.
+
+කොළඹ මහ නගර සභාවේ නගරාලංකරණ ව්‍යාපෘති සම්බන්ධීකාරක ඉංජිනේරු කුමුදු බෝගහවත්ත මහතා සඳහන් කළේ කොළඹ පාවෙන වෙළඳ සංකීර්ණය ඉදිරිපිට තිබී ඉකුත්දා කඩා ඉවත් කළ කඩ 21ද එලෙස ජාවාරම්කරුවන් විසින් ඉදිකර තිබූ අනවසර ඉදිකිරීම් බවයි.
+
+ජාවාරම්කරුවන් විසින් එම වෙළඳසැල් වෙනත් පුද්ගලයන්ට දවස් කුලියට බදු දී තිබෙන බවට අනවරණය වී තිබෙන බවද හෙතෙම පැවසීය. ඔහු පවසන්නේ අනවසර ඉදිකිරීමක් සම්බන්ධයෙන් පැමිණිල්ලක් ලැබුණු පළමු අවස්ථාවේදීම එය ඉවත් කිරීමට නගර සභාව පියවර ගන්නා බවයි.
+
+එබැවින් කොළඹ මහ නගර සභාව හා නාගරික සංවර්ධන අධිකාරිය ජනතාවගෙන් ඉල්ලා සිටින්නේ මෙවැනි සංවිධානාත්මක ජාවාරම්කරුවන්ට හසු වී තම මිල මුදල් නිකරුණේ නාස්තිකර නොගන්නා ලෙසයි.
 
 ...
 
+[Data](articles/e54ff407.json)
+
+---
+
+### Court of school student
+
+*2024-04-18 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195763) · `si`
+
+A schoolgirl in Ambalangoda is accused of stealing Rs. 121,000 worth of mobile phones and Rs. 800. Her father is abroad, and she reportedly stole the phones on a whim. Police are investigating if the stolen items are hidden elsewhere.
+
+🟩
+
+A schoolgirl has been charged with the suspension of money and mobile phones in the Ambalangoda area.
+
+The suspects were produced before courts today (18).
+
+The probation was taken into custody in Mahagoda, Ambalangoda, Ambalangoda.
+
+Police say that the child's father is abroad and the child does not heed the mother.
+
+The child has taken a complaint with a complaint received by two houses and submitted to the court.
+
+The child had found two stolen mobile phones in possession of the child and had only found only Rs. 800.
+
+In response to the child, part of the money given by a part of the stolen money to go to Sri Lanka.
+
+The police have reported to the court that the child has stolen two mobile phones worth about Rs. 121,000 and the sum of Rs.
+
+The child had told the police that the two smartphones stole the 2 smartphones on the desire.
+
+The police have commenced investigations into the child, actually stolen, and whether they are hidden in a different location.
+
+◼️
+
 [Data](articles/2198163c.json)
+
+[Extended Data](ext_articles/2198163c.ext.json)
 
 ---
 
@@ -363,6 +411,8 @@ Issuing a press release, the SRU also said that it is envisaged that all SOE tra
 ...
 
 [Data](articles/ff482620.json)
+
+[Extended Data](ext_articles/ff482620.ext.json)
 
 ---
 
@@ -1012,6 +1062,8 @@ Dialog, Axiata Group and Bharti Airtel sign Definitive Agreement to Merge Operat
 
 [Data](articles/dfcdc8d0.json)
 
+[Extended Data](ext_articles/dfcdc8d0.ext.json)
+
 ---
 
 ### Telephone number introduces to environmental impacts!
@@ -1152,6 +1204,26 @@ The Kurunegala district MP told reporters that the third defendant in the same c
 
 ---
 
+### බන්ධනාගාරවල  රැඳවිය හැකි ප්‍රමාණයට වඩා රැඳවියන් 18000ක් රඳවලා
+
+*2024-04-18 13:09:01* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරවල--රැඳවිය-හැකි-ප්‍රමාණයට-වඩා-රැඳවියන්-18000ක්-රඳවලා/11-409146) · `si`
+
+මෙරට බන්ධනාගාර තුළ සිටින ඇති ඉඩ ප්‍රමාණයට රඳවා තබා ගත හැකි රැඳවියන්ට ප්‍රමාණය 11000ක් වුවත් මේ වන විට රැඳවියන් 29 800ක් රඳවා ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි.
+
+ඒ අනුව බන්ධනාගාරවල රැඳවිය හැකි රැඳවියන් සංඛ්‍යාව දහඅට දාහකින් පමණ ඉහළ ගොස් ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කර යි.
+
+බන්ධනාගාර තුළ ඇති මෙම ඉඩකඩ තදබදය   නිසා බොහෝ බන්ධනාගාර තුළ රැඳී සිටින සිරකරුවන් මුර ක්‍රමයට නිදා ගැනීමට පෙළඹී ඇති බවද වාර්තා වෙයි.
+
+මෙම තද බදයට  විකල්ප ලෙස කොළඹ බන්ධනාගාරවල සිටින ඇතැම් රැඳවියන් හොරණ ප්‍රදේශයට රැගෙන ගිය බවත් අච්චු ලැබූ රැඳවියන් පල්ලසේන කඳවුර සඳහා රැගෙන ගොස් ඇති බවත් මේ පිළිබඳව කළ  විමසීමකදී   බන්ධනාගාර දෙපාර්තමේන්තුවේ මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+මේ අනුව කොළඹ මැගසින් බන්ධනාගාරයේ රැඳවියන් 670 ක් පමණ රැඳවිය හැකි අතර එහි දැනට රැඳවියන් 2000කට අධික සංඛ්‍යාවක් සිටින බව බන්ධනාගාර මුලස්ථානය සඳහන් කරයි.  කොළඹ රිමාන්ඩ් බන්ධනාගාරය තුළ රැඳවියන් 300ක්  රැඳවිය හැකි අතර එහි රැඳවියන් 2000 කට අධික ප්‍රමාණයක් සිටිති.
+
+...
+
+[Data](articles/f45047aa.json)
+
+---
+
 ### Sri Lanka’s Hunas Holdings to offer room nights trading with Japan firm
 
 *2024-04-18 13:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-hunas-holdings-to-offer-room-nights-trading-with-japan-firm-159082/) · `en`
@@ -1247,6 +1319,26 @@ A Moringa tree was planted this morning to mark the tree planting ritual for the
 [Data](articles/772435e7.json)
 
 [Extended Data](ext_articles/772435e7.ext.json)
+
+---
+
+### ෂැම්පු බෝතලයේ සඟවාගෙන සැමියාට අයිස් ගෙනා බිරිඳ අල්ලයි
+
+*2024-04-18 12:50:28* · [`adalk`](https://www.ada.lk/breaking_news/ෂැම්පු-බෝතලයේ-සඟවාගෙන-සැමියාට-අයිස්-ගෙනා-බිරිඳ-අල්ලයි/11-409144) · `si`
+
+සැම්පු බෝතලයක අයිස් මත්ද්‍රව්‍ය සහ ගංජා සඟවාගෙන කළුතර බන්ධනාගාරයේ රදවා සිටින සැමියාට  ලබාදීමට අත දරුවෙකුද වඩාගෙන පැමිණි කාන්තාවක අත්අඩංගුවට ගත් බව කළුතර උතුර පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කළුතර දකුණ ප්‍රදේශයේ පදිංචි කාන්තාවක බව පොලිසිය පැවසීය.
+
+බන්ධනාගාර නියාමක අමිල අබේසේකර සහ නියාමිකා පුෂ්පලතා යන  දෙදෙනා විසින්, සැකකාරිය  රැගෙන ආ සැම්පූ බෝතලය පරීක්ෂා කිරීමේදී අයිස් මිලිග්‍රෑම් 9000 ක් සහ ගංජා මිලිග්‍රෑම් 6410 ක් සොයා ගෙන ඇතැයි බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි.
+
+සැකකාරිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීම සඳහා කළුතර උතුර පොලිසියට බාරදී තිබේ.
+
+කළුතර උතුර ස්ථානාධිපති  ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ උපදෙස්  පරිදි පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/6638f170.json)
 
 ---
 
@@ -2179,105 +2271,5 @@ Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of reg
 [Data](articles/5b4dc4e4.json)
 
 [Extended Data](ext_articles/5b4dc4e4.ext.json)
-
----
-
-### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
-
-*2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-costs-for-saarc-countries-up-167-pct-with-vfs-global-levy-158985/) · `en`
-
-ECONOMYNEXT – Tourists from neighboring South Asian countries appear to the hardest hit with a shift of the country’s electronic travel authorization system to IVS Global -VFS Global, a private company.
-
-Sri Lanka only charged 20 dollars from a SAARC visitor up to the shift to VFS Global.
-
-Based on the information disclosed online, SAARC visa fees have risen to 75 dollars with a gazetted fee going up to 35 dollars and 18.5 dollar additional fee charged by VFS Global, the private provider.
-
-Related Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
-
-Travel industry sources said they had not been consulted on the VFS Global linked cost increases and had taken up the issue with authorities and were awaiting a reply.
-
-Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of regional integration.
-
-...
-
-[Data](articles/c71fc2b1.json)
-
-[Extended Data](ext_articles/c71fc2b1.ext.json)
-
----
-
-### Tsunami warning to Indonesia
-
-*2024-04-18 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195748) · `si`
-
-A tsunami warning has been issued for Indonesia due to the activation of Ruwanagas. The volcano, one of the world's most active, is located in a region with the highest number of active volcanoes. The 1871 tsunami incident led to the collapse of a raised fire, resulting in the evacuation of about 11,000 people.
-
-🟩
-
-International media reports that a tsunami warning has been issued due to the activation of Ruwanagas in Indonesia.
-
-Authorities warn that the sections of the campaign will be sealed in the sea.
-
-In 1871 Tsunami accident, the collapse of the raised fire.
-
-As a result, the authorities had to contest about 11,000 people in the surrounding fire.
-
-The island is located on the island in Indonesia, constantly active active.
-
-The volcanoes have already been widely widened and the collapse of the lava and gray are collapsing.
-
-Indonesia is located in the region's most active volcanoes with the world's most active volcano.
-
-Ruwan of 725 meters is considered a more activated volcano.
-
-◼️
-
-[Data](articles/ba44cc91.json)
-
-[Extended Data](ext_articles/ba44cc91.ext.json)
-
----
-
-### Tsunami alert after a volcano in Indonesia has several big eruptions and thousands are told to leave
-
-*2024-04-18 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98696/tsunami-alert-after-a-volcano-in-indonesia-has-several-big-eruptions-and-thousands-are-told-to-leave) · `en`
-
-Indonesian authorities issued a tsunami alert Wednesday after eruptions at Ruang mountain sent ash thousands of feet high. Officials ordered more than 11,000 people to leave the area.
-
-The volcano on the northern side of Sulawesi island had at least five large eruptions in the past 24 hours, Indonesia’s Center for Volcanology and Geological Disaster Mitigation said. Authorities raised their volcano alert to its highest level.
-
-Indonesia, an archipelago of 270 million people, has 120 active volcanoes. It is prone to volcanic activity because it sits along the “Ring of Fire,” a horseshoe-shaped series of seismic fault lines around the Pacific Ocean.
-
-Authorities urged tourists and others to stay at least 6 kilometers (3.7 miles) from the 725-meter (2,378 foot) Ruang volcano.
-
-Officials worry that part of the volcano could collapse into the sea and cause a tsunami as in a 1871 eruption there.
-
-...
-
-[Data](articles/c6962e3a.json)
-
-[Extended Data](ext_articles/c6962e3a.ext.json)
-
----
-
-### Two women dies in suspicion
-
-*2024-04-18 09:43:52* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-දෙදෙනෙක්-සැකකටයුතු-ලෙස-මිය-යයි/11-409140) · `si`
-
-Two women found dead in Kalutara South Police Division. Police discovered them near a house after a few days of investigation. The deceased are 195 and 79 years old. A magisterial inquiry is scheduled for today.
-
-🟩
-
-The Kalutara South Police had conducted a few days and had been in a ticket to the house in Kalutara South Police Division and that two days were nearing nearly few days.
-
-Police officers had gone to the scene last night. After checking by a window, two women were observed to fall.
-
-Death is the 195th and 79-year-olds. The bodies are placed at that place under police protection and the magisterial inquiry is due to be held today.
-
-◼️
-
-[Data](articles/9f8d8f1d.json)
-
-[Extended Data](ext_articles/9f8d8f1d.ext.json)
 
 ---

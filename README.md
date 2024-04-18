@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 15:03:34**
+As of **2024-04-18 15:18:36**
 
 ## Newspaper Stats
 
-*Scraped **19,556** Articles*
+*Scraped **19,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,631
 tamilmirrorlk | 2,281
 adaderanalk | 2,346
 virakesarilk | 2,915
-dailymirrorlk | 3,020
+dailymirrorlk | 3,021
 adaderanasinhalalk | 3,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,553 (100.0%) of 19,556 articles have been extended.
+19,556 (100.0%) of 19,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Parties raise objections against first court case under Online Safety Act
+
+*2024-04-18 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-raise-objections-against-first-court-case-under-Online-Safety-Act/108-280916) · `en`
+
+Colombo, April 18 (Daily Mirror) - The respondent parties in the first application filed before the Colombo Chief Magistrate’s Court under the newly enacted Online Safety Act, raised objections challenging the maintainability of the application.
+
+On April 4, the Colombo Chief Magistrate’s Court issued a conditional order preventing the respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
+
+Court issued this conditional order in favour of the petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the respondents Gayathri Bimba, Prof. Janaka Rajapaksa, Oshala Herath, Yasalal Perera (Talk with Lal), Kalpa Gunarathne (Meemasso TV) and Jamuni Kamantha Thushara by electronic means as provided for in Section 24 (4) of the Act.
+
+...
+
+[Data](articles/50e4e65d.json)
+
+---
 
 ### Ukraine warns of WW3 ahead of long-stalled Congress aid vote
 
@@ -54,6 +70,8 @@ Speaking to the BBC in Washington DC on Wednesday, Prime Minister Shmyhal said o
 
 [Data](articles/303a70af.json)
 
+[Extended Data](ext_articles/303a70af.ext.json)
+
 ---
 
 ### NPP presents its 7-point statement on Easter attack to Cardinal
@@ -73,6 +91,8 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 ◼️
 
 [Data](articles/7b6b8211.json)
+
+[Extended Data](ext_articles/7b6b8211.ext.json)
 
 ---
 
@@ -116,17 +136,23 @@ Accordingly, the Central Bank of Sri Lanka said the sales price of a US dollar w
 
 ---
 
-### වොෂින්ටනයේ අපේ අවුරුදු
+### Our years in Washington
 
 *2024-04-18 14:09:25* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටනයේ-අපේ-අවුරුදු/11-409148) · `si`
 
-ඇමෙරිකාවේ වොෂින්ටන්  හිදී මෙවර අති උත්කර්ශවත් බක්මහ උළෙල 02 ක් පැවැත්වින. "බෙතෙස්ඩා අපි" සංවිධානය කල උළෙල ගෙදර්ස්බර්ග් හිදීත් "ශ්‍රී ලංකා එසෝෂියේෂන් වොෂින්ටන් DC" උත්සවය ඩමස්කස් හිදීත් පැවැත්වින. ඒවා හෙළ සිරිත් විරිත් හා ලාංකීය සංස්කෘතියට  අනුගතව සංවිධානය කොට තිබිණ. මෙම අවස්ථා දෙකට    ලාංකිකයන් ඇමෙරිකානුවන් හා සෙසු ජාතීන් 1000 කට අධික  පිරිසක් එක්වූහ.
+In Washington, USA, Sri Lanka's Eschoshinton DC events were held in Damascus, showcasing Sri Lankan culture and attracting over 1000 attendees. Ambassador Mahinda Samarasinghe and families participated, along with various foods and dances. The events aimed to educate youth and were sponsored by companies and organizations.
 
-උත්සව දෙකටම වොෂින්ටන් තානාපති මහින්ද සමරසිංහ මහතා ඇතුළු තානාපති නිළධාරීන් හා එම පවුල් වල අය ද එක්වූහ. කඔ ඇදීම ,කොට්ට පොර,කණාමුට්ටි බිදීම, පොල්ගෑම,බැලුන් පිපිරවීම, දෙහි ගෙඩිය හැන්දේ තබා යාම, පොල් ගෑම, රබන් ගැසීම, බෙර වාදන, සිංහල දෙමළ නර්ථන, සැගවුණ අමුත්තා ,ජනකවි හා ජනගී ගායනා, අවුරුදු කුමරා හා කුමරිය තේරීම ඇතුළු බාල මහළු කාටත් සහභාගී විය හැකි අංග රැසකින් සමන්විත වූහ. ඊට ලාංකිකයන් සමග සෙසු ජාතීන්ද එක්වූ අතර කැවුම් කිරිබත් කොකිස් මුං අළුවා පැණි වළලු දොදොල් කොත්තු ආප්ප ඉදිආප්ප තේ කෝපි ඇතුළු ලාංකිකයන්ට හුරුපුරුදු ආහාර පාන සපයා තිබිණ.
+🟩
+
+In Washington, USA, two tenses were held this year. Sri Lanka's Eschoshinton DC "Washington DC" was held in Damascus. They were organized in harmony with Hela Customs and Sri Lankan culture. More than 1000 Americans and other nations were also present at these two cases.
+
+Ambassador of Washington Mahinda Samarasinghe and other families were also present at both festivals. Kumbling, Pilgrims, Konmutttti, Dining, Coconut, Sinhala Dance, Drainage, Sinhala and JanakaConsisted of a number of participants. The other nations were joined the Sri Lankans and catering Kokis Malaysu, Kokis Malaysu and Honey Baule Baths, Dodol Koti Kotappu Bawn, Fast Food and Fast Food for Sri Lankans.
 
 ...
 
 [Data](articles/d0f0d078.json)
+
+[Extended Data](ext_articles/d0f0d078.ext.json)
 
 ---
 
@@ -2227,25 +2253,5 @@ Since 2019, he headed the pioneering Clinical Research Company, RemediumOne Ltd 
 [Data](articles/c1e60879.json)
 
 [Extended Data](ext_articles/c1e60879.ext.json)
-
----
-
-### Concordia Estate achieves all-time record price
-
-*2024-04-18 01:30:21* · [`dailyftlk`](https://www.ft.lk/business/Concordia-Estate-achieves-all-time-record-price/34-760748) · `en`
-
-Concordia Estate, under the selling mark ‘Kenmare’, achieved an all-time record price of Rs. 1,800 per kg for an OP grade in the Nuwara Eliya category at the weekly online tea auctions.
-
-This Estate is situated in Kandapola, Nuwara Eliya at an elevation of 1,932 metres above sea level. Concordia Estate carries out an Orthodox Leafy manufacture, which has a distinctive Nuwara Eliya character. This estate is Rainforest Alliance certified.
-
-Concordia Estate is managed by Udapussellawa Plantations PLC, an associate of Browns Power Holdings Ltd., under the stewardship of Senior Manager Lasantha Samarakoon.
-
-This line of tea was sold and marketed by Forbes & Walker Tea Brokers Ltd.
-
-◼️
-
-[Data](articles/6f23de8b.json)
-
-[Extended Data](ext_articles/6f23de8b.ext.json)
 
 ---

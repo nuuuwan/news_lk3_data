@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 19:34:18**
+As of **2024-04-18 19:51:42**
 
 ## Newspaper Stats
 
-*Scraped **19,606** Articles*
+*Scraped **19,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,635
+adalk | 1,636
 tamilmirrorlk | 2,281
-adaderanalk | 2,352
+adaderanalk | 2,353
 virakesarilk | 2,933
 dailymirrorlk | 3,025
 adaderanasinhalalk | 3,189
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,603 (100.0%) of 19,606 articles have been extended.
+19,606 (100.0%) of 19,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### President pledged to nurture budding entrepreneurs through regional youth centres
+
+*2024-04-18 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98710/president-pledged-to-nurture-budding-entrepreneurs-through-regional-youth-centres) · `en`
+
+President Ranil Wickremesinghe expressed his firm conviction in his ability to shape the Sri Lanka that the nation’s youth envision. Embracing the daunting task of revitalizing Sri Lanka’s faltering economy, which many deemed challenging, the President underscored his success in stabilizing the nation’s economic trajectory within a mere two years, the President’s Media Division (PMD) reported.
+
+He emphasized that unity was the sole requisite for propelling the country towards progress.
+
+Addressing a gathering of young Members of Parliament and emerging political figures from the Nuwara Eliya district at the Nuwara Eliya Presidential Palace today (18), President Ranil Wickremesinghe reiterated his commitment to fostering the region’s development into a premier tourist destination.
+
+...
+
+[Data](articles/6cf63330.json)
+
+---
 
 ### Import of human immunoglobulin, medical supplies without competitive bids challenged before court
 
@@ -45,6 +61,8 @@ The Cabinet of Ministers, the incumbent and former higher officials in the healt
 ...
 
 [Data](articles/29eb4bc8.json)
+
+[Extended Data](ext_articles/29eb4bc8.ext.json)
 
 ---
 
@@ -76,21 +94,27 @@ South Africa women and South Africa celebrations were first bowled out for 301 a
 
 ---
 
-### உண்ணாவிரதமிருந்து உயிர்நீர்த்த தியாகதீபம் அன்னை பூபதியின் உருவப்படத்திற்கு களுவாஞ்சிகுடியில் மக்கள் சுடர் ஏற்றி மலர் தூவி அஞ்சலி
+### Flower flame and floral tribute to people in Kaluwanchikudi
 
 *2024-04-18 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181405) · `ta`
 
-தமிழ் மக்களின் உரிமைகளை வலியுறுத்தி மட்டக்களப்பில்; உண்ணாவிரதமிருந்து உயிர்நீத்த தியாகதீபம் அன்னை பூபதியின் 36வது ஆண்டு நினைவேந்தலை முன்னிட்டு அவரது உருவப்படம் தாங்கிய ஊர்தி வியாழக்கிழமை (18) மாலை மட்டக்களப்பு களுவாஞ்சிகுடி நகரை வந்தடைந்தது. இந்நிலையில்  உயிர்நீத்த தியாகதீபம் அன்னை பூபதியின் உருவப்படத்திற்கு அப்பகுதி மக்கள் சுடர் ஏற்றி, மலர்தூவி அஞ்சலி செலுத்தினர்.
+In Kaluwanchikudi, Batticaloa, the Tamil people honored Mother Bhupathi's portrait on the 36th anniversary of her death from a hunger strike. The event began in Jaffna and included a tribute at the Annarathu Memorial.
 
-அன்னையின் உருவப்படம் தாங்கிய ஊர்தி யாழ்ப்பாணத்திலிருந்து ஆரம்பமாகியிருந்தது. வெள்ளிக்கிழமை (19) மட்டக்களப்பில் அமைந்துள்ள அன்னாரது நினைவிடத்தில் அஞ்சலி நிகழ்வுகள் இடம்பெறவுள்ளன.
+🟩
 
-தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் ஏற்பாட்டில் இவ்வூர்தி பவனி இடம்பெற்று வருகின்றது.
+In Batticaloa, emphasizing the rights of the Tamil people;The death of his portrait on the 36th anniversary of Mother Bhupathi, who died from the hunger strike, arrived in Kaluwanchikudi, Batticaloa on Thursday evening (18) evening.. In this case, the people of the area lit the flame and paid tribute to the portrait of Mother Bhupathi.
 
-மட்டக்களப்பு நகரில் அமைந்துள்ள மாமாங்கேஸ்வரர் ஆலயத்திற்கு முன்பாக 1988 மார்ச் 19ஆம் திகதி உண்ணாவிரத போராட்டத்தை ஆரம்பித்து 1988 ஏப்ரல் 19ஆம் திகதி உயிர் துறந்திருந்தார் என்பதும் குறிப்பிடத்தக்கதாகும்.
+The mantra's portrait began from Jaffna. Anjali events will be held at the Annarathu Memorial in Batticaloa on Friday (19).
+
+This Bhavani is being organized by the Tamil National People's Front.
+
+It is also noteworthy that the hunger strike began on March 19, 1988 in front of the Mamangeeswarar Temple in Batticaloa, and died on April 19, 1988.
 
 ◼️
 
 [Data](articles/eb9b2530.json)
+
+[Extended Data](ext_articles/eb9b2530.ext.json)
 
 ---
 
@@ -151,6 +175,26 @@ Eyewitnesses claim that the incident had occurred while the student was swimming
 [Data](articles/0d8d2d29.json)
 
 [Extended Data](ext_articles/0d8d2d29.ext.json)
+
+---
+
+### යුද හමුදාවෙන් ඉවත් වෙන්න පොදු සමාකාලයක්
+
+*2024-04-18 18:07:50* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවෙන්-ඉවත්-වෙන්න-පොදු-සමාකාලයක්/11-409150) · `si`
+
+ශ්‍රී ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට වාර්ථා නොකර සිටින සාමාජිකයින් හට නීත්‍යානූකූලව සේවයෙන් ඉවත් වීමට 2024 අප්‍රේල් මස 20 වන දින සිට 2024 මැයි මස 20 වන දින දක්වා පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබේ.
+
+එම ප්‍රකාශිත පොදු සමා කාලය තුල තමන් අයත් රෙජිමේන්තු මධ්‍යස්ථාන සමග සම්බන්ධතාවයෙන් ඔවුන්ට නීත්‍යානූකූලව සේවයෙන් ඉවත් වීමට අවස්ථාව ලබාදී ඇත.
+
+2024 අප්‍රේල් මස 02 දින සහ ඊට පෙර සිට නිවාඩු නොමැතිව සේවයට වාර්ථා නොකල නිලධාරි හා සෙසුනිළයින් පහත සඳහන් ලිපි ලේඛණ සමගින්  තමන් අයත් රෙජිමේන්තු මධ්‍යස්ථානය වෙත පමණක් රපෝර්තු කල යුතු අතර, එහිදි අස්කිරීමේ මූලික පාලන කටයුතු පැය 72 ක කාලසීමාවක් තුල සිදුකර යුද්ධ හමුදා සේවයෙන් නීත්‍යානූකූලව ඉවත් වීම සඳහා කටයුතු සලසා දී ඇත.
+
+අ. යුද්ධ හමුදා හැඳුනුම්පත (යුද්ධ හමුදා හැඳුනුම්පත අස්ථානගතව ඇත්නම් මෑතකදී ලබාගන්නා ලද පොලිස් වාර්ථාවක පිටපතක්).
+
+ඈ. අවසන් වරට වැටුප් හා දීමනා ලබාගන්නා ලද වැටුප් පත්‍රිකාවේ ඡායාස්ථ පිටපතක්
+
+...
+
+[Data](articles/1407ba8e.json)
 
 ---
 
@@ -378,23 +422,33 @@ South Asia and Africa are listed as regions that will experience the strongest i
 
 ---
 
-### யாழில் நள்ளிரவில் சுண்ணகற்கள் அகழ்ந்து எடுக்கப்பட்டு திருகோணமலைக்கு கடத்தப்படுகிறதா ? சிறிதரன் ஒருங்கிணைப்பு குழு கூட்டத்தில் கேள்வி
+### Is the limestone excavated at midnight in Jaffna and smuggled to Trincomalee?Question
 
 *2024-04-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181389) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து நள்ளிரவு வேளை சுண்ணகற்கள் அகழ்ந்து எடுக்கப்பட்டு திருகோணமலைக்கு கொண்டு செல்லப்படுவதாக மக்கள் என்னிடம் முறையிட்டுள்ளார்கள் இது தொடர்பில் மக்களால் முறையிடப்பட்ட இடங்களை பார்வையிட்டபோது அங்கு 20 முதல் 25 அடிவரை அகழப்பட்டு இருக்கிறது.
+Limestone excavated at midnight in Jaffna is smuggled to Trincomalee, with military and police permission. The Governor of Northern Province and a minister are involved, ordering military to report on heavy vehicles at night.
 
-அவ்வாறு  அகழப்பட்ட சுண்ணகற்கள் பிறிதொரு இடத்திற்கு கொண்டு சென்று சேர்த்த பின்னர் நள்ளிரவு வேளை  திருகோணமலைக்கு கொண்டுசெல்லப்படுகிறது.
+🟩
 
-இந்த செயற்பாட்டிற்கு யார் அனுமதி வழங்கியது?   கற்களை அகழ்வதற்கு எந்த திணைக்களம் பொறுப்பு கூறுவது இராணுவம், பொலிஸாரின் அனுமதியுடன் இது நடைபொறுகிறதா? யார் தான்  பொறுப்பு கூறுவது?
+People have appealed to me that the limestone has been excavated from Jaffna at midnight and taken to Trincomalee.
 
-12,14 கன்ரர், டிப்பர் வாகனங்களில்  கற்களை கொண்டு செல்கிறார்கள்.  நள்ளிரவில் இந்த வேலைகளை செய்வதால் இரவு கடமையில் நிற்கும் பொலிஸார் இராணுவத்தினர் இதனை கொண்டு செல்வதற்கு அனுமதி வழங்கிறார்களா?
+The excavated limestone is taken to another place and then taken to Trincomalee at midnight.
 
-ஒருங்கிணைப்பு   குழு கூட்டத்தில் வடக்கு மாகாண ஆளுநர் இணைத்தலைவர்களில் ஒருவராகிருக்கிறார்.  அமைச்சரும் இணைத்தலைவர்களில் ஒருவராக இருக்கிறார்.
+Who gave permission for this process?Which department is responsible for the excavation of stones, with the permission of the military and the police?Who is responsible?
 
-...
+12,14 Constor, Tipper vehicles carry stones.Do the police stand on duty at night because they do these work at midnight?
+
+The Governor of the Northern Province is one of the co -chairs at the Coordinating Committee meeting.The minister is also one of the co -chairs.
+
+So by whom this activity is done on this issue. He said appropriate action should be taken to stop this.
+
+The Governor of the Northern Province then ordered the military to submit a report to the military and submit a report on the heavy vehicle and tipper vehicles on the road while on duty at midnight.
+
+◼️
 
 [Data](articles/cc34c9d9.json)
+
+[Extended Data](ext_articles/cc34c9d9.ext.json)
 
 ---
 
@@ -2239,49 +2293,5 @@ The action was led by the Superintendent of Police Herath
 [Data](articles/bb7f3f6f.json)
 
 [Extended Data](ext_articles/bb7f3f6f.ext.json)
-
----
-
-### Injunction issued preventing Maithripala from functioning as SLFP chairman extended
-
-*2024-04-18 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98697/injunction-issued-preventing-maithripala-from-functioning-as-slfp-chairman-extended) · `en`
-
-The Colombo District Court ordered the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) to be extended until May 09.
-
-This order was issued when a case filed by former President Chandrika Bandaranaike Kumaratunga was taken up before the court today (18).
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
-
-Earlier in March, former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
-
-...
-
-[Data](articles/65a5af4b.json)
-
-[Extended Data](ext_articles/65a5af4b.ext.json)
-
----
-
-### Sri Lanka electricity sector reforms gazetted
-
-*2024-04-18 10:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-sector-reforms-gazetted-159000/) · `en`
-
-ECONOMYNEXT – The proposed electricity sector reforms was published in the Gazette yesterday as the Sri Lanka Electricity Bill, and will be presented to the Parliament in the next sitting week, Power and Energy Minister Kanchana Wijesekera said.
-
-“The Public will have two weeks from the day of presenting the Bill to the Parliament to challenge its legality in the Supreme Court,” Wijesekera said on X (twitter).
-
-Amendments suggested by the stakeholders in January have been drafted in to the revised Bill, the minister said.
-
-Sri Lanka’s Cabinet approved a proposal to restructure the CEB; under the plan the CEB will be split into eight separate companies.
-
-The CEB consists of around 26,000 workers when the enterprise needs only around 50 percent of it, Wijesekera has said earlier. A voluntary retirement plan also will be offered.
-
-...
-
-[Data](articles/3ee07c78.json)
-
-[Extended Data](ext_articles/3ee07c78.ext.json)
 
 ---

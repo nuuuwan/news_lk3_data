@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 08:51:31**
+As of **2024-04-18 09:03:41**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,479 (100.0%) of 19,480 articles have been extended.
+19,480 (100.0%) of 19,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### නිවසක් තුළ කාන්තා මළ සිරුරු දෙකක්
+### Two female bodies in a house
 
 *2024-04-18 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195746) · `si`
 
-කළුතර දකුණ පොලිස් වසමේ ඉසුරු උයන ප්‍රදේශයේ නිවසක් තුළ තිබී සැකකටයුතු ලෙස මියගිය කාන්තා මළ සිරුරු දෙකක් සොයාගෙන තිබේ.
+In Kalutara South, two female bodies were found in a house. Police were alerted by a heavy stallot near the house. The deceased, identified as two and 79-year-old women, will be investigated by magistrates tomorrow.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (17) රාත්‍රී කාලයේ දී නිවසක පදිංචි සිටි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට නොමැති බවත් එම නිවස ආසන්නයෙන් දැඩි දුර්ගන්ධයක් හමන බවටත් 119 තොරතුරු මධ්‍යස්ථානයෙන් කළුතර දකුණ පොලිස් ස්ථානයට පණිවුඩයක් ලැබී තිබිණි.
+🟩
 
-ඒ අනුව පොලිස් නිලධාරීන් එම ස්ථානයට ගොස් පරීක්ෂා කිරීමේදී නිවසේ දොරගුළු දමා තිබී ඇත.
+Two female bodies have been found in a house in the South Taokana area in Kalutara South Police Division.
 
-පසුව ජනේලයකින් බැලීමේ දී කාන්තාවන් දෙදෙනෙකු බිම වැටී මියගොස් සිටින බවට නිරීක්ෂණය වී ඇත.
+The police media division said that two women were in a few days in a house yesterday (17) and had a heavy stallot near the house and received a message from the South South South Police.
 
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 65ක් හා 79ක් වූ කාන්තාවන් දෙදෙනෙකු බවට ග්‍රාම නිලධාරිවරයාගෙන් ලබාගත් තොරතුරු මත අනාවරණය වී තිබේ.
+Accordingly, the police officers had gone to the scene at the time.
 
-මෘත ශරීර පිළිබඳ මහෙස්ත්‍රාත් පරීක්ෂණ හෙට (18) සිදුකිරීමට නියමිතව ඇත.
+Later, two women were observed that two women died in the ground.
+
+The deceased has been identified as two and 79 women from the Grama Niladhari.
+
+The body of magistrates are to investigate tomorrow (18).
 
 ◼️
 
 [Data](articles/fa94e0de.json)
+
+[Extended Data](ext_articles/fa94e0de.ext.json)
 
 ---
 

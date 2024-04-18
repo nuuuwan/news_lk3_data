@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 09:18:26**
+As of **2024-04-18 09:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,485** Articles*
+*Scraped **19,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
 adalk | 1,622
-tamilmirrorlk | 2,269
+tamilmirrorlk | 2,270
 adaderanalk | 2,335
 virakesarilk | 2,904
 dailymirrorlk | 3,010
-adaderanasinhalalk | 3,171
+adaderanasinhalalk | 3,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,480 (100.0%) of 19,485 articles have been extended.
+19,485 (100.0%) of 19,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### இன்று மழை அல்லது இடியுடன் கூடிய மழை
+
+*2024-04-18 09:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-அல்லது-இடியுடன்-கூடிய-மழை/175-336063) · `ta`
+
+மேல், சப்ரகமுவ மாகாணங்கள் மற்றும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன் வடமத்திய, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் மன்னார் மாவட்டத்திலும் மாலை அல்லது இரவில் ஒரு சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என அந்த திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டு தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை நிலவும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/852f270a.json)
+
+---
+
+### විදුලිබල ප්‍රතිසංස්කරණ පනත් කෙටුම්පත ගැසට් කෙරේ
+
+*2024-04-18 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195747) · `si`
+
+විදුලිබල ප්‍රතිසංස්කරණ සංශෝධිත පනත් කෙටුම්පතට අදාළ ගැසට් පත්‍රය නිකුත් කර තිබේ.
+
+x ගිණුමේ සටහනක් තබමින් විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා විසින් ඒ බව සඳහන් කර ඇත.
+
+එය ඉදිරි සතිය තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව ද අමාත්‍යවරයා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/3dc2a72d.json)
+
+---
 
 ### Proposed electricity sector reforms gazetted
 
@@ -48,23 +82,31 @@ Accordingly, the public will have two weeks from the day the Bill is presented t
 
 [Data](articles/8cc378ff.json)
 
+[Extended Data](ext_articles/8cc378ff.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் கசிப்பினை பொதி செய்துகொண்டிருந்த பெண் கைது!
+### Woman arrested in Jaffna
 
 *2024-04-18 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181343) · `ta`
 
-யாழ்ப்பாணத்தில் சூட்சுமமான முறையில் சட்டவிரோத மதுபானமான கசிப்பினை பொதி செய்து கொண்டிருந்த பெண்ணொருவர் நேற்று புதன்கிழமை (17) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A 53-year-old woman from Jaffna was arrested for illegal liquor leakage, with police seizing 10,000 milliliters of leaked liquor and packing equipment.
 
-சுன்னாகம் தெற்கு, சுன்னாகம் பூதராயர் கோயிலடி பகுதியைச் சேர்ந்த 53 வயதுடைய பெண் ஒருவரே  இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சுன்னாகம் பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி தலைமையிலான குழுவினரின் சுற்றிவளைப்பில் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+A woman was arrested by police on Wednesday (17) for allegedly committing an illegal liquor leakage in Jaffna.
 
-இதன்போது சந்தேகநபரிடமிருந்து பத்தாயிரம் மில்லிலீட்டர் கசிப்பும் அதனை பொதி செய்ய பயன்படுத்திய உபகரணங்களும் கைப்பற்றப்பட்டுள்ளன.
+A 53 -year -old woman from Chunnakam South, Chunnakam Pootarayar Kovili area has been arrested.
+
+The arrest was carried out in the raid of a team headed by the officer in charge of the Chunnakam Police Station.
+
+The suspect has seized ten thousand milliliters of leaks and equipment used to pack it.
 
 ◼️
 
 [Data](articles/c49c1b01.json)
+
+[Extended Data](ext_articles/c49c1b01.ext.json)
 
 ---
 
@@ -370,19 +412,25 @@ Showers or thundershowers will occur at several places in the Western and Sabara
 
 ---
 
-### கொழும்பில் நாளை ஆர்ப்பாட்டம்
+### Demonstration in Colombo tomorrow
 
 *2024-04-18 06:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-ஆர்ப்பாட்டம்/175-336062) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளாந்த அடிப்படை சம்பளமாக  1,700 ரூபாவினை வழங்குமாறு வலியுறுத்தி, இலங்கைத் தொழிலாளர் காங்கிரஸின் சார்பில் கொழும்பில் மாபெரும் எதிர்ப்பு ஆர்ப்பாட்டமொன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
+"Tomorrow's Colombo protest by the Ceylon Workers Congress demands a 1,700 rupees daily wage for plantation workers, protesting against the boycott of their salary hike and the Employers Federation's lack of action. The event starts at 9 am at the Colombo-Fort Railway Station."
 
-தோட்டத் தொழிலாளர்களின் சம்பள உயர்வு பேச்சுவார்த்தையை முதலாளிமார் சம்மேளனம் புறக்கணித்தமை மற்றும் சம்பள உயர்வு வழங்காமை என்பவற்றுக்கு எதிர்ப்புத் தெரிவிக்கும் வகையில் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளதாக இலங்கைத் தொழிலாளர் காங்கிரஸின் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-கொழும்பு - கோட்டை ரயில்  நிலையத்துக்கு முன்பாக நாளை  வெள்ளிக்கிழமை காலை 9 மணி முதல் ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+A massive protest has been organized in Colombo on behalf of the Ceylon Workers Congress, urging plantation workers to pay 1,700 rupees as a daily basis.
+
+The Ceylon Workers Congress Media Unit said that the demonstration would be held in protest of the boycott of the plantation workers' salary hike and the boycott of the Employers Federation and the lack of pay hike.
+
+It has been announced that the demonstration will be held from 9 am tomorrow in front of the Colombo -Fort Railway Station.
 
 ◼️
 
 [Data](articles/5c268a6f.json)
+
+[Extended Data](ext_articles/5c268a6f.ext.json)
 
 ---
 
@@ -469,6 +517,8 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 ◼️
 
 [Data](articles/e9455531.json)
+
+[Extended Data](ext_articles/e9455531.ext.json)
 
 ---
 
@@ -1792,17 +1842,25 @@ It was said that this situation could be held until the 25th of this month, he s
 
 ---
 
-### ලංවිම අනුමත නොකළ රු.මි. 417ක දීමනා ගෙවලා
+### CEB approved Rs. 417 offered allowances
 
 *2024-04-17 19:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-අනුමත-නොකළ-රු-මි--417ක-දීමනා-ගෙවලා/11-409131) · `si`
 
-ලංකා විදුලි බල මණ්ඩලයේ සේවකයන් සඳහා අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලද දීමනා ලැයිස්තුවට ඇතුළත් කර නොතිබූ ඉන්ජිනේරු දීමනා , දිරි දීමනා, තාවකාලික දීමනා, සුදුසුකම් පදනම් කර ගත් දීමනා, ඇතුළු දීමනා සඳහා 2023 වර්ෂයේ ජනවාරි 01 වන දා සිට දෙසැම්බර් 31 දක්වා රුපියල් මිලියන 417.65ක  මුදලක් වැය කොට ඇති බව ජාතික විගණන කාර්යාලය මගින් අප්‍රේල් මස 12 වැනිදා නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+The National Audit Office approved Rs. 417 million for Ceylon Electricity (CEB) allowances, incentives, and temporary allowances, paid to staff for services including virus and generating plan, system control, and detection allowance. In July 2022, Rs. 3.65 million was paid to 136 officers, and 25 employees were introduced to the Cabinet decision on April 1, 2008. CEB limited staff allowance to 65% of July on July 27, 2022.
 
-වී.එච්.සහ එස්. දිරි දීමනාව කාර්ය මණ්ඩල සම්ප්‍රේක්ෂණ සහ ජනන සැලසුම, පද්ධති පාලන, දෙමළ භාෂා වෙනත් දීමනා මණ්ඩලයේ අදාළ සේවකයන් සඳහා ගෙවා තිබූ බව ද එම විගණන වාර්තාවේ සඳහන් වේ. 2022 වර්ෂයේ ජූලි මස 01 වන දා සිට (එම මාසය සඳහා පමණක්) වෘත්තීය දීමනාවට හිමිකම් කියන නිලධාරීන් 487 දෙනෙකුට රඳවා ගැනීමේ දීමනාව වශයෙන් රුපියල් මිලියන 11.99 ක මුදලක් ගෙවා තිබේ.
+🟩
 
-...
+417.65 million to the Ceylon Electricity Allowances, Incentives, Temporary Allowances, Eligible Allowances, Eligibility: Rs.The National Audit Office has been audited by the National Audit Office on April 12.
+
+VHS 'and S. The audit report also stated that the incentive plan was paid to the staff's revirus and generating plan, system control, and other services.. The detection allowance has been paid to Rs.
+
+In the month of July 2022, a grant of 136 officers had paid Rs. 3.65 million.The audit report reveals that 25 employees will be paid to employees who are introduced to the Cabinet decision on 1 April 2008.. The CEB's management has stated that the CEB has decided to limit the staff allowance to 65% of July on July 27, 2022.
+
+◼️
 
 [Data](articles/d881636d.json)
+
+[Extended Data](ext_articles/d881636d.ext.json)
 
 ---
 
@@ -2129,45 +2187,5 @@ Accordingly, the Criminal Investigation Department has informed the CID at 10 am
 [Data](articles/6e5fc7d9.json)
 
 [Extended Data](ext_articles/6e5fc7d9.ext.json)
-
----
-
-### Sri Lanka rupee weakens at 301.00/302.05 to the US dollar
-
-*2024-04-17 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weakens-at-301-00-302-05-to-the-us-dollar-158915/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.00/302.05 to the US dollar in the spot forex market on Tuesday, from 299.00/10 on Tuesday, dealers said. Bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/35 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent up from 11.95/12.00 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/20 percent down from 12.10/15 percent.
-
-A bond maturing on 15.03.2031 closed at 12.30/50 percent. (Colombo/Apr17/2024)
-
-◼️
-
-[Data](articles/165499f4.json)
-
-[Extended Data](ext_articles/165499f4.ext.json)
-
----
-
-### Temperatures to reach ‘Caution’ level in 7 provinces tomorrow
-
-*2024-04-17 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98687/temperatures-to-reach-caution-level-in-7-provinces-tomorrow) · `en`
-
-The Department of Meteorology has issued a weather alert for extreme heat in parts of the island tomorrow (18).
-
-Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution’ level at some places in the Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and Monaragala District.
-
-In its advisory, the department cautioned that heat cramps and heat exhaustion; continued activity could result in heatstroke.
-
-◼️
-
-[Data](articles/ed5c2019.json)
-
-[Extended Data](ext_articles/ed5c2019.ext.json)
 
 ---

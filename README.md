@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 13:18:38**
+As of **2024-04-18 13:34:07**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,535 (100.0%) of 19,538 articles have been extended.
+19,538 (100.0%) of 19,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### IMF වෙතින් තවත් සහතිකයක්
+### Another certificate from the IMF
 
 *2024-04-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195756) · `si`
 
-ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන් සමග පැවැත්වෙන සාකච්ඡා සඳහා ශ්‍රී ලංකාවට උදව් කිරීමට සුදානම් බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+The IMF offers Sri Lanka assistance for international sovereignty bond discussions.
+
+🟩
+
+The International Monetary Fund says it is ready to help Sri Lanka for discussions with international sovereignty bonds.
 
 ◼️
 
 [Data](articles/5547d315.json)
+
+[Extended Data](ext_articles/5547d315.ext.json)
 
 ---
 
@@ -66,31 +72,43 @@ All Officers and Other Ranks who have been AWOL must obtain clearance after repo
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181366) · `ta`
 
-இன்று வியாழக்கிழமை (ஏப்ரல் 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 296.9030 ஆகவும் விற்பனை விலை ரூபா 306.4145 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's exchange rate: US $296.9030 to Rs 306.4145.
+
+🟩
+
+The US $ 296.9030 and the sales price were Rs 306.4145 based on the Central Bank's currency exchange rate today (April 18).
 
 ◼️
 
 [Data](articles/bfdc8f1a.json)
 
+[Extended Data](ext_articles/bfdc8f1a.ext.json)
+
 ---
 
-### யாழ்.கட்டைக்காட்டில் சட்டவிரோத மீன்பிடியில் ஈடுபட்ட படகு கைப்பற்றல்
+### Boat seizure in illegal fishing at Jaffna
 
 *2024-04-18 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181355) · `ta`
 
-யாழ்ப்பாணம் வடமராட்சி கிழக்கு கட்டைக்காடு கடற்பகுதியில் வெற்றிலைக்கேணி கடற்படையினர் நேற்று புதன்கிழமை (17) மேற்கொண்ட  திடீர் சுற்றிவளைப்பில் சட்டவிரோத மீன்பிடியில் ஈடுபட்ட  படகு ஒன்று  கைப்பற்றப்பட்டுள்ளது.
+The Vidyalayakkunni Navy seized a boat involved in illegal fishing on Wednesday, arresting a person using unauthorized nets. The arrested person, from Kattakkad, was handed over to the Jaffna Fisheries Inspector for legal action.
 
-மின் ஒளி பாய்ச்சி அனுமதியற்ற வலைகளை  பயன்படுத்தி மீன்பிடியில் ஈடுபட்டிருந்த போதே  குறித்த படகுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட நபர் கட்டைக்காட்டை சேர்ந்தவர் என்பதோடு உடமைகளுடன் மேலதிக சட்ட நடவடிக்கைக்காக யாழ்ப்பாணம் கடற்றொழில்  பரிசோதகரிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை தகவல்கள் தெரிவிக்கின்றன.
+A boat involved in illegal fishing has been seized in a sudden raid conducted by the Vidyalayakkunni Navy on Wednesday (17).
+
+A person has been arrested with a boat while fishing using unauthorized nets.
+
+The Navy sources said that the arrested person belonged to the Kattakkad and handed over to the Jaffna Fisheries Inspector for further legal action.
 
 ◼️
 
 [Data](articles/248591fd.json)
+
+[Extended Data](ext_articles/248591fd.ext.json)
 
 ---
 

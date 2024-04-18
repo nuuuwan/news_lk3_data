@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 18:52:06**
+As of **2024-04-18 19:03:28**
 
 ## Newspaper Stats
 
-*Scraped **19,600** Articles*
+*Scraped **19,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ dailyftlk | 1,071
 economynextcom | 1,118
 adalk | 1,635
 tamilmirrorlk | 2,281
-adaderanalk | 2,351
+adaderanalk | 2,352
 virakesarilk | 2,931
-dailymirrorlk | 3,023
-adaderanasinhalalk | 3,188
+dailymirrorlk | 3,024
+adaderanasinhalalk | 3,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,600 (100.0%) of 19,600 articles have been extended.
+19,600 (100.0%) of 19,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### ජනපති චමරිට සුබ පතයි
+
+*2024-04-18 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195764) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු හට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය සුබපැතුම් එක්කර තිබේ.
+
+ජනාධිපති මාධ්‍ය ඒකකය පවසන්නේ දකුණු අප්‍රිකාවට එරෙහිව ඊයේ ලද විශිෂ්ට ජයග්‍රහණය සමග ජනාධිපතිවරයා පෞද්ගලිකව චමරි අතපත්තු වෙත සුබපැතුම් එක්කළ බවය.
+
+දකුණු අප්‍රිකාව සමඟ පැවති අවසන් එක්දින තරගයේදී කාන්තා ක්‍රිකට් ඉතිහාසය රන් අකුරින් සටහන් කරන්නට ශ්‍රී ලංකා කාන්තා කණ්ඩායම ඊයේ (17) සමත්වුණි.
+
+ඒ අවසන් එක්දින තරගයේ හිමිවූ ලකුණු 302ක ජයග්‍රාහි ඉලක්කය හඹාගොස් ජය ගැනීමත් සමගය.
+
+ඒ අතර එම තරගයේදී ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නොදැවී ලකුණු 195ක් වාර්තා කිරීමද විශේෂත්වයකි.
+
+දකුණු අප්‍රිකා කාන්තා කණ්ඩායම සහ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අතර පැවති අවසන් එක්දින ක්‍රිකට් තරගයේ පළමුව පන්දුවට පහර දුන් දකුණු අප්‍රිකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේදී කඩුලු 5ක් දැවි රැස්කළ ලකුණු සංඛ්‍යාව 301කි.
+
+◼️
+
+[Data](articles/17eaaf39.json)
+
+---
+
+### Sri Lanka man wanted for 1991 murder in Romania captured in Germany
+
+*2024-04-18 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98709/sri-lanka-man-wanted-for-1991-murder-in-romania-captured-in-germany) · `en`
+
+A 53-year-old man from Sri Lanka, internationally wanted for a murder committed in Bucharest in 1991 and arrested in Germany at the beginning of this year, will be brought to Romania on April 23 to serve a 19-year prison sentence.
+
+The man will be brought to the country by an escort of the Romanian Police.
+
+“In December 1991, the man killed a foreign citizen, after which he tied him up and wrapped him in a carpet from his residence in Bucharest and transported him to the Crângași neighborhood, throwing him into Lake Morii. For this crime, he was sentenced to 19 years in prison,” the police press release states.
+
+Receiving reports that the man was in Germany, the Romanian Police cooperated with its German counterpart and had the man arrested in Moers, Germany, on January 3.
+
+After being brought back to the country, the individual will be incarcerated to serve the sentence.
+
+◼️
+
+[Data](articles/7247d8e8.json)
+
+---
+
+### SL Army issues general amnesty to absentees
+
+*2024-04-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Army-issues-general-amnesty-to-absentees/108-280918) · `en`
+
+April 18 - The Ministry of Defence has directed the Sri Lanka Army to implement a month-long General Amnesty starting from April 20 to May 20, 2024 enabling all Army absentees to receive an official discharge from their service.
+
+The General Amnesty, applicable to all Officers and Other Ranks who have been Absent Without Leave (AWOL) before April 2, 2024, presents a structured process for legal discharge. Individuals falling under this category are required to report to their respective Regimental Centres during the specified period.
+
+Upon reporting, they must provide essential documents including their Army ID (or a copy of a recent police complaint report if their Army ID is not available), a copy of their national identity card or driving license, a photocopy of the bank account book reflecting salary and allowances, and if available, a photocopy of the last pay slip.
+
+...
+
+[Data](articles/5312b9a8.json)
+
+---
 
 ### Teenager reported missing while bathing in Castlereagh Reservoir
 
@@ -112,7 +170,7 @@ The police have commenced investigations into the child, actually stolen, and wh
 
 ---
 
-### Sri Lankans trapped Myanmar forced labour cyberscam come home
+### Sri Lankans trapped in Myanmar forced labour cyberscam come home
 
 *2024-04-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankans-trapped-myanmar-forced-labour-cyberscam-come-home-159163/) · `en`
 
@@ -2225,73 +2283,5 @@ Some of the injured Israeli personnel states that the condition is serious.
 [Data](articles/e5bfac7a.json)
 
 [Extended Data](ext_articles/e5bfac7a.ext.json)
-
----
-
-### Baby delivery at sea
-
-*2024-04-18 10:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடலில்-குழந்தை-பிரசவம்/72-336066) · `ta`
-
-A woman from Nainadivu delivered a baby at sea, requiring transfer to Jaffna Bodhana Hospital. Due to an ambulance boat malfunction, the journey was made on a public boat, during which the mother and child were safely delivered at Punguduthivu Hospital.
-
-🟩
-
-A woman from Nainadivu has been admitted to the Nainadivu Divisional Hospital following a sudden delivery of childbirth on Wednesday (17).
-
-From there, the doctor recommended that the Jaffna Bodhana Hospital be transferred for further treatment. After that, the ambulance boat is not currently working to take the teaching hospital and the public has taken the traffic boat to the indicator.
-
-As the boat was traveling in the sea, the men who were on the top floor under the boat were sent to the top floor after the childbirth increased.
-
-When the boat arrived at the landing department, the mother and Chee were taken to the Jaffna Bodhana Hospital in the Punguduthivu Hospital.
-
-◼️
-
-[Data](articles/56b40416.json)
-
-[Extended Data](ext_articles/56b40416.ext.json)
-
----
-
-### Enjoining order against Maithri is extended
-
-*2024-04-18 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195749) · `si`
-
-The Colombo District Court extended an injunction order against Maithri, filed by the Sri Lanka Freedom Party (SLFP) Chairman, in response to a complaint by former President Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-The Colombo District Court today (18) ordered the injunction order from the Sri Lanka Freedom Party (SLFP) as the Chairman of the Sri Lanka Freedom Party (SLFP).
-
-The District Court issued a complaint filed by former President Chandrika Bandaranaike Kumaratunga, a former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/421c7517.json)
-
-[Extended Data](ext_articles/421c7517.ext.json)
-
----
-
-### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
-
-*2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-visa-fees-for-saarc-citizens-up-167-pct-with-vfs-global-levy-158985/) · `en`
-
-ECONOMYNEXT – Tourists from neighboring South Asian countries appear to the hardest hit with a shift of the country’s electronic travel authorization system to IVS Global -VFS Global, a private company.
-
-Sri Lanka only charged 20 dollars from a SAARC visitor up to the shift to VFS Global.
-
-Based on the information disclosed online, SAARC visa fees have risen to 75 dollars with a gazetted fee going up to 35 dollars and 18.5 dollar additional fee charged by VFS Global, the private provider.
-
-Related Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
-
-Travel industry sources said they had not been consulted on the VFS Global linked cost increases and had taken up the issue with authorities and were awaiting a reply.
-
-Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of regional integration.
-
-...
-
-[Data](articles/5b4dc4e4.json)
-
-[Extended Data](ext_articles/5b4dc4e4.ext.json)
 
 ---

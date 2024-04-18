@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 11:03:37**
+As of **2024-04-18 11:18:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,499 (100.0%) of 19,501 articles have been extended.
+19,501 (100.0%) of 19,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ”சட்டமூலம் அடுத்த வாரம் சமர்ப்பிக்கப்படும்”
+### “The Bill will be submitted next week”
 
 *2024-04-18 10:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலம்-அடுத்த-வாரம்-சமர்ப்பிக்கப்படும்/175-336068) · `ta`
 
-முன்மொழியப்பட்ட மின்சாரத்துறை சீர்திருத்தங்கள் தொடர்பான வர்த்தமானி அறிவித்தல் நேற்று வெளியிடப்பட்டுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Power and Energy issued a Gazette notification for proposed power sector reforms. Minister Kanjana Wijesekera announced the bill will be tabled in Parliament next week, incorporating shareholder amendments from January. The bill will be publicly reviewed in the Supreme Court for two weeks after its parliamentary tablement.
 
-அடுத்த வாரத்தில் இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+🟩
 
-ஜனவரி மாதம் பங்குதாரர்களால் பரிந்துரைக்கப்பட்ட திருத்தங்கள் திருத்தப்பட்ட சட்டமூலத்தில் வரைவு செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+The Ministry of Power and Energy said that the Gazette notification on the proposed power sector reforms has been issued yesterday.
 
-அதன்படி, இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட நாளிலிருந்து இரண்டு வாரங்களுக்கு உயர் நீதிமன்றத்தில் அதன் சட்டபூர்வமான தன்மையை உறுதி செய்ய பொதுமக்களுக்கு வழங்கப்படும்.
+Minister Kanjana Wijesekera said that the bill will be tabled in Parliament next week.
+
+He said that the amendments recommended by the shareholders in January have been drafts in the amended Bill.
+
+Accordingly, the Bill will be given to the public to ensure its legitimate character in the Supreme Court for two weeks from the day it was tabled in Parliament.
 
 ◼️
 
 [Data](articles/70b7923c.json)
+
+[Extended Data](ext_articles/70b7923c.ext.json)
 
 ---
 
@@ -332,23 +338,29 @@ The Minister has said that it is to be produced in parliament next week.
 
 ---
 
-### පාලිත අවසන්වරට නිවසට පැමිණෙයි
+### Palitha returns to the house
 
 *2024-04-18 08:59:12* · [`adalk`](https://www.ada.lk/picture_story/පාලිත-අවසන්වරට-නිවසට-පැමිණෙයි/10-409138) · `si`
 
-විදුලි සැර වැදීමෙන් මියගිය හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතා ගේ දේහය ඊයේ (17) රාත්‍රි 10 ට පමණ මතුගම යටදොළවත්ත පිහිටි ඒ මහතාගේ නිවසට රැගෙන එන ලදී.
+Palitha Thewarapperuma's remains arrived at his Matugama home around 10 pm yesterday. A large crowd gathered to honor him, with opposition activists among them. His funeral is set for the Family Cemetery.
 
-දේහය කළුතර  නාගොඩ පිහිටී මල් ශාලාවක සිට කළුතර මතුගම මාර්ගයේ රිය පෙරහරකින් කැටුව ආ අතර මග දෙපසද ජනතාව ඒ මහතාට ගෞරව කිරීමට රැස්ව සිටියහ.
+🟩
 
-දේහය නිවසට රැගෙන එන අවස්ථාවේදී නිවසේ විශාල පිරිසක් රැස්ව සිටි අතර, ඔවුනට ඒ මහතාගේ දේහය දැකබලා ගැනීම සඳහා දැඩි වෙහෙසක් ගැනීමටද සිදුවිය.
+The remains of former Minister of State Palitha Thewarapperuma was brought to the house in Matugama, Mathadawatta, Matugama at around 10 pm yesterday (17).
 
-මධ්‍යම රාත්‍රිය වන විටත් අවමංගල්‍යය නිවසේ විශාල පිරිසක් රැස්ව සිටි අතර, පක්ෂ විපක්ෂ දේශපාලන ක්‍රියාකාරීන් ද ඒ අතර විය.
+The body came from a road in Kalutara with a flowering flower in Kalutara and the people gathered to honor him.
 
-පාලිත තෙවරප්පෙරුම මහතාගේ අවසන් කටයුතු සිකුරාදා පස්වරුවේ පවුලේ  සුසාන භූමියේදී සිදු කිරීමට නියමිතව ඇත .
+A large number of people were gathered at the time of bringing the body home, and they had to work hard to see his body.
+
+By midnight and a large number of opposition political activists were among the party.
+
+The funeral of Palitha Thevarapperuma is scheduled to take place on Family Cemetery.
 
 ◼️
 
 [Data](articles/a9ebb7cd.json)
+
+[Extended Data](ext_articles/a9ebb7cd.ext.json)
 
 ---
 

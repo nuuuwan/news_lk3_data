@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 21:03:31**
+As of **2024-04-18 21:18:18**
 
 ## Newspaper Stats
 
-*Scraped **19,619** Articles*
+*Scraped **19,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,934
-dailymirrorlk | 3,028
-adaderanasinhalalk | 3,190
+dailymirrorlk | 3,029
+adaderanasinhalalk | 3,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,617 (100.0%) of 19,619 articles have been extended.
+19,619 (100.0%) of 19,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### වඩේ වැඩේ ලෙඩේ වී කොටුවූ සැකකරු
+
+*2024-04-18 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195766) · `si`
+
+කළුතර ප්‍රදේශයේ ආපනශාලාවකදී විදේශීය ජාතිකයෙකු නොමඟ යවමින් අධික මිලකට උළුඳු වඩයක් සහ තේ කෝප්පයක් විකිණීමේ සිද්ධියට අදාළ සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සිදුවීම සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන දර්ශන පෙළක් අද දෙරණ ඊයේ රට හමුවේ අනාවරණය කළේය.
+
+ඒ අනුව අද දිනයේ මොරගල්ල සංචාරක පොලීසිය වෙත විද්‍යුත් පණිවුඩයක් මගින් ලද පැමිණිල්ලකට අනුව සිදුකළ විමර්ශනයේදී සැකකරුව මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 60 හැවිරිදි වියේ පසුවන කළුතර පළාතොට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+වැඩිදුර විමර්ශනවලදී හෙළිවී ඇත්තේ සැකකරු එම වෙළෙඳසැල අවට සිටින අයෙකු බවය.
+
+ඔහු නිරන්තරයෙන් මෙලෙස එම වෙළඳසැල වෙත පැමිණෙන විදේශිකයින් රවටා මුදල් ලබාගන්නා බවට අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරු හෙට (19) කළුතර මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+පාරිභෝගික අධිකාරියේ නිලධාරීන් සහ මොරගල්ල සංචාරක පොලීසිය පැමිණ වෙළෙඳසැල් හිමියාගෙන් මෙම සිදුවීම පිළිබඳව අද ප්‍රශ්න කර ඇති අතර ඔහුට ද එහිදී දැඩිලෙස අවවාද කර තිබුණි.
+
+◼️
+
+[Data](articles/98ef025e.json)
+
+---
+
+### CID arrests Sub Inspector, Sergeant over alleged links with drug traffickers
+
+*2024-04-18 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-Sub-Inspector-Sergeant-over-alleged-links-with-drug-traffickers/108-280923) · `en`
+
+Colombo, April 18 (Daily Mirror) - A Sub-Inspector from the Mawathagama police station and a Sergeant from the Doretiyawa police station, both found to have connections with drug traffickers, were arrested by the Criminal Investigation Department (CID) today.
+
+The arrests were made following instructions from the Inspector General of Police after revelations emerged during the interrogation of a suspect detained by the Mawathagama Police for drug trafficking.
+
+The arrested 56-year-old Sub-Inspector had been communicating via WhatsApp with an individual known as Dubai Sampath implicated in drug distribution in the Kurunegala area.
+
+Further investigations revealed that the 38-year-old Police Sergeant, stationed at the Omanthai Police Station but temporarily deployed at Doretiyawa, was also in contact with a detained drug trafficker.
+
+Police said these suspects will be detained by the CID for further questioning.
+
+◼️
+
+[Data](articles/e53b021b.json)
+
+---
 
 ### Don’t make Presidential election a regime changing poll: Vajira
 
@@ -248,19 +294,31 @@ After being brought back to the country, the individual will be incarcerated to 
 
 ---
 
-### මිහින්තලා සෑයේ තීන්ත ආලේප කිරීම මහජනතාවගේ ශ්‍රමදායකත්වයෙන්
+### Mihintale Fuzz is the labor of the public
 
 *2024-04-18 18:40:37* · [`adalk`](https://www.ada.lk/religion/මිහින්තලා-සෑයේ-තීන්ත-ආලේප-කිරීම-මහජනතාවගේ-ශ්‍රමදායකත්වයෙන්/4-409153) · `si`
 
-එල්.ටී.ටී.ඊ. ත්‍රස්තවාදී  සමයේ හා ජනතා විමුක්ති පෙරමුණු භීෂණ  සමයේදී, පොසොන් උත්සවයට  ඝාතන අනතුරු අඟවා තිබීයදී පවා පැවැත්වූ පොසොන් උත්සව වලට රාජ්‍ය අනුග්‍රහය නොලැබුණා සේ මෙවරත් ලෝකවාසී සියලු ජනතාවගේ අනුග්‍රහයෙන්  2024 පොසොන් උත්සවය සාර්ථකව පැවැත්වීමට කටයුතු කරන බව ඓතිහාසික මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණ වැවේ ධම්මරතන නා හිමිපාණන් පවසයි.
+Mihintale Fuzz, a public labor, was held amidst terrorist threats, with the LTTE and JVP involved. The event, part of the Poson Festival, was marked by the placement of the Hendent of the Supreme Roman relics in the Mihintale Maha Section. Despite the country's challenges, including the Korea epidemic, the event was significant. The government has taken steps to address criticisms of its leadership, including the renovation of Mihindu Seya and the involvement of the Abhayagiri Community Service Foundation in Mihintale's development.
 
-නායක හිමියන් මේ බව පැවසුවේ එළඹෙන පොසොන් උත්සවයට සමගාමීව බුදුරජාණන් වහන්සේගේ ඌර්ණ රෝම ධාතූන් වහන්සේලා තැන්පත් කර ඇති මිහින්තලා මහා සෑයේ තීන්ත ආලේප කිරීමේ අවස්ථාවට එක්වෙමින් අද (18දා)  අනුශාසනාවක් සිදු කරමින්ය.
+🟩
 
-"එල්.ටි.ටී. ඊ. ත්‍රස්තවාදී සමයේ පමණක් නොවේ පෙරහැර, ආලෝක පූජාව ඇතුළු පොසොන් මංගල්‍යය සිදු නොකරන ලෙසට ජනතා විමුක්ති පෙරමුණ විසින් ඝාතන අනතුරු අඟවා තිබූ කාලවලදීත් අපි සියලු අංගයන්ගෙන් යුතු පොසොන් උත්සවයන් ඓතිහාසික මිහින්තලා පුද බිමේදී පැවැත්වීමට කටයුතු කළා.ඒ නිසා  වර්තමානයේදී රාජ්‍ය අනුග්‍රහය නොලැබීම පොසොන් උත්සවය පැවැත්වීමට බාධාවක් වන්නේ නැහැ.
+the LTTE. The Historical Festival, Ven. Walawa Hangunan Nawawan, Chief Incumbent of all the Poson Festival will be successfully held in the terrorists during the terrorists and the JVP.
+
+The Leaders of the Hendent of the Supreme Roman relics were being placed in the Mihintale Maha Section of the Mihintale Maha Seya, which is placed in parallel to the Genella Maha Seya.
+
+"LBT. e. During the terrorists not only during the terrorist, the Poson festivals of all aspects of the JVP not to take the Festival of Aloka Pooja.
+
+The event was in this way as the situation in the country during the Passover attack, the situation in the country was a grateful treatment of the Korea epidemic.
+
+The Constitution of the Constitution and the Chief Minister's and the Sangha Conference - Troscape has been dismissed by the Thirteals.
+
+The government has taken measures to remove the labor contribution to criticizing the mistakes carried out by the rulers of the country.
 
 ...
 
 [Data](articles/29209f28.json)
+
+[Extended Data](ext_articles/29209f28.ext.json)
 
 ---
 
@@ -1163,6 +1221,8 @@ I was extremely sad to hear the news of Dr A. T. Ariyaratne’s passing at the r
 ...
 
 [Data](articles/e45a76f0.json)
+
+[Extended Data](ext_articles/e45a76f0.ext.json)
 
 ---
 
@@ -2243,53 +2303,5 @@ The eight Sri Lankans who lived from the Mianamadi Cyber Criminal Zone have arri
 [Data](articles/1302568d.json)
 
 [Extended Data](ext_articles/1302568d.ext.json)
-
----
-
-### I have forgiven the attacker - Australian cleric
-
-*2024-04-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181357) · `ta`
-
-Australian cleric Bishop Marry Mari Emanuel forgives the attacker, urges non-retaliation, prays for the attacker, and calls for prayers in response.
-
-🟩
-
-Bishop Marry Mari Emanuel says he has forgiven the youth who attacked him at the Sydney church.
-
-The pastor has requested not to act in retaliation for the attack - act like Jesus.
-
-He said he was recovering fast and prayed for the attacker.
-
-Whoever is involved in this action, I forgive him. You are my son and I love you. I pray for you.
-
-He has called for his supporters to engage in prayers in response to action.
-
-He said that the Lord did not teach us to fight for the action to fight for us.
-
-◼️
-
-[Data](articles/67010f71.json)
-
-[Extended Data](ext_articles/67010f71.ext.json)
-
----
-
-### Erection
-
-*2024-04-18 11:15:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கான-தடையுத்தரவு-நீடிப்பு/175-336071) · `ta`
-
-The Colombo District Court extended an order preventing former President Maithripala Sirisena from leading the Sri Lanka Freedom Party (SLFP) until May 9, following a case filed by former President Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-The Colombo District Court on Thursday (18) extended an order to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party (SLFP).. The order will remain in effect until May 9.
-
-The Colombo District Court has issued the order following a case filed by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/89fe5944.json)
-
-[Extended Data](ext_articles/89fe5944.ext.json)
 
 ---

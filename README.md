@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 19:51:42**
+As of **2024-04-18 20:03:27**
 
 ## Newspaper Stats
 
-*Scraped **19,608** Articles*
+*Scraped **19,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,636
+adalk | 1,637
 tamilmirrorlk | 2,281
 adaderanalk | 2,353
 virakesarilk | 2,933
-dailymirrorlk | 3,025
+dailymirrorlk | 3,027
 adaderanasinhalalk | 3,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,606 (100.0%) of 19,608 articles have been extended.
+19,608 (100.0%) of 19,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Sri Lankan wanted for 1991 murder in Romania arrested in Germany
+
+*2024-04-18 19:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-wanted-for-1991-murder-in-Romania-arrested-in-Germany/108-280921) · `en`
+
+Romania , April 18 - A 53-year-old Sri Lankan man, wanted internationally for a murder committed in Bucharest in 1991, has been arrested in Germany earlier this year. He is set to be extradited to Romania on April 23 to serve a 19-year prison sentence.
+
+According to a police press release, the man killed a foreign citizen in December 1991. He then tied up the victim, wrapped him in a carpet from his residence in Bucharest and transported him to the Crângași neighborhood, where he disposed of the body in Lake Morii. He was sentenced to 19 years in prison for this crime.
+
+Following reports of the man's whereabouts in Germany, Romanian authorities collaborated with their German counterparts, leading to his arrest in Moers on January 3.
+
+Upon his return to Romania, the man will be incarcerated to serve the sentence.
+
+◼️
+
+[Data](articles/8609c4fa.json)
+
+---
 
 ### President pledged to nurture budding entrepreneurs through regional youth centres
 
@@ -45,6 +63,8 @@ Addressing a gathering of young Members of Parliament and emerging political fig
 ...
 
 [Data](articles/6cf63330.json)
+
+[Extended Data](ext_articles/6cf63330.ext.json)
 
 ---
 
@@ -178,23 +198,45 @@ Eyewitnesses claim that the incident had occurred while the student was swimming
 
 ---
 
-### යුද හමුදාවෙන් ඉවත් වෙන්න පොදු සමාකාලයක්
+### නව විදුලි බල පනත ගැසට් කරයි
+
+*2024-04-18 18:12:01* · [`adalk`](https://www.ada.lk/breaking_news/නව-විදුලි-බල-පනත-ගැසට්-කරයි/11-409151) · `si`
+
+විදුලිබල ප්‍රතිසංස්කරණ සංශෝධිත පනත් කෙටුම්පතට අදාළ ගැසට් පත්‍රය නිකුත් කර ඇතැයි විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සදහන් කරයි.
+
+ඇමතිවරයා සිය x ගිණුමේ සටහනක් තබමින් ඒ බව සඳහන් කර ඇත. අමාත්‍යවරයා සඳහන් කර ඇත්තේ, එය ඉදිරි සතිය තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+◼️
+
+[Data](articles/ab17083f.json)
+
+---
+
+### A public concision to get out of the army
 
 *2024-04-18 18:07:50* · [`adalk`](https://www.ada.lk/breaking_news/යුද-හමුදාවෙන්-ඉවත්-වෙන්න-පොදු-සමාකාලයක්/11-409150) · `si`
 
-ශ්‍රී ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට වාර්ථා නොකර සිටින සාමාජිකයින් හට නීත්‍යානූකූලව සේවයෙන් ඉවත් වීමට 2024 අප්‍රේල් මස 20 වන දින සිට 2024 මැයි මස 20 වන දින දක්වා පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබේ.
+"Sri Lanka Army members can legally leave the service from May 20, 2024, without facing disciplinary action. They must report their Army ID and a photocopy of their last salary sheet to their Regiment Center."
 
-එම ප්‍රකාශිත පොදු සමා කාලය තුල තමන් අයත් රෙජිමේන්තු මධ්‍යස්ථාන සමග සම්බන්ධතාවයෙන් ඔවුන්ට නීත්‍යානූකූලව සේවයෙන් ඉවත් වීමට අවස්ථාව ලබාදී ඇත.
+🟩
 
-2024 අප්‍රේල් මස 02 දින සහ ඊට පෙර සිට නිවාඩු නොමැතිව සේවයට වාර්ථා නොකල නිලධාරි හා සෙසුනිළයින් පහත සඳහන් ලිපි ලේඛණ සමගින්  තමන් අයත් රෙජිමේන්තු මධ්‍යස්ථානය වෙත පමණක් රපෝර්තු කල යුතු අතර, එහිදි අස්කිරීමේ මූලික පාලන කටයුතු පැය 72 ක කාලසීමාවක් තුල සිදුකර යුද්ධ හමුදා සේවයෙන් නීත්‍යානූකූලව ඉවත් වීම සඳහා කටයුතු සලසා දී ඇත.
+The members of the Sri Lanka Army has been legally led by the officials of the Sri Lanka Army without lengthening the length of the country has published until May 20, 2024 to May 20, 2024.
 
-අ. යුද්ධ හමුදා හැඳුනුම්පත (යුද්ධ හමුදා හැඳුනුම්පත අස්ථානගතව ඇත්නම් මෑතකදී ලබාගන්නා ලද පොලිස් වාර්ථාවක පිටපතක්).
+During the expressway, they have given their opportunity to leave the relationship with the regimental centers of their regiment.
 
-ඈ. අවසන් වරට වැටුප් හා දීමනා ලබාගන්නා ලද වැටුප් පත්‍රිකාවේ ඡායාස්ථ පිටපතක්
+None of the following documents and other documents should be reported to their Regiment Center with the following documents and the following documents.Arrangements have been made for.
 
-...
+a. Army ID (Army ID) is a recent police report.
+
+ඈ. A photocopy of the salary sheet obtained by the last salaries and allowances
+
+Without reporting to the service without reporting, no disciplinary action has been launched with a legally resort to the regimental centers without reversing the military service without reversing the military service.
+
+◼️
 
 [Data](articles/1407ba8e.json)
+
+[Extended Data](ext_articles/1407ba8e.ext.json)
 
 ---
 
@@ -1051,6 +1093,26 @@ Speaking to the BBC in Washington DC on Wednesday, Prime Minister Shmyhal said o
 [Data](articles/303a70af.json)
 
 [Extended Data](ext_articles/303a70af.ext.json)
+
+---
+
+### NPP presents its 7-point statement on Easter attack to Cardinal
+
+*2024-04-18 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-presents-its-7-point-statement-on-Easter-attack-to-Cardinal/155-280915) · `en`
+
+Colombo, April 18 (Daily Mirror)- The National People's Power (NPP) today presented to Archbishop of Colombo Cardinal Malcolm Ranjith its 7-point statement pledging to mete out justice to the victims of the Easter Sunday attacks.
+
+The NPP representatives met Cardinal Malcolm Ranjith at the Archbishop's House in Borella this morning and presented the 7-point statement.
+
+The statement included key points such as implementing law against those responsible for the attacks so as to mete out justice to those who lost lives in the attacks and family members of the victims.
+
+It also included pledges to take action against those who were directly or indirectly involved in the attacks.
+
+NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, President's Counsel Upul Kumarapperuma Rohan Fernando and Aruna Shantha Nonis participated in the occasion.
+
+◼️
+
+[Data](articles/1be82668.json)
 
 ---
 
@@ -2225,73 +2287,5 @@ The SOERU has already called for bids for Request for Qualification (RfQ) to div
 [Data](articles/830f46a8.json)
 
 [Extended Data](ext_articles/830f46a8.ext.json)
-
----
-
-### “The Bill will be submitted next week”
-
-*2024-04-18 10:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலம்-அடுத்த-வாரம்-சமர்ப்பிக்கப்படும்/175-336068) · `ta`
-
-The Ministry of Power and Energy issued a Gazette notification for proposed power sector reforms. Minister Kanjana Wijesekera announced the bill will be tabled in Parliament next week, incorporating shareholder amendments from January. The bill will be publicly reviewed in the Supreme Court for two weeks after its parliamentary tablement.
-
-🟩
-
-The Ministry of Power and Energy said that the Gazette notification on the proposed power sector reforms has been issued yesterday.
-
-Minister Kanjana Wijesekera said that the bill will be tabled in Parliament next week.
-
-He said that the amendments recommended by the shareholders in January have been drafts in the amended Bill.
-
-Accordingly, the Bill will be given to the public to ensure its legitimate character in the Supreme Court for two weeks from the day it was tabled in Parliament.
-
-◼️
-
-[Data](articles/70b7923c.json)
-
-[Extended Data](ext_articles/70b7923c.ext.json)
-
----
-
-### Enjoining Order preventing Maithripala holding SLFP chairmanship extended further
-
-*2024-04-18 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enjoining-Order-preventing-Maithripala-holding-SLFP-chairmanship-extended-further/108-280888) · `en`
-
-Colombo, April 18 (Daily Mirror)- The Colombo District Court today further extended its enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
-
-The Colombo District Court made this order following a lawsuit filed by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/019add5c.json)
-
-[Extended Data](ext_articles/019add5c.ext.json)
-
----
-
-### 35 sheep stolen
-
-*2024-04-18 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/35-ஆடுகளை-களவாடியவர்-கைது/72-336067) · `ta`
-
-35 sheep stolen in Pudukkudiyiruppu. Two men attacked, one injured. Suspect, a 32-year-old from Vadapalai, arrested. Led by Superintendent of Police Herath.
-
-🟩
-
-An incident took place on Wednesday (17) for allegedly attacking goats and stolen goats in Pudukkudiyiruppu.
-
-Pudukkudiyiruppu police division of the Mullaitivu Pudukkudiyiruppu police division 9th Circle in the Mallikadivu area when two men were on duty in the Malligathivu area and suddenly attacked the two men who were on duty to stole the sheep and took 35 goats worth 9 lakhs thirty thousand.
-
-One of the two victims of the attack is being admitted to the Pudukkudiyiruppu hospital after a 55 -year -old man was injured.
-
-The police have arrested a 32 -year -old family member from Vadapalai area on suspicion of informing the Pudukkudiyiruppu police.
-
-The action was led by the Superintendent of Police Herath
-
-(57503) Bijaratne, (67616) Maduranga, (88509) Pradeepan, (91723) Arus, (92873) Dinkson, (105152) Raviraj, (105201) Laxan, Police Kostapal Driver (80425) Abeyakon.
-
-...
-
-[Data](articles/bb7f3f6f.json)
-
-[Extended Data](ext_articles/bb7f3f6f.ext.json)
 
 ---

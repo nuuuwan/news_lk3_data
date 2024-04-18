@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 08:06:35**
+As of **2024-04-18 08:18:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,169
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,467 (100.0%) of 19,473 articles have been extended.
+19,473 (100.0%) of 19,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,41 +48,57 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/f89c71cf.json)
 
+[Extended Data](ext_articles/f89c71cf.ext.json)
+
 ---
 
-### මරණවලට ප්‍රධානතම හේතුව හෘදයාබාධ බව හෙළිවෙයි
+### The main reason for death is revealed
 
 *2024-04-18 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195744) · `si`
 
-මෑත කාලීනව සිදුවන මරණවලට ප්‍රධානතම හේතුව හෘදයාබාධ බව සෞඛ්‍ය අංශ පවසයි.
+Heart disease, caused by unhealthy food, lack of physical activity, tobacco, alcohol, and stress, is the main cause of recent deaths. Dr. Sharyle Balasingham highlighted the damage to heart blood vessels and the importance of lifestyle changes to prevent non-communicable diseases.
 
-2010 වසරේ සිට 2020 වසර දක්වා රජයේ රෝහල්වලින් වාර්තා වූ වැඩිම මරණ, හෘදයාබාධ හේතුවෙන් සිදුව ඇති බව සෞඛ්‍ය අංශ පෙන්වාදෙයි.
+🟩
 
-සෞඛ්‍යයට අහිතකර ආහාර, ශාරීරික ක්‍රියාශීලිභාවය අඩුවීම, දුම්කොළ, මත්පැන් භාවිතය සහ මානසික ආතතිය හෘදයාබාධ වැළදීමට ප්‍රධාන හේතුව බව සඳහන් වේ.
+The main cause of the recent deaths is heartbarming.
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග අධ්‍යක්ෂ කාර්යාලයේ, විශේෂඥ වෛද්‍ය ශෙරීල් බාලසිංහම් මහත්මිය ඒ පිළිබඳව මෙසේ පැහැදිලි කළාය.
+Health departments have occurred since 2010 to 2020, health department, health department.
 
-"හෘදයට ලේ සපයන රුධිර නාලවල ඇති වන හානියක් නිසා මෙම රෝගී තත්ත්වය ඇති වෙනවා. ඔයාලා අහලා ඇති හාට් ඇටෑක් එහෙම නැත්නම් හෘදයාබාධය කියලා අපි කියන්නේ මෙවැනි රෝගී තත්ත්වයක්. බෝ නොවන රෝග වැළදීමට විශේෂ අවධානම් සාධක කිහිපයක්ම තියෙනවා. පළවෙනි එක තමා සෞඛ්‍යයට අහිතකර අධික වශයෙන් සීනි, ලුණු හා තෙල් භාවිතය. ඊළඟ එක දෙවනුවට ශාරීරික ක්‍රියාශීලිත්වය අඩුවීම. ඒ වගේම දුම්කොළ හා මත්පැන් භාවිතය සහ මානසික ආතතිය මෙම සාධක අතර වෙනවා."
+It is said that the main cause of unhealthy food, bodily procedure, decrease in physical acts, tobacco, liquor and stress is the main cause of heart attack.
+
+Addressing a media brief held at the Health Promotion Bureau, Mrs. Dr. Sharyle Balasingham explained this.
+
+"This illness is caused by the damage to the heart blood vessels. We are saying that the Hart attainable of the Hart or a heart attack. There are several special risk factors to prevent non-communicable diseases. The first one is the use of sugar, salt and oil, harmful to health. The next one decreases physical procedure to second. Also, these factors are among these factors, tobacco and alcoholism and stress. "
+
+Specialist Dr. Sharyel Balasingham added that the mobile phone and computer use is far from the lives of the lives of the lives of the lives.
 
 ...
 
 [Data](articles/10d679a9.json)
 
+[Extended Data](ext_articles/10d679a9.ext.json)
+
 ---
 
-### අලුත් අවුරුද්දේ පැළ සිටුවීමේ නැකැත අද
+### Planting of the New Year - Today
 
 *2024-04-18 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195743) · `si`
 
-සිංහල දෙමළ අලුත් අවුරුදු නැකත් චාරිත්‍රවල අවසන් චාරිත්‍රය වන පැළ සිටුවීමේ චාරිත්‍රය අදට (18) යෙදී තිබේ.
+Today marks the culmination of Tamil New Year's rituals, symbolizing the transition from the old to the new. Agriculture Minister Mahinda Amaraweera has directed all to plant, signifying a fresh start.
 
-අද පූර්වභාග 10.16ට යෙදී ඇති සුබ නැකතින් රන්වන් පැහැති වස්ත්‍රාභරණයෙන් සැරසී නැගෙනහිර දිශාව බලා පැළසිටුවීම මැනවි බව අවුරුදු නැකැත් චාරිත්‍රයේ දැක්වේ.
+🟩
 
-මේ අතර පැළ සිටුවීමේ චාරිත්‍රයට පැළයක් සිටුවන ලෙසට සියලු රජයේ කාර්යාල, අමාත්‍යාංශ, ගොවිජන සේවා ඇතුළු අංශ වෙත උපදෙස් ලබා දී ඇති බව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+The final custom of the Tamil Tamil New Year's New Year's Rituals (18) is today.
+
+The years of years of ritual shows that the savvy of the predictor of time to the predictor of time, and planting the east of the golden garment today.
+
+Meanwhile, Agriculture Minister Mahinda Amaraweera stated that the plantings, ministries and farmers have been instructed to plant a plant to plant a plant.
 
 ◼️
 
 [Data](articles/6e698975.json)
+
+[Extended Data](ext_articles/6e698975.ext.json)
 
 ---
 
@@ -154,6 +170,8 @@ He said the top Japanese minister confirmed the strong friendship and relationsh
 
 [Data](articles/ca141d5a.json)
 
+[Extended Data](ext_articles/ca141d5a.ext.json)
+
 ---
 
 ### Easter attacks: NPP pledges action against culprits under its government
@@ -198,6 +216,8 @@ UAE and Bahrain have reported flooding from heavy rainstorms over the past week.
 
 [Data](articles/0adc3acc.json)
 
+[Extended Data](ext_articles/0adc3acc.ext.json)
+
 ---
 
 ### Sri Lanka to resume bondholder talks after IMF checks their latest proposal
@@ -215,6 +235,8 @@ However, Sri Lanka had not agreed to the triggers nor the actual quantum of upsi
 ...
 
 [Data](articles/f1a6436b.json)
+
+[Extended Data](ext_articles/f1a6436b.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 16:33:54**
+As of **2024-04-18 16:49:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 3,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,565 (100.0%) of 19,567 articles have been extended.
+19,567 (100.0%) of 19,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### அட்டன் – கொழும்பு மார்க்கத்தில் மாத்திரமே அதிக பயணிகள் ; ஏனைய மார்க்கங்களில் வழமைக்கு திரும்பிய பஸ் சேவைகள்
+### The most passengers in the Religion of Attan - Colombo;Bus services returned to usual at other religions
 
 *2024-04-18 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181383) · `ta`
 
-சித்திரைப் புத்தாண்டு விடுமுறையில்  அட்டன் உட்பட மஸ்கெலியா, பொகவந்தலாவை, நோர்வூட் , புளியாவத்தை, டிக்கோயா, தலவாக்கலை, வட்டகொடை  ஆகிய பிரதேசங்களுக்கு கொழும்பிலிருந்து வருகை தந்தவர்கள் மீண்டும் தலைநகருக்கு செல்ல ஆரம்பித்துள்ள அதேவேளை, உள்ளூர் மார்க்கங்களில்  பஸ் சேவைகள் கடந்த திங்கட்கிழமையிலிருந்து வழமைக்கு திரும்பியுள்ளதாக  அட்டன் தனியார் பஸ் உரிமையாளர்கள் சங்க செயலாளர் ராமச்சந்திரன் தெரிவித்தார்.
+Attan's bus services resumed from Colombo to capital, including local routes, after New Year celebrations. Hatton Colombo now offers 23 EBOs, four private, and three refrigerated buses. Services from local markets and Nuwara Eliya, Ravanagoda, and Talawakelle have also resumed.
 
-அட்டன் கொழும்பு மார்க்கத்தில் 23 இ.போ.ச வண்டிகளும் நான்கு தனியார் பஸ்களும் மூன்று  குளிரூட்டப்பட்ட பஸ் வண்டிகளும் சேவையில் ஈடுபடுகின்றன. புத்தாண்டுக்கு வருகை தந்தோர் அதிகமானபடியால் மேலதிக பஸ்களும் இப்போது சேவையில் ஈடுபடுத்தப்பட்டுள்ளன.
+🟩
 
-அதேவேளை உள்ளூர் மார்க்கங்களில் கடந்த திங்கட்கிழமை 15 ஆம் திகதியிலிருந்து பஸ்கள் வழமையான தமது சேவைகளை தொடர்கின்றன. அட்டன் –தலவாக்கலை மார்க்கத்தில் 14 தனியார் பஸ்கள் 15 நிமிடத்துக்கு ஒரு தடவை சேவையில் ஈடுபட்டு வருகின்றன.
+Attan's bus services have returned to the capital from Colombo, including Maskeliya, Bogawantalawa, Norwood, Puliyawatte, Tikoya, Talawakalai and Vattakoda, including Attan, and the bus services at the local routes have returned to us from the last Monday.
 
-...
+Hatton Colombo Religion 23 EBOs, four private buses and three refrigerated buses service. More buses have now been deployed for the New Year.
+
+Meanwhile, buses continue their services from the 15th of last Monday at local markets. 14 private buses in the Attan -Talawakalai route are serving once in 15 minutes.
+
+Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and Talawakelle from Attan for ten minutes.. Bus services are being held in Nawalapitiya, Kandy and Ginigathena as usual. He said that bus services have returned from Monday as many celebrated the New Year on the 13th.
+
+◼️
 
 [Data](articles/1f6e6e9b.json)
+
+[Extended Data](ext_articles/1f6e6e9b.ext.json)
 
 ---
 
@@ -63,6 +71,8 @@ Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘
 ◼️
 
 [Data](articles/763e9d3a.json)
+
+[Extended Data](ext_articles/763e9d3a.ext.json)
 
 ---
 

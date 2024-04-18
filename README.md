@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 17:03:39**
+As of **2024-04-18 17:18:26**
 
 ## Newspaper Stats
 
-*Scraped **19,574** Articles*
+*Scraped **19,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,58 @@ adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,348
 virakesarilk | 2,926
-dailymirrorlk | 3,021
+dailymirrorlk | 3,022
 adaderanasinhalalk | 3,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,567 (100.0%) of 19,574 articles have been extended.
+19,574 (100.0%) of 19,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### திரியாய் தமிழ் மகாவித்தியாலயத்தின் குடிநீர்ப் பிரச்சினைக்கு தீர்வு கிடைக்குமா..?
+### Google fires 28 employees involved in protest of Israeli cloud contract
+
+*2024-04-18 17:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Google-fires-28-employees-involved-in-protest-of-Israeli-cloud-contract/108-280917) · `en`
+
+April 18 - Google has fired 28 workers after dozens of employees participated in sit-ins at the company’s New York and Sunnyvale, California, offices to protest the company’s cloud computing contract with the Israeli government.
+
+A day earlier, nine employees were arrested on charges of trespassing at the two offices.
+
+“Physically impeding other employees’ work and preventing them from accessing our facilities is a clear violation of our policies, and completely unacceptable behavior,” a Google spokesperson said in a statement.
+
+Years before the dismissals, tensions had been simmering between the company’s management and some activist employees over Project Nimbus, a $1.2 billion Google and Amazon deal to supply the Israeli government with cloud services, such as artificial intelligence.
+
+...
+
+[Data](articles/4b1d4445.json)
+
+---
+
+### Will the drinking water problem of the Thiriyai Tamil Maha Vidyalaya be resolved ..?
 
 *2024-04-18 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181363) · `ta`
 
-திருகோணமலை மாவட்டத்தின் எல்லைப் புறத் தமிழ்க் கிராமங்களில் ஒன்றான திரியாய்க் கிராமத்தின் திரியாய் தமிழ் மகா வித்தியாலயத்தின் குடிநீர்ப் பயன்பாட்டுக்காக கிணறு ஒன்று காணப்படுகிறது.
+The drinking water problem at Thiriyai Tamil Maha Vidyalaya, a school in a border Tamil village, is due to a polluted well used for both drinking and cooking. The school's water purification machine, provided by RDS, is unused and locked, leading to water-related diseases among students. The solution requires advancing the water purification facility to meet the students' needs.
 
-சுமார் 200க்கு மேற்பட்ட மாணவர்கள் காணப்படுகின்ற இந்த பாடசாலையில் மாணவர்களுடைய தண்ணீர் தேவைக்கு பிரதானமாக காணப்படுவது இந்த கிணறு மாத்திரமே. இந்த கிணற்றில் இருந்தே மோட்டார் மூலமாக தாங்கிகளுக்கு பெறப்படுகின்ற நீர் மாணவர்களுடைய தண்ணீர் தேவைக்காக விநியோகிக்கப்படுகிறது.
+🟩
 
-இந்தக் கிணறானது மூடப்படாமல் திறந்த நிலையில் இருப்பதனால் மிகவும் மாசடைந்த நிலையில் காணப்படுகிறது. எனினும், இந்த நீரையே மாணவர்கள் தமது நீர் தேவைக்காக பயன்படுத்தி வருகின்றார்கள். மேலும் உணவு சமைப்பதற்கும் இதே கிணற்று நீரே பயன்படுத்தப்படுகின்றது.
+One of the border Tamil villages of the Trincomalee district is a well for the drinking water use of the Tamil Maha Vidyalaya in the village of Thiriyayak.
+
+The school, which is found in more than 200 students, is the main one of the students' water needs.. From this well, the water supplied by the motor by the motor is distributed to the water needs of the students.
+
+The well is found in a very polluted state because it is open without closing. However, students are using this water for their water needs. The same well is used for cooking.
+
+Although the water purification machine provided by the RDS is located in the school premises near the school, it is now locked up for not being used for a long time.. Students need to drink this soaked water as the water purification block is not used. It is seen to cause water -related diseases.
 
 ...
 
 [Data](articles/d0a3db98.json)
+
+[Extended Data](ext_articles/d0a3db98.ext.json)
 
 ---
 
@@ -70,69 +96,99 @@ Rubin supervised Madalagama as the two studied antimicrobial resistance, or AMR 
 
 [Data](articles/a44fb012.json)
 
+[Extended Data](ext_articles/a44fb012.ext.json)
+
 ---
 
-### ඔත්තුකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+### Two spies arrested
 
 *2024-04-18 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195760) · `si`
 
-ජර්මනිය විසින් යුක්‍රේනයට යුද ආධාර ලබා දීමේ සැලසුම කඩාකප්පල් කිරීමට උත්සාහ කළ බවට සැක පිට ජර්මනියේදී පුද්ගලයින් දෙදෙනෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+Two Russian-German dual citizens were arrested in Germany for attempting to sabotage a military aid plan to Ukraine. They were spies in Russia and had discovered information on American war centers in Germany.
 
-රුසියානු සහ ජර්මන් ද්විත්ව පුරවැසියන් වන ඔවුන් දෙදෙනා රුසියාව වෙනුවෙන් සේවය කරන ඔත්තුකරුවන් දෙදෙනෙක් බවට සැක කෙරේ.
+🟩
 
-ඔවුන් ජර්මනියේ ස්ථාපනය කර ඇති අමෙරිකානු යුද මධ්‍යස්ථාන සම්බන්ධයෙන්ද තොරතුරු සොයා ඇති බව සඳහන් වෙයි.
+Two persons were arrested in Germany who attempted to sabotage the plan to providing military aid plan to Ukraine by Germany.
+
+They are Russian and German dual citizens that two spies serving in Russia.
+
+It is said that they have found information on American war centers in Germany.
 
 ◼️
 
 [Data](articles/34549b17.json)
 
+[Extended Data](ext_articles/34549b17.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதலில் உயிரிழந்தவர்களுக்கு நீதி நிலைநாட்டப்படும் - தேசிய மக்கள் சக்தி உறுதி
+### Justice will be established for those who died in the survival Sunday attack
 
 *2024-04-18 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181369) · `ta`
 
-2019 ஆம்  ஆண்டு ஏப்ரல் மாதம் 21 ஆம் திகதி உயிர்த்த ஞாயிறு தினதத்தன்று இடம்பெற்ற பயங்கரவாத தாக்குதலில் பலியானவர்களுக்கு நீதி நிலைநாட்டப்படுமென தேசிய மக்கள் சக்தி  அறிக்கையொன்றை வெளியிட்டு தெரிவித்துள்ளது.
+The National People's Power Report has issued a statement that justice will be established for the victims of the terrorist attacks on Sunday, April 21, 2019. Five years have passed since the suicide bombing targeting Catholic and Christian servants, resulting in 273 deaths and over 500 injuries. The government is responsible for the loss of lives and the destruction of the attacks. The report accuses the government of not properly assigning responsibility to the public. It also mentions the involvement of political officials and state officials in the case. The government plans to introduce a formal compensation system and a psychological program for the victims.
+
+🟩
+
+The National People's Power Report has issued a statement that justice will be established for the victims of the terrorist attacks on Sunday, April 21, 2019.
+
+Five years have passed since the brutal suicide bombing carried out by a group of militants targeting Catholic and Christian servants on April 21, 2019 (Life Sunday).. Two hundred and seventy -three (273), including Christian Catholic servants, died on three churches and some tourism hotels on the day of the day, and more than five hundred people have become complete or partially stable.The government is responsible for the loss of lives and the destruction of the attacks and the government is responsible for the fact that the government is responsible for the issue of national power, as there is a question about whether this responsibility has been properly assigned to the public.
 
 ...
 
 [Data](articles/9ad0fb8a.json)
 
+[Extended Data](ext_articles/9ad0fb8a.ext.json)
+
 ---
 
-### கண்டி நகரில் தீவிரமடையும் குப்பை பிரச்சினை!
+### Garbage issue in Kandy
 
 *2024-04-18 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181382) · `ta`
 
-வரி செலுத்தும் மக்களுக்கு தூய்மையான  நகரை  உருவாக்கிக் கொடுக்க வேண்டியது பொறுப்பதிகாரிகளின் கடமையாகும்.
+Kandy faces garbage issues due to authorities' reckless disposal, affecting public health and convenience.
 
-ஆனால், அதிகாரிகளின் பொறுப்பற்ற நடவடிக்கைகளால் வரலாற்று பெயர் கொண்ட நகரமான கண்டிநகரம் இன்று குப்பைகளால் நிரம்பியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-அத்தோடு, பண்டிகைக் காலங்களில் முறையாக குப்பைகள் அகற்றப்படாமையினால் அதிகளவான குப்பைகள் நிரம்பிக் காணப்படுவதாக தெரிவிக்கப்படுகின்றது.
+It is the duty of the authorities to create a clean city for taxpayers.
 
-மேலும், முக்கிய வர்த்தக வளாகங்கள், பஸ்  தரிப்பிடங்கள், மக்கள் கூடும் பொது இடங்கள் உள்ளிட்ட பகுதிகளில் குப்பைகள் நிரம்பிக் காணப்படுவதாக தெரிவிக்கப்பட்டுள்ளது.
+However, it is reported that the historic city, a historic city, has been filled with garbage today due to reckless measures of the authorities.
 
-இதன் காரணமாக கண்டி பகுதியில் துர்நாற்றம் வீசுவதோடு மக்கள் கடும் சிரமத்திற்கு உள்ளாகியுள்ளதோடு மக்களின் சுகாதாரதிற்கு பாரிய விளைவினை ஏற்படுத்தக் கூடியதாக காணப்படுகின்றது.
+In addition, it is reported that the debris is not properly disposed of during the festive season.
 
-இது தொடர்பாக மாநகர சபை ஊழியர் தெரிவித்தபோது, குப்பைகள் அகற்றும் இயந்திரம் பழுதடைந்தமையே இதற்கு காரணம் என குறிப்பிட்டுள்ளார்.
+It has also been reported that debris is filled in areas including major trade complexes, bus stops and public places.
+
+As a result, the stench in the Kandy and the people are severely inconvenienced and the health of the people is a major effect.
+
+When the employee of the Municipal Council said that this was the cause of the debris disposal machine.
 
 ◼️
 
 [Data](articles/e0bff9af.json)
 
+[Extended Data](ext_articles/e0bff9af.ext.json)
+
 ---
 
-### "வசத் சிரிய - 2024" புத்தாண்டு அழகன் - அழகி விண்ணப்பம் ஏற்கும் காலம் நீடிப்பு
+### "Vasad Syria - 2024" New Year Alaghan - Brunette Application Period
 
 *2024-04-18 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181387) · `ta`
 
-ஜனாதிபதி செயலக நலன்புரிச் சங்கம் மற்றும் அமைச்சுக்கள் இணைந்து எதிர்வரும் ஏப்ரல் 27 ஆம் திகதி சனிக்கிழமை காலி முகத்திடலில் சங்கரில்லா பசுமை மைதானத்தில் ஏற்பாடு செய்துள்ள  "வசத் சிரிய 2024" தமிழ், சிங்களப் புத்தாண்டின் அழகன்-அழகிப் போட்டிக்கான விண்ணப்பங்கள் ஏற்கும் காலம் ஏப்ரல் 23 வரை நீடிக்கப்பட்டுள்ளது.
+"Vasad Syria 2024" features a variety of events including a New Year Alaghan-Brunette competition, cycling races, and a marathon. Participants must be unmarried, aged 18-30, and compete in cultural dress. Prizes range from 1 lakh to 50 thousand rupees. Applications for cycling and marathon must be submitted by specific deadlines.
 
-போட்டியில் பங்கேற்க விரும்பும் போட்டியாளர்கள் 3 மாதங்களுக்குள் பிடித்த வர்ணப் புகைப்படத்துடன் பெயர், வயது, உயரம், முகவரி மற்றும் தொலைபேசி இலக்கம் என்பவற்றை  23 ஆம் திகதி பிற்பகல் 3.00 மணிக்கு முன்னர் 0771557146 எனும் வட்ஸ் அப் இலக்கத்திற்கு அனுப்ப வேண்டும். சகல விண்ணப்பதாரிகளும் 18-30 வயதிற்குட்பட்ட திருமணமாகாதவர்களாக இருக்க வேண்டும். தமிழர் கலாச்சார உடையிலும் இந்தப் போட்டியில் கலந்துகொள்ள முடியும்.
+🟩
+
+The Presidential Secretariat Welfare Association and Ministries have been extended till April 23 at the Sankarilla Green Ground in Galle Mukhtadi at the Sankarilla Green Ground in Galle on April 23.
+
+Competitors who wish to participate in the competition should send their favorite color photo to the name, age, height, address and telephone number 23 at 3.00 pm on 0771557146.. All applicants must be unmarried between the ages of 18-30. The competition can be participated in the Tamil cultural dress.
+
+One lakh rupees for winners in the Syrian New Year Alagir-Alagiri competition, 75 thousand rupees for the second place and 50 thousand rupees for the third place.. The Certificate will be issued until the 12th. The authority to take a final decision on competitive conditions has been given to the arrangement committee. Further information can be obtained from Mrs. Krisanthi Vitharana (Coordinator) 0718412300.
 
 ...
 
 [Data](articles/874d3fb4.json)
+
+[Extended Data](ext_articles/874d3fb4.ext.json)
 
 ---
 
@@ -160,23 +216,29 @@ Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and T
 
 ---
 
-### கட்டுத்துப்பாக்கி வெடித்ததில்  குடும்பஸ்தர் காயம் - முல்லைத்தீவில் சம்பவம்
+### Family injured in the explosion - Mullaitivu incident
 
 *2024-04-18 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181384) · `ta`
 
-முல்லைத்தீவு புதுக்குடியிருப்பு தேவிபுரம் பகுதியில் கட்டுத்துப்பாக்கி வெடித்ததில் குடும்பஸ்தர் ஒருவர் காயமடைந்த நிலையில் முல்லைத்தீவு மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A family from Pudukkudiyiruppu was injured in an explosion in Devipuram, Mullaitivu, while hunting. The 33-year-old was admitted to Mullaitivu District Hospital for treatment.
 
-இன்று வியாழக்கிழமை (18 ) பிற்பகல் இடம்பெற்ற குறித்த சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
+🟩
 
-புதுக்குடியிருப்பு கைவேலி மயில்குஞ்சன் பகுதியை சேர்ந்த 33 வயதுடைய குடும்பஸ்தரே  இவ்வாறு காயமடைந்துள்ளார்.
+A family member has been admitted to the Mullaitivu District Hospital after being injured when a barrier exploded in the Devipuram area of Pudukkudiyiruppu in Mullaitivu.
 
-குறித்த நபர் தமது வீட்டிலிருந்து தேவிபுரம் (ஆ) பகுதியிலுள்ள காட்டுப் பகுதியால் சென்ற போது விலங்குகளை வேட்டையாடுவதற்காக பயன்படும் கட்டுத்துவக்கு வெடித்துள்ளது.
+The incident took place on Thursday (18) afternoon.
 
-இதனால் காயமடைந்த அவர் புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளார்.
+The 33 -year -old family from Mayilkunjan, Pudukkudiyiruppu, was injured.
+
+When the person moved from his home to the forest area in Devipuram (b), it was exploded to hunt animals.
+
+He was admitted to the Pudukkudiyiruppu Resource Hospital and sent to the Mullaitivu District Hospital for further treatment.
 
 ◼️
 
 [Data](articles/0b2afc70.json)
+
+[Extended Data](ext_articles/0b2afc70.ext.json)
 
 ---
 
@@ -2241,25 +2303,5 @@ UAE and Bahrain have reported flooding from heavy rainstorms over the past week.
 [Data](articles/0adc3acc.json)
 
 [Extended Data](ext_articles/0adc3acc.ext.json)
-
----
-
-### Sri Lanka to resume bondholder talks after IMF checks their latest proposal
-
-*2024-04-18 06:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-bondholder-talks-after-imf-checks-their-latest-proposal-158962/) · `en`
-
-ECONOMYNEXT – Sri Lanka hopes to resume talks with bondholders after the International Monetary Fund assesses their latest proposal of the ad hoc group that deals with the country, State Minister for Finance Shehan Semasinghe said.
-
-Sri Lanka initiated the first round of face-to-face discussions with bondholders in March where proposals and counter proposals were exchanged and agreement was reached to issue bonds linked to economic performance.
-
-However, Sri Lanka had not agreed to the triggers nor the actual quantum of upside and the latest April proposal had not been assessed by the International Monetary Fund to ensure whether it was in line with a debt sustainability assessment. Their earlier proposal in March was assessed to be insufficient.
-
-“The next steps would entail further consultation with the IMF staff regarding assessments of the compatibility of the latest proposals with program parameters,” Semasinghe said.
-
-...
-
-[Data](articles/f1a6436b.json)
-
-[Extended Data](ext_articles/f1a6436b.ext.json)
 
 ---

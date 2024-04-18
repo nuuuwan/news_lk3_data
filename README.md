@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 23:18:26**
+As of **2024-04-18 23:34:54**
 
 ## Newspaper Stats
 
-*Scraped **19,631** Articles*
+*Scraped **19,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,355
 virakesarilk | 2,938
-dailymirrorlk | 3,032
+dailymirrorlk | 3,033
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,631 (100.0%) of 19,631 articles have been extended.
+19,631 (100.0%) of 19,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Global Week Summit of Mindfulness programme to be launched on May 3, 4
+
+*2024-04-18 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Global-Week-Summit-of-Mindfulness-programme-to-be-launched-on-May-3-4/108-280926) · `en`
+
+Colombo, April 18 (Daily Mirror) - To advance the implementation of the "Mindfulness" programme, the Education Ministry plans to launch it with a Global Week Summit on May 3 and 4.
+
+Accordingly, the summit will be held at the Nāgānanda International Institute for Buddhist Studies (NIIBS) in Kelaniya.
+
+However, the Education Ministry launched the "Mindfulness" programme as a pilot programme for schoolchildren on January 4 in all schools.
+
+The summit was organised by the Most Venerable Uda Eriyagama Dhammajīva Mahā Thera, Education Minister Susil Premajayantha, the Mindfulness foundation and the Education Ministry.
+
+Minister Susil Premajayantha has introduced the "Mindfulness" programme to the school system following a study affirming its effectiveness.
+
+Children from all different backgrounds, regardless of their castes or religions, have eagerly embraced this programme.
+
+Its significant psychological impact on enhancing educational productivity has led to considerable international recognition.
+
+...
+
+[Data](articles/04e3cce1.json)
+
+---
 
 ### Sri Lanka 1Q24 tea exports dollar earnings at six year high
 
@@ -2303,25 +2327,5 @@ Meanwhile in December 2023, it was reported that three Sri Lankan mercenaries we
 [Data](articles/9fdea2ab.json)
 
 [Extended Data](ext_articles/9fdea2ab.ext.json)
-
----
-
-### Sri Lanka firms expected to start gender equality panels in planned law
-
-*2024-04-18 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-firms-expected-to-start-gender-equality-panels-in-planned-law-159033/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state agencies and private companies will be required to set up a gender equality panel, headed by a senior executive according to a draft law published in the government gazette.
-
-The panel called a Gender Focal Point should be headed by an Additional Secretary or a deputy to the head of the institution or higher, the bill says.
-
-The Gender Equality Council staffed by the Inspector General of Police or his representative and secretaries to the ministers of justice, education, youth affairs and women will also be created
-
-The Gender Focal Point would have to prepare a plan of activities on gender-equality and report directly to the council, while being responsible for promoting gender balance in decision making processes and implementing programs based on gender equality.
-
-...
-
-[Data](articles/a667a6e5.json)
-
-[Extended Data](ext_articles/a667a6e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 06:55:18**
+As of **2024-04-18 07:17:14**
 
 ## Newspaper Stats
 
-*Scraped **19,460** Articles*
+*Scraped **19,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,194 @@ adalk | 1,620
 tamilmirrorlk | 2,266
 adaderanalk | 2,333
 virakesarilk | 2,903
-dailymirrorlk | 3,003
-adaderanasinhalalk | 3,165
+dailymirrorlk | 3,008
+adaderanasinhalalk | 3,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,453 (100.0%) of 19,460 articles have been extended.
+19,459 (100.0%) of 19,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### අද කාලගුණය
+### ශ්‍රීලනිප දේශපාලන මණ්ඩල තීන්දුව ගැන සලකා බැලීම අද
+
+*2024-04-18 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195741) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මැතිවරණ කොමිසම වෙත ලබාදුන් තීන්දු පිළිබඳ අද (18) දින සලකා බැලෙනු ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8dd05b46.json)
+
+---
+
+### Easter attacks: NPP pledges action against culprits under its government
+
+*2024-04-18 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-attacks-NPP-pledges-action-against-culprits-under-its-government/108-280883) · `en`
+
+Colombo, April 18 (Daily Mirror)- The National People’s Power (NPP) said that a future NPP government will appoint a special Commission of Inquiry with full judicial powers to further investigate the facts
+
+unearthed through the special Commissions and other investigations into the Easter Sunday attack and mete out justice to the victimized families.
+
+The NPP issuing a statement pledged to implement the law against those who conspired to launch the attack and those who were held responsible for the attack and punish them
+
+within a short period of time based on the recommendation of the said committee.
+
+It said the government has failed to mete out justice to those who lost their lives, members of the victimized families and the property destroyed in the attacks.
+
+In the seven-point statement, the NPP said the Easter attack was a conspiracy to fulfil a political motive and that it is a matter of top priority of a NPP government to take to book
+
+...
+
+[Data](articles/8389259b.json)
+
+---
+
+### Weather today
 
 *2024-04-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195739) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Showers or thundershowers expected in Western, Sabaragamuwa Provincial, Galle, and Matara districts.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provincial and Galle and Matara districts.
 
 ◼️
 
 [Data](articles/6bf62c9e.json)
 
+[Extended Data](ext_articles/6bf62c9e.ext.json)
+
 ---
 
-### கப்பல் விபத்து: 21 இலங்கை பணியாளர்கள் மீட்பு
+### Shipment: 21 Sri Lankan employees rescue
 
 *2024-04-18 06:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-விபத்து-21-இலங்கை-பணியாளர்கள்-மீட்பு/175-336060) · `ta`
 
-ஓமன் வளைகுடாவில் ஏற்பட்ட புயலில் சிக்கி விபத்திற்குள்ளான கப்பலில் இருந்த 21 இலங்கை பணியாளர்கள் ஈரான் படையினரால் மீட்கப்பட்டுள்ளனர்.
+21 Sri Lankan employees rescue Iranian soldiers from a ship in the Gulf of Oman during a storm. The ship, carrying oil, was near Jask, Iran. After being overturned, a rescue ship saved the 21 shipping personnel.
 
-குக் தீவுகளின் கொடியுடன் எண்ணெய் ஏற்றிச்சென்ற கப்பல், ஈரானின் தெற்கு நகரமான ஜாஸ்கில் இருந்து சுமார் 50 கிலோ மீற்றர் தூரத்தில் கவிழந்துள்ளதாக ஈரான் ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+🟩
 
-கப்பல் கவிழ்ந்ததையடுத்து, மீட்புக் கப்பலொன்று அப்பகுதிக்கு அனுப்பபட்டதாகவும், 21 கப்பல் பணியாளர்கள் மீட்கப்பட்டதாகவும் ஜாஸ்க் துறைமுகங்கள் மற்றும் கடல்சார் நிர்வாகத்தின் பணிப்பாளர் குறிப்பிட்டுள்ளார். (a)
+Iranian soldiers have been rescued by 21 Sri Lankan employees aboard the ship in a storm in the Gulf of Oman.
+
+The Iranian media has reported that the ship carrying oil with the flag of the Cook is about 50 kilometers away from the southern city of Iran, Jask.
+
+The Director of the Jask Ports and Maritime Administration stated that after the ship was overturned, a rescue ship was sent to the area and 21 shipping personnel were rescued.. (A)
 
 ◼️
 
 [Data](articles/eb5c5a3e.json)
 
+[Extended Data](ext_articles/eb5c5a3e.ext.json)
+
 ---
 
-### மியன்மாரில் இலங்கையர்களுக்கு பொது மன்னிப்பு
+### SL on alert on possible genocide allegations by Canada
+
+*2024-04-18 05:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-on-alert-on-possible-genocide-allegations-by-Canada/108-280881) · `en`
+
+Colombo, April 18 (Daily Mirror) - Sri Lanka remains on high alert as Canadian leaders may make genocide allegations next month when the country marks the war victory, according to a diplomatic source.
+
+Last year, Canadian Prime Minister Justin Trudeau's genocide accusations sparked a diplomatic dispute between the two nations. Sri Lanka responded with protests by summoning the Canadian envoy.
+
+A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lankan government is keen to ascertain whether such allegations will be repeated this time, despite previous protests by Sri Lanka.
+
+“Canadian leaders have a history of making such allegations, even though the Canadian federal government has concluded that the events in Sri Lanka during the war do not amount to genocide,” the official said.
+
+◼️
+
+[Data](articles/20915742.json)
+
+---
+
+### Public amnesty for Sri Lankans in Myanmar
 
 *2024-04-18 05:42:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-இலங்கையர்களுக்கு-பொது-மன்னிப்பு/175-336058) · `ta`
 
-மியன்மாரில் தடுத்து வைக்கப்பட்டுள்ள 15 இலங்கை மீனவர்களுக்கு  அந்நாட்டின் பொது மன்னிப்பு தினத்தையொட்டி பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+Myanmar grants public amnesty to 15 Sri Lankan fishermen detained for fishing. Sri Lanka's Ambassador to Myanmar Janaka Bandara mentions India's public amnesty due to friendship between countries. Arrangements are being made for their return to Sri Lanka.
 
-மியன்மார் கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 15 இலங்கை மீனவர்கள் கடந்த டிசம்பர் 2ஆம் திகதி கைது செய்யப்பட்டனர்.
+🟩
 
-இந்த நிலையில், குறித்த இலங்கை மீனவர்களுக்கு பொது மன்னிப்பு வழங்குமாறு மியன்மார் அரசாங்கத்திடம் கோரிக்கை விடுக்கப்பட்டிருந்தது. இருநாடுகளுக்கும் இடையிலான நட்புறவின் அடிப்படையில் அந்நாட்டு பிரதமர் பொது மன்னிப்பு வழங்கியுள்ளதாக மியன்மாருக்கான இலங்கை தூதுவர் ஜானக பண்டார தெரிவித்துள்ளார்.
+Public amnesty has been granted to 15 Sri Lankan fishermen detained in Myanmar on the occasion of the country.
 
-விடுவிக்கப்பட்டவர்கள் இன்னும் சில நாட்களில் இலங்கைக்கு திரும்புவதற்கான ஏற்பாடுகள் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டுள்ளார். (a)
+15 Sri Lankan fishermen were arrested on December 2 for fishing in the Myanmar seas.
+
+At this juncture, the Myanmar government had been asked to grant a public amnesty to the Sri Lankan fishermen. Sri Lanka's Ambassador to Myanmar Janaka Bandara has said that the Prime Minister of India has granted a public amnesty on the basis of the friendship between the two countries.
+
+He noted that arrangements are being made to return to Sri Lanka in a few days. (A)
 
 ◼️
 
 [Data](articles/31472a6c.json)
+
+[Extended Data](ext_articles/31472a6c.ext.json)
+
+---
+
+### Tensions in Gulf could hurt Ceylon Tea cuppa: Industry
+
+*2024-04-18 05:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tensions-in-Gulf-could-hurt-Ceylon-Tea-cuppa-Industry/108-280878) · `en`
+
+Says worsening situation in Gulf could immediately put a strain on tea prices
+
+Tea Board says industry has not officially shared any concerns as yet
+
+The mounting tensions in the Middle East that are becoming increasingly unpredictable are likely to impact the Ceylon Tea cuppa, the industry stakeholders said, especially since over 50 percent of the island nation’s tea is exported to that region.
+
+While the issues stemming from the Red Sea attack have already impacted the industry with longer delivery time and higher freight costs, new issues such as closure of airspace among others could add to the woes.
+
+“Continuity of this would mean restricted movement of people, sending out samples and getting orders. As long as the sea is open, things should be okay.
+
+...
+
+[Data](articles/7b25b822.json)
+
+---
+
+### Tourist arrivals cross 700,000 mark in 14 weeks
+
+*2024-04-18 04:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-700-000-mark-in-14-weeks/108-280879) · `en`
+
+Sri Lanka crossed the 700,000 tourist arrival milestone within the first 14 weeks of the year, almost half the time frame taken to reach the mark in 2023.
+
+The provisional data from the Sri Lanka Tourism Development Authority showed that from January 01 to April 15, the island nation welcomed a total of 718,315 international visitors.
+
+For the first 15 days of April, Sri Lanka saw a total of 82,531 tourists enter the country, which affirms the island nation is maintaining the growth momentum.
+
+The daily arrival average improved to around 5,502 in the month, from below 3000 arrivals a year ago.
+
+Sri Lanka is targeting between 168,539 and 182,724 tourist arrivals for April, which requires a daily average between 5,617 and 6,090, to achieve this target.
+
+The current arrival momentum shows that Sri Lanka may reach the lower bound of the arrival target for the month.
+
+...
+
+[Data](articles/536b7219.json)
+
+---
+
+### Tough action against those inconveniencing foreign visitors: Diana Gamage
+
+*2024-04-18 03:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tough-action-against-those-inconveniencing-foreign-visitors-Diana-Gamage/108-280882) · `en`
+
+Colombo, April 18 (Daily Mirror) - Strict measures will be taken against anyone causing inconvenience to foreigners visiting the country. She expressed concern over a group of individuals engaging in such indecent behavior, labeling them as disgraceful, Tourism State Minister Diana Gamage said.
+
+"These individuals show no respect towards foreigners. Their actions pose a threat to our country's reputation and cannot be tolerated," she stated.
+
+The State Minister highlighted that modern-day tourists are well-informed and not easily misled. She stressed the importance of maintaining Sri Lanka's reputation for friendliness and hospitality.
+
+"With nearly 700,000 foreigners having visited by April, it's crucial to prevent such actions from tarnishing our image and damaging our economy," Gamage warned.
+
+Recently, there have been two reported incidents in Kalutara and the Aluth Kade area of Colombo where tourists were treated poorly and charged excessively for meals.
+
+◼️
+
+[Data](articles/d427dc59.json)
 
 ---
 
@@ -2029,129 +2161,5 @@ Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Maha
 [Data](articles/a4bcfa5f.json)
 
 [Extended Data](ext_articles/a4bcfa5f.ext.json)
-
----
-
-### Sri Lanka bike mounted police learning to shoot from the seat
-
-*2024-04-17 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-bike-mounted-police-learning-to-shoot-from-the-seat-158887/) · `en`
-
-ECONONOMYNEXT – A special task force team is being trained to go after motorbike riders who are carrying out increasingly daring criminal acts, according to Police Chief Deshabandu Tennakoon.
-
-“They are being trained to take aim while riding, Inspector General of Police of Sri Lanka Tennakoon said in comments broadcast over Sri Lanka’s Sirasa TV.
-
-A team of 100 officers from the police Special Task Force (STF) is being trained in the STF training camp in Katukurunda, Tennakoon said.
-
-20 special teams from the Police Special Task Force (STF) are being trained to pursue and arrest members of organized criminal gangs in the western and southern areas, Sri Lanka Police said in a statement.
-
-අපරාධ කල්ලි සාමාජිකයන් හඹා ගොස් අත්අඩංගුවට ගැනීමට විශේෂ පොලිස් කණ්ඩායම් 20ක්https://t.co/0JVVB3AgNE#srilankapolice #policemedia #Police pic.twitter.com/FF635tLp6y
-
-...
-
-[Data](articles/17a066d2.json)
-
-[Extended Data](ext_articles/17a066d2.ext.json)
-
----
-
-### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
-
-*2024-04-17 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plantation-community-alleges-presence-of-scam-behind-Indian-Housing-project-CWC-faces-heat/108-280843) · `en`
-
-The Ceylon Workers Congress (CWC) is presently facing the heat as allegations have surfaced that the party is forcing Estate Superintendents within the estate community to select members loyal to the CWC as beneficiaries for an Indian grant which gives houses funded by the Indian government.
-
-Reliable sources told the Daily Mirror that under this Indian housing grant, those individuals who have left the estates, those who already have houses and reside in the estates, but work for other private entities are not eligible for these houses.
-
-"But sources linked to the project said they have come under tremendous pressure from the CWC to give houses to individuals falling into these categories; which is not the requirement of the Indian Government.
-
-"What we were told by the Indian High Commission offices is to select the most suitable beneficiaries, but not to do it based on affiliation to any trade union," sources said.
-
-...
-
-[Data](articles/456b24f3.json)
-
-[Extended Data](ext_articles/456b24f3.ext.json)
-
----
-
-### Plantation community alleges presence of ’scam’ behind Indian Housing project, CWC faces heat
-
-*2024-04-17 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Plantation-community-alleges-presence-of-scam-behind-Indian-Housing-project-CWC-faces-heat/155-280843) · `en`
-
-The Ceylon Workers Congress (CWC) is presently facing the heat as allegations have surfaced that the party is forcing Estate Superintendents within the estate community to select members loyal to the CWC as beneficiaries for an Indian grant which gives houses funded by the Indian government.
-
-Reliable sources told the Daily Mirror that under this Indian housing grant, those individuals who have left the estates, those who already have houses and reside in the estates, but work for other private entities are not eligible for these houses.
-
-"But sources linked to the project said they have come under tremendous pressure from the CWC to give houses to individuals falling into these categories; which is not the requirement of the Indian Government.
-
-"What we were told by the Indian High Commission offices is to select the most suitable beneficiaries, but not to do it based on affiliation to any trade union," sources said.
-
-...
-
-[Data](articles/63704ed1.json)
-
-[Extended Data](ext_articles/63704ed1.ext.json)
-
----
-
-### Today
-
-*2024-04-17 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181298) · `ta`
-
-Today, the US $295.2800 was reported at Rs.
-
-🟩
-
-The US $ 295.2800 was reported at Rs.
-
-◼️
-
-[Data](articles/b79a6a38.json)
-
-[Extended Data](ext_articles/b79a6a38.ext.json)
-
----
-
-### U.S. to hit Iran with new sanctions in “coming days”
-
-*2024-04-17 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98684/us-to-hit-iran-with-new-sanctions-in-coming-days) · `en`
-
-U.S. Treasury Secretary Janet Yellen on Tuesday warned that the U.S. intends to hit Iran with new sanctions in coming days over its unprecedented attack on Israel, and these actions could seek to reduce Iran’s capacity to export oil.
-
-“With respect to sanctions, I fully expect that we will take additional sanctions action against Iran in the coming days,” Yellen said told a news conference on the sidelines of the International Monetary Fund and World Bank spring meetings in Washington.
-
-“We don’t preview our sanctions tools. But in discussions I’ve had, all options to disrupt terrorist financing of Iran continue to be on the table,” Yellen added.
-
-She said that the Treasury and State Department have taken previous action to contain Iran’s “destabilizing” behavior by diminishing its ability to export oil.
-
-...
-
-[Data](articles/0209797b.json)
-
-[Extended Data](ext_articles/0209797b.ext.json)
-
----
-
-### Aung San Suki's house guard
-
-*2024-04-17 14:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆங்-சான்-சூகிக்கு-வீட்டு-காவல்/50-336041) · `ta`
-
-Aung San Suu Kyi, 78, Nobel Peace Prize winner, was Myanmar's president until 2021, when he claimed election fraud, reinstating military rule. Over 100, including him, were arrested. He faces allegations of rebellion and corruption, with some sentenced to 27 years. Recently, he was moved from prison to home custody due to a heat wave, with no public information on his location.
-
-🟩
-
-Aung San Suu Kyi (age 78) has fought many protests against military rule in Southeast Asian country of Myanmar. He was the winner of the Nobel Prize in Peace, and was elected president in 2020 on behalf of the National Democratic Party.
-
-But the next year, he claimed that he had defrauded the election. Thus the military rule was brought back there. An emergency order was issued there for a further 2½ years. Meanwhile, more than 100 people, including Aung San Suu Kyi, were arrested.
-
-This was followed by various allegations, including a rebellion and corruption scandal against Aung San Suu Kyi.. There are many cases pending in the country's court. In some cases, he was sentenced to 27 years in prison.
-
-In this case, the Myanmar military has reported that Aung San Suu Kyi has been transferred from the prison to home custody. The action has been reported due to the heat wave. There is no information on where Aung San Suu Kyi, who was transferred from prison, is.
-
-◼️
-
-[Data](articles/8e03dc93.json)
-
-[Extended Data](ext_articles/8e03dc93.ext.json)
 
 ---

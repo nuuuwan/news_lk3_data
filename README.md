@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 11:18:23**
+As of **2024-04-18 11:34:15**
 
 ## Newspaper Stats
 
-*Scraped **19,501** Articles*
+*Scraped **19,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,624
 tamilmirrorlk | 2,274
 adaderanalk | 2,339
 virakesarilk | 2,904
-dailymirrorlk | 3,011
+dailymirrorlk | 3,013
 adaderanasinhalalk | 3,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,501 (100.0%) of 19,501 articles have been extended.
+19,501 (100.0%) of 19,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Mount Ruang volcano eruption
+
+*2024-04-18 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mount-Ruang-volcano-eruption/110-280889) · `en`
+
+This handout photograph taken and released by the Center for Volcanology and Geological Hazard Mitigation yesterday (17), shows Mount Ruang spewing hot lava and smoke as seen from Sitaro, North Sulawesi.
+
+◼️
+
+[Data](articles/55149ee4.json)
+
+---
 
 ### “The Bill will be submitted next week”
 
@@ -53,6 +65,20 @@ Accordingly, the Bill will be given to the public to ensure its legitimate chara
 [Data](articles/70b7923c.json)
 
 [Extended Data](ext_articles/70b7923c.ext.json)
+
+---
+
+### Enjoining Order preventing Maithripala holding SLFP chairmanship extended further
+
+*2024-04-18 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enjoining-Order-preventing-Maithripala-holding-SLFP-chairmanship-extended-further/108-280888) · `en`
+
+Colombo, April 18 (Daily Mirror)- The Colombo District Court today further extended its enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
+
+The Colombo District Court made this order following a lawsuit filed by former President Chandrika Bandaranaike Kumaratunga.
+
+◼️
+
+[Data](articles/019add5c.json)
 
 ---
 
@@ -2161,47 +2187,5 @@ It was said that this situation could be held until the 25th of this month, he s
 [Data](articles/7d1fdc84.json)
 
 [Extended Data](ext_articles/7d1fdc84.ext.json)
-
----
-
-### CEB approved Rs. 417 offered allowances
-
-*2024-04-17 19:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-අනුමත-නොකළ-රු-මි--417ක-දීමනා-ගෙවලා/11-409131) · `si`
-
-The National Audit Office approved Rs. 417 million for Ceylon Electricity (CEB) allowances, incentives, and temporary allowances, paid to staff for services including virus and generating plan, system control, and detection allowance. In July 2022, Rs. 3.65 million was paid to 136 officers, and 25 employees were introduced to the Cabinet decision on April 1, 2008. CEB limited staff allowance to 65% of July on July 27, 2022.
-
-🟩
-
-417.65 million to the Ceylon Electricity Allowances, Incentives, Temporary Allowances, Eligible Allowances, Eligibility: Rs.The National Audit Office has been audited by the National Audit Office on April 12.
-
-VHS 'and S. The audit report also stated that the incentive plan was paid to the staff's revirus and generating plan, system control, and other services.. The detection allowance has been paid to Rs.
-
-In the month of July 2022, a grant of 136 officers had paid Rs. 3.65 million.The audit report reveals that 25 employees will be paid to employees who are introduced to the Cabinet decision on 1 April 2008.. The CEB's management has stated that the CEB has decided to limit the staff allowance to 65% of July on July 27, 2022.
-
-◼️
-
-[Data](articles/d881636d.json)
-
-[Extended Data](ext_articles/d881636d.ext.json)
-
----
-
-### Debt Reorganization negotiations: Continuing Discussion for Agreement
-
-*2024-04-17 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181332) · `ta`
-
-Debt Reorganization talks continue, with Sri Lankan officials aiming for transparency and agreement with bond owners on restoring international sovereignty bonds.
-
-🟩
-
-Finance Minister Shehan Semasinghe said that continuing discussions are expected to be held to reach the bonds with bond owners regarding the restoration of international sovereignty bonds.
-
-The Minister of State also says that Sri Lankan officials will join goodwill in the debt renovation talks and work to handle all Sri Lankan officials and create the maximum transparency expected in such negotiations.
-
-◼️
-
-[Data](articles/88e84c24.json)
-
-[Extended Data](ext_articles/88e84c24.ext.json)
 
 ---

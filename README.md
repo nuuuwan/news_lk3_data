@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 07:54:05**
+As of **2024-04-18 08:06:35**
 
 ## Newspaper Stats
 
-*Scraped **19,467** Articles*
+*Scraped **19,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,77 @@ dbsjeyarajcom | 215
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
-economynextcom | 1,099
+economynextcom | 1,102
 adalk | 1,620
 tamilmirrorlk | 2,266
-adaderanalk | 2,333
+adaderanalk | 2,334
 virakesarilk | 2,903
 dailymirrorlk | 3,008
-adaderanasinhalalk | 3,167
+adaderanasinhalalk | 3,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,467 (100.0%) of 19,467 articles have been extended.
+19,467 (100.0%) of 19,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Showers expected in parts of the island
+
+*2024-04-18 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98692/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in North-central, Central and North-western provinces and in Mannar districts during the afternoon or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/f89c71cf.json)
+
+---
+
+### මරණවලට ප්‍රධානතම හේතුව හෘදයාබාධ බව හෙළිවෙයි
+
+*2024-04-18 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195744) · `si`
+
+මෑත කාලීනව සිදුවන මරණවලට ප්‍රධානතම හේතුව හෘදයාබාධ බව සෞඛ්‍ය අංශ පවසයි.
+
+2010 වසරේ සිට 2020 වසර දක්වා රජයේ රෝහල්වලින් වාර්තා වූ වැඩිම මරණ, හෘදයාබාධ හේතුවෙන් සිදුව ඇති බව සෞඛ්‍ය අංශ පෙන්වාදෙයි.
+
+සෞඛ්‍යයට අහිතකර ආහාර, ශාරීරික ක්‍රියාශීලිභාවය අඩුවීම, දුම්කොළ, මත්පැන් භාවිතය සහ මානසික ආතතිය හෘදයාබාධ වැළදීමට ප්‍රධාන හේතුව බව සඳහන් වේ.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග අධ්‍යක්ෂ කාර්යාලයේ, විශේෂඥ වෛද්‍ය ශෙරීල් බාලසිංහම් මහත්මිය ඒ පිළිබඳව මෙසේ පැහැදිලි කළාය.
+
+"හෘදයට ලේ සපයන රුධිර නාලවල ඇති වන හානියක් නිසා මෙම රෝගී තත්ත්වය ඇති වෙනවා. ඔයාලා අහලා ඇති හාට් ඇටෑක් එහෙම නැත්නම් හෘදයාබාධය කියලා අපි කියන්නේ මෙවැනි රෝගී තත්ත්වයක්. බෝ නොවන රෝග වැළදීමට විශේෂ අවධානම් සාධක කිහිපයක්ම තියෙනවා. පළවෙනි එක තමා සෞඛ්‍යයට අහිතකර අධික වශයෙන් සීනි, ලුණු හා තෙල් භාවිතය. ඊළඟ එක දෙවනුවට ශාරීරික ක්‍රියාශීලිත්වය අඩුවීම. ඒ වගේම දුම්කොළ හා මත්පැන් භාවිතය සහ මානසික ආතතිය මෙම සාධක අතර වෙනවා."
+
+...
+
+[Data](articles/10d679a9.json)
+
+---
+
+### අලුත් අවුරුද්දේ පැළ සිටුවීමේ නැකැත අද
+
+*2024-04-18 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195743) · `si`
+
+සිංහල දෙමළ අලුත් අවුරුදු නැකත් චාරිත්‍රවල අවසන් චාරිත්‍රය වන පැළ සිටුවීමේ චාරිත්‍රය අදට (18) යෙදී තිබේ.
+
+අද පූර්වභාග 10.16ට යෙදී ඇති සුබ නැකතින් රන්වන් පැහැති වස්ත්‍රාභරණයෙන් සැරසී නැගෙනහිර දිශාව බලා පැළසිටුවීම මැනවි බව අවුරුදු නැකැත් චාරිත්‍රයේ දැක්වේ.
+
+මේ අතර පැළ සිටුවීමේ චාරිත්‍රයට පැළයක් සිටුවන ලෙසට සියලු රජයේ කාර්යාල, අමාත්‍යාංශ, ගොවිජන සේවා ඇතුළු අංශ වෙත උපදෙස් ලබා දී ඇති බව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6e698975.json)
+
+---
 
 ### Sri Lanka women's group records
 
@@ -80,6 +134,28 @@ It is reported that the SLFP Politburo will consider today (18).
 
 ---
 
+### Japan assures fast track to Sri Lanka’s debt restructuring: State FinMin
+
+*2024-04-18 06:58:00* · [`economynextcom`](https://economynext.com/japan-assures-fast-track-to-sri-lankas-debt-restructuring-state-finmin-158971/) · `en`
+
+ECONOMYNEXT – Japan has assured to speed up Sri Lanka’s ongoing debt restructuring debt restructuring process, State Finance Minister Shehan Semasinghe said.
+
+Semasinghe met Fujii Daijo, the Japanese Deputy Vice Finance Minister for International Affairs, in he sideline of the IMF/World Bank Spring Meetings in Washington.
+
+He said the top Japanese minister confirmed the strong friendship and relationship between Japan and Sri Lanka.
+
+“He appreciated the excellent progress made my Sri Lanka, and congratulated the Sri Lankan authorities led by Hon. President for the strong leadership and economic management,” Semasinghe said in his X platform.
+
+“In turn, I thanked the Deputy Vice Minister for Japan’s continued support for Sri Lanka, particularly as Co-Chair of the Official Creditor Committee.”
+
+“We discussed in detail progress on debt restructuring, and we were assured of Japan’s continued commitment to early finalisation of the debt restructuring process.” (Colombo/April 18/2024)
+
+◼️
+
+[Data](articles/ca141d5a.json)
+
+---
+
 ### Easter attacks: NPP pledges action against culprits under its government
 
 *2024-04-18 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-attacks-NPP-pledges-action-against-culprits-under-its-government/108-280883) · `en`
@@ -101,6 +177,44 @@ In the seven-point statement, the NPP said the Easter attack was a conspiracy to
 [Data](articles/8389259b.json)
 
 [Extended Data](ext_articles/8389259b.ext.json)
+
+---
+
+### Iran rescues 21 Sri Lanka sailors from storm tossed tanker
+
+*2024-04-18 06:20:00* · [`economynextcom`](https://economynext.com/iran-rescues-21-sri-lanka-sailors-from-storm-tossed-tanker-158977/) · `en`
+
+ECONOMYNEXT – Iran’s maritime rescue service has rescued 21 Sri Lanka sailors from a oil tanker which was foundering off the port of Jask, a media report said.
+
+Head of maritime authority Jask, Mohammad Amin Amani was quoted by Irans Presstv.ir portal as saying the  Cook Islands-flagged tanker had been caught in heavy storms and was foundering 30 miles off the port.
+
+“Jask’s rescue and relief vessel was dispatched to the area and saved the 21 crew of the foreign ship,” said Mohammad Amin Amani said.
+
+Storms have hit the Sea of Oman and the Strait of Hormuz, a key energy transport corridor where Jask is located on the eastern tip, the report said.
+
+UAE and Bahrain have reported flooding from heavy rainstorms over the past week. (Colombo/Apr18/2024)
+
+◼️
+
+[Data](articles/0adc3acc.json)
+
+---
+
+### Sri Lanka to resume bondholder talks after IMF checks their latest proposal
+
+*2024-04-18 06:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-bondholder-talks-after-imf-checks-their-latest-proposal-158962/) · `en`
+
+ECONOMYNEXT – Sri Lanka hopes to resume talks with bondholders after the International Monetary Fund assesses their latest proposal of the ad hoc group that deals with the country, State Minister for Finance Shehan Semasinghe said.
+
+Sri Lanka initiated the first round of face-to-face discussions with bondholders in March where proposals and counter proposals were exchanged and agreement was reached to issue bonds linked to economic performance.
+
+However, Sri Lanka had not agreed to the triggers nor the actual quantum of upside and the latest April proposal had not been assessed by the International Monetary Fund to ensure whether it was in line with a debt sustainability assessment. Their earlier proposal in March was assessed to be insufficient.
+
+“The next steps would entail further consultation with the IMF staff regarding assessments of the compatibility of the latest proposals with program parameters,” Semasinghe said.
+
+...
+
+[Data](articles/f1a6436b.json)
 
 ---
 
@@ -2055,139 +2169,5 @@ Sri Lanka had previously petitioned the Myanmar government for clemency on behal
 [Data](articles/79c1309a.json)
 
 [Extended Data](ext_articles/79c1309a.ext.json)
-
----
-
-### Excise officer remanded for distorting popular Avurudu song
-
-*2024-04-17 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98685/excise-officer-remanded-for-distorting-popular-avurudu-song) · `en`
-
-The 31-year-old, who was arrested for allegedly singing a distorted version of the popular New Year song ‘Sooriya Mangalle’ by veteran singer Rohana Beddage and sharing it on social media, has been remanded.
-
-The suspect was thus ordered to be remanded until April 22, on the orders of Kuliyapitiya Acting Magistrate Upul Alagiyawanna who rejected the defense counsels’ request for bail.
-
-He also called for a report on the suspect’s mental health and ordered to refer him to the Kurunegala Teaching Hospital’s mental health unit.
-
-The arrestee was identified as an Excise Officer attached to the sub-office in Dummalasuriya and a resident of Thalathuoya.
-
-The North Western Province Unit of the Computer Crime Investigation Division had launched an investigation into the matter based on a complaint received by the IGP alleging that the song in question, which is frequently aired during the Sinhala and Tamil New Year, had been distorted and shared on social media.
-
-...
-
-[Data](articles/71b85330.json)
-
-[Extended Data](ext_articles/71b85330.ext.json)
-
----
-
-### The national folk force explains how justice does the Easter victims explain
-
-*2024-04-17 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195722) · `si`
-
-The national folk force pledges justice for Easter victims, promising to properly implement laws and take legal action against those involved in the April 21st, 2019, attack.
-
-🟩
-
-The party has promised the pledge of justice in justice to victims of the Sunday of the Sunday of the end of April 21st 2019.
-
-It is also emphasized that the government is implementing the law to the issue properly in the national promotion and to take proper legal action against individuals who are directly involved in the attack.
-
-◼️
-
-[Data](articles/496bf925.json)
-
-[Extended Data](ext_articles/496bf925.ext.json)
-
----
-
-### A van carrying a band rolls in canal
-
-*2024-04-17 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195721) · `si`
-
-A van carrying the Evt Band Bandu Polonnaruwa was in danger in a canal, but no one was hurt. The driver was asleep due to exhaustion from concerts.
-
-🟩
-
-A van that was carrying a band a band was in danger to the stream.
-
-The van that was carrying the Evt Band Bandu Polonnaruwa, Polonnaruwa.
-
-No one has been harmed in the accident and damaged the van.
-
-The Polonnaruwa Evt Band today told Ada Derana that the van was driven by the van and was sleeping with the struggle caused by a number of concerts.
-
-They were inaugurated in the accident in general area Polonnaruwa.
-
-◼️
-
-[Data](articles/ef0fce0c.json)
-
-[Extended Data](ext_articles/ef0fce0c.ext.json)
-
----
-
-### Explain to Kalal Officer arrested on charges of distorting New Year's song!
-
-*2024-04-17 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181302) · `ta`
-
-Kalal Officer arrested for distorting New Year's song by Rohana Betake, remanded until 22nd. Accused of singing a distorted version of the song.
-
-🟩
-
-The suspect arrested on charges of distorting the New Year's song has been remanded until the 22nd of this month.
-
-The suspect has been accused of distorting and singing a New Year song sung by senior singer Rohana Betake.
-
-The 31 -year -old Kalal officer living in the Talatuoya area has been arrested.
-
-The order was issued when the suspect was produced before the Kiliyapitiya Magistrate's Court on Wednesday (17).
-
-Further investigations into the incident are being carried out by the Northwest Provincial Division of the Computer Criminal Investigation Division.
-
-◼️
-
-[Data](articles/97f27ddd.json)
-
-[Extended Data](ext_articles/97f27ddd.ext.json)
-
----
-
-### Sri Lanka’s UNP scoffs at SJB v NPP debate, calls it ‘battle of empty rhetoric’
-
-*2024-04-17 15:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-scoffs-at-sjb-v-npp-debate-calls-it-battle-of-empty-rhetoric-158886/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe’s United National Party (UNP) has dismissed a proposed debate between its rivals Samagi Jana Balawegaya (SJB) and National People’s Power (NPP) as a battle of empty rhetoric.
-
-UNP general secretary Palitha Range Bandara told reporters on Wednesday April 17 that the two opposition parties, having shirked their responsibility in taking up the challenge of governing the country at the height of the 2022 financial crisis, is now talking about a debate once the hard work of stabilising the economy has already been done by a UNP president.
-
-“Two sides that engage in empty rhetoric are about to get on a stage. We can see that. It’s a battle of empty rhetoric. It’s not about developing the country,” said Bandara.
-
-Asked about the proposal for a debate between the SJB’s and the NPP’s economic councils, the former MP said: “If there is a team with such profound knowledge on the economy, why did they not take up the job?”
-
-...
-
-[Data](articles/af026312.json)
-
-[Extended Data](ext_articles/af026312.ext.json)
-
----
-
-### Complaint lodged over Piumi Hansamali's possession of Gota’s Range Rover
-
-*2024-04-17 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Complaint-lodged-over-Piumi-Hansamali-s-possession-of-Gotas-Range-Rover/108-280844) · `en`
-
-Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint with the Illegal Assets Investigations Division, calling for an inquiry into model Piumi Hansamali using the Range Rover vehicle previously used  by former President Gotabaya Rajapaksa.
-
-"It is clear that an election is near and politicians tend to inject all their saved black money into the upcoming election campaigns and it has become a good time for the people who engage with money laundering activities.
-
-"Accordingly, we have some doubts on how Piumi Hansamal managed to get the Range Rover vehicle (CBH 1949) which was used by former President Gotabaya Rajapaksa.
-
-"The question arises whether the Range Rover vehicle was given to the former president or if Gotabaya has given it to Piyumi," said Mahawatta and further alleged that the model currently resides in a super luxury apartment, owns other properties and leads an exceedingly luxurious lifestyle.
-
-...
-
-[Data](articles/02a10bf9.json)
-
-[Extended Data](ext_articles/02a10bf9.ext.json)
 
 ---

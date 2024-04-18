@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 07:17:14**
+As of **2024-04-18 07:33:09**
 
 ## Newspaper Stats
 
-*Scraped **19,466** Articles*
+*Scraped **19,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,57 @@ tamilmirrorlk | 2,266
 adaderanalk | 2,333
 virakesarilk | 2,903
 dailymirrorlk | 3,008
-adaderanasinhalalk | 3,166
+adaderanasinhalalk | 3,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,459 (100.0%) of 19,466 articles have been extended.
+19,466 (100.0%) of 19,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ශ්‍රීලනිප දේශපාලන මණ්ඩල තීන්දුව ගැන සලකා බැලීම අද
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායමෙන් එක්දින වාර්තා රැසක්
+
+*2024-04-18 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195742) · `si`
+
+දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම සමග පැවති එක්දින ක්‍රිකට් තරගාවලිය තරග දෙකකට එකක් ලෙස ජය ගැනීමට සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සමත්ව තිබේ.
+
+ඒ ඊයේ (17) දිනයේ අවසන් වු තෙවන එක්දින තරගය කඩුලු 6කින් ජය ගැනීමත් සමගය.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් දකුණු අප්‍රිකානු කාන්තා කණ්ඩායම නියමිත පන්දුවාර 50 තුළ කඩුලු 5ක් දැවී ලකුණු 301ක් ලබා ගැනීමට සමත් වුණි.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 44යි පන්දු 3ක් තුළ කඩුලු 4ක් පමණක් දැවී ලකුණු 305ක් ලබා ගනිමින් ජයග්‍රහණය වාර්තා කළහ.
+
+එහිදි කාන්තා කණ්ඩායමක් එක්දින තරගාවලියක ඉහළ ලකුණු සංඛ්‍යාවක් හඹාගොස් ජය වාර්තා කිරීමේ පළමු අවස්ථාව මෙය බව වාර්තා වේ.
+
+ශ්‍රී ලංකා ඉනිම වෙනුවෙන් චමරි අතපත්තු නොදැවී ලකුණු 195ක් ලබාගත් අතර ඊට හයේ පහර 5ක් සහ හතරේ පහර 26ක් ඇතුළත්ය.
+
+ඒ අනුව එක්දින ක්‍රිකට් තරගාවලියක කාන්තා ක්‍රීඩිකාවක් ලබාගත් ඉහළම තෙවැනි ලකුණු සංඛ්‍යාව මෙය වනු ඇත.
+
+◼️
+
+[Data](articles/97e607ad.json)
+
+---
+
+### SLFP Politburo verdict today
 
 *2024-04-18 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195741) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මැතිවරණ කොමිසම වෙත ලබාදුන් තීන්දු පිළිබඳ අද (18) දින සලකා බැලෙනු ඇති බව වාර්තා වේ.
+SLFP Politburo to discuss matters today.
+
+🟩
+
+It is reported that the SLFP Politburo will consider today (18).
 
 ◼️
 
 [Data](articles/8dd05b46.json)
+
+[Extended Data](ext_articles/8dd05b46.ext.json)
 
 ---
 
@@ -63,6 +93,8 @@ In the seven-point statement, the NPP said the Easter attack was a conspiracy to
 ...
 
 [Data](articles/8389259b.json)
+
+[Extended Data](ext_articles/8389259b.ext.json)
 
 ---
 
@@ -122,6 +154,8 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 
 [Data](articles/20915742.json)
 
+[Extended Data](ext_articles/20915742.ext.json)
+
 ---
 
 ### Public amnesty for Sri Lankans in Myanmar
@@ -166,6 +200,8 @@ While the issues stemming from the Red Sea attack have already impacted the indu
 
 [Data](articles/7b25b822.json)
 
+[Extended Data](ext_articles/7b25b822.ext.json)
+
 ---
 
 ### Tourist arrivals cross 700,000 mark in 14 weeks
@@ -188,6 +224,8 @@ The current arrival momentum shows that Sri Lanka may reach the lower bound of t
 
 [Data](articles/536b7219.json)
 
+[Extended Data](ext_articles/536b7219.ext.json)
+
 ---
 
 ### Tough action against those inconveniencing foreign visitors: Diana Gamage
@@ -207,6 +245,8 @@ Recently, there have been two reported incidents in Kalutara and the Aluth Kade 
 ◼️
 
 [Data](articles/d427dc59.json)
+
+[Extended Data](ext_articles/d427dc59.ext.json)
 
 ---
 
@@ -2143,23 +2183,5 @@ Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Maha
 [Data](articles/02a10bf9.json)
 
 [Extended Data](ext_articles/02a10bf9.ext.json)
-
----
-
-### Probe how Piumi Hansamali got Gota’s Range Rover: Mage Rata organisation
-
-*2024-04-17 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Probe-how-Piumi-Hansamali-got-Gotas-Range-Rover-Mage-Rata-organisation/108-280844) · `en`
-
-Colombo, April 17 (Daily Mirror) - Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint with the Illegal Assets Investigations Division, calling for an inquiry into Sri Lankan television personality, beauty pageant contestant and model Piumi Hansamali using the Range Rover vehicle previously used  by former President Gotabaya Rajapaksa.
-
-"It is clear that an election is near and politicians tend to inject all their saved black money into the upcoming election campaigns and it has become a good time for the people who engage with money laundering activities.
-
-"Accordingly, we have some doubts on how Piumi Hansamal managed to get the Range Rover vehicle (CBH 1949) which was used by former President Gotabaya Rajapaksa.
-
-...
-
-[Data](articles/a4bcfa5f.json)
-
-[Extended Data](ext_articles/a4bcfa5f.ext.json)
 
 ---

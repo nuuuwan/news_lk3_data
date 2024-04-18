@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 22:33:55**
+As of **2024-04-18 22:51:03**
 
 ## Newspaper Stats
 
-*Scraped **19,627** Articles*
+*Scraped **19,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,118
 adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
-virakesarilk | 2,937
+virakesarilk | 2,938
 dailymirrorlk | 3,031
 adaderanasinhalalk | 3,192
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,626 (100.0%) of 19,627 articles have been extended.
+19,627 (100.0%) of 19,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### யாழ்ப்பாணத்தில் கிணற்றில் விழுந்த இளம் குடும்பப் பெண் உயிரிழப்பு!
+
+*2024-04-18 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181408) · `ta`
+
+வலிப்பு ஏற்பட்ட நிலையில் கிணற்றில் விழுந்த இளம் குடும்பப் பெண் ஒருவர் புதன்கிழமை (17) உயிரிழந்துள்ளார். இதன்போது மாதகல் - சகாயபுரம் பகுதியைச் சேர்ந்த பிரதீபன் நித்தியா (வயது 37) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணுக்கு வலிப்பு நோய் உள்ளது. இந்நிலையில் புதன்கிழமை (17) பிற்பகல் 6.30 மணியளவில் வீட்டு கிணற்றில் இருந்து சடலமாக மீட்கப்பட்டார். பின்னர் சடலம் தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டது.
+
+சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் வியாழக்கிழமை (18) உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+இரண்டு பிள்ளைகளின் தாயான இவர் வலி. தென்மேற்கு பிரதேச சபையின் பண்டத்தரிப்பு உப அலுவலகத்தில் அபிவிருத்தி உத்தியோகத்தராக கடமை புரிந்து வந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d77c216b.json)
+
+---
 
 ### Kenya military helicopter crashes with defense chief on board
 
@@ -49,6 +67,8 @@ It is the highest decision making organ of the country on security matters and i
 ◼️
 
 [Data](articles/8194ef95.json)
+
+[Extended Data](ext_articles/8194ef95.ext.json)
 
 ---
 
@@ -2289,35 +2309,5 @@ Army personnel have been legally announced to leave the Army to leave the Army.
 [Data](articles/03963c01.json)
 
 [Extended Data](ext_articles/03963c01.ext.json)
-
----
-
-### Exceptional time our Piyindi received
-
-*2024-04-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195753) · `si`
-
-Sri Lankan scientist Piyumi Wijesekara selected for Mars exploration. Joining NASA's "Human Exploration Research AALOG" on May 10, training at the Johnson Space Center in Houston.
-
-🟩
-
-According to foreign media reports, a Sri Lankan scientist has also been selected for exploration of Mars.
-
-The operation of the environmental features of the Environmental characteristics of the Johnson Space Center in Houson is built at Huston's Johnston.
-
-They are Jason Lee, Stephanie Navarro, Sharif al-Romasekara and Piyumi Wijesekara.
-
-They will enter NASA's "Human Exportation Research AALOG" in NASA's' Human Exploration "on May 10. NASA announced that they were as astronaut for 45 days.
-
-The Joneson Space Station has been built to provide training to the Moon, Mars, Mars and other space zones before sending astronauts.
-
-Scientists also have the opportunity to acquire the necessary knowledge of the affairs of astronauts.
-
-Piyumi Wijesekara, who is selected for the team, is a research scientist at the Radiation Bio Physical Laboratory of California.
-
-◼️
-
-[Data](articles/f140dbf5.json)
-
-[Extended Data](ext_articles/f140dbf5.ext.json)
 
 ---

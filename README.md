@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 19:03:28**
+As of **2024-04-18 19:18:23**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,189
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,600 (100.0%) of 19,603 articles have been extended.
+19,603 (100.0%) of 19,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ජනපති චමරිට සුබ පතයි
+### President greets Chamari
 
 *2024-04-18 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195764) · `si`
 
-ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු හට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය සුබපැතුම් එක්කර තිබේ.
+President Ranil Wickremesinghe congratulated Chamari Atapattu for leading Sri Lanka women's cricket team to victory over South Africa, breaking a record with 302 runs.
 
-ජනාධිපති මාධ්‍ය ඒකකය පවසන්නේ දකුණු අප්‍රිකාවට එරෙහිව ඊයේ ලද විශිෂ්ට ජයග්‍රහණය සමග ජනාධිපතිවරයා පෞද්ගලිකව චමරි අතපත්තු වෙත සුබපැතුම් එක්කළ බවය.
+🟩
 
-දකුණු අප්‍රිකාව සමඟ පැවති අවසන් එක්දින තරගයේදී කාන්තා ක්‍රිකට් ඉතිහාසය රන් අකුරින් සටහන් කරන්නට ශ්‍රී ලංකා කාන්තා කණ්ඩායම ඊයේ (17) සමත්වුණි.
+President Ranil Wickremesinghe has joined the Sri Lankan women's cricket team leader Chamari Atapattu.
 
-ඒ අවසන් එක්දින තරගයේ හිමිවූ ලකුණු 302ක ජයග්‍රාහි ඉලක්කය හඹාගොස් ජය ගැනීමත් සමගය.
+The Presidential Media Unit says the President has given Chamari Atapattu with the excellent achievement against South Africa.
 
-ඒ අතර එම තරගයේදී ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නොදැවී ලකුණු 195ක් වාර්තා කිරීමද විශේෂත්වයකි.
+Sri Lanka women's group yesterday (17) had passed the history of women in the last one-day match with South Africa.
 
-දකුණු අප්‍රිකා කාන්තා කණ්ඩායම සහ ශ්‍රී ලංකා කාන්තා කණ්ඩායම අතර පැවති අවසන් එක්දින ක්‍රිකට් තරගයේ පළමුව පන්දුවට පහර දුන් දකුණු අප්‍රිකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේදී කඩුලු 5ක් දැවි රැස්කළ ලකුණු සංඛ්‍යාව 301කි.
+The target of 302 runs in the last ODI series with the winning goal of 302 runs.
+
+Meanwhile, Sri Lanka Leader Chamari Atapattu was unbeaten on 195 runs.
+
+South Africa women and South Africa celebrations were first bowled out for 301 at the end of 50 wickets at the end of 50 wickets.
 
 ◼️
 
 [Data](articles/17eaaf39.json)
+
+[Extended Data](ext_articles/17eaaf39.ext.json)
 
 ---
 
@@ -72,6 +78,8 @@ After being brought back to the country, the individual will be incarcerated to 
 
 [Data](articles/7247d8e8.json)
 
+[Extended Data](ext_articles/7247d8e8.ext.json)
+
 ---
 
 ### SL Army issues general amnesty to absentees
@@ -87,6 +95,8 @@ Upon reporting, they must provide essential documents including their Army ID (o
 ...
 
 [Data](articles/5312b9a8.json)
+
+[Extended Data](ext_articles/5312b9a8.ext.json)
 
 ---
 

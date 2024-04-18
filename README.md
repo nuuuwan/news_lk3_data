@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 12:33:53**
+As of **2024-04-18 12:50:38**
 
 ## Newspaper Stats
 
-*Scraped **19,531** Articles*
+*Scraped **19,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
-adalk | 1,625
+adalk | 1,626
 tamilmirrorlk | 2,279
-adaderanalk | 2,342
-virakesarilk | 2,909
+adaderanalk | 2,343
+virakesarilk | 2,910
 dailymirrorlk | 3,015
 adaderanasinhalalk | 3,180
 
@@ -26,21 +26,61 @@ adaderanasinhalalk | 3,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,530 (100.0%) of 19,531 articles have been extended.
+19,531 (100.0%) of 19,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### මෙම ජාවාරම්කරුවන්ට අහුවෙන්න එපා
+### IMF ready to support Sri Lanka’s discussions with bondholders
+
+*2024-04-18 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98701/imf-ready-to-support-sri-lankas-discussions-with-bondholders) · `en`
+
+The International Monetary Fund (IMF) stands ready to support Sri Lanka’s discussions with international bondholders and will provide a formal assessment after the parties reach a tentative agreement-in-principle, an IMF spokesperson said on Thursday.
+
+“We hope an agreement consistent with the parameters of the IMF-supported program and official creditors’ Comparability of Treatment requirements can be reached soon, ahead of completing the second review under the program,” the spokesperson said.
+
+Sri Lanka said it failed to reach an agreement with bondholders to restructure about $12 billion debt earlier this week, raising concerns there could be a delay in the island nation receiving a third tranche of its $2.9 billion IMF program in June.
+
+The government said one of the main stumbling blocks had been that the “baseline parameters” of the bondholders’ plan had not matched those embedded in its IMF program.
+
+...
+
+[Data](articles/bf84faba.json)
+
+---
+
+### Don't get caught up to these racketeers
 
 *2024-04-18 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195755) · `si`
 
-රුසියානු හමුදාවේ සේවය සඳහා යවන බවට පවසමින් පුද්ගලයින්ගෙන් මුදල් ලබාගත් දෙදෙනෙක්ව අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+Two individuals involved in a scam targeting Russian army recruits have been apprehended.
+
+🟩
+
+Two persons who had obtained money from the people who were sent to the Russian army have been arrested.
 
 ◼️
 
 [Data](articles/528b3130.json)
+
+[Extended Data](ext_articles/528b3130.ext.json)
+
+---
+
+### மைத்திரிபால சிறிசேனவிற்கு தடை உத்தரவு நீடிப்பு!
+
+*2024-04-18 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181358) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவு நீடிக்கப்பட்டுள்ளது.
+
+கொழும்பு மாவட்ட நீதிமன்றத்தில் இன்று வியாழக்கிழமை (18) விசாரணைகள் மேற்கொள்ளப்பட்ட நிலையில் எதிர்வரும் மே மாதம் 09 ஆம் திகதி வரை தடை உத்தரவு  நீடிக்குமாறு  உத்தரவிடப்பட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் முன்வைக்கப்பட்ட  முறைப்பாட்டின்  அடிப்படையில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c792b90f.json)
 
 ---
 
@@ -90,7 +130,7 @@ Meanwhile in December 2023, it was reported that three Sri Lankan mercenaries we
 
 *2024-04-18 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-firms-expected-to-start-gender-equality-panels-in-planned-law-159033/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s state agencies and private companies will be required to set up a gender equality panel, headed by a senior executive according to a draft law published in the government gazette
+ECONOMYNEXT – Sri Lanka’s state agencies and private companies will be required to set up a gender equality panel, headed by a senior executive according to a draft law published in the government gazette.
 
 The panel called a Gender Focal Point should be headed by an Additional Secretary or a deputy to the head of the institution or higher, the bill says.
 
@@ -204,25 +244,9 @@ Piyumi Wijesekara, who is selected for the team, is a research scientist at the 
 
 ---
 
-### Sri Lankan among NASA’s new crew for next simulated Mars journey
-
-*2024-04-18 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-among-NASAs-new-crew-for-next-simulated-Mars-journey/108-280901) · `en`
-
-A Sri Lankan postdoctoral research scientist Piyumi Wijesekara is among the new crew of four volunteers selected by NASA to participate in a simulated mission to Mars within a habitat at the agency’s Johnson Space Center in Houston.
-
-The NASA said Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will step into the agency’s Human Exploration Research Analog, or HERA, on Friday, May 10. Once inside, the team will live and work like astronauts for 45 days. The crew will exit the facility on June 24 after they “return” to Earth. Jose Baca and Brandon Kent are this mission’s alternate crew members.
-
-...
-
-[Data](articles/541dadb4.json)
-
-[Extended Data](ext_articles/541dadb4.ext.json)
-
----
-
 ### We strongly oppose elections - we will not tolerate a little
 
-*2024-04-18 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181360) · `ta`
+*2024-04-18 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181360) · `ta`
 
 The Sri Lanka Bar Association opposes regulating parliamentary presidential elections, arguing against postponement due to its impact on public confidence. President Kausalya Navaratne of the Sri Lanka Lawyers Association emphasizes the absence of constitutional provisions for holding a presidential election before November, suggesting it could occur if the parliamentary term ends and the parliament is dissolved beforehand, without any post-election regulations.
 
@@ -245,6 +269,22 @@ There are no arrangements for the post -election regulation.
 [Data](articles/adb31c74.json)
 
 [Extended Data](ext_articles/adb31c74.ext.json)
+
+---
+
+### Sri Lankan among NASA’s new crew for next simulated Mars journey
+
+*2024-04-18 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-among-NASAs-new-crew-for-next-simulated-Mars-journey/108-280901) · `en`
+
+A Sri Lankan postdoctoral research scientist Piyumi Wijesekara is among the new crew of four volunteers selected by NASA to participate in a simulated mission to Mars within a habitat at the agency’s Johnson Space Center in Houston.
+
+The NASA said Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will step into the agency’s Human Exploration Research Analog, or HERA, on Friday, May 10. Once inside, the team will live and work like astronauts for 45 days. The crew will exit the facility on June 24 after they “return” to Earth. Jose Baca and Brandon Kent are this mission’s alternate crew members.
+
+...
+
+[Data](articles/541dadb4.json)
+
+[Extended Data](ext_articles/541dadb4.ext.json)
 
 ---
 
@@ -480,7 +520,7 @@ ECONOMYNEXT – Dialog Axiata Group and Bharti Airtel have signed a Definitive A
 
 “The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted its approval for the proposed merger, underscoring its vision to advance the adoption of telecommunications services across Sri Lanka.”
 
-The trading of Dilaog Axiata shares on the Colombo Stock Exchange was halted pending further disclosure, Dialog announced in a Colombo Stock Exchange filing. “Please note that the trading of DIAL.N0000 has been halted pending disclosure.”
+The trading of Dilaog Axiata shares on the Colombo Stock Exchange was temporarily halted Thursday before Dialog made its Colombo Stock Exchange filing.
 
 ...
 
@@ -855,6 +895,24 @@ The Colombo Stock exchange opened down; the All Share Price Index was down 0.04 
 [Data](articles/dc337b56.json)
 
 [Extended Data](ext_articles/dc337b56.ext.json)
+
+---
+
+### ගිනි පෙට්ටිය ප්‍රමාදවීම නිසා මරණයක්
+
+*2024-04-18 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-පෙට්ටිය-ප්‍රමාදවීම-නිසා-මරණයක්/11-409139) · `si`
+
+කුරුවිට පොලිස් වසමේ කීරගල ප්‍ර දේශයේදි පුද්ගලයෙක් විසින් තවත් පුද්ගලයෙකුට පයින් පහරදීමක් හේතුවෙන් බිමට වැටී සිහිසුන්ව රත්නපුර රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇතැයි පොලීසිය කියයි.
+
+මරණකරු අවුරුදු 59ක් වන කීරගල පදිංචිකරුවෙක් වෙයි. ඊයේ රාත්‍රීයේදී මරණකරුගේ නිවස ඉදිරිපිටට පැමිණි බීමත් පුද්ගලයෙක් ගිනි පෙට්ටියක් ඉල්ලා තිබෙ. එය ලබාදීමට ප්‍රමාදවීම හේතුවෙන් බීමත් පුද්ගලයා නිවැසින්ට පරුෂ වචනයෙන් බැන වැදී ඇති අතර එහිදී මරණකරු විසින් එසේ නොකරන ලෙසට පවසා ඇත.
+
+එවිට බීමත් පුද්ගලයා විසින් මරණකරුට පයින් පහරදී ඇති අතර එහිදී සිහිසුන්ව සිටි පුද්ගලයා රත්නපුර රෝහලට ඇතුළත් කරන විට මියගොස් තිබේ.
+
+සිද්ධියට සම්බන්ධ සැකකරු ප්‍ර දේශයෙන් පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීමට පොලීසිය පරීක්ෂණ පවසත්වයි.
+
+◼️
+
+[Data](articles/0533b044.json)
 
 ---
 
@@ -2151,63 +2209,5 @@ The remains of the late Thewarapperuma's body have been raised to the house in Y
 [Data](articles/6858c712.json)
 
 [Extended Data](ext_articles/6858c712.ext.json)
-
----
-
-### Decrease in personal monthly expenses
-
-*2024-04-17 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Decrease-in-personal-monthly-expenses/108-280862) · `en`
-
-Colombo, April 17 (Daily Mirror) - The monthly expenses of a person in Sri Lanka decreased in February compared to January, the Census and Statistics Department said.
-
-They said the minimum amount required for a person in this country to meet their basic needs is Rs. 16,975 per month, and a person living in the Colombo district needs Rs. 18,308 to meet the minimum basic needs.
-
-The Department revealed this while releasing the Official Poverty Line Chart for the month of February 2024.
-
-According to the National Consumer Price Index released for this month, the main reason for the reduction of the poverty line was that inflation in the country has decreased compared to the previous month.
-
-The Department further mentioned that the lowest monthly expenditure is Rs. 16,231 in the Moneragala district.
-
-◼️
-
-[Data](articles/0a959bfb.json)
-
-[Extended Data](ext_articles/0a959bfb.ext.json)
-
----
-
-### Notice to Hirunika
-
-*2024-04-17 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195737) · `si`
-
-The Court of Appeal has notified former MP Hirunika Premachandra to respond on May 8th regarding a petition criticizing a Mount Lavinia Magistrate's Court decree.
-
-🟩
-
-The Court of Appeal has issued notice to former MP Hirunika Premachandra to inform the court on May 08.
-
-It is connected with a petition accused of accusing the court by criticizing a decree made by the Mount Lavinia Magistrate's Court.
-
-◼️
-
-[Data](articles/3d186cb3.json)
-
-[Extended Data](ext_articles/3d186cb3.ext.json)
-
----
-
-### Fire breaks out near Police DIG office in Kandy
-
-*2024-04-17 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-breaks-out-near-Police-DIG-office-in-Kandy/108-280860) · `en`
-
-Colombo, April 17 (Daily Mirror) - A fire broke out in the Mana forest area near the official residence of the Police DIG in the Bahirawakanda Grama Niladhari area in Kandy this evening, the Kandy Disaster Management office said.
-
-The Fire Department of the Kandy Municipality is carrying out the necessary activities to control the fire.
-
-◼️
-
-[Data](articles/19507a99.json)
-
-[Extended Data](ext_articles/19507a99.ext.json)
 
 ---

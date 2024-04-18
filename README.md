@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 21:33:57**
+As of **2024-04-18 21:53:22**
 
 ## Newspaper Stats
 
-*Scraped **19,622** Articles*
+*Scraped **19,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,935
-dailymirrorlk | 3,029
+dailymirrorlk | 3,030
 adaderanasinhalalk | 3,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,621 (100.0%) of 19,622 articles have been extended.
+19,622 (100.0%) of 19,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Suspect arrested for defrauding Belgian national over vadai and plain tea
+
+*2024-04-18 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-defrauding-Belgian-national-over-vadai-and-plain-tea/108-280924) · `en`
+
+Colombo, April 18 (Daily Mirror) - The Moragalla Tourist Police arrested a 60-year-old man who posed as a tourist guide and fraudulently obtained money from a foreign national at an eatery in Kalutara for medhu vadai and plain tea.
+
+The Moragolla Tourist Police received a complaint via email regarding this incident on Wednesday.
+
+The incident reportedly occurred on February 9, 2024. The suspect fraudulently obtained Rs. 800 from a Belgian national for vadai and plain tea purchased at the eatery. The payment for the food was made to the eatery, while the balance was kept by the suspect.
+
+The incident went viral on social media and was also covered by television news broadcasts.
+
+The suspect, a resident of Palathota in Kalutara, was arrested and handed over to the Kalutara Police.
+
+During the investigations, it was revealed that the suspect is known in the area of the eatery and has been deceiving foreigners who visit the place to obtain money.
+
+...
+
+[Data](articles/7b30cc21.json)
+
+---
 
 ### The suspect trapped in the wade work
 
@@ -86,19 +108,27 @@ Police said these suspects will be detained by the CID for further questioning.
 
 ---
 
-### மக்களின் கோரிக்கைக்கு அமைய முறைமை மாற்றத்தை ஏற்படுத்தியுள்ளோம் - அமைச்சர் மனுஷ நாணயக்கார
+### We have changed the system of the people -Minister Manusha Nanayakkara
 
 *2024-04-18 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181406) · `ta`
 
-மக்கள் வீதிக்கு இறங்கி மாற்றத்தை ஏற்படுத்தும்படி கூச்சலிட்டனர். அதற்கமைய கடந்த இரண்டு வருடங்களில் தேவையான கொள்கை மாற்றங்கள் செய்யப்பட்டுள்ளதாக தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Minister Manusha Nanayakkara announced policy changes in labor and foreign employment over the past two years, including immigration and labor laws, aiming to address public demands for systemic change.
 
-தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில் வியாழக்கிழமை (18) இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-முறைமை மாற்றத்தை கோரி சுமார் இரண்டு வருடங்களாக மக்கள் தெருக்களில் இறங்கி கூச்சலிட்டனர். ஆனால் ஒட்டுமொத்த மக்களும் இந்த முறைமையில் மாற்றம் கொண்டு வர வேண்டும் என நினைத்தனர். ஆனால்  மக்கள் அங்கு மனமாற்றத்தை எதிர்பார்க்கவில்லை. அதனால் தான் எங்களுக்கு தேசிய கொள்கைகள் தேவைப்பட்டன. யார் மாறினாலும் மாறாத திட்டத்தைத் தயாரிக்க விரும்பினோம். கடந்த இரண்டு வருடங்களில் எமது அமைச்சு அந்த வேலைத்திட்டத்தை சரியாகச் செய்துள்ளது.
+People shouted to get down to the street and make a change. The Minister of Labor and Foreign Employment, Manusha Nanayakkara said that the necessary policy changes have been made in the last two years.
+
+He was speaking at a function held at the Ministry of Labor and Foreign Employment on Thursday (18).
+
+People shouted on the streets for about two years demanding a change of system. But the entire population thought it would bring about a change in this system. ஆனால்  மக்கள் அங்கு மனமாற்றத்தை எதிர்பார்க்கவில்லை. That's why we needed national policies. We wanted to prepare the project that was not changed. In the last two years, our ministry has done that program properly.
+
+We have created the immigration policy. Furthermore, the labor policy has been discussed again. Introducing the relevant policy to create a safe workshop. We also changed labor law. It was also possible to change the foreign employment bureau law and create a policy change.
 
 ...
 
 [Data](articles/52c7fad7.json)
+
+[Extended Data](ext_articles/52c7fad7.ext.json)
 
 ---
 
@@ -2285,29 +2315,5 @@ Copy of the last received salary and payments (if only).
 [Data](articles/db0a334c.json)
 
 [Extended Data](ext_articles/db0a334c.ext.json)
-
----
-
-### Nainadivu woman who delivered baby in the sea
-
-*2024-04-18 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181359) · `ta`
-
-A woman from Nainadivu gave birth in the sea, was transferred to Jaffna Bodhana Hospital, and during the journey, the baby's condition worsened.
-
-🟩
-
-A woman from Nainadivu has been admitted to the Nainadivu Divisional Hospital following a sudden childbirth on Wednesday.
-
-From there, the doctor recommended that the Jaffna Bodhana Hospital be transferred for further treatment. Subsequently, the ambulance boat is not currently working to take the teaching hospital and the public has taken the traffic boat to the indicator.
-
-While the boat was traveling in the sea, after the increase in the childbirth, the men who were on the top floor of the boat were sent to the top floor.
-
-When the boat arrived at the landing department, the mother and Chee were taken to the Jaffna Bodhana Hospital in the patient of the Punguduthivu Hospital.
-
-◼️
-
-[Data](articles/3a241f04.json)
-
-[Extended Data](ext_articles/3a241f04.ext.json)
 
 ---

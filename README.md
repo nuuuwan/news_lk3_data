@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 20:33:48**
+As of **2024-04-18 20:51:38**
 
 ## Newspaper Stats
 
-*Scraped **19,616** Articles*
+*Scraped **19,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,639
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,934
-dailymirrorlk | 3,027
+dailymirrorlk | 3,028
 adaderanasinhalalk | 3,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,614 (100.0%) of 19,616 articles have been extended.
+19,616 (100.0%) of 19,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Don’t make Presidential election a regime changing poll: Vajira
+
+*2024-04-18 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-make-Presidential-election-a-regime-changing-poll-Vajira/108-280922) · `en`
+
+Colombo, April 18 (Daily Mirror) - People should not make the 2024 Presidential election a regime changing poll as it has to be one which elects a custodian for the nation, UNP Chairman Vajira Abeywardana said today.
+
+"The Presidential election should be one which elects a custodian who is capable of making Sri Lanka a stable country. Incumbent President Ranil Wickremesinghe is the only leader who has such a capability. People can use the  general election to bring about a regime change. They can send all 225 MPs home including me at the general election, the MP told a briefing.
+
+Asked whether people will accept  Wickremesinghe as a good custodian, the MP said such an eventuality will be obvious.
+
+"Most of you don't see what is happening behind the scenes. Therefore you  have to wait and see what will happen at the Presidential election," he said.
+
+...
+
+[Data](articles/fb9ae436.json)
+
+---
 
 ### Two cops including SI arrested over drug trafficking links
 
@@ -44,23 +62,35 @@ Accordingly, a Sub-Inspector attached to Mawathagama Police Station and a Sergea
 
 [Data](articles/3d4f4ec5.json)
 
+[Extended Data](ext_articles/3d4f4ec5.ext.json)
+
 ---
 
-### මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ SI  සහ සාජන් CID අත්අඩංගුවට
+### Si and Sergeant CID arrested for drug trafficking
 
 *2024-04-18 20:00:44* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරමට-සම්බන්ධ-SI--සහ-සාජන්-CID-අත්අඩංගුවට/11-409159) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සමග සබදතා පවත්වන ලද උප පොලිස් පරීක්ෂකයෙකු සහ සැරයන්වරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිළධාරීන් කණ්ඩායමක් විසින් 2024.04.18 වන අද දින අත්අඩංගුවට ගෙන ඇත.
+Si and Sergeant CID arrested for drug trafficking. Arrested by IGP officials. Involved with Dubai Sampath in Kurunegala. Police sergeant linked to drug racket. Legal action pending.
 
-මාවතගම පොලිස් ස්ථානය මගින් මත්ද්‍රව්‍ය ජාවාරම් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රදවා තබා සිටි සැකකරුවෙකුගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම් වලදී මෙම නිළධාරීන් සම්බන්ධයෙන් කරුණු අනාවරණය වීමෙන් පසු පොලිස්පතිවරයාගේ උපදෙස් පරිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිළධාරීන් කණ්ඩායමක් මගින් මොවුන් අත්අඩංගුවට ගෙන ඇති බව පොලිස් ආරංචිමාර්ග සදහන් කරයි.
+🟩
 
-අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂක කුරුණැගල අවට ප්‍රදේශ වලට මත්ද්‍රව්‍ය බෙදාහැරීම සිදුකරන ලබන දැනට අනාවරණය වී ඇති ඩුබායි සම්පත් නැමැත්තෙකු සමග වට්ස්ඇප් ඔස්සේ දුරකථන සබදතා පවත්වා ඇති බවට අනාවරණය වී ඇත.
+A sub-inspector and sergeant who has been associated with drug dealers has been arrested by a team of officers in the CID today.
 
-එසේම, පොලිස් සැරයන් මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ අත්අඩංගුවට ගෙන සිටි සැකකරුවෙකු සමග සමීප සබදතා පවත්වමින් මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ බවට අනාවරණය වී ඇත.
+According to police sources, they have been arrested by the IGP officials in the instructions of the IGP.
 
-...
+It has been revealed that the use of drug distributors who were arrested in Kurunegala with Dubai Sampath who has been identified in Kurunegala.
+
+It has also been revealed that the police sergeant has been involved in the drug trafficking with a suspect with a suspect associated with drug racket.
+
+It is also revealed that the relevant officials have been instructed to take legal action to take legal action to be taken regarding the police officers involved in the Sri Lanka Traffic and Corruption.
+
+The suspects are still being questioned and questioned by the CID.
+
+◼️
 
 [Data](articles/52a1feb8.json)
+
+[Extended Data](ext_articles/52a1feb8.ext.json)
 
 ---
 
@@ -2283,37 +2313,5 @@ Magistrate's inquiries on the death are due to be held today and the Kalutara po
 [Data](articles/64885fce.json)
 
 [Extended Data](ext_articles/64885fce.ext.json)
-
----
-
-### Volcano erupting in Indonesia;Tsunami warning;Excretion of people
-
-*2024-04-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181352) · `ta`
-
-Mount Ruwang in Indonesia erupts, triggering a tsunami warning. Evacuation of 11,000 people ordered. Volcano, part of the Pacific Ring of Fire, has erupted five times in 24 hours.
-
-🟩
-
-A tsunami warning has been issued on Wednesday after the Mount Ruwang volcano erupted in the northern part of Indonesia's Sulawesi Island.
-
-In addition, it has been ordered to leave at least 11,000 people from the affected area.
-
-Indonesia's volcanic and geographical disaster censorship center said the volcano had exploded five times in the past 24 hours.
-
-Officials have issued a red hazardous warning following the rise in the volcanic exit.
-
-Indonesia is in an area of volcano called the Pacific fire ring. There are more than 120 volcanoes that are small and large here.
-
-Officials have urged tourists and the public to decline from the Ruwang volcano, which is 2,378 feet high and is 6 kilometers (3.7 miles).
-
-Officials are worried that a portion of the volcano may fall into the sea, as in 1871, as it exploded.
-
-Indonesia's Anak Krakadav volcano erupted in 2018 and fell into the sea and caused a tsunami on the coast of Sumatra and Java. Also, 430 people were killed.
-
-◼️
-
-[Data](articles/591f5756.json)
-
-[Extended Data](ext_articles/591f5756.ext.json)
 
 ---

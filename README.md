@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 16:18:32**
+As of **2024-04-18 16:33:54**
 
 ## Newspaper Stats
 
-*Scraped **19,565** Articles*
+*Scraped **19,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,071
 economynextcom | 1,108
 adalk | 1,632
 tamilmirrorlk | 2,281
-adaderanalk | 2,346
-virakesarilk | 2,920
+adaderanalk | 2,347
+virakesarilk | 2,921
 dailymirrorlk | 3,021
 adaderanasinhalalk | 3,184
 
@@ -26,61 +26,113 @@ adaderanasinhalalk | 3,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,561 (100.0%) of 19,565 articles have been extended.
+19,565 (100.0%) of 19,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### බොරලැස්ගමුවේදී STF කොටුකරගත් තිදෙනාගේ පැටිකිරිය
+### அட்டன் – கொழும்பு மார்க்கத்தில் மாத்திரமே அதிக பயணிகள் ; ஏனைய மார்க்கங்களில் வழமைக்கு திரும்பிய பஸ் சேவைகள்
+
+*2024-04-18 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181383) · `ta`
+
+சித்திரைப் புத்தாண்டு விடுமுறையில்  அட்டன் உட்பட மஸ்கெலியா, பொகவந்தலாவை, நோர்வூட் , புளியாவத்தை, டிக்கோயா, தலவாக்கலை, வட்டகொடை  ஆகிய பிரதேசங்களுக்கு கொழும்பிலிருந்து வருகை தந்தவர்கள் மீண்டும் தலைநகருக்கு செல்ல ஆரம்பித்துள்ள அதேவேளை, உள்ளூர் மார்க்கங்களில்  பஸ் சேவைகள் கடந்த திங்கட்கிழமையிலிருந்து வழமைக்கு திரும்பியுள்ளதாக  அட்டன் தனியார் பஸ் உரிமையாளர்கள் சங்க செயலாளர் ராமச்சந்திரன் தெரிவித்தார்.
+
+அட்டன் கொழும்பு மார்க்கத்தில் 23 இ.போ.ச வண்டிகளும் நான்கு தனியார் பஸ்களும் மூன்று  குளிரூட்டப்பட்ட பஸ் வண்டிகளும் சேவையில் ஈடுபடுகின்றன. புத்தாண்டுக்கு வருகை தந்தோர் அதிகமானபடியால் மேலதிக பஸ்களும் இப்போது சேவையில் ஈடுபடுத்தப்பட்டுள்ளன.
+
+அதேவேளை உள்ளூர் மார்க்கங்களில் கடந்த திங்கட்கிழமை 15 ஆம் திகதியிலிருந்து பஸ்கள் வழமையான தமது சேவைகளை தொடர்கின்றன. அட்டன் –தலவாக்கலை மார்க்கத்தில் 14 தனியார் பஸ்கள் 15 நிமிடத்துக்கு ஒரு தடவை சேவையில் ஈடுபட்டு வருகின்றன.
+
+...
+
+[Data](articles/1f6e6e9b.json)
+
+---
+
+### Hotline numbers to provide information regarding environmental damage
+
+*2024-04-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98705/hotline-numbers-to-provide-information-regarding-environmental-damage) · `en`
+
+Sri Lanka Police says the general public can provide any information regarding environmental destruction via the hotline numbers ‘1997’ and ‘1981’.
+
+Police said steps have been taken to inform people regarding the matter, since the information provided by the general public plays a major role in operations carried out in relation to environmental destruction.
+
+The illegal mining activities, environmental damage caused by factories and sound pollution have had a severe impact on the environment and wild animals.
+
+Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘1981’ of Central Environment Authority (CEA) has been introduced in order to receive information and complaints regarding such environmental damages caused by people, the police said.
+
+◼️
+
+[Data](articles/763e9d3a.json)
+
+---
+
+### Stups of the three STF trapped in Boralesgamuwa
 
 *2024-04-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195759) · `si`
 
-නියාගම ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල ලබාදුන් සැකකරුවන් තිදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය මගින් බොරලැස්ගමුව ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+Three STF members arrested in Boralesgamuwa for involvement in a police shooting incident in Pitigala, March 11. Suspects, Karandeniya Suddha, Saman Boards, and two others, are accused of organized crime and drug dealing.
 
-අත්අඩංගුවට ගත් සැකකරුවන් මාර්තු මස 11 වනදා පිටිගල, නියාගම ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමට අදාළ වෙඩික්කරු හා පැදිකරු ප්‍රවාහනය කිරිමට සම්බන්ධ වී ඇති බව පොලීසිය පවසයි.
+🟩
 
-ඔවුන් සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම් කරුවෙකු වන කරන්දෙණිය සුද්දා හා සමන් කොල්ලා යන අයගේ සමීපතම ගෝලයින් තිදෙනෙකු බවට අනාවරණය වී ඇති බවද පොලීසිය සඳහන් කර ඇත.
+The Special Task Force has been arrested by the STF in Boralesgamuwa, Boralesgamuwa.
 
-සැකකරුවන් තිදෙනා කහදූව, උණන්පිටිය සහ තවලම  යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 22, 24 සහ 31හැවිරිදි වියේ පසුවන්නන් බවට අනාවරණය වී තිබේ.
+The suspects have been involved in the police to transport the bolder and the board of shooting in the Niyagama area in Pitigala on March 11.
 
-සැකකරුවන් සතුව තිබී යතුරුපැදියක් සහ ජංගම දුරකථන 03 ක් පොලිස්භාරයට ගෙන ඇති අතර පිටිගල පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The police have revealed that three close disciples were a close two-sided dealer, Karandeniya Suddha and Saman Boards, an organized crime and large scale drug dealer.
+
+The three suspects have been revealed to be raised by 22, 24 and 31, a resident of Kahanduwa, Ukpitiya and Thawalama areas.
+
+A motorcycle and three mobile phones were taken to the police and three mobile phones were conducted by the suspects. Pitigala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/34c84945.json)
 
+[Extended Data](ext_articles/34c84945.ext.json)
+
 ---
 
-### காத்தான்குடி பாலமுனை கடற்கரையில் பெண் ஒருவரின் சடலம் மீட்பு
+### A woman's body recovery at Kattankudy Palamunai beach
 
 *2024-04-18 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181380) · `ta`
 
-மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவிற்குட்பட்ட ஆரையம்பதி  பிரதேச செயலக பிரிவிற்குள் அடங்கும் பாலமுனை கடற்கரையோரம் பெண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+A 55-year-old woman's body was found at Kattankudy Palamunai beach, unidentified. Kattankudy police are investigating her death.
 
-இன்று மதியம் 12 மணியளவில் பாலமுனை கடற்கரையோரம் கரை ஒதுங்கிய குறித்த சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிசார் தெரிவிக்கின்றனர்
+🟩
 
-சுமார் 55 வயது மதிக்கத்தக்க குறித்த பெண் எவ்வாறு மரணமானார் என்பது குறித்த விசாரணைகளை காத்தான்குடி பொலிஸார் தீவிர விசாரணைகளை மேற்கொண்டு வருகின்றனர்
+The body of a woman has been recovered from the Arayambathi Divisional Secretariat Division belonging to the Batticaloa Kattankudy Police Division, the body of a woman has been recovered.
+
+The body has not yet been identified at 12 pm on the coast of Palamunai.
+
+Kattankudy police are conducting serious investigations into how a 55 -year -old woman died.
 
 ◼️
 
 [Data](articles/44f80cf2.json)
 
+[Extended Data](ext_articles/44f80cf2.ext.json)
+
 ---
 
-### இலங்கையில் அதிகளவில் மரணங்கள் ஏற்பட்டமைக்கு காரணம் மாரடைப்பு!
+### Heart attack
 
 *2024-04-18 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181376) · `ta`
 
-கடந்த வருடங்களில் அதிகளவில் உயிரிழப்புக்கள் ஏற்பட்டமைக்கு பிரதான காரணம் மாரடைப்பு என சுகாதாரத் துறை தெரிவித்துள்ளது.
+Heart attacks, the leading cause of death from 2010-2020, are attributed to unhealthy eating, neglecting organs, tobacco, drugs, and stress.
 
-அத்தோடு, 2010 ஆம் ஆண்டு முதல் 2020 ஆம் ஆண்டு வரையிலும் அதிகளவில் மரணங்கள் ஏற்பட்டமைக்கு பிரதான காரணமும் மாரடைப்பு என்று சுகாதார திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+🟩
 
-அதுமட்டுமன்றி, மாரடைப்பு ஏற்படுவதற்கு பிரதான காரணங்களாக ஆரோக்கியமற்ற உணவு பழக்கங்கள், உடல்  உறுப்புகளின் செயற்பாடுகள் பற்றிய கவனமின்மை, புகையிலை , போதைப்பொருள் பாவனை மற்றும் மன அழுத்தம் உள்ளிட்ட காரணங்களினால் மாரடைப்பு ஏற்படுவதாகவும்  சுகாதாரத் துறை திணைக்களம் சுட்டிகாட்டியுள்ளது.
+The health department said that the main cause of the heavy casualties in the past years, a heart attack.
+
+In addition, the Department of Health has pointed out that the main cause of deaths from 2010 to 2020 is a heart attack.
+
+In addition, the Department of Health has pointed out that the main causes of a heart attack are unhealthy eating habits, inattention of organs, tobacco, drug use and stress.
 
 ◼️
 
 [Data](articles/68e43ad8.json)
+
+[Extended Data](ext_articles/68e43ad8.ext.json)
 
 ---
 
@@ -106,15 +158,21 @@ Sivinandam Sridharan, who was serving as the Director of the Zonal Education Off
 
 ---
 
-### 'டைம்' சஞ்சிகையின் ஆளுமை மிக்க 100 பேரின் பட்டியலில் இலங்கையர்
+### Sri Lankans on the list of 100 people of the 'Time' magazine
 
 *2024-04-18 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181377) · `ta`
 
-2024 ஆம் ஆண்டிற்கான டைம் 100 மதிப்பீட்டில், உலகின் மிகவும் செல்வாக்கு மிக்க நபர்களின் பட்டியலில் இலங்கையின் பால்புதுமையினர் செயல்பாட்டாளர் ரோசன்னா ஃபிளேமர்-கால்டெரா இடம் பிடித்துள்ளார்.
+Rosanna Flamer-Caldera, a Sri Lankan activist, is featured in Time's 2024 list of the world's most influential people.
+
+🟩
+
+Sri Lanka's Milky Ways activist Rosanna Flamer-Caldera is on the list of the world's most influential people at an estimated cost of 2024.
 
 ◼️
 
 [Data](articles/10c34362.json)
+
+[Extended Data](ext_articles/10c34362.ext.json)
 
 ---
 
@@ -2217,51 +2275,5 @@ Mathugama Additional Magistrate and Kalutara Legal Officer went to the site of t
 [Data](articles/329e6b38.json)
 
 [Extended Data](ext_articles/329e6b38.ext.json)
-
----
-
-### Public amnesty for Sri Lankans in Myanmar
-
-*2024-04-18 05:42:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-இலங்கையர்களுக்கு-பொது-மன்னிப்பு/175-336058) · `ta`
-
-Myanmar grants public amnesty to 15 Sri Lankan fishermen detained for fishing. Sri Lanka's Ambassador to Myanmar Janaka Bandara mentions India's public amnesty due to friendship between countries. Arrangements are being made for their return to Sri Lanka.
-
-🟩
-
-Public amnesty has been granted to 15 Sri Lankan fishermen detained in Myanmar on the occasion of the country.
-
-15 Sri Lankan fishermen were arrested on December 2 for fishing in the Myanmar seas.
-
-At this juncture, the Myanmar government had been asked to grant a public amnesty to the Sri Lankan fishermen. Sri Lanka's Ambassador to Myanmar Janaka Bandara has said that the Prime Minister of India has granted a public amnesty on the basis of the friendship between the two countries.
-
-He noted that arrangements are being made to return to Sri Lanka in a few days. (A)
-
-◼️
-
-[Data](articles/31472a6c.json)
-
-[Extended Data](ext_articles/31472a6c.ext.json)
-
----
-
-### Tensions in Gulf could hurt Ceylon Tea cuppa: Industry
-
-*2024-04-18 05:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tensions-in-Gulf-could-hurt-Ceylon-Tea-cuppa-Industry/108-280878) · `en`
-
-Says worsening situation in Gulf could immediately put a strain on tea prices
-
-Tea Board says industry has not officially shared any concerns as yet
-
-The mounting tensions in the Middle East that are becoming increasingly unpredictable are likely to impact the Ceylon Tea cuppa, the industry stakeholders said, especially since over 50 percent of the island nation’s tea is exported to that region.
-
-While the issues stemming from the Red Sea attack have already impacted the industry with longer delivery time and higher freight costs, new issues such as closure of airspace among others could add to the woes.
-
-“Continuity of this would mean restricted movement of people, sending out samples and getting orders. As long as the sea is open, things should be okay.
-
-...
-
-[Data](articles/7b25b822.json)
-
-[Extended Data](ext_articles/7b25b822.ext.json)
 
 ---

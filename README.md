@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 14:51:36**
+As of **2024-04-18 15:03:34**
 
 ## Newspaper Stats
 
-*Scraped **19,553** Articles*
+*Scraped **19,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
-adalk | 1,630
+adalk | 1,631
 tamilmirrorlk | 2,281
-adaderanalk | 2,345
+adaderanalk | 2,346
 virakesarilk | 2,915
-dailymirrorlk | 3,019
+dailymirrorlk | 3,020
 adaderanasinhalalk | 3,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,550 (100.0%) of 19,553 articles have been extended.
+19,553 (100.0%) of 19,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Ukraine warns of WW3 ahead of long-stalled Congress aid vote
+
+*2024-04-18 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98704/ukraine-warns-of-ww3-ahead-of-long-stalled-congress-aid-vote) · `en`
+
+Ukraine’s prime minister has told the BBC there will be a “Third World War” if Ukraine loses its conflict with Russia, as he urged the US Congress to pass a long-stalled foreign aid bill.
+
+Denys Shmyhal expressed “careful optimism” that US lawmakers would pass the hotly contested measure, which has $61bn (£49bn) earmarked for Kyiv.
+
+The House of Representatives is set to vote on the package this Saturday.
+
+The proposal includes funding for Israel as well as the Indo-Pacific.
+
+Speaking to the BBC in Washington DC on Wednesday, Prime Minister Shmyhal said of the US security assistance: “We need this money yesterday, not tomorrow, not today.”
+
+“If we will not protect... Ukraine will fall,” he added. “So the global, the global system of security will be destroyed... and all the world will need to find... a new system of security.
+
+“Or, there will be many conflicts, many such kinds of wars, and in the end of the day, it could lead to the Third World War.”
+
+...
+
+[Data](articles/303a70af.json)
+
+---
+
+### NPP presents its 7-point statement on Easter attack to Cardinal
+
+*2024-04-18 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-presents-its-7-point-statement-on-Easter-attack-to-Cardinal/108-280915) · `en`
+
+Colombo, April 18 (Daily Mirror)- The National People's Power (NPP) today presented to Archbishop of Colombo Cardinal Malcolm Ranjith its 7-point statement pledging to mete out justice to the victims of the Easter Sunday attacks.
+
+The NPP representatives met Cardinal Malcolm Ranjith at the Archbishop's House in Borella this morning and presented the 7-point statement.
+
+The statement included key points such as implementing law against those responsible for the attacks so as to mete out justice to those who lost lives in the attacks and family members of the victims.
+
+It also included pledges to take action against those who were directly or indirectly involved in the attacks.
+
+NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, President's Counsel Upul Kumarapperuma Rohan Fernando and Aruna Shantha Nonis participated in the occasion.
+
+◼️
+
+[Data](articles/7b6b8211.json)
+
+---
 
 ### Hirunika noticed to appear before Court over contempt of court
 
@@ -48,19 +92,41 @@ The petitioner is seeking an order to issue a rule under Section 10(3)(a) of the
 
 [Data](articles/88060385.json)
 
+[Extended Data](ext_articles/88060385.ext.json)
+
 ---
 
-### தலையை தூக்கியது டொலர்
+### The head lifted the dollar
 
 *2024-04-18 14:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையை-தூக்கியது-டொலர்/175-336080) · `ta`
 
-அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி 16 நாட்களுக்குப் பின்னர் வீழ்ச்சியடைந்துள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+The Central Bank of Sri Lanka announced a 16-day fall in the value of the Sri Lankan rupee, with the US dollar's sales price at Rs 305.16 and purchase price at Rs 295.28.
 
-இதன்படி, அமெரிக்க டொலர் ஒன்றின் விற்பனை விலை 305.16 ரூபாவாகவும், கொள்வனவு விலை 295.28 ரூபாவாகவும் இலங்கை மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+🟩
+
+The Central Bank of Sri Lanka has announced that the value of the Sri Lankan rupee has fallen 16 days after the US dollar.
+
+Accordingly, the Central Bank of Sri Lanka said the sales price of a US dollar was Rs 305.16 and the purchase price was Rs 295.28.
 
 ◼️
 
 [Data](articles/a70ec8e0.json)
+
+[Extended Data](ext_articles/a70ec8e0.ext.json)
+
+---
+
+### වොෂින්ටනයේ අපේ අවුරුදු
+
+*2024-04-18 14:09:25* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටනයේ-අපේ-අවුරුදු/11-409148) · `si`
+
+ඇමෙරිකාවේ වොෂින්ටන්  හිදී මෙවර අති උත්කර්ශවත් බක්මහ උළෙල 02 ක් පැවැත්වින. "බෙතෙස්ඩා අපි" සංවිධානය කල උළෙල ගෙදර්ස්බර්ග් හිදීත් "ශ්‍රී ලංකා එසෝෂියේෂන් වොෂින්ටන් DC" උත්සවය ඩමස්කස් හිදීත් පැවැත්වින. ඒවා හෙළ සිරිත් විරිත් හා ලාංකීය සංස්කෘතියට  අනුගතව සංවිධානය කොට තිබිණ. මෙම අවස්ථා දෙකට    ලාංකිකයන් ඇමෙරිකානුවන් හා සෙසු ජාතීන් 1000 කට අධික  පිරිසක් එක්වූහ.
+
+උත්සව දෙකටම වොෂින්ටන් තානාපති මහින්ද සමරසිංහ මහතා ඇතුළු තානාපති නිළධාරීන් හා එම පවුල් වල අය ද එක්වූහ. කඔ ඇදීම ,කොට්ට පොර,කණාමුට්ටි බිදීම, පොල්ගෑම,බැලුන් පිපිරවීම, දෙහි ගෙඩිය හැන්දේ තබා යාම, පොල් ගෑම, රබන් ගැසීම, බෙර වාදන, සිංහල දෙමළ නර්ථන, සැගවුණ අමුත්තා ,ජනකවි හා ජනගී ගායනා, අවුරුදු කුමරා හා කුමරිය තේරීම ඇතුළු බාල මහළු කාටත් සහභාගී විය හැකි අංග රැසකින් සමන්විත වූහ. ඊට ලාංකිකයන් සමග සෙසු ජාතීන්ද එක්වූ අතර කැවුම් කිරිබත් කොකිස් මුං අළුවා පැණි වළලු දොදොල් කොත්තු ආප්ප ඉදිආප්ප තේ කෝපි ඇතුළු ලාංකිකයන්ට හුරුපුරුදු ආහාර පාන සපයා තිබිණ.
+
+...
+
+[Data](articles/d0f0d078.json)
 
 ---
 
@@ -79,6 +145,8 @@ In March, Al Jazeera reported that hundreds of Sri Lankans are serving with the 
 ...
 
 [Data](articles/f9fbcd46.json)
+
+[Extended Data](ext_articles/f9fbcd46.ext.json)
 
 ---
 
@@ -1190,11 +1258,11 @@ Sri Lanka only charged 20 dollars from a SAARC visitor up to the shift to VFS Gl
 
 Based on the information disclosed online, SAARC visa fees have risen to 75 dollars with a gazetted fee going up to 35 dollars and 18.5 dollar additional fee charged by VFS Global, the private provider.
 
+Related Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
+
 Travel industry sources said they had not been consulted on the VFS Global linked cost increases and had taken up the issue with authorities and were awaiting a reply.
 
 Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of regional integration.
-
-In the ASEAN region, citizens of member countries can travel without any visa and all airports in the region have dedicated immigration counters for them.
 
 ...
 
@@ -1912,15 +1980,13 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 
 *2024-04-18 05:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-on-alert-on-possible-genocide-allegations-by-Canada/155-280881) · `en`
 
-Colombo, April 18 (Daily Mirror) - Sri Lanka remains on high alert as Canadian leaders may make genocide allegations next month when the country marks the war victory, according to a diplomatic source.
+Colombo, April 18 (Daily Mirror) - Sri Lanka is still at a loss to thwart the efforts by a city council in Canada to construct what it called a Tamil genocide monument, and to counter the allegations by the Canadian politicians, an informed source said .
 
-Last year, Canadian Prime Minister Justin Trudeau's genocide accusations sparked a diplomatic dispute between the two nations. Sri Lanka responded with protests by summoning the Canadian envoy.
+Brampton city council in Canada has approved the final design for the Tamil Genocide Memorial, a monument the city promised three years ago, according to foreign media.
 
-A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lankan government is keen to ascertain whether such allegations will be repeated this time, despite previous protests by Sri Lanka.
+The media said it is a 4.8-metre tall stainless steel monument built in Chinguacousy Park in the Bramalea area to commemorate the lives lost in the Sri Lankan civil war — what many people in the Tamil community call a genocide. Canada's Parliament unanimously voted to recognize May 18 as Tamil Genocide Remembrance Day in 2022.
 
-“Canadian leaders have a history of making such allegations, even though the Canadian federal government has concluded that the events in Sri Lanka during the war do not amount to genocide,” the official said.
-
-◼️
+...
 
 [Data](articles/e9455531.json)
 
@@ -2181,63 +2247,5 @@ This line of tea was sold and marketed by Forbes & Walker Tea Brokers Ltd.
 [Data](articles/6f23de8b.json)
 
 [Extended Data](ext_articles/6f23de8b.ext.json)
-
----
-
-### Techtextil and Texprocess 2024 beckon Sri Lankan firms
-
-*2024-04-18 01:28:50* · [`dailyftlk`](https://www.ft.lk/business/Techtextil-and-Texprocess-2024-beckon-Sri-Lankan-firms/34-760747) · `en`
-
-Visitors engage with the innovative products on display at Techtextil and Texprocess
-
-Techtextil and Texprocess will take place from 23 to 26 April 2024 in Frankfurt am Main, Germany. Techtextil is the leading international trade fair for technical textiles and nonwovens, while Texprocess showcases the latest in garment and textile manufacturing machinery and services.
-
-These events provide numerous benefits for Sri Lanka’s technical textile sector, including market access, networking opportunities, knowledge sharing, promotion of innovation, attracting investment, and gaining insights into market trends. By leveraging these platforms effectively, Sri Lankan attendees can enhance their competitiveness and contribute to the continued growth and success of the technical textile industry in the country.
-
-...
-
-[Data](articles/68241d4f.json)
-
-[Extended Data](ext_articles/68241d4f.ext.json)
-
----
-
-### Pelwatte Dairy welcomes new Non-Executive Directors: Mohamed Rizwie and Deepthie Wickramasuriya
-
-*2024-04-18 01:24:52* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-welcomes-new-Non-Executive-Directors-Mohamed-Rizwie-and-Deepthie-Wickramasuriya/34-760746) · `en`
-
-Rizwie and  Wickramasuriya bring extensive experience and expertise to Pelwatte Dairy, strengthening the board’s strategic oversight and diversity. Their backgrounds align seamlessly with the company’s vision for continued success and leadership in the dairy industry.
-
-Pelwatte Dairy, a leading dairy company, announces the appointment of Mohamed Rizwie and Deepthie Wickramasuriya as Non-Executive Directors to its esteemed board. These appointments mark a significant milestone in Pelwatte Dairy’s commitment to innovation, growth, and corporate governance excellence.
-
-...
-
-[Data](articles/5d7989f6.json)
-
-[Extended Data](ext_articles/5d7989f6.ext.json)
-
----
-
-### Police CCTV Cameras to integrate public and private CCTVs for crime detection
-
-*2024-04-18 01:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-CCTV-Cameras-to-integrate-public-and-private-CCTVs-for-crime-detection/108-280853) · `en`
-
-Colombo, April 18 (Daily Mirror) - The Police department has decided to enhance crime detection by integrating public and private CCTV camera systems with the Police CCTV camera system, a senior police officer said.
-
-In the initial stage, around 2000 CCTV cameras from private entities, including residences in Colombo city, will be linked to the police's camera network.
-
-This initiative will be carried out in collaboration with interested participants. Individuals and private companies with CCTV systems are encouraged to connect their cameras to the Police CCTV system in Colombo, the official said.
-
-As the second stage, steps will be taken to integrate the police camera system with cameras across the country.
-
-While there is a notable presence of cameras in homes and private establishments in Colombo, their current impact on crime prevention is deemed minimal. The police department has only 176 CCTV cameras.
-
-Accordingly, direction has been issued to implement the programme as soon as possible.
-
-◼️
-
-[Data](articles/63cca7be.json)
-
-[Extended Data](ext_articles/63cca7be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 17:34:20**
+As of **2024-04-18 17:54:53**
 
 ## Newspaper Stats
 
-*Scraped **19,578** Articles*
+*Scraped **19,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,67 +14,123 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
-economynextcom | 1,108
+economynextcom | 1,117
 adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,348
 virakesarilk | 2,928
 dailymirrorlk | 3,022
-adaderanasinhalalk | 3,186
+adaderanasinhalalk | 3,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,575 (100.0%) of 19,578 articles have been extended.
+19,578 (99.9%) of 19,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ව්‍යාපාරිකයෙකුගේ මළ සිරුර අන්තිමට හමුවූ තැන
+### ජලාශයක දියේ ගිලී පාසල් සිසුවෙකු අතුරුදන්
+
+*2024-04-18 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195762) · `si`
+
+කාස්ලරී ජලාශයේ දිය නෑමට ගිය පාසල් සිසුවෙකු දියේ ගිලී අතුරුදන්ව තිබේ.
+
+මෙලෙස අතුරුදන්ව ඇත්තේ 17 හැවිරිදි වියේ පසුවූ කාසල්රී වතු යායේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+
+සිය පවුලේ සාමාජිකයින් සමග මෙම පාසල් සිසුවා අද පස්වරු 3.30ට පමණ ජලාශයේ දිය නෑමට ගොස් සිටි අවස්ථාවේ මෙම අනතුරට මුහුණදී තිබේ.
+
+දරුවාගේ සිරුර සොයා කාසල්රී ජලාශය භාර ආරක්ෂක නිලධාරීන් ප්‍රදේශවාසීන් සහ ධීවරයින් එක්ව මෙහෙයුමක් ආරම්භ කර ඇත.
+
+කාසල්රී ජලාශය භාර ආරක්ෂක නිලධාරීන්ගේ දැනුවත් කිරීම් නොසළකා ජලාශය හරහා එගොඩ මෙගොඩ පිහිනමින් සිටියදී මෙම දිය අනතුර සිදුව ඇති බවට ආරංචි මාර්ග සඳහන් කරයි/
+
+◼️
+
+[Data](articles/1d5a4e2f.json)
+
+---
+
+### Transparency International files fundamental rights case over medical supplies procurement
+
+*2024-04-18 17:30:00* · [`economynextcom`](https://economynext.com/transparency-international-files-fundamental-rights-case-over-medical-supplies-procurement-159147/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Application in the Supreme Court requesting the Court to direct the Auditor General to conduct an inquiry into the decision to procure medical supplies from medical suppliers to whom Waivers of Registration had been issued, and recover the cost incurred by procuring medical supplies through them.
+
+“The FR application has been filed in the public interest, with the aim of seeking accountability for the misuse of public resources and the violation of fundamental rights of citizens,” TISL said in a statement.
+
+The cabinet of ministers, incumbent and former health sector officials, former Health Minister Keheliya Rambukwella, companies involved in the supply of Human-IG, treasury secretary, auditor general, Customs, Police, CIABOC and the attorney general are among the 66 respondents named in the petition.
+
+...
+
+[Data](articles/a90734b7.json)
+
+---
+
+### Where a businessman's body found last
 
 *2024-04-18 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195761) · `si`
 
-කුරුණෑගල, රිදීගම ප්‍රදේශයේදී තියුණු ආයුධවලින් පහරදී ව්‍යාපාරිකයෙකුව ඝාතනය කර තිබේ.
+A 49-year-old chicken businessman was found assassinated in Ridigama, Kurunegala, with sharp weapons. The body was discovered on private land. Police are investigating.
 
-ඝාතනයට ලක්ව ඇති අදාළ පුද්ගලයාගේ මළ සිරුර පෞද්ගලික ඉඩමක තිබී අද උදෑසන සොයාගෙන තිබේ.
+🟩
 
-මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි 49 හැවිරිදි කුකුළු මස් ව්‍යාපාරියෙකු බවට අනාවරණය වී ඇත .
+A businessman has been assassinated with sharp weapons in the Ridigama area in Kurunegala.
 
-ඝාතනය සිදුකළ සැකකරුවන් පිළිබඳව අනාවරණය වී නොමැති අතර රිදීගම පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+The body of the victim was found in a private land this morning.
+
+The deceased has been identified as a 49 year old chicken business in the area.
+
+The Ridigama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/038c43ac.json)
 
+[Extended Data](ext_articles/038c43ac.ext.json)
+
 ---
 
-### திருகோணமலை வைத்தியசாலையில் நோயாளர் காவு வண்டிகள் பற்றாக்குறை
+### Patients at Trincomalee Hospital
 
 *2024-04-18 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181395) · `ta`
 
-திருகோணமலை வைத்தியசாலையில் நோயாளர் காவு வண்டிகளின் பற்றாக்குறையால் நோயாளிகள் மிகுந்த சிரமங்களுக்கு உள்ளாகி வருவதாக தெரிய வருகின்றது.
+Trincomalee Hospital faces patient shortage, with only 3 of 12 patient kavu vehicles operational. Delays in patient transportation and concerns over improper administration and maintenance have led to public concern.
 
-திருகோணமலை மாவட்ட பொது வைத்தியசாலையின் பாவனைக்காக 12 நோயாளர் காவு வாகனங்கள் இருந்தும் தற்போது 3 வாகனங்கள் மாத்திரமே சேவையில் ஈடுபட்டு வருகின்றன. இதனால் நோயாளிகளை மேலதிக சிகிச்சைகளுக்காக வேறு வைத்தியசாலைகளுக்கு கொண்டு செல்வதில் தாமதங்கள் ஏற்பட்டு வருவதாகவும், இதனால் நோயாளிகள் பல்வேறுபட்ட சிரமங்களுக்கு முகங்கொடுத்து வருவதாகவும் தெரிவிக்கின்றார்கள்.
+🟩
 
-கடந்த சில மாதங்களாக ஒரு வாகனம் மாத்திரமே சேவையில் ஈடுபட்டு வந்த நிலையில் தற்போது 3 வாகனங்கள் மாத்திரமே நோயாளர்களுக்கான சேவையில் ஈடுபட்டு வருகின்றன. அத்துடன் குறித்த வாகனங்களில் இரண்டு வாகனங்கள் முற்றாக பாவிக்க முடியாத நிலையில் இருப்பதோடு ஏனைய 7 வாகனங்களும் திருத்த வேலைக்காக வேலைத்தளங்களிலும், வைத்தியசாலை வளாகங்களிலும் நீண்டகாலமாக தரித்து நிற்பதாகவும் தெரிய வருகின்றது.
+Patients are facing great difficulties due to shortage of patients at the Trincomalee Hospital.
 
-...
+There are 12 patient kavu vehicles for the use of the Trincomalee District General Hospital, but only 3 vehicles are currently working in the service.. They report that there are delays in transporting patients to other hospitals for further treatment, causing patients to face a variety of difficulties.
+
+With only one vehicle in the last few months, only 3 vehicles have been working for patients. Two vehicles are unable to use in the vehicles and the other 7 vehicles have long been working in the workplaces and hospital premises for correction.
+
+The public is concerned that such incidents are taking place due to the improper administration and maintenance of the hospital, the cost of amendment of several lakhs of rupees is being re -transported to corrections within a few days, and that even the drug carrying the drug is not present in the hospital.
+
+◼️
 
 [Data](articles/19d852e9.json)
 
+[Extended Data](ext_articles/19d852e9.ext.json)
+
 ---
 
-### வரலாற்றில் இன்று : 1956 ஏப்ரல் 18இல் வெளியான வீரகேசரி இதழின் முதல் பக்கத்தில்...
+### Today in History
 
 *2024-04-18 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181393) · `ta`
 
-"தமிழரசுக் கட்சி பதவிவேட்டையில் என்றும் இறங்காது" : எதிர்க்கட்சித் தலைவர் பதவி வேண்டாம் என செல்வநாயகம் பதில் : தமிழரசு எம்.பி.க்களின் முதலாவது கூட்டத்தில் செய்யப்பட்ட முடிவுகள்
+"Today in History: Selvanayagam, opposition leader."
+
+🟩
+
+Selvanayagam Answer: Opposition Leader
 
 ◼️
 
 [Data](articles/e2182152.json)
+
+[Extended Data](ext_articles/e2182152.ext.json)
 
 ---
 
@@ -95,6 +151,26 @@ Years before the dismissals, tensions had been simmering between the company’s
 [Data](articles/4b1d4445.json)
 
 [Extended Data](ext_articles/4b1d4445.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 301.50/302.00 to the US dollar
+
+*2024-04-18 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-301-50-302-00-to-the-us-dollar-159140/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.50/302.00 to the US dollar in the spot forex market on Thursday, from 301.00/302.05 on Wednesday, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.35/40 percent up from 11.30/35 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 closed at 12.15/25 percent up from 12.10/20 percent.
+
+A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr18/2024)
+
+◼️
+
+[Data](articles/353bb566.json)
 
 ---
 
@@ -310,6 +386,30 @@ Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘
 
 ---
 
+### Sri Lanka stocks close down, selling pressure on diversified financials, banks
+
+*2024-04-18 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-diversified-financials-banks-159135/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.28 percent, or 33.10 points, at 11,797; while the S&P SL20 Index closed down 0.46 percent, or 15.92 points, at 3,475.
+
+Turnover was at 2.2 billion. The diversified financials (Rs661mn) and banks (Rs408mn) sectors saw selling pressure.
+
+“This was possibly driven by the uncertainty about the direction of the bond talks,” market participants said.
+
+“The market was a bit volatile today also, but not so much as the previous day, turnover remained relatively high.”
+
+Capital Alliance Plc saw the most traded volume (Rs480mn) and the share closed up at 65.90.
+
+Lanka Milk Foods (CWE) Plc also saw interest (Rs317mn) and the share closed up at 30.00.
+
+...
+
+[Data](articles/c5770db8.json)
+
+---
+
 ### Stups of the three STF trapped in Boralesgamuwa
 
 *2024-04-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195759) · `si`
@@ -417,6 +517,26 @@ Sri Lanka's Milky Ways activist Rosanna Flamer-Caldera is on the list of the wor
 [Data](articles/10c34362.json)
 
 [Extended Data](ext_articles/10c34362.ext.json)
+
+---
+
+### Sri Lanka Freedom Party crisis: Enjoining order extended till May 09
+
+*2024-04-18 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-crisis-enjoining-order-extended-till-may-09-159131/) · `en`
+
+ECONOMYNEXT — The Colombo District Court has extended an enjoining order preventing former president Maithripala Sirisena from serving as chairman of the crisis-riddled Sri Lanka Freedom Party (SLFP).
+
+Attorney-at-law Lakmal Wickramarachchi told reporters on Friday April 18 that objections will be filed on May 09.
+
+“Proxies were filed on behalf of former president Maithripala Sirisena and the general secretary of the party. We obtained dates for filing objections to the enjoining order. We expect to file our objections on May 09 and present facts seeking the removal of the enjoining order,” he said.
+
+The order, made by the court following a case filed by former president Chandrika Bandaranaike Kumaratunga, will be in effect till May 09.
+
+Meanwhile, SLFP acting general secretary Dushmantha Mithrapala has filed objections at the National Election Commission to the new appointments made to the SLFP on April 08, media reports said Friday afternoon.
+
+...
+
+[Data](articles/64d05765.json)
 
 ---
 
@@ -547,6 +667,24 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 [Data](articles/7b6b8211.json)
 
 [Extended Data](ext_articles/7b6b8211.ext.json)
+
+---
+
+### Sri Lanka Police, Environmental Authority ask public to report noise pollution and burning trash
+
+*2024-04-18 14:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-environmental-authority-ask-public-to-report-noise-pollution-and-burning-trash-159122/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Police has requested the public to provide information on environmental damage such as burning trash and noise pollution to its Special Bureau on the hotline 1997 and the Central Environment Authority’s hotline 1981.
+
+“These numbers already receive information from the public regarding various environmental damages such as mining for minerals, illegal mining along riverbanks, environmental damage caused by illegal factories and noise pollution,” the Police said in a statement after a discussion with the CEA.
+
+The public were encouraged to report various environment harming issues including noise pollution, vehicles that emit excessive smoke or honk horns excessively, and the disposal of inorganic and organic waste and/or burning trash.
+
+The CEA and the Police reached an agreement to carry out future raids and awareness campaigns related to environmental protection. (Colombo/Apr18/2024)
+
+◼️
+
+[Data](articles/b3faa123.json)
 
 ---
 
@@ -792,6 +930,48 @@ The report, which has been issued to the press and the media by Mansur Alikan, b
 
 ---
 
+### Dayasiri rushes to Sirisena’s defence in new twist to Sri Lanka Freedom Party saga
+
+*2024-04-18 13:16:00* · [`economynextcom`](https://economynext.com/dayasiri-rushes-to-sirisenas-defence-in-new-twist-to-sri-lanka-freedom-party-saga-159084/) · `en`
+
+ECONOMYNEXT — The crisis within the Sri Lanka Freedom Party (SLFP) has taken a new turn with former general secretary Dayasiri Jayasekara, who was removed by then chairman Maithripala Sirisena, now pledging his support to the latter.
+
+Jayasekara claimed that a conspiracy has been hatched against the party.
+
+The Kurunegala district MP told reporters that the third defendant in the same case that resulted in Sirisena’s dismissal as SLFP chairman has now been made acting chairman by what he called a sham politburo.
+
+“The third accused of the same case, who the same charges applied to, has been made acting chairman by a sham politburo. How can that be?” said Jayasekara.
+
+“This is clearly a deviously hatched conspiracy. The end result of this conspiracy is the killing of the SLFP,” he said.
+
+“Those of us from the Kurunegala district, as organisers, are ready to work for President Sirisena and the party with dedication,” he added.
+
+...
+
+[Data](articles/70622e08.json)
+
+---
+
+### Sri Lanka’s Hunas Holdings to offer room nights trading with Japan firm
+
+*2024-04-18 13:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-hunas-holdings-to-offer-room-nights-trading-with-japan-firm-159082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hunas Holdings, which has interests in leisure and energy, said it is partnering with Japan-based BCC Corporation to offer a platform that allows people to buy and sell hotel rooms.
+
+Rooms booked through its platform named Nafutel, could be sold to another traveller, if travel plans change and cut their loss risk.
+
+“In the event of unforeseen circumstances preventing them from utilizing their booked dates, travelers have the option to sell their room reservations on the platform, effectively recouping their investment,” Hunas Holdings said in a statement.
+
+Investors who want to take on risk could also book rooms ahead of time at cheaper rates and try to sell them at higher rates, when prices rise by taking trading positions.
+
+“By purchasing room nights ahead of time, investors can capitalize on fluctuating demand in the hospitality industry, strategically upselling their reservations during peak seasons for maximum returns,” the firm said.
+
+...
+
+[Data](articles/a3d59524.json)
+
+---
+
 ### Another certificate from the IMF
 
 *2024-04-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195756) · `si`
@@ -973,6 +1153,26 @@ The government said one of the main stumbling blocks had been that the “baseli
 [Data](articles/bf84faba.json)
 
 [Extended Data](ext_articles/bf84faba.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Credit Singapore key shareholder under liquidation order
+
+*2024-04-18 12:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-credit-singapore-key-shareholder-under-liquidation-order-159053/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Credit and Finance Plc said a Singapore firm has ordered its second largest shareholder, which owns 29.99 percent of the firm to be liquidated.
+
+Cosimo Borell of Kroll Pte Ltd has been appointed Liquidator for Group Lease Holdings Pte Ltd, Commercial Credit said in a stock exchange filing.
+
+However, Group Lease Public Company Limited (GL Thailand), the sole shareholder and secured creditor of Group Lease Holdings Pte Ltd, has appealed the decision.
+
+“The operations of the company will not be impacted as of now by the circumstances detailed above, as Commercial Credit and Finance PLC has no financial or operational dependencies on Group Lease Holdings Pte Ltd or any of its related parties,” Commercial Credit and Finance Plc said.
+
+Commercial Credit stock was trading down at 34.50 in intra day trading on Thursday. (Colombo/Apr18/2024)
+
+◼️
+
+[Data](articles/00b95a12.json)
 
 ---
 
@@ -1756,6 +1956,28 @@ The District Court issued a complaint filed by former President Chandrika Bandar
 
 ### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
 
+*2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-visa-fees-for-saarc-citizens-up-167-pct-with-vfs-global-levy-158985/) · `en`
+
+ECONOMYNEXT – Tourists from neighboring South Asian countries appear to the hardest hit with a shift of the country’s electronic travel authorization system to IVS Global -VFS Global, a private company.
+
+Sri Lanka only charged 20 dollars from a SAARC visitor up to the shift to VFS Global.
+
+Based on the information disclosed online, SAARC visa fees have risen to 75 dollars with a gazetted fee going up to 35 dollars and 18.5 dollar additional fee charged by VFS Global, the private provider.
+
+Related Sri Lanka jacks up tourist visa fees 50-pct, adds another charge to scrap existing ETA
+
+Travel industry sources said they had not been consulted on the VFS Global linked cost increases and had taken up the issue with authorities and were awaiting a reply.
+
+Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of regional integration.
+
+...
+
+[Data](articles/5b4dc4e4.json)
+
+---
+
+### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
+
 *2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-costs-for-saarc-countries-up-167-pct-with-vfs-global-levy-158985/) · `en`
 
 ECONOMYNEXT – Tourists from neighboring South Asian countries appear to the hardest hit with a shift of the country’s electronic travel authorization system to IVS Global -VFS Global, a private company.
@@ -2031,255 +2253,5 @@ Accordingly, the public will have two weeks from the day the Bill is presented t
 [Data](articles/8cc378ff.json)
 
 [Extended Data](ext_articles/8cc378ff.ext.json)
-
----
-
-### 7 lakh tourists arrived in Sri Lanka in the first 14 weeks of the year
-
-*2024-04-18 08:50:26* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-මුල්-සති-14-තුළ-ලංකාවට-සංචාරකයන්-ලක්ෂ-7ක්-ඇවිත්/11-409137) · `si`
-
-Sri Lanka saw over 700,000 tourists in the first 14 weeks of 2023, with India being the top source, followed by the UK and Russia. Germany, France, Australia, and China also contributed significantly.
-
-🟩
-
-Tourist arrivals to Sri Lanka exceeded 700,000 marks in the first 14 weeks of this year. Accordingly, the number of tourist arrivals to Sri Lanka from 1st to April 1 was 718 315.
-
-In 2023, tourists arrived in Sri Lanka exceeded Rs. 7 million.
-
-82,531 tourists visited Sri Lanka in the first 15 days of April. The number of tourists visiting Sri Lanka a day has now been close to 5500.
-
-India is the number one as Sri Lanka is the largest number of tourist arrivals and 17 percent of the arrivals.
-
-The UK is the country where the UK is the second largest travelers, which contributes 11 percent of the total.
-
-UK authorities recently updated to travel consulting on Sri Lanka, Sri Lanka is expecting more tourist arrivals from the market.
-
-Russia is third with a percentage of the total number of arrivals.
-
-Germany, France, Australia and China are placed fourth, fifth, sixth, sixth and seventh places.
-
-◼️
-
-[Data](articles/881ed687.json)
-
-[Extended Data](ext_articles/881ed687.ext.json)
-
----
-
-### Woman arrested in Jaffna
-
-*2024-04-18 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181343) · `ta`
-
-A 53-year-old woman from Jaffna was arrested for illegal liquor leakage, with police seizing 10,000 milliliters of leaked liquor and packing equipment.
-
-🟩
-
-A woman was arrested by police on Wednesday (17) for allegedly committing an illegal liquor leakage in Jaffna.
-
-A 53 -year -old woman from Chunnakam South, Chunnakam Pootarayar Kovili area has been arrested.
-
-The arrest was carried out in the raid of a team headed by the officer in charge of the Chunnakam Police Station.
-
-The suspect has seized ten thousand milliliters of leaks and equipment used to pack it.
-
-◼️
-
-[Data](articles/c49c1b01.json)
-
-[Extended Data](ext_articles/c49c1b01.ext.json)
-
----
-
-### Two female bodies in a house
-
-*2024-04-18 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195746) · `si`
-
-In Kalutara South, two female bodies were found in a house. Police were alerted by a heavy stallot near the house. The deceased, identified as two and 79-year-old women, will be investigated by magistrates tomorrow.
-
-🟩
-
-Two female bodies have been found in a house in the South Taokana area in Kalutara South Police Division.
-
-The police media division said that two women were in a few days in a house yesterday (17) and had a heavy stallot near the house and received a message from the South South South Police.
-
-Accordingly, the police officers had gone to the scene at the time.
-
-Later, two women were observed that two women died in the ground.
-
-The deceased has been identified as two and 79 women from the Grama Niladhari.
-
-The body of magistrates are to investigate tomorrow (18).
-
-◼️
-
-[Data](articles/fa94e0de.json)
-
-[Extended Data](ext_articles/fa94e0de.ext.json)
-
----
-
-### Sri Lanka register highest successful run chase in women’s ODI history
-
-*2024-04-18 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98693/sri-lanka-register-highest-successful-run-chase-in-womens-odi-history) · `en`
-
-Chamari Athapaththu smashed the third-highest individual score in women’s ODIs to help Sri Lanka pull off the highest-ever successful run-chase in women’s ODIs.
-
-Chamari Athapaththu was at her brutal best as Sri Lanka stunned South Africa with a record run-chase in Potchefstroom to level the three-match ICC Women’s Championship ODI series and end a highly successful bilateral tour to the Rainbow Nation.
-
-Chasing 302 to win, Athapaththu led Sri Lanka’s fightback with a stunning hundred, and remained unbeaten on 195, the third-highest score in women’s ODIs, as the visitors overhauled the target with 33 balls to spare.
-
-Athapaththu’s innings was also the second highest individual score in a successful run chase in ODI cricket - both men’s and women’s - marginally behind the magnificent 201* Glenn Maxwell put together for Australia against Afghanistan at last year’s ICC Men’s Cricket World Cup.
-
-...
-
-[Data](articles/bea9203c.json)
-
-[Extended Data](ext_articles/bea9203c.ext.json)
-
----
-
-### Another human murder
-
-*2024-04-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195745) · `si`
-
-A 59-year-old man in Kuruwita was murdered by a drunk person who assaulted him, leading to his death. The suspect is currently under investigation by the Kuruwita police.
-
-🟩
-
-A murder had taken place due to a killy assault by a person in Kuruwita area in Kuruwita.
-
-Police said that the man fell into the ground and was admitted to the Ratnapura hospital yesterday (17).
-
-The deceased is a 59 year old resident of the Kuruwita area.
-
-A drunk person who came to the house of the deceased person has begun a facial manner, and the drunken person is giving residents to the residents.
-
-Investigations have revealed that the drunken person was hit by the Drunk Person, and he died after being unconscious and died after being unconscious.
-
-Kuruwita police are conducting further investigations to arrest him.
-
-◼️
-
-[Data](articles/f454dc14.json)
-
-[Extended Data](ext_articles/f454dc14.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-04-18 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98692/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in North-central, Central and North-western provinces and in Mannar districts during the afternoon or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f89c71cf.json)
-
-[Extended Data](ext_articles/f89c71cf.ext.json)
-
----
-
-### The main reason for death is revealed
-
-*2024-04-18 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195744) · `si`
-
-Heart disease, caused by unhealthy food, lack of physical activity, tobacco, alcohol, and stress, is the main cause of recent deaths. Dr. Sharyle Balasingham highlighted the damage to heart blood vessels and the importance of lifestyle changes to prevent non-communicable diseases.
-
-🟩
-
-The main cause of the recent deaths is heartbarming.
-
-Health departments have occurred since 2010 to 2020, health department, health department.
-
-It is said that the main cause of unhealthy food, bodily procedure, decrease in physical acts, tobacco, liquor and stress is the main cause of heart attack.
-
-Addressing a media brief held at the Health Promotion Bureau, Mrs. Dr. Sharyle Balasingham explained this.
-
-"This illness is caused by the damage to the heart blood vessels. We are saying that the Hart attainable of the Hart or a heart attack. There are several special risk factors to prevent non-communicable diseases. The first one is the use of sugar, salt and oil, harmful to health. The next one decreases physical procedure to second. Also, these factors are among these factors, tobacco and alcoholism and stress. "
-
-Specialist Dr. Sharyel Balasingham added that the mobile phone and computer use is far from the lives of the lives of the lives of the lives.
-
-...
-
-[Data](articles/10d679a9.json)
-
-[Extended Data](ext_articles/10d679a9.ext.json)
-
----
-
-### Planting of the New Year - Today
-
-*2024-04-18 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195743) · `si`
-
-Today marks the culmination of Tamil New Year's rituals, symbolizing the transition from the old to the new. Agriculture Minister Mahinda Amaraweera has directed all to plant, signifying a fresh start.
-
-🟩
-
-The final custom of the Tamil Tamil New Year's New Year's Rituals (18) is today.
-
-The years of years of ritual shows that the savvy of the predictor of time to the predictor of time, and planting the east of the golden garment today.
-
-Meanwhile, Agriculture Minister Mahinda Amaraweera stated that the plantings, ministries and farmers have been instructed to plant a plant to plant a plant.
-
-◼️
-
-[Data](articles/6e698975.json)
-
-[Extended Data](ext_articles/6e698975.ext.json)
-
----
-
-### Sri Lanka women's group records
-
-*2024-04-18 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195742) · `si`
-
-Sri Lanka women's cricket team won a one-day match against South Africa, with Chamari Atapattu scoring 195 runs, setting a new record for women's cricket.
-
-🟩
-
-Sri Lanka women's group has been able to win one of the one-day tournament with South African women's team.
-
-That was to win the third ODI between the third ODI match ended yesterday (17).
-
-South African women were able to score 301 runs for the loss of 5 wickets in 5 overs.
-
-Sri Lanka women's group scored 305 runs for the loss of 44 overs and scored 44 overs.
-
-This is the first time a group of women's team has recorded a top scorer in one-day tour.
-
-Chamari Atapattu scored 195 not unbeaten on behalf of Sri Lanka.
-
-Accordingly, this is the highest number of marks that obtained a women's athlete in one-day cricket tournament.
-
-◼️
-
-[Data](articles/97e607ad.json)
-
-[Extended Data](ext_articles/97e607ad.ext.json)
-
----
-
-### SLFP Politburo verdict today
-
-*2024-04-18 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195741) · `si`
-
-SLFP Politburo to discuss matters today.
-
-🟩
-
-It is reported that the SLFP Politburo will consider today (18).
-
-◼️
-
-[Data](articles/8dd05b46.json)
-
-[Extended Data](ext_articles/8dd05b46.ext.json)
 
 ---

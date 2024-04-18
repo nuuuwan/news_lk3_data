@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 10:03:20**
+As of **2024-04-18 10:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,491** Articles*
+*Scraped **19,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
 adalk | 1,623
-tamilmirrorlk | 2,270
+tamilmirrorlk | 2,271
 adaderanalk | 2,338
 virakesarilk | 2,904
 dailymirrorlk | 3,010
-adaderanasinhalalk | 3,172
+adaderanasinhalalk | 3,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,489 (100.0%) of 19,491 articles have been extended.
+19,491 (100.0%) of 19,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### ඉන්දුනීසියාවට සුනාමි අනතුරු ඇඟවීමක්
+
+*2024-04-18 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195748) · `si`
+
+ඉන්දුනීසියාවේ රුවන්ග් ගිනි කන්ද සක්‍රිය වීම හේතුවෙන් සුනාමි අනතුරු ඇඟවීමක් නිකුත් කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+බලධාරීන් අනතුරු අඟවන්නේ, විධාරණය වෙමින් පවතින ගිනි කන්දේ කොටස් මුහුදට වැටී සුනාමි තත්ත්වයක් ඇති විය හැකි බවට සැක පළ කරන බවය.
+
+1871 වසරේදී එලෙස විදාරණය වූ ගිනි කන්දේ කොටස් මුහුදට කඩාවැටීමෙන් සුනාමි අනතුරක් ද සිදුවුණි.
+
+මේ හේතුවෙන් ගිනි කන්ද අවට වාසය කළ 11,000ක පමණ පිරිසක් ආරක්ෂිත කලාප වෙත යොමුකිරීමට බලධාරීන්ට සිදුවුණි.
+
+නිරන්තරයෙන් සක්‍රියව පවතින රුවන්ග් ගිනි කන්ද පිහිටා ඇත්තේ ඉන්දුනීසියාවේ උතුරුදිග සුලවේසි කලාපයේ දූපතකය.
+
+එම ගිනිකන්ද මේ වනවිට විදාරණය වී ඇති අතර ඉන් ලාවා සහ අළු විහිඳුවමින් පවතින බව විදෙස් වාර්තා සඳහන් කරයි.
+
+ඉන්දුනීසියාව ලොව වඩාත්ම සක්‍රිය ගිනි කඳු පවතින ගිනි වළල්ල කලාපයේ පිහිටා තිබේ.
+
+මීටර් 725ක උසින් යුතු රුවන්ග් ගිනි කන්ද සැලකෙන්නේ ඉන් වඩාත් සක්‍රියම ගිනි කන්දක් ලෙසය.
+
+◼️
+
+[Data](articles/ba44cc91.json)
+
+---
 
 ### Tsunami alert after a volcano in Indonesia has several big eruptions and thousands are told to leave
 
@@ -49,6 +75,8 @@ Officials worry that part of the volcano could collapse into the sea and cause a
 ...
 
 [Data](articles/c6962e3a.json)
+
+[Extended Data](ext_articles/c6962e3a.ext.json)
 
 ---
 
@@ -1738,19 +1766,27 @@ Previously, the Director General of State Intelligence Suresh S Sarshie S Sarsh 
 
 ---
 
-### මේ වසරේ අප්‍රේල් 14 දා තෙක් දුම්රිය පීලි පැනීම් 30ක්
+### 30 train delegation until April 14 this year
 
 *2024-04-17 19:33:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-අප්‍රේල්-14-දා-තෙක්-දුම්රිය-පීලි-පැනීම්-30ක්/11-409135) · `si`
 
-දුම්රිය මාර්ග නිසි ලෙස නඩත්තු නොකිරීම නිසා මේ වසරේ ජනවාරි 01 වන දින සිට අප්‍රියෙල් මස 14වන දින  දක්වා කාලය තුළ දුම්රිය පීළි පැනීම් 30 ක් සිදුව තිබෙන බවත්, මේ නිසා දුම්රිය මර්ගවලටත් හානි සිදුව තිබෙන බවත් දුම්රිය වෘත්තීය සමිති සඳහන් කරයි.
+Railway Trade Unions report a 30-day train delegation until April 14, citing severe passenger difficulties and damage to trains due to rarity. They also mention delays in train traffic in Kalutara. Despite technological advancements, they argue for improved maintenance to bridge the gap between two-lodged rail services.
 
-මෙම පීළි පැනීම්වලින් 18 ක් මගී දුම්රිය පීළිපැනීම්  බවත්,  ඉතිරි 12 දුම්රිය අංගණවල පීළි පැනීම් බවත්, මගී දුම්රිය පීළිපැනීමට ලක් වූ අවස්ථාවල මගී ජනතාව දැඩි දුෂ්කරතාවන්ට පත්වන බවත්, අදාළ මාර්ගයේ අනෙකුත් දුම්රිය ධාවනයට බාධා සිදුවන බවත් වෘත්තීය සමිති පෙන්වා දෙති.මෙම කාලය තුළ අවසන් වරට මේ මස 13 වන දින දකුණු කළුතර ප්‍රදේශයේදී දුම්රිය පීළිපැනීමක් සිදුවූ බවත්, මේ නිසා දුම්රිය ගමනාගමනයට යම්  බාධා සිදුවූ  බවත් දුම්රිය වෘත්තීය සමිති සඳහන් කරයි.
+🟩
 
-අඩු බරකින් යුත්  දුම්රිය එංජින් ධාවනය කිරීමට මෙරට බොහෝ දුම්රිය මාර්ග සකස් කර ඇතත් තාක්ෂණයේ දියුණුවත් සමග සකස් කරන දුම්රිය එංජින් වැඩි බරකින් යුත්  බවත්, වැඩි බරකින් යුත් දුම්රිය එංජින් ධාවනය වන විට සමහර ස්ථානවල පීළි දෙක අතර පරතරය වෙනස් වීම සිදුවන බවට වාර්තා වන බවත් පෙන්වා දෙයි.
+Railway Trade Unions states that 30 January this year, the railway panel has been reported to April 14 this year.
 
-...
+The trade unions point out that the passengers will be severely difficult during the remaining 12 trains and the other train will be severely damaged when the passenger railway is rare.Railway Trade Unions mention that the train traffic was delayed in the South of Kalutara on the 13th of this month.
+
+Although most of the train services in Sri Lanka has been replaced with the advancement of technology, but it is more weighted that the progress of technology is more weighted and reported that the gap between the two-lodged rail service is running.
+
+Most of the cheers say that if the railways can lead to the process, as the past pays is due to the maintenance of the railway measures.
+
+◼️
 
 [Data](articles/2c8b415d.json)
+
+[Extended Data](ext_articles/2c8b415d.ext.json)
 
 ---
 
@@ -2165,33 +2201,5 @@ The Foreign Officer of the Kattwatte police to purchase the bread of Kottattiya 
 [Data](articles/d2b6e230.json)
 
 [Extended Data](ext_articles/d2b6e230.ext.json)
-
----
-
-### Jeevan does not know the goat
-
-*2024-04-17 17:28:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனுக்கு-ஆடு-தெரியாதாம்/76-336054) · `ta`
-
-Jeevan Thondaman is uninvolved in a goat farming scheme in Nuwara Eliya district, where 25 beneficiaries were supposed to receive 75 goats each. Delays led to a minor tension over the goats' delivery and quality. The program, run by the Ministry of Water Supply and Plantation Infrastructure Development, faced controversy over the selection process and the quality of the goats.
-
-🟩
-
-25 beneficiaries have been selected for the first phase to encourage goat farming in Nuwara Eliya district. Steps have been taken to provide 75 goats for one person and two for each of the 25 beneficiaries who have been selected.
-
-However, the selected beneficiaries were decided to provide the goats on Taipongal Day. However, due to the delay in implementing the scheme, the goats have not reached the beneficiaries.
-
-In this case, a sum of goats were brought to Kotakkal (CLF) on Tuesday (16) to provide 75 beneficiaries.
-
-Some have warned that the lorry, which was loaded with goats that evening (16), was warned and that the Lorry was set to set fire to the fact that the goats were not paid properly.
-
-This caused a minor tension in the shed. Some of the rushed officials quenched the tension.
-
-Beneficiaries have been selected to provide goats when they questioned the relevant parties regarding the goat affair. It is reported that the programs are being carried out through Thondaman Memorial Forum.
-
-...
-
-[Data](articles/413f87d2.json)
-
-[Extended Data](ext_articles/413f87d2.ext.json)
 
 ---

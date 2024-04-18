@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 22:05:04**
+As of **2024-04-18 22:18:36**
 
 ## Newspaper Stats
 
-*Scraped **19,624** Articles*
+*Scraped **19,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,118
 adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
-virakesarilk | 2,935
+virakesarilk | 2,937
 dailymirrorlk | 3,030
 adaderanasinhalalk | 3,192
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,623 (100.0%) of 19,624 articles have been extended.
+19,624 (100.0%) of 19,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව ගොඩනඟනවා - ජනපති
+### Sri Lanka is building youths expect - President
 
 *2024-04-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195767) · `si`
 
-මෙරට තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව නිර්මාණය කළ හැකි බවට දැඩි විශ්වාසයක් තමා තුළ පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe confidently expects Sri Lanka to be built by its youth, emphasizing economic stability and development in Nuwara Eliya.
 
-නුවරඑළිය දිස්ත්‍රික්කයේ යොවුන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ තරුණ දේශපාලන නියෝජිතයන් සමඟ අද (18) නුවරඑළිය ජනාධිපති මන්දිරයේ පැවති හම්වුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළ බව ජනාධිපති මාධ්‍ය ඒකකය පවසයි.
+🟩
 
-බොහෝ දෙනා අසීරු බව පැවසූ බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය යළි ගොඩනැඟීමේ අභියෝගය භාරගත් තමා වසර දෙකක් තුළදි රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ආ බව පෙන්වා දුන් ජනාධිපතිවරයා රට ඉදිරියට ගෙන යාමට අවශ්‍යව ඇත්තේ සාමුහිකත්වය පමණක් බවද කියා සිටියේය.
+President Ranil Wickremesinghe says that he is confident that Sri Lanka is expected to be created in Sri Lanka.
 
-නුවරඑළිය දිස්ත්‍රික්කය ඉහළ සංචාරක ආකර්ශනයක් දිනාගත් ප්‍රදේශයක් ලෙස සංවර්ධනය කිරීමට රජය ගෙන යන වැඩපිළිවෙළට අද ඇතැමුන් අකුල් හෙළමින් සිටින බව මෙහිදී ජනාධිපතිවරයා පෙන්වා දී තිබේ.
+President Ranil Wickremesinghe made this statement at the Presidential Media Center at Nuwara Eliya in Nuwara Eliya today (18) with young MPs in Nuwara Eliya District.
 
-පැරණි දේශපාලනයේ නිරතව රට සංවර්ධනය කළ නොහැකි බවත්, රටට අවශ්‍ය ආයෝජන ආකර්ශනය කර ගනිමින් රට සංවර්ධනය කිරීමට නම් සියලුදෙනා එකඟතාවයකින් කටයුතු කළයුතු බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+The President has said that he has given the country's economy into a stable level, the President has said that he has given the country's economy into a stable.
+
+The President has pointed out that some have been ignored by the government to develop the Government of the Nuwara Eliya district as a high tourist attraction area.
+
+The President said that everyone should consult the country to develop the country, attracting the country's country.
+
+The economic stability of the country is pleased with the economic stability of the country and the economic stability of the country is the prospect of the people of all fields and the income of the people of all fields today.He said that all the people receive this benefit.
 
 ...
 
 [Data](articles/acdf4c79.json)
+
+[Extended Data](ext_articles/acdf4c79.ext.json)
 
 ---
 
@@ -73,6 +81,20 @@ During the investigations, it was revealed that the suspect is known in the area
 [Data](articles/7b30cc21.json)
 
 [Extended Data](ext_articles/7b30cc21.ext.json)
+
+---
+
+### களுத்துறையில் சுற்றுலா பயணிக்கு வடை மற்றும் தேநீரை 800 ரூபாவுக்கு விற்ற இடைத்தரகர் கைது!
+
+*2024-04-18 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181407) · `ta`
+
+களுத்துறை உணவகம் ஒன்றில் வெளிநாட்டுப் பிரஜை ஒருவருக்கு ‘வடையும் ஒரு சாதாரண தேநீரும்’ 800 ரூபாவுக்கு கொடுத்த சம்பவம் ஒன்று சமூக ஊடகங்களில் காணொளியாக வந்ததைத்தொடர்ந்து குறித்த இடைத்தரகரை சுற்றுலாப் பொலிஸார் கைது செய்துள்ளனர்.
+
+மேலும், உணவகத்தின் உரிமையாளருக்கு எதிராக தனி வழக்கு ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் உறுதிப்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/066500be.json)
 
 ---
 
@@ -899,6 +921,24 @@ A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr18/2024)
 [Data](articles/353bb566.json)
 
 [Extended Data](ext_articles/353bb566.ext.json)
+
+---
+
+### சுதந்திரக் கட்சியின் உத்தியோகபூர்வமற்ற தலைவராக ரணில் - ஐக்கிய மக்கள் சக்தி சாடல்
+
+*2024-04-18 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181386) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் உத்தியோகபூர்வமற்ற தலைவராக ஜனாதிபதி ரணில் விக்கிரமசிங்க செயற்படுவார். அதனை அடிப்படையாகக் கொண்டே அமைச்சுப்பதவிகளை வகிக்கும் சுதந்திர கட்சி உறுப்பினர்கள் தற்போது செயற்பட்டுக் கொண்டிருப்பதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க ஸ்ரீலங்கா சுதந்திர கட்சியின் உத்தியோகபூர்வமற்ற தலைவராகவுள்ளார். சுதந்திர கட்சியின் தலைவர் பதவியில் நீடிப்பதற்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு நீதிமன்றத்தால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+தற்போதைய அரசாங்கத்தில் அமைச்சுப்பதவிகளை ஏற்றுக் கொண்டுள்ள சுதந்திர கட்சியின் அமைச்சர்களே முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு எதிராக செயற்பட்டுக் கொண்டிருக்கின்றனர்.
+
+...
+
+[Data](articles/6a2ef493.json)
 
 ---
 
@@ -2273,39 +2313,5 @@ There are no arrangements for the post -election regulation.
 [Data](articles/adb31c74.json)
 
 [Extended Data](ext_articles/adb31c74.ext.json)
-
----
-
-### Sri Lankan among NASA’s new crew for next simulated Mars journey
-
-*2024-04-18 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-among-NASAs-new-crew-for-next-simulated-Mars-journey/108-280901) · `en`
-
-A Sri Lankan postdoctoral research scientist Piyumi Wijesekara is among the new crew of four volunteers selected by NASA to participate in a simulated mission to Mars within a habitat at the agency’s Johnson Space Center in Houston.
-
-The NASA said Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will step into the agency’s Human Exploration Research Analog, or HERA, on Friday, May 10. Once inside, the team will live and work like astronauts for 45 days. The crew will exit the facility on June 24 after they “return” to Earth. Jose Baca and Brandon Kent are this mission’s alternate crew members.
-
-...
-
-[Data](articles/541dadb4.json)
-
-[Extended Data](ext_articles/541dadb4.ext.json)
-
----
-
-### Eight Sri Lankans rescued from Myanmar cyber slave camps repatriated
-
-*2024-04-18 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98698/eight-sri-lankans-rescued-from-myanmar-cyber-slave-camps-repatriated) · `en`
-
-The eight Sri Lankans, including 2 females who were rescued from the cyber scamming camps in Myawaddy area of Myanmar have arrived in Sri Lanka this morning after being repatriated with the help of the International Organisation for Migration (IOM) and the Ministry of Foreign Affairs.
-
-Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and sent to the Myawaddy central police station, following which they safely arrived at the Embassy of Sri Lanka in Thailand on April 11.
-
-The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans. The Sri Lankan Embassy in Myanmar, through the Eden Foundation, a charity organization based in Myanmar, provided them with food and other necessities during their temporary stay at the Myawaddy Police Station following the rescue from traffickers.
-
-...
-
-[Data](articles/a6a74919.json)
-
-[Extended Data](ext_articles/a6a74919.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 23:34:54**
+As of **2024-04-18 23:53:01**
 
 ## Newspaper Stats
 
-*Scraped **19,632** Articles*
+*Scraped **19,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
-economynextcom | 1,118
+economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,355
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,631 (100.0%) of 19,632 articles have been extended.
+19,632 (100.0%) of 19,634 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ Its significant psychological impact on enhancing educational productivity has l
 ...
 
 [Data](articles/04e3cce1.json)
+
+[Extended Data](ext_articles/04e3cce1.ext.json)
 
 ---
 
@@ -614,6 +616,22 @@ The suspect and other suspects were fled by the police sergeant and a constable 
 
 ---
 
+### Sajith’s favourability improves in March, but AKD continues lead: Sri Lanka survey
+
+*2024-04-18 18:23:00* · [`economynextcom`](https://economynext.com/sajiths-favourability-improves-in-march-but-akd-continues-lead-sri-lanka-survey-159172/) · `en`
+
+ECONOMYNEXT — Net favourability rating of Sri Lanka opposition leader Sajith Premadasa increased in March but rival Anura Kumara Dissanayake continued to lead, though all potential candidates including them had negative ratings for the month.
+
+The Institute for Health Policy (IHP) which carried out the survey found that Premadasa’s net favourability had increased by 30 points to -30 in March compared to the previous month while favourability ratings of National People’s Power (NPP) leader Dissanayake and President Ranil Wickremasinghe remained relatively unchanged at -24 (-2) and -78 (+1) respectively.
+
+IHP said in a statement on Thursday April 18 that favourability estimates for each month are based on 100–400 interviews conducted during that month and during a few weeks before and afterward to ensure a minimum set of responses. The March 2024 estimates are based on 401 (Premadasa), 377 (Dissanayake), 406 (Wickremasinghe), and 145 (former president Gotabaya Rajapaksa) interviews.
+
+...
+
+[Data](articles/6f41bf32.json)
+
+---
+
 ### Teenager reported missing while bathing in Castlereagh Reservoir
 
 *2024-04-18 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98708/teenager-reported-missing-while-bathing-in-castlereagh-reservoir) · `en`
@@ -759,6 +777,24 @@ The International Organization for Migration provided logistical assistance in r
 [Data](articles/3aaca04e.json)
 
 [Extended Data](ext_articles/3aaca04e.ext.json)
+
+---
+
+### Sri Lankans trapped in Myanmar forced labour cyberscam come home
+
+*2024-04-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankans-trapped-in-myanmar-forced-labour-cyberscam-come-home-159163/) · `en`
+
+ECONOMYENXT – Eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar returned to Sri Lanka today.
+
+“Myanmar law enforcement authorities rescued these Sri Lankans on 4 April 2024, following the request by the Government of Sri Lanka,” the Ministry of Foreign Affairs said in a statement.
+
+“The Sri Lanka Embassy officials in Bangkok received them on 11 April 2024 at the Mae Sot border gate in Thailand, and subsequently they were brought to Bangkok and provided accommodation until their repatriation was arranged with the assistance of the International Organization for Migration.”
+
+The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans.
+
+...
+
+[Data](articles/8a20db28.json)
 
 ---
 
@@ -2285,47 +2321,5 @@ The order has been issued on a complaint made by former President Chandrika Band
 [Data](articles/c792b90f.json)
 
 [Extended Data](ext_articles/c792b90f.ext.json)
-
----
-
-### Pay a 2 -minute silent tribute on Sunday
-
-*2024-04-18 12:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிறன்று-2-நிமிட-மௌன-அஞ்சலி-செலுத்தவும்/175-336073) · `ta`
-
-Archbishop of Colombo Malcolm Cardinal Ranjith requests a 2-minute silent tribute on Sunday, 8.45 am, to honor the five-year terrorist attack. A religious procession from Kochchikadai Church to Duwapitiya church is planned.
-
-🟩
-
-“Archbishop of Colombo Malcolm Cardinal Ranjith asked everyone to pay a two -minute silent tribute at 8.45 am on Sunday (21) to commemorate the five -year terrorist attack.
-
-It is reported that a religious procession will be held from the Kochchikadai Church in Colombo from the 20th to the 21st of this month.
-
-He said that he was planning to reach the Duwapitiya church at 8.30 am after praying for the St. Sebastiyar Church of Katuvapitiya.
-
-◼️
-
-[Data](articles/453fc918.json)
-
-[Extended Data](ext_articles/453fc918.ext.json)
-
----
-
-### Retired Army Major arrested for swindling money promising jobs with Russian army
-
-*2024-04-18 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98700/retired-army-major-arrested-for-swindling-money-promising-jobs-with-russian-army) · `en`
-
-The Criminal Investigations Department (CID) has arrested a retired Major of the Sri Lanka Army and another person for fraudulently obtaining money from individuals on the promise of sending them for employment in the Russian army, police said.
-
-However, on April 01, the Ministry of Defence announced that all members of Sri Lankan tri-forces have been informed not to join Russian or Ukrainian forces by any illegal means.
-
-The Ministry of Defense also mentioned that against a background where there is no agreement between the Sri Lankan army and the Russian army to send Sri Lankan military members to serve in Russia, such incidents will damage the reputation of the country.
-
-Meanwhile in December 2023, it was reported that three Sri Lankan mercenaries were killed in Russian attack while serving in Ukrainian military.
-
-...
-
-[Data](articles/9fdea2ab.json)
-
-[Extended Data](ext_articles/9fdea2ab.ext.json)
 
 ---

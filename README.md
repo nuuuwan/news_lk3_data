@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 14:03:50**
+As of **2024-04-18 14:18:23**
 
 ## Newspaper Stats
 
-*Scraped **19,548** Articles*
+*Scraped **19,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
-adalk | 1,628
+adalk | 1,629
 tamilmirrorlk | 2,280
 adaderanalk | 2,345
 virakesarilk | 2,915
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,546 (100.0%) of 19,548 articles have been extended.
+19,548 (100.0%) of 19,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### කැනඩාවේ සිදුවු විශාලතම රන් කොල්ලය
+### The biggest gold loot in Canada
 
 *2024-04-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195757) · `si`
 
-කැනඩාවේ සිදුවූ විශාලතම රන් කොල්ලය සම්බන්ධයෙන් සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Six suspects arrested for Canada's largest gold looting, including two staff members. Stolen from Pearson International Airport in Toronto in April 2023, totaling 400 kg of gold and foreign currency.
 
-මෙලෙස අත්අඩංගුවට ගත් පිරිස අතරට එයාර් කැනඩා ගුවන් සේවාවේ කාර්ය මණ්ඩල සාමාජිකයින් දෙදෙනෙක් ද අයත්ය.
+🟩
 
-2023 වසරේ අප්‍රේල් මාසයේදී ඔවුන් සොරකම් කර තිබුණේ එරට ටොරොන්ටෝ හි පියර්සන් ජාත්‍යන්තර ගුවන් තොටුපොළ වෙත පැමිණ විශේෂ භාණ්ඩ තොගයක්.
+Six suspects have been arrested in connection with the largest gold looting in Canada.
 
-ඒ අතරට සම්පූර්ණ බර කිලෝ 400ක් වන රන් කුට්ටි 6,600ක් සහ විදෙස් මුදල් තොගයක් අයත්ය.
+Among them were two staff members of the arrested group.
+
+In April 2023, they had stolen to Pearson International Airport in Toronto, Toronto, toronto, toronto.
+
+At the same time, the total weight of 400 kg includes 6,600 kg of gold and foreign currency.
 
 ◼️
 
 [Data](articles/e304f1dc.json)
+
+[Extended Data](ext_articles/e304f1dc.ext.json)
 
 ---
 
@@ -233,6 +239,8 @@ A Moringa tree was planted this morning to mark the tree planting ritual for the
 ◼️
 
 [Data](articles/772435e7.json)
+
+[Extended Data](ext_articles/772435e7.ext.json)
 
 ---
 
@@ -819,6 +827,22 @@ The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to
 [Data](articles/a0585650.json)
 
 [Extended Data](ext_articles/a0585650.ext.json)
+
+---
+
+### දියමත අවුරුදු උළෙලක්
+
+*2024-04-18 10:54:58* · [`adalk`](https://www.ada.lk/breaking_news/දියමත-අවුරුදු-උළෙලක්/11-409142) · `si`
+
+මාතලේ කොට්ඨාශ දඹුල්ල පොලිස් ජීවිතාරක්ෂක ඒකකයේ සේවයේ නියුතු වූවන්ගේ  දරුවන් දෙමාපියන්  එක්ව සංවිධානය කල දිය මත අවුරුදු උළෙලක් දඹුල්ල ඉබ්බන්කටුව ජලාශයේදී 17 දින දවස පුරා  පැවැත්විණි
+
+දඹුල්ල මුලස්ථාන පොලිස්  පරීක්ෂක සහ මාතලේ දිස්ත්‍රික්  ජීවිතාරක්ෂක උපදේශක මහත් වරුන්ගේ   ප්‍රධානත්වයෙන් මෙම උළෙල දවස පුරාවට පැවැත්වු අතර  මෙහි  ක්‍රීඩා  සියල්ල ජලයේ පැවැත්විණි
+
+පිහිණුම් තරග, කොට්ටාපොර ගැසීම, ජලයේ සිට කනාමුට්ටි බිදීම, ඔරු පැදීම වැනි ක්‍රීඩා  අංග රාශියක් විය.
+
+◼️
+
+[Data](articles/91bf9876.json)
 
 ---
 
@@ -2201,25 +2225,5 @@ Maithripala Sirisena opposes the Independent Party joining the party, highlighti
 [Data](articles/e368c3a3.json)
 
 [Extended Data](ext_articles/e368c3a3.ext.json)
-
----
-
-### Chamari Athapaththu’s record 195* levels ODI series against SA-W
-
-*2024-04-18 00:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamari-Athapaththus-record-195-levels-ODI-series-against-SA-W/108-280880) · `en`
-
-Sri Lanka women's captain Chamari Athapaththu made history by registering the 3rd highest individual women's ODI score of 195* off 139 balls. Her stellar performance led Sri Lanka women's team to victory against South Africa Women, in the 3rd ODI leveling the 3-match ODI series 1-1.
-
-In the first innings, South Africa Women scored 301/5 in 50.0 overs, with Laura Wolvaardt scoring 184 (147) and Marizanne Kapp contributing 36 (34). Sri Lanka's Kavisha Dilhari took 2 wickets for 47 runs, while Athapaththu took 1 wicket for 59 runs.
-
-In response, Sri Lanka Women chased down the target, scoring 305/4 in 44.3 overs. Athapaththu's phenomenal innings of 195* was complemented by Nilakshi de Silva's 50 (71). Ayabonga Khaka took 2 wickets for 54 runs for South Africa, and Nadine de Klerk took 1 wicket for 59 runs.
-
-Athapaththu's 195 is also the highest individual women's ODI score for Sri Lanka.
-
-◼️
-
-[Data](articles/9204f2b7.json)
-
-[Extended Data](ext_articles/9204f2b7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 15:52:44**
+As of **2024-04-18 16:05:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,560 (100.0%) of 19,561 articles have been extended.
+19,561 (100.0%) of 19,561 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -444,19 +444,29 @@ The International Monetary Fund says it is ready to help Sri Lanka for discussio
 
 ---
 
-### ගෝඨාගේ රේන්ජ් රෝවර් රථය පියුමි හංසමාලි ගැනීම ගැන පරීක්ෂණයක් ඉල්ලයි
+### Gota's Range Rover demands inspection of Piyumi Hansale
 
 *2024-04-18 13:00:52* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-රේන්ජ්-රෝවර්-රථය-පියුමි-හංසමාලි-ගැනීම-ගැන-පරීක්ෂණයක්-ඉල්ලයි/11-409145) · `si`
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා භාවිත කළ රුපියල් කෝටි දහයක් පමණ වටිනා රේන්ජ් රෝවර්  රථය ප්‍රකට නිරූපිකාවක වන පියුමි හංසමාලි ලබා ගැනීම සැක සහිත බවත් ඇයගේ සියලු වත්කම් ගැන විමර්ශනයක් කරන ලෙසත් ඉල්ලා ඊයේ (17) මගේ රටට සංවිධානයේ සභාපති සංජය මහවත්ත  නීති විරෝධී වත්කම් ඒකකයට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+Piyumi Hansale, linked to Gotabhaya Rajapakse, faces an investigation for allegedly receiving a Range Rover worth Rs. 10 crores. Sanjaya Mahawatta lodged a complaint with the illegal assets unit, questioning the source of the vehicle.
 
-මෙම පැමිණිල්ල ඉදිරිපත් කරමින් ඔහු පවසා සිටින්නේ රංගන ක්ෂේත්‍රයේ සැලකිය යුතු රගපෑමක් නොකරන   රූපලාවන්‍ය  ක්‍රීම් වර්ග පමණක් අලෙවි කරන පියුමි හංස මාලි වැනි කාන්තාවක හිටපු ජනාධිපතිවරයා භාවිත කළ  කෝටි දහයක් පමණ  වටිනා ජීප් රථයක් ඇය සතු කර ගැනීම ගැටලු සහගත බවයි.
+🟩
 
-මේ පිළිබඳව ඉක්මනින් විමර්ශනයක් කොට සත්‍ය රටට හෙළි කර ගැනීමට අවස්ථාව ලබා දෙන්නයි සංජය මහවත්ත  නීති විරෝධී වත්කම්  ඒකකයට කළ මෙම පැමිණිල්ලෙන් ඉල්ලා සිටියි.
+Former President Gotabhaya Rajapakse was suspected of a well-known radiation Piyumi Hansale, the Chairman of the Organization Sanjaya lodged a complaint with my country's illegal assets.
+
+He presented the complaint that she acquires a jeep worth Rs.
+
+The complaint has been lodged with the lawsuit of the illegal asseting of Mahawatta to the Sanjaya Mahawatta.
+
+"We have lodged a complaint with Piyumi Hansamali's assets.. Piyumi Hansalmali Gotabhaya Rajapaksa has given this vehicle. Or Gotabhaya Rajapaksa Piyumi Piyumi has given this vehicle. One of these two has taken place inversely.
+
+And Piyumi Hanamali has a sole apartment. She lives as a supercountain. Then we doubt the black money of these politicians.. That is why we lodged a complaint with the illegal asseting unit to conduct a special investigation against Ladam Hansalami.
 
 ...
 
 [Data](articles/6cd4ea57.json)
+
+[Extended Data](ext_articles/6cd4ea57.ext.json)
 
 ---
 
@@ -852,7 +862,7 @@ The eight Sri Lankans, including 2 females who were rescued from the cyber scamm
 
 Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and sent to the Myawaddy central police station, following which they safely arrived at the Embassy of Sri Lanka in Thailand on April 11.
 
-In December 2023, media reports shed light on the plight of a group of nearly 60 Sri Lankans, who were lured with tourist visas behind the false front of lucrative IT sector job offers and are being held captive in Myanmar by a notorious ethnic armed group.
+The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans. The Sri Lankan Embassy in Myanmar, through the Eden Foundation, a charity organization based in Myanmar, provided them with food and other necessities during their temporary stay at the Myawaddy Police Station following the rescue from traffickers.
 
 ...
 

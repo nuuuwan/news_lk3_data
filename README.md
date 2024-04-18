@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 12:04:21**
+As of **2024-04-18 12:18:15**
 
 ## Newspaper Stats
 
-*Scraped **19,520** Articles*
+*Scraped **19,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
-economynextcom | 1,102
+economynextcom | 1,108
 adalk | 1,625
-tamilmirrorlk | 2,278
-adaderanalk | 2,339
+tamilmirrorlk | 2,279
+adaderanalk | 2,342
 virakesarilk | 2,909
 dailymirrorlk | 3,015
 adaderanasinhalalk | 3,179
@@ -26,67 +26,153 @@ adaderanasinhalalk | 3,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,506 (99.9%) of 19,520 articles have been extended.
+19,520 (99.9%) of 19,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### 14 வாரங்களில் 7 இலட்சம் சுற்றுலாப் பயணிகள் இலங்கை வருகை
+### ஞாயிறன்று 2 நிமிட மௌன அஞ்சலி செலுத்தவும்
+
+*2024-04-18 12:02:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞாயிறன்று-2-நிமிட-மௌன-அஞ்சலி-செலுத்தவும்/175-336073) · `ta`
+
+'உயிர்த்த ஞாயிறு பயங்கரவாதத் தாக்குதலின் ஐந்தாண்டுகளை நினைவுகூரும் வகையில் எதிர்வரும் ஞாயிற்றுக்கிழமை (21) காலை 8.45 மணியளவில் இரண்டு நிமிட மௌன அஞ்சலி செலுத்துமாறு அனைவரையும் கொழும்பு பேராயர் மல்கம் கர்தினால் ரஞ்சித் கேட்டுக் கொண்டார்.
+
+இத்தாக்குதல் தொடர்பில் கவனத்தை ஈர்க்கும் வகையில் எதிர்வரும் ஞாயிற்றுக்கிழமை (21) ஆன்மிக தரப்பினரின் கவனத்தை ஈர்ப்பதாகவும், அதன்படி 20 ஆம் திகதி பிற்பகல் முதல் 21 ஆம் திகதி காலை வரை கொழும்பு கொச்சிக்கடை தேவாலயத்தில் இருந்து சமய ஊர்வலம் இடம்பெறவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+கட்டுவாப்பிட்டி புனித செபஸ்தியார் தேவாலயத்திற்கு, இரவு முழுவதும் பிரார்த்தனை செய்துவிட்டு, காலை 8.30 மணியளவில் துவாபிட்டிய தேவாலயத்தை சென்றடைய திட்டமிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/453fc918.json)
+
+---
+
+### Retired Army Major arrested for swindling money promising jobs with Russian army
+
+*2024-04-18 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98700/retired-army-major-arrested-for-swindling-money-promising-jobs-with-russian-army) · `en`
+
+The Criminal Investigations Department (CID) has arrested a retired Major of the Sri Lanka Army and another person for fraudulently obtaining money from individuals on the promise of sending them for employment in the Russian army, police said.
+
+However, on April 01, the Ministry of Defence announced that all members of Sri Lankan tri-forces have been informed not to join Russian or Ukrainian forces by any illegal means.
+
+The Ministry of Defense also mentioned that against a background where there is no agreement between the Sri Lankan army and the Russian army to send Sri Lankan military members to serve in Russia, such incidents will damage the reputation of the country.
+
+Meanwhile in December 2023, it was reported that three Sri Lankan mercenaries were killed in Russian attack while serving in Ukrainian military.
+
+...
+
+[Data](articles/9fdea2ab.json)
+
+---
+
+### Sri Lanka firms expected to start gender equality panels in planned law
+
+*2024-04-18 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-firms-expected-to-start-gender-equality-panels-in-planned-law-159033/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state agencies and private companies will be required to set up a gender equality panel, headed by a senior executive according to a draft law published in the government gazette
+
+The panel called a Gender Focal Point should be headed by an Additional Secretary or a deputy to the head of the institution or higher, the bill says.
+
+The Gender Equality Council staffed by the Inspector General of Police or his representative and secretaries to the ministers of justice, education, youth affairs and women will also be created
+
+The Gender Focal Point would have to prepare a plan of activities on gender-equality and report directly to the council, while being responsible for promoting gender balance in decision making processes and implementing programs based on gender equality.
+
+...
+
+[Data](articles/a667a6e5.json)
+
+---
+
+### Sri Lanka’s Piyumi Wijesekara among NASA’s new crew for next simulated Mars journey
+
+*2024-04-18 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98699/sri-lankas-piyumi-wijesekara-among-nasas-new-crew-for-next-simulated-mars-journey) · `en`
+
+NASA has selected a new crew of four volunteers to participate in a simulated mission to Mars within a habitat at the agency’s Johnson Space Center in Houston.
+
+Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will step into the agency’s Human Exploration Research Analog, or HERA, on Friday, May 10. Once inside, the team will live and work like astronauts for 45 days. The crew will exit the facility on June 24 after they “return” to Earth. Jose Baca and Brandon Kent are this mission’s alternate crew members.
+
+...
+
+[Data](articles/71fdcfd5.json)
+
+---
+
+### 7 lakh tourists visit Sri Lanka in 14 weeks
 
 *2024-04-18 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181346) · `ta`
 
-7 இலட்சம் சுற்றுலா பயணிகள் வருகை என்ற மைல்கல்லை இலங்கை 14  வாரங்களில் கடந்துள்ளது.
+Sri Lanka reached 7 lakh tourists in 14 weeks, with a steady growth rate. The country aims to hit 168,539-182,724 tourists in April, potentially surpassing last year's total of 105,498.
 
-ஜனவரி மாதம் முதலாம் திகதி முதல் ஏப்ரல் மாதம் 15 ஆம் திகதி வரையான காலப்பகுதிக்குள் மொத்தம்  718,315 சுற்றுலா பயணிகள் நாட்டிற்கு வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின்  தரவுகள் சுட்டிக்காட்டுகின்றன.
+🟩
 
-ஏப்ரல் மாதத்தின் முதல் 15 நாட்களில் 82,531 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர். இது நாட்டுக்கு வரும் சுற்றுலா பயணிகளின் வளர்ச்சி வேகம் சீராக இருப்பதை காட்டுகிறது.
+Sri Lanka has crossed the milestone of 7 lakh tourists in 14 weeks.
 
-ஒரு வருடத்திற்கு முன்பு நாளாந்த சுற்றுலா பயணிகளின் வருகை 3000 ஆக குறைந்து இருந்த நிலையில், தற்போது ஏப்ரல் மாத்தில் 5,502 ஆக அதிகரித்துள்ளது.
+According to data from the Sri Lanka Tourism Development Authority, a total of 718,315 tourists visited the country from January 1 to April 15.
 
-ஏப்ரல் மாதத்தில் 168,539 ற்கும் 182,724 ற்கும் இடையில் சுற்றுலாப் பயணிகள் வருகையை இலங்கை இலக்காகக் கொண்டுள்ளது.
+82,531 tourists visited in the first 15 days of April. It shows that the growth speed of tourists coming to the country is steady.
 
-இந்த இலக்கை அடைய நாளாந்தம் சராசரியாக 5,617 முதல் 6,090 வரை சுற்றுலாப் பயணிகள் வருகை தரவேண்டும்.
+The arrival of daily tourists a year ago declined to 3000, and now increased to 5,502 in April.
 
-தற்போதைய வருகையின் வேகம் இலங்கை மாதத்திற்கான வருகை இலக்கின் கீழ் எல்லையை எட்டக்கூடும் என்பதைக் காட்டுகிறது.
+Sri Lanka targets tourists between 168,539 and 182,724 in April.
+
+To achieve this goal, the average number of tourists should visit the average number of 5,617 to 6,090 per day.
+
+The speed of the present arrival shows that the arrival of the month of Sri Lanka may reach the border under the target.
+
+The country will surpass the arrival of 105,498 tourists registered in April last year if the arrival of tourists increases.
+
+In 2018, the arrival of tourists needs an advanced speed to reach the country.
 
 ...
 
 [Data](articles/8ddb7173.json)
 
+[Extended Data](ext_articles/8ddb7173.ext.json)
+
 ---
 
-### සේවයට වාර්තා නොකළ හමුදා සාමාජිකයින්ට පොදු සමා කාලයක්
+### Common periods of military personnel who have not reported to work
 
 *2024-04-18 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195754) · `si`
 
-නිවාඩු නොගෙන සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයින් හට නීත්‍යානුකූලව යුද හමුදා සේවයෙන් ඉවත් වීමට පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබේ.
+Army personnel have been legally announced to leave the Army to leave the Army.
 
 ◼️
 
 [Data](articles/03963c01.json)
 
+[Extended Data](ext_articles/03963c01.ext.json)
+
 ---
 
-### අපේ පියුමිට ලැබුණු සුවිශේෂී අවස්ථාව
+### Exceptional time our Piyindi received
 
 *2024-04-18 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195753) · `si`
 
-අඟහරු ග්‍රහයාගේ ගවේෂණ කටයුතු සඳහා සිදුකරන පර්යේෂණයකට ශ්‍රී ලාංකික විද්‍යාඥවරියක් ද තේරී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Sri Lankan scientist Piyumi Wijesekara selected for Mars exploration. Joining NASA's "Human Exploration Research AALOG" on May 10, training at the Johnson Space Center in Houston.
 
-නාසා ආයතනය මගින් හූස්ටන් හි පිහිටි ජොන්සන් අභ්‍යවකාශ මධ්‍යස්ථානයේ ඉදිකර ඇති අඟහරු ග්‍රහයාගේ පාරිසරික ලක්ෂණ සහිත වාසස්ථානයක අදාළ මෙහෙයුම සිදුකෙරෙයි.
+🟩
 
-ඔවුන් වන්නේ ජේසන් ලී, ස්ටෙෆනි නවර්රෝ, ෂරීෆ් අල් රෝමයිති සහ පියුමි විජේසේකර නම් ශ්‍රී ලාංකික විද්‍යාඥවරියකි.
+According to foreign media reports, a Sri Lankan scientist has also been selected for exploration of Mars.
 
-ඔවුන් නාසා ආයතනයේ "Human Exploration Research Analog" ලෙස නම්කර ඇති මෙහෙයුම් කලාපයට මැයි 10 වනදා ඇතුළු වීමට නියමිතය. එතැන් සිට දින 45ක කාලයක් ඔවුන් ගගනගාමීන් ලෙස කටයුතු කරන බව නාසා ආයතනය නිවේදනය කළේය.
+The operation of the environmental features of the Environmental characteristics of the Johnson Space Center in Houson is built at Huston's Johnston.
 
-නාසා ආයතනය මගින් සඳ, අඟහරු සහ අනෙකුත් අභ්‍යවකාශ කලාප වෙත ගගනගාමීන් යැවීමට පෙර ඔවුන් ට අවශ්‍ය පෙර පුහුණුව ලබාදීමට ජොන්සන් අභ්‍යවකාශ මධ්‍යස්ථානයේ ඉදිකර ඇති මෙම මෙහෙයුම් කලාපය භාවිත කරයි.
+They are Jason Lee, Stephanie Navarro, Sharif al-Romasekara and Piyumi Wijesekara.
 
-එමගින් ගගනගාමීන් ගේ කටයුතු සම්බන්ධයෙන් අවශ්‍ය දැනුම ලබාගැනීමට විද්‍යාඥයින්ට ද අවස්ථාව ලැබෙයි.
+They will enter NASA's "Human Exportation Research AALOG" in NASA's' Human Exploration "on May 10. NASA announced that they were as astronaut for 45 days.
 
-...
+The Joneson Space Station has been built to provide training to the Moon, Mars, Mars and other space zones before sending astronauts.
+
+Scientists also have the opportunity to acquire the necessary knowledge of the affairs of astronauts.
+
+Piyumi Wijesekara, who is selected for the team, is a research scientist at the Radiation Bio Physical Laboratory of California.
+
+◼️
 
 [Data](articles/f140dbf5.json)
+
+[Extended Data](ext_articles/f140dbf5.ext.json)
 
 ---
 
@@ -102,61 +188,105 @@ The NASA said Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wije
 
 [Data](articles/541dadb4.json)
 
+[Extended Data](ext_articles/541dadb4.ext.json)
+
 ---
 
-### தேர்தல்களை பிற்போடுவதை கடுமையாக எதிர்ப்போம் - சிறிதளவும் சகித்துக்கொள்ள மாட்டோம் - இலங்கை சட்டத்தரணிகள் சங்கம்
+### We strongly oppose elections - we will not tolerate a little
 
 *2024-04-18 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181360) · `ta`
 
-நாடாளுமன்ற ஜனாதிபதி தேர்தல்களை பிற்போடுவதற்கான முயற்சிகள் இடம்பெற்றால் அதனை சிறிதளவும் சகித்துக்கொள்ளப்போவதில்லை அதனை எதிர்க்கவும் தயங்கப்போவதில்லை  என இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association opposes regulating parliamentary presidential elections, arguing against postponement due to its impact on public confidence. President Kausalya Navaratne of the Sri Lanka Lawyers Association emphasizes the absence of constitutional provisions for holding a presidential election before November, suggesting it could occur if the parliamentary term ends and the parliament is dissolved beforehand, without any post-election regulations.
 
-தேர்தல்களை பிற்போடுவது சர்வஜனவாக்குரிமை குறித்த மக்களின் நம்பிக்கைக்கு பாதிப்பை ஏற்படுத்தும் எனகுறிப்பிட்டுள்ள இலங்கை சட்டத்தரணிகள் சங்கத்தின் தலைவர் கௌசல்ய நவரட்ண மக்களின் வாக்குரிமைக்கு சவால் விடுக்கின்ற விடயமாகவும் இது மாறும் என தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி தேர்தல் நாடாளுமன்ற தேர்தல்களில் எது முதலில் இடம்பெறவேண்டும் என தெரிவிக்கும் அரசமைப்பு ஏற்பாடுகள் எதுவும் இல்லை என குறிப்பிட்டுள்ள அவர் அரசமைப்பில் குறிப்பிடப்பட்டுள்;ள காலத்திற்குள் இந்த தேர்தல்கள் இடம்பெறவேண்டும் என்றே சட்டம் தெரிவிக்கின்றது எனவும் குறிப்பிட்டுள்ளார்.
+The Sri Lanka Bar Association has said that if efforts are made to regulate the parliamentary presidential elections, they will not tolerate it.
 
-மக்களால் தெரிவு செய்யப்பட்ட ஜனாதிபதிக்கு பதில் தற்போதைய ஜனாதிபதி ஆட்சிபுரிகின்றார் என்றாலும் தற்போதைய ஜனாதிபதியின் பதவி காலம் இந்த நவம்பருடன் முடிவிற்கு வருகின்றது என தெரிவித்துள்ள கௌசல்ய நவரட்ண நவம்பருக்கு முன்னர் ஜனாதிபதி தேர்தல் இடம்பெறவேண்டும் எனவும்குறிப்பிட்டுள்ளார்.
+The President of the Sri Lanka Lawyers Association, Kausalya Navaratne, who has stated that the postponement of elections will affect the people's confidence. "
 
-...
+He stated that there are no constitutional arrangements that would first be held in the presidential election.
+
+Kausalya Navaratne has said that the present president's tenure is due to end this November, but the presidential election should be held before November.
+
+He said that the presidential election could be held before the presidential election, if the parliamentary lifetime is over and the parliament can be dissolved before.
+
+There are no arrangements for the post -election regulation.
+
+◼️
 
 [Data](articles/adb31c74.json)
 
+[Extended Data](ext_articles/adb31c74.ext.json)
+
 ---
 
-### இராணுவ வீரர்களுக்கு பொதுமன்னிப்பு காலம்
+### Eight Sri Lankans rescued from Myanmar cyber slave camps repatriated
+
+*2024-04-18 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98698/eight-sri-lankans-rescued-from-myanmar-cyber-slave-camps-repatriated) · `en`
+
+The eight Sri Lankans, including 2 females who were rescued from the cyber scamming camps in Myawaddy area of Myanmar have arrived in Sri Lanka this morning after being repatriated with the help of the International Organisation for Migration (IOM) and the Ministry of Foreign Affairs.
+
+Out of the 56 Sri Lankans who were trapped in cybercrime camps in Myawaddy, eight were rescued by the Myanmar government authorities in early March and sent to the Myawaddy central police station, following which they safely arrived at the Embassy of Sri Lanka in Thailand on April 11.
+
+In December 2023, media reports shed light on the plight of a group of nearly 60 Sri Lankans, who were lured with tourist visas behind the false front of lucrative IT sector job offers and are being held captive in Myanmar by a notorious ethnic armed group.
+
+...
+
+[Data](articles/a6a74919.json)
+
+---
+
+### Amnesty period for soldiers
 
 *2024-04-18 11:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-வீரர்களுக்கு-பொதுமன்னிப்பு-காலம்/175-336072) · `ta`
 
-முறையான விடுமுறையின்றி சேவையில் இருந்து விலகியிருந்த இராணுவ வீரர்களுக்கு சட்டரீதியான முறையில் இராணுவ சேவையை விட்டு வெளியேறுவதற்கான பொது மன்னிப்பு காலம் பிரகடனம் செய்யப்பட்டுள்ளது.
+An amnesty period for soldiers, from April 20 to May 20, allows those who left military service without proper holidays to legally exit. They must submit their Army ID card and a copy of their last salary to their brigade headquarters within 72 hours. This initiative aims to legally exit service without illegal proceedings.
 
-முறையான விடுமுறையின்றி கடமைக்கு சமூகமளிக்காத மற்றும் சட்டவிரோதமான முறையில் சேவையை விட்டு வெளியேறியுள்ள இராணுவத்தினருக்கு ஏப்ரல் மாதம் 20 ஆம் திகதி முதல் மே மாதம் 20 ஆம் திகதி வரை பொது மன்னிப்பு காலமாக அறிவிக்கப்பட்டுள்ளது.
+🟩
 
-பொது மன்னிப்புக் காலத்தின் போது, தமது படையணி தலைமையகத்துடன் தொடர்பு கொண்டு சட்டரீதியாக சேவையை விட்டு வெளியேற இவர்களுக்கு வாய்ப்பு வழங்கப்பட்டுள்ளதாக இராணுவ தலைமையகம் தெரிவித்துள்ளது.
+The amnesty period has been declared for legal leaving military service to soldiers who have left the service without proper holidays.
 
-2024 ஏப்ரல் 02 ஆம் திகதிக்கு முன்னதாக முறையான விடுமுறையின்றி பணிக்கு சமூகமளிக்காத அதிகாரிகள் மற்றும் சிப்பாய்கள் பின்வரும் ஆவணங்களுடன் தத்தமது படையணி தலைமையகத்துக்கு மட்டும் சமூகளிக்க வேண்டும்.
+Public amnesty has been announced from April 20 to May 20 for the military who has not been able to perform a proper vacation and illegally out of service.
 
-அதனை தொடர்ந்து அவர்கள் இராணுவ சேவையில் இருந்து வெளியேறும் அடிப்படை அனுமதி வழங்கல் நடவடிக்கைகள் 72 மணித்தியலங்களுக்குள் மேற்கொள்ள நடவடிக்கை  எடுக்கப்பட்டுள்ளது.
+During the public apology, the military headquarters said they were given the opportunity to leave their legal service and leave their legal service.
+
+Officers and soldiers who do not have a proper vacation before April 2, 2024, should be submitted to their brigade headquarters with the following documents.
+
+Following this, steps have been taken to carry out the basic permit processing of the military service within 72 hours.
+
+Army ID card (a copy of the recent police report if the military identity card is lost).
+
+Copy of the last received salary and payments (if only).
 
 ...
 
 [Data](articles/db0a334c.json)
 
+[Extended Data](ext_articles/db0a334c.ext.json)
+
 ---
 
-### கடலில் குழந்தை பிரசவித்த நயினாதீவு பெண்
+### Nainadivu woman who delivered baby in the sea
 
 *2024-04-18 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181359) · `ta`
 
-நயினாதீவைச் சேர்ந்த பெண்ணொருவருக்கு நேற்று புதன்கிழமை திடீரென பிரசவ வலி ஏற்பட்டதை அடுத்து , நயினாதீவு பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A woman from Nainadivu gave birth in the sea, was transferred to Jaffna Bodhana Hospital, and during the journey, the baby's condition worsened.
 
-அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றுமாறு வைத்தியர் பரிந்துரைத்தார். அதனையடுத்து போதனா வைத்தியசாலைக்கு கொண்டு செல்வதற்கு, அம்புலன்ஸ் படகு தற்போது சேவையில் ஈடுபடாததால், பொதுமக்கள் போக்குவரத்து படகில் ஏற்றி குறிகாட்டுவான் நோக்கி அழைத்து வந்துள்ளனர்.
+🟩
 
-இந்நிலையில் கடலில் படகு பயணித்துக்கொண்டிருந்த வேளை, பிரசவ வலி பெண்ணுக்கு அதிகரித்ததை அடுத்து, படகின் கீழ் தளத்தில் இருந்த ஆண்களை மேல் தளத்திற்கு அனுப்பி வைத்த பின்னர் , படகில் பயணித்த பெண்களே பிரசவம் பார்த்துள்ளனர்.
+A woman from Nainadivu has been admitted to the Nainadivu Divisional Hospital following a sudden childbirth on Wednesday.
 
-படகு குறிகட்டுவான் இறங்கு துறையை வந்தடைந்ததும், அங்கு தயார் நிலையில் நின்ற புங்குடுதீவு வைத்தியசாலையின் நோயாளர் காவு வண்டியில் தாயையும் சேயையும், யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்றனர்.
+From there, the doctor recommended that the Jaffna Bodhana Hospital be transferred for further treatment. Subsequently, the ambulance boat is not currently working to take the teaching hospital and the public has taken the traffic boat to the indicator.
+
+While the boat was traveling in the sea, after the increase in the childbirth, the men who were on the top floor of the boat were sent to the top floor.
+
+When the boat arrived at the landing department, the mother and Chee were taken to the Jaffna Bodhana Hospital in the patient of the Punguduthivu Hospital.
 
 ◼️
 
 [Data](articles/3a241f04.json)
+
+[Extended Data](ext_articles/3a241f04.ext.json)
 
 ---
 
@@ -178,39 +308,51 @@ The eight Sri Lankans who lived from the Mianamadi Cyber Criminal Zone have arri
 
 ---
 
-### என்மீது தாக்குதல் மேற்கொண்டவரை மன்னித்துவிட்டேன் - கத்திக்குத்திற்கு இலக்கான அவுஸ்திரேலிய மதகுரு
+### I have forgiven the attacker - Australian cleric
 
 *2024-04-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181357) · `ta`
 
-சிட்னி தேவாலயத்தில் தன்மீது தாக்குதலை மேற்கொண்ட இளைஞனை மன்னித்துள்ளதாக ஆயர் மரி மார் இமானுவேல் தெரிவித்துள்ளார்.
+Australian cleric Bishop Marry Mari Emanuel forgives the attacker, urges non-retaliation, prays for the attacker, and calls for prayers in response.
 
-இந்த தாக்குதலிற்கு பழிவாங்கும் விதத்தில் செயற்படவேண்டாம் - இயேசுவை போல நடந்துகொள்ளுங்கள் என ஆயர் வேண்டுகோள் விடுத்துள்ளார்.
+🟩
 
-தனது வேகமாக குணமடைந்து வருவதாக தெரிவித்துள்ள அவர்  தன்னை தாக்கியவருக்காக பிரார்த்திப்பதாக தெரிவித்துள்ளார்.
+Bishop Marry Mari Emanuel says he has forgiven the youth who attacked him at the Sydney church.
 
-இந்த நடவடிக்கையில் யார் ஈடுபட்டிருந்தாலும் அவரை நான் மன்னிக்கின்றேன் நீங்கள் எனது மகன் நான் உங்களை  நேசிக்கின்றேன் உங்களுக்காக நான் பிரார்த்திக்கின்றேன் என தெரிவிப்பதாக ஆயர் தனது அறிக்கையில் தெரிவித்துள்ளார்.
+The pastor has requested not to act in retaliation for the attack - act like Jesus.
 
-தனது  ஆதரவாளர்கள் பதில் நடவடிக்கைகளில் ஈடுபடுவதற்கு பதில்  பிரார்த்தனைகளில் ஈடுபடவேண்டும் என அவர்வேண்டுகோள் விடுத்துள்ளார்.
+He said he was recovering fast and prayed for the attacker.
 
-கவலைப்படவேண்டிய கரிசனை கொள்ளவேண்டிய தேவையில்லை கர்த்தர் எங்களிற்கு போரிடவே பதில்நடவடிக்கையில் ஈடுபடவோ கற்றுத்தரவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+Whoever is involved in this action, I forgive him. You are my son and I love you. I pray for you.
+
+He has called for his supporters to engage in prayers in response to action.
+
+He said that the Lord did not teach us to fight for the action to fight for us.
 
 ◼️
 
 [Data](articles/67010f71.json)
 
+[Extended Data](ext_articles/67010f71.ext.json)
+
 ---
 
-### மைத்திரிக்கான தடையுத்தரவு நீடிப்பு
+### Erection
 
 *2024-04-18 11:15:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கான-தடையுத்தரவு-நீடிப்பு/175-336071) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் தடை உத்தரவை கொழும்பு மாவட்ட நீதிமன்றம் வியாழக்கிழமை (18) மேலும் நீட்டித்துள்ளது. இந்த உத்தரவு மே 9ம் தேதி வரை அமலில் இருக்கும்.
+The Colombo District Court extended an order preventing former President Maithripala Sirisena from leading the Sri Lanka Freedom Party (SLFP) until May 9, following a case filed by former President Chandrika Bandaranaike Kumaratunga.
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தாக்கல் செய்த வழக்கை அடுத்து கொழும்பு மாவட்ட நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+🟩
+
+The Colombo District Court on Thursday (18) extended an order to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party (SLFP).. The order will remain in effect until May 9.
+
+The Colombo District Court has issued the order following a case filed by former President Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/89fe5944.json)
+
+[Extended Data](ext_articles/89fe5944.ext.json)
 
 ---
 
@@ -240,57 +382,97 @@ If this is the environmental damage in your area, the police said.
 
 ---
 
-### மர்ம மரணங்கள் தொடர்பில் பொலிஸார் விசாரணை
+### Police investigate mysterious deaths
 
 *2024-04-18 11:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்ம-மரணங்கள்-தொடர்பில்-பொலிஸார்-விசாரணை/175-336070) · `ta`
 
-களுத்துறை, இசுரு உயன பிரதேசத்தில் உள்ள வீடொன்றில் இரண்டு வயோதிபப் பெண்கள் புதன்கிழமை (ஏப்ரல் 17) சந்தேகத்திற்கிடமான முறையில் சடலமாக மீட்கப்பட்டுள்ளனர்.
+Police in Kalutara are investigating the mysterious deaths of two elderly women, aged 65 and 79, found dead in their home. The women had been missing for days, and their disappearance was reported by neighbors. The house was locked, and the police entered through a window. Further investigations are ongoing.
 
-இரண்டு பெண்களும் சில நாட்களாக காணாமல் போனதாகவும் அத்துடன் அவர்களது வீட்டிலிருந்து துர்நாற்றம் வீசியதாலும் அயலவர்கள் பொலிஸாரின் அவசர தொலைபேசி இலக்கத்திற்கு அறிவித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ஜன்னல் வழியாக வீட்டை சோதனை செய்த பொலிஸார், இரண்டு பெண்களும் அவர்களது படுக்கையறையின் தரையில் இறந்து கிடந்ததைக் கண்டனர், அதே நேரத்தில் வீடு பூட்டப்பட்டிருப்பது கண்டுபிடிக்கப்பட்டது.
+Two -year -old women have been found dead on Wednesday (April 17) at a house in the Isuru area of Kalutara.
 
-குறித்த இரண்டு பெண்களும் 65 மற்றும் 79 வயதுடையவர்கள் எனவும் அவர்கள் குறித்த பிரதேசத்தில் வசிப்பவர்கள் என அடையாளம் காணப்பட்டுள்ளனர்.
+Police said the neighbors had informed the emergency telephone number of the police as the two women had disappeared for a few days and were stench from their home.
 
-மரணம் தொடர்பான நீதவான் விசாரணைகள் இன்று இடம்பெறவுள்ளதுடன், களுத்துறை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Police raided the house through the window and found two women lying dead on the ground of their bedroom, while the house was locked.
+
+The two women are aged 65 and 79 and are identified as residents of the area.
+
+Magistrate's inquiries on the death are due to be held today and the Kalutara police are conducting further investigations.
 
 ◼️
 
 [Data](articles/64885fce.json)
 
+[Extended Data](ext_articles/64885fce.ext.json)
+
 ---
 
-### இந்தோனேசியாவில் வெடித்து சிதறும் எரிமலை ; சுனாமி எச்சரிக்கை ; மக்கள் வெளியேற்றம்
+### Volcano erupting in Indonesia;Tsunami warning;Excretion of people
 
 *2024-04-18 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181352) · `ta`
 
-இந்தோனேஷியாவின் சுலாவேசி தீவின் வடக்குப் பகுதியில் மவுண்ட் ருவாங் எரிமலை வெடித்து சிதறியதை அடுத்து, புதன்கிழமை சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Mount Ruwang in Indonesia erupts, triggering a tsunami warning. Evacuation of 11,000 people ordered. Volcano, part of the Pacific Ring of Fire, has erupted five times in 24 hours.
 
-அத்தோடு, பாதிக்கப்பட்ட பகுதியிலிருந்து  குறைந்தது 11,000 க்கும் மேற்பட்ட மக்களை வெளியேறுமாறு உத்தரவிட்டப்பட்டுள்ளது.
+🟩
 
-கடந்த 24 மணி நேரத்தில் இந்த எரிமலை ஐந்து முறை வெடித்து சிதறியுள்ளதாக இந்தோனேசியாவின் எரிமலை மற்றும் புவியியல் பேரிடர்  தணிப்பு மையம் தெரிவித்துள்ளது.
+A tsunami warning has been issued on Wednesday after the Mount Ruwang volcano erupted in the northern part of Indonesia's Sulawesi Island.
 
-எரிமலை குழம்பின் வெளியேற்றம் அதிகரித்துள்ளதை தொடர்ந்து அதிகாரிகள் சிவப்பு அபாய எச்சரிக்கை விடுத்துள்ளனர்.
+In addition, it has been ordered to leave at least 11,000 people from the affected area.
 
-இந்தோனேசியா பசிபிக் நெருப்பு வளையம் என்று அழைக்கப்படும் எரிமலைகள் நிரம்பிய பகுதியில் உள்ளது. இங்கு சிறியதும் பெரியதுமான 120க்கும் மேற்பட்ட எரிமலைகள் உயிர்ப்புடன் உள்ளன.
+Indonesia's volcanic and geographical disaster censorship center said the volcano had exploded five times in the past 24 hours.
 
-2,378 அடி உயரத்திலுள்ள ருவாங் எரிமலை உள்ள பகுதியிலிருந்து குறைந்து 6 கிலோமீட்டர் (3.7 மைல்) தொலைவில் இருக்குமாறு சுற்றுலாப் பயணிகளையும் பொதுமக்களையும் அதிகாரிகள் வலியுறுத்தியுள்ளனர்.
+Officials have issued a red hazardous warning following the rise in the volcanic exit.
 
-...
+Indonesia is in an area of volcano called the Pacific fire ring. There are more than 120 volcanoes that are small and large here.
+
+Officials have urged tourists and the public to decline from the Ruwang volcano, which is 2,378 feet high and is 6 kilometers (3.7 miles).
+
+Officials are worried that a portion of the volcano may fall into the sea, as in 1871, as it exploded.
+
+Indonesia's Anak Krakadav volcano erupted in 2018 and fell into the sea and caused a tsunami on the coast of Sumatra and Java. Also, 430 people were killed.
+
+◼️
 
 [Data](articles/591f5756.json)
 
+[Extended Data](ext_articles/591f5756.ext.json)
+
 ---
 
-### ஹிருணிகாவுக்கு அழைப்பாணை
+### Sri Lanka’s Dialog Axiata and Airtel unit merger given nod
+
+*2024-04-18 10:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-axiata-and-airtel-unit-merger-given-nod-159008/) · `en`
+
+ECONOMYNEXT – Dialog Axiata Group and Bharti Airtel have signed a Definitive Agreement to merge operations in Sri Lanka, Airtel announced in a stock exchange filing on the Bombay Stock Exchange.
+
+“Under this agreement, Dialog will acquire 100% of the issued shares in Airtel Lanka, in consideration of which Dialog will issue to Bharti Airtel, ordinary voting shares which will amount to 10.355% of the total issued shares of Dialog by way of a share swap.
+
+“The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted its approval for the proposed merger, underscoring its vision to advance the adoption of telecommunications services across Sri Lanka.”
+
+The trading of Dilaog Axiata shares on the Colombo Stock Exchange was halted pending further disclosure, Dialog announced in a Colombo Stock Exchange filing. “Please note that the trading of DIAL.N0000 has been halted pending disclosure.”
+
+...
+
+[Data](articles/cd50b814.json)
+
+---
+
+### Invitation to Hirunika
 
 *2024-04-18 10:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-அழைப்பாணை/175-336069) · `ta`
 
-முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திரவை எதிர்வரும் மே மாதம் 08ஆம் திகதி நீதிமன்றில் முன்னிலையாகுமாறு மேன்முறையீட்டு நீதிமன்றம் அழைப்பாணை விடுத்துள்ளது.
+The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to appear on May 8.
+
+🟩
+
+The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to appear before the court on May 8.
 
 ◼️
 
 [Data](articles/a0585650.json)
+
+[Extended Data](ext_articles/a0585650.ext.json)
 
 ---
 
@@ -305,6 +487,22 @@ This handout photograph taken and released by the Center for Volcanology and Geo
 [Data](articles/55149ee4.json)
 
 [Extended Data](ext_articles/55149ee4.ext.json)
+
+---
+
+### Sri Lanka to conclude most SOE sales by August; Srilankan by Sept
+
+*2024-04-18 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-conclude-most-soe-sales-by-august-srilankan-by-sept-159010/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting to conclude all the transactions related to divestiture of State-Owned Enterprises (SOE) by August this year under an ambitious reform process, the government-led State-Owned Enterprises Restructuring Unit (SOERU) said.
+
+However, the divestiture of loss-making Srilankan Airlines is likely to be concluded by September, it said.
+
+The SOERU has already called for bids for Request for Qualification (RfQ) to divest Hotel Developers Lanka Ltd, Canwill Holdings Pvt Ltd, Lanka Hospitals Corporation PLC, Sri Lanka Telecom PLC, Litro Gas, Sri Lanka Insurance Corporation Life Ltd., Sri Lanka Insurance Corporation General Ltd., and Srilankan Airlines.
+
+...
+
+[Data](articles/830f46a8.json)
 
 ---
 
@@ -398,6 +596,26 @@ Earlier in March, former President Maithripala Sirisena had stirred controversy 
 
 ---
 
+### Sri Lanka electricity sector reforms gazetted
+
+*2024-04-18 10:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-sector-reforms-gazetted-159000/) · `en`
+
+ECONOMYNEXT – The proposed electricity sector reforms was published in the Gazette yesterday as the Sri Lanka Electricity Bill, and will be presented to the Parliament in the next sitting week, Power and Energy Minister Kanchana Wijesekera said.
+
+“The Public will have two weeks from the day of presenting the Bill to the Parliament to challenge its legality in the Supreme Court,” Wijesekera said on X (twitter).
+
+Amendments suggested by the stakeholders in January have been drafted in to the revised Bill, the minister said.
+
+Sri Lanka’s Cabinet approved a proposal to restructure the CEB; under the plan the CEB will be split into eight separate companies.
+
+The CEB consists of around 26,000 workers when the enterprise needs only around 50 percent of it, Wijesekera has said earlier. A voluntary retirement plan also will be offered.
+
+...
+
+[Data](articles/3ee07c78.json)
+
+---
+
 ### Indonesia issues tsunami alert after volcano erupts on remote island
 
 *2024-04-18 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indonesia-issues-tsunami-alert-after-volcano-erupts-on-remote-island/108-280887) · `en`
@@ -433,6 +651,8 @@ Agency chief Hendra Gunawan said officials had raised the volcano alert to the h
 ...
 
 [Data](articles/c5000d57.json)
+
+[Extended Data](ext_articles/c5000d57.ext.json)
 
 ---
 
@@ -504,6 +724,28 @@ The District Court issued a complaint filed by former President Chandrika Bandar
 
 ---
 
+### Sri Lanka visa costs for SAARC countries up 167-pct with VFS Global levy?
+
+*2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-costs-for-saarc-countries-up-167-pct-with-vfs-global-levy-158985/) · `en`
+
+ECONOMYNEXT – Tourists from neighboring South Asian countries appear to the hardest hit with a shift of the country’s electronic travel authorization system to IVS Global -VFS Global, a private company.
+
+Sri Lanka only charged 20 dollars from a SAARC visitor up to the shift to VFS Global.
+
+Based on the information disclosed online, SAARC visa fees have risen to 75 dollars with a gazetted fee going up to 35 dollars and 18.5 dollar additional fee charged by VFS Global, the private provider.
+
+Travel industry sources said they had not been consulted on the VFS Global linked cost increases and had taken up the issue with authorities and were awaiting a reply.
+
+Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of regional integration.
+
+In the ASEAN region, citizens of member countries can travel without any visa and all airports in the region have dedicated immigration counters for them.
+
+...
+
+[Data](articles/c71fc2b1.json)
+
+---
+
 ### Tsunami warning to Indonesia
 
 *2024-04-18 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195748) · `si`
@@ -555,6 +797,24 @@ Officials worry that part of the volcano could collapse into the sea and cause a
 [Data](articles/c6962e3a.json)
 
 [Extended Data](ext_articles/c6962e3a.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 301.00/302.05 to the US dollar
+
+*2024-04-18 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-00-302-05-to-the-us-dollar-158986/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.00/302.05 to the US dollar in the spot forex market on Thursday, from 301.00/302.05 on Wednesday, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.32/34 percent from 11.30/35 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
+
+The Colombo Stock exchange opened down; the All Share Price Index was down 0.04 percent at 11,826 and the S&P SL20 was up marginaly up at 3,491. (Colombo/Apr18/2024)
+
+◼️
+
+[Data](articles/dc337b56.json)
 
 ---
 
@@ -1524,6 +1784,8 @@ Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint wit
 
 [Data](articles/d1e5876b.json)
 
+[Extended Data](ext_articles/d1e5876b.ext.json)
+
 ---
 
 ### I will not allow the Independent Party to join the party as far as I am -Maithripala Sirisena
@@ -1929,203 +2191,5 @@ Torrential rains have battered the Strait of Hormuz, Oman and the United Arab Em
 [Data](articles/79fa0947.json)
 
 [Extended Data](ext_articles/79fa0947.ext.json)
-
----
-
-### Iran saves 21 Sri Lankans
-
-*2024-04-17 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195736) · `si`
-
-Iran rescues 21 Sri Lankans from a ship near Oman's coast, sailing under the Cook Islands flag.
-
-🟩
-
-According to Iran, 21 Sri Lankan staff members who were on the sea drowned in the sea near the bench of Oman have rescued.
-
-These reports further states that the ship was on a ship sailing under Cook Island Flag.
-
-◼️
-
-[Data](articles/94675441.json)
-
-[Extended Data](ext_articles/94675441.ext.json)
-
----
-
-### 100 Police personnel trained to target criminal motorbike riders
-
-*2024-04-17 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/100-Police-personnel-trained-to-target-criminal-motorbike-riders/108-280852) · `en`
-
-Colombo, April 17 (Daily Mirror) - In response to alarming shootings by criminals, IGP Deshabandu Tennakoon said that a team of 100 police personnel is undergoing training to go after motorbike riders engaging in criminal activities.
-
-He said this team is being trained at the Police Special Task Force (STF) training camp at Katukurunda.
-
-"The team will be trained to respond to incidents involving gunmen committing crimes on motorcycles and take necessary actions against them," he said.
-
-These trained officers will receive special uniforms, 50 specialized motorcycles and firearms and they will commence anti-underworld duties starting May 1st.
-
-Accordingly, four officers will be assigned to each of the 25 selected police stations in the Western Province where crimes are reported the most.
-
-Meanwhile, the IGP said that the underworld and drug trafficking will be eliminated within the next three months.
-
-...
-
-[Data](articles/3f956869.json)
-
-[Extended Data](ext_articles/3f956869.ext.json)
-
----
-
-### Iran rescues 21 Sri Lankan crewmen from sinking tanker in Gulf of Oman
-
-*2024-04-17 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-rescues-21-Sri-Lankan-crewmen-from-sinking-tanker-in-Gulf-of-Oman/108-280855) · `en`
-
-Oman, April 17 (Reuters) - Iranian authorities said they rescued 21 Sri Lankan crewmen from a Cook Islands-flagged tanker sinking in the Gulf of Oman, the state news agency IRNA reported today, according to Reuters.
-
-The unnamed tanker suffered damage about 30 miles (50 kilometres) off the coast of Jask in Iran due to a storm, the report said.
-
-Five of the crewmen received medical care from Jask emergency services and were in good physical condition, the report added. It did not say when the rescue took place.
-
-◼️
-
-[Data](articles/1157a5b8.json)
-
-[Extended Data](ext_articles/1157a5b8.ext.json)
-
----
-
-### 21 Sri Lankan employees saved on a ship toppling the Oman Gulf
-
-*2024-04-17 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181336) · `ta`
-
-21 Sri Lankan employees rescued from a shipwreck in the Gulf of Oman by Iranian emergency services.
-
-🟩
-
-The Iranian Emergency Services Division has rescued 21 Sri Lankan employees who were found in a severe storm in the Gulf of Oman, state media reported on Wednesday.
-
-The official IRNA news agency said that the ship carrying oil with the flag of the Kook Islands toppled the southern city of Jask, about 50 kilometers (30 miles).
-
-"A rescue ship was sent to the area and 21 employees were rescued," said Mohammed Amin Amani, director of the ports and maritime administration.
-
-◼️
-
-[Data](articles/829c7799.json)
-
-[Extended Data](ext_articles/829c7799.ext.json)
-
----
-
-### A person arrested for visiting a detainee
-
-*2024-04-17 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195735) · `si`
-
-A person visiting a detainee in Colombo Remand Prison was arrested for possessing drugs.
-
-🟩
-
-It is reported that the drug has found drugs in the detest to the suspect to be handed over to the suspect in the Colombo Remand Prison.
-
-A person had come to see a suspect in the remand prison at the Colombo Remand Prison around 1.40 pm today.
-
-The detestposition used to the suspect has been recovered from a dentately, 1 packet or ice drugs that can be suspected to be metico.
-
-The suspect has been arrested by Prison Emergency Response Trick Patrol Officers.
-
-The suspect is a friend friend friend and is a resident of Mattakkuliya.
-
-◼️
-
-[Data](articles/8f143172.json)
-
-[Extended Data](ext_articles/8f143172.ext.json)
-
----
-
-### Seylan Credit Cards partners with British Council to offer 0% instalment plans
-
-*2024-04-17 21:03:00* · [`islandlk`](http://island.lk/seylan-credit-cards-partners-with-british-council-to-offer-0-instalment-plans/) · `en`
-
-Seylan Cards reaffirms its dedication to empowering customers through education by announcing its partnership with the British Council. Seylan Cards has introduced exclusive 0% instalment plans for 12 months, specifically tailored for IELTS and other educational courses provided by the British Council. This initiative aims to facilitate access to quality education for individuals seeking to enhance their skills and opportunities.
-
-This initiative underscores Seylan Bank’s dedication to supporting the aspirations of the youth and facilitating access to quality education, Cardholders can now easily convert their payments into manageable interest free instalments by contacting the call centre at 011 200 888. This offer extends to a maximum conversion of Rs. 1 million and is valid for all courses conducted by the British Council until December 31.
-
-...
-
-[Data](articles/6e142f1e.json)
-
-[Extended Data](ext_articles/6e142f1e.ext.json)
-
----
-
-### Govt.’s visa announcement gives hotel sector shares a boost
-
-*2024-04-17 21:02:00* · [`islandlk`](http://island.lk/govt-s-visa-announcement-gives-hotel-sector-shares-a-boost/) · `en`
-
-The stock market bounced back yesterday as many hotel sector counters performed well and heavy buying interest was noted following the government’s announcement on issuing free visas for 50 countries to enable their bearers to enter Sri Lanka. The target is the tourism sector, stock market analysts said.
-
-Yesterday the stock market kicked off on a negative sentiment but later bounced back after suffering its highest daily loss as investors reacted negatively to the deadlock in external debt restructuring talks, while an element of profit- taking was evident too on the previous day, market analysts added.
-
-...
-
-[Data](articles/cef8c197.json)
-
-[Extended Data](ext_articles/cef8c197.ext.json)
-
----
-
-### Sri Lanka poised for bondholder deal by mid-May, Standard Chartered says
-
-*2024-04-17 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98690/sri-lanka-poised-for-bondholder-deal-by-mid-may-standard-chartered-says) · `en`
-
-Sri Lanka may reach a deal with investors to restructure its USD 12 billion in defaulted global bonds by mid-May, strategists at Standard Chartered were quoted as saying by Bloomberg.
-
-◼️
-
-[Data](articles/91319470.json)
-
-[Extended Data](ext_articles/91319470.ext.json)
-
----
-
-### Sri Lanka poised for bondholder deal by mid-May, StanChart says
-
-*2024-04-17 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98690/sri-lanka-poised-for-bondholder-deal-by-mid-may-stanchart-says) · `en`
-
-Sri Lanka may reach a deal with investors to restructure its $12 billion in defaulted global bonds by mid-May, according to strategists at Standard Chartered.
-
-The South Asian nation has been hoping to reach a deal in the next few weeks, though the first round of direct talks with dollar bondholders failed to yield a breakthrough. The remaining disagreements relate to the structure of “macro-linked” bonds, an instrument proposed by bondholders, whose payout would vary depending on the nation’s economic performance.
-
-“We think timelines are critical and expect an agreement by mid-May,” strategists including Shankar Narayanaswamy wrote in a note.
-
-Further delays would take the talks too close to the planned presidential elections, Standard Chartered said.
-
-The nation’s dollar bonds were among top performers on Wednesday, with the March 2029 note advancing 2 cents to 56.4 cents per dollar. Bonds maturing in March 2030 and April 2028 also climbed.
-
-...
-
-[Data](articles/f3947f75.json)
-
-[Extended Data](ext_articles/f3947f75.ext.json)
-
----
-
-### Katunayake - Dubai Airlines canceled!
-
-*2024-04-17 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181335) · `ta`
-
-Dubai Airlines flights from Katunayake airport to Sri Lanka canceled due to weather in UAE.
-
-🟩
-
-SriLankan Airlines has announced that it has canceled the airline from Katunayake airport on Wednesday (17) at 6 pm and has canceled the flights from Sri Lanka to Sri Lanka.
-
-This is attributed to the prevailing weather in the United Arab Emirates.
-
-◼️
-
-[Data](articles/2b017837.json)
-
-[Extended Data](ext_articles/2b017837.ext.json)
 
 ---

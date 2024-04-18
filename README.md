@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 19:18:23**
+As of **2024-04-18 19:34:18**
 
 ## Newspaper Stats
 
-*Scraped **19,603** Articles*
+*Scraped **19,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ economynextcom | 1,118
 adalk | 1,635
 tamilmirrorlk | 2,281
 adaderanalk | 2,352
-virakesarilk | 2,931
-dailymirrorlk | 3,024
+virakesarilk | 2,933
+dailymirrorlk | 3,025
 adaderanasinhalalk | 3,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,603 (100.0%) of 19,603 articles have been extended.
+19,603 (100.0%) of 19,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Import of human immunoglobulin, medical supplies without competitive bids challenged before court
+
+*2024-04-18 19:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-of-human-immunoglobulin-medical-supplies-without-competitive-bids-challenged-before-court/108-280920) · `en`
+
+Colombo, April 18 (Daily Mirror) - Transparency International Sri Lanka (TISL) has filed a Fundamental Rights petition before the Supreme Court seeking a declaration that the imports of human immunoglobulin (Human-IG) and several other medicinal drugs without competitive bids is wrongful and illegal.
+
+The petitioner highlighted the serious ramifications on the health sector and the public from the recent controversial procurement of medical supplies including human immunoglobulin.
+
+The Cabinet of Ministers, the incumbent and former higher officials in the health sector, former Health Minister Keheliya Rambukwella, the companies involved in the controversial supplies of Human-IG, the Treasury Secretary, the Auditor General, the Director General of Customs, the Inspector General of Police, Members and Director General of CIABOC and the Attorney General are among the 66 respondents named in the petition.
+
+...
+
+[Data](articles/29eb4bc8.json)
+
+---
 
 ### President greets Chamari
 
@@ -57,6 +73,24 @@ South Africa women and South Africa celebrations were first bowled out for 301 a
 [Data](articles/17eaaf39.json)
 
 [Extended Data](ext_articles/17eaaf39.ext.json)
+
+---
+
+### உண்ணாவிரதமிருந்து உயிர்நீர்த்த தியாகதீபம் அன்னை பூபதியின் உருவப்படத்திற்கு களுவாஞ்சிகுடியில் மக்கள் சுடர் ஏற்றி மலர் தூவி அஞ்சலி
+
+*2024-04-18 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181405) · `ta`
+
+தமிழ் மக்களின் உரிமைகளை வலியுறுத்தி மட்டக்களப்பில்; உண்ணாவிரதமிருந்து உயிர்நீத்த தியாகதீபம் அன்னை பூபதியின் 36வது ஆண்டு நினைவேந்தலை முன்னிட்டு அவரது உருவப்படம் தாங்கிய ஊர்தி வியாழக்கிழமை (18) மாலை மட்டக்களப்பு களுவாஞ்சிகுடி நகரை வந்தடைந்தது. இந்நிலையில்  உயிர்நீத்த தியாகதீபம் அன்னை பூபதியின் உருவப்படத்திற்கு அப்பகுதி மக்கள் சுடர் ஏற்றி, மலர்தூவி அஞ்சலி செலுத்தினர்.
+
+அன்னையின் உருவப்படம் தாங்கிய ஊர்தி யாழ்ப்பாணத்திலிருந்து ஆரம்பமாகியிருந்தது. வெள்ளிக்கிழமை (19) மட்டக்களப்பில் அமைந்துள்ள அன்னாரது நினைவிடத்தில் அஞ்சலி நிகழ்வுகள் இடம்பெறவுள்ளன.
+
+தமிழ் தேசிய மக்கள் முன்னணி கட்சியின் ஏற்பாட்டில் இவ்வூர்தி பவனி இடம்பெற்று வருகின்றது.
+
+மட்டக்களப்பு நகரில் அமைந்துள்ள மாமாங்கேஸ்வரர் ஆலயத்திற்கு முன்பாக 1988 மார்ச் 19ஆம் திகதி உண்ணாவிரத போராட்டத்தை ஆரம்பித்து 1988 ஏப்ரல் 19ஆம் திகதி உயிர் துறந்திருந்தார் என்பதும் குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/eb9b2530.json)
 
 ---
 
@@ -341,6 +375,26 @@ South Asia and Africa are listed as regions that will experience the strongest i
 [Data](articles/f3da197b.json)
 
 [Extended Data](ext_articles/f3da197b.ext.json)
+
+---
+
+### யாழில் நள்ளிரவில் சுண்ணகற்கள் அகழ்ந்து எடுக்கப்பட்டு திருகோணமலைக்கு கடத்தப்படுகிறதா ? சிறிதரன் ஒருங்கிணைப்பு குழு கூட்டத்தில் கேள்வி
+
+*2024-04-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181389) · `ta`
+
+யாழ்ப்பாணத்தில் இருந்து நள்ளிரவு வேளை சுண்ணகற்கள் அகழ்ந்து எடுக்கப்பட்டு திருகோணமலைக்கு கொண்டு செல்லப்படுவதாக மக்கள் என்னிடம் முறையிட்டுள்ளார்கள் இது தொடர்பில் மக்களால் முறையிடப்பட்ட இடங்களை பார்வையிட்டபோது அங்கு 20 முதல் 25 அடிவரை அகழப்பட்டு இருக்கிறது.
+
+அவ்வாறு  அகழப்பட்ட சுண்ணகற்கள் பிறிதொரு இடத்திற்கு கொண்டு சென்று சேர்த்த பின்னர் நள்ளிரவு வேளை  திருகோணமலைக்கு கொண்டுசெல்லப்படுகிறது.
+
+இந்த செயற்பாட்டிற்கு யார் அனுமதி வழங்கியது?   கற்களை அகழ்வதற்கு எந்த திணைக்களம் பொறுப்பு கூறுவது இராணுவம், பொலிஸாரின் அனுமதியுடன் இது நடைபொறுகிறதா? யார் தான்  பொறுப்பு கூறுவது?
+
+12,14 கன்ரர், டிப்பர் வாகனங்களில்  கற்களை கொண்டு செல்கிறார்கள்.  நள்ளிரவில் இந்த வேலைகளை செய்வதால் இரவு கடமையில் நிற்கும் பொலிஸார் இராணுவத்தினர் இதனை கொண்டு செல்வதற்கு அனுமதி வழங்கிறார்களா?
+
+ஒருங்கிணைப்பு   குழு கூட்டத்தில் வடக்கு மாகாண ஆளுநர் இணைத்தலைவர்களில் ஒருவராகிருக்கிறார்.  அமைச்சரும் இணைத்தலைவர்களில் ஒருவராக இருக்கிறார்.
+
+...
+
+[Data](articles/cc34c9d9.json)
 
 ---
 
@@ -2229,69 +2283,5 @@ The CEB consists of around 26,000 workers when the enterprise needs only around 
 [Data](articles/3ee07c78.json)
 
 [Extended Data](ext_articles/3ee07c78.ext.json)
-
----
-
-### Indonesia issues tsunami alert after volcano erupts on remote island
-
-*2024-04-18 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indonesia-issues-tsunami-alert-after-volcano-erupts-on-remote-island/108-280887) · `en`
-
-(CNN) - Indonesian authorities on Wednesday ordered hundreds of villagers to evacuate following multiple eruptions of a remote island volcano, raising fears it could collapse into the sea and trigger a tsunami.
-
-Mount Ruang, a 725-meter (2,400-foot) conical stratovolcano on Ruang Island, North Sulawesi, has erupted at least five times since Tuesday night, spewing fiery lava and ash plumes thousands of feet into the sky, the country’s volcanology agency said.
-
-Agency chief Hendra Gunawan said officials had raised the volcano alert to the highest level, warning people not to go within 6 kilometers (3.7 miles) of the peak, due to fears Mount Ruang could partially collapse into the water and cause a tsunami, as it did in 1871.
-
-“The force of Mount Ruang’s eruption is getting bigger and has emitted hot clouds of approximately 1.7 kilometers,” he told national news agency Antara, adding the eruptions were triggered by recent earthquakes in the area.
-
-...
-
-[Data](articles/a1f62c4f.json)
-
-[Extended Data](ext_articles/a1f62c4f.ext.json)
-
----
-
-### Indonesia issues tsunami alert after volcano erupts on remote island
-
-*2024-04-18 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indonesia-issues-tsunami-alert-after-volcano-erupts-on-remote-island/107-280887) · `en`
-
-(CNN) - Indonesian authorities on Wednesday ordered hundreds of villagers to evacuate following multiple eruptions of a remote island volcano, raising fears it could collapse into the sea and trigger a tsunami.
-
-Mount Ruang, a 725-meter (2,400-foot) conical stratovolcano on Ruang Island, North Sulawesi, has erupted at least five times since Tuesday night, spewing fiery lava and ash plumes thousands of feet into the sky, the country’s volcanology agency said.
-
-Agency chief Hendra Gunawan said officials had raised the volcano alert to the highest level, warning people not to go within 6 kilometers (3.7 miles) of the peak, due to fears Mount Ruang could partially collapse into the water and cause a tsunami, as it did in 1871.
-
-“The force of Mount Ruang’s eruption is getting bigger and has emitted hot clouds of approximately 1.7 kilometers,” he told national news agency Antara, adding the eruptions were triggered by recent earthquakes in the area.
-
-...
-
-[Data](articles/c5000d57.json)
-
-[Extended Data](ext_articles/c5000d57.ext.json)
-
----
-
-### Israeli attack on Israel
-
-*2024-04-18 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195750) · `si`
-
-Hesbuullah attacked northern Israel with missiles and drones, injuring 14 Israeli soldiers. The group claimed retaliation for an Israeli Army attack. Some injuries are serious.
-
-🟩
-
-Hesbuullah in Lebanullah has attacked several military centrals in northern Israel.
-
-The attacks were carried out with the use of missiles and drones and 14 Israeli soldiers were injured.
-
-The Hesbuullah said that some of the Hessubulah was killed in a response to a response to the Israeli Army attack recently.
-
-Some of the injured Israeli personnel states that the condition is serious.
-
-◼️
-
-[Data](articles/e5bfac7a.json)
-
-[Extended Data](ext_articles/e5bfac7a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 17:54:53**
+As of **2024-04-18 18:09:49**
 
 ## Newspaper Stats
 
-*Scraped **19,588** Articles*
+*Scraped **19,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,41 +14,105 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
-economynextcom | 1,117
+economynextcom | 1,118
 adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,348
-virakesarilk | 2,928
-dailymirrorlk | 3,022
+virakesarilk | 2,931
+dailymirrorlk | 3,023
 adaderanasinhalalk | 3,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,578 (99.9%) of 19,588 articles have been extended.
+19,588 (100.0%) of 19,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### ජලාශයක දියේ ගිලී පාසල් සිසුවෙකු අතුරුදන්
+### Sri Lankans trapped Myanmar forced labour cyberscam come home
+
+*2024-04-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankans-trapped-myanmar-forced-labour-cyberscam-come-home-159163/) · `en`
+
+ECONOMYENXT – Eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar returned to Sri Lanka today.
+
+“Myanmar law enforcement authorities rescued these Sri Lankans on 4 April 2024, following the request by the Government of Sri Lanka,” the Ministry of Foreign Affairs said in a statement.
+
+“The Sri Lanka Embassy officials in Bangkok received them on 11 April 2024 at the Mae Sot border gate in Thailand, and subsequently they were brought to Bangkok and provided accommodation until their repatriation was arranged with the assistance of the International Organization for Migration.”
+
+The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans.
+
+...
+
+[Data](articles/3aaca04e.json)
+
+---
+
+### School student drowned in reservoir
 
 *2024-04-18 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195762) · `si`
 
-කාස්ලරී ජලාශයේ දිය නෑමට ගිය පාසල් සිසුවෙකු දියේ ගිලී අතුරුදන්ව තිබේ.
+A 17-year-old schoolgirl drowned in the Kastary Reservoir. Security personnel are searching for her body.
 
-මෙලෙස අතුරුදන්ව ඇත්තේ 17 හැවිරිදි වියේ පසුවූ කාසල්රී වතු යායේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+🟩
 
-සිය පවුලේ සාමාජිකයින් සමග මෙම පාසල් සිසුවා අද පස්වරු 3.30ට පමණ ජලාශයේ දිය නෑමට ගොස් සිටි අවස්ථාවේ මෙම අනතුරට මුහුණදී තිබේ.
+A schoolgirl drowned in the Kastary Reservoir.
 
-දරුවාගේ සිරුර සොයා කාසල්රී ජලාශය භාර ආරක්ෂක නිලධාරීන් ප්‍රදේශවාසීන් සහ ධීවරයින් එක්ව මෙහෙයුමක් ආරම්භ කර ඇත.
+The victim was a 17 year old schoolgirl in the Cossali Estate.
 
-කාසල්රී ජලාශය භාර ආරක්ෂක නිලධාරීන්ගේ දැනුවත් කිරීම් නොසළකා ජලාශය හරහා එගොඩ මෙගොඩ පිහිනමින් සිටියදී මෙම දිය අනතුර සිදුව ඇති බවට ආරංචි මාර්ග සඳහන් කරයි/
+The school student is due to the accident at around 3.30 pm today at 3.30 pm.
+
+Security personnel in charge of the Castlereic Reservoir have launched a mission in search of the child's body.
+
+Sources say that the streams have been swimming along the across the reservoir over the reservoir in charge of the Castlereaging Reservoir awareness /
 
 ◼️
 
 [Data](articles/1d5a4e2f.json)
+
+[Extended Data](ext_articles/1d5a4e2f.ext.json)
+
+---
+
+### புதிய முயற்சியாக முதலில் இரண்டாம் பாகத்தை வெளியிடும் சீயான் விக்ரமின் 'வீர தீர சூரன் 2'
+
+*2024-04-18 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181399) · `ta`
+
+தமிழ் சினிமாவில் சர்வதேச தரத்திலான நடிகராக பரிணமிக்கும் சீயான் விக்ரமின் நடிப்பில் உருவாகும் 'வீர தீர சூரன்' எனும் திரைப்படம் இரண்டு பாகங்களாக உருவாகிறது.
+
+உலக சினிமாக்களில் ஒரு திரைப்படத்தின் முதல் பாகம் வெளியாகி ரசிகர்களின் ஆதரவை பெற்று வெற்றி பெற்றால் தான் அதன் அடுத்த பாகம் தயாராகும்.
+
+ஆனால் இதுவரை தமிழ் சினிமாவில் மேற்கொள்ளப்படாத புதிய முயற்சியாக சீயான் விக்ரம் நடிக்கும் 'வீர தீர சூரன்' எனும் படத்தின் இரண்டாம் பாகம் முதலில் வெளியாகிறது. அதன் பின்னர் இப்படத்தின் முதல் பாகம் வெளியாகும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் எஸ். யு. அருண்குமார் இயக்கத்தில் உருவாகும் 'வீர தீர சூரன் 2' எனும் திரைப்படத்தில் சீயான் விக்ரம், எஸ். ஜே. சூர்யா, சுராஜ் வெஞ்சரமூடு, துஷாரா விஜயன் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைக்கிறார். எக்சன் எண்டர்டெய்னராராக தயாராகும் இந்த திரைப்படத்தை ஹெச் ஆர் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ரியா ஷிபு தயாரிக்கிறார்.
+
+...
+
+[Data](articles/614a918b.json)
+
+---
+
+### சாதிய அரசியலை அலசும் அண்ட்ரியாவின் 'மனுசி'
+
+*2024-04-18 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181397) · `ta`
+
+தமிழ் திரையுலகில் சர்ச்சையான அழுத்தமான கனமான கதாபாத்திரங்களை தெரிவு செய்து தன் தனித்துவமான நடிப்பால் ரசிகர்களின் மனதில் இடம் பிடித்திருக்கும் நடிகை ஆண்ட்ரியா கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'மனுசி' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+'அறம்' எனும் திரைப்படத்தை இயக்கி ஒட்டுமொத்த தமிழர்களின் கவனத்தை தன் பக்கம் திரும்பிய இயக்குநர் என். கோபி நாயனார் இயக்கத்தில் உருவாகி இருக்கும் 'மனுசி' திரைப்படத்தில் ஆண்ட்ரியா, நாசர், தமிழ், பாலாஜி சக்திவேல், விஜி சந்திரசேகர், ஹக்கிம் ஷா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஏ எம் எட்வின் சகாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார்.
+
+சாதிய அரசியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை பி ஃபார் யூ- ஐ வி என்டர்டெய்ன்மென்ட்  மற்றும் கிராஸ் ரூட் ஃபிலிம் கம்பனி எனும் பட நிறுவனங்கள் சார்பில் இயக்குநர் வெற்றிமாறனின் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/b24a8f90.json)
 
 ---
 
@@ -65,6 +129,42 @@ The cabinet of ministers, incumbent and former health sector officials, former H
 ...
 
 [Data](articles/a90734b7.json)
+
+[Extended Data](ext_articles/a90734b7.ext.json)
+
+---
+
+### யாழில் குழாய்க்கிணறுகளை தோன்றுவதால் ஏற்படும் ஆபத்துக்கள் குறித்து ஆய்வு செய்ய நடவடிக்கை
+
+*2024-04-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181392) · `ta`
+
+யாழ்ப்பாணத்தில் குழாய்க்கிணறுகளைத் தோன்றுவது தொடர்பில் ஆய்வுகளை மேற்கொண்டு முடிவெடுப்பது என யாழ்.மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+யாழ். மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் ஆகியோரின் இணைத்தலைமையில்  யாழ் மாவட்ட செயலகத்தில் இன்றைய தினம் வியாழக்கிழமை நடைபெற்றது.
+
+அதன்போது யாழ்ப்பாணத்தில் அனுமதியற்ற முறையில் அதிகளவான குழாய்க்கிணறுகள் அடிக்கப்பட்டு வருவதாகவும் , அதனால் நிலத்தடி நீர் அற்று போகும் அபாயம் உள்ளதாகவும் சுட்டிக்காட்டப்பட்டது
+
+அதனை தொடர்ந்து கூட்டத்தில் வாத பிரதிவாதங்கள் எழுந்தன. அதனை அடுத்து குழாய்க்கிணறு அடிப்பதால் ஏற்படும் பாதிப்புக்கள் தொடர்பில் ஆய்வுகளை மேற்கொண்டு ,அதன் அடிப்படையில் அவற்றை கட்டுப்படுத்துவது தொடர்பில் முடிவெடுக்கப்படும் என தீர்மானிக்கப்பட்டது.
+
+...
+
+[Data](articles/3af5e963.json)
+
+---
+
+### Climate change to cost world economy US$ 38 trillion per annum
+
+*2024-04-18 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Climate-change-to-cost-world-economy-US-38-trillion-per-annum/108-280919) · `en`
+
+The global annual damage caused by climate change is estimated to be 38 trillion dollars until the year 2050, a study by a German research institute has found.
+
+According to scientists at the Potsdam Institute for Climate Impact Research (PIK) ‘the world economy is already committed to an income reduction of 19 percent until 2050, even if CO2 emissions were to be drastically cut immediately.
+
+South Asia and Africa are listed as regions that will experience the strongest income reductions due to climate change. The damages will be primarily caused by impacts on agricultural yields, labor productivity or infrastructure, the study further elaborated.
+
+◼️
+
+[Data](articles/f3da197b.json)
 
 ---
 
@@ -171,6 +271,8 @@ A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr18/2024)
 ◼️
 
 [Data](articles/353bb566.json)
+
+[Extended Data](ext_articles/353bb566.ext.json)
 
 ---
 
@@ -408,6 +510,8 @@ Lanka Milk Foods (CWE) Plc also saw interest (Rs317mn) and the share closed up a
 
 [Data](articles/c5770db8.json)
 
+[Extended Data](ext_articles/c5770db8.ext.json)
+
 ---
 
 ### Stups of the three STF trapped in Boralesgamuwa
@@ -537,6 +641,8 @@ Meanwhile, SLFP acting general secretary Dushmantha Mithrapala has filed objecti
 ...
 
 [Data](articles/64d05765.json)
+
+[Extended Data](ext_articles/64d05765.ext.json)
 
 ---
 
@@ -685,6 +791,8 @@ The CEA and the Police reached an agreement to carry out future raids and awaren
 ◼️
 
 [Data](articles/b3faa123.json)
+
+[Extended Data](ext_articles/b3faa123.ext.json)
 
 ---
 
@@ -950,6 +1058,8 @@ The Kurunegala district MP told reporters that the third defendant in the same c
 
 [Data](articles/70622e08.json)
 
+[Extended Data](ext_articles/70622e08.ext.json)
+
 ---
 
 ### Sri Lanka’s Hunas Holdings to offer room nights trading with Japan firm
@@ -969,6 +1079,8 @@ Investors who want to take on risk could also book rooms ahead of time at cheape
 ...
 
 [Data](articles/a3d59524.json)
+
+[Extended Data](ext_articles/a3d59524.ext.json)
 
 ---
 
@@ -1173,6 +1285,8 @@ Commercial Credit stock was trading down at 34.50 in intra day trading on Thursd
 ◼️
 
 [Data](articles/00b95a12.json)
+
+[Extended Data](ext_articles/00b95a12.ext.json)
 
 ---
 
@@ -1974,6 +2088,8 @@ Low fees for SAARC citizens have a been Sri Lanka foreign policy strategy of reg
 
 [Data](articles/5b4dc4e4.json)
 
+[Extended Data](ext_articles/5b4dc4e4.ext.json)
+
 ---
 
 ### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
@@ -2137,121 +2253,5 @@ Wijesekara also mentioned that the public will have two weeks from the day of pr
 [Data](articles/b53cc6cb.json)
 
 [Extended Data](ext_articles/b53cc6cb.ext.json)
-
----
-
-### Two women found dead under suspicious circumstances inside house in Kalutara
-
-*2024-04-18 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98694/two-women-found-dead-under-suspicious-circumstances-inside-house-in-kalutara) · `en`
-
-The bodies of two women who had died under suspicious circumstances have been found inside a house in Isuru Uyana area of the Kalutara-South police division.
-
-The Police Media Division stated that the Kalutara-South Police had received a notification from the 119 Police Information Center that two women who were residing in a house in the area had not been seen for several days and that there was a stench emanating from the vicinity of the house on Wednesday (April 17).
-
-Accordingly, a group of police officers had attended to the relevant location and inspected, whereas they found the house was locked.
-
-Later, the police officers had noticed the bodies of two women lying on the floor, inside the house through the window.
-
-Based on the information obtained from the Grama Niladhari officer, it has been revealed that the two women in question were aged 65 and 79 years.
-
-The magistrate’s inquests of the bodies are scheduled to be held today (18).
-
-◼️
-
-[Data](articles/7b74a096.json)
-
-[Extended Data](ext_articles/7b74a096.ext.json)
-
----
-
-### Today is the rain or thunderstorm
-
-*2024-04-18 09:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-அல்லது-இடியுடன்-கூடிய-மழை/175-336063) · `ta`
-
-The Department of Meteorology predicts widespread showers or thunderstorms in Western, Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm, with potential for rain or thunderstorms in the evening or night in the Mannar district. Morning snowfall is expected in some areas. Public advised to take precautions against heavy winds and lightning.
-
-🟩
-
-The Department of Meteorology has predicted widespread showers or thunderstorms in the Western, Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm.
-
-The department said that rain or thunderstorms could occur in the evening or night in the Mannar district and in the Mannar district.
-
-In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there will be snowfall in the morning.
-
-The Department of Meteorology has requested the general public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/852f270a.json)
-
-[Extended Data](ext_articles/852f270a.ext.json)
-
----
-
-### Power and Energy Bill gazetted
-
-*2024-04-18 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195747) · `si`
-
-The revised Power and Energy Bill has been gazetted and will be presented in Parliament next week by Minister Kanchana Wijesekara.
-
-🟩
-
-The gazette for the revised Bill has been issued to the revised Bill.
-
-The Minister of Power and Energy Kanchana Wijesekara has stated that a note of the account.
-
-The Minister has said that it is to be produced in parliament next week.
-
-◼️
-
-[Data](articles/3dc2a72d.json)
-
-[Extended Data](ext_articles/3dc2a72d.ext.json)
-
----
-
-### Palitha returns to the house
-
-*2024-04-18 08:59:12* · [`adalk`](https://www.ada.lk/picture_story/පාලිත-අවසන්වරට-නිවසට-පැමිණෙයි/10-409138) · `si`
-
-Palitha Thewarapperuma's remains arrived at his Matugama home around 10 pm yesterday. A large crowd gathered to honor him, with opposition activists among them. His funeral is set for the Family Cemetery.
-
-🟩
-
-The remains of former Minister of State Palitha Thewarapperuma was brought to the house in Matugama, Mathadawatta, Matugama at around 10 pm yesterday (17).
-
-The body came from a road in Kalutara with a flowering flower in Kalutara and the people gathered to honor him.
-
-A large number of people were gathered at the time of bringing the body home, and they had to work hard to see his body.
-
-By midnight and a large number of opposition political activists were among the party.
-
-The funeral of Palitha Thevarapperuma is scheduled to take place on Family Cemetery.
-
-◼️
-
-[Data](articles/a9ebb7cd.json)
-
-[Extended Data](ext_articles/a9ebb7cd.ext.json)
-
----
-
-### Proposed electricity sector reforms gazetted
-
-*2024-04-18 08:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proposed-electricity-sector-reforms-gazetted/108-280886) · `en`
-
-Colombo, April 18 (Daily Mirror) - A gazette notification on the proposed electricity sector reforms was published yesterday, the Power and Energy Ministry said.
-
-Minister Kanchana Wijesekera said the Bill will be presented to Parliament in the next sitting week.
-
-He also said the amendments suggested by the stakeholders in January have been drafted into the revised Bill.
-
-Accordingly, the public will have two weeks from the day the Bill is presented to Parliament to challenge its legality before the Supreme Court.
-
-◼️
-
-[Data](articles/8cc378ff.json)
-
-[Extended Data](ext_articles/8cc378ff.ext.json)
 
 ---

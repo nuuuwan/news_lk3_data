@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 18:09:49**
+As of **2024-04-18 18:21:46**
 
 ## Newspaper Stats
 
-*Scraped **19,593** Articles*
+*Scraped **19,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ dailyftlk | 1,071
 economynextcom | 1,118
 adalk | 1,632
 tamilmirrorlk | 2,281
-adaderanalk | 2,348
+adaderanalk | 2,350
 virakesarilk | 2,931
 dailymirrorlk | 3,023
-adaderanasinhalalk | 3,187
+adaderanasinhalalk | 3,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,588 (100.0%) of 19,593 articles have been extended.
+19,593 (100.0%) of 19,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### පාසල් සිසුවෙකුට අධිකරණය දුන් නියෝගය
+
+*2024-04-18 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195763) · `si`
+
+අම්බලන්ගොඩ ප්‍රදේශයේ නිවාස දෙකකින් මුදල් සහ ජංගම දුරකථන සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් චෝදනා එල්ලවූ පාසල් සිසුවෙකු අද අධිකරණය විසින් පරිවාස භාරයට පත්කර තිබේ.
+
+සැකකාර පාසල් සිසුවා අද අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව බළපිටිය මහේස්ත්‍රාත් ආර් ඩී ජනක මහතා අද (18) මෙම නියෝගය ලබාදී තිබේ.
+
+මෙලෙස පරිවාස භාරයට පත්කර ඇත්තේ අම්බලන්ගොඩ, ගලගොඩ ප්‍රදේශයේම පදිංචි වයස අවුරුදු 15ක දරුවෙකි.
+
+එම දරුවාගේ පියා විදේශගතව සිටින බවත් දරුවා මවට අවනත නොවන බවත් අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+නිවාස දෙකකින් ලැබුණු පැමිණිල්ලක් විභාග කළ පොලිස් නිලධාරීන් විසින් මෙම දරුවා සිය භාරයට ගෙන අධිකරණය වෙත ඉදිරිපත් කර ඇත.
+
+එහිදී දරුවා සන්තකයේ තිබී සොරකම් කරන ලද ජංගම දුරකථන දෙක සොයාගෙන ඇතිමුත් මුදල් සොයාගෙන ඇත්තේ රුපියල් 800ක් පමණක් වීම විශේෂත්වයකි.
+
+ඒ පිළිබඳව දරුවාගෙන් කළ ප්‍රශ්න කිරීම්වලදී සඳහන් කර ඇත්තේ සොරකම්කරන ලද මුදල්වලින් කොටසක් සිය නැගණියට ශ්‍රී පාදය වන්දනා කිරීමට යෑමට ලබාදුන් බවය.
+
+...
+
+[Data](articles/2198163c.json)
+
+---
 
 ### Sri Lankans trapped Myanmar forced labour cyberscam come home
 
@@ -47,6 +71,8 @@ The International Organization for Migration provided logistical assistance in r
 ...
 
 [Data](articles/3aaca04e.json)
+
+[Extended Data](ext_articles/3aaca04e.ext.json)
 
 ---
 
@@ -76,43 +102,59 @@ Sources say that the streams have been swimming along the across the reservoir o
 
 ---
 
-### புதிய முயற்சியாக முதலில் இரண்டாம் பாகத்தை வெளியிடும் சீயான் விக்ரமின் 'வீர தீர சூரன் 2'
+### Sion Vikram's 'Veera Tira Suran 2' will be the first to release the second part of the new initiative
 
 *2024-04-18 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181399) · `ta`
 
-தமிழ் சினிமாவில் சர்வதேச தரத்திலான நடிகராக பரிணமிக்கும் சீயான் விக்ரமின் நடிப்பில் உருவாகும் 'வீர தீர சூரன்' எனும் திரைப்படம் இரண்டு பாகங்களாக உருவாகிறது.
+"Sion Vikram's 'Veera Tira Suran 2' is the first part of a two-part film series, with the second part yet to be released. The film, featuring Sion Vikram, is a significant venture in Tamil cinema. The first part is expected to release later, with a special video of Vikram's birthday released for the upcoming film. The anticipation is high, especially for Vikram's role as Kali, a grocery store worker with a unique weapon."
 
-உலக சினிமாக்களில் ஒரு திரைப்படத்தின் முதல் பாகம் வெளியாகி ரசிகர்களின் ஆதரவை பெற்று வெற்றி பெற்றால் தான் அதன் அடுத்த பாகம் தயாராகும்.
+🟩
 
-ஆனால் இதுவரை தமிழ் சினிமாவில் மேற்கொள்ளப்படாத புதிய முயற்சியாக சீயான் விக்ரம் நடிக்கும் 'வீர தீர சூரன்' எனும் படத்தின் இரண்டாம் பாகம் முதலில் வெளியாகிறது. அதன் பின்னர் இப்படத்தின் முதல் பாகம் வெளியாகும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
+The film 'Veera Thai Suran', starring Sion Vikram, is a two -part film, which evolves as an international actor in Tamil cinema.
 
-இயக்குநர் எஸ். யு. அருண்குமார் இயக்கத்தில் உருவாகும் 'வீர தீர சூரன் 2' எனும் திரைப்படத்தில் சீயான் விக்ரம், எஸ். ஜே. சூர்யா, சுராஜ் வெஞ்சரமூடு, துஷாரா விஜயன் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+The next part of a film in the world cinemas is released and the next part is ready if it win the fans with the support of the fans.
 
-தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைக்கிறார். எக்சன் எண்டர்டெய்னராராக தயாராகும் இந்த திரைப்படத்தை ஹெச் ஆர் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ரியா ஷிபு தயாரிக்கிறார்.
+But the second part of the film 'Veera Theta Surah', which has been cast as a new venture in Tamil cinema, is the first part of the movie 'Veera Tira Saran'.. The film crew has said that the first part of the film will be released later.
+
+Director S.. U. Siyan Vikram, S in the movie 'Veera Thira Suran 2' directed by Arun Kumar. J.. Surya, Suraj Venjaramudu, Dushara Vijayan and many others are acting.
+
+The film is being recorded by Theni Eswar. V.. Prakash Kumar is composed. The film is being produced as Exan Entertainment and is producing the producer Riya Shibu on behalf of HR Pictures.
+
+A special video of Vikram's birthday has been released in his upcoming film 'Veera Tira Saran 2'.
 
 ...
 
 [Data](articles/614a918b.json)
 
+[Extended Data](ext_articles/614a918b.ext.json)
+
 ---
 
-### சாதிய அரசியலை அலசும் அண்ட்ரியாவின் 'மனுசி'
+### Andrea's 'Manusi'
 
 *2024-04-18 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181397) · `ta`
 
-தமிழ் திரையுலகில் சர்ச்சையான அழுத்தமான கனமான கதாபாத்திரங்களை தெரிவு செய்து தன் தனித்துவமான நடிப்பால் ரசிகர்களின் மனதில் இடம் பிடித்திருக்கும் நடிகை ஆண்ட்ரியா கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'மனுசி' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Andrea's 'Manusi' preview released, highlighting her performance in the Tamil film industry. Directed by Gopi Nayanar, featuring Nasser, Tamil, Balaji Sakthivel, and others. Focuses on caste politics, with music by Gnani Ilayaraja. Produced by PF UV Entertainment and Cross Root Film Company. Currently in final phase."
 
-இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+🟩
 
-'அறம்' எனும் திரைப்படத்தை இயக்கி ஒட்டுமொத்த தமிழர்களின் கவனத்தை தன் பக்கம் திரும்பிய இயக்குநர் என். கோபி நாயனார் இயக்கத்தில் உருவாகி இருக்கும் 'மனுசி' திரைப்படத்தில் ஆண்ட்ரியா, நாசர், தமிழ், பாலாஜி சக்திவேல், விஜி சந்திரசேகர், ஹக்கிம் ஷா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+The preview of the film 'Manusi', which plays the lead role of actress Andrea's story, has been released by her unique performance in the Tamil film industry.
 
-ஏ எம் எட்வின் சகாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைத்திருக்கிறார்.
+Vijay Sethupathi posted this on his web page and congratulated the film crew.
 
-சாதிய அரசியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை பி ஃபார் யூ- ஐ வி என்டர்டெய்ன்மென்ட்  மற்றும் கிராஸ் ரூட் ஃபிலிம் கம்பனி எனும் பட நிறுவனங்கள் சார்பில் இயக்குநர் வெற்றிமாறனின் தயாரித்திருக்கிறார்.
+Director N.. The film 'Manusi' directed by Gopi Nayanar has starred in Andrea, Nasser, Tamil, Balaji Sakthivel, Viji Chandrasekhar, Hakim Shah.
+
+The film, which has been cinematographed by AM Edwin Sahai, has composed the music Gnani Ilayaraja.
+
+The film, which focuses on caste politics, has produced the film on behalf of the film Companies of PF UV Entertainment and Cross Root Film Company.
+
+The final phase of the film is currently underway. In this case, the preview of the film has been released.
 
 ...
 
 [Data](articles/b24a8f90.json)
+
+[Extended Data](ext_articles/b24a8f90.ext.json)
 
 ---
 
@@ -134,21 +176,29 @@ The cabinet of ministers, incumbent and former health sector officials, former H
 
 ---
 
-### யாழில் குழாய்க்கிணறுகளை தோன்றுவதால் ஏற்படும் ஆபத்துக்கள் குறித்து ஆய்வு செய்ய நடவடிக்கை
+### Action to investigate the risks caused by the appearance of pipelines in Jaffna
 
 *2024-04-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181392) · `ta`
 
-யாழ்ப்பாணத்தில் குழாய்க்கிணறுகளைத் தோன்றுவது தொடர்பில் ஆய்வுகளை மேற்கொண்டு முடிவெடுப்பது என யாழ்.மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+The Jaffna Mawatte Coordinating Committee decided to investigate risks from pipelines in Jaffna, including groundwater contamination, and to control illegal activities.
 
-யாழ். மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் ஆகியோரின் இணைத்தலைமையில்  யாழ் மாவட்ட செயலகத்தில் இன்றைய தினம் வியாழக்கிழமை நடைபெற்றது.
+🟩
 
-அதன்போது யாழ்ப்பாணத்தில் அனுமதியற்ற முறையில் அதிகளவான குழாய்க்கிணறுகள் அடிக்கப்பட்டு வருவதாகவும் , அதனால் நிலத்தடி நீர் அற்று போகும் அபாயம் உள்ளதாகவும் சுட்டிக்காட்டப்பட்டது
+It has been decided at a meeting of the Jaffna Mawatte Coordinating Committee to conduct a decision on the appearance of pipelines in Jaffna.
 
-அதனை தொடர்ந்து கூட்டத்தில் வாத பிரதிவாதங்கள் எழுந்தன. அதனை அடுத்து குழாய்க்கிணறு அடிப்பதால் ஏற்படும் பாதிப்புக்கள் தொடர்பில் ஆய்வுகளை மேற்கொண்டு ,அதன் அடிப்படையில் அவற்றை கட்டுப்படுத்துவது தொடர்பில் முடிவெடுக்கப்படும் என தீர்மானிக்கப்பட்டது.
+Yall. District Coordinating Committee Meeting Minister Douglas Devananda and Governor of the Northern Province BSMM. The Jaffna District Secretariat was held on Thursday at the Jaffna District Secretariat.
 
-...
+At the same time, it was pointed out that the large number of pipelines are being beaten in Jaffna, so there is a risk of groundwater.
+
+This was followed by arguments at the meeting. It was then decided that the results of the impact of the pipeline would be conducted and the decision to control them on the basis of it.
+
+At the same time, decisions were taken at the meeting to take action on the control of illegal activities in Jaffna and to take action to completely control them.
+
+◼️
 
 [Data](articles/3af5e963.json)
+
+[Extended Data](ext_articles/3af5e963.ext.json)
 
 ---
 
@@ -165,6 +215,8 @@ South Asia and Africa are listed as regions that will experience the strongest i
 ◼️
 
 [Data](articles/f3da197b.json)
+
+[Extended Data](ext_articles/f3da197b.ext.json)
 
 ---
 
@@ -297,6 +349,20 @@ Although the water purification machine provided by the RDS is located in the sc
 [Data](articles/d0a3db98.json)
 
 [Extended Data](ext_articles/d0a3db98.ext.json)
+
+---
+
+### Sri Lankan govt reveals shortlisted bidders for key SOEs; transactions to end by August
+
+*2024-04-18 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98707/sri-lankan-govt-reveals-shortlisted-bidders-for-key-soes-transactions-to-end-by-august-) · `en`
+
+The State-Owned Enterprise Restructuring Unit (SRU) of the Finance Ministry has officially released the names of the local and foreign firms that have submitted responses to the respective requests for quote and the shortlisted bidders for the divestiture of shares held by the Government of Sri Lanka in several key state-owned enterprises (SOEs).
+
+Issuing a press release, the SRU also said that it is envisaged that all SOE transactions other than SriLankan Airlines will be concluded by August 2024 and that the timeline for SriLankan Airlines is likely to extend to end of September 2024.
+
+...
+
+[Data](articles/ff482620.json)
 
 ---
 
@@ -921,6 +987,30 @@ Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated tu
 [Data](articles/a04adbd6.json)
 
 [Extended Data](ext_articles/a04adbd6.ext.json)
+
+---
+
+### Dialog Axiata and Bharti Airtel to merge operations in Sri Lanka
+
+*2024-04-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98703/dialog-axiata-and-bharti-airtel-to-merge-operations-in-sri-lanka) · `en`
+
+Sri Lankan telecom operators Dialog Axiata and Bharti Airtel have signed a definitive agreement to merge telecom operations in the island nation, the companies said on Thursday, nearly a year after the merger was announced.
+
+Under the agreement, Dialog Axiata will acquire a 100% stake in Airtel Lanka by issuing Bharti Airtel a 10.4% stake in Dialog Axiata.
+
+Airtel Lanka is the Sri Lankan unit of India’s Bharti Airtel.
+
+The companies said the share swap would be valued by an independent body.
+
+The deal has been approved by Sri Lanka’s telecom regulator but has yet to be cleared by Dialog Axiata’s shareholders and the Colombo Stock Exchange.
+
+Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated turnover in fiscal 2023, the company said in an exchange filing.
+
+Dialog, Axiata Group and Bharti Airtel sign Definitive Agreement to Merge Operations in Sri Lanka
+
+◼️
+
+[Data](articles/dfcdc8d0.json)
 
 ---
 
@@ -2189,69 +2279,5 @@ Death is the 195th and 79-year-olds. The bodies are placed at that place under p
 [Data](articles/9f8d8f1d.json)
 
 [Extended Data](ext_articles/9f8d8f1d.ext.json)
-
----
-
-### Sri Lanka rupee opens at 301.00/302.05 to the US dollar
-
-*2024-04-18 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-00-302-05-to-the-us-dollar-158986/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.00/302.05 to the US dollar in the spot forex market on Thursday, from 301.00/302.05 on Wednesday, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.32/34 percent from 11.30/35 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at 12.10/20 percent.
-
-The Colombo Stock exchange opened down; the All Share Price Index was down 0.04 percent at 11,826 and the S&P SL20 was up marginaly up at 3,491. (Colombo/Apr18/2024)
-
-◼️
-
-[Data](articles/dc337b56.json)
-
-[Extended Data](ext_articles/dc337b56.ext.json)
-
----
-
-### A death because of the delay of the fire box
-
-*2024-04-18 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-පෙට්ටිය-ප්‍රමාදවීම-නිසා-මරණයක්/11-409139) · `si`
-
-A 59-year-old man was killed in Kuruwita, Kurugala, after a dispute over a box. The victim, a drunk man, was attacked by the deceased, leading to his death at Ratnapura Hospital. The suspect has fled.
-
-🟩
-
-A man was killed in an attack on another person in the Kurugala area in Kuruwita.
-
-The deceased is a 59 year old Keragala. A drunk man who had come to front of the deceased last night, a drunk man asked for a box. Due to the delay, the drunken person was giving the householder to the householder and he would not do so.
-
-The drunken person was attacked by the deceased and the unconscious person has died when he was admitted to the Ratnapura Hospital.
-
-The suspect has fled the country and police are investigating him.
-
-◼️
-
-[Data](articles/0533b044.json)
-
-[Extended Data](ext_articles/0533b044.ext.json)
-
----
-
-### Electricity sector reforms gazetted, to be tabled in parliament
-
-*2024-04-18 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98695/electricity-sector-reforms-gazetted-to-be-tabled-in-parliament-) · `en`
-
-The proposed electricity sector reforms have been published in the government gazette on Wednesday (17), as the ‘Sri Lanka Electricity Bill’.
-
-Posting on ‘X’ (formerly Twitter), Minister of Power and Energy Kanchana Wijesekara said that accordingly the Bill will be presented to the Parliament in the next sitting week.
-
-Meanwhile, the amendments suggested by the stakeholders in January have been drafted in to the revised Bill, according to the minister.
-
-Wijesekara also mentioned that the public will have two weeks from the day of presenting the Bill to the Parliament to challenge its legality in the Supreme Court.
-
-◼️
-
-[Data](articles/b53cc6cb.json)
-
-[Extended Data](ext_articles/b53cc6cb.ext.json)
 
 ---

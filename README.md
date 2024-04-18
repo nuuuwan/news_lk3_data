@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 22:18:36**
+As of **2024-04-18 22:33:55**
 
 ## Newspaper Stats
 
-*Scraped **19,626** Articles*
+*Scraped **19,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,640
 tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,937
-dailymirrorlk | 3,030
+dailymirrorlk | 3,031
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,624 (100.0%) of 19,626 articles have been extended.
+19,626 (100.0%) of 19,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Kenya military helicopter crashes with defense chief on board
+
+*2024-04-18 22:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kenya-military-helicopter-crashes-with-defense-chief-on-board/108-280925) · `en`
+
+April 18 - (The East African) - A military helicopter carrying the head of the Kenya Defence Forces, General Francis Ogolla, has crashed in a remote area near the Ugandan border.
+
+According to the police, five occupants of the chopper died while three survived with injuries. The three injured survivors were airlifted to hospital.
+
+President William Ruto has called an urgent meeting of senior security personnel at State House, Nairobi, following the fatal crash.
+
+The National Security Council is comprised of the President, his deputy, the Defence minister, the Attorney-General, the Chief of Defence Forces, the Director-General of the National Intelligence Service, and the Inspector-General of Police.
+
+It is the highest decision making organ of the country on security matters and is mandated with, among others, exercising supervisory control over national security organs and performing other functions related to national security.
+
+◼️
+
+[Data](articles/8194ef95.json)
+
+---
 
 ### Sri Lanka is building youths expect - President
 
@@ -84,17 +104,23 @@ During the investigations, it was revealed that the suspect is known in the area
 
 ---
 
-### களுத்துறையில் சுற்றுலா பயணிக்கு வடை மற்றும் தேநீரை 800 ரூபாவுக்கு விற்ற இடைத்தரகர் கைது!
+### Intermediary arrested for selling tea and tea for a tourist in Kalutara for 800 rupees
 
 *2024-04-18 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181407) · `ta`
 
-களுத்துறை உணவகம் ஒன்றில் வெளிநாட்டுப் பிரஜை ஒருவருக்கு ‘வடையும் ஒரு சாதாரண தேநீரும்’ 800 ரூபாவுக்கு கொடுத்த சம்பவம் ஒன்று சமூக ஊடகங்களில் காணொளியாக வந்ததைத்தொடர்ந்து குறித்த இடைத்தரகரை சுற்றுலாப் பொலிஸார் கைது செய்துள்ளனர்.
+Tourist police arrested an intermediary for selling tea to a foreign tourist in Kalutara for 800 rupees, based on a video. A separate case was launched against the restaurant owner.
 
-மேலும், உணவகத்தின் உரிமையாளருக்கு எதிராக தனி வழக்கு ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் உறுதிப்படுத்தியுள்ளார்.
+🟩
+
+Tourist police have arrested an intermediary following a video of a foreign citizen of a foreign citizen at a restaurant at a restaurant on social media.
+
+In addition, a police media spokesman has confirmed that a separate case has been launched against the owner of the restaurant.
 
 ◼️
 
 [Data](articles/066500be.json)
+
+[Extended Data](ext_articles/066500be.ext.json)
 
 ---
 
@@ -924,21 +950,29 @@ A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr18/2024)
 
 ---
 
-### சுதந்திரக் கட்சியின் உத்தியோகபூர்வமற்ற தலைவராக ரணில் - ஐக்கிய மக்கள் சக்தி சாடல்
+### Ranil as the official leader of the Freedom Party - United People's Shakti Sadal
 
 *2024-04-18 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181386) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் உத்தியோகபூர்வமற்ற தலைவராக ஜனாதிபதி ரணில் விக்கிரமசிங்க செயற்படுவார். அதனை அடிப்படையாகக் கொண்டே அமைச்சுப்பதவிகளை வகிக்கும் சுதந்திர கட்சி உறுப்பினர்கள் தற்போது செயற்பட்டுக் கொண்டிருப்பதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் தெரிவித்தார்.
+Ranil Wickremesinghe leads the Sri Lanka Freedom Party, with some ministers opposing Maithripala Sirisena. They've held ministry positions since Chandrika Bandaranaike's time, including in the current government.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க ஸ்ரீலங்கா சுதந்திர கட்சியின் உத்தியோகபூர்வமற்ற தலைவராகவுள்ளார். சுதந்திர கட்சியின் தலைவர் பதவியில் நீடிப்பதற்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு நீதிமன்றத்தால் இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe acts as the official leader of the Sri Lanka Freedom Party. United People's Power MP SM Marikar said that the members of the Freedom Party (SLFP) are currently working on the ministry.
 
-தற்போதைய அரசாங்கத்தில் அமைச்சுப்பதவிகளை ஏற்றுக் கொண்டுள்ள சுதந்திர கட்சியின் அமைச்சர்களே முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு எதிராக செயற்பட்டுக் கொண்டிருக்கின்றனர்.
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Thursday (18).
+
+President Ranil Wickremesinghe is the official leader of the Sri Lanka Freedom Party. Former President Maithripala Sirisena has been granted an interim injunction to remain as the leader of the Freedom Party.
+
+The ministers of the Freedom Party who have accepted the ministry in the current government are acting against former President Maithripala Sirisena.
+
+Most of them have held ministry in every government since the time of former President Chandrika Bandaranaike Kumaratunga.
 
 ...
 
 [Data](articles/6a2ef493.json)
+
+[Extended Data](ext_articles/6a2ef493.ext.json)
 
 ---
 
@@ -2285,33 +2319,5 @@ Piyumi Wijesekara, who is selected for the team, is a research scientist at the 
 [Data](articles/f140dbf5.json)
 
 [Extended Data](ext_articles/f140dbf5.ext.json)
-
----
-
-### We strongly oppose elections - we will not tolerate a little
-
-*2024-04-18 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181360) · `ta`
-
-The Sri Lanka Bar Association opposes regulating parliamentary presidential elections, arguing against postponement due to its impact on public confidence. President Kausalya Navaratne of the Sri Lanka Lawyers Association emphasizes the absence of constitutional provisions for holding a presidential election before November, suggesting it could occur if the parliamentary term ends and the parliament is dissolved beforehand, without any post-election regulations.
-
-🟩
-
-The Sri Lanka Bar Association has said that if efforts are made to regulate the parliamentary presidential elections, they will not tolerate it.
-
-The President of the Sri Lanka Lawyers Association, Kausalya Navaratne, who has stated that the postponement of elections will affect the people's confidence. "
-
-He stated that there are no constitutional arrangements that would first be held in the presidential election.
-
-Kausalya Navaratne has said that the present president's tenure is due to end this November, but the presidential election should be held before November.
-
-He said that the presidential election could be held before the presidential election, if the parliamentary lifetime is over and the parliament can be dissolved before.
-
-There are no arrangements for the post -election regulation.
-
-◼️
-
-[Data](articles/adb31c74.json)
-
-[Extended Data](ext_articles/adb31c74.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 09:33:48**
+As of **2024-04-18 09:52:32**
 
 ## Newspaper Stats
 
-*Scraped **19,487** Articles*
+*Scraped **19,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,071
 economynextcom | 1,102
 adalk | 1,622
 tamilmirrorlk | 2,270
-adaderanalk | 2,335
+adaderanalk | 2,337
 virakesarilk | 2,904
 dailymirrorlk | 3,010
 adaderanasinhalalk | 3,172
@@ -26,43 +26,95 @@ adaderanasinhalalk | 3,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,485 (100.0%) of 19,487 articles have been extended.
+19,487 (100.0%) of 19,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### இன்று மழை அல்லது இடியுடன் கூடிய மழை
+### Electricity sector reforms gazetted, to be tabled in parliament
+
+*2024-04-18 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98695/electricity-sector-reforms-gazetted-to-be-tabled-in-parliament-) · `en`
+
+The proposed electricity sector reforms have been published in the government gazette on Wednesday (17), as the ‘Sri Lanka Electricity Bill’.
+
+Posting on ‘X’ (formerly Twitter), Minister of Power and Energy Kanchana Wijesekara said that accordingly the Bill will be presented to the Parliament in the next sitting week.
+
+Meanwhile, the amendments suggested by the stakeholders in January have been drafted in to the revised Bill, according to the minister.
+
+Wijesekara also mentioned that the public will have two weeks from the day of presenting the Bill to the Parliament to challenge its legality in the Supreme Court.
+
+◼️
+
+[Data](articles/b53cc6cb.json)
+
+---
+
+### Two women found dead under suspicious circumstances inside house in Kalutara
+
+*2024-04-18 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98694/two-women-found-dead-under-suspicious-circumstances-inside-house-in-kalutara) · `en`
+
+The bodies of two women who had died under suspicious circumstances have been found inside a house in Isuru Uyana area of the Kalutara-South police division.
+
+The Police Media Division stated that the Kalutara-South Police had received a notification from the 119 Police Information Center that two women who were residing in a house in the area had not been seen for several days and that there was a stench emanating from the vicinity of the house on Wednesday (April 17).
+
+Accordingly, a group of police officers had attended to the relevant location and inspected, whereas they found the house was locked.
+
+Later, the police officers had noticed the bodies of two women lying on the floor, inside the house through the window.
+
+Based on the information obtained from the Grama Niladhari officer, it has been revealed that the two women in question were aged 65 and 79 years.
+
+The magistrate’s inquests of the bodies are scheduled to be held today (18).
+
+◼️
+
+[Data](articles/7b74a096.json)
+
+---
+
+### Today is the rain or thunderstorm
 
 *2024-04-18 09:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-அல்லது-இடியுடன்-கூடிய-மழை/175-336063) · `ta`
 
-மேல், சப்ரகமுவ மாகாணங்கள் மற்றும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology predicts widespread showers or thunderstorms in Western, Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm, with potential for rain or thunderstorms in the evening or night in the Mannar district. Morning snowfall is expected in some areas. Public advised to take precautions against heavy winds and lightning.
 
-அத்துடன் வடமத்திய, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் மன்னார் மாவட்டத்திலும் மாலை அல்லது இரவில் ஒரு சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என அந்த திணைக்களம் அறிக்கை ஒன்றை வௌியிட்டு தெரிவித்துள்ளது.
+🟩
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை நிலவும்.
+The Department of Meteorology has predicted widespread showers or thunderstorms in the Western, Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+The department said that rain or thunderstorms could occur in the evening or night in the Mannar district and in the Mannar district.
+
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there will be snowfall in the morning.
+
+The Department of Meteorology has requested the general public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/852f270a.json)
 
+[Extended Data](ext_articles/852f270a.ext.json)
+
 ---
 
-### විදුලිබල ප්‍රතිසංස්කරණ පනත් කෙටුම්පත ගැසට් කෙරේ
+### Power and Energy Bill gazetted
 
 *2024-04-18 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195747) · `si`
 
-විදුලිබල ප්‍රතිසංස්කරණ සංශෝධිත පනත් කෙටුම්පතට අදාළ ගැසට් පත්‍රය නිකුත් කර තිබේ.
+The revised Power and Energy Bill has been gazetted and will be presented in Parliament next week by Minister Kanchana Wijesekara.
 
-x ගිණුමේ සටහනක් තබමින් විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා විසින් ඒ බව සඳහන් කර ඇත.
+🟩
 
-එය ඉදිරි සතිය තුළ පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව ද අමාත්‍යවරයා සඳහන් කර තිබේ.
+The gazette for the revised Bill has been issued to the revised Bill.
+
+The Minister of Power and Energy Kanchana Wijesekara has stated that a note of the account.
+
+The Minister has said that it is to be produced in parliament next week.
 
 ◼️
 
 [Data](articles/3dc2a72d.json)
+
+[Extended Data](ext_articles/3dc2a72d.ext.json)
 
 ---
 
@@ -2147,45 +2199,5 @@ Prior to the post mortem, Mrs. Kalutara Chief Magistrate Nathira Hemamali Hamfad
 [Data](articles/3393b196.json)
 
 [Extended Data](ext_articles/3393b196.ext.json)
-
----
-
-### CID summons Fr. Cyril Gamini Fernando
-
-*2024-04-17 17:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-summons-Fr-Cyril-Gamini-Fernando/108-280846) · `en`
-
-Colombo, April 17 (Daily Mirror) - Member of the Communications Committee of the Archdiocese of Colombo Fr. Cyril Gamini Fernando has been summoned by the CID for  questioning on Friday, April 19.
-
-Fr. Fernando who is also the editor of the Sinhalese Catholic Weekly Gnanartha Pradeepya said he has been summoned by the CID as they believe he is aware of certain details on the Easter Sunday attacks.
-
-Fr. Fernando was summoned by the CID earlier on November 3 to 8 2021. He obtained a stay order against a possible arrest during that year.
-
-◼️
-
-[Data](articles/4c510904.json)
-
-[Extended Data](ext_articles/4c510904.ext.json)
-
----
-
-### Cyril Gamini summoned father CID
-
-*2024-04-17 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195727) · `si`
-
-Cyril Gamini Fernando, summoned by CID, to review Passover attack matter.
-
-🟩
-
-The Hon. Cyril Gamini Fernando has been called back to the Criminal Investigation Department.
-
-Cyril Gamini Fernando has been summoned to review the matter with regard to the Passover attack.
-
-Accordingly, the Criminal Investigation Department has informed the CID at 10 am on Friday, 19th April.
-
-◼️
-
-[Data](articles/6e5fc7d9.json)
-
-[Extended Data](ext_articles/6e5fc7d9.ext.json)
 
 ---

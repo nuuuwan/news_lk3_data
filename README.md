@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 06:17:33**
+As of **2024-04-18 06:55:18**
 
 ## Newspaper Stats
 
-*Scraped **19,457** Articles*
+*Scraped **19,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,099
 adalk | 1,620
-tamilmirrorlk | 2,264
+tamilmirrorlk | 2,266
 adaderanalk | 2,333
 virakesarilk | 2,903
 dailymirrorlk | 3,003
-adaderanasinhalalk | 3,164
+adaderanasinhalalk | 3,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,446 (99.9%) of 19,457 articles have been extended.
+19,453 (100.0%) of 19,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### අද කාලගුණය
+
+*2024-04-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195739) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව 2න් පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+◼️
+
+[Data](articles/6bf62c9e.json)
+
+---
+
+### கப்பல் விபத்து: 21 இலங்கை பணியாளர்கள் மீட்பு
+
+*2024-04-18 06:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-விபத்து-21-இலங்கை-பணியாளர்கள்-மீட்பு/175-336060) · `ta`
+
+ஓமன் வளைகுடாவில் ஏற்பட்ட புயலில் சிக்கி விபத்திற்குள்ளான கப்பலில் இருந்த 21 இலங்கை பணியாளர்கள் ஈரான் படையினரால் மீட்கப்பட்டுள்ளனர்.
+
+குக் தீவுகளின் கொடியுடன் எண்ணெய் ஏற்றிச்சென்ற கப்பல், ஈரானின் தெற்கு நகரமான ஜாஸ்கில் இருந்து சுமார் 50 கிலோ மீற்றர் தூரத்தில் கவிழந்துள்ளதாக ஈரான் ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+
+கப்பல் கவிழ்ந்ததையடுத்து, மீட்புக் கப்பலொன்று அப்பகுதிக்கு அனுப்பபட்டதாகவும், 21 கப்பல் பணியாளர்கள் மீட்கப்பட்டதாகவும் ஜாஸ்க் துறைமுகங்கள் மற்றும் கடல்சார் நிர்வாகத்தின் பணிப்பாளர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/eb5c5a3e.json)
+
+---
+
+### மியன்மாரில் இலங்கையர்களுக்கு பொது மன்னிப்பு
+
+*2024-04-18 05:42:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மாரில்-இலங்கையர்களுக்கு-பொது-மன்னிப்பு/175-336058) · `ta`
+
+மியன்மாரில் தடுத்து வைக்கப்பட்டுள்ள 15 இலங்கை மீனவர்களுக்கு  அந்நாட்டின் பொது மன்னிப்பு தினத்தையொட்டி பொது மன்னிப்பு வழங்கப்பட்டுள்ளது.
+
+மியன்மார் கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 15 இலங்கை மீனவர்கள் கடந்த டிசம்பர் 2ஆம் திகதி கைது செய்யப்பட்டனர்.
+
+இந்த நிலையில், குறித்த இலங்கை மீனவர்களுக்கு பொது மன்னிப்பு வழங்குமாறு மியன்மார் அரசாங்கத்திடம் கோரிக்கை விடுக்கப்பட்டிருந்தது. இருநாடுகளுக்கும் இடையிலான நட்புறவின் அடிப்படையில் அந்நாட்டு பிரதமர் பொது மன்னிப்பு வழங்கியுள்ளதாக மியன்மாருக்கான இலங்கை தூதுவர் ஜானக பண்டார தெரிவித்துள்ளார்.
+
+விடுவிக்கப்பட்டவர்கள் இன்னும் சில நாட்களில் இலங்கைக்கு திரும்புவதற்கான ஏற்பாடுகள் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/31472a6c.json)
+
+---
 
 ### Invitation to Hirunika
 
@@ -778,6 +824,8 @@ This initiative underscores Seylan Bank’s dedication to supporting the aspirat
 
 [Data](articles/6e142f1e.json)
 
+[Extended Data](ext_articles/6e142f1e.ext.json)
+
 ---
 
 ### Govt.’s visa announcement gives hotel sector shares a boost
@@ -791,6 +839,8 @@ Yesterday the stock market kicked off on a negative sentiment but later bounced 
 ...
 
 [Data](articles/cef8c197.json)
+
+[Extended Data](ext_articles/cef8c197.ext.json)
 
 ---
 
@@ -910,6 +960,8 @@ With a special emphasis on diversity, leadership, and skill-building, NatCon 202
 
 [Data](articles/95064f2b.json)
 
+[Extended Data](ext_articles/95064f2b.ext.json)
+
 ---
 
 ### Hapag-Lloyd Lanka continues triumph in customer excellence
@@ -925,6 +977,8 @@ The Institute of Chartered Shipbrokers (ICS) (UK) founded in 1911 and received t
 ...
 
 [Data](articles/f3478643.json)
+
+[Extended Data](ext_articles/f3478643.ext.json)
 
 ---
 
@@ -2099,71 +2153,5 @@ In this case, the Myanmar military has reported that Aung San Suu Kyi has been t
 [Data](articles/8e03dc93.json)
 
 [Extended Data](ext_articles/8e03dc93.ext.json)
-
----
-
-### Sri Lanka Parliamentary groups call for sensitivity training for staff at public places
-
-*2024-04-17 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-groups-call-for-sensitivity-training-for-staff-at-public-places-158865/) · `en`
-
-ECONOMYNEXT – Two parliamentary groups have called for sensitivity training for staff at public spaces after a woman with disabilities was harassed at a government office, adding that the Government is obliged to ensure persons with disabilities have comfortable access to all public buildings.
-
-“We strongly condemn the incident that took place on 5th April 2024 at the Sethsiripaya where a woman with disabilities was obstructed from utilising her transportation services to leave the premises,” the Women Parliamentarians’ Caucus (WPC) and the Parliamentary Caucus for the Inclusion of Persons with Disabilities (PCIPD) said in a joint statement.
-
-“It has been brought to our notice that the language used by the relevant Security Officers has been highly insensitive, disrespectful and hurtful.”
-
-The two groups strongly urged “that the staff of Sethsiripaya (and other public spaces) be appropriately sensitised and informed about the rights of persons with disabilities.”
-
-...
-
-[Data](articles/b3145643.json)
-
-[Extended Data](ext_articles/b3145643.ext.json)
-
----
-
-### Exemption
-
-*2024-04-17 14:24:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகைக்கும்-கணவனுக்கும்-விளக்கமறியல்-நீடிப்பு/175-336040) · `ta`
-
-Manjul Ratnayake, Colombo Additional Justice, orders Tamitha Abeyratne and Nelly Johnson to remain in custody until 24th, as they face allegations of defrauding Rs 30 lakh in Korea. The Criminal Investigation Department is extending their interrogation.
-
-🟩
-
-Colombo Additional Justice Manjul Ratnayake on Wednesday (17) has been ordered to continue to be remanded until the 24th of this month, the famous actress Tamitha Abeyratne and her husband, Nelly Johnson, who have been arrested and interrogated for allegedly defrauding Rs 30 lakh in Korea.
-
-The Magistrate has ordered the Criminal Investigation Department to extend their interrogation.The Criminal Investigation Department said that investigations into the suspects are ongoing.
-
-◼️
-
-[Data](articles/8aa0f3a5.json)
-
-[Extended Data](ext_articles/8aa0f3a5.ext.json)
-
----
-
-### Court orders courts who distorted the story
-
-*2024-04-17 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195720) · `si`
-
-A court ordered the arrest of a suspect accused of distorting a song by Venerable Singer Rohana Badda, arrested by an Excise officer in Thalathuoya. The suspect was produced before the Kuliyapitiya Magistrate's Court today, with further investigations by the North Western Provincial Unit of the Computer Criminal Investigation Division underway.
-
-🟩
-
-The suspect was arrested under the distortion of a year.
-
-The suspect was accused of distorting a genius song by Venerable Singer Rohana Badda.
-
-The arrested have been arrested by an Excise officer in Thalathuoya area.
-
-The suspect was produced before the Kuliyapitiya Magistrate's Court today (17).
-
-The North Western Provincial Unit of the Computer Criminal Investigation Division is conducting further investigations.
-
-◼️
-
-[Data](articles/48d4341f.json)
-
-[Extended Data](ext_articles/48d4341f.ext.json)
 
 ---

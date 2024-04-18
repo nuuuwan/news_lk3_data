@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 13:03:32**
+As of **2024-04-18 13:18:38**
 
 ## Newspaper Stats
 
-*Scraped **19,535** Articles*
+*Scraped **19,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,31 @@ economynextcom | 1,108
 adalk | 1,626
 tamilmirrorlk | 2,279
 adaderanalk | 2,344
-virakesarilk | 2,910
+virakesarilk | 2,912
 dailymirrorlk | 3,015
-adaderanasinhalalk | 3,180
+adaderanasinhalalk | 3,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,534 (100.0%) of 19,535 articles have been extended.
+19,535 (100.0%) of 19,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### IMF වෙතින් තවත් සහතිකයක්
+
+*2024-04-18 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195756) · `si`
+
+ජාත්‍යන්තර ස්වෛරී බැඳුම්කරහිමියන් සමග පැවැත්වෙන සාකච්ඡා සඳහා ශ්‍රී ලංකාවට උදව් කිරීමට සුදානම් බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+
+◼️
+
+[Data](articles/5547d315.json)
+
+---
 
 ### General amnesty declared for Sri Lanka Army absentees
 
@@ -49,6 +61,36 @@ All Officers and Other Ranks who have been AWOL must obtain clearance after repo
 ...
 
 [Data](articles/1f3414ba.json)
+
+[Extended Data](ext_articles/1f3414ba.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181366) · `ta`
+
+இன்று வியாழக்கிழமை (ஏப்ரல் 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 296.9030 ஆகவும் விற்பனை விலை ரூபா 306.4145 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bfdc8f1a.json)
+
+---
+
+### யாழ்.கட்டைக்காட்டில் சட்டவிரோத மீன்பிடியில் ஈடுபட்ட படகு கைப்பற்றல்
+
+*2024-04-18 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181355) · `ta`
+
+யாழ்ப்பாணம் வடமராட்சி கிழக்கு கட்டைக்காடு கடற்பகுதியில் வெற்றிலைக்கேணி கடற்படையினர் நேற்று புதன்கிழமை (17) மேற்கொண்ட  திடீர் சுற்றிவளைப்பில் சட்டவிரோத மீன்பிடியில் ஈடுபட்ட  படகு ஒன்று  கைப்பற்றப்பட்டுள்ளது.
+
+மின் ஒளி பாய்ச்சி அனுமதியற்ற வலைகளை  பயன்படுத்தி மீன்பிடியில் ஈடுபட்டிருந்த போதே  குறித்த படகுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட நபர் கட்டைக்காட்டை சேர்ந்தவர் என்பதோடு உடமைகளுடன் மேலதிக சட்ட நடவடிக்கைக்காக யாழ்ப்பாணம் கடற்றொழில்  பரிசோதகரிடம் ஒப்படைக்கப்பட்டுள்ளதாக கடற்படை தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/248591fd.json)
 
 ---
 
@@ -2157,65 +2199,5 @@ Accordingly, the Criminal Investigation Division has been instructed to come to 
 [Data](articles/b3193811.json)
 
 [Extended Data](ext_articles/b3193811.ext.json)
-
----
-
-### Received full presidential commission report on Easter Sunday attacks: Cardinal
-
-*2024-04-17 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Received-full-presidential-commission-report-on-Easter-Sunday-attacks-Cardinal/108-280850) · `en`
-
-Colombo, April 17 (Daily Mirror) - The Catholic Church has received the remaining parts of the report submitted by the presidential commission which probed the Easter Sunday attacks, Archbishop of Colombo Cardinal Malcolm Ranjith said today.
-
-Cardinal Ranjith said the church had received it three weeks ago. “A team of lawyers are studying the report and we will come up with a statement on it once the study is completed,” he told a briefing.
-
-He said the process of declaring Easter Sunday victims as martyrs will begin on Sunday April 21 2024 when the country commemorates the fifth anniversary of the mayhem.
-
-“All names of those who perished in the explosions at the Katuwapitiya church, Kochchikade church and the Zion church will be handed over to Apostolate Nuncio ( Vatican Ambassador) during the commemoration programmes which are to be held on Sunday. The process of declaring these victims as martyrs will begin on that day,” he said.
-
-...
-
-[Data](articles/552a5643.json)
-
-[Extended Data](ext_articles/552a5643.ext.json)
-
----
-
-### Centrist suicide: Probable extinction, possible survival of SLFP and SLPP
-
-*2024-04-17 22:25:59* · [`dailyftlk`](https://www.ft.lk/columns/Centrist-suicide-Probable-extinction-possible-survival-of-SLFP-and-SLPP/4-760717) · `en`
-
-Every stable democracy needs a political and ideological centre. In Ceylon/Sri Lanka, the political Centre as distinct from the Right and Left was always identified with the Sri Lanka Freedom Party (SLFP) founded by SWRD Bandaranaike.
-
-When he crossed the floor in Parliament in 1951, leaving DS Senanayake’s UNP government he was followed by only one MP, DA Rajapaksa, Mahinda’s father.
-
-When the SLFP or a faction of it shifted Right and went into alliance with Ranil Wickremesinghe’s UNP in 2005, Mahinda continued the centrist tradition (which he sincerely thought to be ‘left’). The SLFP’s successor party the SLPP, founded with Mahinda as leader, continued the centrist tradition, however distorted and wayward, until Gotabaya’s nomination in 2019.
-
-...
-
-[Data](articles/0ad5cec0.json)
-
-[Extended Data](ext_articles/0ad5cec0.ext.json)
-
----
-
-### A flare up in the Middle East
-
-*2024-04-17 22:04:16* · [`dailyftlk`](https://www.ft.lk/opinion/A-flare-up-in-the-Middle-East/14-760715) · `en`
-
-How will our electric vehicles run and what will be the plight of the low income groups?
-
-The Middle East may flare up, what with everybody coming out with their armaments.
-
-Sri Lanka purchased oil from Iran. It is said that the refinery is designed to handle crude oil from Iran. Iran is getting involved with the Middle East tension.
-
-If that happens, where will we be? How will our electric vehicles run and what will be the plight of the low income groups?
-
-Just like the electronic camera, it was the US that manufactured the first electric car. Just like the electronic camera, the manufacturers of the electric car killed it. The product was bought by far thinking Eastern gentry.
-
-...
-
-[Data](articles/b2b62303.json)
-
-[Extended Data](ext_articles/b2b62303.ext.json)
 
 ---

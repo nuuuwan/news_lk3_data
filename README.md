@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 13:53:06**
+As of **2024-04-18 14:03:50**
 
 ## Newspaper Stats
 
-*Scraped **19,546** Articles*
+*Scraped **19,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,628
 tamilmirrorlk | 2,280
 adaderanalk | 2,345
 virakesarilk | 2,915
-dailymirrorlk | 3,016
-adaderanasinhalalk | 3,181
+dailymirrorlk | 3,017
+adaderanasinhalalk | 3,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,538 (100.0%) of 19,546 articles have been extended.
+19,546 (100.0%) of 19,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### කැනඩාවේ සිදුවු විශාලතම රන් කොල්ලය
+
+*2024-04-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195757) · `si`
+
+කැනඩාවේ සිදුවූ විශාලතම රන් කොල්ලය සම්බන්ධයෙන් සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගත් පිරිස අතරට එයාර් කැනඩා ගුවන් සේවාවේ කාර්ය මණ්ඩල සාමාජිකයින් දෙදෙනෙක් ද අයත්ය.
+
+2023 වසරේ අප්‍රේල් මාසයේදී ඔවුන් සොරකම් කර තිබුණේ එරට ටොරොන්ටෝ හි පියර්සන් ජාත්‍යන්තර ගුවන් තොටුපොළ වෙත පැමිණ විශේෂ භාණ්ඩ තොගයක්.
+
+ඒ අතරට සම්පූර්ණ බර කිලෝ 400ක් වන රන් කුට්ටි 6,600ක් සහ විදෙස් මුදල් තොගයක් අයත්ය.
+
+◼️
+
+[Data](articles/e304f1dc.json)
+
+---
 
 ### Dialog Axiata to buy Bharti Airtel’s telecom operations in Sri Lanka
 
@@ -52,19 +70,27 @@ Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated tu
 
 [Data](articles/a04adbd6.json)
 
+[Extended Data](ext_articles/a04adbd6.ext.json)
+
 ---
 
-### சுற்றுச் சூழல் பாதிப்புக்களை தெரிவிக்க  தொலைபேசி எண் அறிமுகம்!
+### Telephone number introduces to environmental impacts!
 
 *2024-04-18 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181362) · `ta`
 
-சுற்றுச்சூழல் குற்றங்கள் தொடர்பான தகவல்களைப் பெற 1997 மற்றும் 1981 என்ற தொலைபேசி எண்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.
+Telephone numbers 1997 and 1981 provide information on environmental crimes, including piercing, river erosion, and industrial waste impacts.
 
-துளையிடுதல், ஆற்றங்கரை அரிப்பு, தொழிற்சாலை கழிவுகளை இடுதல், சுற்றுச்சூழல் பாதிப்பு போன்றவற்றினால் ஏற்படும் அனைத்து பாதிப்புகள் குறித்தும் இந்த தொலைபேசி எண்களைப் பயன்படுத்தலாம் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+The telephone numbers 1997 and 1981 have been introduced to get information on environmental crimes.
+
+These telephone numbers can be used on all the impacts of piercing, river erosion, industrial waste and environmental impacts.
 
 ◼️
 
 [Data](articles/2f079cf4.json)
+
+[Extended Data](ext_articles/2f079cf4.ext.json)
 
 ---
 
@@ -84,55 +110,81 @@ The government said one of the main stumbling blocks had been that the "baseline
 
 [Data](articles/a891e8c0.json)
 
+[Extended Data](ext_articles/a891e8c0.ext.json)
+
 ---
 
-### පිටිගල ඩබල් මර්ඩ එකට තුනක් දැලේ
+### Pitigala double mercards arrested for three
 
 *2024-04-18 13:29:34* · [`adalk`](https://www.ada.lk/breaking_news/පිටිගල-ඩබල්-මර්ඩ-එකට-තුනක්-දැලේ/11-409147) · `si`
 
-නියාගම ප්‍රදේශයේ වෙළඳසැලක් තුල දී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමට අදාල වෙඩික්කරු හා පැදිකරු ප්‍රවාහනය කිරිම හා මේ ද්විත්ව මනුෂය ඝාතනයකට ආධාර අනුබල දුන්, සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත් ද්‍රවය ජාවාර කරුවෙකු වන ජයලත්  සුද්දා හා සමන් කොල්ලා යන අයගේ සමීප ගෝලයින් තිදෙනෙකු පොලිස් විශේෂ කාර්ය බලකායේ අත්අඩංගුවට ගෙන ඇති බව පිටිගල පොලීසිය කියයි.
+Pitigala Police arrested three suspects for a murder and robbery in Niyagama. They also seized three phones and a motorbike. The suspects, aged 22, 24, and 31, were linked to a local trafficker.
 
-මේ දිත්ව ඝාතනය සදහා උදව් උපකාර කළ තිදෙනා බොරලැස්ගමුව රත්නපිටියේ සිදු කළ මෙහෙයුමකදී අත්අඩංගුවට ගෙන ඇති බවත් මේ දිත්ව ඝාතනය සදහා ප්‍රයෝජනයට ගත්  ජංගම දුරකතන තුනක් හා යතුරු පැදියක්ද අත් අඩංගුවට ගෙන ඇති බවත් වැඩි දුර විමර්ශන සදහා සැකකරුවන් තිදෙනා සහ යතුරු පැදිය ජංගම දුරකතන තුන පොලිස් විශේෂ කාර්ය බලකාය මගින් සිය පොලිස් ස්ථානයට භාරදුන් බවද පිටිගල පොලීසිය කියයි.
+🟩
 
-...
+Three tests of the Police Special Task Force, who was shot dead in the Niyagama area and supported the murder of two people, Jayala Suddha and Saman Boards of the Police Special Task ForcePitigala Police say that he was arrested.
+
+Three mobile phones and a motorbike have been arrested in Ratnapura, three mobile phones and a motorbike have been arrested in Badulla, police said.Pitigala Police say that he was handed over to his police station.
+
+The three suspects arrested for busing the shopkeeper in the Niyagama police area at Pandigala at the Niyagama area at the Niyagama area at the Niyagama area at the Niyagama area at Pandigala at the Niyagama area.The Pitigala Police say that Elpitiya Kahanduwa, Thamepitiya, Thawalai have been identified as the age of 22, 24 and 31, with close contact with the Scale Liquid Factory Trafficker.
+
+◼️
 
 [Data](articles/230f3e5c.json)
 
+[Extended Data](ext_articles/230f3e5c.ext.json)
+
 ---
 
-### திருட்டு  குற்றச் செயல்களில் ஈடுபட்ட சிறுவர்கள் கைது!
+### Children arrested for theft
 
 *2024-04-18 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181349) · `ta`
 
-முகத்தை மூடி கையுறை அணிந்து வீடுகளுக்குள் சட்டவிரோதமாக உள்நுழையும்  சிறுவர் கும்பலைச் சேர்ந்த மூவரை கஹதுடுவ குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+Police arrested three teenagers from a children's gang in Kahaduduwa for stealing property, including laptops and cell phones, and selling them. The gang, which includes school-going children, used gloves for their crimes. A long-term investigation is underway.
 
-சந்தேகநபர்கள் கஹதுடுவ பிரதேசத்தைச் சேர்ந்த   13 மற்றும் 18 வயதுக்கு இடைப்பட்டவர்கள் எனவும் , பாடசாலை செல்லும் சிறுவர்களும் இந்த கும்பலில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-வீடுகளில் இருந்த மடிக்கணினிகள், பித்தளைப் பொருட்கள், கைத்தொலைபேசிகள் உள்ளிட்ட சொத்துக்கள் திருடப்பட்டு, சம வயதுடைய சிறுவர்கள் மூலம் விற்பனை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police have arrested three members of a children's gang who have been illegally logging into their homes wearing a glove and wearing gloves.
 
-இதன்படி, இந்தக் கும்பல் நீண்டகாலமாக திருட்டுச் சம்பவங்களில் ஈடுபட்டுள்ள இவர்களை பொலிஸ் காவலில் வைத்து நீண்ட நேர விசாரணைகளை மேற்கொள்ளவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The suspects are between the ages of 13 and 18 in the Kahaduduwa area and the children who go to school are included in the gang, police said.
+
+Police said the property, including laptops, brass items and cell phones in the houses, had been stolen and sold by children of equal aged children.
+
+Accordingly, the gang will be conducting a long -time investigation into the detainees of the gang.
 
 ◼️
 
 [Data](articles/d4b9cf23.json)
 
+[Extended Data](ext_articles/d4b9cf23.ext.json)
+
 ---
 
-### நடிகர் மன்சூர் அலிகான் வைத்தியசாலையில் அனுமதி : விஷம் கொடுக்கப்பட்டதாக பரபரப்பு !
+### Actor Mansoor Alikan Hospital admitted: Poisoning
 
 *2024-04-18 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181368) · `ta`
 
-நடிகர் மன்சூர் அலிகான் தேர்தல் பிரச்சாரத்தில் ஈடுபட்டுக் கொண்டிருந்தபோது உடல் நலக்குறைவு ஏற்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில்  தனக்கு விஷம் கொடுக்கப்பட்டதாக அறிக்கை வெளியிட்டுள்ளார்.
+Actor Mansoor Alikan was poisoned during his election campaign, leading to his hospitalization. He's running as an independent candidate in Vellore.
 
-மன்சூர் அலிகான் எதிர்வரும் 19 ஆம் திகதி  நடைபெறவுள்ள பாராளுமன்ற தேர்தலில் வேலூர் பாராளுமன்ற தொகுதியில் பலாப்பழ சின்னத்தில் சுயேட்சை வேட்பாளராக போட்டியிடுகிறார்.
+🟩
 
-நேற்று புதன்கிழமை (17) குடியாத்தம் பகுதியில் பரப்புரையில் ஈடுபட்டிருந்தபோது அவருக்கு திடீரென உடல்நலக்குறைவு ஏற்பட்டுள்ளது.
+Actor Mansoor Alikan has stated that he was poisoned after being admitted to the hospital for ill health while he was engaged in the election campaign.
 
-“நேற்று குடியாத்தம் சந்தையிலிருந்து திரும்பி ஒரு இடத்துல, கட்டாயப்படுத்தி, பழ ஜூஸ் குடுத்தாங்க. அதன் பிறகு, மோர் குடுத்தாங்க... குடிச்ச உடனே வண்டியில் இருந்து விழ இருந்தேன்.
+Mansur Alikan is contesting the upcoming parliamentary elections on the 19th of this month as an independent candidate in the Vellore parliamentary constituency.
 
-...
+He was suddenly ill while he was campaigning in the Gudiyatham area on Wednesday (17).
+
+“Yesterday, the settlement of the settlement and the fruit juice. After that, whey kuttanka ... Immediately after drinking, I fell from the cart.
+
+Painless pain ... Immediately after gathering to the hospital, treatmet pain. K.M for more Chennai. Dr. Balasubramanyan ICU-La Admit, this is a little bit of an ambulance to the nursing home. Poisonous breakdown, lung pain trips. It is said to be transferred to the normal ward at 2 pm today. ”
+
+The report, which has been issued to the press and the media by Mansur Alikan, by his PRO Govindaraj, has caused a stir.
+
+◼️
 
 [Data](articles/778e41d3.json)
+
+[Extended Data](ext_articles/778e41d3.ext.json)
 
 ---
 
@@ -154,15 +206,33 @@ The International Monetary Fund says it is ready to help Sri Lanka for discussio
 
 ---
 
-### இந்த கடத்தல்காரர்களிடம் சிக்காதீர்கள்
+### Don't get caught up with these kidnappers
 
 *2024-04-18 13:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-கடத்தல்காரர்களிடம்-சிக்காதீர்கள்/175-336075) · `ta`
 
-ரஷ்ய இராணுவத்தில் பணியாற்ற அனுப்புவதாக கூறி பணம் பெற்ற இருவர் கைது செய்யப்பட்டதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+Two men arrested for allegedly sending others to serve in the Russian army, according to the Criminal Investigation Department.
+
+🟩
+
+The Criminal Investigation Department said that two men were arrested for allegedly sending them to serve in the Russian army.
 
 ◼️
 
 [Data](articles/74363a00.json)
+
+[Extended Data](ext_articles/74363a00.ext.json)
+
+---
+
+### Marking the tree planting ritual...
+
+*2024-04-18 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Marking-the-tree-planting-ritual/110-280910) · `en`
+
+A Moringa tree was planted this morning to mark the tree planting ritual for the Sinhala and Tamil New Year at the Gangaramaya Temple. Indigenous Medicine State Minister Sisira Jayakody participated at the event along with Gangaramaya Deputy Incumbent Ven. Kirinde Assaji Thera. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/772435e7.json)
 
 ---
 
@@ -1004,7 +1074,7 @@ The District Court issued a complaint filed by former President Chandrika Bandar
 
 ---
 
-### Sri Lanka visa costs for SAARC countries up 167-pct with VFS Global levy?
+### Sri Lanka tourist visa fees for SAARC citizens up 167-pct with VFS Global levy?
 
 *2024-04-18 10:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-visa-costs-for-saarc-countries-up-167-pct-with-vfs-global-levy-158985/) · `en`
 
@@ -1082,19 +1152,25 @@ Officials worry that part of the volcano could collapse into the sea and cause a
 
 ---
 
-### කාන්තාවන් දෙදෙනෙක් සැකකටයුතු ලෙස මිය යයි
+### Two women dies in suspicion
 
 *2024-04-18 09:43:52* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-දෙදෙනෙක්-සැකකටයුතු-ලෙස-මිය-යයි/11-409140) · `si`
 
-කළුතර දකුණ පොලිස් වසමේ ඉසුරු උයන ප්‍ර දේශයේ නිවසක පදිංචිව සිටි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට  ප්‍රයේශයේ නිවස දිංචිව සිි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට නොමැති බවත් නිවස ආසන්නයේ දැඩි දුගදක් හමන බවත් පොලිස් හදිසි ඇමතුම් අංකයට ලැබුණ තොරතුරක් මත කළුතර දකුණ පොලීසිය විමර්ශනයක් ආරමභ කර තිබුණි.
+Two women found dead in Kalutara South Police Division. Police discovered them near a house after a few days of investigation. The deceased are 195 and 79 years old. A magisterial inquiry is scheduled for today.
 
-ඊයේ රාත්‍රි කාලයේදී පොලිස් නිලධාරීන් එම ස්ථානයට ගොස් නිවස පරීකෂා කිරීමේදී නිවසේ දොරගුලා දමා තිබී ඇති. පසුව ජනේලයකින් පරීක්ෂා කිරීමේදී කාන්තාවන් දෙදෙනෙක් බිම වැටි මියගොස් ඇති බවට නිරීක්ෂණය වී තිබේ.
+🟩
 
-මරණකාරියන් අවුරුදු 65 හා 79 වයස්වල පසුවන ඉසුරු උයන පදිංචිකාරියන් වෙයි. මෘත ශරීර පොලිස් ආරක්ෂාව යටතේ එම ස්ථානයේ තබා ඇති අතර මහේස්ත්‍රාත් පරීක්ෂණය අද දිනයේදී සිදු කිරීමට නියමිතව ඇත.
+The Kalutara South Police had conducted a few days and had been in a ticket to the house in Kalutara South Police Division and that two days were nearing nearly few days.
+
+Police officers had gone to the scene last night. After checking by a window, two women were observed to fall.
+
+Death is the 195th and 79-year-olds. The bodies are placed at that place under police protection and the magisterial inquiry is due to be held today.
 
 ◼️
 
 [Data](articles/9f8d8f1d.json)
+
+[Extended Data](ext_articles/9f8d8f1d.ext.json)
 
 ---
 
@@ -2145,51 +2221,5 @@ Athapaththu's 195 is also the highest individual women's ODI score for Sri Lanka
 [Data](articles/9204f2b7.json)
 
 [Extended Data](ext_articles/9204f2b7.ext.json)
-
----
-
-### Sri Lanka's best in Asian boxing under 22 years of age
-
-*2024-04-18 00:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181339) · `ta`
-
-Sri Lanka sends 4 boxers to Asian Boxing Tournament in Astana, Kazakhstan, from May 25-8. Team includes Umayanka Mihran, gold medalist in 52kg, Yasidu Premaratne in 60kg, Salman Faris, and Heshan Jayasinghe.
-
-🟩
-
-Four Sri Lankan fanths will participate in the Asian Boxing Tournament under the age of 22 from the 25th to May 8 this month in Astana, Kazakhstan.
-
-More than 400 boxers from over 20 Asian countries participate in the competition.
-
-In a statement issued by the Sri Lanka Boxing Association, Omar Kremlev, the president of the Saravadesa Boxing Association, Umar Kremlev, has received the air tickets for players by the efforts of Diane Gomez to send Sri Lankan players to Kazakhstan.
-
-Umayanka Mihran is the captain of the Sri Lankan team in the current national champion in the weight category (52kg) weight category.
-
-Mihran won the gold medal at the International Boxing Tournament in Malaysia and won the Best Boxer Awards at the All Ceylon Schools Sports Sports Festival and the National Championships.
-
-...
-
-[Data](articles/0804b720.json)
-
-[Extended Data](ext_articles/0804b720.ext.json)
-
----
-
-### Kachchativu – Transforming  confrontation into  cooperation
-
-*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Kachchativu-Transforming-confrontation-into-cooperation/172-280856) · `en`
-
-Katchatheevu is an uninhabited island-now in a sea of controversy-and sandwiched between India and Sri Lanka in the Palk Bay
-
-In the matter of Kachchativu too, it could have been taken before the ICJ or an Arbitration Tribunal, as in the case of the Rann of Katch dispute between India and Pakistan
-
-Article 15 of the 1982 Convention on the Law of the Sea, sets out the criteria for delimitation of the territorial sea between states with opposite or adjacent coasts
-
-In the case of India and Sri Lanka, the territorial sea in this area has been designated ‘historic waters’ and has been delimited by agreement
-
-...
-
-[Data](articles/a9048e88.json)
-
-[Extended Data](ext_articles/a9048e88.ext.json)
 
 ---

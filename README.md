@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 21:53:22**
+As of **2024-04-18 22:05:04**
 
 ## Newspaper Stats
 
-*Scraped **19,623** Articles*
+*Scraped **19,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,281
 adaderanalk | 2,354
 virakesarilk | 2,935
 dailymirrorlk | 3,030
-adaderanasinhalalk | 3,191
+adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,622 (100.0%) of 19,623 articles have been extended.
+19,623 (100.0%) of 19,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව ගොඩනඟනවා - ජනපති
+
+*2024-04-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195767) · `si`
+
+මෙරට තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව නිර්මාණය කළ හැකි බවට දැඩි විශ්වාසයක් තමා තුළ පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+නුවරඑළිය දිස්ත්‍රික්කයේ යොවුන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ තරුණ දේශපාලන නියෝජිතයන් සමඟ අද (18) නුවරඑළිය ජනාධිපති මන්දිරයේ පැවති හම්වුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළ බව ජනාධිපති මාධ්‍ය ඒකකය පවසයි.
+
+බොහෝ දෙනා අසීරු බව පැවසූ බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය යළි ගොඩනැඟීමේ අභියෝගය භාරගත් තමා වසර දෙකක් තුළදි රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ආ බව පෙන්වා දුන් ජනාධිපතිවරයා රට ඉදිරියට ගෙන යාමට අවශ්‍යව ඇත්තේ සාමුහිකත්වය පමණක් බවද කියා සිටියේය.
+
+නුවරඑළිය දිස්ත්‍රික්කය ඉහළ සංචාරක ආකර්ශනයක් දිනාගත් ප්‍රදේශයක් ලෙස සංවර්ධනය කිරීමට රජය ගෙන යන වැඩපිළිවෙළට අද ඇතැමුන් අකුල් හෙළමින් සිටින බව මෙහිදී ජනාධිපතිවරයා පෙන්වා දී තිබේ.
+
+පැරණි දේශපාලනයේ නිරතව රට සංවර්ධනය කළ නොහැකි බවත්, රටට අවශ්‍ය ආයෝජන ආකර්ශනය කර ගනිමින් රට සංවර්ධනය කිරීමට නම් සියලුදෙනා එකඟතාවයකින් කටයුතු කළයුතු බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/acdf4c79.json)
+
+---
 
 ### Suspect arrested for defrauding Belgian national over vadai and plain tea
 
@@ -51,6 +71,8 @@ During the investigations, it was revealed that the suspect is known in the area
 ...
 
 [Data](articles/7b30cc21.json)
+
+[Extended Data](ext_articles/7b30cc21.ext.json)
 
 ---
 
@@ -2285,35 +2307,5 @@ The International Organization for Migration provided logistical assistance in r
 [Data](articles/a6a74919.json)
 
 [Extended Data](ext_articles/a6a74919.ext.json)
-
----
-
-### Amnesty period for soldiers
-
-*2024-04-18 11:40:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-வீரர்களுக்கு-பொதுமன்னிப்பு-காலம்/175-336072) · `ta`
-
-An amnesty period for soldiers, from April 20 to May 20, allows those who left military service without proper holidays to legally exit. They must submit their Army ID card and a copy of their last salary to their brigade headquarters within 72 hours. This initiative aims to legally exit service without illegal proceedings.
-
-🟩
-
-The amnesty period has been declared for legal leaving military service to soldiers who have left the service without proper holidays.
-
-Public amnesty has been announced from April 20 to May 20 for the military who has not been able to perform a proper vacation and illegally out of service.
-
-During the public apology, the military headquarters said they were given the opportunity to leave their legal service and leave their legal service.
-
-Officers and soldiers who do not have a proper vacation before April 2, 2024, should be submitted to their brigade headquarters with the following documents.
-
-Following this, steps have been taken to carry out the basic permit processing of the military service within 72 hours.
-
-Army ID card (a copy of the recent police report if the military identity card is lost).
-
-Copy of the last received salary and payments (if only).
-
-...
-
-[Data](articles/db0a334c.json)
-
-[Extended Data](ext_articles/db0a334c.ext.json)
 
 ---

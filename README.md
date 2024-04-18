@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 08:34:10**
+As of **2024-04-18 08:51:31**
 
 ## Newspaper Stats
 
-*Scraped **19,479** Articles*
+*Scraped **19,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,268
 adaderanalk | 2,335
 virakesarilk | 2,903
 dailymirrorlk | 3,008
-adaderanasinhalalk | 3,170
+adaderanasinhalalk | 3,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,474 (100.0%) of 19,479 articles have been extended.
+19,479 (100.0%) of 19,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### නිවසක් තුළ කාන්තා මළ සිරුරු දෙකක්
+
+*2024-04-18 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195746) · `si`
+
+කළුතර දකුණ පොලිස් වසමේ ඉසුරු උයන ප්‍රදේශයේ නිවසක් තුළ තිබී සැකකටයුතු ලෙස මියගිය කාන්තා මළ සිරුරු දෙකක් සොයාගෙන තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (17) රාත්‍රී කාලයේ දී නිවසක පදිංචි සිටි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට නොමැති බවත් එම නිවස ආසන්නයෙන් දැඩි දුර්ගන්ධයක් හමන බවටත් 119 තොරතුරු මධ්‍යස්ථානයෙන් කළුතර දකුණ පොලිස් ස්ථානයට පණිවුඩයක් ලැබී තිබිණි.
+
+ඒ අනුව පොලිස් නිලධාරීන් එම ස්ථානයට ගොස් පරීක්ෂා කිරීමේදී නිවසේ දොරගුළු දමා තිබී ඇත.
+
+පසුව ජනේලයකින් බැලීමේ දී කාන්තාවන් දෙදෙනෙකු බිම වැටී මියගොස් සිටින බවට නිරීක්ෂණය වී ඇත.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 65ක් හා 79ක් වූ කාන්තාවන් දෙදෙනෙකු බවට ග්‍රාම නිලධාරිවරයාගෙන් ලබාගත් තොරතුරු මත අනාවරණය වී තිබේ.
+
+මෘත ශරීර පිළිබඳ මහෙස්ත්‍රාත් පරීක්ෂණ හෙට (18) සිදුකිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/fa94e0de.json)
+
+---
 
 ### Sri Lanka register highest successful run chase in women’s ODI history
 
@@ -52,25 +74,31 @@ Athapaththu’s innings was also the second highest individual score in a succes
 
 ---
 
-### තවත් මනුෂ්‍ය ඝාතනයක්
+### Another human murder
 
 *2024-04-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195745) · `si`
 
-කුරුවිට පොලිස් වසමේ කීරගල ප්‍රදේශයේ දී පුද්ගලයෙකු විසින් තවත් අයෙකුට සිදුකළ පයින් පහරදීමක් හේතුවෙන් ඝාතනයක් සිදුව තිබේ.
+A 59-year-old man in Kuruwita was murdered by a drunk person who assaulted him, leading to his death. The suspect is currently under investigation by the Kuruwita police.
 
-පොලීසිය සඳහන් කළේ, ඊයේ (17) රාත්‍රී කාලයේ එම පුද්ගලයා බිමට වැටී සිහිසුන්ව රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බවට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කළ බවය.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 59ක් වූ කීරගල, කුරුවිට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A murder had taken place due to a killy assault by a person in Kuruwita area in Kuruwita.
 
-මියගිය පුද්ගලයාගේ නිවස ඉදිරිපිට ට පැමිණි බීමත් පුද්ගලයෙකු ගිනිපෙට්ටියක් ඉල්ලා ඇති අතර, එය ලබාදීමට ප්‍රමාදවීම හේතුවෙන් බීමත් පුද්ගලයා විසින් නිවැසියන්ට පරුෂ වචනයෙන් බැන වැදී ඇත.
+Police said that the man fell into the ground and was admitted to the Ratnapura hospital yesterday (17).
 
-එවිට බීමත් පුද්ගලයා විසින් නිවෙස්හිමියාට පයින් පහරදී ඇති අතර, ඔහු බිම වැටී සිහිසුන්ව සිටිය දී රෝහල්ගත කිරීමෙන් පසු මියගොස් ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේ.
+The deceased is a 59 year old resident of the Kuruwita area.
 
-සිද්ධියට සම්බන්ධ සැකකරු පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීමට කුරුවිට පොලීසිය පරීක්ෂණ සිදුකරයි.
+A drunk person who came to the house of the deceased person has begun a facial manner, and the drunken person is giving residents to the residents.
+
+Investigations have revealed that the drunken person was hit by the Drunk Person, and he died after being unconscious and died after being unconscious.
+
+Kuruwita police are conducting further investigations to arrest him.
 
 ◼️
 
 [Data](articles/f454dc14.json)
+
+[Extended Data](ext_articles/f454dc14.ext.json)
 
 ---
 
@@ -300,23 +328,29 @@ Showers or thundershowers will occur at several places in the Western and Sabara
 
 ---
 
-### குறுந்தகவல் ஊடான மோசடி
+### Scam
 
 *2024-04-18 06:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறுந்தகவல்-ஊடான-மோசடி/175-336061) · `ta`
 
-உள்நாட்டில் அல்லது வௌிநாட்டில் இருந்து பொதிகள் கிடைத்துள்ளன என தெரிவித்து குறுந்தகவல் ஊடாக  வாடிக்கையாளர்களின் கடனட்டை தொடர்பான தகவல்களை பெறும் மோசடி குறித்து அவதானமான இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளது.
+The Postal Department warns against scams involving fraudulent debt information via SMS, carried out by fake websites and phone numbers. Investigations are underway. The department assures it does not collect credit card information.
 
-இவ்வாறான மோசடி சம்பவங்கள் தொடர்பில் விசாரணைகள் ஆரம்பித்துள்ளன என தபால் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-போலி இணையத்தளம், போலி தொலைபேசி இலக்கங்கள் மூலம் இந்த மோசடி இடம்பெறுவதாக தபால் திணைக்களம் குறிப்பிட்டுள்ளது.
+It has been advised to look at the fraudulent fraud of customers' debt information through the SMS, which has been received at home or from the house.
 
-தபால் திணைக்களத்தினை பயன்படுத்தி முன்னெடுக்கப்படும் இவ்வாறான மோசடிகளில் சிக்க வேண்டாம் என திணைக்களம் மக்களை கேட்டுக்கொண்டுள்ளது.
+Investigations have begun in connection with such frauds, the Postal Department said.
 
-தபால் திணைக்களமானது, கடன் அட்டைகள் தொடர்பில் குறுஞ்செய்திகள் மூலமாகவோ அல்லது வேறு எந்த வகையிலும் தகவல்களை பெற்றுக்கொள்வதில்லை என தபால்மா அதிபர் குறிப்பிட்டுள்ளார். (a)
+The Postal Department noted that the fraud is being carried out by fake website and fake telephone numbers.
+
+The department has asked the people not to get into such frauds using the Postal Department.
+
+The Postal Department said that the Postal Department does not receive information on credit cards or in any other way.. (A)
 
 ◼️
 
 [Data](articles/dede4d26.json)
+
+[Extended Data](ext_articles/dede4d26.ext.json)
 
 ---
 
@@ -362,19 +396,25 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 
 ---
 
-### பாலித்த தெவரப்பெருமவின் உடல் நாளை நல்லடக்கம்
+### The body of Palitha Thevarapperuma tomorrow
 
 *2024-04-18 05:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித்த-தெவரப்பெருமவின்-உடல்-நாளை-நல்லடக்கம்/175-336059) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர், காலஞ்சென்ற பாலித்த தெவரப்பெருமவின் உடல் நாளை நல்லடக்கம் செய்யப்படவுள்ளது.
+Palitha Thevarapperuma, former State Minister, died in an electrical accident in Matugama-Navaduduwa. His body will be held tomorrow.
 
-இராஜாங்க அமைச்சர் பாலித்த தெவரப்பெரும, மத்துகம - நவத்துடுவ பிரதேசத்திலுள்ள அவருக்கு சொந்தமான தோட்டத்தில் வைத்து மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+🟩
 
-மத்துகம மேலதிக நீதவான் மற்றும் களுத்துறை சட்ட வைத்திய அதிகாரி ஆகியோர், மின்சாரத் தாக்குதலுக்கு இலக்கான இடத்திற்கு சென்று விசாரணைகளை மேற்கொண்டனர். (a)
+The body of the former Minister of State, Palitha Thevarapperuma will be held tomorrow.
+
+State Minister Palitha Thevarapperuma has died in a garden belonging to Matugama - Navaduduwa.
+
+Mathugama Additional Magistrate and Kalutara Legal Officer went to the site of the electrical attack and investigated the investigation.. (A)
 
 ◼️
 
 [Data](articles/329e6b38.json)
+
+[Extended Data](ext_articles/329e6b38.ext.json)
 
 ---
 
@@ -1082,6 +1122,8 @@ The encounter between  the Fox and Crow is an ancient  tale heard by most Sri La
 
 [Data](articles/01251932.json)
 
+[Extended Data](ext_articles/01251932.ext.json)
+
 ---
 
 ### Iran rescues 21 Sri Lankan crewmen from sinking ship in Gulf of Oman
@@ -1646,21 +1688,31 @@ The body was handed over to the minister's wife at 3.30 pm after the autopsy.. R
 
 ---
 
-### එළවළු මිල තවත් පහළට
+### Vegetable prices down
 
 *2024-04-17 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-තවත්-පහළට/11-409132) · `si`
 
-තක්කාලි. අමු මිරිස් ඇතුළු බොහෝ එලවලුවර්ගවල මිල  දිගින් දිගටම පහල යාම නිස ව වගා කටයුතු සිදුකිරිමට වියදම් කල මුදලවලත් සොයා ගැනිමට නොහැකි වි තිබෙන බව ගොවිජනතාව සදහන් කරයි
+Vegetable prices, especially tomatoes and chillies, are down due to farmers' inability to cover cultivation costs. Prices in Peliyagoda's retail market have dropped, with 80kg of vegetables selling for Rs. 40 million instead of Rs. 60 million. The retail market's value has decreased from Rs. 300 million to Rs. 200 million, affecting real estate and raw material clubs. Mr. Subsena predicts a rise in vegetable sales by the 25th.
 
-සමහර ප්‍ර දේශවල තක්කාලි . රාබු  .බන්ඩක්කා  .මෑකරල්. නොකොල්.කිලෝවක් ගොවින්ගෙන් රුපියල් 15 ත් රුපියල් 20 ත් අතර මිලකට හා අමු මිරිස් කිලෝවක් රුපියල් 50 ත් 60 අතර මුදලකට  මිලදි ගනිමින් තිබෙන බව ගොවිජනතාව පෙන්වා දෙති
+🟩
 
-අද (17) දින පෑලියගොඩ එලවලු වෙළද පොල තුල බෝංචි කිලෝවක සිල්ලර මිල රුපි. 80 මෑකරල් කිලෝවක සිල්ලර මිල රුපි 40 බන්ඩක්කා කිලෝවක සිල්ලර මිල රුපි 60 නෝකොල් කිලෝවක සිල්ලර මිල රුපි 70
+Tomatoes. The prices of many eliweles, including raw chillies, the prices of farmers have not been able to find the cost of cultivation
 
-රාබු කිලෝවක සිල්ලර මිල රුපි 50 පතෝල කිලෝවක සිල්ලර මිල රුපි 100 අමු මිරිස් කිලෝවක සිල්ලර මිල රුපි 160 මාලු මිරිස් කිලෝවක සිල්ලර මිල රුපි 350 කැරට් කිලෝවක සිල්ලර මිල රුපි 200 ලීස් කිලෝවක සිල්ලර මිල රුපි 180 වම්බටු කිලෝවක සිල්ල මිල රුපි 130 බීට් කිලෝවක සිල්ලර මිල රුපි 200දෙහි කිලෝවක සිල්ලර මිල රුපි 350 වැටකොළු කිලෝවක සිල්ලර මිල රුපි 120 වශයෙන් අලෙවි වි තිබේ
+Tomatoes in some prevalence. Robberry .Bndakka.. Noose leaves the farmers that are buying a kilo of Rs 15 and Rs.
 
-...
+Retail Retail Retail Market in Peliyagoda Vegetable Marketing Today. 80 kilogram of matekaral Rs. 40 million rupees Rs. 60 Noko retail kilogram
+
+Retail Marine Retail Marine Retail 300 millions of rupees for Rs. 200 millions of rupees RsRetail Retail Retail Retail Mark Realers traced up Rs. 120
+
+Elevations of Economic Centers and Raw ClubMr. Subsena said
+
+It was said that this situation could be held until the 25th of this month, he said he would rise in the sale of vegetables and green chillies
+
+◼️
 
 [Data](articles/7d1fdc84.json)
+
+[Extended Data](ext_articles/7d1fdc84.ext.json)
 
 ---
 
@@ -2143,27 +2195,5 @@ Retail activity was seen in several LOLC companies; LOLC Holdings Plc (up at 422
 [Data](articles/1849ee5d.json)
 
 [Extended Data](ext_articles/1849ee5d.ext.json)
-
----
-
-### A warning of the weather about heating
-
-*2024-04-17 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195725) · `si`
-
-The Meteorological Department warns of increased heat in Northern, North Central, Western, Sabaragamuwa, Eastern, Southern, and Wayamba districts, focusing on the Moneragala area.
-
-🟩
-
-The Department of Meteorological Department has issued an anticipal announcement in warm weather conditions.
-
-Accordingly, the Northern, North Central, Western, Sabaragamuwa, Eastern, Southern and Wayamba, Southern and Wayamba and Wayamba and Wayamba can be increased in certain places in some places in the Moneragala district.
-
-The heat of the human body in those areas is at a level focused on the Met Department.
-
-◼️
-
-[Data](articles/bf7a7731.json)
-
-[Extended Data](ext_articles/bf7a7731.ext.json)
 
 ---

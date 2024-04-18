@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 05:56:51**
+As of **2024-04-18 06:17:33**
 
 ## Newspaper Stats
 
-*Scraped **19,446** Articles*
+*Scraped **19,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 168
 bbccomsinhala | 205
 dbsjeyarajcom | 215
 newsfirstlk | 363
-islandlk | 1,038
+islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,099
 adalk | 1,620
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,446 (100.0%) of 19,446 articles have been extended.
+19,446 (99.9%) of 19,457 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -766,6 +766,34 @@ The suspect is a friend friend friend and is a resident of Mattakkuliya.
 
 ---
 
+### Seylan Credit Cards partners with British Council to offer 0% instalment plans
+
+*2024-04-17 21:03:00* · [`islandlk`](http://island.lk/seylan-credit-cards-partners-with-british-council-to-offer-0-instalment-plans/) · `en`
+
+Seylan Cards reaffirms its dedication to empowering customers through education by announcing its partnership with the British Council. Seylan Cards has introduced exclusive 0% instalment plans for 12 months, specifically tailored for IELTS and other educational courses provided by the British Council. This initiative aims to facilitate access to quality education for individuals seeking to enhance their skills and opportunities.
+
+This initiative underscores Seylan Bank’s dedication to supporting the aspirations of the youth and facilitating access to quality education, Cardholders can now easily convert their payments into manageable interest free instalments by contacting the call centre at 011 200 888. This offer extends to a maximum conversion of Rs. 1 million and is valid for all courses conducted by the British Council until December 31.
+
+...
+
+[Data](articles/6e142f1e.json)
+
+---
+
+### Govt.’s visa announcement gives hotel sector shares a boost
+
+*2024-04-17 21:02:00* · [`islandlk`](http://island.lk/govt-s-visa-announcement-gives-hotel-sector-shares-a-boost/) · `en`
+
+The stock market bounced back yesterday as many hotel sector counters performed well and heavy buying interest was noted following the government’s announcement on issuing free visas for 50 countries to enable their bearers to enter Sri Lanka. The target is the tourism sector, stock market analysts said.
+
+Yesterday the stock market kicked off on a negative sentiment but later bounced back after suffering its highest daily loss as investors reacted negatively to the deadlock in external debt restructuring talks, while an element of profit- taking was evident too on the previous day, market analysts added.
+
+...
+
+[Data](articles/cef8c197.json)
+
+---
+
 ### Sri Lanka poised for bondholder deal by mid-May, Standard Chartered says
 
 *2024-04-17 20:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98690/sri-lanka-poised-for-bondholder-deal-by-mid-may-standard-chartered-says) · `en`
@@ -867,6 +895,36 @@ The Minister further stated that over 2000 cases have been imposed in this regar
 [Data](articles/f83748e6.json)
 
 [Extended Data](ext_articles/f83748e6.ext.json)
+
+---
+
+### ‘NatCon 2024: Shaping Tomorrow’s Leaders’ conference gears up to inspire Sri Lankan youth
+
+*2024-04-17 20:26:00* · [`islandlk`](http://island.lk/natcon-2024-shaping-tomorrows-leaders-conference-gears-up-to-inspire-sri-lankan-youth/) · `en`
+
+NatCon 2024, the most awaited youth leadership conference will take place from April 19th to April 21st, 2024, at the Hotel Sudu Araliya Polonnaruwa. This isn’t just any conference; it’s the cornerstone event for AIESEC in Sri Lanka, charting the course for leadership and growth in the year ahead.
+
+With a special emphasis on diversity, leadership, and skill-building, NatCon 2024 will bring together over 400 students from over 20 universities across Sri Lanka. And the event is open to all AIESECers, offering an unparalleled opportunity to refine ethical leadership, foster collaboration, and create positive change. Mark and Comm is its communications and PR partner.
+
+...
+
+[Data](articles/95064f2b.json)
+
+---
+
+### Hapag-Lloyd Lanka continues triumph in customer excellence
+
+*2024-04-17 20:26:00* · [`islandlk`](http://island.lk/hapag-lloyd-lanka-continues-triumph-in-customer-excellence/) · `en`
+
+Exceptional Management Team Members honoured with prestigious world prize and for dedicated service
+
+Hapag-Lloyd Lanka, a subsidiary of Aitken Spence PLC and the local representation for Hapag-Lloyd-AG- Hamburg won two Customer Service Awards for the Europe Trade and Mediterranean Trade at the recently held awards ceremony by the Institute of Chartered Shipbrokers (UK) – Sri Lanka Branch.
+
+The Institute of Chartered Shipbrokers (ICS) (UK) founded in 1911 and received the ‘Royal Charter’ in the year 1920; is fundamentally dedicated in promoting professionalism in the international maritime industry. Its worldwide acceptance affirms the ‘Institute’ as the only professional body that sets the highest standards of professional service to the shipping industry world over.
+
+...
+
+[Data](articles/f3478643.json)
 
 ---
 
@@ -2107,109 +2165,5 @@ The North Western Provincial Unit of the Computer Criminal Investigation Divisio
 [Data](articles/48d4341f.json)
 
 [Extended Data](ext_articles/48d4341f.ext.json)
-
----
-
-### Arrested for stolen 35 goats;At the hospital hospital
-
-*2024-04-17 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181295) · `ta`
-
-Two men attacked in Pudukkudiyiruppu, stole 35 goats worth 90,000, injured one, and arrested a 32-year-old from Vadapalai.
-
-🟩
-
-An incident took place on Tuesday (16) for allegedly attacking goats and stolen goats in the Pudukkudiyiruppu Mallikadivu area.
-
-Pudukkudiyiruppu police division of the Mullaitivu Pudukkudiyiruppu police division 9th Circle in the Mallikadivu area when two people were on duty in the Mallikadivu area and suddenly attacked the two men who were on duty to stole the sheep and took 35 goats worth 9 lakhs thirty thousand.
-
-One of the two victims of the attack is being admitted to the Pudukkudiyiruppu hospital after a 55 -year -old man was injured.
-
-The police have arrested a 32 -year -old family member from Vadapalai area on suspicion of informing the Pudukkudiyiruppu police.
-
-Herath, Superintendent of Police, Herath, Police Sergery (70537)A team of policemen, (105201), Laxan, Police Kostbal Driver (80425), Abayakon, were arrested.
-
-...
-
-[Data](articles/7b629aa9.json)
-
-[Extended Data](ext_articles/7b629aa9.ext.json)
-
----
-
-### Sergeant and his son arrested for assaulting a police sergeant
-
-*2024-04-17 14:07:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සැරයන්-වරයෙකුට-පහරදී-පොලිස්-ගරාජයේ-සැරයන්-සහ-ඔහුගේ-පුත්‍රයා-අත්අඩංගුවට/11-409125) · `si`
-
-A sergeant and his son were arrested for assaulting a police sergeant in Vavuniya. The son was detained, and the suspect sergeant is under investigation.
-
-🟩
-
-A sergeant who has been assaulted by the Vavuniya Police Police and his son was attached to the Vavuniya Police Police Insunature yesterday (16).
-
-According to the police, a 45-year-old man and his son had been assaulted at a group of police in the Gallewewa police area in the Gallewewa police area.
-
-The son of his Son was arrested that the man involved in the attack was a police sergeant in carrying out further investigations.
-
-A 18-year-old youth residing in the Anuradhapura Teaching Hospital, a 18 year old resident of the Anuradhapura Teaching Hospital said he was receiving treatment at the Anuradhapura Teaching Hospital.
-
-The suspect sergeant and his son were to be produced in court.
-
-◼️
-
-[Data](articles/cfba5449.json)
-
-[Extended Data](ext_articles/cfba5449.ext.json)
-
----
-
-### Theft at the Commissioner of the Nuwara Eliya Election Commission
-
-*2024-04-17 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181284) · `ta`
-
-Nuwara Eliya reported theft of gold, money, and electronics from a private hotel near the Commissioner of the Nuwara Eliya Election Commission. Thieves, who broke into residents' homes on New Year's Day, stole items including laptops and TVs. The incident was discovered when a resident returned home. Police are investigating with the Nuwara Eliya Forensic Police.
-
-🟩
-
-Nuwara Eliya has lodged a complaint at the Nuwara Eliya Police Station that many items such as gold jewelery, money and electronic equipment have been stolen when there is no one in the Commissioner of the Nuwara Eliya Election Commission.
-
-The theft took place in a private hotel provided to civil servants near the Nuwara Eliya - Udappusallawa main road.
-
-Police said that the residents of the private hotel had been stolen by the thieves who broke into their hometowns on the New Year, and had stolen many electronic devices, including gold jewelery, money and laptop and television box.
-
-The theft incident was revealed when he returned to his hometown on Wednesday (17).
-
-It is noteworthy that the Nuwara Eliya Police are conducting further investigations with the help of the Nuwara Eliya Forensic Police in connection with the incident.
-
-◼️
-
-[Data](articles/2888726d.json)
-
-[Extended Data](ext_articles/2888726d.ext.json)
-
----
-
-### Jewelry, motorcycle robbery
-
-*2024-04-17 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181293) · `ta`
-
-In Vavuniya, a motorcyclist was robbed at knifepoint with his child present, near the Passport Office. Three masked men threatened the jewelry. The Vavuniya Police are investigating.
-
-🟩
-
-In Vavuniya, the motorcyclists have been rushed to the motorcycle and robbed them with a knife on their child and robbed their motorcycle.
-
-The incident took place on Wednesday morning on the road to the Passport office in front of the Vavuniya South Zonal Education Workshop.
-
-The woman is a man who is engaged in the filing of an appointment in front of the passport office. He went to the Passport Office in front of the Vavuniya South Zonal Education Workshop for his career this morning with his child on a motorbike.
-
-While on the way, the three men who had been masked on the road were threatened with a motorcycle on the child's neck and threatened the jewelry they were wearing.
-
-The Vavuniya Police Station Criminal Investigation Division is conducting serious investigations as a complaint lodged to the Vavuniya Police Station immediately.
-
-◼️
-
-[Data](articles/44b2a9b7.json)
-
-[Extended Data](ext_articles/44b2a9b7.ext.json)
 
 ---

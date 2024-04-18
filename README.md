@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 14:33:53**
+As of **2024-04-18 14:51:36**
 
 ## Newspaper Stats
 
-*Scraped **19,550** Articles*
+*Scraped **19,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
 adalk | 1,630
-tamilmirrorlk | 2,280
+tamilmirrorlk | 2,281
 adaderanalk | 2,345
 virakesarilk | 2,915
-dailymirrorlk | 3,017
+dailymirrorlk | 3,019
 adaderanasinhalalk | 3,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,548 (100.0%) of 19,550 articles have been extended.
+19,550 (100.0%) of 19,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Hirunika noticed to appear before Court over contempt of court
+
+*2024-04-18 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-noticed-to-appear-before-Court-over-contempt-of-court/108-280914) · `en`
+
+Colombo, April 18 (Daily Mirror) - The Court of Appeal has issued notice on former Member of Parliament Hirunika Premachandra, requiring her to appear before court on May 8 in connection with a contempt of court application.
+
+The petitioner, Hisham Jamaldeen alleged that respondent Hirunika Premachandra had made a statement to the media regarding the order of the Magistrate in granting bail to him while there is an ongoing proceeding before the Magistrate's Court of Mount Lavinia.
+
+It was alleged that the conduct of the respondent is tantamount to interference with ongoing judicial proceedings and an attempt to create suspicions in the minds of the public towards the administration of justice.
+
+The petitioner is seeking an order to issue a rule under Section 10(3)(a) of the Contempt of Court, Tribunal or Institution Act No.08 of 2024.
+
+...
+
+[Data](articles/88060385.json)
+
+---
+
+### தலையை தூக்கியது டொலர்
+
+*2024-04-18 14:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையை-தூக்கியது-டொலர்/175-336080) · `ta`
+
+அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி 16 நாட்களுக்குப் பின்னர் வீழ்ச்சியடைந்துள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+
+இதன்படி, அமெரிக்க டொலர் ஒன்றின் விற்பனை விலை 305.16 ரூபாவாகவும், கொள்வனவு விலை 295.28 ரூபாவாகவும் இலங்கை மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a70ec8e0.json)
+
+---
+
+### Retired Major arrested for fraud in Russian army job scheme
+
+*2024-04-18 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Retired-Major-arrested-for-fraud-in-Russian-army-job-scheme/108-280913) · `en`
+
+Colombo, April 18 (Daily Mirror) - The Criminal Investigations Department (CID) arrested two suspects, including a retired Major of the Sri Lanka Army for fraudulently obtaining money from individuals promising employment in the Russian army.
+
+The arrest came in the wake of reports on rackets involving the trafficking of Sri Lankans for military service in Russia, all without government oversight or intervention.
+
+Earlier, it was reported that 17 Sri Lankans had returned home after fleeing military camps in Russia. It was reported that several other Sri Lankans still remain trapped in similar military camps, unable to return to the country.
+
+In March, Al Jazeera reported that hundreds of Sri Lankans are serving with the Russian military in Ukraine, with casualties among them. Many were enticed by lucrative salaries and the prospect of Russian citizenship.
+
+...
+
+[Data](articles/f9fbcd46.json)
+
+---
 
 ### The biggest gold loot in Canada
 
@@ -266,23 +316,29 @@ All Officers and Other Ranks who have been AWOL must obtain clearance after repo
 
 ---
 
-### බාල වයස්කාර නින්ජා කල්ලිය අත්අඩංගුවට
+### Minor Ninja Kalliya arrested
 
 *2024-04-18 12:45:27* · [`adalk`](https://www.ada.lk/breaking_news/බාල-වයස්කාර-නින්ජා-කල්ලිය-අත්අඩංගුවට/11-409143) · `si`
 
-නින්ජා වෙස් ගෙන පොල්ගස්ඕවිට නිවසකට ඇතුළු වී දේපළ සොරාගෙන අයිස් මත්ද්‍රව්‍ය පානයේ යෙදුණු බාල වයස්කාර කල්ලියක තිදෙනෙක් සොරා ගත් දේපළ සමග අත්අඩංගුවට ගත් බව කහතුඩුව පොලිසිය කියයි.
+Minor Ninja Kalliya, 16-18, arrested for disguising, stealing property, including a DVD player, blood testing kits, computers, and mobile phones, from a house in Polgasowita.
 
-සැකකරුවන් එලෙස සොරාගෙන තිබූ ඩිවිඩි ප්ලේයරයක් , ලේ පරීක්ෂා කරන යන්ත්‍රයක් පිත්තල භාණ්ඩ , පරිගණකයක් සහ කොටස් ජංගම දුරකථන ඇතුළු තවත් ආණ්ඩ තොගයක් පොලිසිය මගින් සොයාගෙන ඇත
+🟩
 
-නිවෙස් දෙකක් හිමි පුද්ගලයෙක් පොල්ගස්ඕවිට  ප්‍රදේශයේ නිවස වසා නුගේගොඩ නිවස වෙත  අවුරුදු දිනවලට පෙර ගිය අවස්ථාවේදී මම කල්ලියේ සාමාජිකයන් විසින් මුහුණු හා ආවරණය කරගෙන නිවසට වෙත පැමිණ දොර කඩා ඇතුළු වී මෙම දේපළ සොරාගෙන තිබූ බව පොලිසිය කියයි
+Kahathuduwa police say that the Ninja disguised and stole the property and stole the property and stole the property with three stolen property.
 
-සොරා ගත් දේපළ පොල්ගස්ඕවිට  ප්‍රදේශයේම විවිධ පුද්ගලයන් වෙත අඩු මුදලට විකුණා තිබියදී පොලිසිය මගින් සොයාගෙන ඇත
+Police have found another government consignment of DVD player, a blood testing, a blood testing, a blood testing, a blood testing, a bleat, computer and stock mobile phones
 
-අත්අඩංගුවට ගත් වයස අවුරුදු 16 17 හා 18  සැකකරුවන් තදින් අයිස් මත්ද්‍රව්‍ය පානයට ඇබ්බැහිව ඇති බවත්  කාලයක් පුරා කහතුඩුව පොලිස් වසමේ සිදුවූ සොරකම්වලට මොවුන් සම්බන්ධ දැයි ඇඟිලි සලකුණු ඔස්සේ විමර්ශන සිදුකරන බවත් පොලිසිය කියයි
+The police say that when the house was closed to the house of Polgasowita, where two homes were closed to the house of Polgasowita, I had to cover up the door and collapsed and stole the door.
+
+The stolen property found in Polgasowita where the police were selling less than different people in the area
+
+The arrested 16 17th and 18 years of age have been tightly and the suspects were tightly in the Kahathuduwa police division of Kahathuduwa police divisions.
 
 ◼️
 
 [Data](articles/704e8693.json)
+
+[Extended Data](ext_articles/704e8693.ext.json)
 
 ---
 
@@ -850,19 +906,25 @@ The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to
 
 ---
 
-### දියමත අවුරුදු උළෙලක්
+### Dissancy New Year Festival
 
 *2024-04-18 10:54:58* · [`adalk`](https://www.ada.lk/breaking_news/දියමත-අවුරුදු-උළෙලක්/11-409142) · `si`
 
-මාතලේ කොට්ඨාශ දඹුල්ල පොලිස් ජීවිතාරක්ෂක ඒකකයේ සේවයේ නියුතු වූවන්ගේ  දරුවන් දෙමාපියන්  එක්ව සංවිධානය කල දිය මත අවුරුදු උළෙලක් දඹුල්ල ඉබ්බන්කටුව ජලාශයේදී 17 දින දවස පුරා  පැවැත්විණි
+The Dissancy New Year Festival in Dambulla, featuring sports like kilping, Kottu Kalliya, and water events, was organized by the Children of the Matale division Dambulla Police on the 17th at the Dambulla Police Inspector and Matale District life advisor.
 
-දඹුල්ල මුලස්ථාන පොලිස්  පරීක්ෂක සහ මාතලේ දිස්ත්‍රික්  ජීවිතාරක්ෂක උපදේශක මහත් වරුන්ගේ   ප්‍රධානත්වයෙන් මෙම උළෙල දවස පුරාවට පැවැත්වු අතර  මෙහි  ක්‍රීඩා  සියල්ල ජලයේ පැවැත්විණි
+🟩
 
-පිහිණුම් තරග, කොට්ටාපොර ගැසීම, ජලයේ සිට කනාමුට්ටි බිදීම, ඔරු පැදීම වැනි ක්‍රීඩා  අංග රාශියක් විය.
+Children of the Matale division Dambulla Police are held on the 17th day of the Dambulla Reservoir of Dambulla.
+
+The event was held at the Dambulla Police Inspector and Matale District life advisor. All sports were held in water
+
+There were a number of sports features such as the dumping of kilping, Kottu Kalliya, Water.
 
 ◼️
 
 [Data](articles/91bf9876.json)
+
+[Extended Data](ext_articles/91bf9876.ext.json)
 
 ---
 
@@ -2177,57 +2239,5 @@ Accordingly, direction has been issued to implement the programme as soon as pos
 [Data](articles/63cca7be.json)
 
 [Extended Data](ext_articles/63cca7be.ext.json)
-
----
-
-### A US “Kaputa” (Crow) ,a  Lankan “Nariya” (Fox) and a Presidential  Election “Feast”.
-
-*2024-04-18 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83910) · `en`
-
-The encounter between  the Fox and Crow is an ancient  tale heard by most Sri Lankans in their childhood days. The crow has a vadai or kavun or piece of cheese in its beak. The crafty fox wants it and flatters the crow into thinking it  is a harmonious singer with a sweet voice. The fox entreats the crow to sing. The  foolishly vain  crow opens its mouth to sing and drops the titbit it has in its beak. The smart fox runs off with it, l eaving behind a dejected crow. This story has been made famous by singers like  MS  Fernando (Sora Gathu Keju Kaala) and AE Manoharan (Ka Kaa Kakakaka Ka Ka Ka) in their songs too.
-
-...
-
-[Data](articles/01251932.json)
-
-[Extended Data](ext_articles/01251932.ext.json)
-
----
-
-### Role of governance and importance of eradication of corruption in attracting forex inflows
-
-*2024-04-18 01:06:08* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-governance-and-importance-of-eradication-of-corruption-in-attracting-forex-inflows/4-760740) · `en`
-
-To cover up the reality, over-emphasis is placed to indicate that Sri Lankans are provided with too many subsidies and living beyond their means but a blind eye is turned to corruption and lack of governance
-
-Lack of governance and corruption is so mainstream, even after the current IMF program is implemented, such corrupt practices are continuing and this was highlighted in the Parliament as well. It’s no wonder, the implementation of the anti-corruption bill is progressing at a snail’s pace
-
-Corruption and investment have been synonymous in Sri Lanka for decades as investments paved the way for corrupt politicians and their close associates to embezzle public funds with ease. In a country where the term “governance” was used as a shield to cover corruption, hardly any room was left for transparency to play a role.
-
-...
-
-[Data](articles/1fa64666.json)
-
-[Extended Data](ext_articles/1fa64666.ext.json)
-
----
-
-### Complaint Lodged with  Illegal Assets Investigation Division that   Actress – Model Piyumi Hansamali is  Allegedly Using Range Rover vehicle (CBH 1949) Worth 100 Million Rupees that was Earlier Used by Former President Gotabaya Rajapaksa
-
-*2024-04-18 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83914) · `en`
-
-Mage Rata organization president Sanjaya Mahawatta today, lodged a complaint with the Illegal Assets Investigations Division, calling for an inquiry into model Piumi Hansamali using the Range Rover vehicle previously used  by former President Gotabaya Rajapaksa.
-
-“It is clear that an election is near and politicians tend to inject all their saved black money into the upcoming election campaigns and it has become a good time for the people who engage with money laundering activities.
-
-“Accordingly, we have some doubts on how Piumi Hansamal managed to get the Range Rover vehicle (CBH 1949) which was used by former President Gotabaya Rajapaksa.
-
-“The question arises whether the Range Rover vehicle was given to the former president or if Gotabaya has given it to Piyumi,” said Mahawatta and further alleged that the model currently resides in a super luxury apartment, owns other properties and leads an exceedingly luxurious lifestyle.
-
-...
-
-[Data](articles/d1e5876b.json)
-
-[Extended Data](ext_articles/d1e5876b.ext.json)
 
 ---

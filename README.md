@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 12:50:38**
+As of **2024-04-18 13:03:32**
 
 ## Newspaper Stats
 
-*Scraped **19,534** Articles*
+*Scraped **19,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,071
 economynextcom | 1,108
 adalk | 1,626
 tamilmirrorlk | 2,279
-adaderanalk | 2,343
+adaderanalk | 2,344
 virakesarilk | 2,910
 dailymirrorlk | 3,015
 adaderanasinhalalk | 3,180
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,531 (100.0%) of 19,534 articles have been extended.
+19,534 (100.0%) of 19,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### General amnesty declared for Sri Lanka Army absentees
+
+*2024-04-18 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98702/general-amnesty-declared-for-sri-lanka-army-absentees) · `en`
+
+The Sri Lanka Army, on the directions of the Ministry of Defence, has declared a General Amnesty for all Army absentees, enabling them to receive an official discharge from their service.
+
+General amnesty will be in force for a period of one month starting from 20 April to 20 May 2024, it said.
+
+During the officially declared general amnesty period, Army absentees have been provided with the opportunity to legally discharge from the Army, in coordination with their respective Regimental Centers.
+
+Meanwhile, this general amnesty is applicable to all Officers/ Other Ranks who have been Absent Without Leave (AWOL) prior to 02 April 2024, according to Sri Lanka Army.
+
+All Officers and Other Ranks who have been AWOL must obtain clearance after reporting to their respective Regimental Centres with the following documents, and the basic administrative process will be completed within 72 hours for a legal discharge from the Army:
+
+...
+
+[Data](articles/1f3414ba.json)
+
+---
 
 ### IMF ready to support Sri Lanka’s discussions with bondholders
 
@@ -47,6 +67,8 @@ The government said one of the main stumbling blocks had been that the “baseli
 ...
 
 [Data](articles/bf84faba.json)
+
+[Extended Data](ext_articles/bf84faba.ext.json)
 
 ---
 
@@ -68,19 +90,25 @@ Two persons who had obtained money from the people who were sent to the Russian 
 
 ---
 
-### மைத்திரிபால சிறிசேனவிற்கு தடை உத்தரவு நீடிப்பு!
+### Maithripala Sirisena extends
 
 *2024-04-18 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181358) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் பிறப்பிக்கப்பட்ட தடை உத்தரவு நீடிக்கப்பட்டுள்ளது.
+The ban on Maithripala Sirisena as Sri Lanka Freedom Party leader has been extended to May 9, following a complaint by Chandrika Bandaranaike Kumaratunga.
 
-கொழும்பு மாவட்ட நீதிமன்றத்தில் இன்று வியாழக்கிழமை (18) விசாரணைகள் மேற்கொள்ளப்பட்ட நிலையில் எதிர்வரும் மே மாதம் 09 ஆம் திகதி வரை தடை உத்தரவு  நீடிக்குமாறு  உத்தரவிடப்பட்டுள்ளது.
+🟩
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் முன்வைக்கப்பட்ட  முறைப்பாட்டின்  அடிப்படையில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The ban issued to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party has been extended.
+
+The ban has been ordered to be extended till May 9, after hearing hearing in the Colombo District Court today (18).
+
+The order has been issued on a complaint made by former President Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/c792b90f.json)
+
+[Extended Data](ext_articles/c792b90f.ext.json)
 
 ---
 
@@ -898,21 +926,27 @@ The Colombo Stock exchange opened down; the All Share Price Index was down 0.04 
 
 ---
 
-### ගිනි පෙට්ටිය ප්‍රමාදවීම නිසා මරණයක්
+### A death because of the delay of the fire box
 
 *2024-04-18 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-පෙට්ටිය-ප්‍රමාදවීම-නිසා-මරණයක්/11-409139) · `si`
 
-කුරුවිට පොලිස් වසමේ කීරගල ප්‍ර දේශයේදි පුද්ගලයෙක් විසින් තවත් පුද්ගලයෙකුට පයින් පහරදීමක් හේතුවෙන් බිමට වැටී සිහිසුන්ව රත්නපුර රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇතැයි පොලීසිය කියයි.
+A 59-year-old man was killed in Kuruwita, Kurugala, after a dispute over a box. The victim, a drunk man, was attacked by the deceased, leading to his death at Ratnapura Hospital. The suspect has fled.
 
-මරණකරු අවුරුදු 59ක් වන කීරගල පදිංචිකරුවෙක් වෙයි. ඊයේ රාත්‍රීයේදී මරණකරුගේ නිවස ඉදිරිපිටට පැමිණි බීමත් පුද්ගලයෙක් ගිනි පෙට්ටියක් ඉල්ලා තිබෙ. එය ලබාදීමට ප්‍රමාදවීම හේතුවෙන් බීමත් පුද්ගලයා නිවැසින්ට පරුෂ වචනයෙන් බැන වැදී ඇති අතර එහිදී මරණකරු විසින් එසේ නොකරන ලෙසට පවසා ඇත.
+🟩
 
-එවිට බීමත් පුද්ගලයා විසින් මරණකරුට පයින් පහරදී ඇති අතර එහිදී සිහිසුන්ව සිටි පුද්ගලයා රත්නපුර රෝහලට ඇතුළත් කරන විට මියගොස් තිබේ.
+A man was killed in an attack on another person in the Kurugala area in Kuruwita.
 
-සිද්ධියට සම්බන්ධ සැකකරු ප්‍ර දේශයෙන් පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීමට පොලීසිය පරීක්ෂණ පවසත්වයි.
+The deceased is a 59 year old Keragala. A drunk man who had come to front of the deceased last night, a drunk man asked for a box. Due to the delay, the drunken person was giving the householder to the householder and he would not do so.
+
+The drunken person was attacked by the deceased and the unconscious person has died when he was admitted to the Ratnapura Hospital.
+
+The suspect has fled the country and police are investigating him.
 
 ◼️
 
 [Data](articles/0533b044.json)
+
+[Extended Data](ext_articles/0533b044.ext.json)
 
 ---
 
@@ -2183,31 +2217,5 @@ Just like the electronic camera, it was the US that manufactured the first elect
 [Data](articles/b2b62303.json)
 
 [Extended Data](ext_articles/b2b62303.ext.json)
-
----
-
-### The body of the controlled Thewarapperuma brings home
-
-*2024-04-17 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195738) · `si`
-
-The remains of late Deputy Minister Palitha Thewarapperuma were brought home to Matugama, with a funeral scheduled for next Friday. His death sparked a large public outpouring, highlighting his significant impact.
-
-🟩
-
-The remains of the late Deputy Minister Palitha Thewarapperuma was brought to his home at Matugama night.
-
-The relatives of Mr. Thevarapperuma family stated that the funeral will be held on Friday next 19th.
-
-From the moment the death of Palitha Thevarapperuma, a large number of residents and residents met at the Kalutara Teaching Hospitals and his home.
-
-While he was still alive, he was created by another chatted topic in the country.
-
-The remains of the late Thewarapperuma's body have been raised to the house in Yadawalawatta, Matgama.
-
-◼️
-
-[Data](articles/6858c712.json)
-
-[Extended Data](ext_articles/6858c712.ext.json)
 
 ---

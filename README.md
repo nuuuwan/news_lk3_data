@@ -1,36 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 08:18:31**
+As of **2024-04-18 08:34:10**
 
 ## Newspaper Stats
 
-*Scraped **19,473** Articles*
+*Scraped **19,479** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 168
 bbccomsinhala | 205
-dbsjeyarajcom | 215
+dbsjeyarajcom | 216
 newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
-adalk | 1,620
-tamilmirrorlk | 2,266
-adaderanalk | 2,334
+adalk | 1,621
+tamilmirrorlk | 2,268
+adaderanalk | 2,335
 virakesarilk | 2,903
 dailymirrorlk | 3,008
-adaderanasinhalalk | 3,169
+adaderanasinhalalk | 3,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,473 (100.0%) of 19,473 articles have been extended.
+19,474 (100.0%) of 19,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Sri Lanka register highest successful run chase in women’s ODI history
+
+*2024-04-18 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98693/sri-lanka-register-highest-successful-run-chase-in-womens-odi-history) · `en`
+
+Chamari Athapaththu smashed the third-highest individual score in women’s ODIs to help Sri Lanka pull off the highest-ever successful run-chase in women’s ODIs.
+
+Chamari Athapaththu was at her brutal best as Sri Lanka stunned South Africa with a record run-chase in Potchefstroom to level the three-match ICC Women’s Championship ODI series and end a highly successful bilateral tour to the Rainbow Nation.
+
+Chasing 302 to win, Athapaththu led Sri Lanka’s fightback with a stunning hundred, and remained unbeaten on 195, the third-highest score in women’s ODIs, as the visitors overhauled the target with 33 balls to spare.
+
+Athapaththu’s innings was also the second highest individual score in a successful run chase in ODI cricket - both men’s and women’s - marginally behind the magnificent 201* Glenn Maxwell put together for Australia against Afghanistan at last year’s ICC Men’s Cricket World Cup.
+
+...
+
+[Data](articles/bea9203c.json)
+
+[Extended Data](ext_articles/bea9203c.ext.json)
+
+---
+
+### තවත් මනුෂ්‍ය ඝාතනයක්
+
+*2024-04-18 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195745) · `si`
+
+කුරුවිට පොලිස් වසමේ කීරගල ප්‍රදේශයේ දී පුද්ගලයෙකු විසින් තවත් අයෙකුට සිදුකළ පයින් පහරදීමක් හේතුවෙන් ඝාතනයක් සිදුව තිබේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (17) රාත්‍රී කාලයේ එම පුද්ගලයා බිමට වැටී සිහිසුන්ව රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇති බවට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කළ බවය.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 59ක් වූ කීරගල, කුරුවිට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය පුද්ගලයාගේ නිවස ඉදිරිපිට ට පැමිණි බීමත් පුද්ගලයෙකු ගිනිපෙට්ටියක් ඉල්ලා ඇති අතර, එය ලබාදීමට ප්‍රමාදවීම හේතුවෙන් බීමත් පුද්ගලයා විසින් නිවැසියන්ට පරුෂ වචනයෙන් බැන වැදී ඇත.
+
+එවිට බීමත් පුද්ගලයා විසින් නිවෙස්හිමියාට පයින් පහරදී ඇති අතර, ඔහු බිම වැටී සිහිසුන්ව සිටිය දී රෝහල්ගත කිරීමෙන් පසු මියගොස් ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+සිද්ධියට සම්බන්ධ සැකකරු පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීමට කුරුවිට පොලීසිය පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/f454dc14.json)
+
+---
 
 ### Showers expected in parts of the island
 
@@ -258,6 +300,26 @@ Showers or thundershowers will occur at several places in the Western and Sabara
 
 ---
 
+### குறுந்தகவல் ஊடான மோசடி
+
+*2024-04-18 06:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறுந்தகவல்-ஊடான-மோசடி/175-336061) · `ta`
+
+உள்நாட்டில் அல்லது வௌிநாட்டில் இருந்து பொதிகள் கிடைத்துள்ளன என தெரிவித்து குறுந்தகவல் ஊடாக  வாடிக்கையாளர்களின் கடனட்டை தொடர்பான தகவல்களை பெறும் மோசடி குறித்து அவதானமான இருக்குமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+இவ்வாறான மோசடி சம்பவங்கள் தொடர்பில் விசாரணைகள் ஆரம்பித்துள்ளன என தபால் திணைக்களம் தெரிவித்துள்ளது.
+
+போலி இணையத்தளம், போலி தொலைபேசி இலக்கங்கள் மூலம் இந்த மோசடி இடம்பெறுவதாக தபால் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+தபால் திணைக்களத்தினை பயன்படுத்தி முன்னெடுக்கப்படும் இவ்வாறான மோசடிகளில் சிக்க வேண்டாம் என திணைக்களம் மக்களை கேட்டுக்கொண்டுள்ளது.
+
+தபால் திணைக்களமானது, கடன் அட்டைகள் தொடர்பில் குறுஞ்செய்திகள் மூலமாகவோ அல்லது வேறு எந்த வகையிலும் தகவல்களை பெற்றுக்கொள்வதில்லை என தபால்மா அதிபர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/dede4d26.json)
+
+---
+
 ### Shipment: 21 Sri Lankan employees rescue
 
 *2024-04-18 06:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-விபத்து-21-இலங்கை-பணியாளர்கள்-மீட்பு/175-336060) · `ta`
@@ -297,6 +359,22 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 [Data](articles/20915742.json)
 
 [Extended Data](ext_articles/20915742.ext.json)
+
+---
+
+### பாலித்த தெவரப்பெருமவின் உடல் நாளை நல்லடக்கம்
+
+*2024-04-18 05:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித்த-தெவரப்பெருமவின்-உடல்-நாளை-நல்லடக்கம்/175-336059) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர், காலஞ்சென்ற பாலித்த தெவரப்பெருமவின் உடல் நாளை நல்லடக்கம் செய்யப்படவுள்ளது.
+
+இராஜாங்க அமைச்சர் பாலித்த தெவரப்பெரும, மத்துகம - நவத்துடுவ பிரதேசத்திலுள்ள அவருக்கு சொந்தமான தோட்டத்தில் வைத்து மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+
+மத்துகம மேலதிக நீதவான் மற்றும் களுத்துறை சட்ட வைத்திய அதிகாரி ஆகியோர், மின்சாரத் தாக்குதலுக்கு இலக்கான இடத்திற்கு சென்று விசாரணைகளை மேற்கொண்டனர். (a)
+
+◼️
+
+[Data](articles/329e6b38.json)
 
 ---
 
@@ -994,6 +1072,18 @@ The Fire Department of the Kandy Municipality is carrying out the necessary acti
 
 ---
 
+### A US “Kaputa” (Crow) ,a  Lankan “Nariya” (Fox) and a Presidential  Election “Feast”.
+
+*2024-04-17 21:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83910) · `en`
+
+The encounter between  the Fox and Crow is an ancient  tale heard by most Sri Lankans in their childhood days. The crow has a vadai or kavun or piece of cheese in its beak. The crafty fox wants it and flatters the crow into thinking it  is a harmonious singer with a sweet voice. The fox entreats the crow to sing. The  foolishly vain  crow opens its mouth to sing and drops the titbit it has in its beak. The smart fox runs off with it, l eaving behind a dejected crow. This story has been made famous by singers like  MS  Fernando (Sora Gathu Keju Kaala) and AE Manoharan (Ka Kaa Kakakaka Ka Ka Ka) in their songs too.
+
+...
+
+[Data](articles/01251932.json)
+
+---
+
 ### Iran rescues 21 Sri Lankan crewmen from sinking ship in Gulf of Oman
 
 *2024-04-17 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98691/iran-rescues-21-sri-lankan-crewmen-from-sinking-ship-in-gulf-of-oman) · `en`
@@ -1556,6 +1646,24 @@ The body was handed over to the minister's wife at 3.30 pm after the autopsy.. R
 
 ---
 
+### එළවළු මිල තවත් පහළට
+
+*2024-04-17 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-තවත්-පහළට/11-409132) · `si`
+
+තක්කාලි. අමු මිරිස් ඇතුළු බොහෝ එලවලුවර්ගවල මිල  දිගින් දිගටම පහල යාම නිස ව වගා කටයුතු සිදුකිරිමට වියදම් කල මුදලවලත් සොයා ගැනිමට නොහැකි වි තිබෙන බව ගොවිජනතාව සදහන් කරයි
+
+සමහර ප්‍ර දේශවල තක්කාලි . රාබු  .බන්ඩක්කා  .මෑකරල්. නොකොල්.කිලෝවක් ගොවින්ගෙන් රුපියල් 15 ත් රුපියල් 20 ත් අතර මිලකට හා අමු මිරිස් කිලෝවක් රුපියල් 50 ත් 60 අතර මුදලකට  මිලදි ගනිමින් තිබෙන බව ගොවිජනතාව පෙන්වා දෙති
+
+අද (17) දින පෑලියගොඩ එලවලු වෙළද පොල තුල බෝංචි කිලෝවක සිල්ලර මිල රුපි. 80 මෑකරල් කිලෝවක සිල්ලර මිල රුපි 40 බන්ඩක්කා කිලෝවක සිල්ලර මිල රුපි 60 නෝකොල් කිලෝවක සිල්ලර මිල රුපි 70
+
+රාබු කිලෝවක සිල්ලර මිල රුපි 50 පතෝල කිලෝවක සිල්ලර මිල රුපි 100 අමු මිරිස් කිලෝවක සිල්ලර මිල රුපි 160 මාලු මිරිස් කිලෝවක සිල්ලර මිල රුපි 350 කැරට් කිලෝවක සිල්ලර මිල රුපි 200 ලීස් කිලෝවක සිල්ලර මිල රුපි 180 වම්බටු කිලෝවක සිල්ල මිල රුපි 130 බීට් කිලෝවක සිල්ලර මිල රුපි 200දෙහි කිලෝවක සිල්ලර මිල රුපි 350 වැටකොළු කිලෝවක සිල්ලර මිල රුපි 120 වශයෙන් අලෙවි වි තිබේ
+
+...
+
+[Data](articles/7d1fdc84.json)
+
+---
+
 ### Debt Reorganization negotiations: Continuing Discussion for Agreement
 
 *2024-04-17 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181332) · `ta`
@@ -2057,139 +2165,5 @@ The heat of the human body in those areas is at a level focused on the Met Depar
 [Data](articles/bf7a7731.json)
 
 [Extended Data](ext_articles/bf7a7731.ext.json)
-
----
-
-### Poisonous insect bites in Jaffna
-
-*2024-04-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181310) · `ta`
-
-In Jaffna, a person died from untreated poisonous insect bites in the ear. Bitten on the 14th, pain worsened, leading to hospitalization and death on Tuesday.
-
-🟩
-
-In Jaffna, a person has died without treatment of poisonous insect bites in the lower part of the ear.
-
-On the 14th, he was bitten by a poisonous insect.Jaffna on Monday after the pain intensified. He was admitted to the teaching hospital and died on Tuesday without treatment.
-
-◼️
-
-[Data](articles/28880d99.json)
-
-[Extended Data](ext_articles/28880d99.ext.json)
-
----
-
-### Innovation
-
-*2024-04-17 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181305) · `ta`
-
-Dr. MJKM, led by Arshad Kariyapar, conducted a health inspection on Tuesday, advised by Dr. Saheela Isadheen. They visited various food establishments, inspecting for health practices, product quality, and issuing warnings. Inspectors seized inappropriate oils, cancer-causing sauces, and contaminated foods. Legal action was taken against some restaurants.
-
-🟩
-
-Sainamarudu Health Officer Dr. MJKM. The health team led by Arshad Kariyapar is carrying out.
-
-Tuesday (16) on Tuesday (16) on Tuesday (16) on Tuesday (16) on Tuesday (16) on the advice and guidance of the Director of Kalmunai Regional Health Services Dr. Saheela Isadheen, the Director of Kalmunai Regional Health ServicesThey were involved in a raid on the night.
-
-In the past, he visited regional restaurants, market, retail stores, wholesalers, small supermarkets and small supermarkets to produce health practices for food makers.He also advised the quality of products to maintain the health system and warned the restaurants that had not been noticed.
-
-...
-
-[Data](articles/344d620f.json)
-
-[Extended Data](ext_articles/344d620f.ext.json)
-
----
-
-### Top of disaster deaths in Pakistan
-
-*2024-04-17 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195724) · `si`
-
-In Pakistan, 63 people died from floods, lightning, and building collapses, with Northwestern Pakistan reporting the highest death toll, including 15 children and 5 women from building collapse. 30 of 1370 houses were damaged.
-
-🟩
-
-63 people have been killed due to the disaster situation in Pakistan.
-
-Foreign media reports that these deaths have been caused by floods, lightning and building collapses.
-
-The highest number of deaths have been reported from Northwestern Pakistan, 15 children, 5 women and 5 women have been killed due to the collapse of the building.
-
-Thirtes of 1370 houses were damaged due to the disaster situation in Northwestern Pakistan.
-
-◼️
-
-[Data](articles/f479baf9.json)
-
-[Extended Data](ext_articles/f479baf9.ext.json)
-
----
-
-### Beautiful Hikkaduwa becomes inhand
-
-*2024-04-17 15:59:17* · [`adalk`](https://www.ada.lk/breaking_news/සුන්දර-හික්කඩුව-අසුන්දර-වෙයි/11-409127) · `si`
-
-Hikkaduwa's Mount of Garbage is a significant issue, causing distress to locals and tourists. It's a longstanding problem, dating back to New Year's, affecting the coast and foreign visitors alike.
-
-🟩
-
-The garbage mountain is the Mount of Hikkaduwa, Hikkaduwa, Hikkaduwa, Hikkaduwa.
-
-They have been very difficult for the coast of the coast of the coast of the coast of the beach and the coast of foreign tourists.
-
-It is also called on the ruling from the garbage, and the residents of the area.
-
-They say that the garbage Mountaine has been since the New Year's New Year and it is a great trouble.
-
-◼️
-
-[Data](articles/4419e40f.json)
-
-[Extended Data](ext_articles/4419e40f.ext.json)
-
----
-
-### 50,000 Russian troops killed
-
-*2024-04-17 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195723) · `si`
-
-Over 50,000 Russian troops have died in Ukraine since the war began two years ago, with 27,300 casualties in the second year.
-
-🟩
-
-The number of Russian military deaths that have died in Ukraine have exceeded 50,000 deaths.
-
-Two years have passed since the commencement of the war between the two countries.
-
-According to the data data, 27,300 Russian troops have died in the second year.
-
-◼️
-
-[Data](articles/cc249e4f.json)
-
-[Extended Data](ext_articles/cc249e4f.ext.json)
-
----
-
-### Sri Lankan fishermen released from Myanmar prison on Burmese new year
-
-*2024-04-17 15:58:00* · [`economynextcom`](https://economynext.com/sri-lankan-fishermen-released-from-myanmar-prison-on-burmese-new-year-158894/) · `en`
-
-ECONOMYNEXT – A total of 15 Sri Lankan fishermen arrested in Myanmar and sentenced to 7 years of rigorous imprisonment were released today, Minister of Foreign Affairs Ali Sabry has said.
-
-“The 15 Sri Lankan fishermen taken into custody last December by Myanmar authorities sentenced to 07 years rigorous imprisonment, granted a general amnesty,” the Minister said on X (twitter).
-
-Today marks the first day of the traditional Burmese new year’s day, during which the junta government released more than 3,000 prisoners, according to CGTN, a Chinese state-run English news channel.
-
-It reports that among the released, 3,303 were Myanmar nationals, 36 “foreigners”, 13 Indonesians and 15 Sri Lankans.
-
-Sri Lanka had previously petitioned the Myanmar government for clemency on behalf of the detained Sri Lankan fishermen.
-
-...
-
-[Data](articles/79c1309a.json)
-
-[Extended Data](ext_articles/79c1309a.ext.json)
 
 ---

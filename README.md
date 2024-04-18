@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 23:53:01**
+As of **2024-04-19 00:03:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,632 (100.0%) of 19,634 articles have been extended.
+19,634 (100.0%) of 19,634 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -630,6 +630,8 @@ IHP said in a statement on Thursday April 18 that favourability estimates for ea
 
 [Data](articles/6f41bf32.json)
 
+[Extended Data](ext_articles/6f41bf32.ext.json)
+
 ---
 
 ### Teenager reported missing while bathing in Castlereagh Reservoir
@@ -795,6 +797,8 @@ The International Organization for Migration provided logistical assistance in r
 ...
 
 [Data](articles/8a20db28.json)
+
+[Extended Data](ext_articles/8a20db28.ext.json)
 
 ---
 

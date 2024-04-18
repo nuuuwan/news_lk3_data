@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 23:03:21**
+As of **2024-04-18 23:18:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,628 (100.0%) of 19,631 articles have been extended.
+19,631 (100.0%) of 19,631 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Turkey follows but quantities have declined a sharp 40% to 4 Mnkg. Iran has incr
 
 [Data](articles/e504a92e.json)
 
+[Extended Data](ext_articles/e504a92e.ext.json)
+
 ---
 
 ### Suspect arrested for price-gouging incident involving tourist in Kalutara
@@ -71,6 +73,8 @@ The arrested suspect is scheduled to be produced before the Kalutara Magistrate�
 ...
 
 [Data](articles/ae7c5b46.json)
+
+[Extended Data](ext_articles/ae7c5b46.ext.json)
 
 ---
 
@@ -416,21 +420,29 @@ The Cabinet of Ministers, the incumbent and former higher officials in the healt
 
 ---
 
-### ලාංකික තරුණියක් අඟහරු මත ජීවිතය පිළිබඳ පුහුණුවක් සඳහා සුදුසුකම් ලබයි
+### Sri Lankan girl qualifies for training on Mars
 
 *2024-04-18 18:55:43* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-තරුණියක්-අඟහරු-මත-ජීවිතය-පිළිබඳ-පුහුණුවක්-සඳහා-සුදුසුකම්-ලබයි/11-409154) · `si`
 
-එක්සත් ජනපදයේ නාසා ආයතනය අනාගතයේදී අඟහරු වෙත සිදු කරන මිනිසුන් සහිත මෙහෙයුම් සඳහා වැදගත් වන පර්යේෂණයක් වෙනුවෙන් සම්බන්ධ වන සිව් දෙනෙකුගෙන් යුත් කණ්ඩායමකට තේරී පත්වීමට ශ්‍රී ලාංකික තරුණියක වන පියුම් විජේසේකර සමත්ව ඇතැයි වාර්තා වෙයි.
+Sri Lankan Piyumsease, along with Jason Lee, Stephanie Navarro, and Sharif al-Romans, has been selected for NASA's Human EXEARCH AALOG (hera) training, simulating Mars conditions at the Ames Research Center. The training, starting May 10, aims to prepare them for future deep space operations.
 
-Human Exploration Research Analog (HERA) ලෙස නම් කර ඇති මෙම පර්යේෂණ මෙහෙයුම මගින් නාසා ආයතනයට අයත් හූස්ටන්හි පිහිටි ජොන්සන් අභ්‍යවකාශ මධ්‍යස්ථානය තුළ ඉදි කෙරෙන අඟහරුගේ පරිසරය හා සමාන වාසස්ථානයක් තුළ මෙම සිව්දෙනාට දින 45ක කාලයක් ගත කිරීමට අවස්ථාව සලසා දෙයි.
+🟩
 
-මේ වනවිට කැලිෆෝනියා විශ්වවිද්‍යාලයේ ජෛව ඉංජිනේරුවිද්‍යාව පිළිබඳව මූලික අධ්‍යාපනය හදාරමින් සිටින පියුමි නාසාහි Ames පර්යේෂණ මධ්‍යස්ථානය හා සම්බන්ධව කටයුතු කරයි.
+Sri Lanka Piyumsease has been elected to a group of four of NASA's people who are being important for the research on Mars in the future.
 
-ඇයට අමතරව ජේසන් ලී, ස්ටෙෆනි නවාරෝ සහ ෂරීෆ් අල් රොමායිති යන තිදෙනා මෙම අවස්ථාව සඳහා සුදුසුකම් ලබා තිබේ. ඔවුන් ලබන මැයි 10 වැනිදා අඟහරු හා සමාන මෙම පරිශ්‍රය වෙත ඇතුළු වන අතර, ඔවුන් නැවතත් ඉන් පිටතට පැමිණෙන්නේ, එනම් පෘථිවිය වෙත පැමිණෙන්නේ ජූනි 24 වැනිදාය.
+The four-day of the research operation has been named as Human EXEARCH AALOG (hera), the four-day of the Geeson's environment in Huston, which is built in NASA's space center.
 
-...
+Pitiyy, who is studying on biological engineering at the University of California, is working on the Ames Research Center.
+
+In addition, Jason Lee, Stephanie Navarro and Sharif al-Romans have qualified for this opportunity. They enter this premises like Mars on May 10, and they come out of it and come to the earth on June 24.
+
+NASA's aim is to resemble them to isolate, to isolate in a place, to become stuck in a place, and facing remote conditions. It is said that it is important for deep space operations in the future.
+
+◼️
 
 [Data](articles/4348e149.json)
+
+[Extended Data](ext_articles/4348e149.ext.json)
 
 ---
 

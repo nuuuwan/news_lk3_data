@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 01:18:19**
+As of **2024-04-19 01:34:23**
 
 ## Newspaper Stats
 
-*Scraped **19,639** Articles*
+*Scraped **19,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,355
 virakesarilk | 2,939
-dailymirrorlk | 3,037
+dailymirrorlk | 3,038
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,639 (100.0%) of 19,639 articles have been extended.
+19,639 (100.0%) of 19,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Grave risk of substandard medicines entering market soon
+
+*2024-04-19 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grave-risk-of-substandard-medicines-entering-market-soon/108-280946) · `en`
+
+Colombo, April 18 (Daily Mirror) - Sri Lanka is facing an imminent threat in its health sector with high chances of substandard medicines like human immunoglobulin entering the market in the near future, as the law enforcement body of the National Medicines Regulatory Authority (NMRA) has diminished to just a single officer since this week.
+
+In a shocking revelation the Daily Mirror learns that the NMRA Law Enforcement Division, which is supposed to run with a stipulated staff of at least 20 Food and Drug Inspectors attached to its head office, has been functioning with only two experienced officials for many months.
+
+This figure has diminished to one since Monday, when the Chief Food and Drug Inspector of NMRA Law Enforcement Division also went on retirement, the Daily Mirror learns.
+
+...
+
+[Data](articles/e7598e03.json)
+
+---
 
 ### Suppressing a community by denying education - EDITORIAL
 
@@ -2301,23 +2317,5 @@ The arrested 16 17th and 18 years of age have been tightly and the suspects were
 [Data](articles/704e8693.json)
 
 [Extended Data](ext_articles/704e8693.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181366) · `ta`
-
-Today's exchange rate: US $296.9030 to Rs 306.4145.
-
-🟩
-
-The US $ 296.9030 and the sales price were Rs 306.4145 based on the Central Bank's currency exchange rate today (April 18).
-
-◼️
-
-[Data](articles/bfdc8f1a.json)
-
-[Extended Data](ext_articles/bfdc8f1a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 00:03:40**
+As of **2024-04-19 00:18:23**
 
 ## Newspaper Stats
 
-*Scraped **19,634** Articles*
+*Scraped **19,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,355
-virakesarilk | 2,938
+virakesarilk | 2,939
 dailymirrorlk | 3,033
 adaderanasinhalalk | 3,192
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,634 (100.0%) of 19,634 articles have been extended.
+19,634 (100.0%) of 19,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### இளைஞர்கள் எதிர்பார்க்கும் இலங்கை கட்டியெழுப்பப்படும் - ஜனாதிபதி தெரிவிப்பு
+
+*2024-04-18 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181409) · `ta`
+
+இந்நாட்டின் இளைஞர்கள் எதிர்பார்க்கும் இலங்கையை உருவாக்க முடியும் என்ற உறுதியான நம்பிக்கை தனக்கு இருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+வீழ்ச்சியடைந்த இலங்கைப் பொருளாதாரத்தை மீளக் கட்டியெழுப்புவது கடினமானது எனப் பலரும் கூறியபோதும் அந்த சவாலை ஏற்றுக்கொண்டு, இரண்டு வருடங்களுக்குள் நாட்டின் பொருளாதாரத்தை ஸ்திரமான நிலைக்குக் கொண்டு வந்ததாகச் சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டை முன்னோக்கி நகர்த்துவதற்கு ஒற்றுமை ஒன்றே தேவையெனவும் தெரிவித்தார்.
+
+நுவரெலியா மாவட்ட இளைஞர் பாராளுமன்ற உறுப்பினர்கள் மற்றும் இளம் அரசியல் பிரதிநிதிகளுடன் வியாழக்கிழமை (18) நுவரெலியா ஜனாதிபதி மாளிகையில் இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/86690e14.json)
+
+---
 
 ### Global Week Summit of Mindfulness programme to be launched on May 3, 4
 
@@ -2303,27 +2319,5 @@ Two persons who had obtained money from the people who were sent to the Russian 
 [Data](articles/528b3130.json)
 
 [Extended Data](ext_articles/528b3130.ext.json)
-
----
-
-### Maithripala Sirisena extends
-
-*2024-04-18 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181358) · `ta`
-
-The ban on Maithripala Sirisena as Sri Lanka Freedom Party leader has been extended to May 9, following a complaint by Chandrika Bandaranaike Kumaratunga.
-
-🟩
-
-The ban issued to prevent former President Maithripala Sirisena from acting as the leader of the Sri Lanka Freedom Party has been extended.
-
-The ban has been ordered to be extended till May 9, after hearing hearing in the Colombo District Court today (18).
-
-The order has been issued on a complaint made by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/c792b90f.json)
-
-[Extended Data](ext_articles/c792b90f.ext.json)
 
 ---

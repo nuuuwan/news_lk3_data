@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 20:18:19**
+As of **2024-04-18 20:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,614** Articles*
+*Scraped **19,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,638
+adalk | 1,639
 tamilmirrorlk | 2,281
-adaderanalk | 2,353
+adaderanalk | 2,354
 virakesarilk | 2,934
 dailymirrorlk | 3,027
 adaderanasinhalalk | 3,190
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,611 (100.0%) of 19,614 articles have been extended.
+19,614 (100.0%) of 19,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Two cops including SI arrested over drug trafficking links
+
+*2024-04-18 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98712/two-cops-including-si-arrested-over-drug-trafficking-links) · `en`
+
+Two police officers including a Sub-Inspector (SI) and a Sergeant have been arrested by the Criminal Investigation Department (CID) for allegedly maintaining dealings with drug traffickers.
+
+Accordingly, a Sub-Inspector attached to Mawathagama Police Station and a Sergeant of the Doretiyawa Police Station have been arrested by the CID and are being questioned under detention, police said.
+
+◼️
+
+[Data](articles/3d4f4ec5.json)
+
+---
+
+### මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ SI  සහ සාජන් CID අත්අඩංගුවට
+
+*2024-04-18 20:00:44* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරමට-සම්බන්ධ-SI--සහ-සාජන්-CID-අත්අඩංගුවට/11-409159) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සමග සබදතා පවත්වන ලද උප පොලිස් පරීක්ෂකයෙකු සහ සැරයන්වරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිළධාරීන් කණ්ඩායමක් විසින් 2024.04.18 වන අද දින අත්අඩංගුවට ගෙන ඇත.
+
+මාවතගම පොලිස් ස්ථානය මගින් මත්ද්‍රව්‍ය ජාවාරම් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රදවා තබා සිටි සැකකරුවෙකුගෙන් සිදුකරන ලද ප්‍රශ්න කිරීම් වලදී මෙම නිළධාරීන් සම්බන්ධයෙන් කරුණු අනාවරණය වීමෙන් පසු පොලිස්පතිවරයාගේ උපදෙස් පරිදි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිළධාරීන් කණ්ඩායමක් මගින් මොවුන් අත්අඩංගුවට ගෙන ඇති බව පොලිස් ආරංචිමාර්ග සදහන් කරයි.
+
+අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂක කුරුණැගල අවට ප්‍රදේශ වලට මත්ද්‍රව්‍ය බෙදාහැරීම සිදුකරන ලබන දැනට අනාවරණය වී ඇති ඩුබායි සම්පත් නැමැත්තෙකු සමග වට්ස්ඇප් ඔස්සේ දුරකථන සබදතා පවත්වා ඇති බවට අනාවරණය වී ඇත.
+
+එසේම, පොලිස් සැරයන් මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ අත්අඩංගුවට ගෙන සිටි සැකකරුවෙකු සමග සමීප සබදතා පවත්වමින් මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ බවට අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/52a1feb8.json)
+
+---
 
 ### Sri Lankan wanted for 1991 murder in Romania arrested in Germany
 
@@ -52,19 +84,25 @@ Upon his return to Romania, the man will be incarcerated to serve the sentence.
 
 ---
 
-### මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ SI  සහ සාජන් CID අත්අඩංගුවට
+### Si and Sergeant CID arrested for drug trafficking
 
 *2024-04-18 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195765) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන් සමග සබඳතා පැවැත්වූ බවට සැකපිට පොලිස් නිලධාරීන් දෙදෙනෙක් ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+CID arrests two police officers for drug trafficking.
 
-ඒ මාවතගම පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කළ උප පොලිස් පරීක්ෂකවරයෙක් සහ දොරුටියාව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කළ සැරයන්වරයෙකි.
+🟩
 
-මෙම සැකකරුවන් තවදුරටත් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තබාගෙන ප්‍රශ්න කිරීමට නියමිත බව පොලිස් මුලස්ථානය වැඩිදුරටත් සඳහන් කරයි.
+The Criminal Investigations Department (CID) has arrested two police officers on suspicion of relations with drug dealers.
+
+A sub-inspector and a sub-inspector who was attached to that Mawathagama police station and a sergeant at the police station.
+
+The suspects are still being questioned by the CID in the CID.
 
 ◼️
 
 [Data](articles/69f23122.json)
+
+[Extended Data](ext_articles/69f23122.ext.json)
 
 ---
 
@@ -196,21 +234,27 @@ Upon reporting, they must provide essential documents including their Army ID (o
 
 ---
 
-### අයිස් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් සැකකරු පළා යයි
+### Suspect arrested with ice drugs
 
 *2024-04-18 18:31:46* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-මත්ද්‍රව්‍ය-සමග-අත්අඩංගුවට-ගත්-සැකකරු-පළා-යයි/11-409152) · `si`
 
-අයිස් මත්ද්‍රව්‍ය තොගයක් සමග අත්අඩංගුවට ගත් සැකකරුවෙකු ග්‍රෑන්ඩ්පාස්  පොලිසියේ නිලධාරීන් භාරයේ මාලිගාකන්ද  අධිකරණ භූමියට රැගෙන ආ අවස්ථාවේදී නිලධාරීන්ගේ මිදී පලා ගොස් ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+A suspect was arrested with 25 million ice drugs near Grandpass Kovil, led by SSP Sarameara Kulasekara. The victim is a 47-year-old from Avindavullahulla.
 
-මෙලෙස පලා ගොස් ඇත්තේ අවිස්සාවේල්ල ඔරුගොඩවත්ත ප්‍රදේශයේ පදිංචි 47 හැවිරිදි සැකකරුවෙකි
+🟩
 
-ඉකුත්  16 වෙනිදින  පොලිස් විශේෂ කාර්ය බළකායේ  සහකාර පොලිස් අධිකාරි සාගර කුලසේකර මහතාගේ කණ්ඩායමේ පොලිස් පරීක්ෂක එස් කේ කග්ගොඩ ආරච්චි මහතා ඇතුළු නිලධාරී කණ්ඩායමක් ගෑන්ඩ්පාස්  චොක්කලාවත්ත කෝවිලක් අසලදී අයිස් මත්ද්‍රව්‍ය  ගෑම් 25 මිලිගෑම් 690 ක් සමග සැකකරු අත්අඩංගුවට ගෙන තිබිණි
+A suspect arrested with ice narcotics with ice drugs
 
-එම සැකකරු හා අනෙකුත් සැකකරුවන් දිවා ජංගම සංචාරයේ යෙදී සිටි පොලිස්  සැරයන් වරයෙකු සහ කොස්තාපල්වරයකු විසින් මාලිගාකන්ද අධිකරණය වෙත රැගෙන අවස්ථාවේදී නිලධාරීන්ගෙන් මිදී පලා ගොස් තිබූ බව උසස් පොලිස් නිලධාරියෙක් පැවසීය
+The victim is a 47 year old resident of Avindavullahulla area
+
+Police Superintendent of Police SSP Sarameara Kulasekara, including the Superintendent of Police SSP Square, was arrested along with 25 million ice drugs near the Grandpass Kovil.
+
+The suspect and other suspects were fled by the police sergeant and a constable to the Maligakanda Court and a constable had fled to the Maligakanda Court.
 
 ◼️
 
 [Data](articles/545b0aba.json)
+
+[Extended Data](ext_articles/545b0aba.ext.json)
 
 ---
 
@@ -488,25 +532,35 @@ At the same time, decisions were taken at the meeting to take action on the cont
 
 ---
 
-### மே மாத இறுதிக்குள் வடக்கில் 60 ஆயிரம் பேருக்கு காணி உறுதி வழங்கப்படும் - வடக்கு ஆளுநர்
+### 60 thousand people in the north by the end of May - Northern Governor
 
 *2024-04-18 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181390) · `ta`
 
-வடக்கு மாகாணத்தில் காணி உறுதிப்பத்திரங்களை கைமாற்றும் நடவடிக்கை தற்காலிகமாக இடைநிறுத்தபட்டுள்ளதாக யாழ் மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் ஆளுநர் தெரிவித்துள்ளார்.
+The Northern Governor announced land assurance suspension, resettlement by year-end, and 60k people to receive land by May.
 
-காணி உறுதிப்பத்திரங்கள் வழங்கல், மீள் குடியேற்றம், புதிய வீட்டுத்திட்டம் உள்ளிட்ட விடயங்கள் தொடர்பில் வடக்கு மாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ் கூட்டத்தில் கருத்து தெரிவிக்கையில்,
+🟩
 
-இந்த வருட இறுதிக்குள் மீள் குடியேற்ற நடவடிக்கை நிறைவு செய்யப்பட வேண்டும் என ஜனாதிபதி வழங்கியுள்ள பணிப்புரைக்கு அமைய, மீள்குடியேற்ற நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருகிறது.
+The Governor said at a meeting of the Jaffna District Coordinating Committee that the land assurance has been suspended in the Northern Province.
 
-யாழ் மாவட்டத்தில் ஆயிரத்து 500 குடும்பங்களை சேர்ந்தவர்கள், நண்பர்கள் மற்றும் உறவினர்களின் வீடுகளில் தங்கியுள்ளனர். அவர்களை மீள்குடியேற்றுவது தொடர்பில் விசேட கூட்டம்  நடத்தப்பட வேண்டும்.
+Governor of the Northern Province B.. S.. M.. Charles at the meeting
 
-அத்துடன் ஏற்கனவே மீள்குடியேற்றப்பட்ட மக்களின் வீடுகளுக்கான மின்சார விநியோகம் தொடர்பில் துரித நடவடிக்கை எடுக்குமாறு துறைசார் அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளேன் .
+Resettlement measures are being carried out in accordance with the President's Workplace that the resettlement process should be completed by the end of this year.
 
-இதேவேளை, வடக்கு மாகாணத்தில் காணி உறுதிப் பத்திரங்களை கைமாற்றும் செயற்பாடுகள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+Thousands of 500 families, friends and relatives stay in the homes of Jaffna district. A special meeting should be held on resettlement.
+
+I have also advised the department officials to take immediate action on the power supply of the homes of the people who have already been resettled.
+
+Meanwhile, in the Northern Province, the operations of the landing bonds have been temporarily suspended.
+
+The land will be handed over to 60 thousand people in the Northern Province by the end of May.
+
+Discussions and plans on the housing scheme to be carried out in the Northern Province have reached its final stage.
 
 ...
 
 [Data](articles/a5f1a8c4.json)
+
+[Extended Data](ext_articles/a5f1a8c4.ext.json)
 
 ---
 
@@ -2261,43 +2315,5 @@ Indonesia's Anak Krakadav volcano erupted in 2018 and fell into the sea and caus
 [Data](articles/591f5756.json)
 
 [Extended Data](ext_articles/591f5756.ext.json)
-
----
-
-### Sri Lanka’s Dialog Axiata and Airtel unit merger given nod
-
-*2024-04-18 10:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-dialog-axiata-and-airtel-unit-merger-given-nod-159008/) · `en`
-
-ECONOMYNEXT – Dialog Axiata Group and Bharti Airtel have signed a Definitive Agreement to merge operations in Sri Lanka, Airtel announced in a stock exchange filing on the Bombay Stock Exchange.
-
-“Under this agreement, Dialog will acquire 100% of the issued shares in Airtel Lanka, in consideration of which Dialog will issue to Bharti Airtel, ordinary voting shares which will amount to 10.355% of the total issued shares of Dialog by way of a share swap.
-
-“The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted its approval for the proposed merger, underscoring its vision to advance the adoption of telecommunications services across Sri Lanka.”
-
-The trading of Dilaog Axiata shares on the Colombo Stock Exchange was temporarily halted Thursday before Dialog made its Colombo Stock Exchange filing.
-
-...
-
-[Data](articles/cd50b814.json)
-
-[Extended Data](ext_articles/cd50b814.ext.json)
-
----
-
-### Invitation to Hirunika
-
-*2024-04-18 10:55:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-அழைப்பாணை/175-336069) · `ta`
-
-The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to appear on May 8.
-
-🟩
-
-The Court of Appeal has summoned former parliamentarian Hirunika Premachandra to appear before the court on May 8.
-
-◼️
-
-[Data](articles/a0585650.json)
-
-[Extended Data](ext_articles/a0585650.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 09:03:41**
+As of **2024-04-18 09:18:26**
 
 ## Newspaper Stats
 
-*Scraped **19,480** Articles*
+*Scraped **19,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
-adalk | 1,621
-tamilmirrorlk | 2,268
+adalk | 1,622
+tamilmirrorlk | 2,269
 adaderanalk | 2,335
-virakesarilk | 2,903
-dailymirrorlk | 3,008
+virakesarilk | 2,904
+dailymirrorlk | 3,010
 adaderanasinhalalk | 3,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,480 (100.0%) of 19,480 articles have been extended.
+19,480 (100.0%) of 19,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Proposed electricity sector reforms gazetted
+
+*2024-04-18 08:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proposed-electricity-sector-reforms-gazetted/108-280886) · `en`
+
+Colombo, April 18 (Daily Mirror) - A gazette notification on the proposed electricity sector reforms was published yesterday, the Power and Energy Ministry said.
+
+Minister Kanchana Wijesekera said the Bill will be presented to Parliament in the next sitting week.
+
+He also said the amendments suggested by the stakeholders in January have been drafted into the revised Bill.
+
+Accordingly, the public will have two weeks from the day the Bill is presented to Parliament to challenge its legality before the Supreme Court.
+
+◼️
+
+[Data](articles/8cc378ff.json)
+
+---
+
+### யாழ்ப்பாணத்தில் கசிப்பினை பொதி செய்துகொண்டிருந்த பெண் கைது!
+
+*2024-04-18 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181343) · `ta`
+
+யாழ்ப்பாணத்தில் சூட்சுமமான முறையில் சட்டவிரோத மதுபானமான கசிப்பினை பொதி செய்து கொண்டிருந்த பெண்ணொருவர் நேற்று புதன்கிழமை (17) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+சுன்னாகம் தெற்கு, சுன்னாகம் பூதராயர் கோயிலடி பகுதியைச் சேர்ந்த 53 வயதுடைய பெண் ஒருவரே  இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+சுன்னாகம் பொலிஸ் நிலையத்தின் பொறுப்பதிகாரி தலைமையிலான குழுவினரின் சுற்றிவளைப்பில் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+இதன்போது சந்தேகநபரிடமிருந்து பத்தாயிரம் மில்லிலீட்டர் கசிப்பும் அதனை பொதி செய்ய பயன்படுத்திய உபகரணங்களும் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/c49c1b01.json)
+
+---
 
 ### Two female bodies in a house
 
@@ -334,6 +370,22 @@ Showers or thundershowers will occur at several places in the Western and Sabara
 
 ---
 
+### கொழும்பில் நாளை ஆர்ப்பாட்டம்
+
+*2024-04-18 06:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-ஆர்ப்பாட்டம்/175-336062) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளாந்த அடிப்படை சம்பளமாக  1,700 ரூபாவினை வழங்குமாறு வலியுறுத்தி, இலங்கைத் தொழிலாளர் காங்கிரஸின் சார்பில் கொழும்பில் மாபெரும் எதிர்ப்பு ஆர்ப்பாட்டமொன்று ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+தோட்டத் தொழிலாளர்களின் சம்பள உயர்வு பேச்சுவார்த்தையை முதலாளிமார் சம்மேளனம் புறக்கணித்தமை மற்றும் சம்பள உயர்வு வழங்காமை என்பவற்றுக்கு எதிர்ப்புத் தெரிவிக்கும் வகையில் இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளதாக இலங்கைத் தொழிலாளர் காங்கிரஸின் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+கொழும்பு - கோட்டை ரயில்  நிலையத்துக்கு முன்பாக நாளை  வெள்ளிக்கிழமை காலை 9 மணி முதல் ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5c268a6f.json)
+
+---
+
 ### Scam
 
 *2024-04-18 06:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறுந்தகவல்-ஊடான-மோசடி/175-336061) · `ta`
@@ -399,6 +451,24 @@ A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lan
 [Data](articles/20915742.json)
 
 [Extended Data](ext_articles/20915742.ext.json)
+
+---
+
+### SL on alert on possible genocide allegations by Canada
+
+*2024-04-18 05:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-on-alert-on-possible-genocide-allegations-by-Canada/155-280881) · `en`
+
+Colombo, April 18 (Daily Mirror) - Sri Lanka remains on high alert as Canadian leaders may make genocide allegations next month when the country marks the war victory, according to a diplomatic source.
+
+Last year, Canadian Prime Minister Justin Trudeau's genocide accusations sparked a diplomatic dispute between the two nations. Sri Lanka responded with protests by summoning the Canadian envoy.
+
+A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lankan government is keen to ascertain whether such allegations will be repeated this time, despite previous protests by Sri Lanka.
+
+“Canadian leaders have a history of making such allegations, even though the Canadian federal government has concluded that the events in Sri Lanka during the war do not amount to genocide,” the official said.
+
+◼️
+
+[Data](articles/e9455531.json)
 
 ---
 
@@ -1722,6 +1792,20 @@ It was said that this situation could be held until the 25th of this month, he s
 
 ---
 
+### ලංවිම අනුමත නොකළ රු.මි. 417ක දීමනා ගෙවලා
+
+*2024-04-17 19:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-අනුමත-නොකළ-රු-මි--417ක-දීමනා-ගෙවලා/11-409131) · `si`
+
+ලංකා විදුලි බල මණ්ඩලයේ සේවකයන් සඳහා අමාත්‍ය මණ්ඩලය විසින් අනුමත කරන ලද දීමනා ලැයිස්තුවට ඇතුළත් කර නොතිබූ ඉන්ජිනේරු දීමනා , දිරි දීමනා, තාවකාලික දීමනා, සුදුසුකම් පදනම් කර ගත් දීමනා, ඇතුළු දීමනා සඳහා 2023 වර්ෂයේ ජනවාරි 01 වන දා සිට දෙසැම්බර් 31 දක්වා රුපියල් මිලියන 417.65ක  මුදලක් වැය කොට ඇති බව ජාතික විගණන කාර්යාලය මගින් අප්‍රේල් මස 12 වැනිදා නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+වී.එච්.සහ එස්. දිරි දීමනාව කාර්ය මණ්ඩල සම්ප්‍රේක්ෂණ සහ ජනන සැලසුම, පද්ධති පාලන, දෙමළ භාෂා වෙනත් දීමනා මණ්ඩලයේ අදාළ සේවකයන් සඳහා ගෙවා තිබූ බව ද එම විගණන වාර්තාවේ සඳහන් වේ. 2022 වර්ෂයේ ජූලි මස 01 වන දා සිට (එම මාසය සඳහා පමණක්) වෘත්තීය දීමනාවට හිමිකම් කියන නිලධාරීන් 487 දෙනෙකුට රඳවා ගැනීමේ දීමනාව වශයෙන් රුපියල් මිලියන 11.99 ක මුදලක් ගෙවා තිබේ.
+
+...
+
+[Data](articles/d881636d.json)
+
+---
+
 ### Debt Reorganization negotiations: Continuing Discussion for Agreement
 
 *2024-04-17 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181332) · `ta`
@@ -2085,121 +2169,5 @@ In its advisory, the department cautioned that heat cramps and heat exhaustion; 
 [Data](articles/ed5c2019.json)
 
 [Extended Data](ext_articles/ed5c2019.ext.json)
-
----
-
-### Yall. Two prisoners arrested for fleeing the Chavakachcheri court premises
-
-*2024-04-17 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181311) · `ta`
-
-Two prisoners, sentenced to death for theft, fled Chavakachcheri court but were arrested 30 minutes later. The magistrate sentenced them to six months in prison and an additional month for not paying a fine.
-
-🟩
-
-Prisoners who fled the Jaffna - Chavakachcheri Magistrate's Court have been arrested for about 30 minutes.
-
-A prisoner who has been sentenced to death in the case of theft has fled the court premises after being brought to the Chavakachcheri court for a case for a case.
-
-They were arrested by the police at about 30 minutes of a break and produced in court.
-
-The Chavakachcheri Magistrate, who was sentenced to six months in prison for the two fugitives, sentenced a thousand rupees of Rs.. He ruled that a further monthly imprisonment should be imprisoned for failing to pay off the penalty.
-
-◼️
-
-[Data](articles/898e969e.json)
-
-[Extended Data](ext_articles/898e969e.ext.json)
-
----
-
-### A burned bodies in a house
-
-*2024-04-17 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195726) · `si`
-
-A 48-year-old man was found dead in his house after a dispute with his wife. The Embilipitiya Magistrate and Udawalawe Police are investigating.
-
-🟩
-
-A body of a person who was killed in a man was found on a bed of a house.
-
-The deceased has been identified as a 48 year old resident of the house.
-
-The wife has also stated that he had come to the house after a dispute with his wife with his wife with his wife with his wife, with his wife, with his wife.
-
-Embilipitiya Magistrate has conducted the magisterial inquiry and Udawalawe Police are conducting further investigations.
-
-◼️
-
-[Data](articles/0e1d8e96.json)
-
-[Extended Data](ext_articles/0e1d8e96.ext.json)
-
----
-
-### Sri Lanka Treasury Bill yields down across maturities
-
-*2024-04-17 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-down-across-maturities-158910/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields were down across maturities at Wednesday’s auction with the 3-month yield moving down 7 basis points to 10.03 percent, data from the state debt office showed.
-
-The debt office sold all 30 billion rupees of 3-month bills offered.
-
-The 6-month yield fell 5 basis points to 10.22 percent, with 25 billion rupees of bills offered and 29.98 billion rupees sold.
-
-The 12-month yield dropped 4 basis points to 10.23 percent with 18.01 billion rupees of bills sold after offering 23 billion rupees. (Colombo/Apr17/2024)
-
-◼️
-
-[Data](articles/94cd150e.json)
-
-[Extended Data](ext_articles/94cd150e.ext.json)
-
----
-
-### Easter attacks: NPP vows to properly institute legal action under its govt.
-
-*2024-04-17 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98686/easter-attacks-npp-vows-to-properly-institute-legal-action-under-its-govt) · `en`
-
-The National People’s Power (NPP) says that, under its administration, proper legal action will be instituted against those implicated, either directly or indirectly, in the 2019 Easter Sunday terror attacks that killed more than 250 people and injured hundreds of others.
-
-This promise comes days ahead of the fifth anniversary of the coordinated suicide bombings which falls on April 21.
-
-In a statement, the NPP highlighted that the government has an obligation towards the victims of this heinous act while raising questions as to whether this has been properly fulfilled.
-
-The party also presented a 7-point action plan that it intends to implement under a future NPP government to serve justice to the Easter attack victims.
-
-Easter Attack - NPP Charter 2024 April by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/edeea389.json)
-
-[Extended Data](ext_articles/edeea389.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks and index heavyweights see interest
-
-*2024-04-17 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-index-heavyweights-see-interest-158905/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.33 percent, or 38.78 points, at 11,830; while the S&P SL20 Index closed up 0.61 percent, or 21.07 points, at 3,491.
-
-Turnover was at 2 billion. The banks (Rs619mn) and diversified financials (Rs244mn) sectors brought in the most value and saw a pick up after yesterday’s selling.
-
-“The market was a bit volatile today, it fell in the morning before recovering later,” market participants said.
-
-“There were mixed sentiments. Interest came into banks and index heavyweights.”
-
-Commercial Bank of Ceylon Plc was up at 105.75, John Keells Holdings Plc was up at 203.00, Lanka IOC Plc was up at 129.75, National Development Bank Plc was down at 74.10, and DFCC Bank Plc closed down at 79.10.
-
-Retail activity was seen in several LOLC companies; LOLC Holdings Plc (up at 422.50). Browns Investments Plc (flat at 5.50); LOLC Finance Plc (up at 6.00).
-
-...
-
-[Data](articles/1849ee5d.json)
-
-[Extended Data](ext_articles/1849ee5d.ext.json)
 
 ---

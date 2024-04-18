@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 00:33:48**
+As of **2024-04-19 00:48:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,635 (100.0%) of 19,639 articles have been extended.
+19,639 (100.0%) of 19,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Some of the candidates have already started mingling with students and presentin
 
 [Data](articles/532fadce.json)
 
+[Extended Data](ext_articles/532fadce.ext.json)
+
 ---
 
 ### What Netanyahu is trying to achieve by provoking Iran
@@ -59,6 +61,8 @@ Since Netanyahu became Israel’s prime minister for the first time in 1996, his
 ...
 
 [Data](articles/1c4813aa.json)
+
+[Extended Data](ext_articles/1c4813aa.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ The attacks were by Islamic militants and the aftermath of the attacks saw at le
 
 [Data](articles/57eb8a5c.json)
 
+[Extended Data](ext_articles/57eb8a5c.ext.json)
+
 ---
 
 ### 2024-04-18 (Thursday)
@@ -85,6 +91,10 @@ The attacks were by Islamic militants and the aftermath of the attacks saw at le
 ### Sri Lanka will be built to expect youth - President
 
 *2024-04-18 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181409) · `ta`
+
+President Ranil Wickremesinghe expressed confidence in Sri Lanka's youth to rebuild the economy, stating it had stabilized within two years. He met with youth MPs and representatives to discuss development projects, emphasizing unity and modernization.
+
+🟩
 
 President Ranil Wickremesinghe said he was confident that the youth of the country could create Sri Lanka.
 
@@ -1043,6 +1053,8 @@ South Asia and Africa are listed as regions that will experience the strongest i
 ◼️
 
 [Data](articles/cc5d61f6.json)
+
+[Extended Data](ext_articles/cc5d61f6.ext.json)
 
 ---
 

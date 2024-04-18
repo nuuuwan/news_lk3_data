@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 10:51:59**
+As of **2024-04-18 11:03:37**
 
 ## Newspaper Stats
 
-*Scraped **19,499** Articles*
+*Scraped **19,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
-adalk | 1,623
-tamilmirrorlk | 2,273
+adalk | 1,624
+tamilmirrorlk | 2,274
 adaderanalk | 2,339
 virakesarilk | 2,904
 dailymirrorlk | 3,011
@@ -26,27 +26,55 @@ adaderanasinhalalk | 3,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,493 (100.0%) of 19,499 articles have been extended.
+19,499 (100.0%) of 19,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### 35 ஆடுகளை களவாடியவர் கைது
+### ”சட்டமூலம் அடுத்த வாரம் சமர்ப்பிக்கப்படும்”
+
+*2024-04-18 10:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலம்-அடுத்த-வாரம்-சமர்ப்பிக்கப்படும்/175-336068) · `ta`
+
+முன்மொழியப்பட்ட மின்சாரத்துறை சீர்திருத்தங்கள் தொடர்பான வர்த்தமானி அறிவித்தல் நேற்று வெளியிடப்பட்டுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
+
+அடுத்த வாரத்தில் இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+ஜனவரி மாதம் பங்குதாரர்களால் பரிந்துரைக்கப்பட்ட திருத்தங்கள் திருத்தப்பட்ட சட்டமூலத்தில் வரைவு செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+
+அதன்படி, இந்த சட்டமூலம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட நாளிலிருந்து இரண்டு வாரங்களுக்கு உயர் நீதிமன்றத்தில் அதன் சட்டபூர்வமான தன்மையை உறுதி செய்ய பொதுமக்களுக்கு வழங்கப்படும்.
+
+◼️
+
+[Data](articles/70b7923c.json)
+
+---
+
+### 35 sheep stolen
 
 *2024-04-18 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/35-ஆடுகளை-களவாடியவர்-கைது/72-336067) · `ta`
 
-புதுக்குடியிருப்பு மல்லிகைதீவு பகுதியில் ஆட்டு காவலாளிகளை தாக்கிவிட்டு  ஆடுகளை களவாடிய குற்றச்சாட்டில்  ஒருவர் கைது செய்யப்பட்ட சம்பவம் ஒன்று புதன்கிழமை (17)  இடம்பெற்றுள்ளது.
+35 sheep stolen in Pudukkudiyiruppu. Two men attacked, one injured. Suspect, a 32-year-old from Vadapalai, arrested. Led by Superintendent of Police Herath.
 
-முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட புதுக்குடியிருப்பு 9ஆம் வட்டாரம் , மல்லிகைதீவு பகுதியில் ஆட்டு மந்தையில் இருவர் காவல் கடமையில் இருந்த போது திடீரென வந்திறங்கிய குழுவினர்  ஆடுகளை களவாடி செல்ல காவல் கடமையில் இருந்த இருவரையும் தாக்கிவிட்டு 9 இலட்சத்தி முப்பத்தையாயிரம் பெறுமதியான 35 ஆடுகளை கொண்டு சென்றுள்ளனர்.
+🟩
 
-தாக்குதலுக்கு இலக்கான இருவரில் ஒருவர் 55 வயதுடைய நபர் காயங்களுக்கு உள்ளாகிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+An incident took place on Wednesday (17) for allegedly attacking goats and stolen goats in Pudukkudiyiruppu.
 
-இதனையடுத்து குறித்த சம்பவம் தொடர்பில் புதுக்குடியிருப்பு பொலிஸாருக்கு  தெரியபடுத்தியதனையடுத்து  சந்தேகத்தின் பேரில் வற்றாப்பளை பகுதியை சேர்ந்த 32 வயதுடைய குடும்பஸ்தர் ஒருவரை கைது செய்துள்ளதுடன் 15 ஆடுகள் மீட்கப்பட்டு, ஆடுகளை கடத்தி செல்ல பயன்படுத்திய வொலிரோ கப் ரக வாகனமும்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளளது.
+Pudukkudiyiruppu police division of the Mullaitivu Pudukkudiyiruppu police division 9th Circle in the Mallikadivu area when two men were on duty in the Malligathivu area and suddenly attacked the two men who were on duty to stole the sheep and took 35 goats worth 9 lakhs thirty thousand.
+
+One of the two victims of the attack is being admitted to the Pudukkudiyiruppu hospital after a 55 -year -old man was injured.
+
+The police have arrested a 32 -year -old family member from Vadapalai area on suspicion of informing the Pudukkudiyiruppu police.
+
+The action was led by the Superintendent of Police Herath
+
+(57503) Bijaratne, (67616) Maduranga, (88509) Pradeepan, (91723) Arus, (92873) Dinkson, (105152) Raviraj, (105201) Laxan, Police Kostapal Driver (80425) Abeyakon.
 
 ...
 
 [Data](articles/bb7f3f6f.json)
+
+[Extended Data](ext_articles/bb7f3f6f.ext.json)
 
 ---
 
@@ -68,6 +96,8 @@ Earlier in March, former President Maithripala Sirisena had stirred controversy 
 
 [Data](articles/65a5af4b.json)
 
+[Extended Data](ext_articles/65a5af4b.ext.json)
+
 ---
 
 ### Indonesia issues tsunami alert after volcano erupts on remote island
@@ -86,55 +116,75 @@ Agency chief Hendra Gunawan said officials had raised the volcano alert to the h
 
 [Data](articles/a1f62c4f.json)
 
+[Extended Data](ext_articles/a1f62c4f.ext.json)
+
 ---
 
-### ඊශ්‍රායලයට දරුණු ප්‍රහාරයක්
+### Israeli attack on Israel
 
 *2024-04-18 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195750) · `si`
 
-ලෙබනනයේ හෙස්බුල්ලා සටන්කාමීන් විසින් උතුරු ඊශ්‍රායලයේ හමුදා මර්මස්ථාන කිහිපයක් වෙත දරුණු ප්‍රහාරයක් එල්ල කර තිබේ.
+Hesbuullah attacked northern Israel with missiles and drones, injuring 14 Israeli soldiers. The group claimed retaliation for an Israeli Army attack. Some injuries are serious.
 
-මිසයිල සහ ඩ්‍රෝන යොදාගෙන එම ප්‍රහාර එල්ල කර ඇති අතර ඉන් ඊශ්‍රායල හමුදා භටයින් 14 දෙනෙක් තුවාල ලබා තිබුණි.
+🟩
 
-පසුගියදා ඊශ්‍රායල හමුදා ප්‍රහාරයකින් හෙස්බුල්ලා ප්‍රධානීන් කිහිපදෙනෙක් ජීවිතක්ෂයට පත්වූ අතර ඊට ප්‍රතිචාරයක් වශයෙන් මෙම ප්‍රහාර එල්ල කළ බව හෙස්බුල්ලා සංවිධානය පැවසීය.
+Hesbuullah in Lebanullah has attacked several military centrals in northern Israel.
 
-තුවාල ලැබූ ඊශ්‍රායල භටයින් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන් ය.
+The attacks were carried out with the use of missiles and drones and 14 Israeli soldiers were injured.
+
+The Hesbuullah said that some of the Hessubulah was killed in a response to a response to the Israeli Army attack recently.
+
+Some of the injured Israeli personnel states that the condition is serious.
 
 ◼️
 
 [Data](articles/e5bfac7a.json)
 
+[Extended Data](ext_articles/e5bfac7a.ext.json)
+
 ---
 
-### கடலில் குழந்தை பிரசவம்
+### Baby delivery at sea
 
 *2024-04-18 10:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடலில்-குழந்தை-பிரசவம்/72-336066) · `ta`
 
-நயினாதீவை சேர்ந்த பெண்ணொருவருக்கு புதன்கிழமை(17)  திடீரென பிரசவ வலி ஏற்பட்டதை அடுத்து , நயினாதீவு பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A woman from Nainadivu delivered a baby at sea, requiring transfer to Jaffna Bodhana Hospital. Due to an ambulance boat malfunction, the journey was made on a public boat, during which the mother and child were safely delivered at Punguduthivu Hospital.
 
-அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றுமாறு வைத்தியர் பரிந்துரைத்தார். அதனை அடுத்து போதனா வைத்தியசாலைக்கு கொண்டு செல்வதற்கு, அம்புலன்ஸ் படகு தற்போது சேவையில் ஈடுபடாததால் , பொதுமக்கள் போக்குவரத்து படகில் ஏற்றி குறிகாட்டுவான் நோக்கி அழைத்து வந்துள்ளனர்.
+🟩
 
-அந்நிலையில் கடலில் படகு பயணித்துக்கொண்டிருந்த வேளை , பிரசவ வலி பெண்ணுக்கு அதிகரித்ததை அடுத்து , படகின் கீழ் தளத்தில் இருந்த ஆண்களை மேல் தளத்திற்கு அனுப்பி வைத்த பின்னர் , படகில் பயணித்த பெண்களே பிரசவம் பார்த்துள்ளனர்.
+A woman from Nainadivu has been admitted to the Nainadivu Divisional Hospital following a sudden delivery of childbirth on Wednesday (17).
 
-படகு குறிகட்டுவான் இறங்கு துறையை வந்தடைந்ததும் , அங்கு தயார் நிலையில் நின்ற புங்குடுதீவு வைத்தியசாலையின் நோயாளர் காவு வண்டியில் தாயையும் சேயையும் , யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்றனர்.
+From there, the doctor recommended that the Jaffna Bodhana Hospital be transferred for further treatment. After that, the ambulance boat is not currently working to take the teaching hospital and the public has taken the traffic boat to the indicator.
+
+As the boat was traveling in the sea, the men who were on the top floor under the boat were sent to the top floor after the childbirth increased.
+
+When the boat arrived at the landing department, the mother and Chee were taken to the Jaffna Bodhana Hospital in the Punguduthivu Hospital.
 
 ◼️
 
 [Data](articles/56b40416.json)
 
+[Extended Data](ext_articles/56b40416.ext.json)
+
 ---
 
-### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Enjoining order against Maithri is extended
 
 *2024-04-18 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195749) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් නිකුත් කර තිබෙන වාරණ නියෝගය මැයි මස 09 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (18) නියෝග කළේය.
+The Colombo District Court extended an injunction order against Maithri, filed by the Sri Lanka Freedom Party (SLFP) Chairman, in response to a complaint by former President Chandrika Bandaranaike Kumaratunga.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසිකාවක වන හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ පැමිණිල්ලක් අද යළි කැඳවීමෙන් අනතුරුව දිසා අධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
+
+The Colombo District Court today (18) ordered the injunction order from the Sri Lanka Freedom Party (SLFP) as the Chairman of the Sri Lanka Freedom Party (SLFP).
+
+The District Court issued a complaint filed by former President Chandrika Bandaranaike Kumaratunga, a former President Chandrika Bandaranaike Kumaratunga.
 
 ◼️
 
 [Data](articles/421c7517.json)
+
+[Extended Data](ext_articles/421c7517.ext.json)
 
 ---
 
@@ -279,6 +329,26 @@ The Minister has said that it is to be produced in parliament next week.
 [Data](articles/3dc2a72d.json)
 
 [Extended Data](ext_articles/3dc2a72d.ext.json)
+
+---
+
+### පාලිත අවසන්වරට නිවසට පැමිණෙයි
+
+*2024-04-18 08:59:12* · [`adalk`](https://www.ada.lk/picture_story/පාලිත-අවසන්වරට-නිවසට-පැමිණෙයි/10-409138) · `si`
+
+විදුලි සැර වැදීමෙන් මියගිය හිටපු රාජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතා ගේ දේහය ඊයේ (17) රාත්‍රි 10 ට පමණ මතුගම යටදොළවත්ත පිහිටි ඒ මහතාගේ නිවසට රැගෙන එන ලදී.
+
+දේහය කළුතර  නාගොඩ පිහිටී මල් ශාලාවක සිට කළුතර මතුගම මාර්ගයේ රිය පෙරහරකින් කැටුව ආ අතර මග දෙපසද ජනතාව ඒ මහතාට ගෞරව කිරීමට රැස්ව සිටියහ.
+
+දේහය නිවසට රැගෙන එන අවස්ථාවේදී නිවසේ විශාල පිරිසක් රැස්ව සිටි අතර, ඔවුනට ඒ මහතාගේ දේහය දැකබලා ගැනීම සඳහා දැඩි වෙහෙසක් ගැනීමටද සිදුවිය.
+
+මධ්‍යම රාත්‍රිය වන විටත් අවමංගල්‍යය නිවසේ විශාල පිරිසක් රැස්ව සිටි අතර, පක්ෂ විපක්ෂ දේශපාලන ක්‍රියාකාරීන් ද ඒ අතර විය.
+
+පාලිත තෙවරප්පෙරුම මහතාගේ අවසන් කටයුතු සිකුරාදා පස්වරුවේ පවුලේ  සුසාන භූමියේදී සිදු කිරීමට නියමිතව ඇත .
+
+◼️
+
+[Data](articles/a9ebb7cd.json)
 
 ---
 
@@ -2121,57 +2191,5 @@ The Minister of State also says that Sri Lankan officials will join goodwill in 
 [Data](articles/88e84c24.json)
 
 [Extended Data](ext_articles/88e84c24.ext.json)
-
----
-
-### Can a nurse make this crime like this?
-
-*2024-04-17 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195730) · `si`
-
-A 63-year-old ex-nurse was convicted for allegedly trying to kill her husband with dementia. The crime was committed in a hospital in 2021, and the husband survived but later died. The trial lasted nearly eight hours, leading to a life imprisonment sentence.
-
-🟩
-
-An ex-nurse has been accused of trying to kill his husband who suffered her condition.
-
-There is a 63-year-old nursing officer who is convicted of this allegation.
-
-The suspect's husband has been diagnosed with dementizes.
-
-Foreign media reports that the former Superintendent of the Supreme Court of the Western Australia has been convicted of the execution of her husband.
-
-According to reports, the allegations of attempting to carry out the murder in the hospital in 2021 have been proven to be killed in the courts.
-
-However, the woman survived the victim, but a few months later, the woman's husband had died.
-
-After a long trial, the woman has been convicted of the jury for nearly eight hours after a long trial.
-
-A person who is convicted may be sentenced to life in prison under the accusation of murder.
-
-◼️
-
-[Data](articles/641f31f8.json)
-
-[Extended Data](ext_articles/641f31f8.ext.json)
-
----
-
-### Be cautious when eating more sweets, different food after New Year
-
-*2024-04-17 18:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Be-cautious-when-eating-more-sweets-different-food-after-New-Year/108-280847) · `en`
-
-Colombo, April 17 (Daily Mirror) - Eating a wide range of foods, including sweets, during the Sinhala and Tamil New Year festivities can lead to higher blood sugar and cholesterol levels, Registrar in Clinical Nutrition at the Health Ministry Dr. Janaka Marasinghe said.
-
-He pointed out that people should pay more attention to food and drinks during festive seasons.
-
-"Most of the sweets made during the New Year will come out after the festival. Every house has a considerable collection of different types of food, including sweets and it automatically causes the increase in consumption of these foods. New Year foods consists of more sugar and flour which makes people overweight and increase their diabetic conditions," Dr. Marasinghe said.
-
-Accordingly, it is more important to follow a diet plan that avoids unnecessary sugar and cholesterol levels getting in to the blood stream.
-
-...
-
-[Data](articles/d3a621e5.json)
-
-[Extended Data](ext_articles/d3a621e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 11:34:15**
+As of **2024-04-18 11:53:07**
 
 ## Newspaper Stats
 
-*Scraped **19,503** Articles*
+*Scraped **19,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
-adalk | 1,624
+adalk | 1,625
 tamilmirrorlk | 2,274
 adaderanalk | 2,339
 virakesarilk | 2,904
 dailymirrorlk | 3,013
-adaderanasinhalalk | 3,175
+adaderanasinhalalk | 3,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,501 (100.0%) of 19,503 articles have been extended.
+19,503 (100.0%) of 19,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### මියන්මාර සයිබර් අපරාධකරුවන්ගෙන් බේරාගත් ශ්‍රී ලාංකිකයින් දිවයිනට
+
+*2024-04-18 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195752) · `si`
+
+මියන්මාරයේ මියාවඩි සයිබර් අපරාධ කලාපයෙන් මුදාගත් ශ්‍රී ලාංකිකයින් 08 දෙනා දිවයිනට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/1302568d.json)
+
+---
+
+### පරිසරයට හානි කරනවා දැක්කොත් ඉක්මනින් දැනුම් දෙන්න
+
+*2024-04-18 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195751) · `si`
+
+පාරිසරික වැරදි සම්බන්ධව යම් තොරතුරක් වෙතොත් 1997 හෝ 1981 යන කෙටි දුරකථන අංක ඔස්සේ දැනුවත් කරන ලෙස පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+පරිසරය විනාශ කිරීම් සම්බන්ධව වැටලීම් සිදුකිරීම සඳහා මහජනතාවගෙන් ලැබෙන තොරුතුරු ඉතා වැදගත් බැවින් පොලිස්පතිවරයා විසින් එම දුරකථන අංක හඳුන්වා දී තිබේ.
+
+ඒ අනුව ඛනිජ ද්‍රව්‍ය ලබාගැනීම සඳහා සිදුකරනු ලබන කැනීම්, ගං ඉවුරු ආශ්‍රිතව සිදුකරන නීතිවිරෝධී කැනීම්, කර්මාන්ත ශාලා මඟින් අනීතිකව සිදුකරනු ලබන පාරිසරික හානි හා ශබ්ද දුෂණය ආදිය මඟින් වන සතුන්ට සහ පරිසරයට ප්‍රබල බලපෑමක් සිදුකර ඇතැයි පොලීසිය පවසයි.
+
+මෙලෙස සිදුකරනු ලබන පාරිසරික හානි සම්බන්ධව වැටලීම් සිදුකිරීම සඳහා පොලිස් විශේෂ කාර්යාංශයේ 1997  දරණ හදිසි ඇමතුම් අංකය හා මධ්‍යම පරිසර අධිකාරියේ 1981 දරණ හදිසි ඇමතුම් අංකය මේ වනවිට හඳුන්වා දී තිබේ.
+
+ඔබේ ප්‍රදේශයේත් මෙවැනි පාරිසරික හානියක් සිදුවන්නේ නම් වහාම ඉහත දුරකථන අංක ඔස්සේ දැනුවත් කරන ලෙස පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/51fe0e9c.json)
+
+---
 
 ### Mount Ruang volcano eruption
 
@@ -41,6 +73,8 @@ This handout photograph taken and released by the Center for Volcanology and Geo
 ◼️
 
 [Data](articles/55149ee4.json)
+
+[Extended Data](ext_articles/55149ee4.ext.json)
 
 ---
 
@@ -79,6 +113,8 @@ The Colombo District Court made this order following a lawsuit filed by former P
 ◼️
 
 [Data](articles/019add5c.json)
+
+[Extended Data](ext_articles/019add5c.ext.json)
 
 ---
 
@@ -407,6 +443,30 @@ Accordingly, the public will have two weeks from the day the Bill is presented t
 [Data](articles/8cc378ff.json)
 
 [Extended Data](ext_articles/8cc378ff.ext.json)
+
+---
+
+### වසරේ මුල් සති 14 තුළ ලංකාවට සංචාරකයන් ලක්ෂ 7ක් ඇවිත්
+
+*2024-04-18 08:50:26* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-මුල්-සති-14-තුළ-ලංකාවට-සංචාරකයන්-ලක්ෂ-7ක්-ඇවිත්/11-409137) · `si`
+
+මේ වසරේ මුල් සති 14 තුළදී ශ්‍රී ලංකාවට පැමිණි සංචාරකයන් සංඛ්‍යා 700,000 සීමාව ඉක්මවා ගොස් තිබේ. ඒ අනුව ජනවාරි 01 දා සිට අප්‍රේල් 15 දා තෙක් ලංකාවට පැමිණ ඇති සංචාරකයන් සංඛ්‍යාව 718 315කි.
+
+2023 දී ශ්‍රී ලංකාවට පැමිණි සංචාරකයන් සංඛ්‍යාව ලක්ෂ 7 සීමාව ඉක්මවා ගෙස් තිබුණේ ජුලි මාසයේදීය.
+
+අප්‍රේල් මාසයේ මුල් දින 15 තුළ ශ්‍රී ලංකාවට සංචාරකයින් 82,531ක් පැමිණ තිබේ. දිනකට ශ්‍රී ලංකාවට පැමිණෙන සංචාරකයන් සංඛ්‍යාව මේ වන විට 5500කට ආසන්න වී තිබේ.
+
+ශ්‍රී ලංකාවට මේ වන විට වැඩිම සංචාරකයන් ප්‍රමාණයක් පැමිණෙන රට ලෙස ඉන්දියාව අංක එකේ පසුවන අතර එය මුළු පැමිණීම්වලින් සියයට 17ක් වෙයි.
+
+එක්සත් රාජධානිය දෙවන විශාලතම සංචාරකයන් ප්‍රමාණයක් පැමිණෙන රට වන අතර එය සමස්ත ප්‍රමාණයෙන් සියයට 11ක දායකත්වයක් ලබාදෙයි.
+
+එක්සත් රාජධානියේ බලධාරීන් විසින් ශ්‍රී ලංකාව පිළිබඳ සංචාරක උපදේශන වෙත මෑතදී යාවත්කාලීන කිරීමත් සමඟ, එම වෙළඳපොළෙන් වැඩි සංචාරක පැමිණීමක් ශ්‍රී ලංකාව අපේක්ෂා කරයි.
+
+රුසියාව තෙවැනි ස්ථානයේ පසුවෙන්නේ සමස්ත පැමිණීම්වලින් සියයට 10ක ප්‍රතිශතකයකට හිමිකම් කියමිනි.
+
+...
+
+[Data](articles/881ed687.json)
 
 ---
 
@@ -2113,79 +2173,5 @@ We have made it difficult to think that such an investigation will occur, no mat
 [Data](articles/bf1b5328.json)
 
 [Extended Data](ext_articles/bf1b5328.ext.json)
-
----
-
-### Fr. Cyril Gamini Fernando summoned by the CID
-
-*2024-04-17 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98689/fr-cyril-gamini-fernando-summoned-by-the-cid) · `en`
-
-The Criminal Investigations Department (CID) has reportedly summoned Rev. Fr. Cyril Gamini Fernando, a Catholic Priest and a spokesperson of the Archdiocese of Colombo.
-
-He has been summoned to record a statement in relation to the Easter Sunday terror attacks.
-
-Accordingly, the CID has informed Rev. Fr. Cyril Gamini Fernando to appear at 10.00 a.m. on Friday (April 19).
-
-◼️
-
-[Data](articles/37d936d6.json)
-
-[Extended Data](ext_articles/37d936d6.ext.json)
-
----
-
-### The cause of the death of Palitha Thevaraparuma has been released
-
-*2024-04-17 19:12:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித-தெவரப்பெருமவின்-மரணத்திற்கான-காரணம்-வெளியானது/175-336055) · `ta`
-
-Autopsy confirms Palitha Thevarapperuma's death from severe viscera damage.
-
-🟩
-
-An autopsy has confirmed that the death of former Secretary of State Palitha Thevarapperuma has been caused by severe damage in the viscera.
-
-Chief Law Officer of the Legal Hospital of Nagoda, Kalutara. M.. D. B.. An autopsy was held today (17) in the hospital's legal unit headed by Gunathilaka.
-
-Kalutara Legal Officer, Specialist Dr. K.. M.. D. B.. After Gunathilaka observed, the autopsy took place.
-
-Subsequently, the Kalutara Crime Investigation Department officials observed the site of the accident and the Mathugama Additional Magistrate conducted an investigation into the incident.
-
-Prior to the autopsy, the body of the Kalutara Chief Magistrate Nida Hemamali Halbanteniya had also been examined.
-
-The body was handed over to the minister's wife at 3.30 pm after the autopsy.. Remble
-
-◼️
-
-[Data](articles/b541588b.json)
-
-[Extended Data](ext_articles/b541588b.ext.json)
-
----
-
-### Vegetable prices down
-
-*2024-04-17 19:10:29* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-තවත්-පහළට/11-409132) · `si`
-
-Vegetable prices, especially tomatoes and chillies, are down due to farmers' inability to cover cultivation costs. Prices in Peliyagoda's retail market have dropped, with 80kg of vegetables selling for Rs. 40 million instead of Rs. 60 million. The retail market's value has decreased from Rs. 300 million to Rs. 200 million, affecting real estate and raw material clubs. Mr. Subsena predicts a rise in vegetable sales by the 25th.
-
-🟩
-
-Tomatoes. The prices of many eliweles, including raw chillies, the prices of farmers have not been able to find the cost of cultivation
-
-Tomatoes in some prevalence. Robberry .Bndakka.. Noose leaves the farmers that are buying a kilo of Rs 15 and Rs.
-
-Retail Retail Retail Market in Peliyagoda Vegetable Marketing Today. 80 kilogram of matekaral Rs. 40 million rupees Rs. 60 Noko retail kilogram
-
-Retail Marine Retail Marine Retail 300 millions of rupees for Rs. 200 millions of rupees RsRetail Retail Retail Retail Mark Realers traced up Rs. 120
-
-Elevations of Economic Centers and Raw ClubMr. Subsena said
-
-It was said that this situation could be held until the 25th of this month, he said he would rise in the sale of vegetables and green chillies
-
-◼️
-
-[Data](articles/7d1fdc84.json)
-
-[Extended Data](ext_articles/7d1fdc84.ext.json)
 
 ---

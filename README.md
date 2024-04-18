@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 16:49:18**
+As of **2024-04-18 17:03:39**
 
 ## Newspaper Stats
 
-*Scraped **19,567** Articles*
+*Scraped **19,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,124 @@ dailyftlk | 1,071
 economynextcom | 1,108
 adalk | 1,632
 tamilmirrorlk | 2,281
-adaderanalk | 2,347
-virakesarilk | 2,921
+adaderanalk | 2,348
+virakesarilk | 2,926
 dailymirrorlk | 3,021
-adaderanasinhalalk | 3,184
+adaderanasinhalalk | 3,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,567 (100.0%) of 19,567 articles have been extended.
+19,567 (100.0%) of 19,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### திரியாய் தமிழ் மகாவித்தியாலயத்தின் குடிநீர்ப் பிரச்சினைக்கு தீர்வு கிடைக்குமா..?
+
+*2024-04-18 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181363) · `ta`
+
+திருகோணமலை மாவட்டத்தின் எல்லைப் புறத் தமிழ்க் கிராமங்களில் ஒன்றான திரியாய்க் கிராமத்தின் திரியாய் தமிழ் மகா வித்தியாலயத்தின் குடிநீர்ப் பயன்பாட்டுக்காக கிணறு ஒன்று காணப்படுகிறது.
+
+சுமார் 200க்கு மேற்பட்ட மாணவர்கள் காணப்படுகின்ற இந்த பாடசாலையில் மாணவர்களுடைய தண்ணீர் தேவைக்கு பிரதானமாக காணப்படுவது இந்த கிணறு மாத்திரமே. இந்த கிணற்றில் இருந்தே மோட்டார் மூலமாக தாங்கிகளுக்கு பெறப்படுகின்ற நீர் மாணவர்களுடைய தண்ணீர் தேவைக்காக விநியோகிக்கப்படுகிறது.
+
+இந்தக் கிணறானது மூடப்படாமல் திறந்த நிலையில் இருப்பதனால் மிகவும் மாசடைந்த நிலையில் காணப்படுகிறது. எனினும், இந்த நீரையே மாணவர்கள் தமது நீர் தேவைக்காக பயன்படுத்தி வருகின்றார்கள். மேலும் உணவு சமைப்பதற்கும் இதே கிணற்று நீரே பயன்படுத்தப்படுகின்றது.
+
+...
+
+[Data](articles/d0a3db98.json)
+
+---
+
+### Scientists from Canada, Sri Lanka work together to address threat of antibiotic resistance in animals
+
+*2024-04-18 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98706/scientists-from-canada-sri-lanka-work-together-to-address-threat-of-antibiotic-resistance-in-animals) · `en`
+
+Two scientists whose connection was sparked in Saskatchewan are working together from different sides of the globe to improve animal health in Sri Lanka, in hopes of addressing a potential global health threat.
+
+“Literally right here is where we sat together,” said Joe Rubin, looking around his lab at the University of Saskatchewan, Canada.
+
+It’s the scene where an international friendship formed on the Prairies.
+
+Rubin is a professor of veterinary microbiology at the Western College of Veterinary Medicine in Saskatoon. He met fellow scientist Roshan Madalagama almost 11 years ago, when Madalagama came to Saskatchewan from Sri Lanka as a graduate student.
+
+“I believe that my second home is in Canada,” Madalagama told CBC from Peradeniya, Sri Lanka.
+
+“As a mentor, [Rubin] is one of the greatest people I’ve ever met in my life. There’s no doubt about that.”
+
+Rubin supervised Madalagama as the two studied antimicrobial resistance, or AMR — the same issue they’re tackling today.
+
+...
+
+[Data](articles/a44fb012.json)
+
+---
+
+### ඔත්තුකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-04-18 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195760) · `si`
+
+ජර්මනිය විසින් යුක්‍රේනයට යුද ආධාර ලබා දීමේ සැලසුම කඩාකප්පල් කිරීමට උත්සාහ කළ බවට සැක පිට ජර්මනියේදී පුද්ගලයින් දෙදෙනෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+රුසියානු සහ ජර්මන් ද්විත්ව පුරවැසියන් වන ඔවුන් දෙදෙනා රුසියාව වෙනුවෙන් සේවය කරන ඔත්තුකරුවන් දෙදෙනෙක් බවට සැක කෙරේ.
+
+ඔවුන් ජර්මනියේ ස්ථාපනය කර ඇති අමෙරිකානු යුද මධ්‍යස්ථාන සම්බන්ධයෙන්ද තොරතුරු සොයා ඇති බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/34549b17.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதலில் உயிரிழந்தவர்களுக்கு நீதி நிலைநாட்டப்படும் - தேசிய மக்கள் சக்தி உறுதி
+
+*2024-04-18 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181369) · `ta`
+
+2019 ஆம்  ஆண்டு ஏப்ரல் மாதம் 21 ஆம் திகதி உயிர்த்த ஞாயிறு தினதத்தன்று இடம்பெற்ற பயங்கரவாத தாக்குதலில் பலியானவர்களுக்கு நீதி நிலைநாட்டப்படுமென தேசிய மக்கள் சக்தி  அறிக்கையொன்றை வெளியிட்டு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/9ad0fb8a.json)
+
+---
+
+### கண்டி நகரில் தீவிரமடையும் குப்பை பிரச்சினை!
+
+*2024-04-18 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181382) · `ta`
+
+வரி செலுத்தும் மக்களுக்கு தூய்மையான  நகரை  உருவாக்கிக் கொடுக்க வேண்டியது பொறுப்பதிகாரிகளின் கடமையாகும்.
+
+ஆனால், அதிகாரிகளின் பொறுப்பற்ற நடவடிக்கைகளால் வரலாற்று பெயர் கொண்ட நகரமான கண்டிநகரம் இன்று குப்பைகளால் நிரம்பியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அத்தோடு, பண்டிகைக் காலங்களில் முறையாக குப்பைகள் அகற்றப்படாமையினால் அதிகளவான குப்பைகள் நிரம்பிக் காணப்படுவதாக தெரிவிக்கப்படுகின்றது.
+
+மேலும், முக்கிய வர்த்தக வளாகங்கள், பஸ்  தரிப்பிடங்கள், மக்கள் கூடும் பொது இடங்கள் உள்ளிட்ட பகுதிகளில் குப்பைகள் நிரம்பிக் காணப்படுவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இதன் காரணமாக கண்டி பகுதியில் துர்நாற்றம் வீசுவதோடு மக்கள் கடும் சிரமத்திற்கு உள்ளாகியுள்ளதோடு மக்களின் சுகாதாரதிற்கு பாரிய விளைவினை ஏற்படுத்தக் கூடியதாக காணப்படுகின்றது.
+
+இது தொடர்பாக மாநகர சபை ஊழியர் தெரிவித்தபோது, குப்பைகள் அகற்றும் இயந்திரம் பழுதடைந்தமையே இதற்கு காரணம் என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/e0bff9af.json)
+
+---
+
+### "வசத் சிரிய - 2024" புத்தாண்டு அழகன் - அழகி விண்ணப்பம் ஏற்கும் காலம் நீடிப்பு
+
+*2024-04-18 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181387) · `ta`
+
+ஜனாதிபதி செயலக நலன்புரிச் சங்கம் மற்றும் அமைச்சுக்கள் இணைந்து எதிர்வரும் ஏப்ரல் 27 ஆம் திகதி சனிக்கிழமை காலி முகத்திடலில் சங்கரில்லா பசுமை மைதானத்தில் ஏற்பாடு செய்துள்ள  "வசத் சிரிய 2024" தமிழ், சிங்களப் புத்தாண்டின் அழகன்-அழகிப் போட்டிக்கான விண்ணப்பங்கள் ஏற்கும் காலம் ஏப்ரல் 23 வரை நீடிக்கப்பட்டுள்ளது.
+
+போட்டியில் பங்கேற்க விரும்பும் போட்டியாளர்கள் 3 மாதங்களுக்குள் பிடித்த வர்ணப் புகைப்படத்துடன் பெயர், வயது, உயரம், முகவரி மற்றும் தொலைபேசி இலக்கம் என்பவற்றை  23 ஆம் திகதி பிற்பகல் 3.00 மணிக்கு முன்னர் 0771557146 எனும் வட்ஸ் அப் இலக்கத்திற்கு அனுப்ப வேண்டும். சகல விண்ணப்பதாரிகளும் 18-30 வயதிற்குட்பட்ட திருமணமாகாதவர்களாக இருக்க வேண்டும். தமிழர் கலாச்சார உடையிலும் இந்தப் போட்டியில் கலந்துகொள்ள முடியும்.
+
+...
+
+[Data](articles/874d3fb4.json)
+
+---
 
 ### The most passengers in the Religion of Attan - Colombo;Bus services returned to usual at other religions
 
@@ -53,6 +157,26 @@ Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and T
 [Data](articles/1f6e6e9b.json)
 
 [Extended Data](ext_articles/1f6e6e9b.ext.json)
+
+---
+
+### கட்டுத்துப்பாக்கி வெடித்ததில்  குடும்பஸ்தர் காயம் - முல்லைத்தீவில் சம்பவம்
+
+*2024-04-18 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181384) · `ta`
+
+முல்லைத்தீவு புதுக்குடியிருப்பு தேவிபுரம் பகுதியில் கட்டுத்துப்பாக்கி வெடித்ததில் குடும்பஸ்தர் ஒருவர் காயமடைந்த நிலையில் முல்லைத்தீவு மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இன்று வியாழக்கிழமை (18 ) பிற்பகல் இடம்பெற்ற குறித்த சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது,
+
+புதுக்குடியிருப்பு கைவேலி மயில்குஞ்சன் பகுதியை சேர்ந்த 33 வயதுடைய குடும்பஸ்தரே  இவ்வாறு காயமடைந்துள்ளார்.
+
+குறித்த நபர் தமது வீட்டிலிருந்து தேவிபுரம் (ஆ) பகுதியிலுள்ள காட்டுப் பகுதியால் சென்ற போது விலங்குகளை வேட்டையாடுவதற்காக பயன்படும் கட்டுத்துவக்கு வெடித்துள்ளது.
+
+இதனால் காயமடைந்த அவர் புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைகளுக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0b2afc70.json)
 
 ---
 
@@ -2137,153 +2261,5 @@ However, Sri Lanka had not agreed to the triggers nor the actual quantum of upsi
 [Data](articles/f1a6436b.json)
 
 [Extended Data](ext_articles/f1a6436b.ext.json)
-
----
-
-### Weather today
-
-*2024-04-18 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195739) · `si`
-
-Showers or thundershowers expected in Western, Sabaragamuwa Provincial, Galle, and Matara districts.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provincial and Galle and Matara districts.
-
-◼️
-
-[Data](articles/6bf62c9e.json)
-
-[Extended Data](ext_articles/6bf62c9e.ext.json)
-
----
-
-### Demonstration in Colombo tomorrow
-
-*2024-04-18 06:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-ஆர்ப்பாட்டம்/175-336062) · `ta`
-
-"Tomorrow's Colombo protest by the Ceylon Workers Congress demands a 1,700 rupees daily wage for plantation workers, protesting against the boycott of their salary hike and the Employers Federation's lack of action. The event starts at 9 am at the Colombo-Fort Railway Station."
-
-🟩
-
-A massive protest has been organized in Colombo on behalf of the Ceylon Workers Congress, urging plantation workers to pay 1,700 rupees as a daily basis.
-
-The Ceylon Workers Congress Media Unit said that the demonstration would be held in protest of the boycott of the plantation workers' salary hike and the boycott of the Employers Federation and the lack of pay hike.
-
-It has been announced that the demonstration will be held from 9 am tomorrow in front of the Colombo -Fort Railway Station.
-
-◼️
-
-[Data](articles/5c268a6f.json)
-
-[Extended Data](ext_articles/5c268a6f.ext.json)
-
----
-
-### Scam
-
-*2024-04-18 06:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறுந்தகவல்-ஊடான-மோசடி/175-336061) · `ta`
-
-The Postal Department warns against scams involving fraudulent debt information via SMS, carried out by fake websites and phone numbers. Investigations are underway. The department assures it does not collect credit card information.
-
-🟩
-
-It has been advised to look at the fraudulent fraud of customers' debt information through the SMS, which has been received at home or from the house.
-
-Investigations have begun in connection with such frauds, the Postal Department said.
-
-The Postal Department noted that the fraud is being carried out by fake website and fake telephone numbers.
-
-The department has asked the people not to get into such frauds using the Postal Department.
-
-The Postal Department said that the Postal Department does not receive information on credit cards or in any other way.. (A)
-
-◼️
-
-[Data](articles/dede4d26.json)
-
-[Extended Data](ext_articles/dede4d26.ext.json)
-
----
-
-### Shipment: 21 Sri Lankan employees rescue
-
-*2024-04-18 06:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கப்பல்-விபத்து-21-இலங்கை-பணியாளர்கள்-மீட்பு/175-336060) · `ta`
-
-21 Sri Lankan employees rescue Iranian soldiers from a ship in the Gulf of Oman during a storm. The ship, carrying oil, was near Jask, Iran. After being overturned, a rescue ship saved the 21 shipping personnel.
-
-🟩
-
-Iranian soldiers have been rescued by 21 Sri Lankan employees aboard the ship in a storm in the Gulf of Oman.
-
-The Iranian media has reported that the ship carrying oil with the flag of the Cook is about 50 kilometers away from the southern city of Iran, Jask.
-
-The Director of the Jask Ports and Maritime Administration stated that after the ship was overturned, a rescue ship was sent to the area and 21 shipping personnel were rescued.. (A)
-
-◼️
-
-[Data](articles/eb5c5a3e.json)
-
-[Extended Data](ext_articles/eb5c5a3e.ext.json)
-
----
-
-### SL on alert on possible genocide allegations by Canada
-
-*2024-04-18 05:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-on-alert-on-possible-genocide-allegations-by-Canada/108-280881) · `en`
-
-Colombo, April 18 (Daily Mirror) - Sri Lanka remains on high alert as Canadian leaders may make genocide allegations next month when the country marks the war victory, according to a diplomatic source.
-
-Last year, Canadian Prime Minister Justin Trudeau's genocide accusations sparked a diplomatic dispute between the two nations. Sri Lanka responded with protests by summoning the Canadian envoy.
-
-A well-placed diplomatic source informed Daily Mirror yesterday that the Sri Lankan government is keen to ascertain whether such allegations will be repeated this time, despite previous protests by Sri Lanka.
-
-“Canadian leaders have a history of making such allegations, even though the Canadian federal government has concluded that the events in Sri Lanka during the war do not amount to genocide,” the official said.
-
-◼️
-
-[Data](articles/20915742.json)
-
-[Extended Data](ext_articles/20915742.ext.json)
-
----
-
-### SL on alert on possible genocide allegations by Canada
-
-*2024-04-18 05:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-on-alert-on-possible-genocide-allegations-by-Canada/155-280881) · `en`
-
-Colombo, April 18 (Daily Mirror) - Sri Lanka is still at a loss to thwart the efforts by a city council in Canada to construct what it called a Tamil genocide monument, and to counter the allegations by the Canadian politicians, an informed source said .
-
-Brampton city council in Canada has approved the final design for the Tamil Genocide Memorial, a monument the city promised three years ago, according to foreign media.
-
-The media said it is a 4.8-metre tall stainless steel monument built in Chinguacousy Park in the Bramalea area to commemorate the lives lost in the Sri Lankan civil war — what many people in the Tamil community call a genocide. Canada's Parliament unanimously voted to recognize May 18 as Tamil Genocide Remembrance Day in 2022.
-
-...
-
-[Data](articles/e9455531.json)
-
-[Extended Data](ext_articles/e9455531.ext.json)
-
----
-
-### The body of Palitha Thevarapperuma tomorrow
-
-*2024-04-18 05:51:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலித்த-தெவரப்பெருமவின்-உடல்-நாளை-நல்லடக்கம்/175-336059) · `ta`
-
-Palitha Thevarapperuma, former State Minister, died in an electrical accident in Matugama-Navaduduwa. His body will be held tomorrow.
-
-🟩
-
-The body of the former Minister of State, Palitha Thevarapperuma will be held tomorrow.
-
-State Minister Palitha Thevarapperuma has died in a garden belonging to Matugama - Navaduduwa.
-
-Mathugama Additional Magistrate and Kalutara Legal Officer went to the site of the electrical attack and investigated the investigation.. (A)
-
-◼️
-
-[Data](articles/329e6b38.json)
-
-[Extended Data](ext_articles/329e6b38.ext.json)
 
 ---

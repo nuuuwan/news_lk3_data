@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 17:18:26**
+As of **2024-04-18 17:34:20**
 
 ## Newspaper Stats
 
-*Scraped **19,575** Articles*
+*Scraped **19,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ economynextcom | 1,108
 adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,348
-virakesarilk | 2,926
+virakesarilk | 2,928
 dailymirrorlk | 3,022
-adaderanasinhalalk | 3,185
+adaderanasinhalalk | 3,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,574 (100.0%) of 19,575 articles have been extended.
+19,575 (100.0%) of 19,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### ව්‍යාපාරිකයෙකුගේ මළ සිරුර අන්තිමට හමුවූ තැන
+
+*2024-04-18 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195761) · `si`
+
+කුරුණෑගල, රිදීගම ප්‍රදේශයේදී තියුණු ආයුධවලින් පහරදී ව්‍යාපාරිකයෙකුව ඝාතනය කර තිබේ.
+
+ඝාතනයට ලක්ව ඇති අදාළ පුද්ගලයාගේ මළ සිරුර පෞද්ගලික ඉඩමක තිබී අද උදෑසන සොයාගෙන තිබේ.
+
+මියගොස් ඇත්තේ එම ප්‍රදේශයේම පදිංචි 49 හැවිරිදි කුකුළු මස් ව්‍යාපාරියෙකු බවට අනාවරණය වී ඇත .
+
+ඝාතනය සිදුකළ සැකකරුවන් පිළිබඳව අනාවරණය වී නොමැති අතර රිදීගම පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/038c43ac.json)
+
+---
+
+### திருகோணமலை வைத்தியசாலையில் நோயாளர் காவு வண்டிகள் பற்றாக்குறை
+
+*2024-04-18 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181395) · `ta`
+
+திருகோணமலை வைத்தியசாலையில் நோயாளர் காவு வண்டிகளின் பற்றாக்குறையால் நோயாளிகள் மிகுந்த சிரமங்களுக்கு உள்ளாகி வருவதாக தெரிய வருகின்றது.
+
+திருகோணமலை மாவட்ட பொது வைத்தியசாலையின் பாவனைக்காக 12 நோயாளர் காவு வாகனங்கள் இருந்தும் தற்போது 3 வாகனங்கள் மாத்திரமே சேவையில் ஈடுபட்டு வருகின்றன. இதனால் நோயாளிகளை மேலதிக சிகிச்சைகளுக்காக வேறு வைத்தியசாலைகளுக்கு கொண்டு செல்வதில் தாமதங்கள் ஏற்பட்டு வருவதாகவும், இதனால் நோயாளிகள் பல்வேறுபட்ட சிரமங்களுக்கு முகங்கொடுத்து வருவதாகவும் தெரிவிக்கின்றார்கள்.
+
+கடந்த சில மாதங்களாக ஒரு வாகனம் மாத்திரமே சேவையில் ஈடுபட்டு வந்த நிலையில் தற்போது 3 வாகனங்கள் மாத்திரமே நோயாளர்களுக்கான சேவையில் ஈடுபட்டு வருகின்றன. அத்துடன் குறித்த வாகனங்களில் இரண்டு வாகனங்கள் முற்றாக பாவிக்க முடியாத நிலையில் இருப்பதோடு ஏனைய 7 வாகனங்களும் திருத்த வேலைக்காக வேலைத்தளங்களிலும், வைத்தியசாலை வளாகங்களிலும் நீண்டகாலமாக தரித்து நிற்பதாகவும் தெரிய வருகின்றது.
+
+...
+
+[Data](articles/19d852e9.json)
+
+---
+
+### வரலாற்றில் இன்று : 1956 ஏப்ரல் 18இல் வெளியான வீரகேசரி இதழின் முதல் பக்கத்தில்...
+
+*2024-04-18 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181393) · `ta`
+
+"தமிழரசுக் கட்சி பதவிவேட்டையில் என்றும் இறங்காது" : எதிர்க்கட்சித் தலைவர் பதவி வேண்டாம் என செல்வநாயகம் பதில் : தமிழரசு எம்.பி.க்களின் முதலாவது கூட்டத்தில் செய்யப்பட்ட முடிவுகள்
+
+◼️
+
+[Data](articles/e2182152.json)
+
+---
 
 ### Google fires 28 employees involved in protest of Israeli cloud contract
 
@@ -47,6 +93,8 @@ Years before the dismissals, tensions had been simmering between the company’s
 ...
 
 [Data](articles/4b1d4445.json)
+
+[Extended Data](ext_articles/4b1d4445.ext.json)
 
 ---
 
@@ -2233,75 +2281,5 @@ It is reported that the SLFP Politburo will consider today (18).
 [Data](articles/8dd05b46.json)
 
 [Extended Data](ext_articles/8dd05b46.ext.json)
-
----
-
-### Japan assures fast track to Sri Lanka’s debt restructuring: State FinMin
-
-*2024-04-18 06:58:00* · [`economynextcom`](https://economynext.com/japan-assures-fast-track-to-sri-lankas-debt-restructuring-state-finmin-158971/) · `en`
-
-ECONOMYNEXT – Japan has assured to speed up Sri Lanka’s ongoing debt restructuring debt restructuring process, State Finance Minister Shehan Semasinghe said.
-
-Semasinghe met Fujii Daijo, the Japanese Deputy Vice Finance Minister for International Affairs, in he sideline of the IMF/World Bank Spring Meetings in Washington.
-
-He said the top Japanese minister confirmed the strong friendship and relationship between Japan and Sri Lanka.
-
-“He appreciated the excellent progress made my Sri Lanka, and congratulated the Sri Lankan authorities led by Hon. President for the strong leadership and economic management,” Semasinghe said in his X platform.
-
-“In turn, I thanked the Deputy Vice Minister for Japan’s continued support for Sri Lanka, particularly as Co-Chair of the Official Creditor Committee.”
-
-“We discussed in detail progress on debt restructuring, and we were assured of Japan’s continued commitment to early finalisation of the debt restructuring process.” (Colombo/April 18/2024)
-
-◼️
-
-[Data](articles/ca141d5a.json)
-
-[Extended Data](ext_articles/ca141d5a.ext.json)
-
----
-
-### Easter attacks: NPP pledges action against culprits under its government
-
-*2024-04-18 06:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-attacks-NPP-pledges-action-against-culprits-under-its-government/108-280883) · `en`
-
-Colombo, April 18 (Daily Mirror)- The National People’s Power (NPP) said that a future NPP government will appoint a special Commission of Inquiry with full judicial powers to further investigate the facts
-
-unearthed through the special Commissions and other investigations into the Easter Sunday attack and mete out justice to the victimized families.
-
-The NPP issuing a statement pledged to implement the law against those who conspired to launch the attack and those who were held responsible for the attack and punish them
-
-within a short period of time based on the recommendation of the said committee.
-
-It said the government has failed to mete out justice to those who lost their lives, members of the victimized families and the property destroyed in the attacks.
-
-In the seven-point statement, the NPP said the Easter attack was a conspiracy to fulfil a political motive and that it is a matter of top priority of a NPP government to take to book
-
-...
-
-[Data](articles/8389259b.json)
-
-[Extended Data](ext_articles/8389259b.ext.json)
-
----
-
-### Iran rescues 21 Sri Lanka sailors from storm tossed tanker
-
-*2024-04-18 06:20:00* · [`economynextcom`](https://economynext.com/iran-rescues-21-sri-lanka-sailors-from-storm-tossed-tanker-158977/) · `en`
-
-ECONOMYNEXT – Iran’s maritime rescue service has rescued 21 Sri Lanka sailors from a oil tanker which was foundering off the port of Jask, a media report said.
-
-Head of maritime authority Jask, Mohammad Amin Amani was quoted by Irans Presstv.ir portal as saying the  Cook Islands-flagged tanker had been caught in heavy storms and was foundering 30 miles off the port.
-
-“Jask’s rescue and relief vessel was dispatched to the area and saved the 21 crew of the foreign ship,” said Mohammad Amin Amani said.
-
-Storms have hit the Sea of Oman and the Strait of Hormuz, a key energy transport corridor where Jask is located on the eastern tip, the report said.
-
-UAE and Bahrain have reported flooding from heavy rainstorms over the past week. (Colombo/Apr18/2024)
-
-◼️
-
-[Data](articles/0adc3acc.json)
-
-[Extended Data](ext_articles/0adc3acc.ext.json)
 
 ---

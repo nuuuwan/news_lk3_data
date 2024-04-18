@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 13:34:07**
+As of **2024-04-18 13:53:06**
 
 ## Newspaper Stats
 
-*Scraped **19,538** Articles*
+*Scraped **19,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,108
-adalk | 1,626
-tamilmirrorlk | 2,279
-adaderanalk | 2,344
-virakesarilk | 2,912
-dailymirrorlk | 3,015
+adalk | 1,628
+tamilmirrorlk | 2,280
+adaderanalk | 2,345
+virakesarilk | 2,915
+dailymirrorlk | 3,016
 adaderanasinhalalk | 3,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,538 (100.0%) of 19,538 articles have been extended.
+19,538 (100.0%) of 19,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### Dialog Axiata to buy Bharti Airtel’s telecom operations in Sri Lanka
+
+*2024-04-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98703/dialog-axiata-to-buy-bharti-airtels-telecom-operations-in-sri-lanka) · `en`
+
+Sri Lankan telecom operator Dialog Axiata has signed a definitive agreement to buy Bharti Airtel’s operations in the island nation, the companies said on Thursday, nearly a year after the merger was announced.
+
+Under the agreement, Dialog Axiata will acquire a 100% stake in Airtel Lanka by issuing Bharti Airtel a 10.4% stake in Dialog Axiata.
+
+Airtel Lanka is the Sri Lankan unit of India’s Bharti Airtel.
+
+The companies said the share swap would be valued by an independent body.
+
+The deal has been approved by Sri Lanka’s telecom regulator but has yet to be cleared by Dialog Axiata’s shareholders and the Colombo Stock Exchange.
+
+Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated turnover in fiscal 2023, the company said in an exchange filing.
+
+◼️
+
+[Data](articles/a04adbd6.json)
+
+---
+
+### சுற்றுச் சூழல் பாதிப்புக்களை தெரிவிக்க  தொலைபேசி எண் அறிமுகம்!
+
+*2024-04-18 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181362) · `ta`
+
+சுற்றுச்சூழல் குற்றங்கள் தொடர்பான தகவல்களைப் பெற 1997 மற்றும் 1981 என்ற தொலைபேசி எண்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.
+
+துளையிடுதல், ஆற்றங்கரை அரிப்பு, தொழிற்சாலை கழிவுகளை இடுதல், சுற்றுச்சூழல் பாதிப்பு போன்றவற்றினால் ஏற்படும் அனைத்து பாதிப்புகள் குறித்தும் இந்த தொலைபேசி எண்களைப் பயன்படுத்தலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2f079cf4.json)
+
+---
+
+### IMF ready to support Sri Lanka’s discussions with bondholders
+
+*2024-04-18 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-ready-to-support-Sri-Lankas-discussions-with-bondholders/108-280912) · `en`
+
+April 18 (Reuters) The International Monetary Fund (IMF) stands ready to support Sri Lanka's discussions with international bondholders and will provide a formal assessment after the parties reach a tentative agreement-in-principle, an IMF spokesperson said on Thursday.
+
+"We hope an agreement consistent with the parameters of the IMF-supported program and official creditors' Comparability of Treatment requirements can be reached soon, ahead of completing the second review under the program," the spokesperson said.
+
+Sri Lanka said it failed to reach an agreement with bondholders to restructure about $12 billion debt earlier this week, raising concerns there could be a delay in the island nation receiving a third tranche of its $2.9 billion IMF program in June.
+
+The government said one of the main stumbling blocks had been that the "baseline parameters" of the bondholders' plan had not matched those embedded in its IMF program.
+
+...
+
+[Data](articles/a891e8c0.json)
+
+---
+
+### පිටිගල ඩබල් මර්ඩ එකට තුනක් දැලේ
+
+*2024-04-18 13:29:34* · [`adalk`](https://www.ada.lk/breaking_news/පිටිගල-ඩබල්-මර්ඩ-එකට-තුනක්-දැලේ/11-409147) · `si`
+
+නියාගම ප්‍රදේශයේ වෙළඳසැලක් තුල දී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමට අදාල වෙඩික්කරු හා පැදිකරු ප්‍රවාහනය කිරිම හා මේ ද්විත්ව මනුෂය ඝාතනයකට ආධාර අනුබල දුන්, සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත් ද්‍රවය ජාවාර කරුවෙකු වන ජයලත්  සුද්දා හා සමන් කොල්ලා යන අයගේ සමීප ගෝලයින් තිදෙනෙකු පොලිස් විශේෂ කාර්ය බලකායේ අත්අඩංගුවට ගෙන ඇති බව පිටිගල පොලීසිය කියයි.
+
+මේ දිත්ව ඝාතනය සදහා උදව් උපකාර කළ තිදෙනා බොරලැස්ගමුව රත්නපිටියේ සිදු කළ මෙහෙයුමකදී අත්අඩංගුවට ගෙන ඇති බවත් මේ දිත්ව ඝාතනය සදහා ප්‍රයෝජනයට ගත්  ජංගම දුරකතන තුනක් හා යතුරු පැදියක්ද අත් අඩංගුවට ගෙන ඇති බවත් වැඩි දුර විමර්ශන සදහා සැකකරුවන් තිදෙනා සහ යතුරු පැදිය ජංගම දුරකතන තුන පොලිස් විශේෂ කාර්ය බලකාය මගින් සිය පොලිස් ස්ථානයට භාරදුන් බවද පිටිගල පොලීසිය කියයි.
+
+...
+
+[Data](articles/230f3e5c.json)
+
+---
+
+### திருட்டு  குற்றச் செயல்களில் ஈடுபட்ட சிறுவர்கள் கைது!
+
+*2024-04-18 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181349) · `ta`
+
+முகத்தை மூடி கையுறை அணிந்து வீடுகளுக்குள் சட்டவிரோதமாக உள்நுழையும்  சிறுவர் கும்பலைச் சேர்ந்த மூவரை கஹதுடுவ குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர்கள் கஹதுடுவ பிரதேசத்தைச் சேர்ந்த   13 மற்றும் 18 வயதுக்கு இடைப்பட்டவர்கள் எனவும் , பாடசாலை செல்லும் சிறுவர்களும் இந்த கும்பலில் உள்ளடங்குவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+வீடுகளில் இருந்த மடிக்கணினிகள், பித்தளைப் பொருட்கள், கைத்தொலைபேசிகள் உள்ளிட்ட சொத்துக்கள் திருடப்பட்டு, சம வயதுடைய சிறுவர்கள் மூலம் விற்பனை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதன்படி, இந்தக் கும்பல் நீண்டகாலமாக திருட்டுச் சம்பவங்களில் ஈடுபட்டுள்ள இவர்களை பொலிஸ் காவலில் வைத்து நீண்ட நேர விசாரணைகளை மேற்கொள்ளவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/d4b9cf23.json)
+
+---
+
+### நடிகர் மன்சூர் அலிகான் வைத்தியசாலையில் அனுமதி : விஷம் கொடுக்கப்பட்டதாக பரபரப்பு !
+
+*2024-04-18 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181368) · `ta`
+
+நடிகர் மன்சூர் அலிகான் தேர்தல் பிரச்சாரத்தில் ஈடுபட்டுக் கொண்டிருந்தபோது உடல் நலக்குறைவு ஏற்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில்  தனக்கு விஷம் கொடுக்கப்பட்டதாக அறிக்கை வெளியிட்டுள்ளார்.
+
+மன்சூர் அலிகான் எதிர்வரும் 19 ஆம் திகதி  நடைபெறவுள்ள பாராளுமன்ற தேர்தலில் வேலூர் பாராளுமன்ற தொகுதியில் பலாப்பழ சின்னத்தில் சுயேட்சை வேட்பாளராக போட்டியிடுகிறார்.
+
+நேற்று புதன்கிழமை (17) குடியாத்தம் பகுதியில் பரப்புரையில் ஈடுபட்டிருந்தபோது அவருக்கு திடீரென உடல்நலக்குறைவு ஏற்பட்டுள்ளது.
+
+“நேற்று குடியாத்தம் சந்தையிலிருந்து திரும்பி ஒரு இடத்துல, கட்டாயப்படுத்தி, பழ ஜூஸ் குடுத்தாங்க. அதன் பிறகு, மோர் குடுத்தாங்க... குடிச்ச உடனே வண்டியில் இருந்து விழ இருந்தேன்.
+
+...
+
+[Data](articles/778e41d3.json)
+
+---
 
 ### Another certificate from the IMF
 
@@ -47,6 +151,18 @@ The International Monetary Fund says it is ready to help Sri Lanka for discussio
 [Data](articles/5547d315.json)
 
 [Extended Data](ext_articles/5547d315.ext.json)
+
+---
+
+### இந்த கடத்தல்காரர்களிடம் சிக்காதீர்கள்
+
+*2024-04-18 13:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-கடத்தல்காரர்களிடம்-சிக்காதீர்கள்/175-336075) · `ta`
+
+ரஷ்ய இராணுவத்தில் பணியாற்ற அனுப்புவதாக கூறி பணம் பெற்ற இருவர் கைது செய்யப்பட்டதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/74363a00.json)
 
 ---
 
@@ -963,6 +1079,22 @@ Officials worry that part of the volcano could collapse into the sea and cause a
 [Data](articles/c6962e3a.json)
 
 [Extended Data](ext_articles/c6962e3a.ext.json)
+
+---
+
+### කාන්තාවන් දෙදෙනෙක් සැකකටයුතු ලෙස මිය යයි
+
+*2024-04-18 09:43:52* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්-දෙදෙනෙක්-සැකකටයුතු-ලෙස-මිය-යයි/11-409140) · `si`
+
+කළුතර දකුණ පොලිස් වසමේ ඉසුරු උයන ප්‍ර දේශයේ නිවසක පදිංචිව සිටි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට  ප්‍රයේශයේ නිවස දිංචිව සිි කාන්තාවන් දෙදෙනෙකු දින කිහිපයක සිට නොමැති බවත් නිවස ආසන්නයේ දැඩි දුගදක් හමන බවත් පොලිස් හදිසි ඇමතුම් අංකයට ලැබුණ තොරතුරක් මත කළුතර දකුණ පොලීසිය විමර්ශනයක් ආරමභ කර තිබුණි.
+
+ඊයේ රාත්‍රි කාලයේදී පොලිස් නිලධාරීන් එම ස්ථානයට ගොස් නිවස පරීකෂා කිරීමේදී නිවසේ දොරගුලා දමා තිබී ඇති. පසුව ජනේලයකින් පරීක්ෂා කිරීමේදී කාන්තාවන් දෙදෙනෙක් බිම වැටි මියගොස් ඇති බවට නිරීක්ෂණය වී තිබේ.
+
+මරණකාරියන් අවුරුදු 65 හා 79 වයස්වල පසුවන ඉසුරු උයන පදිංචිකාරියන් වෙයි. මෘත ශරීර පොලිස් ආරක්ෂාව යටතේ එම ස්ථානයේ තබා ඇති අතර මහේස්ත්‍රාත් පරීක්ෂණය අද දිනයේදී සිදු කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/9f8d8f1d.json)
 
 ---
 
@@ -2059,163 +2191,5 @@ In the case of India and Sri Lanka, the territorial sea in this area has been de
 [Data](articles/a9048e88.json)
 
 [Extended Data](ext_articles/a9048e88.ext.json)
-
----
-
-### To protect the welfare of Sri Lankan migrant workers, hold recruitment agencies accountable
-
-*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/To-protect-the-welfare-of-Sri-Lankan-migrant-workers-hold-recruitment-agencies-accountable/172-280858) · `en`
-
-Many studies have documented the tremendous wage gains that migrant workers experience across borders.; however, it is also well understood that these riches come at a price and migrant stories of abuse are common knowledge
-
-The 2022 Football World Cup in Qatar centered the world’s attention on the abuse faced by thousands of primarily South Asian migrant construction workers. The spectacle was a rare opportunity to press the case for reform not just in Qatar, but across many Gulf-region governments whose glittering skylines conceal a staggering amount of migrant abuse. Yet, just as the fervour of fair weather football fans has waned, so too have international outrage and promises of reform.
-
-...
-
-[Data](articles/b01b8806.json)
-
-[Extended Data](ext_articles/b01b8806.ext.json)
-
----
-
-### Life as we know depends on the health of the planet
-
-*2024-04-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Life-as-we-know-depends-on-the-health-of-the-planet/172-280857) · `en`
-
-While President Ranil Wickremesinghe, the splintered Sri Lanka Podujana Peramuna (SLPP) government and opposition parties are focusing on the elections, what election should be held or when and on what basis, more attention needs to be given to vital issues relating to Mother Earth, as the world marks Mother Earth day on Monday, April 22.
-
-In a statement, the United Nations said that Mother Earth is clearly urging a call to action. Nature is suffering. Oceans are being filled with plastic and turning more acidic. Extreme heat, wildfires and floods have affected millions of people.
-
-Climate change, human-made changes to nature, as well as crimes that disrupt biodiversity, such as deforestation, land-use change, intensified agriculture and livestock production or the growing illegal wildlife trade, can accelerate the speed of destruction of the planet.
-
-...
-
-[Data](articles/e858056c.json)
-
-[Extended Data](ext_articles/e858056c.ext.json)
-
----
-
-### 2024-04-17 (Wednesday)
-
-### Telhi advanced to the 6th to the winner of Gujarat
-
-*2024-04-17 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181338) · `ta`
-
-Telhi Capitals, after a 89-run victory, moved from 9th to 6th in the IPL, thanks to Rishabh Bond's 2 stumps and 2 wickets. Gujarat Titans scored 89 in 17.3 overs, their lowest total.
-
-🟩
-
-Telhi Capitles, who scored 89 runs in the 32nd Indian Premier League match for the Narendra Modi Stadium on Wednesday (17) at the Ahmedabad Narendra Modi Stadium.
-
-With this victory, Telhi Capitols advanced to 6th from 9th place in the IPL teams.
-
-Today's match was scored by two teams, but in today's match, a total of 181 runs were scored in each match.
-
-Gujarat Titans, who was first invited to bat in today's match, scored 89 runs for the loss of all wickets in 17.3 overs.
-
-On the one hand, the fortunes of Tellhi Capitles have also caused Gujarat's decline.
-
-Telhi Capitals captain Rishabh Bond acted brilliantly on wickets and made 2 stumps and took a grip.
-
-This is the lowest total number of Gujarat in the Indian Premier League. It was also reported to be the lowest number of a team this year.
-
-Middle -ranking Rashid Khan scored only 31 runs off 24 balls.
-
-Sai Sudarshan (12) and Rahul Devatia (10) received a double -digit number than him.
-
-...
-
-[Data](articles/73e62826.json)
-
-[Extended Data](ext_articles/73e62826.ext.json)
-
----
-
-### Business Revival Units in Banks
-
-*2024-04-17 23:35:25* · [`dailyftlk`](https://www.ft.lk/columns/Business-Revival-Units-in-Banks/4-760721) · `en`
-
-The Central Bank of Sri Lanka’s establishment of Business Revival Units (BRUs) signifies a proactive approach to supporting the Sri Lankan economy. By facilitating the revival of viable businesses impacted by recent economic challenges, BRUs aim to improve loan recovery for banks while fostering business growth and national development. This initiative requires collaboration between Licenced banks and borrowers to ensure a successful outcome for all parties involved. With effective implementation, BRUs have the potential to strengthen the Sri Lankan economy and pave the way for a more sustainable future
-
-...
-
-[Data](articles/624338d6.json)
-
-[Extended Data](ext_articles/624338d6.ext.json)
-
----
-
-### We are struggling with severe shortage of staff: Excise Chief
-
-*2024-04-17 23:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-are-struggling-with-severe-shortage-of-staff-Excise-Chief/108-280851) · `en`
-
-Colombo, April 17 (Daily Mirror) - The Excise Department of Sri Lanka, one of the three main revenue generating arms of the country’s Ministry of Finance is struggling with a severe dearth of staff even to perform day-to-day duties, as the 17 top rung positions are vacant for months now, the Daily Mirror learns.
-
-The Daily Mirror broke the story on January 3 this year under the heading ‘Excise Department on the brink of collapse,’ as its entire top rung officials are to retire in the coming few months has not seen any solution to the matter but the situation is getting otherwise worse.
-
-Several remaining senior concerned officers on the account of anonymity said even carrying out daily routine duties has become a fresh challenge as the remaining officials have to cover the work of 17 other officers. Most of these officers are compelled to dispose the lunch they bring from home as they hardly get any time to consume their meals.
-
-...
-
-[Data](articles/24b90ba6.json)
-
-[Extended Data](ext_articles/24b90ba6.ext.json)
-
----
-
-### The Department of Meteorology is a "sheep warning"
-
-*2024-04-17 23:15:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-செம்மஞ்சள்-எச்சரிக்கை/175-336057) · `ta`
-
-The Department of Meteorology warns of increased temperatures in several provinces and parts of the Moneragala district, with human body temperatures being observed at a critical level.
-
-🟩
-
-According to the announcement, the North, North Central, Western, Sabaragamuwa, Eastern, Southern and North Western Provinces and some parts of the Moneragala district are expected to increase.
-
-The Department of Meteorology has said that the temperature of the human body is found to be at the level of observation.
-
-◼️
-
-[Data](articles/3abf9983.json)
-
-[Extended Data](ext_articles/3abf9983.ext.json)
-
----
-
-### Open letter to the President and Finance Minister
-
-*2024-04-17 22:53:55* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-the-President-and-Finance-Minister/14-760719) · `en`
-
-Dawn of the New Year is the time for reflection and to redress citizens’ grievances due to the DDO
-
-You have on many occasions in the recent past, publicly pronounced before different audiences, as reflected in media releases of the Presidential Secretariat, that Sri Lanka is the only country in Asia that has completely protected democracy, you vow action against economic rights violations, always being respectful of societal rights of individuals (reference to burial rites), and most importantly your commitment to rectify mistakes of the past, whilst recognising the inability to change what has already transpired, but use the power to reverse the situation.
-
-...
-
-[Data](articles/351b9298.json)
-
-[Extended Data](ext_articles/351b9298.ext.json)
-
----
-
-### Blessed Sri Lankan Gamini
-
-*2024-04-17 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181337) · `ta`
-
-Gamini Fernando, a Sri Lankan, is re-invited to probe the survival Sunday attack. The Criminal Investigation Division is to meet on April 19th.
-
-🟩
-
-Gamini Fernando has been re -invited to investigate the facts of the survival Sunday attack.
-
-Accordingly, the Criminal Investigation Division has been instructed to come to the Criminal Investigation Division on Friday 19th April.
-
-◼️
-
-[Data](articles/b3193811.json)
-
-[Extended Data](ext_articles/b3193811.ext.json)
 
 ---

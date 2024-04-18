@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 22:51:03**
+As of **2024-04-18 23:03:21**
 
 ## Newspaper Stats
 
-*Scraped **19,628** Articles*
+*Scraped **19,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,86 @@ newsfirstlk | 363
 islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,118
-adalk | 1,640
+adalk | 1,641
 tamilmirrorlk | 2,281
-adaderanalk | 2,354
+adaderanalk | 2,355
 virakesarilk | 2,938
-dailymirrorlk | 3,031
+dailymirrorlk | 3,032
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,627 (100.0%) of 19,628 articles have been extended.
+19,628 (100.0%) of 19,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
 
-### யாழ்ப்பாணத்தில் கிணற்றில் விழுந்த இளம் குடும்பப் பெண் உயிரிழப்பு!
+### Sri Lanka 1Q24 tea exports dollar earnings at six year high
+
+*2024-04-18 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-1Q24-tea-exports-dollar-earnings-at-six-year-high/108-280938) · `en`
+
+A review of data published by Sri Lanka Customs analyzed by Siyaka Research confirms that the country shipped 62 Mnkg during the period January – March 2024, up 15% on last year’s figure of 54 Mnkg.
+
+Due to steady strengthening of the Sri Lankan Rupee against US$ YoY and lower auction prices, Rupee earnings show only a nominal change with an increase from Rs. 36 bln to Rs. 38 bln.
+
+In USD however, the approximate value is $ 354 Mn is 13% more on the 2023 figure of $ 314 Mn.
+
+This year’s Dollar earnings are the highest since 2018; however the country exported 68.8 Mnkg  in Q1 of that year compared with  62.3 Mnkg in 2024.
+
+A review of major destinations has Iraq topping the list with a quantity of 8.4 Mnkg amounting to 14% of all shipments in 2024. The UAE follows with 7 Mnkg up 56% on last year. Shipments to Russia have grown 14% YoY 6.4 Mnkg.
+
+Turkey follows but quantities have declined a sharp 40% to 4 Mnkg. Iran has increased 166% YoY from 1.3 Mnkg to 3.4 Mnkg this year.
+
+...
+
+[Data](articles/e504a92e.json)
+
+---
+
+### Suspect arrested for price-gouging incident involving tourist in Kalutara
+
+*2024-04-18 22:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98713/suspect-arrested-for-price-gouging-incident-involving-tourist-in-kalutara) · `en`
+
+Police have arrested the suspect related to the incident of misleading a foreigner and selling an Ulundu Wadey and a cup of tea for an exorbitant price at a restaurant in the Kalutara area.
+
+Following a series of footage circulating on social media, and in response to a complaint received through email, Moragalla Tourism Police conducted an investigation resulting in the arrest of the suspect today (18).
+
+The arrested individual has been identified as a 60-year-old resident of the Palatota area of Kalutara.
+
+Police investigations have revealed that the suspect has been consistently employing deceitful tactics to obtain money from foreign tourists.
+
+The arrested suspect is scheduled to be produced before the Kalutara Magistrate’s Court tomorrow (April 19).
+
+...
+
+[Data](articles/ae7c5b46.json)
+
+---
+
+### A young family girl dies in a well in Jaffna
 
 *2024-04-18 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181408) · `ta`
 
-வலிப்பு ஏற்பட்ட நிலையில் கிணற்றில் விழுந்த இளம் குடும்பப் பெண் ஒருவர் புதன்கிழமை (17) உயிரிழந்துள்ளார். இதன்போது மாதகல் - சகாயபுரம் பகுதியைச் சேர்ந்த பிரதீபன் நித்தியா (வயது 37) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A 37-year-old woman with epilepsy, Pradeepan Nithya, died after falling into a well in Madagal-Sahayapuram, Jaffna. Her body was found at 6.30 pm on Wednesday, taken to Tellippallai Hospital, then to Jaffna Teaching Hospital for anatomical examination. The body was released to relatives on Thursday.
 
-குறித்த பெண்ணுக்கு வலிப்பு நோய் உள்ளது. இந்நிலையில் புதன்கிழமை (17) பிற்பகல் 6.30 மணியளவில் வீட்டு கிணற்றில் இருந்து சடலமாக மீட்கப்பட்டார். பின்னர் சடலம் தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டு, அங்கிருந்து யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டது.
+🟩
 
-சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் வியாழக்கிழமை (18) உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+A young family woman dies on Wednesday (17). The deceased was Pradeepan Nithya (37 years old) from Madagal - Sahayapuram.
 
-இரண்டு பிள்ளைகளின் தாயான இவர் வலி. தென்மேற்கு பிரதேச சபையின் பண்டத்தரிப்பு உப அலுவலகத்தில் அபிவிருத்தி உத்தியோகத்தராக கடமை புரிந்து வந்தமை குறிப்பிடத்தக்கது.
+The woman has epilepsy. He was recovered from a home well at around 6.30 pm on Wednesday (17). The body was later taken to the Tellippallai Hospital and then taken to the Jaffna Teaching Hospital.
+
+A sudden death investigator, A. Jayapalasingham. The body was handed over to relatives on Thursday (18) after anatomical examination.
+
+She is the mother of two children. It is noteworthy that the Development Officer of the Southwest Pradeshiya Sabha has been appointed as the Development Officer.
 
 ◼️
 
 [Data](articles/d77c216b.json)
+
+[Extended Data](ext_articles/d77c216b.ext.json)
 
 ---
 
@@ -250,7 +298,11 @@ Two police officers including a Sub-Inspector (SI) and a Sergeant have been arre
 
 Accordingly, a Sub-Inspector attached to Mawathagama Police Station and a Sergeant of the Doretiyawa Police Station have been arrested by the CID and are being questioned under detention, police said.
 
-◼️
+They have been arrested by a team of CID officers as per the instructions of the Inspector General of Police Deshabandu Tennakoon after information were revealed regarding them during interrogation of a suspect who was arrested and held for drug trafficking by Mawathagama Police.
+
+One of the arrested cops, SI Amila Lasantha Kumara (56) has allegedly had contacts with “Dubai Sampath” who is identified to have been involved in drug trafficking across Kurunegala.
+
+...
 
 [Data](articles/3d4f4ec5.json)
 
@@ -361,6 +413,24 @@ The Cabinet of Ministers, the incumbent and former higher officials in the healt
 [Data](articles/29eb4bc8.json)
 
 [Extended Data](ext_articles/29eb4bc8.ext.json)
+
+---
+
+### ලාංකික තරුණියක් අඟහරු මත ජීවිතය පිළිබඳ පුහුණුවක් සඳහා සුදුසුකම් ලබයි
+
+*2024-04-18 18:55:43* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-තරුණියක්-අඟහරු-මත-ජීවිතය-පිළිබඳ-පුහුණුවක්-සඳහා-සුදුසුකම්-ලබයි/11-409154) · `si`
+
+එක්සත් ජනපදයේ නාසා ආයතනය අනාගතයේදී අඟහරු වෙත සිදු කරන මිනිසුන් සහිත මෙහෙයුම් සඳහා වැදගත් වන පර්යේෂණයක් වෙනුවෙන් සම්බන්ධ වන සිව් දෙනෙකුගෙන් යුත් කණ්ඩායමකට තේරී පත්වීමට ශ්‍රී ලාංකික තරුණියක වන පියුම් විජේසේකර සමත්ව ඇතැයි වාර්තා වෙයි.
+
+Human Exploration Research Analog (HERA) ලෙස නම් කර ඇති මෙම පර්යේෂණ මෙහෙයුම මගින් නාසා ආයතනයට අයත් හූස්ටන්හි පිහිටි ජොන්සන් අභ්‍යවකාශ මධ්‍යස්ථානය තුළ ඉදි කෙරෙන අඟහරුගේ පරිසරය හා සමාන වාසස්ථානයක් තුළ මෙම සිව්දෙනාට දින 45ක කාලයක් ගත කිරීමට අවස්ථාව සලසා දෙයි.
+
+මේ වනවිට කැලිෆෝනියා විශ්වවිද්‍යාලයේ ජෛව ඉංජිනේරුවිද්‍යාව පිළිබඳව මූලික අධ්‍යාපනය හදාරමින් සිටින පියුමි නාසාහි Ames පර්යේෂණ මධ්‍යස්ථානය හා සම්බන්ධව කටයුතු කරයි.
+
+ඇයට අමතරව ජේසන් ලී, ස්ටෙෆනි නවාරෝ සහ ෂරීෆ් අල් රොමායිති යන තිදෙනා මෙම අවස්ථාව සඳහා සුදුසුකම් ලබා තිබේ. ඔවුන් ලබන මැයි 10 වැනිදා අඟහරු හා සමාන මෙම පරිශ්‍රය වෙත ඇතුළු වන අතර, ඔවුන් නැවතත් ඉන් පිටතට පැමිණෙන්නේ, එනම් පෘථිවිය වෙත පැමිණෙන්නේ ජූනි 24 වැනිදාය.
+
+...
+
+[Data](articles/4348e149.json)
 
 ---
 
@@ -2241,73 +2311,5 @@ The Gender Focal Point would have to prepare a plan of activities on gender-equa
 [Data](articles/a667a6e5.json)
 
 [Extended Data](ext_articles/a667a6e5.ext.json)
-
----
-
-### Sri Lanka’s Piyumi Wijesekara among NASA’s new crew for next simulated Mars journey
-
-*2024-04-18 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98699/sri-lankas-piyumi-wijesekara-among-nasas-new-crew-for-next-simulated-mars-journey) · `en`
-
-NASA has selected a new crew of four volunteers to participate in a simulated mission to Mars within a habitat at the agency’s Johnson Space Center in Houston.
-
-Jason Lee, Stephanie Navarro, Shareef Al Romaithi, and Piyumi Wijesekara will step into the agency’s Human Exploration Research Analog, or HERA, on Friday, May 10. Once inside, the team will live and work like astronauts for 45 days. The crew will exit the facility on June 24 after they “return” to Earth. Jose Baca and Brandon Kent are this mission’s alternate crew members.
-
-...
-
-[Data](articles/71fdcfd5.json)
-
-[Extended Data](ext_articles/71fdcfd5.ext.json)
-
----
-
-### 7 lakh tourists visit Sri Lanka in 14 weeks
-
-*2024-04-18 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181346) · `ta`
-
-Sri Lanka reached 7 lakh tourists in 14 weeks, with a steady growth rate. The country aims to hit 168,539-182,724 tourists in April, potentially surpassing last year's total of 105,498.
-
-🟩
-
-Sri Lanka has crossed the milestone of 7 lakh tourists in 14 weeks.
-
-According to data from the Sri Lanka Tourism Development Authority, a total of 718,315 tourists visited the country from January 1 to April 15.
-
-82,531 tourists visited in the first 15 days of April. It shows that the growth speed of tourists coming to the country is steady.
-
-The arrival of daily tourists a year ago declined to 3000, and now increased to 5,502 in April.
-
-Sri Lanka targets tourists between 168,539 and 182,724 in April.
-
-To achieve this goal, the average number of tourists should visit the average number of 5,617 to 6,090 per day.
-
-The speed of the present arrival shows that the arrival of the month of Sri Lanka may reach the border under the target.
-
-The country will surpass the arrival of 105,498 tourists registered in April last year if the arrival of tourists increases.
-
-In 2018, the arrival of tourists needs an advanced speed to reach the country.
-
-...
-
-[Data](articles/8ddb7173.json)
-
-[Extended Data](ext_articles/8ddb7173.ext.json)
-
----
-
-### Common periods of military personnel who have not reported to work
-
-*2024-04-18 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195754) · `si`
-
-Army personnel legally leave the Army.
-
-🟩
-
-Army personnel have been legally announced to leave the Army to leave the Army.
-
-◼️
-
-[Data](articles/03963c01.json)
-
-[Extended Data](ext_articles/03963c01.ext.json)
 
 ---

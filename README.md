@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 16:05:32**
+As of **2024-04-18 16:18:32**
 
 ## Newspaper Stats
 
-*Scraped **19,561** Articles*
+*Scraped **19,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ economynextcom | 1,108
 adalk | 1,632
 tamilmirrorlk | 2,281
 adaderanalk | 2,346
-virakesarilk | 2,917
+virakesarilk | 2,920
 dailymirrorlk | 3,021
-adaderanasinhalalk | 3,183
+adaderanasinhalalk | 3,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,561 (100.0%) of 19,561 articles have been extended.
+19,561 (100.0%) of 19,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### බොරලැස්ගමුවේදී STF කොටුකරගත් තිදෙනාගේ පැටිකිරිය
+
+*2024-04-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195759) · `si`
+
+නියාගම ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමේ සිද්ධියට ආධාර අනුබල ලබාදුන් සැකකරුවන් තිදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය මගින් බොරලැස්ගමුව ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් මාර්තු මස 11 වනදා පිටිගල, නියාගම ප්‍රදේශයේ වෙළෙඳසැලක් තුළදී වෙඩි තබා පුද්ගලයින් දෙදෙනෙකු ඝාතනය කිරීමට අදාළ වෙඩික්කරු හා පැදිකරු ප්‍රවාහනය කිරිමට සම්බන්ධ වී ඇති බව පොලීසිය පවසයි.
+
+ඔවුන් සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම් කරුවෙකු වන කරන්දෙණිය සුද්දා හා සමන් කොල්ලා යන අයගේ සමීපතම ගෝලයින් තිදෙනෙකු බවට අනාවරණය වී ඇති බවද පොලීසිය සඳහන් කර ඇත.
+
+සැකකරුවන් තිදෙනා කහදූව, උණන්පිටිය සහ තවලම  යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 22, 24 සහ 31හැවිරිදි වියේ පසුවන්නන් බවට අනාවරණය වී තිබේ.
+
+සැකකරුවන් සතුව තිබී යතුරුපැදියක් සහ ජංගම දුරකථන 03 ක් පොලිස්භාරයට ගෙන ඇති අතර පිටිගල පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/34c84945.json)
+
+---
+
+### காத்தான்குடி பாலமுனை கடற்கரையில் பெண் ஒருவரின் சடலம் மீட்பு
+
+*2024-04-18 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181380) · `ta`
+
+மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவிற்குட்பட்ட ஆரையம்பதி  பிரதேச செயலக பிரிவிற்குள் அடங்கும் பாலமுனை கடற்கரையோரம் பெண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+
+இன்று மதியம் 12 மணியளவில் பாலமுனை கடற்கரையோரம் கரை ஒதுங்கிய குறித்த சடலம் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிசார் தெரிவிக்கின்றனர்
+
+சுமார் 55 வயது மதிக்கத்தக்க குறித்த பெண் எவ்வாறு மரணமானார் என்பது குறித்த விசாரணைகளை காத்தான்குடி பொலிஸார் தீவிர விசாரணைகளை மேற்கொண்டு வருகின்றனர்
+
+◼️
+
+[Data](articles/44f80cf2.json)
+
+---
+
+### இலங்கையில் அதிகளவில் மரணங்கள் ஏற்பட்டமைக்கு காரணம் மாரடைப்பு!
+
+*2024-04-18 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181376) · `ta`
+
+கடந்த வருடங்களில் அதிகளவில் உயிரிழப்புக்கள் ஏற்பட்டமைக்கு பிரதான காரணம் மாரடைப்பு என சுகாதாரத் துறை தெரிவித்துள்ளது.
+
+அத்தோடு, 2010 ஆம் ஆண்டு முதல் 2020 ஆம் ஆண்டு வரையிலும் அதிகளவில் மரணங்கள் ஏற்பட்டமைக்கு பிரதான காரணமும் மாரடைப்பு என்று சுகாதார திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+அதுமட்டுமன்றி, மாரடைப்பு ஏற்படுவதற்கு பிரதான காரணங்களாக ஆரோக்கியமற்ற உணவு பழக்கங்கள், உடல்  உறுப்புகளின் செயற்பாடுகள் பற்றிய கவனமின்மை, புகையிலை , போதைப்பொருள் பாவனை மற்றும் மன அழுத்தம் உள்ளிட்ட காரணங்களினால் மாரடைப்பு ஏற்படுவதாகவும்  சுகாதாரத் துறை திணைக்களம் சுட்டிகாட்டியுள்ளது.
+
+◼️
+
+[Data](articles/68e43ad8.json)
+
+---
+
+### Demonstration in front of the Pulukamam Kandumani Maha Vidyalaya
+
+*2024-04-18 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181375) · `ta`
+
+Parents, alumni, and school development association members from three schools in Divakamami demonstrated peacefully on Thursday, opposing the Director of Education's transfer and condemning political revenge.
+
+🟩
+
+Parents, alumni and school development association members of the school in the three schools in Divakamami, in front of the Pudukkam Kandumani Maha Vidyalaya in the Batticaloa District of the Batticaloa District, were involved in a demonstration on Thursday (18).
+
+The demonstration took place peacefully, carrying a number of words, such as the Director of Education, who had improved the Zone in a short period of time, stopped political revenge on state officials, and condemned the improper replacement of the Director of Education.
+
+Sivinandam Sridharan, who was serving as the Director of the Zonal Education Office at the Pattupuru Zonal Education Office, was opposed to the transfer of Sivinandam Sridharan and the re -appointment of the Director of Education for the Portrait Zone.
+
+◼️
+
+[Data](articles/c3b6b5ee.json)
+
+[Extended Data](ext_articles/c3b6b5ee.ext.json)
+
+---
+
+### 'டைம்' சஞ்சிகையின் ஆளுமை மிக்க 100 பேரின் பட்டியலில் இலங்கையர்
+
+*2024-04-18 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181377) · `ta`
+
+2024 ஆம் ஆண்டிற்கான டைம் 100 மதிப்பீட்டில், உலகின் மிகவும் செல்வாக்கு மிக்க நபர்களின் பட்டியலில் இலங்கையின் பால்புதுமையினர் செயல்பாட்டாளர் ரோசன்னா ஃபிளேமர்-கால்டெரா இடம் பிடித்துள்ளார்.
+
+◼️
+
+[Data](articles/10c34362.json)
+
+---
 
 ### Did you know about the Indian election which begins tomorrow?
 
@@ -159,28 +245,6 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 [Data](articles/7b6b8211.json)
 
 [Extended Data](ext_articles/7b6b8211.ext.json)
-
----
-
-### Demonstration in front of the Pulukamam Kandumani Maha Vidyalaya
-
-*2024-04-18 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181375) · `ta`
-
-Parents, alumni, and school development association members from three schools in Divakamami demonstrated peacefully on Thursday, opposing the Director of Education's transfer and condemning political revenge.
-
-🟩
-
-Parents, alumni and school development association members of the school in the three schools in Divakamami, in front of the Pudukkam Kandumani Maha Vidyalaya in the Batticaloa District of the Batticaloa District, were involved in a demonstration on Thursday (18).
-
-The demonstration took place peacefully, carrying a number of words, such as the Director of Education, who had improved the Zone in a short period of time, stopped political revenge on state officials, and condemned the improper replacement of the Director of Education.
-
-Sivinandam Sridharan, who was serving as the Director of the Zonal Education Office at the Pattupuru Zonal Education Office, was opposed to the transfer of Sivinandam Sridharan and the re -appointment of the Director of Education for the Portrait Zone.
-
-◼️
-
-[Data](articles/c3b6b5ee.json)
-
-[Extended Data](ext_articles/c3b6b5ee.ext.json)
 
 ---
 
@@ -2199,87 +2263,5 @@ While the issues stemming from the Red Sea attack have already impacted the indu
 [Data](articles/7b25b822.json)
 
 [Extended Data](ext_articles/7b25b822.ext.json)
-
----
-
-### Tourist arrivals cross 700,000 mark in 14 weeks
-
-*2024-04-18 04:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-700-000-mark-in-14-weeks/108-280879) · `en`
-
-Sri Lanka crossed the 700,000 tourist arrival milestone within the first 14 weeks of the year, almost half the time frame taken to reach the mark in 2023.
-
-The provisional data from the Sri Lanka Tourism Development Authority showed that from January 01 to April 15, the island nation welcomed a total of 718,315 international visitors.
-
-For the first 15 days of April, Sri Lanka saw a total of 82,531 tourists enter the country, which affirms the island nation is maintaining the growth momentum.
-
-The daily arrival average improved to around 5,502 in the month, from below 3000 arrivals a year ago.
-
-Sri Lanka is targeting between 168,539 and 182,724 tourist arrivals for April, which requires a daily average between 5,617 and 6,090, to achieve this target.
-
-The current arrival momentum shows that Sri Lanka may reach the lower bound of the arrival target for the month.
-
-...
-
-[Data](articles/536b7219.json)
-
-[Extended Data](ext_articles/536b7219.ext.json)
-
----
-
-### Tough action against those inconveniencing foreign visitors: Diana Gamage
-
-*2024-04-18 03:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tough-action-against-those-inconveniencing-foreign-visitors-Diana-Gamage/108-280882) · `en`
-
-Colombo, April 18 (Daily Mirror) - Strict measures will be taken against anyone causing inconvenience to foreigners visiting the country. She expressed concern over a group of individuals engaging in such indecent behavior, labeling them as disgraceful, Tourism State Minister Diana Gamage said.
-
-"These individuals show no respect towards foreigners. Their actions pose a threat to our country's reputation and cannot be tolerated," she stated.
-
-The State Minister highlighted that modern-day tourists are well-informed and not easily misled. She stressed the importance of maintaining Sri Lanka's reputation for friendliness and hospitality.
-
-"With nearly 700,000 foreigners having visited by April, it's crucial to prevent such actions from tarnishing our image and damaging our economy," Gamage warned.
-
-Recently, there have been two reported incidents in Kalutara and the Aluth Kade area of Colombo where tourists were treated poorly and charged excessively for meals.
-
-◼️
-
-[Data](articles/d427dc59.json)
-
-[Extended Data](ext_articles/d427dc59.ext.json)
-
----
-
-### Invitation to Hirunika
-
-*2024-04-18 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181341) · `ta`
-
-The Court of Appeal has summoned former MP Hirunika Premachandra to appear on May 8.
-
-🟩
-
-The Court of Appeal has summoned former MP Hirunika Premachandra to appear before the court on May 08.
-
-◼️
-
-[Data](articles/672bb2a2.json)
-
-[Extended Data](ext_articles/672bb2a2.ext.json)
-
----
-
-### Highest possible level of transparency provided in bondholders talks: Semasinghe
-
-*2024-04-18 02:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Highest-possible-level-of-transparency-provided-in-bondholders-talks-Semasinghe/108-280854) · `en`
-
-Colombo, April 17 (Daily Mirror) - In a bid to set the record straight, State Minister Finance Shehan Semasinghe pointed out that authorities continue to engage all debt restructuring negotiations in good faith, within principles of equitable treatment among creditors, and with maximum transparency within the norms of such negotiations.
-
-Sections of the political and business community yesterday expressed disappointment in the government not being as open as it should be about the discussion on the debt restructuring with the bondholders.
-
-Sri Lanka yesterday officially announced that no agreement was reached with the bondholders in the first round of talks on the restructuring terms.
-
-...
-
-[Data](articles/1765e64b.json)
-
-[Extended Data](ext_articles/1765e64b.ext.json)
 
 ---

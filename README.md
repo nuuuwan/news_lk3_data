@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 00:18:23**
+As of **2024-04-19 00:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,635** Articles*
+*Scraped **19,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,86 @@ adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,355
 virakesarilk | 2,939
-dailymirrorlk | 3,033
+dailymirrorlk | 3,037
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,634 (100.0%) of 19,635 articles have been extended.
+19,635 (100.0%) of 19,639 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-19 (Friday)
+
+### Suppressing a community by denying education - EDITORIAL
+
+*2024-04-19 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Suppressing-a-community-by-denying-education-EDITORIAL/172-280950) · `en`
+
+These are days when politicians in the country are getting ready for upcoming elections, hence there are thoughts about whether anyone of them would use schools and education to promote their cause.
+
+Some of the candidates have already started mingling with students and presenting them with opportunities to ask questions on hot topics that are bothering them. One of the probable candidates in the presidential elections is seen offering material goods to students. He dare not present the opportunity for students to ask questions because he would then be putting himself in a very uncomfortable position. There is one other election candidate who offers this opportunity to students and by doing so makes the questioner lose his way in a temporary world of stardom; because the student loses focus of the existing world when he or she gets to question the highest authority in the country. These are all political gimmicks.
+
+...
+
+[Data](articles/532fadce.json)
+
+---
+
+### What Netanyahu is trying to achieve by provoking Iran
+
+*2024-04-19 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-Netanyahu-is-trying-to-achieve-by-provoking-Iran/172-280949) · `en`
+
+A woman walks past a banner depicting launching missiles bearing the emblem of the Islamic Republic of Iran in central Tehran. AFP
+
+Israel’s hardline and war-thirsty Prime Minister Benjamin Netanyahu is more than ever before well close to dragging the United States into a war with Iran. Ever since Iran launched its nuclear programme in the late 1980s, Israel has been jittery. It fears an Iranian nuke will undermine its nuclear monopoly in the region.
+
+Since Netanyahu became Israel’s prime minister for the first time in 1996, his main foreign policy objective has been to get the United States to attack Iran’s nuclear facilities and prevent the Islamic Republic from achieving nuclear power parity vis-à-vis Israel.
+
+...
+
+[Data](articles/1c4813aa.json)
+
+---
+
+### Five years since the deadly Easter Sunday bombings: Seeking justice for Easter Sunday victims: A stronger  and united struggle vital
+
+*2024-04-19 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Five-years-since-the-deadly-Easter-Sunday-bombings-Seeking-justice-for-Easter-Sunday-victims-A-stronger-and-united-struggle-vital/172-280948) · `en`
+
+April 21 this year will mark five years since the deadly 2019 Easter Sunday bombings in Sri Lanka. The targets included two Catholic churches in the Archdiocese of Colombo, Zion church in the Eastern province, and three high-end hotels in Colombo.
+
+Around 315 people, including about 40 foreigners and 45 children, were reported to have been killed, making it the biggest post-civil war massacre in Sri Lanka.
+
+The damaged churches and hotels were quickly rebuilt. However, many survivors and families of victims still need medical, emotional, and financial support. Their tears, grief, and pain indicate their lives are far from being rebuilt.
+
+The attacks were by Islamic militants and the aftermath of the attacks saw at least one Muslim man being killed and many Muslim shops and houses destroyed and damaged. Many Muslims were detained unjustly for months and years after the attacks, including women with children.
+
+...
+
+[Data](articles/57eb8a5c.json)
+
+---
+
 ### 2024-04-18 (Thursday)
 
-### இளைஞர்கள் எதிர்பார்க்கும் இலங்கை கட்டியெழுப்பப்படும் - ஜனாதிபதி தெரிவிப்பு
+### Sri Lanka will be built to expect youth - President
 
 *2024-04-18 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181409) · `ta`
 
-இந்நாட்டின் இளைஞர்கள் எதிர்பார்க்கும் இலங்கையை உருவாக்க முடியும் என்ற உறுதியான நம்பிக்கை தனக்கு இருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe said he was confident that the youth of the country could create Sri Lanka.
 
-வீழ்ச்சியடைந்த இலங்கைப் பொருளாதாரத்தை மீளக் கட்டியெழுப்புவது கடினமானது எனப் பலரும் கூறியபோதும் அந்த சவாலை ஏற்றுக்கொண்டு, இரண்டு வருடங்களுக்குள் நாட்டின் பொருளாதாரத்தை ஸ்திரமான நிலைக்குக் கொண்டு வந்ததாகச் சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டை முன்னோக்கி நகர்த்துவதற்கு ஒற்றுமை ஒன்றே தேவையெனவும் தெரிவித்தார்.
+Although many said that it was difficult to rebuild the declined Sri Lankan economy, the president said that within two years, the country's economy had been stable within two years, adding that it was unity to move the country forward.
 
-நுவரெலியா மாவட்ட இளைஞர் பாராளுமன்ற உறுப்பினர்கள் மற்றும் இளம் அரசியல் பிரதிநிதிகளுடன் வியாழக்கிழமை (18) நுவரெலியா ஜனாதிபதி மாளிகையில் இடம்பெற்ற சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe made this statement at a meeting held at the Nuwara Eliya President's House on Thursday (18) with the youth MPs and young political representatives of the Nuwara Eliya District.
+
+A group of young parliamentarians representing the Nuwara Eliya, Hanguratta, Maskeliya, Kothmalai and Valappanai and a group of youth representatives of many parties including the United National Party, the United People's Power and the National People's Power were present at the event and discussed various issues including the Nuwara Eliya District Development activities.
 
 ...
 
 [Data](articles/86690e14.json)
+
+[Extended Data](ext_articles/86690e14.ext.json)
 
 ---
 
@@ -973,6 +1027,22 @@ Discussions and plans on the housing scheme to be carried out in the Northern Pr
 [Data](articles/a5f1a8c4.json)
 
 [Extended Data](ext_articles/a5f1a8c4.ext.json)
+
+---
+
+### Climate change to cost world economy US$ 38 trillion
+
+*2024-04-18 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Climate-change-to-cost-world-economy-US-38-trillion/108-280919) · `en`
+
+The global annual damage caused by climate change is estimated to be 38 trillion dollars until the year 2050, a study by a German research institute has found.
+
+According to scientists at the Potsdam Institute for Climate Impact Research (PIK) ‘the world economy is already committed to an income reduction of 19 percent until 2050, even if CO2 emissions were to be drastically cut immediately.
+
+South Asia and Africa are listed as regions that will experience the strongest income reductions due to climate change. The damages will be primarily caused by impacts on agricultural yields, labor productivity or infrastructure, the study further elaborated.
+
+◼️
+
+[Data](articles/cc5d61f6.json)
 
 ---
 
@@ -2237,87 +2307,5 @@ The US $ 296.9030 and the sales price were Rs 306.4145 based on the Central Bank
 [Data](articles/bfdc8f1a.json)
 
 [Extended Data](ext_articles/bfdc8f1a.ext.json)
-
----
-
-### Boat seizure in illegal fishing at Jaffna
-
-*2024-04-18 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181355) · `ta`
-
-The Vidyalayakkunni Navy seized a boat involved in illegal fishing on Wednesday, arresting a person using unauthorized nets. The arrested person, from Kattakkad, was handed over to the Jaffna Fisheries Inspector for legal action.
-
-🟩
-
-A boat involved in illegal fishing has been seized in a sudden raid conducted by the Vidyalayakkunni Navy on Wednesday (17).
-
-A person has been arrested with a boat while fishing using unauthorized nets.
-
-The Navy sources said that the arrested person belonged to the Kattakkad and handed over to the Jaffna Fisheries Inspector for further legal action.
-
-◼️
-
-[Data](articles/248591fd.json)
-
-[Extended Data](ext_articles/248591fd.ext.json)
-
----
-
-### IMF ready to support Sri Lanka’s discussions with bondholders
-
-*2024-04-18 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98701/imf-ready-to-support-sri-lankas-discussions-with-bondholders) · `en`
-
-The International Monetary Fund (IMF) stands ready to support Sri Lanka’s discussions with international bondholders and will provide a formal assessment after the parties reach a tentative agreement-in-principle, an IMF spokesperson said on Thursday.
-
-“We hope an agreement consistent with the parameters of the IMF-supported program and official creditors’ Comparability of Treatment requirements can be reached soon, ahead of completing the second review under the program,” the spokesperson said.
-
-Sri Lanka said it failed to reach an agreement with bondholders to restructure about $12 billion debt earlier this week, raising concerns there could be a delay in the island nation receiving a third tranche of its $2.9 billion IMF program in June.
-
-The government said one of the main stumbling blocks had been that the “baseline parameters” of the bondholders’ plan had not matched those embedded in its IMF program.
-
-...
-
-[Data](articles/bf84faba.json)
-
-[Extended Data](ext_articles/bf84faba.ext.json)
-
----
-
-### Sri Lanka’s Commercial Credit Singapore key shareholder under liquidation order
-
-*2024-04-18 12:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-credit-singapore-key-shareholder-under-liquidation-order-159053/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Credit and Finance Plc said a Singapore firm has ordered its second largest shareholder, which owns 29.99 percent of the firm to be liquidated.
-
-Cosimo Borell of Kroll Pte Ltd has been appointed Liquidator for Group Lease Holdings Pte Ltd, Commercial Credit said in a stock exchange filing.
-
-However, Group Lease Public Company Limited (GL Thailand), the sole shareholder and secured creditor of Group Lease Holdings Pte Ltd, has appealed the decision.
-
-“The operations of the company will not be impacted as of now by the circumstances detailed above, as Commercial Credit and Finance PLC has no financial or operational dependencies on Group Lease Holdings Pte Ltd or any of its related parties,” Commercial Credit and Finance Plc said.
-
-Commercial Credit stock was trading down at 34.50 in intra day trading on Thursday. (Colombo/Apr18/2024)
-
-◼️
-
-[Data](articles/00b95a12.json)
-
-[Extended Data](ext_articles/00b95a12.ext.json)
-
----
-
-### Don't get caught up to these racketeers
-
-*2024-04-18 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195755) · `si`
-
-Two individuals involved in a scam targeting Russian army recruits have been apprehended.
-
-🟩
-
-Two persons who had obtained money from the people who were sent to the Russian army have been arrested.
-
-◼️
-
-[Data](articles/528b3130.json)
-
-[Extended Data](ext_articles/528b3130.ext.json)
 
 ---

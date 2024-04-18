@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 02:49:58**
+As of **2024-04-19 03:03:33**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,643 (100.0%) of 19,645 articles have been extended.
+19,645 (100.0%) of 19,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### யாழ்ப்பாணத்தில் மனைவியை கூரிய ஆயுதத்தால் தாக்கிய கணவனுக்கு விளக்கமறியல்!
+### Explanation for a husband who attacked his wife with sharp weapons in Jaffna
 
 *2024-04-19 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181414) · `ta`
 
-அராலியில் மனைவியை புதன்கிழமை (17) கூரிய ஆயுதத்தால் தாக்கி படுகாயத்தை ஏற்படுத்திய கணவன் வட்டுக்கோட்டை பொலிஸாரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+A husband in Jaffna was arrested for attacking his wife with a sharp weapon during a New Year celebration. They've been separated for six years, with the wife visiting her sister in Jaffna. The wife was injured and is being treated at the Jaffna Teaching Hospital. The suspect is held at Mallakam court for 14 days.
 
-குறித்த கணவன் - மனைவி ஆறு வருடங்களாக பிரிந்து இருக்கின்றனர். இந்நிலையில் வன்னியில் வசிக்கும் மனைவி, யாழ்ப்பாணம் - அராலியில் உள்ள அவரது அக்காவின் வீட்டிற்கு வந்து செல்வது வழமை.
+🟩
 
-இந்நிலையில் தாக்குதலுக்கு உள்ளான பெண், புது வருட கொண்டாட்டத்திற்காக சகோதரி வீட்டுக்கு வந்திருந்த நிலையில் கணவனால் இவ்வாறு தாக்குதல் நடாத்தப்பட்டுள்ளது. படுகாயமடைந்த மனைவி யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகிறார்.
+The husband was arrested by the Vaddukoddai police for allegedly attacking his wife on Wednesday (17) with a sharp weapon.
 
-கைது செய்த சந்தேக நபரை மல்லாகம் நீதிமன்றத்தில் முற்படுத்தியவேளை அவரை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு நீதிவான் உத்தரவிட்டார்.
+Husband and wife have been separated for six years. It is customary for his wife, who lives in Vanni, to come to his sister's house in Jaffna - Arali.
+
+In this case, the woman who was attacked by her sister had been attacked by her husband for a New Year celebration.. The injured wife has been admitted to the Jaffna Teaching Hospital and is being treated.
+
+The magistrate ordered the suspect to be kept in the Mallakam court for 14 days.
 
 ◼️
 
 [Data](articles/911cd2bd.json)
 
+[Extended Data](ext_articles/911cd2bd.ext.json)
+
 ---
 
-### வெற்றுக் காணியில் வைத்திய கழிவுகளை கொட்டும் செயற்பாடு போராட்டத்தால் தடுக்கப்பட்டது
+### The process of pouring medical waste into a blank land was blocked by the struggle
 
 *2024-04-19 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181413) · `ta`
 
-வடக்கில் தனியார் காணியொன்றில் வைத்தியசாலை கழிவுகளை குவித்து சுற்றுச்சூழலுக்கும் பொது சுகாதாரத்திற்கும் ஆபத்தை ஏற்படுத்துவதற்கு எதிராக பிரதேசவாசிகள் போராடியதை அடுத்து குப்பைகளை அகற்ற அதிகாரிகள் நடவடிக்கை எடுத்துள்ளனர்.
+Residents of Ariyalai, Jaffna, protested against the dumping of hospital waste in their area, demanding immediate removal and environmental protection. The protest was sparked by the stench and reports of dangerous medical waste, including blood-soaked clothes and injection needles. The hospital, which had been given a long-term lease for an eye hospital 10 years ago, had not been developed, leading to the waste issue. The protesters demanded answers from hospital officials on the dumping, removal, and environmental impact.
 
-யாழ்ப்பாணம், அரியாலைப் பிரதேசத்தில் நீண்டகால குத்தகை அடிப்படையில், கண் வைத்தியசாலை ஒன்றை அமைப்பதற்கென, யாழ். போதனா வைத்தியசாலைக்கு, சுமார் பத்து வருடங்களுக்கு முன்னர் வழங்கப்பட்ட தனியார் காணியில் வைத்தியசாலை கழிவுகள் கொட்டப்படுவதால் பிரதேசவாசிகள் சுகாதார சீர்கேடுகளை எதிர்நோக்கியுள்ளதாக சுட்டிக்காட்டி, கடந்த ஏப்ரல் 11ஆம் திகதி வைத்தியசாலை அதிகாரிகளுக்கு மக்கள் குழுவொன்று ஆர்ப்பாட்டத்தில் ஈடுபட்டது.
+🟩
 
-இந்த நிலையில், குறித்த பகுதியில் பெருமளவான குப்பைகள் தற்போது அகற்றப்பட்டுள்ளதாக பிரதேச ஊடகவியலாளர்கள் தெரிவிக்கின்றனர்.
+Officials have taken steps to remove the garbage after the residents fought against the risk of hospital waste in a private land in the north and put the residents' threatening to the risk of public health.
 
-எவ்வாறாயினும், நிலத்தடி நீர் உள்ளிட்ட சுற்றுச்சூழலுக்கு ஏற்பட்டுள்ள சேதங்களுக்கு தீர்வு காண வேண்டும் எனவும் ஆர்ப்பாட்டக்காரர்கள் கோரிக்கை விடுத்திருந்தனர்.
+Jaffna to set up an eye hospital on a long lease in Ariyal, Jaffna. On April 11, a group of people staged a demonstration to the hospital authorities, pointing out that the residents were facing health problems due to the dumping of hospital waste in a private land supplied to the teaching hospital about ten years ago.
+
+In this case, area journalists say that a large number of debris has been disposed of in the area.
+
+Demonstrators, however, demanded that the environmental damage to the environment, including groundwater, be addressed.
+
+In the Ariyalai area, the people of the area who had crossed the Jaffna-Kandi main road and demanded that the people of the demonstration immediately remove the waste and create a healthy environment for the people to live.
 
 ...
 
 [Data](articles/4869d6b0.json)
+
+[Extended Data](ext_articles/4869d6b0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 10:33:48**
+As of **2024-04-18 10:51:59**
 
 ## Newspaper Stats
 
-*Scraped **19,493** Articles*
+*Scraped **19,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,127 @@ islandlk | 1,049
 dailyftlk | 1,071
 economynextcom | 1,102
 adalk | 1,623
-tamilmirrorlk | 2,271
-adaderanalk | 2,338
+tamilmirrorlk | 2,273
+adaderanalk | 2,339
 virakesarilk | 2,904
-dailymirrorlk | 3,010
-adaderanasinhalalk | 3,173
+dailymirrorlk | 3,011
+adaderanasinhalalk | 3,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,493 (100.0%) of 19,493 articles have been extended.
+19,493 (100.0%) of 19,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### 35 ஆடுகளை களவாடியவர் கைது
+
+*2024-04-18 10:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/35-ஆடுகளை-களவாடியவர்-கைது/72-336067) · `ta`
+
+புதுக்குடியிருப்பு மல்லிகைதீவு பகுதியில் ஆட்டு காவலாளிகளை தாக்கிவிட்டு  ஆடுகளை களவாடிய குற்றச்சாட்டில்  ஒருவர் கைது செய்யப்பட்ட சம்பவம் ஒன்று புதன்கிழமை (17)  இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு புதுக்குடியிருப்பு பொலிஸ் பிரிவிற்குட்பட்ட புதுக்குடியிருப்பு 9ஆம் வட்டாரம் , மல்லிகைதீவு பகுதியில் ஆட்டு மந்தையில் இருவர் காவல் கடமையில் இருந்த போது திடீரென வந்திறங்கிய குழுவினர்  ஆடுகளை களவாடி செல்ல காவல் கடமையில் இருந்த இருவரையும் தாக்கிவிட்டு 9 இலட்சத்தி முப்பத்தையாயிரம் பெறுமதியான 35 ஆடுகளை கொண்டு சென்றுள்ளனர்.
+
+தாக்குதலுக்கு இலக்கான இருவரில் ஒருவர் 55 வயதுடைய நபர் காயங்களுக்கு உள்ளாகிய நிலையில் புதுக்குடியிருப்பு வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+
+இதனையடுத்து குறித்த சம்பவம் தொடர்பில் புதுக்குடியிருப்பு பொலிஸாருக்கு  தெரியபடுத்தியதனையடுத்து  சந்தேகத்தின் பேரில் வற்றாப்பளை பகுதியை சேர்ந்த 32 வயதுடைய குடும்பஸ்தர் ஒருவரை கைது செய்துள்ளதுடன் 15 ஆடுகள் மீட்கப்பட்டு, ஆடுகளை கடத்தி செல்ல பயன்படுத்திய வொலிரோ கப் ரக வாகனமும்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளளது.
+
+...
+
+[Data](articles/bb7f3f6f.json)
+
+---
+
+### Injunction issued preventing Maithripala from functioning as SLFP chairman extended
+
+*2024-04-18 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98697/injunction-issued-preventing-maithripala-from-functioning-as-slfp-chairman-extended) · `en`
+
+The Colombo District Court ordered the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) to be extended until May 09.
+
+This order was issued when a case filed by former President Chandrika Bandaranaike Kumaratunga was taken up before the court today (18).
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
+
+Earlier in March, former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
+
+...
+
+[Data](articles/65a5af4b.json)
+
+---
+
+### Indonesia issues tsunami alert after volcano erupts on remote island
+
+*2024-04-18 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indonesia-issues-tsunami-alert-after-volcano-erupts-on-remote-island/108-280887) · `en`
+
+(CNN) - Indonesian authorities on Wednesday ordered hundreds of villagers to evacuate following multiple eruptions of a remote island volcano, raising fears it could collapse into the sea and trigger a tsunami.
+
+Mount Ruang, a 725-meter (2,400-foot) conical stratovolcano on Ruang Island, North Sulawesi, has erupted at least five times since Tuesday night, spewing fiery lava and ash plumes thousands of feet into the sky, the country’s volcanology agency said.
+
+Agency chief Hendra Gunawan said officials had raised the volcano alert to the highest level, warning people not to go within 6 kilometers (3.7 miles) of the peak, due to fears Mount Ruang could partially collapse into the water and cause a tsunami, as it did in 1871.
+
+“The force of Mount Ruang’s eruption is getting bigger and has emitted hot clouds of approximately 1.7 kilometers,” he told national news agency Antara, adding the eruptions were triggered by recent earthquakes in the area.
+
+...
+
+[Data](articles/a1f62c4f.json)
+
+---
+
+### ඊශ්‍රායලයට දරුණු ප්‍රහාරයක්
+
+*2024-04-18 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195750) · `si`
+
+ලෙබනනයේ හෙස්බුල්ලා සටන්කාමීන් විසින් උතුරු ඊශ්‍රායලයේ හමුදා මර්මස්ථාන කිහිපයක් වෙත දරුණු ප්‍රහාරයක් එල්ල කර තිබේ.
+
+මිසයිල සහ ඩ්‍රෝන යොදාගෙන එම ප්‍රහාර එල්ල කර ඇති අතර ඉන් ඊශ්‍රායල හමුදා භටයින් 14 දෙනෙක් තුවාල ලබා තිබුණි.
+
+පසුගියදා ඊශ්‍රායල හමුදා ප්‍රහාරයකින් හෙස්බුල්ලා ප්‍රධානීන් කිහිපදෙනෙක් ජීවිතක්ෂයට පත්වූ අතර ඊට ප්‍රතිචාරයක් වශයෙන් මෙම ප්‍රහාර එල්ල කළ බව හෙස්බුල්ලා සංවිධානය පැවසීය.
+
+තුවාල ලැබූ ඊශ්‍රායල භටයින් කිහිපදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/e5bfac7a.json)
+
+---
+
+### கடலில் குழந்தை பிரசவம்
+
+*2024-04-18 10:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கடலில்-குழந்தை-பிரசவம்/72-336066) · `ta`
+
+நயினாதீவை சேர்ந்த பெண்ணொருவருக்கு புதன்கிழமை(17)  திடீரென பிரசவ வலி ஏற்பட்டதை அடுத்து , நயினாதீவு பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றுமாறு வைத்தியர் பரிந்துரைத்தார். அதனை அடுத்து போதனா வைத்தியசாலைக்கு கொண்டு செல்வதற்கு, அம்புலன்ஸ் படகு தற்போது சேவையில் ஈடுபடாததால் , பொதுமக்கள் போக்குவரத்து படகில் ஏற்றி குறிகாட்டுவான் நோக்கி அழைத்து வந்துள்ளனர்.
+
+அந்நிலையில் கடலில் படகு பயணித்துக்கொண்டிருந்த வேளை , பிரசவ வலி பெண்ணுக்கு அதிகரித்ததை அடுத்து , படகின் கீழ் தளத்தில் இருந்த ஆண்களை மேல் தளத்திற்கு அனுப்பி வைத்த பின்னர் , படகில் பயணித்த பெண்களே பிரசவம் பார்த்துள்ளனர்.
+
+படகு குறிகட்டுவான் இறங்கு துறையை வந்தடைந்ததும் , அங்கு தயார் நிலையில் நின்ற புங்குடுதீவு வைத்தியசாலையின் நோயாளர் காவு வண்டியில் தாயையும் சேயையும் , யாழ்.போதனா வைத்தியசாலைக்கு அழைத்து சென்றனர்.
+
+◼️
+
+[Data](articles/56b40416.json)
+
+---
+
+### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+
+*2024-04-18 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195749) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් නිකුත් කර තිබෙන වාරණ නියෝගය මැයි මස 09 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (18) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ අනුශාසිකාවක වන හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ පැමිණිල්ලක් අද යළි කැඳවීමෙන් අනතුරුව දිසා අධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/421c7517.json)
+
+---
 
 ### Tsunami warning to Indonesia
 
@@ -2067,145 +2173,5 @@ Accordingly, it is more important to follow a diet plan that avoids unnecessary 
 [Data](articles/d3a621e5.json)
 
 [Extended Data](ext_articles/d3a621e5.ext.json)
-
----
-
-### The government should maintain transparency in compliance agreements with international creditors - Dr. Harsha de Silva emphasizes
-
-*2024-04-17 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181323) · `ta`
-
-Dr. Harsha de Silva urges transparency in debt restructuring agreements with international creditors, emphasizing the need for long-term compliance beyond the current government's term.
-
-🟩
-
-The government seems to have agreed to carry out debt restructuring in accordance with economic growth. But we think that it does not matter to it fully. However, United People's Power Parliamentarian Dr. Harsha de Silva said the government should maintain transparency in compliance agreements reached with international creditors.
-
-He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Wednesday (17).
-
-The government has officially announced that talks with international credit providers have been completed. The government's expectation was to complete negotiations by April and reach a compliance with the reform of $ 12.7 billion.
-
-Go beyond politics and focus on this. It must be understood that they do it for the people of Sri Lanka, no matter who negotiations. We must act until 2040 in accordance with these negotiations.
-
-...
-
-[Data](articles/a4ae88af.json)
-
-[Extended Data](ext_articles/a4ae88af.ext.json)
-
----
-
-### The cause of Palitha's death reveals
-
-*2024-04-17 18:00:16* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-මරණයට-හේතුව-හෙළිවෙයි/11-409130) · `si`
-
-Palitha Thewarapperuma, former Minister of State, died from severe internal organ damage. Post-mortem examination by Kalutara Hospital's Judicial Medical Officer revealed the cause. The body was identified at Kalutara Survey Hospital and inspected by KM. The Minister was hit in Kalutara, where local tests were conducted. Mrs. Ama Rajapaksa Naltaangani Amaratunga, the Minister's wife, identified the body. UNP General Secretary Palitha Ranga Bandara visited the scene. The body was then taken to a flower hall in Kalutara, followed by condolences in Matugama.
-
-🟩
-
-The death of former Minister of State Palitha Thewarapperuma has confirmed death due to serious damage caused by the body of the body of internal organs.
-
-Specialist Judicial Medical Officer of the Nagoda Hospital, Kalutara. The post mortem examination was held today (17) under the patronage of Mr. Gunatilake.
-
-The Minister was in the Under-Numbola, Navaththawatta, Ughawalawatta, Navaththawela, has been inspected by Kalutara Specialist Judicial Medical Officer KM.
-
-Former minister's wife, Ama Rajapaksa Naltaangani Amaratunga, the body was identified at the Kalutara Survey Hospital.
-
-The Minister was observed where the Minister was hit by the Minister in Kalutara criminal laboratories and conducted a local test.
-
-Prior to the post mortem, Mrs. Kalutara Chief Magistrate Nathira Hemamali Hamfdhandeniya was also checked by Kalutara Chief Magistrate Nathira Hemali Hamfadandena.
-
-...
-
-[Data](articles/711289d6.json)
-
-[Extended Data](ext_articles/711289d6.ext.json)
-
----
-
-### Sri Lanka hoping to continue talks with bondholders after consulting IMF
-
-*2024-04-17 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98688/sri-lanka-hoping-to-continue-talks-with-bondholders-after-consulting-imf) · `en`
-
-The Government of Sri Lanka says it hopes to continue discussions with the bondholders with a view to reaching common ground ahead of the International Monetary Fund (IMF) board consideration of the second review of Sri Lanka’s Extended Fund Facility (EFF) program.
-
-The Finance Ministry, yesterday, issued a statement announcing that the government has concluded the initial restricted discussions with nine members of the Steering Committee of the Ad Hoc Group of Bondholders regarding its international sovereign bonds (ISBs).
-
-The Steering Committee as a whole comprises ten of the largest members of the Group, with the Group controlling approximately 50% of the aggregate outstanding amount of ISBs.
-
-...
-
-[Data](articles/82899d61.json)
-
-[Extended Data](ext_articles/82899d61.ext.json)
-
----
-
-### 47 lakhs in Dehiwala
-
-*2024-04-17 17:47:55* · [`adalk`](https://www.ada.lk/breaking_news/දින-තුනට-දෙහිවල-ලක්ෂ-47ක්-හොයයි/11-409129) · `si`
-
-The Dehiwala Zoo's Assistant Director earned Rs. 47 million. From April 13-15, the zoo attracted 13 lakhs on the 13th, 15 lakhs on the 14th, and visitors from various age groups.
-
-🟩
-
-The Assistant Director of the Dehiwala Zoo, the Assistant Director of the Dehiwala Zoo had earned over Rs. 47 million.
-
-April 13, 14,15 children, young, elderly, old and visitors have come from the four-day district. They have earned Rs. 13 lakhs of April 13, 15 lakhs of April 14.
-
-◼️
-
-[Data](articles/e4443b74.json)
-
-[Extended Data](ext_articles/e4443b74.ext.json)
-
----
-
-### State Minister speaks of preparations in Sri Lanka
-
-*2024-04-17 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195729) · `si`
-
-State Minister Shehan Semasinghe discusses Sri Lanka's preparations for restructuring international sovereign bonds, aiming for transparency and trust. The Ministry of Finance and the International Monetary Fund are involved in these discussions.
-
-🟩
-
-Minister of State Shehan Semasinghe says that he is looking to further discuss with the restructuring of international sovereign bonds.
-
-The State Minister further states that the Sri Lankan authorities are working to be a good trust for the restructuring discussions and to act as well and to create a maximum transparency that is expected in such discussions.
-
-The Ministry of Finance issued a statement yesterday regarding the progress of discussions with representatives of Sri Lanka and the International Sovereign Bonds of the International Sovereign Bonds.
-
-The International Monetary Fund is informed by the International Monetary Fund to educate the international sovereignty bonds and discussing future discussions.
-
-◼️
-
-[Data](articles/dc751096.json)
-
-[Extended Data](ext_articles/dc751096.ext.json)
-
----
-
-### Kottu Mudalai released on bail
-
-*2024-04-17 17:43:29* · [`adalk`](https://www.ada.lk/breaking_news/කොත්තු-මුදලාලිට-ඇප/11-409128) · `si`
-
-Kottu Mudalai released on bail after a large disclosure of Sri Lanka internationally. Arrested on suspicion of threatening a forest, he was released after considering presentations. The arrest followed a complaint lodged with the police.
-
-🟩
-
-The Kelwatta Police have informed Colombo Additional Magistrate Kissara Ratnayake today (17), Colombo Additional Magistrates, Colombo Additional Magistrates, Colombo Additional Magistrates today (17) had been involved in a large disclosure of Sri Lanka internationally.
-
-The Magistrate, who was arrested on suspicion and release the suspect in charge of the suspect, the suspects were arrested on suspicion of threatening to a forest.
-
-After considering the presentations, Mohammed Amir Hamza Amir was released on bail.
-
-The suspect was informed of the court that the suspect was arrested following a complaint lodged with a complaint with the progress of investigations into the incident.
-
-The Foreign Officer of the Kattwatte police to purchase the bread of Kottattiya lounge at the time of the suspects of the suspect, he had noticed that the suspect had been threatening the bread and scolding the suspect.He said Sri Lanka is internationally internationally.
-
-...
-
-[Data](articles/d2b6e230.json)
-
-[Extended Data](ext_articles/d2b6e230.ext.json)
 
 ---

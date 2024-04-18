@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-18 15:18:36**
+As of **2024-04-18 15:33:57**
 
 ## Newspaper Stats
 
-*Scraped **19,557** Articles*
+*Scraped **19,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ economynextcom | 1,108
 adalk | 1,631
 tamilmirrorlk | 2,281
 adaderanalk | 2,346
-virakesarilk | 2,915
+virakesarilk | 2,917
 dailymirrorlk | 3,021
-adaderanasinhalalk | 3,182
+adaderanasinhalalk | 3,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,556 (100.0%) of 19,557 articles have been extended.
+19,557 (100.0%) of 19,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-18 (Thursday)
+
+### හෙට ඇරඹෙන ඉන්දීය මැතිවරණය ගැන මේ කරුණු දැන සිටියාද ?
+
+*2024-04-18 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195758) · `si`
+
+ලොව වැඩිම ඡන්ද දායකයින් සහිත රට වන ඉන්දියාවේ මහ මැතිවරණය හෙට (19) ඇරඹෙයි.
+
+ලෝක් සභාව සඳහා නියෝජිතයින් මෙම මැතිවරණයෙන් තෝරාගන්නා අතර වර්තමාන අගමැති නරේන්ද්‍ර මෝදි ද තවත් 5 වසරක් සඳහා බලය ඉල්ලයි.
+
+තමිල්නාඩුව ඇතුළු ප්‍රාන්ත 7ක මැතිවරණය හෙට ආරම්භ වන අතර ඉන්දියාව පුරා ඡන්ද විමසීම ජුනි 01 වනදා දක්වා පැවැත්වෙයි.
+
+සමහර ප්‍රාන්ත වල ඡන්දය එක් දිනක් පමණක් පැවැත්වෙන අතර ඉන්දියාවේ ජනගහනය අධික ප්‍රාන්තයක් වන උත්තර් ප්‍රදේශ් හි සහ බිහාර්, බටහිර බෙන්ගාල වැනි ප්‍රාන්තවල මැතිවරණය සතියක් පුරා පැවැත්වෙයි.
+
+මැතිවරණ ප්‍රතිඵල ජූනි 4 වනදා වනවිට ප්‍රකාශයට පත්කිරීමට හැකිවෙතැයි අනුමාන කෙරේ.
+
+බිලියන 1.42ක් වන ඉන්දීය ජනගහනයෙන් මිලියන 969ක් ඡන්දය ප්‍රකාශ කිරීමට සුදුසුකම් ලබා තිබේ.
+
+එම ප්‍රමාණය උතුරු ඇමෙරිකාවේ සහ යුරෝපීය සංගමයේ ජනගහනය එක්කළ විට ලැබෙන අගයට වඩා වැඩි බව සී එන් එන් පුවත් සේවය වාර්තා කරයි.
+
+2019 පැවති මැතිවරණයට වඩා කාන්තාවන් මිලියන 40ක් මෙවර මැතිවරණය සඳහා සුදුසුකම් ලබා ඇති බව සඳහන් ය.
+
+එසේම පළමුවර ඡන්දය ප්‍රකාශ කරන පිරිස මිලියන 18කි. ඡන්ද දායකයින්ගෙන් 218,000ක් වයස අවුරුදු 100ට වැඩි අය වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/b037b190.json)
+
+---
+
+### 2024ம் ஆண்டுக்கான 100 செல்வாக்கு மனிதர்களில் ஒருவர் காசாவின் புகைப்படப்பிடிப்பாளர் - டைம்ஸ் தெரிவு
+
+*2024-04-18 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181378) · `ta`
+
+2024ம் ஆண்டு செல்வாக்கு செலுத்திய 100 நபர்களில் ஒருவராக பாலதீன புகைப்படப்பிடிப்பாளர் மொட்டாஸ் அசைசாவை டைம்ஸ் தெரிவுசெய்துள்ளது.
+
+கடந்த 108 நாட்களாக அவரது சொந்த ஊரான காசா குறித்த உலகின் குரலாகவும் பார்வையாகவும் அசைசா விளங்கினார்.
+
+கமராவுடனும் பிரெஸ் என்ற எழுத்துக்கள்பொறிக்கப்பட்ட ஜக்கெட்டுடனும் அவர் நான்கு மாதங்களாக இஸ்ரேலின் குண்டுவீச்சின் கீழ் வாழ்க்கை வீடுகளில் இருந்து இடம்பெயர்ந்த மக்கள் தங்கள் நேசத்துக்குரியவர்களை இழந்து கதறும் பெண்கள் இடிபாடுகளின் கீழ் சிக்கி உயிரிழந்த நபர் போன்ற விடயங்களை பதிவு செய்தார்.
+
+காசாவிற்குள் நுழைவதற்கு அனுமதி மறுக்கப்பட்டுள்ள ஊடகவியலாளர்களுக்கு சவாலாக அமையக்கூடிய விதத்தில் காணப்பட்ட அவரது படங்கள் காசாவில் என்ன நடைபெறுகின்றது என்பதை உலகிற்கு தெரிவித்தன.
+
+ஒக்டோபர் ஏழாம் திகதி முதல் 98 பத்திரிகையாளர்கள் காசாவில் கொல்லப்பட்டுள்ளனர். மேலும் பலர் கொல்லப்பட்டுள்ளனர் கைதுசெய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/42b527d5.json)
+
+---
 
 ### Parties raise objections against first court case under Online Safety Act
 
@@ -45,6 +93,8 @@ Court issued this conditional order in favour of the petitioner Janaka Ratnayake
 ...
 
 [Data](articles/50e4e65d.json)
+
+[Extended Data](ext_articles/50e4e65d.ext.json)
 
 ---
 
@@ -93,6 +143,20 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 [Data](articles/7b6b8211.json)
 
 [Extended Data](ext_articles/7b6b8211.ext.json)
+
+---
+
+### பழுகாமம் கண்டுமணி மகாவித்தியாலயத்திற்கு முன்னால் ஆர்ப்பாட்டம்
+
+*2024-04-18 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181375) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் பட்டிருப்பு வலயக் கல்வி அலுவலகத்தின் கீளுள்ள பழுகாமம் கண்டுமணி மகாவித்தியாலயத்தின் முன்னால், பாழுகாமத்திலுள்ள மூன்று பாடசாலைகளிலும் கல்வி பயிலும் மாணவர்களின் பெற்றோர்கள், பழைய மாணவர்கள், பாடசாலை அபிவிருத்திச் சங்க உறுப்பினர்கள் என பலரும் ஒன்றிணைந்து ஆர்ப்பாட்டத்தில் வியாழக்கிழமை (18) ஈடுபட்டிருந்தனர்.
+
+குறுகிய காலத்தில் வலயத்தை முன்னேற்றிய கல்விப் பணிப்பாளர் எமக்கு வேண்டும், அரச அதிகாரிகள் மீதான அரசியல் பழிவாங்கலை உடன் நிறுத்து, பட்டிருப்பு வலயக் கல்விப் பணிப்பாளரின் முறைகேடான இடமாற்றத்தை வன்மையாக கண்டிக்கின்றோம் போன்ற பல வாசகங்கள் எழுதிய பாதாகைகளை ஏந்தியவாறு அமைதியான முறையில் இவ் ஆர்ப்பாட்டம் இடம்பெற்றது.
+
+...
+
+[Data](articles/c3b6b5ee.json)
 
 ---
 
@@ -2189,69 +2253,5 @@ He assured that necessary instructions have been provided to the Ministry Secret
 [Data](articles/c75a1b92.json)
 
 [Extended Data](ext_articles/c75a1b92.ext.json)
-
----
-
-### DP Education opens Sri Lanka’s first digital preschool in Bibile
-
-*2024-04-18 01:38:42* · [`dailyftlk`](https://www.ft.lk/news/DP-Education-opens-Sri-Lanka-s-first-digital-preschool-in-Bibile/56-760751) · `en`
-
-Further expands IT Campus initiative and DP Silicon Valley IT office program
-
-DP Education, the philanthropic initiative of MP Dhammika Perera’s DP Foundation, yesterday opened the country’s first digital pre-school in Bibile in Uva province.
-
-Perera also opened the latest branch of DP IT Campus at the Bibile Wagama Sri Saddaramalankara Pirivena consisting of 21 computers with internet connection enabling students and youth to learn software development and coding free of charge. The initiative at Bibile is with the blessings and support of Venerable Badullagammana Gunaratne Maha Thero.
-
-The opening of the DP IT Campus in Bibile is part of DP Education’s initiative to ensure a Campus in each of the 131 Divisional Secretariats in the country.
-
-A DP Silicon Valley IT office which houses those who have acquired software and coding skills to undertake projects was also opened in Bibile along with Language School.
-
-◼️
-
-[Data](articles/0fc9015c.json)
-
-[Extended Data](ext_articles/0fc9015c.ext.json)
-
----
-
-### CA Sri Lanka Kuwait Chapter partners Kuwait Accountants & Auditors Association
-
-*2024-04-18 01:33:01* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-Kuwait-Chapter-partners-Kuwait-Accountants-Auditors-Association/34-760750) · `en`
-
-CA Kuwait MoU 2024:  CA Sri Lanka President Heshana Kuruppu and KAAA Chairman Sabah Mubarak Al-Jalawi exchanging the MoU
-
-Initiative aimed at boosting professional growth opportunities for Sri Lankans
-
-Heralding a new era for both Sri Lankan and Kuwaiti accounting professionals, the Kuwait Chapter of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) is poised to catalyze professional growth and knowledge exchange opportunities for Sri Lankans through an impactful partnership with the Kuwait Accountants & Auditors Association (KAAA).
-
-The Memorandum of Understanding (MoU) was signed by CA Sri Lanka President Heshana Kuruppu and KAAA Chairman Sabah Mubarak Al-Jalawi, in the presence of Ambassador of Sri Lanka in Kuwait Kandeepan Balasubramanaiam and CA Sri Lanka Kuwait Chapter President Dimuthu Ethugala at a recent event at the Crown Plaza Hotel, Kuwait.
-
-...
-
-[Data](articles/75956858.json)
-
-[Extended Data](ext_articles/75956858.ext.json)
-
----
-
-### Ex-CIC fame Samantha Ranatunga new Chairman at HVA Foods
-
-*2024-04-18 01:32:27* · [`dailyftlk`](https://www.ft.lk/business/Ex-CIC-fame-Samantha-Ranatunga-new-Chairman-at-HVA-Foods/34-760749) · `en`
-
-Samantha Ranatunga has been appointed as the Chairman of HVA Foods PLC.
-
-The new appointment follows the resignation of previous Chairman B. S. M. De Silva.
-
-Ranatunga was the Managing Director of CIC Holdings PLC from 2010 to 2019. He joined the Company as an Executive in 1988 and held various senior positions and was Director of main subsidiaries of CIC Holdings PLC namely Chemanex PLC and Link Naturals Ltd.
-
-Ranatunga served on the Board of Directors of Seylan Bank PLC from 2010 – 2019. During this tenure, he chaired the Risk, Human Resources, Nomination, Marketing and Strategic Planning Committees of the Bank and served as a member of the Audit Committee. He was also the Chairman of Ceylon Chamber of Commerce from 2015 – 2017.
-
-Since 2019, he headed the pioneering Clinical Research Company, RemediumOne Ltd in Sri Lanka which is a public-private partnership with the University of Kelaniya.
-
-...
-
-[Data](articles/c1e60879.json)
-
-[Extended Data](ext_articles/c1e60879.ext.json)
 
 ---

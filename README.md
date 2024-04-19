@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 00:34:51**
+As of **2024-04-20 00:49:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,818 (99.9%) of 19,839 articles have been extended.
+19,827 (99.9%) of 19,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ As planned, the distribution of 735 metric tons of rice to provincial-level scho
 
 [Data](articles/e5de1166.json)
 
+[Extended Data](ext_articles/e5de1166.ext.json)
+
 ---
 
 ### NPP calls on Archbishop of Colombo
@@ -58,6 +60,8 @@ Members of the National People’s Power (NPP) party met with Archbishop of Colo
 
 [Data](articles/d38cd089.json)
 
+[Extended Data](ext_articles/d38cd089.ext.json)
+
 ---
 
 ### DP Education sets up free of charge IT Campus in Akurana
@@ -69,6 +73,8 @@ SLPP MP and founder of DP Education Dhammika Perera serves kiribath to a Muslim 
 ◼️
 
 [Data](articles/a9d0da0a.json)
+
+[Extended Data](ext_articles/a9d0da0a.ext.json)
 
 ---
 
@@ -86,43 +92,57 @@ Ariyaratne passed away on Tuesday after a brief illness at a private hospital. H
 
 [Data](articles/bb29fac3.json)
 
+[Extended Data](ext_articles/bb29fac3.ext.json)
+
 ---
 
-### சிறுமியின் மரணத்திற்கு நீதி கோரி ஆர்ப்பாட்டம்
+### Demonstration for justice for the little girl's death
 
 *2024-04-20 00:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியின்-மரணத்திற்கு-நீதி-கோரி-ஆர்ப்பாட்டம்/175-336107) · `ta`
 
-அண்மையில் வவுனியாவில் உயிரிழந்த சிறுமியின் மரணத்திற்கு நீதி கோரி நேற்றுத் தரணிக்குளம் கிராம மக்கள் ஈச்சங்குளம் பொலிஸ் நிலையத்தை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Villagers in Taranikkulam protested for justice after a 17-year-old girl was found hanged, claiming her death was suspicious. The girl's father was accused of her death.
 
-கடந்த 17 ஆம் திகதி தரணிக்குளம் கிராமத்தில் வீட்டில்  தூக்கில் தொங்கிய நிலையில் 17 வயதுடைய சிறுமியின் சடலம் மீட்கப்பட்டிருந்தது.
+🟩
 
-நேற்றைய தினம் இறுதி கிரியைகள் இடம்பெற இருந்த வேளை சிறுமியின் இறப்பில் சந்தேகம் இருப்பதாகத் தெரிவித்து சிறுமியின் வீட்டிற்கு முன்பாக கிராம மக்கள் மற்றும் உறவினர்கள் ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்தனர்.
+The villagers of Taranikkulam staged a protest yesterday demanding justice for the death of a girl who died in Vavuniya.
 
-அத்தோடு குறித்த சிறுமியின் மரணத்திற்கு சிறிய தந்தையாரே காரணம் எனவும் தெரிவித்து போராட்டம் ஒன்றை முன்னெடுத்தமையுடன் மரணித்த சிறுமியின் வீட்டில் இருந்து பேரணியாக ஈச்சங்குளம் பொலிஸ் நிலையத்திற்கு சென்று பொலிஸ் நிலையத்தையும் முற்றுகையிட்டமையுடன் வீதியை மறித்தும் ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர். (a)
+The body of a 17 -year -old girl was recovered after she was hanged at home in Taranikkulam village on the 17th.
+
+Villagers and relatives staged a demonstration in front of the girl's house, claiming that the girl's death was suspicious of the death of the girl yesterday.
+
+In addition, the little father was responsible for the death of the girl, who went to the Ichangulam police station in a rally from the house of the girl who died and marched with the police station and crossed the streets.. (A)
 
 ◼️
 
 [Data](articles/2f137643.json)
 
+[Extended Data](ext_articles/2f137643.ext.json)
+
 ---
 
-### பாலித தெவப்பெருமவின் பூத உடல் நல்லடக்கம்
+### Palitha Thevapperuma's Earth Body
 
 *2024-04-20 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
 
-மறைந்த முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவப்பெருமவின் பூத உடல் மத்துகம யட்டதொலவத்தையில் இன்று வெள்ளிக்கிழமை நல்லடக்கம் செய்யப்பட்டது.
+Palitha Thevapperuma, former Minister of State, died from an electric shock in his garden. His body was held at Matugama Yatatolawatte, where political leaders paid tribute. He was buried in a grave he prepared while alive.
 
-அன்னாரின் பூத உடல் மத்துகம யட்டதொலவத்தையில் அவரது இல்லத்தில் பொதுமக்கள் அஞ்சலிக்காக வைக்கப்பட்டிருந்தது.
+🟩
 
-இதன்போது, அன்னாரின் பூத உடலுக்கு எதிர்கட்சித் தலைவர் சஜித் பிரமேதாஸ,முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ,  இலங்கை தமிழரசு கட்சியின் பாராளுமன்ற உறுப்பினர், தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் உள்ளிட்ட அரசியல் முக்கியஸ்தர்கள் அஞ்சலி செலுத்தினர்.
+The body of the late former Minister of State Palitha Thevapperuma was held on Friday at Matugama Yatatolawatte.
 
-பாலித தெவரப்பெரும உயிருடன் இருக்கும் போது தாமே தயாரித்த கல்லறையில் அவரது உடல் அடக்கம் செய்யப்பட்டது.
+The body of Annar was placed in his residence in Matugama Yatatolawatte.
 
-பாலித தெவப்பெரும மத்துகமையிலுள்ள அவரது தோட்டமொன்றில் மின்சாரத் தாக்குதலுக்குள்ளாகி செவ்வாய்க்கிழமை (16)உயிரிழந்தார். அவர் சமூக சேவைக்கு முன்னுரிமை வழங்கும் நபராக காணப்பட்டார்.
+Political leaders paid tribute to Annar's body, including Opposition Leader Sajith Pramedasa, former President Mahinda Rajapaksa, Sri Lanka Tamil National Alliance (TNA) parliamentarian and leader of the Tamil Progressive Alliance, Mano Ganesan.
+
+His body was buried in the grave he produced himself while Palitha Thevarapperuma was still alive.
+
+Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in Matugama. He was seen as a priority for social service.
 
 ◼️
 
 [Data](articles/78d844d7.json)
+
+[Extended Data](ext_articles/78d844d7.ext.json)
 
 ---
 
@@ -140,6 +160,8 @@ Despite the Samagi Jana Balawegaya (SJB) and the Jathika Jana Balawegaya (Nation
 
 [Data](articles/387a5be3.json)
 
+[Extended Data](ext_articles/387a5be3.ext.json)
+
 ---
 
 ### Female workers who keep economy running
@@ -155,6 +177,8 @@ Today, for the first time in three years gross official reserves crossed the US$
 ...
 
 [Data](articles/8d9d0651.json)
+
+[Extended Data](ext_articles/8d9d0651.ext.json)
 
 ---
 
@@ -173,6 +197,8 @@ Furthermore  Ranil’s stock has been rising within the people. As stated  ear
 ...
 
 [Data](articles/b12d67c1.json)
+
+[Extended Data](ext_articles/b12d67c1.ext.json)
 
 ---
 

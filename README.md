@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 08:18:17**
+As of **2024-04-19 08:52:29**
 
 ## Newspaper Stats
 
-*Scraped **19,682** Articles*
+*Scraped **19,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,144 @@ dailyftlk | 1,085
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
-adaderanalk | 2,356
+adaderanalk | 2,357
 virakesarilk | 2,946
-dailymirrorlk | 3,044
-adaderanasinhalalk | 3,195
+dailymirrorlk | 3,048
+adaderanasinhalalk | 3,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,681 (100.0%) of 19,682 articles have been extended.
+19,684 (100.0%) of 19,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Chicken prices down by Rs. 100 today
+
+*2024-04-19 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-down-by-Rs-100-today/108-280958) · `en`
+
+Colombo, April 19 (Daily Mirror) - The retail price of a kilogram of chicken has been reduced by Rs. 100 at the Narahenpita Economic Centre today.
+
+Accordingly, the retail price of a kilo of fresh chicken at the Economic Center is Rs. 1,260.
+
+The selling price of Rs. 1,190 was recorded for skinless chicken and curry chicken was sold at Rs. 990 per kilogram.
+
+◼️
+
+[Data](articles/e716b31d.json)
+
+---
+
+### Israeli missiles hit site in Iran, explosions heard in Isfahan: Report
+
+*2024-04-19 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israeli-missiles-hit-site-in-Iran-explosions-heard-in-Isfahan-Report/108-280957) · `en`
+
+(Aljazeera) - Israeli missiles have hit a site in Iran, according to the US broadcaster ABC News, which cited an unnamed senior US official.
+
+The Iranian state television reported explosions in Isfahan, as air defences were activated and flights across several areas including Tehran and Isfahan were suspended.
+
+There were no reports of casualties. Nor was there an official response from Iran.
+
+Israel promised to respond after Iran last Saturday launched a barrage of drones and missiles on the country, after a suspected Israeli strike on Iran’s consulate compound in Damascus killed a high-ranking commander.
+
+There have also been reports of explosions in Syria and Iraq.
+
+The United States and a number of European countries had been calling on Israel not to respond to the Iranian attack.
+
+...
+
+[Data](articles/d14acbe2.json)
+
+---
+
+### India heads to the polls in world’s biggest election
+
+*2024-04-19 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-heads-to-the-polls-in-worlds-biggest-election/107-280956) · `en`
+
+(CNN) - Polls opened Friday for the first and largest phase of India’s marathon general election, kicking off a vote in which Prime Minister Narendra Modi is seeking to win a rare third consecutive term.
+
+About 969 million people are eligible to vote in the biggest election in human history, with polling taking place in seven phases over the next six weeks in the world’s most populous country.
+
+The nationwide vote is considered among the most consequential in decades as Modi’s powerful right-wing Bharatiya Janata Party (BJP) aims for an outright majority and a mandate to widen its development and Hindu-nationalist policies established during its 10-year rule.
+
+Those policies have transformed India economically and culturally, and BJP rule has been defined by a pull away from India’s secular foundation, toward Hindu majoritarianism.
+
+Under Modi’s leadership, the country of 1.4 billion people has become the world’s fastest-growing major economy and a modern global power.
+
+...
+
+[Data](articles/770c7764.json)
+
+---
+
+### Party leaders to shoot down MPs request for concessionary duty free vehicle permits
+
+*2024-04-19 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Party-leaders-to-shoot-down-MPs-request-for-concessionary-duty-free-vehicle-permits/108-280954) · `en`
+
+Colombo, April 19 (Daily Mirror) - A request by some MPs across the political divide for concessionary vehicle permits is likely to be shot down by the party leaders given the dire economic situation of the country, Daily Mirror learns.
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne brought to the notice of the Business Committee last week that a letter is being signed by the MPs for such a request.
+
+He said such a request would tarnish the honorary services of the MPs and therefore such facility should not be granted to them in adherence to due protocols as in the case of other public servants and judicial officers.
+
+However, SJB Leader Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella said at the same meeting that such a request should not be entertained at all due to what they called bankruptcy of the country.
+
+◼️
+
+[Data](articles/9a7c409c.json)
+
+---
+
+### Israeli launches missile attack on Iran – media reports
+
+*2024-04-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98715/israeli-launches-missile-attack-on-iran-media-reports) · `en`
+
+Israeli missiles have hit a site in Iran, ABC News reported late on Thursday, citing a U.S. official, days after Iran launched a drone strike on Israel in response to an attack at the Iranian embassy in Syria.
+
+Iran’s Fars news agency said an explosion was heard at an airport in the Iranian city of Isfahan but the cause was not immediately known. Several Iranian nuclear sites are located in Isfahan province, including Natanz, centerpiece of Iran’s uranium enrichment program.
+
+Over the weekend, Iran launched hundreds of drones, opens new tab and missiles in a retaliatory strike after a suspected Israeli strike on its embassy compound in Syria.
+
+Most of the drones and missiles were downed before reaching Israeli territory.
+
+Iran told the United Nations Security Council on Thursday that Israel “must be compelled to stop any further military adventurism against our interests” as the U.N. secretary-general warned that the Middle East was in a “moment of maximum peril.”
+
+◼️
+
+[Data](articles/a3e998e0.json)
+
+[Extended Data](ext_articles/a3e998e0.ext.json)
+
+---
+
+### Israel launches relief to Iran
+
+*2024-04-19 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195772) · `si`
+
+Israel has launched relief efforts to Iran, amidst reports of Iran requesting a missile attack. Israel has targeted a nuclear facility in Isfahan, leading to Iranian air defenses intercepting attacks and halting commercial flights over Iran.
+
+🟩
+
+Foreign media reports that Iran has requested a missile attack.
+
+Foreign media reports that Israel has been launched by Israel.
+
+The state of the state has several nuclear power plants in the state.
+
+Israel has initiated on Assault On Iran, Targeting the Nuclear Facility Situated in ISFAHhan.
+
+Iranian Air Defenses ARODIVEING THE ATTREKS ON THEIR FACILITIES, PROLTING A HALT IN COMMERCIAL FLIGHS OVERI IRAN.
+
+◼️
+
+[Data](articles/51e2a4c9.json)
+
+[Extended Data](ext_articles/51e2a4c9.ext.json)
+
+---
 
 ### Others killed in the accident that he was riding
 
@@ -291,6 +415,8 @@ In the face of a deep balance of payments crisis in the 1980s, a recession was t
 ...
 
 [Data](articles/6287ac16.json)
+
+[Extended Data](ext_articles/6287ac16.ext.json)
 
 ---
 
@@ -2077,145 +2203,5 @@ It is said that they have found information on American war centers in Germany.
 [Data](articles/34549b17.json)
 
 [Extended Data](ext_articles/34549b17.ext.json)
-
----
-
-### Justice will be established for those who died in the survival Sunday attack
-
-*2024-04-18 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181369) · `ta`
-
-The National People's Power Report has issued a statement that justice will be established for the victims of the terrorist attacks on Sunday, April 21, 2019. Five years have passed since the suicide bombing targeting Catholic and Christian servants, resulting in 273 deaths and over 500 injuries. The government is responsible for the loss of lives and the destruction of the attacks. The report accuses the government of not properly assigning responsibility to the public. It also mentions the involvement of political officials and state officials in the case. The government plans to introduce a formal compensation system and a psychological program for the victims.
-
-🟩
-
-The National People's Power Report has issued a statement that justice will be established for the victims of the terrorist attacks on Sunday, April 21, 2019.
-
-Five years have passed since the brutal suicide bombing carried out by a group of militants targeting Catholic and Christian servants on April 21, 2019 (Life Sunday).. Two hundred and seventy -three (273), including Christian Catholic servants, died on three churches and some tourism hotels on the day of the day, and more than five hundred people have become complete or partially stable.The government is responsible for the loss of lives and the destruction of the attacks and the government is responsible for the fact that the government is responsible for the issue of national power, as there is a question about whether this responsibility has been properly assigned to the public.
-
-...
-
-[Data](articles/9ad0fb8a.json)
-
-[Extended Data](ext_articles/9ad0fb8a.ext.json)
-
----
-
-### Garbage issue in Kandy
-
-*2024-04-18 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181382) · `ta`
-
-Kandy faces garbage issues due to authorities' reckless disposal, affecting public health and convenience.
-
-🟩
-
-It is the duty of the authorities to create a clean city for taxpayers.
-
-However, it is reported that the historic city, a historic city, has been filled with garbage today due to reckless measures of the authorities.
-
-In addition, it is reported that the debris is not properly disposed of during the festive season.
-
-It has also been reported that debris is filled in areas including major trade complexes, bus stops and public places.
-
-As a result, the stench in the Kandy and the people are severely inconvenienced and the health of the people is a major effect.
-
-When the employee of the Municipal Council said that this was the cause of the debris disposal machine.
-
-◼️
-
-[Data](articles/e0bff9af.json)
-
-[Extended Data](ext_articles/e0bff9af.ext.json)
-
----
-
-### "Vasad Syria - 2024" New Year Alaghan - Brunette Application Period
-
-*2024-04-18 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181387) · `ta`
-
-"Vasad Syria 2024" features a variety of events including a New Year Alaghan-Brunette competition, cycling races, and a marathon. Participants must be unmarried, aged 18-30, and compete in cultural dress. Prizes range from 1 lakh to 50 thousand rupees. Applications for cycling and marathon must be submitted by specific deadlines.
-
-🟩
-
-The Presidential Secretariat Welfare Association and Ministries have been extended till April 23 at the Sankarilla Green Ground in Galle Mukhtadi at the Sankarilla Green Ground in Galle on April 23.
-
-Competitors who wish to participate in the competition should send their favorite color photo to the name, age, height, address and telephone number 23 at 3.00 pm on 0771557146.. All applicants must be unmarried between the ages of 18-30. The competition can be participated in the Tamil cultural dress.
-
-One lakh rupees for winners in the Syrian New Year Alagir-Alagiri competition, 75 thousand rupees for the second place and 50 thousand rupees for the third place.. The Certificate will be issued until the 12th. The authority to take a final decision on competitive conditions has been given to the arrangement committee. Further information can be obtained from Mrs. Krisanthi Vitharana (Coordinator) 0718412300.
-
-...
-
-[Data](articles/874d3fb4.json)
-
-[Extended Data](ext_articles/874d3fb4.ext.json)
-
----
-
-### The most passengers in the Religion of Attan - Colombo;Bus services returned to usual at other religions
-
-*2024-04-18 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181383) · `ta`
-
-Attan's bus services resumed from Colombo to capital, including local routes, after New Year celebrations. Hatton Colombo now offers 23 EBOs, four private, and three refrigerated buses. Services from local markets and Nuwara Eliya, Ravanagoda, and Talawakelle have also resumed.
-
-🟩
-
-Attan's bus services have returned to the capital from Colombo, including Maskeliya, Bogawantalawa, Norwood, Puliyawatte, Tikoya, Talawakalai and Vattakoda, including Attan, and the bus services at the local routes have returned to us from the last Monday.
-
-Hatton Colombo Religion 23 EBOs, four private buses and three refrigerated buses service. More buses have now been deployed for the New Year.
-
-Meanwhile, buses continue their services from the 15th of last Monday at local markets. 14 private buses in the Attan -Talawakalai route are serving once in 15 minutes.
-
-Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and Talawakelle from Attan for ten minutes.. Bus services are being held in Nawalapitiya, Kandy and Ginigathena as usual. He said that bus services have returned from Monday as many celebrated the New Year on the 13th.
-
-◼️
-
-[Data](articles/1f6e6e9b.json)
-
-[Extended Data](ext_articles/1f6e6e9b.ext.json)
-
----
-
-### Family injured in the explosion - Mullaitivu incident
-
-*2024-04-18 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181384) · `ta`
-
-A family from Pudukkudiyiruppu was injured in an explosion in Devipuram, Mullaitivu, while hunting. The 33-year-old was admitted to Mullaitivu District Hospital for treatment.
-
-🟩
-
-A family member has been admitted to the Mullaitivu District Hospital after being injured when a barrier exploded in the Devipuram area of Pudukkudiyiruppu in Mullaitivu.
-
-The incident took place on Thursday (18) afternoon.
-
-The 33 -year -old family from Mayilkunjan, Pudukkudiyiruppu, was injured.
-
-When the person moved from his home to the forest area in Devipuram (b), it was exploded to hunt animals.
-
-He was admitted to the Pudukkudiyiruppu Resource Hospital and sent to the Mullaitivu District Hospital for further treatment.
-
-◼️
-
-[Data](articles/0b2afc70.json)
-
-[Extended Data](ext_articles/0b2afc70.ext.json)
-
----
-
-### Hotline numbers to provide information regarding environmental damage
-
-*2024-04-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98705/hotline-numbers-to-provide-information-regarding-environmental-damage) · `en`
-
-Sri Lanka Police says the general public can provide any information regarding environmental destruction via the hotline numbers ‘1997’ and ‘1981’.
-
-Police said steps have been taken to inform people regarding the matter, since the information provided by the general public plays a major role in operations carried out in relation to environmental destruction.
-
-The illegal mining activities, environmental damage caused by factories and sound pollution have had a severe impact on the environment and wild animals.
-
-Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘1981’ of Central Environment Authority (CEA) has been introduced in order to receive information and complaints regarding such environmental damages caused by people, the police said.
-
-◼️
-
-[Data](articles/763e9d3a.json)
-
-[Extended Data](ext_articles/763e9d3a.ext.json)
 
 ---

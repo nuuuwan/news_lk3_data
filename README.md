@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 18:10:00**
+As of **2024-04-19 18:21:39**
 
 ## Newspaper Stats
 
-*Scraped **19,787** Articles*
+*Scraped **19,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,370
-virakesarilk | 2,966
+adaderanalk | 2,371
+virakesarilk | 2,967
 dailymirrorlk | 3,067
 adaderanasinhalalk | 3,212
 
@@ -26,45 +26,99 @@ adaderanasinhalalk | 3,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,785 (100.0%) of 19,787 articles have been extended.
+19,787 (100.0%) of 19,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### පලස්තීනය පිළිගැනීමේ යෝජනාවට අමෙරිකාව හරස් වෙයි
+### Asian stocks fall as concern over Middle East spurs selling
+
+*2024-04-19 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98729/asian-stocks-fall-as-concern-over-middle-east-spurs-selling) · `en`
+
+Japan’s benchmark Nikkei Stock Average on Friday morning fell as much as 1,346.7 yen, or 3.5%, from the previous day’s close as market players reacted to reports of Israel striking Iran with missiles.
+
+Nikkei stock average closed at 37,068.35 yen, down 2.66% from the previous day. South Korea’s benchmark KOSPI closed down 1.6%, after falling as much as 3.1% in midday trading. Samsung Electronics dropped 2.5%, while SK Hynix plunged 4.9%.
+
+The Hong Kong-based Hang Seng Index closed 0.99% lower at 16,244.14, while CSI 300, which tracks the largest names listed in Shenzhen and Shanghai, China, dropped 0.70% for the day to 3,541.66 on Friday.
+
+The downtrend began overnight with high-tech stocks in the U.S. Selling escalated in Tokyo as investors heeded a U.S. media report that Israeli missiles had hit a site in Iran.
+
+ABC News reported that Israel had attacked Iran, citing a senior U.S. official. CBS News said its sources did not disclose the location or extent of the Israeli strikes.
+
+...
+
+[Data](articles/c1a339b4.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்து சர்வதேச விசாரணை அவசியம் -சமூகம்  மற்றும் மத நிலையம் வேண்டுகோள் - முக்கிய சூத்திரதாரியை கண்டுபிடிக்க சர்வதேச உதவியை பெறவேண்டும் என தெரிவிப்பு
+
+*2024-04-19 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181475) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில்  சர்வதேச விசாரணைகளை முன்னெடுக்கவேண்டும் என  சமூகம் மற்றும் மத நிலையத்தின் ஆராய்ச்சி குழு வேண்டுகோள் விடுத்துள்ளது.
+
+உயிர்த்த ஞாயிறு தாக்குதல்கள் இன்னமும் நீதிக்காக காத்திருத்தல்  பொருளாதார சமூக கலாச்சார  பொருளாதார சட்ட கண்ணோட்டம் என்ற அறிக்கையை இன்று வெளியிட்டுள்ள  சமூகம் மற்றும் மத நிலையத்தின் ஆராய்ச்சி இந்த அறிக்கையில் உயிர்த்த ஞாயிறு தாக்குதல் குறித்த சர்வதேச விசாரணையை கோரியுள்ளது.
+
+உயிர்த்த ஞாயிறு படுகொலைகளை இலங்கையில் யுத்தத்தின் பின்னர்  தேவாலயங்களையும்  ஹோட்டல்களையும் இலக்குவைத்து இடம்பெற்ற மிகவும் பயங்கரமான வெளிப்படையான  சம்பவம் என குறிப்பிடலாம்.
+
+இதன் காரணமாக  உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்டவர்களிற்கான  நீதியை நிலைநாட்டுவதற்கு அவசியமான சில பரிந்துரைகளை முன்வைக்கின்றோம்.
+
+சர்வதேச விசாரணைகளை மேற்கொண்டு  தாக்குதலிற்கு காரணமானவர்களிற்கு எதிராக வழக்குதாக்கல் செய்யவேண்டும்  குறிப்பாக சூத்திரதாரிகளிற்கு எதிராக .
+
+உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்ட அனைவருக்கும் போதியளவு  இழப்பீடு துரிதமாக சென்றடைவதை உறுதி செய்யவேண்டும்.
+
+...
+
+[Data](articles/d6f08337.json)
+
+---
+
+### US crying for the proposal to accept Palestine
 
 *2024-04-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195789) · `si`
 
-එක්සත් ජාතීන්ගේ සාමාජිකත්වය හිමි රාජ්‍යයක් ලෙස පලස්තීනය පිළිගත යුතු බවට ගෙන ආ එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිල යෝජනාවක් නිශේධ බලය යොදා පරාජය කිරීමට අමෙරිකාව කටයුතු කළේය.
+The US blocked a UN Security Council proposal for Palestine's UN membership, with the UK and Switzerland abstaining. Israel expressed gratitude. Palestine has sought full UN membership since 2011, currently as a non-member observer state.
 
-එම යෝජනාව බ්‍රහස්පතින්දා (18) එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයට ගෙනැවිත් තිබුණි.
+🟩
 
-එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයේ සාමාජිකයින් 12 දෙනෙක් එම යෝජනාවට පක්ෂ වූ අතර එක්සත් රාජධානිය සහ ස්විට්සර්ලන්තය ඡන්දය දීමෙන් වැළකී සිටියේය.
+The United States acted to defeat a United Nations Security Council proposal to be recognized as a United Nations membership.
 
-ඒ සම්බන්ධයෙන් ඊශ්‍රායලය අමෙරිකාවට සිය ස්තූතිය ප්‍රකාශ කළ බව සඳහන් ය.
+The proposal was brought to the United Nations Security Council on Thursday (18).
 
-එක්සත් ජාතීන්ගේ සම්පූර්ණ සාමාජිකත්වය ලබාගැනීම සඳහා පලස්තීනය 2011 සිට උත්සාහ දරයි. ඔවුන් මේ වනවිට සාමාජිකත්වය රහිත නිරීක්ෂක තත්ත්වය හිමි රාජ්‍යය කි. එම තත්ත්වය 2012 වසරේදී ඔවුන්ට හිමිවිය.
+The United Nations Security Council members were fellow and the UK and Switzerland abstaked the vote.
+
+It is said that Israel thanked the United States in this regard.
+
+Palestine attempts from 2011 to obtain full membership of the United Nations. They are now the Kingdom-free observer situation. They were in 2012 in 2012.
 
 ◼️
 
 [Data](articles/c38b23f9.json)
 
+[Extended Data](ext_articles/c38b23f9.ext.json)
+
 ---
 
-### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම
+### Recruitment of Development Officers to Teacher Service
 
 *2024-04-19 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195787) · `si`
 
-සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සඳහා 2023 මාර්තු 25 වනදා තරග විභාගයක් පැවැත්වීමට සියලු‍ කටයුතු සූදානම් කර තිබියදී සංවර්ධන නිලධාරීන් පිරිසක් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් හතරක් ගොනු කරනු ලැබූ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Ministry of Education suspended the recruitment of Development Officers to Teacher Service due to a Supreme Court interim injunction. The Supreme Court's decision will guide the recruitment process.
 
-ඒ අනුව එම තරග විභාගය පැවැත්වීමට පෙර 2023 මාර්තු 23 වනදා ශ්‍රේෂ්ඨාධිකරණය විසින් පනවන ලද අතුරු තහනම් නියෝගය හේතු කොටගෙන පැවැත්වීමට නියමිත ව තිබූ තරග විභාගය අත්හිටවනු ලැබීය.
+🟩
 
-මේ වනවිට ශ්‍රේෂ්ඨාධිකරණයේ එම පෙත්සම් විභාග වෙමින් පවතින හෙයින් ඉදිරියේදී ශ්‍රේෂ්ඨාධිකරණය විසින් ලබාදෙන තීන්දුව අනුව සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සම්බන්ධයෙන් ඉදිරි කටයුතු සිදු කිරීමට බලාපොරොත්තු වන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Ministry of Education states that a group of development officers have filed four fundamental rights petitions on the Supreme Court, with a group of development officers on March 25, to recruit development officers to the teacher.
+
+Accordingly, the event was suspended due to the interim injunction imposed by the Supreme Court on March 23, 2023 before the examination was held.
+
+The Secretary of the Ministry of Education says that according to the Supreme Court decision, the Supreme Court decision will be carried out regarding the recruitment of the Supreme Court in accordance with the Supreme Court's petition.
 
 ◼️
 
 [Data](articles/2ceaae45.json)
+
+[Extended Data](ext_articles/2ceaae45.ext.json)
 
 ---
 
@@ -2231,49 +2285,5 @@ The public requests the public to take necessary steps to reduce the damages cau
 [Data](articles/3a320640.json)
 
 [Extended Data](ext_articles/3a320640.ext.json)
-
----
-
-### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
-
-*2024-04-19 06:16:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
-
-Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
-
-Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
-
-The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
-
-The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
-
-...
-
-[Data](articles/9c7cda71.json)
-
-[Extended Data](ext_articles/9c7cda71.ext.json)
-
----
-
-### Several areas including Western Province to receive afternoon thundershowers
-
-*2024-04-19 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98714/several-areas-including-western-province-to-receive-afternoon-thundershowers) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in the North-central, Central and North-western provinces and Mannar District during the afternoon or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and Galle and Matara districts during the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Colombo to Matara via Galle in the evening or night.
-
-Winds will be variable in direction and wind speed will be 20-30 kmph.
-
-...
-
-[Data](articles/a0084a88.json)
-
-[Extended Data](ext_articles/a0084a88.ext.json)
 
 ---

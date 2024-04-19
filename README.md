@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 16:50:05**
+As of **2024-04-19 17:03:32**
 
 ## Newspaper Stats
 
-*Scraped **19,774** Articles*
+*Scraped **19,777** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 169
-bbccomsinhala | 207
+bbccomsinhala | 208
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
-tamilmirrorlk | 2,289
+tamilmirrorlk | 2,291
 adaderanalk | 2,367
 virakesarilk | 2,966
 dailymirrorlk | 3,062
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,774 (100.0%) of 19,774 articles have been extended.
+19,774 (100.0%) of 19,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### சுற்றுலாப் பயணிகள் விவகாரம்; விசேட சுற்றிவளைப்பு
+
+*2024-04-19 16:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகள்-விவகாரம்-விசேட-சுற்றிவளைப்பு/175-336094) · `ta`
+
+சுற்றுலாப் பயணிகள் அதிகம் வருகை தரும் இடங்களில் விசேட சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொள்ள தீர்மானிக்கப்பட்டுள்ளது.
+
+இதனை, நுகர்வோர் அதிகார சபை மற்றும் விசேட புலனாய்வுப் பிரிவின் பணிப்பாளர் சஞ்சய் இரசிங்க தெரிவித்துள்ளார்.
+
+கொழும்பு காலிமுகத்திடல், புதுக்கடை , பேருவளை, பெந்தோட்டை, ஹிக்கடுவ, காலி மற்றும் எல்ல ஆகிய பகுதிகளில் இரவு வேளைகளில் விசேட சுற்றிவளைப்பு நடவடிக்கைகள் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்தார்.
+
+சுற்றுலா பயணிகளுக்கு அதிக விலைக்கு உணவு விற்பனை செய்வது உள்ளிட்ட சம்பவங்கள் பதிவாகி வரும் நிலையில், இந்த அறிவிப்பு வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/cf2e21bc.json)
+
+---
+
+### சில பகுதிகளில் 12 மணித்தியால நீர் வெட்டு
+
+*2024-04-19 16:35:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-12-மணித்தியால-நீர்-வெட்டு/175-336093) · `ta`
+
+சப்புகஸ்கந்தை மின்சாரத் தொகுதியில் அவசர திருத்தப் பணிகள் காரணமாக கம்பஹாவில் புதன்கிழமை (24) காலை 8.30 மணிக்கு முதல் 12 மணித்தியால நீர் விநியோகம் தடைப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+அவசர திருத்தப்பணிகள் காரணமாக பியகம நீர் சுத்திகரிப்பு பிரிவுக்கான நீர் விநியோகம் இடைநிறுத்தப்படும் என அந்த சபை கூறியுள்ளது.
+
+இதனால் பேலியகொட, ஜா-எல, கட்டுநாயக்க, சீதுவ நகரசபை பகுதிகள், களனி, வத்தளை, பியகம, மஹர, தொம்பே, கட்டான, மினுவாங்கொட மற்றும் கம்பஹா நகரசபைக்குட்பட்ட பகுதிகளில் நீர் விநியோகம் தடைப்படும்.
+
+◼️
+
+[Data](articles/e652e3bd.json)
+
+---
 
 ### The police escaped when the police escaped in cubes
 
@@ -1302,6 +1336,26 @@ Stock market investors are in vain into the growing war warmth of the Middle Eas
 
 ---
 
+### 'මම ලියන හැටි' : පී. බී. ජයසේකර
+
+*2024-04-19 10:29:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1rqng0pwo) · `si`
+
+'මරියා සිලොනිකා වස්තුව' නවකතාව 2013 වසරේ දී ප්‍රකාශයට පත් කරමින් සිංහල නවකතාකරණයට ප්‍රවේශ වන පී. බී. ජයසේකර  'අවලමා සහ ඇහැටුව', 'ඉක්බිතිව ඔහු මරාපීහ', 'බලව, කඳුළු ගිනි', 'මා ප්‍රති. මා', සහ 'උසාවි ගිය නෙරූඩා නොහොත් කාමඝෝර කවියා'  යනා දී නවකතා ඔස්සේ සුවිශේෂී පාඨක විචාරක අවදානයකට පාත්‍ර වී ඇත.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැදුණු  ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/bb9d3a46.json)
+
+---
+
 ### Sri Lanka bonds trade flat, stocks down
 
 *2024-04-19 10:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-trade-flat-stocks-down-159242/) · `en`
@@ -2193,55 +2247,5 @@ In the face of a deep balance of payments crisis in the 1980s, a recession was t
 [Data](articles/6287ac16.json)
 
 [Extended Data](ext_articles/6287ac16.ext.json)
-
----
-
-### Bath Spa University unveils new London campus
-
-*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/bath-spa-university-unveils-new-london-campus/) · `en`
-
-This month an international recruitment team from Bath Spa visited India and Sri Lanka to promote Bath Spa University London (BSUL) and the newly launched Postgraduate Master Courses which are offered at the London Site.
-
-The Bath Spa University team visited India and Sri Lanka between the 21st and 27th February, covering three cities in India (Delhi, Chandigarh, and Hyderabad) and Colombo in Sri Lanka. The visit underscores Bath Spa University’s commitment to fostering educational collaborations with associates and providing Indian students with access to high-quality education in the UK.
-
-Bath Spa University is a public University in Bath, England, in the United Kingdom. Currently the University has almost 10,000 students studying between five campuses in total, including the newly launched London site (BSUL).
-
-...
-
-[Data](articles/3eac95a9.json)
-
-[Extended Data](ext_articles/3eac95a9.ext.json)
-
----
-
-### Launching The Routes we Take: Sri Lanka’s first creative Green Map
-
-*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/launching-the-routes-we-take-sri-lankas-first-creative-green-map/) · `en`
-
-“The Routes we Take” is a project by EUNIC Sri Lanka and Good Life X. EUNIC – European Union National Institutes for Culture – is Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries. EUNIC Sri Lanka – consisting of Alliance Française and the Embassy of France in Sri Lanka and the Maldives, Goethe-Institut, British Council, Swiss Embassy, Embassy of the Kingdom of the Netherlands and Embassy of Italy, with the support of the EU Delegation, adopts an integrated approach to building cultural relations and creative collaborations and supporting diversity.
-
-...
-
-[Data](articles/820b9866.json)
-
-[Extended Data](ext_articles/820b9866.ext.json)
-
----
-
-### Dialog-Airtel Lanka merger comes centre stage
-
-*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/dialog-airtel-lanka-merger-comes-centre-stage/) · `en`
-
-Sri Lanka’s premier mobile phone company, Dialog Axiata, will issue 952 million shares by way of a share swap to Bharti Airtel to acquire the latter organization. The deal was finalized yesterday, CSE market analysts said.
-
-Bharti Airtel and Dialog Axiata entered into a Binding Agreement to merge their operations in May 2023. Dialog is the largest telecom service provider in Sri Lanka with more than 17 million subscribers as of 2021, representing around 51 percent of the market. Airtel Lanka has about 5 million subscribers. The 952 million Dialog shares amount to 10.4 percent of the total shares issued by the company.
-
-However, the stock market was sluggish because profit takings came to the fore due to continued uncertainty in the external debt restructuring exercise. Both indices moved downwards. The All Share Price Index went down by 33.1 points, while the S and P SL20 declined by 8.81 points. Turnover stood at Rs 2.22 billion with 3 crossings.
-
-...
-
-[Data](articles/a85e4282.json)
-
-[Extended Data](ext_articles/a85e4282.ext.json)
 
 ---

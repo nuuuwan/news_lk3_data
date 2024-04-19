@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 17:03:32**
+As of **2024-04-19 17:18:22**
 
 ## Newspaper Stats
 
-*Scraped **19,777** Articles*
+*Scraped **19,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,367
+adaderanalk | 2,370
 virakesarilk | 2,966
 dailymirrorlk | 3,062
 adaderanasinhalalk | 3,210
@@ -26,43 +26,107 @@ adaderanasinhalalk | 3,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,774 (100.0%) of 19,777 articles have been extended.
+19,777 (100.0%) of 19,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### சுற்றுலாப் பயணிகள் விவகாரம்; விசேட சுற்றிவளைப்பு
+### Heat advisory issued for seven provinces
+
+*2024-04-19 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98728/heat-advisory-issued-for-seven-provinces) · `en`
+
+The Department of Meteorology has issued a weather alert, warning that extreme heat can be expected in parts of the island tomorrow (20).
+
+Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution’ level at some places in the Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and
+
+The department cautioned that heat cramps and heat exhaustion are possible while continued activity could result in heatstroke.
+
+◼️
+
+[Data](articles/908ec704.json)
+
+---
+
+### Oil steadies after surge following reported Israeli attack on Iran
+
+*2024-04-19 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98726/oil-steadies-after-surge-following-reported-israeli-attack-on-iran) · `en`
+
+Oil slipped on Friday after prices spiked earlier on reports that Israel had attacked Iran as market fears of a major escalation to hostilities in the Mideast appeared to ease.
+
+After the benchmark contracts jumped more than $3 in the session, Brent futures were down 46 cents, or 0.5%, at $86.65 a barrel by 1015 GMT. The most active U.S. West Texas Intermediate contract was down 34 cents, or 0.4%, to $82.39.
+
+Israel launched an attack on Iranian soil on Friday, sources told Reuters. Iranian media reported explosions, but an Iranian official told Reuters those were caused by air defence systems. State media said three drones over the central city of Isfahan had been shot down.
+
+Tehran played down the incident and indicated it had no plans for retaliation - a response that appeared gauged towards averting region-wide war.
+
+...
+
+[Data](articles/020f519e.json)
+
+---
+
+### Tourist affairs;Special Circular Show
 
 *2024-04-19 16:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகள்-விவகாரம்-விசேட-சுற்றிவளைப்பு/175-336094) · `ta`
 
-சுற்றுலாப் பயணிகள் அதிகம் வருகை தரும் இடங்களில் விசேட சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொள்ள தீர்மானிக்கப்பட்டுள்ளது.
+Tourist affairs will conduct special circles in popular tourist spots like Colombo, Galle, Pudukkadai, Beruwala, Pentendo, Hikkaduwa, Galle, and Ella at night. This initiative follows reports of high food prices for tourists.
 
-இதனை, நுகர்வோர் அதிகார சபை மற்றும் விசேட புலனாய்வுப் பிரிவின் பணிப்பாளர் சஞ்சய் இரசிங்க தெரிவித்துள்ளார்.
+🟩
 
-கொழும்பு காலிமுகத்திடல், புதுக்கடை , பேருவளை, பெந்தோட்டை, ஹிக்கடுவ, காலி மற்றும் எல்ல ஆகிய பகுதிகளில் இரவு வேளைகளில் விசேட சுற்றிவளைப்பு நடவடிக்கைகள் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்தார்.
+It has been decided to take special circles in places where tourists are most visited.
 
-சுற்றுலா பயணிகளுக்கு அதிக விலைக்கு உணவு விற்பனை செய்வது உள்ளிட்ட சம்பவங்கள் பதிவாகி வரும் நிலையில், இந்த அறிவிப்பு வெளியாகியுள்ளது.
+Sanjay Rasinghe, Director of the Consumer Affairs Authority and the Special Investigation Division.
+
+He said that special circles will be carried out at night in Colombo Galle, Pudukkadai, Beruwala, Pentendo, Hikkaduwa, Galle and Ella.
+
+The announcement has been released as incidents have been reported, including the high cost of selling food for tourists.
 
 ◼️
 
 [Data](articles/cf2e21bc.json)
 
+[Extended Data](ext_articles/cf2e21bc.ext.json)
+
 ---
 
-### சில பகுதிகளில் 12 மணித்தியால நீர் வெட்டு
+### Semasinghe optimistic of transforming Sri Lanka to a debt sustainable country
+
+*2024-04-19 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98725/semasinghe-optimistic-of-transforming-sri-lanka-to-a-debt-sustainable-country) · `en`
+
+State Minister of Finance Shehan Semasinghe says that the government is confident of reaching resolution with commercial creditors and the private bondholders which will enable Sri Lanka to be a debt sustainable country, as the engagements with them are underway.
+
+In a recent interview with IMF Today on the sidelines of the IMF (International Monetary Fund) and World Bank Group Spring Meetings 2024, the Finance State Minister shed light on Sri Lanka’s remarkable journey from economic turmoil to stabilization and now towards growth.
+
+Semasinghe’s statements underscored the government’s commitment to the IMF program, debt restructuring process and the tax revenue.
+
+He also reflected on the challenges Sri Lanka faced in 2022, calling it “the most challenging year” for the country due to the economic crisis post-Covid-19 pandemic. However, he expressed gratitude towards the Sri Lankan citizens for their resilience during these difficult periods.
+
+...
+
+[Data](articles/f922e5cf.json)
+
+---
+
+### In some areas, a 12 -hour water cut
 
 *2024-04-19 16:35:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-12-மணித்தியால-நீர்-வெட்டு/175-336093) · `ta`
 
-சப்புகஸ்கந்தை மின்சாரத் தொகுதியில் அவசர திருத்தப் பணிகள் காரணமாக கம்பஹாவில் புதன்கிழமை (24) காலை 8.30 மணிக்கு முதல் 12 மணித்தியால நீர் விநியோகம் தடைப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+Gampaha water supply disrupted 8.30 am Wednesday due to emergency corrections in Sapukaskanda. Biyagama Water Purification Division affected. Areas under Peliyagoda, Ja-Ela, Katunayake, Seeduwa, Kelaniya, Wattala, Piyagama, Mahara, Thompa, Katana, Minuwangoda, and Gampaha Municipal Council impacted.
 
-அவசர திருத்தப்பணிகள் காரணமாக பியகம நீர் சுத்திகரிப்பு பிரிவுக்கான நீர் விநியோகம் இடைநிறுத்தப்படும் என அந்த சபை கூறியுள்ளது.
+🟩
 
-இதனால் பேலியகொட, ஜா-எல, கட்டுநாயக்க, சீதுவ நகரசபை பகுதிகள், களனி, வத்தளை, பியகம, மஹர, தொம்பே, கட்டான, மினுவாங்கொட மற்றும் கம்பஹா நகரசபைக்குட்பட்ட பகுதிகளில் நீர் விநியோகம் தடைப்படும்.
+The National Water Supply and Drainage Board said the supply of water would be disrupted at 8.30 am in Gampaha on Wednesday (24) due to emergency correction in the Sapukaskanda Electricity constituency.
+
+The council said the water supply to the Biyagama Water Purification Division would be suspended due to emergency revisions.
+
+This will prevent water supply in the areas under the Peliyagoda, Ja-Ela, Katunayake, Seeduwa Municipal Council areas, Kelaniya, Wattala, Piyagama, Mahara, Thompa, Katana, Minuwangoda and Gampaha Municipal Council.
 
 ◼️
 
 [Data](articles/e652e3bd.json)
+
+[Extended Data](ext_articles/e652e3bd.ext.json)
 
 ---
 
@@ -1336,23 +1400,33 @@ Stock market investors are in vain into the growing war warmth of the Middle Eas
 
 ---
 
-### 'මම ලියන හැටි' : පී. බී. ජයසේකර
+### 'How I write': P. B. Jayasekara
 
 *2024-04-19 10:29:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1rqng0pwo) · `si`
 
-'මරියා සිලොනිකා වස්තුව' නවකතාව 2013 වසරේ දී ප්‍රකාශයට පත් කරමින් සිංහල නවකතාකරණයට ප්‍රවේශ වන පී. බී. ජයසේකර  'අවලමා සහ ඇහැටුව', 'ඉක්බිතිව ඔහු මරාපීහ', 'බලව, කඳුළු ගිනි', 'මා ප්‍රති. මා', සහ 'උසාවි ගිය නෙරූඩා නොහොත් කාමඝෝර කවියා'  යනා දී නවකතා ඔස්සේ සුවිශේෂී පාඨක විචාරක අවදානයකට පාත්‍ර වී ඇත.
+P. B. Jayasekara discusses his writing process, emphasizing the importance of research, character development, and logical flow. He shares insights from his conversations with other writers, highlighting the unique methods of writing and the importance of editing. Jayasekara's work is noted for its historical depth and logical structure, reflecting his background in mathematics and teaching.
 
-මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැදුණු  ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+🟩
 
-මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+Published by the 'Mary' Cylon Siostant 'novels in 2013 and access Sinhala novels. B. "The bloom and eye, 'he was later killed,' Look! 'Look!'. I have been in a special reader revision drainage to the novels, who have gone, and 'tips'.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+I talk to him with the objective of understanding his own time when he fried and writing him as a novelist.
 
-ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය. මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
+
+It is well known for all writer's writing process.
+
+Writing, writing, how to write, wrote, and writing the number of coffee, writing, belong to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Keep the Easy, As usual. Can you tell you about this by the novels written?
 
 ...
 
 [Data](articles/bb9d3a46.json)
+
+[Extended Data](ext_articles/bb9d3a46.ext.json)
 
 ---
 
@@ -2195,57 +2269,5 @@ The inaugural private networking event, held recently, served as a nexus between
 [Data](articles/686789aa.json)
 
 [Extended Data](ext_articles/686789aa.ext.json)
-
----
-
-### People’s Bank sponsors “Empowering Tomorrow’s Innovators” program to develop youth tech skills
-
-*2024-04-19 05:41:00* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-sponsors-Empowering-Tomorrow-s-Innovators-program-to-develop-youth-tech-skills/34-760787) · `en`
-
-Key initiative in partnership with Sarvodaya Fusion—the IT education arm of the Sarvodaya movement
-
-People’s Bank, a leader in digital banking in Sri Lanka, has announced the successful selection of 100 students to take part in its “Empowering Tomorrow’s Innovators” Youth Tech Skill Development program. This initiative, in partnership with Sarvodaya Fusion—the IT education arm of the Sarvodaya movement, aims to equip the nation’s youth with essential technological skills for future careers.
-
-The initiative reflects People’s Bank’s commitment to its corporate social responsibility by promoting social progress and innovation. Candidates for the scholarship program were selected in March and April 2024 from a pool of applicants interested in enrolling from across the island.
-
-The selection process took place in several provinces including North Central, Northwestern, and Western, among others.
-
-...
-
-[Data](articles/37799bd5.json)
-
-[Extended Data](ext_articles/37799bd5.ext.json)
-
----
-
-### S.J.V. Chelvanayakam and the Ilankai Thamil Arasuk Katchi
-
-*2024-04-19 05:38:04* · [`dailyftlk`](https://www.ft.lk/columns/S-J-V-Chelvanayakam-and-the-Ilankai-Thamil-Arasuk-Katchi/4-760786) · `en`
-
-The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party will celebrate its 75th birthday in December this year. The premier political party of the Sri Lankan Tamil people known as “Ilankai Thamizhar” in their mother tongue was born on 18 December 1949. On that day, a group of 60 Tamils including two parliamentarians and two senators convened at the Government Clerical Service Union (GCSU) hall in Colombo.
-
-That historic conclave resulted in the launching of a new political party with the avowed goal of establishing an autonomous State for the Tamil-speaking people of Ceylon (as Sri Lanka was known then) within a united island. The new party was named in Tamil as “Illankai Thamil Arasu Katchi” meaning Ceylon Tamil State or Tamil Government Party.
-
-...
-
-[Data](articles/494be4c5.json)
-
-[Extended Data](ext_articles/494be4c5.ext.json)
-
----
-
-### Economic reforms: Lessons from India
-
-*2024-04-19 05:30:02* · [`dailyftlk`](https://www.ft.lk/columns/Economic-reforms-Lessons-from-India/4-760785) · `en`
-
-Book review: “Backstage – The story behind India’s high growth years” by Dr. Montek Singh Ahluwalia
-
-In the face of a deep balance of payments crisis in the 1980s, a recession was triggered in India in 1991. Prices for necessities were soaring, the unemployment rate was rising, and the public’s despondency deepened while facing shortages of nearly everything. The future looked very bleak for many. While some people got onto the streets out of desperation, another group of smart individuals who were passionate about getting India’s economy back on track, worked relentlessly to find solutions to their economic issues, which had a transformative effect on India to become the regional powerhouse it is today.
-
-...
-
-[Data](articles/6287ac16.json)
-
-[Extended Data](ext_articles/6287ac16.ext.json)
 
 ---

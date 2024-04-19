@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 15:03:26**
+As of **2024-04-19 15:18:23**
 
 ## Newspaper Stats
 
-*Scraped **19,762** Articles*
+*Scraped **19,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
 economynextcom | 1,131
-adalk | 1,646
+adalk | 1,647
 tamilmirrorlk | 2,289
 adaderanalk | 2,366
 virakesarilk | 2,962
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,761 (100.0%) of 19,762 articles have been extended.
+19,762 (100.0%) of 19,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -582,6 +582,8 @@ Plantation workers attached to the Ceylon Workers' Congress (CWC) staged a prote
 
 [Data](articles/f707ef2f.json)
 
+[Extended Data](ext_articles/f707ef2f.ext.json)
+
 ---
 
 ### Medicine procurement scandal: TISL files petition, seeks to recover costs incurred
@@ -883,6 +885,22 @@ Later, the patient's condition deteriorated rapidly, resulting in his demise dur
 [Data](articles/6927ed2c.json)
 
 [Extended Data](ext_articles/6927ed2c.ext.json)
+
+---
+
+### බිරිය හා තවත් අයෙක් සමග මත්පැන් බීමෙන් පසු ඔහුව ඝාතනය කලේ කවුද ?
+
+*2024-04-19 11:03:55* · [`adalk`](https://www.ada.lk/breaking_news/බිරිය-හා-තවත්-අයෙක්-සමග-මත්පැන්-බීමෙන්-පසු-ඔහුව-ඝාතනය-කලේ-කවුද--/11-409161) · `si`
+
+අරලගංවිල ප්‍රදේශයේ  පිඹුරැත්තෑව වැවේ පාවෙන මළ සිරුරක් තිබී සෙයාගත් බවට අරලගංවිල පොලිසිය පවසයි.
+
+මරණකරු පසුගිය 17 වන දින පිඹුරත්තෑව වැවට ධීවර කටයතු සඳහා ගොස් ඇති අතර එහිදී තවත් පුද්ගලයකු හා එම පුද්ගලයායේ බිරිද සමඟ මත් පැන්පානය කර ඇති බවත්, එම අවස්ථාවේ ඇති වූ පුද්ගලික ආරවුලක් දුරදිග යාම හේතුවෙන් ඔවුන් විසින් හබලකින් හරදී ‌මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇත.
+
+ඝාතනය සම්බන්ධයෙන්  වයස අවුරුදු 67 ක් වූ සැකකරු හා වයස අවරුදු 47 ක් වූ සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පෙලිසිය පවසයි.
+
+◼️
+
+[Data](articles/e52fa95f.json)
 
 ---
 
@@ -2165,23 +2183,5 @@ Semasinghe thanked Riccardo for his “insightful perspective on the importance 
 [Data](articles/323002e6.json)
 
 [Extended Data](ext_articles/323002e6.ext.json)
-
----
-
-### Bondholders’ agreement delay won’t hinder IMF third tranche payout:  Dr. Coomaraswamy
-
-*2024-04-19 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholders-agreement-delay-wont-hinder-IMF-third-tranche-payoutDr-Coomaraswamy/108-280941) · `en`
-
-Possible delays in reaching an agreement (in principle) with private bondholders is unlikely to impact the disbursement of the third tranche under IMF’s US$ 3billion bailout package,  given negotiations are moving ahead in good faith,  Former Governor of Central Bank (CB) and renowned economist,  Dr. Indrajit Coomaraswamy said.
-
-“My understanding is that in terms of conditions attached to this particular (2nd) review, there should be demonstration of progress and continuing negotiations in good faith. I feel that those conditions are met,” he told a webinar themed ‘Crisis to Stability - Sri Lanka’s Economic Restructuring Journey’ organised by CT CLSA this week.
-
-On 21st of last month, IMF and Sri Lanka reached a staff level agreement to conclude the second review. Upon approval of the IMF Executive Board in June, IMF is set to release US$ 337 million of funding.
-
-...
-
-[Data](articles/3057471f.json)
-
-[Extended Data](ext_articles/3057471f.ext.json)
 
 ---

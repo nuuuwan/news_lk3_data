@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 07:17:28**
+As of **2024-04-19 07:42:47**
 
 ## Newspaper Stats
 
-*Scraped **19,673** Articles*
+*Scraped **19,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ tamilmirrorlk | 2,281
 adaderanalk | 2,356
 virakesarilk | 2,946
 dailymirrorlk | 3,043
-adaderanasinhalalk | 3,192
+adaderanasinhalalk | 3,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,673 (100.0%) of 19,673 articles have been extended.
+19,673 (100.0%) of 19,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### අදත් වැස්ස
+
+*2024-04-19 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195768) · `si`
+
+බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (19) සවස 2න් පමණ පසු තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම නිවේදනය නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+
+එහි තවදුරටත් දැක්වෙන්නේ, මධ්‍යම, උතුරු-මැද සහ ඌව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙන බවය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තද වැසි ඇති විය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/3a320640.json)
+
+---
+
+### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
+
+*2024-04-19 06:16:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
+
+Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
+
+Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
+
+The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
+
+The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
+
+...
+
+[Data](articles/9c7cda71.json)
+
+[Extended Data](ext_articles/9c7cda71.ext.json)
+
+---
 
 ### Several areas including Western Province to receive afternoon thundershowers
 
@@ -413,26 +455,6 @@ Ramachandran Raveendran, the father of two girls aged 18 and 15, aged 18 and 15,
 [Data](articles/80a56ca0.json)
 
 [Extended Data](ext_articles/80a56ca0.ext.json)
-
----
-
-### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
-
-*2024-04-19 02:57:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
-
-Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
-
-Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
-
-The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
-
-The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
-
-...
-
-[Data](articles/9c7cda71.json)
-
-[Extended Data](ext_articles/9c7cda71.ext.json)
 
 ---
 
@@ -2205,39 +2227,5 @@ I was extremely sad to hear the news of Dr A. T. Ariyaratne’s passing at the r
 [Data](articles/e45a76f0.json)
 
 [Extended Data](ext_articles/e45a76f0.ext.json)
-
----
-
-### Did you know about the Indian election which begins tomorrow?
-
-*2024-04-18 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195758) · `si`
-
-India's largest general election begins tomorrow, with 1.42 billion eligible voters, including 40 million women and 18 million first-time voters. Elections in 7 states, including Tamil Nadu, will be held until June 1, with varying voting days. Results are expected on June 4th.
-
-🟩
-
-The general election in the world, the largest electoral national elections begin tomorrow (19).
-
-Representatives for the Lok Sabha are selective of this election and the present Prime Minister Narendra Modi and the other 5 years are asking for another 5 years.
-
-The election of 7 states including Tamil Nadu will commence tomorrow and the ballot is throughout India until June 01.
-
-The vote in some states is only held one day, and Uttar Pradesh and Bengal, West Bengala, is held for a week.
-
-The electoral results are expected to be announced on June 4th.
-
-The Indian population, the 1.42 billion, qualified to vote.
-
-The SWNN News reports that when the proportion is taken by the population of North America and the European Union.
-
-40 million women have qualified for the election this year's election rather than the 2019 election.
-
-18 million people who vote for the first time. Of the ages of 218,000 of voters were over 100 years old.
-
-...
-
-[Data](articles/b037b190.json)
-
-[Extended Data](ext_articles/b037b190.ext.json)
 
 ---

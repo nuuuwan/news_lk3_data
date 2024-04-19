@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 11:03:26**
+As of **2024-04-19 11:18:45**
 
 ## Newspaper Stats
 
-*Scraped **19,715** Articles*
+*Scraped **19,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,72 +19,144 @@ adalk | 1,645
 tamilmirrorlk | 2,284
 adaderanalk | 2,360
 virakesarilk | 2,952
-dailymirrorlk | 3,051
-adaderanasinhalalk | 3,201
+dailymirrorlk | 3,053
+adaderanasinhalalk | 3,202
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,710 (100.0%) of 19,715 articles have been extended.
+19,715 (100.0%) of 19,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம்
+### Man dies after insect bite
+
+*2024-04-19 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-dies-after-insect-bite/108-280967) · `en`
+
+Jaffna, April 19 (Daily Mirror)- A 52-year-old man in Jaffna city died after succumbing to an illness caused by an insect bite, as reported by hospital sources.
+
+The victim was stung below the ear, leading to severe pain and subsequent admission to Jaffna Teaching Hospital on the same day, they said.
+
+Despite acknowledging the insect bite, the patient was unable to identify the specific type of insect.
+
+Later, the patient's condition deteriorated rapidly, resulting in his demise during treatment yesterday.
+
+◼️
+
+[Data](articles/6927ed2c.json)
+
+---
+
+### 12-hour water cut in Gampaha Municipality area
+
+*2024-04-19 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-hour-water-cut-in-Gampaha-Municipality-area/108-280966) · `en`
+
+Gampaha, April 19 (Daily Mirror)- Water supply will be interrupted for 12 hours from today at 8.30 a.m. in Gampaha due to an emergency repair of the electricity subgrid in Sapugaskanda, the National Water Supply and Drainage Board (NWS&DB) said.
+
+They said due to the emergency repair, the water supply to the Biyagama water refinery unit will be suspended.
+
+Hence, the water supply will be interrupted in the Peliyagoda, Ja-Ela, Katunayaka Seeduwa Municipality areas, Kelaniya, Wattala, Biyagama, Mahara, Dompe, Katana, Munuwangoda and Gampaha Municipality areas
+
+The NWSDB regrets the inconvenience caused and requests the public to collect adequate water in advance.
+
+◼️
+
+[Data](articles/1ab9406f.json)
+
+---
+
+### ප්‍රශ්නගත ඖෂධ සිද්ධියට අදාළව තවත් පෙත්සමක්
+
+*2024-04-19 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195778) · `si`
+
+හියුමන් ඉමියුනෝග්ලෝබියුලීන් ඇතුළු ඖෂධ වර්ග කිහිපයක් නිසි ප්‍රසම්පාදන ක්‍රියාවලියකින් තොරව මිලදී ගැනීම තුළින් මුලික අයිතිවාසිකම් උල්ලංගනය වී ඇති බවට නියෝගයක් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය වෙත පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ඒ අනුව ට්‍රාන්ස්පෙරන්සි ඉන්ටර්නැෂනල් ශ්‍රී ලංකා සංවිධානය විසින් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු 66 දෙනෙකු වග උත්තරකරුවන් ලෙස නම් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+එම ඖෂධ මිලදි ගැනීමේ ක්‍රියාවලියේදී මුල්‍යමය හෝ වෙනත් වාසි ලබාගත් පුද්ගලයින් හඳුනාගැනීම සඳහා විමර්ශනයක් සිදුකරන ලෙස නීතිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙසද පෙත්කාර පාර්ශ්වය ඉල්ලා තිබේ.
+
+එමෙන්ම වගකිව යුතු පාර්ශ්වයන්ගෙන් වන්දි අයකිරිමේ ක්‍රියාමාර්ග ගන්නා ලෙස නීතිපතිවරයා ලෙස නියෝගයක් නිකුත් කරන ලෙසද අදාළ පෙත්සමෙන් ඉල්ලා ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/234724a6.json)
+
+---
+
+### The possibility of thunderstorms
 
 *2024-04-19 10:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யக்-கூடிய-சாத்தியம்/175-336085) · `ta`
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Thunderstorms and rain likely in Western, Sabaragamuwa, and Galle districts after 2 pm. Afternoon/night rain or storms in North Central, Central, North Western, and Mannar. Morning snowfall expected in Western, Sabaragamuwa, and Central Provinces. Thundershowers possible. Take precautions against lightning.
 
-வடமத்திய, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் மன்னார் மாவட்டத்திலும் சில இடங்களில் பிற்பகலில் அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall or thunderstorms are likely to occur in several places in the Western and Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும்.
+In some places in the North Central, Central and North Western provinces and Mannar district, there is a possibility of rain or thunderstorms in the afternoon or at night.
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.
+
+Thundershowers can be temporarily blowing in the area during thunderstorms.
+
+The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
 
 ◼️
 
 [Data](articles/cd0575e8.json)
 
+[Extended Data](ext_articles/cd0575e8.ext.json)
+
 ---
 
-### நான்கு ரயில் சேவைகள் இரத்து!
+### Four train services canceled!
 
 *2024-04-19 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181432) · `ta`
 
-சமிக்ஞை கட்டமைப்பு செயற்பாட்டில் தடையேற்பட்டுள்ளமையினால் நான்கு  ரயில் பயணங்கள் இரத்துச் செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Four train services canceled due to signal disruption. Main journeys and Kelaniweli route trips canceled until 25th. Affected trains include Colombo-Fort-Ragama at 7.02 am and Ragama-Colombo-Colombo at 7.30 am.
 
-எதிர்வரும் 25 ஆம் திகதி வரை பிரதான பாதையின் புகையிரத பயணங்களும், களனிவெளி மார்க்கத்தின் புகையிரத பயணங்களும் இரத்துச் செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேலும் பிரதான பாதையில் காலை 7.02 மணியளவில்  கொழும்பு - கோட்டையிலிருந்து  ராகம  வரையில் இயங்கும்  புகையிரதமும், காலை 7.30 மணியளவில்  ராகமவிலிருந்து கொழும்பு -கோட்டை வரை பயணிக்கும் புகையிரதமும் இரத்துச் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Four train trips have been canceled due to the fact that the signal structure has been disrupted, the Railway Department said.
 
-காலை 05.20 மணிக்கு  பாதுக்க நிலையத்திலிருந்து கொழும்பு -கோட்டை நோக்கி செல்லும் புகையிரதமும், கொழும்பு - கோட்டை நிலையத்திருந்து இரவு 07.15 மணிக்கு பாதுக்க நிலையம் நோக்கி பயணிக்கும் புகையிரதமும் இரத்துச் செய்ய நடவடிக்கை எடுக்கப்படவுள்ளது.
+The Railway Department has said that the main railway journeys and the train travels of the Kelaniweli route have been canceled till the 25th of this month.
+
+It is also reported that the train from Colombo to Fort to Ragama at 7.02 am and a train from Ragama to Colombo to Colombo at 7.30 am.
+
+Steps will be taken to cancel the train from the Padukkottai station to Colombo -Kottai at 05.20 am and the train traveling from the Colombo -Fort Station to the Padukha Station at 07.15 pm.
 
 ◼️
 
 [Data](articles/988da0ac.json)
 
+[Extended Data](ext_articles/988da0ac.ext.json)
+
 ---
 
-### ඉන්ධන මිල සහ රන් මිල හදිසියේ ම වෙනස්වෙයි
+### Fuel prices and gold change suddenly
 
 *2024-04-19 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195777) · `si`
 
-ඉරානයේ ප්‍රදේශයකට ඊශ්‍රායල මිසයිල ප්‍රහාරයක් එල්ලවූ බවට වාර්තා වීමත් සමග ලෝක වෙළෙඳපොළෙහි ඉන්ධන සහ රන් මිල වැඩිවී ඇති බව වාර්තා වෙයි.
+Sudden changes in fuel and gold prices due to global market reactions to Israeli missile reports in Iran. Brent crude oil in Asia rises to $90/barrel, gold to $2,400. Japan, Hong Kong, and South Korea's stock markets collapse, reflecting war tensions in the Middle East.
 
-සිකුරාදා උදෑසන ආසියානු වෙළෙඳපොළෙහි බ්‍රෙන්ට් බොර තෙල් බැරලයක මිල ඩොලර් 90ක් දක්වා 3%කින් වැඩිවූ අතර රන් මිල අවුන්සයක මිල දැක්වුණේ ඩොලර් 2,400ක් ලෙස ටයි.
+🟩
 
-එසේම ජපානයේ, හොං කොං සහ දකුණු කොරියාවේ කොටස් වෙළෙඳපොළ කඩා වැටී ඇති බව සඳහන් ය.
+It is reported that the propaganda of the world market has increased in the world market with reports of an Israeli missile at an area of Iran.
 
-මැද පෙරදිග වර්ධනය වෙමින් පවතින යුද උණුසුම කෙරෙහි කොටස් වෙළෙඳපොළ ආයෝජකයින් දැඩි විමසිල්ලකින් පසුවෙයි.
+The price of a barrel of Brent crude oil in the Asian market was rose by 30 to $ 90 and the gold price was priced at $ 2,400.
+
+The stock market in Japan, Hong Kong and the South Korean stock market have collapsed.
+
+Stock market investors are in vain into the growing war warmth of the Middle East.
 
 ◼️
 
 [Data](articles/4085be53.json)
+
+[Extended Data](ext_articles/4085be53.ext.json)
 
 ---
 
@@ -1864,37 +1936,51 @@ The suspects are still being questioned by the CID in the CID.
 
 ---
 
-### ආණ්ඩුකාරවරුන්ගේ වෙනසක්?
+### A change of governors?
 
 *2024-04-18 19:36:12* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුකාරවරුන්ගේ-වෙනසක්-/11-409157) · `si`
 
-වයඹ ඇතුළු දිවයිනේ පළාත් කීපයක ආණ්ඩුකාර තනතුරු වෙනස් කිරීමේ සූදානමක් මේ වනවිට පවතින වාර්තාවේ.රජයේ එම සූදානමට අනුව වයඹ පළාත් ආණ්ඩුකාර තනතුර දරන ලක්ෂ්මන් යාපා අබේවර්ධන මහතා දකුණු පළාතේ ආණ්ඩුකාරවරයා ලෙස පත් කිරීමට සැලසුම් කර ඇති බව වාර්තා වේ.
+The Governor of the North Western Province is set to change, with Minister Mahinda Amaraweera replacing him. Minister Mahinda Amaraweera, a politician from the South, is expected to retire. Nasir Ahmed's wife, a political figure in the Eastern Province, is also mentioned. These changes are anticipated in the lead-up to a presidential or general election.
 
-දකුණේ රජය නියෝජනය කරන දේශපාලනඥයන් වන කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර, පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන, ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහත්වරුන්ගේ ඉල්ලීමකට අනුව ලක්ෂ්මන් යාපා අබේවර්ධන මහතා දකුණේ ආණ්ඩුකාරවරයා ලෙස පත් කිරීමට නියමිත බව පැවසේ.එසේ වුවහොත් දකුණේ ආණ්ඩුකාරවරයා ලෙස දිගු කලක් කටයුතු කරමින් සිටින විලී ගමගේ මහතා එම තනතුරෙන් විශ්‍රාම ලැබීමට නියමිත බව පැවසේ.
+🟩
 
-ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගෙන් හිස් වන වයඹ පළාත් ආණ්ඩුකාර තනතුර සඳහා නැගෙනහිර පළාතේ හිටපු මහ ඇමති නසීර් අහමඩ් මහතාගේ නම මෙන්ම මෑතකදී හදිසි අනතුරකින් අභාවප්‍රාප්තවූ දේශපාලනඥයෙකුගේ බිරිඳගේ නමද පවතින බව වාර්තාවේ. ඇය තම සැමියා සමග ක්‍රියාකාරී දේශපාලනයෙහි නිරත වූ ජනතාව අතරේ ජනප්‍රිය අයෙකු වුවද බොහෝවිට නසීර් අහමඩ් මහතාට එම තනතුර හිමිවනු ඇති බවට විශ්වාස කෙරේ.
+It is reported that the Governor of the country is planning to change the posts of the Governor of the North Western Province.
 
-...
+Minister Mahinda Amaraweera, Minister of politicians representing the Government of the South, is to be appointed as the Governor of the South as Governor of the South.It is said that Mr. is due to retire from the post.
+
+The wife of the Chief Minister Nasir Ahmed of the Eastern Province Nasir Ahmed, which is recently emerged in the Eastern Province, has also been the name of the Chief Minister Nasir Ahamed of the Eastern Province as well as an accident in the Eastern Province.. Although she was popular among the people who were active politically with her husband, he is believed to have Nasee Ahmed.
+
+It is reported that these positions are often likely to change over the next few weeks over the period of time near a presidential or general election.
+
+◼️
 
 [Data](articles/40dbe3b3.json)
 
+[Extended Data](ext_articles/40dbe3b3.ext.json)
+
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීමට ජපානයේ සහාය
+### Japan supports to restructure credit
 
 *2024-04-18 19:18:28* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-ජපානයේ-සහාය/11-409156) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහ ලෝක බැංකුවේ වසර මැද සමුළුවට සහභාගී වී සිටින මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සහ ජපනායේ ජාත්‍යන්තර කටයුතු පිළිබඳ නියෝජ්‍ය මුදල් අමාත්‍ය ෆුජි ඩඉජෝ මහතා සමග සාකච්ජාවක් පැවැත්විණි.
+Japan supports Sri Lanka's credit restructuring, reaffirming their strong friendship. Ranil Wickremesinghe's leadership is commended, especially as co-chair of the official loan committee. Japan commits to quickly ending the restructuring process.
 
-ජපානය සහ ශ්‍රී ලංකාව අතර ශක්තිමත් මිත්‍රත්වය සහ සබඳතාව එහි දී නැවත තහවුරු කළ අතර ශ්‍රී ලංකාව ලබා ඇති විශිෂ්ට ආර්ථික ප්‍රගතිය අගය කෙරුණු බවයි සේමසිංහ මහතා පැවසුවේ.
+🟩
 
-රනිල් වික්‍රමසිංහ මැතිතුමාගේ ශක්තිමත් නායකත්වය සහ ආර්ථික කළමනාකරණය එහි දී පැසසුමට ලක් වූ අතර විශේෂයෙන්ම නිල ණය හිමි කමිටුවේ සම සභාපති ලෙස ශ්‍රී ලංකාව සඳහා ජපානයේ අඛණ්ඩ සහයෝගය ලබාදෙන බව ඒ මහතා පැවසූ බව සේමසිංහ මහතා පැවැසීය.
+Minister of State Shehan Semasinghe and the Deputy Minister of Finance of the Japan was held along with the International Monetary Fund and the World Bank.
 
-ණය ප්‍රතිව්‍යුහගත කිරීමේ ප්‍රගතිය පිළිබඳව  සාකච්ඡා කළ අතර, ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය ඉක්මනින් අවසන් කිරීමට ජපානයේ අඛණ්ඩ කැපවීම එහි දී සහතික කෙරිණි.
+The vigorous friendship and relationship between Japan and Sri Lanka have reaffirmed the vital friendship and relationship between Sri Lanka's excellent economic progress.
+
+He said that the strong leadership and economic management of Ranil Wickremesinghe were commended in Japan, especially as the co-chair of official loan committee.
+
+The projected commitment of Japan to quickly end the restructuring process of restructuring the debt.
 
 ◼️
 
 [Data](articles/3088fb84.json)
+
+[Extended Data](ext_articles/3088fb84.ext.json)
 
 ---
 
@@ -2101,67 +2187,5 @@ Upon reporting, they must provide essential documents including their Army ID (o
 [Data](articles/5312b9a8.json)
 
 [Extended Data](ext_articles/5312b9a8.ext.json)
-
----
-
-### Suspect arrested with ice drugs
-
-*2024-04-18 18:31:46* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-මත්ද්‍රව්‍ය-සමග-අත්අඩංගුවට-ගත්-සැකකරු-පළා-යයි/11-409152) · `si`
-
-A suspect was arrested with 25 million ice drugs near Grandpass Kovil, led by SSP Sarameara Kulasekara. The victim is a 47-year-old from Avindavullahulla.
-
-🟩
-
-A suspect arrested with ice narcotics with ice drugs
-
-The victim is a 47 year old resident of Avindavullahulla area
-
-Police Superintendent of Police SSP Sarameara Kulasekara, including the Superintendent of Police SSP Square, was arrested along with 25 million ice drugs near the Grandpass Kovil.
-
-The suspect and other suspects were fled by the police sergeant and a constable to the Maligakanda Court and a constable had fled to the Maligakanda Court.
-
-◼️
-
-[Data](articles/545b0aba.json)
-
-[Extended Data](ext_articles/545b0aba.ext.json)
-
----
-
-### Sajith’s favourability improves in March, but AKD continues lead: Sri Lanka survey
-
-*2024-04-18 18:23:00* · [`economynextcom`](https://economynext.com/sajiths-favourability-improves-in-march-but-akd-continues-lead-sri-lanka-survey-159172/) · `en`
-
-ECONOMYNEXT — Net favourability rating of Sri Lanka opposition leader Sajith Premadasa increased in March but rival Anura Kumara Dissanayake continued to lead, though all potential candidates including them had negative ratings for the month.
-
-The Institute for Health Policy (IHP) which carried out the survey found that Premadasa’s net favourability had increased by 30 points to -30 in March compared to the previous month while favourability ratings of National People’s Power (NPP) leader Dissanayake and President Ranil Wickremasinghe remained relatively unchanged at -24 (-2) and -78 (+1) respectively.
-
-IHP said in a statement on Thursday April 18 that favourability estimates for each month are based on 100–400 interviews conducted during that month and during a few weeks before and afterward to ensure a minimum set of responses. The March 2024 estimates are based on 401 (Premadasa), 377 (Dissanayake), 406 (Wickremasinghe), and 145 (former president Gotabaya Rajapaksa) interviews.
-
-...
-
-[Data](articles/6f41bf32.json)
-
-[Extended Data](ext_articles/6f41bf32.ext.json)
-
----
-
-### Teenager reported missing while bathing in Castlereagh Reservoir
-
-*2024-04-18 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98708/teenager-reported-missing-while-bathing-in-castlereagh-reservoir) · `en`
-
-A 17-year-old boy who was bathing in the Castlereagh Reservoir is reported missing after being swept away by strong water currents.
-
-The teenage boy, who is a resident of Castlereagh Estate in Dick Oya, had visited the reservoir with his family members at around 03.30 p.m. this evening (18).
-
-The security personnel in charge of the Castlereagh Reservoir along with local fishermen and residents have launched an operation in search of the body of the student.
-
-Eyewitnesses claim that the incident had occurred while the student was swimming back and forth across the reservoir, ignoring the warnings of the security officers.
-
-◼️
-
-[Data](articles/0d8d2d29.json)
-
-[Extended Data](ext_articles/0d8d2d29.ext.json)
 
 ---

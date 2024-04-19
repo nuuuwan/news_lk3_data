@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 08:33:59**
+As of **2024-04-19 08:18:17**
 
 ## Newspaper Stats
 
-*Scraped **19,684** Articles*
+*Scraped **19,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,66 +17,26 @@ dailyftlk | 1,085
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
-adaderanalk | 2,357
+adaderanalk | 2,356
 virakesarilk | 2,946
 dailymirrorlk | 3,044
-adaderanasinhalalk | 3,196
+adaderanasinhalalk | 3,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,681 (100.0%) of 19,684 articles have been extended.
+19,681 (100.0%) of 19,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### Israeli launches missile attack on Iran – media reports
-
-*2024-04-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98715/israeli-launches-missile-attack-on-iran-media-reports) · `en`
-
-Israeli missiles have hit a site in Iran, ABC News reported late on Thursday, citing a U.S. official, days after Iran launched a drone strike on Israel in response to an attack at the Iranian embassy in Syria.
-
-Iran’s Fars news agency said an explosion was heard at an airport in the Iranian city of Isfahan but the cause was not immediately known. Several Iranian nuclear sites are located in Isfahan province, including Natanz, centerpiece of Iran’s uranium enrichment program.
-
-Over the weekend, Iran launched hundreds of drones, opens new tab and missiles in a retaliatory strike after a suspected Israeli strike on its embassy compound in Syria.
-
-Most of the drones and missiles were downed before reaching Israeli territory.
-
-Iran told the United Nations Security Council on Thursday that Israel “must be compelled to stop any further military adventurism against our interests” as the U.N. secretary-general warned that the Middle East was in a “moment of maximum peril.”
-
-◼️
-
-[Data](articles/a3e998e0.json)
-
----
-
-### ඊශ්‍රායලය ඉරානයට ප්‍රතිප්‍රහාර දියත් කරයි
-
-*2024-04-19 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195772) · `si`
-
-ඉරානයේ නගරයකට මිසයිල ප්‍රහාරයක් ඉල්ලකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ ඊශ්‍රායලය විසින් මිසයිල ප්‍රහාරය එල්ලකර ඇති බවය.
-
-ප්‍රහාරය එල්ලවී ඇති ප්‍රාන්තයේ න්‍යෂ්ටික බලාගාර කිහිපයක්ම ඇති බවත් විදෙස් මාධ්‍ය තවදුරටත් වාර්තා කරයි.
-
-Israel has initiated an assault on Iran, targeting the nuclear facility situated in Isfahan.
-
-Iranian air defenses are actively countering the attacks on their facilities, prompting a halt in commercial flights over Iran.
-
-◼️
-
-[Data](articles/51e2a4c9.json)
-
----
-
 ### Others killed in the accident that he was riding
 
 *2024-04-19 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195771) · `si`
 
-In a tragic accident on the Kandagala Kanda road, a lorry carrying Kosgama's family was involved in a fatal crash. The driver, along with his mother, wife, mother-in-law, and daughter, were killed. The vehicle was flipped over.
+In a tragic accident on the Kandagala Kanda road, a lorry carrying Kosgama's family was involved in a fatal crash. The driver, along with Kosgama's mother, wife, mother-in-law, and daughter, were killed. The lorry was flipped over.
 
 🟩
 
@@ -118,7 +78,7 @@ Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika 
 
 *2024-04-19 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195770) · `si`
 
-The funeral of Deputy Minister Palitha Thevarapperuma, 64, who died from an electric shock, is today. He served in various roles from 2010-2020 and was a significant figure in society.
+The funeral of Deputy Minister Palitha Thevarapperuma, 64, who died from an electric shock, is today in Matugama. He served as a Deputy Minister from 2010-2020.
 
 🟩
 
@@ -2211,5 +2171,51 @@ Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and T
 [Data](articles/1f6e6e9b.json)
 
 [Extended Data](ext_articles/1f6e6e9b.ext.json)
+
+---
+
+### Family injured in the explosion - Mullaitivu incident
+
+*2024-04-18 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181384) · `ta`
+
+A family from Pudukkudiyiruppu was injured in an explosion in Devipuram, Mullaitivu, while hunting. The 33-year-old was admitted to Mullaitivu District Hospital for treatment.
+
+🟩
+
+A family member has been admitted to the Mullaitivu District Hospital after being injured when a barrier exploded in the Devipuram area of Pudukkudiyiruppu in Mullaitivu.
+
+The incident took place on Thursday (18) afternoon.
+
+The 33 -year -old family from Mayilkunjan, Pudukkudiyiruppu, was injured.
+
+When the person moved from his home to the forest area in Devipuram (b), it was exploded to hunt animals.
+
+He was admitted to the Pudukkudiyiruppu Resource Hospital and sent to the Mullaitivu District Hospital for further treatment.
+
+◼️
+
+[Data](articles/0b2afc70.json)
+
+[Extended Data](ext_articles/0b2afc70.ext.json)
+
+---
+
+### Hotline numbers to provide information regarding environmental damage
+
+*2024-04-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98705/hotline-numbers-to-provide-information-regarding-environmental-damage) · `en`
+
+Sri Lanka Police says the general public can provide any information regarding environmental destruction via the hotline numbers ‘1997’ and ‘1981’.
+
+Police said steps have been taken to inform people regarding the matter, since the information provided by the general public plays a major role in operations carried out in relation to environmental destruction.
+
+The illegal mining activities, environmental damage caused by factories and sound pollution have had a severe impact on the environment and wild animals.
+
+Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘1981’ of Central Environment Authority (CEA) has been introduced in order to receive information and complaints regarding such environmental damages caused by people, the police said.
+
+◼️
+
+[Data](articles/763e9d3a.json)
+
+[Extended Data](ext_articles/763e9d3a.ext.json)
 
 ---

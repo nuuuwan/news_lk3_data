@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 22:05:31**
+As of **2024-04-19 22:18:27**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,804 (100.0%) of 19,808 articles have been extended.
+19,808 (100.0%) of 19,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### නව විදුලිබල පනත් කෙටුම්පත ගැන ආන්දෝලනාත්මක ප්‍රකාශයක්
+### A controversial statement on the New Power and Electricity Bill
 
 *2024-04-19 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195794) · `si`
 
-නව විදුලිබල පනත් කෙටුම්පතින් පාරිභෝගික ආරක්ෂණයට සහ ජල විදුලි බලාගාර පිළිබ﻿ඳ රජයට ඇති අයිතියට කිසිදු හානියක් නොවන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අවධාරණය කරයි.
+Power and Energy Minister Kanchana Wijesekera defends the new Power and Electricity Bill, emphasizing it's for consumer protection and hydro power plants. He addresses criticisms from electricity professional union leaders and the bill's proposed reforms in Sri Lanka's power sector.
 
-නව කෙටුම්පතට එල්ලවන චෝදනාවලට ප්‍රතිචාර දක්වමින් අමාත්‍යවරයා අද (19) පැවසුවේ එම පනතින් ගැටලු ඇතිවන්නේ විදුලිබල වෘත්තිය සමිති නායකයින්ට බවය.
+🟩
 
-මෙරට විදුලිබල ක්ෂේත්‍රයේ යෝජිත ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමට විධි විධාන සලසන විදුලි පනත් කෙටුම්පත ගැසට් නිවේදනයක් මඟින් අප්‍රේල් 17 වැනිදා ප්‍රකාශයට පත් කෙරුණි.
+Power and Energy Minister Kanchana Wijesekera emphasizes that the new Power and Power bill will not be harmed for consumer protection and hydro power plants.
 
-මෙම නව පනත් කෙටුම්පත සම්බන්ධයෙන් විදුලි වෘත්තීය සමිති ඇතුළු පාර්ශ්ව රැසකින් විවිධ චෝදනා එල්ලවුණි.
+The Minister today responded to the allegations of the new draft today (19), the Minister said that the Act had problems with the electricity professional union leaders.
 
-එල්ල වන මෙම චෝදනාවලට විෂයභාර අමාත්‍ය කංචන විජේසේකර මහතා අද ප්‍රතිචාර දැක්විය.
+The Bill was announced on April 17, providing proposed reforms in the Sri Lankan power field.
+
+The new bill was charged with many parties including electricity unions.
+
+Minister Kanchana Wijesekara responded today.
 
 ...
 
 [Data](articles/1a637b75.json)
+
+[Extended Data](ext_articles/1a637b75.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Members and their guests will be welcome to the Sports Centre of the Hilton to b
 ...
 
 [Data](articles/b804e72a.json)
+
+[Extended Data](ext_articles/b804e72a.ext.json)
 
 ---
 
@@ -125,6 +133,8 @@ However, the personnel mentioned below have been excluded from the general amnes
 ...
 
 [Data](articles/7bad5f44.json)
+
+[Extended Data](ext_articles/7bad5f44.ext.json)
 
 ---
 
@@ -357,6 +367,8 @@ The final rites of the late former Deputy Minister Palitha Thevarapperuma were h
 ◼️
 
 [Data](articles/2b9402c9.json)
+
+[Extended Data](ext_articles/2b9402c9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 08:52:29**
+As of **2024-04-19 09:03:35**
 
 ## Newspaper Stats
 
-*Scraped **19,688** Articles*
+*Scraped **19,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,41 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,120
+economynextcom | 1,123
 adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,357
 virakesarilk | 2,946
 dailymirrorlk | 3,048
-adaderanasinhalalk | 3,196
+adaderanasinhalalk | 3,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,684 (100.0%) of 19,688 articles have been extended.
+19,688 (100.0%) of 19,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### සජබයට සහාය දුන්නොත් තනතුරක්
+
+*2024-04-19 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195773) · `si`
+
+ඉදිරි ජනාධිපතිවරණයේදී එක්සත් ජාතික පක්ෂයේ සහාය සජිත් ප්‍රේමදාස මහතාට ලබාදෙන්නේ නම් රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාට තනතුරක් ලබාදීම සම්බන්ධයෙන් සලකා බැලීමක් සිදුකළ හැකි බව සමගි ජන බලවේගය පවසයි.
+
+එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී අශෝක් අබේසිංහ මහතා මේ බව සඳහන් කළේය.
+
+ඔහු වැඩිදුරටත් ප්‍රකාශ කළේ සමගි ජන බලවේගයේ කිසිඳු මන්ත්‍රීවරයෙකු එක්සත් ජාතික පක්ෂය සමග එක්නොවන බවය.
+
+කුරුණෑගල ප්‍රදේශයේදී මාධ්‍ය හමුවක් පවත්වමින් අශෝක් අබේසිංහ මන්ත්‍රීවරයා මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/567d496e.json)
+
+---
 
 ### Chicken prices down by Rs. 100 today
 
@@ -45,6 +63,26 @@ The selling price of Rs. 1,190 was recorded for skinless chicken and curry chick
 ◼️
 
 [Data](articles/e716b31d.json)
+
+[Extended Data](ext_articles/e716b31d.ext.json)
+
+---
+
+### Sri Lanka at IMF/WB meeting stress need for concessional loans for Middle Income nations
+
+*2024-04-19 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-at-imf-wb-meeting-proposes-need-for-concessional-loans-access-for-middle-income-nations-159184/) · `en`
+
+ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for Middle Income countries at the IMF/World Bank Spring Meeting, the island nation’s State Finance Minister Shehan Semasinghe said.
+
+“(I) pointed out pressure on many emerging and frontier market economies, both in terms of maintaining debt sustainability and in terms of financing long term development and sustainability needs,” Semasinghe said after taking part in the meeting late on Thursday in Washington.
+
+“I welcomed the reforms being considered by the IMF in its Lending Into Official Arrears policy which seek to address some of the challenges as constrained global financial environment has made it increasingly difficult for vulnerable middle income countries to raise required low cost. and long term financing for development needs and combating climate change.”
+
+“I proposed the need for enhanced access to concessional financing even for middle income countries which are typically not eligible for such funds.”
+
+...
+
+[Data](articles/067b1e67.json)
 
 ---
 
@@ -68,6 +106,8 @@ The United States and a number of European countries had been calling on Israel 
 
 [Data](articles/d14acbe2.json)
 
+[Extended Data](ext_articles/d14acbe2.ext.json)
+
 ---
 
 ### India heads to the polls in world’s biggest election
@@ -88,6 +128,8 @@ Under Modi’s leadership, the country of 1.4 billion people has become the worl
 
 [Data](articles/770c7764.json)
 
+[Extended Data](ext_articles/770c7764.ext.json)
+
 ---
 
 ### Party leaders to shoot down MPs request for concessionary duty free vehicle permits
@@ -105,6 +147,8 @@ However, SJB Leader Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella
 ◼️
 
 [Data](articles/9a7c409c.json)
+
+[Extended Data](ext_articles/9a7c409c.ext.json)
 
 ---
 
@@ -223,6 +267,26 @@ Palitha Thevarapperuma was a prominent figure in society when the people were af
 [Data](articles/fe15fa22.json)
 
 [Extended Data](ext_articles/fe15fa22.ext.json)
+
+---
+
+### Hopeful of Sri Lanka ISB restructuring deal despite ‘some setbacks’: IMF Official
+
+*2024-04-19 06:25:00* · [`economynextcom`](https://economynext.com/hopeful-of-sri-lanka-isb-restructuring-deal-despite-some-setbacks-imf-official-159191/) · `en`
+
+ECONOMYNEXT – There was hope for a deal with Sri Lanka’s sovereign bond holders despite “some setback” Krishna Srinivasan, Director of the Asia and Pacific Department at the International Monetary Fund has said.
+
+Sri Lanka had the first round of direct discussions with sovereign bond holders in London, where a deal was not finalized, but the government agreed to bonds linked to economic performance.
+
+“So my sense is that there are some setbacks on the private sector restructuring, but again, the both parties are talking,” Srinivasan told reporters in Washington.
+
+“So I’m hopeful that there will be some conclusions down the road.”
+
+Bondholders have also proposed a governance linked bond in exchange for defaulted bonds, after asking Sri Lanka.
+
+...
+
+[Data](articles/67efad40.json)
 
 ---
 
@@ -645,6 +709,26 @@ The CAFE 2024 is a crucible of culinary innovation, slated to transform the gast
 [Data](articles/e51480f7.json)
 
 [Extended Data](ext_articles/e51480f7.ext.json)
+
+---
+
+### World Bank’s IFC emphasizes private sector engagement in Sri Lanka’s growth
+
+*2024-04-19 04:44:00* · [`economynextcom`](https://economynext.com/world-banks-ifc-emphasizes-private-sector-engagement-in-sri-lankas-growth-159181/) · `en`
+
+ECONOMYNEXT – The International Finance Corporation (IFC), the World Bank’s investment arm emphasized the importance of the private sector engagement in the recovery of the crisis-hit Sri Lanka’s economic growth.
+
+Riccardo Puliti, the IFC’s Vice President for Asia and the Pacific said this when he met State Finance Minister Shehan Semasinghe and the island nation’s Central Bank Governor Nandalal Weerasinghe on the sideline of IMF/World Bank Spring Meeting in Washington.
+
+“Private sector engagement is key to boost Sri Lanka’s growth & pave the way for a resilient future,” Riccardo said in his X platform citing that the discussion was a “good exchange”.
+
+The IFC last year pledged to provide Sri Lanka a $400 million cross-currency swap facility to Sri Lanka to help fund essential imports through three private banks.
+
+Semasinghe thanked Riccardo for his “insightful perspective on the importance of private sector engagement for Sri Lanka’s growth and resilience”.
+
+...
+
+[Data](articles/323002e6.json)
 
 ---
 
@@ -2115,93 +2199,5 @@ Most of them have held ministry in every government since the time of former Pre
 [Data](articles/6a2ef493.json)
 
 [Extended Data](ext_articles/6a2ef493.ext.json)
-
----
-
-### Will the drinking water problem of the Thiriyai Tamil Maha Vidyalaya be resolved ..?
-
-*2024-04-18 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181363) · `ta`
-
-The drinking water problem at Thiriyai Tamil Maha Vidyalaya, a school in a border Tamil village, is due to a polluted well used for both drinking and cooking. The school's water purification machine, provided by RDS, is unused and locked, leading to water-related diseases among students. The solution requires advancing the water purification facility to meet the students' needs.
-
-🟩
-
-One of the border Tamil villages of the Trincomalee district is a well for the drinking water use of the Tamil Maha Vidyalaya in the village of Thiriyayak.
-
-The school, which is found in more than 200 students, is the main one of the students' water needs.. From this well, the water supplied by the motor by the motor is distributed to the water needs of the students.
-
-The well is found in a very polluted state because it is open without closing. However, students are using this water for their water needs. The same well is used for cooking.
-
-Although the water purification machine provided by the RDS is located in the school premises near the school, it is now locked up for not being used for a long time.. Students need to drink this soaked water as the water purification block is not used. It is seen to cause water -related diseases.
-
-...
-
-[Data](articles/d0a3db98.json)
-
-[Extended Data](ext_articles/d0a3db98.ext.json)
-
----
-
-### Sri Lankan govt reveals shortlisted bidders for key SOEs; transactions to end by August
-
-*2024-04-18 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98707/sri-lankan-govt-reveals-shortlisted-bidders-for-key-soes-transactions-to-end-by-august-) · `en`
-
-The State-Owned Enterprise Restructuring Unit (SRU) of the Finance Ministry has officially released the names of the local and foreign firms that have submitted responses to the respective requests for quote and the shortlisted bidders for the divestiture of shares held by the Government of Sri Lanka in several key state-owned enterprises (SOEs).
-
-Issuing a press release, the SRU also said that it is envisaged that all SOE transactions other than SriLankan Airlines will be concluded by August 2024 and that the timeline for SriLankan Airlines is likely to extend to end of September 2024.
-
-...
-
-[Data](articles/ff482620.json)
-
-[Extended Data](ext_articles/ff482620.ext.json)
-
----
-
-### Scientists from Canada, Sri Lanka work together to address threat of antibiotic resistance in animals
-
-*2024-04-18 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98706/scientists-from-canada-sri-lanka-work-together-to-address-threat-of-antibiotic-resistance-in-animals) · `en`
-
-Two scientists whose connection was sparked in Saskatchewan are working together from different sides of the globe to improve animal health in Sri Lanka, in hopes of addressing a potential global health threat.
-
-“Literally right here is where we sat together,” said Joe Rubin, looking around his lab at the University of Saskatchewan, Canada.
-
-It’s the scene where an international friendship formed on the Prairies.
-
-Rubin is a professor of veterinary microbiology at the Western College of Veterinary Medicine in Saskatoon. He met fellow scientist Roshan Madalagama almost 11 years ago, when Madalagama came to Saskatchewan from Sri Lanka as a graduate student.
-
-“I believe that my second home is in Canada,” Madalagama told CBC from Peradeniya, Sri Lanka.
-
-“As a mentor, [Rubin] is one of the greatest people I’ve ever met in my life. There’s no doubt about that.”
-
-Rubin supervised Madalagama as the two studied antimicrobial resistance, or AMR — the same issue they’re tackling today.
-
-...
-
-[Data](articles/a44fb012.json)
-
-[Extended Data](ext_articles/a44fb012.ext.json)
-
----
-
-### Two spies arrested
-
-*2024-04-18 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195760) · `si`
-
-Two Russian-German dual citizens were arrested in Germany for attempting to sabotage a military aid plan to Ukraine. They were spies in Russia and had discovered information on American war centers in Germany.
-
-🟩
-
-Two persons were arrested in Germany who attempted to sabotage the plan to providing military aid plan to Ukraine by Germany.
-
-They are Russian and German dual citizens that two spies serving in Russia.
-
-It is said that they have found information on American war centers in Germany.
-
-◼️
-
-[Data](articles/34549b17.json)
-
-[Extended Data](ext_articles/34549b17.ext.json)
 
 ---

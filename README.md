@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 18:33:53**
+As of **2024-04-19 18:52:44**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,789 (100.0%) of 19,792 articles have been extended.
+19,792 (100.0%) of 19,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### බොරුකාරයන්ට අහුවෙන්න එපා - තැපෑලෙන් SMS එවන්නේ නෑ
+### Don't get caught by liars - don't send SMS by mail
 
 *2024-04-19 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195790) · `si`
 
-දේශීය හෝ විදේශීය පාර්සල් ලැබීමක් දන්වා ශ්‍රී ලංකා තැපෑල කිසිදු SMS පණිවුඩයක් ගනුදෙනුකරුවන් වෙත යැවීමක් සිදුකර නොමැති බව තැපැල්පති එස්. ආර්. ඩබ්. එම්. ආර්. පී සත්කුමාර මහතා පවසයි.
+PostSPS denies sending SMS about parcel receipts. Mr. Phmmara claims the public is deceived by a fraudulent website and false mobile numbers. The Sri Lanka Postal Department's official website is misleading. SMS calls from the Postal Department will not be made. They ask for credit card data or SMS for verification. Contact the Information Technology Division for more information.
 
-නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, එහෙත් වංචනිකව සකස් කළ වෙබ් අඩවියක් සහ උපක්‍රමිකව සකස් කරගත් ව්‍යාජ ජංගම දුරකථන අංක යොදා ගනිමින් මහජනතාව රවටන වංචාවක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බවය.
+🟩
 
-ශ්‍රී ලංකා තැපෑල, ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව, SL POST, Sri Lanka Post ආදි නම් භාවිත කරමින් ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය ද  උපක්‍රමිකව අවභාවිත කරමින් මෙම ජාවාරම ක්‍රියාත්මක වන බව පැවසේ.
+PostSPS Message has not sent any SMS message to customers to inform a local or foreign parcel receipt. R. W. M. R. Says Mr. Phmmara.
 
-ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ කෙටි පණිවුඩ මඟින් කාඩ්පත් තොරතුරු විමසීමක් කිසිසේත් සිදුනොකරන අතර ණය කාඩ්පත් මඟින් පාර්සල් සම්බන්ධ කිසිදු ගනුදෙනුවක් සිදුනොකෙරේ.
+However, he said that he was revealed that the public deceiguring the public with a fraudulently prepared website and strategically developed false mobile numbers.
 
-මහජනතාව වෙත ලැබෙන කෙටි පණිවුඩයක් සඳහා සිය ණය කාඩ්පත් දත්ත වෙබ් අඩවියකට හෝ කෙටි පණිවුඩයක් මඟින් හෝ වෙනත් කිසිදු ආකාරයකින් ලබාදීම සිදුනොකරන ලෙසද තැපැල් දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+It is said that the official website of the Postal Department of the Sri Lanka Postal Department is also acting acted in misconception using the Sri Lanka Post, Department of Postal Department of Sri Lanka, SL Post, Sri Lanka Post.
 
-...
+The SMS calls of the Department of Postal Department will not be conducted by the SMS.
+
+The Postal Department has requested the public to provide their credit card data or a SMS for a SMS to a SMS or other way.
+
+Information Technology Division - 0112 542004/0112 335978/0112 387229/0112 330072
+
+◼️
 
 [Data](articles/a693313c.json)
+
+[Extended Data](ext_articles/a693313c.ext.json)
 
 ---
 
@@ -69,6 +77,8 @@ In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all
 ◼️
 
 [Data](articles/5bfd9ce2.json)
+
+[Extended Data](ext_articles/5bfd9ce2.ext.json)
 
 ---
 
@@ -165,6 +175,8 @@ The airline said the suspension is aimed at supporting operations recovery at DX
 ...
 
 [Data](articles/f6360927.json)
+
+[Extended Data](ext_articles/f6360927.ext.json)
 
 ---
 

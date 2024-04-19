@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 18:21:39**
+As of **2024-04-19 18:33:53**
 
 ## Newspaper Stats
 
-*Scraped **19,789** Articles*
+*Scraped **19,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,371
 virakesarilk | 2,967
-dailymirrorlk | 3,067
-adaderanasinhalalk | 3,212
+dailymirrorlk | 3,069
+adaderanasinhalalk | 3,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,787 (100.0%) of 19,789 articles have been extended.
+19,789 (100.0%) of 19,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### බොරුකාරයන්ට අහුවෙන්න එපා - තැපෑලෙන් SMS එවන්නේ නෑ
+
+*2024-04-19 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195790) · `si`
+
+දේශීය හෝ විදේශීය පාර්සල් ලැබීමක් දන්වා ශ්‍රී ලංකා තැපෑල කිසිදු SMS පණිවුඩයක් ගනුදෙනුකරුවන් වෙත යැවීමක් සිදුකර නොමැති බව තැපැල්පති එස්. ආර්. ඩබ්. එම්. ආර්. පී සත්කුමාර මහතා පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් ඒ මහතා සඳහන් කර ඇත්තේ, එහෙත් වංචනිකව සකස් කළ වෙබ් අඩවියක් සහ උපක්‍රමිකව සකස් කරගත් ව්‍යාජ ජංගම දුරකථන අංක යොදා ගනිමින් මහජනතාව රවටන වංචාවක් පිළිබඳ තොරතුරු අනාවරණය වී ඇති බවය.
+
+ශ්‍රී ලංකා තැපෑල, ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුව, SL POST, Sri Lanka Post ආදි නම් භාවිත කරමින් ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය ද  උපක්‍රමිකව අවභාවිත කරමින් මෙම ජාවාරම ක්‍රියාත්මක වන බව පැවසේ.
+
+ශ්‍රී ලංකා තැපැල් දෙපාර්තමේන්තුවේ කෙටි පණිවුඩ මඟින් කාඩ්පත් තොරතුරු විමසීමක් කිසිසේත් සිදුනොකරන අතර ණය කාඩ්පත් මඟින් පාර්සල් සම්බන්ධ කිසිදු ගනුදෙනුවක් සිදුනොකෙරේ.
+
+මහජනතාව වෙත ලැබෙන කෙටි පණිවුඩයක් සඳහා සිය ණය කාඩ්පත් දත්ත වෙබ් අඩවියකට හෝ කෙටි පණිවුඩයක් මඟින් හෝ වෙනත් කිසිදු ආකාරයකින් ලබාදීම සිදුනොකරන ලෙසද තැපැල් දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+...
+
+[Data](articles/a693313c.json)
+
+---
+
+### UL cancels flights to Dubai amid bad weather
+
+*2024-04-19 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UL-cancels-flights-to-Dubai-amid-bad-weather/108-281005) · `en`
+
+Colombo, April 19 (Daily Mirror) - In light of the adverse weather conditions at the Dubai International Airport, SriLankan Airlines (UL) faces flight cancellations to the UAE hub, sources said.
+
+According to reliable sources, Flight UL 225, slated for departure to Dubai at 18:25 today (April 19), has been grounded due to the turbulent weather.
+
+Further, a previous UL flight bound for Dubai had to be rerouted yesterday (April 18), while another scheduled for departure on April 17 met the same fate.
+
+In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all check-ins for passengers with connecting flights due to the ongoing operational challenges at Dubai International Airport (DXB), which is still grappling with the aftermath of a recent severe storm.
+
+"Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20)," the airline announced via social media.
+
+◼️
+
+[Data](articles/5bfd9ce2.json)
+
+---
 
 ### Asian stocks fall as concern over Middle East spurs selling
 
@@ -50,27 +90,37 @@ ABC News reported that Israel had attacked Iran, citing a senior U.S. official. 
 
 [Data](articles/c1a339b4.json)
 
+[Extended Data](ext_articles/c1a339b4.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்து சர்வதேச விசாரணை அவசியம் -சமூகம்  மற்றும் மத நிலையம் வேண்டுகோள் - முக்கிய சூத்திரதாரியை கண்டுபிடிக்க சர்வதேச உதவியை பெறவேண்டும் என தெரிவிப்பு
+### International Investigation into Life Sunday attacks
 
 *2024-04-19 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181475) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில்  சர்வதேச விசாரணைகளை முன்னெடுக்கவேண்டும் என  சமூகம் மற்றும் மத நிலையத்தின் ஆராய்ச்சி குழு வேண்டுகோள் விடுத்துள்ளது.
+The Social and Religious Center's research unit has called for an international investigation into the Sunday attacks, the worst incident in Sri Lanka since the war. They recommend prosecuting those responsible, ensuring victims receive compensation, and implementing Presidential Investigation Commission recommendations. Suren Perera emphasizes the need for international mechanisms, as domestic ones have failed, suggesting a mixed approach.
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் இன்னமும் நீதிக்காக காத்திருத்தல்  பொருளாதார சமூக கலாச்சார  பொருளாதார சட்ட கண்ணோட்டம் என்ற அறிக்கையை இன்று வெளியிட்டுள்ள  சமூகம் மற்றும் மத நிலையத்தின் ஆராய்ச்சி இந்த அறிக்கையில் உயிர்த்த ஞாயிறு தாக்குதல் குறித்த சர்வதேச விசாரணையை கோரியுள்ளது.
+🟩
 
-உயிர்த்த ஞாயிறு படுகொலைகளை இலங்கையில் யுத்தத்தின் பின்னர்  தேவாலயங்களையும்  ஹோட்டல்களையும் இலக்குவைத்து இடம்பெற்ற மிகவும் பயங்கரமான வெளிப்படையான  சம்பவம் என குறிப்பிடலாம்.
+The Research Committee of the Social and Religious Center has requested that international inquiries be carried out on the Sunday attack.
 
-இதன் காரணமாக  உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்டவர்களிற்கான  நீதியை நிலைநாட்டுவதற்கு அவசியமான சில பரிந்துரைகளை முன்வைக்கின்றோம்.
+The Social and Religious Center's research, which has issued a report on the Economic Socio Cultural Economic Law view of the Economic Socio Cultural Economic Law, has sought an international investigation into the survival Sunday attack.
 
-சர்வதேச விசாரணைகளை மேற்கொண்டு  தாக்குதலிற்கு காரணமானவர்களிற்கு எதிராக வழக்குதாக்கல் செய்யவேண்டும்  குறிப்பாக சூத்திரதாரிகளிற்கு எதிராக .
+The life -threatening Sunday massacre can be referred to as the most terrible incident in Sri Lanka after the war in Sri Lanka.
 
-உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்ட அனைவருக்கும் போதியளவு  இழப்பீடு துரிதமாக சென்றடைவதை உறுதி செய்யவேண்டும்.
+As a result, we make some recommendations that are necessary to uphold justice for the victims due to the resurrection.
+
+International investigations and prosecuting those responsible for the attack, especially against the masterminds.
+
+To ensure that all the victims of the survival Sunday will reach sufficient compensation rapidly.
+
+The Bio -Sunday attack should ensure that all recommendations of the Presidential Investigation Commission are implemented.
 
 ...
 
 [Data](articles/d6f08337.json)
+
+[Extended Data](ext_articles/d6f08337.ext.json)
 
 ---
 
@@ -97,6 +147,24 @@ Palestine attempts from 2011 to obtain full membership of the United Nations. Th
 [Data](articles/c38b23f9.json)
 
 [Extended Data](ext_articles/c38b23f9.ext.json)
+
+---
+
+### Dubai’s Emirates halts check-in for connections
+
+*2024-04-19 17:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dubais-Emirates-halts-check-in-for-connections/108-281004) · `en`
+
+April 19 - Emirates, one of the world’s biggest international airlines, has suspended all check-ins for customers with onward connections as operations at Dubai International Airport (DXB) are still volatile three days after a record storm swept the UAE.
+
+“Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20),” Dubai’s flagship carrier said in a social media post on X.
+
+Emirates said customers with connections in Dubai, one of the world’s busiest aviation hubs, will only be accepted at their point of origin if their flight departs after 23:59 hrs GMT, 19 April.
+
+The airline said the suspension is aimed at supporting operations recovery at DXB as the airport continues to struggle to clear a backlog of flights.
+
+...
+
+[Data](articles/f6360927.json)
 
 ---
 
@@ -2207,83 +2275,5 @@ Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika 
 [Data](articles/e7932812.json)
 
 [Extended Data](ext_articles/e7932812.ext.json)
-
----
-
-### Funeral of the body of Palitha Thevarapperuma today
-
-*2024-04-19 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195770) · `si`
-
-The funeral of Deputy Minister Palitha Thevarapperuma, 64, who died from an electric shock, is today in Matugama. He served as a Deputy Minister from 2010-2020.
-
-🟩
-
-The funeral of the late Deputy Minister Palitha Thewarapperuma is due to be held today (19).
-
-The relatives of the family are to be buried at the ceremony that Mr. Thevupperuma is to be buried at the Yatadolawatta area in Matugama this afternoon.
-
-The remains were brought to his residence on the 17 night and had come to his residence, Ada Derana reporters said yesterday last night.
-
-Palitha Thevarapperuma was killed by a vacation of electricity and was 64 years old.
-
-He was a Member of the Kalutara District from 2010 to 2020, as a Deputy Minister of Home Affairs, Wayamba Development and Cultural Affairs and Deputy Minister of Wildlife.
-
-Palitha Thevarapperuma was a prominent figure in society when the people were affected.
-
-◼️
-
-[Data](articles/fe15fa22.json)
-
-[Extended Data](ext_articles/fe15fa22.ext.json)
-
----
-
-### Hopeful of Sri Lanka ISB restructuring deal despite ‘some setbacks’: IMF Official
-
-*2024-04-19 06:25:00* · [`economynextcom`](https://economynext.com/hopeful-of-sri-lanka-isb-restructuring-deal-despite-some-setbacks-imf-official-159191/) · `en`
-
-ECONOMYNEXT – There was hope for a deal with Sri Lanka’s sovereign bond holders despite “some setback” Krishna Srinivasan, Director of the Asia and Pacific Department at the International Monetary Fund has said.
-
-Sri Lanka had the first round of direct discussions with sovereign bond holders in London, where a deal was not finalized, but the government agreed to bonds linked to economic performance.
-
-“So my sense is that there are some setbacks on the private sector restructuring, but again, the both parties are talking,” Srinivasan told reporters in Washington.
-
-“So I’m hopeful that there will be some conclusions down the road.”
-
-Bondholders have also proposed a governance linked bond in exchange for defaulted bonds, after asking Sri Lanka.
-
-...
-
-[Data](articles/67efad40.json)
-
-[Extended Data](ext_articles/67efad40.ext.json)
-
----
-
-### Rain today
-
-*2024-04-19 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195768) · `si`
-
-Today, showers and thundershowers are expected in Western, Sabaragamuwa, North Western, Northern provinces, and Galle and Matara districts. Heavy showers may reach over 50 mm in some areas. Public advised to take precautions against wind and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts today (19).
-
-The Department of Meteorology issues its latest announcement.
-
-It further stated that showers or thundershowers will occur at several places in the middle, North-Central and Uva provinces.
-
-There may be heavy showers at more than 50 mm in the Western, Sabaragamuwa and Northwestern provinces.
-
-Some locations in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts have a murder.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/3a320640.json)
-
-[Extended Data](ext_articles/3a320640.ext.json)
 
 ---

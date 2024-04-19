@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 20:33:59**
+As of **2024-04-19 20:51:29**
 
 ## Newspaper Stats
 
-*Scraped **19,798** Articles*
+*Scraped **19,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,372
-virakesarilk | 2,969
+virakesarilk | 2,970
 dailymirrorlk | 3,071
-adaderanasinhalalk | 3,214
+adaderanasinhalalk | 3,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,798 (100.0%) of 19,798 articles have been extended.
+19,798 (100.0%) of 19,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### சிறுமியின் மரணத்திற்கு நீதி கோரி தரணிக்குள மக்கள் பொலிஸ் நிலையத்தை முற்றுகையிட்டு ஆர்ப்பாட்டம்
+
+*2024-04-19 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181483) · `ta`
+
+அண்மையில் வவுனியாவில் உயிரிழந்த சிறுமியின் மரணத்திற்கு நீதி கோரி வெள்ளிக்கிழமை (19) தரணிக்குளம் கிராம மக்களினால் ஈச்சங்குளம் பொலிஸ் நிலையத்தை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+கடந்த 17ம் திகதி தரணிக்குளம் கிராமத்தில் வீட்டில் தூக்கில் தொங்கிய நிலையில் 17 வயதுடைய சிறுமியின் சடலம் மீட்கப்பட்டிருந்தத நிலையில், வெள்ளிக்கிழமை (19) இறுதி கிரியைகள் இடம்பெற இருந்த வேளை சிறுமியின் இறப்பில் சந்தேகம் இருப்பதாக தெரிவித்து சிறுமியின் வீட்டிற்கு முன்பாக கிராம மக்கள் மற்றும் உறவினர்களால் ஆர்ப்பாட்டம் ஒன்றினை முன்னெடுத்தனர்.
+
+அத்தோடு குறித்த சிறுமியின் மரணத்திற்கு சிறிய தந்தையாரே காரணம் எனவும் தெரிவித்து மாபெரும் போராட்டத்தினை முன்னெடுத்ததுடன் மரணித்த சிறுமியின் வீட்டில் இருந்து பேரணியாக ஈச்சங்குளம் பொலிஸ் நிலையத்திற்கு சென்று பொலிஸ் நிலையத்தையும் முற்றுகையிட்டதுடன் வீதியை மறித்தும் ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/b9c9d595.json)
+
+---
+
+### චමරි ජාත්‍යන්තර ක්‍රිකට් පිටියෙන් සමුගනී ද?
+
+*2024-04-19 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195792) · `si`
+
+සිය ක්‍රිකට් සමුගැනීම ඉතා ළඟදීම සිදුවන බව ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවසූවාය.
+
+දකුණු අප්‍රිකාවට එරෙහිව ලද වාර්තාගත එක්දින ජයග්‍රහණයෙන් පසු මාධ්‍ය වෙත අදහස් දැක්වූ ඇය පැවුසවේ ලබන වසරේ පැවැත්වෙන කාන්තා එක්දින ලෝක කුසලානයේදී තම කණ්ඩායම අවසන් පුර්ව වටයට සුදුසුකම් ලැබීම සිය ඉලක්කය බවය.
+
+දකුණු අප්‍රිකා තරග සංචාරයේදී ශ්‍රී ලංකා කාන්තා ක්‍රිකට් පිල 20-20 තරගාවලිය 2ට 1ක් ලෙස ජයගත් අතර එක්දින තරගාවලිය 1ට1ක් ලෙස සම කිරීමට සමත්වුණි.
+
+අවසන් එක්දින තරගයේදී චමරි අතපත්තු නොදැවී ලකුණු 195 රැස්කළේ, ශ්‍රී ලංකා පිල වාර්තා අතරට ඔසවා තබමිනි.
+
+"ක්‍රිකට් ක්‍රීඩිකාවක් විදියට මේ ජයග්‍රහණය මට ඇත්තෙන්ම වැදගත්, මොකද මට දැන් වයස අවුරුදු 34ක් වෙනවා. මම ඉන්නේ මගේ ක්‍රීඩා ජීවිතයේ අවසන් අදියරේ. මගේ කණ්ඩායමට ලෝක කුසලාන තරගාවලියේ අවසන් පූර්ව වටයේ දකින්නයි මට ඕන. පසුගිය අවුරුදු 15ක දුෂ්කර කාලය තුළ පුද්ගලකෙු වශයෙන් මෙන්ම  ක්‍රීඩිකාවක් ලෙස ජයග්‍රහණ කිහිපයක්ම අත්කරගත්තා. නමුත් කණ්ඩායම් නායිකාව ලෙස මට තවත් දේ කරන්න තියෙනවා. මේ ලෝක කුසලානයේ අවසන් පූර්ව වටයට සුදුසුකම් ලැබීම තමයි සමුගැනීමට පෙර මගේ ඉලක්කය."
+
+◼️
+
+[Data](articles/bef5c308.json)
+
+---
 
 ### Dudge that the loved ones went to the home of the soothing of the loved ones
 
@@ -2237,53 +2273,5 @@ ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for M
 [Data](articles/96bec2da.json)
 
 [Extended Data](ext_articles/96bec2da.ext.json)
-
----
-
-### Israeli missiles hit site in Iran, explosions heard in Isfahan: Report
-
-*2024-04-19 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Israeli-missiles-hit-site-in-Iran-explosions-heard-in-Isfahan-Report/107-280957) · `en`
-
-(Aljazeera) - Israeli missiles have hit a site in Iran, according to the US broadcaster ABC News, which cited an unnamed senior US official.
-
-The Iranian state television reported explosions in Isfahan, as air defences were activated and flights across several areas including Tehran and Isfahan were suspended.
-
-There were no reports of casualties. Nor was there an official response from Iran.
-
-Israel promised to respond after Iran last Saturday launched a barrage of drones and missiles on the country, after a suspected Israeli strike on Iran’s consulate compound in Damascus killed a high-ranking commander.
-
-There have also been reports of explosions in Syria and Iraq.
-
-The United States and a number of European countries had been calling on Israel not to respond to the Iranian attack.
-
-...
-
-[Data](articles/1042e2a0.json)
-
-[Extended Data](ext_articles/1042e2a0.ext.json)
-
----
-
-### Israeli missiles hit site in Iran, explosions heard in Isfahan: Report
-
-*2024-04-19 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israeli-missiles-hit-site-in-Iran-explosions-heard-in-Isfahan-Report/108-280957) · `en`
-
-(Aljazeera) - Israeli missiles have hit a site in Iran, according to the US broadcaster ABC News, which cited an unnamed senior US official.
-
-The Iranian state television reported explosions in Isfahan, as air defences were activated and flights across several areas including Tehran and Isfahan were suspended.
-
-There were no reports of casualties. Nor was there an official response from Iran.
-
-Israel promised to respond after Iran last Saturday launched a barrage of drones and missiles on the country, after a suspected Israeli strike on Iran’s consulate compound in Damascus killed a high-ranking commander.
-
-There have also been reports of explosions in Syria and Iraq.
-
-The United States and a number of European countries had been calling on Israel not to respond to the Iranian attack.
-
-...
-
-[Data](articles/d14acbe2.json)
-
-[Extended Data](ext_articles/d14acbe2.ext.json)
 
 ---

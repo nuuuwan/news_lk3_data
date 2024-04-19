@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 21:53:15**
+As of **2024-04-19 22:05:31**
 
 ## Newspaper Stats
 
-*Scraped **19,804** Articles*
+*Scraped **19,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,114 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,374
+adaderanalk | 2,375
 virakesarilk | 2,970
-dailymirrorlk | 3,072
-adaderanasinhalalk | 3,216
+dailymirrorlk | 3,074
+adaderanasinhalalk | 3,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,802 (100.0%) of 19,804 articles have been extended.
+19,804 (100.0%) of 19,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
+### නව විදුලිබල පනත් කෙටුම්පත ගැන ආන්දෝලනාත්මක ප්‍රකාශයක්
+
+*2024-04-19 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195794) · `si`
+
+නව විදුලිබල පනත් කෙටුම්පතින් පාරිභෝගික ආරක්ෂණයට සහ ජල විදුලි බලාගාර පිළිබ﻿ඳ රජයට ඇති අයිතියට කිසිදු හානියක් නොවන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අවධාරණය කරයි.
+
+නව කෙටුම්පතට එල්ලවන චෝදනාවලට ප්‍රතිචාර දක්වමින් අමාත්‍යවරයා අද (19) පැවසුවේ එම පනතින් ගැටලු ඇතිවන්නේ විදුලිබල වෘත්තිය සමිති නායකයින්ට බවය.
+
+මෙරට විදුලිබල ක්ෂේත්‍රයේ යෝජිත ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමට විධි විධාන සලසන විදුලි පනත් කෙටුම්පත ගැසට් නිවේදනයක් මඟින් අප්‍රේල් 17 වැනිදා ප්‍රකාශයට පත් කෙරුණි.
+
+මෙම නව පනත් කෙටුම්පත සම්බන්ධයෙන් විදුලි වෘත්තීය සමිති ඇතුළු පාර්ශ්ව රැසකින් විවිධ චෝදනා එල්ලවුණි.
+
+එල්ල වන මෙම චෝදනාවලට විෂයභාර අමාත්‍ය කංචන විජේසේකර මහතා අද ප්‍රතිචාර දැක්විය.
+
+...
+
+[Data](articles/1a637b75.json)
+
+---
+
+### Volkswagen Club celebrates 21st ’Pride of Ownership’ drive
+
+*2024-04-19 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Volkswagen-Club-celebrates-21st-Pride-of-Ownership-drive/108-281014) · `en`
+
+Colombo, April 19 (Daily Mirror) - The Volkswagen (VW) Beetle Owners’ Club has arranged to hold the annual 'Pride of Ownership' drive after a break of five years, on April 28.
+
+It is with great pleasure that the club notes the traditional partners of the 'Pride of Ownership' drive who have come together, namely the Hilton Colombo and the Browns Hotel Management Services, along with the LOLC Group of Companies, who have so graciously supported the event to bring back the past glory of “Pride” and the traditional “Start” from The Hilton Colombo.
+
+Members and their guests will be welcome to the Sports Centre of the Hilton to be greeted with the usual fanfare, and the drive will proceed along Galle Road to the luxurious Thaala Resort situated in Bentota.
+
+...
+
+[Data](articles/b804e72a.json)
+
+---
+
 ### Four including naval personnel nabbed with ‘Ice’ worth Rs. 7.5mn
 
 *2024-04-19 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98732/four-including-naval-personnel-nabbed-with-ice-worth-rs-75mn) · `en`
 
-Four individuals, including naval personnel, have been arrested while in possession of crystal methamphetamine (‘Ice’).
+Four individuals, including naval officers, have been arrested while in possession of crystal methamphetamine (‘Ice’).
 
 The officers of Mulleriyawa Police made the arrest on Friday (19).
 
 Accordingly, 510 grams of ‘Ice’, estimated to be worth Rs. 7.5 million, was found on the suspects at the time of the arrest.
 
-Among the arrested individuals are 2 Lieutenant Commanders of the Sri Lanka Navy.
+Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
 
 ◼️
 
 [Data](articles/40571644.json)
 
+[Extended Data](ext_articles/40571644.ext.json)
+
 ---
 
-### අයිස් සමග නාවික හමුදා ලොක්කෝ දෙදෙනෙකුත් මාට්ටු
+### Two Navy bosses arrested with ice
 
 *2024-04-19 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195793) · `si`
 
-රුපියල් මිලියන 7.5ක පමණ වටිනාකමින් යුත් අයිස් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයින් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Two Navy officers and four others were arrested in Mulleriyawa with ice drugs valued at 7.5 million rupees.
 
-පොලීසිය සඳහන් කළේ, අත්අඩංගුවට පත්වූ අය අතර ශ්‍රී ලංකා නාවික හමුදාවේ ලුතිනන් කමාන්ඩර්වරු දෙදෙනෙකු ද සිටින බවය.
+🟩
 
-එම පිරිස මුල්ලේරියාව ප්‍රදේශයේ දී පොලිස් අත්අඩංගුවට පත්ව ඇත්තේ, ග්‍රෑම් 510ක් වූ අයිස් මත්ද්‍රව්‍ය තොගයක් ද සමඟින්ය.
+Four persons arrested with ice drugs worth about 7.5 million rupees.
+
+Police said that among the arrested persons were two Lieutenant Commander of the Sri Lanka Navy.
+
+They were arrested in the Mulleriyawa area in Mulleriyawa and with a stock of ice drugs.
 
 ◼️
 
 [Data](articles/c0fc2e43.json)
+
+[Extended Data](ext_articles/c0fc2e43.ext.json)
+
+---
+
+### Declared general amnesty not applicable for commissioned tri-forces officers marked AWOL
+
+*2024-04-19 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98731/declared-general-amnesty-not-applicable-for-commissioned-tri-forces-officers-marked-awol) · `en`
+
+The general amnesty period announced from 20 April to 20 May for members of the tri-forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL, the Ministry of Defence clarified.
+
+In a press release published today (19), the ministry said the one-month general amnesty is valid only for the tri-forces personnel of Other Ranks, who have not reported for duty without leave on or before 31 December 2023.
+
+During the said period, those who report will be legally discharged from their respective services.
+
+However, the personnel mentioned below have been excluded from the general amnesty, taking into account the expenses incurred for the special training provided using public funds in the following sectors and the difficulties encountered in maintaining the operations in those sectors by their discharge.
+
+...
+
+[Data](articles/7bad5f44.json)
 
 ---
 
@@ -283,6 +345,18 @@ State Minister Piyal Nishantha, United National Party (UNP) parliamentarian Vaji
 [Data](articles/58308e5c.json)
 
 [Extended Data](ext_articles/58308e5c.ext.json)
+
+---
+
+### Final rites for Thevarapperuma
+
+*2024-04-19 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Final-rites-for-Thevarapperuma/110-281007) · `en`
+
+The final rites of the late former Deputy Minister Palitha Thevarapperuma were held this evening at Yatadolawatte, Mathugama, with the participation of politicians, religious leaders and the public. Thevarapperuma was buried at the burial site, which he had prepared while he was still alive in Yatadolawatte. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/2b9402c9.json)
 
 ---
 
@@ -2181,107 +2255,5 @@ Israel's retaliation on Iran has raised questions whether it would spit the Thir
 [Data](articles/475343cc.json)
 
 [Extended Data](ext_articles/475343cc.ext.json)
-
----
-
-### Election Commission answers to SLFP crisis
-
-*2024-04-19 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195774) · `si`
-
-The Elections Commission of Sri Lanka has no legal power to resolve internal issues within the Sri Lanka Freedom Party (SLFP). Nimal Siripala de Silva was appointed as the new acting chairman of the party, but the Elections Commission has no legal authority over the party's internal matters. The commission can only accept judgments or recommendations from the judiciary.
-
-🟩
-
-The Elections Commission points out that there is no legal power to solve the internal problems within the Sri Lanka Freedom Party.
-
-It was reported that the members of the UNP had discussed the judgments and documents yesterday (18).
-
-Nimal Siripala de Silva was appointed as the new acting chairman of the party under the patronage of party vice president Nimal Siripala de Silva on the 8th.
-
-After handing over the appointments and documents, Duminda Dissanayake handed over to the Elections Commission and filed the commission against the appointment of new appointments.
-
-Accordingly, the Elections Commission to meet yesterday had focused on matters of the SLFP parties.
-
-Since the election Commission has no legal authority in the Normal Legal Corporation and the Elections Commission has no legal issue in the Freedom Party, the UNP activists should be resolved through the courts by the party activists.
-
-...
-
-[Data](articles/4847598f.json)
-
-[Extended Data](ext_articles/4847598f.ext.json)
-
----
-
-### The number of boys falls in children's homes!
-
-*2024-04-19 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181420) · `ta`
-
-The Department of Probation and Care Services reports 9,147 children in 354 homes, a decrease from previous years. They emphasize the importance of family care and efforts to secure safe guardians for children.
-
-🟩
-
-The Department of Probation and Care Services said that 9,147 children are currently found in 354 children's care homes across the country.
-
-The number of children in children's homes has declined compared to the past years, the department said.
-
-Under alternative safety, the Department of Probation and Child Protection Services said that it is necessary for the children to grow under a family and grow under a family.
-
-In addition, the department has stated that the authorities are working to grow children under the family of a safe and appropriate guardian for children.
-
-◼️
-
-[Data](articles/388466e5.json)
-
-[Extended Data](ext_articles/388466e5.ext.json)
-
----
-
-### Inhabitants of the Mahaweli C region of the kidney disease that has not been identified
-
-*2024-04-19 08:50:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qv40wr51vo) · `si`
-
-The Mahaweli C region has unidentified kidney disease cases, first reported in Rajarata in 1994. Dr. Sithumi Herath highlights unrecognized cases in the initial stage. Patients in Ampara, identified from Dehiattakandiya, face financial strain. Families, especially children, suffer due to the disease.
-
-🟩
-
-It contains nothing in this program, a kidney patient who did not recognize the source was first reported in the Rajarata area in 1994.
-
-Inhabitants of the Mahaweli C region of the kidney disease that has not been identified
-
-Dr. Sithumi Herath, Dr. Sithumi Herath, says that the emergence of the cases of the chickens that are not recognized in the initial stage.
-
-The kidney patients who have not identified the financial in Ampara have been identified from Dehiattakandiya.
-
-In particular, the family of family and children fall into the disease, especially due to the disease, and their children face their problems.
-
-◼️
-
-[Data](articles/2db34d77.json)
-
-[Extended Data](ext_articles/2db34d77.ext.json)
-
----
-
-### A position if supporting the animation
-
-*2024-04-19 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195773) · `si`
-
-Sajith Premadasa supports animation, while Ranil Wickremesinghe could be considered for it. UNP MP Ashok Abeysinghe mentioned that a UNP member wouldn't join the UNP, and he held a press conference in Kurunegala.
-
-🟩
-
-Sajith Premadasa is given to Sajith Premadasa, Ranil Wickremesinghe could be considered by Ranil Wickremesinghe.
-
-UNP MP Ashok Abeysinghe said this.
-
-He further stated that a member of the United People's Force does not join the UNP.
-
-MP Ashok Abeysinghe expressed his views to hold a press conference in Kurunegala.
-
-◼️
-
-[Data](articles/567d496e.json)
-
-[Extended Data](ext_articles/567d496e.ext.json)
 
 ---

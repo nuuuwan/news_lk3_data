@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 17:34:40**
+As of **2024-04-19 17:54:35**
 
 ## Newspaper Stats
 
-*Scraped **19,784** Articles*
+*Scraped **19,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,370
 virakesarilk | 2,966
-dailymirrorlk | 3,066
+dailymirrorlk | 3,067
 adaderanasinhalalk | 3,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,780 (100.0%) of 19,784 articles have been extended.
+19,784 (100.0%) of 19,785 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ A stakeholder meeting, hosted by the Alliance for Aquatic Research and Conservat
 ◼️
 
 [Data](articles/193570c4.json)
+
+[Extended Data](ext_articles/193570c4.ext.json)
 
 ---
 
@@ -81,6 +83,8 @@ They believe the family was attacked with a knife or “other edged weapon.”
 ...
 
 [Data](articles/f5afd34f.json)
+
+[Extended Data](ext_articles/f5afd34f.ext.json)
 
 ---
 
@@ -277,6 +281,24 @@ On April 8, during a politburo meeting chaired by former President Chandrika Ban
 [Data](articles/820873d6.json)
 
 [Extended Data](ext_articles/820873d6.ext.json)
+
+---
+
+### Election Commission to accept SLFP nominations despite disputes
+
+*2024-04-19 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-to-accept-SLFP-nominations-despite-disputes/155-281000) · `en`
+
+Colombo, April 19 - Notwithstanding the internal friction within the Sri Lanka Freedom Party (SLFP) resulting in changes in party's leadership positions, the Election Commission clarified its role in accepting nominations for SLFP candidates in the event that internal conflicts persist beyond the declaration of elections.
+
+However, the Commission asserted that it has no legal authority to mediate in the internal conflicts within the SLFP.
+
+This was taken into account when the Commission members met yesterday (18) to scrutinize documents submitted by certain members of the SLFP pertaining to recent shifts in party leadership positions.
+
+On April 8, during a politburo meeting chaired by former President Chandrika Bandaranaike Kumaratunga, incumbent Vice Chairman MP Nimal Siripala de Silva was appointed Acting President, while MP Duminda Dissanayake was named General Secretary.
+
+...
+
+[Data](articles/e6a1285e.json)
 
 ---
 
@@ -687,6 +709,8 @@ Meanwhile, Emirates said it is suspending check-in for all customers in its netw
 ◼️
 
 [Data](articles/91ea6853.json)
+
+[Extended Data](ext_articles/91ea6853.ext.json)
 
 ---
 
@@ -2263,23 +2287,5 @@ On information from police, a team of telecom officials and employees arrived an
 [Data](articles/b9a75526.json)
 
 [Extended Data](ext_articles/b9a75526.ext.json)
-
----
-
-### Eastern Province youth entrepreneurs empowered through ‘Revamp Sri Lanka Youth Start-Up Challenge 1.0’
-
-*2024-04-19 06:00:05* · [`dailyftlk`](https://www.ft.lk/business/Eastern-Province-youth-entrepreneurs-empowered-through-Revamp-Sri-Lanka-Youth-Start-Up-Challenge-1-0/34-760789) · `en`
-
-The ‘Revamp Sri Lanka Youth Start-Up Challenge 1.0’, an initiative spearheaded by the Lanka Impact Investing Network (LIIN) in collaboration with the International College of Business and Technology (ICBT Campus), was held successfully on 4 April at the ICBT Campus in Batticaloa.
-
-The event showcased the entrepreneurial prowess of young minds in the Eastern Province, providing them with a platform to nurture and develop their innovative start-up ideas and entrepreneurial journey.
-
-The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young talents by bridging the gap between innovative ideas and practical implementation. Through mentorship, networking opportunities, and access to industry leaders and investors, the event aimed to catalyse the growth of promising start-ups in Sri Lanka, particularly in the Eastern Province.
-
-...
-
-[Data](articles/2980b703.json)
-
-[Extended Data](ext_articles/2980b703.ext.json)
 
 ---

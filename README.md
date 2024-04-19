@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 09:18:15**
+As of **2024-04-19 09:33:59**
 
 ## Newspaper Stats
 
-*Scraped **19,695** Articles*
+*Scraped **19,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 1,643
 tamilmirrorlk | 2,281
 adaderanalk | 2,357
 virakesarilk | 2,947
-dailymirrorlk | 3,048
+dailymirrorlk | 3,050
 adaderanasinhalalk | 3,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,692 (100.0%) of 19,695 articles have been extended.
+19,695 (100.0%) of 19,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### சிறுவர் இல்லங்களில் சிறுவர்களின் எண்ணிக்கையில் வீழ்ச்சி!
+### The number of boys falls in children's homes!
 
 *2024-04-19 09:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181420) · `ta`
 
-நாடளாவிய ரீதியில் உள்ள 354  சிறுவர் பராமரிப்பு இல்லங்களில் தற்போது 9,147 சிறுவர்கள்  காணப்படுவதாக நன்னடத்தை மற்றும் பராமரிப்பு சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Probation and Care Services reports 9,147 children in 354 homes, a decrease from previous years. They emphasize the importance of family care and efforts to secure safe guardians for children.
 
-கடந்த  ஆண்டுகளுடன் ஒப்பிடுகையில் தற்போது  சிறுவர் இல்லங்களிலுள்ள சிறுவர்களின் எண்ணிக்கை குறைவடைந்துள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மாற்றீடான பாதுகாப்பின் கீழ், சிறுவர்கள் சிறுவர்  இல்லத்தில் சேர்க்கப்படுவதுடன், சிறுவர்கள் குடும்பமொன்றின் கீழ் வளர்வது  அவசியமானது என நன்னடத்தை மற்றும் சிறுவர் பாதுகாப்பு சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Probation and Care Services said that 9,147 children are currently found in 354 children's care homes across the country.
 
-அத்தோடு, சிறுவர்களுக்கு பாதுகாப்பான மற்றும் பொருத்தமான பாதுகாவலரின் குடும்பத்தின் கீழ் சிறுவர்கள் வளர வேண்டும் என்பதற்காக அதிகாரிகள் பணியாற்றுவதாகவும் திணைக்களம் குறிப்பிட்டுள்ளது..
+The number of children in children's homes has declined compared to the past years, the department said.
+
+Under alternative safety, the Department of Probation and Child Protection Services said that it is necessary for the children to grow under a family and grow under a family.
+
+In addition, the department has stated that the authorities are working to grow children under the family of a safe and appropriate guardian for children.
 
 ◼️
 
 [Data](articles/388466e5.json)
+
+[Extended Data](ext_articles/388466e5.ext.json)
 
 ---
 
@@ -71,6 +77,24 @@ MP Ashok Abeysinghe expressed his views to hold a press conference in Kurunegala
 [Data](articles/567d496e.json)
 
 [Extended Data](ext_articles/567d496e.ext.json)
+
+---
+
+### Final rites of Palitha Thevarapperuma at 2 p.m. in his own grave yard
+
+*2024-04-19 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Palitha-Thevarapperuma-at-2-p-m-in-his-own-grave-yard/108-280959) · `en`
+
+Colombo, April 19 (Daily Mirror) - The final rites of the late former Deputy Minister Palitha Thevarapperuma are scheduled to be performed today (19) in the grave prepared by him, family sources said.
+
+Accordingly, the burial ceremony will be held at 2 p.m. at the burial site in the Yatadolawatta area of Mathugama, which he prepared while he was alive.
+
+The body of the late former Deputy Minister was brought to his home on Wednesday (17) night, where a large crowd arrived to pay their last respects.
+
+He died from electrocution when he was attempting to connect two electrical wires at his home and died after being admitted to the Nagoda Hospital on April 16.
+
+◼️
+
+[Data](articles/27b83eb5.json)
 
 ---
 
@@ -109,6 +133,28 @@ ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for M
 [Data](articles/067b1e67.json)
 
 [Extended Data](ext_articles/067b1e67.ext.json)
+
+---
+
+### Israeli missiles hit site in Iran, explosions heard in Isfahan: Report
+
+*2024-04-19 08:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Israeli-missiles-hit-site-in-Iran-explosions-heard-in-Isfahan-Report/107-280957) · `en`
+
+(Aljazeera) - Israeli missiles have hit a site in Iran, according to the US broadcaster ABC News, which cited an unnamed senior US official.
+
+The Iranian state television reported explosions in Isfahan, as air defences were activated and flights across several areas including Tehran and Isfahan were suspended.
+
+There were no reports of casualties. Nor was there an official response from Iran.
+
+Israel promised to respond after Iran last Saturday launched a barrage of drones and missiles on the country, after a suspected Israeli strike on Iran’s consulate compound in Damascus killed a high-ranking commander.
+
+There have also been reports of explosions in Syria and Iraq.
+
+The United States and a number of European countries had been calling on Israel not to respond to the Iranian attack.
+
+...
+
+[Data](articles/1042e2a0.json)
 
 ---
 
@@ -1412,21 +1458,31 @@ One of the arrested cops, SI Amila Lasantha Kumara (56) has allegedly had contac
 
 ---
 
-### තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව ගොඩනඟනවා
+### Sri Lanka is building the youth of youth
 
 *2024-04-18 20:08:36* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-තරුණියන්-අපේක්ෂා-කරන-ශ්‍රී-ලංකාව-ගොඩනඟනවා/11-409160) · `si`
 
-මෙරට තරුණ තරුණියන් අපේක්ෂා කරන ශ්‍රී ලංකාව නිර්මාණය කළ හැකි බවට දැඩි විශ්වාසයක් තමා තුළ පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe confidently believes Sri Lanka can nurture its youth, ensuring economic stability and development. He met with young representatives in Nuwara Eliya, discussing the UNP's and National Front's initiatives, including youth empowerment programs.
 
-බොහෝ දෙනා අසීරු බව පැවසූ බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය යළි ගොඩනැඟීමේ අභියෝගය භාරගත් තමා වසර දෙකක් තුළදි රටේ ආර්ථිකය ස්ථාවර මට්ටමකට ගෙන ආ බව පෙන්වා දුන් ජනාධිපතිවරයා රට ඉදිරියට ගෙන යාමට අවශ්‍යව ඇත්තේ සාමුහිකත්වය පමණක් බවද කියා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නුවරඑළිය දිස්ත්‍රික්කයේ යොවුන් පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ තරුණ දේශපාලන නියෝජිතයන් සමඟ අද (18) නුවරඑළිය ජනාධිපති මන්දිරයේ පැවති හමුවේදීය.
+President Ranil Wickremesinghe said that he was confident that Sri Lanka could create Sri Lanka's youth.
 
-නුවරඑළිය, හඟුරන්කෙත, මස්කෙළිය, කොත්මලේ සහ වලපනේ ආසන නියෝජනය කරමින් යොවුන් පාර්ලිමේන්තු මන්ත්‍රීවරු සහ එක්සත් ජාතික පක්ෂය, සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය ඇතුළු පක්ෂ කිහිපයක තරුණ දේශපලන නියෝජිතයන් පිරිසක් මෙම අවස්ථාවට එක්ව සිටි අතර නුවරඑළිය දිස්ත්‍රික් සංවර්ධන කටයුතු ඇතුළු කරුණු කිහිපයක් පිළිබඳව මෙහිදී පුළුල් ලෙස සාකච්ඡාවට ලක් කෙරිණි.
+The President has said that he has given the country's economy into a stable level, the President has said that he has given the country's economy into a stable.
+
+President Ranil Wickremesinghe was speaking at the meeting with Young Members of the Nuwara Eliya district and young political representatives in Nuwara Eliya District.
+
+A group of youth parliamentarians and the United National Party, the UNP, the UNP, and the United National Party (UNP) and the National Front (UNP), including the Selection of Nuwara Eliya, Hanguranketha, Kothmale and Walapane.Was discussed.
+
+The President also pointed out that the government is carrying out the government's program to develop the Nuwara Eliya district as a high tourist attraction area.
+
+The President said that everyone should consult the country to develop the country, attracting the country's country.
 
 ...
 
 [Data](articles/b92c81ad.json)
+
+[Extended Data](ext_articles/b92c81ad.ext.json)
 
 ---
 
@@ -1536,21 +1592,27 @@ The Cabinet of Ministers, the incumbent and former higher officials in the healt
 
 ---
 
-### රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීම කඩිනමින්
+### Restructuring of State Enterprise
 
 *2024-04-18 19:08:12* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසාය-ප්‍රතිව්‍යුහගත-කිරීම-කඩිනමින්/11-409155) · `si`
 
-රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු කඩිනමින් සිදු කෙරෙන බව ආර්ථික ස්ථායීකරණ සහ ප්‍රතිපත්ති අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Economic Stability and Policy is accelerating the restructuring of state enterprises, with investors selected for each institution. Litro PLC, Sri Lanka organizations, and insurance agencies like Union Assurance and Life Insurance Corporation have expressed interest. Sri Lanka Telecom is also seeking investors in India, Hong Kong, and France, with Jio Pottfoam and Gunkoon International Investment Holdings Limited on the final list.
 
-මේ වන විට එක් එක් ආයතනයට අදාළව  ආයෝජකයන්ගේ අභිලාෂ ඉදිරිපත් කර ඇත. එලෙස ඉදිරිපත් කරන ලද අභිලාෂ අතරින් තෝරාගත් ආයෝජකයන්ගේ අවසන් ලැයිස්තුව ද සකස් කර තිබේ.
+🟩
 
-එහිදී ලිට්‍රෝ සමාගම සඳහා ලාෆ්ස් ගෑස් සමාගම ද අභිලාෂ ඉදිරිපත් කර ඇත. එමෙන්ම ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක චයිනා නැෂනල් එරො ටෙක්නෝ, ඉන්ෆිනිටි එන්ජීසී හා කන්සල්ටින් ඉන්ජිනියර්ස් ඇන්ඩ් කන්ට්‍රැක්ටර්ස් යන ශ්‍රී ලංකාවේ ආයතන ද අභිලාෂ ඉදිරිපත් කර ඇත.සිංගප්පූරුව, ඉන්දියාව, තායිලන්තය, තුර්කිය, අරාබිය, මැලේසියාව යන රටවල ආයතන සිය අභිලාෂ ඉදිරිපත් කර ඇත. නමුත් එම ආයතනය සඳහා මෙතෙක් අවසන් ලැයිස්තුව සකස් කර නොමැත.
+The Ministry of Economic Stability and Policy states that the restructuring work of state enterprises is expedited soon.
 
-ශ්‍රී ලංකා රක්ෂණ සංස්ථාව (ජීවිත රක්ෂණ) සඳහා අභිලාෂ ඉදිරිපත් කර ඇති සියලු ආයතන මෙරට තුළ ක්‍රියාත්මක රක්ෂණ ආයතන වේ. ඒ අනුව යූනියන් ඇෂුරන්ස්, ලයිෆ් ඉන්ෂුවරන්ස් කෝපරේෂන්, සොෆ්ට්ලොජික් ලයිෆ් ඉන්ෂුවරන්ස් යන ආයතන අභිලාෂ ඉදිරිපත් කර ඇත.
+The investors have been presented in relation to each institution. The final list of selected investors have also been prepared among the ambitions.
+
+Litro PLC has also presented ambition to Litro Company. Sri Lanka organizations in Sri Lanka and Sri Lanka National Ero Techno, Infinity NGC and Contoctorners and Contentenes have presented their aspirations in the country, India, Thailand, Arabia and Malaysia. However, the last list has not been prepared for the company.
+
+The Insurance Corporation (Life Insurance) for the Sri Lanka Insurance Corporation (Life Insurance) are insurance agencies in Sri Lanka. Accordingly, Union Assurance, Life Insurance Corporation, Softlogic Life Insurance has been presented aspirations.
 
 ...
 
 [Data](articles/86eca64f.json)
+
+[Extended Data](ext_articles/86eca64f.ext.json)
 
 ---
 
@@ -2155,47 +2217,5 @@ The Ridigama Police are conducting further investigations.
 [Data](articles/038c43ac.json)
 
 [Extended Data](ext_articles/038c43ac.ext.json)
-
----
-
-### Patients at Trincomalee Hospital
-
-*2024-04-18 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181395) · `ta`
-
-Trincomalee Hospital faces patient shortage, with only 3 of 12 patient kavu vehicles operational. Delays in patient transportation and concerns over improper administration and maintenance have led to public concern.
-
-🟩
-
-Patients are facing great difficulties due to shortage of patients at the Trincomalee Hospital.
-
-There are 12 patient kavu vehicles for the use of the Trincomalee District General Hospital, but only 3 vehicles are currently working in the service.. They report that there are delays in transporting patients to other hospitals for further treatment, causing patients to face a variety of difficulties.
-
-With only one vehicle in the last few months, only 3 vehicles have been working for patients. Two vehicles are unable to use in the vehicles and the other 7 vehicles have long been working in the workplaces and hospital premises for correction.
-
-The public is concerned that such incidents are taking place due to the improper administration and maintenance of the hospital, the cost of amendment of several lakhs of rupees is being re -transported to corrections within a few days, and that even the drug carrying the drug is not present in the hospital.
-
-◼️
-
-[Data](articles/19d852e9.json)
-
-[Extended Data](ext_articles/19d852e9.ext.json)
-
----
-
-### Today in History
-
-*2024-04-18 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181393) · `ta`
-
-"Today in History: Selvanayagam, opposition leader."
-
-🟩
-
-Selvanayagam Answer: Opposition Leader
-
-◼️
-
-[Data](articles/e2182152.json)
-
-[Extended Data](ext_articles/e2182152.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 11:33:57**
+As of **2024-04-19 11:53:13**
 
 ## Newspaper Stats
 
-*Scraped **19,720** Articles*
+*Scraped **19,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,61 +14,111 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,123
-adalk | 1,645
-tamilmirrorlk | 2,284
+economynextcom | 1,127
+adalk | 1,646
+tamilmirrorlk | 2,285
 adaderanalk | 2,361
 virakesarilk | 2,952
-dailymirrorlk | 3,053
+dailymirrorlk | 3,054
 adaderanasinhalalk | 3,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,718 (100.0%) of 19,720 articles have been extended.
+19,720 (100.0%) of 19,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
+### வடையை ரூ.800க்கு விற்றவர் கைது!
+
+*2024-04-19 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடையை-ரூ-800க்கு-விற்றவர்-கைது/175-336087) · `ta`
+
+வெளிநாட்டு சுற்றுலாப் பயணி ஒருவருக்கு, உளுந்து வடை மற்றும் தேநீரை 800 ரூபாய்க்கு விற்பனை செய்த நபர் கைதுசெய்யப்பட்டுள்ளார்.
+
+குறித்த சந்தேகநபரை, களுத்துறை நீதவான் நீதிமன்றில்  இன்று (19) முன்னிலைப்படுத்தப்படவுள்ளதாக களுத்துறை பொலிஸார் தெரிவித்தனர்.
+
+மேற்படி வெளிநாட்டு சுற்றூலாப் பயணிக்கு சந்தேகநபர், உளுந்து வடை மற்றும் தேநீரை 1,000 ரூபாவிற்கு விற்பனை செய்ய முற்பட்டிருந்தார்.
+
+அது தொடர்பில் சுற்றுலாப் பயணி கேள்வி எழுப்பியிருந்த நிலையில் அவரிடம் சந்தேகநபர் 800 ரூபாயை பெற்றுக்கொண்டுள்ளார்.
+
+இதனையடுத்து,  அதிகூடிய விலைக்கு வடையை விற்பனை செய்தவர் நேற்று கைது செய்யப்பட்டுள்ளதுடன், அவர் களுத்துறை பகுதியைச் சேர்ந்த ஓட்டோ சாரதி என நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+பொருள் விலை காட்சிப்படுத்தப்படாமை, பற்றுச்சீட்டு வழங்கப்படாமை மற்றும் நுகர்வோரை ஏமாற்றியமை போன்ற குற்றச்சாட்டுக்களின் கீழ் அவருக்கு எதிராக நுகர்வோர் விவகார அதிகார சபையானால் வழக்கு தொடரப்பட்டுள்ளது.
+
+...
+
+[Data](articles/da62e304.json)
+
+---
+
+### Canadian support for women entrepreneurs in Sri Lanka’s north
+
+*2024-04-19 11:30:00* · [`economynextcom`](https://economynext.com/canadian-support-for-women-entrepreneurs-in-sri-lankas-north-159248/) · `en`
+
+ECONOMYNEXT – Inclusive growth cannot be achieved without the full participation of women, Linda Ehrichs, Charge’ d’ Affaires of the High Commission of Canada has said.
+
+“Inclusive growth and lasting change cannot be achieved without the full and equal participation of women as economic actors in the entrepreneurial ecosystem,” Ehrichs said at the World University Service of Canada (WUSC) GRIT event.
+
+The GRIT (Growth, Resilience, Investment and Training) program aims to nurture a gender responsive entrepreneurial ecosystem in the North of Sri Lanka over a six-year period.
+
+“Building on the long-standing relationship between Canada and Sri Lanka, Canada’s support for the GRIT project continues to advance empowerment of women towards economic growth that works for everyone.”
+
+WUSC held its first entrepreneurial ecosystem convening and knowledge sharing events on the 27th of February 2024 in Colombo and 14th of March in Jaffna.
+
+...
+
+[Data](articles/a4a4a805.json)
+
+---
+
 ### Election body says it cannot intervene to resolve SLFP’s infighting
 
 *2024-04-19 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98718/election-body-says-it-cannot-intervene-to-resolve-slfps-infighting) · `en`
 
-The Election Commission says it has no legal authorization to resolve the internal rifts of the Sri Lanka Freedom Party (SLFP).
+The Election Commission says it has no legal authorization to intervene to resolve the internal rifts of the Sri Lanka Freedom Party (SLFP).
 
-Members of the election body convened a meeting on Thursday (18) to study the documents submitted by the factions within the SLFP with regard to the recent changes made to the party positions and the certain decisions.
+Members of the election body convened a meeting on Thursday (18) to study the documents submitted by the factions within the SLFP with regard to the recent changes made to the party positions.
 
-When the SLFP’s politburo met on 08 April, the party’s Vice Chairman MP Nimal Siripala de Silva was appointed the new Acting President, and MP Duminda Dissanayake was selected as the General Secretary.
+When the SLFP’s politburo met on 08 April under the patronage of former President Chandrika Bandaranaike Kumaratunga, the party’s incumbent Vice Chairman MP Nimal Siripala de Silva was appointed the new Acting President, and MP Duminda Dissanayake was selected as the General Secretary.
 
-The documents pertaining to these new appointments were handed over to the Election Commission by MP Dissanayake while the party’s Acting General Secretary Sarathi Dushmantha Mithrapala filed objections challenging them.
+These appointments came days after the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLPF chairman, following a complaint filed by Kumaratunga. This court order was later extended until 09 May.
 
 ...
 
 [Data](articles/992977f0.json)
 
+[Extended Data](ext_articles/992977f0.ext.json)
+
 ---
 
-### ස්ථාන දෙකකදී ඝාතන දෙකක්
+### Two murders in two places
 
 *2024-04-19 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195779) · `si`
 
-කුලී නිවසක පදිංචිව සිටි පුද්ගලයෙකුව ඊයේ (18) රාත්‍රියේ ඝාතනය කර තිබේ.
+Two murders: a 71-year-old man in Kaduwanawela and a 67-year-old fisherman in Aralaganwila, both linked to a 47-year-old suspect.
 
-ඇඹිලිපිටිය මඩුවන්වෙල ජනපද ප්‍රදේශයේ කුලී නිවසක පදිංචිව සිටි 71 හැවිරිදි පුද්ගලයෙකු මෙලෙස ඝාතනය කර ඇත.
+🟩
 
-එම පුද්ගලයා අදාළ කුලී නිවසේ තනිව පදිංචිව සිටිමින් කොහු නිෂ්පාදනය කිරීමේ ව්‍යාපාරයක් පවත්වාගෙන ගොස් ඇති අතර තියුණු ආයුධයකින් පහරදී ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+A resident of a rented house has been murdered yesterday (18).
 
-මේ අතර ඊයේ (18) උදෑසන අරලගංවිල පිඹුරත්තෑව වැවේ මුල්ගල තොටුපලේ පාවෙමින් තිබූ පුද්ගල මළසිරුරක් සොයාගෙන ඇත.
+A 71-year-old man who was resident of a rented house in the Kaduwanawela colony in the Embilipitiyawela area.
 
-මරණකරු පසුගිය 17 වනදා පිඹුරත්තෑව වැවට ධීවර කටයුතු සඳහා ගොස් ඇති අතර එහිදී තවත් පුද්ගලයෙකු සහ ඔහුගේ බිරිඳ සමග මත්පැන් පානය කර ඇති බවත් එම අවස්ථාවේදී ඇතිවූ පුද්ගලික ආරවුලක් දුරදිග යෑමෙන් ඔවුන් විසින් හබලකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවටත් අනාවරණයවී ඇතැයි පොලීසිය පවසයි.
+The man has been living alone in the rental home and operated the business of coir and murdered with a sharp object.
 
-ඝාතනය සම්බන්ධයෙන් 67 හැවිරිදි සැකකරු සහ 47 හැවිරිදි සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+Meanwhile, a dead body was found at Aralaganwila tank yesterday morning (18).
+
+The victim has gone to fisherman on the 17th and have been drinking with another person and his wife, police said.
+
+The 67-year-old suspect and 47 year old suspect have been arrested in connection with the murder.
 
 ◼️
 
 [Data](articles/2d52094e.json)
+
+[Extended Data](ext_articles/2d52094e.ext.json)
 
 ---
 
@@ -186,6 +236,24 @@ Steps will be taken to cancel the train from the Padukkottai station to Colombo 
 
 ---
 
+### Sri Lanka rupee quoted wide to US dollar as peg inconsistencies flare up
+
+*2024-04-19 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-quoted-wide-to-us-dollar-as-peg-inconsistencies-flare-up-159244/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened wide at 301.50/302.50 to the US dollar Friday, as was quoted even wider at 301/303 to the dollar in early trade, dealers said, as dollar demand resumed following a 715 million dollar purchase of forex by the central bank in March.
+
+Sri Lanka has a deeply flawed non-floating ad hoc soft-peg arrangement found in all defaulting IMF advised countries, with inconsistent policies where external and domestic anchors conflict, critics have pointed out.
+
+In May 2023, after the central bank collected 666 million dollars amid panic sales by market participants when inconsistent peg was allowed to appreciate to 295 to the US dollar from 321 in April, the rupee came under pressure in the following two months.
+
+As the inconsistencies of the deadly flexible exchange rate clash, the rupee is quoted wide, spot trading disappears, moral suasion comes in and the spot next and one week market becomes active.
+
+...
+
+[Data](articles/11e2a1d7.json)
+
+---
+
 ### Fuel prices and gold change suddenly
 
 *2024-04-19 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195777) · `si`
@@ -207,6 +275,26 @@ Stock market investors are in vain into the growing war warmth of the Middle Eas
 [Data](articles/4085be53.json)
 
 [Extended Data](ext_articles/4085be53.ext.json)
+
+---
+
+### Sri Lanka bonds trade flat, stocks down
+
+*2024-04-19 10:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-trade-flat-stocks-down-159242/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s bond yield rates were broadly steady in early trading, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 11.32/40 percent up from 11.35/40 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.95/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.15/26 percent from 12.15/25 percent.
+
+The Colombo Stock Exchange opened down; the ASPI was down 0.69 percent at 11,716, the S&P SL20 was down 1.17 at 3,434. (Colombo/Apr19/2024)
+
+◼️
+
+[Data](articles/345bc8c3.json)
 
 ---
 
@@ -342,9 +430,9 @@ Accordingly, the trains operating from Colombo Fort (7.15 p.m.) to Padukka, from
 
 The final rites of former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma are planned to be performed this afternoon (19).
 
-The funeral procession will commence following religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself sometime back.
+The funeral procession will commence following the religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself sometime back.
 
-The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 years at the time of his demise.
+The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 at the time of his demise.
 
 A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
 
@@ -561,6 +649,24 @@ ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for M
 [Data](articles/067b1e67.json)
 
 [Extended Data](ext_articles/067b1e67.ext.json)
+
+---
+
+### Sri Lanka at IMF/WB meeting stress need for concessional loans for Middle Income nations
+
+*2024-04-19 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-at-imf-wb-meeting-stress-need-for-concessional-loans-for-middle-income-nations-159184/) · `en`
+
+ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for Middle Income countries at the IMF/World Bank Spring Meeting, the island nation’s State Finance Minister Shehan Semasinghe said.
+
+“(I) pointed out pressure on many emerging and frontier market economies, both in terms of maintaining debt sustainability and in terms of financing long term development and sustainability needs,” Semasinghe said after taking part in the meeting late on Thursday in Washington.
+
+“I welcomed the reforms being considered by the IMF in its Lending Into Official Arrears policy which seek to address some of the challenges as constrained global financial environment has made it increasingly difficult for vulnerable middle income countries to raise required low cost. and long term financing for development needs and combating climate change.”
+
+“I proposed the need for enhanced access to concessional financing even for middle income countries which are typically not eligible for such funds.”
+
+...
+
+[Data](articles/96bec2da.json)
 
 ---
 
@@ -899,6 +1005,20 @@ The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young t
 [Data](articles/2980b703.json)
 
 [Extended Data](ext_articles/2980b703.ext.json)
+
+---
+
+### No presidential candidate has secured a 50% vote base as of date
+
+*2024-04-19 05:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-presidential-candidate-has-secured-a-50-vote-base-as-of-date/155-280951) · `en`
+
+Colombo, April 19 (Daily Mirror) - With the Presidential Election scheduled to be held in the first week of October, political parties have begun vigorous campaigns in electorates as well as closed door discussions with parliamentarians in a bid to secure a basic 50 percent vote base which will win them the presidency.
+
+As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a national candidate who will contest from a brand new symbol and has invited all political parties to support him.
+
+...
+
+[Data](articles/aae54fd5.json)
 
 ---
 
@@ -1944,6 +2064,22 @@ The suspects are still being questioned and questioned by the CID.
 
 ---
 
+### කිරි නිෂ්පාදනය සියයට 40කින් ඉහළ දාන හැටි කියයි
+
+*2024-04-18 19:52:28* · [`adalk`](https://www.ada.lk/breaking_news/කිරි-නිෂ්පාදනය-සියයට-40කින්-ඉහළ-දාන-හැටි-කියයි/11-409158) · `si`
+
+පවතින සම්පත් ඵලදායී ලෙස භාවිත කිරීමෙන් මෙරට වියළි කලාපයේ කිරි නිෂ්පාදනය 40%කින් ඉහළ දැමිය හැකි බවට අනාවරණය වී තිබේ.
+
+ඒ සඳහා කිරි ගොවීන් දැනුම්වත් කිරීම , යටිතල පහසුකම් ලබා දීම, සයිලේජ් සහ සාන්ද්‍ර ආහාර වැනි කිරිදෙනුන්ගේ ආහාර නිෂ්පාදනයට අවශ්‍ය පහසුකම් වැඩි දියුණු කිරීම මෙන්ම ගම් මට්ටමේ කිරි ගොවි කළමනාකරණ සමිතිවල සහාය මත ඉඩම් සහ අනෙකුත් තාක්ෂණික පහසුකම් සැපයීම අවශ්‍ය බව හඳුනාගෙන ඇත.
+
+පොල් ත්‍රිකෝණය, යාපනය අර්ධද්වීපය සහ පහතරට වියළි කලාපය යන ගොවිපොළ පද්ධති නියෝජනය කරමින් කුරුණෑගල, අනුරාධපුරය, යාපනය සහ හම්බන්තොට දිස්ත්‍රික්කවලින් තෝරාගත් කිරිගොවි නියැදියක් මත හෙක්ටර් කොබ්බෑකඩුව ගොවිකටයුතු පර්යේෂණ හා පුහුණු කිරීමේ ආයතනය විසින් සිදු කරන ලද අධ්‍යයනයකින් මේ බව අනාවරණය කර ඇති අතර වියළි කලාපයේ කිරි නිෂ්පාදනයේ තාක්ෂණික කාර්යක්ෂමතාවට බලපාන සාධක හඳුනා ගැනීම අධ්‍යයනය මගින් සිදු කර තිබේ.
+
+...
+
+[Data](articles/f8a8cc53.json)
+
+---
+
 ### Sri Lankan wanted for 1991 murder in Romania arrested in Germany
 
 *2024-04-18 19:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-wanted-for-1991-murder-in-Romania-arrested-in-Germany/108-280921) · `en`
@@ -2031,165 +2167,5 @@ The projected commitment of Japan to quickly end the restructuring process of re
 [Data](articles/3088fb84.json)
 
 [Extended Data](ext_articles/3088fb84.ext.json)
-
----
-
-### President pledged to nurture budding entrepreneurs through regional youth centres
-
-*2024-04-18 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98710/president-pledged-to-nurture-budding-entrepreneurs-through-regional-youth-centres) · `en`
-
-President Ranil Wickremesinghe expressed his firm conviction in his ability to shape the Sri Lanka that the nation’s youth envision. Embracing the daunting task of revitalizing Sri Lanka’s faltering economy, which many deemed challenging, the President underscored his success in stabilizing the nation’s economic trajectory within a mere two years, the President’s Media Division (PMD) reported.
-
-He emphasized that unity was the sole requisite for propelling the country towards progress.
-
-Addressing a gathering of young Members of Parliament and emerging political figures from the Nuwara Eliya district at the Nuwara Eliya Presidential Palace today (18), President Ranil Wickremesinghe reiterated his commitment to fostering the region’s development into a premier tourist destination.
-
-...
-
-[Data](articles/6cf63330.json)
-
-[Extended Data](ext_articles/6cf63330.ext.json)
-
----
-
-### Import of human immunoglobulin, medical supplies without competitive bids challenged before court
-
-*2024-04-18 19:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Import-of-human-immunoglobulin-medical-supplies-without-competitive-bids-challenged-before-court/108-280920) · `en`
-
-Colombo, April 18 (Daily Mirror) - Transparency International Sri Lanka (TISL) has filed a Fundamental Rights petition before the Supreme Court seeking a declaration that the imports of human immunoglobulin (Human-IG) and several other medicinal drugs without competitive bids is wrongful and illegal.
-
-The petitioner highlighted the serious ramifications on the health sector and the public from the recent controversial procurement of medical supplies including human immunoglobulin.
-
-The Cabinet of Ministers, the incumbent and former higher officials in the health sector, former Health Minister Keheliya Rambukwella, the companies involved in the controversial supplies of Human-IG, the Treasury Secretary, the Auditor General, the Director General of Customs, the Inspector General of Police, Members and Director General of CIABOC and the Attorney General are among the 66 respondents named in the petition.
-
-...
-
-[Data](articles/29eb4bc8.json)
-
-[Extended Data](ext_articles/29eb4bc8.ext.json)
-
----
-
-### Restructuring of State Enterprise
-
-*2024-04-18 19:08:12* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසාය-ප්‍රතිව්‍යුහගත-කිරීම-කඩිනමින්/11-409155) · `si`
-
-The Ministry of Economic Stability and Policy is accelerating the restructuring of state enterprises, with investors selected for each institution. Litro PLC, Sri Lanka organizations, and insurance agencies like Union Assurance and Life Insurance Corporation have expressed interest. Sri Lanka Telecom is also seeking investors in India, Hong Kong, and France, with Jio Pottfoam and Gunkoon International Investment Holdings Limited on the final list.
-
-🟩
-
-The Ministry of Economic Stability and Policy states that the restructuring work of state enterprises is expedited soon.
-
-The investors have been presented in relation to each institution. The final list of selected investors have also been prepared among the ambitions.
-
-Litro PLC has also presented ambition to Litro Company. Sri Lanka organizations in Sri Lanka and Sri Lanka National Ero Techno, Infinity NGC and Contoctorners and Contentenes have presented their aspirations in the country, India, Thailand, Arabia and Malaysia. However, the last list has not been prepared for the company.
-
-The Insurance Corporation (Life Insurance) for the Sri Lanka Insurance Corporation (Life Insurance) are insurance agencies in Sri Lanka. Accordingly, Union Assurance, Life Insurance Corporation, Softlogic Life Insurance has been presented aspirations.
-
-...
-
-[Data](articles/86eca64f.json)
-
-[Extended Data](ext_articles/86eca64f.ext.json)
-
----
-
-### Sri Lankan girl qualifies for training on Mars
-
-*2024-04-18 18:55:43* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-තරුණියක්-අඟහරු-මත-ජීවිතය-පිළිබඳ-පුහුණුවක්-සඳහා-සුදුසුකම්-ලබයි/11-409154) · `si`
-
-Sri Lankan Piyumsease, along with Jason Lee, Stephanie Navarro, and Sharif al-Romans, has been selected for NASA's Human EXEARCH AALOG (hera) training, simulating Mars conditions at the Ames Research Center. The training, starting May 10, aims to prepare them for future deep space operations.
-
-🟩
-
-Sri Lanka Piyumsease has been elected to a group of four of NASA's people who are being important for the research on Mars in the future.
-
-The four-day of the research operation has been named as Human EXEARCH AALOG (hera), the four-day of the Geeson's environment in Huston, which is built in NASA's space center.
-
-Pitiyy, who is studying on biological engineering at the University of California, is working on the Ames Research Center.
-
-In addition, Jason Lee, Stephanie Navarro and Sharif al-Romans have qualified for this opportunity. They enter this premises like Mars on May 10, and they come out of it and come to the earth on June 24.
-
-NASA's aim is to resemble them to isolate, to isolate in a place, to become stuck in a place, and facing remote conditions. It is said that it is important for deep space operations in the future.
-
-◼️
-
-[Data](articles/4348e149.json)
-
-[Extended Data](ext_articles/4348e149.ext.json)
-
----
-
-### President greets Chamari
-
-*2024-04-18 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195764) · `si`
-
-President Ranil Wickremesinghe congratulated Chamari Atapattu for leading Sri Lanka women's cricket team to victory over South Africa, breaking a record with 302 runs.
-
-🟩
-
-President Ranil Wickremesinghe has joined the Sri Lankan women's cricket team leader Chamari Atapattu.
-
-The Presidential Media Unit says the President has given Chamari Atapattu with the excellent achievement against South Africa.
-
-Sri Lanka women's group yesterday (17) had passed the history of women in the last one-day match with South Africa.
-
-The target of 302 runs in the last ODI series with the winning goal of 302 runs.
-
-Meanwhile, Sri Lanka Leader Chamari Atapattu was unbeaten on 195 runs.
-
-South Africa women and South Africa celebrations were first bowled out for 301 at the end of 50 wickets at the end of 50 wickets.
-
-◼️
-
-[Data](articles/17eaaf39.json)
-
-[Extended Data](ext_articles/17eaaf39.ext.json)
-
----
-
-### Flower flame and floral tribute to people in Kaluwanchikudi
-
-*2024-04-18 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181405) · `ta`
-
-In Kaluwanchikudi, Batticaloa, the Tamil people honored Mother Bhupathi's portrait on the 36th anniversary of her death from a hunger strike. The event began in Jaffna and included a tribute at the Annarathu Memorial.
-
-🟩
-
-In Batticaloa, emphasizing the rights of the Tamil people;The death of his portrait on the 36th anniversary of Mother Bhupathi, who died from the hunger strike, arrived in Kaluwanchikudi, Batticaloa on Thursday evening (18) evening.. In this case, the people of the area lit the flame and paid tribute to the portrait of Mother Bhupathi.
-
-The mantra's portrait began from Jaffna. Anjali events will be held at the Annarathu Memorial in Batticaloa on Friday (19).
-
-This Bhavani is being organized by the Tamil National People's Front.
-
-It is also noteworthy that the hunger strike began on March 19, 1988 in front of the Mamangeeswarar Temple in Batticaloa, and died on April 19, 1988.
-
-◼️
-
-[Data](articles/eb9b2530.json)
-
-[Extended Data](ext_articles/eb9b2530.ext.json)
-
----
-
-### Sri Lanka man wanted for 1991 murder in Romania captured in Germany
-
-*2024-04-18 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98709/sri-lanka-man-wanted-for-1991-murder-in-romania-captured-in-germany) · `en`
-
-A 53-year-old man from Sri Lanka, internationally wanted for a murder committed in Bucharest in 1991 and arrested in Germany at the beginning of this year, will be brought to Romania on April 23 to serve a 19-year prison sentence.
-
-The man will be brought to the country by an escort of the Romanian Police.
-
-“In December 1991, the man killed a foreign citizen, after which he tied him up and wrapped him in a carpet from his residence in Bucharest and transported him to the Crângași neighborhood, throwing him into Lake Morii. For this crime, he was sentenced to 19 years in prison,” the police press release states.
-
-Receiving reports that the man was in Germany, the Romanian Police cooperated with its German counterpart and had the man arrested in Moers, Germany, on January 3.
-
-After being brought back to the country, the individual will be incarcerated to serve the sentence.
-
-◼️
-
-[Data](articles/7247d8e8.json)
-
-[Extended Data](ext_articles/7247d8e8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 22:51:14**
+As of **2024-04-19 23:03:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,809 (100.0%) of 19,811 articles have been extended.
+19,811 (100.0%) of 19,811 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,31 @@ The Chairman stressed the need to expedite the project in coordination with the 
 
 [Data](articles/54ce27e0.json)
 
+[Extended Data](ext_articles/54ce27e0.ext.json)
+
 ---
 
-### අයිස් සමග තවත් පොලිස් නිලධාරියෙක් අත්අඩංගුවට
+### Another police officer arrested with ice
 
 *2024-04-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195795) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ විශේෂ වැටලීම් ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 800ක් සමග කටාන පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරන ලද පොලිස් කොස්තාපල්වරයෙකු අද (19) බ්ලුමැන්ඩල් පොලිස් වසමේදී අත්අඩංගුවට ගෙන ඇත.
+A police constable in Colombo was arrested with 800 milligrams of ice, despite being transferred to a new station without reporting. The suspect was once a drug addict.
 
-මෙම පොලිස් කොස්තාපල්වරයා පසුගිය අප්‍රේල් මස 10 වනදා සිට කටාන පොලිස් ස්ථානයේ සිට සීදුව පොලිස් ස්ථානයට වෙත ස්ථාන මාරුවීම් ලබා ඇති නමුත් සේවයට වාර්තා කර නොමැති බවටද තොරතුරු අනාවරණය වී තිබේ.
+🟩
 
-පොලීසිය විසින් සැකකරු ගමන්ගත් යතුරුපැදිය නවත්වන ලෙසට සංඥා කර තිබිය දී නොනවත්වා ඉදිරියට ගමන් කර ඇති අතර, එහිදී ලුහුබැඳ ගොස් සැකකාර පොලිස් කොස්තාපල්වරයා පරීක්ෂා කර ඇත.
+A team of officers of the Colombo Crimes Division has been arrested by a police constable attached to the Katana Police Station with 800 milligrams.
 
-එහිදී අයිස් මත්ද්‍රව්‍ය සොයාගෙන ඇති අතර, ඔහු කලක සිට මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවෙක් බවට ද තොරතුරු අනාවරණය වී තිබේ.
+It has been revealed that the police constable has been transferred to the Seeduwa Police Station from April 10, but not reported to the service.
+
+The police had moved forward and tracked and tested the suspect's constable.
+
+It has been revealed that the ice is found, and he has once a drug addict.
 
 ◼️
 
 [Data](articles/2d53186f.json)
+
+[Extended Data](ext_articles/2d53186f.ext.json)
 
 ---
 

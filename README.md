@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 07:42:47**
+As of **2024-04-19 07:55:00**
 
 ## Newspaper Stats
 
-*Scraped **19,674** Articles*
+*Scraped **19,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,106 @@ bbccomsinhala | 205
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
-dailyftlk | 1,080
+dailyftlk | 1,085
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
 adaderanalk | 2,356
 virakesarilk | 2,946
-dailymirrorlk | 3,043
-adaderanasinhalalk | 3,193
+dailymirrorlk | 3,044
+adaderanasinhalalk | 3,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,673 (100.0%) of 19,674 articles have been extended.
+19,674 (100.0%) of 19,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### අදත් වැස්ස
+### තමන් පැදවූ රථයටම යටවූ එක්දරු පියා ජීවිතක්ෂයට
+
+*2024-04-19 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195771) · `si`
+
+කොස්ගම අලුත් අම්බලම බැරේගල කන්ද මාර්ගයේදී සිදුවූ අවාසනාවන්ත රිය අනතුරකින් ජීවිතයක් අහිමිවී තිබේ.
+
+ඊයේ (18) දහවල් ලොරි රථයක් බැරේගල කන්ද මාර්ගයේ ධාවනය කරමින් සිටියදී අතරමැද නතරවී ඇත.
+
+එහිදී රියදුරු විසින් ලොරි රථයේ ගමන් කරමින් සිටි ඔහුගේ මව, බිරිඳගේ මව, බිරිඳ සහ දියණියව ලොරි රථයෙන් බස්සවා නැවත රථය පනගැන්වීමට උත්සාහ කර තිබේ.
+
+එහිදී රථය පිටුපසට ගොස් මාර්ගයේ පෙරළීයෑමෙන් රියදුරු ලොරි රථයට යටවී බරපතළ තුවාල ලබා තිබුණි.
+
+◼️
+
+[Data](articles/04765c43.json)
+
+---
+
+### Public urged to provide water access to animals
+
+*2024-04-19 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-urged-to-provide-water-access-to-animals/108-280953) · `en`
+
+Colombo, April 19 (Daily Mirror) - As scorching temperatures continue to sweep across Sri Lanka, the Vets in Sri Lanka have issued a stark call to action, urging public to provide water access to animals especially birds.
+
+Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika Jayasinghe said animals, much like humans are susceptible to a range of heat-related ailments including heatstroke, rashes, sunburns, diseases and parasite attacks.
+
+"Dehydration is the main challenge that both wild animals and pets face this season," stated Dr. Jayasinghe. "High temperatures exacerbate water loss in animals through sweating or panting, leading to dehydration—a condition where the body loses more fluid than it takes in." she added.
+
+...
+
+[Data](articles/e7932812.json)
+
+---
+
+### පාලිත තෙවරප්පෙරුමගේ දේහය පිළිබඳ අවසන් කටයුතු අද
+
+*2024-04-19 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195770) · `si`
+
+අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (19) සිදුකිරීමට නියමිතව තිබේ.
+
+අද පස්වරු 2ට මතුගම යටදොලවත්ත ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේදී ආගමික කටයුතු සිදුකර තෙවරප්පෙරුම මහතා ජීවත්ව සිටියදී ඔහු විසින්ම සකස් කළ සුසානයේදී දේහය මිහිදන් කිරීමට නියමිත බව පවුලේ ඥාතීන් සඳහන් කරයි.
+
+දේහය පසුගිය 17 වනදා රාත්‍රියේ ඒ මහතාගේ නිවස වෙත රැගෙන ආ අතර දේහයට අවසන් ගෞරව දැක්වීම සඳහා ඊයේ රාත්‍රිය වන විටත් විශාල ජනතාවක් පැමිණි බව අද දෙරණ වාර්තාකරුවන් පැවසීය.
+
+විදුලිසැර වැදීමක් හේතුවෙන් පාලිත තෙවරප්පෙරුම මහතා පසුගිය 16 වනදා ජීවිතක්ෂයට පත්වූ අතර ඒ වන විට ඔහු 64 වැනි වියේ පසුවුණි.
+
+2010 වසරේ සිට 2020 වසර දක්වා කළුතර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ ඔහු ස්වදේශ කටයුතු, වයඹ සංවර්ධන සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යවරයා ලෙස හා වනජීවි නියෝජ්‍ය අමාත්‍යවරයා ලෙසද ක්‍රියා කළේය.
+
+ජනතාව පීඩාවට පත්වු අවස්ථාවලදී විශාල සමාජ මෙහෙවරක් සිදුකළ දේශපාලඥයෙකු ලෙස පාලිත තෙවරප්පෙරුම මහතා, සමාජය තුළ කැපීපෙනුනු චරිතයක් විය.
+
+◼️
+
+[Data](articles/fe15fa22.json)
+
+---
+
+### Rain today
 
 *2024-04-19 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195768) · `si`
 
-බස්නාහිර, සබරගමුව, වයඹ සහ උතුරු පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (19) සවස 2න් පමණ පසු තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකිය.
+Today, showers and thundershowers are expected in Western, Sabaragamuwa, North Western, Northern provinces, and Galle and Matara districts. Heavy showers may reach over 50 mm in some areas. Public advised to take precautions against wind and lightning.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම නිවේදනය නිකුත් කරමින් ඒ බව සඳහන් කරයි.
+🟩
 
-එහි තවදුරටත් දැක්වෙන්නේ, මධ්‍යම, උතුරු-මැද සහ ඌව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවෙන බවය.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, North Western and Northern provinces and in the Galle and Matara districts today (19).
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තද වැසි ඇති විය හැකිය.
+The Department of Meteorology issues its latest announcement.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+It further stated that showers or thundershowers will occur at several places in the middle, North-Central and Uva provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+There may be heavy showers at more than 50 mm in the Western, Sabaragamuwa and Northwestern provinces.
+
+Some locations in the Western, Sabaragamuwa and Northwestern provinces and in the Galle and Matara districts have a murder.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
 
 ◼️
 
 [Data](articles/3a320640.json)
+
+[Extended Data](ext_articles/3a320640.ext.json)
 
 ---
 
@@ -116,6 +178,22 @@ On information from police, a team of telecom officials and employees arrived an
 
 ---
 
+### Eastern Province youth entrepreneurs empowered through ‘Revamp Sri Lanka Youth Start-Up Challenge 1.0’
+
+*2024-04-19 06:00:05* · [`dailyftlk`](https://www.ft.lk/business/Eastern-Province-youth-entrepreneurs-empowered-through-Revamp-Sri-Lanka-Youth-Start-Up-Challenge-1-0/34-760789) · `en`
+
+The ‘Revamp Sri Lanka Youth Start-Up Challenge 1.0’, an initiative spearheaded by the Lanka Impact Investing Network (LIIN) in collaboration with the International College of Business and Technology (ICBT Campus), was held successfully on 4 April at the ICBT Campus in Batticaloa.
+
+The event showcased the entrepreneurial prowess of young minds in the Eastern Province, providing them with a platform to nurture and develop their innovative start-up ideas and entrepreneurial journey.
+
+The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young talents by bridging the gap between innovative ideas and practical implementation. Through mentorship, networking opportunities, and access to industry leaders and investors, the event aimed to catalyse the growth of promising start-ups in Sri Lanka, particularly in the Eastern Province.
+
+...
+
+[Data](articles/2980b703.json)
+
+---
+
 ### No presidential candidate has secured on a 50% vote base as of date
 
 *2024-04-19 05:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-presidential-candidate-has-secured-on-a-50-vote-base-as-of-date/155-280951) · `en`
@@ -129,6 +207,68 @@ As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a n
 [Data](articles/e1862c10.json)
 
 [Extended Data](ext_articles/e1862c10.ext.json)
+
+---
+
+### NDB Wealth Management partners nVentures to propel local start-up ecosystem
+
+*2024-04-19 05:57:41* · [`dailyftlk`](https://www.ft.lk/business/NDB-Wealth-Management-partners-nVentures-to-propel-local-start-up-ecosystem/34-760788) · `en`
+
+NDB Wealth Management Ltd. – the largest private sector Asset Management company in Sri Lanka with more than Rs. 340 billion assets under management – has embarked on a strategic collaboration with nVentures Pte Ltd., a Singapore-based venture capital fund specialising in B2B startups in South and Southeast Asia.
+
+This partnership aims to catalyze the growth of both local and global start-ups through the inception of the “Founder’s Circle” initiative by nVentures.
+
+The inaugural private networking event, held recently, served as a nexus between High-Net-Worth clients of NDB Wealth and the founders of seven select companies from nVentures’ start-up portfolio representing Sri Lanka, India, Bangladesh and the UK. The gathering provided an exclusive platform for start-up founders to articulate their vision, societal impact objectives, and address pertinent challenges directly to NDB Wealth clients keen on supporting emerging ventures.
+
+...
+
+[Data](articles/686789aa.json)
+
+---
+
+### People’s Bank sponsors “Empowering Tomorrow’s Innovators” program to develop youth tech skills
+
+*2024-04-19 05:41:00* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-sponsors-Empowering-Tomorrow-s-Innovators-program-to-develop-youth-tech-skills/34-760787) · `en`
+
+Key initiative in partnership with Sarvodaya Fusion—the IT education arm of the Sarvodaya movement
+
+People’s Bank, a leader in digital banking in Sri Lanka, has announced the successful selection of 100 students to take part in its “Empowering Tomorrow’s Innovators” Youth Tech Skill Development program. This initiative, in partnership with Sarvodaya Fusion—the IT education arm of the Sarvodaya movement, aims to equip the nation’s youth with essential technological skills for future careers.
+
+The initiative reflects People’s Bank’s commitment to its corporate social responsibility by promoting social progress and innovation. Candidates for the scholarship program were selected in March and April 2024 from a pool of applicants interested in enrolling from across the island.
+
+The selection process took place in several provinces including North Central, Northwestern, and Western, among others.
+
+...
+
+[Data](articles/37799bd5.json)
+
+---
+
+### S.J.V. Chelvanayakam and the Ilankai Thamil Arasuk Katchi
+
+*2024-04-19 05:38:04* · [`dailyftlk`](https://www.ft.lk/columns/S-J-V-Chelvanayakam-and-the-Ilankai-Thamil-Arasuk-Katchi/4-760786) · `en`
+
+The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party will celebrate its 75th birthday in December this year. The premier political party of the Sri Lankan Tamil people known as “Ilankai Thamizhar” in their mother tongue was born on 18 December 1949. On that day, a group of 60 Tamils including two parliamentarians and two senators convened at the Government Clerical Service Union (GCSU) hall in Colombo.
+
+That historic conclave resulted in the launching of a new political party with the avowed goal of establishing an autonomous State for the Tamil-speaking people of Ceylon (as Sri Lanka was known then) within a united island. The new party was named in Tamil as “Illankai Thamil Arasu Katchi” meaning Ceylon Tamil State or Tamil Government Party.
+
+...
+
+[Data](articles/494be4c5.json)
+
+---
+
+### Economic reforms: Lessons from India
+
+*2024-04-19 05:30:02* · [`dailyftlk`](https://www.ft.lk/columns/Economic-reforms-Lessons-from-India/4-760785) · `en`
+
+Book review: “Backstage – The story behind India’s high growth years” by Dr. Montek Singh Ahluwalia
+
+In the face of a deep balance of payments crisis in the 1980s, a recession was triggered in India in 1991. Prices for necessities were soaring, the unemployment rate was rising, and the public’s despondency deepened while facing shortages of nearly everything. The future looked very bleak for many. While some people got onto the streets out of desperation, another group of smart individuals who were passionate about getting India’s economy back on track, worked relentlessly to find solutions to their economic issues, which had a transformative effect on India to become the regional powerhouse it is today.
+
+...
+
+[Data](articles/6287ac16.json)
 
 ---
 
@@ -2055,177 +2195,5 @@ Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘
 [Data](articles/763e9d3a.json)
 
 [Extended Data](ext_articles/763e9d3a.ext.json)
-
----
-
-### Sri Lanka stocks close down, selling pressure on diversified financials, banks
-
-*2024-04-18 16:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-diversified-financials-banks-159135/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.28 percent, or 33.10 points, at 11,797; while the S&P SL20 Index closed down 0.46 percent, or 15.92 points, at 3,475.
-
-Turnover was at 2.2 billion. The diversified financials (Rs661mn) and banks (Rs408mn) sectors saw selling pressure.
-
-“This was possibly driven by the uncertainty about the direction of the bond talks,” market participants said.
-
-“The market was a bit volatile today also, but not so much as the previous day, turnover remained relatively high.”
-
-Capital Alliance Plc saw the most traded volume (Rs480mn) and the share closed up at 65.90.
-
-Lanka Milk Foods (CWE) Plc also saw interest (Rs317mn) and the share closed up at 30.00.
-
-...
-
-[Data](articles/c5770db8.json)
-
-[Extended Data](ext_articles/c5770db8.ext.json)
-
----
-
-### Stups of the three STF trapped in Boralesgamuwa
-
-*2024-04-18 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195759) · `si`
-
-Three STF members arrested in Boralesgamuwa for involvement in a police shooting incident in Pitigala, March 11. Suspects, Karandeniya Suddha, Saman Boards, and two others, are accused of organized crime and drug dealing.
-
-🟩
-
-The Special Task Force has been arrested by the STF in Boralesgamuwa, Boralesgamuwa.
-
-The suspects have been involved in the police to transport the bolder and the board of shooting in the Niyagama area in Pitigala on March 11.
-
-The police have revealed that three close disciples were a close two-sided dealer, Karandeniya Suddha and Saman Boards, an organized crime and large scale drug dealer.
-
-The three suspects have been revealed to be raised by 22, 24 and 31, a resident of Kahanduwa, Ukpitiya and Thawalama areas.
-
-A motorcycle and three mobile phones were taken to the police and three mobile phones were conducted by the suspects. Pitigala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/34c84945.json)
-
-[Extended Data](ext_articles/34c84945.ext.json)
-
----
-
-### A woman's body recovery at Kattankudy Palamunai beach
-
-*2024-04-18 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181380) · `ta`
-
-A 55-year-old woman's body was found at Kattankudy Palamunai beach, unidentified. Kattankudy police are investigating her death.
-
-🟩
-
-The body of a woman has been recovered from the Arayambathi Divisional Secretariat Division belonging to the Batticaloa Kattankudy Police Division, the body of a woman has been recovered.
-
-The body has not yet been identified at 12 pm on the coast of Palamunai.
-
-Kattankudy police are conducting serious investigations into how a 55 -year -old woman died.
-
-◼️
-
-[Data](articles/44f80cf2.json)
-
-[Extended Data](ext_articles/44f80cf2.ext.json)
-
----
-
-### Heart attack
-
-*2024-04-18 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181376) · `ta`
-
-Heart attacks, the leading cause of death from 2010-2020, are attributed to unhealthy eating, neglecting organs, tobacco, drugs, and stress.
-
-🟩
-
-The health department said that the main cause of the heavy casualties in the past years, a heart attack.
-
-In addition, the Department of Health has pointed out that the main cause of deaths from 2010 to 2020 is a heart attack.
-
-In addition, the Department of Health has pointed out that the main causes of a heart attack are unhealthy eating habits, inattention of organs, tobacco, drug use and stress.
-
-◼️
-
-[Data](articles/68e43ad8.json)
-
-[Extended Data](ext_articles/68e43ad8.ext.json)
-
----
-
-### Demonstration in front of the Pulukamam Kandumani Maha Vidyalaya
-
-*2024-04-18 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181375) · `ta`
-
-Parents, alumni, and school development association members from three schools in Divakamami demonstrated peacefully on Thursday, opposing the Director of Education's transfer and condemning political revenge.
-
-🟩
-
-Parents, alumni and school development association members of the school in the three schools in Divakamami, in front of the Pudukkam Kandumani Maha Vidyalaya in the Batticaloa District of the Batticaloa District, were involved in a demonstration on Thursday (18).
-
-The demonstration took place peacefully, carrying a number of words, such as the Director of Education, who had improved the Zone in a short period of time, stopped political revenge on state officials, and condemned the improper replacement of the Director of Education.
-
-Sivinandam Sridharan, who was serving as the Director of the Zonal Education Office at the Pattupuru Zonal Education Office, was opposed to the transfer of Sivinandam Sridharan and the re -appointment of the Director of Education for the Portrait Zone.
-
-◼️
-
-[Data](articles/c3b6b5ee.json)
-
-[Extended Data](ext_articles/c3b6b5ee.ext.json)
-
----
-
-### Sri Lankans on the list of 100 people of the 'Time' magazine
-
-*2024-04-18 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181377) · `ta`
-
-Rosanna Flamer-Caldera, a Sri Lankan activist, is featured in Time's 2024 list of the world's most influential people.
-
-🟩
-
-Sri Lanka's Milky Ways activist Rosanna Flamer-Caldera is on the list of the world's most influential people at an estimated cost of 2024.
-
-◼️
-
-[Data](articles/10c34362.json)
-
-[Extended Data](ext_articles/10c34362.ext.json)
-
----
-
-### Sri Lanka Freedom Party crisis: Enjoining order extended till May 09
-
-*2024-04-18 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-crisis-enjoining-order-extended-till-may-09-159131/) · `en`
-
-ECONOMYNEXT — The Colombo District Court has extended an enjoining order preventing former president Maithripala Sirisena from serving as chairman of the crisis-riddled Sri Lanka Freedom Party (SLFP).
-
-Attorney-at-law Lakmal Wickramarachchi told reporters on Friday April 18 that objections will be filed on May 09.
-
-“Proxies were filed on behalf of former president Maithripala Sirisena and the general secretary of the party. We obtained dates for filing objections to the enjoining order. We expect to file our objections on May 09 and present facts seeking the removal of the enjoining order,” he said.
-
-The order, made by the court following a case filed by former president Chandrika Bandaranaike Kumaratunga, will be in effect till May 09.
-
-Meanwhile, SLFP acting general secretary Dushmantha Mithrapala has filed objections at the National Election Commission to the new appointments made to the SLFP on April 08, media reports said Friday afternoon.
-
-...
-
-[Data](articles/64d05765.json)
-
-[Extended Data](ext_articles/64d05765.ext.json)
-
----
-
-### Dr A .T. Ariyaratne Has Passed: My Memories Of Him To The Mid-1990s
-
-*2024-04-18 15:15:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-a-t-ariyaratne-has-passed-my-memories-of-him-to-the-mid-1990s/) · `en`
-
-I was extremely sad to hear the news of Dr A. T. Ariyaratne’s passing at the ripe old age of 93. He was the founder and President Emeritus of the Sarvodaya Shramadana Movement (SSM) of Sri Lanka. He was untiring in his efforts to put into practice ‘Sustainable Development and Peace’ based on the Buddhist precepts of “Awakening of all”. In principle, he was against the patterns of economic development based on neo-liberal values, which is unfortunately all the rage not only in Sri Lanka but also in large parts of the globe.
-
-...
-
-[Data](articles/e45a76f0.json)
-
-[Extended Data](ext_articles/e45a76f0.ext.json)
 
 ---

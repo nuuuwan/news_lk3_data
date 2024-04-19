@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 22:18:27**
+As of **2024-04-19 22:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,808** Articles*
+*Scraped **19,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,375
-virakesarilk | 2,970
+virakesarilk | 2,971
 dailymirrorlk | 3,074
 adaderanasinhalalk | 3,217
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,217
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,808 (100.0%) of 19,808 articles have been extended.
+19,808 (100.0%) of 19,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### கடற்படை வீரர்கள் இருவர் உட்பட 4 பேர் போதைப்பொருளுடன் கைது!
+
+*2024-04-19 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181484) · `ta`
+
+சுமார் 7.5 மில்லியன் ரூபா பெறுமதியான ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் இலங்கை கடற்படையின் இரண்டு லெப்டினன்ட் கமாண்டர்களும் அடங்குவதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+510 கிராம் ஐஸ் போதைப்பொருளுடன் முல்லேரிய பிரதேசத்தில் வைத்து குறித்த குழுவினர் பொலிஸாரால் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d3428149.json)
+
+---
 
 ### A controversial statement on the New Power and Electricity Bill
 
@@ -2243,29 +2259,5 @@ The incident is said to have taken place while the student was swimming, regardl
 [Data](articles/d27f36f0.json)
 
 [Extended Data](ext_articles/d27f36f0.ext.json)
-
----
-
-### Israel's missile attack on Iran
-
-*2024-04-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181421) · `ta`
-
-Iran retaliated against Israel's missile attack on its embassy in Syria, leading to a missile exchange and airspace closure in Iran. Israel's response has raised concerns about potential escalation.
-
-🟩
-
-In response to the attack on the Iranian embassy in Syria, Iran launched an attack on Israel with missiles and unmanned aircraft.
-
-Local media reports that Israel has responded to Iran by throwing missiles on Iran.
-
-Local media reports that the noise of a bomb attack at the Air Force Base in Iran's Ispahan City. As a result of this, the airspace is closed in the western part of Iran. Many flights have been diverted.
-
-Israel's retaliation on Iran has raised questions whether it would spit the Third World War if the attack was worse.
-
-◼️
-
-[Data](articles/475343cc.json)
-
-[Extended Data](ext_articles/475343cc.ext.json)
 
 ---

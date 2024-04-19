@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 14:52:06**
+As of **2024-04-19 15:03:26**
 
 ## Newspaper Stats
 
-*Scraped **19,761** Articles*
+*Scraped **19,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,76 @@ adalk | 1,646
 tamilmirrorlk | 2,289
 adaderanalk | 2,366
 virakesarilk | 2,962
-dailymirrorlk | 3,059
+dailymirrorlk | 3,060
 adaderanasinhalalk | 3,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,757 (100.0%) of 19,761 articles have been extended.
+19,761 (100.0%) of 19,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### போதைப்பொருள் கடத்தல் காரர்களுக்கும் பொலிஸாருக்கும் தொடர்பு - ஒருங்கிணைப்பு குழு கூட்டத்தில் குற்றச்சாட்டு
+### Interaction between drug traffickers and police - accusation
 
 *2024-04-19 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181451) · `ta`
 
-போதைப்பொருள் கடத்தல் தொடர்பில் பெரிய முதலையை பிடியுங்கள். பொலிஸாருக்கும் தொடர்பு இருப்பதாக மக்கள் தெரிவிக்கிறார்கள் என மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+At a district coordination committee meeting, allegations were made against the police for involvement in drug trafficking, particularly with heroin. The police responded by stating that heroin is scarce and that they've arrested individuals in Mannar and are investigating cannabis trafficking from India to the North. They emphasized the need for public cooperation to prevent drug trafficking in the North.
 
-யாழ். மாவட்ட செயலக ஒருங்கிணைப்பு குழு கூட்டம்  அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சாள்ஸ் ஆகியோரது இணைத்தலைமையில் இன்று வியாழக்கிழமை (19) நடைபெற்றது.
+🟩
 
-இதன்போது, பொலிஸாரால் போதைப்பெருள் கடத்தல் தொடர்பில் கருத்துகள் முன்வைக்கப்பட்டது. குறிப்பாக ஹெரோயின் தற்போது கிடைப்பதில்லை. அதற்கு பதிலாக மனநிலை பாதிக்கப்பட்டவர்களுக்கு பயன்படுத்தப்படும் மருந்து வில்லைகளே பயன்படுத்தி வருகிறார்கள். இது தொடர்பாக மன்னாரில் சிலரை கைது செய்து சட்ட நடவடிக்கைக்குட்படுத்தியுள்ளோம்.
+Hold the big topic on drug trafficking. At a meeting of the district coordination committee, the allegations were made that people claim that the police were involved.
+
+Yall. The District Secretariat Coordinating Committee meeting was held on Thursday (19) at the meeting of Minister Douglas Devananda and Governor of the Northern Province BSM Salles.
+
+In the meantime, the police made comments on drug trafficking. Especially heroin is not currently available. Instead of using the drugs used for mentally ill people. We have arrested some people in Mannar and put legal action.
+
+Also, cannabis drug is transmitted from India to the North. From here to the southern provinces. We are investigating many studies in this regard. Some people are able to arrest. Most of the balls are not taken. However, we are carrying out a series of measures. Police said public cooperation is needed.
 
 ...
 
 [Data](articles/62107f41.json)
 
+[Extended Data](ext_articles/62107f41.ext.json)
+
 ---
 
-### පාලිත තෙවරප්පෙරුමගේ දේහය පිළිබඳ අවසන් කටයුතු ඇරඹේ
+### Funeral of Palitha Thevarapperuma begins
 
 *2024-04-19 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195783) · `si`
 
-අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+The funeral of Deputy Minister Palitha Thevarapperuma has begun.
+
+🟩
+
+The funeral of the late Deputy Minister Palitha Thewarapperuma has commenced its final.
 
 ◼️
 
 [Data](articles/af3fb043.json)
 
+[Extended Data](ext_articles/af3fb043.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-19 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181458) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஏப்ரல் 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின கொள்வனவு விலை ரூபா 296.8792 ஆகவும் விற்பனை விலை ரூபா 306.5961 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's purchasing price was Rs 296.8792, and sales price Rs 306.5961, as per the Central Bank's rate on April 19.
+
+🟩
+
+The US dollar purchasing price was Rs 296.8792, based on the currency exchange rate released by the Central Bank on Friday (April 19) and the sales price were Rs 306.5961.
 
 ◼️
 
 [Data](articles/ec4f72de.json)
+
+[Extended Data](ext_articles/ec4f72de.ext.json)
 
 ---
 
@@ -549,6 +569,18 @@ Those policies have transformed India economically and culturally, and BJP rule 
 [Data](articles/067209c4.json)
 
 [Extended Data](ext_articles/067209c4.ext.json)
+
+---
+
+### Preserve plantations...
+
+*2024-04-19 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preserve-plantations/110-280978) · `en`
+
+Plantation workers attached to the Ceylon Workers' Congress (CWC) staged a protest today in front of the Fort Railway Station, demanding that the authorities protect the plantations as national treasures and increase their daily wage to Rs. 1,700 against the skyrocketing cost of living. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/f707ef2f.json)
 
 ---
 
@@ -1286,23 +1318,29 @@ In addition, the department has stated that the authorities are working to grow 
 
 ---
 
-### මූලය හඳුනා නොගත් වකුගඩු රෝගී තත්වයෙන් පීඩා විදින මහවැලි C කලාපයේ  වැසියෝ
+### Inhabitants of the Mahaweli C region of the kidney disease that has not been identified
 
 *2024-04-19 08:50:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qv40wr51vo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, මූලය හඳුනා නොගත් වකුගඩු රෝගියෙකු 1994 දී පළමුවරට රජරට ප්‍රදේශයෙන් වාර්තා විය.
+The Mahaweli C region has unidentified kidney disease cases, first reported in Rajarata in 1994. Dr. Sithumi Herath highlights unrecognized cases in the initial stage. Patients in Ampara, identified from Dehiattakandiya, face financial strain. Families, especially children, suffer due to the disease.
 
-මූලය හඳුනා නොගත් වකුගඩු රෝගී තත්වයෙන් පීඩා විදින මහවැලි C කලාපයේ  වැසියෝ
+🟩
 
-ආරම්භක අවධියේ දී රෝග ලක්ෂණ නොපෙන්වා, අවසාන අදියරේ දී රෝග ලක්ෂණ මතුවීම නිසා මූලය හඳුනා නොගත් වකුගඩු රෝගයේ භයානක බව තේරුම් ගෙන එය කල්තියා හඳුනා ගැනීමට පැවැත්වෙන සායන වෙත ජනතාව පැමිණීම වැදගත් බව දෙහිඅත්තකණ්ඩිය, වකුගඩු රෝග නිවාරණ ඒකකයේ වෛද්‍ය සිතුමිණි හේරත්  පවසන්නීය.
+It contains nothing in this program, a kidney patient who did not recognize the source was first reported in the Rajarata area in 1994.
 
-අම්පාර දිස්ත්‍රික්කයේ මූලය හඳුනා නොගත් වකුගඩු රෝගීන් වැඩිපුරම වාර්තා වී තිබෙන්නේ දෙහිඅත්තකණ්ඩිය ප්‍රදේශයෙනි.
+Inhabitants of the Mahaweli C region of the kidney disease that has not been identified
 
-විශේෂයෙන් මැදිවියේ පිරිමි පුද්ගයින් මේ රෝගයට ගොදුරු වීම නිසා පවුලේ ආර්ථිකය සහ දරුවන්ගේ අධ්‍යාපනය කඩා වැටී ඔවුහු ගැටලු රැසකට මුහුණ දෙති.
+Dr. Sithumi Herath, Dr. Sithumi Herath, says that the emergence of the cases of the chickens that are not recognized in the initial stage.
+
+The kidney patients who have not identified the financial in Ampara have been identified from Dehiattakandiya.
+
+In particular, the family of family and children fall into the disease, especially due to the disease, and their children face their problems.
 
 ◼️
 
 [Data](articles/2db34d77.json)
+
+[Extended Data](ext_articles/2db34d77.ext.json)
 
 ---
 
@@ -2145,27 +2183,5 @@ On 21st of last month, IMF and Sri Lanka reached a staff level agreement to conc
 [Data](articles/3057471f.json)
 
 [Extended Data](ext_articles/3057471f.ext.json)
-
----
-
-### Youth tributes to Palitha Devaparum in Vavuniya
-
-*2024-04-19 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181415) · `ta`
-
-Three youths honored former Deputy Minister Palitha Devapperumal, who died from electrocution, with floral tributes at Kandaswamy Temple Road, Vavuniya. He was remembered for his work during the Kovit period and floods, and was highly regarded by the people.
-
-🟩
-
-Three youths have paid tribute to former Deputy Minister Palitha Devapperumal, who died after being electrocuted.
-
-The event took place on Thursday (18) at Kandaswamy Temple Road, Vavuniya. Former Deputy Minister Palitha Deva Porumal was working during the Kovit period and during the floods.
-
-He was the best politician in the minds of the people. In this case, the Vavuniya youth paid floral tributes to his film.. Tamil, Sinhala and Muslim youth were also present.
-
-◼️
-
-[Data](articles/c290694c.json)
-
-[Extended Data](ext_articles/c290694c.ext.json)
 
 ---

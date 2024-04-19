@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 12:34:03**
+As of **2024-04-19 12:51:14**
 
 ## Newspaper Stats
 
-*Scraped **19,736** Articles*
+*Scraped **19,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,127
+economynextcom | 1,128
 adalk | 1,646
-tamilmirrorlk | 2,287
-adaderanalk | 2,361
-virakesarilk | 2,956
+tamilmirrorlk | 2,288
+adaderanalk | 2,363
+virakesarilk | 2,957
 dailymirrorlk | 3,056
 adaderanasinhalalk | 3,203
 
@@ -26,29 +26,15 @@ adaderanasinhalalk | 3,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,735 (100.0%) of 19,736 articles have been extended.
+19,736 (100.0%) of 19,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### Two arrested with over 1,000 narcotic pills
-
-*2024-04-19 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-with-over-1-000-narcotic-pills/108-280974) · `en`
-
-Pulmudai, April 19 (Daily Mirror)- Two individuals were arrested with some 1,229 narcotic pills in their possession at Pulmudai last morning, Police said.
-
-They were arrested during a joint raid conducted by the Pulmudai police and STF personnel.
-
-◼️
-
-[Data](articles/9cd1a5bb.json)
-
----
-
 ### How to live on Mars: Sri Lankan scientist for study
 
-*2024-04-19 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181428) · `ta`
+*2024-04-19 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181428) · `ta`
 
 NASA tests Mars habitat with Sri Lankan scientist Piyumi Wijeeshekara. They simulate Mars environment, travel in rover, and save samples.
 
@@ -71,6 +57,116 @@ Piyumi Wijesekera and her team will work for 45 days like astronauts at NASA's J
 [Data](articles/1d084953.json)
 
 [Extended Data](ext_articles/1d084953.ext.json)
+
+---
+
+### Sri Lanka to establish youth centres with bank executives and trade board members
+
+*2024-04-19 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-youth-centres-with-bank-executives-and-trade-board-members-159307/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President has said regional youth centres will be established in each divisional secretariat division in a bid to empower the youth demographic.
+
+President Ranil Wickremesinghe promised “to nurture budding entrepreneurs through these centres, with intentions to engage bank executives and trade board members in the process,” at a meeting with young Members of Parliament and emerging political figures from the Nuwara Eliya district.
+
+Sri Lanka has seen an exodus of young people after an economic crisis plunged a large part of the population into poverty.
+
+Wickremesinghe “reiterated his commitment to fostering the region’s development into a premier tourist destination,” and pointed out that concerted efforts were imperative “to attract essential investments for national development,” in a statement by his media division.
+
+His goal was “to ensure that these benefits reached every segment of society” Wickremesinghe was quoted as saying.
+
+...
+
+[Data](articles/97da1999.json)
+
+---
+
+### இரண்டு இடங்களில் இரண்டு கொலைகள்
+
+*2024-04-19 12:27:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-இடங்களில்-இரண்டு-கொலைகள்/175-336091) · `ta`
+
+நாட்டின் இரு வேறு இடங்களில் இரண்டு கொலைச் சம்பவங்கள் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+எம்பிலிபிட்டிய மடுவன்வெல கொலனி பகுதியில் வாடகை வீடொன்றில் வசித்து வந்த 71 வயதுடைய நபர் நேற்று (18) இரவு  படுகொலை செய்யப்பட்டுள்ளார்.
+
+வாடகை வீட்டில் தனியாக வசித்து வந்த குறித்த நபர் தென்னை நார் உற்பத்தி தொழில் செய்து வந்ததாகவும் கூரிய ஆயுதத்தால் தாக்கி கொலை செய்யப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் கடந்த 17ஆம் திகதி பிம்புரத்தேவ ஏரிக்கு மீன்பிடிக்கச் சென்றுள்ளதுடன், அங்கு மற்றுமொரு நபருடனும் தனது மனைவியுடனும் மதுபானம் அருந்தியுள்ளார்.
+
+இதன் போது ஏற்பட்ட முரண்பாடு காரணமாக குறித்த நபர்  கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கொலைச் சம்பவம் தொடர்பில் 67 மற்றும் 47 வயதுடைய சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/070b3b18.json)
+
+---
+
+### கலால் திணைக்களத்தின் அதிகாரி பணி இடைநிறுத்தம்!
+
+*2024-04-19 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181446) · `ta`
+
+பாடகர் ரோஹன பெத்தகே பாடிய புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடி  சமூக வலைதளங்களில் பதிவிட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட  கலால் திணைக்கள அதிகாரி பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+கலால் திணைக்களத்தில் இடம்பெற்ற  ஊடக சந்திப்பின்போது கலால் திணைக்களத்தின் ஆணையாளர் சன்ன வீரக்கொடி இதனை தெரிவித்துள்ளார்.
+
+இந்தச் சம்பவம் தொடர்பில் கலால் ஆணையாளர் தலைமையில் விசாரணை மேற்கொள்ளப்படவுள்ளதாகவும் இவர் குற்றம் செய்துள்ளதாக நீதிமன்றம் உறுதிப்படுத்தினால் உரிய நடவடிக்கை எடுக்கப்படும் எனவும்  ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+‘சூரிய மங்கலே’ பாடலை திரிபுபடுத்தி சமூக வலைதளங்களில் பதிவிட்ட குற்றத்துக்காக கைது செய்யப்பட்ட இவரை விளக்கமறியலில் வைக்குமாறு  நேற்று முன்தினம் புதன்கிழமை ( 17) குளியாபிட்டிய நீதிவான் நீதிமன்றம்  உத்தரவிட்டிருந்தது.
+
+◼️
+
+[Data](articles/b7102edb.json)
+
+---
+
+### India heads to the polls in world’s biggest election
+
+*2024-04-19 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98720/india-heads-to-the-polls-in-worlds-biggest-election) · `en`
+
+Polls opened Friday for the first and largest phase of India’s marathon general election, kicking off a vote in which Prime Minister Narendra Modi is seeking to win a rare third consecutive term.
+
+About 969 million people are eligible to vote in the biggest election in human history, with polling taking place in seven phases over the next six weeks in the world’s most populous country.
+
+The nationwide vote is considered among the most consequential in decades as Modi’s powerful right-wing Bharatiya Janata Party (BJP) aims for an outright majority and a mandate to widen its development and Hindu-nationalist policies established during its 10-year rule.
+
+Those policies have transformed India economically and culturally, and BJP rule has been defined by a pull away from India’s secular foundation, toward Hindu majoritarianism.
+
+...
+
+[Data](articles/067209c4.json)
+
+---
+
+### Medicine procurement scandal: TISL files petition, seeks to recover costs incurred
+
+*2024-04-19 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98719/medicine-procurement-scandal-tisl-files-petition-seeks-to-recover-costs-incurred) · `en`
+
+The Transparency International Sri Lanka (TISL) has filed a fundamental rights (FR) petition before the Supreme Court seeking an order that the fundamental rights have been violated through the purchase of certain types of drugs including Human Immunoglobulin vials, without following the proper procurement process.
+
+Accordingly, 66 individuals including former Minister of Health Keheliya Rambukwella, Cabinet of Ministers, Treasury Secretary, Auditor General, Director General of Customs, Inspector General of Police, the members and the Director General of Bribery Commission and the Attorney General have been named as respondents of the relevant petition.
+
+In the petition, the TISL sought the court’s intervention to declare that importation of pharmaceuticals without competitive bids was wrongful and illegal.
+
+...
+
+[Data](articles/5e83790d.json)
+
+---
+
+### Two arrested with over 1,000 narcotic pills
+
+*2024-04-19 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-with-over-1-000-narcotic-pills/108-280974) · `en`
+
+Pulmudai, April 19 (Daily Mirror)- Two individuals were arrested with some 1,229 narcotic pills in their possession at Pulmudai last morning, Police said.
+
+They were arrested during a joint raid conducted by the Pulmudai police and STF personnel.
+
+◼️
+
+[Data](articles/9cd1a5bb.json)
+
+[Extended Data](ext_articles/9cd1a5bb.ext.json)
 
 ---
 
@@ -2091,119 +2187,5 @@ During the investigations, it was revealed that the suspect is known in the area
 [Data](articles/7b30cc21.json)
 
 [Extended Data](ext_articles/7b30cc21.ext.json)
-
----
-
-### Intermediary arrested for selling tea and tea for a tourist in Kalutara for 800 rupees
-
-*2024-04-18 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181407) · `ta`
-
-Tourist police arrested an intermediary for selling tea to a foreign tourist in Kalutara for 800 rupees, based on a video. A separate case was launched against the restaurant owner.
-
-🟩
-
-Tourist police have arrested an intermediary following a video of a foreign citizen of a foreign citizen at a restaurant at a restaurant on social media.
-
-In addition, a police media spokesman has confirmed that a separate case has been launched against the owner of the restaurant.
-
-◼️
-
-[Data](articles/066500be.json)
-
-[Extended Data](ext_articles/066500be.ext.json)
-
----
-
-### The suspect trapped in the wade work
-
-*2024-04-18 21:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195766) · `si`
-
-A 60-year-old Kalutara resident was arrested for deceiving foreigners in a shop, following a complaint to the Tourist Police. The suspect, due in court tomorrow, was caught with a large amount of Udel and tea cups.
-
-🟩
-
-The suspect has been arrested by the police in a large number of Udel and cup of tea cup of tea in a restaurant in Kalutara.
-
-Ada Derana revealed a view circulation on social media regarding the incident yesterday.
-
-Accordingly, the suspect has been arrested following a complaint lodged by a complaint received by the Moragalla to the Tourist Police today.
-
-The arrested was a 60 year old resident of Kalutara.
-
-Further investigations have revealed that the suspect was a nearby shop.
-
-It has been revealed that he constantly deceives foreigners coming to the shop.
-
-The suspect is due to be produced before the Kalutara Magistrate tomorrow (19).
-
-The Consumer Affairs Officer and the Moragalla Tourism Police came and questioned the shopkeeper.
-
-◼️
-
-[Data](articles/98ef025e.json)
-
-[Extended Data](ext_articles/98ef025e.ext.json)
-
----
-
-### Tidbits from this source and that
-
-*2024-04-18 20:55:00* · [`islandlk`](http://island.lk/tidbits-from-this-source-and-that/) · `en`
-
-So, the Sinhala and Tamil New Year came and went. Cassandra has used a Sri Lankan colloquial manner of pronouncing that an anticipated event was marked and ended. The high temperatures however prevail, though mercifully tempered by afternoon showers. Everyone except drug dealers and politicians were struggling against strangulating pecuniary difficulties, but of course last minutes urges to buy had to be given in to.
-
-Colombo became a deader city than it was in mid-April of recent previous years. A Sri Lankan returned on his annual vacation from foreign climes said driving around was similar to what it pleasantly was thirty years ago. Cass personally is glad the Aluth Avurudhu season is ended since her domestic returned.
-
-...
-
-[Data](articles/804c7279.json)
-
-[Extended Data](ext_articles/804c7279.ext.json)
-
----
-
-### CID arrests Sub Inspector, Sergeant over alleged links with drug traffickers
-
-*2024-04-18 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-Sub-Inspector-Sergeant-over-alleged-links-with-drug-traffickers/108-280923) · `en`
-
-Colombo, April 18 (Daily Mirror) - A Sub-Inspector from the Mawathagama police station and a Sergeant from the Doretiyawa police station, both found to have connections with drug traffickers, were arrested by the Criminal Investigation Department (CID) today.
-
-The arrests were made following instructions from the Inspector General of Police after revelations emerged during the interrogation of a suspect detained by the Mawathagama Police for drug trafficking.
-
-The arrested 56-year-old Sub-Inspector had been communicating via WhatsApp with an individual known as Dubai Sampath implicated in drug distribution in the Kurunegala area.
-
-Further investigations revealed that the 38-year-old Police Sergeant, stationed at the Omanthai Police Station but temporarily deployed at Doretiyawa, was also in contact with a detained drug trafficker.
-
-Police said these suspects will be detained by the CID for further questioning.
-
-◼️
-
-[Data](articles/e53b021b.json)
-
-[Extended Data](ext_articles/e53b021b.ext.json)
-
----
-
-### We have changed the system of the people -Minister Manusha Nanayakkara
-
-*2024-04-18 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181406) · `ta`
-
-Minister Manusha Nanayakkara announced policy changes in labor and foreign employment over the past two years, including immigration and labor laws, aiming to address public demands for systemic change.
-
-🟩
-
-People shouted to get down to the street and make a change. The Minister of Labor and Foreign Employment, Manusha Nanayakkara said that the necessary policy changes have been made in the last two years.
-
-He was speaking at a function held at the Ministry of Labor and Foreign Employment on Thursday (18).
-
-People shouted on the streets for about two years demanding a change of system. But the entire population thought it would bring about a change in this system. ஆனால்  மக்கள் அங்கு மனமாற்றத்தை எதிர்பார்க்கவில்லை. That's why we needed national policies. We wanted to prepare the project that was not changed. In the last two years, our ministry has done that program properly.
-
-We have created the immigration policy. Furthermore, the labor policy has been discussed again. Introducing the relevant policy to create a safe workshop. We also changed labor law. It was also possible to change the foreign employment bureau law and create a policy change.
-
-...
-
-[Data](articles/52c7fad7.json)
-
-[Extended Data](ext_articles/52c7fad7.ext.json)
 
 ---

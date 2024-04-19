@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 11:18:45**
+As of **2024-04-19 11:33:57**
 
 ## Newspaper Stats
 
-*Scraped **19,718** Articles*
+*Scraped **19,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,085
 economynextcom | 1,123
 adalk | 1,645
 tamilmirrorlk | 2,284
-adaderanalk | 2,360
+adaderanalk | 2,361
 virakesarilk | 2,952
 dailymirrorlk | 3,053
-adaderanasinhalalk | 3,202
+adaderanasinhalalk | 3,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,715 (100.0%) of 19,718 articles have been extended.
+19,718 (100.0%) of 19,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Election body says it cannot intervene to resolve SLFP’s infighting
+
+*2024-04-19 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98718/election-body-says-it-cannot-intervene-to-resolve-slfps-infighting) · `en`
+
+The Election Commission says it has no legal authorization to resolve the internal rifts of the Sri Lanka Freedom Party (SLFP).
+
+Members of the election body convened a meeting on Thursday (18) to study the documents submitted by the factions within the SLFP with regard to the recent changes made to the party positions and the certain decisions.
+
+When the SLFP’s politburo met on 08 April, the party’s Vice Chairman MP Nimal Siripala de Silva was appointed the new Acting President, and MP Duminda Dissanayake was selected as the General Secretary.
+
+The documents pertaining to these new appointments were handed over to the Election Commission by MP Dissanayake while the party’s Acting General Secretary Sarathi Dushmantha Mithrapala filed objections challenging them.
+
+...
+
+[Data](articles/992977f0.json)
+
+---
+
+### ස්ථාන දෙකකදී ඝාතන දෙකක්
+
+*2024-04-19 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195779) · `si`
+
+කුලී නිවසක පදිංචිව සිටි පුද්ගලයෙකුව ඊයේ (18) රාත්‍රියේ ඝාතනය කර තිබේ.
+
+ඇඹිලිපිටිය මඩුවන්වෙල ජනපද ප්‍රදේශයේ කුලී නිවසක පදිංචිව සිටි 71 හැවිරිදි පුද්ගලයෙකු මෙලෙස ඝාතනය කර ඇත.
+
+එම පුද්ගලයා අදාළ කුලී නිවසේ තනිව පදිංචිව සිටිමින් කොහු නිෂ්පාදනය කිරීමේ ව්‍යාපාරයක් පවත්වාගෙන ගොස් ඇති අතර තියුණු ආයුධයකින් පහරදී ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+මේ අතර ඊයේ (18) උදෑසන අරලගංවිල පිඹුරත්තෑව වැවේ මුල්ගල තොටුපලේ පාවෙමින් තිබූ පුද්ගල මළසිරුරක් සොයාගෙන ඇත.
+
+මරණකරු පසුගිය 17 වනදා පිඹුරත්තෑව වැවට ධීවර කටයුතු සඳහා ගොස් ඇති අතර එහිදී තවත් පුද්ගලයෙකු සහ ඔහුගේ බිරිඳ සමග මත්පැන් පානය කර ඇති බවත් එම අවස්ථාවේදී ඇතිවූ පුද්ගලික ආරවුලක් දුරදිග යෑමෙන් ඔවුන් විසින් හබලකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවටත් අනාවරණයවී ඇතැයි පොලීසිය පවසයි.
+
+ඝාතනය සම්බන්ධයෙන් 67 හැවිරිදි සැකකරු සහ 47 හැවිරිදි සැකකාරිය අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/2d52094e.json)
+
+---
 
 ### Man dies after insect bite
 
@@ -47,6 +87,8 @@ Later, the patient's condition deteriorated rapidly, resulting in his demise dur
 ◼️
 
 [Data](articles/6927ed2c.json)
+
+[Extended Data](ext_articles/6927ed2c.ext.json)
 
 ---
 
@@ -66,23 +108,31 @@ The NWSDB regrets the inconvenience caused and requests the public to collect ad
 
 [Data](articles/1ab9406f.json)
 
+[Extended Data](ext_articles/1ab9406f.ext.json)
+
 ---
 
-### ප්‍රශ්නගත ඖෂධ සිද්ධියට අදාළව තවත් පෙත්සමක්
+### Another petition in relation to the questionable drug
 
 *2024-04-19 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195778) · `si`
 
-හියුමන් ඉමියුනෝග්ලෝබියුලීන් ඇතුළු ඖෂධ වර්ග කිහිපයක් නිසි ප්‍රසම්පාදන ක්‍රියාවලියකින් තොරව මිලදී ගැනීම තුළින් මුලික අයිතිවාසිකම් උල්ලංගනය වී ඇති බවට නියෝගයක් ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය වෙත පෙත්සමක් ඉදිරිපත් කර තිබේ.
+The Supreme Court has filed a petition accusing the government of violating human rights without proper procurement. Transparency International Sri Lanka and former Health Minister Keheliya Rambukwella are named respondents. The petition seeks an inquiry into potential financial benefits and orders the Attorney General to investigate and take responsibility.
 
-ඒ අනුව ට්‍රාන්ස්පෙරන්සි ඉන්ටර්නැෂනල් ශ්‍රී ලංකා සංවිධානය විසින් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු 66 දෙනෙකු වග උත්තරකරුවන් ලෙස නම් කර ඇති බව අද දෙරණ වාර්තාකරු පැවසීය.
+🟩
 
-එම ඖෂධ මිලදි ගැනීමේ ක්‍රියාවලියේදී මුල්‍යමය හෝ වෙනත් වාසි ලබාගත් පුද්ගලයින් හඳුනාගැනීම සඳහා විමර්ශනයක් සිදුකරන ලෙස නීතිපතිවරයා වෙත නියෝගයක් නිකුත් කරන ලෙසද පෙත්කාර පාර්ශ්වය ඉල්ලා තිබේ.
+A petition filed by the Supreme Court has filed a petition to directly violated a number of huhman emiyankulables without the proper procurement process.
 
-එමෙන්ම වගකිව යුතු පාර්ශ්වයන්ගෙන් වන්දි අයකිරිමේ ක්‍රියාමාර්ග ගන්නා ලෙස නීතිපතිවරයා ලෙස නියෝගයක් නිකුත් කරන ලෙසද අදාළ පෙත්සමෙන් ඉල්ලා ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+Accordingly, the Transparency International Sri Lanka has been named as a statistic of former Health Minister Keheliya Rambukwella and 66 respondents.
+
+The petitioner has requested the Attorney General to issue an inquiry to identify financial or other advantages in the process of an investigation.
+
+The petition was also requested to issue an order as the Attorney General to take measures to take measures to take the action of the responses of responsibility.
 
 ◼️
 
 [Data](articles/234724a6.json)
+
+[Extended Data](ext_articles/234724a6.ext.json)
 
 ---
 
@@ -164,9 +214,9 @@ Stock market investors are in vain into the growing war warmth of the Middle Eas
 
 *2024-04-19 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98717/fr-cyril-gamini-arrives-at-cid) · `en`
 
-Rev. Fr. Cyril Gamini Fernando arrived at the Criminal Investigation Department (CID) premises this morning (19) to record a statement pertaining to the Easter Sunday terror attacks.
+Rev. Fr. Cyril Gamini Fernando, the Editor of the official Catholic Sinhala weekly ‘Gnanartha Pradeepaya’, arrived at the Criminal Investigation Department (CID) premises this morning (19), complying with the summons issued to him.
 
-Two days ago, the CID issued summons to the Catholic priest who is also a spokesperson of the Colombo Archdiocese.
+On Wednesday (17), the CID issued summons to the Catholic priest, who is also a spokesperson of the Colombo Archdiocese, to record a statement pertaining to the 2019 Easter Sunday terror attacks.
 
 ◼️
 
@@ -2141,51 +2191,5 @@ After being brought back to the country, the individual will be incarcerated to 
 [Data](articles/7247d8e8.json)
 
 [Extended Data](ext_articles/7247d8e8.ext.json)
-
----
-
-### Mihintale Fuzz is the labor of the public
-
-*2024-04-18 18:40:37* · [`adalk`](https://www.ada.lk/religion/මිහින්තලා-සෑයේ-තීන්ත-ආලේප-කිරීම-මහජනතාවගේ-ශ්‍රමදායකත්වයෙන්/4-409153) · `si`
-
-Mihintale Fuzz, a public labor, was held amidst terrorist threats, with the LTTE and JVP involved. The event, part of the Poson Festival, was marked by the placement of the Hendent of the Supreme Roman relics in the Mihintale Maha Section. Despite the country's challenges, including the Korea epidemic, the event was significant. The government has taken steps to address criticisms of its leadership, including the renovation of Mihindu Seya and the involvement of the Abhayagiri Community Service Foundation in Mihintale's development.
-
-🟩
-
-the LTTE. The Historical Festival, Ven. Walawa Hangunan Nawawan, Chief Incumbent of all the Poson Festival will be successfully held in the terrorists during the terrorists and the JVP.
-
-The Leaders of the Hendent of the Supreme Roman relics were being placed in the Mihintale Maha Section of the Mihintale Maha Seya, which is placed in parallel to the Genella Maha Seya.
-
-"LBT. e. During the terrorists not only during the terrorist, the Poson festivals of all aspects of the JVP not to take the Festival of Aloka Pooja.
-
-The event was in this way as the situation in the country during the Passover attack, the situation in the country was a grateful treatment of the Korea epidemic.
-
-The Constitution of the Constitution and the Chief Minister's and the Sangha Conference - Troscape has been dismissed by the Thirteals.
-
-The government has taken measures to remove the labor contribution to criticizing the mistakes carried out by the rulers of the country.
-
-...
-
-[Data](articles/29209f28.json)
-
-[Extended Data](ext_articles/29209f28.ext.json)
-
----
-
-### SL Army issues general amnesty to absentees
-
-*2024-04-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Army-issues-general-amnesty-to-absentees/108-280918) · `en`
-
-April 18 - The Ministry of Defence has directed the Sri Lanka Army to implement a month-long General Amnesty starting from April 20 to May 20, 2024 enabling all Army absentees to receive an official discharge from their service.
-
-The General Amnesty, applicable to all Officers and Other Ranks who have been Absent Without Leave (AWOL) before April 2, 2024, presents a structured process for legal discharge. Individuals falling under this category are required to report to their respective Regimental Centres during the specified period.
-
-Upon reporting, they must provide essential documents including their Army ID (or a copy of a recent police complaint report if their Army ID is not available), a copy of their national identity card or driving license, a photocopy of the bank account book reflecting salary and allowances, and if available, a photocopy of the last pay slip.
-
-...
-
-[Data](articles/5312b9a8.json)
-
-[Extended Data](ext_articles/5312b9a8.ext.json)
 
 ---

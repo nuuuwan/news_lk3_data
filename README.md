@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 13:03:24**
+As of **2024-04-19 13:18:20**
 
 ## Newspaper Stats
 
-*Scraped **19,741** Articles*
+*Scraped **19,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,128
+economynextcom | 1,129
 adalk | 1,646
-tamilmirrorlk | 2,288
+tamilmirrorlk | 2,289
 adaderanalk | 2,363
-virakesarilk | 2,957
+virakesarilk | 2,958
 dailymirrorlk | 3,056
 adaderanasinhalalk | 3,203
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 3,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,741 (100.0%) of 19,741 articles have been extended.
+19,741 (100.0%) of 19,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### கச்சா எண்ணெய், தங்கத்தின் விலை உயர்வு
+
+*2024-04-19 13:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சா-எண்ணெய்-தங்கத்தின்-விலை-உயர்வு/175-336092) · `ta`
+
+ஈரான் மீது இஸ்ரேல் ஏவுகணை தாக்குதல் நடத்தியதாக வெளியான தகவலை அடுத்து, உலக சந்தையில் எரிபொருள் மற்றும் தங்கத்தின் விலைகள் அதிகரித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இன்று (19)  காலை ஆசிய சந்தைகளில் பகச்சா எண்ணெய் பீப்பாய்க்கு 3% உயர்ந்து $90 ஆக உள்ளதுடன், தங்கம் ஒரு அவுன்ஸ் $2,400 ஆக காணப்படுகின்றது.
+
+◼️
+
+[Data](articles/138b576c.json)
+
+---
+
+### வரலாறு : கச்சதீவு யாருக்கு சொந்தம் ? 1974 ஜூன் 29இல் வெளியான வீரகேசரியில்....
+
+*2024-04-19 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181449) · `ta`
+
+கச்சத்தீவு தொடர்பில் இலங்கையிலும் இந்தியாவிலும் பல்வேறு பேச்சுக்கள் இடம்பெற்றுவருகின்றன. கச்சத்தீவு யாருக்கு சொந்தமானது என்பது பற்றிய பல்வேறு விதமான கருத்துக்கள் இன்றைய நவீன உலகில் குறிப்பாக சமூக ஊடகங்களில் வைரலாக (trending) காணப்படுகிறது.
+
+கச்சத்தீவு வைரலாவதற்கு (trending) பல காரணங்கள் பலராலும் கூறப்படுகின்றன. ஆனால், வரலாற்றை மீட்டுப் பார்க்கும்போது “கச்சதீவு இலங்கைக்குச் சொந்தமானது! 45 வருடகாலத் தகராறு தீர்ந்துவிட்டது!!” என்ற தலையங்கத்துடன் 1974ஆம் ஆண்டு ஜூன் மாதம் 29ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் இவ்வாறு உள்ளது.
+
+◼️
+
+[Data](articles/13e88475.json)
+
+---
+
+### Sri Lanka’s FitsAir begins Colombo-Dhaka flights
+
+*2024-04-19 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-fitsair-begins-colombo-dhaka-flights-159321/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private budget airline FitsAir’s first flight from Dhaka to Colombo landed at the Bandaranaike International Airport on Wednesday at 4:30 am with 120 passengers.
+
+The low-cost airline’s flight departed Hazrat Shahjalal International Airport in Dhaka on its maiden voyage on April 17 at 2:00 am, according to media reports.
+
+FitsAir will initially operate two weekly flights every Wednesday and Sunday on the Dhaka-Colombo route with Airbus A320 aircraft with 164 seat-capacity.
+
+The return flight will depart Colombo every Tuesday and Saturday at 9:30 pm and will reach Dhaka at 1:00 am.
+
+The no-frills carrier offers return fares to Bangladesh starting at 58,900 rupees.
+
+The airline plans to launch another frequency on the route in the next two months and two more by the end of the year.
+
+It currently operates direct flights to Dubai, Male and Chennai from the airline’s hub in Colombo.
+
+...
+
+[Data](articles/7f7af9fc.json)
+
+---
+
+### Officer of the Excise Department suspended work!
+
+*2024-04-19 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181446) · `ta`
+
+Excise Department work suspended due to alleged distortion of Rohana Betake's New Year's song. Commissioner Sanna Weerakkody confirms potential investigation if court verdict confirms accusation.
+
+🟩
+
+It has been reported that the work of the Excise Department has been suspended for allegedly distorting the New Year's song sung by singer Rohana Betake.
+
+The Commissioner of the Department of Excise, Sanna Weerakkody said this during a media briefing held at the Department of Excise.
+
+The media spokesman said that if the court confirms that he is accused of investigating the incident, he will be investigated.
+
+The Kiliyapitiya Magistrate's Court on Wednesday (17) was ordered to keep the man in detail for the crime of distorting the song solar mangal and posted on social networks.
+
+◼️
+
+[Data](articles/b7102edb.json)
+
+[Extended Data](ext_articles/b7102edb.ext.json)
+
+---
 
 ### How to live on Mars: Sri Lankan scientist for study
 
@@ -107,30 +183,6 @@ The suspects aged 67 and 47 have been arrested in connection with the murder.
 [Data](articles/070b3b18.json)
 
 [Extended Data](ext_articles/070b3b18.ext.json)
-
----
-
-### Officer of the Excise Department suspended work!
-
-*2024-04-19 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181446) · `ta`
-
-Excise Department work suspended due to alleged distortion of Rohana Betake's New Year's song. Commissioner Sanna Weerakkody confirms potential investigation if court verdict confirms accusation.
-
-🟩
-
-It has been reported that the work of the Excise Department has been suspended for allegedly distorting the New Year's song sung by singer Rohana Betake.
-
-The Commissioner of the Department of Excise, Sanna Weerakkody said this during a media briefing held at the Department of Excise.
-
-The media spokesman said that if the court confirms that he is accused of investigating the incident, he will be investigated.
-
-The Kiliyapitiya Magistrate's Court on Wednesday (17) was ordered to keep the man in detail for the crime of distorting the song solar mangal and posted on social networks.
-
-◼️
-
-[Data](articles/b7102edb.json)
-
-[Extended Data](ext_articles/b7102edb.ext.json)
 
 ---
 
@@ -2131,79 +2183,5 @@ She is the mother of two children. It is noteworthy that the Development Officer
 [Data](articles/d77c216b.json)
 
 [Extended Data](ext_articles/d77c216b.ext.json)
-
----
-
-### Kenya military helicopter crashes with defense chief on board
-
-*2024-04-18 22:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kenya-military-helicopter-crashes-with-defense-chief-on-board/108-280925) · `en`
-
-April 18 - (The East African) - A military helicopter carrying the head of the Kenya Defence Forces, General Francis Ogolla, has crashed in a remote area near the Ugandan border.
-
-According to the police, five occupants of the chopper died while three survived with injuries. The three injured survivors were airlifted to hospital.
-
-President William Ruto has called an urgent meeting of senior security personnel at State House, Nairobi, following the fatal crash.
-
-The National Security Council is comprised of the President, his deputy, the Defence minister, the Attorney-General, the Chief of Defence Forces, the Director-General of the National Intelligence Service, and the Inspector-General of Police.
-
-It is the highest decision making organ of the country on security matters and is mandated with, among others, exercising supervisory control over national security organs and performing other functions related to national security.
-
-◼️
-
-[Data](articles/8194ef95.json)
-
-[Extended Data](ext_articles/8194ef95.ext.json)
-
----
-
-### Sri Lanka is building youths expect - President
-
-*2024-04-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195767) · `si`
-
-President Ranil Wickremesinghe confidently expects Sri Lanka to be built by its youth, emphasizing economic stability and development in Nuwara Eliya.
-
-🟩
-
-President Ranil Wickremesinghe says that he is confident that Sri Lanka is expected to be created in Sri Lanka.
-
-President Ranil Wickremesinghe made this statement at the Presidential Media Center at Nuwara Eliya in Nuwara Eliya today (18) with young MPs in Nuwara Eliya District.
-
-The President has said that he has given the country's economy into a stable level, the President has said that he has given the country's economy into a stable.
-
-The President has pointed out that some have been ignored by the government to develop the Government of the Nuwara Eliya district as a high tourist attraction area.
-
-The President said that everyone should consult the country to develop the country, attracting the country's country.
-
-The economic stability of the country is pleased with the economic stability of the country and the economic stability of the country is the prospect of the people of all fields and the income of the people of all fields today.He said that all the people receive this benefit.
-
-...
-
-[Data](articles/acdf4c79.json)
-
-[Extended Data](ext_articles/acdf4c79.ext.json)
-
----
-
-### Suspect arrested for defrauding Belgian national over vadai and plain tea
-
-*2024-04-18 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-defrauding-Belgian-national-over-vadai-and-plain-tea/108-280924) · `en`
-
-Colombo, April 18 (Daily Mirror) - The Moragalla Tourist Police arrested a 60-year-old man who posed as a tourist guide and fraudulently obtained money from a foreign national at an eatery in Kalutara for medhu vadai and plain tea.
-
-The Moragolla Tourist Police received a complaint via email regarding this incident on Wednesday.
-
-The incident reportedly occurred on February 9, 2024. The suspect fraudulently obtained Rs. 800 from a Belgian national for vadai and plain tea purchased at the eatery. The payment for the food was made to the eatery, while the balance was kept by the suspect.
-
-The incident went viral on social media and was also covered by television news broadcasts.
-
-The suspect, a resident of Palathota in Kalutara, was arrested and handed over to the Kalutara Police.
-
-During the investigations, it was revealed that the suspect is known in the area of the eatery and has been deceiving foreigners who visit the place to obtain money.
-
-...
-
-[Data](articles/7b30cc21.json)
-
-[Extended Data](ext_articles/7b30cc21.ext.json)
 
 ---

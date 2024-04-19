@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 09:52:36**
+As of **2024-04-19 10:03:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,697 (100.0%) of 19,703 articles have been extended.
+19,703 (100.0%) of 19,703 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,63 +50,85 @@ He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a 
 
 [Data](articles/5d36d84f.json)
 
+[Extended Data](ext_articles/5d36d84f.ext.json)
+
 ---
 
-### காசல்ரீ நீர்த்தேக்கத்தில் நீராடச் சென்ற மாணவன் மாயம்
+### A student who was drowned in the Casalree reservoir
 
 *2024-04-19 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181424) · `ta`
 
-காசல்ரீ நீர்த்தேக்கத்தில் நீராடச் சென்ற 17 வயதுடைய மாணவன் நீரில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளார்.
+A 17-year-old student drowned in the Kasalree reservoir while swimming, despite security warnings. Family and officials are searching for the body.
 
-காசல்ரீ பகுதியைச் சேர்ந்த 17 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு காணாமல் போயுள்ளார்.
+🟩
 
-இந்த இளைஞர் தனது குடும்பத்தினருடன்  நேற்று வியாழக்கிழமை (18) பிற்பகல் 3.30 மணி அளவில் நீர்த்தேக்கத்தில் நீராடச் சென்ற போதே இவ்விபத்தில் சிக்கியுள்ளார்.
+A 17 -year -old student who was drowned in the Kasalree reservoir has been drowned and disappeared.
 
-காசல்ரீ நீர்த்தேக்கத்திற்கு பொறுப்பான பாதுகாப்பு உத்தியோகத்தர்கள் மற்றும் பிரதேசவாசிகள் இணைந்து மாணவனின் சடலத்தை தேடும் நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+A 17 -year -old schoolgirl from Kasalree has disappeared.
 
-பாதுகாப்பு அதிகாரிகளின் எச்சரிக்கையை பொருட்படுத்தாமல் மாணவன் நீந்திக் கொண்டிருந்த வேளையில் இந்த சம்பவம் இடம்பெற்றதாக தெரிவிக்கப்படுகிறது.
+The young man was caught up in the reservoir with his family at around 3.30 pm yesterday (18).
+
+Security officers and residents responsible for the Kasalree reservoir are working on searching for the body of the student.
+
+The incident is said to have taken place while the student was swimming, regardless of the warning of security officers.
 
 ◼️
 
 [Data](articles/d27f36f0.json)
 
+[Extended Data](ext_articles/d27f36f0.ext.json)
+
 ---
 
-### ஈரான் மீது இஸ்ரேல் ஏவுகணை தாக்குதல்
+### Israel's missile attack on Iran
 
 *2024-04-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181421) · `ta`
 
-சிரியாவில் உள்ள ஈரான் தூதரகம் தாக்கப்பட்டதற்கு பதிலடியாக, இஸ்ரேல் மீது ஏவுகணைகள், ஆளில்லா விமானங்களை கொண்டு ஈரான் தாக்குதல் நடத்தியது.
+Iran retaliated against Israel's missile attack on its embassy in Syria, leading to a missile exchange and airspace closure in Iran. Israel's response has raised concerns about potential escalation.
 
-இந்நிலையில், ஈரான் மீது ஏவுகணைகளை வீசி இஸ்ரேல் பதில் தாக்குதல் நடத்தியுள்ளதாக உள்ளூர் ஊடகங்கள் தெரிவித்துள்ளன.
+🟩
 
-ஈரானின் இஸ்பஹான் நகரில் உள்ள விமானப்படை தளத்தில் வெடிகுண்டு தாக்குதல் நடத்தப்பட்டதற்கான சத்தம் கேட்டதாக உள்ளூர் ஊடகம் ஒன்று தெரிவித்துள்ளது. இதன் காரணமாக ஈரானின் மேற்கு பகுதியில் வான்வெளி மூடப்பட்டுள்ளது. பல விமானங்கள் திருப்பிவிடப்பட்டு உள்ளன.
+In response to the attack on the Iranian embassy in Syria, Iran launched an attack on Israel with missiles and unmanned aircraft.
 
-ஈரான் மீதான இஸ்ரேலின் பதிலடி தாக்குதல் மோசமாக இருக்கும் பட்சத்தில் அது மூன்றாம் உலகப்போருக்கு வித்திடுமோ என்ற கேள்விகளை எழுப்பி உள்ளது.
+Local media reports that Israel has responded to Iran by throwing missiles on Iran.
+
+Local media reports that the noise of a bomb attack at the Air Force Base in Iran's Ispahan City. As a result of this, the airspace is closed in the western part of Iran. Many flights have been diverted.
+
+Israel's retaliation on Iran has raised questions whether it would spit the Third World War if the attack was worse.
 
 ◼️
 
 [Data](articles/475343cc.json)
 
+[Extended Data](ext_articles/475343cc.ext.json)
+
 ---
 
-### ශ්‍රීලනිප අර්බුදයට මැතිවරණ කොමිසමෙන් උත්තරයක්
+### Election Commission answers to SLFP crisis
 
 *2024-04-19 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195774) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ පවතින අභ්‍යන්තර ගැටලු විසදීමට සිය කොමිසමට කිසිදු නෛතික බලයක් නොමැති බව මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙයි.
+The Elections Commission of Sri Lanka has no legal power to resolve internal issues within the Sri Lanka Freedom Party (SLFP). Nimal Siripala de Silva was appointed as the new acting chairman of the party, but the Elections Commission has no legal authority over the party's internal matters. The commission can only accept judgments or recommendations from the judiciary.
 
-එම පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මැතිවරණ කොමිසම වෙත ලබාදුන් තීන්දු හා ලේඛන ඊයේ (18) දිනයේදී එහි සාමාජිකයින් විසින් සාකච්ඡාවට ලක්කර ඇති බව වාර්තා විය.
+🟩
 
-පසුගිය 08 වනදා පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් එහි දේශපාලන මණ්ඩලය රැස්වී පක්ෂයේ නව වැඩබලන සභාපතිවරයා ලෙස නිමල් සිරිපාල ද සිල්වා මහතා පත්කරගත් අතර මහලේකම්  ධුරයේ ක්‍රියා කිරීමට දුමින්ද දිසානායක මහතා වෙත බලය පවරා තිබුණි.
+The Elections Commission points out that there is no legal power to solve the internal problems within the Sri Lanka Freedom Party.
 
-මෙම පත්කිරීම් සම්බන්ධ තොරතුරු හා ලේඛන දුමින්ද දිසානායක මහතා විසින් මැතිවරණ කොමිසම වෙත භාරදීමෙන් අනතුරුව පක්ෂ වැඩබලන මහලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල මහතා ද නව පත් කිරීම් සම්බන්ධයෙන් කොමිසම හමුවේ විරෝධතා ගොනු කළේය.
+It was reported that the members of the UNP had discussed the judgments and documents yesterday (18).
 
-ඒ අනුව ඊයේ රැස්වූ මැතිවරණ කොමිෂන් සභාව ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ශ්ව දෙකක් විසින් ඉදිරිපත් කර ඇති කරුණු පිළිබඳ අවධානය යොමුකර තිබුණි.
+Nimal Siripala de Silva was appointed as the new acting chairman of the party under the patronage of party vice president Nimal Siripala de Silva on the 8th.
+
+After handing over the appointments and documents, Duminda Dissanayake handed over to the Elections Commission and filed the commission against the appointment of new appointments.
+
+Accordingly, the Elections Commission to meet yesterday had focused on matters of the SLFP parties.
+
+Since the election Commission has no legal authority in the Normal Legal Corporation and the Elections Commission has no legal issue in the Freedom Party, the UNP activists should be resolved through the courts by the party activists.
 
 ...
 
 [Data](articles/4847598f.json)
+
+[Extended Data](ext_articles/4847598f.ext.json)
 
 ---
 

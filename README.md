@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 00:18:28**
+As of **2024-04-20 00:34:51**
 
 ## Newspaper Stats
 
-*Scraped **19,818** Articles*
+*Scraped **19,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,270 @@ bbccomsinhala | 208
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
-dailyftlk | 1,085
+dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,648
-tamilmirrorlk | 2,291
-adaderanalk | 2,376
-virakesarilk | 2,971
-dailymirrorlk | 3,076
+tamilmirrorlk | 2,292
+adaderanalk | 2,377
+virakesarilk | 2,974
+dailymirrorlk | 3,079
 adaderanasinhalalk | 3,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,818 (100.0%) of 19,818 articles have been extended.
+19,818 (99.9%) of 19,839 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-20 (Saturday)
+
+### Distribution of fortified rice for school children begins
+
+*2024-04-20 00:14:26* · [`dailyftlk`](https://www.ft.lk/news/Distribution-of-fortified-rice-for-school-children-begins/56-760836) · `en`
+
+The distribution of fortified rice, provided by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, began yesterday at the Veyangoda warehouse complex.
+
+In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of Director General M.H.A.M. Riflan, of the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
+
+As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20). This rice stock is being delivered to schools under the supervision of officials from the respective Provincial Departments of Education and Public Health Inspectors (PHIs).
+
+...
+
+[Data](articles/e5de1166.json)
+
+---
+
+### NPP calls on Archbishop of Colombo
+
+*2024-04-20 00:13:56* · [`dailyftlk`](https://www.ft.lk/news/NPP-calls-on-Archbishop-of-Colombo/56-760835) · `en`
+
+Members of the National People’s Power (NPP) party met with Archbishop of Colombo Malcolm Cardinal Ranjith this week at his official residence to present the party’s recently issued charter which promises to deliver justice to victims of the Easter Sunday terror attacks under a NPP Government. The NPP delegation included Sunil Watagala, Upul Kumarapperuma, Harshana Nanayakkara, Krishantha Abeysena, Vijith Rohan Fernando, and Aruna Shantha Nonis.
+
+◼️
+
+[Data](articles/d38cd089.json)
+
+---
+
+### DP Education sets up free of charge IT Campus in Akurana
+
+*2024-04-20 00:13:18* · [`dailyftlk`](https://www.ft.lk/news/DP-Education-sets-up-free-of-charge-IT-Campus-in-Akurana/56-760834) · `en`
+
+SLPP MP and founder of DP Education Dhammika Perera serves kiribath to a Muslim boy at the launch of DP Education IT Campus in Akurana on Thursday. Perera also inaugurated a DP Silicon Valley IT Office, DP Education Smart Class Rooms, a digital pre-school at the Konakalagal Sri Vijitha Maha Viharaya. To date over 130 IT Campuses have been set up by DP Education countrywide providing opportunities to learn software and coding for youth free of charge, as part of Perera’s philanthropic initiative.
+
+◼️
+
+[Data](articles/a9d0da0a.json)
+
+---
+
+### Dr. A.T. Ariyaratne’s final journey today
+
+*2024-04-20 00:12:44* · [`dailyftlk`](https://www.ft.lk/news/Dr-A-T-Ariyaratne-s-final-journey-today/56-760833) · `en`
+
+The funeral of the Sarvodaya Shramadana Movement founder Dr. A.T. Ariyaratne with State honours will be held today at 4.00 p.m. at the Independence Square.
+
+His remains will lie at the Sarvodaya Headquarters, Damsak Mandira at 98, Rawatawatta Road, Moratuwa, till 12 noon today before being taken to the Independence square.
+
+Ariyaratne passed away on Tuesday after a brief illness at a private hospital. He was 92 years old at the time of his death.
+
+◼️
+
+[Data](articles/bb29fac3.json)
+
+---
+
+### சிறுமியின் மரணத்திற்கு நீதி கோரி ஆர்ப்பாட்டம்
+
+*2024-04-20 00:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியின்-மரணத்திற்கு-நீதி-கோரி-ஆர்ப்பாட்டம்/175-336107) · `ta`
+
+அண்மையில் வவுனியாவில் உயிரிழந்த சிறுமியின் மரணத்திற்கு நீதி கோரி நேற்றுத் தரணிக்குளம் கிராம மக்கள் ஈச்சங்குளம் பொலிஸ் நிலையத்தை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+கடந்த 17 ஆம் திகதி தரணிக்குளம் கிராமத்தில் வீட்டில்  தூக்கில் தொங்கிய நிலையில் 17 வயதுடைய சிறுமியின் சடலம் மீட்கப்பட்டிருந்தது.
+
+நேற்றைய தினம் இறுதி கிரியைகள் இடம்பெற இருந்த வேளை சிறுமியின் இறப்பில் சந்தேகம் இருப்பதாகத் தெரிவித்து சிறுமியின் வீட்டிற்கு முன்பாக கிராம மக்கள் மற்றும் உறவினர்கள் ஆர்ப்பாட்டம் ஒன்றை முன்னெடுத்தனர்.
+
+அத்தோடு குறித்த சிறுமியின் மரணத்திற்கு சிறிய தந்தையாரே காரணம் எனவும் தெரிவித்து போராட்டம் ஒன்றை முன்னெடுத்தமையுடன் மரணித்த சிறுமியின் வீட்டில் இருந்து பேரணியாக ஈச்சங்குளம் பொலிஸ் நிலையத்திற்கு சென்று பொலிஸ் நிலையத்தையும் முற்றுகையிட்டமையுடன் வீதியை மறித்தும் ஆர்ப்பாட்டத்திலும் ஈடுபட்டனர். (a)
+
+◼️
+
+[Data](articles/2f137643.json)
+
+---
+
+### பாலித தெவப்பெருமவின் பூத உடல் நல்லடக்கம்
+
+*2024-04-20 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
+
+மறைந்த முன்னாள் இராஜாங்க அமைச்சர் பாலித தெவப்பெருமவின் பூத உடல் மத்துகம யட்டதொலவத்தையில் இன்று வெள்ளிக்கிழமை நல்லடக்கம் செய்யப்பட்டது.
+
+அன்னாரின் பூத உடல் மத்துகம யட்டதொலவத்தையில் அவரது இல்லத்தில் பொதுமக்கள் அஞ்சலிக்காக வைக்கப்பட்டிருந்தது.
+
+இதன்போது, அன்னாரின் பூத உடலுக்கு எதிர்கட்சித் தலைவர் சஜித் பிரமேதாஸ,முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ,  இலங்கை தமிழரசு கட்சியின் பாராளுமன்ற உறுப்பினர், தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன் உள்ளிட்ட அரசியல் முக்கியஸ்தர்கள் அஞ்சலி செலுத்தினர்.
+
+பாலித தெவரப்பெரும உயிருடன் இருக்கும் போது தாமே தயாரித்த கல்லறையில் அவரது உடல் அடக்கம் செய்யப்பட்டது.
+
+பாலித தெவப்பெரும மத்துகமையிலுள்ள அவரது தோட்டமொன்றில் மின்சாரத் தாக்குதலுக்குள்ளாகி செவ்வாய்க்கிழமை (16)உயிரிழந்தார். அவர் சமூக சேவைக்கு முன்னுரிமை வழங்கும் நபராக காணப்பட்டார்.
+
+◼️
+
+[Data](articles/78d844d7.json)
+
+---
+
+### A debate on a debate between Presidential candidates
+
+*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-debate-on-a-debate-between-Presidential-candidates/172-281012) · `en`
+
+On the other hand, the NPP leaders are very keen on a debate between  their leader and the SJB leader rather than a debate between the  Economic Committees of the two parties, obviously with an air of  self-assurance over the outcome of such a debate.
+
+Although their  contention to justify a showdown between the Presidential candidates of  the two parties seems to be logical, a veiled hesitancy on their part in  meeting the SJB Economic Committee could also be sensed.
+
+Despite the Samagi Jana Balawegaya (SJB) and the Jathika Jana Balawegaya (National People’s Power –NPP) having been throwing challenges at each other for a debate over the economic recovery of the country, they seem to have their apprehensions as well in meeting the challenge.
+
+...
+
+[Data](articles/387a5be3.json)
+
+---
+
+### Female workers who keep economy running
+
+*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Female-workers-who-keep-economy-running/172-281011) · `en`
+
+In April 2022 our country was declared bankrupt. We were unable to import basic needs such as food, fuel, cooking gas, medicines and other necessities. A sudden ban on the import of petroleum-based fertiliser nearly killed some of our main export crops such as tea, rubber and coconut. Soon shop shelves ran empty. Long queues formed around fuel depots. Amid the turmoil, the executive president fled the country.
+
+A situation of anarchy was eased with the election of President Wickremesinghe to the presidency by Parliament. Wickremesinghe was able to steady the ship and prevent the country from sliding into anarchy.
+
+Today, for the first time in three years gross official reserves crossed the US$4 billion mark at end of December 2023.
+
+...
+
+[Data](articles/8d9d0651.json)
+
+---
+
+### Ranil Wickremesinghe caravan moves on despite barking dogs
+
+*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ranil-Wickremesinghe-caravan-moves-on-despite-barking-dogs/172-281020) · `en`
+
+Ranil perceives himself as a unique selling proposition in a Presidential election campaign
+
+Ranil has been able to achieve this with the support and solidarity of  his Government. Most ministers and state ministers in this Government  were appointed by President Gotabaya. President Wickremesinghe has not  intervened too much with the set-uphe inherited
+
+He has been content to  work with what he had or got. Ranil’s ministers and state ministers  consist of MPs from the SLPP, SJB,  SLPP, CWC, EPDP and TMVP. He has  been able to get the best out ofthis assorted group
+
+Furthermore  Ranil’s stock has been rising within the people. As stated  earlier, it is only Ranil Wickremesinghe who has a working plan to  uplift Sri Lanka from the deep economic morass it has sunk into and lead  Lanka on the road to economic recovery. He has been doing this  effectively from the time he took over the reins of power
+
+...
+
+[Data](articles/b12d67c1.json)
+
+---
+
 ### 2024-04-19 (Friday)
+
+### சென்னை சுப்பர் கிங்ஸை வீழ்த்தியது லக்னோவ் சுப்பர் ஜயன்ட்ஸ்
+
+*2024-04-19 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181486) · `ta`
+
+லக்னோவ் எக்கானா கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 34ஆவது போட்டியில் நடப்பு சம்பியன் சென்னை சுப்பர் கிங்ஸை 8 விக்கெட்களால் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் வெற்றிகொண்டது.
+
+க்ருணல் பாண்டியாவின் துல்லியமான பந்துவீச்சு, அணித் தலைவர் கே. எல். ராகுல், குவின்டன் டி கொக் ஆகியோரின் அரைச் சதங்கள் என்பன லக்னோவுக்கு 4ஆவது வெற்றியை ஈட்டிக்கொடுத்தது.
+
+ஆனால் அணிகள் நிலையில் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் தொடர்ந்தும் 6ஆவது இடத்தில் இருக்கிறது.
+
+அப் போட்டியில் சென்னை சுப்பர் கிங்ஸினால் நிர்ணயிக்கப்பட்ட 177 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 19 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+
+குவின்ட்ன் டி கொக், கே. எல். ராகுல் ஆகிய இருவரும் 15 ஓவர்களில் 134 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+அவர் 53 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 82 ஓட்டங்களைக் குவித்தார்.
+
+...
+
+[Data](articles/d347aad0.json)
+
+---
+
+### துன்பப்படும் மக்களுக்கு பக்கபலத்தை வழங்கிய சிறந்ததொரு ஆளுமையை எமது நாடு இழந்துள்ளது - சஜித் பிரேமதாச
+
+*2024-04-19 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181485) · `ta`
+
+சர்வோதயா சமூக மேம்பாட்டு சமூக நலத் திட்டத்தின் ஸ்தாபகர் ஏ.டி.அரியரத்ன திடீர் மரணம் எமக்கு வருத்தமளிக்கிறது. துன்புறும் அப்பாவி மக்களுக்கு சமூக ரீதியாக பக்க பலத்தை வழங்கும் திட்டத்தில் தனித்துவம் வாய்ந்த தூய பணியை ஆற்றிய ஒரு உன்னத மனிதரின் மறைவு நாட்டிற்கு மிகப்பெரிய இழப்பாகும். அவரது ஆத்மா சாந்தியடையப் பிரார்த்திப்பதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+மறைந்த சர்வோதய ஸ்தாபகர் ஏ. டி. ஆரியரத்னவின் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்த சென்ற வேளையிலையே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/4dafaca6.json)
+
+---
+
+### Aitken Spence Hotels: Top 5 in LMD’s Most Awarded Hall of Fame, leading hospitality sector
+
+*2024-04-19 23:40:41* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Hotels-Top-5-in-LMD-s-Most-Awarded-Hall-of-Fame-leading-hospitality-sector/34-760831) · `en`
+
+Aitken Spence Hotels has once again ranked among the top companies in LMD’s Most Awarded Hall of Fame, solidifying its position as one of the most distinguished entities in Sri Lanka.
+
+Garnering an impressive tally of 52 awards throughout 2023, the company secured the first place in hospitality sector and fourth place among the nation’s most honoured establishments. These awards have showcased the company’s prowess in service, culinary and product excellence.
+
+With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken Spence Hotels boasts a portfolio of 17 properties under its brands: Heritance, Adaaran, and Turyaa. This geographical diversity underscores the company’s commitment to sustainable hospitality across diverse cultures and landscapes.
+
+...
+
+[Data](articles/b422e653.json)
+
+---
+
+### HVA Foods strengthens leadership team
+
+*2024-04-19 23:40:07* · [`dailyftlk`](https://www.ft.lk/business/HVA-Foods-strengthens-leadership-team/34-760830) · `en`
+
+HVA Foods PLC, a member of the George Steuart Group, has announced two additions to its Board of Directors.
+
+Graham Stork has taken up duties as Director and Chief Executive Officer, while Samantha Ranatunga has taken up duties as Independent Non-Executive Director and Chairman.
+
+Heladiv is HVA Foods PLC’s globally renowned flagship brand, registered in over 40 countries. HVA Foods PLC is a dynamic subsidiary within the George Steuart conglomerate, which was founded by local entrepreneur and tea professional Rohan Fernando. Both, Samantha Ranatunga and Graham Stork who are leading professionals, with proven expertise in their respective fields, are dedicated to propelling Heladiv and HVA Foods PLC to new heights.
+
+...
+
+[Data](articles/695cefe6.json)
+
+---
+
+### Seylan Credit Cards partners British Council to offer 0% instalment plans for IELTS and other courses
+
+*2024-04-19 23:39:02* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Credit-Cards-partners-British-Council-to-offer-0-instalment-plans-for-IELTS-and-other-courses/34-760829) · `en`
+
+Seylan Cards is reaffirming its dedication to empowering customers through education by announcing its partnership with the British Council.
+
+Seylan Cards has introduced exclusive 0% instalment plans for 12 months, specifically tailored for IELTS and other educational courses provided by the British Council. This initiative aims to facilitate access to quality education for individuals seeking to enhance their skills and opportunities.
+
+This initiative underscores Seylan Bank’s dedication to supporting the aspirations of the youth and facilitating access to quality education. This offer extends to a maximum conversion of Rs. 1 million and is valid for all courses conducted by the British Council until 31 December.
+
+...
+
+[Data](articles/8826a51f.json)
+
+---
+
+### Hayleys Solar introduces solar hot water systems
+
+*2024-04-19 23:38:26* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-introduces-solar-hot-water-systems/34-760828) · `en`
+
+Hayleys Solar, the pioneering force in Sri Lanka’s solar energy landscape, has unveiled Solar Powered Water Heaters to the local market.
+
+Commenting on the launch, Hayleys Fentons Managing Director Hasith Prematillake states, “We aim to make renewable energy solutions accessible but also rewarding for every Sri Lankan household. With this product offering, we will continue to develop the hot water systems market by offering energy-efficient solutions that leverage the power of the sun.”
+
+The Solar Powered Water Heaters, available in both Pressure and Non-Pressure variants, are a step towards eco-conscious living. These systems come in various tank capacities—100L, 150L, 200L, and 300L—tailored to suit diverse household needs. Crafted with a durable stainless-steel tank and equipped with higher efficiency vacuum tubes that can consecutively retain heat for up to three days.
+
+...
+
+[Data](articles/1ee7924a.json)
+
+---
 
 ### Fortified rice distribution begins to provide nutritious meals to schoolchildren
 
@@ -47,6 +293,86 @@ As planned, the distribution of 735 metric tons of rice to provincial-level scho
 [Data](articles/e9767e8b.json)
 
 [Extended Data](ext_articles/e9767e8b.ext.json)
+
+---
+
+### Energy is people’s property; time to claim our share
+
+*2024-04-19 23:25:22* · [`dailyftlk`](https://www.ft.lk/columns/Energy-is-people-s-property-time-to-claim-our-share/4-760822) · `en`
+
+If I made this statement even a few short years ago, I would have been labelled insane.  The ground reality at that time would have clearly supported that view, at least to the extent of our claiming our share.  But much has changed in those years, particularly for Sri Lanka, when no one would now dare claim that any fossil fuel-based energy generation, the playing field of a chosen few, is cheaper than renewable energy. This most encouraging change has much more far-reaching implications, in that the basic resources available are natural renewable resources such as sunshine, wind, water on one hand and no one can claim ownership of these resources and the technologies of converting these to electricity are now economically feasible at much smaller scale. Of particular interest are the solar energy technologies, which has now made it possible for electricity consumers to become “Prosumers”.
+
+...
+
+[Data](articles/b4609abf.json)
+
+---
+
+### Smart finance solutions: Leveraging AI for climate finance and risk management
+
+*2024-04-19 23:16:55* · [`dailyftlk`](https://www.ft.lk/columns/Smart-finance-solutions-Leveraging-AI-for-climate-finance-and-risk-management/4-760819) · `en`
+
+Artificial intelligence (AI) can contribute to finding innovative solutions for climate finance,
+
+Artificial intelligence (AI) can contribute to finding innovative solutions for climate finance, climate risk management, and insurance and enable the development of transformative financial instruments and tools. As the technology progresses, there are emerging use cases for AI to enhance climate finance in terms of speed, efficiency, transparency, and equity. However, the potential role of AI for finance and risk management is complex and not without challenges, which need to be carefully considered before any large-scale implementation or the introduction of innovative applications.
+
+...
+
+[Data](articles/f9abd6c6.json)
+
+---
+
+### The 2019 Easter Tragedy: The 5th year of callousness
+
+*2024-04-19 23:14:39* · [`dailyftlk`](https://www.ft.lk/columns/The-2019-Easter-Tragedy-The-5th-year-of-callousness/4-760818) · `en`
+
+The People in Sri Lanka continue to be deeply unhappy and distraught in terms of investigations into the worst act of terrorism in contemporary times in Sri Lanka. The Easter Bombings 2019.
+
+Five years is upon us this Easter and the nation sadly is none the wiser.
+
+Meanwhile the suffering of those who were maimed and injured in varying degrees, has continued unabated.
+
+A book by the former President also alludes to disagreements and disillusionment amongst senior military officials in other matters, begging the question if this disillusionment is a manufactured version to create space between these officials and their one time colleague and Boss.
+
+The President at the time of the Easter Tragedy has awoken from a presumably manufactured slumber and has claimed to have knowledge of the Mastermind/s behind this attack which is beyond sinister. His shameful attempt to make light of this very tragic tragedy is not only shameful but reaches to new depths of depravity.
+
+...
+
+[Data](articles/bc546620.json)
+
+---
+
+### Go East(er)! – A look back to 21/4 and hearkening at what lies ahead
+
+*2024-04-19 23:05:01* · [`dailyftlk`](https://www.ft.lk/columns/Go-East-er-A-look-back-to-21-4-and-hearkening-at-what-lies-ahead/4-760810) · `en`
+
+As April showed this year, Easter – together with Eid and Aluth Avurudu – can be entertained in ecumenical hearts,
+
+without breaching the undivided peace that prevailed in the hearts of most people of an island race keen to live in harmony
+
+Sri Lanka is no stranger to hostiles with big black backpacks brimming with explosives, literally and metaphorically.
+
+A protracted conflict between insular tribes, stoked by ethno-nationalism and egged on by war profiteers, taught us to expect sudden or strategic violence in public places and contested spaces.
+
+The tsunami of 2004 took a sleeping island by surprise in their homes. But being used to ‘nature red in tooth and claw’, the wound was more readily assimilated than death blows delivered by neighbours in 1983.
+
+That, and humanity’s inhumanity to humankind, combined to make the Easter Sunday bombings of April 2019 arguably the single explosive event with the farthest-reaching ramifications of our times.
+
+...
+
+[Data](articles/ab8f2ac9.json)
+
+---
+
+### Paris – A Moveable Feast
+
+*2024-04-19 23:02:38* · [`dailyftlk`](https://www.ft.lk/columns/Paris-A-Moveable-Feast/4-760809) · `en`
+
+One of the most enchanting books I have read in recent times has to be “A Moveable Feast” by the celebrated American writer Ernest Hemingway (1899-1961). The book eludes easy categorisation, although it could be broadly considered a memoire of a period of his early life, when he lived in Paris (from 1921 to 1926). Hemingway had kept notes of his Paris days, getting down to writing A Movable Feast only in the last years of his life, in 1957 to be exact.
+
+...
+
+[Data](articles/a9cf9348.json)
 
 ---
 
@@ -177,6 +503,24 @@ Members and their guests will be welcome to the Sports Centre of the Hilton to b
 [Data](articles/b804e72a.json)
 
 [Extended Data](ext_articles/b804e72a.ext.json)
+
+---
+
+### Four including naval officers nabbed with ‘Ice’ worth Rs. 7.5mn
+
+*2024-04-19 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98732/four-including-naval-officers-nabbed-with-ice-worth-rs-75mn) · `en`
+
+Four individuals, including naval officers, have been arrested while in possession of crystal methamphetamine (‘Ice’).
+
+The officers of Mulleriyawa Police made the arrest on Friday (19).
+
+Accordingly, 510 grams of ‘Ice’, estimated to be worth Rs. 7.5 million, was found on the suspects at the time of the arrest.
+
+Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
+
+◼️
+
+[Data](articles/2fe769d2.json)
 
 ---
 
@@ -1785,501 +2129,5 @@ In the petition, the TISL sought the court’s intervention to declare that impo
 [Data](articles/5e83790d.json)
 
 [Extended Data](ext_articles/5e83790d.ext.json)
-
----
-
-### Two arrested with over 1,000 narcotic pills
-
-*2024-04-19 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-with-over-1-000-narcotic-pills/108-280974) · `en`
-
-Pulmudai, April 19 (Daily Mirror)- Two individuals were arrested with some 1,229 narcotic pills in their possession at Pulmudai last morning, Police said.
-
-They were arrested during a joint raid conducted by the Pulmudai police and STF personnel.
-
-◼️
-
-[Data](articles/9cd1a5bb.json)
-
-[Extended Data](ext_articles/9cd1a5bb.ext.json)
-
----
-
-### Mother Bhupathi tributes
-
-*2024-04-19 11:47:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தியாகதீபம்-அன்னை-பூபதிக்கு-அஞ்சலி/73-336090) · `ta`
-
-To honor the 36th anniversary of Mother Bhupathi's hunger strike, the Batticaloa-Kaluwanchikudi area paid tribute to her portrait. This event, organized by the Tamil National People's Front Party, marks the 36th anniversary of her hunger strike, which began on March 19, 1988, and ended on April 19, 1988.
-
-🟩
-
-In honor of the 36th anniversary of the 36th anniversary of the 36th anniversary of the hunger strike from the hunger strike in Batticaloa, the Batticaloa -Kaluwanchikudi area arrived yesterday evening.
-
-In the meantime, the people of the area fired and paid tribute to the portrait of Mother Bhupathi.
-
-Jaffna for the past few days. A tribute was paid by the people of the area as the portrait of the mother, which was started from the district, was traveling across the North and East.
-
-This Bhavani is being organized by the Tamil National People's Front Party.
-
-He began a hunger strike on March 19, 1988, in front of the Mamangeeswarar Temple in Batticaloa, and died on April 19.
-
-◼️
-
-[Data](articles/d3167fad.json)
-
-[Extended Data](ext_articles/d3167fad.ext.json)
-
----
-
-### India's 18th parliamentary election
-
-*2024-04-19 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181436) · `ta`
-
-India's 18th parliamentary election, scheduled from April 19 to June 1, 2024, will elect a new government. The BJP-led NDA's term ends on June 16. Elections are in seven phases, with Tamil Nadu and Puducherry in the first phase.
-
-🟩
-
-Elections to elect India's 18th Parliament will be held from April 19.
-
-In the world's largest democratic country, in India, a parliamentary election will be held every five years and the new government will be elected.
-
-Voting for the 18th parliamentary election begins on April 19, 2024 and ends on June 1st.
-
-The BJP is currently in power. The term of office of the National Democratic Alliance (NDA) headed by the leadership ends on June 16 this year.
-
-You have to elect a new parliament within it. The announcement of the selection of a new parliament was issued by the Indian Elections Commission on March 16 this year.
-
-Accordingly, these elections take place in seven phases. Elections will be held on April 19, 89 constituencies on April 19, 89 on April 26, 94 constituencies on May 13, 49 constituencies on May 20, 57 on May 25 and 57 constituencies.
-
-...
-
-[Data](articles/36e8daa0.json)
-
-[Extended Data](ext_articles/36e8daa0.ext.json)
-
----
-
-### Plan to develop Kadugannawa as a tourist destination
-
-*2024-04-19 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181441) · `ta`
-
-The Central Provincial Tourism Department plans to develop Kadugannawa, a key entry point to the Central Province, into a tourist destination. Key attractions include a task tower, hostels, the Kadugannu Railway Museum, and a Tourism Storage Complex. The initiative aims to transform the village into a hospitality hub. Central Province Chief Secretary Ajith Prema Singh led a discussion on the project, attended by officials and representatives from government and private sectors.
-
-🟩
-
-The Central Provincial Tourism Department is planning to develop the city and the surrounding areas of Kaduganna, which is the main entrance of the Central Province.
-
-Under this, Kadukannanna is a task tower, a hostel, a hostel, the Kadukannu Railway Museum and the Tourism Storage Complex as tourist attractions and the development of the village as a hospitality village.
-
-Central Province Chief Secretary Ajith Prema Singh observed the place and held a special discussion with the Central Provincial Tourism Department officials on Friday (19).
-
-Menaka Herath, Secretary to the Ministry of Chief and Education of the Central Province, Central Provincial Tourism Director Inodani Thambavitta and officials of government and private institutions and a team from Kashwavatta Hospitality village were also present.
-
-◼️
-
-[Data](articles/713cad20.json)
-
-[Extended Data](ext_articles/713cad20.ext.json)
-
----
-
-### Chamari Athapaththu sets big goal for T20 World Cup
-
-*2024-04-19 11:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamari-Athapaththu-sets-big-goal-for-T20-World-Cup/108-280968) · `en`
-
-(ICC) - After record knock in Potchefstroom, Sri Lankan captain reveals ambitions for the ICC Women's T20 World Cup 2024
-
-Fresh off a stunning 195* that powered her team to the highest successful run-chase in women's ODIs, Sri Lanka captain Chamari Athapaththu has set high expectations for her team at the ICC Women's T20 World Cup 2024.
-
-Sri Lanka have a hurdle before they reach Bangladesh for the mega event – they will play the ICC Women's T20 World Cup Qualifier in UAE beginning April 25, and will need to be one of the finalists to qualify for the main event.
-
-However, that isn't stopping Athpaththu from aiming high. "I want to see my team in the semi-finals of the World Cup," she said after her brilliant knock in a series-levelling win against South Africa.
-
-Athapaththu, who had already led the team to a historic T20I series win in South Africa as Sri Lanka warmed up for the Qualifiers in UAE, has ticked off several personal and team milestones in recent years.
-
-...
-
-[Data](articles/50b8849b.json)
-
-[Extended Data](ext_articles/50b8849b.ext.json)
-
----
-
-### No authority to solve the interior
-
-*2024-04-19 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உட்பூசலை-தீர்க்க-அதிகாரம்-இல்லை/175-336088) · `ta`
-
-The Elections Commission has no authority to resolve issues within the Sri Lanka Freedom Party, despite discussing resolutions and documents provided by the SLFP's Political Committee.
-
-🟩
-
-The Elections Commission has said that its Commission has no authority to solve the problems within the Sri Lanka Freedom Party.
-
-The Commission said it was discussed by its members regarding the resolutions and documents given to the Election Commission by the Political Committee of the SLFP.
-
-◼️
-
-[Data](articles/bac8081f.json)
-
-[Extended Data](ext_articles/bac8081f.ext.json)
-
----
-
-### British children should be given the same defense to Sri Lankan Tamil children in DiegoCorcia - Court
-
-*2024-04-19 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181439) · `ta`
-
-The British High Court has ruled that Sri Lankan Tamil children in Diego Garcia are entitled to the same protections as British children, rejecting arguments that the British Children's Act does not apply to them.
-
-🟩
-
-The British High Court has ordered that five Sri Lankan Tamil boys in Diego Garcia in Britain have been protected from evil as British children.
-
-The court has ruled on behalf of Sri Lankan Tamils ​​and children on the island of Tiocarcia, the main security arrangements for the British Children's Act are appropriate for Sri Lankan Tamil children on the island of Diego Garcia.
-
-Judge Markrat Obi has rejected the argument made by the lawyers of the Diocorcia Island, the Commissioner of Diocorcia, that the British Children's Law of Britain is not responsible for the Sri Lankan Tamil children in Diocarcia.
-
-Britain's law is valid due to lack of special local law
-
-Sri Lankan Tamil migrants arrived in Diacarcia Island on 2021.
-
-The United Nations High Commission for Refugees has said that asylum seekers are under the control of the British government.
-
-◼️
-
-[Data](articles/a426cf90.json)
-
-[Extended Data](ext_articles/a426cf90.ext.json)
-
----
-
-### Arrested for selling the rod for Rs.
-
-*2024-04-19 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடையை-ரூ-800க்கு-விற்றவர்-கைது/175-336087) · `ta`
-
-A foreign tourist was arrested for selling blackberries and tea for Rs 800, with the suspect to appear in court today. An Otto driver from Kalutara was arrested for selling an umbrella and tea for Rs 1,000, accused of deceiving consumers.
-
-🟩
-
-A foreign tourist has been arrested for selling blackberries and tea for Rs 800.
-
-The suspect is to be produced before the Kalutara Magistrate's Court today (19).
-
-The suspect was sought to sell the umbrella and tea for the foreign tourist for Rs 1,000.
-
-The suspect has received Rs.
-
-Subsequently, the person who sold the rod for the highest price was arrested yesterday and the Consumer Affairs Authority (CAA) said that he was an Otto driver from Kalutara.
-
-The Consumer Affairs Authority has filed a case against him under allegations such as the lack of material prices, the deceit, and the deception of consumers.
-
-Meanwhile, a person who tried to sell a masonry for a foreign tourist for Rs 2,000 was arrested yesterday.
-
-◼️
-
-[Data](articles/da62e304.json)
-
-[Extended Data](ext_articles/da62e304.ext.json)
-
----
-
-### Canadian support for women entrepreneurs in Sri Lanka’s north
-
-*2024-04-19 11:30:00* · [`economynextcom`](https://economynext.com/canadian-support-for-women-entrepreneurs-in-sri-lankas-north-159248/) · `en`
-
-ECONOMYNEXT – Inclusive growth cannot be achieved without the full participation of women, Linda Ehrichs, Charge’ d’ Affaires of the High Commission of Canada has said.
-
-“Inclusive growth and lasting change cannot be achieved without the full and equal participation of women as economic actors in the entrepreneurial ecosystem,” Ehrichs said at the World University Service of Canada (WUSC) GRIT event.
-
-The GRIT (Growth, Resilience, Investment and Training) program aims to nurture a gender responsive entrepreneurial ecosystem in the North of Sri Lanka over a six-year period.
-
-“Building on the long-standing relationship between Canada and Sri Lanka, Canada’s support for the GRIT project continues to advance empowerment of women towards economic growth that works for everyone.”
-
-WUSC held its first entrepreneurial ecosystem convening and knowledge sharing events on the 27th of February 2024 in Colombo and 14th of March in Jaffna.
-
-...
-
-[Data](articles/a4a4a805.json)
-
-[Extended Data](ext_articles/a4a4a805.ext.json)
-
----
-
-### Election body says it cannot intervene to resolve SLFP’s infighting
-
-*2024-04-19 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98718/election-body-says-it-cannot-intervene-to-resolve-slfps-infighting) · `en`
-
-The Election Commission says it has no legal authorization to intervene to resolve the internal rifts of the Sri Lanka Freedom Party (SLFP).
-
-Members of the election body convened a meeting on Thursday (18) to study the documents submitted by the factions within the SLFP with regard to the recent changes made to the party positions.
-
-When the SLFP’s politburo met on 08 April under the patronage of former President Chandrika Bandaranaike Kumaratunga, the party’s incumbent Vice Chairman MP Nimal Siripala de Silva was appointed the new Acting President, and MP Duminda Dissanayake was selected as the General Secretary.
-
-These appointments came days after the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLPF chairman, following a complaint filed by Kumaratunga. This court order was later extended until 09 May.
-
-...
-
-[Data](articles/992977f0.json)
-
-[Extended Data](ext_articles/992977f0.ext.json)
-
----
-
-### Two murders in two places
-
-*2024-04-19 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195779) · `si`
-
-Two murders: a 71-year-old man in Kaduwanawela and a 67-year-old fisherman in Aralaganwila, both linked to a 47-year-old suspect.
-
-🟩
-
-A resident of a rented house has been murdered yesterday (18).
-
-A 71-year-old man who was resident of a rented house in the Kaduwanawela colony in the Embilipitiyawela area.
-
-The man has been living alone in the rental home and operated the business of coir and murdered with a sharp object.
-
-Meanwhile, a dead body was found at Aralaganwila tank yesterday morning (18).
-
-The victim has gone to fisherman on the 17th and have been drinking with another person and his wife, police said.
-
-The 67-year-old suspect and 47 year old suspect have been arrested in connection with the murder.
-
-◼️
-
-[Data](articles/2d52094e.json)
-
-[Extended Data](ext_articles/2d52094e.ext.json)
-
----
-
-### Man dies after insect bite
-
-*2024-04-19 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-dies-after-insect-bite/108-280967) · `en`
-
-Jaffna, April 19 (Daily Mirror)- A 52-year-old man in Jaffna city died after succumbing to an illness caused by an insect bite, as reported by hospital sources.
-
-The victim was stung below the ear, leading to severe pain and subsequent admission to Jaffna Teaching Hospital on the same day, they said.
-
-Despite acknowledging the insect bite, the patient was unable to identify the specific type of insect.
-
-Later, the patient's condition deteriorated rapidly, resulting in his demise during treatment yesterday.
-
-◼️
-
-[Data](articles/6927ed2c.json)
-
-[Extended Data](ext_articles/6927ed2c.ext.json)
-
----
-
-### Who killed him after drinking with his wife and another?
-
-*2024-04-19 11:03:55* · [`adalk`](https://www.ada.lk/breaking_news/බිරිය-හා-තවත්-අයෙක්-සමග-මත්පැන්-බීමෙන්-පසු-ඔහුව-ඝාතනය-කලේ-කවුද--/11-409161) · `si`
-
-A 67-year-old and a 47-year-old were arrested for the murder of a man found floating in Aralaganwila, identified as a fisherman. The suspects were involved in a personal dispute with the victim's wife.
-
-🟩
-
-Aralaganwila police states that a dead body of a floating body in the Welaganwila, Aralaganwila.
-
-The deceased has gone to the fishermen on the 17th and has been identified as another person and the wife of the person has been identified as a personal dispute.
-
-The 67 year old suspect and the age of 47 years have been arrested.
-
-◼️
-
-[Data](articles/e52fa95f.json)
-
-[Extended Data](ext_articles/e52fa95f.ext.json)
-
----
-
-### 12-hour water cut in Gampaha Municipality area
-
-*2024-04-19 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-hour-water-cut-in-Gampaha-Municipality-area/108-280966) · `en`
-
-Gampaha, April 19 (Daily Mirror)- Water supply will be interrupted for 12 hours from Wednesday (24) at 8.30 a.m. in Gampaha due to an emergency repair of the electricity subgrid in Sapugaskanda, the National Water Supply and Drainage Board (NWS&DB) said.
-
-They said due to the emergency repair, the water supply to the Biyagama water refinery unit will be suspended.
-
-Hence, the water supply will be interrupted in the Peliyagoda, Ja-Ela, Katunayaka Seeduwa Municipality areas, Kelaniya, Wattala, Biyagama, Mahara, Dompe, Katana, Munuwangoda and Gampaha Municipality areas
-
-The NWSDB regrets the inconvenience caused and requests the public to collect adequate water in advance.
-
-◼️
-
-[Data](articles/1ab9406f.json)
-
-[Extended Data](ext_articles/1ab9406f.ext.json)
-
----
-
-### Another petition in relation to the questionable drug
-
-*2024-04-19 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195778) · `si`
-
-The Supreme Court has filed a petition accusing the government of violating human rights without proper procurement. Transparency International Sri Lanka and former Health Minister Keheliya Rambukwella are named respondents. The petition seeks an inquiry into potential financial benefits and orders the Attorney General to investigate and take responsibility.
-
-🟩
-
-A petition filed by the Supreme Court has filed a petition to directly violated a number of huhman emiyankulables without the proper procurement process.
-
-Accordingly, the Transparency International Sri Lanka has been named as a statistic of former Health Minister Keheliya Rambukwella and 66 respondents.
-
-The petitioner has requested the Attorney General to issue an inquiry to identify financial or other advantages in the process of an investigation.
-
-The petition was also requested to issue an order as the Attorney General to take measures to take measures to take the action of the responses of responsibility.
-
-◼️
-
-[Data](articles/234724a6.json)
-
-[Extended Data](ext_articles/234724a6.ext.json)
-
----
-
-### The possibility of thunderstorms
-
-*2024-04-19 10:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யக்-கூடிய-சாத்தியம்/175-336085) · `ta`
-
-Thunderstorms and rain likely in Western, Sabaragamuwa, and Galle districts after 2 pm. Afternoon/night rain or storms in North Central, Central, North Western, and Mannar. Morning snowfall expected in Western, Sabaragamuwa, and Central Provinces. Thundershowers possible. Take precautions against lightning.
-
-🟩
-
-Rainfall or thunderstorms are likely to occur in several places in the Western and Sabaragamuwa Provinces and Galle and Matara districts after 2.00 pm.
-
-In some places in the North Central, Central and North Western provinces and Mannar district, there is a possibility of rain or thunderstorms in the afternoon or at night.
-
-In the morning, in some places in the Western, Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.
-
-Thundershowers can be temporarily blowing in the area during thunderstorms.
-
-The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
-
-◼️
-
-[Data](articles/cd0575e8.json)
-
-[Extended Data](ext_articles/cd0575e8.ext.json)
-
----
-
-### Four train services canceled!
-
-*2024-04-19 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181432) · `ta`
-
-Four train services canceled due to signal disruption. Main journeys and Kelaniweli route trips canceled until 25th. Affected trains include Colombo-Fort-Ragama at 7.02 am and Ragama-Colombo-Colombo at 7.30 am.
-
-🟩
-
-Four train trips have been canceled due to the fact that the signal structure has been disrupted, the Railway Department said.
-
-The Railway Department has said that the main railway journeys and the train travels of the Kelaniweli route have been canceled till the 25th of this month.
-
-It is also reported that the train from Colombo to Fort to Ragama at 7.02 am and a train from Ragama to Colombo to Colombo at 7.30 am.
-
-Steps will be taken to cancel the train from the Padukkottai station to Colombo -Kottai at 05.20 am and the train traveling from the Colombo -Fort Station to the Padukha Station at 07.15 pm.
-
-◼️
-
-[Data](articles/988da0ac.json)
-
-[Extended Data](ext_articles/988da0ac.ext.json)
-
----
-
-### Sri Lanka rupee quoted wide to US dollar as peg inconsistencies flare up
-
-*2024-04-19 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-quoted-wide-to-us-dollar-as-peg-inconsistencies-flare-up-159244/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened wide at 301.50/302.50 to the US dollar Friday, as was quoted even wider at 301/303 to the dollar in early trade, dealers said, as dollar demand resumed following a 715 million dollar purchase of forex by the central bank in March.
-
-Sri Lanka has a deeply flawed non-floating ad hoc soft-peg arrangement found in all defaulting IMF advised countries, with inconsistent policies where external and domestic anchors conflict, critics have pointed out.
-
-In May 2023, after the central bank collected 666 million dollars amid panic sales by market participants when inconsistent peg was allowed to appreciate to 295 to the US dollar from 321 in April, the rupee came under pressure in the following two months.
-
-As the inconsistencies of the deadly flexible exchange rate clash, the rupee is quoted wide, spot trading disappears, moral suasion comes in and the spot next and one week market becomes active.
-
-...
-
-[Data](articles/11e2a1d7.json)
-
-[Extended Data](ext_articles/11e2a1d7.ext.json)
-
----
-
-### Fuel prices and gold change suddenly
-
-*2024-04-19 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195777) · `si`
-
-Sudden changes in fuel and gold prices due to global market reactions to Israeli missile reports in Iran. Brent crude oil in Asia rises to $90/barrel, gold to $2,400. Japan, Hong Kong, and South Korea's stock markets collapse, reflecting war tensions in the Middle East.
-
-🟩
-
-It is reported that the propaganda of the world market has increased in the world market with reports of an Israeli missile at an area of Iran.
-
-The price of a barrel of Brent crude oil in the Asian market was rose by 30 to $ 90 and the gold price was priced at $ 2,400.
-
-The stock market in Japan, Hong Kong and the South Korean stock market have collapsed.
-
-Stock market investors are in vain into the growing war warmth of the Middle East.
-
-◼️
-
-[Data](articles/4085be53.json)
-
-[Extended Data](ext_articles/4085be53.ext.json)
-
----
-
-### 'How I write': P. B. Jayasekara
-
-*2024-04-19 10:29:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1rqng0pwo) · `si`
-
-P. B. Jayasekara discusses his writing process, emphasizing the importance of research, character development, and logical flow. He shares insights from his conversations with other writers, highlighting the unique methods of writing and the importance of editing. Jayasekara's work is noted for its historical depth and logical structure, reflecting his background in mathematics and teaching.
-
-🟩
-
-Published by the 'Mary' Cylon Siostant 'novels in 2013 and access Sinhala novels. B. "The bloom and eye, 'he was later killed,' Look! 'Look!'. I have been in a special reader revision drainage to the novels, who have gone, and 'tips'.
-
-I talk to him with the objective of understanding his own time when he fried and writing him as a novelist.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Writing, writing, how to write, wrote, and writing the number of coffee, writing, belong to the writer's abundance. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Keep the Easy, As usual. Can you tell you about this by the novels written?
-
-...
-
-[Data](articles/bb9d3a46.json)
-
-[Extended Data](ext_articles/bb9d3a46.ext.json)
-
----
-
-### Sri Lanka bonds trade flat, stocks down
-
-*2024-04-19 10:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-bonds-trade-flat-stocks-down-159242/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bond yield rates were broadly steady in early trading, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 11.32/40 percent up from 11.35/40 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.95/12.00 percent from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.15/26 percent from 12.15/25 percent.
-
-The Colombo Stock Exchange opened down; the ASPI was down 0.69 percent at 11,716, the S&P SL20 was down 1.17 at 3,434. (Colombo/Apr19/2024)
-
-◼️
-
-[Data](articles/345bc8c3.json)
-
-[Extended Data](ext_articles/345bc8c3.ext.json)
 
 ---

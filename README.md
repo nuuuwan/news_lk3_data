@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 13:34:17**
+As of **2024-04-19 13:52:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,744 (100.0%) of 19,747 articles have been extended.
+19,747 (100.0%) of 19,747 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ MP Abeysinghe made these remarks while joining a press briefing held in Kurunega
 ◼️
 
 [Data](articles/6e5fb50d.json)
+
+[Extended Data](ext_articles/6e5fb50d.ext.json)
 
 ---
 
@@ -68,21 +70,29 @@ Many reasons are said to be trending. But in restoring history, “Kachchativu b
 
 ---
 
-### ණය සහ බදු ගැන රජයේ ස්ථාවරය
+### Government stand on loans and taxes
 
 *2024-04-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195780) · `si`
 
-ශ්‍රී ලංකාවේ ණය තිරසරභාවය තහවුරු කිරීම සඳහා සියලු ණයහිමියන් සමග ප්‍රතිපත්තිමය එකඟතාවයකට පැමිණීමට හැකිවනු ඇතැයි රජය දැඩි විශ්වාසයෙන් පසුවන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Government confident in policy agreement with creditors to manage Sri Lanka's debts. State Minister Shehan Semasinghe highlights the government's efforts to increase tax revenue, strengthen tax compliance, and expects state income to reach 11% of GDP by 2023, up from 8.1% in 2021. Tax regulatory has increased to 130%, and registration for tax has also risen.
 
-අමෙරිකාවේ, වොෂින්ටන් හී ජාත්‍යන්තර මූල්‍ය අරමුදලේ සැසිවරායකට සමගාමීව පැවැති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-"අපි ලොව අඩුවෙන්ම බඳු අයකරන රටවලින් එක රටක් ලෙස නම් කෙරෙනවා. නමුත් මේ වැඩසටහන දියත්කිරීමත් සමගින් අප විසින් ක්‍රමයෙන් බදු ආදායම ඉහළ නංවා තිබෙනවා. අපි මේ වන විට බඳු ගෙවීමෙන් නිදහස් කිරීම ඉවත් කර තිබෙනවා. බදු අනුකූලතාවයන් ශක්තිමත් කර තිබෙනවා.  2023 වසරේදී දළ දේශීය නිෂ්පාදිතයෙන් 11%ක් දක්වා රජයේ අදායම ඉහළ ගොස් තිබෙනවා. එය රජයේ ආදායමෙන් 8.1%ක ප්‍රතිශතයක්."
+State Minister Shehan Semasinghe says that the government is confident that the government will come to policy agreement with all creditors to ensure Sri Lanka's debts.
 
-"අපි 2024 වන විට එම අගය 12%ක් දක්වා ඉහළ අගයකින් බලාපොරොත්තුවනවා. ඒ වගේම අපට විශ්වාසයි අපට එම ඉලක්කය කරා යා හැකි බවට.  මේ වන විට බදු අනූකූලතාවය 130% දක්වා වර්ධනයක් අත්පත්කරගෙන තිබෙනවා."
+The State Minister was speaking at a meeting with the International Monetary Fund Session of Washington, the International Monetary Fund.
 
-...
+"We are named one country from the world's low country. But with the launch of this program, we gradually raise tax revenue. We have removed the exemption from paying such as now. Tax compliance has been strengthened. State income has increased to 11% of GDP in 2023. It is 8.1% of the government income. "
+
+"As we 2024, that value is highly highly highly expected. And we're sure we can go to that goal. The tax regulatory has increased to 130%. "
+
+"Registration for tax has also increased. Even if it's a good value we can't be satisfied with that. We need to pay tax payables to pay taxes. "
+
+◼️
 
 [Data](articles/3babdf4a.json)
+
+[Extended Data](ext_articles/3babdf4a.ext.json)
 
 ---
 
@@ -106,17 +116,23 @@ In the Asian markets this morning (19), the Pakcha oil barrel has risen by 3% to
 
 ---
 
-### நாட்டில் வைத்தியர்களுக்குப் பற்றாக்குறை!
+### Lack of doctors in the country!
 
 *2024-04-19 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181450) · `ta`
 
-விசேட மற்றும் சிறுவர்களுக்கான டாக்டர்களின் பற்றாக்குறை  நிலவுவதாக சுகாதார அமைச்சு தெரிவித்துள்ளது. பலர் நாட்டை விட்டு வெளியேறியுள்ளதாகவும் ஏனையோர் வெளிநாடுகளில் பயிற்சிக்காக சென்றுள்ளதாகவும் சுகாதார அமைச்சின் செயலாளர் பாலித மஹிபால குறிப்பிட்டுள்ளார்.வெளிநாட்டுக்குப் பயிற்சிக்காக  சென்ற சில வைத்தியர்கள் தற்போது நாடு திரும்பியுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+The Ministry of Health reports a doctor shortage, especially in specialties and pediatrics, with many doctors leaving the country or going abroad. This has caused inconvenience for patients at hospitals in Hambantota and Embilipitiya.
 
-மேலும் ஹம்பாந்தோட்டை மற்றும் எம்பிலிப்பிட்டிய வைத்தியசாலைகளில் விசேட வைத்தியர்கள் இன்மையால் நோயாளர்கள் சிரமத்துக்கு உள்ளாகியுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+🟩
+
+There is a shortage of doctors for special and children, the Ministry of Health said.Health Ministry Secretary Palitha Maibala said that many have left the country and others have gone abroad.
+
+He also said that the patients have been inconvenienced by the lack of special doctors at Hambantota and Embilipitiya hospitals.
 
 ◼️
 
 [Data](articles/a7731f35.json)
+
+[Extended Data](ext_articles/a7731f35.ext.json)
 
 ---
 

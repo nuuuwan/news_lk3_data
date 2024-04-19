@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 19:18:20**
+As of **2024-04-19 19:34:00**
 
 ## Newspaper Stats
 
-*Scraped **19,793** Articles*
+*Scraped **19,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,371
 virakesarilk | 2,968
-dailymirrorlk | 3,069
+dailymirrorlk | 3,070
 adaderanasinhalalk | 3,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,793 (100.0%) of 19,793 articles have been extended.
+19,793 (100.0%) of 19,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Crude oil prices jump, equities sink as Israel rains missiles on Iran
+
+*2024-04-19 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crude-oil-prices-jump-equities-sink-as-Israel-rains-missiles-on-Iran/108-281006) · `en`
+
+April 19 - Global oil and gold prices have jumped, while shares have slumped after reports of explosions near the Isfahan airport emerged just minutes after a US official told the Australian broadcaster ABC that Israel had fired missiles on one Iran site.
+
+Brent crude oil prices surged by over 3 per cent to approximately $90 per barrel during Friday morning’s trading session in Asia, while the price of gold remained near a new all-time high, surpassing $2,400 per ounce. Following the development in Iran, key stock indices in Japan, Hong Kong, and South Korea experienced declines.
+
+...
+
+[Data](articles/52ec34f6.json)
+
+---
 
 ### President paid tribute to Palitha Thevaraparuma
 
@@ -2267,29 +2281,5 @@ Iranian Air Defenses ARODIVEING THE ATTREKS ON THEIR FACILITIES, PROLTING A HALT
 [Data](articles/51e2a4c9.json)
 
 [Extended Data](ext_articles/51e2a4c9.ext.json)
-
----
-
-### Others killed in the accident that he was riding
-
-*2024-04-19 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195771) · `si`
-
-In a tragic accident on the Kandagala Kanda road, a lorry carrying Kosgama's family was involved in a fatal crash. The driver, along with Kosgama's mother, wife, mother-in-law, and daughter, were killed. The lorry was flipped over.
-
-🟩
-
-Kosgama's unfortunate accident has been lost by a unfortunate accident on the Kandagala Kandagala road.
-
-A lorry was running on the Kandagala Kanda road yesterday (18).
-
-The driver of his mother, his mother, his mother, wife, mother's mother, and daughter, have been buried with the lorry, and tried to raise the lorry.
-
-The driver was subjected to the lorry that the vehicle was taken back and flipled the road.
-
-◼️
-
-[Data](articles/04765c43.json)
-
-[Extended Data](ext_articles/04765c43.ext.json)
 
 ---

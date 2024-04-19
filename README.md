@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 20:03:56**
+As of **2024-04-19 20:18:25**
 
 ## Newspaper Stats
 
-*Scraped **19,797** Articles*
+*Scraped **19,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,291
 adaderanalk | 2,372
 virakesarilk | 2,969
 dailymirrorlk | 3,071
-adaderanasinhalalk | 3,213
+adaderanasinhalalk | 3,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,796 (100.0%) of 19,797 articles have been extended.
+19,797 (100.0%) of 19,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### ආදරණීයයන්ගේ සෝ සුසුම් මැද  නිසල නිවහනට ගිය දඩබ්බරයා
+
+*2024-04-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195791) · `si`
+
+මිනිසත්කමේ සුවඳ හඳුනාගත් පස්දුන්කෝරලේ හිත හොඳ දඩබ්බරයා, අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (20) පස්වරුවේ සිදුකෙරුණි.
+
+මහා ජන ගඟක සෝ සුසම් මැද ඔහුගේ අවසන් කටයුතු සිදුකෙරුණේ ඔහු ජීවත්ව සිටියදී ඔහු විසින්ම තනාගනු ලැබූ සුසාන භූමියේදීය.
+
+හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතා සිය පෞද්ගලික ඉඩමකදී විදුලිසැර වැදීමකින් ජීවිතක්ෂයට පත්වුණේ පසුගිය 16 වැනිදා පස්වරුවේය.
+
+ඒ මහතාගේ දේහය රැස්ව සිටි පිරිසගේ සෝ සුසුම් මධ්‍යයේ පෙරේදා රාත්‍රියේ මතුගම යටදොළවත්තේ පිහිටි නිවසට රැගෙන ආවේය.
+
+ඒ මොහොතේ සිට ඊයේ රාත්‍රියේත්, අද දවස දවස පුරා තෙවරප්පෙරුම මහතාගේ දේහයට අවසන් ගෞරව දැක්වීමට දේශපාලනඥයින් හා ප්‍රදේශවාසීන් ඇතුළු බොහෝ පිරිසක් පැමිණියහ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද අද පෙරවරුවේ පැමිණ සිය පක්ෂයට මෙන්ම මෙරට ජනතාව වෙනුවෙන් ඉමහත් සේවාවක් ඉටුකළ පාලිත තෙවරප්පෙරුම මහතාගේ දේහයට අවසන් බුහුමන් දැක්විය.
+
+ඒ මහතාගේ දේහයට අවසන් ගෞරව දැක්වීමට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාද පැමිණියේය.
+
+...
+
+[Data](articles/9768bfd8.json)
+
+---
 
 ### Indian election: K. Nalini becomes first resident of Sri Lankan refugee camp to vote
 
@@ -63,6 +87,8 @@ Visiting the Moratuwa Sarvodaya Headquarters where Dr. Ariyaratne was laid to re
 ◼️
 
 [Data](articles/5d46b025.json)
+
+[Extended Data](ext_articles/5d46b025.ext.json)
 
 ---
 
@@ -2249,27 +2275,5 @@ The United States and a number of European countries had been calling on Israel 
 [Data](articles/d14acbe2.json)
 
 [Extended Data](ext_articles/d14acbe2.ext.json)
-
----
-
-### India heads to the polls in world’s biggest election
-
-*2024-04-19 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-heads-to-the-polls-in-worlds-biggest-election/107-280956) · `en`
-
-(CNN) - Polls opened Friday for the first and largest phase of India’s marathon general election, kicking off a vote in which Prime Minister Narendra Modi is seeking to win a rare third consecutive term.
-
-About 969 million people are eligible to vote in the biggest election in human history, with polling taking place in seven phases over the next six weeks in the world’s most populous country.
-
-The nationwide vote is considered among the most consequential in decades as Modi’s powerful right-wing Bharatiya Janata Party (BJP) aims for an outright majority and a mandate to widen its development and Hindu-nationalist policies established during its 10-year rule.
-
-Those policies have transformed India economically and culturally, and BJP rule has been defined by a pull away from India’s secular foundation, toward Hindu majoritarianism.
-
-Under Modi’s leadership, the country of 1.4 billion people has become the world’s fastest-growing major economy and a modern global power.
-
-...
-
-[Data](articles/770c7764.json)
-
-[Extended Data](ext_articles/770c7764.ext.json)
 
 ---

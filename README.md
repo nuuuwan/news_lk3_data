@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 01:51:12**
+As of **2024-04-20 02:03:24**
 
 ## Newspaper Stats
 
-*Scraped **19,839** Articles*
+*Scraped **19,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,136
 adalk | 1,648
 tamilmirrorlk | 2,292
 adaderanalk | 2,377
-virakesarilk | 2,974
+virakesarilk | 2,975
 dailymirrorlk | 3,079
 adaderanasinhalalk | 3,218
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,839 (100.0%) of 19,839 articles have been extended.
+19,839 (100.0%) of 19,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Palitha Thevapperuma's Earth Body
+
+*2024-04-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
+
+Palitha Thevapperuma, former Minister of State, died from an electric shock in his garden. His body was held at Matugama Yatatolawatte, where political leaders paid tribute. He was buried in a grave he prepared while alive.
+
+🟩
+
+The body of the late former Minister of State Palitha Thevapperuma was held on Friday at Matugama Yatatolawatte.
+
+The body of Annar was placed in his residence in Matugama Yatatolawatte.
+
+Political leaders paid tribute to Annar's body, including Opposition Leader Sajith Pramedasa, former President Mahinda Rajapaksa, Sri Lanka Tamil National Alliance (TNA) parliamentarian and leader of the Tamil Progressive Alliance, Mano Ganesan.
+
+His body was buried in the grave he produced himself while Palitha Thevarapperuma was still alive.
+
+Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in Matugama. He was seen as a priority for social service.
+
+◼️
+
+[Data](articles/78d844d7.json)
+
+[Extended Data](ext_articles/78d844d7.ext.json)
+
+---
+
+### மக்கள் விடுதலை முன்னணியினால் அன்று செய்த தவறு இன்றும் செய்யப்படுகிறது - அமைச்சர் மனுஷ நாணயக்கார
+
+*2024-04-20 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181487) · `ta`
+
+நாட்டைக் காப்பாற்ற வருவோம் என்று தம்பட்டம் அடித்தவர்கள் அன்று 60,000 இளைஞர்களின் உயிர்களை பறித்தவர்கள். ஆனால் இன்று  இளைஞர்கள் வெளிநாட்டு வேலை வாய்ப்புகளுக்குச் செல்வதைத் தடுப்பதன் மூலம் அன்று செய்த தீங்குகளை மக்கள் விடுதலை முன்னணி இன்றும் செய்துவருகிறது என தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+
+உமண்தாவ பௌத்த உலகளாவிய கிராமத்தில் வெள்ளிக்கிழமை (19) நடைபெற்ற இஸ்ரேலில் விவசாயத் துறையில் தொழில் வாய்ப்புகளுக்காகத் தெரிவு செய்யப்பட்ட இளைஞர்களுக்கான  முதலாவது வதிவிட பயிற்சி பட்டறையில் கலந்து கொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார் .
+
+இளைஞர்களுக்கான பயிற்சித் திட்டம் மூல்ம் இஸ்ரேலில் விவசாயத் துறையில் வேலை செய்பவர்களுக்கு விரிவான பயிற்சி மற்றும் மன உறுதியை மேம்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது. சவால்களை எதிர்கொண்டு தமது பணிகளை வெற்றிகரமாகச் செய்வதற்கும்  நாட்டிற்கு மீள வந்த பின்னர் தொழில்முனைவோராக வெற்றிபெறுவதற்குத் தேவையான பயிற்சிகள் இங்கு வழங்கப்படும்.
+
+...
+
+[Data](articles/7bfbc056.json)
+
+---
 
 ### Distribution of fortified rice for school children begins
 
@@ -117,32 +159,6 @@ In addition, the little father was responsible for the death of the girl, who we
 [Data](articles/2f137643.json)
 
 [Extended Data](ext_articles/2f137643.ext.json)
-
----
-
-### Palitha Thevapperuma's Earth Body
-
-*2024-04-20 00:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
-
-Palitha Thevapperuma, former Minister of State, died from an electric shock in his garden. His body was held at Matugama Yatatolawatte, where political leaders paid tribute. He was buried in a grave he prepared while alive.
-
-🟩
-
-The body of the late former Minister of State Palitha Thevapperuma was held on Friday at Matugama Yatatolawatte.
-
-The body of Annar was placed in his residence in Matugama Yatatolawatte.
-
-Political leaders paid tribute to Annar's body, including Opposition Leader Sajith Pramedasa, former President Mahinda Rajapaksa, Sri Lanka Tamil National Alliance (TNA) parliamentarian and leader of the Tamil Progressive Alliance, Mano Ganesan.
-
-His body was buried in the grave he produced himself while Palitha Thevarapperuma was still alive.
-
-Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in Matugama. He was seen as a priority for social service.
-
-◼️
-
-[Data](articles/78d844d7.json)
-
-[Extended Data](ext_articles/78d844d7.ext.json)
 
 ---
 
@@ -2179,23 +2195,5 @@ Plantation workers attached to the Ceylon Workers' Congress (CWC) staged a prote
 [Data](articles/f707ef2f.json)
 
 [Extended Data](ext_articles/f707ef2f.ext.json)
-
----
-
-### Medicine procurement scandal: TISL files petition, seeks to recover costs incurred
-
-*2024-04-19 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98719/medicine-procurement-scandal-tisl-files-petition-seeks-to-recover-costs-incurred) · `en`
-
-The Transparency International Sri Lanka (TISL) has filed a fundamental rights (FR) petition before the Supreme Court seeking an order that the fundamental rights have been violated through the purchase of certain types of drugs including Human Immunoglobulin vials, without following the proper procurement process.
-
-Accordingly, 66 individuals including former Minister of Health Keheliya Rambukwella, Cabinet of Ministers, Treasury Secretary, Auditor General, Director General of Customs, Inspector General of Police, the members and the Director General of Bribery Commission and the Attorney General have been named as respondents of the relevant petition.
-
-In the petition, the TISL sought the court’s intervention to declare that importation of pharmaceuticals without competitive bids was wrongful and illegal.
-
-...
-
-[Data](articles/5e83790d.json)
-
-[Extended Data](ext_articles/5e83790d.ext.json)
 
 ---

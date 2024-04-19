@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 18:52:44**
+As of **2024-04-19 19:03:32**
 
 ## Newspaper Stats
 
-*Scraped **19,792** Articles*
+*Scraped **19,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,371
-virakesarilk | 2,967
+virakesarilk | 2,968
 dailymirrorlk | 3,069
 adaderanasinhalalk | 3,213
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,792 (100.0%) of 19,792 articles have been extended.
+19,792 (100.0%) of 19,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### பாலித தெவரப்பெருமவின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி செலுத்தினார்
+
+*2024-04-19 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181481) · `ta`
+
+மறைந்த முன்னாள் ஐக்கிய தேசியக் கட்சியின் பாராளுமன்ற உறுப்பினரும் முன்னாள் பிரதியமைச்சருமான பாலித தெவரப்பெருமவின் பூதவுடலுக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க இறுதி அஞ்சலி செலுத்தினார்.
+
+வெள்ளிக்கிழமை (19) முற்பகல் அவரது பூதவுடல் வைக்கப்பட்டுள்ள மத்துகம யடதொலவத்தையில் உள்ள அவரது வீட்டிற்குச் சென்ற ஜனாதிபதி, பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தியதுடன், குடும்ப உறுப்பினர்கள் மற்றும் பிரதேசவாசிகளுக்கு தனது அனுதாபத்தை தெரிவித்தார்.
+
+இராஜாங்க அமைச்சர் பியல் நிஷாந்த, ஐக்கிய தேசியக் கட்சியின் தவிசாளர் பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன உட்பட பாராளுமன்ற உறுப்பினர்கள் மற்றும் ஐக்கிய தேசியக் கட்சியின் செயற்பாட்டாளர்கள் ஆகியோர் உடன் சென்றிருந்தனர்.
+
+◼️
+
+[Data](articles/58308e5c.json)
+
+---
 
 ### Don't get caught by liars - don't send SMS by mail
 
@@ -2269,23 +2285,5 @@ The driver was subjected to the lorry that the vehicle was taken back and fliple
 [Data](articles/04765c43.json)
 
 [Extended Data](ext_articles/04765c43.ext.json)
-
----
-
-### Public urged to provide water access to animals
-
-*2024-04-19 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-urged-to-provide-water-access-to-animals/108-280953) · `en`
-
-Colombo, April 19 (Daily Mirror) - As scorching temperatures continue to sweep across Sri Lanka, the Vets in Sri Lanka have issued a stark call to action, urging public to provide water access to animals especially birds.
-
-Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika Jayasinghe said animals, much like humans are susceptible to a range of heat-related ailments including heatstroke, rashes, sunburns, diseases and parasite attacks.
-
-"Dehydration is the main challenge that both wild animals and pets face this season," stated Dr. Jayasinghe. "High temperatures exacerbate water loss in animals through sweating or panting, leading to dehydration—a condition where the body loses more fluid than it takes in." she added.
-
-...
-
-[Data](articles/e7932812.json)
-
-[Extended Data](ext_articles/e7932812.ext.json)
 
 ---

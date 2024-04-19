@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 17:18:22**
+As of **2024-04-19 17:34:40**
 
 ## Newspaper Stats
 
-*Scraped **19,780** Articles*
+*Scraped **19,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,370
 virakesarilk | 2,966
-dailymirrorlk | 3,062
+dailymirrorlk | 3,066
 adaderanasinhalalk | 3,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,777 (100.0%) of 19,780 articles have been extended.
+19,780 (100.0%) of 19,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Stakeholder meeting on plastic pollution
+
+*2024-04-19 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stakeholder-meeting-on-plastic-pollution/110-281002) · `en`
+
+A stakeholder meeting, hosted by the Alliance for Aquatic Research and Conservation (AARC), took place recently at the Malima Clubhouse in Uswetakeiyawa. The meeting centred around the theme "Riding the Waves of Change - Strategies for Addressing Plastic Pollution in Ecosystems, Human Health, and Circular Economy." The programme aimed to achieve several objectives, including: Business development for sustainable alternatives, Material recovery and recycling strategies, Community engagement and outreach initiatives and Development of a comprehensive framework for tackling plastic pollution.
+
+◼️
+
+[Data](articles/193570c4.json)
+
+---
 
 ### Heat advisory issued for seven provinces
 
@@ -45,6 +57,30 @@ The department cautioned that heat cramps and heat exhaustion are possible while
 ◼️
 
 [Data](articles/908ec704.json)
+
+[Extended Data](ext_articles/908ec704.ext.json)
+
+---
+
+### Ottawa mass killing suspect not seeking bail, says lawyer
+
+*2024-04-19 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-mass-killing-suspect-not-seeking-bail-says-lawyer/108-281003) · `en`
+
+OTTAWA - The 19-year-old Sri Lankan national charged in the mass killing of a newcomer family in Ottawa has no plan to seek bail, his lawyer says.
+
+Febrio De-Zoysa was arrested and charged in early March with six counts of first-degree murder and one count of attempted murder, after police found the family dead in a townhouse in the suburb of Barrhaven.
+
+He remains in custody, and his lawyer Ewan Lyttle told The Canadian Press “there is presently no plan to apply for bail.”
+
+De-Zoysa, who was studying in Canada as an international student, is set to return to court next week where lawyers expect to set dates for a preliminary inquiry in his case.
+
+Investigators allege the young man is responsible for the deaths of 35-year-old Darshani Ekanayake and her four children, who were between the ages of two months and seven years old, as well as a family friend.
+
+They believe the family was attacked with a knife or “other edged weapon.”
+
+...
+
+[Data](articles/f5afd34f.json)
 
 ---
 
@@ -63,6 +99,8 @@ Tehran played down the incident and indicated it had no plans for retaliation - 
 ...
 
 [Data](articles/020f519e.json)
+
+[Extended Data](ext_articles/020f519e.ext.json)
 
 ---
 
@@ -105,6 +143,8 @@ He also reflected on the challenges Sri Lanka faced in 2022, calling it “the m
 ...
 
 [Data](articles/f922e5cf.json)
+
+[Extended Data](ext_articles/f922e5cf.ext.json)
 
 ---
 
@@ -625,6 +665,28 @@ Meanwhile, Emirates said it is suspending check-in for all customers in its netw
 [Data](articles/42e970fe.json)
 
 [Extended Data](ext_articles/42e970fe.ext.json)
+
+---
+
+### All flights to and from BIA to Dubai operating on normal schedule
+
+*2024-04-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/All-flights-to-and-from-BIA-to-Dubai-operating-on-normal-schedule/155-280994) · `en`
+
+Katunayake, April 19 (Daily Mirror)- All flights are now operating to and from Colombo to Dubai without any delays after the heavy floods experienced in Dubai recently, airport sources said.
+
+Meanwhile, Emirates said it is suspending check-in for all customers in its network travelling with onward connections through Dubai until 23.59 hrs [GMT] on 19 April.
+
+"This is to support operations recovery from the recent bad weather at our Dubai hub.
+
+"Passengers already in Dubai and in transit will continue to be processed for their flights.
+
+"Customers travelling to Dubai as their final destination may check-in and travel as usual. Customers can expect delays to departures and arrivals and are advised to check the latest flight schedules on emirates.com.
+
+"Impacted customers should contact their booking agent or Emirates Office for rebooking options," the Emirates said.
+
+◼️
+
+[Data](articles/91ea6853.json)
 
 ---
 
@@ -2219,55 +2281,5 @@ The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young t
 [Data](articles/2980b703.json)
 
 [Extended Data](ext_articles/2980b703.ext.json)
-
----
-
-### No presidential candidate has secured a 50% vote base as of date
-
-*2024-04-19 05:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-presidential-candidate-has-secured-a-50-vote-base-as-of-date/155-280951) · `en`
-
-Colombo, April 19 (Daily Mirror) - With the Presidential Election scheduled to be held in the first week of October, political parties have begun vigorous campaigns in electorates as well as closed door discussions with parliamentarians in a bid to secure a basic 50 percent vote base which will win them the presidency.
-
-As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a national candidate who will contest from a brand new symbol and has invited all political parties to support him.
-
-...
-
-[Data](articles/aae54fd5.json)
-
-[Extended Data](ext_articles/aae54fd5.ext.json)
-
----
-
-### No presidential candidate has secured on a 50% vote base as of date
-
-*2024-04-19 05:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-presidential-candidate-has-secured-on-a-50-vote-base-as-of-date/155-280951) · `en`
-
-Colombo, April 19 (Daily Mirror) - With the Presidential Election scheduled to be held in the first week of October, political parties have begun vigorous campaigns in electorates as well as closed door discussions with parliamentarians in a bid to secure a basic 50 percent vote base which will win them the presidency.
-
-As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a national candidate who will contest from a brand new symbol and has invited all political parties to support him.
-
-...
-
-[Data](articles/e1862c10.json)
-
-[Extended Data](ext_articles/e1862c10.ext.json)
-
----
-
-### NDB Wealth Management partners nVentures to propel local start-up ecosystem
-
-*2024-04-19 05:57:41* · [`dailyftlk`](https://www.ft.lk/business/NDB-Wealth-Management-partners-nVentures-to-propel-local-start-up-ecosystem/34-760788) · `en`
-
-NDB Wealth Management Ltd. – the largest private sector Asset Management company in Sri Lanka with more than Rs. 340 billion assets under management – has embarked on a strategic collaboration with nVentures Pte Ltd., a Singapore-based venture capital fund specialising in B2B startups in South and Southeast Asia.
-
-This partnership aims to catalyze the growth of both local and global start-ups through the inception of the “Founder’s Circle” initiative by nVentures.
-
-The inaugural private networking event, held recently, served as a nexus between High-Net-Worth clients of NDB Wealth and the founders of seven select companies from nVentures’ start-up portfolio representing Sri Lanka, India, Bangladesh and the UK. The gathering provided an exclusive platform for start-up founders to articulate their vision, societal impact objectives, and address pertinent challenges directly to NDB Wealth clients keen on supporting emerging ventures.
-
-...
-
-[Data](articles/686789aa.json)
-
-[Extended Data](ext_articles/686789aa.ext.json)
 
 ---

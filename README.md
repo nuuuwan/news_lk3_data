@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 00:49:48**
+As of **2024-04-20 01:03:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,827 (99.9%) of 19,839 articles have been extended.
+19,835 (100.0%) of 19,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,39 +204,61 @@ Furthermore  Ranil’s stock has been rising within the people. As stated  ear
 
 ### 2024-04-19 (Friday)
 
-### சென்னை சுப்பர் கிங்ஸை வீழ்த்தியது லக்னோவ் சுப்பர் ஜயன்ட்ஸ்
+### Lucknov Super Giants beat Chennai Super Kings
 
 *2024-04-19 23:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181486) · `ta`
 
-லக்னோவ் எக்கானா கிரிக்கெட் விளையாட்டரங்கில் வெள்ளிக்கிழமை நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 34ஆவது போட்டியில் நடப்பு சம்பியன் சென்னை சுப்பர் கிங்ஸை 8 விக்கெட்களால் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் வெற்றிகொண்டது.
+Lucknov Super Giants defeated Chennai Super Kings by 8 wickets in the 34th IPL match, thanks to Krunal Pandya's bowling and Rahul and Quinton de Kock's half-centuries. Lucknow's victory was their 4th, but they remain 6th in the league.
 
-க்ருணல் பாண்டியாவின் துல்லியமான பந்துவீச்சு, அணித் தலைவர் கே. எல். ராகுல், குவின்டன் டி கொக் ஆகியோரின் அரைச் சதங்கள் என்பன லக்னோவுக்கு 4ஆவது வெற்றியை ஈட்டிக்கொடுத்தது.
+🟩
 
-ஆனால் அணிகள் நிலையில் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் தொடர்ந்தும் 6ஆவது இடத்தில் இருக்கிறது.
+Lucknov Super Giants won the current Champion Chennai Super Kings by 8 wickets in the 34th match of the 17th Indian Premier League chapter held at the Lucknov Econna Cricket Stadium on Friday.
 
-அப் போட்டியில் சென்னை சுப்பர் கிங்ஸினால் நிர்ணயிக்கப்பட்ட 177 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 19 ஓவர்களில் 2 விக்கெட்களை மாத்திரம் இழந்து ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+Krunal Pandya's accurate bowling, team captain K. L. The half -centuries of Rahul and Quinton de Kock made Lucknow's 4th victory.
 
-குவின்ட்ன் டி கொக், கே. எல். ராகுல் ஆகிய இருவரும் 15 ஓவர்களில் 134 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+But in the teams, Lucknov Super Giants continues to be 6th.
 
-அவர் 53 பந்துகளை எதிர்கொண்டு 9 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 82 ஓட்டங்களைக் குவித்தார்.
+Lucknow Super Giants lost only 2 wickets in 19 overs, scoring only the runs in the upcoming match.
+
+Quintin de Kock, K.. L. Rahul both shared 134 runs in 15 overs and made the best start.
+
+He faced 53 balls and scored 82 runs with 9 pounds and 3 sixes.
+
+Next, Nicolas Poran (23 AE) and Marcus Stoinis (8A) gave the remaining runs for victory.
+
+Chennai Super Kings, who had previously been invited to bat, scored 176 runs for the loss of 6 wickets in 20 overs.
+
+Rachin Ravindra lost the run and Ruthuraj lost 17 runs.
+
+One of the initial players, Ajinkia Rahane, showed some skills and scored 36 runs.
 
 ...
 
 [Data](articles/d347aad0.json)
 
+[Extended Data](ext_articles/d347aad0.ext.json)
+
 ---
 
-### துன்பப்படும் மக்களுக்கு பக்கபலத்தை வழங்கிய சிறந்ததொரு ஆளுமையை எமது நாடு இழந்துள்ளது - சஜித் பிரேமதாச
+### Our country has lost the best personality that has been a good person who helped the suffering people -Sajith Premadasa
 
 *2024-04-19 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181485) · `ta`
 
-சர்வோதயா சமூக மேம்பாட்டு சமூக நலத் திட்டத்தின் ஸ்தாபகர் ஏ.டி.அரியரத்ன திடீர் மரணம் எமக்கு வருத்தமளிக்கிறது. துன்புறும் அப்பாவி மக்களுக்கு சமூக ரீதியாக பக்க பலத்தை வழங்கும் திட்டத்தில் தனித்துவம் வாய்ந்த தூய பணியை ஆற்றிய ஒரு உன்னத மனிதரின் மறைவு நாட்டிற்கு மிகப்பெரிய இழப்பாகும். அவரது ஆத்மா சாந்தியடையப் பிரார்த்திப்பதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa mourns the loss of Aryaratna, a key figure in the Sarvodaya Social Development Program, highlighting his significant contributions to social welfare.
 
-மறைந்த சர்வோதய ஸ்தாபகர் ஏ. டி. ஆரியரத்னவின் பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்த சென்ற வேளையிலையே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-...
+Sudden death of Sarvodaya Social Development Social Welfare Program. The disappearance of a noble man who performed unique pure work in the plan to provide social strength to the suffering innocent people is the biggest loss to the country. Opposition leader Sajith Premadasa said his soul was praying for peace.
+
+The founder of the late Sarvodaya. D. He said the above when he went to pay tribute to Aryaratne's funeral.
+
+The late Aryaratna is the best social service task. For some time Ranasinghe made a huge contribution to the Gum Udawa Project with Premadasa. The disappearance of a man who has carried out pure social welfare is an unbearable loss to our country and the people. His Sarvodaya Movement is still a great service to the people of our country. Opposition Leader Sajith Premadasa said that anyone who wishes to carry out people's service through politics can set the dawn of this Sarvodaya Movement.
+
+◼️
 
 [Data](articles/4dafaca6.json)
+
+[Extended Data](ext_articles/4dafaca6.ext.json)
 
 ---
 
@@ -254,6 +276,8 @@ With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken
 
 [Data](articles/b422e653.json)
 
+[Extended Data](ext_articles/b422e653.ext.json)
+
 ---
 
 ### HVA Foods strengthens leadership team
@@ -269,6 +293,8 @@ Heladiv is HVA Foods PLC’s globally renowned flagship brand, registered in ove
 ...
 
 [Data](articles/695cefe6.json)
+
+[Extended Data](ext_articles/695cefe6.ext.json)
 
 ---
 
@@ -286,6 +312,8 @@ This initiative underscores Seylan Bank’s dedication to supporting the aspirat
 
 [Data](articles/8826a51f.json)
 
+[Extended Data](ext_articles/8826a51f.ext.json)
+
 ---
 
 ### Hayleys Solar introduces solar hot water systems
@@ -301,6 +329,8 @@ The Solar Powered Water Heaters, available in both Pressure and Non-Pressure var
 ...
 
 [Data](articles/1ee7924a.json)
+
+[Extended Data](ext_articles/1ee7924a.ext.json)
 
 ---
 
@@ -332,6 +362,8 @@ If I made this statement even a few short years ago, I would have been labelled 
 
 [Data](articles/b4609abf.json)
 
+[Extended Data](ext_articles/b4609abf.ext.json)
+
 ---
 
 ### Smart finance solutions: Leveraging AI for climate finance and risk management
@@ -345,6 +377,8 @@ Artificial intelligence (AI) can contribute to finding innovative solutions for 
 ...
 
 [Data](articles/f9abd6c6.json)
+
+[Extended Data](ext_articles/f9abd6c6.ext.json)
 
 ---
 

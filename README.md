@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 12:51:14**
+As of **2024-04-19 13:03:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,736 (100.0%) of 19,741 articles have been extended.
+19,741 (100.0%) of 19,741 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,45 +78,59 @@ His goal was “to ensure that these benefits reached every segment of society�
 
 [Data](articles/97da1999.json)
 
+[Extended Data](ext_articles/97da1999.ext.json)
+
 ---
 
-### இரண்டு இடங்களில் இரண்டு கொலைகள்
+### Two killings in two places
 
 *2024-04-19 12:27:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-இடங்களில்-இரண்டு-கொலைகள்/175-336091) · `ta`
 
-நாட்டின் இரு வேறு இடங்களில் இரண்டு கொலைச் சம்பவங்கள் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two murders in Embilipitiya and another place. A 71-year-old man in Mudwanwella Colony was killed by a sharp weapon, possibly due to a conflict. Suspects aged 67 and 47 arrested.
 
-எம்பிலிபிட்டிய மடுவன்வெல கொலனி பகுதியில் வாடகை வீடொன்றில் வசித்து வந்த 71 வயதுடைய நபர் நேற்று (18) இரவு  படுகொலை செய்யப்பட்டுள்ளார்.
+🟩
 
-வாடகை வீட்டில் தனியாக வசித்து வந்த குறித்த நபர் தென்னை நார் உற்பத்தி தொழில் செய்து வந்ததாகவும் கூரிய ஆயுதத்தால் தாக்கி கொலை செய்யப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Police said two murders have taken place in two other places in the country.
 
-உயிரிழந்தவர் கடந்த 17ஆம் திகதி பிம்புரத்தேவ ஏரிக்கு மீன்பிடிக்கச் சென்றுள்ளதுடன், அங்கு மற்றுமொரு நபருடனும் தனது மனைவியுடனும் மதுபானம் அருந்தியுள்ளார்.
+A 71 -year -old man who lived in a rented house in the Mudwanwella Colony area of Embilipitiya has been assassinated last night.
 
-இதன் போது ஏற்பட்ட முரண்பாடு காரணமாக குறித்த நபர்  கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the man who lived alone in the rented house was working in coconut fiber and was assassinated by a sharp weapon.
 
-கொலைச் சம்பவம் தொடர்பில் 67 மற்றும் 47 வயதுடைய சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+The deceased has gone fishing at the Pimpuradeva Lake on the 17th and has been drinking with another man and his wife.
+
+Police said the man was murdered due to the conflict.
+
+The suspects aged 67 and 47 have been arrested in connection with the murder.
 
 ◼️
 
 [Data](articles/070b3b18.json)
 
+[Extended Data](ext_articles/070b3b18.ext.json)
+
 ---
 
-### கலால் திணைக்களத்தின் அதிகாரி பணி இடைநிறுத்தம்!
+### Officer of the Excise Department suspended work!
 
 *2024-04-19 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181446) · `ta`
 
-பாடகர் ரோஹன பெத்தகே பாடிய புத்தாண்டு பாடலை  திரிபுபடுத்திப் பாடி  சமூக வலைதளங்களில் பதிவிட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட  கலால் திணைக்கள அதிகாரி பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Excise Department work suspended due to alleged distortion of Rohana Betake's New Year's song. Commissioner Sanna Weerakkody confirms potential investigation if court verdict confirms accusation.
 
-கலால் திணைக்களத்தில் இடம்பெற்ற  ஊடக சந்திப்பின்போது கலால் திணைக்களத்தின் ஆணையாளர் சன்ன வீரக்கொடி இதனை தெரிவித்துள்ளார்.
+🟩
 
-இந்தச் சம்பவம் தொடர்பில் கலால் ஆணையாளர் தலைமையில் விசாரணை மேற்கொள்ளப்படவுள்ளதாகவும் இவர் குற்றம் செய்துள்ளதாக நீதிமன்றம் உறுதிப்படுத்தினால் உரிய நடவடிக்கை எடுக்கப்படும் எனவும்  ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+It has been reported that the work of the Excise Department has been suspended for allegedly distorting the New Year's song sung by singer Rohana Betake.
 
-‘சூரிய மங்கலே’ பாடலை திரிபுபடுத்தி சமூக வலைதளங்களில் பதிவிட்ட குற்றத்துக்காக கைது செய்யப்பட்ட இவரை விளக்கமறியலில் வைக்குமாறு  நேற்று முன்தினம் புதன்கிழமை ( 17) குளியாபிட்டிய நீதிவான் நீதிமன்றம்  உத்தரவிட்டிருந்தது.
+The Commissioner of the Department of Excise, Sanna Weerakkody said this during a media briefing held at the Department of Excise.
+
+The media spokesman said that if the court confirms that he is accused of investigating the incident, he will be investigated.
+
+The Kiliyapitiya Magistrate's Court on Wednesday (17) was ordered to keep the man in detail for the crime of distorting the song solar mangal and posted on social networks.
 
 ◼️
 
 [Data](articles/b7102edb.json)
+
+[Extended Data](ext_articles/b7102edb.ext.json)
 
 ---
 
@@ -136,6 +150,8 @@ Those policies have transformed India economically and culturally, and BJP rule 
 
 [Data](articles/067209c4.json)
 
+[Extended Data](ext_articles/067209c4.ext.json)
+
 ---
 
 ### Medicine procurement scandal: TISL files petition, seeks to recover costs incurred
@@ -151,6 +167,8 @@ In the petition, the TISL sought the court’s intervention to declare that impo
 ...
 
 [Data](articles/5e83790d.json)
+
+[Extended Data](ext_articles/5e83790d.ext.json)
 
 ---
 

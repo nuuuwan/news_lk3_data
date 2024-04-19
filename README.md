@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 02:03:24**
+As of **2024-04-20 02:18:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,839 (100.0%) of 19,840 articles have been extended.
+19,840 (100.0%) of 19,840 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,19 +58,25 @@ Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in 
 
 ---
 
-### மக்கள் விடுதலை முன்னணியினால் அன்று செய்த தவறு இன்றும் செய்யப்படுகிறது - அமைச்சர் மனுஷ நாணயக்கார
+### The mistake made by the People's Liberation Front is still being made today - Minister Manusha Nanayakkara
 
 *2024-04-20 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181487) · `ta`
 
-நாட்டைக் காப்பாற்ற வருவோம் என்று தம்பட்டம் அடித்தவர்கள் அன்று 60,000 இளைஞர்களின் உயிர்களை பறித்தவர்கள். ஆனால் இன்று  இளைஞர்கள் வெளிநாட்டு வேலை வாய்ப்புகளுக்குச் செல்வதைத் தடுப்பதன் மூலம் அன்று செய்த தீங்குகளை மக்கள் விடுதலை முன்னணி இன்றும் செய்துவருகிறது என தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Minister Manusha Nanayakkara criticizes the People's Liberation Front's mistakes, highlighting the harm done by preventing youth from foreign employment. He emphasizes the Youth Training Scheme's aim to improve agricultural and construction skills, aiming to create a decent environment for mental health. The program aims to modernize the agricultural industry and promote social progress, addressing issues of youth unemployment and education.
 
-உமண்தாவ பௌத்த உலகளாவிய கிராமத்தில் வெள்ளிக்கிழமை (19) நடைபெற்ற இஸ்ரேலில் விவசாயத் துறையில் தொழில் வாய்ப்புகளுக்காகத் தெரிவு செய்யப்பட்ட இளைஞர்களுக்கான  முதலாவது வதிவிட பயிற்சி பட்டறையில் கலந்து கொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார் .
+🟩
 
-இளைஞர்களுக்கான பயிற்சித் திட்டம் மூல்ம் இஸ்ரேலில் விவசாயத் துறையில் வேலை செய்பவர்களுக்கு விரிவான பயிற்சி மற்றும் மன உறுதியை மேம்படுத்தும் என்று எதிர்பார்க்கப்படுகிறது. சவால்களை எதிர்கொண்டு தமது பணிகளை வெற்றிகரமாகச் செய்வதற்கும்  நாட்டிற்கு மீள வந்த பின்னர் தொழில்முனைவோராக வெற்றிபெறுவதற்குத் தேவையான பயிற்சிகள் இங்கு வழங்கப்படும்.
+Those who have come to save the country have taken over 60,000 young people's lives. But the Jupitual Liberation Front is still doing the harm done by preventing youth from going to foreign employment, said the Minister of Industry and Foreign Employment, Manusha Nanayakkara.
+
+He was speaking at the first residential training workshop for youth selected for employment opportunities in Israel on Friday (19) in the Umantawa Buddhist Global Global Global Village village.
+
+Youth Training Scheme is expected to improve comprehensive training and morale for those working in agriculture in Israel. The training will be provided here to win the challenges and successful after returning to the country after returning to the country.
 
 ...
 
 [Data](articles/7bfbc056.json)
+
+[Extended Data](ext_articles/7bfbc056.ext.json)
 
 ---
 

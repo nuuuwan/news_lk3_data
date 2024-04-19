@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 09:33:59**
+As of **2024-04-19 09:52:36**
 
 ## Newspaper Stats
 
-*Scraped **19,697** Articles*
+*Scraped **19,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,060
 dailyftlk | 1,085
 economynextcom | 1,123
 adalk | 1,643
-tamilmirrorlk | 2,281
-adaderanalk | 2,357
-virakesarilk | 2,947
+tamilmirrorlk | 2,283
+adaderanalk | 2,358
+virakesarilk | 2,949
 dailymirrorlk | 3,050
-adaderanasinhalalk | 3,197
+adaderanasinhalalk | 3,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,695 (100.0%) of 19,697 articles have been extended.
+19,697 (100.0%) of 19,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Final rites of former MP Palitha Thewarapperuma to be performed today
+
+*2024-04-19 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98716/final-rites-of-former-mp-palitha-thewarapperuma-to-be-performed-today) · `en`
+
+The final rites of former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma are scheduled to be performed this afternoon (19).
+
+The funeral procession will commence following religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself.
+
+The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 years at the time of his demise.
+
+A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
+
+He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District from 2010 to 2020.
+
+...
+
+[Data](articles/5d36d84f.json)
+
+---
+
+### காசல்ரீ நீர்த்தேக்கத்தில் நீராடச் சென்ற மாணவன் மாயம்
+
+*2024-04-19 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181424) · `ta`
+
+காசல்ரீ நீர்த்தேக்கத்தில் நீராடச் சென்ற 17 வயதுடைய மாணவன் நீரில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளார்.
+
+காசல்ரீ பகுதியைச் சேர்ந்த 17 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு காணாமல் போயுள்ளார்.
+
+இந்த இளைஞர் தனது குடும்பத்தினருடன்  நேற்று வியாழக்கிழமை (18) பிற்பகல் 3.30 மணி அளவில் நீர்த்தேக்கத்தில் நீராடச் சென்ற போதே இவ்விபத்தில் சிக்கியுள்ளார்.
+
+காசல்ரீ நீர்த்தேக்கத்திற்கு பொறுப்பான பாதுகாப்பு உத்தியோகத்தர்கள் மற்றும் பிரதேசவாசிகள் இணைந்து மாணவனின் சடலத்தை தேடும் நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+
+பாதுகாப்பு அதிகாரிகளின் எச்சரிக்கையை பொருட்படுத்தாமல் மாணவன் நீந்திக் கொண்டிருந்த வேளையில் இந்த சம்பவம் இடம்பெற்றதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/d27f36f0.json)
+
+---
+
+### ஈரான் மீது இஸ்ரேல் ஏவுகணை தாக்குதல்
+
+*2024-04-19 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181421) · `ta`
+
+சிரியாவில் உள்ள ஈரான் தூதரகம் தாக்கப்பட்டதற்கு பதிலடியாக, இஸ்ரேல் மீது ஏவுகணைகள், ஆளில்லா விமானங்களை கொண்டு ஈரான் தாக்குதல் நடத்தியது.
+
+இந்நிலையில், ஈரான் மீது ஏவுகணைகளை வீசி இஸ்ரேல் பதில் தாக்குதல் நடத்தியுள்ளதாக உள்ளூர் ஊடகங்கள் தெரிவித்துள்ளன.
+
+ஈரானின் இஸ்பஹான் நகரில் உள்ள விமானப்படை தளத்தில் வெடிகுண்டு தாக்குதல் நடத்தப்பட்டதற்கான சத்தம் கேட்டதாக உள்ளூர் ஊடகம் ஒன்று தெரிவித்துள்ளது. இதன் காரணமாக ஈரானின் மேற்கு பகுதியில் வான்வெளி மூடப்பட்டுள்ளது. பல விமானங்கள் திருப்பிவிடப்பட்டு உள்ளன.
+
+ஈரான் மீதான இஸ்ரேலின் பதிலடி தாக்குதல் மோசமாக இருக்கும் பட்சத்தில் அது மூன்றாம் உலகப்போருக்கு வித்திடுமோ என்ற கேள்விகளை எழுப்பி உள்ளது.
+
+◼️
+
+[Data](articles/475343cc.json)
+
+---
+
+### ශ්‍රීලනිප අර්බුදයට මැතිවරණ කොමිසමෙන් උත්තරයක්
+
+*2024-04-19 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195774) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ පවතින අභ්‍යන්තර ගැටලු විසදීමට සිය කොමිසමට කිසිදු නෛතික බලයක් නොමැති බව මැතිවරණ කොමිෂන් සභාව පෙන්වා දෙයි.
+
+එම පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මැතිවරණ කොමිසම වෙත ලබාදුන් තීන්දු හා ලේඛන ඊයේ (18) දිනයේදී එහි සාමාජිකයින් විසින් සාකච්ඡාවට ලක්කර ඇති බව වාර්තා විය.
+
+පසුගිය 08 වනදා පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් එහි දේශපාලන මණ්ඩලය රැස්වී පක්ෂයේ නව වැඩබලන සභාපතිවරයා ලෙස නිමල් සිරිපාල ද සිල්වා මහතා පත්කරගත් අතර මහලේකම්  ධුරයේ ක්‍රියා කිරීමට දුමින්ද දිසානායක මහතා වෙත බලය පවරා තිබුණි.
+
+මෙම පත්කිරීම් සම්බන්ධ තොරතුරු හා ලේඛන දුමින්ද දිසානායක මහතා විසින් මැතිවරණ කොමිසම වෙත භාරදීමෙන් අනතුරුව පක්ෂ වැඩබලන මහලේකම් සාරතී දුෂ්මන්ත මිත්‍රපාල මහතා ද නව පත් කිරීම් සම්බන්ධයෙන් කොමිසම හමුවේ විරෝධතා ගොනු කළේය.
+
+ඒ අනුව ඊයේ රැස්වූ මැතිවරණ කොමිෂන් සභාව ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ශ්ව දෙකක් විසින් ඉදිරිපත් කර ඇති කරුණු පිළිබඳ අවධානය යොමුකර තිබුණි.
+
+...
+
+[Data](articles/4847598f.json)
+
+---
 
 ### The number of boys falls in children's homes!
 
@@ -96,6 +174,8 @@ He died from electrocution when he was attempting to connect two electrical wire
 
 [Data](articles/27b83eb5.json)
 
+[Extended Data](ext_articles/27b83eb5.ext.json)
+
 ---
 
 ### Chicken prices down by Rs. 100 today
@@ -155,6 +235,8 @@ The United States and a number of European countries had been calling on Israel 
 ...
 
 [Data](articles/1042e2a0.json)
+
+[Extended Data](ext_articles/1042e2a0.ext.json)
 
 ---
 
@@ -2127,95 +2209,5 @@ Discussions and plans on the housing scheme to be carried out in the Northern Pr
 [Data](articles/a5f1a8c4.json)
 
 [Extended Data](ext_articles/a5f1a8c4.ext.json)
-
----
-
-### Climate change to cost world economy US$ 38 trillion
-
-*2024-04-18 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Climate-change-to-cost-world-economy-US-38-trillion/108-280919) · `en`
-
-The global annual damage caused by climate change is estimated to be 38 trillion dollars until the year 2050, a study by a German research institute has found.
-
-According to scientists at the Potsdam Institute for Climate Impact Research (PIK) ‘the world economy is already committed to an income reduction of 19 percent until 2050, even if CO2 emissions were to be drastically cut immediately.
-
-South Asia and Africa are listed as regions that will experience the strongest income reductions due to climate change. The damages will be primarily caused by impacts on agricultural yields, labor productivity or infrastructure, the study further elaborated.
-
-◼️
-
-[Data](articles/cc5d61f6.json)
-
-[Extended Data](ext_articles/cc5d61f6.ext.json)
-
----
-
-### Climate change to cost world economy US$ 38 trillion per annum
-
-*2024-04-18 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Climate-change-to-cost-world-economy-US-38-trillion-per-annum/108-280919) · `en`
-
-The global annual damage caused by climate change is estimated to be 38 trillion dollars until the year 2050, a study by a German research institute has found.
-
-According to scientists at the Potsdam Institute for Climate Impact Research (PIK) ‘the world economy is already committed to an income reduction of 19 percent until 2050, even if CO2 emissions were to be drastically cut immediately.
-
-South Asia and Africa are listed as regions that will experience the strongest income reductions due to climate change. The damages will be primarily caused by impacts on agricultural yields, labor productivity or infrastructure, the study further elaborated.
-
-◼️
-
-[Data](articles/f3da197b.json)
-
-[Extended Data](ext_articles/f3da197b.ext.json)
-
----
-
-### Is the limestone excavated at midnight in Jaffna and smuggled to Trincomalee?Question
-
-*2024-04-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181389) · `ta`
-
-Limestone excavated at midnight in Jaffna is smuggled to Trincomalee, with military and police permission. The Governor of Northern Province and a minister are involved, ordering military to report on heavy vehicles at night.
-
-🟩
-
-People have appealed to me that the limestone has been excavated from Jaffna at midnight and taken to Trincomalee.
-
-The excavated limestone is taken to another place and then taken to Trincomalee at midnight.
-
-Who gave permission for this process?Which department is responsible for the excavation of stones, with the permission of the military and the police?Who is responsible?
-
-12,14 Constor, Tipper vehicles carry stones.Do the police stand on duty at night because they do these work at midnight?
-
-The Governor of the Northern Province is one of the co -chairs at the Coordinating Committee meeting.The minister is also one of the co -chairs.
-
-So by whom this activity is done on this issue. He said appropriate action should be taken to stop this.
-
-The Governor of the Northern Province then ordered the military to submit a report to the military and submit a report on the heavy vehicle and tipper vehicles on the road while on duty at midnight.
-
-◼️
-
-[Data](articles/cc34c9d9.json)
-
-[Extended Data](ext_articles/cc34c9d9.ext.json)
-
----
-
-### Where a businessman's body found last
-
-*2024-04-18 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195761) · `si`
-
-A 49-year-old chicken businessman was found assassinated in Ridigama, Kurunegala, with sharp weapons. The body was discovered on private land. Police are investigating.
-
-🟩
-
-A businessman has been assassinated with sharp weapons in the Ridigama area in Kurunegala.
-
-The body of the victim was found in a private land this morning.
-
-The deceased has been identified as a 49 year old chicken business in the area.
-
-The Ridigama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/038c43ac.json)
-
-[Extended Data](ext_articles/038c43ac.ext.json)
 
 ---

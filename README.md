@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 16:18:32**
+As of **2024-04-19 16:34:04**
 
 ## Newspaper Stats
 
-*Scraped **19,770** Articles*
+*Scraped **19,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
 economynextcom | 1,131
-adalk | 1,647
+adalk | 1,648
 tamilmirrorlk | 2,289
 adaderanalk | 2,367
-virakesarilk | 2,965
-dailymirrorlk | 3,061
-adaderanasinhalalk | 3,209
+virakesarilk | 2,966
+dailymirrorlk | 3,062
+adaderanasinhalalk | 3,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,770 (100.0%) of 19,770 articles have been extended.
+19,770 (100.0%) of 19,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### කැට ගහද්දි පොලීසිය පැනලා සිදුවු අකරතැබ්බය
+
+*2024-04-19 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195786) · `si`
+
+කොට්ටාව, රුක්මලේ ප්‍රදේශයේදී පිරිසක් ඊයේ (18) රාත්‍රි මුදල් ඔට්ටුවට කැට සෙල්ලම් කරමින් සිටි ස්ථානයකට පොලීසිය කඩා පැන තිබේ.
+
+එම අවස්ථාවේ දී කලබල වී දිව ගිය පුද්ගලයෙකු ජලය පිරි ගල්වළකට වැටී මියගොස් ඇතැයි හෝමාගම පොලීසිය පවසයි.
+
+මෙලෙස මිය ගොස් ඇත්තේ හෝමාගම නගර සීමා මාවත ප්‍රදේශයේ පදිංචිකරුවකු වන 42 හැවිරිදි කුලී වැඩවල නිරතව සිටි දෙදරු පියෙකි.
+
+පිරිස මුදල් ඔට්ටුවට කැට සෙල්ලමේ යෙදී සිටියදී මෙලෙස එක්වරම පොලීසිය එම ස්ථානයට පැමිණීමත් සමග මිය ගිය පුද්ගලයා සමගින් තවත් තිදෙනෙකු දිව ගොස් ජලය පිරී තිබූ ගල්වලෙහි අඩි තිහක පමණ උඩ සිට ගල්වළට පැන තිබිණි.
+
+ඒ අතුරින් තිදෙනෙකු පිහිනා ගල්වළින් ගොඩ වී නිවෙස් වෙත ගොස් ඇතත් එක් අයෙකු නිවසට ගොස් නොතිබූ බව පොලීසිය පවසයි.
+
+පසුව ඇති වූ සැකය මත ප්‍රදේශවාසීන් විසින් ගල්වළෙහි පිරී තිබු ජලය පොම්පයක් ආධාරයෙන් ඉවත් කිරීමේ දී මියගිය පුද්ගලයාගේ දේහය ගල්වළ තුළ සිරවී තිබෙනු දැක පොලීසිය දැනුවත් කර ඇත.
+
+එම ස්ථානයට පැමිණි නුගේගොඩ පොලිස් කොට්ඨාසයේ අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් විසින් මූලික පරීක්ෂණ කටයුතු සිදුකිරීමෙන් පසු දේහය ඥාතීන් වෙත භාරදීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/77770937.json)
+
+---
+
+### நுவரெலியாவில் தவறான முடிவெடுத்து உயிரை மாய்த்த வயோதிபர்
+
+*2024-04-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181469) · `ta`
+
+நுவரெலியா பொலிஸ் பிரிவிற்குட்பட்ட ஒலிபண்ட் தோட்டத்தில் வயோதிபர் ஒருவர் தவறான முடிவெடுத்து உயிரை மாய்த்து கொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/7ebd0765.json)
+
+---
+
+### Fortified rice distributed to provide nutritious meal for school students
+
+*2024-04-19 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fortified-rice-distributed-to-provide-nutritious-meal-for-school-students/108-281001) · `en`
+
+Colombo, April 19 (Daily Mirror)- The distribution of fortified rice, provided by the World Food Programme (WFP) on behalf of the programme initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, commenced today at the Veyangoda warehouse complex, the President’s Media Division (PMD) said.
+
+In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals.
+
+“This distribution will be conducted under the supervision of M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
+
+As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20).
+
+...
+
+[Data](articles/ac1155aa.json)
+
+---
+
+### Initial work for concentrated rice schools
+
+*2024-04-19 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181467) · `ta`
+
+The World Food Scheme launched fortified rice distribution to schools on 19th, aiming to reduce iron deficiency. 735 metric tonnes of rice will be distributed at the provincial level starting today, under the supervision of the Director General of the Joint Secretariat for the World Food Program. The program, under "Healthy Student Generation", aims to provide breakfast to all primary school students daily, benefiting 1.6 million students this year.
+
+🟩
+
+The distribution of fortified rice to schools through the World Food Scheme for the Posaka Food Project for School Students was launched on Friday (19) at the Veyangoda Food Repository Complex.
+
+In order to reduce iron deficiency among schoolchildren, the fortified rice is provided for school food and the distribution process is under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat.
+
+Accordingly, for the first time, the provision of 735 metric tonnes of rice to schools at the provincial level will commence today and tomorrow (20) will continue tomorrow (20).. Rice is distributed to schools under the supervision of the concerned Provincial Department of Education and Public Health Inspectors.
+
+...
+
+[Data](articles/32adc83a.json)
+
+[Extended Data](ext_articles/32adc83a.ext.json)
+
+---
 
 ### Election Commission to accept SLFP nominations despite disputes
 
@@ -49,28 +125,6 @@ On April 8, during a politburo meeting chaired by former President Chandrika Ban
 [Data](articles/820873d6.json)
 
 [Extended Data](ext_articles/820873d6.ext.json)
-
----
-
-### Initial work for concentrated rice schools
-
-*2024-04-19 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181467) · `ta`
-
-The World Food Scheme launched fortified rice distribution to schools on 19th, aiming to reduce iron deficiency. 735 metric tonnes of rice will be distributed at the provincial level starting today, under the supervision of the Director General of the Joint Secretariat for the World Food Program. The program, under "Healthy Student Generation", aims to provide breakfast to all primary school students daily, benefiting 1.6 million students this year.
-
-🟩
-
-The distribution of fortified rice to schools through the World Food Scheme for the Posaka Food Project for School Students was launched on Friday (19) at the Veyangoda Food Repository Complex.
-
-In order to reduce iron deficiency among schoolchildren, the fortified rice is provided for school food and the distribution process is under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat.
-
-Accordingly, for the first time, the provision of 735 metric tonnes of rice to schools at the provincial level will commence today and tomorrow (20) will continue tomorrow (20).. Rice is distributed to schools under the supervision of the concerned Provincial Department of Education and Public Health Inspectors.
-
-...
-
-[Data](articles/32adc83a.json)
-
-[Extended Data](ext_articles/32adc83a.ext.json)
 
 ---
 
@@ -195,6 +249,20 @@ Do not ignore the legitimate demands of the workers, do not pull up on the salar
 [Data](articles/920d0795.json)
 
 [Extended Data](ext_articles/920d0795.ext.json)
+
+---
+
+### ලියන පෑන කරන විනාශයක්
+
+*2024-04-19 14:36:56* · [`adalk`](https://www.ada.lk/breaking_news/ලියන-පෑන-කරන-විනාශයක්/11-409162) · `si`
+
+පෑන් නිෂ්පාදකයන් වසරකට මෙරට වෙළඳපලට පෑන් කොටි 12ක් එක් කරන බවත් එහි අන්තර්ගත ප්ලාස්ටික් ප්‍රමාණය ටොන් 80ක් බව ස්වභාවික සම්පත් හා තිරසර සංවර්ධන පිළිබඳ පාර්ලිමේන්තු ආංශික අධීක්ණ කාරක සභාවේදී , පසුගිය දිනක අනාවරණය කර තිබෙනවා.
+
+පෑන් නිශ්පාදන ආයතන ප්‍රධානීන් මෙම අවස්ථාවට සහභාගී වෙමින් ඒ්පිළිබඳ කරුණු රැසක් අනාවරණය කොට තිබෙනවා. මෙරට නිශ්පාදනය කරනුලබන පෑන් වලට යොදා ගන්නා අමුද්‍රව්‍ය  ප්‍රතිචක්‍රීකරණය කිරීමට අපහසු අතර ඒවා ප්‍රතිචක්‍රීකරණය කරනුලබන ආයතන ලංකාවේ නෙමැති බවත් ඔවුන් පවසා සිටිනවා. එසේම පෑනක වටිනාකමින් වැඩි කොටස පෑනේ තීන්ත වලට හා  පෑන් තුඩ සඳහා වැය වන බැවීන් පෑන් බටය නැවත භාවිතයට සැලැස්වීමේ ක්‍රමයක් ඇති කලද පෑන්වල මිල සැලකිය යුතු මට්ටමකින් අඩුකල නොහැකි බවද ඔවුන් පෙන්වා දුන්නා.
+
+◼️
+
+[Data](articles/b09d7ffa.json)
 
 ---
 
@@ -2155,79 +2223,5 @@ However, the stock market was sluggish because profit takings came to the fore d
 [Data](articles/a85e4282.json)
 
 [Extended Data](ext_articles/a85e4282.ext.json)
-
----
-
-### Port City officials frustrated over delay in duty free mall opening
-
-*2024-04-19 05:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Port-City-officials-frustrated-over-delay-in-duty-free-mall-opening/108-280934) · `en`
-
-Port City Colombo officials expressed frustration over delays in opening the downtown duty-free mall in Colombo.
-
-Originally scheduled to commence operations in April, the facility now faces an uncertain timeline for opening to the public, primarily due to unexpected legislative hurdles.
-
-While concerns have been raised regarding the potential impact of the duty-free mall on local businesses and Sri Lanka’s taxation framework, CHEC Port City Colombo Deputy Managing Director Thulchi Aluwihare has asserted that the facility will not have the negative effects perceived by some in the political and business communities.
-
-“The aim is not to cannibalise but to expand the market and promote economic growth. The broader objective of Port City is to increase footfall and benefit the entire Colombo ecosystem,” Aluwihare told Mirror Business.
-
-...
-
-[Data](articles/c69e531e.json)
-
-[Extended Data](ext_articles/c69e531e.ext.json)
-
----
-
-### A polite challenge to Harsha de Silva
-
-*2024-04-19 05:20:30* · [`dailyftlk`](https://www.ft.lk/columns/A-polite-challenge-to-Harsha-de-Silva/4-760784) · `en`
-
-Harsha de Silva, Member of Parliament and Chair of the Parliament Committee on Public Finance (COPF), addressed the media in Sinhala, on 17 April 2024, shedding light on the recent breakdown of debt restructuring talks between the Sri Lankan Government and the international bondholders’ “steering committee”.
-
-These confidential negotiations, conducted behind closed doors, aimed to restructure over $ 12 billion of debt. However, they faltered due to discrepancies between the bondholders’ proposed “baseline” assessments and the absence of a contingency plan to address ongoing economic fragility. Notably, the parameters outlined in the bondholders’ plan diverged from those outlined in the Government’s IMF program.
-
-...
-
-[Data](articles/8265b27b.json)
-
-[Extended Data](ext_articles/8265b27b.ext.json)
-
----
-
-### Executive Director Aryasinha draws attention to ‘bottlenecks’ faced by Sri Lanka in enhancing exports and FDI
-
-*2024-04-19 05:14:33* · [`dailyftlk`](https://www.ft.lk/opinion/Executive-Director-Aryasinha-draws-attention-to-bottlenecks-faced-by-Sri-Lanka-in-enhancing-exports-and-FDI/14-760783) · `en`
-
-LKI’s Executive Director Ambassador Ravinatha Aryasinha on 30 March participated as a panellist in a webinar titled “The FTA Pathway: Exploring Sri Lanka’s Exports & FDI Potential”. This event was organised by the International Chamber of Commerce Sri Lanka (ICC), in collaboration with the BOI, the Daily FT and several other economic organisations. The Minister of Foreign Affairs M.U.M. Ali Sabry, Indian High Commissioner to Sri Lanka Santosh Jha, and former Trade Economist at the World Bank Dr. Nihal Pitigala were the keynote speakers on this occasion.
-
-...
-
-[Data](articles/47ff80fa.json)
-
-[Extended Data](ext_articles/47ff80fa.ext.json)
-
----
-
-### Marikkar accuses Govt. of resisting anti-corruption measures
-
-*2024-04-19 05:12:01* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-accuses-Govt-of-resisting-anti-corruption-measures/56-760781) · `en`
-
-Claims agreement with bondholders fell through due to Govt.’s refusal to set up anti-corruption framework
-
-Says failure to tackle corruption is delaying IMF second tranche and deal with bondholders
-
-Stresses combating corruption would attract foreign direct investments through increased investor confidence
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday claimed that the Government’s hesitance to establish an effective anti-corruption framework, as demanded by sovereign bondholders, stems from its own corrupt practices.
-
-Speaking at a press conference in Colombo, the MP said the Government allegedly could not reach an agreement with sovereign bondholders because it refused to comply with their requirement to implement an anti-corruption framework.
-
-He noted that this has caused a delay in the disbursement of the second tranche from the International Monetary Fund (IMF) and in reaching an agreement with international sovereign bondholders.
-
-...
-
-[Data](articles/89830417.json)
-
-[Extended Data](ext_articles/89830417.ext.json)
 
 ---

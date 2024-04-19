@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 10:03:34**
+As of **2024-04-19 10:18:27**
 
 ## Newspaper Stats
 
-*Scraped **19,703** Articles*
+*Scraped **19,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ economynextcom | 1,123
 adalk | 1,643
 tamilmirrorlk | 2,283
 adaderanalk | 2,358
-virakesarilk | 2,949
-dailymirrorlk | 3,050
+virakesarilk | 2,950
+dailymirrorlk | 3,051
 adaderanasinhalalk | 3,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,703 (100.0%) of 19,703 articles have been extended.
+19,703 (100.0%) of 19,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### 1991 ஆம் ஆண்டு ருமேனியாவில் இடம்பெற்ற கொலை ; தேடப்பட்டு வந்த இலங்கையர் ஜேர்மனியில் கைது
+
+*2024-04-19 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181418) · `ta`
+
+53 வயதுடைய குறித்த சந்தேக நபர் 1991 ஆம் ஆண்டு  ருமேனியாவின் தலைநகரான புக்கரெஸ்டில் கொலை சம்பவத்துடன் தொடர்புடையவராவார்.
+
+இந்நிலையில், ஜேர்மனியில் கைதான சந்தேக நபர் 19 ஆண்டு சிறைத்தண்டனையை அனுபவிக்க 23 ஆம் திகதி  ருமேனியாவுக்கு அழைத்து வரப்படவுள்ளார்.
+
+1991 ஆம் ஆண்டு டிசம்பர் மாதம்  ருமேனியாவின் தலைநகரான புக்கரெஸ்டில்  சந்தேக நபர் தனது வீட்டில்  வெளிநாட்டு பிரஜை ஒருவரை கொலை செய்துள்ளார். கொலை செய்யப்பட்ட  நபரை ஒரு கம்பளத்தில் போர்த்தி  அயலூரான  க்ராங்காசிக்கு கொண்டு சென்று மோரி ஏரியில் வீசியுள்ளார்.
+
+இதனை அடுத்து  ருமேனியா பொலிஸ் ஜேர்மனியின் மோயர்ஸ் நகரில்  ஜனவரி மாதம் 3 ஆம் திகதி சந்தேக நபரை கைது செய்துள்ளது.
+
+சந்தேக நபர் ருமேனியாவிற்கு அழைத்து செல்லப்பட்டு தண்டனையை அனுபவிக்க தனி நபர் சிறையில் அடைக்கப்படுவார் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f627cc92.json)
+
+---
+
+### 25 train services cancelled till April 25
+
+*2024-04-19 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/25-train-services-cancelled-till-April-25/108-280965) · `en`
+
+Colombo, April 19 (Daily Mirror) - Due to a lack of railway power sets, the Railways Department has decided to cancel 25 train services operating from Colombo, until April 25.
+
+It has decided to cancel two train services operating on the main line and the Kelani Valley line.
+
+Accordingly, the trains operating from Colombo Fort (7.15 p.m.) to Padukka, from Colombo Frort (7.02 a.m.) to Ragama, from Ragama (7.30 a.m.) to Colombo Fort, and from Padukka (5.20 a.m.) to Colombo Fort have been cancelled.
+
+◼️
+
+[Data](articles/3dbc8180.json)
+
+---
 
 ### Final rites of former MP Palitha Thewarapperuma to be performed today
 
@@ -2173,63 +2209,5 @@ The cabinet of ministers, incumbent and former health sector officials, former H
 [Data](articles/a90734b7.json)
 
 [Extended Data](ext_articles/a90734b7.ext.json)
-
----
-
-### Action to investigate the risks caused by the appearance of pipelines in Jaffna
-
-*2024-04-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181392) · `ta`
-
-The Jaffna Mawatte Coordinating Committee decided to investigate risks from pipelines in Jaffna, including groundwater contamination, and to control illegal activities.
-
-🟩
-
-It has been decided at a meeting of the Jaffna Mawatte Coordinating Committee to conduct a decision on the appearance of pipelines in Jaffna.
-
-Yall. District Coordinating Committee Meeting Minister Douglas Devananda and Governor of the Northern Province BSMM. The Jaffna District Secretariat was held on Thursday at the Jaffna District Secretariat.
-
-At the same time, it was pointed out that the large number of pipelines are being beaten in Jaffna, so there is a risk of groundwater.
-
-This was followed by arguments at the meeting. It was then decided that the results of the impact of the pipeline would be conducted and the decision to control them on the basis of it.
-
-At the same time, decisions were taken at the meeting to take action on the control of illegal activities in Jaffna and to take action to completely control them.
-
-◼️
-
-[Data](articles/3af5e963.json)
-
-[Extended Data](ext_articles/3af5e963.ext.json)
-
----
-
-### 60 thousand people in the north by the end of May - Northern Governor
-
-*2024-04-18 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181390) · `ta`
-
-The Northern Governor announced land assurance suspension, resettlement by year-end, and 60k people to receive land by May.
-
-🟩
-
-The Governor said at a meeting of the Jaffna District Coordinating Committee that the land assurance has been suspended in the Northern Province.
-
-Governor of the Northern Province B.. S.. M.. Charles at the meeting
-
-Resettlement measures are being carried out in accordance with the President's Workplace that the resettlement process should be completed by the end of this year.
-
-Thousands of 500 families, friends and relatives stay in the homes of Jaffna district. A special meeting should be held on resettlement.
-
-I have also advised the department officials to take immediate action on the power supply of the homes of the people who have already been resettled.
-
-Meanwhile, in the Northern Province, the operations of the landing bonds have been temporarily suspended.
-
-The land will be handed over to 60 thousand people in the Northern Province by the end of May.
-
-Discussions and plans on the housing scheme to be carried out in the Northern Province have reached its final stage.
-
-...
-
-[Data](articles/a5f1a8c4.json)
-
-[Extended Data](ext_articles/a5f1a8c4.ext.json)
 
 ---

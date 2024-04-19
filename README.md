@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 08:18:17**
+As of **2024-04-19 08:06:12**
 
 ## Newspaper Stats
 
@@ -26,33 +26,27 @@ adaderanasinhalalk | 3,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,681 (100.0%) of 19,682 articles have been extended.
+19,674 (100.0%) of 19,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### Others killed in the accident that he was riding
+### තමන් පැදවූ රථයටම යටවූ එක්දරු පියා ජීවිතක්ෂයට
 
 *2024-04-19 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195771) · `si`
 
-In a tragic accident on the Kandagala Kanda road, a lorry carrying Kosgama's family was involved in a fatal crash. The driver, along with Kosgama's mother, wife, mother-in-law, and daughter, were killed. The lorry was flipped over.
+කොස්ගම අලුත් අම්බලම බැරේගල කන්ද මාර්ගයේදී සිදුවූ අවාසනාවන්ත රිය අනතුරකින් ජීවිතයක් අහිමිවී තිබේ.
 
-🟩
+ඊයේ (18) දහවල් ලොරි රථයක් බැරේගල කන්ද මාර්ගයේ ධාවනය කරමින් සිටියදී අතරමැද නතරවී ඇත.
 
-Kosgama's unfortunate accident has been lost by a unfortunate accident on the Kandagala Kandagala road.
+එහිදී රියදුරු විසින් ලොරි රථයේ ගමන් කරමින් සිටි ඔහුගේ මව, බිරිඳගේ මව, බිරිඳ සහ දියණියව ලොරි රථයෙන් බස්සවා නැවත රථය පනගැන්වීමට උත්සාහ කර තිබේ.
 
-A lorry was running on the Kandagala Kanda road yesterday (18).
-
-The driver of his mother, his mother, his mother, wife, mother's mother, and daughter, have been buried with the lorry, and tried to raise the lorry.
-
-The driver was subjected to the lorry that the vehicle was taken back and flipled the road.
+එහිදී රථය පිටුපසට ගොස් මාර්ගයේ පෙරළීයෑමෙන් රියදුරු ලොරි රථයට යටවී බරපතළ තුවාල ලබා තිබුණි.
 
 ◼️
 
 [Data](articles/04765c43.json)
-
-[Extended Data](ext_articles/04765c43.ext.json)
 
 ---
 
@@ -70,35 +64,27 @@ Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika 
 
 [Data](articles/e7932812.json)
 
-[Extended Data](ext_articles/e7932812.ext.json)
-
 ---
 
-### Funeral of the body of Palitha Thevarapperuma today
+### පාලිත තෙවරප්පෙරුමගේ දේහය පිළිබඳ අවසන් කටයුතු අද
 
 *2024-04-19 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195770) · `si`
 
-The funeral of Deputy Minister Palitha Thevarapperuma, 64, who died from an electric shock, is today in Matugama. He served as a Deputy Minister from 2010-2020.
+අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (19) සිදුකිරීමට නියමිතව තිබේ.
 
-🟩
+අද පස්වරු 2ට මතුගම යටදොලවත්ත ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේදී ආගමික කටයුතු සිදුකර තෙවරප්පෙරුම මහතා ජීවත්ව සිටියදී ඔහු විසින්ම සකස් කළ සුසානයේදී දේහය මිහිදන් කිරීමට නියමිත බව පවුලේ ඥාතීන් සඳහන් කරයි.
 
-The funeral of the late Deputy Minister Palitha Thewarapperuma is due to be held today (19).
+දේහය පසුගිය 17 වනදා රාත්‍රියේ ඒ මහතාගේ නිවස වෙත රැගෙන ආ අතර දේහයට අවසන් ගෞරව දැක්වීම සඳහා ඊයේ රාත්‍රිය වන විටත් විශාල ජනතාවක් පැමිණි බව අද දෙරණ වාර්තාකරුවන් පැවසීය.
 
-The relatives of the family are to be buried at the ceremony that Mr. Thevupperuma is to be buried at the Yatadolawatta area in Matugama this afternoon.
+විදුලිසැර වැදීමක් හේතුවෙන් පාලිත තෙවරප්පෙරුම මහතා පසුගිය 16 වනදා ජීවිතක්ෂයට පත්වූ අතර ඒ වන විට ඔහු 64 වැනි වියේ පසුවුණි.
 
-The remains were brought to his residence on the 17 night and had come to his residence, Ada Derana reporters said yesterday last night.
+2010 වසරේ සිට 2020 වසර දක්වා කළුතර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ ඔහු ස්වදේශ කටයුතු, වයඹ සංවර්ධන සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යවරයා ලෙස හා වනජීවි නියෝජ්‍ය අමාත්‍යවරයා ලෙසද ක්‍රියා කළේය.
 
-Palitha Thevarapperuma was killed by a vacation of electricity and was 64 years old.
-
-He was a Member of the Kalutara District from 2010 to 2020, as a Deputy Minister of Home Affairs, Wayamba Development and Cultural Affairs and Deputy Minister of Wildlife.
-
-Palitha Thevarapperuma was a prominent figure in society when the people were affected.
+ජනතාව පීඩාවට පත්වු අවස්ථාවලදී විශාල සමාජ මෙහෙවරක් සිදුකළ දේශපාලඥයෙකු ලෙස පාලිත තෙවරප්පෙරුම මහතා, සමාජය තුළ කැපීපෙනුනු චරිතයක් විය.
 
 ◼️
 
 [Data](articles/fe15fa22.json)
-
-[Extended Data](ext_articles/fe15fa22.ext.json)
 
 ---
 
@@ -206,8 +192,6 @@ The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young t
 
 [Data](articles/2980b703.json)
 
-[Extended Data](ext_articles/2980b703.ext.json)
-
 ---
 
 ### No presidential candidate has secured on a 50% vote base as of date
@@ -240,8 +224,6 @@ The inaugural private networking event, held recently, served as a nexus between
 
 [Data](articles/686789aa.json)
 
-[Extended Data](ext_articles/686789aa.ext.json)
-
 ---
 
 ### People’s Bank sponsors “Empowering Tomorrow’s Innovators” program to develop youth tech skills
@@ -260,8 +242,6 @@ The selection process took place in several provinces including North Central, N
 
 [Data](articles/37799bd5.json)
 
-[Extended Data](ext_articles/37799bd5.ext.json)
-
 ---
 
 ### S.J.V. Chelvanayakam and the Ilankai Thamil Arasuk Katchi
@@ -275,8 +255,6 @@ That historic conclave resulted in the launching of a new political party with t
 ...
 
 [Data](articles/494be4c5.json)
-
-[Extended Data](ext_articles/494be4c5.ext.json)
 
 ---
 

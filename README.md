@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 21:03:31**
+As of **2024-04-19 21:18:32**
 
 ## Newspaper Stats
 
-*Scraped **19,800** Articles*
+*Scraped **19,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,372
 virakesarilk | 2,970
-dailymirrorlk | 3,071
+dailymirrorlk | 3,072
 adaderanasinhalalk | 3,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,800 (100.0%) of 19,800 articles have been extended.
+19,800 (100.0%) of 19,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Fr. Cyril Gamini says he provided useful information to CID
+
+*2024-04-19 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fr-Cyril-Gamini-says-he-provided-useful-information-to-CID/108-281009) · `en`
+
+Colombo, April 19 (Daily Mirror) - Member of the Communications Committee of the Archdiocese of Colombo, Fr. Cyril Gamini Fernando who was questioned by CID today said he provided much information on the Easter Sunday attacks.
+
+Fr. Fernando who is also the editor of the Catholic Sinhalese weekly Gnanartha Pradeepaya told journalists that he passed all information he had on the Easter Sunday attacks to the CID.
+
+"The CID already posses much information on the Easter Sunday mayhem. However, no proper investigation has been conducted to date. Therefore, we have to wait and see whether my information will make any difference," he said.
+
+He was summoned to the CID to give a statement on the Easter Sunday attacks.
+
+◼️
+
+[Data](articles/01494bf9.json)
+
+---
 
 ### Demonstration of the girl's death
 
@@ -2267,25 +2285,5 @@ ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for M
 [Data](articles/067b1e67.json)
 
 [Extended Data](ext_articles/067b1e67.ext.json)
-
----
-
-### Sri Lanka at IMF/WB meeting stress need for concessional loans for Middle Income nations
-
-*2024-04-19 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-at-imf-wb-meeting-stress-need-for-concessional-loans-for-middle-income-nations-159184/) · `en`
-
-ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for Middle Income countries at the IMF/World Bank Spring Meeting, the island nation’s State Finance Minister Shehan Semasinghe said.
-
-“(I) pointed out pressure on many emerging and frontier market economies, both in terms of maintaining debt sustainability and in terms of financing long term development and sustainability needs,” Semasinghe said after taking part in the meeting late on Thursday in Washington.
-
-“I welcomed the reforms being considered by the IMF in its Lending Into Official Arrears policy which seek to address some of the challenges as constrained global financial environment has made it increasingly difficult for vulnerable middle income countries to raise required low cost. and long term financing for development needs and combating climate change.”
-
-“I proposed the need for enhanced access to concessional financing even for middle income countries which are typically not eligible for such funds.”
-
-...
-
-[Data](articles/96bec2da.json)
-
-[Extended Data](ext_articles/96bec2da.ext.json)
 
 ---

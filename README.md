@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 23:03:38**
+As of **2024-04-19 23:18:54**
 
 ## Newspaper Stats
 
-*Scraped **19,811** Articles*
+*Scraped **19,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,375
 virakesarilk | 2,971
-dailymirrorlk | 3,075
+dailymirrorlk | 3,076
 adaderanasinhalalk | 3,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,811 (100.0%) of 19,811 articles have been extended.
+19,811 (100.0%) of 19,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Don’t be deceived by NPP and cardinal Ranjith: UNP
+
+*2024-04-19 22:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-be-deceived-by-NPP-and-cardinal-Ranjith-UNP/108-281018) · `en`
+
+Colombo, April 19 - The United National Party (UNP) which is led by incumbent President Ranil Wickremesinghe today urged the Sri Lankan people not to get deceived by National Peoples Power (NPP) and Archbishop of Colombo Cardinal Malcolm Ranjith.
+
+UNP General Secretary Palitha Range Bandara made these remarks while making a special statement in reference to to the meeting which a group of NPP members had with Cardinal Ranjith on Thursday. Range Bandara questioned as to whether Cardinal is out to vouch support for NPP the same way he did for former President Gotabaya Rajapaksa in 2019.
+
+Some 272 people were killed in the Easter Sunday attacks in 2019. This should be remembered with condemnation. Archbishop of Colombo Cardinal Malcolm Ranjith had confessed after a few years that he had stood for former President Gotabaya Rajapaksa during the 2019 presidential election.
+
+...
+
+[Data](articles/82d94025.json)
+
+---
 
 ### Plans afoot to obtain ’Blue Flag Beaches’ certification for Sri Lankan beaches
 
@@ -2241,27 +2257,5 @@ Accordingly, the trains operating from Colombo Fort (7.15 p.m.) to Padukka, from
 [Data](articles/3dbc8180.json)
 
 [Extended Data](ext_articles/3dbc8180.ext.json)
-
----
-
-### Former MP Palitha Thewarapperuma’s final rites to be performed today
-
-*2024-04-19 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98716/former-mp-palitha-thewarapperumas-final-rites-to-be-performed-today) · `en`
-
-The final rites of former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma are planned to be performed this afternoon (19).
-
-The funeral procession will commence following the religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself sometime back.
-
-The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 at the time of his demise.
-
-A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
-
-He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District from 2010 to 2020.
-
-...
-
-[Data](articles/33a65c8d.json)
-
-[Extended Data](ext_articles/33a65c8d.ext.json)
 
 ---

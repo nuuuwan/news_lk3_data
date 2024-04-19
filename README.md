@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 22:33:48**
+As of **2024-04-19 22:51:14**
 
 ## Newspaper Stats
 
-*Scraped **19,809** Articles*
+*Scraped **19,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,76 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,375
 virakesarilk | 2,971
-dailymirrorlk | 3,074
-adaderanasinhalalk | 3,217
+dailymirrorlk | 3,075
+adaderanasinhalalk | 3,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,808 (100.0%) of 19,809 articles have been extended.
+19,809 (100.0%) of 19,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### கடற்படை வீரர்கள் இருவர் உட்பட 4 பேர் போதைப்பொருளுடன் கைது!
+### Plans afoot to obtain ’Blue Flag Beaches’ certification for Sri Lankan beaches
+
+*2024-04-19 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-afoot-to-obtain-Blue-Flag-Beaches-certification-for-Sri-Lankan-beaches/108-281021) · `en`
+
+Colombo, April 19 (Daily Mirror)- Steps are being taken to obtain the official certification of 'Blue Flag Beaches' for Unawatuna, Bentota, Pasikuda and Arugam Bay, the Marine Environment Protection Authority (MEPA) said.
+
+This was revealed during a recent meeting of the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development chaired by MP Ajith Mannapperuma.
+
+It was revealed that twenty-eight beaches which have more tourist attraction have been selected for the 'Blue Flag Beaches' certification and that 33 criteria need to be fulfilled for this certification.
+
+The Chairman pointed out that India, which started the initiative even after Sri Lanka, had already obtained 'Blue Flag Beaches' certification for eight beaches, whereas Sri Lanka is yet to commence the project which was initiated by him as the State Minister of Environment.
+
+The Chairman stressed the need to expedite the project in coordination with the relevant institutions.
+
+...
+
+[Data](articles/54ce27e0.json)
+
+---
+
+### අයිස් සමග තවත් පොලිස් නිලධාරියෙක් අත්අඩංගුවට
+
+*2024-04-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195795) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසයේ විශේෂ වැටලීම් ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 800ක් සමග කටාන පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරන ලද පොලිස් කොස්තාපල්වරයෙකු අද (19) බ්ලුමැන්ඩල් පොලිස් වසමේදී අත්අඩංගුවට ගෙන ඇත.
+
+මෙම පොලිස් කොස්තාපල්වරයා පසුගිය අප්‍රේල් මස 10 වනදා සිට කටාන පොලිස් ස්ථානයේ සිට සීදුව පොලිස් ස්ථානයට වෙත ස්ථාන මාරුවීම් ලබා ඇති නමුත් සේවයට වාර්තා කර නොමැති බවටද තොරතුරු අනාවරණය වී තිබේ.
+
+පොලීසිය විසින් සැකකරු ගමන්ගත් යතුරුපැදිය නවත්වන ලෙසට සංඥා කර තිබිය දී නොනවත්වා ඉදිරියට ගමන් කර ඇති අතර, එහිදී ලුහුබැඳ ගොස් සැකකාර පොලිස් කොස්තාපල්වරයා පරීක්ෂා කර ඇත.
+
+එහිදී අයිස් මත්ද්‍රව්‍ය සොයාගෙන ඇති අතර, ඔහු කලක සිට මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවෙක් බවට ද තොරතුරු අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/2d53186f.json)
+
+---
+
+### 4 people, including two Marines, arrested for drugs
 
 *2024-04-19 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181484) · `ta`
 
-சுமார் 7.5 மில்லியன் ரூபா பெறுமதியான ஐஸ் போதைப்பொருளை வைத்திருந்த குற்றச்சாட்டில் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+Two Marines and two Navy officers arrested for drug possession in Sri Lanka, with 7.5 million rupees worth of ice found.
 
-கைது செய்யப்பட்டவர்களில் இலங்கை கடற்படையின் இரண்டு லெப்டினன்ட் கமாண்டர்களும் அடங்குவதாக பொலிஸார் குறிப்பிட்டுள்ளனர்.
+🟩
 
-510 கிராம் ஐஸ் போதைப்பொருளுடன் முல்லேரிய பிரதேசத்தில் வைத்து குறித்த குழுவினர் பொலிஸாரால் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+Four people have been arrested on charges of possessing ice drugs worth about 7.5 million rupees.
+
+Police said that the arrested were two Lieutenant commanders of the Sri Lanka Navy.
+
+It is noteworthy that the group was arrested by the police in Mulleriya area with 510 grams of ice.
 
 ◼️
 
 [Data](articles/d3428149.json)
+
+[Extended Data](ext_articles/d3428149.ext.json)
 
 ---
 
@@ -2211,53 +2255,5 @@ He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a 
 [Data](articles/33a65c8d.json)
 
 [Extended Data](ext_articles/33a65c8d.ext.json)
-
----
-
-### Final rites of former MP Palitha Thewarapperuma to be performed today
-
-*2024-04-19 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98716/final-rites-of-former-mp-palitha-thewarapperuma-to-be-performed-today) · `en`
-
-The final rites of former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma are scheduled to be performed this afternoon (19).
-
-The funeral procession will commence following religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself.
-
-The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 years at the time of his demise.
-
-A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
-
-He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District from 2010 to 2020.
-
-...
-
-[Data](articles/5d36d84f.json)
-
-[Extended Data](ext_articles/5d36d84f.ext.json)
-
----
-
-### A student who was drowned in the Casalree reservoir
-
-*2024-04-19 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181424) · `ta`
-
-A 17-year-old student drowned in the Kasalree reservoir while swimming, despite security warnings. Family and officials are searching for the body.
-
-🟩
-
-A 17 -year -old student who was drowned in the Kasalree reservoir has been drowned and disappeared.
-
-A 17 -year -old schoolgirl from Kasalree has disappeared.
-
-The young man was caught up in the reservoir with his family at around 3.30 pm yesterday (18).
-
-Security officers and residents responsible for the Kasalree reservoir are working on searching for the body of the student.
-
-The incident is said to have taken place while the student was swimming, regardless of the warning of security officers.
-
-◼️
-
-[Data](articles/d27f36f0.json)
-
-[Extended Data](ext_articles/d27f36f0.ext.json)
 
 ---

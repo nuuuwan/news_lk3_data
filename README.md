@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 19:34:00**
+As of **2024-04-19 19:51:30**
 
 ## Newspaper Stats
 
-*Scraped **19,794** Articles*
+*Scraped **19,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,371
-virakesarilk | 2,968
+adaderanalk | 2,372
+virakesarilk | 2,969
 dailymirrorlk | 3,070
 adaderanasinhalalk | 3,213
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 3,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,793 (100.0%) of 19,794 articles have been extended.
+19,794 (100.0%) of 19,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Indian election: K. Nalini becomes first resident of Sri Lankan refugee camp to vote
+
+*2024-04-19 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98730/indian-election-k-nalini-becomes-first-resident-of-sri-lankan-refugee-camp-to-vote) · `en`
+
+Friday, April 19, 2024, was a special day for K. Nalini, as the 38-year-old homemaker from the Kottapattu camp for Sri Lankan refugees in Tiruchi district, became the first naturalised Indian national from her community to exercise her franchise at the booth at St. Lourdes Primary School.
+
+“My only hope is for my family and children to be able to progress and live without fear in India, as Indians,” Ms. Nalini told The Hindu. “The Tamil Nadu government has taken good care of the 450 families in our camp, by providing free electricity, water and medical aid, but the lack of official identity papers remains a stumbling block for many of the older residents,” she added.
+
+...
+
+[Data](articles/1c7a8733.json)
+
+---
+
+### சர்வோதய ஸ்தாபகர் ஏ.டி. ஆரியரத்னவின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+
+*2024-04-19 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181482) · `ta`
+
+சிறந்த சமூக செயற்பாட்டாளராக இருந்த சர்வோதய இயக்கத்தின் ஸ்தாபகர் ஏ.டி.ஆரியரத்னவின் பூதவுடலுக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க வெள்ளிக்கிழமை (19) முற்பகல் இறுதி அஞ்சலி செலுத்தினார்.
+
+பூதவுடல் வைக்கப்பட்டுள்ள மொரட்டுவை சர்வோதய தலைமையகத்திற்கு வெள்ளிக்கிழமை (19) முற்பகல் சென்ற ஜனாதிபதி, பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தியதுடன், அங்கு வைக்கப்பட்டிருந்த இரங்கல் குறிப்பேட்டில் குறிப்பொன்றையும் இட்டார்.
+
+ஐக்கிய தேசியக் கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன உள்ளிட்ட பலர் இதன்போது உடன் இருந்தனர்.
+
+◼️
+
+[Data](articles/cf1f4d10.json)
+
+---
 
 ### Crude oil prices jump, equities sink as Israel rains missiles on Iran
 
@@ -43,6 +73,8 @@ Brent crude oil prices surged by over 3 per cent to approximately $90 per barrel
 ...
 
 [Data](articles/52ec34f6.json)
+
+[Extended Data](ext_articles/52ec34f6.ext.json)
 
 ---
 
@@ -2233,53 +2265,5 @@ However, SJB Leader Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella
 [Data](articles/9a7c409c.json)
 
 [Extended Data](ext_articles/9a7c409c.ext.json)
-
----
-
-### Israeli launches missile attack on Iran – media reports
-
-*2024-04-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98715/israeli-launches-missile-attack-on-iran-media-reports) · `en`
-
-Israeli missiles have hit a site in Iran, ABC News reported late on Thursday, citing a U.S. official, days after Iran launched a drone strike on Israel in response to an attack at the Iranian embassy in Syria.
-
-Iran’s Fars news agency said an explosion was heard at an airport in the Iranian city of Isfahan but the cause was not immediately known. Several Iranian nuclear sites are located in Isfahan province, including Natanz, centerpiece of Iran’s uranium enrichment program.
-
-Over the weekend, Iran launched hundreds of drones, opens new tab and missiles in a retaliatory strike after a suspected Israeli strike on its embassy compound in Syria.
-
-Most of the drones and missiles were downed before reaching Israeli territory.
-
-Iran told the United Nations Security Council on Thursday that Israel “must be compelled to stop any further military adventurism against our interests” as the U.N. secretary-general warned that the Middle East was in a “moment of maximum peril.”
-
-◼️
-
-[Data](articles/a3e998e0.json)
-
-[Extended Data](ext_articles/a3e998e0.ext.json)
-
----
-
-### Israel launches relief to Iran
-
-*2024-04-19 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195772) · `si`
-
-Israel has launched relief efforts to Iran, amidst reports of Iran requesting a missile attack. Israel has targeted a nuclear facility in Isfahan, leading to Iranian air defenses intercepting attacks and halting commercial flights over Iran.
-
-🟩
-
-Foreign media reports that Iran has requested a missile attack.
-
-Foreign media reports that Israel has been launched by Israel.
-
-The state of the state has several nuclear power plants in the state.
-
-Israel has initiated on Assault On Iran, Targeting the Nuclear Facility Situated in ISFAHhan.
-
-Iranian Air Defenses ARODIVEING THE ATTREKS ON THEIR FACILITIES, PROLTING A HALT IN COMMERCIAL FLIGHS OVERI IRAN.
-
-◼️
-
-[Data](articles/51e2a4c9.json)
-
-[Extended Data](ext_articles/51e2a4c9.ext.json)
 
 ---

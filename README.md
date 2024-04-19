@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 23:33:52**
+As of **2024-04-19 23:52:49**
 
 ## Newspaper Stats
 
-*Scraped **19,812** Articles*
+*Scraped **19,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,131
+economynextcom | 1,136
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,375
+adaderanalk | 2,376
 virakesarilk | 2,971
 dailymirrorlk | 3,076
 adaderanasinhalalk | 3,218
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,812 (100.0%) of 19,812 articles have been extended.
+19,812 (100.0%) of 19,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Fortified rice distribution begins to provide nutritious meals to schoolchildren
+
+*2024-04-19 23:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98733/fortified-rice-distribution-begins-to-provide-nutritious-meals-to-schoolchildren) · `en`
+
+The distribution of fortified rice, provided by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, commenced today, (19) at the Veyangoda warehouse complex.
+
+In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of Mr. M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
+
+As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20). This rice stock is being delivered to schools under the supervision of officials from the respective Provincial Departments of Education and Public Health Inspectors (PHIs).
+
+...
+
+[Data](articles/e9767e8b.json)
+
+---
 
 ### Don’t be deceived by NPP and cardinal Ranjith: UNP
 
@@ -530,6 +546,34 @@ ABC News reported that Israel had attacked Iran, citing a senior U.S. official. 
 
 ---
 
+### Sri Lanka discussing giving extra land, water for Chinese oil refinery
+
+*2024-04-19 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-giving-extra-land-water-for-chinese-oil-refinery-159439/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in discussions with China’s Sinopec to give extra land and assure water supplies after the company decided to expand the capacity of a planned oil refinery in Hambantota, Energy Minister Kanchana Wijesekera said.
+
+“There are concerns on how the water supply is going to be provided for the refinery,” Minister Wijesekera told reporters Friday.
+
+The refinery will need more land and also revise conditions in a Board of Investment agreement, he said.
+
+Sinopec to double capacity of new refinery in Sri Lanka’s Hambantota
+
+Recommendations and decisions from Sri Lanka’s side had already been sent and Sinopec is expected to revert back in May.
+
+“We are hoping to sign the agreement once everyone has agreed,” Wijesekara said.
+
+The principle agreements are expected to be signed by June, he said.
+
+The refinery could sell up to 10 percent of its output in the domestic market.
+
+“There is no commitment by the government to purchase anything,” Minister Wijesekera said. (Colombo/Apr19/2024)
+
+◼️
+
+[Data](articles/27ae1e4b.json)
+
+---
+
 ### International Investigation into Life Sunday attacks
 
 *2024-04-19 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181475) · `ta`
@@ -642,6 +686,32 @@ A stakeholder meeting, hosted by the Alliance for Aquatic Research and Conservat
 
 ---
 
+### Sri Lanka rupee closes weaker at 302.00/50 to the US dollar
+
+*2024-04-19 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-00-50-to-the-us-dollar-159407/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.00/50 to the US dollar in the spot forex market on Friday, down from 301.50/302.00 a day earlier, dealers said.
+
+There was increased demand for dollars after the central bank bought 715 million dollars from forex markets. In the previous two months it was buying on average about 200 million US dollars, leaving market participants and bank in a ‘oversold’ position.
+
+READ Sri Lanka rupee quoted wide to US dollar as peg inconsistencies flare up
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent down from 11.35/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.05 percent up from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.15/25 percent.
+
+A bond maturing on 15.09.2029 closed stable at 12.30/40 percent.
+
+A bond maturing on 01.10.2032 closed stable at 12.40/50 percent. (Colombo/Apr19/2024)
+
+◼️
+
+[Data](articles/2a76f0ec.json)
+
+---
+
 ### Heat advisory issued for seven provinces
 
 *2024-04-19 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98728/heat-advisory-issued-for-seven-provinces) · `en`
@@ -701,6 +771,28 @@ Tehran played down the incident and indicated it had no plans for retaliation - 
 [Data](articles/020f519e.json)
 
 [Extended Data](ext_articles/020f519e.ext.json)
+
+---
+
+### Sri Lanka stocks close down, banks trade down
+
+*2024-04-19 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-trade-down-159399/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.38 percent, or 44.80 points, at 11,753; while the S&P SL20 Index closed down 0.53 percent, or 18.46 points, at 3,456.
+
+Turnover was at 1.4 billion. The diversified financials (Rs366mn) and banks (Rs266mn) sectors continued to see selling pressure.
+
+“This was possibly due to uncertainty around the bond discussions,” market participants said.
+
+With the exception of Sampath Bank Plc (up at 77.50) all other banks traded down in the day. Commercial Bank of Ceylon Plc was down at 104.50, Hatton National Bank Plc was down at 188.50, and DFCC Bank Plc was down at 77.00.
+
+LOLC Finance Plc saw the most trades and closed up at 6.40. Another LOLC company, Browns Investments Plc, also saw high traded volumes and closed up at 5.60.
+
+...
+
+[Data](articles/cb421b9d.json)
 
 ---
 
@@ -1024,6 +1116,30 @@ Do not ignore the legitimate demands of the workers, do not pull up on the salar
 
 ---
 
+### Sri Lanka’s Galadari plans $20mn loan from UAE’s Masheq Bank
+
+*2024-04-19 15:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-galadari-plans-20mn-loan-from-uaes-masheq-bank-159378/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Galadari Hotels (Lanka) Plc said it plans to get a 73.4 million Dirham loan (20 million dollars) from UAE-based, Mashreq Bank PSC, subject to regulatory approvals.
+
+The facility is made up of a 73.4 million dirham loan and a 14.86 million dirham ‘green loan’, the firm said in a stock exchange filing.
+
+The money will be used to renovate Galadari Hotel in Colombo.
+
+Shareholders approved the borrowing at an extraordinary general meeting on April 18.
+
+Galadari Hotels said in a February filing that it intended to enter into agreements with its parent, Dubai-based Galadari Brothers LLC and Mashreq Bank PSC to fund refurbishment.
+
+Shares of Galadari Hotels (Lanka) Plc were flat at 17.50 in intra day trading Friday.
+
+Sri Lanka is targeting 2.3 million tourists in 2024, up from 1.48 last year. (Colombo/Apr19/2024)
+
+◼️
+
+[Data](articles/34ceaf99.json)
+
+---
+
 ### Destruction of writing
 
 *2024-04-19 14:36:56* · [`adalk`](https://www.ada.lk/breaking_news/ලියන-පෑන-කරන-විනාශයක්/11-409162) · `si`
@@ -1195,6 +1311,26 @@ The body of the student has been recovered by the residents of the area and plac
 [Data](articles/835d616f.json)
 
 [Extended Data](ext_articles/835d616f.ext.json)
+
+---
+
+### Sri Lanka opposition leader questions visa fee hike
+
+*2024-04-19 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-questions-visa-fee-hike-159352/) · `en`
+
+ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa has questioned a decision to increase tourist visa fees, claiming that the nearly 50-percent fee hike could jeopardise the island nation’s booming tourism industry.
+
+“The tourism industry is moving forward gradually. A large number of tourists have started to visit our country. At such a time, visa fees on tourists have suddenly been increased,” Premadasa said speaking at an event.
+
+The increase in the visa fee could bring the improving tourism sector to a standstill, he warned.
+
+Premadasa also claimed that Russia’s Red Wings airline, which had been sending charter flights carrying up to 800 tourists a week, have stopped flying to Sri Lanka citing the visa fee hike as one reason.
+
+“When this decision was made, did the government not do a scientific analysis?” he said.
+
+...
+
+[Data](articles/9a5dae23.json)
 
 ---
 
@@ -2133,131 +2269,5 @@ The Colombo Stock Exchange opened down; the ASPI was down 0.69 percent at 11,716
 [Data](articles/345bc8c3.json)
 
 [Extended Data](ext_articles/345bc8c3.ext.json)
-
----
-
-### Fr. Cyril Gamini arrives at CID
-
-*2024-04-19 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98717/fr-cyril-gamini-arrives-at-cid) · `en`
-
-Rev. Fr. Cyril Gamini Fernando, the Editor of the official Catholic Sinhala weekly ‘Gnanartha Pradeepaya’, arrived at the Criminal Investigation Department (CID) premises this morning (19), complying with the summons issued to him.
-
-On Wednesday (17), the CID issued summons to the Catholic priest, who is also a spokesperson of the Colombo Archdiocese, to record a statement pertaining to the 2019 Easter Sunday terror attacks.
-
-◼️
-
-[Data](articles/7b21e4b7.json)
-
-[Extended Data](ext_articles/7b21e4b7.ext.json)
-
----
-
-### Cyril Gamini comes under CID
-
-*2024-04-19 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195776) · `si`
-
-Cyril Gamini, Catholic newspaper chief, summoned to CID for Passover attack info.
-
-🟩
-
-Cyril Gamini, the chief of the Catholic newspaper, was summoned to the CID today (19).
-
-Accordingly, Cyril Gamini has arrived at the CID.
-
-"The Criminal Investigation Department (CID) had informed the call for the call, as you have received information about the Passover attack.
-
-◼️
-
-[Data](articles/73ffa228.json)
-
-[Extended Data](ext_articles/73ffa228.ext.json)
-
----
-
-### Hike
-
-*2024-04-19 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181422) · `ta`
-
-"Hike: Vow prices range from 10 to 15 rupees. Economic centers sell 100 paws for 400 to 500 rupees, and 100 wine for 1,000 rupees. Vow price increased from 10 to 15 rupees, total for 100 packets is 800 rupees."
-
-🟩
-
-The price of a vow is sold for 10 rupees to 15 rupees.
-
-At the economic centers, 100 paws are sold at 400 to 500 rupees, and the retail price of 100 wine is found at 1,000 rupees.
-
-Also, the price of a vow has increased from 10 to 15 rupees. The total price of 100 packets is 800 rupees.
-
-◼️
-
-[Data](articles/07e9c28e.json)
-
-[Extended Data](ext_articles/07e9c28e.ext.json)
-
----
-
-### Murder in Romania in 1991;Arrested Sri Lankan in Germany
-
-*2024-04-19 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181418) · `ta`
-
-A 53-year-old Sri Lankan was arrested in Germany for the 1991 murder in Romania, Bukarestil. The suspect, arrested in Moor's city, will be brought to Romania on the 23rd to serve a 19-year prison sentence.
-
-🟩
-
-The 53 -year -old suspect was involved in the 1991 murder of Romania, Bukarestil.
-
-In this case, the suspect in Germany will be brought to Romania on the 23rd to serve a 19 -year prison sentence.
-
-In December 1991. The murdered man was wrapped on a carpet and took him to a neighbor Krangasi and threw it into Mori Lake.
-
-Following this, Romania Police arrested the suspect on January 3 in Moor's city of Germany.
-
-It is reported that the suspect will be taken to Romania and will be jailed for an individual to serve the sentence.
-
-◼️
-
-[Data](articles/f627cc92.json)
-
-[Extended Data](ext_articles/f627cc92.ext.json)
-
----
-
-### Indian general election today
-
-*2024-04-19 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195775) · `si`
-
-India's general election phase 1 starts today, electing 102 MPs from 16.63 crores voters. Elections will be held in 7 stages, with results on June 4.
-
-🟩
-
-The first phase of the Voting at the Indian general election begins today (19).
-
-A group of voters of 16.63 crores will be elected to select 102 MPs under the first phase.
-
-The General Elections of the Indian General Election will be held under seven stages and the counting will be held on June 4.
-
-◼️
-
-[Data](articles/2f9e26df.json)
-
-[Extended Data](ext_articles/2f9e26df.ext.json)
-
----
-
-### 25 train services cancelled till April 25
-
-*2024-04-19 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/25-train-services-cancelled-till-April-25/108-280965) · `en`
-
-Colombo, April 19 (Daily Mirror) - Due to a lack of railway power sets, the Railways Department has decided to cancel 25 train services operating from Colombo, until April 25.
-
-It has decided to cancel two train services operating on the main line and the Kelani Valley line.
-
-Accordingly, the trains operating from Colombo Fort (7.15 p.m.) to Padukka, from Colombo Frort (7.02 a.m.) to Ragama, from Ragama (7.30 a.m.) to Colombo Fort, and from Padukka (5.20 a.m.) to Colombo Fort have been cancelled.
-
-◼️
-
-[Data](articles/3dbc8180.json)
-
-[Extended Data](ext_articles/3dbc8180.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 08:06:12**
+As of **2024-04-19 08:33:59**
 
 ## Newspaper Stats
 
-*Scraped **19,682** Articles*
+*Scraped **19,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,82 @@ dailyftlk | 1,085
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
-adaderanalk | 2,356
+adaderanalk | 2,357
 virakesarilk | 2,946
 dailymirrorlk | 3,044
-adaderanasinhalalk | 3,195
+adaderanasinhalalk | 3,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,674 (100.0%) of 19,682 articles have been extended.
+19,681 (100.0%) of 19,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### තමන් පැදවූ රථයටම යටවූ එක්දරු පියා ජීවිතක්ෂයට
+### Israeli launches missile attack on Iran – media reports
+
+*2024-04-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98715/israeli-launches-missile-attack-on-iran-media-reports) · `en`
+
+Israeli missiles have hit a site in Iran, ABC News reported late on Thursday, citing a U.S. official, days after Iran launched a drone strike on Israel in response to an attack at the Iranian embassy in Syria.
+
+Iran’s Fars news agency said an explosion was heard at an airport in the Iranian city of Isfahan but the cause was not immediately known. Several Iranian nuclear sites are located in Isfahan province, including Natanz, centerpiece of Iran’s uranium enrichment program.
+
+Over the weekend, Iran launched hundreds of drones, opens new tab and missiles in a retaliatory strike after a suspected Israeli strike on its embassy compound in Syria.
+
+Most of the drones and missiles were downed before reaching Israeli territory.
+
+Iran told the United Nations Security Council on Thursday that Israel “must be compelled to stop any further military adventurism against our interests” as the U.N. secretary-general warned that the Middle East was in a “moment of maximum peril.”
+
+◼️
+
+[Data](articles/a3e998e0.json)
+
+---
+
+### ඊශ්‍රායලය ඉරානයට ප්‍රතිප්‍රහාර දියත් කරයි
+
+*2024-04-19 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195772) · `si`
+
+ඉරානයේ නගරයකට මිසයිල ප්‍රහාරයක් ඉල්ලකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරන්නේ ඊශ්‍රායලය විසින් මිසයිල ප්‍රහාරය එල්ලකර ඇති බවය.
+
+ප්‍රහාරය එල්ලවී ඇති ප්‍රාන්තයේ න්‍යෂ්ටික බලාගාර කිහිපයක්ම ඇති බවත් විදෙස් මාධ්‍ය තවදුරටත් වාර්තා කරයි.
+
+Israel has initiated an assault on Iran, targeting the nuclear facility situated in Isfahan.
+
+Iranian air defenses are actively countering the attacks on their facilities, prompting a halt in commercial flights over Iran.
+
+◼️
+
+[Data](articles/51e2a4c9.json)
+
+---
+
+### Others killed in the accident that he was riding
 
 *2024-04-19 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195771) · `si`
 
-කොස්ගම අලුත් අම්බලම බැරේගල කන්ද මාර්ගයේදී සිදුවූ අවාසනාවන්ත රිය අනතුරකින් ජීවිතයක් අහිමිවී තිබේ.
+In a tragic accident on the Kandagala Kanda road, a lorry carrying Kosgama's family was involved in a fatal crash. The driver, along with his mother, wife, mother-in-law, and daughter, were killed. The vehicle was flipped over.
 
-ඊයේ (18) දහවල් ලොරි රථයක් බැරේගල කන්ද මාර්ගයේ ධාවනය කරමින් සිටියදී අතරමැද නතරවී ඇත.
+🟩
 
-එහිදී රියදුරු විසින් ලොරි රථයේ ගමන් කරමින් සිටි ඔහුගේ මව, බිරිඳගේ මව, බිරිඳ සහ දියණියව ලොරි රථයෙන් බස්සවා නැවත රථය පනගැන්වීමට උත්සාහ කර තිබේ.
+Kosgama's unfortunate accident has been lost by a unfortunate accident on the Kandagala Kandagala road.
 
-එහිදී රථය පිටුපසට ගොස් මාර්ගයේ පෙරළීයෑමෙන් රියදුරු ලොරි රථයට යටවී බරපතළ තුවාල ලබා තිබුණි.
+A lorry was running on the Kandagala Kanda road yesterday (18).
+
+The driver of his mother, his mother, his mother, wife, mother's mother, and daughter, have been buried with the lorry, and tried to raise the lorry.
+
+The driver was subjected to the lorry that the vehicle was taken back and flipled the road.
 
 ◼️
 
 [Data](articles/04765c43.json)
+
+[Extended Data](ext_articles/04765c43.ext.json)
 
 ---
 
@@ -64,27 +110,35 @@ Speaking to Daily Mirror, Sri Lanka Veterinary Association Secretary Dr. Desika 
 
 [Data](articles/e7932812.json)
 
+[Extended Data](ext_articles/e7932812.ext.json)
+
 ---
 
-### පාලිත තෙවරප්පෙරුමගේ දේහය පිළිබඳ අවසන් කටයුතු අද
+### Funeral of the body of Palitha Thevarapperuma today
 
 *2024-04-19 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195770) · `si`
 
-අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (19) සිදුකිරීමට නියමිතව තිබේ.
+The funeral of Deputy Minister Palitha Thevarapperuma, 64, who died from an electric shock, is today. He served in various roles from 2010-2020 and was a significant figure in society.
 
-අද පස්වරු 2ට මතුගම යටදොලවත්ත ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේදී ආගමික කටයුතු සිදුකර තෙවරප්පෙරුම මහතා ජීවත්ව සිටියදී ඔහු විසින්ම සකස් කළ සුසානයේදී දේහය මිහිදන් කිරීමට නියමිත බව පවුලේ ඥාතීන් සඳහන් කරයි.
+🟩
 
-දේහය පසුගිය 17 වනදා රාත්‍රියේ ඒ මහතාගේ නිවස වෙත රැගෙන ආ අතර දේහයට අවසන් ගෞරව දැක්වීම සඳහා ඊයේ රාත්‍රිය වන විටත් විශාල ජනතාවක් පැමිණි බව අද දෙරණ වාර්තාකරුවන් පැවසීය.
+The funeral of the late Deputy Minister Palitha Thewarapperuma is due to be held today (19).
 
-විදුලිසැර වැදීමක් හේතුවෙන් පාලිත තෙවරප්පෙරුම මහතා පසුගිය 16 වනදා ජීවිතක්ෂයට පත්වූ අතර ඒ වන විට ඔහු 64 වැනි වියේ පසුවුණි.
+The relatives of the family are to be buried at the ceremony that Mr. Thevupperuma is to be buried at the Yatadolawatta area in Matugama this afternoon.
 
-2010 වසරේ සිට 2020 වසර දක්වා කළුතර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස කටයුතු කළ ඔහු ස්වදේශ කටයුතු, වයඹ සංවර්ධන සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍යවරයා ලෙස හා වනජීවි නියෝජ්‍ය අමාත්‍යවරයා ලෙසද ක්‍රියා කළේය.
+The remains were brought to his residence on the 17 night and had come to his residence, Ada Derana reporters said yesterday last night.
 
-ජනතාව පීඩාවට පත්වු අවස්ථාවලදී විශාල සමාජ මෙහෙවරක් සිදුකළ දේශපාලඥයෙකු ලෙස පාලිත තෙවරප්පෙරුම මහතා, සමාජය තුළ කැපීපෙනුනු චරිතයක් විය.
+Palitha Thevarapperuma was killed by a vacation of electricity and was 64 years old.
+
+He was a Member of the Kalutara District from 2010 to 2020, as a Deputy Minister of Home Affairs, Wayamba Development and Cultural Affairs and Deputy Minister of Wildlife.
+
+Palitha Thevarapperuma was a prominent figure in society when the people were affected.
 
 ◼️
 
 [Data](articles/fe15fa22.json)
+
+[Extended Data](ext_articles/fe15fa22.ext.json)
 
 ---
 
@@ -192,6 +246,8 @@ The Revamp Sri Lanka Youth Start-Up Challenge 1.0 is aimed at empowering young t
 
 [Data](articles/2980b703.json)
 
+[Extended Data](ext_articles/2980b703.ext.json)
+
 ---
 
 ### No presidential candidate has secured on a 50% vote base as of date
@@ -224,6 +280,8 @@ The inaugural private networking event, held recently, served as a nexus between
 
 [Data](articles/686789aa.json)
 
+[Extended Data](ext_articles/686789aa.ext.json)
+
 ---
 
 ### People’s Bank sponsors “Empowering Tomorrow’s Innovators” program to develop youth tech skills
@@ -242,6 +300,8 @@ The selection process took place in several provinces including North Central, N
 
 [Data](articles/37799bd5.json)
 
+[Extended Data](ext_articles/37799bd5.ext.json)
+
 ---
 
 ### S.J.V. Chelvanayakam and the Ilankai Thamil Arasuk Katchi
@@ -255,6 +315,8 @@ That historic conclave resulted in the launching of a new political party with t
 ...
 
 [Data](articles/494be4c5.json)
+
+[Extended Data](ext_articles/494be4c5.ext.json)
 
 ---
 
@@ -2149,51 +2211,5 @@ Meanwhile, the EBS carries are in the services of Nuwara Eliya, Ravanagoda and T
 [Data](articles/1f6e6e9b.json)
 
 [Extended Data](ext_articles/1f6e6e9b.ext.json)
-
----
-
-### Family injured in the explosion - Mullaitivu incident
-
-*2024-04-18 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181384) · `ta`
-
-A family from Pudukkudiyiruppu was injured in an explosion in Devipuram, Mullaitivu, while hunting. The 33-year-old was admitted to Mullaitivu District Hospital for treatment.
-
-🟩
-
-A family member has been admitted to the Mullaitivu District Hospital after being injured when a barrier exploded in the Devipuram area of Pudukkudiyiruppu in Mullaitivu.
-
-The incident took place on Thursday (18) afternoon.
-
-The 33 -year -old family from Mayilkunjan, Pudukkudiyiruppu, was injured.
-
-When the person moved from his home to the forest area in Devipuram (b), it was exploded to hunt animals.
-
-He was admitted to the Pudukkudiyiruppu Resource Hospital and sent to the Mullaitivu District Hospital for further treatment.
-
-◼️
-
-[Data](articles/0b2afc70.json)
-
-[Extended Data](ext_articles/0b2afc70.ext.json)
-
----
-
-### Hotline numbers to provide information regarding environmental damage
-
-*2024-04-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98705/hotline-numbers-to-provide-information-regarding-environmental-damage) · `en`
-
-Sri Lanka Police says the general public can provide any information regarding environmental destruction via the hotline numbers ‘1997’ and ‘1981’.
-
-Police said steps have been taken to inform people regarding the matter, since the information provided by the general public plays a major role in operations carried out in relation to environmental destruction.
-
-The illegal mining activities, environmental damage caused by factories and sound pollution have had a severe impact on the environment and wild animals.
-
-Accordingly, the hotline numbers ‘1997’ of the Police Special Bureau and ‘1981’ of Central Environment Authority (CEA) has been introduced in order to receive information and complaints regarding such environmental damages caused by people, the police said.
-
-◼️
-
-[Data](articles/763e9d3a.json)
-
-[Extended Data](ext_articles/763e9d3a.ext.json)
 
 ---

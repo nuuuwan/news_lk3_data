@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 12:18:33**
+As of **2024-04-19 12:34:03**
 
 ## Newspaper Stats
 
-*Scraped **19,735** Articles*
+*Scraped **19,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,646
 tamilmirrorlk | 2,287
 adaderanalk | 2,361
 virakesarilk | 2,956
-dailymirrorlk | 3,055
+dailymirrorlk | 3,056
 adaderanasinhalalk | 3,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,734 (100.0%) of 19,735 articles have been extended.
+19,735 (100.0%) of 19,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Two arrested with over 1,000 narcotic pills
+
+*2024-04-19 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-arrested-with-over-1-000-narcotic-pills/108-280974) · `en`
+
+Pulmudai, April 19 (Daily Mirror)- Two individuals were arrested with some 1,229 narcotic pills in their possession at Pulmudai last morning, Police said.
+
+They were arrested during a joint raid conducted by the Pulmudai police and STF personnel.
+
+◼️
+
+[Data](articles/9cd1a5bb.json)
+
+---
 
 ### How to live on Mars: Sri Lankan scientist for study
 
@@ -1164,27 +1178,35 @@ Winds will be variable in direction and wind speed will be 20-30 kmph.
 
 ---
 
-### කොවිඩ්-19 සහ ඉන්ෆ්ලුවෙන්සා යළිත් ශ්‍රී ලංකාවේ සෞඛ්‍යයට අභියෝගයක් වෙමින් තිබේ ද?
+### Is the Cowid-16 and influenza becoming a challenge for health of Sri Lanka?
 
 *2024-04-19 06:07:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5k859w9z5o) · `si`
 
-කොවිඩ්-19 සහ ඉන්ෆ්ලුවෙන්සා යළිත් ශ්‍රී ලංකාවේ සෞඛ්‍යයට අභියෝගයක් වෙමින් තිබේ ද?
+Sri Lanka faces health challenges with 3 deaths from COVID-16 and influenza in 5 days. A 63-year-old died from COVID-16, and a 62-year-old woman from influenza. The Epidemiology Unit warns of influenza's seriousness, especially in high-risk groups, with peaks in May-July and Nov-Jan.
 
-ශ්‍රී ලංකාවේ මේ දිනවල යළිත් සෞඛ්‍ය ක්ෂේත්‍රය සම්බන්ධ සංවේදී තත්ත්වයක් ඉස්මතු වෙමින් පවතී.ඒ, කොවිඩ්-19 මරණ කිහිපයක් සහ ඉන්ෆ්ලුවෙන්සා රෝගී තත්ත්වයක් වාර්තා වීමත් සමග ය.
+🟩
 
-අප්‍රේල් 12 වන දා සිට අප්‍රේල් 17 වන දා දක්වා ගතවූ දින 5ක කාලය තුළ කොවිඩ් වෛරසය හේතුවෙන් සිදුවූ බවට සැකකෙරෙන මරණ 3ක් වාර්තා වී තිබේ.
+Is the Cowid-16 and influenza becoming a challenge for health of Sri Lanka?
 
-කොවිඩ් ආසාදනය වීමෙන් මීගමුව රෝහලේ ප්‍රතිකාර ලබමින් සිටි රෝගියෙකු 17 වන දා මිය ගිය බව මීගමුව  රෝහලේ ප්‍රධාන අධිකරණ වෛද්‍ය නිලධාරී  ඩබ්ලිව්.ඒ.එස්.ආර්. වික්‍රමාරච්චි වාර්තා කර තිබේ.
+There is a sensitive quality of healthcare in Sri Lanka these days.
 
-මෙලෙස මියගොස් ඇත්තේ, දෙමන්හංදිය නව නගරයේ පදිංචිව සිටි 63 හැවිරිදි පුද්ගලයෙකි.
+Three dead deaths have been reported due to the Cocony virus during the past 5 days from April 12.
 
-මීගමුව නාගරික හදිසි මරණ පරීක්ෂකවරයා සිය වාර්තාවේ සඳහන් කර ඇත්තේ, වෛද්‍ය වාර්තා හා සාක්ෂි අනුව අධික රුධිර පීඩනය, දියවැඩියාව, කොවිඩ් නියුමෝනියාව වැළඳීමෙන් මෙම මරණය සිදුව ඇති බව ය.
+Catient Court Medical Officer of the Negombo Hospital, Chief Justice of the Negombo Hospital, died on the 17th. Wickramarachchi has reported.
 
-මේ අතර, කොවිඩ් ආසාදනය වී යාපනය රෝහලේ ප්‍රතිකාර ලබමින් සිටි 62 හැවිරිදි කාන්තාවක් අප්‍රේල් 12 වන දා මියගොස් තිබිණි.
+The deceased has been identified as a 63 year old resident of the Newhahiya New Town.
+
+The death of the Negombo Municipal Emergency Inspector has stated that this death has been caused by medical reports and diabetes, diabetes, covard pneumonia.
+
+Meanwhile, a 62-year-old woman who was infected with Cowid was infected with the deaths of the Jaffna Hospital on April 12.
+
+According to media reports, a woman who was killed while receiving treatment at the Kurunegala Teaching Hospital had been admitted to the Colombo Teaching Hospital.
 
 ...
 
 [Data](articles/5fcbf7b3.json)
+
+[Extended Data](ext_articles/5fcbf7b3.ext.json)
 
 ---
 
@@ -2183,25 +2205,5 @@ We have created the immigration policy. Furthermore, the labor policy has been d
 [Data](articles/52c7fad7.json)
 
 [Extended Data](ext_articles/52c7fad7.ext.json)
-
----
-
-### Don’t make Presidential election a regime changing poll: Vajira
-
-*2024-04-18 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-make-Presidential-election-a-regime-changing-poll-Vajira/108-280922) · `en`
-
-Colombo, April 18 (Daily Mirror) - People should not make the 2024 Presidential election a regime changing poll as it has to be one which elects a custodian for the nation, UNP Chairman Vajira Abeywardana said today.
-
-"The Presidential election should be one which elects a custodian who is capable of making Sri Lanka a stable country. Incumbent President Ranil Wickremesinghe is the only leader who has such a capability. People can use the  general election to bring about a regime change. They can send all 225 MPs home including me at the general election, the MP told a briefing.
-
-Asked whether people will accept  Wickremesinghe as a good custodian, the MP said such an eventuality will be obvious.
-
-"Most of you don't see what is happening behind the scenes. Therefore you  have to wait and see what will happen at the Presidential election," he said.
-
-...
-
-[Data](articles/fb9ae436.json)
-
-[Extended Data](ext_articles/fb9ae436.ext.json)
 
 ---

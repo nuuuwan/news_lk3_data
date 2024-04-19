@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 19:51:30**
+As of **2024-04-19 20:03:56**
 
 ## Newspaper Stats
 
-*Scraped **19,796** Articles*
+*Scraped **19,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,648
 tamilmirrorlk | 2,291
 adaderanalk | 2,372
 virakesarilk | 2,969
-dailymirrorlk | 3,070
+dailymirrorlk | 3,071
 adaderanasinhalalk | 3,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,794 (100.0%) of 19,796 articles have been extended.
+19,796 (100.0%) of 19,797 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,47 @@ Friday, April 19, 2024, was a special day for K. Nalini, as the 38-year-old home
 
 [Data](articles/1c7a8733.json)
 
+[Extended Data](ext_articles/1c7a8733.ext.json)
+
 ---
 
-### சர்வோதய ஸ்தாபகர் ஏ.டி. ஆரியரத்னவின் பூதவுடலுக்கு ஜனாதிபதி இறுதி அஞ்சலி
+### President pays final tribute to late Palitha Thevarapperuma
+
+*2024-04-19 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-pays-final-tribute-to-late-Palitha-Thevarapperuma/108-281008) · `en`
+
+Colombo, April 19 - President Ranil Wickremesinghe visited the home of the late former UNP Member of Parliament and former Deputy Minister, Palitha Thevarapperuma, in Yatadolawatte, Matugama where he paid his last respects and extended condolences to the grieving family and the local community today (19).
+
+Minister of State Piyal Nishantha, United National Party Chairman MP Vajira Abeywardena and a group of MPs and UNP activists attended the event.
+
+Meanwhile, President Wickremesinghe paid his respects to the late social activist and founder of the Sarvodaya movement, Dr. A.T. Ariyaratne, this morning (19).
+
+Visiting the Moratuwa Sarvodaya Headquarters where Dr. Ariyaratne was laid to rest, the President offered his final respects and left a condolence note. He also shared condolences with the grieving family members.
+
+◼️
+
+[Data](articles/5d46b025.json)
+
+---
+
+### Sarvodaya Founder AT. President's final tribute to Aryaratne
 
 *2024-04-19 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181482) · `ta`
 
-சிறந்த சமூக செயற்பாட்டாளராக இருந்த சர்வோதய இயக்கத்தின் ஸ்தாபகர் ஏ.டி.ஆரியரத்னவின் பூதவுடலுக்கு ஜனாதிபதி ரணில் விக்ரமசிங்க வெள்ளிக்கிழமை (19) முற்பகல் இறுதி அஞ்சலி செலுத்தினார்.
+President Ranil Wickremesinghe honored the founder of the Sarvodaya Movement with a final tribute at the Moratuwa headquarters, attended by UNP MP Vajira Abeywardena and others.
 
-பூதவுடல் வைக்கப்பட்டுள்ள மொரட்டுவை சர்வோதய தலைமையகத்திற்கு வெள்ளிக்கிழமை (19) முற்பகல் சென்ற ஜனாதிபதி, பூதவுடலுக்கு இறுதி அஞ்சலி செலுத்தியதுடன், அங்கு வைக்கப்பட்டிருந்த இரங்கல் குறிப்பேட்டில் குறிப்பொன்றையும் இட்டார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன உள்ளிட்ட பலர் இதன்போது உடன் இருந்தனர்.
+President Ranil Wickremesinghe paid a final tribute to the founder of the Sarvodaya Movement, the founder of the Sarvodaya Movement.
+
+On Friday (19), the President paid a final tribute to the Moratuwa Sarvodaya headquarters where the body was placed, and made a note in the condolence notebook.
+
+UNP Member of Parliament Vajira Abeywardena and many others were present.
 
 ◼️
 
 [Data](articles/cf1f4d10.json)
+
+[Extended Data](ext_articles/cf1f4d10.ext.json)
 
 ---
 
@@ -2245,25 +2271,5 @@ Under Modi’s leadership, the country of 1.4 billion people has become the worl
 [Data](articles/770c7764.json)
 
 [Extended Data](ext_articles/770c7764.ext.json)
-
----
-
-### Party leaders to shoot down MPs request for concessionary duty free vehicle permits
-
-*2024-04-19 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Party-leaders-to-shoot-down-MPs-request-for-concessionary-duty-free-vehicle-permits/108-280954) · `en`
-
-Colombo, April 19 (Daily Mirror) - A request by some MPs across the political divide for concessionary vehicle permits is likely to be shot down by the party leaders given the dire economic situation of the country, Daily Mirror learns.
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne brought to the notice of the Business Committee last week that a letter is being signed by the MPs for such a request.
-
-He said such a request would tarnish the honorary services of the MPs and therefore such facility should not be granted to them in adherence to due protocols as in the case of other public servants and judicial officers.
-
-However, SJB Leader Sajith Premadasa and Chief Opposition Whip Lakshman Kiriella said at the same meeting that such a request should not be entertained at all due to what they called bankruptcy of the country.
-
-◼️
-
-[Data](articles/9a7c409c.json)
-
-[Extended Data](ext_articles/9a7c409c.ext.json)
 
 ---

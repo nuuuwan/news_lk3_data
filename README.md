@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 23:18:54**
+As of **2024-04-19 23:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,811 (100.0%) of 19,812 articles have been extended.
+19,812 (100.0%) of 19,812 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Some 272 people were killed in the Easter Sunday attacks in 2019. This should be
 ...
 
 [Data](articles/82d94025.json)
+
+[Extended Data](ext_articles/82d94025.ext.json)
 
 ---
 

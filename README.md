@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 13:52:52**
+As of **2024-04-19 14:03:28**
 
 ## Newspaper Stats
 
-*Scraped **19,747** Articles*
+*Scraped **19,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,085
 economynextcom | 1,129
 adalk | 1,646
 tamilmirrorlk | 2,289
-adaderanalk | 2,364
+adaderanalk | 2,365
 virakesarilk | 2,959
 dailymirrorlk | 3,056
 adaderanasinhalalk | 3,204
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,747 (100.0%) of 19,747 articles have been extended.
+19,747 (100.0%) of 19,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Sri Lanka participates in Global Sovereign Debt Roundtable
+
+*2024-04-19 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98722/sri-lanka-participates-in-global-sovereign-debt-roundtable) · `en`
+
+Sri Lanka has participated in the Global Sovereign Debt Roundtable (GSDR) in Washington DC, which brings together debtor countries and creditors, in a bid to build a greater common understanding among key stakeholders on debt sustainability, debt restructuring challenges and ways to address them.
+
+Finance State Minister Shehan Semasinghe and Central Bank Governor Dr. Nandalal Weerasinghe attended the roundtable, an initiative led by the International Monetary Fund (IMF), the World Bank and G20 countries.
+
+The participants have reviewed progress on the work to improve debt restructuring processes and timelines, and to help address debt vulnerabilities. They also discussed priority areas for the work going forward.
+
+At the end of the meeting, the IMF Managing Director Kristalina Georgieva, World Bank Group President Ajay Banga, and Finance Minister of Brazil Fernando Haddad, co-chairs of the GSDR, issued the GSDR 2nd Cochairs Progress Report.
+
+...
+
+[Data](articles/a80bc485.json)
+
+---
 
 ### Presidential election: SJB floats potential backing of UNP for Sajith
 
@@ -2165,31 +2183,5 @@ A group of young parliamentarians representing the Nuwara Eliya, Hanguratta, Mas
 [Data](articles/86690e14.json)
 
 [Extended Data](ext_articles/86690e14.ext.json)
-
----
-
-### Global Week Summit of Mindfulness programme to be launched on May 3, 4
-
-*2024-04-18 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Global-Week-Summit-of-Mindfulness-programme-to-be-launched-on-May-3-4/108-280926) · `en`
-
-Colombo, April 18 (Daily Mirror) - To advance the implementation of the "Mindfulness" programme, the Education Ministry plans to launch it with a Global Week Summit on May 3 and 4.
-
-Accordingly, the summit will be held at the Nāgānanda International Institute for Buddhist Studies (NIIBS) in Kelaniya.
-
-However, the Education Ministry launched the "Mindfulness" programme as a pilot programme for schoolchildren on January 4 in all schools.
-
-The summit was organised by the Most Venerable Uda Eriyagama Dhammajīva Mahā Thera, Education Minister Susil Premajayantha, the Mindfulness foundation and the Education Ministry.
-
-Minister Susil Premajayantha has introduced the "Mindfulness" programme to the school system following a study affirming its effectiveness.
-
-Children from all different backgrounds, regardless of their castes or religions, have eagerly embraced this programme.
-
-Its significant psychological impact on enhancing educational productivity has led to considerable international recognition.
-
-...
-
-[Data](articles/04e3cce1.json)
-
-[Extended Data](ext_articles/04e3cce1.ext.json)
 
 ---

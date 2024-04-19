@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 23:52:49**
+As of **2024-04-20 00:03:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,812 (100.0%) of 19,818 articles have been extended.
+19,818 (100.0%) of 19,818 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ As planned, the distribution of 735 metric tons of rice to provincial-level scho
 ...
 
 [Data](articles/e9767e8b.json)
+
+[Extended Data](ext_articles/e9767e8b.ext.json)
 
 ---
 
@@ -572,6 +574,8 @@ The refinery could sell up to 10 percent of its output in the domestic market.
 
 [Data](articles/27ae1e4b.json)
 
+[Extended Data](ext_articles/27ae1e4b.ext.json)
+
 ---
 
 ### International Investigation into Life Sunday attacks
@@ -710,6 +714,8 @@ A bond maturing on 01.10.2032 closed stable at 12.40/50 percent. (Colombo/Apr19/
 
 [Data](articles/2a76f0ec.json)
 
+[Extended Data](ext_articles/2a76f0ec.ext.json)
+
 ---
 
 ### Heat advisory issued for seven provinces
@@ -793,6 +799,8 @@ LOLC Finance Plc saw the most trades and closed up at 6.40. Another LOLC company
 ...
 
 [Data](articles/cb421b9d.json)
+
+[Extended Data](ext_articles/cb421b9d.ext.json)
 
 ---
 
@@ -1138,6 +1146,8 @@ Sri Lanka is targeting 2.3 million tourists in 2024, up from 1.48 last year. (Co
 
 [Data](articles/34ceaf99.json)
 
+[Extended Data](ext_articles/34ceaf99.ext.json)
+
 ---
 
 ### Destruction of writing
@@ -1331,6 +1341,8 @@ Premadasa also claimed that Russia’s Red Wings airline, which had been sending
 ...
 
 [Data](articles/9a5dae23.json)
+
+[Extended Data](ext_articles/9a5dae23.ext.json)
 
 ---
 

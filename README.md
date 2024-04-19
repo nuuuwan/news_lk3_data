@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 17:54:35**
+As of **2024-04-19 18:10:00**
 
 ## Newspaper Stats
 
-*Scraped **19,785** Articles*
+*Scraped **19,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,291
 adaderanalk | 2,370
 virakesarilk | 2,966
 dailymirrorlk | 3,067
-adaderanasinhalalk | 3,210
+adaderanasinhalalk | 3,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,784 (100.0%) of 19,785 articles have been extended.
+19,785 (100.0%) of 19,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### පලස්තීනය පිළිගැනීමේ යෝජනාවට අමෙරිකාව හරස් වෙයි
+
+*2024-04-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195789) · `si`
+
+එක්සත් ජාතීන්ගේ සාමාජිකත්වය හිමි රාජ්‍යයක් ලෙස පලස්තීනය පිළිගත යුතු බවට ගෙන ආ එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිල යෝජනාවක් නිශේධ බලය යොදා පරාජය කිරීමට අමෙරිකාව කටයුතු කළේය.
+
+එම යෝජනාව බ්‍රහස්පතින්දා (18) එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයට ගෙනැවිත් තිබුණි.
+
+එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලයේ සාමාජිකයින් 12 දෙනෙක් එම යෝජනාවට පක්ෂ වූ අතර එක්සත් රාජධානිය සහ ස්විට්සර්ලන්තය ඡන්දය දීමෙන් වැළකී සිටියේය.
+
+ඒ සම්බන්ධයෙන් ඊශ්‍රායලය අමෙරිකාවට සිය ස්තූතිය ප්‍රකාශ කළ බව සඳහන් ය.
+
+එක්සත් ජාතීන්ගේ සම්පූර්ණ සාමාජිකත්වය ලබාගැනීම සඳහා පලස්තීනය 2011 සිට උත්සාහ දරයි. ඔවුන් මේ වනවිට සාමාජිකත්වය රහිත නිරීක්ෂක තත්ත්වය හිමි රාජ්‍යය කි. එම තත්ත්වය 2012 වසරේදී ඔවුන්ට හිමිවිය.
+
+◼️
+
+[Data](articles/c38b23f9.json)
+
+---
+
+### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම
+
+*2024-04-19 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195787) · `si`
+
+සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සඳහා 2023 මාර්තු 25 වනදා තරග විභාගයක් පැවැත්වීමට සියලු‍ කටයුතු සූදානම් කර තිබියදී සංවර්ධන නිලධාරීන් පිරිසක් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් හතරක් ගොනු කරනු ලැබූ බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව එම තරග විභාගය පැවැත්වීමට පෙර 2023 මාර්තු 23 වනදා ශ්‍රේෂ්ඨාධිකරණය විසින් පනවන ලද අතුරු තහනම් නියෝගය හේතු කොටගෙන පැවැත්වීමට නියමිත ව තිබූ තරග විභාගය අත්හිටවනු ලැබීය.
+
+මේ වනවිට ශ්‍රේෂ්ඨාධිකරණයේ එම පෙත්සම් විභාග වෙමින් පවතින හෙයින් ඉදිරියේදී ශ්‍රේෂ්ඨාධිකරණය විසින් ලබාදෙන තීන්දුව අනුව සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සම්බන්ධයෙන් ඉදිරි කටයුතු සිදු කිරීමට බලාපොරොත්තු වන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/2ceaae45.json)
+
+---
 
 ### Stakeholder meeting on plastic pollution
 
@@ -299,6 +335,8 @@ On April 8, during a politburo meeting chaired by former President Chandrika Ban
 ...
 
 [Data](articles/e6a1285e.json)
+
+[Extended Data](ext_articles/e6a1285e.ext.json)
 
 ---
 
@@ -2237,55 +2275,5 @@ Winds will be variable in direction and wind speed will be 20-30 kmph.
 [Data](articles/a0084a88.json)
 
 [Extended Data](ext_articles/a0084a88.ext.json)
-
----
-
-### Is the Cowid-16 and influenza becoming a challenge for health of Sri Lanka?
-
-*2024-04-19 06:07:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cl5k859w9z5o) · `si`
-
-Sri Lanka faces health challenges with 3 deaths from COVID-16 and influenza in 5 days. A 63-year-old died from COVID-16, and a 62-year-old woman from influenza. The Epidemiology Unit warns of influenza's seriousness, especially in high-risk groups, with peaks in May-July and Nov-Jan.
-
-🟩
-
-Is the Cowid-16 and influenza becoming a challenge for health of Sri Lanka?
-
-There is a sensitive quality of healthcare in Sri Lanka these days.
-
-Three dead deaths have been reported due to the Cocony virus during the past 5 days from April 12.
-
-Catient Court Medical Officer of the Negombo Hospital, Chief Justice of the Negombo Hospital, died on the 17th. Wickramarachchi has reported.
-
-The deceased has been identified as a 63 year old resident of the Newhahiya New Town.
-
-The death of the Negombo Municipal Emergency Inspector has stated that this death has been caused by medical reports and diabetes, diabetes, covard pneumonia.
-
-Meanwhile, a 62-year-old woman who was infected with Cowid was infected with the deaths of the Jaffna Hospital on April 12.
-
-According to media reports, a woman who was killed while receiving treatment at the Kurunegala Teaching Hospital had been admitted to the Colombo Teaching Hospital.
-
-...
-
-[Data](articles/5fcbf7b3.json)
-
-[Extended Data](ext_articles/5fcbf7b3.ext.json)
-
----
-
-### Wild elephants pull down 16 telephone posts
-
-*2024-04-19 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-elephants-pull-down-16-telephone-posts/108-280952) · `en`
-
-Mannar, April 19 (Daily Mirror) - A herd of wild elephant that roamed into the Settikulam-Mannar main highway in the early hours of last morning had pulled down telephone posts causing the breakdown of telecom services in several areas.
-
-Police said the jumbos had pulled down 16 telephone posts in a distance of about two kilometres.
-
-On information from police, a team of telecom officials and employees arrived and commenced repairs to the telephone line.
-
-◼️
-
-[Data](articles/b9a75526.json)
-
-[Extended Data](ext_articles/b9a75526.ext.json)
 
 ---

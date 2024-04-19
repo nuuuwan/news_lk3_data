@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 14:34:02**
+As of **2024-04-19 14:52:06**
 
 ## Newspaper Stats
 
-*Scraped **19,757** Articles*
+*Scraped **19,761** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 169
-bbccomsinhala | 206
+bbccomsinhala | 207
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
@@ -18,19 +18,59 @@ economynextcom | 1,131
 adalk | 1,646
 tamilmirrorlk | 2,289
 adaderanalk | 2,366
-virakesarilk | 2,960
+virakesarilk | 2,962
 dailymirrorlk | 3,059
-adaderanasinhalalk | 3,206
+adaderanasinhalalk | 3,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,754 (100.0%) of 19,757 articles have been extended.
+19,757 (100.0%) of 19,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### போதைப்பொருள் கடத்தல் காரர்களுக்கும் பொலிஸாருக்கும் தொடர்பு - ஒருங்கிணைப்பு குழு கூட்டத்தில் குற்றச்சாட்டு
+
+*2024-04-19 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181451) · `ta`
+
+போதைப்பொருள் கடத்தல் தொடர்பில் பெரிய முதலையை பிடியுங்கள். பொலிஸாருக்கும் தொடர்பு இருப்பதாக மக்கள் தெரிவிக்கிறார்கள் என மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் குற்றச்சாட்டு முன்வைக்கப்பட்டது.
+
+யாழ். மாவட்ட செயலக ஒருங்கிணைப்பு குழு கூட்டம்  அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சாள்ஸ் ஆகியோரது இணைத்தலைமையில் இன்று வியாழக்கிழமை (19) நடைபெற்றது.
+
+இதன்போது, பொலிஸாரால் போதைப்பெருள் கடத்தல் தொடர்பில் கருத்துகள் முன்வைக்கப்பட்டது. குறிப்பாக ஹெரோயின் தற்போது கிடைப்பதில்லை. அதற்கு பதிலாக மனநிலை பாதிக்கப்பட்டவர்களுக்கு பயன்படுத்தப்படும் மருந்து வில்லைகளே பயன்படுத்தி வருகிறார்கள். இது தொடர்பாக மன்னாரில் சிலரை கைது செய்து சட்ட நடவடிக்கைக்குட்படுத்தியுள்ளோம்.
+
+...
+
+[Data](articles/62107f41.json)
+
+---
+
+### පාලිත තෙවරප්පෙරුමගේ දේහය පිළිබඳ අවසන් කටයුතු ඇරඹේ
+
+*2024-04-19 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195783) · `si`
+
+අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/af3fb043.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-19 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181458) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஏப்ரல் 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின கொள்வனவு விலை ரூபா 296.8792 ஆகவும் விற்பனை விலை ரூபா 306.5961 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec4f72de.json)
+
+---
 
 ### Kenya’s defence chief and 9 senior officers killed in helicopter crash
 
@@ -50,23 +90,31 @@ Ruto said the Kenya Air Force had dispatched an investigation team to establish 
 
 [Data](articles/d8eddb76.json)
 
+[Extended Data](ext_articles/d8eddb76.ext.json)
+
 ---
 
-### කෙන්යාවේ ආරක්ෂක හමුදා ප්‍රධානියා ජීවිතක්ෂයට
+### Security Forces chief of Kenya
 
 *2024-04-19 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195782) · `si`
 
-කෙන්යාවේ ආරක්ෂක හමුදා ප්‍රධානියා හෙළිකොප්ටර් අනතුරකින් ජීවිතක්ෂය ට පත්වී ඇති බව වාර්තා වෙයි.
+Kenya's Security Forces chief, General Francis Omndy, and Hetekoptainera were in a dangerous situation in western Kenya, with only two survivors. President William Rooto sees this as an opportunity for Kenya.
 
-ජෙනරාල් ෆ්‍රැන්සිස් ඔමොන්ඩි ඔගොල්ලා ඇතුළු 11 දෙනෙක් ගමන්කරමින් සිටි හෙළිකොප්ටරය කෙන්යාවේ බටහිර ප්‍රදේශයකදී  අනතුරට ලක්වී ඇති බව එරට ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ජෙනරාල් ෆ්‍රැන්සිස්, කෙන්යාවේ උසස්ම හමුදා නිලධාරියා වෙයි. එම අනතුරෙන් දිවි ගලවා ගැනීමට වාසනාව ලැබී ඇත්තේ දෙදෙනෙක් ට පමණි.
+It is reported that the head of the Kenya, Kenya, has been appointed as an revelation in an revelation.
 
-ජනාධිපති විලියම් රූටෝ පැවසුවේ මෙම අවස්ථාව කෙන්යාවට ඉතා ශෝකජනක අවස්ථාවක් බවයි.
+The Hetekoptainera, who joined the General Francis Omndy, was in danger in a west of Kenya.
+
+General Francis is the highest military officer of Kenya. Only two have been found to survive the accident.
+
+President William Rooto said that this occasion was a chance to Kenya.
 
 ◼️
 
 [Data](articles/704e36ed.json)
+
+[Extended Data](ext_articles/704e36ed.ext.json)
 
 ---
 
@@ -91,6 +139,8 @@ She was charged with vilification of a corpse and attempted theft through fraud,
 ...
 
 [Data](articles/dbc0355f.json)
+
+[Extended Data](ext_articles/dbc0355f.ext.json)
 
 ---
 
@@ -808,7 +858,7 @@ Later, the patient's condition deteriorated rapidly, resulting in his demise dur
 
 *2024-04-19 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-hour-water-cut-in-Gampaha-Municipality-area/108-280966) · `en`
 
-Gampaha, April 19 (Daily Mirror)- Water supply will be interrupted for 12 hours from today at 8.30 a.m. in Gampaha due to an emergency repair of the electricity subgrid in Sapugaskanda, the National Water Supply and Drainage Board (NWS&DB) said.
+Gampaha, April 19 (Daily Mirror)- Water supply will be interrupted for 12 hours from Wednesday (24) at 8.30 a.m. in Gampaha due to an emergency repair of the electricity subgrid in Sapugaskanda, the National Water Supply and Drainage Board (NWS&DB) said.
 
 They said due to the emergency repair, the water supply to the Biyagama water refinery unit will be suspended.
 
@@ -1233,6 +1283,26 @@ In addition, the department has stated that the authorities are working to grow 
 [Data](articles/388466e5.json)
 
 [Extended Data](ext_articles/388466e5.ext.json)
+
+---
+
+### මූලය හඳුනා නොගත් වකුගඩු රෝගී තත්වයෙන් පීඩා විදින මහවැලි C කලාපයේ  වැසියෝ
+
+*2024-04-19 08:50:29* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2qv40wr51vo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, මූලය හඳුනා නොගත් වකුගඩු රෝගියෙකු 1994 දී පළමුවරට රජරට ප්‍රදේශයෙන් වාර්තා විය.
+
+මූලය හඳුනා නොගත් වකුගඩු රෝගී තත්වයෙන් පීඩා විදින මහවැලි C කලාපයේ  වැසියෝ
+
+ආරම්භක අවධියේ දී රෝග ලක්ෂණ නොපෙන්වා, අවසාන අදියරේ දී රෝග ලක්ෂණ මතුවීම නිසා මූලය හඳුනා නොගත් වකුගඩු රෝගයේ භයානක බව තේරුම් ගෙන එය කල්තියා හඳුනා ගැනීමට පැවැත්වෙන සායන වෙත ජනතාව පැමිණීම වැදගත් බව දෙහිඅත්තකණ්ඩිය, වකුගඩු රෝග නිවාරණ ඒකකයේ වෛද්‍ය සිතුමිණි හේරත්  පවසන්නීය.
+
+අම්පාර දිස්ත්‍රික්කයේ මූලය හඳුනා නොගත් වකුගඩු රෝගීන් වැඩිපුරම වාර්තා වී තිබෙන්නේ දෙහිඅත්තකණ්ඩිය ප්‍රදේශයෙනි.
+
+විශේෂයෙන් මැදිවියේ පිරිමි පුද්ගයින් මේ රෝගයට ගොදුරු වීම නිසා පවුලේ ආර්ථිකය සහ දරුවන්ගේ අධ්‍යාපනය කඩා වැටී ඔවුහු ගැටලු රැසකට මුහුණ දෙති.
+
+◼️
+
+[Data](articles/2db34d77.json)
 
 ---
 
@@ -2097,87 +2167,5 @@ He was the best politician in the minds of the people. In this case, the Vavuniy
 [Data](articles/c290694c.json)
 
 [Extended Data](ext_articles/c290694c.ext.json)
-
----
-
-### Unilever Sri Lanka, the Central Environmental Authority and the Marine Environment Protection Authority enter into a partnership for a sustainable future
-
-*2024-04-19 02:58:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-the-central-environmental-authority-and-the-marine-environment-protection-authority-enter-into-a-partnership-for-a-sustainable-future/) · `en`
-
-As part of its broader sustainability agenda, Unilever Sri Lanka remains committed to collecting +100% of the equivalent plastic it sells into the domestic market. A key enabler of this will be a public-private partnership between Unilever the CEA and the MEPA to clean and step up the health of the Kelani River which provides drinking water to 4 million Sri Lankans. This was formalized through a MoU signed recently.
-
-Ali Tariq, Chairman and CEO at Unilever Sri Lanka said, “In our efforts to create a circular economy for plastics, we are proud to confirm that over the last 2 years we have collected +100% of the equivalent plastic volume that we have sold through our products.
-
-The Kelani River clean-up  partnership will enable our commitment to continue to do so and support the national agenda of ‘Extended Producer Responsibility for plastic manufacturers’.
-
-...
-
-[Data](articles/7731e03a.json)
-
-[Extended Data](ext_articles/7731e03a.ext.json)
-
----
-
-### SLFEA appoints JAT as a Facilitation Partner for training painters to provide overseas employment opportunities
-
-*2024-04-19 02:57:00* · [`islandlk`](http://island.lk/slfea-appoints-jat-as-a-facilitation-partner-for-training-painters-to-provide-overseas-employment-opportunities/) · `en`
-
-Building on the exceptional success of the JAT Pintharoo Abhiman programme, JAT Holdings PLC – Sri Lanka’s market leader in wood coatings and brushes – recently entered into a Memorandum of Cooperation (MOC) with the Sri Lanka Foreign Employment Agency (Private) Limited (SLFEA). The partnership will allow JAT and SLFEA to collaborate towards identifying qualified Sri Lankan painters and wood craftsmen and equipping them with the training and skills necessary to suit the labour market overseas.
-
-Accordingly, the SLFEA will identify suitable foreign employment opportunities and outline the training and skills requirements for these roles. JAT will facilitate the training process for painters and wood craftsmen, and equip them with other necessary skills required for foreign employment. The two organizations will work together, with SLFEA guiding the entire process in accordance with guidelines laid down by the Sri Lanka Bureau of Foreign Employment.
-
-...
-
-[Data](articles/43a5909b.json)
-
-[Extended Data](ext_articles/43a5909b.ext.json)
-
----
-
-### Husband's death: Wife makes a bad decision
-
-*2024-04-19 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181416) · `ta`
-
-In Nedungeni, a man dies of a heart attack, and his wife, unable to cope, commits suicide. Another family member dies in the hospital.
-
-🟩
-
-When the husband dies of a heart attack in Nedungeni, the wife, who cannot bear the death of her husband, has died.
-
-A family member who lives in Nedungeni, Vavuniya, Nedungeni, has been admitted to Nedungeni Hospital after having a heart attack. When the man was ready to take the man to the Vavuniya Hospital, the family of the family of the family had gone to the Vavuniya Hospital to take the items to the Vavuniya Hospital.
-
-Meanwhile, a family member who was admitted to the Nedungeni Hospital died of a heart attack. After informing his wife, who had gone home, the wife could not bear the death of her husband and committed suicide at home.
-
-Ramachandran Raveendran, the father of two girls aged 18 and 15, aged 18 and 15, and Ramachandran Jodhiswari, 49, wife of 49 years of death.Nedungeni police are investigating the incident.
-
-◼️
-
-[Data](articles/80a56ca0.json)
-
-[Extended Data](ext_articles/80a56ca0.ext.json)
-
----
-
-### Explanation for a husband who attacked his wife with sharp weapons in Jaffna
-
-*2024-04-19 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181414) · `ta`
-
-A husband in Jaffna was arrested for attacking his wife with a sharp weapon during a New Year celebration. They've been separated for six years, with the wife visiting her sister in Jaffna. The wife was injured and is being treated at the Jaffna Teaching Hospital. The suspect is held at Mallakam court for 14 days.
-
-🟩
-
-The husband was arrested by the Vaddukoddai police for allegedly attacking his wife on Wednesday (17) with a sharp weapon.
-
-Husband and wife have been separated for six years. It is customary for his wife, who lives in Vanni, to come to his sister's house in Jaffna - Arali.
-
-In this case, the woman who was attacked by her sister had been attacked by her husband for a New Year celebration.. The injured wife has been admitted to the Jaffna Teaching Hospital and is being treated.
-
-The magistrate ordered the suspect to be kept in the Mallakam court for 14 days.
-
-◼️
-
-[Data](articles/911cd2bd.json)
-
-[Extended Data](ext_articles/911cd2bd.ext.json)
 
 ---

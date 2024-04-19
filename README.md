@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 15:18:23**
+As of **2024-04-19 15:33:48**
 
 ## Newspaper Stats
 
-*Scraped **19,763** Articles*
+*Scraped **19,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,131
 adalk | 1,647
 tamilmirrorlk | 2,289
 adaderanalk | 2,366
-virakesarilk | 2,962
+virakesarilk | 2,964
 dailymirrorlk | 3,060
 adaderanasinhalalk | 3,207
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,762 (100.0%) of 19,763 articles have been extended.
+19,763 (100.0%) of 19,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### 17 ஆமைகளை கடத்திய இருவர் காத்தான்குடி பொலிஸாரால் கைது
+
+*2024-04-19 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181464) · `ta`
+
+மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட கல்லடி  தரிசனம் பாடசாலை வீதியில் உள்ள வீடொன்றில் ஆமை இறைச்சி மற்றும் 17 ஆமைகளை காத்தான்குடி பொலிஸார் மீட்டுள்ளனர்.
+
+இதேவேளை,  இரு சந்தேக நபர்களை கைது  செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்க தெரிவித்தார்.
+
+மீட்கப்பட்ட ஆமைகளை பொலிஸார் கைப்பற்றியுள்ளத்துடன், சந்தேக நபர்களை மட்டக்களப்பு நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2488e131.json)
+
+---
+
+### முதலாளிமார் சம்மேளனத்துக்கு எதிராகவும், அடிப்படை சம்பளமாக 1,700 ரூபாவை வழங்குமாறு கோரியும்  ஆர்ப்பாட்டம்!
+
+*2024-04-19 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181462) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபா சம்பள அதிகரிப்பை வழங்குமாறு வலியுறுத்தி இலங்கைத் தொழிலாளர் காங்கிரஸால் இன்று வெள்ளிக்கிழமை கொழும்பு கோட்டை புகையிரத நிலையத்துக்கு முன்பாக மாபெரும் ஆர்ப்பாட்டமொன்று முன்னெடுக்கப்பட்டது.
+
+இ.தொ.காவின் தேசிய அமைப்பாளர் சக்திவேல் தலைமையில் இந்தப் போராட்டம் ஏற்பாடும் செய்யப்பட்டதுடன், பெருமளவான தொழிலாளர்களும், இ.தொ.காவின் ஆதரவாளர்களும் ஆர்ப்பாட்டத்தில் கலந்துகொண்டனர்.
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு நாளாந்த சம்பளமாக 1,700 ரூபாவை வழங்குமாறு அரசாங்கம் கம்பனிகளிடம் கோரிக்கை விடுத்துடன், அமைச்சரவையிலும் இதற்கு அனுமதி வழங்கப்பட்டிருந்தது.
+
+என்றாலும், கம்பனிகள் 1,700 ரூபா சம்பள அதிகரிப்பை வழங்க முடியாதென தொடர்ச்சியாக கூறிவருவதுடன், அரசாங்கத்தின் தீர்மானத்தையும் ஏற்க மறுத்து வருகின்றன.
+
+இதுதொடர்பில் தொழில் அமைச்சு, முதலாளிமார் சம்மேளனம் மற்றும் இ.தொ.காவிற்கும் இடையில் நடைபெற்ற பல சுற்றுப் பேச்சுகளும் தோல்வியிலேயே முடிந்தன.
+
+இதன் காரணமாகவே கம்பனிகளுக்கு அழுத்தம் கொடுக்கும் வகையில் இன்று கொழும்பில் பாரிய எதிர்ப்பு ஆர்ப்பாட்டமொன்றை இ.தொ.கா முன்னெடுத்துள்ளது.
+
+...
+
+[Data](articles/920d0795.json)
+
+---
 
 ### Interaction between drug traffickers and police - accusation
 
@@ -888,19 +926,25 @@ Later, the patient's condition deteriorated rapidly, resulting in his demise dur
 
 ---
 
-### බිරිය හා තවත් අයෙක් සමග මත්පැන් බීමෙන් පසු ඔහුව ඝාතනය කලේ කවුද ?
+### Who killed him after drinking with his wife and another?
 
 *2024-04-19 11:03:55* · [`adalk`](https://www.ada.lk/breaking_news/බිරිය-හා-තවත්-අයෙක්-සමග-මත්පැන්-බීමෙන්-පසු-ඔහුව-ඝාතනය-කලේ-කවුද--/11-409161) · `si`
 
-අරලගංවිල ප්‍රදේශයේ  පිඹුරැත්තෑව වැවේ පාවෙන මළ සිරුරක් තිබී සෙයාගත් බවට අරලගංවිල පොලිසිය පවසයි.
+A 67-year-old and a 47-year-old were arrested for the murder of a man found floating in Aralaganwila, identified as a fisherman. The suspects were involved in a personal dispute with the victim's wife.
 
-මරණකරු පසුගිය 17 වන දින පිඹුරත්තෑව වැවට ධීවර කටයතු සඳහා ගොස් ඇති අතර එහිදී තවත් පුද්ගලයකු හා එම පුද්ගලයායේ බිරිද සමඟ මත් පැන්පානය කර ඇති බවත්, එම අවස්ථාවේ ඇති වූ පුද්ගලික ආරවුලක් දුරදිග යාම හේතුවෙන් ඔවුන් විසින් හබලකින් හරදී ‌මෙම ඝාතනය සිදුකර ඇති බවට අනාවරණය වී ඇත.
+🟩
 
-ඝාතනය සම්බන්ධයෙන්  වයස අවුරුදු 67 ක් වූ සැකකරු හා වයස අවරුදු 47 ක් වූ සැකකාරිය අත්අඩංගුවට ගෙන ඇති බව පෙලිසිය පවසයි.
+Aralaganwila police states that a dead body of a floating body in the Welaganwila, Aralaganwila.
+
+The deceased has gone to the fishermen on the 17th and has been identified as another person and the wife of the person has been identified as a personal dispute.
+
+The 67 year old suspect and the age of 47 years have been arrested.
 
 ◼️
 
 [Data](articles/e52fa95f.json)
+
+[Extended Data](ext_articles/e52fa95f.ext.json)
 
 ---
 
@@ -2143,45 +2187,5 @@ Unilever Sri Lanka’s new Chairman and CEO Ali Tariq recently met with the Boar
 [Data](articles/bf61df7e.json)
 
 [Extended Data](ext_articles/bf61df7e.ext.json)
-
----
-
-### Asriel signs on as Diamond sponsor for CAFE 2024 – South Asia’s largest food expo
-
-*2024-04-19 04:58:05* · [`dailyftlk`](https://www.ft.lk/business/Asriel-signs-on-as-Diamond-sponsor-for-CAFE-2024-South-Asia-s-largest-food-expo/34-760772) · `en`
-
-Asriel Ltd., a beacon of culinary excellence in Sri Lanka, proudly signed on as Diamond sponsor for South Asia’s largest food expo, the Culinary Art Food Expo 2024 (CAFE 2024), now in its landmark 21st edition.
-
-The CAFE 2024 is a crucible of culinary innovation, slated to transform the gastronomic landscape from 7 - 9 June 2024, at the Bandaranaike Memorial International Conference Hall Exhibition Centre (BMICH).
-
-“The culinary arts are one of our nation’s most unique distinguishing features. Already today, Sri Lankan cuisine is beloved around the world, but we believe that this is only scratching the surface of its true potential. That is why Asriel is proud to once again sign on as Diamond sponsor to CAFE 2024 and help build the perfect stage to help our nation’s best culinary talents showcase their skill and innovative spirit,” Asriel Chairman Shiran Peiris said.
-
-...
-
-[Data](articles/e51480f7.json)
-
-[Extended Data](ext_articles/e51480f7.ext.json)
-
----
-
-### World Bank’s IFC emphasizes private sector engagement in Sri Lanka’s growth
-
-*2024-04-19 04:44:00* · [`economynextcom`](https://economynext.com/world-banks-ifc-emphasizes-private-sector-engagement-in-sri-lankas-growth-159181/) · `en`
-
-ECONOMYNEXT – The International Finance Corporation (IFC), the World Bank’s investment arm emphasized the importance of the private sector engagement in the recovery of the crisis-hit Sri Lanka’s economic growth.
-
-Riccardo Puliti, the IFC’s Vice President for Asia and the Pacific said this when he met State Finance Minister Shehan Semasinghe and the island nation’s Central Bank Governor Nandalal Weerasinghe on the sideline of IMF/World Bank Spring Meeting in Washington.
-
-“Private sector engagement is key to boost Sri Lanka’s growth & pave the way for a resilient future,” Riccardo said in his X platform citing that the discussion was a “good exchange”.
-
-The IFC last year pledged to provide Sri Lanka a $400 million cross-currency swap facility to Sri Lanka to help fund essential imports through three private banks.
-
-Semasinghe thanked Riccardo for his “insightful perspective on the importance of private sector engagement for Sri Lanka’s growth and resilience”.
-
-...
-
-[Data](articles/323002e6.json)
-
-[Extended Data](ext_articles/323002e6.ext.json)
 
 ---

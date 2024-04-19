@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 05:03:34**
+As of **2024-04-20 05:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,840** Articles*
+*Scraped **19,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,648
 tamilmirrorlk | 2,292
 adaderanalk | 2,377
 virakesarilk | 2,975
-dailymirrorlk | 3,079
+dailymirrorlk | 3,080
 adaderanasinhalalk | 3,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,840 (100.0%) of 19,840 articles have been extended.
+19,840 (100.0%) of 19,841 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -957,6 +957,26 @@ In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all
 [Data](articles/5bfd9ce2.json)
 
 [Extended Data](ext_articles/5bfd9ce2.ext.json)
+
+---
+
+### UL cancels flights to Dubai amid bad weather
+
+*2024-04-19 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UL-cancels-flights-to-Dubai-amid-bad-weather/155-281005) · `en`
+
+Colombo, April 19 (Daily Mirror) - In light of the adverse weather conditions at the Dubai International Airport, SriLankan Airlines (UL) faces flight cancellations to the UAE hub, sources said.
+
+According to reliable sources, Flight UL 225, slated for departure to Dubai at 18:25 today (April 19), has been grounded due to the turbulent weather.
+
+Further, a previous UL flight bound for Dubai had to be rerouted yesterday (April 18), while another scheduled for departure on April 17 met the same fate.
+
+In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all check-ins for passengers with connecting flights due to the ongoing operational challenges at Dubai International Airport (DXB), which is still grappling with the aftermath of a recent severe storm.
+
+"Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20)," the airline announced via social media.
+
+◼️
+
+[Data](articles/8885d06b.json)
 
 ---
 
@@ -2187,19 +2207,5 @@ Those policies have transformed India economically and culturally, and BJP rule 
 [Data](articles/067209c4.json)
 
 [Extended Data](ext_articles/067209c4.ext.json)
-
----
-
-### Preserve plantations...
-
-*2024-04-19 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Preserve-plantations/110-280978) · `en`
-
-Plantation workers attached to the Ceylon Workers' Congress (CWC) staged a protest today in front of the Fort Railway Station, demanding that the authorities protect the plantations as national treasures and increase their daily wage to Rs. 1,700 against the skyrocketing cost of living. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/f707ef2f.json)
-
-[Extended Data](ext_articles/f707ef2f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 01:18:36**
+As of **2024-04-20 01:34:05**
 
 ## Newspaper Stats
 
@@ -338,9 +338,9 @@ The Solar Powered Water Heaters, available in both Pressure and Non-Pressure var
 
 *2024-04-19 23:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98733/fortified-rice-distribution-begins-to-provide-nutritious-meals-to-schoolchildren) · `en`
 
-The distribution of fortified rice, provided by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, commenced today, (19) at the Veyangoda warehouse complex.
+The distribution of fortified rice, supplied by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for schoolchildren, commenced today, (19) at the Veyangoda warehouse complex.
 
-In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of Mr. M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
+In a bid to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
 
 As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20). This rice stock is being delivered to schools under the supervision of officials from the respective Provincial Departments of Education and Public Health Inspectors (PHIs).
 

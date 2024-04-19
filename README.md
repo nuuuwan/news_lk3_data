@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 14:18:21**
+As of **2024-04-19 14:34:02**
 
 ## Newspaper Stats
 
-*Scraped **19,754** Articles*
+*Scraped **19,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,102 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,646
 tamilmirrorlk | 2,289
-adaderanalk | 2,365
+adaderanalk | 2,366
 virakesarilk | 2,960
-dailymirrorlk | 3,058
-adaderanasinhalalk | 3,205
+dailymirrorlk | 3,059
+adaderanasinhalalk | 3,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,748 (100.0%) of 19,754 articles have been extended.
+19,754 (100.0%) of 19,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### லுணுகலை ஹொப்டன் பகுதியில் நீரில் மூழ்கி மாணவன் உயிரிழப்பு
+### Kenya’s defence chief and 9 senior officers killed in helicopter crash
+
+*2024-04-19 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98723/kenyas-defence-chief-and-9-senior-officers-killed-in-helicopter-crash) · `en`
+
+Kenya’s defence chief and nine other top brass died on Thursday in a military helicopter crash in a remote area of the country, President William Ruto said.
+
+“Today at 2:20 pm, our nation suffered a tragic air accident... I am deeply saddened to announce the passing of General Francis Omondi Ogolla, the Chief of the Kenya Defence Forces (CDF),” Ruto told reporters.
+
+The president, who had convened an urgent meeting of the National Security Council after news of the accident emerged, said nine other “gallant military personnel” on board were also killed while two survived.
+
+Ogolla, 61, a trained fighter pilot, had only been in the post a year.
+
+Ruto said the Kenya Air Force had dispatched an investigation team to establish the cause of the crash, which took place in Elgeyo Marakwet county, about 400 kilometres (250 miles) northwest of the capital Nairobi.
+
+...
+
+[Data](articles/d8eddb76.json)
+
+---
+
+### කෙන්යාවේ ආරක්ෂක හමුදා ප්‍රධානියා ජීවිතක්ෂයට
+
+*2024-04-19 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195782) · `si`
+
+කෙන්යාවේ ආරක්ෂක හමුදා ප්‍රධානියා හෙළිකොප්ටර් අනතුරකින් ජීවිතක්ෂය ට පත්වී ඇති බව වාර්තා වෙයි.
+
+ජෙනරාල් ෆ්‍රැන්සිස් ඔමොන්ඩි ඔගොල්ලා ඇතුළු 11 දෙනෙක් ගමන්කරමින් සිටි හෙළිකොප්ටරය කෙන්යාවේ බටහිර ප්‍රදේශයකදී  අනතුරට ලක්වී ඇති බව එරට ජනාධිපතිවරයා පැවසීය.
+
+ජෙනරාල් ෆ්‍රැන්සිස්, කෙන්යාවේ උසස්ම හමුදා නිලධාරියා වෙයි. එම අනතුරෙන් දිවි ගලවා ගැනීමට වාසනාව ලැබී ඇත්තේ දෙදෙනෙක් ට පමණි.
+
+ජනාධිපති විලියම් රූටෝ පැවසුවේ මෙම අවස්ථාව කෙන්යාවට ඉතා ශෝකජනක අවස්ථාවක් බවයි.
+
+◼️
+
+[Data](articles/704e36ed.json)
+
+---
+
+### Woman arrested after taking corpse to sign bank loan in Brazil
+
+*2024-04-19 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-arrested-after-taking-corpse-to-sign-bank-loan-in-Brazil/108-280998) · `en`
+
+(Sky News)- A woman has been arrested in Brazil after she brought a 68-year-old man who had been dead for hours into a bank to sign for a loan.
+
+Erika Vieira Nunes wheeled the corpse into the bank in a suburb of Rio de Janeiro and told an employee that the man wanted a loan for 17,000 reais (£2,600), security camera video showed.
+
+She then held a pen to the man saying: "Uncle, are you listening? You need to sign," according to the footage.
+
+"He doesn't say anything, that's just how he is," she said, adding: "If you're not okay, I'm going to take you to the hospital."
+
+Bank staff soon became suspicious as the man's head kept falling back so they called the police who arrested Nunes.
+
+She was charged with vilification of a corpse and attempted theft through fraud, according to the Rio newspaper O Dia.
+
+"She knew he was dead… he had been dead for at least two hours," Fabio Luiz Souza, an investigating officer told the breakfast news programme, Bom Dia Rio, on Wednesday.
+
+...
+
+[Data](articles/dbc0355f.json)
+
+---
+
+### Student dies after drowning
 
 *2024-04-19 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181455) · `ta`
 
-லுணுகலை பொலிஸ் பிரிவிற்குட்பட்ட ஹொப்டன் தோட்ட , 19 ஆவது மைல்கல் பகுதியில் உள்ள பழைய தொழிற்சாலைப் பிரிவில் மலைப்பாங்கான பிரதேசத்தில் ஓடும் ஆற்றில் மூழ்கி 16 வயது மதிக்கத்தக்க பாடசாலை மாணவரொருவர்  உயிரிழந்துள்ளார்.
+A 16-year-old girl drowned in a river near her school in Lunugala. Her body was found by locals and taken to Hoppon Resource Hospital for autopsy. Police are investigating.
 
-குறித்த மாணவனும் அவருடைய நண்பர்கள் இருவரும் ஆற்றில் நீராடிக் கொண்டிருந்த வேளை திடீரென ஏற்பட்ட சுழியில் சிக்குண்டு நீரினுள் இழுத்துச் செல்லப்பட்ட மாணவன் கற்பாறைக்குள் சிக்குண்டு உயிரிழந்துள்ளார்.
+🟩
 
-மாணவனின் சடலம் அப்பகுதி மக்களால் மீட்கப்பட்டு ஹொப்டன் ஆதார வைத்தியசாலையில்   பிரேத பரிசோதனைக்காக வைக்கப்பட்டுள்ளது. இம்மாணவன் இப்பகுதியில் உள்ள பாடசாலையொன்றில் தரம் 10 இல் கல்வி பயின்று வந்துள்ளார்.  சம்பவம் தொடர்பான மேலதிக விசாரணைகளை லுனுகலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A 16 -year -old schoolgirl has died after drowning in a river in the old factory section of the Hoppon estate in the Lunugala Police Division.
+
+While the student and his friends were drowned in the river, a student who was dragged into the water in the river suddenly died in the boulder.
+
+The body of the student has been recovered by the residents of the area and placed at the Hoppon Resource Hospital for autopsy. He is studying in Grade 10 at a school in the area.Lunugala police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/835d616f.json)
+
+[Extended Data](ext_articles/835d616f.ext.json)
 
 ---
 
@@ -68,23 +136,29 @@ At the end of the meeting, the IMF Managing Director Kristalina Georgieva, World
 
 ---
 
-### ඉංජිනේරුවා ඝාතනයේ වරදකරුවෙක් වසර 35කට පසු හසුවෙයි
+### Engkk example, guilty of murder case caught after 35 years
 
 *2024-04-19 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195781) · `si`
 
-අධිකරණය හමුවේ මරණ දඬුවම නියමවී වසර 35 ක් සැඟව සිටි පුද්ගලයෙකු පූගොඩ ප්‍රදේශයේදී අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකය මගින් ඊයේ (18) අත්අඩංගුවට ගෙන තිබේ.
+A 68-year-old man was arrested for a murder case 35 years ago, linked to a power board engineer's death. He changed his identity, and his wife, sentenced to death, was also detained. The crime was due to an illicit affair.
 
-ඒ, විදුලිබල මණ්ඩලයේ ඉංජිනේරුවකු අමානුෂික ලෙස ඝාතනය කර ශරීරය කොටස්වලට කපා සඟවා තැබීම සම්බන්ධයෙනි.
+🟩
 
-සැකකරු 68 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු සිය අනන්‍යතාව හඳුනාගත නොහැකි පරිදි ජාතික හැඳුනුම්පත සහ උප්පැන්න සහතියකයද වෙනස් කර සිටි බව විමර්ශන නිලධාරීන් සඳහන් කරයි.
+The Criminal Investigation Department (CID) and the Organized Criminal Investigation Unit of the Criminal Investigation Unit (CID) has been arrested yesterday (18) at the Pugoda area.
 
-සිද්ධිය සම්බන්ධයෙන් මරණ දඬුවම ලැබූ මෙම ප්‍රධාන සැකකරුගේ බිරිඳව ද සැඟව සිටියදී පසුගිය පෙබරවාරි 9 වනදා අත්අඩංගුවට පත්වුණි.
+It is in connection with the power board engineering inhumanly murdered and cut into the body.
 
-අනියම් සම්බන්ධතාවයක් හේතුවෙන් මෙම ඝාතනය සිදුවී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+The suspect is a 68 year old and has changed the NIC and birth system that he cannot recognize his identity.
+
+The wife of the main suspect, who was sentenced to death in connection with the incident, was also taken into custody on February 9.
+
+Investigations have revealed that the murder had taken place due to an illicit affair.
 
 ◼️
 
 [Data](articles/b0b51972.json)
+
+[Extended Data](ext_articles/b0b51972.ext.json)
 
 ---
 
@@ -103,6 +177,8 @@ IMF staff analysis shows that U.S. interest rates have a strong and immediate im
 ◼️
 
 [Data](articles/2ad51bde.json)
+
+[Extended Data](ext_articles/2ad51bde.ext.json)
 
 ---
 
@@ -126,6 +202,8 @@ Meanwhile, Emirates said it is suspending check-in for all customers in its netw
 
 [Data](articles/42e970fe.json)
 
+[Extended Data](ext_articles/42e970fe.ext.json)
+
 ---
 
 ### Wickremesinghe will win no more than 2.5 mn votes at presidential poll: SJB
@@ -143,6 +221,8 @@ Speaking to reporters, Abeysinghe predicted that, no sooner the presidential ele
 ...
 
 [Data](articles/043994e9.json)
+
+[Extended Data](ext_articles/043994e9.ext.json)
 
 ---
 
@@ -229,6 +309,8 @@ The priest expressed scepticism over the progress of the investigations.
 ...
 
 [Data](articles/c09e0ece.json)
+
+[Extended Data](ext_articles/c09e0ece.ext.json)
 
 ---
 
@@ -2097,87 +2179,5 @@ The magistrate ordered the suspect to be kept in the Mallakam court for 14 days.
 [Data](articles/911cd2bd.json)
 
 [Extended Data](ext_articles/911cd2bd.ext.json)
-
----
-
-### The process of pouring medical waste into a blank land was blocked by the struggle
-
-*2024-04-19 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181413) · `ta`
-
-Residents of Ariyalai, Jaffna, protested against the dumping of hospital waste in their area, demanding immediate removal and environmental protection. The protest was sparked by the stench and reports of dangerous medical waste, including blood-soaked clothes and injection needles. The hospital, which had been given a long-term lease for an eye hospital 10 years ago, had not been developed, leading to the waste issue. The protesters demanded answers from hospital officials on the dumping, removal, and environmental impact.
-
-🟩
-
-Officials have taken steps to remove the garbage after the residents fought against the risk of hospital waste in a private land in the north and put the residents' threatening to the risk of public health.
-
-Jaffna to set up an eye hospital on a long lease in Ariyal, Jaffna. On April 11, a group of people staged a demonstration to the hospital authorities, pointing out that the residents were facing health problems due to the dumping of hospital waste in a private land supplied to the teaching hospital about ten years ago.
-
-In this case, area journalists say that a large number of debris has been disposed of in the area.
-
-Demonstrators, however, demanded that the environmental damage to the environment, including groundwater, be addressed.
-
-In the Ariyalai area, the people of the area who had crossed the Jaffna-Kandi main road and demanded that the people of the demonstration immediately remove the waste and create a healthy environment for the people to live.
-
-...
-
-[Data](articles/4869d6b0.json)
-
-[Extended Data](ext_articles/4869d6b0.ext.json)
-
----
-
-### Dialog - AIRTEL
-
-*2024-04-19 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181412) · `ta`
-
-Airtel, through Dialog Axiata, has agreed to acquire 100% of Aartle Lanka's shares in Sri Lanka. The Sri Lanka Telecommunication Regulatory Commission has approved the merger, aiming to enhance telecommunication services nationwide. Dialog hopes this will control pseudo-telecommunications infrastructure, strengthen industry cooperation, expand network connections, reduce costs, and improve operational efficiency.
-
-🟩
-
-Dialog Axiata and Body Artell Limited have signed an agreement to carry out their activities in Sri Lanka.
-
-According to the agreement, Dialog will buy 100 percent of the shares of Aartle Lanka, but instead of the total distributed shares of 10.355 per cent of the shares.
-
-Dialog, which has issued a media report yesterday, said that the Sri Lanka Telecommunication Regulatory Commission has granted permission for the merger, which is aimed at promoting telecommunication service nationwide.
-
-The Dialogue has expressed hope that the move will help control the pseudo -telecommunications infrastructure systems, strengthen cooperation in the technology industry, to expand the network connection, reduce costs and increase operational effectiveness.
-
-◼️
-
-[Data](articles/d123577a.json)
-
-[Extended Data](ext_articles/d123577a.ext.json)
-
----
-
-### Shashank, Ashutosh, was hit by an Orthodox overs at the end of Mumbai
-
-*2024-04-19 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181411) · `ta`
-
-Mumbai Indians won against Punjab Kings by 9 runs in IPL 17, with key performances from Rohit Sharma, Suriyakumar Yadav, and Harshal Patel. Shashank Singh and Ashutosh Sharma's partnership helped Punjab Kings cross 110 runs, but Mumbai Indians secured victory in the last over.
-
-🟩
-
-Mumbai Indians won the Punjab Kings by 9 runs in the 33rd match of the 17th Indian Premier League chapter held at the Maharaja Maharaja Yadavendra Singh International Stadium on Thursday (18).
-
-However, Shashang Singh and Ashutosh Sharma were a bit of a stir in the game and the Mumbai Indians were a little horrified.
-
-However, the Mumbai Indians confirmed the victory of the last 3 overs by Jasprit Bumrah, Gerald Gotsee and Hardik Pandya.
-
-Mumbai Indians scored 192 runs for the loss of 7 wickets in 20 overs in the midst of a small challenge.
-
-This year's Indian Premier League cricket match, Ishahan Kishan, who failed to shine as expected, lost the match with 8 runs in the 3rd over.
-
-However, Rohit Sharma and Suriyakumar Yadav shared 81 runs in the 2nd wicket.
-
-Tilak Verma shared 49 runs in the 3rd wicket after Rohit Sharma lost 36 runs.
-
-Suriyakumar Yadav, who played efficiently on the other side, scored 78 runs off 53 balls with 7 pounds and 3 sixes.
-
-...
-
-[Data](articles/331323e1.json)
-
-[Extended Data](ext_articles/331323e1.ext.json)
 
 ---

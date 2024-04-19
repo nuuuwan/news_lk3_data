@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 05:18:28**
+As of **2024-04-19 05:37:51**
 
 ## Newspaper Stats
 
-*Scraped **19,647** Articles*
+*Scraped **19,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 205
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,049
-dailyftlk | 1,071
+dailyftlk | 1,080
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
@@ -26,11 +26,151 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,647 (100.0%) of 19,647 articles have been extended.
+19,647 (100.0%) of 19,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### A polite challenge to Harsha de Silva
+
+*2024-04-19 05:20:30* · [`dailyftlk`](https://www.ft.lk/columns/A-polite-challenge-to-Harsha-de-Silva/4-760784) · `en`
+
+Harsha de Silva, Member of Parliament and Chair of the Parliament Committee on Public Finance (COPF), addressed the media in Sinhala, on 17 April 2024, shedding light on the recent breakdown of debt restructuring talks between the Sri Lankan Government and the international bondholders’ “steering committee”.
+
+These confidential negotiations, conducted behind closed doors, aimed to restructure over $ 12 billion of debt. However, they faltered due to discrepancies between the bondholders’ proposed “baseline” assessments and the absence of a contingency plan to address ongoing economic fragility. Notably, the parameters outlined in the bondholders’ plan diverged from those outlined in the Government’s IMF program.
+
+...
+
+[Data](articles/8265b27b.json)
+
+---
+
+### Executive Director Aryasinha draws attention to ‘bottlenecks’ faced by Sri Lanka in enhancing exports and FDI
+
+*2024-04-19 05:14:33* · [`dailyftlk`](https://www.ft.lk/opinion/Executive-Director-Aryasinha-draws-attention-to-bottlenecks-faced-by-Sri-Lanka-in-enhancing-exports-and-FDI/14-760783) · `en`
+
+LKI’s Executive Director Ambassador Ravinatha Aryasinha on 30 March participated as a panellist in a webinar titled “The FTA Pathway: Exploring Sri Lanka’s Exports & FDI Potential”. This event was organised by the International Chamber of Commerce Sri Lanka (ICC), in collaboration with the BOI, the Daily FT and several other economic organisations. The Minister of Foreign Affairs M.U.M. Ali Sabry, Indian High Commissioner to Sri Lanka Santosh Jha, and former Trade Economist at the World Bank Dr. Nihal Pitigala were the keynote speakers on this occasion.
+
+...
+
+[Data](articles/47ff80fa.json)
+
+---
+
+### Marikkar accuses Govt. of resisting anti-corruption measures
+
+*2024-04-19 05:12:01* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-accuses-Govt-of-resisting-anti-corruption-measures/56-760781) · `en`
+
+Claims agreement with bondholders fell through due to Govt.’s refusal to set up anti-corruption framework
+
+Says failure to tackle corruption is delaying IMF second tranche and deal with bondholders
+
+Stresses combating corruption would attract foreign direct investments through increased investor confidence
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday claimed that the Government’s hesitance to establish an effective anti-corruption framework, as demanded by sovereign bondholders, stems from its own corrupt practices.
+
+Speaking at a press conference in Colombo, the MP said the Government allegedly could not reach an agreement with sovereign bondholders because it refused to comply with their requirement to implement an anti-corruption framework.
+
+He noted that this has caused a delay in the disbursement of the second tranche from the International Monetary Fund (IMF) and in reaching an agreement with international sovereign bondholders.
+
+...
+
+[Data](articles/89830417.json)
+
+---
+
+### SJB suggests alternative plan for public debate with NPP
+
+*2024-04-19 05:10:41* · [`dailyftlk`](https://www.ft.lk/news/SJB-suggests-alternative-plan-for-public-debate-with-NPP/56-760780) · `en`
+
+SJB and NPP continue to exchange rhetorical challenges over public debate
+
+SJB MP S. M. Marikkar proposes a debate between party Economic Councils led by party leaders
+
+NPP’s Nalinda Jayatissa says NPP wants leaders’ debate, open to Economic Councils debate if necessary
+
+Samagi Jana Balawegaya (SJB) MP S. M. Marikkar proposed yet another alternative plan for a public debate between the SJB and the National People’s Power (NPP) party yesterday by suggesting the parties hold a debate between the economic councils of both parties, led by their respective party leaders Sajith Premadasa and Anura Kumara Dissanayake.
+
+Politicians from the SJB and NPP have continued to exchange rhetorical challenges regarding a public debate with no concrete plan to hold one being announced
+
+...
+
+[Data](articles/895121ed.json)
+
+---
+
+### Govt. with IOM support ensures safe return of 8 Lankan migrants trafficked to cyber scamming in Myanmar
+
+*2024-04-19 05:10:04* · [`dailyftlk`](https://www.ft.lk/news/Govt-with-IOM-support-ensures-safe-return-of-8-Lankan-migrants-trafficked-to-cyber-scamming-in-Myanmar/56-760779) · `en`
+
+The Ministry of Foreign Affairs and the International Organisation for Migration (IOM) – the UN Migration entity, on 18 April, facilitated the voluntary return of eight Sri Lankan migrants who were trafficked for forced criminal activities in the cyber scamming compounds in Myanmar.
+
+The Sri Lankan migrants have been forced into various cyber scamming activities in Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT and other customer service job fields. Upon their rescue from Myawaddy, Myanmar, the Sri Lankan embassy in Thailand facilitated their movement to Bangkok, Thailand with the support of the IOM.
+
+...
+
+[Data](articles/53c58c32.json)
+
+---
+
+### Objections raised against first OSA case
+
+*2024-04-19 05:08:56* · [`dailyftlk`](https://www.ft.lk/news/Objections-raised-against-first-OSA-case/56-760778) · `en`
+
+The counsels appearing for the former personal assistant to former chairman of the Public Utilities Commission Janaka Ratnayake, Gayathri Bimba and others yesterday objected to the conditional injunction issued by the Colombo Magistrates court under the Online Safety Act to prevent the publication of Ratnayake”s personal information on social media platforms.
+
+Ratnayake, who is also a Presidential hopeful through his counsels had filed the case under the latest Online Safety Act, after Bimba levelled various accusations against him in an interview to a Youtube channel. This is the first case to be filed under the controversial law.
+
+The counsels for Bimba argued that the court lacks the authority to issue a conditional injunction under the Online Safety Act. The court had issued the conditional order in favour of the petitioner Ratnayake on 4 April under Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024.
+
+...
+
+[Data](articles/a89eecce.json)
+
+---
+
+### ‘NatCon 2024: Shaping tomorrow’s leaders’ conference gears up to inspire Sri Lanka youth
+
+*2024-04-19 05:00:43* · [`dailyftlk`](https://www.ft.lk/business/NatCon-2024-Shaping-tomorrow-s-leaders-conference-gears-up-to-inspire-Sri-Lanka-youth/34-760774) · `en`
+
+NatCon 2024, the most awaited youth leadership conference will take place from 19 to 21 April 2024, at the Hotel Sudu Araliya Polonnaruwa. This isn’t just any conference; it’s the cornerstone event for AIESEC in Sri Lanka, charting the course for leadership and growth in the year ahead.
+
+With a special emphasis on diversity, leadership, and skill-building, NatCon 2024 will bring together over 400 students from over 20 universities across Sri Lanka. And the event is open to all AIESECers, offering an unparalleled opportunity to refine ethical leadership, foster collaboration, and create positive change. Mark and Comm is its communications and PR partner.
+
+...
+
+[Data](articles/cb3ffe8a.json)
+
+---
+
+### New Unilever SL Chairman visits BOI
+
+*2024-04-19 04:59:19* · [`dailyftlk`](https://www.ft.lk/business/New-Unilever-SL-Chairman-visits-BOI/34-760773) · `en`
+
+Unilever Sri Lanka’s new Chairman and CEO Ali Tariq recently met with the Board of Investment Chairman Dinesh Weerakkody and BOI and Port City officials to discuss the current investment climate and opportunities. They also discussed Unilever Sri Lanka’s ongoing operations in Sri Lanka. Unilever Sri Lanka Head of Regulatory and External Affairs Harini Rajadasa also participated.
+
+◼️
+
+[Data](articles/bf61df7e.json)
+
+---
+
+### Asriel signs on as Diamond sponsor for CAFE 2024 – South Asia’s largest food expo
+
+*2024-04-19 04:58:05* · [`dailyftlk`](https://www.ft.lk/business/Asriel-signs-on-as-Diamond-sponsor-for-CAFE-2024-South-Asia-s-largest-food-expo/34-760772) · `en`
+
+Asriel Ltd., a beacon of culinary excellence in Sri Lanka, proudly signed on as Diamond sponsor for South Asia’s largest food expo, the Culinary Art Food Expo 2024 (CAFE 2024), now in its landmark 21st edition.
+
+The CAFE 2024 is a crucible of culinary innovation, slated to transform the gastronomic landscape from 7 - 9 June 2024, at the Bandaranaike Memorial International Conference Hall Exhibition Centre (BMICH).
+
+“The culinary arts are one of our nation’s most unique distinguishing features. Already today, Sri Lankan cuisine is beloved around the world, but we believe that this is only scratching the surface of its true potential. That is why Asriel is proud to once again sign on as Diamond sponsor to CAFE 2024 and help build the perfect stage to help our nation’s best culinary talents showcase their skill and innovative spirit,” Asriel Chairman Shiran Peiris said.
+
+...
+
+[Data](articles/e51480f7.json)
+
+---
 
 ### Youth tributes to Palitha Devaparum in Vavuniya
 
@@ -2131,219 +2271,5 @@ Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated tu
 [Data](articles/a04adbd6.json)
 
 [Extended Data](ext_articles/a04adbd6.ext.json)
-
----
-
-### Dialog Axiata and Bharti Airtel to merge operations in Sri Lanka
-
-*2024-04-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98703/dialog-axiata-and-bharti-airtel-to-merge-operations-in-sri-lanka) · `en`
-
-Sri Lankan telecom operators Dialog Axiata and Bharti Airtel have signed a definitive agreement to merge telecom operations in the island nation, the companies said on Thursday, nearly a year after the merger was announced.
-
-Under the agreement, Dialog Axiata will acquire a 100% stake in Airtel Lanka by issuing Bharti Airtel a 10.4% stake in Dialog Axiata.
-
-Airtel Lanka is the Sri Lankan unit of India’s Bharti Airtel.
-
-The companies said the share swap would be valued by an independent body.
-
-The deal has been approved by Sri Lanka’s telecom regulator but has yet to be cleared by Dialog Axiata’s shareholders and the Colombo Stock Exchange.
-
-Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated turnover in fiscal 2023, the company said in an exchange filing.
-
-Dialog, Axiata Group and Bharti Airtel sign Definitive Agreement to Merge Operations in Sri Lanka
-
-◼️
-
-[Data](articles/dfcdc8d0.json)
-
-[Extended Data](ext_articles/dfcdc8d0.ext.json)
-
----
-
-### Telephone number introduces to environmental impacts!
-
-*2024-04-18 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181362) · `ta`
-
-Telephone numbers 1997 and 1981 provide information on environmental crimes, including piercing, river erosion, and industrial waste impacts.
-
-🟩
-
-The telephone numbers 1997 and 1981 have been introduced to get information on environmental crimes.
-
-These telephone numbers can be used on all the impacts of piercing, river erosion, industrial waste and environmental impacts.
-
-◼️
-
-[Data](articles/2f079cf4.json)
-
-[Extended Data](ext_articles/2f079cf4.ext.json)
-
----
-
-### IMF ready to support Sri Lanka’s discussions with bondholders
-
-*2024-04-18 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-ready-to-support-Sri-Lankas-discussions-with-bondholders/108-280912) · `en`
-
-April 18 (Reuters) The International Monetary Fund (IMF) stands ready to support Sri Lanka's discussions with international bondholders and will provide a formal assessment after the parties reach a tentative agreement-in-principle, an IMF spokesperson said on Thursday.
-
-"We hope an agreement consistent with the parameters of the IMF-supported program and official creditors' Comparability of Treatment requirements can be reached soon, ahead of completing the second review under the program," the spokesperson said.
-
-Sri Lanka said it failed to reach an agreement with bondholders to restructure about $12 billion debt earlier this week, raising concerns there could be a delay in the island nation receiving a third tranche of its $2.9 billion IMF program in June.
-
-The government said one of the main stumbling blocks had been that the "baseline parameters" of the bondholders' plan had not matched those embedded in its IMF program.
-
-...
-
-[Data](articles/a891e8c0.json)
-
-[Extended Data](ext_articles/a891e8c0.ext.json)
-
----
-
-### Pitigala double mercards arrested for three
-
-*2024-04-18 13:29:34* · [`adalk`](https://www.ada.lk/breaking_news/පිටිගල-ඩබල්-මර්ඩ-එකට-තුනක්-දැලේ/11-409147) · `si`
-
-Pitigala Police arrested three suspects for a murder and robbery in Niyagama. They also seized three phones and a motorbike. The suspects, aged 22, 24, and 31, were linked to a local trafficker.
-
-🟩
-
-Three tests of the Police Special Task Force, who was shot dead in the Niyagama area and supported the murder of two people, Jayala Suddha and Saman Boards of the Police Special Task ForcePitigala Police say that he was arrested.
-
-Three mobile phones and a motorbike have been arrested in Ratnapura, three mobile phones and a motorbike have been arrested in Badulla, police said.Pitigala Police say that he was handed over to his police station.
-
-The three suspects arrested for busing the shopkeeper in the Niyagama police area at Pandigala at the Niyagama area at the Niyagama area at the Niyagama area at the Niyagama area at Pandigala at the Niyagama area.The Pitigala Police say that Elpitiya Kahanduwa, Thamepitiya, Thawalai have been identified as the age of 22, 24 and 31, with close contact with the Scale Liquid Factory Trafficker.
-
-◼️
-
-[Data](articles/230f3e5c.json)
-
-[Extended Data](ext_articles/230f3e5c.ext.json)
-
----
-
-### Children arrested for theft
-
-*2024-04-18 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181349) · `ta`
-
-Police arrested three teenagers from a children's gang in Kahaduduwa for stealing property, including laptops and cell phones, and selling them. The gang, which includes school-going children, used gloves for their crimes. A long-term investigation is underway.
-
-🟩
-
-Police have arrested three members of a children's gang who have been illegally logging into their homes wearing a glove and wearing gloves.
-
-The suspects are between the ages of 13 and 18 in the Kahaduduwa area and the children who go to school are included in the gang, police said.
-
-Police said the property, including laptops, brass items and cell phones in the houses, had been stolen and sold by children of equal aged children.
-
-Accordingly, the gang will be conducting a long -time investigation into the detainees of the gang.
-
-◼️
-
-[Data](articles/d4b9cf23.json)
-
-[Extended Data](ext_articles/d4b9cf23.ext.json)
-
----
-
-### Actor Mansoor Alikan Hospital admitted: Poisoning
-
-*2024-04-18 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181368) · `ta`
-
-Actor Mansoor Alikan was poisoned during his election campaign, leading to his hospitalization. He's running as an independent candidate in Vellore.
-
-🟩
-
-Actor Mansoor Alikan has stated that he was poisoned after being admitted to the hospital for ill health while he was engaged in the election campaign.
-
-Mansur Alikan is contesting the upcoming parliamentary elections on the 19th of this month as an independent candidate in the Vellore parliamentary constituency.
-
-He was suddenly ill while he was campaigning in the Gudiyatham area on Wednesday (17).
-
-“Yesterday, the settlement of the settlement and the fruit juice. After that, whey kuttanka ... Immediately after drinking, I fell from the cart.
-
-Painless pain ... Immediately after gathering to the hospital, treatmet pain. K.M for more Chennai. Dr. Balasubramanyan ICU-La Admit, this is a little bit of an ambulance to the nursing home. Poisonous breakdown, lung pain trips. It is said to be transferred to the normal ward at 2 pm today. ”
-
-The report, which has been issued to the press and the media by Mansur Alikan, by his PRO Govindaraj, has caused a stir.
-
-◼️
-
-[Data](articles/778e41d3.json)
-
-[Extended Data](ext_articles/778e41d3.ext.json)
-
----
-
-### Dayasiri rushes to Sirisena’s defence in new twist to Sri Lanka Freedom Party saga
-
-*2024-04-18 13:16:00* · [`economynextcom`](https://economynext.com/dayasiri-rushes-to-sirisenas-defence-in-new-twist-to-sri-lanka-freedom-party-saga-159084/) · `en`
-
-ECONOMYNEXT — The crisis within the Sri Lanka Freedom Party (SLFP) has taken a new turn with former general secretary Dayasiri Jayasekara, who was removed by then chairman Maithripala Sirisena, now pledging his support to the latter.
-
-Jayasekara claimed that a conspiracy has been hatched against the party.
-
-The Kurunegala district MP told reporters that the third defendant in the same case that resulted in Sirisena’s dismissal as SLFP chairman has now been made acting chairman by what he called a sham politburo.
-
-“The third accused of the same case, who the same charges applied to, has been made acting chairman by a sham politburo. How can that be?” said Jayasekara.
-
-“This is clearly a deviously hatched conspiracy. The end result of this conspiracy is the killing of the SLFP,” he said.
-
-“Those of us from the Kurunegala district, as organisers, are ready to work for President Sirisena and the party with dedication,” he added.
-
-...
-
-[Data](articles/70622e08.json)
-
-[Extended Data](ext_articles/70622e08.ext.json)
-
----
-
-### 18000 inmates have been detained in prisons
-
-*2024-04-18 13:09:01* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරවල--රැඳවිය-හැකි-ප්‍රමාණයට-වඩා-රැඳවියන්-18000ක්-රඳවලා/11-409146) · `si`
-
-18,000 inmates detained, exceeding capacity by 29,800. Prisons overcrowded, leading to overcrowding in Horana, Kerakana, and camps. Colombo Magazine Prison: 670 inmates; Colombo Remand Prison: 300; Mahara Prisons: 2,500 inmates; Galle Prison: 1,100 inmates, 270 detainees.
-
-🟩
-
-Prison sources said that although inmates who could be held in prison in prison is 11,000, but 29 800 inmates have been detained.
-
-Accordingly, about 18,000 inmates have increased in prisons.
-
-It is also reported that these possibilities in prisons have been tempted to sleep in many prisons.
-
-The alternative to this stake was taken to Horana to be taken to Horana and had been taken to the Kerakana area and was taken to the camp.
-
-According to the Prison Headquarters, there are about 670 inmates at the Colombo Magazine Prison.There are 300 inmates in the Colombo Remand Prison and there are over 2,000 inmates.
-
-There are 670 secretaries in Mahara prisons, but there are over 2500 inmates. The Galle Prison states that there are 1100 corpses in the Galle Prison, although there are 270 detainees.
-
-◼️
-
-[Data](articles/f45047aa.json)
-
-[Extended Data](ext_articles/f45047aa.ext.json)
-
----
-
-### Sri Lanka’s Hunas Holdings to offer room nights trading with Japan firm
-
-*2024-04-18 13:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-hunas-holdings-to-offer-room-nights-trading-with-japan-firm-159082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hunas Holdings, which has interests in leisure and energy, said it is partnering with Japan-based BCC Corporation to offer a platform that allows people to buy and sell hotel rooms.
-
-Rooms booked through its platform named Nafutel, could be sold to another traveller, if travel plans change and cut their loss risk.
-
-“In the event of unforeseen circumstances preventing them from utilizing their booked dates, travelers have the option to sell their room reservations on the platform, effectively recouping their investment,” Hunas Holdings said in a statement.
-
-Investors who want to take on risk could also book rooms ahead of time at cheaper rates and try to sell them at higher rates, when prices rise by taking trading positions.
-
-“By purchasing room nights ahead of time, investors can capitalize on fluctuating demand in the hospitality industry, strategically upselling their reservations during peak seasons for maximum returns,” the firm said.
-
-...
-
-[Data](articles/a3d59524.json)
-
-[Extended Data](ext_articles/a3d59524.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 01:03:32**
+As of **2024-04-20 01:18:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,835 (100.0%) of 19,839 articles have been extended.
+19,839 (100.0%) of 19,839 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -400,6 +400,8 @@ The President at the time of the Easter Tragedy has awoken from a presumably man
 
 [Data](articles/bc546620.json)
 
+[Extended Data](ext_articles/bc546620.ext.json)
+
 ---
 
 ### Go East(er)! – A look back to 21/4 and hearkening at what lies ahead
@@ -422,6 +424,8 @@ That, and humanity’s inhumanity to humankind, combined to make the Easter Sund
 
 [Data](articles/ab8f2ac9.json)
 
+[Extended Data](ext_articles/ab8f2ac9.ext.json)
+
 ---
 
 ### Paris – A Moveable Feast
@@ -433,6 +437,8 @@ One of the most enchanting books I have read in recent times has to be “A Move
 ...
 
 [Data](articles/a9cf9348.json)
+
+[Extended Data](ext_articles/a9cf9348.ext.json)
 
 ---
 
@@ -581,6 +587,8 @@ Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka N
 ◼️
 
 [Data](articles/2fe769d2.json)
+
+[Extended Data](ext_articles/2fe769d2.ext.json)
 
 ---
 

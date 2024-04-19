@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 14:03:28**
+As of **2024-04-19 14:18:21**
 
 ## Newspaper Stats
 
-*Scraped **19,748** Articles*
+*Scraped **19,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,060
 dailyftlk | 1,085
-economynextcom | 1,129
+economynextcom | 1,131
 adalk | 1,646
 tamilmirrorlk | 2,289
 adaderanalk | 2,365
-virakesarilk | 2,959
-dailymirrorlk | 3,056
-adaderanasinhalalk | 3,204
+virakesarilk | 2,960
+dailymirrorlk | 3,058
+adaderanasinhalalk | 3,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,747 (100.0%) of 19,748 articles have been extended.
+19,748 (100.0%) of 19,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### லுணுகலை ஹொப்டன் பகுதியில் நீரில் மூழ்கி மாணவன் உயிரிழப்பு
+
+*2024-04-19 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181455) · `ta`
+
+லுணுகலை பொலிஸ் பிரிவிற்குட்பட்ட ஹொப்டன் தோட்ட , 19 ஆவது மைல்கல் பகுதியில் உள்ள பழைய தொழிற்சாலைப் பிரிவில் மலைப்பாங்கான பிரதேசத்தில் ஓடும் ஆற்றில் மூழ்கி 16 வயது மதிக்கத்தக்க பாடசாலை மாணவரொருவர்  உயிரிழந்துள்ளார்.
+
+குறித்த மாணவனும் அவருடைய நண்பர்கள் இருவரும் ஆற்றில் நீராடிக் கொண்டிருந்த வேளை திடீரென ஏற்பட்ட சுழியில் சிக்குண்டு நீரினுள் இழுத்துச் செல்லப்பட்ட மாணவன் கற்பாறைக்குள் சிக்குண்டு உயிரிழந்துள்ளார்.
+
+மாணவனின் சடலம் அப்பகுதி மக்களால் மீட்கப்பட்டு ஹொப்டன் ஆதார வைத்தியசாலையில்   பிரேத பரிசோதனைக்காக வைக்கப்பட்டுள்ளது. இம்மாணவன் இப்பகுதியில் உள்ள பாடசாலையொன்றில் தரம் 10 இல் கல்வி பயின்று வந்துள்ளார்.  சம்பவம் தொடர்பான மேலதிக விசாரணைகளை லுனுகலை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/835d616f.json)
+
+---
 
 ### Sri Lanka participates in Global Sovereign Debt Roundtable
 
@@ -47,6 +63,86 @@ At the end of the meeting, the IMF Managing Director Kristalina Georgieva, World
 ...
 
 [Data](articles/a80bc485.json)
+
+[Extended Data](ext_articles/a80bc485.ext.json)
+
+---
+
+### ඉංජිනේරුවා ඝාතනයේ වරදකරුවෙක් වසර 35කට පසු හසුවෙයි
+
+*2024-04-19 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195781) · `si`
+
+අධිකරණය හමුවේ මරණ දඬුවම නියමවී වසර 35 ක් සැඟව සිටි පුද්ගලයෙකු පූගොඩ ප්‍රදේශයේදී අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකය මගින් ඊයේ (18) අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ, විදුලිබල මණ්ඩලයේ ඉංජිනේරුවකු අමානුෂික ලෙස ඝාතනය කර ශරීරය කොටස්වලට කපා සඟවා තැබීම සම්බන්ධයෙනි.
+
+සැකකරු 68 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු සිය අනන්‍යතාව හඳුනාගත නොහැකි පරිදි ජාතික හැඳුනුම්පත සහ උප්පැන්න සහතියකයද වෙනස් කර සිටි බව විමර්ශන නිලධාරීන් සඳහන් කරයි.
+
+සිද්ධිය සම්බන්ධයෙන් මරණ දඬුවම ලැබූ මෙම ප්‍රධාන සැකකරුගේ බිරිඳව ද සැඟව සිටියදී පසුගිය පෙබරවාරි 9 වනදා අත්අඩංගුවට පත්වුණි.
+
+අනියම් සම්බන්ධතාවයක් හේතුවෙන් මෙම ඝාතනය සිදුවී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/b0b51972.json)
+
+---
+
+### IMF urges Asian Central Banks to not follow Fed too closely
+
+*2024-04-19 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-urges-Asian-Central-Banks-to-not-follow-Fed-too-closely/108-280993) · `en`
+
+The International Monetary Fund (IMF) has urged Asian Central Banks to not follow the Fed too closely.
+
+IMF Director of the Asia and Pacific Department Krishna Srinivasan this week recommended Asian Central Banks to focus on domestic inflation and avoid making their positive decisions overly dependent on anticipated moves by the Federal Reserve.
+
+“ If central banks follow the Fed too closely, they could undermine price stability in their own countries,” Srinivasan said, addressing a press briefing on Regional Economic Outlook for Asia and Pacific.
+
+IMF staff analysis shows that U.S. interest rates have a strong and immediate impact on Asian financial conditions and exchange rates. The Fund noted that expectations about Fed easing have fluctuated in recent months, driven by factors that are unrelated to Asian price stability needs.
+
+◼️
+
+[Data](articles/2ad51bde.json)
+
+---
+
+### All flights to and from BIA to Dubai operating on normal schedule
+
+*2024-04-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-flights-to-and-from-BIA-to-Dubai-operating-on-normal-schedule/108-280994) · `en`
+
+Katunayake, April 19 (Daily Mirror)- All flights are now operating to and from Colombo to Dubai without any delays after the heavy floods experienced in Dubai recently, airport sources said.
+
+Meanwhile, Emirates said it is suspending check-in for all customers in its network travelling with onward connections through Dubai until 23.59 hrs [GMT] on 19 April.
+
+"This is to support operations recovery from the recent bad weather at our Dubai hub.
+
+"Passengers already in Dubai and in transit will continue to be processed for their flights.
+
+"Customers travelling to Dubai as their final destination may check-in and travel as usual. Customers can expect delays to departures and arrivals and are advised to check the latest flight schedules on emirates.com.
+
+"Impacted customers should contact their booking agent or Emirates Office for rebooking options," the Emirates said.
+
+◼️
+
+[Data](articles/42e970fe.json)
+
+---
+
+### Wickremesinghe will win no more than 2.5 mn votes at presidential poll: SJB
+
+*2024-04-19 13:31:00* · [`economynextcom`](https://economynext.com/wickremesinghe-will-win-no-more-than-2-5-mn-votes-at-presidential-poll-sjb-159346/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe will secure no more than 2.5 million votes if he contests the upcoming presidential elections, main opposition Samagi Jana Balawegaya (SJB) MP Ashok Abeysinghe said.
+
+Speaking to reporters, Abeysinghe predicted that, no sooner the presidential election is called, former United National Party (UNP) MPs who lost their seats at the 2020 parliamentary elections will join the SJB en masse.
+
+“This is guaranteed. But no one from our party will leave to a party on the decline,” he said, referring to comments made by UNP general secretary Palith Range Bandara and others that crossovers from the SJB are on the horizon.
+
+“I predict that, if Mr Wickremesinghe contests, he won’t get more than 2.5 million votes. That is why there is talk of a UNP-SLPP alliance these days,” said Abeysinghe.
+
+...
+
+[Data](articles/043994e9.json)
 
 ---
 
@@ -111,6 +207,28 @@ The State Minister was speaking at a meeting with the International Monetary Fun
 [Data](articles/3babdf4a.json)
 
 [Extended Data](ext_articles/3babdf4a.ext.json)
+
+---
+
+### Sri Lanka Catholic church spokesman questioned over info on Easter attack
+
+*2024-04-19 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-catholic-church-spokesman-questioned-over-info-on-easter-attack-159328/) · `en`
+
+ECONOMYNEXT — Father Cyril Gamini Fernando, a spokesperson for the Archdiocese of Colombo, was summoned to the Criminal Investigation Department (CID) on Friday April 19 to inquire about information he is said to possess on the 2019 Easter bombings.
+
+Fr Fernando told reporters outside the CID premises Friday morning that he had shared what he knew but is sceptical that it would be of any use.
+
+“We have shared what we know plenty of times. But we don’t see there has been an inquiry on that. I don’t know to what extent the statement I made will be useful,” he said.
+
+“As far as I know, there is enough information to investigate and to find out the truth and who was behind this, based on information already revealed. But that is not happening.”
+
+The priest expressed scepticism over the progress of the investigations.
+
+“This is not an issue with the law. It’s an issue with those implementing the law. As citizens, we came when requested and did our duty.
+
+...
+
+[Data](articles/c09e0ece.json)
 
 ---
 
@@ -2061,127 +2179,5 @@ Suriyakumar Yadav, who played efficiently on the other side, scored 78 runs off 
 [Data](articles/331323e1.json)
 
 [Extended Data](ext_articles/331323e1.ext.json)
-
----
-
-### If India seeks to get Kachchativu, we are ready to face it - Chandima Wijegunawardena
-
-*2024-04-19 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181410) · `ta`
-
-Chandima Wijegunawardena, Sri Lanka Humanitarian Party leader, states India's claim over Kachchativu is based on historical error and is ready to face international court action. Kachchativu, a 285-acre island, is crucial for Sri Lanka's fishermen. Despite India's political use of the issue, Sri Lanka will present evidence of Kachchativu's ownership.
-
-🟩
-
-The Prime Minister of India has said that India is seeking an international court to obtain Sri Lanka -owned Kachchativu. We are ready to face such a situation. Chandima Wijegunawardena, the leader and professor of the Sri Lanka Humanitarian Party, said that there is sufficient evidence that Kachchativu belongs to Sri Lanka.
-
-He was speaking at a press conference held at the Humanitarian Party headquarters on Thursday (18).
-
-With the election in India, the politicians there are taking up the Kachchativu issue with the aim of getting the votes of Tamil Nadu fishermen.. This is the usual thing until the election period comes. The Indian Prime Minister has also addressed the Kachchativu issue on the election platform.
-
-Especially Kachchativu belongs to India. It was a historical mistake to provide it to Sri Lanka. So we will take steps to get Kachchativu back to India. If not, the Indian Prime Minister has said that we will seek an international court in the Netherlands.
-
-...
-
-[Data](articles/09f11e2c.json)
-
-[Extended Data](ext_articles/09f11e2c.ext.json)
-
----
-
-### Grave risk of substandard medicines entering market soon
-
-*2024-04-19 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grave-risk-of-substandard-medicines-entering-market-soon/108-280946) · `en`
-
-Colombo, April 18 (Daily Mirror) - Sri Lanka is facing an imminent threat in its health sector with high chances of substandard medicines like human immunoglobulin entering the market in the near future, as the law enforcement body of the National Medicines Regulatory Authority (NMRA) has diminished to just a single officer since this week.
-
-In a shocking revelation the Daily Mirror learns that the NMRA Law Enforcement Division, which is supposed to run with a stipulated staff of at least 20 Food and Drug Inspectors attached to its head office, has been functioning with only two experienced officials for many months.
-
-This figure has diminished to one since Monday, when the Chief Food and Drug Inspector of NMRA Law Enforcement Division also went on retirement, the Daily Mirror learns.
-
-...
-
-[Data](articles/e7598e03.json)
-
-[Extended Data](ext_articles/e7598e03.ext.json)
-
----
-
-### Suppressing a community by denying education - EDITORIAL
-
-*2024-04-19 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Suppressing-a-community-by-denying-education-EDITORIAL/172-280950) · `en`
-
-These are days when politicians in the country are getting ready for upcoming elections, hence there are thoughts about whether anyone of them would use schools and education to promote their cause.
-
-Some of the candidates have already started mingling with students and presenting them with opportunities to ask questions on hot topics that are bothering them. One of the probable candidates in the presidential elections is seen offering material goods to students. He dare not present the opportunity for students to ask questions because he would then be putting himself in a very uncomfortable position. There is one other election candidate who offers this opportunity to students and by doing so makes the questioner lose his way in a temporary world of stardom; because the student loses focus of the existing world when he or she gets to question the highest authority in the country. These are all political gimmicks.
-
-...
-
-[Data](articles/532fadce.json)
-
-[Extended Data](ext_articles/532fadce.ext.json)
-
----
-
-### What Netanyahu is trying to achieve by provoking Iran
-
-*2024-04-19 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-Netanyahu-is-trying-to-achieve-by-provoking-Iran/172-280949) · `en`
-
-A woman walks past a banner depicting launching missiles bearing the emblem of the Islamic Republic of Iran in central Tehran. AFP
-
-Israel’s hardline and war-thirsty Prime Minister Benjamin Netanyahu is more than ever before well close to dragging the United States into a war with Iran. Ever since Iran launched its nuclear programme in the late 1980s, Israel has been jittery. It fears an Iranian nuke will undermine its nuclear monopoly in the region.
-
-Since Netanyahu became Israel’s prime minister for the first time in 1996, his main foreign policy objective has been to get the United States to attack Iran’s nuclear facilities and prevent the Islamic Republic from achieving nuclear power parity vis-à-vis Israel.
-
-...
-
-[Data](articles/1c4813aa.json)
-
-[Extended Data](ext_articles/1c4813aa.ext.json)
-
----
-
-### Five years since the deadly Easter Sunday bombings: Seeking justice for Easter Sunday victims: A stronger  and united struggle vital
-
-*2024-04-19 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Five-years-since-the-deadly-Easter-Sunday-bombings-Seeking-justice-for-Easter-Sunday-victims-A-stronger-and-united-struggle-vital/172-280948) · `en`
-
-April 21 this year will mark five years since the deadly 2019 Easter Sunday bombings in Sri Lanka. The targets included two Catholic churches in the Archdiocese of Colombo, Zion church in the Eastern province, and three high-end hotels in Colombo.
-
-Around 315 people, including about 40 foreigners and 45 children, were reported to have been killed, making it the biggest post-civil war massacre in Sri Lanka.
-
-The damaged churches and hotels were quickly rebuilt. However, many survivors and families of victims still need medical, emotional, and financial support. Their tears, grief, and pain indicate their lives are far from being rebuilt.
-
-The attacks were by Islamic militants and the aftermath of the attacks saw at least one Muslim man being killed and many Muslim shops and houses destroyed and damaged. Many Muslims were detained unjustly for months and years after the attacks, including women with children.
-
-...
-
-[Data](articles/57eb8a5c.json)
-
-[Extended Data](ext_articles/57eb8a5c.ext.json)
-
----
-
-### 2024-04-18 (Thursday)
-
-### Sri Lanka will be built to expect youth - President
-
-*2024-04-18 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181409) · `ta`
-
-President Ranil Wickremesinghe expressed confidence in Sri Lanka's youth to rebuild the economy, stating it had stabilized within two years. He met with youth MPs and representatives to discuss development projects, emphasizing unity and modernization.
-
-🟩
-
-President Ranil Wickremesinghe said he was confident that the youth of the country could create Sri Lanka.
-
-Although many said that it was difficult to rebuild the declined Sri Lankan economy, the president said that within two years, the country's economy had been stable within two years, adding that it was unity to move the country forward.
-
-President Ranil Wickremesinghe made this statement at a meeting held at the Nuwara Eliya President's House on Thursday (18) with the youth MPs and young political representatives of the Nuwara Eliya District.
-
-A group of young parliamentarians representing the Nuwara Eliya, Hanguratta, Maskeliya, Kothmalai and Valappanai and a group of youth representatives of many parties including the United National Party, the United People's Power and the National People's Power were present at the event and discussed various issues including the Nuwara Eliya District Development activities.
-
-...
-
-[Data](articles/86690e14.json)
-
-[Extended Data](ext_articles/86690e14.ext.json)
 
 ---

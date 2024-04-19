@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 06:17:24**
+As of **2024-04-19 06:55:54**
 
 ## Newspaper Stats
 
-*Scraped **19,667** Articles*
+*Scraped **19,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ dailyftlk | 1,080
 economynextcom | 1,120
 adalk | 1,641
 tamilmirrorlk | 2,281
-adaderanalk | 2,355
+adaderanalk | 2,356
 virakesarilk | 2,946
-dailymirrorlk | 3,038
+dailymirrorlk | 3,043
 adaderanasinhalalk | 3,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,656 (99.9%) of 19,667 articles have been extended.
+19,664 (100.0%) of 19,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Several areas including Western Province to receive afternoon thundershowers
+
+*2024-04-19 06:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98714/several-areas-including-western-province-to-receive-afternoon-thundershowers) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in the North-central, Central and North-western provinces and Mannar District during the afternoon or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and Galle and Matara districts during the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Colombo to Matara via Galle in the evening or night.
+
+Winds will be variable in direction and wind speed will be 20-30 kmph.
+
+...
+
+[Data](articles/a0084a88.json)
+
+---
+
+### Wild elephants pull down 16 telephone posts
+
+*2024-04-19 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-elephants-pull-down-16-telephone-posts/108-280952) · `en`
+
+Mannar, April 19 (Daily Mirror) - A herd of wild elephant that roamed into the Settikulam-Mannar main highway in the early hours of last morning had pulled down telephone posts causing the breakdown of telecom services in several areas.
+
+Police said the jumbos had pulled down 16 telephone posts in a distance of about two kilometres.
+
+On information from police, a team of telecom officials and employees arrived and commenced repairs to the telephone line.
+
+◼️
+
+[Data](articles/b9a75526.json)
+
+---
+
+### No presidential candidate has secured on a 50% vote base as of date
+
+*2024-04-19 05:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-presidential-candidate-has-secured-on-a-50-vote-base-as-of-date/155-280951) · `en`
+
+Colombo, April 19 (Daily Mirror) - With the Presidential Election scheduled to be held in the first week of October, political parties have begun vigorous campaigns in electorates as well as closed door discussions with parliamentarians in a bid to secure a basic 50 percent vote base which will win them the presidency.
+
+As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a national candidate who will contest from a brand new symbol and has invited all political parties to support him.
+
+...
+
+[Data](articles/e1862c10.json)
+
+---
 
 ### Bath Spa University unveils new London campus
 
@@ -46,6 +98,8 @@ Bath Spa University is a public University in Bath, England, in the United Kingd
 
 [Data](articles/3eac95a9.json)
 
+[Extended Data](ext_articles/3eac95a9.ext.json)
+
 ---
 
 ### Launching The Routes we Take: Sri Lanka’s first creative Green Map
@@ -57,6 +111,8 @@ Bath Spa University is a public University in Bath, England, in the United Kingd
 ...
 
 [Data](articles/820b9866.json)
+
+[Extended Data](ext_articles/820b9866.ext.json)
 
 ---
 
@@ -73,6 +129,26 @@ However, the stock market was sluggish because profit takings came to the fore d
 ...
 
 [Data](articles/a85e4282.json)
+
+[Extended Data](ext_articles/a85e4282.ext.json)
+
+---
+
+### Port City officials frustrated over delay in duty free mall opening
+
+*2024-04-19 05:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Port-City-officials-frustrated-over-delay-in-duty-free-mall-opening/108-280934) · `en`
+
+Port City Colombo officials expressed frustration over delays in opening the downtown duty-free mall in Colombo.
+
+Originally scheduled to commence operations in April, the facility now faces an uncertain timeline for opening to the public, primarily due to unexpected legislative hurdles.
+
+While concerns have been raised regarding the potential impact of the duty-free mall on local businesses and Sri Lanka’s taxation framework, CHEC Port City Colombo Deputy Managing Director Thulchi Aluwihare has asserted that the facility will not have the negative effects perceived by some in the political and business communities.
+
+“The aim is not to cannibalise but to expand the market and promote economic growth. The broader objective of Port City is to increase footfall and benefit the entire Colombo ecosystem,” Aluwihare told Mirror Business.
+
+...
+
+[Data](articles/c69e531e.json)
 
 ---
 
@@ -234,6 +310,22 @@ The CAFE 2024 is a crucible of culinary innovation, slated to transform the gast
 
 ---
 
+### Bondholders’ agreement delay won’t hinder IMF third tranche payout:  Dr. Coomaraswamy
+
+*2024-04-19 04:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholders-agreement-delay-wont-hinder-IMF-third-tranche-payoutDr-Coomaraswamy/108-280941) · `en`
+
+Possible delays in reaching an agreement (in principle) with private bondholders is unlikely to impact the disbursement of the third tranche under IMF’s US$ 3billion bailout package,  given negotiations are moving ahead in good faith,  Former Governor of Central Bank (CB) and renowned economist,  Dr. Indrajit Coomaraswamy said.
+
+“My understanding is that in terms of conditions attached to this particular (2nd) review, there should be demonstration of progress and continuing negotiations in good faith. I feel that those conditions are met,” he told a webinar themed ‘Crisis to Stability - Sri Lanka’s Economic Restructuring Journey’ organised by CT CLSA this week.
+
+On 21st of last month, IMF and Sri Lanka reached a staff level agreement to conclude the second review. Upon approval of the IMF Executive Board in June, IMF is set to release US$ 337 million of funding.
+
+...
+
+[Data](articles/3057471f.json)
+
+---
+
 ### Youth tributes to Palitha Devaparum in Vavuniya
 
 *2024-04-19 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181415) · `ta`
@@ -270,6 +362,8 @@ The Kelani River clean-up  partnership will enable our commitment to continue t
 
 [Data](articles/7731e03a.json)
 
+[Extended Data](ext_articles/7731e03a.ext.json)
+
 ---
 
 ### SLFEA appoints JAT as a Facilitation Partner for training painters to provide overseas employment opportunities
@@ -283,6 +377,8 @@ Accordingly, the SLFEA will identify suitable foreign employment opportunities a
 ...
 
 [Data](articles/43a5909b.json)
+
+[Extended Data](ext_articles/43a5909b.ext.json)
 
 ---
 
@@ -325,6 +421,8 @@ The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet,
 ...
 
 [Data](articles/9c7cda71.json)
+
+[Extended Data](ext_articles/9c7cda71.ext.json)
 
 ---
 
@@ -789,6 +887,8 @@ Colombo became a deader city than it was in mid-April of recent previous years. 
 ...
 
 [Data](articles/804c7279.json)
+
+[Extended Data](ext_articles/804c7279.ext.json)
 
 ---
 
@@ -2129,123 +2229,5 @@ The SWNN News reports that when the proportion is taken by the population of Nor
 [Data](articles/b037b190.json)
 
 [Extended Data](ext_articles/b037b190.ext.json)
-
----
-
-### One of the 100 influence for 2024 is Gaza's photographer - Times Choosing
-
-*2024-04-18 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181378) · `ta`
-
-Motas Asiza, a Balatina photographer from Gaza, is recognized by The Times as one of the 100 most influential people in 2024. Over 108 days, he documented the impact of Israel's bombings, capturing the plight of displaced women and the dangers faced by journalists. His work has raised global awareness and highlighted the need to end the conflict.
-
-🟩
-
-The Times has selected Balatina photographer Motas Asiza as one of the 100 influential people in 2024.
-
-For the past 108 days, Aziza has been the voice and vision of his hometown of Gaza.
-
-He also recorded things like a camera and a jacket, who had been trapped under the wreckage of women who had been displaced from the homes of Israel under Israel's bombing for four months.
-
-His pictures, which were seen as a challenge to journalists who were denied permission to enter Gaza, told the world what was going on.
-
-98 journalists have been killed in Gaza since October Seventh. Many more have been killed and arrested.
-
-This year has been the most dangerous year for journalists since 1992 to register the attack on journalists.
-
-Since his departure from Gaza in January, his work has become a raising awareness of the crisis and attracting international attention.
-
-...
-
-[Data](articles/42b527d5.json)
-
-[Extended Data](ext_articles/42b527d5.ext.json)
-
----
-
-### Parties raise objections against first court case under Online Safety Act
-
-*2024-04-18 14:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-raise-objections-against-first-court-case-under-Online-Safety-Act/108-280916) · `en`
-
-Colombo, April 18 (Daily Mirror) - The respondent parties in the first application filed before the Colombo Chief Magistrate’s Court under the newly enacted Online Safety Act, raised objections challenging the maintainability of the application.
-
-On April 4, the Colombo Chief Magistrate’s Court issued a conditional order preventing the respondent parties from communicating alleged false information against former Chairman of the Public Utilities Commission (PUCSL) Janaka Ratnayake.
-
-Court issued this conditional order in favour of the petitioner Janaka Ratnayake in terms of Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024 and directed that the order be communicated to the respondents Gayathri Bimba, Prof. Janaka Rajapaksa, Oshala Herath, Yasalal Perera (Talk with Lal), Kalpa Gunarathne (Meemasso TV) and Jamuni Kamantha Thushara by electronic means as provided for in Section 24 (4) of the Act.
-
-...
-
-[Data](articles/50e4e65d.json)
-
-[Extended Data](ext_articles/50e4e65d.ext.json)
-
----
-
-### Ukraine warns of WW3 ahead of long-stalled Congress aid vote
-
-*2024-04-18 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98704/ukraine-warns-of-ww3-ahead-of-long-stalled-congress-aid-vote) · `en`
-
-Ukraine’s prime minister has told the BBC there will be a “Third World War” if Ukraine loses its conflict with Russia, as he urged the US Congress to pass a long-stalled foreign aid bill.
-
-Denys Shmyhal expressed “careful optimism” that US lawmakers would pass the hotly contested measure, which has $61bn (£49bn) earmarked for Kyiv.
-
-The House of Representatives is set to vote on the package this Saturday.
-
-The proposal includes funding for Israel as well as the Indo-Pacific.
-
-Speaking to the BBC in Washington DC on Wednesday, Prime Minister Shmyhal said of the US security assistance: “We need this money yesterday, not tomorrow, not today.”
-
-“If we will not protect... Ukraine will fall,” he added. “So the global, the global system of security will be destroyed... and all the world will need to find... a new system of security.
-
-“Or, there will be many conflicts, many such kinds of wars, and in the end of the day, it could lead to the Third World War.”
-
-...
-
-[Data](articles/303a70af.json)
-
-[Extended Data](ext_articles/303a70af.ext.json)
-
----
-
-### NPP presents its 7-point statement on Easter attack to Cardinal
-
-*2024-04-18 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-presents-its-7-point-statement-on-Easter-attack-to-Cardinal/155-280915) · `en`
-
-Colombo, April 18 (Daily Mirror)- The National People's Power (NPP) today presented to Archbishop of Colombo Cardinal Malcolm Ranjith its 7-point statement pledging to mete out justice to the victims of the Easter Sunday attacks.
-
-The NPP representatives met Cardinal Malcolm Ranjith at the Archbishop's House in Borella this morning and presented the 7-point statement.
-
-The statement included key points such as implementing law against those responsible for the attacks so as to mete out justice to those who lost lives in the attacks and family members of the victims.
-
-It also included pledges to take action against those who were directly or indirectly involved in the attacks.
-
-NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, President's Counsel Upul Kumarapperuma Rohan Fernando and Aruna Shantha Nonis participated in the occasion.
-
-◼️
-
-[Data](articles/1be82668.json)
-
-[Extended Data](ext_articles/1be82668.ext.json)
-
----
-
-### NPP presents its 7-point statement on Easter attack to Cardinal
-
-*2024-04-18 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-presents-its-7-point-statement-on-Easter-attack-to-Cardinal/108-280915) · `en`
-
-Colombo, April 18 (Daily Mirror)- The National People's Power (NPP) today presented to Archbishop of Colombo Cardinal Malcolm Ranjith its 7-point statement pledging to mete out justice to the victims of the Easter Sunday attacks.
-
-The NPP representatives met Cardinal Malcolm Ranjith at the Archbishop's House in Borella this morning and presented the 7-point statement.
-
-The statement included key points such as implementing law against those responsible for the attacks so as to mete out justice to those who lost lives in the attacks and family members of the victims.
-
-It also included pledges to take action against those who were directly or indirectly involved in the attacks.
-
-NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, President's Counsel Upul Kumarapperuma Rohan Fernando and Aruna Shantha Nonis participated in the occasion.
-
-◼️
-
-[Data](articles/7b6b8211.json)
-
-[Extended Data](ext_articles/7b6b8211.ext.json)
 
 ---

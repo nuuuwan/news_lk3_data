@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 05:37:51**
+As of **2024-04-19 06:17:24**
 
 ## Newspaper Stats
 
-*Scraped **19,656** Articles*
+*Scraped **19,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 169
 bbccomsinhala | 205
 dbsjeyarajcom | 217
 newsfirstlk | 363
-islandlk | 1,049
+islandlk | 1,060
 dailyftlk | 1,080
 economynextcom | 1,120
 adalk | 1,641
@@ -26,11 +26,55 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,647 (100.0%) of 19,656 articles have been extended.
+19,656 (99.9%) of 19,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Bath Spa University unveils new London campus
+
+*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/bath-spa-university-unveils-new-london-campus/) · `en`
+
+This month an international recruitment team from Bath Spa visited India and Sri Lanka to promote Bath Spa University London (BSUL) and the newly launched Postgraduate Master Courses which are offered at the London Site.
+
+The Bath Spa University team visited India and Sri Lanka between the 21st and 27th February, covering three cities in India (Delhi, Chandigarh, and Hyderabad) and Colombo in Sri Lanka. The visit underscores Bath Spa University’s commitment to fostering educational collaborations with associates and providing Indian students with access to high-quality education in the UK.
+
+Bath Spa University is a public University in Bath, England, in the United Kingdom. Currently the University has almost 10,000 students studying between five campuses in total, including the newly launched London site (BSUL).
+
+...
+
+[Data](articles/3eac95a9.json)
+
+---
+
+### Launching The Routes we Take: Sri Lanka’s first creative Green Map
+
+*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/launching-the-routes-we-take-sri-lankas-first-creative-green-map/) · `en`
+
+“The Routes we Take” is a project by EUNIC Sri Lanka and Good Life X. EUNIC – European Union National Institutes for Culture – is Europe’s network of national cultural institutes and organisations, with 36 members from all EU Member States and associate countries. EUNIC Sri Lanka – consisting of Alliance Française and the Embassy of France in Sri Lanka and the Maldives, Goethe-Institut, British Council, Swiss Embassy, Embassy of the Kingdom of the Netherlands and Embassy of Italy, with the support of the EU Delegation, adopts an integrated approach to building cultural relations and creative collaborations and supporting diversity.
+
+...
+
+[Data](articles/820b9866.json)
+
+---
+
+### Dialog-Airtel Lanka merger comes centre stage
+
+*2024-04-19 05:29:00* · [`islandlk`](http://island.lk/dialog-airtel-lanka-merger-comes-centre-stage/) · `en`
+
+Sri Lanka’s premier mobile phone company, Dialog Axiata, will issue 952 million shares by way of a share swap to Bharti Airtel to acquire the latter organization. The deal was finalized yesterday, CSE market analysts said.
+
+Bharti Airtel and Dialog Axiata entered into a Binding Agreement to merge their operations in May 2023. Dialog is the largest telecom service provider in Sri Lanka with more than 17 million subscribers as of 2021, representing around 51 percent of the market. Airtel Lanka has about 5 million subscribers. The 952 million Dialog shares amount to 10.4 percent of the total shares issued by the company.
+
+However, the stock market was sluggish because profit takings came to the fore due to continued uncertainty in the external debt restructuring exercise. Both indices moved downwards. The All Share Price Index went down by 33.1 points, while the S and P SL20 declined by 8.81 points. Turnover stood at Rs 2.22 billion with 3 crossings.
+
+...
+
+[Data](articles/a85e4282.json)
+
+---
 
 ### A polite challenge to Harsha de Silva
 
@@ -44,6 +88,8 @@ These confidential negotiations, conducted behind closed doors, aimed to restruc
 
 [Data](articles/8265b27b.json)
 
+[Extended Data](ext_articles/8265b27b.ext.json)
+
 ---
 
 ### Executive Director Aryasinha draws attention to ‘bottlenecks’ faced by Sri Lanka in enhancing exports and FDI
@@ -55,6 +101,8 @@ LKI’s Executive Director Ambassador Ravinatha Aryasinha on 30 March participat
 ...
 
 [Data](articles/47ff80fa.json)
+
+[Extended Data](ext_articles/47ff80fa.ext.json)
 
 ---
 
@@ -78,6 +126,8 @@ He noted that this has caused a delay in the disbursement of the second tranche 
 
 [Data](articles/89830417.json)
 
+[Extended Data](ext_articles/89830417.ext.json)
+
 ---
 
 ### SJB suggests alternative plan for public debate with NPP
@@ -98,6 +148,8 @@ Politicians from the SJB and NPP have continued to exchange rhetorical challenge
 
 [Data](articles/895121ed.json)
 
+[Extended Data](ext_articles/895121ed.ext.json)
+
 ---
 
 ### Govt. with IOM support ensures safe return of 8 Lankan migrants trafficked to cyber scamming in Myanmar
@@ -111,6 +163,8 @@ The Sri Lankan migrants have been forced into various cyber scamming activities 
 ...
 
 [Data](articles/53c58c32.json)
+
+[Extended Data](ext_articles/53c58c32.ext.json)
 
 ---
 
@@ -128,6 +182,8 @@ The counsels for Bimba argued that the court lacks the authority to issue a cond
 
 [Data](articles/a89eecce.json)
 
+[Extended Data](ext_articles/a89eecce.ext.json)
+
 ---
 
 ### ‘NatCon 2024: Shaping tomorrow’s leaders’ conference gears up to inspire Sri Lanka youth
@@ -142,6 +198,8 @@ With a special emphasis on diversity, leadership, and skill-building, NatCon 202
 
 [Data](articles/cb3ffe8a.json)
 
+[Extended Data](ext_articles/cb3ffe8a.ext.json)
+
 ---
 
 ### New Unilever SL Chairman visits BOI
@@ -153,6 +211,8 @@ Unilever Sri Lanka’s new Chairman and CEO Ali Tariq recently met with the Boar
 ◼️
 
 [Data](articles/bf61df7e.json)
+
+[Extended Data](ext_articles/bf61df7e.ext.json)
 
 ---
 
@@ -169,6 +229,8 @@ The CAFE 2024 is a crucible of culinary innovation, slated to transform the gast
 ...
 
 [Data](articles/e51480f7.json)
+
+[Extended Data](ext_articles/e51480f7.ext.json)
 
 ---
 
@@ -194,6 +256,36 @@ He was the best politician in the minds of the people. In this case, the Vavuniy
 
 ---
 
+### Unilever Sri Lanka, the Central Environmental Authority and the Marine Environment Protection Authority enter into a partnership for a sustainable future
+
+*2024-04-19 02:58:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-the-central-environmental-authority-and-the-marine-environment-protection-authority-enter-into-a-partnership-for-a-sustainable-future/) · `en`
+
+As part of its broader sustainability agenda, Unilever Sri Lanka remains committed to collecting +100% of the equivalent plastic it sells into the domestic market. A key enabler of this will be a public-private partnership between Unilever the CEA and the MEPA to clean and step up the health of the Kelani River which provides drinking water to 4 million Sri Lankans. This was formalized through a MoU signed recently.
+
+Ali Tariq, Chairman and CEO at Unilever Sri Lanka said, “In our efforts to create a circular economy for plastics, we are proud to confirm that over the last 2 years we have collected +100% of the equivalent plastic volume that we have sold through our products.
+
+The Kelani River clean-up  partnership will enable our commitment to continue to do so and support the national agenda of ‘Extended Producer Responsibility for plastic manufacturers’.
+
+...
+
+[Data](articles/7731e03a.json)
+
+---
+
+### SLFEA appoints JAT as a Facilitation Partner for training painters to provide overseas employment opportunities
+
+*2024-04-19 02:57:00* · [`islandlk`](http://island.lk/slfea-appoints-jat-as-a-facilitation-partner-for-training-painters-to-provide-overseas-employment-opportunities/) · `en`
+
+Building on the exceptional success of the JAT Pintharoo Abhiman programme, JAT Holdings PLC – Sri Lanka’s market leader in wood coatings and brushes – recently entered into a Memorandum of Cooperation (MOC) with the Sri Lanka Foreign Employment Agency (Private) Limited (SLFEA). The partnership will allow JAT and SLFEA to collaborate towards identifying qualified Sri Lankan painters and wood craftsmen and equipping them with the training and skills necessary to suit the labour market overseas.
+
+Accordingly, the SLFEA will identify suitable foreign employment opportunities and outline the training and skills requirements for these roles. JAT will facilitate the training process for painters and wood craftsmen, and equip them with other necessary skills required for foreign employment. The two organizations will work together, with SLFEA guiding the entire process in accordance with guidelines laid down by the Sri Lanka Bureau of Foreign Employment.
+
+...
+
+[Data](articles/43a5909b.json)
+
+---
+
 ### Husband's death: Wife makes a bad decision
 
 *2024-04-19 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181416) · `ta`
@@ -215,6 +307,24 @@ Ramachandran Raveendran, the father of two girls aged 18 and 15, aged 18 and 15,
 [Data](articles/80a56ca0.json)
 
 [Extended Data](ext_articles/80a56ca0.ext.json)
+
+---
+
+### CEAT Kelani launches 3 new radial tyre variants in ‘Orion Brawo’ range
+
+*2024-04-19 02:57:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
+
+Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners.
+
+Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
+
+The CEAT Orion Brawo 155/65 R14 and 165/70 R14 tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage.
+
+The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
+
+...
+
+[Data](articles/9c7cda71.json)
 
 ---
 
@@ -665,6 +775,20 @@ The Consumer Affairs Officer and the Moragalla Tourism Police came and questione
 [Data](articles/98ef025e.json)
 
 [Extended Data](ext_articles/98ef025e.ext.json)
+
+---
+
+### Tidbits from this source and that
+
+*2024-04-18 20:55:00* · [`islandlk`](http://island.lk/tidbits-from-this-source-and-that/) · `en`
+
+So, the Sinhala and Tamil New Year came and went. Cassandra has used a Sri Lankan colloquial manner of pronouncing that an anticipated event was marked and ended. The high temperatures however prevail, though mercifully tempered by afternoon showers. Everyone except drug dealers and politicians were struggling against strangulating pecuniary difficulties, but of course last minutes urges to buy had to be given in to.
+
+Colombo became a deader city than it was in mid-April of recent previous years. A Sri Lankan returned on his annual vacation from foreign climes said driving around was similar to what it pleasantly was thirty years ago. Cass personally is glad the Aluth Avurudhu season is ended since her domestic returned.
+
+...
+
+[Data](articles/804c7279.json)
 
 ---
 
@@ -2123,153 +2247,5 @@ NPP members Professor Krishantha Abeysinghe, Attorney-at-Law Sunil Watagala, Pre
 [Data](articles/7b6b8211.json)
 
 [Extended Data](ext_articles/7b6b8211.ext.json)
-
----
-
-### Sri Lanka Police, Environmental Authority ask public to report noise pollution and burning trash
-
-*2024-04-18 14:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-environmental-authority-ask-public-to-report-noise-pollution-and-burning-trash-159122/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Police has requested the public to provide information on environmental damage such as burning trash and noise pollution to its Special Bureau on the hotline 1997 and the Central Environment Authority’s hotline 1981.
-
-“These numbers already receive information from the public regarding various environmental damages such as mining for minerals, illegal mining along riverbanks, environmental damage caused by illegal factories and noise pollution,” the Police said in a statement after a discussion with the CEA.
-
-The public were encouraged to report various environment harming issues including noise pollution, vehicles that emit excessive smoke or honk horns excessively, and the disposal of inorganic and organic waste and/or burning trash.
-
-The CEA and the Police reached an agreement to carry out future raids and awareness campaigns related to environmental protection. (Colombo/Apr18/2024)
-
-◼️
-
-[Data](articles/b3faa123.json)
-
-[Extended Data](ext_articles/b3faa123.ext.json)
-
----
-
-### Hirunika noticed to appear before Court over contempt of court
-
-*2024-04-18 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-noticed-to-appear-before-Court-over-contempt-of-court/108-280914) · `en`
-
-Colombo, April 18 (Daily Mirror) - The Court of Appeal has issued notice on former Member of Parliament Hirunika Premachandra, requiring her to appear before court on May 8 in connection with a contempt of court application.
-
-The petitioner, Hisham Jamaldeen alleged that respondent Hirunika Premachandra had made a statement to the media regarding the order of the Magistrate in granting bail to him while there is an ongoing proceeding before the Magistrate's Court of Mount Lavinia.
-
-It was alleged that the conduct of the respondent is tantamount to interference with ongoing judicial proceedings and an attempt to create suspicions in the minds of the public towards the administration of justice.
-
-The petitioner is seeking an order to issue a rule under Section 10(3)(a) of the Contempt of Court, Tribunal or Institution Act No.08 of 2024.
-
-...
-
-[Data](articles/88060385.json)
-
-[Extended Data](ext_articles/88060385.ext.json)
-
----
-
-### The head lifted the dollar
-
-*2024-04-18 14:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலையை-தூக்கியது-டொலர்/175-336080) · `ta`
-
-The Central Bank of Sri Lanka announced a 16-day fall in the value of the Sri Lankan rupee, with the US dollar's sales price at Rs 305.16 and purchase price at Rs 295.28.
-
-🟩
-
-The Central Bank of Sri Lanka has announced that the value of the Sri Lankan rupee has fallen 16 days after the US dollar.
-
-Accordingly, the Central Bank of Sri Lanka said the sales price of a US dollar was Rs 305.16 and the purchase price was Rs 295.28.
-
-◼️
-
-[Data](articles/a70ec8e0.json)
-
-[Extended Data](ext_articles/a70ec8e0.ext.json)
-
----
-
-### Our years in Washington
-
-*2024-04-18 14:09:25* · [`adalk`](https://www.ada.lk/breaking_news/වොෂින්ටනයේ-අපේ-අවුරුදු/11-409148) · `si`
-
-In Washington, USA, Sri Lanka's Eschoshinton DC events were held in Damascus, showcasing Sri Lankan culture and attracting over 1000 attendees. Ambassador Mahinda Samarasinghe and families participated, along with various foods and dances. The events aimed to educate youth and were sponsored by companies and organizations.
-
-🟩
-
-In Washington, USA, two tenses were held this year. Sri Lanka's Eschoshinton DC "Washington DC" was held in Damascus. They were organized in harmony with Hela Customs and Sri Lankan culture. More than 1000 Americans and other nations were also present at these two cases.
-
-Ambassador of Washington Mahinda Samarasinghe and other families were also present at both festivals. Kumbling, Pilgrims, Konmutttti, Dining, Coconut, Sinhala Dance, Drainage, Sinhala and JanakaConsisted of a number of participants. The other nations were joined the Sri Lankans and catering Kokis Malaysu, Kokis Malaysu and Honey Baule Baths, Dodol Koti Kotappu Bawn, Fast Food and Fast Food for Sri Lankans.
-
-...
-
-[Data](articles/d0f0d078.json)
-
-[Extended Data](ext_articles/d0f0d078.ext.json)
-
----
-
-### Retired Major arrested for fraud in Russian army job scheme
-
-*2024-04-18 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Retired-Major-arrested-for-fraud-in-Russian-army-job-scheme/108-280913) · `en`
-
-Colombo, April 18 (Daily Mirror) - The Criminal Investigations Department (CID) arrested two suspects, including a retired Major of the Sri Lanka Army for fraudulently obtaining money from individuals promising employment in the Russian army.
-
-The arrest came in the wake of reports on rackets involving the trafficking of Sri Lankans for military service in Russia, all without government oversight or intervention.
-
-Earlier, it was reported that 17 Sri Lankans had returned home after fleeing military camps in Russia. It was reported that several other Sri Lankans still remain trapped in similar military camps, unable to return to the country.
-
-In March, Al Jazeera reported that hundreds of Sri Lankans are serving with the Russian military in Ukraine, with casualties among them. Many were enticed by lucrative salaries and the prospect of Russian citizenship.
-
-...
-
-[Data](articles/f9fbcd46.json)
-
-[Extended Data](ext_articles/f9fbcd46.ext.json)
-
----
-
-### The biggest gold loot in Canada
-
-*2024-04-18 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195757) · `si`
-
-Six suspects arrested for Canada's largest gold looting, including two staff members. Stolen from Pearson International Airport in Toronto in April 2023, totaling 400 kg of gold and foreign currency.
-
-🟩
-
-Six suspects have been arrested in connection with the largest gold looting in Canada.
-
-Among them were two staff members of the arrested group.
-
-In April 2023, they had stolen to Pearson International Airport in Toronto, Toronto, toronto, toronto.
-
-At the same time, the total weight of 400 kg includes 6,600 kg of gold and foreign currency.
-
-◼️
-
-[Data](articles/e304f1dc.json)
-
-[Extended Data](ext_articles/e304f1dc.ext.json)
-
----
-
-### Dialog Axiata to buy Bharti Airtel’s telecom operations in Sri Lanka
-
-*2024-04-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98703/dialog-axiata-to-buy-bharti-airtels-telecom-operations-in-sri-lanka) · `en`
-
-Sri Lankan telecom operator Dialog Axiata has signed a definitive agreement to buy Bharti Airtel’s operations in the island nation, the companies said on Thursday, nearly a year after the merger was announced.
-
-Under the agreement, Dialog Axiata will acquire a 100% stake in Airtel Lanka by issuing Bharti Airtel a 10.4% stake in Dialog Axiata.
-
-Airtel Lanka is the Sri Lankan unit of India’s Bharti Airtel.
-
-The companies said the share swap would be valued by an independent body.
-
-The deal has been approved by Sri Lanka’s telecom regulator but has yet to be cleared by Dialog Axiata’s shareholders and the Colombo Stock Exchange.
-
-Airtel Lanka contributed a mere 0.2% of parent Bharti Airtel’s consolidated turnover in fiscal 2023, the company said in an exchange filing.
-
-◼️
-
-[Data](articles/a04adbd6.json)
-
-[Extended Data](ext_articles/a04adbd6.ext.json)
 
 ---

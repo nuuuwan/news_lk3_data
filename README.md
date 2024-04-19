@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 13:18:20**
+As of **2024-04-19 13:34:17**
 
 ## Newspaper Stats
 
-*Scraped **19,744** Articles*
+*Scraped **19,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,106 @@ dailyftlk | 1,085
 economynextcom | 1,129
 adalk | 1,646
 tamilmirrorlk | 2,289
-adaderanalk | 2,363
-virakesarilk | 2,958
+adaderanalk | 2,364
+virakesarilk | 2,959
 dailymirrorlk | 3,056
-adaderanasinhalalk | 3,203
+adaderanasinhalalk | 3,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,741 (100.0%) of 19,744 articles have been extended.
+19,744 (100.0%) of 19,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### கச்சா எண்ணெய், தங்கத்தின் விலை உயர்வு
+### Presidential election: SJB floats potential backing of UNP for Sajith
+
+*2024-04-19 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98721/presidential-election-sjb-floats-potential-backing-of-unp-for-sajith) · `en`
+
+Samagi Jana Balawegaya (SJB) says that if the United National Party (UNP) supports Opposition Leader Sajith Premadasa in the upcoming presidential election, consideration may be given to offering a position to current President Ranil Wickremesinghe.
+
+SJB Parliamentarian Ashok Abeysinghe stated this, while emphasizing that no one from their party will join the UNP.
+
+MP Abeysinghe made these remarks while joining a press briefing held in Kurunegala.
+
+◼️
+
+[Data](articles/6e5fb50d.json)
+
+---
+
+### History: Who belongs to Kachchativu?Released on June 29, 1974, Veerakesari ....
+
+*2024-04-19 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181449) · `ta`
+
+Kachchativu's ownership is a contentious issue, with ongoing discussions in Sri Lanka and India. The Weerakesari magazine's June 29, 1974, cover states, "Kachchativu belongs to Sri Lanka! 45 years of dispute is exhausted!"
+
+🟩
+
+Various talks are taking place in Sri Lanka and India regarding Kachchativu. A variety of comments on who belongs to Kachchativu is a trending in today's modern world, especially on social media.
+
+Many reasons are said to be trending. But in restoring history, “Kachchativu belongs to Sri Lanka!45 years of dispute is exhausted !! ”This is the first page of the Weerakesari magazine published on June 29, 1974.
+
+◼️
+
+[Data](articles/13e88475.json)
+
+[Extended Data](ext_articles/13e88475.ext.json)
+
+---
+
+### ණය සහ බදු ගැන රජයේ ස්ථාවරය
+
+*2024-04-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195780) · `si`
+
+ශ්‍රී ලංකාවේ ණය තිරසරභාවය තහවුරු කිරීම සඳහා සියලු ණයහිමියන් සමග ප්‍රතිපත්තිමය එකඟතාවයකට පැමිණීමට හැකිවනු ඇතැයි රජය දැඩි විශ්වාසයෙන් පසුවන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+අමෙරිකාවේ, වොෂින්ටන් හී ජාත්‍යන්තර මූල්‍ය අරමුදලේ සැසිවරායකට සමගාමීව පැවැති සම්මුඛ සාකච්ඡාවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+"අපි ලොව අඩුවෙන්ම බඳු අයකරන රටවලින් එක රටක් ලෙස නම් කෙරෙනවා. නමුත් මේ වැඩසටහන දියත්කිරීමත් සමගින් අප විසින් ක්‍රමයෙන් බදු ආදායම ඉහළ නංවා තිබෙනවා. අපි මේ වන විට බඳු ගෙවීමෙන් නිදහස් කිරීම ඉවත් කර තිබෙනවා. බදු අනුකූලතාවයන් ශක්තිමත් කර තිබෙනවා.  2023 වසරේදී දළ දේශීය නිෂ්පාදිතයෙන් 11%ක් දක්වා රජයේ අදායම ඉහළ ගොස් තිබෙනවා. එය රජයේ ආදායමෙන් 8.1%ක ප්‍රතිශතයක්."
+
+"අපි 2024 වන විට එම අගය 12%ක් දක්වා ඉහළ අගයකින් බලාපොරොත්තුවනවා. ඒ වගේම අපට විශ්වාසයි අපට එම ඉලක්කය කරා යා හැකි බවට.  මේ වන විට බදු අනූකූලතාවය 130% දක්වා වර්ධනයක් අත්පත්කරගෙන තිබෙනවා."
+
+...
+
+[Data](articles/3babdf4a.json)
+
+---
+
+### Crude oil, gold price hike
 
 *2024-04-19 13:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சா-எண்ணெய்-தங்கத்தின்-விலை-உயர்வு/175-336092) · `ta`
 
-ஈரான் மீது இஸ்ரேல் ஏவுகணை தாக்குதல் நடத்தியதாக வெளியான தகவலை அடுத்து, உலக சந்தையில் எரிபொருள் மற்றும் தங்கத்தின் விலைகள் அதிகரித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Crude oil and gold prices rise due to Israeli missile strikes on Iran. Asian markets: Pakcha oil up 3% to $90, gold at $2,400.
 
-இன்று (19)  காலை ஆசிய சந்தைகளில் பகச்சா எண்ணெய் பீப்பாய்க்கு 3% உயர்ந்து $90 ஆக உள்ளதுடன், தங்கம் ஒரு அவுன்ஸ் $2,400 ஆக காணப்படுகின்றது.
+🟩
+
+Fuel and gold prices have been reported in the world market following reports that Israeli missile strikes on Iran.
+
+In the Asian markets this morning (19), the Pakcha oil barrel has risen by 3% to $ 90 and gold is $ 2,400.
 
 ◼️
 
 [Data](articles/138b576c.json)
 
+[Extended Data](ext_articles/138b576c.ext.json)
+
 ---
 
-### வரலாறு : கச்சதீவு யாருக்கு சொந்தம் ? 1974 ஜூன் 29இல் வெளியான வீரகேசரியில்....
+### நாட்டில் வைத்தியர்களுக்குப் பற்றாக்குறை!
 
-*2024-04-19 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181449) · `ta`
+*2024-04-19 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181450) · `ta`
 
-கச்சத்தீவு தொடர்பில் இலங்கையிலும் இந்தியாவிலும் பல்வேறு பேச்சுக்கள் இடம்பெற்றுவருகின்றன. கச்சத்தீவு யாருக்கு சொந்தமானது என்பது பற்றிய பல்வேறு விதமான கருத்துக்கள் இன்றைய நவீன உலகில் குறிப்பாக சமூக ஊடகங்களில் வைரலாக (trending) காணப்படுகிறது.
+விசேட மற்றும் சிறுவர்களுக்கான டாக்டர்களின் பற்றாக்குறை  நிலவுவதாக சுகாதார அமைச்சு தெரிவித்துள்ளது. பலர் நாட்டை விட்டு வெளியேறியுள்ளதாகவும் ஏனையோர் வெளிநாடுகளில் பயிற்சிக்காக சென்றுள்ளதாகவும் சுகாதார அமைச்சின் செயலாளர் பாலித மஹிபால குறிப்பிட்டுள்ளார்.வெளிநாட்டுக்குப் பயிற்சிக்காக  சென்ற சில வைத்தியர்கள் தற்போது நாடு திரும்பியுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
 
-கச்சத்தீவு வைரலாவதற்கு (trending) பல காரணங்கள் பலராலும் கூறப்படுகின்றன. ஆனால், வரலாற்றை மீட்டுப் பார்க்கும்போது “கச்சதீவு இலங்கைக்குச் சொந்தமானது! 45 வருடகாலத் தகராறு தீர்ந்துவிட்டது!!” என்ற தலையங்கத்துடன் 1974ஆம் ஆண்டு ஜூன் மாதம் 29ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் இவ்வாறு உள்ளது.
+மேலும் ஹம்பாந்தோட்டை மற்றும் எம்பிலிப்பிட்டிய வைத்தியசாலைகளில் விசேட வைத்தியர்கள் இன்மையால் நோயாளர்கள் சிரமத்துக்கு உள்ளாகியுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
 
 ◼️
 
-[Data](articles/13e88475.json)
+[Data](articles/a7731f35.json)
 
 ---
 
@@ -81,6 +141,8 @@ It currently operates direct flights to Dubai, Male and Chennai from the airline
 ...
 
 [Data](articles/7f7af9fc.json)
+
+[Extended Data](ext_articles/7f7af9fc.ext.json)
 
 ---
 
@@ -2113,75 +2175,5 @@ Its significant psychological impact on enhancing educational productivity has l
 [Data](articles/04e3cce1.json)
 
 [Extended Data](ext_articles/04e3cce1.ext.json)
-
----
-
-### Sri Lanka 1Q24 tea exports dollar earnings at six year high
-
-*2024-04-18 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-1Q24-tea-exports-dollar-earnings-at-six-year-high/108-280938) · `en`
-
-A review of data published by Sri Lanka Customs analyzed by Siyaka Research confirms that the country shipped 62 Mnkg during the period January – March 2024, up 15% on last year’s figure of 54 Mnkg.
-
-Due to steady strengthening of the Sri Lankan Rupee against US$ YoY and lower auction prices, Rupee earnings show only a nominal change with an increase from Rs. 36 bln to Rs. 38 bln.
-
-In USD however, the approximate value is $ 354 Mn is 13% more on the 2023 figure of $ 314 Mn.
-
-This year’s Dollar earnings are the highest since 2018; however the country exported 68.8 Mnkg  in Q1 of that year compared with  62.3 Mnkg in 2024.
-
-A review of major destinations has Iraq topping the list with a quantity of 8.4 Mnkg amounting to 14% of all shipments in 2024. The UAE follows with 7 Mnkg up 56% on last year. Shipments to Russia have grown 14% YoY 6.4 Mnkg.
-
-Turkey follows but quantities have declined a sharp 40% to 4 Mnkg. Iran has increased 166% YoY from 1.3 Mnkg to 3.4 Mnkg this year.
-
-...
-
-[Data](articles/e504a92e.json)
-
-[Extended Data](ext_articles/e504a92e.ext.json)
-
----
-
-### Suspect arrested for price-gouging incident involving tourist in Kalutara
-
-*2024-04-18 22:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98713/suspect-arrested-for-price-gouging-incident-involving-tourist-in-kalutara) · `en`
-
-Police have arrested the suspect related to the incident of misleading a foreigner and selling an Ulundu Wadey and a cup of tea for an exorbitant price at a restaurant in the Kalutara area.
-
-Following a series of footage circulating on social media, and in response to a complaint received through email, Moragalla Tourism Police conducted an investigation resulting in the arrest of the suspect today (18).
-
-The arrested individual has been identified as a 60-year-old resident of the Palatota area of Kalutara.
-
-Police investigations have revealed that the suspect has been consistently employing deceitful tactics to obtain money from foreign tourists.
-
-The arrested suspect is scheduled to be produced before the Kalutara Magistrate’s Court tomorrow (April 19).
-
-...
-
-[Data](articles/ae7c5b46.json)
-
-[Extended Data](ext_articles/ae7c5b46.ext.json)
-
----
-
-### A young family girl dies in a well in Jaffna
-
-*2024-04-18 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181408) · `ta`
-
-A 37-year-old woman with epilepsy, Pradeepan Nithya, died after falling into a well in Madagal-Sahayapuram, Jaffna. Her body was found at 6.30 pm on Wednesday, taken to Tellippallai Hospital, then to Jaffna Teaching Hospital for anatomical examination. The body was released to relatives on Thursday.
-
-🟩
-
-A young family woman dies on Wednesday (17). The deceased was Pradeepan Nithya (37 years old) from Madagal - Sahayapuram.
-
-The woman has epilepsy. He was recovered from a home well at around 6.30 pm on Wednesday (17). The body was later taken to the Tellippallai Hospital and then taken to the Jaffna Teaching Hospital.
-
-A sudden death investigator, A. Jayapalasingham. The body was handed over to relatives on Thursday (18) after anatomical examination.
-
-She is the mother of two children. It is noteworthy that the Development Officer of the Southwest Pradeshiya Sabha has been appointed as the Development Officer.
-
-◼️
-
-[Data](articles/d77c216b.json)
-
-[Extended Data](ext_articles/d77c216b.ext.json)
 
 ---

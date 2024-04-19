@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 10:34:17**
+As of **2024-04-19 10:51:42**
 
 ## Newspaper Stats
 
-*Scraped **19,705** Articles*
+*Scraped **19,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ dailyftlk | 1,085
 economynextcom | 1,123
 adalk | 1,643
 tamilmirrorlk | 2,283
-adaderanalk | 2,358
-virakesarilk | 2,950
+adaderanalk | 2,360
+virakesarilk | 2,951
 dailymirrorlk | 3,051
-adaderanasinhalalk | 3,198
+adaderanasinhalalk | 3,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,705 (100.0%) of 19,705 articles have been extended.
+19,705 (100.0%) of 19,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Fr. Cyril Gamini arrives at CID
+
+*2024-04-19 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98717/fr-cyril-gamini-arrives-at-cid) · `en`
+
+Rev. Fr. Cyril Gamini Fernando arrived at the Criminal Investigation Department (CID) premises this morning (19) to record a statement pertaining to the Easter Sunday terror attacks.
+
+Two days ago, the CID issued summons to the Catholic priest who is also a spokesperson of the Colombo Archdiocese.
+
+◼️
+
+[Data](articles/7b21e4b7.json)
+
+---
+
+### සිරිල් ගාමිණි පියතුමන් CIDයට එයි
+
+*2024-04-19 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195776) · `si`
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් කරුණු විමසීමට “ඥානාර්ත ප්‍රදීපය“ කතෝලික පුවත්පතේ ප්‍රධාන කර්තෘ සිරිල් ගාමිණි පියතුමන් අද (19) දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවා තිබුණි.
+
+ඒ අනුව සිරිල් ගාමිණි පියතුමන් මේ වනවිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇති බව වාර්තා වෙයි.
+
+"පාස්කු ප්‍රහාරයට අදාළව අවස්ථා ගත කරුණු ඔබ දන්නා බවට තොරතුරු ලැබී ඇති බැවින් ඒ සම්බන්ධයෙන් ඔබ වහන්සේගෙන් කරුණු විමසීමට අදහස් කර ඇති බව" අදාළ කැඳවීමේ ලිපියෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුම් දී තිබුණි.
+
+◼️
+
+[Data](articles/73ffa228.json)
+
+---
+
+### வெற்றிலை,பாக்கு  விலை உயர்வு
+
+*2024-04-19 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181422) · `ta`
+
+ஒரு வெற்றிலையின் விலை 10 ரூபா முதல் 15 ரூபா வரை விற்பனை செய்யப்படுகின்றது.
+
+பொருளாதார மத்திய நிலையங்களில், 100 வெற்றிலைகள்  400 முதல் 500 ரூபா வரை விற்கப்படுகிறது, அத்தோடு, 100 வெற்றிலையின் சில்லறை விற்பனை  விலையானது  1,000 ரூபாவாக காணப்படுகின்றது.
+
+மேலும், ஒரு வெற்றிலையின் விலை10 முதல் 15 ரூபா வரை அதிகரித்துள்ளதோடு . 100 பாக்குகளினது  மொத்த விலை 800 ரூபாவாக காணப்படுகின்றது.
+
+◼️
+
+[Data](articles/07e9c28e.json)
+
+---
 
 ### Murder in Romania in 1991;Arrested Sri Lankan in Germany
 
@@ -58,6 +104,22 @@ It is reported that the suspect will be taken to Romania and will be jailed for 
 
 ---
 
+### ඉන්දීය මහ මැතිවරණය අද
+
+*2024-04-19 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195775) · `si`
+
+2024 ඉන්දීය මහ මැතිවරණයේ ඡන්ද විමසීමේ පළමු අදියර අද (19) ආරම්භ වෙයි.
+
+පළමු අදියර යටතේ මන්ත්‍රීවරුන් 102ක් තෝරා ගැනීම සඳහා කෝටි 16.63ක ඡන්ද දායකයින් පිරිසක් ඡන්දය ප්‍රකාශ කිරීමට නියමිතය.
+
+ලොව විශාලතම මහ මැතිවරණය ලෙස සැලකෙන ඉන්දීය මහ මැතිවරණය අදියර 7ක් යටතේ පැවැත්වෙන අතර ඡන්ද ගණන් කිරීම ලබන ජුනි මස 4 වනදා සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/2f9e26df.json)
+
+---
+
 ### 25 train services cancelled till April 25
 
 *2024-04-19 09:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/25-train-services-cancelled-till-April-25/108-280965) · `en`
@@ -73,6 +135,26 @@ Accordingly, the trains operating from Colombo Fort (7.15 p.m.) to Padukka, from
 [Data](articles/3dbc8180.json)
 
 [Extended Data](ext_articles/3dbc8180.ext.json)
+
+---
+
+### Former MP Palitha Thewarapperuma’s final rites to be performed today
+
+*2024-04-19 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98716/former-mp-palitha-thewarapperumas-final-rites-to-be-performed-today) · `en`
+
+The final rites of former Deputy Minister and former UNP parliamentarian Palitha Thewarapperuma are planned to be performed this afternoon (19).
+
+The funeral procession will commence following religious observances at this residence in Yatadolawatta, Mathugama and the remains will be buried at the gravesite he had built himself sometime back.
+
+The former Kalutara District MP died from electrocution on Tuesday (16). He was aged 64 years at the time of his demise.
+
+A prominent figure of the United National Party (UNP), Thewarapperuam had served as Deputy Minister of Internal Affairs, Wayamba Development and Cultural Affairs in the UNP-led national government in 2015.
+
+He was once the chairman of the Mathugama Pradeshiya Saba (2002) and was also a member of the Western Provincial Council. He served as a Member of Parliament from Kalutara District from 2010 to 2020.
+
+...
+
+[Data](articles/33a65c8d.json)
 
 ---
 
@@ -2097,125 +2179,5 @@ The International Organization for Migration provided logistical assistance in r
 [Data](articles/3aaca04e.json)
 
 [Extended Data](ext_articles/3aaca04e.ext.json)
-
----
-
-### Sri Lankans trapped in Myanmar forced labour cyberscam come home
-
-*2024-04-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankans-trapped-in-myanmar-forced-labour-cyberscam-come-home-159163/) · `en`
-
-ECONOMYENXT – Eight Sri Lankans who were trafficked for forced criminal activities in cyber scamming compounds in Myanmar returned to Sri Lanka today.
-
-“Myanmar law enforcement authorities rescued these Sri Lankans on 4 April 2024, following the request by the Government of Sri Lanka,” the Ministry of Foreign Affairs said in a statement.
-
-“The Sri Lanka Embassy officials in Bangkok received them on 11 April 2024 at the Mae Sot border gate in Thailand, and subsequently they were brought to Bangkok and provided accommodation until their repatriation was arranged with the assistance of the International Organization for Migration.”
-
-The International Organization for Migration provided logistical assistance in repatriating the rescued Sri Lankans.
-
-...
-
-[Data](articles/8a20db28.json)
-
-[Extended Data](ext_articles/8a20db28.ext.json)
-
----
-
-### School student drowned in reservoir
-
-*2024-04-18 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195762) · `si`
-
-A 17-year-old schoolgirl drowned in the Kastary Reservoir. Security personnel are searching for her body.
-
-🟩
-
-A schoolgirl drowned in the Kastary Reservoir.
-
-The victim was a 17 year old schoolgirl in the Cossali Estate.
-
-The school student is due to the accident at around 3.30 pm today at 3.30 pm.
-
-Security personnel in charge of the Castlereic Reservoir have launched a mission in search of the child's body.
-
-Sources say that the streams have been swimming along the across the reservoir over the reservoir in charge of the Castlereaging Reservoir awareness /
-
-◼️
-
-[Data](articles/1d5a4e2f.json)
-
-[Extended Data](ext_articles/1d5a4e2f.ext.json)
-
----
-
-### Sion Vikram's 'Veera Tira Suran 2' will be the first to release the second part of the new initiative
-
-*2024-04-18 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181399) · `ta`
-
-"Sion Vikram's 'Veera Tira Suran 2' is the first part of a two-part film series, with the second part yet to be released. The film, featuring Sion Vikram, is a significant venture in Tamil cinema. The first part is expected to release later, with a special video of Vikram's birthday released for the upcoming film. The anticipation is high, especially for Vikram's role as Kali, a grocery store worker with a unique weapon."
-
-🟩
-
-The film 'Veera Thai Suran', starring Sion Vikram, is a two -part film, which evolves as an international actor in Tamil cinema.
-
-The next part of a film in the world cinemas is released and the next part is ready if it win the fans with the support of the fans.
-
-But the second part of the film 'Veera Theta Surah', which has been cast as a new venture in Tamil cinema, is the first part of the movie 'Veera Tira Saran'.. The film crew has said that the first part of the film will be released later.
-
-Director S.. U. Siyan Vikram, S in the movie 'Veera Thira Suran 2' directed by Arun Kumar. J.. Surya, Suraj Venjaramudu, Dushara Vijayan and many others are acting.
-
-The film is being recorded by Theni Eswar. V.. Prakash Kumar is composed. The film is being produced as Exan Entertainment and is producing the producer Riya Shibu on behalf of HR Pictures.
-
-A special video of Vikram's birthday has been released in his upcoming film 'Veera Tira Saran 2'.
-
-...
-
-[Data](articles/614a918b.json)
-
-[Extended Data](ext_articles/614a918b.ext.json)
-
----
-
-### Andrea's 'Manusi'
-
-*2024-04-18 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181397) · `ta`
-
-"Andrea's 'Manusi' preview released, highlighting her performance in the Tamil film industry. Directed by Gopi Nayanar, featuring Nasser, Tamil, Balaji Sakthivel, and others. Focuses on caste politics, with music by Gnani Ilayaraja. Produced by PF UV Entertainment and Cross Root Film Company. Currently in final phase."
-
-🟩
-
-The preview of the film 'Manusi', which plays the lead role of actress Andrea's story, has been released by her unique performance in the Tamil film industry.
-
-Vijay Sethupathi posted this on his web page and congratulated the film crew.
-
-Director N.. The film 'Manusi' directed by Gopi Nayanar has starred in Andrea, Nasser, Tamil, Balaji Sakthivel, Viji Chandrasekhar, Hakim Shah.
-
-The film, which has been cinematographed by AM Edwin Sahai, has composed the music Gnani Ilayaraja.
-
-The film, which focuses on caste politics, has produced the film on behalf of the film Companies of PF UV Entertainment and Cross Root Film Company.
-
-The final phase of the film is currently underway. In this case, the preview of the film has been released.
-
-...
-
-[Data](articles/b24a8f90.json)
-
-[Extended Data](ext_articles/b24a8f90.ext.json)
-
----
-
-### Transparency International files fundamental rights case over medical supplies procurement
-
-*2024-04-18 17:30:00* · [`economynextcom`](https://economynext.com/transparency-international-files-fundamental-rights-case-over-medical-supplies-procurement-159147/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Application in the Supreme Court requesting the Court to direct the Auditor General to conduct an inquiry into the decision to procure medical supplies from medical suppliers to whom Waivers of Registration had been issued, and recover the cost incurred by procuring medical supplies through them.
-
-“The FR application has been filed in the public interest, with the aim of seeking accountability for the misuse of public resources and the violation of fundamental rights of citizens,” TISL said in a statement.
-
-The cabinet of ministers, incumbent and former health sector officials, former Health Minister Keheliya Rambukwella, companies involved in the supply of Human-IG, treasury secretary, auditor general, Customs, Police, CIABOC and the attorney general are among the 66 respondents named in the petition.
-
-...
-
-[Data](articles/a90734b7.json)
-
-[Extended Data](ext_articles/a90734b7.ext.json)
 
 ---

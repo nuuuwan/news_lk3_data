@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 06:55:54**
+As of **2024-04-19 07:17:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,664 (100.0%) of 19,673 articles have been extended.
+19,673 (100.0%) of 19,673 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Winds will be variable in direction and wind speed will be 20-30 kmph.
 
 [Data](articles/a0084a88.json)
 
+[Extended Data](ext_articles/a0084a88.ext.json)
+
 ---
 
 ### Wild elephants pull down 16 telephone posts
@@ -68,6 +70,8 @@ On information from police, a team of telecom officials and employees arrived an
 
 [Data](articles/b9a75526.json)
 
+[Extended Data](ext_articles/b9a75526.ext.json)
+
 ---
 
 ### No presidential candidate has secured on a 50% vote base as of date
@@ -81,6 +85,8 @@ As reported earlier, UNP leader Ranil Wickremesinghe will present himself as a n
 ...
 
 [Data](articles/e1862c10.json)
+
+[Extended Data](ext_articles/e1862c10.ext.json)
 
 ---
 
@@ -149,6 +155,8 @@ While concerns have been raised regarding the potential impact of the duty-free 
 ...
 
 [Data](articles/c69e531e.json)
+
+[Extended Data](ext_articles/c69e531e.ext.json)
 
 ---
 
@@ -323,6 +331,8 @@ On 21st of last month, IMF and Sri Lanka reached a staff level agreement to conc
 ...
 
 [Data](articles/3057471f.json)
+
+[Extended Data](ext_articles/3057471f.ext.json)
 
 ---
 

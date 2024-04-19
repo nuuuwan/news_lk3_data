@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 21:34:06**
+As of **2024-04-19 21:53:15**
 
 ## Newspaper Stats
 
-*Scraped **19,802** Articles*
+*Scraped **19,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,373
+adaderanalk | 2,374
 virakesarilk | 2,970
 dailymirrorlk | 3,072
-adaderanasinhalalk | 3,215
+adaderanasinhalalk | 3,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,801 (100.0%) of 19,802 articles have been extended.
+19,802 (100.0%) of 19,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Four including naval personnel nabbed with ‘Ice’ worth Rs. 7.5mn
+
+*2024-04-19 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98732/four-including-naval-personnel-nabbed-with-ice-worth-rs-75mn) · `en`
+
+Four individuals, including naval personnel, have been arrested while in possession of crystal methamphetamine (‘Ice’).
+
+The officers of Mulleriyawa Police made the arrest on Friday (19).
+
+Accordingly, 510 grams of ‘Ice’, estimated to be worth Rs. 7.5 million, was found on the suspects at the time of the arrest.
+
+Among the arrested individuals are 2 Lieutenant Commanders of the Sri Lanka Navy.
+
+◼️
+
+[Data](articles/40571644.json)
+
+---
+
+### අයිස් සමග නාවික හමුදා ලොක්කෝ දෙදෙනෙකුත් මාට්ටු
+
+*2024-04-19 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195793) · `si`
+
+රුපියල් මිලියන 7.5ක පමණ වටිනාකමින් යුත් අයිස් මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයින් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ, අත්අඩංගුවට පත්වූ අය අතර ශ්‍රී ලංකා නාවික හමුදාවේ ලුතිනන් කමාන්ඩර්වරු දෙදෙනෙකු ද සිටින බවය.
+
+එම පිරිස මුල්ලේරියාව ප්‍රදේශයේ දී පොලිස් අත්අඩංගුවට පත්ව ඇත්තේ, ග්‍රෑම් 510ක් වූ අයිස් මත්ද්‍රව්‍ය තොගයක් ද සමඟින්ය.
+
+◼️
+
+[Data](articles/c0fc2e43.json)
+
+---
 
 ### Declared general amnesty not applicable for Commissioned Officers marked AWOL
 
@@ -47,6 +81,8 @@ However, the personnel mentioned below have been excluded from the general amnes
 ...
 
 [Data](articles/c733fc55.json)
+
+[Extended Data](ext_articles/c733fc55.ext.json)
 
 ---
 
@@ -2247,43 +2283,5 @@ MP Ashok Abeysinghe expressed his views to hold a press conference in Kurunegala
 [Data](articles/567d496e.json)
 
 [Extended Data](ext_articles/567d496e.ext.json)
-
----
-
-### Final rites of Palitha Thevarapperuma at 2 p.m. in his own grave yard
-
-*2024-04-19 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Final-rites-of-Palitha-Thevarapperuma-at-2-p-m-in-his-own-grave-yard/108-280959) · `en`
-
-Colombo, April 19 (Daily Mirror) - The final rites of the late former Deputy Minister Palitha Thevarapperuma are scheduled to be performed today (19) in the grave prepared by him, family sources said.
-
-Accordingly, the burial ceremony will be held at 2 p.m. at the burial site in the Yatadolawatta area of Mathugama, which he prepared while he was alive.
-
-The body of the late former Deputy Minister was brought to his home on Wednesday (17) night, where a large crowd arrived to pay their last respects.
-
-He died from electrocution when he was attempting to connect two electrical wires at his home and died after being admitted to the Nagoda Hospital on April 16.
-
-◼️
-
-[Data](articles/27b83eb5.json)
-
-[Extended Data](ext_articles/27b83eb5.ext.json)
-
----
-
-### Chicken prices down by Rs. 100 today
-
-*2024-04-19 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-down-by-Rs-100-today/108-280958) · `en`
-
-Colombo, April 19 (Daily Mirror) - The retail price of a kilogram of chicken has been reduced by Rs. 100 at the Narahenpita Economic Centre today.
-
-Accordingly, the retail price of a kilo of fresh chicken at the Economic Center is Rs. 1,260.
-
-The selling price of Rs. 1,190 was recorded for skinless chicken and curry chicken was sold at Rs. 990 per kilogram.
-
-◼️
-
-[Data](articles/e716b31d.json)
-
-[Extended Data](ext_articles/e716b31d.ext.json)
 
 ---

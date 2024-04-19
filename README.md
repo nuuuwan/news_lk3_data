@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 21:18:32**
+As of **2024-04-19 21:34:06**
 
 ## Newspaper Stats
 
-*Scraped **19,801** Articles*
+*Scraped **19,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,648
 tamilmirrorlk | 2,291
-adaderanalk | 2,372
+adaderanalk | 2,373
 virakesarilk | 2,970
 dailymirrorlk | 3,072
 adaderanasinhalalk | 3,215
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,800 (100.0%) of 19,801 articles have been extended.
+19,801 (100.0%) of 19,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Declared general amnesty not applicable for Commissioned Officers marked AWOL
+
+*2024-04-19 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98731/declared-general-amnesty-not-applicable-for-commissioned-officers-marked-awol) · `en`
+
+The general amnesty period announced from 20 April to 20 May for members of the tri-forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL, the Ministry of Defence clarified.
+
+In a press release published today (19), the ministry said the one-month general amnesty is valid only for the tri-forces personnel of Other Ranks, who have not reported for duty without leave on or before 31 December 2023.
+
+During the said period, those who report will be legally discharged from their respective services.
+
+However, the personnel mentioned below have been excluded from the general amnesty, taking into account the expenses incurred for the special training provided using public funds in the following sectors and the difficulties encountered in maintaining the operations in those sectors by their discharge.
+
+...
+
+[Data](articles/c733fc55.json)
+
+---
 
 ### Fr. Cyril Gamini says he provided useful information to CID
 
@@ -47,6 +65,8 @@ He was summoned to the CID to give a statement on the Easter Sunday attacks.
 ◼️
 
 [Data](articles/01494bf9.json)
+
+[Extended Data](ext_articles/01494bf9.ext.json)
 
 ---
 
@@ -2265,25 +2285,5 @@ The selling price of Rs. 1,190 was recorded for skinless chicken and curry chick
 [Data](articles/e716b31d.json)
 
 [Extended Data](ext_articles/e716b31d.ext.json)
-
----
-
-### Sri Lanka at IMF/WB meeting stress need for concessional loans for Middle Income nations
-
-*2024-04-19 08:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-at-imf-wb-meeting-proposes-need-for-concessional-loans-access-for-middle-income-nations-159184/) · `en`
-
-ECONOMYNEXT – Sri Lanka has proposed need for access to lower cost loans for Middle Income countries at the IMF/World Bank Spring Meeting, the island nation’s State Finance Minister Shehan Semasinghe said.
-
-“(I) pointed out pressure on many emerging and frontier market economies, both in terms of maintaining debt sustainability and in terms of financing long term development and sustainability needs,” Semasinghe said after taking part in the meeting late on Thursday in Washington.
-
-“I welcomed the reforms being considered by the IMF in its Lending Into Official Arrears policy which seek to address some of the challenges as constrained global financial environment has made it increasingly difficult for vulnerable middle income countries to raise required low cost. and long term financing for development needs and combating climate change.”
-
-“I proposed the need for enhanced access to concessional financing even for middle income countries which are typically not eligible for such funds.”
-
-...
-
-[Data](articles/067b1e67.json)
-
-[Extended Data](ext_articles/067b1e67.ext.json)
 
 ---

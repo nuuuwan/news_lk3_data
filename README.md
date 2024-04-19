@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 16:03:56**
+As of **2024-04-19 16:18:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,765 (100.0%) of 19,770 articles have been extended.
+19,770 (100.0%) of 19,770 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ On April 8, during a politburo meeting chaired by former President Chandrika Ban
 
 [Data](articles/820873d6.json)
 
+[Extended Data](ext_articles/820873d6.ext.json)
+
 ---
 
-### செறிவூட்டப்பட்ட அரிசி பாடசாலைகளுக்கு வழங்கும் பணி ஆரம்பம்
+### Initial work for concentrated rice schools
 
 *2024-04-19 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181467) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரைக்கமைய பாடசாலை மாணவர்களுக்கு போசாக்குள்ள உணவு வழங்கும் நிகழ்ச்சித் திட்டத்திற்காக உலக உணவுத் திட்டத்தின் மூலம் பாடசாலைகளுக்கு வழங்கப்படும் செறிவூட்டப்பட்ட அரிசி (Fortified Rice) விநியோகம் இன்று வெள்ளிக்கிழமை (19) வெயங்கொட உணவு களஞ்சிய வளாகத்தில் ஆரம்பித்து வைக்கப்பட்டது.
+The World Food Scheme launched fortified rice distribution to schools on 19th, aiming to reduce iron deficiency. 735 metric tonnes of rice will be distributed at the provincial level starting today, under the supervision of the Director General of the Joint Secretariat for the World Food Program. The program, under "Healthy Student Generation", aims to provide breakfast to all primary school students daily, benefiting 1.6 million students this year.
 
-பாடசாலை மாணவர்களிடையே இரும்புச் சத்து குறைபாட்டைக் குறைக்கும் நோக்கில், பாடசாலை உணவுக்கு செறிவூட்டப்பட்ட அரிசி (Fortified Rice)  வழங்கப்படுவதுடன், ஜனாதிபதி செயலகத்தின் கீழுள்ள உலக உணவுத் திட்டத்திற்கான கூட்டுச் செயலகத்தின் பணிப்பாளர் நாயகம் எம்.எச்.ஏ.எம்.ரிப்லானின் மேற்பார்வையில் இந்த விநியோக நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+🟩
 
-இதன்படி, முதற்கட்டமாக மாகாண மட்டத்தில் உள்ள பாடசாலைகளுக்கு 735 மெற்றிக் தொன் அரிசி வழங்கும் நடவடிக்கை இன்று ஆரம்பமானதுடன் நாளையும் (20) இந்தப் பணிகள் தொடரும். சம்பந்தப்பட்ட மாகாண கல்வித் திணைக்கள அதிகாரிகள் மற்றும் பொது சுகாதார பரிசோதகர்களின்  கண்காணிப்பின் கீழ்  பாடசாலைகளுக்கு அரிசி விநியோகிக்கப்படுகிறது.
+The distribution of fortified rice to schools through the World Food Scheme for the Posaka Food Project for School Students was launched on Friday (19) at the Veyangoda Food Repository Complex.
+
+In order to reduce iron deficiency among schoolchildren, the fortified rice is provided for school food and the distribution process is under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat.
+
+Accordingly, for the first time, the provision of 735 metric tonnes of rice to schools at the provincial level will commence today and tomorrow (20) will continue tomorrow (20).. Rice is distributed to schools under the supervision of the concerned Provincial Department of Education and Public Health Inspectors.
 
 ...
 
 [Data](articles/32adc83a.json)
+
+[Extended Data](ext_articles/32adc83a.ext.json)
 
 ---
 
@@ -86,21 +94,29 @@ They believe the family was attacked with a knife or “other edged weapon.”
 
 [Data](articles/becfd667.json)
 
+[Extended Data](ext_articles/becfd667.ext.json)
+
 ---
 
-### ඔටාවා ඝාතකයා ඇප එපා කියයි
+### Ottawa killer tells bail
 
 *2024-04-19 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195785) · `si`
 
-කැනඩාවේ ඔටාවා නගරයේදී ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය කිරීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින ශ්‍රී ලාංකික තරුණයා මේ අවස්ථාවේ ඇප ඉල්ලීමට බලාපොරොත්තු නොවන බව ඔහුගේ නීතිඥයා පවසයි.
+Sri Lankan youth Fibri de Zoysa, accused of killing 6 in Canada, denied bail. Arrested in March, he faces 6 murder charges. Court appearance next week for preliminary investigations.
 
-19 හැවිරිදි ෆෙබ්‍රියෝ ද සොයිසා ව පසුගිය මාර්තු මුලදී අත්අඩංගුවට ගත් අතර ඔහුට එරෙහිව මිනී මැරුම් චෝදනා 6ක් සහ මිනි මැරීමට තැත් කිරීමේ එක් චෝදනාවක් එල්ල කර තිබේ.
+🟩
 
-අධ්‍යාපන කටයුතු සඳහා කැනඩාවට ගොස් සිටි ඔහු ලබන සතියේදී අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය. එහිදී ඔහුට එරෙහි නඩුවේ මූලික විමර්ශන සඳහා දින වෙන් කිරීමට සැලසුම් කර තිබේ.
+His lawyer says that the Sri Lankan youth who are accused of killing 6 Sri Lankans in Canada is not expected to be bail.
+
+The 19-year-old Fibri de Zoysa was arrested last March and has been charged with 6 murder accusations against him.
+
+He was to be produced before courts next week for education purposes. It is planned to allocate the days for preliminary investigations in the case.
 
 ◼️
 
 [Data](articles/02447252.json)
+
+[Extended Data](ext_articles/02447252.ext.json)
 
 ---
 
@@ -126,21 +142,29 @@ Police have seized the rescued turtles and have taken steps to bring the suspect
 
 ---
 
-### පාස්කු ප්‍රහාරය ගැන දන්න තොරතුරු දුන්නා -සිරිල් ගාමිණී පියතුමා
+### Fr. Siran Gamini gave it information about the Passover attack
 
 *2024-04-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195784) · `si`
 
-"ඥානාර්ත ප්‍රදීපය" කතෝලික පුවත්පතේ ප්‍රධාන කර්තෘ සිරිල් ගාමිණී පියතුමන්ගෙන් පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පැය 4ක ප්‍රකාශයක් ලබාගෙන තිබේ.
+Fr. Siran Gamini provided a four-hour statement to the Criminal Investigation Department about the Passover attack. He was invited to join the end of the attack by the next judge and called for justice for Catholics, aiming to change the culture that hides crimes.
 
-එම ප්‍රකාශය ලබාදීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් පළ කරමින් සිරිල් ගාමිණී පියතුමන් සඳහන් කර සිටියේ, පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධ්‍යයනය කර සොයාගත් තොරතුරු රැසක් මුලාශ්‍ර සහිතව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඉදිරිපත් කළ බවය.
+🟩
 
-මේ අතර පසුගිය දිනක ජනාධිපතිවරයා වෙත පිටු 12 කින් සමන්විතව යොමු කළ ලිපිය ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඉදිරිපත් කළ පැවසු සිරිල් ගාමිණී පියතුමන් සඳහන් කර සිටියේ, අද දින භාරදුන් කරුණු පිළිබඳව පමණක් ගැඹුරින් අවධානය යොමුකිරීම තුළින් පමණක් වුවත් පාස්කු කුමන්ත්‍රණය ගැන සොයාගත හැකි බවය.
+The Criminal Investigation Department has obtained a four-hour statement regarding the Passover of the Cyril Gamini of the Catholic newspaper.
 
-එළැඹෙන ඉරුදින වෙන විට පාස්කු ප්‍රහාරය එල්ල වී වසර 5ක් සපිරෙන බව ද සඳහන් කළ එතුමා ඒ වෙනුවෙන් පාගමනක් ද සංවිධානය කර ඇති බවත් සියලු ජනතාවට ඒ සමග එක්වෙන ලෙස ද ආරාධනා කළේය.
+After providing the statement, Fr. "
 
-...
+Meanwhile, Fr.
+
+He said that he had a march and was also invited to join the end of the Passover attack by the next Srudge.
+
+"We demand that this voice is to join everyone Catholic and Catholics. We want to do justice to Catholics. We want to change this culture. That means change the culture that can hide a crime. It's a national work. Join it. "
+
+◼️
 
 [Data](articles/eac56e59.json)
+
+[Extended Data](ext_articles/eac56e59.ext.json)
 
 ---
 

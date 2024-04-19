@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 15:52:44**
+As of **2024-04-19 16:03:56**
 
 ## Newspaper Stats
 
-*Scraped **19,765** Articles*
+*Scraped **19,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ dailyftlk | 1,085
 economynextcom | 1,131
 adalk | 1,647
 tamilmirrorlk | 2,289
-adaderanalk | 2,366
-virakesarilk | 2,964
-dailymirrorlk | 3,060
-adaderanasinhalalk | 3,207
+adaderanalk | 2,367
+virakesarilk | 2,965
+dailymirrorlk | 3,061
+adaderanasinhalalk | 3,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,765 (100.0%) of 19,765 articles have been extended.
+19,765 (100.0%) of 19,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
+
+### Election Commission to accept SLFP nominations despite disputes
+
+*2024-04-19 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-to-accept-SLFP-nominations-despite-disputes/108-281000) · `en`
+
+Colombo, April 19 - Notwithstanding the internal friction within the Sri Lanka Freedom Party (SLFP) resulting in changes in party's leadership positions, the Election Commission clarified its role in accepting nominations for SLFP candidates in the event that internal conflicts persist beyond the declaration of elections.
+
+However, the Commission asserted that it has no legal authority to mediate in the internal conflicts within the SLFP.
+
+This was taken into account when the Commission members met yesterday (18) to scrutinize documents submitted by certain members of the SLFP pertaining to recent shifts in party leadership positions.
+
+On April 8, during a politburo meeting chaired by former President Chandrika Bandaranaike Kumaratunga, incumbent Vice Chairman MP Nimal Siripala de Silva was appointed Acting President, while MP Duminda Dissanayake was named General Secretary.
+
+...
+
+[Data](articles/820873d6.json)
+
+---
+
+### செறிவூட்டப்பட்ட அரிசி பாடசாலைகளுக்கு வழங்கும் பணி ஆரம்பம்
+
+*2024-04-19 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181467) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரைக்கமைய பாடசாலை மாணவர்களுக்கு போசாக்குள்ள உணவு வழங்கும் நிகழ்ச்சித் திட்டத்திற்காக உலக உணவுத் திட்டத்தின் மூலம் பாடசாலைகளுக்கு வழங்கப்படும் செறிவூட்டப்பட்ட அரிசி (Fortified Rice) விநியோகம் இன்று வெள்ளிக்கிழமை (19) வெயங்கொட உணவு களஞ்சிய வளாகத்தில் ஆரம்பித்து வைக்கப்பட்டது.
+
+பாடசாலை மாணவர்களிடையே இரும்புச் சத்து குறைபாட்டைக் குறைக்கும் நோக்கில், பாடசாலை உணவுக்கு செறிவூட்டப்பட்ட அரிசி (Fortified Rice)  வழங்கப்படுவதுடன், ஜனாதிபதி செயலகத்தின் கீழுள்ள உலக உணவுத் திட்டத்திற்கான கூட்டுச் செயலகத்தின் பணிப்பாளர் நாயகம் எம்.எச்.ஏ.எம்.ரிப்லானின் மேற்பார்வையில் இந்த விநியோக நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+
+இதன்படி, முதற்கட்டமாக மாகாண மட்டத்தில் உள்ள பாடசாலைகளுக்கு 735 மெற்றிக் தொன் அரிசி வழங்கும் நடவடிக்கை இன்று ஆரம்பமானதுடன் நாளையும் (20) இந்தப் பணிகள் தொடரும். சம்பந்தப்பட்ட மாகாண கல்வித் திணைக்கள அதிகாரிகள் மற்றும் பொது சுகாதார பரிசோதகர்களின்  கண்காணிப்பின் கீழ்  பாடசாலைகளுக்கு அரிசி விநியோகிக்கப்படுகிறது.
+
+...
+
+[Data](articles/32adc83a.json)
+
+---
+
+### Ottawa mass killing suspect not seeking bail
+
+*2024-04-19 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98724/ottawa-mass-killing-suspect-not-seeking-bail) · `en`
+
+The 19-year-old Sri Lankan national charged in the mass killing of a newcomer family in Ottawa has no plan to seek bail, his lawyer says.
+
+Febrio De-Zoysa was arrested and charged in early March with six counts of first-degree murder and one count of attempted murder, after police found the family dead in a townhouse in the suburb of Barrhaven.
+
+He remains in custody, and his lawyer Ewan Lyttle told The Canadian Press “there is presently no plan to apply for bail.”
+
+De-Zoysa, who was studying in Canada as an international student, is set to return to court next week where lawyers expect to set dates for a preliminary inquiry in his case.
+
+Investigators allege the young man is responsible for the deaths of 35-year-old Darshani Ekanayake and her four children, who were between the ages of two months and seven years old, as well as a family friend.
+
+They believe the family was attacked with a knife or “other edged weapon.”
+
+...
+
+[Data](articles/becfd667.json)
+
+---
+
+### ඔටාවා ඝාතකයා ඇප එපා කියයි
+
+*2024-04-19 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195785) · `si`
+
+කැනඩාවේ ඔටාවා නගරයේදී ශ්‍රී ලාංකිකයින් 6 දෙනෙක් ඝාතනය කිරීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින ශ්‍රී ලාංකික තරුණයා මේ අවස්ථාවේ ඇප ඉල්ලීමට බලාපොරොත්තු නොවන බව ඔහුගේ නීතිඥයා පවසයි.
+
+19 හැවිරිදි ෆෙබ්‍රියෝ ද සොයිසා ව පසුගිය මාර්තු මුලදී අත්අඩංගුවට ගත් අතර ඔහුට එරෙහිව මිනී මැරුම් චෝදනා 6ක් සහ මිනි මැරීමට තැත් කිරීමේ එක් චෝදනාවක් එල්ල කර තිබේ.
+
+අධ්‍යාපන කටයුතු සඳහා කැනඩාවට ගොස් සිටි ඔහු ලබන සතියේදී අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය. එහිදී ඔහුට එරෙහි නඩුවේ මූලික විමර්ශන සඳහා දින වෙන් කිරීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/02447252.json)
+
+---
 
 ### Two persons arrested by Kattankudy police for kidnapping 17 turtles
 
@@ -51,6 +123,24 @@ Police have seized the rescued turtles and have taken steps to bring the suspect
 [Data](articles/2488e131.json)
 
 [Extended Data](ext_articles/2488e131.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාරය ගැන දන්න තොරතුරු දුන්නා -සිරිල් ගාමිණී පියතුමා
+
+*2024-04-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195784) · `si`
+
+"ඥානාර්ත ප්‍රදීපය" කතෝලික පුවත්පතේ ප්‍රධාන කර්තෘ සිරිල් ගාමිණී පියතුමන්ගෙන් පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් පැය 4ක ප්‍රකාශයක් ලබාගෙන තිබේ.
+
+එම ප්‍රකාශය ලබාදීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් පළ කරමින් සිරිල් ගාමිණී පියතුමන් සඳහන් කර සිටියේ, පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අධ්‍යයනය කර සොයාගත් තොරතුරු රැසක් මුලාශ්‍ර සහිතව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඉදිරිපත් කළ බවය.
+
+මේ අතර පසුගිය දිනක ජනාධිපතිවරයා වෙත පිටු 12 කින් සමන්විතව යොමු කළ ලිපිය ද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඉදිරිපත් කළ පැවසු සිරිල් ගාමිණී පියතුමන් සඳහන් කර සිටියේ, අද දින භාරදුන් කරුණු පිළිබඳව පමණක් ගැඹුරින් අවධානය යොමුකිරීම තුළින් පමණක් වුවත් පාස්කු කුමන්ත්‍රණය ගැන සොයාගත හැකි බවය.
+
+එළැඹෙන ඉරුදින වෙන විට පාස්කු ප්‍රහාරය එල්ල වී වසර 5ක් සපිරෙන බව ද සඳහන් කළ එතුමා ඒ වෙනුවෙන් පාගමනක් ද සංවිධානය කර ඇති බවත් සියලු ජනතාවට ඒ සමග එක්වෙන ලෙස ද ආරාධනා කළේය.
+
+...
+
+[Data](articles/eac56e59.json)
 
 ---
 
@@ -2115,91 +2205,5 @@ He noted that this has caused a delay in the disbursement of the second tranche 
 [Data](articles/89830417.json)
 
 [Extended Data](ext_articles/89830417.ext.json)
-
----
-
-### SJB suggests alternative plan for public debate with NPP
-
-*2024-04-19 05:10:41* · [`dailyftlk`](https://www.ft.lk/news/SJB-suggests-alternative-plan-for-public-debate-with-NPP/56-760780) · `en`
-
-SJB and NPP continue to exchange rhetorical challenges over public debate
-
-SJB MP S. M. Marikkar proposes a debate between party Economic Councils led by party leaders
-
-NPP’s Nalinda Jayatissa says NPP wants leaders’ debate, open to Economic Councils debate if necessary
-
-Samagi Jana Balawegaya (SJB) MP S. M. Marikkar proposed yet another alternative plan for a public debate between the SJB and the National People’s Power (NPP) party yesterday by suggesting the parties hold a debate between the economic councils of both parties, led by their respective party leaders Sajith Premadasa and Anura Kumara Dissanayake.
-
-Politicians from the SJB and NPP have continued to exchange rhetorical challenges regarding a public debate with no concrete plan to hold one being announced
-
-...
-
-[Data](articles/895121ed.json)
-
-[Extended Data](ext_articles/895121ed.ext.json)
-
----
-
-### Govt. with IOM support ensures safe return of 8 Lankan migrants trafficked to cyber scamming in Myanmar
-
-*2024-04-19 05:10:04* · [`dailyftlk`](https://www.ft.lk/news/Govt-with-IOM-support-ensures-safe-return-of-8-Lankan-migrants-trafficked-to-cyber-scamming-in-Myanmar/56-760779) · `en`
-
-The Ministry of Foreign Affairs and the International Organisation for Migration (IOM) – the UN Migration entity, on 18 April, facilitated the voluntary return of eight Sri Lankan migrants who were trafficked for forced criminal activities in the cyber scamming compounds in Myanmar.
-
-The Sri Lankan migrants have been forced into various cyber scamming activities in Myawaddy area of Myanmar, under the pretext of legitimate job offers in the IT and other customer service job fields. Upon their rescue from Myawaddy, Myanmar, the Sri Lankan embassy in Thailand facilitated their movement to Bangkok, Thailand with the support of the IOM.
-
-...
-
-[Data](articles/53c58c32.json)
-
-[Extended Data](ext_articles/53c58c32.ext.json)
-
----
-
-### Objections raised against first OSA case
-
-*2024-04-19 05:08:56* · [`dailyftlk`](https://www.ft.lk/news/Objections-raised-against-first-OSA-case/56-760778) · `en`
-
-The counsels appearing for the former personal assistant to former chairman of the Public Utilities Commission Janaka Ratnayake, Gayathri Bimba and others yesterday objected to the conditional injunction issued by the Colombo Magistrates court under the Online Safety Act to prevent the publication of Ratnayake”s personal information on social media platforms.
-
-Ratnayake, who is also a Presidential hopeful through his counsels had filed the case under the latest Online Safety Act, after Bimba levelled various accusations against him in an interview to a Youtube channel. This is the first case to be filed under the controversial law.
-
-The counsels for Bimba argued that the court lacks the authority to issue a conditional injunction under the Online Safety Act. The court had issued the conditional order in favour of the petitioner Ratnayake on 4 April under Section 24 (1) and Section 24 (2) of the Online Safety Act No. 09 of 2024.
-
-...
-
-[Data](articles/a89eecce.json)
-
-[Extended Data](ext_articles/a89eecce.ext.json)
-
----
-
-### ‘NatCon 2024: Shaping tomorrow’s leaders’ conference gears up to inspire Sri Lanka youth
-
-*2024-04-19 05:00:43* · [`dailyftlk`](https://www.ft.lk/business/NatCon-2024-Shaping-tomorrow-s-leaders-conference-gears-up-to-inspire-Sri-Lanka-youth/34-760774) · `en`
-
-NatCon 2024, the most awaited youth leadership conference will take place from 19 to 21 April 2024, at the Hotel Sudu Araliya Polonnaruwa. This isn’t just any conference; it’s the cornerstone event for AIESEC in Sri Lanka, charting the course for leadership and growth in the year ahead.
-
-With a special emphasis on diversity, leadership, and skill-building, NatCon 2024 will bring together over 400 students from over 20 universities across Sri Lanka. And the event is open to all AIESECers, offering an unparalleled opportunity to refine ethical leadership, foster collaboration, and create positive change. Mark and Comm is its communications and PR partner.
-
-...
-
-[Data](articles/cb3ffe8a.json)
-
-[Extended Data](ext_articles/cb3ffe8a.ext.json)
-
----
-
-### New Unilever SL Chairman visits BOI
-
-*2024-04-19 04:59:19* · [`dailyftlk`](https://www.ft.lk/business/New-Unilever-SL-Chairman-visits-BOI/34-760773) · `en`
-
-Unilever Sri Lanka’s new Chairman and CEO Ali Tariq recently met with the Board of Investment Chairman Dinesh Weerakkody and BOI and Port City officials to discuss the current investment climate and opportunities. They also discussed Unilever Sri Lanka’s ongoing operations in Sri Lanka. Unilever Sri Lanka Head of Regulatory and External Affairs Harini Rajadasa also participated.
-
-◼️
-
-[Data](articles/bf61df7e.json)
-
-[Extended Data](ext_articles/bf61df7e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-19 20:18:25**
+As of **2024-04-19 20:33:59**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 3,214
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,797 (100.0%) of 19,798 articles have been extended.
+19,798 (100.0%) of 19,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-19 (Friday)
 
-### ආදරණීයයන්ගේ සෝ සුසුම් මැද  නිසල නිවහනට ගිය දඩබ්බරයා
+### Dudge that the loved ones went to the home of the soothing of the loved ones
 
 *2024-04-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195791) · `si`
 
-මිනිසත්කමේ සුවඳ හඳුනාගත් පස්දුන්කෝරලේ හිත හොඳ දඩබ්බරයා, අභාවප්‍රාප්ත හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (20) පස්වරුවේ සිදුකෙරුණි.
+The funeral of former Deputy Minister Palitha Thevarapperuma, known for his humanistic qualities, was held today. It began at his home in Matugama, followed by a procession to the cemetery. Prominent figures like President Ranil Wickremesinghe and former President Maithripala Sirisena attended. The event was marked by a large turnout, highlighting Thevarapperuma's significant political and humanist legacy.
 
-මහා ජන ගඟක සෝ සුසම් මැද ඔහුගේ අවසන් කටයුතු සිදුකෙරුණේ ඔහු ජීවත්ව සිටියදී ඔහු විසින්ම තනාගනු ලැබූ සුසාන භූමියේදීය.
+🟩
 
-හිටපු නියෝජ්‍ය අමාත්‍ය පාලිත තෙවරප්පෙරුම මහතා සිය පෞද්ගලික ඉඩමකදී විදුලිසැර වැදීමකින් ජීවිතක්ෂයට පත්වුණේ පසුගිය 16 වැනිදා පස්වරුවේය.
+The funeral of the late Dissanaddha, Palitha Thewarapperuma, who recognized humans recognized humans, was held this afternoon.
 
-ඒ මහතාගේ දේහය රැස්ව සිටි පිරිසගේ සෝ සුසුම් මධ්‍යයේ පෙරේදා රාත්‍රියේ මතුගම යටදොළවත්තේ පිහිටි නිවසට රැගෙන ආවේය.
+His funeral took place in the middle of the Susum of the Great Great, while he was still alive at the cemetery.
 
-ඒ මොහොතේ සිට ඊයේ රාත්‍රියේත්, අද දවස දවස පුරා තෙවරප්පෙරුම මහතාගේ දේහයට අවසන් ගෞරව දැක්වීමට දේශපාලනඥයින් හා ප්‍රදේශවාසීන් ඇතුළු බොහෝ පිරිසක් පැමිණියහ.
+Former Deputy Minister Palitha Thevarapperuma hit the electricity in his private land on the 16th.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ද අද පෙරවරුවේ පැමිණ සිය පක්ෂයට මෙන්ම මෙරට ජනතාව වෙනුවෙන් ඉමහත් සේවාවක් ඉටුකළ පාලිත තෙවරප්පෙරුම මහතාගේ දේහයට අවසන් බුහුමන් දැක්විය.
+His remains were brought to the house of Matugama, Matugama on the night of the night.
 
-ඒ මහතාගේ දේහයට අවසන් ගෞරව දැක්වීමට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාද පැමිණියේය.
+From that moment last night, many of the people and the residents of politicians and the residents came to this day last night.
+
+President Ranil Wickremesinghe was also finalized to the bodies of Palitha Thewarapperuma who had come to his party and the people of Sri Lanka.
+
+Former President Maithripala Sirisena was also present at the last respects of his body.
+
+Opposition Leader Sajith Premadasa also paid the final honor to thewarapperuma's body this morning.
+
+Residents of the area are still unbearable to the people of the area.
 
 ...
 
 [Data](articles/9768bfd8.json)
+
+[Extended Data](ext_articles/9768bfd8.ext.json)
 
 ---
 

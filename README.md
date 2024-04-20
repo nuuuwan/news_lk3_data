@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 16:49:13**
+As of **2024-04-20 17:03:23**
 
 ## Newspaper Stats
 
-*Scraped **19,918** Articles*
+*Scraped **19,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,388
 virakesarilk | 2,979
 dailymirrorlk | 3,104
-adaderanasinhalalk | 3,234
+adaderanasinhalalk | 3,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,916 (100.0%) of 19,918 articles have been extended.
+19,918 (100.0%) of 19,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ට ප්‍රශ්නයක් නැහැ - තානාපති
+
+*2024-04-20 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195813) · `si`
+
+ඊශ්‍රායලයේ රැඳී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් නිරන්තර විමසිල්ලෙන් පසුවන බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+
+පවතින තත්ත්වය මත ගැටලුකාරී පසුබිමක පසුවන අයෙක් ඇත්නම් තානාපති කාර්යාලය හා සම්බන්ධ වන ලෙස තානාපතිවරයා දැනුම්දෙයි.
+
+මැදපෙරදිග කලාපයේ පවතින නොසන්සුන්කාරී තත්ත්වය පිළිබඳව විවිධ පාර්ශ්වවලින් විමසීම් ලැබුණ ද ඊශ්‍රායලය තුළ ජන ජීවිතය සාමාන්‍ය පරිදි ක්‍රියාත්මක වන බව ශ්‍රී ලංකා තානාපතිවරයා පැවසීය.
+
+ශ්‍රී ලාංකිකයින් 11,500ක පම‍ණ පිරිසක් ඊශ්‍රායලයේ සේවය කරන අතර ඉන් සියයට 70ක් පමණ නිවෙස්වල සේවය කරන බව සඳහන් ය.
+
+සියයට 15ක් පමණ කෘෂිකර්ම, වැඩබිම්වලත් සෙසු පිරිස ඉදිකිරීම් හා වෙනත් අංශවලත් සේවයේ නිරතව සිටින බව තානාපති කාර්යාලය සඳහන් කරයි.
+
+ගාසා තීරය ආසන්නයේ ජීවත්වූ බොහෝ පවුල් ඉන් ඉවත්කර තාවකාලිකව හෝටල්වල නවාතැන් සපයා ඇති බව පෙන්වාදෙන ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා ගාසා තීරයෙන් එල්ලවන බොහෝ ප්‍රහාර මේ වනවිට නතරවී ඇති බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/c543023c.json)
+
+---
 
 ### Man hacked to death in Valaichchenai over mobile phone dispute
 
@@ -48,25 +70,33 @@ The suspect who committed the crime has been arrested and the Valaichchenai Poli
 
 [Data](articles/a4b4227c.json)
 
+[Extended Data](ext_articles/a4b4227c.ext.json)
+
 ---
 
-### ලොකු ලූනු ගෙන්වීම සතොස හරහා
+### The importation of big onions through Sathosa
 
 *2024-04-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195812) · `si`
 
-ඉන්දියාවෙන් ලොකු ලූනු ආනයනය ලංකා සතොස හරහා සිදුකිරීමට තීරණය කර තිබේ.
+India exports big onions to Sri Lanka via Lanka Sathosa. The Sri Lankan delegation was sent to India for this purpose. The Department of Trade and Consumer Affairs decided to import these onions. The first shipment is 2,000 metric tons, but the monthly requirement is 20,000 metric tons.
 
-ලොකු ලූනු අපනයනය තහනම ශ්‍රී ලංකාව සඳහා ඉවත් කිරීමට තීරණය කළ ඉන්දීය රජය ශ්‍රී ලංකාවට ලොකු ලූනු මෙට්‍රික්ටොන් දසදහසක තොගයක් අපනයනය කිරීමට පසුගියදා තීරණය කළේය.
+🟩
 
-එම ලූනු තොගය ගෙන්වනු ලබන්නේ පෞද්ගලික අංශයෙන් ද නැතහොත් රාජ්‍ය අංශයෙන් ද යන්න සම්බන්ධයෙන් වෙළෙඳ හා පාරිභෝගික කටයුතු අමාත්‍යංශය සාකච්ඡා කළ අතර එහිදී තීරණය වී ඇත්තේ ලංකා සතොස හරහා ඉන්දියාවෙන් ලොකු ලූනු ආනයනය කර අලෙවි කිරීමටය.
+The import of big onions from India has been made through Lanka Sathosa.
 
-ඒ අනුව පළමු තොගය ලෙස ලූනු මෙට්‍රික්ටොන් 2000ක් ඉදිරි සති දෙක තුළ ගෙන්වීමට නියමිත බව සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා අද දෙරණට සඳහන් කළේය.
+The Indian government decided to export the Sri Lankan delegation to Sri Lanka for Sri Lanka's removal for Sri Lanka.
 
-කෙසේවෙතත් මෙරට මාසික ලොකු ලූනු අවශ්‍යතාව මෙට්‍රික්ටොන් 20,000ක් පමණ වන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවසීය.
+The Department of Trade and Consumer Affairs discussed the stock from the private sector or the public sector, which was decided to import big onions from India through Lanka Sathosa.
+
+According to the Suda Yapa Abeywa, Pasanda, said that 2,000 metric metrics of onions were to be imported as the first consignment.
+
+However, Trade Minister Nalin Fernando said that the monthly big onion requirement of the country is about 20,000 metrics.
 
 ◼️
 
 [Data](articles/d39c6d31.json)
+
+[Extended Data](ext_articles/d39c6d31.ext.json)
 
 ---
 
@@ -2109,23 +2139,5 @@ Minister Kanchana Wijesekara responded today.
 [Data](articles/1a637b75.json)
 
 [Extended Data](ext_articles/1a637b75.ext.json)
-
----
-
-### Volkswagen Club celebrates 21st ’Pride of Ownership’ drive
-
-*2024-04-19 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Volkswagen-Club-celebrates-21st-Pride-of-Ownership-drive/108-281014) · `en`
-
-Colombo, April 19 (Daily Mirror) - The Volkswagen (VW) Beetle Owners’ Club has arranged to hold the annual 'Pride of Ownership' drive after a break of five years, on April 28.
-
-It is with great pleasure that the club notes the traditional partners of the 'Pride of Ownership' drive who have come together, namely the Hilton Colombo and the Browns Hotel Management Services, along with the LOLC Group of Companies, who have so graciously supported the event to bring back the past glory of “Pride” and the traditional “Start” from The Hilton Colombo.
-
-Members and their guests will be welcome to the Sports Centre of the Hilton to be greeted with the usual fanfare, and the drive will proceed along Galle Road to the luxurious Thaala Resort situated in Bentota.
-
-...
-
-[Data](articles/b804e72a.json)
-
-[Extended Data](ext_articles/b804e72a.ext.json)
 
 ---

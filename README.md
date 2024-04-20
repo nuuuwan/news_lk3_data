@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 11:34:10**
+As of **2024-04-20 11:53:04**
 
 ## Newspaper Stats
 
-*Scraped **19,882** Articles*
+*Scraped **19,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,977
-dailymirrorlk | 3,091
+dailymirrorlk | 3,094
 adaderanasinhalalk | 3,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,881 (100.0%) of 19,882 articles have been extended.
+19,882 (100.0%) of 19,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Defence Ministry’s amnesty excludes officers skipping duty
+
+*2024-04-20 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Ministrys-amnesty-excludes-officers-skipping-duty/108-281054) · `en`
+
+Colombo, April 20 (Daily Mirror) - The one-month general amnesty period announced by the Defence Ministry today will not be applicable to commissioned officers who do not report for duty without leave.
+
+Accordingly, the general amnesty will be in force till May 20 for members of the armed forces who do not report for duty without leave.
+
+Moreover, the amnesty period is valid only for other ranks of the armed forces who have not reported for duty without leave on or before December 31, 2023.
+
+Those who report during the general amnesty period will be legally dismissed.
+
+◼️
+
+[Data](articles/4b2de1e6.json)
+
+---
+
+### Tunde Onakoya: Nigerian breaks chess marathon record
+
+*2024-04-20 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tunde-Onakoya-Nigerian-breaks-chess-marathon-record/108-281063) · `en`
+
+(BBC) - Under the beaming lights of New York's iconic Times Square, Nigerian chess master Tunde Onakoya has broken the record for the longest chess marathon.
+
+After playing for 58 consecutive hours he was still at the board.
+
+Onakoya hopes to raise $1m (£805,000) for charity to support chess education for millions of children.
+
+Hundreds of supporters from the city's Nigerian community have shown up to cheer on the chess master, including Nigerian Afrobeats star Davido.
+
+They provided music and energised him with supplies of classic Nigerian dishes, including the beloved national staple, jollof rice.
+
+Back home in Nigeria, people threw their support behind Onakoya as they watched him conquer the record on Twitch, a video-streaming service.
+
+Supporters left messages on the stream commending Onakoya as an inspiration.
+
+...
+
+[Data](articles/5c1be563.json)
+
+---
 
 ### Man sets himself on fire outside Trump’s Manhattan hush money trial
 
@@ -49,6 +91,20 @@ In a news conference, investigators said they had received a 911 emergency call 
 ...
 
 [Data](articles/b9d289fd.json)
+
+[Extended Data](ext_articles/b9d289fd.ext.json)
+
+---
+
+### Cultural dance event from Kataragam Dewalaya
+
+*2024-04-20 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Cultural-dance-event-from-Kataragam-Dewalaya/110-281061) · `en`
+
+The Ruhunu Maha Kataragam Dewalaya began a cultural dance event "The Rythms of Sri Lanka" for locals and tourists which will be held during every weekend. This event will help provide funds for the Apeksha Cancer Hospital in Maharagama. The event was held at the main entrance of the Dewalaya. Pix Nisal Baduge
+
+◼️
+
+[Data](articles/629a05d7.json)
 
 ---
 
@@ -2055,75 +2111,5 @@ He also reflected on the challenges Sri Lanka faced in 2022, calling it “the m
 [Data](articles/f922e5cf.json)
 
 [Extended Data](ext_articles/f922e5cf.ext.json)
-
----
-
-### In some areas, a 12 -hour water cut
-
-*2024-04-19 16:35:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-12-மணித்தியால-நீர்-வெட்டு/175-336093) · `ta`
-
-Gampaha water supply disrupted 8.30 am Wednesday due to emergency corrections in Sapukaskanda. Biyagama Water Purification Division affected. Areas under Peliyagoda, Ja-Ela, Katunayake, Seeduwa, Kelaniya, Wattala, Piyagama, Mahara, Thompa, Katana, Minuwangoda, and Gampaha Municipal Council impacted.
-
-🟩
-
-The National Water Supply and Drainage Board said the supply of water would be disrupted at 8.30 am in Gampaha on Wednesday (24) due to emergency correction in the Sapukaskanda Electricity constituency.
-
-The council said the water supply to the Biyagama Water Purification Division would be suspended due to emergency revisions.
-
-This will prevent water supply in the areas under the Peliyagoda, Ja-Ela, Katunayake, Seeduwa Municipal Council areas, Kelaniya, Wattala, Piyagama, Mahara, Thompa, Katana, Minuwangoda and Gampaha Municipal Council.
-
-◼️
-
-[Data](articles/e652e3bd.json)
-
-[Extended Data](ext_articles/e652e3bd.ext.json)
-
----
-
-### The police escaped when the police escaped in cubes
-
-*2024-04-19 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195786) · `si`
-
-In Kottawa, a police officer drowned while playing cubes. The deceased, a 42-year-old from Homagama, was found in a water-filled area. Two others were rescued, but three others are missing. The body was retrieved with the help of a pselaw. The Homagama Police are investigating.
-
-🟩
-
-Police have collapsed to a place where a group was playing the cubes yesterday (18) in Kottawa yesterday.
-
-The Homagama Police have fallen into a water-filled person with a person who was ruthled at the time.
-
-The deceased is a 42-year-old resident of the Homagama Lady Limited Mawathagama.
-
-Two others ran with the deceased with the death of the police, with the death of the police, and three more were in line with water.
-
-One of them has been swimming out of the gardens, but one person had not returned home, police said.
-
-The remains of the deceased have been taken into custody in the removal of a pselaw of water with the help of a pselaw in the area.
-
-The Body of Criminal Investigations have taken steps to hand over the preliminary inquiries after the criminal investigations of the Nugegoda Police.
-
-◼️
-
-[Data](articles/77770937.json)
-
-[Extended Data](ext_articles/77770937.ext.json)
-
----
-
-### The elderly who made a wrong decision in Nuwara Eliya
-
-*2024-04-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181469) · `ta`
-
-An elderly man in Nuwara Eliya's Ollya Police Division made a wrong decision, leading to his death.
-
-🟩
-
-An elderly man in the Ollya Police Division of the Nuwara Eliya Police Division has made a wrong decision and died.
-
-◼️
-
-[Data](articles/7ebd0765.json)
-
-[Extended Data](ext_articles/7ebd0765.ext.json)
 
 ---

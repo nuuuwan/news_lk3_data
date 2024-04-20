@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 10:51:19**
+As of **2024-04-20 11:03:37**
 
 ## Newspaper Stats
 
-*Scraped **19,875** Articles*
+*Scraped **19,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,380
 virakesarilk | 2,977
-dailymirrorlk | 3,088
+dailymirrorlk | 3,091
 adaderanasinhalalk | 3,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,869 (100.0%) of 19,875 articles have been extended.
+19,875 (100.0%) of 19,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Foreign Affairs Ministry to open Sri Lanka High Commission in Wellington
+
+*2024-04-20 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-Affairs-Ministry-to-open-Sri-Lanka-High-Commission-in-Wellington/108-281058) · `en`
+
+Colombo, April 20 (Daily Mirror) - The Foreign Affairs Ministry has decided to open a Sri Lanka High Commission in Wellington, New Zealand.
+
+Currently, Sri Lanka has a Consulate in Wellington and the establishment of this High Commissioner's office will be based on a decision taken by the Cabinet on a proposal presented by Foreign Affairs Minister Ali Sabri, during the first Cabinet meeting for 2024.
+
+The Foreign Affairs Ministry announced that a delegation led by the Director General of the Foreign Assets Management and Development Division will visit New Zealand on April 22 to examine the issue.
+
+Among the primary objectives of this is to develop cooperation between the two countries in the fields of trade, education, sports, science and technology, tourism and health.
+
+◼️
+
+[Data](articles/e1c8f9cd.json)
+
+---
+
+### Mother gives birth on boat en route to hospital
+
+*2024-04-20 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mother-gives-birth-on-boat-en-route-to-hospital/108-281057) · `en`
+
+Jaffna, April 20 (Daily Mirror)- An expectant mother who developed labour pains on her way to hospital by boat had delivered the child onboard the ferry near Nagadeepa.
+
+She had been first admitted to the Nagadeepa Base Hospital and on the advice of doctors had been transferred to the Jaffna Teaching Hospital by ferry.
+
+The female passengers had sent all the men onto the upper deck and helped her to deliver the child.
+
+She, with the child was ferried to Kurikadduwan jetty and transported from there to the Jaffna Teaching Hospital.
+
+Doctors said the mother and the infant were getting on well.
+
+◼️
+
+[Data](articles/77784fb1.json)
+
+---
+
+### Prince Harry, now calls himself a U.S. resident
+
+*2024-04-20 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prince-Harry-now-calls-himself-a-U-S-resident/108-281055) · `en`
+
+London, April 20 (Washington Post) - It’s official: Prince Harry, the fifth in line to the British throne, considers himself a U.S. resident.
+
+Documents filed on Wednesday at Companies House, a registry of British company information, show that Harry, using his full name of Prince Henry Charles Albert David Duke of Sussex, has listed the United States as his “New Country/State Usually Resident,” changing his primary residence from the United Kingdom.
+
+The Duke and Duchess of Sussex have not lived in the United Kingdom for years, having decamped to California in 2020 after stepping back from royal duties. They live in Montecito with their two children, Prince Archie and Princess Lilibet.
+
+...
+
+[Data](articles/824d98da.json)
+
+---
 
 ### Gazette declares electricity, fuel services as essential
 
@@ -43,6 +97,8 @@ The notification issued by Secretary to the President Saman Ekanayake.
 ◼️
 
 [Data](articles/d0cc24e4.json)
+
+[Extended Data](ext_articles/d0cc24e4.ext.json)
 
 ---
 
@@ -59,6 +115,8 @@ Their study, published this week in the scientific journal Mitochondrion, has re
 ...
 
 [Data](articles/9fd24193.json)
+
+[Extended Data](ext_articles/9fd24193.ext.json)
 
 ---
 
@@ -112,6 +170,8 @@ Bella has been described by her zookeepers as honest, prudent, curious, intellig
 
 [Data](articles/ace9331d.json)
 
+[Extended Data](ext_articles/ace9331d.ext.json)
+
 ---
 
 ### National woman arrested with drug
@@ -147,6 +207,8 @@ But they’re more than just charismatic cats and fearsome hunters – as the ph
 ◼️
 
 [Data](articles/5ae28d25.json)
+
+[Extended Data](ext_articles/5ae28d25.ext.json)
 
 ---
 
@@ -244,6 +306,8 @@ The bondholders held talks with various political leaders including from the opp
 
 [Data](articles/f652b44a.json)
 
+[Extended Data](ext_articles/f652b44a.ext.json)
+
 ---
 
 ### Bondholders fear regime change impact
@@ -286,19 +350,25 @@ A large number of Sri Lankan professionals and students will continue to facilit
 
 ---
 
-### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම ගැන අමාත්‍යාංශයෙන් නිවේදනයක්
+### Ministry of Recruitment to Teacher Service
 
 *2024-04-20 08:27:45* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-බඳවාගැනීම-ගැන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-409165) · `si`
 
-සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සඳහා 2023 මාර්තු මස 25 වෙනි දින තරග විභාගයක් පැවැත්වීමට අධ්‍යාපන අමාත්‍යාංශය සියලු‍ කටයුතු සූදානම් කර තිබියදී සංවර්ධන නිලධාරීන් පිරිසක් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් හතරක් ගොනු කරනු ලැබී ය.
+The Ministry of Education has filed petitions for a competitive exam on March 25, 2023, to recruit Development Officers for the Teacher Service. The event was initially set for March 23, 2023, but is now pending the Supreme Court's decision.
 
-ඒ අනුව එම තරග විභාගය පැවැත්වීමට පෙර 2023 මාර්තු 23 දින ශ්‍රේෂ්ඨාධිකරණය විසින් පනවන ලද අතුරු තහනම් නියෝගය හේතු කොටගෙන පැවැත්වීමට නියමිත ව තිබූ තරග විභාගය අත්හිටවනු ලැබී ය.
+🟩
 
-මේ වන විටත් ශ්‍රේෂ්ඨාධිකරණයේ එම පෙත්සම් විභාග වෙමින් පවතින අතර ඉදිරියේ දී ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දෙන තීන්දුව අනුව අධ්‍යාපන අමාත්‍යාංශය විසින් ඉදිරි කටයුතු සිදු කිරීමට බලාපොරොත්තු වේ.
+The Ministry of Education has filed four fundamental rights petitions in the Supreme Court to hold a competitive examination on March 25, 2023 to recruit Development Officers to the Teacher Service.
+
+Accordingly, the event was due to be held on 23 March 23, 2023 before the Supreme Court.
+
+The petitions are still pending in the Supreme Court and the Ministry of Education are expected to be carried out by the Supreme Court's decision.
 
 ◼️
 
 [Data](articles/669a049c.json)
+
+[Extended Data](ext_articles/669a049c.ext.json)
 
 ---
 
@@ -2055,73 +2125,5 @@ On April 8, during a politburo meeting chaired by former President Chandrika Ban
 [Data](articles/e6a1285e.json)
 
 [Extended Data](ext_articles/e6a1285e.ext.json)
-
----
-
-### Ottawa mass killing suspect not seeking bail
-
-*2024-04-19 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98724/ottawa-mass-killing-suspect-not-seeking-bail) · `en`
-
-The 19-year-old Sri Lankan national charged in the mass killing of a newcomer family in Ottawa has no plan to seek bail, his lawyer says.
-
-Febrio De-Zoysa was arrested and charged in early March with six counts of first-degree murder and one count of attempted murder, after police found the family dead in a townhouse in the suburb of Barrhaven.
-
-He remains in custody, and his lawyer Ewan Lyttle told The Canadian Press “there is presently no plan to apply for bail.”
-
-De-Zoysa, who was studying in Canada as an international student, is set to return to court next week where lawyers expect to set dates for a preliminary inquiry in his case.
-
-Investigators allege the young man is responsible for the deaths of 35-year-old Darshani Ekanayake and her four children, who were between the ages of two months and seven years old, as well as a family friend.
-
-They believe the family was attacked with a knife or “other edged weapon.”
-
-...
-
-[Data](articles/becfd667.json)
-
-[Extended Data](ext_articles/becfd667.ext.json)
-
----
-
-### Ottawa killer tells bail
-
-*2024-04-19 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195785) · `si`
-
-Sri Lankan youth Fibri de Zoysa, accused of killing 6 in Canada, denied bail. Arrested in March, he faces 6 murder charges. Court appearance next week for preliminary investigations.
-
-🟩
-
-His lawyer says that the Sri Lankan youth who are accused of killing 6 Sri Lankans in Canada is not expected to be bail.
-
-The 19-year-old Fibri de Zoysa was arrested last March and has been charged with 6 murder accusations against him.
-
-He was to be produced before courts next week for education purposes. It is planned to allocate the days for preliminary investigations in the case.
-
-◼️
-
-[Data](articles/02447252.json)
-
-[Extended Data](ext_articles/02447252.ext.json)
-
----
-
-### Two persons arrested by Kattankudy police for kidnapping 17 turtles
-
-*2024-04-19 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181464) · `ta`
-
-Kattankudy police arrested two for kidnapping 17 turtles, recovered meat and turtles from a house, and are taking suspects to court.
-
-🟩
-
-Kattankudy police have recovered turtle meat and 17 turtle at a house on Kalladi Darshanam School Road, Batticaloa.
-
-Meanwhile, Kattankudy Police Station Superintendent G. Gajanayake said the two suspects have been arrested.
-
-Police have seized the rescued turtles and have taken steps to bring the suspects to the Batticaloa Magistrate's Court.
-
-◼️
-
-[Data](articles/2488e131.json)
-
-[Extended Data](ext_articles/2488e131.ext.json)
 
 ---

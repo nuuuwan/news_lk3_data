@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 22:18:33**
+As of **2024-04-20 22:34:16**
 
 ## Newspaper Stats
 
@@ -86,7 +86,7 @@ He was 89 years old at the time of his death and died when he died, and he was l
 
 Sri Lanka has decided to import big onions from India through Lanka Sathosa.
 
-India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi governments Neighbourhood First Policy.
+India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi government’s ‘Neighbourhood First Policy’.
 
 Accordingly, discussions were held at the Ministry of Trade whether to carry out the big onion imports through state or private sector and it was decided to import onions through Lanka Sathosa.
 

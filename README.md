@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 21:03:39**
+As of **2024-04-20 21:18:32**
 
 ## Newspaper Stats
 
-*Scraped **19,938** Articles*
+*Scraped **19,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,654
 tamilmirrorlk | 2,300
 adaderanalk | 2,391
 virakesarilk | 2,981
-dailymirrorlk | 3,108
+dailymirrorlk | 3,110
 adaderanasinhalalk | 3,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,938 (100.0%) of 19,938 articles have been extended.
+19,938 (100.0%) of 19,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,24 @@ However, the Treasurer Lasantha Alagiyawanna and National Organizer Duminda Diss
 [Data](articles/0e38d2b5.json)
 
 [Extended Data](ext_articles/0e38d2b5.ext.json)
+
+---
+
+### Detention orders issued on Naval Officers caught with ‘ICE’
+
+*2024-04-20 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Detention-orders-issued-on-Naval-Officers-caught-with-ICE/108-281075) · `en`
+
+Colombo, April 20 (Daily Mirror) - Following the apprehension of four individuals, including two Sri Lanka Navy Lieutenant Commanders, in possession of a significant quantity of crystal methamphetamine, commonly known as 'ICE,' the Hulftsdorp Magistrate’s Court issued detention orders on them.
+
+The order mandates the detention of the suspects till April 26 for further interrogation.
+
+The arrests stem from a recent operation conducted by officers of the Mulleriyawa Police, who seized 510 grams of 'Ice' from the possession of the four individuals.
+
+The confiscated narcotics are valued at approximately Rs. 7.5 million.
+
+◼️
+
+[Data](articles/d62e6496.json)
 
 ---
 
@@ -909,6 +927,24 @@ Fr.
 [Data](articles/62e13c34.json)
 
 [Extended Data](ext_articles/62e13c34.ext.json)
+
+---
+
+### Vehicle importers call for increased space for importing used vehicles
+
+*2024-04-20 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Vehicle-importers-call-for-increased-space-for-importing-used-vehicles/155-281059) · `en`
+
+Colombo, April 20 (Daily Mirror) - President of the Vehicle Importers Association of Lanka (VIAL), Indika Sampath Merinchige urged the government to expand the allowance for importing used vehicles alongside new ones.
+
+He emphasized the need to extend the timeframe for importing used vehicles from three years to seven years or beyond.
+
+Merinchige highlighted that importing used vehicles can enable them to offer vehicles at lower prices compared to new ones.
+
+Additionally, he noted that importing vehicles that are seven years of age or older will not affect government tax revenue.
+
+◼️
+
+[Data](articles/019ac050.json)
 
 ---
 
@@ -2191,45 +2227,5 @@ One of the initial players, Ajinkia Rahane, showed some skills and scored 36 run
 [Data](articles/d347aad0.json)
 
 [Extended Data](ext_articles/d347aad0.ext.json)
-
----
-
-### Our country has lost the best personality that has been a good person who helped the suffering people -Sajith Premadasa
-
-*2024-04-19 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181485) · `ta`
-
-Sajith Premadasa mourns the loss of Aryaratna, a key figure in the Sarvodaya Social Development Program, highlighting his significant contributions to social welfare.
-
-🟩
-
-Sudden death of Sarvodaya Social Development Social Welfare Program. The disappearance of a noble man who performed unique pure work in the plan to provide social strength to the suffering innocent people is the biggest loss to the country. Opposition leader Sajith Premadasa said his soul was praying for peace.
-
-The founder of the late Sarvodaya. D. He said the above when he went to pay tribute to Aryaratne's funeral.
-
-The late Aryaratna is the best social service task. For some time Ranasinghe made a huge contribution to the Gum Udawa Project with Premadasa. The disappearance of a man who has carried out pure social welfare is an unbearable loss to our country and the people. His Sarvodaya Movement is still a great service to the people of our country. Opposition Leader Sajith Premadasa said that anyone who wishes to carry out people's service through politics can set the dawn of this Sarvodaya Movement.
-
-◼️
-
-[Data](articles/4dafaca6.json)
-
-[Extended Data](ext_articles/4dafaca6.ext.json)
-
----
-
-### Aitken Spence Hotels: Top 5 in LMD’s Most Awarded Hall of Fame, leading hospitality sector
-
-*2024-04-19 23:40:41* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Hotels-Top-5-in-LMD-s-Most-Awarded-Hall-of-Fame-leading-hospitality-sector/34-760831) · `en`
-
-Aitken Spence Hotels has once again ranked among the top companies in LMD’s Most Awarded Hall of Fame, solidifying its position as one of the most distinguished entities in Sri Lanka.
-
-Garnering an impressive tally of 52 awards throughout 2023, the company secured the first place in hospitality sector and fourth place among the nation’s most honoured establishments. These awards have showcased the company’s prowess in service, culinary and product excellence.
-
-With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken Spence Hotels boasts a portfolio of 17 properties under its brands: Heritance, Adaaran, and Turyaa. This geographical diversity underscores the company’s commitment to sustainable hospitality across diverse cultures and landscapes.
-
-...
-
-[Data](articles/b422e653.json)
-
-[Extended Data](ext_articles/b422e653.ext.json)
 
 ---

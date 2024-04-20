@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 21:53:12**
+As of **2024-04-20 22:04:01**
 
 ## Newspaper Stats
 
-*Scraped **19,941** Articles*
+*Scraped **19,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,300
 adaderanalk | 2,391
 virakesarilk | 2,981
 dailymirrorlk | 3,110
-adaderanasinhalalk | 3,241
+adaderanasinhalalk | 3,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,941 (100.0%) of 19,941 articles have been extended.
+19,941 (100.0%) of 19,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### කිතුනුවන්ගේ පාස්කු ඉරුදිනය ලෙයින් තෙත්වී හෙටට වසර 05ක්
+
+*2024-04-20 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195821) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයට හෙටට (21) පස් වසරක් සපිරීම සිහිපත් කරමින් කොච්චිකඩේ සිද්ධස්ථානයේ සිට කටුවපිටිය දේවස්ථානය දක්වා යැදුම් පෙරහැරක් අද (20) මධ්‍යම රාත්‍රීය පුරා වීථි සංචාරය කිරීමට නියමිතය.
+
+ඒ වෙනුවෙන් සංවිධාන වූ සිහිකිරීමේ වැඩසටහන් මාලාව අද පස්වරුවේ ආරම්භ වූයේ කොච්චිකඩේ ශාන්ත අන්තෝනි සිද්ධස්ථානයේ පැවති විශේෂ දිව්‍ය පුජා යාගයකිනි.
+
+2019 වසරේ අප්‍රේල් 21 වනදාට යෙදුණු පාස්කු ඉරුදිනයේ සහරාන් හෂීම් ප්‍රමුඛ මිලේච්ඡ අන්තවාදීන් කණ්ඩායම් දිවයිනේ ස්ථාන 08කදී මරාගෙන මැරෙන ප්‍රහාර 10ක් සිදුකළේ, පුද්ගලයින් 273 දෙනකුගේ ජීවිත උදුරාගනිමිනි.
+
+එහිදී තවත් 500කට අධික පිරිසක් බරපතළ තුවාල ලැබූ අතර ඇතැමුන් තවමන් සම්පූර්ණයෙන් සුවය ලබා නොමැත.
+
+පෙරහැර ගමන් කරනා මාර්ගය වන්නේ කොච්චිකඩේ සිද්ධස්ථානයේ සිට මට්ටක්කුලිය පාලම, හේකිත්ත මාර්ගය ඔස්සේ වත්තල හන්දිය, එතැන් සිට මීගමු කොළඹ ප්‍රධාන මාර්ගය ඔස්සේ කටුවපිටිය දේවස්ථානය.
+
+◼️
+
+[Data](articles/1d266687.json)
+
+---
 
 ### Nagallangam, who won historical gold medal
 
@@ -2195,25 +2215,5 @@ Today, for the first time in three years gross official reserves crossed the US$
 [Data](articles/8d9d0651.json)
 
 [Extended Data](ext_articles/8d9d0651.ext.json)
-
----
-
-### Ranil Wickremesinghe caravan moves on despite barking dogs
-
-*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ranil-Wickremesinghe-caravan-moves-on-despite-barking-dogs/172-281020) · `en`
-
-Ranil perceives himself as a unique selling proposition in a Presidential election campaign
-
-Ranil has been able to achieve this with the support and solidarity of  his Government. Most ministers and state ministers in this Government  were appointed by President Gotabaya. President Wickremesinghe has not  intervened too much with the set-uphe inherited
-
-He has been content to  work with what he had or got. Ranil’s ministers and state ministers  consist of MPs from the SLPP, SJB,  SLPP, CWC, EPDP and TMVP. He has  been able to get the best out ofthis assorted group
-
-Furthermore  Ranil’s stock has been rising within the people. As stated  earlier, it is only Ranil Wickremesinghe who has a working plan to  uplift Sri Lanka from the deep economic morass it has sunk into and lead  Lanka on the road to economic recovery. He has been doing this  effectively from the time he took over the reins of power
-
-...
-
-[Data](articles/b12d67c1.json)
-
-[Extended Data](ext_articles/b12d67c1.ext.json)
 
 ---

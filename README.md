@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 13:18:13**
+As of **2024-04-20 13:34:12**
 
 ## Newspaper Stats
 
-*Scraped **19,896** Articles*
+*Scraped **19,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,978
-dailymirrorlk | 3,096
-adaderanasinhalalk | 3,229
+dailymirrorlk | 3,098
+adaderanasinhalalk | 3,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,894 (100.0%) of 19,896 articles have been extended.
+19,896 (100.0%) of 19,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### පාස්කු ප්‍රහාරය ගැන මෙතෙක් නොකී කතාව
+
+*2024-04-20 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195807) · `si`
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට තමන් ලබාදුන්, මෙතෙක් හෙළිදරව් නොවූ තොරතුරු හා මූලාශ්‍ර පිළිබඳ සිරිල් ගාමිණි පියතුමන් අද (20) මාධ්‍යයට අනාවරණය කළේය.
+
+හිටපු පොලිස් නිලධාරියකු යුටියුබ් නාලිකාවකට ලබාදුන් බව කියන සම්මුඛ සාකච්ඡාවක්ද උපුටා දක්වමින් පියතුමන් මෙම කරුණු ප්‍රකාශ කර තිබුණි.
+
+පාස්කු ඉරුදින ප්‍රහාරයට අදාළව ප්‍රකාශ ලබාගැනීම සඳහා “ඥානාර්ථ ප්‍රදීපය“ කතෝලික පුවත්පතේ ප්‍රධාන කතෘ සිරිල් ගාමිණි පියතුමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඊයේ (19) කැඳවීය.
+
+එහිදී පැය 4කට ආසන්න කාලයක් සිරිල් ගාමිණි පියතුමන් ප්‍රකාශ ලබාදී පිටව ගියේය.
+
+ඒ අනුව අදාළ කරුණු 8 පිළිබඳ මාධ්‍ය දැනුවත් කිරීම සඳහා සිරිල් ගාමිණි පියතුමන් අද ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+
+"පළවෙනි එක...  2018 නොවැම්බර් 30 වනදා වව්නතිව් හිදී පොලිස් නිලධාරීන් දෙදෙනෙකු ඝාතනය වීම සහ ඒ සම්බන්ධ කරුණු."
+
+"දෙවෙනි එක... සහරාන් සමග සමීප සම්බන්ධතාවයක් පවත්වා ඇති බවට හෙළිකරගෙන ඇති IP ලිපිනය භාවිත කළේ කවුරුන්ද කියන ප්‍රශ්නය."
+
+"තුන්වෙනි එක...  වව්නතිව් සිද්ධිය නොමග යවන ආකාරයට අසත්‍ය වාර්තා ඉදිරිපත් කිරීමේ සිද්ධිය."
+
+◼️
+
+[Data](articles/62e13c34.json)
+
+---
+
+### Vehicle importers call for increased space for importing used vehicles
+
+*2024-04-20 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-importers-call-for-increased-space-for-importing-used-vehicles/108-281059) · `en`
+
+Colombo, April 20 (Daily Mirror) - President of the Vehicle Importers Association of Lanka (VIAL), Indika Sampath Merinchige urged the government to expand the allowance for importing used vehicles alongside new ones.
+
+He emphasized the need to extend the timeframe for importing used vehicles from three years to seven years or beyond.
+
+Merinchige highlighted that importing used vehicles can enable them to offer vehicles at lower prices compared to new ones.
+
+Additionally, he noted that importing vehicles that are seven years of age or older will not affect government tax revenue.
+
+◼️
+
+[Data](articles/b9a19af9.json)
+
+---
+
+### WHO prequalifies new oral simplified vaccine for cholera
+
+*2024-04-20 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WHO-prequalifies-new-oral-simplified-vaccine-for-cholera/108-281060) · `en`
+
+Geneva, April 20 (WHO) - A new oral vaccine for cholera has received prequalification by the World Health Organization (WHO) on 12 April. The inactivated oral vaccine Euvichol-S has a similar efficacy to existing vaccines but a simplified formulation, allowing opportunities to rapidly increase production capacity.
+
+“The new vaccine is the third product of the same family of vaccines we have for cholera in our WHO prequalification list,” said Dr Rogerio Gaspar, Director of the WHO Department for Regulation and Prequalification. “The new prequalification is hoped to enable a rapid increase in production and supply which many communities battling with cholera outbreaks urgently need.”
+
+WHO prequalification list already includes Euvichol and Euvichol-Plus inactivated oral cholera vaccines produced by EuBiologicals Co., Ltd, Republic of Korea, which also produces the new vaccine Euvichol-S.
+
+...
+
+[Data](articles/98b7db76.json)
+
+---
 
 ### Attacks on Iraqi camp
 
@@ -65,6 +125,8 @@ He was responding to allegations by United National Party (UNP) General Secretar
 ...
 
 [Data](articles/3e2e6489.json)
+
+[Extended Data](ext_articles/3e2e6489.ext.json)
 
 ---
 
@@ -382,23 +444,31 @@ Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara El
 
 ---
 
-### நியூசிலாந்தின் வெலிங்டனில் இலங்கை உயர்ஸ்தானிகராலயத்தை நிறுவ தீர்மானம்
+### Resolution to establish Sri Lankan High Commission in Wellington, New Zealand
 
 *2024-04-20 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181494) · `ta`
 
-இந்நிலையில், இலங்கை உயர்ஸ்தானிகராலயத்தை திறப்பது தொடர்பான விடயங்களை கலந்துரையாட அமைச்சின் வெளிநாட்டு ஆதன முகாமைத்துவம் மற்றும் அபிவிருத்திப் பிரிவின் பணிப்பாளர் நாயகம் பிரதீபாஷாரம் தலைமையிலான உத்தியோகபூர்வ பிரதிநிதிகள் குழுவினர் 22 ஆம் திகதி நியூசிலாந்துக்கு விஜயம் செய்யவுள்ளனர்.
+Sri Lanka plans to open a High Commission in Wellington, New Zealand, with officials visiting from the 22nd to the 25th to discuss the move. This aims to strengthen cooperation in trade, education, sports, science, technology, tourism, and health, following New Zealand's High Commission in Sri Lanka opening in 2021.
 
-இந்த குழு 25 ஆம் திகதி வரை நியூசிலாந்தில் தங்கியிருந்து கலந்துரையாடல்களை மேற்கொள்ளும்.
+🟩
 
-இந்த விஜயத்தின் போது, தூதுக்குழுவினர் நியூசிலாந்தின் வெளிவிவகார மற்றும் வர்த்தக அமைச்சின் அதிகாரிகள் மற்றும் பிற தொடர்புடைய நிறுவனங்கள் மற்றும் பங்குதாரர்களுடன் கலந்துரையாடலில் ஈடுப்படுவார்கள்.
+In this backdrop, the official representatives of the Ministry of Foreign Administration and Development will visit New Zealand on the 22nd of this month to discuss issues on the opening of the Sri Lankan High Commission.
 
-நியூசிலாந்தில் தொழில் வல்லுநர்கள் மற்றும் மாணவர்களைக் கொண்ட ஒரு குறிப்பிடத்தக்களவு இலங்கையர் சமூகம் உள்ளது.
+The team will stay in New Zealand until the 25th.
 
-இராஜதந்திர தூதுக் குழுவொன்றை நியூசிலாந்தில் நிறுவுவதன் மூலம், வர்த்தகம், கல்வி, விளையாட்டு, அறிவியல், தொழில்நுட்பம், சுற்றுலா மற்றும் சுகாதாரம் ஆகிய துறைகளில் வலுவான ஒத்துழைப்பைப் பின்தொடர்வதற்கும், சமூகத்தை அணுகுவதற்கும் உதவும்.
+During the visit, the delegation will be held in discussion with New Zealand's Foreign and Commerce Ministry officials and other relevant companies and shareholders.
 
-...
+There is a significant Sri Lankan community with professionals and students in New Zealand.
+
+The establishment of a diplomatic delegation in New Zealand will help to follow strong cooperation in the fields of trade, education, sports, science, technology, tourism and health.
+
+The New Zealand High Commission opened in Sri Lanka in 2021. This is a major milestone in bilateral relations between the two countries.
+
+◼️
 
 [Data](articles/7e070a3e.json)
+
+[Extended Data](ext_articles/7e070a3e.ext.json)
 
 ---
 
@@ -2029,91 +2099,5 @@ ABC News reported that Israel had attacked Iran, citing a senior U.S. official. 
 [Data](articles/c1a339b4.json)
 
 [Extended Data](ext_articles/c1a339b4.ext.json)
-
----
-
-### Sri Lanka discussing giving extra land, water for Chinese oil refinery
-
-*2024-04-19 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-giving-extra-land-water-for-chinese-oil-refinery-159439/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in discussions with China’s Sinopec to give extra land and assure water supplies after the company decided to expand the capacity of a planned oil refinery in Hambantota, Energy Minister Kanchana Wijesekera said.
-
-“There are concerns on how the water supply is going to be provided for the refinery,” Minister Wijesekera told reporters Friday.
-
-The refinery will need more land and also revise conditions in a Board of Investment agreement, he said.
-
-Sinopec to double capacity of new refinery in Sri Lanka’s Hambantota
-
-Recommendations and decisions from Sri Lanka’s side had already been sent and Sinopec is expected to revert back in May.
-
-“We are hoping to sign the agreement once everyone has agreed,” Wijesekara said.
-
-The principle agreements are expected to be signed by June, he said.
-
-The refinery could sell up to 10 percent of its output in the domestic market.
-
-“There is no commitment by the government to purchase anything,” Minister Wijesekera said. (Colombo/Apr19/2024)
-
-◼️
-
-[Data](articles/27ae1e4b.json)
-
-[Extended Data](ext_articles/27ae1e4b.ext.json)
-
----
-
-### International Investigation into Life Sunday attacks
-
-*2024-04-19 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181475) · `ta`
-
-The Social and Religious Center's research unit has called for an international investigation into the Sunday attacks, the worst incident in Sri Lanka since the war. They recommend prosecuting those responsible, ensuring victims receive compensation, and implementing Presidential Investigation Commission recommendations. Suren Perera emphasizes the need for international mechanisms, as domestic ones have failed, suggesting a mixed approach.
-
-🟩
-
-The Research Committee of the Social and Religious Center has requested that international inquiries be carried out on the Sunday attack.
-
-The Social and Religious Center's research, which has issued a report on the Economic Socio Cultural Economic Law view of the Economic Socio Cultural Economic Law, has sought an international investigation into the survival Sunday attack.
-
-The life -threatening Sunday massacre can be referred to as the most terrible incident in Sri Lanka after the war in Sri Lanka.
-
-As a result, we make some recommendations that are necessary to uphold justice for the victims due to the resurrection.
-
-International investigations and prosecuting those responsible for the attack, especially against the masterminds.
-
-To ensure that all the victims of the survival Sunday will reach sufficient compensation rapidly.
-
-The Bio -Sunday attack should ensure that all recommendations of the Presidential Investigation Commission are implemented.
-
-...
-
-[Data](articles/d6f08337.json)
-
-[Extended Data](ext_articles/d6f08337.ext.json)
-
----
-
-### US crying for the proposal to accept Palestine
-
-*2024-04-19 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195789) · `si`
-
-The US blocked a UN Security Council proposal for Palestine's UN membership, with the UK and Switzerland abstaining. Israel expressed gratitude. Palestine has sought full UN membership since 2011, currently as a non-member observer state.
-
-🟩
-
-The United States acted to defeat a United Nations Security Council proposal to be recognized as a United Nations membership.
-
-The proposal was brought to the United Nations Security Council on Thursday (18).
-
-The United Nations Security Council members were fellow and the UK and Switzerland abstaked the vote.
-
-It is said that Israel thanked the United States in this regard.
-
-Palestine attempts from 2011 to obtain full membership of the United Nations. They are now the Kingdom-free observer situation. They were in 2012 in 2012.
-
-◼️
-
-[Data](articles/c38b23f9.json)
-
-[Extended Data](ext_articles/c38b23f9.ext.json)
 
 ---

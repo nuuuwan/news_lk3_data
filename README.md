@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 08:34:03**
+As of **2024-04-20 08:52:09**
 
 ## Newspaper Stats
 
-*Scraped **19,859** Articles*
+*Scraped **19,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,82 @@ dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,649
 tamilmirrorlk | 2,295
-adaderanalk | 2,378
+adaderanalk | 2,379
 virakesarilk | 2,976
 dailymirrorlk | 3,081
-adaderanasinhalalk | 3,221
+adaderanasinhalalk | 3,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,855 (100.0%) of 19,859 articles have been extended.
+19,859 (100.0%) of 19,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### டிரம்பிற்கு எதிரான வழக்கு – நீதிமன்றத்திற்கு வெளியே தீக்குளித்த நபரால் பரபரப்பு
+### Sri Lanka to establish a High Commission in Wellington, NZ
 
-*2024-04-20 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181489) · `ta`
+*2024-04-20 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98735/sri-lanka-to-establish-a-high-commission-in-wellington-nz) · `en`
 
-அமெரிக்காவில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் தொடர்பான வழக்கு இ;டம்பெற்றுக்கொண்டிருந்த பகுதிக்கு வெளியே நபர் ஒருவர் தீக்குளி;த்த சம்பவம் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது.
+An official delegation of the Foreign Affairs Ministry will visit New Zealand from 22-25 April to attend to the matters related to the opening of the Sri Lankan High Commission in Wellington.
 
-ஆபாச படநடிகை ஸ்டோர்மி டானியல் தனக்கு எதிராக தகவல்களை தெரிவிக்காமல் இருப்பதற்காக டொனால்ட் டிரம்ப் அவருக்கு பணம் வழங்கினாரா என்பது தொடர்பான நீதிமன்ற வழக்கு இடம்பெற்றுவந்த மான்ஹட்டன் நீதிமன்றத்திற்கு வெளியே நபர் ஒருவர் தீக்குளிக்க முயன்றுள்ளார்.
+The delegation will be led by the Director General of the Overseas Assets Management and Development Division of the Foreign Ministry, Pradeepa Saram.
 
-சதிமுயற்சி குறித்த துண்டுபிரசுரங்களை எறிந்த பின்னர் அவர் தன்மீது திரவமொன்றை ஊற்றினார் என பொலிஸார் தெரிவித்துள்ளனர்.
+During the visit, the delegation will engage in meetings with officials of the Ministry of Foreign Affairs and Trade of New Zealand, and other related agencies and stakeholders.
 
-இதற்கான காரணம் தெரியவில்லை என தெரிவித்துள்ள காவல்துறையினர் நீதிமன்றின் பாதுகாப்பு மீறப்பட்டது எனவும் குறிப்பிட்டுள்ளனர்.
-
-சிலவாரங்களிற்கு முன்னர் புளோரிடாவில் உள்ள தனது வீட்டிலிருந்து நியுயோக்கிற்கு வந்த மக்ஸ்வெல் அசரெலொ என்ற 37 வயது நபரே தீக்குளிக்க முயன்றுள்ளார்.
+In January this year, the Cabinet of Ministers approved a proposal presented by the Minister of Foreign Affairs Ali Sabry looking to establish a High Commission in Wellington.
 
 ...
 
+[Data](articles/7fa9aa72.json)
+
+---
+
+### නවසීලන්තයට ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක්
+
+*2024-04-20 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195799) · `si`
+
+ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක් නවසීලන්තයේ වෙලිංටන් හි විවෘත කිරීමට තීරණය කර තිබේ.
+
+විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කලේ කැබිනට් මණ්ඩලයේ තීරණයකට අනුව ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක් නවසීලන්තයේ වෙලිංටන්හි ආරම්භ කීරීමට සැලසුම් කර ඇති බවය.
+
+ඒ පිළිබඳ සොයා බැලීම සඳහා විදේශ කටයුතු අමාත්‍යාංශයේ විදේශ වත්කම් කළමනාකරණ සහ සංවර්ධන අංශයේ අධ්‍යක්ෂ ජනරාල් ප්‍රදීපා සේරම් මහත්මිය ප්‍රමුඛ නියෝජිත පිරිසක් අප්‍රේල් 22 වනදා සිට 25 වනදා දක්වා කාලය තුළ නවසීලන්තයේ සංචාරයක නිරත වීමට නියමිතය.
+
+මේ වනවිට විශාල ශ්‍රී ලාංකික වෘත්තිකයින් සහ සිසුන් පිරිසක් එහි රැදී සිටින අතර ඔවුන්ට පහසුකම් සැපයීම සහ දෙරට අතර වෙළෙඳ, අධ්‍යාපන, ක්‍රීඩා, විද්‍යා සහ තාක්ෂණ, සංචාරක සහ සෞඛ්‍ය යන ක්ෂේත්‍රවල සහයෝගීතාව වර්ධනය කර ගැනීම මෙහි මූලික අරමුණු අතර වන බව විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3f6acc9a.json)
+
+---
+
+### Case against Trump
+
+*2024-04-20 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181489) · `ta`
+
+A man set fire to another outside a Manhattan court, allegedly related to a case involving Donald Trump. The incident, involving Maxwell Asarelo, led to a security breach and a large police presence.
+
+🟩
+
+The case of former President Donald Trump in the United States has caused a stir in the area where a person is on the sidelines.
+
+A man has tried to set fire to a man outside the court of Manhattan, who is in court case regarding whether Donald Trump has paid him for not informing him of Daniel Daniel.
+
+Police said he poured a liquid on him after throwing leaflets on the plot.
+
+The reason for this is unknown, police said the court's security was violated.
+
+A 37 -year -old man, Maxwell Asarelo, who came from his home in Florida a few weeks ago, tried to set fire to a fire.
+
+Due to the case, a large number of police were found in the area. When the man was set on fire, they immediately rushed there.
+
+◼️
+
 [Data](articles/36851e58.json)
+
+[Extended Data](ext_articles/36851e58.ext.json)
 
 ---
 
@@ -208,33 +252,45 @@ Youth Training Scheme is expected to improve comprehensive training and morale f
 
 ---
 
-### முதியவர் சடலமாக மீட்பு
+### Elderly body recovery
 
 *2024-04-20 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவர்-சடலமாக-மீட்பு/175-336110) · `ta`
 
-நுவரெலியா பொலிஸ் பிரிவுக்குட்பட்ட ஒலிபண்ட் தோட்டத்தில் முதியவர் ஒருவர் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+An elderly man was found dead in a Nuwara Eliya Police Division garden, recovered in the house's back bathroom last night.
 
-நேற்றுமுன்தினம் இரவு வீட்டில் பின்புறத்தில் உள்ள குளியலறையில் தவறான முடிவெடுத்த நிலையில் அவர் சடலமாக மீட்கப்பட்டுள்ளார் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+An elderly man has been found dead in a broadcast garden belonging to the Nuwara Eliya Police Division.
+
+He was recovered in the bathroom in the back of the house last night, police said.
 
 ◼️
 
 [Data](articles/c0d073a1.json)
 
+[Extended Data](ext_articles/c0d073a1.ext.json)
+
 ---
 
-### உணவுப் பொருட்கள் வழங்கும் பணி ஆரம்பம்
+### The beginning of the process of providing food
 
 *2024-04-20 00:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்-பொருட்கள்-வழங்கும்-பணி-ஆரம்பம்/175-336109) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கமைய பாடசாலை மாணவர்களுக்கு போசாக்குள்ள உணவு வழங்கும் நிகழ்ச்சித் திட்டத்திற்காக உலக உணவுத் திட்டத்தின் மூலம் பாடசாலைகளுக்கு வழங்கப்படும் செறிவூட்டப்பட்ட அரிசி  விநியோகம் நேற்று வெயங்கொட உணவு களஞ்சிய வளாகத்தில் ஆரம்பித்து வைக்கப்பட்டது.
+The World Food Program initiated rice distribution for schools in Sri Lanka, aiming to combat iron deficiency. Supervised by the Director General of the Joint Secretariat for the World Food Program, 735 metric tonnes of rice were distributed yesterday at the Veyangoda Food Plant, with more to follow today.
 
-பாடசாலை மாணவர்களிடையே இரும்புச் சத்து குறைபாட்டைக் குறைக்கும் நோக்கில், பாடசாலை உணவுக்கு செறிவூட்டப்பட்ட அரிசி வழங்கப்படுவதுடன், ஜனாதிபதி செயலகத்தின் கீழுள்ள உலக உணவுத் திட்டத்திற்கான கூட்டுச் செயலகத்தின் பணிப்பாளர் நாயகம் எம்.எச்.ஏ.எம்.ரிப்லானின் மேற்பார்வையில் இந்த விநியோக நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+🟩
 
-இதன்படி, முதற்கட்டமாக மாகாண மட்டத்தில் உள்ள பாடசாலைகளுக்கு 735 மெற்றிக் தொன் அரிசி வழங்கும் நடவடிக்கை நேற்று ஆரம்பமானதுடன் இன்றும் இந்தப் பணிகள் தொடரும். சம்பந்தப்பட்ட மாகாண கல்வித் திணைக்கள அதிகாரிகள் மற்றும் பொது சுகாதார பரிசோதகர்களின் கண்காணிப்பின் கீழ் பாடசாலைகளுக்கு அரிசி விநியோகிக்கப்படுகிறது. (a)
+According to the work of President Ranil Wickremesinghe, the distribution of rice to the schools through the World Food Program for the Posaka Food Project for School Students was inaugurated yesterday at the Veyangoda Food Plant.
+
+The distribution process is being carried out under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat, which is aimed at reducing iron deficiency among schoolchildren.
+
+Accordingly, 735 metric tonnes of rice for schools at the provincial level began yesterday and the work will continue today.. Rice is distributed to schools under the supervision of the concerned provincial education department officials and public health inspectors. (A)
 
 ◼️
 
 [Data](articles/ddd37eae.json)
+
+[Extended Data](ext_articles/ddd37eae.ext.json)
 
 ---
 
@@ -1848,23 +1904,31 @@ Do not ignore the legitimate demands of the workers, do not pull up on the salar
 
 ---
 
-### නාගදීප මගී යාත්‍රාවේදී  දරුවකු ප්‍රසූත කරයි
+### A child gives birth to a child in Nagadeepa vessel
 
 *2024-04-19 15:17:39* · [`adalk`](https://www.ada.lk/breaking_news/නාගදීප-මගී-යාත්‍රාවේදී--දරුවකු-ප්‍රසූත-කරයි/11-409163) · `si`
 
-යාපනය නාගදීප ප්‍රදේශයේදී ප්‍රසව වේදනාවෙන් සිටි මවක් රෝහලට මුහුදු මාර්ගයෙන් රැගෙන යමින් සිටියදී මගී යාත්‍රාවක් තුලදී බිළිඳෙකු ප්‍රසූත කර ඇති බවට වාර්ථා වෙයි.
+A child was born on a passenger vessel in Nagadeepa, Jaffna, on the 17th. The mother, in pain, was taken to Nagadeepa Base Hospital. The baby was then transported to Jaffna Teaching Hospital via ambulance.
 
-පසුගිය 17 වනදා මෙම සිදුවීම සිදුව ඇති අතර අදාල ගැබිනි මව ප්‍රසව වේදනාව හේතුවෙන් නාගදීප මූලික රෝහලට ඇතුලත් වීමෙන් පසුව එහි වෛද්‍යවරුන් ගැබිනි මව යාපනය ශික්ෂණ රෝහලට රැගෙන යා යුතු බවට දැනුම් දී ඇත.
+🟩
 
-නාගදීපය සිට යාපනය ශික්ෂණ රෝහලට යාමටනම් නාගදීපය ජැටියේ සිට මුහුදු මාර්ගයෙන් කූරිකඩ්ඩුවාන් ජැටිය දක්වා ගමන් යාපනය ශික්ෂන රෝහලට යායුතු වෙයි.
+A baby was delivered to a passenger vessel while he was carrying a mother in the Nagadeepa area in Jaffna.
 
-එම අවස්ථාවේදී ගිලන් වූ පුද්ගලයින් ප්‍රවාහනය කරනු ලබන ගිලන් මුහුදු යාත්‍රාව නොමැති වූ හෙයින් නාගදීපය වන්දනා කිරීම සඳහා යාත්‍රා කරනු ලබන මගී යාත්‍රාවක් වෙතට අදාල ගැබිනි මව ඇතුලත් කොට කූරිකඩ්ඩුවාන් ජැටිය වෙතට ගමන් කිරීමට පියවර ගෙන ඇත.‍
+The incident had taken place on the 17th and the pregnant mother was admitted to the Nagadeepa Base Hospital due to the child's pain.
 
-එහිදී ගැබිනි මාතාවට ප්‍රසව වේදනාව ඇතිව දරුවා ප්‍රසූත කිරීමට අවහ්‍ය බව පැවසීමේදී මගී යාත්‍රාවේ සිටි පිරිමි පුද්ගලයින් සියල්ලා උඩුමහලට යවා කාන්තාවන් සියල්ල යාත්‍රාවේ යටි මහලේ සිට එම මවට දරුවා ප්‍රසූත කිරීමට සහය ලබාදීමෙන් පසුව දරුවා ප්‍රසූත කොට ඇත.
+The Jaffna Teaching Hospital jourses from Nagadeepa Jetty to Koriadduavan jetty to the Koriadduvan jetty from Nagadeepa to Jaffna Teaching Hospital.
 
-...
+The pregnant woman, including a bunch of ambulance, has been taken to a passenger vessel that sailed to the nagadeepa.
+
+When pregnant is the pregnancy of pregnancy, the child sent all men in the passenger vessel, which was supported by the base from the underside of the bore, the child was deliberate.
+
+The infants have been taken to the Mother Kirijuduva jetty with the baby and have been taken to the Jaffna Teaching Hospital with a kilometer.
+
+◼️
 
 [Data](articles/303b16ab.json)
+
+[Extended Data](ext_articles/303b16ab.ext.json)
 
 ---
 
@@ -2107,51 +2171,5 @@ At the end of the meeting, the IMF Managing Director Kristalina Georgieva, World
 [Data](articles/a80bc485.json)
 
 [Extended Data](ext_articles/a80bc485.ext.json)
-
----
-
-### Engkk example, guilty of murder case caught after 35 years
-
-*2024-04-19 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195781) · `si`
-
-A 68-year-old man was arrested for a murder case 35 years ago, linked to a power board engineer's death. He changed his identity, and his wife, sentenced to death, was also detained. The crime was due to an illicit affair.
-
-🟩
-
-The Criminal Investigation Department (CID) and the Organized Criminal Investigation Unit of the Criminal Investigation Unit (CID) has been arrested yesterday (18) at the Pugoda area.
-
-It is in connection with the power board engineering inhumanly murdered and cut into the body.
-
-The suspect is a 68 year old and has changed the NIC and birth system that he cannot recognize his identity.
-
-The wife of the main suspect, who was sentenced to death in connection with the incident, was also taken into custody on February 9.
-
-Investigations have revealed that the murder had taken place due to an illicit affair.
-
-◼️
-
-[Data](articles/b0b51972.json)
-
-[Extended Data](ext_articles/b0b51972.ext.json)
-
----
-
-### IMF urges Asian Central Banks to not follow Fed too closely
-
-*2024-04-19 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-urges-Asian-Central-Banks-to-not-follow-Fed-too-closely/108-280993) · `en`
-
-The International Monetary Fund (IMF) has urged Asian Central Banks to not follow the Fed too closely.
-
-IMF Director of the Asia and Pacific Department Krishna Srinivasan this week recommended Asian Central Banks to focus on domestic inflation and avoid making their positive decisions overly dependent on anticipated moves by the Federal Reserve.
-
-“ If central banks follow the Fed too closely, they could undermine price stability in their own countries,” Srinivasan said, addressing a press briefing on Regional Economic Outlook for Asia and Pacific.
-
-IMF staff analysis shows that U.S. interest rates have a strong and immediate impact on Asian financial conditions and exchange rates. The Fund noted that expectations about Fed easing have fluctuated in recent months, driven by factors that are unrelated to Asian price stability needs.
-
-◼️
-
-[Data](articles/2ad51bde.json)
-
-[Extended Data](ext_articles/2ad51bde.ext.json)
 
 ---

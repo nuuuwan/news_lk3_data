@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 08:52:09**
+As of **2024-04-20 09:03:33**
 
 ## Newspaper Stats
 
-*Scraped **19,861** Articles*
+*Scraped **19,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,649
 tamilmirrorlk | 2,295
 adaderanalk | 2,379
 virakesarilk | 2,976
-dailymirrorlk | 3,081
+dailymirrorlk | 3,083
 adaderanasinhalalk | 3,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,859 (100.0%) of 19,861 articles have been extended.
+19,861 (100.0%) of 19,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Debt restructuring talks: Bondholders fear regime change impact
+
+*2024-04-20 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debt-restructuring-talks-Bondholders-fear-regime-change-impact/108-281022) · `en`
+
+Colombo, April 20 (Daily Mirror) -  The representatives of bondholders who hold more around 50 percent of Sri Lanka’s outstanding international sovereign bonds (ISB) , during closed door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honored in case of a regime change at the elections pending this year, Daily Mirror learns.
+
+The bond holders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
+
+During talks with the NPP, the party has assured that the programme with the IMF (International Monetary Fund) will not be derailed.
+
+...
+
+[Data](articles/2b89571f.json)
+
+---
 
 ### Sri Lanka to establish a High Commission in Wellington, NZ
 
@@ -48,23 +64,45 @@ In January this year, the Cabinet of Ministers approved a proposal presented by 
 
 [Data](articles/7fa9aa72.json)
 
+[Extended Data](ext_articles/7fa9aa72.ext.json)
+
 ---
 
-### නවසීලන්තයට ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක්
+### Bondholders fear regime change impact
+
+*2024-04-20 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholders-fear-regime-change-impact/108-281050) · `en`
+
+Colombo, April 20 (Daily Mirror) - The representatives of bondholders who hold around 50 per cent of Sri Lanka’s outstanding international sovereign bonds (ISB), during closed-door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honoured in case of a regime change at the elections pending this year, Daily Mirror learns.
+
+The bondholders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
+
+...
+
+[Data](articles/f7c64978.json)
+
+---
+
+### High Commission of Sri Lanka to New Zealand
 
 *2024-04-20 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195799) · `si`
 
-ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක් නවසීලන්තයේ වෙලිංටන් හි විවෘත කිරීමට තීරණය කර තිබේ.
+Sri Lanka plans to open a High Commission in Wellington, New Zealand, aiming to enhance trade, education, sports, science, and health cooperation. The Director General of the Ministry of External Affairs will visit New Zealand from April 22 to 25th.
 
-විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කලේ කැබිනට් මණ්ඩලයේ තීරණයකට අනුව ශ්‍රී ලංකා මහ කොමසාරිස් කාර්යාලයක් නවසීලන්තයේ වෙලිංටන්හි ආරම්භ කීරීමට සැලසුම් කර ඇති බවය.
+🟩
 
-ඒ පිළිබඳ සොයා බැලීම සඳහා විදේශ කටයුතු අමාත්‍යාංශයේ විදේශ වත්කම් කළමනාකරණ සහ සංවර්ධන අංශයේ අධ්‍යක්ෂ ජනරාල් ප්‍රදීපා සේරම් මහත්මිය ප්‍රමුඛ නියෝජිත පිරිසක් අප්‍රේල් 22 වනදා සිට 25 වනදා දක්වා කාලය තුළ නවසීලන්තයේ සංචාරයක නිරත වීමට නියමිතය.
+It has been decided to open a High Commission of Sri Lanka in Wellington, New Zealand.
 
-මේ වනවිට විශාල ශ්‍රී ලාංකික වෘත්තිකයින් සහ සිසුන් පිරිසක් එහි රැදී සිටින අතර ඔවුන්ට පහසුකම් සැපයීම සහ දෙරට අතර වෙළෙඳ, අධ්‍යාපන, ක්‍රීඩා, විද්‍යා සහ තාක්ෂණ, සංචාරක සහ සෞඛ්‍ය යන ක්ෂේත්‍රවල සහයෝගීතාව වර්ධනය කර ගැනීම මෙහි මූලික අරමුණු අතර වන බව විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේය.
+The Ministry of External Affairs stated that a High Commission in Sri Lanka has been planned to start in Wellington, New Zealand.
+
+The Director General of the Foreign Asset Management and Development Division of the Ministry of External Affairs will visit New Zealand on April 22 to 25th April.
+
+A large number of Sri Lankan professionals and students will continue to facilitate their trade, education, sports, science and health cooperation between trade, education, sports, tourism and health cooperation.
 
 ◼️
 
 [Data](articles/3f6acc9a.json)
+
+[Extended Data](ext_articles/3f6acc9a.ext.json)
 
 ---
 
@@ -2129,47 +2167,5 @@ The body of the student has been recovered by the residents of the area and plac
 [Data](articles/835d616f.json)
 
 [Extended Data](ext_articles/835d616f.ext.json)
-
----
-
-### Sri Lanka opposition leader questions visa fee hike
-
-*2024-04-19 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-leader-questions-visa-fee-hike-159352/) · `en`
-
-ECONOMYNEXT — Sri Lanka opposition leader Sajith Premadasa has questioned a decision to increase tourist visa fees, claiming that the nearly 50-percent fee hike could jeopardise the island nation’s booming tourism industry.
-
-“The tourism industry is moving forward gradually. A large number of tourists have started to visit our country. At such a time, visa fees on tourists have suddenly been increased,” Premadasa said speaking at an event.
-
-The increase in the visa fee could bring the improving tourism sector to a standstill, he warned.
-
-Premadasa also claimed that Russia’s Red Wings airline, which had been sending charter flights carrying up to 800 tourists a week, have stopped flying to Sri Lanka citing the visa fee hike as one reason.
-
-“When this decision was made, did the government not do a scientific analysis?” he said.
-
-...
-
-[Data](articles/9a5dae23.json)
-
-[Extended Data](ext_articles/9a5dae23.ext.json)
-
----
-
-### Sri Lanka participates in Global Sovereign Debt Roundtable
-
-*2024-04-19 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98722/sri-lanka-participates-in-global-sovereign-debt-roundtable) · `en`
-
-Sri Lanka has participated in the Global Sovereign Debt Roundtable (GSDR) in Washington DC, which brings together debtor countries and creditors, in a bid to build a greater common understanding among key stakeholders on debt sustainability, debt restructuring challenges and ways to address them.
-
-Finance State Minister Shehan Semasinghe and Central Bank Governor Dr. Nandalal Weerasinghe attended the roundtable, an initiative led by the International Monetary Fund (IMF), the World Bank and G20 countries.
-
-The participants have reviewed progress on the work to improve debt restructuring processes and timelines, and to help address debt vulnerabilities. They also discussed priority areas for the work going forward.
-
-At the end of the meeting, the IMF Managing Director Kristalina Georgieva, World Bank Group President Ajay Banga, and Finance Minister of Brazil Fernando Haddad, co-chairs of the GSDR, issued the GSDR 2nd Cochairs Progress Report.
-
-...
-
-[Data](articles/a80bc485.json)
-
-[Extended Data](ext_articles/a80bc485.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 13:34:12**
+As of **2024-04-20 13:52:27**
 
 ## Newspaper Stats
 
-*Scraped **19,899** Articles*
+*Scraped **19,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,651
 tamilmirrorlk | 2,296
-adaderanalk | 2,383
+adaderanalk | 2,384
 virakesarilk | 2,978
 dailymirrorlk | 3,098
 adaderanasinhalalk | 3,230
@@ -26,35 +26,59 @@ adaderanasinhalalk | 3,230
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,896 (100.0%) of 19,899 articles have been extended.
+19,899 (100.0%) of 19,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### පාස්කු ප්‍රහාරය ගැන මෙතෙක් නොකී කතාව
+### Woman riding motorcycle dies after handbag gets stuck on lorry
+
+*2024-04-20 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98740/woman-riding-motorcycle-dies-after-handbag-gets-stuck-on-lorry) · `en`
+
+A woman who was traveling on a motorcycle has been killed in an accident that occurred after her handbag was caught on the body of a lorry passing by.
+
+The accident has taken place in the Wathupitiwala area of Nittambuwa last morning (19).
+
+Police said that the woman had fallen down from the motorcycle when her handbag got stuck in the body of the lorry and was killed after being run over by the same vehicle.
+
+The driver of the lorry has been arrested in connection with the accident.
+
+◼️
+
+[Data](articles/569fb29a.json)
+
+---
+
+### The story so far nominated about the Passover attack
 
 *2024-04-20 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195807) · `si`
 
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට තමන් ලබාදුන්, මෙතෙක් හෙළිදරව් නොවූ තොරතුරු හා මූලාශ්‍ර පිළිබඳ සිරිල් ගාමිණි පියතුමන් අද (20) මාධ්‍යයට අනාවරණය කළේය.
+Cyril Gamini revealed to the media that he had not been informed about the Easter attack by the Criminal Investigation Department. He cited an interview with a former police officer on YouTube. Gamini questioned the IP address's connection to the Saharan and the misleading of the Vavuniya incident, which led to the deaths of two police officers and their associates on November 30, 2018.
 
-හිටපු පොලිස් නිලධාරියකු යුටියුබ් නාලිකාවකට ලබාදුන් බව කියන සම්මුඛ සාකච්ඡාවක්ද උපුටා දක්වමින් පියතුමන් මෙම කරුණු ප්‍රකාශ කර තිබුණි.
+🟩
 
-පාස්කු ඉරුදින ප්‍රහාරයට අදාළව ප්‍රකාශ ලබාගැනීම සඳහා “ඥානාර්ථ ප්‍රදීපය“ කතෝලික පුවත්පතේ ප්‍රධාන කතෘ සිරිල් ගාමිණි පියතුමන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත ඊයේ (19) කැඳවීය.
+Cyril Gamini, who had not been revealed to the Criminal Investigation Department of the Easter attack, revealed to the media today (20).
 
-එහිදී පැය 4කට ආසන්න කාලයක් සිරිල් ගාමිණි පියතුමන් ප්‍රකාශ ලබාදී පිටව ගියේය.
+The Father had quoted an interview that a former police officer had given to a Yutubube channel.
 
-ඒ අනුව අදාළ කරුණු 8 පිළිබඳ මාධ්‍ය දැනුවත් කිරීම සඳහා සිරිල් ගාමිණි පියතුමන් අද ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+Cyril Gamini summoned the 'Gnanarti Pradeepati' to obtain statements regarding the Easter attack on the Sunday attack.
 
-"පළවෙනි එක...  2018 නොවැම්බර් 30 වනදා වව්නතිව් හිදී පොලිස් නිලධාරීන් දෙදෙනෙකු ඝාතනය වීම සහ ඒ සම්බන්ධ කරුණු."
+Nearly 4 hours, Cyril Gamini went out and left.
 
-"දෙවෙනි එක... සහරාන් සමග සමීප සම්බන්ධතාවයක් පවත්වා ඇති බවට හෙළිකරගෙන ඇති IP ලිපිනය භාවිත කළේ කවුරුන්ද කියන ප්‍රශ්නය."
+Fr.
 
-"තුන්වෙනි එක...  වව්නතිව් සිද්ධිය නොමග යවන ආකාරයට අසත්‍ය වාර්තා ඉදිරිපත් කිරීමේ සිද්ධිය."
+"First. Two police officers killed and associated with two police officers in Vavuniya on November 30, 2018. "
+
+"Second.. The question used by the IP address that has been used to have a close relationship with Saharan. "
+
+"Third One.. The event of misleading the Vavuniya incident. "
 
 ◼️
 
 [Data](articles/62e13c34.json)
+
+[Extended Data](ext_articles/62e13c34.ext.json)
 
 ---
 
@@ -74,6 +98,8 @@ Additionally, he noted that importing vehicles that are seven years of age or ol
 
 [Data](articles/b9a19af9.json)
 
+[Extended Data](ext_articles/b9a19af9.ext.json)
+
 ---
 
 ### WHO prequalifies new oral simplified vaccine for cholera
@@ -89,6 +115,8 @@ WHO prequalification list already includes Euvichol and Euvichol-Plus inactivate
 ...
 
 [Data](articles/98b7db76.json)
+
+[Extended Data](ext_articles/98b7db76.ext.json)
 
 ---
 
@@ -2077,27 +2105,5 @@ In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all
 [Data](articles/8885d06b.json)
 
 [Extended Data](ext_articles/8885d06b.ext.json)
-
----
-
-### Asian stocks fall as concern over Middle East spurs selling
-
-*2024-04-19 17:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98729/asian-stocks-fall-as-concern-over-middle-east-spurs-selling) · `en`
-
-Japan’s benchmark Nikkei Stock Average on Friday morning fell as much as 1,346.7 yen, or 3.5%, from the previous day’s close as market players reacted to reports of Israel striking Iran with missiles.
-
-Nikkei stock average closed at 37,068.35 yen, down 2.66% from the previous day. South Korea’s benchmark KOSPI closed down 1.6%, after falling as much as 3.1% in midday trading. Samsung Electronics dropped 2.5%, while SK Hynix plunged 4.9%.
-
-The Hong Kong-based Hang Seng Index closed 0.99% lower at 16,244.14, while CSI 300, which tracks the largest names listed in Shenzhen and Shanghai, China, dropped 0.70% for the day to 3,541.66 on Friday.
-
-The downtrend began overnight with high-tech stocks in the U.S. Selling escalated in Tokyo as investors heeded a U.S. media report that Israeli missiles had hit a site in Iran.
-
-ABC News reported that Israel had attacked Iran, citing a senior U.S. official. CBS News said its sources did not disclose the location or extent of the Israeli strikes.
-
-...
-
-[Data](articles/c1a339b4.json)
-
-[Extended Data](ext_articles/c1a339b4.ext.json)
 
 ---

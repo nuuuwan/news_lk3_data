@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 19:18:26**
+As of **2024-04-20 19:33:45**
 
 ## Newspaper Stats
 
-*Scraped **19,929** Articles*
+*Scraped **19,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,068
 dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
-tamilmirrorlk | 2,296
+tamilmirrorlk | 2,297
 adaderanalk | 2,390
 virakesarilk | 2,979
 dailymirrorlk | 3,108
@@ -26,23 +26,47 @@ adaderanasinhalalk | 3,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,928 (100.0%) of 19,929 articles have been extended.
+19,929 (100.0%) of 19,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ශ්‍රී පාද ආරක්ෂිත වැටෙන් පැන්න පුද්ගලයා සොයා මෙහෙයුම්
+### ’மனைவியின் உணவில் கழிவறை திரவம் ’
+
+*2024-04-20 19:10:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மனைவியின்-உணவில்-கழிவறை-திரவம்/50-336112) · `ta`
+
+மனைவிக்கு வழங்கும் உணவில் கழிவறை சுத்தம் செய்யும் திரவம் கலந்து கொடுக்கப்பட்டுள்ளதாக இம்ரான் கான் பரபரப்பு குற்றச்சாட்டை முன்வைத்துள்ளார்
+
+பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான் கான், பல்வேறு ஊழல் வழக்குகளில் கைது செய்யப்பட்டு அடியாலா சிறையில் அடைக்கப்பட்டுள்ளார். இதனிடையே இஸ்லாமிய நடைமுறைக்கு எதிரான திருமணம் செய்தது தொடர்பான வழக்கில் இம்ரான் கான் மற்றும் அவரது மனைவி புஸ்ரா பீவிக்கு தலா 7 ஆண்டுகள் சிறை தண்டனை விதித்து பாகிஸ்தான் நீதிமன்றம் தீர்ப்பு வழங்கியது.
+
+இதையடுத்து புஸ்ரா பீவி, இஸ்லாமாபாத்தில் உள்ள பாணி காலா இல்லத்தில் சிறைவைக்கப்பட்டுள்ளார். இந்த நிலையில் தனது மனைவி புஸ்ரா பீவிக்கு, உணவில் கழிவறை சுத்தம் செய்யும் திரவம் கலந்து கொடுக்கப்பட்டுள்ளதாக இம்ரான் கான் பரபரப்பு குற்றச்சாட்டை முன்வைத்துள்ளார்.
+
+தனது மனைவிக்கு கொடுக்கப்படும் விஷம் கலந்த உணவால் அவர் தீவிர வயிற்று வலியால் அவதிப்பட்டு வருவதாகவும், இதனால் அவரது உடல்நிலை நலிவடைந்து வருவதாகவும் இம்ரான் கான் குற்றம்சாட்டியுள்ளார். ஊழல் வழக்கு தொடர்பான விசாரணைக்கு ஆஜரானபோது இந்த குற்றச்சாட்டுகளை இம்ரான் கான் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9afe3802.json)
+
+---
+
+### Operations operating in the Sri Pada safety
 
 *2024-04-20 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195817) · `si`
 
-ශ්‍රී පාද වන්දනාවේ පැමිණි තරුණයෙක් ශ්‍රී පාද උඩ මළුවේ රත්නපුර මාර්ගයේදී ආරක්ෂිත වැටෙන් පහළට පැන තිබේ.
+A young man escaped to safety at Sri Pada, prompting the Laxapana Army Camp to launch operations on Ratnapura Road today.
 
-තරුණයා සොයා මේ වනවිට ලක්ෂපාන යුද හමුදා කඳවුරේ භට පිරිස් අද (20) උදෑසන සිට ශ්‍රී පාද උඩමළුව රක්ෂිතයේ මෙහෙයුමක් දියත් කර තිබේ.
+🟩
+
+A young man at Sri Pada pilgrimage has escaped to the safe fence on the Ratnapura Road.
+
+Troops of the Laxapana Army Camp have been launched today (20) this morning.
 
 ◼️
 
 [Data](articles/80a3c5c1.json)
+
+[Extended Data](ext_articles/80a3c5c1.ext.json)
 
 ---
 
@@ -2141,21 +2165,5 @@ That, and humanity’s inhumanity to humankind, combined to make the Easter Sund
 [Data](articles/ab8f2ac9.json)
 
 [Extended Data](ext_articles/ab8f2ac9.ext.json)
-
----
-
-### Launch of ‘Worky’ – A Revolutionary Platform Transforming Sri Lanka’s Job Market
-
-*2024-04-19 23:04:00* · [`islandlk`](http://island.lk/launch-of-worky-a-revolutionary-platform-transforming-sri-lankas-job-market/) · `en`
-
-In a significant boost to Sri Lanka’s employment landscape, especially during its challenging economic times, a groundbreaking platform named ‘Worky’ was launched on March 20, 2024. Designed to bridge the gap between job seekers, part-time workers, students, and service seekers, ‘Worky’ is poised to revolutionize the way people find work and hire for services in Sri Lanka.
-
-At its core, ‘Worky’ is a location-based service platform that allows prospective job seekers and part-time workers, including students, to register free of charge. This innovative app enables service seekers to log in and locate the nearest available worker, facilitating immediate bookings for a wide array of services. From traditional roles like plumbers and carpenters to new-age job functions such as dog walking and pet grooming, ‘Worky’ caters to a diverse range of employment opportunities, directly addressing the varied needs of Sri Lankan households.
-
-...
-
-[Data](articles/d31a0aaf.json)
-
-[Extended Data](ext_articles/d31a0aaf.ext.json)
 
 ---

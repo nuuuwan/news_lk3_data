@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 12:04:40**
+As of **2024-04-20 12:18:18**
 
 ## Newspaper Stats
 
-*Scraped **19,889** Articles*
+*Scraped **19,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,977
 dailymirrorlk | 3,095
-adaderanasinhalalk | 3,226
+adaderanasinhalalk | 3,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,885 (100.0%) of 19,889 articles have been extended.
+19,889 (100.0%) of 19,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### අයහපත් කාලගුණයෙන් පාකිස්තානයට දැඩි බලපෑම්
+
+*2024-04-20 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195804) · `si`
+
+පාකිස්තානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයන් සංඛ්‍යාව 87ක් දක්වා ඉහළ ගොස් තිබේ.
+
+දින කිහිපයක් පුරා ඇදහැලන අධික වර්ෂාව හේතුවෙන් පාකිස්තානයේ ප්‍රදේශ රැසකට ගංවතුර තත්ත්වයක් හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අයහපත් කාලගුණයෙන් තවත් පුද්ගලයින් 82 දෙනෙකු තුවාල ලබා ඇති බවද එරට ජාතික ආපදා කළමනාකරණ අධිකාරිය සඳහන් කර ඇත.
+
+නිවාස 2,715ක් අර්ධ හෝ පූර්ණ හානියට ලක්වී ඇති අතර පවතින අධික වර්ෂාව තවත් දින කිහිපයක් බලාපොරොත්තු විය හැකි බව එරට කාලගුණ අංශ අනාවරණය කර තිබේ.
+
+◼️
+
+[Data](articles/b6bdf684.json)
+
+---
 
 ### Man sets himself on fire near courthouse where Trump is on trial
 
@@ -48,21 +66,29 @@ After a minute or two, dozens of police officers arrived, running around and cli
 
 [Data](articles/c73c4868.json)
 
+[Extended Data](ext_articles/c73c4868.ext.json)
+
 ---
 
-### ලොරි රථයකට යටවී කාන්තාවක් මරුට
+### Woman dies after falling into a lorry
 
 *2024-04-20 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195803) · `si`
 
-නිට්ටඹුව, වතුපිටිවල ප්‍රදේශයේ‍දී යතුරුපැදියක ගමන් කළ කාන්තාවකගේ අත්බෑගයක් ලොරි රථයක බඳේ පැටලීමෙන් සිදුවු අනතුරකින් එම කාන්තාව මියගොස් තිබේ.
+A 54-year-old woman died after being hit by a lorry in Wathupitiwala, Nittambuwa.
 
-අත්බෑගය ලොරි රථයේ බඳෙහි පැටලීමත් සමග යතුරුපැදියෙන් ඇද වැටුණු එම කාන්තාව එම ලොරි රථයටම යටවීමෙන් මියගොස් ඇති බව පොලීසිය පැවසීය.
+🟩
 
-ඊයේ (19) පෙරවරුවේ සිදු වූ මෙම අනතුරින් මියගොස් ඇත්තේ 54 හැවිරිදි කාන්තාවකි.
+The woman was killed after a handplessive of a woman who was traveling on a motorcycle in the Wathupitiwala area in Nittambuwa.
+
+The woman was killed by the lorry, which fell into the lorry with the baratse of the lorry.
+
+The victim was a 54 year old woman in the accident yesterday.
 
 ◼️
 
 [Data](articles/dab9c5f4.json)
+
+[Extended Data](ext_articles/dab9c5f4.ext.json)
 
 ---
 
@@ -426,6 +452,8 @@ State Finance Minister Semasinghe met William Roos, Co-Chairman Paris Club and A
 
 [Data](articles/cdeda63c.json)
 
+[Extended Data](ext_articles/cdeda63c.ext.json)
+
 ---
 
 ### Overcoming Old and New Challenges for an Inclusive Democracy
@@ -443,6 +471,8 @@ The scheme allowed individuals and corporate groups to donate anonymously, any a
 ...
 
 [Data](articles/2b021e33.json)
+
+[Extended Data](ext_articles/2b021e33.ext.json)
 
 ---
 
@@ -2075,29 +2105,5 @@ The department cautioned that heat cramps and heat exhaustion are possible while
 [Data](articles/908ec704.json)
 
 [Extended Data](ext_articles/908ec704.ext.json)
-
----
-
-### Ottawa mass killing suspect not seeking bail, says lawyer
-
-*2024-04-19 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ottawa-mass-killing-suspect-not-seeking-bail-says-lawyer/108-281003) · `en`
-
-OTTAWA - The 19-year-old Sri Lankan national charged in the mass killing of a newcomer family in Ottawa has no plan to seek bail, his lawyer says.
-
-Febrio De-Zoysa was arrested and charged in early March with six counts of first-degree murder and one count of attempted murder, after police found the family dead in a townhouse in the suburb of Barrhaven.
-
-He remains in custody, and his lawyer Ewan Lyttle told The Canadian Press “there is presently no plan to apply for bail.”
-
-De-Zoysa, who was studying in Canada as an international student, is set to return to court next week where lawyers expect to set dates for a preliminary inquiry in his case.
-
-Investigators allege the young man is responsible for the deaths of 35-year-old Darshani Ekanayake and her four children, who were between the ages of two months and seven years old, as well as a family friend.
-
-They believe the family was attacked with a knife or “other edged weapon.”
-
-...
-
-[Data](articles/f5afd34f.json)
-
-[Extended Data](ext_articles/f5afd34f.ext.json)
 
 ---

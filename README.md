@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 14:18:20**
+As of **2024-04-20 14:33:44**
 
 ## Newspaper Stats
 
-*Scraped **19,902** Articles*
+*Scraped **19,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,099
 economynextcom | 1,139
-adalk | 1,651
+adalk | 1,652
 tamilmirrorlk | 2,296
 adaderanalk | 2,384
 virakesarilk | 2,978
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,901 (100.0%) of 19,902 articles have been extended.
+19,902 (100.0%) of 19,903 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,8 @@ The 28-year-old driver is a resident of Nuwara Eliya and the woman is a 35 year-
 ◼️
 
 [Data](articles/11e89400.json)
+
+[Extended Data](ext_articles/11e89400.ext.json)
 
 ---
 
@@ -833,6 +835,26 @@ The bondholders held talks with various political leaders including from the opp
 [Data](articles/f7c64978.json)
 
 [Extended Data](ext_articles/f7c64978.ext.json)
+
+---
+
+### ලෝක විවාහක රූ රැජින තරගාවලියට ලංකාවෙන තුෂාරි යයි
+
+*2024-04-20 08:31:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-තරගාවලියට-ලංකාවෙන-තුෂාරි-යයි/11-409166) · `si`
+
+ඇමෙරිකාවේ පැවැත්වෙන ලෝක විවාහක රූ රැජින - 2024 ( Queen of the World - 2024 ) තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වීම සදහා තුෂාරි ජයකොඩි මහත්මිය 04/19 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියාය .
+
+මෙම තරගාවලිය ඇමෙරිකාවේ නිව්යෝර්ක් නුවර එළඹෙන 04/21 දින සිට 04/25 දින දක්වා ලෝකයේ රටවල් 33 ක විවාහක රූ රැජිනියන්ගේ සහභාගීත්වයෙන් පැවැත්වීමට නියමිතය .
+
+තුෂාරි  ජයකොඩි මහත්මිය පසුගිය දා පැවති ශ්‍රී ලංකා විවාහක රූ රැජින තරගාවලියේ වයස අවුරුදු 50 ට වැඩි කාණ්ඩයේ තරගයෙන් ජයග්‍රහණය හිමි  කරගෙන  මෙම තරගාවලියට ඉදිරිපත් වීම සදහා සුදුසුකම් ලැබුවාය .
+
+තුෂාරි ජයකොඩි මහත්මිය මීගමුව ප්‍රදේශයේ පදිංචි තිදරු මවක වන අතර ඇය මැලේසියානු ගුවන් සේවයේ සේවිකාවක ලෙස සේවය කරමින් සිටින්නියකි .
+
+ඇය මෙම තරගාවලියට සහභාගී වීම සදහා 04/19 දින පස්වරු 08.10 ට කටුනායක ගුවන් තොටුපොළෙන් දෝහා බලා පිටත්ව යන කටාර් ගුවන් සේවයේ කිව්.ආර්.- 655 දරන ගුවන් යානයට ගුවන් තොටුපොළ වෙත පැමිණ සිටියාය .
+
+◼️
+
+[Data](articles/b6ecfdb9.json)
 
 ---
 
@@ -2089,33 +2111,5 @@ The final rites of the late former Deputy Minister Palitha Thevarapperuma were h
 [Data](articles/2b9402c9.json)
 
 [Extended Data](ext_articles/2b9402c9.ext.json)
-
----
-
-### Don't get caught by liars - don't send SMS by mail
-
-*2024-04-19 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195790) · `si`
-
-PostSPS denies sending SMS about parcel receipts. Mr. Phmmara claims the public is deceived by a fraudulent website and false mobile numbers. The Sri Lanka Postal Department's official website is misleading. SMS calls from the Postal Department will not be made. They ask for credit card data or SMS for verification. Contact the Information Technology Division for more information.
-
-🟩
-
-PostSPS Message has not sent any SMS message to customers to inform a local or foreign parcel receipt. R. W. M. R. Says Mr. Phmmara.
-
-However, he said that he was revealed that the public deceiguring the public with a fraudulently prepared website and strategically developed false mobile numbers.
-
-It is said that the official website of the Postal Department of the Sri Lanka Postal Department is also acting acted in misconception using the Sri Lanka Post, Department of Postal Department of Sri Lanka, SL Post, Sri Lanka Post.
-
-The SMS calls of the Department of Postal Department will not be conducted by the SMS.
-
-The Postal Department has requested the public to provide their credit card data or a SMS for a SMS to a SMS or other way.
-
-Information Technology Division - 0112 542004/0112 335978/0112 387229/0112 330072
-
-◼️
-
-[Data](articles/a693313c.json)
-
-[Extended Data](ext_articles/a693313c.ext.json)
 
 ---

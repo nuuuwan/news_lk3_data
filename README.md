@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 09:33:49**
+As of **2024-04-20 09:53:07**
 
 ## Newspaper Stats
 
-*Scraped **19,867** Articles*
+*Scraped **19,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,380
 virakesarilk | 2,977
 dailymirrorlk | 3,083
-adaderanasinhalalk | 3,222
+adaderanasinhalalk | 3,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,864 (100.0%) of 19,867 articles have been extended.
+19,867 (100.0%) of 19,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### මත්ද්‍රව්‍ය සමග විදෙස් ජාතික කාන්තාවක් අත්අඩංගුවට
+
+*2024-04-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195800) · `si`
+
+නුවරඑළිය ටොප්පාස් ප්‍රදේශයේදී මත්ද්‍රව්‍ය සමඟ විදේශ ජාතික කාන්තාවක් සහ තවත් සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ නුවරඑළිය කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරින් විසින් වෑන් රථයක් පරීක්ෂාවට ලක් කිරිමේදී එහි තිබී කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 19කට ආසන්න ප්‍රමාණයක් සහ හෑෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 03 කට ආසන්න ප්‍රමාණයක් සොයාගත් බවය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 28 හැවිරිදි නුවරඑළිය ප්‍රදේශයේ පදිංචිකරුවෙක් සහ 35 හැවිරිදි එංගලන්ත ජාතික කාන්තාවක් බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/891a999e.json)
+
+---
 
 ### China writes off interest-free loans given to Zimbabwe
 
@@ -47,6 +63,8 @@ Since the fall of long-time ruler Robert Mugabe six years ago, Zimbabwe has been
 ...
 
 [Data](articles/2406fd4b.json)
+
+[Extended Data](ext_articles/2406fd4b.ext.json)
 
 ---
 
@@ -180,19 +198,25 @@ Due to the case, a large number of police were found in the area. When the man w
 
 ---
 
-### පාසල් සිසුන්ට ආහාර දෙන්න ලෝක ආහාර සංවිධානයෙන් ලොකු තෑග්ගක්
+### Give school children a big gift from the World Food Organization
 
 *2024-04-20 08:07:33* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-ආහාර-දෙන්න-ලෝක-ආහාර-සංවිධානයෙන්-ලොකු-තෑග්ගක්/11-409164) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත ආරම්භ කළ පාසල් සිසුන්ට පෝෂ්‍යදායි ආහාර වේලක් ලබා දීමේ වැඩසටහන වෙනුවෙන් ලෝක ආහාර වැඩසටහන මගින් ප්‍රදානය කළ සබලකරණය කරන ලද සහල් පාසල් වෙත නිකුත් කිරීම වේයන්ගොඩ ආහාර ගබඩා පරිශ්‍රයේදී ඊයේ (19) ආරම්භ කෙරිණි.
+The World Food Program distributed 735 metric tons of fortified rice to school children, aiming to reduce iron deficiency. This initiative, under President Ranil Wickremesinghe's instructions, is supervised by Mr. Rizlan. Additionally, 378.835 metric tons of sunflower oil are to be distributed. The Ministry of Education is providing major meals at schools, with nutritionists' recommendations. This program, themed "Healthy acts of a healthy child," aims to address nutritional issues, improve daily attendance, and enhance educational and health habits.
 
-පාසල් දරුවන් අතර යකඩ ඌණතාවය අවම කිරීම ඉලක්ක කර ගනිමින් සබලකරණය කරන ලද සහල් (Fortified Rice) පාසල් ආහාර වේල සඳහා ලබාදීම සිදු කරනු ලබන අතර ජනාධිපති ලේකම් කාර්යාලය යටතේ ඇති ලෝක ආහාර වැඩසටහන සඳහා වූ හවුල්කාරීත්ව ලේකම් කාර්යාලයේ අධ්‍යක්ෂ ජනරාල් එම්.එච්.ඒ.එම්.රිෆ්ලාන් මහතාගේ අධීක්ෂණයෙන් මෙම බෙදාහැරීමේ කටයුතු සිදු කෙරේ.
+🟩
 
-ඒ අනුව පළමු අදියර යටතේ පළාත් මට්ටමින් සහල් මෙට්‍රික් ටොන් 735ක් නිකුත් කිරීම අද ආරම්භ වූ අතර එය අද (20) දිනයේද ක්‍රියාත්මකය. අදාළ ප්‍රදේශයේ පළාත් අධ්‍යාපන දෙපාර්තමේන්තුවේ නිලධාරීන් හා මහජන සෞඛ්‍ය පරීක්ෂණ නිලධාරීන්ගේ නිරීක්ෂණය යටතේ මෙම සහල් තොගය පාසල් වෙත භාරදීම සිදු කරයි.
+The World Food Program was released to the enabling rice to be released by the World Food Program for school children who started a nutritional meal for the program of the World Food Program on the instructions of President Ranil Wickremesinghe.
+
+Skipped Rice (Fortified Rice) will be given to school children to reduce iron deficiency among school children and the Director General of the Bulachitectural Secretariat under the Presidential Secretariat.The distribution is conducted by Mr. Rizlan's supervision.
+
+Accordingly, 735 metric tons of rice at the first phase commenced today and operates today (20). The rice is handed over to schools with the observation of the officers of the Department of Provincial Education and Public Health Testing Officers in the area.
 
 ...
 
 [Data](articles/cb383a10.json)
+
+[Extended Data](ext_articles/cb383a10.ext.json)
 
 ---
 
@@ -352,19 +376,25 @@ Youth Training Scheme is expected to improve comprehensive training and morale f
 
 ---
 
-### செஹான் சேமசிங்க - மார்ட்டின் ரைசர் சந்திப்பு
+### Sehan Semasinghe - Martin Raiser Meeting
 
 *2024-04-20 00:40:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செஹான்-சேமசிங்க-மார்ட்டின்-ரைசர்-சந்திப்பு/175-336111) · `ta`
 
-உலக வங்கியின் தெற்காசிய பிராந்தியத்துக்கான துணைத் தலைவர் மார்ட்டின் ரைசர் மற்றும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க ஆகியோருக்கு இடையே கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+Martin Raiser met with Sehan Semasinghe, World Bank VP, at the Annual Roundtable Conference in Washington DC. They discussed redemption and reforms for sustainable growth across sectors, including finance and private investment.
 
-வொசிங்டன் டிசியில் இடம்பெறும் சர்வதேச நாணய நிதியம் மற்றும் உலக வங்கி என்பவற்றின் தலைமையிலான வருடாந்த வட்டமேசை மாநாட்டின் ஒரு பகுதியாக இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+🟩
 
-நிதித்துறை, தனியார் முதலீடு உள்ளிட்ட சகல துறைகளுக்குமான மீட்சி மற்றும் நிலையான வளர்ச்சிக்கான சீர்திருத்தங்கள் என்பன தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+A discussion was held between Martin Raiser and Finance Minister Sehan Semasinghe, the Vice President of the World Bank.
+
+The meeting is part of the Annual Roundtable Conference, headed by the International Monetary Fund and the World Bank in Washington TC.
+
+Redemption and Reforms for Sustainable Growth for all sectors including financial sector and private investment have been discussed at this time.. (A)
 
 ◼️
 
 [Data](articles/b238adbe.json)
+
+[Extended Data](ext_articles/b238adbe.ext.json)
 
 ---
 
@@ -2133,23 +2163,5 @@ The funeral of the late Deputy Minister Palitha Thewarapperuma has commenced its
 [Data](articles/af3fb043.json)
 
 [Extended Data](ext_articles/af3fb043.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-19 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181458) · `ta`
-
-The US dollar's purchasing price was Rs 296.8792, and sales price Rs 306.5961, as per the Central Bank's rate on April 19.
-
-🟩
-
-The US dollar purchasing price was Rs 296.8792, based on the currency exchange rate released by the Central Bank on Friday (April 19) and the sales price were Rs 306.5961.
-
-◼️
-
-[Data](articles/ec4f72de.json)
-
-[Extended Data](ext_articles/ec4f72de.ext.json)
 
 ---

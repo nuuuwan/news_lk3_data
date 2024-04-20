@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 20:18:25**
+As of **2024-04-20 20:33:42**
 
 ## Newspaper Stats
 
-*Scraped **19,934** Articles*
+*Scraped **19,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,139
 adalk | 1,654
 tamilmirrorlk | 2,300
 adaderanalk | 2,390
-virakesarilk | 2,979
+virakesarilk | 2,981
 dailymirrorlk | 3,108
 adaderanasinhalalk | 3,239
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,933 (100.0%) of 19,934 articles have been extended.
+19,934 (100.0%) of 19,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,21 +118,27 @@ The public has said that the incident may have occurred due to the prevailing he
 
 ---
 
-### வெயிலில் மயங்கி விழுந்து ஒருவர் மரணம்
+### Death in the sun
 
 *2024-04-20 19:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வெயிலில்-மயங்கி-விழுந்து-ஒருவர்-மரணம்/75-336113) · `ta`
 
-திருகோணமலை மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட பெரியவெளி குளத்து வயலில் வேலை செய்து கொண்டிருந்த ஒருவர் மயங்கி விழுந்து உயிரிழந்த சம்பவம் சனிக்கிழமை (20) மதியம் இடம்பெற்றுள்ளது.
+A man, Suriyamoorthy Sudhakaran, 52, died in a large space pond in Muttur, Trincomalee, on Saturday. His body is at Muttur Hospital, awaiting anatomical examination at Trincomalee Hospital. The incident may be linked to the heat, suggesting avoiding sun exposure during peak hours.
 
-மூதூர் - பாலத்தடிச்சேனை கிராமத்தில் வசித்துவரும் 3 பிள்ளைகளின் தந்தையான சூரியமூர்த்தி சுதாகரன் (வயது 52) என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக தெரிய வருகின்றது.
+🟩
 
-பெரியவெளி குளத்து வயலில் சனிக்கிழமை  (20) வயல் வேலையில் ஈடுபட்டுக் கொண்டிருந்தபோது மதியமளவில் மயக்கமுற்று விழுந்ததாகவும் உடனடியாக மூதூர் வைத்தியசாலைக்கு கொண்டு செல்லும் வழியில் உயிரிழந்துள்ளதாகவும் தெரிய வருகின்றது. உயிரிழந்தவரின் சடலம் மூதூர் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் உடற்கூற்று பரிசோதனைக்காக திருகோணமலை வைத்தியசாலைக்கு அனுப்பிவைக்கப்படவுள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+The incident took place on Saturday afternoon (20) after the death of a man who was working in a large space pond in the Muttur police division of Trincomalee.
 
-தற்போது நாட்டில் நிலவும் அதிக வெப்பம் காரணமாக இச்சம்பவம் இடம்பெற்றிருக்கலாம் எனவும், வெயிலில் நின்று வயல் வேலை செய்கின்றவர்கள் வெயில் உச்சமான நேரங்களில் வயல் வேலை செய்வதன் தவிர்த்துக் கொள்வதன் மூலம் தங்களை பாதுகாத்துக் கொள்ள முடியும் எனவும் பொதுமக்கள் தெரிவிக்கின்றனர்.
+Suriyamoorthy Sudhakaran (age 52), father of 3 children living in the village of Muttur - Palatadichenai, died.
+
+It was reported that the field was in the field on Saturday (20) in the field of a large space pond.. The body of the deceased has been placed at the Muttur Hospital and is to be sent to the Trincomalee Hospital for anatomical examination, hospital sources said.
+
+The public has said that the incident may have occurred due to the prevailing heat in the country and that those who stand in the sun can protect themselves by avoiding working at the peak of the sun.
 
 ◼️
 
 [Data](articles/ef1fe93a.json)
+
+[Extended Data](ext_articles/ef1fe93a.ext.json)
 
 ---
 
@@ -263,6 +269,18 @@ The airline asserted that it would maintain this routing and the earlier departu
 [Data](articles/ec411bd7.json)
 
 [Extended Data](ext_articles/ec411bd7.ext.json)
+
+---
+
+### விஷாலின் 'ரத்னம்' 60 : 40
+
+*2024-04-20 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181533) · `ta`
+
+தமிழ் திரையுலகில் இயக்குநர் ஹரிக்கு என தனியாக ரசிகர் வட்டம் உண்டு. இவர் இயக்கிய பதினைந்திற்கும் மேற்பட்ட படங்களில் திரைக்கதை என்பது பரபரப்பாகவும், விறுவிறுப்பாகவும் இருக்கும். இதனை தன்னுடைய முத்திரையாக பதித்து தனி பாணியில் படங்களை இயக்கி வரும் இவரது இயக்கத்தில் உருவாகி இருக்கும் 'ரத்னம்' எனும் திரைப்படம், '60 சதவீதம் எக்சனும் 40 சதவீதம் சென்டிமென்ட்டும் கலந்து இருக்கும்' என இயக்குநர் ஹரி தெரிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/01acd5d3.json)
 
 ---
 
@@ -485,6 +503,26 @@ In the interrogation of the two, they were two Lieutenant Commanders in the Navy
 [Data](articles/01773e07.json)
 
 [Extended Data](ext_articles/01773e07.ext.json)
+
+---
+
+### அமெரிக்க குடிமகனான இளவரசர் ஹாரி
+
+*2024-04-20 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181521) · `ta`
+
+பிரித்தானிய சாம்ராஜ்யத்தின் அரியணையில் ஐந்தாவது இடத்தில் உள்ள இளவரசர் ஹாரி தன்னை ஒரு அமெரிக்க குடிமகன் எனக் கூறியுள்ளார்.
+
+பிரித்தானிய மன்னரான சார்ல்ஸின் மகனான ஹாரி, 2020 ஆம் ஆண்டு இங்கிலாந்திருலிருந்து தனது குடும்பத்துடன் வெளியேறினார்.
+
+தற்போது, அமெரிக்காவில்  கலிபோர்னியாவில் மனைவி மேகன் மார்க்கல், குழந்தைகள் ஆர்ச்சி, லில்லிபெட் ஆகியோருடன் வசித்து வருகிறார்.
+
+2019 இல் அமெரிக்காவில், `Travalyst' என்றொரு பயணம் சார்ந்த நிறுவனத்தை ஆரம்பித்திருந்தார்.  அந்தச் சமயத்தில், ஹாரி அந்த நிறுவனத்தின் ஆவணங்களில் தனது வசிப்பிடமாகவும், சொந்த நாடாகவும் பிரிட்டனைக் குறிப்பிட்டிருந்தார்
+
+ஹரி தற்போது அந்த நிறுவனத்தின் ஆண்டறிக்கையில், தனது புது நாடாக அமெரிக்காவைக் குறிப்பிட்டிருக்கிறார்.
+
+◼️
+
+[Data](articles/4ea7a913.json)
 
 ---
 
@@ -2165,41 +2203,5 @@ This initiative underscores Seylan Bank’s dedication to supporting the aspirat
 [Data](articles/8826a51f.json)
 
 [Extended Data](ext_articles/8826a51f.ext.json)
-
----
-
-### Hayleys Solar introduces solar hot water systems
-
-*2024-04-19 23:38:26* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-introduces-solar-hot-water-systems/34-760828) · `en`
-
-Hayleys Solar, the pioneering force in Sri Lanka’s solar energy landscape, has unveiled Solar Powered Water Heaters to the local market.
-
-Commenting on the launch, Hayleys Fentons Managing Director Hasith Prematillake states, “We aim to make renewable energy solutions accessible but also rewarding for every Sri Lankan household. With this product offering, we will continue to develop the hot water systems market by offering energy-efficient solutions that leverage the power of the sun.”
-
-The Solar Powered Water Heaters, available in both Pressure and Non-Pressure variants, are a step towards eco-conscious living. These systems come in various tank capacities—100L, 150L, 200L, and 300L—tailored to suit diverse household needs. Crafted with a durable stainless-steel tank and equipped with higher efficiency vacuum tubes that can consecutively retain heat for up to three days.
-
-...
-
-[Data](articles/1ee7924a.json)
-
-[Extended Data](ext_articles/1ee7924a.ext.json)
-
----
-
-### Fortified rice distribution begins to provide nutritious meals to schoolchildren
-
-*2024-04-19 23:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98733/fortified-rice-distribution-begins-to-provide-nutritious-meals-to-schoolchildren) · `en`
-
-The distribution of fortified rice, supplied by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for schoolchildren, commenced today, (19) at the Veyangoda warehouse complex.
-
-In a bid to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
-
-As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20). This rice stock is being delivered to schools under the supervision of officials from the respective Provincial Departments of Education and Public Health Inspectors (PHIs).
-
-...
-
-[Data](articles/e9767e8b.json)
-
-[Extended Data](ext_articles/e9767e8b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 14:03:26**
+As of **2024-04-20 14:18:20**
 
 ## Newspaper Stats
 
-*Scraped **19,901** Articles*
+*Scraped **19,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,44 +19,70 @@ adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,384
 virakesarilk | 2,978
-dailymirrorlk | 3,098
+dailymirrorlk | 3,099
 adaderanasinhalalk | 3,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,900 (100.0%) of 19,901 articles have been extended.
+19,901 (100.0%) of 19,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ඉන්දියාවම කතා වෙන ශ්‍රී ලංකාවේ නාලිනී තිරුචි
+### Nalini Tirui in Sri Lanka, which is the case in India
 
 *2024-04-20 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195808) · `si`
 
-ඉන්දියාවේ සරණාගත කඳවුරක දිවි ගෙවූ ශ්‍රී ලාංකික කාන්තාවක් ඉන්දීය මහමැතිවරණය සඳහා සිය ඡන්දය ප්‍රකාශ කර තිබේ.
+Nalini Tirui, a Sri Lankan refugee born in India, became the first to vote in an Indian election, challenging eligibility. Her parents were Tamil Nadu refugees. The Indian government granted her voting rights, but she faced legal challenges.
 
-ඒ අනුව ඉන්දීය මැතිවරණයක් සඳහා ඡන්දය භාවිත කළ ශ්‍රී ලාංකික සරණාගතයින්ගේ පළමු වැනියා බවට 38 හැවිරිදි කේ.නාලනී පත්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+🟩
 
-1986 වසරේ අප්‍රේල් මස ඉන්දියාවේ, තමිල්නාඩු මණ්ඩපම් හිදී කේ.නාලනී උපත ලබා තිබුණේ ශ්‍රී ලාංකික සරණාගත කඳවුරකය.
+A Sri Lankan woman who lived in a refugee camp in India has voted for the Indian General Election.
 
-ඇයගේ මව්පියන් ශ්‍රී ලංකාවේ සිට සරණාගතයින් ලෙස තමිල්නාඩුවට පැමිණ සිටි ඉන්දීය සම්භවයක් සහිත පුද්ගලයන් ය.
+According to Indian media reports, 38-year-old Kanali has become the first to vote for a Indian election.
 
-නාලිනීගේ පවුලේ පරම්පරා කිහිපයක් වතුකරයේ රැකියා කිරීම සඳහා මීට පෙර ශ්‍රී ලංකාවට සංක්‍රමණය වී තිබුණි.
+In April, 1986, Kanali was born in a Sri Lankan refugee camp.
 
-ඒ අනුව සරණාගත කඳවුරේ රැඳී සිටි පිරිසෙන් 1950 සිට 1987 දක්වා කාලය අතරතුර උපත ලැබූ පිරිස සඳහා
+Her parents are Indian origin from Tamil Nadu as refugees from Sri Lankan Sri Lankan refugees.
 
-ඡන්දය භාවිත කිරීම වෙනුවෙන් අයඳුම් කිරිමේ අවස්ථාව ලබාදීමට ඉන්දීය රජය තීරණ කර තිබුණි.
+Nalini's family had previously migrated to Sri Lanka before Sri Lanka.
 
-කෙසේවෙතත් ඒ සඳහා අවශ්‍ය සුදුසුකම් සැපිරීම වෙනුවෙන් නාලනී 2022 සැප්තැම්බර් මාසයේදී මදුරාසි මහාධිකරණයට ඇයඳුම් කර තිබුණි.
+Accordingly, from 1950 and 1987 from the refugee camp between 1987
 
-එහිදී දිල්ලි රජය ඇය ඉන්දියාවේ උපත ලැබු අයෙකු බැවින් ඡන්ද භාවිත කිරීම සඳහා හැකියාව පවතින බවට සඳහන් කර තිබේ.
+The Indian government has decided to give the application to the application of the election.
+
+However, in September 2022, Nalini had asked for the Madras High Court in September 2022 to meet the necessary qualifications.
+
+The Delhi government is said to be able to use the votes as she was born in India.
+
+Accordingly, Nalini has registered as a voter in the Tiruci Lok Sabha electorate in the Thiruki Lok Sabha electorate and she had won the Madras High Court.
 
 ...
 
 [Data](articles/5eddb47c.json)
+
+[Extended Data](ext_articles/5eddb47c.ext.json)
+
+---
+
+### British woman, Sri Lankan arrested with drugs in Nuwara Eliya
+
+*2024-04-20 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-woman-Sri-Lankan-arrested-with-drugs-in-Nuwara-Eliya/108-281066) · `en`
+
+Nuwara Eliya, April 20 (Daily Mirror)- Two individuals including a British woman were arrested while in possession of Kush and hashish drugs at Toppass, Nuwara Eliya, Police said.
+
+The suspects were arrested by the Nuwara Eliya Crime Investigation Bureau after carrying out a search of the van they were travelling in.
+
+The officials recovered 18 grams and 920 milligrams of Kush in possession of the British woman while 2 grams and 600 milligrams of Hashish in the possession of the Sri Lankan driver of the van.
+
+The 28-year-old driver is a resident of Nuwara Eliya and the woman is a 35 year-old from England.
+
+◼️
+
+[Data](articles/11e89400.json)
 
 ---
 
@@ -2091,27 +2117,5 @@ Information Technology Division - 0112 542004/0112 335978/0112 387229/0112 33007
 [Data](articles/a693313c.json)
 
 [Extended Data](ext_articles/a693313c.ext.json)
-
----
-
-### UL cancels flights to Dubai amid bad weather
-
-*2024-04-19 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UL-cancels-flights-to-Dubai-amid-bad-weather/108-281005) · `en`
-
-Colombo, April 19 (Daily Mirror) - In light of the adverse weather conditions at the Dubai International Airport, SriLankan Airlines (UL) faces flight cancellations to the UAE hub, sources said.
-
-According to reliable sources, Flight UL 225, slated for departure to Dubai at 18:25 today (April 19), has been grounded due to the turbulent weather.
-
-Further, a previous UL flight bound for Dubai had to be rerouted yesterday (April 18), while another scheduled for departure on April 17 met the same fate.
-
-In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all check-ins for passengers with connecting flights due to the ongoing operational challenges at Dubai International Airport (DXB), which is still grappling with the aftermath of a recent severe storm.
-
-"Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20)," the airline announced via social media.
-
-◼️
-
-[Data](articles/5bfd9ce2.json)
-
-[Extended Data](ext_articles/5bfd9ce2.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 22:50:46**
+As of **2024-04-20 23:03:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,942 (100.0%) of 19,944 articles have been extended.
+19,944 (100.0%) of 19,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය බංග්ලාදේශයට
+### Dambulla team owns to Bangladesh
 
 *2024-04-20 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195822) · `si`
 
-මෙවර ලංකා ප්‍රිමියර් ලීග් තරගාවලියට එක්වන දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය වෙනස් වී තිබේ.
+The Dambulla team, now owned by Bangladeshi entrepreneurs, contests as Dambulla Thunder in the Lanka Premier League, starting 1st July.
 
-ඒ අනුව ගියවර දඹුල්ල අවුරා ලෙස තරග වැදුණු දඹුල්ල කණ්ඩායම මෙවර තරග වදින්නේ දඹුල්ල තන්ඩර් නමින්ය.
+🟩
 
-බංග්ලාදේශ ව්‍යවසායකයින් දෙදෙනෙකු විසින් මෙවර දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය ලබාගෙන ඇති බව වාර්තා වෙයි.
+The Dambulla team, which is joining the Lanka Premier League, has changed.
 
-ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය ජුලි මස පළමුවැනිදා ආරම්භ වන අතර මේ වන විට ක්‍රීඩකයින් 250කට අධික සංඛ්‍යාවක් ක්‍රීඩක වෙන්දේසියට ඉදිරිපත්වීම සඳහා ලියාපදිංචි වී තිබේ.
+Accordingly, the Dambulla team contested the Dambulla Thunder.
+
+It is reported that two Bangladeshi entrepreneurs have been owned by the Dambulla team this year.
+
+The Lanka Premier League cricket tournament begins on 1st July.
 
 ◼️
 
 [Data](articles/5dcfe045.json)
+
+[Extended Data](ext_articles/5dcfe045.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ Pakistan has shown its interest and also made a request to dispatch the IMF revi
 ...
 
 [Data](articles/57f4abd7.json)
+
+[Extended Data](ext_articles/57f4abd7.ext.json)
 
 ---
 

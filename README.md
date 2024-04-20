@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 15:03:23**
+As of **2024-04-20 15:18:12**
 
 ## Newspaper Stats
 
-*Scraped **19,906** Articles*
+*Scraped **19,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,98 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,653
 tamilmirrorlk | 2,296
-adaderanalk | 2,385
+adaderanalk | 2,386
 virakesarilk | 2,978
-dailymirrorlk | 3,099
+dailymirrorlk | 3,101
 adaderanasinhalalk | 3,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,903 (100.0%) of 19,906 articles have been extended.
+19,906 (100.0%) of 19,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### එළියට බහින්නේ බලාගෙනයි
+### Two Guinea women nabbed at BIA with Rs. 20 Mn worth cocaine
+
+*2024-04-20 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Guinea-women-nabbed-at-BIA-with-Rs-20-Mn-worth-cocaine/108-281068) · `en`
+
+Colombo, April 20 (Daily Mirror) - Two female passengers of the Republic of Guinea who tried to enter Sri Lanka by carrying Rs. 20 million worth of swallowed cocaine in their abdomens were intercepted by the Customs this morning.
+
+Officials of the Customs Narcotic Control Unit stationed at the Arrival Terminal of the Bandaranaike International Airport questioned the foreigners on suspicion to realize that they had swallowed capsules containing cocaine.
+
+Customs Spokesman, Senior Director Seevali Arukgoda told the Daily Mirror that the authorities have managed to retrieve 29 and 11 capsules containing 500 grams of cocaine altogether from the two women.
+
+The foreigners aged 42 and 40 years have reportedly left Sierra Leone in Africa and had arrived in Colombo via Istanbul, Turkey on Turkish Airlines flight TK 730.
+
+A gram of cocaine presently has a street value of Rs.40,000 in Sri Lanka and the seized 500 grams are estimated to value over Rs. 20 million.
+
+...
+
+[Data](articles/773a89f0.json)
+
+---
+
+### Two foreign women arrested at BIA with swallowed cocaine capsules
+
+*2024-04-20 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98742/two-foreign-women-arrested-at-bia-with-swallowed-cocaine-capsules) · `en`
+
+Two foreign women, who were attempting to smuggle 500 grams of cocaine have been arrested by the Customs officials attached to the Bandaranaike International Airport (BIA) in Katunayake.
+
+According to customs spokesperson, one woman had swallowed 29 capsules of cocaine while the other had swallowed 11 capsules.
+
+The market value of the 40 capsules is estimated to be around Rs. 20 million.
+
+◼️
+
+[Data](articles/b9f93cb7.json)
+
+---
+
+### Sri Lanka will suffer if Israel-Iran conflict escalates: Ruwan
+
+*2024-04-20 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-suffer-if-Israel-Iran-conflict-escalates-Ruwan/108-281067) · `en`
+
+Colombo, April 20 (Daily Mirror)- Small nations like Sri Lanka will be adversely affected if the current conflict between Israel and Iran escalates, Presidential Advisor Ruwan Wijewardene said today.
+
+"Nations like Sri Lanka will be adversely affected if the conflict between Iran and Israel escalates as such a scenario could result in soaring fuel prices," Wijewardene told a New Year gathering in Biyagama today.
+
+"President Ranil Wickremesinghe will take this matter up with his Iranian counterpart Ibrahim Raisi when he visits Sri Lanka later this month," he added.
+
+Meanwhile Wijewardene hinted that some SJBers are expected to attend the UNP May Day rally in Panchikahawatte.
+
+"Wait and see who from the SJB will join us on May 1st," he said.
+
+He refuted claims by the SJB that the government is trying to prevent it from having its May Day rally at a prominent venue.
+
+...
+
+[Data](articles/ffa84805.json)
+
+---
+
+### Get out of care
 
 *2024-04-20 14:04:53* · [`adalk`](https://www.ada.lk/breaking_news/එළියට-බහින්නේ-බලාගෙනයි/11-409167) · `si`
 
-නුවරඑළිය, මහනුවර, මාතලේ සහ බදුල්ල යන දිස්ත්‍රික්ක 4ක් හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල මිනිස් සිරුරට දැනෙන දැඩි උෂ්ණත්වයක් අද 20දින අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department warns of high temperatures across all districts except Nuwara Eliya, Kandy, Matale, and Badulla. Moneragala district is particularly hot.
 
-උතුරු, උතුරුමැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණ සහ වයඹ පළාත්වල ප්‍රදේශ රැසක් ඒ අතරට ඇතුළත් වන අතර. මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථාන වල ද උණුසුම අද අවදානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ අනාවැකියේ සඳහන්වේ.
+🟩
 
-එබැවින්, උණුසුම් කාලගුණයෙන් ආරක්ෂා වීමට අවශ්‍ය ක්‍රියාමාර්ග අනුගමනය කරන්නැයි කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දෙයි.
+The Met Department forecasts a heated temperature of the human body in all districts, except four districts in Nuwara Eliya, Kandy, Matale and Badulla districts.
+
+Among them in the North, North Central, Sabaragamuwa, Eastern, Southern and North Western provinces.. The weather foretold the heat of the Moneragala district is also a focus on today.
+
+Therefore, the Department of Meteorology also inform the public to follow the actions of warm weather.
 
 ◼️
 
 [Data](articles/c0bffb10.json)
+
+[Extended Data](ext_articles/c0bffb10.ext.json)
 
 ---
 
@@ -65,6 +129,8 @@ The Kim family dynasty that has ruled North Korea since its founding after World
 ...
 
 [Data](articles/bd65af0c.json)
+
+[Extended Data](ext_articles/bd65af0c.ext.json)
 
 ---
 
@@ -1116,6 +1182,8 @@ That historic conclave resulted in the launching  of  a new political party with
 
 [Data](articles/00325760.json)
 
+[Extended Data](ext_articles/00325760.ext.json)
+
 ---
 
 ### Palitha Thevapperuma's Earth Body
@@ -2057,63 +2125,5 @@ Residents of the area are still unbearable to the people of the area.
 [Data](articles/9768bfd8.json)
 
 [Extended Data](ext_articles/9768bfd8.ext.json)
-
----
-
-### Indian election: K. Nalini becomes first resident of Sri Lankan refugee camp to vote
-
-*2024-04-19 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98730/indian-election-k-nalini-becomes-first-resident-of-sri-lankan-refugee-camp-to-vote) · `en`
-
-Friday, April 19, 2024, was a special day for K. Nalini, as the 38-year-old homemaker from the Kottapattu camp for Sri Lankan refugees in Tiruchi district, became the first naturalised Indian national from her community to exercise her franchise at the booth at St. Lourdes Primary School.
-
-“My only hope is for my family and children to be able to progress and live without fear in India, as Indians,” Ms. Nalini told The Hindu. “The Tamil Nadu government has taken good care of the 450 families in our camp, by providing free electricity, water and medical aid, but the lack of official identity papers remains a stumbling block for many of the older residents,” she added.
-
-...
-
-[Data](articles/1c7a8733.json)
-
-[Extended Data](ext_articles/1c7a8733.ext.json)
-
----
-
-### President pays final tribute to late Palitha Thevarapperuma
-
-*2024-04-19 19:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-pays-final-tribute-to-late-Palitha-Thevarapperuma/108-281008) · `en`
-
-Colombo, April 19 - President Ranil Wickremesinghe visited the home of the late former UNP Member of Parliament and former Deputy Minister, Palitha Thevarapperuma, in Yatadolawatte, Matugama where he paid his last respects and extended condolences to the grieving family and the local community today (19).
-
-Minister of State Piyal Nishantha, United National Party Chairman MP Vajira Abeywardena and a group of MPs and UNP activists attended the event.
-
-Meanwhile, President Wickremesinghe paid his respects to the late social activist and founder of the Sarvodaya movement, Dr. A.T. Ariyaratne, this morning (19).
-
-Visiting the Moratuwa Sarvodaya Headquarters where Dr. Ariyaratne was laid to rest, the President offered his final respects and left a condolence note. He also shared condolences with the grieving family members.
-
-◼️
-
-[Data](articles/5d46b025.json)
-
-[Extended Data](ext_articles/5d46b025.ext.json)
-
----
-
-### Sarvodaya Founder AT. President's final tribute to Aryaratne
-
-*2024-04-19 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181482) · `ta`
-
-President Ranil Wickremesinghe honored the founder of the Sarvodaya Movement with a final tribute at the Moratuwa headquarters, attended by UNP MP Vajira Abeywardena and others.
-
-🟩
-
-President Ranil Wickremesinghe paid a final tribute to the founder of the Sarvodaya Movement, the founder of the Sarvodaya Movement.
-
-On Friday (19), the President paid a final tribute to the Moratuwa Sarvodaya headquarters where the body was placed, and made a note in the condolence notebook.
-
-UNP Member of Parliament Vajira Abeywardena and many others were present.
-
-◼️
-
-[Data](articles/cf1f4d10.json)
-
-[Extended Data](ext_articles/cf1f4d10.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 11:53:04**
+As of **2024-04-20 12:04:40**
 
 ## Newspaper Stats
 
-*Scraped **19,885** Articles*
+*Scraped **19,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,57 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,098
-economynextcom | 1,136
+economynextcom | 1,138
 adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,977
-dailymirrorlk | 3,094
-adaderanasinhalalk | 3,225
+dailymirrorlk | 3,095
+adaderanasinhalalk | 3,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,882 (100.0%) of 19,885 articles have been extended.
+19,885 (100.0%) of 19,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Man sets himself on fire near courthouse where Trump is on trial
+
+*2024-04-20 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-sets-himself-on-fire-near-courthouse-where-Trump-is-on-trial/108-281064) · `en`
+
+April 20 (The New York Times)- A man set himself on fire on Friday afternoon near the Lower Manhattan courthouse where jurors were being chosen for the criminal trial of former President Donald J. Trump.
+
+The man, who had lingered outside the Manhattan Criminal Courthouse earlier this week, doused himself with accelerant at around 1:35 p.m. in Collect Pond Park, across the street from the building. Onlookers screamed and started to run, and soon, bright orange flames engulfed the man. He threw leaflets espousing anti-government conspiracy theories into the air before setting himself on fire.
+
+People rushed and tried to put out the flames, but the intensity of the heat could be felt from some distance.
+
+After a minute or two, dozens of police officers arrived, running around and climbing over barricades to extinguish the blaze. The man was loaded into an ambulance and rushed to a hospital burn unit. He died on Friday night.
+
+...
+
+[Data](articles/c73c4868.json)
+
+---
+
+### ලොරි රථයකට යටවී කාන්තාවක් මරුට
+
+*2024-04-20 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195803) · `si`
+
+නිට්ටඹුව, වතුපිටිවල ප්‍රදේශයේ‍දී යතුරුපැදියක ගමන් කළ කාන්තාවකගේ අත්බෑගයක් ලොරි රථයක බඳේ පැටලීමෙන් සිදුවු අනතුරකින් එම කාන්තාව මියගොස් තිබේ.
+
+අත්බෑගය ලොරි රථයේ බඳෙහි පැටලීමත් සමග යතුරුපැදියෙන් ඇද වැටුණු එම කාන්තාව එම ලොරි රථයටම යටවීමෙන් මියගොස් ඇති බව පොලීසිය පැවසීය.
+
+ඊයේ (19) පෙරවරුවේ සිදු වූ මෙම අනතුරින් මියගොස් ඇත්තේ 54 හැවිරිදි කාන්තාවකි.
+
+◼️
+
+[Data](articles/dab9c5f4.json)
+
+---
 
 ### Defence Ministry’s amnesty excludes officers skipping duty
 
@@ -47,6 +81,8 @@ Those who report during the general amnesty period will be legally dismissed.
 ◼️
 
 [Data](articles/4b2de1e6.json)
+
+[Extended Data](ext_articles/4b2de1e6.ext.json)
 
 ---
 
@@ -71,6 +107,8 @@ Supporters left messages on the stream commending Onakoya as an inspiration.
 ...
 
 [Data](articles/5c1be563.json)
+
+[Extended Data](ext_articles/5c1be563.ext.json)
 
 ---
 
@@ -105,6 +143,8 @@ The Ruhunu Maha Kataragam Dewalaya began a cultural dance event "The Rythms of S
 ◼️
 
 [Data](articles/629a05d7.json)
+
+[Extended Data](ext_articles/629a05d7.ext.json)
 
 ---
 
@@ -367,6 +407,42 @@ Since the fall of long-time ruler Robert Mugabe six years ago, Zimbabwe has been
 [Data](articles/2406fd4b.json)
 
 [Extended Data](ext_articles/2406fd4b.ext.json)
+
+---
+
+### Paris Club reassures continued support to debt restructuring Sri Lanka
+
+*2024-04-20 08:55:00* · [`economynextcom`](https://economynext.com/paris-club-reassures-continued-support-to-debt-restructuring-sri-lanka-159487/) · `en`
+
+ECONOMYNEXT – Paris Club has assured continued support to debt-crisis hit Sri Lanka to achieve debt sustainability in the island nation, State Finance Minister Shahen Semasinghe said.
+
+Paris Club, the group of major creditor countries aiming to provide a sustainable way to tackle debt problems in debtor countries, has been actively engaging with Sri Lanka in the island nation’s debt restructuring process.
+
+Sri Lanka has declared bankruptcy in April 2022 with sovereign debt default. Since then, President Ranil Wickremesimghe government has been in the process of debt restructuring. However, the process has been slower than expected.
+
+State Finance Minister Semasinghe met William Roos, Co-Chairman Paris Club and Assistant Secretary for Multilateral Affairs, Trade and Development Policies Department, in the sideline of the IMF/World Bank Spring Meetings.
+
+...
+
+[Data](articles/cdeda63c.json)
+
+---
+
+### Overcoming Old and New Challenges for an Inclusive Democracy
+
+*2024-04-20 08:54:00* · [`economynextcom`](https://economynext.com/overcoming-old-and-new-challenges-for-an-inclusive-democracy-159490/) · `en`
+
+ECONOMYNEXT – A former Chief Election Commissioner, in India, Dr S Y Quraishi would like to see the establishment of a national election fund, through which, political parties would receive financial support based on their performance at an election.
+
+Throughout a 44-day period beginning April 19, India goes to the poll to elect 543 members to its 18th Lok Sabha, the Lower House of Parliament. It is the largest election in the country since 1951-1952 with nearly 970 million eligible to vote.
+
+Dr Quraishi was commenting on the controversy surrounding the Electoral Bonds and its protection of donor identities. The scheme was introduced by the incumbent BJP government in 2017 and was abolished by the Supreme Court in February this year, owing to increasing allegations of corruption.
+
+The scheme allowed individuals and corporate groups to donate anonymously, any amount of money to political parties, as Electoral Bonds.
+
+...
+
+[Data](articles/2b021e33.json)
 
 ---
 
@@ -2023,93 +2099,5 @@ They believe the family was attacked with a knife or “other edged weapon.”
 [Data](articles/f5afd34f.json)
 
 [Extended Data](ext_articles/f5afd34f.ext.json)
-
----
-
-### Oil steadies after surge following reported Israeli attack on Iran
-
-*2024-04-19 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98726/oil-steadies-after-surge-following-reported-israeli-attack-on-iran) · `en`
-
-Oil slipped on Friday after prices spiked earlier on reports that Israel had attacked Iran as market fears of a major escalation to hostilities in the Mideast appeared to ease.
-
-After the benchmark contracts jumped more than $3 in the session, Brent futures were down 46 cents, or 0.5%, at $86.65 a barrel by 1015 GMT. The most active U.S. West Texas Intermediate contract was down 34 cents, or 0.4%, to $82.39.
-
-Israel launched an attack on Iranian soil on Friday, sources told Reuters. Iranian media reported explosions, but an Iranian official told Reuters those were caused by air defence systems. State media said three drones over the central city of Isfahan had been shot down.
-
-Tehran played down the incident and indicated it had no plans for retaliation - a response that appeared gauged towards averting region-wide war.
-
-...
-
-[Data](articles/020f519e.json)
-
-[Extended Data](ext_articles/020f519e.ext.json)
-
----
-
-### Sri Lanka stocks close down, banks trade down
-
-*2024-04-19 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-trade-down-159399/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.38 percent, or 44.80 points, at 11,753; while the S&P SL20 Index closed down 0.53 percent, or 18.46 points, at 3,456.
-
-Turnover was at 1.4 billion. The diversified financials (Rs366mn) and banks (Rs266mn) sectors continued to see selling pressure.
-
-“This was possibly due to uncertainty around the bond discussions,” market participants said.
-
-With the exception of Sampath Bank Plc (up at 77.50) all other banks traded down in the day. Commercial Bank of Ceylon Plc was down at 104.50, Hatton National Bank Plc was down at 188.50, and DFCC Bank Plc was down at 77.00.
-
-LOLC Finance Plc saw the most trades and closed up at 6.40. Another LOLC company, Browns Investments Plc, also saw high traded volumes and closed up at 5.60.
-
-...
-
-[Data](articles/cb421b9d.json)
-
-[Extended Data](ext_articles/cb421b9d.ext.json)
-
----
-
-### Tourist affairs;Special Circular Show
-
-*2024-04-19 16:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகள்-விவகாரம்-விசேட-சுற்றிவளைப்பு/175-336094) · `ta`
-
-Tourist affairs will conduct special circles in popular tourist spots like Colombo, Galle, Pudukkadai, Beruwala, Pentendo, Hikkaduwa, Galle, and Ella at night. This initiative follows reports of high food prices for tourists.
-
-🟩
-
-It has been decided to take special circles in places where tourists are most visited.
-
-Sanjay Rasinghe, Director of the Consumer Affairs Authority and the Special Investigation Division.
-
-He said that special circles will be carried out at night in Colombo Galle, Pudukkadai, Beruwala, Pentendo, Hikkaduwa, Galle and Ella.
-
-The announcement has been released as incidents have been reported, including the high cost of selling food for tourists.
-
-◼️
-
-[Data](articles/cf2e21bc.json)
-
-[Extended Data](ext_articles/cf2e21bc.ext.json)
-
----
-
-### Semasinghe optimistic of transforming Sri Lanka to a debt sustainable country
-
-*2024-04-19 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98725/semasinghe-optimistic-of-transforming-sri-lanka-to-a-debt-sustainable-country) · `en`
-
-State Minister of Finance Shehan Semasinghe says that the government is confident of reaching resolution with commercial creditors and the private bondholders which will enable Sri Lanka to be a debt sustainable country, as the engagements with them are underway.
-
-In a recent interview with IMF Today on the sidelines of the IMF (International Monetary Fund) and World Bank Group Spring Meetings 2024, the Finance State Minister shed light on Sri Lanka’s remarkable journey from economic turmoil to stabilization and now towards growth.
-
-Semasinghe’s statements underscored the government’s commitment to the IMF program, debt restructuring process and the tax revenue.
-
-He also reflected on the challenges Sri Lanka faced in 2022, calling it “the most challenging year” for the country due to the economic crisis post-Covid-19 pandemic. However, he expressed gratitude towards the Sri Lankan citizens for their resilience during these difficult periods.
-
-...
-
-[Data](articles/f922e5cf.json)
-
-[Extended Data](ext_articles/f922e5cf.ext.json)
 
 ---

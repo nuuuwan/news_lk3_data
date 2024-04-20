@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 16:04:13**
+As of **2024-04-20 16:18:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,912 (100.0%) of 19,916 articles have been extended.
+19,916 (100.0%) of 19,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,27 +48,41 @@ Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Na
 
 [Data](articles/a2dd3d6e.json)
 
+[Extended Data](ext_articles/a2dd3d6e.ext.json)
+
 ---
 
-### මත්ද්‍රව්‍ය සමග හසුවූ ආරක්ෂක අංශ නිලධාරීන් දෙදෙනා රඳවාගෙන ප්‍රශ්න කරයි
+### Two security personnel with drugs with drugs and question
 
 *2024-04-20 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195810) · `si`
 
-මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් ආරක්ෂක අංශ නිලධාරීන් දෙදෙනා ඇතුළු සිව්දෙනා රඳවාගෙන ප්‍රශ්න කිරීමට අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණය අද (20) අවසර ලබාදී තිබේ.
+Two security personnel arrested with drugs at Aluthkade Magistrate's Court. Four, including two Lieutenant Commanders, held for 510 grams of ice. Police found 400 grams in a house in Mulleriyawa. Two others had over 5 grams each. Navy officers, arrested for a year and a half, were part of an ice drug operation led by Sanath.
 
-අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 510ක් සමග නාවික හමුදාවේ ලුතිනන් කොමාන්ඩර්වරු දෙදෙනෙකු ඇතුළු පුද්ගලයන් සිව්දෙනෙකු මුල්ලේරියාව පොලීසිය මගින් මෙලෙස අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-ඒ, මුල්ලේරියාව, සිරිපැරකුම් මාවත ප්‍රදේශයේ නිවසක අයිස් මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මුල්ලේරියාව පොලීසියේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරීන් කණ්ඩායම් ඊයේ (19) එහි ගොස් පරීක්ෂා කිරීමේදීය.
+Aluthkade Magistrate's Court today (20) has been granted to retain four and the four security personnel who were arrested with drugs.
 
-අදාළ නිවස ඉදිරිපිටදී පොලිසිය එක් පුද්ගලයෙකුව පරීක්ෂා කිරීමේදී ඔහු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 400ක් සොයාගෙන තිබුණි.
+Four persons including two Lieutenant Commanders, including 510 grams of ice drug, four persons were arrested by Mulleriyawa Police.
 
-අනතුරුව අදාළ නිවස පරීක්ෂා කිරීමට ගිය අවස්ථාවේදී එහි දොරවල් වසා තිබීම හේතුවෙන් පොලීසිය නිවසේ පසුපස දොර කඩා නිවසට ඇතුළු විය.
+The OIC of the Mulleriyawa Police and the OIC of the Mulleriyawa Police operates yesterday (19) at the Mulleriyakum Mawatha area in Mulleriyawa Mawatha.
 
-කෙසේවෙතත් එම අවස්ථාවේදී නිවස තුළ කිසිවකු දක්නට නොලැබීම නිසා පොලීසිය නිවසේ දොරගුලුලා තිබූ කාමරයක දොරක් කඩා පරීක්ෂා කිරීමේදී එහි සිටි පුද්ගලයන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබුණි.
+In the presence of the house, the police were recovered to 400 ice narcotics.
+
+The police then covered the house, the police then covered the door and entered the house.
+
+However, the police had arrested three persons in the house when he had not seen a door of a room at home.
+
+The police said that one person had 100 grams of ice narcotics, police said.
+
+Over 5 grams of ice cast have been found in possession of two others.
+
+In the interrogation of the two, they were two Lieutenant Commanders in the Navy.
 
 ...
 
 [Data](articles/01773e07.json)
+
+[Extended Data](ext_articles/01773e07.ext.json)
 
 ---
 
@@ -81,6 +95,8 @@ President Ranil Wickremesinghe visited the Ambewela Dairy Farm, equipped with st
 ◼️
 
 [Data](articles/b7200190.json)
+
+[Extended Data](ext_articles/b7200190.ext.json)
 
 ---
 
@@ -1331,6 +1347,8 @@ The journey from being a refugee in a land where she was born to becoming first 
 ...
 
 [Data](articles/ea02523f.json)
+
+[Extended Data](ext_articles/ea02523f.ext.json)
 
 ---
 

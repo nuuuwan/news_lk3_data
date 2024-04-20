@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 12:18:18**
+As of **2024-04-20 12:34:05**
 
 ## Newspaper Stats
 
-*Scraped **19,890** Articles*
+*Scraped **19,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,977
 dailymirrorlk | 3,095
-adaderanasinhalalk | 3,227
+adaderanasinhalalk | 3,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,889 (100.0%) of 19,890 articles have been extended.
+19,890 (100.0%) of 19,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### අයහපත් කාලගුණයෙන් පාකිස්තානයට දැඩි බලපෑම්
+### සිසුවෙක් ට මරු කැඳවූ යතුරුපැදි අනතුර
+
+*2024-04-20 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195805) · `si`
+
+රඹේ - මැල්සිරිපුර මාර්ගයේ පන්සියගම ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් සිසුවෙකු මියගොස් තිබේ.
+
+තිදෙනෙකු ගමන් කළ යතුරු පැදියක් පැදිකරුට, පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැන් කණුවක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+
+පොලීසිය පැවසුවේ ඊයේ (19) රාත්‍රියේ දී මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුරින් පැදිකරු සහ පසු පැදිකරුවෙකු බරපතළ තුවාල ලබා පොල්පිතිගම රෝහල‌ට ඇතුළත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 16 හැවිරිදි ගලටන්වැව ප්‍රදේශයේ පදිංචිව සිටි  සිසුවෙකි.
+
+තුවාල ලැබු පසුපැදිකරුවෙක් වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල රෝහලට මාරුකර යවා ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7f61841a.json)
+
+---
+
+### Pakistan influenced Pakistan from inclement weather
 
 *2024-04-20 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195804) · `si`
 
-පාකිස්තානයට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මියගිය පුද්ගලයන් සංඛ්‍යාව 87ක් දක්වා ඉහළ ගොස් තිබේ.
+Pakistan's inclement weather caused 87 deaths, injured 82, damaged 2,715 houses, and led to floods in several areas.
 
-දින කිහිපයක් පුරා ඇදහැලන අධික වර්ෂාව හේතුවෙන් පාකිස්තානයේ ප්‍රදේශ රැසකට ගංවතුර තත්ත්වයක් හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-අයහපත් කාලගුණයෙන් තවත් පුද්ගලයින් 82 දෙනෙකු තුවාල ලබා ඇති බවද එරට ජාතික ආපදා කළමනාකරණ අධිකාරිය සඳහන් කර ඇත.
+The number of people died from 87 due to inclement weather affected by Pakistan.
 
-නිවාස 2,715ක් අර්ධ හෝ පූර්ණ හානියට ලක්වී ඇති අතර පවතින අධික වර්ෂාව තවත් දින කිහිපයක් බලාපොරොත්තු විය හැකි බව එරට කාලගුණ අංශ අනාවරණය කර තිබේ.
+Foreign media reports that floods have occurred to several areas in Pakistan due to heavy rains.
+
+The National Disaster Management Authority (DMC) has said that 82 others were injured in bad weather.
+
+2,715 houses have been partial or full damage, and the high rain can be expected to expect several days.
 
 ◼️
 
 [Data](articles/b6bdf684.json)
+
+[Extended Data](ext_articles/b6bdf684.ext.json)
 
 ---
 
@@ -2087,23 +2115,5 @@ A bond maturing on 01.10.2032 closed stable at 12.40/50 percent. (Colombo/Apr19/
 [Data](articles/2a76f0ec.json)
 
 [Extended Data](ext_articles/2a76f0ec.ext.json)
-
----
-
-### Heat advisory issued for seven provinces
-
-*2024-04-19 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98728/heat-advisory-issued-for-seven-provinces) · `en`
-
-The Department of Meteorology has issued a weather alert, warning that extreme heat can be expected in parts of the island tomorrow (20).
-
-Accordingly, the heat index, the temperature felt on the human body, is expected to reach ‘Caution’ level at some places in the Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and
-
-The department cautioned that heat cramps and heat exhaustion are possible while continued activity could result in heatstroke.
-
-◼️
-
-[Data](articles/908ec704.json)
-
-[Extended Data](ext_articles/908ec704.ext.json)
 
 ---

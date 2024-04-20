@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 08:03:46**
+As of **2024-04-20 08:18:26**
 
 ## Newspaper Stats
 
-*Scraped **19,853** Articles*
+*Scraped **19,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,100 @@ dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,648
 tamilmirrorlk | 2,293
-adaderanalk | 2,377
+adaderanalk | 2,378
 virakesarilk | 2,975
 dailymirrorlk | 3,081
-adaderanasinhalalk | 3,220
+adaderanasinhalalk | 3,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,851 (100.0%) of 19,853 articles have been extended.
+19,853 (100.0%) of 19,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### දිගු කලක් සේවයට වාර්තා නොකළ හමුදා සාමාජිකයන්ට දැනුම්දීමක්
+### සතිඅන්තයේ නිවසින් පිටතට යන ඔබ මේ ගැනත් සිතන්න
+
+*2024-04-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195798) · `si`
+
+දිස්ත්‍රික්ක 4ක් හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල මිනිස් සිරුරට දැනෙන උෂ්ණත්වයක් අද (20) දිනයේ අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව නුවරඑළිය, මහනුවර, මාතලේ සහ බදුල්ල යන දිස්ත්‍රික්ක හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල උෂ්ණාධික කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ මෙරිල් මෙන්ඩිස් මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/c269c1db.json)
+
+---
+
+### Evening thundershowers possible in many areas today
+
+*2024-04-20 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98734/evening-thundershowers-possible-in-many-areas-today) · `en`
+
+Showers or thundershowers will occur in parts of the Western, Sabaragamuwa, North-western, Uva and Central provinces and Anuradhapura, Vavuniya, Mannar, Galle and Matara districts after 2.00 p.m. today (20).
+
+Misty conditions are expected at some places in Sabaragamuwa and Central provinces and in Kalutara, Galle and Matara districts during the morning.
+
+The general public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
+
+Winds will be South-westerly or variable in direction and wind speed will be 20-30 kmph.
+
+Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from   Puttalam to Kankesanturai via Mannar and from Galle to Hambantota via Matara.
+
+...
+
+[Data](articles/ff0e0e7a.json)
+
+---
+
+### Notice to unfolding military members who have not reported long
 
 *2024-04-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195797) · `si`
 
-ශ්‍රි ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයන් හට අද (20) සිට පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබේ.
+Sri Lanka Army requires military members to report for long-term leave by 20th. Public can legally leave the war until then. Documents needed include military ID, National ID, Driving License, and bank book copy.
 
-එම සාමාජිකයින්ට නීත්‍යානුකූලව යුද්ධ හමුදා සේවයෙන් ඉවත් වීමට ලබන මස 20 වනදා දක්වා මෙම පොදු සමා කාලය ක්‍රියාත්මක බව යුද්ධ හමුදාව පැවසුවේය.
+🟩
 
-ඒ අනුව තමන් අයත් වන රෙජිමේන්තු මධ්‍යස්ථානය සමග සම්බන්ධ වී නීත්‍යානුකූලව සේවයෙන් ඉවත්වීමට මෙම කාලය තුළ අවස්ථාව හිමි වේ.
+Military MPs who have not reported to the long-term leave of Sri Lanka Army have been published in general period from today (20).
 
-යුද්ධ හමුදා හැඳුනුම්පත, ජාතික හැඳුනුම්පත හෝ රියදුරු බලපත්‍රයේ පිටපතක්, වැටුප් හා දීමනා බැරකරන ලද බැංකු පොතේ ඡායාස්ථ පිටපතක් මෙහිදි ඉදිරිපත් කළ යුතු බව යුද්ධ හමුදාව නිවේදනය කළේය.
+The Army said that the public is running out until the 20th of this month to leave the war legally.
+
+Accordingly, this period is the opportunity to associate with the Regiment Center, which is legally.
+
+Army announced that the military identity card, a copy of the National Identity Card or Driving License, a photocopy of the bank book entitled.
 
 ◼️
 
 [Data](articles/da34bc0c.json)
 
+[Extended Data](ext_articles/da34bc0c.ext.json)
+
 ---
 
-### පළාත් කිහිපයකට සවසට වැසි
+### Showers at several places
 
 *2024-04-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195796) · `si`
 
-බස්නාහිර, සබරගමුව, වයඹ, ඌව සහ මධ්‍යම පළාත්වලත් අනුරාධපුර, වවුනියා, මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Sabaragamuwa, North Western, Uva, and Central provinces, and in Anuradhapura, Vavuniya, Mannar, Galle, and Matara districts after 2.00 pm. Some areas may experience these conditions for a morning. Met Department advises taking precautions against strong winds and lightning.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+In the Western, Sabaragamuwa, North Western, Uva and Central provinces, in Anuradhapura, Vavuniya, Mannar, Galle and Matara districts. Showers or thundershowers will occur at several places, after 2.00 pm, the Met Department said.
+
+Some locations can last a morning in the Sabaragamuwa and Central provinces and in Kalutara, Galle and Matara districts.
+
+The Department has informed the people to take necessary steps to reduce temporary strong winds and damage to lightning.
 
 ◼️
 
 [Data](articles/04a89df6.json)
+
+[Extended Data](ext_articles/04a89df6.ext.json)
 
 ---
 
@@ -2113,51 +2161,5 @@ MP Abeysinghe made these remarks while joining a press briefing held in Kurunega
 [Data](articles/6e5fb50d.json)
 
 [Extended Data](ext_articles/6e5fb50d.ext.json)
-
----
-
-### History: Who belongs to Kachchativu?Released on June 29, 1974, Veerakesari ....
-
-*2024-04-19 13:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181449) · `ta`
-
-Kachchativu's ownership is a contentious issue, with ongoing discussions in Sri Lanka and India. The Weerakesari magazine's June 29, 1974, cover states, "Kachchativu belongs to Sri Lanka! 45 years of dispute is exhausted!"
-
-🟩
-
-Various talks are taking place in Sri Lanka and India regarding Kachchativu. A variety of comments on who belongs to Kachchativu is a trending in today's modern world, especially on social media.
-
-Many reasons are said to be trending. But in restoring history, “Kachchativu belongs to Sri Lanka!45 years of dispute is exhausted !! ”This is the first page of the Weerakesari magazine published on June 29, 1974.
-
-◼️
-
-[Data](articles/13e88475.json)
-
-[Extended Data](ext_articles/13e88475.ext.json)
-
----
-
-### Government stand on loans and taxes
-
-*2024-04-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195780) · `si`
-
-Government confident in policy agreement with creditors to manage Sri Lanka's debts. State Minister Shehan Semasinghe highlights the government's efforts to increase tax revenue, strengthen tax compliance, and expects state income to reach 11% of GDP by 2023, up from 8.1% in 2021. Tax regulatory has increased to 130%, and registration for tax has also risen.
-
-🟩
-
-State Minister Shehan Semasinghe says that the government is confident that the government will come to policy agreement with all creditors to ensure Sri Lanka's debts.
-
-The State Minister was speaking at a meeting with the International Monetary Fund Session of Washington, the International Monetary Fund.
-
-"We are named one country from the world's low country. But with the launch of this program, we gradually raise tax revenue. We have removed the exemption from paying such as now. Tax compliance has been strengthened. State income has increased to 11% of GDP in 2023. It is 8.1% of the government income. "
-
-"As we 2024, that value is highly highly highly expected. And we're sure we can go to that goal. The tax regulatory has increased to 130%. "
-
-"Registration for tax has also increased. Even if it's a good value we can't be satisfied with that. We need to pay tax payables to pay taxes. "
-
-◼️
-
-[Data](articles/3babdf4a.json)
-
-[Extended Data](ext_articles/3babdf4a.ext.json)
 
 ---

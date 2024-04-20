@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 07:17:06**
+As of **2024-04-20 07:33:00**
 
 ## Newspaper Stats
 
-*Scraped **19,850** Articles*
+*Scraped **19,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,648
 tamilmirrorlk | 2,293
 adaderanalk | 2,377
 virakesarilk | 2,975
-dailymirrorlk | 3,080
+dailymirrorlk | 3,081
 adaderanasinhalalk | 3,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,848 (100.0%) of 19,850 articles have been extended.
+19,850 (100.0%) of 19,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Electric Cables worth Rs.10 million chipped away from train parked at Hikkaduwa
+
+*2024-04-20 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electric-Cables-worth-Rs-10-million-chipped-away-from-train-parked-at-Hikkaduwa/108-281023) · `en`
+
+In a daring robbery which has stunned authorities, thieves managed to steal electric cables worth over Rs.10 million from a train named ‘Nayana Kumari’ stationed at Hikkaduwa railway station, a top official said.
+
+Deputy Superintendant- Railway Protection Force G.W. Sumith said the incident, had occurred in the early hours of Thursday, targeting the Nayana Kumari express train which had arrived the previous night from Colombo.
+
+According to railway security officials, the thieves specifically targeted cables used for powering the lighting system within the passenger compartments. Their method of operation suggests a sophisticated understanding of electric circuits, as only individuals familiar with such technology would be able to dismantle the cables.
+
+...
+
+[Data](articles/fb7be4c9.json)
+
+---
 
 ### Palitha Thevapperuma's Earth Body
 
@@ -2151,25 +2167,5 @@ In the Asian markets this morning (19), the Pakcha oil barrel has risen by 3% to
 [Data](articles/138b576c.json)
 
 [Extended Data](ext_articles/138b576c.ext.json)
-
----
-
-### Lack of doctors in the country!
-
-*2024-04-19 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181450) · `ta`
-
-The Ministry of Health reports a doctor shortage, especially in specialties and pediatrics, with many doctors leaving the country or going abroad. This has caused inconvenience for patients at hospitals in Hambantota and Embilipitiya.
-
-🟩
-
-There is a shortage of doctors for special and children, the Ministry of Health said.Health Ministry Secretary Palitha Maibala said that many have left the country and others have gone abroad.
-
-He also said that the patients have been inconvenienced by the lack of special doctors at Hambantota and Embilipitiya hospitals.
-
-◼️
-
-[Data](articles/a7731f35.json)
-
-[Extended Data](ext_articles/a7731f35.ext.json)
 
 ---

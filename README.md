@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 18:34:09**
+As of **2024-04-20 18:52:02**
 
 ## Newspaper Stats
 
-*Scraped **19,926** Articles*
+*Scraped **19,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,654
 tamilmirrorlk | 2,296
 adaderanalk | 2,390
 virakesarilk | 2,979
-dailymirrorlk | 3,107
-adaderanasinhalalk | 3,236
+dailymirrorlk | 3,108
+adaderanasinhalalk | 3,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,926 (100.0%) of 19,926 articles have been extended.
+19,926 (100.0%) of 19,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Man jumps off Sri Pada Uda Maluwa, goes missing
+
+*2024-04-20 18:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-jumps-off-Sri-Pada-Uda-Maluwa-goes-missing/108-281073) · `en`
+
+Hatton, April 20 (Daily Mirror)- A 33-year-old pilgrim who climbed to Sri Pada went missing after he jumped off the protective fence at the Ratnapura-Sri Pada route at the Uda Maluwa.
+
+The victim was identified as a resident of Sooriyawewa, Hambantota.
+
+He had visited the Sri Pada with two other women yesterday (19) morning and as recorded on CCTV cameras at the Sri Pada Uda Maluwa, the man had suddenly ran down and jumpped off the protective fence while he was climbing down along the Ratnapura-Sri Pada route.
+
+Army personnel from the Laxapana army camp launched an operation to trace the missing youth.
+
+The two women who had accompanied the man had told police that he had gone insane before he had jumpped off the fence.
+
+◼️
+
+[Data](articles/8c5851d7.json)
+
+---
+
+### සර්වෝදය නිර්මාතෘ නික්ම යයි
+
+*2024-04-20 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195816) · `si`
+
+සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘ අභාවප්‍රාප්ත ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (20) පස්වරුවේ කොළඹ නිදහස් චතුරස්‍රයේදී රාජ්‍ය ගෞරව සහිතව සිදුකෙරුණි.
+
+සර්වෝදයේ ප්‍රධාන මූලස්ථානයේ තැන්පත් කර තිබු ඒ මහතාගේ දේහය අද පෙරවරුවේ සිදුකෙරුණු ආගමික වතාවත්වලින් අනතුරුව රිය පෙරහැරකින් කොළඹ නිදහස් චතුරස්‍රය වෙත රැගෙනවිත් තිබුණි.
+
+මෙම අවස්ථාවට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුලු මැතිඇමතිවරුන්, රාජ්‍ය නිලධාරීන්, ත්‍රිවිධ හමුදා නිලධාරීන් ඇතුලු විශාල පිරිසක් එක්විය.
+
+◼️
+
+[Data](articles/9b3364dc.json)
+
+---
 
 ### Emirates and flydubai resume normal operations after Dubai floods
 
@@ -2113,41 +2149,5 @@ One of the most enchanting books I have read in recent times has to be “A Move
 [Data](articles/a9cf9348.json)
 
 [Extended Data](ext_articles/a9cf9348.ext.json)
-
----
-
-### ‘ComBank Digital’ links Dept. of Commerce for online payments with LankaPay
-
-*2024-04-19 22:59:00* · [`islandlk`](http://island.lk/combank-digital-links-dept-of-commerce-for-online-payments-with-lankapay/) · `en`
-
-The Commercial Bank of Ceylon has announced the integration of the Department of Commerce (DOC) with ‘ComBank Digital’ enabling online payments for services via LankaPay.
-
-As a result, businesses or individuals can now make secure real-time online payments for services such as registration of exporters, issuance of certificates of origin and other facilities offered by the Department of Commerce.
-
-The online payment option can be accessed on www.combankdigital.com and its iOS, Android or Huawei mobile applications. The platform is secured with industry-level security standards to provide a convenient, swift and safe digital banking experience to users wherever they are, the Bank said.
-
-Customers simply have to login to the platform and select the ‘Bill payment’ section on the platform, select ‘Department of Commerce’ and make their payments. Once a payment has been successfully completed, the customer can download a cyber-receipt as payment confirmation.
-
-...
-
-[Data](articles/139e7b35.json)
-
-[Extended Data](ext_articles/139e7b35.ext.json)
-
----
-
-### Hunas Holdings and BCC Corporation Japan forge strategic partnership to revolutionize hospitality industry
-
-*2024-04-19 22:58:00* · [`islandlk`](http://island.lk/hunas-holdings-and-bcc-corporation-japan-forge-strategic-partnership-to-revolutionize-hospitality-industry/) · `en`
-
-Hunas Holdings PLC, a leading player in the investment and hospitality sector, recently announced a strategic partnership with BCC Corporation Japan, a renowned innovator in technology, hospitality and real estate solutions. Together, they are introducing a ground breaking advancement poised to transform the way hotel accommodations are booked and managed. The collaboration introduces an innovative platform, using Block chain and Non-Fungible Token (NFT) technology while enhancing flexibility and investment opportunities for travellers and stakeholders alike.
-
-This partnership marks the inception of a new era in the hospitality industry, leveraging cutting-edge technology to address common challenges faced by travellers and hotel operators. At the heart of this collaboration is the introduction of a pioneering platform that offers unprecedented flexibility and investment potential: Nafutel Platform
-
-...
-
-[Data](articles/fedf024c.json)
-
-[Extended Data](ext_articles/fedf024c.ext.json)
 
 ---

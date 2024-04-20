@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 00:03:24**
+As of **2024-04-21 00:18:23**
 
 ## Newspaper Stats
 
-*Scraped **19,944** Articles*
+*Scraped **19,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,099
-economynextcom | 1,139
+economynextcom | 1,141
 adalk | 1,654
 tamilmirrorlk | 2,300
 adaderanalk | 2,392
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,944 (100.0%) of 19,944 articles have been extended.
+19,944 (100.0%) of 19,946 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,30 @@ The Perahera is the Kochchukade Shrine to the Mattakkuliya Bridge, Wattala Junct
 [Data](articles/1d266687.json)
 
 [Extended Data](ext_articles/1d266687.ext.json)
+
+---
+
+### SriLankan Air Europe flight times extended, payloads cut amid Israel-Iran attacks
+
+*2024-04-20 21:16:00* · [`economynextcom`](https://economynext.com/srilankan-air-europe-flight-times-extended-payloads-cut-amid-israel-iran-attacks-159503/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines said flights to Europe was departing one hour earlier and payloads have been trimmed, as an ongoing tensions between Israel and Iran force the airline was forced to take longer routes.
+
+There have been tit-for-tat drone and missile exchanges between Iran and Israel in recent days.
+
+“These changes mean that flight times to Europe are extended, requiring additional fuel and reducing the available payload,” the airline said.
+
+“Further, to meet slot times in London, these flights are being advanced by one hour.
+
+“As a result, unfortunately, some passengers on the London flights have missed connections or been offloaded.
+
+“The airline will maintain this routing and the earlier departure time to London for the next few days whilst it monitors the situation.”
+
+Passengers who have missed flights due to early departure are being given alternative flights and hotel accommodation.
+
+...
+
+[Data](articles/1bd61f84.json)
 
 ---
 
@@ -2205,29 +2229,5 @@ To reduce the cost of power supply, it will be replaced by fuel -powered power p
 [Data](articles/38693164.json)
 
 [Extended Data](ext_articles/38693164.ext.json)
-
----
-
-### Demonstration for justice for the little girl's death
-
-*2024-04-20 00:07:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியின்-மரணத்திற்கு-நீதி-கோரி-ஆர்ப்பாட்டம்/175-336107) · `ta`
-
-Villagers in Taranikkulam protested for justice after a 17-year-old girl was found hanged, claiming her death was suspicious. The girl's father was accused of her death.
-
-🟩
-
-The villagers of Taranikkulam staged a protest yesterday demanding justice for the death of a girl who died in Vavuniya.
-
-The body of a 17 -year -old girl was recovered after she was hanged at home in Taranikkulam village on the 17th.
-
-Villagers and relatives staged a demonstration in front of the girl's house, claiming that the girl's death was suspicious of the death of the girl yesterday.
-
-In addition, the little father was responsible for the death of the girl, who went to the Ichangulam police station in a rally from the house of the girl who died and marched with the police station and crossed the streets.. (A)
-
-◼️
-
-[Data](articles/2f137643.json)
-
-[Extended Data](ext_articles/2f137643.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 13:03:41**
+As of **2024-04-20 13:18:13**
 
 ## Newspaper Stats
 
-*Scraped **19,894** Articles*
+*Scraped **19,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,53 @@ economynextcom | 1,139
 adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
-virakesarilk | 2,977
-dailymirrorlk | 3,095
+virakesarilk | 2,978
+dailymirrorlk | 3,096
 adaderanasinhalalk | 3,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,892 (100.0%) of 19,894 articles have been extended.
+19,894 (100.0%) of 19,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ඉරානයේ සහාය ලබන ඉරාක හමුදා කඳවුරකට ප්‍රහාර
+### Attacks on Iraqi camp
 
 *2024-04-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195806) · `si`
 
-ඉරානයේ සහාය ලබන ඉරාක හමුදා කඳවුරකට එල්ල වූ ගුවන් ප්‍රහාර කිහිපයකින් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+Iraqi camp attacked, 3 killed, 5 injured in Iran-backed strikes. Iraq blames Israel, but US denies connection.
 
-මෙම ප්‍රහාර සම්බන්ධයෙන් ඉරාකය ඊශ්‍රායලයට චෝදනා කර සිටියත් ඊශ්‍රායලය මෙන්ම අමෙරිකාව ද පවසන්නේ එම ප්‍රහාර සඳහා ඔවුන්ගේ කිසිදු සම්බන්ධයෙක් නොමැති බවය.
+🟩
+
+Three people were killed and 5 others were injured in several air strikes at Iran's support.
+
+Although Iraq accused Israel, Iraq accused Israel, but in the United States say that there is no connection to those attacks.
 
 ◼️
 
 [Data](articles/5ea3c4c1.json)
+
+[Extended Data](ext_articles/5ea3c4c1.ext.json)
+
+---
+
+### Catholic Church has not accepted Easter attacks proposals of NPP or SJB
+
+*2024-04-20 12:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-has-not-accepted-Easter-attacks-proposals-of-NPP-or-SJB/108-281065) · `en`
+
+Colombo, April 20 (Daily Mirror)- The Catholic Church has not accepted proposals of the National Peoples Power (NPP) or the Samagi Jana Balawegaya (SJB) over the probes into the Easter Sunday attacks, Member of the Communications Committee of the Archdiocese of Colombo, Fr. Cyril Gamini Fernando said today.
+
+"We have to study the proposals of the SJB and NPP before deciding whether to accept them or not. It is true that the NPP and SJB handed over their proposals to the Archbishop of Colombo Cardinal Malcolm Ranjith, but that does not mean the Church has accepted them," Fr. Fernando said.
+
+He was responding to allegations by United National Party (UNP) General Secretary Palitha Range Bandara who said on Friday that people have become suspicious whether the Cardinal is trying to promote political parties.
+
+...
+
+[Data](articles/3e2e6489.json)
 
 ---
 
@@ -357,6 +379,26 @@ Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara El
 [Data](articles/cd687f00.json)
 
 [Extended Data](ext_articles/cd687f00.ext.json)
+
+---
+
+### நியூசிலாந்தின் வெலிங்டனில் இலங்கை உயர்ஸ்தானிகராலயத்தை நிறுவ தீர்மானம்
+
+*2024-04-20 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181494) · `ta`
+
+இந்நிலையில், இலங்கை உயர்ஸ்தானிகராலயத்தை திறப்பது தொடர்பான விடயங்களை கலந்துரையாட அமைச்சின் வெளிநாட்டு ஆதன முகாமைத்துவம் மற்றும் அபிவிருத்திப் பிரிவின் பணிப்பாளர் நாயகம் பிரதீபாஷாரம் தலைமையிலான உத்தியோகபூர்வ பிரதிநிதிகள் குழுவினர் 22 ஆம் திகதி நியூசிலாந்துக்கு விஜயம் செய்யவுள்ளனர்.
+
+இந்த குழு 25 ஆம் திகதி வரை நியூசிலாந்தில் தங்கியிருந்து கலந்துரையாடல்களை மேற்கொள்ளும்.
+
+இந்த விஜயத்தின் போது, தூதுக்குழுவினர் நியூசிலாந்தின் வெளிவிவகார மற்றும் வர்த்தக அமைச்சின் அதிகாரிகள் மற்றும் பிற தொடர்புடைய நிறுவனங்கள் மற்றும் பங்குதாரர்களுடன் கலந்துரையாடலில் ஈடுப்படுவார்கள்.
+
+நியூசிலாந்தில் தொழில் வல்லுநர்கள் மற்றும் மாணவர்களைக் கொண்ட ஒரு குறிப்பிடத்தக்களவு இலங்கையர் சமூகம் உள்ளது.
+
+இராஜதந்திர தூதுக் குழுவொன்றை நியூசிலாந்தில் நிறுவுவதன் மூலம், வர்த்தகம், கல்வி, விளையாட்டு, அறிவியல், தொழில்நுட்பம், சுற்றுலா மற்றும் சுகாதாரம் ஆகிய துறைகளில் வலுவான ஒத்துழைப்பைப் பின்தொடர்வதற்கும், சமூகத்தை அணுகுவதற்கும் உதவும்.
+
+...
+
+[Data](articles/7e070a3e.json)
 
 ---
 
@@ -2073,47 +2115,5 @@ Palestine attempts from 2011 to obtain full membership of the United Nations. Th
 [Data](articles/c38b23f9.json)
 
 [Extended Data](ext_articles/c38b23f9.ext.json)
-
----
-
-### Dubai’s Emirates halts check-in for connections
-
-*2024-04-19 17:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dubais-Emirates-halts-check-in-for-connections/108-281004) · `en`
-
-April 19 - Emirates, one of the world’s biggest international airlines, has suspended all check-ins for customers with onward connections as operations at Dubai International Airport (DXB) are still volatile three days after a record storm swept the UAE.
-
-“Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20),” Dubai’s flagship carrier said in a social media post on X.
-
-Emirates said customers with connections in Dubai, one of the world’s busiest aviation hubs, will only be accepted at their point of origin if their flight departs after 23:59 hrs GMT, 19 April.
-
-The airline said the suspension is aimed at supporting operations recovery at DXB as the airport continues to struggle to clear a backlog of flights.
-
-...
-
-[Data](articles/f6360927.json)
-
-[Extended Data](ext_articles/f6360927.ext.json)
-
----
-
-### Recruitment of Development Officers to Teacher Service
-
-*2024-04-19 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195787) · `si`
-
-The Ministry of Education suspended the recruitment of Development Officers to Teacher Service due to a Supreme Court interim injunction. The Supreme Court's decision will guide the recruitment process.
-
-🟩
-
-The Ministry of Education states that a group of development officers have filed four fundamental rights petitions on the Supreme Court, with a group of development officers on March 25, to recruit development officers to the teacher.
-
-Accordingly, the event was suspended due to the interim injunction imposed by the Supreme Court on March 23, 2023 before the examination was held.
-
-The Secretary of the Ministry of Education says that according to the Supreme Court decision, the Supreme Court decision will be carried out regarding the recruitment of the Supreme Court in accordance with the Supreme Court's petition.
-
-◼️
-
-[Data](articles/2ceaae45.json)
-
-[Extended Data](ext_articles/2ceaae45.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 16:33:36**
+As of **2024-04-20 16:49:13**
 
 ## Newspaper Stats
 
-*Scraped **19,916** Articles*
+*Scraped **19,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,653
 tamilmirrorlk | 2,296
-adaderanalk | 2,387
+adaderanalk | 2,388
 virakesarilk | 2,979
 dailymirrorlk | 3,104
-adaderanasinhalalk | 3,233
+adaderanasinhalalk | 3,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,916 (100.0%) of 19,916 articles have been extended.
+19,916 (100.0%) of 19,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Man hacked to death in Valaichchenai over mobile phone dispute
+
+*2024-04-20 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98744/man-hacked-to-death-in-valaichchenai-over-mobile-phone-dispute) · `en`
+
+A person has been hacked to death with sharp weapons in the Valaichchenai area last night (19).
+
+Police said that the attack was perpetrated following a heated argument between two friends regarding a mobile phone.
+
+The deceased person has been identified as a 43-year-old resident of the Birandarachchenai area.
+
+The suspect who committed the crime has been arrested and the Valaichchenai Police is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/a4b4227c.json)
+
+---
+
+### ලොකු ලූනු ගෙන්වීම සතොස හරහා
+
+*2024-04-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195812) · `si`
+
+ඉන්දියාවෙන් ලොකු ලූනු ආනයනය ලංකා සතොස හරහා සිදුකිරීමට තීරණය කර තිබේ.
+
+ලොකු ලූනු අපනයනය තහනම ශ්‍රී ලංකාව සඳහා ඉවත් කිරීමට තීරණය කළ ඉන්දීය රජය ශ්‍රී ලංකාවට ලොකු ලූනු මෙට්‍රික්ටොන් දසදහසක තොගයක් අපනයනය කිරීමට පසුගියදා තීරණය කළේය.
+
+එම ලූනු තොගය ගෙන්වනු ලබන්නේ පෞද්ගලික අංශයෙන් ද නැතහොත් රාජ්‍ය අංශයෙන් ද යන්න සම්බන්ධයෙන් වෙළෙඳ හා පාරිභෝගික කටයුතු අමාත්‍යංශය සාකච්ඡා කළ අතර එහිදී තීරණය වී ඇත්තේ ලංකා සතොස හරහා ඉන්දියාවෙන් ලොකු ලූනු ආනයනය කර අලෙවි කිරීමටය.
+
+ඒ අනුව පළමු තොගය ලෙස ලූනු මෙට්‍රික්ටොන් 2000ක් ඉදිරි සති දෙක තුළ ගෙන්වීමට නියමිත බව සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා අද දෙරණට සඳහන් කළේය.
+
+කෙසේවෙතත් මෙරට මාසික ලොකු ලූනු අවශ්‍යතාව මෙට්‍රික්ටොන් 20,000ක් පමණ වන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පැවසීය.
+
+◼️
+
+[Data](articles/d39c6d31.json)
+
+---
 
 ### Detention orders issued on four including naval officers busted with ‘Ice’
 
@@ -40,9 +78,13 @@ The Hulftsdorp Magistrate’s Court has issued a detention order on the four sus
 
 Accordingly, the arrested individuals will be detained until 26 April for interrogations.
 
-On Friday (19), the officers of Mulleriyawa Polic arrested 510 grams of ‘Ice’ from the possession of four individuals. The consignment was estimated to be worth Rs. 7.5 million.
+On Friday (19), the officers of Mulleriyawa Police arrested 510 grams of ‘Ice’ from the possession of four individuals. The consignment was estimated to be worth Rs. 7.5 million.
 
-Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
+Acting on a tip-off received on drug distribution, the police officers had raided a house located on Siriperakum Mawatha in Mulleriyawa.
+
+A total of six people were inside the house at the time of the raid, and various amounts of ‘Ice’ adding up to a total of 510 grams were found on four of them.
+
+Two suspects were identified as Lieutenant Commanders of the Sri Lanka Navy. During interrogations, they divulged that they have been frequenting the house for about one and a half years now.
 
 ◼️
 
@@ -2085,45 +2127,5 @@ Members and their guests will be welcome to the Sports Centre of the Hilton to b
 [Data](articles/b804e72a.json)
 
 [Extended Data](ext_articles/b804e72a.ext.json)
-
----
-
-### Four including naval officers nabbed with ‘Ice’ worth Rs. 7.5mn
-
-*2024-04-19 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98732/four-including-naval-officers-nabbed-with-ice-worth-rs-75mn) · `en`
-
-Four individuals, including naval officers, have been arrested while in possession of crystal methamphetamine (‘Ice’).
-
-The officers of Mulleriyawa Police made the arrest on Friday (19).
-
-Accordingly, 510 grams of ‘Ice’, estimated to be worth Rs. 7.5 million, was found on the suspects at the time of the arrest.
-
-Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
-
-◼️
-
-[Data](articles/2fe769d2.json)
-
-[Extended Data](ext_articles/2fe769d2.ext.json)
-
----
-
-### Four including naval personnel nabbed with ‘Ice’ worth Rs. 7.5mn
-
-*2024-04-19 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98732/four-including-naval-personnel-nabbed-with-ice-worth-rs-75mn) · `en`
-
-Four individuals, including naval officers, have been arrested while in possession of crystal methamphetamine (‘Ice’).
-
-The officers of Mulleriyawa Police made the arrest on Friday (19).
-
-Accordingly, 510 grams of ‘Ice’, estimated to be worth Rs. 7.5 million, was found on the suspects at the time of the arrest.
-
-Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
-
-◼️
-
-[Data](articles/40571644.json)
-
-[Extended Data](ext_articles/40571644.ext.json)
 
 ---

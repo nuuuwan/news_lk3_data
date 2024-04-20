@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 20:50:52**
+As of **2024-04-20 21:03:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,936 (100.0%) of 19,938 articles have been extended.
+19,938 (100.0%) of 19,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,39 +36,47 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-20 20:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98747/lanka-sathosa-to-import-2000-mt-of-big-onions-) · `en`
 
-<p>Sri Lanka has decided to import big onions from India through Lanka Sathosa. <p/>
+Sri Lanka has decided to import big onions from India through Lanka Sathosa.
 
-<p>India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi governments Neighbourhood First Policy. <p/>
+India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi governments Neighbourhood First Policy.
 
-<p>Accordingly, discussions were held at the Ministry of Trade whether to carry out the big onion imports through state or private sector and it was decided to import onions through Lanka Sathosa. <p/>
+Accordingly, discussions were held at the Ministry of Trade whether to carry out the big onion imports through state or private sector and it was decided to import onions through Lanka Sathosa.
 
-<p>When inquired by Ada Derana, Chairman of Lanka Sathosa Pasanda Yapa Abeywardena said that 2,000 metric tonnes of big onions would be imported as the initial stock. <p/>
+When inquired by Ada Derana, Chairman of Lanka Sathosa Pasanda Yapa Abeywardena said that 2,000 metric tonnes of big onions would be imported as the initial stock.
 
-<p>Nevertheless, Minister of Trade Nalin Fernando emphasized that the monthly big onions requirement of Sri Lanka is around 20,000 metric tonnes.<p/>
+Nevertheless, Minister of Trade Nalin Fernando emphasized that the monthly big onions requirement of Sri Lanka is around 20,000 metric tonnes.
 
 ◼️
 
 [Data](articles/f1087fa2.json)
 
+[Extended Data](ext_articles/f1087fa2.ext.json)
+
 ---
 
-### සිරිසේන පිල සහ සිරිපාල පිල ගැටෙයි
+### Sirisena clashes Sirisena team
 
 *2024-04-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195819) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය කැඳවූ රැස්වීමක් පැවති ස්ථානයට ගොස් විරෝධය පළකීරිමට එහි වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ කණ්ඩායම අද (20) කටයුතු කර තිබුණි.
+Maithripala Sirisena's team clashed, with UNP's Duminda Dissanayake defending the legality of a meeting chaired by Sirisena, held in a public hotel. Sirisena, UNP's national organizer, and Treasurer Lasantha Alagiyawanna protested against claims it was not legal.
 
-එම පක්ෂයේ ජාතික සංවිධායක දුමින්ද දිසානායක මහතා පැවසුවේ පක්ෂයේ ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතාගේ ප්‍රධානත්වයෙන් පැවති එම රැස්වීම නීත්‍යානුකූල නොවන බවය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ තනතුරු බෙදීයාම සම්බන්ධයෙන් පැන නැගී ඇති අර්බුදකාරි තත්ත්වය තුළ වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය අද දේශපාලන මණ්ඩල රැස්වීමක් කැඳවා තිබුණි.
+The team of acting chairman Maithripala Sirisena was the team of acting chairman Maithripala Sirisena.
 
-එම පක්ෂයේ ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම ජයවර්ධනපුර ප්‍රදේශයේ ප්‍රසිද්ධ හෝටලයක කැඳවා ඇති බව වාර්තා විය
+The UNP's national organizer Duminda Dissanayake said that the meeting was legal at the chaired by Party Secretariat.
 
-කෙසේවෙතත් එය නීත්‍යනුකූල රැස්වීමක් නොවන බව පවසමින් භාණ්ඩාගාරික ලසන්ත අලගියවන්න සහ ජාතික සංවිධායක දුමින්ද දිසානායක ඇතුළු පිරිසක් එම ස්ථානයට ගොස් විරෝධය පළ කර තිබුණි.
+Chairman Maithripala Sirisena had summoned a political bokering meeting today in the crisis situation in the Sri Lanka Freedom Party.
+
+It was reported that the meeting was convened at a public hotel in the Jayewardenepura area under the patronage of the party's secretariat.
+
+However, the Treasurer Lasantha Alagiyawanna and National Organizer Duminda Dissanayake were also protesting against the claim that it was not a legal meeting.
 
 ◼️
 
 [Data](articles/0e38d2b5.json)
+
+[Extended Data](ext_articles/0e38d2b5.ext.json)
 
 ---
 

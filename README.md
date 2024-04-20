@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 12:34:05**
+As of **2024-04-20 12:49:39**
 
 ## Newspaper Stats
 
-*Scraped **19,891** Articles*
+*Scraped **19,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,098
-economynextcom | 1,138
+economynextcom | 1,139
 adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,228
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,890 (100.0%) of 19,891 articles have been extended.
+19,891 (100.0%) of 19,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### සිසුවෙක් ට මරු කැඳවූ යතුරුපැදි අනතුර
+### Motorcycle accident killed
 
 *2024-04-20 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195805) · `si`
 
-රඹේ - මැල්සිරිපුර මාර්ගයේ පන්සියගම ප්‍රදේශයේ දී සිදුවූ රිය අනතුරකින් සිසුවෙකු මියගොස් තිබේ.
+A 16-year-old student died in a motorcycle accident on Panc ලා nsigura road, Rambe-Melshipura. The accident happened at night, and the victim was from Gellanwewa. The driver was admitted to Polpithigama Hospital and later died. The injured were transferred to Kurunegala Hospital.
 
-තිදෙනෙකු ගමන් කළ යතුරු පැදියක් පැදිකරුට, පාලනය කර ගත නොහැකිව මාර්ගයෙන් ඉවතට පැන විදුලි රැහැන් කණුවක ගැටීමෙන් මෙම අනතුර සිදුව ඇත.
+🟩
 
-පොලීසිය පැවසුවේ ඊයේ (19) රාත්‍රියේ දී මෙම අනතුර සිදුව ඇති බවය.
+A student was killed in an accident in Panc ලා nsigura road in Rambe-Melshipura.
 
-අනතුරින් පැදිකරු සහ පසු පැදිකරුවෙකු බරපතළ තුවාල ලබා පොල්පිතිගම රෝහල‌ට ඇතුළත් කිරීමේදී පැදිකරු මියගොස් තිබේ.
+The accident had occurred when the motorcyclus traded, accidentally collided with a ridiculous vehicle.
 
-මෙලෙස මියගොස් ඇත්තේ 16 හැවිරිදි ගලටන්වැව ප්‍රදේශයේ පදිංචිව සිටි  සිසුවෙකි.
+The police said that the accident had occurred at night.
 
-තුවාල ලැබු පසුපැදිකරුවෙක් වැඩිදුර ප්‍රතිකාර සඳහා කුරුණෑගල රෝහලට මාරුකර යවා ඇති බව පොලීසිය පවසයි.
+The driver has died after admission to the Polpithigama Hospital.
+
+The victim was a 16 year old resident of the Gellanwewa area.
+
+The injured have been transferred to Kurunegala Hospital for further treatment.
 
 ◼️
 
 [Data](articles/7f61841a.json)
+
+[Extended Data](ext_articles/7f61841a.ext.json)
 
 ---
 
@@ -75,6 +81,26 @@ The National Disaster Management Authority (DMC) has said that 82 others were in
 [Data](articles/b6bdf684.json)
 
 [Extended Data](ext_articles/b6bdf684.ext.json)
+
+---
+
+### Sri Lanka’s Softlogic says restructuring debt, seeking investors for hotels, ODEL
+
+*2024-04-20 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-says-restructuring-debt-seeking-investors-for-hotels-odel-159494/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Softlogic group has begun restructuring its debt and is seeking investors for hotels and ODEL retail project, while also selling off assets, according to its annual report for the year to March 2023.
+
+Softlogic group, which has interests in retail, hotels, finance and healthcare, posted a loss of 24.07 billion rupees for the year to March 2023, up from 8.1 billion a year earlier.
+
+Group revenues including insurance fell to 96.8 billion rupees from 111.2 billion rupees, according to accounts qualified by the auditors.
+
+Net finance costs were 20.9 billion rupees as interest rates rose on the heavily leveraged group. Forex losses of 4.0 billion contributed to the finance costs.
+
+The group had 42 billion rupees in long term borrowings by end March 2023, up from 38.6 billion and overdrafts of 9.3 billion, up from 6.6 billion rupees.
+
+...
+
+[Data](articles/b7cabcd7.json)
 
 ---
 
@@ -2087,33 +2113,5 @@ A stakeholder meeting, hosted by the Alliance for Aquatic Research and Conservat
 [Data](articles/193570c4.json)
 
 [Extended Data](ext_articles/193570c4.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.00/50 to the US dollar
-
-*2024-04-19 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-00-50-to-the-us-dollar-159407/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.00/50 to the US dollar in the spot forex market on Friday, down from 301.50/302.00 a day earlier, dealers said.
-
-There was increased demand for dollars after the central bank bought 715 million dollars from forex markets. In the previous two months it was buying on average about 200 million US dollars, leaving market participants and bank in a ‘oversold’ position.
-
-READ Sri Lanka rupee quoted wide to US dollar as peg inconsistencies flare up
-
-A bond maturing on 15.12.2026 closed at 11.30/40 percent down from 11.35/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.95/12.05 percent up from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.15/25 percent.
-
-A bond maturing on 15.09.2029 closed stable at 12.30/40 percent.
-
-A bond maturing on 01.10.2032 closed stable at 12.40/50 percent. (Colombo/Apr19/2024)
-
-◼️
-
-[Data](articles/2a76f0ec.json)
-
-[Extended Data](ext_articles/2a76f0ec.ext.json)
 
 ---

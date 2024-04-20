@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 00:18:23**
+As of **2024-04-21 00:34:19**
 
 ## Newspaper Stats
 
-*Scraped **19,946** Articles*
+*Scraped **19,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,099
-economynextcom | 1,141
+economynextcom | 1,142
 adalk | 1,654
 tamilmirrorlk | 2,300
 adaderanalk | 2,392
@@ -26,9 +26,31 @@ adaderanasinhalalk | 3,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,944 (100.0%) of 19,946 articles have been extended.
+19,946 (100.0%) of 19,947 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-21 (Sunday)
+
+### Sri Lanka’s Easter Bombings:  A Preventable Tragedy
+
+*2024-04-21 00:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-easter-bombings-a-preventable-tragedy-159516/) · `en`
+
+ECONOMYNEXT – Five years on, Sri Lanka’s Easter Sunday bombings has left us with more questions than answers.
+
+Both the Gotabaya Rajapaksa government and now the Ranil Wickremesinghe tenure has been shown up poorly in terms of ensuring the masterminds and those who failed to prevent the bombings are bought to book.
+
+As one sifts through various reports and discussions on the Easter Sunday bombings which took the lives of 315 and injured at least 600, one must, as Sunanda Deshapriya, activist and investigative journalist told a webinar recently, ask whether that tragedy was preventable.
+
+The webinar was organised by the Solidarity Movement for Justice and Truth (SMJT).
+
+One interesting fact that investigators discovered, Deshapriya said, was that a phone number used by one of the bombers, was amongst a series used by the infamous ‘Tripoli Brigade’  that is alleged to be behind the Lasantha Wickrematunga murder.
+
+...
+
+[Data](articles/0c1e4f90.json)
+
+---
 
 ### 2024-04-20 (Saturday)
 
@@ -123,6 +145,8 @@ Passengers who have missed flights due to early departure are being given altern
 ...
 
 [Data](articles/1bd61f84.json)
+
+[Extended Data](ext_articles/1bd61f84.ext.json)
 
 ---
 
@@ -2205,29 +2229,5 @@ Ariyaratne passed away on Tuesday after a brief illness at a private hospital. H
 [Data](articles/bb29fac3.json)
 
 [Extended Data](ext_articles/bb29fac3.ext.json)
-
----
-
-### The court can go to court against the new bill
-
-*2024-04-20 00:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டமூலத்திற்கு-எதிராக-நீதிமன்றம்-செல்லலாம்/175-336108) · `ta`
-
-Minister Kanjana Wijesekera opposes court action against the new electricity bill, aiming to reduce bills and administrative costs by transitioning to fuel-powered plants.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera said that no one can seek court against the new electricity bill.
-
-However, the purpose of the new Electricity Bill is to reduce electricity bills, he said.
-
-Minister Kanjana Wijesekera said that the second of the two methods is to reduce the cost of administrative costs.
-
-To reduce the cost of power supply, it will be replaced by fuel -powered power plants in the future, ”he said.. (A)
-
-◼️
-
-[Data](articles/38693164.json)
-
-[Extended Data](ext_articles/38693164.ext.json)
 
 ---

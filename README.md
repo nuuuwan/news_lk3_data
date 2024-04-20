@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 15:33:57**
+As of **2024-04-20 15:51:58**
 
 ## Newspaper Stats
 
-*Scraped **19,911** Articles*
+*Scraped **19,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,386
 virakesarilk | 2,979
 dailymirrorlk | 3,102
-adaderanasinhalalk | 3,231
+adaderanasinhalalk | 3,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,909 (100.0%) of 19,911 articles have been extended.
+19,911 (100.0%) of 19,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### කොකේන් යැයි සැක මත්ද්‍රව්‍ය සමග කාන්තාවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-04-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195809) · `si`
+
+තම ශරීරය අභ්‍යන්තරයේ සඟවා මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට උත්සාහ කළ විදෙස් ජාතික කාන්තාවන් දෙදෙනෙකු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේදී  අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සිදුකළ වැටලීමකදී අදාළ මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇති බව සඳහන්.
+
+ඒ අනුව කාන්තාවන් දෙදෙනා තම ශරීරය අභ්‍යන්තරයේ සඟවා ගෙන සිටි මත්ද්‍රව්‍ය ගුලි 40ක් පිටතට ගෙන ඇති බව සඳහන් ය.
+
+සිදුකරන ලද මූලික පරීක්ෂණවලදී මෙම මත්ද්‍රව්‍ය කොකේන් බවට හඳුනාගෙන ඇති අතර එහි ‍වෙළ‍ෙඳපළ වටිනාකම රුපියල් මිලියන 20කට අධික බව සඳහන් ය.
+
+මෙම කාන්තාවන් දෙදෙනා ගිනි ජනරජයට අයත් ජාතිකයින් වන අතර ඔවුන් 40 සහ 42 දෙහැවිරිදි වියේ පසුවන බව රේගුව සඳහන් කරයි.
+
+ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් මේ සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/4acdf4ae.json)
+
+---
 
 ### Immigration Department to launch online visa for Sri Lanka ship travellers
 
@@ -43,6 +65,8 @@ The Department's Additional Controller General Nimal Gunawardena said that the o
 ◼️
 
 [Data](articles/5c881204.json)
+
+[Extended Data](ext_articles/5c881204.ext.json)
 
 ---
 
@@ -158,21 +182,27 @@ The Kim family dynasty that has ruled North Korea since its founding after World
 
 ---
 
-### ஏ.டி .ஆரியரத்னவுக்கு இறுதி அஞ்சலி : கொழும்பில் இன்று விசேட போக்குவரத்துத் திட்டம்
+### Final tribute to ATA Ariyarathna: Special Transport Plan in Colombo Today
 
 *2024-04-20 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181517) · `ta`
 
-கொழும்பு பிரதேசத்தில் இன்று (20) பிற்பகல் ஒரு மணிமுதல் ஹைலெவல் வீதி, சுதந்திர சதுக்கம் மற்றும் காலி வீதியில்  விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக போக்குவரத்துப் பொலிஸார் தெரிவித்தனர்.
+Special traffic project in Colombo today for tribute to Dr. A.Ariyarathna, founder of Sarvodaya. Funeral at Moratuwa Sarvodaya headquarters, then Independence Square.
 
-சர்வோதயா சமூக மேம்பாட்டு சமூக நலத் திட்டத்தின் ஸ்தாபகர் மறைந்த கலாநிதி ஏ.டி .ஆரியரத்னவின் பூதவுடலுக்கு இன்று சனிக்கிழமை (20) மாலை சுதந்திர சதுக்கத்தில் அரச மரியாதையுடன் அஞ்சலி செலுத்தப்படவுள்ளமையினால் இந்த விசேட போக்குவரத்து திட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-ஸ்ரீலங்காபிமன்ய ஏ.டி .ஆரியரத்ன தனது 93வது வயதில் ஏப்ரல் 16ஆம் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த நிலையில் காலமானார்.
+Transport police said that a special traffic project will be implemented at Highlight Road, Independence Square and Galle Road in Colombo this afternoon.
 
-கலாநிதி ஆரியரத்னவின் பூதவுடல் இன்றைய தினம் பிற்பகல் ஒரு மணி வரை மொறட்டுவை சர்வோதய தலைமையகத்தில் வைக்கப்பட்டு பின்னர் அங்கிருந்து கொழும்பில் உள்ள சுதந்திர சதுக்கத்திற்கு எடுத்துச் செல்லப்பட்டு இறுதி ஊர்வலம் இடம்பெறும். இதன் பின்னர் இறுதி சமய சடங்குகளை தொடர்ந்து மாலை 6 மணியளவில் இறுதிக் கிரியைகள் நடைபெறும்.
+The special traffic scheme has been organized as the founder of the Sarvodaya Social Development Social Welfare Program will be paid tribute to the late Dr. A.Ariyarathna's boutique in Independence Square today (20).
+
+SriLangabhimanya AT Ariyaratne passed away at the age of 93 at the age of 93 at a private hospital in Colombo.
+
+Dr. Aryaratne's funeral will be held at the Moratuwa Sarvodaya headquarters at the Sarvodaya headquarters today and then to the Independence Square in Colombo.. The final rituals will be held at 6 pm following the final rituals.
 
 ◼️
 
 [Data](articles/ea46dad4.json)
+
+[Extended Data](ext_articles/ea46dad4.ext.json)
 
 ---
 
@@ -2083,29 +2113,5 @@ He was summoned to the CID to give a statement on the Easter Sunday attacks.
 [Data](articles/01494bf9.json)
 
 [Extended Data](ext_articles/01494bf9.ext.json)
-
----
-
-### Demonstration of the girl's death
-
-*2024-04-19 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181483) · `ta`
-
-Villagers in Taranikkulam protested for justice in a girl's death, alleging her murder by her father. Demonstrators blocked the Eachankulam police station, demanding justice, protection for the girl's children, and an end to drug use. Traffic was affected, and the case involved allegations of abuse and drug use.
-
-🟩
-
-On Friday (19), the villagers of Taranikkulam staged a protest by blocking the Eachankulam police station demanding justice for the death of a girl who died in Vavuniya recently.
-
-Villagers and relatives staged a demonstration in front of the girl's house, saying that the death of a 17 -year -old girl was recovered as the body of a 17 -year -old girl had been recovered after being hanged at home in Taranikkulam on the 17th.
-
-The little fathers were responsible for the death of the girl, saying that the little fathers were responsible for the massacre and marched from the house of the girl who died from the house of the girl to the Eachankulam police station and blocked the police station.
-
-During this time, the demonstration demanded justice for the murder of the girl, the protection of the girl's children, and the death of Sadhumita's death, and without leaking and drugs, justice should be justice and justice for the death of the death of the girl who died.
-
-...
-
-[Data](articles/b9c9d595.json)
-
-[Extended Data](ext_articles/b9c9d595.ext.json)
 
 ---

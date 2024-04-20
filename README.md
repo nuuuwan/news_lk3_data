@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 20:33:42**
+As of **2024-04-20 20:50:52**
 
 ## Newspaper Stats
 
-*Scraped **19,936** Articles*
+*Scraped **19,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
 tamilmirrorlk | 2,300
-adaderanalk | 2,390
+adaderanalk | 2,391
 virakesarilk | 2,981
 dailymirrorlk | 3,108
-adaderanasinhalalk | 3,239
+adaderanasinhalalk | 3,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,934 (100.0%) of 19,936 articles have been extended.
+19,936 (100.0%) of 19,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Lanka Sathosa to import 2,000 MT of big onions
+
+*2024-04-20 20:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98747/lanka-sathosa-to-import-2000-mt-of-big-onions-) · `en`
+
+<p>Sri Lanka has decided to import big onions from India through Lanka Sathosa. <p/>
+
+<p>India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi governments Neighbourhood First Policy. <p/>
+
+<p>Accordingly, discussions were held at the Ministry of Trade whether to carry out the big onion imports through state or private sector and it was decided to import onions through Lanka Sathosa. <p/>
+
+<p>When inquired by Ada Derana, Chairman of Lanka Sathosa Pasanda Yapa Abeywardena said that 2,000 metric tonnes of big onions would be imported as the initial stock. <p/>
+
+<p>Nevertheless, Minister of Trade Nalin Fernando emphasized that the monthly big onions requirement of Sri Lanka is around 20,000 metric tonnes.<p/>
+
+◼️
+
+[Data](articles/f1087fa2.json)
+
+---
+
+### සිරිසේන පිල සහ සිරිපාල පිල ගැටෙයි
+
+*2024-04-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195819) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය කැඳවූ රැස්වීමක් පැවති ස්ථානයට ගොස් විරෝධය පළකීරිමට එහි වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ කණ්ඩායම අද (20) කටයුතු කර තිබුණි.
+
+එම පක්ෂයේ ජාතික සංවිධායක දුමින්ද දිසානායක මහතා පැවසුවේ පක්ෂයේ ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතාගේ ප්‍රධානත්වයෙන් පැවති එම රැස්වීම නීත්‍යානුකූල නොවන බවය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ තනතුරු බෙදීයාම සම්බන්ධයෙන් පැන නැගී ඇති අර්බුදකාරි තත්ත්වය තුළ වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය අද දේශපාලන මණ්ඩල රැස්වීමක් කැඳවා තිබුණි.
+
+එම පක්ෂයේ ලේකම් දුෂ්මන්ත මිත්‍රපාල මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම ජයවර්ධනපුර ප්‍රදේශයේ ප්‍රසිද්ධ හෝටලයක කැඳවා ඇති බව වාර්තා විය
+
+කෙසේවෙතත් එය නීත්‍යනුකූල රැස්වීමක් නොවන බව පවසමින් භාණ්ඩාගාරික ලසන්ත අලගියවන්න සහ ජාතික සංවිධායක දුමින්ද දිසානායක ඇතුළු පිරිසක් එම ස්ථානයට ගොස් විරෝධය පළ කර තිබුණි.
+
+◼️
+
+[Data](articles/0e38d2b5.json)
+
+---
 
 ### Sudden security program for the WPC
 
@@ -272,15 +312,25 @@ The airline asserted that it would maintain this routing and the earlier departu
 
 ---
 
-### விஷாலின் 'ரத்னம்' 60 : 40
+### Vishal's 'Ratnam' 60: 40
 
 *2024-04-20 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181533) · `ta`
 
-தமிழ் திரையுலகில் இயக்குநர் ஹரிக்கு என தனியாக ரசிகர் வட்டம் உண்டு. இவர் இயக்கிய பதினைந்திற்கும் மேற்பட்ட படங்களில் திரைக்கதை என்பது பரபரப்பாகவும், விறுவிறுப்பாகவும் இருக்கும். இதனை தன்னுடைய முத்திரையாக பதித்து தனி பாணியில் படங்களை இயக்கி வரும் இவரது இயக்கத்தில் உருவாகி இருக்கும் 'ரத்னம்' எனும் திரைப்படம், '60 சதவீதம் எக்சனும் 40 சதவீதம் சென்டிமென்ட்டும் கலந்து இருக்கும்' என இயக்குநர் ஹரி தெரிவித்திருக்கிறார்.
+"Vishal's 'Ratnam' mixes styles, directed by Hari, featuring a blend of action and sentiment. Co-produced by Karthikeyan Santhanam and Alankar Pandian, it's set for release on the 26th. Hari emphasizes a balance of excitement and family sentiment, with minimal fight scenes."
+
+🟩
+
+Director Hari in Tamil film industry has a separate fan circle. The screenplay in more than fifteen films he has directed. Director Hari has said that the film 'Ratnam' will be mixed with 'Ratnam', which will be produced by his stamp and directed by a separate style.
+
+Directed by director Hari, Vishal, Priya Bhavani Shankar, Samudrakani, Yogi Babu, Gautam Vasudev Menon, Ramachandra Raju, Murali Sharma, Harish Peradi, Jayaprakash, Tulsi. M.. The film, which has been recorded by Sukumar, has composed the film 'Rock Star' Devi Sri Prasad. Producer Karthikeyan Santhanam and Alankar Pandian have co -produced the film on behalf of Stone Bench Films, G Studio and Invineo Arjin.. The film will be released on the 26th of this month at the film mansions worldwide.
+
+The event was held at the star hotel in Chennai. The film crew participated in the event.
 
 ...
 
 [Data](articles/01acd5d3.json)
+
+[Extended Data](ext_articles/01acd5d3.ext.json)
 
 ---
 
@@ -506,23 +556,29 @@ In the interrogation of the two, they were two Lieutenant Commanders in the Navy
 
 ---
 
-### அமெரிக்க குடிமகனான இளவரசர் ஹாரி
+### The US citizen Prince Harry
 
 *2024-04-20 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181521) · `ta`
 
-பிரித்தானிய சாம்ராஜ்யத்தின் அரியணையில் ஐந்தாவது இடத்தில் உள்ள இளவரசர் ஹாரி தன்னை ஒரு அமெரிக்க குடிமகன் எனக் கூறியுள்ளார்.
+Prince Harry, fifth in line for the British throne, declared himself an American citizen in 2020, leaving England. He and his family live in California, where he founded a travel company, Travelyst, in 2019, initially identifying Britain as his home.
 
-பிரித்தானிய மன்னரான சார்ல்ஸின் மகனான ஹாரி, 2020 ஆம் ஆண்டு இங்கிலாந்திருலிருந்து தனது குடும்பத்துடன் வெளியேறினார்.
+🟩
 
-தற்போது, அமெரிக்காவில்  கலிபோர்னியாவில் மனைவி மேகன் மார்க்கல், குழந்தைகள் ஆர்ச்சி, லில்லிபெட் ஆகியோருடன் வசித்து வருகிறார்.
+Prince Harry, who is in the fifth place on the throne of the British Empire, has called himself an American citizen.
 
-2019 இல் அமெரிக்காவில், `Travalyst' என்றொரு பயணம் சார்ந்த நிறுவனத்தை ஆரம்பித்திருந்தார்.  அந்தச் சமயத்தில், ஹாரி அந்த நிறுவனத்தின் ஆவணங்களில் தனது வசிப்பிடமாகவும், சொந்த நாடாகவும் பிரிட்டனைக் குறிப்பிட்டிருந்தார்
+Harry, the son of British king Charles, left his family in 2020 from England.
 
-ஹரி தற்போது அந்த நிறுவனத்தின் ஆண்டறிக்கையில், தனது புது நாடாக அமெரிக்காவைக் குறிப்பிட்டிருக்கிறார்.
+Currently, California, wife of California, lives with Children's Archie and Lillipet.
+
+In the United States in 2019, he started a travel -based company called 'Travelyst'.At that time, Harry referred to Britain as his residence and home country in the company's documents
+
+Hari has now referred to the United States as his new country.
 
 ◼️
 
 [Data](articles/4ea7a913.json)
+
+[Extended Data](ext_articles/4ea7a913.ext.json)
 
 ---
 
@@ -2167,41 +2223,5 @@ With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken
 [Data](articles/b422e653.json)
 
 [Extended Data](ext_articles/b422e653.ext.json)
-
----
-
-### HVA Foods strengthens leadership team
-
-*2024-04-19 23:40:07* · [`dailyftlk`](https://www.ft.lk/business/HVA-Foods-strengthens-leadership-team/34-760830) · `en`
-
-HVA Foods PLC, a member of the George Steuart Group, has announced two additions to its Board of Directors.
-
-Graham Stork has taken up duties as Director and Chief Executive Officer, while Samantha Ranatunga has taken up duties as Independent Non-Executive Director and Chairman.
-
-Heladiv is HVA Foods PLC’s globally renowned flagship brand, registered in over 40 countries. HVA Foods PLC is a dynamic subsidiary within the George Steuart conglomerate, which was founded by local entrepreneur and tea professional Rohan Fernando. Both, Samantha Ranatunga and Graham Stork who are leading professionals, with proven expertise in their respective fields, are dedicated to propelling Heladiv and HVA Foods PLC to new heights.
-
-...
-
-[Data](articles/695cefe6.json)
-
-[Extended Data](ext_articles/695cefe6.ext.json)
-
----
-
-### Seylan Credit Cards partners British Council to offer 0% instalment plans for IELTS and other courses
-
-*2024-04-19 23:39:02* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Credit-Cards-partners-British-Council-to-offer-0-instalment-plans-for-IELTS-and-other-courses/34-760829) · `en`
-
-Seylan Cards is reaffirming its dedication to empowering customers through education by announcing its partnership with the British Council.
-
-Seylan Cards has introduced exclusive 0% instalment plans for 12 months, specifically tailored for IELTS and other educational courses provided by the British Council. This initiative aims to facilitate access to quality education for individuals seeking to enhance their skills and opportunities.
-
-This initiative underscores Seylan Bank’s dedication to supporting the aspirations of the youth and facilitating access to quality education. This offer extends to a maximum conversion of Rs. 1 million and is valid for all courses conducted by the British Council until 31 December.
-
-...
-
-[Data](articles/8826a51f.json)
-
-[Extended Data](ext_articles/8826a51f.ext.json)
 
 ---

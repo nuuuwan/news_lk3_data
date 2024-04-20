@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 11:03:37**
+As of **2024-04-20 11:18:31**
 
 ## Newspaper Stats
 
-*Scraped **19,878** Articles*
+*Scraped **19,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,651
 tamilmirrorlk | 2,296
-adaderanalk | 2,380
+adaderanalk | 2,382
 virakesarilk | 2,977
 dailymirrorlk | 3,091
-adaderanasinhalalk | 3,224
+adaderanasinhalalk | 3,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,875 (100.0%) of 19,878 articles have been extended.
+19,878 (100.0%) of 19,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### බහින්බස්වීම ඝාතනයකින් කෙළවර වෙයි
+
+*2024-04-20 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195802) · `si`
+
+මිතුරන් දෙදෙනෙකු අතර ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් එම පහරදීම සිදුකර ඇති බව පොලීසිය පවසයි.
+
+ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර වාලච්චේන පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/c71ff99b.json)
+
+---
 
 ### Foreign Affairs Ministry to open Sri Lanka High Commission in Wellington
 
@@ -47,6 +61,8 @@ Among the primary objectives of this is to develop cooperation between the two c
 ◼️
 
 [Data](articles/e1c8f9cd.json)
+
+[Extended Data](ext_articles/e1c8f9cd.ext.json)
 
 ---
 
@@ -68,6 +84,24 @@ Doctors said the mother and the infant were getting on well.
 
 [Data](articles/77784fb1.json)
 
+[Extended Data](ext_articles/77784fb1.ext.json)
+
+---
+
+### Final rites of Dr. Ariyaratne to be performed this evening
+
+*2024-04-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98738/final-rites-of-dr-ariyaratne-to-be-performed-this-evening) · `en`
+
+The final rites of the late Dr. A. T. Ariyaratne, the founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, will be performed today (20) with full state honours.
+
+Sri Lankabhimanya Ahangamage Tudor Ariyaratne passed away on 16 April, at the age of 93. He was receiving treatment at a private hospital in Colombo.
+
+Following his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and the officials of Sarvodaya convened a meeting to discuss the funeral arrangements. During the meeting, the Secretary to the Ministry of Home Affairs, Public Administration & Provisional Councils, Pradeep Yasaratne was instructed to see to it that the final rites of the late Dr. Ariyaratne are performed with full state honours.
+
+...
+
+[Data](articles/ab468eb7.json)
+
 ---
 
 ### Prince Harry, now calls himself a U.S. resident
@@ -83,6 +117,24 @@ The Duke and Duchess of Sussex have not lived in the United Kingdom for years, h
 ...
 
 [Data](articles/824d98da.json)
+
+[Extended Data](ext_articles/824d98da.ext.json)
+
+---
+
+### British woman arrested with drugs in Nuwara Eliya
+
+*2024-04-20 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98737/british-woman-arrested-with-drugs-in-nuwara-eliya) · `en`
+
+Police have arrested a foreign woman and a local who were in possession of drugs in the Toppass area of Nuwara Eliya.
+
+The officers of Nuwara Eliya Divisional Crimes Unit have seized around 19 grams of Kush cannabis and 03 grams of Hash while inspecting the van in which they travelled, the police said.
+
+Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara Eliya area have been arrested along with the seized drugs. The apprehended local person was the driver of the van, according to police.
+
+◼️
+
+[Data](articles/cd687f00.json)
 
 ---
 
@@ -2063,67 +2115,5 @@ As planned, the distribution of 735 metric tons of rice to provincial-level scho
 [Data](articles/ac1155aa.json)
 
 [Extended Data](ext_articles/ac1155aa.ext.json)
-
----
-
-### Initial work for concentrated rice schools
-
-*2024-04-19 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181467) · `ta`
-
-The World Food Scheme launched fortified rice distribution to schools on 19th, aiming to reduce iron deficiency. 735 metric tonnes of rice will be distributed at the provincial level starting today, under the supervision of the Director General of the Joint Secretariat for the World Food Program. The program, under "Healthy Student Generation", aims to provide breakfast to all primary school students daily, benefiting 1.6 million students this year.
-
-🟩
-
-The distribution of fortified rice to schools through the World Food Scheme for the Posaka Food Project for School Students was launched on Friday (19) at the Veyangoda Food Repository Complex.
-
-In order to reduce iron deficiency among schoolchildren, the fortified rice is provided for school food and the distribution process is under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat.
-
-Accordingly, for the first time, the provision of 735 metric tonnes of rice to schools at the provincial level will commence today and tomorrow (20) will continue tomorrow (20).. Rice is distributed to schools under the supervision of the concerned Provincial Department of Education and Public Health Inspectors.
-
-...
-
-[Data](articles/32adc83a.json)
-
-[Extended Data](ext_articles/32adc83a.ext.json)
-
----
-
-### Election Commission to accept SLFP nominations despite disputes
-
-*2024-04-19 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-to-accept-SLFP-nominations-despite-disputes/108-281000) · `en`
-
-Colombo, April 19 - Notwithstanding the internal friction within the Sri Lanka Freedom Party (SLFP) resulting in changes in party's leadership positions, the Election Commission clarified its role in accepting nominations for SLFP candidates in the event that internal conflicts persist beyond the declaration of elections.
-
-However, the Commission asserted that it has no legal authority to mediate in the internal conflicts within the SLFP.
-
-This was taken into account when the Commission members met yesterday (18) to scrutinize documents submitted by certain members of the SLFP pertaining to recent shifts in party leadership positions.
-
-On April 8, during a politburo meeting chaired by former President Chandrika Bandaranaike Kumaratunga, incumbent Vice Chairman MP Nimal Siripala de Silva was appointed Acting President, while MP Duminda Dissanayake was named General Secretary.
-
-...
-
-[Data](articles/820873d6.json)
-
-[Extended Data](ext_articles/820873d6.ext.json)
-
----
-
-### Election Commission to accept SLFP nominations despite disputes
-
-*2024-04-19 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-to-accept-SLFP-nominations-despite-disputes/155-281000) · `en`
-
-Colombo, April 19 - Notwithstanding the internal friction within the Sri Lanka Freedom Party (SLFP) resulting in changes in party's leadership positions, the Election Commission clarified its role in accepting nominations for SLFP candidates in the event that internal conflicts persist beyond the declaration of elections.
-
-However, the Commission asserted that it has no legal authority to mediate in the internal conflicts within the SLFP.
-
-This was taken into account when the Commission members met yesterday (18) to scrutinize documents submitted by certain members of the SLFP pertaining to recent shifts in party leadership positions.
-
-On April 8, during a politburo meeting chaired by former President Chandrika Bandaranaike Kumaratunga, incumbent Vice Chairman MP Nimal Siripala de Silva was appointed Acting President, while MP Duminda Dissanayake was named General Secretary.
-
-...
-
-[Data](articles/e6a1285e.json)
-
-[Extended Data](ext_articles/e6a1285e.ext.json)
 
 ---

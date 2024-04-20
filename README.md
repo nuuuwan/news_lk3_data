@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 05:18:21**
+As of **2024-04-20 05:38:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,840 (100.0%) of 19,841 articles have been extended.
+19,841 (100.0%) of 19,841 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -977,6 +977,8 @@ In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all
 ◼️
 
 [Data](articles/8885d06b.json)
+
+[Extended Data](ext_articles/8885d06b.ext.json)
 
 ---
 

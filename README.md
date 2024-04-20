@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 09:03:33**
+As of **2024-04-20 09:18:40**
 
 ## Newspaper Stats
 
-*Scraped **19,863** Articles*
+*Scraped **19,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,136
 adalk | 1,649
 tamilmirrorlk | 2,295
 adaderanalk | 2,379
-virakesarilk | 2,976
+virakesarilk | 2,977
 dailymirrorlk | 3,083
 adaderanasinhalalk | 3,222
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,861 (100.0%) of 19,863 articles have been extended.
+19,863 (100.0%) of 19,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### உயிர்த்த ஞாயிறுதினத்தாக்குதல் விவகாரம் : பேராயர் மற்றும் கத்தோலிக்க ஆயர்கள் பேரவைக்கு ஆசிய மனித உரிமைகள் ஆணைக்குழு கடிதம்
+
+*2024-04-20 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181491) · `ta`
+
+உயிர்த்த ஞாயிறுதினப் பயங்கரவாதத்தாக்குதல்கள் தொடர்பில் மாத்திரமன்றி, இவ்விடயத்தில் நீதி நிலைநாட்டப்படுவதை மறுதலிப்பதற்கு தற்போதைய அரசாங்கம் உள்ளடங்கலாக இலங்கை அரசாங்கங்களினால் முன்னெடுக்கப்பட்டுவரும் நடவடிக்கைகளையும் பகுத்தறிவுடன் நோக்குமாறு ஆசிய மனித உரிமைகள் ஆணைக்குழு பேராயர் கர்தினால் மல்கம் ரஞ்சித் ஆண்டகையிடமும், கத்தோலிக்க ஆயர்கள் பேரவையிடமும் கடிதம் மூலம் வேண்டுகோள்விடுத்துள்ளது.
+
+இதுகுறித்து ஹொங்கொங் நாட்டைத் தளமாகக்கொண்டு இயங்கிவரும் ஆசிய மனித உரிமைகள் ஆணைக்குழுவின் இலங்கைக்கான பொறுப்பதிகாரி பாஸில் பெர்னாண்டோவினால் பேராயர் கர்தினால் மல்கம் ரஞ்சித் ஆண்டகை மற்றும் கத்தோலிக்க ஆயர்கள் பேரவைக்கு அனுப்பிவைக்கப்பட்டிருக்கும் திறந்த கடிதத்தில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+...
+
+[Data](articles/e33e7770.json)
+
+---
 
 ### Debt restructuring talks: Bondholders fear regime change impact
 
@@ -45,6 +59,8 @@ During talks with the NPP, the party has assured that the programme with the IMF
 ...
 
 [Data](articles/2b89571f.json)
+
+[Extended Data](ext_articles/2b89571f.ext.json)
 
 ---
 
@@ -79,6 +95,8 @@ The bondholders held talks with various political leaders including from the opp
 ...
 
 [Data](articles/f7c64978.json)
+
+[Extended Data](ext_articles/f7c64978.ext.json)
 
 ---
 
@@ -2145,27 +2163,5 @@ She was charged with vilification of a corpse and attempted theft through fraud,
 [Data](articles/dbc0355f.json)
 
 [Extended Data](ext_articles/dbc0355f.ext.json)
-
----
-
-### Student dies after drowning
-
-*2024-04-19 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/181455) · `ta`
-
-A 16-year-old girl drowned in a river near her school in Lunugala. Her body was found by locals and taken to Hoppon Resource Hospital for autopsy. Police are investigating.
-
-🟩
-
-A 16 -year -old schoolgirl has died after drowning in a river in the old factory section of the Hoppon estate in the Lunugala Police Division.
-
-While the student and his friends were drowned in the river, a student who was dragged into the water in the river suddenly died in the boulder.
-
-The body of the student has been recovered by the residents of the area and placed at the Hoppon Resource Hospital for autopsy. He is studying in Grade 10 at a school in the area.Lunugala police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/835d616f.json)
-
-[Extended Data](ext_articles/835d616f.ext.json)
 
 ---

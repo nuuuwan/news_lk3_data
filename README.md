@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 17:54:09**
+As of **2024-04-20 18:08:44**
 
 ## Newspaper Stats
 
-*Scraped **19,923** Articles*
+*Scraped **19,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,654
 tamilmirrorlk | 2,296
 adaderanalk | 2,389
 virakesarilk | 2,979
-dailymirrorlk | 3,105
+dailymirrorlk | 3,107
 adaderanasinhalalk | 3,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,922 (100.0%) of 19,923 articles have been extended.
+19,923 (100.0%) of 19,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Emirates and flydubai resume normal operations after Dubai floods
+
+*2024-04-20 17:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Emirates-and-flydubai-resume-normal-operations-after-Dubai-floods/108-281072) · `en`
+
+RIYADH, April 20 (Reuters) - Dubai's flagship carrier Emirates and sister airline flydubai have restored normal operations after heavy rains caused severe flooding across the United Arab Emirates earlier this week, the airlines said on Saturday.
+
+Emirates cancelled nearly 400 flights and delayed many more as a result of a record storm that hit the desert city of Dubai on Tuesday, said a statement released by the airline's president, Tim Clark.
+
+Due to the impact of the storm, the airline suspended check-in for passengers departing from Dubai and halted its transit operations through Dubai International Airport, a major global travel hub, leaving thousands of travellers stranded.
+
+The airport has struggled to return to normal operations after the storm flooded taxiways, forcing flight diversions, delays and cancellations.
+
+...
+
+[Data](articles/921d4220.json)
+
+---
 
 ### Uncertainty looms over Sri Lanka as debt restructuring talks hit snag – experts warn
 
@@ -45,6 +63,8 @@ Colombo-based economist Talal Rafi explained that with Sri Lanka still in defaul
 ...
 
 [Data](articles/434df5d5.json)
+
+[Extended Data](ext_articles/434df5d5.ext.json)
 
 ---
 
@@ -105,6 +125,24 @@ The ambassador said that the Israeli people in the region were temporarily forwa
 [Data](articles/c543023c.json)
 
 [Extended Data](ext_articles/c543023c.ext.json)
+
+---
+
+### MP Digambaram to support plantation workers’ strike on Monday
+
+*2024-04-20 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MP-Digambaram-to-support-plantation-workers-strike-on-Monday/108-281071) · `en`
+
+The Tamil Progressive Alliance (TPA) fully supports the strike that the plantation workers are scheduled to launch from Monday (22), Nuwara Eliya District Member of Parliament Palani Digambaram said during a media conference held in Hatton today.
+
+Even though President Ranil Wickremesinghe has advised the tea plantation companies to increase the daily salary of plantation workers to Rs 1,700, they have refused to increase the salaries.
+
+"The plantation companies have expressed their agreement to increase the amount of Rs. 400 in addition to the daily salary of Rs.1,000 currently paid to a plantation worker. It has been agreed to give the remaining Rs. 300 with conditions," the MP said.
+
+MP Digambaram further said that under the Samagi Jana Balawega government led by Sajith Premadasa, they will distribute tea lands to the plantation workers and make them small tea plantation owners and increase the daily income of the plantation workers.
+
+◼️
+
+[Data](articles/563ebc94.json)
 
 ---
 
@@ -2103,41 +2141,5 @@ With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken
 [Data](articles/0e8a04a9.json)
 
 [Extended Data](ext_articles/0e8a04a9.ext.json)
-
----
-
-### Regional war fears trigger tremors in stock market
-
-*2024-04-19 22:57:00* · [`islandlk`](http://island.lk/regional-war-fears-trigger-tremors-in-stock-market/) · `en`
-
-CSE trading yesterday started on a negative note due to the ongoing conflict in the West Asian region, revolving around Iran and Israel. As a result the regional stock markets were disrupted somewhat, anticipating a global oil price hike, stock market analysts said.
-
-The CSE adopted a cautious stance, with around 129 companies showing a downward trend in their prices while 87 companies’ stocks moved up. Further, Softlogic Holdings resumed its trading in the market after suspending its trading for some time due to some annual report issues, analysts added.
-
-Amid those developments both indices moved downward. The All Share Price Index went down by 43.points, while S and P SL20 declined by 18.46 points. Turnover stood at Rs 1.47 billion sans a single crossing.
-
-...
-
-[Data](articles/e5b7dba2.json)
-
-[Extended Data](ext_articles/e5b7dba2.ext.json)
-
----
-
-### Don’t be deceived by NPP and cardinal Ranjith: UNP
-
-*2024-04-19 22:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dont-be-deceived-by-NPP-and-cardinal-Ranjith-UNP/108-281018) · `en`
-
-Colombo, April 19 - The United National Party (UNP) which is led by incumbent President Ranil Wickremesinghe today urged the Sri Lankan people not to get deceived by National Peoples Power (NPP) and Archbishop of Colombo Cardinal Malcolm Ranjith.
-
-UNP General Secretary Palitha Range Bandara made these remarks while making a special statement in reference to to the meeting which a group of NPP members had with Cardinal Ranjith on Thursday. Range Bandara questioned as to whether Cardinal is out to vouch support for NPP the same way he did for former President Gotabaya Rajapaksa in 2019.
-
-Some 272 people were killed in the Easter Sunday attacks in 2019. This should be remembered with condemnation. Archbishop of Colombo Cardinal Malcolm Ranjith had confessed after a few years that he had stood for former President Gotabaya Rajapaksa during the 2019 presidential election.
-
-...
-
-[Data](articles/82d94025.json)
-
-[Extended Data](ext_articles/82d94025.ext.json)
 
 ---

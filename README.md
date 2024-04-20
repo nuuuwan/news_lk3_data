@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 20:03:26**
+As of **2024-04-20 20:18:25**
 
 ## Newspaper Stats
 
-*Scraped **19,933** Articles*
+*Scraped **19,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,068
 dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
-tamilmirrorlk | 2,299
+tamilmirrorlk | 2,300
 adaderanalk | 2,390
 virakesarilk | 2,979
 dailymirrorlk | 3,108
@@ -26,33 +26,43 @@ adaderanasinhalalk | 3,239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,932 (100.0%) of 19,933 articles have been extended.
+19,933 (100.0%) of 19,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### හදිසියේම බස්නාහිරට නව ආරක්ෂක වැඩපිළිවෙලක්
+### Sudden security program for the WPC
 
 *2024-04-20 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195818) · `si`
 
-බස්නාහිර පළාත තුළ අපරාධ මර්දනය සඳහා නව ආරක්ෂක වැඩපිළිවෙළක් මැයි මස පළමු වනදා සිට ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය පවසයි.
+The Western Province will launch a new security program on May 1st, aiming to combat crime. Police are training under IGP Tennakoon's guidance. Crimes have risen by 25 stations in the past 3 years, with 846 gold thefts, 12,125 houses, and 1,748 vehicles reported. The SSP has ordered 60% of police officers to be deployed, starting with bicycles and T-56 rifles. 20 teams will suppress crime, with the IGP and 360 criminals targeted. 100 police officers have received special training with STF. CCTV surveillance will be expanded to 2,000 cameras in Colombo and private homes.
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක කෙරෙන මෙම වැඩපිළිවෙළ සඳහා විශේෂ පොලිස් කණ්ඩායම් මේ වන විටත් පුහුණු කරමින් සිටින බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+🟩
 
-පසුගිය වසර 3 තුළ බස්නාහිර පළාතේ පොලිස්බල ප්‍රදේශ 25ක ඝීග්‍රයෙන් අපරාධ ඉහළ ගොස් ඇති බව පොලීසිය අනාවරණ කරගෙන තිබේ.
+A new security program for crime repression in the Western Province will be implemented from the first on May 1st September.
 
-ඒ අතර පසුගිය වසර තුළ රන් මාල කොල්ලකෑම් 846ක්, ගෙවල් බිදුම් 12,125ක් සහ වාහන සොරකම් 1,748ක් වාර්තාවන බව පොලිස් වාර්තා පවසයි.
+Police Headquarters said that the special police teams are still training on the instructions of IGP Deshabandu Tennakoon.
 
-ඒ අනුව එම අපරාධ මර්දනය සඳහා දිවයිනේම පොලිස් කොට්ඨාසවල ජ්‍යේෂ්ඨ පොලිස් අධිකාරීවරුන්ට උපදෙස් ලබාදී ඇත්තේ,පොලිස් ස්ථානවල සිටින නිලධාරීන්ගෙන් 60% ක් ඒ සඳහා යොදවන ලෙසය.
+The police have revealed that the crimes have increased by 25 police stations in the Western Province in the past 3 years.
 
-එහි පළමු පියවර ලෙස බස්නාහිර පළාත තුළ සිටින පොලිස් නිලධාරීන්ට පාපැදි, ටී56 වර්ගයේ ගිනි අවිද සහිතව ලබාදී අදාළ ප්‍රදේශවල සංචාරය කරවීමට නියමිතව තිබේ.
+In the past year, 846 gold plunders, 12,125 houses and 1,748 vehicles have been reported.
 
-එමෙන්ම පාතාල මර්දනය සඳහා යොදවා ඇති පොලිස් කණ්ඩායම් 20ට අමතරව පොලිස්පතිවරයා ඉදිරියේදී නව පොලිස් කණ්ඩායම් 10ක් යෙදවීමටද නියමිතය.
+Accordingly, Senior Superintendent of Police (SSP) has instructed the SSP to use 60% of police officers.
+
+As a first step, the police officers in the Western Province are to be visited in the Western Province with bicycles, T-56 riffles.
+
+In addition to the 20 police teams deployed for underworld suppression, the IGP will be deployed in the future.
+
+It is reported that the group of nearly 360 criminal members will be instructed to arrest them.
+
+Meanwhile, another 100 police team policemen have already used special training with STF personnel.
 
 ...
 
 [Data](articles/e5f1c16a.json)
+
+[Extended Data](ext_articles/e5f1c16a.ext.json)
 
 ---
 
@@ -105,6 +115,24 @@ The public has said that the incident may have occurred due to the prevailing he
 [Data](articles/4f64d3a7.json)
 
 [Extended Data](ext_articles/4f64d3a7.ext.json)
+
+---
+
+### வெயிலில் மயங்கி விழுந்து ஒருவர் மரணம்
+
+*2024-04-20 19:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வெயிலில்-மயங்கி-விழுந்து-ஒருவர்-மரணம்/75-336113) · `ta`
+
+திருகோணமலை மூதூர் பொலிஸ் பிரிவுக்குட்பட்ட பெரியவெளி குளத்து வயலில் வேலை செய்து கொண்டிருந்த ஒருவர் மயங்கி விழுந்து உயிரிழந்த சம்பவம் சனிக்கிழமை (20) மதியம் இடம்பெற்றுள்ளது.
+
+மூதூர் - பாலத்தடிச்சேனை கிராமத்தில் வசித்துவரும் 3 பிள்ளைகளின் தந்தையான சூரியமூர்த்தி சுதாகரன் (வயது 52) என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக தெரிய வருகின்றது.
+
+பெரியவெளி குளத்து வயலில் சனிக்கிழமை  (20) வயல் வேலையில் ஈடுபட்டுக் கொண்டிருந்தபோது மதியமளவில் மயக்கமுற்று விழுந்ததாகவும் உடனடியாக மூதூர் வைத்தியசாலைக்கு கொண்டு செல்லும் வழியில் உயிரிழந்துள்ளதாகவும் தெரிய வருகின்றது. உயிரிழந்தவரின் சடலம் மூதூர் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன் உடற்கூற்று பரிசோதனைக்காக திருகோணமலை வைத்தியசாலைக்கு அனுப்பிவைக்கப்படவுள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+தற்போது நாட்டில் நிலவும் அதிக வெப்பம் காரணமாக இச்சம்பவம் இடம்பெற்றிருக்கலாம் எனவும், வெயிலில் நின்று வயல் வேலை செய்கின்றவர்கள் வெயில் உச்சமான நேரங்களில் வயல் வேலை செய்வதன் தவிர்த்துக் கொள்வதன் மூலம் தங்களை பாதுகாத்துக் கொள்ள முடியும் எனவும் பொதுமக்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/ef1fe93a.json)
 
 ---
 
@@ -2173,19 +2201,5 @@ As planned, the distribution of 735 metric tons of rice to provincial-level scho
 [Data](articles/e9767e8b.json)
 
 [Extended Data](ext_articles/e9767e8b.ext.json)
-
----
-
-### Energy is people’s property; time to claim our share
-
-*2024-04-19 23:25:22* · [`dailyftlk`](https://www.ft.lk/columns/Energy-is-people-s-property-time-to-claim-our-share/4-760822) · `en`
-
-If I made this statement even a few short years ago, I would have been labelled insane.  The ground reality at that time would have clearly supported that view, at least to the extent of our claiming our share.  But much has changed in those years, particularly for Sri Lanka, when no one would now dare claim that any fossil fuel-based energy generation, the playing field of a chosen few, is cheaper than renewable energy. This most encouraging change has much more far-reaching implications, in that the basic resources available are natural renewable resources such as sunshine, wind, water on one hand and no one can claim ownership of these resources and the technologies of converting these to electricity are now economically feasible at much smaller scale. Of particular interest are the solar energy technologies, which has now made it possible for electricity consumers to become “Prosumers”.
-
-...
-
-[Data](articles/b4609abf.json)
-
-[Extended Data](ext_articles/b4609abf.ext.json)
 
 ---

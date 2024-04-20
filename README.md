@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 13:52:27**
+As of **2024-04-20 14:03:26**
 
 ## Newspaper Stats
 
-*Scraped **19,900** Articles*
+*Scraped **19,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,384
 virakesarilk | 2,978
 dailymirrorlk | 3,098
-adaderanasinhalalk | 3,230
+adaderanasinhalalk | 3,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,899 (100.0%) of 19,900 articles have been extended.
+19,900 (100.0%) of 19,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### ඉන්දියාවම කතා වෙන ශ්‍රී ලංකාවේ නාලිනී තිරුචි
+
+*2024-04-20 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195808) · `si`
+
+ඉන්දියාවේ සරණාගත කඳවුරක දිවි ගෙවූ ශ්‍රී ලාංකික කාන්තාවක් ඉන්දීය මහමැතිවරණය සඳහා සිය ඡන්දය ප්‍රකාශ කර තිබේ.
+
+ඒ අනුව ඉන්දීය මැතිවරණයක් සඳහා ඡන්දය භාවිත කළ ශ්‍රී ලාංකික සරණාගතයින්ගේ පළමු වැනියා බවට 38 හැවිරිදි කේ.නාලනී පත්වී ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+1986 වසරේ අප්‍රේල් මස ඉන්දියාවේ, තමිල්නාඩු මණ්ඩපම් හිදී කේ.නාලනී උපත ලබා තිබුණේ ශ්‍රී ලාංකික සරණාගත කඳවුරකය.
+
+ඇයගේ මව්පියන් ශ්‍රී ලංකාවේ සිට සරණාගතයින් ලෙස තමිල්නාඩුවට පැමිණ සිටි ඉන්දීය සම්භවයක් සහිත පුද්ගලයන් ය.
+
+නාලිනීගේ පවුලේ පරම්පරා කිහිපයක් වතුකරයේ රැකියා කිරීම සඳහා මීට පෙර ශ්‍රී ලංකාවට සංක්‍රමණය වී තිබුණි.
+
+ඒ අනුව සරණාගත කඳවුරේ රැඳී සිටි පිරිසෙන් 1950 සිට 1987 දක්වා කාලය අතරතුර උපත ලැබූ පිරිස සඳහා
+
+ඡන්දය භාවිත කිරීම වෙනුවෙන් අයඳුම් කිරිමේ අවස්ථාව ලබාදීමට ඉන්දීය රජය තීරණ කර තිබුණි.
+
+කෙසේවෙතත් ඒ සඳහා අවශ්‍ය සුදුසුකම් සැපිරීම වෙනුවෙන් නාලනී 2022 සැප්තැම්බර් මාසයේදී මදුරාසි මහාධිකරණයට ඇයඳුම් කර තිබුණි.
+
+එහිදී දිල්ලි රජය ඇය ඉන්දියාවේ උපත ලැබු අයෙකු බැවින් ඡන්ද භාවිත කිරීම සඳහා හැකියාව පවතින බවට සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/5eddb47c.json)
+
+---
 
 ### Woman riding motorcycle dies after handbag gets stuck on lorry
 
@@ -47,6 +75,8 @@ The driver of the lorry has been arrested in connection with the accident.
 ◼️
 
 [Data](articles/569fb29a.json)
+
+[Extended Data](ext_articles/569fb29a.ext.json)
 
 ---
 
@@ -2083,27 +2113,5 @@ In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all
 [Data](articles/5bfd9ce2.json)
 
 [Extended Data](ext_articles/5bfd9ce2.ext.json)
-
----
-
-### UL cancels flights to Dubai amid bad weather
-
-*2024-04-19 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/UL-cancels-flights-to-Dubai-amid-bad-weather/155-281005) · `en`
-
-Colombo, April 19 (Daily Mirror) - In light of the adverse weather conditions at the Dubai International Airport, SriLankan Airlines (UL) faces flight cancellations to the UAE hub, sources said.
-
-According to reliable sources, Flight UL 225, slated for departure to Dubai at 18:25 today (April 19), has been grounded due to the turbulent weather.
-
-Further, a previous UL flight bound for Dubai had to be rerouted yesterday (April 18), while another scheduled for departure on April 17 met the same fate.
-
-In parallel, Emirates, the flagship carrier of Dubai, has temporarily halted all check-ins for passengers with connecting flights due to the ongoing operational challenges at Dubai International Airport (DXB), which is still grappling with the aftermath of a recent severe storm.
-
-"Emirates is suspending check-in for all customers in our network with onward connections through Dubai until 23:59 hrs GMT, April 19 (03:59 hrs Dubai time, April 20)," the airline announced via social media.
-
-◼️
-
-[Data](articles/8885d06b.json)
-
-[Extended Data](ext_articles/8885d06b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 19:03:28**
+As of **2024-04-20 19:18:26**
 
 ## Newspaper Stats
 
-*Scraped **19,928** Articles*
+*Scraped **19,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,390
 virakesarilk | 2,979
 dailymirrorlk | 3,108
-adaderanasinhalalk | 3,237
+adaderanasinhalalk | 3,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,928 (100.0%) of 19,928 articles have been extended.
+19,928 (100.0%) of 19,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### ශ්‍රී පාද ආරක්ෂිත වැටෙන් පැන්න පුද්ගලයා සොයා මෙහෙයුම්
+
+*2024-04-20 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195817) · `si`
+
+ශ්‍රී පාද වන්දනාවේ පැමිණි තරුණයෙක් ශ්‍රී පාද උඩ මළුවේ රත්නපුර මාර්ගයේදී ආරක්ෂිත වැටෙන් පහළට පැන තිබේ.
+
+තරුණයා සොයා මේ වනවිට ලක්ෂපාන යුද හමුදා කඳවුරේ භට පිරිස් අද (20) උදෑසන සිට ශ්‍රී පාද උඩමළුව රක්ෂිතයේ මෙහෙයුමක් දියත් කර තිබේ.
+
+◼️
+
+[Data](articles/80a3c5c1.json)
+
+---
 
 ### Man jumps off Sri Pada Uda Maluwa, goes missing
 
@@ -2143,19 +2157,5 @@ At its core, ‘Worky’ is a location-based service platform that allows prospe
 [Data](articles/d31a0aaf.json)
 
 [Extended Data](ext_articles/d31a0aaf.ext.json)
-
----
-
-### Paris – A Moveable Feast
-
-*2024-04-19 23:02:38* · [`dailyftlk`](https://www.ft.lk/columns/Paris-A-Moveable-Feast/4-760809) · `en`
-
-One of the most enchanting books I have read in recent times has to be “A Moveable Feast” by the celebrated American writer Ernest Hemingway (1899-1961). The book eludes easy categorisation, although it could be broadly considered a memoire of a period of his early life, when he lived in Paris (from 1921 to 1926). Hemingway had kept notes of his Paris days, getting down to writing A Movable Feast only in the last years of his life, in 1957 to be exact.
-
-...
-
-[Data](articles/a9cf9348.json)
-
-[Extended Data](ext_articles/a9cf9348.ext.json)
 
 ---

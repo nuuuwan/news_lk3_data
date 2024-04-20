@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 18:52:02**
+As of **2024-04-20 19:03:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,237
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,926 (100.0%) of 19,928 articles have been extended.
+19,928 (100.0%) of 19,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ The two women who had accompanied the man had told police that he had gone insan
 
 [Data](articles/8c5851d7.json)
 
+[Extended Data](ext_articles/8c5851d7.ext.json)
+
 ---
 
-### සර්වෝදය නිර්මාතෘ නික්ම යයි
+### Sarvodaya designs goes out
 
 *2024-04-20 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195816) · `si`
 
-සර්වෝදය ව්‍යාපාරයේ නිර්මාතෘ අභාවප්‍රාප්ත ආචාර්ය ඒ. ටී. ආරියරත්න මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (20) පස්වරුවේ කොළඹ නිදහස් චතුරස්‍රයේදී රාජ්‍ය ගෞරව සහිතව සිදුකෙරුණි.
+Sarvodaya founder T. Ariyaratne's funeral held at Colombo's Independence Square. His body at Sarvodaya HQ. Attended by PM Dinesh Gunawardena, ministers, officials, and armed forces.
 
-සර්වෝදයේ ප්‍රධාන මූලස්ථානයේ තැන්පත් කර තිබු ඒ මහතාගේ දේහය අද පෙරවරුවේ සිදුකෙරුණු ආගමික වතාවත්වලින් අනතුරුව රිය පෙරහැරකින් කොළඹ නිදහස් චතුරස්‍රය වෙත රැගෙනවිත් තිබුණි.
+🟩
 
-මෙම අවස්ථාවට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුලු මැතිඇමතිවරුන්, රාජ්‍ය නිලධාරීන්, ත්‍රිවිධ හමුදා නිලධාරීන් ඇතුලු විශාල පිරිසක් එක්විය.
+The Creator of Sarvodaya Business. T. The funeral of Ariyaratne's body was held today (20) at the Independence Square of Colombo.
+
+His body was deposited at the main headquarters of the Sarvodaya headquarters and after the religious observances of the country.
+
+Prime Minister Dinesh Gunawardena, including ministers, state officials, government officials, including the three armed forces.
 
 ◼️
 
 [Data](articles/9b3364dc.json)
+
+[Extended Data](ext_articles/9b3364dc.ext.json)
 
 ---
 

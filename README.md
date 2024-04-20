@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 09:18:40**
+As of **2024-04-20 09:33:49**
 
 ## Newspaper Stats
 
-*Scraped **19,864** Articles*
+*Scraped **19,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,098
 economynextcom | 1,136
-adalk | 1,649
-tamilmirrorlk | 2,295
-adaderanalk | 2,379
+adalk | 1,650
+tamilmirrorlk | 2,296
+adaderanalk | 2,380
 virakesarilk | 2,977
 dailymirrorlk | 3,083
 adaderanasinhalalk | 3,222
@@ -26,23 +26,51 @@ adaderanasinhalalk | 3,222
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,863 (100.0%) of 19,864 articles have been extended.
+19,864 (100.0%) of 19,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### உயிர்த்த ஞாயிறுதினத்தாக்குதல் விவகாரம் : பேராயர் மற்றும் கத்தோலிக்க ஆயர்கள் பேரவைக்கு ஆசிய மனித உரிமைகள் ஆணைக்குழு கடிதம்
+### China writes off interest-free loans given to Zimbabwe
+
+*2024-04-20 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98736/china-writes-off-interest-free-loans-given-to-zimbabwe) · `en`
+
+China has written off an unspecified amount of Zimbabwe’s interest-free loans and pledged to help the Southern African country find a way out of its debt crisis, even as activists warned of a permanent debt trap.
+
+As of September 2023, Zimbabwe’s publicly guaranteed debt stood at $17.7 billion, of which $12.7 billion was external and $5 billion domestic.
+
+Most of the foreign debt was purchased from China, as the country is ineligible for loans from multilateral creditors such as the World Bank and the International Monetary Fund (IMF) after defaulting on repayments since the turn of the millennium.
+
+Since the fall of long-time ruler Robert Mugabe six years ago, Zimbabwe has been struggling to reach an agreement with creditors to restructure its unsustainable debt.
+
+...
+
+[Data](articles/2406fd4b.json)
+
+---
+
+### Asian Human Rights Commission letter to Archbishop and Catholic Bishops Council
 
 *2024-04-20 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181491) · `ta`
 
-உயிர்த்த ஞாயிறுதினப் பயங்கரவாதத்தாக்குதல்கள் தொடர்பில் மாத்திரமன்றி, இவ்விடயத்தில் நீதி நிலைநாட்டப்படுவதை மறுதலிப்பதற்கு தற்போதைய அரசாங்கம் உள்ளடங்கலாக இலங்கை அரசாங்கங்களினால் முன்னெடுக்கப்பட்டுவரும் நடவடிக்கைகளையும் பகுத்தறிவுடன் நோக்குமாறு ஆசிய மனித உரிமைகள் ஆணைக்குழு பேராயர் கர்தினால் மல்கம் ரஞ்சித் ஆண்டகையிடமும், கத்தோலிக்க ஆயர்கள் பேரவையிடமும் கடிதம் மூலம் வேண்டுகோள்விடுத்துள்ளது.
+The Asian Human Rights Commission, led by Archbishop Malcolm Ranjith, urges the Catholic Bishops Council to address Sri Lanka's denial of justice regarding the upholding of life, especially affecting the Catholic community. Despite international efforts, the Sri Lankan government has not responded to demands for justice. The Commission calls for immediate restructuring, including re-coordinating the Criminal Investigation Department and ensuring the Attorney General's Department takes appropriate action against human rights violations.
 
-இதுகுறித்து ஹொங்கொங் நாட்டைத் தளமாகக்கொண்டு இயங்கிவரும் ஆசிய மனித உரிமைகள் ஆணைக்குழுவின் இலங்கைக்கான பொறுப்பதிகாரி பாஸில் பெர்னாண்டோவினால் பேராயர் கர்தினால் மல்கம் ரஞ்சித் ஆண்டகை மற்றும் கத்தோலிக்க ஆயர்கள் பேரவைக்கு அனுப்பிவைக்கப்பட்டிருக்கும் திறந்த கடிதத்தில் மேலும் கூறப்பட்டிருப்பதாவது:
+🟩
+
+The Asian Human Rights Commission Archbishop Cardinal Cardinal Cardinal Malcolm Ranjith has appealed to the Catholic Binthroad to look into the steps taken by the Sri Lankan governments, including the current government, to deny the upholder of the life of the life of the life of the life of the Sunday.
+
+In an open letter sent by Archbishop Malcolm Ranjith and Catholic bishops to the Catholic Bishops, Bernando, the Basil Bass of Sri Lanka, the Asian Human Rights Commission, which is based in Hong Kong, said:
+
+We express our impeachment to the people of Sri Lanka, including the tragic Catholic community, including the tragic Catholic community, as a result of this crime, with the families of the affected parties to uphold the justice of the victims and the victims of the victims of the life of the victims.
+
+Despite various efforts at home and internationally, the Sri Lankan government has refused to listen to the demand for justice. We understand your tension in this regard.
 
 ...
 
 [Data](articles/e33e7770.json)
+
+[Extended Data](ext_articles/e33e7770.ext.json)
 
 ---
 
@@ -149,6 +177,22 @@ Due to the case, a large number of police were found in the area. When the man w
 [Data](articles/36851e58.json)
 
 [Extended Data](ext_articles/36851e58.ext.json)
+
+---
+
+### පාසල් සිසුන්ට ආහාර දෙන්න ලෝක ආහාර සංවිධානයෙන් ලොකු තෑග්ගක්
+
+*2024-04-20 08:07:33* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-ආහාර-දෙන්න-ලෝක-ආහාර-සංවිධානයෙන්-ලොකු-තෑග්ගක්/11-409164) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත ආරම්භ කළ පාසල් සිසුන්ට පෝෂ්‍යදායි ආහාර වේලක් ලබා දීමේ වැඩසටහන වෙනුවෙන් ලෝක ආහාර වැඩසටහන මගින් ප්‍රදානය කළ සබලකරණය කරන ලද සහල් පාසල් වෙත නිකුත් කිරීම වේයන්ගොඩ ආහාර ගබඩා පරිශ්‍රයේදී ඊයේ (19) ආරම්භ කෙරිණි.
+
+පාසල් දරුවන් අතර යකඩ ඌණතාවය අවම කිරීම ඉලක්ක කර ගනිමින් සබලකරණය කරන ලද සහල් (Fortified Rice) පාසල් ආහාර වේල සඳහා ලබාදීම සිදු කරනු ලබන අතර ජනාධිපති ලේකම් කාර්යාලය යටතේ ඇති ලෝක ආහාර වැඩසටහන සඳහා වූ හවුල්කාරීත්ව ලේකම් කාර්යාලයේ අධ්‍යක්ෂ ජනරාල් එම්.එච්.ඒ.එම්.රිෆ්ලාන් මහතාගේ අධීක්ෂණයෙන් මෙම බෙදාහැරීමේ කටයුතු සිදු කෙරේ.
+
+ඒ අනුව පළමු අදියර යටතේ පළාත් මට්ටමින් සහල් මෙට්‍රික් ටොන් 735ක් නිකුත් කිරීම අද ආරම්භ වූ අතර එය අද (20) දිනයේද ක්‍රියාත්මකය. අදාළ ප්‍රදේශයේ පළාත් අධ්‍යාපන දෙපාර්තමේන්තුවේ නිලධාරීන් හා මහජන සෞඛ්‍ය පරීක්ෂණ නිලධාරීන්ගේ නිරීක්ෂණය යටතේ මෙම සහල් තොගය පාසල් වෙත භාරදීම සිදු කරයි.
+
+...
+
+[Data](articles/cb383a10.json)
 
 ---
 
@@ -305,6 +349,22 @@ Youth Training Scheme is expected to improve comprehensive training and morale f
 [Data](articles/7bfbc056.json)
 
 [Extended Data](ext_articles/7bfbc056.ext.json)
+
+---
+
+### செஹான் சேமசிங்க - மார்ட்டின் ரைசர் சந்திப்பு
+
+*2024-04-20 00:40:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செஹான்-சேமசிங்க-மார்ட்டின்-ரைசர்-சந்திப்பு/175-336111) · `ta`
+
+உலக வங்கியின் தெற்காசிய பிராந்தியத்துக்கான துணைத் தலைவர் மார்ட்டின் ரைசர் மற்றும் நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க ஆகியோருக்கு இடையே கலந்துரையாடல் ஒன்று இடம்பெற்றுள்ளது.
+
+வொசிங்டன் டிசியில் இடம்பெறும் சர்வதேச நாணய நிதியம் மற்றும் உலக வங்கி என்பவற்றின் தலைமையிலான வருடாந்த வட்டமேசை மாநாட்டின் ஒரு பகுதியாக இந்த சந்திப்பு இடம்பெற்றுள்ளது.
+
+நிதித்துறை, தனியார் முதலீடு உள்ளிட்ட சகல துறைகளுக்குமான மீட்சி மற்றும் நிலையான வளர்ச்சிக்கான சீர்திருத்தங்கள் என்பன தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b238adbe.json)
 
 ---
 
@@ -2091,77 +2151,5 @@ The US dollar purchasing price was Rs 296.8792, based on the currency exchange r
 [Data](articles/ec4f72de.json)
 
 [Extended Data](ext_articles/ec4f72de.ext.json)
-
----
-
-### Kenya’s defence chief and 9 senior officers killed in helicopter crash
-
-*2024-04-19 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98723/kenyas-defence-chief-and-9-senior-officers-killed-in-helicopter-crash) · `en`
-
-Kenya’s defence chief and nine other top brass died on Thursday in a military helicopter crash in a remote area of the country, President William Ruto said.
-
-“Today at 2:20 pm, our nation suffered a tragic air accident... I am deeply saddened to announce the passing of General Francis Omondi Ogolla, the Chief of the Kenya Defence Forces (CDF),” Ruto told reporters.
-
-The president, who had convened an urgent meeting of the National Security Council after news of the accident emerged, said nine other “gallant military personnel” on board were also killed while two survived.
-
-Ogolla, 61, a trained fighter pilot, had only been in the post a year.
-
-Ruto said the Kenya Air Force had dispatched an investigation team to establish the cause of the crash, which took place in Elgeyo Marakwet county, about 400 kilometres (250 miles) northwest of the capital Nairobi.
-
-...
-
-[Data](articles/d8eddb76.json)
-
-[Extended Data](ext_articles/d8eddb76.ext.json)
-
----
-
-### Security Forces chief of Kenya
-
-*2024-04-19 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195782) · `si`
-
-Kenya's Security Forces chief, General Francis Omndy, and Hetekoptainera were in a dangerous situation in western Kenya, with only two survivors. President William Rooto sees this as an opportunity for Kenya.
-
-🟩
-
-It is reported that the head of the Kenya, Kenya, has been appointed as an revelation in an revelation.
-
-The Hetekoptainera, who joined the General Francis Omndy, was in danger in a west of Kenya.
-
-General Francis is the highest military officer of Kenya. Only two have been found to survive the accident.
-
-President William Rooto said that this occasion was a chance to Kenya.
-
-◼️
-
-[Data](articles/704e36ed.json)
-
-[Extended Data](ext_articles/704e36ed.ext.json)
-
----
-
-### Woman arrested after taking corpse to sign bank loan in Brazil
-
-*2024-04-19 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-arrested-after-taking-corpse-to-sign-bank-loan-in-Brazil/108-280998) · `en`
-
-(Sky News)- A woman has been arrested in Brazil after she brought a 68-year-old man who had been dead for hours into a bank to sign for a loan.
-
-Erika Vieira Nunes wheeled the corpse into the bank in a suburb of Rio de Janeiro and told an employee that the man wanted a loan for 17,000 reais (£2,600), security camera video showed.
-
-She then held a pen to the man saying: "Uncle, are you listening? You need to sign," according to the footage.
-
-"He doesn't say anything, that's just how he is," she said, adding: "If you're not okay, I'm going to take you to the hospital."
-
-Bank staff soon became suspicious as the man's head kept falling back so they called the police who arrested Nunes.
-
-She was charged with vilification of a corpse and attempted theft through fraud, according to the Rio newspaper O Dia.
-
-"She knew he was dead… he had been dead for at least two hours," Fabio Luiz Souza, an investigating officer told the breakfast news programme, Bom Dia Rio, on Wednesday.
-
-...
-
-[Data](articles/dbc0355f.json)
-
-[Extended Data](ext_articles/dbc0355f.ext.json)
 
 ---

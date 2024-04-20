@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 11:18:31**
+As of **2024-04-20 11:34:10**
 
 ## Newspaper Stats
 
-*Scraped **19,881** Articles*
+*Scraped **19,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,651
 tamilmirrorlk | 2,296
-adaderanalk | 2,382
+adaderanalk | 2,383
 virakesarilk | 2,977
 dailymirrorlk | 3,091
 adaderanasinhalalk | 3,225
@@ -26,23 +26,49 @@ adaderanasinhalalk | 3,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,878 (100.0%) of 19,881 articles have been extended.
+19,881 (100.0%) of 19,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### බහින්බස්වීම ඝාතනයකින් කෙළවර වෙයි
+### Man sets himself on fire outside Trump’s Manhattan hush money trial
+
+*2024-04-20 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98739/man-sets-himself-on-fire-outside-trumps-manhattan-hush-money-trial) · `en`
+
+A man has set himself on fire outside the court in Manhattan where former President Donald Trump’s hush-money trial is being held.
+
+The man doused himself in a liquid before throwing conspiracy-theory pamphlets into the air, police said.
+
+Mr Trump was in the building to attend jury selection, where he has had a security detail, but the former president left during the incident.
+
+Emergency officials said that court security had not been breached in the incident. The case, which had just completed alternate jury selection, resumed later in the afternoon. Opening statements are expected to begin on Monday.
+
+In a news conference, investigators said they had received a 911 emergency call at around 13:30 local time (18:30 BMT) telling them that a man had lit himself on fire.
+
+...
+
+[Data](articles/b9d289fd.json)
+
+---
+
+### The argument ends with murder
 
 *2024-04-20 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195802) · `si`
 
-මිතුරන් දෙදෙනෙකු අතර ජංගම දුරකථනයක් සම්බන්ධයෙන් ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් එම පහරදීම සිදුකර ඇති බව පොලීසිය පවසයි.
+A heated argument between two friends led to murder. The suspect was arrested, and police are investigating further.
 
-ඝාතනය සිදුකළ සැකකරු අත්අඩංගුවට ගෙන ඇති අතර වාලච්චේන පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+🟩
+
+Police said that the attack had been carried out by a heated argument between two friends.
+
+The suspect was arrested and the Valachchehena Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/c71ff99b.json)
+
+[Extended Data](ext_articles/c71ff99b.ext.json)
 
 ---
 
@@ -102,6 +128,8 @@ Following his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Guna
 
 [Data](articles/ab468eb7.json)
 
+[Extended Data](ext_articles/ab468eb7.ext.json)
+
 ---
 
 ### Prince Harry, now calls himself a U.S. resident
@@ -135,6 +163,8 @@ Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara El
 ◼️
 
 [Data](articles/cd687f00.json)
+
+[Extended Data](ext_articles/cd687f00.ext.json)
 
 ---
 
@@ -2095,25 +2125,5 @@ An elderly man in the Ollya Police Division of the Nuwara Eliya Police Division 
 [Data](articles/7ebd0765.json)
 
 [Extended Data](ext_articles/7ebd0765.ext.json)
-
----
-
-### Fortified rice distributed to provide nutritious meal for school students
-
-*2024-04-19 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fortified-rice-distributed-to-provide-nutritious-meal-for-school-students/108-281001) · `en`
-
-Colombo, April 19 (Daily Mirror)- The distribution of fortified rice, provided by the World Food Programme (WFP) on behalf of the programme initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, commenced today at the Veyangoda warehouse complex, the President’s Media Division (PMD) said.
-
-In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals.
-
-“This distribution will be conducted under the supervision of M.H.A.M. Riflan, Director General for the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
-
-As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20).
-
-...
-
-[Data](articles/ac1155aa.json)
-
-[Extended Data](ext_articles/ac1155aa.ext.json)
 
 ---

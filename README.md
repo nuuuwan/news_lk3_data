@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 15:18:12**
+As of **2024-04-20 15:33:57**
 
 ## Newspaper Stats
 
-*Scraped **19,909** Articles*
+*Scraped **19,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ economynextcom | 1,139
 adalk | 1,653
 tamilmirrorlk | 2,296
 adaderanalk | 2,386
-virakesarilk | 2,978
-dailymirrorlk | 3,101
+virakesarilk | 2,979
+dailymirrorlk | 3,102
 adaderanasinhalalk | 3,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,906 (100.0%) of 19,909 articles have been extended.
+19,909 (100.0%) of 19,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Immigration Department to launch online visa for Sri Lanka ship travellers
+
+*2024-04-20 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-Department-to-launch-online-visa-for-Sri-Lanka-ship-travellers/108-281062) · `en`
+
+Colombo, April 20 (Daily Mirror) - The Immigration and Emigration Department announced a forthcoming online visa system for travellers entering Sri Lanka by ship.
+
+The Department's Additional Controller General Nimal Gunawardena said that the online visa system will be introduced for four days.
+
+◼️
+
+[Data](articles/5c881204.json)
+
+---
 
 ### Two Guinea women nabbed at BIA with Rs. 20 Mn worth cocaine
 
@@ -50,21 +64,29 @@ A gram of cocaine presently has a street value of Rs.40,000 in Sri Lanka and the
 
 [Data](articles/773a89f0.json)
 
+[Extended Data](ext_articles/773a89f0.ext.json)
+
 ---
 
 ### Two foreign women arrested at BIA with swallowed cocaine capsules
 
 *2024-04-20 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98742/two-foreign-women-arrested-at-bia-with-swallowed-cocaine-capsules) · `en`
 
-Two foreign women, who were attempting to smuggle 500 grams of cocaine have been arrested by the Customs officials attached to the Bandaranaike International Airport (BIA) in Katunayake.
+Two foreign women, who were attempting to smuggle in 500 grams of cocaine by ingesting them have been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
 
-According to customs spokesperson, one woman had swallowed 29 capsules of cocaine while the other had swallowed 11 capsules.
+Their drug smuggling attempt was thus foiled by the officers of the Narcotics Control Unit of Sri Lanka Customs attached to the BIA.
 
-The market value of the 40 capsules is estimated to be around Rs. 20 million.
+According to the customs spokesperson, as many as 40 capsules of cocaine have thus far been extracted from the two women and the market value of the contraband is estimated to be around Rs. 20 million.
+
+The two women, identified as Guinean nationals, had arrived at the Katunayake airport onboard a Turkish Air flight on Saturday morning (20), from the West African country Sierra Leone via the Turkish city of Istanbul.
+
+The duo, aged 40 and 42 years, have been handed over to the Police Narcotics Bureau (PNB) for onward investigations.
 
 ◼️
 
 [Data](articles/b9f93cb7.json)
+
+[Extended Data](ext_articles/b9f93cb7.ext.json)
 
 ---
 
@@ -87,6 +109,8 @@ He refuted claims by the SJB that the government is trying to prevent it from ha
 ...
 
 [Data](articles/ffa84805.json)
+
+[Extended Data](ext_articles/ffa84805.ext.json)
 
 ---
 
@@ -131,6 +155,24 @@ The Kim family dynasty that has ruled North Korea since its founding after World
 [Data](articles/bd65af0c.json)
 
 [Extended Data](ext_articles/bd65af0c.ext.json)
+
+---
+
+### ஏ.டி .ஆரியரத்னவுக்கு இறுதி அஞ்சலி : கொழும்பில் இன்று விசேட போக்குவரத்துத் திட்டம்
+
+*2024-04-20 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181517) · `ta`
+
+கொழும்பு பிரதேசத்தில் இன்று (20) பிற்பகல் ஒரு மணிமுதல் ஹைலெவல் வீதி, சுதந்திர சதுக்கம் மற்றும் காலி வீதியில்  விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளதாக போக்குவரத்துப் பொலிஸார் தெரிவித்தனர்.
+
+சர்வோதயா சமூக மேம்பாட்டு சமூக நலத் திட்டத்தின் ஸ்தாபகர் மறைந்த கலாநிதி ஏ.டி .ஆரியரத்னவின் பூதவுடலுக்கு இன்று சனிக்கிழமை (20) மாலை சுதந்திர சதுக்கத்தில் அரச மரியாதையுடன் அஞ்சலி செலுத்தப்படவுள்ளமையினால் இந்த விசேட போக்குவரத்து திட்டம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+ஸ்ரீலங்காபிமன்ய ஏ.டி .ஆரியரத்ன தனது 93வது வயதில் ஏப்ரல் 16ஆம் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் சிகிச்சை பெற்றுவந்த நிலையில் காலமானார்.
+
+கலாநிதி ஆரியரத்னவின் பூதவுடல் இன்றைய தினம் பிற்பகல் ஒரு மணி வரை மொறட்டுவை சர்வோதய தலைமையகத்தில் வைக்கப்பட்டு பின்னர் அங்கிருந்து கொழும்பில் உள்ள சுதந்திர சதுக்கத்திற்கு எடுத்துச் செல்லப்பட்டு இறுதி ஊர்வலம் இடம்பெறும். இதன் பின்னர் இறுதி சமய சடங்குகளை தொடர்ந்து மாலை 6 மணியளவில் இறுதிக் கிரியைகள் நடைபெறும்.
+
+◼️
+
+[Data](articles/ea46dad4.json)
 
 ---
 
@@ -2065,65 +2107,5 @@ During this time, the demonstration demanded justice for the murder of the girl,
 [Data](articles/b9c9d595.json)
 
 [Extended Data](ext_articles/b9c9d595.ext.json)
-
----
-
-### Will the Chamari becoming quitting international cricket coin?
-
-*2024-04-19 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195792) · `si`
-
-Chamari Atapattu, Sri Lanka's women's cricket team leader, expressed her desire to retire from international cricket after the team's recent victory over South Africa, aiming to qualify for the World Cup semi-finals.
-
-🟩
-
-Leader of the Sri Lankan women's cricket team, Chamari, said that the cricket was soon to be soon.
-
-After the recorded ODI win against South Africa, she held his target to qualify for the last premises of the women's ODI World Cup next year.
-
-Sri Lanka women's cricket team won the 20-20 tournament to the South Africa tour.
-
-Chamari Atapattu scored 195 not out in the final
-
-"This victory is really important for me as a cricketer, because I'm 34 years old. I'm in the final stage of my sports life. I want to my team's finals in the semi-finals of the World Cup. The last 15 years have achieved several victories as a personal and athlete as well as athletes. But as team leader I have to do more. My goal was to be eligible for the semi-finals of the World Cup. "
-
-◼️
-
-[Data](articles/bef5c308.json)
-
-[Extended Data](ext_articles/bef5c308.ext.json)
-
----
-
-### Dudge that the loved ones went to the home of the soothing of the loved ones
-
-*2024-04-19 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195791) · `si`
-
-The funeral of former Deputy Minister Palitha Thevarapperuma, known for his humanistic qualities, was held today. It began at his home in Matugama, followed by a procession to the cemetery. Prominent figures like President Ranil Wickremesinghe and former President Maithripala Sirisena attended. The event was marked by a large turnout, highlighting Thevarapperuma's significant political and humanist legacy.
-
-🟩
-
-The funeral of the late Dissanaddha, Palitha Thewarapperuma, who recognized humans recognized humans, was held this afternoon.
-
-His funeral took place in the middle of the Susum of the Great Great, while he was still alive at the cemetery.
-
-Former Deputy Minister Palitha Thevarapperuma hit the electricity in his private land on the 16th.
-
-His remains were brought to the house of Matugama, Matugama on the night of the night.
-
-From that moment last night, many of the people and the residents of politicians and the residents came to this day last night.
-
-President Ranil Wickremesinghe was also finalized to the bodies of Palitha Thewarapperuma who had come to his party and the people of Sri Lanka.
-
-Former President Maithripala Sirisena was also present at the last respects of his body.
-
-Opposition Leader Sajith Premadasa also paid the final honor to thewarapperuma's body this morning.
-
-Residents of the area are still unbearable to the people of the area.
-
-...
-
-[Data](articles/9768bfd8.json)
-
-[Extended Data](ext_articles/9768bfd8.ext.json)
 
 ---

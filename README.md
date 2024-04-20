@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 18:08:44**
+As of **2024-04-20 18:20:49**
 
 ## Newspaper Stats
 
-*Scraped **19,925** Articles*
+*Scraped **19,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
 tamilmirrorlk | 2,296
-adaderanalk | 2,389
+adaderanalk | 2,390
 virakesarilk | 2,979
 dailymirrorlk | 3,107
 adaderanasinhalalk | 3,236
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,923 (100.0%) of 19,925 articles have been extended.
+19,925 (100.0%) of 19,926 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The airport has struggled to return to normal operations after the storm flooded
 ...
 
 [Data](articles/921d4220.json)
+
+[Extended Data](ext_articles/921d4220.ext.json)
+
+---
+
+### Special notice from SriLankan on Europe flights as Israel-Iran tensions rise
+
+*2024-04-20 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98746/special-notice-from-srilankan-on-europe-flights-as-israel-iran-tensions-rise) · `en`
+
+SriLankan Airlines says it is currently modifying its flight paths for European destinations as a precautionary measure amidst the current tensions between Israel and Iran.
+
+In a press release, the national carrier explained that these changes mean that flight times to Europe are extended, requiring additional fuel and reducing the available payload.
+
+Additionally, in order to meet slot times in London, these flights are being advanced by one hour, the airline said further, adding that some passengers on the London flights unfortunately have missed connections or been offloaded, as a result.
+
+The airline asserted that it would maintain this routing and the earlier departure time to London for the next few days while monitoring the situation. However, the departure times from London, and to and from other European cities remain unchanged.
+
+...
+
+[Data](articles/ec411bd7.json)
 
 ---
 
@@ -143,6 +163,8 @@ MP Digambaram further said that under the Samagi Jana Balawega government led by
 ◼️
 
 [Data](articles/563ebc94.json)
+
+[Extended Data](ext_articles/563ebc94.ext.json)
 
 ---
 
@@ -2125,21 +2147,5 @@ This partnership marks the inception of a new era in the hospitality industry, l
 [Data](articles/fedf024c.json)
 
 [Extended Data](ext_articles/fedf024c.ext.json)
-
----
-
-### Aitken Spence Hotels: Top 5 in LMD’s Most Awarded Hall of Fame, leading hospitality sector
-
-*2024-04-19 22:57:00* · [`islandlk`](http://island.lk/aitken-spence-hotels-top-5-in-lmds-most-awarded-hall-of-fame-leading-hospitality-sector/) · `en`
-
-Aitken Spence Hotels has once again ranked among the top companies in LMD’s Most Awarded Hall of Fame, solidifying its position as one of the most distinguished entities in Sri Lanka. Garnering an impressive tally of 52 awards throughout 2023, the Company secured the first place in hospitality sector and fourth place among the nation’s most honoured establishments. These awards have showcased the Company’s prowess in service, culinary and product excellence.
-
-With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken Spence Hotels boasts a portfolio of 17 properties under its brands: Heritance, Adaaran, and Turyaa. This geographical diversity underscores the Company’s commitment to sustainable hospitality across diverse cultures and landscapes.
-
-...
-
-[Data](articles/0e8a04a9.json)
-
-[Extended Data](ext_articles/0e8a04a9.ext.json)
 
 ---

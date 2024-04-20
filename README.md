@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 10:33:47**
+As of **2024-04-20 10:51:19**
 
 ## Newspaper Stats
 
-*Scraped **19,869** Articles*
+*Scraped **19,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,098
 economynextcom | 1,136
-adalk | 1,650
+adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,380
 virakesarilk | 2,977
-dailymirrorlk | 3,083
+dailymirrorlk | 3,088
 adaderanasinhalalk | 3,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,869 (100.0%) of 19,869 articles have been extended.
+19,869 (100.0%) of 19,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Gazette declares electricity, fuel services as essential
+
+*2024-04-20 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-declares-electricity-fuel-services-as-essential/108-281056) · `en`
+
+Colombo, April 20 (Daily Mirror) - An Gazette Extraordinary was issued declaring all services connected to the supply of electricity and or distribution of petroleum products and fuel as essential services from yesterday.
+
+The notification issued by Secretary to the President Saman Ekanayake.
+
+◼️
+
+[Data](articles/d0cc24e4.json)
+
+---
+
+### Genetic link between Lankan tribe and Indians
+
+*2024-04-20 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Genetic-link-between-Lankan-tribe-and-Indians/108-281053) · `en`
+
+(Telegraph India) - Sri Lanka’s Vedda people, long believed to be the island’s earliest human inhabitants, share close genetic bonds with five Indian tribal populations, a new study has found, bolstering evidence for their roots in the Indian subcontinent’s earliest modern human populations.
+
+A team of Indian and Sri Lankan scientists has found that the Vedda share a strong genetic similarity with the Austroasiatic Munda-speaking Santhal and Juang tribes in Odisha and the Dravidian-speaking Irula, Paniya and Pallar found in Karnataka, Kerala and Tamil Nadu.
+
+Their study, published this week in the scientific journal Mitochondrion, has revealed that the Vedda have a greater genetic similarity with these five tribes than with either Sri Lanka’s Sinhalese or Tamil populations with whom they have shared the island for centuries.
+
+...
+
+[Data](articles/9fd24193.json)
+
+---
 
 ### A person set fire during trial against former president
 
@@ -62,6 +92,28 @@ Foreign reports say that the fire has been hospitalized in critical condition.
 
 ---
 
+### World’s oldest orangutan Bella celebrates 63rd birthday
+
+*2024-04-20 09:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Worlds-oldest-orangutan-Bella-celebrates-63rd-birthday/108-281052) · `en`
+
+April 20, (Guinness World Records) - Bella, the world’s oldest living orangutan in captivity, celebrated her 63rd birthday this week.
+
+Estimated to have been born in 1961, Bella the Sumatran orangutan (Pongo abelii) was collected from the wild in 1964 and has lived at Hagenbeck Zoo in Hamburg, Germany, ever since.
+
+She was given a birthday cake made of soft-boiled rice and various fruits, which she shared with Berani, one of her adopted children.
+
+The typical lifespan of a wild orangutan is 35-40 years, increasing to around 50 years in captivity.
+
+Bella became the oldest living orangutan in 2021, following the death of Inji, a female Sumatran orangutan at Oregon Zoo, USA. Born in the wild c. 1960, Inji was thought to have been a year older than Bella.
+
+Bella has been described by her zookeepers as honest, prudent, curious, intelligent, loving and never aggressive.
+
+...
+
+[Data](articles/ace9331d.json)
+
+---
+
 ### National woman arrested with drug
 
 *2024-04-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195800) · `si`
@@ -81,6 +133,20 @@ The arrested is a 28 year old resident of Nuwara Eliya and 35 year old England.
 [Data](articles/891a999e.json)
 
 [Extended Data](ext_articles/891a999e.ext.json)
+
+---
+
+### The ultimate tiger mum
+
+*2024-04-20 09:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/The-ultimate-tiger-mum/110-281051) · `en`
+
+Tigers, revered apex predators of astounding strength, intelligence and beauty, are the jungle’s most majestic creatures.
+
+But they’re more than just charismatic cats and fearsome hunters – as the phrase ‘tiger mum’ suggests, female tigers are also fiercely maternal, and new Disney+ film Tiger reveals this through an intimate portrait of one family. (Daily Mail)
+
+◼️
+
+[Data](articles/5ae28d25.json)
 
 ---
 
@@ -168,6 +234,20 @@ In January this year, the Cabinet of Ministers approved a proposal presented by 
 
 ### Bondholders fear regime change impact
 
+*2024-04-20 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bondholders-fear-regime-change-impact/155-281050) · `en`
+
+Colombo, April 20 (Daily Mirror) - The representatives of bondholders who hold around 50 per cent of Sri Lanka’s outstanding international sovereign bonds (ISB), during closed-door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honoured in case of a regime change at the elections pending this year, Daily Mirror learns.
+
+The bondholders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
+
+...
+
+[Data](articles/f652b44a.json)
+
+---
+
+### Bondholders fear regime change impact
+
 *2024-04-20 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholders-fear-regime-change-impact/108-281050) · `en`
 
 Colombo, April 20 (Daily Mirror) - The representatives of bondholders who hold around 50 per cent of Sri Lanka’s outstanding international sovereign bonds (ISB), during closed-door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honoured in case of a regime change at the elections pending this year, Daily Mirror learns.
@@ -203,6 +283,22 @@ A large number of Sri Lankan professionals and students will continue to facilit
 [Data](articles/3f6acc9a.json)
 
 [Extended Data](ext_articles/3f6acc9a.ext.json)
+
+---
+
+### සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම ගැන අමාත්‍යාංශයෙන් නිවේදනයක්
+
+*2024-04-20 08:27:45* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-බඳවාගැනීම-ගැන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-409165) · `si`
+
+සංවර්ධන නිලධාරීන් ගුරු සේවයට බඳවාගැනීම සඳහා 2023 මාර්තු මස 25 වෙනි දින තරග විභාගයක් පැවැත්වීමට අධ්‍යාපන අමාත්‍යාංශය සියලු‍ කටයුතු සූදානම් කර තිබියදී සංවර්ධන නිලධාරීන් පිරිසක් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් හතරක් ගොනු කරනු ලැබී ය.
+
+ඒ අනුව එම තරග විභාගය පැවැත්වීමට පෙර 2023 මාර්තු 23 දින ශ්‍රේෂ්ඨාධිකරණය විසින් පනවන ලද අතුරු තහනම් නියෝගය හේතු කොටගෙන පැවැත්වීමට නියමිත ව තිබූ තරග විභාගය අත්හිටවනු ලැබී ය.
+
+මේ වන විටත් ශ්‍රේෂ්ඨාධිකරණයේ එම පෙත්සම් විභාග වෙමින් පවතින අතර ඉදිරියේ දී ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දෙන තීන්දුව අනුව අධ්‍යාපන අමාත්‍යාංශය විසින් ඉදිරි කටයුතු සිදු කිරීමට බලාපොරොත්තු වේ.
+
+◼️
+
+[Data](articles/669a049c.json)
 
 ---
 
@@ -2027,159 +2123,5 @@ Police have seized the rescued turtles and have taken steps to bring the suspect
 [Data](articles/2488e131.json)
 
 [Extended Data](ext_articles/2488e131.ext.json)
-
----
-
-### Fr. Siran Gamini gave it information about the Passover attack
-
-*2024-04-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195784) · `si`
-
-Fr. Siran Gamini provided a four-hour statement to the Criminal Investigation Department about the Passover attack. He was invited to join the end of the attack by the next judge and called for justice for Catholics, aiming to change the culture that hides crimes.
-
-🟩
-
-The Criminal Investigation Department has obtained a four-hour statement regarding the Passover of the Cyril Gamini of the Catholic newspaper.
-
-After providing the statement, Fr. "
-
-Meanwhile, Fr.
-
-He said that he had a march and was also invited to join the end of the Passover attack by the next Srudge.
-
-"We demand that this voice is to join everyone Catholic and Catholics. We want to do justice to Catholics. We want to change this culture. That means change the culture that can hide a crime. It's a national work. Join it. "
-
-◼️
-
-[Data](articles/eac56e59.json)
-
-[Extended Data](ext_articles/eac56e59.ext.json)
-
----
-
-### Demonstration against the Employers Federation and demanding a base salary of Rs 1,700!
-
-*2024-04-19 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181462) · `ta`
-
-Workers demand a Rs 1,700 salary increase, protesting at Colombo Fort Railway Station. Despite government intervention, companies refuse to pay, leading to failed negotiations and a massive demonstration by the CWC.
-
-🟩
-
-A massive demonstration was held in front of the Colombo Fort Railway Station on Friday, demanding a 1,700 rupee salary increase for plantation workers.
-
-The protest was organized by the National Organizer of the CWC Sakthivel and a large number of workers and supporters of the CWC participated in the demonstration.
-
-The government has asked the companies to pay Rs.
-
-However, companies continue to claim that the salary increase of 1,700 rupees cannot be paid and refused to accept the government's decision.
-
-In this regard, many rounds of talks between the Ministry of Labor, the Employers Federation and the CWC failed.
-
-This is why the CWC has launched a massive protest demonstration in Colombo today to pressure companies.
-
-Do not ignore the legitimate demands of the workers, do not pull up on the salary, and the anarchy companies were demonstrated to showcase the slogans, such as leaving the gardens if they were not paid 1,700 rupees to plantation workers.
-
-◼️
-
-[Data](articles/920d0795.json)
-
-[Extended Data](ext_articles/920d0795.ext.json)
-
----
-
-### A child gives birth to a child in Nagadeepa vessel
-
-*2024-04-19 15:17:39* · [`adalk`](https://www.ada.lk/breaking_news/නාගදීප-මගී-යාත්‍රාවේදී--දරුවකු-ප්‍රසූත-කරයි/11-409163) · `si`
-
-A child was born on a passenger vessel in Nagadeepa, Jaffna, on the 17th. The mother, in pain, was taken to Nagadeepa Base Hospital. The baby was then transported to Jaffna Teaching Hospital via ambulance.
-
-🟩
-
-A baby was delivered to a passenger vessel while he was carrying a mother in the Nagadeepa area in Jaffna.
-
-The incident had taken place on the 17th and the pregnant mother was admitted to the Nagadeepa Base Hospital due to the child's pain.
-
-The Jaffna Teaching Hospital jourses from Nagadeepa Jetty to Koriadduavan jetty to the Koriadduvan jetty from Nagadeepa to Jaffna Teaching Hospital.
-
-The pregnant woman, including a bunch of ambulance, has been taken to a passenger vessel that sailed to the nagadeepa.
-
-When pregnant is the pregnancy of pregnancy, the child sent all men in the passenger vessel, which was supported by the base from the underside of the bore, the child was deliberate.
-
-The infants have been taken to the Mother Kirijuduva jetty with the baby and have been taken to the Jaffna Teaching Hospital with a kilometer.
-
-◼️
-
-[Data](articles/303b16ab.json)
-
-[Extended Data](ext_articles/303b16ab.ext.json)
-
----
-
-### Sri Lanka’s Galadari plans $20mn loan from UAE’s Masheq Bank
-
-*2024-04-19 15:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-galadari-plans-20mn-loan-from-uaes-masheq-bank-159378/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Galadari Hotels (Lanka) Plc said it plans to get a 73.4 million Dirham loan (20 million dollars) from UAE-based, Mashreq Bank PSC, subject to regulatory approvals.
-
-The facility is made up of a 73.4 million dirham loan and a 14.86 million dirham ‘green loan’, the firm said in a stock exchange filing.
-
-The money will be used to renovate Galadari Hotel in Colombo.
-
-Shareholders approved the borrowing at an extraordinary general meeting on April 18.
-
-Galadari Hotels said in a February filing that it intended to enter into agreements with its parent, Dubai-based Galadari Brothers LLC and Mashreq Bank PSC to fund refurbishment.
-
-Shares of Galadari Hotels (Lanka) Plc were flat at 17.50 in intra day trading Friday.
-
-Sri Lanka is targeting 2.3 million tourists in 2024, up from 1.48 last year. (Colombo/Apr19/2024)
-
-◼️
-
-[Data](articles/34ceaf99.json)
-
-[Extended Data](ext_articles/34ceaf99.ext.json)
-
----
-
-### Destruction of writing
-
-*2024-04-19 14:36:56* · [`adalk`](https://www.ada.lk/breaking_news/ලියන-පෑන-කරන-විනාශයක්/11-409162) · `si`
-
-Pan producers add 12 tigers annually, using 80 tons of plastics. Manufacturers reveal challenges in recycling ingredients, pointing out issues with Pan products.
-
-🟩
-
-The Pan producers will be added to 12 tigers in the country a year and 80 tons of plastics and 80 tons of plastic.
-
-Heads of Pan manufacturing institutions have also revealed many of the webaries. They are difficult to recycle the ingredients used in the production pens in Sri Lanka and are not the companies that are recycled.. They also pointed out the pan for the pennicrobic pan for the pennicrafts and the pan with a pen in the pan.
-
-◼️
-
-[Data](articles/b09d7ffa.json)
-
-[Extended Data](ext_articles/b09d7ffa.ext.json)
-
----
-
-### Interaction between drug traffickers and police - accusation
-
-*2024-04-19 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181451) · `ta`
-
-At a district coordination committee meeting, allegations were made against the police for involvement in drug trafficking, particularly with heroin. The police responded by stating that heroin is scarce and that they've arrested individuals in Mannar and are investigating cannabis trafficking from India to the North. They emphasized the need for public cooperation to prevent drug trafficking in the North.
-
-🟩
-
-Hold the big topic on drug trafficking. At a meeting of the district coordination committee, the allegations were made that people claim that the police were involved.
-
-Yall. The District Secretariat Coordinating Committee meeting was held on Thursday (19) at the meeting of Minister Douglas Devananda and Governor of the Northern Province BSM Salles.
-
-In the meantime, the police made comments on drug trafficking. Especially heroin is not currently available. Instead of using the drugs used for mentally ill people. We have arrested some people in Mannar and put legal action.
-
-Also, cannabis drug is transmitted from India to the North. From here to the southern provinces. We are investigating many studies in this regard. Some people are able to arrest. Most of the balls are not taken. However, we are carrying out a series of measures. Police said public cooperation is needed.
-
-...
-
-[Data](articles/62107f41.json)
-
-[Extended Data](ext_articles/62107f41.ext.json)
 
 ---

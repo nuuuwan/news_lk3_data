@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 08:18:26**
+As of **2024-04-20 08:34:03**
 
 ## Newspaper Stats
 
-*Scraped **19,855** Articles*
+*Scraped **19,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,098
 economynextcom | 1,136
-adalk | 1,648
-tamilmirrorlk | 2,293
+adalk | 1,649
+tamilmirrorlk | 2,295
 adaderanalk | 2,378
-virakesarilk | 2,975
+virakesarilk | 2,976
 dailymirrorlk | 3,081
 adaderanasinhalalk | 3,221
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 3,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,853 (100.0%) of 19,855 articles have been extended.
+19,855 (100.0%) of 19,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### සතිඅන්තයේ නිවසින් පිටතට යන ඔබ මේ ගැනත් සිතන්න
+### டிரம்பிற்கு எதிரான வழக்கு – நீதிமன்றத்திற்கு வெளியே தீக்குளித்த நபரால் பரபரப்பு
+
+*2024-04-20 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181489) · `ta`
+
+அமெரிக்காவில் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் தொடர்பான வழக்கு இ;டம்பெற்றுக்கொண்டிருந்த பகுதிக்கு வெளியே நபர் ஒருவர் தீக்குளி;த்த சம்பவம் பெரும் பரபரப்பை ஏற்படுத்தியுள்ளது.
+
+ஆபாச படநடிகை ஸ்டோர்மி டானியல் தனக்கு எதிராக தகவல்களை தெரிவிக்காமல் இருப்பதற்காக டொனால்ட் டிரம்ப் அவருக்கு பணம் வழங்கினாரா என்பது தொடர்பான நீதிமன்ற வழக்கு இடம்பெற்றுவந்த மான்ஹட்டன் நீதிமன்றத்திற்கு வெளியே நபர் ஒருவர் தீக்குளிக்க முயன்றுள்ளார்.
+
+சதிமுயற்சி குறித்த துண்டுபிரசுரங்களை எறிந்த பின்னர் அவர் தன்மீது திரவமொன்றை ஊற்றினார் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதற்கான காரணம் தெரியவில்லை என தெரிவித்துள்ள காவல்துறையினர் நீதிமன்றின் பாதுகாப்பு மீறப்பட்டது எனவும் குறிப்பிட்டுள்ளனர்.
+
+சிலவாரங்களிற்கு முன்னர் புளோரிடாவில் உள்ள தனது வீட்டிலிருந்து நியுயோக்கிற்கு வந்த மக்ஸ்வெல் அசரெலொ என்ற 37 வயது நபரே தீக்குளிக்க முயன்றுள்ளார்.
+
+...
+
+[Data](articles/36851e58.json)
+
+---
+
+### Think about you on the weekend house
 
 *2024-04-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195798) · `si`
 
-දිස්ත්‍රික්ක 4ක් හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල මිනිස් සිරුරට දැනෙන උෂ්ණත්වයක් අද (20) දිනයේ අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department predicts a temperature of 20°C today, except in Nuwara Eliya, Kandy, Matale, and Badulla districts.
 
-ඒ අනුව නුවරඑළිය, මහනුවර, මාතලේ සහ බදුල්ල යන දිස්ත්‍රික්ක හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල උෂ්ණාධික කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ මෙරිල් මෙන්ඩිස් මහතා පැවසුවේය.
+🟩
+
+The Met Department forecasts a temperature should be paid today (20), except 4 districts, except 4 districts.
+
+According to the Nuwara Eliya, Kandy, Matale and Badulla districts, the Deputy Director Merrill Mendis said.
 
 ◼️
 
 [Data](articles/c269c1db.json)
+
+[Extended Data](ext_articles/c269c1db.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Wind speed may increase up to 40-45 kmph at times in the sea areas off the coast
 ...
 
 [Data](articles/ff0e0e7a.json)
+
+[Extended Data](ext_articles/ff0e0e7a.ext.json)
 
 ---
 
@@ -177,6 +205,36 @@ Youth Training Scheme is expected to improve comprehensive training and morale f
 [Data](articles/7bfbc056.json)
 
 [Extended Data](ext_articles/7bfbc056.ext.json)
+
+---
+
+### முதியவர் சடலமாக மீட்பு
+
+*2024-04-20 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவர்-சடலமாக-மீட்பு/175-336110) · `ta`
+
+நுவரெலியா பொலிஸ் பிரிவுக்குட்பட்ட ஒலிபண்ட் தோட்டத்தில் முதியவர் ஒருவர் தூக்கில் தொங்கிய நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+நேற்றுமுன்தினம் இரவு வீட்டில் பின்புறத்தில் உள்ள குளியலறையில் தவறான முடிவெடுத்த நிலையில் அவர் சடலமாக மீட்கப்பட்டுள்ளார் என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c0d073a1.json)
+
+---
+
+### உணவுப் பொருட்கள் வழங்கும் பணி ஆரம்பம்
+
+*2024-04-20 00:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்-பொருட்கள்-வழங்கும்-பணி-ஆரம்பம்/175-336109) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கமைய பாடசாலை மாணவர்களுக்கு போசாக்குள்ள உணவு வழங்கும் நிகழ்ச்சித் திட்டத்திற்காக உலக உணவுத் திட்டத்தின் மூலம் பாடசாலைகளுக்கு வழங்கப்படும் செறிவூட்டப்பட்ட அரிசி  விநியோகம் நேற்று வெயங்கொட உணவு களஞ்சிய வளாகத்தில் ஆரம்பித்து வைக்கப்பட்டது.
+
+பாடசாலை மாணவர்களிடையே இரும்புச் சத்து குறைபாட்டைக் குறைக்கும் நோக்கில், பாடசாலை உணவுக்கு செறிவூட்டப்பட்ட அரிசி வழங்கப்படுவதுடன், ஜனாதிபதி செயலகத்தின் கீழுள்ள உலக உணவுத் திட்டத்திற்கான கூட்டுச் செயலகத்தின் பணிப்பாளர் நாயகம் எம்.எச்.ஏ.எம்.ரிப்லானின் மேற்பார்வையில் இந்த விநியோக நடவடிக்கைகள் மேற்கொள்ளப்படுகின்றன.
+
+இதன்படி, முதற்கட்டமாக மாகாண மட்டத்தில் உள்ள பாடசாலைகளுக்கு 735 மெற்றிக் தொன் அரிசி வழங்கும் நடவடிக்கை நேற்று ஆரம்பமானதுடன் இன்றும் இந்தப் பணிகள் தொடரும். சம்பந்தப்பட்ட மாகாண கல்வித் திணைக்கள அதிகாரிகள் மற்றும் பொது சுகாதார பரிசோதகர்களின் கண்காணிப்பின் கீழ் பாடசாலைகளுக்கு அரிசி விநியோகிக்கப்படுகிறது. (a)
+
+◼️
+
+[Data](articles/ddd37eae.json)
 
 ---
 
@@ -1790,6 +1848,26 @@ Do not ignore the legitimate demands of the workers, do not pull up on the salar
 
 ---
 
+### නාගදීප මගී යාත්‍රාවේදී  දරුවකු ප්‍රසූත කරයි
+
+*2024-04-19 15:17:39* · [`adalk`](https://www.ada.lk/breaking_news/නාගදීප-මගී-යාත්‍රාවේදී--දරුවකු-ප්‍රසූත-කරයි/11-409163) · `si`
+
+යාපනය නාගදීප ප්‍රදේශයේදී ප්‍රසව වේදනාවෙන් සිටි මවක් රෝහලට මුහුදු මාර්ගයෙන් රැගෙන යමින් සිටියදී මගී යාත්‍රාවක් තුලදී බිළිඳෙකු ප්‍රසූත කර ඇති බවට වාර්ථා වෙයි.
+
+පසුගිය 17 වනදා මෙම සිදුවීම සිදුව ඇති අතර අදාල ගැබිනි මව ප්‍රසව වේදනාව හේතුවෙන් නාගදීප මූලික රෝහලට ඇතුලත් වීමෙන් පසුව එහි වෛද්‍යවරුන් ගැබිනි මව යාපනය ශික්ෂණ රෝහලට රැගෙන යා යුතු බවට දැනුම් දී ඇත.
+
+නාගදීපය සිට යාපනය ශික්ෂණ රෝහලට යාමටනම් නාගදීපය ජැටියේ සිට මුහුදු මාර්ගයෙන් කූරිකඩ්ඩුවාන් ජැටිය දක්වා ගමන් යාපනය ශික්ෂන රෝහලට යායුතු වෙයි.
+
+එම අවස්ථාවේදී ගිලන් වූ පුද්ගලයින් ප්‍රවාහනය කරනු ලබන ගිලන් මුහුදු යාත්‍රාව නොමැති වූ හෙයින් නාගදීපය වන්දනා කිරීම සඳහා යාත්‍රා කරනු ලබන මගී යාත්‍රාවක් වෙතට අදාල ගැබිනි මව ඇතුලත් කොට කූරිකඩ්ඩුවාන් ජැටිය වෙතට ගමන් කිරීමට පියවර ගෙන ඇත.‍
+
+එහිදී ගැබිනි මාතාවට ප්‍රසව වේදනාව ඇතිව දරුවා ප්‍රසූත කිරීමට අවහ්‍ය බව පැවසීමේදී මගී යාත්‍රාවේ සිටි පිරිමි පුද්ගලයින් සියල්ලා උඩුමහලට යවා කාන්තාවන් සියල්ල යාත්‍රාවේ යටි මහලේ සිට එම මවට දරුවා ප්‍රසූත කිරීමට සහය ලබාදීමෙන් පසුව දරුවා ප්‍රසූත කොට ඇත.
+
+...
+
+[Data](articles/303b16ab.json)
+
+---
+
 ### Sri Lanka’s Galadari plans $20mn loan from UAE’s Masheq Bank
 
 *2024-04-19 15:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-galadari-plans-20mn-loan-from-uaes-masheq-bank-159378/) · `en`
@@ -2075,91 +2153,5 @@ IMF staff analysis shows that U.S. interest rates have a strong and immediate im
 [Data](articles/2ad51bde.json)
 
 [Extended Data](ext_articles/2ad51bde.ext.json)
-
----
-
-### All flights to and from BIA to Dubai operating on normal schedule
-
-*2024-04-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-flights-to-and-from-BIA-to-Dubai-operating-on-normal-schedule/108-280994) · `en`
-
-Katunayake, April 19 (Daily Mirror)- All flights are now operating to and from Colombo to Dubai without any delays after the heavy floods experienced in Dubai recently, airport sources said.
-
-Meanwhile, Emirates said it is suspending check-in for all customers in its network travelling with onward connections through Dubai until 23.59 hrs [GMT] on 19 April.
-
-"This is to support operations recovery from the recent bad weather at our Dubai hub.
-
-"Passengers already in Dubai and in transit will continue to be processed for their flights.
-
-"Customers travelling to Dubai as their final destination may check-in and travel as usual. Customers can expect delays to departures and arrivals and are advised to check the latest flight schedules on emirates.com.
-
-"Impacted customers should contact their booking agent or Emirates Office for rebooking options," the Emirates said.
-
-◼️
-
-[Data](articles/42e970fe.json)
-
-[Extended Data](ext_articles/42e970fe.ext.json)
-
----
-
-### All flights to and from BIA to Dubai operating on normal schedule
-
-*2024-04-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/All-flights-to-and-from-BIA-to-Dubai-operating-on-normal-schedule/155-280994) · `en`
-
-Katunayake, April 19 (Daily Mirror)- All flights are now operating to and from Colombo to Dubai without any delays after the heavy floods experienced in Dubai recently, airport sources said.
-
-Meanwhile, Emirates said it is suspending check-in for all customers in its network travelling with onward connections through Dubai until 23.59 hrs [GMT] on 19 April.
-
-"This is to support operations recovery from the recent bad weather at our Dubai hub.
-
-"Passengers already in Dubai and in transit will continue to be processed for their flights.
-
-"Customers travelling to Dubai as their final destination may check-in and travel as usual. Customers can expect delays to departures and arrivals and are advised to check the latest flight schedules on emirates.com.
-
-"Impacted customers should contact their booking agent or Emirates Office for rebooking options," the Emirates said.
-
-◼️
-
-[Data](articles/91ea6853.json)
-
-[Extended Data](ext_articles/91ea6853.ext.json)
-
----
-
-### Wickremesinghe will win no more than 2.5 mn votes at presidential poll: SJB
-
-*2024-04-19 13:31:00* · [`economynextcom`](https://economynext.com/wickremesinghe-will-win-no-more-than-2-5-mn-votes-at-presidential-poll-sjb-159346/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe will secure no more than 2.5 million votes if he contests the upcoming presidential elections, main opposition Samagi Jana Balawegaya (SJB) MP Ashok Abeysinghe said.
-
-Speaking to reporters, Abeysinghe predicted that, no sooner the presidential election is called, former United National Party (UNP) MPs who lost their seats at the 2020 parliamentary elections will join the SJB en masse.
-
-“This is guaranteed. But no one from our party will leave to a party on the decline,” he said, referring to comments made by UNP general secretary Palith Range Bandara and others that crossovers from the SJB are on the horizon.
-
-“I predict that, if Mr Wickremesinghe contests, he won’t get more than 2.5 million votes. That is why there is talk of a UNP-SLPP alliance these days,” said Abeysinghe.
-
-...
-
-[Data](articles/043994e9.json)
-
-[Extended Data](ext_articles/043994e9.ext.json)
-
----
-
-### Presidential election: SJB floats potential backing of UNP for Sajith
-
-*2024-04-19 13:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98721/presidential-election-sjb-floats-potential-backing-of-unp-for-sajith) · `en`
-
-Samagi Jana Balawegaya (SJB) says that if the United National Party (UNP) supports Opposition Leader Sajith Premadasa in the upcoming presidential election, consideration may be given to offering a position to current President Ranil Wickremesinghe.
-
-SJB Parliamentarian Ashok Abeysinghe stated this, while emphasizing that no one from their party will join the UNP.
-
-MP Abeysinghe made these remarks while joining a press briefing held in Kurunegala.
-
-◼️
-
-[Data](articles/6e5fb50d.json)
-
-[Extended Data](ext_articles/6e5fb50d.ext.json)
 
 ---

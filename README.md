@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 10:03:37**
+As of **2024-04-20 10:18:34**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 3,224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,868 (100.0%) of 19,869 articles have been extended.
+19,869 (100.0%) of 19,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### හිටපු ජනාධිපති ට එරෙහි නඩු විභාගය අතරතුර පුද්ගලයෙක් ගිනි තබාගනී
+### A person set fire during trial against former president
 
 *2024-04-20 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195801) · `si`
 
-හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහි නඩු විභාගය පැවැත්වෙන මෑන්හැටන් අධිකරණය ඉදිරිපිටදී පුද්ගලයෙකු ගිනි තබාගෙන තිබේ.
+A person set fire during the trial against former President Donald Trump, obscuring the reason. The fire occurred near the Manhattan court where Trump's juror was being questioned. Trump was not present. The case's initial statements will start on Monday. The fire victim is in critical condition.
 
-විදෙස් වාර්තා සඳහන් කළේ ඔහු දියරයක් ඇඟට ගල්වා ගනිමින් මෙම ගිනිතබා ගැනීම සිදුකරගෙන ඇති බවය.
+🟩
 
-ගිනි තබා ගැනීමට හේතුව කුමක්ද යන්න අපැහැදිලි බව පොලීසිය පවසා ඇත.
+A person has set fire in front of the Manhattan court, who is trial against former President Donald Trump.
 
-ඩොනල්ඩ් ට්‍රම්ප් ජූරි සභාවට ඉදිරිපත් වන අවස්ථාවේදී මෙම ගිනි තබා ගැනීම සිදුකර ගෙන ඇති බව විදෙස් වාර්තාවල සඳහන් වේ.
+Foreign reports stated that he had made this burning of fire.
 
-කෙසේ වෙතත් හිටපු ජනාධිපතිවරයා මෙම ගිනිතබා ගැනීමේ සිද්ධිය අතරතුර එම ස්ථානයෙන් පිටව ගොස් ඇති බව වාර්තා වේ.
+Police have said that the reason to set fire was obscured.
 
-ලබන සඳුදා දිනයේ (22) මෙම නඩුවේ ආරම්භක ප්‍රකාශ ආරම්භ කිරීමට නියමිතව ඇත.
+The fire has been carried out at the time of the JurOR of Donald Trump.
 
-ගිනි තබාගත් පුද්ලගයා ඉතා අසාධ්‍ය තත්ත්වයෙන් රෝහල් ගත කර ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+However, the former presidents reported that the former has left the place during this end.
+
+The initial statements of this case will be started on Monday (22).
+
+Foreign reports say that the fire has been hospitalized in critical condition.
 
 ◼️
 
 [Data](articles/d8e905cc.json)
+
+[Extended Data](ext_articles/d8e905cc.ext.json)
 
 ---
 

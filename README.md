@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 05:38:01**
+As of **2024-04-20 05:56:24**
 
 ## Newspaper Stats
 
-*Scraped **19,841** Articles*
+*Scraped **19,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 169
 bbccomsinhala | 208
 dbsjeyarajcom | 217
 newsfirstlk | 363
-islandlk | 1,060
+islandlk | 1,066
 dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,648
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,841 (100.0%) of 19,841 articles have been extended.
+19,841 (100.0%) of 19,847 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -450,6 +450,20 @@ That, and humanity’s inhumanity to humankind, combined to make the Easter Sund
 
 ---
 
+### Launch of ‘Worky’ – A Revolutionary Platform Transforming Sri Lanka’s Job Market
+
+*2024-04-19 23:04:00* · [`islandlk`](http://island.lk/launch-of-worky-a-revolutionary-platform-transforming-sri-lankas-job-market/) · `en`
+
+In a significant boost to Sri Lanka’s employment landscape, especially during its challenging economic times, a groundbreaking platform named ‘Worky’ was launched on March 20, 2024. Designed to bridge the gap between job seekers, part-time workers, students, and service seekers, ‘Worky’ is poised to revolutionize the way people find work and hire for services in Sri Lanka.
+
+At its core, ‘Worky’ is a location-based service platform that allows prospective job seekers and part-time workers, including students, to register free of charge. This innovative app enables service seekers to log in and locate the nearest available worker, facilitating immediate bookings for a wide array of services. From traditional roles like plumbers and carpenters to new-age job functions such as dog walking and pet grooming, ‘Worky’ caters to a diverse range of employment opportunities, directly addressing the varied needs of Sri Lankan households.
+
+...
+
+[Data](articles/d31a0aaf.json)
+
+---
+
 ### Paris – A Moveable Feast
 
 *2024-04-19 23:02:38* · [`dailyftlk`](https://www.ft.lk/columns/Paris-A-Moveable-Feast/4-760809) · `en`
@@ -461,6 +475,68 @@ One of the most enchanting books I have read in recent times has to be “A Move
 [Data](articles/a9cf9348.json)
 
 [Extended Data](ext_articles/a9cf9348.ext.json)
+
+---
+
+### ‘ComBank Digital’ links Dept. of Commerce for online payments with LankaPay
+
+*2024-04-19 22:59:00* · [`islandlk`](http://island.lk/combank-digital-links-dept-of-commerce-for-online-payments-with-lankapay/) · `en`
+
+The Commercial Bank of Ceylon has announced the integration of the Department of Commerce (DOC) with ‘ComBank Digital’ enabling online payments for services via LankaPay.
+
+As a result, businesses or individuals can now make secure real-time online payments for services such as registration of exporters, issuance of certificates of origin and other facilities offered by the Department of Commerce.
+
+The online payment option can be accessed on www.combankdigital.com and its iOS, Android or Huawei mobile applications. The platform is secured with industry-level security standards to provide a convenient, swift and safe digital banking experience to users wherever they are, the Bank said.
+
+Customers simply have to login to the platform and select the ‘Bill payment’ section on the platform, select ‘Department of Commerce’ and make their payments. Once a payment has been successfully completed, the customer can download a cyber-receipt as payment confirmation.
+
+...
+
+[Data](articles/139e7b35.json)
+
+---
+
+### Hunas Holdings and BCC Corporation Japan forge strategic partnership to revolutionize hospitality industry
+
+*2024-04-19 22:58:00* · [`islandlk`](http://island.lk/hunas-holdings-and-bcc-corporation-japan-forge-strategic-partnership-to-revolutionize-hospitality-industry/) · `en`
+
+Hunas Holdings PLC, a leading player in the investment and hospitality sector, recently announced a strategic partnership with BCC Corporation Japan, a renowned innovator in technology, hospitality and real estate solutions. Together, they are introducing a ground breaking advancement poised to transform the way hotel accommodations are booked and managed. The collaboration introduces an innovative platform, using Block chain and Non-Fungible Token (NFT) technology while enhancing flexibility and investment opportunities for travellers and stakeholders alike.
+
+This partnership marks the inception of a new era in the hospitality industry, leveraging cutting-edge technology to address common challenges faced by travellers and hotel operators. At the heart of this collaboration is the introduction of a pioneering platform that offers unprecedented flexibility and investment potential: Nafutel Platform
+
+...
+
+[Data](articles/fedf024c.json)
+
+---
+
+### Aitken Spence Hotels: Top 5 in LMD’s Most Awarded Hall of Fame, leading hospitality sector
+
+*2024-04-19 22:57:00* · [`islandlk`](http://island.lk/aitken-spence-hotels-top-5-in-lmds-most-awarded-hall-of-fame-leading-hospitality-sector/) · `en`
+
+Aitken Spence Hotels has once again ranked among the top companies in LMD’s Most Awarded Hall of Fame, solidifying its position as one of the most distinguished entities in Sri Lanka. Garnering an impressive tally of 52 awards throughout 2023, the Company secured the first place in hospitality sector and fourth place among the nation’s most honoured establishments. These awards have showcased the Company’s prowess in service, culinary and product excellence.
+
+With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken Spence Hotels boasts a portfolio of 17 properties under its brands: Heritance, Adaaran, and Turyaa. This geographical diversity underscores the Company’s commitment to sustainable hospitality across diverse cultures and landscapes.
+
+...
+
+[Data](articles/0e8a04a9.json)
+
+---
+
+### Regional war fears trigger tremors in stock market
+
+*2024-04-19 22:57:00* · [`islandlk`](http://island.lk/regional-war-fears-trigger-tremors-in-stock-market/) · `en`
+
+CSE trading yesterday started on a negative note due to the ongoing conflict in the West Asian region, revolving around Iran and Israel. As a result the regional stock markets were disrupted somewhat, anticipating a global oil price hike, stock market analysts said.
+
+The CSE adopted a cautious stance, with around 129 companies showing a downward trend in their prices while 87 companies’ stocks moved up. Further, Softlogic Holdings resumed its trading in the market after suspending its trading for some time due to some annual report issues, analysts added.
+
+Amid those developments both indices moved downward. The All Share Price Index went down by 43.points, while S and P SL20 declined by 18.46 points. Turnover stood at Rs 1.47 billion sans a single crossing.
+
+...
+
+[Data](articles/e5b7dba2.json)
 
 ---
 
@@ -2087,127 +2163,5 @@ It currently operates direct flights to Dubai, Male and Chennai from the airline
 [Data](articles/7f7af9fc.json)
 
 [Extended Data](ext_articles/7f7af9fc.ext.json)
-
----
-
-### Officer of the Excise Department suspended work!
-
-*2024-04-19 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181446) · `ta`
-
-Excise Department work suspended due to alleged distortion of Rohana Betake's New Year's song. Commissioner Sanna Weerakkody confirms potential investigation if court verdict confirms accusation.
-
-🟩
-
-It has been reported that the work of the Excise Department has been suspended for allegedly distorting the New Year's song sung by singer Rohana Betake.
-
-The Commissioner of the Department of Excise, Sanna Weerakkody said this during a media briefing held at the Department of Excise.
-
-The media spokesman said that if the court confirms that he is accused of investigating the incident, he will be investigated.
-
-The Kiliyapitiya Magistrate's Court on Wednesday (17) was ordered to keep the man in detail for the crime of distorting the song solar mangal and posted on social networks.
-
-◼️
-
-[Data](articles/b7102edb.json)
-
-[Extended Data](ext_articles/b7102edb.ext.json)
-
----
-
-### How to live on Mars: Sri Lankan scientist for study
-
-*2024-04-19 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181428) · `ta`
-
-NASA tests Mars habitat with Sri Lankan scientist Piyumi Wijeeshekara. They simulate Mars environment, travel in rover, and save samples.
-
-🟩
-
-NASA is testing the people who want to go to Mars, creating a habitat, just as it duplicates the prevailing environment on Mars.
-
-Research has been underway at the Johnson Space Center in Houston.
-
-In it, NASA has also selected Piyumi Wijeeshekara, a masters research scientist at the Radiation Biology Physics Laboratory at the NASA Ames Research Center in California, Sri Lanka.
-
-Accordingly, NASA has announced that Jason Lee, Stephanie Navaro, Sharif al -Romiti and Piyumi Wijesekera will enter the Agency's Human Research Research Analog or Hera on May 10.
-
-After wearing a marsu suit from the base set up on Mars, they have to travel in the Rover and save samples.It is noteworthy that it will be examined on the possibility of human life.
-
-Piyumi Wijesekera and her team will work for 45 days like astronauts at NASA's Johnson Space Center in Houston.
-
-◼️
-
-[Data](articles/1d084953.json)
-
-[Extended Data](ext_articles/1d084953.ext.json)
-
----
-
-### Sri Lanka to establish youth centres with bank executives and trade board members
-
-*2024-04-19 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-youth-centres-with-bank-executives-and-trade-board-members-159307/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President has said regional youth centres will be established in each divisional secretariat division in a bid to empower the youth demographic.
-
-President Ranil Wickremesinghe promised “to nurture budding entrepreneurs through these centres, with intentions to engage bank executives and trade board members in the process,” at a meeting with young Members of Parliament and emerging political figures from the Nuwara Eliya district.
-
-Sri Lanka has seen an exodus of young people after an economic crisis plunged a large part of the population into poverty.
-
-Wickremesinghe “reiterated his commitment to fostering the region’s development into a premier tourist destination,” and pointed out that concerted efforts were imperative “to attract essential investments for national development,” in a statement by his media division.
-
-His goal was “to ensure that these benefits reached every segment of society” Wickremesinghe was quoted as saying.
-
-...
-
-[Data](articles/97da1999.json)
-
-[Extended Data](ext_articles/97da1999.ext.json)
-
----
-
-### Two killings in two places
-
-*2024-04-19 12:27:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-இடங்களில்-இரண்டு-கொலைகள்/175-336091) · `ta`
-
-Two murders in Embilipitiya and another place. A 71-year-old man in Mudwanwella Colony was killed by a sharp weapon, possibly due to a conflict. Suspects aged 67 and 47 arrested.
-
-🟩
-
-Police said two murders have taken place in two other places in the country.
-
-A 71 -year -old man who lived in a rented house in the Mudwanwella Colony area of Embilipitiya has been assassinated last night.
-
-Police said that the man who lived alone in the rented house was working in coconut fiber and was assassinated by a sharp weapon.
-
-The deceased has gone fishing at the Pimpuradeva Lake on the 17th and has been drinking with another man and his wife.
-
-Police said the man was murdered due to the conflict.
-
-The suspects aged 67 and 47 have been arrested in connection with the murder.
-
-◼️
-
-[Data](articles/070b3b18.json)
-
-[Extended Data](ext_articles/070b3b18.ext.json)
-
----
-
-### India heads to the polls in world’s biggest election
-
-*2024-04-19 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98720/india-heads-to-the-polls-in-worlds-biggest-election) · `en`
-
-Polls opened Friday for the first and largest phase of India’s marathon general election, kicking off a vote in which Prime Minister Narendra Modi is seeking to win a rare third consecutive term.
-
-About 969 million people are eligible to vote in the biggest election in human history, with polling taking place in seven phases over the next six weeks in the world’s most populous country.
-
-The nationwide vote is considered among the most consequential in decades as Modi’s powerful right-wing Bharatiya Janata Party (BJP) aims for an outright majority and a mandate to widen its development and Hindu-nationalist policies established during its 10-year rule.
-
-Those policies have transformed India economically and culturally, and BJP rule has been defined by a pull away from India’s secular foundation, toward Hindu majoritarianism.
-
-...
-
-[Data](articles/067209c4.json)
-
-[Extended Data](ext_articles/067209c4.ext.json)
 
 ---

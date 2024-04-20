@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 17:18:28**
+As of **2024-04-20 17:34:29**
 
 ## Newspaper Stats
 
-*Scraped **19,920** Articles*
+*Scraped **19,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,50 @@ newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,099
 economynextcom | 1,139
-adalk | 1,653
+adalk | 1,654
 tamilmirrorlk | 2,296
 adaderanalk | 2,388
 virakesarilk | 2,979
-dailymirrorlk | 3,104
+dailymirrorlk | 3,105
 adaderanasinhalalk | 3,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,919 (100.0%) of 19,920 articles have been extended.
+19,920 (100.0%) of 19,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ට ප්‍රශ්නයක් නැහැ
+### Sri Lankans in Israel have no problem
 
 *2024-04-20 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195814) · `si`
 
-ඊශ්‍රායලයේ රැඳී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් නිරන්තර විමසිල්ලෙන් පසුවන බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
+Sri Lankans in Israel are doing well, with 11,500 serving, mostly in homes. Ambassador Nimal Bandara advises contacting the Embassy for support. Despite unrest, lives are normal. Air travel delays affect Sri Lankans' access to Israel.
 
-පවතින තත්ත්වය මත ගැටලුකාරී පසුබිමක පසුවන අයෙක් ඇත්නම් තානාපති කාර්යාලය හා සම්බන්ධ වන ලෙස තානාපතිවරයා දැනුම්දෙයි.
+🟩
 
-මැදපෙරදිග කලාපයේ පවතින නොසන්සුන්කාරී තත්ත්වය පිළිබඳව විවිධ පාර්ශ්වවලින් විමසීම් ලැබුණ ද ඊශ්‍රායලය තුළ ජන ජීවිතය සාමාන්‍ය පරිදි ක්‍රියාත්මක වන බව ශ්‍රී ලංකා තානාපතිවරයා පැවසීය.
+Sri Lankan Ambassador to Sri Lanka Nimal Bandara says that the Sri Lankans who stay in Israel are constantly considering regularly.
 
-ශ්‍රී ලාංකිකයින් 11,500ක පම‍ණ පිරිසක් ඊශ්‍රායලයේ සේවය කරන අතර ඉන් සියයට 70ක් පමණ නිවෙස්වල සේවය කරන බව සඳහන් ය.
+The Ambassador notified to contact the Embassy if there is someone in a probleming background.
 
-සියයට 15ක් පමණ කෘෂිකර්ම, වැඩබිම්වලත් සෙසු පිරිස ඉදිකිරීම් හා වෙනත් අංශවලත් සේවයේ නිරතව සිටින බව තානාපති කාර්යාලය සඳහන් කරයි.
+The Sri Lankan Ambassador said that although various parties were inquiries in the unrest in the Middle East, but the lives of the people in Israel are working normally.
 
-ගාසා තීරය ආසන්නයේ ජීවත්වූ බොහෝ පවුල් ඉන් ඉවත්කර තාවකාලිකව හෝටල්වල නවාතැන් සපයා ඇති බව පෙන්වාදෙන ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා ගාසා තීරයෙන් එල්ලවන බොහෝ ප්‍රහාර මේ වනවිට නතරවී ඇති බවද සඳහන් කළේය.
+About 11,500 Sri Lankans are serving in Israel and about 70 percent of which work in homes.
+
+The embassy said that about 15 percent are working in the field of agriculture, workplaces and other aspects of construction and other sectors.
+
+Sri Lanka's Ambassador to Israel, who has lived near the Gaza, has already attacked the hotels.
+
+The ambassador said that the Israeli people in the region were temporarily forwarded to other places, as Sri Lankans with their families were temporarily with their families, as the families of the families had gone to new places with their families.
 
 ...
 
 [Data](articles/d6ad54bb.json)
+
+[Extended Data](ext_articles/d6ad54bb.ext.json)
 
 ---
 
@@ -81,6 +89,24 @@ The ambassador said that the Israeli people in the region were temporarily forwa
 [Data](articles/c543023c.json)
 
 [Extended Data](ext_articles/c543023c.ext.json)
+
+---
+
+### MP Digambaram to support plantation workers’s strike on Monday
+
+*2024-04-20 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MP-Digambaram-to-support-plantation-workerss-strike-on-Monday/108-281071) · `en`
+
+The Tamil Progressive Alliance (TPA) fully supports the strike that the plantation workers are scheduled to launch from Monday (22), Nuwara Eliya District Member of Parliament Palani Digambaram said during a media conference held in Hatton today.
+
+Even though President Ranil Wickremesinghe has advised the tea plantation companies to increase the daily salary of plantation workers to Rs 1,700, they have refused to increase the salaries.
+
+"The plantation companies have expressed their agreement to increase the amount of Rs. 400 in addition to the daily salary of Rs.1,000 currently paid to a plantation worker. It has been agreed to give the remaining Rs. 300 with conditions," the MP said.
+
+MP Digambaram further said that under the Samagi Jana Balawega government led by Sajith Premadasa, they will distribute tea lands to the plantation workers and make them small tea plantation owners and increase the daily income of the plantation workers.
+
+◼️
+
+[Data](articles/7ef2260a.json)
 
 ---
 
@@ -311,6 +337,20 @@ He refuted claims by the SJB that the government is trying to prevent it from ha
 [Data](articles/ffa84805.json)
 
 [Extended Data](ext_articles/ffa84805.ext.json)
+
+---
+
+### බොහෝ කලක් සේවයට නොගිය හමුදා සාමාජිකයන්ට සහනයක්
+
+*2024-04-20 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/බොහෝ-කලක්-සේවයට-නොගිය-හමුදා-සාමාජිකයන්ට-සහනයක්/11-409168) · `si`
+
+ශ්‍රි ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට නොගිය සිටින හමුදා සාමාජිකයන් හට අද 20 සිට මැයි මස 20 වනදා දක්වා පොදු සමා කාලයක් ප්‍රකාශයට පත්කර ඇති බව යුද හමුදාව පවසයි.
+
+ඒ අනුව  යුද්ධ හමුදා හැඳුනුම්පත, ජාතික හැඳුනුම්පත හෝ රියදුරු බලපත්‍රයේ පිටපතක්, වැටුප් හා දීමනා බැරකරන ලද බැංකු පොතේ ඡායාස්ථ පිටපතක් මෙහිදි ඉදිරිපත් කර තමන් අයත් වන රෙජිමේන්තු මධ්‍යස්ථානය සමග සම්බන්ධ වී නීත්‍යානුකූලව සේවයෙන් ඉවත්වීමට මෙම කාලය තුළ අවස්ථාව හිමි වේ.
+
+◼️
+
+[Data](articles/8ccad865.json)
 
 ---
 
@@ -2097,51 +2137,5 @@ The Chairman stressed the need to expedite the project in coordination with the 
 [Data](articles/54ce27e0.json)
 
 [Extended Data](ext_articles/54ce27e0.ext.json)
-
----
-
-### Another police officer arrested with ice
-
-*2024-04-19 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195795) · `si`
-
-A police constable in Colombo was arrested with 800 milligrams of ice, despite being transferred to a new station without reporting. The suspect was once a drug addict.
-
-🟩
-
-A team of officers of the Colombo Crimes Division has been arrested by a police constable attached to the Katana Police Station with 800 milligrams.
-
-It has been revealed that the police constable has been transferred to the Seeduwa Police Station from April 10, but not reported to the service.
-
-The police had moved forward and tracked and tested the suspect's constable.
-
-It has been revealed that the ice is found, and he has once a drug addict.
-
-◼️
-
-[Data](articles/2d53186f.json)
-
-[Extended Data](ext_articles/2d53186f.ext.json)
-
----
-
-### 4 people, including two Marines, arrested for drugs
-
-*2024-04-19 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181484) · `ta`
-
-Two Marines and two Navy officers arrested for drug possession in Sri Lanka, with 7.5 million rupees worth of ice found.
-
-🟩
-
-Four people have been arrested on charges of possessing ice drugs worth about 7.5 million rupees.
-
-Police said that the arrested were two Lieutenant commanders of the Sri Lanka Navy.
-
-It is noteworthy that the group was arrested by the police in Mulleriya area with 510 grams of ice.
-
-◼️
-
-[Data](articles/d3428149.json)
-
-[Extended Data](ext_articles/d3428149.ext.json)
 
 ---

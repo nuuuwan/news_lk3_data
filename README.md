@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 06:17:45**
+As of **2024-04-20 06:55:26**
 
 ## Newspaper Stats
 
-*Scraped **19,847** Articles*
+*Scraped **19,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,066
 dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,648
-tamilmirrorlk | 2,292
+tamilmirrorlk | 2,293
 adaderanalk | 2,377
 virakesarilk | 2,975
 dailymirrorlk | 3,080
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,841 (100.0%) of 19,847 articles have been extended.
+19,847 (100.0%) of 19,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -141,6 +141,24 @@ Ariyaratne passed away on Tuesday after a brief illness at a private hospital. H
 [Data](articles/bb29fac3.json)
 
 [Extended Data](ext_articles/bb29fac3.ext.json)
+
+---
+
+### ’புதிய சட்டமூலத்திற்கு எதிராக நீதிமன்றம் செல்லலாம்’
+
+*2024-04-20 00:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டமூலத்திற்கு-எதிராக-நீதிமன்றம்-செல்லலாம்/175-336108) · `ta`
+
+புதிய மின்சார சட்டமூலத்திற்கு எதிராக எவரும் நீதிமன்றத்தை நாட முடியும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்தார்.
+
+எவ்வாறாயினும், மின் கட்டணத்தை குறைப்பதே புதிய மின்சார சட்டமூலத்தின் நோக்கம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+அதற்கான இரண்டு வழிமுறைகளில் இரண்டாவதான நிர்வாகச் செலவைக் குறைப்பதனையே தற்போது மேற்கொள்ளவுள்ளோம் என அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+அதன் முதலாவது வழிமுறையான மின்னுற்பத்தி செலவைக் குறைப்பதற்கு, எரிபொருளில் இயங்கும் மின்னுற்பத்தி நிலையங்களுக்கு பதிலாக மீள்புதுப்பிக்கத்தக்க மின்சக்தித் திட்டங்களை எதிர்காலத்தில் கொண்டுவரவுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/38693164.json)
 
 ---
 
@@ -462,6 +480,8 @@ At its core, ‘Worky’ is a location-based service platform that allows prospe
 
 [Data](articles/d31a0aaf.json)
 
+[Extended Data](ext_articles/d31a0aaf.ext.json)
+
 ---
 
 ### Paris – A Moveable Feast
@@ -494,6 +514,8 @@ Customers simply have to login to the platform and select the ‘Bill payment’
 
 [Data](articles/139e7b35.json)
 
+[Extended Data](ext_articles/139e7b35.ext.json)
+
 ---
 
 ### Hunas Holdings and BCC Corporation Japan forge strategic partnership to revolutionize hospitality industry
@@ -508,6 +530,8 @@ This partnership marks the inception of a new era in the hospitality industry, l
 
 [Data](articles/fedf024c.json)
 
+[Extended Data](ext_articles/fedf024c.ext.json)
+
 ---
 
 ### Aitken Spence Hotels: Top 5 in LMD’s Most Awarded Hall of Fame, leading hospitality sector
@@ -521,6 +545,8 @@ With an extensive presence spanning Sri Lanka, Maldives, India, and Oman, Aitken
 ...
 
 [Data](articles/0e8a04a9.json)
+
+[Extended Data](ext_articles/0e8a04a9.ext.json)
 
 ---
 
@@ -537,6 +563,8 @@ Amid those developments both indices moved downward. The All Share Price Index w
 ...
 
 [Data](articles/e5b7dba2.json)
+
+[Extended Data](ext_articles/e5b7dba2.ext.json)
 
 ---
 
@@ -2137,31 +2165,5 @@ He also said that the patients have been inconvenienced by the lack of special d
 [Data](articles/a7731f35.json)
 
 [Extended Data](ext_articles/a7731f35.ext.json)
-
----
-
-### Sri Lanka’s FitsAir begins Colombo-Dhaka flights
-
-*2024-04-19 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-fitsair-begins-colombo-dhaka-flights-159321/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private budget airline FitsAir’s first flight from Dhaka to Colombo landed at the Bandaranaike International Airport on Wednesday at 4:30 am with 120 passengers.
-
-The low-cost airline’s flight departed Hazrat Shahjalal International Airport in Dhaka on its maiden voyage on April 17 at 2:00 am, according to media reports.
-
-FitsAir will initially operate two weekly flights every Wednesday and Sunday on the Dhaka-Colombo route with Airbus A320 aircraft with 164 seat-capacity.
-
-The return flight will depart Colombo every Tuesday and Saturday at 9:30 pm and will reach Dhaka at 1:00 am.
-
-The no-frills carrier offers return fares to Bangladesh starting at 58,900 rupees.
-
-The airline plans to launch another frequency on the route in the next two months and two more by the end of the year.
-
-It currently operates direct flights to Dubai, Male and Chennai from the airline’s hub in Colombo.
-
-...
-
-[Data](articles/7f7af9fc.json)
-
-[Extended Data](ext_articles/7f7af9fc.ext.json)
 
 ---

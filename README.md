@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 07:53:19**
+As of **2024-04-20 08:03:46**
 
 ## Newspaper Stats
 
-*Scraped **19,851** Articles*
+*Scraped **19,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ tamilmirrorlk | 2,293
 adaderanalk | 2,377
 virakesarilk | 2,975
 dailymirrorlk | 3,081
-adaderanasinhalalk | 3,218
+adaderanasinhalalk | 3,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,851 (100.0%) of 19,851 articles have been extended.
+19,851 (100.0%) of 19,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### දිගු කලක් සේවයට වාර්තා නොකළ හමුදා සාමාජිකයන්ට දැනුම්දීමක්
+
+*2024-04-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195797) · `si`
+
+ශ්‍රි ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින හමුදා සාමාජිකයන් හට අද (20) සිට පොදු සමා කාලයක් ප්‍රකාශයට පත්කර තිබේ.
+
+එම සාමාජිකයින්ට නීත්‍යානුකූලව යුද්ධ හමුදා සේවයෙන් ඉවත් වීමට ලබන මස 20 වනදා දක්වා මෙම පොදු සමා කාලය ක්‍රියාත්මක බව යුද්ධ හමුදාව පැවසුවේය.
+
+ඒ අනුව තමන් අයත් වන රෙජිමේන්තු මධ්‍යස්ථානය සමග සම්බන්ධ වී නීත්‍යානුකූලව සේවයෙන් ඉවත්වීමට මෙම කාලය තුළ අවස්ථාව හිමි වේ.
+
+යුද්ධ හමුදා හැඳුනුම්පත, ජාතික හැඳුනුම්පත හෝ රියදුරු බලපත්‍රයේ පිටපතක්, වැටුප් හා දීමනා බැරකරන ලද බැංකු පොතේ ඡායාස්ථ පිටපතක් මෙහිදි ඉදිරිපත් කළ යුතු බව යුද්ධ හමුදාව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/da34bc0c.json)
+
+---
+
+### පළාත් කිහිපයකට සවසට වැසි
+
+*2024-04-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195796) · `si`
+
+බස්නාහිර, සබරගමුව, වයඹ, ඌව සහ මධ්‍යම පළාත්වලත් අනුරාධපුර, වවුනියා, මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/04a89df6.json)
+
+---
 
 ### Electric Cables worth Rs.10 million chipped away from train parked at Hikkaduwa
 
@@ -2125,49 +2159,5 @@ The State Minister was speaking at a meeting with the International Monetary Fun
 [Data](articles/3babdf4a.json)
 
 [Extended Data](ext_articles/3babdf4a.ext.json)
-
----
-
-### Sri Lanka Catholic church spokesman questioned over info on Easter attack
-
-*2024-04-19 13:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-catholic-church-spokesman-questioned-over-info-on-easter-attack-159328/) · `en`
-
-ECONOMYNEXT — Father Cyril Gamini Fernando, a spokesperson for the Archdiocese of Colombo, was summoned to the Criminal Investigation Department (CID) on Friday April 19 to inquire about information he is said to possess on the 2019 Easter bombings.
-
-Fr Fernando told reporters outside the CID premises Friday morning that he had shared what he knew but is sceptical that it would be of any use.
-
-“We have shared what we know plenty of times. But we don’t see there has been an inquiry on that. I don’t know to what extent the statement I made will be useful,” he said.
-
-“As far as I know, there is enough information to investigate and to find out the truth and who was behind this, based on information already revealed. But that is not happening.”
-
-The priest expressed scepticism over the progress of the investigations.
-
-“This is not an issue with the law. It’s an issue with those implementing the law. As citizens, we came when requested and did our duty.
-
-...
-
-[Data](articles/c09e0ece.json)
-
-[Extended Data](ext_articles/c09e0ece.ext.json)
-
----
-
-### Crude oil, gold price hike
-
-*2024-04-19 13:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சா-எண்ணெய்-தங்கத்தின்-விலை-உயர்வு/175-336092) · `ta`
-
-Crude oil and gold prices rise due to Israeli missile strikes on Iran. Asian markets: Pakcha oil up 3% to $90, gold at $2,400.
-
-🟩
-
-Fuel and gold prices have been reported in the world market following reports that Israeli missile strikes on Iran.
-
-In the Asian markets this morning (19), the Pakcha oil barrel has risen by 3% to $ 90 and gold is $ 2,400.
-
-◼️
-
-[Data](articles/138b576c.json)
-
-[Extended Data](ext_articles/138b576c.ext.json)
 
 ---

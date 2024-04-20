@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 22:34:16**
+As of **2024-04-20 22:50:46**
 
 ## Newspaper Stats
 
-*Scraped **19,942** Articles*
+*Scraped **19,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
 tamilmirrorlk | 2,300
-adaderanalk | 2,391
+adaderanalk | 2,392
 virakesarilk | 2,981
 dailymirrorlk | 3,110
-adaderanasinhalalk | 3,242
+adaderanasinhalalk | 3,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,942 (100.0%) of 19,942 articles have been extended.
+19,942 (100.0%) of 19,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය බංග්ලාදේශයට
+
+*2024-04-20 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195822) · `si`
+
+මෙවර ලංකා ප්‍රිමියර් ලීග් තරගාවලියට එක්වන දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය වෙනස් වී තිබේ.
+
+ඒ අනුව ගියවර දඹුල්ල අවුරා ලෙස තරග වැදුණු දඹුල්ල කණ්ඩායම මෙවර තරග වදින්නේ දඹුල්ල තන්ඩර් නමින්ය.
+
+බංග්ලාදේශ ව්‍යවසායකයින් දෙදෙනෙකු විසින් මෙවර දඹුල්ල කණ්ඩායමේ හිමිකාරීත්වය ලබාගෙන ඇති බව වාර්තා වෙයි.
+
+ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය ජුලි මස පළමුවැනිදා ආරම්භ වන අතර මේ වන විට ක්‍රීඩකයින් 250කට අධික සංඛ්‍යාවක් ක්‍රීඩක වෙන්දේසියට ඉදිරිපත්වීම සඳහා ලියාපදිංචි වී තිබේ.
+
+◼️
+
+[Data](articles/5dcfe045.json)
+
+---
+
+### Pakistan makes formal request to IMF for another bailout
+
+*2024-04-20 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98748/pakistan-makes-formal-request-to-imf-for-another-bailout) · `en`
+
+Pakistan has made formal request to the International Monetary Fund (IMF) for seeking next bailout package in the range of $6 to $8 billion under Extended Fund Facility (EFF) with possibility of augmentation through climate financing, The News reported on Saturday.
+
+However, the exact size and timeframe will only be determined after evolving consensus on the major contours of the next programme in May 2024.
+
+The News sent out message to the members of Pakistani delegations, who are currently visiting Washington for attending the annual spring meetings of the IMF/World Bank, but got no reply till filing of this report.
+
+Pakistan has shown its interest and also made a request to dispatch the IMF review mission in May 2024 to firm up details of the next bailout package of three years period under EFF programme.
+
+...
+
+[Data](articles/57f4abd7.json)
+
+---
 
 ### Christians' Easter Sunden Sunden Cringe 5 years
 
@@ -2185,41 +2221,5 @@ In addition, the little father was responsible for the death of the girl, who we
 [Data](articles/2f137643.json)
 
 [Extended Data](ext_articles/2f137643.ext.json)
-
----
-
-### A debate on a debate between Presidential candidates
-
-*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-debate-on-a-debate-between-Presidential-candidates/172-281012) · `en`
-
-On the other hand, the NPP leaders are very keen on a debate between  their leader and the SJB leader rather than a debate between the  Economic Committees of the two parties, obviously with an air of  self-assurance over the outcome of such a debate.
-
-Although their  contention to justify a showdown between the Presidential candidates of  the two parties seems to be logical, a veiled hesitancy on their part in  meeting the SJB Economic Committee could also be sensed.
-
-Despite the Samagi Jana Balawegaya (SJB) and the Jathika Jana Balawegaya (National People’s Power –NPP) having been throwing challenges at each other for a debate over the economic recovery of the country, they seem to have their apprehensions as well in meeting the challenge.
-
-...
-
-[Data](articles/387a5be3.json)
-
-[Extended Data](ext_articles/387a5be3.ext.json)
-
----
-
-### Female workers who keep economy running
-
-*2024-04-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Female-workers-who-keep-economy-running/172-281011) · `en`
-
-In April 2022 our country was declared bankrupt. We were unable to import basic needs such as food, fuel, cooking gas, medicines and other necessities. A sudden ban on the import of petroleum-based fertiliser nearly killed some of our main export crops such as tea, rubber and coconut. Soon shop shelves ran empty. Long queues formed around fuel depots. Amid the turmoil, the executive president fled the country.
-
-A situation of anarchy was eased with the election of President Wickremesinghe to the presidency by Parliament. Wickremesinghe was able to steady the ship and prevent the country from sliding into anarchy.
-
-Today, for the first time in three years gross official reserves crossed the US$4 billion mark at end of December 2023.
-
-...
-
-[Data](articles/8d9d0651.json)
-
-[Extended Data](ext_articles/8d9d0651.ext.json)
 
 ---

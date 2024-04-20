@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 12:49:39**
+As of **2024-04-20 13:03:41**
 
 ## Newspaper Stats
 
-*Scraped **19,892** Articles*
+*Scraped **19,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,38 @@ bbccomsinhala | 208
 dbsjeyarajcom | 217
 newsfirstlk | 363
 islandlk | 1,068
-dailyftlk | 1,098
+dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,651
 tamilmirrorlk | 2,296
 adaderanalk | 2,383
 virakesarilk | 2,977
 dailymirrorlk | 3,095
-adaderanasinhalalk | 3,228
+adaderanasinhalalk | 3,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,891 (100.0%) of 19,892 articles have been extended.
+19,892 (100.0%) of 19,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### ඉරානයේ සහාය ලබන ඉරාක හමුදා කඳවුරකට ප්‍රහාර
+
+*2024-04-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195806) · `si`
+
+ඉරානයේ සහාය ලබන ඉරාක හමුදා කඳවුරකට එල්ල වූ ගුවන් ප්‍රහාර කිහිපයකින් පුද්ගලයින් තිදෙනෙකු මිය ගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+
+මෙම ප්‍රහාර සම්බන්ධයෙන් ඉරාකය ඊශ්‍රායලයට චෝදනා කර සිටියත් ඊශ්‍රායලය මෙන්ම අමෙරිකාව ද පවසන්නේ එම ප්‍රහාර සඳහා ඔවුන්ගේ කිසිදු සම්බන්ධයෙක් නොමැති බවය.
+
+◼️
+
+[Data](articles/5ea3c4c1.json)
+
+---
 
 ### Motorcycle accident killed
 
@@ -101,6 +115,8 @@ The group had 42 billion rupees in long term borrowings by end March 2023, up fr
 ...
 
 [Data](articles/b7cabcd7.json)
+
+[Extended Data](ext_articles/b7cabcd7.ext.json)
 
 ---
 
@@ -2099,19 +2115,5 @@ The Secretary of the Ministry of Education says that according to the Supreme Co
 [Data](articles/2ceaae45.json)
 
 [Extended Data](ext_articles/2ceaae45.ext.json)
-
----
-
-### Stakeholder meeting on plastic pollution
-
-*2024-04-19 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stakeholder-meeting-on-plastic-pollution/110-281002) · `en`
-
-A stakeholder meeting, hosted by the Alliance for Aquatic Research and Conservation (AARC), took place recently at the Malima Clubhouse in Uswetakeiyawa. The meeting centred around the theme "Riding the Waves of Change - Strategies for Addressing Plastic Pollution in Ecosystems, Human Health, and Circular Economy." The programme aimed to achieve several objectives, including: Business development for sustainable alternatives, Material recovery and recycling strategies, Community engagement and outreach initiatives and Development of a comprehensive framework for tackling plastic pollution.
-
-◼️
-
-[Data](articles/193570c4.json)
-
-[Extended Data](ext_articles/193570c4.ext.json)
 
 ---

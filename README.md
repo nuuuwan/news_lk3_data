@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 15:51:58**
+As of **2024-04-20 16:04:13**
 
 ## Newspaper Stats
 
-*Scraped **19,912** Articles*
+*Scraped **19,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,98 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,653
 tamilmirrorlk | 2,296
-adaderanalk | 2,386
+adaderanalk | 2,387
 virakesarilk | 2,979
-dailymirrorlk | 3,102
-adaderanasinhalalk | 3,232
+dailymirrorlk | 3,104
+adaderanasinhalalk | 3,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,911 (100.0%) of 19,912 articles have been extended.
+19,912 (100.0%) of 19,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### කොකේන් යැයි සැක මත්ද්‍රව්‍ය සමග කාන්තාවන් දෙදෙනෙක් අත්අඩංගුවට
+### Detention orders issued on four including naval officers busted with ‘Ice’
+
+*2024-04-20 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98743/detention-orders-issued-on-four-including-naval-officers-busted-with-ice) · `en`
+
+The Hulftsdorp Magistrate’s Court has issued a detention order on the four suspects including the two naval officers arrested while in possession of crystal methamphetamine (‘Ice’).
+
+Accordingly, the arrested individuals will be detained until 26 April for interrogations.
+
+On Friday (19), the officers of Mulleriyawa Polic arrested 510 grams of ‘Ice’ from the possession of four individuals. The consignment was estimated to be worth Rs. 7.5 million.
+
+Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka Navy.
+
+◼️
+
+[Data](articles/a2dd3d6e.json)
+
+---
+
+### මත්ද්‍රව්‍ය සමග හසුවූ ආරක්ෂක අංශ නිලධාරීන් දෙදෙනා රඳවාගෙන ප්‍රශ්න කරයි
+
+*2024-04-20 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195810) · `si`
+
+මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් ආරක්ෂක අංශ නිලධාරීන් දෙදෙනා ඇතුළු සිව්දෙනා රඳවාගෙන ප්‍රශ්න කිරීමට අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණය අද (20) අවසර ලබාදී තිබේ.
+
+අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 510ක් සමග නාවික හමුදාවේ ලුතිනන් කොමාන්ඩර්වරු දෙදෙනෙකු ඇතුළු පුද්ගලයන් සිව්දෙනෙකු මුල්ලේරියාව පොලීසිය මගින් මෙලෙස අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ, මුල්ලේරියාව, සිරිපැරකුම් මාවත ප්‍රදේශයේ නිවසක අයිස් මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මුල්ලේරියාව පොලීසියේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරීන් කණ්ඩායම් ඊයේ (19) එහි ගොස් පරීක්ෂා කිරීමේදීය.
+
+අදාළ නිවස ඉදිරිපිටදී පොලිසිය එක් පුද්ගලයෙකුව පරීක්ෂා කිරීමේදී ඔහු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 400ක් සොයාගෙන තිබුණි.
+
+අනතුරුව අදාළ නිවස පරීක්ෂා කිරීමට ගිය අවස්ථාවේදී එහි දොරවල් වසා තිබීම හේතුවෙන් පොලීසිය නිවසේ පසුපස දොර කඩා නිවසට ඇතුළු විය.
+
+කෙසේවෙතත් එම අවස්ථාවේදී නිවස තුළ කිසිවකු දක්නට නොලැබීම නිසා පොලීසිය නිවසේ දොරගුලුලා තිබූ කාමරයක දොරක් කඩා පරීක්ෂා කිරීමේදී එහි සිටි පුද්ගලයන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/01773e07.json)
+
+---
+
+### President visits Ambewela
+
+*2024-04-20 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-visits-Ambewela/110-281069) · `en`
+
+President Ranil Wickremesinghe visited the Ambewela Dairy Farm, equipped with state-of-the-art technology, this morning to assess its progres. Pix by President media
+
+◼️
+
+[Data](articles/b7200190.json)
+
+---
+
+### Two women arrested with suspicion of cocaine
 
 *2024-04-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195809) · `si`
 
-තම ශරීරය අභ්‍යන්තරයේ සඟවා මත්ද්‍රව්‍ය තොගයක් මෙරටට රැගෙන ඒමට උත්සාහ කළ විදෙස් ජාතික කාන්තාවන් දෙදෙනෙකු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළේදී  අත්අඩංගුවට ගෙන තිබේ.
+Two women, nationals of the Republic of the Philippines, aged 40 and 42, were arrested at Bandaranaike International Airport in Katunayake for smuggling 40 cocaine packets, valued at over Rs. 20 million. Sri Lanka Customs officials found the drugs during a raid. Further investigations are underway.
 
-ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සිදුකළ වැටලීමකදී අදාළ මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇති බව සඳහන්.
+🟩
 
-ඒ අනුව කාන්තාවන් දෙදෙනා තම ශරීරය අභ්‍යන්තරයේ සඟවා ගෙන සිටි මත්ද්‍රව්‍ය ගුලි 40ක් පිටතට ගෙන ඇති බව සඳහන් ය.
+Two foreign women were arrested at the Bandaranaike International Airport of Katunayake.
 
-සිදුකරන ලද මූලික පරීක්ෂණවලදී මෙම මත්ද්‍රව්‍ය කොකේන් බවට හඳුනාගෙන ඇති අතර එහි ‍වෙළ‍ෙඳපළ වටිනාකම රුපියල් මිලියන 20කට අධික බව සඳහන් ය.
+It is reported that the drug has found that the relevant drug has been found in a raid conducted by officials of the Sri Lanka Customs.
 
-මෙම කාන්තාවන් දෙදෙනා ගිනි ජනරජයට අයත් ජාතිකයින් වන අතර ඔවුන් 40 සහ 42 දෙහැවිරිදි වියේ පසුවන බව රේගුව සඳහන් කරයි.
+Accordingly, the two women have taken out of 40 drugs hidden in their body.
 
-ශ්‍රී ලංකා රේගුවේ මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් මේ සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදු කරයි.
+The drug has been identified as a cocaine in the preliminary investigations carried out and its market value is over Rs. 20 million.
+
+The two women are nationals belonging to the republic of the fire. Customs said they were 40 and 42 years old.
+
+Officers in the Drug Administration in Sri Lanka Customs conduct further investigations.
 
 ◼️
 
 [Data](articles/4acdf4ae.json)
+
+[Extended Data](ext_articles/4acdf4ae.ext.json)
 
 ---
 
@@ -1258,6 +1316,24 @@ That historic conclave resulted in the launching  of  a new political party with
 
 ---
 
+### Sri Lankan Tamil becomes first naturalised Indian citizen to vote in general election
+
+*2024-04-20 03:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Tamil-becomes-first-naturalised-Indian-citizen-to-vote-in-general-election/108-281070) · `en`
+
+Nalini Kirubakaran, a 38-year-old at the rehabilitation camp for Sri Lankan Tamils in Tiruchi, became the first naturalised Indian citizen from the Kottapattu camp to vote in a general election on Friday.
+
+It was a dream come true moment for Nalini on polling day as she would have never expected cameras following her from the refugee camp to the polling booth at MM Middle School, near the airport, where she cast her vote.
+
+“I don’t have words to express my feelings. Voting for the first time, I feel I have come out of my past now,” said Nalini.
+
+The journey from being a refugee in a land where she was born to becoming first member of her community to get voting rights took two years of legal battle as her application for an Indian passport was rejected by a regional passport office in 2021. In September 2022, Nalini had established before the Madras High Court that she was an Indian citizen.
+
+...
+
+[Data](articles/ea02523f.json)
+
+---
+
 ### Palitha Thevapperuma's Earth Body
 
 *2024-04-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
@@ -2031,87 +2107,5 @@ Among the arrested individuals are two Lieutenant Commanders of the Sri Lanka N
 [Data](articles/40571644.json)
 
 [Extended Data](ext_articles/40571644.ext.json)
-
----
-
-### Two Navy bosses arrested with ice
-
-*2024-04-19 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195793) · `si`
-
-Two Navy officers and four others were arrested in Mulleriyawa with ice drugs valued at 7.5 million rupees.
-
-🟩
-
-Four persons arrested with ice drugs worth about 7.5 million rupees.
-
-Police said that among the arrested persons were two Lieutenant Commander of the Sri Lanka Navy.
-
-They were arrested in the Mulleriyawa area in Mulleriyawa and with a stock of ice drugs.
-
-◼️
-
-[Data](articles/c0fc2e43.json)
-
-[Extended Data](ext_articles/c0fc2e43.ext.json)
-
----
-
-### Declared general amnesty not applicable for commissioned tri-forces officers marked AWOL
-
-*2024-04-19 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98731/declared-general-amnesty-not-applicable-for-commissioned-tri-forces-officers-marked-awol) · `en`
-
-The general amnesty period announced from 20 April to 20 May for members of the tri-forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL, the Ministry of Defence clarified.
-
-In a press release published today (19), the ministry said the one-month general amnesty is valid only for the tri-forces personnel of Other Ranks, who have not reported for duty without leave on or before 31 December 2023.
-
-During the said period, those who report will be legally discharged from their respective services.
-
-However, the personnel mentioned below have been excluded from the general amnesty, taking into account the expenses incurred for the special training provided using public funds in the following sectors and the difficulties encountered in maintaining the operations in those sectors by their discharge.
-
-...
-
-[Data](articles/7bad5f44.json)
-
-[Extended Data](ext_articles/7bad5f44.ext.json)
-
----
-
-### Declared general amnesty not applicable for Commissioned Officers marked AWOL
-
-*2024-04-19 21:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98731/declared-general-amnesty-not-applicable-for-commissioned-officers-marked-awol) · `en`
-
-The general amnesty period announced from 20 April to 20 May for members of the tri-forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL, the Ministry of Defence clarified.
-
-In a press release published today (19), the ministry said the one-month general amnesty is valid only for the tri-forces personnel of Other Ranks, who have not reported for duty without leave on or before 31 December 2023.
-
-During the said period, those who report will be legally discharged from their respective services.
-
-However, the personnel mentioned below have been excluded from the general amnesty, taking into account the expenses incurred for the special training provided using public funds in the following sectors and the difficulties encountered in maintaining the operations in those sectors by their discharge.
-
-...
-
-[Data](articles/c733fc55.json)
-
-[Extended Data](ext_articles/c733fc55.ext.json)
-
----
-
-### Fr. Cyril Gamini says he provided useful information to CID
-
-*2024-04-19 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fr-Cyril-Gamini-says-he-provided-useful-information-to-CID/108-281009) · `en`
-
-Colombo, April 19 (Daily Mirror) - Member of the Communications Committee of the Archdiocese of Colombo, Fr. Cyril Gamini Fernando who was questioned by CID today said he provided much information on the Easter Sunday attacks.
-
-Fr. Fernando who is also the editor of the Catholic Sinhalese weekly Gnanartha Pradeepaya told journalists that he passed all information he had on the Easter Sunday attacks to the CID.
-
-"The CID already posses much information on the Easter Sunday mayhem. However, no proper investigation has been conducted to date. Therefore, we have to wait and see whether my information will make any difference," he said.
-
-He was summoned to the CID to give a statement on the Easter Sunday attacks.
-
-◼️
-
-[Data](articles/01494bf9.json)
-
-[Extended Data](ext_articles/01494bf9.ext.json)
 
 ---

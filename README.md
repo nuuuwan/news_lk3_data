@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 17:34:29**
+As of **2024-04-20 17:54:09**
 
 ## Newspaper Stats
 
-*Scraped **19,922** Articles*
+*Scraped **19,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,139
 adalk | 1,654
 tamilmirrorlk | 2,296
-adaderanalk | 2,388
+adaderanalk | 2,389
 virakesarilk | 2,979
 dailymirrorlk | 3,105
 adaderanasinhalalk | 3,236
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,920 (100.0%) of 19,922 articles have been extended.
+19,922 (100.0%) of 19,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### Uncertainty looms over Sri Lanka as debt restructuring talks hit snag – experts warn
+
+*2024-04-20 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98745/uncertainty-looms-over-sri-lanka-as-debt-restructuring-talks-hit-snag-experts-warn) · `en`
+
+Having hit a roadblock with international bondholders, uncertainty looms over the economy of crisis-hit Sri Lanka and an upcoming review by the International Monetary Fund (IMF), experts warn.
+
+The South Asian island country announced on Tuesday that it has failed to strike an agreement with international bondholders on restructuring more than $12 billion in debt, a mandatory requirement set out by the IMF.
+
+Colombo-based economist Talal Rafi explained that with Sri Lanka still in default status and facing uncertainty regarding credit ratings and foreign investment, the economic fallout could be significant. “The larger impact is the uncertainty as no one knows what the deal will be for them to plan anything,” he said.
+
+...
+
+[Data](articles/434df5d5.json)
+
+---
 
 ### Sri Lankans in Israel have no problem
 
@@ -107,6 +123,8 @@ MP Digambaram further said that under the Samagi Jana Balawega government led by
 ◼️
 
 [Data](articles/7ef2260a.json)
+
+[Extended Data](ext_articles/7ef2260a.ext.json)
 
 ---
 
@@ -340,17 +358,23 @@ He refuted claims by the SJB that the government is trying to prevent it from ha
 
 ---
 
-### බොහෝ කලක් සේවයට නොගිය හමුදා සාමාජිකයන්ට සහනයක්
+### Relief for military members who have not long been served
 
 *2024-04-20 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/බොහෝ-කලක්-සේවයට-නොගිය-හමුදා-සාමාජිකයන්ට-සහනයක්/11-409168) · `si`
 
-ශ්‍රි ලංකා යුද්ධ හමුදාවේ දීර්ඝ කාලීනව නිවාඩු නොමැතිව සේවයට නොගිය සිටින හමුදා සාමාජිකයන් හට අද 20 සිට මැයි මස 20 වනදා දක්වා පොදු සමා කාලයක් ප්‍රකාශයට පත්කර ඇති බව යුද හමුදාව පවසයි.
+Sri Lanka Army announces relief for soldiers not on long-term leave from May 20. They must submit their military ID, National ID, NPF/Driving License, and a photocopy of their bank book of Wage and Allowance to their Regiment Center.
 
-ඒ අනුව  යුද්ධ හමුදා හැඳුනුම්පත, ජාතික හැඳුනුම්පත හෝ රියදුරු බලපත්‍රයේ පිටපතක්, වැටුප් හා දීමනා බැරකරන ලද බැංකු පොතේ ඡායාස්ථ පිටපතක් මෙහිදි ඉදිරිපත් කර තමන් අයත් වන රෙජිමේන්තු මධ්‍යස්ථානය සමග සම්බන්ධ වී නීත්‍යානුකූලව සේවයෙන් ඉවත්වීමට මෙම කාලය තුළ අවස්ථාව හිමි වේ.
+🟩
+
+The army soldiers who have not committed the long-term leave of Sri Lanka Army have been announced today from 20 to May 20.
+
+Accordingly, the military identity card, a copy of the National Identity Card, NPF or Driving License, and a photocopy of the bank book of the Wage and Allowance, the opportunity will be submitted to the Regiment Center they belong to them.
 
 ◼️
 
 [Data](articles/8ccad865.json)
+
+[Extended Data](ext_articles/8ccad865.ext.json)
 
 ---
 
@@ -2115,27 +2139,5 @@ Some 272 people were killed in the Easter Sunday attacks in 2019. This should be
 [Data](articles/82d94025.json)
 
 [Extended Data](ext_articles/82d94025.ext.json)
-
----
-
-### Plans afoot to obtain ’Blue Flag Beaches’ certification for Sri Lankan beaches
-
-*2024-04-19 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-afoot-to-obtain-Blue-Flag-Beaches-certification-for-Sri-Lankan-beaches/108-281021) · `en`
-
-Colombo, April 19 (Daily Mirror)- Steps are being taken to obtain the official certification of 'Blue Flag Beaches' for Unawatuna, Bentota, Pasikuda and Arugam Bay, the Marine Environment Protection Authority (MEPA) said.
-
-This was revealed during a recent meeting of the Sectoral Oversight Committee on Environment, Natural Resources and Sustainable Development chaired by MP Ajith Mannapperuma.
-
-It was revealed that twenty-eight beaches which have more tourist attraction have been selected for the 'Blue Flag Beaches' certification and that 33 criteria need to be fulfilled for this certification.
-
-The Chairman pointed out that India, which started the initiative even after Sri Lanka, had already obtained 'Blue Flag Beaches' certification for eight beaches, whereas Sri Lanka is yet to commence the project which was initiated by him as the State Minister of Environment.
-
-The Chairman stressed the need to expedite the project in coordination with the relevant institutions.
-
-...
-
-[Data](articles/54ce27e0.json)
-
-[Extended Data](ext_articles/54ce27e0.ext.json)
 
 ---

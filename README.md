@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 14:50:00**
+As of **2024-04-20 15:03:23**
 
 ## Newspaper Stats
 
-*Scraped **19,903** Articles*
+*Scraped **19,906** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 169
 bbccomsinhala | 208
-dbsjeyarajcom | 217
+dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,068
 dailyftlk | 1,099
 economynextcom | 1,139
-adalk | 1,652
+adalk | 1,653
 tamilmirrorlk | 2,296
-adaderanalk | 2,384
+adaderanalk | 2,385
 virakesarilk | 2,978
 dailymirrorlk | 3,099
 adaderanasinhalalk | 3,231
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,903 (100.0%) of 19,903 articles have been extended.
+19,903 (100.0%) of 19,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
+
+### එළියට බහින්නේ බලාගෙනයි
+
+*2024-04-20 14:04:53* · [`adalk`](https://www.ada.lk/breaking_news/එළියට-බහින්නේ-බලාගෙනයි/11-409167) · `si`
+
+නුවරඑළිය, මහනුවර, මාතලේ සහ බදුල්ල යන දිස්ත්‍රික්ක 4ක් හැරුණු විට සෙසු සියලුම දිස්ත්‍රික්කවල මිනිස් සිරුරට දැනෙන දැඩි උෂ්ණත්වයක් අද 20දින අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරුමැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණ සහ වයඹ පළාත්වල ප්‍රදේශ රැසක් ඒ අතරට ඇතුළත් වන අතර. මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථාන වල ද උණුසුම අද අවදානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ අනාවැකියේ සඳහන්වේ.
+
+එබැවින්, උණුසුම් කාලගුණයෙන් ආරක්ෂා වීමට අවශ්‍ය ක්‍රියාමාර්ග අනුගමනය කරන්නැයි කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/c0bffb10.json)
+
+---
+
+### North Korea releases song praising leader Kim as ‘friendly father’
+
+*2024-04-20 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98741/north-korea-releases-song-praising-leader-kim-as-friendly-father-) · `en`
+
+North Korea has released a new song praising leader Kim Jong Un for being a “friendly father” and a “great leader”, in a move that appears to be part of a propaganda drive to enhance his standing in the reclusive state.
+
+The music video for the song was aired on the state-controlled Korean Central Television on Wednesday.
+
+It features North Koreans of different backgrounds ranging from children to troops and medical staff exuberantly belting out lines such as: “Let’s sing, Kim Jong Un the great leader” and “Let’s brag about Kim Jong Un, a friendly father”.
+
+A live performance of the song accompanied by an orchestra and watched by Kim was also broadcast on state television as part of a ceremony to mark the completion of building 10,000 new homes.
+
+The Kim family dynasty that has ruled North Korea since its founding after World War Two have sought to strengthen their grip on power by building cults of personality around them.
+
+...
+
+[Data](articles/bd65af0c.json)
+
+---
 
 ### Nalini Tirui in Sri Lanka, which is the case in India
 
@@ -1068,6 +1104,20 @@ According to railway security officials, the thieves specifically targeted cable
 
 ---
 
+### SJV Chelvanayakam and the Ilankai Thamil Arasuk Katchi(ITAK)/Federal Party(FP).
+
+*2024-04-20 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83918) · `en`
+
+The  Ilankai  Thamil Arasuk Katchi(ITAK) known in English as the Federal Party will celebrate its 75th Birthday in December this year. The premier political party of the Sri Lankan Tamil people known as “Ilankai Thamizhar”in  their mother tongue was born on 18 December 1949. On that day, a group of sixty Tamils including two parliamentarians and two senators  convened at the Government Clerical Service Union (GCSU) hall in Colombo.
+
+That historic conclave resulted in the launching  of  a new political party with the avowed goal of establishing an autonomous State for  the Tamil-speaking people of Ceylon (as Sri Lanka was known then) within a united island. The new party was named in Tamil as “Illankai Thamil Arasu Katchi” meaning Ceylon  Tamil State or Tamil Government Party.
+
+...
+
+[Data](articles/00325760.json)
+
+---
+
 ### Palitha Thevapperuma's Earth Body
 
 *2024-04-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
@@ -2065,57 +2115,5 @@ UNP Member of Parliament Vajira Abeywardena and many others were present.
 [Data](articles/cf1f4d10.json)
 
 [Extended Data](ext_articles/cf1f4d10.ext.json)
-
----
-
-### Crude oil prices jump, equities sink as Israel rains missiles on Iran
-
-*2024-04-19 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crude-oil-prices-jump-equities-sink-as-Israel-rains-missiles-on-Iran/108-281006) · `en`
-
-April 19 - Global oil and gold prices have jumped, while shares have slumped after reports of explosions near the Isfahan airport emerged just minutes after a US official told the Australian broadcaster ABC that Israel had fired missiles on one Iran site.
-
-Brent crude oil prices surged by over 3 per cent to approximately $90 per barrel during Friday morning’s trading session in Asia, while the price of gold remained near a new all-time high, surpassing $2,400 per ounce. Following the development in Iran, key stock indices in Japan, Hong Kong, and South Korea experienced declines.
-
-...
-
-[Data](articles/52ec34f6.json)
-
-[Extended Data](ext_articles/52ec34f6.ext.json)
-
----
-
-### President paid tribute to Palitha Thevaraparuma
-
-*2024-04-19 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181481) · `ta`
-
-President Ranil Wickremesinghe paid tribute to Palitha Thevarapperuma, a former UNP parliamentarian and Deputy Minister, expressing sympathy to his family and residents.
-
-🟩
-
-President Ranil Wickremesinghe paid tribute to the late former United National Party (UNP) parliamentarian and former Deputy Minister Palitha Thevarapperuma.
-
-The President, who visited his home in Matugama Yadatolawatte, which was held on Friday (19), paid a final tribute to the Bhuttaud and expressed his sympathy to family members and residents.
-
-State Minister Piyal Nishantha, United National Party (UNP) parliamentarian Vajira Abeywardena and United National Party (UNP) activists accompanied the United National Party.
-
-◼️
-
-[Data](articles/58308e5c.json)
-
-[Extended Data](ext_articles/58308e5c.ext.json)
-
----
-
-### Final rites for Thevarapperuma
-
-*2024-04-19 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Final-rites-for-Thevarapperuma/110-281007) · `en`
-
-The final rites of the late former Deputy Minister Palitha Thevarapperuma were held this evening at Yatadolawatte, Mathugama, with the participation of politicians, religious leaders and the public. Thevarapperuma was buried at the burial site, which he had prepared while he was still alive in Yatadolawatte. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/2b9402c9.json)
-
-[Extended Data](ext_articles/2b9402c9.ext.json)
 
 ---

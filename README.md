@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 17:03:23**
+As of **2024-04-20 17:18:28**
 
 ## Newspaper Stats
 
-*Scraped **19,919** Articles*
+*Scraped **19,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,21 +20,21 @@ tamilmirrorlk | 2,296
 adaderanalk | 2,388
 virakesarilk | 2,979
 dailymirrorlk | 3,104
-adaderanasinhalalk | 3,235
+adaderanasinhalalk | 3,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,918 (100.0%) of 19,919 articles have been extended.
+19,919 (100.0%) of 19,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ට ප්‍රශ්නයක් නැහැ - තානාපති
+### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ට ප්‍රශ්නයක් නැහැ
 
-*2024-04-20 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195813) · `si`
+*2024-04-20 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195814) · `si`
 
 ඊශ්‍රායලයේ රැඳී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් නිරන්තර විමසිල්ලෙන් පසුවන බව එරට ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසයි.
 
@@ -50,7 +50,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
+[Data](articles/d6ad54bb.json)
+
+---
+
+### Sri Lankans in Israel have no problem - Ambassador
+
+*2024-04-20 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195813) · `si`
+
+Sri Lankan Ambassador Nimal Bandara assures Sri Lankans in Israel of safety and normalcy, despite unrest in the Middle East. About 11,500 Sri Lankans work in Israel, with 70% in homes and 15% in agriculture, construction, etc. Air travel delays from Sri Lanka to Israel are noted.
+
+🟩
+
+Sri Lankan Ambassador to Sri Lanka Nimal Bandara says that the Sri Lankans who stay in Israel are constantly considering regularly.
+
+The Ambassador notified to contact the Embassy if there is someone in a probleming background.
+
+The Sri Lankan Ambassador said that although various parties were inquiries in the unrest in the Middle East, but the lives of the people in Israel are working normally.
+
+About 11,500 Sri Lankans are serving in Israel and about 70 percent of which work in homes.
+
+The embassy said that about 15 percent are working in the field of agriculture, workplaces and other aspects of construction and other sectors.
+
+Sri Lanka's Ambassador to Israel, who has lived near the Gaza, has already attacked the hotels.
+
+The ambassador said that the Israeli people in the region were temporarily forwarded to other places, as Sri Lankans with their families were temporarily with their families, as the families of the families had gone to new places with their families.
+
+...
+
 [Data](articles/c543023c.json)
+
+[Extended Data](ext_articles/c543023c.ext.json)
 
 ---
 
@@ -2113,31 +2143,5 @@ It is noteworthy that the group was arrested by the police in Mulleriya area wit
 [Data](articles/d3428149.json)
 
 [Extended Data](ext_articles/d3428149.ext.json)
-
----
-
-### A controversial statement on the New Power and Electricity Bill
-
-*2024-04-19 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195794) · `si`
-
-Power and Energy Minister Kanchana Wijesekera defends the new Power and Electricity Bill, emphasizing it's for consumer protection and hydro power plants. He addresses criticisms from electricity professional union leaders and the bill's proposed reforms in Sri Lanka's power sector.
-
-🟩
-
-Power and Energy Minister Kanchana Wijesekera emphasizes that the new Power and Power bill will not be harmed for consumer protection and hydro power plants.
-
-The Minister today responded to the allegations of the new draft today (19), the Minister said that the Act had problems with the electricity professional union leaders.
-
-The Bill was announced on April 17, providing proposed reforms in the Sri Lankan power field.
-
-The new bill was charged with many parties including electricity unions.
-
-Minister Kanchana Wijesekara responded today.
-
-...
-
-[Data](articles/1a637b75.json)
-
-[Extended Data](ext_articles/1a637b75.ext.json)
 
 ---

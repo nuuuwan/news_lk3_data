@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 06:55:26**
+As of **2024-04-20 07:17:06**
 
 ## Newspaper Stats
 
-*Scraped **19,848** Articles*
+*Scraped **19,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 169
 bbccomsinhala | 208
 dbsjeyarajcom | 217
 newsfirstlk | 363
-islandlk | 1,066
+islandlk | 1,068
 dailyftlk | 1,098
 economynextcom | 1,136
 adalk | 1,648
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,847 (100.0%) of 19,848 articles have been extended.
+19,848 (100.0%) of 19,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,21 +144,27 @@ Ariyaratne passed away on Tuesday after a brief illness at a private hospital. H
 
 ---
 
-### ’புதிய சட்டமூலத்திற்கு எதிராக நீதிமன்றம் செல்லலாம்’
+### The court can go to court against the new bill
 
 *2024-04-20 00:11:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சட்டமூலத்திற்கு-எதிராக-நீதிமன்றம்-செல்லலாம்/175-336108) · `ta`
 
-புதிய மின்சார சட்டமூலத்திற்கு எதிராக எவரும் நீதிமன்றத்தை நாட முடியும் என மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்தார்.
+Minister Kanjana Wijesekera opposes court action against the new electricity bill, aiming to reduce bills and administrative costs by transitioning to fuel-powered plants.
 
-எவ்வாறாயினும், மின் கட்டணத்தை குறைப்பதே புதிய மின்சார சட்டமூலத்தின் நோக்கம் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-அதற்கான இரண்டு வழிமுறைகளில் இரண்டாவதான நிர்வாகச் செலவைக் குறைப்பதனையே தற்போது மேற்கொள்ளவுள்ளோம் என அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Minister of Power and Energy Kanjana Wijesekera said that no one can seek court against the new electricity bill.
 
-அதன் முதலாவது வழிமுறையான மின்னுற்பத்தி செலவைக் குறைப்பதற்கு, எரிபொருளில் இயங்கும் மின்னுற்பத்தி நிலையங்களுக்கு பதிலாக மீள்புதுப்பிக்கத்தக்க மின்சக்தித் திட்டங்களை எதிர்காலத்தில் கொண்டுவரவுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார். (a)
+However, the purpose of the new Electricity Bill is to reduce electricity bills, he said.
+
+Minister Kanjana Wijesekera said that the second of the two methods is to reduce the cost of administrative costs.
+
+To reduce the cost of power supply, it will be replaced by fuel -powered power plants in the future, ”he said.. (A)
 
 ◼️
 
 [Data](articles/38693164.json)
+
+[Extended Data](ext_articles/38693164.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-20 21:34:10**
+As of **2024-04-20 21:53:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,241
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,940 (100.0%) of 19,941 articles have been extended.
+19,941 (100.0%) of 19,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-20 (Saturday)
 
-### ඉතිහාසගත රන් පදක්කම දිනා දුන් නාගලිංගම් අභාවප්‍රාප්ත වෙයි
+### Nagallangam, who won historical gold medal
 
 *2024-04-20 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195820) · `si`
 
-ආසියානු ක්‍රීඩා උළෙල ඉතිහාසයේ ශ්‍රී ලංකාවට මුල්ම රන් පදක්කම දිනා දුන් නාගලිංගම් එදිරිවීරසිංහම් අභාවප්‍රාප්ත වී තිබේ.
+Nagalingam Edirivasingham, Sri Lanka's first Asian Games gold medalist, won the gold in the high jump at Tokyo 1958. He passed away at 89, living in America.
 
-ඔහු 1958 ටෝකියෝහි පැවැති තුන්වැනි ආසියානු ක්‍රීඩා උලෙළේදී උස පැනීම ඉසව්වෙන් ශ්‍රී ලංකාවට එම රන් පදක්කම දිනා දුනි.
+🟩
 
-යාපනයේ පදිංචිව සිටි ඒ මහතා මියයන විට 89 වැනි වියේ පසුවූ අතර මියයන විට ඔහු පදිංචිව සිටියේ අමෙරිකාවේ ලොස් ඇන්ජලීස් නුවරය.
+Nagalingam Edirivasingham has passed the first gold medal in Sri Lanka in the Asian Games.
+
+Sri Lanka won the gold medal by the tall jump event at Tokyo 1958 in Tokyo.
+
+He was 89 years old at the time of his death and died when he died, and he was living in America.
 
 ◼️
 
 [Data](articles/fabce247.json)
+
+[Extended Data](ext_articles/fabce247.ext.json)
 
 ---
 

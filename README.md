@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 13:18:16**
+As of **2024-04-21 13:33:57**
 
 ## Newspaper Stats
 
-*Scraped **20,012** Articles*
+*Scraped **20,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,663
+adalk | 1,664
 tamilmirrorlk | 2,310
 adaderanalk | 2,398
 virakesarilk | 2,985
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,011 (100.0%) of 20,012 articles have been extended.
+20,012 (100.0%) of 20,013 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ The driver of the lorry has been arrested in relation to the accident, while Elp
 ◼️
 
 [Data](articles/88aec621.json)
+
+[Extended Data](ext_articles/88aec621.ext.json)
+
+---
+
+### අයිස් සමග අත්අඩංගුවට ගත් නාවික හමුදාවේ දෙදෙනා ඇතුළු සිව් දෙනා රඳවාගෙන ප්‍රශ්න කරයි
+
+*2024-04-21 12:33:47* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-අත්අඩංගුවට-ගත්-නාවික-හමුදාවේ-දෙදෙනා-ඇතුළු-සිව්-දෙනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-409182) · `si`
+
+රුපියල් මිලියන හත හමාරක් පමණ වටිනා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 510 ක් ළඟ තබාගෙන අත්අඩංගුවට ගත් ශ්‍රී ලංකා නාවික හමුදාවේ ලුතිනන් කමාන්ඩර්වරුන් දෙදෙනා ඇතුළු සිව් දෙනා අප්‍රේල් 26 වෙනි දින දක්වා රඳවා ගෙන ප්‍රශ්න කිරීමට අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණය අවසර ලබා දී තිබේ.
+
+මුල්ලේරියාව සිරි පැරකුම්  මාවත ප්‍රදේශයේ නිවෙසක අයිස් මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මුල්ලේරියාව පොලිස් ස්ථානාධිපති ඇතුළු කණ්ඩායමක් පසුගිය 19 වැනි දින එම ස්ථානය  පරීක්ෂා කිරීමෙන් පසුව මෙම පිරිස අත්අඩංගුවට ගනු ලැබීය.
+
+අදාළ නිවස ඉදිරිපිට සැකකටයුතු ලෙස ගැවසුණු අයකු පොලිස් නිලධාරීන්ගේ පරීක්‍ෂාවට ලක් වූ  අතර එහිදී එම සැකකරු ළඟ තිබී  අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 400 ක් සොයාගන්නට හැකි වූ බව මුල්ලේරියාව පොලිසිය කියයි.
+
+ඔහුගෙන් ලද තොරතුරු අනුව අදාළ නිවෙස පරීක්ෂා කිරීමට ගිය අවස්ථාවේදී නිවෙසේ දොරවල් වසා තිබීම හේතුවෙන් පොලිසිය පිටුපස දොර කඩා නිවෙසට ඇතුළු වී තිබේ. නිවෙසේ ඒ අවස්ථාවේ කිසිවකු පෙනෙන්නට නොසිටි බව පවසන පොලිසිය එම නිවෙස තුළ තිබූ කාමරයක දොර වසා තිබුණු දැක  එම දොර කඩා බලන විට එහි සිටි පුද්ගලයන් තිදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/e5256e86.json)
 
 ---
 
@@ -2237,27 +2257,5 @@ A gram of cocaine presently has a street value of Rs.40,000 in Sri Lanka and the
 [Data](articles/773a89f0.json)
 
 [Extended Data](ext_articles/773a89f0.ext.json)
-
----
-
-### Two foreign women arrested at BIA with swallowed cocaine capsules
-
-*2024-04-20 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98742/two-foreign-women-arrested-at-bia-with-swallowed-cocaine-capsules) · `en`
-
-Two foreign women, who were attempting to smuggle in 500 grams of cocaine by ingesting them have been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
-
-Their drug smuggling attempt was thus foiled by the officers of the Narcotics Control Unit of Sri Lanka Customs attached to the BIA.
-
-According to the customs spokesperson, as many as 40 capsules of cocaine have thus far been extracted from the two women and the market value of the contraband is estimated to be around Rs. 20 million.
-
-The two women, identified as Guinean nationals, had arrived at the Katunayake airport onboard a Turkish Air flight on Saturday morning (20), from the West African country Sierra Leone via the Turkish city of Istanbul.
-
-The duo, aged 40 and 42 years, have been handed over to the Police Narcotics Bureau (PNB) for onward investigations.
-
-◼️
-
-[Data](articles/b9f93cb7.json)
-
-[Extended Data](ext_articles/b9f93cb7.ext.json)
 
 ---

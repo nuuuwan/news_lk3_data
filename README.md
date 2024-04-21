@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 08:51:26**
+As of **2024-04-21 09:03:25**
 
 ## Newspaper Stats
 
-*Scraped **19,970** Articles*
+*Scraped **19,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 169
 bbccomsinhala | 208
 dbsjeyarajcom | 218
 newsfirstlk | 363
-islandlk | 1,076
+islandlk | 1,082
 dailyftlk | 1,099
 economynextcom | 1,143
-adalk | 1,655
-tamilmirrorlk | 2,304
+adalk | 1,656
+tamilmirrorlk | 2,305
 adaderanalk | 2,393
 virakesarilk | 2,984
 dailymirrorlk | 3,111
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,969 (100.0%) of 19,970 articles have been extended.
+19,970 (100.0%) of 19,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### යුක්‍රේනයට දෙන යුද ආධාර පැකේජයට අනුමැතිය
+### Approval for Ukraine Able Assistance
 
 *2024-04-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195826) · `si`
 
-යුක්‍රේනය සඳහා ඩොලර් බිලියන 61ක ණය ආධාර මුදලක් ලබාදීමට අමෙරිකානු නියෝජිත මන්ත්‍රි මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+The American Representative approved a $61 billion loan for Ukraine, delayed by Republican opposition, but passed by the House due to Russian aggression. Ukrainian President Verthadamir Celencesi thanked the U.S., while spokesperson Dimitri Pescov criticized the move.
 
-රිපබ්ලිකන් පක්ෂයේ විරෝධය හේතුවෙන් ජනාධිපති ජෝ බයිඩන්ගේ එම යෝජනාව මාස කිහිපයක් තිස්සේ ප්‍රමාද වී තිබුණි.
+🟩
 
-කෙසේවුවද යුක්‍රේනය වෙත රුසියානු ප්‍රහාර ප්‍රබල වීම හමුවේ සිදු කෙරුණු දැඩි ඉල්ලීම මත අදාළ පැකේජය සම්මත කිරීමට නියෝජිත මන්ත්‍රී මණ්ඩලය එකඟතාවකට පැමිණ තිබූ බව වාර්තා වෙයි.
+The American Representative Member of America has approved the provision of $ 61 billion loan assistance for Ukraine.
 
-අමෙරිකාවේ එම තීරණය සම්බන්ධයෙන් යුක්‍රේන ජනාධිපති වොලොද්මීර් සෙලෙන්ස්කි සිය කෘතඥතාව පළකර තිබේ.
+The proposal was delayed for several months due to the Republican Party opposition.
 
-ඒ සම්බන්ධයෙන් අදහස් පළකරන ක්‍රෙමිලිනයේ ප්‍රකාශක දිමිත්‍රි පෙස්කොව් ප්‍රකාශ කළේ මෙම පැකේජය මගින් ඇමෙරිකාව පොහොසත් කරන අතර යුක්‍රේනය තවදුරටත් විනාශ වෙනු ඇති බවය.
+However, the House of Representatives had agreed to pass the package on a heavy request that Russian attacks were promoted to Ukraine.
+
+Brother Verthadamir Celencesi has expressed his gratitude to the same decision in the United States.
+
+Spokesperson Dimitri Pescov stated that the package is enriched by this package and Ukraine will be destroyed.
 
 ◼️
 
 [Data](articles/17772fac.json)
+
+[Extended Data](ext_articles/17772fac.ext.json)
 
 ---
 
@@ -93,6 +99,28 @@ The government is purposely delaying teacher appointments to save on government 
 [Data](articles/39faf083.json)
 
 [Extended Data](ext_articles/39faf083.ext.json)
+
+---
+
+### ජනපති අඹේවෙල නිරීක්ෂණ චාරිකාවක
+
+*2024-04-21 08:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අඹේවෙල-නිරීක්ෂණ-චාරිකාවක/11-409170) · `si`
+
+ලෝකයේ අති නවීනම තාක්ෂණය සහිත අඹේවෙල කිරි ගොවිපොළ සමූහයේ සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (20) පෙරවරුවේ එහි නිරීක්ෂණ චාරිකාවක නිරත විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2022 වසරේ දෙසැම්බර් මාසයේදී ද අඹේවෙල කිරි ගොවිපොළේ හදිසි ‍නිරික්ෂණ චාරිකාවකට එක්වූ අතර එහිදී ලබාදුන් උපදෙස් අනුව ගොවිපොළ තුළ පුළුල් සංවර්ධන ක්‍රියාවලියක් පසුගිය වසරේදී ආරම්භ කෙරිණි.
+
+අඹේවෙල කිරි ගොවිපොළ වෙත පැමිණි ජනාධිපතිවරයාව කිරි ගොවිපොළ සමූහයේ සාමාන්‍යාධිකාරී සරත් බණ්ඩාර මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් පිළිගනු ලැබීය.
+
+ගොවිපොළේ නව සංවර්ධන කටයුතුවල ප්‍රගතිය විමසා බැලූ ජනාධිපතිවරයා කිරි ගවයන් රඳවා සිටින පරිශ්‍රය ද නිරික්ෂණ කළේය.
+
+අනතුරුව එහි විධායක කාර්ය මණ්ඩලය සමඟ කෙටි සාකච්ඡාවකට ද එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අඹේවෙල ගොවිපොළ කිරි නිෂ්පාදන ක්ෂේත්‍රයේ ලබා ඇති ක්‍රමික වර්ධනය හා එමගින් ජාතික ආර්ථිකයට ලබා දෙන දායකත්වය ඇගයීමට ලක් කළේය.
+
+එමෙන්ම ගොවිපොළ නැරඹීමට පැමිණෙන සංචාරකයන් වෙනුවෙන් විවිධ සංචාරක ප්‍රවර්ධන වැඩසටහන් ක්‍රියාවට නැංවීමේ අවශ්‍යතාවය ද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/2fd48972.json)
 
 ---
 
@@ -240,6 +268,38 @@ Meanwhile, police spokesman DIG'sary DIG lawyer said the necessary steps have be
 
 ---
 
+### Sanasa General Insurance among companies for Best Management Practices
+
+*2024-04-21 06:15:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-among-companies-for-best-management-practices/) · `en`
+
+Sanasa General Insurance was recently honoured at the Best Management Practices Company Awards 2024. The award ceremony organised by the Institute of Chartered Professional Managers was recently held in Colombo, and it aims at recognising and public and private sector companies showcasing excellence in organisational management and leadership, leading to better management practices that bring about growth and success.
+
+...
+
+[Data](articles/01884a9c.json)
+
+---
+
+### Amana Takaful sustains impressive growth trajectory
+
+*2024-04-21 06:15:00* · [`islandlk`](http://island.lk/amana-takaful-sustains-impressive-growth-trajectory/) · `en`
+
+Amana Takaful Insurance PLC (General) achieved a staggering 28% year-on-year increase in Gross Written Premiums (GWP) in 2023, propelling its revenues to an impressive LKR 4.29 billion during the review period, said a press release.
+
+It said: This growth spanned across diverse segments. Notably, the motor segment witnessed a 29% surge, totaling LKR 2.13 billion, while the non-motor and health segments experienced substantial growth rates of 21% (LKR 1.40 billion) and 40% (LKR 750 million) respectively.
+
+Hassan Kassim, Managing Director at Amana Takaful Insurance PLC, said:
+
+“Our remarkable growth underscores our commitment to strategic planning, service excellence, and innovative business practices. The significant increases across motor, non-motor, and health segments last year are clear indicators of our unwavering dedication to excellence.”
+
+Amana Takaful emerges as the most awarded insurance company in Lanka for 2023
+
+...
+
+[Data](articles/62c9c3ab.json)
+
+---
+
 ### Showers in several areas this afternoon
 
 *2024-04-21 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195823) · `si`
@@ -261,6 +321,106 @@ The Department of Meteorology requests the public to take necessary steps to red
 [Data](articles/7b95d8f9.json)
 
 [Extended Data](ext_articles/7b95d8f9.ext.json)
+
+---
+
+### Sun Siyam Pasikudah celebrates Sinhala and Tamil New Year
+
+*2024-04-21 06:02:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-celebrates-sinhala-and-tamil-new-year/) · `en`
+
+Sun Siyam Pasikudah marked the dawn of the Sinhala and Tamil New Year with a display of fireworks, joined by in-house guests and staffs together with the management. The day was filled with various New Year games, such as Eye on the Elephant (Aliyata Asa Thabeema), Break the Pot (Vasana Muttiya Bindeema), Tug of War (Kamba Andeema), Musical Chair (Sangeetha Putu Tharangaya), Sack Race (Goni Race), Feeding Yoghurt (Yoghurt kaveema), Pop the Balloon (Balloon Pipireema), among others.
+
+Sun Siyam Pasikudah, part of the Sun Siyam Resorts based in the Maldives is highly ambitious and positive that Sri Lanka will keep experiencing a surge in tourists, and shared that the resort is proud to be a part of this journey including attracting locals to visit the East. The country has welcomed over 600,000 tourists as of end March, generating revenue of USD 1.025 billion.
+
+CEAT Kelani launches three new radial tyre variants in ‘Orion Brawo’ range
+
+...
+
+[Data](articles/55bc747b.json)
+
+---
+
+### ComBank appoints new Chairman and Deputy Chairman
+
+*2024-04-21 06:01:00* · [`islandlk`](http://island.lk/combank-appoints-new-chairman-and-deputy-chairman-2/) · `en`
+
+Top investment banker Sharhan Muhseen and financial services professional Raja Senanayake to lead the Board of country’s largest private sector bank
+
+Commercial Bank of Ceylon PLC has announced the appointment of top international investment banker Mr Sharhan Muhseen as Chairman, and financial services professional Mr Raja Senanayake as Deputy Chairman, effective Monday, April 22, 2024.
+
+Muhseen, previously Deputy Chairman of the Bank, succeeds Prof. Ananda Jayawardane as Chairman upon the latter’s retirement, and Senanayake, a non-executive director, fills the vacancy created by Muhseen’s elevation to the position of Chairman of the Bank.
+
+...
+
+[Data](articles/0c696d37.json)
+
+---
+
+### Hayleys Fabric celebrates triple triumph at ISPO Textrends Spring/Summer 2026
+
+*2024-04-21 06:00:00* · [`islandlk`](http://island.lk/hayleys-fabric-celebrates-triple-triumph-at-ispo-textrends-spring-summer-2026/) · `en`
+
+In a remarkable demonstration of innovation and sustainability, Sri Lanka’s largest textile manufacturer Hayleys Fabric PLC proudly announced its achievement at the prestigious ISPO Textrends Spring/Summer 2026, where three pioneering innovations were recognised.
+
+Serving as a key global benchmark for innovation in the textile industry, the German platform showcases breakthrough advancements of the world’s most innovative and high-performance fabrics.
+
+“We are delighted to have our relentless pursuit of sustainable innovation recognised again, as it underscores our dedication to ensuring we break new ground in textiles that benefit both the industry and the planet. We firmly believe sustainability and innovation are key drivers for Sri Lanka’s export sector and we are committed to continuously developing solutions that meet the evolving needs of the global apparel industry while minimising our environmental footprint,” Hayleys Fabric Managing Director Rohan Goonetilleke said.
+
+...
+
+[Data](articles/1f47e2bc.json)
+
+---
+
+### Brantel appointed Partner and Reseller of global networking giant Cisco
+
+*2024-04-21 06:00:00* · [`islandlk`](http://island.lk/brantel-appointed-partner-and-reseller-of-global-networking-giant-cisco/) · `en`
+
+Brantel Lanka (Pvt) Ltd., has announced the Company’s appointment as a Partner and Authorized Reseller in Sri Lanka for Cisco Networks, the global leader in networking hardware, software and services, a company news release said.
+
+The Company said its primary role as a Cisco Partner would be to help build the online presence, and automate the business processes, of small and medium businesses (SMBs) in Sri Lanka by catering to their specific networking needs.
+
+...
+
+[Data](articles/3ccce7e7.json)
+
+---
+
+### CEAT Kelani launches three new radial tyre variants in ‘Orion Brawo’ range
+
+*2024-04-21 05:58:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
+
+Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners, the company announced.
+
+Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
+
+“These tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage,” a news release said.
+
+The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
+
+...
+
+[Data](articles/9c7cda71.json)
+
+[Extended Data](ext_articles/9c7cda71.ext.json)
+
+---
+
+### அம்பேவல பண்ணைக்கு ஜனாதிபதி விஜயம்
+
+*2024-04-21 05:15:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பேவல-பண்ணைக்கு-ஜனாதிபதி-விஜயம்/175-336119) · `ta`
+
+கடந்த ஆண்டு ஆரம்பிக்கப்பட்ட பண்ணையின் அபிவிருத்திப் பணிகளின் முன்னேற்றம் தொடர்பில் ஆராய்வதற்காகவே அவர் அங்கு சென்றிருந்தார்.
+
+இதன் பின்னர்  ஊழியர்களுடன் உரையாடலில் ஈடுபட்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, அம்பேவல பண்ணையின் பால் உற்பத்தித் துறையில் எட்டப்பட்டுள்ள படிப்படியான வளர்ச்சி மற்றும் தேசிய பொருளாதாரத்திற்கான அதன் பங்களிப்பையும் பாராட்டினார்.
+
+பண்ணைக்கு வருகை தரும் சுற்றுலாப் பயணிகளுக்கு பல்வேறு சுற்றுலா ஊக்குவிப்பு நடவடிக்கைகளை நடைமுறைப்படுத்த வேண்டியதன் அவசியத்தை இதன்போது ஜனாதிபதி எடுத்துக்காட்டினார் என ஜனாதிபதி ஊடப்பிரிவு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+நேற்று அம்பேவல பால் பண்ணையைப் பார்வையிட வருகை தந்திருந்த உள்நாட்டு, வௌிநாட்டு சுற்றுலாப் பயணிகளையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க சந்தித்துக் கலந்துரையாடினார். (a)
+
+◼️
+
+[Data](articles/f5b5aee6.json)
 
 ---
 
@@ -2061,181 +2221,5 @@ Bella has been described by her zookeepers as honest, prudent, curious, intellig
 [Data](articles/ace9331d.json)
 
 [Extended Data](ext_articles/ace9331d.ext.json)
-
----
-
-### National woman arrested with drug
-
-*2024-04-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195800) · `si`
-
-A 28-year-old woman from Nuwara Eliya and a 35-year-old man from England were arrested in Tupupas for possessing nearly three hush drugs.
-
-🟩
-
-A foreign national woman and another suspect has been arrested in Tupupas area.
-
-Police said that the officials of the Nuwara Eliya Divisional Criminal Investigation Bureau inspected a van and have found nearly three hush drugs.
-
-The arrested is a 28 year old resident of Nuwara Eliya and 35 year old England.
-
-◼️
-
-[Data](articles/891a999e.json)
-
-[Extended Data](ext_articles/891a999e.ext.json)
-
----
-
-### The ultimate tiger mum
-
-*2024-04-20 09:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/The-ultimate-tiger-mum/110-281051) · `en`
-
-Tigers, revered apex predators of astounding strength, intelligence and beauty, are the jungle’s most majestic creatures.
-
-But they’re more than just charismatic cats and fearsome hunters – as the phrase ‘tiger mum’ suggests, female tigers are also fiercely maternal, and new Disney+ film Tiger reveals this through an intimate portrait of one family. (Daily Mail)
-
-◼️
-
-[Data](articles/5ae28d25.json)
-
-[Extended Data](ext_articles/5ae28d25.ext.json)
-
----
-
-### China writes off interest-free loans given to Zimbabwe
-
-*2024-04-20 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98736/china-writes-off-interest-free-loans-given-to-zimbabwe) · `en`
-
-China has written off an unspecified amount of Zimbabwe’s interest-free loans and pledged to help the Southern African country find a way out of its debt crisis, even as activists warned of a permanent debt trap.
-
-As of September 2023, Zimbabwe’s publicly guaranteed debt stood at $17.7 billion, of which $12.7 billion was external and $5 billion domestic.
-
-Most of the foreign debt was purchased from China, as the country is ineligible for loans from multilateral creditors such as the World Bank and the International Monetary Fund (IMF) after defaulting on repayments since the turn of the millennium.
-
-Since the fall of long-time ruler Robert Mugabe six years ago, Zimbabwe has been struggling to reach an agreement with creditors to restructure its unsustainable debt.
-
-...
-
-[Data](articles/2406fd4b.json)
-
-[Extended Data](ext_articles/2406fd4b.ext.json)
-
----
-
-### Paris Club reassures continued support to debt restructuring Sri Lanka
-
-*2024-04-20 08:55:00* · [`economynextcom`](https://economynext.com/paris-club-reassures-continued-support-to-debt-restructuring-sri-lanka-159487/) · `en`
-
-ECONOMYNEXT – Paris Club has assured continued support to debt-crisis hit Sri Lanka to achieve debt sustainability in the island nation, State Finance Minister Shahen Semasinghe said.
-
-Paris Club, the group of major creditor countries aiming to provide a sustainable way to tackle debt problems in debtor countries, has been actively engaging with Sri Lanka in the island nation’s debt restructuring process.
-
-Sri Lanka has declared bankruptcy in April 2022 with sovereign debt default. Since then, President Ranil Wickremesimghe government has been in the process of debt restructuring. However, the process has been slower than expected.
-
-State Finance Minister Semasinghe met William Roos, Co-Chairman Paris Club and Assistant Secretary for Multilateral Affairs, Trade and Development Policies Department, in the sideline of the IMF/World Bank Spring Meetings.
-
-...
-
-[Data](articles/cdeda63c.json)
-
-[Extended Data](ext_articles/cdeda63c.ext.json)
-
----
-
-### Overcoming Old and New Challenges for an Inclusive Democracy
-
-*2024-04-20 08:54:00* · [`economynextcom`](https://economynext.com/overcoming-old-and-new-challenges-for-an-inclusive-democracy-159490/) · `en`
-
-ECONOMYNEXT – A former Chief Election Commissioner, in India, Dr S Y Quraishi would like to see the establishment of a national election fund, through which, political parties would receive financial support based on their performance at an election.
-
-Throughout a 44-day period beginning April 19, India goes to the poll to elect 543 members to its 18th Lok Sabha, the Lower House of Parliament. It is the largest election in the country since 1951-1952 with nearly 970 million eligible to vote.
-
-Dr Quraishi was commenting on the controversy surrounding the Electoral Bonds and its protection of donor identities. The scheme was introduced by the incumbent BJP government in 2017 and was abolished by the Supreme Court in February this year, owing to increasing allegations of corruption.
-
-The scheme allowed individuals and corporate groups to donate anonymously, any amount of money to political parties, as Electoral Bonds.
-
-...
-
-[Data](articles/2b021e33.json)
-
-[Extended Data](ext_articles/2b021e33.ext.json)
-
----
-
-### Asian Human Rights Commission letter to Archbishop and Catholic Bishops Council
-
-*2024-04-20 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181491) · `ta`
-
-The Asian Human Rights Commission, led by Archbishop Malcolm Ranjith, urges the Catholic Bishops Council to address Sri Lanka's denial of justice regarding the upholding of life, especially affecting the Catholic community. Despite international efforts, the Sri Lankan government has not responded to demands for justice. The Commission calls for immediate restructuring, including re-coordinating the Criminal Investigation Department and ensuring the Attorney General's Department takes appropriate action against human rights violations.
-
-🟩
-
-The Asian Human Rights Commission Archbishop Cardinal Cardinal Cardinal Malcolm Ranjith has appealed to the Catholic Binthroad to look into the steps taken by the Sri Lankan governments, including the current government, to deny the upholder of the life of the life of the life of the life of the Sunday.
-
-In an open letter sent by Archbishop Malcolm Ranjith and Catholic bishops to the Catholic Bishops, Bernando, the Basil Bass of Sri Lanka, the Asian Human Rights Commission, which is based in Hong Kong, said:
-
-We express our impeachment to the people of Sri Lanka, including the tragic Catholic community, including the tragic Catholic community, as a result of this crime, with the families of the affected parties to uphold the justice of the victims and the victims of the victims of the life of the victims.
-
-Despite various efforts at home and internationally, the Sri Lankan government has refused to listen to the demand for justice. We understand your tension in this regard.
-
-...
-
-[Data](articles/e33e7770.json)
-
-[Extended Data](ext_articles/e33e7770.ext.json)
-
----
-
-### Debt restructuring talks: Bondholders fear regime change impact
-
-*2024-04-20 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debt-restructuring-talks-Bondholders-fear-regime-change-impact/108-281022) · `en`
-
-Colombo, April 20 (Daily Mirror) -  The representatives of bondholders who hold more around 50 percent of Sri Lanka’s outstanding international sovereign bonds (ISB) , during closed door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honored in case of a regime change at the elections pending this year, Daily Mirror learns.
-
-The bond holders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
-
-During talks with the NPP, the party has assured that the programme with the IMF (International Monetary Fund) will not be derailed.
-
-...
-
-[Data](articles/2b89571f.json)
-
-[Extended Data](ext_articles/2b89571f.ext.json)
-
----
-
-### Sri Lanka to establish a High Commission in Wellington, NZ
-
-*2024-04-20 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98735/sri-lanka-to-establish-a-high-commission-in-wellington-nz) · `en`
-
-An official delegation of the Foreign Affairs Ministry will visit New Zealand from 22-25 April to attend to the matters related to the opening of the Sri Lankan High Commission in Wellington.
-
-The delegation will be led by the Director General of the Overseas Assets Management and Development Division of the Foreign Ministry, Pradeepa Saram.
-
-During the visit, the delegation will engage in meetings with officials of the Ministry of Foreign Affairs and Trade of New Zealand, and other related agencies and stakeholders.
-
-In January this year, the Cabinet of Ministers approved a proposal presented by the Minister of Foreign Affairs Ali Sabry looking to establish a High Commission in Wellington.
-
-...
-
-[Data](articles/7fa9aa72.json)
-
-[Extended Data](ext_articles/7fa9aa72.ext.json)
-
----
-
-### Bondholders fear regime change impact
-
-*2024-04-20 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Bondholders-fear-regime-change-impact/155-281050) · `en`
-
-Colombo, April 20 (Daily Mirror) - The representatives of bondholders who hold around 50 per cent of Sri Lanka’s outstanding international sovereign bonds (ISB), during closed-door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honoured in case of a regime change at the elections pending this year, Daily Mirror learns.
-
-The bondholders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
-
-...
-
-[Data](articles/f652b44a.json)
-
-[Extended Data](ext_articles/f652b44a.ext.json)
 
 ---

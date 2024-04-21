@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 12:03:53**
+As of **2024-04-21 12:18:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,996 (100.0%) of 20,001 articles have been extended.
+20,001 (100.0%) of 20,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,37 @@ The protesting plantation workers claim that the plantation companies had not ta
 
 [Data](articles/2ce9ec50.json)
 
+[Extended Data](ext_articles/2ce9ec50.ext.json)
+
 ---
 
-### පයාගල තෝරා ගේ ප්‍රධාන ගෝලයා අත්අඩංගුවට
+### Chief of Payagala arrested
 
 *2024-04-21 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195829) · `si`
 
-සංවිධානාත්මක මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුවන "පයාගල තෝරා"ගේ ප්‍රධාන ගෝලයකු වන "පයාගල සුට්ටු" පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Payagala drug dealer arrested in Kalutara. Suspect, 48, had two phones hidden in underwear. Conducted drug racket via mobile.
 
-පොලීසිය පවසන්නේ කළුතර අපරාධ කොට්ඨාසය මගින් ඊයේ (20) සවස එම සැකකරු පයාගල, කලමුල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-එහිදී ඔහුගේ යට ඇඳුමේ සඟවා තිබූ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10ක් සහ එම ජාවාරම සඳහා භාවිතා කළ ජංගම දුරකථන දෙකක්ද කළුතර අපරාධ කොට්ඨාසය භාරයට ගෙන තිබේ.
+"Payagala coin 'police," Payagara Selection ", an organized drug dealer, has been arrested by Payagala.
 
-සැකකරු අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත්තේ "පයාගල තෝරා" නැමැත්නා කළුතර බන්ධනාගාරයේ සිට එම ජාවාරම සිදුකරගෙන ගොස් ඇති බවටය.
+The suspect was arrested by the Kalutara Crimes Division in the Kalutara Crimes Division in the Kalmuna area in Anuradhapura yesterday.
 
-පොලීසිය පැවසුවේ මෙම සැකකරු විසින් මෙම මත්ද්‍රව්‍ය ජාවාරම සිදුකර ඇත්තේ, ජංගම දුරකත ඔස්සේ මුදල් හුවමාරු කිරීමේ ක්‍රමවේදයක් හරහා බවය.
+The Kalutara Crimes Division has taken place in the Kalutara Crimes Division and two mobile phones were hidden in his underwear.
 
-සැකකරු මෙම අයිස් මත්ද්‍රව්‍ය ජාවාරම දොඩංගොඩ, පයාගල, මතුගම, වැලිපැන්න, කළුතර ආදී ප්‍රදේශවල සිදුකරගෙන ගොස් ඇති අතර එම සැකකරු දැනට මාසයකට පමණ පෙර මත්ද්‍රව්‍ය ජාවාරමක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගතව ඇප මත නිදහස්ව ඇති පුද්ගලයෙකි.
+It was revealed that the suspect was arrested and interrogated by "Payagala Select" from the Nuridaviya Kalutara Prison.
 
-...
+Police said that the drug was conducting the drug racket through a mobile phone.
+
+The suspect had been conducted in areas such as ice drug racism, Payagala, Matugama, Hambantota, Kalutara and Kalutara.
+
+The suspect is a 48-year-old resident of Uya Wadugoda area.
+
+◼️
 
 [Data](articles/3452bd1b.json)
+
+[Extended Data](ext_articles/3452bd1b.ext.json)
 
 ---
 
@@ -89,6 +99,8 @@ ECONOMYNEXT – There was widespread support for Sri Lanka’s debt restructurin
 ...
 
 [Data](articles/caae9430.json)
+
+[Extended Data](ext_articles/caae9430.ext.json)
 
 ---
 
@@ -416,17 +428,23 @@ Spokesperson Dimitri Pescov stated that the package is enriched by this package 
 
 ---
 
-### අධ්‍යාපන පරිපාලන සේවා සීමිත තරග විභාගයේ ප්‍රතිඵල නිකුත් කෙරේ
+### Educational Administration Services Results of Sri Lanka
 
 *2024-04-21 08:25:57* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවා-සීමිත-තරග-විභාගයේ-ප්‍රතිඵල-නිකුත්-කෙරේ/11-409173) · `si`
 
-2023 වර්ෂයේ පවත්වන ලද ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවා සීමිත තරග විභාගයේ ප්‍රතිඵල ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇත. එම ප්‍රතිඵල අනුව සම්මුඛ පරීක්ෂණ සඳහා සුදුසුකම් ලත් 735 දෙනකුගේ නාම ලේඛනය මේ වන විට විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට ඇතුළත් කර ඇති අතර www.doenets.lk වෙබ් අඩවියට පිවිසීමෙන් අපේක්ෂකයන්ට එම ප්‍රතිඵල බැලීමේ හැකියාව පවතී.
+In 2023, 735 qualified individuals were admitted to the Sri Lanka Education Administrative Service through the official website of the Department of Examinations. This competitive examination, held five years after 2019, aimed to fill vacancies in the service, as instructed by Minister Dr. Susil Premajayantha.
 
-2019 වර්ෂයට පසු වසර පහක පමණ කාලයක් ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ සීමිත තරග විභාග පවත්වා නොමැති අතර අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතාගේ උපදෙස් සහ සෘජු මැදිහත්වීම මත දිවයිනේ සියලු‍ පළාත්වල පවතින ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ නිලධාරීන්ගේ පුරප්පාඩු පිරවීම සඳහා මෙම තරග විභාගය පවත්වන ලදී. සම්මුඛ පරීක්ෂණ පවත්වා හැකි ඉක්මනින්  පුරප්පාඩු පිරවීමට පියවර ගන්නා ලෙසද අමාත්‍යවරයා නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+🟩
+
+Sri Lanka Education Administrative Service of Sri Lanka Education Administrative Services in 2023. According to the results, the list of 735 qualified persons have been admitted to the official website of the Department of Examinations and the candidates of the Examinations have been able to view the results.
+
+The competitive examination was held in the Sri Lanka Education Administrative Service for about five years after the year 2019 and was conducted to fill the vacancies of the Sri Lanka Education Administrative Service of the Sri Lanka Education Administrative Service of the Sri Lanka Education Administrative Service of Dr. Susil Premajayantha.. The Minister has instructed the officers to take steps to fill vacancies as soon as possible.
 
 ◼️
 
 [Data](articles/05d23688.json)
+
+[Extended Data](ext_articles/05d23688.ext.json)
 
 ---
 
@@ -593,6 +611,8 @@ The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a
 ...
 
 [Data](articles/03d8e7de.json)
+
+[Extended Data](ext_articles/03d8e7de.ext.json)
 
 ---
 

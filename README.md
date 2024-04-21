@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 17:18:16**
+As of **2024-04-21 17:35:44**
 
 ## Newspaper Stats
 
-*Scraped **20,056** Articles*
+*Scraped **20,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,317
 adaderanalk | 2,403
 virakesarilk | 2,989
 dailymirrorlk | 3,126
-adaderanasinhalalk | 3,260
+adaderanasinhalalk | 3,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,053 (100.0%) of 20,056 articles have been extended.
+20,056 (100.0%) of 20,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### දියතලාව අනතුරින් මියගිය පිරිස ඉහළට - ඉතිරි ධාවන තරග අත්හිටුවයි
+
+*2024-04-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195840) · `si`
+
+දියතලාව මෝටර් රථ ධාවන තරගාවලිය අතර සිදුවූ බිහිසුණු අනතුරින් මියගිය සංඛ්‍යාව 7ක් දක්වා ඉහළගොස් තිබේ.
+
+පොලීසිය පවසන්නේ මෙම අනතුරත් සමග පැවැත්වීමට නියමිතව තිබූ ඉතිරි සියලු ධාවන තරග මේ වනවිට අත්හිටුවා ඇති බවය.
+
+අනතුරින් තුවාල ලබා පුද්ගලයින් 20 දෙනෙකු නේවාසිකව රෝහල්ගතව ප්‍රතිකාර ලබයි.
+
+අනතුරින් මියගිය 7 දෙනා අතර 8 හැවිරිදි දැරියක් ද වන බව පොලීසිය පවසයි.
+
+එමෙන්ම ධාවන තරගයේ සහයකවරුන් 4 දෙනෙකු ද අනතුරින් මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සදහන් කළේය.
+
+◼️
+
+[Data](articles/e09b0d4f.json)
+
+---
 
 ### “The President has already been elected”
 
@@ -80,19 +100,27 @@ Responding to a question, he said that the rice was not distributed to the elect
 
 ---
 
-### உயிர்த்த ஞாயிறு படுகொலைகளிற்கு யார் காரணம் என்பதை கண்டுபிடிப்பதற்கு முழுமையான வெளிப்படையான விசாரணைகள் அவசியம் - ஐநா
+### A thorough open inquiries are essential to find out who was responsible for the alive Sunday massacre - the UN
 
 *2024-04-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181585) · `ta`
 
-இலங்கையில் 2019ம் ஆண்டு இடம்பெற்ற உயிர்த்த ஞாயிறுதாக்குதல்கள் தொடர்பில் பொறுப்புக்கூறல் அவசியம் என ஐநா வேண்டுகோள் விடுத்துள்ளது.
+The UN and its Permanent Resident in Sri Lanka, Mark Anre France, have called for a full investigation into the 2019 massacre, highlighting Sri Lanka's lack of accountability and the need for justice for victims.
 
-கொழும்பில் இடம்பெற்ற நினைகூரல் நிகழ்வில் இலங்கைக்கான ஐக்கியநாடுகளின் நிரந்தர வதிவிடப்பிரதிநிதி மார்க் அன்ரே பிரான்சே 2019 உயிர்த்த ஞாயிறு படுகொலைகளிற்கு யார் காரணம் என்பதை கண்டுபிடிப்பதற்கு முழுமையான வெளிப்படையான விசாரணைகள் அவசியம் என வேண்டுகோள் விடுத்துள்ளார்.
+🟩
 
-இலங்கை தொடர்ச்சியாக பொறுப்புக்கூறல் பற்றாக்குறையால் பாதிக்கப்படுகின்றது அது பொறுப்புக்கூறலிற்கான பொறுப்புக்கூறலாகயிருக்கலாம் அல்லது சமீபத்தைய மனித உரிமை மீறல்களிற்கான பொறுப்புக்கூறலாகயிருக்;கலாம் என ஐநாவின் பிரதிநிதி தெரிவித்துள்ளார்.
+The UN has appealed for accountability in Sri Lanka in 2019.
 
-...
+The United Nations Permanent Resident of Sri Lanka, Mark Anre France, has appealed for a full -fledged investigation to find out who was responsible for the 2019 massacre.
+
+Sri Lanka continues to suffer from a shortage of accountability, it may be responsible for accountability or is a responsibility for recent human rights violations, the UN Representative said.
+
+Mark Anre, who has been charged with allegations against the former president and top officials, has said that the victims are still waiting for justice, saying that the victims of the survival Sunday attacks should be given justice as part of the efforts to resolve the challenges of the French France.
+
+◼️
 
 [Data](articles/0cf1ae11.json)
+
+[Extended Data](ext_articles/0cf1ae11.ext.json)
 
 ---
 
@@ -198,21 +226,27 @@ Police said the accident occurred when another car crashed into a car crash.
 
 ---
 
-### குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு  இலவச அரிசி
+### Free rice for low -income families
 
 *2024-04-21 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181586) · `ta`
 
-குறைந்த வருமானம் பெறும் ஒவ்வொரு குடும்பத்துக்கும் ஏப்ரல் மற்றும் மே மாதங்களில் மாதாந்தம் தலா 10 கிலோ அரிசி வழங்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe announced a monthly 10 kg rice allocation for low-income families in April and May, affecting 28 lakhs of families. This initiative, part of the National Rice Providing event, has already started nationwide.
 
-ஊவா பரணகம அபகஸ்தோவ விளையாட்டரங்கில் இன்று (21) ஞாயிற்றுக்கிழமை இடம்பெற்ற குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு  தேசிய அரிசி வழங்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவித்த போதே இதனை தெரிவித்துள்ளதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-அத்தோடு, குறைந்த வருமானம் பெறும் 28 இலட்சம் குடும்பங்களுக்கு இலவச அரிசி வழங்கப்படுவதாக சமுர்த்தி அபிவிருத்தி உத்தியோஸ்த்தர்கள் சங்கம் தெரிவித்துள்ளது.
+President Ranil Wickremesinghe said that every family receiving low income will be given 10 kg of rice per month in April and May.
 
-மேலும், ஏப்ரல் மாதம் வழங்கப்படவுள்ள 10 கிலோ அரிசியானது  ஏற்கனவே நாடளாவிய ரீதியில் வழங்குவதற்கு ஆரம்பித்துள்ளதாகவும் தெரிவித்துள்ளனர்.
+The Presidential Media Division said that this was speaking at the National Rice Providing event for low -income families held at the Uva Paranagama Abakastova Stadium on Sunday (21).
+
+The Samurdhi Development Officers Association said that 28 lakhs of low -income families will be provided with free rice.
+
+In addition, 10 kg of rice to be supplied in April has already begun to supply nationwide.
 
 ◼️
 
 [Data](articles/ec85f613.json)
+
+[Extended Data](ext_articles/ec85f613.ext.json)
 
 ---
 
@@ -283,6 +317,8 @@ The “Fox Hill Super Cross 2024” racing event has now been temporarily suspen
 ...
 
 [Data](articles/a1a76a6b.json)
+
+[Extended Data](ext_articles/a1a76a6b.ext.json)
 
 ---
 
@@ -2189,21 +2225,5 @@ Former Prime Minister Ranil Wickremesinghe is the people of the country today wh
 [Data](articles/43139d7d.json)
 
 [Extended Data](ext_articles/43139d7d.ext.json)
-
----
-
-### Some Thoughts for the New Year
-
-*2024-04-21 02:55:00* · [`islandlk`](http://island.lk/some-thoughts-for-the-new-year/) · `en`
-
-Last week was the Sinhala and Tamil New Year, Avurudu in Sinhala, Puththandu in Tamil. It marks the end of one harvest season and the beginning of another. Celebrated by Sri Lankans of all shades and stripes, of every class and background, it demonstrates, as does no other event, the multifaceted character of Sri Lankan culture.
-
-As Sri Lanka lurches into a New Year three months after January 1, then, this is the time to reflect on what it is becoming and will become of us over the next 12 months. What shape will the country take by April 13 next year? Will the status quo – political, social, economic – stand, or will there be a rupture in the way things are? Will the present batch of leaders become politically irrelevant? Most crucially, how will the world around Sri Lanka change, and how can, and how should, Sri Lanka adapt itself to that brave new world?
-
-...
-
-[Data](articles/799a1d45.json)
-
-[Extended Data](ext_articles/799a1d45.ext.json)
 
 ---

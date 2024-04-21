@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 08:33:56**
+As of **2024-04-21 08:51:26**
 
 ## Newspaper Stats
 
-*Scraped **19,969** Articles*
+*Scraped **19,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,304
 adaderanalk | 2,393
 virakesarilk | 2,984
 dailymirrorlk | 3,111
-adaderanasinhalalk | 3,246
+adaderanasinhalalk | 3,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,968 (100.0%) of 19,969 articles have been extended.
+19,969 (100.0%) of 19,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### යුක්‍රේනයට දෙන යුද ආධාර පැකේජයට අනුමැතිය
+
+*2024-04-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195826) · `si`
+
+යුක්‍රේනය සඳහා ඩොලර් බිලියන 61ක ණය ආධාර මුදලක් ලබාදීමට අමෙරිකානු නියෝජිත මන්ත්‍රි මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+රිපබ්ලිකන් පක්ෂයේ විරෝධය හේතුවෙන් ජනාධිපති ජෝ බයිඩන්ගේ එම යෝජනාව මාස කිහිපයක් තිස්සේ ප්‍රමාද වී තිබුණි.
+
+කෙසේවුවද යුක්‍රේනය වෙත රුසියානු ප්‍රහාර ප්‍රබල වීම හමුවේ සිදු කෙරුණු දැඩි ඉල්ලීම මත අදාළ පැකේජය සම්මත කිරීමට නියෝජිත මන්ත්‍රී මණ්ඩලය එකඟතාවකට පැමිණ තිබූ බව වාර්තා වෙයි.
+
+අමෙරිකාවේ එම තීරණය සම්බන්ධයෙන් යුක්‍රේන ජනාධිපති වොලොද්මීර් සෙලෙන්ස්කි සිය කෘතඥතාව පළකර තිබේ.
+
+ඒ සම්බන්ධයෙන් අදහස් පළකරන ක්‍රෙමිලිනයේ ප්‍රකාශක දිමිත්‍රි පෙස්කොව් ප්‍රකාශ කළේ මෙම පැකේජය මගින් ඇමෙරිකාව පොහොසත් කරන අතර යුක්‍රේනය තවදුරටත් විනාශ වෙනු ඇති බවය.
+
+◼️
+
+[Data](articles/17772fac.json)
+
+---
 
 ### Showers expected in parts of the country
 
@@ -71,6 +91,8 @@ The government is purposely delaying teacher appointments to save on government 
 ...
 
 [Data](articles/39faf083.json)
+
+[Extended Data](ext_articles/39faf083.ext.json)
 
 ---
 
@@ -2215,21 +2237,5 @@ The bondholders held talks with various political leaders including from the opp
 [Data](articles/f652b44a.json)
 
 [Extended Data](ext_articles/f652b44a.ext.json)
-
----
-
-### Bondholders fear regime change impact
-
-*2024-04-20 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bondholders-fear-regime-change-impact/108-281050) · `en`
-
-Colombo, April 20 (Daily Mirror) - The representatives of bondholders who hold around 50 per cent of Sri Lanka’s outstanding international sovereign bonds (ISB), during closed-door interactions with the representatives of Sri Lankan political parties, have expressed fear whether any debt restructuring agreement will be honoured in case of a regime change at the elections pending this year, Daily Mirror learns.
-
-The bondholders held talks with various political leaders including from the opposition parties such as the Samagi Jana Balawegaya (SJB), the National People’s Power (NPP) and the United Republican Front (URF) led by MP Patali Champika Ranawaka during the New Year holiday period.
-
-...
-
-[Data](articles/f7c64978.json)
-
-[Extended Data](ext_articles/f7c64978.ext.json)
 
 ---

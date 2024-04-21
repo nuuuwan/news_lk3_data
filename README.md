@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 12:18:27**
+As of **2024-04-21 12:33:54**
 
 ## Newspaper Stats
 
-*Scraped **20,001** Articles*
+*Scraped **20,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,660
-tamilmirrorlk | 2,308
+tamilmirrorlk | 2,309
 adaderanalk | 2,396
 virakesarilk | 2,985
 dailymirrorlk | 3,116
-adaderanasinhalalk | 3,250
+adaderanasinhalalk | 3,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,001 (100.0%) of 20,001 articles have been extended.
+20,001 (100.0%) of 20,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### 05 இணையத்தளங்கள் நீக்கம்
+
+*2024-04-21 12:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/05-இணையத்தளங்கள்-நீக்கம்/175-336126) · `ta`
+
+தபால் திணைக்களத்தின் இணையத்தளத்தைப் போன்று வடிவமைக்கப்பட்ட 05 போலி இணையத்தளங்கள் இணையத்திலிருந்து நீக்கப்பட்டுள்ளதாக இலங்கை கணினி அவசர பதில் மன்றம் தெரிவித்துள்ளது.
+
+மேலும், இந்த இணையத்தளங்களில் சுமார் முப்பத்தைந்து பண மோசடி சம்பவங்கள் பதிவாகியுள்ளதாக அதன் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர்.சாருக தமுனோபொல, தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6eaea951.json)
+
+---
+
+### ඇල්පිටියේ අනතුරකින් එකම පවුලේ තිදෙනෙකු මරුට
+
+*2024-04-21 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195830) · `si`
+
+ඇල්පිටිය - අවිත්තාව ප්‍රධාන මාර්ගයේ සිදුවූ රිය අනතුරකින් කුඩා දරුවන් දෙදෙනෙකු ඇතුළු එකම පවුලේ පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+
+ත්‍රිරෝද රථයක් ලොරි රථයක මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+
+අනතුරින් මියගොස් ඇත්තේ 68 හැවිරිදි ත්‍රිරෝද රථ රියදුරු සහ ඔහුගේ 10 හැවිරිදි මුණුපුරා සහ සත් හැවිරිදි මිණිපිරිය බව සඳහන්ය.
+
+ත්‍රිරෝද රථයේ ගමන් ගත් මියගිය පුද්ගලයාගේ බිරිඳ සහ ඔහුගේ දියණිය සහ 18 හැවිරිදි මිණිපිරිය තුවාල ලබා රෝහල් ගත කර ඇති බවද පොලීසිය සඳහන් කළේය.
+
+අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඇල්පිටිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/fb359a5c.json)
+
+---
 
 ### Upcountry plantation workers launch strike; demand Rs. 1,700 daily wage
 
@@ -2239,45 +2273,5 @@ Fr.
 [Data](articles/62e13c34.json)
 
 [Extended Data](ext_articles/62e13c34.ext.json)
-
----
-
-### Vehicle importers call for increased space for importing used vehicles
-
-*2024-04-20 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Vehicle-importers-call-for-increased-space-for-importing-used-vehicles/155-281059) · `en`
-
-Colombo, April 20 (Daily Mirror) - President of the Vehicle Importers Association of Lanka (VIAL), Indika Sampath Merinchige urged the government to expand the allowance for importing used vehicles alongside new ones.
-
-He emphasized the need to extend the timeframe for importing used vehicles from three years to seven years or beyond.
-
-Merinchige highlighted that importing used vehicles can enable them to offer vehicles at lower prices compared to new ones.
-
-Additionally, he noted that importing vehicles that are seven years of age or older will not affect government tax revenue.
-
-◼️
-
-[Data](articles/019ac050.json)
-
-[Extended Data](ext_articles/019ac050.ext.json)
-
----
-
-### Vehicle importers call for increased space for importing used vehicles
-
-*2024-04-20 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-importers-call-for-increased-space-for-importing-used-vehicles/108-281059) · `en`
-
-Colombo, April 20 (Daily Mirror) - President of the Vehicle Importers Association of Lanka (VIAL), Indika Sampath Merinchige urged the government to expand the allowance for importing used vehicles alongside new ones.
-
-He emphasized the need to extend the timeframe for importing used vehicles from three years to seven years or beyond.
-
-Merinchige highlighted that importing used vehicles can enable them to offer vehicles at lower prices compared to new ones.
-
-Additionally, he noted that importing vehicles that are seven years of age or older will not affect government tax revenue.
-
-◼️
-
-[Data](articles/b9a19af9.json)
-
-[Extended Data](ext_articles/b9a19af9.ext.json)
 
 ---

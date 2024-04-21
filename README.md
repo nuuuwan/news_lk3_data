@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 22:18:24**
+As of **2024-04-21 22:33:53**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,088 (100.0%) of 20,090 articles have been extended.
+20,090 (100.0%) of 20,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### යුක්තිය මෙහෙයුමෙන් ඇල්ලූ මත්ද්‍රව්‍යවලට වෙන දේ මෙන්න
+### Here's what happens to the drugs that have been caught by justice
 
 *2024-04-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195846) · `si`
 
-යුක්තිය මෙහෙයුමෙන් පොලීසිය භාරයට ගත් මත්ද්‍රව්‍ය ඉදිරි මාසය තුළ විනාශ කිරීමට පියවර ගන්නා බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+IGP Deshabandu Tennakoon announced steps to destroy drugs seized by justice, emphasizing strict law enforcement against drug trafficking, involving criminals and police officers.
 
-පොලිස්පතිවරයා පෙන්වාදෙන්නේ ඒ සඳහා විශේෂ ස්ථානයක් පුත්තලම දිස්ත්‍රික්කය ආශ්‍රිතව මේ වනවිටත් නිර්මාණය කර ඇති බවය.
+🟩
 
-නුවරඑළිය ප්‍රදේශයේ පැවැති උත්සවයට එක්වෙමින් පොලිස්පති දේශබන්දු තෙන්නකොන් මහතා මේ බව සඳහන් කළේය.
+IGP Deshabandu Tennakoon says steps will be taken to destroy the drug taken into custody by the operation of justice.
 
-මේ අතර මත්ද්‍රව්‍ය ජාවාරම්වලට සහ අපරාධකරුවන් හා සම්බන්ධතා ඇති පොලිස් නිළධාරීන් සම්බන්ධයෙන් දැඩිව නීතිය ක්‍රියාත්මක කරන බවද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එහිදී සඳහන් කළේය.
+The IGP pointed out that the Puttalam district is already designed in the Puttalam District.
+
+IGP Deshabandu Tennekowan said this while participating at a function held in Nuwara Eliya.
+
+Meanwhile, IGP Deshabandu Tennakoon said that the law is strictly enforced regarding drug trafficking and criminals and police officers.
 
 ◼️
 
 [Data](articles/58c6d4f1.json)
+
+[Extended Data](ext_articles/58c6d4f1.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Colombo, April 21 (Daily Mirror) - The programme of providing free land rights t
 ◼️
 
 [Data](articles/58c119ef.json)
+
+[Extended Data](ext_articles/58c119ef.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 02:18:26**
+As of **2024-04-22 02:34:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,104 (100.0%) of 20,105 articles have been extended.
+20,105 (100.0%) of 20,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ In the midst of an internal party crisis, the Sri Lanka Freedom Party (SLFP) fin
 ...
 
 [Data](articles/f1d8a9ac.json)
+
+[Extended Data](ext_articles/f1d8a9ac.ext.json)
 
 ---
 

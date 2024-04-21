@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 17:54:13**
+As of **2024-04-21 18:09:37**
 
 ## Newspaper Stats
 
-*Scraped **20,059** Articles*
+*Scraped **20,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,317
 adaderanalk | 2,404
 virakesarilk | 2,989
 dailymirrorlk | 3,127
-adaderanasinhalalk | 3,261
+adaderanasinhalalk | 3,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,057 (100.0%) of 20,059 articles have been extended.
+20,059 (100.0%) of 20,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### කිසිවෙකු පසුකර හෝ අතහැර යාමට සූදානම් නෑ - ජනපති
+
+*2024-04-21 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195841) · `si`
+
+රට ගොඩනැගීමේදී කිසිවෙකු පසුකර හෝ අතහැර යාමට සූදානම් නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මෙම අදහස් පළකළේ ඌවපරණගම, අඹගස්දෝව මහජන ක්‍රීඩාංගනයේ අද (21) පැවති අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ 2024 ජාතික වැඩසටහනේ සමාරම්භක උත්සවයට එක් වෙමිනි.
+
+"අද මේ රටේ ජනතාව සතුටින් සිංහල හා දෙමළ අලුත් අවුරද්ද සමරනවා. පසුගිය වසර දෙක තුළ මේ පිළිබඳව සිතන්නටවත් නොහැකි තත්ත්වයකයි රට තිබුණේ. පසුගිය කාලයේ අපට අවශ්‍ය ඉන්ධන, ගෑස්, පොහොර සපයා ගත නොහැකිව ඉතා අසීරු තත්ත්වයකට මුහුණ දීමට සිදු වුණා. 2022 සිංහල අලුත් අවුරුද්ද මම ගත කළේ කඹුරුගමුව ප්‍රදේශයේදී බව සිහිපත් කරන්න කැමතියි. එහි ඉන්ධන පිරවුම් සැල් ඉදිරිපිට රැය පහන්වන තුරු ජනතාව රැදී සිටින අයුරු මම දුටුවා. ඔවුන් පාලකයන්ට දැඩිව දෝෂාරෝපණය කරමින් සිටියා. එවන් තත්ත්වයක තිබු රට අද ලබා ඇති ප්‍රගතිය බොහෝ දෙනාට සිතා ගැනීමට පවා අසීරු වී තිබෙනවා. අද රට තුළ ඇති වි තිබෙන මෙම ආර්ථික ස්ථාවරත්වය වෙනුවෙන් බොහෝ අසීරු තීරණ ගැනීමට අපට සිදු වුණා. එම තීරණ ජනප්‍රිය තීරණ නොවන බව කිවයුතුයි.
+
+...
+
+[Data](articles/2fc00ae6.json)
+
+---
 
 ### Death toll in ‘Fox Hill Super Cross’ accident climbs to 07
 
@@ -49,6 +65,8 @@ The “Fox Hill Super Cross 2024” racing event has now been temporarily suspen
 ...
 
 [Data](articles/c9560fb2.json)
+
+[Extended Data](ext_articles/c9560fb2.ext.json)
 
 ---
 
@@ -245,6 +263,8 @@ According to hospital sources, the condition of some of the injured is critical.
 ◼️
 
 [Data](articles/cff10726.json)
+
+[Extended Data](ext_articles/cff10726.ext.json)
 
 ---
 
@@ -2203,21 +2223,5 @@ One of the most enchanting books I have read in recent times has to be “A Move
 [Data](articles/e57cdb3b.json)
 
 [Extended Data](ext_articles/e57cdb3b.ext.json)
-
----
-
-### Remembering an April half a century ago
-
-*2024-04-21 04:59:00* · [`islandlk`](http://island.lk/remembering-an-april-half-a-century-ago/) · `en`
-
-The month of April 1971. Fifty three years ago. Never to be forgotten by the older of us. Ceylon that year was embroiled in anarchy and the country was on the brink of being taken over by insurgents. We were still known as Ceylon then since the name change to Sri Lankan was in 1972.
-
-I need not detail or even refer to most of what happened in 1970 and 71. ‘Kill’ was the operative word; youth to the forefront; rivers turned red with human blood; smoking tyres with bodies inside fouled the air and dread, dread an utter uncertainty prevailed. Names in the forefront on the government side were Srimavo Bandaranaike, PM; Felix Dias Bandaranaike, Minister of Justice; Sepala Attyglle, Army Commander; SA ‘Jungle’ Dissanayake, former IGP brought back as Addl. Secretary to the Ministry of External Affairs and Defense. The top person in the JVP was of course Rohana Wijeweera, with Wijesena Vidanage, Somawanse Amarasinghe and a couple of others his next tier leaders.
-
-...
-
-[Data](articles/da493083.json)
-
-[Extended Data](ext_articles/da493083.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 08:18:22**
+As of **2024-04-21 08:33:56**
 
 ## Newspaper Stats
 
-*Scraped **19,968** Articles*
+*Scraped **19,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,655
 tamilmirrorlk | 2,304
 adaderanalk | 2,393
 virakesarilk | 2,984
-dailymirrorlk | 3,110
+dailymirrorlk | 3,111
 adaderanasinhalalk | 3,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,965 (100.0%) of 19,968 articles have been extended.
+19,968 (100.0%) of 19,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/3da0eda0.json)
+
+[Extended Data](ext_articles/3da0eda0.ext.json)
+
+---
+
+### Total of 40,000 teacher shortages in schools countrywide: Stalin
+
+*2024-04-21 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-40-000-teacher-shortages-in-schools-countrywide-Stalin/108-281076) · `en`
+
+Colombo, April 21 (Daily Mirror) - There is a total shortage of 40,000 teachers in schools in the country, General Secretary of the Ceylon Teachers' Union, Joseph Stalin said.
+
+Addressing the media, he said the shortage of teachers in schools is reported in the Western, Eastern, North-Central, Southern and Uva Provinces.
+
+Accordingly, nearly 7,000 shortages of teachers were reported in the Western Province; nearly 3,800 shortages were reported in the Eastern Province, 3,698 shortages were reported in the North-Central Province; 3,100 shortages were reported in the Southern Province; and nearly 6,200 shortages were reported in the Central Province.
+
+The government is purposely delaying teacher appointments to save on government expenses, Stalin said.
+
+"Without filling the existing vacancies, a critical situation will occur in schools in these areas.
+
+...
+
+[Data](articles/39faf083.json)
 
 ---
 
@@ -220,21 +242,27 @@ The Department of Meteorology requests the public to take necessary steps to red
 
 ---
 
-### 1,800 வைத்தியர்கள் நாட்டை விட்டு வெளியேறினார்
+### 1,800 doctors left the country
 
 *2024-04-21 05:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-800-வைத்தியர்கள்-நாட்டை-விட்டு-வெளியேறினார்/175-336118) · `ta`
 
-கடந்த இரண்டு வருடங்களுக்குள் 1,800 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளனர் என்று அரச மருத்துவ அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+1,800 doctors left the country in 2 years, with over 300 specialists departing. The State Medical Officers Association urged immediate government action.
 
-அந்தச் சங்கத்தின் பேச்சாளர் சமில் விஜேசிங்க இந்த விடயத்தை நேற்று ஊடகங்களிடம் குறிப்பிட்டுள்ளார்.
+🟩
 
-குறித்த காலப்பகுதியில் சுமார் 300 இற்கும் மேற்பட்ட விசேட வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளனர் என்றும் அவர் கூறியுள்ளார்.
+The State Medical Officers Association has said that 1,800 doctors have left the country over the past two years.
 
-இதனைக் கட்டுப்படுத்துவதற்கு அரசு உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். (a)
+The spokesman for the association, Samil Wijesinghe, told the media yesterday.
+
+He said more than 300 special doctors have left the country during the time.
+
+He also urged the government to take immediate action to control this. (A)
 
 ◼️
 
 [Data](articles/1b16f75a.json)
+
+[Extended Data](ext_articles/1b16f75a.ext.json)
 
 ---
 
@@ -914,19 +942,25 @@ Colombo-based economist Talal Rafi explained that with Sri Lanka still in defaul
 
 ---
 
-### හික්කඩුව ශීඝ්‍රගාමී දුම්රියෙන් රුපියල් කෝටියකට අධික විදුලි රැහැන් කපලා
+### More than Rs.
 
 *2024-04-20 17:08:48* · [`adalk`](https://www.ada.lk/breaking_news/හික්කඩුව-ශීඝ්‍රගාමී-දුම්රියෙන්-රුපියල්-කෝටියකට-අධික-විදුලි-රැහැන්-කපලා/11-409169) · `si`
 
-කොළඹ සිට හික්කඩුව දුම්රිය ස්ථානය වෙත පැමිණ එහි නවතා තිබූ  ශීඝ්‍රගාමී දුම්රියෙන් රුපියල් කෝටියකට අධික විදුලි රැහැන් බ්‍රහස්පතින්දා අලුයම සොරකම් කර ඇති බව දුම්රිය ආරක්ෂක බළකාය භාර නියෝජ්‍ය අධිකාරී ජී.ඩබ්ලිව්. සුමිත් මහතා පැවසුවේය.
+Deputy Superintendent of Railway Security Forces' equipment stolen from Colombo to Hikkaduwa Railway Station, suspected of being a well-planned theft by familiar individuals knowledgeable in electrical circuits. Galle Police Criminal Investigation Division is investigating.
 
-මෙය හොඳින් සැලසුම්කර සිදුකරන ලද සොරකමක් බවත් විදුලි පරිපථ පිළිබඳ මනා අවබෝධයක් ඇති  හුරුපුරුදු පුද්ගලයින් විසින් මෙය සිදුකර ඇති බවට බලධාරීන් සැක පළ කරයි.
+🟩
 
-මෙම සිද්ධිය සම්බන්ධයෙන් ගාල්ල පොලීසියේ අපරාධ විමර්ශන අංශය මේ වන විට පුළුල් පරීක්ෂණයක් ආරම්භ කර ඇත.
+Deputy Superintendent of Railway Security Forces have been stolen from Colombo to Hikkaduwa Railway Station and stopped Rs.. Mr. Sumith said.
+
+The authorities suspicles that this is a well-planned steal and has done this by the familiar people who are well aware of electrical circuits.
+
+The Galle Police Criminal Investigation Division has launched an extensive investigation into the incident.
 
 ◼️
 
 [Data](articles/e922d6b1.json)
+
+[Extended Data](ext_articles/e922d6b1.ext.json)
 
 ---
 
@@ -2197,31 +2231,5 @@ The bondholders held talks with various political leaders including from the opp
 [Data](articles/f7c64978.json)
 
 [Extended Data](ext_articles/f7c64978.ext.json)
-
----
-
-### World married queen goes to Thusha 3
-
-*2024-04-20 08:31:37* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-විවාහක-රූ-රැජින-තරගාවලියට-ලංකාවෙන-තුෂාරි-යයි/11-409166) · `si`
-
-Ms. Thushari Jayakody, a Sri Lankan married queen and mother of three, left for the US tournament on 4/25, representing Sri Lanka among 33 countries.
-
-🟩
-
-Ms. Thushara Jayakody left the Katunayake airport for the participation of Sri Lanka for the tournament in the event.
-
-The tournament will be held from the 420/21 of the United States to participate in the participation of 33 countries from 33 countries from 4/25.
-
-Ms. Thushari Jayakody was eligible for the competition of the Sri Lankan couple queen of the Sri Lankan married queen.
-
-Ms. Thushari Jayakody is a mother of three residents of Negombo and she is serving as a maid of the Malaysian airline.
-
-She was told to participate in the tournament at the Katunayake airport, Qatar, Katunayake at the Katunayake airport.
-
-◼️
-
-[Data](articles/b6ecfdb9.json)
-
-[Extended Data](ext_articles/b6ecfdb9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 00:49:00**
+As of **2024-04-22 01:03:30**
 
 ## Newspaper Stats
 
-*Scraped **20,095** Articles*
+*Scraped **20,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 210
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
-dailyftlk | 1,102
+dailyftlk | 1,103
 economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,092 (100.0%) of 20,095 articles have been extended.
+20,095 (100.0%) of 20,096 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ The recently concluded mid-year meetings of the International Monetary Fund (IMF
 
 [Data](articles/acb9c14e.json)
 
+[Extended Data](ext_articles/acb9c14e.ext.json)
+
 ---
 
 ### Pavitra oversees preparations to open Uma Oya project on Wednesday
@@ -70,9 +72,25 @@ Under the leadership of President Ranil Wickremesinghe and President of Iran Ibr
 
 [Data](articles/fb51273a.json)
 
+[Extended Data](ext_articles/fb51273a.ext.json)
+
 ---
 
 ### 2024-04-21 (Sunday)
+
+### Reforming education: Target for creative capital and not for mere human capital
+
+*2024-04-21 23:56:18* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-education-Target-for-creative-capital-and-not-for-mere-human-capital/4-760848) · `en`
+
+The education system in the country has got into a vicious circle of ignorance
+
+One of the objectives of the National Education Policy Framework of Sri Lanka for 2023-33, released by the Ministry of Education, has been to ‘create citizens who are productive, innovative, and informed with a civic consciousness’1. To attain this goal, the method of delivery will be changed to an interactive process where teaching and learning will be combined in a digitally enabled environment facilitating a holistic engagement of students and teachers. The emphasis of the framework seems to be on the quality of education. This is a move in the correct direction in reforming the country’s education system. This article will provide some inputs to this move which the policymakers can consider when reform programs are suggested.
+
+...
+
+[Data](articles/1a7e9a39.json)
+
+---
 
 ### Sri Lanka-China research vessel saga and maritime diplomacy in Indian Ocean
 
@@ -83,6 +101,8 @@ China, a maritime power in the South China Sea and the Indian Ocean in the 14th 
 ...
 
 [Data](articles/140d4e5e.json)
+
+[Extended Data](ext_articles/140d4e5e.ext.json)
 
 ---
 
@@ -2257,27 +2277,5 @@ The accident had occurred when the three-wheeler was traveling from Elpitiya to 
 [Data](articles/26a8b0c2.json)
 
 [Extended Data](ext_articles/26a8b0c2.ext.json)
-
----
-
-### Credit for public servants prosper
-
-*2024-04-21 09:23:35* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ටත්-සමෘද්ධියෙන්-ණය/11-409177) · `si`
-
-The Samurdhi Development Department's scheme offers loans for savings deposits exclusively to low-income earners under 60, aiding pensioners.
-
-🟩
-
-The Samurdhi Development Department says that the Samurdhi Development Department (Samurdhi Community) Scheme has been implemented to provide loans for the savings deposits and facilitate the loans of savings deposits only to the low income earners.
-
-Under this Credit Scheme under this loan scheme, under the age of 60 years of age and retireing the pension ownership, under the age of 60, is under the age of 60 and retirement is under this loan scheme under this loan scheme.
-
-The Samurdhi Development Department states that loans from Rs.
-
-◼️
-
-[Data](articles/eaffba5f.json)
-
-[Extended Data](ext_articles/eaffba5f.ext.json)
 
 ---

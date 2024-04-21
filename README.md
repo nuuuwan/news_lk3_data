@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 16:18:29**
+As of **2024-04-21 16:33:40**
 
 ## Newspaper Stats
 
-*Scraped **20,038** Articles*
+*Scraped **20,047** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 172
+colombotelegraphcom | 174
 bbccomsinhala | 209
 dbsjeyarajcom | 218
 newsfirstlk | 363
@@ -16,29 +16,119 @@ islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,667
-tamilmirrorlk | 2,311
+tamilmirrorlk | 2,315
 adaderanalk | 2,402
 virakesarilk | 2,987
-dailymirrorlk | 3,123
-adaderanasinhalalk | 3,259
+dailymirrorlk | 3,125
+adaderanasinhalalk | 3,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,038 (100.0%) of 20,038 articles have been extended.
+20,038 (100.0%) of 20,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
+### ”ஜனாதிபதி ஏற்கனவே தெரிவாகிவிட்டார்”
+
+*2024-04-21 16:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஏற்கனவே-தெரிவாகிவிட்டார்/175-336139) · `ta`
+
+அரசியல்வாதிகளால் விநியோகிக்கப்படும் பொருட்களுக்கு நன்றி செலுத்தும் வகையில் மக்கள் வாக்களிக்க மாட்டார்கள் என்று கூறிய அமைச்சர் பிரசன்ன ரணதுங்க, பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்கும் வகையில் ரணில் விக்ரமசிங்கவை ஜனாதிபதியாக மக்கள் ஏற்கனவே தெரிவு செய்துள்ளதாக தெரிவித்தார்.
+
+களனியில் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கும் நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அமைச்சர் இதனை தெரிவித்தார்.
+
+கேள்வி ஒன்றுக்கு பதிலளித்த அவர், தேர்தலை இலக்கு வைத்து அரிசி விநியோகம் செய்யவில்லை என்றும், பல்வேறு அரசியல் சித்தாந்தங்களை கொண்டவர்கள் இந்த திட்டத்தால் பயனடைவதாகவும் தெரிவித்தார்.
+
+"நாங்கள் தேர்தலை இலக்கு வைத்து இதை செய்யவில்லை. பல்வேறு அரசியல் சித்தாந்தங்களை கொண்டவர்கள் இங்கு உள்ளனர். பொருட்கள் விநியோகம் செய்யப்பட்டாலும் மக்கள் வாக்களிக்க மாட்டார்கள்.நாட்டை பொருளாதார நெருக்கடியில் இருந்து மீட்க அவரால் தான் முடியும் என்பதால் மக்கள் ஏற்கனவே ரணில் விக்ரமசிங்கவை தேர்ந்தெடுத்து விட்டனர்” என அவர் கூறினார்.
+
+◼️
+
+[Data](articles/5415d12f.json)
+
+---
+
+### ජපානයේ බිහිසුණු අනතුරක්
+
+*2024-04-21 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195839) · `si`
+
+ජපානයේ හමුදා හෙලිකොප්ටර් යානා දෙකක් අනතුරට ලක්වීමෙන් එක් අයෙකු මියගොස් තවත් 07 දෙනෙකු අතුරුදන්ව තිබේ.
+
+ඉෂූ දූපත් ප්‍රදේශ ආශ්‍රිත පැසිෆික් මුහුදේ සබ්මැරීන් නිරීක්ෂණය සම්බන්ධ පුහුණු අභ්‍යාසයක නිරත වෙමින් සිටියදී මෙම අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අනතුරින් මියගිය එක් හමුදා සාමාජිකයෙකුගේ මළ සිරුරක් සොයාගෙන ඇති අතර සෙසු පිරිස් සොයා මෙහෙයුම් ක්‍රියාත්මක බව ජපාන බලධාරීන් සඳහන් කර තිබේ.
+
+අනතුරට හේතුව මෙතෙක් නිශ්චිතව අනාවරණය වී නොමැති නමුත් හෙලිකොප්ටර් යානා දෙක එකිනෙක ගැටී කඩා වැටෙන්නට ඇති බවට සැක පළකරයි.
+
+◼️
+
+[Data](articles/8ae9ca72.json)
+
+---
+
+### ​Five dead, dozens injured in racing event accident in Diyatalawa
+
+*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Five-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
+
+The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of five individuals and leaving 21 others hospitalized with injuries.
+
+According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
+
+The injured have been admitted to the Diyatalawa Base Hospital.
+
+◼️
+
+[Data](articles/18266627.json)
+
+---
+
+### ’’Foxhill’’ கார் பந்தையம்: ஐவர் பலி
+
+*2024-04-21 16:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/Foxhill-கார்-பந்தையம்-ஐவர்-பலி/150-336138) · `ta`
+
+தியத்தலாவ நரியகந்த, "Foxhill" கார் மற்றும் மோட்டார் சைக்கிள் பந்தயம் இன்று (21) இடம்பெற்றதுடன்,   பந்தயத்தின் போது கார் ஒன்று பாதையை விட்டு விலகி விபத்துக்குள்ளானதில் பந்தயத்தை பார்த்துக்கொண்டிருந்த ஐவர் உயிரிழந்துள்ளனர்.
+
+விபத்தில் மேலும் 21 பேர் காயமடைந்து தியத்தலாவ ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தியத்தலாவை பொலிஸார் தெரிவித்தனர்.
+
+கார் ஒன்று விபத்துக்குள்ளானதை அடுத்து, அதனைப் பார்க்க முன்வந்த சிலர் மீது பின்னால் சென்ற மற்றுமொரு கார் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/e88eb55d.json)
+
+---
+
+### சு.க தலைமையகத்தில் பதற்றம் (காணொளி)
+
+*2024-04-21 15:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-தலைமையகத்தில்-பதற்றம்-காணொளி/175-336137) · `ta`
+
+கொழும்பு 10, டார்லி வீதியிலுள்ள ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) தலைமையகத்திற்கு வெளியே, கட்சிக் கட்டிடத்திற்குள் நுழைய முற்பட்ட குழு ஒன்று பொலிஸாரின் எதிர்ப்பை எதிர்கொண்டதால், பதற்றமான நிலை ஏற்பட்டது.
+
+அதிகாரிகள் நுழைய விடாமல் தடுத்ததால் பரபரப்பு ஏற்பட்டதுடன், அப்பகுதியில் பதட்டமான சூழல் நிலவியது.
+
+இந்நிலையையடுத்து, நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக கட்சியின் ஒரு பிரிவினரால் நியமிக்கப்பட்டதுடன், கட்சிக்குள் நடந்து வரும் அபிவிருத்திகள் மீதான ஊகங்கள் அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/86b5f39e.json)
+
+---
+
 ### Five killed, 21 injured in accident during ‘Fox Hill Super Cross’
 
 *2024-04-21 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98759/five-killed-21-injured-in-accident-during-fox-hill-super-cross-) · `en`
 
+UPDATE: Another person who was injured and hospitalized following the accident during the “Fox Hill Super Cross 2024” racing event has succumbed to his injuries, Police Media Spokesman DIG Nihal Thalduwa confirmed.
+
+Accordingly, the death toll from the tragic incident climbs to 06 with this.
+
 Five persons have been killed following an accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa.
 
 Meanwhile, another 21 individuals who sustained injuries in the incident have also been hospitalized, Police Media Spokesperson DIG Nihal Thalduwa said.
+
+He said that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
 
 The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Military Academy Diyatalawa with the support of Sri Lanka Automobile Sports (SLAS) kicked off at Diyatalawa on Sunday (21).
 
@@ -47,6 +137,46 @@ The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Mi
 [Data](articles/08f8f9ab.json)
 
 [Extended Data](ext_articles/08f8f9ab.ext.json)
+
+---
+
+### Gold prices surge to all-time high
+
+*2024-04-21 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-prices-surge-to-all-time-high/108-281088) · `en`
+
+Gold prices across the globe are surging at all-time high prices amid escalating geopolitical tensions in the Middle East.
+
+According to the London Stock Exchange Group (LSEG), spot gold prices reached US$ 2,431.29 per Troy ounce -the highest rate ever recorded for the metal on Friday, April 12.
+
+According to Gold Alliance, the highest price of gold ever recorded was US$ 2,152 on 3 December 2023. However, adjusted for inflation, gold reached its highest in 1980 with an inflation-adjusted price of US$ 2,429.84.
+
+Last week's Friday (April 19) saw prices reaching US$ 2,417.59 after Israel retaliated with an airstrike attack, a day before.
+
+Analysts predict rates could surpass US$ 2,500 by the year if the geopolitical developments continue.
+
+According to Everett Millman, a chief market analyst of Gainesville Coins in the US, as quoted by Reuters, the natural response by investors is to flee to gold when there are geopolitical tensions like in the present.
+
+...
+
+[Data](articles/8a3e3c31.json)
+
+---
+
+### ‛‛வாசுகி’’ கண்டுப்பிடிப்பு
+
+*2024-04-21 15:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாசுகி-கண்டுப்பிடிப்பு/175-336136) · `ta`
+
+பல்வேறு நாடுகளில் தொல்பொருள் ஆய்வுகள் நடத்தப்பட்டு வருகின்றன. இந்த ஆய்வில் முன்னோர்களின் வாழ்க்கை முறை, அவர்களின் பழக்க வழக்கங்கள் குறித்த பல்வேறு அரிய தகவல்கள் வெளியாகி வியப்பை ஏற்படுத்தி வருகின்றன.
+
+உலகிலேயே மிகவும் நீளமான அதிக உடல் பருமனான பாம்புகளில் ஒன்றான ‛‛வாசுகி’’ இந்தியாவின் குஜராத் மாநிலம் கட்ச் பகுதியில் வாழ்ந்திருப்பதை ஆய்வாளர்கள் கண்டுபிடித்துள்ளனர். இந்த பாம்பு 4 கோடியே 70 லட்சம் கோடி ஆண்டுக்கு முன்பு இருந்ததாக ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+
+அந்த வகையில் குஜராத் மாநிலம் கட்ச் பகுதியில் பானந்த்ரோ லிக்னைட் சுரங்கத்தில் இருந்து கடந்த 2005ம் ஆண்டு சில எலும்புகள் புதை படிமங்களாக கிடைத்தன.
+
+இதன்​போது முன்காலத்தில் வாழ்ந்த ராட்சத முதலை இறந்து பூமிக்கடியில் புதைந்து இருக்கலாம் எனவும், அதன் எலும்புகள் தான் புதை படிமங்களாக இப்போது கிடைத்துள்ளதாகவும் கூறப்பட்டது. இருப்பினும் அந்த எலும்புகள் முதலைக்குரியது தான் என்பது உறுதி செய்யப்படவில்லை. மேலும் அந்த புதைப்படிம எலும்புகள் ஆய்வுக்காக சேகரிக்கப்பட்டன. அந்த எலும்புகள் எந்த உயிரினத்துக்கானது என்பது பற்றிய ஆய்வு தொடங்கப்பட்டது.
+
+...
+
+[Data](articles/51f99620.json)
 
 ---
 
@@ -885,6 +1015,30 @@ It is noteworthy that the Hazet al -Chafi organization, which was created to fig
 [Data](articles/cca66664.json)
 
 [Extended Data](ext_articles/cca66664.ext.json)
+
+---
+
+### Colonial Legacies: Cultural Imperialism & The Fracturing Of Ethnic Identities
+
+*2024-04-21 10:24:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/colonial-legacies-cultural-imperialism-the-fracturing-of-ethnic-identities/) · `en`
+
+Cultural imperialism evolved from the concept of using cultural domination as a means of political and economic control. The idea behind cultural imperialism is that a powerful group, often a colonial power or dominant nation, imposes its cultural values, beliefs, and practices on a less powerful group or nation. This imposition is not just about spreading culture but is often a deliberate strategy to exert influence, control resources, and maintain dominance. It was a tool used to weaken the cultural identity and unity of colonized peoples. By imposing the culture, language, and values of the colonizers, the colonized were often made to feel inferior or backward, which reinforced the power dynamics of colonial rule.
+
+...
+
+[Data](articles/e26185c8.json)
+
+---
+
+### On The Issue Of The Failure To Obtain Justice For The Victims Of The Easter Sunday Massacre
+
+*2024-04-21 10:02:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-the-issue-of-the-failure-to-obtain-justice-for-the-victims-of-the-easter-sunday-massacre/) · `en`
+
+An Open Letter from the Asian Human Rights Commission to Open Letter to H. E. the Cardinal Malcom Ranjith and all the members of the Catholic Bishops’ conference in Sri Lanka
+
+...
+
+[Data](articles/66591bb3.json)
 
 ---
 
@@ -1997,223 +2151,5 @@ The Perahera is the Kochchukade Shrine to the Mattakkuliya Bridge, Wattala Junct
 [Data](articles/1d266687.json)
 
 [Extended Data](ext_articles/1d266687.ext.json)
-
----
-
-### The Grand Old Man of Karlsruhe Hill
-
-*2024-04-20 21:28:00* · [`islandlk`](http://island.lk/the-grand-old-man-of-karlsruhe-hill/) · `en`
-
-It has been said “Man can go to the moon and travel at the speed of sound but only God can make a tree”.
-
-Driving along the busy Baseline Road, when one sees the elegant sweep of the buildings at Wesley College one cannot miss the imposing and dignified Tamarind tree in the foreground. It is an emblem of Karlsruhe hill and has now become a local landmark. Tall and imposing this Tamarind tree has a legendary status. It is a stunningly beautiful tree in splendid isolation, framed by an even more beautiful background of the handsome school buildings.
-
-...
-
-[Data](articles/c0f2431a.json)
-
-[Extended Data](ext_articles/c0f2431a.ext.json)
-
----
-
-### SriLankan Air Europe flight times extended, payloads cut amid Israel-Iran attacks
-
-*2024-04-20 21:16:00* · [`economynextcom`](https://economynext.com/srilankan-air-europe-flight-times-extended-payloads-cut-amid-israel-iran-attacks-159503/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines said flights to Europe was departing one hour earlier and payloads have been trimmed, as an ongoing tensions between Israel and Iran force the airline was forced to take longer routes.
-
-There have been tit-for-tat drone and missile exchanges between Iran and Israel in recent days.
-
-“These changes mean that flight times to Europe are extended, requiring additional fuel and reducing the available payload,” the airline said.
-
-“Further, to meet slot times in London, these flights are being advanced by one hour.
-
-“As a result, unfortunately, some passengers on the London flights have missed connections or been offloaded.
-
-“The airline will maintain this routing and the earlier departure time to London for the next few days whilst it monitors the situation.”
-
-Passengers who have missed flights due to early departure are being given alternative flights and hotel accommodation.
-
-...
-
-[Data](articles/1bd61f84.json)
-
-[Extended Data](ext_articles/1bd61f84.ext.json)
-
----
-
-### Nagallangam, who won historical gold medal
-
-*2024-04-20 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195820) · `si`
-
-Nagalingam Edirivasingham, Sri Lanka's first Asian Games gold medalist, won the gold in the high jump at Tokyo 1958. He passed away at 89, living in America.
-
-🟩
-
-Nagalingam Edirivasingham has passed the first gold medal in Sri Lanka in the Asian Games.
-
-Sri Lanka won the gold medal by the tall jump event at Tokyo 1958 in Tokyo.
-
-He was 89 years old at the time of his death and died when he died, and he was living in America.
-
-◼️
-
-[Data](articles/fabce247.json)
-
-[Extended Data](ext_articles/fabce247.ext.json)
-
----
-
-### Lanka Sathosa to import 2,000 MT of big onions
-
-*2024-04-20 20:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98747/lanka-sathosa-to-import-2000-mt-of-big-onions-) · `en`
-
-Sri Lanka has decided to import big onions from India through Lanka Sathosa.
-
-India recently decided to send a stock of 10,000 metric tonnes of onion to Sri Lanka after lifting the export ban on onions for the island nation, under Prime Minister Narendra Modi government’s ‘Neighbourhood First Policy’.
-
-Accordingly, discussions were held at the Ministry of Trade whether to carry out the big onion imports through state or private sector and it was decided to import onions through Lanka Sathosa.
-
-When inquired by Ada Derana, Chairman of Lanka Sathosa Pasanda Yapa Abeywardena said that 2,000 metric tonnes of big onions would be imported as the initial stock.
-
-Nevertheless, Minister of Trade Nalin Fernando emphasized that the monthly big onions requirement of Sri Lanka is around 20,000 metric tonnes.
-
-◼️
-
-[Data](articles/f1087fa2.json)
-
-[Extended Data](ext_articles/f1087fa2.ext.json)
-
----
-
-### Sirisena clashes Sirisena team
-
-*2024-04-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195819) · `si`
-
-Maithripala Sirisena's team clashed, with UNP's Duminda Dissanayake defending the legality of a meeting chaired by Sirisena, held in a public hotel. Sirisena, UNP's national organizer, and Treasurer Lasantha Alagiyawanna protested against claims it was not legal.
-
-🟩
-
-The team of acting chairman Maithripala Sirisena was the team of acting chairman Maithripala Sirisena.
-
-The UNP's national organizer Duminda Dissanayake said that the meeting was legal at the chaired by Party Secretariat.
-
-Chairman Maithripala Sirisena had summoned a political bokering meeting today in the crisis situation in the Sri Lanka Freedom Party.
-
-It was reported that the meeting was convened at a public hotel in the Jayewardenepura area under the patronage of the party's secretariat.
-
-However, the Treasurer Lasantha Alagiyawanna and National Organizer Duminda Dissanayake were also protesting against the claim that it was not a legal meeting.
-
-◼️
-
-[Data](articles/0e38d2b5.json)
-
-[Extended Data](ext_articles/0e38d2b5.ext.json)
-
----
-
-### Detention orders issued on Naval Officers caught with ‘ICE’
-
-*2024-04-20 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Detention-orders-issued-on-Naval-Officers-caught-with-ICE/108-281075) · `en`
-
-Colombo, April 20 (Daily Mirror) - Following the apprehension of four individuals, including two Sri Lanka Navy Lieutenant Commanders, in possession of a significant quantity of crystal methamphetamine, commonly known as 'ICE,' the Hulftsdorp Magistrate’s Court issued detention orders on them.
-
-The order mandates the detention of the suspects till April 26 for further interrogation.
-
-The arrests stem from a recent operation conducted by officers of the Mulleriyawa Police, who seized 510 grams of 'Ice' from the possession of the four individuals.
-
-The confiscated narcotics are valued at approximately Rs. 7.5 million.
-
-◼️
-
-[Data](articles/d62e6496.json)
-
-[Extended Data](ext_articles/d62e6496.ext.json)
-
----
-
-### Sudden security program for the WPC
-
-*2024-04-20 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195818) · `si`
-
-The Western Province will launch a new security program on May 1st, aiming to combat crime. Police are training under IGP Tennakoon's guidance. Crimes have risen by 25 stations in the past 3 years, with 846 gold thefts, 12,125 houses, and 1,748 vehicles reported. The SSP has ordered 60% of police officers to be deployed, starting with bicycles and T-56 rifles. 20 teams will suppress crime, with the IGP and 360 criminals targeted. 100 police officers have received special training with STF. CCTV surveillance will be expanded to 2,000 cameras in Colombo and private homes.
-
-🟩
-
-A new security program for crime repression in the Western Province will be implemented from the first on May 1st September.
-
-Police Headquarters said that the special police teams are still training on the instructions of IGP Deshabandu Tennakoon.
-
-The police have revealed that the crimes have increased by 25 police stations in the Western Province in the past 3 years.
-
-In the past year, 846 gold plunders, 12,125 houses and 1,748 vehicles have been reported.
-
-Accordingly, Senior Superintendent of Police (SSP) has instructed the SSP to use 60% of police officers.
-
-As a first step, the police officers in the Western Province are to be visited in the Western Province with bicycles, T-56 riffles.
-
-In addition to the 20 police teams deployed for underworld suppression, the IGP will be deployed in the future.
-
-It is reported that the group of nearly 360 criminal members will be instructed to arrest them.
-
-Meanwhile, another 100 police team policemen have already used special training with STF personnel.
-
-...
-
-[Data](articles/e5f1c16a.json)
-
-[Extended Data](ext_articles/e5f1c16a.ext.json)
-
----
-
-### The youth who jumped from the Mount Sri Pada
-
-*2024-04-20 19:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஸ்ரீ-பாத-மலையில்-இருந்து-குதித்த-இளைஞன்-மாயம்/76-336114) · `ta`
-
-A 33-year-old man from Surveva, Dinesh Hemantha, jumped from Mount Sri Pada, leaving two women companions. Soldiers from Lakshapana Army Camp are searching for him.
-
-🟩
-
-The young man who descended from Sri Pada Mallu via Ratnapura has jumped down from the security fence, Nallathanni police said.
-
-Dinesh Hemantha (33), who lives in Surveva area in Hambantota, jumped down and disappeared.
-
-The young man (19) has come to Sri Pada Mountain with two more women from Suryawewa area.
-
-Soldiers of the Lakshapana Army Camp have launched their first operation on Saturday morning (20) at the Sri Pada Body Sanctuary to find the young man who jumped out of the body of Sri Pada.
-
-Two women who came with the young man told good police that the young man was unconscious before jumping down.
-
-His relatives have lodged a complaint with the Siripagama police at Sri Pad Road, Ratnapura.
-
-◼️
-
-[Data](articles/f295fdfc.json)
-
-[Extended Data](ext_articles/f295fdfc.ext.json)
-
----
-
-### Death in the sun
-
-*2024-04-20 19:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வெயிலில்-மயங்கி-ஒருவர்-மரணம்/75-336113) · `ta`
-
-A man, Suriyamoorthy Sudhakaran, 52, died in a large space pond in Muttur, Trincomalee, on Saturday. His body is at Muttur Hospital, awaiting anatomical examination at Trincomalee Hospital. The cause may be heat-related, suggesting the importance of avoiding sun exposure during peak hours.
-
-🟩
-
-The incident took place on Saturday afternoon (20) after the death of a man who was working in a large space pond in the Muttur police division of Trincomalee.
-
-Suriyamoorthy Sudhakaran (age 52), father of 3 children living in the village of Muttur - Palatadichenai, died.
-
-It was reported that the field was in the field on Saturday (20) in the field of a large space pond.. The body of the deceased has been placed at the Muttur Hospital and is to be sent to the Trincomalee Hospital for anatomical examination, hospital sources said.
-
-The public has said that the incident may have occurred due to the prevailing heat in the country and that those who stand in the sun can protect themselves by avoiding working at the peak of the sun.
-
-◼️
-
-[Data](articles/4f64d3a7.json)
-
-[Extended Data](ext_articles/4f64d3a7.ext.json)
 
 ---

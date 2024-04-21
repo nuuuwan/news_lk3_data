@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 23:35:16**
+As of **2024-04-21 23:52:55**
 
 ## Newspaper Stats
 
-*Scraped **20,091** Articles*
+*Scraped **20,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
-economynextcom | 1,145
+economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,091 (100.0%) of 20,091 articles have been extended.
+20,091 (100.0%) of 20,092 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -251,6 +251,26 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 [Data](articles/2f30a49d.json)
 
 [Extended Data](ext_articles/2f30a49d.ext.json)
+
+---
+
+### Sri Lanka motor racing crash claims 7 lives, 4 critical
+
+*2024-04-21 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-motor-racing-crash-claims-7-lives-4-critical-159627/) · `en`
+
+ECONOMYNEXT – A deadly accident at motor Race Sri Lanka’s hill country town of Diyathalawa has claimed at least 7 lives police said, after a racing vehicle, in the seasonal Fox Hill Super Cross ploughed in to spectators after running off the track.
+
+Another 21 spectators were injured Sunday, and hospitalized and at least four were critical, police said.
+
+Thousands of people come to watch the Fox Hill Super Cross race, which is usually held in April, as large numbers of people head to the cooler climes in the hills.
+
+According to footage taken by spectators one car overturned on the side of the track.
+
+Sri Lanka’s Newsfirst television said Marshalls were waving flags to caution other vehicles, when another car went off the track and crashed into spectators. (Colombo/April21/2024)
+
+◼️
+
+[Data](articles/ba47c678.json)
 
 ---
 
@@ -2257,25 +2277,5 @@ This committee will make a list of the essential and indispensable vehicles for 
 [Data](articles/17060077.json)
 
 [Extended Data](ext_articles/17060077.ext.json)
-
----
-
-### Expect increase in dollar reserves, rupee value for vehicle imports: Siyambalapitiya
-
-*2024-04-21 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expect-increase-in-dollar-reserves-rupee-value-for-vehicle-imports-Siyambalapitiya/108-281077) · `en`
-
-Colombo, April 21 (Daily Mirror) - The gradual increase in dollar reserves and the rise in the value of the rupee expected in the future will enable the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing a meeting in the Ruwanwella area, he said the committee appointed to carry out a high-level study to systematically remove restrictions on the import of vehicles is currently active.
-
-Due to the economic crisis in the country, import restrictions were imposed on between 1,500 and 2,000 items, but due to the gradual recovery of the economy, these restrictions are now only effective on the import of vehicles.
-
-This committee will make a list of the essential and indispensable vehicles for the country and accordingly these activities will be done in the future.
-
-...
-
-[Data](articles/d64739be.json)
-
-[Extended Data](ext_articles/d64739be.ext.json)
 
 ---

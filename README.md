@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 10:33:45**
+As of **2024-04-21 10:51:36**
 
 ## Newspaper Stats
 
-*Scraped **19,987** Articles*
+*Scraped **19,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,143
-adalk | 1,658
+adalk | 1,659
 tamilmirrorlk | 2,305
-adaderanalk | 2,394
+adaderanalk | 2,395
 virakesarilk | 2,984
 dailymirrorlk | 3,114
 adaderanasinhalalk | 3,248
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,986 (100.0%) of 19,987 articles have been extended.
+19,987 (100.0%) of 19,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### IMF praises Sri Lanka for economic progress on sidelines of Spring Meetings 2024
+
+*2024-04-21 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98751/imf-praises-sri-lanka-for-economic-progress-on-sidelines-of-spring-meetings-2024) · `en`
+
+The IMF’s (International Monetary Fund) First Deputy Managing Director, Gita Gopinath has congratulated the Sri Lankan authorities on the steady progress made on several fronts, including inflation reduction, revenue enhancement and governance reforms.
+
+This remark was made when State Minister of Finance Shehan Semasinghe had bilateral discussion with Ms. Gopinath on the sidelines of the IMF and World Bank Group Spring Meetings 2024, held in Washington D.C.
+
+Posting on X, Semasinghe said that she emphasised the need to ensure the reform momentum is maintained.
+
+He further pointed out the close collaboration between Sri Lanka and the IMF was key in transforming the economy, and the country is now reaping results from the well-crafted policies and reforms implemented.
+
+Semasinghe also appreciated the IMF’s efforts to assist countries in debt distress, particularly leadership extended to the Global Sovereign Debt Roundtable.
+
+◼️
+
+[Data](articles/9bd5638c.json)
+
+---
 
 ### Sri Lanka marks 5 years since deadly Easter Sunday attacks
 
@@ -47,6 +67,24 @@ Sri Lanka was left devastated on April 21, 2019 after a group of suicide attacke
 [Data](articles/212e11b0.json)
 
 [Extended Data](ext_articles/212e11b0.ext.json)
+
+---
+
+### සීයා, මිණිපිරිය හා මුණපුරා අනතුරින් මරුට
+
+*2024-04-21 09:32:19* · [`adalk`](https://www.ada.lk/breaking_news/සීයා--මිණිපිරිය-හා-මුණපුරා-අනතුරින්-මරුට/11-409178) · `si`
+
+ඇල්පිටිය අවිත්තාව ප්‍රධාන මාර්ගයේ කැටපළ ක්‍රිස්තු දේවස්ථානය ඉදිරිපිටදී ඊයේ (20) සවස ත්‍රී රෝද රථයක් හා කැන්ටර් රථයක් මුහුණට මුහුණ ගැටීමෙන් එක් අයෙකු එතැනම මියගොස් ඇති අතර දෙදෙනෙක් කරාපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇතැයි ඇල්පිටිය පොලිසිය පවසයි.
+
+අනතුරෙන් තුවාල ලැබූ තවත් තිදෙනෙකු ඇල්පිටිය මූලික රෝහලේ සහ කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන බවද පොලිසිය කියයි.
+
+මෙම අනතුරෙන් මියගොස් ඇත්තේ ත්‍රීරෝද රථයේ රියදුරුවන ඇල්පිටිය,වල්ලඹගල, සුගතපාල මාවතේ පදිංචි කාලිංග නිහාල් සෝමරත්න නැමැති 68 හැවිරිදි තිදරු පියෙක් සහ ඔහුගේ (දියණියගේ පුතා සහ දුව )මුණුබුරා වන. තිනූල ප්‍රනාන්දු (10),මිණිබිරිය වන සෙනුලි ප්‍රනාන්දු (07), යන දරුවන් දෙදෙනායි.
+
+ත්‍රීරෝද රථයේ ගමන් කරමින් සිටි මියගිය රියදුරුගේ බිරිඳ වන මද්දගේ වයලට් ඉන්ද්‍රානී (61) ඔහුගේ දියණිය වන කාලිංග ජීවනී සෝමරත්න (35),යන දෙදෙනාද දැනට ගාල්ල කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන අතර ඔහුගේ මිණිබිරිය වන චතුනි කවිශා ප්‍රනාන්දු ((18) , ඇල්පිටිය මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+...
+
+[Data](articles/26a8b0c2.json)
 
 ---
 
@@ -659,6 +697,8 @@ I need not detail or even refer to most of what happened in 1970 and 71. ‘Kill
 ...
 
 [Data](articles/da493083.json)
+
+[Extended Data](ext_articles/da493083.ext.json)
 
 ---
 
@@ -2201,45 +2241,5 @@ The Ruhunu Maha Kataragam Dewalaya began a cultural dance event "The Rythms of S
 [Data](articles/629a05d7.json)
 
 [Extended Data](ext_articles/629a05d7.ext.json)
-
----
-
-### The argument ends with murder
-
-*2024-04-20 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195802) · `si`
-
-A heated argument between two friends led to murder. The suspect was arrested, and police are investigating further.
-
-🟩
-
-Police said that the attack had been carried out by a heated argument between two friends.
-
-The suspect was arrested and the Valachchehena Police are conducting further investigations.
-
-◼️
-
-[Data](articles/c71ff99b.json)
-
-[Extended Data](ext_articles/c71ff99b.ext.json)
-
----
-
-### Foreign Affairs Ministry to open Sri Lanka High Commission in Wellington
-
-*2024-04-20 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-Affairs-Ministry-to-open-Sri-Lanka-High-Commission-in-Wellington/108-281058) · `en`
-
-Colombo, April 20 (Daily Mirror) - The Foreign Affairs Ministry has decided to open a Sri Lanka High Commission in Wellington, New Zealand.
-
-Currently, Sri Lanka has a Consulate in Wellington and the establishment of this High Commissioner's office will be based on a decision taken by the Cabinet on a proposal presented by Foreign Affairs Minister Ali Sabri, during the first Cabinet meeting for 2024.
-
-The Foreign Affairs Ministry announced that a delegation led by the Director General of the Foreign Assets Management and Development Division will visit New Zealand on April 22 to examine the issue.
-
-Among the primary objectives of this is to develop cooperation between the two countries in the fields of trade, education, sports, science and technology, tourism and health.
-
-◼️
-
-[Data](articles/e1c8f9cd.json)
-
-[Extended Data](ext_articles/e1c8f9cd.ext.json)
 
 ---

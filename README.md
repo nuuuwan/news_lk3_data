@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 20:34:02**
+As of **2024-04-21 20:51:13**
 
 ## Newspaper Stats
 
-*Scraped **20,076** Articles*
+*Scraped **20,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,676
 tamilmirrorlk | 2,318
-adaderanalk | 2,406
+adaderanalk | 2,407
 virakesarilk | 2,990
 dailymirrorlk | 3,128
 adaderanasinhalalk | 3,265
@@ -26,37 +26,63 @@ adaderanasinhalalk | 3,265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,073 (100.0%) of 20,076 articles have been extended.
+20,076 (100.0%) of 20,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### දියතලාව බිහිසුණු ඛේදවාචකයේ නොදත් කතාව
+### United Nations pushes justice for Sri Lanka’s Easter victims
+
+*2024-04-21 20:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98763/united-nations-pushes-justice-for-sri-lankas-easter-victims) · `en`
+
+The United Nations on Sunday urged Sri Lanka to bridge its “accountability deficit” and ensure justice as the country commemorated the 279 victims of its worst-ever attack against civilians five years ago.
+
+The UN’s top envoy to the country, Marc-Andre Franche, told a remembrance service in Colombo that there should be a “thorough and transparent investigation” to uncover those behind the Easter carnage in 2019.
+
+Islamist bombers hit three churches and three hotels in the island’s deadliest suicide attack aimed at civilians, but grieving families say they are still waiting for justice.
+
+Among the dead were 45 foreigners, including tourists visiting the island a decade after the end of a brutal ethnic conflict that had claimed more than 100,000 lives since 1972.
+
+“Sri Lanka suffers from a continuing accountability deficit, be it for alleged war crimes, more recent human rights violations, corruption or abuse of power, which must be addressed if the country is to move forward,” Franche said.
+
+...
+
+[Data](articles/2f30a49d.json)
+
+---
+
+### Story not in Diyatalawa horrible tragedy
 
 *2024-04-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195844) · `si`
 
-දියතලාව ෆොක්ස් හිල් මෝටර් ධාවන තරගය අතුරතුර සිදුවූ අනතුරින් පුද්ගලයින් 7 දෙනෙකුට ජීවිත අහිමි විය.
+A tragic accident at the Diyatalawa Fox Hill Motor Racing on April 21, 2019, resulted in seven deaths and 23 injuries. The race was halted, and it was not held for five years. The accident occurred from the runway, with an eight-year-old girl among the fatalities.
 
-අනතුරින් තවත් පුද්ගලයින් 23 දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-2024 ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගාවලිය අද පෙරවරුවේ දියතලාව නරියාකන්ද ධාවන පථයේ දී ආරම්භ විය.
+Seven people lost their lives in danger of Diyatalawa Fox Hill Motor Racing.
 
-අවසන් වරට 2019 වර්ෂයේ අප්‍රේල් 21 වන දින මෙම ධාවන තරගාවලිය පවත්වා ඇති අතර පාස්කු ප්‍රහාරය හේතුවෙන් එම තරගය අතරමග නතර කිරීමට සිදුවිය.
+Another 23 persons were injured in the accident and hospitalized that the police said.
 
-ඒ අනුව වසර 5ක කාලයක් එම තරගාවලිය නොපැවැත්වුණු අතර මෙවර එම තරගාවලිය සඳහා විශාල ජනසහභාගීත්වයක් ද පැවැති බව වාර්තා විය.
+Diyatalawa foyshavation took place this morning at the forecasts of the Fox Hill Moraw.
 
-අද (21) පෙරවරුවේ ආරම්භ වු ධාවන තරගය පැවැත්වෙන අතරවාරයේ මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන මෙම අනතුර සිදුව තිබුණි.
+The race was held on 21st April 2019 and the event had to be stopped.
 
-අනතුරින් මියගිය පුද්ගලයින් 7 දෙනා අතර 8 හැවිරිදි දැරියක් ද වන බව පොලීසිය පැවසීය.
+Accordingly, the tournament was not held for a period of five years and this time it was reported to be a large number of people.
 
-ධාවන තරගයේ සහායකවරුන් 4 දෙනෙකු ද අනතුරින් මියගොස් ඇති බව සඳහන් වෙයි.
+The accident had occurred from the runway while the race was held this morning (21).
 
-මෙම අනතුරත් සමග ධාවන තරගාවලිය නතර කිරීමට පියවර ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+The eight-year-old girl was among the seven persons who died in the accident.
+
+Four assistants of the race were also killed in the accident.
+
+Attorney at Law, police spokesman, Nihal Talduuwa said that the race was stopped with the accident.
 
 ◼️
 
 [Data](articles/c60014f7.json)
+
+[Extended Data](ext_articles/c60014f7.ext.json)
 
 ---
 
@@ -146,21 +172,27 @@ Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
 
 ---
 
-### நாடாளுமன்ற உறுப்பினர் வேலு குமார் மீது தாக்குதல் முயற்சி
+### Attempting to attack MP Velu Kumar
 
 *2024-04-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181594) · `ta`
 
-கண்டி மாவட்ட நாடாளுமன்ற உறுப்பினர் வேலு குமார் மீது தாக்குதல் முயற்சி மேற்கொள்ளப்பட்டுள்ளதாக தமிழ் முற்போக்கு கூட்டணியின் ஊடக பிரிவு அறிக்கை ஒன்றை வௌியிட்டுள்ளது.
+The Tamil Progressive Alliance reported an attack on Velu Kumar, a Kandy district parliamentarian, after an event. The attackers were withdrawn.
 
-புசல்லாவை அருள்மிகு ஸ்ரீ மஹா கணபதி ஆலயத்தின் அடிக்கல் நாட்டு விழா ஞாயிற்றுக்கிழமை (21) காலை நடைப்பெற்றது.
+🟩
 
-அந்நிகழ்வின் பின்னர் தனது அடுத்த நிகழ்வுக்கு செல்ல முற்பட்டபோதே அவர் மீது இந்த தாக்குதல் முயற்சி மேற்கொள்ளப்பட்டுள்ளது..
+The Tamil Progressive Alliance's media unit has issued a statement saying that an attack on Kandy district parliamentarian Velu Kumar has been attacked.
 
-இதனையடுத்து மக்களின் கடும் எதிர்ப்பினால் தாக்குதல் மேற்கொள்ளவந்த நபர்கள் பின்வாங்கி சென்றதாக அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+The foundation stone laying ceremony of the Arulmigu Sri Maha Ganapathi Temple was held on Sunday morning (21).
+
+The attack was made on him as he tried to go to his next event after the event.
+
+The report further stated that the people who had been attacked by the people of the people were withdrawn.
 
 ◼️
 
 [Data](articles/c2a29c0e.json)
+
+[Extended Data](ext_articles/c2a29c0e.ext.json)
 
 ---
 
@@ -862,27 +894,39 @@ Gotabhaya Rajapaksa, who was primarily delegated in the election of the Parliame
 
 ---
 
-### 'Fox Hill Supercross 2024' ධාවන තරගය: දියතලාවේ දී සිදුවූ අනතුරට හේතුව කුමක්ද ?
+### 'Fox Hill SupercroS 2024' Running: Why?
 
 *2024-04-21 14:31:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4rnn129xzo) · `si`
 
-'Fox Hill Supercross 2024' ධාවන තරගය: දියතලාවේ දී සිදුවූ අනතුරට හේතුව කුමක්ද ?
+"Fox Hill SupercroS 2024" accident in Diyatalawa killed 20, wounded 20, including an 8-year-old girl. Army and police investigating.
 
-දියතලාව, නරියා කන්ද හිදී පැවති  "Fox Hill Supercross 2024" මෝටර් රථ ධාවන තරගය අතර වාරයේදී අද ( අප්‍රේල් මස 21 වෙනිදා) සිදුවූ අනතුරකින් පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් පුද්ගලයින් 20 දෙනෙකු තුවාල ලැබීය.
+🟩
 
-මියගිය පිරිස අතර වයස අවුරුදු 08ක පමණ දැරියක් ද සිටින බව යුද හමුදා මාධ්‍ය ප්‍රකාශක මේජර් ජෙනරාල් රසික කුමාර බීබීසී සිංහල සේවයට පැවසුවේය.
+'Fox Hill SupercroS 2024' Running: Why?
 
-"ෆොක්ස් හිල් ට්‍රැක් එක අයිති යුද හමුදාවට. මෙම ධාවන තරගය ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය විසින් සංවිධානය කරන්නේ."
+Several people were killed and 20 others were wounded in accident held in Diyatalawa area in Narea Mount.
 
-"අනතුරෙන් මිය ගිහින් ඉන්න පිරිස අතර තරගාවලියේ සේවයේ යෙදී සිටිය ට්‍රැක් මාෂල්ස්ලා සිව්දෙනකු වගේම නරඹන්නන් තිදෙනෙකුත් ඉන්නවා."
+Army Media Spokesperson Major General Rasika Gen. Kumara told the BBC that there was an eight-year-old girl between the deceased.
 
-"එයින් එක් අයෙකු අවුරුදු 08 ක පමණ දැරියක්" යුද හමුදා මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+"Army owned the fox hill trac. The race is organized by the Sri Lanka Automobile Sports Association. "
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව පැවසුවේ ධාවන තරගයක් අතර වාරයේදී මෝටර් රථයක් ධාවන මංතීරුවෙන් ඉවතට පැනීමෙන් මෙම අනතුර සිදුව ඇති බවයි.
+"Among the crash, there are four track masksters and three viewers."
+
+"One of them is an eight-year-old girl," Army Spokesperson said.
+
+Police Media Spokesperson DIG Nihal Thaltuwa said that the accident had occurred when a car racing a car run out of the running lane between a race.
+
+"The accident had collided with the tournament and a group of visitors who were working in the tournament."
+
+"There are about 20 people who were injured in the incident. Three of them are serious. "
+
+"The Diyatalawa Police have launched an investigation into the accident."Police spokesman said.
 
 ...
 
 [Data](articles/d54576c0.json)
+
+[Extended Data](ext_articles/d54576c0.ext.json)
 
 ---
 
@@ -2247,29 +2291,5 @@ The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a
 [Data](articles/03dac629.json)
 
 [Extended Data](ext_articles/03dac629.ext.json)
-
----
-
-### Will actor Gavin's salary further 'Star' ..!?
-
-*2024-04-21 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181528) · `ta`
-
-Actor Gavin's upcoming film 'Star', releasing on May 10th, is expected to boost his salary, following the success of 'Tata'. The film features Gavin, Aditi Pohankar, Preity Unnimukundan, and Geeta Kailasam, with music by K. Yuvan Shankar Raja. It's co-produced by PVSN Prasad and Srinidhi Sagar, and has been recorded by the government.
-
-🟩
-
-Actor Gavin's upcoming 'Star' will be released on May 10th, starring Gavin, who has raised his salary after the film 'Tata' which was released.'Star' will further raise the salary of actor Gavin.. !!The film will be sure after the release of the film.
-
-Gavin, Malayalam actor Aditi Pohankar, Bollywood actress Aditi Pohankar, Preity Unnimukundan, Geeta Kailasam. K. Yuvan Shankar Raja has composed the film, which has been recorded by the government. The film was co -produced by producers PVSN Prasad and Srinidhi Sagar on behalf of the film companies of Rice East Entertainment and Sri Venkateswara Cine Chitra.
-
-The first look of the film, the single track and the maketing video have been released. In this case, the film will be released on the 10th of May at the film mansion worldwide.
-
-Meanwhile, the film is a film starring actor Gavin after the hit film 'Tata' and the coalition of three -wheeler talent, Illan -Kavin -Yuvan, has been hugely anticipated.
-
-◼️
-
-[Data](articles/b705ebf1.json)
-
-[Extended Data](ext_articles/b705ebf1.ext.json)
 
 ---

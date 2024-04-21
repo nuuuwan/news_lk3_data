@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 16:33:40**
+As of **2024-04-21 16:48:49**
 
 ## Newspaper Stats
 
-*Scraped **20,047** Articles*
+*Scraped **20,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,50 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,667
-tamilmirrorlk | 2,315
+adalk | 1,670
+tamilmirrorlk | 2,317
 adaderanalk | 2,402
 virakesarilk | 2,987
-dailymirrorlk | 3,125
+dailymirrorlk | 3,126
 adaderanasinhalalk | 3,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,038 (100.0%) of 20,047 articles have been extended.
+20,047 (100.0%) of 20,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### ”ஜனாதிபதி ஏற்கனவே தெரிவாகிவிட்டார்”
+### “The President has already been elected”
 
 *2024-04-21 16:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஏற்கனவே-தெரிவாகிவிட்டார்/175-336139) · `ta`
+
+"Prasanna Ranatunga: People elected Ranil Wickremesinghe to end economic crisis, not for rice distribution. Benefits all political ideologies."
+
+🟩
+
+Minister Prasanna Ranatunga said that the people will not vote for the goods distributed by politicians and that the people have already elected Ranil Wickremesinghe as president to restore the country from the economic crisis.
+
+The Minister made this comment while addressing the media after the event of providing rice to low -income families in Kelaniya.
+
+Responding to a question, he said that the rice was not distributed to the election and that people with various political ideologies benefit from the project.
+
+“We did not do this by targeting the election. Here are people who have various political ideologies. People have already chosen Ranil Wickremesinghe because he can rescue the country from economic crisis.
+
+◼️
+
+[Data](articles/5415d12f.json)
+
+[Extended Data](ext_articles/5415d12f.ext.json)
+
+---
+
+### ”ஜனாதிபதி ஏற்கெனவே தெரிவாகிவிட்டார்”
+
+*2024-04-21 16:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஏற்கெனவே-தெரிவாகிவிட்டார்/175-336139) · `ta`
 
 அரசியல்வாதிகளால் விநியோகிக்கப்படும் பொருட்களுக்கு நன்றி செலுத்தும் வகையில் மக்கள் வாக்களிக்க மாட்டார்கள் என்று கூறிய அமைச்சர் பிரசன்ன ரணதுங்க, பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுக்கும் வகையில் ரணில் விக்ரமசிங்கவை ஜனாதிபதியாக மக்கள் ஏற்கனவே தெரிவு செய்துள்ளதாக தெரிவித்தார்.
 
@@ -46,7 +70,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/5415d12f.json)
+[Data](articles/db6d4deb.json)
+
+---
+
+### දියතලාවේ මෝටර් රථ ධාවන තරගාවලිය අනතුරකින් 5ක් මරුට
+
+*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-5ක්-මරුට/11-409186) · `si`
+
+දියතලාවේ පැවති Fox Hill Supercross 2024 මෝටර් රථ ධාවන තරගාවලියක් අතරතුරදී ධාවන තරගය අතරතුරදී මෝටර් රථ කීපයක් ධාවන පථයෙන් ඉවතට පැන  සිදුවූ අනතුරකින් පුද්ගලයින් 5 දෙනෙකු මියගොස් පුද්ගලයින් 20කට ආසන්න පිරිසක් තුවාල ලබා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/b07090b9.json)
 
 ---
 
@@ -54,17 +90,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-21 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195839) · `si`
 
-ජපානයේ හමුදා හෙලිකොප්ටර් යානා දෙකක් අනතුරට ලක්වීමෙන් එක් අයෙකු මියගොස් තවත් 07 දෙනෙකු අතුරුදන්ව තිබේ.
+ජපානයේ බිහිසුණු අනතුරක් පසුව ඇතුලත් කරන එක්සත් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් 
 
-ඉෂූ දූපත් ප්‍රදේශ ආශ්‍රිත පැසිෆික් මුහුදේ සබ්මැරීන් නිරීක්ෂණය සම්බන්ධ පුහුණු අභ්‍යාසයක නිරත වෙමින් සිටියදී මෙම අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අනතුරින් මියගිය එක් හමුදා සාමාජිකයෙකුගේ මළ සිරුරක් සොයාගෙන ඇති අතර සෙසු පිරිස් සොයා මෙහෙයුම් ක්‍රියාත්මක බව ජපාන බලධාරීන් සඳහන් කර තිබේ.
+Two army helicopters in Japan were killed and seven others went missing.
 
-අනතුරට හේතුව මෙතෙක් නිශ්චිතව අනාවරණය වී නොමැති නමුත් හෙලිකොප්ටර් යානා දෙක එකිනෙක ගැටී කඩා වැටෙන්නට ඇති බවට සැක පළකරයි.
+Foreign media reports that the accident had occurred while engaging in training exercise in the Pacific Sea of Ishu islands.
+
+The body of a soldier who was killed in the accident was found and the Japanese authorities have stated that the other persons are operating in search of other people.
+
+The cause of the accident has been uncovered so far, but helicopters have suspected that helicopters had collapsed and collapsed.
 
 ◼️
 
 [Data](articles/8ae9ca72.json)
+
+[Extended Data](ext_articles/8ae9ca72.ext.json)
 
 ---
 
@@ -82,37 +124,69 @@ The injured have been admitted to the Diyatalawa Base Hospital.
 
 [Data](articles/18266627.json)
 
+[Extended Data](ext_articles/18266627.ext.json)
+
 ---
 
-### ’’Foxhill’’ கார் பந்தையம்: ஐவர் பலி
+### ​Six dead, dozens injured in racing event accident in Diyatalawa
+
+*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Six-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
+
+The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of six individuals and leaving 21 others hospitalized with injuries.
+
+According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
+
+The injured have been admitted to the Diyatalawa Base Hospital.
+
+According to hospital sources, the condition of some of the injured is critical.
+
+◼️
+
+[Data](articles/4686172b.json)
+
+---
+
+### Foxhill
 
 *2024-04-21 16:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/Foxhill-கார்-பந்தையம்-ஐவர்-பலி/150-336138) · `ta`
 
-தியத்தலாவ நரியகந்த, "Foxhill" கார் மற்றும் மோட்டார் சைக்கிள் பந்தயம் இன்று (21) இடம்பெற்றதுடன்,   பந்தயத்தின் போது கார் ஒன்று பாதையை விட்டு விலகி விபத்துக்குள்ளானதில் பந்தயத்தை பார்த்துக்கொண்டிருந்த ஐவர் உயிரிழந்துள்ளனர்.
+In Diyatalawa, a car crash during the Foxhill race killed 5 and injured 21. The accident happened when a car crashed into another crash.
 
-விபத்தில் மேலும் 21 பேர் காயமடைந்து தியத்தலாவ ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தியத்தலாவை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கார் ஒன்று விபத்துக்குள்ளானதை அடுத்து, அதனைப் பார்க்க முன்வந்த சிலர் மீது பின்னால் சென்ற மற்றுமொரு கார் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The Diyatalawa Nariyaganda, "Foxhill" car and motorcycle race took place today (21), and five people were killed when a car crashed off the road during the race.
+
+Diyathalawa police said that 21 others were injured in the accident and admitted to the Diyathalawa Resource Hospital.
+
+Police said the accident occurred when another car crashed into a car crash.
 
 ◼️
 
 [Data](articles/e88eb55d.json)
 
+[Extended Data](ext_articles/e88eb55d.ext.json)
+
 ---
 
-### சு.க தலைமையகத்தில் பதற்றம் (காணொளி)
+### Tension (Video) at Headquarters
 
 *2024-04-21 15:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-தலைமையகத்தில்-பதற்றம்-காணொளி/175-336137) · `ta`
 
-கொழும்பு 10, டார்லி வீதியிலுள்ள ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) தலைமையகத்திற்கு வெளியே, கட்சிக் கட்டிடத்திற்குள் நுழைய முற்பட்ட குழு ஒன்று பொலிஸாரின் எதிர்ப்பை எதிர்கொண்டதால், பதற்றமான நிலை ஏற்பட்டது.
+At Sri Lanka Freedom Party (SLFP) headquarters, police blocked entry to a group, leading to tension. Justice Minister Vijayadasa Rajapaksa appointed as SLFP leader by a faction, sparking speculation.
 
-அதிகாரிகள் நுழைய விடாமல் தடுத்ததால் பரபரப்பு ஏற்பட்டதுடன், அப்பகுதியில் பதட்டமான சூழல் நிலவியது.
+🟩
 
-இந்நிலையையடுத்து, நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக கட்சியின் ஒரு பிரிவினரால் நியமிக்கப்பட்டதுடன், கட்சிக்குள் நடந்து வரும் அபிவிருத்திகள் மீதான ஊகங்கள் அதிகரித்துள்ளமை குறிப்பிடத்தக்கது.
+Outside the headquarters of the Sri Lanka Freedom Party (SLFP) on Darley Road, Colombo 10, a group of people tried to enter the party building faced police opposition.
+
+There was a stir as the authorities were prevented from entering and there was a tense situation in the area.
+
+Following this, Justice Minister Vijayadasa Rajapaksa has been appointed as the leader of the Sri Lanka Freedom Party (SLFP) by a section of the party and the speculation on the development of the party has increased.
 
 ◼️
 
 [Data](articles/86b5f39e.json)
+
+[Extended Data](ext_articles/86b5f39e.ext.json)
 
 ---
 
@@ -160,23 +234,33 @@ According to Everett Millman, a chief market analyst of Gainesville Coins in the
 
 [Data](articles/8a3e3c31.json)
 
+[Extended Data](ext_articles/8a3e3c31.ext.json)
+
 ---
 
-### ‛‛வாசுகி’’ கண்டுப்பிடிப்பு
+### ‛‛ Vasuki Telephone Finding
 
 *2024-04-21 15:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாசுகி-கண்டுப்பிடிப்பு/175-336136) · `ta`
 
-பல்வேறு நாடுகளில் தொல்பொருள் ஆய்வுகள் நடத்தப்பட்டு வருகின்றன. இந்த ஆய்வில் முன்னோர்களின் வாழ்க்கை முறை, அவர்களின் பழக்க வழக்கங்கள் குறித்த பல்வேறு அரிய தகவல்கள் வெளியாகி வியப்பை ஏற்படுத்தி வருகின்றன.
+Researchers in Gujarat, India, discovered the bones of a giant snake, possibly the longest obese snake in the world, dating back 4.7 billion years. The bones, found in the Panandro Lignite Mine, are believed to belong to a giant snake named "Vasuki," akin to the mythological Anaconda. This discovery supports the theory of intercontinental Gondwana dispersal.
 
-உலகிலேயே மிகவும் நீளமான அதிக உடல் பருமனான பாம்புகளில் ஒன்றான ‛‛வாசுகி’’ இந்தியாவின் குஜராத் மாநிலம் கட்ச் பகுதியில் வாழ்ந்திருப்பதை ஆய்வாளர்கள் கண்டுபிடித்துள்ளனர். இந்த பாம்பு 4 கோடியே 70 லட்சம் கோடி ஆண்டுக்கு முன்பு இருந்ததாக ஆய்வாளர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-அந்த வகையில் குஜராத் மாநிலம் கட்ச் பகுதியில் பானந்த்ரோ லிக்னைட் சுரங்கத்தில் இருந்து கடந்த 2005ம் ஆண்டு சில எலும்புகள் புதை படிமங்களாக கிடைத்தன.
+Archaeological studies are being conducted in various countries. In this study, various rare information about the lifestyle of the ancestors and their habits is surprised.
 
-இதன்​போது முன்காலத்தில் வாழ்ந்த ராட்சத முதலை இறந்து பூமிக்கடியில் புதைந்து இருக்கலாம் எனவும், அதன் எலும்புகள் தான் புதை படிமங்களாக இப்போது கிடைத்துள்ளதாகவும் கூறப்பட்டது. இருப்பினும் அந்த எலும்புகள் முதலைக்குரியது தான் என்பது உறுதி செய்யப்படவில்லை. மேலும் அந்த புதைப்படிம எலும்புகள் ஆய்வுக்காக சேகரிக்கப்பட்டன. அந்த எலும்புகள் எந்த உயிரினத்துக்கானது என்பது பற்றிய ஆய்வு தொடங்கப்பட்டது.
+Researchers have discovered that one of the longest obese snakes in the world is living in the Kutch area of Gujarat, India.. Analysts said the snake was 4 crore 70 trillion years ago.
+
+Accordingly, in 2005, some bones were obtained from the Panandro Lignite Mine in the Kutch area of Gujarat.
+
+It was said that the giant crocodile, who lived in the past, may have been buried under the earth, and its bones are now available as fossils.. However, it is not confirmed that the bones are the first. And that fossil bones were collected for inspection. A study of which organism was for the organism was initiated.
+
+Accordingly, in 2022, a study by the Largest Known Madsoiid Snake Snake Snake Period of Inida Suggests Interconthental Gondwana Dispersal has been found to be 50 feet of giant snake.
 
 ...
 
 [Data](articles/51f99620.json)
+
+[Extended Data](ext_articles/51f99620.ext.json)
 
 ---
 
@@ -520,6 +604,20 @@ The driver of the lorry has been arrested in relation to the accident, while Elp
 
 ---
 
+### சு.கவின் பதில் தலைவர் விஜயதாச
+
+*2024-04-21 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-கவின்-பதில்-தலைவர்-விஜயதாச/175-336130) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் விஜயதாச ராஜபக்ஷ நியமிக்கப்பட்டுள்ளதாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உள்ளகத் தகவல்கள் தெரிவிக்கின்றன.
+
+தடை உத்தரவிக்கு உள்ளான தலைவர் மைத்திரிபால சிறிசேன தரப்பினர் இன்று (21) காலை எதுல்கோட்டையில் உள்ள பிரபல ஹோட்டல் ஒன்றில் நிறைவேற்றுக் குழுவை கூட்டி இந்த தீர்மானத்தை எடுத்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/55fffdb3.json)
+
+---
+
 ### Sri Lanka to miss budget revenue target for 33rd year running in 2024: Verité Research
 
 *2024-04-21 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-miss-budget-revenue-target-for-33rd-year-running-in-2024-Verité-Research/108-281084) · `en`
@@ -535,6 +633,22 @@ The State of the Budget Report is compiled annually by Verité Research and publ
 [Data](articles/063184e7.json)
 
 [Extended Data](ext_articles/063184e7.ext.json)
+
+---
+
+### කටුනායක ගුවන්තොටුපොලේ ගමන් මලු සොරකම් කරන ජාවාරමක්
+
+*2024-04-21 12:48:42* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්තොටුපොලේ-ගමන්-මලු-සොරකම්-කරන-ජාවාරමක්/11-409184) · `si`
+
+කටුනායක ගුවන් තොටුපොළ තුළ බැංකු ස්ථාපිත ප්‍රදේශයට පිවිස , මුදල් මාරු කරන මුවාවෙන් එම ප්‍රදේශයේ ගැවසෙමින් සිට ගුවන් මගීන්ගේ ගමන් මලු සොරා ගන්නා යුවළක් ගුවන් තොටුපොළ පොලිසිය මගින් අත් අඩංගුවට ගෙන මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර , එළඹෙන මැයි මස 02 දින දක්වා  රක්ෂිත බන්ධනාගාර ගත කර තිබේ .
+
+මොවුන් දෙදෙනා කැළණිය , දිප්පිටිගොඩ ප්‍රදේශයේ පදිංචිකරුවන් වන අතර පිරිමි පුද්ගලයා 36 හැවිරිදි වේ. කාන්තාව 35 හැවිරිදිය .
+
+මෙහි පිරිමි පුද්ගලයා තම බිරිඳගේ ගමන් බලපත්‍රය රැගෙන කටුනායක ගුවන් තොටුපොළ බැංකු පිහිටි ප්‍රදේශයට පැමිණ, දෙස් විදෙස් සංචාරකයන් තම ගමන් මලු පසෙක තබා , ඔවුන් රැගෙන එන විදේශ මුදල් එම බැංකු වලින් ශ්‍රී ලංකා රුපියල් වලට මාරු කරමින් සිටින අවස්ථා වලදී , ඔවුන්ගේ අවධානය මුදල් මාරු  කිරීම පිළිබඳ යොමු වී පවතින අවස්ථාවේ  , මොහු ඔවුන්ගේ ගමන්  මලු රැගෙන පළා යාම සිදු කිරීම කර තිබේ .
+
+...
+
+[Data](articles/c6e49b00.json)
 
 ---
 
@@ -1018,6 +1132,26 @@ It is noteworthy that the Hazet al -Chafi organization, which was created to fig
 
 ---
 
+### ශ්‍රී පාද මළුවේ සිට රත්නපුර ප්‍රපාතයට තරුණයෙක් පනියි
+
+*2024-04-21 10:24:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-මළුවේ-සිට-රත්නපුර-ප්‍රපාතයට-තරුණයෙක්-පනියි/11-409179) · `si`
+
+ශ්‍රී පාද වන්දනාවේ පැමිණි තරුණයෙක් 19දා පස්වරුවේ  ශ්‍රීපාද මළුවේ සිට රත්නපුර ප්‍රදේශයේ ප්‍රපාතයට පැන ඇති බව ශ්‍රී පාද උඩමළුව පොලිසිය පවසයි.
+
+මෙලෙස පැන ඇත්තේ, හම්බන්තොට සූරියවැව ප්‍රදේශයේ පදිංචි 33 හැවිරිදි දිනේෂ්    හේමන්ත නමැති අයෙකි.
+
+මෙම පුද්ගලයා ඉකුත් 19 දින කාන්තාවන් දෙදෙනෙක් සමඟ නල්ලතන්ය- ශ්‍රී පාද මාර්ගයෙන් ශ්‍රී පාද වන්දනාව සඳහා ගොස් ඇත.
+
+මෙම පුද්ගලයා සමග පැමිණි කාන්තාවන් දෙදෙනා සිද්ධිය සම්බන්ධයෙන් සිරිපාගම පොලිසියට පැමිණිලි කර ඇත.
+
+පොලිස් විශේෂ කාර්ය බලකාය හා යුද හමුදාව එක්ව මෙම පුද්ගලයා සොයා ගැනිමට   (21) පෙරවරැවේ සිට මෙහෙයුමක් දියත් කර ඇති බව නල්ලතන්නිය පොලිසිය පවසයි
+
+◼️
+
+[Data](articles/c773d6d6.json)
+
+---
+
 ### Colonial Legacies: Cultural Imperialism & The Fracturing Of Ethnic Identities
 
 *2024-04-21 10:24:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/colonial-legacies-cultural-imperialism-the-fracturing-of-ethnic-identities/) · `en`
@@ -1027,6 +1161,8 @@ Cultural imperialism evolved from the concept of using cultural domination as a 
 ...
 
 [Data](articles/e26185c8.json)
+
+[Extended Data](ext_articles/e26185c8.ext.json)
 
 ---
 
@@ -1039,6 +1175,8 @@ An Open Letter from the Asian Human Rights Commission to Open Letter to H. E. t
 ...
 
 [Data](articles/66591bb3.json)
+
+[Extended Data](ext_articles/66591bb3.ext.json)
 
 ---
 
@@ -2019,137 +2157,5 @@ The 121 million people in Japan are estimated to have consumed some 186 million 
 [Data](articles/d4af2a3b.json)
 
 [Extended Data](ext_articles/d4af2a3b.ext.json)
-
----
-
-### Sri Lanka’s Easter Bombings:  A Preventable Tragedy
-
-*2024-04-21 00:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-easter-bombings-a-preventable-tragedy-159516/) · `en`
-
-ECONOMYNEXT – Five years on, Sri Lanka’s Easter Sunday bombings has left us with more questions than answers.
-
-Both the Gotabaya Rajapaksa government and now the Ranil Wickremesinghe tenure has been shown up poorly in terms of ensuring the masterminds and those who failed to prevent the bombings are bought to book.
-
-As one sifts through various reports and discussions on the Easter Sunday bombings which took the lives of 315 and injured at least 600, one must, as Sunanda Deshapriya, activist and investigative journalist told a webinar recently, ask whether that tragedy was preventable.
-
-The webinar was organised by the Solidarity Movement for Justice and Truth (SMJT).
-
-One interesting fact that investigators discovered, Deshapriya said, was that a phone number used by one of the bombers, was amongst a series used by the infamous ‘Tripoli Brigade’  that is alleged to be behind the Lasantha Wickrematunga murder.
-
-...
-
-[Data](articles/0c1e4f90.json)
-
-[Extended Data](ext_articles/0c1e4f90.ext.json)
-
----
-
-### 2024-04-20 (Saturday)
-
-### “The Michael Tissera Interview – with Ravi Rudra”
-
-*2024-04-20 22:47:00* · [`islandlk`](http://island.lk/the-michael-tissera-interview-with-ravi-rudra/) · `en`
-
-Ravi Rudra, presenting a Q and A with Michael Tissera in mid-December 2023, entitled
-
-Q 1: What was the major turning point in your cricketing career?
-
-“At school [S. Thomas College], I hardly scored runs consistently. Those days the school matches were played over two half-days and you looked to push the game along to get results. I got one only hundred while playing for College. The lack of big scores  was more mental than technique.
-
-However, in my first Sara trophy game for NCC (in 1958), which I was lucky to play because I was ill the whole week but captain Vernon Prins insisted that I play, I got a hundred against Saracens. That turned my whole career around. Following that century which gave me a lot of confidence I scored three or four centuries in that debut season and I got picked to play for Ceylon in December of that year against Peter May’s 1958 MCC team.”
-
-Q.2: As a Junior at College, who would you give credit for refining your technique and shaping you into a top cricketer?
-
-...
-
-[Data](articles/0ecd467d.json)
-
-[Extended Data](ext_articles/0ecd467d.ext.json)
-
----
-
-### Soldiering on in the teeth of post-July, 1983 challenges
-
-*2024-04-20 22:47:00* · [`islandlk`](http://island.lk/soldiering-on-in-the-teeth-of-post-july-1983-challenges/) · `en`
-
-(Excerpted from The Jetwing Story and the life of Herbert Cooray
-
-July 1983 saw the commencement of the darkest era in Sri Lanka’s modern history. Ethnic riots and the escalation of a hitherto low-intensity separatist insurgency caused widespread insecurity and instability, creating an atmosphere of anxiety and tension. The decade saw numerous attacks by the LTTE, the so-called ‘Tamil Tigers, on public landmarks and infrastructure, including the destruction of several aircraft belonging to the national airline, Air Lanka. Tourism all but collapsed. Sri Lanka’s magnificent east coast was rendered nearly inaccessible as Tigers and a short-lived Indian ‘peacekeeping force’ jockeyed for the upper hand.
-
-...
-
-[Data](articles/6db55ece.json)
-
-[Extended Data](ext_articles/6db55ece.ext.json)
-
----
-
-### Dambulla team owns to Bangladesh
-
-*2024-04-20 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195822) · `si`
-
-The Dambulla team, now owned by Bangladeshi entrepreneurs, contests as Dambulla Thunder in the Lanka Premier League, starting 1st July.
-
-🟩
-
-The Dambulla team, which is joining the Lanka Premier League, has changed.
-
-Accordingly, the Dambulla team contested the Dambulla Thunder.
-
-It is reported that two Bangladeshi entrepreneurs have been owned by the Dambulla team this year.
-
-The Lanka Premier League cricket tournament begins on 1st July.
-
-◼️
-
-[Data](articles/5dcfe045.json)
-
-[Extended Data](ext_articles/5dcfe045.ext.json)
-
----
-
-### Pakistan makes formal request to IMF for another bailout
-
-*2024-04-20 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98748/pakistan-makes-formal-request-to-imf-for-another-bailout) · `en`
-
-Pakistan has made formal request to the International Monetary Fund (IMF) for seeking next bailout package in the range of $6 to $8 billion under Extended Fund Facility (EFF) with possibility of augmentation through climate financing, The News reported on Saturday.
-
-However, the exact size and timeframe will only be determined after evolving consensus on the major contours of the next programme in May 2024.
-
-The News sent out message to the members of Pakistani delegations, who are currently visiting Washington for attending the annual spring meetings of the IMF/World Bank, but got no reply till filing of this report.
-
-Pakistan has shown its interest and also made a request to dispatch the IMF review mission in May 2024 to firm up details of the next bailout package of three years period under EFF programme.
-
-...
-
-[Data](articles/57f4abd7.json)
-
-[Extended Data](ext_articles/57f4abd7.ext.json)
-
----
-
-### Christians' Easter Sunden Sunden Cringe 5 years
-
-*2024-04-20 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195821) · `si`
-
-Christians mark Easter with Sunden Sunden Cringe, recalling the 2019 Easter attacks that killed 258 and injured 526. The remembrance began at St. Anthony's shrine, moving through the city to the Kochchukade Shrine, Mattakkuliya Bridge, and Negoam Colombo.
-
-🟩
-
-A paree to the Quayapitiya Purpose, recalling the past year (21), will visit the Quanapitiya Patti today (20).
-
-The series of remeating programs began this afternoon at the St. Anthony's shrine.
-
-The Passover Saham of Sunden Saham of the Easter, which was on April 21, 2019, made 10 suicide attacks in 08 parts of the island.
-
-Over 500 others were seriously injured and some have never recovered completely.
-
-The Perahera is the Kochchukade Shrine to the Mattakkuliya Bridge, Wattala Junction, Katuwapitiya's church through Negoam Colombo main line.
-
-◼️
-
-[Data](articles/1d266687.json)
-
-[Extended Data](ext_articles/1d266687.ext.json)
 
 ---

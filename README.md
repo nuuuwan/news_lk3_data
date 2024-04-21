@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 15:51:28**
+As of **2024-04-21 16:03:24**
 
 ## Newspaper Stats
 
-*Scraped **20,036** Articles*
+*Scraped **20,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,667
 tamilmirrorlk | 2,311
-adaderanalk | 2,401
+adaderanalk | 2,402
 virakesarilk | 2,987
 dailymirrorlk | 3,123
-adaderanasinhalalk | 3,258
+adaderanasinhalalk | 3,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,036 (100.0%) of 20,036 articles have been extended.
+20,036 (100.0%) of 20,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Five killed, 21 injured in accident during ‘Fox Hill Super Cross’
+
+*2024-04-21 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98759/five-killed-21-injured-in-accident-during-fox-hill-super-cross-) · `en`
+
+Five persons have been killed following an accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa.
+
+Meanwhile, another 21 individuals who sustained injuries in the incident have also been hospitalized, Police Media Spokesperson DIG Nihal Thalduwa said.
+
+The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Military Academy Diyatalawa with the support of Sri Lanka Automobile Sports (SLAS) kicked off at Diyatalawa on Sunday (21).
+
+◼️
+
+[Data](articles/08f8f9ab.json)
+
+---
+
+### දියතලාවේ මෝටර් රථ අනතුරකින් 5ක් මරුට
+
+*2024-04-21 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195838) · `si`
+
+දියතලාවේ පැවති මෝටර් රථ ධාවන තරගාවලියක් අතරතුරදී සිදුවූ අනතුරකින් පුද්ගලයින් 5 දෙනෙකු මියගොස් තිබේ.
+
+ධාවන තරගය අතරතුරදී මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන මෙම අනතුර සිදුව ඇත.
+
+අනතුරින් පුද්ගලයින් 21කට ආසන්න පිරිසක් තුවාල ලබා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/e3a41602.json)
+
+---
 
 ### Willie Gamage's resignation letter handed over
 
@@ -2175,55 +2207,5 @@ The public has said that the incident may have occurred due to the prevailing he
 [Data](articles/4f64d3a7.json)
 
 [Extended Data](ext_articles/4f64d3a7.ext.json)
-
----
-
-### Death in the sun
-
-*2024-04-20 19:18:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வெயிலில்-மயங்கி-விழுந்து-ஒருவர்-மரணம்/75-336113) · `ta`
-
-A man, Suriyamoorthy Sudhakaran, 52, died in a large space pond in Muttur, Trincomalee, on Saturday. His body is at Muttur Hospital, awaiting anatomical examination at Trincomalee Hospital. The incident may be linked to the heat, suggesting avoiding sun exposure during peak hours.
-
-🟩
-
-The incident took place on Saturday afternoon (20) after the death of a man who was working in a large space pond in the Muttur police division of Trincomalee.
-
-Suriyamoorthy Sudhakaran (age 52), father of 3 children living in the village of Muttur - Palatadichenai, died.
-
-It was reported that the field was in the field on Saturday (20) in the field of a large space pond.. The body of the deceased has been placed at the Muttur Hospital and is to be sent to the Trincomalee Hospital for anatomical examination, hospital sources said.
-
-The public has said that the incident may have occurred due to the prevailing heat in the country and that those who stand in the sun can protect themselves by avoiding working at the peak of the sun.
-
-◼️
-
-[Data](articles/ef1fe93a.json)
-
-[Extended Data](ext_articles/ef1fe93a.ext.json)
-
----
-
-### Toilet fluid in wife's diet
-
-*2024-04-20 19:10:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மனைவியின்-உணவில்-கழிவறை-திரவம்/50-336112) · `ta`
-
-Imran Khan alleges toilet cleaning liquid in wife's diet, leading to severe abdominal pain. He demands medical examination.
-
-🟩
-
-Imran Khan has made allegations that the toilet cleaning liquid has been mixed on the diet provided to his wife
-
-Former Pakistani Prime Minister Imran Khan has been arrested in various corruption cases and imprisoned. Meanwhile, Pakistani court has sentenced Imran Khan and his wife Busra Bevi to seven years in prison in the case of marriage against Islamic practice.
-
-Pusra Beevi has been imprisoned at the style of Pani Gala in Islamabad. Imran Khan has accused his wife of Busra Beevi that the toilet was mixed with a toilet.
-
-Imran Khan alleges that he is suffering from severe abdominal pain due to poisonous foods given to his wife and causing his health to weaken.. Imran Khan made these allegations when he appeared in the corruption case.
-
-Imran Khan also demanded that he examines his wife's condition at the International Hospital in Islamabad.. In the next two days, the court ordered Imran Khan and his wife to undergo a medical examination at a private hospital.
-
-◼️
-
-[Data](articles/9afe3802.json)
-
-[Extended Data](ext_articles/9afe3802.ext.json)
 
 ---

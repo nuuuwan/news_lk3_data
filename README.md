@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 17:03:33**
+As of **2024-04-21 17:18:16**
 
 ## Newspaper Stats
 
-*Scraped **20,053** Articles*
+*Scraped **20,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,670
 tamilmirrorlk | 2,317
-adaderanalk | 2,402
-virakesarilk | 2,987
+adaderanalk | 2,403
+virakesarilk | 2,989
 dailymirrorlk | 3,126
 adaderanasinhalalk | 3,260
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,053 (100.0%) of 20,053 articles have been extended.
+20,053 (100.0%) of 20,056 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ Responding to a question, he said that the rice was not distributed to the elect
 [Data](articles/db6d4deb.json)
 
 [Extended Data](ext_articles/db6d4deb.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு படுகொலைகளிற்கு யார் காரணம் என்பதை கண்டுபிடிப்பதற்கு முழுமையான வெளிப்படையான விசாரணைகள் அவசியம் - ஐநா
+
+*2024-04-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181585) · `ta`
+
+இலங்கையில் 2019ம் ஆண்டு இடம்பெற்ற உயிர்த்த ஞாயிறுதாக்குதல்கள் தொடர்பில் பொறுப்புக்கூறல் அவசியம் என ஐநா வேண்டுகோள் விடுத்துள்ளது.
+
+கொழும்பில் இடம்பெற்ற நினைகூரல் நிகழ்வில் இலங்கைக்கான ஐக்கியநாடுகளின் நிரந்தர வதிவிடப்பிரதிநிதி மார்க் அன்ரே பிரான்சே 2019 உயிர்த்த ஞாயிறு படுகொலைகளிற்கு யார் காரணம் என்பதை கண்டுபிடிப்பதற்கு முழுமையான வெளிப்படையான விசாரணைகள் அவசியம் என வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கை தொடர்ச்சியாக பொறுப்புக்கூறல் பற்றாக்குறையால் பாதிக்கப்படுகின்றது அது பொறுப்புக்கூறலிற்கான பொறுப்புக்கூறலாகயிருக்கலாம் அல்லது சமீபத்தைய மனித உரிமை மீறல்களிற்கான பொறுப்புக்கூறலாகயிருக்;கலாம் என ஐநாவின் பிரதிநிதி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0cf1ae11.json)
 
 ---
 
@@ -182,6 +198,24 @@ Police said the accident occurred when another car crashed into a car crash.
 
 ---
 
+### குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு  இலவச அரிசி
+
+*2024-04-21 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181586) · `ta`
+
+குறைந்த வருமானம் பெறும் ஒவ்வொரு குடும்பத்துக்கும் ஏப்ரல் மற்றும் மே மாதங்களில் மாதாந்தம் தலா 10 கிலோ அரிசி வழங்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+ஊவா பரணகம அபகஸ்தோவ விளையாட்டரங்கில் இன்று (21) ஞாயிற்றுக்கிழமை இடம்பெற்ற குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு  தேசிய அரிசி வழங்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவித்த போதே இதனை தெரிவித்துள்ளதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+அத்தோடு, குறைந்த வருமானம் பெறும் 28 இலட்சம் குடும்பங்களுக்கு இலவச அரிசி வழங்கப்படுவதாக சமுர்த்தி அபிவிருத்தி உத்தியோஸ்த்தர்கள் சங்கம் தெரிவித்துள்ளது.
+
+மேலும், ஏப்ரல் மாதம் வழங்கப்படவுள்ள 10 கிலோ அரிசியானது  ஏற்கனவே நாடளாவிய ரீதியில் வழங்குவதற்கு ஆரம்பித்துள்ளதாகவும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ec85f613.json)
+
+---
+
 ### Tension (Video) at Headquarters
 
 *2024-04-21 15:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-தலைமையகத்தில்-பதற்றம்-காணொளி/175-336137) · `ta`
@@ -225,6 +259,30 @@ The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Mi
 [Data](articles/08f8f9ab.json)
 
 [Extended Data](ext_articles/08f8f9ab.ext.json)
+
+---
+
+### Six killed, over 20 injured in accident during ‘Fox Hill Super Cross’
+
+*2024-04-21 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98759/six-killed-over-20-injured-in-accident-during-fox-hill-super-cross) · `en`
+
+UPDATE: Another person who was injured and hospitalized following the accident during the “Fox Hill Super Cross 2024” racing event in Diyatalawa has succumbed to his injuries, Police Media Spokesman DIG Nihal Thalduwa confirmed.
+
+Accordingly, the death toll from the tragic incident climbs to 06 with this.
+
+The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators.
+
+The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
+
+DIG Thalduwa further stated that the accident has taken place after a car ran off the track during a race.
+
+Meanwhile, it is also reported that 04 out of 24 individuals who were injured and hospitalized after the accident are in critical condition.
+
+The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
+
+...
+
+[Data](articles/a1a76a6b.json)
 
 ---
 
@@ -2147,55 +2205,5 @@ As Sri Lanka lurches into a New Year three months after January 1, then, this is
 [Data](articles/799a1d45.json)
 
 [Extended Data](ext_articles/799a1d45.ext.json)
-
----
-
-### All things are impermanent
-
-*2024-04-21 02:43:00* · [`islandlk`](http://island.lk/all-things-are-impermanent/) · `en`
-
-(Excerpted from Saris and Grapefruit, a collection of short stories by Rukmini Attygalle)
-
-Rupa Jayasena gazed intently on the vista below, as she sat in the front veranda of her home, high up on the hill of Hanthana, overlooking the Peradeniya University’s green campus scattered with trees and bushes in bloom. She could discern within the meticulously landscaped terrain the Peradeniya-Galaha road winding its way to Getambe and beyond. She would sit in the veranda all afternoon with frequent cups of tea and watch the young men and women walking between their residential halls and lecture rooms, clutching books and files. They were in happy groups; or couples absorbed with each other; or hurrying single students.
-
-...
-
-[Data](articles/3404ead2.json)
-
-[Extended Data](ext_articles/3404ead2.ext.json)
-
----
-
-### “Cashew nuts are a healthy snack choice due to their nutritional benefits.”
-
-*2024-04-21 02:34:00* · [`islandlk`](http://island.lk/cashew-nuts-are-a-healthy-snack-choice-due-to-their-nutritional-benefits/) · `en`
-
-Sri Lankan cashews are highly sought after for their milky flavour, and the market for Rancrisp cashews continues to grow.
-
-The cashew, Anacardium occidentale L., belongs to the Anacardiaceae or cashew family. Two related plants in this family are the mango and pistachio trees. Cashew nuts are kidney-shaped seeds that adhere to the bottom of the cashew apple, the fruit of the cashew tree, is native to the coastal areas of North-Eastern Sri Lanka, Brazil, and Peru.
-
-In the 16th century, Portuguese explorers introduced cashew trees to other tropical regions such as India, Indonesia, some African countries and Sri Lanka, where they are now grown. The cashew tree was famous for its apple, which is hardly eaten in our country but is a delicacy in some countries. It is eaten ripe, mixed in fruit salads, or pickled. The trunk of the tree is also used as firewood.
-
-...
-
-[Data](articles/9a178a8f.json)
-
-[Extended Data](ext_articles/9a178a8f.ext.json)
-
----
-
-### Green tea in Japan delicately plucked with gloved hands
-
-*2024-04-21 02:33:00* · [`islandlk`](http://island.lk/green-tea-in-japan-delicately-plucked-with-gloved-hands/) · `en`
-
-In spite of its technological advancement, perhaps as in no other Asian country, modern Japan still maintains close links with simple things of its past in several enduring forms. The commonest, to mention a few, are the tatami mat-covered floors in homes, tiny goblets of hot sake in winter, cold sake in summer, bamboo chopsticks, delicious tempura and of course green tea with its subtle flavour and aroma.
-
-The 121 million people in Japan are estimated to have consumed some 186 million kilograms of green tea in 1984 together with about 10 million kilograms of black tea imported from Sri Lanka, Indonesia and some other countries.
-
-...
-
-[Data](articles/d4af2a3b.json)
-
-[Extended Data](ext_articles/d4af2a3b.ext.json)
 
 ---

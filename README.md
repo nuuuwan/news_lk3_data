@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 22:04:47**
+As of **2024-04-21 22:18:24**
 
 ## Newspaper Stats
 
-*Scraped **20,088** Articles*
+*Scraped **20,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
 virakesarilk | 2,993
-dailymirrorlk | 3,132
-adaderanasinhalalk | 3,266
+dailymirrorlk | 3,133
+adaderanasinhalalk | 3,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,083 (100.0%) of 20,088 articles have been extended.
+20,088 (100.0%) of 20,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### යුක්තිය මෙහෙයුමෙන් ඇල්ලූ මත්ද්‍රව්‍යවලට වෙන දේ මෙන්න
+
+*2024-04-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195846) · `si`
+
+යුක්තිය මෙහෙයුමෙන් පොලීසිය භාරයට ගත් මත්ද්‍රව්‍ය ඉදිරි මාසය තුළ විනාශ කිරීමට පියවර ගන්නා බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+පොලිස්පතිවරයා පෙන්වාදෙන්නේ ඒ සඳහා විශේෂ ස්ථානයක් පුත්තලම දිස්ත්‍රික්කය ආශ්‍රිතව මේ වනවිටත් නිර්මාණය කර ඇති බවය.
+
+නුවරඑළිය ප්‍රදේශයේ පැවැති උත්සවයට එක්වෙමින් පොලිස්පති දේශබන්දු තෙන්නකොන් මහතා මේ බව සඳහන් කළේය.
+
+මේ අතර මත්ද්‍රව්‍ය ජාවාරම්වලට සහ අපරාධකරුවන් හා සම්බන්ධතා ඇති පොලිස් නිළධාරීන් සම්බන්ධයෙන් දැඩිව නීතිය ක්‍රියාත්මක කරන බවද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/58c6d4f1.json)
+
+---
+
+### Government to provide ownership of 50,000 flats in Colombo to plantation residents
+
+*2024-04-21 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-provide-ownership-of-50-000-flats-in-Colombo-to-plantation-residents/108-281095) · `en`
+
+Colombo, April 21 (Daily Mirror) - The programme of providing free land rights to 2 million is currently underway and steps have been taken to give ownership of 50,000 flats in Colombo to the plantation people.
+
+"We have focused on developing the living conditions of the plantation people and he decision to give land to those people is currently being made.
+
+"We should not be divided politically in this work. If we are divided, we will not see this progress in the country today. We should forget party politics and move forward. Also, we hope to implement some large programmes for the development of this Uva region," President Ranil  Wickremesinghe said.
+
+◼️
+
+[Data](articles/58c119ef.json)
+
+---
 
 ### No one will be left behind in nation building – President
 
@@ -43,6 +77,8 @@ Addressing the inauguration ceremony of the National Rice Distribution for low-i
 ...
 
 [Data](articles/f0955d5f.json)
+
+[Extended Data](ext_articles/f0955d5f.ext.json)
 
 ---
 
@@ -61,6 +97,8 @@ Under this programme, 2.74 million low-income families covering the entire islan
 ...
 
 [Data](articles/511d0c9b.json)
+
+[Extended Data](ext_articles/511d0c9b.ext.json)
 
 ---
 
@@ -153,6 +191,8 @@ People commemorated victims of the Easter Sunday terror attacks at a cemetery in
 ◼️
 
 [Data](articles/0cf3b61a.json)
+
+[Extended Data](ext_articles/0cf3b61a.ext.json)
 
 ---
 
@@ -302,15 +342,21 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 
 ---
 
-### විජයදාසට ශ්‍රීලංනිපයේ ලොකු තනතුරක්
+### A big post in SLC
 
 *2024-04-21 19:14:21* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-ශ්‍රීලංනිපයේ-ලොකු-තනතුරක්/11-409192) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රජජක්ෂ මහතා පත්කර ගැනීමට එම පක්ෂයේ දේශපාලන මණ්ඩලය තීරණය කර තිබේ.
+The SLFP's Politburo appoints Government Wijayadasa as acting chairman.
+
+🟩
+
+The party's Politburo has decided to appoint the Government Wijayadasa king as acting chairman of the SLFP.
 
 ◼️
 
 [Data](articles/3166a4ab.json)
+
+[Extended Data](ext_articles/3166a4ab.ext.json)
 
 ---
 
@@ -823,6 +869,8 @@ In light of the mishap, the rest of the races at the event have been cancelled.
 ...
 
 [Data](articles/c61986ae.json)
+
+[Extended Data](ext_articles/c61986ae.ext.json)
 
 ---
 
@@ -2219,45 +2267,5 @@ When the two women were arrested, customs have been taken out of about 40 millio
 [Data](articles/3b96f9a2.json)
 
 [Extended Data](ext_articles/3b96f9a2.ext.json)
-
----
-
-### The temples throughout the country are silent for 2 minutes
-
-*2024-04-21 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195827) · `si`
-
-All temples in the country observed a 2-minute silence today, marking the anniversary of the Passover attack.
-
-🟩
-
-There was a two-minute of silence in all the temple throughout the country today (21).
-
-The Communication Unit of the Archbishop of Colombo was said that a two-minute silence was held at 8.45 am.
-
-The special commemoration ceremony will be held for two years to the Passover attack.
-
-◼️
-
-[Data](articles/4fd0d1ff.json)
-
-[Extended Data](ext_articles/4fd0d1ff.ext.json)
-
----
-
-### Is Religion The Opium Of The Masses?
-
-*2024-04-21 08:45:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-religion-the-opium-of-the-masses/) · `en`
-
-“Myself when young did eagerly frequent, Doctor and Saint and heard great Argument, About it and about, but evermore, Came out by the same Door as in I went”
-
-Perhaps there is no phrase of Karl Marx that is better known or more frequently quoted than his quip about religion being the opium of the masses. So let me quote the passage in full.
-
-“Religious distress is an expression of real distress and a protest against this distress. Religion is the sigh of the oppressed creature, the heart of a heartless world, the spirit of a spiritless condition. It is the opium of the masses. The abolition of religion as the illusory happiness of the people is the condition for their real happiness. The demand to give up this illusion is the demand for men to give up a condition which needs illusions”. Marx, Critique of Hegel’s Philosophy of Right.
-
-...
-
-[Data](articles/45b11798.json)
-
-[Extended Data](ext_articles/45b11798.ext.json)
 
 ---

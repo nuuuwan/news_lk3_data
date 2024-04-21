@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 09:34:13**
+As of **2024-04-21 09:53:07**
 
 ## Newspaper Stats
 
-*Scraped **19,983** Articles*
+*Scraped **19,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,657
 tamilmirrorlk | 2,305
 adaderanalk | 2,393
 virakesarilk | 2,984
-dailymirrorlk | 3,113
+dailymirrorlk | 3,114
 adaderanasinhalalk | 3,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,978 (100.0%) of 19,983 articles have been extended.
+19,983 (100.0%) of 19,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Increase in dollar reserves and rupee value will enable vehicle imports: Siyambalapitiya
+
+*2024-04-21 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-dollar-reserves-and-rupee-value-will-enable-vehicle-imports-Siyambalapitiya/108-281077) · `en`
+
+Colombo, April 21 (Daily Mirror) - The gradual increase in dollar reserves and the rise in the value of the rupee expected in the future will enable the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing a meeting in the Ruwanwella area, he said the committee appointed to carry out a high-level study to systematically remove restrictions on the import of vehicles is currently active.
+
+Due to the economic crisis in the country, import restrictions were imposed on between 1,500 and 2,000 items, but due to the gradual recovery of the economy, these restrictions are now only effective on the import of vehicles.
+
+This committee will make a list of the essential and indispensable vehicles for the country and accordingly these activities will be done in the future.
+
+...
+
+[Data](articles/17060077.json)
+
+---
 
 ### Expect increase in dollar reserves, rupee value for vehicle imports: Siyambalapitiya
 
@@ -48,21 +66,29 @@ This committee will make a list of the essential and indispensable vehicles for 
 
 [Data](articles/d64739be.json)
 
+[Extended Data](ext_articles/d64739be.ext.json)
+
 ---
 
-### රටපුරා දේවස්ථාන විනාඩි 2ක් නිහඬ වෙයි
+### The temples throughout the country are silent for 2 minutes
 
 *2024-04-21 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195827) · `si`
 
-පාස්කු ප්‍රහාරයෙන් මියගිය පුද්ගලයින් සිහිකර අද (21) දිවයින පුරා සියලුම දේවස්ථානවල විනාඩි  2ක නිහඬතාවයක් පැවැත්විය.
+All temples in the country observed a 2-minute silence today, marking the anniversary of the Passover attack.
 
-කොළඹ අගරදගුරු පදවියේ සන්නිවේදන ඒකකය සඳහන් කළේ අද පෙරවරු 8.45ට එලෙස විනාඩි දෙකක නිහඬතාවයක් පැවැත්වූ බවය.
+🟩
 
-පාස්කු ප්‍රහාරයට වසර දෙකක් පිරිම නිමිත්තෙන් පැවැත්වෙන විශේෂ අනුස්මරණ උත්සවය මේ වන විට ආරම්භ කර තිබේ.
+There was a two-minute of silence in all the temple throughout the country today (21).
+
+The Communication Unit of the Archbishop of Colombo was said that a two-minute silence was held at 8.45 am.
+
+The special commemoration ceremony will be held for two years to the Passover attack.
 
 ◼️
 
 [Data](articles/4fd0d1ff.json)
+
+[Extended Data](ext_articles/4fd0d1ff.ext.json)
 
 ---
 
@@ -114,19 +140,29 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### ලක්ෂ පහකට අධික අවම මාසික වැටුපකට පාර්ලිමේන්තුවේ නව තනතුරු දෙකක්
+### Two new posts in Parliament for more than five lakh monthly salary
 
 *2024-04-21 08:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පහකට-අධික-අවම-මාසික-වැටුපකට-පාර්ලිමේන්තුවේ-නව-තනතුරු-දෙකක්/11-409171) · `si`
 
-ශ්‍රී ලංකා පාර්ලිමේන්තුවේ  රුපියල් ලක්ෂ පහකට අධික අවම ආරම්භක මාසික දළ වැටුපක් හිමිවන නව තනතුරු දෙකක් සඳහා සුදුස්සන් බඳවා ගැනීමට අයදුම්පත් කැඳවා ඇතැයි පාර්ලිමේන්තු මහ ලේකම් කාර්යාලය පවසයි .
+Parliament of Sri Lanka seeks applications for two new posts in the Parliamentary Budget Office, offering a monthly salary of over Rs. 5,60,000. Applications will be reviewed by the Secretary General and the President will be appointed based on the Constitutional Council's recommendation.
 
-මෙසේ අයදුම්පත් කැඳවා ඇත්තේ ආණ්ඩු ක්‍රම ව්‍යවස්ථාව යටතේ රාජ්‍ය මූල්‍ය වගකීම් ඉටු කිරීමේදී පාර්ලිමේන්තුවට සහාය වීම සඳහා 2023 අංක 06 දරන පාර්ලිමේන්තු අයවැය කාර්යාල පනතට අනුව පිහිටුවා ඇති පාර්ලිමේන්තු අයවැය කාර්යාලයේ පුරප්පාඩුව පවතින  "පාර්ලිමේන්තු අයවැය නිලධරයා" සහ "නියෝජ්‍ය පාර්ලිමේන්තු අයවැය  නිලධරයා " යන   නව  තනතුරු දෙක සඳහාය.
+🟩
 
-මෙයින් පාර්ලිමේන්තු අයවැය නිලධරයා  සඳහා අතිරේක දීමනා සහිතව රුපියල් 6,65 000 (හය ලක්ෂ හැටපන් දහස)ක  අවම මාසික  ආරම්භක  වැටුපක්ද   නියෝජ්‍ය පාර්ලිමේන්තු අයවැය නිලධරයාට  එලෙසම රුපියල් 5,60,000 (පන් ලක්ෂ හැට දහස)ක අවම මාසික ආරම්භක වැටුපක්ද හිමිවන බව මෙම පුරප්පාඩු සඳහා පාර්ලිමේන්තු මහ ලේකම්වරයා විසින් අයදුම්පත්  කැඳවූ නිවේදනයේ  සඳහන්වේ.
+Applications have been summoned to recruit suicide for two new posts in the Parliament of Sri Lanka.
 
-...
+These applications have been called for two new posts in the Parliamentary Budget Office, which is the vacancy of the Parliament Budget Office, "the Parliamentary Budget Officer" and the "Deputy Parliamentary Budget Officer" to support Parliament under the Constitution..
+
+The Deputy Parliamentary Budget has a monthly opening salary of Rs. 5,60,000 (six millionThe announcement called for applications by the Secretary General.
+
+The announcement will be submitted to the Government Budgetary, Budget and Revenue Policy or Revenue Policy or Macroeconomic Analysis of the Government Budgetary Budgeties, Financial and Revenue Policy or Macroeconomic Analysis.
+
+The President will be appointed as the recommendation of the Constitutional Council.
+
+◼️
 
 [Data](articles/36df77ba.json)
+
+[Extended Data](ext_articles/36df77ba.ext.json)
 
 ---
 
@@ -590,21 +626,31 @@ Former Minister and Member of Parliament CP Ratnayake and Kandy Indian High Comm
 
 ---
 
-### පාස්කු ඉරිදා ප්‍රහාරය : 'ජාත්‍යන්තර විමර්ශනයකට බල කෙරෙන යෝජනාවක් ගේන්න කටයුතු කරමින් සිටිනවා'
+### Easter attack: 'I am working to bring up a resolution for an international investigation'
 
 *2024-04-21 03:12:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd18gznne0po) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, පාස්කු ප්‍රහාරයේ නොවිසඳුණු ගැටලු ගැන අතිඋතුම් මැල්කම් රංජිත් හිමිපාණෝ BBC සිංහල සේවය සමග කළ සංවාදයේ දී අදහස් පළ කළහ.
+The Archbishop of Colombo is leading an international investigation into the Easter attack, aiming for justice. The government's failure to reveal conspirators and the lack of action by the current government have been criticized.
 
-පාස්කු ඉරිදා ප්‍රහාරය : 'ජාත්‍යන්තර විමර්ශනයකට බල කෙරෙන යෝජනාවක් ගේන්න කටයුතු කරමින් සිටිනවා'
+🟩
 
-පාස්කු ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටු කිරීම සඳහා ජාත්‍යන්තර විමර්ශනයක් සිදු කිරීමට අදාළ යෝජනාවක් එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සලයට ඉදිරිපත් කිරීම සඳහා රටවල් සහ සංවිධාන කිහිපයක් සමග කටයුතු කරමින් සිටින බව කොළඹ අගරදගුරු, අතිඋතුම් මැල්කම් රංජිත් හිමිපාණෝ BBC සිංහල සේවය සමග පැවති සංවාදයක දී පැවසූහ.
+It contains nothing in this, he commented in the conversation with BBC Sinhala service.
 
-පාස්කු ප්‍රහාරය සිදුවී අදට (අප්‍රේල් 21) වසර පහක් සම්පුර්ණ වුව ද එහි මහමොලකරුවන් සහ කුමන්ත්‍රණකරුවන් හෙළි කිරීමට රජය මේ දක්වා අපොහොසත් වී ඇති බවට කාදිනල් හිමිපාණෝ පෙන්වා දෙති.
+Easter attack: 'I am working to bring up a resolution for an international investigation'
+
+The Archbishop of Colombo, the Archbishop, Colombo Archbishop, is working with a number of countries and organizations to make an international investigation to the UNHRC to take justice to the victims.
+
+The Cardinal Thero said that the Passover attack has taken place today (April 21), but the government has failed to reveal its maamolot and conspirators.
+
+Gotabhaya Rajapakse, who gave righteous promises to justice, were confident in the written promised and the properties that should be accepted in the country.
+
+Former Prime Minister Ranil Wickremesinghe is the people of the country today when the Passover attack takes place. DIG Tennakoon in charge of the Colombo North, Deshabandu Tennakoon, Colombo North, was the IGP in charge of the Government Commission.
 
 ...
 
 [Data](articles/43139d7d.json)
+
+[Extended Data](ext_articles/43139d7d.ext.json)
 
 ---
 
@@ -1103,6 +1149,8 @@ Senior Presidential Advisor and UNP Deputy Leader Ruwan Wijewardene participated
 ◼️
 
 [Data](articles/19994a69.json)
+
+[Extended Data](ext_articles/19994a69.ext.json)
 
 ---
 
@@ -2193,23 +2241,5 @@ The Duke and Duchess of Sussex have not lived in the United Kingdom for years, h
 [Data](articles/824d98da.json)
 
 [Extended Data](ext_articles/824d98da.ext.json)
-
----
-
-### British woman arrested with drugs in Nuwara Eliya
-
-*2024-04-20 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98737/british-woman-arrested-with-drugs-in-nuwara-eliya) · `en`
-
-Police have arrested a foreign woman and a local who were in possession of drugs in the Toppass area of Nuwara Eliya.
-
-The officers of Nuwara Eliya Divisional Crimes Unit have seized around 19 grams of Kush cannabis and 03 grams of Hash while inspecting the van in which they travelled, the police said.
-
-Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara Eliya area have been arrested along with the seized drugs. The apprehended local person was the driver of the van, according to police.
-
-◼️
-
-[Data](articles/cd687f00.json)
-
-[Extended Data](ext_articles/cd687f00.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 04:50:57**
+As of **2024-04-22 05:03:59**
 
 ## Newspaper Stats
 
-*Scraped **20,114** Articles*
+*Scraped **20,115** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 175
 bbccomsinhala | 210
-dbsjeyarajcom | 218
+dbsjeyarajcom | 219
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,112
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,114 (100.0%) of 20,114 articles have been extended.
+20,114 (100.0%) of 20,115 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1043,6 +1043,18 @@ Foreign media has further stated that the latest film of the latest film on the 
 [Data](articles/50ed5ecf.json)
 
 [Extended Data](ext_articles/50ed5ecf.ext.json)
+
+---
+
+### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
+
+*2024-04-21 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
+
+“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
+
+...
+
+[Data](articles/a00455cc.json)
 
 ---
 
@@ -2221,35 +2233,5 @@ Accordingly, the subtlet distance from Kochchikade church to the Kupepitiya chur
 [Data](articles/805798e2.json)
 
 [Extended Data](ext_articles/805798e2.ext.json)
-
----
-
-### Breathless Sunday Attack - Psychology to Mother who lost a five -year -old daughter - loss of job due to hearing
-
-*2024-04-21 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181564) · `ta`
-
-The Breathless Sunday Attack impacted many, including a mother who lost her five-year-old daughter and lost her job due to hearing loss. The attack affected people of various nationalities and economic statuses, including children of Helch Powlsen, a Denmark millionaire. The Tamils of Sri Lanka, often overlooked, face ongoing struggles, including social discrimination, economic crises, and political recognition issues. Despite not being directly attacked, their communities have been severely impacted, leading to financial strain and displacement. Individual stories highlight the psychological and economic toll, such as Vadani, widowed with three children, and John, whose wife is psychologically affected by the loss of their daughter, leading to unemployment and financial strain.
-
-🟩
-
-Singing Easter Sunday Attax: Still Avating Justice
-
-The survival Sunday attack has taken the lives of many people from many nationalities and many economic status.
-
-Many boys who went to Christian Goddesses, including the children (tourists) of Helch Powlsen, the most famous Denmark millionaire and chief executive officer of Bestseller, were killed.
-
-Many articles have been written on the victims and the survivors and the media has focused on the media, but the Tamils of Sri Lanka have been seen as a forgotten society.
-
-It is not a new issue to be forgotten and excluded by the community for these people living in the mountainous areas of Sri Lanka.
-
-Although they have been brought from India by British rulers to work in the hill country, their lives and current conditions have not yet improved.
-
-The struggle and lack of equality that began as part of slavery in the colonial period continues to date.
-
-...
-
-[Data](articles/f0723783.json)
-
-[Extended Data](ext_articles/f0723783.ext.json)
 
 ---

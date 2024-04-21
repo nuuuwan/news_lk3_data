@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 13:52:32**
+As of **2024-04-21 14:03:35**
 
 ## Newspaper Stats
 
-*Scraped **20,017** Articles*
+*Scraped **20,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,664
-tamilmirrorlk | 2,310
-adaderanalk | 2,398
+tamilmirrorlk | 2,311
+adaderanalk | 2,400
 virakesarilk | 2,985
 dailymirrorlk | 3,121
 adaderanasinhalalk | 3,253
@@ -26,25 +26,73 @@ adaderanasinhalalk | 3,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,013 (100.0%) of 20,017 articles have been extended.
+20,017 (100.0%) of 20,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### පාස්කු ප්‍රහාරය ගැන හිටපු ඇමති සරත් කී කතාව
+### Tense situation in front of SLFP headquarters
+
+*2024-04-21 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98757/tense-situation-in-front-of-slfp-headquarters) · `en`
+
+A tense situation has been reported in front of the Sri Lanka Freedom Party (SLFP) headquarters at Darley Road in Colombo 10.
+
+The tense situation arose after a group trying to enter the party building were obstructed by police, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/b08bb43c.json)
+
+---
+
+### Every low-income family to receive free rice in April and May
+
+*2024-04-21 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98756/every-low-income-family-to-receive-free-rice-in-april-and-may) · `en`
+
+President Ranil Wickremesinghe says that every low-income family in the country will receive 10 kilograms of rice monthly for April and May.
+
+The Head of the State made this remark while participating in the national rice distribution ceremony for low-income families held at the Ambagasdowa Stadium in Uva Paranagama, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/ae29ed4b.json)
+
+---
+
+### Former Minister Sarath Key speech about Passover attack
 
 *2024-04-21 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195832) · `si`
 
-පාස්කු ප්‍රහාරය සිදුකළේ මුස්ලිම් අන්තවාදීන් යැයි එම ප්‍රහාරය සම්බන්ධයෙන් විමර්ශන සිදුකළ ජාත්‍යන්තර බුද්ධි අංශ තුනක් තහවුරු කර ඇතැයි හිටපු මහජන ආරක්ෂක අමාත්‍ය ආචාර්ය සරත් වීරසේකර මහතා අවධාරණය කරයි.
+Dr. Sarath Weerasekera, former PSC, criticizes the government's handling of the Passover attack, highlighting three international intelligence areas. He mentions the arrest of a suspect, the involvement of JVP in discussions with Cardinal, and the investigation by three international intelligence divisions. He also criticizes the delay in court proceedings and the Attorney General's Department's handling of charges.
 
-ගරු සිරිල් ගාමිණි පියතුමා ඊයේ (20) සිදුකළ ප්‍රකාශයකට ප්‍රතිචාර දක්වමින් ඒ මහතා මේ බව ප්‍රකාශ කළේය.
+🟩
 
-හිටපු මහජන ආරක්ෂක අමාත්‍ය රියර් අද්මිරාල් ආචාර්ය සරත් වීරසේකර මහතා,
+Former PSC Dr. Sarath Weerasekera emphasizes three international intelligence areas regarding the attack as Muslim extremists as Muslim extremists.
+
+He was responding to a statement by Hon. Cyril Gamini responded yesterday.
+
+Former Public Defense Minister Rear Admiral Dr. Sarath Weerasekera
 
 ...
 
 [Data](articles/609a604e.json)
+
+[Extended Data](ext_articles/609a604e.ext.json)
+
+---
+
+### 10 கிலோ கிராம் அரிசி வழங்கப்படும்
+
+*2024-04-21 13:18:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கிலோ-கிராம்-அரிசி-வழங்கப்படும்/175-336132) · `ta`
+
+குறைந்த வருமானம் பெறும் ஒவ்வொரு குடும்பத்திற்கும் ஏப்ரல் - மே மாதங்களில் மாதாந்தம் 10 கிலோ அரிசி வழங்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+ஊவா பரணகம, அம்பகஸ்டோவ மைதானத்தில் ஏற்பாடு செய்யப்பட்ட குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கும் தேசிய நிகழ்வில் கலந்துக்கொண்டு உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+
+◼️
+
+[Data](articles/377e8567.json)
 
 ---
 
@@ -63,6 +111,8 @@ The Colombo District Court issued an interim injunction, barring former Presiden
 ◼️
 
 [Data](articles/80d91b44.json)
+
+[Extended Data](ext_articles/80d91b44.ext.json)
 
 ---
 
@@ -100,6 +150,8 @@ The State of the Budget Report is compiled annually by Verité Research and publ
 
 [Data](articles/063184e7.json)
 
+[Extended Data](ext_articles/063184e7.ext.json)
+
 ---
 
 ### Every low-income family will receive 10 kgs of rice for April, May: President
@@ -113,6 +165,8 @@ He said this while participating in the national rice distribution ceremony for 
 ◼️
 
 [Data](articles/921853ae.json)
+
+[Extended Data](ext_articles/921853ae.ext.json)
 
 ---
 
@@ -2163,89 +2217,5 @@ However, Trade Minister Nalin Fernando said that the monthly big onion requireme
 [Data](articles/d39c6d31.json)
 
 [Extended Data](ext_articles/d39c6d31.ext.json)
-
----
-
-### Detention orders issued on four including naval officers busted with ‘Ice’
-
-*2024-04-20 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98743/detention-orders-issued-on-four-including-naval-officers-busted-with-ice) · `en`
-
-The Hulftsdorp Magistrate’s Court has issued a detention order on the four suspects including the two naval officers arrested while in possession of crystal methamphetamine (‘Ice’).
-
-Accordingly, the arrested individuals will be detained until 26 April for interrogations.
-
-On Friday (19), the officers of Mulleriyawa Police arrested 510 grams of ‘Ice’ from the possession of four individuals. The consignment was estimated to be worth Rs. 7.5 million.
-
-Acting on a tip-off received on drug distribution, the police officers had raided a house located on Siriperakum Mawatha in Mulleriyawa.
-
-A total of six people were inside the house at the time of the raid, and various amounts of ‘Ice’ adding up to a total of 510 grams were found on four of them.
-
-Two suspects were identified as Lieutenant Commanders of the Sri Lanka Navy. During interrogations, they divulged that they have been frequenting the house for about one and a half years now.
-
-◼️
-
-[Data](articles/a2dd3d6e.json)
-
-[Extended Data](ext_articles/a2dd3d6e.ext.json)
-
----
-
-### Two security personnel with drugs with drugs and question
-
-*2024-04-20 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195810) · `si`
-
-Two security personnel arrested with drugs at Aluthkade Magistrate's Court. Four, including two Lieutenant Commanders, held for 510 grams of ice. Police found 400 grams in a house in Mulleriyawa. Two others had over 5 grams each. Navy officers, arrested for a year and a half, were part of an ice drug operation led by Sanath.
-
-🟩
-
-Aluthkade Magistrate's Court today (20) has been granted to retain four and the four security personnel who were arrested with drugs.
-
-Four persons including two Lieutenant Commanders, including 510 grams of ice drug, four persons were arrested by Mulleriyawa Police.
-
-The OIC of the Mulleriyawa Police and the OIC of the Mulleriyawa Police operates yesterday (19) at the Mulleriyakum Mawatha area in Mulleriyawa Mawatha.
-
-In the presence of the house, the police were recovered to 400 ice narcotics.
-
-The police then covered the house, the police then covered the door and entered the house.
-
-However, the police had arrested three persons in the house when he had not seen a door of a room at home.
-
-The police said that one person had 100 grams of ice narcotics, police said.
-
-Over 5 grams of ice cast have been found in possession of two others.
-
-In the interrogation of the two, they were two Lieutenant Commanders in the Navy.
-
-...
-
-[Data](articles/01773e07.json)
-
-[Extended Data](ext_articles/01773e07.ext.json)
-
----
-
-### The US citizen Prince Harry
-
-*2024-04-20 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181521) · `ta`
-
-Prince Harry, fifth in line for the British throne, declared himself an American citizen in 2020, leaving England. He and his family live in California, where he founded a travel company, Travelyst, in 2019, initially identifying Britain as his home.
-
-🟩
-
-Prince Harry, who is in the fifth place on the throne of the British Empire, has called himself an American citizen.
-
-Harry, the son of British king Charles, left his family in 2020 from England.
-
-Currently, California, wife of California, lives with Children's Archie and Lillipet.
-
-In the United States in 2019, he started a travel -based company called 'Travelyst'.At that time, Harry referred to Britain as his residence and home country in the company's documents
-
-Hari has now referred to the United States as his new country.
-
-◼️
-
-[Data](articles/4ea7a913.json)
-
-[Extended Data](ext_articles/4ea7a913.ext.json)
 
 ---

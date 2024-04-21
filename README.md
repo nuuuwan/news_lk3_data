@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 13:33:57**
+As of **2024-04-21 13:52:32**
 
 ## Newspaper Stats
 
-*Scraped **20,013** Articles*
+*Scraped **20,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,664
 tamilmirrorlk | 2,310
 adaderanalk | 2,398
 virakesarilk | 2,985
-dailymirrorlk | 3,118
-adaderanasinhalalk | 3,252
+dailymirrorlk | 3,121
+adaderanasinhalalk | 3,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,012 (100.0%) of 20,013 articles have been extended.
+20,013 (100.0%) of 20,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### පාස්කු ප්‍රහාරය ගැන හිටපු ඇමති සරත් කී කතාව
+
+*2024-04-21 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195832) · `si`
+
+පාස්කු ප්‍රහාරය සිදුකළේ මුස්ලිම් අන්තවාදීන් යැයි එම ප්‍රහාරය සම්බන්ධයෙන් විමර්ශන සිදුකළ ජාත්‍යන්තර බුද්ධි අංශ තුනක් තහවුරු කර ඇතැයි හිටපු මහජන ආරක්ෂක අමාත්‍ය ආචාර්ය සරත් වීරසේකර මහතා අවධාරණය කරයි.
+
+ගරු සිරිල් ගාමිණි පියතුමා ඊයේ (20) සිදුකළ ප්‍රකාශයකට ප්‍රතිචාර දක්වමින් ඒ මහතා මේ බව ප්‍රකාශ කළේය.
+
+හිටපු මහජන ආරක්ෂක අමාත්‍ය රියර් අද්මිරාල් ආචාර්ය සරත් වීරසේකර මහතා,
+
+...
+
+[Data](articles/609a604e.json)
+
+---
+
+### Maithripala faction appoints Wijeyadasa as SLFP Acting Chairman
+
+*2024-04-21 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-faction-appoints-Wijeyadasa-as-SLFP-Acting-Chairman/108-281085) · `en`
+
+Colombo, April 21 (Daily Mirror)- Minister Wijeyadasa Rajapakshe was appointed as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) by the Maithripala Sirisena faction.
+
+The appointment was made during an executive committee meeting held at a hotel in Kotte with the participation of former President Maithripala Sirisena.
+
+Minister of Ports, Aviation and Shipping Nimal Siripala de Silva was earlier appointed as Acting Chairman of the Sri Lanka Freedom Party (SLFP) at a SLFP politburo meeting under the chairmanship of former President Chandrika Bandaranaike Kumaratunga.
+
+The Colombo District Court issued an interim injunction, barring former President Maithripala Sirisena from functioning as SLFP Chairman.
+
+◼️
+
+[Data](articles/80d91b44.json)
+
+---
 
 ### Three of same family killed, 2 injured in accident on Elpitiya–Aviththawa road
 
@@ -52,21 +86,57 @@ The driver of the lorry has been arrested in relation to the accident, while Elp
 
 ---
 
-### අයිස් සමග අත්අඩංගුවට ගත් නාවික හමුදාවේ දෙදෙනා ඇතුළු සිව් දෙනා රඳවාගෙන ප්‍රශ්න කරයි
+### Sri Lanka to miss budget revenue target for 33rd year running in 2024: Verité Research
+
+*2024-04-21 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-miss-budget-revenue-target-for-33rd-year-running-in-2024-Verité-Research/108-281084) · `en`
+
+Colombo, April 21 (Daily Mirror)- Sri Lanka is projected to fall short of its budget target on revenue to GDP (gross domestic product) for the 33rd consecutive year in 2024, according to the recently released ‘State of the Budget Report 2024’ compiled by Verité Research.
+
+The State of the Budget Report is compiled annually by Verité Research and published on PublicFinance.lk, Sri Lanka’s premier platform for economic insights.
+
+"The report provides a robust analysis and objective assessment of the fiscal, financial and economic estimates in Sri Lanka’s annual budget. It mirrors the scope of a budget report that is expected to be published by the Parliamentary Committee on Public Finance (COPF), with the same aim, of helping improve informed engagement with the budget, both in public and in parliament.
+
+...
+
+[Data](articles/063184e7.json)
+
+---
+
+### Every low-income family will receive 10 kgs of rice for April, May: President
+
+*2024-04-21 12:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Every-low-income-family-will-receive-10-kgs-of-rice-for-April-May-President/108-281082) · `en`
+
+Colombo, April 21 (Daily Mirror)- President Ranil Wickremesinghe said today that every low-income family will receive 10 kgs of rice monthly for April and May.
+
+He said this while participating in the national rice distribution ceremony for low-income families at the Ambagasdowa Stadium, Uva Paranagama, the President's Media Division (PMD) said.
+
+◼️
+
+[Data](articles/921853ae.json)
+
+---
+
+### The four navy seized with the ice and the four suspects and questioned
 
 *2024-04-21 12:33:47* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-අත්අඩංගුවට-ගත්-නාවික-හමුදාවේ-දෙදෙනා-ඇතුළු-සිව්-දෙනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-409182) · `si`
 
-රුපියල් මිලියන හත හමාරක් පමණ වටිනා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 510 ක් ළඟ තබාගෙන අත්අඩංගුවට ගත් ශ්‍රී ලංකා නාවික හමුදාවේ ලුතිනන් කමාන්ඩර්වරුන් දෙදෙනා ඇතුළු සිව් දෙනා අප්‍රේල් 26 වෙනි දින දක්වා රඳවා ගෙන ප්‍රශ්න කිරීමට අලුත්කඩේ මහේස්ත්‍රාත් අධිකරණය අවසර ලබා දී තිබේ.
+The Sri Lanka Navy arrested four suspects, including two Navy officers, for possessing 510 million ice drugs. The Mulleriyawa OIC was also arrested after being inspected in the Mulleriyawa area. A house inspection led to the discovery of 100 grams of ice drugs and the arrest of three individuals, including the OIC. The suspects were found to be involved in a racket, with one of them being the main person behind the ice drug trafficking in the area.
 
-මුල්ලේරියාව සිරි පැරකුම්  මාවත ප්‍රදේශයේ නිවෙසක අයිස් මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මුල්ලේරියාව පොලිස් ස්ථානාධිපති ඇතුළු කණ්ඩායමක් පසුගිය 19 වැනි දින එම ස්ථානය  පරීක්ෂා කිරීමෙන් පසුව මෙම පිරිස අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-අදාළ නිවස ඉදිරිපිට සැකකටයුතු ලෙස ගැවසුණු අයකු පොලිස් නිලධාරීන්ගේ පරීක්‍ෂාවට ලක් වූ  අතර එහිදී එම සැකකරු ළඟ තිබී  අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 400 ක් සොයාගන්නට හැකි වූ බව මුල්ලේරියාව පොලිසිය කියයි.
+The Sri Lanka Navy, who was arrested by the Sri Lanka Navy, who was arrested by the Sri Lanka Navy, who was arrested by 510 million ice drugs and was arrested by the Hulfipe Magistrate's Court to retain the 510 million Ice narcotics.
 
-ඔහුගෙන් ලද තොරතුරු අනුව අදාළ නිවෙස පරීක්ෂා කිරීමට ගිය අවස්ථාවේදී නිවෙසේ දොරවල් වසා තිබීම හේතුවෙන් පොලිසිය පිටුපස දොර කඩා නිවෙසට ඇතුළු වී තිබේ. නිවෙසේ ඒ අවස්ථාවේ කිසිවකු පෙනෙන්නට නොසිටි බව පවසන පොලිසිය එම නිවෙස තුළ තිබූ කාමරයක දොර වසා තිබුණු දැක  එම දොර කඩා බලන විට එහි සිටි පුද්ගලයන් තිදෙනකු අත්අඩංගුවට ගෙන තිබේ.
+The Mulleriyawa OIC has been arrested following information that the Mulleriyawa OIC has been inspected in the Mulleriyawa area in Mulleriyawa.
+
+Mulleriyawa Police say that the suspect was inspected by the suspect, which was found at the suspect, which had been found in the incident.
+
+When the house was inspected on his information, the house was collapsed to the house and entered the house due to the house of doles. The police said that the police had not seen the door at the time in a room in a room in the house and arrested three persons.
 
 ...
 
 [Data](articles/e5256e86.json)
+
+[Extended Data](ext_articles/e5256e86.ext.json)
 
 ---
 
@@ -2177,85 +2247,5 @@ Hari has now referred to the United States as his new country.
 [Data](articles/4ea7a913.json)
 
 [Extended Data](ext_articles/4ea7a913.ext.json)
-
----
-
-### President visits Ambewela
-
-*2024-04-20 15:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-visits-Ambewela/110-281069) · `en`
-
-President Ranil Wickremesinghe visited the Ambewela Dairy Farm, equipped with state-of-the-art technology, this morning to assess its progres. Pix by President media
-
-◼️
-
-[Data](articles/b7200190.json)
-
-[Extended Data](ext_articles/b7200190.ext.json)
-
----
-
-### Two women arrested with suspicion of cocaine
-
-*2024-04-20 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195809) · `si`
-
-Two women, nationals of the Republic of the Philippines, aged 40 and 42, were arrested at Bandaranaike International Airport in Katunayake for smuggling 40 cocaine packets, valued at over Rs. 20 million. Sri Lanka Customs officials found the drugs during a raid. Further investigations are underway.
-
-🟩
-
-Two foreign women were arrested at the Bandaranaike International Airport of Katunayake.
-
-It is reported that the drug has found that the relevant drug has been found in a raid conducted by officials of the Sri Lanka Customs.
-
-Accordingly, the two women have taken out of 40 drugs hidden in their body.
-
-The drug has been identified as a cocaine in the preliminary investigations carried out and its market value is over Rs. 20 million.
-
-The two women are nationals belonging to the republic of the fire. Customs said they were 40 and 42 years old.
-
-Officers in the Drug Administration in Sri Lanka Customs conduct further investigations.
-
-◼️
-
-[Data](articles/4acdf4ae.json)
-
-[Extended Data](ext_articles/4acdf4ae.ext.json)
-
----
-
-### Immigration Department to launch online visa for Sri Lanka ship travellers
-
-*2024-04-20 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-Department-to-launch-online-visa-for-Sri-Lanka-ship-travellers/108-281062) · `en`
-
-Colombo, April 20 (Daily Mirror) - The Immigration and Emigration Department announced a forthcoming online visa system for travellers entering Sri Lanka by ship.
-
-The Department's Additional Controller General Nimal Gunawardena said that the online visa system will be introduced for four days.
-
-◼️
-
-[Data](articles/5c881204.json)
-
-[Extended Data](ext_articles/5c881204.ext.json)
-
----
-
-### Two Guinea women nabbed at BIA with Rs. 20 Mn worth cocaine
-
-*2024-04-20 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Guinea-women-nabbed-at-BIA-with-Rs-20-Mn-worth-cocaine/108-281068) · `en`
-
-Colombo, April 20 (Daily Mirror) - Two female passengers of the Republic of Guinea who tried to enter Sri Lanka by carrying Rs. 20 million worth of swallowed cocaine in their abdomens were intercepted by the Customs this morning.
-
-Officials of the Customs Narcotic Control Unit stationed at the Arrival Terminal of the Bandaranaike International Airport questioned the foreigners on suspicion to realize that they had swallowed capsules containing cocaine.
-
-Customs Spokesman, Senior Director Seevali Arukgoda told the Daily Mirror that the authorities have managed to retrieve 29 and 11 capsules containing 500 grams of cocaine altogether from the two women.
-
-The foreigners aged 42 and 40 years have reportedly left Sierra Leone in Africa and had arrived in Colombo via Istanbul, Turkey on Turkish Airlines flight TK 730.
-
-A gram of cocaine presently has a street value of Rs.40,000 in Sri Lanka and the seized 500 grams are estimated to value over Rs. 20 million.
-
-...
-
-[Data](articles/773a89f0.json)
-
-[Extended Data](ext_articles/773a89f0.ext.json)
 
 ---

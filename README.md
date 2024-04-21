@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 14:03:35**
+As of **2024-04-21 14:18:33**
 
 ## Newspaper Stats
 
-*Scraped **20,020** Articles*
+*Scraped **20,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ economynextcom | 1,145
 adalk | 1,664
 tamilmirrorlk | 2,311
 adaderanalk | 2,400
-virakesarilk | 2,985
+virakesarilk | 2,987
 dailymirrorlk | 3,121
-adaderanasinhalalk | 3,253
+adaderanasinhalalk | 3,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,017 (100.0%) of 20,020 articles have been extended.
+20,020 (100.0%) of 20,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### 5කට දිවි අහිමි කරවමින් කඩාවැටුණු තාප්පය
+
+*2024-04-21 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195834) · `si`
+
+පුද්ගලයින් පිරිසක් මතට විශාල තාප්පයක් කඩාවැටෙන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+
+තාප්පය කඩාවැටීමෙන් සිදුවූ මෙම අනතුරින් කුඩා ළමයෙකු ඇතුළුව පුද්ගලයින් පස්දෙනෙකුට දිවි අහිමිව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+දිවි අහිමිවූ පිරිස අතර සිටි කුඩා ළමයාගේ වයස වයස අවුරුදු 11ක් බව එම වාර්තා වැඩිදුරටත් පෙන්වාදෙයි.
+
+◼️
+
+[Data](articles/07df346a.json)
+
+---
 
 ### Tense situation in front of SLFP headquarters
 
@@ -40,9 +56,33 @@ A tense situation has been reported in front of the Sri Lanka Freedom Party (SLF
 
 The tense situation arose after a group trying to enter the party building were obstructed by police, Ada Derana reporter said.
 
+Meanwhile, Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of Sri Lanka Freedom Party (SLFP), sources told Ada Derana.
+
+This appointment has been made by the SLFP faction led by former President Maithripala Sirisena, who has been prevented by a court order from functioning as party chairman, during its executive committee meeting held in Athul Kotte today (21).
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
+
 ◼️
 
 [Data](articles/b08bb43c.json)
+
+[Extended Data](ext_articles/b08bb43c.ext.json)
+
+---
+
+### නිදහස් පක්ෂ කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක්
+
+*2024-04-21 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195833) · `si`
+
+කොළඹ ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට මේ වනවිට නොසන්සුන් තත්ත්වයක් ඇති වී තිබේ.
+
+ඒ වාරණයට ලක්වූ පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් අද පැවති විධායක කමිටු රැස්වීමෙන් පසු කණ්ඩායමක් එම මූලස්ථානයට ඇතුළු වීමට උත්සාහ කළ අවස්ථාවේදී මෙම උණුසුම් තත්ත්වය ඇතිවී තිබේ
+
+◼️
+
+[Data](articles/4f15df54.json)
 
 ---
 
@@ -57,6 +97,8 @@ The Head of the State made this remark while participating in the national rice 
 ◼️
 
 [Data](articles/ae29ed4b.json)
+
+[Extended Data](ext_articles/ae29ed4b.ext.json)
 
 ---
 
@@ -82,17 +124,43 @@ Former Public Defense Minister Rear Admiral Dr. Sarath Weerasekera
 
 ---
 
-### 10 கிலோ கிராம் அரிசி வழங்கப்படும்
+### 10 kg of rice will be provided
 
 *2024-04-21 13:18:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கிலோ-கிராம்-அரிசி-வழங்கப்படும்/175-336132) · `ta`
 
-குறைந்த வருமானம் பெறும் ஒவ்வொரு குடும்பத்திற்கும் ஏப்ரல் - மே மாதங்களில் மாதாந்தம் 10 கிலோ அரிசி வழங்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe announced a monthly 10 kg rice distribution to low-income families from April to May at Ambakastova Ground, Uva Paranagama.
 
-ஊவா பரணகம, அம்பகஸ்டோவ மைதானத்தில் ஏற்பாடு செய்யப்பட்ட குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கும் தேசிய நிகழ்வில் கலந்துக்கொண்டு உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+🟩
+
+President Ranil Wickremesinghe said that every family receiving low -income family will be given 10 kg of rice per month in April -May.
+
+He was speaking at a national event to provide rice to low -income families organized at the Ambakastova Ground in Uva Paranagama.
 
 ◼️
 
 [Data](articles/377e8567.json)
+
+[Extended Data](ext_articles/377e8567.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்று ஐந்து வருடங்களின் பின்னரும் இலங்கையில் ஆழமான காயங்கள் - என்ன நடந்தது என்பதை அறிவதற்கு ஆண்டவரை நம்பியிருக்கின்றோம் என்கின்றார் மல்கம் ரஞ்சித்
+
+*2024-04-21 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181571) · `ta`
+
+இஸ்லாமிய குண்டுதாரிகள் இலங்கையின் மிகவும் பயங்கரமான தற்கொலை குண்டுதாக்குதலில் 279 பேரை கொலை செய்து ஐந்து வருடங்களாகின்றன ஆனால் துயரில் சிக்குண்டுள்ள குடும்பங்கள் தாங்கள் இன்னமும் நீதிக்காக காத்திருப்பதாக தெரிவிக்கின்றனர்.
+
+அரசாங்க உத்தியோகத்தரான சமன் சிறிமன்னவும்59- அவரது மனைவி சிரியானியும் 57  2019 ம் ஆண்டு ஏப்பிரல் 21ம் திகதி தற்கொலை குண்டுதாரி தலைநகர் கொழும்பில் உள்ள சென்அன்டனிஸ் தேவலாயத்தில் தாக்குதலை மேற்கொண்ட வேளை தங்கள் இரண்டு பிள்ளைகளை; இழந்தனர்.
+
+பெரும்பான்மை பௌத்த நாட்டில் ஆடம்பர ஹோட்டல்கள் மற்றும் வேறு இரு கிறிஸ்தவ தேவலாயங்களையும் இலக்குவைத்தும் தாக்குதல் இடம்பெற்றது.
+
+பரீட்சையில் சிறந்த பெறுபேறுகளை பெறுவதற்காக ஆண்டவரின் ஆசீர்வாதத்தை பெறும்நோக்கத்துடன்19 வயது மகளும் 22 மகனும் தேவாலயத்திற்கு சென்றிருந்தனர் என சிறிமணி தெரிவித்தார்.
+
+என இழப்பு ஈடுசெய்ய முடியாதது என அவர் கண்ணீருடன் ஏஎவ்பிக்கு தெரிவித்தார்.எனது பிள்ளைகள் ஒருபோதும் திரும்பிவரமாட்டார்கள் என அவர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/e888b75e.json)
 
 ---
 
@@ -325,6 +393,26 @@ Accordingly, the subtlet distance from Kochchikade church to the Kupepitiya chur
 [Data](articles/805798e2.json)
 
 [Extended Data](ext_articles/805798e2.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் - ஐந்து வயது மகளை இழந்த தாய்க்கு உளவியல் பாதிப்பு - செவிப்புலன் பாதிக்கப்பட்டதால் வேலை இழப்பு - மறக்கப்பட்ட மலையக மக்களின் வலிகள்
+
+*2024-04-21 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181564) · `ta`
+
+Since Easter Sunday Attacks: Still awaiting justice 5 Years ‘Political, Socio-Cultural, Economic and Legal Perspectives’
+
+உயிர்த்த ஞாயிறு தாக்குதல் பலவயதுடையவர்கள் பல தேசிய இனங்களை சேர்ந்தவர்கள் பல பொருளாதார நிலையை கொண்டவர்களின் உயிர்களை பறித்தது.
+
+மிகவும் பிரபலபமான நன்கறியப்பட்ட டென்மார்க் கோடீஸ்வரரும் பெஸ்ட்செல்லரின் பிரதம நிறைவேற்று அதிகாரியுமான ஹெல்ச் பொவ்ல்செனின் பிள்ளைகள் உட்பட ( சுற்றுலாப்பயணிகள் ) உட்பட கிறிஸ்தவ தேவலாயத்திற்கு சென்ற பல சிறுவர்கள் கொல்லப்பட்டனர்.
+
+பலியானவர்கள் குறித்தும் உயிர்பிழைத்தவர்கள் குறித்தும் பல கட்டுரைகள் எழுதப்பட்டுள்ளதுடன் ஊடகங்கள் கவனம் செலுத்தியுள்ள போதிலும் உயிர்த்த ஞாயிறுதாக்குதலினால் பாதிக்கப்பட்ட- மறக்கப்பட்ட ஒரு சமூகமாக இலங்கையின் மலையகதமிழர்கள் காணப்படுகின்றனர்.
+
+இலங்கையின் மலையகபகுதிகளில் வாழும் இந்த மக்களுக்கு சமூகத்தினால் மறக்கப்படுவதும் ஒதுக்கிவைக்கப்படுவதும் புதிய விடயமல்ல.
+
+...
+
+[Data](articles/f0723783.json)
 
 ---
 
@@ -2131,91 +2219,5 @@ The ambassador said that the Israeli people in the region were temporarily forwa
 [Data](articles/c543023c.json)
 
 [Extended Data](ext_articles/c543023c.ext.json)
-
----
-
-### MP Digambaram to support plantation workers’ strike on Monday
-
-*2024-04-20 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MP-Digambaram-to-support-plantation-workers-strike-on-Monday/108-281071) · `en`
-
-The Tamil Progressive Alliance (TPA) fully supports the strike that the plantation workers are scheduled to launch from Monday (22), Nuwara Eliya District Member of Parliament Palani Digambaram said during a media conference held in Hatton today.
-
-Even though President Ranil Wickremesinghe has advised the tea plantation companies to increase the daily salary of plantation workers to Rs 1,700, they have refused to increase the salaries.
-
-"The plantation companies have expressed their agreement to increase the amount of Rs. 400 in addition to the daily salary of Rs.1,000 currently paid to a plantation worker. It has been agreed to give the remaining Rs. 300 with conditions," the MP said.
-
-MP Digambaram further said that under the Samagi Jana Balawega government led by Sajith Premadasa, they will distribute tea lands to the plantation workers and make them small tea plantation owners and increase the daily income of the plantation workers.
-
-◼️
-
-[Data](articles/563ebc94.json)
-
-[Extended Data](ext_articles/563ebc94.ext.json)
-
----
-
-### MP Digambaram to support plantation workers’s strike on Monday
-
-*2024-04-20 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MP-Digambaram-to-support-plantation-workerss-strike-on-Monday/108-281071) · `en`
-
-The Tamil Progressive Alliance (TPA) fully supports the strike that the plantation workers are scheduled to launch from Monday (22), Nuwara Eliya District Member of Parliament Palani Digambaram said during a media conference held in Hatton today.
-
-Even though President Ranil Wickremesinghe has advised the tea plantation companies to increase the daily salary of plantation workers to Rs 1,700, they have refused to increase the salaries.
-
-"The plantation companies have expressed their agreement to increase the amount of Rs. 400 in addition to the daily salary of Rs.1,000 currently paid to a plantation worker. It has been agreed to give the remaining Rs. 300 with conditions," the MP said.
-
-MP Digambaram further said that under the Samagi Jana Balawega government led by Sajith Premadasa, they will distribute tea lands to the plantation workers and make them small tea plantation owners and increase the daily income of the plantation workers.
-
-◼️
-
-[Data](articles/7ef2260a.json)
-
-[Extended Data](ext_articles/7ef2260a.ext.json)
-
----
-
-### Man hacked to death in Valaichchenai over mobile phone dispute
-
-*2024-04-20 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98744/man-hacked-to-death-in-valaichchenai-over-mobile-phone-dispute) · `en`
-
-A person has been hacked to death with sharp weapons in the Valaichchenai area last night (19).
-
-Police said that the attack was perpetrated following a heated argument between two friends regarding a mobile phone.
-
-The deceased person has been identified as a 43-year-old resident of the Birandarachchenai area.
-
-The suspect who committed the crime has been arrested and the Valaichchenai Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/a4b4227c.json)
-
-[Extended Data](ext_articles/a4b4227c.ext.json)
-
----
-
-### The importation of big onions through Sathosa
-
-*2024-04-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195812) · `si`
-
-India exports big onions to Sri Lanka via Lanka Sathosa. The Sri Lankan delegation was sent to India for this purpose. The Department of Trade and Consumer Affairs decided to import these onions. The first shipment is 2,000 metric tons, but the monthly requirement is 20,000 metric tons.
-
-🟩
-
-The import of big onions from India has been made through Lanka Sathosa.
-
-The Indian government decided to export the Sri Lankan delegation to Sri Lanka for Sri Lanka's removal for Sri Lanka.
-
-The Department of Trade and Consumer Affairs discussed the stock from the private sector or the public sector, which was decided to import big onions from India through Lanka Sathosa.
-
-According to the Suda Yapa Abeywa, Pasanda, said that 2,000 metric metrics of onions were to be imported as the first consignment.
-
-However, Trade Minister Nalin Fernando said that the monthly big onion requirement of the country is about 20,000 metrics.
-
-◼️
-
-[Data](articles/d39c6d31.json)
-
-[Extended Data](ext_articles/d39c6d31.ext.json)
 
 ---

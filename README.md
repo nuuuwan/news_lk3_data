@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 00:33:43**
+As of **2024-04-22 00:49:00**
 
 ## Newspaper Stats
 
-*Scraped **20,092** Articles*
+*Scraped **20,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 210
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
-dailyftlk | 1,099
+dailyftlk | 1,102
 economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
@@ -26,11 +26,65 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,092 (100.0%) of 20,092 articles have been extended.
+20,092 (100.0%) of 20,095 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-22 (Monday)
+
+### Global admiration for Sri Lanka’s economic reform efforts echoes at IMF-World Bank mid-year meetings
+
+*2024-04-22 00:02:12* · [`dailyftlk`](https://www.ft.lk/news/Global-admiration-for-Sri-Lanka-s-economic-reform-efforts-echoes-at-IMF-World-Bank-mid-year-meetings/56-760850) · `en`
+
+State Minister of Finance Shehan Semasinghe highlights positive outcomes achieved during meetings
+
+Key areas appreciated include economic developments, advancements in debt restructuring, tax administration boosting, and ongoing governance reforms
+
+Highlights support received for debt restructuring process, hopeful of achieving debt sustainability, successful resolution
+
+Asserts importance of national unity, collective support towards economic stabilisation and growth
+
+Expresses gratitude to multilateral stakeholders, global partners; IMF and World Bank
+
+Acknowledges patience, determination of people to navigate amid economic challenges
+
+The recently concluded mid-year meetings of the International Monetary Fund (IMF) and the World Bank have garnered international praise for Sri Lanka’s ongoing economic reform process.
+
+...
+
+[Data](articles/acb9c14e.json)
+
+---
+
+### Pavitra oversees preparations to open Uma Oya project on Wednesday
+
+*2024-04-22 00:00:47* · [`dailyftlk`](https://www.ft.lk/news/Pavitra-oversees-preparations-to-open-Uma-Oya-project-on-Wednesday/56-760849) · `en`
+
+Irrigation, Wildlife and Forestry Minister Pavitra Wanniarachchi announced that all arrangements have been finalised for the handover of the Uma Oya multi-purpose development project to the public on Wednesday.
+
+Speaking to the media after inspecting the project site, Wanniarachchi expressed satisfaction with the progress and highlighted the significance of the project for the country.
+
+Under the leadership of President Ranil Wickremesinghe and President of Iran Ibrahim Raisi, the project is set to be inaugurated on 24 April, marking a significant milestone in Sri Lanka’s development journey.
+
+...
+
+[Data](articles/fb51273a.json)
+
+---
+
 ### 2024-04-21 (Sunday)
+
+### Sri Lanka-China research vessel saga and maritime diplomacy in Indian Ocean
+
+*2024-04-21 23:47:40* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-China-research-vessel-saga-and-maritime-diplomacy-in-Indian-Ocean/4-760847) · `en`
+
+China, a maritime power in the South China Sea and the Indian Ocean in the 14th century, has now undertaken a substantial expansion of its maritime infrastructure and naval fleet, poised to rival the strength of the U.S. naval fleet in the years ahead. In contrast to the United States, which exerts control over approximately 750 bases in 80 countries and surpasses the combined military expenditures of the next 10 nations, China's military spending and global naval presence remain comparatively restrained.
+
+...
+
+[Data](articles/140d4e5e.json)
+
+---
 
 ### Visit President Ambewela Dairy FarmExtension Workshop for Tourists to visit
 
@@ -2225,59 +2279,5 @@ The Samurdhi Development Department states that loans from Rs.
 [Data](articles/eaffba5f.json)
 
 [Extended Data](ext_articles/eaffba5f.ext.json)
-
----
-
-### Ask for National Identity Card for 40 Birth No Birth
-
-*2024-04-21 09:16:07* · [`adalk`](https://www.ada.lk/breaking_news/උප්පැන්න-නැති-40-පැන්න-අයට-ජාතික-හැඳුනුම්පත-ඉල්ලන්න-ජුනි-30-තෙක්-ඉඩ/11-409176) · `si`
-
-The final day for obtaining a National Identity Card for those aged 40 has been postponed to June 30 this year due to a shortage of birth certificates.
-
-🟩
-
-The department informs that the final day of the age of 40 has been postponed until June 30 this year due to lack of birth certificates.
-
-The department said that this time was postponed to June 30, despite the last month of the Divisional Secretaries.
-
-◼️
-
-[Data](articles/622e7b72.json)
-
-[Extended Data](ext_articles/622e7b72.ext.json)
-
----
-
-### When The West’s Mask Slipped – Exposing Its Hypocrisy Beyond Gaza!
-
-*2024-04-21 09:15:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-the-wests-mask-slipped-exposing-its-hypocrisy-beyond-gaza/) · `en`
-
-“To see the world as it is, first -we gotta take off our western glasses. Look at the human world with human eyes-only then you’ll fathom justice and progress.” ~ Abhijit Naskar, Vande Vasudhaivam: 100 Sonnets for Our Planetary Pueblo
-
-...
-
-[Data](articles/465e41ee.json)
-
-[Extended Data](ext_articles/465e41ee.ext.json)
-
----
-
-### Increase in dollar reserves and rupee value will enable vehicle imports: Siyambalapitiya
-
-*2024-04-21 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-dollar-reserves-and-rupee-value-will-enable-vehicle-imports-Siyambalapitiya/108-281077) · `en`
-
-Colombo, April 21 (Daily Mirror) - The gradual increase in dollar reserves and the rise in the value of the rupee expected in the future will enable the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing a meeting in the Ruwanwella area, he said the committee appointed to carry out a high-level study to systematically remove restrictions on the import of vehicles is currently active.
-
-Due to the economic crisis in the country, import restrictions were imposed on between 1,500 and 2,000 items, but due to the gradual recovery of the economy, these restrictions are now only effective on the import of vehicles.
-
-This committee will make a list of the essential and indispensable vehicles for the country and accordingly these activities will be done in the future.
-
-...
-
-[Data](articles/17060077.json)
-
-[Extended Data](ext_articles/17060077.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 23:03:22**
+As of **2024-04-21 23:18:27**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,090 (100.0%) of 20,091 articles have been extended.
+20,091 (100.0%) of 20,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### ஜனாதிபதி அம்பேவெல பால் பண்ணைக்கு கண்காணிப்பு விஜயம்; பார்வையிட வரும் சுற்றுலாப் பயணிகளுக்கான வசதிகளை விரிவாக்கப் பணிப்புரை
+### Visit President Ambewela Dairy FarmExtension Workshop for Tourists to visit
 
 *2024-04-21 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181604) · `ta`
 
-உலகின் அதி நவீனத் தொழில்நுட்பத்துடன் கூடிய அம்பேவெல பால் பண்ணை குழுமத்தின் அபிவிருத்தி தொடர்பில் அறிந்துகொள்ள ஜனாதிபதி ரணில் விக்ரமசிங்க சனிக்கிழமை (20) முற்பகல் அங்கு விஜயம் செய்தார்.
+President Ranil Wickremesinghe visited the Ambewela Dairy Farm on Dec 20, 2022, to learn about its modern technology and development. He praised the farm's growth and its role in the national economy, met with tourists, and discussed the farm's future plans. The farm, started in 1940, is now a major milk production center in Sri Lanka and South Asia, with daily production of 40,000 liters, aiming for 52,000 liters this year.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க 2022 டிசம்பர் மாதத்தில் அம்பேவெல பால் பண்ணைக்கு அவசர கண்காணிப்பு விஜயம் ஒன்றை மேற்கொண்டிருந்ததுடன், அதன்போது வழங்கப்பட்ட பணிப்புரைகளின்படி, கடந்த ஆண்டு பண்ணையில் விரிவான அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டன.
+🟩
 
-இன்று முற்பகல் அம்பேவெல பால் பண்ணைக்கு வருகை தந்த ஜனாதிபதியை, பால் பண்ணை குழுமத்தின் பொது முகாமையாளர் சரத் பண்டார மற்றும் அதன் பணியாளர்கள் வரவேற்றனர்.
+President Ranil Wickremesinghe visited there on Saturday (20) to learn about the development of the Ambewela Dairy Group with the world's most modern technology.
 
-பண்ணையின் புதிய அபிவிருத்திப் பணிகளின் முன்னேற்றத்தை மீளாய்வு செய்த ஜனாதிபதி, கறவை மாடுகள் வைக்கப்பட்டுள்ள வளாகத்தையும் பார்வையிட்டார்.
+President Ranil Wickremesinghe made an emergency surveillance visit to the Ambewela Dairy Farm in December 2022 and a comprehensive development work on the farm began last year as per the directives provided.
 
-அதன் பின்னர், ஊழியர்களுடன் சிறு உரையாடலில் ஈடுபட்ட ஜனாதிபதி ரணில் விக்ரமசிங்க, அம்பேவெல பண்ணையின் பால் உற்பத்தித் துறையில் எட்டப்பட்டுள்ள படிப்படியான வளர்ச்சி மற்றும் தேசியப் பொருளாதாரத்திற்கான அதன் பங்களிப்பையும் பாராட்டினார்.
+Sarath Bandara and its employees were welcomed by the General Manager of the Dairy Farm Group.
+
+The President also reviewed the progress of the farm's new development activities and also visited the premises where the cows were placed.
+
+Subsequently, President Ranil Wickremesinghe, who was involved in a short conversation with the staff, praised the gradual growth of the Ambewela farm and its contribution to the national economy.
+
+Similarly, he pointed out the need to implement various tourists for tourists visiting the farm.
 
 ...
 
 [Data](articles/c1bad17e.json)
+
+[Extended Data](ext_articles/c1bad17e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 18:21:13**
+As of **2024-04-21 18:35:24**
 
 ## Newspaper Stats
 
-*Scraped **20,060** Articles*
+*Scraped **20,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,317
 adaderanalk | 2,404
 virakesarilk | 2,989
 dailymirrorlk | 3,127
-adaderanasinhalalk | 3,262
+adaderanasinhalalk | 3,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,060 (100.0%) of 20,060 articles have been extended.
+20,060 (100.0%) of 20,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### සුපිරි නළු විජෙයිට එරෙහිව පැමිණිල්ලක්
+
+*2024-04-21 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195842) · `si`
+
+ඉන්දීය මැතිවරණයේ ඡන්දය ප්‍රකාශ කිරීම සඳහා පැමිණි අවස්ථාවේ දකුණු ඉන්දීය සුපිරි නළු විජෙයි අකරතැබ්බයකට මුහුණ දී තිබේ.
+
+චෙන්නායි හි පිහිටි ඔහුට අදාළ ඡන්ද මධ්‍යස්ථානය වෙත පැමිණි අවස්ථාවේ ඔහුව දැකබලාගැනීමට විශාල පිරිසක් එම ස්ථානයට රැස්ව ඇත.
+
+එහිදී උණුසුම් තත්ත්වයක් ඇතිවී තිබෙන බවත් අනතුරුව පොලීසිය පැමිණ තත්ත්වය පාලනය කර පෝලිමේ නොසිට විජෙයි හට ඡන්දය ප්‍රකාශ කිරීම සඳහා අවස්ථාව ලබා දී ඇති බවත් වාර්තා වෙයි.
+
+මෙම සිදුවීමත් සමග චෙන්නායි පොලීසිය වෙත පැමිණිල්ලක් ලැබී ඇත්තේ විජෙයි නීතිවිරෝධී ලෙස ඡන්දය ප්‍රකාශ කර ඇති බවටය.
+
+ඔහුට එරෙහිව එල්ලවී ඇති චෝදනාව වන්නේ විශාල පිරිසක් පිරිවරාගෙන ජනතාවට හිරිහැර වන අයුරින් ඡන්ද මධ්‍යස්ථානය වෙත පිවිසීමයි.
+
+කෙසේ වෙතත් මේ සම්බන්ධයෙන් චෙන්නායි පොලීසිය මේ දක්වා කිසිදු පියවරක් ගෙන නොමැති බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+විජෙයි එදින අලුයම සිය නවතම චිත්‍රපටයේ රූගත කිරීම් නිමකර රුසියාවේ සිට ඉන්දියාව බලා පැමිණ ඇති බවත් විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/50ed5ecf.json)
+
+---
 
 ### No one is passing out or left behind - President
 
@@ -2215,19 +2239,5 @@ Accordingly, in the next two weeks, the 2000 metric tons of onion will be import
 [Data](articles/de390325.json)
 
 [Extended Data](ext_articles/de390325.ext.json)
-
----
-
-### Paris – A Moveable Feast
-
-*2024-04-21 05:03:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paris-a-moveable-feast/) · `en`
-
-One of the most enchanting books I have read in recent times has to be “A Moveable Feast” by the celebrated American writer Ernest Hemingway (1899-1961). The book eludes  easy categorisation, although it could be broadly considered a memoire of a period of his early life, when he lived in Paris (from 1921 to 1926). Hemingway had kept notes of his Paris days, getting down to writing “A Movable Feast” only in the last years of his life, in 1957 to be exact.
-
-...
-
-[Data](articles/e57cdb3b.json)
-
-[Extended Data](ext_articles/e57cdb3b.ext.json)
 
 ---

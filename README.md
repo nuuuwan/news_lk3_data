@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 11:34:15**
+As of **2024-04-21 11:53:17**
 
 ## Newspaper Stats
 
-*Scraped **19,995** Articles*
+*Scraped **19,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,143
 adalk | 1,659
 tamilmirrorlk | 2,308
-adaderanalk | 2,395
+adaderanalk | 2,396
 virakesarilk | 2,985
 dailymirrorlk | 3,115
 adaderanasinhalalk | 3,249
@@ -26,33 +26,53 @@ adaderanasinhalalk | 3,249
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,993 (100.0%) of 19,995 articles have been extended.
+19,995 (100.0%) of 19,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### குற்றச்சம்பவங்களின் குறைவிற்கு யுக்தியவே காரணம்
+### Sri Lanka’s Vedda popn shares genetic link with ethnic Indians
+
+*2024-04-21 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98752/sri-lankas-vedda-popn-shares-genetic-link-with-ethnic-indians) · `en`
+
+In a landmark study published recently in the journal Mitochondrion, 10 researchers from five institutions -- including Banaras Hindu University, Varanasi; University of Colombo, Sri Lanka; CSIR-Centre for Cellular and Molecular Biology, Hyderabad; University of Bern, Switzerland; and Postgraduate Institute of Archaeology, University of Kelaniya, Colombo -- unveiled significant findings regarding the genetic history of the Vedda population, an indigenous group of Sri Lanka.
+
+The study, which involved a comprehensive analysis of high-resolution autosomal and mitochondrial genomes, sheds new light on the initial peopling of Sri Lanka and the ancient genetic ties between the Vedda and other populations in Asia. The key findings from the research indicate that despite the lack of close linguistic similarities, the Vedda people share a significant genetic link with the ethnic populations in India.
+
+...
+
+[Data](articles/d494a3e3.json)
+
+---
+
+### The reason for the lack of crime
 
 *2024-04-21 11:14:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குற்றச்சம்பவங்களின்-குறைவிற்கு-யுக்தியவே-காரணம்/175-336122) · `ta`
 
-2023 ஆம் ஆண்டுடன் ஒப்பிடும் போது இந்த வருடம் சிங்கள மற்றும் தமிழ் புத்தாண்டு காலப்பகுதியில் பொலிஸ் நிலையங்களில் பதிவாகும் குற்றங்கள் மற்றும் வீதி விபத்துக்களின் எண்ணிக்கையில் குறைவடைந்துள்ளதாக பொலிஸ் அறிக்கை ஒன்றில் குறிப்பிடப்பட்டுள்ளது.
+In 2024, crimes and road accidents during Sinhala and Tamil New Year decreased compared to 2023. Jewelry incidents fell from 29 to 23, and police work disruptions from 9 to 7. The police attributed this to a country-wide strategy, with the Inspector General of Police directing intensified efforts against drugs and underworld crimes, aiming to implement criminal prevention programs within three months.
 
-கடந்த ஆண்டு இதே காலப்பகுதியுடன் ஒப்பிடுகையில், ஏப்ரல் 10 ஆம் திகதி 2024 முதல் 17 ஏப்ரல் 2024 வரையிலான காலகட்டத்தில் பதிவாகிய குற்றங்கள் மற்றும் போக்குவரத்து விபத்துக்கள் தொடர்பான விசாரணையைத் தொடர்ந்து இது தெரியவந்துள்ளது.
+🟩
 
-அதன்படி, 2023ஆம் ஆண்டுடன் ஒப்பிடுகையில், 2024ஆம் ஆண்டின் ஏப்ரல் விடுமுறை காலத்தின் 08 நாட்களில்,
+Compared to 2023, this year, the number of crimes and road accidents reported in police stations during the Sinhala and Tamil New Year has declined, according to a police report.
 
-நகை பறிப்பு சம்பவங்கள் தொடர்பான முறைப்பாடுகள் 29ல் இருந்து 23 ஆக குறைந்துள்ளது.
+This was followed by an investigation into the crimes and traffic accidents reported from April 1024 to 17 April 2024 compared to the same period last year.
 
-பொலிஸ் அதிகாரிகளின் பணிக்கு இடையூறு விளைவிக்கும் சம்பவங்கள் 9ல் இருந்து 7 ஆக குறைந்துள்ளது.
+Accordingly, compared to 2023, in the 08 days of the April 2024,
 
-கடந்த வருடத்துடன் ஒப்பிடுகையில் இவ்வருடம் புத்தாண்டு காலத்தில் குற்றச்செயல்கள் வெகுவாக குறைந்துள்ளதாக தெரியவந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Complaints relating to jewelery incidents have fallen from 29 to 23.
 
-நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்டு வரும் யுக்திய நடவடிக்கையே இதற்குக் காரணம் என பொலிஸ் தலைமையகம் மேலும் தெரிவித்துள்ளது.
+In case of disruption of the work of police officers, the 9 to 7 has decreased.
+
+Compared to last year, police said that this year's crime has been drastically reduced during the New Year.
+
+The police headquarters added that this was the reason for the strategy of the country.
 
 ...
 
 [Data](articles/e2a115fc.json)
+
+[Extended Data](ext_articles/e2a115fc.ext.json)
 
 ---
 
@@ -146,25 +166,35 @@ Semasinghe also appreciated the IMF’s efforts to assist countries in debt dist
 
 ---
 
-### ஈரான் சார்பு ஆயுதகுழுவின் ஈராக் தளத்தின் மீதுதாக்குதலை மேற்கொண்டது யார் ? மறுக்கின்றது அமெரிக்கா
+### Who carried out the Iraqi base of the pro -Iranian armed forces?The United States of America
 
 *2024-04-21 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181559) · `ta`
 
-ஈரான் ஆதரவு ஆயுதக்குழுக்கள் தங்கியிருந்த ஈராக்கிய தளமொன்றின் மீது தாக்குதல் இடம்பெற்றுள்ள அதேவேளை இந்த தாக்குதலை மேற்கொண்டது யார் என்ற கேள்வி எழுந்துள்ளது.
+The US military denied launching an attack on an Iraqi base housing Iran-backed armed groups, despite Iraq's Home Ministry and Reuters reports. Two Iraqi officials accused an air strike, with one person killed and 8 injured. The US military refuted these claims, stating their soldiers were involved in an offensive, not an attack.
 
-ஈராக் இராணுவத்திற்குள் உள்வாங்கப்பட்டுள்ள முன்னாள் ஈரான் ஆதரவு குழுவான ஹசெட் அல் சபியின் தளத்தின் மீது வெள்ளிக்கிழமை இரவு தாக்குதல் இடம்பெற்றதாக ஈராக்கின் உள்துறை அமைச்சு அதிகாரியொருவர் தெரிவித்துள்ளார்.
+🟩
 
-இந்த தாக்குதலில் ஒருவர் கொல்லப்பட்டுள்ளதுடன் 8பேர் காயமடைந்துள்ளனர் காயமடைந்தவர்களில் மூன்று ஈராக்கிய படையினரும் உள்ளனர் .
+The question arises as to who carried out the attack while an attack on an Iraqi base where Iran -backed armed groups were staying.
 
-விமானதாக்குதலே இடம்பெற்றது என ஈராக் அதிகாரிகள் இருவர் குற்றம்சாட்டியதாக ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது.
+Iraq's Home Ministry official said that the attack on the site of former Iranian -backed group Hazet al -Sabi, which has been embedded within the Iraqi army, took place on Friday night.
 
-உயிர் இழப்புகளும் பொருட்சேதங்களும் ஏற்பட்டுள்ளதாக தெரிவித்துள்ள ஹசெட் அல் செபி அமைப்பு தனது பகுதிகள் தாக்கப்பட்டதாக தெரிவித்துள்ளது.
+One person was killed in the attack and 8 people were injured and three Iraqi soldiers were injured.
 
-ஈராக்கிய படையினர் யார் தாக்குதலை மேற்கொண்டனர் என்பதை தெரிவிக்கவில்லை ஆளில்லா விமானதாக்குதல் இடம்பெற்றதா என்பதையும் அவர்கள் உறுதிப்படுத்தவில்லை..
+Reuters reports that two Iraqi officials have accused the air strike.
 
-...
+Hazet al -Sebi has said that there were casualties and casualties.
+
+Iraqi soldiers did not confirm who was attacked.
+
+The US military, which said it had not launched an attack on Iraq, said the US soldiers launched an offensive and that the reports on social media were false.
+
+It is noteworthy that the Hazet al -Chafi organization, which was created to fight against the IS system, is now a faction of the Iraqi army.
+
+◼️
 
 [Data](articles/cca66664.json)
+
+[Extended Data](ext_articles/cca66664.ext.json)
 
 ---
 
@@ -1412,8 +1442,6 @@ He had visited the Sri Pada with two other women yesterday (19) morning and as r
 
 Army personnel from the Laxapana army camp launched an operation to trace the missing youth.
 
-The two women who had accompanied the man had told police that he had gone insane before he had jumpped off the fence.
-
 ◼️
 
 [Data](articles/8c5851d7.json)
@@ -2243,27 +2271,5 @@ The National Disaster Management Authority (DMC) has said that 82 others were in
 [Data](articles/b6bdf684.json)
 
 [Extended Data](ext_articles/b6bdf684.ext.json)
-
----
-
-### Sri Lanka’s Softlogic says restructuring debt, seeking investors for hotels, ODEL
-
-*2024-04-20 12:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-says-restructuring-debt-seeking-investors-for-hotels-odel-159494/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Softlogic group has begun restructuring its debt and is seeking investors for hotels and ODEL retail project, while also selling off assets, according to its annual report for the year to March 2023.
-
-Softlogic group, which has interests in retail, hotels, finance and healthcare, posted a loss of 24.07 billion rupees for the year to March 2023, up from 8.1 billion a year earlier.
-
-Group revenues including insurance fell to 96.8 billion rupees from 111.2 billion rupees, according to accounts qualified by the auditors.
-
-Net finance costs were 20.9 billion rupees as interest rates rose on the heavily leveraged group. Forex losses of 4.0 billion contributed to the finance costs.
-
-The group had 42 billion rupees in long term borrowings by end March 2023, up from 38.6 billion and overdrafts of 9.3 billion, up from 6.6 billion rupees.
-
-...
-
-[Data](articles/b7cabcd7.json)
-
-[Extended Data](ext_articles/b7cabcd7.ext.json)
 
 ---

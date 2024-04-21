@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 13:03:33**
+As of **2024-04-21 13:18:16**
 
 ## Newspaper Stats
 
-*Scraped **20,011** Articles*
+*Scraped **20,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,663
 tamilmirrorlk | 2,310
-adaderanalk | 2,397
+adaderanalk | 2,398
 virakesarilk | 2,985
 dailymirrorlk | 3,118
 adaderanasinhalalk | 3,252
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,252
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,006 (100.0%) of 20,011 articles have been extended.
+20,011 (100.0%) of 20,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Three of same family killed, 2 injured in accident on Elpitiya–Aviththawa road
+
+*2024-04-21 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98755/three-of-same-family-killed-2-injured-in-accident-on-elpitiyaaviththawa-road) · `en`
+
+Three including two children from the same family have been killed in a head-on collision involving a three-wheeler and a lorry on the Elpitiya – Aviththawa main road.
+
+Police said that the deceased individuals include the 68-year-old driver of the three-wheeler, his 10-year-old grandson and his granddaughter, who was aged 07.
+
+Meanwhile, the wife of the deceased person and another 18-year-old girl who sustained injuries in the accident, have been admitted to the hospital, according to police.
+
+The driver of the lorry has been arrested in relation to the accident, while Elpitiya Police is conducting further investigations.
+
+◼️
+
+[Data](articles/88aec621.json)
+
+---
 
 ### Wijayadasa appointed Acting Chairman of Sri Lanka Freedom Party
 
@@ -92,6 +110,8 @@ Responding to a question, he said they were not distributing rice targeting elec
 
 [Data](articles/565b153e.json)
 
+[Extended Data](ext_articles/565b153e.ext.json)
+
 ---
 
 ### 05 Removal of websites
@@ -140,21 +160,27 @@ The lorry driver has been arrested in connection with the accident and Elpitiya 
 
 ---
 
-### පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය එල්ල වී අදට පස්වසරක්
+### Five years after the Passover attack on Easter
 
 *2024-04-21 12:13:27* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ඉරුදින-ත්‍රස්ත-ප්‍රහාරය-එල්ල-වී-අදට-පස්වසරක්/11-409180) · `si`
 
-2019 වසරේ අප්‍රේල් මස 21වන දින පාස්කු ඉරුදින මිලේච්ඡ  ත්‍රස්ත ප්‍රහාරය එල්ල වී අදට පස්වසරක් සපිරෙයි.
+Five years after the Passover attack on Easter, the Easter Island commemorated the event on April 21, 2019. The attack resulted in 273 deaths and over 500 injuries in Colombo. St. Sebastian Church in Kochchikade and Katuwapitiya organized a series of remembrances, including a candlelight vigil from Kochchikade to Kupepitiya.
 
-අන්තවාදී  කල්ලියක් විසින් කොළඹ, මීගමුව සහ මඩකළපුවේ කතෝලික දේවස්ථාන සහ කොළඹ තරු පන්තියේ හෝටල් කීපයක යන ස්ථාන 08ක දී මරාගෙන මැරෙන බෝම්බ ප්‍රහාර සිදුකළ අතර එහිදී පුද්ගලයින් 273 දෙනෙකු ජීවිතක්ෂයට පත් වු අතර තවත් 500කට අධික පිරිසක් බරපතළ තුවාල ලැබීය.
+🟩
 
-මෙම මිලේච්ඡ ප්‍රහාරයට වසර පහක් ගත වීම නිමිත්තෙන් කොච්චිකඩේ ශාන්ත අන්තෝනි දේවස්ථානයේ  හා කටුවාපිටිය සාන්ත සෙබස්තියන් දේවස්ථානයේ සිහිකිරීම් වැඩසටහන් මාලාව සංවිධානය කර පැවති අතර විශේෂ දිව්‍ය පුජාවක් ද පැවැත්වුණි.
+The Easter island on April 21, April 2019 will be operated five years.
 
-ඒ අනුව, කොච්චිකඩේ දේවස්ථානයේ සිට කටුවාපිටිය දේවස්ථානය දක්වා යැදුම් පාගමන ඊයේ 20 මධ්‍යම රාත්‍රිය පුරා පැවැත්වුණි.
+The suicide bombings were killed and 273 persons were killed and over 500 were seriously injured in Colombo.
+
+The series of the remembrance of the Saint Sebastian Church in St. Anthony, Kochchikade and Katuwapitiya, was organized by St. Sebastian Church in Kochchikade and Katuwapitiya.
+
+Accordingly, the subtlet distance from Kochchikade church to the Kupepitiya church from Kupepitiya to Kupepitiya yesterday 20 was held throughout the night.
 
 ◼️
 
 [Data](articles/805798e2.json)
+
+[Extended Data](ext_articles/805798e2.ext.json)
 
 ---
 
@@ -241,6 +267,8 @@ Prayers were offered at the St. Anthony’s Shrine, Kochchikade, led by the Arch
 ◼️
 
 [Data](articles/808ec09c.json)
+
+[Extended Data](ext_articles/808ec09c.ext.json)
 
 ---
 
@@ -540,19 +568,29 @@ This committee will make a list of the essential and indispensable vehicles for 
 
 ---
 
-### කෝටි 8ක කොකේන් ගිල පැමිණි ගිනී කාන්තාවන් දෙදෙනෙක් අල්ලයි
+### Two fired women arrested in cocaine
 
 *2024-04-21 09:08:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8ක-කොකේන්-ගිල-පැමිණි-ගිනී-කාන්තාවන්-දෙදෙනෙක්-අල්ලයි/11-409175) · `si`
 
-රුපියල් කෝටි 08 ක් පමණ වටිනා කොකේන් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් දෙකක පමණ ප්‍රමාණයක් ගුලි වශයෙන් සකස් කර ගිල දමා පැමිණි ගිනි ජාතික කාන්තාවන් දෙදෙනෙකු 04/20 දින උදෑසන කටුනායක ගුවන් තොටුපොළේ දී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Two women, 40 and 42, arrested for smuggling 2 kg of cocaine worth Rs. 40 million. They were caught at Katunayake Airport, Sri Lanka, after arriving from Istanbul, Turkey. Customs officials found 500 grams of cocaine on them. They are now in police custody for further investigation.
 
-40 හැවිරිදි සහ 42 හැවිරිදි මෙම ගිනි ජාතික කාන්තාවන් දෙදෙනා මෙම කොකේන් මත්ද්‍රව්‍ය තොගය උපත් පාළන කොපු තුළ බහා , තවදුරටත් කාන්දු වීමක් සිදු වුවහොත් එය වැලැක්වීම සදහා සෙලෝ ටේප් යොදා , ග්‍රෑම් 15 ක් පමණ බරැති මෙම කොකේන් මත්ද්‍රව්‍ය ගුලි සකස් කර , එක් අයෙකු මෙම ගුළි 75 බැගින් ගිල දමා පැමිණ ඇති බව , කටුනායක ගුවන් තොටුපොළ රේගු පරිලෝකන යන්ත්‍රය (Scan) වෙත වාර්තා වී තිබේ .
+🟩
 
-මෙම කාන්තාවන් දෙදෙනා ශ්‍රී ලංකාවට පැමිණීම සදහා මුළින්ම සියරාලියෝන් වලින් ගමන් ආරම්භ කර තුර්කියේ ඉස්තාන්බුල් නුවර වෙත පැමිණ තිබේ . ඉන්පසුව එතැන් සිට 04/20 දින උදෑසන 06.00 ට තුර්කි ගුවන් සේවයේ ටී.කේ.- 730 දරන ගුවන් යානයෙන් ඔවුන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබේ .
+A group of women who were borrowed and swallowed for two kilograms of cocaine worth Rs.
+
+The two women of this cocaine, which is 40-year-old and 42-year-old cocaine, have a leakage of the drug dealer in birth, and weighing about 15 grams of cocaine, which weighing about 15 grams, each of these layers, each of these gutives eachThe Katunayake airport is reported to the Katunayake Airport Customs scanning machine.
+
+These two women started traveling to Sri Lanka and arrived in Istanbul, Turkey. Subsequently, the Turkish Airlines has arrived at the Katunayake airport at 06.00 am on 04/20 pm.
+
+Customs Media Spokesman Senior Customs Director Savi Arukgoda said that the officials of the Customs Drug Administration Division took place in the 2024.
+
+When the two women were arrested, customs have been taken out of about 40 million cocaine, which weighing about 500 grams of cocaine.
 
 ...
 
 [Data](articles/3b96f9a2.json)
+
+[Extended Data](ext_articles/3b96f9a2.ext.json)
 
 ---
 
@@ -578,23 +616,29 @@ The special commemoration ceremony will be held for two years to the Passover at
 
 ---
 
-### වලිප්පුව හැදුනු සංවර්ධන නිලධාරිනිය ළිඳට වැටී මරුට
+### Development officer of the salesman falls into the well
 
 *2024-04-21 08:30:57* · [`adalk`](https://www.ada.lk/breaking_news/වලිප්පුව-හැදුනු-සංවර්ධන-නිලධාරිනිය-ළිඳට-වැටී-මරුට/11-409174) · `si`
 
-යාපනය මාදගල් සකායපුරම් ප්‍රදේශයේදී සංවර්ධන නිලධාරිණියක් ළිඳට වැටී ජලයේ ගිලීමෙන් ඊයේ (18) දින මිය ගොස් ඇතැයි තෙලිප්පලෙයි පොලීසිය පවසයි.
+A development officer, Pradeepan Nammee, 37, fell into a well in Sakhapuram, Jaffna, and died from drowning. The cause of death was directed to the final mortality traffic in the Jaffna Teaching Hospital.
 
-මෙම කාන්තාව ගෙවත්තේ පිහිටි ළිඳට ගොස් ජලය ගැනීමට උත්සහ ගත් අවස්ථාවේදී වලිප්පු රෝගය වැළඳීම හේතුවෙන් ඇය ළිඳ තුලට වැටී දියේ ගිලී ඇතැයි සිද්දිය වූ ස්ථානයට ගිය පොලීසිය සැකපල කොට සටීය.
+🟩
 
-මිය ගිය කාන්තාව දීර්ඝ කාලයක සිට වලිප්පු රෝගයෙන් පෙලී සිට ඇති බවටද පවුලේ ඥාතීන් විසින් පොලීසියට පවසා ඇත.
+The Thelappalai Police say that a development officer falls into the well of Sakhapuram in Jaffna.
 
-මිය ගිය කාන්තාව 37 හැවිරිදි ප්‍රදීපන් නිත්‍යා නැමති දරුවන් දෙදෙනෙකුගේ මවක්ද වන අතර ඇය වලිකාමම් නිරිතදිග ප්‍රාදේශීය සභාවේ සංවර්ධන නිලධාරිණියක් වශයෙන් සේවය කොට ඇත.
+The woman went to the girl that the woman tried to get water in the garden, and the police went to the place where she had fallen into the well and drowning her well.
 
-මිය ගිය කාන්තාවගේ මළසිරුර යාපනය ශික්ෂණ රෝහලේ අවසන් මරණ පරික්ෂණය සඳහා යොමු කොට ඇතැයි පරික්ෂණ සිදුකරන තෙලිප්පලෙයි පොලීසිය වැඩිදුරටත් පැවසීය.
+The relatives of the family have also told the police that the dead woman had long been palin from the disease of treasure.
+
+The deceased is Pradeepan Nammee, a 37-year-old Pradeepan Natayaka, and she has served as a development officer of the Southwest Pradeshiya Sabha.
+
+Tippalai Police further stated that the death of the deceased woman has been directed to the final mortality traffic in the Jaffna Teaching Hospital.
 
 ◼️
 
 [Data](articles/37478b78.json)
+
+[Extended Data](ext_articles/37478b78.ext.json)
 
 ---
 
@@ -2215,29 +2259,5 @@ The duo, aged 40 and 42 years, have been handed over to the Police Narcotics Bur
 [Data](articles/b9f93cb7.json)
 
 [Extended Data](ext_articles/b9f93cb7.ext.json)
-
----
-
-### Sri Lanka will suffer if Israel-Iran conflict escalates: Ruwan
-
-*2024-04-20 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-will-suffer-if-Israel-Iran-conflict-escalates-Ruwan/108-281067) · `en`
-
-Colombo, April 20 (Daily Mirror)- Small nations like Sri Lanka will be adversely affected if the current conflict between Israel and Iran escalates, Presidential Advisor Ruwan Wijewardene said today.
-
-"Nations like Sri Lanka will be adversely affected if the conflict between Iran and Israel escalates as such a scenario could result in soaring fuel prices," Wijewardene told a New Year gathering in Biyagama today.
-
-"President Ranil Wickremesinghe will take this matter up with his Iranian counterpart Ibrahim Raisi when he visits Sri Lanka later this month," he added.
-
-Meanwhile Wijewardene hinted that some SJBers are expected to attend the UNP May Day rally in Panchikahawatte.
-
-"Wait and see who from the SJB will join us on May 1st," he said.
-
-He refuted claims by the SJB that the government is trying to prevent it from having its May Day rally at a prominent venue.
-
-...
-
-[Data](articles/ffa84805.json)
-
-[Extended Data](ext_articles/ffa84805.ext.json)
 
 ---

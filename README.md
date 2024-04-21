@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 22:51:15**
+As of **2024-04-21 23:03:22**
 
 ## Newspaper Stats
 
-*Scraped **20,090** Articles*
+*Scraped **20,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,145
 adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
-virakesarilk | 2,993
+virakesarilk | 2,994
 dailymirrorlk | 3,133
 adaderanasinhalalk | 3,267
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,090 (100.0%) of 20,090 articles have been extended.
+20,090 (100.0%) of 20,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### ஜனாதிபதி அம்பேவெல பால் பண்ணைக்கு கண்காணிப்பு விஜயம்; பார்வையிட வரும் சுற்றுலாப் பயணிகளுக்கான வசதிகளை விரிவாக்கப் பணிப்புரை
+
+*2024-04-21 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181604) · `ta`
+
+உலகின் அதி நவீனத் தொழில்நுட்பத்துடன் கூடிய அம்பேவெல பால் பண்ணை குழுமத்தின் அபிவிருத்தி தொடர்பில் அறிந்துகொள்ள ஜனாதிபதி ரணில் விக்ரமசிங்க சனிக்கிழமை (20) முற்பகல் அங்கு விஜயம் செய்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க 2022 டிசம்பர் மாதத்தில் அம்பேவெல பால் பண்ணைக்கு அவசர கண்காணிப்பு விஜயம் ஒன்றை மேற்கொண்டிருந்ததுடன், அதன்போது வழங்கப்பட்ட பணிப்புரைகளின்படி, கடந்த ஆண்டு பண்ணையில் விரிவான அபிவிருத்திப் பணிகள் ஆரம்பிக்கப்பட்டன.
+
+இன்று முற்பகல் அம்பேவெல பால் பண்ணைக்கு வருகை தந்த ஜனாதிபதியை, பால் பண்ணை குழுமத்தின் பொது முகாமையாளர் சரத் பண்டார மற்றும் அதன் பணியாளர்கள் வரவேற்றனர்.
+
+பண்ணையின் புதிய அபிவிருத்திப் பணிகளின் முன்னேற்றத்தை மீளாய்வு செய்த ஜனாதிபதி, கறவை மாடுகள் வைக்கப்பட்டுள்ள வளாகத்தையும் பார்வையிட்டார்.
+
+அதன் பின்னர், ஊழியர்களுடன் சிறு உரையாடலில் ஈடுபட்ட ஜனாதிபதி ரணில் விக்ரமசிங்க, அம்பேவெல பண்ணையின் பால் உற்பத்தித் துறையில் எட்டப்பட்டுள்ள படிப்படியான வளர்ச்சி மற்றும் தேசியப் பொருளாதாரத்திற்கான அதன் பங்களிப்பையும் பாராட்டினார்.
+
+...
+
+[Data](articles/c1bad17e.json)
+
+---
 
 ### Here's what happens to the drugs that have been caught by justice
 
@@ -2249,31 +2269,5 @@ This committee will make a list of the essential and indispensable vehicles for 
 [Data](articles/d64739be.json)
 
 [Extended Data](ext_articles/d64739be.ext.json)
-
----
-
-### Two fired women arrested in cocaine
-
-*2024-04-21 09:08:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8ක-කොකේන්-ගිල-පැමිණි-ගිනී-කාන්තාවන්-දෙදෙනෙක්-අල්ලයි/11-409175) · `si`
-
-Two women, 40 and 42, arrested for smuggling 2 kg of cocaine worth Rs. 40 million. They were caught at Katunayake Airport, Sri Lanka, after arriving from Istanbul, Turkey. Customs officials found 500 grams of cocaine on them. They are now in police custody for further investigation.
-
-🟩
-
-A group of women who were borrowed and swallowed for two kilograms of cocaine worth Rs.
-
-The two women of this cocaine, which is 40-year-old and 42-year-old cocaine, have a leakage of the drug dealer in birth, and weighing about 15 grams of cocaine, which weighing about 15 grams, each of these layers, each of these gutives eachThe Katunayake airport is reported to the Katunayake Airport Customs scanning machine.
-
-These two women started traveling to Sri Lanka and arrived in Istanbul, Turkey. Subsequently, the Turkish Airlines has arrived at the Katunayake airport at 06.00 am on 04/20 pm.
-
-Customs Media Spokesman Senior Customs Director Savi Arukgoda said that the officials of the Customs Drug Administration Division took place in the 2024.
-
-When the two women were arrested, customs have been taken out of about 40 million cocaine, which weighing about 500 grams of cocaine.
-
-...
-
-[Data](articles/3b96f9a2.json)
-
-[Extended Data](ext_articles/3b96f9a2.ext.json)
 
 ---

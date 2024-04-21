@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 02:03:31**
+As of **2024-04-22 02:18:26**
 
 ## Newspaper Stats
 
-*Scraped **20,104** Articles*
+*Scraped **20,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 210
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
-dailyftlk | 1,111
+dailyftlk | 1,112
 economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,096 (100.0%) of 20,104 articles have been extended.
+20,104 (100.0%) of 20,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Pro-Sirisena faction appoints Wijeyadasa as SLFP Acting Chairman
+
+*2024-04-22 01:52:24* · [`dailyftlk`](https://www.ft.lk/news/Pro-Sirisena-faction-appoints-Wijeyadasa-as-SLFP-Acting-Chairman/56-760879) · `en`
+
+SLFP rift deepens with two Acting Chairmen appointed by warring factions
+
+Kumaratunga faction objects to Wijeyadasa’s appointment and says Nimal Siripala de Silva remains as rightful Acting Chairman
+
+Tense situation arises between party supporters and police outside SLFP head office following new appointment
+
+Kumaratunga faction deliberates next steps following politburo meeting called by pro-Sirisena faction
+
+In the midst of an internal party crisis, the Sri Lanka Freedom Party (SLFP) finds itself grappling with the appointment of Acting Chairpersons, intensifying an already contentious situation following the appointment of Dr. Wijeyadasa Rajapakshe to the post by the party’s pro-Sirisena faction yesterday.
+
+...
+
+[Data](articles/f1d8a9ac.json)
+
+---
 
 ### Wijeyadasa pledges to unite all SLFP factions
 
@@ -48,6 +68,8 @@ Meanwhile tension flared at the party headquarters as Rajapakshe and his support
 
 [Data](articles/581cbbe6.json)
 
+[Extended Data](ext_articles/581cbbe6.ext.json)
+
 ---
 
 ### Seven spectators die at Fox Hill Super Cross 2024 mishap
@@ -63,6 +85,8 @@ This year’s meet attracted over 100,000 spectators in addition to invitees and
 ◼️
 
 [Data](articles/264ed430.json)
+
+[Extended Data](ext_articles/264ed430.ext.json)
 
 ---
 
@@ -84,6 +108,8 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 
 [Data](articles/d30ef12d.json)
 
+[Extended Data](ext_articles/d30ef12d.ext.json)
+
 ---
 
 ### WUSC holds first entrepreneurial ecosystem convening and knowledge sharing in Colombo, Jaffna
@@ -97,6 +123,8 @@ WUSC (World University Service of Canada) held its first entrepreneurial ecosyst
 ...
 
 [Data](articles/d2b54e52.json)
+
+[Extended Data](ext_articles/d2b54e52.ext.json)
 
 ---
 
@@ -114,6 +142,8 @@ Illuminate ’24 serves as a valuable platform for these students to gain insigh
 
 [Data](articles/09b1f38d.json)
 
+[Extended Data](ext_articles/09b1f38d.ext.json)
+
 ---
 
 ### Huawei announces several initiatives for 2024 at Huawei Talent Summit
@@ -127,6 +157,8 @@ The theme of the event was “I C Talent: Nurturing Excellence in a Digital Worl
 ...
 
 [Data](articles/c5f01759.json)
+
+[Extended Data](ext_articles/c5f01759.ext.json)
 
 ---
 
@@ -142,6 +174,8 @@ Brown & Company’s Digital Transformation Solutions Strategic Business Unit rec
 
 [Data](articles/c16a84c3.json)
 
+[Extended Data](ext_articles/c16a84c3.ext.json)
+
 ---
 
 ### ISB debt restructure and the upcoming elections
@@ -155,6 +189,8 @@ A recent episode of the Sirasa TV program Mawatha (18 April), undertook what see
 ...
 
 [Data](articles/f58fbc97.json)
+
+[Extended Data](ext_articles/f58fbc97.ext.json)
 
 ---
 
@@ -2211,23 +2247,5 @@ The value of the seized drugs is about Rs.. 7.5 million.
 [Data](articles/601ee4b6.json)
 
 [Extended Data](ext_articles/601ee4b6.ext.json)
-
----
-
-### Sri Lanka confident of speedy debt resolution: Semasinghe
-
-*2024-04-21 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-confident-of-speedy-debt-resolution-Semasinghe/108-281078) · `en`
-
-Colombo, April 21 (Daily Mirror)- Sri Lanka remains steadfast in its commitment to reaching the debt restructuring targets and is confident of smooth progress in the continued good-faith engagements for a speedy debt resolution that will ensure debt sustainability and comparability of debt treatment, State Minister of Finance Shehan Semasinghe said.
-
-In a statement posted on X, he said it was heartening to note the widespread appreciation and support for Sri Lanka's debt restructuring process.
-
-The Minsiter said the International Monetary Fund and the World Bank Spring Meetings 2024 were successfully concluded today with positive outcomes achieved during these pivotal gatherings, which signify a renewed sense of determination and hope for Sri Lanka.
-
-...
-
-[Data](articles/ba720ff1.json)
-
-[Extended Data](ext_articles/ba720ff1.ext.json)
 
 ---

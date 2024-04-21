@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 21:04:19**
+As of **2024-04-21 21:18:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,077 (100.0%) of 20,078 articles have been extended.
+20,078 (100.0%) of 20,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -150,21 +150,31 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 
 ---
 
-### මෙරට  විශාලතම ලෝහමය ශ්‍රී සුමන සමන් දේව ප්‍රතිමාව මහනුවරට
+### Sri Lanka's largest metallic Sri Sey Sumana Samitha The statue to Kandy
 
 *2024-04-21 18:45:03* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට--විශාලතම-ලෝහමය-ශ්‍රී-සුමන-සමන්-දේව-ප්‍රතිමාව-මහනුවරට/11-409190) · `si`
 
-ශ්‍රී පාදස්ථානයේ ස්ථාපිත කිරීම සඳහා වැඩම කරවන මෙරට  විශාලතම ලෝහමය ශ්‍රී සුමන සමන් දේව ප්‍රතිමාව මහනුවර නගරයෙන් වරකාව පුරාණ විහාරය කරා පිටත්වීම අද  (21) දහවල් සිදුවිණි.
+Sri Lanka's largest metallic Sri Sumanatha Suman statue, created with blessings and donations, is being established in Kandy, passing through Viharayas in Kandy and Gampola, to be dedicated on a full moon Poya Day.
 
-හුණුපිටිය ගංගාරාම විහාරස්ථානයේ සිට පේරාදෙණිය, මහනුවර, ගම්පොළ හරහා එම දේව ප්‍රතිමාව ශ්‍රී පාදස්ථානය කරා වැඩම කරවීමට නියමිත වේ.
+🟩
 
-ගංගාරාම විහාරය, යක්කල රජමහ විහාරය, බිසෝවෙල රජමහ විහාරය, තෝලංගමුව රජමහ විහාරය, රංවල රජමහ විහාරය, කඩුගන්නාව, ඉළුක්පිටිය, පිළිමතලාව ඔස්සේ මහජන ගෞරව සඳහා තැම්පත් කරමින් වැඩම කළ ප්‍රතිමාව අද (21) පැය තුනක කාලයක් මහනුවර සහස් උයන පරිශ්‍රියේ තැම්පත් කොට තිබිණී.
+The country's largest metallic Sri Sumanatha Suman statue to be established at Sri Lanka was leaving the ancient Viharaya in Kandy this afternoon.
 
-අනතුරුව මහනුවර විලියම් ගොපල්ලව මාවත ඔස්සේ වැඩම කළ ප්‍රතිමාව පැණිදෙණිය භාරතී පිරිවෙන, ගෙලිඔය කරමඩ විහාරය හා ගෙලිඔය නගරය, වැලිගල්ල, ගම්පොල, නියංගම්පාය රජමහා විහාරය, උඩගම හා පල්ලේගම යන රජමහා විහාර ඔස්සේ ගමන් කොට අද රාත්‍රී වරකාව රජමහා විහාරයේ තැම්පත් කිරීම සිදු කෙරේ.
+The statue is due to work through the Hunupitiya Gangarama Viharaya, Kandy and Gampola.
 
-...
+The statue was placed in the Rangwala Rajamaha Viharaya, Kadwala Rajamaha Viharaya, Rangwala Rajamaha Viharaya, Rangwala Rajamaha Viharaya, Rangwala Rajamaha Viharaya, Rangwala Rajamaha Viharaya.
+
+The statue followed by the Kandy William Gopallawa Mawatha, Kandy, Geligio Karamada Viharaya, Gampola, Gampola, Gampola, Gampola, Gampola, Gampola, Rajamaha Vihara.
+
+The statue has been created with the blessings of the Nandalaya Nanda Thero and the donation of the Nandalaya Viharaya of Bangamuwa Dhammanda Thero, Chief Incumbent of the Nandaka Viharaya.
+
+The statue will be offered under the full moon Poya Day by the full moon Poya Day, which is sacrificed under the theme of mercifully fifteen occasion.
+
+◼️
 
 [Data](articles/428e9508.json)
+
+[Extended Data](ext_articles/428e9508.ext.json)
 
 ---
 

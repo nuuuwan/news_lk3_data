@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 16:03:24**
+As of **2024-04-21 16:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,259
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,036 (100.0%) of 20,038 articles have been extended.
+20,038 (100.0%) of 20,038 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Mi
 
 [Data](articles/08f8f9ab.json)
 
+[Extended Data](ext_articles/08f8f9ab.ext.json)
+
 ---
 
-### දියතලාවේ මෝටර් රථ අනතුරකින් 5ක් මරුට
+### Five killed in a car accident in Diyatalawa
 
 *2024-04-21 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195838) · `si`
 
-දියතලාවේ පැවති මෝටර් රථ ධාවන තරගාවලියක් අතරතුරදී සිදුවූ අනතුරකින් පුද්ගලයින් 5 දෙනෙකු මියගොස් තිබේ.
+In Diyatalawa, a car racing accident resulted in five fatalities and injured 21 people when a car went off the track.
 
-ධාවන තරගය අතරතුරදී මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන මෙම අනතුර සිදුව ඇත.
+🟩
 
-අනතුරින් පුද්ගලයින් 21කට ආසන්න පිරිසක් තුවාල ලබා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+Five people have been killed while a car racing was killed during a car racing in Diyatalawa.
+
+The accident had occurred when a car was taken out of the track during the race.
+
+Nearly 21 people were injured in the accident, police said.
 
 ◼️
 
 [Data](articles/e3a41602.json)
+
+[Extended Data](ext_articles/e3a41602.ext.json)
 
 ---
 

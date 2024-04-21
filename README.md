@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 14:18:33**
+As of **2024-04-21 14:34:05**
 
 ## Newspaper Stats
 
-*Scraped **20,024** Articles*
+*Scraped **20,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,58 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,664
+adalk | 1,665
 tamilmirrorlk | 2,311
 adaderanalk | 2,400
 virakesarilk | 2,987
-dailymirrorlk | 3,121
+dailymirrorlk | 3,123
 adaderanasinhalalk | 3,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,020 (100.0%) of 20,024 articles have been extended.
+20,024 (100.0%) of 20,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### 5කට දිවි අහිමි කරවමින් කඩාවැටුණු තාප්පය
+### Tension erupts outside SLFP headquarters
+
+*2024-04-21 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tension-erupts-outside-SLFP-headquarters/108-281086) · `en`
+
+Colombo, April 21 (Daily Mirror) - A tense standoff unfolded outside the Sri Lanka Freedom Party (SLFP) headquarters on Darley Road in Colombo 10, as a group attempting to enter the party building was met with resistance from the police.
+
+Tempers flared as the authorities obstructed the entry, leading to a tense atmosphere in the vicinity.
+
+Adding to the intrigue, Minister of Justice Wijeyadasa Rajapakshe was appointed by a faction of the party as the Acting Chairman of the SLFP, further fuelling speculation and interest in the ongoing developments within the party.
+
+◼️
+
+[Data](articles/6f285be9.json)
+
+---
+
+### 5 crashed walls of loss of 5 lives
 
 *2024-04-21 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195834) · `si`
 
-පුද්ගලයින් පිරිසක් මතට විශාල තාප්පයක් කඩාවැටෙන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+A video on social media shows a large wall collapsing, killing 5, including a 11-year-old child.
 
-තාප්පය කඩාවැටීමෙන් සිදුවූ මෙම අනතුරින් කුඩා ළමයෙකු ඇතුළුව පුද්ගලයින් පස්දෙනෙකුට දිවි අහිමිව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-දිවි අහිමිවූ පිරිස අතර සිටි කුඩා ළමයාගේ වයස වයස අවුරුදු 11ක් බව එම වාර්තා වැඩිදුරටත් පෙන්වාදෙයි.
+A video showing how a large wall collapses on a group of people is being exchanged via social media.
+
+Foreign media reports that five persons, including a small child, has lost their lives in the crash.
+
+The child was aged between the ages of aged 11 years.
 
 ◼️
 
 [Data](articles/07df346a.json)
+
+[Extended Data](ext_articles/07df346a.ext.json)
 
 ---
 
@@ -72,17 +94,23 @@ Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping
 
 ---
 
-### නිදහස් පක්ෂ කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක්
+### Warm stability in front of the Independence Party
 
 *2024-04-21 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195833) · `si`
 
-කොළඹ ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට මේ වනවිට නොසන්සුන් තත්ත්වයක් ඇති වී තිබේ.
+"Warm stability at Sri Lanka Freedom Party HQ in Colombo, with no tension under former President Maithripala Sirisena's leadership."
 
-ඒ වාරණයට ලක්වූ පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් අද පැවති විධායක කමිටු රැස්වීමෙන් පසු කණ්ඩායමක් එම මූලස්ථානයට ඇතුළු වීමට උත්සාහ කළ අවස්ථාවේදී මෙම උණුසුම් තත්ත්වය ඇතිවී තිබේ
+🟩
+
+There has been no tense situation in front of the Sri Lanka Freedom Party Headquarters in Colombo.
+
+The hot situation has occurred when the executive committee was headed by former President Maithripala Sirisena under the patronage of the party chairman.
 
 ◼️
 
 [Data](articles/4f15df54.json)
+
+[Extended Data](ext_articles/4f15df54.ext.json)
 
 ---
 
@@ -144,23 +172,33 @@ He was speaking at a national event to provide rice to low -income families orga
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்று ஐந்து வருடங்களின் பின்னரும் இலங்கையில் ஆழமான காயங்கள் - என்ன நடந்தது என்பதை அறிவதற்கு ஆண்டவரை நம்பியிருக்கின்றோம் என்கின்றார் மல்கம் ரஞ்சித்
+### Five years after the death of a life -long Sunday attack, deep injuries in Sri Lanka - we rely on the Lord to know what happened.
 
 *2024-04-21 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181571) · `ta`
 
-இஸ்லாமிய குண்டுதாரிகள் இலங்கையின் மிகவும் பயங்கரமான தற்கொலை குண்டுதாக்குதலில் 279 பேரை கொலை செய்து ஐந்து வருடங்களாகின்றன ஆனால் துயரில் சிக்குண்டுள்ள குடும்பங்கள் தாங்கள் இன்னமும் நீதிக்காக காத்திருப்பதாக தெரிவிக்கின்றனர்.
+Five years after the Sri Lanka Easter Sunday bombings, families and officials seek justice, highlighting delays in investigations and allegations of negligence by government officials.
 
-அரசாங்க உத்தியோகத்தரான சமன் சிறிமன்னவும்59- அவரது மனைவி சிரியானியும் 57  2019 ம் ஆண்டு ஏப்பிரல் 21ம் திகதி தற்கொலை குண்டுதாரி தலைநகர் கொழும்பில் உள்ள சென்அன்டனிஸ் தேவலாயத்தில் தாக்குதலை மேற்கொண்ட வேளை தங்கள் இரண்டு பிள்ளைகளை; இழந்தனர்.
+🟩
 
-பெரும்பான்மை பௌத்த நாட்டில் ஆடம்பர ஹோட்டல்கள் மற்றும் வேறு இரு கிறிஸ்தவ தேவலாயங்களையும் இலக்குவைத்தும் தாக்குதல் இடம்பெற்றது.
+It has been five years since the murder of 279 people in Sri Lanka's most terrible suicide bombardment, but families who have been mourned are still waiting for justice.
 
-பரீட்சையில் சிறந்த பெறுபேறுகளை பெறுவதற்காக ஆண்டவரின் ஆசீர்வாதத்தை பெறும்நோக்கத்துடன்19 வயது மகளும் 22 மகனும் தேவாலயத்திற்கு சென்றிருந்தனர் என சிறிமணி தெரிவித்தார்.
+Government official Saman Sirimanna 59- His wife, Syrians and on April 21, 2019, on April 21, 2019, when the suicide bomber was attacked at St. Antonis Devalaya in Colombo, Colombo;Lost.
 
-என இழப்பு ஈடுசெய்ய முடியாதது என அவர் கண்ணீருடன் ஏஎவ்பிக்கு தெரிவித்தார்.எனது பிள்ளைகள் ஒருபோதும் திரும்பிவரமாட்டார்கள் என அவர் குறிப்பிட்டார்.
+In the majority Buddhist country, the luxury hotels and two other Christian deities were attacked.
+
+Sirimani said that the 19 -year -old daughter and 22 son had gone to the church with the intention of getting the blessing of the Lord to get the best results in the exam.
+
+He told the AVP with tears that the loss was irreparable. He said that my children would never return.
+
+There are 45 foreigners of the victims-of which they visited Sri Lanka after the many years of ruthless civil war.
+
+Srimani is deeply dissatisfied with the delay in court proceedings and the recession of investigations into the blasts.
 
 ...
 
 [Data](articles/e888b75e.json)
+
+[Extended Data](ext_articles/e888b75e.ext.json)
 
 ---
 
@@ -396,23 +434,33 @@ Accordingly, the subtlet distance from Kochchikade church to the Kupepitiya chur
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் - ஐந்து வயது மகளை இழந்த தாய்க்கு உளவியல் பாதிப்பு - செவிப்புலன் பாதிக்கப்பட்டதால் வேலை இழப்பு - மறக்கப்பட்ட மலையக மக்களின் வலிகள்
+### Breathless Sunday Attack - Psychology to Mother who lost a five -year -old daughter - loss of job due to hearing
 
 *2024-04-21 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181564) · `ta`
 
-Since Easter Sunday Attacks: Still awaiting justice 5 Years ‘Political, Socio-Cultural, Economic and Legal Perspectives’
+The Breathless Sunday Attack impacted many, including a mother who lost her five-year-old daughter and lost her job due to hearing loss. The attack affected people of various nationalities and economic statuses, including children of Helch Powlsen, a Denmark millionaire. The Tamils of Sri Lanka, often overlooked, face ongoing struggles, including social discrimination, economic crises, and political recognition issues. Despite not being directly attacked, their communities have been severely impacted, leading to financial strain and displacement. Individual stories highlight the psychological and economic toll, such as Vadani, widowed with three children, and John, whose wife is psychologically affected by the loss of their daughter, leading to unemployment and financial strain.
 
-உயிர்த்த ஞாயிறு தாக்குதல் பலவயதுடையவர்கள் பல தேசிய இனங்களை சேர்ந்தவர்கள் பல பொருளாதார நிலையை கொண்டவர்களின் உயிர்களை பறித்தது.
+🟩
 
-மிகவும் பிரபலபமான நன்கறியப்பட்ட டென்மார்க் கோடீஸ்வரரும் பெஸ்ட்செல்லரின் பிரதம நிறைவேற்று அதிகாரியுமான ஹெல்ச் பொவ்ல்செனின் பிள்ளைகள் உட்பட ( சுற்றுலாப்பயணிகள் ) உட்பட கிறிஸ்தவ தேவலாயத்திற்கு சென்ற பல சிறுவர்கள் கொல்லப்பட்டனர்.
+Singing Easter Sunday Attax: Still Avating Justice
 
-பலியானவர்கள் குறித்தும் உயிர்பிழைத்தவர்கள் குறித்தும் பல கட்டுரைகள் எழுதப்பட்டுள்ளதுடன் ஊடகங்கள் கவனம் செலுத்தியுள்ள போதிலும் உயிர்த்த ஞாயிறுதாக்குதலினால் பாதிக்கப்பட்ட- மறக்கப்பட்ட ஒரு சமூகமாக இலங்கையின் மலையகதமிழர்கள் காணப்படுகின்றனர்.
+The survival Sunday attack has taken the lives of many people from many nationalities and many economic status.
 
-இலங்கையின் மலையகபகுதிகளில் வாழும் இந்த மக்களுக்கு சமூகத்தினால் மறக்கப்படுவதும் ஒதுக்கிவைக்கப்படுவதும் புதிய விடயமல்ல.
+Many boys who went to Christian Goddesses, including the children (tourists) of Helch Powlsen, the most famous Denmark millionaire and chief executive officer of Bestseller, were killed.
+
+Many articles have been written on the victims and the survivors and the media has focused on the media, but the Tamils of Sri Lanka have been seen as a forgotten society.
+
+It is not a new issue to be forgotten and excluded by the community for these people living in the mountainous areas of Sri Lanka.
+
+Although they have been brought from India by British rulers to work in the hill country, their lives and current conditions have not yet improved.
+
+The struggle and lack of equality that began as part of slavery in the colonial period continues to date.
 
 ...
 
 [Data](articles/f0723783.json)
+
+[Extended Data](ext_articles/f0723783.ext.json)
 
 ---
 
@@ -757,6 +805,20 @@ The accident had occurred when the three-wheeler was traveling from Elpitiya to 
 [Data](articles/26a8b0c2.json)
 
 [Extended Data](ext_articles/26a8b0c2.ext.json)
+
+---
+
+### උප්පැන්න නැති 40 පැන්න අයට ජාතික හැඳුනුම්පත ඉල්ලන්න ජුනි 30 තෙක් ඉඩ
+
+*2024-04-21 09:16:07* · [`adalk`](https://www.ada.lk/breaking_news/උප්පැන්න-නැති-40-පැන්න-අයට-ජාතික-හැඳුනුම්පත-ඉල්ලන්න-ජුනි-30-තෙක්-ඉඩ/11-409176) · `si`
+
+උප්පැන්න සහතිකයක් නොමැතිකම නිසා මෙතෙක්  ජාතික හැඳුනුම්පත ලබා ගැනීමට නොහැකිව සිටින වයස අවුරුදු 40 ඉක්මවූ   අයට ජාතික හැඳුනුම් පත ලබාගැනීමට ඉල්ලුම් කිරීමට තිබූ අවසන් දිනය මෙම වසරේ ජුනි 30 දක්වා කල් දැමූ බව පුද්ගලයින් ලියා පදිංචි කිරීමේ දෙපාර්තමේන්තුව දැනුම් දෙයි.
+
+මේ සඳහා අවසාන දිනය ලෙස ඉකුත් මාර්තු 31  බව කලින් දැනුම් දී තිබුණද ප්‍රාදේශීය ලේකම්වරුන්ගේ ඉල්ලීම පරිදි මෙම කාලය ජුනි 30 දක්වා කල්දැමූ බව පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/622e7b72.json)
 
 ---
 
@@ -2159,65 +2221,5 @@ The Galle Police Criminal Investigation Division has launched an extensive inves
 [Data](articles/e922d6b1.json)
 
 [Extended Data](ext_articles/e922d6b1.ext.json)
-
----
-
-### Sri Lankans in Israel have no problem
-
-*2024-04-20 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195814) · `si`
-
-Sri Lankans in Israel are doing well, with 11,500 serving, mostly in homes. Ambassador Nimal Bandara advises contacting the Embassy for support. Despite unrest, lives are normal. Air travel delays affect Sri Lankans' access to Israel.
-
-🟩
-
-Sri Lankan Ambassador to Sri Lanka Nimal Bandara says that the Sri Lankans who stay in Israel are constantly considering regularly.
-
-The Ambassador notified to contact the Embassy if there is someone in a probleming background.
-
-The Sri Lankan Ambassador said that although various parties were inquiries in the unrest in the Middle East, but the lives of the people in Israel are working normally.
-
-About 11,500 Sri Lankans are serving in Israel and about 70 percent of which work in homes.
-
-The embassy said that about 15 percent are working in the field of agriculture, workplaces and other aspects of construction and other sectors.
-
-Sri Lanka's Ambassador to Israel, who has lived near the Gaza, has already attacked the hotels.
-
-The ambassador said that the Israeli people in the region were temporarily forwarded to other places, as Sri Lankans with their families were temporarily with their families, as the families of the families had gone to new places with their families.
-
-...
-
-[Data](articles/d6ad54bb.json)
-
-[Extended Data](ext_articles/d6ad54bb.ext.json)
-
----
-
-### Sri Lankans in Israel have no problem - Ambassador
-
-*2024-04-20 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195813) · `si`
-
-Sri Lankan Ambassador Nimal Bandara assures Sri Lankans in Israel of safety and normalcy, despite unrest in the Middle East. About 11,500 Sri Lankans work in Israel, with 70% in homes and 15% in agriculture, construction, etc. Air travel delays from Sri Lanka to Israel are noted.
-
-🟩
-
-Sri Lankan Ambassador to Sri Lanka Nimal Bandara says that the Sri Lankans who stay in Israel are constantly considering regularly.
-
-The Ambassador notified to contact the Embassy if there is someone in a probleming background.
-
-The Sri Lankan Ambassador said that although various parties were inquiries in the unrest in the Middle East, but the lives of the people in Israel are working normally.
-
-About 11,500 Sri Lankans are serving in Israel and about 70 percent of which work in homes.
-
-The embassy said that about 15 percent are working in the field of agriculture, workplaces and other aspects of construction and other sectors.
-
-Sri Lanka's Ambassador to Israel, who has lived near the Gaza, has already attacked the hotels.
-
-The ambassador said that the Israeli people in the region were temporarily forwarded to other places, as Sri Lankans with their families were temporarily with their families, as the families of the families had gone to new places with their families.
-
-...
-
-[Data](articles/c543023c.json)
-
-[Extended Data](ext_articles/c543023c.ext.json)
 
 ---

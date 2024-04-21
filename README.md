@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 07:43:31**
+As of **2024-04-21 07:20:57**
 
 ## Newspaper Stats
 
-*Scraped **19,960** Articles*
+*Scraped **19,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,21 @@ islandlk | 1,076
 dailyftlk | 1,099
 economynextcom | 1,142
 adalk | 1,654
-tamilmirrorlk | 2,303
+tamilmirrorlk | 2,302
 adaderanalk | 2,392
 virakesarilk | 2,981
 dailymirrorlk | 3,110
-adaderanasinhalalk | 3,245
+adaderanasinhalalk | 3,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,955 (100.0%) of 19,960 articles have been extended.
+19,955 (100.0%) of 19,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
-
-### පාස්කු ප්‍රහාරයට වසර 5ක් සපිරෙයි
-
-*2024-04-21 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195824) · `si`
-
-ඒ වෙනුවෙන් සංවිධානය කෙරුණු සිහිකිරීම් වැඩසටහන් මාලාව ඊයේ (20) පස්වරුවේ කොච්චිකඩේ ශාන්ත අන්තෝනි දේවස්ථානයේ පැවති විශේෂ දිව්‍ය පුජා යාගයෙන් ආරම්භ කෙරුණි.
-
-ඒ අනුව, කොච්චිකඩේ දේවස්ථානයේ සිට කටුවාපිටිය දේවස්ථානය දක්වා යැදුම් පාගමන ඊයේ මධ්‍යම රාත්‍රිය පුරා පැවැත්වුණි.
-
-2019 වසරේ අප්‍රේල් මස 21වන දින පාස්කු ඉරුදිනයේ අන්තවාදීන් කණ්ඩායමක් විසින් දිවයිනේ ස්ථාන 08ක දී මරාගෙන මැරෙන ප්‍රහාර 10ක් සිදුකළ අතර එහිදී පුද්ගලයින් 273 දෙනෙකු ජීවිතක්ෂයට පත් වු අතර තවත් 500කට අධික පිරිසක් බරපතළ තුවාල ලැබීය.
-
-මෙම ප්‍රහාරයට පස්වසරක් ගත වීම නිමිත්තෙන් සිහිකිරීම් වැඩසටහන් මාලාව සංවිධානය කර ඇත්තේ ත්‍රස්ත ප්‍රහාර මාලාවේ ඉලක්කය බවට පත් වු කොච්චිකඩේ සාන්ත අන්තෝනි දේවස්ථානය සහ කටුවාපිටිය සාන්ත සෙබස්තියන් දේවස්ථානය කේන්ද්‍ර කර ගනිමිනි.
-
-ඊයේ පස්වරුවේ පැවති විශේෂ දිව්‍ය පුජා යාගය අගරදගුරු පදවියේ සහායක රදගරු අතිඋතුම් ඇන්ටන් රංජිත් හිමිපාණන්ගේ ප්‍රධානත්වයෙන් පැවති අතර ඊට ත්‍රස්ත ප්‍රහාරයෙන් සිය සමීපතමයින් අහිමි වු ඥාතීන් හා තුවාල ලැබුවන් එක් ව සිටියේය.
-
-...
-
-[Data](articles/126af6f0.json)
-
----
 
 ### Showers in several areas this afternoon
 
@@ -73,22 +53,6 @@ The Department of Meteorology requests the public to take necessary steps to red
 [Data](articles/7b95d8f9.json)
 
 [Extended Data](ext_articles/7b95d8f9.ext.json)
-
----
-
-### 40 ஆயிரம் ஆசிரியர்களுக்கு பற்றாக்குறை
-
-*2024-04-21 05:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/40-ஆயிரம்-ஆசிரியர்களுக்கு-பற்றாக்குறை/175-336117) · `ta`
-
-இலங்கையில் சுமார் 40 ஆயிரம் ஆசிரியர்களுக்குப் பற்றாக்குறை நிலவுகின்றது என்று இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
-
-கொழும்பில் ஊடகங்களிடம் கருத்துரைக்கும்போது இலங்கை ஆசிரியர் சங்கத்தின் பொதுச்செயலாளர் ஜோசப் ஸ்டாலின் இதனைக் கூறியுள்ளார்.
-
-குறிப்பாக மேல், கிழக்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களில் ஆசிரியர் பற்றாக்குறை நிலவுகின்றது என்றும்  அவர் மேலும் குறிப்பிட்டுள்ளார். (a)
-
-◼️
-
-[Data](articles/f518c611.json)
 
 ---
 
@@ -2221,5 +2185,39 @@ The Department has informed the people to take necessary steps to reduce tempora
 [Data](articles/04a89df6.json)
 
 [Extended Data](ext_articles/04a89df6.ext.json)
+
+---
+
+### Electric Cables worth Rs.10 million chipped away from train parked at Hikkaduwa
+
+*2024-04-20 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electric-Cables-worth-Rs-10-million-chipped-away-from-train-parked-at-Hikkaduwa/108-281023) · `en`
+
+In a daring robbery which has stunned authorities, thieves managed to steal electric cables worth over Rs.10 million from a train named ‘Nayana Kumari’ stationed at Hikkaduwa railway station, a top official said.
+
+Deputy Superintendant- Railway Protection Force G.W. Sumith said the incident, had occurred in the early hours of Thursday, targeting the Nayana Kumari express train which had arrived the previous night from Colombo.
+
+According to railway security officials, the thieves specifically targeted cables used for powering the lighting system within the passenger compartments. Their method of operation suggests a sophisticated understanding of electric circuits, as only individuals familiar with such technology would be able to dismantle the cables.
+
+...
+
+[Data](articles/fb7be4c9.json)
+
+[Extended Data](ext_articles/fb7be4c9.ext.json)
+
+---
+
+### SJV Chelvanayakam and the Ilankai Thamil Arasuk Katchi(ITAK)/Federal Party(FP).
+
+*2024-04-20 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83918) · `en`
+
+The  Ilankai  Thamil Arasuk Katchi(ITAK) known in English as the Federal Party will celebrate its 75th Birthday in December this year. The premier political party of the Sri Lankan Tamil people known as “Ilankai Thamizhar”in  their mother tongue was born on 18 December 1949. On that day, a group of sixty Tamils including two parliamentarians and two senators  convened at the Government Clerical Service Union (GCSU) hall in Colombo.
+
+That historic conclave resulted in the launching  of  a new political party with the avowed goal of establishing an autonomous State for  the Tamil-speaking people of Ceylon (as Sri Lanka was known then) within a united island. The new party was named in Tamil as “Illankai Thamil Arasu Katchi” meaning Ceylon  Tamil State or Tamil Government Party.
+
+...
+
+[Data](articles/00325760.json)
+
+[Extended Data](ext_articles/00325760.ext.json)
 
 ---

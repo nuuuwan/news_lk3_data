@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 15:33:44**
+As of **2024-04-21 15:51:28**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,258
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,032 (100.0%) of 20,036 articles have been extended.
+20,036 (100.0%) of 20,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### විලී ගමගේ ඉල්ලා අස්වීමේ ලිපිය භාරදෙයි
+### Willie Gamage's resignation letter handed over
 
 *2024-04-21 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195837) · `si`
 
-දකුණු පළාත් ආණ්ඩුකාර විලී ගමගේ මහතා සිය ඉල්ලා අස්වීමේ ලිපිය ජනාධිපති ලේකම්වරයා වෙත භාරදී තිබේ.
+Southern Province Governor Villai Gamage resigned, effective May 2, to the Secretary to the President.
 
-එළැඹෙන මැයි මස 02 වනදා සිට ක්‍රියාත්මක වන පරිදි ඒ මහතා සිය ඉල්ලා අස්වීමේ ලිපිය මෙලෙස භාරදී ඇත.
+🟩
+
+Southern Province Governor Villai Gamage has handed over his resignation letter to the Secretary to the President.
+
+He has handed over his resignation letter with effect from May 2.
 
 ◼️
 
 [Data](articles/845b31d6.json)
+
+[Extended Data](ext_articles/845b31d6.ext.json)
 
 ---
 
@@ -56,29 +62,37 @@ The Governor of the Southern Province Willy Gamage has handed over his letter of
 
 [Data](articles/2c909e0c.json)
 
+[Extended Data](ext_articles/2c909e0c.ext.json)
+
 ---
 
-### ලෝකයෙන් ඇසෙන බය හිතෙන කතාවක්
+### A scary story that is heard from the world
 
 *2024-04-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195836) · `si`
 
-චීනයේ ප්‍රධාන නගරවලින් අඩක්ම ගිලාබසිමින් පවතින බව නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+A report reveals half of China's major cities are sinking, with Beijing and Tijin affected. 29% of China's population lives in urban zones over 3mm above sea level. Factors include artificial expansion and high-rise construction. Cities worldwide, including the US capital and Mexico City, are also experiencing sinking.
 
-සයන්ස් නම් සඟරාව පළකළ මේ වාර්තාවට අනුව මෙලෙස ගිලී යන නගර අතරට බීජිං, ටියන්ජින් වැනි ප්‍රධාන නගර ද අයත්ය.
+🟩
 
-එමෙන්ම අනාවරණ වී ඇත්තේ, එරට සමස්ත ජනගහනයෙන් සියයට 29ක්ම එනම් මිලියන 270ක්ම වාසය කරන්නේ වාර්ෂිකව මිලිමීටර් 3 කට වඩා ගිලා බසමින් පවතින නාගරික කලාපවල බවය.
+A new report has revealed that half of China's major cities are present.
 
-තවද බීජිං අගනුවර උමං සහ මහා මාර්ග ආසන්න කලාප වාර්ෂිකව මිලි මීටර 45ක් ගිලා බසින බව ද එහි දැක්වුණි.
+According to the report of Syx, the cities of the cities belong to Beijing and Tijin.
 
-උස් ගොඩනැගිලිවල අධික බර සහ මාර්ග පද්ධති පුළුල්වීම වැනි කෘත්‍රීම හේතු සහ භූගත ජලය පරිහරණය වේගවත්වීම වැනි ස්වභාවික කරුණු ද ඊට බලපා ඇතැයි සඳහන්ය.
+Also, 29 percent of the entire population of the country is in the urban zones that are more than 3 millimeters.
 
-නගර ගිලාබැසීමේ දත්ත ලොව තවත් රටවලින් වාර්තා වන අතර, අමෙරිකාවේ නිව්යෝර්ක් අගනුවර පවා ගිලා යමින් පවතින බව වාර්තා වෙයි.
+It also said that the Ven.
 
-එමෙන්ම නෙදර්ලන්තයේ ඉඩම්වලින් සියයට 25ක් මුහුදු මට්ටමට වඩා පහත බැස ඇති අතර, ලොව වේගයෙන්ම ගිලා බසින නගරය ලෙස සැලකෙන මෙක්සිකෝ සිටි අගනුවර වාර්ෂිකව අඟල් 20කින් පමණ ගිලා බසිමින් පවතින බවද වාර්තා වෙයි.
+Natural facts, such as artificial reasons, such as expansion of high weights and road systems in high buildings, is also influenced.
+
+It is reported that the city stinking data is reported from other countries in the world, and even the capital of US in America is present.
+
+It is also reported that 25 percent of the lands in the Netherlands have decreased than sea level and the City of Mexico City, which is the world's fastest substance, is around 20 inches.
 
 ◼️
 
 [Data](articles/a210a2fb.json)
+
+[Extended Data](ext_articles/a210a2fb.ext.json)
 
 ---
 
@@ -902,19 +916,25 @@ The accident had occurred when the three-wheeler was traveling from Elpitiya to 
 
 ---
 
-### රාජ්‍ය සේවකයන්ටත් සමෘද්ධියෙන් ණය
+### Credit for public servants prosper
 
 *2024-04-21 09:23:35* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ටත්-සමෘද්ධියෙන්-ණය/11-409177) · `si`
 
-මෙතෙක් අඩු ආදායම්ලාභීන්ට පමණක් ඉතුරුම් තැන්පතු පවත්වාගෙන යාමේ සහ   ණය  පහසුකම් සැපයීමේ පහසුකම්  සැලසූ සමෘද්ධි ප්‍රජා මූලික බැංකු මගින් ප්‍රථම වරට  රාජ්‍ය සේවකයන් සඳහා ණය ලබා දීමට සමෘද්ධි ලක්සර ණය යෝජනා ක්‍රමය නමින් ණය යෝජනා ක්‍රමයක් ක්‍රියාත්මක කර ඇතැයි   සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+The Samurdhi Development Department's scheme offers loans for savings deposits exclusively to low-income earners under 60, aiding pensioners.
 
-විශ්‍රාම වැටුප් හිමිකම සහිත රාජ්‍ය සේවයේ  ස්ථිර පත්වීමක් ලබා දැනට සක්‍රීය සේවයේ යෙදී සිටින වයස අවුරුදු 60 ට අඩු හා විශ්‍රාම යාමට තව අවුරුදු හතරකට වැඩි කාලයක් සහිත මෙම යෝජනා ක්‍රමය යටතේ තම ප්‍රදේශයේ සමෘද්ධි ප්‍රජා මූලික බැංකු මගින් මෙම ණය යෝජනා ක්‍රමය යටතේ
+🟩
 
-දේපල මිලදී ගැනීම ඇතුළු කටයුතු සඳහා රුපියල් ලක්ෂ දෙකේ සිට උපරිම ලක්ෂ 10 දක්වා ණය ලබාගත හැකිවන බව සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Samurdhi Development Department says that the Samurdhi Development Department (Samurdhi Community) Scheme has been implemented to provide loans for the savings deposits and facilitate the loans of savings deposits only to the low income earners.
+
+Under this Credit Scheme under this loan scheme, under the age of 60 years of age and retireing the pension ownership, under the age of 60, is under the age of 60 and retirement is under this loan scheme under this loan scheme.
+
+The Samurdhi Development Department states that loans from Rs.
 
 ◼️
 
 [Data](articles/eaffba5f.json)
+
+[Extended Data](ext_articles/eaffba5f.ext.json)
 
 ---
 

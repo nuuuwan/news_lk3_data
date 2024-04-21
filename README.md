@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 10:18:39**
+As of **2024-04-21 10:33:45**
 
 ## Newspaper Stats
 
-*Scraped **19,986** Articles*
+*Scraped **19,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 169
 bbccomsinhala | 209
 dbsjeyarajcom | 218
 newsfirstlk | 363
-islandlk | 1,082
+islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,143
 adalk | 1,658
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,984 (100.0%) of 19,986 articles have been extended.
+19,986 (100.0%) of 19,987 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Sri Lanka was left devastated on April 21, 2019 after a group of suicide attacke
 ◼️
 
 [Data](articles/212e11b0.json)
+
+[Extended Data](ext_articles/212e11b0.ext.json)
 
 ---
 
@@ -136,21 +138,27 @@ Spokesperson Dimitri Pescov stated that the package is enriched by this package 
 
 ---
 
-### සීගිරි හා දඹුලු සංචාරක කලාප සංවර්ධන ව්‍යාපෘති නිම කිරීමට කාලයක් දෙයි
+### Sigiriya and Dambulla Tourism Zonal Development Projects
 
 *2024-04-21 08:20:23* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරි-හා-දඹුලු-සංචාරක-කලාප-සංවර්ධන-ව්‍යාපෘති-නිම-කිරීමට-කාලයක්-දෙයි/11-409172) · `si`
 
-සීගිරි හා දඹුලු සංචාරක කලාප සංවර්ධන ව්‍යාපෘති වසරේ තුන්වැනි කාර්තුවට පෙර නිම කිරීමට උපදෙස්
+The Sigiriya and Dambulla Tourism Zonal Development Project, under the Ministry of Urban Development and Housing, aims to revitalize tourism in these areas with a focus on conservation, income generation, and environmental management. Funded by the Asian Development Bank, the project, temporarily halted due to Covid and economic crisis, is set to complete before Q3. It includes infrastructure improvements and aims to boost local economies.
 
-සීගිරිය සහ දඹුල්ල සංචාරක කලාප ලෙස සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ මූලික සැලසුම් මෙම වසරේ තුන්වැනි කාර්තුවට පෙර අවසන් කරන ලෙසට නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් නිළධාරීන්ට පෙරේදා (19) උපදෙස් ලබා දුන්නේය.
+🟩
 
-මෙම ව්‍යාපෘතියේ නාගරික පහසුකම් සැපයීමේ පහසුකම වෙනුවෙන් මුදල් අමාත්‍යංශය විසින් කමිටුවක්ද පත්කර තිබේ.
+Instructions to complete the Sigiriya and Dambulla Tourism Zonal Development Project before the third quarter of the year
 
-අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසන්නේ මේ ව්‍යාපෘතිය ක්‍රියාත්මක කෙරෙන්නේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ තිරසර නාගරික සංවර්ධන ව්‍යාපෘතිය යටතේ බවයි. 2019 වසරේදී ආරම්භ කෙරුණු මේ ව්‍යාපෘතිය රටේ ඇති වූ කොවිඩ් වසංගතය සහ ආර්ථික අර්බුදය හේතුවෙන් තාවකාලිකව නතර කෙරිණි.
+Urban Development and Housing Minister Prasanna Ranatunga was instructed by officials to end before the third quarter of this year as Sigiriya and Dambulla tourism.
+
+The Ministry of Finance has also appointed a committee to facilitate urban facilities in the project.
+
+Minister Prasanna Ranatunga says the project is implemented under the Sustainant Urban Development Project of the Ministry of Urban Development and Housing. Established in 2019, the project was temporarily halted due to the Covid Epidemic and the economic crisis in the country.
 
 ...
 
 [Data](articles/86ac6a5a.json)
+
+[Extended Data](ext_articles/86ac6a5a.ext.json)
 
 ---
 
@@ -637,6 +645,20 @@ Accordingly, in the next two weeks, the 2000 metric tons of onion will be import
 [Data](articles/de390325.json)
 
 [Extended Data](ext_articles/de390325.ext.json)
+
+---
+
+### Remembering an April half a century ago
+
+*2024-04-21 04:59:00* · [`islandlk`](http://island.lk/remembering-an-april-half-a-century-ago/) · `en`
+
+The month of April 1971. Fifty three years ago. Never to be forgotten by the older of us. Ceylon that year was embroiled in anarchy and the country was on the brink of being taken over by insurgents. We were still known as Ceylon then since the name change to Sri Lankan was in 1972.
+
+I need not detail or even refer to most of what happened in 1970 and 71. ‘Kill’ was the operative word; youth to the forefront; rivers turned red with human blood; smoking tyres with bodies inside fouled the air and dread, dread an utter uncertainty prevailed. Names in the forefront on the government side were Srimavo Bandaranaike, PM; Felix Dias Bandaranaike, Minister of Justice; Sepala Attyglle, Army Commander; SA ‘Jungle’ Dissanayake, former IGP brought back as Addl. Secretary to the Ministry of External Affairs and Defense. The top person in the JVP was of course Rohana Wijeweera, with Wijesena Vidanage, Somawanse Amarasinghe and a couple of others his next tier leaders.
+
+...
+
+[Data](articles/da493083.json)
 
 ---
 
@@ -2219,27 +2241,5 @@ Among the primary objectives of this is to develop cooperation between the two c
 [Data](articles/e1c8f9cd.json)
 
 [Extended Data](ext_articles/e1c8f9cd.ext.json)
-
----
-
-### Mother gives birth on boat en route to hospital
-
-*2024-04-20 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mother-gives-birth-on-boat-en-route-to-hospital/108-281057) · `en`
-
-Jaffna, April 20 (Daily Mirror)- An expectant mother who developed labour pains on her way to hospital by boat had delivered the child onboard the ferry near Nagadeepa.
-
-She had been first admitted to the Nagadeepa Base Hospital and on the advice of doctors had been transferred to the Jaffna Teaching Hospital by ferry.
-
-The female passengers had sent all the men onto the upper deck and helped her to deliver the child.
-
-She, with the child was ferried to Kurikadduwan jetty and transported from there to the Jaffna Teaching Hospital.
-
-Doctors said the mother and the infant were getting on well.
-
-◼️
-
-[Data](articles/77784fb1.json)
-
-[Extended Data](ext_articles/77784fb1.ext.json)
 
 ---

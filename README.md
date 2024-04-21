@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 14:34:05**
+As of **2024-04-21 14:51:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,024 (100.0%) of 20,027 articles have been extended.
+20,027 (100.0%) of 20,027 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Adding to the intrigue, Minister of Justice Wijeyadasa Rajapakshe was appointed 
 ◼️
 
 [Data](articles/6f285be9.json)
+
+[Extended Data](ext_articles/6f285be9.ext.json)
 
 ---
 
@@ -808,17 +810,23 @@ The accident had occurred when the three-wheeler was traveling from Elpitiya to 
 
 ---
 
-### උප්පැන්න නැති 40 පැන්න අයට ජාතික හැඳුනුම්පත ඉල්ලන්න ජුනි 30 තෙක් ඉඩ
+### Ask for National Identity Card for 40 Birth No Birth
 
 *2024-04-21 09:16:07* · [`adalk`](https://www.ada.lk/breaking_news/උප්පැන්න-නැති-40-පැන්න-අයට-ජාතික-හැඳුනුම්පත-ඉල්ලන්න-ජුනි-30-තෙක්-ඉඩ/11-409176) · `si`
 
-උප්පැන්න සහතිකයක් නොමැතිකම නිසා මෙතෙක්  ජාතික හැඳුනුම්පත ලබා ගැනීමට නොහැකිව සිටින වයස අවුරුදු 40 ඉක්මවූ   අයට ජාතික හැඳුනුම් පත ලබාගැනීමට ඉල්ලුම් කිරීමට තිබූ අවසන් දිනය මෙම වසරේ ජුනි 30 දක්වා කල් දැමූ බව පුද්ගලයින් ලියා පදිංචි කිරීමේ දෙපාර්තමේන්තුව දැනුම් දෙයි.
+The final day for obtaining a National Identity Card for those aged 40 has been postponed to June 30 this year due to a shortage of birth certificates.
 
-මේ සඳහා අවසාන දිනය ලෙස ඉකුත් මාර්තු 31  බව කලින් දැනුම් දී තිබුණද ප්‍රාදේශීය ලේකම්වරුන්ගේ ඉල්ලීම පරිදි මෙම කාලය ජුනි 30 දක්වා කල්දැමූ බව පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුව පැවසීය.
+🟩
+
+The department informs that the final day of the age of 40 has been postponed until June 30 this year due to lack of birth certificates.
+
+The department said that this time was postponed to June 30, despite the last month of the Divisional Secretaries.
 
 ◼️
 
 [Data](articles/622e7b72.json)
+
+[Extended Data](ext_articles/622e7b72.ext.json)
 
 ---
 

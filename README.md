@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 01:51:35**
+As of **2024-04-22 02:03:31**
 
 ## Newspaper Stats
 
-*Scraped **20,096** Articles*
+*Scraped **20,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 210
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
-dailyftlk | 1,103
+dailyftlk | 1,111
 economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
@@ -26,11 +26,137 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,096 (100.0%) of 20,096 articles have been extended.
+20,096 (100.0%) of 20,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Wijeyadasa pledges to unite all SLFP factions
+
+*2024-04-22 01:47:38* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-pledges-to-unite-all-SLFP-factions/56-760878) · `en`
+
+Justice Minister Wijeyadasa Rajapakshe who was appointed as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) yesterday amidst internal turmoil has vowed to reconcile all factions within the party.
+
+Addressing the media outside the SLFP headquarters on Darley Road, Rajapakshe asserted his commitment to uniting the divided factions. “Once we stabilise the situation, they will all join us,” he affirmed.
+
+Responding to queries from journalists about his plans to rejuvenate the SLFP, Rajapakshe expressed confidence, citing his track record of success in previous challenges. “Every challenge I’ve taken up, I’ve succeeded in. Every election I’ve faced, I’ve won,” he said.
+
+Meanwhile tension flared at the party headquarters as Rajapakshe and his supporters including SLFP members Daham Sirisena, Sajin Vass Gunawardena, Uditha Lokubandara and others sought entry to the office, despite the premises being sealed by police following its declaration as a crime scene.
+
+...
+
+[Data](articles/581cbbe6.json)
+
+---
+
+### Seven spectators die at Fox Hill Super Cross 2024 mishap
+
+*2024-04-22 01:47:18* · [`dailyftlk`](https://www.ft.lk/news/Seven-spectators-die-at-Fox-Hill-Super-Cross-2024-mishap/56-760877) · `en`
+
+Seven people were killed and 27 others injured when a vehicle rammed into a group of spectators at Fox Hill Super Cross 2024 held at Diyatalawa yesterday.
+
+Fox Hill Super Cross was revived after a lapse of five years by the Sri Lanka Military Academy in collaboration with the Sri Lanka Army Motorsports Committee and Sri Lanka Automobile Sports (SLAS). Three of the dead were officiating at the meet.
+
+This year’s meet attracted over 100,000 spectators in addition to invitees and officials.
+
+◼️
+
+[Data](articles/264ed430.json)
+
+---
+
+### United Nations pushes justice for Sri Lanka’s Easter victims
+
+*2024-04-22 01:46:52* · [`dailyftlk`](https://www.ft.lk/news/United-Nations-pushes-justice-for-Sri-Lanka-s-Easter-victims/56-760876) · `en`
+
+The United Nations on Sunday urged Sri Lanka to bridge its “accountability deficit” and ensure justice as the country commemorated the 279 victims of its worst-ever attack against civilians five years ago.
+
+The UN’s top envoy to the country, Marc-Andre Franche, told a remembrance service in Colombo that there should be a “thorough and transparent investigation” to uncover those behind the Easter carnage in 2019.
+
+Islamist bombers hit three churches and three hotels in the island’s deadliest suicide attack aimed at civilians, but grieving families say they are still waiting for justice.
+
+Among the dead were 45 foreigners, including tourists visiting the island a decade after the end of a brutal ethnic conflict that had claimed more than 100,000 lives since 1972.
+
+“Sri Lanka suffers from a continuing accountability deficit, be it for alleged war crimes, more recent human rights violations, corruption or abuse of power, which must be addressed if the country is to move forward,” Franche said.
+
+...
+
+[Data](articles/d30ef12d.json)
+
+---
+
+### WUSC holds first entrepreneurial ecosystem convening and knowledge sharing in Colombo, Jaffna
+
+*2024-04-22 01:43:55* · [`dailyftlk`](https://www.ft.lk/business/WUSC-holds-first-entrepreneurial-ecosystem-convening-and-knowledge-sharing-in-Colombo-Jaffna/34-760875) · `en`
+
+GRIT partners – Hatch, LIIN, and Yarl IT Hub with representatives from WUSC and Canadian High Commission
+
+WUSC (World University Service of Canada) held its first entrepreneurial ecosystem convening and knowledge sharing events on 27 February 2024 in Colombo and 14 March in Jaffna, under its newest project GRIT - Growth, Resilience, Investment and Training, a Gender-Responsive Entrepreneurial Ecosystem Development Project in the North of Sri Lanka.
+
+...
+
+[Data](articles/d2b54e52.json)
+
+---
+
+### Institute of Electrical and Electronic Engineers announces Illuminate ’24
+
+*2024-04-22 01:41:31* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Electrical-and-Electronic-Engineers-announces-Illuminate-24/34-760874) · `en`
+
+Inspiring initiative aimed at empowering undergraduate students aspiring to build their own startups and driving youth entrepreneurship
+
+Institute of Electrical and Electronic Engineers (IEEE) , the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity, has announced Illuminate ’24, an inspiring initiative aimed at empowering undergraduate students aspiring to build their own startups and driving youth entrepreneurship.
+
+Illuminate ’24 serves as a valuable platform for these students to gain insights from accomplished entrepreneurs who have successfully navigated the journey of building their ventures.
+
+...
+
+[Data](articles/09b1f38d.json)
+
+---
+
+### Huawei announces several initiatives for 2024 at Huawei Talent Summit
+
+*2024-04-22 01:40:44* · [`dailyftlk`](https://www.ft.lk/business/Huawei-announces-several-initiatives-for-2024-at-Huawei-Talent-Summit/34-760873) · `en`
+
+During MWC Barcelona 2024, Huawei held the Huawei Talent Summit and made announcements relevant to several talent development initiatives, including: the launch of the applications for the global ITU-Huawei Generation Connect Young Leadership Program; the announcement that the joint project between Huawei and UNESCO’s Institute for Lifelong Learning (UIL) will be implemented in Morocco; and Huawei Cloud’s startups program.
+
+The theme of the event was “I C Talent: Nurturing Excellence in a Digital World”. Attendees included representatives from international organisations like ITU and UNESCO, government officials from Greece, Kenya, and Mexico, female industry leaders, entrepreneurs participating in the Huawei Cloud Startup Program, and participants in Seeds for the Future and several top competitions.
+
+...
+
+[Data](articles/c5f01759.json)
+
+---
+
+### Browns signs pioneering Industrial Digitalisation MoU with Sri Jayewardenepura Uni.
+
+*2024-04-22 01:39:03* · [`dailyftlk`](https://www.ft.lk/business/Browns-signs-pioneering-Industrial-Digitalisation-MoU-with-Sri-Jayewardenepura-Uni/34-760872) · `en`
+
+Brown & Company Director/CEO Sanakan Thamotharampillai (left) and University of Sri Jayewardenepura Dean of Faculty of Engineering Dr. Nishan Dharmaweera exchange the MoU. Others (from left): Brown & Company Lead – IoT Solutions Sithija Rathnayake, Senior Automation Engineer Ashane Senevirathne, Team Lead – IoT Solutions Pubudu Dharmathilake, Tech Lead Chathura Edirisinghe, Senior Manager – Digital Transformation Nadeesha De Jeodth, Head of IT Prasanna Ganegoda, University of Sri Jayewardenepura HOD of Faculty of Computer Engineering Dr. Udaya Wijenayake, and HOD of Faculty of Engineering Dr. Uditha Wijewardhana
+
+Brown & Company’s Digital Transformation Solutions Strategic Business Unit recently signed a path-breaking Memorandum of Understanding (MoU) with the University of Sri Jayewardenepura.
+
+...
+
+[Data](articles/c16a84c3.json)
+
+---
+
+### ISB debt restructure and the upcoming elections
+
+*2024-04-22 01:06:20* · [`dailyftlk`](https://www.ft.lk/columns/ISB-debt-restructure-and-the-upcoming-elections/4-760855) · `en`
+
+We were told that EPF/ETF wouldn’t be touched in the restructuring, only to find it was
+
+A recent episode of the Sirasa TV program Mawatha (18 April), undertook what seemed at first to be the difficult task of trying to explain to the general public, the current status of the Government’s negotiations of the debt restructure with International Sovereign Bond (ISB) holders. The expert participants explained that however complex the technicalities were, the already financially oppressed average citizen will end up bearing the burden, and as such should make every effort to understand what’s being agreed on their behalf and what their prospects were. (https://www.youtube.com/watch?v=Xkc8dxiG_2s&t=1s)
+
+...
+
+[Data](articles/f58fbc97.json)
+
+---
 
 ### Global admiration for Sri Lanka’s economic reform efforts echoes at IMF-World Bank mid-year meetings
 
@@ -2103,181 +2229,5 @@ The Minsiter said the International Monetary Fund and the World Bank Spring Meet
 [Data](articles/ba720ff1.json)
 
 [Extended Data](ext_articles/ba720ff1.ext.json)
-
----
-
-### IMF praises Sri Lanka for economic progress on sidelines of Spring Meetings 2024
-
-*2024-04-21 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98751/imf-praises-sri-lanka-for-economic-progress-on-sidelines-of-spring-meetings-2024) · `en`
-
-The IMF’s (International Monetary Fund) First Deputy Managing Director, Gita Gopinath has congratulated the Sri Lankan authorities on the steady progress made on several fronts, including inflation reduction, revenue enhancement and governance reforms.
-
-This remark was made when State Minister of Finance Shehan Semasinghe had bilateral discussion with Ms. Gopinath on the sidelines of the IMF and World Bank Group Spring Meetings 2024, held in Washington D.C.
-
-Posting on X, Semasinghe said that she emphasised the need to ensure the reform momentum is maintained.
-
-He further pointed out the close collaboration between Sri Lanka and the IMF was key in transforming the economy, and the country is now reaping results from the well-crafted policies and reforms implemented.
-
-Semasinghe also appreciated the IMF’s efforts to assist countries in debt distress, particularly leadership extended to the Global Sovereign Debt Roundtable.
-
-◼️
-
-[Data](articles/9bd5638c.json)
-
-[Extended Data](ext_articles/9bd5638c.ext.json)
-
----
-
-### Who carried out the Iraqi base of the pro -Iranian armed forces?The United States of America
-
-*2024-04-21 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181559) · `ta`
-
-The US military denied launching an attack on an Iraqi base housing Iran-backed armed groups, despite Iraq's Home Ministry and Reuters reports. Two Iraqi officials accused an air strike, with one person killed and 8 injured. The US military refuted these claims, stating their soldiers were involved in an offensive, not an attack.
-
-🟩
-
-The question arises as to who carried out the attack while an attack on an Iraqi base where Iran -backed armed groups were staying.
-
-Iraq's Home Ministry official said that the attack on the site of former Iranian -backed group Hazet al -Sabi, which has been embedded within the Iraqi army, took place on Friday night.
-
-One person was killed in the attack and 8 people were injured and three Iraqi soldiers were injured.
-
-Reuters reports that two Iraqi officials have accused the air strike.
-
-Hazet al -Sebi has said that there were casualties and casualties.
-
-Iraqi soldiers did not confirm who was attacked.
-
-The US military, which said it had not launched an attack on Iraq, said the US soldiers launched an offensive and that the reports on social media were false.
-
-It is noteworthy that the Hazet al -Chafi organization, which was created to fight against the IS system, is now a faction of the Iraqi army.
-
-◼️
-
-[Data](articles/cca66664.json)
-
-[Extended Data](ext_articles/cca66664.ext.json)
-
----
-
-### A young man jumps from the courtyard of Sri Pada
-
-*2024-04-21 10:24:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-මළුවේ-සිට-රත්නපුර-ප්‍රපාතයට-තරුණයෙක්-පනියි/11-409179) · `si`
-
-A 23-year-old man, Dinesh Hemantha, from Sooriyawewa, jumped from the Sri Pada courtyard. He was accompanied by two women, who filed a complaint with the Siriwala Police. The STF and Army are searching for him.
-
-🟩
-
-A youth at Sri Pada pilgrimage has arisen from the Sri Pada courtyard and have escaped from the SriPada courtyard.
-
-The 23-year-old Dinesh Hemantha, a resident of Sooriyawewa area in Hambantota.
-
-The man had gone to the Nallutha - Sri Pada pillows with two women.
-
-The two women have lodged a complaint with the Siriwala Police regarding the incident.
-
-Nallathaniya police say that the STF and the Army have launched a mission to find this person (21)
-
-◼️
-
-[Data](articles/c773d6d6.json)
-
-[Extended Data](ext_articles/c773d6d6.ext.json)
-
----
-
-### Colonial Legacies: Cultural Imperialism & The Fracturing Of Ethnic Identities
-
-*2024-04-21 10:24:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/colonial-legacies-cultural-imperialism-the-fracturing-of-ethnic-identities/) · `en`
-
-Cultural imperialism evolved from the concept of using cultural domination as a means of political and economic control. The idea behind cultural imperialism is that a powerful group, often a colonial power or dominant nation, imposes its cultural values, beliefs, and practices on a less powerful group or nation. This imposition is not just about spreading culture but is often a deliberate strategy to exert influence, control resources, and maintain dominance. It was a tool used to weaken the cultural identity and unity of colonized peoples. By imposing the culture, language, and values of the colonizers, the colonized were often made to feel inferior or backward, which reinforced the power dynamics of colonial rule.
-
-...
-
-[Data](articles/e26185c8.json)
-
-[Extended Data](ext_articles/e26185c8.ext.json)
-
----
-
-### On The Issue Of The Failure To Obtain Justice For The Victims Of The Easter Sunday Massacre
-
-*2024-04-21 10:02:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-the-issue-of-the-failure-to-obtain-justice-for-the-victims-of-the-easter-sunday-massacre/) · `en`
-
-An Open Letter from the Asian Human Rights Commission to Open Letter to H. E. the Cardinal Malcom Ranjith and all the members of the Catholic Bishops’ conference in Sri Lanka
-
-...
-
-[Data](articles/66591bb3.json)
-
-[Extended Data](ext_articles/66591bb3.ext.json)
-
----
-
-### Sri Lanka marks 5 years since deadly Easter Sunday attacks
-
-*2024-04-21 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98750/sri-lanka-marks-5-years-since-deadly-easter-sunday-attacks) · `en`
-
-All the churches across the island observed a two-minutes silence to mark the fifth anniversary of the deadly terror attacks on Easter Sunday (April 21) in 2019.
-
-This moment of silence was held at 08.45 a.m. today in remembrance of those who lost their lives in the tragic bombings, according to the communications unit of the Archdiocese of Colombo.
-
-Sri Lanka was left devastated on April 21, 2019 after a group of suicide attackers of the now-outlawed local Islamic extremist organization National Thowheed Jamaat (NTJ) carried out a series of coordinated bomb blasts at St. Anthony’s Church in Kochchikade, St. Sebastian’s Church in Katuwapitiya, Zion Church in Batticaloa, Cinnamon Grand, Kingsbury and Shangri-La hotels in Colombo and a guest house in Dehiwala, leaving more than 260 people including foreigners dead and at least 500 people injured.
-
-◼️
-
-[Data](articles/212e11b0.json)
-
-[Extended Data](ext_articles/212e11b0.ext.json)
-
----
-
-### Estate workers prepare into strike
-
-*2024-04-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195828) · `si`
-
-Estate workers in Nuwara Eliya plan a strike tomorrow, supported by the TNA, to demand a daily salary increase to Rs. 1,700.
-
-🟩
-
-Plantation employees to begin their daily salaries to begin a strike tomorrow (22).
-
-Nuwara Eliya District Parliamentarian Palani Digambaram said that the TNA would be supported by the strike.
-
-He said that the President has instructed the tea estate employees to increase the daily salary to Rs. 1,700.
-
-◼️
-
-[Data](articles/3b003f52.json)
-
-[Extended Data](ext_articles/3b003f52.ext.json)
-
----
-
-### Grandpa dies after granddaughter and membapula accident
-
-*2024-04-21 09:32:19* · [`adalk`](https://www.ada.lk/breaking_news/සීයා--මිණිපිරිය-හා-මුණපුරා-අනතුරින්-මරුට/11-409178) · `si`
-
-A tragic accident involving a three-wheeler and a lorry in Elpitiya, Sri Lanka, resulted in the death of Kalinga Nihal Somaratne, a 68-year-old father, and injuries to three others. The deceased's daughter, Kalinga Jethigeriya Somaratne, and two children are receiving treatment. The driver of the lorry fled but later surrendered to police.
-
-🟩
-
-Elpitiya Va යුතුව Va යුතුව Vaatic
-
-Three others who were injured in the accident are receiving treatment at the Elpitiya Base Hospital and Karapitiya Hospital.
-
-The deceased has been identified as Kalinga Nihal Somaratne, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father of Sugathapala Mawatha, Elpitiya, Valembugala, Sugathapala Mawatha.. Thainula Fernando (10), Granuil Fernando (07), two children.
-
-His daughter of his daughter, Kalinga Jethigeriya Somaratne (35), is currently receiving treatment at the Karapitiya Hospital, the wife of the deceased driver.Is
-
-The victims were rushed to the Elpitiya Base Hospital, which had died on the Galle Karapitiya Hospital today (21), hospital sources said.
-
-The accident had occurred when the three-wheeler was traveling from Elpitiya to Vardato and the lorry had gone to Elpitiya and had stopped at a trip to a trip to the three-meters away and fled awayThe police said.
-
-...
-
-[Data](articles/26a8b0c2.json)
-
-[Extended Data](ext_articles/26a8b0c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 11:53:17**
+As of **2024-04-21 12:03:53**
 
 ## Newspaper Stats
 
-*Scraped **19,996** Articles*
+*Scraped **20,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,83 @@ dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
-economynextcom | 1,143
-adalk | 1,659
+economynextcom | 1,145
+adalk | 1,660
 tamilmirrorlk | 2,308
 adaderanalk | 2,396
 virakesarilk | 2,985
-dailymirrorlk | 3,115
-adaderanasinhalalk | 3,249
+dailymirrorlk | 3,116
+adaderanasinhalalk | 3,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,995 (100.0%) of 19,996 articles have been extended.
+19,996 (100.0%) of 20,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Upcountry plantation workers launch strike; demand Rs. 1,700 daily wage
+
+*2024-04-21 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upcountry-plantation-workers-launch-strike-demand-Rs-1-700-daily-wage/108-281080) · `en`
+
+Hatton, April 21 (Daily Mirror)- Upcountry  plantation workers launched a strike and staged a protest today demanding that their daily wages be increased to Rs. 1,700.
+
+The plantation workers displayed black flags and wore back bands during their protest.
+
+Trade associations in Hatton, Kotagala, Bogawanthalawa, Dikoya and Maskeliya closed down their shops and displayed black flags in support of the strike action.
+
+The Ceylon Workers' Congress organised the trade union action and other trade unions such as the Tamil Progressive Alliance (TPA) extended their support to the strike.
+
+The protesting plantation workers claim that the plantation companies had not taken any steps to increase their wages despite massive profits earned by the companies.
+
+◼️
+
+[Data](articles/2ce9ec50.json)
+
+---
+
+### පයාගල තෝරා ගේ ප්‍රධාන ගෝලයා අත්අඩංගුවට
+
+*2024-04-21 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195829) · `si`
+
+සංවිධානාත්මක මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුවන "පයාගල තෝරා"ගේ ප්‍රධාන ගෝලයකු වන "පයාගල සුට්ටු" පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ කළුතර අපරාධ කොට්ඨාසය මගින් ඊයේ (20) සවස එම සැකකරු පයාගල, කලමුල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+
+එහිදී ඔහුගේ යට ඇඳුමේ සඟවා තිබූ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10ක් සහ එම ජාවාරම සඳහා භාවිතා කළ ජංගම දුරකථන දෙකක්ද කළුතර අපරාධ කොට්ඨාසය භාරයට ගෙන තිබේ.
+
+සැකකරු අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත්තේ "පයාගල තෝරා" නැමැත්නා කළුතර බන්ධනාගාරයේ සිට එම ජාවාරම සිදුකරගෙන ගොස් ඇති බවටය.
+
+පොලීසිය පැවසුවේ මෙම සැකකරු විසින් මෙම මත්ද්‍රව්‍ය ජාවාරම සිදුකර ඇත්තේ, ජංගම දුරකත ඔස්සේ මුදල් හුවමාරු කිරීමේ ක්‍රමවේදයක් හරහා බවය.
+
+සැකකරු මෙම අයිස් මත්ද්‍රව්‍ය ජාවාරම දොඩංගොඩ, පයාගල, මතුගම, වැලිපැන්න, කළුතර ආදී ප්‍රදේශවල සිදුකරගෙන ගොස් ඇති අතර එම සැකකරු දැනට මාසයකට පමණ පෙර මත්ද්‍රව්‍ය ජාවාරමක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගතව ඇප මත නිදහස්ව ඇති පුද්ගලයෙකි.
+
+...
+
+[Data](articles/3452bd1b.json)
+
+---
+
+### Widespread support for Sri Lanka debt workout, reform progress at IMF/WB meet: Minister
+
+*2024-04-21 11:30:00* · [`economynextcom`](https://economynext.com/widespread-support-for-sri-lanka-debt-workout-reform-progress-at-imf-wb-meet-minister-159584/) · `en`
+
+ECONOMYNEXT – There was widespread support for Sri Lanka’s debt restructuring and acknowledgement of progress made under an International Monetary Fund program, at meeting of the fund and World Bank, State Minister for Finance Shehan Semasinghe said.
+
+“The strides made in our economic recovery and financial stability have been acknowledged as significant advancements towards our country’s prosperity by our stakeholders and international partners,” Minister Semasinghe said in an x.com (twitter) post after attending the meetings.
+
+“Further, it was heartening to note the widespread appreciation and support for Sri Lanka’s debt restructuring process.
+
+“We remain steadfast in our commitment to reaching the restructuring targets and confident of smooth progress in the continued good-faith engagements for a speedy debt resolution that will ensure debt sustainability and comparability of debt treatment.”
+
+...
+
+[Data](articles/caae9430.json)
+
+---
 
 ### Sri Lanka’s Vedda popn shares genetic link with ethnic Indians
 
@@ -43,6 +103,8 @@ The study, which involved a comprehensive analysis of high-resolution autosomal 
 ...
 
 [Data](articles/d494a3e3.json)
+
+[Extended Data](ext_articles/d494a3e3.ext.json)
 
 ---
 
@@ -354,6 +416,20 @@ Spokesperson Dimitri Pescov stated that the package is enriched by this package 
 
 ---
 
+### අධ්‍යාපන පරිපාලන සේවා සීමිත තරග විභාගයේ ප්‍රතිඵල නිකුත් කෙරේ
+
+*2024-04-21 08:25:57* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවා-සීමිත-තරග-විභාගයේ-ප්‍රතිඵල-නිකුත්-කෙරේ/11-409173) · `si`
+
+2023 වර්ෂයේ පවත්වන ලද ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවා සීමිත තරග විභාගයේ ප්‍රතිඵල ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇත. එම ප්‍රතිඵල අනුව සම්මුඛ පරීක්ෂණ සඳහා සුදුසුකම් ලත් 735 දෙනකුගේ නාම ලේඛනය මේ වන විට විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට ඇතුළත් කර ඇති අතර www.doenets.lk වෙබ් අඩවියට පිවිසීමෙන් අපේක්ෂකයන්ට එම ප්‍රතිඵල බැලීමේ හැකියාව පවතී.
+
+2019 වර්ෂයට පසු වසර පහක පමණ කාලයක් ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ සීමිත තරග විභාග පවත්වා නොමැති අතර අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතාගේ උපදෙස් සහ සෘජු මැදිහත්වීම මත දිවයිනේ සියලු‍ පළාත්වල පවතින ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ නිලධාරීන්ගේ පුරප්පාඩු පිරවීම සඳහා මෙම තරග විභාගය පවත්වන ලදී. සම්මුඛ පරීක්ෂණ පවත්වා හැකි ඉක්මනින්  පුරප්පාඩු පිරවීමට පියවර ගන්නා ලෙසද අමාත්‍යවරයා නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/05d23688.json)
+
+---
+
 ### Sigiriya and Dambulla Tourism Zonal Development Projects
 
 *2024-04-21 08:20:23* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරි-හා-දඹුලු-සංචාරක-කලාප-සංවර්ධන-ව්‍යාපෘති-නිම-කිරීමට-කාලයක්-දෙයි/11-409172) · `si`
@@ -497,6 +573,26 @@ Police investigations have revealed that he had left the house for fishing on Mo
 [Data](articles/9e68e239.json)
 
 [Extended Data](ext_articles/9e68e239.ext.json)
+
+---
+
+### Sri Lanka choices recalled in Vietnam debate on monetary and fiscal options to target output
+
+*2024-04-21 07:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-choices-recalled-in-vietnam-debate-on-monetary-and-fiscal-options-to-target-output-159511/) · `en`
+
+ECONOMYNEXT – Vietnam can grow 6.0 percent in 2024, with ‘policy support’ but there is a debate whether it should be done through fiscal (widening deficits/worsening debt or state spending) or monetary means, a top International Monetary Fund official said.
+
+The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a challenging 2023,” Krishna Srinivasan, Director of the Asia and Pacific Department told reporters during the Spring Meetings in Washington.
+
+“Now, in the case of Vietnam, I would say that there’s an issue about policy mix, whether you could get more support from the fiscal and rely less on monetary,” Srinivasan said.
+
+“So there is an issue of policy mix which we’re talking, which we’ve been engaging the authorities with.
+
+“I would say that policy support should be more favorable and that should, and along with external demand, help raise growth to 6 percent.”
+
+...
+
+[Data](articles/03d8e7de.json)
 
 ---
 
@@ -2163,113 +2259,5 @@ Additionally, he noted that importing vehicles that are seven years of age or ol
 [Data](articles/b9a19af9.json)
 
 [Extended Data](ext_articles/b9a19af9.ext.json)
-
----
-
-### WHO prequalifies new oral simplified vaccine for cholera
-
-*2024-04-20 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WHO-prequalifies-new-oral-simplified-vaccine-for-cholera/108-281060) · `en`
-
-Geneva, April 20 (WHO) - A new oral vaccine for cholera has received prequalification by the World Health Organization (WHO) on 12 April. The inactivated oral vaccine Euvichol-S has a similar efficacy to existing vaccines but a simplified formulation, allowing opportunities to rapidly increase production capacity.
-
-“The new vaccine is the third product of the same family of vaccines we have for cholera in our WHO prequalification list,” said Dr Rogerio Gaspar, Director of the WHO Department for Regulation and Prequalification. “The new prequalification is hoped to enable a rapid increase in production and supply which many communities battling with cholera outbreaks urgently need.”
-
-WHO prequalification list already includes Euvichol and Euvichol-Plus inactivated oral cholera vaccines produced by EuBiologicals Co., Ltd, Republic of Korea, which also produces the new vaccine Euvichol-S.
-
-...
-
-[Data](articles/98b7db76.json)
-
-[Extended Data](ext_articles/98b7db76.ext.json)
-
----
-
-### Attacks on Iraqi camp
-
-*2024-04-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195806) · `si`
-
-Iraqi camp attacked, 3 killed, 5 injured in Iran-backed strikes. Iraq blames Israel, but US denies connection.
-
-🟩
-
-Three people were killed and 5 others were injured in several air strikes at Iran's support.
-
-Although Iraq accused Israel, Iraq accused Israel, but in the United States say that there is no connection to those attacks.
-
-◼️
-
-[Data](articles/5ea3c4c1.json)
-
-[Extended Data](ext_articles/5ea3c4c1.ext.json)
-
----
-
-### Catholic Church has not accepted Easter attacks proposals of NPP or SJB
-
-*2024-04-20 12:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-has-not-accepted-Easter-attacks-proposals-of-NPP-or-SJB/108-281065) · `en`
-
-Colombo, April 20 (Daily Mirror)- The Catholic Church has not accepted proposals of the National Peoples Power (NPP) or the Samagi Jana Balawegaya (SJB) over the probes into the Easter Sunday attacks, Member of the Communications Committee of the Archdiocese of Colombo, Fr. Cyril Gamini Fernando said today.
-
-"We have to study the proposals of the SJB and NPP before deciding whether to accept them or not. It is true that the NPP and SJB handed over their proposals to the Archbishop of Colombo Cardinal Malcolm Ranjith, but that does not mean the Church has accepted them," Fr. Fernando said.
-
-He was responding to allegations by United National Party (UNP) General Secretary Palitha Range Bandara who said on Friday that people have become suspicious whether the Cardinal is trying to promote political parties.
-
-...
-
-[Data](articles/3e2e6489.json)
-
-[Extended Data](ext_articles/3e2e6489.ext.json)
-
----
-
-### Motorcycle accident killed
-
-*2024-04-20 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195805) · `si`
-
-A 16-year-old student died in a motorcycle accident on Panc ලා nsigura road, Rambe-Melshipura. The accident happened at night, and the victim was from Gellanwewa. The driver was admitted to Polpithigama Hospital and later died. The injured were transferred to Kurunegala Hospital.
-
-🟩
-
-A student was killed in an accident in Panc ලා nsigura road in Rambe-Melshipura.
-
-The accident had occurred when the motorcyclus traded, accidentally collided with a ridiculous vehicle.
-
-The police said that the accident had occurred at night.
-
-The driver has died after admission to the Polpithigama Hospital.
-
-The victim was a 16 year old resident of the Gellanwewa area.
-
-The injured have been transferred to Kurunegala Hospital for further treatment.
-
-◼️
-
-[Data](articles/7f61841a.json)
-
-[Extended Data](ext_articles/7f61841a.ext.json)
-
----
-
-### Pakistan influenced Pakistan from inclement weather
-
-*2024-04-20 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195804) · `si`
-
-Pakistan's inclement weather caused 87 deaths, injured 82, damaged 2,715 houses, and led to floods in several areas.
-
-🟩
-
-The number of people died from 87 due to inclement weather affected by Pakistan.
-
-Foreign media reports that floods have occurred to several areas in Pakistan due to heavy rains.
-
-The National Disaster Management Authority (DMC) has said that 82 others were injured in bad weather.
-
-2,715 houses have been partial or full damage, and the high rain can be expected to expect several days.
-
-◼️
-
-[Data](articles/b6bdf684.json)
-
-[Extended Data](ext_articles/b6bdf684.ext.json)
 
 ---

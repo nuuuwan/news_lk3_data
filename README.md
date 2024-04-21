@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 21:18:18**
+As of **2024-04-21 21:34:02**
 
 ## Newspaper Stats
 
-*Scraped **20,078** Articles*
+*Scraped **20,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ economynextcom | 1,145
 adalk | 1,677
 tamilmirrorlk | 2,318
 adaderanalk | 2,407
-virakesarilk | 2,990
-dailymirrorlk | 3,128
-adaderanasinhalalk | 3,265
+virakesarilk | 2,993
+dailymirrorlk | 3,129
+adaderanasinhalalk | 3,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,078 (100.0%) of 20,078 articles have been extended.
+20,078 (100.0%) of 20,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### பரபரப்பான போட்டியில் பெங்களூருவை கடைசிப் பந்தில் ஒரு ஓட்டத்தால் வென்றது கொல்கத்தா
+
+*2024-04-21 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181603) · `ta`
+
+கொல்கத்தா ஈடன் கார்ட்ன் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை நடைபெற்ற கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கும் இடையில் மிகவும் பரபரப்பை ஏற்படுத்திய 36ஆவது  இண்டியன் பிறீமியர் லீக் போட்டியின் கடைசிப் பந்தில் ஒரு ஓட்டத்தால் கொல்கத்தா நைட் ரைடர்ஸ் வெற்றயீட்டியது.
+
+இந்தப் போட்டியில் எந்த அணி வெற்றிபெறும் என்ற சொல்ல முடியாத அளவுக்கு ஆட்டத்தின் தன்மை இரண்டு அணிகளுக்கும் மாறி மாறி சாதகமாக இருந்தது.
+
+ஆனால், கடைசிப் பந்தில் வெற்றிக்கு தேவைப்பட்ட 3 ஓட்டங்களுக்குப் பதிலாக பேர்கசன் ஒரு ஓட்டத்துடன் ஆட்டம் இழக்க ஒரு ஓட்டம் றோயல் செலஞ்சர்ஸ் பெங்களூருக்கு சாதகமான முடிவைப் பெற்றுக்கொடுத்தது.
+
+இந்த முடிவை அடுத்து ஐபிஎல் கிரிக்கெட்டில் 50 வீத போட்டிகள் நிறைவடைந்துள்ள நிலையில் றோயல் செலஞ்சர்ஸ் பெங்களூரு முதலாவது அணியாக இறுதிச் சுற்று வாய்ப்பை இழக்கவுள்ளது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கொல்கத்தா நைட் ரைடர்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 222 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/0efde62b.json)
+
+---
+
+### සෑම මිනිත්තු 10කටම වරක් දරුවෙකුට දිවි අහිමිවෙන ඛේදවාචකය
+
+*2024-04-21 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195845) · `si`
+
+යුද ගැටුම්වල බලපෑම හේතුවෙන් ගාසා තීරයේ සෑම මිනිත්තු 10කටම වරක් දරුවෙකු මියයන බව පලස්තීන සරණාගතයින් සඳහා වන එක්සත් ජාතීන්ගේ ඒජන්සිය අනාවරණය කර තිබේ.
+
+දෛනිකව විවිධ තුවාලවලට ලක්වන සහ  සෞඛ්‍යමය ගැටලු ඇතිවන දරුවන්ගේ සංඛ්‍යාව ද සීග්‍රයෙන් ඉහළ ගොස් ඇති බව එම ඒජන්සිය පෙන්වාදෙයි.
+
+ජාත්‍යන්තර අධිකරණයේ තීන්දු නොසලකා හරිමින්, ඊශ්‍රායලය දිගින් දිගටම ගාසා තීරයට එල්ල කරන ප්‍රහාර හේතුවෙන් දරුවන්ගේ ජීවිත දැඩි අනාරක්ෂිත තත්වයකට පත්ව ඇති බව ඔවුන් වාර්තාවක් ඉදිරිපත් කරමින් පෙන්වාදී තිබේ.
+
+පලස්තීන සෞඛ්‍ය බලධාරීන්ට අනුව යුද්ධය හේතුවෙන් මේ වනවිට පලස්තීනුවන් 34,049 මියගොස් තවත් පුද්ගලයින් 76,901 දෙනෙකු තුවාල ලබා ඇති බව විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/68f4a2e6.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக விஜேதாச ராஜபக்ஷ தெரிவு!
+
+*2024-04-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181602) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையிலான ஶ்ரீலங்கா சுதந்திரக் கட்சி (SLFP) அணியினர், கட்சியின் பதில் தலைவராக அமைச்சர் விஜேதாச ராஜபக்க்ஷவை தெரிவு செய்துள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+எதுல் கோட்டேயில் ஞாயிற்றுக்கிழமை (21) நடைபெற்ற கட்சியின் செயற்குழு கூட்டத்தின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+நீதிமன்றத்தின் இடைக்காலத் தடை காரணமாக முன்னாள் ஜனாதிபதி சிறிசேன கட்சித் தலைவராக செயல்படுவது தடுக்கப்பட்டுள்ளது.
+
+இதேவேளை, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையகம் அமைந்துள்ள டார்லி  கட்சி கட்டிடத்திற்குள் நுழைய முற்பட்ட குழுவினர் பொலிஸாரால் தடுக்கப்பட்டதனையடுத்து, அங்கு பதற்றமான சூழல் ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது
+
+◼️
+
+[Data](articles/11c9167b.json)
+
+---
 
 ### United Nations pushes justice for Sri Lanka’s Easter victims
 
@@ -85,6 +141,26 @@ Attorney at Law, police spokesman, Nihal Talduuwa said that the race was stopped
 [Data](articles/c60014f7.json)
 
 [Extended Data](ext_articles/c60014f7.ext.json)
+
+---
+
+### போருக்குப் பின்னரான இருண்ட காலத்தை பேசும் ஊழி திரைப்படம்
+
+*2024-04-21 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181589) · `ta`
+
+யுத்தம் முடிவுக்கு வந்த பின்னரான தமிழர்களின் வாழ்வின் இருண்ட யுகங்களை பற்றி பேசும் படமாக ஊழி திரைப்படம் உருவாக்கப்பட்டுள்ளதாகவும் , எதிர்வரும் 10ஆம் திகதி உலகளவில் அத்திரைப்படத்தை திரையிடவுள்ளதாகவும்  படத்தில் வசனகர்த்தாவாகவும் பாடலாசிரியராகவும் பணியாற்றிய ஈழத்து கவிஞர் தீபசெல்வன் தெரிவித்துள்ளார்.
+
+ஈழத்தில் உருவாக்கப்பட்ட ஈழ திரைப்படமே ஊழி ஆகும். நாட்டில்  இனவழிப்பு ஒன்று செய்யப்பட்ட பின்னர், தாம் நாட்டினை ஒன்றாகியதாக ஆட்சியாளர்கள் 2009ஆம் ஆண்டு கூறிய பின்னர் , கிழக்கு மாகாணத்தில் தொடங்கும் கதையே ஊழி திரைப்படம்.
+
+இந்த திரைப்படம் போருக்குப் பிந்தைய சூழலில் ஒரு சிறுவனின் வாழ்வு பற்றி பேசும். 2009ஆம் ஆண்டிற்கு பின்னர் தமிழர்களின் இருண்ட யுகங்களை பற்றி பேசுகின்றது.
+
+இந்த திரைப்படத்தில் ஈழ கலைஞர்கள் , தென்னிந்திய கலைஞர்கள் மற்றும் தென்னிலங்கை கலைஞர்கள் பணியாற்றியுள்ளனர்.
+
+திரைப்படம் எதிர்வரும் மே மாதம் 10ஆம் திகதி இலங்கையில், யாழ்ப்பாணம், வவுனியா , மட்டக்களப்பு , திருகோணமலை உள்ளிட்ட பல திரையரங்குகளில் திரையிடவுள்ளோம்.
+
+...
+
+[Data](articles/66c90c8c.json)
 
 ---
 
@@ -417,6 +493,18 @@ The Police Media Spokesperson also stated that 4 rates were also killed in the a
 [Data](articles/e09b0d4f.json)
 
 [Extended Data](ext_articles/e09b0d4f.ext.json)
+
+---
+
+### MSME holds inaugural ceremony
+
+*2024-04-21 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/MSME-holds-inaugural-ceremony/110-281090) · `en`
+
+The Ceylon Federation of Micro, Small and Medium Enterprises (MSMEs)'s inaugural ceremony was held at the Bandaranaike Memorial International Conference Hall (BMICH) with the presence of distinguished guests from both local and international spheres. The vision of the MSME is the imperative need for Sri Lanka to transition towards a manufacturing economy, a transformation that cannot be realized within the current framework of laws and regulations primarily favoring imports and trade. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/c9eee41d.json)
 
 ---
 
@@ -2177,127 +2265,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/3da0eda0.json)
 
 [Extended Data](ext_articles/3da0eda0.ext.json)
-
----
-
-### Two new posts in Parliament for more than five lakh monthly salary
-
-*2024-04-21 08:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පහකට-අධික-අවම-මාසික-වැටුපකට-පාර්ලිමේන්තුවේ-නව-තනතුරු-දෙකක්/11-409171) · `si`
-
-Parliament of Sri Lanka seeks applications for two new posts in the Parliamentary Budget Office, offering a monthly salary of over Rs. 5,60,000. Applications will be reviewed by the Secretary General and the President will be appointed based on the Constitutional Council's recommendation.
-
-🟩
-
-Applications have been summoned to recruit suicide for two new posts in the Parliament of Sri Lanka.
-
-These applications have been called for two new posts in the Parliamentary Budget Office, which is the vacancy of the Parliament Budget Office, "the Parliamentary Budget Officer" and the "Deputy Parliamentary Budget Officer" to support Parliament under the Constitution..
-
-The Deputy Parliamentary Budget has a monthly opening salary of Rs. 5,60,000 (six millionThe announcement called for applications by the Secretary General.
-
-The announcement will be submitted to the Government Budgetary, Budget and Revenue Policy or Revenue Policy or Macroeconomic Analysis of the Government Budgetary Budgeties, Financial and Revenue Policy or Macroeconomic Analysis.
-
-The President will be appointed as the recommendation of the Constitutional Council.
-
-◼️
-
-[Data](articles/36df77ba.json)
-
-[Extended Data](ext_articles/36df77ba.ext.json)
-
----
-
-### Total of 40,000 teacher shortages in schools countrywide: Stalin
-
-*2024-04-21 08:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-40-000-teacher-shortages-in-schools-countrywide-Stalin/108-281076) · `en`
-
-Colombo, April 21 (Daily Mirror) - There is a total shortage of 40,000 teachers in schools in the country, General Secretary of the Ceylon Teachers' Union, Joseph Stalin said.
-
-Addressing the media, he said the shortage of teachers in schools is reported in the Western, Eastern, North-Central, Southern and Uva Provinces.
-
-Accordingly, nearly 7,000 shortages of teachers were reported in the Western Province; nearly 3,800 shortages were reported in the Eastern Province, 3,698 shortages were reported in the North-Central Province; 3,100 shortages were reported in the Southern Province; and nearly 6,200 shortages were reported in the Central Province.
-
-The government is purposely delaying teacher appointments to save on government expenses, Stalin said.
-
-"Without filling the existing vacancies, a critical situation will occur in schools in these areas.
-
-...
-
-[Data](articles/39faf083.json)
-
-[Extended Data](ext_articles/39faf083.ext.json)
-
----
-
-### President visits Ambewela tour
-
-*2024-04-21 08:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අඹේවෙල-නිරීක්ෂණ-චාරිකාවක/11-409170) · `si`
-
-President Ranil Wickremesinghe visited Ambewela Dairy Farm, highlighting its development and contribution to the economy. He discussed growth, tourism promotion, and left a note in the farm's Special Guineabook. The farm, privatized in 2001, has seen a 30% increase in milk production since December 2022, aiming for 20 million liters annually. It's recognized for high-quality milk and disease detection, benefiting local communities and tourism.
-
-🟩
-
-President Ranil Wickremesinghe visited the development of the Ambewela Dairy Farm Group in Ambewela Dairy Farm Group yesterday (20).
-
-President Ranil Wickremesinghe has joined in December 2022 at Ambewela Dairy Language, which was given a broad development process in the farm last year.
-
-President Mahinda Rajapaksa, who came to Ambewela Dairy Farm, was recognized by the staff of milk farm Group of Sarath Bandara.
-
-The proceedings of the new development activities on the farm also observed the premises which were detained in the dairy cattle.
-
-President Ranil Wickremesinghe, who had a brief discussion with the executive staff, ranked the gradual growth in the Ambewela farm and contributing to the national economy.
-
-It also pointed out the need to implement various tourism promotions on behalf of the farm.
-
-President Ranil Wickremesinghe also had a note in the book of Special Guineabook placed at the office premises.
-
-...
-
-[Data](articles/2fd48972.json)
-
-[Extended Data](ext_articles/2fd48972.ext.json)
-
----
-
-### Man drowns
-
-*2024-04-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195825) · `si`
-
-A 58-year-old man from Kotagoda drowned in the farmingup and Jayanthi Van after going fishing on Monday.
-
-🟩
-
-A man drowned in the farmingup and Jayanthi Van.
-
-The deceased has been identified as a 58 year old resident of the Kotagoda.
-
-Police investigations have revealed that he had left the house for fishing on Monday (19).
-
-◼️
-
-[Data](articles/9e68e239.json)
-
-[Extended Data](ext_articles/9e68e239.ext.json)
-
----
-
-### Sri Lanka choices recalled in Vietnam debate on monetary and fiscal options to target output
-
-*2024-04-21 07:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-choices-recalled-in-vietnam-debate-on-monetary-and-fiscal-options-to-target-output-159511/) · `en`
-
-ECONOMYNEXT – Vietnam can grow 6.0 percent in 2024, with ‘policy support’ but there is a debate whether it should be done through fiscal (widening deficits/worsening debt or state spending) or monetary means, a top International Monetary Fund official said.
-
-The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a challenging 2023,” Krishna Srinivasan, Director of the Asia and Pacific Department told reporters during the Spring Meetings in Washington.
-
-“Now, in the case of Vietnam, I would say that there’s an issue about policy mix, whether you could get more support from the fiscal and rely less on monetary,” Srinivasan said.
-
-“So there is an issue of policy mix which we’re talking, which we’ve been engaging the authorities with.
-
-“I would say that policy support should be more favorable and that should, and along with external demand, help raise growth to 6 percent.”
-
-...
-
-[Data](articles/03d8e7de.json)
-
-[Extended Data](ext_articles/03d8e7de.ext.json)
 
 ---

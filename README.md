@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 15:18:37**
+As of **2024-04-21 15:33:44**
 
 ## Newspaper Stats
 
-*Scraped **20,032** Articles*
+*Scraped **20,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,666
+adalk | 1,667
 tamilmirrorlk | 2,311
-adaderanalk | 2,400
+adaderanalk | 2,401
 virakesarilk | 2,987
 dailymirrorlk | 3,123
-adaderanasinhalalk | 3,256
+adaderanasinhalalk | 3,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,032 (100.0%) of 20,032 articles have been extended.
+20,032 (100.0%) of 20,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### විලී ගමගේ ඉල්ලා අස්වීමේ ලිපිය භාරදෙයි
+
+*2024-04-21 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195837) · `si`
+
+දකුණු පළාත් ආණ්ඩුකාර විලී ගමගේ මහතා සිය ඉල්ලා අස්වීමේ ලිපිය ජනාධිපති ලේකම්වරයා වෙත භාරදී තිබේ.
+
+එළැඹෙන මැයි මස 02 වනදා සිට ක්‍රියාත්මක වන පරිදි ඒ මහතා සිය ඉල්ලා අස්වීමේ ලිපිය මෙලෙස භාරදී ඇත.
+
+◼️
+
+[Data](articles/845b31d6.json)
+
+---
+
+### Governor of Southern Province resigns
+
+*2024-04-21 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98758/governor-of-southern-province-resigns-) · `en`
+
+The Governor of the Southern Province Willy Gamage has handed over his letter of resignation effective from 02 May, 2024, to the President’s Secretary.
+
+◼️
+
+[Data](articles/2c909e0c.json)
+
+---
+
+### ලෝකයෙන් ඇසෙන බය හිතෙන කතාවක්
+
+*2024-04-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195836) · `si`
+
+චීනයේ ප්‍රධාන නගරවලින් අඩක්ම ගිලාබසිමින් පවතින බව නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+
+සයන්ස් නම් සඟරාව පළකළ මේ වාර්තාවට අනුව මෙලෙස ගිලී යන නගර අතරට බීජිං, ටියන්ජින් වැනි ප්‍රධාන නගර ද අයත්ය.
+
+එමෙන්ම අනාවරණ වී ඇත්තේ, එරට සමස්ත ජනගහනයෙන් සියයට 29ක්ම එනම් මිලියන 270ක්ම වාසය කරන්නේ වාර්ෂිකව මිලිමීටර් 3 කට වඩා ගිලා බසමින් පවතින නාගරික කලාපවල බවය.
+
+තවද බීජිං අගනුවර උමං සහ මහා මාර්ග ආසන්න කලාප වාර්ෂිකව මිලි මීටර 45ක් ගිලා බසින බව ද එහි දැක්වුණි.
+
+උස් ගොඩනැගිලිවල අධික බර සහ මාර්ග පද්ධති පුළුල්වීම වැනි කෘත්‍රීම හේතු සහ භූගත ජලය පරිහරණය වේගවත්වීම වැනි ස්වභාවික කරුණු ද ඊට බලපා ඇතැයි සඳහන්ය.
+
+නගර ගිලාබැසීමේ දත්ත ලොව තවත් රටවලින් වාර්තා වන අතර, අමෙරිකාවේ නිව්යෝර්ක් අගනුවර පවා ගිලා යමින් පවතින බව වාර්තා වෙයි.
+
+එමෙන්ම නෙදර්ලන්තයේ ඉඩම්වලින් සියයට 25ක් මුහුදු මට්ටමට වඩා පහත බැස ඇති අතර, ලොව වේගයෙන්ම ගිලා බසින නගරය ලෙස සැලකෙන මෙක්සිකෝ සිටි අගනුවර වාර්ෂිකව අඟල් 20කින් පමණ ගිලා බසිමින් පවතින බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/a210a2fb.json)
+
+---
 
 ### Cardinal reveals about Gota's call
 
@@ -849,6 +899,22 @@ The accident had occurred when the three-wheeler was traveling from Elpitiya to 
 [Data](articles/26a8b0c2.json)
 
 [Extended Data](ext_articles/26a8b0c2.ext.json)
+
+---
+
+### රාජ්‍ය සේවකයන්ටත් සමෘද්ධියෙන් ණය
+
+*2024-04-21 09:23:35* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්ටත්-සමෘද්ධියෙන්-ණය/11-409177) · `si`
+
+මෙතෙක් අඩු ආදායම්ලාභීන්ට පමණක් ඉතුරුම් තැන්පතු පවත්වාගෙන යාමේ සහ   ණය  පහසුකම් සැපයීමේ පහසුකම්  සැලසූ සමෘද්ධි ප්‍රජා මූලික බැංකු මගින් ප්‍රථම වරට  රාජ්‍ය සේවකයන් සඳහා ණය ලබා දීමට සමෘද්ධි ලක්සර ණය යෝජනා ක්‍රමය නමින් ණය යෝජනා ක්‍රමයක් ක්‍රියාත්මක කර ඇතැයි   සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+
+විශ්‍රාම වැටුප් හිමිකම සහිත රාජ්‍ය සේවයේ  ස්ථිර පත්වීමක් ලබා දැනට සක්‍රීය සේවයේ යෙදී සිටින වයස අවුරුදු 60 ට අඩු හා විශ්‍රාම යාමට තව අවුරුදු හතරකට වැඩි කාලයක් සහිත මෙම යෝජනා ක්‍රමය යටතේ තම ප්‍රදේශයේ සමෘද්ධි ප්‍රජා මූලික බැංකු මගින් මෙම ණය යෝජනා ක්‍රමය යටතේ
+
+දේපල මිලදී ගැනීම ඇතුළු කටයුතු සඳහා රුපියල් ලක්ෂ දෙකේ සිට උපරිම ලක්ෂ 10 දක්වා ණය ලබාගත හැකිවන බව සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/eaffba5f.json)
 
 ---
 
@@ -2139,81 +2205,5 @@ Imran Khan also demanded that he examines his wife's condition at the Internatio
 [Data](articles/9afe3802.json)
 
 [Extended Data](ext_articles/9afe3802.ext.json)
-
----
-
-### Operations operating in the Sri Pada safety
-
-*2024-04-20 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195817) · `si`
-
-A young man escaped to safety at Sri Pada, prompting the Laxapana Army Camp to launch operations on Ratnapura Road today.
-
-🟩
-
-A young man at Sri Pada pilgrimage has escaped to the safe fence on the Ratnapura Road.
-
-Troops of the Laxapana Army Camp have been launched today (20) this morning.
-
-◼️
-
-[Data](articles/80a3c5c1.json)
-
-[Extended Data](ext_articles/80a3c5c1.ext.json)
-
----
-
-### Discussing May Day rally...
-
-*2024-04-20 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Discussing-May-Day-rally/110-281074) · `en`
-
-Senior Presidential Advisor and UNP Deputy Leader Ruwan Wijewardene participated in a New year celebration in Biyagama today while he also met party activists to dicuss on future programmes including the May Day rally. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/19994a69.json)
-
-[Extended Data](ext_articles/19994a69.ext.json)
-
----
-
-### Man jumps off Sri Pada Uda Maluwa, goes missing
-
-*2024-04-20 18:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-jumps-off-Sri-Pada-Uda-Maluwa-goes-missing/108-281073) · `en`
-
-Hatton, April 20 (Daily Mirror)- A 33-year-old pilgrim who climbed to Sri Pada went missing after he jumped off the protective fence at the Ratnapura-Sri Pada route at the Uda Maluwa.
-
-The victim was identified as a resident of Sooriyawewa, Hambantota.
-
-He had visited the Sri Pada with two other women yesterday (19) morning and as recorded on CCTV cameras at the Sri Pada Uda Maluwa, the man had suddenly ran down and jumpped off the protective fence while he was climbing down along the Ratnapura-Sri Pada route.
-
-Army personnel from the Laxapana army camp launched an operation to trace the missing youth.
-
-◼️
-
-[Data](articles/8c5851d7.json)
-
-[Extended Data](ext_articles/8c5851d7.ext.json)
-
----
-
-### Sarvodaya designs goes out
-
-*2024-04-20 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195816) · `si`
-
-Sarvodaya founder T. Ariyaratne's funeral held at Colombo's Independence Square. His body at Sarvodaya HQ. Attended by PM Dinesh Gunawardena, ministers, officials, and armed forces.
-
-🟩
-
-The Creator of Sarvodaya Business. T. The funeral of Ariyaratne's body was held today (20) at the Independence Square of Colombo.
-
-His body was deposited at the main headquarters of the Sarvodaya headquarters and after the religious observances of the country.
-
-Prime Minister Dinesh Gunawardena, including ministers, state officials, government officials, including the three armed forces.
-
-◼️
-
-[Data](articles/9b3364dc.json)
-
-[Extended Data](ext_articles/9b3364dc.ext.json)
 
 ---

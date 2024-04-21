@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 12:50:23**
+As of **2024-04-21 13:03:33**
 
 ## Newspaper Stats
 
-*Scraped **20,006** Articles*
+*Scraped **20,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,82 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,660
+adalk | 1,663
 tamilmirrorlk | 2,310
 adaderanalk | 2,397
 virakesarilk | 2,985
-dailymirrorlk | 3,116
+dailymirrorlk | 3,118
 adaderanasinhalalk | 3,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,003 (100.0%) of 20,006 articles have been extended.
+20,006 (100.0%) of 20,011 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරයට විජයදාස
+### Wijayadasa appointed Acting Chairman of Sri Lanka Freedom Party
 
 *2024-04-21 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195831) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරය සඳහා අමාත්‍ය විජයදාස රාජපක්ෂ මහතාව පත්කර ඇති බව එම පක්ෂයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+Wijayadasa Rajapaksa appointed Acting Chairman of Sri Lanka Freedom Party, replacing Maithripala Sirisena.
 
-වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය අද පෙරවරුවේ ඇතුල්කෝට්ටේ ප්‍රසිද්ධ හෝටලයකදී කැඳවා තිබූ විධායක සභා රැස්වීමකදී මෙම තීරණය ගෙන ඇතිබව වාර්තාවිය.
+🟩
+
+According to internal sources of the party, Minister Wijayadasa Rajapaksa has been appointed as the acting of the SLFP act of SLFP.
+
+The decision was taken at the Executive Committee held at an executive meeting held at an executive meeting at a famous hotel at an executive hotel, a censored chairman Maithripala Sirisena this morning.
 
 ◼️
 
 [Data](articles/0c02ef12.json)
 
+[Extended Data](ext_articles/0c02ef12.ext.json)
+
 ---
 
-### நீரில் மூழ்கி மாணவன் பலி
+### Drowning student killed
 
 *2024-04-21 12:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-336127) · `ta`
 
-புத்தளம் - ஆராச்சிக்கட்டுவ கட்டுபத மஹாவெவயில் குடும்பத்துடன் நீராடச் சென்ற பாடசாலை மாணவன் ஒருவன்  நீரில் மூழ்கி சனிக்கிழமை (20) உயிரிழந்துள்ளதாக ஆராச்சிக்கட்டுவ பொலிஸார் தெரிவித்துள்ளனர்.
+An 8-year-old girl, Dineet Sathsara, drowned in Puttalam with her family. The incident occurred during a swimming trip. Police are investigating further.
 
-ஆராச்சிக்கட்டுவ, நல்லதரன்கட்டுவ, இலக்கட்டுவ பகுதியைச் சேர்ந்த 08 வயதுடைய தினேத் சத்சர என்ற பாடசாலை மாணவனே இவ்வாறு
+🟩
 
-தாயின் சகோதரியும், அவரது இரண்டு பிள்ளைகள் மற்றும் மற்றுமொரு அயலவர் ஆகியோருடன் நீராடுவதற்காக சென்ற போதே குறித்த மாணவன் இந்த அனர்த்தத்திற்கு முகம் கொடுத்துள்ளதாக பொலிஸ் விசாரணைகளின் போது தெரியவந்துள்ளது.
+A schoolgirl who drowned with his family with his family in Puttalam - Arachchikattuwa Kattupatha Mahaweva has died on Saturday (20), Arachchikattuwa police said.
 
-மேலும் , இந்த சம்பவம் தொடர்பில் ஆராச்சிக்கட்டுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+This is a schoolgirl named Dineet Sathsara, a 8 -year -old from Arachikattuwa, Nallaratharankattuwa and Gulkattuwa area
+
+Police investigations revealed that the student was facing the disaster when the mother's sister, her two children and her other neighbors went to swim.
+
+In addition, the police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/1ba3dcef.json)
+
+[Extended Data](ext_articles/1ba3dcef.ext.json)
+
+---
+
+### People have already selected Ranil for Presidency: Prasanna
+
+*2024-04-21 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/People-have-already-selected-Ranil-for-Presidency-Prasanna/108-281081) · `en`
+
+Colombo, April 21 (Daily Mirror)- Claiming that people will not vote as a gratitude for goods distributed by politicians, Minister Prasanna Ranatunge said people have already selected Ranil Wickremesinghe for Presidency as he can rescue the country from the economic crisis.
+
+The Minister said this to the media after an event to distribute rice to low income families in Kelaniya.
+
+Responding to a question, he said they were not distributing rice targeting elections and added that people who hold different political ideologies benefit from this programme.
+
+"We are not doing this targeting elections. People who hold different political ideologies are here. People will not vote even though goods are distributed. People have already selected Ranil Wickremesinghe. That is because he can rescue the country from the economic crisis," he said.
+
+◼️
+
+[Data](articles/565b153e.json)
 
 ---
 
@@ -110,6 +140,24 @@ The lorry driver has been arrested in connection with the accident and Elpitiya 
 
 ---
 
+### පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය එල්ල වී අදට පස්වසරක්
+
+*2024-04-21 12:13:27* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ඉරුදින-ත්‍රස්ත-ප්‍රහාරය-එල්ල-වී-අදට-පස්වසරක්/11-409180) · `si`
+
+2019 වසරේ අප්‍රේල් මස 21වන දින පාස්කු ඉරුදින මිලේච්ඡ  ත්‍රස්ත ප්‍රහාරය එල්ල වී අදට පස්වසරක් සපිරෙයි.
+
+අන්තවාදී  කල්ලියක් විසින් කොළඹ, මීගමුව සහ මඩකළපුවේ කතෝලික දේවස්ථාන සහ කොළඹ තරු පන්තියේ හෝටල් කීපයක යන ස්ථාන 08ක දී මරාගෙන මැරෙන බෝම්බ ප්‍රහාර සිදුකළ අතර එහිදී පුද්ගලයින් 273 දෙනෙකු ජීවිතක්ෂයට පත් වු අතර තවත් 500කට අධික පිරිසක් බරපතළ තුවාල ලැබීය.
+
+මෙම මිලේච්ඡ ප්‍රහාරයට වසර පහක් ගත වීම නිමිත්තෙන් කොච්චිකඩේ ශාන්ත අන්තෝනි දේවස්ථානයේ  හා කටුවාපිටිය සාන්ත සෙබස්තියන් දේවස්ථානයේ සිහිකිරීම් වැඩසටහන් මාලාව සංවිධානය කර පැවති අතර විශේෂ දිව්‍ය පුජාවක් ද පැවැත්වුණි.
+
+ඒ අනුව, කොච්චිකඩේ දේවස්ථානයේ සිට කටුවාපිටිය දේවස්ථානය දක්වා යැදුම් පාගමන ඊයේ 20 මධ්‍යම රාත්‍රිය පුරා පැවැත්වුණි.
+
+◼️
+
+[Data](articles/805798e2.json)
+
+---
+
 ### Minister Wijeyadasa Rajapakshe appointed Acting Chairman of SLFP
 
 *2024-04-21 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98754/minister-wijeyadasa-rajapakshe-appointed-acting-chairman-of-slfp) · `en`
@@ -127,6 +175,8 @@ Earlier in March, former President Maithripala Sirisena had stirred controversy 
 ...
 
 [Data](articles/04591912.json)
+
+[Extended Data](ext_articles/04591912.ext.json)
 
 ---
 
@@ -179,6 +229,18 @@ The suspect is a 48-year-old resident of Uya Wadugoda area.
 [Data](articles/3452bd1b.json)
 
 [Extended Data](ext_articles/3452bd1b.ext.json)
+
+---
+
+### Marking 5th anniversary of Easter Sunday attacks
+
+*2024-04-21 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Marking-5th-anniversary-of-Easter-Sunday-attacks/110-281079) · `en`
+
+Prayers were offered at the St. Anthony’s Shrine, Kochchikade, led by the Archbishop of Colombo, His Eminence Cardinal Malcolm Ranjith, to mark the fifth anniversary of the Easter Sunday bomb attacks and in commemoration of those whose lives were lost in the terrorist attacks. Meanwhile, another mass was held at the Tewatta Church in Ragama. Pix Nisal Baduge
+
+◼️
+
+[Data](articles/808ec09c.json)
 
 ---
 
@@ -478,6 +540,22 @@ This committee will make a list of the essential and indispensable vehicles for 
 
 ---
 
+### කෝටි 8ක කොකේන් ගිල පැමිණි ගිනී කාන්තාවන් දෙදෙනෙක් අල්ලයි
+
+*2024-04-21 09:08:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-8ක-කොකේන්-ගිල-පැමිණි-ගිනී-කාන්තාවන්-දෙදෙනෙක්-අල්ලයි/11-409175) · `si`
+
+රුපියල් කෝටි 08 ක් පමණ වටිනා කොකේන් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් දෙකක පමණ ප්‍රමාණයක් ගුලි වශයෙන් සකස් කර ගිල දමා පැමිණි ගිනි ජාතික කාන්තාවන් දෙදෙනෙකු 04/20 දින උදෑසන කටුනායක ගුවන් තොටුපොළේ දී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+40 හැවිරිදි සහ 42 හැවිරිදි මෙම ගිනි ජාතික කාන්තාවන් දෙදෙනා මෙම කොකේන් මත්ද්‍රව්‍ය තොගය උපත් පාළන කොපු තුළ බහා , තවදුරටත් කාන්දු වීමක් සිදු වුවහොත් එය වැලැක්වීම සදහා සෙලෝ ටේප් යොදා , ග්‍රෑම් 15 ක් පමණ බරැති මෙම කොකේන් මත්ද්‍රව්‍ය ගුලි සකස් කර , එක් අයෙකු මෙම ගුළි 75 බැගින් ගිල දමා පැමිණ ඇති බව , කටුනායක ගුවන් තොටුපොළ රේගු පරිලෝකන යන්ත්‍රය (Scan) වෙත වාර්තා වී තිබේ .
+
+මෙම කාන්තාවන් දෙදෙනා ශ්‍රී ලංකාවට පැමිණීම සදහා මුළින්ම සියරාලියෝන් වලින් ගමන් ආරම්භ කර තුර්කියේ ඉස්තාන්බුල් නුවර වෙත පැමිණ තිබේ . ඉන්පසුව එතැන් සිට 04/20 දින උදෑසන 06.00 ට තුර්කි ගුවන් සේවයේ ටී.කේ.- 730 දරන ගුවන් යානයෙන් ඔවුන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබේ .
+
+...
+
+[Data](articles/3b96f9a2.json)
+
+---
+
 ### The temples throughout the country are silent for 2 minutes
 
 *2024-04-21 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195827) · `si`
@@ -497,6 +575,26 @@ The special commemoration ceremony will be held for two years to the Passover at
 [Data](articles/4fd0d1ff.json)
 
 [Extended Data](ext_articles/4fd0d1ff.ext.json)
+
+---
+
+### වලිප්පුව හැදුනු සංවර්ධන නිලධාරිනිය ළිඳට වැටී මරුට
+
+*2024-04-21 08:30:57* · [`adalk`](https://www.ada.lk/breaking_news/වලිප්පුව-හැදුනු-සංවර්ධන-නිලධාරිනිය-ළිඳට-වැටී-මරුට/11-409174) · `si`
+
+යාපනය මාදගල් සකායපුරම් ප්‍රදේශයේදී සංවර්ධන නිලධාරිණියක් ළිඳට වැටී ජලයේ ගිලීමෙන් ඊයේ (18) දින මිය ගොස් ඇතැයි තෙලිප්පලෙයි පොලීසිය පවසයි.
+
+මෙම කාන්තාව ගෙවත්තේ පිහිටි ළිඳට ගොස් ජලය ගැනීමට උත්සහ ගත් අවස්ථාවේදී වලිප්පු රෝගය වැළඳීම හේතුවෙන් ඇය ළිඳ තුලට වැටී දියේ ගිලී ඇතැයි සිද්දිය වූ ස්ථානයට ගිය පොලීසිය සැකපල කොට සටීය.
+
+මිය ගිය කාන්තාව දීර්ඝ කාලයක සිට වලිප්පු රෝගයෙන් පෙලී සිට ඇති බවටද පවුලේ ඥාතීන් විසින් පොලීසියට පවසා ඇත.
+
+මිය ගිය කාන්තාව 37 හැවිරිදි ප්‍රදීපන් නිත්‍යා නැමති දරුවන් දෙදෙනෙකුගේ මවක්ද වන අතර ඇය වලිකාමම් නිරිතදිග ප්‍රාදේශීය සභාවේ සංවර්ධන නිලධාරිණියක් වශයෙන් සේවය කොට ඇත.
+
+මිය ගිය කාන්තාවගේ මළසිරුර යාපනය ශික්ෂණ රෝහලේ අවසන් මරණ පරික්ෂණය සඳහා යොමු කොට ඇතැයි පරික්ෂණ සිදුකරන තෙලිප්පලෙයි පොලීසිය වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/37478b78.json)
 
 ---
 
@@ -2141,129 +2239,5 @@ He refuted claims by the SJB that the government is trying to prevent it from ha
 [Data](articles/ffa84805.json)
 
 [Extended Data](ext_articles/ffa84805.ext.json)
-
----
-
-### Relief for military members who have not long been served
-
-*2024-04-20 14:37:31* · [`adalk`](https://www.ada.lk/breaking_news/බොහෝ-කලක්-සේවයට-නොගිය-හමුදා-සාමාජිකයන්ට-සහනයක්/11-409168) · `si`
-
-Sri Lanka Army announces relief for soldiers not on long-term leave from May 20. They must submit their military ID, National ID, NPF/Driving License, and a photocopy of their bank book of Wage and Allowance to their Regiment Center.
-
-🟩
-
-The army soldiers who have not committed the long-term leave of Sri Lanka Army have been announced today from 20 to May 20.
-
-Accordingly, the military identity card, a copy of the National Identity Card, NPF or Driving License, and a photocopy of the bank book of the Wage and Allowance, the opportunity will be submitted to the Regiment Center they belong to them.
-
-◼️
-
-[Data](articles/8ccad865.json)
-
-[Extended Data](ext_articles/8ccad865.ext.json)
-
----
-
-### Get out of care
-
-*2024-04-20 14:04:53* · [`adalk`](https://www.ada.lk/breaking_news/එළියට-බහින්නේ-බලාගෙනයි/11-409167) · `si`
-
-The Met Department warns of high temperatures across all districts except Nuwara Eliya, Kandy, Matale, and Badulla. Moneragala district is particularly hot.
-
-🟩
-
-The Met Department forecasts a heated temperature of the human body in all districts, except four districts in Nuwara Eliya, Kandy, Matale and Badulla districts.
-
-Among them in the North, North Central, Sabaragamuwa, Eastern, Southern and North Western provinces.. The weather foretold the heat of the Moneragala district is also a focus on today.
-
-Therefore, the Department of Meteorology also inform the public to follow the actions of warm weather.
-
-◼️
-
-[Data](articles/c0bffb10.json)
-
-[Extended Data](ext_articles/c0bffb10.ext.json)
-
----
-
-### North Korea releases song praising leader Kim as ‘friendly father’
-
-*2024-04-20 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98741/north-korea-releases-song-praising-leader-kim-as-friendly-father-) · `en`
-
-North Korea has released a new song praising leader Kim Jong Un for being a “friendly father” and a “great leader”, in a move that appears to be part of a propaganda drive to enhance his standing in the reclusive state.
-
-The music video for the song was aired on the state-controlled Korean Central Television on Wednesday.
-
-It features North Koreans of different backgrounds ranging from children to troops and medical staff exuberantly belting out lines such as: “Let’s sing, Kim Jong Un the great leader” and “Let’s brag about Kim Jong Un, a friendly father”.
-
-A live performance of the song accompanied by an orchestra and watched by Kim was also broadcast on state television as part of a ceremony to mark the completion of building 10,000 new homes.
-
-The Kim family dynasty that has ruled North Korea since its founding after World War Two have sought to strengthen their grip on power by building cults of personality around them.
-
-...
-
-[Data](articles/bd65af0c.json)
-
-[Extended Data](ext_articles/bd65af0c.ext.json)
-
----
-
-### Final tribute to ATA Ariyarathna: Special Transport Plan in Colombo Today
-
-*2024-04-20 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181517) · `ta`
-
-Special traffic project in Colombo today for tribute to Dr. A.Ariyarathna, founder of Sarvodaya. Funeral at Moratuwa Sarvodaya headquarters, then Independence Square.
-
-🟩
-
-Transport police said that a special traffic project will be implemented at Highlight Road, Independence Square and Galle Road in Colombo this afternoon.
-
-The special traffic scheme has been organized as the founder of the Sarvodaya Social Development Social Welfare Program will be paid tribute to the late Dr. A.Ariyarathna's boutique in Independence Square today (20).
-
-SriLangabhimanya AT Ariyaratne passed away at the age of 93 at the age of 93 at a private hospital in Colombo.
-
-Dr. Aryaratne's funeral will be held at the Moratuwa Sarvodaya headquarters at the Sarvodaya headquarters today and then to the Independence Square in Colombo.. The final rituals will be held at 6 pm following the final rituals.
-
-◼️
-
-[Data](articles/ea46dad4.json)
-
-[Extended Data](ext_articles/ea46dad4.ext.json)
-
----
-
-### Nalini Tirui in Sri Lanka, which is the case in India
-
-*2024-04-20 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195808) · `si`
-
-Nalini Tirui, a Sri Lankan refugee born in India, became the first to vote in an Indian election, challenging eligibility. Her parents were Tamil Nadu refugees. The Indian government granted her voting rights, but she faced legal challenges.
-
-🟩
-
-A Sri Lankan woman who lived in a refugee camp in India has voted for the Indian General Election.
-
-According to Indian media reports, 38-year-old Kanali has become the first to vote for a Indian election.
-
-In April, 1986, Kanali was born in a Sri Lankan refugee camp.
-
-Her parents are Indian origin from Tamil Nadu as refugees from Sri Lankan Sri Lankan refugees.
-
-Nalini's family had previously migrated to Sri Lanka before Sri Lanka.
-
-Accordingly, from 1950 and 1987 from the refugee camp between 1987
-
-The Indian government has decided to give the application to the application of the election.
-
-However, in September 2022, Nalini had asked for the Madras High Court in September 2022 to meet the necessary qualifications.
-
-The Delhi government is said to be able to use the votes as she was born in India.
-
-Accordingly, Nalini has registered as a voter in the Tiruci Lok Sabha electorate in the Thiruki Lok Sabha electorate and she had won the Madras High Court.
-
-...
-
-[Data](articles/5eddb47c.json)
-
-[Extended Data](ext_articles/5eddb47c.ext.json)
 
 ---

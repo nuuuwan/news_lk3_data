@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 04:33:42**
+As of **2024-04-22 04:50:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,112 (100.0%) of 20,114 articles have been extended.
+20,114 (100.0%) of 20,114 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Relations reached a point of no return on April 1, 2024 when an Israeli air stri
 
 [Data](articles/12320624.json)
 
+[Extended Data](ext_articles/12320624.ext.json)
+
 ---
 
 ### Iran and Israel: From Allies to brink of major conflict
@@ -61,6 +63,8 @@ Iran and Israel were once close allies during the reign of the Shah, as they sha
 ...
 
 [Data](articles/d84b499b.json)
+
+[Extended Data](ext_articles/d84b499b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 12:33:54**
+As of **2024-04-21 12:50:23**
 
 ## Newspaper Stats
 
-*Scraped **20,003** Articles*
+*Scraped **20,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,117 @@ islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,660
-tamilmirrorlk | 2,309
-adaderanalk | 2,396
+tamilmirrorlk | 2,310
+adaderanalk | 2,397
 virakesarilk | 2,985
 dailymirrorlk | 3,116
-adaderanasinhalalk | 3,251
+adaderanasinhalalk | 3,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,001 (100.0%) of 20,003 articles have been extended.
+20,003 (100.0%) of 20,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### 05 இணையத்தளங்கள் நீக்கம்
+### ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරයට විජයදාස
+
+*2024-04-21 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195831) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරය සඳහා අමාත්‍ය විජයදාස රාජපක්ෂ මහතාව පත්කර ඇති බව එම පක්ෂයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+
+වාරණයට ලක්වූ සභාපති මෛත්‍රීපාල සිරිසේන මහතාගේ පාර්ශ්වය අද පෙරවරුවේ ඇතුල්කෝට්ටේ ප්‍රසිද්ධ හෝටලයකදී කැඳවා තිබූ විධායක සභා රැස්වීමකදී මෙම තීරණය ගෙන ඇතිබව වාර්තාවිය.
+
+◼️
+
+[Data](articles/0c02ef12.json)
+
+---
+
+### நீரில் மூழ்கி மாணவன் பலி
+
+*2024-04-21 12:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-336127) · `ta`
+
+புத்தளம் - ஆராச்சிக்கட்டுவ கட்டுபத மஹாவெவயில் குடும்பத்துடன் நீராடச் சென்ற பாடசாலை மாணவன் ஒருவன்  நீரில் மூழ்கி சனிக்கிழமை (20) உயிரிழந்துள்ளதாக ஆராச்சிக்கட்டுவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஆராச்சிக்கட்டுவ, நல்லதரன்கட்டுவ, இலக்கட்டுவ பகுதியைச் சேர்ந்த 08 வயதுடைய தினேத் சத்சர என்ற பாடசாலை மாணவனே இவ்வாறு
+
+தாயின் சகோதரியும், அவரது இரண்டு பிள்ளைகள் மற்றும் மற்றுமொரு அயலவர் ஆகியோருடன் நீராடுவதற்காக சென்ற போதே குறித்த மாணவன் இந்த அனர்த்தத்திற்கு முகம் கொடுத்துள்ளதாக பொலிஸ் விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+மேலும் , இந்த சம்பவம் தொடர்பில் ஆராச்சிக்கட்டுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1ba3dcef.json)
+
+---
+
+### 05 Removal of websites
 
 *2024-04-21 12:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/05-இணையத்தளங்கள்-நீக்கம்/175-336126) · `ta`
 
-தபால் திணைக்களத்தின் இணையத்தளத்தைப் போன்று வடிவமைக்கப்பட்ட 05 போலி இணையத்தளங்கள் இணையத்திலிருந்து நீக்கப்பட்டுள்ளதாக இலங்கை கணினி அவசர பதில் மன்றம் தெரிவித்துள்ளது.
+The Sri Lanka Computer Emergency Response Forum removed 05 fake websites impersonating the Postal Department, reporting 35 money laundering incidents.
 
-மேலும், இந்த இணையத்தளங்களில் சுமார் முப்பத்தைந்து பண மோசடி சம்பவங்கள் பதிவாகியுள்ளதாக அதன் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர்.சாருக தமுனோபொல, தெரிவித்தார்.
+🟩
+
+The Sri Lanka Computer Emergency Response Forum said that 05 fake websites designed as the Postal Department's website have been removed from the Internet.
+
+In addition, the websites have reported about thirty -five money laundering incidents, its senior information security engineer.
 
 ◼️
 
 [Data](articles/6eaea951.json)
 
+[Extended Data](ext_articles/6eaea951.ext.json)
+
 ---
 
-### ඇල්පිටියේ අනතුරකින් එකම පවුලේ තිදෙනෙකු මරුට
+### Three members die in an accident in Elpitiya
 
 *2024-04-21 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195830) · `si`
 
-ඇල්පිටිය - අවිත්තාව ප්‍රධාන මාර්ගයේ සිදුවූ රිය අනතුරකින් කුඩා දරුවන් දෙදෙනෙකු ඇතුළු එකම පවුලේ පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+In Elpitiya, a three-wheeler crashed into a lorry, killing three, including two children. The lorry driver was arrested, and the victims' family members were hospitalized.
 
-ත්‍රිරෝද රථයක් ලොරි රථයක මුහුණට මුහුණ ගැටීමෙන් එම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-අනතුරින් මියගොස් ඇත්තේ 68 හැවිරිදි ත්‍රිරෝද රථ රියදුරු සහ ඔහුගේ 10 හැවිරිදි මුණුපුරා සහ සත් හැවිරිදි මිණිපිරිය බව සඳහන්ය.
+Elpitiya - Three children, including two children, were killed in an accident on the Vardathewa main road.
 
-ත්‍රිරෝද රථයේ ගමන් ගත් මියගිය පුද්ගලයාගේ බිරිඳ සහ ඔහුගේ දියණිය සහ 18 හැවිරිදි මිණිපිරිය තුවාල ලබා රෝහල් ගත කර ඇති බවද පොලීසිය සඳහන් කළේය.
+The accident had occurred when a three-wheeler collided with a lorry.
 
-අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර ඇල්පිටිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+The victim was the 68-year-old three-wheeler driver and his 10-year-old grants and a seven-year-old granddaughter.
+
+The wife and his daughter of the deceased have been admitted to hospital with the injuries of the deceased.
+
+The lorry driver has been arrested in connection with the accident and Elpitiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/fb359a5c.json)
+
+[Extended Data](ext_articles/fb359a5c.ext.json)
+
+---
+
+### Minister Wijeyadasa Rajapakshe appointed Acting Chairman of SLFP
+
+*2024-04-21 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98754/minister-wijeyadasa-rajapakshe-appointed-acting-chairman-of-slfp) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe has been appointed as the Acting Chairman of Sri Lanka Freedom Party (SLFP), sources told Ada Derana.
+
+This appointment has been made by the SLFP faction led by former President Maithripala Sirisena, who has been prevented by a court order from functioning as party chairman, during its executive committee meeting held in Athul Kotte today (21).
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
+
+Earlier in March, former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
+
+...
+
+[Data](articles/04591912.json)
 
 ---
 
@@ -2201,77 +2265,5 @@ Accordingly, Nalini has registered as a voter in the Tiruci Lok Sabha electorate
 [Data](articles/5eddb47c.json)
 
 [Extended Data](ext_articles/5eddb47c.ext.json)
-
----
-
-### British woman, Sri Lankan arrested with drugs in Nuwara Eliya
-
-*2024-04-20 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-woman-Sri-Lankan-arrested-with-drugs-in-Nuwara-Eliya/108-281066) · `en`
-
-Nuwara Eliya, April 20 (Daily Mirror)- Two individuals including a British woman were arrested while in possession of Kush and hashish drugs at Toppass, Nuwara Eliya, Police said.
-
-The suspects were arrested by the Nuwara Eliya Crime Investigation Bureau after carrying out a search of the van they were travelling in.
-
-The officials recovered 18 grams and 920 milligrams of Kush in possession of the British woman while 2 grams and 600 milligrams of Hashish in the possession of the Sri Lankan driver of the van.
-
-The 28-year-old driver is a resident of Nuwara Eliya and the woman is a 35 year-old from England.
-
-◼️
-
-[Data](articles/11e89400.json)
-
-[Extended Data](ext_articles/11e89400.ext.json)
-
----
-
-### Woman riding motorcycle dies after handbag gets stuck on lorry
-
-*2024-04-20 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98740/woman-riding-motorcycle-dies-after-handbag-gets-stuck-on-lorry) · `en`
-
-A woman who was traveling on a motorcycle has been killed in an accident that occurred after her handbag was caught on the body of a lorry passing by.
-
-The accident has taken place in the Wathupitiwala area of Nittambuwa last morning (19).
-
-Police said that the woman had fallen down from the motorcycle when her handbag got stuck in the body of the lorry and was killed after being run over by the same vehicle.
-
-The driver of the lorry has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/569fb29a.json)
-
-[Extended Data](ext_articles/569fb29a.ext.json)
-
----
-
-### The story so far nominated about the Passover attack
-
-*2024-04-20 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195807) · `si`
-
-Cyril Gamini revealed to the media that he had not been informed about the Easter attack by the Criminal Investigation Department. He cited an interview with a former police officer on YouTube. Gamini questioned the IP address's connection to the Saharan and the misleading of the Vavuniya incident, which led to the deaths of two police officers and their associates on November 30, 2018.
-
-🟩
-
-Cyril Gamini, who had not been revealed to the Criminal Investigation Department of the Easter attack, revealed to the media today (20).
-
-The Father had quoted an interview that a former police officer had given to a Yutubube channel.
-
-Cyril Gamini summoned the 'Gnanarti Pradeepati' to obtain statements regarding the Easter attack on the Sunday attack.
-
-Nearly 4 hours, Cyril Gamini went out and left.
-
-Fr.
-
-"First. Two police officers killed and associated with two police officers in Vavuniya on November 30, 2018. "
-
-"Second.. The question used by the IP address that has been used to have a close relationship with Saharan. "
-
-"Third One.. The event of misleading the Vavuniya incident. "
-
-◼️
-
-[Data](articles/62e13c34.json)
-
-[Extended Data](ext_articles/62e13c34.ext.json)
 
 ---

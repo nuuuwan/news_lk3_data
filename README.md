@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 18:09:37**
+As of **2024-04-21 18:21:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,059 (100.0%) of 20,060 articles have been extended.
+20,060 (100.0%) of 20,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### කිසිවෙකු පසුකර හෝ අතහැර යාමට සූදානම් නෑ - ජනපති
+### No one is passing out or left behind - President
 
 *2024-04-21 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195841) · `si`
 
-රට ගොඩනැගීමේදී කිසිවෙකු පසුකර හෝ අතහැර යාමට සූදානම් නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes no one is left behind, highlighting economic stability and relief efforts for low-income families during the inauguration of a national program. He acknowledges challenges, including fuel scarcity and economic instability, but praises the government's efforts to improve the economy and the lives of the people.
 
-ජනාධිපතිවරයා මෙම අදහස් පළකළේ ඌවපරණගම, අඹගස්දෝව මහජන ක්‍රීඩාංගනයේ අද (21) පැවති අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ 2024 ජාතික වැඩසටහනේ සමාරම්භක උත්සවයට එක් වෙමිනි.
+🟩
 
-"අද මේ රටේ ජනතාව සතුටින් සිංහල හා දෙමළ අලුත් අවුරද්ද සමරනවා. පසුගිය වසර දෙක තුළ මේ පිළිබඳව සිතන්නටවත් නොහැකි තත්ත්වයකයි රට තිබුණේ. පසුගිය කාලයේ අපට අවශ්‍ය ඉන්ධන, ගෑස්, පොහොර සපයා ගත නොහැකිව ඉතා අසීරු තත්ත්වයකට මුහුණ දීමට සිදු වුණා. 2022 සිංහල අලුත් අවුරුද්ද මම ගත කළේ කඹුරුගමුව ප්‍රදේශයේදී බව සිහිපත් කරන්න කැමතියි. එහි ඉන්ධන පිරවුම් සැල් ඉදිරිපිට රැය පහන්වන තුරු ජනතාව රැදී සිටින අයුරු මම දුටුවා. ඔවුන් පාලකයන්ට දැඩිව දෝෂාරෝපණය කරමින් සිටියා. එවන් තත්ත්වයක තිබු රට අද ලබා ඇති ප්‍රගතිය බොහෝ දෙනාට සිතා ගැනීමට පවා අසීරු වී තිබෙනවා. අද රට තුළ ඇති වි තිබෙන මෙම ආර්ථික ස්ථාවරත්වය වෙනුවෙන් බොහෝ අසීරු තීරණ ගැනීමට අපට සිදු වුණා. එම තීරණ ජනප්‍රිය තීරණ නොවන බව කිවයුතුයි.
+President Ranil Wickremesinghe says that no one is passing out or left in the country.
+
+The President made these comments participating at the inauguration of the National Program for low income families at Ambagasdowa Public Stadium today (21).
+
+"Today the people of this country celebrate Sinhala and Tamil New Yarry. The country was unable to think of this in the last two years. In the recent past, we have been very difficult to absorb the fuel, gas, and fertilizer.. 2022 Sinhala New Year I would like to recall that in Kamburugamuwa area. I saw the people staying in front of the fuel filling seals until the people were staying. They were strongly blamed for the rulers. Many have even heard the progress achieved by the country today. We had to make many decisions for this economic stability in the country today. It is necessary to say that these decisions are not popular.
 
 ...
 
 [Data](articles/2fc00ae6.json)
+
+[Extended Data](ext_articles/2fc00ae6.ext.json)
 
 ---
 

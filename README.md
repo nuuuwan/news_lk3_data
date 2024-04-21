@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 14:51:55**
+As of **2024-04-21 15:03:48**
 
 ## Newspaper Stats
 
-*Scraped **20,027** Articles*
+*Scraped **20,032** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 169
+colombotelegraphcom | 172
 bbccomsinhala | 209
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,665
+adalk | 1,666
 tamilmirrorlk | 2,311
 adaderanalk | 2,400
 virakesarilk | 2,987
 dailymirrorlk | 3,123
-adaderanasinhalalk | 3,255
+adaderanasinhalalk | 3,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,027 (100.0%) of 20,027 articles have been extended.
+20,027 (100.0%) of 20,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### ගෝඨාගේ ඇමතුමක් ගැන කාදිනල් හිමිගෙන් හෙළිදරව්වක්
+
+*2024-04-21 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195835) · `si`
+
+පැවති රජය හා වත්මන් රජයද දිගින් දිගටම පාස්කු ප්‍රහාරයේ සත්‍යය යටපත් කිරීමට උත්සාහ ගන්නා බවට අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් විසින් චෝදනා කරයි.
+
+කාදිනල් රංජිත් හිමිපාණන් ඒ බව පවසා සිටියේ, පාස්කු ප්‍රහාරය එල්ලවී වසර 5 සැපිරීම වෙනුවෙන් කොච්චිකඩේ ශාන්ත අන්තෝනි සිද්ධස්ථානයේ පැවති ප්‍රධාන වැඩසටහනට එක් වෙමිනි.
+
+"පාර්ලිමේන්තු තේරීම් කාරක සභාවේ සහ ජනාධිපති කොමිෂන් සභාවේ වාර්තා නිර්දේශ වන කරුණු ක්‍රියාත්ම කිරීමේ මූලික වශයෙන් පැවරුණේ ජනාධිපති ධුරයට පත් වූ ගෝඨාභය රාජපක්ෂ මහතා වෙතය. පාස්කු ප්‍රහාරය පිළිබඳ විනිවිද පෙනෙන පරීක්ෂණයක් පවත්වා ඒ ගැන සාධාරණය ඉටුකරන බවට සහතික වූ ඒ මහතා. ජනාධිපති කොමිෂන් සභා වාර්තාව, රටේ ජනාධිපති ලෙස පිළිගත් දිනට පසු දිනම දුරකථනයෙන් මා අමතමින් එසේ කිරීමට තමන්ට දුශ්කරතා ඇති බව සඳහන් කිරීම තුළත් එම නිර්දේශ ක්‍රියාත්මක කිරීමට යාම නිසා තමන්ට හිතවත් ඇතැම් සංවිධානවල නායකයින් අත්අඩංගුවට ගැනීමට යාම සහ ඔවුන්ගේ සංවිධාන තහනම් කිරීමට සිදුවීම තුළින් වාර්තාවේ ඉදිරිපත්කර ඇති නිර්දේශ තමන්ට ක්‍රියාත්මක කරන්න නොහැකි බවත් සඳහන්කළ අයුරු මට මතක් වේ."
+
+...
+
+[Data](articles/4604c1b1.json)
+
+---
+
+### නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට නොසන්සුන් තත්ත්වයක්
+
+*2024-04-21 14:26:41* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මූලස්ථානය-ඉදිරිපිට-නොසන්සුන්-තත්ත්වයක්/11-409185) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් අද පැවති විධායක කමිටු රැස්වීමෙන් පසු  කොළඹ ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට මේ වනවිට නොසන්සුන් තත්ත්වයක් ඇති වී තිබේ.
+
+මෙම උණුසුම් තත්ත්වය ඇතිවී තිබෙන්නේ තවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ කණ්ඩායමක් එම මූලස්ථානයට ඇතුළු වීමට උත්සාහ කළ අවස්ථාවේදීය.
+
+◼️
+
+[Data](articles/61ecb510.json)
+
+---
 
 ### Tension erupts outside SLFP headquarters
 
@@ -830,6 +860,18 @@ The department said that this time was postponed to June 30, despite the last mo
 
 ---
 
+### When The West’s Mask Slipped – Exposing Its Hypocrisy Beyond Gaza!
+
+*2024-04-21 09:15:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/when-the-wests-mask-slipped-exposing-its-hypocrisy-beyond-gaza/) · `en`
+
+“To see the world as it is, first -we gotta take off our western glasses. Look at the human world with human eyes-only then you’ll fathom justice and progress.” ~ Abhijit Naskar, Vande Vasudhaivam: 100 Sonnets for Our Planetary Pueblo
+
+...
+
+[Data](articles/465e41ee.json)
+
+---
+
 ### Increase in dollar reserves and rupee value will enable vehicle imports: Siyambalapitiya
 
 *2024-04-21 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-dollar-reserves-and-rupee-value-will-enable-vehicle-imports-Siyambalapitiya/108-281077) · `en`
@@ -915,6 +957,22 @@ The special commemoration ceremony will be held for two years to the Passover at
 [Data](articles/4fd0d1ff.json)
 
 [Extended Data](ext_articles/4fd0d1ff.ext.json)
+
+---
+
+### Is Religion The Opium Of The Masses?
+
+*2024-04-21 08:45:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-religion-the-opium-of-the-masses/) · `en`
+
+“Myself when young did eagerly frequent, Doctor and Saint and heard great Argument, About it and about, but evermore, Came out by the same Door as in I went”
+
+Perhaps there is no phrase of Karl Marx that is better known or more frequently quoted than his quip about religion being the opium of the masses. So let me quote the passage in full.
+
+“Religious distress is an expression of real distress and a protest against this distress. Religion is the sigh of the oppressed creature, the heart of a heartless world, the spirit of a spiritless condition. It is the opium of the masses. The abolition of religion as the illusory happiness of the people is the condition for their real happiness. The demand to give up this illusion is the demand for men to give up a condition which needs illusions”. Marx, Critique of Hegel’s Philosophy of Right.
+
+...
+
+[Data](articles/45b11798.json)
 
 ---
 
@@ -1519,6 +1577,18 @@ Accordingly, in the next two weeks, the 2000 metric tons of onion will be import
 [Data](articles/de390325.json)
 
 [Extended Data](ext_articles/de390325.ext.json)
+
+---
+
+### Paris – A Moveable Feast
+
+*2024-04-21 05:03:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/paris-a-moveable-feast/) · `en`
+
+One of the most enchanting books I have read in recent times has to be “A Moveable Feast” by the celebrated American writer Ernest Hemingway (1899-1961). The book eludes  easy categorisation, although it could be broadly considered a memoire of a period of his early life, when he lived in Paris (from 1921 to 1926). Hemingway had kept notes of his Paris days, getting down to writing “A Movable Feast” only in the last years of his life, in 1957 to be exact.
+
+...
+
+[Data](articles/e57cdb3b.json)
 
 ---
 
@@ -2127,107 +2197,5 @@ Prime Minister Dinesh Gunawardena, including ministers, state officials, governm
 [Data](articles/9b3364dc.json)
 
 [Extended Data](ext_articles/9b3364dc.ext.json)
-
----
-
-### Emirates and flydubai resume normal operations after Dubai floods
-
-*2024-04-20 17:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Emirates-and-flydubai-resume-normal-operations-after-Dubai-floods/108-281072) · `en`
-
-RIYADH, April 20 (Reuters) - Dubai's flagship carrier Emirates and sister airline flydubai have restored normal operations after heavy rains caused severe flooding across the United Arab Emirates earlier this week, the airlines said on Saturday.
-
-Emirates cancelled nearly 400 flights and delayed many more as a result of a record storm that hit the desert city of Dubai on Tuesday, said a statement released by the airline's president, Tim Clark.
-
-Due to the impact of the storm, the airline suspended check-in for passengers departing from Dubai and halted its transit operations through Dubai International Airport, a major global travel hub, leaving thousands of travellers stranded.
-
-The airport has struggled to return to normal operations after the storm flooded taxiways, forcing flight diversions, delays and cancellations.
-
-...
-
-[Data](articles/921d4220.json)
-
-[Extended Data](ext_articles/921d4220.ext.json)
-
----
-
-### Special notice from SriLankan on Europe flights as Israel-Iran tensions rise
-
-*2024-04-20 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98746/special-notice-from-srilankan-on-europe-flights-as-israel-iran-tensions-rise) · `en`
-
-SriLankan Airlines says it is currently modifying its flight paths for European destinations as a precautionary measure amidst the current tensions between Israel and Iran.
-
-In a press release, the national carrier explained that these changes mean that flight times to Europe are extended, requiring additional fuel and reducing the available payload.
-
-Additionally, in order to meet slot times in London, these flights are being advanced by one hour, the airline said further, adding that some passengers on the London flights unfortunately have missed connections or been offloaded, as a result.
-
-The airline asserted that it would maintain this routing and the earlier departure time to London for the next few days while monitoring the situation. However, the departure times from London, and to and from other European cities remain unchanged.
-
-...
-
-[Data](articles/ec411bd7.json)
-
-[Extended Data](ext_articles/ec411bd7.ext.json)
-
----
-
-### Vishal's 'Ratnam' 60: 40
-
-*2024-04-20 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181533) · `ta`
-
-"Vishal's 'Ratnam' mixes styles, directed by Hari, featuring a blend of action and sentiment. Co-produced by Karthikeyan Santhanam and Alankar Pandian, it's set for release on the 26th. Hari emphasizes a balance of excitement and family sentiment, with minimal fight scenes."
-
-🟩
-
-Director Hari in Tamil film industry has a separate fan circle. The screenplay in more than fifteen films he has directed. Director Hari has said that the film 'Ratnam' will be mixed with 'Ratnam', which will be produced by his stamp and directed by a separate style.
-
-Directed by director Hari, Vishal, Priya Bhavani Shankar, Samudrakani, Yogi Babu, Gautam Vasudev Menon, Ramachandra Raju, Murali Sharma, Harish Peradi, Jayaprakash, Tulsi. M.. The film, which has been recorded by Sukumar, has composed the film 'Rock Star' Devi Sri Prasad. Producer Karthikeyan Santhanam and Alankar Pandian have co -produced the film on behalf of Stone Bench Films, G Studio and Invineo Arjin.. The film will be released on the 26th of this month at the film mansions worldwide.
-
-The event was held at the star hotel in Chennai. The film crew participated in the event.
-
-...
-
-[Data](articles/01acd5d3.json)
-
-[Extended Data](ext_articles/01acd5d3.ext.json)
-
----
-
-### Uncertainty looms over Sri Lanka as debt restructuring talks hit snag – experts warn
-
-*2024-04-20 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98745/uncertainty-looms-over-sri-lanka-as-debt-restructuring-talks-hit-snag-experts-warn) · `en`
-
-Having hit a roadblock with international bondholders, uncertainty looms over the economy of crisis-hit Sri Lanka and an upcoming review by the International Monetary Fund (IMF), experts warn.
-
-The South Asian island country announced on Tuesday that it has failed to strike an agreement with international bondholders on restructuring more than $12 billion in debt, a mandatory requirement set out by the IMF.
-
-Colombo-based economist Talal Rafi explained that with Sri Lanka still in default status and facing uncertainty regarding credit ratings and foreign investment, the economic fallout could be significant. “The larger impact is the uncertainty as no one knows what the deal will be for them to plan anything,” he said.
-
-...
-
-[Data](articles/434df5d5.json)
-
-[Extended Data](ext_articles/434df5d5.ext.json)
-
----
-
-### More than Rs.
-
-*2024-04-20 17:08:48* · [`adalk`](https://www.ada.lk/breaking_news/හික්කඩුව-ශීඝ්‍රගාමී-දුම්රියෙන්-රුපියල්-කෝටියකට-අධික-විදුලි-රැහැන්-කපලා/11-409169) · `si`
-
-Deputy Superintendent of Railway Security Forces' equipment stolen from Colombo to Hikkaduwa Railway Station, suspected of being a well-planned theft by familiar individuals knowledgeable in electrical circuits. Galle Police Criminal Investigation Division is investigating.
-
-🟩
-
-Deputy Superintendent of Railway Security Forces have been stolen from Colombo to Hikkaduwa Railway Station and stopped Rs.. Mr. Sumith said.
-
-The authorities suspicles that this is a well-planned steal and has done this by the familiar people who are well aware of electrical circuits.
-
-The Galle Police Criminal Investigation Division has launched an extensive investigation into the incident.
-
-◼️
-
-[Data](articles/e922d6b1.json)
-
-[Extended Data](ext_articles/e922d6b1.ext.json)
 
 ---

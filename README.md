@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 20:18:22**
+As of **2024-04-21 20:34:02**
 
 ## Newspaper Stats
 
-*Scraped **20,073** Articles*
+*Scraped **20,076** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 175
-bbccomsinhala | 209
+bbccomsinhala | 210
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
@@ -18,37 +18,71 @@ economynextcom | 1,145
 adalk | 1,676
 tamilmirrorlk | 2,318
 adaderanalk | 2,406
-virakesarilk | 2,989
+virakesarilk | 2,990
 dailymirrorlk | 3,128
-adaderanasinhalalk | 3,264
+adaderanasinhalalk | 3,265
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,071 (100.0%) of 20,073 articles have been extended.
+20,073 (100.0%) of 20,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### வேலு குமாரை தாக்க முயற்சி: புசல்லாவையில் அமைதியின்மை
+### දියතලාව බිහිසුණු ඛේදවාචකයේ නොදත් කතාව
+
+*2024-04-21 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195844) · `si`
+
+දියතලාව ෆොක්ස් හිල් මෝටර් ධාවන තරගය අතුරතුර සිදුවූ අනතුරින් පුද්ගලයින් 7 දෙනෙකුට ජීවිත අහිමි විය.
+
+අනතුරින් තවත් පුද්ගලයින් 23 දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇති බව පොලීසිය සඳහන් කළේය.
+
+2024 ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගාවලිය අද පෙරවරුවේ දියතලාව නරියාකන්ද ධාවන පථයේ දී ආරම්භ විය.
+
+අවසන් වරට 2019 වර්ෂයේ අප්‍රේල් 21 වන දින මෙම ධාවන තරගාවලිය පවත්වා ඇති අතර පාස්කු ප්‍රහාරය හේතුවෙන් එම තරගය අතරමග නතර කිරීමට සිදුවිය.
+
+ඒ අනුව වසර 5ක කාලයක් එම තරගාවලිය නොපැවැත්වුණු අතර මෙවර එම තරගාවලිය සඳහා විශාල ජනසහභාගීත්වයක් ද පැවැති බව වාර්තා විය.
+
+අද (21) පෙරවරුවේ ආරම්භ වු ධාවන තරගය පැවැත්වෙන අතරවාරයේ මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන මෙම අනතුර සිදුව තිබුණි.
+
+අනතුරින් මියගිය පුද්ගලයින් 7 දෙනා අතර 8 හැවිරිදි දැරියක් ද වන බව පොලීසිය පැවසීය.
+
+ධාවන තරගයේ සහායකවරුන් 4 දෙනෙකු ද අනතුරින් මියගොස් ඇති බව සඳහන් වෙයි.
+
+මෙම අනතුරත් සමග ධාවන තරගාවලිය නතර කිරීමට පියවර ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c60014f7.json)
+
+---
+
+### Trying to attack Velu Kumar: Unrest
 
 *2024-04-21 19:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலு-குமாரை-தாக்க-முயற்சி-புசல்லாவையில்-அமைதியின்மை/175-336142) · `ta`
 
-புசல்லாவை அருள்மிகு ஸ்ரீ மஹா கணபதி ஆலயத்தின் அடிக்கல் நாட்டு விழா இன்று காலை நடைப்பெற்றது.
+Velu Kumar MP, after the Arulmigu Sri Maha Ganapathi Temple foundation stone laying, attacked a group led by CWC vice president Chellamuthu, facing criticism over plantation workers' salary talks.
 
-அந்நிகழ்வின் பின் தனது அடுத்த நிகழ்விற்காக சென்றிருந்த வேலு குமார் எம்.பியை இ.தொ.க வின் உப தலைவர் செல்லமுத்து உட்பட அவரது அடியாட்கள் குழுவொன்று தாக்க முயற்சித்தது.
+🟩
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பள பேச்சுவார்த்தை தொடர்பான இ.தொ.க வின் இரட்டை முகத்தை தொடர்ச்சியாக வேலு குமார் எம்.பி. விமர்சித்து வந்தார்.
+The foundation stone laying ceremony of the Arulmigu Sri Maha Ganapathi Temple was held this morning.
 
-உண்மையை சொல்வதை தாங்கிக்கொள்ள முடியாமலே இவ்வாறான அநாகரீக செயற்பாட்டில் ஈடுபடுகின்றனர் என மக்கள் கடும் எதிர்ப்பை அவர்களுக்கு தெரிவித்தனர்.
+After the event, Velu Kumar MP, who was on his way for his next event, tried to attack a group of heads, including CWC vice president Chellamuthu.
 
-வேலு குமார் எம்.பியை தாக்க முயற்சித்த செல்லமுத்துவின் அடியாட்கள் மக்களின் கடும் எதிர்ப்பினால் பின்வாங்கி சென்றனர்.
+Velu Kumar MP continues to face CWC's double face on plantation workers' salary talks. Criticized.
+
+People expressed fierce opposition to them that they are unable to bear the truth.
+
+Chellamuthu's servants, who tried to attack Velu Kumar MP, retreced to the people's opposition.
 
 ◼️
 
 [Data](articles/000d2b23.json)
+
+[Extended Data](ext_articles/000d2b23.ext.json)
 
 ---
 
@@ -112,23 +146,49 @@ Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
 
 ---
 
-### රට ගොඩනැඟීමේදී කිසිවෙකු පසුකර හෝ අතහැර යාමට සූදානම් නැහැ
+### நாடாளுமன்ற உறுப்பினர் வேலு குமார் மீது தாக்குதல் முயற்சி
+
+*2024-04-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181594) · `ta`
+
+கண்டி மாவட்ட நாடாளுமன்ற உறுப்பினர் வேலு குமார் மீது தாக்குதல் முயற்சி மேற்கொள்ளப்பட்டுள்ளதாக தமிழ் முற்போக்கு கூட்டணியின் ஊடக பிரிவு அறிக்கை ஒன்றை வௌியிட்டுள்ளது.
+
+புசல்லாவை அருள்மிகு ஸ்ரீ மஹா கணபதி ஆலயத்தின் அடிக்கல் நாட்டு விழா ஞாயிற்றுக்கிழமை (21) காலை நடைப்பெற்றது.
+
+அந்நிகழ்வின் பின்னர் தனது அடுத்த நிகழ்வுக்கு செல்ல முற்பட்டபோதே அவர் மீது இந்த தாக்குதல் முயற்சி மேற்கொள்ளப்பட்டுள்ளது..
+
+இதனையடுத்து மக்களின் கடும் எதிர்ப்பினால் தாக்குதல் மேற்கொள்ளவந்த நபர்கள் பின்வாங்கி சென்றதாக அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c2a29c0e.json)
+
+---
+
+### No one is passing out or left to leave in the country building
 
 *2024-04-21 18:38:01* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමේදී-කිසිවෙකු-පසුකර-හෝ-අතහැර-යාමට-සූදානම්-නැහැ/11-409189) · `si`
 
-රටේ මෙන්ම ජනතාවගේ ද ආර්ථිකය ශක්තිමත් කිරීමට ගෙන යන වැඩපිළිවෙළේදී කිසිවෙකු පසුකර හෝ අතහැර යාමට රජය කටයුතු නොකරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the government's commitment to strengthening the economy and alleviating the suffering of the people. He highlighted the National Program for low-income families, awarding 10,000 million rupees per month, and the distribution of rice to beneficiaries. He also acknowledged the challenges faced, including the recent economic crisis and the impact on fuel, gas, and fertilizer prices. Wickremesinghe praised the government's efforts in maintaining economic stability and expressed gratitude to the Prime Minister, cabinet, and other officials for their contributions. He noted the government's focus on rural economy development, increasing public and private sector salaries, and providing relief to the poor. Despite the progress, he acknowledged the ongoing issues of currency loss, business decline, and job loss. He stressed the importance of unity in addressing these challenges and outlined future plans for development, including tourism, agriculture, and land ownership programs.
 
-පසුගිය ආර්ථික අර්බුදය හමුවේ බේදයකින් තොරව රටේ සියලු ජනතාව පීඩාවට පත් වූ බවත් එබැවින් රටේ ගොඩනැගෙන ආර්ථිකයේ ප්‍රතිලාභද එම සියලුදෙනාට හිමිවිය යුතු බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඌවපරණගම, අඹගස්දෝව මහජන ක්‍රීඩාංගනයේ අද (21) පැවති අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ 2024 ජාතික වැඩසටහනේ සමාරම්භක උත්සවයට එක් වෙමිනි.
+President Ranil Wickremesinghe said that the government would not pass or leave the economy and the people to strengthen the economy of the economy.
 
-මෙම වැඩසටහන යටතේ මුළු දිවයිනම ආරවණය වන පරිදි අඩු ආදායම්ලාභී පවුල් මිලියන 2.74ක් වෙත අප්‍රේල් සහ මැයි මාස දෙකක කාලයක් සඳහා මසකට සහල් කිලෝ දහය බැගින් ලබා දීමට නියමිතය.
+The President emphasized that all the people of the country were suffering from the last economic crisis and that they should be able to get the benefits of the economy.
 
-බදුල්ල දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස පහළොවක ප්‍රතිලාභී පවුල් 191,548ක් සහල් සහනාධාරය ලැබීමට සුදුසුකම් ලබා තිබේ. අද දින පවුල් දහසකට සහල් බෙදා දීම සංකේතවත් කරමින් ප්‍රතිලාභීන් 25 දෙනෙකුට ජනාධිපතිවරයා අතින් සහල් මලු ලබාදීම සිදු විය.
+President Ranil Wickremesinghe was speaking at the inauguration of the National Program for low income families at the Ambagasdowa Public Stadium in Uva Paranagama.
+
+Under this program, the entire island will be awarded 10,000 million rupees per two months per month for two million rupees per month.
+
+191,548 beneficiary families in fifteen Divisional Secretariat Divisions in Badulla District are eligible to receive rice subsidy. The President was given rice to 25 beneficiaries to symbolize the sharing of rice to a thousand families today.
+
+The rice distributed to the beneficiaries selected under the supervision of Divisional Secretariats across the country.
 
 ...
 
 [Data](articles/49b36600.json)
+
+[Extended Data](ext_articles/49b36600.ext.json)
 
 ---
 
@@ -799,6 +859,30 @@ Gotabhaya Rajapaksa, who was primarily delegated in the election of the Parliame
 [Data](articles/4604c1b1.json)
 
 [Extended Data](ext_articles/4604c1b1.ext.json)
+
+---
+
+### 'Fox Hill Supercross 2024' ධාවන තරගය: දියතලාවේ දී සිදුවූ අනතුරට හේතුව කුමක්ද ?
+
+*2024-04-21 14:31:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4rnn129xzo) · `si`
+
+'Fox Hill Supercross 2024' ධාවන තරගය: දියතලාවේ දී සිදුවූ අනතුරට හේතුව කුමක්ද ?
+
+දියතලාව, නරියා කන්ද හිදී පැවති  "Fox Hill Supercross 2024" මෝටර් රථ ධාවන තරගය අතර වාරයේදී අද ( අප්‍රේල් මස 21 වෙනිදා) සිදුවූ අනතුරකින් පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් පුද්ගලයින් 20 දෙනෙකු තුවාල ලැබීය.
+
+මියගිය පිරිස අතර වයස අවුරුදු 08ක පමණ දැරියක් ද සිටින බව යුද හමුදා මාධ්‍ය ප්‍රකාශක මේජර් ජෙනරාල් රසික කුමාර බීබීසී සිංහල සේවයට පැවසුවේය.
+
+"ෆොක්ස් හිල් ට්‍රැක් එක අයිති යුද හමුදාවට. මෙම ධාවන තරගය ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය විසින් සංවිධානය කරන්නේ."
+
+"අනතුරෙන් මිය ගිහින් ඉන්න පිරිස අතර තරගාවලියේ සේවයේ යෙදී සිටිය ට්‍රැක් මාෂල්ස්ලා සිව්දෙනකු වගේම නරඹන්නන් තිදෙනෙකුත් ඉන්නවා."
+
+"එයින් එක් අයෙකු අවුරුදු 08 ක පමණ දැරියක්" යුද හමුදා මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දුව පැවසුවේ ධාවන තරගයක් අතර වාරයේදී මෝටර් රථයක් ධාවන මංතීරුවෙන් ඉවතට පැනීමෙන් මෙම අනතුර සිදුව ඇති බවයි.
+
+...
+
+[Data](articles/d54576c0.json)
 
 ---
 
@@ -2187,81 +2271,5 @@ Meanwhile, the film is a film starring actor Gavin after the hit film 'Tata' and
 [Data](articles/b705ebf1.json)
 
 [Extended Data](ext_articles/b705ebf1.ext.json)
-
----
-
-### Santhanam starrer 'Inga I am Kingu'
-
-*2024-04-21 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181531) · `ta`
-
-"Santhanam's 'Inga I am Kingu' is a summer comedy film directed by Anand Narayan, featuring Santhanam, Priyalaya, and others. Despite 'Vadakkupatti Ramaswamy's' success, 'Inga I am Kingu' faces criticism. The film, produced by Sushmita Anbu Chezhiyan, has two songs with over a million views. It's set for global release on May 10th."
-
-🟩
-
-Actor Santhanam starrer 'Vadakkupatti Ramaswamy' has been critically welcomed. But the production company officially announced that the film was not commercially successful. However, Santhanam has raised his salary after the success of 'Vadakkupatti Ramaswamy'.
-
-Nevertheless, the criticism of the film industry is expected to be released after the commercial success of the film 'Inga I am Kingu', which is preparing for his performance.
-
-Directed by director Anand Narayan, Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Munis Kant, Maran, Lalu Saba Swaminathan, Kool Suresh and many others.
-
-D Iman has composed the film, which has been recorded by Om Narayan. Producer Sushmita Anbu Chezhiyan has produced the film on behalf of Tower Films Film Company. The film is presented by G N.
-
-...
-
-[Data](articles/309505fc.json)
-
-[Extended Data](ext_articles/309505fc.ext.json)
-
----
-
-### The music release of the movie 'Odi' is ready to embrace true events
-
-*2024-04-21 07:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181532) · `ta`
-
-The music release of 'Odi', a film based on real events, was held in Chennai, featuring actors like Taman Kumar and M.S. Bhaskar. Composed by K.G. Sanjay Gemikam, the film is directed by Manivarman and praised for its unique thriller genre.
-
-🟩
-
-The music release of the film 'Odi', which appears to be the hero of actor Tamankumar's story, was held in Chennai.
-
-Taman Kumar, M.. S.. Bhaskar, Vel. Ramamurthy, Fruit. Karupaya, Kajaraj, Sri Ranjani and many others have been cast.
-
-K. G. Sanjay Gemikam has composed the film, which has been recorded by Rathish. The film is being adapted into the truth and is ready in the thriller Janer.. Rathish has co -produced. The film is on behalf of Creative Entertainment Districts. Dhananjayan offers.
-
-The music release of the film was released in Chennai on April 26. Actor Ary Arjunan with film crew, producer C. V.. Kumar, actor and speaker Erode Mahesh participated as special guests.
-
-...
-
-[Data](articles/36aa9f97.json)
-
-[Extended Data](ext_articles/36aa9f97.ext.json)
-
----
-
-### Pays for 5 years for Easter attack
-
-*2024-04-21 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195824) · `si`
-
-The Kochchikade St. Anthony Church initiated a 5-year remembrance series for the 2019 Easter suicide attacks, involving a march from the church to the Kupepitiya church. The attacks targeted eight locations on April 21, 2019. The Archbishop of Colombo, Ranjith, led the remembrance, highlighting the church's commitment to security.
-
-🟩
-
-The series of remeat was started by the special divine sacrifice held by the Kochchikade St. Anthony Church yesterday (20).
-
-Accordingly, the substacle march from Kochchikade church to the Kupepitiya church from the Kupepitiya Church was held throughout the night.
-
-A group of suicide attacks on the 21st of April 2019 made 10 suicide attacks on eight places in the island.
-
-The series of the remeasury program to mark the attack on the terrorist attacks is the Ceylon of Kochchikade's goal.
-
-The Archbishop of the Archbishop was chaired by the Antron Ranjith, the heightened relatives and wounded in the archbishop.
-
-Meanwhile, police spokesman DIG'sary DIG lawyer said the necessary steps have been taken to provide security to the celebrations of churches.
-
-◼️
-
-[Data](articles/126af6f0.json)
-
-[Extended Data](ext_articles/126af6f0.ext.json)
 
 ---

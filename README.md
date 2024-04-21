@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 06:59:01**
+As of **2024-04-21 07:20:57**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 3,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,950 (100.0%) of 19,958 articles have been extended.
+19,955 (100.0%) of 19,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### අද පස්වරුවේ ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas this afternoon
 
 *2024-04-21 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195823) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව පවසයි.
+Showers expected in Western, Sabaragamuwa, Central, and North Western Provinces, Galle, and Matara districts today. Meteorology warns of thunderstorms in Batticaloa, Vavuniya, and Mannar districts. Take precautions for wind and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ, ඌව පළාතෙත් අනුරාධපුර, වව්නියා සහ මන්නාරම දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව නිවේදනය කරයි.
+The Galle and Matara districts will be held today (21) in the Western, Sabaragamuwa, Central and North Western Provinces.. The Department of Meteorology says that there will be showers at several places about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Batticaloa, Vavuniya and Mannar districts in Anuradhapura, Vavuniya and Mannar districts in the Uva Province.
+
+The Department of Meteorology announced that in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Department of Meteorology announced.
+
+The Department of Meteorology requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7b95d8f9.json)
 
+[Extended Data](ext_articles/7b95d8f9.ext.json)
+
 ---
 
-### சதொச ஊடாக வெங்காயம் இறக்குமதி
+### Onion imported through Sathosa
 
 *2024-04-21 05:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-ஊடாக-வெங்காயம்-இறக்குமதி/175-336116) · `ta`
 
-இலங்கைக்கான பெரிய வெங்காயம் ஏற்றுமதிக்கான தடையை நீக்குவதற்கு தீர்மானித்த இந்திய அரசாங்கம், பத்தாயிரம் மெற்றிக் தொன் பெரிய வெங்காயத்தை இலங்கைக்கு ஏற்றுமதி செய்ய அண்மையில் தீர்மானித்துள்ளது.
+India lifts ban on big onion exports to Sri Lanka, exporting 10,000 metric tonnes. Decided to import and sell large onions from India through Sri Lanka. First stockpile of 2000 metric tons to be imported in two weeks.
 
-வெங்காயத்தின் இருப்பு தனியார் துறையிலிருந்து இறக்குமதி செய்யப்படுவதா அல்லது அரச துறையிலிருந்து இறக்குமதி செய்யப்படுவதா என வர்த்தக மற்றும் நுகர்வோர் அலுவல்கள் அமைச்சு கலந்துரையாடியதுடன், இந்தியாவில் இருந்து பெரிய வெங்காயத்தை லங்கா சதொச ஊடாக இறக்குமதி செய்து விற்பனை செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி எதிர்வரும் இரண்டு வாரங்களில் 2000 மெற்றிக் தொன் வெங்காயம் முதல் கையிருப்பாக இறக்குமதி செய்யப்படும் என சதொச தலைவர் குறிப்பிட்டுள்ளார். (a)
+The Indian government has decided to remove the ban on big onion exports to Sri Lanka and recently decided to export ten thousand metric tonnes of large onions to Sri Lanka.
+
+The Ministry of Commerce and Consumer Affairs has discussed whether onions are imported from the private sector or imported from the state sector and it has been decided to import and sell large onions from India through Sri Lanka.
+
+Accordingly, in the next two weeks, the 2000 metric tons of onion will be imported as the first stockpile, the Sathosa leader said.. (A)
 
 ◼️
 
 [Data](articles/de390325.json)
+
+[Extended Data](ext_articles/de390325.ext.json)
 
 ---
 
@@ -134,6 +146,8 @@ In the 16th century, Portuguese explorers introduced cashew trees to other tropi
 
 [Data](articles/9a178a8f.json)
 
+[Extended Data](ext_articles/9a178a8f.ext.json)
+
 ---
 
 ### Green tea in Japan delicately plucked with gloved hands
@@ -147,6 +161,8 @@ The 121 million people in Japan are estimated to have consumed some 186 million 
 ...
 
 [Data](articles/d4af2a3b.json)
+
+[Extended Data](ext_articles/d4af2a3b.ext.json)
 
 ---
 
@@ -191,6 +207,8 @@ Q.2: As a Junior at College, who would you give credit for refining your techniq
 ...
 
 [Data](articles/0ecd467d.json)
+
+[Extended Data](ext_articles/0ecd467d.ext.json)
 
 ---
 

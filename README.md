@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 17:35:44**
+As of **2024-04-21 17:54:13**
 
 ## Newspaper Stats
 
-*Scraped **20,057** Articles*
+*Scraped **20,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,64 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,670
 tamilmirrorlk | 2,317
-adaderanalk | 2,403
+adaderanalk | 2,404
 virakesarilk | 2,989
-dailymirrorlk | 3,126
+dailymirrorlk | 3,127
 adaderanasinhalalk | 3,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,056 (100.0%) of 20,057 articles have been extended.
+20,057 (100.0%) of 20,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### දියතලාව අනතුරින් මියගිය පිරිස ඉහළට - ඉතිරි ධාවන තරග අත්හිටුවයි
+### Death toll in ‘Fox Hill Super Cross’ accident climbs to 07
+
+*2024-04-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98760/death-toll-in-fox-hill-super-cross-accident-climbs-to-07) · `en`
+
+The total number of deaths reported in the tragic accident that took place during the “Fox Hill Super Cross 2024” racing event in Diyatalawa has climbed to 07, the Police Media Division confirmed.
+
+This comes after two individuals who sustained injuries during the accident succumbed to their injuries while receiving treatment at Diyatalawa Hospital this evening.
+
+The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators. The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
+
+Police Media Spokesman DIG Nihal Thalduwa stated that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
+
+The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
+
+...
+
+[Data](articles/c9560fb2.json)
+
+---
+
+### Diyatalawa deceased to be suspended
 
 *2024-04-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195840) · `si`
 
-දියතලාව මෝටර් රථ ධාවන තරගාවලිය අතර සිදුවූ බිහිසුණු අනතුරින් මියගිය සංඛ්‍යාව 7ක් දක්වා ඉහළගොස් තිබේ.
+Diyatalawa Motor race suspended after accident, 7 reported dead, 20 injured. 8-year-old girl among victims.
 
-පොලීසිය පවසන්නේ මෙම අනතුරත් සමග පැවැත්වීමට නියමිතව තිබූ ඉතිරි සියලු ධාවන තරග මේ වනවිට අත්හිටුවා ඇති බවය.
+🟩
 
-අනතුරින් තුවාල ලබා පුද්ගලයින් 20 දෙනෙකු නේවාසිකව රෝහල්ගතව ප්‍රතිකාර ලබයි.
+The Diyatalawa Motor race was reported to seven people.
 
-අනතුරින් මියගිය 7 දෙනා අතර 8 හැවිරිදි දැරියක් ද වන බව පොලීසිය පවසයි.
+The police say that all the races they have been suspended with the accident have been suspended.
 
-එමෙන්ම ධාවන තරගයේ සහයකවරුන් 4 දෙනෙකු ද අනතුරින් මියගොස් ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සදහන් කළේය.
+Twenty personnel are hospitalized with hospital with injuries in the accident.
+
+Among the seven killed in the accident, 8 year old girl said,
+
+The Police Media Spokesperson also stated that 4 rates were also killed in the accident.
 
 ◼️
 
 [Data](articles/e09b0d4f.json)
+
+[Extended Data](ext_articles/e09b0d4f.ext.json)
 
 ---
 
@@ -201,6 +227,24 @@ According to hospital sources, the condition of some of the injured is critical.
 [Data](articles/4686172b.json)
 
 [Extended Data](ext_articles/4686172b.ext.json)
+
+---
+
+### ​Seven dead, dozens injured in racing event accident in Diyatalawa
+
+*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Seven-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
+
+The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of seven individuals and leaving over 20 others hospitalized with injuries.
+
+According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
+
+The injured have been admitted to the Diyatalawa Base Hospital.
+
+According to hospital sources, the condition of some of the injured is critical.
+
+◼️
+
+[Data](articles/cff10726.json)
 
 ---
 
@@ -2175,55 +2219,5 @@ I need not detail or even refer to most of what happened in 1970 and 71. ‘Kill
 [Data](articles/da493083.json)
 
 [Extended Data](ext_articles/da493083.ext.json)
-
----
-
-### Flower Exhibition Begins in Nuwara Eliya
-
-*2024-04-21 04:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-மலர்-கண்காட்சி-ஆரம்பம்/175-336115) · `ta`
-
-Nuwara Eliya's Municipal Council inaugurated a two-day floral exhibition at Victoria Park, showcasing vegetable images and designs made from flowers. Notable attendees included CP Ratnayake, Kandy Indian High Commissioner S. S., and Nuwara Eliya Municipal Council members.
-
-🟩
-
-A floral exhibition organized by the Nuwara Eliya Municipal Council was officially inaugurated yesterday (20) at the Victoria Park.
-
-The two -day floral exhibition, which is held in the spring of April, is being held in many forms, such as the image of vegetables, and the image of vegetables designed by a variety of flowers.
-
-Former Minister and Member of Parliament CP Ratnayake and Kandy Indian High Commissioner S. S.. Special Commissioner of Athira and Nuwara Eliya Municipal Council Mrs. Sujeewa Bodhima, Former Municipal Council Chiefs, Nuwara Eliya Senior Superintendent and Municipal Council members and members of the Municipal Council were present.. (A)
-
-◼️
-
-[Data](articles/15bc5006.json)
-
-[Extended Data](ext_articles/15bc5006.ext.json)
-
----
-
-### Easter attack: 'I am working to bring up a resolution for an international investigation'
-
-*2024-04-21 03:12:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd18gznne0po) · `si`
-
-The Archbishop of Colombo is leading an international investigation into the Easter attack, aiming for justice. The government's failure to reveal conspirators and the lack of action by the current government have been criticized.
-
-🟩
-
-It contains nothing in this, he commented in the conversation with BBC Sinhala service.
-
-Easter attack: 'I am working to bring up a resolution for an international investigation'
-
-The Archbishop of Colombo, the Archbishop, Colombo Archbishop, is working with a number of countries and organizations to make an international investigation to the UNHRC to take justice to the victims.
-
-The Cardinal Thero said that the Passover attack has taken place today (April 21), but the government has failed to reveal its maamolot and conspirators.
-
-Gotabhaya Rajapakse, who gave righteous promises to justice, were confident in the written promised and the properties that should be accepted in the country.
-
-Former Prime Minister Ranil Wickremesinghe is the people of the country today when the Passover attack takes place. DIG Tennakoon in charge of the Colombo North, Deshabandu Tennakoon, Colombo North, was the IGP in charge of the Government Commission.
-
-...
-
-[Data](articles/43139d7d.json)
-
-[Extended Data](ext_articles/43139d7d.ext.json)
 
 ---

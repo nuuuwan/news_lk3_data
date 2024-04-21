@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 05:38:38**
+As of **2024-04-21 05:59:33**
 
 ## Newspaper Stats
 
-*Scraped **19,947** Articles*
+*Scraped **19,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 169
 bbccomsinhala | 208
 dbsjeyarajcom | 218
 newsfirstlk | 363
-islandlk | 1,068
+islandlk | 1,076
 dailyftlk | 1,099
 economynextcom | 1,142
 adalk | 1,654
-tamilmirrorlk | 2,300
+tamilmirrorlk | 2,301
 adaderanalk | 2,392
 virakesarilk | 2,981
 dailymirrorlk | 3,110
@@ -26,11 +26,85 @@ adaderanasinhalalk | 3,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,947 (100.0%) of 19,947 articles have been extended.
+19,947 (100.0%) of 19,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### நுவரெலியாவில் மலர் கண்காட்சி ஆரம்பம்
+
+*2024-04-21 04:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-மலர்-கண்காட்சி-ஆரம்பம்/175-336115) · `ta`
+
+நுவரெலியா நகரில் வசந்த காலத்தையொட்டி வருடம் தோறும் நடைபெறும் மலர் கண்காட்சி நுவரெலியா மாநாகரசபை ஏற்பாட்டில் விக்டோரியா பூங்காவில் ஏற்பாடு செய்யப்பட்ட மலர் கண்காட்சி நேற்று (20)  உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்பட்டது.
+
+ஏப்ரல் மாத வசந்த காலத்தில் ஒரு கட்டமாக வருடம் தோறும் குறித்த மலர் கண்காட்சி நடைபெறும் இரண்டு நாட்கள் தொடர்ந்து நடைபெறும் இம்மலர் கண்காட்சியில் விதவிதமான மலர்களை கொண்டு வடிவமைக்கப்பட்ட உருவ பொம்மைகள், மிருகங்களின் உருவம் காய்கறிளின் உருவம் என பல வடிவங்களில் உருவ அலங்காரங்களும் சுற்றுலா பயணிகளை கவரும் வகையில் அமைக்கப்பட்டுள்ளன.
+
+நுவரெலியா மாநகர சபையின் ஏற்பாட்டில் ஒழுங்கு செய்யப்பட்ட இந்த மலர் கண்காட்சியில் பிரதம அதிதியாக முன்னாள் அமைச்சரும் பாராளுமன்ற உறுப்பினருமான சி.பி.ரத்நாயக்க மற்றும் கண்டி இந்திய உயர் ஸ்தானிகர் வைத்தியர் எஸ். அதிரா மற்றும் நுவரெலியா மாநகரசபை விசேட ஆணையாளர் திருமதி சுஜீவ போதிமான, முன்னாள் மாநகரசபை முதல்வர்கள் , நுவரெலியா சிரேஸ்ட பொலிஸ் அத்தியட்சகர்கள் மற்றும் மாநகரபை உறுப்பினர்களும் பொதுமக்களும் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/15bc5006.json)
+
+---
+
+### Some Thoughts for the New Year
+
+*2024-04-21 02:55:00* · [`islandlk`](http://island.lk/some-thoughts-for-the-new-year/) · `en`
+
+Last week was the Sinhala and Tamil New Year, Avurudu in Sinhala, Puththandu in Tamil. It marks the end of one harvest season and the beginning of another. Celebrated by Sri Lankans of all shades and stripes, of every class and background, it demonstrates, as does no other event, the multifaceted character of Sri Lankan culture.
+
+As Sri Lanka lurches into a New Year three months after January 1, then, this is the time to reflect on what it is becoming and will become of us over the next 12 months. What shape will the country take by April 13 next year? Will the status quo – political, social, economic – stand, or will there be a rupture in the way things are? Will the present batch of leaders become politically irrelevant? Most crucially, how will the world around Sri Lanka change, and how can, and how should, Sri Lanka adapt itself to that brave new world?
+
+...
+
+[Data](articles/799a1d45.json)
+
+---
+
+### All things are impermanent
+
+*2024-04-21 02:43:00* · [`islandlk`](http://island.lk/all-things-are-impermanent/) · `en`
+
+(Excerpted from Saris and Grapefruit, a collection of short stories by Rukmini Attygalle)
+
+Rupa Jayasena gazed intently on the vista below, as she sat in the front veranda of her home, high up on the hill of Hanthana, overlooking the Peradeniya University’s green campus scattered with trees and bushes in bloom. She could discern within the meticulously landscaped terrain the Peradeniya-Galaha road winding its way to Getambe and beyond. She would sit in the veranda all afternoon with frequent cups of tea and watch the young men and women walking between their residential halls and lecture rooms, clutching books and files. They were in happy groups; or couples absorbed with each other; or hurrying single students.
+
+...
+
+[Data](articles/3404ead2.json)
+
+---
+
+### “Cashew nuts are a healthy snack choice due to their nutritional benefits.”
+
+*2024-04-21 02:34:00* · [`islandlk`](http://island.lk/cashew-nuts-are-a-healthy-snack-choice-due-to-their-nutritional-benefits/) · `en`
+
+Sri Lankan cashews are highly sought after for their milky flavour, and the market for Rancrisp cashews continues to grow.
+
+The cashew, Anacardium occidentale L., belongs to the Anacardiaceae or cashew family. Two related plants in this family are the mango and pistachio trees. Cashew nuts are kidney-shaped seeds that adhere to the bottom of the cashew apple, the fruit of the cashew tree, is native to the coastal areas of North-Eastern Sri Lanka, Brazil, and Peru.
+
+In the 16th century, Portuguese explorers introduced cashew trees to other tropical regions such as India, Indonesia, some African countries and Sri Lanka, where they are now grown. The cashew tree was famous for its apple, which is hardly eaten in our country but is a delicacy in some countries. It is eaten ripe, mixed in fruit salads, or pickled. The trunk of the tree is also used as firewood.
+
+...
+
+[Data](articles/9a178a8f.json)
+
+---
+
+### Green tea in Japan delicately plucked with gloved hands
+
+*2024-04-21 02:33:00* · [`islandlk`](http://island.lk/green-tea-in-japan-delicately-plucked-with-gloved-hands/) · `en`
+
+In spite of its technological advancement, perhaps as in no other Asian country, modern Japan still maintains close links with simple things of its past in several enduring forms. The commonest, to mention a few, are the tatami mat-covered floors in homes, tiny goblets of hot sake in winter, cold sake in summer, bamboo chopsticks, delicious tempura and of course green tea with its subtle flavour and aroma.
+
+The 121 million people in Japan are estimated to have consumed some 186 million kilograms of green tea in 1984 together with about 10 million kilograms of black tea imported from Sri Lanka, Indonesia and some other countries.
+
+...
+
+[Data](articles/d4af2a3b.json)
+
+---
 
 ### Sri Lanka’s Easter Bombings:  A Preventable Tragedy
 
@@ -55,6 +129,40 @@ One interesting fact that investigators discovered, Deshapriya said, was that a 
 ---
 
 ### 2024-04-20 (Saturday)
+
+### “The Michael Tissera Interview – with Ravi Rudra”
+
+*2024-04-20 22:47:00* · [`islandlk`](http://island.lk/the-michael-tissera-interview-with-ravi-rudra/) · `en`
+
+Ravi Rudra, presenting a Q and A with Michael Tissera in mid-December 2023, entitled
+
+Q 1: What was the major turning point in your cricketing career?
+
+“At school [S. Thomas College], I hardly scored runs consistently. Those days the school matches were played over two half-days and you looked to push the game along to get results. I got one only hundred while playing for College. The lack of big scores  was more mental than technique.
+
+However, in my first Sara trophy game for NCC (in 1958), which I was lucky to play because I was ill the whole week but captain Vernon Prins insisted that I play, I got a hundred against Saracens. That turned my whole career around. Following that century which gave me a lot of confidence I scored three or four centuries in that debut season and I got picked to play for Ceylon in December of that year against Peter May’s 1958 MCC team.”
+
+Q.2: As a Junior at College, who would you give credit for refining your technique and shaping you into a top cricketer?
+
+...
+
+[Data](articles/0ecd467d.json)
+
+---
+
+### Soldiering on in the teeth of post-July, 1983 challenges
+
+*2024-04-20 22:47:00* · [`islandlk`](http://island.lk/soldiering-on-in-the-teeth-of-post-july-1983-challenges/) · `en`
+
+(Excerpted from The Jetwing Story and the life of Herbert Cooray
+
+July 1983 saw the commencement of the darkest era in Sri Lanka’s modern history. Ethnic riots and the escalation of a hitherto low-intensity separatist insurgency caused widespread insecurity and instability, creating an atmosphere of anxiety and tension. The decade saw numerous attacks by the LTTE, the so-called ‘Tamil Tigers, on public landmarks and infrastructure, including the destruction of several aircraft belonging to the national airline, Air Lanka. Tourism all but collapsed. Sri Lanka’s magnificent east coast was rendered nearly inaccessible as Tigers and a short-lived Indian ‘peacekeeping force’ jockeyed for the upper hand.
+
+...
+
+[Data](articles/6db55ece.json)
+
+---
 
 ### Dambulla team owns to Bangladesh
 
@@ -123,6 +231,20 @@ The Perahera is the Kochchukade Shrine to the Mattakkuliya Bridge, Wattala Junct
 [Data](articles/1d266687.json)
 
 [Extended Data](ext_articles/1d266687.ext.json)
+
+---
+
+### The Grand Old Man of Karlsruhe Hill
+
+*2024-04-20 21:28:00* · [`islandlk`](http://island.lk/the-grand-old-man-of-karlsruhe-hill/) · `en`
+
+It has been said “Man can go to the moon and travel at the speed of sound but only God can make a tree”.
+
+Driving along the busy Baseline Road, when one sees the elegant sweep of the buildings at Wesley College one cannot miss the imposing and dignified Tamarind tree in the foreground. It is an emblem of Karlsruhe hill and has now become a local landmark. Tall and imposing this Tamarind tree has a legendary status. It is a stunningly beautiful tree in splendid isolation, framed by an even more beautiful background of the handsome school buildings.
+
+...
+
+[Data](articles/c0f2431a.json)
 
 ---
 
@@ -2081,155 +2203,5 @@ Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in 
 [Data](articles/78d844d7.json)
 
 [Extended Data](ext_articles/78d844d7.ext.json)
-
----
-
-### The mistake made by the People's Liberation Front is still being made today - Minister Manusha Nanayakkara
-
-*2024-04-20 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181487) · `ta`
-
-Minister Manusha Nanayakkara criticizes the People's Liberation Front's mistakes, highlighting the harm done by preventing youth from foreign employment. He emphasizes the Youth Training Scheme's aim to improve agricultural and construction skills, aiming to create a decent environment for mental health. The program aims to modernize the agricultural industry and promote social progress, addressing issues of youth unemployment and education.
-
-🟩
-
-Those who have come to save the country have taken over 60,000 young people's lives. But the Jupitual Liberation Front is still doing the harm done by preventing youth from going to foreign employment, said the Minister of Industry and Foreign Employment, Manusha Nanayakkara.
-
-He was speaking at the first residential training workshop for youth selected for employment opportunities in Israel on Friday (19) in the Umantawa Buddhist Global Global Global Village village.
-
-Youth Training Scheme is expected to improve comprehensive training and morale for those working in agriculture in Israel. The training will be provided here to win the challenges and successful after returning to the country after returning to the country.
-
-...
-
-[Data](articles/7bfbc056.json)
-
-[Extended Data](ext_articles/7bfbc056.ext.json)
-
----
-
-### Sehan Semasinghe - Martin Raiser Meeting
-
-*2024-04-20 00:40:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செஹான்-சேமசிங்க-மார்ட்டின்-ரைசர்-சந்திப்பு/175-336111) · `ta`
-
-Martin Raiser met with Sehan Semasinghe, World Bank VP, at the Annual Roundtable Conference in Washington DC. They discussed redemption and reforms for sustainable growth across sectors, including finance and private investment.
-
-🟩
-
-A discussion was held between Martin Raiser and Finance Minister Sehan Semasinghe, the Vice President of the World Bank.
-
-The meeting is part of the Annual Roundtable Conference, headed by the International Monetary Fund and the World Bank in Washington TC.
-
-Redemption and Reforms for Sustainable Growth for all sectors including financial sector and private investment have been discussed at this time.. (A)
-
-◼️
-
-[Data](articles/b238adbe.json)
-
-[Extended Data](ext_articles/b238adbe.ext.json)
-
----
-
-### Elderly body recovery
-
-*2024-04-20 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவர்-சடலமாக-மீட்பு/175-336110) · `ta`
-
-An elderly man was found dead in a Nuwara Eliya Police Division garden, recovered in the house's back bathroom last night.
-
-🟩
-
-An elderly man has been found dead in a broadcast garden belonging to the Nuwara Eliya Police Division.
-
-He was recovered in the bathroom in the back of the house last night, police said.
-
-◼️
-
-[Data](articles/c0d073a1.json)
-
-[Extended Data](ext_articles/c0d073a1.ext.json)
-
----
-
-### The beginning of the process of providing food
-
-*2024-04-20 00:19:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்-பொருட்கள்-வழங்கும்-பணி-ஆரம்பம்/175-336109) · `ta`
-
-The World Food Program initiated rice distribution for schools in Sri Lanka, aiming to combat iron deficiency. Supervised by the Director General of the Joint Secretariat for the World Food Program, 735 metric tonnes of rice were distributed yesterday at the Veyangoda Food Plant, with more to follow today.
-
-🟩
-
-According to the work of President Ranil Wickremesinghe, the distribution of rice to the schools through the World Food Program for the Posaka Food Project for School Students was inaugurated yesterday at the Veyangoda Food Plant.
-
-The distribution process is being carried out under the supervision of the Director General of the Joint Secretariat for the World Food Program under the Presidential Secretariat, which is aimed at reducing iron deficiency among schoolchildren.
-
-Accordingly, 735 metric tonnes of rice for schools at the provincial level began yesterday and the work will continue today.. Rice is distributed to schools under the supervision of the concerned provincial education department officials and public health inspectors. (A)
-
-◼️
-
-[Data](articles/ddd37eae.json)
-
-[Extended Data](ext_articles/ddd37eae.ext.json)
-
----
-
-### Distribution of fortified rice for school children begins
-
-*2024-04-20 00:14:26* · [`dailyftlk`](https://www.ft.lk/news/Distribution-of-fortified-rice-for-school-children-begins/56-760836) · `en`
-
-The distribution of fortified rice, provided by the World Food Program (WFP) on behalf of the program initiated under the instructions of President Ranil Wickremesinghe, to provide a nutritious meal for school students, began yesterday at the Veyangoda warehouse complex.
-
-In an effort to reduce iron deficiency among school children, fortified rice is provided for school meals. This distribution will be conducted under the supervision of Director General M.H.A.M. Riflan, of the Partnership Secretariat for World Food Programme Co-operation (PSWFPC), which operates under the purview of the Presidential Secretariat.
-
-As planned, the distribution of 735 metric tons of rice to provincial-level schools commenced today as part of the first phase and will continue tomorrow (20). This rice stock is being delivered to schools under the supervision of officials from the respective Provincial Departments of Education and Public Health Inspectors (PHIs).
-
-...
-
-[Data](articles/e5de1166.json)
-
-[Extended Data](ext_articles/e5de1166.ext.json)
-
----
-
-### NPP calls on Archbishop of Colombo
-
-*2024-04-20 00:13:56* · [`dailyftlk`](https://www.ft.lk/news/NPP-calls-on-Archbishop-of-Colombo/56-760835) · `en`
-
-Members of the National People’s Power (NPP) party met with Archbishop of Colombo Malcolm Cardinal Ranjith this week at his official residence to present the party’s recently issued charter which promises to deliver justice to victims of the Easter Sunday terror attacks under a NPP Government. The NPP delegation included Sunil Watagala, Upul Kumarapperuma, Harshana Nanayakkara, Krishantha Abeysena, Vijith Rohan Fernando, and Aruna Shantha Nonis.
-
-◼️
-
-[Data](articles/d38cd089.json)
-
-[Extended Data](ext_articles/d38cd089.ext.json)
-
----
-
-### DP Education sets up free of charge IT Campus in Akurana
-
-*2024-04-20 00:13:18* · [`dailyftlk`](https://www.ft.lk/news/DP-Education-sets-up-free-of-charge-IT-Campus-in-Akurana/56-760834) · `en`
-
-SLPP MP and founder of DP Education Dhammika Perera serves kiribath to a Muslim boy at the launch of DP Education IT Campus in Akurana on Thursday. Perera also inaugurated a DP Silicon Valley IT Office, DP Education Smart Class Rooms, a digital pre-school at the Konakalagal Sri Vijitha Maha Viharaya. To date over 130 IT Campuses have been set up by DP Education countrywide providing opportunities to learn software and coding for youth free of charge, as part of Perera’s philanthropic initiative.
-
-◼️
-
-[Data](articles/a9d0da0a.json)
-
-[Extended Data](ext_articles/a9d0da0a.ext.json)
-
----
-
-### Dr. A.T. Ariyaratne’s final journey today
-
-*2024-04-20 00:12:44* · [`dailyftlk`](https://www.ft.lk/news/Dr-A-T-Ariyaratne-s-final-journey-today/56-760833) · `en`
-
-The funeral of the Sarvodaya Shramadana Movement founder Dr. A.T. Ariyaratne with State honours will be held today at 4.00 p.m. at the Independence Square.
-
-His remains will lie at the Sarvodaya Headquarters, Damsak Mandira at 98, Rawatawatta Road, Moratuwa, till 12 noon today before being taken to the Independence square.
-
-Ariyaratne passed away on Tuesday after a brief illness at a private hospital. He was 92 years old at the time of his death.
-
-◼️
-
-[Data](articles/bb29fac3.json)
-
-[Extended Data](ext_articles/bb29fac3.ext.json)
 
 ---

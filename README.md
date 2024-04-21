@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 15:03:48**
+As of **2024-04-21 15:18:37**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 3,256
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,027 (100.0%) of 20,032 articles have been extended.
+20,032 (100.0%) of 20,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### ගෝඨාගේ ඇමතුමක් ගැන කාදිනල් හිමිගෙන් හෙළිදරව්වක්
+### Cardinal reveals about Gota's call
 
 *2024-04-21 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195835) · `si`
 
-පැවති රජය හා වත්මන් රජයද දිගින් දිගටම පාස්කු ප්‍රහාරයේ සත්‍යය යටපත් කිරීමට උත්සාහ ගන්නා බවට අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් විසින් චෝදනා කරයි.
+Cardinal Ranjith accuses the government of suppressing truth in the Passover attack. He criticizes the handling of the investigation, including the removal of officers involved. He condemns the government for protecting individuals and organizations involved, and for suppressing evidence.
 
-කාදිනල් රංජිත් හිමිපාණන් ඒ බව පවසා සිටියේ, පාස්කු ප්‍රහාරය එල්ලවී වසර 5 සැපිරීම වෙනුවෙන් කොච්චිකඩේ ශාන්ත අන්තෝනි සිද්ධස්ථානයේ පැවති ප්‍රධාන වැඩසටහනට එක් වෙමිනි.
+🟩
 
-"පාර්ලිමේන්තු තේරීම් කාරක සභාවේ සහ ජනාධිපති කොමිෂන් සභාවේ වාර්තා නිර්දේශ වන කරුණු ක්‍රියාත්ම කිරීමේ මූලික වශයෙන් පැවරුණේ ජනාධිපති ධුරයට පත් වූ ගෝඨාභය රාජපක්ෂ මහතා වෙතය. පාස්කු ප්‍රහාරය පිළිබඳ විනිවිද පෙනෙන පරීක්ෂණයක් පවත්වා ඒ ගැන සාධාරණය ඉටුකරන බවට සහතික වූ ඒ මහතා. ජනාධිපති කොමිෂන් සභා වාර්තාව, රටේ ජනාධිපති ලෙස පිළිගත් දිනට පසු දිනම දුරකථනයෙන් මා අමතමින් එසේ කිරීමට තමන්ට දුශ්කරතා ඇති බව සඳහන් කිරීම තුළත් එම නිර්දේශ ක්‍රියාත්මක කිරීමට යාම නිසා තමන්ට හිතවත් ඇතැම් සංවිධානවල නායකයින් අත්අඩංගුවට ගැනීමට යාම සහ ඔවුන්ගේ සංවිධාන තහනම් කිරීමට සිදුවීම තුළින් වාර්තාවේ ඉදිරිපත්කර ඇති නිර්දේශ තමන්ට ක්‍රියාත්මක කරන්න නොහැකි බවත් සඳහන්කළ අයුරු මට මතක් වේ."
+The latest Malcolm Cardinal Ranjith alleges that the government and the present government will continue to suppress the truth in the Passover attack.
+
+The Kadinal Ranjith said that this was the main program held at the St. Anthony's shrine in the Kochchikade St. Anthony's shrine.
+
+Gotabhaya Rajapaksa, who was primarily delegated in the election of the Parliamentary Select Committee and the Presidential Commission's records was vested in the presidency. He was assured to conduct a transparency test on the Passover attack and ensures justice. The report of the Presidential Commission to be implemented in the country after the presence of the recommendations on the phone, the recommendations made by the return of the recommendations and their organizations were recommended by the report to ban their organizations.I am reminded of how it is impossible. "
 
 ...
 
 [Data](articles/4604c1b1.json)
 
+[Extended Data](ext_articles/4604c1b1.ext.json)
+
 ---
 
-### නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට නොසන්සුන් තත්ත්වයක්
+### An unease in front of the Independence Party Headquarters
 
 *2024-04-21 14:26:41* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මූලස්ථානය-ඉදිරිපිට-නොසන්සුන්-තත්ත්වයක්/11-409185) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් අද පැවති විධායක කමිටු රැස්වීමෙන් පසු  කොළඹ ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය ඉදිරිපිට මේ වනවිට නොසන්සුන් තත්ත්වයක් ඇති වී තිබේ.
+"No restrictions at Sri Lanka Freedom Party HQ in Colombo, despite unease. This occurred after another SLFP team attempted entry."
 
-මෙම උණුසුම් තත්ත්වය ඇතිවී තිබෙන්නේ තවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ කණ්ඩායමක් එම මූලස්ථානයට ඇතුළු වීමට උත්සාහ කළ අවස්ථාවේදීය.
+🟩
+
+Former President Maithripala Sirisena, the executive committee meeting was held today, there was no restriction in front of the Sri Lanka Freedom Party Headquarters in Colombo.
+
+This warm situation has arisen when another SLFP team tried to enter the headquarters.
 
 ◼️
 
 [Data](articles/61ecb510.json)
+
+[Extended Data](ext_articles/61ecb510.ext.json)
 
 ---
 
@@ -870,6 +882,8 @@ The department said that this time was postponed to June 30, despite the last mo
 
 [Data](articles/465e41ee.json)
 
+[Extended Data](ext_articles/465e41ee.ext.json)
+
 ---
 
 ### Increase in dollar reserves and rupee value will enable vehicle imports: Siyambalapitiya
@@ -973,6 +987,8 @@ Perhaps there is no phrase of Karl Marx that is better known or more frequently 
 ...
 
 [Data](articles/45b11798.json)
+
+[Extended Data](ext_articles/45b11798.ext.json)
 
 ---
 
@@ -1589,6 +1605,8 @@ One of the most enchanting books I have read in recent times has to be “A Move
 ...
 
 [Data](articles/e57cdb3b.json)
+
+[Extended Data](ext_articles/e57cdb3b.ext.json)
 
 ---
 

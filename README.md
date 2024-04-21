@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 06:20:50**
+As of **2024-04-21 06:59:01**
 
 ## Newspaper Stats
 
-*Scraped **19,956** Articles*
+*Scraped **19,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,75 @@ islandlk | 1,076
 dailyftlk | 1,099
 economynextcom | 1,142
 adalk | 1,654
-tamilmirrorlk | 2,301
+tamilmirrorlk | 2,302
 adaderanalk | 2,392
 virakesarilk | 2,981
 dailymirrorlk | 3,110
-adaderanasinhalalk | 3,243
+adaderanasinhalalk | 3,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,947 (100.0%) of 19,956 articles have been extended.
+19,950 (100.0%) of 19,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### நுவரெலியாவில் மலர் கண்காட்சி ஆரம்பம்
+### අද පස්වරුවේ ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-04-21 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195823) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (21) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ, ඌව පළාතෙත් අනුරාධපුර, වව්නියා සහ මන්නාරම දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්ත්මේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7b95d8f9.json)
+
+---
+
+### சதொச ஊடாக வெங்காயம் இறக்குமதி
+
+*2024-04-21 05:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-ஊடாக-வெங்காயம்-இறக்குமதி/175-336116) · `ta`
+
+இலங்கைக்கான பெரிய வெங்காயம் ஏற்றுமதிக்கான தடையை நீக்குவதற்கு தீர்மானித்த இந்திய அரசாங்கம், பத்தாயிரம் மெற்றிக் தொன் பெரிய வெங்காயத்தை இலங்கைக்கு ஏற்றுமதி செய்ய அண்மையில் தீர்மானித்துள்ளது.
+
+வெங்காயத்தின் இருப்பு தனியார் துறையிலிருந்து இறக்குமதி செய்யப்படுவதா அல்லது அரச துறையிலிருந்து இறக்குமதி செய்யப்படுவதா என வர்த்தக மற்றும் நுகர்வோர் அலுவல்கள் அமைச்சு கலந்துரையாடியதுடன், இந்தியாவில் இருந்து பெரிய வெங்காயத்தை லங்கா சதொச ஊடாக இறக்குமதி செய்து விற்பனை செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+
+இதன்படி எதிர்வரும் இரண்டு வாரங்களில் 2000 மெற்றிக் தொன் வெங்காயம் முதல் கையிருப்பாக இறக்குமதி செய்யப்படும் என சதொச தலைவர் குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/de390325.json)
+
+---
+
+### Flower Exhibition Begins in Nuwara Eliya
 
 *2024-04-21 04:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-மலர்-கண்காட்சி-ஆரம்பம்/175-336115) · `ta`
 
-நுவரெலியா நகரில் வசந்த காலத்தையொட்டி வருடம் தோறும் நடைபெறும் மலர் கண்காட்சி நுவரெலியா மாநாகரசபை ஏற்பாட்டில் விக்டோரியா பூங்காவில் ஏற்பாடு செய்யப்பட்ட மலர் கண்காட்சி நேற்று (20)  உத்தியோகபூர்வமாக ஆரம்பித்து வைக்கப்பட்டது.
+Nuwara Eliya's Municipal Council inaugurated a two-day floral exhibition at Victoria Park, showcasing vegetable images and designs made from flowers. Notable attendees included CP Ratnayake, Kandy Indian High Commissioner S. S., and Nuwara Eliya Municipal Council members.
 
-ஏப்ரல் மாத வசந்த காலத்தில் ஒரு கட்டமாக வருடம் தோறும் குறித்த மலர் கண்காட்சி நடைபெறும் இரண்டு நாட்கள் தொடர்ந்து நடைபெறும் இம்மலர் கண்காட்சியில் விதவிதமான மலர்களை கொண்டு வடிவமைக்கப்பட்ட உருவ பொம்மைகள், மிருகங்களின் உருவம் காய்கறிளின் உருவம் என பல வடிவங்களில் உருவ அலங்காரங்களும் சுற்றுலா பயணிகளை கவரும் வகையில் அமைக்கப்பட்டுள்ளன.
+🟩
 
-நுவரெலியா மாநகர சபையின் ஏற்பாட்டில் ஒழுங்கு செய்யப்பட்ட இந்த மலர் கண்காட்சியில் பிரதம அதிதியாக முன்னாள் அமைச்சரும் பாராளுமன்ற உறுப்பினருமான சி.பி.ரத்நாயக்க மற்றும் கண்டி இந்திய உயர் ஸ்தானிகர் வைத்தியர் எஸ். அதிரா மற்றும் நுவரெலியா மாநகரசபை விசேட ஆணையாளர் திருமதி சுஜீவ போதிமான, முன்னாள் மாநகரசபை முதல்வர்கள் , நுவரெலியா சிரேஸ்ட பொலிஸ் அத்தியட்சகர்கள் மற்றும் மாநகரபை உறுப்பினர்களும் பொதுமக்களும் கலந்துகொண்டனர். (a)
+A floral exhibition organized by the Nuwara Eliya Municipal Council was officially inaugurated yesterday (20) at the Victoria Park.
+
+The two -day floral exhibition, which is held in the spring of April, is being held in many forms, such as the image of vegetables, and the image of vegetables designed by a variety of flowers.
+
+Former Minister and Member of Parliament CP Ratnayake and Kandy Indian High Commissioner S. S.. Special Commissioner of Athira and Nuwara Eliya Municipal Council Mrs. Sujeewa Bodhima, Former Municipal Council Chiefs, Nuwara Eliya Senior Superintendent and Municipal Council members and members of the Municipal Council were present.. (A)
 
 ◼️
 
 [Data](articles/15bc5006.json)
+
+[Extended Data](ext_articles/15bc5006.ext.json)
 
 ---
 
@@ -60,6 +100,8 @@ As Sri Lanka lurches into a New Year three months after January 1, then, this is
 
 [Data](articles/799a1d45.json)
 
+[Extended Data](ext_articles/799a1d45.ext.json)
+
 ---
 
 ### All things are impermanent
@@ -73,6 +115,8 @@ Rupa Jayasena gazed intently on the vista below, as she sat in the front veranda
 ...
 
 [Data](articles/3404ead2.json)
+
+[Extended Data](ext_articles/3404ead2.ext.json)
 
 ---
 
@@ -2157,51 +2201,5 @@ That historic conclave resulted in the launching  of  a new political party with
 [Data](articles/00325760.json)
 
 [Extended Data](ext_articles/00325760.ext.json)
-
----
-
-### Sri Lankan Tamil becomes first naturalised Indian citizen to vote in general election
-
-*2024-04-20 03:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Tamil-becomes-first-naturalised-Indian-citizen-to-vote-in-general-election/108-281070) · `en`
-
-Nalini Kirubakaran, a 38-year-old at the rehabilitation camp for Sri Lankan Tamils in Tiruchi, became the first naturalised Indian citizen from the Kottapattu camp to vote in a general election on Friday.
-
-It was a dream come true moment for Nalini on polling day as she would have never expected cameras following her from the refugee camp to the polling booth at MM Middle School, near the airport, where she cast her vote.
-
-“I don’t have words to express my feelings. Voting for the first time, I feel I have come out of my past now,” said Nalini.
-
-The journey from being a refugee in a land where she was born to becoming first member of her community to get voting rights took two years of legal battle as her application for an Indian passport was rejected by a regional passport office in 2021. In September 2022, Nalini had established before the Madras High Court that she was an Indian citizen.
-
-...
-
-[Data](articles/ea02523f.json)
-
-[Extended Data](ext_articles/ea02523f.ext.json)
-
----
-
-### Palitha Thevapperuma's Earth Body
-
-*2024-04-20 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181472) · `ta`
-
-Palitha Thevapperuma, former Minister of State, died from an electric shock in his garden. His body was held at Matugama Yatatolawatte, where political leaders paid tribute. He was buried in a grave he prepared while alive.
-
-🟩
-
-The body of the late former Minister of State Palitha Thevapperuma was held on Friday at Matugama Yatatolawatte.
-
-The body of Annar was placed in his residence in Matugama Yatatolawatte.
-
-Political leaders paid tribute to Annar's body, including Opposition Leader Sajith Pramedasa, former President Mahinda Rajapaksa, Sri Lanka Tamil National Alliance (TNA) parliamentarian and leader of the Tamil Progressive Alliance, Mano Ganesan.
-
-His body was buried in the grave he produced himself while Palitha Thevarapperuma was still alive.
-
-Palitha Devapperuma died on Tuesday (16) in an electric attack in his garden in Matugama. He was seen as a priority for social service.
-
-◼️
-
-[Data](articles/78d844d7.json)
-
-[Extended Data](ext_articles/78d844d7.ext.json)
 
 ---

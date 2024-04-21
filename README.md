@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 10:51:36**
+As of **2024-04-21 11:03:47**
 
 ## Newspaper Stats
 
-*Scraped **19,989** Articles*
+*Scraped **19,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,659
 tamilmirrorlk | 2,305
 adaderanalk | 2,395
 virakesarilk | 2,984
-dailymirrorlk | 3,114
-adaderanasinhalalk | 3,248
+dailymirrorlk | 3,115
+adaderanasinhalalk | 3,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,987 (100.0%) of 19,989 articles have been extended.
+19,989 (100.0%) of 19,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Sri Lanka confident of speedy debt resolution: Semasinghe
+
+*2024-04-21 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-confident-of-speedy-debt-resolution-Semasinghe/108-281078) · `en`
+
+Colombo, April 21 (Daily Mirror)- Sri Lanka remains steadfast in its commitment to reaching the debt restructuring targets and is confident of smooth progress in the continued good-faith engagements for a speedy debt resolution that will ensure debt sustainability and comparability of debt treatment, State Minister of Finance Shehan Semasinghe said.
+
+In a statement posted on X, he said it was heartening to note the widespread appreciation and support for Sri Lanka's debt restructuring process.
+
+The Minsiter said the International Monetary Fund and the World Bank Spring Meetings 2024 were successfully concluded today with positive outcomes achieved during these pivotal gatherings, which signify a renewed sense of determination and hope for Sri Lanka.
+
+...
+
+[Data](articles/ba720ff1.json)
+
+---
 
 ### IMF praises Sri Lanka for economic progress on sidelines of Spring Meetings 2024
 
@@ -49,6 +65,8 @@ Semasinghe also appreciated the IMF’s efforts to assist countries in debt dist
 ◼️
 
 [Data](articles/9bd5638c.json)
+
+[Extended Data](ext_articles/9bd5638c.ext.json)
 
 ---
 
@@ -70,21 +88,47 @@ Sri Lanka was left devastated on April 21, 2019 after a group of suicide attacke
 
 ---
 
-### සීයා, මිණිපිරිය හා මුණපුරා අනතුරින් මරුට
+### වතු සේවකයින් වර්ජනයකට සැරසෙයි
+
+*2024-04-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195828) · `si`
+
+තම දෛනික වැටුප් වැඩිකරන ලෙස ඉල්ලා වතු සේවකයින් හෙට (22) සිට වර්ජනයක් ආරම්භ කිරීමට සැලසුම් කර තිබේ.
+
+එම වැඩ වර්ජනයට දමිළ ප්‍රගතිශීලි සන්ධානය පුර්ණ සහයෝගය ලබාදෙන බව නුවරඑළිය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී පලනි දිගම්බරම් මහතා පැවසීය.
+
+වතු සේවකයින් ගේ දෛනික වැටුප රු 1,700 දක්වා වැඩි කරන ලෙසට ජනාධිපතිවරයා විසින් තේ වතු සමාගම්වලට උපදෙස් ලබා දී තිබිය දී එම වැටුප ලබාදිමට වතු සමාගම් එකඟතාවය පළ නොකිරිමට විරෝධය පළ කරමින් වැඩවර්ජනය සිදුකරන බව ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3b003f52.json)
+
+---
+
+### Grandpa dies after granddaughter and membapula accident
 
 *2024-04-21 09:32:19* · [`adalk`](https://www.ada.lk/breaking_news/සීයා--මිණිපිරිය-හා-මුණපුරා-අනතුරින්-මරුට/11-409178) · `si`
 
-ඇල්පිටිය අවිත්තාව ප්‍රධාන මාර්ගයේ කැටපළ ක්‍රිස්තු දේවස්ථානය ඉදිරිපිටදී ඊයේ (20) සවස ත්‍රී රෝද රථයක් හා කැන්ටර් රථයක් මුහුණට මුහුණ ගැටීමෙන් එක් අයෙකු එතැනම මියගොස් ඇති අතර දෙදෙනෙක් කරාපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇතැයි ඇල්පිටිය පොලිසිය පවසයි.
+A tragic accident involving a three-wheeler and a lorry in Elpitiya, Sri Lanka, resulted in the death of Kalinga Nihal Somaratne, a 68-year-old father, and injuries to three others. The deceased's daughter, Kalinga Jethigeriya Somaratne, and two children are receiving treatment. The driver of the lorry fled but later surrendered to police.
 
-අනතුරෙන් තුවාල ලැබූ තවත් තිදෙනෙකු ඇල්පිටිය මූලික රෝහලේ සහ කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන බවද පොලිසිය කියයි.
+🟩
 
-මෙම අනතුරෙන් මියගොස් ඇත්තේ ත්‍රීරෝද රථයේ රියදුරුවන ඇල්පිටිය,වල්ලඹගල, සුගතපාල මාවතේ පදිංචි කාලිංග නිහාල් සෝමරත්න නැමැති 68 හැවිරිදි තිදරු පියෙක් සහ ඔහුගේ (දියණියගේ පුතා සහ දුව )මුණුබුරා වන. තිනූල ප්‍රනාන්දු (10),මිණිබිරිය වන සෙනුලි ප්‍රනාන්දු (07), යන දරුවන් දෙදෙනායි.
+Elpitiya Va යුතුව Va යුතුව Vaatic
 
-ත්‍රීරෝද රථයේ ගමන් කරමින් සිටි මියගිය රියදුරුගේ බිරිඳ වන මද්දගේ වයලට් ඉන්ද්‍රානී (61) ඔහුගේ දියණිය වන කාලිංග ජීවනී සෝමරත්න (35),යන දෙදෙනාද දැනට ගාල්ල කරාපිටිය රෝහලේ ප්‍රතිකාර ලබන අතර ඔහුගේ මිණිබිරිය වන චතුනි කවිශා ප්‍රනාන්දු ((18) , ඇල්පිටිය මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+Three others who were injured in the accident are receiving treatment at the Elpitiya Base Hospital and Karapitiya Hospital.
+
+The deceased has been identified as Kalinga Nihal Somaratne, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father, a 68-year-old father of Sugathapala Mawatha, Elpitiya, Valembugala, Sugathapala Mawatha.. Thainula Fernando (10), Granuil Fernando (07), two children.
+
+His daughter of his daughter, Kalinga Jethigeriya Somaratne (35), is currently receiving treatment at the Karapitiya Hospital, the wife of the deceased driver.Is
+
+The victims were rushed to the Elpitiya Base Hospital, which had died on the Galle Karapitiya Hospital today (21), hospital sources said.
+
+The accident had occurred when the three-wheeler was traveling from Elpitiya to Vardato and the lorry had gone to Elpitiya and had stopped at a trip to a trip to the three-meters away and fled awayThe police said.
 
 ...
 
 [Data](articles/26a8b0c2.json)
+
+[Extended Data](ext_articles/26a8b0c2.ext.json)
 
 ---
 
@@ -2205,41 +2249,5 @@ Supporters left messages on the stream commending Onakoya as an inspiration.
 [Data](articles/5c1be563.json)
 
 [Extended Data](ext_articles/5c1be563.ext.json)
-
----
-
-### Man sets himself on fire outside Trump’s Manhattan hush money trial
-
-*2024-04-20 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98739/man-sets-himself-on-fire-outside-trumps-manhattan-hush-money-trial) · `en`
-
-A man has set himself on fire outside the court in Manhattan where former President Donald Trump’s hush-money trial is being held.
-
-The man doused himself in a liquid before throwing conspiracy-theory pamphlets into the air, police said.
-
-Mr Trump was in the building to attend jury selection, where he has had a security detail, but the former president left during the incident.
-
-Emergency officials said that court security had not been breached in the incident. The case, which had just completed alternate jury selection, resumed later in the afternoon. Opening statements are expected to begin on Monday.
-
-In a news conference, investigators said they had received a 911 emergency call at around 13:30 local time (18:30 BMT) telling them that a man had lit himself on fire.
-
-...
-
-[Data](articles/b9d289fd.json)
-
-[Extended Data](ext_articles/b9d289fd.ext.json)
-
----
-
-### Cultural dance event from Kataragam Dewalaya
-
-*2024-04-20 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Cultural-dance-event-from-Kataragam-Dewalaya/110-281061) · `en`
-
-The Ruhunu Maha Kataragam Dewalaya began a cultural dance event "The Rythms of Sri Lanka" for locals and tourists which will be held during every weekend. This event will help provide funds for the Apeksha Cancer Hospital in Maharagama. The event was held at the main entrance of the Dewalaya. Pix Nisal Baduge
-
-◼️
-
-[Data](articles/629a05d7.json)
-
-[Extended Data](ext_articles/629a05d7.ext.json)
 
 ---

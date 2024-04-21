@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 19:03:43**
+As of **2024-04-21 19:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,065 (100.0%) of 20,066 articles have been extended.
+20,066 (100.0%) of 20,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
 ...
 
 [Data](articles/9d586ee3.json)
+
+[Extended Data](ext_articles/9d586ee3.ext.json)
 
 ---
 

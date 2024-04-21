@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 04:18:31**
+As of **2024-04-22 04:33:42**
 
 ## Newspaper Stats
 
-*Scraped **20,110** Articles*
+*Scraped **20,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
-virakesarilk | 2,999
-dailymirrorlk | 3,133
+virakesarilk | 3,001
+dailymirrorlk | 3,135
 adaderanasinhalalk | 3,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,110 (100.0%) of 20,110 articles have been extended.
+20,112 (100.0%) of 20,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### The Iran-Israel conflict leaves Lanka at crossroads - EDITORIAL
+
+*2024-04-22 03:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Iran-Israel-conflict-leaves-Lanka-at-crossroads-EDITORIAL/172-281098) · `en`
+
+Israel’s misguided (as the US President chooses to call it) attack on the Iranian Consulate in Syria, the retaliatory strikes by Iran on Israel and counter-strikes by Israel on Iran have set West Asia (referred to as the Middle East by the US and the West) in flames. By these actions, the taboo against direct attacks on each other has now disappeared.
+
+If there is another round-a conflict over Iran’s nuclear advances or another strike by Israel on Iranian military officers- both sides will feel free to launch direct attacks on the other.
+
+Relations reached a point of no return on April 1, 2024 when an Israeli air strike destroyed the Iranian Consulate annex building in Syria killing 16 people, including a senior Quds Force Commander.
+
+...
+
+[Data](articles/12320624.json)
+
+---
+
+### Iran and Israel: From Allies to brink of major conflict
+
+*2024-04-22 03:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Iran-and-Israel-From-Allies-to-brink-of-major-conflict/172-281097) · `en`
+
+At one point, Prime Minister Yitzhak Rabin even referred to Iran as one  of Israel’s “best friends.” However, sentiments shifted rapidly, and  Rabin later characterized Ayatollah Khomeini’s regime as “dark” and  “murderous.”
+
+Global oil and gold prices surged, while stock markets plummeted, in the wake of reports that Israel had launched missiles at several sites in Iran.
+
+Iran and Israel were once close allies during the reign of the Shah, as they shared common geopolitical interests and concerns regarding Arab nationalism. However, with the establishment of the Islamic Republic following the 1979 Islamic Revolution and Ayatollah Khomeini’s rise to power,Khomeini severed diplomatic ties with Israel and adopted a firm anti-Zionist stance.
+
+...
+
+[Data](articles/d84b499b.json)
+
+---
+
+### Does the current government have a connection with the life -threatening Sunday attacks?Archbishop Malcolm Cardinal Ranjith
+
+*2024-04-22 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181610) · `ta`
+
+Archbishop Malcolm Cardinal Ranjith accuses the current government of covering up the Sunday attacks, despite promises to investigate. He criticizes the lack of action and the delay in implementing recommendations from the Presidential Investigation Commission. The situation has led to suspicions of government involvement and attempts to protect those implicated.
+
+🟩
+
+There is suspicion that the current government is involved in the lack of interest in carrying out investigations into the survival Sunday attacks and trying to cover up the facts.. Archbishop Malcolm Cardinal Ranjit Annagu said that if the current government has nothing to do with this, they will have no problems with the facts.
+
+The Archbishop, who said that the Catholic Council was in the wake of the Galle Face Demonstration, said that the Archbishop had completely refused the allegation made by the former President Gotabhaya Rajapakse, saying that his disability should be resolved and that it would be unreasonable.
+
+The Archbishop said this at a special commemoration ceremony held at St. Anthony's Thirumalai, Kochchikada, Colombo. He continued to speak there,
+
+St. Anthony's Correctional St. Anthony's Correctional, Negombo, St. Sebastian Thirumala, Batticaloa Seon Church, Batticaloa, Shankrila, Chinaman Grand and Kingsbury. These include 82 boys and 47 foreigners from 14 countries.
+
+...
+
+[Data](articles/166a94de.json)
+
+[Extended Data](ext_articles/166a94de.ext.json)
+
+---
+
+### 'Five years later'
+
+*2024-04-22 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181611) · `ta`
+
+Five years after the 2019 suicide bombings, special commemoration events were held across Sri Lanka, including at St. Anthony's Thirumalai, Kochchikada, and St. Sebastiyar Thirumalam, Batticaloa. A 2-minute silent tribute was paid at 8.45 am, and all churches were raised at 8.45 pm. The Vatican Ambassador to Sri Lanka, along with other dignitaries, attended. The event concluded with a prayer for peace.
+
+🟩
+
+Five years have passed since suicide bombings targeting Catholic churches and star hotels on April 21, 2019, April 21, 2019.. Special commemoration events were organized at St. Anthony's Thirumalam, Negombo - St. Sebastiyar Thirumalam, Batticaloa, and all Catholic churches across the country.
+
+At 8.30 am, the events began at St. Anthony's Thirumalai, Kochchikada, and a 2 -minute silent tribute was paid to the victims at 8.45 am.. All the churches in the country were raised at 8.45 pm and a silent tribute was made.
+
+Subsequently, the candle was mounted in front of the monument at the Kochikkadai Thiruthal, including the Archbishop leaders, foreign diplomats and relatives of the victims, including the Archbishop.. It is a special feature that the request for the name of 'the witnesses of faith' as 'witnesses of faith', in particular, has been submitted to the Archbishop.
+
+...
+
+[Data](articles/1c321d46.json)
+
+[Extended Data](ext_articles/1c321d46.ext.json)
+
+---
 
 ### Continue to restructure beyond politics - Nalin Fernando
 
@@ -2169,93 +2247,5 @@ The struggle and lack of equality that began as part of slavery in the colonial 
 [Data](articles/f0723783.json)
 
 [Extended Data](ext_articles/f0723783.ext.json)
-
----
-
-### Minister Wijeyadasa Rajapakshe appointed Acting Chairman of SLFP
-
-*2024-04-21 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98754/minister-wijeyadasa-rajapakshe-appointed-acting-chairman-of-slfp) · `en`
-
-Minister of Justice Wijeyadasa Rajapakshe has been appointed as the Acting Chairman of Sri Lanka Freedom Party (SLFP), sources told Ada Derana.
-
-This appointment has been made by the SLFP faction led by former President Maithripala Sirisena, who has been prevented by a court order from functioning as party chairman, during its executive committee meeting held in Athul Kotte today (21).
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
-
-Earlier in March, former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
-
-...
-
-[Data](articles/04591912.json)
-
-[Extended Data](ext_articles/04591912.ext.json)
-
----
-
-### Upcountry plantation workers launch strike; demand Rs. 1,700 daily wage
-
-*2024-04-21 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upcountry-plantation-workers-launch-strike-demand-Rs-1-700-daily-wage/108-281080) · `en`
-
-Hatton, April 21 (Daily Mirror)- Upcountry  plantation workers launched a strike and staged a protest today demanding that their daily wages be increased to Rs. 1,700.
-
-The plantation workers displayed black flags and wore back bands during their protest.
-
-Trade associations in Hatton, Kotagala, Bogawanthalawa, Dikoya and Maskeliya closed down their shops and displayed black flags in support of the strike action.
-
-The Ceylon Workers' Congress organised the trade union action and other trade unions such as the Tamil Progressive Alliance (TPA) extended their support to the strike.
-
-The protesting plantation workers claim that the plantation companies had not taken any steps to increase their wages despite massive profits earned by the companies.
-
-◼️
-
-[Data](articles/2ce9ec50.json)
-
-[Extended Data](ext_articles/2ce9ec50.ext.json)
-
----
-
-### Chief of Payagala arrested
-
-*2024-04-21 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195829) · `si`
-
-Payagala drug dealer arrested in Kalutara. Suspect, 48, had two phones hidden in underwear. Conducted drug racket via mobile.
-
-🟩
-
-"Payagala coin 'police," Payagara Selection ", an organized drug dealer, has been arrested by Payagala.
-
-The suspect was arrested by the Kalutara Crimes Division in the Kalutara Crimes Division in the Kalmuna area in Anuradhapura yesterday.
-
-The Kalutara Crimes Division has taken place in the Kalutara Crimes Division and two mobile phones were hidden in his underwear.
-
-It was revealed that the suspect was arrested and interrogated by "Payagala Select" from the Nuridaviya Kalutara Prison.
-
-Police said that the drug was conducting the drug racket through a mobile phone.
-
-The suspect had been conducted in areas such as ice drug racism, Payagala, Matugama, Hambantota, Kalutara and Kalutara.
-
-The suspect is a 48-year-old resident of Uya Wadugoda area.
-
-◼️
-
-[Data](articles/3452bd1b.json)
-
-[Extended Data](ext_articles/3452bd1b.ext.json)
-
----
-
-### Marking 5th anniversary of Easter Sunday attacks
-
-*2024-04-21 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Marking-5th-anniversary-of-Easter-Sunday-attacks/110-281079) · `en`
-
-Prayers were offered at the St. Anthony’s Shrine, Kochchikade, led by the Archbishop of Colombo, His Eminence Cardinal Malcolm Ranjith, to mark the fifth anniversary of the Easter Sunday bomb attacks and in commemoration of those whose lives were lost in the terrorist attacks. Meanwhile, another mass was held at the Tewatta Church in Ragama. Pix Nisal Baduge
-
-◼️
-
-[Data](articles/808ec09c.json)
-
-[Extended Data](ext_articles/808ec09c.ext.json)
 
 ---

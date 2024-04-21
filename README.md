@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 19:50:53**
+As of **2024-04-21 20:03:29**
 
 ## Newspaper Stats
 
-*Scraped **20,068** Articles*
+*Scraped **20,071** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 174
+colombotelegraphcom | 175
 bbccomsinhala | 209
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,673
+adalk | 1,675
 tamilmirrorlk | 2,317
 adaderanalk | 2,406
 virakesarilk | 2,989
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,264
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,066 (100.0%) of 20,068 articles have been extended.
+20,068 (100.0%) of 20,071 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,21 +42,29 @@ Sri Lanka’s fiscal landscape remains challenging as it continues to struggle w
 
 [Data](articles/a9df1b3b.json)
 
+[Extended Data](ext_articles/a9df1b3b.ext.json)
+
 ---
 
-### හෙට උෂ්ණත්වය අවධානය යොමු කළ යුතු මට්ටම දක්වා ඉහළට
+### Tomorrow to the level of focusing tomorrow
 
 *2024-04-21 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195843) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (22) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of continued high temperatures on the island tomorrow, focusing on Moneragala district and surrounding areas.
 
-උතුරු, උතුරු-මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණු සහ වයඹ පළාත්වලත් මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම "අවධානය යොමුකළ යුතු මට්ටමක" පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+The Meteorological Department says that the temperature in the island will continue to pay attention tomorrow (22).
+
+The Department of Moneragala will remain "focused on" in some places in the Moneragala district and the heat of the human body in the North, North-Central, Southern and Northwestern provinces.
+
+In the announcement issued by the Department, the rest of the shadows of the shade, which is sufficient in the shade, the rest of the shade, and the tightening situations of the open.
 
 ◼️
 
 [Data](articles/87f29456.json)
+
+[Extended Data](ext_articles/87f29456.ext.json)
 
 ---
 
@@ -81,6 +89,24 @@ Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
 [Data](articles/9d586ee3.json)
 
 [Extended Data](ext_articles/9d586ee3.ext.json)
+
+---
+
+### විශ්‍රාමික එස්අයිට දණ ගහන්න කියා රු ලක්ෂ 6ක මාලය කොල්ලකාලා
+
+*2024-04-21 18:30:27* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-එස්අයිට-දණ-ගහන්න-කියා-රු-ලක්ෂ-6ක-මාලය-කොල්ලකාලා/11-409188) · `si`
+
+විශ්‍රාමික උප පොලිස් පරීක්ෂකවරයාට දන ගසන්නයි අණකර ගෙලට මන්නා පිහියක් තබා මරණීය තර්ජනය කර රුපියල් ලක්ෂ 6 ක් පමණ වටිනා  රන්මාලය  කොල්ලකා නාඳුනන පුද්ගලයන් දෙදෙනෙක් යතුරුපැදියකින් පලාගොස් ඇතැයි හෝමාගම මූලස්ථාන පොලිසිය කියයි.
+
+පන්නිපිටිය කලල් ගොඩ ප්‍රදේශයේ පදිංචි විශ්‍රාමික උප පොලිස් පරීක්ෂකවරයා අවමංගල්‍ය නිවසකට ගොස් යතුරුපැදියෙන් පැමිණෙමින් සිටියදී බ්‍රාහ්මණගම වික්‍රමපුර  මාර්ගයේ යතුරුපැදිය  නවතා ගිමන් හරිමින් සිටියදී මෙම කොල්ලය සිදුවී ඇතැයි පොලිසිය කියයි.
+
+රතු පාටට හුරු යතුරු පැදියකින් පැමිණ තිබූ කොල්ලකරුවන් දෙදෙනාගෙන් පසුපස පැමිණි පුද්ගලයා උප පොලිස් අසලට පැමිණ  තර්ජනය කර ගෙල බැදි රන්මාලය කොල්ලකෑමෙන් අනතුරුව ඔහු පැළඳ සිටි අත් පළඳනාව කොල්ලකෑම සඳහා ". දන ගසපන් යනුවෙන් තර්ජනය කර ඇති අතර එම අවස්ථාවේදී උප පොලිස් පරීක්ෂකවරයා "යකෝ මම පොලිස් කාරයෙක් මම දන ගසන්නේ නැහැ යයි පවසා කොල්ලකරු සමග පොර බැඳීමත් සමගම කොල්ලකරු යතුරුපැදියේ නැගී පලා ගොස් ඇතැයි පොලිසිය සඳහන් කරයි.
+
+මෙම කොල්ලය වන අවස්ථාවේදී ඒ අසන්නේ තරුණයන්  රැසක් නිවසක් අසල රැඳී සිට ඇතත් කිසිදු පුද්ගලයෙකු පැමිණෙන නැතැයිද උප පොලිස් පරීක්ෂකවරයා පැවසීය.
+
+◼️
+
+[Data](articles/6d59118f.json)
 
 ---
 
@@ -298,6 +324,30 @@ Mark Anre, who has been charged with allegations against the former president an
 
 ---
 
+### දියතලාවේ මෝටර් රථ ධාවන තරගාවලිය අනතුරකින් 7ක් මරුට
+
+*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-7ක්-මරුට/9-409186) · `si`
+
+දියතලාව නරියාකන්ද  ධාවන පටයේදී පැවති ෆොක්ස්හිල්  සුපර් ක්‍රොස් මෝටර් රථ  තරගාවලිය අතරතුර සිදුවූ බිහිසුණු අනතුරින්  මියගිය සංඛ්‍යාව හත දක්වා ඉහළ ගොස් ඇති බව දියතලාව පොලිසිය පැවසීය.
+
+තුවාලකරුවන් විසි තුන්දෙනෙකු රෝහලට ඇතුළත් කළ අතර ඉන් හත් දෙනකු මිය ගොස් ඇති බවත්  හතර දෙනකු දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින බවත් රෝහල් ආරංචි මාර්ග පැවසීය.
+
+වයස අවුරුදු අටක දැරියක්ද තුවාලකරුවන් අතර සිටින බව ද රෝහල් ආරංචි මාර්ග සඳහන් කරයි. එම දැරිවිය වැලිමඩ ඩයරබා ප්‍රදේශයේ පදිංචි වන අතර  ඇගේ සියාද මියගිය  අය අතර සිටින බවටද තොරතුරු අනාවරණය වී තිබේ.
+
+මියගිය  සෙසු අය ඇඹිලිපිටිය, මාතර වැලිමඩ ප්‍රදේශවල පදිංචි වී සිටි අය බවටද තහවුරු නොකළ වාර්තාවල සඳහන් වේ.
+
+වැඩිදුර ප්‍රතිකාර අවශ්‍ය තුවාලකරුවන් කිහිප දෙනෙකු බදුල්ල ශික්ෂණ රෝහලට මාරු කර යැවූ බවද රෝහල් ආරංචි මාර්ග පැවසීය .
+
+දිවයිනේ විවිධ ප්‍රදේශවලින්  පැමිණි පිරිස් සහ තරග සහයක නිලධාරීන්ද  මිය ගිය සහ තුවාල කරුවන් අතර  සිටින බවද පොලිසිය පැවසීය.
+
+දියතලාව  යුද හමුදා විද්‍යාපීථය හා ශ්‍රී ලංකා මෝටර් රථ ක්‍රීඩා කමිටුව  ඒකාබද්ධව මෙම තරගාවලිය සංවිධානය කර තිබුණි.
+
+...
+
+[Data](articles/3460bb87.json)
+
+---
+
 ### 6 killed in race in Diyatalawa
 
 *2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-6ක්-මරුට/9-409186) · `si`
@@ -409,6 +459,8 @@ According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurre
 The injured have been admitted to the Diyatalawa Base Hospital.
 
 According to hospital sources, the condition of some of the injured is critical.
+
+In light of the mishap, the rest of the races at the event have been cancelled.
 
 ◼️
 
@@ -729,6 +781,18 @@ Adding to the intrigue, Minister of Justice Wijeyadasa Rajapakshe was appointed 
 [Data](articles/6f285be9.json)
 
 [Extended Data](ext_articles/6f285be9.ext.json)
+
+---
+
+### Iran-Israeli Tit For Tat, India’s Vote Marathon & Lanka’s Long Election Eve
+
+*2024-04-21 14:08:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/iran-israeli-tit-for-tat-indias-vote-marathon-lankas-long-election-eve/) · `en`
+
+The BBC called it “an audible sigh of relief.” That was after Israeli chose to have a measured last word on Friday, April 19, in the mutual deterrence back and forth, and Iran chose to downplay it as insignificant and a defeat for the enemy. The last word was delivered by way of mild strikes targeting Iran’s military installations in two Iranian cities and in south Syria. The recent spat began with Israel’s unprovoked April 1st airstrike on Iran’s consulate building in Damascus, Syria, that killed seven of Iran’s elite Quds Force officers. Within two weeks Iran responded with a spectacle of drone and missile attacks against Israel.
+
+...
+
+[Data](articles/21da8ac5.json)
 
 ---
 
@@ -2177,65 +2241,5 @@ Amana Takaful emerges as the most awarded insurance company in Lanka for 2023
 [Data](articles/62c9c3ab.json)
 
 [Extended Data](ext_articles/62c9c3ab.ext.json)
-
----
-
-### Showers in several areas this afternoon
-
-*2024-04-21 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195823) · `si`
-
-Showers expected in Western, Sabaragamuwa, Central, and North Western Provinces, Galle, and Matara districts today. Meteorology warns of thunderstorms in Batticaloa, Vavuniya, and Mannar districts. Take precautions for wind and lightning.
-
-🟩
-
-The Galle and Matara districts will be held today (21) in the Western, Sabaragamuwa, Central and North Western Provinces.. The Department of Meteorology says that there will be showers at several places about 2.00.
-
-Showers or thundershowers will occur at several places in the Batticaloa, Vavuniya and Mannar districts in Anuradhapura, Vavuniya and Mannar districts in the Uva Province.
-
-The Department of Meteorology announced that in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Department of Meteorology announced.
-
-The Department of Meteorology requests the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7b95d8f9.json)
-
-[Extended Data](ext_articles/7b95d8f9.ext.json)
-
----
-
-### Sun Siyam Pasikudah celebrates Sinhala and Tamil New Year
-
-*2024-04-21 06:02:00* · [`islandlk`](http://island.lk/sun-siyam-pasikudah-celebrates-sinhala-and-tamil-new-year/) · `en`
-
-Sun Siyam Pasikudah marked the dawn of the Sinhala and Tamil New Year with a display of fireworks, joined by in-house guests and staffs together with the management. The day was filled with various New Year games, such as Eye on the Elephant (Aliyata Asa Thabeema), Break the Pot (Vasana Muttiya Bindeema), Tug of War (Kamba Andeema), Musical Chair (Sangeetha Putu Tharangaya), Sack Race (Goni Race), Feeding Yoghurt (Yoghurt kaveema), Pop the Balloon (Balloon Pipireema), among others.
-
-Sun Siyam Pasikudah, part of the Sun Siyam Resorts based in the Maldives is highly ambitious and positive that Sri Lanka will keep experiencing a surge in tourists, and shared that the resort is proud to be a part of this journey including attracting locals to visit the East. The country has welcomed over 600,000 tourists as of end March, generating revenue of USD 1.025 billion.
-
-CEAT Kelani launches three new radial tyre variants in ‘Orion Brawo’ range
-
-...
-
-[Data](articles/55bc747b.json)
-
-[Extended Data](ext_articles/55bc747b.ext.json)
-
----
-
-### ComBank appoints new Chairman and Deputy Chairman
-
-*2024-04-21 06:01:00* · [`islandlk`](http://island.lk/combank-appoints-new-chairman-and-deputy-chairman-2/) · `en`
-
-Top investment banker Sharhan Muhseen and financial services professional Raja Senanayake to lead the Board of country’s largest private sector bank
-
-Commercial Bank of Ceylon PLC has announced the appointment of top international investment banker Mr Sharhan Muhseen as Chairman, and financial services professional Mr Raja Senanayake as Deputy Chairman, effective Monday, April 22, 2024.
-
-Muhseen, previously Deputy Chairman of the Bank, succeeds Prof. Ananda Jayawardane as Chairman upon the latter’s retirement, and Senanayake, a non-executive director, fills the vacancy created by Muhseen’s elevation to the position of Chairman of the Bank.
-
-...
-
-[Data](articles/0c696d37.json)
-
-[Extended Data](ext_articles/0c696d37.ext.json)
 
 ---

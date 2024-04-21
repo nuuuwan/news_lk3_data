@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 10:04:40**
+As of **2024-04-21 10:18:39**
 
 ## Newspaper Stats
 
-*Scraped **19,984** Articles*
+*Scraped **19,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,082
 dailyftlk | 1,099
 economynextcom | 1,143
-adalk | 1,657
+adalk | 1,658
 tamilmirrorlk | 2,305
-adaderanalk | 2,393
+adaderanalk | 2,394
 virakesarilk | 2,984
 dailymirrorlk | 3,114
 adaderanasinhalalk | 3,248
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,984 (100.0%) of 19,984 articles have been extended.
+19,984 (100.0%) of 19,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Sri Lanka marks 5 years since deadly Easter Sunday attacks
+
+*2024-04-21 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98750/sri-lanka-marks-5-years-since-deadly-easter-sunday-attacks) · `en`
+
+All the churches across the island observed a two-minutes silence to mark the fifth anniversary of the deadly terror attacks on Easter Sunday (April 21) in 2019.
+
+This moment of silence was held at 08.45 a.m. today in remembrance of those who lost their lives in the tragic bombings, according to the communications unit of the Archdiocese of Colombo.
+
+Sri Lanka was left devastated on April 21, 2019 after a group of suicide attackers of the now-outlawed local Islamic extremist organization National Thowheed Jamaat (NTJ) carried out a series of coordinated bomb blasts at St. Anthony’s Church in Kochchikade, St. Sebastian’s Church in Katuwapitiya, Zion Church in Batticaloa, Cinnamon Grand, Kingsbury and Shangri-La hotels in Colombo and a guest house in Dehiwala, leaving more than 260 people including foreigners dead and at least 500 people injured.
+
+◼️
+
+[Data](articles/212e11b0.json)
+
+---
 
 ### Increase in dollar reserves and rupee value will enable vehicle imports: Siyambalapitiya
 
@@ -117,6 +133,24 @@ Spokesperson Dimitri Pescov stated that the package is enriched by this package 
 [Data](articles/17772fac.json)
 
 [Extended Data](ext_articles/17772fac.ext.json)
+
+---
+
+### සීගිරි හා දඹුලු සංචාරක කලාප සංවර්ධන ව්‍යාපෘති නිම කිරීමට කාලයක් දෙයි
+
+*2024-04-21 08:20:23* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරි-හා-දඹුලු-සංචාරක-කලාප-සංවර්ධන-ව්‍යාපෘති-නිම-කිරීමට-කාලයක්-දෙයි/11-409172) · `si`
+
+සීගිරි හා දඹුලු සංචාරක කලාප සංවර්ධන ව්‍යාපෘති වසරේ තුන්වැනි කාර්තුවට පෙර නිම කිරීමට උපදෙස්
+
+සීගිරිය සහ දඹුල්ල සංචාරක කලාප ලෙස සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ මූලික සැලසුම් මෙම වසරේ තුන්වැනි කාර්තුවට පෙර අවසන් කරන ලෙසට නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් නිළධාරීන්ට පෙරේදා (19) උපදෙස් ලබා දුන්නේය.
+
+මෙම ව්‍යාපෘතියේ නාගරික පහසුකම් සැපයීමේ පහසුකම වෙනුවෙන් මුදල් අමාත්‍යංශය විසින් කමිටුවක්ද පත්කර තිබේ.
+
+අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසන්නේ මේ ව්‍යාපෘතිය ක්‍රියාත්මක කෙරෙන්නේ නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ තිරසර නාගරික සංවර්ධන ව්‍යාපෘතිය යටතේ බවයි. 2019 වසරේදී ආරම්භ කෙරුණු මේ ව්‍යාපෘතිය රටේ ඇති වූ කොවිඩ් වසංගතය සහ ආර්ථික අර්බුදය හේතුවෙන් තාවකාලිකව නතර කෙරිණි.
+
+...
+
+[Data](articles/86ac6a5a.json)
 
 ---
 
@@ -2207,41 +2241,5 @@ Doctors said the mother and the infant were getting on well.
 [Data](articles/77784fb1.json)
 
 [Extended Data](ext_articles/77784fb1.ext.json)
-
----
-
-### Final rites of Dr. Ariyaratne to be performed this evening
-
-*2024-04-20 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98738/final-rites-of-dr-ariyaratne-to-be-performed-this-evening) · `en`
-
-The final rites of the late Dr. A. T. Ariyaratne, the founder and the President Emeritus of the Sarvodaya Shramadana Movement of Sri Lanka, will be performed today (20) with full state honours.
-
-Sri Lankabhimanya Ahangamage Tudor Ariyaratne passed away on 16 April, at the age of 93. He was receiving treatment at a private hospital in Colombo.
-
-Following his demise, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and the officials of Sarvodaya convened a meeting to discuss the funeral arrangements. During the meeting, the Secretary to the Ministry of Home Affairs, Public Administration & Provisional Councils, Pradeep Yasaratne was instructed to see to it that the final rites of the late Dr. Ariyaratne are performed with full state honours.
-
-...
-
-[Data](articles/ab468eb7.json)
-
-[Extended Data](ext_articles/ab468eb7.ext.json)
-
----
-
-### Prince Harry, now calls himself a U.S. resident
-
-*2024-04-20 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prince-Harry-now-calls-himself-a-U-S-resident/108-281055) · `en`
-
-London, April 20 (Washington Post) - It’s official: Prince Harry, the fifth in line to the British throne, considers himself a U.S. resident.
-
-Documents filed on Wednesday at Companies House, a registry of British company information, show that Harry, using his full name of Prince Henry Charles Albert David Duke of Sussex, has listed the United States as his “New Country/State Usually Resident,” changing his primary residence from the United Kingdom.
-
-The Duke and Duchess of Sussex have not lived in the United Kingdom for years, having decamped to California in 2020 after stepping back from royal duties. They live in Montecito with their two children, Prince Archie and Princess Lilibet.
-
-...
-
-[Data](articles/824d98da.json)
-
-[Extended Data](ext_articles/824d98da.ext.json)
 
 ---

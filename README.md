@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 23:52:55**
+As of **2024-04-22 00:03:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,091 (100.0%) of 20,092 articles have been extended.
+20,092 (100.0%) of 20,092 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -271,6 +271,8 @@ Sri Lanka’s Newsfirst television said Marshalls were waving flags to caution o
 ◼️
 
 [Data](articles/ba47c678.json)
+
+[Extended Data](ext_articles/ba47c678.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 02:34:05**
+As of **2024-04-22 02:49:48**
 
 ## Newspaper Stats
 
-*Scraped **20,105** Articles*
+*Scraped **20,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,146
 adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
-virakesarilk | 2,994
+virakesarilk | 2,999
 dailymirrorlk | 3,133
 adaderanasinhalalk | 3,267
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,105 (100.0%) of 20,105 articles have been extended.
+20,105 (100.0%) of 20,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### அரசியலுக்கு அப்பாற்பட்ட வகையில் மறுசீரமைப்புக்களை தொடர வேண்டும் - நளின் பெர்னாண்டோ
+
+*2024-04-22 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181609) · `ta`
+
+நாட்டின் பொருளாதார நிலைமை தொடர்பில் பகிரங்க விவாதத்தை நடத்த முடியாதவர்கள் எவ்வாறு பொருளாதார பாதிப்புக்கு நிலையான தீர்வினை காண்பார்கள் என்பதை மக்கள் சிந்திக்க வேண்டும்.தற்போதைய மறுசீரமைப்புக்களை அரசியலுக்கு அப்பாற்பட்ட வகையில் முன்கொண்டு செல்ல வேண்டும் என  வர்த்தக, வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நளின் பெர்ணான்டோ தெரிவித்தார்.
+
+பாரிய பொருளாதார நெருக்கடியிலிருந்து மீண்டுள்ளோம். பொருளாதாரம்,அரசியல் மற்றும் சமூக கட்டமைப்பு என்பன பாரிய சவால்களை எதிர்க்கொண்டிருந்த போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க அரசாங்கத்தைப் பொறுப்பேற்றார்.நாட்டின் சட்டம் மற்றும் ஒழுங்கை நிலைநாட்டினார்.அதனை தொடர்ந்து எரிபொருள்,எரிவாயுவுக்கான வரிசை யுகத்தை முடிவுக்கு கொண்டு வந்தார்.
+
+நாட்டின் நிதி நிலைமை ஸ்திரப்படுத்தப்பட்டதன் பின்னர் மக்களின் வாழ்க்கை இயல்பு நிலைக்குத் திரும்பியுள்ளது.அத்தியாவசிய பொருட்களின் விலைகளும் குறைக்கப்பட்டுள்ளன.இனி வரும் காலங்களிலும் அத்தியாவசிய பொருட்களின் விலைகள் குறைக்கப்படும்.
+
+...
+
+[Data](articles/5892a857.json)
+
+---
+
+### பொலிஸார் சட்டத்தை கையிலெடுத்துள்ளனர் உயர்நீதிமன்றத்தில் முன்னிலையாவதற்கு தயாராகுங்கள் - அமைச்சர் விஜேதாச ராஜபக்ஷ
+
+*2024-04-22 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181608) · `ta`
+
+ஸ்ரீலங்கா சுதந்திர கட்சியின் பதில் தவிசாளராக நியமிக்கப்பட்டதையடுத்து, உத்தியோகபூர்வமாக கடமைகளை பொறுப்பேற்பதற்கு எனக்கு அனுமதி மறுக்கப்பட்டுள்ளது. யாரோ ஒரு தரப்பினரின் கைப்பாவையாக செயற்படும் பொலிஸார் சட்டத்தை கையிலெடுத்துள்ளனர். உயர்நீதிமன்றத்தில் முன்னிலையாவதற்கு தயாராக இருக்குமாறு அவர்களை எச்சரிப்பதாக அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+
+சு.க. தவிசாளராக நியமிக்கப்பட்டதைத் தொடர்ந்து கொழும்பு, டாலி வீதியில் அமைந்துள்ள கட்சி தலைமையகத்துக்கு சென்ற போது ஏற்பட்ட பதற்ற நிலைமையின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+
+பதில் தவிசாளராக நியமனம் வழங்கப்பட்டதையடுத்து, எமது பணிகளை ஆரம்பிப்பதற்காகவே கட்சி தலைமையகத்துக்கு வருகை தந்தோம். எனினும் கட்சி தலைமையகத்தின் பிரதான நுழைவாயில் மூடப்பட்டுள்ளது. இங்கு விசாரணைகள் இடம்பெற்றுக் கொண்டிருப்பதால் உட்செல்ல அனுமதிக்க முடியாது என்று பொலிஸ் உத்தியோகத்தர் ஒருவர் குறிப்பிடுகின்றார்.
+
+...
+
+[Data](articles/89e3ade2.json)
+
+---
+
+### படுகொலை செய்யப்பட்ட கிளிபாதரின் 16 ம் ஆண்டு நினைவேந்தல் உணர்வுப் பூர்வமாக அனுஷ்டிப்பு
+
+*2024-04-22 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181607) · `ta`
+
+தமிழ் மக்களின் மனங்களில் என்றும் வாழும் படுகொலை செய்யப்பட்ட கிளிபாதரின் 16 ம் ஆண்டு  நினைவேந்தல் நிகழ்வு  சனிக்கிழமை (20) வவுனிக்குளம் பகுதியில் உணர்வுப் பூர்வமாக நடைபெற்றது.
+
+20.04.2008 அன்று முல்லைத்தீவு மாவட்டத்தின் மல்லாவி வன்னிவிளாங்குளம் அம்பாள்புரம் 6 ம் கட்டை பகுதியில் ஸ்ரீலங்கா இராணுவத்தினரின் ஆழ ஊடுருவும் அணியின் கிளைமோர் தாக்குதலில் படுகொலை செய்யப்பட்ட சேவியர் கருணாரட்ணம் அடிகளார்  (கிளி பாதர்) அவர்களின் 16 ம் ஆண்டு நினைவேந்தல் நிகழ்வு சனிக்கிழமை (20) வவுனிக்குளம் அன்னை வேளாங்கண்ணி ஆலயத்தில் உணர்வுப்பூர்வமாக இடம்பெற்றிருந்தது.
+
+குறித்த நிகழ்வில் மன்னார் மறைமாவட்ட தாழ்வுப் பாட்டு பங்குத்தந்தை அருட்பணி பெப்பி சோசை  அடிகளார் அவர்களின் தலைமையில் இரங்கல் திருப்பலி ஒப்புக்கொடுக்கப்பட்டது விசேட வழிபாடுகள் நடைபெற்றது.
+
+இதேவேளை  யுத்தத்தில் சரணடைந்து காணாமல் ஆக்கப்பட்ட பிரான்சிஸ் ஜோசப் அடிகளாருக்காகவும் அவருடன்  காணாமல் ஆக்கப்பட்ட மக்களுக்காகவும் உயிரிழந்த உறவுகளுக்காகவும் மன்றாடப்பட்டது.
+
+...
+
+[Data](articles/fb44ddd8.json)
+
+---
 
 ### Pro-Sirisena faction appoints Wijeyadasa as SLFP Acting Chairman
 
@@ -177,6 +227,36 @@ Brown & Company’s Digital Transformation Solutions Strategic Business Unit rec
 [Data](articles/c16a84c3.json)
 
 [Extended Data](ext_articles/c16a84c3.ext.json)
+
+---
+
+### ஈஸ்டர் தாக்குதலில் தொடர்புடையவர்கள் குறித்து விசாரணை நடத்துவதாக ஜே. வி. பி உறுதியளித்துள்ளமை நகைப்புக்குரியது - பிரசன்ன ரணதுங்க
+
+*2024-04-22 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181606) · `ta`
+
+...
+
+[Data](articles/6f24d238.json)
+
+---
+
+### குறைந்த மொத்த எண்ணிக்கைகளைக் கொண்ட போட்டியில் பஞ்சாபை வீழ்த்தியது குஜராத்
+
+*2024-04-22 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181605) · `ta`
+
+மொஹாலி, மல்லன்பூர் மகாராஜா யாதவேந்த்ரா சிங் சர்வதேச விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (21) நடைபெற்ற  38ஆவது இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் பஞ்சாப் கிங்ஸை 3 விக்கெட்களால் குஜராத் டைட்டன்ஸ் வெற்றிகொண்டது.
+
+குறைந்த மொத்த எண்ணிக்கைகள் பெறப்பட்ட இந்தப் போட்டியில் 5 பந்துகள் மாத்திரம் மீதமிருந்த நிலையிலேயே குஜராத் டைட்டன்ஸ் வெற்றிபெற்றது.
+
+சாய் கிஷோரின் 4 விக்கெட் குவியல், நூர் அஹ்மதின் துல்லியமான பந்துவீச்சு, ராகுல் தெவாட்டியாவின் அதிரடி துடுப்பாட்டம் என்பன குஜராத்தின் வெற்றியில் பிரதான பங்காற்றின.
+
+143 ஓட்டங்கள் என்ற சுமாரான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் 19.1 ஓவர்களில் 7 விக்கெட்களை இழந்து 146 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+ஆரம்ப விரர் ரிதிமான் சஹா 13 ஓட்டங்களை மாத்திரம் பெற்று ஆட்டம் இழந்தார். அத்துடன் பவர் ப்ளே ஓவர் நிறைவில் குஜராத் டைட்டன்ஸ் ஒரு விக்கெட்டை இழந்து 45 ஓட்டங்களை மாத்திம் பெற்றிருந்தது.
+
+...
+
+[Data](articles/c1126870.json)
 
 ---
 
@@ -2133,121 +2213,5 @@ Prayers were offered at the St. Anthony’s Shrine, Kochchikade, led by the Arch
 [Data](articles/808ec09c.json)
 
 [Extended Data](ext_articles/808ec09c.ext.json)
-
----
-
-### Widespread support for Sri Lanka debt workout, reform progress at IMF/WB meet: Minister
-
-*2024-04-21 11:30:00* · [`economynextcom`](https://economynext.com/widespread-support-for-sri-lanka-debt-workout-reform-progress-at-imf-wb-meet-minister-159584/) · `en`
-
-ECONOMYNEXT – There was widespread support for Sri Lanka’s debt restructuring and acknowledgement of progress made under an International Monetary Fund program, at meeting of the fund and World Bank, State Minister for Finance Shehan Semasinghe said.
-
-“The strides made in our economic recovery and financial stability have been acknowledged as significant advancements towards our country’s prosperity by our stakeholders and international partners,” Minister Semasinghe said in an x.com (twitter) post after attending the meetings.
-
-“Further, it was heartening to note the widespread appreciation and support for Sri Lanka’s debt restructuring process.
-
-“We remain steadfast in our commitment to reaching the restructuring targets and confident of smooth progress in the continued good-faith engagements for a speedy debt resolution that will ensure debt sustainability and comparability of debt treatment.”
-
-...
-
-[Data](articles/caae9430.json)
-
-[Extended Data](ext_articles/caae9430.ext.json)
-
----
-
-### Sri Lanka’s Vedda popn shares genetic link with ethnic Indians
-
-*2024-04-21 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98752/sri-lankas-vedda-popn-shares-genetic-link-with-ethnic-indians) · `en`
-
-In a landmark study published recently in the journal Mitochondrion, 10 researchers from five institutions -- including Banaras Hindu University, Varanasi; University of Colombo, Sri Lanka; CSIR-Centre for Cellular and Molecular Biology, Hyderabad; University of Bern, Switzerland; and Postgraduate Institute of Archaeology, University of Kelaniya, Colombo -- unveiled significant findings regarding the genetic history of the Vedda population, an indigenous group of Sri Lanka.
-
-The study, which involved a comprehensive analysis of high-resolution autosomal and mitochondrial genomes, sheds new light on the initial peopling of Sri Lanka and the ancient genetic ties between the Vedda and other populations in Asia. The key findings from the research indicate that despite the lack of close linguistic similarities, the Vedda people share a significant genetic link with the ethnic populations in India.
-
-...
-
-[Data](articles/d494a3e3.json)
-
-[Extended Data](ext_articles/d494a3e3.ext.json)
-
----
-
-### The reason for the lack of crime
-
-*2024-04-21 11:14:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குற்றச்சம்பவங்களின்-குறைவிற்கு-யுக்தியவே-காரணம்/175-336122) · `ta`
-
-In 2024, crimes and road accidents during Sinhala and Tamil New Year decreased compared to 2023. Jewelry incidents fell from 29 to 23, and police work disruptions from 9 to 7. The police attributed this to a country-wide strategy, with the Inspector General of Police directing intensified efforts against drugs and underworld crimes, aiming to implement criminal prevention programs within three months.
-
-🟩
-
-Compared to 2023, this year, the number of crimes and road accidents reported in police stations during the Sinhala and Tamil New Year has declined, according to a police report.
-
-This was followed by an investigation into the crimes and traffic accidents reported from April 1024 to 17 April 2024 compared to the same period last year.
-
-Accordingly, compared to 2023, in the 08 days of the April 2024,
-
-Complaints relating to jewelery incidents have fallen from 29 to 23.
-
-In case of disruption of the work of police officers, the 9 to 7 has decreased.
-
-Compared to last year, police said that this year's crime has been drastically reduced during the New Year.
-
-The police headquarters added that this was the reason for the strategy of the country.
-
-...
-
-[Data](articles/e2a115fc.json)
-
-[Extended Data](ext_articles/e2a115fc.ext.json)
-
----
-
-### The court's freedom of the Maithri side
-
-*2024-04-21 11:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றம்-செல்வது-மைத்திரி-தரப்பினரின்-சுதந்திரம்/175-336121) · `ta`
-
-Duminda Dissanayake, Freedom Party organizer, supports the Maithri faction's right to challenge political committee violations in court, emphasizing the party's commitment to rebuilding and renovation.
-
-🟩
-
-Duminda Dissanayake, the national organizer of the Freedom Party and a Member of Parliament of the Freedom Party, said that the court's freedom of their Maithri faction and we cannot impose obstacles.
-
-He said this while commenting on the fact that former Chairman Maithripala Sirisena's parties went to court on the violation of the political committee.
-
-We have made new choices in accordance with the rules of the party. If they seek a court against it, we cannot put up obstacles. Going to the court is their freedom.
-
-The party's supporters are still with the party for us. They were dissatisfied with the activities of party leadership. Therefore, they want to renovate such people together with the party.
-
-We have taken the relevant measures in that way. We will take part in the process of rebuilding the party in the coming years.
-
-◼️
-
-[Data](articles/b5feab9b.json)
-
-[Extended Data](ext_articles/b5feab9b.ext.json)
-
----
-
-### Ice drug
-
-*2024-04-21 10:53:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-போதைப்பொருள்-வைத்திருந்தவர்களுக்கு-விளக்கமறியல்/175-336120) · `ta`
-
-Four, including two Sri Lankan Navy Lieutenant Commanders, arrested for possessing 'ICE' drug. Detained until April 26 for investigation. Mulleriyawa Police seized 510 grams of Ice, valued at Rs. 7.5 million.
-
-🟩
-
-Following the arrest of four people, including two Sri Lankan Navy Lieutenant Commanders, who had a drug called 'ICE', the Pudukkadai Magistrate's Court has ordered them to be detained.
-
-The suspects have been ordered to be detained until April 26 for further investigations.
-
-Based on the recent action by Mulleriyawa Police Officers, 510 grams of Ice has been seized from four persons.
-
-The value of the seized drugs is about Rs.. 7.5 million.
-
-◼️
-
-[Data](articles/601ee4b6.json)
-
-[Extended Data](ext_articles/601ee4b6.ext.json)
 
 ---

@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 09:18:29**
+As of **2024-04-21 09:34:13**
 
 ## Newspaper Stats
 
-*Scraped **19,978** Articles*
+*Scraped **19,983** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 169
-bbccomsinhala | 208
+bbccomsinhala | 209
 dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,082
 dailyftlk | 1,099
 economynextcom | 1,143
-adalk | 1,656
+adalk | 1,657
 tamilmirrorlk | 2,305
 adaderanalk | 2,393
 virakesarilk | 2,984
-dailymirrorlk | 3,111
-adaderanasinhalalk | 3,247
+dailymirrorlk | 3,113
+adaderanasinhalalk | 3,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,978 (100.0%) of 19,978 articles have been extended.
+19,978 (100.0%) of 19,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Expect increase in dollar reserves, rupee value for vehicle imports: Siyambalapitiya
+
+*2024-04-21 09:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expect-increase-in-dollar-reserves-rupee-value-for-vehicle-imports-Siyambalapitiya/108-281077) · `en`
+
+Colombo, April 21 (Daily Mirror) - The gradual increase in dollar reserves and the rise in the value of the rupee expected in the future will enable the import of vehicles, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing a meeting in the Ruwanwella area, he said the committee appointed to carry out a high-level study to systematically remove restrictions on the import of vehicles is currently active.
+
+Due to the economic crisis in the country, import restrictions were imposed on between 1,500 and 2,000 items, but due to the gradual recovery of the economy, these restrictions are now only effective on the import of vehicles.
+
+This committee will make a list of the essential and indispensable vehicles for the country and accordingly these activities will be done in the future.
+
+...
+
+[Data](articles/d64739be.json)
+
+---
+
+### රටපුරා දේවස්ථාන විනාඩි 2ක් නිහඬ වෙයි
+
+*2024-04-21 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195827) · `si`
+
+පාස්කු ප්‍රහාරයෙන් මියගිය පුද්ගලයින් සිහිකර අද (21) දිවයින පුරා සියලුම දේවස්ථානවල විනාඩි  2ක නිහඬතාවයක් පැවැත්විය.
+
+කොළඹ අගරදගුරු පදවියේ සන්නිවේදන ඒකකය සඳහන් කළේ අද පෙරවරු 8.45ට එලෙස විනාඩි දෙකක නිහඬතාවයක් පැවැත්වූ බවය.
+
+පාස්කු ප්‍රහාරයට වසර දෙකක් පිරිම නිමිත්තෙන් පැවැත්වෙන විශේෂ අනුස්මරණ උත්සවය මේ වන විට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/4fd0d1ff.json)
+
+---
 
 ### Approval for Ukraine Able Assistance
 
@@ -77,6 +111,22 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/3da0eda0.json)
 
 [Extended Data](ext_articles/3da0eda0.ext.json)
+
+---
+
+### ලක්ෂ පහකට අධික අවම මාසික වැටුපකට පාර්ලිමේන්තුවේ නව තනතුරු දෙකක්
+
+*2024-04-21 08:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-පහකට-අධික-අවම-මාසික-වැටුපකට-පාර්ලිමේන්තුවේ-නව-තනතුරු-දෙකක්/11-409171) · `si`
+
+ශ්‍රී ලංකා පාර්ලිමේන්තුවේ  රුපියල් ලක්ෂ පහකට අධික අවම ආරම්භක මාසික දළ වැටුපක් හිමිවන නව තනතුරු දෙකක් සඳහා සුදුස්සන් බඳවා ගැනීමට අයදුම්පත් කැඳවා ඇතැයි පාර්ලිමේන්තු මහ ලේකම් කාර්යාලය පවසයි .
+
+මෙසේ අයදුම්පත් කැඳවා ඇත්තේ ආණ්ඩු ක්‍රම ව්‍යවස්ථාව යටතේ රාජ්‍ය මූල්‍ය වගකීම් ඉටු කිරීමේදී පාර්ලිමේන්තුවට සහාය වීම සඳහා 2023 අංක 06 දරන පාර්ලිමේන්තු අයවැය කාර්යාල පනතට අනුව පිහිටුවා ඇති පාර්ලිමේන්තු අයවැය කාර්යාලයේ පුරප්පාඩුව පවතින  "පාර්ලිමේන්තු අයවැය නිලධරයා" සහ "නියෝජ්‍ය පාර්ලිමේන්තු අයවැය  නිලධරයා " යන   නව  තනතුරු දෙක සඳහාය.
+
+මෙයින් පාර්ලිමේන්තු අයවැය නිලධරයා  සඳහා අතිරේක දීමනා සහිතව රුපියල් 6,65 000 (හය ලක්ෂ හැටපන් දහස)ක  අවම මාසික  ආරම්භක  වැටුපක්ද   නියෝජ්‍ය පාර්ලිමේන්තු අයවැය නිලධරයාට  එලෙසම රුපියල් 5,60,000 (පන් ලක්ෂ හැට දහස)ක අවම මාසික ආරම්භක වැටුපක්ද හිමිවන බව මෙම පුරප්පාඩු සඳහා පාර්ලිමේන්තු මහ ලේකම්වරයා විසින් අයදුම්පත්  කැඳවූ නිවේදනයේ  සඳහන්වේ.
+
+...
+
+[Data](articles/36df77ba.json)
 
 ---
 
@@ -154,7 +204,7 @@ Police investigations have revealed that he had left the house for fishing on Mo
 
 ---
 
-### Vietnam debate on monetary or fiscal choices to target output recalls Sri Lanka choices
+### Vietnam debate on monetary or fiscal options to target output recalls Sri Lanka choices
 
 *2024-04-21 07:32:00* · [`economynextcom`](https://economynext.com/vietnam-debate-on-monetary-or-fiscal-choices-to-target-output-recalls-sri-lanka-choices-159511/) · `en`
 
@@ -537,6 +587,24 @@ Former Minister and Member of Parliament CP Ratnayake and Kandy Indian High Comm
 [Data](articles/15bc5006.json)
 
 [Extended Data](ext_articles/15bc5006.ext.json)
+
+---
+
+### පාස්කු ඉරිදා ප්‍රහාරය : 'ජාත්‍යන්තර විමර්ශනයකට බල කෙරෙන යෝජනාවක් ගේන්න කටයුතු කරමින් සිටිනවා'
+
+*2024-04-21 03:12:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd18gznne0po) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, පාස්කු ප්‍රහාරයේ නොවිසඳුණු ගැටලු ගැන අතිඋතුම් මැල්කම් රංජිත් හිමිපාණෝ BBC සිංහල සේවය සමග කළ සංවාදයේ දී අදහස් පළ කළහ.
+
+පාස්කු ඉරිදා ප්‍රහාරය : 'ජාත්‍යන්තර විමර්ශනයකට බල කෙරෙන යෝජනාවක් ගේන්න කටයුතු කරමින් සිටිනවා'
+
+පාස්කු ප්‍රහාරයේ වින්දිතයන්ට යුක්තිය ඉටු කිරීම සඳහා ජාත්‍යන්තර විමර්ශනයක් සිදු කිරීමට අදාළ යෝජනාවක් එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සලයට ඉදිරිපත් කිරීම සඳහා රටවල් සහ සංවිධාන කිහිපයක් සමග කටයුතු කරමින් සිටින බව කොළඹ අගරදගුරු, අතිඋතුම් මැල්කම් රංජිත් හිමිපාණෝ BBC සිංහල සේවය සමග පැවති සංවාදයක දී පැවසූහ.
+
+පාස්කු ප්‍රහාරය සිදුවී අදට (අප්‍රේල් 21) වසර පහක් සම්පුර්ණ වුව ද එහි මහමොලකරුවන් සහ කුමන්ත්‍රණකරුවන් හෙළි කිරීමට රජය මේ දක්වා අපොහොසත් වී ඇති බවට කාදිනල් හිමිපාණෝ පෙන්වා දෙති.
+
+...
+
+[Data](articles/43139d7d.json)
 
 ---
 
@@ -1023,6 +1091,18 @@ Troops of the Laxapana Army Camp have been launched today (20) this morning.
 [Data](articles/80a3c5c1.json)
 
 [Extended Data](ext_articles/80a3c5c1.ext.json)
+
+---
+
+### Discussing May Day rally...
+
+*2024-04-20 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Discussing-May-Day-rally/110-281074) · `en`
+
+Senior Presidential Advisor and UNP Deputy Leader Ruwan Wijewardene participated in a New year celebration in Biyagama today while he also met party activists to dicuss on future programmes including the May Day rally. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/19994a69.json)
 
 ---
 
@@ -2131,121 +2211,5 @@ Accordingly, a 35-year-old British woman and a 28-year-old resident of Nuwara El
 [Data](articles/cd687f00.json)
 
 [Extended Data](ext_articles/cd687f00.ext.json)
-
----
-
-### Resolution to establish Sri Lankan High Commission in Wellington, New Zealand
-
-*2024-04-20 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181494) · `ta`
-
-Sri Lanka plans to open a High Commission in Wellington, New Zealand, with officials visiting from the 22nd to the 25th to discuss the move. This aims to strengthen cooperation in trade, education, sports, science, technology, tourism, and health, following New Zealand's High Commission in Sri Lanka opening in 2021.
-
-🟩
-
-In this backdrop, the official representatives of the Ministry of Foreign Administration and Development will visit New Zealand on the 22nd of this month to discuss issues on the opening of the Sri Lankan High Commission.
-
-The team will stay in New Zealand until the 25th.
-
-During the visit, the delegation will be held in discussion with New Zealand's Foreign and Commerce Ministry officials and other relevant companies and shareholders.
-
-There is a significant Sri Lankan community with professionals and students in New Zealand.
-
-The establishment of a diplomatic delegation in New Zealand will help to follow strong cooperation in the fields of trade, education, sports, science, technology, tourism and health.
-
-The New Zealand High Commission opened in Sri Lanka in 2021. This is a major milestone in bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/7e070a3e.json)
-
-[Extended Data](ext_articles/7e070a3e.ext.json)
-
----
-
-### Gazette declares electricity, fuel services as essential
-
-*2024-04-20 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-declares-electricity-fuel-services-as-essential/108-281056) · `en`
-
-Colombo, April 20 (Daily Mirror) - An Gazette Extraordinary was issued declaring all services connected to the supply of electricity and or distribution of petroleum products and fuel as essential services from yesterday.
-
-The notification issued by Secretary to the President Saman Ekanayake.
-
-◼️
-
-[Data](articles/d0cc24e4.json)
-
-[Extended Data](ext_articles/d0cc24e4.ext.json)
-
----
-
-### Genetic link between Lankan tribe and Indians
-
-*2024-04-20 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Genetic-link-between-Lankan-tribe-and-Indians/108-281053) · `en`
-
-(Telegraph India) - Sri Lanka’s Vedda people, long believed to be the island’s earliest human inhabitants, share close genetic bonds with five Indian tribal populations, a new study has found, bolstering evidence for their roots in the Indian subcontinent’s earliest modern human populations.
-
-A team of Indian and Sri Lankan scientists has found that the Vedda share a strong genetic similarity with the Austroasiatic Munda-speaking Santhal and Juang tribes in Odisha and the Dravidian-speaking Irula, Paniya and Pallar found in Karnataka, Kerala and Tamil Nadu.
-
-Their study, published this week in the scientific journal Mitochondrion, has revealed that the Vedda have a greater genetic similarity with these five tribes than with either Sri Lanka’s Sinhalese or Tamil populations with whom they have shared the island for centuries.
-
-...
-
-[Data](articles/9fd24193.json)
-
-[Extended Data](ext_articles/9fd24193.ext.json)
-
----
-
-### A person set fire during trial against former president
-
-*2024-04-20 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195801) · `si`
-
-A person set fire during the trial against former President Donald Trump, obscuring the reason. The fire occurred near the Manhattan court where Trump's juror was being questioned. Trump was not present. The case's initial statements will start on Monday. The fire victim is in critical condition.
-
-🟩
-
-A person has set fire in front of the Manhattan court, who is trial against former President Donald Trump.
-
-Foreign reports stated that he had made this burning of fire.
-
-Police have said that the reason to set fire was obscured.
-
-The fire has been carried out at the time of the JurOR of Donald Trump.
-
-However, the former presidents reported that the former has left the place during this end.
-
-The initial statements of this case will be started on Monday (22).
-
-Foreign reports say that the fire has been hospitalized in critical condition.
-
-◼️
-
-[Data](articles/d8e905cc.json)
-
-[Extended Data](ext_articles/d8e905cc.ext.json)
-
----
-
-### World’s oldest orangutan Bella celebrates 63rd birthday
-
-*2024-04-20 09:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Worlds-oldest-orangutan-Bella-celebrates-63rd-birthday/108-281052) · `en`
-
-April 20, (Guinness World Records) - Bella, the world’s oldest living orangutan in captivity, celebrated her 63rd birthday this week.
-
-Estimated to have been born in 1961, Bella the Sumatran orangutan (Pongo abelii) was collected from the wild in 1964 and has lived at Hagenbeck Zoo in Hamburg, Germany, ever since.
-
-She was given a birthday cake made of soft-boiled rice and various fruits, which she shared with Berani, one of her adopted children.
-
-The typical lifespan of a wild orangutan is 35-40 years, increasing to around 50 years in captivity.
-
-Bella became the oldest living orangutan in 2021, following the death of Inji, a female Sumatran orangutan at Oregon Zoo, USA. Born in the wild c. 1960, Inji was thought to have been a year older than Bella.
-
-Bella has been described by her zookeepers as honest, prudent, curious, intelligent, loving and never aggressive.
-
-...
-
-[Data](articles/ace9331d.json)
-
-[Extended Data](ext_articles/ace9331d.ext.json)
 
 ---

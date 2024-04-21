@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 07:55:53**
+As of **2024-04-21 08:18:22**
 
 ## Newspaper Stats
 
-*Scraped **19,965** Articles*
+*Scraped **19,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,076
 dailyftlk | 1,099
 economynextcom | 1,143
-adalk | 1,654
-tamilmirrorlk | 2,303
-adaderanalk | 2,392
+adalk | 1,655
+tamilmirrorlk | 2,304
+adaderanalk | 2,393
 virakesarilk | 2,984
 dailymirrorlk | 3,110
 adaderanasinhalalk | 3,246
@@ -26,25 +26,51 @@ adaderanasinhalalk | 3,246
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,960 (100.0%) of 19,965 articles have been extended.
+19,965 (100.0%) of 19,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### දියේ ගිලී පුද්ගලයෙක් මරුට
+### Showers expected in parts of the country
+
+*2024-04-21 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98749/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Uva province and in Anuradhapura, Vavuniya, and Mannar districts during the afternoon or night.
+
+Showers will occur in the western coastal areas during the morning too, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3da0eda0.json)
+
+---
+
+### Man drowns
 
 *2024-04-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195825) · `si`
 
-ගොවිදුපුර, ජයන්ති වැවේ මසුන් ඇල්ලීමට ගිය පුද්ගලයෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+A 58-year-old man from Kotagoda drowned in the farmingup and Jayanthi Van after going fishing on Monday.
 
-එසේ මියගොස් ඇත්තේ, කොටගොඩ ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-ඔහු පෙරේදා (19) දින මසුන් ඇල්ලීම සඳහා නිවසින් පිටව ගොස් ඇති බවට පොලිස් විමර්ශනයේදී අනාවරණය වී ඇත.
+A man drowned in the farmingup and Jayanthi Van.
+
+The deceased has been identified as a 58 year old resident of the Kotagoda.
+
+Police investigations have revealed that he had left the house for fishing on Monday (19).
 
 ◼️
 
 [Data](articles/9e68e239.json)
+
+[Extended Data](ext_articles/9e68e239.ext.json)
 
 ---
 
@@ -66,51 +92,79 @@ The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a
 
 [Data](articles/03dac629.json)
 
+[Extended Data](ext_articles/03dac629.ext.json)
+
 ---
 
-### நடிகர் கவினின் சம்பளத்தை மேலும் உயர்த்துமா 'ஸ்டார்'..!?
+### Will actor Gavin's salary further 'Star' ..!?
 
 *2024-04-21 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181528) · `ta`
 
-நடிகர் கவின் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'டாடா' எனும் திரைப்படத்திற்கு பிறகு தன்னுடைய சம்பளத்தை கோடிக்கணக்கில் உயர்த்திய நடிகர் கவின் நடிப்பில் உருவாகி இருக்கும் 'ஸ்டார்' மே மாதம் பத்தாம் திகதியன்று வெளியாகிறது.  நடிகர் கவினின் சம்பளத்தை 'ஸ்டார்' படம் மேலும் உயர்த்துமா.. ! என்பது இப்படம் வெளியான பிறகு உறுதியாக தெரியவரும்.
+Actor Gavin's upcoming film 'Star', releasing on May 10th, is expected to boost his salary, following the success of 'Tata'. The film features Gavin, Aditi Pohankar, Preity Unnimukundan, and Geeta Kailasam, with music by K. Yuvan Shankar Raja. It's co-produced by PVSN Prasad and Srinidhi Sagar, and has been recorded by the government.
 
-'பியார் பிரேமம் காதல்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் இளன் இயக்கத்தின் உருவாகி இருக்கும் 'ஸ்டார்'  எனும் படத்தில் கவின், மலையாள நடிகர் லால், பொலிவுட் நடிகை அதிதி பொஹங்கர், பிரீத்தி உன்னிமுகுந்தன், கீதா கைலாசம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. எழில் அரசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ரைஸ் ஈஸ்ட் என்டர்டெய்ன்மென்ட் மற்றும் ஸ்ரீ வெங்கடேஸ்வரா சினி சித்ரா ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் பி வி எஸ் என் பிரசாத் மற்றும் ஸ்ரீநிதி சாகர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-...
+Actor Gavin's upcoming 'Star' will be released on May 10th, starring Gavin, who has raised his salary after the film 'Tata' which was released.'Star' will further raise the salary of actor Gavin.. !!The film will be sure after the release of the film.
+
+Gavin, Malayalam actor Aditi Pohankar, Bollywood actress Aditi Pohankar, Preity Unnimukundan, Geeta Kailasam. K. Yuvan Shankar Raja has composed the film, which has been recorded by the government. The film was co -produced by producers PVSN Prasad and Srinidhi Sagar on behalf of the film companies of Rice East Entertainment and Sri Venkateswara Cine Chitra.
+
+The first look of the film, the single track and the maketing video have been released. In this case, the film will be released on the 10th of May at the film mansion worldwide.
+
+Meanwhile, the film is a film starring actor Gavin after the hit film 'Tata' and the coalition of three -wheeler talent, Illan -Kavin -Yuvan, has been hugely anticipated.
+
+◼️
 
 [Data](articles/b705ebf1.json)
 
+[Extended Data](ext_articles/b705ebf1.ext.json)
+
 ---
 
-### சந்தானம் நடிக்கும் 'இங்க நான் தான் கிங்கு' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Santhanam starrer 'Inga I am Kingu'
 
 *2024-04-21 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181531) · `ta`
 
-நடிகர் சந்தானம் நடிப்பில் வெளியான 'வடக்குப்பட்டி ராமசாமி' திரைப்படம் விமர்சன ரீதியாக பெரும் வரவேற்பை பெற்றது. ஆனால் இந்தத் திரைப்படம் வணிக ரீதியாக வெற்றியை பெறவில்லை என தயாரிப்பு நிறுவனம் அதிகாரப்பூர்வமாக அறிவித்தது. இருப்பினும் சந்தானம் 'வடக்குப்பட்டி ராமசாமி' படத்தின் வெற்றிக்குப் பிறகு தன் சம்பளத்தை உயர்த்தி விட்டார்.
+"Santhanam's 'Inga I am Kingu' is a summer comedy film directed by Anand Narayan, featuring Santhanam, Priyalaya, and others. Despite 'Vadakkupatti Ramaswamy's' success, 'Inga I am Kingu' faces criticism. The film, produced by Sushmita Anbu Chezhiyan, has two songs with over a million views. It's set for global release on May 10th."
 
-இருந்தாலும் அவரது நடிப்பில் தயாராகி வரும் 'இங்க நான் தான் கிங்கு' எனும் படத்தின் வணிகரீதியான வெற்றிக்குப் பிறகு அவர் வாங்கும் சம்பளம் குறித்த திரையுலகினரின் விமர்சனம் வெளியாகும் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-இயக்குநர் ஆனந்த் நாராயண் இயக்கத்தில் உருவாகி இருக்கும் 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தில் சந்தானம், பிரியாலயா, தம்பி ராமையா, விவேக் பிரசன்னா, பால சரவணன், முனீஸ் காந்த், மாறன், லொள்ளு சபா சுவாமிநாதன், கூல் சுரேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+Actor Santhanam starrer 'Vadakkupatti Ramaswamy' has been critically welcomed. But the production company officially announced that the film was not commercially successful. However, Santhanam has raised his salary after the success of 'Vadakkupatti Ramaswamy'.
+
+Nevertheless, the criticism of the film industry is expected to be released after the commercial success of the film 'Inga I am Kingu', which is preparing for his performance.
+
+Directed by director Anand Narayan, Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Munis Kant, Maran, Lalu Saba Swaminathan, Kool Suresh and many others.
+
+D Iman has composed the film, which has been recorded by Om Narayan. Producer Sushmita Anbu Chezhiyan has produced the film on behalf of Tower Films Film Company. The film is presented by G N.
 
 ...
 
 [Data](articles/309505fc.json)
 
+[Extended Data](ext_articles/309505fc.ext.json)
+
 ---
 
-### உண்மை சம்பவங்களை தழுவி தயாராகும் 'ஒரு நொடி' படத்தின் இசை வெளியீடு
+### The music release of the movie 'Odi' is ready to embrace true events
 
 *2024-04-21 07:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181532) · `ta`
 
-நடிகர் தமன்குமார் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் தோன்றும் 'ஒரு நொடி' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது.
+The music release of 'Odi', a film based on real events, was held in Chennai, featuring actors like Taman Kumar and M.S. Bhaskar. Composed by K.G. Sanjay Gemikam, the film is directed by Manivarman and praised for its unique thriller genre.
 
-'கண்மணி பாப்பா' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் பி மணிவர்மன் இயக்கத்தில் உருவாகி இருக்கும் 'ஒரு நொடி' எனும் திரைப்படத்தின் தமன் குமார், எம். எஸ். பாஸ்கர், வேல.ராமமூர்த்தி, பழ. கருப்பையா, கஜராஜ், ஸ்ரீ ரஞ்சனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கே. ஜி. ரத்தீஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சஞ்சய் மாணிக்கம் இசையமைத்திருக்கிறார். உண்மை சம்பவங்களை தழுவி திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்தத் திரைப்படத்தை மதுரை அழகர் மூவிஸ் மற்றும் வைட் லாம்ப் பிக்சர்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் அழகர் ஜி மற்றும் கே.ஜி. ரத்தீஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள். இந்தத் திரைப்படத்தை கிரியேட்டிவ் எண்டர்டெய்ன்மென்ட் டிஸ்ட்ரிபியூட்டர்ஸ் சார்பில் ஜி. தனஞ்ஜெயன் வழங்குகிறார்.
+The music release of the film 'Odi', which appears to be the hero of actor Tamankumar's story, was held in Chennai.
+
+Taman Kumar, M.. S.. Bhaskar, Vel. Ramamurthy, Fruit. Karupaya, Kajaraj, Sri Ranjani and many others have been cast.
+
+K. G. Sanjay Gemikam has composed the film, which has been recorded by Rathish. The film is being adapted into the truth and is ready in the thriller Janer.. Rathish has co -produced. The film is on behalf of Creative Entertainment Districts. Dhananjayan offers.
+
+The music release of the film was released in Chennai on April 26. Actor Ary Arjunan with film crew, producer C. V.. Kumar, actor and speaker Erode Mahesh participated as special guests.
 
 ...
 
 [Data](articles/36aa9f97.json)
+
+[Extended Data](ext_articles/36aa9f97.ext.json)
 
 ---
 
@@ -163,6 +217,24 @@ The Department of Meteorology requests the public to take necessary steps to red
 [Data](articles/7b95d8f9.json)
 
 [Extended Data](ext_articles/7b95d8f9.ext.json)
+
+---
+
+### 1,800 வைத்தியர்கள் நாட்டை விட்டு வெளியேறினார்
+
+*2024-04-21 05:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-800-வைத்தியர்கள்-நாட்டை-விட்டு-வெளியேறினார்/175-336118) · `ta`
+
+கடந்த இரண்டு வருடங்களுக்குள் 1,800 வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளனர் என்று அரச மருத்துவ அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+அந்தச் சங்கத்தின் பேச்சாளர் சமில் விஜேசிங்க இந்த விடயத்தை நேற்று ஊடகங்களிடம் குறிப்பிட்டுள்ளார்.
+
+குறித்த காலப்பகுதியில் சுமார் 300 இற்கும் மேற்பட்ட விசேட வைத்தியர்கள் நாட்டை விட்டு வெளியேறியுள்ளனர் என்றும் அவர் கூறியுள்ளார்.
+
+இதனைக் கட்டுப்படுத்துவதற்கு அரசு உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்றும் அவர் வலியுறுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/1b16f75a.json)
 
 ---
 
@@ -839,6 +911,22 @@ Colombo-based economist Talal Rafi explained that with Sri Lanka still in defaul
 [Data](articles/434df5d5.json)
 
 [Extended Data](ext_articles/434df5d5.ext.json)
+
+---
+
+### හික්කඩුව ශීඝ්‍රගාමී දුම්රියෙන් රුපියල් කෝටියකට අධික විදුලි රැහැන් කපලා
+
+*2024-04-20 17:08:48* · [`adalk`](https://www.ada.lk/breaking_news/හික්කඩුව-ශීඝ්‍රගාමී-දුම්රියෙන්-රුපියල්-කෝටියකට-අධික-විදුලි-රැහැන්-කපලා/11-409169) · `si`
+
+කොළඹ සිට හික්කඩුව දුම්රිය ස්ථානය වෙත පැමිණ එහි නවතා තිබූ  ශීඝ්‍රගාමී දුම්රියෙන් රුපියල් කෝටියකට අධික විදුලි රැහැන් බ්‍රහස්පතින්දා අලුයම සොරකම් කර ඇති බව දුම්රිය ආරක්ෂක බළකාය භාර නියෝජ්‍ය අධිකාරී ජී.ඩබ්ලිව්. සුමිත් මහතා පැවසුවේය.
+
+මෙය හොඳින් සැලසුම්කර සිදුකරන ලද සොරකමක් බවත් විදුලි පරිපථ පිළිබඳ මනා අවබෝධයක් ඇති  හුරුපුරුදු පුද්ගලයින් විසින් මෙය සිදුකර ඇති බවට බලධාරීන් සැක පළ කරයි.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් ගාල්ල පොලීසියේ අපරාධ විමර්ශන අංශය මේ වන විට පුළුල් පරීක්ෂණයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/e922d6b1.json)
 
 ---
 
@@ -2135,79 +2223,5 @@ She was told to participate in the tournament at the Katunayake airport, Qatar, 
 [Data](articles/b6ecfdb9.json)
 
 [Extended Data](ext_articles/b6ecfdb9.ext.json)
-
----
-
-### High Commission of Sri Lanka to New Zealand
-
-*2024-04-20 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195799) · `si`
-
-Sri Lanka plans to open a High Commission in Wellington, New Zealand, aiming to enhance trade, education, sports, science, and health cooperation. The Director General of the Ministry of External Affairs will visit New Zealand from April 22 to 25th.
-
-🟩
-
-It has been decided to open a High Commission of Sri Lanka in Wellington, New Zealand.
-
-The Ministry of External Affairs stated that a High Commission in Sri Lanka has been planned to start in Wellington, New Zealand.
-
-The Director General of the Foreign Asset Management and Development Division of the Ministry of External Affairs will visit New Zealand on April 22 to 25th April.
-
-A large number of Sri Lankan professionals and students will continue to facilitate their trade, education, sports, science and health cooperation between trade, education, sports, tourism and health cooperation.
-
-◼️
-
-[Data](articles/3f6acc9a.json)
-
-[Extended Data](ext_articles/3f6acc9a.ext.json)
-
----
-
-### Ministry of Recruitment to Teacher Service
-
-*2024-04-20 08:27:45* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-නිලධාරීන්-ගුරු-සේවයට-බඳවාගැනීම-ගැන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-409165) · `si`
-
-The Ministry of Education has filed petitions for a competitive exam on March 25, 2023, to recruit Development Officers for the Teacher Service. The event was initially set for March 23, 2023, but is now pending the Supreme Court's decision.
-
-🟩
-
-The Ministry of Education has filed four fundamental rights petitions in the Supreme Court to hold a competitive examination on March 25, 2023 to recruit Development Officers to the Teacher Service.
-
-Accordingly, the event was due to be held on 23 March 23, 2023 before the Supreme Court.
-
-The petitions are still pending in the Supreme Court and the Ministry of Education are expected to be carried out by the Supreme Court's decision.
-
-◼️
-
-[Data](articles/669a049c.json)
-
-[Extended Data](ext_articles/669a049c.ext.json)
-
----
-
-### Case against Trump
-
-*2024-04-20 08:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181489) · `ta`
-
-A man set fire to another outside a Manhattan court, allegedly related to a case involving Donald Trump. The incident, involving Maxwell Asarelo, led to a security breach and a large police presence.
-
-🟩
-
-The case of former President Donald Trump in the United States has caused a stir in the area where a person is on the sidelines.
-
-A man has tried to set fire to a man outside the court of Manhattan, who is in court case regarding whether Donald Trump has paid him for not informing him of Daniel Daniel.
-
-Police said he poured a liquid on him after throwing leaflets on the plot.
-
-The reason for this is unknown, police said the court's security was violated.
-
-A 37 -year -old man, Maxwell Asarelo, who came from his home in Florida a few weeks ago, tried to set fire to a fire.
-
-Due to the case, a large number of police were found in the area. When the man was set on fire, they immediately rushed there.
-
-◼️
-
-[Data](articles/36851e58.json)
-
-[Extended Data](ext_articles/36851e58.ext.json)
 
 ---

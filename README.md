@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 09:03:25**
+As of **2024-04-21 09:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,970 (100.0%) of 19,978 articles have been extended.
+19,978 (100.0%) of 19,978 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,25 +102,33 @@ The government is purposely delaying teacher appointments to save on government 
 
 ---
 
-### ජනපති අඹේවෙල නිරීක්ෂණ චාරිකාවක
+### President visits Ambewela tour
 
 *2024-04-21 08:00:43* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අඹේවෙල-නිරීක්ෂණ-චාරිකාවක/11-409170) · `si`
 
-ලෝකයේ අති නවීනම තාක්ෂණය සහිත අඹේවෙල කිරි ගොවිපොළ සමූහයේ සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ (20) පෙරවරුවේ එහි නිරීක්ෂණ චාරිකාවක නිරත විය.
+President Ranil Wickremesinghe visited Ambewela Dairy Farm, highlighting its development and contribution to the economy. He discussed growth, tourism promotion, and left a note in the farm's Special Guineabook. The farm, privatized in 2001, has seen a 30% increase in milk production since December 2022, aiming for 20 million liters annually. It's recognized for high-quality milk and disease detection, benefiting local communities and tourism.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2022 වසරේ දෙසැම්බර් මාසයේදී ද අඹේවෙල කිරි ගොවිපොළේ හදිසි ‍නිරික්ෂණ චාරිකාවකට එක්වූ අතර එහිදී ලබාදුන් උපදෙස් අනුව ගොවිපොළ තුළ පුළුල් සංවර්ධන ක්‍රියාවලියක් පසුගිය වසරේදී ආරම්භ කෙරිණි.
+🟩
 
-අඹේවෙල කිරි ගොවිපොළ වෙත පැමිණි ජනාධිපතිවරයාව කිරි ගොවිපොළ සමූහයේ සාමාන්‍යාධිකාරී සරත් බණ්ඩාර මහතා ඇතුළු කාර්ය මණ්ඩලය විසින් පිළිගනු ලැබීය.
+President Ranil Wickremesinghe visited the development of the Ambewela Dairy Farm Group in Ambewela Dairy Farm Group yesterday (20).
 
-ගොවිපොළේ නව සංවර්ධන කටයුතුවල ප්‍රගතිය විමසා බැලූ ජනාධිපතිවරයා කිරි ගවයන් රඳවා සිටින පරිශ්‍රය ද නිරික්ෂණ කළේය.
+President Ranil Wickremesinghe has joined in December 2022 at Ambewela Dairy Language, which was given a broad development process in the farm last year.
 
-අනතුරුව එහි විධායක කාර්ය මණ්ඩලය සමඟ කෙටි සාකච්ඡාවකට ද එක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අඹේවෙල ගොවිපොළ කිරි නිෂ්පාදන ක්ෂේත්‍රයේ ලබා ඇති ක්‍රමික වර්ධනය හා එමගින් ජාතික ආර්ථිකයට ලබා දෙන දායකත්වය ඇගයීමට ලක් කළේය.
+President Mahinda Rajapaksa, who came to Ambewela Dairy Farm, was recognized by the staff of milk farm Group of Sarath Bandara.
 
-එමෙන්ම ගොවිපොළ නැරඹීමට පැමිණෙන සංචාරකයන් වෙනුවෙන් විවිධ සංචාරක ප්‍රවර්ධන වැඩසටහන් ක්‍රියාවට නැංවීමේ අවශ්‍යතාවය ද පෙන්වා දුන්නේය.
+The proceedings of the new development activities on the farm also observed the premises which were detained in the dairy cattle.
+
+President Ranil Wickremesinghe, who had a brief discussion with the executive staff, ranked the gradual growth in the Ambewela farm and contributing to the national economy.
+
+It also pointed out the need to implement various tourism promotions on behalf of the farm.
+
+President Ranil Wickremesinghe also had a note in the book of Special Guineabook placed at the office premises.
 
 ...
 
 [Data](articles/2fd48972.json)
+
+[Extended Data](ext_articles/2fd48972.ext.json)
 
 ---
 
@@ -278,6 +286,8 @@ Sanasa General Insurance was recently honoured at the Best Management Practices 
 
 [Data](articles/01884a9c.json)
 
+[Extended Data](ext_articles/01884a9c.ext.json)
+
 ---
 
 ### Amana Takaful sustains impressive growth trajectory
@@ -297,6 +307,8 @@ Amana Takaful emerges as the most awarded insurance company in Lanka for 2023
 ...
 
 [Data](articles/62c9c3ab.json)
+
+[Extended Data](ext_articles/62c9c3ab.ext.json)
 
 ---
 
@@ -338,6 +350,8 @@ CEAT Kelani launches three new radial tyre variants in ‘Orion Brawo’ range
 
 [Data](articles/55bc747b.json)
 
+[Extended Data](ext_articles/55bc747b.ext.json)
+
 ---
 
 ### ComBank appoints new Chairman and Deputy Chairman
@@ -353,6 +367,8 @@ Muhseen, previously Deputy Chairman of the Bank, succeeds Prof. Ananda Jayawarda
 ...
 
 [Data](articles/0c696d37.json)
+
+[Extended Data](ext_articles/0c696d37.ext.json)
 
 ---
 
@@ -370,6 +386,8 @@ Serving as a key global benchmark for innovation in the textile industry, the Ge
 
 [Data](articles/1f47e2bc.json)
 
+[Extended Data](ext_articles/1f47e2bc.ext.json)
+
 ---
 
 ### Brantel appointed Partner and Reseller of global networking giant Cisco
@@ -383,6 +401,8 @@ The Company said its primary role as a Cisco Partner would be to help build the 
 ...
 
 [Data](articles/3ccce7e7.json)
+
+[Extended Data](ext_articles/3ccce7e7.ext.json)
 
 ---
 
@@ -406,21 +426,27 @@ The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet,
 
 ---
 
-### அம்பேவல பண்ணைக்கு ஜனாதிபதி விஜயம்
+### President visits Ambewala Farm
 
 *2024-04-21 05:15:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பேவல-பண்ணைக்கு-ஜனாதிபதி-விஜயம்/175-336119) · `ta`
 
-கடந்த ஆண்டு ஆரம்பிக்கப்பட்ட பண்ணையின் அபிவிருத்திப் பணிகளின் முன்னேற்றம் தொடர்பில் ஆராய்வதற்காகவே அவர் அங்கு சென்றிருந்தார்.
+President Ranil Wickremesinghe visited Ambewala Farm to assess farm development, praised its growth, and met with staff and tourists, emphasizing the farm's economic contribution.
 
-இதன் பின்னர்  ஊழியர்களுடன் உரையாடலில் ஈடுபட்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க, அம்பேவல பண்ணையின் பால் உற்பத்தித் துறையில் எட்டப்பட்டுள்ள படிப்படியான வளர்ச்சி மற்றும் தேசிய பொருளாதாரத்திற்கான அதன் பங்களிப்பையும் பாராட்டினார்.
+🟩
 
-பண்ணைக்கு வருகை தரும் சுற்றுலாப் பயணிகளுக்கு பல்வேறு சுற்றுலா ஊக்குவிப்பு நடவடிக்கைகளை நடைமுறைப்படுத்த வேண்டியதன் அவசியத்தை இதன்போது ஜனாதிபதி எடுத்துக்காட்டினார் என ஜனாதிபதி ஊடப்பிரிவு விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+He had gone there to investigate the progress of the farm development work that began last year.
 
-நேற்று அம்பேவல பால் பண்ணையைப் பார்வையிட வருகை தந்திருந்த உள்நாட்டு, வௌிநாட்டு சுற்றுலாப் பயணிகளையும் ஜனாதிபதி ரணில் விக்கிரமசிங்க சந்தித்துக் கலந்துரையாடினார். (a)
+President Ranil Wickremesinghe, who was later in conversation with the staff, praised the gradual growth of the Ambewala farm and its contribution to the national economy.
+
+In a statement issued by the President, the President has demonstrated the need to implement various tourists for tourists visiting the farm.
+
+President Ranil Wickremesinghe also met with domestic and foreign tourists who visited Ambewala dairy farm yesterday. (A)
 
 ◼️
 
 [Data](articles/f5b5aee6.json)
+
+[Extended Data](ext_articles/f5b5aee6.ext.json)
 
 ---
 

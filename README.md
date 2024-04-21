@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 18:51:51**
+As of **2024-04-21 19:03:43**
 
 ## Newspaper Stats
 
-*Scraped **20,065** Articles*
+*Scraped **20,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,673
 tamilmirrorlk | 2,317
 adaderanalk | 2,405
 virakesarilk | 2,989
-dailymirrorlk | 3,127
+dailymirrorlk | 3,128
 adaderanasinhalalk | 3,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,061 (100.0%) of 20,065 articles have been extended.
+20,065 (100.0%) of 20,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Peter’s beat Royal to claim championship
+
+*2024-04-21 18:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Peters-beat-Royal-to-claim-championship/108-281092) · `en`
+
+Apr. 21 (Daily Mirror) - St. Peter’s College stamped their class when they beat Royal College 10-5 in the Dialog Schools Rugby Sevens 2024 final, which was worked off at the Royal Sports Complex today.
+
+At the short break, it was the lads from Bambalapitiya who led 10-5.
+
+Royal scored first, but the boys from Bambalapitiya replied with two tries. Towards the last minute of the game, Royal almost scored but was pushed to touch by the Peterites.
+
+This was the second Sevens win this year for the Peterite outfit, after accounting for the Zahira Sevens earlier. Emith Jayaweera of St. Peter’s was adjourned Best Player of the Tournament.
+
+Vidyartha accounted for the Plate, while Ananda took away the Bowl, and Sri Piyarathne won the Shield encounter. Nearly 10 leading schools kept away from this tournament, citing injuries and ordinary-level examinations. (Pix by: Kushan Pathiraja)
+
+Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
+
+...
+
+[Data](articles/9d586ee3.json)
+
+---
 
 ### Almost half of all major Chinese cities are sinking, study says
 
@@ -51,6 +73,8 @@ Cities such as Beijing and Tianjin were also particularly affected.
 ...
 
 [Data](articles/72caf671.json)
+
+[Extended Data](ext_articles/72caf671.ext.json)
 
 ---
 
@@ -84,15 +108,21 @@ Foreign media has further stated that the latest film of the latest film on the 
 
 ---
 
-### ෆොක්ස්හිල් තරග අත්හිටුවයි
+### Foxhills suspended
 
 *2024-04-21 18:06:14* · [`adalk`](https://www.ada.lk/sports/ෆොක්ස්හිල්-තරග-අත්හිටුවයි/9-409187) · `si`
 
-ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගය අතරතුර සිදුවූ අනතුර අනුව එහි ඉදිරි සියලු තරග අත්හිටුවීමට තරග සංවිධායකයන් කටයුතු කර තිබේ.
+Fox Hill race organizers suspend all future matches.
+
+🟩
+
+The organizers of the Fox Hill race was organized to suspend all the future matches.
 
 ◼️
 
 [Data](articles/9a2fe411.json)
+
+[Extended Data](ext_articles/9a2fe411.ext.json)
 
 ---
 
@@ -238,17 +268,23 @@ Mark Anre, who has been charged with allegations against the former president an
 
 ---
 
-### දියතලාවේ මෝටර් රථ ධාවන තරගාවලිය අනතුරකින් 6ක් මරුට
+### 6 killed in race in Diyatalawa
 
 *2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-6ක්-මරුට/9-409186) · `si`
 
-දියතලාවේ පැවති Fox Hill Supercross 2024 මෝටර් රථ ධාවන තරගාවලියක් අතරතුරදී ධාවන තරගය අතරතුරදී මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන  සිදුවූ අනතුරකින් මේ වන විට පුද්ගලයින් 6 දෙනෙකු මියගොස් පුද්ගලයින් 20කට අධික පිරිසක් බරපතල තුවාල ලබා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+In Diyatalawa, a racing tournament tragically resulted in 6 deaths and over 20 injuries, including a foreigner, a grief, a child, and four track marshals.
 
-මෙම මියගිය පිරිස අතර විදේශිකයකු, කුඩා දරුවකු සහ ට්‍රැක් මාෂල්වරු සිව් දෙනෙක්ද සිටින බව සදහන්වේ .
+🟩
+
+At a time of the racing tournament, six people were killed and more than 20 persons were injured in a car racing during the race.
+
+There are a foreigner, a grief, a small child and four track marshals.
 
 ◼️
 
 [Data](articles/457463de.json)
+
+[Extended Data](ext_articles/457463de.ext.json)
 
 ---
 
@@ -928,19 +964,27 @@ The businessman had said that the businessman had had $ 4,710 worth of Rs.
 
 ---
 
-### බිත්තර ආනයනය කරන්න අවශ්‍ය නැතිලු, අපනයනය කරන්නත් සැලසුමක්
+### Plan to do not need to import eggs and export
 
 *2024-04-21 12:42:20* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-ආනයනය-කරන්න-අවශ්‍ය-නැතිලු--අපනයනය-කරන්නත්-සැලසුමක්/11-409183) · `si`
 
-මේ වන විට පිටරටින් බිත්තර ආනයනය කිරීමේ අවශ්‍යතාවයක් නොමැති බවත්, පාරිභෝගිකයිනට අවශ්‍ය බිත්තර මෙරට තුළ නිෂ්පාදනය වන බවත් පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍යය ඩී බී හේරත් මහතා පැවසිය.
+Minister DB Herath: No need to import eggs; focus on domestic production. Aims to export eggs and strengthen farming. Recent economic downturn led to meat and egg production collapse, prompting self-sufficiency efforts.
 
-ශ්‍රි ලංකා කෘෂිකර්ම විද්‍යාලයන්හී  පාඨමාලාව හැදෑරූ පිරිස් සඳහා ඩිප්ලොමා ප්‍රදානය කිරීමේ උත්සවයක් කුණ්ඩසාලේ දී පැවති අවස්ථාවෙන් පසු මාධ්‍ය හමුවේ අදහස් දක්වමින් අමාත්‍යවරයා මෙම අදහස් පළ කළේය.
+🟩
 
-"දැන් අපි බිත්තර නිෂ්පාදනය කිරීම අතින් සම්තෘප්ත වෙලා තිබෙනවා. අපිට විදේශ රටවලින් බිත්තර අවශ්‍ය නැහැ. වර්තමානයේ තිබෙන තත්ත්වයත් සමග ගොවින් ශක්තිමත් කරන්න අවශ්‍ය වැඩපිලිවෙලක් සකස් කළා.  සත්ත්ව ආහාර සඳහා තීරු බදු සහන දීලා රැගෙන එන නිසා සත්ත්ව නිෂ්පාදන සෞඛ්‍ය දෙපාර්තමේන්තුව මාර්ගොපදේශකත්වය, මෙන්ම පෞද්ගලික අංශයේ මැදිහත්වීමත් සමඟ අද බිත්තර වලින් ස්වයංපොෂිත වෙලා තිබෙනවා.
+Minister of Livestock Development Minister DB Herath said that there is no need for importing eggs from abroad.
+
+The Minister expressed his views on the occasion of a Diploma in Kundasale.
+
+"Now we have become saturated by producing eggs. We do not need eggs from foreign countries. With the current situation, a program to strengthen farming.Due to the rumor tax concession for animal feed, the Department of Animal Production Health today is self-established in eggs, as well as private sector intervention.
+
+Eggs to export our next goal. The industrial flesh is already sent to the Todi countries. There is a possibility of bringing the eggs to the overseas. He said that the Ministry of Agriculture was able to move a self-sufficient in a self-sufficient place in particular, especially meat and eggs.
 
 ...
 
 [Data](articles/dae8e82d.json)
+
+[Extended Data](ext_articles/dae8e82d.ext.json)
 
 ---
 
@@ -2197,25 +2241,5 @@ The Company said its primary role as a Cisco Partner would be to help build the 
 [Data](articles/3ccce7e7.json)
 
 [Extended Data](ext_articles/3ccce7e7.ext.json)
-
----
-
-### CEAT Kelani launches three new radial tyre variants in ‘Orion Brawo’ range
-
-*2024-04-21 05:58:00* · [`islandlk`](http://island.lk/ceat-kelani-launches-3-new-radial-tyre-variants-in-orion-brawo-range/) · `en`
-
-Sri Lanka’s leading pneumatic tyre manufacturer CEAT-Kelani has introduced three new variants of high-performance radial tyres into the market, widening choice for a significant segment of vehicle owners, the company announced.
-
-Joining CEAT’s ‘Orion Brawo’ range, the new radials are in the sizes 155/65 R14, 165/70 R14 and 165 R13, with the first two sizes designated for popular models of compact and small cars, and the third for mid-sized vans, the company said.
-
-“These tyres both feature a tread pattern of a centre rib with three circumferential grooves and a high land area, which translate to improved tread life and higher resistance to impacts, cuts and other damage,” a news release said.
-
-The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet, Nissan Dayz and Honda N-WGN, while the 165/70 R14 fits Toyota Vitz, Toyota Aqua, Renault Kwid and Toyota Passo, seen in large numbers on Sri Lankan roads.
-
-...
-
-[Data](articles/9c7cda71.json)
-
-[Extended Data](ext_articles/9c7cda71.ext.json)
 
 ---

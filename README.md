@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 07:20:57**
+As of **2024-04-21 07:55:53**
 
 ## Newspaper Stats
 
-*Scraped **19,958** Articles*
+*Scraped **19,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,133 @@ dbsjeyarajcom | 218
 newsfirstlk | 363
 islandlk | 1,076
 dailyftlk | 1,099
-economynextcom | 1,142
+economynextcom | 1,143
 adalk | 1,654
-tamilmirrorlk | 2,302
+tamilmirrorlk | 2,303
 adaderanalk | 2,392
-virakesarilk | 2,981
+virakesarilk | 2,984
 dailymirrorlk | 3,110
-adaderanasinhalalk | 3,244
+adaderanasinhalalk | 3,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-19,955 (100.0%) of 19,958 articles have been extended.
+19,960 (100.0%) of 19,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### දියේ ගිලී පුද්ගලයෙක් මරුට
+
+*2024-04-21 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195825) · `si`
+
+ගොවිදුපුර, ජයන්ති වැවේ මසුන් ඇල්ලීමට ගිය පුද්ගලයෙක් දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+එසේ මියගොස් ඇත්තේ, කොටගොඩ ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+
+ඔහු පෙරේදා (19) දින මසුන් ඇල්ලීම සඳහා නිවසින් පිටව ගොස් ඇති බවට පොලිස් විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/9e68e239.json)
+
+---
+
+### Vietnam debate on monetary or fiscal choices to target output recalls Sri Lanka choices
+
+*2024-04-21 07:32:00* · [`economynextcom`](https://economynext.com/vietnam-debate-on-monetary-or-fiscal-choices-to-target-output-recalls-sri-lanka-choices-159511/) · `en`
+
+ECONOMYNEXT – Vietnam can grow 6.0 percent in 2024, with ‘policy support’ but there is a debate whether it should be done through fiscal (widening deficits/worsening debt or state spending) or monetary means, a top International Monetary Fund official said.
+
+The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a challenging 2023,” Krishna Srinivasan, Director of the Asia and Pacific Department told reporters during the Spring Meetings in Washington.
+
+“Now, in the case of Vietnam, I would say that there’s an issue about policy mix, whether you could get more support from the fiscal and rely less on monetary,” Srinivasan said.
+
+“So there is an issue of policy mix which we’re talking, which we’ve been engaging the authorities with.
+
+“I would say that policy support should be more favorable and that should, and along with external demand, help raise growth to 6 percent.”
+
+...
+
+[Data](articles/03dac629.json)
+
+---
+
+### நடிகர் கவினின் சம்பளத்தை மேலும் உயர்த்துமா 'ஸ்டார்'..!?
+
+*2024-04-21 07:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181528) · `ta`
+
+நடிகர் கவின் நடிப்பில் வெளியாகி வெற்றி பெற்ற 'டாடா' எனும் திரைப்படத்திற்கு பிறகு தன்னுடைய சம்பளத்தை கோடிக்கணக்கில் உயர்த்திய நடிகர் கவின் நடிப்பில் உருவாகி இருக்கும் 'ஸ்டார்' மே மாதம் பத்தாம் திகதியன்று வெளியாகிறது.  நடிகர் கவினின் சம்பளத்தை 'ஸ்டார்' படம் மேலும் உயர்த்துமா.. ! என்பது இப்படம் வெளியான பிறகு உறுதியாக தெரியவரும்.
+
+'பியார் பிரேமம் காதல்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் இளன் இயக்கத்தின் உருவாகி இருக்கும் 'ஸ்டார்'  எனும் படத்தில் கவின், மலையாள நடிகர் லால், பொலிவுட் நடிகை அதிதி பொஹங்கர், பிரீத்தி உன்னிமுகுந்தன், கீதா கைலாசம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கே. எழில் அரசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ரைஸ் ஈஸ்ட் என்டர்டெய்ன்மென்ட் மற்றும் ஸ்ரீ வெங்கடேஸ்வரா சினி சித்ரா ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் பி வி எஸ் என் பிரசாத் மற்றும் ஸ்ரீநிதி சாகர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/b705ebf1.json)
+
+---
+
+### சந்தானம் நடிக்கும் 'இங்க நான் தான் கிங்கு' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-04-21 07:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181531) · `ta`
+
+நடிகர் சந்தானம் நடிப்பில் வெளியான 'வடக்குப்பட்டி ராமசாமி' திரைப்படம் விமர்சன ரீதியாக பெரும் வரவேற்பை பெற்றது. ஆனால் இந்தத் திரைப்படம் வணிக ரீதியாக வெற்றியை பெறவில்லை என தயாரிப்பு நிறுவனம் அதிகாரப்பூர்வமாக அறிவித்தது. இருப்பினும் சந்தானம் 'வடக்குப்பட்டி ராமசாமி' படத்தின் வெற்றிக்குப் பிறகு தன் சம்பளத்தை உயர்த்தி விட்டார்.
+
+இருந்தாலும் அவரது நடிப்பில் தயாராகி வரும் 'இங்க நான் தான் கிங்கு' எனும் படத்தின் வணிகரீதியான வெற்றிக்குப் பிறகு அவர் வாங்கும் சம்பளம் குறித்த திரையுலகினரின் விமர்சனம் வெளியாகும் என எதிர்பார்க்கப்படுகிறது.
+
+இயக்குநர் ஆனந்த் நாராயண் இயக்கத்தில் உருவாகி இருக்கும் 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தில் சந்தானம், பிரியாலயா, தம்பி ராமையா, விவேக் பிரசன்னா, பால சரவணன், முனீஸ் காந்த், மாறன், லொள்ளு சபா சுவாமிநாதன், கூல் சுரேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/309505fc.json)
+
+---
+
+### உண்மை சம்பவங்களை தழுவி தயாராகும் 'ஒரு நொடி' படத்தின் இசை வெளியீடு
+
+*2024-04-21 07:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181532) · `ta`
+
+நடிகர் தமன்குமார் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் தோன்றும் 'ஒரு நொடி' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது.
+
+'கண்மணி பாப்பா' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் பி மணிவர்மன் இயக்கத்தில் உருவாகி இருக்கும் 'ஒரு நொடி' எனும் திரைப்படத்தின் தமன் குமார், எம். எஸ். பாஸ்கர், வேல.ராமமூர்த்தி, பழ. கருப்பையா, கஜராஜ், ஸ்ரீ ரஞ்சனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கே. ஜி. ரத்தீஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சஞ்சய் மாணிக்கம் இசையமைத்திருக்கிறார். உண்மை சம்பவங்களை தழுவி திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்தத் திரைப்படத்தை மதுரை அழகர் மூவிஸ் மற்றும் வைட் லாம்ப் பிக்சர்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் அழகர் ஜி மற்றும் கே.ஜி. ரத்தீஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள். இந்தத் திரைப்படத்தை கிரியேட்டிவ் எண்டர்டெய்ன்மென்ட் டிஸ்ட்ரிபியூட்டர்ஸ் சார்பில் ஜி. தனஞ்ஜெயன் வழங்குகிறார்.
+
+...
+
+[Data](articles/36aa9f97.json)
+
+---
+
+### Pays for 5 years for Easter attack
+
+*2024-04-21 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195824) · `si`
+
+The Kochchikade St. Anthony Church initiated a 5-year remembrance series for the 2019 Easter suicide attacks, involving a march from the church to the Kupepitiya church. The attacks targeted eight locations on April 21, 2019. The Archbishop of Colombo, Ranjith, led the remembrance, highlighting the church's commitment to security.
+
+🟩
+
+The series of remeat was started by the special divine sacrifice held by the Kochchikade St. Anthony Church yesterday (20).
+
+Accordingly, the substacle march from Kochchikade church to the Kupepitiya church from the Kupepitiya Church was held throughout the night.
+
+A group of suicide attacks on the 21st of April 2019 made 10 suicide attacks on eight places in the island.
+
+The series of the remeasury program to mark the attack on the terrorist attacks is the Ceylon of Kochchikade's goal.
+
+The Archbishop of the Archbishop was chaired by the Antron Ranjith, the heightened relatives and wounded in the archbishop.
+
+Meanwhile, police spokesman DIG'sary DIG lawyer said the necessary steps have been taken to provide security to the celebrations of churches.
+
+◼️
+
+[Data](articles/126af6f0.json)
+
+[Extended Data](ext_articles/126af6f0.ext.json)
+
+---
 
 ### Showers in several areas this afternoon
 
@@ -53,6 +163,28 @@ The Department of Meteorology requests the public to take necessary steps to red
 [Data](articles/7b95d8f9.json)
 
 [Extended Data](ext_articles/7b95d8f9.ext.json)
+
+---
+
+### Lack of 40 thousand teachers
+
+*2024-04-21 05:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/40-ஆயிரம்-ஆசிரியர்களுக்கு-பற்றாக்குறை/175-336117) · `ta`
+
+Sri Lanka faces a teacher shortage of 40,000, affecting Upper, Eastern, North Central, and Uva provinces, according to the Sri Lanka Teachers Union.
+
+🟩
+
+There is a shortage of about 40 thousand teachers in Sri Lanka, the Sri Lanka Teachers Union said.
+
+Joseph Stalin, general secretary of the Sri Lanka Teachers Union, said this while speaking to the media in Colombo.
+
+He added that there is a shortage of teachers in the Upper, Eastern, North Central and Uva provinces. (A)
+
+◼️
+
+[Data](articles/f518c611.json)
+
+[Extended Data](ext_articles/f518c611.ext.json)
 
 ---
 
@@ -224,6 +356,8 @@ July 1983 saw the commencement of the darkest era in Sri Lanka’s modern histor
 
 [Data](articles/6db55ece.json)
 
+[Extended Data](ext_articles/6db55ece.ext.json)
+
 ---
 
 ### Dambulla team owns to Bangladesh
@@ -307,6 +441,8 @@ Driving along the busy Baseline Road, when one sees the elegant sweep of the bui
 ...
 
 [Data](articles/c0f2431a.json)
+
+[Extended Data](ext_articles/c0f2431a.ext.json)
 
 ---
 
@@ -2073,151 +2209,5 @@ Due to the case, a large number of police were found in the area. When the man w
 [Data](articles/36851e58.json)
 
 [Extended Data](ext_articles/36851e58.ext.json)
-
----
-
-### Give school children a big gift from the World Food Organization
-
-*2024-04-20 08:07:33* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-ආහාර-දෙන්න-ලෝක-ආහාර-සංවිධානයෙන්-ලොකු-තෑග්ගක්/11-409164) · `si`
-
-The World Food Program distributed 735 metric tons of fortified rice to school children, aiming to reduce iron deficiency. This initiative, under President Ranil Wickremesinghe's instructions, is supervised by Mr. Rizlan. Additionally, 378.835 metric tons of sunflower oil are to be distributed. The Ministry of Education is providing major meals at schools, with nutritionists' recommendations. This program, themed "Healthy acts of a healthy child," aims to address nutritional issues, improve daily attendance, and enhance educational and health habits.
-
-🟩
-
-The World Food Program was released to the enabling rice to be released by the World Food Program for school children who started a nutritional meal for the program of the World Food Program on the instructions of President Ranil Wickremesinghe.
-
-Skipped Rice (Fortified Rice) will be given to school children to reduce iron deficiency among school children and the Director General of the Bulachitectural Secretariat under the Presidential Secretariat.The distribution is conducted by Mr. Rizlan's supervision.
-
-Accordingly, 735 metric tons of rice at the first phase commenced today and operates today (20). The rice is handed over to schools with the observation of the officers of the Department of Provincial Education and Public Health Testing Officers in the area.
-
-...
-
-[Data](articles/cb383a10.json)
-
-[Extended Data](ext_articles/cb383a10.ext.json)
-
----
-
-### Think about you on the weekend house
-
-*2024-04-20 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195798) · `si`
-
-The Met Department predicts a temperature of 20°C today, except in Nuwara Eliya, Kandy, Matale, and Badulla districts.
-
-🟩
-
-The Met Department forecasts a temperature should be paid today (20), except 4 districts, except 4 districts.
-
-According to the Nuwara Eliya, Kandy, Matale and Badulla districts, the Deputy Director Merrill Mendis said.
-
-◼️
-
-[Data](articles/c269c1db.json)
-
-[Extended Data](ext_articles/c269c1db.ext.json)
-
----
-
-### Evening thundershowers possible in many areas today
-
-*2024-04-20 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98734/evening-thundershowers-possible-in-many-areas-today) · `en`
-
-Showers or thundershowers will occur in parts of the Western, Sabaragamuwa, North-western, Uva and Central provinces and Anuradhapura, Vavuniya, Mannar, Galle and Matara districts after 2.00 p.m. today (20).
-
-Misty conditions are expected at some places in Sabaragamuwa and Central provinces and in Kalutara, Galle and Matara districts during the morning.
-
-The general public is urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
-
-Winds will be South-westerly or variable in direction and wind speed will be 20-30 kmph.
-
-Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from   Puttalam to Kankesanturai via Mannar and from Galle to Hambantota via Matara.
-
-...
-
-[Data](articles/ff0e0e7a.json)
-
-[Extended Data](ext_articles/ff0e0e7a.ext.json)
-
----
-
-### Notice to unfolding military members who have not reported long
-
-*2024-04-20 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195797) · `si`
-
-Sri Lanka Army requires military members to report for long-term leave by 20th. Public can legally leave the war until then. Documents needed include military ID, National ID, Driving License, and bank book copy.
-
-🟩
-
-Military MPs who have not reported to the long-term leave of Sri Lanka Army have been published in general period from today (20).
-
-The Army said that the public is running out until the 20th of this month to leave the war legally.
-
-Accordingly, this period is the opportunity to associate with the Regiment Center, which is legally.
-
-Army announced that the military identity card, a copy of the National Identity Card or Driving License, a photocopy of the bank book entitled.
-
-◼️
-
-[Data](articles/da34bc0c.json)
-
-[Extended Data](ext_articles/da34bc0c.ext.json)
-
----
-
-### Showers at several places
-
-*2024-04-20 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195796) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, North Western, Uva, and Central provinces, and in Anuradhapura, Vavuniya, Mannar, Galle, and Matara districts after 2.00 pm. Some areas may experience these conditions for a morning. Met Department advises taking precautions against strong winds and lightning.
-
-🟩
-
-In the Western, Sabaragamuwa, North Western, Uva and Central provinces, in Anuradhapura, Vavuniya, Mannar, Galle and Matara districts. Showers or thundershowers will occur at several places, after 2.00 pm, the Met Department said.
-
-Some locations can last a morning in the Sabaragamuwa and Central provinces and in Kalutara, Galle and Matara districts.
-
-The Department has informed the people to take necessary steps to reduce temporary strong winds and damage to lightning.
-
-◼️
-
-[Data](articles/04a89df6.json)
-
-[Extended Data](ext_articles/04a89df6.ext.json)
-
----
-
-### Electric Cables worth Rs.10 million chipped away from train parked at Hikkaduwa
-
-*2024-04-20 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electric-Cables-worth-Rs-10-million-chipped-away-from-train-parked-at-Hikkaduwa/108-281023) · `en`
-
-In a daring robbery which has stunned authorities, thieves managed to steal electric cables worth over Rs.10 million from a train named ‘Nayana Kumari’ stationed at Hikkaduwa railway station, a top official said.
-
-Deputy Superintendant- Railway Protection Force G.W. Sumith said the incident, had occurred in the early hours of Thursday, targeting the Nayana Kumari express train which had arrived the previous night from Colombo.
-
-According to railway security officials, the thieves specifically targeted cables used for powering the lighting system within the passenger compartments. Their method of operation suggests a sophisticated understanding of electric circuits, as only individuals familiar with such technology would be able to dismantle the cables.
-
-...
-
-[Data](articles/fb7be4c9.json)
-
-[Extended Data](ext_articles/fb7be4c9.ext.json)
-
----
-
-### SJV Chelvanayakam and the Ilankai Thamil Arasuk Katchi(ITAK)/Federal Party(FP).
-
-*2024-04-20 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83918) · `en`
-
-The  Ilankai  Thamil Arasuk Katchi(ITAK) known in English as the Federal Party will celebrate its 75th Birthday in December this year. The premier political party of the Sri Lankan Tamil people known as “Ilankai Thamizhar”in  their mother tongue was born on 18 December 1949. On that day, a group of sixty Tamils including two parliamentarians and two senators  convened at the Government Clerical Service Union (GCSU) hall in Colombo.
-
-That historic conclave resulted in the launching  of  a new political party with the avowed goal of establishing an autonomous State for  the Tamil-speaking people of Ceylon (as Sri Lanka was known then) within a united island. The new party was named in Tamil as “Illankai Thamil Arasu Katchi” meaning Ceylon  Tamil State or Tamil Government Party.
-
-...
-
-[Data](articles/00325760.json)
-
-[Extended Data](ext_articles/00325760.ext.json)
 
 ---

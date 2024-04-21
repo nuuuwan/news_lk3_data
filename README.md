@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 02:49:48**
+As of **2024-04-22 03:03:42**
 
 ## Newspaper Stats
 
@@ -26,59 +26,85 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,105 (100.0%) of 20,110 articles have been extended.
+20,110 (100.0%) of 20,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### அரசியலுக்கு அப்பாற்பட்ட வகையில் மறுசீரமைப்புக்களை தொடர வேண்டும் - நளின் பெர்னாண்டோ
+### Continue to restructure beyond politics - Nalin Fernando
 
 *2024-04-22 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181609) · `ta`
 
-நாட்டின் பொருளாதார நிலைமை தொடர்பில் பகிரங்க விவாதத்தை நடத்த முடியாதவர்கள் எவ்வாறு பொருளாதார பாதிப்புக்கு நிலையான தீர்வினை காண்பார்கள் என்பதை மக்கள் சிந்திக்க வேண்டும்.தற்போதைய மறுசீரமைப்புக்களை அரசியலுக்கு அப்பாற்பட்ட வகையில் முன்கொண்டு செல்ல வேண்டும் என  வர்த்தக, வாணிப மற்றும் உணவுப் பாதுகாப்பு அமைச்சர் நளின் பெர்ணான்டோ தெரிவித்தார்.
+Nalin Fernando emphasizes moving beyond politics for economic solutions. After a massive crisis, President Ranil Wickremesinghe stabilized the economy, leading to normalcy and reduced commodity prices. The government's economic decisions were successful, celebrated in New Year's. Despite calls for public debate on the economy, the situation remains unresolved. Sri Lanka's IMF activities are successful, with foreign loans restructured by July.
 
-பாரிய பொருளாதார நெருக்கடியிலிருந்து மீண்டுள்ளோம். பொருளாதாரம்,அரசியல் மற்றும் சமூக கட்டமைப்பு என்பன பாரிய சவால்களை எதிர்க்கொண்டிருந்த போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க அரசாங்கத்தைப் பொறுப்பேற்றார்.நாட்டின் சட்டம் மற்றும் ஒழுங்கை நிலைநாட்டினார்.அதனை தொடர்ந்து எரிபொருள்,எரிவாயுவுக்கான வரிசை யுகத்தை முடிவுக்கு கொண்டு வந்தார்.
+🟩
 
-நாட்டின் நிதி நிலைமை ஸ்திரப்படுத்தப்பட்டதன் பின்னர் மக்களின் வாழ்க்கை இயல்பு நிலைக்குத் திரும்பியுள்ளது.அத்தியாவசிய பொருட்களின் விலைகளும் குறைக்கப்பட்டுள்ளன.இனி வரும் காலங்களிலும் அத்தியாவசிய பொருட்களின் விலைகள் குறைக்கப்படும்.
+The people should think about how those who cannot hold public debate on the economic situation of the country should find a sustainable solution to the economic impact.
+
+We have recovered from the massive economic crisis. President Ranil Wickremesinghe took over the government when the economy, political and social structure were opposed to the massive challenges. He continued the country's law and order.
+
+After the stabilization of the country's financial situation, people's lives have returned to normal. The prices of essential commodities have been reduced.
+
+The government's decisions to address the economic crisis have been successful. Our success has emerged in New Year's celebrations.
+
+United People's Liberation Front called for the Janatha Vimukthi Peramuna to come up with a public debate on the country's economic situation. But the debate is still in a state of disrepair.
 
 ...
 
 [Data](articles/5892a857.json)
 
+[Extended Data](ext_articles/5892a857.ext.json)
+
 ---
 
-### பொலிஸார் சட்டத்தை கையிலெடுத்துள்ளனர் உயர்நீதிமன்றத்தில் முன்னிலையாவதற்கு தயாராகுங்கள் - அமைச்சர் விஜேதாச ராஜபக்ஷ
+### Police have taken up law
 
 *2024-04-22 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181608) · `ta`
 
-ஸ்ரீலங்கா சுதந்திர கட்சியின் பதில் தவிசாளராக நியமிக்கப்பட்டதையடுத்து, உத்தியோகபூர்வமாக கடமைகளை பொறுப்பேற்பதற்கு எனக்கு அனுமதி மறுக்கப்பட்டுள்ளது. யாரோ ஒரு தரப்பினரின் கைப்பாவையாக செயற்படும் பொலிஸார் சட்டத்தை கையிலெடுத்துள்ளனர். உயர்நீதிமன்றத்தில் முன்னிலையாவதற்கு தயாராக இருக்குமாறு அவர்களை எச்சரிப்பதாக அமைச்சர் விஜேதாச ராஜபக்ஷ தெரிவித்தார்.
+After SLFP appointment, denial of duties. Minister Wijeyadasa Rajapakse warns of High Court appearance. Police block access to party headquarters, claiming investigation. Despite missing files, no investigations conducted. Police now demand further investigations. Rajapakse refuses to go to the first floor, insisting on the fifth floor auditorium. Police deny, accusing of illegal law-taking.
 
-சு.க. தவிசாளராக நியமிக்கப்பட்டதைத் தொடர்ந்து கொழும்பு, டாலி வீதியில் அமைந்துள்ள கட்சி தலைமையகத்துக்கு சென்ற போது ஏற்பட்ட பதற்ற நிலைமையின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போதே அவர் இதனைத் தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-பதில் தவிசாளராக நியமனம் வழங்கப்பட்டதையடுத்து, எமது பணிகளை ஆரம்பிப்பதற்காகவே கட்சி தலைமையகத்துக்கு வருகை தந்தோம். எனினும் கட்சி தலைமையகத்தின் பிரதான நுழைவாயில் மூடப்பட்டுள்ளது. இங்கு விசாரணைகள் இடம்பெற்றுக் கொண்டிருப்பதால் உட்செல்ல அனுமதிக்க முடியாது என்று பொலிஸ் உத்தியோகத்தர் ஒருவர் குறிப்பிடுகின்றார்.
+After the appointment of the Sri Lanka Freedom Party (SLFP), I have been denied permission to officially take responsibility for duties. Someone acting as a puppet of a party has taken over the law. Minister Wijeyadasa Rajapakse said he warned them to be prepared to appear in the High Court.
+
+.க. He was speaking to the media following the tension when he went to the party headquarters in Dolly Road, Colombo following his appointment.. As he further notes,
+
+After appointing as a reply, we visited the party headquarters to start our tasks. However the main entrance of the party headquarters is closed. A police officer states that the investigation is being carried out here.
+
+Although the files have been missing on the 5th, the police have not carried out any investigations so far. But now the police say that further investigations have to be carried out. The reply secretary complained that the files were missing on the first floor of the headquarters.
 
 ...
 
 [Data](articles/89e3ade2.json)
 
+[Extended Data](ext_articles/89e3ade2.ext.json)
+
 ---
 
-### படுகொலை செய்யப்பட்ட கிளிபாதரின் 16 ம் ஆண்டு நினைவேந்தல் உணர்வுப் பூர்வமாக அனுஷ்டிப்பு
+### The 16th anniversary of the assassinated clipadar
 
 *2024-04-22 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181607) · `ta`
 
-தமிழ் மக்களின் மனங்களில் என்றும் வாழும் படுகொலை செய்யப்பட்ட கிளிபாதரின் 16 ம் ஆண்டு  நினைவேந்தல் நிகழ்வு  சனிக்கிழமை (20) வவுனிக்குளம் பகுதியில் உணர்வுப் பூர்வமாக நடைபெற்றது.
+On the 16th anniversary of the assassination of Xavier Karunaratnam Adikal (Parrot Badar), a human rights director, a special worship was held in Vavuniya, led by the Mannar Diocese. The event honored Adikal's work and the victims of the Sri Lanka Army's attack in 2008.
 
-20.04.2008 அன்று முல்லைத்தீவு மாவட்டத்தின் மல்லாவி வன்னிவிளாங்குளம் அம்பாள்புரம் 6 ம் கட்டை பகுதியில் ஸ்ரீலங்கா இராணுவத்தினரின் ஆழ ஊடுருவும் அணியின் கிளைமோர் தாக்குதலில் படுகொலை செய்யப்பட்ட சேவியர் கருணாரட்ணம் அடிகளார்  (கிளி பாதர்) அவர்களின் 16 ம் ஆண்டு நினைவேந்தல் நிகழ்வு சனிக்கிழமை (20) வவுனிக்குளம் அன்னை வேளாங்கண்ணி ஆலயத்தில் உணர்வுப்பூர்வமாக இடம்பெற்றிருந்தது.
+🟩
 
-குறித்த நிகழ்வில் மன்னார் மறைமாவட்ட தாழ்வுப் பாட்டு பங்குத்தந்தை அருட்பணி பெப்பி சோசை  அடிகளார் அவர்களின் தலைமையில் இரங்கல் திருப்பலி ஒப்புக்கொடுக்கப்பட்டது விசேட வழிபாடுகள் நடைபெற்றது.
+The 16th anniversary of the murder of the Tamil people in the minds of the Tamil people was held on Saturday (20) in Vavuniya.
 
-இதேவேளை  யுத்தத்தில் சரணடைந்து காணாமல் ஆக்கப்பட்ட பிரான்சிஸ் ஜோசப் அடிகளாருக்காகவும் அவருடன்  காணாமல் ஆக்கப்பட்ட மக்களுக்காகவும் உயிரிழந்த உறவுகளுக்காகவும் மன்றாடப்பட்டது.
+Xavier Karunaratnam Adikallar (Parrot Badar) was held on Saturday (20) at the Vavunikulam Celebration of the Mullaithivu District Mallavi Wanniwilangulam Ambalpuram in the Ambalpuram 6th Climore attack of the Sri Lanka Army.
+
+Special worship was held at the event, led by the Mannar Diocese of the Diocese of the Diocese.
+
+At the same time, Francis Joseph, who surrendered in the war, begged for the missing people and for the dead.
+
+The tribute was chaired by Mallavi Stockbroker Newman and the University of Jaffna University of Jaffna, Mike Donald, and many others from various districts, including Jaffna, Jaffna, were present.
 
 ...
 
 [Data](articles/fb44ddd8.json)
+
+[Extended Data](ext_articles/fb44ddd8.ext.json)
 
 ---
 
@@ -230,33 +256,51 @@ Brown & Company’s Digital Transformation Solutions Strategic Business Unit rec
 
 ---
 
-### ஈஸ்டர் தாக்குதலில் தொடர்புடையவர்கள் குறித்து விசாரணை நடத்துவதாக ஜே. வி. பி உறுதியளித்துள்ளமை நகைப்புக்குரியது - பிரசன்ன ரணதுங்க
+### J is investigating those involved in the Easter attack. V.. B. Prompt is laughable - Prasanna Ranatunga
 
 *2024-04-22 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181606) · `ta`
+
+Prasanna Ranatunga, Minister of Urban Development and Housing, criticizes the JVP's investigation into the Easter attack, highlighting the sacrifices made by low-income earners and the government's efforts to stabilize the economy. He also questions the JVP's motives, suggesting they might seek Catholic votes.
+
+🟩
 
 ...
 
 [Data](articles/6f24d238.json)
 
+[Extended Data](ext_articles/6f24d238.ext.json)
+
 ---
 
-### குறைந்த மொத்த எண்ணிக்கைகளைக் கொண்ட போட்டியில் பஞ்சாபை வீழ்த்தியது குஜராத்
+### Gujarat defeated Punjab in a minimum total number
 
 *2024-04-22 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181605) · `ta`
 
-மொஹாலி, மல்லன்பூர் மகாராஜா யாதவேந்த்ரா சிங் சர்வதேச விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (21) நடைபெற்ற  38ஆவது இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் பஞ்சாப் கிங்ஸை 3 விக்கெட்களால் குஜராத் டைட்டன்ஸ் வெற்றிகொண்டது.
+Gujarat Titans won against Punjab Kings in IPL, thanks to Sai Kishore's 4 wickets, Noor Ahmad's bowling, and Rahul Tewatia's play. Gujarat scored 143, won by 7 wickets in 19.1 overs, and by 146 runs.
 
-குறைந்த மொத்த எண்ணிக்கைகள் பெறப்பட்ட இந்தப் போட்டியில் 5 பந்துகள் மாத்திரம் மீதமிருந்த நிலையிலேயே குஜராத் டைட்டன்ஸ் வெற்றிபெற்றது.
+🟩
 
-சாய் கிஷோரின் 4 விக்கெட் குவியல், நூர் அஹ்மதின் துல்லியமான பந்துவீச்சு, ராகுல் தெவாட்டியாவின் அதிரடி துடுப்பாட்டம் என்பன குஜராத்தின் வெற்றியில் பிரதான பங்காற்றின.
+Gujarat Titans won the Punjab Kings at the 38th Indian Premier League cricket match at the Maharaja Maharaja Yadavendra Singh International Stadium on Sunday (21).
 
-143 ஓட்டங்கள் என்ற சுமாரான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் 19.1 ஓவர்களில் 7 விக்கெட்களை இழந்து 146 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+The Gujarat Titans won the match with only 5 balls remaining in the match.
 
-ஆரம்ப விரர் ரிதிமான் சஹா 13 ஓட்டங்களை மாத்திரம் பெற்று ஆட்டம் இழந்தார். அத்துடன் பவர் ப்ளே ஓவர் நிறைவில் குஜராத் டைட்டன்ஸ் ஒரு விக்கெட்டை இழந்து 45 ஓட்டங்களை மாத்திம் பெற்றிருந்தது.
+Sai Kishore's 4 wickets pile, Noor Ahmad's accurate bowling and Rahul Tewatia's action play played a major role in Gujarat's success.
+
+Gujarat Titans, who were bowled out for 143 runs, won by 7 wickets in 19.1 overs and won by 146 runs.
+
+Initial Virer Ritiman Saha lost only 13 runs. The Gujarat Titans lost one wicket at the Power Play Over and scored 45 runs.
+
+When the total number was 66 runs, team captain Shubman Kill scored 35 runs due to negligence.
+
+David Miller, who was named for the action, did not shine greatly this year and scored only 4 runs in the match.
+
+Gujarat Titans faced a small crisis to lose the match with 31 runs. (97 - 4 wig.)
 
 ...
 
 [Data](articles/c1126870.json)
+
+[Extended Data](ext_articles/c1126870.ext.json)
 
 ---
 

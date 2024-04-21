@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 21:52:52**
+As of **2024-04-21 22:04:47**
 
 ## Newspaper Stats
 
-*Scraped **20,083** Articles*
+*Scraped **20,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,677
+adalk | 1,678
 tamilmirrorlk | 2,318
-adaderanalk | 2,407
+adaderanalk | 2,408
 virakesarilk | 2,993
-dailymirrorlk | 3,129
+dailymirrorlk | 3,132
 adaderanasinhalalk | 3,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,083 (100.0%) of 20,083 articles have been extended.
+20,083 (100.0%) of 20,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### No one will be left behind in nation building – President
+
+*2024-04-21 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98764/no-one-will-be-left-behind-in-nation-building-president-) · `en`
+
+President Ranil Wickremesinghe declared the government’s commitment to ensuring inclusivity in strengthening the country’s economy, prioritizing both economic growth and citizen welfare. He emphasized the need to distribute economic benefits equitably among all citizens, acknowledging the impact of recent economic challenges on everyone.
+
+Addressing the inauguration ceremony of the National Rice Distribution for low-income families at Ambagasdowa Stadium, Uva Paranagama President Ranil Wickremesinghe announced that 2.74 million low-income families would receive a monthly allocation of 10 kilograms of rice for two months. Specifically, 191,548 eligible families in 15 Divisional Secretariat Divisions within the Badulla district were identified to receive this subsidy. The President symbolically distributed rice bags to 25 beneficiaries, marking the commencement of the rice allocation.
+
+...
+
+[Data](articles/f0955d5f.json)
+
+---
+
+### President vows inclusive economic growth
+
+*2024-04-21 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-vows-inclusive-economic-growth/108-281094) · `en`
+
+President Ranil Wickremesinghe assured that the government will not pass or leave anyone behind in the programme to strengthen the economy of the country as well as the people.
+
+While attending the opening ceremony of the 2024 National Programme for the distribution of rice to low-income families held today (21) at the Ambagasdowa Public Stadium, Uva Paranagama, he said in the face of the last economic crisis, all the people of the country were affected without distinction and therefore all those people should get the benefits of the country's emerging economy.
+
+"The economy of the country is being gradually developed. Today, the villages receive money through tourism. Also, the agriculture modernization programme has been implemented. It should be said that its purpose is to create a strong export agriculture," he said.
+
+Under this programme, 2.74 million low-income families covering the entire island will be given ten kilos of rice per month for a period of two months, April and May.
+
+...
+
+[Data](articles/511d0c9b.json)
+
+---
 
 ### Kolkata beat Bangalore by one run in the last match
 
@@ -109,6 +141,18 @@ Meanwhile, a group of people who attempted to enter the Darley Party building, w
 [Data](articles/11c9167b.json)
 
 [Extended Data](ext_articles/11c9167b.ext.json)
+
+---
+
+### Victims of Easter Sunday terror attacks commemorated
+
+*2024-04-21 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Victims-of-Easter-Sunday-terror-attacks-commemorated/110-281093) · `en`
+
+People commemorated victims of the Easter Sunday terror attacks at a cemetery in Katuwapitiya today, marking the 5th anniversary of the Easter Sunday bomb attacks. Over 260 were killed in the blasts which targeted three churches and three luxury hotels in the island in April 2019. A prayer procession was also held from Maris Stella College, Negombo to St. Sebastian's Church, Katuwapitiya to mark the occasion. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/0cf3b61a.json)
 
 ---
 
@@ -255,6 +299,18 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 [Data](articles/87f29456.json)
 
 [Extended Data](ext_articles/87f29456.ext.json)
+
+---
+
+### විජයදාසට ශ්‍රීලංනිපයේ ලොකු තනතුරක්
+
+*2024-04-21 19:14:21* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-ශ්‍රීලංනිපයේ-ලොකු-තනතුරක්/11-409192) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රජජක්ෂ මහතා පත්කර ගැනීමට එම පක්ෂයේ දේශපාලන මණ්ඩලය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/3166a4ab.json)
 
 ---
 
@@ -745,6 +801,28 @@ According to hospital sources, the condition of some of the injured is critical.
 [Data](articles/4686172b.json)
 
 [Extended Data](ext_articles/4686172b.ext.json)
+
+---
+
+### Racing event tragedy leaves seven dead including eight-year-old child
+
+*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Racing-event-tragedy-leaves-seven-dead-including-eight-year-old-child/155-281089) · `en`
+
+Colombo, April 21 (Daily Mirror) - The Fox Hill Super Cross 2024 racing event, held in Diyatalawa today (21), turned tragic as a race car veered off the track, resulting in the deaths of seven individuals including an eight-year-old child and leaving over 20 others hospitalized with injuries.
+
+According to Police Media Spokesman, DIG Nihal Thalduwa, the accident occurred when two race cars lost control and collided with a group of spectators.
+
+The deceased are residents of Avissawella, Matara, Akuressa and Seeduwa.
+
+The injured who were rushed to the Diyatalawa Base Hospital are currently receiving treatment.
+
+Furthermore, three individuals who sustained critical injuries have been transferred to the Badulla Hospital.
+
+In light of the mishap, the rest of the races at the event have been cancelled.
+
+...
+
+[Data](articles/c61986ae.json)
 
 ---
 
@@ -2181,123 +2259,5 @@ Perhaps there is no phrase of Karl Marx that is better known or more frequently 
 [Data](articles/45b11798.json)
 
 [Extended Data](ext_articles/45b11798.ext.json)
-
----
-
-### Development officer of the salesman falls into the well
-
-*2024-04-21 08:30:57* · [`adalk`](https://www.ada.lk/breaking_news/වලිප්පුව-හැදුනු-සංවර්ධන-නිලධාරිනිය-ළිඳට-වැටී-මරුට/11-409174) · `si`
-
-A development officer, Pradeepan Nammee, 37, fell into a well in Sakhapuram, Jaffna, and died from drowning. The cause of death was directed to the final mortality traffic in the Jaffna Teaching Hospital.
-
-🟩
-
-The Thelappalai Police say that a development officer falls into the well of Sakhapuram in Jaffna.
-
-The woman went to the girl that the woman tried to get water in the garden, and the police went to the place where she had fallen into the well and drowning her well.
-
-The relatives of the family have also told the police that the dead woman had long been palin from the disease of treasure.
-
-The deceased is Pradeepan Nammee, a 37-year-old Pradeepan Natayaka, and she has served as a development officer of the Southwest Pradeshiya Sabha.
-
-Tippalai Police further stated that the death of the deceased woman has been directed to the final mortality traffic in the Jaffna Teaching Hospital.
-
-◼️
-
-[Data](articles/37478b78.json)
-
-[Extended Data](ext_articles/37478b78.ext.json)
-
----
-
-### Approval for Ukraine Able Assistance
-
-*2024-04-21 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195826) · `si`
-
-The American Representative approved a $61 billion loan for Ukraine, delayed by Republican opposition, but passed by the House due to Russian aggression. Ukrainian President Verthadamir Celencesi thanked the U.S., while spokesperson Dimitri Pescov criticized the move.
-
-🟩
-
-The American Representative Member of America has approved the provision of $ 61 billion loan assistance for Ukraine.
-
-The proposal was delayed for several months due to the Republican Party opposition.
-
-However, the House of Representatives had agreed to pass the package on a heavy request that Russian attacks were promoted to Ukraine.
-
-Brother Verthadamir Celencesi has expressed his gratitude to the same decision in the United States.
-
-Spokesperson Dimitri Pescov stated that the package is enriched by this package and Ukraine will be destroyed.
-
-◼️
-
-[Data](articles/17772fac.json)
-
-[Extended Data](ext_articles/17772fac.ext.json)
-
----
-
-### Educational Administration Services Results of Sri Lanka
-
-*2024-04-21 08:25:57* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-පරිපාලන-සේවා-සීමිත-තරග-විභාගයේ-ප්‍රතිඵල-නිකුත්-කෙරේ/11-409173) · `si`
-
-In 2023, 735 qualified individuals were admitted to the Sri Lanka Education Administrative Service through the official website of the Department of Examinations. This competitive examination, held five years after 2019, aimed to fill vacancies in the service, as instructed by Minister Dr. Susil Premajayantha.
-
-🟩
-
-Sri Lanka Education Administrative Service of Sri Lanka Education Administrative Services in 2023. According to the results, the list of 735 qualified persons have been admitted to the official website of the Department of Examinations and the candidates of the Examinations have been able to view the results.
-
-The competitive examination was held in the Sri Lanka Education Administrative Service for about five years after the year 2019 and was conducted to fill the vacancies of the Sri Lanka Education Administrative Service of the Sri Lanka Education Administrative Service of the Sri Lanka Education Administrative Service of Dr. Susil Premajayantha.. The Minister has instructed the officers to take steps to fill vacancies as soon as possible.
-
-◼️
-
-[Data](articles/05d23688.json)
-
-[Extended Data](ext_articles/05d23688.ext.json)
-
----
-
-### Sigiriya and Dambulla Tourism Zonal Development Projects
-
-*2024-04-21 08:20:23* · [`adalk`](https://www.ada.lk/breaking_news/සීගිරි-හා-දඹුලු-සංචාරක-කලාප-සංවර්ධන-ව්‍යාපෘති-නිම-කිරීමට-කාලයක්-දෙයි/11-409172) · `si`
-
-The Sigiriya and Dambulla Tourism Zonal Development Project, under the Ministry of Urban Development and Housing, aims to revitalize tourism in these areas with a focus on conservation, income generation, and environmental management. Funded by the Asian Development Bank, the project, temporarily halted due to Covid and economic crisis, is set to complete before Q3. It includes infrastructure improvements and aims to boost local economies.
-
-🟩
-
-Instructions to complete the Sigiriya and Dambulla Tourism Zonal Development Project before the third quarter of the year
-
-Urban Development and Housing Minister Prasanna Ranatunga was instructed by officials to end before the third quarter of this year as Sigiriya and Dambulla tourism.
-
-The Ministry of Finance has also appointed a committee to facilitate urban facilities in the project.
-
-Minister Prasanna Ranatunga says the project is implemented under the Sustainant Urban Development Project of the Ministry of Urban Development and Housing. Established in 2019, the project was temporarily halted due to the Covid Epidemic and the economic crisis in the country.
-
-...
-
-[Data](articles/86ac6a5a.json)
-
-[Extended Data](ext_articles/86ac6a5a.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-04-21 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98749/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Uva province and in Anuradhapura, Vavuniya, and Mannar districts during the afternoon or night.
-
-Showers will occur in the western coastal areas during the morning too, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3da0eda0.json)
-
-[Extended Data](ext_articles/3da0eda0.ext.json)
 
 ---

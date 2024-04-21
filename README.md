@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 19:33:57**
+As of **2024-04-21 19:50:53**
 
 ## Newspaper Stats
 
-*Scraped **20,066** Articles*
+*Scraped **20,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailyftlk | 1,099
 economynextcom | 1,145
 adalk | 1,673
 tamilmirrorlk | 2,317
-adaderanalk | 2,405
+adaderanalk | 2,406
 virakesarilk | 2,989
 dailymirrorlk | 3,128
-adaderanasinhalalk | 3,263
+adaderanasinhalalk | 3,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,066 (100.0%) of 20,066 articles have been extended.
+20,066 (100.0%) of 20,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
+
+### Sri Lanka to miss budget revenue target for 33rd year running in 2024: Verité Research
+
+*2024-04-21 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98762/sri-lanka-to-miss-budget-revenue-target-for-33rd-year-running-in-2024-verit-research) · `en`
+
+Sri Lanka’s fiscal landscape remains challenging as it continues to struggle with meeting its revenue to GDP target for the 33rd consecutive year. The recently released “State of the Budget Report 2024” by Verité Research underscores this persistent issue, offering a comprehensive analysis of Sri Lanka’s fiscal health. This annual report serves as a crucial tool for informed engagement with the budget, providing objective insights into the country’s fiscal, financial, and economic estimates.
+
+...
+
+[Data](articles/a9df1b3b.json)
+
+---
+
+### හෙට උෂ්ණත්වය අවධානය යොමු කළ යුතු මට්ටම දක්වා ඉහළට
+
+*2024-04-21 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195843) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (22) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරු-මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණු සහ වයඹ පළාත්වලත් මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම "අවධානය යොමුකළ යුතු මට්ටමක" පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/87f29456.json)
+
+---
 
 ### Peter’s beat Royal to claim championship
 
@@ -2209,39 +2237,5 @@ Muhseen, previously Deputy Chairman of the Bank, succeeds Prof. Ananda Jayawarda
 [Data](articles/0c696d37.json)
 
 [Extended Data](ext_articles/0c696d37.ext.json)
-
----
-
-### Hayleys Fabric celebrates triple triumph at ISPO Textrends Spring/Summer 2026
-
-*2024-04-21 06:00:00* · [`islandlk`](http://island.lk/hayleys-fabric-celebrates-triple-triumph-at-ispo-textrends-spring-summer-2026/) · `en`
-
-In a remarkable demonstration of innovation and sustainability, Sri Lanka’s largest textile manufacturer Hayleys Fabric PLC proudly announced its achievement at the prestigious ISPO Textrends Spring/Summer 2026, where three pioneering innovations were recognised.
-
-Serving as a key global benchmark for innovation in the textile industry, the German platform showcases breakthrough advancements of the world’s most innovative and high-performance fabrics.
-
-“We are delighted to have our relentless pursuit of sustainable innovation recognised again, as it underscores our dedication to ensuring we break new ground in textiles that benefit both the industry and the planet. We firmly believe sustainability and innovation are key drivers for Sri Lanka’s export sector and we are committed to continuously developing solutions that meet the evolving needs of the global apparel industry while minimising our environmental footprint,” Hayleys Fabric Managing Director Rohan Goonetilleke said.
-
-...
-
-[Data](articles/1f47e2bc.json)
-
-[Extended Data](ext_articles/1f47e2bc.ext.json)
-
----
-
-### Brantel appointed Partner and Reseller of global networking giant Cisco
-
-*2024-04-21 06:00:00* · [`islandlk`](http://island.lk/brantel-appointed-partner-and-reseller-of-global-networking-giant-cisco/) · `en`
-
-Brantel Lanka (Pvt) Ltd., has announced the Company’s appointment as a Partner and Authorized Reseller in Sri Lanka for Cisco Networks, the global leader in networking hardware, software and services, a company news release said.
-
-The Company said its primary role as a Cisco Partner would be to help build the online presence, and automate the business processes, of small and medium businesses (SMBs) in Sri Lanka by catering to their specific networking needs.
-
-...
-
-[Data](articles/3ccce7e7.json)
-
-[Extended Data](ext_articles/3ccce7e7.ext.json)
 
 ---

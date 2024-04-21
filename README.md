@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 18:35:24**
+As of **2024-04-21 18:51:51**
 
 ## Newspaper Stats
 
-*Scraped **20,061** Articles*
+*Scraped **20,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,670
+adalk | 1,673
 tamilmirrorlk | 2,317
-adaderanalk | 2,404
+adaderanalk | 2,405
 virakesarilk | 2,989
 dailymirrorlk | 3,127
 adaderanasinhalalk | 3,263
@@ -26,33 +26,73 @@ adaderanasinhalalk | 3,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,060 (100.0%) of 20,061 articles have been extended.
+20,061 (100.0%) of 20,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-21 (Sunday)
 
-### සුපිරි නළු විජෙයිට එරෙහිව පැමිණිල්ලක්
+### Almost half of all major Chinese cities are sinking, study says
+
+*2024-04-21 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98761/almost-half-of-all-major-chinese-cities-are-sinking-study-says) · `en`
+
+Almost half of China’s major cities are sinking, putting millions of locals at risk of flooding, according to a new study published in the journal Science this week.
+
+The study found that 45% of China’s urban land was sinking faster than 3 mm a year, while 16% was sinking at a rate of more than 10 mm a year.
+
+The study authors looked at 82 Chinese cities with populations of more than 2 million and used radar pulses from satellites to identify any changes in the distance between the satellite and the ground.
+
+They then measured how the cities’ elevations had changed between 2015 and 2022.
+
+They found that China’s largest city, Shanghai, was continuing to subside despite already sinking around 3 m over the past 100 years.
+
+Cities such as Beijing and Tianjin were also particularly affected.
+
+...
+
+[Data](articles/72caf671.json)
+
+---
+
+### Complaint against super-actor Weiman
 
 *2024-04-21 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195842) · `si`
 
-ඉන්දීය මැතිවරණයේ ඡන්දය ප්‍රකාශ කිරීම සඳහා පැමිණි අවස්ථාවේ දකුණු ඉන්දීය සුපිරි නළු විජෙයි අකරතැබ්බයකට මුහුණ දී තිබේ.
+During the Indian elections, South Indian super-star Weiman faced a controversy when a large crowd gathered at his polling station in Chennai, leading to chaos and allegations of illegal voting. The police struggled to control the situation, and Weiman was accused of voting without a queue. Despite these claims, no action has been taken by the Chennai police.
 
-චෙන්නායි හි පිහිටි ඔහුට අදාළ ඡන්ද මධ්‍යස්ථානය වෙත පැමිණි අවස්ථාවේ ඔහුව දැකබලාගැනීමට විශාල පිරිසක් එම ස්ථානයට රැස්ව ඇත.
+🟩
 
-එහිදී උණුසුම් තත්ත්වයක් ඇතිවී තිබෙන බවත් අනතුරුව පොලීසිය පැමිණ තත්ත්වය පාලනය කර පෝලිමේ නොසිට විජෙයි හට ඡන්දය ප්‍රකාශ කිරීම සඳහා අවස්ථාව ලබා දී ඇති බවත් වාර්තා වෙයි.
+At the time of the election of the Indian elections, South Indian super-wijits faced a misery.
 
-මෙම සිදුවීමත් සමග චෙන්නායි පොලීසිය වෙත පැමිණිල්ලක් ලැබී ඇත්තේ විජෙයි නීතිවිරෝධී ලෙස ඡන්දය ප්‍රකාශ කර ඇති බවටය.
+A large number of people gathered to see him when he arrived at the polling station in Chennai.
 
-ඔහුට එරෙහිව එල්ලවී ඇති චෝදනාව වන්නේ විශාල පිරිසක් පිරිවරාගෙන ජනතාවට හිරිහැර වන අයුරින් ඡන්ද මධ්‍යස්ථානය වෙත පිවිසීමයි.
+It is reported that the police have come to the police and has not been able to control the situation and the opportunity to vote without queue.
 
-කෙසේ වෙතත් මේ සම්බන්ධයෙන් චෙන්නායි පොලීසිය මේ දක්වා කිසිදු පියවරක් ගෙන නොමැති බවද විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+With this incident, Chennai police complain is that Vijay illegally voted.
 
-විජෙයි එදින අලුයම සිය නවතම චිත්‍රපටයේ රූගත කිරීම් නිමකර රුසියාවේ සිට ඉන්දියාව බලා පැමිණ ඇති බවත් විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+The allegation against him is to access the polling station in a large number of people.
+
+However, the Chennai police have not taken any action to date.
+
+Foreign media has further stated that the latest film of the latest film on the day has come to India on this morning.
 
 ◼️
 
 [Data](articles/50ed5ecf.json)
+
+[Extended Data](ext_articles/50ed5ecf.ext.json)
+
+---
+
+### ෆොක්ස්හිල් තරග අත්හිටුවයි
+
+*2024-04-21 18:06:14* · [`adalk`](https://www.ada.lk/sports/ෆොක්ස්හිල්-තරග-අත්හිටුවයි/9-409187) · `si`
+
+ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගය අතරතුර සිදුවූ අනතුර අනුව එහි ඉදිරි සියලු තරග අත්හිටුවීමට තරග සංවිධායකයන් කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/9a2fe411.json)
 
 ---
 
@@ -195,6 +235,20 @@ Mark Anre, who has been charged with allegations against the former president an
 [Data](articles/0cf1ae11.json)
 
 [Extended Data](ext_articles/0cf1ae11.ext.json)
+
+---
+
+### දියතලාවේ මෝටර් රථ ධාවන තරගාවලිය අනතුරකින් 6ක් මරුට
+
+*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-6ක්-මරුට/9-409186) · `si`
+
+දියතලාවේ පැවති Fox Hill Supercross 2024 මෝටර් රථ ධාවන තරගාවලියක් අතරතුරදී ධාවන තරගය අතරතුරදී මෝටර් රථයක් ධාවන පථයෙන් ඉවතට පැන  සිදුවූ අනතුරකින් මේ වන විට පුද්ගලයින් 6 දෙනෙකු මියගොස් පුද්ගලයින් 20කට අධික පිරිසක් බරපතල තුවාල ලබා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+
+මෙම මියගිය පිරිස අතර විදේශිකයකු, කුඩා දරුවකු සහ ට්‍රැක් මාෂල්වරු සිව් දෙනෙක්ද සිටින බව සදහන්වේ .
+
+◼️
+
+[Data](articles/457463de.json)
 
 ---
 
@@ -871,6 +925,22 @@ The businessman had said that the businessman had had $ 4,710 worth of Rs.
 [Data](articles/c6e49b00.json)
 
 [Extended Data](ext_articles/c6e49b00.ext.json)
+
+---
+
+### බිත්තර ආනයනය කරන්න අවශ්‍ය නැතිලු, අපනයනය කරන්නත් සැලසුමක්
+
+*2024-04-21 12:42:20* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-ආනයනය-කරන්න-අවශ්‍ය-නැතිලු--අපනයනය-කරන්නත්-සැලසුමක්/11-409183) · `si`
+
+මේ වන විට පිටරටින් බිත්තර ආනයනය කිරීමේ අවශ්‍යතාවයක් නොමැති බවත්, පාරිභෝගිකයිනට අවශ්‍ය බිත්තර මෙරට තුළ නිෂ්පාදනය වන බවත් පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍යය ඩී බී හේරත් මහතා පැවසිය.
+
+ශ්‍රි ලංකා කෘෂිකර්ම විද්‍යාලයන්හී  පාඨමාලාව හැදෑරූ පිරිස් සඳහා ඩිප්ලොමා ප්‍රදානය කිරීමේ උත්සවයක් කුණ්ඩසාලේ දී පැවති අවස්ථාවෙන් පසු මාධ්‍ය හමුවේ අදහස් දක්වමින් අමාත්‍යවරයා මෙම අදහස් පළ කළේය.
+
+"දැන් අපි බිත්තර නිෂ්පාදනය කිරීම අතින් සම්තෘප්ත වෙලා තිබෙනවා. අපිට විදේශ රටවලින් බිත්තර අවශ්‍ය නැහැ. වර්තමානයේ තිබෙන තත්ත්වයත් සමග ගොවින් ශක්තිමත් කරන්න අවශ්‍ය වැඩපිලිවෙලක් සකස් කළා.  සත්ත්ව ආහාර සඳහා තීරු බදු සහන දීලා රැගෙන එන නිසා සත්ත්ව නිෂ්පාදන සෞඛ්‍ය දෙපාර්තමේන්තුව මාර්ගොපදේශකත්වය, මෙන්ම පෞද්ගලික අංශයේ මැදිහත්වීමත් සමඟ අද බිත්තර වලින් ස්වයංපොෂිත වෙලා තිබෙනවා.
+
+...
+
+[Data](articles/dae8e82d.json)
 
 ---
 
@@ -2147,97 +2217,5 @@ The 155/65 R14 is designed for Suzuki Wagon R, Daihatsu Mira ES, Daihatsu Hijet,
 [Data](articles/9c7cda71.json)
 
 [Extended Data](ext_articles/9c7cda71.ext.json)
-
----
-
-### President visits Ambewala Farm
-
-*2024-04-21 05:15:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பேவல-பண்ணைக்கு-ஜனாதிபதி-விஜயம்/175-336119) · `ta`
-
-President Ranil Wickremesinghe visited Ambewala Farm to assess farm development, praised its growth, and met with staff and tourists, emphasizing the farm's economic contribution.
-
-🟩
-
-He had gone there to investigate the progress of the farm development work that began last year.
-
-President Ranil Wickremesinghe, who was later in conversation with the staff, praised the gradual growth of the Ambewala farm and its contribution to the national economy.
-
-In a statement issued by the President, the President has demonstrated the need to implement various tourists for tourists visiting the farm.
-
-President Ranil Wickremesinghe also met with domestic and foreign tourists who visited Ambewala dairy farm yesterday. (A)
-
-◼️
-
-[Data](articles/f5b5aee6.json)
-
-[Extended Data](ext_articles/f5b5aee6.ext.json)
-
----
-
-### 1,800 doctors left the country
-
-*2024-04-21 05:13:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-800-வைத்தியர்கள்-நாட்டை-விட்டு-வெளியேறினார்/175-336118) · `ta`
-
-1,800 doctors left the country in 2 years, with over 300 specialists departing. The State Medical Officers Association urged immediate government action.
-
-🟩
-
-The State Medical Officers Association has said that 1,800 doctors have left the country over the past two years.
-
-The spokesman for the association, Samil Wijesinghe, told the media yesterday.
-
-He said more than 300 special doctors have left the country during the time.
-
-He also urged the government to take immediate action to control this. (A)
-
-◼️
-
-[Data](articles/1b16f75a.json)
-
-[Extended Data](ext_articles/1b16f75a.ext.json)
-
----
-
-### Lack of 40 thousand teachers
-
-*2024-04-21 05:10:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/40-ஆயிரம்-ஆசிரியர்களுக்கு-பற்றாக்குறை/175-336117) · `ta`
-
-Sri Lanka faces a teacher shortage of 40,000, affecting Upper, Eastern, North Central, and Uva provinces, according to the Sri Lanka Teachers Union.
-
-🟩
-
-There is a shortage of about 40 thousand teachers in Sri Lanka, the Sri Lanka Teachers Union said.
-
-Joseph Stalin, general secretary of the Sri Lanka Teachers Union, said this while speaking to the media in Colombo.
-
-He added that there is a shortage of teachers in the Upper, Eastern, North Central and Uva provinces. (A)
-
-◼️
-
-[Data](articles/f518c611.json)
-
-[Extended Data](ext_articles/f518c611.ext.json)
-
----
-
-### Onion imported through Sathosa
-
-*2024-04-21 05:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-ஊடாக-வெங்காயம்-இறக்குமதி/175-336116) · `ta`
-
-India lifts ban on big onion exports to Sri Lanka, exporting 10,000 metric tonnes. Decided to import and sell large onions from India through Sri Lanka. First stockpile of 2000 metric tons to be imported in two weeks.
-
-🟩
-
-The Indian government has decided to remove the ban on big onion exports to Sri Lanka and recently decided to export ten thousand metric tonnes of large onions to Sri Lanka.
-
-The Ministry of Commerce and Consumer Affairs has discussed whether onions are imported from the private sector or imported from the state sector and it has been decided to import and sell large onions from India through Sri Lanka.
-
-Accordingly, in the next two weeks, the 2000 metric tons of onion will be imported as the first stockpile, the Sathosa leader said.. (A)
-
-◼️
-
-[Data](articles/de390325.json)
-
-[Extended Data](ext_articles/de390325.ext.json)
 
 ---

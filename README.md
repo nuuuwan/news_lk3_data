@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-21 20:51:13**
+As of **2024-04-21 21:04:19**
 
 ## Newspaper Stats
 
-*Scraped **20,077** Articles*
+*Scraped **20,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,099
 economynextcom | 1,145
-adalk | 1,676
+adalk | 1,677
 tamilmirrorlk | 2,318
 adaderanalk | 2,407
 virakesarilk | 2,990
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,076 (100.0%) of 20,077 articles have been extended.
+20,077 (100.0%) of 20,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 ...
 
 [Data](articles/2f30a49d.json)
+
+[Extended Data](ext_articles/2f30a49d.ext.json)
 
 ---
 
@@ -145,6 +147,24 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 [Data](articles/87f29456.json)
 
 [Extended Data](ext_articles/87f29456.ext.json)
+
+---
+
+### මෙරට  විශාලතම ලෝහමය ශ්‍රී සුමන සමන් දේව ප්‍රතිමාව මහනුවරට
+
+*2024-04-21 18:45:03* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට--විශාලතම-ලෝහමය-ශ්‍රී-සුමන-සමන්-දේව-ප්‍රතිමාව-මහනුවරට/11-409190) · `si`
+
+ශ්‍රී පාදස්ථානයේ ස්ථාපිත කිරීම සඳහා වැඩම කරවන මෙරට  විශාලතම ලෝහමය ශ්‍රී සුමන සමන් දේව ප්‍රතිමාව මහනුවර නගරයෙන් වරකාව පුරාණ විහාරය කරා පිටත්වීම අද  (21) දහවල් සිදුවිණි.
+
+හුණුපිටිය ගංගාරාම විහාරස්ථානයේ සිට පේරාදෙණිය, මහනුවර, ගම්පොළ හරහා එම දේව ප්‍රතිමාව ශ්‍රී පාදස්ථානය කරා වැඩම කරවීමට නියමිත වේ.
+
+ගංගාරාම විහාරය, යක්කල රජමහ විහාරය, බිසෝවෙල රජමහ විහාරය, තෝලංගමුව රජමහ විහාරය, රංවල රජමහ විහාරය, කඩුගන්නාව, ඉළුක්පිටිය, පිළිමතලාව ඔස්සේ මහජන ගෞරව සඳහා තැම්පත් කරමින් වැඩම කළ ප්‍රතිමාව අද (21) පැය තුනක කාලයක් මහනුවර සහස් උයන පරිශ්‍රියේ තැම්පත් කොට තිබිණී.
+
+අනතුරුව මහනුවර විලියම් ගොපල්ලව මාවත ඔස්සේ වැඩම කළ ප්‍රතිමාව පැණිදෙණිය භාරතී පිරිවෙන, ගෙලිඔය කරමඩ විහාරය හා ගෙලිඔය නගරය, වැලිගල්ල, ගම්පොල, නියංගම්පාය රජමහා විහාරය, උඩගම හා පල්ලේගම යන රජමහා විහාර ඔස්සේ ගමන් කොට අද රාත්‍රී වරකාව රජමහා විහාරයේ තැම්පත් කිරීම සිදු කෙරේ.
+
+...
+
+[Data](articles/428e9508.json)
 
 ---
 
@@ -2269,27 +2289,5 @@ The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a
 [Data](articles/03d8e7de.json)
 
 [Extended Data](ext_articles/03d8e7de.ext.json)
-
----
-
-### Sri Lanka choices recalled in Vietnam debate on monetary and fiscal options to target output
-
-*2024-04-21 07:32:00* · [`economynextcom`](https://economynext.com/vietnam-debate-on-monetary-or-fiscal-choices-to-target-output-recalls-sri-lanka-choices-159511/) · `en`
-
-ECONOMYNEXT – Vietnam can grow 6.0 percent in 2024, with ‘policy support’ but there is a debate whether it should be done through fiscal (widening deficits/worsening debt or state spending) or monetary means, a top International Monetary Fund official said.
-
-The IMF projects 6.0 percent growth for Vietnam in 2024 “as it rebounds from a challenging 2023,” Krishna Srinivasan, Director of the Asia and Pacific Department told reporters during the Spring Meetings in Washington.
-
-“Now, in the case of Vietnam, I would say that there’s an issue about policy mix, whether you could get more support from the fiscal and rely less on monetary,” Srinivasan said.
-
-“So there is an issue of policy mix which we’re talking, which we’ve been engaging the authorities with.
-
-“I would say that policy support should be more favorable and that should, and along with external demand, help raise growth to 6 percent.”
-
-...
-
-[Data](articles/03dac629.json)
-
-[Extended Data](ext_articles/03dac629.ext.json)
 
 ---

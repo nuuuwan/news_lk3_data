@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 19:51:44**
+As of **2024-04-22 20:03:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,274 (100.0%) of 20,277 articles have been extended.
+20,277 (100.0%) of 20,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### විජයදාස රාජපක්ෂ ගැන පොහොට්ටුව තීරණයක් ගනියි
+### Wijeyadasa Rajapakse decides
 
 *2024-04-22 19:29:11* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාස-රාජපක්ෂ-ගැන-පොහොට්ටුව-තීරණයක්-ගනියි/11-409215) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි සමාජිකත්වය දරමින් වෙනත් පක්ෂයක වැඩබලන සභාපති ධුරයට පත්වීමට අදාළව අමාත්‍ය විජයදාස රාජපක්ෂ මහතා සම්බන්ධයෙන් ඉදිරි ක්‍රියාමාර්ග ගැනීම සඳහා පක්ෂයේ විනය මණ්ඩලය විසින් නිර්දේශ ඉදිරිපත් කරනු ඇතැයි ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ප්‍රධාන ලේකම්, පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා ප්‍රකාශ කළේය.
+Wijeyadasa Rajapakse's decision leads to the Sri Lanka Puba Karan Front's disciplinary Secretary becoming the Acting Chairman of the Sri Lanka Civil Front. Tissa Shuththi Arachchi, MP, explains that Wijayadasa Rajapaksa's Sri Lankan General Front membership was terminated upon joining another party, suggesting the abolition of his MP post to prevent property issues.
 
-මේ පිළිබඳ 'අද' සිදුකළ විමසීමේදී ඔහු සඳහන් කර සිටියේ අදාළ කාරණාව පක්ෂයේ විනය මණ්ඩලයට තමන් යොමු කරන බවයි.
+🟩
 
-මේ අතර බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී ඊයේ (22දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් පාර්ලිමේන්තු මන්ත්‍රි තිස්ස කුට්ටි ආරච්චි මහතා සඳහන් කර සිටියේ වෙනත් පක්ෂයකට සම්බන්ධ වූ අවස්ථාවේදීම විජයදාස රාජපක්ෂ මහතාගේ ශ්‍රී ලංකා පොදුජන පෙරමුණු සාමාජිකත්වය අහෝසි වී යන බවයි.
+Meanwhile, the General Secretary of the Sri Lanka Civil Front, the General Secretary of the Sri Lanka Civil Front, said that the disciplinary Secretary of the Sri Lanka Puba Karan Front will be submitted to the post of Acting Chairman of the Sri Lanka Civil Front.
 
-එසේම රාජපක්ෂ මහතාගේ මන්ත්‍රී ධුරය අහෝසි කරමින් අයිතිවාසිකම්ද නතර කිරීම යෝග්‍ය වන බව ඔහු එහිදී පැවසීය.
+When contacted, he said that the matter was referred to the matter to the party disciplinary board.
+
+Addressing a media briefing held at Nelum Praheya Headquarters at Nelum Mawatha, Battaramulla yesterday (22), MP Tissa Shuththi Arachchi said that the Sri Lankan General Front members of Wijayadasa Rajapaksa were abolished at the time of joining another party.
+
+He added that it is advisable to stop the property by abolishing the post of MP.
 
 ◼️
 
 [Data](articles/22066b70.json)
+
+[Extended Data](ext_articles/22066b70.ext.json)
 
 ---
 
@@ -98,19 +104,25 @@ Israel responded by launching its most intense ever war in Gaza with the aims of
 
 ---
 
-### கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 9 சந்தேகநபர்களுக்கும் ஆறாம் திகதி வரை விளக்கமறியல்
+### Nine suspects including Keheliya Rambukwella till the sixth day
 
 *2024-04-22 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/181710) · `ta`
 
-தரமற்ற ஊசி மருந்துகளை இறக்குமதி செய்யப்பட்ட வழக்கில் முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 9 சந்தேகநபர்களும் எதிர்வரும் மே மாதம் ஆறாம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Nine suspects, including former health minister Keheliya Rambukwella, remanded until May 6th. Bail rejected. Order issued by Magistrate Losini Abeywickrama on Monday.
 
-இது தொடர்பான வழக்கு திங்கட்கிழமை (22) மீண்டும் அழைக்கப்பட்ட போதே மாளிகாகந்த நீதவான் லோசினி அபேவிக்ரம இந்த உத்தரவை பிறப்பித்தார்.
+🟩
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சார்பில் ஆஜரான ஜனாதிபதியின் சட்டத்தரணி முன்வைத்த பிணை கோரிக்கை அங்கு நிராகரிக்கப்பட்டமை குறிப்பிடத்தக்கது
+Nine suspects, including former health minister Keheliya Rambukwella, have been remanded until the sixth May.
+
+The order was issued on Monday (22) when the Magistrate Magistrate Losini Abeywickrama issued the order.
+
+It is noteworthy that the bail demand by the President's Attorney General on behalf of former Health Minister Keheliya Rambukwella was rejected.
 
 ◼️
 
 [Data](articles/063a8be9.json)
+
+[Extended Data](ext_articles/063a8be9.ext.json)
 
 ---
 
@@ -214,19 +226,27 @@ The suspect was produced before the Matara Magistrate's Court today (22) and Thi
 
 ---
 
-### ලංකාවේ කළු සල්ලි බැඳුම්කරවල ආයෝජනය කර ඇති බවට සැකයක්
+### Surely, in Sri Lanka's black money has been invested in bonds
 
 *2024-04-22 17:58:09* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කළු-සල්ලි-බැඳුම්කරවල-ආයෝජනය-කර-ඇති-බවට-සැකයක්/11-409207) · `si`
 
-ජනපතිවරණය අවසන් වන තෙක් ණය ප්‍රතිව්‍යුහකරණයේ දී ආණ්ඩුව කල් මරන බවට සාධාරණ සැකයක් ඇතිවන බවත්   ආණ්ඩුවේ මේ කල් මැරීම නිසා මූල්‍ය අරමුදලේ මී ලඟ වාරිකය මෙරටට අහිමි වීමේ අවදානමක් ද මතු වී ඇති බවත් පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
+Sri Lanka's black money in bonds; JHU leader criticizes govt delay in debt restructuring; discussions with China, Official Borrower Committee unsuccessful; bond owners' restructuring plan rejected; $1.678B debt added daily; government's delay risks Monetary Fund's loss; bondholders hope for payment upon restructuring completion; society believes in black money from past bond fraud; talks between bond owners and govt are one-sided; govt should publish agreement contents before signing.
 
-ඒ මහතා මේ බව සදහන් කර සිටියේ  අද දින (2024.04.22) පිවිතුරු හෙළ උරුමය පක්ෂ කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි. එහිදී පිවිතුරු හෙළ උරුමයේ නායකයා වැඩි දුරටත් මෙසේ අදහස් දැක්වීය.
+🟩
 
-"ආණ්ඩුව මේ වන විට පාර්ශව තුනක් සමග ණය ප්‍රතිව්‍යුහකරණය පිළිබඳ සාකච්ඡා කරමින් ඉන්නවා.  ඒ චීනය හැර ණය දුන් රාජ්‍යයන්ගෙන් සමන්විත නිල ණයහිමි කමිටුව, චීනය සහ බැඳුම්කර හිමියන්.  චීනය සහ නිල ණයහිමි කමිටුව සමග එකඟතාවයන්ට එළැඹෙන්න ආණ්ඩුව සමත් වුණත් බැඳුම්කර හිමියන් සමග පැවැත්වූ සියළුම සාකච්ඡා අසාර්ථකයි.  බැඳුම්කර හිමියන් ඉදිරිපත් කරපු ණය ප්‍රතිව්‍යුහකරණ සැලැස්ම ආණ්ඩුව ප්‍රතික්ෂේප කරලා.
+The Leader of the JHU, the leader of the JHU, says that the government's delegation has caused the government to delay in the restructuring of the debt until the end of the presidential election.
+
+He was speaking at a media briefing held at the party office in party office today (2024.04.22). The leader of the Plandani Hela Heritage said:
+
+"The government is currently discussing the restructuring of credit with three parties. All discussions with China and the Official Borrower Committee were unsuccessful.The government refused the debtor restructuring plan submitted by the bond owners.
+
+The chest of the chest was burned by dollars of dollars and not paying the bonds by investing bonds. 2022 Not paid a century in the dollar bonds.The bond Thero hopes a delay interest as it has an opportunity when they are trapped without paying their money.At December 31, 2023, the late $ 1,678 million has been added to $ 1,678 million.This goes up every day.
 
 ...
 
 [Data](articles/2e14d7fc.json)
+
+[Extended Data](ext_articles/2e14d7fc.ext.json)
 
 ---
 

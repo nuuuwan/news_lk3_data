@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 05:18:52**
+As of **2024-04-22 05:38:52**
 
 ## Newspaper Stats
 
-*Scraped **20,115** Articles*
+*Scraped **20,117** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 175
+colombotelegraphcom | 176
 bbccomsinhala | 210
 dbsjeyarajcom | 219
 newsfirstlk | 363
 islandlk | 1,083
 dailyftlk | 1,112
-economynextcom | 1,146
+economynextcom | 1,147
 adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,115 (100.0%) of 20,115 articles have been extended.
+20,115 (100.0%) of 20,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### IMF official: Sri Lanka’s road ahead is challenging, critical to keep up with reform momentum
+
+*2024-04-22 05:00:00* · [`economynextcom`](https://economynext.com/imf-official-sri-lankas-road-ahead-is-challenging-critical-to-keep-up-with-reform-momentum-159632/) · `en`
+
+ECONOMYNEXT –International Monetary Fund’s First Deputy Managing Director Gita Gopinath said Sri Lanka’s future with many reforms are challenging, but it is critical to keep up with the reform momentum.
+
+Gopinath stated this after meeting the island nation’s State Finance Minister Shehan Semasinghe Central Bank Governor Nandalal Weerasinghe, and Treasury Secretary Mahinda Siriwardena on the sideline of the IMF/World Bank Spring Meetings in Washington.
+
+“I commended them on hard-won economic gains in the past year. The road ahead is challenging and it’s critical to keep up with the reform momentum,” Gopinath wrote on her X platform.
+
+Under IMF programme, President Ranil Wickremesinghe has implemented a raft of hard reforms including higher taxes.
+
+Sri Lanka agreed to the IMF programme after it declared bankruptcy with sovereign debt default in April 2022.
+
+Semasinghe after the meeting tanks Gopinath for acknowledging Sri Lanka’s economic progress.
+
+...
+
+[Data](articles/bf50c4b6.json)
+
+---
 
 ### The Iran-Israel conflict leaves Lanka at crossroads - EDITORIAL
 
@@ -475,6 +497,18 @@ China, a maritime power in the South China Sea and the Indian Ocean in the 14th 
 [Data](articles/140d4e5e.json)
 
 [Extended Data](ext_articles/140d4e5e.ext.json)
+
+---
+
+### Reforming Education: Target For Creative Capital & Not For Mere Human Capital
+
+*2024-04-21 23:15:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reforming-education-target-for-creative-capital-not-for-mere-human-capital/) · `en`
+
+One of the objectives of the National Education Policy Framework of Sri Lanka for 2023-33, released by the Ministry of Education, has been to ‘create citizens who are productive, innovative, and informed with a civic consciousness’[1]. To attain this goal, the method of delivery will be changed to an interactive process where teaching and learning will be combined in a digitally enabled environment facilitating a holistic engagement of students and teachers. The emphasis of the framework seems to be on the quality of education. This is a move in the correct direction in reforming the country’s education system. This article will provide some inputs to this move which the policymakers can consider when reform programs are suggested.
+
+...
+
+[Data](articles/625587cb.json)
 
 ---
 
@@ -2185,55 +2219,5 @@ In addition, the websites have reported about thirty -five money laundering inci
 [Data](articles/6eaea951.json)
 
 [Extended Data](ext_articles/6eaea951.ext.json)
-
----
-
-### Three members die in an accident in Elpitiya
-
-*2024-04-21 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195830) · `si`
-
-In Elpitiya, a three-wheeler crashed into a lorry, killing three, including two children. The lorry driver was arrested, and the victims' family members were hospitalized.
-
-🟩
-
-Elpitiya - Three children, including two children, were killed in an accident on the Vardathewa main road.
-
-The accident had occurred when a three-wheeler collided with a lorry.
-
-The victim was the 68-year-old three-wheeler driver and his 10-year-old grants and a seven-year-old granddaughter.
-
-The wife and his daughter of the deceased have been admitted to hospital with the injuries of the deceased.
-
-The lorry driver has been arrested in connection with the accident and Elpitiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fb359a5c.json)
-
-[Extended Data](ext_articles/fb359a5c.ext.json)
-
----
-
-### Five years after the Passover attack on Easter
-
-*2024-04-21 12:13:27* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ඉරුදින-ත්‍රස්ත-ප්‍රහාරය-එල්ල-වී-අදට-පස්වසරක්/11-409180) · `si`
-
-Five years after the Passover attack on Easter, the Easter Island commemorated the event on April 21, 2019. The attack resulted in 273 deaths and over 500 injuries in Colombo. St. Sebastian Church in Kochchikade and Katuwapitiya organized a series of remembrances, including a candlelight vigil from Kochchikade to Kupepitiya.
-
-🟩
-
-The Easter island on April 21, April 2019 will be operated five years.
-
-The suicide bombings were killed and 273 persons were killed and over 500 were seriously injured in Colombo.
-
-The series of the remembrance of the Saint Sebastian Church in St. Anthony, Kochchikade and Katuwapitiya, was organized by St. Sebastian Church in Kochchikade and Katuwapitiya.
-
-Accordingly, the subtlet distance from Kochchikade church to the Kupepitiya church from Kupepitiya to Kupepitiya yesterday 20 was held throughout the night.
-
-◼️
-
-[Data](articles/805798e2.json)
-
-[Extended Data](ext_articles/805798e2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 15:34:07**
+As of **2024-04-22 15:52:45**
 
 ## Newspaper Stats
 
-*Scraped **20,229** Articles*
+*Scraped **20,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,60 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,687
-tamilmirrorlk | 2,339
+adalk | 1,689
+tamilmirrorlk | 2,340
 adaderanalk | 2,419
 virakesarilk | 3,022
 dailymirrorlk | 3,152
-adaderanasinhalalk | 3,284
+adaderanasinhalalk | 3,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,224 (100.0%) of 20,229 articles have been extended.
+20,229 (100.0%) of 20,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### மூத்த ஊடகவியலாளருக்கு CID அழைப்பாணை
+### උද්ධමනයේ සිදුවූ වෙනස මෙන්න
+
+*2024-04-22 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195865) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 පෙබරවාරි මාසයේදී 5.1% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මාර්තු මාසය සඳහා 2.5%ක් දක්වා අඩුවී ඇත.
+
+කෙසේ වෙතත් 2024 පෙබරවාරි මාසයේ දී 5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 මාර්තු මාසයේදී වෙනසක් සිදුව නොමැත.
+
+◼️
+
+[Data](articles/c5da262d.json)
+
+---
+
+### CID invitation to senior journalist
 
 *2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
+
+A senior journalist from Sri Lanka will attend a CID summit tomorrow, focusing on security concerns regarding President Ranil Wickremesinghe.
+
+🟩
+
+Senior Journalist in Sri Lanka will be present at the Criminal Investigation Department (CID) tomorrow.
+
+Samarawickrama has said that the summit has been issued on a broadcast on the security issue of President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/adf30176.json)
+
+[Extended Data](ext_articles/adf30176.ext.json)
+
+---
+
+### ஊடகவியலாளருக்கு CID அழைப்பாணை
+
+*2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
 
 இலங்கையின் மூத்த ஊடகவியலாளர் சமுதித்த சமரவிக்ரம நாளை குற்றப் புலனாய்வு திணைக்களத்தில் (CID) ஆஜராகவுள்ளார்.
 
@@ -42,7 +76,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/adf30176.json)
+[Data](articles/bf2f3b12.json)
 
 ---
 
@@ -64,39 +98,55 @@ The Legend Cricket League tournament, featuring seven teams comprising retired i
 
 [Data](articles/b8292e32.json)
 
+[Extended Data](ext_articles/b8292e32.ext.json)
+
 ---
 
-### எம்.பி பதவியை நீதியமைச்சர் இழக்க நேரிடும்
+### MP post will be lost by Justice Minister
 
 *2024-04-22 15:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-பதவியை-நீதியமைச்சர்-இழக்க-நேரிடும்/175-336190) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக பதவியேற்ற நீதியமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியலமைப்பின் பிரகாரம் தனது பாராளுமன்ற உறுப்பினர் பதவியை இழக்க நேரிடும் என SLPP பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியாராச்சி இன்று தெரிவித்தார்.
+SLPP MP Tissa Kuttiarachchi predicts SLPP will lose its parliamentary post due to constitutional rules, affecting Minister Rajapaksa's position.
 
-இது குறித்து ஸ்ரீலங்கா பொதுஜன பெரமுன இன்னும் கலந்துரையாடவில்லை எனவும், ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் விரைவில் முடிவெடுப்பார் எனவும் அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+🟩
 
-கட்சியின் அரசியலமைப்பு மற்றும் சட்டங்களின்படி, ஒருவர் மற்றுமொரு அரசியல் கட்சியின் உறுப்புரிமையைப் பெற்றவுடன் அவரது கட்சி உறுப்புரிமையை விரைவில் இழக்க நேரிடும் என்று பாராளுமன்ற உறுப்பினர் கூறினார்.
+SLPP MP Tissa Kuttiarachchi today said that the Sri Lanka Freedom Party (SLFP) will lose its post of Parliament according to the Constitution of the Sri Lanka Peoples Alliance (PA).
 
-இதனால், அமைச்சர் ராஜபக்ஷ கட்சி உறுப்புரிமையை இழக்க நேரிடும் என்றும், அதன் மூலம் அவர் தனது பாராளுமன்ற உறுப்பினர் பதவியையும் இழக்க நேரிடும் என்றும் அவர் கூறினார்.
+He said at a media briefing that the Sri Lanka PA had not yet discussed the matter and that the General Secretary of the Sri Lanka PA would be decided soon.
 
-...
+According to the constitution and laws of the party, the parliamentarian said that once one gains the membership of another political party, his party will soon lose its membership.
+
+He said that Minister Rajapaksa would lose the party's rights and thereby lose his position as a parliamentarian.
+
+“Minister Rajapaksa received a SLPP member and was elected to Parliament under the SLPP seat. He has committed the crime of getting the post of another opposition leader. So, his SLPP membership will be canceled, and as a result, he will lose his parliamentary position. ”
+
+◼️
 
 [Data](articles/2c1a82c2.json)
 
+[Extended Data](ext_articles/2c1a82c2.ext.json)
+
 ---
 
-### ஈரானிய ஜனாதிபதி , பாகிஸ்தானை வந்தடைந்தார்
+### The Iranian president has arrived in Pakistan
 
 *2024-04-22 14:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானிய-ஜனாதிபதி-பாகிஸ்தானை-வந்தடைந்தார்/50-336189) · `ta`
 
-ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி மூன்று நாள் உத்தியோகபூர்வ விஜயமாக திங்களன்று (22) பாகிஸ்தானுக்கு வந்தடைந்தார்
+Iranian President Ibrahim Raisi visited Pakistan for a three-day official visit, welcomed by Pakistani officials.
 
-ரைசி இஸ்லாமாபாத் விமான நிலையத்திற்கு வந்தடைந்ததாகவும், அவரை வீட்டு வசதி அமைச்சர் மியான் ரியாஸ் ஹுசைன் பிர்சாடா மற்றும் ஈரானுக்கான பாகிஸ்தான் தூதர் முடாசிர் திப்பு ஆகியோர் வரவேற்றதாக வெளியுறவு அலுவலகம் (FO) தெரிவித்துள்ளது.
+🟩
 
-"ஈரான் ஜனாதிபதியுடன் அவரது துணைவியார் மற்றும் வெளியுறவு அமைச்சர் மற்றும் பிற அமைச்சரவை உறுப்பினர்கள் மற்றும் மூத்த அதிகாரிகள் அடங்கிய உயர்மட்டக் குழு உள்ளது" என்று அது கூறியது.
+Iranian President Ibrahim Raisi arrived in Pakistan on Monday (22) as a three -day official visit
+
+The Foreign Office (FO) said that he had arrived at the Raisi Islamabad airport and was welcomed by Housing Minister Myan Riaz Hussain Birzada and Pakistani Ambassador to Iran.
+
+It said, "There is a high -level committee comprising his vice -president and foreign minister and other cabinet members and senior officials with the President of Iran."
 
 ◼️
 
 [Data](articles/eb088e6b.json)
+
+[Extended Data](ext_articles/eb088e6b.ext.json)
 
 ---
 
@@ -209,6 +259,8 @@ The Collective of Pensioners' Associations staged a protest outside the Public A
 ◼️
 
 [Data](articles/0d863f50.json)
+
+[Extended Data](ext_articles/0d863f50.ext.json)
 
 ---
 
@@ -471,6 +523,22 @@ He was appointed as the Acting Chairman of the Sri Lanka Freedom Party.
 [Data](articles/b6932420.json)
 
 [Extended Data](ext_articles/b6932420.ext.json)
+
+---
+
+### පාසල් සිසුවියට දිවි අහිමිකළ වෑන් රථ අනතුර
+
+*2024-04-22 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියට-දිවි-අහිමිකළ-වෑන්-රථ-අනතුර/11-409204) · `si`
+
+කන්තලේ මූලස්ථාන පොලිස් වසමට අයත් රජඇල ප්‍රදේශයේදී ඊයේ (21) සිදු වෑන් රථ අනතුරකින් පාසල් සිසුවියක් ජීවිතක්ෂයට  පත් වූ අතර  අනතුර සිදුවීමෙන් පසු පළා ගිය වෑන් රථ රියදුරා සොයා පරීක්ෂණයක් ආරම්භ කර ඇතැයි කන්තලේ  පොලිසිය කියයි.
+
+මෙලෙස ජීවිතක්ෂයට පත් වූයේ කන්තලේ රජඇල යුනිට් හතර පදිංචි ජේ.එම්.ජි. හසිනි ප්‍රබෝදනී ජයසිංහ නැමති කන්තලේ මධ්‍ය මහා විද්‍යාලයේ අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිට ප්‍රතිඵල අපේක්ෂාවෙන් සිටින සිසුවියකි.
+
+ෙසිසුවිය  සිය ඥාති නිවසක සිට සිය නිවසට පයින් යද්දී පිටුපසින් පැමිණි වෑන් රථය ගසක හැපී අනතුරුව සිසුවියගේ ගැටි   ඇතැයි පොලිසිය කියයි. අනතුරෙන් පසුව පලා ගිය සැකකරු පැදවන ලද වෑන් රථය මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක කේ.ඩබ්.එල්.වික්‍රමරත්න  මහතාගේ උපදෙස් මත රථ වාහන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සසංක සමරසිංහ මහතාගේ මෙහෙයවීමෙන් සැරයන්වරුන් වන (9615) ප්‍රසන්න (58567) සෙනෙවිරත්න හා කොස්තාපල් (77186) දොඩන්වල යන මහත්තුරු විසින් අත්අඩංගුවට ගැනු ලැබූහ.
+
+...
+
+[Data](articles/58eb533a.json)
 
 ---
 
@@ -1316,6 +1384,20 @@ He has been killed after the slight signs of the minority while at home.
 
 ---
 
+### ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර අභාවප්‍රාප්ත වෙයි
+
+*2024-04-22 10:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතිර්වේදී-චන්ද්‍රසිරි-බණ්ඩාර-අභාවප්‍රාප්ත-වෙයි/11-409197) · `si`
+
+ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතා  අද ( 22) උදෑසන අභාවප්‍රුාප්ත වී  තිබෙනවා.
+
+නිවසේ සිටියදී ඇතිවූ සුළු අසනීපතත්වයක් මත රෝහල් ගතවීමෙන් අනතුරුව හෙතෙම මියගොස් ඇති බව වාර්ථා වනවා.
+
+◼️
+
+[Data](articles/d5d3cfab.json)
+
+---
+
 ### We start attacks on US sites - Iraq
 
 *2024-04-22 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181624) · `ta`
@@ -2135,81 +2217,5 @@ Dr. Manoharan said that Amnesty International had been pursuing his son’s case
 [Data](articles/88a291f3.json)
 
 [Extended Data](ext_articles/88a291f3.ext.json)
-
----
-
-### IMF official: Sri Lanka’s road ahead is challenging, critical to keep up with reform momentum
-
-*2024-04-22 05:00:00* · [`economynextcom`](https://economynext.com/imf-official-sri-lankas-road-ahead-is-challenging-critical-to-keep-up-with-reform-momentum-159632/) · `en`
-
-ECONOMYNEXT –International Monetary Fund’s First Deputy Managing Director Gita Gopinath said Sri Lanka’s future with many reforms are challenging, but it is critical to keep up with the reform momentum.
-
-Gopinath stated this after meeting the island nation’s State Finance Minister Shehan Semasinghe Central Bank Governor Nandalal Weerasinghe, and Treasury Secretary Mahinda Siriwardena on the sideline of the IMF/World Bank Spring Meetings in Washington.
-
-“I commended them on hard-won economic gains in the past year. The road ahead is challenging and it’s critical to keep up with the reform momentum,” Gopinath wrote on her X platform.
-
-Under IMF programme, President Ranil Wickremesinghe has implemented a raft of hard reforms including higher taxes.
-
-Sri Lanka agreed to the IMF programme after it declared bankruptcy with sovereign debt default in April 2022.
-
-Semasinghe after the meeting tanks Gopinath for acknowledging Sri Lanka’s economic progress.
-
-...
-
-[Data](articles/bf50c4b6.json)
-
-[Extended Data](ext_articles/bf50c4b6.ext.json)
-
----
-
-### IIHS opens XR and high-fidelity simulation labs
-
-*2024-04-22 04:18:00* · [`islandlk`](http://island.lk/iihs-opens-xr-and-high-fidelity-simulation-labs-2/) · `en`
-
-The International Institute of Health Sciences (IIHS), the leading health education institute in South Asia, recently opened an XR Lab and High-Fidelity Simulation Lab, showcasing their commitment to delivering a leading experience that transcends traditional boundaries. The newly opened XR lab of IIHS, which is equipped with cutting-edge virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies, is a testament to their commitment to delivering digital experiences to boost learning in students.
-
-This dynamic learning environment stimulates curiosity and enhances the comprehension of complex theories and procedures. In the XR Lab, students are active participants in their own education instead of being mere observers. Every experience such as performing delicate surgeries, diagnosing complex conditions, or responding to emergencies, is a stepping stone towards mastery. .
-
-...
-
-[Data](articles/73a6e893.json)
-
-[Extended Data](ext_articles/73a6e893.ext.json)
-
----
-
-### Prime Health Herbal Products recognised at Indigenous Medical Entrepreneurship Awards
-
-*2024-04-22 04:17:00* · [`islandlk`](http://island.lk/prime-health-herbal-products-recognised-at-indigenous-medical-entrepreneurship-awards/) · `en`
-
-Prime Health Herbal Products (PHHP), a leading herbal nutraceutical manufacturer in the country was recently honoured for their contribution towards the creation of herbal medicine at the Golden Inmediens Awards 2023. The award ceremony, which aims to develop and promote indigenous medical entrepreneurship, was held at the Water’s Edge Hotel.
-
-Focusing on research and development of pharmaceutical/nutraceutical products, PHHP manufactures their products with a particular emphasis on non-infectious diseases such as Cancer, Diabetics, Obesity and Coronary diseases. Their Research and Development Facility has been established in collaboration with several local and international universities such as the Universities of Peradeniya, Kelaniya (Faculty of Indigenous Medicine), and Ruhuna, and the Universities of Melbourne, Osaka, Spain, and Burling. Their state-of-art factory is in operation under the guidance and supervision of the Research Team’s Head, Senior Prof. R. V. P. J. Rajapakse.
-
-...
-
-[Data](articles/c2f1c473.json)
-
-[Extended Data](ext_articles/c2f1c473.ext.json)
-
----
-
-### Sanasa General Insurance named among Companies for Best Management Practices
-
-*2024-04-22 04:16:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-named-among-companies-for-best-management-practices/) · `en`
-
-Sanasa General Insurance, Sri Lanka’s leading insurance service provider, was recently honoured at the Best Management Practices Company Awards 2024. The awards ceremony organised by the Institute of Chartered Professional Managers was recently held in Colombo, and it aims at recognising and public and private sector companies showcasing excellence in organisational management and leadership, leading to better management practices that bring about growth and success.
-
-“This award is not a mere achievement; it is a validation of our core beliefs and the principles that define our business as a responsible and trusted insurance service provider. This recognition serves as a catalyst to propel our organisation forward, solidifying our commitment to excellence in everything we do.” said Sanasa General Insurance Chairman, Tishan Subasinghe.
-
-Rose Cooray inducted to the Hall of Fame at Great Manager Awards 2024
-
-SANASA General Insurance expands services with 66 new service units
-
-...
-
-[Data](articles/26520026.json)
-
-[Extended Data](ext_articles/26520026.ext.json)
 
 ---

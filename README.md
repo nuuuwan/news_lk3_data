@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 09:52:46**
+As of **2024-04-22 10:03:34**
 
 ## Newspaper Stats
 
-*Scraped **20,153** Articles*
+*Scraped **20,155** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 176
 bbccomsinhala | 210
-dbsjeyarajcom | 220
+dbsjeyarajcom | 221
 newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
@@ -20,29 +20,55 @@ tamilmirrorlk | 2,324
 adaderanalk | 2,410
 virakesarilk | 3,002
 dailymirrorlk | 3,141
-adaderanasinhalalk | 3,275
+adaderanasinhalalk | 3,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,151 (100.0%) of 20,153 articles have been extended.
+20,153 (100.0%) of 20,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### දියතලාවේ බිහිසුණු අනතුර - මෝටර් රථ රියදුරන් අත්අඩංගුවට
+### සීගිරිය සහ දඹුල්ල ගැන වැඩි අවධානයක්
+
+*2024-04-22 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195856) · `si`
+
+සීගිරිය සහ දඹුල්ල සංචාරක කලාප ලෙස සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ මූලික සැලසුම් මෙම වසරේ තුන්වැනි කාර්තුවට පෙර අවසන් කරන ලෙසට නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+අදාළ ව්‍යාපෘතියේ නාගරික පහසුකම් සැපයීමේ පහසුකම වෙනුවෙන් මුදල් අමාත්‍යංශය විසින් කමිටුවක්ද පත්කර ඇති බව සඳහන් ය.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ තිරසර නාගරික සංවර්ධන ව්‍යාපෘතිය යටතේ අදාළ ව්‍යාපෘතිය ක්‍රියාත්මක බව අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඒ සඳහා ඇස්තමේන්තුගත මුළු මුදල අම‍ෙරිකානු ඩොලර් මිලියන 30ක් වන අතර ව්‍යාපෘතිය ආසියානු සංවර්ධන බැංකුවේ සහාය ඇතිව ක්‍රියාත්මක වේ.
+
+සීගිරිය, දඹුල්ල සහ ත්‍රිකුණාමලය නගරවල හඳුනා ගන්නා ලද ස්ථාන සංරක්ෂණය කිරීම සහ සංවර්ධනය කිරීම අදාළ ව්‍යාපෘතිය යටතේ සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/fa78ee9c.json)
+
+---
+
+### Diyathalawa horrific accident - Motor drivers arrested
 
 *2024-04-22 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195855) · `si`
 
-පුද්ගලයින් 7 දෙනෙකුට දිවි අහිමි කරමින් දියතලාව ෆොක්ස් හිල් මෝටර් ධාවන තරගය අතුරතුර සිදුවූ අනතුර සම්බන්ධයෙන් මෝටර් රථ රියදුරන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Diyatalawa, two motor drivers involved in a Fox Hill Motor race accident were arrested, despite being injured.
 
-අනතුරින් ඔවුන් දෙදෙනා ද තුවාල ලබා රෝහලගත කර සිටිය දී එලෙස පොලිස් අත්අඩංගුවට පත්ව ඇත.
+🟩
+
+Two car drivers have been arrested in connection with the accident in Diyatalawa Fox Hill Motor race.
+
+The police have arrested the police while they were injured in the accident.
 
 ◼️
 
 [Data](articles/12c4f16c.json)
+
+[Extended Data](ext_articles/12c4f16c.ext.json)
 
 ---
 
@@ -1380,6 +1406,26 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 
 ---
 
+### The Easter Sunday victims have been political pawns these past five years, just as the many others who lost family members in the various conflicts the country have been through.They too, are still awaiting justice.
+
+*2024-04-21 20:20:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83931) · `en`
+
+Five years on, Sri Lanka’s Easter Sunday bombings has left us with more questions than answers.
+
+Both the Gotabaya Rajapaksa government and now the Ranil Wickremesinghe tenure has been shown up poorly in terms of ensuring the masterminds and those who failed to prevent the bombings are bought to book.
+
+As one sifts through various reports and discussions on the Easter Sunday bombings which took the lives of 315 and injured at least 600, one must, as Sunanda Deshapriya, activist and investigative journalist told a webinar recently, ask whether that tragedy was preventable.
+
+The webinar was organised by the Solidarity Movement for Justice and Truth (SMJT).
+
+One interesting fact that investigators discovered, Deshapriya said, was that a phone number used by one of the bombers, was amongst a series used by the infamous ‘Tripoli Brigade’ that is alleged to be behind the Lasantha Wickrematunga murder.
+
+...
+
+[Data](articles/8d06f04c.json)
+
+---
+
 ### Sri Lanka motor racing crash claims 7 lives, 4 critical
 
 *2024-04-21 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-motor-racing-crash-claims-7-lives-4-critical-159627/) · `en`
@@ -1477,6 +1523,8 @@ Especially today, five years after the Easter Sunday attacks, with Catholics isl
 ...
 
 [Data](articles/b5604c67.json)
+
+[Extended Data](ext_articles/b5604c67.ext.json)
 
 ---
 
@@ -2141,51 +2189,5 @@ In light of the mishap, the rest of the races at the event have been cancelled.
 [Data](articles/cff10726.json)
 
 [Extended Data](ext_articles/cff10726.ext.json)
-
----
-
-### Foxhill
-
-*2024-04-21 16:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/Foxhill-கார்-பந்தையம்-ஐவர்-பலி/150-336138) · `ta`
-
-In Diyatalawa, a car crash during the Foxhill race killed 5 and injured 21. The accident happened when a car crashed into another crash.
-
-🟩
-
-The Diyatalawa Nariyaganda, "Foxhill" car and motorcycle race took place today (21), and five people were killed when a car crashed off the road during the race.
-
-Diyathalawa police said that 21 others were injured in the accident and admitted to the Diyathalawa Resource Hospital.
-
-Police said the accident occurred when another car crashed into a car crash.
-
-◼️
-
-[Data](articles/e88eb55d.json)
-
-[Extended Data](ext_articles/e88eb55d.ext.json)
-
----
-
-### Free rice for low -income families
-
-*2024-04-21 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181586) · `ta`
-
-President Ranil Wickremesinghe announced a monthly 10 kg rice allocation for low-income families in April and May, affecting 28 lakhs of families. This initiative, part of the National Rice Providing event, has already started nationwide.
-
-🟩
-
-President Ranil Wickremesinghe said that every family receiving low income will be given 10 kg of rice per month in April and May.
-
-The Presidential Media Division said that this was speaking at the National Rice Providing event for low -income families held at the Uva Paranagama Abakastova Stadium on Sunday (21).
-
-The Samurdhi Development Officers Association said that 28 lakhs of low -income families will be provided with free rice.
-
-In addition, 10 kg of rice to be supplied in April has already begun to supply nationwide.
-
-◼️
-
-[Data](articles/ec85f613.json)
-
-[Extended Data](ext_articles/ec85f613.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 15:52:45**
+As of **2024-04-22 16:05:07**
 
 ## Newspaper Stats
 
-*Scraped **20,233** Articles*
+*Scraped **20,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,689
 tamilmirrorlk | 2,340
-adaderanalk | 2,419
-virakesarilk | 3,022
+adaderanalk | 2,420
+virakesarilk | 3,025
 dailymirrorlk | 3,152
 adaderanasinhalalk | 3,285
 
@@ -26,23 +26,81 @@ adaderanasinhalalk | 3,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,229 (100.0%) of 20,233 articles have been extended.
+20,233 (100.0%) of 20,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### උද්ධමනයේ සිදුවූ වෙනස මෙන්න
+### ஒக்டோபர் ஏழாம் திகதி தாக்குதல் - பதவியை இராஜினாமா செய்தார் இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர்
+
+*2024-04-22 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181674) · `ta`
+
+ஒக்டோபர் ஏழாம் திகதி ஹமாஸ் அமைப்பினர் இஸ்ரேலிற்குள் நுழைந்து மேற்கொண்ட தாக்குதல் தொடர்பில் இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர் தனது பதவியை இராஜினாமா செய்துள்ளார்.
+
+ஹமாஸ் தாக்குதலை மேற்கொள்ளவுள்ளதை கண்டுபிடிக்க தவறியமை உட்பட தவறுகளிற்கு பொறுப்பேற்று தனது பதவியை இராஜினாமா செய்வதாக இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர் மேஜர் ஜெனெரல் அகாரொன் ஹலிவா தெரிவித்துள்ளார்.
+
+எங்களிற்கு வழங்கப்பட்ட பொறுப்பை நிறைவேற்றும்  அளவிற்கு எங்களின் புலனாய்வு பிரிவு செயற்படவில்லை என்பதை தனது இராஜினாமா கடிதத்தில் அவர் ஏற்றுக்கொண்டுள்ளார்.
+
+ஒக்டோபர் ஏழாம் திகதி சம்பவங்களிற்கு பொறுப்பேற்று பதவி விலகிய இஸ்ரேலின்  முதலாவது உயர் அதிகாரி இவர் என்பது குறிப்பிடத்தக்கது.
+
+இஸ்ரேலிய இராணுவமும் புலனாய்வு பிரிவினரும் பல முன்னெச்சரிக்கைகளை தவறவிட்டனர் என தெரிவிக்கப்படுவது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4a842872.json)
+
+---
+
+### Sri Lanka’s inflation eases to 2.5% in March 2024
+
+*2024-04-22 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98776/sri-lankas-inflation-eases-to-25-in-march-2024) · `en`
+
+The overall rate of inflation as measured by the National Consumer Price Index (NCPI) on Year-on-Year basis has been decreased to 2.5% in March 2024, compared to 5.1% in February 2024, the Department of Census and Statistics (DCS) revealed in its latest report.
+
+Meanwhile, the contributions to the inflation rate of March 2024 from the food group and non-food group are 2.1% and 0.4% respectively.
+
+On a monthly basis, the Year-on-Year inflation of the food group remained unchanged in March 2024 at 5.0% which was reported in February 2024 and the Year-on-Year inflation of the non-food group decreased to 0.7% in March 2024 from 5.1% in February 2024, according to the report.
+
+...
+
+[Data](articles/020f0d52.json)
+
+---
+
+### Here is the difference in inflation
 
 *2024-04-22 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195865) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 පෙබරවාරි මාසයේදී 5.1% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මාර්තු මාසය සඳහා 2.5%ක් දක්වා අඩුවී ඇත.
+Inflation fell to 2.5% in March 2024, down from February's rate.
 
-කෙසේ වෙතත් 2024 පෙබරවාරි මාසයේ දී 5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 මාර්තු මාසයේදී වෙනසක් සිදුව නොමැත.
+🟩
+
+According to the National Institute of Consumer Price Index, the country's inflation has fallen to 2.5% for March 2024.
+
+However, in February, 2024, the inflation was reported in March 2024.
 
 ◼️
 
 [Data](articles/c5da262d.json)
+
+[Extended Data](ext_articles/c5da262d.ext.json)
+
+---
+
+### சிகிரியா மற்றும் தம்புள்ளையை சுற்றுலா வலயமாக அபிவிருத்தி செய்யும் திட்டத்தை பூர்த்தி செய்யுமாறு அமைச்சர் பிரசன்ன அதிகாரிகளுக்கு பணிப்பு
+
+*2024-04-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181672) · `ta`
+
+சிகிரியா மற்றும் தம்புள்ளையை சுற்றுலா வலயமாக அபிவிருத்தி செய்யும் திட்டத்தின் அடிப்படைத் திட்டங்களை இவ்வருடத்தின் மூன்றாம் காலாண்டுக்குள் பூர்த்தி செய்யுமாறு நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க அதிகாரிகளுக்கு வெள்ளிக்கிழமை (19) பணிப்புரை விடுத்தார்.
+
+இந்த திட்டத்தில் நகர்ப்புற வசதிகளை வழங்குவதற்காக நிதி அமைச்சு ஒரு குழுவையும் நியமித்துள்ளதாக அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+விடயத்திற்குப் பொறுப்பான அமைச்சர் பிரசன்ன ரணதுங்க அவர்களின் பணிப்புரைக்கு அமைவாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் நிலையான நகர அபிவிருத்தித் திட்டத்தின் கீழ் இத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது. 2019 இல் ஆரம்பிக்கப்பட்ட இந்தத் திட்டம், நாட்டில் ஏற்பட்ட கோவிட் தொற்றுநோய் மற்றும் பொருளாதார நெருக்கடி காரணமாக தற்காலிகமாக இடை நிறுத்தப்பட்டது.
+
+...
+
+[Data](articles/7a142cc9.json)
 
 ---
 
@@ -66,17 +124,39 @@ Samarawickrama has said that the summit has been issued on a broadcast on the se
 
 ---
 
-### ஊடகவியலாளருக்கு CID அழைப்பாணை
+### CID invitation to journalist
 
 *2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
 
-இலங்கையின் மூத்த ஊடகவியலாளர் சமுதித்த சமரவிக்ரம நாளை குற்றப் புலனாய்வு திணைக்களத்தில் (CID) ஆஜராகவுள்ளார்.
+A senior journalist from Sri Lanka will attend a CID summit tomorrow, focusing on security concerns regarding President Ranil Wickremesinghe.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பாதுகாப்பு பிரச்சினை தொடர்பாக அவர் ஒளிபரப்பிய நிகழ்ச்சி ஒன்று தொடர்பிலேயே இந்த அழைப்பாணை விடுக்கப்பட்டுள்ளதாக சமுதித்த சமரவிக்ரம தெரிவித்துள்ளார்.
+🟩
+
+Senior Journalist in Sri Lanka will be present at the Criminal Investigation Department (CID) tomorrow.
+
+Samarawickrama has said that the summit has been issued on a broadcast on the security issue of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/bf2f3b12.json)
+
+[Extended Data](ext_articles/bf2f3b12.ext.json)
+
+---
+
+### மழை,வெள்ளம் காரணமாக 68,131 ஹெக்டேயர் பயிர்ச் செய்கை நாசம்!
+
+*2024-04-22 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181667) · `ta`
+
+நாட்டில் 2023 - 2024 வரையான காலப் பகுதியில்  ஏற்பட்ட மழை மற்றும் வெள்ளம் காரணமாக காய்கறிகள் மற்றும் பிற பயிர்கள் பயிரிடப்பட்ட 68,131 ஹெக்டேயர்கள்  சேதமடைந்துள்ளதாக விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும், சேதமடைந்த நிலத்தின் அளவு மொத்த நிலத்தின்  பரப்பளவு 71 சதவீதம் என்று திணைக்களம் தெரிவித்துள்ளது.
+
+இந்த ஆண்டு பயிரிடப்பட்ட 100,000 ஹெக்டேயர் நெற்பயிர்களும் மழை மற்றும் வெள்ளம் காரணமாக சேதமடைந்துள்ளதாக தெவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/44037bf1.json)
 
 ---
 
@@ -526,19 +606,27 @@ He was appointed as the Acting Chairman of the Sri Lanka Freedom Party.
 
 ---
 
-### පාසල් සිසුවියට දිවි අහිමිකළ වෑන් රථ අනතුර
+### Van accident that sued the school girl
 
 *2024-04-22 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියට-දිවි-අහිමිකළ-වෑන්-රථ-අනතුර/11-409204) · `si`
 
-කන්තලේ මූලස්ථාන පොලිස් වසමට අයත් රජඇල ප්‍රදේශයේදී ඊයේ (21) සිදු වෑන් රථ අනතුරකින් පාසල් සිසුවියක් ජීවිතක්ෂයට  පත් වූ අතර  අනතුර සිදුවීමෙන් පසු පළා ගිය වෑන් රථ රියදුරා සොයා පරීක්ෂණයක් ආරම්භ කර ඇතැයි කන්තලේ  පොලිසිය කියයි.
+A schoolgirl, JMJ, was killed in a van crash near Kantale Police Division. The van, driven by a suspect, hit a tree. The suspect, identified as Headquarters OIC Chief Inspector Sasanka Samarasinghe, was arrested by the deceased's husband. Further investigations are ongoing.
 
-මෙලෙස ජීවිතක්ෂයට පත් වූයේ කන්තලේ රජඇල යුනිට් හතර පදිංචි ජේ.එම්.ජි. හසිනි ප්‍රබෝදනී ජයසිංහ නැමති කන්තලේ මධ්‍ය මහා විද්‍යාලයේ අ.පො.ස උසස් පෙළ විභාගයට පෙනී සිට ප්‍රතිඵල අපේක්ෂාවෙන් සිටින සිසුවියකි.
+🟩
 
-ෙසිසුවිය  සිය ඥාති නිවසක සිට සිය නිවසට පයින් යද්දී පිටුපසින් පැමිණි වෑන් රථය ගසක හැපී අනතුරුව සිසුවියගේ ගැටි   ඇතැයි පොලිසිය කියයි. අනතුරෙන් පසුව පලා ගිය සැකකරු පැදවන ලද වෑන් රථය මූලස්ථාන ප්‍රධාන පොලිස් පරික්ෂක කේ.ඩබ්.එල්.වික්‍රමරත්න  මහතාගේ උපදෙස් මත රථ වාහන අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සසංක සමරසිංහ මහතාගේ මෙහෙයවීමෙන් සැරයන්වරුන් වන (9615) ප්‍රසන්න (58567) සෙනෙවිරත්න හා කොස්තාපල් (77186) දොඩන්වල යන මහත්තුරු විසින් අත්අඩංගුවට ගැනු ලැබූහ.
+A schoolgirl was killed in a van crash in general area Kantale Police Division yesterday (21st), police said.
 
-...
+The deceased has been identified as JMJ, a resident of the four king Rajamale unit of Kantale. Hasidi Prabodani Jayasinghe has appeared to the GCE A / L examination at the Kantale Central College, Kantale Central College.
+
+Police say that the van that returned to his home from a cousin to his home, the police say that the van will be a tree. Suspect driven by Headquarters OIC Chief Inspector Sasanka Samarasinghe on the instructions of the vehicleHe was arrested by the husband.
+
+Police have arrested the elder brother and a car used to flee the suspect. The Kantale Police are conducting further investigations.
+
+◼️
 
 [Data](articles/58eb533a.json)
+
+[Extended Data](ext_articles/58eb533a.ext.json)
 
 ---
 
@@ -1384,17 +1472,23 @@ He has been killed after the slight signs of the minority while at home.
 
 ---
 
-### ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර අභාවප්‍රාප්ත වෙයි
+### Chandrasiri Bandara passes away
 
 *2024-04-22 10:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතිර්වේදී-චන්ද්‍රසිරි-බණ්ඩාර-අභාවප්‍රාප්ත-වෙයි/11-409197) · `si`
 
-ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතා  අද ( 22) උදෑසන අභාවප්‍රුාප්ත වී  තිබෙනවා.
+Chandrasiri Bandara, a prominent figure, passed away this morning after being attacked at home.
 
-නිවසේ සිටියදී ඇතිවූ සුළු අසනීපතත්වයක් මත රෝහල් ගතවීමෙන් අනතුරුව හෙතෙම මියගොස් ඇති බව වාර්ථා වනවා.
+🟩
+
+Chandrasiri Bandara has passed away this morning (22) morning.
+
+He has been killed after the slight signs of the minority while at home.
 
 ◼️
 
 [Data](articles/d5d3cfab.json)
+
+[Extended Data](ext_articles/d5d3cfab.ext.json)
 
 ---
 
@@ -2141,81 +2235,5 @@ The current government has implemented the project and some SJB MPs have secured
 [Data](articles/f534c4ca.json)
 
 [Extended Data](ext_articles/f534c4ca.ext.json)
-
----
-
-### SJB embroiled in controversy after its MPs secure funds from Govt without party approval
-
-*2024-04-22 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/108-281121) · `en`
-
-Colombo, April 22 (Daily Mirror) - The main opposition Samagi Jana Balawegaya (SJB), finds itself embroiled in controversy as reports emerge that several of its MPs had received Rs. 50 million each from the government's decentralized budget without nod from the party leadership,Daily Mirror learns.
-
-In the past, the governments used to allocate funds to MPs in the opposition to carry out development projects of their choice in their constituencies. However, such allocations have not taken place for the past five years, Instead, financial allocations for the same purpose were channeled through the district coordinating committees during the period.
-
-The current government has implemented the project and some SJB MPs have secured allocations according to a renewed criterion introduced by the government led by President Ranil Wickremesinghe to make sure that money is not used for charity work but employment generation activities.
-
-...
-
-[Data](articles/f93e143f.json)
-
-[Extended Data](ext_articles/f93e143f.ext.json)
-
----
-
-### Visa recognises ComBank for excellence in the launch of corporate cards
-
-*2024-04-22 05:34:00* · [`islandlk`](http://island.lk/visa-recognises-combank-for-excellence-in-the-launch-of-corporate-cards/) · `en`
-
-Visa, the global payment solutions company, honoured Commercial Bank of Ceylon for ‘Excellence in Launch of Affluent and Mass Corporate Card Variants’ at a Visa Commercial Solutions Client Forum in Colombo recently, in recognition of the Bank’s commitment to the introduction of Visa’s Corporate Card series in the local market.
-
-The Visa Commercial Solutions Excellence award was presented by Visa Country Manager for Sri Lanka and Maldives Avanthi Colambage and was accepted on behalf of the Bank by Deputy General Manager – Corporate Banking Miss Tamara Bernard.
-
-...
-
-[Data](articles/5f1d578b.json)
-
-[Extended Data](ext_articles/5f1d578b.ext.json)
-
----
-
-### Rose Cooray inducted to the Hall of Fame at Great Manager Awards 2024
-
-*2024-04-22 05:28:00* · [`islandlk`](http://island.lk/rose-cooray-inducted-to-the-hall-of-fame-at-great-manager-awards-2024/) · `en`
-
-At the prestigious Great Manager Awards 2024, Rose Cooray, the Chairperson of HNB Assurance PLC and HNB General Insurance Limited, was inducted into the Hall of Fame. Mrs. Cooray, who assumed her role in 2015, has been instrumental in steering both companies to remarkable growth and success.
-
-Since taking on the mantle of Chairperson, Mrs. Cooray has spearheaded initiatives that have led to substantial financial achievements, embracing cutting-edge technological advancements, securing international acclaim and forming numerous synergies and partnerships that have laid a solid foundation for the future of both organizations.
-
-With over 47 years of extensive experience in the financial sector, including a distinguished career at the Central Bank of Sri Lanka where she served as Deputy Governor, Mrs. Cooray brings a wealth of knowledge and expertise to her leadership roles.
-
-...
-
-[Data](articles/d5fa851d.json)
-
-[Extended Data](ext_articles/d5fa851d.ext.json)
-
----
-
-### Deafening silence by Govt. on emblematic cases
-
-*2024-04-22 05:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deafening-silence-by-Govt-on-emblematic-cases/108-281120) · `en`
-
-The Government is maintaining a deafening silence on the investigations over a number of emblematic cases.
-
-Current President then Prime Minister Ranil Wickremesinghe had in 2015 assured justice over the murders, including that of former Editor Lasantha Wickrematunge and rugger player Wasim Thajudeen.
-
-However, President Wickremesinghe and his administration have not provided any assurances to the families of the victims since taking office after Gotabaya Rajapaksa was forced out of office.
-
-Dr. Kasippillai Manoharan, whose 20-year-old son, Ragihar, was among the five youths killed in Trincomalee in 2006, told Daily Mirror he has not heard anything from the Government over the investigations.
-
-Known as the ‘Trinco Five’ case, five Tamil students were killed on January 2, 2006, allegedly by the security forces at point-blank range.
-
-Dr. Manoharan said that Amnesty International had been pursuing his son’s case and now another foreign individual was assisting to ensure justice.
-
-...
-
-[Data](articles/88a291f3.json)
-
-[Extended Data](ext_articles/88a291f3.ext.json)
 
 ---

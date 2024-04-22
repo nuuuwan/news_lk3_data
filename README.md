@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 17:03:41**
+As of **2024-04-22 17:18:41**
 
 ## Newspaper Stats
 
-*Scraped **20,243** Articles*
+*Scraped **20,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,79 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
-economynextcom | 1,147
+economynextcom | 1,157
 adalk | 1,689
 tamilmirrorlk | 2,341
 adaderanalk | 2,421
 virakesarilk | 3,025
-dailymirrorlk | 3,155
+dailymirrorlk | 3,156
 adaderanasinhalalk | 3,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,242 (100.0%) of 20,243 articles have been extended.
+20,243 (99.9%) of 20,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ක්‍රිකට් පාවාදීමක් ගැන අධිචෝදනා ගොනුකරයි
+### Sri Lanka exceeds state revenue target by 6% in first quarter
+
+*2024-04-22 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exceeds-state-revenue-target-by-6-in-first-quarter-159718/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded the state revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
+
+“After many years of difficult challenges, it has been possible to exceed the expected state revenue in the first quarter of 2024,” he said in a statement.
+
+The government expects a revenue collection of 4,106 billion rupees in 2024.
+
+“The reason for the economic crisis in the past period was the reduction in the level of government revenue. Considering the achievement of higher than the target in the first quarter of this year and the revenue pattern, the 2024 will become a year in which the revenue targets can be achieved,” he said.
+
+The three revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
+
+...
+
+[Data](articles/4617f12e.json)
+
+---
+
+### Indictments on a cricket betrayal
 
 *2024-04-22 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195866) · `si`
 
-මෙරටදී පැවති "Legends Cricket Trophy, 2024" ක්‍රිකට් තරගාවලියේදී සිදුවූ බව කියන තරග පාවාදීමේ චෝදනාවක් සම්බන්ධයෙන් එම තරගාවලියට එක්වූ ක්‍රිකට් කණ්ඩායමක හිමිකරුවෙකුට එරෙහිව මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකර තිබේ.
+An Indian cricket team owner has been indicted in Sri Lanka for match-fixing in 'LegendS Cricket Tricks'. The Attorney General was informed at the Colombo Magistrate's Court.
 
-නීතිපතිවරයා අද (22) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ මේ බව දැනුම්දී තිබේ.
+🟩
 
-මෙලෙස අධිචෝදනා ගොනුකර ඇත්තේ එම තරගාවලියට එක්වූ ක්‍රිකට් කණ්ඩායමක හිමිකරුවෙකු වන ඉන්දීය ජාතිකයෙකුට එරෙහිවය.
+The owner of a cricket team has been indicted against the owner of a cricket team against the match against the matching of the match against the matching match in the 'LegendS Cricket Tricks' in Sri Lanka.
+
+The Attorney General has been informed before the Colombo Magistrate's Court today.
+
+The indictment has been filed against an Indian national who owns a cricket team to join the tournament.
 
 ◼️
 
 [Data](articles/564f79fc.json)
+
+[Extended Data](ext_articles/564f79fc.ext.json)
+
+---
+
+### Malaysia’s Air Asia, Sri Lanka’s FITS, Hayleys bid for SriLankan
+
+*2024-04-22 16:39:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
+
+ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
+
+Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
+
+International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
+
+◼️
+
+[Data](articles/7fddf6ba.json)
 
 ---
 
@@ -81,6 +123,24 @@ The message, which has been circulating widely, claims that the Rotary Club Colo
 [Data](articles/1619115b.json)
 
 [Extended Data](ext_articles/1619115b.ext.json)
+
+---
+
+### Anti-Indian leader gets over two-third majority in Maldives parliamentary polls
+
+*2024-04-22 16:15:00* · [`economynextcom`](https://economynext.com/anti-indian-leader-gets-over-two-third-majority-in-maldives-parliamentary-polls-159710/) · `en`
+
+ECONOMYNEXT – Pro-Chinese Maldivian President Mohamed Muizzu’s People’s National Congress (PNC) secured a landslide victory in the Parliamentary elections held this weekend, the archipelago’s election results showed.
+
+Muizzu’s “India Out” campaign helped massively for the election results, analysts say. The main opposition Maldivian Democratic Party led by pro-Indian and former President Ibrahim Mohamed Solih won only 15 seats from 65 in the previous parliament, local media reported.
+
+The election was closely watched by regional powers India and China, which are competing for influence in the archipelago nation, which has a strategic location in the Indian Ocean.
+
+Muizzu called China as his closest ally and developmental partner of the Maldives and for the first time in the Maldivian history, its president skipped India as the first port of call after being elected.
+
+...
+
+[Data](articles/ce67e36d.json)
 
 ---
 
@@ -151,6 +211,28 @@ On a monthly basis, the Year-on-Year inflation of the food group remained unchan
 [Data](articles/020f0d52.json)
 
 [Extended Data](ext_articles/020f0d52.ext.json)
+
+---
+
+### India’s ITC to launch over $300 mln worth Sri Lankan property this week
+
+*2024-04-22 15:37:00* · [`economynextcom`](https://economynext.com/indias-itc-to-launch-over-300-mln-worth-sri-lankan-property-this-week-159703/) · `en`
+
+ECONOMYNEXT – Indian Tobacco Company (ITC) will launch its Sri Lankan property this week, an official said, a decade after the start of the construction in the land it owns next to China’s high end Shangri-La Hotel.
+
+This waterfront luxury development will include Colombo’s tallest residential tower with 48 stories, connected by a dual sky bridge to a 29-story hotel.
+
+Named as ITC Ratnadipa, is a subsidiary of ITC Limited and the proprietor is locally incorporated WelcomHotels Lanka Pvt. Ltd.
+
+The hotel is located adjacent to the Galle Face Green and Chinese-built Colombo Port City. It is also situated next to Hong Kong-listed Shangri-La and Taj Samudra hotels. It is ITC Hotels’ first foreign investment.
+
+The hotel is 140 metres (460 ft) tall and accompanied by a 224 metres (735 ft) tall Sapphire Residences building.
+
+The two buildings are connected by a 55 metres (180 ft) sky bridge which is built 100 metres (330 ft) above ground, connecting 19-21 levels of the two buildings.
+
+...
+
+[Data](articles/02708e58.json)
 
 ---
 
@@ -578,6 +660,26 @@ Two contestants who were injured in the foxhill vehicle accident are currently b
 
 ---
 
+### Sri Lanka president to contest election under independent party symbol: UNP
+
+*2024-04-22 13:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-contest-election-under-independent-party-symbol-unp-159680/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe will be next to an independent symbol on the ballot paper, according to United National Party (UNP) general secretary Palitha Range Bandara.
+
+Bandara told reporters that the ruling Sri Lanka Podujana Peramuna (SLPP) will have its symbol, the lotus bud, on the ballot if the party decides to contest.
+
+He was responding to a question about a comment SLPP parliamentarian Namal Rajapaksa had made that the lotus bud would definitely appear on the ballot paper no matter what.
+
+“If the SLPP contests, their symbol will be there on the ballot paper. Mr Ranil Wickremesinghe will be contesting under an independent symbol, so for us there is no issue of a lotus bud being there,” he said.
+
+Bandara also reiterated that the presidential election will definitely be held this year, despite speculation to the contrary.
+
+...
+
+[Data](articles/6d5de048.json)
+
+---
+
 ### ‘Fox Hill’ crash: Organisers evade responsibility, blame shifted to spectators
 
 *2024-04-22 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98774/fox-hill-crash-organisers-evade-responsibility-blame-shifted-to-spectators) · `en`
@@ -700,6 +802,26 @@ The order has been issued by the Chief Magistrate Thilina Gamage of Colombo afte
 
 ---
 
+### Sri Lanka rupee quoted in spot-next dollar market after pressure
+
+*2024-04-22 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-quoted-in-spot-next-dollar-market-after-pressure-159678/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.20/30 to the US dollar in the spot next (spot plus one day) market after the stop opened tentatively at 302.00/75 levels, dealers said.
+
+There were one or two sporadic deals at 302.00 to the US dollar, but the spot market was not very active in early trade, dealers said.
+
+Market participants are recovering from a heavy dose of moral suasion last week, after the rupee came under upward pressure from an ‘oversold position’.
+
+Sri Lanka’s central bank collected 715 million dollars from the interbank market in March, three times the around 200 million it collected in the previous two months.
+
+The central bank was able to collect large amount of dollars in March as the rupee was allowed to appreciate steeply within a short time amid deflationary policy, encouraging importers to delay payments and also creating market incentives banks to short their open positions.
+
+...
+
+[Data](articles/309dafc3.json)
+
+---
+
 ### Ralking Party for elections in Maldives
 
 *2024-04-22 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195862) · `si`
@@ -773,6 +895,44 @@ Police have arrested the elder brother and a car used to flee the suspect. The K
 [Data](articles/58eb533a.json)
 
 [Extended Data](ext_articles/58eb533a.ext.json)
+
+---
+
+### Ramayana trail will be game changer for Sri Lanka tourism: Indian envoy
+
+*2024-04-22 12:43:00* · [`economynextcom`](https://economynext.com/ramayana-trail-will-be-game-changer-for-sri-lanka-tourism-indian-envoy-159670/) · `en`
+
+ECONOMYNEXT – The establishment of Ramayana trial which includes a land bridge between Sri Lanka and India will be a “game changer” for the island nation’s tourism industry, Indian High Commissioner for Colombo Santosh Jha said.
+
+Sri Lanka has seen a spike in tourist arrivals from India in its recovery from an unprecedented economic crisis.
+
+The island nation has renewed efforts to establish of Ramayana Trails, which includes all the places believed to be associated with Ramayana.
+
+The places include Sigiriya, Ashok Vatika, a garden in the city of Nuwara Eliya, which is believed to be the place where Ravana kept Sita captive, Ravana Ella Falls, Koneswaram Temple in Trincomalee and Divurumpola Temple in Bandarawela which is believed to be the place where Sita underwent a trial by fire to prove her purity among many other places.
+
+...
+
+[Data](articles/4330c6b1.json)
+
+---
+
+### Sri Lanka Freedom Party has had to import acting chairman: Dayasiri
+
+*2024-04-22 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-has-had-to-import-acting-chairman-dayasiri-159668/) · `en`
+
+ECONOMYNEXT — The crisis in Sri Lanka Freedom Party (SLFP) is so severe that it has had to import an acting chairman from a different party, ousted SLFP general secretary Dayasiri Jayasekara said.
+
+Speaking at an event, Jayasekara lamented the state of the once-powerful party.
+
+“I’m still a member of the SLFP. I was removed illegally. Today the SLFP is facing a number of crises. All of these crises began after my removal. There were no such crises when I was there,” he said.
+
+“Today, I’m saddened to note that the SLFP crisis has become so severe that a new chairman has been brought from outside, from a different party has been made the party’s acting chairman,” he added.
+
+He was referring to a controversial decision by one faction of the SLFP appointing Justice Minister Wijeyadasa Rajapakshe as the party’s acting chairman, even as Aviation Minister Nimal Siripala de Silva continues to function as acting chairman following the latter’s appointment last week.
+
+...
+
+[Data](articles/5f53cb68.json)
 
 ---
 
@@ -1174,6 +1334,20 @@ The waiver residing in Godawela, Embilipitiya, is married to the Kandy, Galaha a
 
 ---
 
+### US, Sri Lanka navies to conduct CARAT 2024 exercise in Trincomalee
+
+*2024-04-22 11:32:00* · [`economynextcom`](https://economynext.com/us-sri-lanka-navies-to-conduct-carat-2024-exercise-in-trincomalee-159665/) · `en`
+
+ECONOMYNEXT — The United States Navy, US Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from April 22-26 in Trincomalee, the US embassy said.
+
+CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Security Team (FAST), a US Marine Corps unit specialised in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities, the embassy said in a statement on Monday April 22.
+
+...
+
+[Data](articles/28b57441.json)
+
+---
+
 ### Four people arrested in search of tiger gold
 
 *2024-04-22 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தங்கம்-தேடிய-நால்வர்-கைது/175-336176) · `ta`
@@ -1195,6 +1369,24 @@ The arrested suspects are from Naula, Meniktana and Anuradhapura, aged 30-38. Du
 [Data](articles/7f511fe4.json)
 
 [Extended Data](ext_articles/7f511fe4.ext.json)
+
+---
+
+### Two racing drivers arrested over Fox Hill tragedy
+
+*2024-04-22 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Two-racing-drivers-arrested-over-Fox-Hill-tragedy/155-281154) · `en`
+
+Diyathalawa, April 22 (Daily Mirror)- Two racing drivers who participated in yesterday's Fox Hill Super Cross 2024 racing event have been arrested by the police over the accident which killed seven people.
+
+The arrested are a 36-year-old racer from Matara and 47-year-old from Mahakanda, Peradeniya.
+
+They have also sustained injuries due to the accident and are under treatment at the Diyathalawa Hospital under police security.
+
+Seven individuals including an eight-year-old child were killed and 20 others hospitalized with injuries when two racing cars lost control and collided with a group of spectators.
+
+◼️
+
+[Data](articles/2da6c82f.json)
 
 ---
 
@@ -1992,6 +2184,30 @@ Also, the Vesak Week has been declared as a week from May 21 to 27, and the liqu
 
 ---
 
+### Sri Lanka expects to finish Adani wind power price talks by May
+
+*2024-04-22 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-to-finish-adani-wind-power-price-talks-by-may-159641/) · `en`
+
+ECONOMYNEXT- Sri Lanka hopes to conclude hopes to conclude price negotiations for the wind power plant by India’s Adani group by May, Minister of Power and Energy, Kanchana Wijesekara said.
+
+A Cabinet Appointed Procurement Committee and Technical Evaluation Committee are working on the matter.
+
+“There are certain parameters that they are negotiating,” he told reporters in Colombo.
+
+“But I am hopeful that there will be a decision by the Cabinet Appointed Procurement Committee and the TEC and with the Adani group. May be by May we hope to conclude the negotiations.”
+
+The last discussed price for a unit of electricity from the plants to be set up in Mannar and Pooneryn was 8.85 US cents, which was lowered from the original proposal.
+
+Sri Lanka’s Adani wind power price lowered to 8.85 cents: Minister
+
+Indian Adani Group says “vicious campaign” against its Sri Lanka wind project
+
+...
+
+[Data](articles/d0307338.json)
+
+---
+
 ### No one is ready to pass anyone
 
 *2024-04-22 08:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாரையும்-கடந்து-செல்ல-தயாரில்லை/175-336159) · `ta`
@@ -2015,255 +2231,5 @@ Meanwhile, rice is distributed to the beneficiaries selected under the supervisi
 [Data](articles/a059152c.json)
 
 [Extended Data](ext_articles/a059152c.ext.json)
-
----
-
-### Sri Lanka and US to conduct Naval exercises in Trinco
-
-*2024-04-22 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98766/sri-lanka-and-us-to-conduct-naval-exercises-in-trinco) · `en`
-
-The United States Navy, U.S. Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from April 22-26 in Trincomalee.
-
-CARAT Sri Lanka will feature the expertise of the U.S. Fleet Anti-Terrorism Security Team (FAST), a U.S. Marine Corps unit specialized in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities, the US Embassy in Colombo said.
-
-The CARAT Sri Lanka exercise includes a Women, Peace, and Security Symposium on April 24 to promote the vital roles women play in peace negotiations, conflict management, and resolution.  With approximately 70 U.S. personnel working with their Sri Lanka military partners, this fifth iteration of the CARAT Sri Lanka bilateral maritime exercise underscores the strong partnership and shared commitment of the United States and Sri Lanka to maintain a free and open Indo-Pacific.
-
-...
-
-[Data](articles/3834554b.json)
-
-[Extended Data](ext_articles/3834554b.ext.json)
-
----
-
-### Fire fire in Pannipitiya
-
-*2024-04-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195853) · `si`
-
-A fire in Pannipitiya destroyed a wooden mill in Liyanigoda.
-
-🟩
-
-The wooden mill has been completely destroyed by a fire caused to a wooden mill in Liyanigoda, Pannipitiya.
-
-◼️
-
-[Data](articles/cfbdfdbd.json)
-
-[Extended Data](ext_articles/cfbdfdbd.ext.json)
-
----
-
-### Showers expected in several provinces and districts
-
-*2024-04-22 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98765/showers-expected-in-several-provinces-and-districts) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle, Matara and Anuradhapura districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Uva and Northern provinces and in Polonnaruwa district during the afternoon or night.
-
-Showers or thundershowers will occur in the western coastal areas during the morning too, it said.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Ampara district during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c7641729.json)
-
-[Extended Data](ext_articles/c7641729.ext.json)
-
----
-
-### US and Sri Lankan navies to hold CARAT Sri Lanka 2024 in Trincomalee
-
-*2024-04-22 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-and-Sri-Lankan-navies-to-hold-CARAT-Sri-Lanka-2024-in-Trincomalee/108-281122) · `en`
-
-Colombo, April 22 ( U.S. Embussy in Sri Lanka) - The United States Navy, U.S. Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise for four days from today (22) in Trincomalee.
-
-CARAT Sri Lanka will feature the expertise of the U.S. Fleet Anti-Terrorism Security Team (FAST), a U.S. Marine Corps unit specialized in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities.
-
-...
-
-[Data](articles/0a7dc65e.json)
-
-[Extended Data](ext_articles/0a7dc65e.ext.json)
-
----
-
-### World Day is today
-
-*2024-04-22 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195852) · `si`
-
-Today marks World Day, focusing on "earth and plastic" to raise awareness on environmental health impacts. Celebrated globally since 1970, it unites 193+ countries in defending the environment and biodiversity.
-
-🟩
-
-This year's global ease theme is to "earth and plastic".
-
-It is aimed at educating the public on adverse effects of man's and environmental health using plastic.
-
-The first for the first time on April 22, 1970, the World Earth Day was celebrated in the United States.
-
-Today, around 193 countries, people have joined the defending environment and biodiversity on earth.
-
-◼️
-
-[Data](articles/56fe35de.json)
-
-[Extended Data](ext_articles/56fe35de.ext.json)
-
----
-
-### Catholic Church for International Investigation
-
-*2024-04-22 07:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181613) · `ta`
-
-The Catholic Church proposes to the UNHRC for international NGOs to investigate Sri Lanka's attacks, criticizing the government's failure to reveal masterminds. Cardinal Malcolm Ranjith questions justice prospects, highlighting the government's shortcomings.
-
-🟩
-
-The Catholic Church will present an idea to the United Nations Human Rights Council (UNHRC) for foreign NGOs and international organizations to carry out international investigations on the lifeblood.
-
-Sri Lanka's Catholic Church will seek the United Nations Human Rights Council to ensure justice for victims
-
-He said the current governments have failed to reveal matters such as the masterminds of the attack, but the conspiracies behind the attack.
-
-Cardinal Malkam Ranjit has said that the United People's Power and the National People's Power have confident that former President Gotabhaya Rajapakse has failed to fulfill his voice to the victims.
-
-Ranil Wickremesinghe, who was the Prime Minister of the Chancellor, is now the president of the President.
-
-Cardinal Malcolm Ranjith has questioned whether anyone can expect justice in such a situation.
-
-◼️
-
-[Data](articles/2524cfec.json)
-
-[Extended Data](ext_articles/2524cfec.ext.json)
-
----
-
-### Some reports about the accident of the 7 people ...
-
-*2024-04-22 07:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேரின்-உயிரை-பலியெடுத்த-விபத்து-குறித்து-சில-தகவல்கள்/175-336158) · `ta`
-
-In the "Foxhill Supercross" race, 7 people died, 23 were injured, including an 8-year-old girl. The race, held after 5 years, was stopped by an accident involving a car.
-
-🟩
-
-There have been some reports of the "Foxhill Supercross" car and motorcycle race.
-
-Seven people were killed and about 23 were injured in the accident, police said.
-
-The 8 -year -old girl was among the 7 victims of the accident, police said.
-
-The competition took place yesterday after nearly five years.
-
-Finally, on April 21, 2023, it was halted by the resurrection Sunday attack.
-
-Accordingly, it has been reported that the competition has not been held for 5 years and this time the competition has been increased.
-
-The accident occurred yesterday morning (21) and the accident occurred when a car was traveling away from the race.
-
-Police Media Spokesperson Nihal Talduwa said that action was taken to stop the race after the accident. Remble
-
-◼️
-
-[Data](articles/e19631f1.json)
-
-[Extended Data](ext_articles/e19631f1.ext.json)
-
----
-
-### The accident caused by the girl
-
-*2024-04-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195851) · `si`
-
-A 19-year-old girl from Kantale was killed in an accident on the Kantale Raja Ela road. The driver, who fled the scene, is being investigated by the Kantale police.
-
-🟩
-
-A young girl was killed in an accident on the road accident on the Kantale Raja Ela road.
-
-The driver of the side of the side of the side of the morning yesterday (21) had fled the girl, police said.
-
-The girl who was seriously injured in the accident has died on admission to the Kantale Hospital.
-
-The deceased has been identified as a 19 year old resident of Kantale.
-
-The driver was fled by the accident and Kantale police are conducting further investigations.
-
-◼️
-
-[Data](articles/cf799e48.json)
-
-[Extended Data](ext_articles/cf799e48.ext.json)
-
----
-
-### President visits Malwatte and Asgiriya
-
-*2024-04-22 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195850) · `si`
-
-President Ranil Wickremesinghe visited Malwatte and Asgiriya Chiefs in Kandy, meeting with the Chief Prelate of Malwathu Sien Ven and the Sri Gnanarathana Leader of Asgiriya Chapter.
-
-🟩
-
-President Ranil Wickremesinghe has visited the Malwatte and Asgiriya Chiefs.
-
-The President arrived in Kandy yesterday afternoon and visited the Chief Prelate of the Malwathu Sien Ven.
-
-The President then visited the Asgiriya Maha Viharaya and visited the Sri Gnanarathana Leader of the Asgiriya Chapter, the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/aa78116e.json)
-
-[Extended Data](ext_articles/aa78116e.ext.json)
-
----
-
-### Fake websites will be deleted
-
-*2024-04-22 07:36:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இணையத்தளங்கள்-நீக்கப்படும்/175-336157) · `ta`
-
-The Sri Lanka Computer Emergency Division has taken action to remove 5 fake websites linked to the Postal Department, aiming to combat money laundering.
-
-🟩
-
-The Sri Lanka Computer Emergency Division has warned that steps have been taken to remove the fake websites that are parallel to the Postal Department.
-
-Senior Senior Information Safety Engineer of the Sri Lanka Computer Emergency Division, Saruka Tamunubola said that steps have been taken to remove these 5 fake websites from the Internet.
-
-He said that 35 cases of money laundering have been reported.. (A)
-
-◼️
-
-[Data](articles/985c9e53.json)
-
-[Extended Data](ext_articles/985c9e53.ext.json)
-
----
-
-### Thunderstorms today
-
-*2024-04-22 07:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-336156) · `ta`
-
-"Thunderstorms expected in parts of the country today, starting at 2.00 pm, affecting Uva Province, Anuradhapura, Vavuniya, and Mannar districts."
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms in some parts of the country today.
-
-According to the Department of Meteorology, rain or thunderstorms will occur after 2.00 pm today (22) at 2.00 pm.
-
-The Department of Meteorology has forecast showers or thunderstorms in the Uva Province, Anuradhapura, Vavuniya and Mannar districts this evening or night.. (A)
-
-◼️
-
-[Data](articles/d95fd820.json)
-
-[Extended Data](ext_articles/d95fd820.ext.json)
 
 ---

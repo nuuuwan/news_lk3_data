@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 01:51:51**
+As of **2024-04-23 02:03:39**
 
 ## Newspaper Stats
 
-*Scraped **20,328** Articles*
+*Scraped **20,331** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 178
+colombotelegraphcom | 180
 bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
@@ -16,7 +16,7 @@ islandlk | 1,094
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
-tamilmirrorlk | 2,343
+tamilmirrorlk | 2,344
 adaderanalk | 2,428
 virakesarilk | 3,041
 dailymirrorlk | 3,163
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,320 (100.0%) of 20,328 articles have been extended.
+20,320 (99.9%) of 20,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -261,6 +261,20 @@ Despite its perceived economic benefits, the economic toll of alcohol-related co
 ...
 
 [Data](articles/7c755770.json)
+
+---
+
+### சீனாவில் பலத்த மழை
+
+*2024-04-23 00:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-பலத்த-மழை/50-336218) · `ta`
+
+சீனாவில் அதிக சனத்தொகையை கொண்ட குங்டோங் மாகாணத்தில் பெய்து வரும் பலத்த மழையினால் வௌ்ளம் ஏற்பட்டுள்ளது.
+
+இதனை தொடர்ந்து அப்பகுதியிலிருந்து சுமார் 60 ஆயிரம் பேர் பாதுகாப்பான இடங்களுக்கு அனுப்பப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/2555b450.json)
 
 ---
 
@@ -879,6 +893,34 @@ In the case of Sri Lanka's assessment, the country's 'independence' has been awa
 [Data](articles/0f595030.json)
 
 [Extended Data](ext_articles/0f595030.ext.json)
+
+---
+
+### A Tale Of Shifting Sentiments & Political Chess
+
+*2024-04-22 20:23:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-tale-of-shifting-sentiments-political-chess/) · `en`
+
+As Sri Lanka prepares for both Presidential and General elections, the political scene is filled with anticipation and speculation. With three leading presidential candidates already announced and the SLPP, or Pohottuwa, yet to name theirs, the stage is set for a compelling contest.
+
+The known presidential candidates are Sajith Premadasa of the SJB, Anura Kumara Dissanayake of the NPP, and Ranil Wickremesinghe of the UNP (TBA?). The potential SLPP candidates range from Basil Rajapaksa, Dhammika Perera, Dilith Jayaweera, to Namal Rajapaksa, or perhaps a wild card pick. Additionally, Janaka Ratnayake is running as an independent candidate, though his motives remain unclear.
+
+Given the current situation, the most strategic move for Pohottuwa would likely be to ally with Ranil Wickremesinghe by merging SLPP and UNP during the campaign to save face. However, the party’s image requires significant transformation to regain trust of the people without using Marcom tactics.
+
+...
+
+[Data](articles/a2362174.json)
+
+---
+
+### Ramayana Trail – The Sacred Mission
+
+*2024-04-22 20:18:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ramayana-trail-the-sacred-mission/) · `en`
+
+I am happy to be present here today for the event promoting the Ramayana trail. I thank the organisers for inviting me to this event. I would also like to extend a very warm welcome to the delegation from India led by Swami Govind Dev Giriji. Their presence here confirms that the deep connection between the people of two countries goes back several centuries into antiquity. A time when people and ideas were moving across seamlessly and without the modern impositions that sometimes constrain and restrict easy travel and connections between our peoples. We were reminded of this connect recently by His Excellency President Ranil Wickremesinghe who mentioned that even as we launch the Universal Payments Interface or the UPI in Sri Lanka, which will allow Indian tourists to make payments in Indian rupees in Sri Lanka, there is evidence of the use of each other’s coins or ancient currencies in both India and Sri Lanka deep into our antiquity.
+
+...
+
+[Data](articles/287605af.json)
 
 ---
 
@@ -2107,69 +2149,5 @@ The Collective of Pensioners' Associations staged a protest outside the Public A
 [Data](articles/0d863f50.json)
 
 [Extended Data](ext_articles/0d863f50.ext.json)
-
----
-
-### Explanation
-
-*2024-04-22 14:10:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலப்பன-சுமங்கல-தேரருக்கு-விளக்கமறியல்/175-336187) · `ta`
-
-Prasan Amarasena, Colombo Additional Magistrate, remanded Ulappane Sumangala Thera, Coordinator of the Teachers' Association, and two others until 26th. Thera, a Colombo Municipal Council member, was interrogated for protesting against cottage removals in Narahenpitiya and Tabare Mawatha.
-
-🟩
-
-Colombo Additional Magistrate Prasan Amarasena on Monday (22) has ordered that three persons, including the Coordinator of the Teachers' Association, Ulappane Sumangala Thera, have been remanded until the 26th of this month.
-
-Colombo Municipal Council member and Chancellor Ulappane Sumangala Thera has been interrogated in court to protest against the removal of several cottages in Narahenpitiya and Tabare Mawatha.
-
-The magistrate announced that the suspects had not obeyed the court order and announced that the suspects had to face the exam on the 27th of this month.
-
-◼️
-
-[Data](articles/a06e668e.json)
-
-[Extended Data](ext_articles/a06e668e.ext.json)
-
----
-
-### Wijeyadasa could lose his Parliamentary seat: Tissa Kuttiarachchi
-
-*2024-04-22 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijeyadasa-could-lose-his-Parliamentary-seat-Tissa-Kuttiarachchi/108-281159) · `en`
-
-Colombo, April 22 (Daily Mirror)- Justice Minister Wijeyadasa Rajapakshe, who took up the position as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) could lose his parliamentary seat, according to the party constitution of the Sri Lanka Podujana Peramuna (SLPP), SLPP MP Tissa Kuttiarachchi said today.
-
-He told a news conference that the SLPP had not discussed the matter as yet and that the SLPP General Secretary would take a decision soon.
-
-The MP said according to the party constitution and laws, one will loses his party membership soon after he obtains membership of another political party.
-
-He said as such, Minister Rajapakshe could lose his party membership and thereby, he will lose his parliamentary seat as well.
-
-...
-
-[Data](articles/9a6f76e2.json)
-
-[Extended Data](ext_articles/9a6f76e2.ext.json)
-
----
-
-### 71% cultivated land damaged in 2023–24 Maha season
-
-*2024-04-22 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/71-cultivated-land-damaged-in-202324-Maha-season/108-281158) · `en`
-
-Colombo, April 22 (Daily Mirror) - The Agriculture Department revealed today that 71 percent of the total cultivated land, other than paddy cultivation, was damaged in the 2023–24 Maha season due to heavy rains and floods.
-
-Accordingly, a total of 68,131 hectares of land cultivated with vegetables and other crops have been destroyed in the country during 2023–24 due to the heavy rains and floods.
-
-In addition, 100,000 hectares of paddy fields cultivated during the Maha season during the same period were also damaged due to heavy rains and floods.
-
-Apart from this, another 23,874 hectares of land cultivated with vegetables and other crops were affected by pests and other diseases, totaling 27 percent of the damaged cultivated land.
-
-However, in April, vegetable and fruit cultivation has improved once again and the harvest has increased by now.
-
-...
-
-[Data](articles/6a8aa21e.json)
-
-[Extended Data](ext_articles/6a8aa21e.ext.json)
 
 ---

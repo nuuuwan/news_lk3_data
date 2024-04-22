@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 23:34:57**
+As of **2024-04-22 23:52:47**
 
 ## Newspaper Stats
 
-*Scraped **20,294** Articles*
+*Scraped **20,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
-economynextcom | 1,157
+economynextcom | 1,160
 adalk | 1,698
 tamilmirrorlk | 2,343
 adaderanalk | 2,428
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,294 (100.0%) of 20,294 articles have been extended.
+20,294 (100.0%) of 20,297 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -802,6 +802,26 @@ The three tax revenue collecting bodies – Sri Lankan Customs, Excise Departmen
 
 ---
 
+### Sri Lanka exceeds tax revenue target by 6% in first quarter
+
+*2024-04-22 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exceeds-tax-revenue-target-by-6-in-first-quarter-159718/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded tax revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
+
+“After many years of difficult challenges, it has been possible to exceed the expected state revenue in the first quarter of 2024,” he said in a statement.
+
+The government expects a revenue collection of 4,106 billion rupees in 2024.
+
+“The reason for the economic crisis in the past period was the reduction in the level of government revenue. Considering the achievement of higher than the target in the first quarter of this year and the revenue pattern, the 2024 will become a year in which the revenue targets can be achieved,” he said.
+
+The three tax revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
+
+...
+
+[Data](articles/5d0a13b4.json)
+
+---
+
 ### Indictments on a cricket betrayal
 
 *2024-04-22 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195866) · `si`
@@ -826,6 +846,22 @@ The indictment has been filed against an Indian national who owns a cricket team
 
 ### Air Asia, SriLanka’s FITS, Hayleys bid for SriLankan Airlines
 
+*2024-04-22 16:40:00* · [`economynextcom`](https://economynext.com/air-asia-srilankas-fits-hayleys-bid-for-srilankan-airlines-159713/) · `en`
+
+ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
+
+Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
+
+International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
+
+◼️
+
+[Data](articles/2089144a.json)
+
+---
+
+### Air Asia, SriLanka’s FITS, Hayleys bid for SriLankan Airlines
+
 *2024-04-22 16:40:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
 
 ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
@@ -839,6 +875,30 @@ International Finance Corporation, as Transaction Advisors for the divestiture o
 [Data](articles/7fddf6ba.json)
 
 [Extended Data](ext_articles/7fddf6ba.ext.json)
+
+---
+
+### Sri Lanka stocks up on financials, retail buying
+
+*2024-04-22 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-on-financials-retail-buying-159720/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s main index gained on Monday, data by the bourse showed.
+
+The broader All Share Index closed 0.64 percent or 75.18 points up at 11,828.22, while the S&P SL20 Index gained 0.94 percent, or 32.46 points to 3,481.89. Turnover was at 1.3 billion.
+
+“Mostly retailers were there because it is a sandwich Monday. There were some renewed interests on banking and financial shares as they were oversold last week,” a stockbroker said.
+
+Commercial Bank of Ceylon Plc gained 1.4 percent to 106.00 rupees Sampath Bank edged up 0.4 percent to 77.80, and DFCC Bank Plc rose 2.1 percent 78.60.
+
+LOLC Holdings Plc saw 2.1 percent gain to 434 rupees, while LOLC Finance PLC jumped 9.4 percent to 7.00 rupees.
+
+There was a net foreign inflow of 44 million rupees, data showed.
+
+The markets will be closed on Tuesday due to Buddhist religious holiday.  (Colombo/April 22/2024)
+
+◼️
+
+[Data](articles/a766005a.json)
 
 ---
 
@@ -2197,79 +2257,5 @@ During the hearing, the woman's 27 -year -old husband had filed a petition, expl
 [Data](articles/636ef432.json)
 
 [Extended Data](ext_articles/636ef432.ext.json)
-
----
-
-### Drivers of two racing cars
-
-*2024-04-22 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181633) · `ta`
-
-Two drivers arrested for hospital treatment, ordered to be remanded until 30th. "Box Hill" Car Bandi Tournament on 22nd at Car Pandiyadalawa, Badulla. Unexpected crash kills 8-year-old girl, 4 competitors, and two visitors. "Fox Hill Super Cross 2024" temporarily suspended.
-
-🟩
-
-Two drivers of the race cars have been arrested for receiving treatment at the hospital in Diyathalawa yesterday (21st) afternoon, the police media unit said.
-
-The court has ordered the drivers of the two arrested cars to be remanded until the 30th of this month.
-
-This year's "Box Hill" Car Bandi Tournament will be held on Sunday (22) at the Car Pandiyadalawa in Badulla.
-
-In the meantime, an unexpected racing carriage crashed into the race.
-
-The 8 -year -old girl, 4 competitors and two visitors have died, police said.
-
-In this case, the "Fox Hill Super Cross 2024" Car Racing Tournament has now been temporarily suspended, the Police Media Unit said.
-
-◼️
-
-[Data](articles/b03a9c54.json)
-
-[Extended Data](ext_articles/b03a9c54.ext.json)
-
----
-
-### An sensitive note about the victims of the dreadful accident of Diyatalawa
-
-*2024-04-22 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195859) · `si`
-
-A tragic accident in Diyatalawa claimed the lives of seven, including a young girl, and injured 23 others. The victims, residents of Akuressa and Welimada, were attending the 2024 Fox Hill race. The Sri Lanka Army is conducting an internal investigation.
-
-🟩
-
-Seven including a small girl, including a small girl, lost their lives yesterday (21).
-
-Four Assistants of the race were losing their lives and the funerals were also visiting the tourist.
-
-Sivivukana, a resident of Welimada, a 55-year-old resident of the Mutthasami Udayakumara, a 55 year old resident of the Mutthizami Udayakumar, the 20-year-old resident of Akuressa, a resident of Akuressa, and 60 year old residents of Akuressa, a 60 year old residents of Akuressa.Ganesh Jayawardena was lost here.
-
-Meanwhile, a 32-year-old Rasxe Abeynayake, a 32-year-old Rugby Team, is a member of the Sri Lanka Army Rugby.
-
-He had gone to visit the match while he was working in the Kosgama Sale.
-
-Relatives have been transferred to the Udawalawa Army Camp to the Army Camp to the Army Commennent, which has joined the Army Engineer's Army Engineer from the Embilipitiya Maha Vidyalaya.
-
-The waiver residing in Godawela, Embilipitiya, is married to the Kandy, Galaha area and his funeral will be held in the Galaha area.
-
-...
-
-[Data](articles/ad21b9e8.json)
-
-[Extended Data](ext_articles/ad21b9e8.ext.json)
-
----
-
-### US, Sri Lanka navies to conduct CARAT 2024 exercise in Trincomalee
-
-*2024-04-22 11:32:00* · [`economynextcom`](https://economynext.com/us-sri-lanka-navies-to-conduct-carat-2024-exercise-in-trincomalee-159665/) · `en`
-
-ECONOMYNEXT — The United States Navy, US Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from April 22-26 in Trincomalee, the US embassy said.
-
-CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Security Team (FAST), a US Marine Corps unit specialised in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities, the embassy said in a statement on Monday April 22.
-
-...
-
-[Data](articles/28b57441.json)
-
-[Extended Data](ext_articles/28b57441.ext.json)
 
 ---

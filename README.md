@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 13:34:17**
+As of **2024-04-22 13:53:23**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,210 (100.0%) of 20,211 articles have been extended.
+20,211 (100.0%) of 20,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### සුඛෝපභෝගී මෝටර් රථ 112ක් පැවරීම හා අන්සතු කිරීම වළක්වාලමින් නියෝගයක්
+### An order preventing 112 luxury cars
 
 *2024-04-22 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195863) · `si`
 
-නිසි පරිදි බදු නොගෙවා රේගුවෙන් නිෂ්කාශනය නොකර ලියාපදිංචි කර තිබෙන  සුඛෝපභෝගී මෝටර් රථ 112ක් පැවරීම සහ අන්සතු කිරීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (22) මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කොමසාරිස් ජෙනරාල්වරයාට නියෝගයක් නිකුත් කළේය.
+The Colombo Magistrate Court ordered the seizure of 112 luxury cars, following a request by the Bribery Commission.
 
-අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+🟩
+
+The Colombo Magistrate Court today (22) ordered the Commander's Commissioner General of Motor Traffic today (22).
+
+The order has been issued by the Chief Magistrate Thilina Gamage of Colombo after considering a request made by the Bribery Commission.
 
 ◼️
 
 [Data](articles/5a2c574b.json)
+
+[Extended Data](ext_articles/5a2c574b.ext.json)
 
 ---
 

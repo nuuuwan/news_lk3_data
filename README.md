@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 00:03:32**
+As of **2024-04-23 00:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,307** Articles*
+*Scraped **20,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,54 +19,106 @@ adalk | 1,698
 tamilmirrorlk | 2,343
 adaderanalk | 2,428
 virakesarilk | 3,041
-dailymirrorlk | 3,161
+dailymirrorlk | 3,163
 adaderanasinhalalk | 3,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,297 (100.0%) of 20,307 articles have been extended.
+20,307 (100.0%) of 20,309 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-23 (Tuesday)
+
+### Importance of intellectuality with humanity in politicians
+
+*2024-04-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Importance-of-intellectuality-with-humanity-in-politicians/172-281175) · `en`
+
+Palitha Thewarapperuma, a controversial politician from the Kalutara district met a tragic death last week. His popularity was reflected in the huge crowd that gathered, including thousands of Muslim men and women from many parts of the district.
+
+He had been famous for what many described to be stunts or antiques, but he always represented the sensitivities of the ordinary people, except for one or two incidents. In December 2013, when the authorities decided to close the Badureliya hospital, Thewarapperuma chained himself to a truck and threatened to fast to death. The hospital was reopened
+
+...
+
+[Data](articles/37c9b1a8.json)
+
+---
+
+### President Muizzu’s alliance gets super majority in Maldivian Parliament
+
+*2024-04-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/President-Muizzus-alliance-gets-super-majority-in-Maldivian-Parliament/172-281176) · `en`
+
+Secures full power to make and implement decisions having clinched 70 out of 93 seats.
+
+Maldivian voters gave President Mohamed Muizzu’s alliance, principally comprising the Progressive Party of Maldives (PPM) and the People’s National Congress (PNC), a super majority in the Parliamentary elections held on April 21.
+
+As per the interim results, the PPM/PNC alliance secured 70 seats in the Majlis (as the Maldivian Parliament is called) comprising 93 seats.
+
+With three fourths of the entire Parliament in his hands, the President gets the power to amend the Constitution. He can also chalk out and implement policies without being hamstrung by a hostile Parliament.
+
+The other parties in the coalition such as the Maldives National Party (MNP) and Maldives Development Alliance (MDA) also won seats with the MNP winning one and the MDA winning two.
+
+...
+
+[Data](articles/ad40ac6e.json)
+
+---
+
 ### 2024-04-22 (Monday)
 
-### ஐபிஎல்லில் 200 விக்கெட்களை வீழ்த்திய முதல் வீரர் சஹால்
+### Sahal was the first player to take 200 wickets in IPL
 
 *2024-04-22 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181722) · `ta`
 
-இண்டியன் பிறீமியர் லீக் கிரிக்கெட் வரலாற்றில் 200 விக்கெட்களை வீழ்த்திய முதல் வீரர் என்ற சாதனையை ராஜஸ்தான் றோயல்ஸ் சுழல்பந்துவீச்சாளர் யுஸ்வேந்த்தர சஹால் படைத்துள்ளார்.
+Sahal, first to reach 200 wickets in IPL, broke Dwen Bravo's record in his 153rd match. He started with Mumbai Indians, then moved to Royal Challengers Bangalore, where he set a record for the most wickets. Currently with Rajasthan Royals, he's taken 13 wickets this year, with a best of 5 wickets for 40 runs.
 
-மும்பை இண்டியன்ஸுக்கு எதிராக ஜெய்பூர், சவாய் மான்சிங் விளையாட்டரங்கில் இன்று திங்கட்கிழமை நடைபெற்றுவரும் போட்டியிலேயே அவர் இந்த மைல்கல் சாதனையை எட்டினார்.
+🟩
 
-தனது பந்துவீச்சில் மொஹமத் நபியின் பிடியை தானே எடுத்து ஐபிஎல்லில் 200 விக்கெட்களை சஹால் பூர்த்தி செய்தார்.
+Rajasthan Royals Royals Royals Royal Falls Yusvendra Sahal holds the record for the first player to take 200 wickets in the history of Indian Premier League Cricket.
 
-ட்வேன் ப்ராவோவின் 183 விக்கெட்கள் என்ற சாதனையை கடந்த வருடம் முறிடித்த சஹால், தனது 153ஆவது போட்டியில் இந்த அரிய சாதனையை படைத்தார்.
+He achieved this milestone record at the Sawai Mansingh Stadium in Jaipur against the Mumbai Indians on Monday.
 
-'ஐபிஎல்லில் அதிக விக்கெட்களை வீழ்த்துவேன் என நான் ஒருபோதும் எண்ணியதில்லை' என ப்ராவோவின் சாதனையை கடந்த வருடம் முறியடித்த பின்னர் சஹால் தெரிவித்திருந்தார்.
+In his bowling, Sahal took over 200 wickets in the IPL.
+
+Sahal, who broke Dwen Bravo's 183 wickets last year, set this rare record in his 153rd match.
+
+After breaking Bravo's record last year, Sahal said, "I have never thought of taking more wickets in the IPL."
+
+'I had 3 years with Mumbai Indians when I started playing on IPL. But my journey began in 2014. Medu, there were a lot of grooves. Likewise I enjoyed a lot. I learned a lot during my slopes. My downfalls and the support of my close associates have reached me to this level today. ”
+
+He was signed by Royal Challengers Bangalore next year. That's where his IPL cricket career began to shine.
 
 ...
 
 [Data](articles/f795d3aa.json)
 
+[Extended Data](ext_articles/f795d3aa.ext.json)
+
 ---
 
-### யாழில் மதுபான விற்பனை நிலையம் திறப்பதற்குப் எதிர்ப்பு தெரிவித்து பிரதேச மக்கள் ஆர்ப்பாட்டம்
+### The people of the area protest against the opening of liquor store in Jaffna
 
 *2024-04-22 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181721) · `ta`
 
-யாழ்ப்பாணம் - நெடுந்தீவில் அமைந்துள்ள விடுதி ஒன்றினுள் மதுபான விற்பனை நிலையம் ஒன்றினை திறப்பதற்குப் பிரதேச மக்கள் எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டமொன்றை முன்னெடுத்தனர்.
+Residents of Jaffna's Neduntivu protested against a liquor store opening, fearing it would negatively impact young people. The protest, led by students and religious leaders, began at Nedundevu junction and concluded with a petition to the Divisional Secretary.
 
-திங்கட்கிழமை (22) காலை இடம்பெற்ற ஆர்ப்பாட்டத்தில் பொதுமக்கள் பாடசாலை மாணவர்கள் மதத் தலைவர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டு பதாகைகளைத் தாங்கியவாறு கோஷமெழுப்பி ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
+🟩
 
-நெடுந்தீவு பகுதியில் பல்வேறு அபிவிருத்தி வேலைத் திட்டங்கள் முன்னெடுக்க வேண்டிய நிலையில் மதுபான விற்பனை நிலையத்தைக் கொண்டு வருவதால் இளம் சந்ததியினர் வழி தவறிப் போகக்கூடும் என்பதைக் கருத்தில் கொண்டு பிரதேச மக்களால் குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+The people of the area staged a protest in protest of the opening of a liquor store in a hostel in Jaffna - Neduntivu.
 
-நெடுந்தீவு சந்தியிலிருந்து ஆரம்பமான ஆர்ப்பாட்டம், ஊர்வலமாகச் சென்று நெடுந்தீவு பிரதேச செயலரிடம் மகஜரொன்றை கையளித்த பின்னர் அரசாங்க அதிபருடன் பேசி குறித்த பிரச்சனைக்குத் தீர்வு காண்பதாகப் பிரதேச செயலர் தெரிவித்ததையடுத்து ஆர்ப்பாட்டம் கைவிடப்பட்டது.
+The demonstration was held on Monday (22) and a large number of public school students, including religious leaders, staged a slogan.
+
+The demonstration was carried out by the people of the area, considering that the young descendants could fail due to the bringing of a liquor store in the Neduntivu area.
+
+The demonstration was abandoned after the demonstration, which began from the Nedundevu junction, went to the procession and handed over a Mahajar to the Divisional Secretary of the Neduntivu Divisional Secretary.
 
 ◼️
 
 [Data](articles/e85ba3af.json)
+
+[Extended Data](ext_articles/e85ba3af.ext.json)
 
 ---
 
@@ -90,53 +142,87 @@ It was reported that the rice stocks in question were set to be used in the scho
 
 ---
 
-### அஸ்வத்தாமாவாக நடிக்கும் அமிதாப்பச்சன்
+### Amitabh Bachchan, who plays Aswathama
 
 *2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181689) · `ta`
 
-பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன் 'கல்கி 2898 AD  எனும் படத்தில்  ஏற்று நடித்திருக்கும் அஸ்வத்தாமா எனும் கதாபாத்திரத்தின் தோற்ற காணொளியும் புகைப்படமும் வெளியிடப்பட்டிருக்கிறது.
+Amitabh Bachchan stars as Aswathama in 'Kalki 2898 AD', a mythical film directed by Nag Ashwin, featuring Bollywood stars like Kamal Haasan and Deepika Padukone. The film, produced by Bachchan, is set in Nemavar, Madhya Pradesh.
+
+🟩
+
+The video and photo of the role of Aswathama, who plays the role of Bollywood Super Star Amithappachan 'Kalki 2898 AD'.
+
+Bollywood Super Star Star Amitabh Bachchan, 'Kamal Haasan', Rebel Star Prabhas, Bollywood actresses Deepika Padukone and Disha Patani are playing the lead role in the upcoming film 'Kalki 2898 AD' directed by Nag Ashwin.. Vaijayanthi Movies is produced by Bollywood Super Star Amitabh Bachchan as Ashwathama. The film, which is a mythical and science fictional story, is being released in the holy city of Nemavar, the holy city of Madhya Pradesh, Madhya Pradesh, North India.. The character of Aswatama, which is featured in the Mahabharata epic. Therefore, the film crew released the appearance of the character Aswatama at 'Narmada Gad' in the city of Nemavar, which is monuments.
 
 ...
 
 [Data](articles/0ae9621b.json)
 
+[Extended Data](ext_articles/0ae9621b.ext.json)
+
 ---
 
-### எதிர்பார்ப்பை எகிற வைக்கும் சோனியா அகர்வாலின் 'பிஹைன்ட்'
+### Sonia Agarwal's 'Behind'
 
 *2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181690) · `ta`
 
-திருமண உறவு முறிவுக்குப் பிறகு தமிழ் திரையுலகில் தொடர்ந்து அழுத்தமான வேடங்களில் நடித்து தன் கலைச் சேவையை அயராது தொடரும் நடிகை சோனியா அகர்வால் கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் திரைப்படம் 'பிஹைண்ட்' . இப்படம் வெளியாகி அவரது திரையுலக வாழ்க்கையில் திருப்புமுனையை ஏற்படுத்துமா..? என்ற எதிர்பார்ப்பை ஏற்படுத்தியிருக்கிறது.
+"Sonia Agarwal stars in 'Behind,' a suspense thriller in Tamil and Malayalam, produced by Pawakutty Creations. The film explores a mother's struggle to protect her child from a dangerous force, with music by Sandeep Sankaradas and D. Murali Abadat. Release and success are anticipated."
 
-இயக்குநர் அமன் ரஃபி இயக்கத்தில் உருவாகி இருக்கும் 'பிஹைண்ட்' எனும் திரைப்படத்தில் சோனியா அகர்வால், ஜினு ஈ. தாமஸ், மினு மோல்,  மரினா மைக்கேல், நோபி மார்க்கோஸ், சினோஜ் வர்கீஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சந்தீப் சங்கரதாஸ் மற்றும் டி. சமீர் முகமது இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு முரளி அப்பாதத், ஆரிப் அன்சார் மற்றும் சன்னி மாதவன் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். சஸ்பென்ஸ் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பாவகுட்டி கிரியேஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஷிஜா ஜினு தயாரித்திருக்கிறார்.
+🟩
+
+Actress Sonia Agarwal, who plays the lead role in the Tamil film industry after the marriage breakdown, continues to play her art service in the Tamil film industry.. Will the film be released and make a breakthrough in his film industry ..?Has been expected.
+
+Sonia Agarwal, Ginu E.. Thomas, Minu Mole, Marina Michael, Noby Maros, Sinoj Varghese and many others have played. Sandeep Sankaradas and D. Murali Abadat, Arif Ansar and Sunny Madhavan have composed the film, which is being recorded by Sameer Mohammed.. The film is being produced in the suspense thriller Janer and produced by producer Shija Jinu on behalf of Pawakutty Creations.
 
 ...
 
 [Data](articles/242327ef.json)
 
+[Extended Data](ext_articles/242327ef.ext.json)
+
 ---
 
-### ஃபைண்டர் - விமர்சனம்
+### Finder - Review
 
 *2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181687) · `ta`
 
-நடிகர்கள் : சார்லி, வினோத் ராஜேந்திரன், சென்ராயன், நிழல்கள் ரவி, பிரானா மற்றும் பலர்.
+"Finder" is a socially responsible film about Peter, who, desperate for money, agrees to go to jail, only to be betrayed by a gang. His wife commits suicide, and his daughter is left traumatized. The film explores the truth behind Peter's imprisonment, with the help of a team that investigates innocent prisoners. Directed by Vinod Rajendran, it features a compelling narrative and performances by Charlie, Vinod Rajendran, Senrayan, and others.
+
+🟩
+
+Actors: Charlie, Vinod Rajendran, Senrayan, Shadows Ravi, Prana and many others.
+
+Peter suffers without even economic facilities for daily livelihood. If you go to jail, you will get millions of money if a gang who approaches his wife and daughter in a situation where he wants to feed him.. Your family's poverty will be eliminated. The period you are in prison is less. Makes various attractive promises to be on bail soon. Peter agrees to go to jail without any other way due to the environment. But after the Peter went to jail, the gang cheats Peter's wife and daughter without help. Thus the wife of Peter commits suicide. The daughter is stunned.At this moment, Peter's case goes on to the team that examines innocents who are jailed in prison through Finder.
+
+The group then examines the truth.What happens after that?Is Peter released from prison?Or not?That is the story of the film.
+
+Director Vinod Rajendran should be praised for giving them a different socially responsible story.
 
 ...
 
 [Data](articles/49b3092c.json)
 
+[Extended Data](ext_articles/49b3092c.ext.json)
+
 ---
 
-### ஹைபர்லிங்க் பாணியில் தயாராகும் 'நிறம் மாறும் உலகில்'
+### Hyperling style is ready for 'color changing in color'
 
 *2024-04-22 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181691) · `ta`
 
-தமிழ் சினிமாவின் ஒரு கதையை  முதன்மையான கதாபாத்திரம் அதற்கு துணை புரியும் பல்வேறு கதாபாத்திரங்கள்  என விவரித்து , அதற்கு ஒரு தொடக்கம் ஒரு இடை நிறுத்தம் ஒரு உச்சகட்டம் பின் ஒரு முடிவு என இயக்குநர்கள் பார்வையாளர்களை மகிழ்விப்பதுண்டு.‌ தற்போது நான்கு கதை நான்கு கதைக்கும் இடையே ஒரு இணைக்கும் புள்ளி என புதிய பாணியில் கதை சொல்கிறார்கள் இயக்குநர்கள். அந்த வகையில் தற்போது 'இயக்குநர் இமயம்' பாரதிராஜா, நட்டி என்கிற நட்ராஜ், ரியோ ராஜ், நடன இயக்குநர் சாண்டி ஆகிய நால்வர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கும் 'நிறம் மாறும் உலகில்' எனும் திரைப்படம் ஹைபர் லிங்க் பாணியில் உருவாகி இருக்கிறது.‌
+"Hyperling style film 'Color Valve Volunteer' blends four stories with different geographical settings and color schemes, featuring Bharathiraja, Naty, Rio Raj, and Sandy. Directed by Bharathiraja, it emphasizes relationships and is produced by Signature Productions and GS Cinema International. The first look has been released, with the director highlighting the unique experience it offers."
+
+🟩
+
+The first character of Tamil cinema describes as the various characters that support it, and the directors will entertain the audience as a result of a stop, and now the story is a new style of the four story.. The movie 'Color Valve Volunteer', which is currently playing the lead roles in the four leading roles of 'Director' Bharathiraja, Naty alias Natraj, Rio Raj and choreographer Sandy, is being produced in the hyper -link style.
+
+Bharathiraja, Natti, Rio Raj, Sandy, Suresh MenonAntony, Namo Narayanan, Vijith, Jeeva Sneha and many others have been cast.Mallika Arjun and Manikanda Raja are co -produced by Dev Prakash for the film.. The film is being produced by Signature Productions and GS Cinema International.
 
 ...
 
 [Data](articles/0b259339.json)
+
+[Extended Data](ext_articles/0b259339.ext.json)
 
 ---
 
@@ -222,19 +308,29 @@ It was revealed that the residents had been looking for two days and that she wa
 
 ---
 
-### காலநிலைசார் சவால்களுக்கு முகங்கொடுத்துவரும் இலங்கை - உலக உணவுத்திட்டம்
+### Sri Lanka -World Food Scheme, which faces climate challenges
 
 *2024-04-22 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181720) · `ta`
 
-இலங்கை தற்போது காலநிலைசார் சவால்களுக்கும் முகங்கொடுத்து வருவதாகவும், அதிகரித்துவரும் வெப்பநிலையும், மிகையான உஷ்ணமும் மக்களின் உடல் ஆரோக்கியத்துக்கும், வாழ்க்கைத்தரத்துக்கும் கடுமையான அச்சுறுத்தலை ஏற்படுத்தியிருப்பதாகவும் உலக உணவுத்திட்டம் தெரிவித்துள்ளது.
+Sri Lanka's World Food Program faces climate challenges, including rising temperatures and excessive heat, threatening health and life. The scheme, assessing Sri Lanka's status in March, noted economic recovery but also highlighted 43% of families needing food aid. Despite stabilization, climate pressures impact agriculture and health. The World Food Scheme assists disadvantaged communities, providing immediate and long-term recovery support.
 
-கடந்த மார்ச் மாதத்தில் இலங்கையின் நிலைவரம் மற்றும் இலங்கைக்கு வழங்கப்பட்ட உதவிகள் என்பவற்றை உள்ளடக்கி வெளியிட்டுள்ள மாதாந்த மதிப்பீட்டு அறிக்கையிலேயே உலக உணவுத்திட்டம் மேற்கண்டவாறு தெரிவித்துள்ளது.
+🟩
 
-'இலங்கை சுதந்திரம் அடைந்ததன் பின்னர் முகங்கொடுத்த மிகமோசமான பொருளாதார நெருக்கடியிலிருந்து தற்போது படிப்படியாக மீட்சியடைந்துவருகின்றது. இந்நெருக்கடியானது 2022 ஆம் ஆண்டில் சுமார் 6.2 மில்லியன் பேரை உணவுப்பாதுகாப்பற்ற நிலைக்குத் தள்ளியது. 2023 ஒக்டோபரில் 24 சதவீதமான குடும்பங்கள் மிதமான உணவுப்பாதுகாப்பின்மை நிலைக்கு முகங்கொடுத்திருப்பதாக மதிப்பிடப்பட்டது.
+The World Food Program said that Sri Lanka is currently facing climate challenges and increasing temperatures and excessive heat have threatened people's health and life.
+
+The World Food Program said in a monthly assessment report, which included Sri Lanka's status and assistance to Sri Lanka in March last year.
+
+“It is now gradually recovering from the most economic crisis that Sri Lanka faced after independence. The funeral made about 6.2 million people in 2022. In October 2023, it was estimated that 24 percent of families faced a moderate diet.
+
+However, the situation is somewhat stabilized with inflation this year. However, the Global Food Scheme still continues to deal with 43 percent of families across the country and 42 per cent of families to get food for food. ”
+
+The organization, which has now faced Sri Lankan climate challenges, has threatened the health and life of human beings and has created pressure on the agriculture sector.
 
 ...
 
 [Data](articles/78830ac8.json)
+
+[Extended Data](ext_articles/78830ac8.ext.json)
 
 ---
 
@@ -272,19 +368,27 @@ They said the Uma Oya Multipurpose Development Project, funded by Sri Lanka and 
 
 ---
 
-### பூரண முடியாட்சி தருவதாக கூறினாலும் திருடர்களின் தயவில் பதவியேற்க மாட்டேன் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச
+### I will not take office at the mercy of the thieves -opposition leader Sajith Premadasa
 
 *2024-04-22 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181719) · `ta`
 
-நெருங்கிய நண்பர்களை பாதுகாத்து வருவதே இன்றும் கூட உயிர்த்த ஞாயிறு தாக்குதலின் உண்மைகள் வெளிவராமைக்கான காரணமாகும். நான் திருடர்களின் தயவில் பதவி ஏற்காததால் அவர்களை பாதுகாப்பதற்கான எவ்வித தேவையும் எனக்கு கிடையாது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa criticizes the protection of close friends and the focus on conspiracies in politics over education. He emphasizes his independence from "thieves" and the importance of not accepting positions at their mercy.
 
-பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ் 161ஆவது கட்டமாக 10 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், அம்பாந்தோட்டை, முல்கிரிகல, வீரகெட்டிய மீகஸ்ஆர மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வு நேற்று திங்கட்கிழமை இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-நாட்டு அரசியலில் தற்போது அதிகாரத்தை கைப்பற்ற சதிகள் இடம்பெற்று வருகின்றன. சதிகளை திட்டமிடுவதற்கு அளிக்கப்படும் முக்கியத்துவம் கல்வியை கட்டியெழுப்புவதில் இல்லை. அதிகாரத்துக்காகவும் பதவிகளுக்காகவுமே இவ்வாறான சதித்திட்டங்கள் முன்னெடுக்கப்படுகின்றன.
+The fact that the surviving Sunday attack is due to the fact that even today is the protection of close friends. Opposition leader Sajith Premadasa said that I have no need to protect them because I am not in the mercy of the thieves.
+
+He said that the 161st phase of the universal information technology program was held on Monday when smart classroom equipment worth Rs 10 lakh was presented to the Mulgirigala, Mulgirigala, Weerakettiya Meegarasa Maha Vidyalaya yesterday.
+
+Conspiracy is currently taking place in the politics of the country. The importance of planning conspiracies is not in building education. Such conspiracies are being carried out for power and positions.
+
+If I was sitting in the presidency with the thieves, the thieves would have to protect. I do not need to protect the thieves because I do not accept positions at the mercy of the thieves. The fact that the surviving Sunday attack is still the reason for the lack of exposure to the preservation of their close friends.
 
 ...
 
 [Data](articles/c50b1a2c.json)
+
+[Extended Data](ext_articles/c50b1a2c.ext.json)
 
 ---
 
@@ -424,39 +528,57 @@ Sri Lanka Cricketer Kimithmindu Mendis's wedding ceremony was held in Galle toda
 
 ---
 
-### இலங்கையில் அரசியல் உரிமைகள் மற்றும் சிவில் சுதந்திரத்தின்மீது மட்டுப்பாடுகள் - 'ஃப்ரீடம் ஹவுஸ்' அமைப்பின் மதிப்பீட்டு அறிக்கையில் சுட்டிக்காட்டு
+### Controls on Political Rights and Civil Freedom in Sri Lanka
 
 *2024-04-22 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181717) · `ta`
 
-இலங்கையில் ஊடக சுதந்திரம், விரும்பிய மதம் மற்றும் நம்பிக்கையைப் பின்பற்றுவதற்கான சுதந்திரம், கருத்து வெளிப்பாட்டுச்சுதந்திரம், ஒன்றுகூடுவதற்கான சுதந்திரம் என்பன மட்டுப்படுத்தப்பட்ட அளவிலேயே காணப்படுவதாக 'ஃப்ரீடம் ஹவுஸ்' எனும் சர்வதேச அமைப்பின் மதிப்பீட்டு அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Freedom House assesses Sri Lanka's political rights and civil freedom, scoring 54/100 for political rights and 32/100 for civil freedom. The report highlights limitations in media freedom, religious freedom, and expression. The government's handling of post-war issues and economic crises have been criticized. Political rights include formal elections and justified election laws, while civil freedoms include freedom of religion and expression.
 
-உலகளாவிய ரீதியில் மனித உரிமைகள் மற்றும் ஜனநாயகத்தை உறுதிப்படுத்துவதை முன்னிறுத்தி அமெரிக்காவைத் தளமாகக்கொண்டு இயங்கிவரும் அரச சார்பற்ற அமைப்பான 'ஃப்ரீடம் ஹவுஸ்' இவ்வாண்டில் உலகநாடுகளின் சுதந்திரம் தொடர்பான அதன் மதிப்பீட்டு அறிக்கையை வெளியிட்டுள்ளது.
+🟩
 
-அவ்வறிக்கையில் இலங்கை தொடர்பான மதிப்பீட்டைப் பொறுத்தமட்டில், அரசியல் உரிமைகளுக்கு 40 க்கு 22 புள்ளிகளும், சிவில் சுதந்திரத்துக்கு 60 க்கு 32 புள்ளிகளும் என நாட்டின் 'சுதந்திர நிலைவரத்துக்கு' மொத்தமாக 100 க்கு 54 புள்ளிகள் வழங்கப்பட்டுள்ளன.
+In the International Organization of 'Freedom House', the International Organization of 'Freedom House' states that the media freedom in Sri Lanka, the freedom to follow the desired religion, the freedom of expression and the freedom of gathering is limited.
+
+The 'Freedom House', the NGO, which is based on the United States, has released its assessment report on the freedom of the world this year, in the world, promising human rights and democracy.
+
+In the case of Sri Lanka's assessment, the country's 'independence' has been awarded 54 points for political rights, 40 to 22 for political rights and 32 for civil independence.
+
+“After the 2015 elections, President Maithripala Sirisena's regime appeared in political rights and civil rights in Sri Lanka.. However, the Maithripala Sirisena government has acted as a slowdown in dealing with the aftermath of the war that ended in 2009.
 
 ...
 
 [Data](articles/0f595030.json)
 
+[Extended Data](ext_articles/0f595030.ext.json)
+
 ---
 
-### பெண்கள் மட்டும் லண்டன் மரதன்: ஜெப்ச்சேர்ச்சேர் உலக சாதனை
+### Women Only London Marathon
 
 *2024-04-22 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181716) · `ta`
 
-ஐக்கிய இராச்சியத்தில் ஞாயிற்றுக்கிழமை நடைபெற்ற லண்டன் மரதன் ஓட்டப் போட்டியை 2 மணித்தியாலங்கள், 16 நிமிடங்கள், 16 செக்கன்களில் நிறைவு செய்த ஒலிம்பிக் சம்பியன் கென்ய வீராங்கனை பெரெஸ் ஜெப்ச்சேர்ச்சேர், பெண்கள் மட்டும் (London Marathon Women's only) உலக சாதனையை நிலைநாட்டினார்.
+Perez Jebcherzer set a world record in the Women Only London Marathon, finishing in 2:16:16. Ethiopia's Dickst Asephafa is expected to win for the first time in London. Jebcherzer beat the record set by Mary Gaitani 7 years ago. Alexander Mutizo Muniao won the men's race in 2:04:15.
 
-அப் போட்டியில் எதியோப்பியாவின் உலக சாதனையாளர் டிக்ஸ்ட் அசேஃபா முதல் தடவையாக லண்டன் மரதனில் வெற்றிபெறுவார் என பெரிதும் எதிர்பார்க்கப்பட்டது.
+🟩
 
-ஆனால், ஏழு வருடங்கள் நீடித்த பெண்கள் மட்டும் உலக சாதனையை பெரெஸ் செப்ச்சேர்ச்சேர் முறியடித்து பெரும் புகழ்பெற்றார்.
+Perez Jebcherzer, the Olympic Champion hero who completed 2 hours, 16 minutes and 16 seconds in the London Marathon race held in the United Kingdom on Sunday, set the world record.
 
-லண்டன் மரதனின் பெரும் பகுதியில் கடுமையான போட்டி நிலவியது. ஆனால், கடைசி கட்டத்தில் முன்னிலை அடைந்த ஜெப்ச்சேர்சேர், 7 வருடங்களுக்கு முன்னர் மேரி கெய்ட்டானியினால் நிலைநாட்டப்பட்ட 2:17.01 என்ற பெண்கள் மட்டும் சாதனையை முறிடியத்தார்.
+Ethiopia's World Achievement Dickst Asephafa is expected to win for the first time in Maradon in London.
 
-லண்டன் மரதனில் எதியோப்பிய வீராங்கனை டிக்ஸ்ட் அசேஃபா (2:16.24) இரண்டாம் இடத்தையும் கென்ய வீராங்கனை ஜொய்ஸ்லின் ஜெப்கோஸ்கெய் (2:16.24) மூன்றாம் இடத்தையும் பெற்றனர்.
+But only women who lasted seven years, became famous for breaking the world record.
+
+There was fierce competition in the large part of Maradan London. But Jepchers, who was the leading at the last stage, defeated only 2: 17.01 women who were established by Mary Gaitani 7 years ago.
+
+Dickst Azaba (2: 16.24) in London's Maradan and Kenyan Joyslin Jepkoskai (2: 16.24) came third.
+
+Former Marathon World recorder Kenya's Kenya's Kelvin Kiptum was honored with a car accident last February before the men's London Marathon race began.
+
+Alexander Mutizo Muniao, aged 27, won the men's London Marathon race for 2 hours, 4 minutes and 15 seconds.
 
 ...
 
 [Data](articles/3ad14f16.json)
+
+[Extended Data](ext_articles/3ad14f16.ext.json)
 
 ---
 
@@ -2149,47 +2271,5 @@ Investigations are conducted on the instructions of the OIC of Kaduwela Police
 [Data](articles/a19943be.json)
 
 [Extended Data](ext_articles/a19943be.ext.json)
-
----
-
-### Lyrid meteor shower visible tonight
-
-*2024-04-22 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lyrid-meteor-shower-visible-tonight/108-281156) · `en`
-
-Colombo, April 22 (Daily Mirror) - The annual Lyrid meteor shower will be visible to Sri Lanka tonight in the western sky, Space Scientist and Engineer Gihan Weerasekera said.
-
-It can be seen along with the star pattern called Veena. At least 20 meteors per hour are expected to be visible to the naked eye.
-
-The Lyrids meteor shower lasts from about April 15 to April 29 each year.
-
-The meteor shower will reach its maximum in the morning tomorrow, but it will be difficult to see because of the full moon.
-
-The nearly full moon over the weekend will make it more difficult to see the meteor shower, but viewers can still see some, and it always helps to make the sky as dark as possible.
-
-But the best time to watch the meteor shower is between 4 a.m. and 5 a.m. in the morning.
-
-The Lyrid meteor shower is a burst of meteor activity occurring around mid- to late-April.
-
-...
-
-[Data](articles/5126b2c4.json)
-
-[Extended Data](ext_articles/5126b2c4.ext.json)
-
----
-
-### Two including Ven. Ulapane Sumangala Thero remanded
-
-*2024-04-22 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98772/two-including-ven-ulapane-sumangala-thero-remanded) · `en`
-
-The convenor of the Teacher-Principal Trade Union Alliance, Ven. Ulapane Sumangala Thero, and another person have been remanded until April 26.
-
-This order has been issued by the Hulftsdorp Magistrate’s Court for their attempted disturbance against implementing a court order, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/ec222bf2.json)
-
-[Extended Data](ext_articles/ec222bf2.ext.json)
 
 ---

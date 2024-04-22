@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 01:34:14**
+As of **2024-04-23 01:51:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,309 (99.9%) of 20,328 articles have been extended.
+20,320 (100.0%) of 20,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar accused the Government of attempti
 
 [Data](articles/1d71b0d2.json)
 
+[Extended Data](ext_articles/1d71b0d2.ext.json)
+
 ---
 
 ### President calls on Chief Prelates of the Malwatu-Asgiri Chapters
@@ -68,6 +70,8 @@ During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Mu
 
 [Data](articles/a4d7c029.json)
 
+[Extended Data](ext_articles/a4d7c029.ext.json)
+
 ---
 
 ### Govt’s IMF efforts a mere facade – G.L
@@ -83,6 +87,8 @@ Freedom People’s Congress (FPC) member Prof. G.L. Peiris yesterday accused the
 ...
 
 [Data](articles/aa1c04fa.json)
+
+[Extended Data](ext_articles/aa1c04fa.ext.json)
 
 ---
 
@@ -106,6 +112,8 @@ Sumathipala said the Executive Council meeting convened by SLFP Acting General S
 
 [Data](articles/e12724af.json)
 
+[Extended Data](ext_articles/e12724af.ext.json)
+
 ---
 
 ### SLASSCOM successfully concludes People Summit 2024
@@ -122,6 +130,8 @@ Speakers from various sectors shared emerging trends and innovative HR strategie
 
 [Data](articles/5cc9fed6.json)
 
+[Extended Data](ext_articles/5cc9fed6.ext.json)
+
 ---
 
 ### John Keells Properties hosts Union Bank customers at ‘Viman’ Ja-Ela model apartment
@@ -137,6 +147,8 @@ The event provided an opportunity for customers of Union Bank to tour the model 
 ...
 
 [Data](articles/c11d948d.json)
+
+[Extended Data](ext_articles/c11d948d.ext.json)
 
 ---
 
@@ -156,6 +168,8 @@ Hayleys Solar won the Bronze Award for Green Brand of the Year which recognises 
 
 [Data](articles/cd96c562.json)
 
+[Extended Data](ext_articles/cd96c562.ext.json)
+
 ---
 
 ### Westbury Suites succeeds in resurrecting halted Campbell Avenue project
@@ -169,6 +183,8 @@ The project which was under the supervision and leadership of the team lead by M
 ...
 
 [Data](articles/030375b2.json)
+
+[Extended Data](ext_articles/030375b2.ext.json)
 
 ---
 
@@ -188,6 +204,8 @@ CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Securi
 
 [Data](articles/c3b8b287.json)
 
+[Extended Data](ext_articles/c3b8b287.ext.json)
+
 ---
 
 ### Book review: “Lama Apata Dhammapadaya”
@@ -202,6 +220,8 @@ Sooriyaarachchi’s writing effortlessly weaves together storytelling and the ti
 
 [Data](articles/c8302212.json)
 
+[Extended Data](ext_articles/c8302212.ext.json)
+
 ---
 
 ### Victims of Easter Sunday attacks remembered on 5th anniversary
@@ -213,6 +233,8 @@ Victims of the 2019 Easter Sunday attacks were remembered on Sunday marking the 
 ◼️
 
 [Data](articles/3bb102a8.json)
+
+[Extended Data](ext_articles/3bb102a8.ext.json)
 
 ---
 

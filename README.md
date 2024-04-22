@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 02:03:39**
+As of **2024-04-23 02:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,320 (99.9%) of 20,331 articles have been extended.
+20,329 (100.0%) of 20,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -248,6 +248,8 @@ Archbishop of Colombo Malcolm Cardinal Ranjith officiated at the fifth anniversa
 
 [Data](articles/4760f8fe.json)
 
+[Extended Data](ext_articles/4760f8fe.ext.json)
+
 ---
 
 ### IPS advocates stricter regulations for alcohol control in Sri Lanka
@@ -262,19 +264,27 @@ Despite its perceived economic benefits, the economic toll of alcohol-related co
 
 [Data](articles/7c755770.json)
 
+[Extended Data](ext_articles/7c755770.ext.json)
+
 ---
 
-### சீனாவில் பலத்த மழை
+### Heavy rain in China
 
 *2024-04-23 00:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-பலத்த-மழை/50-336218) · `ta`
 
-சீனாவில் அதிக சனத்தொகையை கொண்ட குங்டோங் மாகாணத்தில் பெய்து வரும் பலத்த மழையினால் வௌ்ளம் ஏற்பட்டுள்ளது.
+Heavy rain in Kungtong, China, affects high population areas, leading to the evacuation of about 60,000 people.
 
-இதனை தொடர்ந்து அப்பகுதியிலிருந்து சுமார் 60 ஆயிரம் பேர் பாதுகாப்பான இடங்களுக்கு அனுப்பப்பட்டுள்ளனர்.
+🟩
+
+Heavy rains in China's high population in the province of Kungtong have caused heavy rainfall.
+
+Following this, about 60 thousand people have been sent to safe places from the area.
 
 ◼️
 
 [Data](articles/2555b450.json)
+
+[Extended Data](ext_articles/2555b450.ext.json)
 
 ---
 
@@ -294,6 +304,8 @@ During this General Amnesty period, those who report will be legally discharged 
 
 [Data](articles/2157fa3e.json)
 
+[Extended Data](ext_articles/2157fa3e.ext.json)
+
 ---
 
 ### Great Place to Work Sri Lanka hosts discussion on ‘Embracing Diversity for Women’s Empowerment’ in the workplace
@@ -310,6 +322,8 @@ The event commenced with a thought-provoking panel discussion featuring Independ
 
 [Data](articles/490a14f1.json)
 
+[Extended Data](ext_articles/490a14f1.ext.json)
+
 ---
 
 ### Milinda meets Indian Finance Minister and National Security Adviser
@@ -321,6 +335,8 @@ Pathfinder Foundation Founder and former Ambassador Milinda Moragoda last week m
 ◼️
 
 [Data](articles/275888ff.json)
+
+[Extended Data](ext_articles/275888ff.ext.json)
 
 ---
 
@@ -340,6 +356,8 @@ New Zealand opened a resident mission in Sri Lanka in 2021, which is an importan
 
 [Data](articles/b61cc126.json)
 
+[Extended Data](ext_articles/b61cc126.ext.json)
+
 ---
 
 ### Why bring science into Buddhist discourse?
@@ -351,6 +369,8 @@ Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a ha
 ...
 
 [Data](articles/d56f639e.json)
+
+[Extended Data](ext_articles/d56f639e.ext.json)
 
 ---
 
@@ -369,6 +389,8 @@ The Leader of the Opposition is the Prime Minister-in waiting in a Westminster f
 ...
 
 [Data](articles/5eef5206.json)
+
+[Extended Data](ext_articles/5eef5206.ext.json)
 
 ---
 

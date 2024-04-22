@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 22:05:10**
+As of **2024-04-22 22:18:23**
 
 ## Newspaper Stats
 
-*Scraped **20,288** Articles*
+*Scraped **20,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,697
 tamilmirrorlk | 2,343
 adaderanalk | 2,426
 virakesarilk | 3,031
-dailymirrorlk | 3,160
+dailymirrorlk | 3,161
 adaderanasinhalalk | 3,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,287 (100.0%) of 20,288 articles have been extended.
+20,288 (100.0%) of 20,289 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Under the auspices of His Holiness Swami Govind Dev Giri Maharaj, the Chief Trea
 ...
 
 [Data](articles/a419381b.json)
+
+[Extended Data](ext_articles/a419381b.ext.json)
+
+---
+
+### Iranian President to visit Sri Lanka on April 24
+
+*2024-04-22 21:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-President-to-visit-Sri-Lanka-on-April-24/108-281173) · `en`
+
+Colombo, April 22 (Daily Mirror) - President of the Islamic Republic of Iran Dr. Ebrahim Raisi is scheduled to make an official bilateral visit to Sri Lanka at the invitation of President Ranil Wickremesinghe to jointly declare open the Uma Oya Multipurpose Development Project on April 24, The Foreign Affairs Ministry said.
+
+They said the Uma Oya Multipurpose Development Project, funded by Sri Lanka and Iran, is designed to generate and add 120 Megawatts of electricity to Sri Lanka’s national grid and provide irrigation to approximately 25,000 acres of paddy lands in the south-eastern part of Sri Lanka.
+
+◼️
+
+[Data](articles/a64f2e8a.json)
 
 ---
 
@@ -2251,33 +2267,5 @@ Sri Lankan officials say that 56 citizens of Myanmar's four parts have been cook
 [Data](articles/05faa310.json)
 
 [Extended Data](ext_articles/05faa310.ext.json)
-
----
-
-### Iran says 'Israel carried out' is not an attack;Review as a child's game
-
-*2024-04-22 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181636) · `ta`
-
-Iran criticizes Israel's actions as a children's game, denying it's an attack. Israel reportedly attacked Iranian consultants in Syria, leading Iran to launch 300 drones and missiles, claiming 99% were shot down. The US reported Israel attacked Iran, but Israel didn't officially confirm. Iran's FM said it was not an attack, likening it to a game. Iran warns Israel, stating it would respond quickly and harshly to any significant attack.
-
-🟩
-
-Iran has criticized Israel's alleged retaliation against Iran as a 'attack'. The Iranian Foreign Minister has said that it is like a children's game.
-
-Israeli's attack on the Iranian consultant in Syria was killed in the last day of Israel, including Iranian military officers.
-
-In response to the attack, Iran launched about 300 unmanned aircraft and missiles on Israel on the 13th and 14th of last month.. Israel reported that 99 percent of these were shot and Israel had minor damage.
-
-However, the US said Israel had launched an attack on Iran early Friday morning (19) in response to the attack.. It was reported that the sound of explosions in Iran's Ispahan city that day.
-
-It is noteworthy that Israel did not officially announce that Israel had launched an attack on Iran on Friday morning.
-
-Contrary information has been revealed about the weapon used for this action. The US said it was a missile attack. Iran, however, claims to have shot down drones.
-
-...
-
-[Data](articles/3e3af708.json)
-
-[Extended Data](ext_articles/3e3af708.ext.json)
 
 ---

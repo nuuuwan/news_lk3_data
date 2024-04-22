@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 10:51:48**
+As of **2024-04-22 11:03:30**
 
 ## Newspaper Stats
 
-*Scraped **20,162** Articles*
+*Scraped **20,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,158 @@ newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,681
+adalk | 1,682
 tamilmirrorlk | 2,326
-adaderanalk | 2,411
-virakesarilk | 3,002
-dailymirrorlk | 3,142
-adaderanasinhalalk | 3,277
+adaderanalk | 2,412
+virakesarilk | 3,008
+dailymirrorlk | 3,143
+adaderanasinhalalk | 3,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,159 (100.0%) of 20,162 articles have been extended.
+20,162 (100.0%) of 20,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### අමෙරිකානු පුරවැසිභාවය ගැන දැනුම්දීමක්
+
+*2024-04-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195858) · `si`
+
+ඉන්දියානු පුරවැසියන් 66,000 කට ආසන්න සංඛ්‍යාවක් සඳහා අමෙරිකානු පුරවැසිභාවය ලබා දී තිබේ.
+
+අමෙරිකානු ප්‍රජා සමීක්ෂණ දත්ත වාර්තාවකට අනුව එම තොරතුරු අනාවරණය වී ඇති බව සඳහන් වේ.
+
+ඒ අනුව ඉන්දියානුවන් 65,960දෙනෙකු නිල වශයෙන් එක්සත් ජනපද පුරවැසියන් බවට 2022 වසරේ දී පත්ව ඇත.
+
+එම වර්ෂයේ දී මිලියන 46ක විදේශිකයන් පිරිසක් එක්සත් ජනපදයේ වාසය කර ඇති බව ඇස්තමේන්තු කර ඇති අතර එය මිලියන 333 ක් වූ සමස්ත එක්සත් ජනපද ජනගහනයෙන් 14 %ක් වන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/fb93bd5c.json)
+
+---
+
+### Catholic Church to go to UNHRC seeking international probe
+
+*2024-04-22 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-to-go-to-UNHRC-seeking-international-probe/108-281151) · `en`
+
+Colombo, April 22 (Daily Mirror)- The Catholic Church is planning to present a proposal to the United Nations Human Rights Council (UNHRC) through several foreign governments and international organizations to initiate an international investigation into the Easter Sunday terrorist attacks with a view to mete out justice to the victims of those attacks.
+
+Archbishop of Colombo, His Eminence Cardinal Malcolm Ranjith revealed this to the BBC Sinhala Service yesterday in a statement marking the fifth anniversary of the terrorist attacks which took place on April 21, 2019.
+
+He accused the past and the present governments that they have failed to reveal the conspiracy behind the Attacks or the masterminds of it, despite five years having lapsed.
+
+...
+
+[Data](articles/cae5582d.json)
+
+---
+
+### Astrologer Chandrasiri Bandara passes away
+
+*2024-04-22 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98768/astrologer-chandrasiri-bandara-passes-away) · `en`
+
+Veteran Astrologer Chandrasiri Bandara has passed away this morning (22), while receiving treatment at a private hospital, family sources confirmed.
+
+◼️
+
+[Data](articles/b9ffe036.json)
+
+---
+
+### காசாவின் நாசர் மருத்துவமனைக்குள் 50 உடல்கள் மீட்பு
+
+*2024-04-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181628) · `ta`
+
+இஸ்ரேலிய படையினரால் கொல்லப்பட்ட 50க்கும் அதிகமானவர்களின்  உடல்களை நாசர் மருத்துவ கட்டிட தொகுதியில் மீட்டுள்ளதாக சுகாதார பணியாளர்கள் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலிய படையினரால் கொல்லப்பட்டு புதைக்கப்பட்ட 50க்கும் அதிகமானவர்களின்  உடல்களை மீட்டுள்ளதாக சுகாதார பணியாளர்கள் தெரிவித்துள்ளனர்.
+
+நாசர் மருத்துவமனையின்கொல்லைப்புறத்தில் இந்த உடல்களை மீட்டுள்ளதாக  சிவில் பாதுகாப்பு அமைப்பு ஏஎவ்பிக்கு தெரிவித்துள்ளது.
+
+நாசர் மருத்துவ கட்டிட தொகுதிக்குள் இஸ்ரேலிய படையினர் புதைத்த புதைகுழிகள் காணப்படுகின்றன நேற்று 50க்கும் மேற்பட்ட தியாகிகளின் உடல்களை பார்த்து அதிர்ச்சியடைந்தோம் என சிவில் பாதுகாப்பு முகவர் அமைப்பின் பேச்சாளர் மஹ்மூட் பாசல் தெரிவித்துள்ளார்.
+
+தேடுதல் நடவடிக்கையில் நாங்கள் தொடர்ந்தும் ஈடுபடுகின்றோம் கொல்லப்பட்ட தியாகிகளின் எண்ணிக்கையை அறிவதற்காக அனைத்து புதைகுழிகளும் தோண்டப்படுவதற்காக காத்திருக்கின்றோம் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ee90cadf.json)
+
+---
+
+### ரன்னகல நீர்வீழ்ச்சியில் நீராடச் சென்ற நபர்  உயிரிழப்பு
+
+*2024-04-22 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181622) · `ta`
+
+மதுகம, ரன்னகல நீர்வீழ்ச்சியில் நீராடியவர்களில் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக மதுகம பொலிஸார் தெரிவித்துள்ளனர்.
+
+மத்துகம பொலிஸ் பிரிவுக்கு உட்பட்ட  ஹொரணை வீதியில் உள்ள ரன்னகல நீர்வீழ்ச்சியில் நண்பர்களுடன் நீராடியபோதே இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.கொழும்பு  -14 ஸ்டேடியம்கம, சிறிமாவோ பண்டாரநாயக்க மாவத்தையைச் சேர்ந்த 62 வயதுடைய இப்ராஹிம் சபருல்லா என்பவரே  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/aa1561e7.json)
+
+---
+
+### மாலைதீவு பாராளுமன்ற தேர்தலில் சீன சார்பு ஜனாதிபதி மொஹம்மட் முகம்மது முய்ஸுவின் கட்சி அமோக வெற்றி
+
+*2024-04-22 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181627) · `ta`
+
+மாலைதீவு 20 ஆவது பாராளுமன்றத்திற்கு உறுப்பினர்களை தெரிவு செய்ய நேற்று ஞாயிற்றுக்கிழமை (22) தேர்தல் நடைபெற்றது.
+
+இந்த தேர்தலில் சீன சார்புடைய ஜனாதிபதி மொஹம்மட் முய்ஸுவின் பி.என்.சி. கட்சி அதிகப்படியான இடங்களில் வென்று பெரும்பான்மை ஆசனங்களை கைப்பற்றியுள்ளது. சுமார் 66 இடங்களை முய்சஸுவின் கட்சி வென்றுள்ளது. இது பாராளுமன்றத்தில் மூன்றிலிரண்டு பங்காகும்.
+
+◼️
+
+[Data](articles/ed7b0551.json)
+
+---
+
+### அமெரிக்க தளங்கள் மீது மீண்டும் தாக்குதல்களை ஆரம்பிக்கின்றோம் -  ஈராக் அமைப்பு தெரிவித்துள்ளது
+
+*2024-04-22 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181624) · `ta`
+
+சிரியாவில் உள்ள அமெரிக்க தளத்தின் மீது ரொக்கட் தாக்குதல்கள் இடம்பெற்றுள்ள அதேவேளை ஈராக்கில் உள்ள தளங்கள் மீது தாக்குதலை மீண்டும் ஆரம்பிக்கப்போவதாக ஈராக்கில் உள்ள ஆயுதகுழுவொன்று தெரிவித்துள்ளது.
+
+சிரியாவின் வடகிழக்கில் உள்ள அமெரிக்காவின் தளமொன்றின் மீது ஈராக்கின் ஜூமார் நகரிலிருந்து தாக்குதல் மேற்கொள்ளப்பட்டுள்ளதாக கார்டியன் தெரிவித்துள்ளது.
+
+பெப்ரவரிக்கு பின்னர் முதல்தடவையாக தாக்குதல் இடம்பெற்றுள்ளமை குறிப்பிடத்தக்கது.பெப்ரவரி மாதத்தில் ஈராக் குழுக்கள் அமெரிக்க தளங்களின் மீது தாக்குதல்களை நிறுத்தியிருந்தன.
+
+ஈராக்கிய பிரதமர் அமெரிக்காவிற்கு மேற்கொண்டு அமெரிக்க இராஜாங்க செயலளாரை சந்தித்த மறுநாள் இந்த அறிவிப்பு வெளியாகியுள்ளது.
+
+இந்த பேச்சுவார்த்தையின் போது அமெரிக்க படையினரை ஈராக்கிலிருந்து வெளியேற்றும் விடயத்தில் முன்னேற்றம் ஏற்படாததை தொடர்ந்து மீண்டும் தாக்குதலை மேற்கொள்ள தீர்மானித்துள்ளதாக ஈராக்கின் ஹெட்டாய்க் ஹெஸ்புல்லா அமைப்பு தெரிவித்துள்ளது.
+
+தடைசெய்யப்பட்ட அமைப்புகள் சிரியாவின் மத்தியில் உள்ள சர்வதேச கூட்டமைப்பின் தளத்தை இலக்குவைத்துள்ளன என ஈராக்கிய பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/9ba59554.json)
+
+---
+
+### පොඩි මැණිකේ දුම්රියෙන් සංචාරිකාවක් ඇඳ වැටෙයි
+
+*2024-04-22 10:11:42* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-මැණිකේ-දුම්රියෙන්-සංචාරිකාවක්-ඇඳ-වැටෙයි/11-409196) · `si`
+
+කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ පොඩිමැනිකේ දුම්රියේ ගමන් ගත් මුරුසි ජතික විදේශික සංචාරක කාන්තාවක  ඊයේ (21) පස්වරුවේ පට්ටිපොළ -  ඔහිය දුම්රිය ස්ථාන අතර දි දුම්රියේ න් ඇද වැටී බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බව හපුතලේ පොලිසිය පවසයි.
+
+මෙසේ තුවාල ලබා ඇත්තේ මේරි කොරෝලි (35) නැමති විදේශීය සංචාරක කාන්තාවක යැයි පොලිසිය කීය .
+
+මැය සිය මිතුරියක සමඟ පොඩිමැනිකේ දුම්රියේ න් ඇල්ල බලා පැමිනෙමින් සිටියදී දුම්රියේ පාපුවරුවෙන් එළියට ලිස්සා ඇද වැටී ඇති බවත් පොලිසිය සදහන් කළේය .
+
+බරපතළ තුවාල ලැබු එම  විදේශීය සංචාරක කාන්තාව දියතලාව මූලික රෝහලට ඇතුළත් කර වැඩිදුර ප්‍රතිකාර සදහා  බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බවද පොලිසිය පවසයි .
+
+හපුතලේ පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක සේපාල රත්නායක මහතා ඇතුලු නිලධාරීන් වැඩිදුර පරික්ෂණ පවත්වති .
+
+◼️
+
+[Data](articles/2b69e414.json)
+
+---
 
 ### The train maintenance and a headache to the government
 
@@ -47,6 +183,24 @@ Minister of Transport Bandula Gunawardena says that the need for borrowing is th
 [Data](articles/86784ef5.json)
 
 [Extended Data](ext_articles/86784ef5.ext.json)
+
+---
+
+### ஈரான் ஜனாதிபதி பாகிஸ்தான், இலங்கைக்கு விஜயம்
+
+*2024-04-22 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181620) · `ta`
+
+பாகிஸ்தான் ஜனாதிபதியின் உத்தியோகபூர்வ அழைப்பை ஏற்று ஈரான் ஜனாதிபதி திங்கட்கிழமை (22) இஸ்லாமாபாத்திற்கு விஜயம் செய்ய உள்ளார்.
+
+இந்த விஜயத்தின் போது, இப்ராஹிம் ரைசி இரு நாடுகளுக்கும் இடையிலான இருதரப்பு உறவுகளை வலுப்படுத்துவதை நோக்கமாகக் கொண்டுள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் உத்தியோகபூர்வ அழைப்பை அடுத்து, பாகிஸ்தானுக்கான தனது விஜயத்தை முடித்துக்கொண்ட ரைசி, இலங்கைக்கு ஒரு நாள் விஜயத்தை மேற்கொள்ளவுள்ளார்.
+
+உமா ஓயா பல்நோக்கு திட்டத்தின்  திறப்பு விழாவில் இலங்கை ஜனாதிபதியுடன் இணைந்து பங்கேற்பதே அவரது இலங்கை விஜயத்தின் சிறப்பம்சமாகும்.
+
+◼️
+
+[Data](articles/a682c388.json)
 
 ---
 
@@ -142,6 +296,20 @@ The police have arrested the police while they were injured in the accident.
 
 ---
 
+### பிரபல சிங்கள ஜோதிடர் காலமானார்
+
+*2024-04-22 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181615) · `ta`
+
+பிரபல சிங்கள ஜோதிடர் சந்திரசிறி பண்டார இன்று திங்கட்கிழமை (22)  காலை காலமாகியுள்ளார்.
+
+அவர் தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளதாக அவரது குடும்பத்தினர் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/73609be1.json)
+
+---
+
 ### Chandrasiri Bandara passes away in Vetevana Yorchar
 
 *2024-04-22 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195854) · `si`
@@ -204,23 +372,29 @@ Kalutara District Council Member Jayantha Samaraweera has posted this question t
 
 ---
 
-### ஜனாதிபதியின் வெளிநாட்டு பயண விபரங்கள் வருகின்றன
+### The president's foreign travel details come
 
 *2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயண-விபரங்கள்-வருகின்றன/175-336161) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க ஜனாதிபதியாக பதவியேற்றதன் பின்னர் கலந்து கொள்ளும் வெளிநாட்டு பயணங்களுக்காக அரசாங்கம் மேற்கொள்ளும் செலவுகள் தொடர்பான விடயம் நாளை மறுதினம் (24ம் திகதி) நடைபெறவுள்ள பாராளுமன்ற நிகழ்ச்சி நிரலில் உள்ளடக்கப்பட்டுள்ளது.
+The parliamentary agenda tomorrow focuses on President Ranil Wickremesinghe's foreign travel expenses, including details on foreign leaders met and diplomatic agreements. Jayantha Samaraweera questions the separate payment for the delegation accompanying the president.
 
-இதுவரை ஜனாதிபதி பங்கேற்ற வெளிநாட்டுப் பயணங்கள், ஒவ்வொரு பயணத்தின் போதும் சந்தித்த வெளிநாட்டுத் தலைவர்கள் குறித்தும் கேள்வி எழுப்பப்பட்டுள்ளது.
+🟩
 
-மேலும், அவர்களுடன் இராஜதந்திர ரீதியில் செய்து கொள்ளப்பட்ட ஒப்பந்தங்கள் மற்றும் அந்த உடன்படிக்கைகளை எட்டுவது தொடர்பிலும் கேட்கப்பட்டுள்ளது.
+The parliamentary agenda, which is scheduled to take place tomorrow (24th), is about the government's expenses for foreign trips that will be attended by President Ranil Wickremesinghe as President.
 
-மேலும் ஒவ்வொரு வெளிநாட்டுப் பயணத்திலும் ஜனாதிபதியுடன் பங்குபற்றிய தூதுக்குழுவினருக்கு தனித்தனியாகவும் அதற்காக செலவிடப்பட்ட தொகையையும் வழங்குமாறும் கோரப்பட்டுள்ளது.
+The foreign trips that the president has participated so far has been questioned about foreign leaders who have met every trip.
 
-களுத்துறை மாவட்ட சபை உறுப்பினர் ஜயந்த சமரவீர, பிரதமர் தினேஷ் குணவர்தனவிடம் இந்தக் கேள்வியை முன்வைத்துள்ளமை குறிப்பிடத்தக்கது. R
+In addition, they have been asked about diplomatic agreements and agreement with them.
+
+Also, the delegation who participated with the president on every overseas trip is requested to pay separately and the amount spent on it.
+
+Kalutara District Council Member Jayantha Samaraweera has posted this question to Prime Minister Dinesh Gunawardena.. Remble
 
 ◼️
 
 [Data](articles/fc298d81.json)
+
+[Extended Data](ext_articles/fc298d81.ext.json)
 
 ---
 
@@ -259,6 +433,8 @@ Misty conditions can be expected at some places in the Sabaragamuwa, Central and
 ◼️
 
 [Data](articles/f485cf4d.json)
+
+[Extended Data](ext_articles/f485cf4d.ext.json)
 
 ---
 
@@ -1528,6 +1704,8 @@ That this monk has repeatedly thumbed his nose at the law and had been convicted
 
 [Data](articles/75472e0c.json)
 
+[Extended Data](ext_articles/75472e0c.ext.json)
+
 ---
 
 ### The Easter Sunday victims have been political pawns these past five years, just as the many others who lost family members in the various conflicts the country have been through.They too, are still awaiting justice.
@@ -1955,243 +2133,5 @@ Cities such as Beijing and Tianjin were also particularly affected.
 [Data](articles/72caf671.json)
 
 [Extended Data](ext_articles/72caf671.ext.json)
-
----
-
-### Complaint against super-actor Weiman
-
-*2024-04-21 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195842) · `si`
-
-During the Indian elections, South Indian super-star Weiman faced a controversy when a large crowd gathered at his polling station in Chennai, leading to chaos and allegations of illegal voting. The police struggled to control the situation, and Weiman was accused of voting without a queue. Despite these claims, no action has been taken by the Chennai police.
-
-🟩
-
-At the time of the election of the Indian elections, South Indian super-wijits faced a misery.
-
-A large number of people gathered to see him when he arrived at the polling station in Chennai.
-
-It is reported that the police have come to the police and has not been able to control the situation and the opportunity to vote without queue.
-
-With this incident, Chennai police complain is that Vijay illegally voted.
-
-The allegation against him is to access the polling station in a large number of people.
-
-However, the Chennai police have not taken any action to date.
-
-Foreign media has further stated that the latest film of the latest film on the day has come to India on this morning.
-
-◼️
-
-[Data](articles/50ed5ecf.json)
-
-[Extended Data](ext_articles/50ed5ecf.ext.json)
-
----
-
-### Foxhills suspended
-
-*2024-04-21 18:06:14* · [`adalk`](https://www.ada.lk/sports/ෆොක්ස්හිල්-තරග-අත්හිටුවයි/9-409187) · `si`
-
-Fox Hill race organizers suspend all future matches.
-
-🟩
-
-The organizers of the Fox Hill race was organized to suspend all the future matches.
-
-◼️
-
-[Data](articles/9a2fe411.json)
-
-[Extended Data](ext_articles/9a2fe411.ext.json)
-
----
-
-### No one is passing out or left behind - President
-
-*2024-04-21 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195841) · `si`
-
-President Ranil Wickremesinghe emphasizes no one is left behind, highlighting economic stability and relief efforts for low-income families during the inauguration of a national program. He acknowledges challenges, including fuel scarcity and economic instability, but praises the government's efforts to improve the economy and the lives of the people.
-
-🟩
-
-President Ranil Wickremesinghe says that no one is passing out or left in the country.
-
-The President made these comments participating at the inauguration of the National Program for low income families at Ambagasdowa Public Stadium today (21).
-
-"Today the people of this country celebrate Sinhala and Tamil New Yarry. The country was unable to think of this in the last two years. In the recent past, we have been very difficult to absorb the fuel, gas, and fertilizer.. 2022 Sinhala New Year I would like to recall that in Kamburugamuwa area. I saw the people staying in front of the fuel filling seals until the people were staying. They were strongly blamed for the rulers. Many have even heard the progress achieved by the country today. We had to make many decisions for this economic stability in the country today. It is necessary to say that these decisions are not popular.
-
-...
-
-[Data](articles/2fc00ae6.json)
-
-[Extended Data](ext_articles/2fc00ae6.ext.json)
-
----
-
-### Death toll in ‘Fox Hill Super Cross’ accident climbs to 07
-
-*2024-04-21 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98760/death-toll-in-fox-hill-super-cross-accident-climbs-to-07) · `en`
-
-The total number of deaths reported in the tragic accident that took place during the “Fox Hill Super Cross 2024” racing event in Diyatalawa has climbed to 07, the Police Media Division confirmed.
-
-This comes after two individuals who sustained injuries during the accident succumbed to their injuries while receiving treatment at Diyatalawa Hospital this evening.
-
-The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators. The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
-
-Police Media Spokesman DIG Nihal Thalduwa stated that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
-
-The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
-
-...
-
-[Data](articles/c9560fb2.json)
-
-[Extended Data](ext_articles/c9560fb2.ext.json)
-
----
-
-### Diyatalawa deceased to be suspended
-
-*2024-04-21 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195840) · `si`
-
-Diyatalawa Motor race suspended after accident, 7 reported dead, 20 injured. 8-year-old girl among victims.
-
-🟩
-
-The Diyatalawa Motor race was reported to seven people.
-
-The police say that all the races they have been suspended with the accident have been suspended.
-
-Twenty personnel are hospitalized with hospital with injuries in the accident.
-
-Among the seven killed in the accident, 8 year old girl said,
-
-The Police Media Spokesperson also stated that 4 rates were also killed in the accident.
-
-◼️
-
-[Data](articles/e09b0d4f.json)
-
-[Extended Data](ext_articles/e09b0d4f.ext.json)
-
----
-
-### MSME holds inaugural ceremony
-
-*2024-04-21 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/MSME-holds-inaugural-ceremony/110-281090) · `en`
-
-The Ceylon Federation of Micro, Small and Medium Enterprises (MSMEs)'s inaugural ceremony was held at the Bandaranaike Memorial International Conference Hall (BMICH) with the presence of distinguished guests from both local and international spheres. The vision of the MSME is the imperative need for Sri Lanka to transition towards a manufacturing economy, a transformation that cannot be realized within the current framework of laws and regulations primarily favoring imports and trade. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/c9eee41d.json)
-
-[Extended Data](ext_articles/c9eee41d.ext.json)
-
----
-
-### “The President has already been elected”
-
-*2024-04-21 16:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஏற்கனவே-தெரிவாகிவிட்டார்/175-336139) · `ta`
-
-"Prasanna Ranatunga: People elected Ranil Wickremesinghe to end economic crisis, not for rice distribution. Benefits all political ideologies."
-
-🟩
-
-Minister Prasanna Ranatunga said that the people will not vote for the goods distributed by politicians and that the people have already elected Ranil Wickremesinghe as president to restore the country from the economic crisis.
-
-The Minister made this comment while addressing the media after the event of providing rice to low -income families in Kelaniya.
-
-Responding to a question, he said that the rice was not distributed to the election and that people with various political ideologies benefit from the project.
-
-“We did not do this by targeting the election. Here are people who have various political ideologies. People have already chosen Ranil Wickremesinghe because he can rescue the country from economic crisis.
-
-◼️
-
-[Data](articles/5415d12f.json)
-
-[Extended Data](ext_articles/5415d12f.ext.json)
-
----
-
-### “The President has already been elected”
-
-*2024-04-21 16:14:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஏற்கெனவே-தெரிவாகிவிட்டார்/175-336139) · `ta`
-
-"Minister Prasanna Ranatunga stated that the people have elected Ranil Wickremesinghe as president to recover from economic crisis, not for goods distribution. The rice distribution was not political, benefiting people of all ideologies."
-
-🟩
-
-Minister Prasanna Ranatunga said that the people will not vote for the goods distributed by politicians and that the people have already elected Ranil Wickremesinghe as president to restore the country from the economic crisis.
-
-The Minister made this comment while addressing the media after the event of providing rice to low -income families in Kelaniya.
-
-Responding to a question, he said that the rice was not distributed to the election and that people with various political ideologies benefit from the project.
-
-“We did not do this by targeting the election. Here are people who have various political ideologies. People have already chosen Ranil Wickremesinghe because he can rescue the country from economic crisis.
-
-◼️
-
-[Data](articles/db6d4deb.json)
-
-[Extended Data](ext_articles/db6d4deb.ext.json)
-
----
-
-### A thorough open inquiries are essential to find out who was responsible for the alive Sunday massacre - the UN
-
-*2024-04-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181585) · `ta`
-
-The UN and its Permanent Resident in Sri Lanka, Mark Anre France, have called for a full investigation into the 2019 massacre, highlighting Sri Lanka's lack of accountability and the need for justice for victims.
-
-🟩
-
-The UN has appealed for accountability in Sri Lanka in 2019.
-
-The United Nations Permanent Resident of Sri Lanka, Mark Anre France, has appealed for a full -fledged investigation to find out who was responsible for the 2019 massacre.
-
-Sri Lanka continues to suffer from a shortage of accountability, it may be responsible for accountability or is a responsibility for recent human rights violations, the UN Representative said.
-
-Mark Anre, who has been charged with allegations against the former president and top officials, has said that the victims are still waiting for justice, saying that the victims of the survival Sunday attacks should be given justice as part of the efforts to resolve the challenges of the French France.
-
-◼️
-
-[Data](articles/0cf1ae11.json)
-
-[Extended Data](ext_articles/0cf1ae11.ext.json)
-
----
-
-### 7 killed in race in Diyatalawa
-
-*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-7ක්-මරුට/9-409186) · `si`
-
-In Diyatalawa, 7 died and 23 were injured in a Foxhill Super Cross Championship accident. The tournament, organized by the Diyatalawa Army Academy and the Sri Lanka Motor Sports Committee, was attended by popular car enthusiasts. All other events were canceled after the accident.
-
-🟩
-
-Diyatalawa The Diyatalawa Police said that the 13-year-old accident had risen to the seven terrible crashes during the Foxhill Super Cross Championship.
-
-Twenty three injured have been admitted to the hospital, hospital sources said.
-
-Hospital sources say that eight-year-old girl is among the injured. It has been revealed that the girl is residing in Draba, Welimada Draba, who is among her who died.
-
-Unbelievers that the deceased have been settled in Welimada areas areas in Welimada areas.
-
-According to hospital sources, several of the injured were transferred to the Badulla Teaching Hospital.
-
-Police said that people who have come from different parts of the island have died and injured.
-
-The tournament was organized by the Diyatalawa Army Academy and the Sri Lanka Motor Sports Committee.
-
-The organizers said that the country's most popular car tournament was attending the tournament.
-
-The organizers said that all the other matches were canceled after the accident occurred during the tournament.
-
-...
-
-[Data](articles/3460bb87.json)
-
-[Extended Data](ext_articles/3460bb87.ext.json)
 
 ---

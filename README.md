@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 07:42:52**
+As of **2024-04-22 08:00:11**
 
 ## Newspaper Stats
 
-*Scraped **20,132** Articles*
+*Scraped **20,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,678
-tamilmirrorlk | 2,318
+adalk | 1,679
+tamilmirrorlk | 2,319
 adaderanalk | 2,408
 virakesarilk | 3,001
 dailymirrorlk | 3,138
@@ -26,29 +26,51 @@ adaderanasinhalalk | 3,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,131 (100.0%) of 20,132 articles have been extended.
+20,132 (100.0%) of 20,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### පාසල් දරුවන්ට බෙදාදීමට තිබූ සහල් ප්‍රමිතියෙන් තොර බවට අනාවරණයක්
+### இன்று இடியுடன் கூடிய மழை
+
+*2024-04-22 07:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-336156) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று (22) மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி மேல், சபரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (22) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன், ஊவா மாகாணத்திலும் அனுராதபுரம், வவுனியா மற்றும் மன்னார் மாவட்டங்களிலும் இன்று மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/d95fd820.json)
+
+---
+
+### Recognition that rice to distribute to school children
 
 *2024-04-22 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195849) · `si`
 
-පාසල් දරුවන් සඳහා බෙදා දීමට සැලසුම්කර තිබු වේයන්ගොඩ ප්‍රදේශයේ පිහිටි රජයේ ආහාර ගබඩාවේ ගබඩාකර තිබු සහල් තොග නියමිත ප්‍රමිතියෙන් තොර බවට ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂක සංගමය පවසයි.
+The Sri Lanka Public Health Inspector Society planned to distribute rice from the Government Meal Food Store in Veyangoda to school children, but due to rising prices, the distribution was temporarily suspended.
 
-අදාළ සහල් තොග කෘමි හානියට ලක්වීම හේතුවෙන් පරිභෝජනයට නුසුදුසු තත්ත්වයකට පත්ව ඇති බව එම සංගමයේ  සභාපති උපුල් රෝහන මහතා සඳහන් කළේය.
+🟩
 
-මෙම සහල් තොග ලෝක ආහාර සංවිධානය මඟින් ක්‍රියාත්මක කෙරෙන පාසල් දරුවන්ට දිවා ආහාරය ලබා දීම සඳහා රැගෙනවිත් තිබු සහල් තොග බව වාර්තා වේ.
+The Sri Lanka Public Health Inspector Society says that the rice stocks stored in the Government Meal Food Store in Veyangoda area was planned to distribute to school children.
 
-පවතින තත්ත්වය හමුවේ අදාළ ගබඩාවෙන් සහල් තොග නිකුත් කිරීම තාවකාලිකව අත්හිටුවීමට කටයුතු කර ඇති බව ද සඳහන්ය.
+The Chairman of the Association Upul Rohana stated that the prices of the rice is inaugurated due to the inflammation of the prices.
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු පැහැදිලි කරන ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂක සංගමයේ සභාපති උපුල් රෝහන මහතා,
+The rice stocks are being taken to provide lunch to school children who are currently being implemented by the World Food Organization.
+
+In the face of the situation, the issuance of rice has been temporarily suspended.
+
+Sri Lanka Public Health Inspection Association President Upul Rohana
 
 ◼️
 
 [Data](articles/6bf9e28f.json)
+
+[Extended Data](ext_articles/6bf9e28f.ext.json)
 
 ---
 
@@ -1116,6 +1138,24 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 
 ---
 
+### පාස්කු ප්‍රහාරය ගැන ස්වාධීන පරීක්ෂණයක් කරනවා
+
+*2024-04-21 19:21:25* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ස්වාධීන-පරීක්ෂණයක්-කරනවා/11-409193) · `si`
+
+පාස්කු මහමොළකරුවන් සමඟ තමා ඩීල් නොදමන බවත්, සිය රජයක් යටතේ ස්වාධීන පරීක්ෂණයක් සිදු කර වැරදිකරුවන්ට දඬුවම් ලබා දෙන බවත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+පාස්කු ප්‍රහාරයට වසර 05ක් සපිරීම නිමිත්තෙන් අද (21දා) සමගි ජන බලවේගයේ කතෝලික කමිටුව කොළඹ ශාන්ත මරියා වැඩිහිටි නිවාසයේ සංවිධානය කර තිබූ දානමය පුන්‍යකර්මය සඳහා එක්වෙමින් හෙතෙම මේ බව කියා සිටියේය.
+
+එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"මීට වසර 05ට පෙර අද වගේ අප්‍රේල් 21 ඉරිදා දවසක ම්ලේච්ඡ, නීච ත්‍රස්තවාදීන් අපේ රටේ දේවස්ථාන ගණනාවක, හෝටල් ගණනාවක සිදු කළ ම්ලේච්ඡ ප්‍රහාරවලින් පොදුජනතාව, කතෝලික භක්තිකයන් ජීවිතක්ෂයට පත් වුණා. ඒ අයගේ ශරීරවලට දැඩි ලෙස හානි සිදු වුණා. වසර 05ක් ගතවෙලත් පාස්කු ප්‍රහාරය පිළිබඳ සත්‍ය තොරතුරු, මහමොළකරුවන් පිළිබඳ, එය පිටුපස කටයුතු කළ පුද්ගලයන්, කණ්ඩායම් බලවේග පිළිබඳව සත්‍යය හෙළිදරව් වෙලා නෑ.
+
+...
+
+[Data](articles/4c3f60f6.json)
+
+---
+
 ### A big post in SLC
 
 *2024-04-21 19:14:21* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-ශ්‍රීලංනිපයේ-ලොකු-තනතුරක්/11-409192) · `si`
@@ -2149,55 +2189,5 @@ Former Public Defense Minister Rear Admiral Dr. Sarath Weerasekera
 [Data](articles/609a604e.json)
 
 [Extended Data](ext_articles/609a604e.ext.json)
-
----
-
-### 10 kg of rice will be provided
-
-*2024-04-21 13:18:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-கிலோ-கிராம்-அரிசி-வழங்கப்படும்/175-336132) · `ta`
-
-President Ranil Wickremesinghe announced a monthly 10 kg rice distribution to low-income families from April to May at Ambakastova Ground, Uva Paranagama.
-
-🟩
-
-President Ranil Wickremesinghe said that every family receiving low -income family will be given 10 kg of rice per month in April -May.
-
-He was speaking at a national event to provide rice to low -income families organized at the Ambakastova Ground in Uva Paranagama.
-
-◼️
-
-[Data](articles/377e8567.json)
-
-[Extended Data](ext_articles/377e8567.ext.json)
-
----
-
-### Five years after the death of a life -long Sunday attack, deep injuries in Sri Lanka - we rely on the Lord to know what happened.
-
-*2024-04-21 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181571) · `ta`
-
-Five years after the Sri Lanka Easter Sunday bombings, families and officials seek justice, highlighting delays in investigations and allegations of negligence by government officials.
-
-🟩
-
-It has been five years since the murder of 279 people in Sri Lanka's most terrible suicide bombardment, but families who have been mourned are still waiting for justice.
-
-Government official Saman Sirimanna 59- His wife, Syrians and on April 21, 2019, on April 21, 2019, when the suicide bomber was attacked at St. Antonis Devalaya in Colombo, Colombo;Lost.
-
-In the majority Buddhist country, the luxury hotels and two other Christian deities were attacked.
-
-Sirimani said that the 19 -year -old daughter and 22 son had gone to the church with the intention of getting the blessing of the Lord to get the best results in the exam.
-
-He told the AVP with tears that the loss was irreparable. He said that my children would never return.
-
-There are 45 foreigners of the victims-of which they visited Sri Lanka after the many years of ruthless civil war.
-
-Srimani is deeply dissatisfied with the delay in court proceedings and the recession of investigations into the blasts.
-
-...
-
-[Data](articles/e888b75e.json)
-
-[Extended Data](ext_articles/e888b75e.ext.json)
 
 ---

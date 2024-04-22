@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 07:18:49**
+As of **2024-04-22 07:42:52**
 
 ## Newspaper Stats
 
-*Scraped **20,131** Articles*
+*Scraped **20,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,318
 adaderanalk | 2,408
 virakesarilk | 3,001
 dailymirrorlk | 3,138
-adaderanasinhalalk | 3,268
+adaderanasinhalalk | 3,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,131 (100.0%) of 20,131 articles have been extended.
+20,131 (100.0%) of 20,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### පාසල් දරුවන්ට බෙදාදීමට තිබූ සහල් ප්‍රමිතියෙන් තොර බවට අනාවරණයක්
+
+*2024-04-22 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195849) · `si`
+
+පාසල් දරුවන් සඳහා බෙදා දීමට සැලසුම්කර තිබු වේයන්ගොඩ ප්‍රදේශයේ පිහිටි රජයේ ආහාර ගබඩාවේ ගබඩාකර තිබු සහල් තොග නියමිත ප්‍රමිතියෙන් තොර බවට ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂක සංගමය පවසයි.
+
+අදාළ සහල් තොග කෘමි හානියට ලක්වීම හේතුවෙන් පරිභෝජනයට නුසුදුසු තත්ත්වයකට පත්ව ඇති බව එම සංගමයේ  සභාපති උපුල් රෝහන මහතා සඳහන් කළේය.
+
+මෙම සහල් තොග ලෝක ආහාර සංවිධානය මඟින් ක්‍රියාත්මක කෙරෙන පාසල් දරුවන්ට දිවා ආහාරය ලබා දීම සඳහා රැගෙනවිත් තිබු සහල් තොග බව වාර්තා වේ.
+
+පවතින තත්ත්වය හමුවේ අදාළ ගබඩාවෙන් සහල් තොග නිකුත් කිරීම තාවකාලිකව අත්හිටුවීමට කටයුතු කර ඇති බව ද සඳහන්ය.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් කරුණු පැහැදිලි කරන ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂක සංගමයේ සභාපති උපුල් රෝහන මහතා,
+
+◼️
+
+[Data](articles/6bf9e28f.json)
+
+---
 
 ### The sun - to be careful of both the rain
 
@@ -2179,25 +2199,5 @@ Srimani is deeply dissatisfied with the delay in court proceedings and the reces
 [Data](articles/e888b75e.json)
 
 [Extended Data](ext_articles/e888b75e.ext.json)
-
----
-
-### Maithripala faction appoints Wijeyadasa as SLFP Acting Chairman
-
-*2024-04-21 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-faction-appoints-Wijeyadasa-as-SLFP-Acting-Chairman/108-281085) · `en`
-
-Colombo, April 21 (Daily Mirror)- Minister Wijeyadasa Rajapakshe was appointed as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) by the Maithripala Sirisena faction.
-
-The appointment was made during an executive committee meeting held at a hotel in Kotte with the participation of former President Maithripala Sirisena.
-
-Minister of Ports, Aviation and Shipping Nimal Siripala de Silva was earlier appointed as Acting Chairman of the Sri Lanka Freedom Party (SLFP) at a SLFP politburo meeting under the chairmanship of former President Chandrika Bandaranaike Kumaratunga.
-
-The Colombo District Court issued an interim injunction, barring former President Maithripala Sirisena from functioning as SLFP Chairman.
-
-◼️
-
-[Data](articles/80d91b44.json)
-
-[Extended Data](ext_articles/80d91b44.ext.json)
 
 ---

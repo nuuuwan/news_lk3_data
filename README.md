@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 16:34:05**
+As of **2024-04-22 16:49:19**
 
 ## Newspaper Stats
 
-*Scraped **20,240** Articles*
+*Scraped **20,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,689
 tamilmirrorlk | 2,341
-adaderanalk | 2,420
+adaderanalk | 2,421
 virakesarilk | 3,025
-dailymirrorlk | 3,154
+dailymirrorlk | 3,155
 adaderanasinhalalk | 3,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,240 (100.0%) of 20,240 articles have been extended.
+20,240 (100.0%) of 20,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### AirAsia and FitsAir among bidders for SriLankan Airlines
+
+*2024-04-22 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98777/airasia-and-fitsair-among-bidders-for-srilankan-airlines) · `en`
+
+Malaysian budget carrier AirAsia is among six bidders for Sri Lanka’s state-run carrier SriLankan Airlines as the island nation looks to reduce losses incurred by government-owned enterprises under a US$2.9 billion (RM13.8 billion) International Monetary Fund (IMF) programme.
+
+AirAsia Consulting has submitted a request for qualification from potential investors for the acquisition of shares in SriLankan Airlines Limited, a statement released by Sri Lanka’s finance ministry said.
+
+FitsAir, Sri Lanka’s privately-owned low-cost airline, has also submitted a RfQ for the acquisition of shares in SriLankan Airlines.
+
+The document also named Dharshaan Elite Investment Holding (Pvt) Ltd, Sherisha Technologies Private Limited, Treasure Republic Guardians Limited and local conglomerate Hayleys PLC as the other bidders.
+
+...
+
+[Data](articles/2477d2c8.json)
+
+---
+
+### Health officials warn against misleading posts re child surgeries abroad
+
+*2024-04-22 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-officials-warn-against-misleading-posts-re-child-surgeries-abroad/108-281165) · `en`
+
+Colombo, April 22 (Daily Mirror) - A recent viral social media message alleging that the Rotary Club Colombo West has received a substantial grant for cardiac surgeries in India and is transferring children to LRH – Colombo for treatment has raised concerns among health officials.
+
+The message, which has been circulating widely, claims that the Rotary Club Colombo West secured a staggering $15 million grant for cardiac surgeries in India and is currently facilitating the transfer of children to LRH – Colombo for treatment. However, upon investigation, several discrepancies have been uncovered.
+
+...
+
+[Data](articles/1619115b.json)
+
+---
 
 ### 3 Refugees asylum in Dhanushkodi
 
@@ -2239,35 +2271,5 @@ Sri Lanka Public Health Inspection Association President Upul Rohana
 [Data](articles/6bf9e28f.json)
 
 [Extended Data](ext_articles/6bf9e28f.ext.json)
-
----
-
-### Maldivians in Sri Lanka cast votes
-
-*2024-04-22 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Maldivians-in-Sri-Lanka-cast-votes/110-281083) · `en`
-
-On April 21, 2024, Maldivian expatriates living in Sri Lanka exercised their democratic right by casting their votes in the Parliamentary Election of the Maldives. The polling station, established at the Maldivian High Commission in Colombo, welcomed over 300 Maldivian nationals who had registered to participate in the electoral process. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/7d52b7aa.json)
-
-[Extended Data](ext_articles/7d52b7aa.ext.json)
-
----
-
-### Corruption In Sri Lanka – Some Random Reflections
-
-*2024-04-22 06:40:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-some-random-reflections/) · `en`
-
-It is not a matter of dispute that all religious traditions do not condone or encourage avarice.  But the fact is that as long as we dwell in this world, we need food, clothing and shelter as a minimum and we need to desire these things.  The question is to what extent?  The short answer would be that life has to move in the direction of self-regulation necessary to achieve eudaimonia – thriving – or genuine happiness, a concept of Aristotle.
-
-Unhae Park Langis, has written an interesting book entitled  Passion, Prudence, and Virtue in Shakespearean Drama (London 2011.)    She analyzes some of the characters in Shakespeare, who live in a world where passion is in play.   But Shakespeare presents them in a situation where self-regulation enables the outcome of the play.
-
-...
-
-[Data](articles/55e33383.json)
-
-[Extended Data](ext_articles/55e33383.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 21:18:31**
+As of **2024-04-22 21:34:06**
 
 ## Newspaper Stats
 
-*Scraped **20,283** Articles*
+*Scraped **20,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ dailyftlk | 1,112
 economynextcom | 1,157
 adalk | 1,697
 tamilmirrorlk | 2,343
-adaderanalk | 2,424
+adaderanalk | 2,425
 virakesarilk | 3,031
-dailymirrorlk | 3,158
+dailymirrorlk | 3,160
 adaderanasinhalalk | 3,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,281 (100.0%) of 20,283 articles have been extended.
+20,283 (100.0%) of 20,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Iranian President to visit Sri Lanka on Wednesday
+
+*2024-04-22 21:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98781/iranian-president-to-visit-sri-lanka-on-wednesday) · `en`
+
+President of the Islamic Republic of Iran Dr. Ebrahim Raisi is scheduled to make an official bilateral visit to Sri Lanka at the invitation of President Ranil Wickremesinghe to jointly declare open the Uma Oya Multipurpose Development Project on 24 April (Wednesday), the Ministry of Foreign Affairs confirmed.
+
+The Uma Oya Multipurpose Development Project, funded by Sri Lanka and Iran, is designed to generate and add 120 Megawatt electricity to Sri Lanka’s national grid and provide irrigation to approximately 25,000 acres of paddy lands in the south eastern part of Sri Lanka.
+
+The Iranian President is currently on a three-day trip to neighboring Pakistan as part of efforts by both countries to mend relations that were strained earlier this year.
+
+Iranian President Ebrahim Raisi held talks with Pakistani Prime Minister Shehbaz Sharif on Monday, April 22, in Islamabad in their first meeting since their countries exchanged missile strikes in February.
+
+...
+
+[Data](articles/287ec029.json)
+
+---
+
+### No Sri Lankan boats to Australia in a year: Australia Emergency Task Force Operations
+
+*2024-04-22 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-Sri-Lankan-boats-to-Australia-in-a-year-Australia-Emergency-Task-Force-Operations/108-281169) · `en`
+
+Colombo, April 22 (Daily Mirror) - During the launch of Operation 'Disi Rala,' the joint maritime security effort between Australia and Sri Lanka, Mark Whitechurch, who heads the Emergency Task Force Operations Submarine Borders, mentioned that they had not spotted any boats from Sri Lanka heading to Australia in over a year.
+
+The essence of Operation Disi Rala stresses the shared duty to protect our maritime surroundings.
+
+Appropriately named 'Disi Rala,' meaning 'keeping a watchful eye over the maritime environment,' this collaborative endeavour involves the Australian Border Force (ABF) and the Sri Lanka Coast Guard (SLCG) working together for a week-long initiative, covering the area from Dikkowita to Chilaw.
+
+...
+
+[Data](articles/dfe09796.json)
+
+---
+
+### Family New Year celebrations
+
+*2024-04-22 20:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Family-New-Year-celebrations/110-281168) · `en`
+
+A family New Year celebration was held recently at the Seethawaka Miracle Nature Resort in Avissawella. Several New Year games were held at the resort. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/9f808671.json)
+
+---
 
 ### Fox Hill Drivers confessed
 
@@ -71,6 +117,8 @@ Spanning from Adam’s Bridge in the Mannar Basin to Seetha Eliya in Nuwara Eliy
 ◼️
 
 [Data](articles/0bb5d6a4.json)
+
+[Extended Data](ext_articles/0bb5d6a4.ext.json)
 
 ---
 
@@ -282,17 +330,23 @@ International bailouts have reacted interest on delayed fees as the debt restruc
 
 ---
 
-### උද්ධමනය අඩුවෙයි
+### Inflation is reduced
 
 *2024-04-22 18:25:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-අඩුවෙයි/11-409210) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 පෙබරවාරි මාසයේදී 5.1% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මාර්තු මාසය සඳහා 2.5%ක් දක්වා අඩුවී ඇත.
+Inflation fell to 2.5% in March 2024, down from February's report.
 
-කෙසේ වෙතත් 2024 පෙබරවාරි මාසයේ දී 5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 මාර්තු මාසයේදී වෙනසක් සිදුව නොමැත.
+🟩
+
+According to the National Institute of Consumer Price Index, the country's inflation has fallen to 2.5% for March 2024.
+
+However, in February, 2024, the inflation was reported in March 2024.
 
 ◼️
 
 [Data](articles/be51edc5.json)
+
+[Extended Data](ext_articles/be51edc5.ext.json)
 
 ---
 
@@ -2225,67 +2279,5 @@ He also said that steps are being taken to convert the Kelani railway line from 
 [Data](articles/0831575e.json)
 
 [Extended Data](ext_articles/0831575e.ext.json)
-
----
-
-### Astrologer Chandrasiri Bandara has passed away
-
-*2024-04-22 11:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோதிடர்-சந்திரசிறி-பண்டார-காலமானார்/175-336172) · `ta`
-
-Astrologer Chandrasiri Bandara passed away while receiving treatment at Bandara Private Hospital.
-
-🟩
-
-Astrologer Chandrasiri was receiving treatment at the Bandara private hospital.
-
-◼️
-
-[Data](articles/d66e93be.json)
-
-[Extended Data](ext_articles/d66e93be.ext.json)
-
----
-
-### Increase in pain
-
-*2024-04-22 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேதன-அதிகரிப்பை-மேற்கொள்ளவும்/175-336171) · `ta`
-
-Parliamentarian Vadivel Suresh urged President Ranil Wickremesinghe to pressure plantation companies to pay workers, during a rice distribution event for low-income families.
-
-🟩
-
-Parliamentarian Vadivel Suresh urged President Ranil Wickremesinghe to take action to put pressure on plantation companies and take steps to pay for the labor of plantation workers.
-
-He appealed for the above while participating in a national event to provide rice to low -income families organized at the Ambakastova Ground in Uva Paranagama.
-
-“When the country was in an extraordinary situation, a number of jobs were carried out by the President as the leader who boldly rescued the country. There was a time when the people were in trouble for transportation and the long queues to get essential commodities.. The country is slowly returning to the old situation. ”
-
-We all believe that the president will be able to increase the pain of the people of the hill country who will restore the country's economy as the country has redeemed and succeeded.. Therefore, I urge the plantation companies to take action to pay for the salary of plantation workers.
-
-◼️
-
-[Data](articles/f124632a.json)
-
-[Extended Data](ext_articles/f124632a.ext.json)
-
----
-
-### Transport Minister reveals burden of Sri Lanka Railways, loans essential for maintenance
-
-*2024-04-22 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98769/transport-minister-reveals-burden-of-sri-lanka-railways-loans-essential-for-maintenance) · `en`
-
-Minister of Transport Bandula Gunawardena stated that loans are now required even for the maintenance of railways.
-
-Joining an event held in Kegalle, Gunawardena mentioned that the Sri Lanka Railways is making losses continuously.
-
-The Transport Minister disclosed that Sri Lanka has recently borrowed 500 buses from India under the Indian credit line aimed at facilitating transportation to schools and hospitals in remote areas. He also emphasized that without resorting to loans, the state-owned Sri Lanka Transport Board (SLTB) would struggle to acquire buses.
-
-“Recently, the government has borrowed 500 buses from India under the Indian credit line and deployed them in areas where children have no buses to go to school or hospitals. Without borrowing, SLTB cannot acquire buses”, he said.
-
-...
-
-[Data](articles/b1fa4d2e.json)
-
-[Extended Data](ext_articles/b1fa4d2e.ext.json)
 
 ---

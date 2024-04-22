@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 20:18:30**
+As of **2024-04-22 20:33:59**
 
 ## Newspaper Stats
 
-*Scraped **20,277** Articles*
+*Scraped **20,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,343
 adaderanalk | 2,424
 virakesarilk | 3,031
 dailymirrorlk | 3,157
-adaderanasinhalalk | 3,291
+adaderanasinhalalk | 3,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,277 (100.0%) of 20,277 articles have been extended.
+20,277 (100.0%) of 20,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ජීවිත 7ක් අහිමිවූ ෆොක්ස් හිල් ඛේදවාචකයේ වගකීම කාගේ ද ?
+
+*2024-04-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195873) · `si`
+
+ෆොක්ස් හිල් සුපර්ක්‍රොස් 2024 තරගාවලිය සංවිධාන කර තිබුණේ ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය හා ශ්‍රී ලංකා යුද හමුදා විද්‍යාපීඨය එක්වයි.
+
+සංවිධායකයන් තරගාවලියට පෙර පැවසුවේ නරඔන්නන් සහ රියදුරන් ඇතුළු පාර්ශ්වවල ආරක්ෂාව සහතික කර ඇති බවය.
+
+කෙසේවෙතත් මෙවන් මාරක අනතුරක් සිදුවූයේ නිසි ආරක්ෂක විධිවිධාන අනුගමනය නොකිරීම නිසා බවට මේ වන විට ඇතැම් පාර්ශ්වවලින් චෝදනා එල්ල වී තිබේ.
+
+අදාළ අනතුර වාර්තාවීමත් සමඟ හිටපු ප්‍රවීන මෝටර් රථ ධාවකයින් තරගාවලියේ සංවිධායකයින් පහසුකම් සැපයූ ආකාරය පිළිබඳ කරුණු කිහිපයක් ඔස්සේ සිය අවධානය යොමුකර තිබේ.
+
+ඒ අනුව පැවති දූවිලි සහිත තත්ත්වය හමුවේ ප්‍රමාණවත් පරිදි ජලය යොදා ධාවන පථය තෙත් කිරීමට සංවිධාකයකින් පියවර ගත්තේද ? ධාවන පථය වටා පස් කණ්ඩිය නියමිත ප්‍රමිතියට සකස් කර තිබුණේද ?  අනතුරක් වූ බවට සෙසු ධාවකයින්ට නිසි පරිදි සංඥා ලබා දුන්නේද ? යන්න ඔවුන් සංවිධායකයින්ගෙන් ප්‍රශ්න කරයි.
+
+එමෙන්ම ලක්ෂයට අධික පිරිසක් සහභාගී වන මෙවැනි ඉසව්වක හදිසි අවස්ථාවක කලබලයට පත්වන ප්‍රේක්ෂකයින් පාලනය කිරීමට ප්‍රමාණවත් ආරක්ෂක නිලධාරීන් පිරිසක් යොදවා සිටියේද යන්නත් ඔවුන් තවදුරටත් ප්‍රශ්න කරයි.
+
+...
+
+[Data](articles/e1a0fefb.json)
+
+---
 
 ### Wijeyadasa Rajapakse decides
 
@@ -2269,19 +2291,5 @@ He accused the past and the present governments that they have failed to reveal 
 [Data](articles/cae5582d.json)
 
 [Extended Data](ext_articles/cae5582d.ext.json)
-
----
-
-### Astrologer Chandrasiri Bandara passes away
-
-*2024-04-22 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98768/astrologer-chandrasiri-bandara-passes-away) · `en`
-
-Veteran Astrologer Chandrasiri Bandara has passed away this morning (22), while receiving treatment at a private hospital, family sources confirmed.
-
-◼️
-
-[Data](articles/b9ffe036.json)
-
-[Extended Data](ext_articles/b9ffe036.ext.json)
 
 ---

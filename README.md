@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 12:50:32**
+As of **2024-04-22 13:03:25**
 
 ## Newspaper Stats
 
-*Scraped **20,200** Articles*
+*Scraped **20,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,86 @@ dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,685
 tamilmirrorlk | 2,334
-adaderanalk | 2,416
+adaderanalk | 2,417
 virakesarilk | 3,015
-dailymirrorlk | 3,146
+dailymirrorlk | 3,147
 adaderanasinhalalk | 3,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,198 (100.0%) of 20,200 articles have been extended.
+20,200 (100.0%) of 20,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### පූජ්‍ය උලපනේ හිමි ඇතුළු දෙදෙනෙක් රිමාන්ඩ්
+### Victims of horror crash during ‘Fox Hill Super Cross’ identified
+
+*2024-04-22 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98773/victims-of-horror-crash-during-fox-hill-super-cross-identified-) · `en`
+
+Seven persons including a child were killed while 23 others were injured following a tragic accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on Sunday (21).
+
+Among the deceased were four officials of the racing event who were stationed as flag marshals. The other victims were civilians who were spectators of the event, as reported by the police.
+
+- Muththusamy Udayakumar, 55 years old, a resident of Welimada
+
+- Aruna Shantha Upaligamage, 62 years old, a resident of Matara
+
+Rasika Abeynaike, a member of the Sri Lanka Army rugby team and stationed at Salawa Army Camp in Kosgama, was attending the racing event as a spectator while on leave. Abeynaike, who completed his education at Embilipitiya Maha Vidyalaya and joined the Army Engineer Corps, was scheduled to be transferred to Udawalawa Army Camp on the day following the incident. His final rites are to be performed in the Galaha area of Kandy, as per family sources.
+
+...
+
+[Data](articles/b6c55f50.json)
+
+---
+
+### Two including Ven. Ulugata Thera remanded
 
 *2024-04-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195860) · `si`
 
-ගුරු විදුහල්පති එකමුතුවේ කැඳවුම්කරු පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු දෙදෙනෙකු රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+Ven. Ulugata Thera, Convener of Teacher Principals, and others were remanded for opposing the removal of shanty houses, as ordered by a court.
 
-පැල්පත් නිවාස කිහිපයක් අධිකරණ නියෝග මත ඉවත් කිරීමට යාමේ දී ඊට විරෝධය පළකර බාධාකිරීමේ චෝදනා මත ඔවුන් රක්ෂිත බන්ධනාගාර ගතකර ඇති බව වාර්තා වේ.
+🟩
 
-අලුත්කඩේ අංක 03 මහෙස්ත්‍රාත් අධිකරණයේ අද (22) පැවති අදාළ නඩු විභාගය සඳහා පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු සැකකරුවන් සහභාගී වී තිබුණි.
+Convener of the Teacher Principals, Ven.
 
-එහිදී ඔවුන් රක්ෂිත බන්ධනාගාර ගතකිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසුවේය.
+It is reported that they have been remanded for objection to the removal of several shanty houses on court order.
+
+Ven.
+
+The Magistrate ordered the Magistrate to remand custody.
 
 ◼️
 
 [Data](articles/bbf7f1d9.json)
+
+[Extended Data](ext_articles/bbf7f1d9.ext.json)
+
+---
+
+### Lyrid meteor shower visible tonight
+
+*2024-04-22 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lyrid-meteor-shower-visible-tonight/108-281156) · `en`
+
+Colombo, April 22 (Daily Mirror) - The annual Lyrid meteor shower will be visible to Sri Lanka tonight in the western sky, Space Scientist and Engineer Gihan Weerasekera said.
+
+It can be seen along with the star pattern called Veena. At least 20 meteors per hour are expected to be visible to the naked eye.
+
+The Lyrids meteor shower lasts from about April 15 to April 29 each year.
+
+The meteor shower will reach its maximum in the morning tomorrow, but it will be difficult to see because of the full moon.
+
+The nearly full moon over the weekend will make it more difficult to see the meteor shower, but viewers can still see some, and it always helps to make the sky as dark as possible.
+
+But the best time to watch the meteor shower is between 4 a.m. and 5 a.m. in the morning.
+
+The Lyrid meteor shower is a burst of meteor activity occurring around mid- to late-April.
+
+...
+
+[Data](articles/5126b2c4.json)
 
 ---
 
@@ -2139,47 +2189,5 @@ Similarly, he pointed out the need to implement various tourists for tourists vi
 [Data](articles/c1bad17e.json)
 
 [Extended Data](ext_articles/c1bad17e.ext.json)
-
----
-
-### Here's what happens to the drugs that have been caught by justice
-
-*2024-04-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195846) · `si`
-
-IGP Deshabandu Tennakoon announced steps to destroy drugs seized by justice, emphasizing strict law enforcement against drug trafficking, involving criminals and police officers.
-
-🟩
-
-IGP Deshabandu Tennakoon says steps will be taken to destroy the drug taken into custody by the operation of justice.
-
-The IGP pointed out that the Puttalam district is already designed in the Puttalam District.
-
-IGP Deshabandu Tennekowan said this while participating at a function held in Nuwara Eliya.
-
-Meanwhile, IGP Deshabandu Tennakoon said that the law is strictly enforced regarding drug trafficking and criminals and police officers.
-
-◼️
-
-[Data](articles/58c6d4f1.json)
-
-[Extended Data](ext_articles/58c6d4f1.ext.json)
-
----
-
-### Government to provide ownership of 50,000 flats in Colombo to plantation residents
-
-*2024-04-21 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-provide-ownership-of-50-000-flats-in-Colombo-to-plantation-residents/108-281095) · `en`
-
-Colombo, April 21 (Daily Mirror) - The programme of providing free land rights to 2 million is currently underway and steps have been taken to give ownership of 50,000 flats in Colombo to the plantation people.
-
-"We have focused on developing the living conditions of the plantation people and he decision to give land to those people is currently being made.
-
-"We should not be divided politically in this work. If we are divided, we will not see this progress in the country today. We should forget party politics and move forward. Also, we hope to implement some large programmes for the development of this Uva region," President Ranil  Wickremesinghe said.
-
-◼️
-
-[Data](articles/58c119ef.json)
-
-[Extended Data](ext_articles/58c119ef.ext.json)
 
 ---

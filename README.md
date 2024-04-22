@@ -1,36 +1,76 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 13:03:25**
+As of **2024-04-22 13:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,202** Articles*
+*Scraped **20,210** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 176
+colombotelegraphcom | 178
 bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,685
+adalk | 1,686
 tamilmirrorlk | 2,334
 adaderanalk | 2,417
-virakesarilk | 3,015
+virakesarilk | 3,018
 dailymirrorlk | 3,147
-adaderanasinhalalk | 3,280
+adaderanasinhalalk | 3,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,200 (100.0%) of 20,202 articles have been extended.
+20,202 (100.0%) of 20,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### මාලදිවයිනේ මැතිවරණ ජය පාලක පක්ෂයට
+
+*2024-04-22 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195862) · `si`
+
+මාලදිවයින් ඊයේ (21)  පැවති මහා මැතිවරණයෙන් කැපී පෙනෙන ජයග්‍රහණයක් අත්කරගැනීමට වත්මන් ජනාධිපති මොහොමඩ් මුයිසුගේ පක්ෂය සමත්ව විය.
+
+ඒ අනුව චීන හිතවාදී මුයිසුගේ මහජන ජාතික කොංග්‍රසය දැනටමත් දිනා ඇති ආසන ගණන 66කි.
+
+මැතිවරණය පැවැත්වුණේ පාර්ලිමේන්තුවේ ආසන 93ක් සඳහා මන්ත්‍රීවරුන් තෝරාපත් කරගැනීමේ අරමුණිනි.
+
+මැතිවරණය සඳහා ඡන්දය භාවිතයට සුදුසුකම් ලබා ඇති පිරිස 280,000ක් පමණී.
+
+◼️
+
+[Data](articles/faeb2fec.json)
+
+---
+
+### විජයදාසගේ නම මැතිවරණ කොමිසමට
+
+*2024-04-22 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195861) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ වැඩබලන සභාපතිවරයා ලෙස තම පාර්ශ්වයෙන් තෝරා පත් කරගත් අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නම මැතිවරණ කොමිසන් සභාව වෙත දැනුම් දීමට පියවර ගන්නා බව එම පක්ෂයේ මෛත්‍රී පාර්ශ්වය පවසයි.
+
+ඒ අනුව නිදහස් පක්ෂ වැඩබලන මහලේකම්වරයා විසින් විජයදාස රාජපක්ෂ මහතාගේ නම සහ විධායක සභාවේ දී ගත් තීරණ සම්බන්ධයෙන් මැතිවරණ කොමිසන් සභාව වෙත දැනුම් දීමට නියමිතය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වය පසුගිය 20 රැස්වූ අවස්ථාවේ ගත් තීරණයට අනුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක රැස්වීමක් ඊයේ (21) පෙරවරුවේ ඇතුල්කෝට්ටේ ප්‍රදේශයේ හෝටලයකදී කැඳවා තිබිණි.
+
+මෙම විධායක සභා රැස්වීමට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාද සහභාගී වී සිටි අතර එහිදී
+
+ඔහුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරයට පත් කර ගැනුණි.
+
+"අපිට පක්ෂය හැරගිය සියලුදෙනා එකට එකතු කරගෙන හොඳ ගමනක් යන්න අද අවස්ථාවක් උදාවුණා. අපි සියලුදෙනා එකට එකතුවෙලා සාර්ථක ගමනක් ගියොත් පක්ෂය විතරක් නෙමෙයි ගොඩයන්නේ රටටත් ගොඩයන්න පුළුවන්. ඉදිරියේ එන ඕනෑම මැතිවරණයකදී ශ්‍රී ලංකා නිදහස් පක්ෂය ජයග්‍රහණය කරවනවා කියන පොරොන්දුව ලබාදෙනවා."
+
+◼️
+
+[Data](articles/b6932420.json)
+
+---
 
 ### Victims of horror crash during ‘Fox Hill Super Cross’ identified
 
@@ -49,6 +89,8 @@ Rasika Abeynaike, a member of the Sri Lanka Army rugby team and stationed at Sal
 ...
 
 [Data](articles/b6c55f50.json)
+
+[Extended Data](ext_articles/b6c55f50.ext.json)
 
 ---
 
@@ -76,6 +118,22 @@ The Magistrate ordered the Magistrate to remand custody.
 
 ---
 
+### உலக புவி தினம் இன்று!
+
+*2024-04-22 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181649) · `ta`
+
+உலகெங்கிலும் உள்ள நாடுகளினால் சுற்றுச் சூழல் பாதுகாப்பு மற்றும் புவியினது நிலைத்தன்மையை பேணுவதற்காக உலக புவி தினமானது ஒவ்வொரு ஆண்டும் ஏப்ரல் மாதம் 22  கொண்டாடப்படுகின்றது.
+
+இந்த ஆண்டு உலக புவி தினத்தின் கருப்பொருள்  "பூமிக்கு எதிரான பிளாஸ்டிக்" என்பதாகும்.
+
+இந்த கருப்பொருளானது பிளாஸ்டிக் மாசுபாடு மற்றும் அதன் பாதக விளைவுகளை முன்னிலைப்படுத்தியதாக அமைகிறது.
+
+◼️
+
+[Data](articles/b5ea1bb9.json)
+
+---
+
 ### Lyrid meteor shower visible tonight
 
 *2024-04-22 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lyrid-meteor-shower-visible-tonight/108-281156) · `en`
@@ -98,6 +156,8 @@ The Lyrid meteor shower is a burst of meteor activity occurring around mid- to l
 
 [Data](articles/5126b2c4.json)
 
+[Extended Data](ext_articles/5126b2c4.ext.json)
+
 ---
 
 ### Two including Ven. Ulapane Sumangala Thero remanded
@@ -113,6 +173,38 @@ This order has been issued by the Hulftsdorp Magistrate’s Court for their atte
 [Data](articles/ec222bf2.json)
 
 [Extended Data](ext_articles/ec222bf2.ext.json)
+
+---
+
+### நுவரெலியா வசந்த காலத்தில் சுற்றுலா பயணிகளை அசௌகரியப்படுத்தும் யாசகர்கள், ஊதுபத்தி விற்கும் பெண்கள் - எழுந்துள்ள கடும் குற்றச்சாட்டு
+
+*2024-04-22 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181650) · `ta`
+
+நுவரெலியா நகரில் சுற்றுலா பயணிகளையும், பொதுமக்களையும் அசௌகரியப்படுத்தி  தற்காலிகமாக அமைக்கப்பட்டுள்ள கடைத்தொகுதி, வீதிகளில் கைக்குழந்தைகள், சிறுவர்களுடன் ஊதுபத்தி விற்பனை செய்பவர்கள், யாசகம் செய்பவர்கள், மடிப்பிச்சை எடுப்பவர்கள் தொடர்பில் அதிகாரிகள் அல்லது பொறுப்பு வாய்ந்தவர்கள் உரிய நடவடிக்கை எடுக்க வேண்டும் என வர்த்தகர்கள் மற்றும் பொதுமக்கள் தொடர்ச்சியாக  கோரிக்கை விடுத்து வருகின்றனர்.
+
+குறிப்பாக ஏப்ரல் மாதத்தில் தினமும்  பெருமளவு பொதுமக்கள், சுற்றுலா பயணிகள் வந்து செல்லும் நிலையில் யாசகர்கள் மற்றும் ஊதுபத்தி விற்கும் பெண்களின் தொல்லை நாளாந்தம் அதிகரித்து வருவதாகவும் , ஊதுபத்தி விற்பது போல் பெண்களை வசியப்படுத்தி நகைகளை பறிக்க முயற்சி செய்வதாகவும்  குற்றஞ்சாட்டு தொடர்ந்து காணப்படுகின்றது.
+
+...
+
+[Data](articles/189f4e54.json)
+
+---
+
+### පාසල් සිසුන්ට කන්න දීමට තිබූ සහල් ප්‍රමිතියෙන් තොරයි
+
+*2024-04-22 12:14:32* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-කන්න-දීමට-තිබූ-සහල්-ප්‍රමිතියෙන්-තොරයි/11-409200) · `si`
+
+පාසල් ආරම්භ කළ පසු  දිවයිනේ 1-5 ශ්‍රේණිවල  ප්‍රාථමික  දරුවන් ලක්ෂ 16 කගේ යකඩ ඌණතාවය දුරළීම සඳහා සබල කරණය කරන ලද පෝෂ්‍ය පදාර්ථ එක්කල පළාත් මට්ටමින් බෙදා හැරීම සඳහා ආහාර කොමසාරිස් දෙපාර්තමේන්තුවේ වේයන්ගොඩ දිසා ධාන්‍යාගාරයේ  ගබඩා  කර තිබූ කෝටි ගණනක් වටිනා  සහල් මිනිස් පරිභෝජනයට නුසුදුසු ඒවා බවට හඳුනා ගත් බව ශ්‍රී ලංකා මහජන පරීක්ෂ සංගමයේ සභාපති උපුල් රෝහණ මහතා  අද (22) ප්‍රකාශ කළේය.
+
+මෙම ගබඩාවේ තැන්පත් කොට තිබූ සහල් වලින් සාම්පල් 1000ක් පමණ පරීක්ෂා කොට ඇති අතර ඒවා රස පරීක්ෂකවරයාට යවා ලැබුණු වාර්තාව අනුව මිනිස් පරිභෝජනය නුසුදුසු බව නිර්දේශ වීමෙන් පසුව වේයන්ගොඩ මහජන පරීක්ෂකවරුන් ඊයේ (21) එම ස්ථානයට ගොස් මෙම සහල් පාසල් වලට බෙදා හැරීම අත්හිටු වූ බවද උපුල් රෝහණ මහතා සඳහන් කරයි.
+
+ලෝක ආහාර වැඩසටහන (WFP world food programme) අනුව දිවයිනේ පාසල් සඳහා මෙම සහල් තොග පළාත් මධ්‍යමින් බෙදා දීමට සැලසුම්  ගබඩාවේ තැන්පත් කොට තිබුණි.
+
+2022 වර්ෂයේ ඉන්දියාවේ ගොවිබිම්වලින් නෙළාගත් අස්වැන්න වන මෙම සහල් 2024 වර්ෂයේ මැයි මස වනතුරු පරිභෝජනයට සුදුසු බව  එම සහල් මළුවල සඳහන් වෙයි.
+
+...
+
+[Data](articles/5581f98d.json)
 
 ---
 
@@ -181,6 +273,52 @@ The bench stated that the minor should get transport arrangements and any medica
 [Data](articles/fc1111cd.json)
 
 [Extended Data](ext_articles/fc1111cd.ext.json)
+
+---
+
+### மல்வத்து, அஸ்கிரி மகாநாயக்க தேரர்களை சந்தித்து ஜனாதிபதி ஆசிர்வாதம் பெற்றுக்கொண்டார்
+
+*2024-04-22 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181645) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் மல்வத்து மற்றும் அஸ்கிரி பீடங்களின் மகா நாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+
+முதலில் மல்வத்து மகா விகாரைக்கு வருகை தந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து பீட மகா நாயக்க  வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல மகா நாயக்க தேரரை தரிசித்து ஆசிர்வாதம் பெற்றுக் கொண்ட பின்னர் சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
+
+இச்சந்திப்பில் மல்வத்து பீட அனுநாயக்க  வண,  திம்புல்கும்புரே விமலதம்ம தேரரரும் கலந்து கொண்டதுடன் அவர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசிர்வதித்தார்.
+
+அதன் பின்னர் அஸ்கிரி மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அஸ்கிரி பீட மகாநாயக்க வரகாகொட ஸ்ரீ ஞானரதன  தேரரை சந்தித்து சிறிது நேரம் கலந்துரையாடினார்.
+
+முதியங்கனை ரஜமஹா விகாரையின் விகாராதிபதி வண, முருந்தெணியே தம்மரதன தேரர் தலைமையிலான மகா சங்கத்தினர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசி வழங்கினார்கள்.
+
+◼️
+
+[Data](articles/8ccc41c9.json)
+
+---
+
+### Bore. Demonstration protests against shrimp farm in Vaharai area
+
+*2024-04-22 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181642) · `ta`
+
+Villagers and civil organizations protested against shrimp farming and Ilmanite excavation in Vaharai, demanding a ban and accountability. The Divisional Secretary promised no new permissions.
+
+🟩
+
+A protest demonstration was held in front of the Vakarai Divisional Secretariat on Monday (22) by the villagers and civil organizations, protesting against the shrimp farming in Vaharai and urging the entire ban on the excavation of the Ilmanite.
+
+The people were protesting against the destruction of natural resources and the permanent prohibition of the projects and the permanent ban on the entrance of the Divisional Secretariat.
+
+At the same time, the Divisional Secretary, who arrived at the scene, promised that he would not grant any new permission for shrimp farm and Ilmanite excavation and would no longer be granted.
+
+In addition, Alchemy Kevi Metal Company, who is trying to excavate the Ilmanite in Vaharai, has made public public the case.
+
+Since then, the people continue to fight in front of the Divisional Secretariat demanding that the governor and other Batticaloa district parliamentarians be held accountable for the demands of the people.
+
+◼️
+
+[Data](articles/5afd21c2.json)
+
+[Extended Data](ext_articles/5afd21c2.ext.json)
 
 ---
 
@@ -423,32 +561,6 @@ Sri Lankan officials say that 56 citizens of Myanmar's four parts have been cook
 [Data](articles/05faa310.json)
 
 [Extended Data](ext_articles/05faa310.ext.json)
-
----
-
-### Bore. Demonstration protests against shrimp farm in Vaharai area
-
-*2024-04-22 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181642) · `ta`
-
-Villagers and civil organizations protested against shrimp farming and Ilmanite excavation in Vaharai, demanding a ban and accountability. The Divisional Secretary promised no new permissions.
-
-🟩
-
-A protest demonstration was held in front of the Vakarai Divisional Secretariat on Monday (22) by the villagers and civil organizations, protesting against the shrimp farming in Vaharai and urging the entire ban on the excavation of the Ilmanite.
-
-The people were protesting against the destruction of natural resources and the permanent prohibition of the projects and the permanent ban on the entrance of the Divisional Secretariat.
-
-At the same time, the Divisional Secretary, who arrived at the scene, promised that he would not grant any new permission for shrimp farm and Ilmanite excavation and would no longer be granted.
-
-In addition, Alchemy Kevi Metal Company, who is trying to excavate the Ilmanite in Vaharai, has made public public the case.
-
-Since then, the people continue to fight in front of the Divisional Secretariat demanding that the governor and other Batticaloa district parliamentarians be held accountable for the demands of the people.
-
-◼️
-
-[Data](articles/5afd21c2.json)
-
-[Extended Data](ext_articles/5afd21c2.ext.json)
 
 ---
 
@@ -1450,6 +1562,20 @@ Sri Lanka Public Health Inspection Association President Upul Rohana
 
 ---
 
+### Corruption In Sri Lanka – Some Random Reflections
+
+*2024-04-22 06:40:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-some-random-reflections/) · `en`
+
+It is not a matter of dispute that all religious traditions do not condone or encourage avarice.  But the fact is that as long as we dwell in this world, we need food, clothing and shelter as a minimum and we need to desire these things.  The question is to what extent?  The short answer would be that life has to move in the direction of self-regulation necessary to achieve eudaimonia – thriving – or genuine happiness, a concept of Aristotle.
+
+Unhae Park Langis, has written an interesting book entitled  Passion, Prudence, and Virtue in Shakespearean Drama (London 2011.)    She analyzes some of the characters in Shakespeare, who live in a world where passion is in play.   But Shakespeare presents them in a situation where self-regulation enables the outcome of the play.
+
+...
+
+[Data](articles/55e33383.json)
+
+---
+
 ### The sun - to be careful of both the rain
 
 *2024-04-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195847) · `si`
@@ -1475,6 +1601,18 @@ Meanwhile, the Department of Meteorology states that the temperature of several 
 [Data](articles/2084a2f6.json)
 
 [Extended Data](ext_articles/2084a2f6.ext.json)
+
+---
+
+### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin? – Part II
+
+*2024-04-22 06:16:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin-part-ii/) · `en`
+
+The US-led NATO forces are facing a historic debacle in Ukraine. The disinformation shovelled out by Washington and London, regurgitated by their mainstream media, alleges that the US and its NATO allies are defending Ukraine’s exercise of its inalienable right of self-determination to follow its own political destiny, including the sovereign right to join NATO or any other regional entity; and that NATO powers’ military assistance seeks to selflessly defend Ukraine’s sovereignty and repel Russia’s aggression to the last Ukrainian (not to the last US or British soldier). The reality however is far less benign.
+
+...
+
+[Data](articles/a8578833.json)
 
 ---
 
@@ -2023,171 +2161,5 @@ Prasanna Ranatunga, Minister of Urban Development and Housing, criticizes the JV
 [Data](articles/6f24d238.json)
 
 [Extended Data](ext_articles/6f24d238.ext.json)
-
----
-
-### Gujarat defeated Punjab in a minimum total number
-
-*2024-04-22 01:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181605) · `ta`
-
-Gujarat Titans won against Punjab Kings in IPL, thanks to Sai Kishore's 4 wickets, Noor Ahmad's bowling, and Rahul Tewatia's play. Gujarat scored 143, won by 7 wickets in 19.1 overs, and by 146 runs.
-
-🟩
-
-Gujarat Titans won the Punjab Kings at the 38th Indian Premier League cricket match at the Maharaja Maharaja Yadavendra Singh International Stadium on Sunday (21).
-
-The Gujarat Titans won the match with only 5 balls remaining in the match.
-
-Sai Kishore's 4 wickets pile, Noor Ahmad's accurate bowling and Rahul Tewatia's action play played a major role in Gujarat's success.
-
-Gujarat Titans, who were bowled out for 143 runs, won by 7 wickets in 19.1 overs and won by 146 runs.
-
-Initial Virer Ritiman Saha lost only 13 runs. The Gujarat Titans lost one wicket at the Power Play Over and scored 45 runs.
-
-When the total number was 66 runs, team captain Shubman Kill scored 35 runs due to negligence.
-
-David Miller, who was named for the action, did not shine greatly this year and scored only 4 runs in the match.
-
-Gujarat Titans faced a small crisis to lose the match with 31 runs. (97 - 4 wig.)
-
-...
-
-[Data](articles/c1126870.json)
-
-[Extended Data](ext_articles/c1126870.ext.json)
-
----
-
-### ISB debt restructure and the upcoming elections
-
-*2024-04-22 01:06:20* · [`dailyftlk`](https://www.ft.lk/columns/ISB-debt-restructure-and-the-upcoming-elections/4-760855) · `en`
-
-We were told that EPF/ETF wouldn’t be touched in the restructuring, only to find it was
-
-A recent episode of the Sirasa TV program Mawatha (18 April), undertook what seemed at first to be the difficult task of trying to explain to the general public, the current status of the Government’s negotiations of the debt restructure with International Sovereign Bond (ISB) holders. The expert participants explained that however complex the technicalities were, the already financially oppressed average citizen will end up bearing the burden, and as such should make every effort to understand what’s being agreed on their behalf and what their prospects were. (https://www.youtube.com/watch?v=Xkc8dxiG_2s&t=1s)
-
-...
-
-[Data](articles/f58fbc97.json)
-
-[Extended Data](ext_articles/f58fbc97.ext.json)
-
----
-
-### Global admiration for Sri Lanka’s economic reform efforts echoes at IMF-World Bank mid-year meetings
-
-*2024-04-22 00:02:12* · [`dailyftlk`](https://www.ft.lk/news/Global-admiration-for-Sri-Lanka-s-economic-reform-efforts-echoes-at-IMF-World-Bank-mid-year-meetings/56-760850) · `en`
-
-State Minister of Finance Shehan Semasinghe highlights positive outcomes achieved during meetings
-
-Key areas appreciated include economic developments, advancements in debt restructuring, tax administration boosting, and ongoing governance reforms
-
-Highlights support received for debt restructuring process, hopeful of achieving debt sustainability, successful resolution
-
-Asserts importance of national unity, collective support towards economic stabilisation and growth
-
-Expresses gratitude to multilateral stakeholders, global partners; IMF and World Bank
-
-Acknowledges patience, determination of people to navigate amid economic challenges
-
-The recently concluded mid-year meetings of the International Monetary Fund (IMF) and the World Bank have garnered international praise for Sri Lanka’s ongoing economic reform process.
-
-...
-
-[Data](articles/acb9c14e.json)
-
-[Extended Data](ext_articles/acb9c14e.ext.json)
-
----
-
-### Pavitra oversees preparations to open Uma Oya project on Wednesday
-
-*2024-04-22 00:00:47* · [`dailyftlk`](https://www.ft.lk/news/Pavitra-oversees-preparations-to-open-Uma-Oya-project-on-Wednesday/56-760849) · `en`
-
-Irrigation, Wildlife and Forestry Minister Pavitra Wanniarachchi announced that all arrangements have been finalised for the handover of the Uma Oya multi-purpose development project to the public on Wednesday.
-
-Speaking to the media after inspecting the project site, Wanniarachchi expressed satisfaction with the progress and highlighted the significance of the project for the country.
-
-Under the leadership of President Ranil Wickremesinghe and President of Iran Ibrahim Raisi, the project is set to be inaugurated on 24 April, marking a significant milestone in Sri Lanka’s development journey.
-
-...
-
-[Data](articles/fb51273a.json)
-
-[Extended Data](ext_articles/fb51273a.ext.json)
-
----
-
-### 2024-04-21 (Sunday)
-
-### Reforming education: Target for creative capital and not for mere human capital
-
-*2024-04-21 23:56:18* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-education-Target-for-creative-capital-and-not-for-mere-human-capital/4-760848) · `en`
-
-The education system in the country has got into a vicious circle of ignorance
-
-One of the objectives of the National Education Policy Framework of Sri Lanka for 2023-33, released by the Ministry of Education, has been to ‘create citizens who are productive, innovative, and informed with a civic consciousness’1. To attain this goal, the method of delivery will be changed to an interactive process where teaching and learning will be combined in a digitally enabled environment facilitating a holistic engagement of students and teachers. The emphasis of the framework seems to be on the quality of education. This is a move in the correct direction in reforming the country’s education system. This article will provide some inputs to this move which the policymakers can consider when reform programs are suggested.
-
-...
-
-[Data](articles/1a7e9a39.json)
-
-[Extended Data](ext_articles/1a7e9a39.ext.json)
-
----
-
-### Sri Lanka-China research vessel saga and maritime diplomacy in Indian Ocean
-
-*2024-04-21 23:47:40* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-China-research-vessel-saga-and-maritime-diplomacy-in-Indian-Ocean/4-760847) · `en`
-
-China, a maritime power in the South China Sea and the Indian Ocean in the 14th century, has now undertaken a substantial expansion of its maritime infrastructure and naval fleet, poised to rival the strength of the U.S. naval fleet in the years ahead. In contrast to the United States, which exerts control over approximately 750 bases in 80 countries and surpasses the combined military expenditures of the next 10 nations, China's military spending and global naval presence remain comparatively restrained.
-
-...
-
-[Data](articles/140d4e5e.json)
-
-[Extended Data](ext_articles/140d4e5e.ext.json)
-
----
-
-### Reforming Education: Target For Creative Capital & Not For Mere Human Capital
-
-*2024-04-21 23:15:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reforming-education-target-for-creative-capital-not-for-mere-human-capital/) · `en`
-
-One of the objectives of the National Education Policy Framework of Sri Lanka for 2023-33, released by the Ministry of Education, has been to ‘create citizens who are productive, innovative, and informed with a civic consciousness’[1]. To attain this goal, the method of delivery will be changed to an interactive process where teaching and learning will be combined in a digitally enabled environment facilitating a holistic engagement of students and teachers. The emphasis of the framework seems to be on the quality of education. This is a move in the correct direction in reforming the country’s education system. This article will provide some inputs to this move which the policymakers can consider when reform programs are suggested.
-
-...
-
-[Data](articles/625587cb.json)
-
-[Extended Data](ext_articles/625587cb.ext.json)
-
----
-
-### Visit President Ambewela Dairy FarmExtension Workshop for Tourists to visit
-
-*2024-04-21 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181604) · `ta`
-
-President Ranil Wickremesinghe visited the Ambewela Dairy Farm on Dec 20, 2022, to learn about its modern technology and development. He praised the farm's growth and its role in the national economy, met with tourists, and discussed the farm's future plans. The farm, started in 1940, is now a major milk production center in Sri Lanka and South Asia, with daily production of 40,000 liters, aiming for 52,000 liters this year.
-
-🟩
-
-President Ranil Wickremesinghe visited there on Saturday (20) to learn about the development of the Ambewela Dairy Group with the world's most modern technology.
-
-President Ranil Wickremesinghe made an emergency surveillance visit to the Ambewela Dairy Farm in December 2022 and a comprehensive development work on the farm began last year as per the directives provided.
-
-Sarath Bandara and its employees were welcomed by the General Manager of the Dairy Farm Group.
-
-The President also reviewed the progress of the farm's new development activities and also visited the premises where the cows were placed.
-
-Subsequently, President Ranil Wickremesinghe, who was involved in a short conversation with the staff, praised the gradual growth of the Ambewela farm and its contribution to the national economy.
-
-Similarly, he pointed out the need to implement various tourists for tourists visiting the farm.
-
-...
-
-[Data](articles/c1bad17e.json)
-
-[Extended Data](ext_articles/c1bad17e.ext.json)
 
 ---

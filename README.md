@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 08:00:11**
+As of **2024-04-22 08:06:43**
 
 ## Newspaper Stats
 
-*Scraped **20,134** Articles*
+*Scraped **20,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,73 @@ tamilmirrorlk | 2,319
 adaderanalk | 2,408
 virakesarilk | 3,001
 dailymirrorlk | 3,138
-adaderanasinhalalk | 3,269
+adaderanasinhalalk | 3,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,132 (100.0%) of 20,134 articles have been extended.
+20,134 (100.0%) of 20,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### இன்று இடியுடன் கூடிய மழை
+### තරුණියට මරු කැඳවූ අනතුර
+
+*2024-04-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195851) · `si`
+
+කන්තලේ රජඇළ මාර්ගයේ අතුරු මාර්ගයක සිදුවූ රිය අනතුරකින් තරුණියක් මියගොස් තිබේ.
+
+ඊයේ  (21) උදෑසන අතුරු මාර්ගයේ ධාවනය වූ වෑන් රථය රියදුරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන තරුණියගේ ගැටී ඇති බව පොලීසිය පවසයි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ තරුණිය කන්තලේ රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 19 හැවිරිදි රජඇළ කන්තලේ ප්‍රදේශයේ පදිංචිව සිටි තරුණියකි.
+
+අනතුරින් පසු රියදුරු පළා ගොස් ඇති අතර සැකකරු අත්අඩංගුවට ගැනීමට කන්තලේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/cf799e48.json)
+
+---
+
+### ජනපති මල්වතු - අස්ගිරි මහනාහිමිවරු බැහැදකී
+
+*2024-04-22 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195850) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මල්වතු සහ අස්ගිරි මහනාහිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගෙන තිබේ.
+
+ඊයේ (21) පස්වරුවේ මහනුවරට පැමිණි ජනාධිපතිවරයා ප්‍රථමයෙන් මල්වතු මහා විහාරය වෙත පැමිණ මල්වතු පාර්ශවයේ මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල මහා නායක හිමියන් බැහැදැක ආශිර්වාද ලබා ගෙන ඇති බව සඳහන්ය.
+
+අනතුරුව අස්ගිරි මහා විහාරය වෙත ගිය ජනාධිපතිවරයා අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපුජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගත් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/aa78116e.json)
+
+---
+
+### Thunderstorms today
 
 *2024-04-22 07:32:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-336156) · `ta`
 
-நாட்டின் சில பகுதிகளில் இன்று (22) மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+"Thunderstorms expected in parts of the country today, starting at 2.00 pm, affecting Uva Province, Anuradhapura, Vavuniya, and Mannar districts."
 
-இதன்படி மேல், சபரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று (22) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அத்துடன், ஊவா மாகாணத்திலும் அனுராதபுரம், வவுனியா மற்றும் மன்னார் மாவட்டங்களிலும் இன்று மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+The Department of Meteorology has forecast rain or thunderstorms in some parts of the country today.
+
+According to the Department of Meteorology, rain or thunderstorms will occur after 2.00 pm today (22) at 2.00 pm.
+
+The Department of Meteorology has forecast showers or thunderstorms in the Uva Province, Anuradhapura, Vavuniya and Mannar districts this evening or night.. (A)
 
 ◼️
 
 [Data](articles/d95fd820.json)
+
+[Extended Data](ext_articles/d95fd820.ext.json)
 
 ---
 
@@ -1138,21 +1180,29 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 
 ---
 
-### පාස්කු ප්‍රහාරය ගැන ස්වාධීන පරීක්ෂණයක් කරනවා
+### An independent investigation into Passover attack
 
 *2024-04-21 19:21:25* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ස්වාධීන-පරීක්ෂණයක්-කරනවා/11-409193) · `si`
 
-පාස්කු මහමොළකරුවන් සමඟ තමා ඩීල් නොදමන බවත්, සිය රජයක් යටතේ ස්වාධීන පරීක්ෂණයක් සිදු කර වැරදිකරුවන්ට දඬුවම් ලබා දෙන බවත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa opposes independent investigation into Passover attack, claiming it would be punished under his government. He criticizes the lack of transparency and accountability in the investigation, demanding a thorough, impartial inquiry to find the truth behind the attack.
 
-පාස්කු ප්‍රහාරයට වසර 05ක් සපිරීම නිමිත්තෙන් අද (21දා) සමගි ජන බලවේගයේ කතෝලික කමිටුව කොළඹ ශාන්ත මරියා වැඩිහිටි නිවාසයේ සංවිධානය කර තිබූ දානමය පුන්‍යකර්මය සඳහා එක්වෙමින් හෙතෙම මේ බව කියා සිටියේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Opposition Leader Sajith Premadasa said he would not have deals with the Passover and an independent investigation and would be punished under his government.
 
-"මීට වසර 05ට පෙර අද වගේ අප්‍රේල් 21 ඉරිදා දවසක ම්ලේච්ඡ, නීච ත්‍රස්තවාදීන් අපේ රටේ දේවස්ථාන ගණනාවක, හෝටල් ගණනාවක සිදු කළ ම්ලේච්ඡ ප්‍රහාරවලින් පොදුජනතාව, කතෝලික භක්තිකයන් ජීවිතක්ෂයට පත් වුණා. ඒ අයගේ ශරීරවලට දැඩි ලෙස හානි සිදු වුණා. වසර 05ක් ගතවෙලත් පාස්කු ප්‍රහාරය පිළිබඳ සත්‍ය තොරතුරු, මහමොළකරුවන් පිළිබඳ, එය පිටුපස කටයුතු කළ පුද්ගලයන්, කණ්ඩායම් බලවේග පිළිබඳව සත්‍යය හෙළිදරව් වෙලා නෑ.
+He was speaking at the Catholic committee of the Catholic committee of the prosecutor to the Easter attack on 5 years today (21).
+
+The Opposition Leader Sajith Premadasa said so.
+
+"Sundays on a Sunday on a Sunday on a Sunday, April 21. Their bodies were severely damaged. It has not been revealed about the truth, the truths, and the people who were behind the truths, and the people who were behind the truths on the Passover attack.
+
+Every leader later promised to find the truth after the Passover attack. The terrorists, the brutal attack said that the maulty measures would be taken. But everything happened to deceive the people. Get the number of people.
 
 ...
 
 [Data](articles/4c3f60f6.json)
+
+[Extended Data](ext_articles/4c3f60f6.ext.json)
 
 ---
 
@@ -2151,43 +2201,5 @@ The hot situation has occurred when the executive committee was headed by former
 [Data](articles/4f15df54.json)
 
 [Extended Data](ext_articles/4f15df54.ext.json)
-
----
-
-### Every low-income family to receive free rice in April and May
-
-*2024-04-21 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98756/every-low-income-family-to-receive-free-rice-in-april-and-may) · `en`
-
-President Ranil Wickremesinghe says that every low-income family in the country will receive 10 kilograms of rice monthly for April and May.
-
-The Head of the State made this remark while participating in the national rice distribution ceremony for low-income families held at the Ambagasdowa Stadium in Uva Paranagama, the President’s Media Division (PMD) said.
-
-◼️
-
-[Data](articles/ae29ed4b.json)
-
-[Extended Data](ext_articles/ae29ed4b.ext.json)
-
----
-
-### Former Minister Sarath Key speech about Passover attack
-
-*2024-04-21 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195832) · `si`
-
-Dr. Sarath Weerasekera, former PSC, criticizes the government's handling of the Passover attack, highlighting three international intelligence areas. He mentions the arrest of a suspect, the involvement of JVP in discussions with Cardinal, and the investigation by three international intelligence divisions. He also criticizes the delay in court proceedings and the Attorney General's Department's handling of charges.
-
-🟩
-
-Former PSC Dr. Sarath Weerasekera emphasizes three international intelligence areas regarding the attack as Muslim extremists as Muslim extremists.
-
-He was responding to a statement by Hon. Cyril Gamini responded yesterday.
-
-Former Public Defense Minister Rear Admiral Dr. Sarath Weerasekera
-
-...
-
-[Data](articles/609a604e.json)
-
-[Extended Data](ext_articles/609a604e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 08:06:43**
+As of **2024-04-22 08:18:24**
 
 ## Newspaper Stats
 
-*Scraped **20,136** Articles*
+*Scraped **20,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,81 @@ tamilmirrorlk | 2,319
 adaderanalk | 2,408
 virakesarilk | 3,001
 dailymirrorlk | 3,138
-adaderanasinhalalk | 3,271
+adaderanasinhalalk | 3,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,134 (100.0%) of 20,136 articles have been extended.
+20,136 (100.0%) of 20,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### තරුණියට මරු කැඳවූ අනතුර
+### ජගත් මිහිතල දිනය අදයි
+
+*2024-04-22 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195852) · `si`
+
+මෙවර ජගත් මිහිතල දින තේමාව වන්නේ "මිහිතලය සහ ප්ලාස්ටික්" යන්නය.
+
+ප්ලාස්ටික් භාවිතයෙන් මිනිසාගේ සහ පාරිසරික සෞඛ්‍යයට ඇති කරන අහිතකර බලපෑම් පිළිබඳව මහජනතාව දැනුවත් කිරීමයි එහි අරමුණ වී තිබේ.
+
+වර්ෂ 1970 අප්‍රේල් 22 දින ප්‍රථම වරට අමෙරිකා එක්සත් ජනපදයේදී ජගත් මිහිතල දිනය සමරා ඇති බව සඳහන්ය.
+
+අද වන විට රටවල් 193ක බිලියක පමණ ජනතාව මිහිතල දිනය වෙනුවෙන් පරිසරය සහ ජෛව විවිධත්වය ආරක්ෂා කිරීම එක්ව සිටී.
+
+◼️
+
+[Data](articles/56fe35de.json)
+
+---
+
+### The accident caused by the girl
 
 *2024-04-22 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195851) · `si`
 
-කන්තලේ රජඇළ මාර්ගයේ අතුරු මාර්ගයක සිදුවූ රිය අනතුරකින් තරුණියක් මියගොස් තිබේ.
+A 19-year-old girl from Kantale was killed in an accident on the Kantale Raja Ela road. The driver, who fled the scene, is being investigated by the Kantale police.
 
-ඊයේ  (21) උදෑසන අතුරු මාර්ගයේ ධාවනය වූ වෑන් රථය රියදුරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන තරුණියගේ ගැටී ඇති බව පොලීසිය පවසයි.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබූ තරුණිය කන්තලේ රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+A young girl was killed in an accident on the road accident on the Kantale Raja Ela road.
 
-මෙලෙස මියගොස් ඇත්තේ 19 හැවිරිදි රජඇළ කන්තලේ ප්‍රදේශයේ පදිංචිව සිටි තරුණියකි.
+The driver of the side of the side of the side of the morning yesterday (21) had fled the girl, police said.
 
-අනතුරින් පසු රියදුරු පළා ගොස් ඇති අතර සැකකරු අත්අඩංගුවට ගැනීමට කන්තලේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The girl who was seriously injured in the accident has died on admission to the Kantale Hospital.
+
+The deceased has been identified as a 19 year old resident of Kantale.
+
+The driver was fled by the accident and Kantale police are conducting further investigations.
 
 ◼️
 
 [Data](articles/cf799e48.json)
 
+[Extended Data](ext_articles/cf799e48.ext.json)
+
 ---
 
-### ජනපති මල්වතු - අස්ගිරි මහනාහිමිවරු බැහැදකී
+### President visits Malwatte and Asgiriya
 
 *2024-04-22 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195850) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මල්වතු සහ අස්ගිරි මහනාහිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගෙන තිබේ.
+President Ranil Wickremesinghe visited Malwatte and Asgiriya Chiefs in Kandy, meeting with the Chief Prelate of Malwathu Sien Ven and the Sri Gnanarathana Leader of Asgiriya Chapter.
 
-ඊයේ (21) පස්වරුවේ මහනුවරට පැමිණි ජනාධිපතිවරයා ප්‍රථමයෙන් මල්වතු මහා විහාරය වෙත පැමිණ මල්වතු පාර්ශවයේ මහා නායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල මහා නායක හිමියන් බැහැදැක ආශිර්වාද ලබා ගෙන ඇති බව සඳහන්ය.
+🟩
 
-අනතුරුව අස්ගිරි මහා විහාරය වෙත ගිය ජනාධිපතිවරයා අස්ගිරි පාර්ශ්වයේ මහා නායක අතිපුජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන නායක හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගත් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+President Ranil Wickremesinghe has visited the Malwatte and Asgiriya Chiefs.
+
+The President arrived in Kandy yesterday afternoon and visited the Chief Prelate of the Malwathu Sien Ven.
+
+The President then visited the Asgiriya Maha Viharaya and visited the Sri Gnanarathana Leader of the Asgiriya Chapter, the Presidential Media Unit said.
 
 ◼️
 
 [Data](articles/aa78116e.json)
+
+[Extended Data](ext_articles/aa78116e.ext.json)
 
 ---
 
@@ -2181,25 +2211,5 @@ Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping
 [Data](articles/b08bb43c.json)
 
 [Extended Data](ext_articles/b08bb43c.ext.json)
-
----
-
-### Warm stability in front of the Independence Party
-
-*2024-04-21 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195833) · `si`
-
-"Warm stability at Sri Lanka Freedom Party HQ in Colombo, with no tension under former President Maithripala Sirisena's leadership."
-
-🟩
-
-There has been no tense situation in front of the Sri Lanka Freedom Party Headquarters in Colombo.
-
-The hot situation has occurred when the executive committee was headed by former President Maithripala Sirisena under the patronage of the party chairman.
-
-◼️
-
-[Data](articles/4f15df54.json)
-
-[Extended Data](ext_articles/4f15df54.ext.json)
 
 ---

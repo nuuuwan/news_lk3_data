@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 08:18:24**
+As of **2024-04-22 08:34:07**
 
 ## Newspaper Stats
 
-*Scraped **20,137** Articles*
+*Scraped **20,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,51 @@ tamilmirrorlk | 2,319
 adaderanalk | 2,408
 virakesarilk | 3,001
 dailymirrorlk | 3,138
-adaderanasinhalalk | 3,272
+adaderanasinhalalk | 3,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,136 (100.0%) of 20,137 articles have been extended.
+20,137 (100.0%) of 20,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ජගත් මිහිතල දිනය අදයි
+### පන්නිපිටියේ ලී මෝලක ගින්නක්
+
+*2024-04-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195853) · `si`
+
+පන්නිපිටිය, ලියනගොඩ ප්‍රදේශයේ ලී මෝලක ඇති වූ ගින්නකින් ලී මෝල සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+
+◼️
+
+[Data](articles/cfbdfdbd.json)
+
+---
+
+### World Day is today
 
 *2024-04-22 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195852) · `si`
 
-මෙවර ජගත් මිහිතල දින තේමාව වන්නේ "මිහිතලය සහ ප්ලාස්ටික්" යන්නය.
+Today marks World Day, focusing on "earth and plastic" to raise awareness on environmental health impacts. Celebrated globally since 1970, it unites 193+ countries in defending the environment and biodiversity.
 
-ප්ලාස්ටික් භාවිතයෙන් මිනිසාගේ සහ පාරිසරික සෞඛ්‍යයට ඇති කරන අහිතකර බලපෑම් පිළිබඳව මහජනතාව දැනුවත් කිරීමයි එහි අරමුණ වී තිබේ.
+🟩
 
-වර්ෂ 1970 අප්‍රේල් 22 දින ප්‍රථම වරට අමෙරිකා එක්සත් ජනපදයේදී ජගත් මිහිතල දිනය සමරා ඇති බව සඳහන්ය.
+This year's global ease theme is to "earth and plastic".
 
-අද වන විට රටවල් 193ක බිලියක පමණ ජනතාව මිහිතල දිනය වෙනුවෙන් පරිසරය සහ ජෛව විවිධත්වය ආරක්ෂා කිරීම එක්ව සිටී.
+It is aimed at educating the public on adverse effects of man's and environmental health using plastic.
+
+The first for the first time on April 22, 1970, the World Earth Day was celebrated in the United States.
+
+Today, around 193 countries, people have joined the defending environment and biodiversity on earth.
 
 ◼️
 
 [Data](articles/56fe35de.json)
+
+[Extended Data](ext_articles/56fe35de.ext.json)
 
 ---
 
@@ -2187,29 +2205,5 @@ The child was aged between the ages of aged 11 years.
 [Data](articles/07df346a.json)
 
 [Extended Data](ext_articles/07df346a.ext.json)
-
----
-
-### Tense situation in front of SLFP headquarters
-
-*2024-04-21 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98757/tense-situation-in-front-of-slfp-headquarters) · `en`
-
-A tense situation has been reported in front of the Sri Lanka Freedom Party (SLFP) headquarters at Darley Road in Colombo 10.
-
-The tense situation arose after a group trying to enter the party building were obstructed by police, Ada Derana reporter said.
-
-Meanwhile, Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of Sri Lanka Freedom Party (SLFP), sources told Ada Derana.
-
-This appointment has been made by the SLFP faction led by former President Maithripala Sirisena, who has been prevented by a court order from functioning as party chairman, during its executive committee meeting held in Athul Kotte today (21).
-
-On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-Later, the SLFP’s politburo appointed Minister of Ports, Aviation and Shipping Nimal Siripala de Silva as the party’s Acting Chairman on April 08.
-
-◼️
-
-[Data](articles/b08bb43c.json)
-
-[Extended Data](ext_articles/b08bb43c.ext.json)
 
 ---

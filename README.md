@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 21:34:06**
+As of **2024-04-22 21:52:55**
 
 ## Newspaper Stats
 
-*Scraped **20,286** Articles*
+*Scraped **20,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 2,343
 adaderanalk | 2,425
 virakesarilk | 3,031
 dailymirrorlk | 3,160
-adaderanasinhalalk | 3,294
+adaderanasinhalalk | 3,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,283 (100.0%) of 20,286 articles have been extended.
+20,286 (100.0%) of 20,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,24 @@ Iranian President Ebrahim Raisi held talks with Pakistani Prime Minister Shehbaz
 
 [Data](articles/287ec029.json)
 
+[Extended Data](ext_articles/287ec029.ext.json)
+
+---
+
+### එන්නේ නැත්නම් කියන්න - මාලිමාවෙන් සජබයට ලිපියක්
+
+*2024-04-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195876) · `si`
+
+අනුර කුමාර දිසානායක මහතා සහ සජිත් ප්‍රේමදාස මහතා අතර පැවැත්වීමට යෝජිත විවාදය සඳහා නොපැමිණෙන්නේ නම් ඒ පිළිබඳව දැනුම්දෙන ලෙසට ඉල්ලා සිටිමින් ජාතික ජන බලවේගය විසින් සමගි ජන බලවේගය වෙත ලිපියක් යොමුකර ඇත.
+
+එම ලිපිය මගින් ජාතික ජන බලවේගය එම යෝජිත විවාදය සඳහා මැයි මස 07,09,13 සහ 14 යන දිනවලින් සජබය කැමති දිනයක් යොදාගැනීමට එකඟත්වය පළකර තිබේ.
+
+එසේම සජබයේ සූදානම අනුව දිනය තෝරාගැනීමෙන් අනතුරුව විවාදය පැවැත්වීමට අදාළ අදාළ වෙලාව සහ විවාදයේ කාලසීමාව ආදී කරුණු පිළිබඳව සාකච්ඡා කරගත හැකි බවද එමගින් දැනුම්දී ඇත.
+
+◼️
+
+[Data](articles/fb6dee5d.json)
+
 ---
 
 ### No Sri Lankan boats to Australia in a year: Australia Emergency Task Force Operations
@@ -64,6 +82,8 @@ Appropriately named 'Disi Rala,' meaning 'keeping a watchful eye over the mariti
 
 [Data](articles/dfe09796.json)
 
+[Extended Data](ext_articles/dfe09796.ext.json)
+
 ---
 
 ### Family New Year celebrations
@@ -75,6 +95,8 @@ A family New Year celebration was held recently at the Seethawaka Miracle Nature
 ◼️
 
 [Data](articles/9f808671.json)
+
+[Extended Data](ext_articles/9f808671.ext.json)
 
 ---
 
@@ -2255,29 +2277,5 @@ In addition to the proposals proposed by the District Coordinating Committee for
 [Data](articles/e90ea8ba.json)
 
 [Extended Data](ext_articles/e90ea8ba.ext.json)
-
----
-
-### Transport Minister announces that train services are constantly running at a loss
-
-*2024-04-22 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181635) · `ta`
-
-Transport Minister Bandula Gunawardena announced a need for a loan for rail maintenance, highlighting continuous losses in train services. He also mentioned the purchase of 500 buses under an Indian Loan Scheme for rural areas and plans to convert the Kelani railway line to electric.
-
-🟩
-
-Transport Minister Bandula Gunawardena has said that there is a need to get a loan for rail maintenance work. The Minister also said that the train service is continuously running at a loss.
-
-He was speaking at an event in Kegalle.
-
-He added that 500 buses have been purchased under the Indian Loan Scheme to go to the school and the hospital on roads without buses.
-
-He also said that steps are being taken to convert the Kelani railway line from Avissawella to Colombo as an electric railway line.
-
-◼️
-
-[Data](articles/0831575e.json)
-
-[Extended Data](ext_articles/0831575e.ext.json)
 
 ---

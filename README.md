@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 17:18:41**
+As of **2024-04-22 17:35:14**
 
 ## Newspaper Stats
 
-*Scraped **20,254** Articles*
+*Scraped **20,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,689
+adalk | 1,690
 tamilmirrorlk | 2,341
 adaderanalk | 2,421
 virakesarilk | 3,025
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,286
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,243 (99.9%) of 20,254 articles have been extended.
+20,254 (100.0%) of 20,255 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The three revenue collecting bodies – Sri Lankan Customs, Excise Department, a
 ...
 
 [Data](articles/4617f12e.json)
+
+[Extended Data](ext_articles/4617f12e.ext.json)
 
 ---
 
@@ -87,6 +89,8 @@ International Finance Corporation, as Transaction Advisors for the divestiture o
 ◼️
 
 [Data](articles/7fddf6ba.json)
+
+[Extended Data](ext_articles/7fddf6ba.ext.json)
 
 ---
 
@@ -141,6 +145,8 @@ Muizzu called China as his closest ally and developmental partner of the Maldive
 ...
 
 [Data](articles/ce67e36d.json)
+
+[Extended Data](ext_articles/ce67e36d.ext.json)
 
 ---
 
@@ -234,6 +240,8 @@ The two buildings are connected by a 55 metres (180 ft) sky bridge which is buil
 
 [Data](articles/02708e58.json)
 
+[Extended Data](ext_articles/02708e58.ext.json)
+
 ---
 
 ### Here is the difference in inflation
@@ -253,6 +261,20 @@ However, in February, 2024, the inflation was reported in March 2024.
 [Data](articles/c5da262d.json)
 
 [Extended Data](ext_articles/c5da262d.ext.json)
+
+---
+
+### කැලනි ගඟේ සිටි ඔහු හඳුනනවාද ?
+
+*2024-04-22 15:34:49* · [`adalk`](https://www.ada.lk/breaking_news/කැලනි-ගඟේ-සිටි-ඔහු-හඳුනනවාද--/11-409205) · `si`
+
+පෑලියගොඩ පොලිස් වසමට අයත් ප්‍රදේශයකදී කැලනි ගඟේ තිබී නාඳුනන පිරිමි මෘත ශරීරයක් පොලසිය විසින් සොයාගත් බවට වාරථාවෙයි.
+
+මරණකරුගේ අනන්‍යතාව මේවනතෙක්  තහවුරු වී නොමැති අතර අවුරුදු 45ත් 50 ත් වන අතර උස අඩි 05 යි අඟල් 04 ක් පමණ වන අතර උඩුකයට අළුපාට අත්කොට කමිසයක්ද යටිකයට ලාකොළ පාට හා කහපාට කොටු සහිත සරමක්ද ඇඳ සිටි ඇති අතර මුහුණ හඳුනා ගත නොහැකි තරම් විරූපී වී ඇති බව පොලිසීය පවසයි.
+
+◼️
+
+[Data](articles/c54ac22d.json)
 
 ---
 
@@ -678,6 +700,8 @@ Bandara also reiterated that the presidential election will definitely be held t
 
 [Data](articles/6d5de048.json)
 
+[Extended Data](ext_articles/6d5de048.ext.json)
+
 ---
 
 ### ‘Fox Hill’ crash: Organisers evade responsibility, blame shifted to spectators
@@ -820,6 +844,8 @@ The central bank was able to collect large amount of dollars in March as the rup
 
 [Data](articles/309dafc3.json)
 
+[Extended Data](ext_articles/309dafc3.ext.json)
+
 ---
 
 ### Ralking Party for elections in Maldives
@@ -914,6 +940,8 @@ The places include Sigiriya, Ashok Vatika, a garden in the city of Nuwara Eliya,
 
 [Data](articles/4330c6b1.json)
 
+[Extended Data](ext_articles/4330c6b1.ext.json)
+
 ---
 
 ### Sri Lanka Freedom Party has had to import acting chairman: Dayasiri
@@ -933,6 +961,8 @@ He was referring to a controversial decision by one faction of the SLFP appointi
 ...
 
 [Data](articles/5f53cb68.json)
+
+[Extended Data](ext_articles/5f53cb68.ext.json)
 
 ---
 
@@ -1346,6 +1376,8 @@ CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Securi
 
 [Data](articles/28b57441.json)
 
+[Extended Data](ext_articles/28b57441.ext.json)
+
 ---
 
 ### Four people arrested in search of tiger gold
@@ -1387,6 +1419,8 @@ Seven individuals including an eight-year-old child were killed and 20 others ho
 ◼️
 
 [Data](articles/2da6c82f.json)
+
+[Extended Data](ext_articles/2da6c82f.ext.json)
 
 ---
 
@@ -2206,30 +2240,6 @@ Indian Adani Group says “vicious campaign” against its Sri Lanka wind projec
 
 [Data](articles/d0307338.json)
 
----
-
-### No one is ready to pass anyone
-
-*2024-04-22 08:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாரையும்-கடந்து-செல்ல-தயாரில்லை/175-336159) · `ta`
-
-President Ranil Wickremesinghe announced a program to support low-income families with rice, aiming to strengthen the economy and people. The initiative, launched at the 2024 National Program, will provide 2.74 million families with 10 kg of rice per month for two months.
-
-🟩
-
-President Ranil Wickremesinghe said the government would not pass or abandon anyone in a program to strengthen the country's economy and people.
-
-The President said this at the inauguration of the 2024 National Program to provide relief for low -income families held at the Welimada Ambakastova Public Stadium yesterday.
-
-Under this program, 2.74 million families that receive low -income families, including the entire country, will be provided with ten kg of rice per month for two months.
-
-191,548 beneficiaries in the Fifteen Divisional Secretariats of the Badulla District. Today, 25 beneficiaries were given rice packages with the president's hands as a symbol of rice to provide rice to a thousand families.
-
-Meanwhile, rice is distributed to the beneficiaries selected under the supervision of the Divisional Secretariat at the Divisional Secretariat Division.. (A)
-
-◼️
-
-[Data](articles/a059152c.json)
-
-[Extended Data](ext_articles/a059152c.ext.json)
+[Extended Data](ext_articles/d0307338.ext.json)
 
 ---

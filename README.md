@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 20:33:59**
+As of **2024-04-22 20:52:23**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 3,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,277 (100.0%) of 20,278 articles have been extended.
+20,278 (100.0%) of 20,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ජීවිත 7ක් අහිමිවූ ෆොක්ස් හිල් ඛේදවාචකයේ වගකීම කාගේ ද ?
+### Whose is the responsibility of Fox Hill tragedy who lost seven lives?
 
 *2024-04-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195873) · `si`
 
-ෆොක්ස් හිල් සුපර්ක්‍රොස් 2024 තරගාවලිය සංවිධාන කර තිබුණේ ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය හා ශ්‍රී ලංකා යුද හමුදා විද්‍යාපීඨය එක්වයි.
+The Fox Hill tragedy, where seven lives were lost, is under scrutiny. Organizers, including the Sri Lanka Automobile Sports Association and the Sri Lanka Army Sciences, claim security was adequate. However, questions arise about proper safety measures, such as wetting the track, setting mounds correctly, and ensuring rider safety. The incident occurred during the 18th round of a 17-event tournament, with over 100,000 spectators present.
 
-සංවිධායකයන් තරගාවලියට පෙර පැවසුවේ නරඔන්නන් සහ රියදුරන් ඇතුළු පාර්ශ්වවල ආරක්ෂාව සහතික කර ඇති බවය.
+🟩
 
-කෙසේවෙතත් මෙවන් මාරක අනතුරක් සිදුවූයේ නිසි ආරක්ෂක විධිවිධාන අනුගමනය නොකිරීම නිසා බවට මේ වන විට ඇතැම් පාර්ශ්වවලින් චෝදනා එල්ල වී තිබේ.
+Fox Hill Supercross 2024 tournament was organized by the Sri Lanka Automobile Sports Association and the Sri Lanka Army Sciences.
 
-අදාළ අනතුර වාර්තාවීමත් සමඟ හිටපු ප්‍රවීන මෝටර් රථ ධාවකයින් තරගාවලියේ සංවිධායකයින් පහසුකම් සැපයූ ආකාරය පිළිබඳ කරුණු කිහිපයක් ඔස්සේ සිය අවධානය යොමුකර තිබේ.
+Organizers said that the security of the parties including folders and drivers have been certified.
 
-ඒ අනුව පැවති දූවිලි සහිත තත්ත්වය හමුවේ ප්‍රමාණවත් පරිදි ජලය යොදා ධාවන පථය තෙත් කිරීමට සංවිධාකයකින් පියවර ගත්තේද ? ධාවන පථය වටා පස් කණ්ඩිය නියමිත ප්‍රමිතියට සකස් කර තිබුණේද ?  අනතුරක් වූ බවට සෙසු ධාවකයින්ට නිසි පරිදි සංඥා ලබා දුන්නේද ? යන්න ඔවුන් සංවිධායකයින්ගෙන් ප්‍රශ්න කරයි.
+However, some parties have been accused of not following the proper security arrangements.
 
-එමෙන්ම ලක්ෂයට අධික පිරිසක් සහභාගී වන මෙවැනි ඉසව්වක හදිසි අවස්ථාවක කලබලයට පත්වන ප්‍රේක්ෂකයින් පාලනය කිරීමට ප්‍රමාණවත් ආරක්ෂක නිලධාරීන් පිරිසක් යොදවා සිටියේද යන්නත් ඔවුන් තවදුරටත් ප්‍රශ්න කරයි.
+With the report of the accident, the former vehicles have focused on how to facilitate the organizers of the tournament.
+
+According to the dusty circumstances, did the runover arranged in a manufacturer to wet the track with adequate water?Did the mound cadres around the track have been set to the standard?Did the rest of the riders were given to the rest of the danger?They question the organizers.
+
+They also question whether a group of security personnel were deployed to control the disturbing audience in such a time when more than 100,000 people attending.
+
+Fox Hill is used as a supercross the ridge, slopes, and winds.
 
 ...
 
 [Data](articles/e1a0fefb.json)
+
+[Extended Data](ext_articles/e1a0fefb.ext.json)
 
 ---
 

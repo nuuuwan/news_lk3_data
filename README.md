@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 12:04:44**
+As of **2024-04-22 12:18:26**
 
 ## Newspaper Stats
 
-*Scraped **20,192** Articles*
+*Scraped **20,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,683
 tamilmirrorlk | 2,333
 adaderanalk | 2,415
 virakesarilk | 3,015
-dailymirrorlk | 3,144
+dailymirrorlk | 3,146
 adaderanasinhalalk | 3,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,184 (100.0%) of 20,192 articles have been extended.
+20,192 (100.0%) of 20,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Indian SC allows termination of nearly 30-week pregnancy for 14-year-old rape survivor
+
+*2024-04-22 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-SC-allows-termination-of-nearly-30-week-pregnancy-for-14-year-old-rape-survivor/108-281155) · `en`
+
+New Delhi, April 22 (Indian Express) - The Supreme Court Monday permitted the medical termination of a nearly 30-week pregnancy of a 14-year-old rape survivor, setting aside the Bombay High Court order declining the minor’s mother’s plea in the case.
+
+“We will allow the medical termination since she is 14 and it is rape case and this is an exceptional case,” the Chief Justice of India D Y Chandrachud was quoted as saying by Bar and Bench.
+
+The SC bench also directed the Dean of Lokmanya Tilak Hospital in Mumbai to set up a team of doctors for the abortion, and ruled that the State will bear all medical and transportation expenses for the procedure.
+
+The bench stated that the minor should get transport arrangements and any medical care, if needed, post termination.
+
+...
+
+[Data](articles/fc1111cd.json)
+
+---
 
 ### Rice stocks for school meals program found to be substandard, PHIs allege
 
@@ -46,6 +64,8 @@ In view of the current situation, arrangements have been made to temporarily sus
 
 [Data](articles/39cbed53.json)
 
+[Extended Data](ext_articles/39cbed53.ext.json)
+
 ---
 
 ### Drivers of two racing cars involved in ‘Fox Hill’ crash remanded
@@ -60,37 +80,55 @@ This order has been issued by Bandarawela Magistrate’s Court, Ada Derana repor
 
 [Data](articles/6d0d0c22.json)
 
+[Extended Data](ext_articles/6d0d0c22.ext.json)
+
 ---
 
-### Foxhill மோட்டார் பந்தய அனர்த்தம்: இருவர் கைது
+### Foxhill Motor Racing Disaster: Two arrested
 
 *2024-04-22 11:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Foxhill-மோட்டார்-பந்தய-அனர்த்தம்-இருவர்-கைது/175-336179) · `ta`
 
-தியத்தலாவ நரியகந்த ஃபாக்ஸ்ஹில் ஓட்டப் பந்தயத்தின் போது 7 பேர் உயிரிழந்துள்ளதுடன் 21 பேர் படுகாயமடைந்த வாகன விபத்தில் இருவர் சந்தேகத்தின் பேரில் திங்கட்கிழமை (22) கைது செய்யப்பட்டதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்.
+Foxhill Motor Racing Disaster: 7 killed, 22 injured, 2 arrested. A 36-year-old from Matara was involved and is recovering. The race, held 5 years after the Easter attack, saw a fatal crash and dust collision.
 
-Foxhill மோட்டார் பந்தய பந்தயத்தின் பந்தய இலக்கம் 5 இன் கீழ் போட்டியிட்ட மாத்தறை மெடபாறை ஹித்தெட்டிய பிரதேசத்தை சேர்ந்த 36 வயதான ஒருவரும், பந்தய இலக்கம் 196 இன் கீழ் போட்டியிட்ட பேராதனை மகந்த பிரதேசத்தை சேர்ந்த 47 வயதான ஒருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர். அவர் ஆதார வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ஈஸ்டர் தாக்குதல் இடம்பெற்று ஐந்து வருடங்கள் நிறைவடைந்துள்ள நிலையில், நேற்று (21) தியத்தலாவ, நர்யகந்தேவில் ஃபாக்ஸ்ஹில் மோட்டார் பந்தயம் நடைபெற்றது.
+Diyatalawa police said that seven people were killed and 2 21 injured were arrested on Monday (22).
 
-...
+A 36 -year -old man from Hittiya, Matara, who competed under the Foxhill Motor Racing Racing No. 5. He is being treated at the resource hospital, police said.
+
+Five years after the Easter attack took place, the foxhil motor race was held yesterday (21) in Diyathalawa, Naryakande.
+
+Seven people were killed when a car crashed away from the track during the race, and when two cars competing on the road collided with a heavy dust.. The 8 -year -old girl died and 21 people were seriously injured, police said.
+
+◼️
 
 [Data](articles/06e33988.json)
 
+[Extended Data](ext_articles/06e33988.ext.json)
+
 ---
 
-### மனைவியுடன் மட்டும் தாம்பத்தியம் கொள்ள முடியாத கணவர்
+### Husband
 
 *2024-04-22 11:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியுடன்-மட்டும்-தாம்பத்தியம்-கொள்ள-முடியாத-கணவர்/175-336178) · `ta`
 
-மனைவியுடன் தாம்பத்தியம் கொள்வதில் நாட்டமில்லை என்று கணவர் கூறியதால் இளம் ஜோடிக்கு  விவாகரத்து வழங்கி  நீதிமன்றம் உத்தரவிட்டுள்ளது. இந்த சம்பவம் மும்பையில் இடம்பெற்றுள்ளது.
+A Mumbai court ordered a divorce for a young couple, with the husband claiming the wife was not his wife. The wife filed for divorce, citing incompatibility. The husband appealed, stating he could only marry her with her wife. The court, noting the couple's inability to unite, canceled the divorce request.
 
-மராட்டிய மாநிலத்தைச் சேர்ந்த 26 வயது பெண் ஒருவர் விவாகரத்து கோரி குடும்ப நீதிமன்றத்தில் கடந்த பெப்ரவரி மாதம் மனு ஒன்றை தாக்கல் செய்தார். அந்த மனுவில், கடந்த 2023-ம் ஆண்டு மார்ச் மாதம் தனக்கு திருமணம் நடைபெற்றதாகவும், அதன் பிறகு வெறும் 17 நாட்களில் தனது கணவரை பிரிந்து விட்டதாகவும் அவர் கூறியிருந்தார்.
+🟩
 
-மேலும் தனது கணவர் தன்னுடன் தாம்பத்திய உறவில் ஈடுபட மறுப்பு தெரிவித்துவிட்டார் என அந்த பெண் தனது மனுவில் குறிப்பிட்டிருந்தார். தனது கணவருக்கு தன்னுடன் உறவு கொள்வதில் நாட்டமில்லை எனவும், இதனால் உடல் ரீதியாகவும், மன ரீதியாகவும் இருவராலும் ஒன்றிணைய முடியவில்லை என்றும் அப்பெண் தெரிவித்திருந்தார்.
+The court has ordered a divorce to a young couple as her husband has said that she is not married to his wife. The incident took place in Mumbai.
+
+A 26 -year -old woman from Maratha State filed a petition in a family court last February demanding divorce. In the petition, she claimed that she was married in March 2023 and had split her husband in just 17 days.
+
+The woman also stated in her petition that her husband has refused to engage in a relationship with her. The woman said that her husband had no relationship with her and that both physically and mentally could not unite.
+
+During the hearing, the woman's 27 -year -old husband had filed a petition, explaining that he could only marry her with her wife and otherwise there was no shortage.. The man also said that he did not want to stigmatize his name.
 
 ...
 
 [Data](articles/636ef432.json)
+
+[Extended Data](ext_articles/636ef432.ext.json)
 
 ---
 
@@ -122,43 +160,57 @@ In this case, the "Fox Hill Super Cross 2024" Car Racing Tournament has now been
 
 ---
 
-### දියතලාවේ බිහිසුණු අනතුරින් දිවි අහිමි වූවන් ගැන සංවේදී සටහනක්
+### An sensitive note about the victims of the dreadful accident of Diyatalawa
 
 *2024-04-22 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195859) · `si`
 
-රටම කම්පා කරමින් ඊයේ (21)  දියතලාව ෆොක්ස් හිල් මෝටර් ධාවන තරගය අතුරතුර සිදුවූ අනතුරින් කුඩා දැරියක් ඇතුළු 7 දෙනෙකුට දිවි අහිමි වුණි.
+A tragic accident in Diyatalawa claimed the lives of seven, including a young girl, and injured 23 others. The victims, residents of Akuressa and Welimada, were attending the 2024 Fox Hill race. The Sri Lanka Army is conducting an internal investigation.
 
-එහිදී ධාවන තරගයේ සහායකවරුන් සිව්දෙනෙකුට දිවි අහිමි වූ අතර, සෙසු සියලුදෙනා තරගය නැරඹීම සඳහා පැමිණ සිටි අයයි.
+🟩
 
-8 හැවිරිදි වැලිමඩ පදිංචිව සිටි ශිව කුමාර් දිනුෂිකා, 55 හැවිරිදි වැලිමඩ පදිංචිව සිටි මුත්තුසාමි උදයකුමාර්, සීදුවේ පදිංචිව සිටි 19 හැවිරිදි චමත් නිරෝෂන්, අරුණ ශාන්ත උපාලිගමගේ නැමති 62 හැවිරිදි මාතර පදිංචිව සිටි අයෙක්, 20 හැවිරිදි අකුරැස්සේ පදිංචි අසේන් හීනටිගල, රසික අබේනායක සහ 60 හැවිරිදි මාතර පදිංචිව සිටි ගනේෂ් ජයවර්ධන අයට මෙහිදී දිවි අහිමි වුණි.
+Seven including a small girl, including a small girl, lost their lives yesterday (21).
 
-මේ අතර අනතුරින් දිවි අහිමි වූ 32 හැවිරිදි රසික අබේනායක ශ්‍රී ලංකා යුද හමුදා රගර් කණ්ඩායමේ සාමාජිකයෙකි.
+Four Assistants of the race were losing their lives and the funerals were also visiting the tourist.
 
-ඔහු කොස්ගම සාලාව යුද හමුදා කඳවුරේ සේවය කරමින් සිටිය දී නිවාඩු ලබා මෙම තරගය නැරඹීම සඳහා ගොස් තිබිණි.
+Sivivukana, a resident of Welimada, a 55-year-old resident of the Mutthasami Udayakumara, a 55 year old resident of the Mutthizami Udayakumar, the 20-year-old resident of Akuressa, a resident of Akuressa, and 60 year old residents of Akuressa, a 60 year old residents of Akuressa.Ganesh Jayawardena was lost here.
 
-ඇඹිලිපිටිය මහා විද්‍යාලයෙන් උසස් අධ්‍යාපන හදාරා යුද හමුදා ඉංජිනේරු බළකායට සම්බන්ධ වී ඇති රසික අද (22) දින සිට උඩවලව යුද හමුදා කඳවුරට ස්ථාන මාරුවීමක් ද ලබා සිටි බව ඥාතීන් පවසයි.
+Meanwhile, a 32-year-old Rasxe Abeynayake, a 32-year-old Rugby Team, is a member of the Sri Lanka Army Rugby.
+
+He had gone to visit the match while he was working in the Kosgama Sale.
+
+Relatives have been transferred to the Udawalawa Army Camp to the Army Camp to the Army Commennent, which has joined the Army Engineer's Army Engineer from the Embilipitiya Maha Vidyalaya.
+
+The waiver residing in Godawela, Embilipitiya, is married to the Kandy, Galaha area and his funeral will be held in the Galaha area.
 
 ...
 
 [Data](articles/ad21b9e8.json)
 
+[Extended Data](ext_articles/ad21b9e8.ext.json)
+
 ---
 
-### புலி தங்கம் தேடிய நால்வர் கைது
+### Four people arrested in search of tiger gold
 
 *2024-04-22 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தங்கம்-தேடிய-நால்வர்-கைது/175-336176) · `ta`
 
-சிலாவத்துறை பொலிஸ் நிலையத்தை அண்டிய இடத்தில் புலிகளால் புதைக்கப்பட்டதாக கூறப்படும் பணம் மற்றும் தங்க ஆபரணங்களை மீட்பதற்காக குழி தோண்டினர் என்ற சந்தேகத்தின் பேரில் கடற்படை வீரர் மற்றும் பொலிஸ் சார்ஜன்ட் உட்பட நால்வர் கைது செய்யப்பட்டதாக சிலாவத்துறை கடற்படை தெரிவித்துள்ளது.
+Four, including a navy soldier and police sergeant, arrested for allegedly digging up LTTE buried gold and money near Chilawathurai police station.
 
-சிலாவத்துறை கடற்படையினரால் மேற்கொள்ளப்பட்ட நடவடிக்கையில் அநுராதபுரம் பொலிஸ் பிரிவுக்குட்பட்ட குற்றப் புலனாய்வுப் பிரிவைச் சேர்ந்த கடற்படை சிப்பாய் மற்றும் பொலிஸ் சார்ஜன்ட் உட்பட நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-சந்தேகநபர்கள் வந்ததாக கூறப்படும் இடத்திற்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த வாகனம் மேலதிக விசாரணைகளுக்காக பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+Four persons, including a navy person and a police sergeant, have been arrested on suspicion of dug up money and gold jewelery, allegedly buried by the LTTE at the Chilawathurai police station.
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 30-38 வயதுடைய நாவுல, மெனிக்தென மற்றும் அனுராதபுரத்தை சேர்ந்தவர்கள். கைது செய்யப்பட்ட சந்தேக நபர்களில் ஒருவர் சாரதி எனவும் மற்றையவர் தொழிலாளி எனவும் பொலிஸ் விசாரணைகளின் போது அடையாளம் காணப்பட்டுள்ளது.
+Four persons, including Navy soldier and police sergeant of the Criminal Investigation Division (CID), belonging to the Anuradhapura Police Division, have been arrested by the Navy.
+
+The vehicle, which was parked near where the suspects had arrived, was seized by the police for further investigations.
+
+The arrested suspects are from Naula, Meniktana and Anuradhapura, aged 30-38. During police investigations, one of the suspects was identified as a driver and the other was a worker.
 
 ◼️
 
 [Data](articles/7f511fe4.json)
+
+[Extended Data](ext_articles/7f511fe4.ext.json)
 
 ---
 
@@ -182,19 +234,27 @@ Seven individuals including an eight-year-old child were killed and 20 others ho
 
 ---
 
-### திருச்சபை சர்வதேச விசாரணைக்காக ஐ.நாவுக்கு செல்லவுள்ளது
+### The Church is going to the UN for international investigation
 
 *2024-04-22 11:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருச்சபை-சர்வதேச-விசாரணைக்காக-ஐ-நாவுக்கு-செல்லவுள்ளது/175-336175) · `ta`
 
-ஈஸ்டர் ஞாயிறு பயங்கரவாதத் தாக்குதல்கள் தொடர்பாக சர்வதேச விசாரணையை ஆரம்பிக்க கத்தோலிக்க திருச்சபை பல வெளிநாட்டு அரசாங்கங்கள் மற்றும் சர்வதேச அமைப்புகளின் ஊடாக அந்த தாக்குதல்களில் பாதிக்கப்பட்டவர்களுக்கு நீதி வழங்க வேண்டும் என்ற நோக்குடன் ஐக்கிய நாடுகளின் மனித உரிமைகள் பேரவையில் (UNHRC) பிரேரணையை முன்வைக்க திட்டமிட்டுள்ளது.
+The Catholic Church plans to seek justice for Easter Sunday attack victims at the UNHRC, criticizing governments for not addressing conspiracy theories.
 
-ஏப்ரல் 21, 2019 அன்று இடம்பெற்ற பயங்கரவாதத் தாக்குதல்களின் ஐந்தாவது ஆண்டு நிறைவைக் குறிக்கும் வகையில், கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித் நேற்று பிபிசி சிங்கள சேவையிடம் இதனைத் தெரிவித்தார்.
+🟩
 
-கடந்த மற்றும் தற்போதைய அரசாங்கங்கள் ஐந்து வருடங்கள் நிறைவடைந்த போதிலும், தாக்குதல்களின் பின்னணியில் உள்ள சதி அல்லது அதற்கு மூளையாக செயல்பட்டவர்களை வெளிப்படுத்தத் தவறிவிட்டதாக அவர் குற்றம் சாட்டினார்.
+The Catholic Church is planning to present a proposal at the United Nations Human Rights Council (UNHRC) with the aim of providing justice to victims of those attacks through several foreign governments and international organizations to launch an international investigation into the Easter Sunday terrorist attacks.
+
+Archbishop of Colombo Cardinal Malcolm Ranjith made this statement yesterday to the BBC Sinhala Service to mark the fifth anniversary of terrorist attacks on April 21, 2019.
+
+He accused the past and current governments of failing to express their conspiracy or brainwashing behind the attacks, despite the five years.
+
+In the context of former President Gotabhaya Rajapakse's failure to fulfill the promise of justice to the victims, Cardinal said he believed in the written promises of the United People's Power (SJB) and the national people's power.
 
 ...
 
 [Data](articles/f0865282.json)
+
+[Extended Data](ext_articles/f0865282.ext.json)
 
 ---
 
@@ -558,17 +618,23 @@ In this election. The party has won more seats and captured majority seats. The 
 
 ---
 
-### ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර අභාවප්‍රුාප්ත වෙයි
+### Chandrasiri Bandara will be passed away
 
 *2024-04-22 10:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතිර්වේදී-චන්ද්‍රසිරි-බණ්ඩාර-අභාවප්‍රුාප්ත-වෙයි/11-409197) · `si`
 
-ජෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතා  අද ( 22) උදෑසන අභාවප්‍රුාප්ත වී  තිබෙනවා.
+Chandrasiri Bandara passed away this morning after being killed due to minority signs at home.
 
-නිවසේ සිටියදී ඇතිවූ සුළු අසනීපතත්වයක් මත රෝහල් ගතවීමෙන් අනතුරුව හෙතෙම මියගොස් ඇති බව වාර්ථා වනවා.
+🟩
+
+Chandrasiri Bandara has passed away this morning (22) morning.
+
+He has been killed after the slight signs of the minority while at home.
 
 ◼️
 
 [Data](articles/b8d8bade.json)
+
+[Extended Data](ext_articles/b8d8bade.ext.json)
 
 ---
 
@@ -1253,6 +1319,22 @@ Meanwhile, the Department of Meteorology states that the temperature of several 
 [Data](articles/2084a2f6.json)
 
 [Extended Data](ext_articles/2084a2f6.ext.json)
+
+---
+
+### SJB embroiled in controversy after its MPs secure funds from Govt without party approval
+
+*2024-04-22 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/155-281121) · `en`
+
+Colombo, April 22 (Daily Mirror) - The main opposition Samagi Jana Balawegaya (SJB), finds itself embroiled in controversy as reports emerge that several of its MPs had received Rs. 50 million each from the government's decentralized budget without nod from the party leadership,Daily Mirror learns.
+
+In the past, the governments used to allocate funds to MPs in the opposition to carry out development projects of their choice in their constituencies. However, such allocations have not taken place for the past five years, Instead, financial allocations for the same purpose were channeled through the district coordinating committees during the period.
+
+The current government has implemented the project and some SJB MPs have secured allocations according to a renewed criterion introduced by the government led by President Ranil Wickremesinghe to make sure that money is not used for charity work but employment generation activities.
+
+...
+
+[Data](articles/f534c4ca.json)
 
 ---
 
@@ -2097,43 +2179,5 @@ According to the Palestinian Health Authorities, 34,049 Palestinians have been k
 [Data](articles/a00455cc.json)
 
 [Extended Data](ext_articles/a00455cc.ext.json)
-
----
-
-### Wijedasa Rajapaksa elected as the leader of the Sri Lanka Freedom Party (SLFP)
-
-*2024-04-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181602) · `ta`
-
-Wijeyadasa Rajapakse elected as SLFP leader, replacing Sirisena due to court injunction. Police block entry to Darley Party building, SLFP headquarters.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) led by former President Maithripala Sirisena has elected Minister Wijeyadasa Rajapakse as the party's reply leader.
-
-The decision was taken during the party's executive committee meeting held on Sunday (21) at El Kotte.
-
-Former President Sirisena has been prevented from acting as party leader due to court interim injunction.
-
-Meanwhile, a group of people who attempted to enter the Darley Party building, which is located in the headquarters of the Sri Lanka Freedom Party (SLFP), have been blocked by the police.
-
-◼️
-
-[Data](articles/11c9167b.json)
-
-[Extended Data](ext_articles/11c9167b.ext.json)
-
----
-
-### Victims of Easter Sunday terror attacks commemorated
-
-*2024-04-21 20:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Victims-of-Easter-Sunday-terror-attacks-commemorated/110-281093) · `en`
-
-People commemorated victims of the Easter Sunday terror attacks at a cemetery in Katuwapitiya today, marking the 5th anniversary of the Easter Sunday bomb attacks. Over 260 were killed in the blasts which targeted three churches and three luxury hotels in the island in April 2019. A prayer procession was also held from Maris Stella College, Negombo to St. Sebastian's Church, Katuwapitiya to mark the occasion. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/0cf3b61a.json)
-
-[Extended Data](ext_articles/0cf3b61a.ext.json)
 
 ---

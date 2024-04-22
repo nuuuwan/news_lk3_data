@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 11:18:26**
+As of **2024-04-22 11:34:13**
 
 ## Newspaper Stats
 
-*Scraped **20,172** Articles*
+*Scraped **20,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,682
-tamilmirrorlk | 2,326
-adaderanalk | 2,412
+tamilmirrorlk | 2,329
+adaderanalk | 2,413
 virakesarilk | 3,008
 dailymirrorlk | 3,143
 adaderanasinhalalk | 3,278
@@ -26,11 +26,73 @@ adaderanasinhalalk | 3,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,172 (100.0%) of 20,172 articles have been extended.
+20,172 (100.0%) of 20,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ஜோதிடர் சந்திரசிறி பண்டார காலமானார்
+
+*2024-04-22 11:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோதிடர்-சந்திரசிறி-பண்டார-காலமானார்/175-336172) · `ta`
+
+ஜோதிடர் சந்திரசிறி பண்டார தனியார் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் இன்று காலை காலமானதாக அவரது குடும்ப உறுப்பினர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d66e93be.json)
+
+---
+
+### ’’ வேதன அதிகரிப்பை  மேற்கொள்ளவும்  ’’
+
+*2024-04-22 11:10:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேதன-அதிகரிப்பை-மேற்கொள்ளவும்/175-336171) · `ta`
+
+பெருந்தோட்ட நிறுவனங்களுக்கு அழுத்தம் ஒன்றை பிரயோகித்து பெருந்தோட்டத் தொழிலாளர்களின்  உழைப்புக்கேற்ற  ஊதியம் வழங்குவதற்கு நடவடிக்கை மேற்கொள்ளுமாறு பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ், ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் வலியுறுத்தினார்.
+
+ஊவா பரணகம, அம்பகஸ்தோவ மைதானத்தில் ஏற்பாடு செய்யப்பட்ட குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கும் தேசிய நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு வேண்டுகோள் விடுத்தார்.
+
+“நாடு அசாதாரணமான சூழ்நிலையில் இருந்த போது தைரியமாக நாட்டை மீட்டெடுக்க முன்வந்த தலைவர் என்ற வகையில் பல வேலை திட்டங்கள்  ஜனாதிபதியினால் முன்னெடுக்கப்பட்டன. நாட்டு மக்கள் போக்குவரத்துக்கே சிரமத்திற்கு இருந்த காலம் ஒன்று இருந்தது அத்தியாவசிய பொருட்களைப் பெற்றுக்கொள்ள நீண்ட வரிசைகளில் நின்றிருந்த காலமும் இருந்தது இன்று அனைத்தும் மாறி உள்ளது. நாடு மெதுவாக பழைய நிலைமைக்கு திரும்பி வருகின்றது” என்றார்.
+
+...
+
+[Data](articles/f124632a.json)
+
+---
+
+### Transport Minister reveals burden of Sri Lanka Railways, loans essential for maintenance
+
+*2024-04-22 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98769/transport-minister-reveals-burden-of-sri-lanka-railways-loans-essential-for-maintenance) · `en`
+
+Minister of Transport Bandula Gunawardena stated that loans are now required even for the maintenance of railways.
+
+Joining an event held in Kegalle, Gunawardena mentioned that the Sri Lanka Railways is making losses continuously.
+
+The Transport Minister disclosed that Sri Lanka has recently borrowed 500 buses from India under the Indian credit line aimed at facilitating transportation to schools and hospitals in remote areas. He also emphasized that without resorting to loans, the state-owned Sri Lanka Transport Board (SLTB) would struggle to acquire buses.
+
+“Recently, the government has borrowed 500 buses from India under the Indian credit line and deployed them in areas where children have no buses to go to school or hospitals. Without borrowing, SLTB cannot acquire buses”, he said.
+
+...
+
+[Data](articles/b1fa4d2e.json)
+
+---
+
+### கிராமம் தாண்டி ஓடிய மாணவன் மரணம்
+
+*2024-04-22 11:03:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமம்-தாண்டி-ஓடிய-மாணவன்-மரணம்/175-336168) · `ta`
+
+தமிழ்-சிங்கள புத்தாண்டு விழாவிற்காக கடந்த 21ஆம் திகதி ஏற்பாடு செய்யப்பட்ட கிராமம் தாண்டிய (மரதன்) ஓட்டப் பந்தயத்தில் கலந்து கொண்டிருந்த 17 வயதுடைய விளையாட்டு வீரர் ஒருவர் திடீரென சுகவீனமடைந்து உயிரிழந்துள்ளதாக கிரியுல்ல பொலிஸார் தெரிவித்துள்ளனர்.
+
+பாடசாலை மாணவனே உயிரிழந்துள்ளார். இவர் அடுத்த மாதம் நடைபெறவுள்ள க.பொ.த சாதாரண தரப் பரீட்சைக்குத் தோற்றுவதற்கு தயாராகிக் கொண்டிருந்த மாணவன் ஆவார்.
+
+சனசமூக மண்டபத்திற்கு அருகாமையில்   காலை ஆரம்பமான மரதன் ஓட்டப் போட்டியில் கலந்து கொண்ட இம்மாணவன் சுமார் 500 மீற்றர் தூரத்தில் வீதியில் விழுந்து அருகில் இருந்த வாய்க்காலில் விழுந்ததாக புத்தாண்டு விழாவை காண சென்ற சிலர் தெரிவித்தனர்.  ஓ​டிக்கொண்டிருந்த போது மயக்கமடைந்து விழுந்துள்ளதாக அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/a04e40cd.json)
+
+---
 
 ### Notice of US citizenship
 
@@ -2085,105 +2147,5 @@ Sri Piyarathne beat St. Aloysius 17-10, Sumangala Panadura beat Richmond 39-10
 [Data](articles/9d586ee3.json)
 
 [Extended Data](ext_articles/9d586ee3.ext.json)
-
----
-
-### Attempting to attack MP Velu Kumar
-
-*2024-04-21 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181594) · `ta`
-
-The Tamil Progressive Alliance reported an attack on Velu Kumar, a Kandy district parliamentarian, after an event. The attackers were withdrawn.
-
-🟩
-
-The Tamil Progressive Alliance's media unit has issued a statement saying that an attack on Kandy district parliamentarian Velu Kumar has been attacked.
-
-The foundation stone laying ceremony of the Arulmigu Sri Maha Ganapathi Temple was held on Sunday morning (21).
-
-The attack was made on him as he tried to go to his next event after the event.
-
-The report further stated that the people who had been attacked by the people of the people were withdrawn.
-
-◼️
-
-[Data](articles/c2a29c0e.json)
-
-[Extended Data](ext_articles/c2a29c0e.ext.json)
-
----
-
-### No one is passing out or left to leave in the country building
-
-*2024-04-21 18:38:01* · [`adalk`](https://www.ada.lk/breaking_news/රට-ගොඩනැඟීමේදී-කිසිවෙකු-පසුකර-හෝ-අතහැර-යාමට-සූදානම්-නැහැ/11-409189) · `si`
-
-President Ranil Wickremesinghe emphasized the government's commitment to strengthening the economy and alleviating the suffering of the people. He highlighted the National Program for low-income families, awarding 10,000 million rupees per month, and the distribution of rice to beneficiaries. He also acknowledged the challenges faced, including the recent economic crisis and the impact on fuel, gas, and fertilizer prices. Wickremesinghe praised the government's efforts in maintaining economic stability and expressed gratitude to the Prime Minister, cabinet, and other officials for their contributions. He noted the government's focus on rural economy development, increasing public and private sector salaries, and providing relief to the poor. Despite the progress, he acknowledged the ongoing issues of currency loss, business decline, and job loss. He stressed the importance of unity in addressing these challenges and outlined future plans for development, including tourism, agriculture, and land ownership programs.
-
-🟩
-
-President Ranil Wickremesinghe said that the government would not pass or leave the economy and the people to strengthen the economy of the economy.
-
-The President emphasized that all the people of the country were suffering from the last economic crisis and that they should be able to get the benefits of the economy.
-
-President Ranil Wickremesinghe was speaking at the inauguration of the National Program for low income families at the Ambagasdowa Public Stadium in Uva Paranagama.
-
-Under this program, the entire island will be awarded 10,000 million rupees per two months per month for two million rupees per month.
-
-191,548 beneficiary families in fifteen Divisional Secretariat Divisions in Badulla District are eligible to receive rice subsidy. The President was given rice to 25 beneficiaries to symbolize the sharing of rice to a thousand families today.
-
-The rice distributed to the beneficiaries selected under the supervision of Divisional Secretariats across the country.
-
-...
-
-[Data](articles/49b36600.json)
-
-[Extended Data](ext_articles/49b36600.ext.json)
-
----
-
-### Retired EB to kneel Rs.
-
-*2024-04-21 18:30:27* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-එස්අයිට-දණ-ගහන්න-කියා-රු-ලක්ෂ-6ක-මාලය-කොල්ලකාලා/11-409188) · `si`
-
-A retired EB was threatened and robbed of Rs. while eating near a funeral area on Brahmanagura Wickramapura road. Two robbers fled on a motorcycle, leaving the victim kneeling.
-
-🟩
-
-The Employees' Inspector has put a knife to the pensioner and threatened with molecules and threatened with death and threatened with a motorcycle.
-
-The robbery had taken place while retirementing a motorcycle in the Brahmanagura Wickramapura road while he was eating motorcycle on a funeral area.
-
-The man who followed the two robbers from a red motorbike was to threaten the subseaker and threaten the gardener and plundered the handwritten hearing. ". The robbery has fled the motorcycle, "the robbery has fled to the motorcyclist with the knees.
-
-At the time of this robbery, a large number of young people have been staying near a house, but no person has come to a person, he said.
-
-◼️
-
-[Data](articles/6d59118f.json)
-
-[Extended Data](ext_articles/6d59118f.ext.json)
-
----
-
-### Almost half of all major Chinese cities are sinking, study says
-
-*2024-04-21 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98761/almost-half-of-all-major-chinese-cities-are-sinking-study-says) · `en`
-
-Almost half of China’s major cities are sinking, putting millions of locals at risk of flooding, according to a new study published in the journal Science this week.
-
-The study found that 45% of China’s urban land was sinking faster than 3 mm a year, while 16% was sinking at a rate of more than 10 mm a year.
-
-The study authors looked at 82 Chinese cities with populations of more than 2 million and used radar pulses from satellites to identify any changes in the distance between the satellite and the ground.
-
-They then measured how the cities’ elevations had changed between 2015 and 2022.
-
-They found that China’s largest city, Shanghai, was continuing to subside despite already sinking around 3 m over the past 100 years.
-
-Cities such as Beijing and Tianjin were also particularly affected.
-
-...
-
-[Data](articles/72caf671.json)
-
-[Extended Data](ext_articles/72caf671.ext.json)
 
 ---

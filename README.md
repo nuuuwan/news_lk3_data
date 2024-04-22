@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 23:03:47**
+As of **2024-04-22 23:19:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,292 (100.0%) of 20,294 articles have been extended.
+20,294 (100.0%) of 20,294 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,33 @@ It was reported that the rice stocks in question were set to be used in the scho
 
 [Data](articles/edef48cc.json)
 
+[Extended Data](ext_articles/edef48cc.ext.json)
+
 ---
 
-### මේ පිරමීඩාකාර ආයතන සහ යෙදවුම් ගැන ඔබ දැන සිටියා ද ?
+### Did you know about these pyramids and inputs?
 
 *2024-04-22 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195878) · `si`
 
-පිරමීඩාකාර ක්‍රියාකාරකම්වල යෙදෙන බවට හඳුනාගත් තවත් ආයතන සහ යෙදවුම් 8ක් පිළිබඳව ශ්‍රී ලංකා මහ බැංකුව නිවේදනයක් නිකුත් කර තිබේ.
+The Central Bank of Sri Lanka has identified eight institutions in pyramid schemes, including beecoin App, Sunbird Foundation, and others, and requested legal action.
 
-අදාළ ආයතන සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කරන මෙන් නීතිපතිවරයාගෙන් ඉල්ලීම් කර ඇති බවද මහ බැංකුව එම නිවේදනයෙන් සඳහන් කරයි.
+🟩
 
-තමන් වෙත ලැබුණු පැමිණිලිවලට අනුව සිදුකළ විමර්ශනවලදී ආයතන සහ යෙදවුම් 8ක් මහ බැංකු පනතේ 83 ඇ වගන්තිය උල්ලංඝනය කරමින් තහනම් යෝජනා ක්‍රම ක්‍රියාත්මක කර ඇති බවට හඳුනාගෙන ඇතැයි නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+The Central Bank of Sri Lanka has issued an announcement on other eight institutions and applications identified in pyramidara activities.
 
-ඒ යටතේ Beecoin App/Sunbird Foundation , Fast Win pvt ltd , Fruugo Oline App /Fruugo Oline pvt ltd ,Genesis Business School /Era Miracle pvt ltf ,Isimaga International pvt ltd,Ledger Block,Qnet/Questnet සහ Ride to Three Freedom pvt ltd යන ආයතන සහ යෙදවුම් එලෙස මහ බැංකු පනතේ වගන්ති උල්ලංඝනය කරමින් පිරමිඩාකාර ව්‍යාපාර සිදුකළ බවට තොරතුරු ලැබී ඇති බව එම නිවේදනයේ දැක්වෙයි.
+The Central Bank said that the Attorney General has requested the law to implement the law regarding the relevant institutions.
 
-...
+The Central Bank of Sri Lanka (SLTB) has been identified in investigations by investigating the complaints made by the complaints received by the complaints received by the Central Bank Act.
+
+Under it, the beecoin App / Sunbird Foundation, Fruugo Olynational Pvt Ltd, Ledger Block, Qnet / QuestNet and Ride to th ree freedom pvt ltdThe statement has received information that the pyramidage has been carried out in violation of sections of the Central Bank of Act.
+
+The Central Bank of Sri Lanka (SLTB) has sent demands to the Attorney General
+
+◼️
 
 [Data](articles/dd280c83.json)
+
+[Extended Data](ext_articles/dd280c83.ext.json)
 
 ---
 

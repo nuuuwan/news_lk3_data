@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 21:52:55**
+As of **2024-04-22 22:05:10**
 
 ## Newspaper Stats
 
-*Scraped **20,287** Articles*
+*Scraped **20,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,112
 economynextcom | 1,157
 adalk | 1,697
 tamilmirrorlk | 2,343
-adaderanalk | 2,425
+adaderanalk | 2,426
 virakesarilk | 3,031
 dailymirrorlk | 3,160
 adaderanasinhalalk | 3,295
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,295
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,286 (100.0%) of 20,287 articles have been extended.
+20,287 (100.0%) of 20,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ‘Shree Ramayan Trails’ launched in Sri Lanka to boost tourism
+
+*2024-04-22 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98782/shree-ramayan-trails-launched-in-sri-lanka-to-boost-tourism) · `en`
+
+A historic milestone in the Indo-Sri Lankan cultural and religious bond was marked yesterday (21) with the official launch of the ‘Sri Ramayan Trails’ project at Taj Samudra in Colombo, the President’s Media Division (PMD) reported.
+
+This initiative aims to bolster the country’s tourism industry by leveraging cutting-edge technology and innovative tourism methodologies, it said.
+
+Under the auspices of His Holiness Swami Govind Dev Giri Maharaj, the Chief Treasurer of the renowned Sri Ram Mandir in Ayodhya, and graced by Mr. Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, the launch event showcased a commitment to fostering deeper ties between the two nations, the PMD said.
+
+...
+
+[Data](articles/a419381b.json)
+
+---
 
 ### Iranian President to visit Sri Lanka on Wednesday
 
@@ -52,19 +68,25 @@ Iranian President Ebrahim Raisi held talks with Pakistani Prime Minister Shehbaz
 
 ---
 
-### එන්නේ නැත්නම් කියන්න - මාලිමාවෙන් සජබයට ලිපියක්
+### Tell if not coming - a letter from the compass
 
 *2024-04-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195876) · `si`
 
-අනුර කුමාර දිසානායක මහතා සහ සජිත් ප්‍රේමදාස මහතා අතර පැවැත්වීමට යෝජිත විවාදය සඳහා නොපැමිණෙන්නේ නම් ඒ පිළිබඳව දැනුම්දෙන ලෙසට ඉල්ලා සිටිමින් ජාතික ජන බලවේගය විසින් සමගි ජන බලවේගය වෙත ලිපියක් යොමුකර ඇත.
+If Anura Kumara Dissanayake and Sajith Premadasa's debate doesn't happen, a letter proposes using the national folk force on May 7, 9, 13, and 14. After selecting a date, the duration and specifics of the debate will be discussed.
 
-එම ලිපිය මගින් ජාතික ජන බලවේගය එම යෝජිත විවාදය සඳහා මැයි මස 07,09,13 සහ 14 යන දිනවලින් සජබය කැමති දිනයක් යොදාගැනීමට එකඟත්වය පළකර තිබේ.
+🟩
 
-එසේම සජබයේ සූදානම අනුව දිනය තෝරාගැනීමෙන් අනතුරුව විවාදය පැවැත්වීමට අදාළ අදාළ වෙලාව සහ විවාදයේ කාලසීමාව ආදී කරුණු පිළිබඳව සාකච්ඡා කරගත හැකි බවද එමගින් දැනුම්දී ඇත.
+If it does not come to the proposed debate between Anura Kumara Dissanayake and Sajith Premadasa, a letter has been sent to reconciliation to force.
+
+The letter has agreed to use the national folk force to use the national folk force on the same day on May 07 ,09,13 and 14.
+
+It is also discussed that after selecting the date on the process of the animation, it will be discussed with the duration of the time and debate related to the debate.
 
 ◼️
 
 [Data](articles/fb6dee5d.json)
+
+[Extended Data](ext_articles/fb6dee5d.ext.json)
 
 ---
 
@@ -2257,25 +2279,5 @@ Contrary information has been revealed about the weapon used for this action. Th
 [Data](articles/3e3af708.json)
 
 [Extended Data](ext_articles/3e3af708.ext.json)
-
----
-
-### 32 crores allocated to President Ranil for 6 MPs of the United People's Power
-
-*2024-04-22 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181638) · `ta`
-
-President Ranil Wickremesinghe allocated 32 crores to six MPs of the United People's Power for development projects, including those proposed by the District Coordinating Committee for Regional Development Plans from the 2024 budget.
-
-🟩
-
-President Ranil Wickremesinghe's special announcement has been allocated to six United People's Power MPs with proposals for financial development activities for more than 32 crore rupees.
-
-In addition to the proposals proposed by the District Coordinating Committee for Regional Development Plans from the budget of 2024, the President has issued a directive to issue a quota for implementing the development project proposals submitted by the President directly to the President.
-
-◼️
-
-[Data](articles/e90ea8ba.json)
-
-[Extended Data](ext_articles/e90ea8ba.ext.json)
 
 ---

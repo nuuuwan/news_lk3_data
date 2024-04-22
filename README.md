@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 15:18:36**
+As of **2024-04-22 15:34:07**
 
 ## Newspaper Stats
 
-*Scraped **20,224** Articles*
+*Scraped **20,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,111 @@ islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,687
-tamilmirrorlk | 2,336
+tamilmirrorlk | 2,339
 adaderanalk | 2,419
 virakesarilk | 3,022
-dailymirrorlk | 3,150
+dailymirrorlk | 3,152
 adaderanasinhalalk | 3,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,223 (100.0%) of 20,224 articles have been extended.
+20,224 (100.0%) of 20,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### අද රෑ උතුරු අහසේ දිස්වෙන ලයිරිඩ්ස්
+### மூத்த ஊடகவியலாளருக்கு CID அழைப்பாணை
+
+*2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
+
+இலங்கையின் மூத்த ஊடகவியலாளர் சமுதித்த சமரவிக்ரம நாளை குற்றப் புலனாய்வு திணைக்களத்தில் (CID) ஆஜராகவுள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பாதுகாப்பு பிரச்சினை தொடர்பாக அவர் ஒளிபரப்பிய நிகழ்ச்சி ஒன்று தொடர்பிலேயே இந்த அழைப்பாணை விடுக்கப்பட்டுள்ளதாக சமுதித்த சமரவிக்ரம தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/adf30176.json)
+
+---
+
+### Indian cricket manager indicted for Legend Cricket League match-fixing allegations
+
+*2024-04-22 15:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-cricket-manager-indicted-for-Legend-Cricket-League-match-fixing-allegations/108-281161) · `en`
+
+Colombo, April 22 (Daily Mirror)- The Attorney General’s Department informed court today that an indictment has been filed before the Colombo High Court against an Indian cricket manager over match-fixing allegations during the Legend Cricket League 2024.
+
+A Senior State Counsel appearing on behalf of the Attorney General made this revelation when the magisterial inquiry into the alleged match fixing case was taken up before the Colombo Chief Magistrate's Court.
+
+Court was informed that an indictment has been filed before the Colombo High Court against Yoni Patel, a team manager of the Legend Cricket League 2024.
+
+The Colombo Chief Magistrate’s Court had earlier issued an order preventing Yoni Patel and P. Akash, two team managers of the Legend Cricket League from leaving the country over match fixing allegations.
+
+The Legend Cricket League tournament, featuring seven teams comprising retired international cricketers, was held in March at the Pallekele International Cricket Stadium.
+
+...
+
+[Data](articles/b8292e32.json)
+
+---
+
+### எம்.பி பதவியை நீதியமைச்சர் இழக்க நேரிடும்
+
+*2024-04-22 15:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-பதவியை-நீதியமைச்சர்-இழக்க-நேரிடும்/175-336190) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக பதவியேற்ற நீதியமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியலமைப்பின் பிரகாரம் தனது பாராளுமன்ற உறுப்பினர் பதவியை இழக்க நேரிடும் என SLPP பாராளுமன்ற உறுப்பினர் திஸ்ஸ குட்டியாராச்சி இன்று தெரிவித்தார்.
+
+இது குறித்து ஸ்ரீலங்கா பொதுஜன பெரமுன இன்னும் கலந்துரையாடவில்லை எனவும், ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் விரைவில் முடிவெடுப்பார் எனவும் அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+கட்சியின் அரசியலமைப்பு மற்றும் சட்டங்களின்படி, ஒருவர் மற்றுமொரு அரசியல் கட்சியின் உறுப்புரிமையைப் பெற்றவுடன் அவரது கட்சி உறுப்புரிமையை விரைவில் இழக்க நேரிடும் என்று பாராளுமன்ற உறுப்பினர் கூறினார்.
+
+இதனால், அமைச்சர் ராஜபக்ஷ கட்சி உறுப்புரிமையை இழக்க நேரிடும் என்றும், அதன் மூலம் அவர் தனது பாராளுமன்ற உறுப்பினர் பதவியையும் இழக்க நேரிடும் என்றும் அவர் கூறினார்.
+
+...
+
+[Data](articles/2c1a82c2.json)
+
+---
+
+### ஈரானிய ஜனாதிபதி , பாகிஸ்தானை வந்தடைந்தார்
+
+*2024-04-22 14:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானிய-ஜனாதிபதி-பாகிஸ்தானை-வந்தடைந்தார்/50-336189) · `ta`
+
+ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி மூன்று நாள் உத்தியோகபூர்வ விஜயமாக திங்களன்று (22) பாகிஸ்தானுக்கு வந்தடைந்தார்
+
+ரைசி இஸ்லாமாபாத் விமான நிலையத்திற்கு வந்தடைந்ததாகவும், அவரை வீட்டு வசதி அமைச்சர் மியான் ரியாஸ் ஹுசைன் பிர்சாடா மற்றும் ஈரானுக்கான பாகிஸ்தான் தூதர் முடாசிர் திப்பு ஆகியோர் வரவேற்றதாக வெளியுறவு அலுவலகம் (FO) தெரிவித்துள்ளது.
+
+"ஈரான் ஜனாதிபதியுடன் அவரது துணைவியார் மற்றும் வெளியுறவு அமைச்சர் மற்றும் பிற அமைச்சரவை உறுப்பினர்கள் மற்றும் மூத்த அதிகாரிகள் அடங்கிய உயர்மட்டக் குழு உள்ளது" என்று அது கூறியது.
+
+◼️
+
+[Data](articles/eb088e6b.json)
+
+---
+
+### Lives of the North tonight
 
 *2024-04-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195864) · `si`
 
-වාර්ෂිකව දිස්වන උල්කාපාත වර්ෂා අතුරින් ප්‍රධාන ස්ථානයක් හිමිවන ලයිරිඩ්ස් උල්කාපාත වර්ෂාව අද (22) මධ්‍යම රාත්‍රියේ උතුරු අහසේ දිස්වන බව අභ්‍යවකාශ විද්‍යාඥයින් පවසයි.
+"Space scientists predict a meteor shower, League, from April 15-29, with up to 20 meteors per hour visible after midnight, best observed during the full moon."
 
-මෙම උල්කාපාත වර්ෂාව සෑම වසරකම අප්‍රේල් 15 සිට අප්‍රේල් 29 දක්වා සක්‍රීයව පවතී.
+🟩
 
-අභ්‍යවකාශ විද්‍යාඥ ඉංජිනේරු ගිහාන් වීරසේකර මහතා පවසා සිටියේ, මෙම උල්කාපාත වර්ෂාව වීණාව කියන තාරකා රාශිය ආශ්‍රිතව දැකගත හැකි නිසාවෙන් ලයිරිඩ්ස් යනුවෙන් හඳුන්වන බවය.
+Space scientists say 3 (22) in the middle of the night of the midnight of League, which is one of the annual mechanisms.
 
-"මෙම උල්කාපාත වර්ෂාවේ දී පැයකට උල්කාපාත 20ක් පමණ නිරීක්ෂණය කළ හැකි වෙනවා. මේක අද රාත්‍රීයේ හෝ හෙට අලුයම උපරිම අවස්ථාවට පත්වනවා. අද මධ්‍යම රාත්‍රියෙන් පසුව මේක නිරීක්ෂණය කළ හැකියි. අද ගැටලුවක් වෙනවා පූර්ණ චන්ද්‍රයා අපිට පේන නිසා.﻿ ඒ නිසා මේක නිරීක්ෂණය කරන්න හොඳම වෙලාව වෙන්නේ ‍අලුයම 4 - 5 දක්වා කාලයේ දී උතුරු දිශාව ආශ්‍රිකව මේ උල්කාපාත වර්ෂාව පියවි ඇසින් නිරීක්ෂණය කළ හැකි වෙනවා."
+The meteor rain is active from 15 April to 29th April.
+
+Space Science Engineer Gihan Weerasekera said that League is known as the waters of the harpathawa harp.
+
+"This meteorite rains can be observed for about 20 meteors per hour. This is the maximum impressive of early morning tomorrow or tomorrow. It is possible to observe this after midnight today. Because the full moon seems to be a problem today. Therefore, it is the best time to observe this meteor to observe this meteorite rains. "
 
 ◼️
 
 [Data](articles/5a56de37.json)
+
+[Extended Data](ext_articles/5a56de37.ext.json)
 
 ---
 
@@ -123,6 +197,18 @@ The Vavuniya Hospital Director telephoned the hospital to learn about the incide
 [Data](articles/9b489b5c.json)
 
 [Extended Data](ext_articles/9b489b5c.ext.json)
+
+---
+
+### Pensioners protest...
+
+*2024-04-22 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pensioners-protest/110-281160) · `en`
+
+The Collective of Pensioners' Associations staged a protest outside the Public Administration Ministry today, advocating for various demands, including the rectification of pension anomalies. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/0d863f50.json)
 
 ---
 
@@ -2125,97 +2211,5 @@ SANASA General Insurance expands services with 66 new service units
 [Data](articles/26520026.json)
 
 [Extended Data](ext_articles/26520026.ext.json)
-
----
-
-### Lanka Hospitals inaugurates new Bariatric Centre, surpasses 250th surgery milestone
-
-*2024-04-22 04:13:00* · [`islandlk`](http://island.lk/lanka-hospitals-inaugurates-new-bariatric-centre-surpasses-250th-surgery-milestone/) · `en`
-
-Lanka Hospitals is delighted to announce the successful inauguration of its new Bariatric Centre, coinciding with the celebration of surpassing the milestone of 250 successful Bariatric surgeries performed at the hospital. The inauguration ceremony, held on April 06th, was attended by distinguished guests, medical professionals, and members of the media.
-
-Deepthi Lokuarachchi, Group CEO of Lanka Hospitals said, “The successful inauguration of our new Bariatric Centre and the surpassing of our 250th successful surgery mark a momentous occasion for Lanka Hospitals. We remain committed to providing world-class healthcare services and improving the overall health and well-being of our patients.”
-
-...
-
-[Data](articles/19ff919b.json)
-
-[Extended Data](ext_articles/19ff919b.ext.json)
-
----
-
-### John Keells Properties hosts Union Bank customers at its ‘Viman’ Ja-Ela model apartment
-
-*2024-04-22 04:13:00* · [`islandlk`](http://island.lk/john-keells-properties-hosts-union-bank-customers-at-its-viman-ja-ela-model-apartment/) · `en`
-
-John Keells Properties partnered with Union Bank to offer flexible mortgage solutions for its ‘Viman’ Ja-Ela project. John Keells Properties further strengthened its relationship with the Bank’s customers by hosting an exclusive event for them on 6th of March, to tour the Viman model apartment at the John Keells Properties head office in Vauxhall Street, Colombo 2.
-
-The event provided an opportunity for customers of Union Bank to tour the model apartment and to engage with the experienced sales team from John Keells Properties to understand how owning a home at ‘Viman’ Ja-Ela can fulfil their aspirations. The innovative mortgage packages provided by Union Bank in collaboration with John Keells Properties enable prospective homeowners to access customized financing options, making Viman Ja-Ela’s residences more accessible.
-
-...
-
-[Data](articles/1b28c829.json)
-
-[Extended Data](ext_articles/1b28c829.ext.json)
-
----
-
-### The Iran-Israel conflict leaves Lanka at crossroads - EDITORIAL
-
-*2024-04-22 03:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Iran-Israel-conflict-leaves-Lanka-at-crossroads-EDITORIAL/172-281098) · `en`
-
-Israel’s misguided (as the US President chooses to call it) attack on the Iranian Consulate in Syria, the retaliatory strikes by Iran on Israel and counter-strikes by Israel on Iran have set West Asia (referred to as the Middle East by the US and the West) in flames. By these actions, the taboo against direct attacks on each other has now disappeared.
-
-If there is another round-a conflict over Iran’s nuclear advances or another strike by Israel on Iranian military officers- both sides will feel free to launch direct attacks on the other.
-
-Relations reached a point of no return on April 1, 2024 when an Israeli air strike destroyed the Iranian Consulate annex building in Syria killing 16 people, including a senior Quds Force Commander.
-
-...
-
-[Data](articles/12320624.json)
-
-[Extended Data](ext_articles/12320624.ext.json)
-
----
-
-### Iran and Israel: From Allies to brink of major conflict
-
-*2024-04-22 03:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Iran-and-Israel-From-Allies-to-brink-of-major-conflict/172-281097) · `en`
-
-At one point, Prime Minister Yitzhak Rabin even referred to Iran as one  of Israel’s “best friends.” However, sentiments shifted rapidly, and  Rabin later characterized Ayatollah Khomeini’s regime as “dark” and  “murderous.”
-
-Global oil and gold prices surged, while stock markets plummeted, in the wake of reports that Israel had launched missiles at several sites in Iran.
-
-Iran and Israel were once close allies during the reign of the Shah, as they shared common geopolitical interests and concerns regarding Arab nationalism. However, with the establishment of the Islamic Republic following the 1979 Islamic Revolution and Ayatollah Khomeini’s rise to power,Khomeini severed diplomatic ties with Israel and adopted a firm anti-Zionist stance.
-
-...
-
-[Data](articles/d84b499b.json)
-
-[Extended Data](ext_articles/d84b499b.ext.json)
-
----
-
-### Market lending rate falls to two-year low as economy readies to take off
-
-*2024-04-22 03:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Market-lending-rate-falls-to-two-year-low-as-economy-readies-to-take-off/108-281119) · `en`
-
-Prime rate hits a peak level of 29.67 percent in November 2022
-
-The often watched market lending rate, which guides the rest of the rates on loans to small businesses to mortgages to consumers, touched a two-year low last week continuing its descent.
-
-The average prime lending rate or the rate at which the banks lend to their most creditworthy clients for a short term fell 22 basis points to 10.41 percent last week.
-
-This was the lowest level from 9.85 percent on April 1, 2022 just before the Central Bank raised interest rates by a bumper 700 basis points to rein in the inflation at the time.
-
-Both government securities yields and the market lending rates are on the descent during the last 10 months since the time Central Bank pivoted to cut rates for the first time in June last year.
-
-The prime rate hit a peak level of 29.67 percent in November 2022 when the monetary policy was  crushingly tight.
-
-...
-
-[Data](articles/4d41045d.json)
-
-[Extended Data](ext_articles/4d41045d.ext.json)
 
 ---

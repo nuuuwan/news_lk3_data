@@ -1,46 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 10:34:08**
+As of **2024-04-22 10:51:48**
 
 ## Newspaper Stats
 
-*Scraped **20,159** Articles*
+*Scraped **20,162** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 176
 bbccomsinhala | 210
-dbsjeyarajcom | 221
+dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,681
-tamilmirrorlk | 2,325
+tamilmirrorlk | 2,326
 adaderanalk | 2,411
 virakesarilk | 3,002
-dailymirrorlk | 3,141
+dailymirrorlk | 3,142
 adaderanasinhalalk | 3,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,155 (100.0%) of 20,159 articles have been extended.
+20,159 (100.0%) of 20,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### දුම්රිය නඩත්තුවත් රජයට හිසරදයක් වෙයි
+### The train maintenance and a headache to the government
 
 *2024-04-22 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195857) · `si`
 
-දුම්රිය නඩත්තු කටයුතුවලට පවා වර්තමානය වන විට ණය ගැනීමේ අවශ්‍යතාව මතු ව ඇති බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+"Minister of Transport Bandula Gunawardena highlights the necessity of borrowing for train maintenance, causing a headache for the government."
+
+🟩
+
+Minister of Transport Bandula Gunawardena says that the need for borrowing is the need for even the maintenance work.
 
 ◼️
 
 [Data](articles/86784ef5.json)
+
+[Extended Data](ext_articles/86784ef5.ext.json)
 
 ---
 
@@ -62,19 +68,31 @@ The “Fox Hill Super Cross 2024” racing event has now been temporarily suspen
 
 [Data](articles/db0d0243.json)
 
+[Extended Data](ext_articles/db0d0243.ext.json)
+
 ---
 
-### 2024 பட்ஜெட் வருமான  இலக்கை எட்டத் தவறும்
+### 2024 Budget fails to reach income target
 
 *2024-04-22 09:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-பட்ஜெட்-வருமான-இலக்கை-எட்டத்-தவறும்/175-336162) · `ta`
 
-2024 ஆம் ஆண்டில் தொடர்ச்சியாக 33வது ஆண்டாக இலங்கை மொத்த உள்நாட்டு உற்பத்தியில் வருமானம் தொடர்பான வரவு செலவுத்திட்ட இலக்கை எட்டத் தவறிவிடும் என அண்மையில் வெளியிடப்பட்ட '2024 வரவு செலவுத் திட்ட நிலை தொடர்பான அறிக்கையில்' எதிர்பார்க்கப்படுகிறது.
+The 2024 budget report, compiled by Verite Research, indicates Sri Lanka will miss its GDP income target for the 33rd year. Despite predictions of a 14% deficit and an income of Rs 3,570 billion, the report highlights a 61% deficit from VAT exaggeration and a 39% deficit from other sources. The budget aims to reduce the interest rate to 64%, but it's predicted to exceed 70%, impacting economic recovery and debt stability.
 
-‘வரவு செலவுத் திட்ட நிலை தொடர்பான அறிக்கை’ஆண்டுதோறும் வெரிட்டே ரிசேர்ச் நிறுவனத்தால் தொகுக்கப்பட்டு, பொருளாதாரத் தகவல்களுக்கான இலங்கையின் முதன்மை தளமாக உள்ள PublicFinance.lk இல் வெளியிடப்படுகிறது.
+🟩
+
+The recently published '2024 budget report' is expected to reach the 33rd consecutive year in 2024, Sri Lanka will fail to reach the GDP.
+
+The budget report is compiled by the Verite Research Company every year and is published in Publicfinance.lk, Sri Lanka's primary platform for economic information.
+
+This report provides a strong analysis and objective assessment of the financial, money and economic values of Sri Lanka's annual budget. The report reflects the purpose of the budget report published by the Parliamentary Committee on Government Fund (COPF). These two reports are aimed at promoting the budget and debate in the public and parliament.. This creates an important additional input for industrial economic analysis and resolutions in Sri Lanka.
+
+Sri Lanka has not yet reached the Income Goal of GDP in the budget since 1991. Recently, the Parliamentary Committee on Ways reported that tax revenues declined by 13% by 2023 in 2023.
 
 ...
 
 [Data](articles/c939eb81.json)
+
+[Extended Data](ext_articles/c939eb81.ext.json)
 
 ---
 
@@ -186,6 +204,26 @@ Kalutara District Council Member Jayantha Samaraweera has posted this question t
 
 ---
 
+### ஜனாதிபதியின் வெளிநாட்டு பயண விபரங்கள் வருகின்றன
+
+*2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயண-விபரங்கள்-வருகின்றன/175-336161) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க ஜனாதிபதியாக பதவியேற்றதன் பின்னர் கலந்து கொள்ளும் வெளிநாட்டு பயணங்களுக்காக அரசாங்கம் மேற்கொள்ளும் செலவுகள் தொடர்பான விடயம் நாளை மறுதினம் (24ம் திகதி) நடைபெறவுள்ள பாராளுமன்ற நிகழ்ச்சி நிரலில் உள்ளடக்கப்பட்டுள்ளது.
+
+இதுவரை ஜனாதிபதி பங்கேற்ற வெளிநாட்டுப் பயணங்கள், ஒவ்வொரு பயணத்தின் போதும் சந்தித்த வெளிநாட்டுத் தலைவர்கள் குறித்தும் கேள்வி எழுப்பப்பட்டுள்ளது.
+
+மேலும், அவர்களுடன் இராஜதந்திர ரீதியில் செய்து கொள்ளப்பட்ட ஒப்பந்தங்கள் மற்றும் அந்த உடன்படிக்கைகளை எட்டுவது தொடர்பிலும் கேட்கப்பட்டுள்ளது.
+
+மேலும் ஒவ்வொரு வெளிநாட்டுப் பயணத்திலும் ஜனாதிபதியுடன் பங்குபற்றிய தூதுக்குழுவினருக்கு தனித்தனியாகவும் அதற்காக செலவிடப்பட்ட தொகையையும் வழங்குமாறும் கோரப்பட்டுள்ளது.
+
+களுத்துறை மாவட்ட சபை உறுப்பினர் ஜயந்த சமரவீர, பிரதமர் தினேஷ் குணவர்தனவிடம் இந்தக் கேள்வியை முன்வைத்துள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/fc298d81.json)
+
+---
+
 ### Showers around the country after 2 p.m
 
 *2024-04-22 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-around-the-country-after-2-p-m/108-281128) · `en`
@@ -203,6 +241,24 @@ Misty conditions can be expected at some places in the Sabaragamuwa, Central and
 [Data](articles/4768094b.json)
 
 [Extended Data](ext_articles/4768094b.ext.json)
+
+---
+
+### Showers across the country after 2 p.m
+
+*2024-04-22 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-across-the-country-after-2-p-m/108-281128) · `en`
+
+Colombo, April 22 (Daily Mirror) - Showers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces and in the Galle, Matara and Anuradhapura districts after 2.00 p.m, the forecasting division of the National Meteorological Centre said.
+
+They said showers or thundershowers may occur at a few places in the Uva and Northern Provinces and in the Polonnaruwa district during the afternoon or night.
+
+Meanwhile, showers will occur in the western coastal areas during the morning too.
+
+Misty conditions can be expected at some places in the Sabaragamuwa, Central and Uva Provinces and in the Ampara district during the morning.
+
+◼️
+
+[Data](articles/f485cf4d.json)
 
 ---
 
@@ -1458,6 +1514,22 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 
 ---
 
+### Gnanasara Thero’s  rhetoric, which eminently qualifies as hate speech during a press conference called by him, was directly aimed at the Muslim religion and its founder in referencing the Kuragala pre- historic archaeological site.
+
+*2024-04-21 20:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83933) · `en`
+
+That a State Minister has called upon President Ranil Wickremesinghe to pardon Gnanasara Thero now serving his most recent sentence of four years handed down by the Colombo High Court last month for ‘outraging religious feelings’ of adherents of the Islamic faith in 2016, should surprise no one.
+
+No doubt, the State Minister in question is largely insignificant in the larger scheme of political realities. Even so, there is little doubt that his sentiments will be applauded by many in his party, the Rajapaksa-led Sri Lanka Podujana Peramuna (SLPP).
+
+That this monk has repeatedly thumbed his nose at the law and had been convicted previously (for contempt of court), later granted a Presidential pardon by Maithripala Sirisena is merely incidental to the matter.
+
+...
+
+[Data](articles/75472e0c.json)
+
+---
+
 ### The Easter Sunday victims have been political pawns these past five years, just as the many others who lost family members in the various conflicts the country have been through.They too, are still awaiting justice.
 
 *2024-04-21 20:20:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83931) · `en`
@@ -1608,19 +1680,27 @@ Chellamuthu's servants, who tried to attack Velu Kumar MP, retreced to the peopl
 
 ---
 
-### එතෆොන් දාන පළතුරු පැය 72ක් යන තෙක් අල්ලන්නවත් නරකයි
+### Ekafon Dana Fruit is bad until 72 hours
 
 *2024-04-21 19:33:14* · [`adalk`](https://www.ada.lk/breaking_news/එතෆොන්-දාන-පළතුරු-පැය-72ක්-යන-තෙක්-අල්ලන්නවත්-නරකයි/11-409195) · `si`
 
-මෙරට තුළ මේ වනවිට පලතුරු ඉදවීම සඳහා නීතිවිරෝධී ලෙස එතෆොන් (Ethephone) රසායනිකය  ඍජුව ස්ප්‍රේ කරන බැවින් එම පලතුරු  පැය 72ක් යන තෙක් ස්පර්ශ කිරීම මිනිස් සිරුරට අධිඅවදානම් වන බවට මහජන සෞඛ්‍ය පරීක්ෂක සඳුන් රත්නායක මහතා අවධාරණය කරයි.
+Public Health Inspector Sandun Ratnayake warns that consuming fruits for 72 hours after ripening can be harmful due to chemicals used in Sri Lanka for fruit ripening. He criticizes the lack of facilities to monitor chemical levels in food. To mitigate risks, he advises buying raw fruits and avoiding overeating from street stalls. He also mentions the use of chemicals like ethylene, water, and calcium hydroxide/sodium hydroxide for fruit ripening, emphasizing the need for approved methods.
 
-මේ පිළිබඳ 'අද' සිදුකළ වැඩිදුර විමසීමේදී ඔහු පෙන්වා දුන්නේ සම්මත ප්‍රමාණයට පටහැණිව ආහාර සඳහා අදාළ රසායනිකය අධිකව භාවිත කිරීමට එරෙහිව කටයුතු කිරීම සඳහා ආහාරවල අඩංගු එතෆොන් ප්‍රමාණය පරීක්ෂා කිරීමට අදාළ ප්‍රමාණවත් පහසුකම් රස පරීක්ෂණාගාර තුළ නොමැති බවයි.
+🟩
 
-ඒ අනුව පලතුරු මිලදී ගැනීමේදී අමු පලතුරු ලබාගැනීමට සියලු දෙනා සැලකිලිමත් වීම අනිවාර්‍ය වන බවත්, වෙළෙඳ සැල් තුළ සිට ආහාර ගැනීම අවම කළ යුතු බවත් රත්නායක මහතා අවධාරණය කර සිටියේය.කෘමිනාශකයක්,වර්ධක හෝමෝනයක්,මල් හට ගැන්වීම උත්තේජනය කරන හෝමෝනයක් වන එතෆොන් රසායනිකය ඇතැම් පුද්ගලයන් විසින් ලාභ ප්‍රයෝජනය උදෙසා භාවිත කරන අතර ඔවුන්ගෙන් බහුතරයක් ආරක්ෂිත උපකරණ භාවිත නොකරමින් අනාරක්ෂිත ලෙස එය භාවිත කරනු ලබයි.
+Public Health Inspector Sandun Ratnayake emphasizes that touching the fruits is high by 72 hours, as the chemical is directly engaged in the Sri Lankan chemical to ripen the fruits in the country.
+
+Investigating on this, he pointed out that there is no sufficient facilities to inspect the amount of the chemicals in the foods for the overeating of the chemicals in the foods.
+
+Accordingly, everyone is compulsory to obtain raw fruits in the purchase of the fruits and reduces eating from the stalls.The majority of them use the majority of from the majority of them.
+
+Accordingly, the common use of episodes is used in the country, "Ratmanayake said that the use of these chemicals is not prohibited in the country.
 
 ...
 
 [Data](articles/62029587.json)
+
+[Extended Data](ext_articles/62029587.ext.json)
 
 ---
 
@@ -2113,67 +2193,5 @@ The organizers said that all the other matches were canceled after the accident 
 [Data](articles/3460bb87.json)
 
 [Extended Data](ext_articles/3460bb87.ext.json)
-
----
-
-### 6 killed in race in Diyatalawa
-
-*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/sports/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-6ක්-මරුට/9-409186) · `si`
-
-In Diyatalawa, a racing tournament tragically resulted in 6 deaths and over 20 injuries, including a foreigner, a grief, a child, and four track marshals.
-
-🟩
-
-At a time of the racing tournament, six people were killed and more than 20 persons were injured in a car racing during the race.
-
-There are a foreigner, a grief, a small child and four track marshals.
-
-◼️
-
-[Data](articles/457463de.json)
-
-[Extended Data](ext_articles/457463de.ext.json)
-
----
-
-### Five dies in dangerous
-
-*2024-04-21 16:07:13* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාවේ-මෝටර්-රථ-ධාවන-තරගාවලිය-අනතුරකින්-5ක්-මරුට/11-409186) · `si`
-
-In Diyatalawa, a Fox Hill Supercross race accident resulted in five fatalities and nearly 20 injuries.
-
-🟩
-
-Fox Hill Supercros in Diyatalawa was injured and nearly 20 people were injured and injured in the accident during the race.
-
-◼️
-
-[Data](articles/b07090b9.json)
-
-[Extended Data](ext_articles/b07090b9.ext.json)
-
----
-
-### ජපානයේ බිහිසුණු අනතුරක්
-
-*2024-04-21 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195839) · `si`
-
-ජපානයේ බිහිසුණු අනතුරක් පසුව ඇතුලත් කරන එක්සත් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් පැතීම් 
-
-🟩
-
-Two army helicopters in Japan were killed and seven others went missing.
-
-Foreign media reports that the accident had occurred while engaging in training exercise in the Pacific Sea of Ishu islands.
-
-The body of a soldier who was killed in the accident was found and the Japanese authorities have stated that the other persons are operating in search of other people.
-
-The cause of the accident has been uncovered so far, but helicopters have suspected that helicopters had collapsed and collapsed.
-
-◼️
-
-[Data](articles/8ae9ca72.json)
-
-[Extended Data](ext_articles/8ae9ca72.ext.json)
 
 ---

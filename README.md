@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 17:35:14**
+As of **2024-04-22 17:54:45**
 
 ## Newspaper Stats
 
-*Scraped **20,255** Articles*
+*Scraped **20,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,28 +15,128 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,690
-tamilmirrorlk | 2,341
-adaderanalk | 2,421
+adalk | 1,691
+tamilmirrorlk | 2,342
+adaderanalk | 2,422
 virakesarilk | 3,025
-dailymirrorlk | 3,156
-adaderanasinhalalk | 3,286
+dailymirrorlk | 3,157
+adaderanasinhalalk | 3,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,254 (100.0%) of 20,255 articles have been extended.
+20,255 (100.0%) of 20,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### Sri Lanka exceeds state revenue target by 6% in first quarter
+### අධිවේගේ පාලම යට අභිරහස් මළ සිරුරක්
+
+*2024-04-22 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195869) · `si`
+
+බණ්ඩාරගම ගැලනිගම අධිවේගී මාර්ග පාලම අසළ තිබී අභිරහස් ලෙස මියගිය පුද්ගලයෙකුගේ මළසිරුරක් හමුවී තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ මරණකරුගේ අනන්‍යතාවය මෙතෙක් අනාවරණය වී නොමැති බවය.
+
+මෘත ශරීරය පශ්චාත් මරණ පරීක්ෂණය සඳහා බණ්ඩාරගම රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර තිබේ.
+
+අඩි 05යි අඟල් 4ක් පමණ උසැති ඔහු තලෙළු පුද්ගලයෙකු බව පොලීසිය පවසයි.
+
+ඔහු උඩු කයට නිල්පාට අත්කොට කමිසයක් සහ තැඹිලි සහ දුඹුරු පැහැයට මිශ්‍ර සරමක් හැඳ සිට ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/faf22b9c.json)
+
+---
+
+### Sri Lanka seeks enhanced ties with Gambia ahead of OIC summit
+
+*2024-04-22 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-enhanced-ties-with-Gambia-ahead-of-OIC-summit/108-281166) · `en`
+
+Ahead  of the forthcoming Organization of the Islamic Cooporation (OIC) summit, slated to be hosted by Gambia in early May, Sri Lankan Envoy to Kenya, Kana Kananathan engaged in bilateral discussions with Dr. Mamadou Tangara, the Foreign Minister of Gambia.
+
+The discussions centered on fortifying the bonds between Sri Lanka and African nations, emphasizing collaboration and solidarity among African countries.
+
+Ambassador Kananathan reiterated Sri Lanka's unwavering commitment to being a steadfast ally to Africa.
+
+Expressing gratitude for Gambia's longstanding support for Sri Lanka in international arenas, Kananathan underscored the importance of sustained cooperation between the two nations across diverse multilateral platforms.
+
+The upcoming OIC summit, to be convened in Gambia, promises significant participation from heads of state representing OIC member countries, providing a crucial forum for dialogue and collaboration on pertinent issues facing the Islamic world.
+
+...
+
+[Data](articles/efd44f83.json)
+
+---
+
+### Air Asia, FITS, Hayleys bid for SriLankan Airlines
+
+*2024-04-22 17:32:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
+
+ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
+
+Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
+
+International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
+
+◼️
+
+[Data](articles/7fddf6ba.json)
+
+[Extended Data](ext_articles/7fddf6ba.ext.json)
+
+---
+
+### President calls on Chief Prelates of Malwatu and Asgiri chapters
+
+*2024-04-22 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98778/president-calls-on-chief-prelates-of-malwatu-and-asgiri-chapters) · `en`
+
+President Ranil Wickremesinghe called on the Chief Prelates of the Malwathu and Asgiri Chapters yesterday (21) to seek their blessings.
+
+First, President Ranil Wickremesinghe visited the Malwathu Maha Viharaya and paid his respects to the Chief Prelate of the Malwathu Chapter, Most Ven. Thibbatuwawe Sri Sumangala Nayaka Thera, followed by a brief discussion. The Anunayake of the Malwathu Chapter,
+
+Most Venerable Dimbulkumbure Vimaladhamma Thera, was also present, and together they chanted Seth Pirith and blessed the President.
+
+Thereafter, President Ranil Wickremesinghe preceded to the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Thera, and engaged in a brief discussion.
+
+During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Muthiyangana Raja Maha Vihara, Ven. Murundeniye Dhammarathana Thera recited Seth Pirith and invoked blessings upon the President.
+
+◼️
+
+[Data](articles/dcf4e6e0.json)
+
+---
+
+### බත්තරමුල්ලේ ලැඟුම්හළකින් මතුවූ අයිස්
+
+*2024-04-22 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195868) · `si`
+
+බත්තරමුල්ල ප්‍රදේශයේ ලැඟුම්හළකදී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 650ක් සමග සැකකරුවන් 5ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති අයිස් මත්ද්‍රව්‍යවල වටිනාකම රුපියල් එක්කෝටි දාහතර ලක්ෂයකට ආසන්න බවට වාර්තා වෙයි.
+
+අත්අඩංගුවට ගත් පිරිස අතර කාන්තාවන් දෙදෙනෙකු ද සිටින අතර ඔවුන් මීගමුව සහ කටාන ප්‍රදේශවල පදිංචිකාරිනියන් බවට අනාවරණය වී තිබේ.
+
+සෙසු සැකකරුවන් තිදෙනා කොළඹ සහ ඇඹිලිපිටිය යන ප්‍රදේශවල පදිංචිකරුවන්බවට අනාවරණය වී තිබේ.
+
+යුද හමුදා බුද්ධි අංශයට ලද තොරතුරකට අනුව බත්තරමුල්ල ප්‍රදේශයේ ලැඟුම්හළක සිදුකළ වැටලීමකදී එම මත්ද්‍රව්‍ය සමග සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් සහ මත්ද්‍රව්‍ය වැඩිදුර විමර්ශන කටයුතු සඳහා තලංගම පොලීසිය වෙත භාරදීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/96bd3151.json)
+
+---
+
+### Sri Lanka exceeds tax revenue target by 6% in first quarter
 
 *2024-04-22 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exceeds-state-revenue-target-by-6-in-first-quarter-159718/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded the state revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
+ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded tax revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
 
 “After many years of difficult challenges, it has been possible to exceed the expected state revenue in the first quarter of 2024,” he said in a statement.
 
@@ -44,7 +144,7 @@ The government expects a revenue collection of 4,106 billion rupees in 2024.
 
 “The reason for the economic crisis in the past period was the reduction in the level of government revenue. Considering the achievement of higher than the target in the first quarter of this year and the revenue pattern, the 2024 will become a year in which the revenue targets can be achieved,” he said.
 
-The three revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
+The three tax revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
 
 ...
 
@@ -73,24 +173,6 @@ The indictment has been filed against an Indian national who owns a cricket team
 [Data](articles/564f79fc.json)
 
 [Extended Data](ext_articles/564f79fc.ext.json)
-
----
-
-### Malaysia’s Air Asia, Sri Lanka’s FITS, Hayleys bid for SriLankan
-
-*2024-04-22 16:39:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
-
-ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
-
-Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
-
-International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
-
-◼️
-
-[Data](articles/7fddf6ba.json)
-
-[Extended Data](ext_articles/7fddf6ba.ext.json)
 
 ---
 
@@ -127,6 +209,22 @@ The message, which has been circulating widely, claims that the Rotary Club Colo
 [Data](articles/1619115b.json)
 
 [Extended Data](ext_articles/1619115b.ext.json)
+
+---
+
+### இறுதி திகதி நீடிப்பு
+
+*2024-04-22 16:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-திகதி-நீடிப்பு/175-336199) · `ta`
+
+பிறப்புச் சான்றிதழ் இல்லாத காரணத்தால் இதுவரை தேசிய அடையாள அட்டையைப் பெற முடியாத 40 வயதுக்கு மேற்பட்டவர்களுக்கு அதனை பெற்றுக் கொள்ள வாய்ப்பு வழங்கப்பட்டுள்ளது.
+
+அதற்கமைய, 40 வயதுக்கு மேற்பட்டவர்கள் தேசிய அடையாள அட்டைக்கு விண்ணப்பிப்பதற்கான இறுதி திகதி எதிர்வரும் ஜூன் 30 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளதாக ஆட்பதிவு திணைக்களம் தெரிவித்துள்ளது. விண்ணபிப்பதற்கான இறுதி நாளாக கடந்த 31 ஆம் திகதி என அறிவிக்கப்பட்டிருந்தது.
+
+எனினும், பிரதேச செயலாளர்களின் வேண்டுகோளுக்கு இணங்க ஜூன் மாதம் 30 ஆம் திகதி வரை அதனை நீடித்துள்ளதாக, ஆட்பதிவு ஆணையாளர் நாயகம் ஜி.பிரதீப் சபுதந்திரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/1a5a34dc.json)
 
 ---
 
@@ -264,17 +362,23 @@ However, in February, 2024, the inflation was reported in March 2024.
 
 ---
 
-### කැලනි ගඟේ සිටි ඔහු හඳුනනවාද ?
+### Does he know him in the Kelani River?
 
 *2024-04-22 15:34:49* · [`adalk`](https://www.ada.lk/breaking_news/කැලනි-ගඟේ-සිටි-ඔහු-හඳුනනවාද--/11-409205) · `si`
 
-පෑලියගොඩ පොලිස් වසමට අයත් ප්‍රදේශයකදී කැලනි ගඟේ තිබී නාඳුනන පිරිමි මෘත ශරීරයක් පොලසිය විසින් සොයාගත් බවට වාරථාවෙයි.
+A body found in Kelani River, Peliyagoda, is unidentified due to age, height, and unrecognizable face.
 
-මරණකරුගේ අනන්‍යතාව මේවනතෙක්  තහවුරු වී නොමැති අතර අවුරුදු 45ත් 50 ත් වන අතර උස අඩි 05 යි අඟල් 04 ක් පමණ වන අතර උඩුකයට අළුපාට අත්කොට කමිසයක්ද යටිකයට ලාකොළ පාට හා කහපාට කොටු සහිත සරමක්ද ඇඳ සිටි ඇති අතර මුහුණ හඳුනා ගත නොහැකි තරම් විරූපී වී ඇති බව පොලිසීය පවසයි.
+🟩
+
+It is reported that the corpse of a body found in the Kelani River in the Peliyagoda Police Division area.
+
+The demise of the deceased has not been confirmed and is about 55 and 50 feet tall and a shirt is like a shirt and the face is too unforms and the face is too unreasonable to be identified..
 
 ◼️
 
 [Data](articles/c54ac22d.json)
+
+[Extended Data](ext_articles/c54ac22d.ext.json)
 
 ---
 
@@ -963,6 +1067,22 @@ He was referring to a controversial decision by one faction of the SLFP appointi
 [Data](articles/5f53cb68.json)
 
 [Extended Data](ext_articles/5f53cb68.ext.json)
+
+---
+
+### ඉරාන ජනපති 24 දා එයි
+
+*2024-04-22 12:42:19* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-24-දා-එයි/11-409203) · `si`
+
+උමාඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ඇතුළු ඉරාන ණය ආධාර යටතේ ක්‍රියාත්මක වූ සංවර්ධන ව්‍යාපෘති කිහිපයක් ජනතා අයිතියට පත්කිරීමේ අවස්ථාවට එක්වීමට ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා එළැඹෙන 24 දා දිවයිනට පැමිණීමට නියමිතය.
+
+මෙම සංචාරය අතර තුළදී ඉරාන ජනපතිවරයා ‌ජනපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජයේ ඉහළ පෙලේ නියෝජිතයන් සමග සාකච්ඡා පැවැත්වීමටද නියමිතව තිබේ.
+
+ඉරානය හා ඊශ්‍රා යෙලය අතර පවතින සීතල යුද්ධය හේතුවෙන් ඉරාන ජනපතිවරයාගේ ශ්‍රී ලංකා සංචාරය අවිනිශ්චිත තත්ත්වයක පැවැතුණි.
+
+◼️
+
+[Data](articles/1b951af0.json)
 
 ---
 
@@ -2105,141 +2225,5 @@ They said Bandara was 63 years old at the time of his death.
 [Data](articles/27e3cf9f.json)
 
 [Extended Data](ext_articles/27e3cf9f.ext.json)
-
----
-
-### The president's foreign trips are coming to the congregation
-
-*2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயணங்கள்-சபைக்கு-வருகின்றது/175-336161) · `ta`
-
-President Ranil Wickremesinghe's foreign trips are under scrutiny. Parliament will discuss government expenses on these trips tomorrow. Questions include foreign leaders met, diplomatic agreements, and separate payments for delegates. Jayantha Samaraweera, a Kalutara District Council Member, has raised these concerns with Prime Minister Dinesh Gunawardena.
-
-🟩
-
-The parliamentary agenda, which is scheduled to take place tomorrow (24th), is about the government's expenses for foreign trips that will be attended by President Ranil Wickremesinghe as President.
-
-The foreign trips that the president has participated so far has been questioned about foreign leaders who have met every trip.
-
-In addition, they have been asked about diplomatic agreements and agreement with them.
-
-Also, the delegation who participated with the president on every overseas trip is requested to pay separately and the amount spent on it.
-
-Kalutara District Council Member Jayantha Samaraweera has posted this question to Prime Minister Dinesh Gunawardena.. Remble
-
-◼️
-
-[Data](articles/daaadb10.json)
-
-[Extended Data](ext_articles/daaadb10.ext.json)
-
----
-
-### The president's foreign travel details come
-
-*2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயண-விபரங்கள்-வருகின்றன/175-336161) · `ta`
-
-The parliamentary agenda tomorrow focuses on President Ranil Wickremesinghe's foreign travel expenses, including details on foreign leaders met and diplomatic agreements. Jayantha Samaraweera questions the separate payment for the delegation accompanying the president.
-
-🟩
-
-The parliamentary agenda, which is scheduled to take place tomorrow (24th), is about the government's expenses for foreign trips that will be attended by President Ranil Wickremesinghe as President.
-
-The foreign trips that the president has participated so far has been questioned about foreign leaders who have met every trip.
-
-In addition, they have been asked about diplomatic agreements and agreement with them.
-
-Also, the delegation who participated with the president on every overseas trip is requested to pay separately and the amount spent on it.
-
-Kalutara District Council Member Jayantha Samaraweera has posted this question to Prime Minister Dinesh Gunawardena.. Remble
-
-◼️
-
-[Data](articles/fc298d81.json)
-
-[Extended Data](ext_articles/fc298d81.ext.json)
-
----
-
-### Showers around the country after 2 p.m
-
-*2024-04-22 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-around-the-country-after-2-p-m/108-281128) · `en`
-
-Colombo, April 22 (Daily Mirror) - Showers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces and in the Galle, Matara and Anuradhapura districts after 2.00 p.m, the forecasting division of the National Meteorological Centre said.
-
-They said showers or thundershowers may occur at a few places in the Uva and Northern Provinces and in the Polonnaruwa district during the afternoon or night.
-
-Meanwhile, showers will occur in the western coastal areas during the morning too.
-
-Misty conditions can be expected at some places in the Sabaragamuwa, Central and Uva Provinces and in the Ampara district during the morning.
-
-◼️
-
-[Data](articles/4768094b.json)
-
-[Extended Data](ext_articles/4768094b.ext.json)
-
----
-
-### Showers across the country after 2 p.m
-
-*2024-04-22 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-across-the-country-after-2-p-m/108-281128) · `en`
-
-Colombo, April 22 (Daily Mirror) - Showers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces and in the Galle, Matara and Anuradhapura districts after 2.00 p.m, the forecasting division of the National Meteorological Centre said.
-
-They said showers or thundershowers may occur at a few places in the Uva and Northern Provinces and in the Polonnaruwa district during the afternoon or night.
-
-Meanwhile, showers will occur in the western coastal areas during the morning too.
-
-Misty conditions can be expected at some places in the Sabaragamuwa, Central and Uva Provinces and in the Ampara district during the morning.
-
-◼️
-
-[Data](articles/f485cf4d.json)
-
-[Extended Data](ext_articles/f485cf4d.ext.json)
-
----
-
-### Lock for liquor schools
-
-*2024-04-22 08:27:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-336160) · `ta`
-
-Liquor schools closed May 22-24 for Vesak Week.
-
-🟩
-
-Also, the Vesak Week has been declared as a week from May 21 to 27, and the liquor schools will be closed on the 22nd, 23rd and 24th of the month of the Vesak festival.. Remble
-
-◼️
-
-[Data](articles/836d31b0.json)
-
-[Extended Data](ext_articles/836d31b0.ext.json)
-
----
-
-### Sri Lanka expects to finish Adani wind power price talks by May
-
-*2024-04-22 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-to-finish-adani-wind-power-price-talks-by-may-159641/) · `en`
-
-ECONOMYNEXT- Sri Lanka hopes to conclude hopes to conclude price negotiations for the wind power plant by India’s Adani group by May, Minister of Power and Energy, Kanchana Wijesekara said.
-
-A Cabinet Appointed Procurement Committee and Technical Evaluation Committee are working on the matter.
-
-“There are certain parameters that they are negotiating,” he told reporters in Colombo.
-
-“But I am hopeful that there will be a decision by the Cabinet Appointed Procurement Committee and the TEC and with the Adani group. May be by May we hope to conclude the negotiations.”
-
-The last discussed price for a unit of electricity from the plants to be set up in Mannar and Pooneryn was 8.85 US cents, which was lowered from the original proposal.
-
-Sri Lanka’s Adani wind power price lowered to 8.85 cents: Minister
-
-Indian Adani Group says “vicious campaign” against its Sri Lanka wind project
-
-...
-
-[Data](articles/d0307338.json)
-
-[Extended Data](ext_articles/d0307338.ext.json)
 
 ---

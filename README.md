@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 13:53:23**
+As of **2024-04-22 14:04:30**
 
 ## Newspaper Stats
 
-*Scraped **20,211** Articles*
+*Scraped **20,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,686
-tamilmirrorlk | 2,334
-adaderanalk | 2,417
+tamilmirrorlk | 2,335
+adaderanalk | 2,418
 virakesarilk | 3,018
 dailymirrorlk | 3,147
 adaderanasinhalalk | 3,283
@@ -26,11 +26,41 @@ adaderanasinhalalk | 3,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,211 (100.0%) of 20,211 articles have been extended.
+20,211 (100.0%) of 20,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Foxhill அனர்த்தம்: 2 சாரதிகளுக்கு விளக்கமறியல்
+
+*2024-04-22 13:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-விளக்கமறியல்/175-336186) · `ta`
+
+தியத்தலாவ நரியகந்தவில் இடம்பெற்ற “Foxhill Super Cross Race” கார் விபத்து தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட வாகன சாரதிகள் இருவரையும் எதிர்வரும் 30ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பண்டாரவளை நீதவான்  அன்டனி எஸ்.பீட்டர் ஃபால்ல் , திங்கட்கிழமை (22) உத்தரவிட்டார்.
+
+தியத்தலாவ நர்யகந்த ஃபோக்ஸ்ஹில் மோட்டார் பந்தயத்தில் கலந்து கொண்டு பந்தய இலக்கம் 5-ன் கீழ் போட்டியிட்ட மாத்தறை மெதபாறை ஹித்தெட்டிய பிரதேசத்தை சேர்ந்த ரஞ்சித் உடுவிட்ட (36), பந்தய இலக்கத்தின் கீழ் போட்டியிட்ட பேராதனை மாகந்த பிரதேசத்தை சேர்ந்த ஏ.எம்.டிலான் சஞ்சீவ (47)  போட்டி இலக்கம் 196 ஆகிய இருவரே இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/c67a51be.json)
+
+---
+
+### ‘Fox Hill’ crash: Organisers evade responsibility, blame shifted to spectators
+
+*2024-04-22 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98774/fox-hill-crash-organisers-evade-responsibility-blame-shifted-to-spectators) · `en`
+
+The organisers of the ‘Fox Hill Super Cross 2024’ motorsport racing event claim that they had assured the safety of the spectators at the event and that yesterday’s tragic accident was caused by the carelessness of the spectators themselves.
+
+Speaking during a press conference held today (22), regarding the horror crash which resulted the death of 07 individuals and left 23 others injured during a racing event, the organisers of the event said that safe areas which are elevated from the tracks had been established for the spectators.
+
+In response to a question raised by a journalist regarding their guarantee to the spectators of the event, an organizer said: “Fox Hill has a huge area for normal spectators around the pine tree corner. We have a grand stand and also the normal ticket and high-priced ticket viewing area.”
+
+...
+
+[Data](articles/d63115c9.json)
+
+---
 
 ### An order preventing 112 luxury cars
 
@@ -2175,37 +2205,5 @@ Illuminate ’24 serves as a valuable platform for these students to gain insigh
 [Data](articles/09b1f38d.json)
 
 [Extended Data](ext_articles/09b1f38d.ext.json)
-
----
-
-### Huawei announces several initiatives for 2024 at Huawei Talent Summit
-
-*2024-04-22 01:40:44* · [`dailyftlk`](https://www.ft.lk/business/Huawei-announces-several-initiatives-for-2024-at-Huawei-Talent-Summit/34-760873) · `en`
-
-During MWC Barcelona 2024, Huawei held the Huawei Talent Summit and made announcements relevant to several talent development initiatives, including: the launch of the applications for the global ITU-Huawei Generation Connect Young Leadership Program; the announcement that the joint project between Huawei and UNESCO’s Institute for Lifelong Learning (UIL) will be implemented in Morocco; and Huawei Cloud’s startups program.
-
-The theme of the event was “I C Talent: Nurturing Excellence in a Digital World”. Attendees included representatives from international organisations like ITU and UNESCO, government officials from Greece, Kenya, and Mexico, female industry leaders, entrepreneurs participating in the Huawei Cloud Startup Program, and participants in Seeds for the Future and several top competitions.
-
-...
-
-[Data](articles/c5f01759.json)
-
-[Extended Data](ext_articles/c5f01759.ext.json)
-
----
-
-### Browns signs pioneering Industrial Digitalisation MoU with Sri Jayewardenepura Uni.
-
-*2024-04-22 01:39:03* · [`dailyftlk`](https://www.ft.lk/business/Browns-signs-pioneering-Industrial-Digitalisation-MoU-with-Sri-Jayewardenepura-Uni/34-760872) · `en`
-
-Brown & Company Director/CEO Sanakan Thamotharampillai (left) and University of Sri Jayewardenepura Dean of Faculty of Engineering Dr. Nishan Dharmaweera exchange the MoU. Others (from left): Brown & Company Lead – IoT Solutions Sithija Rathnayake, Senior Automation Engineer Ashane Senevirathne, Team Lead – IoT Solutions Pubudu Dharmathilake, Tech Lead Chathura Edirisinghe, Senior Manager – Digital Transformation Nadeesha De Jeodth, Head of IT Prasanna Ganegoda, University of Sri Jayewardenepura HOD of Faculty of Computer Engineering Dr. Udaya Wijenayake, and HOD of Faculty of Engineering Dr. Uditha Wijewardhana
-
-Brown & Company’s Digital Transformation Solutions Strategic Business Unit recently signed a path-breaking Memorandum of Understanding (MoU) with the University of Sri Jayewardenepura.
-
-...
-
-[Data](articles/c16a84c3.json)
-
-[Extended Data](ext_articles/c16a84c3.ext.json)
 
 ---

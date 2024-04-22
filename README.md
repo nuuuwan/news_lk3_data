@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 22:50:52**
+As of **2024-04-22 23:03:47**
 
 ## Newspaper Stats
 
-*Scraped **20,292** Articles*
+*Scraped **20,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 1,112
 economynextcom | 1,157
 adalk | 1,698
 tamilmirrorlk | 2,343
-adaderanalk | 2,427
+adaderanalk | 2,428
 virakesarilk | 3,031
 dailymirrorlk | 3,161
-adaderanasinhalalk | 3,296
+adaderanasinhalalk | 3,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,290 (100.0%) of 20,292 articles have been extended.
+20,292 (100.0%) of 20,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Presidential Secretariat issues clarification on rice stocks released for school meals program
+
+*2024-04-22 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98784/presidential-secretariat-issues-clarification-on-rice-stocks-released-for-school-meals-program) · `en`
+
+The Veyangoda warehouse complex has only issued rice stocks deemed suitable for human consumption by the expert committee appointed by the Gampaha Divisional Health Services Director for distribution in the school meal program, says the Presidential Secretariat.
+
+The committee has provided relevant recommendations relying on analytical reports from the Government Analyst’s Department and the Medical Research Institute, it said issuing a statement.
+
+This comes after the Public Health Inspectors’ Union (PHIU) alleged, earlier today, that the stocks of rice stored in a government warehouse in the Veyangoda area, which was to be used in the meals program for schoolchildren, have been found to be substandard and have become unfit for consumption due to insect damage.
+
+It was reported that the rice stocks in question were set to be used in the school meals program implemented in collaboration with the World Food Programme (WFP), to provide free nutritious lunches for schoolchildren.
+
+...
+
+[Data](articles/edef48cc.json)
+
+---
+
+### මේ පිරමීඩාකාර ආයතන සහ යෙදවුම් ගැන ඔබ දැන සිටියා ද ?
+
+*2024-04-22 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195878) · `si`
+
+පිරමීඩාකාර ක්‍රියාකාරකම්වල යෙදෙන බවට හඳුනාගත් තවත් ආයතන සහ යෙදවුම් 8ක් පිළිබඳව ශ්‍රී ලංකා මහ බැංකුව නිවේදනයක් නිකුත් කර තිබේ.
+
+අදාළ ආයතන සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කරන මෙන් නීතිපතිවරයාගෙන් ඉල්ලීම් කර ඇති බවද මහ බැංකුව එම නිවේදනයෙන් සඳහන් කරයි.
+
+තමන් වෙත ලැබුණු පැමිණිලිවලට අනුව සිදුකළ විමර්ශනවලදී ආයතන සහ යෙදවුම් 8ක් මහ බැංකු පනතේ 83 ඇ වගන්තිය උල්ලංඝනය කරමින් තහනම් යෝජනා ක්‍රම ක්‍රියාත්මක කර ඇති බවට හඳුනාගෙන ඇතැයි නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ඒ යටතේ Beecoin App/Sunbird Foundation , Fast Win pvt ltd , Fruugo Oline App /Fruugo Oline pvt ltd ,Genesis Business School /Era Miracle pvt ltf ,Isimaga International pvt ltd,Ledger Block,Qnet/Questnet සහ Ride to Three Freedom pvt ltd යන ආයතන සහ යෙදවුම් එලෙස මහ බැංකු පනතේ වගන්ති උල්ලංඝනය කරමින් පිරමිඩාකාර ව්‍යාපාර සිදුකළ බවට තොරතුරු ලැබී ඇති බව එම නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/dd280c83.json)
+
+---
 
 ### Three, including a boy, from Sri Lanka reach India on fibre boat
 
@@ -48,31 +84,43 @@ An officer at the rehabilitation centre said that with the entry of the three pe
 
 [Data](articles/fe825caa.json)
 
+[Extended Data](ext_articles/fe825caa.ext.json)
+
 ---
 
-### අතරමං වූ මවකට පිහිට වූ දෙවිවරු වන් මිනිස්සු
+### The gods found for a lost mother
 
 *2024-04-22 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195877) · `si`
 
-මහමග අතරමංව සිටි වයෝවෘද කාන්තාවක් යළි ඇයගේ නිවස වෙත භාරදීමට කාසි වත්ත ප්‍රදේශයේ ජනතාව සහ බඩල්ගම පොලීසිය කටයුතු කර තිබේ.
+The gods found a lost 90-year-old woman in Mahamin, Thammea, after she was reported missing in Kassiwatta. The Badalgama Police, with the help of locals, located her in Thammei.
 
-මෙම සිදුවීමට මුහුණදී ඇත්තේ තම්මිට ප්‍රදේශයේ පදිංචිව සිටින වයස අවුරුදු 90ක පමණ වයෝවෘද කාන්තාවකි.
+🟩
 
-එම කාන්තාව බඩල්ගම කාසිවත්ත ප්‍රදේශයේ සැරිසරමින් සිටියදී ප්‍රදේශවාසීන් ඇය පිළිබඳව බඩල්ගම පොලීසියට දැනුවත් කර ඇත.
+People and the Badalgama Police have taken measures to hand over a long-standing woman in the Mahamin.
 
-අනතුරුව බඩල්ගම පොලීසියේ නිලධාරීන් පැමිණ එම කාන්තාව පොලිස් ස්ථානය වෙත රැගෙන යාමට පියවර ගෙන ඇති බව පොලීසිය පවසයි.
+The event is a 90-year-old woman living in Thammea.
 
-ඇය එහිදී ප්‍රකාශ කර ඇත්තේ තමන් කෑගල්ල ප්‍රදේශයේ සිට එම ප්‍රදේශයට පැමිණි බවය.
+The woman had informed the Badalgama police regarding her when she was resloring in the Kassiwatta area in Badalgama.
 
-පසුව බඩල්ගම පොලිස් ස්ථානාධිපතිවරයා අදාළ නිලධාරීන් වෙත පවසා ඇත්තේ එම කාන්තාව මීට පෙර එම ප්‍රදේශයේදීම තමන් දුටු බවය.
+The officers of the Badalgama police have come to the police station.
 
-එදින පොලිස් ස්ථානාධිපති ජයන්ත මහතා වෙනත් රාජකාරී කටයුත්තක් සඳහා දිවුලපිටිය පොලිස් බලප්‍රදේශය හරහා ගමන් කරමින් සිටියදී කෙහෙල්ඇල්ල තම්මිට ප්‍රදේශයේදී මෙම කාන්තාව මාර්ගයේ ඇවිද එන අයුරු දැක ඇත.
+She had stated that he returned from the Kegalle area.
 
-ඒ අනුව පොලිස් ස්ථානාධිපති ජයන්ත මහතා තමන් අදාළ කාන්තාව දුටු ප්‍රදේශය ආශ්‍රිතව සිදුකළ සෝදිසි කිරීමකදී තම්මිට ප්‍රදේශයේ පිහිටි නිවසක අදාළ කාන්තාව වාසය කර ඇති බවට තොරතුරු අනාවරණය කරගෙන ඇත.
+Later, the OIC of the Badalgama has told the officers that the woman had seen in the same area before.
 
-...
+The woman was seen by the OIC Jayantha on the road to another duties in the Pulapitiya Police area.
+
+The OIC Jayantha has revealed that the woman in a house in Thammea has lived in a house in Thammei, Thammei area.
+
+Accordingly, the police had taken the woman to his home.
+
+It was revealed that the residents had been looking for two days and that she was suffering from the condition of the illness.
+
+◼️
 
 [Data](articles/25472f1e.json)
+
+[Extended Data](ext_articles/25472f1e.ext.json)
 
 ---
 
@@ -2062,7 +2110,9 @@ Since then, the people continue to fight in front of the Divisional Secretariat 
 
 *2024-04-22 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98771/rice-stocks-for-school-meals-program-found-to-be-substandard-phis-allege) · `en`
 
-The stocks of rice stored in a government warehouse in the Veyangoda area, which was to be used in the meals program for schoolchildren, have been found to be substandard, the Public Health Inspectors’ Union alleges.President of the association, Upul Rohana stated that the relevant rice stocks have become unfit for consumption due to insect damage.
+The stocks of rice stored in a government warehouse in the Veyangoda area, which was to be used in the meals program for schoolchildren, have been found to be substandard, the Public Health Inspectors’ Union alleges.
+
+President of the association, Upul Rohana stated that the relevant rice stocks have become unfit for consumption due to insect damage.
 
 It was reported that the rice stocks in question were set to be used in the school meals program implemented in collaboration with the World Food Programme (WFP), to provide free nutritious lunches for schoolchildren.
 
@@ -2211,49 +2261,5 @@ CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Securi
 [Data](articles/28b57441.json)
 
 [Extended Data](ext_articles/28b57441.ext.json)
-
----
-
-### Four people arrested in search of tiger gold
-
-*2024-04-22 11:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலி-தங்கம்-தேடிய-நால்வர்-கைது/175-336176) · `ta`
-
-Four, including a navy soldier and police sergeant, arrested for allegedly digging up LTTE buried gold and money near Chilawathurai police station.
-
-🟩
-
-Four persons, including a navy person and a police sergeant, have been arrested on suspicion of dug up money and gold jewelery, allegedly buried by the LTTE at the Chilawathurai police station.
-
-Four persons, including Navy soldier and police sergeant of the Criminal Investigation Division (CID), belonging to the Anuradhapura Police Division, have been arrested by the Navy.
-
-The vehicle, which was parked near where the suspects had arrived, was seized by the police for further investigations.
-
-The arrested suspects are from Naula, Meniktana and Anuradhapura, aged 30-38. During police investigations, one of the suspects was identified as a driver and the other was a worker.
-
-◼️
-
-[Data](articles/7f511fe4.json)
-
-[Extended Data](ext_articles/7f511fe4.ext.json)
-
----
-
-### Two racing drivers arrested over Fox Hill tragedy
-
-*2024-04-22 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Two-racing-drivers-arrested-over-Fox-Hill-tragedy/155-281154) · `en`
-
-Diyathalawa, April 22 (Daily Mirror)- Two racing drivers who participated in yesterday's Fox Hill Super Cross 2024 racing event have been arrested by the police over the accident which killed seven people.
-
-The arrested are a 36-year-old racer from Matara and 47-year-old from Mahakanda, Peradeniya.
-
-They have also sustained injuries due to the accident and are under treatment at the Diyathalawa Hospital under police security.
-
-Seven individuals including an eight-year-old child were killed and 20 others hospitalized with injuries when two racing cars lost control and collided with a group of spectators.
-
-◼️
-
-[Data](articles/2da6c82f.json)
-
-[Extended Data](ext_articles/2da6c82f.ext.json)
 
 ---

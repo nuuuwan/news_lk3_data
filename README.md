@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 00:18:28**
+As of **2024-04-23 00:33:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,307 (100.0%) of 20,309 articles have been extended.
+20,309 (100.0%) of 20,309 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ He had been famous for what many described to be stunts or antiques, but he alwa
 ...
 
 [Data](articles/37c9b1a8.json)
+
+[Extended Data](ext_articles/37c9b1a8.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ The other parties in the coalition such as the Maldives National Party (MNP) and
 ...
 
 [Data](articles/ad40ac6e.json)
+
+[Extended Data](ext_articles/ad40ac6e.ext.json)
 
 ---
 

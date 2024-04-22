@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 14:52:07**
+As of **2024-04-22 15:03:33**
 
 ## Newspaper Stats
 
-*Scraped **20,221** Articles*
+*Scraped **20,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,687
 tamilmirrorlk | 2,336
-adaderanalk | 2,418
-virakesarilk | 3,021
+adaderanalk | 2,419
+virakesarilk | 3,022
 dailymirrorlk | 3,150
 adaderanasinhalalk | 3,283
 
@@ -26,29 +26,77 @@ adaderanasinhalalk | 3,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,216 (100.0%) of 20,221 articles have been extended.
+20,221 (100.0%) of 20,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### வைத்தியசாலையில் கர்ப்பிணித்தாயும் சிசுவும் பலி ; வவுனியாவில் சோகம்
+### நுவரெலியாவில் ஆட்பதிவு திணைக்கள அலுவலகம் திறப்பு
+
+*2024-04-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181664) · `ta`
+
+நுவரெலியா மாவட்ட மக்களின் நன்மை கருதி ஜனாதிபதியின் ஆலோசனைக்கு அமைவாக  நுவரெலியா மாவட்ட ஆட்பதிவுத் திணைக்களத்தின் காரியாலயம் இன்று திங்கட்கிழமை (22) நுவரெலியா இலக்கம் 95/26 A, லேடி மெக்லம் வீதி ஹாவஎலிய என்ற புதிய விலாசத்திலுள்ள பகுதியில் பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் திறந்து வைத்தார்.
+
+மத்திய மாகாணத்தை உள்ளடக்கும் விதத்தில் நுவரெலியாவில் குறித்த  அலுவலகம் திறக்கப்படுகிறது. மேலும், சாதாரண சேவையூடாக தேசிய அடையாள அட்டைகளை பெறுவதற்கான அனைத்து வசதிகள் செய்யப்பட்டுள்ளன. வெகு விரைவில் ஒருநாள் சேவை ஆரம்பிக்கப்படுமெனவும் ஆட்பதிவு திணைக்களம் தெரிவித்தது.
+
+குறித்த நிகழ்வில் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர்களான வேலுசாமி இராதாகிருஸ்ணன் சீ.பி.ரட்ணாயக்க மருதுபாண்டி ராமேஸ்வரன் மற்றும் அரச திணைக்கள அதிகாரிகளும்  கலந்து கொண்டனர்.
+
+கடந்த காலங்களில் நுவரெலியா மாவட்ட மக்கள், அடையாள அட்டையை பெற்றுக் கொள்வதற்காக கொழும்புக்கு சென்று வர வேண்டிய நிலைமை இருந்தது. ஆனால் தற்பொழுது இந்த மாவட்ட  காரியாலயம் திறக்கப்படுவதன் மூலமாக அந்த பிரச்சினை தீர்த்து வைக்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8d0ea173.json)
+
+---
+
+### Pro-China party wins Maldives election in landslide, media say
+
+*2024-04-22 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98775/pro-china-party-wins-maldives-election-in-landslide-media-say) · `en`
+
+Maldives voters handed President Mohamed Muizzu’s party a landslide win at parlimentary elections, media said on Monday, an outcome set to shift the Indian Ocean archipelago closer to China and away from traditional partner India.
+
+Muizzu’s People’s National Congress (PNC) won 65 of the 93 seats up for grabs on Sunday, preliminary results from the Maldives Elections Commission and media projections show.
+
+The main opposition Maldives Democratic Party (MDP) dwindled to just 12 seats from 65 earlier.
+
+Both Beijing and New Delhi have wooed the Maldives as they vie for influence in the Indo-Pacific region.
+
+Elected last year, Muizzu has pledged to end the country’s “India First” policy, straining ties with New Delhi.
+
+His government has asked dozens of Indian military personnel to leave the Maldives, a move critics say could hasten its shift towards China.
+
+Muizzu’s post as president is not affected by Sunday’s vote, in which 368 candidates contested for five-year terms.
+
+◼️
+
+[Data](articles/5a00e453.json)
+
+---
+
+### Pregnant and fetus in the hospital;Tragedy in Vavuniya
 
 *2024-04-22 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181662) · `ta`
 
-வவுனியா வைத்தியசாலையின் விடுதியில் அனுமதிக்கப்பட்டிருந்த  கர்ப்பிணித்தாய் குளியலறையில் தவறி வீழ்ந்து உயிரிழந்துள்ளதுடன், அவரது வயிற்றில் இருந்த சிசுவும் மரணமடைந்துள்ளது.
+A pregnant woman from Madhavachi died at Vavuniya Hospital, and her fetus in utero also died.
 
-மதவாச்சி பகுதியைச் சேர்ந்த நிறைமாத  கர்ப்பிணித்தாய் ஒருவர் வவுனியா வைத்தியசாலையின் விடுதியில் அனுமதிக்கப்பட்டிருந்தார்.
+🟩
 
-அவர் இன்று திங்கட்கிழமை (22) விடுதியில் உள்ள குளியலறைக்கு சென்றநிலையில் தவறி வீழ்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதனால் அவர் மரணமடைந்துள்ளார்.
+A pregnant woman who was admitted to the Vavuniya Hospital has died in the bathroom and the fetus in his stomach has died.
 
-இதனையடுத்து, அவர் மீட்கப்பட்டு அவரது வயிற்றில் உள்ள குழந்தையை காப்பாற்றுவதற்கான சத்திரசிகிச்சையினை வைத்தியர்கள் மேற்கொண்டுள்ளனர்.எனினும் வயிற்றில் இருந்த சிசுவும் உயிரிழந்துள்ளது.
+A pregnant woman from Madhavachi area was admitted to the Vavuniya Hospital.
 
-குறித்த சம்பவம் தொடர்பாக அறிவதற்காக வவுனியா வைத்தியசாலை பணிப்பாளரை தொலைபேசியில் தொடர்பு கொண்ட போதும் அது பலனளிக்கவில்லை.
+It is reported that he fell into the bathroom at the hotel today (22). He has thus died.
+
+Subsequently, doctors have been rescued and surgery to save the baby in his stomach. However, the baby in the stomach has died.
+
+The Vavuniya Hospital Director telephoned the hospital to learn about the incident.
 
 ◼️
 
 [Data](articles/9b489b5c.json)
+
+[Extended Data](ext_articles/9b489b5c.ext.json)
 
 ---
 
@@ -90,6 +138,8 @@ He said as such, Minister Rajapakshe could lose his party membership and thereby
 
 [Data](articles/9a6f76e2.json)
 
+[Extended Data](ext_articles/9a6f76e2.ext.json)
+
 ---
 
 ### 71% cultivated land damaged in 2023–24 Maha season
@@ -109,6 +159,8 @@ However, in April, vegetable and fruit cultivation has improved once again and t
 ...
 
 [Data](articles/6a8aa21e.json)
+
+[Extended Data](ext_articles/6a8aa21e.ext.json)
 
 ---
 
@@ -154,15 +206,21 @@ In response to a question raised by a journalist regarding their guarantee to th
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-22 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181659) · `ta`
 
-இன்று திங்கட்கிழமை (ஏப்ரல் 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின கொள்வனவு விலை ரூபா 297.0024 ஆகவும் விற்பனை விலை ரூபா 306.4586 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 22, the US dollar's purchase price was Rs 297.0024, and the sale price was Rs 306.4586.
+
+🟩
+
+The US dollar purchasing price was Rs 297.0024 and the sales price were Rs 306.4586 based on the Central Bank's currency exchange rate on Monday (April 22).
 
 ◼️
 
 [Data](articles/aff37c20.json)
+
+[Extended Data](ext_articles/aff37c20.ext.json)
 
 ---
 
@@ -188,19 +246,25 @@ It is noteworthy that she is a group of women from the outer districts, where th
 
 ---
 
-### உலப்பன சுமங்கல தேரர் உட்பட  இருவருக்கு விளக்கமறியல்!
+### Explanation for two including Ulappana Sumangala Thera!
 
 *2024-04-22 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181658) · `ta`
 
-ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பின்  ஒருங்கிணைப்பாளர்  உலப்பன சுமங்கல தேரர் உள்ளிட்ட இருவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Ulappana Sumangala Thera, Coordinator of the Teacher and Chancellor Trade Union Federation, and another were arrested and interrogated for disrupting the removal of cottage houses, as ordered by the court.
 
-நீதிமன்ற உத்தரவின் பேரில்  குடிசை வீடுகளை அகற்றுவதற்கு இடையூறு விளைவித்த குற்றச்சாட்டின் அடிப்படையில் இவர்கள் கைது செய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-புதுக்கடை இலக்கம் 3 நீதிவான் நீதிமன்றத்தில் இன்று (22)  இந்த வழக்கு வழக்கு விசாரணைக்கு வந்தபோதே உலப்பன சுமங்கல தேரர் உள்ளிட்ட இருவரையும் விளக்கமறியலில் வைப்பதற்கு நீதிவான் நீதிமன்றம் உத்தரவிட்டது.
+Two persons, including the Coordinator of the Teacher and Chancellor Trade Union Federation, Ulappana Sumangala Thera have been interrogated.
+
+They have been arrested and interrogated on charges of disrupting the removal of cottage houses on a court order.
+
+The Magistrate's Court has ordered the two men, including Ulappana Sumangala Thera, when the case came up for hearing at the Pudukkadai No. 3 Magistrate's Court today (22).
 
 ◼️
 
 [Data](articles/60cf3e8d.json)
+
+[Extended Data](ext_articles/60cf3e8d.ext.json)
 
 ---
 
@@ -2151,53 +2215,5 @@ St. Anthony's Correctional St. Anthony's Correctional, Negombo, St. Sebastian Th
 [Data](articles/166a94de.json)
 
 [Extended Data](ext_articles/166a94de.ext.json)
-
----
-
-### 'Five years later'
-
-*2024-04-22 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181611) · `ta`
-
-Five years after the 2019 suicide bombings, special commemoration events were held across Sri Lanka, including at St. Anthony's Thirumalai, Kochchikada, and St. Sebastiyar Thirumalam, Batticaloa. A 2-minute silent tribute was paid at 8.45 am, and all churches were raised at 8.45 pm. The Vatican Ambassador to Sri Lanka, along with other dignitaries, attended. The event concluded with a prayer for peace.
-
-🟩
-
-Five years have passed since suicide bombings targeting Catholic churches and star hotels on April 21, 2019, April 21, 2019.. Special commemoration events were organized at St. Anthony's Thirumalam, Negombo - St. Sebastiyar Thirumalam, Batticaloa, and all Catholic churches across the country.
-
-At 8.30 am, the events began at St. Anthony's Thirumalai, Kochchikada, and a 2 -minute silent tribute was paid to the victims at 8.45 am.. All the churches in the country were raised at 8.45 pm and a silent tribute was made.
-
-Subsequently, the candle was mounted in front of the monument at the Kochikkadai Thiruthal, including the Archbishop leaders, foreign diplomats and relatives of the victims, including the Archbishop.. It is a special feature that the request for the name of 'the witnesses of faith' as 'witnesses of faith', in particular, has been submitted to the Archbishop.
-
-...
-
-[Data](articles/1c321d46.json)
-
-[Extended Data](ext_articles/1c321d46.ext.json)
-
----
-
-### Continue to restructure beyond politics - Nalin Fernando
-
-*2024-04-22 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181609) · `ta`
-
-Nalin Fernando emphasizes moving beyond politics for economic solutions. After a massive crisis, President Ranil Wickremesinghe stabilized the economy, leading to normalcy and reduced commodity prices. The government's economic decisions were successful, celebrated in New Year's. Despite calls for public debate on the economy, the situation remains unresolved. Sri Lanka's IMF activities are successful, with foreign loans restructured by July.
-
-🟩
-
-The people should think about how those who cannot hold public debate on the economic situation of the country should find a sustainable solution to the economic impact.
-
-We have recovered from the massive economic crisis. President Ranil Wickremesinghe took over the government when the economy, political and social structure were opposed to the massive challenges. He continued the country's law and order.
-
-After the stabilization of the country's financial situation, people's lives have returned to normal. The prices of essential commodities have been reduced.
-
-The government's decisions to address the economic crisis have been successful. Our success has emerged in New Year's celebrations.
-
-United People's Liberation Front called for the Janatha Vimukthi Peramuna to come up with a public debate on the country's economic situation. But the debate is still in a state of disrepair.
-
-...
-
-[Data](articles/5892a857.json)
-
-[Extended Data](ext_articles/5892a857.ext.json)
 
 ---

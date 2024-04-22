@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 18:52:43**
+As of **2024-04-22 19:03:37**
 
 ## Newspaper Stats
 
-*Scraped **20,264** Articles*
+*Scraped **20,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,692
+adalk | 1,693
 tamilmirrorlk | 2,342
-adaderanalk | 2,422
-virakesarilk | 3,025
+adaderanalk | 2,423
+virakesarilk | 3,030
 dailymirrorlk | 3,157
-adaderanasinhalalk | 3,290
+adaderanasinhalalk | 3,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,264 (100.0%) of 20,264 articles have been extended.
+20,264 (100.0%) of 20,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Keheliya further remanded until May 06
+
+*2024-04-22 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98779/keheliya-further-remanded-until-may-06-) · `en`
+
+Former Minister of Health Keheliya Rambukwella and eight others, who were implicated in the alleged import of substandard human immunoglobulin vials, have been further remanded until May 06, 2024.
+
+Maligakanda Magistrate Lochani Abeywickrema issued this order when the case was taken up today (22), Ada Derana reporter said.
+
+◼️
+
+[Data](articles/4f3f513f.json)
+
+---
+
+### කෙහෙළිය යළි රිමාන්ඩ්
+
+*2024-04-22 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195872) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් නඩුවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 9 දෙනා මැයි මස හය දක්වා යළි රිමාන්ඩ් බන්ධනාගාර ගතකර තිබේ.
+
+ඊට අදාළ නඩුව අද යළි කැඳවූ අවස්ථාවේදී මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචිනි අබේවික්‍රම මහත්මිය මෙම නියෝගය කලාය.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥවරයා කළ ඇප ඉල්ලීම එහිදී ප්‍රතික්ෂේප කෙරිණි.
+
+◼️
+
+[Data](articles/344468fc.json)
+
+---
+
+### வெளிநாட்டு அரசமுறை கடன் மறுசீரமைப்பு விவகாரம்: சர்வதேச பிணைமுறியாளர்களுடனான பேச்சுவார்த்தைகள் தோல்வி - உதய கம்மன்பில
+
+*2024-04-22 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181703) · `ta`
+
+வெளிநாட்டு அரசுமுறை கடன்களுக்காகச் சர்வதேச பிணைமுறியாளர்களுடன் அரசாங்கம் மேற்கொண்ட பேச்சுவார்த்தைகள் அனைத்தும் தோல்வியடைந்துள்ளது.ஜனாதிபதி தேர்தல் இடம்பெறும் கடன் மறுசீரமைப்பு விவகாரம் இழுபறி நிலைக்கு உள்ளாக்கப்படும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் திங்கட்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கடன் மறுசீரமைப்பு தொடர்பில் அரசாங்கம் மூன்று தரப்பினருடன் பேச்சுவார்த்தையில் ஈடுபட்டுள்ளது. முதலாவதாகச் சீனாவைத் தவிர்த்து ஏனைய கடன் வழங்குநர்களை உள்ளடக்கிய உத்தியோகபூர்வ குழு, இரண்டாவது சீனா,மூன்றாவதாகச் சர்வதேச பிணைமுறியாளர்கள் என்ற அடிப்படையில் இருதரப்பு கலந்துரையாடல்கள் இடம்பெறுகின்றன.
+
+சீனா உட்பட ஏனைய கடன் வழங்குநர்களுடனான கலந்துரையாடல்களில் கடன் மறுசீரமைப்புக்கான இணக்கப்பாட்டு தீர்மானம் எடுக்கப்பட்டாலும்,சர்வதேச பிணைமுறியாளுக்கும்,இலங்கை பிரதிநிதிகளுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடல்கள் அனைத்தும் தோல்வியடைந்துள்ளன.
+
+...
+
+[Data](articles/12b4dff3.json)
+
+---
 
 ### Another online finance cheater caught
 
@@ -87,6 +135,20 @@ He is also the first Senior Army officer who left office due to the Israeli atta
 [Data](articles/753da4f1.json)
 
 [Extended Data](ext_articles/753da4f1.ext.json)
+
+---
+
+### ශ්‍රී ලන්කන් මිලදී ගන්න සමාගම් 6ක් කැමැත්තෙන්
+
+*2024-04-22 17:43:06* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-මිලදී-ගන්න-සමාගම්-6ක්-කැමැත්තෙන්/11-409206) · `si`
+
+ශ්‍රී ලන්කන් ගුවන් සේවය මිලදී ගැනීම වෙනුවෙන් සමාගම් හයක් අභිලාෂ ඉදිරිපත් කර තිබේ. මේ අතරින් ශ්‍රී ලංකාවේ පෞද්ගලික ගුවන් සේවාවක් වන ෆිට්ස් එයාර් සමාගම මෙන්ම  ප්‍රකට ව්‍යාපාරික ධම්මික පෙරේරා සභාපතිත්වය දරණ හේලීස් සමාගමද වෙයි.
+
+එසේම මැලේසියාවේ එයාර් ඒෂියා සමාගමද මේ වෙනුවෙන් කැමැත්ත ප්‍රකාශ කර තිබේ. ඊට අමතරව තමිල්නාඩුවේ Sherisha Technologies Private Limited, රජය විසින් විකුණාදමන ව්‍යාපාර මිලදී ගැනීම වෙනුවෙන් ශ්‍රී ලංකාවේ පිහිටුවන ලද Treasure Republic Guardians Limited හා Dharshaan Elite Investment Holding (Pvt) Ltd යන සමාගම් ශ්‍රී ලන්කන් මිලදී ගැනීම වෙනුවෙන් කැමැත්ත ප්‍රකාශ කර තිබේ. ශ්‍රී ලන්කන් මිලදී ගැනීම වෙනුවෙන් අභිලාෂ කැඳවීම අද  (22දා) අවසන් විය.
+
+◼️
+
+[Data](articles/65b05167.json)
 
 ---
 
@@ -157,6 +219,24 @@ During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Mu
 [Data](articles/dcf4e6e0.json)
 
 [Extended Data](ext_articles/dcf4e6e0.ext.json)
+
+---
+
+### பொலிஸார் போன்று நடித்த  குழுவினரால் வீட்டிலிருந்தவர்கள் அறையில் பூட்டிவைக்கப்பட்டுக்  கொள்ளை!
+
+*2024-04-22 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181680) · `ta`
+
+நுரைச்சோலை நாவற்காடு பிரதேசத்தில் பொலிஸார் என தம்மை அடையாளப்படுத்திய குழுவொன்று வீடு ஒன்றுக்குள் நுழைந்து அங்கிருந்தவர்களை அறையில் பூட்டி வைத்து அவர்களின் தங்க நகைகள்,பணம் உள்ளிட்ட 90 இலட்சம் ரூபாவுக்கும் அதிகமான சொத்துக்களை கொள்ளையடித்துள்ளதாக நுரைச்சோலை பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்தக் கொள்ளைச் சம்பவம், நாவற்காடு பகுதியில் புகையிலை மற்றும் மரக்கறி உற்பத்தியாளர் ஒருவரின் வீட்டில் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கொள்ளைச் சம்பவத்தின்போது ,வீட்டின் உரிமையாளர், அவரது மனைவி, தாய் மற்றும் மூன்று மகள்கள் வீட்டில் இருந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸ் சீருடைக்கு நிகரான உடையை அணிந்த  கொள்ளைக் கும்பல் விசாரணை மேற்கொள்வதற்காக தாம் வந்துள்ளதாகக் கூறியே வீட்டுக்குள் நுழைந்துள்ளமை விசாரணைகளில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/bd89d09e.json)
 
 ---
 
@@ -286,6 +366,22 @@ The message, which has been circulating widely, claims that the Rotary Club Colo
 
 ---
 
+### வரலாறு : அன்றும் அரிசி; இன்றும் அரிசி!
+
+*2024-04-22 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181681) · `ta`
+
+நாட்டில் தற்போது குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு தலா 10 கிலோ அரிசியை அரசாங்கம் வழங்குகிறது. ஆனால், 1973ஆம் ஆண்டில் அரைப்புசல் அரிசிக்கு மேல் எடுத்துச் செல்பவர்களுக்கு சிறைத்தண்டனை, அபராதம் விதிக்கப்படும் என அன்றைய அரசாங்கம் அறிவித்தது.
+
+இறக்குமதிகளுக்கு தடைசெய்து சுயபொருளாதாரத்தை முன்னெடுக்கும் முகமாக அப்போதைய அரசாங்கம் இவ்வாறு அறிவித்திருந்தது. ஆனால், இன்று அரிசியை இறக்குமதி செய்து மக்களுக்கு வழங்கவேண்டிய நிலையில் எமது நாடு உள்ளது.
+
+இதற்கு ஆதாரமாக, 1973 நவம்பர் 15 அன்று வெளியான வீரகேசரி பத்திரிகை "அரைப்புசல் அரிசிக்கு மேல் எடுத்துச் சென்றால் வாகனமும் பறிமுதல் : அத்துடன் சிறைத் தண்டனை அபராதமும் உண்டு" என்ற தலைப்புச் செய்தியுடன் வெளியாகியிருந்தது.
+
+◼️
+
+[Data](articles/1bf89e7a.json)
+
+---
+
 ### Extension of the final date
 
 *2024-04-22 16:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-திகதி-நீடிப்பு/175-336199) · `ta`
@@ -328,6 +424,20 @@ Muizzu called China as his closest ally and developmental partner of the Maldive
 
 ---
 
+### உயிர்த்த ஞாயிறு குண்டு வெடிப்பை சஜித் பிரேமதாசாவும்  ஜே.வி.பி போன்றோரும் அரசியலாக்கப் பார்க்கிறார்கள் - பிள்ளையான்
+
+*2024-04-22 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181678) · `ta`
+
+உயிர்த்த ஞாயிறு  குண்டு  வெடிப்பை உலகளாவிய ரீதியில் கையாண்ட அமெரிக்கா, அவுஸ்திரேலியா. பொலிஸார் இதனை சரியாக கணித்து ஆராய்ந்து நடந்ததை கண்டுபிடித்து அறிக்கையை சமர்ப்பித்து விட்டு வெளியேறி விட்டார்கள். ஆனால், இலங்கையில் ஒரு பொறுப்பற்ற எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசாவும்  ஜே.வி.பி போன்ற கட்சிகளும் தற்போது இதனை கையில் எடுத்து அரசியலாக்கப் பார்க்கிறார்கள். மதங்களைப் பின்பற்றுவது சம்பந்தமான ஒரு அறிவு ரீதியாக ஒழுங்குபடுத்தலை எதிர்காலத்தில் உண்டாக்குவதன் மூலம் மதத்தின் பெயரால் இவ்வாறான குண்டு வெடிப்புகளை தவிர்க்க முடியும் என இராஜாங்க கிராமிய வீதி அபிவிருத்தி அமைச்சர் சிவனேசதுரை சந்திரகாந்தன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பில் ஞாயிற்றுக்கிழமை (21) மாலை மட்டக்களப்பில் இடம்பெற்ற நிகழ்வு ஒன்றில் கலந்து கொண்டு கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/013f657f.json)
+
+---
+
 ### 3 Refugees asylum in Dhanushkodi
 
 *2024-04-22 15:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனுஷ்கோடியில்-3-அகதிகள்-தஞ்சம்/175-336195) · `ta`
@@ -351,6 +461,24 @@ The trio thanked Marine Police for rescuing themselves for not being warm.. Furt
 [Data](articles/ec453574.json)
 
 [Extended Data](ext_articles/ec453574.ext.json)
+
+---
+
+### சிறுவன் உட்பட இலங்கை அகதிகள்  மூன்று பேர் தமிழகத்தில் தஞ்சம்
+
+*2024-04-22 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181675) · `ta`
+
+இலங்கையில் இருந்து சிறுவன் உட்பட இலங்கை அகதிகள்  மூன்று பேர்  இன்று திங்கட்கிழமை (22) காலை தமிழகத்தில் தஞ்சமடைந்துள்ளர்.
+
+இலங்கை மட்டக்களப்பு பகுதியைச் சேர்ந்த  சிறுவன் ஒருவர் உட்பட 3 நபர்கள் தனுஷ்கோடி அடுத்த ஐந்தாம் மணல் தஞ்சம் அடைந்துள்ளதாக அப்பகுதிக்கு மீன் பிடிக்க சென்ற மீனவர்கள் பொலிஸாருக்கு தகவல் தெரிவித்துள்ளனர்.
+
+இதையடுத்து, சுட்டெரிக்கும் வெயிலில் வெப்பத்தில் சூடு தாங்க முடியாமல் ஐந்தாம் மணல் தீடையில் தஞ்சம் அடைந்த இலங்கை அகதிகளை மரைன் பொலிஸார் அதிரடியாக நடவடிக்கை எடுத்து கடலுக்குள் சென்று பாதுகாப்பாக மீட்டு கரை கொண்டு வந்தனர்.
+
+இதனால் சூடு தாங்க முடியாமல் தவித்த அகதிகள் மரைன் பொலிஸாருக்கு நன்றி தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3765cf7e.json)
 
 ---
 
@@ -2095,193 +2223,5 @@ He has been killed after the slight signs of the minority while at home.
 [Data](articles/d5d3cfab.json)
 
 [Extended Data](ext_articles/d5d3cfab.ext.json)
-
----
-
-### We start attacks on US sites - Iraq
-
-*2024-04-22 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181624) · `ta`
-
-Iraqi armed groups plan rocket attacks on US bases in Syria and Iraq, resuming attacks after February's ceasefire. Iraq's Hetaik Hesbullah and security forces target US and International Federation bases.
-
-🟩
-
-An armed group in Iraq has said that there will be rocket attacks on the US base in Syria, while the attack on sites in Iraq will be resumed.
-
-சிரியாவின் வடகிழக்கில் உள்ள அமெரிக்காவின் தளமொன்றின் மீது ஈராக்கின் ஜூமார் நகரிலிருந்து தாக்குதல் மேற்கொள்ளப்பட்டுள்ளதாக கார்டியன் தெரிவித்துள்ளது.
-
-In February, Iraqi groups stopped attacks on US bases.
-
-The announcement was made the following day the Iraqi Prime Minister met with the US diplomatic secretary to the United States.
-
-Iraq's Hetaik Hesbullah Organization has said that it has decided to re -attack US soldiers from Iraq during the negotiations.
-
-Iraqi security forces have said that banned organizations have targeted the base of the International Federation in the middle of Syria.
-
-◼️
-
-[Data](articles/9ba59554.json)
-
-[Extended Data](ext_articles/9ba59554.ext.json)
-
----
-
-### A tour of the train falls out of the train
-
-*2024-04-22 10:11:42* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-මැණිකේ-දුම්රියෙන්-සංචාරිකාවක්-ඇඳ-වැටෙයි/11-409196) · `si`
-
-A tourist named Mary Coroli, 35, was seriously injured when a train fell out of another train traveling from Colombo Fort to Badulla. She was initially treated at Diyatalawa Base Hospital before being transferred to Badulla Teaching Hospital for further treatment. Haputale Police are investigating.
-
-🟩
-
-The Haputale Police said that a visitor of the train traveling from Colombo Fort to Badulla and was admitted to the Badulla Teaching Hospital with serious injuries.
-
-The injured were a foreign tourist woman named Mary Coroli (35).
-
-The police said that when the train was hit by the train with his friend, police said.
-
-The foreign tourist woman was admitted to the Diyatalawa Base Hospital and was admitted to the Badulla Teaching Hospital for further treatment.
-
-Officers of Haputale OIC Chief Inspector Sepala Ratnayake and other officials are conducting further investigations.
-
-◼️
-
-[Data](articles/2b69e414.json)
-
-[Extended Data](ext_articles/2b69e414.ext.json)
-
----
-
-### The train maintenance and a headache to the government
-
-*2024-04-22 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195857) · `si`
-
-"Minister of Transport Bandula Gunawardena highlights the necessity of borrowing for train maintenance, causing a headache for the government."
-
-🟩
-
-Minister of Transport Bandula Gunawardena says that the need for borrowing is the need for even the maintenance work.
-
-◼️
-
-[Data](articles/86784ef5.json)
-
-[Extended Data](ext_articles/86784ef5.ext.json)
-
----
-
-### Iran's President visits Pakistan, Sri Lanka
-
-*2024-04-22 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181620) · `ta`
-
-Iran's President Ibrahim Raisi visits Pakistan, then Sri Lanka, aiming to strengthen bilateral relations. In Sri Lanka, he inaugurates the Uma Oya Multipurpose Project.
-
-🟩
-
-Iran's President will visit Islamabad on Monday (22) following the official invitation of the Pakistan president.
-
-During this visit, Ibrahim Raisi aims to strengthen bilateral relations between the two countries.
-
-Following the official invitation of President Ranil Wickremesinghe, Raisi, who has completed his visit to Pakistan, will make a one -day visit to Sri Lanka.
-
-The highlight of his visit to Sri Lanka is to participate in the inauguration of the Uma Oya Multipurpose Project with the President of Sri Lanka.
-
-◼️
-
-[Data](articles/a682c388.json)
-
-[Extended Data](ext_articles/a682c388.ext.json)
-
----
-
-### Drivers of two racing cars involved in ‘Fox Hill’ crash arrested
-
-*2024-04-22 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98767/drivers-of-two-racing-cars-involved-in-fox-hill-crash-arrested-) · `en`
-
-The two drivers of the racing cars involved in yesterday’s tragic accident at the Fox Hill Super Cross races in Diyatalawa have been arrested while undergoing treatment in hospital, the Police Media Division said.
-
-Seven persons were killed while 23 others were injured following an accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on Sunday (21).
-
-The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators. The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
-
-Police Media Spokesman DIG Nihal Thalduwa stated that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
-
-The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
-
-...
-
-[Data](articles/db0d0243.json)
-
-[Extended Data](ext_articles/db0d0243.ext.json)
-
----
-
-### 2024 Budget fails to reach income target
-
-*2024-04-22 09:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-பட்ஜெட்-வருமான-இலக்கை-எட்டத்-தவறும்/175-336162) · `ta`
-
-The 2024 budget report, compiled by Verite Research, indicates Sri Lanka will miss its GDP income target for the 33rd year. Despite predictions of a 14% deficit and an income of Rs 3,570 billion, the report highlights a 61% deficit from VAT exaggeration and a 39% deficit from other sources. The budget aims to reduce the interest rate to 64%, but it's predicted to exceed 70%, impacting economic recovery and debt stability.
-
-🟩
-
-The recently published '2024 budget report' is expected to reach the 33rd consecutive year in 2024, Sri Lanka will fail to reach the GDP.
-
-The budget report is compiled by the Verite Research Company every year and is published in Publicfinance.lk, Sri Lanka's primary platform for economic information.
-
-This report provides a strong analysis and objective assessment of the financial, money and economic values of Sri Lanka's annual budget. The report reflects the purpose of the budget report published by the Parliamentary Committee on Government Fund (COPF). These two reports are aimed at promoting the budget and debate in the public and parliament.. This creates an important additional input for industrial economic analysis and resolutions in Sri Lanka.
-
-Sri Lanka has not yet reached the Income Goal of GDP in the budget since 1991. Recently, the Parliamentary Committee on Ways reported that tax revenues declined by 13% by 2023 in 2023.
-
-...
-
-[Data](articles/c939eb81.json)
-
-[Extended Data](ext_articles/c939eb81.ext.json)
-
----
-
-### More attention to Sigiriya and Dambulla
-
-*2024-04-22 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195856) · `si`
-
-Prasanna Ranatunga directs officials to complete Sigiriya and Dambulla Tourism Zones by Q3, with a total cost of $30M, supported by the Asian Development Bank. The project aims to enhance urban facilities in these areas, under the Urban Development and Susar Urban Development Projects.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga has instructed the relevant officials to end before the third quarter of this year as Sigiriya and Dambulla Tourism Zones.
-
-The Finance Ministry has also appointed a committee to facilitate the facilities of providing urban facilities of the project.
-
-Minister Prasanna Ranatunga says the project is implemented under the Urban Development and the Susar Urban Development Project.
-
-The total estimated cost is US $ 30 million and the project is implemented with the assistance of the Asian Development Bank.
-
-Conservation and development of locations identified in Sigiriya, Dambulla and Trincomalee towns are to be done under the relevant project.
-
-◼️
-
-[Data](articles/fa78ee9c.json)
-
-[Extended Data](ext_articles/fa78ee9c.ext.json)
-
----
-
-### Diyathalawa horrific accident - Motor drivers arrested
-
-*2024-04-22 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195855) · `si`
-
-In Diyatalawa, two motor drivers involved in a Fox Hill Motor race accident were arrested, despite being injured.
-
-🟩
-
-Two car drivers have been arrested in connection with the accident in Diyatalawa Fox Hill Motor race.
-
-The police have arrested the police while they were injured in the accident.
-
-◼️
-
-[Data](articles/12c4f16c.json)
-
-[Extended Data](ext_articles/12c4f16c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 05:38:52**
+As of **2024-04-22 05:58:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,115 (100.0%) of 20,117 articles have been extended.
+20,117 (100.0%) of 20,117 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Semasinghe after the meeting tanks Gopinath for acknowledging Sri Lanka’s econ
 ...
 
 [Data](articles/bf50c4b6.json)
+
+[Extended Data](ext_articles/bf50c4b6.ext.json)
 
 ---
 
@@ -509,6 +511,8 @@ One of the objectives of the National Education Policy Framework of Sri Lanka fo
 ...
 
 [Data](articles/625587cb.json)
+
+[Extended Data](ext_articles/625587cb.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 10:03:34**
+As of **2024-04-22 10:18:47**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,153 (100.0%) of 20,155 articles have been extended.
+20,155 (100.0%) of 20,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### සීගිරිය සහ දඹුල්ල ගැන වැඩි අවධානයක්
+### More attention to Sigiriya and Dambulla
 
 *2024-04-22 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195856) · `si`
 
-සීගිරිය සහ දඹුල්ල සංචාරක කලාප ලෙස සංවර්ධනය කිරීමේ ව්‍යාපෘතියේ මූලික සැලසුම් මෙම වසරේ තුන්වැනි කාර්තුවට පෙර අවසන් කරන ලෙසට නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+Prasanna Ranatunga directs officials to complete Sigiriya and Dambulla Tourism Zones by Q3, with a total cost of $30M, supported by the Asian Development Bank. The project aims to enhance urban facilities in these areas, under the Urban Development and Susar Urban Development Projects.
 
-අදාළ ව්‍යාපෘතියේ නාගරික පහසුකම් සැපයීමේ පහසුකම වෙනුවෙන් මුදල් අමාත්‍යංශය විසින් කමිටුවක්ද පත්කර ඇති බව සඳහන් ය.
+🟩
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශයේ තිරසර නාගරික සංවර්ධන ව්‍යාපෘතිය යටතේ අදාළ ව්‍යාපෘතිය ක්‍රියාත්මක බව අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Urban Development and Housing Minister Prasanna Ranatunga has instructed the relevant officials to end before the third quarter of this year as Sigiriya and Dambulla Tourism Zones.
 
-ඒ සඳහා ඇස්තමේන්තුගත මුළු මුදල අම‍ෙරිකානු ඩොලර් මිලියන 30ක් වන අතර ව්‍යාපෘතිය ආසියානු සංවර්ධන බැංකුවේ සහාය ඇතිව ක්‍රියාත්මක වේ.
+The Finance Ministry has also appointed a committee to facilitate the facilities of providing urban facilities of the project.
 
-සීගිරිය, දඹුල්ල සහ ත්‍රිකුණාමලය නගරවල හඳුනා ගන්නා ලද ස්ථාන සංරක්ෂණය කිරීම සහ සංවර්ධනය කිරීම අදාළ ව්‍යාපෘතිය යටතේ සිදුකිරීමට නියමිතය.
+Minister Prasanna Ranatunga says the project is implemented under the Urban Development and the Susar Urban Development Project.
+
+The total estimated cost is US $ 30 million and the project is implemented with the assistance of the Asian Development Bank.
+
+Conservation and development of locations identified in Sigiriya, Dambulla and Trincomalee towns are to be done under the relevant project.
 
 ◼️
 
 [Data](articles/fa78ee9c.json)
+
+[Extended Data](ext_articles/fa78ee9c.ext.json)
 
 ---
 
@@ -1423,6 +1429,8 @@ One interesting fact that investigators discovered, Deshapriya said, was that a 
 ...
 
 [Data](articles/8d06f04c.json)
+
+[Extended Data](ext_articles/8d06f04c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 16:18:28**
+As of **2024-04-22 16:34:05**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,237 (100.0%) of 20,240 articles have been extended.
+20,240 (100.0%) of 20,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### தனுஷ்கோடியில் 3 அகதிகள் தஞ்சம்
+### 3 Refugees asylum in Dhanushkodi
 
 *2024-04-22 15:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனுஷ்கோடியில்-3-அகதிகள்-தஞ்சம்/175-336195) · `ta`
 
-நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடி காரணமாக இந்தியாவின் தனுஷ்கோடியில் நாட்டு மக்கள்  அகதிகளாக தஞ்சம் அடைந்து வருகின்றனர்.
+Three Sri Lankan refugees, including a boy, took refuge in Dhanushkodi, India, due to an economic crisis. Fishermen alerted the police, who rescued them from the fifth sand. The refugees thanked the Marine Police for their rescue.
 
-இந்த நிலையில்  மட்டக்களப்பு பகுதியைச் சேர்ந்த  சிறுவன் ஒருவர் உட்பட 3 நபர்கள் தனுஷ்கோடி அடுத்த ஐந்தாம் மணல் தீடையில் திங்கட்கிழமை (22) காலை தஞ்சம் அடைந்துள்ளனர்.
+🟩
 
-அப்பகுதிக்கு மீன் பிடிக்க சென்ற மீனவர்கள், இவர்கள் தொடர்பில், பொலிஸாருக்கு தகவல் கொடுத்துள்ளனர்.
+Due to the economic crisis in the country, the people of India are taking refuge as refugees in Dhanushkodi, India.
 
-இதை அடுத்து சுட்டெரிக்கும் வெயிலில் வெப்பத்தில் சூடு தாங்க முடியாமல் ஐந்தாம் மணல் தீடையில் தஞ்சம் அடைந்த இலங்கை அகதிகளை மரைன் பொலிஸார் அதிரடியாக நடவடிக்கை எடுத்து கடலுக்குள் சென்று பாதுகாப்பாக மீட்டு கரைக்கு கொண்டு சென்றுள்ளனர்.
+Three persons, including a boy from the Batticaloa area, have taken refuge on Monday morning (22) at the next fifth sand.
 
-இதனால் சூடு தாங்க முடியாமல் தவித்த தங்களை மீட்ட  மரைன் பொலிஸாருக்கு மூவரும் நன்றி தெரிவித்துள்ளனர். மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+The fishermen who went to fish in the area have informed the police about them.
+
+Following this, Marine Police have taken action to take action and rescue the Sri Lankan refugees who sought refuge in the fifth sand fleet, unable to bear the heat in the sun.
+
+The trio thanked Marine Police for rescuing themselves for not being warm.. Further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/ec453574.json)
+
+[Extended Data](ext_articles/ec453574.ext.json)
 
 ---
 
@@ -138,6 +144,8 @@ Muizzu's post as president is not affected by Sunday's vote, in which 368 candid
 
 [Data](articles/6138b433.json)
 
+[Extended Data](ext_articles/6138b433.ext.json)
+
 ---
 
 ### Minister Prasanna officials to fulfill the project to develop Sigiriya and Dambulla as a tourist destination
@@ -179,6 +187,8 @@ These stocks were slated for use in the school meals programme, a joint initiati
 ...
 
 [Data](articles/fa1efff6.json)
+
+[Extended Data](ext_articles/fa1efff6.ext.json)
 
 ---
 

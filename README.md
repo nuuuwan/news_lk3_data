@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 15:03:33**
+As of **2024-04-22 15:18:36**
 
 ## Newspaper Stats
 
-*Scraped **20,223** Articles*
+*Scraped **20,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ tamilmirrorlk | 2,336
 adaderanalk | 2,419
 virakesarilk | 3,022
 dailymirrorlk | 3,150
-adaderanasinhalalk | 3,283
+adaderanasinhalalk | 3,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,221 (100.0%) of 20,223 articles have been extended.
+20,223 (100.0%) of 20,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### நுவரெலியாவில் ஆட்பதிவு திணைக்கள அலுவலகம் திறப்பு
+### අද රෑ උතුරු අහසේ දිස්වෙන ලයිරිඩ්ස්
+
+*2024-04-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195864) · `si`
+
+වාර්ෂිකව දිස්වන උල්කාපාත වර්ෂා අතුරින් ප්‍රධාන ස්ථානයක් හිමිවන ලයිරිඩ්ස් උල්කාපාත වර්ෂාව අද (22) මධ්‍යම රාත්‍රියේ උතුරු අහසේ දිස්වන බව අභ්‍යවකාශ විද්‍යාඥයින් පවසයි.
+
+මෙම උල්කාපාත වර්ෂාව සෑම වසරකම අප්‍රේල් 15 සිට අප්‍රේල් 29 දක්වා සක්‍රීයව පවතී.
+
+අභ්‍යවකාශ විද්‍යාඥ ඉංජිනේරු ගිහාන් වීරසේකර මහතා පවසා සිටියේ, මෙම උල්කාපාත වර්ෂාව වීණාව කියන තාරකා රාශිය ආශ්‍රිතව දැකගත හැකි නිසාවෙන් ලයිරිඩ්ස් යනුවෙන් හඳුන්වන බවය.
+
+"මෙම උල්කාපාත වර්ෂාවේ දී පැයකට උල්කාපාත 20ක් පමණ නිරීක්ෂණය කළ හැකි වෙනවා. මේක අද රාත්‍රීයේ හෝ හෙට අලුයම උපරිම අවස්ථාවට පත්වනවා. අද මධ්‍යම රාත්‍රියෙන් පසුව මේක නිරීක්ෂණය කළ හැකියි. අද ගැටලුවක් වෙනවා පූර්ණ චන්ද්‍රයා අපිට පේන නිසා.﻿ ඒ නිසා මේක නිරීක්ෂණය කරන්න හොඳම වෙලාව වෙන්නේ ‍අලුයම 4 - 5 දක්වා කාලයේ දී උතුරු දිශාව ආශ්‍රිකව මේ උල්කාපාත වර්ෂාව පියවි ඇසින් නිරීක්ෂණය කළ හැකි වෙනවා."
+
+◼️
+
+[Data](articles/5a56de37.json)
+
+---
+
+### Opening of the Department of Records in Nuwara Eliya
 
 *2024-04-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181664) · `ta`
 
-நுவரெலியா மாவட்ட மக்களின் நன்மை கருதி ஜனாதிபதியின் ஆலோசனைக்கு அமைவாக  நுவரெலியா மாவட்ட ஆட்பதிவுத் திணைக்களத்தின் காரியாலயம் இன்று திங்கட்கிழமை (22) நுவரெலியா இலக்கம் 95/26 A, லேடி மெக்லம் வீதி ஹாவஎலிய என்ற புதிய விலாசத்திலுள்ள பகுதியில் பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் திறந்து வைத்தார்.
+The Nuwara Eliya District Records Department was inaugurated by the Minister of Public Security, Trans, on Monday, 22nd. It's now open to serve the Central Province, offering National Identity Cards through Normal Service, with a one-day service launching soon. This move addresses the need for locals to travel to Colombo for ID cards, marking a significant improvement.
 
-மத்திய மாகாணத்தை உள்ளடக்கும் விதத்தில் நுவரெலியாவில் குறித்த  அலுவலகம் திறக்கப்படுகிறது. மேலும், சாதாரண சேவையூடாக தேசிய அடையாள அட்டைகளை பெறுவதற்கான அனைத்து வசதிகள் செய்யப்பட்டுள்ளன. வெகு விரைவில் ஒருநாள் சேவை ஆரம்பிக்கப்படுமெனவும் ஆட்பதிவு திணைக்களம் தெரிவித்தது.
+🟩
 
-குறித்த நிகழ்வில் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர்களான வேலுசாமி இராதாகிருஸ்ணன் சீ.பி.ரட்ணாயக்க மருதுபாண்டி ராமேஸ்வரன் மற்றும் அரச திணைக்கள அதிகாரிகளும்  கலந்து கொண்டனர்.
+The Office of the Nuwara Eliya District Registrar's Office on Monday (22) on Monday (22), the Minister of Public Security, Trans, Lady McLeam Road Hawelia, inaugurated the President's Office in the new address of the Nuwara Eliya District Records Department on Monday (22).
 
-கடந்த காலங்களில் நுவரெலியா மாவட்ட மக்கள், அடையாள அட்டையை பெற்றுக் கொள்வதற்காக கொழும்புக்கு சென்று வர வேண்டிய நிலைமை இருந்தது. ஆனால் தற்பொழுது இந்த மாவட்ட  காரியாலயம் திறக்கப்படுவதன் மூலமாக அந்த பிரச்சினை தீர்த்து வைக்கப்படுகின்றமை குறிப்பிடத்தக்கது.
+The office is opened in Nuwara Eliya to cover the Central Province. Also, all the facilities for obtaining National Identity Cards through Normal Service have been made. The Department of Records said that one day service will be launched soon.
+
+Nuwara Eliya District Parliamentarians Velusamy Radhakrishnan CP Ratnayaka Rameswaran and State Department officials were also present.
+
+In the past, the people of Nuwara Eliya had to visit Colombo to get the identity card. But it is noteworthy that the issue is currently being solved by the opening of the district office.
 
 ◼️
 
 [Data](articles/8d0ea173.json)
+
+[Extended Data](ext_articles/8d0ea173.ext.json)
 
 ---
 
@@ -71,6 +95,8 @@ Muizzu’s post as president is not affected by Sunday’s vote, in which 368 ca
 ◼️
 
 [Data](articles/5a00e453.json)
+
+[Extended Data](ext_articles/5a00e453.ext.json)
 
 ---
 
@@ -2191,29 +2217,5 @@ The prime rate hit a peak level of 29.67 percent in November 2022 when the monet
 [Data](articles/4d41045d.json)
 
 [Extended Data](ext_articles/4d41045d.ext.json)
-
----
-
-### Does the current government have a connection with the life -threatening Sunday attacks?Archbishop Malcolm Cardinal Ranjith
-
-*2024-04-22 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181610) · `ta`
-
-Archbishop Malcolm Cardinal Ranjith accuses the current government of covering up the Sunday attacks, despite promises to investigate. He criticizes the lack of action and the delay in implementing recommendations from the Presidential Investigation Commission. The situation has led to suspicions of government involvement and attempts to protect those implicated.
-
-🟩
-
-There is suspicion that the current government is involved in the lack of interest in carrying out investigations into the survival Sunday attacks and trying to cover up the facts.. Archbishop Malcolm Cardinal Ranjit Annagu said that if the current government has nothing to do with this, they will have no problems with the facts.
-
-The Archbishop, who said that the Catholic Council was in the wake of the Galle Face Demonstration, said that the Archbishop had completely refused the allegation made by the former President Gotabhaya Rajapakse, saying that his disability should be resolved and that it would be unreasonable.
-
-The Archbishop said this at a special commemoration ceremony held at St. Anthony's Thirumalai, Kochchikada, Colombo. He continued to speak there,
-
-St. Anthony's Correctional St. Anthony's Correctional, Negombo, St. Sebastian Thirumala, Batticaloa Seon Church, Batticaloa, Shankrila, Chinaman Grand and Kingsbury. These include 82 boys and 47 foreigners from 14 countries.
-
-...
-
-[Data](articles/166a94de.json)
-
-[Extended Data](ext_articles/166a94de.ext.json)
 
 ---

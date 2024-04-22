@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 19:18:26**
+As of **2024-04-22 19:34:14**
 
 ## Newspaper Stats
 
-*Scraped **20,272** Articles*
+*Scraped **20,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
 adalk | 1,693
-tamilmirrorlk | 2,342
-adaderanalk | 2,423
+tamilmirrorlk | 2,343
+adaderanalk | 2,424
 virakesarilk | 3,030
 dailymirrorlk | 3,157
 adaderanasinhalalk | 3,291
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,272 (100.0%) of 20,272 articles have been extended.
+20,272 (100.0%) of 20,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### கெஹலிய உள்ளிட்ட 9 சந்தேகநபர்களுக்கும் விளக்கமறியல்
+
+*2024-04-22 19:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-9-சந்தேகநபர்களுக்கும்-விளக்கமறியல்/175-336205) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 9 சந்தேகநபர்களும் எதிர்வரும் மே மாதம் 6ஆம் திகதி வரை மீண்டும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+குறித்த வழக்கு இன்று மீண்டும் விசாரணைக்கு வந்த போதே மாளிகாகந்த நீதவான் லோசினி அபேவிக்ரம இந்த உத்தரவை பிறப்பித்தார்.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சார்பில் ஆஜரான ஜனாதிபதியின் சட்டத்தரணி முன்வைத்த பிணை கோரிக்கை இதன்போது நிராகரிக்கப்பட்டுள்ளதாகவும் தெரிவக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/e2ba4fa0.json)
+
+---
+
+### Israel military intelligence chief quits over 7 October
+
+*2024-04-22 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98780/israel-military-intelligence-chief-quits-over-7-october) · `en`
+
+The Israeli military’s intelligence chief has resigned, saying he took responsibility for the failures before Hamas’s attack on Israel on 7 October.
+
+The Israel Defense Forces (IDF) said Major General Aharon Haliva would retire once his successor was selected.
+
+He acknowledged in a letter that his intelligence directorate “did not live up to the task we were entrusted with”.
+
+He is the first senior figure to step down over the attack, which were the deadliest in Israel’s history.
+
+Israeli military and intelligence officials missed or ignored multiple warnings before hundreds of Hamas gunmen breached the Gaza border fence that day and attacked nearby Israeli communities, military bases and a music festival.
+
+About 1,200 Israelis and foreigners - mostly civilians - were killed and 253 others were taken back to Gaza as hostages, according to Israeli tallies.
+
+Israel responded by launching its most intense ever war in Gaza with the aims of destroying Hamas and freeing the hostages.
+
+...
+
+[Data](articles/4c4c0f46.json)
+
+---
 
 ### Keheliya further remanded until May 06
 
@@ -342,7 +382,7 @@ The indictment has been filed against an Indian national who owns a cricket team
 
 ---
 
-### Air Asia, SriLanka’s FITS, Hayleys bid for SriLankan
+### Air Asia, SriLanka’s FITS, Hayleys bid for SriLankan Airlines
 
 *2024-04-22 16:40:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
 
@@ -2231,45 +2271,5 @@ In this election. The party has won more seats and captured majority seats. The 
 [Data](articles/ed7b0551.json)
 
 [Extended Data](ext_articles/ed7b0551.ext.json)
-
----
-
-### Chandrasiri Bandara will be passed away
-
-*2024-04-22 10:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතිර්වේදී-චන්ද්‍රසිරි-බණ්ඩාර-අභාවප්‍රුාප්ත-වෙයි/11-409197) · `si`
-
-Chandrasiri Bandara passed away this morning after being killed due to minority signs at home.
-
-🟩
-
-Chandrasiri Bandara has passed away this morning (22) morning.
-
-He has been killed after the slight signs of the minority while at home.
-
-◼️
-
-[Data](articles/b8d8bade.json)
-
-[Extended Data](ext_articles/b8d8bade.ext.json)
-
----
-
-### Chandrasiri Bandara passes away
-
-*2024-04-22 10:30:29* · [`adalk`](https://www.ada.lk/breaking_news/ජෝතිර්වේදී-චන්ද්‍රසිරි-බණ්ඩාර-අභාවප්‍රාප්ත-වෙයි/11-409197) · `si`
-
-Chandrasiri Bandara, a prominent figure, passed away this morning after being attacked at home.
-
-🟩
-
-Chandrasiri Bandara has passed away this morning (22) morning.
-
-He has been killed after the slight signs of the minority while at home.
-
-◼️
-
-[Data](articles/d5d3cfab.json)
-
-[Extended Data](ext_articles/d5d3cfab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 12:18:26**
+As of **2024-04-22 12:34:11**
 
 ## Newspaper Stats
 
-*Scraped **20,194** Articles*
+*Scraped **20,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,683
-tamilmirrorlk | 2,333
-adaderanalk | 2,415
+adalk | 1,685
+tamilmirrorlk | 2,334
+adaderanalk | 2,416
 virakesarilk | 3,015
 dailymirrorlk | 3,146
 adaderanasinhalalk | 3,279
@@ -26,11 +26,59 @@ adaderanasinhalalk | 3,279
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,192 (100.0%) of 20,194 articles have been extended.
+20,194 (100.0%) of 20,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Two including Ven. Ulapane Sumangala Thero remanded
+
+*2024-04-22 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98772/two-including-ven-ulapane-sumangala-thero-remanded) · `en`
+
+The convenor of the Teacher-Principal Trade Union Alliance, Ven. Ulapane Sumangala Thero, and another person have been remanded until April 26.
+
+This order has been issued by the Hulftsdorp Magistrate’s Court for their attempted disturbance against implementing a court order, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/ec222bf2.json)
+
+---
+
+### දියතලාවේ ධාවන තරගයේ අනතුරට ලක්වූ  මෝටර් රථ රියදුරන් අත්අඩංගුවට
+
+*2024-04-22 12:09:17* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාවේ-ධාවන-තරගයේ-අනතුරට-ලක්වූ--මෝටර්-රථ-රියදුරන්-අත්අඩංගුවට/11-409199) · `si`
+
+දියතලාවේ ධාවන තරගයේ ඊයේ දිනයේ 21දින සිදුවූ මෝටර් රථ අනතුර සම්බන්ධයෙන් මෝටර් රථ ධාවන තරගකරුවන් දෙදෙනකු අද අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත්තේ මාතර  හිත්තැටිය ප්‍රදේශයේ පදිංචි 36 හැවිරිදි අයෙක් සහ  පේරාදෙණිය මාකන්ද ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගත් බවයි, ඔවුන් දෙදෙනාද මේ වන විට අනතුරින් තුවාල ලබා දැනට පොලිස් ආරක්ෂාව යටතේ දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් පසුවෙන බවද පොලිසිය කීය.
+
+මෝටර් රථ ධාවන තරගය අතරතුරේ මෙසේ මෝටර් රථයක්  පෙරලීයාමෙන් අනතුර ට පත් වූ අතර  පැවති අධික දූවිල්ලත් සමඟ ධාවන පථයෙ තරග වැදුන මෝටර් රථ දෙකක් එකිනෙක ගැටීමෙන් ඉවතට විසිවී ගොස් ඊට යටවීමෙන් 07ක් මියගොස් 20ට වැඩි පිරිසක් තුවාල ලැබු බව වාර්තා විය. මේ වන විට දියතලාව රෝහලේ ප්‍රතිකාර ලබන එක් අයෙකු දැඩි සත්කාරක ඒකකයේ ප්‍රතිකාර ලබන බව ශ්‍රී ලංකා යුද හමුදාව සඳහන් කළේය.
+
+අනතුර සම්බන්ධයෙන් දැනට පවතින වීඩියෝ පට සහ ඡායාරූප උපයෝගී කරගනිමින්  ශ්‍රී ලංකා යුද හමුදාව අභ්‍යන්තර පරීක්ෂණයක් සිදුකරන බවද යුද හමුදාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ef3a59a4.json)
+
+---
+
+### எம்.பிக்கள் பணம் பெற்றதால் எதிர்க்கட்சிக்குள் குழப்பம்
+
+*2024-04-22 12:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்கள்-பணம்-பெற்றதால்-எதிர்க்கட்சிக்குள்-குழப்பம்/175-336181) · `ta`
+
+பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தியின் (SJB), எம்.பி.க்கள் பலர் கட்சித் தலைமையின் அனுமதியின்றி அரசாங்கத்தின் பரவலாக்கப்பட்ட வரவுசெலவுத் திட்டத்தில் இருந்து தலா 50 மில்லியன் ரூபாய் பெற்றுக்கொண்டதாக வெளிவரும் தகவல்களால் சிக்கலில் சிக்கியுள்ளதாக எமது சகோதர ஊடகமான டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+கடந்த காலங்களில் எதிர்க்கட்சியில் உள்ள எம்.பி.க்களுக்கு அவர்களின் தொகுதிகளில் விருப்பமான வளர்ச்சித் திட்டங்களை நிறைவேற்ற அரசுகள் நிதி ஒதுக்கீடு செய்து வந்தது. எவ்வாறாயினும், கடந்த ஐந்து வருடங்களாக இவ்வாறான ஒதுக்கீடுகள் இடம்பெறவில்லை, மாறாக, அதே நோக்கத்திற்கான நிதி ஒதுக்கீடுகள் அக்காலப்பகுதியில் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் ஊடாக வழங்கப்பட்டுள்ளன.
+
+தற்போதைய அரசாங்கம் இந்த திட்டத்தை நடைமுறைப்படுத்தியுள்ளதுடன் மற்றும் சில SJB பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அரசாங்கத்தால் அறிமுகப்படுத்தப்பட்ட புதுப்பிக்கப்பட்ட அளவுகோலின் படி ஒதுக்கீடுகளைப் பெற்றுள்ளனர்.
+
+...
+
+[Data](articles/4a0f2991.json)
+
+---
 
 ### Indian SC allows termination of nearly 30-week pregnancy for 14-year-old rape survivor
 
@@ -47,6 +95,8 @@ The bench stated that the minor should get transport arrangements and any medica
 ...
 
 [Data](articles/fc1111cd.json)
+
+[Extended Data](ext_articles/fc1111cd.ext.json)
 
 ---
 
@@ -449,6 +499,20 @@ The Transport Minister disclosed that Sri Lanka has recently borrowed 500 buses 
 [Data](articles/b1fa4d2e.json)
 
 [Extended Data](ext_articles/b1fa4d2e.ext.json)
+
+---
+
+### අවුරුදු දින තුනේදි සත්වෝද්‍යාන දෙපාර්තමේන්තුවට ලක්ෂ 176ක ආදායමක්
+
+*2024-04-22 11:08:46* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-දින-තුනේදි-සත්වෝද්‍යාන-දෙපාර්තමේන්තුවට-ලක්ෂ-176ක-ආදායමක්/11-409198) · `si`
+
+සත්වෝද්‍යාන දෙපාර්තමේන්තුවට අයත් උද්‍යානවලින් හා සෆාරි හා රුදවුම් මධ්‍යස්ථානවලින් පසුගිය අවුරුදු දින තුන තුලදී පමණක් රුපියල් එක්කෝටි හැත්තෑ හයලක්ෂ තිස්හත්දාස් පන්සිය හතලිස් හයක ආදායමක් උපයා ගැනීමට හැකිවී ඇතැයි සත්වෝද්‍යාන දෙපාර්තමේන්තුව නියෝජ්‍ය අධ්‍යක්ෂිකා දිනූෂිකා මානවඩු මහත්මිය පැවසීය .
+
+දෙහිවල හා පින්නවල සත්වෝද්‍යාන හා අලිඅනාතාගාරය,  රිදිගම සෆාරි උද්‍යානය වලට අවුරුදු දින කිපය 13, 14, හා 15 යන තෙදිනතුල විශාල පාසැල් ළමුන් ඇතුලු දෙමාපියන් හා විදේශීය සංචාරකයන්ද විශාල ප්‍රමාණයක් පැමිණීම හා එම උද්‍යානයන් තුල විශේෂ වැඩ සටහන් , පැසැල් ළමුන් සදහා දැනුවත් කිරීමේ වැඩසටහන් ක්‍රියාත්මක කිරීම ඇතුලු යටිතල පසසුකම් සපුරාලීමත් නිසා නරඹන්නන්ගේ ආකර්ෂණය ඇතිවීමත්  මේම ආදායම් ලැබීමට හේතුවී  ඇති බවත්,  නියෝජ්‍ය අධ්‍යක්ෂිකා මහත්මිය වැඩිදුරටත් පැවසීය .
+
+...
+
+[Data](articles/4e2dd62d.json)
 
 ---
 
@@ -1336,6 +1400,8 @@ The current government has implemented the project and some SJB MPs have secured
 
 [Data](articles/f534c4ca.json)
 
+[Extended Data](ext_articles/f534c4ca.ext.json)
+
 ---
 
 ### SJB embroiled in controversy after its MPs secure funds from Govt without party approval
@@ -2089,95 +2155,5 @@ Addressing the inauguration ceremony of the National Rice Distribution for low-i
 [Data](articles/f0955d5f.json)
 
 [Extended Data](ext_articles/f0955d5f.ext.json)
-
----
-
-### President vows inclusive economic growth
-
-*2024-04-21 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-vows-inclusive-economic-growth/108-281094) · `en`
-
-President Ranil Wickremesinghe assured that the government will not pass or leave anyone behind in the programme to strengthen the economy of the country as well as the people.
-
-While attending the opening ceremony of the 2024 National Programme for the distribution of rice to low-income families held today (21) at the Ambagasdowa Public Stadium, Uva Paranagama, he said in the face of the last economic crisis, all the people of the country were affected without distinction and therefore all those people should get the benefits of the country's emerging economy.
-
-"The economy of the country is being gradually developed. Today, the villages receive money through tourism. Also, the agriculture modernization programme has been implemented. It should be said that its purpose is to create a strong export agriculture," he said.
-
-Under this programme, 2.74 million low-income families covering the entire island will be given ten kilos of rice per month for a period of two months, April and May.
-
-...
-
-[Data](articles/511d0c9b.json)
-
-[Extended Data](ext_articles/511d0c9b.ext.json)
-
----
-
-### Kolkata beat Bangalore by one run in the last match
-
-*2024-04-21 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181603) · `ta`
-
-Kolkata Knight Riders beat Royal Challengers Bangalore by one run in the 36th IPL match at Eden Garden. Kolkata scored 222/6, with key contributions from Bill Sally (48), Shreyas Iyer (50), and Andre Rasal (50). Bangalore lost all wickets in 20 overs, with notable performances from Will Jax (55) and Rajat Patidar (52).
-
-🟩
-
-Kolkata Knight Riders won the 36th Indian Premier League match between the Kolkata Knight Riders and Royal Challengers Bangalore on Sunday at the Eden Garden Stadium in Kolkata.
-
-The character of the game was favorable for both teams, so that the team would win in this match.
-
-But Royal Challengers Bangalore gave Bangalore a favorable decision to lose the game with a run instead of 3 runs that needed the last ball to win.
-
-Following this decision, 50 percent of the matches in IPL are over, and Royal Challengers Bangalore will lose the final round.
-
-Kolkata Knight Riders, who were first invited to bat first, scored 222 runs for the loss of 6 wickets in 20 overs.
-
-Peel Sold and Sunil Narain shared 56 runs in 4.2 overs.
-
-First, Bill Sally, who lost the game, scored 48 runs off 14 balls with 7 pounds and 3 sixes.
-
-Sunil Narain (10), Angrish Raghuvanshi (3) and Venkatesh Iyer (16) then lost the game in a regular interval.. (97 - 4 wig.)
-
-...
-
-[Data](articles/0efde62b.json)
-
-[Extended Data](ext_articles/0efde62b.ext.json)
-
----
-
-### The tragedy that is suffering off every 10 minutes
-
-*2024-04-21 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195845) · `si`
-
-"Every 10 minutes, war impacts Gaza, increasing children's injuries and health issues. UN agency reports insecurity due to continuous Israel attacks. Palestinian Health Authorities: 34,049 killed, 76,901 injured."
-
-🟩
-
-Due to the impact of war, the United Nations Agency for Palestinian refugees has detected every 10 minutes of the Gaza.
-
-The agency pointed out that the number of children who suffer from various injuries and health problems has increased.
-
-They have shown a report to the children's lives have been insecure due to the attacks on Israel continuously in the across the International Court of Justice.
-
-According to the Palestinian Health Authorities, 34,049 Palestinians have been killed and 76,901 were injured in the war.
-
-◼️
-
-[Data](articles/68f4a2e6.json)
-
-[Extended Data](ext_articles/68f4a2e6.ext.json)
-
----
-
-### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
-
-*2024-04-21 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
-
-“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
-
-...
-
-[Data](articles/a00455cc.json)
-
-[Extended Data](ext_articles/a00455cc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 10:18:47**
+As of **2024-04-22 10:34:08**
 
 ## Newspaper Stats
 
-*Scraped **20,155** Articles*
+*Scraped **20,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,680
-tamilmirrorlk | 2,324
-adaderanalk | 2,410
+adalk | 1,681
+tamilmirrorlk | 2,325
+adaderanalk | 2,411
 virakesarilk | 3,002
 dailymirrorlk | 3,141
-adaderanasinhalalk | 3,276
+adaderanasinhalalk | 3,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,155 (100.0%) of 20,155 articles have been extended.
+20,155 (100.0%) of 20,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### දුම්රිය නඩත්තුවත් රජයට හිසරදයක් වෙයි
+
+*2024-04-22 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195857) · `si`
+
+දුම්රිය නඩත්තු කටයුතුවලට පවා වර්තමානය වන විට ණය ගැනීමේ අවශ්‍යතාව මතු ව ඇති බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+◼️
+
+[Data](articles/86784ef5.json)
+
+---
+
+### Drivers of two racing cars involved in ‘Fox Hill’ crash arrested
+
+*2024-04-22 10:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98767/drivers-of-two-racing-cars-involved-in-fox-hill-crash-arrested-) · `en`
+
+The two drivers of the racing cars involved in yesterday’s tragic accident at the Fox Hill Super Cross races in Diyatalawa have been arrested while undergoing treatment in hospital, the Police Media Division said.
+
+Seven persons were killed while 23 others were injured following an accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on Sunday (21).
+
+The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators. The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
+
+Police Media Spokesman DIG Nihal Thalduwa stated that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
+
+The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
+
+...
+
+[Data](articles/db0d0243.json)
+
+---
+
+### 2024 பட்ஜெட் வருமான  இலக்கை எட்டத் தவறும்
+
+*2024-04-22 09:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-பட்ஜெட்-வருமான-இலக்கை-எட்டத்-தவறும்/175-336162) · `ta`
+
+2024 ஆம் ஆண்டில் தொடர்ச்சியாக 33வது ஆண்டாக இலங்கை மொத்த உள்நாட்டு உற்பத்தியில் வருமானம் தொடர்பான வரவு செலவுத்திட்ட இலக்கை எட்டத் தவறிவிடும் என அண்மையில் வெளியிடப்பட்ட '2024 வரவு செலவுத் திட்ட நிலை தொடர்பான அறிக்கையில்' எதிர்பார்க்கப்படுகிறது.
+
+‘வரவு செலவுத் திட்ட நிலை தொடர்பான அறிக்கை’ஆண்டுதோறும் வெரிட்டே ரிசேர்ச் நிறுவனத்தால் தொகுக்கப்பட்டு, பொருளாதாரத் தகவல்களுக்கான இலங்கையின் முதன்மை தளமாக உள்ள PublicFinance.lk இல் வெளியிடப்படுகிறது.
+
+...
+
+[Data](articles/c939eb81.json)
+
+---
 
 ### More attention to Sigiriya and Dambulla
 
@@ -1562,6 +1608,22 @@ Chellamuthu's servants, who tried to attack Velu Kumar MP, retreced to the peopl
 
 ---
 
+### එතෆොන් දාන පළතුරු පැය 72ක් යන තෙක් අල්ලන්නවත් නරකයි
+
+*2024-04-21 19:33:14* · [`adalk`](https://www.ada.lk/breaking_news/එතෆොන්-දාන-පළතුරු-පැය-72ක්-යන-තෙක්-අල්ලන්නවත්-නරකයි/11-409195) · `si`
+
+මෙරට තුළ මේ වනවිට පලතුරු ඉදවීම සඳහා නීතිවිරෝධී ලෙස එතෆොන් (Ethephone) රසායනිකය  ඍජුව ස්ප්‍රේ කරන බැවින් එම පලතුරු  පැය 72ක් යන තෙක් ස්පර්ශ කිරීම මිනිස් සිරුරට අධිඅවදානම් වන බවට මහජන සෞඛ්‍ය පරීක්ෂක සඳුන් රත්නායක මහතා අවධාරණය කරයි.
+
+මේ පිළිබඳ 'අද' සිදුකළ වැඩිදුර විමසීමේදී ඔහු පෙන්වා දුන්නේ සම්මත ප්‍රමාණයට පටහැණිව ආහාර සඳහා අදාළ රසායනිකය අධිකව භාවිත කිරීමට එරෙහිව කටයුතු කිරීම සඳහා ආහාරවල අඩංගු එතෆොන් ප්‍රමාණය පරීක්ෂා කිරීමට අදාළ ප්‍රමාණවත් පහසුකම් රස පරීක්ෂණාගාර තුළ නොමැති බවයි.
+
+ඒ අනුව පලතුරු මිලදී ගැනීමේදී අමු පලතුරු ලබාගැනීමට සියලු දෙනා සැලකිලිමත් වීම අනිවාර්‍ය වන බවත්, වෙළෙඳ සැල් තුළ සිට ආහාර ගැනීම අවම කළ යුතු බවත් රත්නායක මහතා අවධාරණය කර සිටියේය.කෘමිනාශකයක්,වර්ධක හෝමෝනයක්,මල් හට ගැන්වීම උත්තේජනය කරන හෝමෝනයක් වන එතෆොන් රසායනිකය ඇතැම් පුද්ගලයන් විසින් ලාභ ප්‍රයෝජනය උදෙසා භාවිත කරන අතර ඔවුන්ගෙන් බහුතරයක් ආරක්ෂිත උපකරණ භාවිත නොකරමින් අනාරක්ෂිත ලෙස එය භාවිත කරනු ලබයි.
+
+...
+
+[Data](articles/62029587.json)
+
+---
+
 ### Sri Lanka to miss budget revenue target for 33rd year running in 2024: Verité Research
 
 *2024-04-21 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98762/sri-lanka-to-miss-budget-revenue-target-for-33rd-year-running-in-2024-verit-research) · `en`
@@ -2113,89 +2175,5 @@ The cause of the accident has been uncovered so far, but helicopters have suspec
 [Data](articles/8ae9ca72.json)
 
 [Extended Data](ext_articles/8ae9ca72.ext.json)
-
----
-
-### ​Five dead, dozens injured in racing event accident in Diyatalawa
-
-*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Five-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
-
-The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of five individuals and leaving 21 others hospitalized with injuries.
-
-According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
-
-The injured have been admitted to the Diyatalawa Base Hospital.
-
-◼️
-
-[Data](articles/18266627.json)
-
-[Extended Data](ext_articles/18266627.ext.json)
-
----
-
-### ​Six dead, dozens injured in racing event accident in Diyatalawa
-
-*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Six-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
-
-The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of six individuals and leaving 21 others hospitalized with injuries.
-
-According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
-
-The injured have been admitted to the Diyatalawa Base Hospital.
-
-According to hospital sources, the condition of some of the injured is critical.
-
-◼️
-
-[Data](articles/4686172b.json)
-
-[Extended Data](ext_articles/4686172b.ext.json)
-
----
-
-### Racing event tragedy leaves seven dead including eight-year-old child
-
-*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Racing-event-tragedy-leaves-seven-dead-including-eight-year-old-child/155-281089) · `en`
-
-Colombo, April 21 (Daily Mirror) - The Fox Hill Super Cross 2024 racing event, held in Diyatalawa today (21), turned tragic as a race car veered off the track, resulting in the deaths of seven individuals including an eight-year-old child and leaving over 20 others hospitalized with injuries.
-
-According to Police Media Spokesman, DIG Nihal Thalduwa, the accident occurred when two race cars lost control and collided with a group of spectators.
-
-The deceased are residents of Avissawella, Matara, Akuressa and Seeduwa.
-
-The injured who were rushed to the Diyatalawa Base Hospital are currently receiving treatment.
-
-Furthermore, three individuals who sustained critical injuries have been transferred to the Badulla Hospital.
-
-In light of the mishap, the rest of the races at the event have been cancelled.
-
-...
-
-[Data](articles/c61986ae.json)
-
-[Extended Data](ext_articles/c61986ae.ext.json)
-
----
-
-### ​Seven dead, dozens injured in racing event accident in Diyatalawa
-
-*2024-04-21 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Seven-dead-dozens-injured-in-racing-event-accident-in-Diyatalawa/155-281089) · `en`
-
-The Fox Hill Super Cross 2024 racing event, held in Diyatalawa, turned tragic as a race car veered off the track, resulting in the deaths of seven individuals and leaving over 20 others hospitalized with injuries.
-
-According to Police Media Spokesperson, DIG Nihal Thalduwa, the accident occurred when the race car lost control and collided with a group of spectators.
-
-The injured have been admitted to the Diyatalawa Base Hospital.
-
-According to hospital sources, the condition of some of the injured is critical.
-
-In light of the mishap, the rest of the races at the event have been cancelled.
-
-◼️
-
-[Data](articles/cff10726.json)
-
-[Extended Data](ext_articles/cff10726.ext.json)
 
 ---

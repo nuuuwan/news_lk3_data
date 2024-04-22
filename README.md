@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 22:34:00**
+As of **2024-04-22 22:50:52**
 
 ## Newspaper Stats
 
-*Scraped **20,290** Articles*
+*Scraped **20,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ dailyftlk | 1,112
 economynextcom | 1,157
 adalk | 1,698
 tamilmirrorlk | 2,343
-adaderanalk | 2,426
+adaderanalk | 2,427
 virakesarilk | 3,031
 dailymirrorlk | 3,161
-adaderanasinhalalk | 3,295
+adaderanasinhalalk | 3,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,289 (100.0%) of 20,290 articles have been extended.
+20,290 (100.0%) of 20,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Three, including a boy, from Sri Lanka reach India on fibre boat
+
+*2024-04-22 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98783/three-including-a-boy-from-sri-lanka-reach-india-on-fibre-boat) · `en`
+
+Three persons, including an eight-year-old boy, from Sri Lanka reached the Dhanushkodi islet in India in the early hours of Monday. On information, the marine police brought them to the shore and conducted inquiries, The Hindu reported.
+
+A senior police officer said the three identified themselves as Sivaneshwaran, 49, Gajendran, 45, and his son Sajith, 8. They said they were residents of Batticaloa. It is said they hired a fibre boat from a point on the Thalaimannar beach and reached somewhere near the Dhanushkodi islet.
+
+They said poverty and joblessness, brought on the economic crisis, forced them to leave the island nation, the police officer said, adding that after due verification, they were sent to the Mandapam Rehabilitation Centre.
+
+An officer at the rehabilitation centre said that with the entry of the three persons, the number of occupants at the centre rose up to 301.
+
+...
+
+[Data](articles/fe825caa.json)
+
+---
+
+### අතරමං වූ මවකට පිහිට වූ දෙවිවරු වන් මිනිස්සු
+
+*2024-04-22 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195877) · `si`
+
+මහමග අතරමංව සිටි වයෝවෘද කාන්තාවක් යළි ඇයගේ නිවස වෙත භාරදීමට කාසි වත්ත ප්‍රදේශයේ ජනතාව සහ බඩල්ගම පොලීසිය කටයුතු කර තිබේ.
+
+මෙම සිදුවීමට මුහුණදී ඇත්තේ තම්මිට ප්‍රදේශයේ පදිංචිව සිටින වයස අවුරුදු 90ක පමණ වයෝවෘද කාන්තාවකි.
+
+එම කාන්තාව බඩල්ගම කාසිවත්ත ප්‍රදේශයේ සැරිසරමින් සිටියදී ප්‍රදේශවාසීන් ඇය පිළිබඳව බඩල්ගම පොලීසියට දැනුවත් කර ඇත.
+
+අනතුරුව බඩල්ගම පොලීසියේ නිලධාරීන් පැමිණ එම කාන්තාව පොලිස් ස්ථානය වෙත රැගෙන යාමට පියවර ගෙන ඇති බව පොලීසිය පවසයි.
+
+ඇය එහිදී ප්‍රකාශ කර ඇත්තේ තමන් කෑගල්ල ප්‍රදේශයේ සිට එම ප්‍රදේශයට පැමිණි බවය.
+
+පසුව බඩල්ගම පොලිස් ස්ථානාධිපතිවරයා අදාළ නිලධාරීන් වෙත පවසා ඇත්තේ එම කාන්තාව මීට පෙර එම ප්‍රදේශයේදීම තමන් දුටු බවය.
+
+එදින පොලිස් ස්ථානාධිපති ජයන්ත මහතා වෙනත් රාජකාරී කටයුත්තක් සඳහා දිවුලපිටිය පොලිස් බලප්‍රදේශය හරහා ගමන් කරමින් සිටියදී කෙහෙල්ඇල්ල තම්මිට ප්‍රදේශයේදී මෙම කාන්තාව මාර්ගයේ ඇවිද එන අයුරු දැක ඇත.
+
+ඒ අනුව පොලිස් ස්ථානාධිපති ජයන්ත මහතා තමන් අදාළ කාන්තාව දුටු ප්‍රදේශය ආශ්‍රිතව සිදුකළ සෝදිසි කිරීමකදී තම්මිට ප්‍රදේශයේ පිහිටි නිවසක අදාළ කාන්තාව වාසය කර ඇති බවට තොරතුරු අනාවරණය කරගෙන ඇත.
+
+...
+
+[Data](articles/25472f1e.json)
+
+---
 
 ### ‘Shree Ramayan Trails’ launched in Sri Lanka to boost tourism
 
@@ -326,17 +370,23 @@ It is noteworthy that the bail demand by the President's Attorney General on beh
 
 ---
 
-### රට සංවර්ධනය කළ හැකි එකම නායකයා රනිල්
+### Ranil is the only leader can develop the country
 
 *2024-04-22 18:48:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-සංවර්ධනය-කළ-හැකි-එකම-නායකයා-රනිල්/11-409211) · `si`
 
-රට සංවර්ධනය කළ හැකි එකම නායකයා රනිල් වික්‍රමසිංහ මතතා පමණක් බවද,එදා රටේ පැවති අරගලය අවස්ථාවේ දී පාලනය භාරගෙන පැවති අවදානම්  සහගත බවින් රට මුදාගන්නට ඔහුට හැකිවූ බවද, ජත්‍යන්තරය පවා ඔහුගේ නායකත්වය පිළිගන්නා බවද එක්සත් ජාතික පක්ෂයේ  නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතා  ප්‍රකාශ කළේය. ඒ මහතා මේ බව පැවසුවේ බියගම  සිය කාර්‍යාලයේදී අලුත් අවුරුදු උත්සවය සඳහා පැමිණි ජනතාව අමතමිනි.
+Ranil Wickremesinghe, according to UNP Deputy Leader Ruwan Wijewardena, is the only leader capable of developing Sri Lanka, as evidenced by the country's recovery and growth, attracting investors and tourists.
 
-"රට සාමාන්‍ය තත්වයට යළි පත්වෙමින් පවතිනවා.අද රටේ ජීවන මිල  මීට වසර දෙකකට පෙර තිබූ තත්වයට වඩා සහනදායි වී තිබෙනවා.රටේ ජනතාවට මීටත් වඩා සහන  ලබාදීමට අප ඉදිරියේදී කටයුතු කරනවා.අද රුපියල ශක්තිමත් වෙලා. ජනතාවට සහන ලැබිලා තියෙනවා.සංචාරක කර්මාන්තය වැඩි දියුණු වෙලා. ආයෝජකයන් සහ සංචාරකයන් දැන් වැඩි වැඩියෙන් ලංකාවට එන්න පටන් අරගෙන. මෙවර  මැයි රැළිය අතිසාර්ථක ව පවත්වනවා.ශ්‍රී ලංකාව සමෘද්ධිමත් රටක් බවට පත් කළ හැකි එකම නායකයා රනිල් වික්‍රමසිංහ මහතා බව අද කවුරුත් අවිවාදයෙන් පිළිගන්නවා."
+🟩
+
+According to the Deputy Leader of the UNP Ruwan Wijewardena, the only leader of the country has been able to rescue the country in the country that the country has been able to develop the country.He was addressing the people at their work on the New Year's Eve.
+
+"The country is resurrected to normal state.. The people have relief. The plant has improved. Investors and tourists are now starting to come to Sri Lanka. This year's May Day rally is supported by Ranil Wickremesinghe today that Sri Lanka is the only leader. "
 
 ◼️
 
 [Data](articles/d3f423cf.json)
+
+[Extended Data](ext_articles/d3f423cf.ext.json)
 
 ---
 
@@ -2205,49 +2255,5 @@ Seven individuals including an eight-year-old child were killed and 20 others ho
 [Data](articles/2da6c82f.json)
 
 [Extended Data](ext_articles/2da6c82f.ext.json)
-
----
-
-### Two racing drivers arrested over Fox Hill tragedy
-
-*2024-04-22 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-racing-drivers-arrested-over-Fox-Hill-tragedy/108-281154) · `en`
-
-Diyathalawa, April 22 (Daily Mirror)- Two racing drivers who participated in yesterday's Fox Hill Super Cross 2024 racing event have been arrested by the police over the accident which killed seven people.
-
-The arrested are a 36-year-old racer from Matara and 47-year-old from Mahakanda, Peradeniya.
-
-They have also sustained injuries due to the accident and are under treatment at the Diyathalawa Hospital under police security.
-
-Seven individuals including an eight-year-old child were killed and 20 others hospitalized with injuries when two racing cars lost control and collided with a group of spectators.
-
-◼️
-
-[Data](articles/af2ab270.json)
-
-[Extended Data](ext_articles/af2ab270.ext.json)
-
----
-
-### The Church is going to the UN for international investigation
-
-*2024-04-22 11:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருச்சபை-சர்வதேச-விசாரணைக்காக-ஐ-நாவுக்கு-செல்லவுள்ளது/175-336175) · `ta`
-
-The Catholic Church plans to seek justice for Easter Sunday attack victims at the UNHRC, criticizing governments for not addressing conspiracy theories.
-
-🟩
-
-The Catholic Church is planning to present a proposal at the United Nations Human Rights Council (UNHRC) with the aim of providing justice to victims of those attacks through several foreign governments and international organizations to launch an international investigation into the Easter Sunday terrorist attacks.
-
-Archbishop of Colombo Cardinal Malcolm Ranjith made this statement yesterday to the BBC Sinhala Service to mark the fifth anniversary of terrorist attacks on April 21, 2019.
-
-He accused the past and current governments of failing to express their conspiracy or brainwashing behind the attacks, despite the five years.
-
-In the context of former President Gotabhaya Rajapakse's failure to fulfill the promise of justice to the victims, Cardinal said he believed in the written promises of the United People's Power (SJB) and the national people's power.
-
-...
-
-[Data](articles/f0865282.json)
-
-[Extended Data](ext_articles/f0865282.ext.json)
 
 ---

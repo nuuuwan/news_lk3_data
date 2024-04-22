@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 06:57:38**
+As of **2024-04-22 07:18:49**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,126 (100.0%) of 20,131 articles have been extended.
+20,131 (100.0%) of 20,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### අව්ව - වැස්ස දෙකෙන්ම ප්‍රවේසම්වෙන්න
+### The sun - to be careful of both the rain
 
 *2024-04-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195847) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+"Expect showers/thundershowers in Western, Central, North Western, Uva, Northern provinces, and Western coastal areas. Be cautious of strong winds and lightning. Temperature monitoring in several parts of the island. Moneragala district and North, North-Central, Southern, Northwestern provinces to focus on heat."
 
-ඌව සහ උතුරු පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයෙත් සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-බස්නාහිර වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+From the Western, Sabaragamuwa, Central and North Western provinces, in Galle, Matara and Anuradhapura Districts. Showers or thundershowers will occur at several places, about 2.00.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් අම්පාර දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව සඳහන් වේ.
+Showers or thundershowers will occur at several places in the Uva and Northern provinces and in the Polonnaruwa District.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the Western coastal areas.
 
-මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (22) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+It is said that in some places in the Sabaragamuwa, Central and Uva provinces, in some places in the Ampara district, can last a morning in the morning.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
+
+Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to pay attention today (22).
 
 ...
 
 [Data](articles/2084a2f6.json)
+
+[Extended Data](ext_articles/2084a2f6.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ The current government has implemented the project and some SJB MPs have secured
 ...
 
 [Data](articles/f93e143f.json)
+
+[Extended Data](ext_articles/f93e143f.ext.json)
 
 ---
 
@@ -123,6 +131,8 @@ Dr. Manoharan said that Amnesty International had been pursuing his son’s case
 ...
 
 [Data](articles/88a291f3.json)
+
+[Extended Data](ext_articles/88a291f3.ext.json)
 
 ---
 
@@ -289,6 +299,8 @@ The prime rate hit a peak level of 29.67 percent in November 2022 when the monet
 ...
 
 [Data](articles/4d41045d.json)
+
+[Extended Data](ext_articles/4d41045d.ext.json)
 
 ---
 

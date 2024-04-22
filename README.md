@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 14:04:30**
+As of **2024-04-22 14:18:27**
 
 ## Newspaper Stats
 
-*Scraped **20,213** Articles*
+*Scraped **20,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,44 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,686
+adalk | 1,687
 tamilmirrorlk | 2,335
 adaderanalk | 2,418
 virakesarilk | 3,018
-dailymirrorlk | 3,147
+dailymirrorlk | 3,148
 adaderanasinhalalk | 3,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,211 (100.0%) of 20,213 articles have been extended.
+20,213 (100.0%) of 20,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### Foxhill அனர்த்தம்: 2 சாரதிகளுக்கு விளக்கமறியல்
+### Foxhill Disaster: Explanation for 2 Drivers
 
 *2024-04-22 13:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-விளக்கமறியல்/175-336186) · `ta`
 
-தியத்தலாவ நரியகந்தவில் இடம்பெற்ற “Foxhill Super Cross Race” கார் விபத்து தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட வாகன சாரதிகள் இருவரையும் எதிர்வரும் 30ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு பண்டாரவளை நீதவான்  அன்டனி எஸ்.பீட்டர் ஃபால்ல் , திங்கட்கிழமை (22) உத்தரவிட்டார்.
+Two drivers arrested for the Foxhill Super Cross Race accident, injuring 7, including an 8-year-old, and 21 hospitalized. Bandarawela Magistrate Antony S. Peter Fall ordered their detention until the 30th.
 
-தியத்தலாவ நர்யகந்த ஃபோக்ஸ்ஹில் மோட்டார் பந்தயத்தில் கலந்து கொண்டு பந்தய இலக்கம் 5-ன் கீழ் போட்டியிட்ட மாத்தறை மெதபாறை ஹித்தெட்டிய பிரதேசத்தை சேர்ந்த ரஞ்சித் உடுவிட்ட (36), பந்தய இலக்கத்தின் கீழ் போட்டியிட்ட பேராதனை மாகந்த பிரதேசத்தை சேர்ந்த ஏ.எம்.டிலான் சஞ்சீவ (47)  போட்டி இலக்கம் 196 ஆகிய இருவரே இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+🟩
+
+Bandarawela Magistrate Antony Serpel Falll, on Monday (22), has ordered the two motorists arrested on suspicion of the "Foxhill Super Cross Race" car accident at Diyathalawa Nariyakanda until the 30th of this month.
+
+Ranjith Uditha (36) from Mathaparai, Mathaparai, who competed under the Diyathalawa Naryakanda Foxhill Motor Racing, and AM Dillan Sanjeeva (47) from Peradeniya, who competed under the Racing number of Racing Counts..
+
+When the two cars were involved in the accident on Sunday (21) at the Diyatalawa Narayagantha Foxhil car race, seven people, including an 8 -year -old girl, were injured and 21 were admitted to the Diyatalawa Base Hospital.Hospital sources say that some of them are worrisome.
+
+Two contestants who were injured in the foxhill vehicle accident are currently being treated under the protection of police officers at the Diyathalawa Resource Hospital.
 
 ...
 
 [Data](articles/c67a51be.json)
+
+[Extended Data](ext_articles/c67a51be.ext.json)
 
 ---
 
@@ -59,6 +69,8 @@ In response to a question raised by a journalist regarding their guarantee to th
 ...
 
 [Data](articles/d63115c9.json)
+
+[Extended Data](ext_articles/d63115c9.ext.json)
 
 ---
 
@@ -153,6 +165,24 @@ Rasika Abeynaike, a member of the Sri Lanka Army rugby team and stationed at Sal
 [Data](articles/b6c55f50.json)
 
 [Extended Data](ext_articles/b6c55f50.ext.json)
+
+---
+
+### ෆොක්ස්හිල් රියදුරන් දෙදෙනා රිමාන්ඩ්
+
+*2024-04-22 12:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-රියදුරන්-දෙදෙනා-රිමාන්ඩ්/11-409202) · `si`
+
+දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ අනතුර සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් මෝටර් රථ තරගකරුවන් දෙදෙනා මේ මස 30 දින තෙක් රක්ෂිත බන්ධනාගාර ගත කර තැබමට බණ්ඩාරවෙල මහේස්ත්‍රාත් ඇන්ටනි එස්.පීටර් ෆෝල් මහතා අද (22දා) නියම කළේය.
+
+මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබූයේ දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ තරගයට ඉදිරිපත් වී තරග අංක5 යටතේ තරග කල මාතර  මැදපාර හිත්තැටිය ප්‍රදේශයේ පදිංචි රංජිත් උඩුවිට (36) සහ  තරග අංක 196 යටතේ තරග වැදුන පේරාදෙණිය  මාකන්ද ප්‍රදේශයේ පදිංචි ඒ.එම්.ඩිලාන් සංජීව  (47);යන  දෙදෙනාය.
+
+මොවුන් දෙදෙනා ඊයේ (21) දියතලාව  නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ තරගයට ඉදිරිපත් වී තරග වදිමින් සිටියදී මොවුන්ගේ මෝටර් රථ දෙක හදිසි අනතුරකට ලක්වීමෙන් අවුරුදු 8 ක කුඩා දැරියක ඇතුලු හත්දෙනෙකු මියගොස් 21 දෙනෙකු බරපතළ තුවාල ලබා දියතලාව මූලික රෝහලට සහ බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කරනු ලැබූහ .
+
+මින් කිහිපදෙනක් ගේ තත්ත්වය බරපතළ බවද රෝහල් ආරංචි මාර්ග පැවසීය .
+
+...
+
+[Data](articles/17e286be.json)
 
 ---
 
@@ -1650,6 +1680,18 @@ Sri Lanka Public Health Inspection Association President Upul Rohana
 
 ---
 
+### Maldivians in Sri Lanka cast votes
+
+*2024-04-22 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Maldivians-in-Sri-Lanka-cast-votes/110-281083) · `en`
+
+On April 21, 2024, Maldivian expatriates living in Sri Lanka exercised their democratic right by casting their votes in the Parliamentary Election of the Maldives. The polling station, established at the Maldivian High Commission in Colombo, welcomed over 300 Maldivian nationals who had registered to participate in the electoral process. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/7d52b7aa.json)
+
+---
+
 ### Corruption In Sri Lanka – Some Random Reflections
 
 *2024-04-22 06:40:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-some-random-reflections/) · `en`
@@ -2171,39 +2213,5 @@ Among the dead were 45 foreigners, including tourists visiting the island a deca
 [Data](articles/d30ef12d.json)
 
 [Extended Data](ext_articles/d30ef12d.ext.json)
-
----
-
-### WUSC holds first entrepreneurial ecosystem convening and knowledge sharing in Colombo, Jaffna
-
-*2024-04-22 01:43:55* · [`dailyftlk`](https://www.ft.lk/business/WUSC-holds-first-entrepreneurial-ecosystem-convening-and-knowledge-sharing-in-Colombo-Jaffna/34-760875) · `en`
-
-GRIT partners – Hatch, LIIN, and Yarl IT Hub with representatives from WUSC and Canadian High Commission
-
-WUSC (World University Service of Canada) held its first entrepreneurial ecosystem convening and knowledge sharing events on 27 February 2024 in Colombo and 14 March in Jaffna, under its newest project GRIT - Growth, Resilience, Investment and Training, a Gender-Responsive Entrepreneurial Ecosystem Development Project in the North of Sri Lanka.
-
-...
-
-[Data](articles/d2b54e52.json)
-
-[Extended Data](ext_articles/d2b54e52.ext.json)
-
----
-
-### Institute of Electrical and Electronic Engineers announces Illuminate ’24
-
-*2024-04-22 01:41:31* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Electrical-and-Electronic-Engineers-announces-Illuminate-24/34-760874) · `en`
-
-Inspiring initiative aimed at empowering undergraduate students aspiring to build their own startups and driving youth entrepreneurship
-
-Institute of Electrical and Electronic Engineers (IEEE) , the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity, has announced Illuminate ’24, an inspiring initiative aimed at empowering undergraduate students aspiring to build their own startups and driving youth entrepreneurship.
-
-Illuminate ’24 serves as a valuable platform for these students to gain insights from accomplished entrepreneurs who have successfully navigated the journey of building their ventures.
-
-...
-
-[Data](articles/09b1f38d.json)
-
-[Extended Data](ext_articles/09b1f38d.ext.json)
 
 ---

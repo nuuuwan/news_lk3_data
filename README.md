@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 18:34:16**
+As of **2024-04-22 18:52:43**
 
 ## Newspaper Stats
 
@@ -232,7 +232,7 @@ The indictment has been filed against an Indian national who owns a cricket team
 
 ---
 
-### Air Asia, FITS, Hayleys bid for SriLankan Airlines
+### Air Asia, SriLanka’s FITS, Hayleys bid for SriLankan
 
 *2024-04-22 16:40:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
 

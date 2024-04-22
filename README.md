@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 09:03:26**
+As of **2024-04-22 09:18:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,143 (100.0%) of 20,147 articles have been extended.
+20,147 (100.0%) of 20,147 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ They said Bandara was 63 years old at the time of his death.
 ◼️
 
 [Data](articles/27e3cf9f.json)
+
+[Extended Data](ext_articles/27e3cf9f.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Misty conditions can be expected at some places in the Sabaragamuwa, Central and
 ◼️
 
 [Data](articles/4768094b.json)
+
+[Extended Data](ext_articles/4768094b.ext.json)
 
 ---
 
@@ -151,6 +155,8 @@ CARAT Sri Lanka will feature the expertise of the U.S. Fleet Anti-Terrorism Secu
 ...
 
 [Data](articles/0a7dc65e.json)
+
+[Extended Data](ext_articles/0a7dc65e.ext.json)
 
 ---
 
@@ -1370,19 +1376,25 @@ Sri Lanka’s fiscal landscape remains challenging as it continues to struggle w
 
 ---
 
-### ජනාධිපති අපේක්ෂක ලෙස ඉදිරිපත්වීමට ඉල්ලීම් එනවා
+### Commands on contesting as presidential candidate
 
 *2024-04-21 19:25:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අපේක්ෂක-ලෙස-ඉදිරිපත්වීමට-ඉල්ලීම්-එනවා/11-409194) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් වීම සඳහා විශාල පිරිසක් ඉල්ලා සිටින බව අධිකරණ , බන්ධනාගාර හා ආණ්ඩුක්‍රම  ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා  ගම්පොළදී ඒ මහතා පැවසීය.
+Dr. Wijayadasa Rajapakse, Minister of Justice, is considering running for SLFP presidential candidate, believing he was appointed president by the Government Minister Attorney. He dismisses allegations against him, stating only a person's candidate was not in the country.
 
-ඔහු සඳහන් කරන්නේ මෙම ඉල්ලීම කරන පිරිසට තමා ජනාධිපතිවරයකු ලෙස පත්වන බවට විශ්වාසයක් තිබෙන බවයි.අධිකරණ රාජ්‍ය අමාත්‍ය  නීතිඥ අනුරාධ ජයරත්න මහතාගේ ඉල්ලීමක් මත සාමදාන විනිශ්චකාරවරුන් තුන්සිය දෙනකු සඳහා පත්වීම් ලබාදීමේ උත්සවයකට පැමිණ අවස්ථාවේදී ඒ මහතා මේ බව සඳහන් කළේය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනාධිපති අපේක්ෂකත්වය තුළින් මෙත්‍රීපාල සිරිසේන මහතාගේ චෝදනා හා නඩු අධිකරණයෙන් ඉවත්වේද  යන පැනයට පිළිතුරු දුන් රාජපක්ෂ මහතා පැවසුවේ යම් පක්ෂයක  පුද්ගලයෙකු අපේක්ෂකත්වයට පත් වූ පමණින් නඩු හබ ඉවත් වීමේ නීතියක් රට තුළ නොමැති බවයි.
+Minister of Justice, Prison and Constitution, Dr. Wijayadasa Rajapakse, Minister of Justice, is requested to contest as the SLFP presidential candidate.
+
+He said that he was convinced that he was appointed as a president in the request of the Government Minister Attorney at Chairperson of State Minister's Attorney General.
+
+Mr. Rajapaksa said that the allegations of Mary Sirisena's allegations and prosecution of the Sri Lanka Freedom Party (SLFP presidential candidate) said that only a person's candidate was not in the country.
 
 ◼️
 
 [Data](articles/e6f120ac.json)
+
+[Extended Data](ext_articles/e6f120ac.ext.json)
 
 ---
 

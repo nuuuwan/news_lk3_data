@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 01:18:28**
+As of **2024-04-23 01:34:14**
 
 ## Newspaper Stats
 
-*Scraped **20,309** Articles*
+*Scraped **20,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,094
-dailyftlk | 1,112
+dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
 tamilmirrorlk | 2,343
@@ -26,11 +26,315 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,309 (100.0%) of 20,309 articles have been extended.
+20,309 (99.9%) of 20,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### SJB accuses Govt. of attempting to disrupt party’s May Day rally
+
+*2024-04-23 01:13:45* · [`dailyftlk`](https://www.ft.lk/news/SJB-accuses-Govt-of-attempting-to-disrupt-party-s-May-Day-rally/56-760918) · `en`
+
+Claims CMC has provided Lipton Circle to NPP for their May Day rally despite claiming areas around it will not be allocated for rallies
+
+Says SJB will take necessary action against CMC’s decision favouring NPP and asks if NPP and Govt. have struck a deal
+
+Notes an estimated 100,000 supporters are anticipated to attend SJB’s rally, making it largest event on the day
+
+Accuses President of favouring an NPP win as an SJB win would leave him without any political prospects
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar accused the Government of attempting to disrupt the party’s rally on May Day while at the same time facilitating the Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) party’s May Day events.
+
+...
+
+[Data](articles/1d71b0d2.json)
+
+---
+
+### President calls on Chief Prelates of the Malwatu-Asgiri Chapters
+
+*2024-04-23 01:12:55* · [`dailyftlk`](https://www.ft.lk/news/President-calls-on-Chief-Prelates-of-the-Malwatu-Asgiri-Chapters/56-760917) · `en`
+
+President Ranil Wickrem-esinghe on Sunday called on the Chief Prelates of the Malwathu and Asgiri Chapters to seek their blessings.
+
+First, President Ranil Wickremesinghe visited the Malwathu Maha Viharaya and paid his respects to the Chief Prelate of the Malwathu Chapter, Most Ven. Thibbatuwawe Sri Sumangala Nayaka Thera, followed by a brief discussion. The Anunayake of the Malwathu Chapter, Most Venerable
+
+Dimbulkumbure Vimalad-hamma Thera, was also present, and together they chanted Seth Pirith and blessed the President. Thereafter, President Ranil Wickremesinghe preceded to the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Thera, and engaged in a brief discussion.
+
+During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Muthiyangana Raja Maha Vihara, Ven. Murundeniye Dhammar-athana Thera recited Seth Pirith and invoked blessings upon the President.
+
+◼️
+
+[Data](articles/a4d7c029.json)
+
+---
+
+### Govt’s IMF efforts a mere facade – G.L
+
+*2024-04-23 01:12:15* · [`dailyftlk`](https://www.ft.lk/news/Govt-s-IMF-efforts-a-mere-facade-G-L/56-760916) · `en`
+
+Reveals IMF has instructed SL to pass bill aimed at curbing corruption and fraud
+
+Slams Govt. for breaking promises made to IMF while simultaneously deceiving citizens
+
+Freedom People’s Congress (FPC) member Prof. G.L. Peiris yesterday accused the Government of merely acting out a facade while claiming to be striking a deal with the International Monetary Fund (IMF).
+
+...
+
+[Data](articles/aa1c04fa.json)
+
+---
+
+### Thilanga opposes Wijeyadasa’s appointment as SLFP Acting Chair
+
+*2024-04-23 01:11:15* · [`dailyftlk`](https://www.ft.lk/news/Thilanga-opposes-Wijeyadasa-s-appointment-as-SLFP-Acting-Chair/56-760915) · `en`
+
+Highlights that party’s constitution doesn’t allow its Acting General Secretary to convene meetings in current scenario
+
+Claims Executive Council meeting convened by SLFP Acting General Secretary is illegal
+
+Says therefore decisions taken on Sunday including appointment of Acting Chairman is null and void
+
+Sri Lanka Freedom Party (SLFP) Vice President Thilanga Sumathipala yesterday expressed his opposition to the appointment of Justice Minister Wijeyadasa Rajapakshe as the party’s Acting Chairman.
+
+Sumathipala, though aligned with the pro-Sirisena faction, was also seen raising objections to Rajapakshe’s appointment during the party’s Executive Council meeting on Sunday. However, his objections were met with interruption from other attendees.
+
+Sumathipala said the Executive Council meeting convened by SLFP Acting General Secretary Sarathi Dushmantha Mithrapala on Sunday to appoint Rajapakshe was illegal.
+
+...
+
+[Data](articles/e12724af.json)
+
+---
+
+### SLASSCOM successfully concludes People Summit 2024
+
+*2024-04-23 01:09:58* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-successfully-concludes-People-Summit-2024/34-760914) · `en`
+
+Fireside Chat: ‘Money Matters’ - Insights on investment and economic development with Board of Investment of Sri Lanka Executive Director Prasanjith Wijayatilake, moderated by Advocata Institute CEO Dhananath Fernando
+
+The SLASSCOM People Summit 2024, organised by the SLASSCOM HR Forum at WatersEdge on 13 March, brought together industry leaders, experts, and practitioners to discuss current workplace challenges.
+
+Speakers from various sectors shared emerging trends and innovative HR strategies, inspiring attendees to drive positive organisational change through interactive discussions and insightful sessions.
+
+...
+
+[Data](articles/5cc9fed6.json)
+
+---
+
+### John Keells Properties hosts Union Bank customers at ‘Viman’ Ja-Ela model apartment
+
+*2024-04-23 01:09:18* · [`dailyftlk`](https://www.ft.lk/business/John-Keells-Properties-hosts-Union-Bank-customers-at-Viman-Ja-Ela-model-apartment/34-760913) · `en`
+
+John Keells Properties has partnered with Union Bank to offer flexible mortgage solutions for its ‘Viman’ Ja-Ela project.
+
+John Keells Properties further strengthened its relationship with the bank’s customers by hosting an exclusive event for them on 6 March, to tour the Viman model apartment at the John Keells Properties head office in Vauxhall Street, Colombo 2.
+
+The event provided an opportunity for customers of Union Bank to tour the model apartment and to engage with the experienced sales team from John Keells Properties to understand how owning a home at Viman Ja-Ela can fulfil their aspirations. The innovative mortgage packages provided by Union Bank in collaboration with John Keells Properties enable prospective homeowners to access customised financing options, making Viman Ja-Ela’s residences more accessible.
+
+...
+
+[Data](articles/c11d948d.json)
+
+---
+
+### Hayleys Solar records double win at SLIM Brand Excellence
+
+*2024-04-23 01:08:12* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-records-double-win-at-SLIM-Brand-Excellence/34-760912) · `en`
+
+Hayleys Solar team at the victorious night of the SLIM award gala
+
+Wins Bronze in ‘Green Brand of the Year’ and Merit for ‘Best New Entrant’ 2023
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons Ltd., proudly clinched two coveted awards at the prestigious Brand Excellence Awards, organised by the Sri Lanka Institute of Marketing (SLIM) to honour exceptional marketing efforts and outstanding brand stories.
+
+Hayleys Solar won the Bronze Award for Green Brand of the Year which recognises Hayleys Solar’s green energy revolution, in a competitive category spanning the strongest local and multinational brands in the country. Hayleys Solar also won the Merit Award for Best New Entrant Brand of the Year which highlights the brand’s impressive strides in the renewable energy sector, being able to meet the pressing needs of homeowners in Sri Lanka.
+
+...
+
+[Data](articles/cd96c562.json)
+
+---
+
+### Westbury Suites succeeds in resurrecting halted Campbell Avenue project
+
+*2024-04-23 01:07:19* · [`dailyftlk`](https://www.ft.lk/business/Westbury-Suites-succeeds-in-resurrecting-halted-Campbell-Avenue-project/34-760911) · `en`
+
+A few months ago, in the heart of Sri Lanka’s commercial capital, where the pulse of urban life beats strongest, there stood a dormant skeleton of promise – a halted condominium project, whispering tales of dashed dreams and broken ambitions. Amidst the rubble and despair, Westbury Suites spearheaded and fuelled by the vision and determination of Project Director Muhez Muzammil emerged to bring life back to the said venture, despite the doubts/concerns raised by experts and industry professionals.
+
+The project which was under the supervision and leadership of the team lead by Muhez, was not willing to let its potential languish in obscurity. Armed with strategic foresight and unwavering resolve, they embarked on a journey of revitalisation, turning the tide of misfortune into a beacon of hope.
+
+...
+
+[Data](articles/030375b2.json)
+
+---
+
+### US and Sri Lankan Navies kick off CARAT Sri Lanka 2024 exercise in Trincomalee
+
+*2024-04-23 01:06:03* · [`dailyftlk`](https://www.ft.lk/news/US-and-Sri-Lankan-Navies-kick-off-CARAT-Sri-Lanka-2024-exercise-in-Trincomalee/56-760910) · `en`
+
+US Navy sailors and Sri Lankan Navy sailors treat a simulated casualty during a casualty evacuation exercise during CARAT 2023
+
+US Marines and Sri Lankan Marines conduct Visit, Board, Search, and Seizure (VBSS) drills during Cooperation Afloat Readiness and Training (CARAT) exercise in 2023
+
+The United States Navy, US Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from 22 to 26 April in Trincomalee.
+
+CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Security Team (FAST), a US Marine Corps unit specialised in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities.
+
+...
+
+[Data](articles/c3b8b287.json)
+
+---
+
+### Book review: “Lama Apata Dhammapadaya”
+
+*2024-04-23 01:04:53* · [`dailyftlk`](https://www.ft.lk/news/Book-review-Lama-Apata-Dhammapadaya/56-760909) · `en`
+
+In his captivating work, “Lama Apata Dhammapadaya,” Deepal Sooriyaarachchi skilfully introduces the profound teachings of Buddhism to young readers in a way that is both accessible and enriching. The book, a masterful adaptation of the classic Buddhist scripture, Dhammapada, serves as a beacon of wisdom, guiding children on a journey of self-discovery and moral growth.
+
+Sooriyaarachchi’s writing effortlessly weaves together storytelling and the timeless teachings of the Buddha, creating a compelling narrative that captures the imagination of young minds. The language used is simple, yet elegant, making it easy for children to comprehend the deeper philosophical concepts embedded within the verses.
+
+...
+
+[Data](articles/c8302212.json)
+
+---
+
+### Victims of Easter Sunday attacks remembered on 5th anniversary
+
+*2024-04-23 01:03:46* · [`dailyftlk`](https://www.ft.lk/news/Victims-of-Easter-Sunday-attacks-remembered-on-5th-anniversary/56-760908) · `en`
+
+Victims of the 2019 Easter Sunday attacks were remembered on Sunday marking the fifth anniversary of the mayhem. The commemoration ceremony was held at Katuwapitiya cemetery. A prayerful procession was also held from Maris Stella College Negombo to St. Sebastian’s Church Katuwaputiya to mark the occasion – Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/3bb102a8.json)
+
+---
+
+### 2019 Easter Sunday attacks and victims commemorated at St. Anthony’s Shrine in Kochchikade
+
+*2024-04-23 01:02:30* · [`dailyftlk`](https://www.ft.lk/news/2019-Easter-Sunday-attacks-and-victims-commemorated-at-St-Anthony-s-Shrine-in-Kochchikade/56-760907) · `en`
+
+Archbishop of Colombo Malcolm Cardinal Ranjith officiated at the fifth anniversary commemoration of the 2019 Easter Sunday attacks at St. Anthony’s Shrine in Kochchikade on Sunday. A large number of clergy from multiple faiths and devotees participated – Pix by Ruwan Walpola
+
+◼️
+
+[Data](articles/4760f8fe.json)
+
+---
+
+### IPS advocates stricter regulations for alcohol control in Sri Lanka
+
+*2024-04-23 00:59:26* · [`dailyftlk`](https://www.ft.lk/opinion/IPS-advocates-stricter-regulations-for-alcohol-control-in-Sri-Lanka/14-760906) · `en`
+
+Recent statistics paint a stark picture of alcohol-related challenges facing Sri Lanka, with an alarming 83% of deaths attributed to non-communicable diseases (NCDs). Alcohol consumption emerges as a prominent risk factor for NCDs, exacerbating health costs and contributing to issues such as road accidents and domestic violence.
+
+Despite its perceived economic benefits, the economic toll of alcohol-related conditions surpasses any revenue generated. The World Health Organization (WHO) estimates that in 2015 alone, the economic cost of alcohol-related conditions amounted to a staggering $ 885.86 million, equivalent to 1.07% of Sri Lanka’s GDP for that year.
+
+...
+
+[Data](articles/7c755770.json)
+
+---
+
+### Defence Ministry announces general amnesty for Tri-Forces absentees
+
+*2024-04-23 00:58:16* · [`dailyftlk`](https://www.ft.lk/opinion/Defence-Ministry-announces-general-amnesty-for-Tri-Forces-absentees/14-760905) · `en`
+
+The Ministry of Defence has announced that the General Amnesty period announced from 20 April 2024 to 20 May 2024 for members of the Tri-Forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL.
+
+General Amnesty is valid only for other rank personnel of the Tri-Forces who have not reported for duty without leave on or before 31 December 2023.
+
+This General Amnesty period does not apply for Commissioned Officers who have not reported for duty without leave.
+
+During this General Amnesty period, those who report will be legally discharged from their respective services. However, the General Amnesty is not applicable to those personnel mentioned below while taking into consideration the expenses incurred for the special training provided using public funds in the following sectors and considering the difficulties encountered to maintain the operations in those sectors by their discharge.
+
+...
+
+[Data](articles/2157fa3e.json)
+
+---
+
+### Great Place to Work Sri Lanka hosts discussion on ‘Embracing Diversity for Women’s Empowerment’ in the workplace
+
+*2024-04-23 00:57:31* · [`dailyftlk`](https://www.ft.lk/opinion/Great-Place-to-Work-Sri-Lanka-hosts-discussion-on-Embracing-Diversity-for-Women-s-Empowerment-in-the-workplace/14-760904) · `en`
+
+The panel discussion on fostering empowerment and inclusivity for women at work
+
+Great Place to Work in Sri Lanka recently organised an engaging and insightful event titled ‘Building Bridges: Embracing Diversity for Women’s Empowerment’ at Ramada Colombo, that garnered participation from over 70 individuals.
+
+The event commenced with a thought-provoking panel discussion featuring Independent Consultant Dr. Ramani Gunatilaka, BoardPAC Founder and CEO Lakmini Wijesundera, Standard Chartered Sri Lanka Head of Human Resources Rukshila Seneviratne, ChildFund International Country Director Aditi Ghosh and The European Chamber of Commerce of Sri Lanka Project Lead – Inclusive Business Practices William Baxter. The panel discussion was moderated by Dankotuwa Porcelain PLC Executive Director and CEO Channa Gunawardana.
+
+...
+
+[Data](articles/490a14f1.json)
+
+---
+
+### Milinda meets Indian Finance Minister and National Security Adviser
+
+*2024-04-23 00:55:50* · [`dailyftlk`](https://www.ft.lk/opinion/Milinda-meets-Indian-Finance-Minister-and-National-Security-Adviser/14-760903) · `en`
+
+Pathfinder Foundation Founder and former Ambassador Milinda Moragoda last week met with Indian Finance Minister Nirmala Sitharaman and National Security Adviser Shri Ajit Doval in Delhi. Moragoda is on a short visit to India and has had discussions with several senior government leaders and heads of think tanks.
+
+◼️
+
+[Data](articles/275888ff.json)
+
+---
+
+### Foreign Ministry team in New Zealand on proposed resident mission in Wellington
+
+*2024-04-23 00:55:13* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-Ministry-team-in-New-Zealand-on-proposed-resident-mission-in-Wellington/14-760902) · `en`
+
+Following the decision by the Cabinet of Ministers to open a Sri Lanka High Commission in Wellington, New Zealand, an official delegation led by Director General Pradeepa Saram of the Overseas Assets Management and Development Division in the Ministry, is in New Zealand from 22 to 25 April 2024 to attend to matters related to the opening of the High Commission.
+
+During the visit, the delegation will engage in meetings with officials of the Ministry of Foreign Affairs and Trade of New Zealand, and other related agencies and stakeholders.
+
+New Zealand has a significant Sri Lankan expatriate community comprising mostly professionals and students. The opening of a resident mission will facilitate outreach to the community and pursuit of stronger collaboration in the fields of trade, education, sports, science and technology, tourism and health.
+
+New Zealand opened a resident mission in Sri Lanka in 2021, which is an important milestone in the bilateral relations between the two countries.
+
+◼️
+
+[Data](articles/b61cc126.json)
+
+---
+
+### Why bring science into Buddhist discourse?
+
+*2024-04-23 00:42:17* · [`dailyftlk`](https://www.ft.lk/opinion/Why-bring-science-into-Buddhist-discourse/14-760890) · `en`
+
+Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a half millennia ago have crept back into Buddhism. It is true that some of it has cultural, artistic, or sentimental values. But if the human affliction for beliefs and mysticism, or the shortcomings in our sensory apparatus, are used to exploit the innocent and waste valuable resources that could be put into better use, that would be an insult to Dhamma, its author, and purveyors. The preferred outcome of comparing Buddhism and science would be to enable science savvy young generations to relate to Buddha Dhamma and prevent falling prey to mysticism
+
+...
+
+[Data](articles/d56f639e.json)
+
+---
+
+### An ‘arriere-pensee’ to proposed debate of SJB vs JVP/NPP
+
+*2024-04-23 00:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/An-arriere-pensee-to-proposed-debate-of-SJB-vs-JVP-NPP/14-760889) · `en`
+
+The Leader of the Opposition (LoO) having a public debate with Anura Kumara Dissanayaka (AKD) is simply a mismatch and an insult to the office of the LoO.
+
+It is a globally accepted practice that an argument, debate or a discourse on an important issue or subject has to be conducted between two equal individuals, groups or societies. Otherwise, it will become a joke or useless exercise that fails to meet the expected objectives.
+
+The office of the LoO is a statutorily established legislative body headed by the leader of the second largest political party in Parliament and not affiliated to the government in a parliamentary democracy according to Thomas Erskine May (1815 – 1886).
+
+The Leader of the Opposition is the Prime Minister-in waiting in a Westminster form of governance or in any other legislature that practices a form of parliamentary democracy. He or she has a responsibility to safeguard the honour, dignity and statutory obligations of himself and his office.
+
+...
+
+[Data](articles/5eef5206.json)
+
+---
 
 ### Importance of intellectuality with humanity in politicians
 
@@ -1845,435 +2149,5 @@ However, in April, vegetable and fruit cultivation has improved once again and t
 [Data](articles/6a8aa21e.json)
 
 [Extended Data](ext_articles/6a8aa21e.ext.json)
-
----
-
-### Foxhill Disaster: Explanation for 2 Drivers
-
-*2024-04-22 13:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-விளக்கமறியல்/175-336186) · `ta`
-
-Two drivers arrested for the Foxhill Super Cross Race accident, injuring 7, including an 8-year-old, and 21 hospitalized. Bandarawela Magistrate Antony S. Peter Fall ordered their detention until the 30th.
-
-🟩
-
-Bandarawela Magistrate Antony Serpel Falll, on Monday (22), has ordered the two motorists arrested on suspicion of the "Foxhill Super Cross Race" car accident at Diyathalawa Nariyakanda until the 30th of this month.
-
-Ranjith Uditha (36) from Mathaparai, Mathaparai, who competed under the Diyathalawa Naryakanda Foxhill Motor Racing, and AM Dillan Sanjeeva (47) from Peradeniya, who competed under the Racing number of Racing Counts..
-
-When the two cars were involved in the accident on Sunday (21) at the Diyatalawa Narayagantha Foxhil car race, seven people, including an 8 -year -old girl, were injured and 21 were admitted to the Diyatalawa Base Hospital.Hospital sources say that some of them are worrisome.
-
-Two contestants who were injured in the foxhill vehicle accident are currently being treated under the protection of police officers at the Diyathalawa Resource Hospital.
-
-...
-
-[Data](articles/c67a51be.json)
-
-[Extended Data](ext_articles/c67a51be.ext.json)
-
----
-
-### Sri Lanka president to contest election under independent party symbol: UNP
-
-*2024-04-22 13:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-contest-election-under-independent-party-symbol-unp-159680/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe will be next to an independent symbol on the ballot paper, according to United National Party (UNP) general secretary Palitha Range Bandara.
-
-Bandara told reporters that the ruling Sri Lanka Podujana Peramuna (SLPP) will have its symbol, the lotus bud, on the ballot if the party decides to contest.
-
-He was responding to a question about a comment SLPP parliamentarian Namal Rajapaksa had made that the lotus bud would definitely appear on the ballot paper no matter what.
-
-“If the SLPP contests, their symbol will be there on the ballot paper. Mr Ranil Wickremesinghe will be contesting under an independent symbol, so for us there is no issue of a lotus bud being there,” he said.
-
-Bandara also reiterated that the presidential election will definitely be held this year, despite speculation to the contrary.
-
-...
-
-[Data](articles/6d5de048.json)
-
-[Extended Data](ext_articles/6d5de048.ext.json)
-
----
-
-### ‘Fox Hill’ crash: Organisers evade responsibility, blame shifted to spectators
-
-*2024-04-22 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98774/fox-hill-crash-organisers-evade-responsibility-blame-shifted-to-spectators) · `en`
-
-The organisers of the ‘Fox Hill Super Cross 2024’ motorsport racing event claim that they had assured the safety of the spectators at the event and that yesterday’s tragic accident was caused by the carelessness of the spectators themselves.
-
-Speaking during a press conference held today (22), regarding the horror crash which resulted the death of 07 individuals and left 23 others injured during a racing event, the organisers of the event said that safe areas which are elevated from the tracks had been established for the spectators.
-
-In response to a question raised by a journalist regarding their guarantee to the spectators of the event, an organizer said: “Fox Hill has a huge area for normal spectators around the pine tree corner. We have a grand stand and also the normal ticket and high-priced ticket viewing area.”
-
-...
-
-[Data](articles/d63115c9.json)
-
-[Extended Data](ext_articles/d63115c9.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-22 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181659) · `ta`
-
-On April 22, the US dollar's purchase price was Rs 297.0024, and the sale price was Rs 306.4586.
-
-🟩
-
-The US dollar purchasing price was Rs 297.0024 and the sales price were Rs 306.4586 based on the Central Bank's currency exchange rate on Monday (April 22).
-
-◼️
-
-[Data](articles/aff37c20.json)
-
-[Extended Data](ext_articles/aff37c20.ext.json)
-
----
-
-### In the spring of Nuwara Eliya
-
-*2024-04-22 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181650) · `ta`
-
-In Nuwara Eliya, public demands action against temporary shops, especially concerning women selling Yasagas and Urupathi, and jewelry. Accusations of inappropriate behavior and body touching by tourists. Despite informing authorities, no action has been taken. Harassment intensifies since April, raising concerns for future visitors.
-
-🟩
-
-In Nuwara Eliya, the shopkeepers and the public are constantly demanding that the authorities or responsible people take appropriate action regarding the temporary shop, the shopkeepers, the infants, the boys, the boys and the folders.
-
-In April, the public and tourists are constantly accused of increasing the risk of women who sell Yasagas and Urupathi, especially in April, and are constantly trying to sell jewelery as they sell.
-
-It is noteworthy that she is a group of women from the outer districts, where they are pregnant and lactating mothers, where they are sitting with a baby girl.. Also, when selling the mouthpiece, the public and the tourists are speaking out inappropriately, and they are involved in the act of touching the body of the tourists from abroad, without the right to the body of the tourists.
-
-...
-
-[Data](articles/189f4e54.json)
-
-[Extended Data](ext_articles/189f4e54.ext.json)
-
----
-
-### Explanation for two including Ulappana Sumangala Thera!
-
-*2024-04-22 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181658) · `ta`
-
-Ulappana Sumangala Thera, Coordinator of the Teacher and Chancellor Trade Union Federation, and another were arrested and interrogated for disrupting the removal of cottage houses, as ordered by the court.
-
-🟩
-
-Two persons, including the Coordinator of the Teacher and Chancellor Trade Union Federation, Ulappana Sumangala Thera have been interrogated.
-
-They have been arrested and interrogated on charges of disrupting the removal of cottage houses on a court order.
-
-The Magistrate's Court has ordered the two men, including Ulappana Sumangala Thera, when the case came up for hearing at the Pudukkadai No. 3 Magistrate's Court today (22).
-
-◼️
-
-[Data](articles/60cf3e8d.json)
-
-[Extended Data](ext_articles/60cf3e8d.ext.json)
-
----
-
-### World Earth Day today!
-
-*2024-04-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181649) · `ta`
-
-"World Earth Day today! Celebrated on April 22, it emphasizes environmental protection and Earth stability. This year's theme, "plastic against Earth," focuses on plastic pollution and its impacts."
-
-🟩
-
-World Earth Day is celebrated on April 22 every year to maintain environmental protection and the stability of the Earth by countries around the world.
-
-The theme of World Earth Day this year is "plastic against Earth".
-
-This theme is highlighted by plastic pollution and its adverse effects.
-
-◼️
-
-[Data](articles/b5ea1bb9.json)
-
-[Extended Data](ext_articles/b5ea1bb9.ext.json)
-
----
-
-### An order preventing 112 luxury cars
-
-*2024-04-22 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195863) · `si`
-
-The Colombo Magistrate Court ordered the seizure of 112 luxury cars, following a request by the Bribery Commission.
-
-🟩
-
-The Colombo Magistrate Court today (22) ordered the Commander's Commissioner General of Motor Traffic today (22).
-
-The order has been issued by the Chief Magistrate Thilina Gamage of Colombo after considering a request made by the Bribery Commission.
-
-◼️
-
-[Data](articles/5a2c574b.json)
-
-[Extended Data](ext_articles/5a2c574b.ext.json)
-
----
-
-### Sri Lanka rupee quoted in spot-next dollar market after pressure
-
-*2024-04-22 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-quoted-in-spot-next-dollar-market-after-pressure-159678/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 302.20/30 to the US dollar in the spot next (spot plus one day) market after the stop opened tentatively at 302.00/75 levels, dealers said.
-
-There were one or two sporadic deals at 302.00 to the US dollar, but the spot market was not very active in early trade, dealers said.
-
-Market participants are recovering from a heavy dose of moral suasion last week, after the rupee came under upward pressure from an ‘oversold position’.
-
-Sri Lanka’s central bank collected 715 million dollars from the interbank market in March, three times the around 200 million it collected in the previous two months.
-
-The central bank was able to collect large amount of dollars in March as the rupee was allowed to appreciate steeply within a short time amid deflationary policy, encouraging importers to delay payments and also creating market incentives banks to short their open positions.
-
-...
-
-[Data](articles/309dafc3.json)
-
-[Extended Data](ext_articles/309dafc3.ext.json)
-
----
-
-### Ralking Party for elections in Maldives
-
-*2024-04-22 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195862) · `si`
-
-Maldives' President Mohammed Mischu's party won a significant victory in yesterday's general election, securing 66 out of 93 parliamentary seats. The National Congress of Museu's Muizu led the victory, with about 280,000 eligible voters participating.
-
-🟩
-
-The present President Mohammed Mischu, the party, was able to achieve a significant victory in the general election held yesterday (21).
-
-Accordingly, the National Congress of Museu's Muizu, a public national congress, has already won 66 seats.
-
-The election was held to select MPs for 93 seats in Parliament.
-
-There are about 280,000 people who have eligible to vote for the election.
-
-◼️
-
-[Data](articles/faeb2fec.json)
-
-[Extended Data](ext_articles/faeb2fec.ext.json)
-
----
-
-### Wijayadasa's name to the Election Commission
-
-*2024-04-22 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195861) · `si`
-
-Dr. Wijayadasa Rajapakse, appointed SLFP acting chairman, will inform the Election Commission and Executive Council. The SLFP executive met in Ethul Kotte, with Rajapaksa emphasizing unity and victory.
-
-🟩
-
-The party's Maithri has said that the name of Minister Dr. Wijayadasa Rajapakse was appointed as the SLFP acting chairman.
-
-Accordingly, the Elections Secretariat will be informed of the name of the Executive Council of Wijayadasa and the Executive Council of Wijayadasa and the Executive Council.
-
-The Sri Lanka Freedom Party (SLFP) summarizes the Sri Lanka Freedom Party (SLFP) executive meeting was convened at a hotel in Ethul Kotte yesterday (21).
-
-Minister of Justice Dr. Wijayadasa Rajapaksa also attended the executive council meeting.
-
-He was appointed as the Acting Chairman of the Sri Lanka Freedom Party.
-
-"Everyone who left the party, enabled us to take a good journey together. If we all jogging together, we will not only build the party but also build the party. The promise that the Sri Lanka Freedom Party will win in any election. "
-
-◼️
-
-[Data](articles/b6932420.json)
-
-[Extended Data](ext_articles/b6932420.ext.json)
-
----
-
-### Van accident that sued the school girl
-
-*2024-04-22 12:48:39* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවියට-දිවි-අහිමිකළ-වෑන්-රථ-අනතුර/11-409204) · `si`
-
-A schoolgirl, JMJ, was killed in a van crash near Kantale Police Division. The van, driven by a suspect, hit a tree. The suspect, identified as Headquarters OIC Chief Inspector Sasanka Samarasinghe, was arrested by the deceased's husband. Further investigations are ongoing.
-
-🟩
-
-A schoolgirl was killed in a van crash in general area Kantale Police Division yesterday (21st), police said.
-
-The deceased has been identified as JMJ, a resident of the four king Rajamale unit of Kantale. Hasidi Prabodani Jayasinghe has appeared to the GCE A / L examination at the Kantale Central College, Kantale Central College.
-
-Police say that the van that returned to his home from a cousin to his home, the police say that the van will be a tree. Suspect driven by Headquarters OIC Chief Inspector Sasanka Samarasinghe on the instructions of the vehicleHe was arrested by the husband.
-
-Police have arrested the elder brother and a car used to flee the suspect. The Kantale Police are conducting further investigations.
-
-◼️
-
-[Data](articles/58eb533a.json)
-
-[Extended Data](ext_articles/58eb533a.ext.json)
-
----
-
-### Ramayana trail will be game changer for Sri Lanka tourism: Indian envoy
-
-*2024-04-22 12:43:00* · [`economynextcom`](https://economynext.com/ramayana-trail-will-be-game-changer-for-sri-lanka-tourism-indian-envoy-159670/) · `en`
-
-ECONOMYNEXT – The establishment of Ramayana trial which includes a land bridge between Sri Lanka and India will be a “game changer” for the island nation’s tourism industry, Indian High Commissioner for Colombo Santosh Jha said.
-
-Sri Lanka has seen a spike in tourist arrivals from India in its recovery from an unprecedented economic crisis.
-
-The island nation has renewed efforts to establish of Ramayana Trails, which includes all the places believed to be associated with Ramayana.
-
-The places include Sigiriya, Ashok Vatika, a garden in the city of Nuwara Eliya, which is believed to be the place where Ravana kept Sita captive, Ravana Ella Falls, Koneswaram Temple in Trincomalee and Divurumpola Temple in Bandarawela which is believed to be the place where Sita underwent a trial by fire to prove her purity among many other places.
-
-...
-
-[Data](articles/4330c6b1.json)
-
-[Extended Data](ext_articles/4330c6b1.ext.json)
-
----
-
-### Sri Lanka Freedom Party has had to import acting chairman: Dayasiri
-
-*2024-04-22 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-has-had-to-import-acting-chairman-dayasiri-159668/) · `en`
-
-ECONOMYNEXT — The crisis in Sri Lanka Freedom Party (SLFP) is so severe that it has had to import an acting chairman from a different party, ousted SLFP general secretary Dayasiri Jayasekara said.
-
-Speaking at an event, Jayasekara lamented the state of the once-powerful party.
-
-“I’m still a member of the SLFP. I was removed illegally. Today the SLFP is facing a number of crises. All of these crises began after my removal. There were no such crises when I was there,” he said.
-
-“Today, I’m saddened to note that the SLFP crisis has become so severe that a new chairman has been brought from outside, from a different party has been made the party’s acting chairman,” he added.
-
-He was referring to a controversial decision by one faction of the SLFP appointing Justice Minister Wijeyadasa Rajapakshe as the party’s acting chairman, even as Aviation Minister Nimal Siripala de Silva continues to function as acting chairman following the latter’s appointment last week.
-
-...
-
-[Data](articles/5f53cb68.json)
-
-[Extended Data](ext_articles/5f53cb68.ext.json)
-
----
-
-### Iran's President arrives on 24
-
-*2024-04-22 12:42:19* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-24-දා-එයි/11-409203) · `si`
-
-Iran's President Irabhim Reli visits Sri Lanka on 24th for Uma Oya project talks, amid Cold War tensions.
-
-🟩
-
-Iranian President Irabhim Reli is due to arrive in the island on the 24th of the Uma Oya Multipurpose Development Project.
-
-During the visit, the President of Iranian President Ranil Wickremesinghe and the top government representatives of the government are also conducting talks.
-
-The President's visit to the Iranian visit to Sri Lanka in uncertainty due to the Cold War between Iran and Asrash.
-
-◼️
-
-[Data](articles/1b951af0.json)
-
-[Extended Data](ext_articles/1b951af0.ext.json)
-
----
-
-### Victims of horror crash during ‘Fox Hill Super Cross’ identified
-
-*2024-04-22 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98773/victims-of-horror-crash-during-fox-hill-super-cross-identified-) · `en`
-
-Seven persons including a child were killed while 23 others were injured following a tragic accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa on Sunday (21).
-
-Among the deceased were four officials of the racing event who were stationed as flag marshals. The other victims were civilians who were spectators of the event, as reported by the police.
-
-- Muththusamy Udayakumar, 55 years old, a resident of Welimada
-
-- Aruna Shantha Upaligamage, 62 years old, a resident of Matara
-
-Rasika Abeynaike, a member of the Sri Lanka Army rugby team and stationed at Salawa Army Camp in Kosgama, was attending the racing event as a spectator while on leave. Abeynaike, who completed his education at Embilipitiya Maha Vidyalaya and joined the Army Engineer Corps, was scheduled to be transferred to Udawalawa Army Camp on the day following the incident. His final rites are to be performed in the Galaha area of Kandy, as per family sources.
-
-...
-
-[Data](articles/b6c55f50.json)
-
-[Extended Data](ext_articles/b6c55f50.ext.json)
-
----
-
-### Two Foxhill drivers remanded
-
-*2024-04-22 12:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-රියදුරන්-දෙදෙනා-රිමාන්ඩ්/11-409202) · `si`
-
-Two Foxhill drivers were remanded after a crash in Bandarawela. One was seriously injured and admitted to hospitals.
-
-🟩
-
-Bandarawela Magistrate Antony S.Pteri Fall set up the two cars of the Diyatalawa foxh.
-
-Reserved Diyatalawa Nureakanda, who contested the Foxhill Motor Tract and competed in the Fix, and 196 (47), a resident of Madathawa Madanda, Matara and Madathawa Makanda, Peradeniya, Peradeniya (47)The two.
-
-The two cars were taken into custody by the Diyatalawa Niana, Diyatalawa Niana and was seriously injured and admitted to the Diyatalawa Base Hospital and Badulla Teaching Hospital.
-
-Hospital sources said that some of these are critical.
-
-The two competitors were receiving treatment at the Diyatalawa Base Hospital in the Diyatalawa Base Hospital.Inspected and the two suspects were remanded.
-
-◼️
-
-[Data](articles/17e286be.json)
-
-[Extended Data](ext_articles/17e286be.ext.json)
-
----
-
-### Two including Ven. Ulugata Thera remanded
-
-*2024-04-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195860) · `si`
-
-Ven. Ulugata Thera, Convener of Teacher Principals, and others were remanded for opposing the removal of shanty houses, as ordered by a court.
-
-🟩
-
-Convener of the Teacher Principals, Ven.
-
-It is reported that they have been remanded for objection to the removal of several shanty houses on court order.
-
-Ven.
-
-The Magistrate ordered the Magistrate to remand custody.
-
-◼️
-
-[Data](articles/bbf7f1d9.json)
-
-[Extended Data](ext_articles/bbf7f1d9.ext.json)
-
----
-
-### More than 25 lakhs were thrown in the van to the van
-
-*2024-04-22 12:29:46* · [`adalk`](https://www.ada.lk/breaking_news/වැඩි-පරිස්සමට-වෑන්-රථයේ-දමාගෙන-ගිය-ලක්ෂ-25ක්-රන්-භාණ්ඩ-සොරාගෙන/11-409201) · `si`
-
-Kaduwela Police report a theft of jewelry worth over Rs. 25 lakhs, including 2 tasels, 2 necklaces, and 2 garments, from a van. The stolen items were found in a handbag and returned to the owner's cousin in Horana.
-
-🟩
-
-Kaduwela Police say that there was a stock of jewelery worth more than Rs.
-
-Two tasters, 2 tasels, 2 necklaces, 2 garments, 2 necklaces, 2 necklaces
-
-Veterinary Master of his wife had returned to a cousin in Horana, a daughter of Weliwita in the Weliwita area in Kaduwela.
-
-Police investigations have revealed that when the two enemies arrived at home, police investigations have revealed that they had been thrown into the handbag without wear gold and wear gold.
-
-Police say that the front cabley and inside the front cables and inside the front cabeth bags in the house to return the van in front of daughter and staying back in the house have been stolen at the hands of the Ranbandand's hand.
-
-Investigations are conducted on the instructions of the OIC of Kaduwela Police
-
-◼️
-
-[Data](articles/a19943be.json)
-
-[Extended Data](ext_articles/a19943be.ext.json)
 
 ---

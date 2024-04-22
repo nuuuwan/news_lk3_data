@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 14:18:27**
+As of **2024-04-22 14:34:05**
 
 ## Newspaper Stats
 
-*Scraped **20,215** Articles*
+*Scraped **20,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,687
-tamilmirrorlk | 2,335
+tamilmirrorlk | 2,336
 adaderanalk | 2,418
 virakesarilk | 3,018
 dailymirrorlk | 3,148
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,213 (100.0%) of 20,215 articles have been extended.
+20,215 (100.0%) of 20,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### உலப்பன சுமங்கல தேரருக்கு விளக்கமறியல்
+
+*2024-04-22 14:10:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலப்பன-சுமங்கல-தேரருக்கு-விளக்கமறியல்/175-336187) · `ta`
+
+ஆசிரியர் அதிபர்கள் சங்கத்தின் ஒருங்கிணைப்பாளர் உலப்பனே சுமங்கல தேரர் உள்ளிட்ட மூவரை எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதவான் பிரசான் அமரசேன, திங்கட்கிழமை (22) உத்தரவிட்டுள்ளார்.
+
+நாரஹேன்பிட்டி, தாபரே மாவத்தையில் உள்ள பல குடிசை வீடுகளை அகற்றுவதற்கு எதிர்ப்பு தெரிவித்தும் அதற்கு இடையூறு விளைவித்தமைக்காகவும் நீதிமன்றில் முன்னிலையான கொழும்பு மாநகர சபை உறுப்பினரும் அதிபருமான உலப்பனே சுமங்கல தேரர் நீதிமன்றில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் நீதிமன்ற உத்தரவுக்கு கீழ்படியாத காரணத்தினால் அவர்களை விளக்கமறியலில் வைக்குமாறு அறிவித்த நீதவான், சந்தேகநபர்கள் எதிர்வரும் 27ஆம் திகதி பரீட்சைக்கு முகம்கொடுக்க வேண்டியிருப்பதால் எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் அறிவித்தார்.
+
+◼️
+
+[Data](articles/a06e668e.json)
+
+---
 
 ### Foxhill Disaster: Explanation for 2 Drivers
 
@@ -168,21 +184,29 @@ Rasika Abeynaike, a member of the Sri Lanka Army rugby team and stationed at Sal
 
 ---
 
-### ෆොක්ස්හිල් රියදුරන් දෙදෙනා රිමාන්ඩ්
+### Two Foxhill drivers remanded
 
 *2024-04-22 12:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-රියදුරන්-දෙදෙනා-රිමාන්ඩ්/11-409202) · `si`
 
-දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ අනතුර සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් මෝටර් රථ තරගකරුවන් දෙදෙනා මේ මස 30 දින තෙක් රක්ෂිත බන්ධනාගාර ගත කර තැබමට බණ්ඩාරවෙල මහේස්ත්‍රාත් ඇන්ටනි එස්.පීටර් ෆෝල් මහතා අද (22දා) නියම කළේය.
+Two Foxhill drivers were remanded after a crash in Bandarawela. One was seriously injured and admitted to hospitals.
 
-මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබූයේ දියතලාව නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ තරගයට ඉදිරිපත් වී තරග අංක5 යටතේ තරග කල මාතර  මැදපාර හිත්තැටිය ප්‍රදේශයේ පදිංචි රංජිත් උඩුවිට (36) සහ  තරග අංක 196 යටතේ තරග වැදුන පේරාදෙණිය  මාකන්ද ප්‍රදේශයේ පදිංචි ඒ.එම්.ඩිලාන් සංජීව  (47);යන  දෙදෙනාය.
+🟩
 
-මොවුන් දෙදෙනා ඊයේ (21) දියතලාව  නරියාකන්ද ෆොක්ස්හිල් මෝටර්රථ තරගයට ඉදිරිපත් වී තරග වදිමින් සිටියදී මොවුන්ගේ මෝටර් රථ දෙක හදිසි අනතුරකට ලක්වීමෙන් අවුරුදු 8 ක කුඩා දැරියක ඇතුලු හත්දෙනෙකු මියගොස් 21 දෙනෙකු බරපතළ තුවාල ලබා දියතලාව මූලික රෝහලට සහ බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කරනු ලැබූහ .
+Bandarawela Magistrate Antony S.Pteri Fall set up the two cars of the Diyatalawa foxh.
 
-මින් කිහිපදෙනක් ගේ තත්ත්වය බරපතළ බවද රෝහල් ආරංචි මාර්ග පැවසීය .
+Reserved Diyatalawa Nureakanda, who contested the Foxhill Motor Tract and competed in the Fix, and 196 (47), a resident of Madathawa Madanda, Matara and Madathawa Makanda, Peradeniya, Peradeniya (47)The two.
 
-...
+The two cars were taken into custody by the Diyatalawa Niana, Diyatalawa Niana and was seriously injured and admitted to the Diyatalawa Base Hospital and Badulla Teaching Hospital.
+
+Hospital sources said that some of these are critical.
+
+The two competitors were receiving treatment at the Diyatalawa Base Hospital in the Diyatalawa Base Hospital.Inspected and the two suspects were remanded.
+
+◼️
 
 [Data](articles/17e286be.json)
+
+[Extended Data](ext_articles/17e286be.ext.json)
 
 ---
 
@@ -1690,6 +1714,8 @@ On April 21, 2024, Maldivian expatriates living in Sri Lanka exercised their dem
 
 [Data](articles/7d52b7aa.json)
 
+[Extended Data](ext_articles/7d52b7aa.ext.json)
+
 ---
 
 ### Corruption In Sri Lanka – Some Random Reflections
@@ -2191,27 +2217,5 @@ This year’s meet attracted over 100,000 spectators in addition to invitees and
 [Data](articles/264ed430.json)
 
 [Extended Data](ext_articles/264ed430.ext.json)
-
----
-
-### United Nations pushes justice for Sri Lanka’s Easter victims
-
-*2024-04-22 01:46:52* · [`dailyftlk`](https://www.ft.lk/news/United-Nations-pushes-justice-for-Sri-Lanka-s-Easter-victims/56-760876) · `en`
-
-The United Nations on Sunday urged Sri Lanka to bridge its “accountability deficit” and ensure justice as the country commemorated the 279 victims of its worst-ever attack against civilians five years ago.
-
-The UN’s top envoy to the country, Marc-Andre Franche, told a remembrance service in Colombo that there should be a “thorough and transparent investigation” to uncover those behind the Easter carnage in 2019.
-
-Islamist bombers hit three churches and three hotels in the island’s deadliest suicide attack aimed at civilians, but grieving families say they are still waiting for justice.
-
-Among the dead were 45 foreigners, including tourists visiting the island a decade after the end of a brutal ethnic conflict that had claimed more than 100,000 lives since 1972.
-
-“Sri Lanka suffers from a continuing accountability deficit, be it for alleged war crimes, more recent human rights violations, corruption or abuse of power, which must be addressed if the country is to move forward,” Franche said.
-
-...
-
-[Data](articles/d30ef12d.json)
-
-[Extended Data](ext_articles/d30ef12d.ext.json)
 
 ---

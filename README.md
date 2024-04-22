@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 09:33:57**
+As of **2024-04-22 09:52:46**
 
 ## Newspaper Stats
 
-*Scraped **20,151** Articles*
+*Scraped **20,153** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 176
 bbccomsinhala | 210
-dbsjeyarajcom | 219
+dbsjeyarajcom | 220
 newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
@@ -20,29 +20,49 @@ tamilmirrorlk | 2,324
 adaderanalk | 2,410
 virakesarilk | 3,002
 dailymirrorlk | 3,141
-adaderanasinhalalk | 3,274
+adaderanasinhalalk | 3,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,147 (100.0%) of 20,151 articles have been extended.
+20,151 (100.0%) of 20,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ප්‍රවීණ ජ්‍යෝතීර්වේදී චන්ද්‍රසිරි බණ්ඩාර අභාවප්‍රාප්ත වෙයි
+### දියතලාවේ බිහිසුණු අනතුර - මෝටර් රථ රියදුරන් අත්අඩංගුවට
+
+*2024-04-22 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195855) · `si`
+
+පුද්ගලයින් 7 දෙනෙකුට දිවි අහිමි කරමින් දියතලාව ෆොක්ස් හිල් මෝටර් ධාවන තරගය අතුරතුර සිදුවූ අනතුර සම්බන්ධයෙන් මෝටර් රථ රියදුරන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අනතුරින් ඔවුන් දෙදෙනා ද තුවාල ලබා රෝහලගත කර සිටිය දී එලෙස පොලිස් අත්අඩංගුවට පත්ව ඇත.
+
+◼️
+
+[Data](articles/12c4f16c.json)
+
+---
+
+### Chandrasiri Bandara passes away in Vetevana Yorchar
 
 *2024-04-22 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195854) · `si`
 
-ප්‍රවීණ ජ්‍යෝතීර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතා අද (22) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+Chandrasiri Bandara, a prominent figure, passed away in Vetevor Yorchain today, while receiving treatment at a private hospital.
 
-පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී ඒ මහතා එලෙස මියගොස් ඇත.
+🟩
+
+Chandrasiri Bandara has passed away in the Vetevor Yorchain today (22) morning.
+
+He was also killed while he was receiving treatment at a private hospital.
 
 ◼️
 
 [Data](articles/aa1bff87.json)
+
+[Extended Data](ext_articles/aa1bff87.ext.json)
 
 ---
 
@@ -62,23 +82,29 @@ They said Bandara was 63 years old at the time of his death.
 
 ---
 
-### ஜனாதிபதியின் வெளிநாட்டு பயணங்கள் சபைக்கு வருகின்றது
+### The president's foreign trips are coming to the congregation
 
 *2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயணங்கள்-சபைக்கு-வருகின்றது/175-336161) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க ஜனாதிபதியாக பதவியேற்றதன் பின்னர் கலந்து கொள்ளும் வெளிநாட்டு பயணங்களுக்காக அரசாங்கம் மேற்கொள்ளும் செலவுகள் தொடர்பான விடயம் நாளை மறுதினம் (24ம் திகதி) நடைபெறவுள்ள பாராளுமன்ற நிகழ்ச்சி நிரலில் உள்ளடக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe's foreign trips are under scrutiny. Parliament will discuss government expenses on these trips tomorrow. Questions include foreign leaders met, diplomatic agreements, and separate payments for delegates. Jayantha Samaraweera, a Kalutara District Council Member, has raised these concerns with Prime Minister Dinesh Gunawardena.
 
-இதுவரை ஜனாதிபதி பங்கேற்ற வெளிநாட்டுப் பயணங்கள், ஒவ்வொரு பயணத்தின் போதும் சந்தித்த வெளிநாட்டுத் தலைவர்கள் குறித்தும் கேள்வி எழுப்பப்பட்டுள்ளது.
+🟩
 
-மேலும், அவர்களுடன் இராஜதந்திர ரீதியில் செய்து கொள்ளப்பட்ட ஒப்பந்தங்கள் மற்றும் அந்த உடன்படிக்கைகளை எட்டுவது தொடர்பிலும் கேட்கப்பட்டுள்ளது.
+The parliamentary agenda, which is scheduled to take place tomorrow (24th), is about the government's expenses for foreign trips that will be attended by President Ranil Wickremesinghe as President.
 
-மேலும் ஒவ்வொரு வெளிநாட்டுப் பயணத்திலும் ஜனாதிபதியுடன் பங்குபற்றிய தூதுக்குழுவினருக்கு தனித்தனியாகவும் அதற்காக செலவிடப்பட்ட தொகையையும் வழங்குமாறும் கோரப்பட்டுள்ளது.
+The foreign trips that the president has participated so far has been questioned about foreign leaders who have met every trip.
 
-களுத்துறை மாவட்ட சபை உறுப்பினர் ஜயந்த சமரவீர, பிரதமர் தினேஷ் குணவர்தனவிடம் இந்தக் கேள்வியை முன்வைத்துள்ளமை குறிப்பிடத்தக்கது. R
+In addition, they have been asked about diplomatic agreements and agreement with them.
+
+Also, the delegation who participated with the president on every overseas trip is requested to pay separately and the amount spent on it.
+
+Kalutara District Council Member Jayantha Samaraweera has posted this question to Prime Minister Dinesh Gunawardena.. Remble
 
 ◼️
 
 [Data](articles/daaadb10.json)
+
+[Extended Data](ext_articles/daaadb10.ext.json)
 
 ---
 
@@ -120,23 +146,29 @@ Also, the Vesak Week has been declared as a week from May 21 to 27, and the liqu
 
 ---
 
-### ’யாரையும் கடந்து செல்ல தயாரில்லை’
+### No one is ready to pass anyone
 
 *2024-04-22 08:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாரையும்-கடந்து-செல்ல-தயாரில்லை/175-336159) · `ta`
 
-நாட்டின் பொருளாதாரத்தையும் மக்களையும் வலுப்படுத்தும் வேலைத்திட்டத்தில் அரசாங்கம் யாரையும் கடந்து செல்லவோ விட்டுவிடவோ போவதில்லை என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a program to support low-income families with rice, aiming to strengthen the economy and people. The initiative, launched at the 2024 National Program, will provide 2.74 million families with 10 kg of rice per month for two months.
 
-வெலிமடை அம்பகஸ்தோவ பொது விளையாட்டரங்கில் நேற்று இடம்பெற்ற குறைந்த வருமானம் பெறும் குடும்பங்களுக்கான அரிசி நிவாரணம் வழங்கும் 2024 தேசிய வேலைத்திட்டத்தின் ஆரம்ப நிகழ்வில் ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-இந்த வேலைத்திட்டத்தின் கீழ், முழு நாட்டையும் உள்ளடக்கிய குறைந்த வருமானம் பெறும் 2.74 மில்லியன் குடும்பங்களுக்கு இரண்டு மாதங்களுக்கு மாதாந்தம் பத்து கிலோ அரிசி வழங்கப்படும்.
+President Ranil Wickremesinghe said the government would not pass or abandon anyone in a program to strengthen the country's economy and people.
 
-பதுளை மாவட்டத்தின் பதினைந்து பிரதேச செயலகப் பிரிவுகளில் உள்ள 191,548 பயனாளி குடும்பங்கள் அரிசி மானியம் பெறத் தகுதி பெற்றுள்ளன. ஆயிரம் குடும்பங்களுக்கு அரிசி வழங்கும் நிகழ்வின் அடையாளமாக இன்று 25 பயனாளிகளுக்கு ஜனாதிபதியின் கைகளால் அரிசிப் பொதிகள் வழங்கப்பட்டன.
+The President said this at the inauguration of the 2024 National Program to provide relief for low -income families held at the Welimada Ambakastova Public Stadium yesterday.
 
-இதேவேளை, நாடளாவிய ரீதியில் பிரதேச செயலகப் பிரிவு மட்டத்தில் பிரதேச செயலாளர்களின் மேற்பார்வையில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு அரிசி விநியோகிக்கப்படுகிறது. (a)
+Under this program, 2.74 million families that receive low -income families, including the entire country, will be provided with ten kg of rice per month for two months.
+
+191,548 beneficiaries in the Fifteen Divisional Secretariats of the Badulla District. Today, 25 beneficiaries were given rice packages with the president's hands as a symbol of rice to provide rice to a thousand families.
+
+Meanwhile, rice is distributed to the beneficiaries selected under the supervision of the Divisional Secretariat at the Divisional Secretariat Division.. (A)
 
 ◼️
 
 [Data](articles/a059152c.json)
+
+[Extended Data](ext_articles/a059152c.ext.json)
 
 ---
 
@@ -238,21 +270,31 @@ Today, around 193 countries, people have joined the defending environment and bi
 
 ---
 
-### சர்வதேச விசாரணைகளிற்காக கத்தோலிக்க திருச்சபை மனித உரிமை பேரவையை நாடவுள்ளது – கர்தினால் மல்கம் ரஞ்சித்
+### Catholic Church for International Investigation
 
 *2024-04-22 07:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181613) · `ta`
 
-உயிர்த்த ஞாயிறுதாக்குதல் குறித்து சர்வதேச விசாரணைகளை முன்னெடுப்பதற்காக வெளிநாட்டு அரசசார்பற்ற அமைப்புகள் மற்றும் சர்வதேச அமைப்புகள் ஐக்கிய நாடுகள் மனித உரிமை பேரவையிடம் யோசனையொன்றை கத்தோலிக்க திருச்சபை முன்வைக்கவுள்ளது.
+The Catholic Church proposes to the UNHRC for international NGOs to investigate Sri Lanka's attacks, criticizing the government's failure to reveal masterminds. Cardinal Malcolm Ranjith questions justice prospects, highlighting the government's shortcomings.
 
-உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்டவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வதற்காக இலங்கையின் கத்தோலிக்க திருச்சபை இந்த ஐக்கிய நாடுகள் மனித உரிமை பேரவையை நாடவுள்ளது
+🟩
 
-ஐந்து வருடங்களாகியுள்ள போதிலும் இந்த தாக்குதலின் சூத்திரதாரிகள் யார் இந்த தாக்குதலின் பின்னால் உள்ள  சதிமுயற்சிகள் என்ன என்பது போன்ற விடயங்களை முன்னைய தற்போதைய அரசாங்கங்கள் வெளிப்படுத்த தவறிவிட்டன என அவர் தெரிவித்துள்ளார்.
+The Catholic Church will present an idea to the United Nations Human Rights Council (UNHRC) for foreign NGOs and international organizations to carry out international investigations on the lifeblood.
 
-பாதிக்கப்பட்டவர்களிற்கு நீதி நிலைநாட்டப்படும் என்ற தனது வாய்மூல வாக்குறுதியை  நிறைவேற்றுவதற்கு முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தவறியுள்ளதால் ஐக்கிய மக்கள் சக்தியும் தேசிய மக்கள் சக்தியும் வழங்கியுள்ள வாக்குறுதிகளில் நம்பிக்கை வைத்துள்ளேன் என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+Sri Lanka's Catholic Church will seek the United Nations Human Rights Council to ensure justice for victims
 
-...
+He said the current governments have failed to reveal matters such as the masterminds of the attack, but the conspiracies behind the attack.
+
+Cardinal Malkam Ranjit has said that the United People's Power and the National People's Power have confident that former President Gotabhaya Rajapakse has failed to fulfill his voice to the victims.
+
+Ranil Wickremesinghe, who was the Prime Minister of the Chancellor, is now the president of the President.
+
+Cardinal Malcolm Ranjith has questioned whether anyone can expect justice in such a situation.
+
+◼️
 
 [Data](articles/2524cfec.json)
+
+[Extended Data](ext_articles/2524cfec.ext.json)
 
 ---
 
@@ -1264,6 +1306,20 @@ According to the Palestinian Health Authorities, 34,049 Palestinians have been k
 
 ---
 
+### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
+
+*2024-04-21 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
+
+“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
+
+...
+
+[Data](articles/a00455cc.json)
+
+[Extended Data](ext_articles/a00455cc.ext.json)
+
+---
+
 ### Wijedasa Rajapaksa elected as the leader of the Sri Lanka Freedom Party (SLFP)
 
 *2024-04-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181602) · `ta`
@@ -1405,6 +1461,22 @@ Meanwhile, we will be screened in 70 theaters in 11 countries such as Canada, th
 [Data](articles/66c90c8c.json)
 
 [Extended Data](ext_articles/66c90c8c.ext.json)
+
+---
+
+### Mangala  Samaraweera was a leader who saw things that others didn’t see. He was bold and had the courage of his convictions, never afraid to stand up for what he believed, whether or not the world appreciated it,  and indeed whether or not it was a marginal or minority position that he was espousing.
+
+*2024-04-21 20:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83929) · `en`
+
+Mangala Samaraweera would have turned 68 today, and had he not succumbed to Covid-19, I am certain we would have met and raised a cheer for all that is worthy of celebration even in the worst of times.
+
+He left us at a critical moment in our political history. Indeed, critical or not, his presence would have made a difference, for he was endowed not only with rare charisma but tirelessly used his bully pulpit to unite Lankans across ethnic, religious or age barriers, even sacrificing his parliamentary seat without a second thought.
+
+Especially today, five years after the Easter Sunday attacks, with Catholics island-wide still feeling vulnerable from the absence of justice, Mangala would have reached out to honour the lives of those souls who perished in that barbaric assault. He would have had zero patience for any of the political gamesmanship that is denying closure to the 279 mothers and daughters, fathers and sons, husbands and wives who were slain that tragic Easter Sunday morning.
+
+...
+
+[Data](articles/b5604c67.json)
 
 ---
 
@@ -1715,20 +1787,6 @@ Foreign media has further stated that the latest film of the latest film on the 
 [Data](articles/50ed5ecf.json)
 
 [Extended Data](ext_articles/50ed5ecf.ext.json)
-
----
-
-### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
-
-*2024-04-21 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
-
-“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
-
-...
-
-[Data](articles/a00455cc.json)
-
-[Extended Data](ext_articles/a00455cc.ext.json)
 
 ---
 
@@ -2129,51 +2187,5 @@ In addition, 10 kg of rice to be supplied in April has already begun to supply n
 [Data](articles/ec85f613.json)
 
 [Extended Data](ext_articles/ec85f613.ext.json)
-
----
-
-### Tension (Video) at Headquarters
-
-*2024-04-21 15:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-க-தலைமையகத்தில்-பதற்றம்-காணொளி/175-336137) · `ta`
-
-At Sri Lanka Freedom Party (SLFP) headquarters, police blocked entry to a group, leading to tension. Justice Minister Vijayadasa Rajapaksa appointed as SLFP leader by a faction, sparking speculation.
-
-🟩
-
-Outside the headquarters of the Sri Lanka Freedom Party (SLFP) on Darley Road, Colombo 10, a group of people tried to enter the party building faced police opposition.
-
-There was a stir as the authorities were prevented from entering and there was a tense situation in the area.
-
-Following this, Justice Minister Vijayadasa Rajapaksa has been appointed as the leader of the Sri Lanka Freedom Party (SLFP) by a section of the party and the speculation on the development of the party has increased.
-
-◼️
-
-[Data](articles/86b5f39e.json)
-
-[Extended Data](ext_articles/86b5f39e.ext.json)
-
----
-
-### Five killed, 21 injured in accident during ‘Fox Hill Super Cross’
-
-*2024-04-21 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98759/five-killed-21-injured-in-accident-during-fox-hill-super-cross-) · `en`
-
-UPDATE: Another person who was injured and hospitalized following the accident during the “Fox Hill Super Cross 2024” racing event has succumbed to his injuries, Police Media Spokesman DIG Nihal Thalduwa confirmed.
-
-Accordingly, the death toll from the tragic incident climbs to 06 with this.
-
-Five persons have been killed following an accident during the “Fox Hill Super Cross 2024” racing event held in Diyatalawa.
-
-Meanwhile, another 21 individuals who sustained injuries in the incident have also been hospitalized, Police Media Spokesperson DIG Nihal Thalduwa said.
-
-He said that the incident occurred when a race car had veered off the race track and collided with a group of spectators.
-
-The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Military Academy Diyatalawa with the support of Sri Lanka Automobile Sports (SLAS) kicked off at Diyatalawa on Sunday (21).
-
-◼️
-
-[Data](articles/08f8f9ab.json)
-
-[Extended Data](ext_articles/08f8f9ab.ext.json)
 
 ---

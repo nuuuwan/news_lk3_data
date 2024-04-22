@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 16:05:07**
+As of **2024-04-22 16:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,237** Articles*
+*Scraped **20,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,65 @@ islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,689
-tamilmirrorlk | 2,340
+tamilmirrorlk | 2,341
 adaderanalk | 2,420
 virakesarilk | 3,025
-dailymirrorlk | 3,152
+dailymirrorlk | 3,154
 adaderanasinhalalk | 3,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,233 (100.0%) of 20,237 articles have been extended.
+20,237 (100.0%) of 20,240 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ஒக்டோபர் ஏழாம் திகதி தாக்குதல் - பதவியை இராஜினாமா செய்தார் இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர்
+### தனுஷ்கோடியில் 3 அகதிகள் தஞ்சம்
+
+*2024-04-22 15:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனுஷ்கோடியில்-3-அகதிகள்-தஞ்சம்/175-336195) · `ta`
+
+நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடி காரணமாக இந்தியாவின் தனுஷ்கோடியில் நாட்டு மக்கள்  அகதிகளாக தஞ்சம் அடைந்து வருகின்றனர்.
+
+இந்த நிலையில்  மட்டக்களப்பு பகுதியைச் சேர்ந்த  சிறுவன் ஒருவர் உட்பட 3 நபர்கள் தனுஷ்கோடி அடுத்த ஐந்தாம் மணல் தீடையில் திங்கட்கிழமை (22) காலை தஞ்சம் அடைந்துள்ளனர்.
+
+அப்பகுதிக்கு மீன் பிடிக்க சென்ற மீனவர்கள், இவர்கள் தொடர்பில், பொலிஸாருக்கு தகவல் கொடுத்துள்ளனர்.
+
+இதை அடுத்து சுட்டெரிக்கும் வெயிலில் வெப்பத்தில் சூடு தாங்க முடியாமல் ஐந்தாம் மணல் தீடையில் தஞ்சம் அடைந்த இலங்கை அகதிகளை மரைன் பொலிஸார் அதிரடியாக நடவடிக்கை எடுத்து கடலுக்குள் சென்று பாதுகாப்பாக மீட்டு கரைக்கு கொண்டு சென்றுள்ளனர்.
+
+இதனால் சூடு தாங்க முடியாமல் தவித்த தங்களை மீட்ட  மரைன் பொலிஸாருக்கு மூவரும் நன்றி தெரிவித்துள்ளனர். மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/ec453574.json)
+
+---
+
+### Israel's military intelligence unit resigns
 
 *2024-04-22 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181674) · `ta`
 
-ஒக்டோபர் ஏழாம் திகதி ஹமாஸ் அமைப்பினர் இஸ்ரேலிற்குள் நுழைந்து மேற்கொண்ட தாக்குதல் தொடர்பில் இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர் தனது பதவியை இராஜினாமா செய்துள்ளார்.
+Major General Agaron Haliva, head of Israeli Military Intelligence, resigned due to failure to prevent the Hamas attack on October 7th, marking the first high-ranking officer resignation since the attack.
 
-ஹமாஸ் தாக்குதலை மேற்கொள்ளவுள்ளதை கண்டுபிடிக்க தவறியமை உட்பட தவறுகளிற்கு பொறுப்பேற்று தனது பதவியை இராஜினாமா செய்வதாக இஸ்ரேலின் இராணுவ புலனாய்வு பிரிவின் தலைவர் மேஜர் ஜெனெரல் அகாரொன் ஹலிவா தெரிவித்துள்ளார்.
+🟩
 
-எங்களிற்கு வழங்கப்பட்ட பொறுப்பை நிறைவேற்றும்  அளவிற்கு எங்களின் புலனாய்வு பிரிவு செயற்படவில்லை என்பதை தனது இராஜினாமா கடிதத்தில் அவர் ஏற்றுக்கொண்டுள்ளார்.
+The head of the Israeli Military Intelligence Unit has resigned from his post in connection with the attack on Israel on the seventh of October.
 
-ஒக்டோபர் ஏழாம் திகதி சம்பவங்களிற்கு பொறுப்பேற்று பதவி விலகிய இஸ்ரேலின்  முதலாவது உயர் அதிகாரி இவர் என்பது குறிப்பிடத்தக்கது.
+Major General Agaron Haliva, head of Israeli Military Intelligence Unit, said he would resign from his post, including failing to find out the Hamas attack.
 
-இஸ்ரேலிய இராணுவமும் புலனாய்வு பிரிவினரும் பல முன்னெச்சரிக்கைகளை தவறவிட்டனர் என தெரிவிக்கப்படுவது குறிப்பிடத்தக்கது.
+In his letter of resignation, he accepted that our intelligence unit did not function as much as we could fulfill our responsibility.
+
+He is the first high -ranking officer of Israel, who resigned on the seventh of October.
+
+It is noteworthy that the Israeli military and the intelligence agencies have missed several precautions.
 
 ◼️
 
 [Data](articles/4a842872.json)
+
+[Extended Data](ext_articles/4a842872.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ On a monthly basis, the Year-on-Year inflation of the food group remained unchan
 ...
 
 [Data](articles/020f0d52.json)
+
+[Extended Data](ext_articles/020f0d52.ext.json)
 
 ---
 
@@ -88,19 +116,69 @@ However, in February, 2024, the inflation was reported in March 2024.
 
 ---
 
-### சிகிரியா மற்றும் தம்புள்ளையை சுற்றுலா வலயமாக அபிவிருத்தி செய்யும் திட்டத்தை பூர்த்தி செய்யுமாறு அமைச்சர் பிரசன்ன அதிகாரிகளுக்கு பணிப்பு
+### Pro-China party wins Maldives election in landslide
+
+*2024-04-22 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pro-China-party-wins-Maldives-election-in-landslide/108-281163) · `en`
+
+MALE, April 22 (Reuters) - Maldives voters handed President Mohamed Muizzu's party a landslide win at parlimentary elections, media said on Monday, an outcome set to shift the Indian Ocean archipelago closer to China and away from traditional partner India.
+
+Muizzu's People's National Congress (PNC) won 65 of the 93 seats up for grabs on Sunday, preliminary results from the Maldives Elections Commission and media projections show.
+
+The main opposition Maldives Democratic Party (MDP) dwindled to just 12 seats from 65 earlier.
+
+Both Beijing and New Delhi have wooed the Maldives as they vie for influence in the Indo-Pacific region.
+
+Elected last year, Muizzu has pledged to end the country's "India First" policy, straining ties with New Delhi.
+
+His government has asked dozens of Indian military personnel to leave the Maldives, a move critics say could hasten its shift towards China.
+
+Muizzu's post as president is not affected by Sunday's vote, in which 368 candidates contested for five-year terms.
+
+◼️
+
+[Data](articles/6138b433.json)
+
+---
+
+### Minister Prasanna officials to fulfill the project to develop Sigiriya and Dambulla as a tourist destination
 
 *2024-04-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181672) · `ta`
 
-சிகிரியா மற்றும் தம்புள்ளையை சுற்றுலா வலயமாக அபிவிருத்தி செய்யும் திட்டத்தின் அடிப்படைத் திட்டங்களை இவ்வருடத்தின் மூன்றாம் காலாண்டுக்குள் பூர்த்தி செய்யுமாறு நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க அதிகாரிகளுக்கு வெள்ளிக்கிழமை (19) பணிப்புரை விடுத்தார்.
+Minister Prasanna Ranatunga directs officials to complete Sigiriya and Dambulla tourism projects, supported by the Asian Development Bank, aiming to enhance tourism, protect monuments, and boost economic development.
 
-இந்த திட்டத்தில் நகர்ப்புற வசதிகளை வழங்குவதற்காக நிதி அமைச்சு ஒரு குழுவையும் நியமித்துள்ளதாக அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+🟩
 
-விடயத்திற்குப் பொறுப்பான அமைச்சர் பிரசன்ன ரணதுங்க அவர்களின் பணிப்புரைக்கு அமைவாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் நிலையான நகர அபிவிருத்தித் திட்டத்தின் கீழ் இத்திட்டம் நடைமுறைப்படுத்தப்பட்டுள்ளது. 2019 இல் ஆரம்பிக்கப்பட்ட இந்தத் திட்டம், நாட்டில் ஏற்பட்ட கோவிட் தொற்றுநோய் மற்றும் பொருளாதார நெருக்கடி காரணமாக தற்காலிகமாக இடை நிறுத்தப்பட்டது.
+Minister of Urban Development and Housing Prasanna Ranatunga on Friday (19) issued a directive to the officials of the Urban Development and Housing Minister to complete the basic projects of the Sigiriya and Dambulla Tourism Zone.
+
+Minister Prasanna Ranatunga said that the Ministry of Finance has also appointed a committee to provide urban facilities in the scheme.
+
+The project has been implemented under the Sustainable Urban Development Program of the Ministry of Urban Development and Housing in accordance with the Directorate of Minister Prasanna Ranatunga in charge of the matter.. Launched in 2019, the project was temporarily suspended due to the Govt infection and economic crisis in the country.
 
 ...
 
 [Data](articles/7a142cc9.json)
+
+[Extended Data](ext_articles/7a142cc9.ext.json)
+
+---
+
+### Stocks of rice, dhal distributed to schools unfit for consumption
+
+*2024-04-22 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stocks-of-rice-dhal-distributed-to-schools-unfit-for-consumption/108-281162) · `en`
+
+Colombo, April 22 (Daily Mirror) - The Public Health Inspectors’ Union has raised serious concerns over the quality of rice and dhal to be distributed to schools under the World Food Programme (WFP).
+
+Speaking to the Daily Mirror, PHI union Head Upul Rohana alleged that stocks of rice and dhal stored in a government warehouse in the Veyangoda area, intended for the school meals programme, have been found to be substandard.
+
+"Based on numerous complaints received from schools regarding the quality of rice and dhal, the steps were taken to direct the samples to the Government Analyst. Subsequently, the majority of samples was confirmed to be substandard," the Union Head said.
+
+Upul Rohana, highlighted that the stocks of rice in question have become unfit for human consumption due to insect damage.
+
+These stocks were slated for use in the school meals programme, a joint initiative between the government and the World Food Programme, aimed at providing free nutritious lunches for schoolchildren.
+
+...
+
+[Data](articles/fa1efff6.json)
 
 ---
 
@@ -144,19 +222,25 @@ Samarawickrama has said that the summit has been issued on a broadcast on the se
 
 ---
 
-### மழை,வெள்ளம் காரணமாக 68,131 ஹெக்டேயர் பயிர்ச் செய்கை நாசம்!
+### 68,131 hectares crops due to rain and floods
 
 *2024-04-22 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181667) · `ta`
 
-நாட்டில் 2023 - 2024 வரையான காலப் பகுதியில்  ஏற்பட்ட மழை மற்றும் வெள்ளம் காரணமாக காய்கறிகள் மற்றும் பிற பயிர்கள் பயிரிடப்பட்ட 68,131 ஹெக்டேயர்கள்  சேதமடைந்துள்ளதாக விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
+From 2023-2024, rain and floods damaged 68,131 hectares of crops, 71% of total land area, impacting 100,000 hectares of paddy.
 
-மேலும், சேதமடைந்த நிலத்தின் அளவு மொத்த நிலத்தின்  பரப்பளவு 71 சதவீதம் என்று திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இந்த ஆண்டு பயிரிடப்பட்ட 100,000 ஹெக்டேயர் நெற்பயிர்களும் மழை மற்றும் வெள்ளம் காரணமாக சேதமடைந்துள்ளதாக தெவிக்கப்பட்டுள்ளது.
+The Department of Agriculture said that 68,131 hectares of vegetables and other crops were damaged due to rain and floods in the country from 2023 to 2024.
+
+In addition, the amount of the damaged land is 71 percent of the total land area, the department said.
+
+100,000 hectares of paddy cultivated this year have been damaged due to rain and floods.
 
 ◼️
 
 [Data](articles/44037bf1.json)
+
+[Extended Data](ext_articles/44037bf1.ext.json)
 
 ---
 
@@ -2175,65 +2259,5 @@ Unhae Park Langis, has written an interesting book entitled  Passion, Prudence,
 [Data](articles/55e33383.json)
 
 [Extended Data](ext_articles/55e33383.ext.json)
-
----
-
-### The sun - to be careful of both the rain
-
-*2024-04-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195847) · `si`
-
-"Expect showers/thundershowers in Western, Central, North Western, Uva, Northern provinces, and Western coastal areas. Be cautious of strong winds and lightning. Temperature monitoring in several parts of the island. Moneragala district and North, North-Central, Southern, Northwestern provinces to focus on heat."
-
-🟩
-
-From the Western, Sabaragamuwa, Central and North Western provinces, in Galle, Matara and Anuradhapura Districts. Showers or thundershowers will occur at several places, about 2.00.
-
-Showers or thundershowers will occur at several places in the Uva and Northern provinces and in the Polonnaruwa District.
-
-Showers or thundershowers will occur at several places in the Western coastal areas.
-
-It is said that in some places in the Sabaragamuwa, Central and Uva provinces, in some places in the Ampara district, can last a morning in the morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to pay attention today (22).
-
-...
-
-[Data](articles/2084a2f6.json)
-
-[Extended Data](ext_articles/2084a2f6.ext.json)
-
----
-
-### Palestine & Ukraine: Two More Nails In Imperialism’s Coffin? – Part II
-
-*2024-04-22 06:16:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/palestine-ukraine-two-more-nails-in-imperialisms-coffin-part-ii/) · `en`
-
-The US-led NATO forces are facing a historic debacle in Ukraine. The disinformation shovelled out by Washington and London, regurgitated by their mainstream media, alleges that the US and its NATO allies are defending Ukraine’s exercise of its inalienable right of self-determination to follow its own political destiny, including the sovereign right to join NATO or any other regional entity; and that NATO powers’ military assistance seeks to selflessly defend Ukraine’s sovereignty and repel Russia’s aggression to the last Ukrainian (not to the last US or British soldier). The reality however is far less benign.
-
-...
-
-[Data](articles/a8578833.json)
-
-[Extended Data](ext_articles/a8578833.ext.json)
-
----
-
-### SJB embroiled in controversy after its MPs secure funds from Govt without party approval
-
-*2024-04-22 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/155-281121) · `en`
-
-Colombo, April 22 (Daily Mirror) - The main opposition Samagi Jana Balawegaya (SJB), finds itself embroiled in controversy as reports emerge that several of its MPs had received Rs. 50 million each from the government's decentralized budget without nod from the party leadership,Daily Mirror learns.
-
-In the past, the governments used to allocate funds to MPs in the opposition to carry out development projects of their choice in their constituencies. However, such allocations have not taken place for the past five years, Instead, financial allocations for the same purpose were channeled through the district coordinating committees during the period.
-
-The current government has implemented the project and some SJB MPs have secured allocations according to a renewed criterion introduced by the government led by President Ranil Wickremesinghe to make sure that money is not used for charity work but employment generation activities.
-
-...
-
-[Data](articles/f534c4ca.json)
-
-[Extended Data](ext_articles/f534c4ca.ext.json)
 
 ---

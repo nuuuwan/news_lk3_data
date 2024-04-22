@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 21:03:41**
+As of **2024-04-22 21:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,281** Articles*
+*Scraped **20,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,80 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,696
+adalk | 1,697
 tamilmirrorlk | 2,343
 adaderanalk | 2,424
 virakesarilk | 3,031
-dailymirrorlk | 3,157
+dailymirrorlk | 3,158
 adaderanasinhalalk | 3,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,278 (100.0%) of 20,281 articles have been extended.
+20,281 (100.0%) of 20,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### රිමාන්ඩ් කළ ෆොක්ස් හිල් රියදුරන් කළ පාපොච්චාරණය
+### Fox Hill Drivers confessed
 
 *2024-04-22 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195875) · `si`
 
-ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී ඊයේ පුද්ගලයන් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අදාළ මෝටර් රථ දෙකේ රියදුරන් දෙදෙනා අද පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රිමාන්ඩ් බන්ධනාගාරගත කළේය.
+Two drivers involved in a Fox Hill Supercross accident were taken into custody and remanded until April 30. They were treated at Diyatalawa Base Hospital. One driver claimed not to have seen the accident, while the other described a chaotic scene with dust and a car in front.
 
-අනතුරට සම්බන්ධ මෝටර් රථ ධාවකයින් දෙදෙනෙකු දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පොලිසිය මගින් අද අත්අඩංගුවට ගත් අතර බණ්ඩාරවෙල මහෙස්ත්‍රාත් අධිකරණය ඔවුන් දෙදෙනාව අප්‍රෙල් 30 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+🟩
 
-බණ්ඩාරවෙල මහෙස්ත්‍රාත්වරයා විසින් අනතුරට සම්බන්ධ මෝටර් රථ ධාවකයින් දෙදෙනා දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ඔවුන්ගෙන් ප්‍රකාශ සටහන් කර ගත්තේය.
+The two two cars were taken into custody about the accident in the Fox Hill Supercross yesterday.
 
-පොලිස් නිලධාරියා - මේ බණ්ඩාරවෙල මහෙස්ත්‍රාත්තුමා ඇවිත් ඉන්නේ. ඔයාට කියන්න දෙයක් තියෙනවානම් ගරු මහේස්ත්‍රාත්තුමාට කියන්න පුළුවන්.
+Two motor vehicle rides were taken treatment at the Diyatalawa Base Hospital while Bandarawela Magistrate's Court ordered them to be remanded until April 30.
 
-අනතුර සිදුවනවිට මොටර් රථයක් පැදවූ රියදුරෙක්  - මම දැක්කේ නැහැ පෙරළිලා තියෙනවා කියලා. පෙරළිලා තිබිලා තියෙනවා. යනකොට පෙනුණේ නැහැ. මම දකුණු පැත්තෙන් ගියේ.  ඊටපස්සේ මගේ අතින් මේ පැත්තට කැපුණා. කාර් දෙක මැදින් ගියා දකුණු පැත්තට.
+The Bandarawela Magistrate was taken treatment at the Diyatalawa Base Hospital.
+
+Police officer - Bandarawela Magistrate arrived. The Hon. Magistrate may tell you anything.
+
+A driver driver where the mortgage was on the occasion of the accident - I hadn't seen. Has been flipped. Didn't look like. I went right side. Then my hand was made to this side. The two cars went through the right side.
 
 ...
 
 [Data](articles/767f7848.json)
 
+[Extended Data](ext_articles/767f7848.ext.json)
+
 ---
 
-### කමිඳු මෙන්ඩිස් යුග දිවියට
+### Boost for tourism with Shree Ramayan Trails launch
+
+*2024-04-22 20:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Boost-for-tourism-with-Shree-Ramayan-Trails-launch/108-281167) · `en`
+
+Sri Lanka’s tourism industry is anticipated to receive a boost from Indian pilgrims with the official launch of the Shree Ramayan Trails project.
+
+The Indo-Sri Lankan cultural project aims to draw millions of Indian and international Hindu pilgrims, travelers, and tourists to Sri Lanka by offering the pilgrimage of nine sacred sites across Sri Lanka as mentioned in the epic Ramayana.
+
+Spanning from Adam’s Bridge in the Mannar Basin to Seetha Eliya in Nuwara Eliya, the nine revered sites will be showcased using cutting-edge technology and innovative tourism methodologies.
+
+◼️
+
+[Data](articles/0bb5d6a4.json)
+
+---
+
+### Komindu Mendis gets married
 
 *2024-04-22 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195874) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක කමිඳු මෙන්ඩිස්ගේ විවාහ මංගල්‍ය උත්සවය අද (22) ගාල්ලේදී පැවැත්වුණි.
+Komindu Mendis, Sri Lanka cricketer, married in Galle today.
+
+🟩
+
+Sri Lanka Cricketer Kimithmindu Mendis's wedding ceremony was held in Galle today (22).
 
 ◼️
 
 [Data](articles/6c3f085b.json)
+
+[Extended Data](ext_articles/6c3f085b.ext.json)
 
 ---
 
@@ -254,19 +282,39 @@ International bailouts have reacted interest on delayed fees as the debt restruc
 
 ---
 
-### කෙරවලපිටිය - නුගපේ 33,000ක විදුලි රැහැන ඉදිකිරීමට පැවති බාධා ඉවත් කෙරේ
+### උද්ධමනය අඩුවෙයි
+
+*2024-04-22 18:25:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-අඩුවෙයි/11-409210) · `si`
+
+ජාතික පාරිභෝගික මිල දර්ශකයට අනුව 2024 පෙබරවාරි මාසයේදී 5.1% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 මාර්තු මාසය සඳහා 2.5%ක් දක්වා අඩුවී ඇත.
+
+කෙසේ වෙතත් 2024 පෙබරවාරි මාසයේ දී 5% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ උද්ධමනය 2024 මාර්තු මාසයේදී වෙනසක් සිදුව නොමැත.
+
+◼️
+
+[Data](articles/be51edc5.json)
+
+---
+
+### Interruptions to build power in Kerawalapitiya - 33,000 Nugapa
 
 *2024-04-22 18:07:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙරවලපිටිය---නුගපේ-33-000ක-විදුලි-රැහැන-ඉදිකිරීමට-පැවති-බාධා-ඉවත්-කෙරේ/11-409208) · `si`
 
-2019 වර්ෂයේ ආරම්භ කරන ලද තවමත් වැඩ නිමකොට නොමැති කෙරවලපිටිය - නුගපේ කිලෝ වොට් 33,000ක විදුලි රැහැන ඉදිකිරීම සම්බන්ධයෙන් මෙතෙක් පැවති බාධා ඉවත් කිරීමට අදාළ පාර්ශ්වවල එකඟතාවය පළ විය.
+In 2019, Kerawalapitiya received 33,000 kg of power from Nugapalawe. A committee, including representatives from various ministries and conservation departments, discussed the project. Despite protests from a state agency, the Cabinet approved construction. The committee agreed to protect the environment by taking measures against eight industries in the area.
 
-මේ සඳහා එකඟතාවය පළ වූයේ පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී ගරු අජිත් මාන්නප්පෙරුම මහතාගේ සභාපතිත්වයෙන් පසුගියදා (18) පාර්ලිමේන්තුවේදී  රැස් වූ අවස්ථාවේදීය.
+🟩
 
-මෙම රැස්වීම සඳහා නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය, පරිසර අමාත්‍යාංශය, විදුලිබල හා බලශක්ති අමාත්‍යාංශය, වනජීවී හා වන සම්පත් සංරක්ෂණ අමාත්‍යාංශය, ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාව, විදුලිබල මණ්ඩලය, වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව, මධ්‍යම පරිසර අධිකාරිය, වත්තල ප්‍රාදේශීය ලේකම් කාර්යාලය සහ මුතුරාජවෙල සංරක්ෂණ සංගමය ඇතුළු පරිසර සංවිධාන නියෝජනය කරමින් නිලධාරීහු සහභාගී වූහ.
+The parties of the Independent of 33,000 kg of power in Kerawalapitiya - Nugapalawe - 33,000 kg of electricity was established in the year 2019.
+
+The sectoral Oversight Committee on the environment, natural resources and sustain development was held at the Chairman of Parliament Member of Parliament Hon.
+
+Ministry of Urban Development and Housing, Ministry of Power and Energy, Ministry of Power and Energy Conservation, Department of Power and Wildlife Conservation, Department of Wildlife Conservation, Central Environmental Staff, and the Muthurajawela Conservation AssociationOfficials representing the organizations were present.
 
 ...
 
 [Data](articles/6341913a.json)
+
+[Extended Data](ext_articles/6341913a.ext.json)
 
 ---
 
@@ -2239,49 +2287,5 @@ The Transport Minister disclosed that Sri Lanka has recently borrowed 500 buses 
 [Data](articles/b1fa4d2e.json)
 
 [Extended Data](ext_articles/b1fa4d2e.ext.json)
-
----
-
-### 176 lakh income of the Zoo Department
-
-*2024-04-22 11:08:46* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-දින-තුනේදි-සත්වෝද්‍යාන-දෙපාර්තමේන්තුවට-ලක්ෂ-176ක-ආදායමක්/11-409198) · `si`
-
-The Zoo Department's income of 176 lakh is attributed to zoos and coding centers attracting parents, foreign tourists, and large schools in Dehiwala and Pinnapatha.
-
-🟩
-
-Deputy Director of the ZooCana Department said that the zoos and coding centers have earnled the earliest Rs.
-
-Large number of parents and foreign tourists, including large schools and foreign tourists, including large schools and many foreign tourists, including large schools, and other schools, including large schools in Dehiwala and Pinnapatha, and Large school children, including large schools in Dehiwala and Pinigawala.Deputy Director added that the attraction of viewers has been due to the infrastructure of the infrastructure.
-
-According to the Pinnawala Zoo, Rs.Ms. Dinuia Manawada says.
-
-◼️
-
-[Data](articles/4e2dd62d.json)
-
-[Extended Data](ext_articles/4e2dd62d.ext.json)
-
----
-
-### The death of a student who runs beyond the village
-
-*2024-04-22 11:03:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமம்-தாண்டி-ஓடிய-மாணவன்-மரணம்/175-336168) · `ta`
-
-A 17-year-old athlete from Marathon village, preparing for the GCE Ordinary Level Examination, died suddenly during the Tamil-Sinhala New Year celebrations. He fell unconscious and died 500 meters from the village.
-
-🟩
-
-A 17-year-old athlete who was participating in the village of Marathon (Marathon), organized on the 21st of last month for the Tamil-Sinhala New Year, died suddenly and died, Kirulla police said.
-
-The school student has died. He is a student who is preparing for the GCE Ordinary Level Examination to be held next month.
-
-Some people who went to see the New Year's Eve, fell on the street about 500 meters, about 500 meters.. Oh, it is known that it fell unconscious during the dwarf.
-
-◼️
-
-[Data](articles/a04e40cd.json)
-
-[Extended Data](ext_articles/a04e40cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 16:49:19**
+As of **2024-04-22 17:03:41**
 
 ## Newspaper Stats
 
-*Scraped **20,242** Articles*
+*Scraped **20,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,341
 adaderanalk | 2,421
 virakesarilk | 3,025
 dailymirrorlk | 3,155
-adaderanasinhalalk | 3,285
+adaderanasinhalalk | 3,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,240 (100.0%) of 20,242 articles have been extended.
+20,242 (100.0%) of 20,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ක්‍රිකට් පාවාදීමක් ගැන අධිචෝදනා ගොනුකරයි
+
+*2024-04-22 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195866) · `si`
+
+මෙරටදී පැවති "Legends Cricket Trophy, 2024" ක්‍රිකට් තරගාවලියේදී සිදුවූ බව කියන තරග පාවාදීමේ චෝදනාවක් සම්බන්ධයෙන් එම තරගාවලියට එක්වූ ක්‍රිකට් කණ්ඩායමක හිමිකරුවෙකුට එරෙහිව මහාධිකරණය හමුවේ අධිචෝදනා ගොනුකර තිබේ.
+
+නීතිපතිවරයා අද (22) කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ මේ බව දැනුම්දී තිබේ.
+
+මෙලෙස අධිචෝදනා ගොනුකර ඇත්තේ එම තරගාවලියට එක්වූ ක්‍රිකට් කණ්ඩායමක හිමිකරුවෙකු වන ඉන්දීය ජාතිකයෙකුට එරෙහිවය.
+
+◼️
+
+[Data](articles/564f79fc.json)
+
+---
 
 ### AirAsia and FitsAir among bidders for SriLankan Airlines
 
@@ -48,6 +64,8 @@ The document also named Dharshaan Elite Investment Holding (Pvt) Ltd, Sherisha T
 
 [Data](articles/2477d2c8.json)
 
+[Extended Data](ext_articles/2477d2c8.ext.json)
+
 ---
 
 ### Health officials warn against misleading posts re child surgeries abroad
@@ -61,6 +79,8 @@ The message, which has been circulating widely, claims that the Rotary Club Colo
 ...
 
 [Data](articles/1619115b.json)
+
+[Extended Data](ext_articles/1619115b.ext.json)
 
 ---
 
@@ -2245,31 +2265,5 @@ The Department of Meteorology has forecast showers or thunderstorms in the Uva P
 [Data](articles/d95fd820.json)
 
 [Extended Data](ext_articles/d95fd820.ext.json)
-
----
-
-### Recognition that rice to distribute to school children
-
-*2024-04-22 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195849) · `si`
-
-The Sri Lanka Public Health Inspector Society planned to distribute rice from the Government Meal Food Store in Veyangoda to school children, but due to rising prices, the distribution was temporarily suspended.
-
-🟩
-
-The Sri Lanka Public Health Inspector Society says that the rice stocks stored in the Government Meal Food Store in Veyangoda area was planned to distribute to school children.
-
-The Chairman of the Association Upul Rohana stated that the prices of the rice is inaugurated due to the inflammation of the prices.
-
-The rice stocks are being taken to provide lunch to school children who are currently being implemented by the World Food Organization.
-
-In the face of the situation, the issuance of rice has been temporarily suspended.
-
-Sri Lanka Public Health Inspection Association President Upul Rohana
-
-◼️
-
-[Data](articles/6bf9e28f.json)
-
-[Extended Data](ext_articles/6bf9e28f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 22:18:23**
+As of **2024-04-22 22:34:00**
 
 ## Newspaper Stats
 
-*Scraped **20,289** Articles*
+*Scraped **20,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,697
+adalk | 1,698
 tamilmirrorlk | 2,343
 adaderanalk | 2,426
 virakesarilk | 3,031
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,295
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,288 (100.0%) of 20,289 articles have been extended.
+20,289 (100.0%) of 20,290 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,8 @@ They said the Uma Oya Multipurpose Development Project, funded by Sri Lanka and 
 ◼️
 
 [Data](articles/a64f2e8a.json)
+
+[Extended Data](ext_articles/a64f2e8a.ext.json)
 
 ---
 
@@ -321,6 +323,20 @@ It is noteworthy that the bail demand by the President's Attorney General on beh
 [Data](articles/063a8be9.json)
 
 [Extended Data](ext_articles/063a8be9.ext.json)
+
+---
+
+### රට සංවර්ධනය කළ හැකි එකම නායකයා රනිල්
+
+*2024-04-22 18:48:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-සංවර්ධනය-කළ-හැකි-එකම-නායකයා-රනිල්/11-409211) · `si`
+
+රට සංවර්ධනය කළ හැකි එකම නායකයා රනිල් වික්‍රමසිංහ මතතා පමණක් බවද,එදා රටේ පැවති අරගලය අවස්ථාවේ දී පාලනය භාරගෙන පැවති අවදානම්  සහගත බවින් රට මුදාගන්නට ඔහුට හැකිවූ බවද, ජත්‍යන්තරය පවා ඔහුගේ නායකත්වය පිළිගන්නා බවද එක්සත් ජාතික පක්ෂයේ  නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතා  ප්‍රකාශ කළේය. ඒ මහතා මේ බව පැවසුවේ බියගම  සිය කාර්‍යාලයේදී අලුත් අවුරුදු උත්සවය සඳහා පැමිණි ජනතාව අමතමිනි.
+
+"රට සාමාන්‍ය තත්වයට යළි පත්වෙමින් පවතිනවා.අද රටේ ජීවන මිල  මීට වසර දෙකකට පෙර තිබූ තත්වයට වඩා සහනදායි වී තිබෙනවා.රටේ ජනතාවට මීටත් වඩා සහන  ලබාදීමට අප ඉදිරියේදී කටයුතු කරනවා.අද රුපියල ශක්තිමත් වෙලා. ජනතාවට සහන ලැබිලා තියෙනවා.සංචාරක කර්මාන්තය වැඩි දියුණු වෙලා. ආයෝජකයන් සහ සංචාරකයන් දැන් වැඩි වැඩියෙන් ලංකාවට එන්න පටන් අරගෙන. මෙවර  මැයි රැළිය අතිසාර්ථක ව පවත්වනවා.ශ්‍රී ලංකාව සමෘද්ධිමත් රටක් බවට පත් කළ හැකි එකම නායකයා රනිල් වික්‍රමසිංහ මහතා බව අද කවුරුත් අවිවාදයෙන් පිළිගන්නවා."
+
+◼️
+
+[Data](articles/d3f423cf.json)
 
 ---
 
@@ -2233,39 +2249,5 @@ In the context of former President Gotabhaya Rajapakse's failure to fulfill the 
 [Data](articles/f0865282.json)
 
 [Extended Data](ext_articles/f0865282.ext.json)
-
----
-
-### My Hell at Myanmar's Cyber Slave Camp
-
-*2024-04-22 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181641) · `ta`
-
-Ravi, a 24-year-old from Sri Lanka, was lured to Thailand for a better future but ended up in a Myanmar cyber slave camp, subjected to torture and forced labor. He was part of a larger human trafficking network, with over 120,000 people trapped in Myanmar, mostly from South Asia. Sri Lankan officials report 56 citizens missing, with 8 rescued. Ravi, skilled in computers, was paid $1200 for his services, despite borrowing $815 to secure the job. He was sent to a camp in Maiwadi, a city under military control, where he and others were detained and forced to work for 22 hours a day, targeting wealthy individuals.
-
-🟩
-
-Ravi traveled to Thailand with the hope that he and his wife would have a better future.
-
-However, the 24 -year -old man from Sri Lanka was dumped in the Myanmar forest and was tortured to refuse to deceive the rich men by romance.
-
-They put my clothes naked and to be in the radiation and gave my feet a shock to torture. I thought I would die.
-
-He also refused to submit to them for 16 days and I was in a prisoner.
-
-But there were worse incidents -he said, "They brought two women and raped my eyes in front of my eyes."
-
-When they saw it, he feared what they would do to me, and that I was skeptical that I was alive.
-
-The UN warned that more than 120,000 people were trapped in Myanmar in August 2023 - the most of them belonged to South Asia -
-
-Those who seek foreign employment from all parts of the world reach these fraudulent stations.
-
-Sri Lankan officials say that 56 citizens of Myanmar's four parts have been cook.
-
-...
-
-[Data](articles/05faa310.json)
-
-[Extended Data](ext_articles/05faa310.ext.json)
 
 ---

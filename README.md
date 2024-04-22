@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 05:58:39**
+As of **2024-04-22 06:19:36**
 
 ## Newspaper Stats
 
-*Scraped **20,117** Articles*
+*Scraped **20,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 176
 bbccomsinhala | 210
 dbsjeyarajcom | 219
 newsfirstlk | 363
-islandlk | 1,083
+islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,678
@@ -26,11 +26,41 @@ adaderanasinhalalk | 3,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,117 (100.0%) of 20,117 articles have been extended.
+20,117 (100.0%) of 20,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### Visa recognises ComBank for excellence in the launch of corporate cards
+
+*2024-04-22 05:34:00* · [`islandlk`](http://island.lk/visa-recognises-combank-for-excellence-in-the-launch-of-corporate-cards/) · `en`
+
+Visa, the global payment solutions company, honoured Commercial Bank of Ceylon for ‘Excellence in Launch of Affluent and Mass Corporate Card Variants’ at a Visa Commercial Solutions Client Forum in Colombo recently, in recognition of the Bank’s commitment to the introduction of Visa’s Corporate Card series in the local market.
+
+The Visa Commercial Solutions Excellence award was presented by Visa Country Manager for Sri Lanka and Maldives Avanthi Colambage and was accepted on behalf of the Bank by Deputy General Manager – Corporate Banking Miss Tamara Bernard.
+
+...
+
+[Data](articles/5f1d578b.json)
+
+---
+
+### Rose Cooray inducted to the Hall of Fame at Great Manager Awards 2024
+
+*2024-04-22 05:28:00* · [`islandlk`](http://island.lk/rose-cooray-inducted-to-the-hall-of-fame-at-great-manager-awards-2024/) · `en`
+
+At the prestigious Great Manager Awards 2024, Rose Cooray, the Chairperson of HNB Assurance PLC and HNB General Insurance Limited, was inducted into the Hall of Fame. Mrs. Cooray, who assumed her role in 2015, has been instrumental in steering both companies to remarkable growth and success.
+
+Since taking on the mantle of Chairperson, Mrs. Cooray has spearheaded initiatives that have led to substantial financial achievements, embracing cutting-edge technological advancements, securing international acclaim and forming numerous synergies and partnerships that have laid a solid foundation for the future of both organizations.
+
+With over 47 years of extensive experience in the financial sector, including a distinguished career at the Central Bank of Sri Lanka where she served as Deputy Governor, Mrs. Cooray brings a wealth of knowledge and expertise to her leadership roles.
+
+...
+
+[Data](articles/d5fa851d.json)
+
+---
 
 ### IMF official: Sri Lanka’s road ahead is challenging, critical to keep up with reform momentum
 
@@ -53,6 +83,80 @@ Semasinghe after the meeting tanks Gopinath for acknowledging Sri Lanka’s econ
 [Data](articles/bf50c4b6.json)
 
 [Extended Data](ext_articles/bf50c4b6.ext.json)
+
+---
+
+### IIHS opens XR and high-fidelity simulation labs
+
+*2024-04-22 04:18:00* · [`islandlk`](http://island.lk/iihs-opens-xr-and-high-fidelity-simulation-labs-2/) · `en`
+
+The International Institute of Health Sciences (IIHS), the leading health education institute in South Asia, recently opened an XR Lab and High-Fidelity Simulation Lab, showcasing their commitment to delivering a leading experience that transcends traditional boundaries. The newly opened XR lab of IIHS, which is equipped with cutting-edge virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies, is a testament to their commitment to delivering digital experiences to boost learning in students.
+
+This dynamic learning environment stimulates curiosity and enhances the comprehension of complex theories and procedures. In the XR Lab, students are active participants in their own education instead of being mere observers. Every experience such as performing delicate surgeries, diagnosing complex conditions, or responding to emergencies, is a stepping stone towards mastery. .
+
+...
+
+[Data](articles/73a6e893.json)
+
+---
+
+### Prime Health Herbal Products recognised at Indigenous Medical Entrepreneurship Awards
+
+*2024-04-22 04:17:00* · [`islandlk`](http://island.lk/prime-health-herbal-products-recognised-at-indigenous-medical-entrepreneurship-awards/) · `en`
+
+Prime Health Herbal Products (PHHP), a leading herbal nutraceutical manufacturer in the country was recently honoured for their contribution towards the creation of herbal medicine at the Golden Inmediens Awards 2023. The award ceremony, which aims to develop and promote indigenous medical entrepreneurship, was held at the Water’s Edge Hotel.
+
+Focusing on research and development of pharmaceutical/nutraceutical products, PHHP manufactures their products with a particular emphasis on non-infectious diseases such as Cancer, Diabetics, Obesity and Coronary diseases. Their Research and Development Facility has been established in collaboration with several local and international universities such as the Universities of Peradeniya, Kelaniya (Faculty of Indigenous Medicine), and Ruhuna, and the Universities of Melbourne, Osaka, Spain, and Burling. Their state-of-art factory is in operation under the guidance and supervision of the Research Team’s Head, Senior Prof. R. V. P. J. Rajapakse.
+
+...
+
+[Data](articles/c2f1c473.json)
+
+---
+
+### Sanasa General Insurance named among Companies for Best Management Practices
+
+*2024-04-22 04:16:00* · [`islandlk`](http://island.lk/sanasa-general-insurance-named-among-companies-for-best-management-practices/) · `en`
+
+Sanasa General Insurance, Sri Lanka’s leading insurance service provider, was recently honoured at the Best Management Practices Company Awards 2024. The awards ceremony organised by the Institute of Chartered Professional Managers was recently held in Colombo, and it aims at recognising and public and private sector companies showcasing excellence in organisational management and leadership, leading to better management practices that bring about growth and success.
+
+“This award is not a mere achievement; it is a validation of our core beliefs and the principles that define our business as a responsible and trusted insurance service provider. This recognition serves as a catalyst to propel our organisation forward, solidifying our commitment to excellence in everything we do.” said Sanasa General Insurance Chairman, Tishan Subasinghe.
+
+Rose Cooray inducted to the Hall of Fame at Great Manager Awards 2024
+
+SANASA General Insurance expands services with 66 new service units
+
+...
+
+[Data](articles/26520026.json)
+
+---
+
+### Lanka Hospitals inaugurates new Bariatric Centre, surpasses 250th surgery milestone
+
+*2024-04-22 04:13:00* · [`islandlk`](http://island.lk/lanka-hospitals-inaugurates-new-bariatric-centre-surpasses-250th-surgery-milestone/) · `en`
+
+Lanka Hospitals is delighted to announce the successful inauguration of its new Bariatric Centre, coinciding with the celebration of surpassing the milestone of 250 successful Bariatric surgeries performed at the hospital. The inauguration ceremony, held on April 06th, was attended by distinguished guests, medical professionals, and members of the media.
+
+Deepthi Lokuarachchi, Group CEO of Lanka Hospitals said, “The successful inauguration of our new Bariatric Centre and the surpassing of our 250th successful surgery mark a momentous occasion for Lanka Hospitals. We remain committed to providing world-class healthcare services and improving the overall health and well-being of our patients.”
+
+...
+
+[Data](articles/19ff919b.json)
+
+---
+
+### John Keells Properties hosts Union Bank customers at its ‘Viman’ Ja-Ela model apartment
+
+*2024-04-22 04:13:00* · [`islandlk`](http://island.lk/john-keells-properties-hosts-union-bank-customers-at-its-viman-ja-ela-model-apartment/) · `en`
+
+John Keells Properties partnered with Union Bank to offer flexible mortgage solutions for its ‘Viman’ Ja-Ela project. John Keells Properties further strengthened its relationship with the Bank’s customers by hosting an exclusive event for them on 6th of March, to tour the Viman model apartment at the John Keells Properties head office in Vauxhall Street, Colombo 2.
+
+The event provided an opportunity for customers of Union Bank to tour the model apartment and to engage with the experienced sales team from John Keells Properties to understand how owning a home at ‘Viman’ Ja-Ela can fulfil their aspirations. The innovative mortgage packages provided by Union Bank in collaboration with John Keells Properties enable prospective homeowners to access customized financing options, making Viman Ja-Ela’s residences more accessible.
+
+...
+
+[Data](articles/1b28c829.json)
 
 ---
 
@@ -2075,153 +2179,5 @@ The businessman had said that the businessman had had $ 4,710 worth of Rs.
 [Data](articles/c6e49b00.json)
 
 [Extended Data](ext_articles/c6e49b00.ext.json)
-
----
-
-### Plan to do not need to import eggs and export
-
-*2024-04-21 12:42:20* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-ආනයනය-කරන්න-අවශ්‍ය-නැතිලු--අපනයනය-කරන්නත්-සැලසුමක්/11-409183) · `si`
-
-Minister DB Herath: No need to import eggs; focus on domestic production. Aims to export eggs and strengthen farming. Recent economic downturn led to meat and egg production collapse, prompting self-sufficiency efforts.
-
-🟩
-
-Minister of Livestock Development Minister DB Herath said that there is no need for importing eggs from abroad.
-
-The Minister expressed his views on the occasion of a Diploma in Kundasale.
-
-"Now we have become saturated by producing eggs. We do not need eggs from foreign countries. With the current situation, a program to strengthen farming.Due to the rumor tax concession for animal feed, the Department of Animal Production Health today is self-established in eggs, as well as private sector intervention.
-
-Eggs to export our next goal. The industrial flesh is already sent to the Todi countries. There is a possibility of bringing the eggs to the overseas. He said that the Ministry of Agriculture was able to move a self-sufficient in a self-sufficient place in particular, especially meat and eggs.
-
-...
-
-[Data](articles/dae8e82d.json)
-
-[Extended Data](ext_articles/dae8e82d.ext.json)
-
----
-
-### Every low-income family will receive 10 kgs of rice for April, May: President
-
-*2024-04-21 12:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Every-low-income-family-will-receive-10-kgs-of-rice-for-April-May-President/108-281082) · `en`
-
-Colombo, April 21 (Daily Mirror)- President Ranil Wickremesinghe said today that every low-income family will receive 10 kgs of rice monthly for April and May.
-
-He said this while participating in the national rice distribution ceremony for low-income families at the Ambagasdowa Stadium, Uva Paranagama, the President's Media Division (PMD) said.
-
-◼️
-
-[Data](articles/921853ae.json)
-
-[Extended Data](ext_articles/921853ae.ext.json)
-
----
-
-### The four navy seized with the ice and the four suspects and questioned
-
-*2024-04-21 12:33:47* · [`adalk`](https://www.ada.lk/breaking_news/අයිස්-සමග-අත්අඩංගුවට-ගත්-නාවික-හමුදාවේ-දෙදෙනා-ඇතුළු-සිව්-දෙනා-රඳවාගෙන-ප්‍රශ්න-කරයි/11-409182) · `si`
-
-The Sri Lanka Navy arrested four suspects, including two Navy officers, for possessing 510 million ice drugs. The Mulleriyawa OIC was also arrested after being inspected in the Mulleriyawa area. A house inspection led to the discovery of 100 grams of ice drugs and the arrest of three individuals, including the OIC. The suspects were found to be involved in a racket, with one of them being the main person behind the ice drug trafficking in the area.
-
-🟩
-
-The Sri Lanka Navy, who was arrested by the Sri Lanka Navy, who was arrested by the Sri Lanka Navy, who was arrested by 510 million ice drugs and was arrested by the Hulfipe Magistrate's Court to retain the 510 million Ice narcotics.
-
-The Mulleriyawa OIC has been arrested following information that the Mulleriyawa OIC has been inspected in the Mulleriyawa area in Mulleriyawa.
-
-Mulleriyawa Police say that the suspect was inspected by the suspect, which was found at the suspect, which had been found in the incident.
-
-When the house was inspected on his information, the house was collapsed to the house and entered the house due to the house of doles. The police said that the police had not seen the door at the time in a room in a room in the house and arrested three persons.
-
-...
-
-[Data](articles/e5256e86.json)
-
-[Extended Data](ext_articles/e5256e86.ext.json)
-
----
-
-### Wijayadasa appointed Acting Chairman of Sri Lanka Freedom Party
-
-*2024-04-21 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195831) · `si`
-
-Wijayadasa Rajapaksa appointed Acting Chairman of Sri Lanka Freedom Party, replacing Maithripala Sirisena.
-
-🟩
-
-According to internal sources of the party, Minister Wijayadasa Rajapaksa has been appointed as the acting of the SLFP act of SLFP.
-
-The decision was taken at the Executive Committee held at an executive meeting held at an executive meeting at a famous hotel at an executive hotel, a censored chairman Maithripala Sirisena this morning.
-
-◼️
-
-[Data](articles/0c02ef12.json)
-
-[Extended Data](ext_articles/0c02ef12.ext.json)
-
----
-
-### Drowning student killed
-
-*2024-04-21 12:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-336127) · `ta`
-
-An 8-year-old girl, Dineet Sathsara, drowned in Puttalam with her family. The incident occurred during a swimming trip. Police are investigating further.
-
-🟩
-
-A schoolgirl who drowned with his family with his family in Puttalam - Arachchikattuwa Kattupatha Mahaweva has died on Saturday (20), Arachchikattuwa police said.
-
-This is a schoolgirl named Dineet Sathsara, a 8 -year -old from Arachikattuwa, Nallaratharankattuwa and Gulkattuwa area
-
-Police investigations revealed that the student was facing the disaster when the mother's sister, her two children and her other neighbors went to swim.
-
-In addition, the police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/1ba3dcef.json)
-
-[Extended Data](ext_articles/1ba3dcef.ext.json)
-
----
-
-### People have already selected Ranil for Presidency: Prasanna
-
-*2024-04-21 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/People-have-already-selected-Ranil-for-Presidency-Prasanna/108-281081) · `en`
-
-Colombo, April 21 (Daily Mirror)- Claiming that people will not vote as a gratitude for goods distributed by politicians, Minister Prasanna Ranatunge said people have already selected Ranil Wickremesinghe for Presidency as he can rescue the country from the economic crisis.
-
-The Minister said this to the media after an event to distribute rice to low income families in Kelaniya.
-
-Responding to a question, he said they were not distributing rice targeting elections and added that people who hold different political ideologies benefit from this programme.
-
-"We are not doing this targeting elections. People who hold different political ideologies are here. People will not vote even though goods are distributed. People have already selected Ranil Wickremesinghe. That is because he can rescue the country from the economic crisis," he said.
-
-◼️
-
-[Data](articles/565b153e.json)
-
-[Extended Data](ext_articles/565b153e.ext.json)
-
----
-
-### 05 Removal of websites
-
-*2024-04-21 12:19:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/05-இணையத்தளங்கள்-நீக்கம்/175-336126) · `ta`
-
-The Sri Lanka Computer Emergency Response Forum removed 05 fake websites impersonating the Postal Department, reporting 35 money laundering incidents.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Forum said that 05 fake websites designed as the Postal Department's website have been removed from the Internet.
-
-In addition, the websites have reported about thirty -five money laundering incidents, its senior information security engineer.
-
-◼️
-
-[Data](articles/6eaea951.json)
-
-[Extended Data](ext_articles/6eaea951.ext.json)
 
 ---

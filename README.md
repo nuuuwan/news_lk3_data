@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 23:52:47**
+As of **2024-04-23 00:03:32**
 
 ## Newspaper Stats
 
-*Scraped **20,297** Articles*
+*Scraped **20,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,160
 adalk | 1,698
 tamilmirrorlk | 2,343
 adaderanalk | 2,428
-virakesarilk | 3,031
+virakesarilk | 3,041
 dailymirrorlk | 3,161
 adaderanasinhalalk | 3,297
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,294 (100.0%) of 20,297 articles have been extended.
+20,297 (100.0%) of 20,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ஐபிஎல்லில் 200 விக்கெட்களை வீழ்த்திய முதல் வீரர் சஹால்
+
+*2024-04-22 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181722) · `ta`
+
+இண்டியன் பிறீமியர் லீக் கிரிக்கெட் வரலாற்றில் 200 விக்கெட்களை வீழ்த்திய முதல் வீரர் என்ற சாதனையை ராஜஸ்தான் றோயல்ஸ் சுழல்பந்துவீச்சாளர் யுஸ்வேந்த்தர சஹால் படைத்துள்ளார்.
+
+மும்பை இண்டியன்ஸுக்கு எதிராக ஜெய்பூர், சவாய் மான்சிங் விளையாட்டரங்கில் இன்று திங்கட்கிழமை நடைபெற்றுவரும் போட்டியிலேயே அவர் இந்த மைல்கல் சாதனையை எட்டினார்.
+
+தனது பந்துவீச்சில் மொஹமத் நபியின் பிடியை தானே எடுத்து ஐபிஎல்லில் 200 விக்கெட்களை சஹால் பூர்த்தி செய்தார்.
+
+ட்வேன் ப்ராவோவின் 183 விக்கெட்கள் என்ற சாதனையை கடந்த வருடம் முறிடித்த சஹால், தனது 153ஆவது போட்டியில் இந்த அரிய சாதனையை படைத்தார்.
+
+'ஐபிஎல்லில் அதிக விக்கெட்களை வீழ்த்துவேன் என நான் ஒருபோதும் எண்ணியதில்லை' என ப்ராவோவின் சாதனையை கடந்த வருடம் முறியடித்த பின்னர் சஹால் தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/f795d3aa.json)
+
+---
+
+### யாழில் மதுபான விற்பனை நிலையம் திறப்பதற்குப் எதிர்ப்பு தெரிவித்து பிரதேச மக்கள் ஆர்ப்பாட்டம்
+
+*2024-04-22 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181721) · `ta`
+
+யாழ்ப்பாணம் - நெடுந்தீவில் அமைந்துள்ள விடுதி ஒன்றினுள் மதுபான விற்பனை நிலையம் ஒன்றினை திறப்பதற்குப் பிரதேச மக்கள் எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டமொன்றை முன்னெடுத்தனர்.
+
+திங்கட்கிழமை (22) காலை இடம்பெற்ற ஆர்ப்பாட்டத்தில் பொதுமக்கள் பாடசாலை மாணவர்கள் மதத் தலைவர்கள் உள்ளிட்ட பலரும் கலந்து கொண்டு பதாகைகளைத் தாங்கியவாறு கோஷமெழுப்பி ஆர்ப்பாட்டத்தை முன்னெடுத்தனர்.
+
+நெடுந்தீவு பகுதியில் பல்வேறு அபிவிருத்தி வேலைத் திட்டங்கள் முன்னெடுக்க வேண்டிய நிலையில் மதுபான விற்பனை நிலையத்தைக் கொண்டு வருவதால் இளம் சந்ததியினர் வழி தவறிப் போகக்கூடும் என்பதைக் கருத்தில் கொண்டு பிரதேச மக்களால் குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+
+நெடுந்தீவு சந்தியிலிருந்து ஆரம்பமான ஆர்ப்பாட்டம், ஊர்வலமாகச் சென்று நெடுந்தீவு பிரதேச செயலரிடம் மகஜரொன்றை கையளித்த பின்னர் அரசாங்க அதிபருடன் பேசி குறித்த பிரச்சனைக்குத் தீர்வு காண்பதாகப் பிரதேச செயலர் தெரிவித்ததையடுத்து ஆர்ப்பாட்டம் கைவிடப்பட்டது.
+
+◼️
+
+[Data](articles/e85ba3af.json)
+
+---
 
 ### Presidential Secretariat issues clarification on rice stocks released for school meals program
 
@@ -49,6 +87,56 @@ It was reported that the rice stocks in question were set to be used in the scho
 [Data](articles/edef48cc.json)
 
 [Extended Data](ext_articles/edef48cc.ext.json)
+
+---
+
+### அஸ்வத்தாமாவாக நடிக்கும் அமிதாப்பச்சன்
+
+*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181689) · `ta`
+
+பொலிவுட் சுப்பர் ஸ்டார் அமிதாப்பச்சன் 'கல்கி 2898 AD  எனும் படத்தில்  ஏற்று நடித்திருக்கும் அஸ்வத்தாமா எனும் கதாபாத்திரத்தின் தோற்ற காணொளியும் புகைப்படமும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/0ae9621b.json)
+
+---
+
+### எதிர்பார்ப்பை எகிற வைக்கும் சோனியா அகர்வாலின் 'பிஹைன்ட்'
+
+*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181690) · `ta`
+
+திருமண உறவு முறிவுக்குப் பிறகு தமிழ் திரையுலகில் தொடர்ந்து அழுத்தமான வேடங்களில் நடித்து தன் கலைச் சேவையை அயராது தொடரும் நடிகை சோனியா அகர்வால் கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் திரைப்படம் 'பிஹைண்ட்' . இப்படம் வெளியாகி அவரது திரையுலக வாழ்க்கையில் திருப்புமுனையை ஏற்படுத்துமா..? என்ற எதிர்பார்ப்பை ஏற்படுத்தியிருக்கிறது.
+
+இயக்குநர் அமன் ரஃபி இயக்கத்தில் உருவாகி இருக்கும் 'பிஹைண்ட்' எனும் திரைப்படத்தில் சோனியா அகர்வால், ஜினு ஈ. தாமஸ், மினு மோல்,  மரினா மைக்கேல், நோபி மார்க்கோஸ், சினோஜ் வர்கீஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். சந்தீப் சங்கரதாஸ் மற்றும் டி. சமீர் முகமது இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு முரளி அப்பாதத், ஆரிப் அன்சார் மற்றும் சன்னி மாதவன் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். சஸ்பென்ஸ் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பாவகுட்டி கிரியேஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஷிஜா ஜினு தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/242327ef.json)
+
+---
+
+### ஃபைண்டர் - விமர்சனம்
+
+*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181687) · `ta`
+
+நடிகர்கள் : சார்லி, வினோத் ராஜேந்திரன், சென்ராயன், நிழல்கள் ரவி, பிரானா மற்றும் பலர்.
+
+...
+
+[Data](articles/49b3092c.json)
+
+---
+
+### ஹைபர்லிங்க் பாணியில் தயாராகும் 'நிறம் மாறும் உலகில்'
+
+*2024-04-22 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181691) · `ta`
+
+தமிழ் சினிமாவின் ஒரு கதையை  முதன்மையான கதாபாத்திரம் அதற்கு துணை புரியும் பல்வேறு கதாபாத்திரங்கள்  என விவரித்து , அதற்கு ஒரு தொடக்கம் ஒரு இடை நிறுத்தம் ஒரு உச்சகட்டம் பின் ஒரு முடிவு என இயக்குநர்கள் பார்வையாளர்களை மகிழ்விப்பதுண்டு.‌ தற்போது நான்கு கதை நான்கு கதைக்கும் இடையே ஒரு இணைக்கும் புள்ளி என புதிய பாணியில் கதை சொல்கிறார்கள் இயக்குநர்கள். அந்த வகையில் தற்போது 'இயக்குநர் இமயம்' பாரதிராஜா, நட்டி என்கிற நட்ராஜ், ரியோ ராஜ், நடன இயக்குநர் சாண்டி ஆகிய நால்வர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கும் 'நிறம் மாறும் உலகில்' எனும் திரைப்படம் ஹைபர் லிங்க் பாணியில் உருவாகி இருக்கிறது.‌
+
+...
+
+[Data](articles/0b259339.json)
 
 ---
 
@@ -134,6 +222,22 @@ It was revealed that the residents had been looking for two days and that she wa
 
 ---
 
+### காலநிலைசார் சவால்களுக்கு முகங்கொடுத்துவரும் இலங்கை - உலக உணவுத்திட்டம்
+
+*2024-04-22 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181720) · `ta`
+
+இலங்கை தற்போது காலநிலைசார் சவால்களுக்கும் முகங்கொடுத்து வருவதாகவும், அதிகரித்துவரும் வெப்பநிலையும், மிகையான உஷ்ணமும் மக்களின் உடல் ஆரோக்கியத்துக்கும், வாழ்க்கைத்தரத்துக்கும் கடுமையான அச்சுறுத்தலை ஏற்படுத்தியிருப்பதாகவும் உலக உணவுத்திட்டம் தெரிவித்துள்ளது.
+
+கடந்த மார்ச் மாதத்தில் இலங்கையின் நிலைவரம் மற்றும் இலங்கைக்கு வழங்கப்பட்ட உதவிகள் என்பவற்றை உள்ளடக்கி வெளியிட்டுள்ள மாதாந்த மதிப்பீட்டு அறிக்கையிலேயே உலக உணவுத்திட்டம் மேற்கண்டவாறு தெரிவித்துள்ளது.
+
+'இலங்கை சுதந்திரம் அடைந்ததன் பின்னர் முகங்கொடுத்த மிகமோசமான பொருளாதார நெருக்கடியிலிருந்து தற்போது படிப்படியாக மீட்சியடைந்துவருகின்றது. இந்நெருக்கடியானது 2022 ஆம் ஆண்டில் சுமார் 6.2 மில்லியன் பேரை உணவுப்பாதுகாப்பற்ற நிலைக்குத் தள்ளியது. 2023 ஒக்டோபரில் 24 சதவீதமான குடும்பங்கள் மிதமான உணவுப்பாதுகாப்பின்மை நிலைக்கு முகங்கொடுத்திருப்பதாக மதிப்பிடப்பட்டது.
+
+...
+
+[Data](articles/78830ac8.json)
+
+---
+
 ### ‘Shree Ramayan Trails’ launched in Sri Lanka to boost tourism
 
 *2024-04-22 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98782/shree-ramayan-trails-launched-in-sri-lanka-to-boost-tourism) · `en`
@@ -165,6 +269,22 @@ They said the Uma Oya Multipurpose Development Project, funded by Sri Lanka and 
 [Data](articles/a64f2e8a.json)
 
 [Extended Data](ext_articles/a64f2e8a.ext.json)
+
+---
+
+### பூரண முடியாட்சி தருவதாக கூறினாலும் திருடர்களின் தயவில் பதவியேற்க மாட்டேன் - எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச
+
+*2024-04-22 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/181719) · `ta`
+
+நெருங்கிய நண்பர்களை பாதுகாத்து வருவதே இன்றும் கூட உயிர்த்த ஞாயிறு தாக்குதலின் உண்மைகள் வெளிவராமைக்கான காரணமாகும். நான் திருடர்களின் தயவில் பதவி ஏற்காததால் அவர்களை பாதுகாப்பதற்கான எவ்வித தேவையும் எனக்கு கிடையாது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ் 161ஆவது கட்டமாக 10 இலட்சம் ரூபா பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், அம்பாந்தோட்டை, முல்கிரிகல, வீரகெட்டிய மீகஸ்ஆர மகா வித்தியாலயத்திற்கு வழங்கி வைக்கும் நிகழ்வு நேற்று திங்கட்கிழமை இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நாட்டு அரசியலில் தற்போது அதிகாரத்தை கைப்பற்ற சதிகள் இடம்பெற்று வருகின்றன. சதிகளை திட்டமிடுவதற்கு அளிக்கப்படும் முக்கியத்துவம் கல்வியை கட்டியெழுப்புவதில் இல்லை. அதிகாரத்துக்காகவும் பதவிகளுக்காகவுமே இவ்வாறான சதித்திட்டங்கள் முன்னெடுக்கப்படுகின்றன.
+
+...
+
+[Data](articles/c50b1a2c.json)
 
 ---
 
@@ -301,6 +421,42 @@ Sri Lanka Cricketer Kimithmindu Mendis's wedding ceremony was held in Galle toda
 [Data](articles/6c3f085b.json)
 
 [Extended Data](ext_articles/6c3f085b.ext.json)
+
+---
+
+### இலங்கையில் அரசியல் உரிமைகள் மற்றும் சிவில் சுதந்திரத்தின்மீது மட்டுப்பாடுகள் - 'ஃப்ரீடம் ஹவுஸ்' அமைப்பின் மதிப்பீட்டு அறிக்கையில் சுட்டிக்காட்டு
+
+*2024-04-22 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181717) · `ta`
+
+இலங்கையில் ஊடக சுதந்திரம், விரும்பிய மதம் மற்றும் நம்பிக்கையைப் பின்பற்றுவதற்கான சுதந்திரம், கருத்து வெளிப்பாட்டுச்சுதந்திரம், ஒன்றுகூடுவதற்கான சுதந்திரம் என்பன மட்டுப்படுத்தப்பட்ட அளவிலேயே காணப்படுவதாக 'ஃப்ரீடம் ஹவுஸ்' எனும் சர்வதேச அமைப்பின் மதிப்பீட்டு அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+உலகளாவிய ரீதியில் மனித உரிமைகள் மற்றும் ஜனநாயகத்தை உறுதிப்படுத்துவதை முன்னிறுத்தி அமெரிக்காவைத் தளமாகக்கொண்டு இயங்கிவரும் அரச சார்பற்ற அமைப்பான 'ஃப்ரீடம் ஹவுஸ்' இவ்வாண்டில் உலகநாடுகளின் சுதந்திரம் தொடர்பான அதன் மதிப்பீட்டு அறிக்கையை வெளியிட்டுள்ளது.
+
+அவ்வறிக்கையில் இலங்கை தொடர்பான மதிப்பீட்டைப் பொறுத்தமட்டில், அரசியல் உரிமைகளுக்கு 40 க்கு 22 புள்ளிகளும், சிவில் சுதந்திரத்துக்கு 60 க்கு 32 புள்ளிகளும் என நாட்டின் 'சுதந்திர நிலைவரத்துக்கு' மொத்தமாக 100 க்கு 54 புள்ளிகள் வழங்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/0f595030.json)
+
+---
+
+### பெண்கள் மட்டும் லண்டன் மரதன்: ஜெப்ச்சேர்ச்சேர் உலக சாதனை
+
+*2024-04-22 20:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181716) · `ta`
+
+ஐக்கிய இராச்சியத்தில் ஞாயிற்றுக்கிழமை நடைபெற்ற லண்டன் மரதன் ஓட்டப் போட்டியை 2 மணித்தியாலங்கள், 16 நிமிடங்கள், 16 செக்கன்களில் நிறைவு செய்த ஒலிம்பிக் சம்பியன் கென்ய வீராங்கனை பெரெஸ் ஜெப்ச்சேர்ச்சேர், பெண்கள் மட்டும் (London Marathon Women's only) உலக சாதனையை நிலைநாட்டினார்.
+
+அப் போட்டியில் எதியோப்பியாவின் உலக சாதனையாளர் டிக்ஸ்ட் அசேஃபா முதல் தடவையாக லண்டன் மரதனில் வெற்றிபெறுவார் என பெரிதும் எதிர்பார்க்கப்பட்டது.
+
+ஆனால், ஏழு வருடங்கள் நீடித்த பெண்கள் மட்டும் உலக சாதனையை பெரெஸ் செப்ச்சேர்ச்சேர் முறியடித்து பெரும் புகழ்பெற்றார்.
+
+லண்டன் மரதனின் பெரும் பகுதியில் கடுமையான போட்டி நிலவியது. ஆனால், கடைசி கட்டத்தில் முன்னிலை அடைந்த ஜெப்ச்சேர்சேர், 7 வருடங்களுக்கு முன்னர் மேரி கெய்ட்டானியினால் நிலைநாட்டப்பட்ட 2:17.01 என்ற பெண்கள் மட்டும் சாதனையை முறிடியத்தார்.
+
+லண்டன் மரதனில் எதியோப்பிய வீராங்கனை டிக்ஸ்ட் அசேஃபா (2:16.24) இரண்டாம் இடத்தையும் கென்ய வீராங்கனை ஜொய்ஸ்லின் ஜெப்கோஸ்கெய் (2:16.24) மூன்றாம் இடத்தையும் பெற்றனர்.
+
+...
+
+[Data](articles/3ad14f16.json)
 
 ---
 
@@ -820,6 +976,8 @@ The three tax revenue collecting bodies – Sri Lankan Customs, Excise Departmen
 
 [Data](articles/5d0a13b4.json)
 
+[Extended Data](ext_articles/5d0a13b4.ext.json)
+
 ---
 
 ### Indictments on a cricket betrayal
@@ -857,6 +1015,8 @@ International Finance Corporation, as Transaction Advisors for the divestiture o
 ◼️
 
 [Data](articles/2089144a.json)
+
+[Extended Data](ext_articles/2089144a.ext.json)
 
 ---
 
@@ -899,6 +1059,8 @@ The markets will be closed on Tuesday due to Buddhist religious holiday.  (Colo
 ◼️
 
 [Data](articles/a766005a.json)
+
+[Extended Data](ext_articles/a766005a.ext.json)
 
 ---
 
@@ -2029,233 +2191,5 @@ This order has been issued by the Hulftsdorp Magistrate’s Court for their atte
 [Data](articles/ec222bf2.json)
 
 [Extended Data](ext_articles/ec222bf2.ext.json)
-
----
-
-### Rice to eat to school children is out of quality
-
-*2024-04-22 12:14:32* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-කන්න-දීමට-තිබූ-සහල්-ප්‍රමිතියෙන්-තොරයි/11-409200) · `si`
-
-Schools in Sri Lanka are distributing substandard rice to children, leading to health concerns. The Food Commissioner's Department has deemed the rice unfit for human consumption. The rice, imported from India, was stored in a warehouse and distributed to schools, but the Western Province's education department rejected it. The Public Health Inspectors' Association has temporarily halted the distribution, pending further investigation.
-
-🟩
-
-Schools in order to distribute the iron deficiency in the island of 1-5 lakhs of 1-5 million primary children in 1-5 million primary children in the island, the Food Commissioner's Department recognized to be inappropriate for human consumptionPresident of the Sri Lanka Public General Inspector Association Upul Rohana stated today (22).
-
-The Veyyangoda Public Inspectors had gone to the scene yesterday (21) after the recommendation that human consumption was recommended to the Analyst was recommended by the report, which was recommended that human consumption was inappropriate.Mentioned.
-
-According to the World Food Program (WFP World Program), the rice stolen was placed in the design warehouse to distribute the rice in the middle of the country.
-
-The rice hail, which is harvested from the farms of India in 2022, is suitable for consumption until May of May 2024.
-
-...
-
-[Data](articles/5581f98d.json)
-
-[Extended Data](ext_articles/5581f98d.ext.json)
-
----
-
-### Motorists arrested in Diyatalawa race
-
-*2024-04-22 12:09:17* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාවේ-ධාවන-තරගයේ-අනතුරට-ලක්වූ--මෝටර්-රථ-රියදුරන්-අත්අඩංගුවට/11-409199) · `si`
-
-Two motor racing competitors in Diyatalawa were arrested for an accident, involving a car crash. One person is in critical condition at Diyatalawa Hospital. The Sri Lanka Army will investigate using video and photos.
-
-🟩
-
-Two motor racing competitors have been arrested in connection with the accident in the Diyatalawa race yesterday.
-
-The suspects were arrested in the suspect, a 47-year-old resident of the Makanda area in Peradeniya, police said.
-
-A car was accidental during the motor racing. One person who is receiving treatment at the Diyatalawa Hospital is currently receiving treatment at the intensive hosting unit, the Sri Lanka Army said.
-
-According to the Army, the Sri Lanka Army will conduct an internal investigation by using the current videos and photos of the accident.
-
-◼️
-
-[Data](articles/ef3a59a4.json)
-
-[Extended Data](ext_articles/ef3a59a4.ext.json)
-
----
-
-### MPs are confused by the opposition as they have received money
-
-*2024-04-22 12:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்கள்-பணம்-பெற்றதால்-எதிர்க்கட்சிக்குள்-குழப்பம்/175-336181) · `ta`
-
-MPs, including SJB's, received Rs 50 million each from the government's decentralized budget without party consent. This practice, previously unused for five years, was resumed under President Ranil Wickremesinghe's government. Some MPs, like Gayantha Karunathilaka and Dr. Harsha de Silva, received allocations without party approval, leading to controversy.
-
-🟩
-
-Our brother -in -law Daily Mirror reports that many of the main opposition United People's Power (SJB) and many MPs have received Rs 50 million each from the government's decentralized budget without the consent of the party leadership.
-
-In the past, governments have been allocating funds for MPs in the opposition to implement their preferred development plans in their constituencies. However, these allocations have not been made for the past five years, but the funds for the same purpose have been provided through the District Coordinating Committees at that time.
-
-The current government has implemented the scheme and some SJB MPs have received allocation according to the renewed criteria introduced by the government led by President Ranil Wickremesinghe.
-
-Gayantha Karunathilaka, Dr. Harsha de Silva, Ajith Mannaparuma, Kavinda Jayawardena and JC. People like Alawathala are among the SJB MPs who received the quota.
-
-...
-
-[Data](articles/4a0f2991.json)
-
-[Extended Data](ext_articles/4a0f2991.ext.json)
-
----
-
-### Indian SC allows termination of nearly 30-week pregnancy for 14-year-old rape survivor
-
-*2024-04-22 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-SC-allows-termination-of-nearly-30-week-pregnancy-for-14-year-old-rape-survivor/108-281155) · `en`
-
-New Delhi, April 22 (Indian Express) - The Supreme Court Monday permitted the medical termination of a nearly 30-week pregnancy of a 14-year-old rape survivor, setting aside the Bombay High Court order declining the minor’s mother’s plea in the case.
-
-“We will allow the medical termination since she is 14 and it is rape case and this is an exceptional case,” the Chief Justice of India D Y Chandrachud was quoted as saying by Bar and Bench.
-
-The SC bench also directed the Dean of Lokmanya Tilak Hospital in Mumbai to set up a team of doctors for the abortion, and ruled that the State will bear all medical and transportation expenses for the procedure.
-
-The bench stated that the minor should get transport arrangements and any medical care, if needed, post termination.
-
-...
-
-[Data](articles/fc1111cd.json)
-
-[Extended Data](ext_articles/fc1111cd.ext.json)
-
----
-
-### Malwathu met the Asgiri Mahanayaka Thera and received the blessing of the President
-
-*2024-04-22 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181645) · `ta`
-
-President Ranil Wickremesinghe met with Malwathu and Asgiri Maha Nayakas, received blessings, and engaged in discussions.
-
-🟩
-
-President Ranil Wickremesinghe met the Maha Nayaka Thera of the Malwathu and Asgiri Peethas on Sunday (21) afternoon.
-
-President Ranil Wickremesinghe, who first visited the Malwattu Maha Vihara, was also involved in a minor discussion after receiving the blessings of Sri Sumangala Maha Nayaka Thera, Malwathu Peeta Maha Nayaka, Tippattuvawe.
-
-The meeting was attended by the Malwathu Peeta Anunayaka Vanam, Thimbulkumbure Wimalathama Thera and he recited and blessed the president.
-
-President Ranil Wickremesinghe, who visited the Asgiri Maha Vihara, met with Sri Gnanaradana Thera, Asgiri Peeta Mahanayaka Varakagoda.
-
-The Maha Sangha led by the Vikarapati of the Elder Rajamaha Vihara, Murundeni Damaradana Thera, recited the President and blessed the President.
-
-◼️
-
-[Data](articles/8ccc41c9.json)
-
-[Extended Data](ext_articles/8ccc41c9.ext.json)
-
----
-
-### Bore. Demonstration protests against shrimp farm in Vaharai area
-
-*2024-04-22 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181642) · `ta`
-
-Villagers and civil organizations protested against shrimp farming and Ilmanite excavation in Vaharai, demanding a ban and accountability. The Divisional Secretary promised no new permissions.
-
-🟩
-
-A protest demonstration was held in front of the Vakarai Divisional Secretariat on Monday (22) by the villagers and civil organizations, protesting against the shrimp farming in Vaharai and urging the entire ban on the excavation of the Ilmanite.
-
-The people were protesting against the destruction of natural resources and the permanent prohibition of the projects and the permanent ban on the entrance of the Divisional Secretariat.
-
-At the same time, the Divisional Secretary, who arrived at the scene, promised that he would not grant any new permission for shrimp farm and Ilmanite excavation and would no longer be granted.
-
-In addition, Alchemy Kevi Metal Company, who is trying to excavate the Ilmanite in Vaharai, has made public public the case.
-
-Since then, the people continue to fight in front of the Divisional Secretariat demanding that the governor and other Batticaloa district parliamentarians be held accountable for the demands of the people.
-
-◼️
-
-[Data](articles/5afd21c2.json)
-
-[Extended Data](ext_articles/5afd21c2.ext.json)
-
----
-
-### Rice stocks for school meals program found to be substandard, PHIs allege
-
-*2024-04-22 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98771/rice-stocks-for-school-meals-program-found-to-be-substandard-phis-allege) · `en`
-
-The stocks of rice stored in a government warehouse in the Veyangoda area, which was to be used in the meals program for schoolchildren, have been found to be substandard, the Public Health Inspectors’ Union alleges.
-
-President of the association, Upul Rohana stated that the relevant rice stocks have become unfit for consumption due to insect damage.
-
-It was reported that the rice stocks in question were set to be used in the school meals program implemented in collaboration with the World Food Programme (WFP), to provide free nutritious lunches for schoolchildren.
-
-In view of the current situation, arrangements have been made to temporarily suspend the release of rice stocks from the relevant food warehouse.
-
-...
-
-[Data](articles/39cbed53.json)
-
-[Extended Data](ext_articles/39cbed53.ext.json)
-
----
-
-### Drivers of two racing cars involved in ‘Fox Hill’ crash remanded
-
-*2024-04-22 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98770/drivers-of-two-racing-cars-involved-in-fox-hill-crash-remanded) · `en`
-
-The two drivers of the racing cars involved in yesterday’s tragic accident at the Fox Hill Super Cross races in Diyatalawa, who were arrested while undergoing treatment in hospital, have been remanded until April 30.
-
-This order has been issued by Bandarawela Magistrate’s Court, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/6d0d0c22.json)
-
-[Extended Data](ext_articles/6d0d0c22.ext.json)
-
----
-
-### Foxhill Motor Racing Disaster: Two arrested
-
-*2024-04-22 11:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Foxhill-மோட்டார்-பந்தய-அனர்த்தம்-இருவர்-கைது/175-336179) · `ta`
-
-Foxhill Motor Racing Disaster: 7 killed, 22 injured, 2 arrested. A 36-year-old from Matara was involved and is recovering. The race, held 5 years after the Easter attack, saw a fatal crash and dust collision.
-
-🟩
-
-Diyatalawa police said that seven people were killed and 2 21 injured were arrested on Monday (22).
-
-A 36 -year -old man from Hittiya, Matara, who competed under the Foxhill Motor Racing Racing No. 5. He is being treated at the resource hospital, police said.
-
-Five years after the Easter attack took place, the foxhil motor race was held yesterday (21) in Diyathalawa, Naryakande.
-
-Seven people were killed when a car crashed away from the track during the race, and when two cars competing on the road collided with a heavy dust.. The 8 -year -old girl died and 21 people were seriously injured, police said.
-
-◼️
-
-[Data](articles/06e33988.json)
-
-[Extended Data](ext_articles/06e33988.ext.json)
-
----
-
-### Husband
-
-*2024-04-22 11:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியுடன்-மட்டும்-தாம்பத்தியம்-கொள்ள-முடியாத-கணவர்/175-336178) · `ta`
-
-A Mumbai court ordered a divorce for a young couple, with the husband claiming the wife was not his wife. The wife filed for divorce, citing incompatibility. The husband appealed, stating he could only marry her with her wife. The court, noting the couple's inability to unite, canceled the divorce request.
-
-🟩
-
-The court has ordered a divorce to a young couple as her husband has said that she is not married to his wife. The incident took place in Mumbai.
-
-A 26 -year -old woman from Maratha State filed a petition in a family court last February demanding divorce. In the petition, she claimed that she was married in March 2023 and had split her husband in just 17 days.
-
-The woman also stated in her petition that her husband has refused to engage in a relationship with her. The woman said that her husband had no relationship with her and that both physically and mentally could not unite.
-
-During the hearing, the woman's 27 -year -old husband had filed a petition, explaining that he could only marry her with her wife and otherwise there was no shortage.. The man also said that he did not want to stigmatize his name.
-
-...
-
-[Data](articles/636ef432.json)
-
-[Extended Data](ext_articles/636ef432.ext.json)
 
 ---

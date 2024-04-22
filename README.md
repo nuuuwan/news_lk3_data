@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 12:34:11**
+As of **2024-04-22 12:50:32**
 
 ## Newspaper Stats
 
-*Scraped **20,198** Articles*
+*Scraped **20,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 176
 bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,093
+islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,685
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,334
 adaderanalk | 2,416
 virakesarilk | 3,015
 dailymirrorlk | 3,146
-adaderanasinhalalk | 3,279
+adaderanasinhalalk | 3,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,194 (100.0%) of 20,198 articles have been extended.
+20,198 (100.0%) of 20,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### පූජ්‍ය උලපනේ හිමි ඇතුළු දෙදෙනෙක් රිමාන්ඩ්
+
+*2024-04-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195860) · `si`
+
+ගුරු විදුහල්පති එකමුතුවේ කැඳවුම්කරු පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු දෙදෙනෙකු රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+පැල්පත් නිවාස කිහිපයක් අධිකරණ නියෝග මත ඉවත් කිරීමට යාමේ දී ඊට විරෝධය පළකර බාධාකිරීමේ චෝදනා මත ඔවුන් රක්ෂිත බන්ධනාගාර ගතකර ඇති බව වාර්තා වේ.
+
+අලුත්කඩේ අංක 03 මහෙස්ත්‍රාත් අධිකරණයේ අද (22) පැවති අදාළ නඩු විභාගය සඳහා පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු සැකකරුවන් සහභාගී වී තිබුණි.
+
+එහිදී ඔවුන් රක්ෂිත බන්ධනාගාර ගතකිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසුවේය.
+
+◼️
+
+[Data](articles/bbf7f1d9.json)
+
+---
 
 ### Two including Ven. Ulapane Sumangala Thero remanded
 
@@ -44,39 +62,55 @@ This order has been issued by the Hulftsdorp Magistrate’s Court for their atte
 
 [Data](articles/ec222bf2.json)
 
+[Extended Data](ext_articles/ec222bf2.ext.json)
+
 ---
 
-### දියතලාවේ ධාවන තරගයේ අනතුරට ලක්වූ  මෝටර් රථ රියදුරන් අත්අඩංගුවට
+### Motorists arrested in Diyatalawa race
 
 *2024-04-22 12:09:17* · [`adalk`](https://www.ada.lk/breaking_news/දියතලාවේ-ධාවන-තරගයේ-අනතුරට-ලක්වූ--මෝටර්-රථ-රියදුරන්-අත්අඩංගුවට/11-409199) · `si`
 
-දියතලාවේ ධාවන තරගයේ ඊයේ දිනයේ 21දින සිදුවූ මෝටර් රථ අනතුර සම්බන්ධයෙන් මෝටර් රථ ධාවන තරගකරුවන් දෙදෙනකු අද අත්අඩංගුවට ගෙන තිබේ.
+Two motor racing competitors in Diyatalawa were arrested for an accident, involving a car crash. One person is in critical condition at Diyatalawa Hospital. The Sri Lanka Army will investigate using video and photos.
 
-මෙලෙස සැකපිට අත්අඩංගුවට ගෙන ඇත්තේ මාතර  හිත්තැටිය ප්‍රදේශයේ පදිංචි 36 හැවිරිදි අයෙක් සහ  පේරාදෙණිය මාකන්ද ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයකු මෙසේ අත්අඩංගුවට ගත් බවයි, ඔවුන් දෙදෙනාද මේ වන විට අනතුරින් තුවාල ලබා දැනට පොලිස් ආරක්ෂාව යටතේ දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් පසුවෙන බවද පොලිසිය කීය.
+🟩
 
-මෝටර් රථ ධාවන තරගය අතරතුරේ මෙසේ මෝටර් රථයක්  පෙරලීයාමෙන් අනතුර ට පත් වූ අතර  පැවති අධික දූවිල්ලත් සමඟ ධාවන පථයෙ තරග වැදුන මෝටර් රථ දෙකක් එකිනෙක ගැටීමෙන් ඉවතට විසිවී ගොස් ඊට යටවීමෙන් 07ක් මියගොස් 20ට වැඩි පිරිසක් තුවාල ලැබු බව වාර්තා විය. මේ වන විට දියතලාව රෝහලේ ප්‍රතිකාර ලබන එක් අයෙකු දැඩි සත්කාරක ඒකකයේ ප්‍රතිකාර ලබන බව ශ්‍රී ලංකා යුද හමුදාව සඳහන් කළේය.
+Two motor racing competitors have been arrested in connection with the accident in the Diyatalawa race yesterday.
 
-අනතුර සම්බන්ධයෙන් දැනට පවතින වීඩියෝ පට සහ ඡායාරූප උපයෝගී කරගනිමින්  ශ්‍රී ලංකා යුද හමුදාව අභ්‍යන්තර පරීක්ෂණයක් සිදුකරන බවද යුද හමුදාව සඳහන් කළේය.
+The suspects were arrested in the suspect, a 47-year-old resident of the Makanda area in Peradeniya, police said.
+
+A car was accidental during the motor racing. One person who is receiving treatment at the Diyatalawa Hospital is currently receiving treatment at the intensive hosting unit, the Sri Lanka Army said.
+
+According to the Army, the Sri Lanka Army will conduct an internal investigation by using the current videos and photos of the accident.
 
 ◼️
 
 [Data](articles/ef3a59a4.json)
 
+[Extended Data](ext_articles/ef3a59a4.ext.json)
+
 ---
 
-### எம்.பிக்கள் பணம் பெற்றதால் எதிர்க்கட்சிக்குள் குழப்பம்
+### MPs are confused by the opposition as they have received money
 
 *2024-04-22 12:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிக்கள்-பணம்-பெற்றதால்-எதிர்க்கட்சிக்குள்-குழப்பம்/175-336181) · `ta`
 
-பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தியின் (SJB), எம்.பி.க்கள் பலர் கட்சித் தலைமையின் அனுமதியின்றி அரசாங்கத்தின் பரவலாக்கப்பட்ட வரவுசெலவுத் திட்டத்தில் இருந்து தலா 50 மில்லியன் ரூபாய் பெற்றுக்கொண்டதாக வெளிவரும் தகவல்களால் சிக்கலில் சிக்கியுள்ளதாக எமது சகோதர ஊடகமான டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+MPs, including SJB's, received Rs 50 million each from the government's decentralized budget without party consent. This practice, previously unused for five years, was resumed under President Ranil Wickremesinghe's government. Some MPs, like Gayantha Karunathilaka and Dr. Harsha de Silva, received allocations without party approval, leading to controversy.
 
-கடந்த காலங்களில் எதிர்க்கட்சியில் உள்ள எம்.பி.க்களுக்கு அவர்களின் தொகுதிகளில் விருப்பமான வளர்ச்சித் திட்டங்களை நிறைவேற்ற அரசுகள் நிதி ஒதுக்கீடு செய்து வந்தது. எவ்வாறாயினும், கடந்த ஐந்து வருடங்களாக இவ்வாறான ஒதுக்கீடுகள் இடம்பெறவில்லை, மாறாக, அதே நோக்கத்திற்கான நிதி ஒதுக்கீடுகள் அக்காலப்பகுதியில் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் ஊடாக வழங்கப்பட்டுள்ளன.
+🟩
 
-தற்போதைய அரசாங்கம் இந்த திட்டத்தை நடைமுறைப்படுத்தியுள்ளதுடன் மற்றும் சில SJB பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அரசாங்கத்தால் அறிமுகப்படுத்தப்பட்ட புதுப்பிக்கப்பட்ட அளவுகோலின் படி ஒதுக்கீடுகளைப் பெற்றுள்ளனர்.
+Our brother -in -law Daily Mirror reports that many of the main opposition United People's Power (SJB) and many MPs have received Rs 50 million each from the government's decentralized budget without the consent of the party leadership.
+
+In the past, governments have been allocating funds for MPs in the opposition to implement their preferred development plans in their constituencies. However, these allocations have not been made for the past five years, but the funds for the same purpose have been provided through the District Coordinating Committees at that time.
+
+The current government has implemented the scheme and some SJB MPs have received allocation according to the renewed criteria introduced by the government led by President Ranil Wickremesinghe.
+
+Gayantha Karunathilaka, Dr. Harsha de Silva, Ajith Mannaparuma, Kavinda Jayawardena and JC. People like Alawathala are among the SJB MPs who received the quota.
 
 ...
 
 [Data](articles/4a0f2991.json)
+
+[Extended Data](ext_articles/4a0f2991.ext.json)
 
 ---
 
@@ -502,17 +536,25 @@ The Transport Minister disclosed that Sri Lanka has recently borrowed 500 buses 
 
 ---
 
-### අවුරුදු දින තුනේදි සත්වෝද්‍යාන දෙපාර්තමේන්තුවට ලක්ෂ 176ක ආදායමක්
+### 176 lakh income of the Zoo Department
 
 *2024-04-22 11:08:46* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-දින-තුනේදි-සත්වෝද්‍යාන-දෙපාර්තමේන්තුවට-ලක්ෂ-176ක-ආදායමක්/11-409198) · `si`
 
-සත්වෝද්‍යාන දෙපාර්තමේන්තුවට අයත් උද්‍යානවලින් හා සෆාරි හා රුදවුම් මධ්‍යස්ථානවලින් පසුගිය අවුරුදු දින තුන තුලදී පමණක් රුපියල් එක්කෝටි හැත්තෑ හයලක්ෂ තිස්හත්දාස් පන්සිය හතලිස් හයක ආදායමක් උපයා ගැනීමට හැකිවී ඇතැයි සත්වෝද්‍යාන දෙපාර්තමේන්තුව නියෝජ්‍ය අධ්‍යක්ෂිකා දිනූෂිකා මානවඩු මහත්මිය පැවසීය .
+The Zoo Department's income of 176 lakh is attributed to zoos and coding centers attracting parents, foreign tourists, and large schools in Dehiwala and Pinnapatha.
 
-දෙහිවල හා පින්නවල සත්වෝද්‍යාන හා අලිඅනාතාගාරය,  රිදිගම සෆාරි උද්‍යානය වලට අවුරුදු දින කිපය 13, 14, හා 15 යන තෙදිනතුල විශාල පාසැල් ළමුන් ඇතුලු දෙමාපියන් හා විදේශීය සංචාරකයන්ද විශාල ප්‍රමාණයක් පැමිණීම හා එම උද්‍යානයන් තුල විශේෂ වැඩ සටහන් , පැසැල් ළමුන් සදහා දැනුවත් කිරීමේ වැඩසටහන් ක්‍රියාත්මක කිරීම ඇතුලු යටිතල පසසුකම් සපුරාලීමත් නිසා නරඹන්නන්ගේ ආකර්ෂණය ඇතිවීමත්  මේම ආදායම් ලැබීමට හේතුවී  ඇති බවත්,  නියෝජ්‍ය අධ්‍යක්ෂිකා මහත්මිය වැඩිදුරටත් පැවසීය .
+🟩
 
-...
+Deputy Director of the ZooCana Department said that the zoos and coding centers have earnled the earliest Rs.
+
+Large number of parents and foreign tourists, including large schools and foreign tourists, including large schools and many foreign tourists, including large schools, and other schools, including large schools in Dehiwala and Pinnapatha, and Large school children, including large schools in Dehiwala and Pinigawala.Deputy Director added that the attraction of viewers has been due to the infrastructure of the infrastructure.
+
+According to the Pinnawala Zoo, Rs.Ms. Dinuia Manawada says.
+
+◼️
 
 [Data](articles/4e2dd62d.json)
+
+[Extended Data](ext_articles/4e2dd62d.ext.json)
 
 ---
 
@@ -2139,21 +2181,5 @@ Colombo, April 21 (Daily Mirror) - The programme of providing free land rights t
 [Data](articles/58c119ef.json)
 
 [Extended Data](ext_articles/58c119ef.ext.json)
-
----
-
-### No one will be left behind in nation building – President
-
-*2024-04-21 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98764/no-one-will-be-left-behind-in-nation-building-president-) · `en`
-
-President Ranil Wickremesinghe declared the government’s commitment to ensuring inclusivity in strengthening the country’s economy, prioritizing both economic growth and citizen welfare. He emphasized the need to distribute economic benefits equitably among all citizens, acknowledging the impact of recent economic challenges on everyone.
-
-Addressing the inauguration ceremony of the National Rice Distribution for low-income families at Ambagasdowa Stadium, Uva Paranagama President Ranil Wickremesinghe announced that 2.74 million low-income families would receive a monthly allocation of 10 kilograms of rice for two months. Specifically, 191,548 eligible families in 15 Divisional Secretariat Divisions within the Badulla district were identified to receive this subsidy. The President symbolically distributed rice bags to 25 beneficiaries, marking the commencement of the rice allocation.
-
-...
-
-[Data](articles/f0955d5f.json)
-
-[Extended Data](ext_articles/f0955d5f.ext.json)
 
 ---

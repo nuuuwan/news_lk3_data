@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 14:34:05**
+As of **2024-04-22 14:52:07**
 
 ## Newspaper Stats
 
-*Scraped **20,216** Articles*
+*Scraped **20,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,97 @@ economynextcom | 1,147
 adalk | 1,687
 tamilmirrorlk | 2,336
 adaderanalk | 2,418
-virakesarilk | 3,018
-dailymirrorlk | 3,148
+virakesarilk | 3,021
+dailymirrorlk | 3,150
 adaderanasinhalalk | 3,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,215 (100.0%) of 20,216 articles have been extended.
+20,216 (100.0%) of 20,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### உலப்பன சுமங்கல தேரருக்கு விளக்கமறியல்
+### வைத்தியசாலையில் கர்ப்பிணித்தாயும் சிசுவும் பலி ; வவுனியாவில் சோகம்
+
+*2024-04-22 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181662) · `ta`
+
+வவுனியா வைத்தியசாலையின் விடுதியில் அனுமதிக்கப்பட்டிருந்த  கர்ப்பிணித்தாய் குளியலறையில் தவறி வீழ்ந்து உயிரிழந்துள்ளதுடன், அவரது வயிற்றில் இருந்த சிசுவும் மரணமடைந்துள்ளது.
+
+மதவாச்சி பகுதியைச் சேர்ந்த நிறைமாத  கர்ப்பிணித்தாய் ஒருவர் வவுனியா வைத்தியசாலையின் விடுதியில் அனுமதிக்கப்பட்டிருந்தார்.
+
+அவர் இன்று திங்கட்கிழமை (22) விடுதியில் உள்ள குளியலறைக்கு சென்றநிலையில் தவறி வீழ்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது. இதனால் அவர் மரணமடைந்துள்ளார்.
+
+இதனையடுத்து, அவர் மீட்கப்பட்டு அவரது வயிற்றில் உள்ள குழந்தையை காப்பாற்றுவதற்கான சத்திரசிகிச்சையினை வைத்தியர்கள் மேற்கொண்டுள்ளனர்.எனினும் வயிற்றில் இருந்த சிசுவும் உயிரிழந்துள்ளது.
+
+குறித்த சம்பவம் தொடர்பாக அறிவதற்காக வவுனியா வைத்தியசாலை பணிப்பாளரை தொலைபேசியில் தொடர்பு கொண்ட போதும் அது பலனளிக்கவில்லை.
+
+◼️
+
+[Data](articles/9b489b5c.json)
+
+---
+
+### Explanation
 
 *2024-04-22 14:10:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலப்பன-சுமங்கல-தேரருக்கு-விளக்கமறியல்/175-336187) · `ta`
 
-ஆசிரியர் அதிபர்கள் சங்கத்தின் ஒருங்கிணைப்பாளர் உலப்பனே சுமங்கல தேரர் உள்ளிட்ட மூவரை எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு மேலதிக நீதவான் பிரசான் அமரசேன, திங்கட்கிழமை (22) உத்தரவிட்டுள்ளார்.
+Prasan Amarasena, Colombo Additional Magistrate, remanded Ulappane Sumangala Thera, Coordinator of the Teachers' Association, and two others until 26th. Thera, a Colombo Municipal Council member, was interrogated for protesting against cottage removals in Narahenpitiya and Tabare Mawatha.
 
-நாரஹேன்பிட்டி, தாபரே மாவத்தையில் உள்ள பல குடிசை வீடுகளை அகற்றுவதற்கு எதிர்ப்பு தெரிவித்தும் அதற்கு இடையூறு விளைவித்தமைக்காகவும் நீதிமன்றில் முன்னிலையான கொழும்பு மாநகர சபை உறுப்பினரும் அதிபருமான உலப்பனே சுமங்கல தேரர் நீதிமன்றில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+🟩
 
-சந்தேகநபர்கள் நீதிமன்ற உத்தரவுக்கு கீழ்படியாத காரணத்தினால் அவர்களை விளக்கமறியலில் வைக்குமாறு அறிவித்த நீதவான், சந்தேகநபர்கள் எதிர்வரும் 27ஆம் திகதி பரீட்சைக்கு முகம்கொடுக்க வேண்டியிருப்பதால் எதிர்வரும் 26ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் அறிவித்தார்.
+Colombo Additional Magistrate Prasan Amarasena on Monday (22) has ordered that three persons, including the Coordinator of the Teachers' Association, Ulappane Sumangala Thera, have been remanded until the 26th of this month.
+
+Colombo Municipal Council member and Chancellor Ulappane Sumangala Thera has been interrogated in court to protest against the removal of several cottages in Narahenpitiya and Tabare Mawatha.
+
+The magistrate announced that the suspects had not obeyed the court order and announced that the suspects had to face the exam on the 27th of this month.
 
 ◼️
 
 [Data](articles/a06e668e.json)
+
+[Extended Data](ext_articles/a06e668e.ext.json)
+
+---
+
+### Wijeyadasa could lose his Parliamentary seat: Tissa Kuttiarachchi
+
+*2024-04-22 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijeyadasa-could-lose-his-Parliamentary-seat-Tissa-Kuttiarachchi/108-281159) · `en`
+
+Colombo, April 22 (Daily Mirror)- Justice Minister Wijeyadasa Rajapakshe, who took up the position as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) could lose his parliamentary seat, according to the party constitution of the Sri Lanka Podujana Peramuna (SLPP), SLPP MP Tissa Kuttiarachchi said today.
+
+He told a news conference that the SLPP had not discussed the matter as yet and that the SLPP General Secretary would take a decision soon.
+
+The MP said according to the party constitution and laws, one will loses his party membership soon after he obtains membership of another political party.
+
+He said as such, Minister Rajapakshe could lose his party membership and thereby, he will lose his parliamentary seat as well.
+
+...
+
+[Data](articles/9a6f76e2.json)
+
+---
+
+### 71% cultivated land damaged in 2023–24 Maha season
+
+*2024-04-22 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/71-cultivated-land-damaged-in-202324-Maha-season/108-281158) · `en`
+
+Colombo, April 22 (Daily Mirror) - The Agriculture Department revealed today that 71 percent of the total cultivated land, other than paddy cultivation, was damaged in the 2023–24 Maha season due to heavy rains and floods.
+
+Accordingly, a total of 68,131 hectares of land cultivated with vegetables and other crops have been destroyed in the country during 2023–24 due to the heavy rains and floods.
+
+In addition, 100,000 hectares of paddy fields cultivated during the Maha season during the same period were also damaged due to heavy rains and floods.
+
+Apart from this, another 23,874 hectares of land cultivated with vegetables and other crops were affected by pests and other diseases, totaling 27 percent of the damaged cultivated land.
+
+However, in April, vegetable and fruit cultivation has improved once again and the harvest has increased by now.
+
+...
+
+[Data](articles/6a8aa21e.json)
 
 ---
 
@@ -87,6 +151,78 @@ In response to a question raised by a journalist regarding their guarantee to th
 [Data](articles/d63115c9.json)
 
 [Extended Data](ext_articles/d63115c9.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-22 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181659) · `ta`
+
+இன்று திங்கட்கிழமை (ஏப்ரல் 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின கொள்வனவு விலை ரூபா 297.0024 ஆகவும் விற்பனை விலை ரூபா 306.4586 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/aff37c20.json)
+
+---
+
+### In the spring of Nuwara Eliya
+
+*2024-04-22 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181650) · `ta`
+
+In Nuwara Eliya, public demands action against temporary shops, especially concerning women selling Yasagas and Urupathi, and jewelry. Accusations of inappropriate behavior and body touching by tourists. Despite informing authorities, no action has been taken. Harassment intensifies since April, raising concerns for future visitors.
+
+🟩
+
+In Nuwara Eliya, the shopkeepers and the public are constantly demanding that the authorities or responsible people take appropriate action regarding the temporary shop, the shopkeepers, the infants, the boys, the boys and the folders.
+
+In April, the public and tourists are constantly accused of increasing the risk of women who sell Yasagas and Urupathi, especially in April, and are constantly trying to sell jewelery as they sell.
+
+It is noteworthy that she is a group of women from the outer districts, where they are pregnant and lactating mothers, where they are sitting with a baby girl.. Also, when selling the mouthpiece, the public and the tourists are speaking out inappropriately, and they are involved in the act of touching the body of the tourists from abroad, without the right to the body of the tourists.
+
+...
+
+[Data](articles/189f4e54.json)
+
+[Extended Data](ext_articles/189f4e54.ext.json)
+
+---
+
+### உலப்பன சுமங்கல தேரர் உட்பட  இருவருக்கு விளக்கமறியல்!
+
+*2024-04-22 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181658) · `ta`
+
+ஆசிரியர் - அதிபர் தொழிற்சங்க கூட்டமைப்பின்  ஒருங்கிணைப்பாளர்  உலப்பன சுமங்கல தேரர் உள்ளிட்ட இருவர் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+நீதிமன்ற உத்தரவின் பேரில்  குடிசை வீடுகளை அகற்றுவதற்கு இடையூறு விளைவித்த குற்றச்சாட்டின் அடிப்படையில் இவர்கள் கைது செய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+புதுக்கடை இலக்கம் 3 நீதிவான் நீதிமன்றத்தில் இன்று (22)  இந்த வழக்கு வழக்கு விசாரணைக்கு வந்தபோதே உலப்பன சுமங்கல தேரர் உள்ளிட்ட இருவரையும் விளக்கமறியலில் வைப்பதற்கு நீதிவான் நீதிமன்றம் உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/60cf3e8d.json)
+
+---
+
+### World Earth Day today!
+
+*2024-04-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181649) · `ta`
+
+"World Earth Day today! Celebrated on April 22, it emphasizes environmental protection and Earth stability. This year's theme, "plastic against Earth," focuses on plastic pollution and its impacts."
+
+🟩
+
+World Earth Day is celebrated on April 22 every year to maintain environmental protection and the stability of the Earth by countries around the world.
+
+The theme of World Earth Day this year is "plastic against Earth".
+
+This theme is highlighted by plastic pollution and its adverse effects.
+
+◼️
+
+[Data](articles/b5ea1bb9.json)
+
+[Extended Data](ext_articles/b5ea1bb9.ext.json)
 
 ---
 
@@ -234,28 +370,6 @@ The Magistrate ordered the Magistrate to remand custody.
 
 ---
 
-### World Earth Day today!
-
-*2024-04-22 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181649) · `ta`
-
-"World Earth Day today! Celebrated on April 22, it emphasizes environmental protection and Earth stability. This year's theme, "plastic against Earth," focuses on plastic pollution and its impacts."
-
-🟩
-
-World Earth Day is celebrated on April 22 every year to maintain environmental protection and the stability of the Earth by countries around the world.
-
-The theme of World Earth Day this year is "plastic against Earth".
-
-This theme is highlighted by plastic pollution and its adverse effects.
-
-◼️
-
-[Data](articles/b5ea1bb9.json)
-
-[Extended Data](ext_articles/b5ea1bb9.ext.json)
-
----
-
 ### Lyrid meteor shower visible tonight
 
 *2024-04-22 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lyrid-meteor-shower-visible-tonight/108-281156) · `en`
@@ -295,28 +409,6 @@ This order has been issued by the Hulftsdorp Magistrate’s Court for their atte
 [Data](articles/ec222bf2.json)
 
 [Extended Data](ext_articles/ec222bf2.ext.json)
-
----
-
-### In the spring of Nuwara Eliya
-
-*2024-04-22 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181650) · `ta`
-
-In Nuwara Eliya, public demands action against temporary shops, especially concerning women selling Yasagas and Urupathi, and jewelry. Accusations of inappropriate behavior and body touching by tourists. Despite informing authorities, no action has been taken. Harassment intensifies since April, raising concerns for future visitors.
-
-🟩
-
-In Nuwara Eliya, the shopkeepers and the public are constantly demanding that the authorities or responsible people take appropriate action regarding the temporary shop, the shopkeepers, the infants, the boys, the boys and the folders.
-
-In April, the public and tourists are constantly accused of increasing the risk of women who sell Yasagas and Urupathi, especially in April, and are constantly trying to sell jewelery as they sell.
-
-It is noteworthy that she is a group of women from the outer districts, where they are pregnant and lactating mothers, where they are sitting with a baby girl.. Also, when selling the mouthpiece, the public and the tourists are speaking out inappropriately, and they are involved in the act of touching the body of the tourists from abroad, without the right to the body of the tourists.
-
-...
-
-[Data](articles/189f4e54.json)
-
-[Extended Data](ext_articles/189f4e54.ext.json)
 
 ---
 
@@ -2107,115 +2199,5 @@ United People's Liberation Front called for the Janatha Vimukthi Peramuna to com
 [Data](articles/5892a857.json)
 
 [Extended Data](ext_articles/5892a857.ext.json)
-
----
-
-### Police have taken up law
-
-*2024-04-22 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181608) · `ta`
-
-After SLFP appointment, denial of duties. Minister Wijeyadasa Rajapakse warns of High Court appearance. Police block access to party headquarters, claiming investigation. Despite missing files, no investigations conducted. Police now demand further investigations. Rajapakse refuses to go to the first floor, insisting on the fifth floor auditorium. Police deny, accusing of illegal law-taking.
-
-🟩
-
-After the appointment of the Sri Lanka Freedom Party (SLFP), I have been denied permission to officially take responsibility for duties. Someone acting as a puppet of a party has taken over the law. Minister Wijeyadasa Rajapakse said he warned them to be prepared to appear in the High Court.
-
-.க. He was speaking to the media following the tension when he went to the party headquarters in Dolly Road, Colombo following his appointment.. As he further notes,
-
-After appointing as a reply, we visited the party headquarters to start our tasks. However the main entrance of the party headquarters is closed. A police officer states that the investigation is being carried out here.
-
-Although the files have been missing on the 5th, the police have not carried out any investigations so far. But now the police say that further investigations have to be carried out. The reply secretary complained that the files were missing on the first floor of the headquarters.
-
-...
-
-[Data](articles/89e3ade2.json)
-
-[Extended Data](ext_articles/89e3ade2.ext.json)
-
----
-
-### The 16th anniversary of the assassinated clipadar
-
-*2024-04-22 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181607) · `ta`
-
-On the 16th anniversary of the assassination of Xavier Karunaratnam Adikal (Parrot Badar), a human rights director, a special worship was held in Vavuniya, led by the Mannar Diocese. The event honored Adikal's work and the victims of the Sri Lanka Army's attack in 2008.
-
-🟩
-
-The 16th anniversary of the murder of the Tamil people in the minds of the Tamil people was held on Saturday (20) in Vavuniya.
-
-Xavier Karunaratnam Adikallar (Parrot Badar) was held on Saturday (20) at the Vavunikulam Celebration of the Mullaithivu District Mallavi Wanniwilangulam Ambalpuram in the Ambalpuram 6th Climore attack of the Sri Lanka Army.
-
-Special worship was held at the event, led by the Mannar Diocese of the Diocese of the Diocese.
-
-At the same time, Francis Joseph, who surrendered in the war, begged for the missing people and for the dead.
-
-The tribute was chaired by Mallavi Stockbroker Newman and the University of Jaffna University of Jaffna, Mike Donald, and many others from various districts, including Jaffna, Jaffna, were present.
-
-...
-
-[Data](articles/fb44ddd8.json)
-
-[Extended Data](ext_articles/fb44ddd8.ext.json)
-
----
-
-### Pro-Sirisena faction appoints Wijeyadasa as SLFP Acting Chairman
-
-*2024-04-22 01:52:24* · [`dailyftlk`](https://www.ft.lk/news/Pro-Sirisena-faction-appoints-Wijeyadasa-as-SLFP-Acting-Chairman/56-760879) · `en`
-
-SLFP rift deepens with two Acting Chairmen appointed by warring factions
-
-Kumaratunga faction objects to Wijeyadasa’s appointment and says Nimal Siripala de Silva remains as rightful Acting Chairman
-
-Tense situation arises between party supporters and police outside SLFP head office following new appointment
-
-Kumaratunga faction deliberates next steps following politburo meeting called by pro-Sirisena faction
-
-In the midst of an internal party crisis, the Sri Lanka Freedom Party (SLFP) finds itself grappling with the appointment of Acting Chairpersons, intensifying an already contentious situation following the appointment of Dr. Wijeyadasa Rajapakshe to the post by the party’s pro-Sirisena faction yesterday.
-
-...
-
-[Data](articles/f1d8a9ac.json)
-
-[Extended Data](ext_articles/f1d8a9ac.ext.json)
-
----
-
-### Wijeyadasa pledges to unite all SLFP factions
-
-*2024-04-22 01:47:38* · [`dailyftlk`](https://www.ft.lk/news/Wijeyadasa-pledges-to-unite-all-SLFP-factions/56-760878) · `en`
-
-Justice Minister Wijeyadasa Rajapakshe who was appointed as the Acting Chairman of the Sri Lanka Freedom Party (SLFP) yesterday amidst internal turmoil has vowed to reconcile all factions within the party.
-
-Addressing the media outside the SLFP headquarters on Darley Road, Rajapakshe asserted his commitment to uniting the divided factions. “Once we stabilise the situation, they will all join us,” he affirmed.
-
-Responding to queries from journalists about his plans to rejuvenate the SLFP, Rajapakshe expressed confidence, citing his track record of success in previous challenges. “Every challenge I’ve taken up, I’ve succeeded in. Every election I’ve faced, I’ve won,” he said.
-
-Meanwhile tension flared at the party headquarters as Rajapakshe and his supporters including SLFP members Daham Sirisena, Sajin Vass Gunawardena, Uditha Lokubandara and others sought entry to the office, despite the premises being sealed by police following its declaration as a crime scene.
-
-...
-
-[Data](articles/581cbbe6.json)
-
-[Extended Data](ext_articles/581cbbe6.ext.json)
-
----
-
-### Seven spectators die at Fox Hill Super Cross 2024 mishap
-
-*2024-04-22 01:47:18* · [`dailyftlk`](https://www.ft.lk/news/Seven-spectators-die-at-Fox-Hill-Super-Cross-2024-mishap/56-760877) · `en`
-
-Seven people were killed and 27 others injured when a vehicle rammed into a group of spectators at Fox Hill Super Cross 2024 held at Diyatalawa yesterday.
-
-Fox Hill Super Cross was revived after a lapse of five years by the Sri Lanka Military Academy in collaboration with the Sri Lanka Army Motorsports Committee and Sri Lanka Automobile Sports (SLAS). Three of the dead were officiating at the meet.
-
-This year’s meet attracted over 100,000 spectators in addition to invitees and officials.
-
-◼️
-
-[Data](articles/264ed430.json)
-
-[Extended Data](ext_articles/264ed430.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 06:19:36**
+As of **2024-04-22 06:57:38**
 
 ## Newspaper Stats
 
-*Scraped **20,127** Articles*
+*Scraped **20,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,678
 tamilmirrorlk | 2,318
 adaderanalk | 2,408
 virakesarilk | 3,001
-dailymirrorlk | 3,135
-adaderanasinhalalk | 3,267
+dailymirrorlk | 3,138
+adaderanasinhalalk | 3,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,117 (100.0%) of 20,127 articles have been extended.
+20,126 (100.0%) of 20,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### අව්ව - වැස්ස දෙකෙන්ම ප්‍රවේසම්වෙන්න
+
+*2024-04-22 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195847) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ අනුරාධපුර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව සහ උතුරු පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයෙත් සවස් කාලයේ දී හෝ රාත්‍රී කාලයේ දී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+බස්නාහිර වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් අම්පාර දිස්ත්‍රික්කයෙත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව සඳහන් වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (22) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+...
+
+[Data](articles/2084a2f6.json)
+
+---
+
+### SJB embroiled in controversy after its MPs secure funds from Govt without party approval
+
+*2024-04-22 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/108-281121) · `en`
+
+Colombo, April 22 (Daily Mirror) - The main opposition Samagi Jana Balawegaya (SJB), finds itself embroiled in controversy as reports emerge that several of its MPs had received Rs. 50 million each from the government's decentralized budget without nod from the party leadership,Daily Mirror learns.
+
+In the past, the governments used to allocate funds to MPs in the opposition to carry out development projects of their choice in their constituencies. However, such allocations have not taken place for the past five years, Instead, financial allocations for the same purpose were channeled through the district coordinating committees during the period.
+
+The current government has implemented the project and some SJB MPs have secured allocations according to a renewed criterion introduced by the government led by President Ranil Wickremesinghe to make sure that money is not used for charity work but employment generation activities.
+
+...
+
+[Data](articles/f93e143f.json)
+
+---
 
 ### Visa recognises ComBank for excellence in the launch of corporate cards
 
@@ -43,6 +81,8 @@ The Visa Commercial Solutions Excellence award was presented by Visa Country Man
 ...
 
 [Data](articles/5f1d578b.json)
+
+[Extended Data](ext_articles/5f1d578b.ext.json)
 
 ---
 
@@ -59,6 +99,30 @@ With over 47 years of extensive experience in the financial sector, including a 
 ...
 
 [Data](articles/d5fa851d.json)
+
+[Extended Data](ext_articles/d5fa851d.ext.json)
+
+---
+
+### Deafening silence by Govt. on emblematic cases
+
+*2024-04-22 05:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deafening-silence-by-Govt-on-emblematic-cases/108-281120) · `en`
+
+The Government is maintaining a deafening silence on the investigations over a number of emblematic cases.
+
+Current President then Prime Minister Ranil Wickremesinghe had in 2015 assured justice over the murders, including that of former Editor Lasantha Wickrematunge and rugger player Wasim Thajudeen.
+
+However, President Wickremesinghe and his administration have not provided any assurances to the families of the victims since taking office after Gotabaya Rajapaksa was forced out of office.
+
+Dr. Kasippillai Manoharan, whose 20-year-old son, Ragihar, was among the five youths killed in Trincomalee in 2006, told Daily Mirror he has not heard anything from the Government over the investigations.
+
+Known as the ‘Trinco Five’ case, five Tamil students were killed on January 2, 2006, allegedly by the security forces at point-blank range.
+
+Dr. Manoharan said that Amnesty International had been pursuing his son’s case and now another foreign individual was assisting to ensure justice.
+
+...
+
+[Data](articles/88a291f3.json)
 
 ---
 
@@ -98,6 +162,8 @@ This dynamic learning environment stimulates curiosity and enhances the comprehe
 
 [Data](articles/73a6e893.json)
 
+[Extended Data](ext_articles/73a6e893.ext.json)
+
 ---
 
 ### Prime Health Herbal Products recognised at Indigenous Medical Entrepreneurship Awards
@@ -111,6 +177,8 @@ Focusing on research and development of pharmaceutical/nutraceutical products, P
 ...
 
 [Data](articles/c2f1c473.json)
+
+[Extended Data](ext_articles/c2f1c473.ext.json)
 
 ---
 
@@ -130,6 +198,8 @@ SANASA General Insurance expands services with 66 new service units
 
 [Data](articles/26520026.json)
 
+[Extended Data](ext_articles/26520026.ext.json)
+
 ---
 
 ### Lanka Hospitals inaugurates new Bariatric Centre, surpasses 250th surgery milestone
@@ -144,6 +214,8 @@ Deepthi Lokuarachchi, Group CEO of Lanka Hospitals said, “The successful inaug
 
 [Data](articles/19ff919b.json)
 
+[Extended Data](ext_articles/19ff919b.ext.json)
+
 ---
 
 ### John Keells Properties hosts Union Bank customers at its ‘Viman’ Ja-Ela model apartment
@@ -157,6 +229,8 @@ The event provided an opportunity for customers of Union Bank to tour the model 
 ...
 
 [Data](articles/1b28c829.json)
+
+[Extended Data](ext_articles/1b28c829.ext.json)
 
 ---
 
@@ -193,6 +267,28 @@ Iran and Israel were once close allies during the reign of the Shah, as they sha
 [Data](articles/d84b499b.json)
 
 [Extended Data](ext_articles/d84b499b.ext.json)
+
+---
+
+### Market lending rate falls to two-year low as economy readies to take off
+
+*2024-04-22 03:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Market-lending-rate-falls-to-two-year-low-as-economy-readies-to-take-off/108-281119) · `en`
+
+Prime rate hits a peak level of 29.67 percent in November 2022
+
+The often watched market lending rate, which guides the rest of the rates on loans to small businesses to mortgages to consumers, touched a two-year low last week continuing its descent.
+
+The average prime lending rate or the rate at which the banks lend to their most creditworthy clients for a short term fell 22 basis points to 10.41 percent last week.
+
+This was the lowest level from 9.85 percent on April 1, 2022 just before the Central Bank raised interest rates by a bumper 700 basis points to rein in the inflation at the time.
+
+Both government securities yields and the market lending rates are on the descent during the last 10 months since the time Central Bank pivoted to cut rates for the first time in June last year.
+
+The prime rate hit a peak level of 29.67 percent in November 2022 when the monetary policy was  crushingly tight.
+
+...
+
+[Data](articles/4d41045d.json)
 
 ---
 
@@ -2091,93 +2187,5 @@ The Colombo District Court issued an interim injunction, barring former Presiden
 [Data](articles/80d91b44.json)
 
 [Extended Data](ext_articles/80d91b44.ext.json)
-
----
-
-### Three of same family killed, 2 injured in accident on Elpitiya–Aviththawa road
-
-*2024-04-21 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98755/three-of-same-family-killed-2-injured-in-accident-on-elpitiyaaviththawa-road) · `en`
-
-Three including two children from the same family have been killed in a head-on collision involving a three-wheeler and a lorry on the Elpitiya – Aviththawa main road.
-
-Police said that the deceased individuals include the 68-year-old driver of the three-wheeler, his 10-year-old grandson and his granddaughter, who was aged 07.
-
-Meanwhile, the wife of the deceased person and another 18-year-old girl who sustained injuries in the accident, have been admitted to the hospital, according to police.
-
-The driver of the lorry has been arrested in relation to the accident, while Elpitiya Police is conducting further investigations.
-
-◼️
-
-[Data](articles/88aec621.json)
-
-[Extended Data](ext_articles/88aec621.ext.json)
-
----
-
-### The Chairman of the SK Vijayadasa
-
-*2024-04-21 12:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சு-கவின்-பதில்-தலைவர்-விஜயதாச/175-336130) · `ta`
-
-Minister Vijayadasa Rajapakse appointed as SLFP leader by President Sirisena's party.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) internal sources say that Minister Vijayadasa Rajapakse has been appointed as the Sri Lanka Freedom Party (SLFP) leader.
-
-It is reported that the decision was taken by the President Maithripala Sirisena's party at a popular hotel in Edalkottai this morning.
-
-◼️
-
-[Data](articles/55fffdb3.json)
-
-[Extended Data](ext_articles/55fffdb3.ext.json)
-
----
-
-### Sri Lanka to miss budget revenue target for 33rd year running in 2024: Verité Research
-
-*2024-04-21 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-miss-budget-revenue-target-for-33rd-year-running-in-2024-Verité-Research/108-281084) · `en`
-
-Colombo, April 21 (Daily Mirror)- Sri Lanka is projected to fall short of its budget target on revenue to GDP (gross domestic product) for the 33rd consecutive year in 2024, according to the recently released ‘State of the Budget Report 2024’ compiled by Verité Research.
-
-The State of the Budget Report is compiled annually by Verité Research and published on PublicFinance.lk, Sri Lanka’s premier platform for economic insights.
-
-"The report provides a robust analysis and objective assessment of the fiscal, financial and economic estimates in Sri Lanka’s annual budget. It mirrors the scope of a budget report that is expected to be published by the Parliamentary Committee on Public Finance (COPF), with the same aim, of helping improve informed engagement with the budget, both in public and in parliament.
-
-...
-
-[Data](articles/063184e7.json)
-
-[Extended Data](ext_articles/063184e7.ext.json)
-
----
-
-### Luggage of luggage at the Katunayake Airport
-
-*2024-04-21 12:48:42* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්තොටුපොලේ-ගමන්-මලු-සොරකම්-කරන-ජාවාරමක්/11-409184) · `si`
-
-A couple from Dippitigoda, Kelaniya, stole luggage at Katunayake Airport, including a businessman's bag worth $4,710. The police arrested them and found $2,510 and Sri Lanka Rs. The case was submitted to the Negombo Magistrate's Court.
-
-🟩
-
-Airport police have arrested a couple who stole the airport to the Negombo Magistrate's Court and pride from the premises of the festival of money.
-
-The two are residents of the Dippitigoda, Kelaniya and the male is 36 years old. Woman is 35 to be a year.
-
-The male came to the area where the man had his wife's passport and the Katunayake airport banks, aside their luggage and focus on the transfer of foreign money from the banks, which were transferred from the banks to Sri Lanka Rupees.When he was, he has done their baggage.
-
-Accordingly, Fly Dubai, a 50-year-old business, a 50 year old resident of the Bangolandeniya area in the Bangolandeniya area, Kandy, was to travel to Dubai on 04/16.
-
-However, the businessman had been canceled on the day, as the Dubai airport was in defensive rain.
-
-The man who stole the business bag of the business who was chasing his baggage aside and stolen the business bag.
-
-The businessman had said that the businessman had had $ 4,710 worth of Rs.
-
-...
-
-[Data](articles/c6e49b00.json)
-
-[Extended Data](ext_articles/c6e49b00.ext.json)
 
 ---

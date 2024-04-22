@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 08:34:07**
+As of **2024-04-22 08:52:41**
 
 ## Newspaper Stats
 
-*Scraped **20,138** Articles*
+*Scraped **20,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,679
-tamilmirrorlk | 2,319
-adaderanalk | 2,408
+tamilmirrorlk | 2,322
+adaderanalk | 2,410
 virakesarilk | 3,001
 dailymirrorlk | 3,138
 adaderanasinhalalk | 3,273
@@ -26,21 +26,75 @@ adaderanasinhalalk | 3,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,137 (100.0%) of 20,138 articles have been extended.
+20,138 (100.0%) of 20,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### පන්නිපිටියේ ලී මෝලක ගින්නක්
+### மதுபானசாலைகளுக்கு பூட்டு
+
+*2024-04-22 08:27:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-336160) · `ta`
+
+அத்துடன், மே மாதம் 21ஆம் திகதி முதல் 27ஆம் திகதி வரையான காலப்பகுதி வெசாக் வாரமாக பிரகடனப்படுத்தப்பட்டுள்ளதால், வெசாக் பண்டிகையை முன்னிட்டு 22, 23, 24ஆம் திகதிகளில் மதுபானசாலைகள் மூடப்படவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/836d31b0.json)
+
+---
+
+### Sri Lanka and US to conduct Naval exercises in Trinco
+
+*2024-04-22 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98766/sri-lanka-and-us-to-conduct-naval-exercises-in-trinco) · `en`
+
+The United States Navy, U.S. Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from April 22-26 in Trincomalee.
+
+CARAT Sri Lanka will feature the expertise of the U.S. Fleet Anti-Terrorism Security Team (FAST), a U.S. Marine Corps unit specialized in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities, the US Embassy in Colombo said.
+
+The CARAT Sri Lanka exercise includes a Women, Peace, and Security Symposium on April 24 to promote the vital roles women play in peace negotiations, conflict management, and resolution.  With approximately 70 U.S. personnel working with their Sri Lanka military partners, this fifth iteration of the CARAT Sri Lanka bilateral maritime exercise underscores the strong partnership and shared commitment of the United States and Sri Lanka to maintain a free and open Indo-Pacific.
+
+...
+
+[Data](articles/3834554b.json)
+
+---
+
+### Fire fire in Pannipitiya
 
 *2024-04-22 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195853) · `si`
 
-පන්නිපිටිය, ලියනගොඩ ප්‍රදේශයේ ලී මෝලක ඇති වූ ගින්නකින් ලී මෝල සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+A fire in Pannipitiya destroyed a wooden mill in Liyanigoda.
+
+🟩
+
+The wooden mill has been completely destroyed by a fire caused to a wooden mill in Liyanigoda, Pannipitiya.
 
 ◼️
 
 [Data](articles/cfbdfdbd.json)
+
+[Extended Data](ext_articles/cfbdfdbd.ext.json)
+
+---
+
+### Showers expected in several provinces and districts
+
+*2024-04-22 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98765/showers-expected-in-several-provinces-and-districts) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle, Matara and Anuradhapura districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Uva and Northern provinces and in Polonnaruwa district during the afternoon or night.
+
+Showers or thundershowers will occur in the western coastal areas during the morning too, it said.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Ampara district during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c7641729.json)
 
 ---
 
@@ -65,6 +119,32 @@ Today, around 193 countries, people have joined the defending environment and bi
 [Data](articles/56fe35de.json)
 
 [Extended Data](ext_articles/56fe35de.ext.json)
+
+---
+
+### 7 பேரின் உயிரை பலியெடுத்த விபத்து குறித்து சில தகவல்கள்...
+
+*2024-04-22 07:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேரின்-உயிரை-பலியெடுத்த-விபத்து-குறித்து-சில-தகவல்கள்/175-336158) · `ta`
+
+ஏழு பேரின் உயிரை பலியெடுத்த தியத்தலாவ நரியகந்த, "Foxhill supercross" கார் மற்றும் மோட்டார் சைக்கிள் பந்தயம் குறித்து சில தகவல்கள் வெளிவந்துள்ளன.
+
+குறித்த விபத்தில் 7 பேர் உயிரிழந்ததுடன், சுமார் 23 பேர் படுகாயமடைந்து மருத்துவமனையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் உயிரிழந்த 7 பேரில் 8 வயது சிறுமியும் அடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த போட்டி சுமார் 5 ஆண்டுகளுக்குப் பிறகு நேற்று மீண்டும் அரம்பிக்கப்பட்ட நிலையிலேயே இவ்வனர்த்தம் இடம்பெற்றுள்ளது.
+
+இறுதியாக கடந்த 2023 ஆண்டு ஏப்ரல் 21 ஆம் திகதி நடத்தப்பட்ட நிலையில் அன்று இடம்பெற்ற உயிர்த்த ஞாயிறு தாக்குதல் காரணமாக பாதியிலேயே நிறுத்தப்பட்டது.
+
+இதன்படி 5 வருடங்களாக போட்டிகள் நடத்தப்படவில்லை எனவும், இம்முறை போட்டிக்கு அதிகளவான பங்கேற்பு காணப்படுவதாகவும் தெரிவிக்கப்பட்டது.
+
+இதையடுத்து நேற்று (21) காலை ஆரம்பமான இப்போட்டியில் கார் ஒன்று பந்தய திடலை விட்டு விலகி பயணித்ததில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின் பின்னர் பந்தயத்தை நிறுத்த நடவடிக்கை எடுத்ததாக பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவா தெரிவித்தார். R
+
+◼️
+
+[Data](articles/e19631f1.json)
 
 ---
 
@@ -113,6 +193,22 @@ The President then visited the Asgiriya Maha Viharaya and visited the Sri Gnanar
 [Data](articles/aa78116e.json)
 
 [Extended Data](ext_articles/aa78116e.ext.json)
+
+---
+
+### போலி இணையத்தளங்கள் நீக்கப்படும்
+
+*2024-04-22 07:36:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இணையத்தளங்கள்-நீக்கப்படும்/175-336157) · `ta`
+
+தபால் திணைக்களத்தின் இணையத்திற்கு இணையாக காணப்படும் போலி இணையத்தளங்களை நீக்குவதற்கு நடவடிக்கை எடுக்கப்பட்டதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவு எச்சரித்துள்ளது.
+
+இவ்வாறான 5 போலி இணையத்தளங்களை இணையத்திலிருந்து நீக்குவதற்கு நடவடிக்கை எடுக்கப்பட்டதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்துள்ளார்.
+
+இவ்வாறான இணையத்தளங்களுக்குள் பிரவேசித்து 35 பண மோசடி சம்பவங்கள் பதிவாகியுள்ளன என அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/985c9e53.json)
 
 ---
 
@@ -2095,115 +2191,5 @@ Gotabhaya Rajapaksa, who was primarily delegated in the election of the Parliame
 [Data](articles/4604c1b1.json)
 
 [Extended Data](ext_articles/4604c1b1.ext.json)
-
----
-
-### 'Fox Hill SupercroS 2024' Running: Why?
-
-*2024-04-21 14:31:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw4rnn129xzo) · `si`
-
-"Fox Hill SupercroS 2024" accident in Diyatalawa killed 20, wounded 20, including an 8-year-old girl. Army and police investigating.
-
-🟩
-
-'Fox Hill SupercroS 2024' Running: Why?
-
-Several people were killed and 20 others were wounded in accident held in Diyatalawa area in Narea Mount.
-
-Army Media Spokesperson Major General Rasika Gen. Kumara told the BBC that there was an eight-year-old girl between the deceased.
-
-"Army owned the fox hill trac. The race is organized by the Sri Lanka Automobile Sports Association. "
-
-"Among the crash, there are four track masksters and three viewers."
-
-"One of them is an eight-year-old girl," Army Spokesperson said.
-
-Police Media Spokesperson DIG Nihal Thaltuwa said that the accident had occurred when a car racing a car run out of the running lane between a race.
-
-"The accident had collided with the tournament and a group of visitors who were working in the tournament."
-
-"There are about 20 people who were injured in the incident. Three of them are serious. "
-
-"The Diyatalawa Police have launched an investigation into the accident."Police spokesman said.
-
-...
-
-[Data](articles/d54576c0.json)
-
-[Extended Data](ext_articles/d54576c0.ext.json)
-
----
-
-### An unease in front of the Independence Party Headquarters
-
-*2024-04-21 14:26:41* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂ-මූලස්ථානය-ඉදිරිපිට-නොසන්සුන්-තත්ත්වයක්/11-409185) · `si`
-
-"No restrictions at Sri Lanka Freedom Party HQ in Colombo, despite unease. This occurred after another SLFP team attempted entry."
-
-🟩
-
-Former President Maithripala Sirisena, the executive committee meeting was held today, there was no restriction in front of the Sri Lanka Freedom Party Headquarters in Colombo.
-
-This warm situation has arisen when another SLFP team tried to enter the headquarters.
-
-◼️
-
-[Data](articles/61ecb510.json)
-
-[Extended Data](ext_articles/61ecb510.ext.json)
-
----
-
-### Tension erupts outside SLFP headquarters
-
-*2024-04-21 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tension-erupts-outside-SLFP-headquarters/108-281086) · `en`
-
-Colombo, April 21 (Daily Mirror) - A tense standoff unfolded outside the Sri Lanka Freedom Party (SLFP) headquarters on Darley Road in Colombo 10, as a group attempting to enter the party building was met with resistance from the police.
-
-Tempers flared as the authorities obstructed the entry, leading to a tense atmosphere in the vicinity.
-
-Adding to the intrigue, Minister of Justice Wijeyadasa Rajapakshe was appointed by a faction of the party as the Acting Chairman of the SLFP, further fuelling speculation and interest in the ongoing developments within the party.
-
-◼️
-
-[Data](articles/6f285be9.json)
-
-[Extended Data](ext_articles/6f285be9.ext.json)
-
----
-
-### Iran-Israeli Tit For Tat, India’s Vote Marathon & Lanka’s Long Election Eve
-
-*2024-04-21 14:08:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/iran-israeli-tit-for-tat-indias-vote-marathon-lankas-long-election-eve/) · `en`
-
-The BBC called it “an audible sigh of relief.” That was after Israeli chose to have a measured last word on Friday, April 19, in the mutual deterrence back and forth, and Iran chose to downplay it as insignificant and a defeat for the enemy. The last word was delivered by way of mild strikes targeting Iran’s military installations in two Iranian cities and in south Syria. The recent spat began with Israel’s unprovoked April 1st airstrike on Iran’s consulate building in Damascus, Syria, that killed seven of Iran’s elite Quds Force officers. Within two weeks Iran responded with a spectacle of drone and missile attacks against Israel.
-
-...
-
-[Data](articles/21da8ac5.json)
-
-[Extended Data](ext_articles/21da8ac5.ext.json)
-
----
-
-### 5 crashed walls of loss of 5 lives
-
-*2024-04-21 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195834) · `si`
-
-A video on social media shows a large wall collapsing, killing 5, including a 11-year-old child.
-
-🟩
-
-A video showing how a large wall collapses on a group of people is being exchanged via social media.
-
-Foreign media reports that five persons, including a small child, has lost their lives in the crash.
-
-The child was aged between the ages of aged 11 years.
-
-◼️
-
-[Data](articles/07df346a.json)
-
-[Extended Data](ext_articles/07df346a.ext.json)
 
 ---

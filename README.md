@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 08:52:41**
+As of **2024-04-22 09:03:26**
 
 ## Newspaper Stats
 
-*Scraped **20,143** Articles*
+*Scraped **20,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,70 @@ newsfirstlk | 363
 islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
-adalk | 1,679
+adalk | 1,680
 tamilmirrorlk | 2,322
 adaderanalk | 2,410
 virakesarilk | 3,001
-dailymirrorlk | 3,138
+dailymirrorlk | 3,141
 adaderanasinhalalk | 3,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,138 (100.0%) of 20,143 articles have been extended.
+20,143 (100.0%) of 20,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### மதுபானசாலைகளுக்கு பூட்டு
+### Astrologer Chandrasiri Bandara passess away
+
+*2024-04-22 08:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Astrologer-Chandrasiri-Bandara-passess-away/108-281132) · `en`
+
+Colombo, April 22 (Daily Mirror) - Astrologer Chandrasiri Bandara has passed away this morning while undergoing treatment in a private hospital, family members said.
+
+They said Bandara was 63 years old at the time of his death.
+
+◼️
+
+[Data](articles/27e3cf9f.json)
+
+---
+
+### Showers around the country after 2 p.m
+
+*2024-04-22 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-around-the-country-after-2-p-m/108-281128) · `en`
+
+Colombo, April 22 (Daily Mirror) - Showers will occur in the Western, Sabaragamuwa, Central and North-Western Provinces and in the Galle, Matara and Anuradhapura districts after 2.00 p.m, the forecasting division of the National Meteorological Centre said.
+
+They said showers or thundershowers may occur at a few places in the Uva and Northern Provinces and in the Polonnaruwa district during the afternoon or night.
+
+Meanwhile, showers will occur in the western coastal areas during the morning too.
+
+Misty conditions can be expected at some places in the Sabaragamuwa, Central and Uva Provinces and in the Ampara district during the morning.
+
+◼️
+
+[Data](articles/4768094b.json)
+
+---
+
+### Lock for liquor schools
 
 *2024-04-22 08:27:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-336160) · `ta`
 
-அத்துடன், மே மாதம் 21ஆம் திகதி முதல் 27ஆம் திகதி வரையான காலப்பகுதி வெசாக் வாரமாக பிரகடனப்படுத்தப்பட்டுள்ளதால், வெசாக் பண்டிகையை முன்னிட்டு 22, 23, 24ஆம் திகதிகளில் மதுபானசாலைகள் மூடப்படவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+Liquor schools closed May 22-24 for Vesak Week.
+
+🟩
+
+Also, the Vesak Week has been declared as a week from May 21 to 27, and the liquor schools will be closed on the 22nd, 23rd and 24th of the month of the Vesak festival.. Remble
 
 ◼️
 
 [Data](articles/836d31b0.json)
+
+[Extended Data](ext_articles/836d31b0.ext.json)
 
 ---
 
@@ -57,6 +95,8 @@ The CARAT Sri Lanka exercise includes a Women, Peace, and Security Symposium on 
 ...
 
 [Data](articles/3834554b.json)
+
+[Extended Data](ext_articles/3834554b.ext.json)
 
 ---
 
@@ -96,6 +136,22 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/c7641729.json)
 
+[Extended Data](ext_articles/c7641729.ext.json)
+
+---
+
+### US and Sri Lankan navies to hold CARAT Sri Lanka 2024 in Trincomalee
+
+*2024-04-22 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-and-Sri-Lankan-navies-to-hold-CARAT-Sri-Lanka-2024-in-Trincomalee/108-281122) · `en`
+
+Colombo, April 22 ( U.S. Embussy in Sri Lanka) - The United States Navy, U.S. Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise for four days from today (22) in Trincomalee.
+
+CARAT Sri Lanka will feature the expertise of the U.S. Fleet Anti-Terrorism Security Team (FAST), a U.S. Marine Corps unit specialized in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities.
+
+...
+
+[Data](articles/0a7dc65e.json)
+
 ---
 
 ### World Day is today
@@ -122,29 +178,35 @@ Today, around 193 countries, people have joined the defending environment and bi
 
 ---
 
-### 7 பேரின் உயிரை பலியெடுத்த விபத்து குறித்து சில தகவல்கள்...
+### Some reports about the accident of the 7 people ...
 
 *2024-04-22 07:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேரின்-உயிரை-பலியெடுத்த-விபத்து-குறித்து-சில-தகவல்கள்/175-336158) · `ta`
 
-ஏழு பேரின் உயிரை பலியெடுத்த தியத்தலாவ நரியகந்த, "Foxhill supercross" கார் மற்றும் மோட்டார் சைக்கிள் பந்தயம் குறித்து சில தகவல்கள் வெளிவந்துள்ளன.
+In the "Foxhill Supercross" race, 7 people died, 23 were injured, including an 8-year-old girl. The race, held after 5 years, was stopped by an accident involving a car.
 
-குறித்த விபத்தில் 7 பேர் உயிரிழந்ததுடன், சுமார் 23 பேர் படுகாயமடைந்து மருத்துவமனையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-விபத்தில் உயிரிழந்த 7 பேரில் 8 வயது சிறுமியும் அடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+There have been some reports of the "Foxhill Supercross" car and motorcycle race.
 
-குறித்த போட்டி சுமார் 5 ஆண்டுகளுக்குப் பிறகு நேற்று மீண்டும் அரம்பிக்கப்பட்ட நிலையிலேயே இவ்வனர்த்தம் இடம்பெற்றுள்ளது.
+Seven people were killed and about 23 were injured in the accident, police said.
 
-இறுதியாக கடந்த 2023 ஆண்டு ஏப்ரல் 21 ஆம் திகதி நடத்தப்பட்ட நிலையில் அன்று இடம்பெற்ற உயிர்த்த ஞாயிறு தாக்குதல் காரணமாக பாதியிலேயே நிறுத்தப்பட்டது.
+The 8 -year -old girl was among the 7 victims of the accident, police said.
 
-இதன்படி 5 வருடங்களாக போட்டிகள் நடத்தப்படவில்லை எனவும், இம்முறை போட்டிக்கு அதிகளவான பங்கேற்பு காணப்படுவதாகவும் தெரிவிக்கப்பட்டது.
+The competition took place yesterday after nearly five years.
 
-இதையடுத்து நேற்று (21) காலை ஆரம்பமான இப்போட்டியில் கார் ஒன்று பந்தய திடலை விட்டு விலகி பயணித்ததில் இந்த விபத்து இடம்பெற்றுள்ளது.
+Finally, on April 21, 2023, it was halted by the resurrection Sunday attack.
 
-விபத்தின் பின்னர் பந்தயத்தை நிறுத்த நடவடிக்கை எடுத்ததாக பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவா தெரிவித்தார். R
+Accordingly, it has been reported that the competition has not been held for 5 years and this time the competition has been increased.
+
+The accident occurred yesterday morning (21) and the accident occurred when a car was traveling away from the race.
+
+Police Media Spokesperson Nihal Talduwa said that action was taken to stop the race after the accident. Remble
 
 ◼️
 
 [Data](articles/e19631f1.json)
+
+[Extended Data](ext_articles/e19631f1.ext.json)
 
 ---
 
@@ -196,19 +258,25 @@ The President then visited the Asgiriya Maha Viharaya and visited the Sri Gnanar
 
 ---
 
-### போலி இணையத்தளங்கள் நீக்கப்படும்
+### Fake websites will be deleted
 
 *2024-04-22 07:36:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இணையத்தளங்கள்-நீக்கப்படும்/175-336157) · `ta`
 
-தபால் திணைக்களத்தின் இணையத்திற்கு இணையாக காணப்படும் போலி இணையத்தளங்களை நீக்குவதற்கு நடவடிக்கை எடுக்கப்பட்டதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவு எச்சரித்துள்ளது.
+The Sri Lanka Computer Emergency Division has taken action to remove 5 fake websites linked to the Postal Department, aiming to combat money laundering.
 
-இவ்வாறான 5 போலி இணையத்தளங்களை இணையத்திலிருந்து நீக்குவதற்கு நடவடிக்கை எடுக்கப்பட்டதாக இலங்கை கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல தெரிவித்துள்ளார்.
+🟩
 
-இவ்வாறான இணையத்தளங்களுக்குள் பிரவேசித்து 35 பண மோசடி சம்பவங்கள் பதிவாகியுள்ளன என அவர் தெரிவித்துள்ளார். (a)
+The Sri Lanka Computer Emergency Division has warned that steps have been taken to remove the fake websites that are parallel to the Postal Department.
+
+Senior Senior Information Safety Engineer of the Sri Lanka Computer Emergency Division, Saruka Tamunubola said that steps have been taken to remove these 5 fake websites from the Internet.
+
+He said that 35 cases of money laundering have been reported.. (A)
 
 ◼️
 
 [Data](articles/985c9e53.json)
+
+[Extended Data](ext_articles/985c9e53.ext.json)
 
 ---
 
@@ -1302,6 +1370,22 @@ Sri Lanka’s fiscal landscape remains challenging as it continues to struggle w
 
 ---
 
+### ජනාධිපති අපේක්ෂක ලෙස ඉදිරිපත්වීමට ඉල්ලීම් එනවා
+
+*2024-04-21 19:25:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අපේක්ෂක-ලෙස-ඉදිරිපත්වීමට-ඉල්ලීම්-එනවා/11-409194) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් වීම සඳහා විශාල පිරිසක් ඉල්ලා සිටින බව අධිකරණ , බන්ධනාගාර හා ආණ්ඩුක්‍රම  ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතා  ගම්පොළදී ඒ මහතා පැවසීය.
+
+ඔහු සඳහන් කරන්නේ මෙම ඉල්ලීම කරන පිරිසට තමා ජනාධිපතිවරයකු ලෙස පත්වන බවට විශ්වාසයක් තිබෙන බවයි.අධිකරණ රාජ්‍ය අමාත්‍ය  නීතිඥ අනුරාධ ජයරත්න මහතාගේ ඉල්ලීමක් මත සාමදාන විනිශ්චකාරවරුන් තුන්සිය දෙනකු සඳහා පත්වීම් ලබාදීමේ උත්සවයකට පැමිණ අවස්ථාවේදී ඒ මහතා මේ බව සඳහන් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනාධිපති අපේක්ෂකත්වය තුළින් මෙත්‍රීපාල සිරිසේන මහතාගේ චෝදනා හා නඩු අධිකරණයෙන් ඉවත්වේද  යන පැනයට පිළිතුරු දුන් රාජපක්ෂ මහතා පැවසුවේ යම් පක්ෂයක  පුද්ගලයෙකු අපේක්ෂකත්වයට පත් වූ පමණින් නඩු හබ ඉවත් වීමේ නීතියක් රට තුළ නොමැති බවයි.
+
+◼️
+
+[Data](articles/e6f120ac.json)
+
+---
+
 ### Tomorrow to the level of focusing tomorrow
 
 *2024-04-21 19:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195843) · `si`
@@ -2105,91 +2189,5 @@ Nearly 21 people were injured in the accident, police said.
 [Data](articles/e3a41602.json)
 
 [Extended Data](ext_articles/e3a41602.ext.json)
-
----
-
-### Willie Gamage's resignation letter handed over
-
-*2024-04-21 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195837) · `si`
-
-Southern Province Governor Villai Gamage resigned, effective May 2, to the Secretary to the President.
-
-🟩
-
-Southern Province Governor Villai Gamage has handed over his resignation letter to the Secretary to the President.
-
-He has handed over his resignation letter with effect from May 2.
-
-◼️
-
-[Data](articles/845b31d6.json)
-
-[Extended Data](ext_articles/845b31d6.ext.json)
-
----
-
-### Governor of Southern Province resigns
-
-*2024-04-21 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98758/governor-of-southern-province-resigns-) · `en`
-
-The Governor of the Southern Province Willy Gamage has handed over his letter of resignation effective from 02 May, 2024, to the President’s Secretary.
-
-◼️
-
-[Data](articles/2c909e0c.json)
-
-[Extended Data](ext_articles/2c909e0c.ext.json)
-
----
-
-### A scary story that is heard from the world
-
-*2024-04-21 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195836) · `si`
-
-A report reveals half of China's major cities are sinking, with Beijing and Tijin affected. 29% of China's population lives in urban zones over 3mm above sea level. Factors include artificial expansion and high-rise construction. Cities worldwide, including the US capital and Mexico City, are also experiencing sinking.
-
-🟩
-
-A new report has revealed that half of China's major cities are present.
-
-According to the report of Syx, the cities of the cities belong to Beijing and Tijin.
-
-Also, 29 percent of the entire population of the country is in the urban zones that are more than 3 millimeters.
-
-It also said that the Ven.
-
-Natural facts, such as artificial reasons, such as expansion of high weights and road systems in high buildings, is also influenced.
-
-It is reported that the city stinking data is reported from other countries in the world, and even the capital of US in America is present.
-
-It is also reported that 25 percent of the lands in the Netherlands have decreased than sea level and the City of Mexico City, which is the world's fastest substance, is around 20 inches.
-
-◼️
-
-[Data](articles/a210a2fb.json)
-
-[Extended Data](ext_articles/a210a2fb.ext.json)
-
----
-
-### Cardinal reveals about Gota's call
-
-*2024-04-21 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195835) · `si`
-
-Cardinal Ranjith accuses the government of suppressing truth in the Passover attack. He criticizes the handling of the investigation, including the removal of officers involved. He condemns the government for protecting individuals and organizations involved, and for suppressing evidence.
-
-🟩
-
-The latest Malcolm Cardinal Ranjith alleges that the government and the present government will continue to suppress the truth in the Passover attack.
-
-The Kadinal Ranjith said that this was the main program held at the St. Anthony's shrine in the Kochchikade St. Anthony's shrine.
-
-Gotabhaya Rajapaksa, who was primarily delegated in the election of the Parliamentary Select Committee and the Presidential Commission's records was vested in the presidency. He was assured to conduct a transparency test on the Passover attack and ensures justice. The report of the Presidential Commission to be implemented in the country after the presence of the recommendations on the phone, the recommendations made by the return of the recommendations and their organizations were recommended by the report to ban their organizations.I am reminded of how it is impossible. "
-
-...
-
-[Data](articles/4604c1b1.json)
-
-[Extended Data](ext_articles/4604c1b1.ext.json)
 
 ---

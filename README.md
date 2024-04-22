@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 09:18:26**
+As of **2024-04-22 09:33:57**
 
 ## Newspaper Stats
 
-*Scraped **20,147** Articles*
+*Scraped **20,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ islandlk | 1,093
 dailyftlk | 1,112
 economynextcom | 1,147
 adalk | 1,680
-tamilmirrorlk | 2,322
+tamilmirrorlk | 2,324
 adaderanalk | 2,410
-virakesarilk | 3,001
+virakesarilk | 3,002
 dailymirrorlk | 3,141
-adaderanasinhalalk | 3,273
+adaderanasinhalalk | 3,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,147 (100.0%) of 20,147 articles have been extended.
+20,147 (100.0%) of 20,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### ප්‍රවීණ ජ්‍යෝතීර්වේදී චන්ද්‍රසිරි බණ්ඩාර අභාවප්‍රාප්ත වෙයි
+
+*2024-04-22 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195854) · `si`
+
+ප්‍රවීණ ජ්‍යෝතීර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතා අද (22) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+
+පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටිය දී ඒ මහතා එලෙස මියගොස් ඇත.
+
+◼️
+
+[Data](articles/aa1bff87.json)
+
+---
 
 ### Astrologer Chandrasiri Bandara passess away
 
@@ -45,6 +59,26 @@ They said Bandara was 63 years old at the time of his death.
 [Data](articles/27e3cf9f.json)
 
 [Extended Data](ext_articles/27e3cf9f.ext.json)
+
+---
+
+### ஜனாதிபதியின் வெளிநாட்டு பயணங்கள் சபைக்கு வருகின்றது
+
+*2024-04-22 08:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வெளிநாட்டு-பயணங்கள்-சபைக்கு-வருகின்றது/175-336161) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க ஜனாதிபதியாக பதவியேற்றதன் பின்னர் கலந்து கொள்ளும் வெளிநாட்டு பயணங்களுக்காக அரசாங்கம் மேற்கொள்ளும் செலவுகள் தொடர்பான விடயம் நாளை மறுதினம் (24ம் திகதி) நடைபெறவுள்ள பாராளுமன்ற நிகழ்ச்சி நிரலில் உள்ளடக்கப்பட்டுள்ளது.
+
+இதுவரை ஜனாதிபதி பங்கேற்ற வெளிநாட்டுப் பயணங்கள், ஒவ்வொரு பயணத்தின் போதும் சந்தித்த வெளிநாட்டுத் தலைவர்கள் குறித்தும் கேள்வி எழுப்பப்பட்டுள்ளது.
+
+மேலும், அவர்களுடன் இராஜதந்திர ரீதியில் செய்து கொள்ளப்பட்ட ஒப்பந்தங்கள் மற்றும் அந்த உடன்படிக்கைகளை எட்டுவது தொடர்பிலும் கேட்கப்பட்டுள்ளது.
+
+மேலும் ஒவ்வொரு வெளிநாட்டுப் பயணத்திலும் ஜனாதிபதியுடன் பங்குபற்றிய தூதுக்குழுவினருக்கு தனித்தனியாகவும் அதற்காக செலவிடப்பட்ட தொகையையும் வழங்குமாறும் கோரப்பட்டுள்ளது.
+
+களுத்துறை மாவட்ட சபை உறுப்பினர் ஜயந்த சமரவீர, பிரதமர் தினேஷ் குணவர்தனவிடம் இந்தக் கேள்வியை முன்வைத்துள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/daaadb10.json)
 
 ---
 
@@ -83,6 +117,26 @@ Also, the Vesak Week has been declared as a week from May 21 to 27, and the liqu
 [Data](articles/836d31b0.json)
 
 [Extended Data](ext_articles/836d31b0.ext.json)
+
+---
+
+### ’யாரையும் கடந்து செல்ல தயாரில்லை’
+
+*2024-04-22 08:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாரையும்-கடந்து-செல்ல-தயாரில்லை/175-336159) · `ta`
+
+நாட்டின் பொருளாதாரத்தையும் மக்களையும் வலுப்படுத்தும் வேலைத்திட்டத்தில் அரசாங்கம் யாரையும் கடந்து செல்லவோ விட்டுவிடவோ போவதில்லை என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+வெலிமடை அம்பகஸ்தோவ பொது விளையாட்டரங்கில் நேற்று இடம்பெற்ற குறைந்த வருமானம் பெறும் குடும்பங்களுக்கான அரிசி நிவாரணம் வழங்கும் 2024 தேசிய வேலைத்திட்டத்தின் ஆரம்ப நிகழ்வில் ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+இந்த வேலைத்திட்டத்தின் கீழ், முழு நாட்டையும் உள்ளடக்கிய குறைந்த வருமானம் பெறும் 2.74 மில்லியன் குடும்பங்களுக்கு இரண்டு மாதங்களுக்கு மாதாந்தம் பத்து கிலோ அரிசி வழங்கப்படும்.
+
+பதுளை மாவட்டத்தின் பதினைந்து பிரதேச செயலகப் பிரிவுகளில் உள்ள 191,548 பயனாளி குடும்பங்கள் அரிசி மானியம் பெறத் தகுதி பெற்றுள்ளன. ஆயிரம் குடும்பங்களுக்கு அரிசி வழங்கும் நிகழ்வின் அடையாளமாக இன்று 25 பயனாளிகளுக்கு ஜனாதிபதியின் கைகளால் அரிசிப் பொதிகள் வழங்கப்பட்டன.
+
+இதேவேளை, நாடளாவிய ரீதியில் பிரதேச செயலகப் பிரிவு மட்டத்தில் பிரதேச செயலாளர்களின் மேற்பார்வையில் தெரிவு செய்யப்பட்ட பயனாளிகளுக்கு அரிசி விநியோகிக்கப்படுகிறது. (a)
+
+◼️
+
+[Data](articles/a059152c.json)
 
 ---
 
@@ -181,6 +235,24 @@ Today, around 193 countries, people have joined the defending environment and bi
 [Data](articles/56fe35de.json)
 
 [Extended Data](ext_articles/56fe35de.ext.json)
+
+---
+
+### சர்வதேச விசாரணைகளிற்காக கத்தோலிக்க திருச்சபை மனித உரிமை பேரவையை நாடவுள்ளது – கர்தினால் மல்கம் ரஞ்சித்
+
+*2024-04-22 07:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181613) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதல் குறித்து சர்வதேச விசாரணைகளை முன்னெடுப்பதற்காக வெளிநாட்டு அரசசார்பற்ற அமைப்புகள் மற்றும் சர்வதேச அமைப்புகள் ஐக்கிய நாடுகள் மனித உரிமை பேரவையிடம் யோசனையொன்றை கத்தோலிக்க திருச்சபை முன்வைக்கவுள்ளது.
+
+உயிர்த்த ஞாயிறுதாக்குதல் காரணமாக பாதிக்கப்பட்டவர்களிற்கு நீதி கிடைப்பதை உறுதி செய்வதற்காக இலங்கையின் கத்தோலிக்க திருச்சபை இந்த ஐக்கிய நாடுகள் மனித உரிமை பேரவையை நாடவுள்ளது
+
+ஐந்து வருடங்களாகியுள்ள போதிலும் இந்த தாக்குதலின் சூத்திரதாரிகள் யார் இந்த தாக்குதலின் பின்னால் உள்ள  சதிமுயற்சிகள் என்ன என்பது போன்ற விடயங்களை முன்னைய தற்போதைய அரசாங்கங்கள் வெளிப்படுத்த தவறிவிட்டன என அவர் தெரிவித்துள்ளார்.
+
+பாதிக்கப்பட்டவர்களிற்கு நீதி நிலைநாட்டப்படும் என்ற தனது வாய்மூல வாக்குறுதியை  நிறைவேற்றுவதற்கு முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச தவறியுள்ளதால் ஐக்கிய மக்கள் சக்தியும் தேசிய மக்கள் சக்தியும் வழங்கியுள்ள வாக்குறுதிகளில் நம்பிக்கை வைத்துள்ளேன் என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/2524cfec.json)
 
 ---
 
@@ -2103,103 +2175,5 @@ The 28th edition of the ‘Fox Hill Super Cross’ organized by the Sri Lanka Mi
 [Data](articles/08f8f9ab.json)
 
 [Extended Data](ext_articles/08f8f9ab.ext.json)
-
----
-
-### Six killed, over 20 injured in accident during ‘Fox Hill Super Cross’
-
-*2024-04-21 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98759/six-killed-over-20-injured-in-accident-during-fox-hill-super-cross) · `en`
-
-UPDATE: Another person who was injured and hospitalized following the accident during the “Fox Hill Super Cross 2024” racing event in Diyatalawa has succumbed to his injuries, Police Media Spokesman DIG Nihal Thalduwa confirmed.
-
-Accordingly, the death toll from the tragic incident climbs to 06 with this.
-
-The deceased individuals include five adult males and a small child, according to police. Four of the deceased were officials of the racing event, while two others were civilians who were among the spectators.
-
-The deceased child is a 08-year-old girl, the Sri Lanka Army Spokesperson said.
-
-DIG Thalduwa further stated that the accident has taken place after a car ran off the track during a race.
-
-Meanwhile, it is also reported that 04 out of 24 individuals who were injured and hospitalized after the accident are in critical condition.
-
-The “Fox Hill Super Cross 2024” racing event has now been temporarily suspended, the police mentioned.
-
-...
-
-[Data](articles/a1a76a6b.json)
-
-[Extended Data](ext_articles/a1a76a6b.ext.json)
-
----
-
-### Gold prices surge to all-time high
-
-*2024-04-21 15:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gold-prices-surge-to-all-time-high/108-281088) · `en`
-
-Gold prices across the globe are surging at all-time high prices amid escalating geopolitical tensions in the Middle East.
-
-According to the London Stock Exchange Group (LSEG), spot gold prices reached US$ 2,431.29 per Troy ounce -the highest rate ever recorded for the metal on Friday, April 12.
-
-According to Gold Alliance, the highest price of gold ever recorded was US$ 2,152 on 3 December 2023. However, adjusted for inflation, gold reached its highest in 1980 with an inflation-adjusted price of US$ 2,429.84.
-
-Last week's Friday (April 19) saw prices reaching US$ 2,417.59 after Israel retaliated with an airstrike attack, a day before.
-
-Analysts predict rates could surpass US$ 2,500 by the year if the geopolitical developments continue.
-
-According to Everett Millman, a chief market analyst of Gainesville Coins in the US, as quoted by Reuters, the natural response by investors is to flee to gold when there are geopolitical tensions like in the present.
-
-...
-
-[Data](articles/8a3e3c31.json)
-
-[Extended Data](ext_articles/8a3e3c31.ext.json)
-
----
-
-### ‛‛ Vasuki Telephone Finding
-
-*2024-04-21 15:50:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாசுகி-கண்டுப்பிடிப்பு/175-336136) · `ta`
-
-Researchers in Gujarat, India, discovered the bones of a giant snake, possibly the longest obese snake in the world, dating back 4.7 billion years. The bones, found in the Panandro Lignite Mine, are believed to belong to a giant snake named "Vasuki," akin to the mythological Anaconda. This discovery supports the theory of intercontinental Gondwana dispersal.
-
-🟩
-
-Archaeological studies are being conducted in various countries. In this study, various rare information about the lifestyle of the ancestors and their habits is surprised.
-
-Researchers have discovered that one of the longest obese snakes in the world is living in the Kutch area of Gujarat, India.. Analysts said the snake was 4 crore 70 trillion years ago.
-
-Accordingly, in 2005, some bones were obtained from the Panandro Lignite Mine in the Kutch area of Gujarat.
-
-It was said that the giant crocodile, who lived in the past, may have been buried under the earth, and its bones are now available as fossils.. However, it is not confirmed that the bones are the first. And that fossil bones were collected for inspection. A study of which organism was for the organism was initiated.
-
-Accordingly, in 2022, a study by the Largest Known Madsoiid Snake Snake Snake Period of Inida Suggests Interconthental Gondwana Dispersal has been found to be 50 feet of giant snake.
-
-...
-
-[Data](articles/51f99620.json)
-
-[Extended Data](ext_articles/51f99620.ext.json)
-
----
-
-### Five killed in a car accident in Diyatalawa
-
-*2024-04-21 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195838) · `si`
-
-In Diyatalawa, a car racing accident resulted in five fatalities and injured 21 people when a car went off the track.
-
-🟩
-
-Five people have been killed while a car racing was killed during a car racing in Diyatalawa.
-
-The accident had occurred when a car was taken out of the track during the race.
-
-Nearly 21 people were injured in the accident, police said.
-
-◼️
-
-[Data](articles/e3a41602.json)
-
-[Extended Data](ext_articles/e3a41602.ext.json)
 
 ---

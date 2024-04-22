@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 20:52:23**
+As of **2024-04-22 21:03:41**
 
 ## Newspaper Stats
 
-*Scraped **20,278** Articles*
+*Scraped **20,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,094
 dailyftlk | 1,112
 economynextcom | 1,157
-adalk | 1,695
+adalk | 1,696
 tamilmirrorlk | 2,343
 adaderanalk | 2,424
 virakesarilk | 3,031
 dailymirrorlk | 3,157
-adaderanasinhalalk | 3,292
+adaderanasinhalalk | 3,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,278 (100.0%) of 20,278 articles have been extended.
+20,278 (100.0%) of 20,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
+
+### රිමාන්ඩ් කළ ෆොක්ස් හිල් රියදුරන් කළ පාපොච්චාරණය
+
+*2024-04-22 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195875) · `si`
+
+ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී ඊයේ පුද්ගලයන් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අදාළ මෝටර් රථ දෙකේ රියදුරන් දෙදෙනා අද පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රිමාන්ඩ් බන්ධනාගාරගත කළේය.
+
+අනතුරට සම්බන්ධ මෝටර් රථ ධාවකයින් දෙදෙනෙකු දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පොලිසිය මගින් අද අත්අඩංගුවට ගත් අතර බණ්ඩාරවෙල මහෙස්ත්‍රාත් අධිකරණය ඔවුන් දෙදෙනාව අප්‍රෙල් 30 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+බණ්ඩාරවෙල මහෙස්ත්‍රාත්වරයා විසින් අනතුරට සම්බන්ධ මෝටර් රථ ධාවකයින් දෙදෙනා දියතලාව මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ඔවුන්ගෙන් ප්‍රකාශ සටහන් කර ගත්තේය.
+
+පොලිස් නිලධාරියා - මේ බණ්ඩාරවෙල මහෙස්ත්‍රාත්තුමා ඇවිත් ඉන්නේ. ඔයාට කියන්න දෙයක් තියෙනවානම් ගරු මහේස්ත්‍රාත්තුමාට කියන්න පුළුවන්.
+
+අනතුර සිදුවනවිට මොටර් රථයක් පැදවූ රියදුරෙක්  - මම දැක්කේ නැහැ පෙරළිලා තියෙනවා කියලා. පෙරළිලා තිබිලා තියෙනවා. යනකොට පෙනුණේ නැහැ. මම දකුණු පැත්තෙන් ගියේ.  ඊටපස්සේ මගේ අතින් මේ පැත්තට කැපුණා. කාර් දෙක මැදින් ගියා දකුණු පැත්තට.
+
+...
+
+[Data](articles/767f7848.json)
+
+---
+
+### කමිඳු මෙන්ඩිස් යුග දිවියට
+
+*2024-04-22 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195874) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක කමිඳු මෙන්ඩිස්ගේ විවාහ මංගල්‍ය උත්සවය අද (22) ගාල්ලේදී පැවැත්වුණි.
+
+◼️
+
+[Data](articles/6c3f085b.json)
+
+---
 
 ### Whose is the responsibility of Fox Hill tragedy who lost seven lives?
 
@@ -219,6 +251,22 @@ International bailouts have reacted interest on delayed fees as the debt restruc
 [Data](articles/12b4dff3.json)
 
 [Extended Data](ext_articles/12b4dff3.ext.json)
+
+---
+
+### කෙරවලපිටිය - නුගපේ 33,000ක විදුලි රැහැන ඉදිකිරීමට පැවති බාධා ඉවත් කෙරේ
+
+*2024-04-22 18:07:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙරවලපිටිය---නුගපේ-33-000ක-විදුලි-රැහැන-ඉදිකිරීමට-පැවති-බාධා-ඉවත්-කෙරේ/11-409208) · `si`
+
+2019 වර්ෂයේ ආරම්භ කරන ලද තවමත් වැඩ නිමකොට නොමැති කෙරවලපිටිය - නුගපේ කිලෝ වොට් 33,000ක විදුලි රැහැන ඉදිකිරීම සම්බන්ධයෙන් මෙතෙක් පැවති බාධා ඉවත් කිරීමට අදාළ පාර්ශ්වවල එකඟතාවය පළ විය.
+
+මේ සඳහා එකඟතාවය පළ වූයේ පරිසරය, ස්වාභාවික සම්පත් හා තිරසර සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී ගරු අජිත් මාන්නප්පෙරුම මහතාගේ සභාපතිත්වයෙන් පසුගියදා (18) පාර්ලිමේන්තුවේදී  රැස් වූ අවස්ථාවේදීය.
+
+මෙම රැස්වීම සඳහා නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශය, පරිසර අමාත්‍යාංශය, විදුලිබල හා බලශක්ති අමාත්‍යාංශය, වනජීවී හා වන සම්පත් සංරක්ෂණ අමාත්‍යාංශය, ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාව, විදුලිබල මණ්ඩලය, වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව, මධ්‍යම පරිසර අධිකාරිය, වත්තල ප්‍රාදේශීය ලේකම් කාර්යාලය සහ මුතුරාජවෙල සංරක්ෂණ සංගමය ඇතුළු පරිසර සංවිධාන නියෝජනය කරමින් නිලධාරීහු සහභාගී වූහ.
+
+...
+
+[Data](articles/6341913a.json)
 
 ---
 
@@ -2235,69 +2283,5 @@ Some people who went to see the New Year's Eve, fell on the street about 500 met
 [Data](articles/a04e40cd.json)
 
 [Extended Data](ext_articles/a04e40cd.ext.json)
-
----
-
-### About 25,000 people do not attend military service over 5 years!
-
-*2024-04-22 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181631) · `ta`
-
-In the past five years, 25,000 people have avoided military service, some reportedly used as gunmen and motorcycle drivers in the Southern Provinces. The military is now raising awareness about their presence.
-
-🟩
-
-According to military sources, about 25,000 people have not joined the military service over the past five years and they have gone to holiday.
-
-At the same time, it has been revealed that the majority of those who have been used as gunmen and motorcycle drivers in the past and the Southern Provinces have been reported to be a military personnel without any announcement.
-
-At this juncture, the military and other soldiers are currently launching awareness lectures regarding the underworld and their presence.
-
-◼️
-
-[Data](articles/bb0edf86.json)
-
-[Extended Data](ext_articles/bb0edf86.ext.json)
-
----
-
-### Notice of US citizenship
-
-*2024-04-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195858) · `si`
-
-US citizenship granted to 66,000 Indian citizens, with 46 killed in action and 333 others in the US, making up 14% of the total.
-
-🟩
-
-US citizenship has been given US citizenship for nearly 66,000 Indian citizens.
-
-According to an American Community Survey Data report, the information has been revealed.
-
-Accordingly, 65,960 Indians were officially in US citizens.
-
-එම වර්ෂයේ දී මිලියන 46ක විදේශිකයන් පිරිසක් එක්සත් ජනපදයේ වාසය කර ඇති බව ඇස්තමේන්තු කර ඇති අතර එය මිලියන 333 ක් වූ සමස්ත එක්සත් ජනපද ජනගහනයෙන් 14 %ක් වන බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/fb93bd5c.json)
-
-[Extended Data](ext_articles/fb93bd5c.ext.json)
-
----
-
-### Catholic Church to go to UNHRC seeking international probe
-
-*2024-04-22 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-to-go-to-UNHRC-seeking-international-probe/108-281151) · `en`
-
-Colombo, April 22 (Daily Mirror)- The Catholic Church is planning to present a proposal to the United Nations Human Rights Council (UNHRC) through several foreign governments and international organizations to initiate an international investigation into the Easter Sunday terrorist attacks with a view to mete out justice to the victims of those attacks.
-
-Archbishop of Colombo, His Eminence Cardinal Malcolm Ranjith revealed this to the BBC Sinhala Service yesterday in a statement marking the fifth anniversary of the terrorist attacks which took place on April 21, 2019.
-
-He accused the past and the present governments that they have failed to reveal the conspiracy behind the Attacks or the masterminds of it, despite five years having lapsed.
-
-...
-
-[Data](articles/cae5582d.json)
-
-[Extended Data](ext_articles/cae5582d.ext.json)
 
 ---

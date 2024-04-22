@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 18:11:01**
+As of **2024-04-22 18:22:38**
 
 ## Newspaper Stats
 
-*Scraped **20,263** Articles*
+*Scraped **20,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,65 @@ tamilmirrorlk | 2,342
 adaderanalk | 2,422
 virakesarilk | 3,025
 dailymirrorlk | 3,157
-adaderanasinhalalk | 3,289
+adaderanasinhalalk | 3,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,261 (100.0%) of 20,263 articles have been extended.
+20,263 (100.0%) of 20,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### ඊශ්‍රායලයේ හමුදා බුද්ධි අංශ ප්‍රධානියා ඉල්ලා අස්වෙයි
+### තවත් ඔන්ලයින් මූල්‍ය වංචාකරුවෙකු කොටුවෙයි
+
+*2024-04-22 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195871) · `si`
+
+සමාජ මාධ්‍ය ජාලා ඔස්සේ ණය ලබාදෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල ඉමදූව ප්‍රදේශයේ පදිංචි 32 හැවිරිදි වියේ පසුවන සැකකරුවෙකි.
+
+එම සැකකරුට එරෙහිව වාහන සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අධිකරණයේ පවතින නඩු විභාගයකට අදාළව අධිකරණය මගහැර දීර්ඝ කාලයක් සැඟව සිට තිබේ.
+
+එම සිද්ධියට අදාළව සිදුකළ විමර්ශනයකදී තිහගොඩ පොලීසිය විසින් මෙම සැකකරු බොරලැස්ගමුව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+ඔහු සන්තකයේ තිබී ටැබ් පරිගණකයක්,  ජංගම දුරකථන හයක්, විවිධ බැංකු කාඩ්පත් අටක් සහ මුදලින් රුපියල් හතලිස්දහසක් පමණ පොලීසිය සිය භාරයට ගෙන ඇත.
+
+පොලිස් විමර්ශනවලදී හෙළිවී ඇත්තේ සැකකරු විසින් ඔන්ලයින් ණය ලබාදෙන මුවාවෙන් දිවයිනේ විවිධ ප්‍රදේශවල පුද්ගලයින්ගෙන් ණය සේවා ගාස්තු ලෙස රුපියල් 3000 සිට 5000ක් දක්වා වූ මුදලක් විවිධ බැංකු වෙත බැර කරවාගෙන ඇති බවය.
+
+අනතුරුව ණය මුදල් ලබාදීමක් සිදු නොකර අදාළ ණය ඉල්ලුම්කරුවන් මගහරිමින් සැකකරු මෙම වංචාව සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+මේ සඳහා සැකකරු මුහුණුපොත සහ වට්ස්ඇප් භාවිතයට ගෙන ඇති බවට හෙළිවී ඇත.
+
+...
+
+[Data](articles/af438134.json)
+
+---
+
+### Israeli military intelligence head resigns
 
 *2024-04-22 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195870) · `si`
 
-ඊශ්‍රායලයේ හමුදා බුද්ධි අංශ ප්‍රධානියා ඉල්ලා අස් වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Israeli Army Intelligence head, Major General Azorne Halli, resigns, marking the first senior officer departure due to the Israeli attack on October 7th. Hamas claims responsibility.
 
-පසුගිය ඔක්තෝබර් මස 07 වනදා හමාස් සංවිධානය විසින් ඊශ්‍රායලයට එල්ල කළ ප්‍රහාරය හඳුනාගැනීමට නොහැකිවීම සම්බන්ධ වගකීම භාරගනිමින් ඔහු ඉල්ලා අස්වී ඇති බව වාර්තා වෙයි.
+🟩
 
-කෙසේ වෙතත් ඊශ්‍රායලයේ ආරක්ෂක බළකාය ප්‍රකාශ කර ඇත්තේ මේජර් ජනරාල් අහරෝන් හලිවා විශ්‍රාම ගිය බවය.
+Foreign media reports that the Head of the Army Intelligence of Israel has resigned.
 
-ඊශ්‍රායලට එල්ල වූ ප්‍රහාරය හේතුවෙන් ධුරයෙන් ඉවත් වූ පළමු ජ්‍යේෂ්ඨ හමුදා නිලධාරියා වන්නේ ද ඔහු බව වාර්තා වෙයි.
+The Hamas took responsibility for the lack of identifying the attack on Israel on October 07th last October.
+
+However, the Israelite security force has said that Major General Azorne Halli has retired.
+
+He is also the first Senior Army officer who left office due to the Israeli attack.
 
 ◼️
 
 [Data](articles/753da4f1.json)
+
+[Extended Data](ext_articles/753da4f1.ext.json)
 
 ---
 
@@ -95,24 +127,6 @@ The upcoming OIC summit, to be convened in Gambia, promises significant particip
 [Data](articles/efd44f83.json)
 
 [Extended Data](ext_articles/efd44f83.ext.json)
-
----
-
-### Air Asia, FITS, Hayleys bid for SriLankan Airlines
-
-*2024-04-22 17:32:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
-
-ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
-
-Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
-
-International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
-
-◼️
-
-[Data](articles/7fddf6ba.json)
-
-[Extended Data](ext_articles/7fddf6ba.ext.json)
 
 ---
 
@@ -207,6 +221,24 @@ The indictment has been filed against an Indian national who owns a cricket team
 [Data](articles/564f79fc.json)
 
 [Extended Data](ext_articles/564f79fc.ext.json)
+
+---
+
+### Air Asia, FITS, Hayleys bid for SriLankan Airlines
+
+*2024-04-22 16:40:00* · [`economynextcom`](https://economynext.com/malaysias-air-asia-sri-lankas-fits-hayleys-bid-for-srilankan-159713/) · `en`
+
+ECONOMYNEXT – Malaysia’s AirAsia group, FITS Aviattion of Sri Lanka and Hayleys are among bidders for state-run SriLankan Airlines, a statement from the State-owned Enterprises Restructuring Unit said.
+
+Dharshaan Elite Investment Holding (Pvt) Ltd, . Sherisha Technologies Private Limited and Treasure Republic Guardians Limited are the other bidders.
+
+International Finance Corporation, as Transaction Advisors for the divestiture of SriLankan Airlines Limited, will continue to advise the government, the statement said. (Colombo/April22/2024)
+
+◼️
+
+[Data](articles/7fddf6ba.json)
+
+[Extended Data](ext_articles/7fddf6ba.ext.json)
 
 ---
 
@@ -1204,25 +1236,31 @@ The Magistrate ordered the Magistrate to remand custody.
 
 ---
 
-### වැඩි පරිස්සමට වෑන් රථයේ දමාගෙන ගිය ලක්ෂ 25ක් රන් භාණ්ඩ සොරාගෙන
+### More than 25 lakhs were thrown in the van to the van
 
 *2024-04-22 12:29:46* · [`adalk`](https://www.ada.lk/breaking_news/වැඩි-පරිස්සමට-වෑන්-රථයේ-දමාගෙන-ගිය-ලක්ෂ-25ක්-රන්-භාණ්ඩ-සොරාගෙන/11-409201) · `si`
 
-පශු වෛද්‍යවරයෙකුට සහ ඔහුගේ බිරිඳට අයත් රුපියල් ලක්ෂ 25 කට අධික වටිනා රන් ආභරණ තොගයක් වෑන් රථයක් තුළ  තිබියදී සොරාගෙන ගොස් ඇතැයි කඩුවෙල පොලිසිය කියයි
+Kaduwela Police report a theft of jewelry worth over Rs. 25 lakhs, including 2 tasels, 2 necklaces, and 2 garments, from a van. The stolen items were found in a handbag and returned to the owner's cousin in Horana.
 
-සොරා ගෙන ගිය දේපල අතර පවුම් 13 - 1/4 බර රන්  වලලු 4 ක් , ටසල් 2 ක් , මාල 3 ක්  අත් ඵලදනාවක්  , කරාබු ජෝඩු  2 ක්  පෙන්ඩන් 2 ක් හා ජංගම දුරකථනයක් වන බව පොලිසිය සඳහන් කරයි
+🟩
 
-පශු වෛද්‍යවරයා සිය බිරිඳ සමග ඔහුට අයත් වෑන් රථයෙන් හොරණ ප්‍රදේශයේ ඥාති නිවසකට ගොස්  අනතුරුව කඩුවෙල වැලිවිට ප්‍රදේශයේ දියණියකගේ නිවසට පැමිණ තිබූ බව පොලිසිය කියයි
+Kaduwela Police say that there was a stock of jewelery worth more than Rs.
 
-සොර සතුරන් සිටින බැවින් ඔවුන් දෙදෙනා නිවසින් පැමිණෙන අවස්ථාවේදී නිවස තුළ රන් භාණ්ඩ නොතබා ඒවා පැළඳ නොගෙන  අත් බෑගයේ දමාගෙන පැමිණ ඇති  බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇති
+Two tasters, 2 tasels, 2 necklaces, 2 garments, 2 necklaces, 2 necklaces
 
-දියණියගේ නිවස ඉදිරිපිටම වෑන් රථය නවතා  නිවස තුළ  පැය කීපයක් ගත කර යළි නිවස කරා යාම සඳහා වෑන් රථයට පැමිණීමේදී  ඉදිරිපස කැබී හෝලය සහ ඇතුළත තිබූ ඇඳුම් බෑග් ඇද තිබෙන අයුරු දැක විමසිලිමත් වීමේදී  රන්බාන්ඩ බහා තිබූ අත්බෑගය සමගම සොරාගෙන ගොස් ඇති බවට  අනාවරණය වී ඇතැයි පොලිසිය කියයි
+Veterinary Master of his wife had returned to a cousin in Horana, a daughter of Weliwita in the Weliwita area in Kaduwela.
 
-කඩුවෙල පොලිසියේ ස්ථානාධිපති කාන් වීරසිංහ මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+Police investigations have revealed that when the two enemies arrived at home, police investigations have revealed that they had been thrown into the handbag without wear gold and wear gold.
+
+Police say that the front cabley and inside the front cables and inside the front cabeth bags in the house to return the van in front of daughter and staying back in the house have been stolen at the hands of the Ranbandand's hand.
+
+Investigations are conducted on the instructions of the OIC of Kaduwela Police
 
 ◼️
 
 [Data](articles/a19943be.json)
+
+[Extended Data](ext_articles/a19943be.ext.json)
 
 ---
 
@@ -2237,25 +2275,5 @@ The police have arrested the police while they were injured in the accident.
 [Data](articles/12c4f16c.json)
 
 [Extended Data](ext_articles/12c4f16c.ext.json)
-
----
-
-### The famous Sinhala astrologer has passed away
-
-*2024-04-22 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181615) · `ta`
-
-Famous Sinhala astrologer Chandrasiri Bandara passed away this morning after being treated at a private hospital.
-
-🟩
-
-Famous Sinhala astrologer Chandrasiri Bandara passed away this morning (22).
-
-His family said he died after being treated at a private hospital.
-
-◼️
-
-[Data](articles/73609be1.json)
-
-[Extended Data](ext_articles/73609be1.ext.json)
 
 ---

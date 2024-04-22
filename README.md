@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-22 13:18:28**
+As of **2024-04-22 13:34:17**
 
 ## Newspaper Stats
 
-*Scraped **20,210** Articles*
+*Scraped **20,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,81 @@ tamilmirrorlk | 2,334
 adaderanalk | 2,417
 virakesarilk | 3,018
 dailymirrorlk | 3,147
-adaderanasinhalalk | 3,282
+adaderanasinhalalk | 3,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,202 (100.0%) of 20,210 articles have been extended.
+20,210 (100.0%) of 20,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-22 (Monday)
 
-### මාලදිවයිනේ මැතිවරණ ජය පාලක පක්ෂයට
+### සුඛෝපභෝගී මෝටර් රථ 112ක් පැවරීම හා අන්සතු කිරීම වළක්වාලමින් නියෝගයක්
+
+*2024-04-22 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195863) · `si`
+
+නිසි පරිදි බදු නොගෙවා රේගුවෙන් නිෂ්කාශනය නොකර ලියාපදිංචි කර තිබෙන  සුඛෝපභෝගී මෝටර් රථ 112ක් පැවරීම සහ අන්සතු කිරීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (22) මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ කොමසාරිස් ජෙනරාල්වරයාට නියෝගයක් නිකුත් කළේය.
+
+අල්ලස් කොමිසම විසින් ඉදිරිපත් කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/5a2c574b.json)
+
+---
+
+### Ralking Party for elections in Maldives
 
 *2024-04-22 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195862) · `si`
 
-මාලදිවයින් ඊයේ (21)  පැවති මහා මැතිවරණයෙන් කැපී පෙනෙන ජයග්‍රහණයක් අත්කරගැනීමට වත්මන් ජනාධිපති මොහොමඩ් මුයිසුගේ පක්ෂය සමත්ව විය.
+Maldives' President Mohammed Mischu's party won a significant victory in yesterday's general election, securing 66 out of 93 parliamentary seats. The National Congress of Museu's Muizu led the victory, with about 280,000 eligible voters participating.
 
-ඒ අනුව චීන හිතවාදී මුයිසුගේ මහජන ජාතික කොංග්‍රසය දැනටමත් දිනා ඇති ආසන ගණන 66කි.
+🟩
 
-මැතිවරණය පැවැත්වුණේ පාර්ලිමේන්තුවේ ආසන 93ක් සඳහා මන්ත්‍රීවරුන් තෝරාපත් කරගැනීමේ අරමුණිනි.
+The present President Mohammed Mischu, the party, was able to achieve a significant victory in the general election held yesterday (21).
 
-මැතිවරණය සඳහා ඡන්දය භාවිතයට සුදුසුකම් ලබා ඇති පිරිස 280,000ක් පමණී.
+Accordingly, the National Congress of Museu's Muizu, a public national congress, has already won 66 seats.
+
+The election was held to select MPs for 93 seats in Parliament.
+
+There are about 280,000 people who have eligible to vote for the election.
 
 ◼️
 
 [Data](articles/faeb2fec.json)
 
+[Extended Data](ext_articles/faeb2fec.ext.json)
+
 ---
 
-### විජයදාසගේ නම මැතිවරණ කොමිසමට
+### Wijayadasa's name to the Election Commission
 
 *2024-04-22 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195861) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ වැඩබලන සභාපතිවරයා ලෙස තම පාර්ශ්වයෙන් තෝරා පත් කරගත් අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නම මැතිවරණ කොමිසන් සභාව වෙත දැනුම් දීමට පියවර ගන්නා බව එම පක්ෂයේ මෛත්‍රී පාර්ශ්වය පවසයි.
+Dr. Wijayadasa Rajapakse, appointed SLFP acting chairman, will inform the Election Commission and Executive Council. The SLFP executive met in Ethul Kotte, with Rajapaksa emphasizing unity and victory.
 
-ඒ අනුව නිදහස් පක්ෂ වැඩබලන මහලේකම්වරයා විසින් විජයදාස රාජපක්ෂ මහතාගේ නම සහ විධායක සභාවේ දී ගත් තීරණ සම්බන්ධයෙන් මැතිවරණ කොමිසන් සභාව වෙත දැනුම් දීමට නියමිතය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වය පසුගිය 20 රැස්වූ අවස්ථාවේ ගත් තීරණයට අනුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක රැස්වීමක් ඊයේ (21) පෙරවරුවේ ඇතුල්කෝට්ටේ ප්‍රදේශයේ හෝටලයකදී කැඳවා තිබිණි.
+The party's Maithri has said that the name of Minister Dr. Wijayadasa Rajapakse was appointed as the SLFP acting chairman.
 
-මෙම විධායක සභා රැස්වීමට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාද සහභාගී වී සිටි අතර එහිදී
+Accordingly, the Elections Secretariat will be informed of the name of the Executive Council of Wijayadasa and the Executive Council of Wijayadasa and the Executive Council.
 
-ඔහුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරයට පත් කර ගැනුණි.
+The Sri Lanka Freedom Party (SLFP) summarizes the Sri Lanka Freedom Party (SLFP) executive meeting was convened at a hotel in Ethul Kotte yesterday (21).
 
-"අපිට පක්ෂය හැරගිය සියලුදෙනා එකට එකතු කරගෙන හොඳ ගමනක් යන්න අද අවස්ථාවක් උදාවුණා. අපි සියලුදෙනා එකට එකතුවෙලා සාර්ථක ගමනක් ගියොත් පක්ෂය විතරක් නෙමෙයි ගොඩයන්නේ රටටත් ගොඩයන්න පුළුවන්. ඉදිරියේ එන ඕනෑම මැතිවරණයකදී ශ්‍රී ලංකා නිදහස් පක්ෂය ජයග්‍රහණය කරවනවා කියන පොරොන්දුව ලබාදෙනවා."
+Minister of Justice Dr. Wijayadasa Rajapaksa also attended the executive council meeting.
+
+He was appointed as the Acting Chairman of the Sri Lanka Freedom Party.
+
+"Everyone who left the party, enabled us to take a good journey together. If we all jogging together, we will not only build the party but also build the party. The promise that the Sri Lanka Freedom Party will win in any election. "
 
 ◼️
 
 [Data](articles/b6932420.json)
+
+[Extended Data](ext_articles/b6932420.ext.json)
 
 ---
 
@@ -118,19 +144,25 @@ The Magistrate ordered the Magistrate to remand custody.
 
 ---
 
-### உலக புவி தினம் இன்று!
+### World Earth Day today!
 
 *2024-04-22 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181649) · `ta`
 
-உலகெங்கிலும் உள்ள நாடுகளினால் சுற்றுச் சூழல் பாதுகாப்பு மற்றும் புவியினது நிலைத்தன்மையை பேணுவதற்காக உலக புவி தினமானது ஒவ்வொரு ஆண்டும் ஏப்ரல் மாதம் 22  கொண்டாடப்படுகின்றது.
+"World Earth Day today! Celebrated on April 22, it emphasizes environmental protection and Earth stability. This year's theme, "plastic against Earth," focuses on plastic pollution and its impacts."
 
-இந்த ஆண்டு உலக புவி தினத்தின் கருப்பொருள்  "பூமிக்கு எதிரான பிளாஸ்டிக்" என்பதாகும்.
+🟩
 
-இந்த கருப்பொருளானது பிளாஸ்டிக் மாசுபாடு மற்றும் அதன் பாதக விளைவுகளை முன்னிலைப்படுத்தியதாக அமைகிறது.
+World Earth Day is celebrated on April 22 every year to maintain environmental protection and the stability of the Earth by countries around the world.
+
+The theme of World Earth Day this year is "plastic against Earth".
+
+This theme is highlighted by plastic pollution and its adverse effects.
 
 ◼️
 
 [Data](articles/b5ea1bb9.json)
+
+[Extended Data](ext_articles/b5ea1bb9.ext.json)
 
 ---
 
@@ -176,35 +208,49 @@ This order has been issued by the Hulftsdorp Magistrate’s Court for their atte
 
 ---
 
-### நுவரெலியா வசந்த காலத்தில் சுற்றுலா பயணிகளை அசௌகரியப்படுத்தும் யாசகர்கள், ஊதுபத்தி விற்கும் பெண்கள் - எழுந்துள்ள கடும் குற்றச்சாட்டு
+### In the spring of Nuwara Eliya
 
 *2024-04-22 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181650) · `ta`
 
-நுவரெலியா நகரில் சுற்றுலா பயணிகளையும், பொதுமக்களையும் அசௌகரியப்படுத்தி  தற்காலிகமாக அமைக்கப்பட்டுள்ள கடைத்தொகுதி, வீதிகளில் கைக்குழந்தைகள், சிறுவர்களுடன் ஊதுபத்தி விற்பனை செய்பவர்கள், யாசகம் செய்பவர்கள், மடிப்பிச்சை எடுப்பவர்கள் தொடர்பில் அதிகாரிகள் அல்லது பொறுப்பு வாய்ந்தவர்கள் உரிய நடவடிக்கை எடுக்க வேண்டும் என வர்த்தகர்கள் மற்றும் பொதுமக்கள் தொடர்ச்சியாக  கோரிக்கை விடுத்து வருகின்றனர்.
+In Nuwara Eliya, public demands action against temporary shops, especially concerning women selling Yasagas and Urupathi, and jewelry. Accusations of inappropriate behavior and body touching by tourists. Despite informing authorities, no action has been taken. Harassment intensifies since April, raising concerns for future visitors.
 
-குறிப்பாக ஏப்ரல் மாதத்தில் தினமும்  பெருமளவு பொதுமக்கள், சுற்றுலா பயணிகள் வந்து செல்லும் நிலையில் யாசகர்கள் மற்றும் ஊதுபத்தி விற்கும் பெண்களின் தொல்லை நாளாந்தம் அதிகரித்து வருவதாகவும் , ஊதுபத்தி விற்பது போல் பெண்களை வசியப்படுத்தி நகைகளை பறிக்க முயற்சி செய்வதாகவும்  குற்றஞ்சாட்டு தொடர்ந்து காணப்படுகின்றது.
+🟩
+
+In Nuwara Eliya, the shopkeepers and the public are constantly demanding that the authorities or responsible people take appropriate action regarding the temporary shop, the shopkeepers, the infants, the boys, the boys and the folders.
+
+In April, the public and tourists are constantly accused of increasing the risk of women who sell Yasagas and Urupathi, especially in April, and are constantly trying to sell jewelery as they sell.
+
+It is noteworthy that she is a group of women from the outer districts, where they are pregnant and lactating mothers, where they are sitting with a baby girl.. Also, when selling the mouthpiece, the public and the tourists are speaking out inappropriately, and they are involved in the act of touching the body of the tourists from abroad, without the right to the body of the tourists.
 
 ...
 
 [Data](articles/189f4e54.json)
 
+[Extended Data](ext_articles/189f4e54.ext.json)
+
 ---
 
-### පාසල් සිසුන්ට කන්න දීමට තිබූ සහල් ප්‍රමිතියෙන් තොරයි
+### Rice to eat to school children is out of quality
 
 *2024-04-22 12:14:32* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුන්ට-කන්න-දීමට-තිබූ-සහල්-ප්‍රමිතියෙන්-තොරයි/11-409200) · `si`
 
-පාසල් ආරම්භ කළ පසු  දිවයිනේ 1-5 ශ්‍රේණිවල  ප්‍රාථමික  දරුවන් ලක්ෂ 16 කගේ යකඩ ඌණතාවය දුරළීම සඳහා සබල කරණය කරන ලද පෝෂ්‍ය පදාර්ථ එක්කල පළාත් මට්ටමින් බෙදා හැරීම සඳහා ආහාර කොමසාරිස් දෙපාර්තමේන්තුවේ වේයන්ගොඩ දිසා ධාන්‍යාගාරයේ  ගබඩා  කර තිබූ කෝටි ගණනක් වටිනා  සහල් මිනිස් පරිභෝජනයට නුසුදුසු ඒවා බවට හඳුනා ගත් බව ශ්‍රී ලංකා මහජන පරීක්ෂ සංගමයේ සභාපති උපුල් රෝහණ මහතා  අද (22) ප්‍රකාශ කළේය.
+Schools in Sri Lanka are distributing substandard rice to children, leading to health concerns. The Food Commissioner's Department has deemed the rice unfit for human consumption. The rice, imported from India, was stored in a warehouse and distributed to schools, but the Western Province's education department rejected it. The Public Health Inspectors' Association has temporarily halted the distribution, pending further investigation.
 
-මෙම ගබඩාවේ තැන්පත් කොට තිබූ සහල් වලින් සාම්පල් 1000ක් පමණ පරීක්ෂා කොට ඇති අතර ඒවා රස පරීක්ෂකවරයාට යවා ලැබුණු වාර්තාව අනුව මිනිස් පරිභෝජනය නුසුදුසු බව නිර්දේශ වීමෙන් පසුව වේයන්ගොඩ මහජන පරීක්ෂකවරුන් ඊයේ (21) එම ස්ථානයට ගොස් මෙම සහල් පාසල් වලට බෙදා හැරීම අත්හිටු වූ බවද උපුල් රෝහණ මහතා සඳහන් කරයි.
+🟩
 
-ලෝක ආහාර වැඩසටහන (WFP world food programme) අනුව දිවයිනේ පාසල් සඳහා මෙම සහල් තොග පළාත් මධ්‍යමින් බෙදා දීමට සැලසුම්  ගබඩාවේ තැන්පත් කොට තිබුණි.
+Schools in order to distribute the iron deficiency in the island of 1-5 lakhs of 1-5 million primary children in 1-5 million primary children in the island, the Food Commissioner's Department recognized to be inappropriate for human consumptionPresident of the Sri Lanka Public General Inspector Association Upul Rohana stated today (22).
 
-2022 වර්ෂයේ ඉන්දියාවේ ගොවිබිම්වලින් නෙළාගත් අස්වැන්න වන මෙම සහල් 2024 වර්ෂයේ මැයි මස වනතුරු පරිභෝජනයට සුදුසු බව  එම සහල් මළුවල සඳහන් වෙයි.
+The Veyyangoda Public Inspectors had gone to the scene yesterday (21) after the recommendation that human consumption was recommended to the Analyst was recommended by the report, which was recommended that human consumption was inappropriate.Mentioned.
+
+According to the World Food Program (WFP World Program), the rice stolen was placed in the design warehouse to distribute the rice in the middle of the country.
+
+The rice hail, which is harvested from the farms of India in 2022, is suitable for consumption until May of May 2024.
 
 ...
 
 [Data](articles/5581f98d.json)
+
+[Extended Data](ext_articles/5581f98d.ext.json)
 
 ---
 
@@ -276,23 +322,29 @@ The bench stated that the minor should get transport arrangements and any medica
 
 ---
 
-### மல்வத்து, அஸ்கிரி மகாநாயக்க தேரர்களை சந்தித்து ஜனாதிபதி ஆசிர்வாதம் பெற்றுக்கொண்டார்
+### Malwathu met the Asgiri Mahanayaka Thera and received the blessing of the President
 
 *2024-04-22 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181645) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று ஞாயிற்றுக்கிழமை (21) பிற்பகல் மல்வத்து மற்றும் அஸ்கிரி பீடங்களின் மகா நாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+President Ranil Wickremesinghe met with Malwathu and Asgiri Maha Nayakas, received blessings, and engaged in discussions.
 
-முதலில் மல்வத்து மகா விகாரைக்கு வருகை தந்த ஜனாதிபதி ரணில் விக்ரமசிங்க, மல்வத்து பீட மகா நாயக்க  வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல மகா நாயக்க தேரரை தரிசித்து ஆசிர்வாதம் பெற்றுக் கொண்ட பின்னர் சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
+🟩
 
-இச்சந்திப்பில் மல்வத்து பீட அனுநாயக்க  வண,  திம்புல்கும்புரே விமலதம்ம தேரரரும் கலந்து கொண்டதுடன் அவர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசிர்வதித்தார்.
+President Ranil Wickremesinghe met the Maha Nayaka Thera of the Malwathu and Asgiri Peethas on Sunday (21) afternoon.
 
-அதன் பின்னர் அஸ்கிரி மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்ரமசிங்க, அஸ்கிரி பீட மகாநாயக்க வரகாகொட ஸ்ரீ ஞானரதன  தேரரை சந்தித்து சிறிது நேரம் கலந்துரையாடினார்.
+President Ranil Wickremesinghe, who first visited the Malwattu Maha Vihara, was also involved in a minor discussion after receiving the blessings of Sri Sumangala Maha Nayaka Thera, Malwathu Peeta Maha Nayaka, Tippattuvawe.
 
-முதியங்கனை ரஜமஹா விகாரையின் விகாராதிபதி வண, முருந்தெணியே தம்மரதன தேரர் தலைமையிலான மகா சங்கத்தினர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசி வழங்கினார்கள்.
+The meeting was attended by the Malwathu Peeta Anunayaka Vanam, Thimbulkumbure Wimalathama Thera and he recited and blessed the president.
+
+President Ranil Wickremesinghe, who visited the Asgiri Maha Vihara, met with Sri Gnanaradana Thera, Asgiri Peeta Mahanayaka Varakagoda.
+
+The Maha Sangha led by the Vikarapati of the Elder Rajamaha Vihara, Murundeni Damaradana Thera, recited the President and blessed the President.
 
 ◼️
 
 [Data](articles/8ccc41c9.json)
+
+[Extended Data](ext_articles/8ccc41c9.ext.json)
 
 ---
 
@@ -1574,6 +1626,8 @@ Unhae Park Langis, has written an interesting book entitled  Passion, Prudence,
 
 [Data](articles/55e33383.json)
 
+[Extended Data](ext_articles/55e33383.ext.json)
+
 ---
 
 ### The sun - to be careful of both the rain
@@ -1613,6 +1667,8 @@ The US-led NATO forces are facing a historic debacle in Ukraine. The disinformat
 ...
 
 [Data](articles/a8578833.json)
+
+[Extended Data](ext_articles/a8578833.ext.json)
 
 ---
 
@@ -2145,21 +2201,5 @@ Brown & Company’s Digital Transformation Solutions Strategic Business Unit rec
 [Data](articles/c16a84c3.json)
 
 [Extended Data](ext_articles/c16a84c3.ext.json)
-
----
-
-### J is investigating those involved in the Easter attack. V.. B. Prompt is laughable - Prasanna Ranatunga
-
-*2024-04-22 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181606) · `ta`
-
-Prasanna Ranatunga, Minister of Urban Development and Housing, criticizes the JVP's investigation into the Easter attack, highlighting the sacrifices made by low-income earners and the government's efforts to stabilize the economy. He also questions the JVP's motives, suggesting they might seek Catholic votes.
-
-🟩
-
-...
-
-[Data](articles/6f24d238.json)
-
-[Extended Data](ext_articles/6f24d238.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 02:18:35**
+As of **2024-04-23 02:34:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,329 (100.0%) of 20,331 articles have been extended.
+20,331 (100.0%) of 20,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -932,6 +932,8 @@ Given the current situation, the most strategic move for Pohottuwa would likely 
 
 [Data](articles/a2362174.json)
 
+[Extended Data](ext_articles/a2362174.ext.json)
+
 ---
 
 ### Ramayana Trail – The Sacred Mission
@@ -943,6 +945,8 @@ I am happy to be present here today for the event promoting the Ramayana trail. 
 ...
 
 [Data](articles/287605af.json)
+
+[Extended Data](ext_articles/287605af.ext.json)
 
 ---
 

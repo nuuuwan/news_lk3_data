@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 15:34:03**
+As of **2024-04-23 15:52:07**
 
 ## Newspaper Stats
 
-*Scraped **20,437** Articles*
+*Scraped **20,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
-adalk | 1,706
-tamilmirrorlk | 2,360
-adaderanalk | 2,439
+adalk | 1,707
+tamilmirrorlk | 2,362
+adaderanalk | 2,440
 virakesarilk | 3,064
 dailymirrorlk | 3,178
-adaderanasinhalalk | 3,312
+adaderanasinhalalk | 3,313
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,437 (100.0%) of 20,437 articles have been extended.
+20,437 (100.0%) of 20,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Document authentication services at Consular Affairs Division suspended on 29 & 30 April
+
+*2024-04-23 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98795/document-authentication-services-at-consular-affairs-division-suspended-on-29-30-april) · `en`
+
+The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises on the 16th floor of “Suhurupaya” on Sri Subhuthipura Road, Battaramulla with effect from 02 May, the Foreign Affairs Ministry said today (23).
+
+Accordingly, all consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday between 8.30 a.m. and 4.15 p.m.
+
+As a result, document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
+
+However, during the said transition period, the Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to the public during regular office hours.
+
+...
+
+[Data](articles/63133d8d.json)
+
+---
+
+### கடும் மழையை எதிர்கொள்ள தயாராக இருக்கவும்
+
+*2024-04-23 15:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-மழையை-எதிர்கொள்ள-தயாராக-இருக்கவும்/175-336244) · `ta`
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் சுமார் 50 மில்லிமீற்றர் அளவில் கடும் மழை பொழியும் எனவும் மக்கள் அதற்கு தயாராக இருக்க வேண்டும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+சமீபத்திய முன்னறிவிப்புகளின்படி, மேல், சப்ரகமுவ, மத்திய, ஊவா, தென் மற்றும் வடமேல் மாகாணங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை பெய்யக்கூடும் என எதிர்பார்க்கப்படுகிறது.
+
+மேலும், வடக்கு மற்றும் வடமத்திய மாகாணங்களில் பிற்பகல் அல்லது இரவு வேளையில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் பனிமூட்டமான நிலையும் எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/f8d06af3.json)
+
+---
+
+### විදේශ කටයුතු අමාත්‍යාංශයෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-23 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195895) · `si`
+
+විදේශ කටයුතු අමාත්‍යාංශයේ කොන්සියුලර් අංශයේ සත්‍යාපන සේවාවන් අප්‍රේල් මස 29 සහ 30 දෙදින තාවකාලිකව අත්හිටුවන බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එම නිවේදනයේ දැක්වෙන්නේ විදේශ කටයුතු අමාත්‍යාංශයේ කොන්සියුලර් අංශය බත්තරමුල්ල, ශ්‍රී සුභූතිපුර පාරේ පිහිටි "සුහුරුපායේ" 16 වැනි මහලෙහි ඇති නව කාර්යාල පරිශ්‍රය වෙතට රැගෙන යාමේ කටයුතු හේතුවෙන් මෙම දින දෙක තුළ එම සේවාවන් තාවකාලිකව අත්හිටුවන බවය.
+
+එම දෙදින තුළ යාපනය, ත්‍රිකුණාමලය, කුරුණෑගල, මහනුවර සහ මාතර යන නගරවල පිහිටි ප්‍රාදේශීය කොන්සියුලර් කාර්යාල සාමාන්‍ය කාර්යාල වේලාවන්හි මහජනතාවට විවෘතව පවතින බවද විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කරයි.
+
+ලේඛන සත්‍යාපනය සඳහා වූ අයැදුම්පත් සාමාන්‍ය පරිදි මෙම ප්‍රාදේශීය කාර්යාල වෙත ඉදිරිපත් කළ හැකි අතර සත්‍යාපනය කරනු ලැබූ ලේඛන යළි අයැදුම්කරුවන් වෙත ලබා දෙනුයේ මැයි 02 වන බ්‍රහස්පතින්දා දින බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+...
+
+[Data](articles/f5d3742c.json)
+
+---
+
+### 12 மணித்தியால நீர்வெட்டு அமுல்
+
+*2024-04-23 15:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணித்தியால-நீர்வெட்டு-அமுல்/175-336243) · `ta`
+
+கம்பஹா மாவட்டத்தின் சில பகுதிகளில் நாளை(24) புதன்கிழமை 12 மணித்தியால நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+நாளை (24) காலை 8.30 தொடக்கம் இரவு 8.30 வரை நீர் விநியோகம் துண்டிக்கப்படவுள்ளதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
+
+பேலியகொடை, வத்தளை, கந்தானை, ஜா-எல, கட்டுநாயக்க – சீதுவ நகர சபைக்குட்பட்ட பகுதிகள், களனி, மஹர, தொம்பே ஆகிய இடங்களிலும் மினுவாங்கொடை பிரதேச சபைக்குட்பட்ட பகுதிகள் மற்றும் கம்பஹா பிரதேச சபைக்குட்பட்ட பகுதிகளிலும் இவ்வாறு நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
+
+◼️
+
+[Data](articles/a974a41d.json)
+
+---
 
 ### Chamari Athapaththu rises to No. 1 position in Women’s ODI batting rankings
 
@@ -189,6 +259,22 @@ As a accompanying man died, 30 people abandoned the achievement event from Manna
 [Data](articles/8af83446.json)
 
 [Extended Data](ext_articles/8af83446.ext.json)
+
+---
+
+### දමිතාගේ හා සැමියාගේ බැංකු ගිණුම් ගැන විස්තර ගනියි
+
+*2024-04-23 14:14:01* · [`adalk`](https://www.ada.lk/breaking_news/දමිතාගේ-හා-සැමියාගේ-බැංකු-ගිණුම්-ගැන-විස්තර-ගනියි/11-409221) · `si`
+
+කොරියාවේ රැකියා වීසා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 30 ක මුදලක් වංචා කළයි කියන ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇගේ සැමියා වන ලෙන්ලි ජොන්සන් යන අයවලුන් භාවිත කරන ලද බැංකු ගිණුම් සම්බන්ධයෙන් අධිකරණයේ අවසරය මත තොරතුරු ලබා ගැනීමට විශේෂ පොලිස් කණ්ඩායමක්  බන්ධනාගාරය වෙත ගිය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු සඳහන් කරයි.
+
+ඒ ඉකුත් 17 වෙනිදින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශය මගින්  සැකකරුවන් විසින් භාවිත කරන ලද බැංකු ගිණුම් සම්බන්ධයෙන් තොරතුරු ලබා ගැනීමට  බන්ධනාගාරය වෙත ලබාගත් අධිකරණ නියෝග අනුවය.
+
+එම නියෝග අනුව  ඊයේ  (22) දමිතා අබේරත්නගේ සැමියා වන ලෙන්ලි ජොන්සන්  යන අයගෙන් පමණක් පුරා පැය දෙකකට ආසන්න කාලයක්  ප්‍රකාශ ලබාගෙන ඇතැයි   දැනගන්න ඇත
+
+...
+
+[Data](articles/7f574628.json)
 
 ---
 
@@ -2217,85 +2303,5 @@ Hayleys Solar won the Bronze Award for Green Brand of the Year which recognises 
 [Data](articles/cd96c562.json)
 
 [Extended Data](ext_articles/cd96c562.ext.json)
-
----
-
-### Westbury Suites succeeds in resurrecting halted Campbell Avenue project
-
-*2024-04-23 01:07:19* · [`dailyftlk`](https://www.ft.lk/business/Westbury-Suites-succeeds-in-resurrecting-halted-Campbell-Avenue-project/34-760911) · `en`
-
-A few months ago, in the heart of Sri Lanka’s commercial capital, where the pulse of urban life beats strongest, there stood a dormant skeleton of promise – a halted condominium project, whispering tales of dashed dreams and broken ambitions. Amidst the rubble and despair, Westbury Suites spearheaded and fuelled by the vision and determination of Project Director Muhez Muzammil emerged to bring life back to the said venture, despite the doubts/concerns raised by experts and industry professionals.
-
-The project which was under the supervision and leadership of the team lead by Muhez, was not willing to let its potential languish in obscurity. Armed with strategic foresight and unwavering resolve, they embarked on a journey of revitalisation, turning the tide of misfortune into a beacon of hope.
-
-...
-
-[Data](articles/030375b2.json)
-
-[Extended Data](ext_articles/030375b2.ext.json)
-
----
-
-### US and Sri Lankan Navies kick off CARAT Sri Lanka 2024 exercise in Trincomalee
-
-*2024-04-23 01:06:03* · [`dailyftlk`](https://www.ft.lk/news/US-and-Sri-Lankan-Navies-kick-off-CARAT-Sri-Lanka-2024-exercise-in-Trincomalee/56-760910) · `en`
-
-US Navy sailors and Sri Lankan Navy sailors treat a simulated casualty during a casualty evacuation exercise during CARAT 2023
-
-US Marines and Sri Lankan Marines conduct Visit, Board, Search, and Seizure (VBSS) drills during Cooperation Afloat Readiness and Training (CARAT) exercise in 2023
-
-The United States Navy, US Marine Corps, and Sri Lanka Navy will partner for the Cooperation Afloat Readiness and Training (CARAT) Sri Lanka 2024 exercise from 22 to 26 April in Trincomalee.
-
-CARAT Sri Lanka will feature the expertise of the US Fleet Anti-Terrorism Security Team (FAST), a US Marine Corps unit specialised in security and anti-terrorism for naval assets, engaging alongside their Sri Lanka Navy Marine counterparts on a full spectrum of naval capabilities.
-
-...
-
-[Data](articles/c3b8b287.json)
-
-[Extended Data](ext_articles/c3b8b287.ext.json)
-
----
-
-### Book review: “Lama Apata Dhammapadaya”
-
-*2024-04-23 01:04:53* · [`dailyftlk`](https://www.ft.lk/news/Book-review-Lama-Apata-Dhammapadaya/56-760909) · `en`
-
-In his captivating work, “Lama Apata Dhammapadaya,” Deepal Sooriyaarachchi skilfully introduces the profound teachings of Buddhism to young readers in a way that is both accessible and enriching. The book, a masterful adaptation of the classic Buddhist scripture, Dhammapada, serves as a beacon of wisdom, guiding children on a journey of self-discovery and moral growth.
-
-Sooriyaarachchi’s writing effortlessly weaves together storytelling and the timeless teachings of the Buddha, creating a compelling narrative that captures the imagination of young minds. The language used is simple, yet elegant, making it easy for children to comprehend the deeper philosophical concepts embedded within the verses.
-
-...
-
-[Data](articles/c8302212.json)
-
-[Extended Data](ext_articles/c8302212.ext.json)
-
----
-
-### Victims of Easter Sunday attacks remembered on 5th anniversary
-
-*2024-04-23 01:03:46* · [`dailyftlk`](https://www.ft.lk/news/Victims-of-Easter-Sunday-attacks-remembered-on-5th-anniversary/56-760908) · `en`
-
-Victims of the 2019 Easter Sunday attacks were remembered on Sunday marking the fifth anniversary of the mayhem. The commemoration ceremony was held at Katuwapitiya cemetery. A prayerful procession was also held from Maris Stella College Negombo to St. Sebastian’s Church Katuwaputiya to mark the occasion – Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/3bb102a8.json)
-
-[Extended Data](ext_articles/3bb102a8.ext.json)
-
----
-
-### 2019 Easter Sunday attacks and victims commemorated at St. Anthony’s Shrine in Kochchikade
-
-*2024-04-23 01:02:30* · [`dailyftlk`](https://www.ft.lk/news/2019-Easter-Sunday-attacks-and-victims-commemorated-at-St-Anthony-s-Shrine-in-Kochchikade/56-760907) · `en`
-
-Archbishop of Colombo Malcolm Cardinal Ranjith officiated at the fifth anniversary commemoration of the 2019 Easter Sunday attacks at St. Anthony’s Shrine in Kochchikade on Sunday. A large number of clergy from multiple faiths and devotees participated – Pix by Ruwan Walpola
-
-◼️
-
-[Data](articles/4760f8fe.json)
-
-[Extended Data](ext_articles/4760f8fe.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 18:34:29**
+As of **2024-04-23 18:52:23**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,467 (100.0%) of 20,471 articles have been extended.
+20,471 (100.0%) of 20,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### தேசிய மக்கள் சக்தி மக்கள் மத்தியில் பிரபல்யமடைந்துள்ளது - சீன தூதுக்குழு
+### National People's Power is popular among the people - Chinese delegation
 
 *2024-04-23 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181793) · `ta`
 
-தேசிய மக்கள் சக்தி அரசியல் ரீதியில் துரிதமாக வளர்ச்சியடைந்து மக்கள் மத்தியில் பிரபல்யமடைந்துள்ளதாக சீன கம்யூனிசக் கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சர் சன் ஹய்ன் தலைமையிலான தூதுக்குழுவினர் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்கவிடம் குறிப்பிட்டுள்ளனர்.
+The Chinese delegation, led by Sun Hain, praises National People's Power's political development and popularity in Sri Lanka. They met with President Anura Kumara Dissanayake to discuss current politics, elections, and recovery.
 
-இலங்கைக்கு உத்தியோகப்பூர்வ விஜயத்தை மேற்கொண்டுள்ள சீன கம்யூனிச கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சர் உட்பட தூதுக்குழுவினர் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திஸாநாயக்கவை மக்கள் விடுதலை முன்னணியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (23) சந்தித்து பேச்சுவார்த்தையில் ஈடுபட்டனர்.
+🟩
 
-இச்சந்திப்பில் சீன கம்யூனிச கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சரும் அக்கட்சியின் மத்திய செயற்குழு உறுப்பினருமான சன் ஹயன்,சீன கம்யூசின கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி பணிப்பாளர் நாயகம் லின் தோ,கொழும்பில் உள்ள சீன தூதரகத்தின் கவுன்ஸிலர் சென் சியன்ஜியான்,
+The delegation headed by the Deputy Minister of the International Affairs Department of the Chinese Communist Party, Sun Hain, has told National People's Power President Anura Kumara Dissanayake that the national people's power is politically developed and popular among the people.
+
+The delegation, including the Deputy Minister of the International Affairs Department of the Chinese Communist Party, which is on an official visit to Sri Lanka, met with National People's Power President Anura Kumara Dissanayake at the People's Liberation Front office on Tuesday (23).
+
+Sun Hayan, Deputy Minister of the Communist Party of International Affairs and the Central Executive Committee of the Chinese Communist Party, and the Deputy Director General of the International Affairs Department of the Chinese Communist Party, Sen. Cianjian, Chinese Embassy in Colombo.
 
 ...
 
 [Data](articles/b499190b.json)
+
+[Extended Data](ext_articles/b499190b.ext.json)
 
 ---
 
@@ -300,21 +306,29 @@ England's Natalie Sear is second with 764 points and South African player Laura 
 
 ---
 
-### புதிய வளாகத்திற்கு மாற்றப்படும் வெளிவிவகார அமைச்சின் தூதரக விவகாரப் பிரிவு
+### Embassy Affairs Division of the Ministry of External Affairs to be transferred to the new campus
 
 *2024-04-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181782) · `ta`
 
-வெளிவிவகார அமைச்சின் தூதரக விவகாரப் பிரிவு எதிர்வரும் மே மாதம் 2 ஆம் திகதி பத்தரமுல்ல ஸ்ரீ சுபூதிபுர வீதியில் உள்ள “சுஹுருபாய” கட்டிடத்தின் 16வது மாடியில் உள்ள புதிய வளாகத்திற்கு மாற்றப்படவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+The Embassy Affairs Division of the Ministry of External Affairs will move to a new campus on May 2. Services will be available from 8.30 am to 4.15 pm, Monday to Friday. Certificate services will be suspended on May 29th and 30th for system updates. Regional offices remain open, but certified documents will be issued on May 2024. Emergency applications should be submitted by 4.15 pm on May 26th.
 
-இந்நிலையில், திங்கள் முதல் வெள்ளி வரையிலான வழமையான  அலுவலக நேரங்களில், காலை 8.30 முதல் மாலை 4.15 வரை புதிய அலுவலக வளாகத்தில் அனைத்து தூதரக சேவைகளும் பொதுமக்களுக்கு வழங்கப்படும்.
+🟩
 
-சுஹுருபாயவில் உள்ள புதிய வளாகத்திற்கு சான்றளிப்பு மற்றும் சரிபார்ப்புப் பிரிவின் கணினிக் கட்டமைப்பை (e-DAS) மாற்றுவதற்கு வசதியாக, கொழும்பில் உள்ள தூதரக விவகாரப் பிரிவினால் வழங்கப்படும் ஆவண சான்றளிப்பு சேவைகள் 29 மற்றும் 30 ஆம் திகதிகளில் பொதுமக்களுக்கு தற்காலிகமாக இடைநிறுத்தப்படும்.
+The Embassy of External Affairs of the Ministry of External Affairs has announced that it will be transferred to the new campus on the 16th floor of the "Suhurupaya" building at Sri Subudipura Road, Battaramulla on May 2.
 
-எவ்வாறாயினும், மேற்படி இடைக்காலத்தின் போது, யாழ்ப்பாணம், திருகோணமலை, குருணாகல், கண்டி மற்றும் மாத்தறையில் உள்ள பிராந்திய தூதரக அலுவலகங்கள் வழமையான அலுவலக நேரங்களில் பொதுமக்களுக்காக திறந்திருக்கும்.
+In this case, all embassy services will be provided to the public at the new office premises from 8.30 am to 4.15 pm from Monday to Friday.
+
+Document Certificate Services provided by the Embassy in Colombo will be temporarily suspended for the public on the 29th and 30th of this month to facilitate the replacement of the Certificate and Verification Division's Computer Structure (E-DAS) for the new premises in Suhurupaya.
+
+However, during the Middle Ages, the regional embassy offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara were open to the public during the usual office.
+
+Application for certification can be submitted to regional offices as usual.However, certified documents will be given to applicants only on Thursday May 2024.
 
 ...
 
 [Data](articles/452d44a6.json)
+
+[Extended Data](ext_articles/452d44a6.ext.json)
 
 ---
 
@@ -344,33 +358,45 @@ The army or Sri Lanka Automobile Sports Association have been organized without 
 
 ---
 
-### லோகேஷ் கனகராஜின் 'கூலி'யாக மிரட்டும் சுப்பர் ஸ்டார் ரஜினிகாந்த்
+### Lokesh Kanakaraj's 'wage'
 
 *2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181781) · `ta`
 
-'ஜெயிலர்' படத்தின் பிரம்மாண்டமான வசூல் வெற்றியைத் தொடர்ந்து சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிக்கும் புதிய திரைப்படத்திற்கு 'கூலி' என பெயரிடப்பட்டு பிரத்யேக டீசர் வெளியிடப்பட்டிருக்கிறது.
+"Rajinikanth stars in 'Kuli', directed by Lokesh Kanakaraj, a sequel to 'Jailer'. The film, produced by Dr. Maran, has garnered anticipation and has already reached 4 million views. It's set against the backdrop of illegal activities and is expected to be released in multiple languages."
 
-இயக்குநர் லோகேஷ் கனகராஜ் இயக்கத்தில் உருவாகி வரும் 'கூலி' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த் கதையின் நாயகனாக நடிக்கிறார். அனிருத் இசையமைக்கும் இந்த திரைப்படத்தை சன் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கலாநிதி மாறன் தயாரிக்கிறார். இப்படத்தின் டைட்டில் மற்றும் டீசர் வெளியிடப்படும் என அறிவிக்கப்பட்டிருந்தது. இதனால் ரசிகர்களிடத்தில் பெரும் எதிர்பார்ப்பு ஏற்பட்டது.
+🟩
+
+Following the huge gross success of 'Jailer', the new movie starring Super Star Rajinikanth has been named 'Kuli' and has been released.
+
+Super Star Rajinikanth plays the hero of the film 'Kuli' directed by director Lokesh Kanakaraj. The film is being produced by Dr. Dr. Maran on behalf of Sun Pictures Company. It was announced that the film and the teaser would be released. This caused great anticipation in fans.
 
 ...
 
 [Data](articles/13d3083d.json)
 
+[Extended Data](ext_articles/13d3083d.ext.json)
+
 ---
 
-### பாடசாலைகளில் கல்வி நடவடிக்கைகள் நாளை ஆரம்பம்
+### Educational activities in schools are beginning tomorrow
 
 *2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181771) · `ta`
 
-அதேவேளை, இந்த வருடத்தின் பாடசாலை முதலாம்  தவணையின் இரண்டாம் கட்டம் நாளை ஆரம்பமாகி அடுத்த மாதம் 03 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+Schools start educational activities tomorrow. The second phase of the school's first installment runs until 3rd May, followed by the third stage from 20th to 31st May. GCE Ordinary Level Examination is from 6th to 15th May.
 
-முதலாம் தவணையின் மூன்றாம் கட்டம் அடுத்த மாதம் 20 ஆம் திகதி தொடக்கம் 31 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+🟩
 
-அத்தோடு, சாதாரணத்தர பரீட்சை  மே மாதம் 06 முதல் 15 ஆம் திகதி வரை இடம்பெறவுள்ளதாக பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
+Meanwhile, the second phase of the school's first installment of this year will begin tomorrow and will be held until the 3rd of next month.
+
+The third stage of the first installment will be held from 20th to 31st of next month.
+
+The Department of Examinations said that the GCE Ordinary Level Examination will be held from 6 to 15th May.
 
 ◼️
 
 [Data](articles/9cf7eaf1.json)
+
+[Extended Data](ext_articles/9cf7eaf1.ext.json)
 
 ---
 

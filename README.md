@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 18:22:28**
+As of **2024-04-23 18:34:29**
 
 ## Newspaper Stats
 
-*Scraped **20,467** Articles*
+*Scraped **20,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,161
 adalk | 1,710
 tamilmirrorlk | 2,363
 adaderanalk | 2,443
-virakesarilk | 3,068
+virakesarilk | 3,072
 dailymirrorlk | 3,188
 adaderanasinhalalk | 3,317
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,467 (100.0%) of 20,467 articles have been extended.
+20,467 (100.0%) of 20,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### தேசிய மக்கள் சக்தி மக்கள் மத்தியில் பிரபல்யமடைந்துள்ளது - சீன தூதுக்குழு
+
+*2024-04-23 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181793) · `ta`
+
+தேசிய மக்கள் சக்தி அரசியல் ரீதியில் துரிதமாக வளர்ச்சியடைந்து மக்கள் மத்தியில் பிரபல்யமடைந்துள்ளதாக சீன கம்யூனிசக் கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சர் சன் ஹய்ன் தலைமையிலான தூதுக்குழுவினர் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்கவிடம் குறிப்பிட்டுள்ளனர்.
+
+இலங்கைக்கு உத்தியோகப்பூர்வ விஜயத்தை மேற்கொண்டுள்ள சீன கம்யூனிச கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சர் உட்பட தூதுக்குழுவினர் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திஸாநாயக்கவை மக்கள் விடுதலை முன்னணியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (23) சந்தித்து பேச்சுவார்த்தையில் ஈடுபட்டனர்.
+
+இச்சந்திப்பில் சீன கம்யூனிச கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி அமைச்சரும் அக்கட்சியின் மத்திய செயற்குழு உறுப்பினருமான சன் ஹயன்,சீன கம்யூசின கட்சியின் சர்வதேச விவகார திணைக்களத்தின் பிரதி பணிப்பாளர் நாயகம் லின் தோ,கொழும்பில் உள்ள சீன தூதரகத்தின் கவுன்ஸிலர் சென் சியன்ஜியான்,
+
+...
+
+[Data](articles/b499190b.json)
+
+---
 
 ### India's massive bridge collapses
 
@@ -60,7 +76,7 @@ The authorities of the country have already begun an investigation into the inci
 
 Minister of Power and Energy Kanchana Wijesekera says the Ceylon Electricity Board (CEB) incurred a loss to the tune of Rs. 9.8 billion per annum as a result of the delays in the construction and commissioning of the Uma Oya hydropower plant.
 
-“The delays in the construction and commissioning of the hydropower plant due to various politically motivated protests is estimated to be a loss of Rs 9.8 Billion per annum to the CEB. The hydropower plant project was scheduled to be commissioned in December 2015,” the lawmaker said further in a post on X (formerly Twitter).
+“The delays in the construction and commissioning of the hydropower plant due to various politically motivated protests is estimated to be a loss of Rs 9.8 Billion per annum to the CEB. The hydropower plant project was scheduled to be commissioned in December 2015,” the lawmaker said in a post on X (formerly Twitter).
 
 Wijesekera’s remarks came after a meeting with the Managing Director, Chairman of the Board and the officials of the FARAB Group, an Iran-based contractor, as well as the Iranian Energy Ministry officials on Monday (22).
 
@@ -284,6 +300,24 @@ England's Natalie Sear is second with 764 points and South African player Laura 
 
 ---
 
+### புதிய வளாகத்திற்கு மாற்றப்படும் வெளிவிவகார அமைச்சின் தூதரக விவகாரப் பிரிவு
+
+*2024-04-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181782) · `ta`
+
+வெளிவிவகார அமைச்சின் தூதரக விவகாரப் பிரிவு எதிர்வரும் மே மாதம் 2 ஆம் திகதி பத்தரமுல்ல ஸ்ரீ சுபூதிபுர வீதியில் உள்ள “சுஹுருபாய” கட்டிடத்தின் 16வது மாடியில் உள்ள புதிய வளாகத்திற்கு மாற்றப்படவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், திங்கள் முதல் வெள்ளி வரையிலான வழமையான  அலுவலக நேரங்களில், காலை 8.30 முதல் மாலை 4.15 வரை புதிய அலுவலக வளாகத்தில் அனைத்து தூதரக சேவைகளும் பொதுமக்களுக்கு வழங்கப்படும்.
+
+சுஹுருபாயவில் உள்ள புதிய வளாகத்திற்கு சான்றளிப்பு மற்றும் சரிபார்ப்புப் பிரிவின் கணினிக் கட்டமைப்பை (e-DAS) மாற்றுவதற்கு வசதியாக, கொழும்பில் உள்ள தூதரக விவகாரப் பிரிவினால் வழங்கப்படும் ஆவண சான்றளிப்பு சேவைகள் 29 மற்றும் 30 ஆம் திகதிகளில் பொதுமக்களுக்கு தற்காலிகமாக இடைநிறுத்தப்படும்.
+
+எவ்வாறாயினும், மேற்படி இடைக்காலத்தின் போது, யாழ்ப்பாணம், திருகோணமலை, குருணாகல், கண்டி மற்றும் மாத்தறையில் உள்ள பிராந்திய தூதரக அலுவலகங்கள் வழமையான அலுவலக நேரங்களில் பொதுமக்களுக்காக திறந்திருக்கும்.
+
+...
+
+[Data](articles/452d44a6.json)
+
+---
+
 ### Army announces Fox Hill Journy Party
 
 *2024-04-23 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195897) · `si`
@@ -307,6 +341,36 @@ The army or Sri Lanka Automobile Sports Association have been organized without 
 [Data](articles/473d6d77.json)
 
 [Extended Data](ext_articles/473d6d77.ext.json)
+
+---
+
+### லோகேஷ் கனகராஜின் 'கூலி'யாக மிரட்டும் சுப்பர் ஸ்டார் ரஜினிகாந்த்
+
+*2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181781) · `ta`
+
+'ஜெயிலர்' படத்தின் பிரம்மாண்டமான வசூல் வெற்றியைத் தொடர்ந்து சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிக்கும் புதிய திரைப்படத்திற்கு 'கூலி' என பெயரிடப்பட்டு பிரத்யேக டீசர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் லோகேஷ் கனகராஜ் இயக்கத்தில் உருவாகி வரும் 'கூலி' எனும் திரைப்படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த் கதையின் நாயகனாக நடிக்கிறார். அனிருத் இசையமைக்கும் இந்த திரைப்படத்தை சன் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கலாநிதி மாறன் தயாரிக்கிறார். இப்படத்தின் டைட்டில் மற்றும் டீசர் வெளியிடப்படும் என அறிவிக்கப்பட்டிருந்தது. இதனால் ரசிகர்களிடத்தில் பெரும் எதிர்பார்ப்பு ஏற்பட்டது.
+
+...
+
+[Data](articles/13d3083d.json)
+
+---
+
+### பாடசாலைகளில் கல்வி நடவடிக்கைகள் நாளை ஆரம்பம்
+
+*2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181771) · `ta`
+
+அதேவேளை, இந்த வருடத்தின் பாடசாலை முதலாம்  தவணையின் இரண்டாம் கட்டம் நாளை ஆரம்பமாகி அடுத்த மாதம் 03 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+
+முதலாம் தவணையின் மூன்றாம் கட்டம் அடுத்த மாதம் 20 ஆம் திகதி தொடக்கம் 31 ஆம் திகதி வரை இடம்பெறவுள்ளது.
+
+அத்தோடு, சாதாரணத்தர பரீட்சை  மே மாதம் 06 முதல் 15 ஆம் திகதி வரை இடம்பெறவுள்ளதாக பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/9cf7eaf1.json)
 
 ---
 
@@ -2227,111 +2291,5 @@ Another individual who was inside the vehicle at the time has meanwhile escaped.
 [Data](articles/9b264125.json)
 
 [Extended Data](ext_articles/9b264125.ext.json)
-
----
-
-### SJB, SLPP MPs broker liquor licences for cronies
-
-*2024-04-23 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-SLPP-MPs-broker-liquor-licences-for-cronies/155-281195) · `en`
-
-Colombo, April 23 (Daily Mirror) - Some MPs from both Samagi Jana Balawegaya (SJB) and the ruling Sri Lanka Podujana Peramuna (SLPP) have reportedly brokered liquor licences from the government for their cronies for hefty commissions involved, Daily Mirror learns.
-
-The matter came to light after the religious leaders of some districts like Kandy inquired about the purported plans to set up liquor shops and those who helped securing licenses.
-
-In one instance, the prospective businessmen have cited the names of a few SJB MPs who helped them in getting licences. Incensed by the move, the matter has been brought to the notice of SJB leader Sajith Premadasa who has reportedly promised to look into it.
-
-Also, the matter is likely to be raised at the parliamentary group meeting this evening.
-
-It is common knowledge that licences for opening liquor shops are issued under political patronage. Also, politicians from different hues own such shops directly or through their proxies.
-
-...
-
-[Data](articles/4146b2a8.json)
-
-[Extended Data](ext_articles/4146b2a8.ext.json)
-
----
-
-### Showers at several places
-
-*2024-04-23 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195880) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, Central, Uva, and North Western Provinces, including coastal areas from Puttalam to Galle. About 75 showers tightly packed. Morning showers in some places. Public advised to reduce risks from wind and lightning.
-
-🟩
-
-The Galle and Matara districts have been in the Western, Sabaragamuwa, Central, Uva and North Western Provinces today (23).. Showers or thundershowers will occur at several places, after about 2.
-
-Showers or thundershowers will occur at several places in the evening or night in the evening or night in the North Central and Northern provinces.
-
-Showers or thundershowers will occur at several places in the coastal areas from Puttalam to Galle.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. There are about 75 times tight showers.
-
-The Department of Meteorology announces that the Sabaragamuwa, Central and Uva provinces can last a morning in some places in some places.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/8570915e.json)
-
-[Extended Data](ext_articles/8570915e.ext.json)
-
----
-
-### 25 lakhs of Sri Lankans left the country in two years;10,000 million USA to Sri Lanka
-
-*2024-04-23 05:58:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr7e5v7ng5o) · `si`
-
-In 2022-23, 2.56M Sri Lankans left the country, with 70% migrating in 2023. Sri Lanka received $3.789.4M from foreign workers in 2022, with Kuwait sending the most ($139.7M). In 2023, foreign workers sent $5.969.6M, with Kuwait again leading ($170.9M). Despite short-term disadvantages, experts abroad can benefit Sri Lanka economically and socially.
-
-🟩
-
-25 lakhs of Sri Lankans left the country in two years;10,000 million USA to Sri Lanka
-
-In the last two years, 2,565,365 Sri Lankans have left the country for various reasons.
-
-According to the statistics, 1,127,758 Sri Lankans and 1,437,607 Sri Lankans have migrated to foreign countries.
-
-In the year 2022 and 2023, there are only 24% of the entire overseas. That is, 608,925 Sri Lankans.
-
-It was 311,269 and 297,656 in 2022 and 297,656 in 2023.
-
-According to this data, 25,939 members of the Sri Lankans who migrated to foreign countries in 2022 were 25,939.
-
-The statistics confirm that 70% of the migrants migrated to foreign countries in 2023, the statistics confirm.
-
-Sri Lanka received foreign workers from foreign workers in 2022 and 2023
-
-According to the quarterly, Sri Lankans who have been issued by the Central Bank of Sri Lanka have increased significantly in the 2022 and 2023.
-
-Accordingly, foreign exchange sent to Sri Lanka by foreign workers in 2022 was US $ 3,789.4 million.
-
-...
-
-[Data](articles/ae782774.json)
-
-[Extended Data](ext_articles/ae782774.ext.json)
-
----
-
-### Moragahahena shooting
-
-*2024-04-23 05:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195879) · `si`
-
-In Moragahahena, police killed two in a shooting, with a third fleeing in a three-wheeler.
-
-🟩
-
-Two persons were killed in a shooting carried out by the police in the Moragahahena area.
-
-The police further states that another person in the three-wheeler was fled by the police.
-
-◼️
-
-[Data](articles/3659624e.json)
-
-[Extended Data](ext_articles/3659624e.ext.json)
 
 ---

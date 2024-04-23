@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 14:34:28**
+As of **2024-04-23 14:51:25**
 
 ## Newspaper Stats
 
-*Scraped **20,425** Articles*
+*Scraped **20,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,706
 tamilmirrorlk | 2,359
-adaderanalk | 2,437
-virakesarilk | 3,057
+adaderanalk | 2,438
+virakesarilk | 3,064
 dailymirrorlk | 3,176
 adaderanasinhalalk | 3,312
 
@@ -26,53 +26,157 @@ adaderanasinhalalk | 3,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,420 (100.0%) of 20,425 articles have been extended.
+20,425 (100.0%) of 20,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### චමරි අංක එකට
+### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
+
+*2024-04-23 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98793/navy-impounds-kerala-cannabis-worth-over-rs-4mn-in-mannar) · `en`
+
+Sri Lanka Navy has taken hold of over 10kg of Kerala cannabis, during a search operation conducted with the Division Crime Investigation Bureau Mannar in the Vankalai area, Mannar.
+
+The operation, conducted on Sunday (21) also led to the apprehension of 4 suspects and 1 van involved in the racket.
+
+SLNS Thambapanni, with the assistance of Division Crime Investigation Bureau Mannar, had intercepted a suspicious van, during a coordinated search carried out in Vankalai area.
+
+During further search of the vehicle, the raiding party managed to recover 5 parcels of Kerala cannabis weighing about 10kg and 690g. Along with the parcels of Kerala cannabis, the van and 4 suspects in it were taken into custody.
+
+The gross street value of Kerala cannabis held in this operation is believed to be more than Rs. 4 million.
+
+...
+
+[Data](articles/c61f277e.json)
+
+---
+
+### வடக்கில் போதைப்­பொருள் பாவ­னைகள் அதி­க­ரிப்பு : மூலச்­சக்­திகள் யார்?
+
+*2024-04-23 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181767) · `ta`
+
+வடக்கு மாகா­ணத்தில் இந்த ஆண்டின் முதல் காலாண்டில் நான்கு இளை­ஞர்கள் போதைப்­பொருள் பாவனை காரண­மாக மர­ணித்­துள்­ளார்கள். இவர்கள் அனை­வரும் 20 முதல் 30 வய­துக்கு உட்­பட்­ட­வர்கள்.
+
+குறிப்­பாக, மர­ணித்­த­வர்­களில் சாவ­கச்­சே­ரியைச் சேர்ந்த இளைஞர் ஒருவர் சிறை­யி­லி­ருந்து நீதி­மன்­றத்தின் பிணையில் விடு­விக்­கப்­பட்ட நிலையில் தனது விடு­த­லையை கொண்­டாடும் முக­மாக ஏற்­பாடு செய்த போதை விருந்­து­ப­சா­ரத்தின் போது மர­ண­ம­டைந்­துள்ளார்.
+
+மற்­றை­ய­வர்கள், அதி­க­ள­வான போதைப்­பொ­ருளை பயன்படுத்தியமை உள்ளிட்ட கார­ணங்­களால் உயி­ரி­ழந்­த­வர்­க­ளாக உள்­ளனர். இந்த மர­ணங்கள் நிகழ்ந்த பின்­னரும் கூட போதைப்­பொருள் பாவனை குறைந்­த­தாக தக­வல்கள் இல்லை.
+
+கடந்த வாரத்தில் குறிப்­பாக 2024.03.26 முதல் 2024.04.16 வரை­யான காலப்­ப­கு­தியில் யாழ்ப்­பா­ணத்தில் போதைப்­பொருள் தொடர்பில் 29 வழக்­கு­களும் தொட­ரப்­பட்­டுள்­ளன. அதில் 23.075 கிராம் அளவு ஹெரோயின் வைத்­தி­ருந்­தமை தொடர்பில் இரண்டு வழக்­கு­களும் 0.08 கிராம் அளவு ஐஸ் வைத்­தி­ருந்த­மைக்­காக ஒரு வழக்கும் தாக்கல் செய்­யப்­பட்­டுள்­ளது.
+
+...
+
+[Data](articles/3c5a25ad.json)
+
+---
+
+### Chamary numbers together
 
 *2024-04-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195894) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ එක්දින පිතිකාරිනියන් ශ්‍රේණිගත කිරීම්වල පළමු ස්ථානයට පැමිණීමට ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තු සමත්ව තිබේ.
+Chamari Atapattu, Sri Lanka's women's cricket leader, tops the International Cricket Council ratings.
+
+🟩
+
+Sri Lanka women's cricket leader Chamari Atapattu has been able to reach the first place in the International Cricket Council ratings.
 
 ◼️
 
 [Data](articles/76c57ca6.json)
 
+[Extended Data](ext_articles/76c57ca6.ext.json)
+
 ---
 
-### මේ වසරේ මේ දක්වා වැලිකඩ රැඳවියන් 28ක් මිය ගිහින්
+### An elderly man who tried to overcome Baku Strait
+
+*2024-04-23 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181746) · `ta`
+
+An elderly man, Gopal Rao, 78, from Bangalore, died of chest pain while attempting to swim the Baku Strait from Talaimannar to Dhanushkodi. The event involved 31 swimmers, including Gopal Rao, who left Rameswaram on Monday. The medical team confirmed his death, and the body was taken to Dhanushkodi for anatomy. The incident led to the abandonment of the swim by the remaining 30 participants.
+
+🟩
+
+An elderly man from India, who was trying to cross the Baku Strait, died of chest pain in the middle of the sea.
+
+In recent years, many swimmers from foreign and foreign states have been swimming in the 30 -kilometer Baku Strait from Talaimannar to Dhanushkodi in India.
+
+In this case, a group of 31 people left the boat from Rameswaram on Monday (22) by boat on Monday with the permission of the Indian and Sri Lankan government to swim from Talaimannar to Dhanushkodi Ariyal.
+
+From here they jumped into the sea at about 12.10 am today (23).
+
+Gopal Rao, 78, from Bangalore, who was third, was suddenly killed in the middle of the sea.
+
+Subsequently, the medical team who examined him confirmed that Gopal Rao died of chest pain.
+
+Subsequently, the body of Gopal Rao was taken to the Dhanushkodi Bridge Fisheries Harbor and was then placed at the hospital in Rameswaram for anatomy.
+
+As a accompanying man died, 30 people abandoned the achievement event from Mannar to Dhanushkodi.
+
+...
+
+[Data](articles/8af83446.json)
+
+[Extended Data](ext_articles/8af83446.ext.json)
+
+---
+
+### 28 Welikada inmates have died this year
 
 *2024-04-23 14:08:11* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-වැලිකඩ-රැඳවියන්-28ක්-මිය-ගිහින්/11-409220) · `si`
 
-මේ වසරේ ජනවාරි  මස සිට මේ දක්වා  වැලිකඩ බන්ධනාගාරය තුළ විවිධ හේතූන් මත පුද්ගලයන් 28 කු මිය ගොස් ඇතැයි බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි. එලෙස මියගිය අය අතර කාන්තාවන් දෙදෙනෙකුද වන බව දැනගන්නට ඇත.
+28 inmates, including 2 women, died in Welikada Prison this year. January and February saw 11 deaths, including 2 women. Prisoners in Colombo and Welikada died from various illnesses.
 
-ජනවාරි මස පුද්ගලයන් හය දෙනෙකුත්, පෙබරවාරි මස පුද්ගලයන් පස් දෙනෙකුත්, මාර්තු මස කාන්තාවක් ඇතුළු පුද්ගලයන් දස දෙනෙකුත් , මෙම මස ( අප්‍රේල්) මේ දක්වා කාන්තාවක් ඇතුළු පුද්ගලයන් හත් දෙනෙකුත් මිය ගොස් ඇතැයි වැඩිදුරටත් දැනගන්නට ඇත. පිරිමි පුද්ගලයකු සහ කාන්තාවක ගෙල වැලලාගෙන මියගොස් ඇත.
+🟩
 
-මැගසින් බන්ධනාගාරය , කොළඹ රිමාන්ඩ් බන්ධනාගාරය හා වැලිකඩ බන්ධනාගාරය යන පරිශ්‍රවල රඳවා සිටින රැඳවියන් විවිධ රෝගාබාධ වලට ලක්ව මියගොස්  ඇති බව වැඩිදුර ආරංචි මාර්ග සඳහන් කරයි.
+28 people have been killed in the Welikada Prison since January this year, police said.. It is learned that among the dead were two women.
+
+Six people and five persons including a woman including a woman in January and five persons including a woman in February have been killed in this month.. A man and a woman have died and died.
+
+In prisoners who are infected with the Magazine Prison, Colombo remanded and Welikada prisons were killed in various illnesses.
 
 ◼️
 
 [Data](articles/5e0e4c51.json)
 
+[Extended Data](ext_articles/5e0e4c51.ext.json)
+
 ---
 
-### ජීවිත දෙකෙක් බේරූ දඹුල්ලේ මාධ්‍යවේදී කාචන
+### Journalist of Dambulla Dambulla
 
 *2024-04-23 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-දෙකෙක්-බේරූ-දඹුල්ලේ-මාධ්‍යවේදී-කාචන/11-409219) · `si`
 
-වෑ මැඩිල්ල ජලාශය හරහා වයඹ ප්‍රදේශයට ජලය රැගෙන යෑම සඳහා අභිනවයෙන් ඉදිකරන ලද කොන්ක්‍රීට් සහිත වේල්ලකින් දිය නෑම සඳහා ගොස්  දියේ ගසාගෙන යමින් සිටි  දියණියකගේ සහ පියකුගේ ජීවිතය බේරා ගැනීමට  මාධ්‍යවේදී කාංචන කුමාර ආරියදාස මහතාට පසුගියදා හැකි විය
+A journalist from Dambulla saved a father and daughter from a dam by using a newly built concrete structure.
 
-මෙසේ ජල පහරට ගසාගෙන යද්දී දිවි බේරා ගනු  ලැබුවේ ගලේවෙල වලස්වැව ප්‍රදේශයේ පදිංචි තොලඹුගොල්ල විද්‍යාලයේ හයවැනි වසරේ ඉගෙනුම ලබන හිරුශි  කෞවශල්‍යා දියණිය සහ ඇයගේ පියා වූ රසික ගයාන් යන දෙදෙනාය.
+🟩
 
-කාංචන කුමාර ආරියදාස මහතා ඔහුගේ මිතුරන් තිදෙනෙකු සමග මෝටර් රථයෙන් ඇළ මාර්ගය මතින් ඇති මාර්ගයේ ගමන් කරමින් සිටියදී එකවරම මෙම දියණිය ජල පහරට ගසාගෙන යන අයුරු දැකීමත් සමග මෝටර් රථය නවතා  ඇඳගෙන සිටි ඇඳුම් පිටින්ම ඇල මාර්ගයට පැන  පිහිනා ගොස් එම දියණියගේ ජීවිතය බේරාගෙන ගොඩ ගන්නවත් සමඟ දියණියගේ කෑගැසිල්ලත් සමඟින් ඇයගේ ජීවිතය බේරා ගැනීමට ගිය පියාද ජලයේ ගසාගෙන යන බව දියණියගේ දැනුම් දීමත් සමඟ එම පියාගේ ද ජීවිතය බේරා ගැනීමට හැකි විය.
+Dissanayake of a newly built concrete to the northwestern reservoir, he was able to save the lives of a daughter and father-handed dam
+
+The sixth year of the sixth year of the sixth year of the Molevadu Vidyalaya, Galelassem, and her father, Rasika Gayan was saved while swimming.
+
+Karana Kumara Ariyadasa is walking along the road with three of his friends with three of his friends, with the daughter's screaming with the daughter's life, with the daughter's life, with the daughter's screamingWith the daughter's notice that the father who had gone to save her life was able to save the father's life.
 
 ◼️
 
 [Data](articles/b3024ea8.json)
+
+[Extended Data](ext_articles/b3024ea8.ext.json)
+
+---
+
+### போருக்குள் தள்ளப்பட்ட ஈரான் போருக்குள் வாழும் இஸ்ரேல்
+
+*2024-04-23 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181765) · `ta`
+
+இஸ்­ரே­லுக்கும் ஈரா­னுக்கும் இடை­யி­லான போர்ப் பதற்றம் அதி­க­ரித்­துள்ள இந்­நி­லையில், ஈரான், இஸ்ரேல்,  படை வல்­லமை குறித்து ஆராய்­வது அவ­சி­ய­மாகும். மத்­திய கிழக்குப் பகு­தி­களில் காட்­சிகள் பாரி­ய­ளவில் மாறி­வ­ரு­கி­றது.
+
+காசாவை இஸ்ரேல் முற்­று­கை­யிட்டு இருந்­தது.  ஆனால், ஈரான் எப்­போது வேண்­டு­மா­னாலும் தாக்­குதல் நடத்­தலாம் என்­பதால் இஸ்ரேல் காசாவின் கான்­யூனிஸ் நக­ரி­லி­ருந்து தங்கள் படை­களை வாபஸ் பெற்று வரு­வ­தாகத் தகவல் வெளி­யா­கி­யுள்­ளது.
+
+ஈரான் விமா­னப்­ப­டையின் பலம் குறை­வாக இருந்­தாலும், ஈரானின் ஏவு­கணை பலம் அதன் இரா­ணுவ பலத்தின் முக்­கிய அம்­ச­மாக உள்­ளது. மத்­திய கிழக்கு பிராந்­தி­யத்தில் அதி­க­ள­வி­லான ஏவு­க­ணை­களை ஈரான் வைத்­தி­ருக்­கி­றது என்று அமெ­ரிக்கப் பாது­காப்­புத்­துறை தெரி­வித்­துள்­ளது.
+
+...
+
+[Data](articles/4f53b99a.json)
 
 ---
 
@@ -146,17 +250,23 @@ All the decisions Maithripala Sirisena's decision have been imprisoned today bec
 
 ---
 
-### දුම්රිය සාමාන්‍යාධිකාරී හදිසියේ අභාවප්‍රාප්ත වෙයි
+### The General Manager of Railways passes away
 
 *2024-04-23 13:33:52* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සාමාන්‍යාධිකාරී-හදිසියේ-අභාවප්‍රාප්ත-වෙයි/11-409218) · `si`
 
-වත්මන් දුම්රිය සාමාන්‍යාධිකාරී කේ.ඩබ්. බණ්ඩාර මහතා හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් අද පෙරවරුවේ අභාවප්‍රපාත්ත වී තිබේ. වෘත්තීමය ඉංජිනේරුවරයෙක් වන ඒ මහතා රෝගී තත්ත්වයක් හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+Mr. Bandara, the General Manager of Railways, passed away suddenly. He joined the Railways Department in 1996 as an Assistant District Engineer and was appointed General Manager in November 2023.
 
-ඔහු වෘත්තියෙන් ඉංජිනේරුවරයෙක් වෙයි. 1996 වසරේදී සහකාර දිස්ත්‍රික් ඉංජිනේරුවරයෙක් ලෙස දුම්රිය දෙපාර්තමේන්තුවට එක්වූ ඒ මහතා විවිධ තනතුරු දරමින් 2023 වසරේ නොවැම්බර් මාසයේදී දුම්රිය සාමාන්‍යාධිකාරී ලෙස පත්විය.
+🟩
+
+Current Railway General Manager KW. Mr. Bandara has been delegated this morning due to a sudden illness. A professional engineer has been admitted to the Anuradhapura Teaching Hospital due to illness.
+
+He becomes an engineer by profession. In 1996, he joined the Railways Department as a Assistant District Engineer in 1996, he was appointed General Manager in November 2023.
 
 ◼️
 
 [Data](articles/cfa0c332.json)
+
+[Extended Data](ext_articles/cfa0c332.ext.json)
 
 ---
 
@@ -266,6 +376,26 @@ Dhammika Perera owned 51.01% of Hayleys PLC PLC's share capital on December 31, 
 
 ---
 
+### சிவனொளிபாத மலை யாத்திரீகர்களின் செயற்பாட்டால் சுற்றாடல் பாதிப்பு
+
+*2024-04-23 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181762) · `ta`
+
+சிவனொளிபாத மலைக்கு செல்லும் யாத்திரீகர்ககளால் போடப்படும் கழிவுப்பொருட்களால் சுற்றாடல் மாசடைகின்றது என சுற்றாடல் அதிகாரி தெரிவிக்கின்றார்.
+
+இவ்வருட ஆரம்பமான சிவனொளிபாத பாதமலை யாத்திரை காலத்தில் நல்லதண்ணியிலிருந்து - சிவனொளி பாத மலைக்கு செல்லும் வீதியில் உள்ளூர் யாத்திரிகர்களால் 25 தொன் மக்காத திண்மக் கழிவுகள் கொட்டப்பட்டுள்ளன.
+
+அவற்றில் 03 தொன் பிளாஸ்டிக் போத்தல்கள் உள்ளது என மஸ்கெலியா பிரதேச சபையின் சுற்றாடல் உத்தியோகத்தர் தெரிவித்துள்ளார்.
+
+இவ்வருடம் (2023/2024) சிவனொளிபாத மலை பருவகாலம்   ஆரம்பித்து 5 மாதங்களில் நல்லதண்ணி - சிவனொளிபாத மலை செல்லும் வழித்தடத்தில் இருந்து யாத்திரைக்கு வந்த உள்நாட்டு சுற்றுலாப் பயணிகள் சுமார் 25 தொன் மக்காத திண்மக் கழிவுகளை சுற்றாடலில் வீசி சென்றுள்ளனர்.
+
+இதில் சுமார் 03 தொன் பிளாஸ்டிக் போத்தல்கள் மட்டுமே  உள்ளதாக மஸ்கெலியா பிரதேச சபையின் சுற்றாடல் உத்தியோகத்தர் திருமதி ரசிகா சமரநாயக்க தெரிவித்தார்.
+
+...
+
+[Data](articles/bfd24885.json)
+
+---
+
 ### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
 
 *2024-04-23 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-forms-committee-to-probe-Diyatalawa-Fox-Hill-Supercross-accident/108-281203) · `en`
@@ -306,6 +436,42 @@ Earlier in the day, Sunak held a rare morning press conference to demand that th
 
 ---
 
+### தியத்தலாவை கார் பந்தய விபத்து : விசாரணைக்கு 7 பேர் அடங்கிய குழு நியமிப்பு !
+
+*2024-04-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181760) · `ta`
+
+தியத்தலாவையில் இடம்பெற்ற கார் பந்தயத்தின் போது ஏற்பட்ட விபத்துக்கான காரணம் குறித்து விசாரணைகளை மேற்கொள்ள 7 பேர் அடங்கிய குழு நியமிக்கப்பட்டுள்ளதாக இராணுவ ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+கடந்த ஞாயிற்றுக்கிழமை தியத்தலாவையில் இடம்பெற்ற “Fox Hill Super Cross 2024” கார் பந்தயத்தின் போது ஏற்பட்ட விபத்தில் 7 பேர் உயிரிழந்ததுடன் 21 பேர் காயமடைந்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6219b418.json)
+
+---
+
+### எலொன் மக்ஸ்க் திமிர்பிடித்த கோடீஸ்வரர் ; அவுஸ்திரேலிய பிரதமர் சாடல்
+
+*2024-04-23 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181755) · `ta`
+
+எலொன் மக்ஸ்கினை திமிர்பிடித்த கோடீஸ்வரர் என அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் சாடியுள்ளார்.
+
+சிட்னி தேவாலயத்தில் இடம்பெற்ற கத்திக்குத்து வீடியோவை எக்ஸ் தளம் அகற்றுவதற்கு மறுத்துள்ள நிலையிலேயே எலொன் மஸ்க்கினை அவுஸ்திரேலிய  பிரதமர் திமிர்பிடித்த கோடீஸ்வரர் என சாடியுள்ளார்.
+
+கடந்த வாரம் இந்த வீடியோக்களை மறைக்கவேண்டும் என சமூக ஊடகங்களிற்கு அவுஸ்திரேலிய நீதிமன்றம் உத்தரவிட்டது.
+
+நீதிமன்றத்தில் உள்ள வழக்கினை அடிப்படையாக வைத்து இது குறித்த முடிவை எடுப்பேன் என எக்ஸ் தளம்  தெரிவித்திருந்தது.
+
+மஸ்க் தான் சட்டத்திற்கு அப்பாற்பட்டவர் என்று மாத்திரமில்லை பொதுவான ஒழுக்கநெறிகளிற்கு அப்பாற்பட்டவர் என கருதுகின்றார் என அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+
+சிட்னி தேவாலய கத்திக்குத்து தொடர்பான வீடியோவை அகற்றாவிட்டால் சமூக ஊடகங்களிற்கு கடும் அபராதம் விதிக்கப்போவதாக  கடந்தவாரம் அவுஸ்திரேலியாவின் ஈபாதுகாப்பு ஆணையாளர் எச்சரித்திருந்தார்.
+
+...
+
+[Data](articles/ac14503a.json)
+
+---
+
 ### Names of companies involved in the pyramid notice
 
 *2024-04-23 12:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ஈடுபட்ட-நிறுவனங்களின்-பெயர்கள்-அறிவிப்பு/175-336232) · `ta`
@@ -323,6 +489,26 @@ Investigations are being carried out to determine whether the following companie
 [Data](articles/e50e34f9.json)
 
 [Extended Data](ext_articles/e50e34f9.ext.json)
+
+---
+
+### ஏமாற வேண்டாம் ! 8 நிறுவனங்களின் பட்டியல் வெளியானது !
+
+*2024-04-23 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181752) · `ta`
+
+இலலங்கையில் தடைசெய்யப்பட்ட பிரமிட்  திட்டங்களை நடத்தும் மேலும் 8 நிறுவனங்களின் விபரங்களை இலங்கை மத்திய வங்கி வெளியிட்டுள்ளது.
+
+இது தொடர்பான அறிவித்தலொன்றை விடுத்து மத்திய வங்கி குறித்த நிறுவனங்கள் தொடர்பான விபரங்களை தெரிவித்துள்ளது.
+
+அதுமாத்திரமன்றி இத்தகைய திட்டங்கள் தொடர்பில் மிகுந்த அவதானத்துடனும் விழிப்புடனும் செயற்படுமாறு பொதுமக்களுக்கு ஆலோசனை வழங்கியுள்ளது.
+
+தடைசெய்யப்பட்ட பிரமிட் திட்டத்தை நேரடியாகவோ அல்லது மறைமுகமாகவோ தொடங்கும், வழங்குகின்ற, விளம்பரப்படுத்துகின்ற, நடத்துகின்ற, நிர்வகிக்கின்ற எந்தவொரு நபரும் தண்டனைக்குரிய குற்றத்தைச் செய்கிறார் என்று மத்திய வங்கி கூறுகிறது.
+
+சில பிரமிட் திட்டங்களை நடத்தும் நிறுவனங்கள் இலங்கை மத்திய வங்கியுடன் சில உடன்படிக்கைகளை மேற்கொண்டுள்ளதாக தெரிவிக்கும் சில தரப்பினரின் கூற்றுக்களை நிராகரிப்பதாக இலங்கை மத்திய வங்கி சுட்டிக்காட்டியுள்ளது.
+
+...
+
+[Data](articles/daa7abe3.json)
 
 ---
 
@@ -365,6 +551,24 @@ The notice was published by the CBSL following investigations conducted in accor
 [Data](articles/928765fd.json)
 
 [Extended Data](ext_articles/928765fd.ext.json)
+
+---
+
+### ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் தலைவர் கட்சியை ஏலம் விடுவதாக மஹிந்த அமரவீர தெரிவிப்பு
+
+*2024-04-23 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181750) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் தலைவர் கட்சியை ஏலம் விடுவதாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவரும், விவசாய அமைச்சருமான மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+அத்தோடு, சுதந்திரக் கட்சியின் முன்னாள் தலைவர்  தனது பாதுகாப்பு, வழக்கு மற்றும் நிதித் தேவைகளுக்காக இந்தக் கட்சியை பயன்படுத்துவதாகவும் தெரிவித்துள்ளார்.
+
+கொழும்பில் நேற்று  திங்கட்கிழமை (22) நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு தெரிவித்தபோதே இவ்வாறு தெரிவித்துள்ளார்.
+
+மைத்திரிபால சிறிசேனவுக்கு  கட்சியின் நிறைவேற்று சபையில் இணையும் தகுதி  இல்லாத காரணத்தினாலும், பதில் செயலாளர்  சட்ட நடவடிக்கைகளை  அவமதித்துள்ளமையினால் இது குறித்து எதிர்காலத்தில் சட்ட நடவடிக்கைகளில் ஈடுபடவுள்ளதாக  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3ebb1af3.json)
 
 ---
 
@@ -526,19 +730,25 @@ At the same time, more than 2,000 people were killed in the 7.3 magnitude earthq
 
 ---
 
-### හෙලිකොප්ටර් දෙකක් ගුවනේදී ගැටෙයි
+### Two helicopters clash in the air
 
 *2024-04-23 11:13:58* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-දෙකක්-ගුවනේදී-ගැටෙයි/11-409217) · `si`
 
-මැලේසියාවේ ලුමුට් නගරය ආසන්නයේ නාවික හමුදාවේ සැමරුම් උත්සවයක් සඳහා පෙරහුරුවීමක් අතරතුර හෙලිකොප්ටර්  දෙකක් එකිනෙක ගැටී අනතුරට පත්ව  10 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+In Malaysia, during navy celebrations near Lumuth, two helicopters crashed: one into a track and another into a swimming pool, killing 10 staff members.
 
-එක් හෙලිකොප්ටරයක් ධාවන පථයකට කඩා වැටී ඇති අතර අනෙක ඒ අසල තිබූ පිහිනුම් තටාකයකට කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තාකර තිබුණි.
+🟩
 
-අනතුරට පත්වන අවස්ථාවේ හෙලිකොප්ටර් යානා දෙකෙහි කාර්යමණ්ඩල සාමාජිකයින් 10 දෙනෙකු පමණ සිට ඇති බව වාර්තා වෙයි.
+Foreign Army commemoration in the navy celebrations near Lumuth in Malaysia, two helicopters were killed and 10 were killed.
+
+One helicopter has collapsed on a track and the other had crashed into a nearby swimming pool.
+
+At the time, there were about 10 staff members in the two helicopters.
 
 ◼️
 
 [Data](articles/144306c7.json)
+
+[Extended Data](ext_articles/144306c7.ext.json)
 
 ---
 
@@ -653,38 +863,6 @@ The event was taken to the incident and the Magistrate Chandana Kalazuriya Magis
 [Data](articles/db707f24.json)
 
 [Extended Data](ext_articles/db707f24.ext.json)
-
----
-
-### An elderly man who tried to overcome Baku Strait
-
-*2024-04-23 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181746) · `ta`
-
-An elderly man, Gopal Rao, 78, from Bangalore, died of chest pain while attempting to swim the Baku Strait from Talaimannar to Dhanushkodi. The event involved 31 swimmers, including Gopal Rao, who left Rameswaram on Monday. The medical team confirmed his death, and the body was taken to Dhanushkodi for anatomy. The incident led to the abandonment of the swim by the remaining 30 participants.
-
-🟩
-
-An elderly man from India, who was trying to cross the Baku Strait, died of chest pain in the middle of the sea.
-
-In recent years, many swimmers from foreign and foreign states have been swimming in the 30 -kilometer Baku Strait from Talaimannar to Dhanushkodi in India.
-
-In this case, a group of 31 people left the boat from Rameswaram on Monday (22) by boat on Monday with the permission of the Indian and Sri Lankan government to swim from Talaimannar to Dhanushkodi Ariyal.
-
-From here they jumped into the sea at about 12.10 am today (23).
-
-Gopal Rao, 78, from Bangalore, who was third, was suddenly killed in the middle of the sea.
-
-Subsequently, the medical team who examined him confirmed that Gopal Rao died of chest pain.
-
-Subsequently, the body of Gopal Rao was taken to the Dhanushkodi Bridge Fisheries Harbor and was then placed at the hospital in Rameswaram for anatomy.
-
-As a accompanying man died, 30 people abandoned the achievement event from Mannar to Dhanushkodi.
-
-...
-
-[Data](articles/8af83446.json)
-
-[Extended Data](ext_articles/8af83446.ext.json)
 
 ---
 
@@ -2051,143 +2229,5 @@ The event commenced with a thought-provoking panel discussion featuring Independ
 [Data](articles/490a14f1.json)
 
 [Extended Data](ext_articles/490a14f1.ext.json)
-
----
-
-### Milinda meets Indian Finance Minister and National Security Adviser
-
-*2024-04-23 00:55:50* · [`dailyftlk`](https://www.ft.lk/opinion/Milinda-meets-Indian-Finance-Minister-and-National-Security-Adviser/14-760903) · `en`
-
-Pathfinder Foundation Founder and former Ambassador Milinda Moragoda last week met with Indian Finance Minister Nirmala Sitharaman and National Security Adviser Shri Ajit Doval in Delhi. Moragoda is on a short visit to India and has had discussions with several senior government leaders and heads of think tanks.
-
-◼️
-
-[Data](articles/275888ff.json)
-
-[Extended Data](ext_articles/275888ff.ext.json)
-
----
-
-### Foreign Ministry team in New Zealand on proposed resident mission in Wellington
-
-*2024-04-23 00:55:13* · [`dailyftlk`](https://www.ft.lk/opinion/Foreign-Ministry-team-in-New-Zealand-on-proposed-resident-mission-in-Wellington/14-760902) · `en`
-
-Following the decision by the Cabinet of Ministers to open a Sri Lanka High Commission in Wellington, New Zealand, an official delegation led by Director General Pradeepa Saram of the Overseas Assets Management and Development Division in the Ministry, is in New Zealand from 22 to 25 April 2024 to attend to matters related to the opening of the High Commission.
-
-During the visit, the delegation will engage in meetings with officials of the Ministry of Foreign Affairs and Trade of New Zealand, and other related agencies and stakeholders.
-
-New Zealand has a significant Sri Lankan expatriate community comprising mostly professionals and students. The opening of a resident mission will facilitate outreach to the community and pursuit of stronger collaboration in the fields of trade, education, sports, science and technology, tourism and health.
-
-New Zealand opened a resident mission in Sri Lanka in 2021, which is an important milestone in the bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/b61cc126.json)
-
-[Extended Data](ext_articles/b61cc126.ext.json)
-
----
-
-### Why bring science into Buddhist discourse?
-
-*2024-04-23 00:42:17* · [`dailyftlk`](https://www.ft.lk/opinion/Why-bring-science-into-Buddhist-discourse/14-760890) · `en`
-
-Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a half millennia ago have crept back into Buddhism. It is true that some of it has cultural, artistic, or sentimental values. But if the human affliction for beliefs and mysticism, or the shortcomings in our sensory apparatus, are used to exploit the innocent and waste valuable resources that could be put into better use, that would be an insult to Dhamma, its author, and purveyors. The preferred outcome of comparing Buddhism and science would be to enable science savvy young generations to relate to Buddha Dhamma and prevent falling prey to mysticism
-
-...
-
-[Data](articles/d56f639e.json)
-
-[Extended Data](ext_articles/d56f639e.ext.json)
-
----
-
-### Why bring science into Buddhist discourse?
-
-*2024-04-23 00:42:17* · [`dailyftlk`](https://www.ft.lk/columns/Why-bring-science-into-Buddhist-discourse/4-760890) · `en`
-
-Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a half millennia ago have crept back into Buddhism. It is true that some of it has cultural, artistic, or sentimental values. But if the human affliction for beliefs and mysticism, or the shortcomings in our sensory apparatus, are used to exploit the innocent and waste valuable resources that could be put into better use, that would be an insult to Dhamma, its author, and purveyors. The preferred outcome of comparing Buddhism and science would be to enable science savvy young generations to relate to Buddha Dhamma and prevent falling prey to mysticism
-
-...
-
-[Data](articles/e691822a.json)
-
-[Extended Data](ext_articles/e691822a.ext.json)
-
----
-
-### An ‘arriere-pensee’ to proposed debate of SJB vs JVP/NPP
-
-*2024-04-23 00:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/An-arriere-pensee-to-proposed-debate-of-SJB-vs-JVP-NPP/14-760889) · `en`
-
-The Leader of the Opposition (LoO) having a public debate with Anura Kumara Dissanayaka (AKD) is simply a mismatch and an insult to the office of the LoO.
-
-It is a globally accepted practice that an argument, debate or a discourse on an important issue or subject has to be conducted between two equal individuals, groups or societies. Otherwise, it will become a joke or useless exercise that fails to meet the expected objectives.
-
-The office of the LoO is a statutorily established legislative body headed by the leader of the second largest political party in Parliament and not affiliated to the government in a parliamentary democracy according to Thomas Erskine May (1815 – 1886).
-
-The Leader of the Opposition is the Prime Minister-in waiting in a Westminster form of governance or in any other legislature that practices a form of parliamentary democracy. He or she has a responsibility to safeguard the honour, dignity and statutory obligations of himself and his office.
-
-...
-
-[Data](articles/5eef5206.json)
-
-[Extended Data](ext_articles/5eef5206.ext.json)
-
----
-
-### An ‘arriere-pensee’ to proposed debate of SJB vs JVP/NPP
-
-*2024-04-23 00:39:46* · [`dailyftlk`](https://www.ft.lk/columns/An-arriere-pensee-to-proposed-debate-of-SJB-vs-JVP-NPP/4-760889) · `en`
-
-The Leader of the Opposition (LoO) having a public debate with Anura Kumara Dissanayaka (AKD) is simply a mismatch and an insult to the office of the LoO.
-
-It is a globally accepted practice that an argument, debate or a discourse on an important issue or subject has to be conducted between two equal individuals, groups or societies. Otherwise, it will become a joke or useless exercise that fails to meet the expected objectives.
-
-The office of the LoO is a statutorily established legislative body headed by the leader of the second largest political party in Parliament and not affiliated to the government in a parliamentary democracy according to Thomas Erskine May (1815 – 1886).
-
-The Leader of the Opposition is the Prime Minister-in waiting in a Westminster form of governance or in any other legislature that practices a form of parliamentary democracy. He or she has a responsibility to safeguard the honour, dignity and statutory obligations of himself and his office.
-
-...
-
-[Data](articles/77a81d92.json)
-
-[Extended Data](ext_articles/77a81d92.ext.json)
-
----
-
-### Six suitors in the running for SriLankan Airlines
-
-*2024-04-23 00:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-suitors-in-the-running-for-SriLankan-Airlines/108-281184) · `en`
-
-Malaysia’s AirAsia and Sri Lanka’s privately-owned low-cost carrier FitsAir among bidders
-
-The government’s search for a suitor for national carrier SriLankan Airlines has narrowed down with a total of six bidders showing interest in the debt-ridden entity.
-
-The State-Owned Restructuring Unit (SOERU) yesterday shared that Requests for Qualification (RfQs) were received from AirAsia Consulting Sdn. Bhd., Dharshaan Elite Investment Holding (Pvt.) Ltd, FITS Aviation (Private) Limited, Sherisha Technologies Private Limited, Treasure Republic Guardians Limited and Hayleys PLC.
-
-The RfQs will be evaluated as per the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023. International Finance Corporation (IFC), as the transaction advisor for the divestiture of SriLankan Airlines Limited, will continue to advise the government of Sri Lanka.
-
-...
-
-[Data](articles/b0dc1062.json)
-
-[Extended Data](ext_articles/b0dc1062.ext.json)
-
----
-
-### Importance of intellectuality with humanity in politicians
-
-*2024-04-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Importance-of-intellectuality-with-humanity-in-politicians/172-281175) · `en`
-
-Palitha Thewarapperuma, a controversial politician from the Kalutara district met a tragic death last week. His popularity was reflected in the huge crowd that gathered, including thousands of Muslim men and women from many parts of the district.
-
-He had been famous for what many described to be stunts or antiques, but he always represented the sensitivities of the ordinary people, except for one or two incidents. In December 2013, when the authorities decided to close the Badureliya hospital, Thewarapperuma chained himself to a truck and threatened to fast to death. The hospital was reopened
-
-...
-
-[Data](articles/37c9b1a8.json)
-
-[Extended Data](ext_articles/37c9b1a8.ext.json)
 
 ---

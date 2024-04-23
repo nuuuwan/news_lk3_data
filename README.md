@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 09:34:01**
+As of **2024-04-23 09:52:51**
 
 ## Newspaper Stats
 
-*Scraped **20,377** Articles*
+*Scraped **20,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,700
 tamilmirrorlk | 2,348
-adaderanalk | 2,431
+adaderanalk | 2,432
 virakesarilk | 3,051
 dailymirrorlk | 3,171
-adaderanasinhalalk | 3,303
+adaderanasinhalalk | 3,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,376 (100.0%) of 20,377 articles have been extended.
+20,377 (100.0%) of 20,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Railways chief H.M.K.W. Bandara passes away
+
+*2024-04-23 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98788/railways-chief-hmkw-bandara-passes-away) · `en`
+
+General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morning due to a sudden illness.
+
+◼️
+
+[Data](articles/4cc50609.json)
+
+---
+
+### දුම්රිය සාමාන්‍යාධිකාරීවරයා අභාවප්‍රාප්ත වෙයි
+
+*2024-04-23 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195885) · `si`
+
+දුම්රිය සාමාන්‍යාධිකාරී එච්.එම්.කේ.ඩබ්ලිව්. බණ්ඩාර මහතා අද (23) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+
+හදිසියේ ඇති වූ රෝගාබාධයක් හේතුවෙන් ඒ මහතා අනුරාධපුර රෝහලට ඇතුළත් කර සිටියදී එලෙස අභාවප්‍රාප්ත ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+
+මාතලේ විද්‍යා විද්‍යාලයේ ආදි ශිෂ්‍යයකු වූ ඒ මහතා පේරාදෙණිය හා මොරටු විශ්වවිද්‍යාලවලින් උසස් අධ්‍යාපනය ලබා ඉංජිනේරුවරයකු ලෙස වෘත්තිය ජීවිතය ඇරඹීය.
+
+දුම්රිය ප්‍රධාන ඉංජිනේරු (මාර්ග හා කර්මාන්ත) හා අතිරේක සාමාන්‍යාධිකාරි (යටිතල පහසුකම්) පදවි ඇතුළු දුම්රිය ක්ෂේත්‍රයේ ඉහළ පදවි රැසක් ද ඔහු විසින් හොබවනු ලැබීය.
+
+◼️
+
+[Data](articles/96d81322.json)
+
+---
 
 ### Series of earthquakes rattle Taiwan, centred on east coast
 
@@ -1948,19 +1978,25 @@ Israel responded by launching its most intense ever war in Gaza with the aims of
 
 ---
 
-### ෆොක්ස්හිල් අනතුර ගැන යුද හමුදාවෙන් පරීක්ෂණයක්
+### Army's inquiry into Foxahill accident
 
 *2024-04-22 19:08:25* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-අනතුර-ගැන-යුද-හමුදාවෙන්-පරීක්ෂණයක්/11-409212) · `si`
 
-දියතලාව Fox Hill සුපර්ක්‍රොස් තරගාවලිය අතරතුර  පෙරේදා (21දා) සිදු වූ අනතුර සම්බන්ධයෙන්  යුද හමුදාව විසින් අභ්‍යන්තර පරීක්ෂණයක් සිදුකරන බව  යුදහමුදා මාධ්‍ය ප්‍රකාශක (අධ්‍යක්‍ෂ ජෙනරාල් ජනමාධ්‍ය හා මනෝ විද්‍යාත්මක මෙහෙයුම්) මේජර් ජෙනරල් රසික කුමාර  මහතා සඳහන් කළේය.
+The Army is conducting an internal investigation into the Diyatalawa accident, following police inquiries. The Army's investigation aims to identify the cause and responsible parties.
 
-පොලීසිය විසින්ද පරීක්ෂණයක් සිදුකරන බවත්, අභ්‍යන්තර පරීක්ෂණය යුද හමුදාපති තුමාගේ උපදෙස් මත සිදුවන බවත් අද කළ විමසිමකදී හෙතෙම පවසා සිටියේය.
+🟩
 
-යුද හමුදාව  සිදුකරන පරික්ෂණයේදී  අනතුර සම්බන්ධයෙන් හා  මීට හේතු වූ කරුණු පිළිබඳවත් ඉදිරියේදී ගත යුතු ක්‍රියා මාර්ග හා මේ පිළිබඳව හා  මීට වගකිව යුතු පිරිස් සිටිනවාද යන්න සොයා බැලීමට නියමිතව තිබෙන බවද ඒ මහතා සඳහන් කළේය.
+The Army Media Spokesperson (Director General of Mass Media and Psychological Operations) stated that the Army will conduct an internal investigation into the accident held on Monday in Diyatalawa.
+
+Inquiring today, the police are conducting an investigation and the internal investigation was carried out on the instructions of the Army.
+
+He said that at the time of the army, the accident and the measures should be found on the occasion and the measures to be taken and responsible.
 
 ◼️
 
 [Data](articles/16548c71.json)
+
+[Extended Data](ext_articles/16548c71.ext.json)
 
 ---
 
@@ -2111,63 +2147,5 @@ Ministry of Urban Development and Housing, Ministry of Power and Energy, Ministr
 [Data](articles/6341913a.json)
 
 [Extended Data](ext_articles/6341913a.ext.json)
-
----
-
-### Another online finance cheater caught
-
-*2024-04-22 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195871) · `si`
-
-Police in Emaduwa, Galle, arrested a 32-year-old for financial fraud, seizing a computer, phones, bank cards, and Rs. 40,000. The suspect, avoiding court, was caught using facial and WhatsApp for fraud.
-
-🟩
-
-Police have arrested a suspect who was imposed on financial media column.
-
-The suspect is a 32 year old resident of Emaduwa, Galle.
-
-The suspect has been avoided a long time to a court in connection with a court of law against the suspect.
-
-The suspect was arrested by Thihagoda Police at Boralesgamuwa.
-
-The police have taken a tab computer, six mobile phones, eight different bank cards and about Rs. 40,000.
-
-Police investigations have revealed that the suspect was credited to various parts of the country from Rs. 3,000 to Rs.
-
-The suspect has revealed that the suspect had committed the fraud as the suspect had been conducted by the police, police said.
-
-The suspect has been used to use the facial and whatsapp for this purpose.
-
-The suspect was produced before the Matara Magistrate's Court today (22) and Thihagoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/af438134.json)
-
-[Extended Data](ext_articles/af438134.ext.json)
-
----
-
-### Surely, in Sri Lanka's black money has been invested in bonds
-
-*2024-04-22 17:58:09* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කළු-සල්ලි-බැඳුම්කරවල-ආයෝජනය-කර-ඇති-බවට-සැකයක්/11-409207) · `si`
-
-Sri Lanka's black money in bonds; JHU leader criticizes govt delay in debt restructuring; discussions with China, Official Borrower Committee unsuccessful; bond owners' restructuring plan rejected; $1.678B debt added daily; government's delay risks Monetary Fund's loss; bondholders hope for payment upon restructuring completion; society believes in black money from past bond fraud; talks between bond owners and govt are one-sided; govt should publish agreement contents before signing.
-
-🟩
-
-The Leader of the JHU, the leader of the JHU, says that the government's delegation has caused the government to delay in the restructuring of the debt until the end of the presidential election.
-
-He was speaking at a media briefing held at the party office in party office today (2024.04.22). The leader of the Plandani Hela Heritage said:
-
-"The government is currently discussing the restructuring of credit with three parties. All discussions with China and the Official Borrower Committee were unsuccessful.The government refused the debtor restructuring plan submitted by the bond owners.
-
-The chest of the chest was burned by dollars of dollars and not paying the bonds by investing bonds. 2022 Not paid a century in the dollar bonds.The bond Thero hopes a delay interest as it has an opportunity when they are trapped without paying their money.At December 31, 2023, the late $ 1,678 million has been added to $ 1,678 million.This goes up every day.
-
-...
-
-[Data](articles/2e14d7fc.json)
-
-[Extended Data](ext_articles/2e14d7fc.ext.json)
 
 ---

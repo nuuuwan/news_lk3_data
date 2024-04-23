@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 11:18:15**
+As of **2024-04-23 11:34:14**
 
 ## Newspaper Stats
 
-*Scraped **20,388** Articles*
+*Scraped **20,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,36 +13,92 @@ bbccomsinhala | 212
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
-dailyftlk | 1,131
+dailyftlk | 1,133
 economynextcom | 1,160
-adalk | 1,701
+adalk | 1,702
 tamilmirrorlk | 2,349
 adaderanalk | 2,434
 virakesarilk | 3,051
-dailymirrorlk | 3,173
-adaderanasinhalalk | 3,306
+dailymirrorlk | 3,174
+adaderanasinhalalk | 3,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,387 (100.0%) of 20,388 articles have been extended.
+20,388 (100.0%) of 20,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### முச்சக்கர வண்டி மீது துப்பாக்கிச்சூடு - இருவர் மரணம்
+### තවත් රට රැකියා ජාවාරමක්
+
+*2024-04-23 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195888) · `si`
+
+විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ පුද්ගලයෙකු බඩල්ගම ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+විදේශ රැකියා ආයතනයක් පවත්වාගෙන යමින් කැනඩාවේ සහ වෙනත් යුරෝපීය රටවල රැකියා ලබාදෙන බව පවසා මුදල් වංචා කිරීම සම්බන්ධයෙන් සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 29 හැවිරිදි සඳලංකාව ගොඩැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකු බව සඳහන්ය.
+
+සැකකරු පන්නල ප්‍රදේශයේ මෙම ව්‍යාජ විදේශ රැකියා ආයතනය පවත්වාගෙන යනු ලබන අතර කාන්තාවකගෙන් සහ පිරිමි පුද්ගලයෙකුගෙන් කැනඩාවට යවන බව පවසා රුපියල් ලක්ෂ 2ක මුදලක් ලබා ගැනීමට බඩල්ගම නගරයට පැමිණි අවස්ථාවේ දී ඔහු අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සම්බන්ධයෙන් සිදුකළ විමර්ශනයේ දී ඔහුගේ නිවසේ තිබී විදේශ ගමන් බලපත්‍ර 50ක් පමණ සොයාගෙන ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/e64291c5.json)
+
+---
+
+### Seeking blessings on Bak Poya day
+
+*2024-04-23 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Seeking-blessings-on-Bak-Poya-day/110-281201) · `en`
+
+Devotees at the Pillewa Bodhiraja Temple and Bellanwila Rajamaha Viharaya are seen taking part in religious observances on Bak Full Moon Poya Day which falls today. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/3ccf197a.json)
+
+---
+
+### පාතාල ක්‍රියාකාරකම් රැසකට සම්බන්ධ පුද්ගලයන්  දෙදෙනෙක් පොලිස් වෙඩි පහරින් මිය යයි
+
+*2024-04-23 10:40:54* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-ක්‍රියාකාරකම්-රැසකට-සම්බන්ධ-පුද්ගලයන්--දෙදෙනෙක්-පොලිස්-වෙඩි-පහරින්-මිය-යයි/11-409216) · `si`
+
+පාතාල  ක්‍රියාකාරකම් රැසකට සම්බන්ධ පුද්ගලයන් දෙදෙනෙක් පිස්තෝල ගිනි අවියකින් පොලිසිය දෙසට වෙඩි ප්‍රහාර එල්ල කර ත්‍රී රෝද රථයකින් පලායමින් සිටියදී මොරගහහේන  මිල්ලෑව හන්දිය පුවක් වත්ත ප්‍රදේශයේදී පොලිස් වෙඩි පහරින් ජීවිතක්ෂයට පත්ව ඇතැයි මොරගහහේන  පොලිසිය කියයි.
+
+මීගොඩ පොලිසියේ නිලධාරීන්  බෙරුකැටිය ඉන්ධන පිරවුම්හල ආසන්නයේ  ක්ෂණික මාර්ග බාධකයක් දමා රථවාහන සෝදිසි කිරීමේ යෙදී සිටියදී තීරෝද රථයක් නැවතීමට අණකර ඇතත් එය නොනවත්වා පෙ දෙසට වෙඩි ප්‍රහාර එල්ල කර තීරෝද රථය මොරගහායන නගරය දෙසට පලායාමේදී ඒ සම්බන්ධයෙන් ක්ෂණිකව පොලිස් පණිවිඩ ලබාදී තිබූ බව  පොලිසිය සඳහන් කරයි
+
+එම අවස්ථාවේදී උප පොලිස් පරීක්ෂකවරයා ප්‍රමුඛ පොලිස් නිලධාරීන් ජීප් රථයෙන් තීරෝද රථය පසුපස හඹා ගොස්  පුවක් වත්ත ප්‍රදේශයේදී තීරෝද රථයට වෙඩි ප්‍රහාරයක් එල්ල කර ඇති අතර  ඒ සිටි පුද්ගලයන් දෙදෙනෙක් බරපතළ තුවාල ලබා ඇති අතර පුද්ගලයෙක් කළුවරේම අසල රබර් වත්තකට පැන පලා ගොස් තිබූ බව පොලිසිය සඳහන් කරයි.
+
+වහා ක්‍රියාත්මක වූ පොලිස් නිලධාරින් තුවාල ලද පුද්ගලයන් දෙදෙනා පොලිස් ජීප් රථයෙන්ම හොරණ මූලික රෝහල වෙත ඇතුළත් කරන විටත් මියගොස් තිබූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/db707f24.json)
+
+---
+
+### Firing on three -wheeler - two deaths
 
 *2024-04-23 10:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-மீது-துப்பாக்கிச்சூடு-இருவர்-மரணம்/175-336223) · `ta`
 
-மொரகஹஹேன - மிரிஸ்வத்த பிரதேசத்தில் பொலிஸாரின் கட்டளையை மீறிச் சென்ற முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+A three-wheeler was shot, killing two inside. One man fled.
 
-துப்பாக்கிச் சூட்டு சம்பவத்தின் போது முச்சக்கரவண்டிக்குள் இருந்த மற்றுமொரு நபர் அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளார். R
+🟩
+
+A three -wheeler has been shot dead in the Moragahahena -Miriswatta area.
+
+Another man inside the three -wheeler has fled the shooting, police said the police said. Remble
 
 ◼️
 
 [Data](articles/c7f54dfd.json)
+
+[Extended Data](ext_articles/c7f54dfd.ext.json)
 
 ---
 
@@ -1294,6 +1350,18 @@ Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a ha
 
 ---
 
+### Why bring science into Buddhist discourse?
+
+*2024-04-23 00:42:17* · [`dailyftlk`](https://www.ft.lk/columns/Why-bring-science-into-Buddhist-discourse/4-760890) · `en`
+
+Unfortunately, the same mysticism and beliefs that Buddha dispelled two and a half millennia ago have crept back into Buddhism. It is true that some of it has cultural, artistic, or sentimental values. But if the human affliction for beliefs and mysticism, or the shortcomings in our sensory apparatus, are used to exploit the innocent and waste valuable resources that could be put into better use, that would be an insult to Dhamma, its author, and purveyors. The preferred outcome of comparing Buddhism and science would be to enable science savvy young generations to relate to Buddha Dhamma and prevent falling prey to mysticism
+
+...
+
+[Data](articles/e691822a.json)
+
+---
+
 ### An ‘arriere-pensee’ to proposed debate of SJB vs JVP/NPP
 
 *2024-04-23 00:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/An-arriere-pensee-to-proposed-debate-of-SJB-vs-JVP-NPP/14-760889) · `en`
@@ -1311,6 +1379,24 @@ The Leader of the Opposition is the Prime Minister-in waiting in a Westminster f
 [Data](articles/5eef5206.json)
 
 [Extended Data](ext_articles/5eef5206.ext.json)
+
+---
+
+### An ‘arriere-pensee’ to proposed debate of SJB vs JVP/NPP
+
+*2024-04-23 00:39:46* · [`dailyftlk`](https://www.ft.lk/columns/An-arriere-pensee-to-proposed-debate-of-SJB-vs-JVP-NPP/4-760889) · `en`
+
+The Leader of the Opposition (LoO) having a public debate with Anura Kumara Dissanayaka (AKD) is simply a mismatch and an insult to the office of the LoO.
+
+It is a globally accepted practice that an argument, debate or a discourse on an important issue or subject has to be conducted between two equal individuals, groups or societies. Otherwise, it will become a joke or useless exercise that fails to meet the expected objectives.
+
+The office of the LoO is a statutorily established legislative body headed by the leader of the second largest political party in Parliament and not affiliated to the government in a parliamentary democracy according to Thomas Erskine May (1815 – 1886).
+
+The Leader of the Opposition is the Prime Minister-in waiting in a Westminster form of governance or in any other legislature that practices a form of parliamentary democracy. He or she has a responsibility to safeguard the honour, dignity and statutory obligations of himself and his office.
+
+...
+
+[Data](articles/77a81d92.json)
 
 ---
 
@@ -2021,135 +2107,5 @@ Alexander Mutizo Muniao, aged 27, won the men's London Marathon race for 2 hours
 [Data](articles/3ad14f16.json)
 
 [Extended Data](ext_articles/3ad14f16.ext.json)
-
----
-
-### Whose is the responsibility of Fox Hill tragedy who lost seven lives?
-
-*2024-04-22 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195873) · `si`
-
-The Fox Hill tragedy, where seven lives were lost, is under scrutiny. Organizers, including the Sri Lanka Automobile Sports Association and the Sri Lanka Army Sciences, claim security was adequate. However, questions arise about proper safety measures, such as wetting the track, setting mounds correctly, and ensuring rider safety. The incident occurred during the 18th round of a 17-event tournament, with over 100,000 spectators present.
-
-🟩
-
-Fox Hill Supercross 2024 tournament was organized by the Sri Lanka Automobile Sports Association and the Sri Lanka Army Sciences.
-
-Organizers said that the security of the parties including folders and drivers have been certified.
-
-However, some parties have been accused of not following the proper security arrangements.
-
-With the report of the accident, the former vehicles have focused on how to facilitate the organizers of the tournament.
-
-According to the dusty circumstances, did the runover arranged in a manufacturer to wet the track with adequate water?Did the mound cadres around the track have been set to the standard?Did the rest of the riders were given to the rest of the danger?They question the organizers.
-
-They also question whether a group of security personnel were deployed to control the disturbing audience in such a time when more than 100,000 people attending.
-
-Fox Hill is used as a supercross the ridge, slopes, and winds.
-
-...
-
-[Data](articles/e1a0fefb.json)
-
-[Extended Data](ext_articles/e1a0fefb.ext.json)
-
----
-
-### Wijeyadasa Rajapakse decides
-
-*2024-04-22 19:29:11* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාස-රාජපක්ෂ-ගැන-පොහොට්ටුව-තීරණයක්-ගනියි/11-409215) · `si`
-
-Wijeyadasa Rajapakse's decision leads to the Sri Lanka Puba Karan Front's disciplinary Secretary becoming the Acting Chairman of the Sri Lanka Civil Front. Tissa Shuththi Arachchi, MP, explains that Wijayadasa Rajapaksa's Sri Lankan General Front membership was terminated upon joining another party, suggesting the abolition of his MP post to prevent property issues.
-
-🟩
-
-Meanwhile, the General Secretary of the Sri Lanka Civil Front, the General Secretary of the Sri Lanka Civil Front, said that the disciplinary Secretary of the Sri Lanka Puba Karan Front will be submitted to the post of Acting Chairman of the Sri Lanka Civil Front.
-
-When contacted, he said that the matter was referred to the matter to the party disciplinary board.
-
-Addressing a media briefing held at Nelum Praheya Headquarters at Nelum Mawatha, Battaramulla yesterday (22), MP Tissa Shuththi Arachchi said that the Sri Lankan General Front members of Wijayadasa Rajapaksa were abolished at the time of joining another party.
-
-He added that it is advisable to stop the property by abolishing the post of MP.
-
-◼️
-
-[Data](articles/22066b70.json)
-
-[Extended Data](ext_articles/22066b70.ext.json)
-
----
-
-### Free of undeniable lands will be free to grow
-
-*2024-04-22 19:25:01* · [`adalk`](https://www.ada.lk/breaking_news/වගා-නොකළ-ඉඩම්-වගා-කිරීමට-කැමති-අයට-නිදහස්-කරයි/11-409214) · `si`
-
-The Prime Minister announced a policy to release cultivable lands, aiming to enhance rural economy and nutrition. This move targets landless farmers, offering them ownership of plantation lands. The initiative is part of efforts to boost the rural economy, including the distribution of eggs from small-scale poultry farms.
-
-🟩
-
-The government said that the government has taken a policy decision to release the cultivable lands so far, but he said.
-
-The Prime Minister said that the government is acting only to bring the legal amendments to those who could not even provide the land ownership of the plantation to those who cultivate the land ownership of the estate companies.. He also said that the village is expected to have a boot to an unit for a product unit.
-
-The Prime Minister was speaking at a program to strengthen the rural economy at Dehiowita Divisional Secretariat and the distribution of eggs related to the ownership of small scale poultry.
-
-"The Prime Minister's Office, the Divisional Secretariat and the private sector, we get the ability to bring investment opportunities and investment opportunities in the economy.
-
-The people have to be persecuted in efforts to come up with a country from that crash.
-
-The government took measures to pay half of the salary paid to the retired people.
-
-...
-
-[Data](articles/58ac9655.json)
-
-[Extended Data](ext_articles/58ac9655.ext.json)
-
----
-
-### Parliament to meet tomorrow to tomorrow
-
-*2024-04-22 19:16:09* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-හෙට-සිට-26-දා-තෙක්-රැස්වෙයි/11-409213) · `si`
-
-Parliament meets 24th-26th. Committee on Parliamentary Affairs decides to discuss Easter Sunday attack, Criminal Procedure (Amendment) Bill, and Opium and Dangers Ordinance. Adjournment Commission to meet on Passover Day. Motor Training Act, Product Tax (Special Provisions) Act, and Emigration Act debates scheduled. Adultery Adjournment Debate and Pahakara Sunday Adjournment Debate also announced.
-
-🟩
-
-The Committee on Parliamentary Affairs has decided to hold the Parliament tomorrow (24th) to the 26th.
-
-According to the opposition proposal this three days, it is decided to promote the attack on the Easter attack on the Easter's Sunday attack.
-
-The Criminal Procedure (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Second Reading) and the Second Reading, Opium, and Dangers Ordinance.
-
-The Acting Secretary-General also decided to hold the post of Adjournage to the Adjournment Commission on the Passover Day on a proposal carried out from 10.30 am to 10 am.
-
-Announcements published in the Gazette No. 2364/35 posted in the Gazette, No. 2338/39 and 2352/29 under the Motor Training Act, April 25th to 10:00 pm.The approval is due to be debated under the Ordinary and the Informal and Emigration Act No. 2364/36 under the Product Tax (Special Provisions) Act.
-
-...
-
-[Data](articles/cf644d0e.json)
-
-[Extended Data](ext_articles/cf644d0e.ext.json)
-
----
-
-### Explanation for 9 suspects including Keheliya
-
-*2024-04-22 19:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-9-சந்தேகநபர்களுக்கும்-விளக்கமறியல்/175-336205) · `ta`
-
-Nine suspects, including former health minister Keheliya Rambukwella, remanded until May 6. Magistrate Losini Abeywickrama issued the order. President's Attorney General rejected bail for Rambukwella.
-
-🟩
-
-Nine suspects, including former health minister Keheliya Rambukwella, have been remanded until May 6.
-
-When the case came up for hearing again today, Magistrate Magistrate Losini Abeywickrama issued the order.
-
-It is also reported that the bail demand by the President's Attorney General on behalf of former Health Minister Keheliya Rambukwella has been rejected.. Remble
-
-◼️
-
-[Data](articles/e2ba4fa0.json)
-
-[Extended Data](ext_articles/e2ba4fa0.ext.json)
 
 ---

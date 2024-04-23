@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 19:18:26**
+As of **2024-04-23 19:34:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,473 (100.0%) of 20,477 articles have been extended.
+20,477 (100.0%) of 20,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,25 +44,33 @@ The remarks at a campaign rally Sunday drew fierce criticism that Modi was peddl
 
 [Data](articles/f8777806.json)
 
+[Extended Data](ext_articles/f8777806.ext.json)
+
 ---
 
-### சீனக்குழு அநுரவுடன் சந்திப்பு
+### Meeting with Chinese group Anura
 
 *2024-04-23 18:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்குழு-அநுரவுடன்-சந்திப்பு/175-336249) · `ta`
 
-சர்வதேசத் திணைக்களத்தின் பிரதி அமைச்சர் சன் ஹையன் தலைமையிலான சீனக் கம்யூனிஸ்ட் கட்சியின் உயர்மட்டக் குழு இன்று ஜே.வி.பி தலைமை அலுவலகத்தில் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்கவைச் சந்தித்தது.
+Deputy Minister Sun Haiyan led a Chinese Communist Party delegation to meet with NPP President Anura Kumara Dissanayake, discussing political stability and upcoming elections. Key figures included Liu Jienzao and Sen Chiang Yuan.
 
-தூதுக்குழுவில் சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேசத் துறைத் தலைவர் லியு ஜியான்சாவோ மற்றும் இலங்கையில் உள்ள சீனத் தூதரகத்தின் அரசியல் ஆலோசகர் சென் சியாங் யுவான் ஆகியோர் அடங்குவர்.
+🟩
 
-நாட்டின் தற்போதைய அரசியல் நிலவரங்கள் மற்றும் எதிர்வரும் தேர்தல்கள் தொடர்பிலும் அவர்கள் சந்திப்பின் போது கலந்துரையாடினர்.
+The high -level committee of the Chinese Communist Party headed by Deputy Minister of International Sun Haiyan today met with National People's Power President Anura Kumara Dissanayake at the JVP headquarters.
 
-NPPயின் பிரதிநிதிகள், தேர்தலுக்கான NPPயின் தயாரிப்பு மற்றும் நெருக்கடியான சூழ்நிலையில் இருந்து நாட்டை மீட்பதற்கு அரசியல் ஸ்திரத்தன்மையை உருவாக்க வேண்டியதன் அவசியம் குறித்து தூதுக்குழுவிற்கு விளக்கினர்.
+The delegation includes Liu Jienzao, the leader of the Chinese Communist Party, and Sen Chiang Yuan, the political adviser to the Chinese embassy in Sri Lanka.
 
-இக்கலந்துரையாடலில் NPP பாராளுமன்ற உறுப்பினர்களான விஜித ஹேரத், ஹரினி அமரசூரிய, NPP உறுப்பினர்களான சுனில் ஹதுன்னெத்தி மற்றும் பேராசிரியர் அனில் ஜயந்த ஆகியோர் கலந்துகொண்டனர்.
+They also discussed the current political situation and the upcoming elections.
+
+NPP's representatives explained to the delegation about the need to create political stability to recover the country from the preparation and crisis of the NPP for the election.
+
+NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hatunnetti and Professor Anil Jayantha were also present.
 
 ◼️
 
 [Data](articles/ef4daa0d.json)
+
+[Extended Data](ext_articles/ef4daa0d.ext.json)
 
 ---
 
@@ -1385,6 +1393,8 @@ The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercros
 ...
 
 [Data](articles/b753346d.json)
+
+[Extended Data](ext_articles/b753346d.ext.json)
 
 ---
 

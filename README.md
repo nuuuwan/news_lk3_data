@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 20:18:31**
+As of **2024-04-23 20:33:59**
 
 ## Newspaper Stats
 
-*Scraped **20,486** Articles*
+*Scraped **20,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 1,710
 tamilmirrorlk | 2,364
 adaderanalk | 2,445
 virakesarilk | 3,072
-dailymirrorlk | 3,195
-adaderanasinhalalk | 3,317
+dailymirrorlk | 3,197
+adaderanasinhalalk | 3,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,485 (100.0%) of 20,486 articles have been extended.
+20,486 (100.0%) of 20,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### දණගස්වන කල්ලිය නිසා ප්‍රදේශ රැසක ජනතාව බියෙන්
+
+*2024-04-23 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195900) · `si`
+
+මහමග ගමන් කරන කතුන් ඇතුළු පුද්ගලයින්ට මන්නා පෙන්වමින් දණ ගස්වා කොල්ලකන කල්ලියක් හේතුවෙන් පානදුර,ගල්කිස්ස සහ නුගේගොඩ පොලිස් කොට්ඨාස තුළ භීතියක් නිර්මාණය වී තිබේ.
+
+අදාළ කොල්ල කල්ලිය ගතවූ මාසයක කාලය ඇතුළත කොල්ලකෑම් 40ක් පමණ සිදුකර ඇති බවට වාර්තාවෙයි.
+
+මෙම කල්ලිය පිළිබඳව මොරගහහේන, කැස්බෑව, පිළියන්දල, බොරලැස්ගමුව, කහතුඩුව, කඩුවෙල, තෙබුවන ආදී ප්‍රදේශවලින් පොලීසියට පැමිණිලි ලැබී තිබේ.
+
+ඔවුන් එලෙස යතුරුපැදියක් පැහැරගන්නා අවස්ථාවක CCTV  දර්ශනද අපවෙත ලැබී තිබේ.
+
+මෙලෙස පැහැරගන්නා යතුරුපැදිවලින් තවත් ප්‍රදේශවලට ගොස් කොල්ලකෑම්වල නිරතවී යතුරුපැදි අතරමග අත්හැර දමා යන බවද පැවසෙයි.
+
+එසේම එක් අවස්ථාවක කොල්ලකරුවන් රන් භාණ්ඩ කොල්ලකා පළායාමේදී ප්‍රදේශවාසීන් පිරිසක් ඔවුන් ලුහුබැඳ යන ආකාරය දැක්වෙන වීඩියෝවක් ද අපවෙත ලැබී ඇත.
+
+මේ අතර බණ්ඩාරගම සහ මොරන්තුඩුව පොලිස් ස්ථාන මගින් සැකපිට කිහිපදෙනෙකුම අත්අඩංගුවට ගෙන තිබුණද කොල්ලකෑම් මේ වනවිටත් ක්‍රියාත්මක බව ප්‍රදේශවාසීන් පවසයි.
+
+◼️
+
+[Data](articles/5e10a81c.json)
+
+---
+
+### Voyager-1 sends readable data again from deep space
+
+*2024-04-23 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Voyager-1-sends-readable-data-again-from-deep-space/108-281218) · `en`
+
+(BBC) - The US space agency says its Voyager-1 probe is once again sending usable information back to Earth after months of spouting gibberish.
+
+A computer fault stopped it returning readable data in November but engineers have now fixed this.
+
+For the moment, Voyager is sending back only health data about its onboard systems, but further work should get the scientific instruments back online.
+
+Voyager-1 is more than 24 billion km (15 billion miles) away, so distant, its radio messages take fully 22.5 hours to reach us.
+
+"Voyager-1 spacecraft is returning usable data about the health and status of its onboard engineering systems," Nasa said in a statement.
+
+"The next step is to enable the spacecraft to begin returning science data again."
+
+Voyager-1 was launched from Earth in 1977 on a tour of the outer planets, but then just kept going.
+
+...
+
+[Data](articles/dca06e3f.json)
+
+---
 
 ### Sixteen dead, 28 missing after boat capsizes off Djibouti coast
 
@@ -151,6 +199,24 @@ This poses potential health risks, especially to vulnerable populations such as 
 [Data](articles/7cb3bb5c.json)
 
 [Extended Data](ext_articles/7cb3bb5c.ext.json)
+
+---
+
+### Temperature rises to ’Caution’ level
+
+*2024-04-23 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperature-rises-to-Caution-level/108-281214) · `en`
+
+Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning today about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
+
+They said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution'.
+
+According to the heat advisory issued, the 'Caution Level' was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
+
+This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
+
+...
+
+[Data](articles/9fdf125d.json)
 
 ---
 
@@ -1420,25 +1486,31 @@ One kilogram of ginger is sold for 3,000 rupees and 3,200. Thus, ginger is only 
 
 ---
 
-### ඊබ්‍රහිම් රයිසි: මැද පෙරදිග යුද උණුසුම මැද ඉරාන ජනපති ශ්‍රී ලංකාවට පැමිණෙන්නේ ඇයි ?
+### Iranameme icilian: The President arrives in Sri Lanka in the middle of the Middle Eastern warmth?
 
 *2024-04-23 13:02:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz6epqde7o) · `si`
 
-ඊබ්‍රහිම් රයිසි: මැද පෙරදිග යුද උණුසුම මැද ඉරාන ජනපති ශ්‍රී ලංකාවට පැමිණෙන්නේ ඇයි ?
+It seems like you've provided a detailed account of various events and discussions related to Sri Lanka's foreign relations, particularly with Iran, and the Uma Oya Multipurpose Development Project. However, your message doesn't specify a clear question or task you need assistance with. Could you please clarify what specific information or help you're seeking? For example, are you looking for an analysis of the political implications of these events, advice on how to structure a report on this topic, or something else?
 
-මැදපෙරදිග පවතින යුද උණුසුම මැද එහි ප්‍රබල පාර්ශවකරුවෙකු වන ඉරාන ඉස්ලාමීය ජනරජයේ  ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි හෙට (අප්‍රේල් මස 24 වෙනිදා) ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණීමට නියමිතව තිබේ.
+🟩
 
-විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ ජනාධිපති රනිල් වික්‍රමසිංහගේ ආරාධනයකට අනුව ඉරාන ජනාධිපතිවරයා දිවයිනට පැමිණෙන බවය.
+Iranameme icilian: The President arrives in Sri Lanka in the middle of the Middle Eastern warmth?
 
-දින 03ක නිල සංචාරයක් ආරම්භ කරමින් ඉරාන ජනාධිපතිවරයා මේවන විට පකිස්ථානයේ සංචාරයක නිරත වෙමින් සිටියි.
+The President of the Iranian Islamic Republic, the President of the Iranian Islamic Republic, is due to arrive on a Sri Lankan official visit to Sri Lanka (24th April 24).
 
-ඉරාන ජනාධිපතිවරයා ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණෙන්නේ ඇමෙරිකානු මෙරීන් බලකා සාමාජිකයින් පිරිසක් ද ත්‍රිකුණාමලයට පැමිණ සිටින අවස්ථාවකදීය.
+The Ministry of External Affairs stated that the Iranian president will arrive in the island due to the invitation of President Ranil Wickremesinghe.
 
-ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණෙන්නේ ද්වි පාර්ශ්වීය මුල්‍ය ආධාර මත  ඉදිකෙරුණු උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය විවෘත කිරීම සඳහා බව ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශය විසින් නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+The Iranian president is to commence a three-day official visit to Pakistan.
+
+The Iranian president arrives on a Sri Lankan official visit to Sri Lanka as a group of American Morne Army members.
+
+The Sri Lanka External Affairs Ministry stated that the Iranian President Dr. Ibrahim Reli was on bilateral financial assistance, the Sri Lanka External Affairs Ministry stated that the Uma Oya Multipurpose Development Project built on bilateral financial assistance.
 
 ...
 
 [Data](articles/aabf86f4.json)
+
+[Extended Data](ext_articles/aabf86f4.ext.json)
 
 ---
 
@@ -2229,77 +2301,5 @@ General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morn
 [Data](articles/4cc50609.json)
 
 [Extended Data](ext_articles/4cc50609.ext.json)
-
----
-
-### Death of the General Manager of Railways
-
-*2024-04-23 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195885) · `si`
-
-HMK. Bandara, former Railway General Manager, passed away suddenly at Anuradhapura hospital. He was an engineer from Matale Science and Moratuwa Universities, serving as Railway Head Engineer and Additional General Manager.
-
-🟩
-
-Railway General Manager HMK. Bandara has passed away this morning (23).
-
-According to hospital sources, he passed away at the Anuradhapura hospital due to a sudden illness.
-
-He was a past pupil of Matale science and Moratuwa universities to be engineered as engineer.
-
-Railway Head Engineer (Road Engineering) and Additional General Manager (Infrastructure)
-
-◼️
-
-[Data](articles/96d81322.json)
-
-[Extended Data](ext_articles/96d81322.ext.json)
-
----
-
-### Railways chief passes away
-
-*2024-04-23 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-chief-passes-away/108-281199) · `en`
-
-Anuradhapura, April 23 (Daily Miror) - The General Manager of Railways, H.M.K.W. Bandara passed away this morning due to a sudden illness at the Anuradhapura Hospital.
-
-◼️
-
-[Data](articles/a3393573.json)
-
-[Extended Data](ext_articles/a3393573.ext.json)
-
----
-
-### Israeli Gaza: A child rescued from the uterus if he was killed in Israel's attack
-
-*2024-04-23 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/181738) · `ta`
-
-In Gaza, a child was rescued from its mother's womb after an Israeli attack. The mother, Sabreen, was severely injured, and her husband was killed. The child, born prematurely, survived but faces a respiratory disorder.
-
-🟩
-
-Gaza has taken place from the mother's womb killed in Israel's attack.
-
-The young man has been carrying the child in his stomach for seven months - amid fears of heavy conflict.
-
-He expected that the miracle of their family would last until the end of the war.
-
-However, the noise caused by the massive falculation that took place on April 20 on the 20th of April, the miracle he was expecting was missing.
-
-Israeli soldiers threw a bomb on Raba's house, Sabreen and her husband, Malak, who was sleeping.
-
-Sabreen was severely injured and her husband was killed, though the rescue workers were still alive in the baby's mother's stomach.
-
-Rescuers immediately took Sabrin to the hospital where the child was taken out by cesarean.
-
-Can't save Sabrine but doctors made a serious effort to survive the baby.
-
-Dr. Mohammed Salama, head of the neonatal emergency department of Raba's Emirates Hospital, says she was born in the midst of a very serious respiratory tract.
-
-...
-
-[Data](articles/d0e6785c.json)
-
-[Extended Data](ext_articles/d0e6785c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 15:03:40**
+As of **2024-04-23 15:19:04**
 
 ## Newspaper Stats
 
-*Scraped **20,433** Articles*
+*Scraped **20,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,706
-tamilmirrorlk | 2,359
-adaderanalk | 2,438
+tamilmirrorlk | 2,360
+adaderanalk | 2,439
 virakesarilk | 3,064
-dailymirrorlk | 3,176
+dailymirrorlk | 3,178
 adaderanasinhalalk | 3,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,433 (100.0%) of 20,433 articles have been extended.
+20,433 (100.0%) of 20,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Chamari Athapaththu rises to No. 1 position in Women’s ODI batting rankings
+
+*2024-04-23 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98794/chamari-athapaththu-rises-to-no-1-position-in-womens-odi-batting-rankings) · `en`
+
+Sri Lanka’s star batter Chamari Athapaththu edged Natalie Sciver-Brunt to become the top-ranked batter in the ICC Women’s ODI batting rankings.
+
+Powering Sri Lanka to the highest successful run-chase in women’s ODIs has seen Chamari Athapaththu go to the top of the ICC Women’s ODI Batting Rankings in the latest update.
+
+Athapaththu’s stellar knock in the third and final ODI helped Sri Lanka level the three-match series in South Africa.
+
+Chasing a record target of 302 to win, Athapaththu led Sri Lanka’s fightback with a brilliant 195*, the third-highest score in women’s ODIs.
+
+It’s also the second-highest score by anyone in a successful run chase in ODI cricket - men’s and women’s - right behind Glenn Maxwell’s 201* against Afghanistan in the ICC Men’s Cricket World Cup 2023.
+
+The knock saw Athapaththu achieve her highest-ever rating (773) in the women’s batting rankings. The Sri Lankan also jumped two spots in the all-rounder rankings to enter the top 10 at ninth position.
+
+...
+
+[Data](articles/7f865cac.json)
+
+---
 
 ### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
 
@@ -77,6 +99,40 @@ In addition, 21 cases have been filed in connection with the use and business of
 [Data](articles/3c5a25ad.json)
 
 [Extended Data](ext_articles/3c5a25ad.ext.json)
+
+---
+
+### Athapaththu back atop ICC Women’s ODI Batting Rankings
+
+*2024-04-23 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththu-back-atop-ICC-Womens-ODI-Batting-Rankings/108-281205) · `en`
+
+(ICC) - Sri Lanka captain Chamari Athapaththu is back at the top of the ICC Women’s ODI Batting Rankings after a superb 195 not out in the third ODI against South Africa in Potchefstroom that helped her team level the ICC Women’s Championship Series 1-1.
+
+Athapaththu’s ninth ODI century, which is the highest score in a successful chase in Women’s ODIs, helped her overtake England all-rounder Natalie Sciver-Brunt to the top spot. The left-hander had earlier been number one from 3 to 12 July 2023 before Beth Mooney and then Sciver-Brunt overtook her.
+
+Another former number one batter also rose after the series, Athapaththu’s counterpart Laura Wolvaardt moving up two places to third position after scoring an unbeaten 184 that helped South Africa post a huge total of 301 for five in the third ODI.
+
+...
+
+[Data](articles/6ce9f92a.json)
+
+---
+
+### Showers of about 50 mm on the cards across Sri Lanka
+
+*2024-04-23 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-of-about-50-mm-on-the-cards-across-Sri-Lanka/108-281204) · `en`
+
+Colombo, April 23 (Daily Mirror) -  Residents in the Western and Sabaragamuwa Provinces, as well as the Galle and Matara districts, should be prepared for fairly heavy showers of about 50 mm in some areas, the Meteorology Department predicted.
+
+According to the latest forecast, the Western, Sabaragamuwa, Central, Uva, Southern and North-Western Provinces are likely to experience rainfall after 2.00 p.m.
+
+Furthermore, scattered showers or thundershowers are expected in the Northern and North-Central Provinces during the afternoon or night.
+
+Misty conditions are also anticipated in certain locations of the Sabaragamuwa, Central and Uva Provinces during the morning.
+
+◼️
+
+[Data](articles/25ef5527.json)
 
 ---
 
@@ -197,6 +253,24 @@ The British International Military Studies Center said that there are 523,000 so
 [Data](articles/4f53b99a.json)
 
 [Extended Data](ext_articles/4f53b99a.ext.json)
+
+---
+
+### துப்பாக்கி பிரயோகத்தில் இருவர் பலி
+
+*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
+
+மீகொட - தெல்கெட்டிய சந்தியில் இன்று(23) அதிகாலை பொலிஸ் வீதித்தடையொன்றில் முச்சக்கர வண்டியை சோதனையிடுவதற்காக நிறுத்த முயற்சித்த சந்தர்ப்பத்தில் அந்த முச்சக்கர வண்டியில் இருந்த நபர்கள் பொலிஸார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு மொரகஹஹேனைக்கு தப்பிச்சென்றதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இதனையடுத்து மொரகஹஹேனை பொலிஸாருக்கு வழங்கப்பட்ட தகவலுக்கமைய, விசாரணைகளுக்காக அங்கு வந்த கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகள் அந்த முச்சக்கர வண்டியை நிறுத்த முயற்சித்த சந்தர்ப்பத்திலும் முச்சக்கர வண்டி கட்டளையை மீறிப் பயணித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+
+அதற்கமைய, மொரகஹஹேனை - மீப்பே வீதியிலுள்ள டயர் தொழிற்சாலையொன்றுக்கு அருகில் வைத்து கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகளால் குறித்த முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+துப்பாக்கிப் பிரயோகத்தில் காயமடைந்த இருவர் ஹொரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+
+◼️
+
+[Data](articles/4d3dedb5.json)
 
 ---
 
@@ -2211,79 +2285,5 @@ Archbishop of Colombo Malcolm Cardinal Ranjith officiated at the fifth anniversa
 [Data](articles/4760f8fe.json)
 
 [Extended Data](ext_articles/4760f8fe.ext.json)
-
----
-
-### IPS advocates stricter regulations for alcohol control in Sri Lanka
-
-*2024-04-23 00:59:26* · [`dailyftlk`](https://www.ft.lk/opinion/IPS-advocates-stricter-regulations-for-alcohol-control-in-Sri-Lanka/14-760906) · `en`
-
-Recent statistics paint a stark picture of alcohol-related challenges facing Sri Lanka, with an alarming 83% of deaths attributed to non-communicable diseases (NCDs). Alcohol consumption emerges as a prominent risk factor for NCDs, exacerbating health costs and contributing to issues such as road accidents and domestic violence.
-
-Despite its perceived economic benefits, the economic toll of alcohol-related conditions surpasses any revenue generated. The World Health Organization (WHO) estimates that in 2015 alone, the economic cost of alcohol-related conditions amounted to a staggering $ 885.86 million, equivalent to 1.07% of Sri Lanka’s GDP for that year.
-
-...
-
-[Data](articles/7c755770.json)
-
-[Extended Data](ext_articles/7c755770.ext.json)
-
----
-
-### Heavy rain in China
-
-*2024-04-23 00:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-பலத்த-மழை/50-336218) · `ta`
-
-Heavy rain in Kungtong, China, affects high population areas, leading to the evacuation of about 60,000 people.
-
-🟩
-
-Heavy rains in China's high population in the province of Kungtong have caused heavy rainfall.
-
-Following this, about 60 thousand people have been sent to safe places from the area.
-
-◼️
-
-[Data](articles/2555b450.json)
-
-[Extended Data](ext_articles/2555b450.ext.json)
-
----
-
-### Defence Ministry announces general amnesty for Tri-Forces absentees
-
-*2024-04-23 00:58:16* · [`dailyftlk`](https://www.ft.lk/opinion/Defence-Ministry-announces-general-amnesty-for-Tri-Forces-absentees/14-760905) · `en`
-
-The Ministry of Defence has announced that the General Amnesty period announced from 20 April 2024 to 20 May 2024 for members of the Tri-Forces who have been marked as Absent Without Official Leave (AWOL) is not applicable for Commissioned Officers who are marked as AWOL.
-
-General Amnesty is valid only for other rank personnel of the Tri-Forces who have not reported for duty without leave on or before 31 December 2023.
-
-This General Amnesty period does not apply for Commissioned Officers who have not reported for duty without leave.
-
-During this General Amnesty period, those who report will be legally discharged from their respective services. However, the General Amnesty is not applicable to those personnel mentioned below while taking into consideration the expenses incurred for the special training provided using public funds in the following sectors and considering the difficulties encountered to maintain the operations in those sectors by their discharge.
-
-...
-
-[Data](articles/2157fa3e.json)
-
-[Extended Data](ext_articles/2157fa3e.ext.json)
-
----
-
-### Great Place to Work Sri Lanka hosts discussion on ‘Embracing Diversity for Women’s Empowerment’ in the workplace
-
-*2024-04-23 00:57:31* · [`dailyftlk`](https://www.ft.lk/opinion/Great-Place-to-Work-Sri-Lanka-hosts-discussion-on-Embracing-Diversity-for-Women-s-Empowerment-in-the-workplace/14-760904) · `en`
-
-The panel discussion on fostering empowerment and inclusivity for women at work
-
-Great Place to Work in Sri Lanka recently organised an engaging and insightful event titled ‘Building Bridges: Embracing Diversity for Women’s Empowerment’ at Ramada Colombo, that garnered participation from over 70 individuals.
-
-The event commenced with a thought-provoking panel discussion featuring Independent Consultant Dr. Ramani Gunatilaka, BoardPAC Founder and CEO Lakmini Wijesundera, Standard Chartered Sri Lanka Head of Human Resources Rukshila Seneviratne, ChildFund International Country Director Aditi Ghosh and The European Chamber of Commerce of Sri Lanka Project Lead – Inclusive Business Practices William Baxter. The panel discussion was moderated by Dankotuwa Porcelain PLC Executive Director and CEO Channa Gunawardana.
-
-...
-
-[Data](articles/490a14f1.json)
-
-[Extended Data](ext_articles/490a14f1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 02:50:08**
+As of **2024-04-24 03:03:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,525 (99.9%) of 20,539 articles have been extended.
+20,539 (100.0%) of 20,539 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ He also highlighted that under the proposed legislation, key entities such as th
 
 [Data](articles/007532f9.json)
 
+[Extended Data](ext_articles/007532f9.ext.json)
+
 ---
 
 ### Citizen’s movement calls for Rs. 50 m compensation over new Electricity Bill
@@ -64,6 +66,8 @@ On 17 April, the Government published the proposed electricity sector reforms in
 
 [Data](articles/6eac6281.json)
 
+[Extended Data](ext_articles/6eac6281.ext.json)
+
 ---
 
 ### Power and Energy Minister expresses gratitude to Iran for Uma Oya multi-purpose project
@@ -79,6 +83,8 @@ With the commissioning of the Uma Oya Hydro Power Plant today (24), the Minister
 ...
 
 [Data](articles/9d126daa.json)
+
+[Extended Data](ext_articles/9d126daa.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ In a statement the NPP said the two parties discussed Sri Lanka’s current poli
 ...
 
 [Data](articles/1dfb3e10.json)
+
+[Extended Data](ext_articles/1dfb3e10.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ Two drivers of the racing cars involved in the accident were subsequently arrest
 
 [Data](articles/372b355f.json)
 
+[Extended Data](ext_articles/372b355f.ext.json)
+
 ---
 
 ### Intense temperature in SL
@@ -136,6 +146,8 @@ This poses potential health risks, especially to vulnerable populations such as 
 
 [Data](articles/45772df8.json)
 
+[Extended Data](ext_articles/45772df8.ext.json)
+
 ---
 
 ### Daintee celebrates four decades of sweet success
@@ -151,6 +163,8 @@ Daintee, the confectionary arm of Sunshine Consumer Lanka Ltd. (SCL), recently m
 ...
 
 [Data](articles/360794cd.json)
+
+[Extended Data](ext_articles/360794cd.ext.json)
 
 ---
 
@@ -196,6 +210,8 @@ Commander Joint Agency Task Force Operation Sovereign Borders, Rear Admiral Bret
 
 [Data](articles/e6360662.json)
 
+[Extended Data](ext_articles/e6360662.ext.json)
+
 ---
 
 ### Rotary project awarded Global Climate Hero Award at COP28
@@ -209,6 +225,8 @@ The preparations kick started from the Farican Climate Summit and thereafter tog
 ...
 
 [Data](articles/a31e6887.json)
+
+[Extended Data](ext_articles/a31e6887.ext.json)
 
 ---
 
@@ -228,6 +246,8 @@ Palestinian authorities reported finding scores of bodies in mass graves at Nass
 
 [Data](articles/618464b5.json)
 
+[Extended Data](ext_articles/618464b5.ext.json)
+
 ---
 
 ### Foreign Affairs relocates Consular Division to new premises at “Suhurupaya”, Battaramulla
@@ -243,6 +263,8 @@ Document authentication services provided by the Consular Affairs Division in Co
 ...
 
 [Data](articles/044380d4.json)
+
+[Extended Data](ext_articles/044380d4.ext.json)
 
 ---
 
@@ -262,6 +284,8 @@ The proposed membership card can also be used as the members Privilege card whic
 
 [Data](articles/2e72f58c.json)
 
+[Extended Data](ext_articles/2e72f58c.ext.json)
+
 ---
 
 ### Exploring FDI and export potential of Sri Lanka under the new normal
@@ -276,6 +300,8 @@ As Sri Lanka works to recover from its recent economic crisis through robust mac
 
 [Data](articles/781979bc.json)
 
+[Extended Data](ext_articles/781979bc.ext.json)
+
 ---
 
 ### Rising from the Rubble: Sri Lanka’s economy roars back to life – fact or fiction?
@@ -289,6 +315,8 @@ Currently, Sri Lanka's overall recovery path is becoming clearer, especially thr
 ...
 
 [Data](articles/3ad0f337.json)
+
+[Extended Data](ext_articles/3ad0f337.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 00:03:31**
+As of **2024-04-24 00:18:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,502 (99.9%) of 20,513 articles have been extended.
+20,510 (100.0%) of 20,513 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,43 +44,65 @@ The report said that significant human rights issues such as arbitrary or unlawf
 
 [Data](articles/3725879b.json)
 
+[Extended Data](ext_articles/3725879b.ext.json)
+
 ---
 
-### போதைப் பொருள் கொடுத்து வன்புணர்வுக்கு உட்படுத்தியதாக கிடைக்கப்பெற்ற முறைப்பாட்டையடுத்து பொலிஸார் விசாரணை
+### Police investigations on a complaint that he had been informed of drugs
 
 *2024-04-23 23:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181799) · `ta`
 
-யாழ்ப்பாணத்தில் போதை ஊசி செலுத்தி பெண்ணொருவரை கும்பல் ஒன்று பாலியல் வன்புணர்வுக்கு உட்படுத்தியுள்ளதாக பருத்தித்துறை பொலிஸாருக்கு முறைப்பாடு கிடைக்கப்பெற்றதை அடுத்து பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Police are investigating a complaint of rape in Jaffna, involving a woman and her elder sister who were staying at an orphanage. They were allegedly drugged, beaten, and harassed by a gang, with incidents escalating to an attack at her cousin's house. The woman was admitted to the hospital and informed the police about the atrocities.
 
-யாழ்ப்பாண நகர் பகுதியை அண்டிய கிராமத்தை சேர்ந்த 34 வயதுடைய பெண்ணொருவரின் தாய் தந்தையர் உயிரிழந்ததை அடுத்து, குறித்த பெண்ணும், அவரது மூத்த சகோதரியும் பருத்தித்துறை பகுதியில் உள்ள ஆதரவற்றோர் பாதுகாப்பு இல்லத்தில் தங்கி இருந்துள்ளனர்.
+🟩
 
-இந்நிலையில் கடந்த டிசம்பர் மாதம் , பெண்ணின் மூத்த சகோதரி உயிரிழந்த நிலையில், இவரது சகோதரன் இவரை தனது இல்லத்திற்கு அழைத்து சென்று இருந்தார்.
+Police are investigating after a complaint was received by the Pedro Police for allegedly raping a woman in Jaffna.
 
-சகோதரனின் இல்லத்தில் தங்கியிருந்த வேளை ஐனவரி மாதம் சகோதரன் வீட்டில் ஆட்களற்ற வேளை உள்நுழைந்த கும்பல் ஒன்று போதைப் பொருளை வழங்கி, அதனை பலாத்காரமாக நுகர வைத்து, அடித்து துன்புறுத்தி வன்புணர்வுக்கு உட்படுத்தியுள்ளனர்.
+The woman and her elder sister have been staying at the orphanage residence in the Point Pedro area following the death of a mother of a 34 -year -old woman from a village near Jaffna.
+
+Last December, the woman's elder sister died, and her brother had taken her to his residence.
+
+While staying at the brother's residence, a gang who had entered the brother's house in the house of the brother had given a drug, forcibly consumed, beaten and harassed.
+
+Such incidents have taken place in the days that followed. In this case, the gang went on to stay at her cousin's house in Point Pedro yesterday, injected with the woman and attacked the woman.
+
+The injured woman has informed the police about the atrocities she has suffered as she was admitted to the Pedro Base Hospital.
 
 ...
 
 [Data](articles/00ce41d4.json)
 
+[Extended Data](ext_articles/00ce41d4.ext.json)
+
 ---
 
-### කොළඹට එන සියලුදෙනාට විශේෂ දැනුම්දීමක්
+### Special notice to everyone in Colombo
 
 *2024-04-23 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195906) · `si`
 
-උමා ඔය ව්‍යාපෘතිය විවෘත කිරීමේ අවස්ථාව සඳහා ඉරාන ජනාධිපතිවරයා හෙට උදෑසන ශ්‍රී ලංකාවට පැමිණීමත් සමග විශේෂ ආරක්ෂක සැලැස්මක් සහ රථවාහන සැලැස්මක් ක්‍රියාත්මක කෙරෙන බව පොලීසිය පවසයි.
+Due to the Iranian project's opening at Uma Oya tomorrow, Colombo will experience a security and traffic plan. Roads including the Colombo-Katunayake Expressway, Borella, DS Senanayake Mawatha, Liberty Roundabout, Shunamy Mawatha, and Galle Road will be closed from 2-3 pm, 3.30-6 pm, and 7.30-10.30 pm. The road from Mattala to Uma Oya will be closed from 9.30 am to 11 am and re-closed from 12 noon to 12 pm.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ ඒ අනුව හෙට පස්වරුවේ කොළඹ මාර්ග කිහිපයක් ද අවස්ථා කිහිපයකදී වසා තැබෙන බවය.
+🟩
 
-මේ අනුව හෙට (24) පස්වරු 2 සිට 3 දක්වා කාලය තුළ කටුනායක කොළඹ අධිවේගී මාර්ගය වසා තැබෙන බව පොලීසිය පවසයි.
+A special security plan and traffic plan will be implemented with the arrival of the Iranian project to opening the Uma Oya project tomorrow morning.
 
-එහිදී මාර්ගය දෙපසටම වාහන ගමනාගමනය සඳහා අවස්ථාව හිමි නොවන බව පොලීසිය පවසයි.
+Police Media Spokesperson DIG'sary DIG's launches said Nihal Talduuwa said that several Colombo roads will be closed tomorrow afternoon.
 
-එසේම අධිවේගී මාර්ගයේ සිට පෑලියගොඩ, ඔරුගොඩවත්ත මංසන්ධිය, දෙමටගොඩ, බොරැල්ල, ඩී එස් සේනානායක මංසන්ධිය, හෝටන් පෙදෙස, හෝටන් වටරවුම, ග්‍රීන් පාත්, පුස්තකාල වටරවුම, ආනන්ද කුමාරස්වාමි මාවත, ලිබර්ටි වටරවුම, ආර් ඒ ද මැල් මාවත, ශාත්න මයිකල් පාර, ගාලු පාර සිට කොටුව දක්වා වූ මාර්ගයත්, හිල්ටන් හෝටලය දක්වා වූ මාර්ගයත් වසා තැබීමට කටයුතු කරනවා මේ පැයක කාලසීමාව තුළ.
+According to the police, the Colombo-Katunayake Expressway will be closed tomorrow (24) at 2 to 3 pm, police said.
+
+Police say that the vehicle is not available for traffic on either road.
+
+Also, from the Expressway, Borella, DS Senanayake Mawatha, Liberty Roundabout, Liberty Roundabout, Shunamy Mawatha, Galle Road, Galle RoadDuring this hourly period, the route to the Fort and the route to the Hilton Hotel is being closed this hour.
+
+Lotus roundabout will be closed after 3.30 pm and a few roads including Galle Road will be closed down from 6 to 6.30 pm.
+
+Fort will be closed down to the President's House after 7.30pm and will be closed from Colombo Fort, Colombo Fort.
 
 ...
 
 [Data](articles/1a408691.json)
+
+[Extended Data](ext_articles/1a408691.ext.json)
 
 ---
 
@@ -194,19 +216,27 @@ The All Island Professional Lecturers’ Association (APLA), established in 2004
 
 ---
 
-### தமிழ்மொழியின் சொல்லாற்றலை பறைசாற்றிய சிங்கப்பூரின் தமிழ் மொழி விழா
+### Singapore's Tamil Language Festival
 
 *2024-04-23 21:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181798) · `ta`
 
-சிங்கப்பூர் வளர்தமிழ் இயக்கம் மற்றும் தமிழ்மொழி கற்றல் வளர்ச்சி குழுவின் ஆதரவோடு தொடங்கப்பட்ட தமிழ்மொழி விழா தன்னுடைய 18வது ஆண்டு விழாவை இவ்வாண்டு சிங்கப்பூரில் மிகச் சிறப்பாகக் கொண்டாடி வருகிறது.
+The Tamil Language Festival, supported by the Singapore Development Movement and the Tamil Language Learning Group, celebrated its 18th anniversary in Singapore. The event featured the Annamalai University Alumni Association's 11th anniversary of the Tamil Language, with competitions promoting Tamil-speaking interest among students. The festival highlighted the richness of the Tamil language through various studies and performances, emphasizing the importance of Tamil culture and language in Singapore.
 
-இந்த விழாவின் ஓர் அங்கமாக வளர்தழிழ் இயக்கத்தின் ஆதரவோடு அண்ணாமலைப் பல்கலைக்கழக முன்னாள் மாணவர்கள் சங்கம் (சிங்கப்பூர்) ஆண்டுதோறும் தமிழன்னைக்கு விழா எடுத்துச் சிறப்பித்து வருகிறது, அதன் தொடர்ச்சியாக ‘தமிழ்மொழியின் சொல்லாற்றல்’ என்ற தலைப்பில் 11வது ஆண்டு விழாவை உமறுப்புலவர் தமிழ்மொழி நிலையத்தில் ஏப்ரல் 14ஆம் தேதி மாலை மிகச் சிறப்பாக நடந்தேறியது.
+🟩
 
-நிகழ்ச்சியின் துவக்கமாக மழலைச்செல்வம் செல்வி. சாகித்யா செந்தில் அவர்கள் தமிழ்த்தாய் வாழ்த்து பாடி நிகழ்ச்சியைத் துவங்கினார், அவரது பாடல் அரங்கில் உள்ள அனைவரின் பாராட்டைப்பெற்றது.
+The Tamil Language Festival, which was launched with the support of the Singapore Development Movement and the Tamil Language Learning Group, is celebrating its 18th anniversary in Singapore this year.
+
+The Annamalai University Alumni Association (Singapore), with the support of the festival as part of the festival, is celebrated annually for the Tamilnadu, which was followed by the 11th anniversary of the Tamil Language, which was held on the evening of April 14 at the Umurupulavar Tamil Language Center.
+
+The beginning of the show. Sakitya Senthil started the Tamil Greeting Song and his song was praised by everyone in the stadium.
+
+President of the Association, Mr. P.. Karunanidhi welcomed the gathering, saying that our organization has joined Singapore for the last 25 years and has coordinated all members and has been doing culture, social and youth progress.
 
 ...
 
 [Data](articles/2c7902ed.json)
+
+[Extended Data](ext_articles/2c7902ed.ext.json)
 
 ---
 
@@ -404,23 +434,33 @@ Voyager-1 was launched from Earth in 1977 on a tour of the outer planets, but th
 
 ---
 
-### நுவரெலியா பரிசுத்த திரித்துவ மத்திய கல்லூரி மற்றும் காமினி தேசிய கல்லூரிக்குமிடையில் வருடாந்தம் நடைபெறும் கடினபந்து கிரிக்கெட் போட்டி
+### Annual Cricket Tournament between Nuwara Eliya Holy Central College and Gamini National College
 
 *2024-04-23 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181797) · `ta`
 
-நுவரெலியாவில் பழைமையான பாடசாலைகளான பரிசுத்துவ திரித்துவ மத்திய கல்லூரிக்கும்  காமினி தேசிய கல்லூரிக்கும் இடையிலான வருடாந்த Battle of Little England கிண்ண மாபெரும் கிரிக்கெட் சமர் நுவரெலியா பொது மைதானத்தில் எதிர்வரும் 28ஆம், 29ஆம் திகதிகளில் நடைபெறவுள்ளது.
+The Annual Cricket Tournament between Nuwara Eliya Holy Central College and Gamini National College, aimed at strengthening inter-ethnic unity, will be held on the 28th and 29th at the Nuwara Eliya Public Ground. A media briefing was held to explain the event, and a vehicle rally was held on the 27th to mark the occasion.
 
-இனங்களுக்கிடையிலான ஒற்றுமையை பலப்படுத்தும் வகையில் இந்த மாபெரும் கிரிக்கெட் போட்டியை நடத்த ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பாக  ஊடகங்களுக்கு விளக்கமளிக்கும் ஊடக சந்திப்பு நுவரெலியா பரிசுத்த திரித்துவ மத்திய கல்லூரி, மற்றும் காமினி தேசிய பாடசாலையின் அதிபர்கள் தலைமையில் நுவரெலியா மாவட்ட செயலகத்தின் அதிசய மண்டபத்தில் செவ்வாய்க்கிழமை (23)  நடைபெற்றது.
+The Annual Battle of Little England Bowl between the oldest schools in Nuwara Eliya, the Gamini National College, will be held on the 28th and 29th of this month at the Nuwara Eliya Public Ground.
 
-இந்த ஊடக சந்திப்பில் கருத்து வெளியிட்ட நுவரெலியா பரிசுத்த திரித்துவ மத்திய கல்லூரி அதிபர் எம். ரவிச்சந்திரன்,
+This massive cricket match has been organized to strengthen inter -ethnic unity.
 
-'நுவரெலியாவில்  இனங்களுக்கு இடையிலான ஒற்றுமையை பலப்படுத்தும் நோக்கில் கடந்த வருடம் நடத்தப்பட்ட "battle of little England" கிண்ணத்திற்கான கிரிகெட் போட்டி வெற்றிகரமாக நிறைவேறியது. இந்த வருடமும் இப் போட்டியை சிறப்பாக நடத்தி முடிக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளது' என்றார்.
+A media briefing to explain to the media was held on Tuesday (23) at the Nuwara Eliya District Secretariat, headed by the Principals of the Gamini National School, Nuwara Eliya.
 
-...
+Nuwara Eliya said at a media briefing. Ravichandran,
+
+The cricket match for the "Battle of Little England" Bowl was successfully fulfilled by the 'Battle of Little England ”bowl to strengthen the inter -ethnic unity in Nuwara Eliya. Arrangements have been made to make the competition better this year. ”
+
+Alumni and current students to make this competition special. He urged all the welfareists to cooperate.
+
+Meanwhile, he said that a vehicle rally was held in Nuwara Eliya on the 27th of this month to mark the cricket match.
+
+◼️
 
 [Data](articles/507fa772.json)
+
+[Extended Data](ext_articles/507fa772.ext.json)
 
 ---
 
@@ -464,25 +504,35 @@ The court order also prohibits the demonstration from obstructing vehicular move
 
 ---
 
-### மகளிர் சர்வதேச ஒருநாள் துடுப்பாட்டம்; சமரி அத்தபத்து மீண்டும் முதலிடம்
+### Women International ODIs;Samari Athappathu tops again
 
 *2024-04-23 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181796) · `ta`
 
-சர்வதேச ஒருநாள் துடுப்பாட்ட வீராங்கனைகளில் இலங்கை அணித் தலைவி சமரி அத்தபத்து மீண்டும் முதலாம் இடத்தைப் பெற்றுள்ளார்.
+Sri Lankan captain Samari Athapathu tops women's ODI rankings for the second time, scoring 773 points in the series against South Africa. She scored a century in the third match, helping Sri Lanka balance the ICC Women's Championships. Samari was also named the ICC International ODI cricketer for 2023 and captain of the ICC World Women's ODI team.
 
-மகளிர் ஒருநாள் துடுப்பாட்ட தரவரிசையில் சமரி அத்தபத்து முதலாம் இடத்தைப் பெற்றது இது இரண்டாவது தடவையாகும்.
+🟩
 
-2023 ஜூலை 3ஆம் திகதியிலிருந்து 12ஆம் திகதிவரை சிறிது காலத்திற்கு அத்தபத்து முதலிடத்தில் இருந்தார். அதன் பின்னர் பெத் மூனியும் அவரைத் தொடர்ந்து நட்டாலி சிவர் பரன்ட்டும் முதலிடத்தை அடைந்தனர்.
+Sri Lankan captain Samari Athapathu has once again finished first in international one -day bats.
 
-தென் ஆபிரிக்காவுக்கு எதிரான சர்வதேச ஒருநாள் கிரிக்கெட் தொடருக்கு முன்னர் தரவரிசையில் இரண்டாம் இடத்திலிருந்த சமரி அத்தபத்து, தொடர் முடிவில் 773 புள்ளிகளுடன் முதலிடத்திற்கு முன்னேறியுள்ளார்.
+This is the second time the women got the first place in the women's ODI rankings.
 
-தென் ஆபிரிக்காவுக்கு எதிராக பொச்செஸ்ட்ரூமில் நடைபெற்ற மூன்றாவது மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் ஆட்டம் இழக்காமல் 195 ஓட்டங்களைக் குவித்ததன் பலனாக சமரி அத்தப்பத்து தரிவரிசையில் முன்னேறினார்.
+From 3rd to July 2023 to the 12th of July,. After that, Beth Mooni and Natali Shivar Parent were the number one.
 
-அவரது அபார சதத்தின் உதவியுடன் தென் ஆபிரிக்காவுக்கு எதிரான ஐசிசி மகளிர் சம்பியன்ஷிப் தொடரை 1-1 என்ற ஆட்டக் கணக்கில் இலங்கை சமப்படுத்தியது.
+Samari Attapattu, second in the second rankings before the International ODI series against South Africa, topped the series with 773 points at the end of the series.
+
+Samari advanced to the scandal of 195 runs in the third women's ODI match against South Africa.
+
+With the help of her great century, Sri Lanka balanced the ICC Women's Championships against South Africa 1-1.
+
+In the up -up match, Samari Athapathu scored his 9th international one -day century.
+
+Samari also set the record for successfully scoring the highest number of runs on behalf of the last team.
 
 ...
 
 [Data](articles/92eb8618.json)
+
+[Extended Data](ext_articles/92eb8618.ext.json)
 
 ---
 
@@ -548,21 +598,27 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hatunnetti and Pro
 
 ---
 
-### உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டத்தை திறந்து வைப்பதற்கு ஈரான் ஜனாதிபதி நாளை இலங்கைக்கு வருகை; 05 புரித்துணர்வு ஒப்பந்தங்களை கைசாத்திடத் தீர்மானம்
+### Iran's President visits Sri Lanka tomorrow to open the Uma Oya Multipurpose Development Program05 Decision to Sign Up
 
 *2024-04-23 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181794) · `ta`
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை மக்கள் பாவனைக்கான கையளிக்கும் நிகழ்வில் கலந்து கொள்வதற்காக ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி நாளை புதன்கிழமை (24) இலங்கைக்குக்கு வருகைத் தரவுள்ளார்.
+Iran's President Ibrahim Raisi visits Sri Lanka tomorrow to open the Uma Oya Multipurpose Development Program, a significant irrigation project aimed at addressing water shortages in the southeastern region. This marks the first visit by an Iranian president to Sri Lanka since 2008. The project, valued at $514 million, aims to provide irrigation for 4500 hectares of agricultural land, drinking water for 39 million cubic meters, and 290 GWh of electricity annually. It involves a 3.98 km long water tunnel, a landing power plant, and other infrastructure. Despite delays, the project was completed in 2024 and is expected to significantly improve water management in the region.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் விசேட அழைப்பின் பேரில், ஈரான் ஜனாதிபதி ஒரு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு இலங்கை வரவுள்ளதுடன், 2008 ஏப்ரல் மாத்தில் அப்போதைய ஈரான் ஜனாதிபதி மொஹமட் அஹமதிநெஜாட்டின் இலங்கை விஜயத்திற்கு பின்னர், ஈரான் ஜனாதிபதியொருவர் இலங்கைக்கு விஜயம் செய்வது இதுவே முதல் தடவையாகும்.
+🟩
 
-ஈரானுக்கும் இலங்கைக்கும் இடையிலான இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவதற்கான 05 புரிந்துணர்வு ஒப்பந்தங்களும் இதன்போது கைசாத்திடப்படவுள்ளது.
+Iranian President Ibrahim Raisi will visit Sri Lanka tomorrow (24) to attend the Uma Oya Multipurpose Development Program for public use.
 
-மகாவலி திட்டத்தின் பின்னர், நாட்டின் மிகப்பெரிய நீர்ப்பாசனத் திட்டமாக வரலாற்றில் இணையும் உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டம் ஈரான் மற்றும் இலங்கை ஜனாதிபதிகளின் தலைமையில் நாளை (24) திறந்து வைக்கப்படவுள்ளது.
+This is the first time that the Iranian president will visit Sri Lanka after the visit of President Ranil Wickremesinghe, after the visit of the Iranian President Mohamed Ahmadinejat in April 2008, on April 2008.
+
+There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
+
+After the Mahaweli project, the Uma Oya Multipurpose Development Project, which joins history as the country's largest irrigation project, will be opened tomorrow (24) under the leadership of Iran and Sri Lankan Presidents.
 
 ...
 
 [Data](articles/16a4bbc5.json)
+
+[Extended Data](ext_articles/16a4bbc5.ext.json)
 
 ---
 
@@ -606,21 +662,27 @@ This poses potential health risks, especially to vulnerable populations such as 
 
 ---
 
-### வீட்டுத்திட்டம், காணி தருவதாக யாராவது பணம் பெற்றால் முறைப்பாடு செய்யுங்கள்  - இராஜாங்க அமைச்சர் மஸ்தான்
+### If someone gets the money, the land is given to the land - the Minister of State Mastan
 
 *2024-04-23 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181776) · `ta`
 
-ஜனாதிபதியின் திட்டத்திற்கு அமைய வடக்கிற்கு 50 ஆயிரம் சோலர் பவர் வீட்டுத் திட்டங்கள் வழங்கப்படவுள்ளது. பாராளுமன்ற உறுப்பினர் மற்றும் அமைச்சர்களின் பெயரை பயன்படுத்தி வீட்டுதிட்டம், காணி தருவதாக யாராவது பணம் பெற்றால் முறைப்பாடு செய்யுங்கள் என கிராமிய பொருளாதார அபிவிருத்தி இராஜாங்க அமைச்சர் காதர் மஸ்தான் தெரிவித்துள்ளார்.
+The Minister of State Mastan announced a 50,000 Solar Power Housing Scheme for the North, aiming to end homelessness. Despite past efforts, resettlement and rehabilitation remain incomplete. The scheme, valued at Rs 35 lakh per beneficiary, is part of broader efforts to address infrastructure needs and road rehabilitation. Additionally, efforts are underway to provide electricity and drinking water connections, and steps are being taken to address land issues, with immediate action taken by President Ranil Wickremesinghe.
 
-வவுனியா, கண்டி வீதியில் உள்ள அவரது அலுவலகத்தில் செவ்வாய்க்கிழமை (23) இடம்பெறடற ஊடக சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார். அவர் தொடர்ந்தும் கருத்து தெரிவிக்கையில்,
+🟩
 
-யுத்தம் முடிவடைந்த பின்பும் எமது மக்களின் மீள்குடியேற்றம், புனர்வாழ்வு என்பன கனவு போன்றே இருந்தது. இது சம்மந்தமாக பல அமைச்சர்கள் செயற்பட்டிருந்தாலும் அது பூரணப்படுத்தப்படவில்லை.
+50 thousand Solar Power Housing Schemes will be provided to the North according to the president's plan. Rural Economic Development Minister Khadar Mastan has said that if someone gets the money and land using the name of the Member of Parliament and the ministers.
 
-எமது மாவட்டத்தின் வீட்டுத் திட்ட தேவை, உட்கட்டமைப்பு வசதிகளின் தேவை, வீதி புனரமைப்பு உள்ளிட்ட பல்வேறு தேவைப்பாடுகள் தொடர்பாக நாம் ஜனாதிபதியிடம் தொடர்ச்சியாக கூறி வந்தோம். இந்நிலையில் கடந்த காலங்களில் பல்வேறு வீட்டுத் திட்டங்கள் நடைமுறைப்படுத்தப்பட்டது போன்று தற்போது வடக்கிற்கு சோலர் பவர் வீட்டுத் திட்டம் நடைமுறைப்படுத்தப்படவுள்ளது.
+He made this statement during a media briefing to take place on Tuesday (23) at his office on Kandy Road, Vavuniya.. As he continues to comment,
+
+After the end of the war, the resettlement and rehabilitation of our people were like a dream. Although many ministers have acted on this, it has not been completed.
+
+We have repeatedly told the President about the need for our district's housing plan, the need for infrastructure and the rehabilitation of the road.. In this context, the solar power housing scheme is to be implemented to the North as various housing projects have been implemented in the past.
 
 ...
 
 [Data](articles/bd68c552.json)
+
+[Extended Data](ext_articles/bd68c552.ext.json)
 
 ---
 

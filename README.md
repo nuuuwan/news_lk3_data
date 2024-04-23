@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 10:03:53**
+As of **2024-04-23 10:18:32**
 
 ## Newspaper Stats
 
-*Scraped **20,383** Articles*
+*Scraped **20,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,34 @@ adalk | 1,700
 tamilmirrorlk | 2,348
 adaderanalk | 2,434
 virakesarilk | 3,051
-dailymirrorlk | 3,171
+dailymirrorlk | 3,172
 adaderanasinhalalk | 3,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,379 (100.0%) of 20,383 articles have been extended.
+20,383 (100.0%) of 20,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### මැලේසියාවේ හමුදා හෙලිකොප්ටර් දෙකක් ගුවනේදී ගැටෙයි
+### Two military helicopters in Malaysia clash
 
 *2024-04-23 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195887) · `si`
 
-මැලේසියාවේ හමුදා පුහුණුවීමක් අතරතුර හෙලිකොප්ටර් යානා දෙකක් අනතුරට පත්ව තිබේ.
+Two military helicopters in Malaysia clashed during training, posing danger.
+
+🟩
+
+Two helicopters were in danger during military training in Malaysia.
 
 ◼️
 
 [Data](articles/ff7ed977.json)
+
+[Extended Data](ext_articles/ff7ed977.ext.json)
 
 ---
 
@@ -60,27 +66,39 @@ One of the helicopters is believed to have crashed onto a running track, while t
 
 [Data](articles/f2437918.json)
 
+[Extended Data](ext_articles/f2437918.ext.json)
+
 ---
 
-### පොලිස් වෙඩිතැබීමෙන් මිය ගිය පුද්ගලයින්ගේ අනන්‍යතාවය හෙළිවෙයි
+### Identity reveals from police shooting
 
 *2024-04-23 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195886) · `si`
 
-අද (23) අලුයම මීගොඩ පොලිස් වසමේ බෙරුකැටිය මංසන්ධිය අසල මාර්ග බාධක රාජකාරියේ යෙදී සිටි පොලිස් නිලධාරීන් අණ නොතැකූ ත්‍රීරෝද රථයකට වෙඩි තැබීමක් සිදුකර තිබිණී.
+Police officers in Meegoda Junction shot at a three-wheeler from Dompe, leading to a pursuit and shooting. The three-wheeler was from the Western Province South Criminal Division. The incident involved a resident of Mattegoda, identified as a criminal with a history of arrests for drug offenses. Another suspect, a 42-year-old from Thanamalwila, died from police fire. The deceased was involved in a shooting incident in Kandana Police Division in August 2023.
 
-දොම්පේ දෙස සිට පැමිණි ත්‍රීරෝද රථයක් නැවැත්වීම සඳහා සංඥා කර ඇති අතර, ඔවුන් පොලිස් අණ නොතකා ඉදිරියට ධාවනය කර ඇති අතර පොලිස් නිලධාරීන් දෙසට වෙඩි තැබීමක් සිදුකර මොරගහහේන දෙසට ගමන් කර ඇත.
+🟩
 
-අනතුරුව ඒ සම්බන්ධයෙන් අවට පොලිස් ස්ථාන දැනුවත් කිරීමට කටයුතු යොදා තිබේ.
+The police officers were shooting at the Meegoda Junction in the Meegoda Police Division this morning.
 
-එහිදී මොරගහහේන පොලිස් වසමේ මෙහෙයුම් රාජකාරි යෙදී සිටි බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් හට මෙම පණිවුඩය ලැබීමෙන් පසු පළා යමින් සිටි ත්‍රීරෝද රථය මොවුන් විසින් නැවැත්වීමට සංඥා කර තිබේ.
+They have been signaled to stop a three-wheeler from Dompe and has been shot to the police officers and headed to the Moragahahena.
 
-එම අවස්ථාවේ දී ත්‍රීරෝද රථය අණ නොතකා පළා යෑම හේතුවෙන් එම නිලධාරීන් විසින් ලුහුබැඳ ගොස් ඇති අතර ත්‍රීරෝද රථය මාර්ගයෙන් ඉවතට පැන නතර වී ඇත.
+The incident has been made to inform the surrounding police stations.
 
-ලුහුබැඳ පැමිණි ජිප් රථය ත්‍රීරෝද රථය ආසන්නයට පැමිණ නවත්නවාත් සමග ත්‍රීරෝද රථයේ සිටි පුද්ගලයෙකු විසින් ජිප් රථය දෙසට වෙඩිතැබීමක් සිදුකළ බව පොලීසිය පවසයි.
+The three-wheeler was signaled to stop the three-wheeler of the Western Province South Criminal Division of the Moragahahena police domain.
+
+The three-wheeler had been tracked by the officials due to the three-wheeler, and the three-wheeler had stopped.
+
+The pursuit of the jeep had come near the three-wheeler and had shouting the jeep by a person in the three-wheeler.
+
+The injured were injured and admitted to the Horana hospital due to the shooting carried out by officials at the time.
+
+The deceased has been identified as a resident of Mattegoda, a resident of Mattegoda.It has been revealed that the property has been stolen and sued the judiciary in respect of these mistakes.
 
 ...
 
 [Data](articles/cdadcb4f.json)
+
+[Extended Data](ext_articles/cdadcb4f.ext.json)
 
 ---
 
@@ -90,9 +108,19 @@ One of the helicopters is believed to have crashed onto a running track, while t
 
 General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morning due to a sudden illness.
 
+According to sources, he succumbed to his illness while being rushed to the Anuradhapura Teaching Hospital.
+
+Eng. Bandara was appointed as the railways chief in November 2023 following the retirement of his predecessor.
+
+He was educated at the Science College in Matale and received his bachelor’s degree in engineering from the Peradeniya University and the Moratuwa University.
+
+In 1996, he joined Sri Lanka Railways as an Assistant District Engineer and has served in a number of posts including District Engineer, Deputy Chief Engineer, Chief Engineer (Roads and Industries) and Additional General Manager (Infrastructure) during the span of his career.
+
 ◼️
 
 [Data](articles/0131d927.json)
+
+[Extended Data](ext_articles/0131d927.ext.json)
 
 ---
 
@@ -131,6 +159,18 @@ Railway Head Engineer (Road Engineering) and Additional General Manager (Infrast
 [Data](articles/96d81322.json)
 
 [Extended Data](ext_articles/96d81322.ext.json)
+
+---
+
+### Railways chief passes away
+
+*2024-04-23 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railways-chief-passes-away/108-281199) · `en`
+
+Anuradhapura, April 23 (Daily Miror) - The General Manager of Railways, H.M.K.W. Bandara passed away this morning due to a sudden illness at the Anuradhapura Hospital.
+
+◼️
+
+[Data](articles/a3393573.json)
 
 ---
 
@@ -2111,21 +2151,5 @@ According to the Deputy Leader of the UNP Ruwan Wijewardena, the only leader of 
 [Data](articles/d3f423cf.json)
 
 [Extended Data](ext_articles/d3f423cf.ext.json)
-
----
-
-### Keheliya further remanded until May 06
-
-*2024-04-22 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98779/keheliya-further-remanded-until-may-06-) · `en`
-
-Former Minister of Health Keheliya Rambukwella and eight others, who were implicated in the alleged import of substandard human immunoglobulin vials, have been further remanded until May 06, 2024.
-
-Maligakanda Magistrate Lochani Abeywickrema issued this order when the case was taken up today (22), Ada Derana reporter said.
-
-◼️
-
-[Data](articles/4f3f513f.json)
-
-[Extended Data](ext_articles/4f3f513f.ext.json)
 
 ---

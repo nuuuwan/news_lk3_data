@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 00:49:53**
+As of **2024-04-24 01:04:26**
 
 ## Newspaper Stats
 
-*Scraped **20,513** Articles*
+*Scraped **20,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,166
 adalk | 1,712
-tamilmirrorlk | 2,365
+tamilmirrorlk | 2,366
 adaderanalk | 2,447
 virakesarilk | 3,081
 dailymirrorlk | 3,200
@@ -26,9 +26,29 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,513 (100.0%) of 20,513 articles have been extended.
+20,513 (100.0%) of 20,514 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-24 (Wednesday)
+
+### நிதி மோசடியில் ஈடுபட்டவர் கைது
+
+*2024-04-24 00:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-மோசடியில்-ஈடுபட்டவர்-கைது/175-336250) · `ta`
+
+ஐரோப்பாவில் தொழில் பெற்றுத் தருவதாகக் கூறி நிதி மோசடி செய்த நபர் படல்கம பகுதியில் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தலங்காவ பகுதியை சேர்ந்த 29 வயதான ஒருவரே கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+வௌிநாட்டு வேலைவாய்ப்பு நிறுவனமொன்றை நடத்தி, கனடா மற்றும் ஐரோப்பிய நாடுகளில் தொழில் பெற்றுத்தருவதாகக் கூறி மேற்படி நபர் நிதி மோசடியில் ஈடுபட்டுள்ளார்.
+
+சந்தேகநபர், கனடாவில் தொழில் வாய்ப்பு பெற்றுத்தருவதாகக் கூறி பெண் ஒருவர் மற்றும் ஆண் ஒருவரிடமிருந்து இரண்டு லட்சம் ரூபா பணத்தை பெற்றுக்கொள்ள கடல்கம நகருக்கு வந்தபோது கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர். (a)
+
+◼️
+
+[Data](articles/1356e202.json)
+
+---
 
 ### 2024-04-23 (Tuesday)
 
@@ -2315,31 +2335,5 @@ The Central Bank of Sri Lanka has further stated that it has requested the Attor
 [Data](articles/daa7abe3.json)
 
 [Extended Data](ext_articles/daa7abe3.ext.json)
-
----
-
-### Police robbery in search of Valamburi
-
-*2024-04-23 11:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலம்புரி-தேடி-வந்த-பொலிஸார்-கொள்ளை/175-336231) · `ta`
-
-In Kalpitiya, three police-clad robbers stole Rs 40 million worth of jewelry, suspecting the house of Valamburi. They tied up the manager and intimidated others. Police are investigating and seeking the suspects.
-
-🟩
-
-Yesterday, a gang of three people in a police clothes in Kalpitiya, foam, shocked the people of the area and awakened the authorities.
-
-According to the police report, the robbers have robbed about 40 million jewelery of Rs 8 million.
-
-The victims said that the robbers of the policemen were suspected of being in the house of a valuable conch called Valamburi and had entered their home under the fake search.
-
-Subsequently, the robbers tied the hands and feet of the chief manager and intimidated the other residents.
-
-As investigations are revealed, police are actively taking steps to arrest the suspects and rescue the stolen assets.
-
-◼️
-
-[Data](articles/530d5b59.json)
-
-[Extended Data](ext_articles/530d5b59.ext.json)
 
 ---

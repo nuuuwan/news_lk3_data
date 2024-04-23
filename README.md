@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 10:18:32**
+As of **2024-04-23 10:33:55**
 
 ## Newspaper Stats
 
-*Scraped **20,384** Articles*
+*Scraped **20,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,700
 tamilmirrorlk | 2,348
 adaderanalk | 2,434
 virakesarilk | 3,051
-dailymirrorlk | 3,172
+dailymirrorlk | 3,173
 adaderanasinhalalk | 3,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,383 (100.0%) of 20,384 articles have been extended.
+20,384 (100.0%) of 20,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Ten dead as two Navy helicopters collide mid-air in Malaysia
+
+*2024-04-23 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ten-dead-as-two-Navy-helicopters-collide-mid-air-in-Malaysia/107-281200) · `en`
+
+Malaysia, April 23 (BBC) - Ten people have died after two navy helicopters collided in mid-air during a military rehearsal for a Royal Malaysian Navy parade.
+
+One of the choppers clipped the rotor of the other before the two crashed into the ground, footage published on local media show.
+
+The incident took place in the Malaysian town of Lumut, which is home to a navy base.
+
+One of the helicopters, a HOM M503-3 with seven people on board, is believed to have crashed onto a running track.
+
+The other, a Fennec M502-6 carrying the other three victims, crashed into a swimming pool nearby.
+
+The state's fire and rescue department said it was alerted to the incident at 09:50 local time (02:10 BST).
+
+◼️
+
+[Data](articles/bd71181e.json)
+
+---
 
 ### Two military helicopters in Malaysia clash
 
@@ -171,6 +193,8 @@ Anuradhapura, April 23 (Daily Miror) - The General Manager of Railways, H.M.K.W.
 ◼️
 
 [Data](articles/a3393573.json)
+
+[Extended Data](ext_articles/a3393573.ext.json)
 
 ---
 
@@ -2131,25 +2155,5 @@ It is noteworthy that the bail demand by the President's Attorney General on beh
 [Data](articles/063a8be9.json)
 
 [Extended Data](ext_articles/063a8be9.ext.json)
-
----
-
-### Ranil is the only leader can develop the country
-
-*2024-04-22 18:48:55* · [`adalk`](https://www.ada.lk/breaking_news/රට-සංවර්ධනය-කළ-හැකි-එකම-නායකයා-රනිල්/11-409211) · `si`
-
-Ranil Wickremesinghe, according to UNP Deputy Leader Ruwan Wijewardena, is the only leader capable of developing Sri Lanka, as evidenced by the country's recovery and growth, attracting investors and tourists.
-
-🟩
-
-According to the Deputy Leader of the UNP Ruwan Wijewardena, the only leader of the country has been able to rescue the country in the country that the country has been able to develop the country.He was addressing the people at their work on the New Year's Eve.
-
-"The country is resurrected to normal state.. The people have relief. The plant has improved. Investors and tourists are now starting to come to Sri Lanka. This year's May Day rally is supported by Ranil Wickremesinghe today that Sri Lanka is the only leader. "
-
-◼️
-
-[Data](articles/d3f423cf.json)
-
-[Extended Data](ext_articles/d3f423cf.ext.json)
 
 ---

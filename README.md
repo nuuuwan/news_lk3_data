@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 11:53:34**
+As of **2024-04-23 12:05:28**
 
 ## Newspaper Stats
 
-*Scraped **20,405** Articles*
+*Scraped **20,408** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 180
-bbccomsinhala | 212
+bbccomsinhala | 213
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,352
+tamilmirrorlk | 2,353
 adaderanalk | 2,435
 virakesarilk | 3,057
-dailymirrorlk | 3,174
+dailymirrorlk | 3,175
 adaderanasinhalalk | 3,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,393 (99.9%) of 20,405 articles have been extended.
+20,405 (100.0%) of 20,408 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### CBSL announces eight new pyramid activities
+
+*2024-04-23 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-announces-eight-new-pyramid-activities/108-281202) · `en`
+
+Based on complaints received, the Central Bank of Sri Lanka (CBSL) has released eight other institutions and inputs identified as engaging in pyramid activities.
+
+The notice was published by the CBSL following investigations conducted in accordance with Section 83C of the Banking Act No. 30 of 1988 to ascertain whether the following entities or applications conduct or have conducted schemes prohibited in terms of Section 83C of the Banking Act.
+
+◼️
+
+[Data](articles/928765fd.json)
+
+---
+
+### புகையிரத பொது முகாமையாளர் காலமானார்
+
+*2024-04-23 11:40:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-பொது-முகாமையாளர்-காலமானார்/175-336229) · `ta`
+
+புகையிரத பொது முகாமையாளர் எச்.எம்.கே.டபிள்யூ பண்டார திடீர் சுகயீனம் காரணமாக அனுராதபுரம் வைத்தியசாலையில் இன்று (23) காலை காலமானார்.
+
+◼️
+
+[Data](articles/4dad390e.json)
+
+---
 
 ### Army appoints investigation panel on Fox Hill Super Cross crash
 
@@ -42,81 +68,111 @@ A seven-member panel led by a Major General has been appointed to investigate th
 
 [Data](articles/0bdb6306.json)
 
+[Extended Data](ext_articles/0bdb6306.ext.json)
+
 ---
 
-### දියතලාවේ මාරක අනතුර ගැන පරීක්ෂණ කරන්න යුද හමුදාවෙන් කමිටුවක්
+### Army committee to investigate the diyotava fatal accident
 
 *2024-04-23 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195889) · `si`
 
-දියතලාව ෆොක්ස් හිල් මෝටර් රථ ධාවන තරගය අතරතුර සිදුවු අනතුර සම්බන්ධයෙන් පරීක්ෂණ පැවැත්වීම සඳහා සත්පුද්ගල කමිටුවක් පත් කිරීම සඳහා ශ්‍රී ලංකා යුද හමුදාව තීරණය කර තිබේ.
+The Sri Lanka Army has formed a Zote Committee to probe the Diyatalawa Fox Hill race accident.
+
+🟩
+
+The Sri Lanka Army has decided to appoint a Zote Committee to investigate the accident during the Diyatalawa Fox Hill race.
 
 ◼️
 
 [Data](articles/446de22a.json)
 
+[Extended Data](ext_articles/446de22a.ext.json)
+
 ---
 
-### தங்கை கர்ப்பம்: சகோதரன் கைது
+### Pregnancy: Brother arrested
 
 *2024-04-23 11:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்கை-கர்ப்பம்-சகோதரன்-கைது/175-336228) · `ta`
 
-பத்தாம் தரத்தில் கல்வி கற்கும் 15 வயது சிறுமியை பாலியல் பலாத்காரம் செய்து   கர்ப்பமாக்கிய மூத்த சகோதரனை கைது செய்வதற்கான விசாரணைகளை வெல்லவாய பொலிஸார் ஆரம்பித்துள்ளனர்.
+Wellawaya police investigate and arrest a 15-year-old girl's elder brother for repeatedly raping her from 2019 to 2024, leading to her pregnancy. The brother was reported to have raped her multiple times after midnight, and the victim claimed her father and brother also assaulted her. The police are now focusing on arresting the suspects based on the victim's affidavit.
 
-வயிற்று வலிக்காக வெல்லவாய ஆதார வைத்தியசாலைக்கு தாயுடன் சென்ற போது, ​​அவர் கர்ப்பமாக இருப்பது தெரியவந்துள்ளது. விசாரணைகளின் போதே, 2019 ஆம் ஆண்டு முதல் 2024 ஆம் ஆண்டு வரை மூத்த சகோதரரால் பலமுறை வன்புணரப்பட்டமை வெளிச்சத்துக்கு வந்தது.
+🟩
 
-அதன்படி, சிறுமியிடம் நடத்தப்பட்ட விசாரணையின் போது, ​​நள்ளிரவு 12 மணிக்குப் பிறகு, வீட்டில் உள்ளவர்கள் தூங்கச் சென்றதும், ​​அவரது மூத்த சகோதரர் தன்னுடைய அறைக்கு வந்து, தொடர்ந்து பலமுறை பாலியல் பலாத்காரம் செய்துள்ளார்.
+Wellawaya police have launched investigations to arrest the elder brother who raped and pregnant a 15 -year -old girl who was educated in the 10th grade.
 
-மேலும், தனது தந்தை மற்றும் தம்பியும் தன்னை பாலியல் பலாத்காரம் செய்ததாக பாதிக்கப்பட்ட சிறுமி கூறியுள்ளார்.
+When she went to the Wellawa Passenger Hospital for abdominal pain, she was reported to be pregnant. During the hearing, the elder brother was repeatedly raped from 2019 to 2024.
 
-கடைசியாக ஜனவரி 12 மற்றும் ஏப்ரல் 19 ஆகிய திகதிகளில் மூத்த சகோதரர் தன்னை பாலியல் பலாத்காரம் செய்தது தெரியவந்துள்ளது. அச்சிறுமியின் வாக்குமூலத்தின் அடிப்படையில்,  சந்தேக நபர்களை கைது செய்யும் நடவடிக்கையில் வெல்லவாய பொலிஸார் ஈடுபட்டுள்ளனர்.
+Accordingly, during the investigation into the girl, after 12 midnight, when the homeowners went to sleep, her older brother came to his room and continued to rape several times.
+
+Also, the victim has claimed that her father and brother had raped her.
+
+It was revealed that the older brother had been raped on January 12 and April 19. Based on the affidavit of the princess, the Wellawaya police are in the process of arresting the suspects.
 
 ◼️
 
 [Data](articles/e0fc52b3.json)
 
+[Extended Data](ext_articles/e0fc52b3.ext.json)
+
 ---
 
-### பாக்கு நீரிணையை கடக்க முயன்ற முதியவர் நடுக்கடலில் மரணம்
+### The old man who tried to cross the Baku Strait
 
 *2024-04-23 11:28:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாக்கு-நீரிணையை-கடக்க-முயன்ற-முதியவர்-நடுக்கடலில்-மரணம்/175-336227) · `ta`
 
-இலங்கையில் தலைமன்னார் முதல் இந்தியாவில் தனுஷ்கோடி வரை உள்ள 30 கிலோமீட்டர் தூரமுடைய பாக்கு நீரிணையை நீந்திக் கடக்க முயன்ற இந்தியாவைச் சேர்ந்த முதியவர் நடுக்கடலில் நெஞ்சு வலி காரணமாக உயிரிழந்தார்.
+An elderly man from India, Gopal Rao, 78, died of chest pain while attempting to swim 30 km from Talaimannar to Dhanushkodi. A team of 31, including Gopal Rao, left Rameswaram for the swim. After Gopal's death, 30 people abandoned the event. Rameswaram Narine Police are investigating.
 
-தலைமன்னார் முதல் தனுஷ்கோடி அரிச்சல் முனை வரை நீந்தி கடப்பதற்கு இந்திய, இலங்கை இருநாட்டு அரசாங்கத்திடம் உரிய அனுமதி பெற்று நேற்று திங்கட்கிழமை  (22) 31 பேர் கொண்ட குழு ராமேஸ்வரத்தில் இருந்து படகு மூலம் புறப்பட்டு தலைமன்னார் வந்தடைந்தனர்.
+🟩
 
-இங்கிருந்து இன்று செவ்வாய்க்கிழமை (23) அதிகாலை சுமார் 12.10 மணி அளவில் கடலில் குதித்து நீந்த  தொடங்கினர்.
+An elderly man from India, who was trying to swim 30 kilometers from Talaimannar to Dhanushkodi in India, died of chest pain in the middle of the sea.
 
-அப்போது 3 மணி அளவில் பெங்களூரைச் சேர்ந்த கோபால் ராவ் (78) என்பவருக்கு திடீரென நடுக்கடலில் நெஞ்சுவலி ஏற்பட்டு உயிரிழந்துள்ளார்.
+A team of 31 people left the boat from Rameswaram on Monday (22) by boat on Monday (22) to get the permission from the Indian and Sri Lankan government to swim from Talaimannar to Dhanushkodi.
 
-இதனையடுத்து அவரை பரிசோதித்த மருத்துவக் குழு நெஞ்சு வலி காரணமாக கோபால் ராவ் உயிரிழந்ததை உறுதிப்படுத்தினர்.
+From here, they jumped into the sea at about 12.10 am today (23).
 
-இதனையடுத்து, கோபால் ராவ் உடல் தனுஷ்கோடி பாலம் மீன்பிடித் துறைமுகத்திற்கு எடுத்து செல்லப்பட்டு பின்னர் உடற்கூறு ஆய்வுக்காக ராமேஸ்வரத்திலுள்ள வைத்தியசாலையில்  வைக்கப்பட்டுள்ளது.
+At 3 pm, Gopal Rao, 78, from Bangalore, died suddenly in the middle of the sea.
 
-...
+Subsequently, the medical team who examined him confirmed that Gopal Rao died of chest pain.
+
+Subsequently, the body of Gopal Rao was taken to the Dhanushkodi Bridge Fisheries Harbor and was then placed at the hospital in Rameswaram for anatomy.
+
+As a accompanying man died, 30 people abandoned the achievement event from Mannar to Dhanushkodi.
+
+Rameshwaram Narine Police have registered a case regarding the death of Gopal Rao.. Remble
+
+◼️
 
 [Data](articles/73d8c890.json)
 
+[Extended Data](ext_articles/73d8c890.ext.json)
+
 ---
 
-### தாய்வானின் கிழக்கு கடற்கரையில் 80க்கும் மேற்பட்ட தொடர் நிலநடுக்கங்கள்
+### More than 80 series of earthquakes on the east coast of Taiwan
 
 *2024-04-23 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181749) · `ta`
 
-தாய்வானின் கிழக்கு கடற்கரையில் திங்கட்கிழமை இரவு ஆரம்பித்து செவ்வாய் அதிகாலை வரை 6.3 ரிச்டர் அளவில் 80க்கும் மேற்பட்ட நிலநடுக்கங்கள் ஏற்பட்டுள்ளதாக அந்நாட்டில் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Over 80 earthquakes hit Taiwan's East Coast, including a 7.2 magnitude quake on April 3, killing 14. The quakes are frequent due to Taiwan's location between two tectonic plates.
 
-அங்கு கடந்த 3 ஆம் திகதி 7.2 ரிச்டர் அளவில் நிலநடுக்கம் ஏற்பட்டு, 14 பேர் உயிரிழந்தனர். அதனை தொடர்ந்து தாய்வானில் நூற்றுக்கணக்கான நில அதிர்வுகள் பதிவாகியுள்ளன.
+🟩
 
-Hualien இல் உள்ள தீயணைப்புத் துறை செவ்வாயன்று அதிகாலையில், ஏப்ரல் 3 ஆம் தேதி ஏற்கனவே சேதமடைந்த ஒரு ஹோட்டல் இப்போது செயல்பாட்டில் இல்லை என்று கூறியது.
+More than 80 earthquakes have occurred on the East Coast of Taiwan on Monday night and till Tuesday morning, the Department of Meteorology said.
 
-புவியின் 2 டெக்டானிக் தகடுகள் சந்திக்கும் இடத்தில் தாய்வான் உள்ளமையினால் அடிக்கடி நிலநடுக்கம் ஏற்படும்.
+There was an earthquake of 7.2 magnitude 7.2 on the 3rd and 14 people were killed. This was followed by hundreds of earthquakes in Taiwan.
 
-2016 ஆம் ஆண்டு  தெற்கு தாய்வானில் ஏற்பட்ட நிலநடுக்கத்தில் 100 க்கும் மேற்பட்டோர்  உயிரிழந்துள்ளனர்.
+The fire department in Hualien said that on Tuesday morning, a hotel that had already been damaged on April 3 was not in operation.
 
-அதேவேளை,  1999 இல் 7.3 ரிச்டர் அளவிலான நிலநடுக்கத்தில் 2,000 க்கும் அதிகமானோர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+The earthquake is frequent due to the existence of Taiwan at the site of the Earth's 2 tectonic plates.
+
+More than 100 people were killed in the 2016 earthquake in South Taiwan.
+
+At the same time, more than 2,000 people were killed in the 7.3 magnitude earthquake in 1999.
 
 ◼️
 
 [Data](articles/0a94f57c.json)
+
+[Extended Data](ext_articles/0a94f57c.ext.json)
 
 ---
 
@@ -146,21 +202,27 @@ About 50 passports were found in his house in the investigation by the suspect.
 
 ---
 
-### விமான விபத்தில் 10 பேர் பலி
+### 10 killed in plane crash
 
 *2024-04-23 10:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-10-பேர்-பலி/50-336225) · `ta`
 
-மலேசியாவில் கடற்படை ஒத்திகையின்போது இரு ஹெலிகாப்டர்கள் மோதிய விபத்துக்குள்ளானதில் 10 பேர் உயிரிழந்துள்ளனர். மலேசியாவின் பெரக் பகுதியில் உள்ள இராணுவ தளத்தில் நடந்த LIVE ஒத்திகையின்போது ஹெலிகாப்டர்கள் விபத்து ஏற்பட்டுள்ளது.
+10 killed in Malaysia naval rehearsal helicopter crash. Two helicopters crashed during a live rehearsal for the 90th Malaysian Navy Day, killing all on board.
 
-இரு ஹெலிகாப்டர்களில் பயணித்த கடற்படை ஊழியர்கள் உள்ளிட்ட 10 பேர் நிகழ்விடத்திலேயே உயிரிழந்தனர். மலேசிய கடற்படை தினத்தின் 90ஆம் ஆண்டு நிகழ்ச்சிக்காக நடந்த ஒத்திகையின்போது கோர விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-இன்று (23) காலை 9.32 மணியளவில் RMN Lumut தளத்தில் நடந்த 90வது RMN நாள் அணிவகுப்பு அணிவகுப்பின் போது RMN கடல்சார் ஆபரேஷன் ஹெலிகாப்டர் (HOM-AW139) மற்றும் RMN FENNEC ஹெலிகாப்டர் விபத்துக்குள்ளானதாக ராயல் மலேசியன் நேவி (RMN) உறுதிப்படுத்தியுள்ளது.
+Two helicopters crashed during a naval rehearsal in Malaysia. Helicopters crashed during a LIVE rehearsal at a military base in Perak, Malaysia.
 
-இந்த சம்பவத்தில் மொத்தம் 10 பேர் ஈடுபட்டுள்ளனர், அதாவது 7 TLDM HOM குழுவினர் மற்றும் 3 TLDM Fennec குழுவினர். பாதிக்கப்பட்ட அனைவரும் சம்பவ இடத்திலேயே இறந்துவிட்டதாக உறுதி செய்யப்பட்டு, அடையாளம் காணும் செயல்முறைக்காக Lumut TLDM அடிப்படை இராணுவ மருத்துவமனைக்கு அனுப்பி வைக்கப்பட்டனர்.
+Ten people, including naval workers who traveled in two helicopters, died on the spot. The accident occurred during a rehearsal for the 90th anniversary of the Malaysian Navy Day.
+
+Royal Malaysian Nevi (RMN) has confirmed that the RMN Maritime Operation Helicopter (HOM-AW139) and RMN Fennec helicopter crashed during the 90th RMN Day parade at the RMN Lumut site at 9.32 am today (23).
+
+A total of 10 people were involved in the incident, ie 7 TLDM HOM team and 3 TLDM Fennec. All the victims were confirmed that they were dead on the spot and sent to the Lumut TLDM Basic Army Hospital for identification process.
 
 ...
 
 [Data](articles/ba3432e2.json)
+
+[Extended Data](ext_articles/ba3432e2.ext.json)
 
 ---
 
@@ -178,21 +240,27 @@ Devotees at the Pillewa Bodhiraja Temple and Bellanwila Rajamaha Viharaya are se
 
 ---
 
-### ரயில்வே திணைக்களத்தின் பொது முகாமையாளர் காலமானார்
+### The General Manager of the Railway Department has passed away
 
 *2024-04-23 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181747) · `ta`
 
-ரயில்வே திணைக்களத்தின் பொது முகாமையாளர் எச்.எம்.கே.டபிள்யூ.பண்டார இன்று செவ்வாய்கிழமை (23) காலை காலமாகியுள்ளார்.
+HMKW Pandara, General Manager of Railways, passed away after sudden illness. He was an engineer, alumnus of Matale College of Science, and held key positions including Chief Engineer and General Manager of Infrastructure.
 
-இவர் திடீர் சுகவீனம் காரணமாக அநுராதபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில்  உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
 
-மாத்தளை விஞ்ஞானக் கல்லூரியின் பழைய மாணவரான இவர் தனது உயர் கல்வியை பேராதனை மற்றும் மொரட்டுவை ஆகிய பல்கலைக்கழகங்களில் நிறைவு செய்து  பொறியாளராக  தனது தொழிலை ஆரம்பித்துள்ளார்.
+The General Manager of the Railways Department, HMKW Pandara, passed away this morning (23).
 
-ரயில்வே திணைக்களத்தின் தலைமைப் பொறியாளர் மற்றும் உட்கட்டமைப்பு பொது முகாமையாளர்  உள்ளிட்ட பல உயர் பதவிகளையும் இவர் வகித்துள்ளார்.
+He was admitted to the Anuradhapura Hospital due to sudden illness, hospital sources said.
+
+He is an alumnus of the College of Science, Matale, and has completed his higher education at the Universities of Peradeniya and Moratuwa and started his career as an engineer.
+
+He has also held several top posts, including the Chief Engineer of the Railway Department and the General Manager of Infrastructure.
 
 ◼️
 
 [Data](articles/fffa9341.json)
+
+[Extended Data](ext_articles/fffa9341.ext.json)
 
 ---
 
@@ -222,25 +290,35 @@ The event was taken to the incident and the Magistrate Chandana Kalazuriya Magis
 
 ---
 
-### பாக்கு நீரிணையை நீந்தி கடக்க முயன்ற முதியவர் நடுக்கடலில் உயிரிழப்பு
+### An elderly man who tried to overcome Baku Strait
 
 *2024-04-23 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181746) · `ta`
 
-பாக்கு நீரிணையை கடக்க முயன்ற இந்தியாவைச் சேர்ந்த முதியவர் நடுக்கடலில் நெஞ்சு வலி காரணமாக உயிரிழந்தார்.
+An elderly man, Gopal Rao, 78, from Bangalore, died of chest pain while attempting to swim the Baku Strait from Talaimannar to Dhanushkodi. The event involved 31 swimmers, including Gopal Rao, who left Rameswaram on Monday. The medical team confirmed his death, and the body was taken to Dhanushkodi for anatomy. The incident led to the abandonment of the swim by the remaining 30 participants.
 
-இலங்கையில் தலைமன்னார் முதல் இந்தியாவில் தனுஷ்கோடி வரை உள்ள 30 கிலோமீட்டர் தூரம் பாக்கு நீரிணை கடல் பகுதியை சமீப காலமாக வெளியூர் மற்றும் வெளி மாநிலங்களை சேர்ந்த பல நீச்சல் வீரர்கள் நீந்தி கடந்து சாதனை படைத்து வருகின்றனர்.
+🟩
 
-இந்நிலையில்,  தலைமன்னார் முதல் தனுஷ்கோடி அரிச்சல் முனை வரை நீந்தி கடப்பதற்கு இந்திய, இலங்கை இருநாட்டு அரசாங்கத்திடம் உரிய அனுமதி பெற்று நேற்று திங்கட்கிழமை  (22) 31 பேர் கொண்ட குழு ராமேஸ்வரத்தில் இருந்து படகு மூலம் புறப்பட்டு தலைமன்னார் வந்தடைந்தனர்.
+An elderly man from India, who was trying to cross the Baku Strait, died of chest pain in the middle of the sea.
 
-இங்கிருந்து இன்று செவ்வாய்க்கிழமை (23) அதிகாலை சுமார் 12.10 மணி அளவில் கடலில் குதித்து தொடர் ஓட்டம் முறையில் நீந்த  தொடங்கினர்.
+In recent years, many swimmers from foreign and foreign states have been swimming in the 30 -kilometer Baku Strait from Talaimannar to Dhanushkodi in India.
 
-அப்போது சரியாக மூன்று மணி அளவில் தொடர் ஓட்ட நீந்துதலில் மூன்றாவது இடத்தில் இருந்த பெங்களூரைச் சேர்ந்த கோபால் ராவ் (78) என்பவருக்கு திடீரென நடுக்கடலில் நெஞ்சுவலி ஏற்பட்டு உயிரிழந்துள்ளார்.
+In this case, a group of 31 people left the boat from Rameswaram on Monday (22) by boat on Monday with the permission of the Indian and Sri Lankan government to swim from Talaimannar to Dhanushkodi Ariyal.
 
-இதனையடுத்து அவரை பரிசோதித்த மருத்துவக் குழு நெஞ்சு வலி காரணமாக கோபால் ராவ் உயிரிழந்ததை உறுதிப்படுத்தினர்.
+From here they jumped into the sea at about 12.10 am today (23).
+
+Gopal Rao, 78, from Bangalore, who was third, was suddenly killed in the middle of the sea.
+
+Subsequently, the medical team who examined him confirmed that Gopal Rao died of chest pain.
+
+Subsequently, the body of Gopal Rao was taken to the Dhanushkodi Bridge Fisheries Harbor and was then placed at the hospital in Rameswaram for anatomy.
+
+As a accompanying man died, 30 people abandoned the achievement event from Mannar to Dhanushkodi.
 
 ...
 
 [Data](articles/8af83446.json)
+
+[Extended Data](ext_articles/8af83446.ext.json)
 
 ---
 
@@ -264,21 +342,27 @@ Another man inside the three -wheeler has fled the shooting, police said the pol
 
 ---
 
-### மலேசியாவில் இராணுவ ஒத்திகையின் போது இரு ஹெலிக்கொப்டர்கள் மோதி விபத்து ; 10  பேர் பலி
+### Two helicopters collide during military rehearsal in Malaysia;10 people killed
 
 *2024-04-23 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181743) · `ta`
 
-மலேசியாவில் இராணுவ ஒத்திகையின் போது இரண்டு கடற்படை ஹெலிக்கொப்டர்கள் மோதி விபத்துக்குள்ளானதில் 10  பேர் உயிரிழந்துள்ளனர்.
+In Malaysia, a military rehearsal helicopter collision at Lumud Naval Base killed 10, with both helicopters crashing; one on the road, the other in a lake.
 
-இந்த இரண்டு ஹெலிக்கொப்டர்களும்  தரையில் விழுந்து நொருங்குவதற்கு முன் ஒன்றுடன் ஒன்று மோதிக் கொண்டதாக உள்ளூர் ஊடக நிகழ்ச்சிகளில் வெளியான காணொளியில் பதிவாகியுள்ளது.
+🟩
 
-இந்த சம்பவம் மலேசியாவின் லுமுட் நகரிலுள்ள கடற்படைத் தளத்தில் இடம்பெற்றுள்ளது. இரு கெலிக்கொப்டர்களிலும் பயணித்த எவரும் உயிர்ப்பிழைக்கவில்லை என தெரிவிக்கப்படுகிறது.
+Ten people were killed when two naval helicopters crashed during a military rehearsal in Malaysia.
 
-விபத்துக்குள்ளான ஹெலிக்கொப்டர்களில் ஒன்று ஓடும் பாதையில் விழுந்து நொருங்கியதோடு, மற்றொன்று அருகில் உள்ள நீச்சல் தடாகத்தில் விழுந்ததாகவும் தெரிவிக்கப்படுகிறது.
+Local media showcases have been reported in local media shows that the two helicopters have clashed with each other.
+
+The incident took place at the Naval Base in Lumud, Malaysia. It is reported that no one who traveled on both kelikopters did not survive.
+
+It is reported that one of the crashed helicopters fell on the road and the other fell into a nearby swimming lake.
 
 ◼️
 
 [Data](articles/0a51bd55.json)
+
+[Extended Data](ext_articles/0a51bd55.ext.json)
 
 ---
 
@@ -306,23 +390,31 @@ The state's fire and rescue department said it was alerted to the incident at 09
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்றவேளை சங்கிரிலா ஹோட்டலின் 616- 623 இலக்க அறைகளில் தங்கியிருந்தவர்கள் யார் – ஐக்கிய மக்கள் சக்தி கேள்வி?
+### Who stayed in the 616- 623 number of rooms at the Sankirila Hotel when the lifeblood attack took place- the United People's Power Question?
 
 *2024-04-23 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181741) · `ta`
 
-சஹ்ரான் ஹாசிம் சங்கிரிலா ஹோட்டலில் தங்கியிருந்தவேளை 616 மற்றும் 623 வது அறைகளில் தங்கியிருந்தவர்கள் யார் என ஐக்கிய மக்கள் சக்தி கேள்வி எழுப்பியுள்ளது.
+The United People's Power has questioned who stayed in the 616 and 623rd rooms at the Sangirila Hotel during the lifeblood attack, where Sahran Hashim was present. The group alleges that Sahran Hashim and Saka Ilam Ahmad, involved in the suicide attack, are trying to hide details of the hotel's guests. The hotel management has refused to disclose the names of the two men in the 616th room, despite handing over details of other guests to the Colombo High Court.
 
-2019 ஏப்பிரல் 21ம் திகதி தற்கொலை தாக்குதலில் ஈடுபட்ட சஹ்ரான் ஹாசிமும் அவரது சகா இலாம் அஹமட்டும் 20 ம் திகதி அதே ஹோட்டலில் சந்தித்த நபர்கள் குறித்த விபரங்களை மூடிமறைப்பதற்கான முயற்சிகள் இடம்பெறுவதாக ஐக்கிய மக்கள் சக்தி தெரிவித்துள்ளது.
+🟩
 
-ஐக்கிய மக்கள் சக்தியின் பேச்சாளர் முஜிபூர் ரஹ்மான் இது குறித்த தகவல்களை வெளியிட்டுள்ளார்.
+The United People's Power has questioned who was staying in the 616 and 623rd rooms while Sahran Hashim was staying at the Sangirila Hotel.
 
-2019 ஏப்பிரல் 20 திகதி இரவு இரண்டு தற்கொலை குண்டுதாரிகள்  சங்கிரிலா ஹோட்டலின் ஆறாவது மாடியில் உள்ள அறையில் தங்கியிருந்தனர் என அவர் தெரிவித்துள்ளார்.
+The United People's Power has reported that Sahran Hassim and his Saka Ilam Ahmad, who were involved in the suicide attack on April 21, 2019, are trying to cover up the details of the people who met at the same hotel on the 20th.
 
-அந்த அறையில் தங்கியிருந்த இருவரின் பெயர் விபரங்களை ஹோட்டல் நிர்வாகம் பகிரங்கப்படுத்த  மறுக்கின்றது எனவும்  அவர் தெரிவித்துள்ளார்.
+United People's Power spokesman Mujibur Rahman has released the information.
+
+On the night of April 20, 2019, two suicide bombs were staying in the room on the sixth floor of the Sangirila Hotel.
+
+He also said that the hotel management refuses to make the names of the two men who stayed in the room.
+
+He said that the details of those who stayed at the hotel in the first two weeks of the survival Sunday attack were handed over to the Colombo High Court, but the hotel management did not provide details of those who stayed in the 616th room.
 
 ...
 
 [Data](articles/de4ad065.json)
+
+[Extended Data](ext_articles/de4ad065.ext.json)
 
 ---
 
@@ -470,27 +562,37 @@ Anuradhapura, April 23 (Daily Miror) - The General Manager of Railways, H.M.K.W.
 
 ---
 
-### இஸ்ரேல் காசா: இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்டதாயின்  கருப்பையிலிருந்து உயிருடன் மீட்கப்பட்ட குழந்தை
+### Israeli Gaza: A child rescued from the uterus if he was killed in Israel's attack
 
 *2024-04-23 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/181738) · `ta`
 
-இஸ்ரேலின் தாக்குதலில் கொல்லப்பட்ட தாயின் கருப்பையிலிருந்து  குழந்தை காப்பாற்றப்பட்ட சம்பவம் காசாவில் இடம்பெற்றுள்ளது.
+In Gaza, a child was rescued from its mother's womb after an Israeli attack. The mother, Sabreen, was severely injured, and her husband was killed. The child, born prematurely, survived but faces a respiratory disorder.
 
-அந்த இளம்தாய் ஏழு மாதங்களாக பிள்ளையை தன் வயிற்றில் சுமந்துள்ளார் – கடும் மோதல்கள் அச்சங்களிற்கு மத்தியில்.
+🟩
 
-யுத்தம் முடிவடையும் வரை தங்கள் குடும்பத்தின் அதிஸ்டம் நீடிக்கும் என அவர் எதிர்பார்த்தார்.
+Gaza has taken place from the mother's womb killed in Israel's attack.
 
-எனினும்  ஏப்பிரல் 20 திகதி நள்ளிரவிற்கு முன்னர் இடம்பெற்ற பாரியவெடிப்பினால் ஏற்பட்ட சத்தங்கள் தீ பரவலிற்கு மத்தியில் அவர் எதிர்பார்த்த அதிஸ்டம் காணாமல்போனது.
+The young man has been carrying the child in his stomach for seven months - amid fears of heavy conflict.
 
-சப்ரீனும் கணவரும் அவரின் மூன்றுவயது மகள் மலாக்கும் உறங்கிக்கொண்டிருந்த ரபா வீட்டின் மீது இஸ்ரேலிய படையினர் குண்டொன்றை வீசினர்.
+He expected that the miracle of their family would last until the end of the war.
 
-சபிரீன் கடும் காயங்களிற்குள்ளானார் அவரது கணவர் கொல்லப்பட்டார் எனினும் மீட்பு பணியாளர்கள் அந்த வீட்டை நெருங்கிய வேளை சிசு தாயின் வயிற்றில் இன்னமும் உயிருடன் இருந்தது.
+However, the noise caused by the massive falculation that took place on April 20 on the 20th of April, the miracle he was expecting was missing.
 
-மீட்பு பணியாளர்கள் சப்ரீனை உடனடியாக மருத்துவமனைக்கு கொண்டு சென்றனர் அங்கு சிசேரியன் மூலம் குழந்தை வெளியே எடுக்கப்பட்டது.
+Israeli soldiers threw a bomb on Raba's house, Sabreen and her husband, Malak, who was sleeping.
+
+Sabreen was severely injured and her husband was killed, though the rescue workers were still alive in the baby's mother's stomach.
+
+Rescuers immediately took Sabrin to the hospital where the child was taken out by cesarean.
+
+Can't save Sabrine but doctors made a serious effort to survive the baby.
+
+Dr. Mohammed Salama, head of the neonatal emergency department of Raba's Emirates Hospital, says she was born in the midst of a very serious respiratory tract.
 
 ...
 
 [Data](articles/d0e6785c.json)
+
+[Extended Data](ext_articles/d0e6785c.ext.json)
 
 ---
 
@@ -513,6 +615,8 @@ Energy utilities were made to borrow from state banks to run off-budget subsidie
 ...
 
 [Data](articles/c07a279c.json)
+
+[Extended Data](ext_articles/c07a279c.ext.json)
 
 ---
 
@@ -817,6 +921,32 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/8570915e.json)
 
 [Extended Data](ext_articles/8570915e.ext.json)
+
+---
+
+### 'වසර දෙකකදී ශ්‍රී ලාංකිකයින් ලක්ෂ 25ක් රට හැර ගිහින්; ඩොලර් මිලියන 10,000ක් ශ්‍රී ලංකාවට එවලා'
+
+*2024-04-23 05:58:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr7e5v7ng5o) · `si`
+
+'වසර දෙකකදී ශ්‍රී ලාංකිකයින් ලක්ෂ 25ක් රට හැර ගිහින්; ඩොලර් මිලියන 10,000ක් ශ්‍රී ලංකාවට එවලා'
+
+පසුගිය වසර දෙකක, එනම්, 2022 සහ 2023 වසර දෙක තුළ ශ්‍රී ලාංකිකයින් 2,565,365 දෙනෙකු විවිධ හේතු මත රට හැර ගොස් ඇතැයි ශ්‍රී ලංකා මහ බැංකුවේ කාර්තුමය වාර්තාවලින් තහවුරු වී තිබේ.
+
+එම සංඛ්‍යා ලේඛන අනුව, 2022 වසරේදී ශ්‍රී ලාංකිකයින් 1,127,758 දෙනෙකු සහ 2023 වසරේදී ශ්‍රී ලාංකිකයින් 1,437,607 දෙනෙකු විදේශ රටවලට සංක්‍රමණය වී ඇත.
+
+සංඛ්‍යා ලේඛනවල දැක්වෙන පරිදි 2022 සහ 2023 වසරවලදී රැකියා සඳහා විදෙස්ගත වී ඇත්තේ, සමස්ත විදේශගත වූවන්ගෙන් 24%ක් පමණි. එනම්, ශ්‍රී ලාංකිකයින් 608,925 දෙනෙකි.
+
+ඒ, 2022 වසරේදී 311,269 දෙනෙකු සහ 2023 වසරේදී 297,656 දෙනෙකු වශයෙනි.
+
+මෙම දත්ත අනුව, 2022 වසරේදී රැකියා සඳහා විදෙස් රටවලට සංක්‍රමණය වූ ශ්‍රී ලාංකිකයින්ගේ මාසික සාමාන්‍යය 25,939 දෙනෙකි.
+
+2023 වසරේදී විදේශ රටවලට සංක්‍රමණය වූවන්ගෙන් 70%ක් කුසලතා සහ වෘත්තීය සුදුසුකම් සහිත ශ්‍රමිකයින් බව සංඛ්‍යා ලේඛනවලින් තහවුරු වේ.
+
+2022 සහ 2023 වසරවලදී විදෙස්ගත ශ්‍රමිකයින්ගෙන් ශ්‍රී ලංකාවට ලැබුණු විදේශ විනිමය
+
+...
+
+[Data](articles/ae782774.json)
 
 ---
 
@@ -2051,65 +2181,5 @@ It was revealed that the residents had been looking for two days and that she wa
 [Data](articles/25472f1e.json)
 
 [Extended Data](ext_articles/25472f1e.ext.json)
-
----
-
-### Sri Lanka -World Food Scheme, which faces climate challenges
-
-*2024-04-22 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181720) · `ta`
-
-Sri Lanka's World Food Program faces climate challenges, including rising temperatures and excessive heat, threatening health and life. The scheme, assessing Sri Lanka's status in March, noted economic recovery but also highlighted 43% of families needing food aid. Despite stabilization, climate pressures impact agriculture and health. The World Food Scheme assists disadvantaged communities, providing immediate and long-term recovery support.
-
-🟩
-
-The World Food Program said that Sri Lanka is currently facing climate challenges and increasing temperatures and excessive heat have threatened people's health and life.
-
-The World Food Program said in a monthly assessment report, which included Sri Lanka's status and assistance to Sri Lanka in March last year.
-
-“It is now gradually recovering from the most economic crisis that Sri Lanka faced after independence. The funeral made about 6.2 million people in 2022. In October 2023, it was estimated that 24 percent of families faced a moderate diet.
-
-However, the situation is somewhat stabilized with inflation this year. However, the Global Food Scheme still continues to deal with 43 percent of families across the country and 42 per cent of families to get food for food. ”
-
-The organization, which has now faced Sri Lankan climate challenges, has threatened the health and life of human beings and has created pressure on the agriculture sector.
-
-...
-
-[Data](articles/78830ac8.json)
-
-[Extended Data](ext_articles/78830ac8.ext.json)
-
----
-
-### ‘Shree Ramayan Trails’ launched in Sri Lanka to boost tourism
-
-*2024-04-22 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98782/shree-ramayan-trails-launched-in-sri-lanka-to-boost-tourism) · `en`
-
-A historic milestone in the Indo-Sri Lankan cultural and religious bond was marked yesterday (21) with the official launch of the ‘Sri Ramayan Trails’ project at Taj Samudra in Colombo, the President’s Media Division (PMD) reported.
-
-This initiative aims to bolster the country’s tourism industry by leveraging cutting-edge technology and innovative tourism methodologies, it said.
-
-Under the auspices of His Holiness Swami Govind Dev Giri Maharaj, the Chief Treasurer of the renowned Sri Ram Mandir in Ayodhya, and graced by Mr. Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, the launch event showcased a commitment to fostering deeper ties between the two nations, the PMD said.
-
-...
-
-[Data](articles/a419381b.json)
-
-[Extended Data](ext_articles/a419381b.ext.json)
-
----
-
-### Iranian President to visit Sri Lanka on April 24
-
-*2024-04-22 21:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-President-to-visit-Sri-Lanka-on-April-24/108-281173) · `en`
-
-Colombo, April 22 (Daily Mirror) - President of the Islamic Republic of Iran Dr. Ebrahim Raisi is scheduled to make an official bilateral visit to Sri Lanka at the invitation of President Ranil Wickremesinghe to jointly declare open the Uma Oya Multipurpose Development Project on April 24, The Foreign Affairs Ministry said.
-
-They said the Uma Oya Multipurpose Development Project, funded by Sri Lanka and Iran, is designed to generate and add 120 Megawatts of electricity to Sri Lanka’s national grid and provide irrigation to approximately 25,000 acres of paddy lands in the south-eastern part of Sri Lanka.
-
-◼️
-
-[Data](articles/a64f2e8a.json)
-
-[Extended Data](ext_articles/a64f2e8a.ext.json)
 
 ---

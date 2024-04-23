@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 13:52:58**
+As of **2024-04-23 14:03:35**
 
 ## Newspaper Stats
 
-*Scraped **20,417** Articles*
+*Scraped **20,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,95 +16,157 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,357
+tamilmirrorlk | 2,358
 adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,176
-adaderanasinhalalk | 3,310
+adaderanasinhalalk | 3,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,413 (100.0%) of 20,417 articles have been extended.
+20,417 (100.0%) of 20,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### பணவீக்கம் குறைந்து
+### பொலிஸாரின் துப்பாக்கி பிரயோத்தில் இருவர் பலி
+
+*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோத்தில்-இருவர்-பலி/175-336238) · `ta`
+
+மீகொட - தெல்கெட்டிய சந்தியில் இன்று(23) அதிகாலை பொலிஸ் வீதித்தடையொன்றில் முச்சக்கர வண்டியை சோதனையிடுவதற்காக நிறுத்த முயற்சித்த சந்தர்ப்பத்தில் அந்த முச்சக்கர வண்டியில் இருந்த நபர்கள் பொலிஸார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு மொரகஹஹேனைக்கு தப்பிச்சென்றதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+இதனையடுத்து மொரகஹஹேனை பொலிஸாருக்கு வழங்கப்பட்ட தகவலுக்கமைய, விசாரணைகளுக்காக அங்கு வந்த கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகள் அந்த முச்சக்கர வண்டியை நிறுத்த முயற்சித்த சந்தர்ப்பத்திலும் முச்சக்கர வண்டி கட்டளையை மீறிப் பயணித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+
+அதற்கமைய, மொரகஹஹேனை - மீப்பே வீதியிலுள்ள டயர் தொழிற்சாலையொன்றுக்கு அருகில் வைத்து கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகளால் குறித்த முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+துப்பாக்கிப் பிரயோகத்தில் காயமடைந்த இருவர் ஹொரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+
+◼️
+
+[Data](articles/5df8fbd4.json)
+
+---
+
+### මෛත්‍රීගේ තීරණයට දුමින්දගෙන් තුති
+
+*2024-04-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195893) · `si`
+
+තමන් පක්ෂයෙන් නෙරපීමට ගත් තීරණය පිළිබඳව මෛත්‍රීපාල සිරිසේන මහතාට ස්තූතිවන්ත වන බවත් ඉන් පක්ෂය ආරක්ෂා කරගැනීමට හැකිවූ බවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක දුමින්ද දිසානායක මහතා පවසයි.
+
+"දැන් වෙලා තියෙන්නේ මෛත්‍රීපාල සිරිසේන මහතා ගත්ත සියලුම තීරණ ඒකාධිපති ප්‍රජාතන්ත්‍ර විරෝධී, චාරයක් නැති තීන්දු තීරණ එකින් එක වැරදි තීන්දු ගත්ත නිසා තමයි, අද හැමෝම හිරවෙලා ඉන්නේ. නිමල් සිරිපාලගේ පත්වීම වැරදි නම් උසාවි යන්න තිබුණා. එහෙම නැතුව නීතිවිරෝධී වැඩ කරනවා. මෛත්‍රීපාල සිරසේන මහතා දන්නේ නැහැ එයා කරන දේ මොනවද කියලා. මං එන්න කලින් කතා කළා ආචාර්ය චමිල ලියනගේට. මම කථා කරලා කිව්වා පුළුවන් නම් පොඩි උදව්වක් කරන්න මෛත්‍රීපාලට කෝල් කරලා අහන්න කිව්වා මෛත්‍රී මහත්තයා අපේ ෆෝන් එකට එන්නේ නෑ නේ. මෛත්‍රී මහත්තයාගෙන් අහලා කියන්න අධිකරණ ඇමතිවරයාට මේ පක්ෂය විකිණුවේ කීයටද කියලා."
+
+...
+
+[Data](articles/71e870e3.json)
+
+---
+
+### Diminishing inflation
 
 *2024-04-23 13:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-குறைந்து/175-336237) · `ta`
 
-தேசிய நுகர்வோர் விலைச் சுட்டெண்ணின் படி கடந்த மார்ச் மாதம் இலங்கையில் பணவீக்கம் 2.5 வீதமாக குறைந்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் அறிவித்துள்ளது.
+Sri Lanka's inflation fell to 2.5% in March from 5.1% in February, with food inflation unchanged at 5.0% and non-food inflation dropping to 0.7%.
 
-தேசிய நுகர்வோர் விலைச் சுட்டெண் படி, பெப்ரவரி மாதத்தில் பணவீக்கம் 5.1 சதவீதமாக இருந்ததுடன், அதன் படி மார்ச் மாதத்தில் பணவீக்கம் 2.6 சதவீதமாக குறைந்துள்ளது.
+🟩
 
-பெப்ரவரியில் 5.0 வீதமாக இருந்த உணவு வகைகளின் பணவீக்கம் மார்ச் மாதத்தில் மாறாமல் இருந்த போதிலும், பெப்ரவரியில் 5.1 வீதமாக இருந்த உணவு அல்லாத வகையின் பணவீக்கம் மார்ச் மாதத்திற்குள் 0.7 வீதமாகக் குறைந்துள்ளதாக திணைக்களம் மேலும் தெரிவித்துள்ளது.
+According to the National Consumer Price Index, the Census and Statistics Department announced that inflation in Sri Lanka has fallen to 2.5 percent in March.
+
+Inflation was 5.1 per cent in February, according to the National Consumer Price Index and inflation fell to 2.6 per cent in March.
+
+Although the inflation of the food varieties from 5.0 percent in February remained unchanged in March, the non -food inflation, which was 5.1 percent in February, the department further stated that it has fallen to 0.7 percent by March.
 
 ◼️
 
 [Data](articles/e1039d75.json)
 
+[Extended Data](ext_articles/e1039d75.ext.json)
+
 ---
 
-### හෙට ජනතා අයිතියට පැවරෙන උමා ඔය ව්‍යාපෘතිය
+### Uma Oya project which is vested in the public tomorrow
 
 *2024-04-23 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195892) · `si`
 
-ඉරාන ජනාධිපති ඊබ්‍රයිම් රයිසි මහතා හෙට මෙරටට පැමිණීමට නියමිතව තිබේ.
+The Uma Oya Multipurpose Development Project, launched in 2011 with Iranian aid, is set to be introduced to the public tomorrow. It's a 24 km project in the Uva Province, providing 120 MW power and drinking water to Bandarawela, Badulla, and Moneragala. Despite an agreement for $450 million from Iran, the Sri Lankan government completed the project, which was delayed due to economic and social issues. Iranian President EMBeam Razis will attend the official handover.
 
-ඒ උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය නිල වශයෙන් ජනතා අයිතියට භාරදීමේ උත්සවයට සහභාගී වීම සඳහාය.
+🟩
 
-ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණි.
+Iranian President EMBeim Risha is due to arrive in Sri Lanka tomorrow.
 
-ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකෙරෙන එම බහුකාර්ය ව්‍යාපෘතිය කිලෝමීටර් 24ක දිගින් යුක්තය.
+That's the Uma Oya Multipurpose Development Project Officially to be introduced to the public.
 
-පුහුල්පොල ජලාශයේ සිට භූගත නල මාර්ග ඔස්සේ කිලෝමීටර් 4ක දුරක් ඩයරබා ජලාශය වෙත ජලය රැගෙන යන අතර පසුව ඩයරබා ජලාශයේ සිට එම ජලය කිලෝමීටර් 15.5ක දිගකින් යුත් භූගත මාර්ගයක් හරහා පවර්හවුස් බලාගාරය වෙත රැගෙනු ලබයි.
+In 2011, the Uma Oya Multipurpose Development Project was launched in 2011 on the loan aid of Iranian Export Development Bank.
 
-මෙරට ජාතික විදුලි පද්ධතියට එමගින් එක් කිරීමට නියමිත විදුලි ධාරිතාව මෙගාවොට් 120කි.
+The multi-high project that is centered in the Uva Province is 24 km long.
 
-එමෙන්ම එම ව්‍යාපෘතිය හරහා බණ්ඩාරවෙල, බදුල්ල සහ මොනරාගල යන ප්‍රදේශවලට අවශ්‍ය පානීය ජලය සහ බදුල්ල සහ මොණරාගල ප්‍රදේශවල කෘෂිකාර්මික අවශ්‍යතා සඳහා ජලය සැපයීම ද සිදුකෙරේ.
+The Draba road from the Pucelpola reservoir is taken to the Draba reservoir, which was then taken to the Purba power plant from a 15.5 km long road from the draba reservoir.
 
-එම ව්‍යාපෘතිය සඳහා වැයවූ සමස්ත මුදල ඩොලර් මිලියන 514ක් වන අතර ව්‍යාපෘතිය ආරම්භ කළ කාලසීමාව තුළදී ඉන් ඩොලර් මිලියන 450ක මුදලක් ඉරාන රජයෙන් මෙටට ලබාදීමට එකඟවී තිබුණි.
+The electrical capacity of 120 MW is 120 MW.
+
+It also provides drinking water to the Bandarawela, Badulla and Moneragala areas in Bandarawela, Badulla and Moneragala areas for agricultural needs areas.
+
+The total cost of the project is US $ 514 million and $ 450 million has been agreed to the Iranian government during the period.
+
+But the Iranian government was unable to give the government to the government of Sri Lanka.
 
 ...
 
 [Data](articles/3d4e1a5b.json)
 
+[Extended Data](ext_articles/3d4e1a5b.ext.json)
+
 ---
 
-### இஞ்சி 3,200 ரூபாய்
+### Ginger 3,200 rupees
 
 *2024-04-23 13:16:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இஞ்சி-3-200-ரூபாய்/76-336236) · `ta`
 
-ஒரு கிலோ கிராம் இஞ்சி 3,000 ரூபாய்க்கும் 3,200 க்கும் விற்கப்படுகின்றது. இதனால், பல்பொருள் அங்காடிகளில் மட்டுமே இஞ்சி விற்கப்படுகிறது. எனினும், அங்கு இஞ்சியின் விலை காட்சிப்படுத்தப்படுவதில்லை என்றும் அறியமுடிகின்றது.
+Ginger prices vary between 3,000 and 3,200 rupees per kg, sold exclusively in supermarkets without displayed prices.
+
+🟩
+
+One kilogram of ginger is sold for 3,000 rupees and 3,200. Thus, ginger is only sold in supermarkets. However, it is also known that the price of ginger is not displayed.
 
 ◼️
 
 [Data](articles/0382321f.json)
 
+[Extended Data](ext_articles/0382321f.ext.json)
+
 ---
 
-### ශ්‍රීලන්කන් මිල දී ගන්න ආ ආයෝජකයෝ
+### Investors who buy SriLankan
 
 *2024-04-23 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195891) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සේවය මිලදී ගැනීම සඳහා කැඳවන ලද අභිලාෂයන් වෙත මෙරට ආයෝජකයින් තිදෙනෙකු ඇතුළු ආයෝජකයින් 6ක් කැමැත්ත පළකර ඇති බව රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යූහගත කිරීමේ ඒකකය විසින් ඊයේ (22) අනාවරණය කරනු ලැබීය.
+The State Enterprise Rules Unit has revealed that 6 investors, including three invited, aim to buy SriLankan Airlines. Fits AVIATION, the first private airline in Sri Lanka to fly internationally, is among them. Dhammika Perera, controlling 51.01% of Hayleys PLC, is also involved. The Cabinet and State Enterprise Rulization Unit will approve the final decision in July.
 
-ඒ අතරට ලොව ප්‍රමුඛ පෙළේ අඩුමිල ගුවන් සමාගමක් වන එයාර් ඒෂියා සමාගම සහ මෙරට ක්‍රියාත්මක ෆිට්ස් ඒවියේෂන් ද ඇතුළත්ව ඇති බව වාර්තා වෙයි.
+🟩
 
-මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය යටතේ ක්‍රියාත්මක රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යූහගත කිරීමේ ඒකකය විසින්, මෙරට ජාතික ගුවන් සේවය වන ශ්‍රීලංකන් ගුවන් සේවය මිලදී ගැනීම සඳහා කැඳවන ලද අභිලාෂයන් වෙත කැමැත්ත පළ කර ඇති ආයෝජකයින් 6 දෙනෙකුගේ විස්තර ඊයේ දිනයේදී අනාවරණය කරනු ලැබීය.
+The State Enterprise Rules Unit was revealed that 6 investors including three investors who were invited to buy SriLankan Airlines.
 
-මෙලෙස ශ්‍රී ලංකන් ගුවන් සේවය මිල දී ගැනීම සඳහා කැමැත්ත පළ කර ඇති පාර්ශ්වයන් වන්නේ,
+Meanwhile, the world's top airline Air Asia, a leading lowest airline Air Asia, is reported.
 
-එමෙන්ම FITS Aviation සමාගම ජාත්‍යන්තර ගමනාන්ත වෙත ගුවන් ගමන් වාර ක්‍රියාත්මක මෙරට පළමු පෞද්ගලික ගුවන් සේවය ද වෙයි.
+The State Enterprises Restructuring Unit operating under the Ministry of Finance, Economic Stability and National Policy, 6 investors have revealed the ambitions held to buy Sri Lankan Airlines SriLankan Airlines SriLankan Airlines.
 
-අඩු මිල ගුවන්සේවයක් ලෙස පවත්වාගෙන යන FITS ගුවන් සේවය මෙරට සිට මේ වන විට දකුණු ආසියාවේ සහ මැදපෙරදිග කලාපයේ ගමනාන්ත වෙත ගුවන් ගමන් ක්‍රියාත්මක කරනු ලබයි.
+The parties who have agreed to buy the airline are the parties
+
+Fits AVIATION is also the first private airline in Sri Lanka to operate flights to international destinations.
+
+Fits running as a low price airline operates flights to destinations in South Asia and the Middle East.
+
+Hayleys PLC is a large group of companies engaged in diversified fields, and the billionaire business owner Dhammika Perera is its controlled partner.
+
+Dhammika Perera owned 51.01% of Hayleys PLC PLC's share capital on December 31, 2023.
 
 ...
 
 [Data](articles/eda90607.json)
+
+[Extended Data](ext_articles/eda90607.ext.json)
 
 ---
 
@@ -2145,39 +2207,5 @@ The No.1 Bank in the Country, Bank of Ceylon yet again set a record during Avuru
 [Data](articles/c275d50f.json)
 
 [Extended Data](ext_articles/c275d50f.ext.json)
-
----
-
-### Japlan Shades and Styles takes world of beauty to new heights
-
-*2024-04-22 23:26:00* · [`islandlk`](http://island.lk/japlan-shades-and-styles-takes-world-of-beauty-to-new-heights/) · `en`
-
-In a glamorous event that took place in Colombo recently, Japlan Consumer Private Limited hosted Japlan Shades and Styles Anniversary Bash and Product Launch.
-
-The occasion looked back at Wella Professionals’ four years of presence in Sri Lanka with Japlan Holdings Ltd., a diversified joint venture between Japan’s TBK and its Sri Lankan collaborators, which started importing, marketing, and distributing the World’s No.1 hair-care brand, within the country.
-
-The event featured the unveiling of a treasure trove of world-class, innovative Wella products, including Color Fresh and Color Touch, adding new dimensions to its illustrious legacy which has continued since 1880 when it started in Germany.
-
-Japlan also made use of the glittering event to introduce IKONIC professionals to the Sri Lankan market as the one and only exclusive distributor in Sri Lanka.
-
-...
-
-[Data](articles/d20cc10f.json)
-
-[Extended Data](ext_articles/d20cc10f.ext.json)
-
----
-
-### The Microsoft Cyber Signals Report furnishes strategic guidance on comprehending cybersecurity
-
-*2024-04-22 23:23:00* · [`islandlk`](http://island.lk/the-microsoft-cyber-signals-report-furnishes-strategic-guidance-on-comprehending-cybersecurity/) · `en`
-
-As cyber threats escalate globally, the imperative to design, deploy, and utilize AI securely has never been more pressing. There’s an urgent call to adopt proactive measures, heighten threat awareness, and prioritize cybersecurity education to safeguard not only ourselves, but also our organizations and data. Recently, Microsoft unveiled its sixth edition of Cyber Signals, a quarterly cyberthreat intelligence brief, which draws from the latest Microsoft research, offering expert insights into the current threat landscape. This edition of the report underscores the importance of securing AI technologies to prevent misuse and highlights Microsoft’s efforts in protecting AI platforms from emerging threats posed by nation-state cyber actors.
-
-...
-
-[Data](articles/00e123a3.json)
-
-[Extended Data](ext_articles/00e123a3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 06:17:54**
+As of **2024-04-23 06:56:27**
 
 ## Newspaper Stats
 
-*Scraped **20,332** Articles*
+*Scraped **20,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,61 @@ colombotelegraphcom | 180
 bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,095
+islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
 tamilmirrorlk | 2,344
 adaderanalk | 2,428
 virakesarilk | 3,041
-dailymirrorlk | 3,163
+dailymirrorlk | 3,165
 adaderanasinhalalk | 3,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,331 (100.0%) of 20,332 articles have been extended.
+20,332 (99.9%) of 20,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### SJB, SLPP MPs broker liquor licences for cronies
+
+*2024-04-23 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SJB-SLPP-MPs-broker-liquor-licences-for-cronies/155-281195) · `en`
+
+Colombo, April 23 (Daily Mirror) - Some MPs from both Samagi Jana Balawegaya (SJB) and the ruling Sri Lanka Podujana Peramuna (SLPP) have reportedly brokered liquor licences from the government for their cronies for hefty commissions involved, Daily Mirror learns.
+
+The matter came to light after the religious leaders of some districts like Kandy inquired about the purported plans to set up liquor shops and those who helped securing licenses.
+
+In one instance, the prospective businessmen have cited the names of a few SJB MPs who helped them in getting licences. Incensed by the move, the matter has been brought to the notice of SJB leader Sajith Premadasa who has reportedly promised to look into it.
+
+Also, the matter is likely to be raised at the parliamentary group meeting this evening.
+
+It is common knowledge that licences for opening liquor shops are issued under political patronage. Also, politicians from different hues own such shops directly or through their proxies.
+
+...
+
+[Data](articles/4146b2a8.json)
+
+---
+
+### Having Fox Hill race on Easter Attack anniversary day was unintentional: Army
+
+*2024-04-23 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Having-Fox-Hill-race-on-Easter-Attack-anniversary-day-was-unintentional-Army/108-281194) · `en`
+
+Colombo, April 23 (Daily Mirror) - Sri Lanka Army yesterday said organising the Fox Hill Super Cross race on April 21st when the fifth Easter Attack commemoration was taking place in the country was unintentional, as heavy public criticism was underway for holding the event on a day of public mourning.
+
+Public criticism is currently underway through various dialogues on social media presently about the date selected by the race organisers to hold it on April 21st, the day of the Easter Bombings which took place in 2019 and also the same day the last motor race was held and stopped on the way as a result of the terrorist attacks.
+
+Criticism is also charged towards an after-event organised in line with the races with DJ music at a location in Bandarawela that was held on Sunday night amidst the unfortunate accident at the races which left seven spectators killed and 30 others injured.
+
+...
+
+[Data](articles/3b1e6c62.json)
+
+---
 
 ### SJB accuses Govt. of attempting to disrupt party’s May Day rally
 
@@ -434,6 +470,18 @@ The other parties in the coalition such as the Maldives National Party (MNP) and
 
 ### 2024-04-22 (Monday)
 
+### Rediscovering Lumbini: Birth place of Prince Siduhath
+
+*2024-04-22 23:46:00* · [`islandlk`](http://island.lk/rediscovering-lumbini-birth-place-of-prince-siduhath/) · `en`
+
+There is no doubt that this title itself will bring bemusement to the denizens of the land of Mahavamsa. An entire nation failing to recall such an important place may seem impossible, but up until the colonial occupiers started probing the past in the 19th century, the historical significance, or the geographical location of Lumbini had been completely erased from the collective memory of India and Nepal.
+
+...
+
+[Data](articles/20464f71.json)
+
+---
+
 ### Taste the difference…
 
 *2024-04-22 23:39:00* · [`islandlk`](http://island.lk/taste-the-difference-2/) · `en`
@@ -453,6 +501,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/3871d362.json)
+
+[Extended Data](ext_articles/3871d362.ext.json)
 
 ---
 
@@ -507,6 +557,64 @@ The demonstration was abandoned after the demonstration, which began from the Ne
 [Data](articles/e85ba3af.json)
 
 [Extended Data](ext_articles/e85ba3af.ext.json)
+
+---
+
+### BOC records over Rs. 503 billion worth transactions via its service touch points during this Avurudu Season
+
+*2024-04-22 23:26:00* · [`islandlk`](http://island.lk/boc-records-over-rs-503-billion-worth-transactions-via-its-service-touch-points-during-this-avurudu-season/) · `en`
+
+The No.1 Bank in the Country, Bank of Ceylon yet again set a record during Avurudu Season with over Rs. 185 Billion worth transactions taking place in BOC’s very own CRM and ATM terminals. This record is a testimonial to customer’s faith kept on the Bank’s ATM and CRM network, to provide them the best in class 24-hour operative convenient banking services. Having a fully operational ATM and CRM network with over 1460 machines, at the time of writing, covering the entire country, BOC has provided customers utmost convenience and easy access to cash for their immediate cash requirements during Avurudu season.
+
+...
+
+[Data](articles/c275d50f.json)
+
+---
+
+### Japlan Shades and Styles takes world of beauty to new heights
+
+*2024-04-22 23:26:00* · [`islandlk`](http://island.lk/japlan-shades-and-styles-takes-world-of-beauty-to-new-heights/) · `en`
+
+In a glamorous event that took place in Colombo recently, Japlan Consumer Private Limited hosted Japlan Shades and Styles Anniversary Bash and Product Launch.
+
+The occasion looked back at Wella Professionals’ four years of presence in Sri Lanka with Japlan Holdings Ltd., a diversified joint venture between Japan’s TBK and its Sri Lankan collaborators, which started importing, marketing, and distributing the World’s No.1 hair-care brand, within the country.
+
+The event featured the unveiling of a treasure trove of world-class, innovative Wella products, including Color Fresh and Color Touch, adding new dimensions to its illustrious legacy which has continued since 1880 when it started in Germany.
+
+Japlan also made use of the glittering event to introduce IKONIC professionals to the Sri Lankan market as the one and only exclusive distributor in Sri Lanka.
+
+...
+
+[Data](articles/d20cc10f.json)
+
+---
+
+### The Microsoft Cyber Signals Report furnishes strategic guidance on comprehending cybersecurity
+
+*2024-04-22 23:23:00* · [`islandlk`](http://island.lk/the-microsoft-cyber-signals-report-furnishes-strategic-guidance-on-comprehending-cybersecurity/) · `en`
+
+As cyber threats escalate globally, the imperative to design, deploy, and utilize AI securely has never been more pressing. There’s an urgent call to adopt proactive measures, heighten threat awareness, and prioritize cybersecurity education to safeguard not only ourselves, but also our organizations and data. Recently, Microsoft unveiled its sixth edition of Cyber Signals, a quarterly cyberthreat intelligence brief, which draws from the latest Microsoft research, offering expert insights into the current threat landscape. This edition of the report underscores the importance of securing AI technologies to prevent misuse and highlights Microsoft’s efforts in protecting AI platforms from emerging threats posed by nation-state cyber actors.
+
+...
+
+[Data](articles/00e123a3.json)
+
+---
+
+### LOLC Group contributes more than 30 percent to CSE turnover
+
+*2024-04-22 23:19:00* · [`islandlk`](http://island.lk/lolc-group-contributes-more-than-30-percent-to-cse-turnover/) · `en`
+
+The LOLC Group of companies contributed more than 30 percent to the CSE’s turnover yesterday and moved the stock market to positive territory. Mainly LOLC Finance, followed by Browns Investments, contributed to the market’s vibrancy, market analysts said.
+
+LOLC Finance’s shares became the most preferred stocks among local and foreign investors. The LOLC Finance share price appreciated by 12.5 percent or 80 cents. Its share price shot up to Rs 7.20 from Rs 6.40.
+
+The All Share Price Index went up by 75.2 points while S and P SL20 rose by 44.4 points. Turnover stood at Rs 1.3 billion with one crossing. The crossing was reported in Hemas Holdings, which crossed 250,000 shares, which were worth Rs 82.50 a share, to the tune of Rs 20.6 million.
+
+...
+
+[Data](articles/12a6e5ab.json)
 
 ---
 
@@ -2013,175 +2121,5 @@ In addition, the amount of the damaged land is 71 percent of the total land area
 [Data](articles/44037bf1.json)
 
 [Extended Data](ext_articles/44037bf1.ext.json)
-
----
-
-### Indian cricket manager indicted for Legend Cricket League match-fixing allegations
-
-*2024-04-22 15:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-cricket-manager-indicted-for-Legend-Cricket-League-match-fixing-allegations/108-281161) · `en`
-
-Colombo, April 22 (Daily Mirror)- The Attorney General’s Department informed court today that an indictment has been filed before the Colombo High Court against an Indian cricket manager over match-fixing allegations during the Legend Cricket League 2024.
-
-A Senior State Counsel appearing on behalf of the Attorney General made this revelation when the magisterial inquiry into the alleged match fixing case was taken up before the Colombo Chief Magistrate's Court.
-
-Court was informed that an indictment has been filed before the Colombo High Court against Yoni Patel, a team manager of the Legend Cricket League 2024.
-
-The Colombo Chief Magistrate’s Court had earlier issued an order preventing Yoni Patel and P. Akash, two team managers of the Legend Cricket League from leaving the country over match fixing allegations.
-
-The Legend Cricket League tournament, featuring seven teams comprising retired international cricketers, was held in March at the Pallekele International Cricket Stadium.
-
-...
-
-[Data](articles/b8292e32.json)
-
-[Extended Data](ext_articles/b8292e32.ext.json)
-
----
-
-### MP post will be lost by Justice Minister
-
-*2024-04-22 15:04:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-பதவியை-நீதியமைச்சர்-இழக்க-நேரிடும்/175-336190) · `ta`
-
-SLPP MP Tissa Kuttiarachchi predicts SLPP will lose its parliamentary post due to constitutional rules, affecting Minister Rajapaksa's position.
-
-🟩
-
-SLPP MP Tissa Kuttiarachchi today said that the Sri Lanka Freedom Party (SLFP) will lose its post of Parliament according to the Constitution of the Sri Lanka Peoples Alliance (PA).
-
-He said at a media briefing that the Sri Lanka PA had not yet discussed the matter and that the General Secretary of the Sri Lanka PA would be decided soon.
-
-According to the constitution and laws of the party, the parliamentarian said that once one gains the membership of another political party, his party will soon lose its membership.
-
-He said that Minister Rajapaksa would lose the party's rights and thereby lose his position as a parliamentarian.
-
-“Minister Rajapaksa received a SLPP member and was elected to Parliament under the SLPP seat. He has committed the crime of getting the post of another opposition leader. So, his SLPP membership will be canceled, and as a result, he will lose his parliamentary position. ”
-
-◼️
-
-[Data](articles/2c1a82c2.json)
-
-[Extended Data](ext_articles/2c1a82c2.ext.json)
-
----
-
-### The Iranian president has arrived in Pakistan
-
-*2024-04-22 14:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானிய-ஜனாதிபதி-பாகிஸ்தானை-வந்தடைந்தார்/50-336189) · `ta`
-
-Iranian President Ibrahim Raisi visited Pakistan for a three-day official visit, welcomed by Pakistani officials.
-
-🟩
-
-Iranian President Ibrahim Raisi arrived in Pakistan on Monday (22) as a three -day official visit
-
-The Foreign Office (FO) said that he had arrived at the Raisi Islamabad airport and was welcomed by Housing Minister Myan Riaz Hussain Birzada and Pakistani Ambassador to Iran.
-
-It said, "There is a high -level committee comprising his vice -president and foreign minister and other cabinet members and senior officials with the President of Iran."
-
-◼️
-
-[Data](articles/eb088e6b.json)
-
-[Extended Data](ext_articles/eb088e6b.ext.json)
-
----
-
-### Lives of the North tonight
-
-*2024-04-22 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195864) · `si`
-
-"Space scientists predict a meteor shower, League, from April 15-29, with up to 20 meteors per hour visible after midnight, best observed during the full moon."
-
-🟩
-
-Space scientists say 3 (22) in the middle of the night of the midnight of League, which is one of the annual mechanisms.
-
-The meteor rain is active from 15 April to 29th April.
-
-Space Science Engineer Gihan Weerasekera said that League is known as the waters of the harpathawa harp.
-
-"This meteorite rains can be observed for about 20 meteors per hour. This is the maximum impressive of early morning tomorrow or tomorrow. It is possible to observe this after midnight today. Because the full moon seems to be a problem today. Therefore, it is the best time to observe this meteor to observe this meteorite rains. "
-
-◼️
-
-[Data](articles/5a56de37.json)
-
-[Extended Data](ext_articles/5a56de37.ext.json)
-
----
-
-### Opening of the Department of Records in Nuwara Eliya
-
-*2024-04-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/181664) · `ta`
-
-The Nuwara Eliya District Records Department was inaugurated by the Minister of Public Security, Trans, on Monday, 22nd. It's now open to serve the Central Province, offering National Identity Cards through Normal Service, with a one-day service launching soon. This move addresses the need for locals to travel to Colombo for ID cards, marking a significant improvement.
-
-🟩
-
-The Office of the Nuwara Eliya District Registrar's Office on Monday (22) on Monday (22), the Minister of Public Security, Trans, Lady McLeam Road Hawelia, inaugurated the President's Office in the new address of the Nuwara Eliya District Records Department on Monday (22).
-
-The office is opened in Nuwara Eliya to cover the Central Province. Also, all the facilities for obtaining National Identity Cards through Normal Service have been made. The Department of Records said that one day service will be launched soon.
-
-Nuwara Eliya District Parliamentarians Velusamy Radhakrishnan CP Ratnayaka Rameswaran and State Department officials were also present.
-
-In the past, the people of Nuwara Eliya had to visit Colombo to get the identity card. But it is noteworthy that the issue is currently being solved by the opening of the district office.
-
-◼️
-
-[Data](articles/8d0ea173.json)
-
-[Extended Data](ext_articles/8d0ea173.ext.json)
-
----
-
-### Pro-China party wins Maldives election in landslide, media say
-
-*2024-04-22 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98775/pro-china-party-wins-maldives-election-in-landslide-media-say) · `en`
-
-Maldives voters handed President Mohamed Muizzu’s party a landslide win at parlimentary elections, media said on Monday, an outcome set to shift the Indian Ocean archipelago closer to China and away from traditional partner India.
-
-Muizzu’s People’s National Congress (PNC) won 65 of the 93 seats up for grabs on Sunday, preliminary results from the Maldives Elections Commission and media projections show.
-
-The main opposition Maldives Democratic Party (MDP) dwindled to just 12 seats from 65 earlier.
-
-Both Beijing and New Delhi have wooed the Maldives as they vie for influence in the Indo-Pacific region.
-
-Elected last year, Muizzu has pledged to end the country’s “India First” policy, straining ties with New Delhi.
-
-His government has asked dozens of Indian military personnel to leave the Maldives, a move critics say could hasten its shift towards China.
-
-Muizzu’s post as president is not affected by Sunday’s vote, in which 368 candidates contested for five-year terms.
-
-◼️
-
-[Data](articles/5a00e453.json)
-
-[Extended Data](ext_articles/5a00e453.ext.json)
-
----
-
-### Pregnant and fetus in the hospital;Tragedy in Vavuniya
-
-*2024-04-22 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181662) · `ta`
-
-A pregnant woman from Madhavachi died at Vavuniya Hospital, and her fetus in utero also died.
-
-🟩
-
-A pregnant woman who was admitted to the Vavuniya Hospital has died in the bathroom and the fetus in his stomach has died.
-
-A pregnant woman from Madhavachi area was admitted to the Vavuniya Hospital.
-
-It is reported that he fell into the bathroom at the hotel today (22). He has thus died.
-
-Subsequently, doctors have been rescued and surgery to save the baby in his stomach. However, the baby in the stomach has died.
-
-The Vavuniya Hospital Director telephoned the hospital to learn about the incident.
-
-◼️
-
-[Data](articles/9b489b5c.json)
-
-[Extended Data](ext_articles/9b489b5c.ext.json)
 
 ---

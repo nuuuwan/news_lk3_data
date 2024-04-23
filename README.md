@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 03:18:28**
+As of **2024-04-24 03:35:15**
 
 ## Newspaper Stats
 
-*Scraped **20,540** Articles*
+*Scraped **20,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 1,712
 tamilmirrorlk | 2,366
 adaderanalk | 2,447
 virakesarilk | 3,088
-dailymirrorlk | 3,200
+dailymirrorlk | 3,202
 adaderanasinhalalk | 3,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,539 (100.0%) of 20,540 articles have been extended.
+20,540 (100.0%) of 20,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Myanmar’s junta takes revenge on its people
+
+*2024-04-24 03:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Myanmars-junta-takes-revenge-on-its-people/172-281224) · `en`
+
+The army has 150,000 troops while the rebel strength is 20,000. It has  700 tanks, 2000 artillery pieces (big numbers for a poor country with no  external enemies)
+
+What a turn of events in Myanmar–in  2021, the Generals seized power again from the legitimately elected government of Aung San Suu Kyi, the second military coup staged since 1962. The Generals had total power for much of Myanmar’s post-independence period, then relinquished briefly only to seize it back a few months later. She was jailed for 33 years on trumped-up charges. Widespread protests were crushed by killing over 3000 people, imprisoning 20,000 and destroying 55,000 houses over the past two years. Thus, the junta hoped to silence her forever and crush the country’s hopes of ever returning to democracy.
+
+...
+
+[Data](articles/092aa58e.json)
+
+---
+
+### Those whom Gods wish to destroy, they first make mad - EDITORIAL
+
+*2024-04-24 02:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Those-whom-Gods-wish-to-destroy-they-first-make-mad-EDITORIAL/172-281223) · `en`
+
+The saying “Whom the Gods would destroy, they first make mad” is  believed to have been made by the Greek Tragedian Euripides and has been used in English literature since the 17th century. Leon Tolstoy in his novel ‘War and Peace’ uses the phrase in reference to Napoleon.
+
+Wikipedia quotes Sri Lankan Catholic Priest Father Simon Gregory Perera, SJ using the phrase about the belief of Portuguese colonialists that the loss of Sri Lanka to the Dutch was divine punishment.
+
+Today, our country is gripped in election fever. We are witnessing the applicability of this phrase in many a political party and candidate. The dramatic twists and turns of our political establishment bear ample testimony to this. According to media reports the Sri Lanka Podujana Peramuna (SLPP) has barred party members from commenting on whom that particular party may nominate as its presidential candidate!
+
+...
+
+[Data](articles/aedc977c.json)
+
+---
 
 ### Electricity Users Association files complaint with HRCSL against Electricity Bill
 
@@ -793,6 +823,8 @@ The current climate crisis is seen as being driven by excess heat trapped in the
 ...
 
 [Data](articles/81b27bff.json)
+
+[Extended Data](ext_articles/81b27bff.ext.json)
 
 ---
 
@@ -2195,45 +2227,5 @@ Tamil legislators have also protested the import controls, which they go into se
 [Data](articles/ce343ee9.json)
 
 [Extended Data](ext_articles/ce343ee9.ext.json)
-
----
-
-### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
-
-*2024-04-23 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98793/navy-impounds-kerala-cannabis-worth-over-rs-4mn-in-mannar) · `en`
-
-Sri Lanka Navy has taken hold of over 10kg of Kerala cannabis, during a search operation conducted with the Division Crime Investigation Bureau Mannar in the Vankalai area, Mannar.
-
-The operation, conducted on Sunday (21) also led to the apprehension of 4 suspects and 1 van involved in the racket.
-
-SLNS Thambapanni, with the assistance of Division Crime Investigation Bureau Mannar, had intercepted a suspicious van, during a coordinated search carried out in Vankalai area.
-
-During further search of the vehicle, the raiding party managed to recover 5 parcels of Kerala cannabis weighing about 10kg and 690g. Along with the parcels of Kerala cannabis, the van and 4 suspects in it were taken into custody.
-
-The gross street value of Kerala cannabis held in this operation is believed to be more than Rs. 4 million.
-
-...
-
-[Data](articles/c61f277e.json)
-
-[Extended Data](ext_articles/c61f277e.ext.json)
-
----
-
-### Athapaththu back atop ICC Women’s ODI Batting Rankings
-
-*2024-04-23 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththu-back-atop-ICC-Womens-ODI-Batting-Rankings/108-281205) · `en`
-
-(ICC) - Sri Lanka captain Chamari Athapaththu is back at the top of the ICC Women’s ODI Batting Rankings after a superb 195 not out in the third ODI against South Africa in Potchefstroom that helped her team level the ICC Women’s Championship Series 1-1.
-
-Athapaththu’s ninth ODI century, which is the highest score in a successful chase in Women’s ODIs, helped her overtake England all-rounder Natalie Sciver-Brunt to the top spot. The left-hander had earlier been number one from 3 to 12 July 2023 before Beth Mooney and then Sciver-Brunt overtook her.
-
-Another former number one batter also rose after the series, Athapaththu’s counterpart Laura Wolvaardt moving up two places to third position after scoring an unbeaten 184 that helped South Africa post a huge total of 301 for five in the third ODI.
-
-...
-
-[Data](articles/6ce9f92a.json)
-
-[Extended Data](ext_articles/6ce9f92a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 07:55:12**
+As of **2024-04-23 08:06:27**
 
 ## Newspaper Stats
 
-*Scraped **20,367** Articles*
+*Scraped **20,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,698
 tamilmirrorlk | 2,345
 adaderanalk | 2,430
 virakesarilk | 3,051
-dailymirrorlk | 3,169
-adaderanasinhalalk | 3,302
+dailymirrorlk | 3,171
+adaderanasinhalalk | 3,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,357 (100.0%) of 20,367 articles have been extended.
+20,367 (100.0%) of 20,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### රාජ්‍ය ආයතන 05ක් මේ සතියේ කෝප් කමිටුවට
+
+*2024-04-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195884) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සමාගම ඇතුළු රාජ්‍ය ආයතන 05ක ප්‍රධානීන් මෙම සතිය තුළ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව වෙත කැඳවීමට නියමිතන තිබේ.
+
+හෙට (24) දිනයේ දී ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාව කෝප් කමිටුව හමුවට කැඳවා ඇති බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+
+අනිද්දා දිනයේ දී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල කෝප් කමිටුව හමුවට කැඳවා තිබේ.
+
+ලබන සිකුරාදා දිනයේ ශ්‍රීලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා ඇති බව වාර්තා වේ.
+
+මේ අතර අලුත් අවුරුද්දෙන් පසුව පළමු වරට හෙට දිනයේ පාර්ලිමේන්තුව රැස්වීමට නියමිතව තිබේ.
+
+පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් හෙට, අනිද්දා සහ සිකුරාදා යන දිනවල පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඊට අමතරව හෙට දිනයේ දී අපරාධ නඩු විධාන සංග්‍රසය සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ විෂ වර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතය.
+
+...
+
+[Data](articles/991fc88b.json)
+
+---
+
+### National consumer prices soften in March
+
+*2024-04-23 07:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-consumer-prices-soften-in-March/108-281191) · `en`
+
+Shoppers seen selecting clothes from a roadside stall in Pettah, days before the island nation celebrated the Sinhala and Tamil New Year and Eid-ul-Fitr, which fell on the same week this year
+
+The consumer prices measured by the broader National Consumer Price Index (NCPI) continued to soften in March, as the non-food prices cooled sharply while the food prices remained unchanged from a year ago.
+
+However, the prices measured on a monthly basis turned to negative, indicating that the prices of goods and services have in fact fallen from the February levels.
+
+The prices rose by 2.5 percent in March from a year earlier, softening from 5.1 percent through February, as the prices of non-food prices decelerated to just under 1.0 percent, from 5.1 percent through February, as the electricity prices were revised downwards.
+
+...
+
+[Data](articles/d79e0b15.json)
+
+---
 
 ### Great gold looting - two arrested in financial institution
 
@@ -53,6 +95,22 @@ The acting manager of the company had commenced a complaint from the Kalawana Po
 [Data](articles/7809f03e.json)
 
 [Extended Data](ext_articles/7809f03e.ext.json)
+
+---
+
+### Two killed in police shooting at Moragahahena
+
+*2024-04-23 06:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-police-shooting-at-Moragahahena/108-281198) · `en`
+
+Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
+
+Police said the shooting took place near the Moragahahena tyre factory.
+
+They said another person who was inside the three-wheeler at the time of the shooting had fled.
+
+◼️
+
+[Data](articles/c35b2a3c.json)
 
 ---
 
@@ -256,49 +314,67 @@ The police further states that another person in the three-wheeler was fled by t
 
 ---
 
-### நீதி கிடைக்கச் செய்வதற்கு தேர்தல் மூலமான ஆணையொன்று தேவையில்லை
+### There is no need for an election order to make justice
 
 *2024-04-23 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181734) · `ta`
 
-சுமார் 300 பேரைப் பலியெடுத்து மேலும் நூற்றுக்கணக்கானவர்களை படுகாயமடையச் செய்த ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்களுக்கு பிறகு கடந்த ஞாயிற்றுக் கிழமையுடன் (ஏப்ரில் 21 ) சரியாக ஐந்து வருடங்கள் கடந்துவிட்டன. தற்கொலைக் குண்டுதாரிகள் தங்களது தாக்குதல்களுக்கு  கிறிஸ்தவர்களுக்கு  புனித தினமான ஈஸ்டர் ஞாயிறன்று கத்தோலிக்க மற்றும் கிறிஸ்தவ தேவாலயங்களை தெரிவுசெய்தனர்.  தாக்குதல்கள் இடம்பெற்ற வேளை தேவாலயங்களுக்குள் அடியார்கள் நிறைந்திருந்தார்கள்.
+"No election order needed for justice. Sri Lanka's Easter Sunday bombings, killing 300 and injuring hundreds, raised questions about global conflict and national security, leading to political changes and panic."
 
-எதிர்பாராத வகையில் தற்கொலைக் குண்டுதாரிகள் நடத்திய தாக்குதல்கள் உலகளாவிய மோதல்களின் ஒரு களமாக இலங்கை மாறிவிட்டதோ என்ற கேள்வியை எழுப்பியதுடன் மேலும் பல தாக்குதல்கள் இடம்பெறுமோ என்று நிச்சயமற்ற ஒரு நிலைமையையும் ஏற்படுத்தியது. இரு மாதங்களாக தலைநகர் கொழும்பு பெரும்பாலும் மூடப்பட்டுக் கிடந்தது. மக்கள் பீதியுடன் வாழ்ந்தார்கள். குண்டுத் தாக்குதல்கள் தேசிய அரசியலின் போக்கையும் மாற்றியது. தேசியவாத அரசியல்வாதிகள் தேசிய பாதுகாப்பையும் இன,மத பெரும்பான்மை இனத்தவர்களுக்கு உரிய இடத்தையும் உத்தரவாதம் செய்வதாக வாக்குறுதி அளித்தார்கள்.
+🟩
+
+Five years have passed since the Easter Sunday bombing that killed about 300 people and injured hundreds of more people (April 21) last Sunday (April 21).. Suicide bombers chose Catholic and Christian churches on Sunday, Easter, the holy day of Christians for their attacks. At the time of the attacks, the servants were full of churches.
+
+Unexpectedly raised the question of whether Sri Lanka has become a platform of global conflicts and created a state of uncertainty that there will be many attacks.. The capital of Colombo has often been closed for two months. People lived with panic. The bombers also changed the course of national politics. The nationalist politicians promised to guarantee national security and the placement of ethnic and religious majority.
 
 ◼️
 
 [Data](articles/8e3525e2.json)
 
+[Extended Data](ext_articles/8e3525e2.ext.json)
+
 ---
 
-### இலங்கை பின் திகதியிட்ட காசோலைகளை ஏன் கைவிட வேண்டும்?
+### Why abandon the checks of Sri Lanka's post?
 
 *2024-04-23 04:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181733) · `ta`
 
-பின் திகதியிட்ட காசோலை என்பது எதிர்கால திகதி எழுதப்பட்ட வழக்கமான காசோலை ஆகும். எதிர்கால திகதி வரும் வரை காசோலையை செலுத்த வேண்டாம் என்று காசோலை எழுத்தாளர் வங்கிக்கு அறிவுறுத்துகின்றார்.
+Abandon Sri Lanka's post checks to ensure recipient is ready to deposit. Checks are used globally, with different rules: in the US and UK, banks can cash them early; in India and Australia, they must wait until the check's date. These checks are legal and negotiable tools.
 
-⦁	நோக்கம்: காசோலையை வைப்பு செய்ய பெறுநர் காத்திருப்பதை உறுதிப்படுத்த மக்கள் அவற்றைப் பயன்படுத்துகின்றனர். இதற்கு இரண்டு காரணங்கள் உள்ளன:
+🟩
 
-⦁	அமெரிக்கா மற்றும் பிரித்தானியா போன்ற சில நாடுகளில் வங்கிகள் எழுதப்பட்ட திகதிக்கு முன்பே அவற்றைச் செயற்படுத்தலாம்.
+The check -up check is the regular check written on the future date. எதிர்கால திகதி வரும் வரை காசோலையை செலுத்த வேண்டாம் என்று காசோலை எழுத்தாளர் வங்கிக்கு அறிவுறுத்துகின்றார்.
 
-⦁	இந்தியா மற்றும் அவுஸ்திரேலியா போன்ற பிற நாடுகளில் காசோலையில் திகதி வரை வங்கி காத்திருக்க வேண்டும்.
+⦁ Purpose: People use them to ensure that the recipient is waiting to deposit the check. There are two reasons for this:
 
-⦁	சட்டப்பூர்வமானது: பின் திகதியிட்ட காசோலைகள் பொதுவாக சட்டபூர்வமானவை மற்றும் பேச்சுவார்த்தைக்குட்பட்ட கருவிகளாகக் கருதப்படுகின்றன.
+⦁ In some countries such as the United States and Britain, banks can be implemented before the date of writing.
+
+⦁ In other countries such as India and Australia, the bank must wait till the date on the check.
+
+⦁ Legal: Post -date checks are usually considered legal and negotiated tools.
 
 ◼️
 
 [Data](articles/cee643b7.json)
 
+[Extended Data](ext_articles/cee643b7.ext.json)
+
 ---
 
-### புதிய யுத்தக் காட்சிப் பெட்டகம்
+### New battle
 
 *2024-04-23 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181732) · `ta`
 
-சர்வதேச அரசியலில் ஆர்வம் கொண்டுள்ள பெரும்பாலான ஆய்வாளர்கள், இவ்வாரம் மத்திய கிழக்கில் நீண்ட காலமாக எதிர்பார்க்கப்பட்ட இருபெரும் எதிரிகளான இஸ்ரேல் ஈரான் யுத்த சூழல் குறித்த ஆய்வுகளிலேயே ஈடுபட்டுள்ளனர். சிரியாவின் தலைநகரான டமஸ்கஸில் இடம்பெற்ற இஸ்ரேலிய தாக்குதல்களில் ஈரானிய படைகளின் உயர் அதிகாரிகள் உட்பட ஏழு இராணுவ ஆலோசகர்களை இழந்துள்ளதாக ஈரானிய தலைமை தெஹ்ரானில் கூறியது.  இதற்குப் பதிலடியாக கடந்த சனியிரவு ஈரான் ஆளில்லா விமானங்களின் உதவியுடனும் ஏவுகணைகளின் உதவியுடனும் பதில் தாக்குதல் நடாத்தியிருக்கிறது. இஸ்ரேல் தமது இழப்புகளை வெளியிடாத போதிலும் பெரும்பாலான ஆழில்லா விமானங்களையும் ஏவுகணைகளையும் தமது ‘இரும்புக்குவிமாடம்’ என்று கூறக்கூடிய தடுப்பு ஏவுகனைகள் சுட்டுவீழ்த்தி விட்டதாக கூறியுள்ளது
+Israeli and Iranian forces clashed in Syria, with Iran claiming Israeli attacks resulted in the loss of seven Iranian military advisors. In response, Iran launched unmanned aircraft and missiles, which were reportedly intercepted by Israeli defenses.
+
+🟩
+
+Most researchers who are interested in international politics, have been involved in the long -awaited enemies in the Middle East this week, Israeli Iran's war environment.. Iranian leadership Tehran says that Israeli attacks in Syria's capital, Damascus, have lost seven military advisors, including top officials of Iranian forces.. In response, last Saturday, with the help of unmanned aircraft and the help of missiles, the attack took place last Saturday.. Although Israel has not released its losses, most deep aircraft and missiles have been shot down by barricades that are called ironing
 
 ◼️
 
 [Data](articles/050164a0.json)
+
+[Extended Data](ext_articles/050164a0.ext.json)
 
 ---
 
@@ -320,115 +396,169 @@ As investigations into the incident unfold, law enforcement agencies are activel
 
 ---
 
-### தமிழ்ப் பொதுவேட்பாளர் வட,கிழக்கு அரசியல் பிரமுகர்கள் கூறுவது என்ன?
+### What does the Tamil general candidate say by the North and East?
 
 *2024-04-23 04:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181731) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பளர் ஒருவரை  போட்டியிட வைப்பதன் மூலம் சிங்களத் தலைமைகளுடன் பேரம்பேசும் சந்தர்ப்பத்தை உருவாக்க முடியுமென குறித்த முயற்சியில் ஈடுபட்டுள்ள தரப்பினர் குறிப்பிடுவதோடு, இம்முயற்சி ஒருவிஷப்பரீட்சையாக இருக்கப்போவது மாத்திரமல்ல மீண்டும் இனவாதத்தை தூண்டும் நடவடிக்கையாக மாறப்போகிறது அம்முயற்சியை எதிர்ப்பவர்கள் தெரிவிக்கின்றார்கள்...
+Tamil general candidate in presidential election aims to bargain with Sinhalese leaders, seen as a tribute and anti-racist act.
+
+🟩
+
+The parties who are trying to create an opportunity to bargain with the Sinhalese leaders by contesting a Tamil general candidate in the presidential election, and this initiative is going to be a tribute and will be a re -racist act.
 
 ◼️
 
 [Data](articles/47df6e7f.json)
 
+[Extended Data](ext_articles/47df6e7f.ext.json)
+
 ---
 
-### பல வேடிக்கை மனிதரைப் போலே நான் வீழ்வேனென்று நினைத்தாயோ?' வாழ்வாங்கு வாழ்ந்த 'ஸ்ரீலங்காபிமான்ய' ஏ.ரி.ஆரியரத்ன
+### Did you think I would fall like a lot of fun? ''SriLankabimanya' lived in life
 
 *2024-04-23 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181730) · `ta`
 
-பாரதியாரின் இந்த வரிகள் எப்போதும் மனதுக்கு மிகநெருக்கமானவை. இத்தகைய இறுமாப்பான கேள்வியுடன், வையத்தில் 'வாழ்வாங்கு வாழ்பவர்கள்' மிகச்சிலரே. கே.ரி.ஆரியரத்னவின் மரணச்செய்தியைப் கேட்டபோது சிந்தையில் தோன்றிய வரிகள் இவைதாம்.
+"SriLankabimanya" reflects on life's unpredictability, inspired by Bharatiyar's wisdom. Few in Vayayam live with such arrogance, a sentiment echoed upon KR Ariyaratne's death.
+
+🟩
+
+These lines of Bharatiyar are always very good. With such a arrogant question, there are very few people who live in Vayayam. These were the lyrics that appeared in the thought when he heard the death of KR Ariyaratne.
 
 ◼️
 
 [Data](articles/f022cdb8.json)
 
+[Extended Data](ext_articles/f022cdb8.ext.json)
+
 ---
 
-### மனித பாவனைக்கு உகந்ததென உறுதி செய்யப்பட்ட அரிசி மாத்திரமே பாடசாலை போஷாக்குத் திட்டத்திற்கு பகிர்ந்தளிக்கப்படுகிறது : ஜனாதிபதி அலுவலகத்தின் உலக உணவுத் திட்ட ஒத்துழைப்புக்கான செயலகம்
+### Only rice confirmed to be human use is distributed to the school nutrition program: The Secretariat for World Food Plan Cooperation of the President's Office
 
 *2024-04-23 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181729) · `ta`
 
-கம்பஹா பிரதேச சுகாதார சேவைகள் பணிப்பாளரினால் நியமிக்கப்பட்ட நிபுணத்துவ குழுவினால் மனித பாவனைக்கு உகந்ததென உறுதி செய்யப்பட்ட அரிசி மாத்திரமே, பாடசாலை போஷாக்குத் திட்டத்திற்காக வெயங்கொடை களஞ்சியத்திலிருந்து பகிர்ந்தளிக்கப்படுவதாக ஜனாதிபதி அலுவலகத்தின் உலக உணவுத் திட்ட ஒத்துழைப்புக்கான செயலகம் அறிவித்துள்ளது.
+The World Food Scheme Secretariat confirms only rice for school nutrition, ensuring it's inspected by health officials before distribution. Rice is packaged according to international standards and can be used until May 31. It's not for sale and is distributed under an aid scheme.
 
-அரச பகுப்பாய்வுத் திணைக்களம், வைத்திய ஆராய்ச்சி நிறுவனம் ஆகியவற்றின் அறிக்கைகளை மையப்படுத்தியே மேற்படி அலுவலகம் இந்தப் பரிந்துரைகளை வழங்கியுள்ளது.
+🟩
 
-அதன்படி பல நிறுவனங்களால் மனித பாவனைக்கு உகந்தது என உறுதிப்படுத்தப்பட்ட அரிசி தொகையை,  மீள் பரிசோதனை செய்து பெற்றுக்கொள்வதற்காக சுகாதார அதிகாரிகள் குழுவொன்றை நியமிக்குமாறு அனைத்து மாகாணச் செயலாளர்களையும் அறிவுறுத்தியிருப்பதாகவும், உலக உணவுத் திட்ட ஒத்துழைப்புக்கான செயலகம் அறிவித்துள்ளது.
+The World Food Scheme Secretariat of the Presidential Office has announced that only rice has been confirmed by the Professional Committee appointed by the Director of Gampaha Divisional Health Services and is being distributed from the warehouse for the school nutrition.
+
+The office has made these recommendations focusing on reports of the Department of State Analysis and the Institute of Medical Research.
+
+Accordingly, the Secretariat of World Food Scheme has announced that all Provincial Secretaries have been instructed to appoint a panel of health officials to recruit the amount of rice confirmed by many companies.
+
+Accordingly, it is mandatory to ensure that rice distributed to schools by a team of provincial public health inspector, including the Chief Minister of Provincial Education and the Provincial Public Health Inspector, before distributing rice to the respective provinces from the Central Reserve.. Only rice confirmed with the seal will be released.
 
 ...
 
 [Data](articles/a81ab1ca.json)
 
+[Extended Data](ext_articles/a81ab1ca.ext.json)
+
 ---
 
-### ஈரானிய ஜனாதிபதி இப்ரஹிம் ரெய்ஸி இலங்கை வருகை; உமா ஓயா பல்நோக்குத்திட்டத்தைத் திறந்துவைத்து நாட்டிலிருந்து புறப்பட உத்தேசம்
+### Iranian President Ibrahim Raisi visits Sri Lanka;Uma Oya intends to open the multi -purpose project and depart from the country
 
 *2024-04-23 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181727) · `ta`
 
-ஈரானிய ஜனாதிபதி இப்ராஹிம் ரெய்ஸி ஒருநாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு புதன்கிழமை  (24) பிற்பகல் 2.00 மணிக்கு இலங்கையை வந்தடையவுள்ளார்.
+Iranian President Ibrahim Raisi visits Sri Lanka to open the $529M Uma Oya project, a water supply initiative. Despite US embassy dissatisfaction, the project, funded by Iran's Export Development Bank, aims to generate 120 MW of electricity.
 
-ஈரானின் ஒத்துழைப்புடன் 529 மில்லியன் டொலர் பெறுமதியில் முன்னெடுக்கப்பட்டிருக்கும் உமா ஓயா பல்நோக்குத்திட்டத்தைத் திறந்துவைப்பதே ஈரானிய ஜனாதிபதியின் இலங்கைக்கான விஜயத்தின் நோக்கமாகும்.
+🟩
 
-உமா ஓயா பல்நோக்குத்திட்டம் 2011 ஆம் ஆண்டு ஈரானின் ஏற்றுமதி மேம்பாட்டு வங்கியின் கடனுதவியுடன் ஆரம்பிக்கப்பட்டது. இருப்பினும் அதனைத்தொடர்ந்து பூகோள அரசியல், பொருளாதாரத்தடைகள் ஈரானில் தாக்கங்களை ஏற்படுத்தியதன் விளைவாக, உமா ஓயா திட்டத்துக்கான நிதி உள்நாட்டு திறைசேரி ஒதுக்கீடுகளுக்கு மாற்றப்பட்டது.
+Iranian President Ibrahim Raisi will visit Sri Lanka at 2.00 pm on Wednesday (24).
+
+The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
+
+The Uma Oya Multi -Purpose Project was launched in 2011 with the loan of Iran's Export Development Bank. However, as a result of global politics and sanctions on Iran, the Uma Oya project was transferred to the domestic treasury allocation for the Uma Oya project.
+
+Under this scheme, the water collected from the Buhlpola reservoir runs to the Diyaraba reservoir through the 4km tunnel.. From there, the 15.5 kilometers of tunnel passes to 2 underground turbines in Ella, Karandagolla area. Each of these systems produces 60 MW of electricity and they will be incorporated into the National Construction.
 
 ...
 
 [Data](articles/2fa3c14f.json)
 
+[Extended Data](ext_articles/2fa3c14f.ext.json)
+
 ---
 
-### வழக்கு ஒன்றின் பிரதியை போலி கையொப்பமிட்ட அலுவலக உதவியாளர் ஒருவர் கைது
+### An office assistant arrested for fake signed a copy of a case
 
 *2024-04-23 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181726) · `ta`
 
-கண்டி நீதவான் நீதிமன்றில் இடம்பெற்ற வழக்கு ஒன்றின் பிரதியைப் போலி கையொப்பமிட்டு, நபர் ஒருவருக்கு வழங்கிய குற்றச்சாட்டின் பேரில் நீதிமன்றத்தினால் கடமையாற்றும் அலுவலக உதவியாளர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+An office assistant was arrested for falsely signing a case copy at Kandy Magistrate's Court. The Kandy Police Special Criminal Investigation Department (K) found the suspect's court registrar's signature was fake. The Kandy Police Special Criminal Investigation Division (KNA) filed a case against the suspect on Tuesday or Wednesday. Further investigations are ongoing under Senior Police Officer Anurutha Bandaranaike.
 
-சம்பவம் தொடர்பில் பொலிஸில் முறைப்பாடு செய்யப்பட்டதையடுத்து, விசாரணைகளை மேற்கொண்ட கண்டி பொலிஸ் விசேட குற்றப் புலனாய்வுப் பிரிவினர், சந்தேகநபர் நீதிமன்றப் பதிவாளரின் கையொப்பத்தைப் போலியாக இட்டு, அது தொடர்பான ஆவணத்தை தயாரித்துள்ளதைக் கண்டு பிடித்துள்ளனர்.
+🟩
 
-சந்தேக நபருக்கு எதிராக நீதிமன்றில் செவ்வாய்க்கிழமை (23) அல்லது புதன்கிழமை (24)  வழக்குத் தாக்கல் செய்ய கண்டி பொலிஸ் விசேட குற்றப் புலனாய்வுப் பிரிவினர் நடவடிக்கை எடுத்துள்ளனர்.
+An office assistant has been arrested by the court on charges of fake signing a copy of a case at the Kandy Magistrate's Court.
 
-கண்டி பிரதேசத்திற்கு பொறுப்பான பதில்  சிரேஷ்ட பொலிஸ் அதிகாரி அனுருத்த பண்டாரநாயக்க தலைமையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+Following a complaint with the police, the Kandy Police Special Criminal Investigation Department (K), who investigated the incident, fake the signature of the suspect's court registrar and found that the document was prepared.
+
+The Kandy Police Special Criminal Investigation Division (KNA) has taken action to file a case against the suspect on Tuesday (23) or Wednesday (24).
+
+Further investigations are underway under the leadership of Senior Police Officer Anurutha Bandaranaike.
 
 ◼️
 
 [Data](articles/5fb8bd25.json)
 
+[Extended Data](ext_articles/5fb8bd25.ext.json)
+
 ---
 
-### பெற்றோர் நிராகரித்தும் பெண்ணை திருமணம் செய்ய முயன்ற இந்திய பிரஜையை ஒருவர் கைது
+### An Indian citizen arrested for attempting to marry a woman
 
 *2024-04-23 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181725) · `ta`
 
-தான் ஓர் ஊடகவியலாளராகவும்  மற்றும் திரைப்பட நடிகராகவும், தன்னை அறிமுகப்படுத்தி வத்துக்காம பிரதேசத்தில்  இளம் பெண்ணொருவரை  திருமணம் செய்து கொள்ள முன்வந்த நிலையில் அதனை பெற்றோர் நிராகரித்த பின்னரும் அவர் இந்தியா செல்லாமல் இந்நாட்டிலேயே தங்கி பெற்றோருக்கு அழுத்தம் கொடுத்துள்ளதாக தெரிவிக்கும் குறித்த  இந்திய பிரஜையை கண்டி பொலிஸ் அதிகாரிகள் குழுவினால் நேற்று முன்தினம் (21) கைது செய்யப்பட்டுள்ளார்.
+An Indian citizen, journalist and actor, was arrested for attempting to marry a woman in Vatukkamam, India, without a visa. Despite his parents' rejection, he was identified on social media and arrested by the Kandy Tourism Police. His visa expired on April 4, and he faces expulsion.
 
-இவ்வாறு, வீசா இன்றி நாட்டில் தங்கியிருந்த குறித்த இந்திய பிரஜை சமூக ஊடகங்கள் மூலம் அடையாளம் காணப்பட்ட இருபத்தி ஆறு வயதுடையவர் எனவும்  இவர்  வத்துக்காமம் பொலிஸ் பிரிவில்  வசிக்கும்  ஓர் இளம் பெண்ணின் வீட்டிற்குச் சென்று,  அப்பெண்ணை மணம் முடிக்க சம்மதம் கேட்டுள்ளார்.
+🟩
 
-இந்தியா பிரஜையின்  விருப்பத்தை பெற்றோர் நிராகரித்த பின்னரும், அவர் இந்தியா செல்லாமல் இந்நாட்டிலேயே தங்கி பெற்றோருக்கு அழுத்தம் கொடுத்துள்மையினால்  இது தொடர்பில் வத்தேகம பொலிஸில் முறைப்பாடு செய்யப்பட்டதையடுத்து பொலிஸார்  தற்பொழுது உரிய   விசாரணைகளை மேற்கொண்டுள்ளனர்.
+He was arrested by a group of Indian police officers yesterday (21) for allegedly being a journalist and film actor and had come to India and had pressed his parents in the country after she had rejected her parents in Vatukkama.
 
-...
+Thus, the Indian citizen, who was staying in the country without a visa, was identified by social media and she went to the house of a young woman living in the Vatukkamam police division and asked her to marry her.
+
+Even after the parents rejected the citizen's wishes, the police are currently conducting a proper investigation into the Vathekama police as he has been staying in the country without going to India.
+
+The Indian citizen's visa has ended on April 4 and the Indian citizen has been arrested by the police in the wake of the Kandy Manukkuttu bus stand.
+
+The Kandy Tourism Police have taken steps to present the Indian citizen in court and the police say that the Indian citizen is expected to be expelled from the country.
+
+◼️
 
 [Data](articles/82bf2382.json)
 
+[Extended Data](ext_articles/82bf2382.ext.json)
+
 ---
 
-### பேசாலை பொலிஸ் பிரிவில் பட்டப்பகலில் அரச ஊழியர்கள் வீட்டில் பல இலட்சம் ரூபா பெறுமதியான நகை பணம் கொள்ளை
+### Public Employees' House of Commerce worth several lakhs of rupees
 
 *2024-04-23 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181724) · `ta`
 
-மன்னார் பேசாலை பொலிஸ் நிலையப் பிரிவில் பட்டப்பகலில் வீட்டுக்குள் இருந்த பல இலட்சம் ரூபா பெறுமதியான நகைகள் மற்றும் பணத்தை கொள்ளையிட்ட சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+In Mannar Basal, a robbery of jewelry and money worth several lakhs of rupees occurred in a public servant's house. The wife of a district secretariat official was targeted, despite her children being left with a relative. The police are investigating, with no suspects arrested yet.
 
-இச்சம்பவம் திங்கள் கிழமை (22) காலை பத்து மணிக்குப் பிற்பாடு பேசாலை பகுதியிலுள்ள அரச ஊழியர்களின் வீட்டிலேயே  இடம்பெற்றுள்ளது.
+🟩
 
-சம்பவம் அன்று மாவட்ட செயலகத்தில் கடமைபுரியும் இவ்வீட்டின் மனைவி வழமைபோன்று காலையில் தனது கடமைக்காக அலுவலகம் சென்ற பின் ஒரு பிரபல பாடசாலையில் பிரதி அதிபராக கடமைபுரியும் கணவன் பாடசாலை விடுமுறையாக இருந்தபோதும் தனது பிள்ளைகளை உறவினர் வீட்டில் விட்டுவிட்டு வேறு அலுவலுக்காக வெளியில் சென்றுள்ளார்.
+In the Mannar Basal police station, there was an incident of robbery of jewelery and money worth several lakhs of rupees.
 
-பின் பகல் ஆசிரியரான கணவர் வீட்டுக்குத் திரும்பி வந்தபொழுது கதவு உடைபட்டு இருந்ததைக் கண்டுள்ளார்.
+The incident took place on Monday (22) at ten o'clock in the house of public servants in Basal.
 
-இதன்போது வீட்டில் வைக்கப்பட்டிருந்த மனைவியின் தாலிக்கொடி உட்பட பதின்மூன்று அரை பவுன் நகைகளும் ஐம்பதாயிரம் ரூபா பணமும் களவாடிச் செல்லப்பட்டதாக பொலிசில் முறையீடு செய்யப்பட்டுள்ளது.
+The wife of the district secretariat, who is in the district secretariat, has gone to the office for his duty in the morning and left her children at a relative's house, despite her husband's school holiday at a famous school.
 
-இது தொடர்பாக திருடனை கண்டு பிடிக்கும் நோக்குடன் பொலிஸ் மோப்ப நாய் கொண்டு வரப்பட்டு சோதனையிடப்பட்டுள்ளது.
+Then the teacher, the daytime teacher returned home, saw that the door was broken.
 
-...
+The police have appealed to the police that thirteen half -pound jewelery and fifty thousand rupees were stolen, including the wife's talisman.
+
+The police have been brought and tested with the aim of finding the thief in this regard.
+
+So far, no suspect has been arrested, but the police are under intense investigation.
+
+It is also noteworthy that the homes of public servants were being mocked by the robbers in the Basal police division.
+
+◼️
 
 [Data](articles/b6e0c0c4.json)
+
+[Extended Data](ext_articles/b6e0c0c4.ext.json)
 
 ---
 
@@ -2019,71 +2149,5 @@ The suspects have been handed over to the Talangama Police for further investiga
 [Data](articles/96bd3151.json)
 
 [Extended Data](ext_articles/96bd3151.ext.json)
-
----
-
-### Sri Lanka exceeds tax revenue target by 6% in first quarter
-
-*2024-04-22 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exceeds-state-revenue-target-by-6-in-first-quarter-159718/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded tax revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
-
-“After many years of difficult challenges, it has been possible to exceed the expected state revenue in the first quarter of 2024,” he said in a statement.
-
-The government expects a revenue collection of 4,106 billion rupees in 2024.
-
-“The reason for the economic crisis in the past period was the reduction in the level of government revenue. Considering the achievement of higher than the target in the first quarter of this year and the revenue pattern, the 2024 will become a year in which the revenue targets can be achieved,” he said.
-
-The three tax revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
-
-...
-
-[Data](articles/4617f12e.json)
-
-[Extended Data](ext_articles/4617f12e.ext.json)
-
----
-
-### Sri Lanka exceeds tax revenue target by 6% in first quarter
-
-*2024-04-22 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-exceeds-tax-revenue-target-by-6-in-first-quarter-159718/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s revenue collecting bodies have outperformed and exceeded tax revenue target by 6 percent for the first quarter ended on March 31, State Revenue Minister Ranjith Siyambalapitiya said.
-
-“After many years of difficult challenges, it has been possible to exceed the expected state revenue in the first quarter of 2024,” he said in a statement.
-
-The government expects a revenue collection of 4,106 billion rupees in 2024.
-
-“The reason for the economic crisis in the past period was the reduction in the level of government revenue. Considering the achievement of higher than the target in the first quarter of this year and the revenue pattern, the 2024 will become a year in which the revenue targets can be achieved,” he said.
-
-The three tax revenue collecting bodies – Sri Lankan Customs, Excise Department, and Inland Revenue Department have collected 834 billion Sri Lanka rupees in the first quarter.
-
-...
-
-[Data](articles/5d0a13b4.json)
-
-[Extended Data](ext_articles/5d0a13b4.ext.json)
-
----
-
-### Indictments on a cricket betrayal
-
-*2024-04-22 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195866) · `si`
-
-An Indian cricket team owner has been indicted in Sri Lanka for match-fixing in 'LegendS Cricket Tricks'. The Attorney General was informed at the Colombo Magistrate's Court.
-
-🟩
-
-The owner of a cricket team has been indicted against the owner of a cricket team against the match against the matching of the match against the matching match in the 'LegendS Cricket Tricks' in Sri Lanka.
-
-The Attorney General has been informed before the Colombo Magistrate's Court today.
-
-The indictment has been filed against an Indian national who owns a cricket team to join the tournament.
-
-◼️
-
-[Data](articles/564f79fc.json)
-
-[Extended Data](ext_articles/564f79fc.ext.json)
 
 ---

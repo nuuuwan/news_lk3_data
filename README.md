@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 08:52:16**
+As of **2024-04-23 09:03:36**
 
 ## Newspaper Stats
 
-*Scraped **20,374** Articles*
+*Scraped **20,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,699
-tamilmirrorlk | 2,347
-adaderanalk | 2,430
+tamilmirrorlk | 2,348
+adaderanalk | 2,431
 virakesarilk | 3,051
 dailymirrorlk | 3,171
 adaderanasinhalalk | 3,303
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,373 (100.0%) of 20,374 articles have been extended.
+20,374 (100.0%) of 20,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Series of earthquakes rattle Taiwan, centred on east coast
+
+*2024-04-23 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98787/series-of-earthquakes-rattle-taiwan-centred-on-east-coast) · `en`
+
+More than 80 earthquakes, the strongest of 6.3 magnitude, struck Taiwan’s east coast starting Monday night and into the early hours of Tuesday and some caused shaking of buildings in the capital Taipei, the island’s weather administration said.
+
+The quakes were centred on the largely rural eastern county of Hualien, where on April 3 at least 14 people died after a 7.2 magnitude temblor. Taiwan has been jolted by hundreds of aftershocks since then.
+
+The fire department in Hualien said early on Tuesday that a hotel which had already been damaged on April 3 and was no longer in operation was now slightly leaning on its side.
+
+Taiwan lies near the junction of two tectonic plates and is prone to earthquakes.
+
+More than 100 people were killed in a quake in southern Taiwan in 2016, while a 7.3 magnitude quake killed more than 2,000 people in 1999.
+
+◼️
+
+[Data](articles/752e9c74.json)
+
+---
 
 ### Five government institutions to COPE
 
@@ -626,23 +646,45 @@ Criticism is also charged towards an after-event organised in line with the race
 
 ---
 
-### மகாநாயக்க தேரர்களுடன் ஜனாதிபதி சந்திப்பு
+### 5 அரச நிறுவனங்களுக்கு கோப் குழு அழைப்பு
+
+*2024-04-23 01:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-அரச-நிறுவனங்களுக்கு-கோப்-குழு-அழைப்பு/175-336222) · `ta`
+
+ஸ்ரீ லங்கன் விமானச் சேவை நிறுவனம் உள்ளிட்ட 5 அரச நிறுவனங்களின் தலைவர்கள் இந்த வாரம் கோப் எனப்படும் அரச பொறுப்பு முயற்சிகள் பற்றிய குழுவுக்கு அழைக்கப்பட்டுள்ளனர்.
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழு, இலங்கை ஒலிபரப்புக் கூட்டுத்தாபனம், தேசிய வர்த்தக முகாமைத்துவ நிறுவனம் மற்றும் மஹாபொல உயர் கல்வி உதவித்தொகை நிதியம் ஆகிய நிறுவனங்களின் தலைவர்களே மேற்படி குழுவுக்கு அழைக்கப்பட்டுள்ளனர் என தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்கமைய. இலங்கை ஒலிபரப்புக் கூட்டுத்தாபனத்தின் தலைவர் நாளையும், பல்கலைக்கழக மானியங்கள் ஆணைக்குழு, தேசிய வர்த்தக முகாமைத்துவ நிறுவனம் மற்றும் மஹாபொல உயர் கல்வி உதவித்தொகை நிதியம் ஆகியவற்றின் தலைவர்கள் எதிர்வரும் 25 ஆம் திகதியும், ஸ்ரீ லங்கன் விமானச் சேவை நிறுவனத்தின் தலைவர் எதிர்வரும் 26ஆம் திகதியும் கோப் எனப்படும் என அரச பொறுப்பு முயற்சிகள் தொடர்பான குழுவுக்கு அழைக்கப்பட்டுள்ளனர் என பாராளுமன்ற தொடர்பாடல் திணைக்களம் குறிப்பிட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/4408dbf2.json)
+
+---
+
+### President meets with Mahanayaka Thera
 
 *2024-04-23 01:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-336221) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மல்வத்து மற்றும் அஸ்கிரி பீடங்களின் மகா நாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+President Ranil Wickremesinghe met Maha Nayaka Thera of Malwathu and Asgiri, received blessings, and discussed with Sri Sumangala Maha Nayaka Thera and Sri Gnanaradana Thera.
 
-முதலில் மல்வத்து மகா விகாரைக்கு வருகை தந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, மல்வத்து பீட மகா நாயக்க வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல மகா நாயக்க தேரரை தரிசித்து ஆசிர்வாதம் பெற்றுக் கொண்ட பின்னர் சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
+🟩
 
-இந்தச் சந்திப்பில் மல்வத்து பீட அனுநாயக்க வண, திம்புல்கும்புரே விமலதம்ம தேரரரும் கலந்து கொண்டதுடன் அவர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசிர்வதித்தார்.
+President Ranil Wickremesinghe met the Maha Nayaka Thera of the Malwathu and Asgiri Faculty and received the blessings.
 
-அதன் பின்னர் அஸ்கிரி மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, அஸ்கிரி பீட மகாநாயக்க வரகாகொட ஸ்ரீ ஞானரதன தேரரை சந்தித்து சிறிது நேரம் கலந்துரையாடினார்.
+President Ranil Wickremesinghe, who first visited the Malwathu Maha Vihara, had a brief discussion after receiving the blessings of Sri Sumangala Maha Nayaka Thera, Malwathu Peeta Maha Nayaka, Tippattuwawe.
 
-முதியங்கனை ரஜமஹா விகாரையின் விகாராதிபதி வண, முருந்தெணியே தம்மரதன தேரர் தலைமையிலான மகா சங்கத்தினர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசி வழங்கினார்கள். (a)
+The meeting was attended by the Malwathu Peetha Anunayaka Vanayaka, Thimbulkumbure Wimalathama Thera and he recited and blessed the president.
+
+President Ranil Wickremesinghe, who visited the Asgiri Maha Vihara, met with Sri Gnanaradana Thera, Asgiri Petta Mahanayaka Varakagoda.
+
+The Maha Sangha led by Dammaratana Thera, the Vidyapati of the Elder Rajamaha Vihara, recited the President and blessed the President.. (A)
 
 ◼️
 
 [Data](articles/3446f9ed.json)
+
+[Extended Data](ext_articles/3446f9ed.ext.json)
 
 ---
 
@@ -2121,51 +2163,5 @@ He is also the first Senior Army officer who left office due to the Israeli atta
 [Data](articles/753da4f1.json)
 
 [Extended Data](ext_articles/753da4f1.ext.json)
-
----
-
-### 6 companies willing to buy SriLankan
-
-*2024-04-22 17:43:06* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-මිලදී-ගන්න-සමාගම්-6ක්-කැමැත්තෙන්/11-409206) · `si`
-
-Six companies, including Hayleys Limited, Air Asia, Malaysia, Tamil Nadu Sherisha Techies Limited, and DHTShaan Elite Investment Holding, have shown interest in buying SriLankan Airlines.
-
-🟩
-
-Six companies have presented six companies to purchase SriLankan Airlines. The Hayleys Limited as well as Sri Lanka's private flights, as well as Dhammika Perera is the Chairman.
-
-Air Asia, Malaysia, has also expressed consent. In addition, Sri Lankan consent of Tamil Nadu sherisha techies limited and DHTShaan Elite Invest Investment Holding (Pvt) HOLDING (PVT) HOLDING (PVT) HOLDING (PVT) HOLDING (PVT) HOLDING (PVT) HOLDING (PVT) holds. The ambition to purchase SriLankan on Tuesday (22).
-
-◼️
-
-[Data](articles/65b05167.json)
-
-[Extended Data](ext_articles/65b05167.ext.json)
-
----
-
-### Mysterious body found under Extension Bridge
-
-*2024-04-22 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195869) · `si`
-
-A mysterious body, 5'4", found near the Gallane Expressway Bridge in Bandaragama, is under investigation. The deceased, dressed in a shirt mixed with orange and brown, is at the Bandaragama hospital morgue for a post-mortem.
-
-🟩
-
-The body of a person who died mysteriously found near the Gallane Expressway Bridge in Bandaragama.
-
-The police said that the identity of the deceased has not yet been revealed.
-
-The body has been placed at the Bandaragama hospital morgue for the post mortem.
-
-He is a ticket height, 5 feet height and 4 inches height.
-
-He has been dressed in a shirt and mixed with a shirt and orange and brown.
-
-◼️
-
-[Data](articles/faf22b9c.json)
-
-[Extended Data](ext_articles/faf22b9c.ext.json)
 
 ---

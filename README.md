@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 08:34:04**
+As of **2024-04-23 08:52:16**
 
 ## Newspaper Stats
 
-*Scraped **20,373** Articles*
+*Scraped **20,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,699
-tamilmirrorlk | 2,346
+tamilmirrorlk | 2,347
 adaderanalk | 2,430
 virakesarilk | 3,051
 dailymirrorlk | 3,171
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,372 (100.0%) of 20,373 articles have been extended.
+20,373 (100.0%) of 20,374 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -623,6 +623,26 @@ Criticism is also charged towards an after-event organised in line with the race
 [Data](articles/3b1e6c62.json)
 
 [Extended Data](ext_articles/3b1e6c62.ext.json)
+
+---
+
+### மகாநாயக்க தேரர்களுடன் ஜனாதிபதி சந்திப்பு
+
+*2024-04-23 01:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-336221) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மல்வத்து மற்றும் அஸ்கிரி பீடங்களின் மகா நாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக்கொண்டார்.
+
+முதலில் மல்வத்து மகா விகாரைக்கு வருகை தந்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, மல்வத்து பீட மகா நாயக்க வண, திப்பட்டுவாவே ஸ்ரீ சுமங்கல மகா நாயக்க தேரரை தரிசித்து ஆசிர்வாதம் பெற்றுக் கொண்ட பின்னர் சிறு கலந்துரையாடலிலும் ஈடுபட்டார்.
+
+இந்தச் சந்திப்பில் மல்வத்து பீட அனுநாயக்க வண, திம்புல்கும்புரே விமலதம்ம தேரரரும் கலந்து கொண்டதுடன் அவர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசிர்வதித்தார்.
+
+அதன் பின்னர் அஸ்கிரி மகா விகாரைக்கு விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, அஸ்கிரி பீட மகாநாயக்க வரகாகொட ஸ்ரீ ஞானரதன தேரரை சந்தித்து சிறிது நேரம் கலந்துரையாடினார்.
+
+முதியங்கனை ரஜமஹா விகாரையின் விகாராதிபதி வண, முருந்தெணியே தம்மரதன தேரர் தலைமையிலான மகா சங்கத்தினர் ஜனாதிபதிக்கு பிரித் பாராயணம் செய்து ஆசி வழங்கினார்கள். (a)
+
+◼️
+
+[Data](articles/3446f9ed.json)
 
 ---
 
@@ -1796,19 +1816,31 @@ He added that it is advisable to stop the property by abolishing the post of MP.
 
 ---
 
-### වගා නොකළ ඉඩම් වගා කිරීමට කැමති අයට නිදහස් කරයි
+### Free of undeniable lands will be free to grow
 
 *2024-04-22 19:25:01* · [`adalk`](https://www.ada.lk/breaking_news/වගා-නොකළ-ඉඩම්-වගා-කිරීමට-කැමති-අයට-නිදහස්-කරයි/11-409214) · `si`
 
-මෙතෙක් වගා නොකළ නමුත් වගා කළ හැකි ඉඩම් වගා කිරීමට කැමති අය සඳහා නිදහස් කිරීමට රජය ප්‍රතිපත්තිමය තීන්දුවක් ගෙන ඇති බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවසීය.මේ තුළ කිසිසේත්ම ඉඩම් හිමිකම් පැවරීමක් නොවන්නට වග බලාගන්නා බව ද හෙතෙම සඳහන් කළේය.
+The Prime Minister announced a policy to release cultivable lands, aiming to enhance rural economy and nutrition. This move targets landless farmers, offering them ownership of plantation lands. The initiative is part of efforts to boost the rural economy, including the distribution of eggs from small-scale poultry farms.
 
-තමන්ට වුවමනා වගා කළ හැකි භූමියේ හිමිකම එසේම තිබියදී නිෂ්පාදනය පමණක් හැකි අය වෙත පැවරීම පමණක් බවත්, දැනට වතු සමාගම් සතු වතුවල පවා වගා නොකරන බිම් අයිතිය වගා කළ හැකි අය වෙත ලබා දීම සඳහා වන නීති සංශෝධන ගෙන ඒමට රජය කටයුතු කරන බවත් අග්‍රාමාත්‍යවරයා පැවසීය. එතුළින් ගම අපනයනාභිමුක නිෂ්පාදන ඒකකයක් කිරිම සඳහා වන ඇරඹුමක් ලබා ගන්නට බලාපොරොත්තු වන බව ද හෙතෙම කීවේය.
+🟩
 
-අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ දෙහිඕවිට ප්‍රාදේශීය ලේකම් කාර්යාලයේදී ග්‍රාමීය ආර්ථිකය ශක්තිමත් කිරීම සහ සුළු පරිමාණ කුකුළු ගොවිපොළ හිමිකරුවන් නංවාලීම අරමුණු කරගෙන සිදු කරන බිත්තර රැක්කවීමේ යන්ත්‍ර බෙදාදීමේ වැඩසටහනට ඊයේ (22දා) එක්වෙමිනි.
+The government said that the government has taken a policy decision to release the cultivable lands so far, but he said.
+
+The Prime Minister said that the government is acting only to bring the legal amendments to those who could not even provide the land ownership of the plantation to those who cultivate the land ownership of the estate companies.. He also said that the village is expected to have a boot to an unit for a product unit.
+
+The Prime Minister was speaking at a program to strengthen the rural economy at Dehiowita Divisional Secretariat and the distribution of eggs related to the ownership of small scale poultry.
+
+"The Prime Minister's Office, the Divisional Secretariat and the private sector, we get the ability to bring investment opportunities and investment opportunities in the economy.
+
+The people have to be persecuted in efforts to come up with a country from that crash.
+
+The government took measures to pay half of the salary paid to the retired people.
 
 ...
 
 [Data](articles/58ac9655.json)
+
+[Extended Data](ext_articles/58ac9655.ext.json)
 
 ---
 
@@ -2135,27 +2167,5 @@ He has been dressed in a shirt and mixed with a shirt and orange and brown.
 [Data](articles/faf22b9c.json)
 
 [Extended Data](ext_articles/faf22b9c.ext.json)
-
----
-
-### Sri Lanka seeks enhanced ties with Gambia ahead of OIC summit
-
-*2024-04-22 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-seeks-enhanced-ties-with-Gambia-ahead-of-OIC-summit/108-281166) · `en`
-
-Ahead  of the forthcoming Organization of the Islamic Cooporation (OIC) summit, slated to be hosted by Gambia in early May, Sri Lankan Envoy to Kenya, Kana Kananathan engaged in bilateral discussions with Dr. Mamadou Tangara, the Foreign Minister of Gambia.
-
-The discussions centered on fortifying the bonds between Sri Lanka and African nations, emphasizing collaboration and solidarity among African countries.
-
-Ambassador Kananathan reiterated Sri Lanka's unwavering commitment to being a steadfast ally to Africa.
-
-Expressing gratitude for Gambia's longstanding support for Sri Lanka in international arenas, Kananathan underscored the importance of sustained cooperation between the two nations across diverse multilateral platforms.
-
-The upcoming OIC summit, to be convened in Gambia, promises significant participation from heads of state representing OIC member countries, providing a crucial forum for dialogue and collaboration on pertinent issues facing the Islamic world.
-
-...
-
-[Data](articles/efd44f83.json)
-
-[Extended Data](ext_articles/efd44f83.ext.json)
 
 ---

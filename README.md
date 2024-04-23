@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 02:33:55**
+As of **2024-04-24 02:50:08**
 
 ## Newspaper Stats
 
-*Scraped **20,525** Articles*
+*Scraped **20,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
-dailyftlk | 1,137
+dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,366
@@ -26,25 +26,269 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,524 (100.0%) of 20,525 articles have been extended.
+20,525 (99.9%) of 20,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### கல்வியை அரசியல் காற்பந்தாக மாற்ற இடமளிக்க கூடாது - ஜனாதிபதி
+### Electricity Users Association files complaint with HRCSL against Electricity Bill
+
+*2024-04-24 02:20:00* · [`dailyftlk`](https://www.ft.lk/news/Electricity-Users-Association-files-complaint-with-HRCSL-against-Electricity-Bill/56-760973) · `en`
+
+Electricity Users Association has filed a formal complaint with Human Rights Commission Sri Lanka (HRCSL) against the recently gazetted Sri Lanka Electricity Bill, alleging that it violates the rights of electricity users.
+
+The Association’s Secretary Sanjeewa Dhammika outlined that the complaint was filed focusing on five critical concerns regarding the Bill.
+
+He also highlighted that under the proposed legislation, key entities such as the National Energy Advisory Council, National System Operator, National Transmission Grid Service Provider, and Field Strength Renovation Network Service Provider and the Public Utilities Commission of Sri Lanka (PUCSL), would fall under the direct purview of the Minister, which will give immense powers to him.
+
+...
+
+[Data](articles/007532f9.json)
+
+---
+
+### Citizen’s movement calls for Rs. 50 m compensation over new Electricity Bill
+
+*2024-04-24 02:19:31* · [`dailyftlk`](https://www.ft.lk/news/Citizen-s-movement-calls-for-Rs-50-m-compensation-over-new-Electricity-Bill/56-760972) · `en`
+
+The Citizen’s movement against fraud, corruption and waste has submitted a letter of demand to the Power and Energy Ministry Secretary, calling for Rs. 50 million in compensation.
+
+They cited the adverse effects of the new Sri Lanka Electricity Bill on the citizens as the basis for their claim.
+
+Led by its Chairman Jamuni Kamantha Thushara along with a few other members, the movement argued that the Bill violates Constitutional rights and has a detrimental impact on over 6 million electricity users countrywide.
+
+On 17 April, the Government published the proposed electricity sector reforms in the gazette, which is now named the Sri Lanka Electricity Bill. The crucial legislation is now set to be presented to Parliament during the next sitting. It then allows the public a two-week window from the date of its submission in Parliament to challenge its legality in the Supreme Court.
+
+◼️
+
+[Data](articles/6eac6281.json)
+
+---
+
+### Power and Energy Minister expresses gratitude to Iran for Uma Oya multi-purpose project
+
+*2024-04-24 02:18:45* · [`dailyftlk`](https://www.ft.lk/news/Power-and-Energy-Minister-expresses-gratitude-to-Iran-for-Uma-Oya-multi-purpose-project/56-760971) · `en`
+
+Power and Energy Minister Kanchana Wijesekera yesterday said he met with the construction and engineering partner of the Uma Oya Multipurpose facility, FARAB Group top officials and the Iranian Energy Ministry officials on Monday at the Ministry premises.
+
+“A meeting with the Managing Director, Chairman of the Board, officials of FARAB group and officials of the Iranian Ministry of Energy was held yesterday (Monday). I thanked the officials for their assistance in implementing the project and discussed possible future investments and partnerships,” he said
+
+With the commissioning of the Uma Oya Hydro Power Plant today (24), the Minister said a total of 120MW power generation capacity will be added to the national grid, reducing the cost of energy. “The project will also provide water requirements for drinking, agricultural and irrigational requirements for beneficiaries in three districts,” he said.
+
+...
+
+[Data](articles/9d126daa.json)
+
+---
+
+### Chinese Communist Party representatives meet AKD
+
+*2024-04-24 02:17:46* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Communist-Party-representatives-meet-AKD/56-760970) · `en`
+
+Several representatives of the Chinese Communist Party including the Vice Minister of the International Department Sun Haiyan met with Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) party leader Anura Kumara Dissanayake at the JVP head office in Pelawatta yesterday.
+
+The delegation included the Deputy Director General of the International Affairs Department Lin Tao, Counsellor of the Chinese Embassy in Sri Lanka Chen Xiangyuan, Director of the international Affairs Department Li Jiyan, Deputy Director Wen Jun, Secretary to the Deputy Minister Jin Yan and the Third Secretary of the Chinese Embassy in Sri Lanka Jin Enze.
+
+The NPP was represented by NPP Executive Council members Vijitha Herath, Dr Harini Amarasuriya, Prof Anil Jayantha Fernando and Sunil Handunetti.
+
+In a statement the NPP said the two parties discussed Sri Lanka’s current political situation, the upcoming polls and ensuing events.
+
+...
+
+[Data](articles/1dfb3e10.json)
+
+---
+
+### Army appoints investigation panel to probe deadly Fox Hill crash
+
+*2024-04-24 02:16:24* · [`dailyftlk`](https://www.ft.lk/news/Army-appoints-investigation-panel-to-probe-deadly-Fox-Hill-crash/56-760969) · `en`
+
+The Sri Lanka Army has appointed a seven-member panel led by a Major General to investigate the deadly accident that happened during the ‘Fox Hill Super Cross 2024’ racing event in Diyatalawa on Sunday.
+
+As many as seven people including an 8-year-old girl lost their lives and more than 20 were injured after a car ran off the track during a race and ploughed into spectators.
+
+Among the deceased were four event officials who had been stationed as flag marshals. The others were identified as spectators.
+
+The crash happened soon after another car had overturned on the track. As the vehicles were speeding past, one red car veered off course and crashed into spectators on the side of the unguarded track.
+
+Two drivers of the racing cars involved in the accident were subsequently arrested and remanded until 30 April on the orders of Bandarawela Magistrate’s Court.
+
+...
+
+[Data](articles/372b355f.json)
+
+---
+
+### Intense temperature in SL
+
+*2024-04-24 02:15:58* · [`dailyftlk`](https://www.ft.lk/news/Intense-temperature-in-SL/56-760968) · `en`
+
+The Meteorology Department yesterday issued a cautionary warning about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
+
+It said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as ‘Caution’.
+
+According to the heat advisory issued, the ‘Caution Level’ was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
+
+This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
+
+...
+
+[Data](articles/45772df8.json)
+
+---
+
+### Daintee celebrates four decades of sweet success
+
+*2024-04-24 02:14:47* · [`dailyftlk`](https://www.ft.lk/business/Daintee-celebrates-four-decades-of-sweet-success/34-760967) · `en`
+
+Top management of Sunshine Holdings, Sunshine Consumer Lanka and Daintee cutting the celebratory anniversary cake
+
+Daintee receiving the ISO 22000:2018 certification from Control Union Inspections
+
+Daintee, the confectionary arm of Sunshine Consumer Lanka Ltd. (SCL), recently marked its 40th anniversary, highlighting four decades of excellence in crafting delicious sweets and confectionery delights for millions of Sri Lankans. The grand celebration, which took place on 1 April 2024, was graced by Sunshine Holdings Deputy Chairman Vish Govindasamy, Sunshine Consumer Lanka Chief Executive Officer Anuruddha Aluvihare, senior management of Sunshine Holdings and SCL, Daintee employees, and other distinguished guests.
+
+...
+
+[Data](articles/360794cd.json)
+
+---
+
+### Education should not be allowed to become a political football - the president
 
 *2024-04-24 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181806) · `ta`
 
-கல்வியை அரசியல் காற்பந்தாக மாற்றிக்கொள்ளும் பட்சத்தில் நாடு தோல்வியை சந்திக்க நேரிடும் என்பதால், தனிப்பட்ட நோக்கங்களை விடுத்து, அனைவரும் ஒன்றிணைந்து கலந்துரையாடி நாட்டிற்கு பொருத்தமான கல்வி முறையொன்றை அறிமுகப்படுத்த வேண்டியது அவசியமென ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of unity in education, warning against turning it into a political tool. He highlighted the need for a comprehensive educational system that includes all stakeholders, not just academic experts. He also discussed the challenges and opportunities in integrating technology and artificial intelligence in education, aiming for a modern, export-based economy.
 
-கொழும்பு நெலும் பொக்குன கலையரங்கத்தில் செவ்வாய்க்கிழமை (23) நடைபெற்ற அகில இலங்கை தொழில்சார் வளவாளர்கள் சங்கத்தின் 10 ஆவது வருடாந்த மாநாட்டிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அகில இலங்கை தொழில்சார் வளவாளர்கள் சங்கமானது (APLA), இலங்கை முழுவதும் வியாபித்திருக்கின்ற பிரத்தியேக வகுப்புகளின் ஆசியர்கள் ஒன்றிணைந்து, 2004 ஆம் ஆண்டில் உருவாக்கிய அமைப்பாகும்.
+President Ranil Wickremesinghe said that if education is turned into a political football, the country will suffer a failure, so that it is necessary to unite and introduce a suitable education system for all.
+
+President Ranil Wickremesinghe said this at the 10th Annual Conference of the All Ceylon Industrial Resources Association held at the Nelum Pokuna Gallery of Colombo on Tuesday (23).
+
+The All Ceylon Occupational Resources Association (APLA) is an organization created in 2004 by the Asians of the exclusive classes that have spread throughout Sri Lanka.
+
+One of the initial members of the All Ceylon Entrepreneurs' Association and Senior Dr. K. Ariyasinghe was awarded the Senior Resources Award and other resources awards by President Ranil Wickremesinghe and the President of the President of the event.
+
+The President then joined the All Ceylon Industrial Resources Association Executive Committee members.
 
 ...
 
 [Data](articles/125d3297.json)
+
+[Extended Data](ext_articles/125d3297.ext.json)
+
+---
+
+### Australia and Sri Lanka further strengthen ties with launch of new joint maritime security operation
+
+*2024-04-24 02:10:50* · [`dailyftlk`](https://www.ft.lk/news/Australia-and-Sri-Lanka-further-strengthen-ties-with-launch-of-new-joint-maritime-security-operation/56-760966) · `en`
+
+Australian High Commissioner Paul Stephens (right) with Commander Joint Agency Task Force Operation Sovereign Borders, Rear Admiral Brett Sonter, RAN and Department of Sri Lanka Coast Guard Director-General Rear Admiral Pujitha Vithana at the briefing to announce the launch of new joint maritime security operation
+
+Australia and Sri Lanka’s commitment to countering maritime security threats has been on display with the launch of a new joint maritime security operation in Colombo this week.
+
+Aptly named Disi Rela, which means ‘keeping a watchful eye over the maritime environment,’ the new joint activity will see the Australian Border Force (ABF) and Department of Sri Lanka Coast Guard (SLCG) undertake a week-long program of work, from Dikkowita to Chilaw.
+
+Commander Joint Agency Task Force Operation Sovereign Borders, Rear Admiral Brett Sonter, RAN said that Disi Rela underscores the strong partnership between the two countries.
+
+...
+
+[Data](articles/e6360662.json)
+
+---
+
+### Rotary project awarded Global Climate Hero Award at COP28
+
+*2024-04-24 02:09:26* · [`dailyftlk`](https://www.ft.lk/news/Rotary-project-awarded-Global-Climate-Hero-Award-at-COP28/56-760965) · `en`
+
+On the sidelines of the COP28 Climate Summit, the Co-Founder of Its4U COP28 Cambridge University Alumni Dr. David Ko and Richard Busellato an Alumni of Stockholm University staged a 12-day workshop series under the branding “#Its4U” which connected the world on the projects done in different parts of the globe on initiatives for sustainability beyond ESG- Environment, Society and Governance.
+
+The preparations kick started from the Farican Climate Summit and thereafter together with World Climate School Co-Founder Inger-Mette Stenseth and then reached out to the global community to voice their views on the key initiatives from different parts of the world. Diana Mclntyre-Pike from Jamaica, Sadaf Khalid Khan the CEO of Walnut Heights Resorts in Pakistan, Dr. Rohantha Athukorala from Sri Lanka on the Rotary 1 Million Tree project were some of the key projects featured on Day 1 of the Symphony of a Billion Voices on Climate Change project.
+
+...
+
+[Data](articles/a31e6887.json)
+
+---
+
+### UN rights chief ‘horrified’ by mass grave reports at Gaza hospitals
+
+*2024-04-24 02:08:18* · [`dailyftlk`](https://www.ft.lk/news/UN-rights-chief-horrified-by-mass-grave-reports-at-Gaza-hospitals/56-760964) · `en`
+
+U.N. rights chief Volker Turk said on Tuesday that he was “horrified” by the destruction of the Nasser and Al Shifa medical facilities in Gaza and reports of mass graves containing hundreds of bodies there, according to a spokesperson.
+
+Palestinian authorities reported finding scores of bodies in mass graves at Nasser hospital in Khan Younis this week after it was abandoned by Israeli troops. Bodies were also reported at the Al Shifa site following an Israeli special forces operation.
+
+“We feel the need to raise the alarm because clearly there have been multiple bodies discovered,” said Ravina Shamdasani, the spokesperson for the U.N. High Commissioner for Human Rights, adding Turk said he had been horrified by the reported mass grave discoveries and the hospitals’ destruction.
+
+“Some of them had their hands tied, which of course indicates serious violations of international human rights law and international humanitarian law, and these need to be subjected to further investigations.”
+
+...
+
+[Data](articles/618464b5.json)
+
+---
+
+### Foreign Affairs relocates Consular Division to new premises at “Suhurupaya”, Battaramulla
+
+*2024-04-24 02:07:59* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-relocates-Consular-Division-to-new-premises-at-Suhurupaya-Battaramulla/56-760963) · `en`
+
+The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises at the 16th floor of “Suhurupaya”, Sri Subhuthipura Road, Battaramulla with effect from 2 May 2024.
+
+All consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday, 8:30 a.m. to 4:15 p.m.
+
+Document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
+
+...
+
+[Data](articles/044380d4.json)
+
+---
+
+### GMOA members to get dual interface membership cards
+
+*2024-04-24 02:07:41* · [`dailyftlk`](https://www.ft.lk/news/GMOA-members-to-get-dual-interface-membership-cards/56-760962) · `en`
+
+CH17 CEO Jumar Preena (left) exchanging MoU with GMOA Secretary Dr. Haritha Aluthga. GMOA Assistant Secretaries Dr. Prabath Sugathadasa and Dr. Chamil Wijesinghe, and CH17 Project Coordinator Tharaka Samarakoon are also present
+
+Government Medical Officers’ Association (GMOA) and Ch17 Loyalty have entered into an agreement for the implementation of a dual interface membership card which is the Association’s first in 98-year history.
+
+The proposed membership card can also be used as the members Privilege card which offers benefits from multiple merchants and vendors partnered with CH17 Loyalty. In addition, each cardholder will have access to a digital card and other features customised to the GMOA.
+
+“CH17’s multi-vendor platform is one of a kind in the corporate loyalty space developed by our in-house development team,” CH17 Loyalty CEO Jumar Preena said.
+
+...
+
+[Data](articles/2e72f58c.json)
+
+---
+
+### Exploring FDI and export potential of Sri Lanka under the new normal
+
+*2024-04-24 02:04:22* · [`dailyftlk`](https://www.ft.lk/columns/Exploring-FDI-and-export-potential-of-Sri-Lanka-under-the-new-normal/4-760961) · `en`
+
+This article captures the core insights from the recent webinar hosted by the Daily FT, Board of Investment, SLID, CIMA, ACCCA and the International Chamber of Commerce. The event fostered dialogue with the diplomatic community from crucial markets about the critical role of Free Trade Agreements (FTAs) in Sri Lanka’s growth trajectory.
+
+As Sri Lanka works to recover from its recent economic crisis through robust macroeconomic and fiscal policies, its future growth prospects remain constrained. The country faces challenges such as underperforming exports, which are projected to increase by only 5.27% annually from 2024 to 2028, and structural economic weaknesses, including persistently low labour productivity that has grown at a mere 1.4% over the past decade. To foster sustainable economic growth, Sri Lanka must enter new markets through efficiency-enhancing free trade agreements (FTAs), simultaneously addressing domestic constraints to unlock its FDI and export potential.
+
+...
+
+[Data](articles/781979bc.json)
+
+---
+
+### Rising from the Rubble: Sri Lanka’s economy roars back to life – fact or fiction?
+
+*2024-04-24 02:00:03* · [`dailyftlk`](https://www.ft.lk/columns/Rising-from-the-Rubble-Sri-Lanka-s-economy-roars-back-to-life-fact-or-fiction/4-760960) · `en`
+
+The World Bank recently held a press briefing to discuss the future of Sri Lanka's economy. World Bank Country Director for Maldives, Nepal, and Sri Lanka Faris Hadad-Zervos stated: "Sri Lanka's economy is on the road to recovery, but sustained efforts to mitigate the impact of the economic crisis on the poor and vulnerable are critical, alongside a continuation of the path of robust and credible structural reforms."
+
+Currently, Sri Lanka's overall recovery path is becoming clearer, especially through policy-level measures and structural reforms, particularly concerning state-owned enterprises (SOEs) that have been incurring losses. The maintenance of loss-making SOEs poses a significant burden on the Government's Balance Sheet. In 2023, the cumulative net losses of SOEs amounted to 1,323 billion rupees, with some showing marginal profits. However, overall, these entities face challenges in overcoming historical cumulative losses.
+
+...
+
+[Data](articles/3ad0f337.json)
 
 ---
 
@@ -1969,339 +2213,5 @@ Misty conditions are also anticipated in certain locations of the Sabaragamuwa, 
 [Data](articles/25ef5527.json)
 
 [Extended Data](ext_articles/25ef5527.ext.json)
-
----
-
-### Chamary numbers together
-
-*2024-04-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195894) · `si`
-
-Chamari Atapattu, Sri Lanka's women's cricket leader, tops the International Cricket Council ratings.
-
-🟩
-
-Sri Lanka women's cricket leader Chamari Atapattu has been able to reach the first place in the International Cricket Council ratings.
-
-◼️
-
-[Data](articles/76c57ca6.json)
-
-[Extended Data](ext_articles/76c57ca6.ext.json)
-
----
-
-### An elderly man who tried to overcome Baku Strait
-
-*2024-04-23 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181746) · `ta`
-
-An elderly man, Gopal Rao, 78, from Bangalore, died of chest pain while attempting to swim the Baku Strait from Talaimannar to Dhanushkodi. The event involved 31 swimmers, including Gopal Rao, who left Rameswaram on Monday. The medical team confirmed his death, and the body was taken to Dhanushkodi for anatomy. The incident led to the abandonment of the swim by the remaining 30 participants.
-
-🟩
-
-An elderly man from India, who was trying to cross the Baku Strait, died of chest pain in the middle of the sea.
-
-In recent years, many swimmers from foreign and foreign states have been swimming in the 30 -kilometer Baku Strait from Talaimannar to Dhanushkodi in India.
-
-In this case, a group of 31 people left the boat from Rameswaram on Monday (22) by boat on Monday with the permission of the Indian and Sri Lankan government to swim from Talaimannar to Dhanushkodi Ariyal.
-
-From here they jumped into the sea at about 12.10 am today (23).
-
-Gopal Rao, 78, from Bangalore, who was third, was suddenly killed in the middle of the sea.
-
-Subsequently, the medical team who examined him confirmed that Gopal Rao died of chest pain.
-
-Subsequently, the body of Gopal Rao was taken to the Dhanushkodi Bridge Fisheries Harbor and was then placed at the hospital in Rameswaram for anatomy.
-
-As a accompanying man died, 30 people abandoned the achievement event from Mannar to Dhanushkodi.
-
-...
-
-[Data](articles/8af83446.json)
-
-[Extended Data](ext_articles/8af83446.ext.json)
-
----
-
-### දමිතාගේ හා සැමියාගේ බැංකු ගිණුම් ගැන විස්තර ගනියි
-
-*2024-04-23 14:14:01* · [`adalk`](https://www.ada.lk/breaking_news/දමිතාගේ-හා-සැමියාගේ-බැංකු-ගිණුම්-ගැන-විස්තර-ගනියි/11-409221) · `si`
-
-දමිතා සැමියා බැංකු ගිණුම් ගැන විස්තර ගනියි. ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න සැමියා වන ලෙන්ලි ජොන්සන් භාවිත කරන බැංකු ගිණුම් සම්බන්ධයෙන් අධිකරණයේ අවසරය මත තොරතුරු ලබා ගැනීමට විශේෂ පොලිස් කණ්ඩායමක් බන්දනාගාරය වෙත ගිය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු සඳහන් කරයි.
-
-🟩
-
-කොරියාවේ රැකියා වීසා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 30 ක මුදලක් වංචා කළයි කියන ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න සහ ඇගේ සැමියා වන ලෙන්ලි ජොන්සන් යන අයවලුන් භාවිත කරන ලද බැංකු ගිණුම් සම්බන්ධයෙන් අධිකරණයේ අවසරය මත තොරතුරු ලබා ගැනීමට විශේෂ පොලිස් කණ්ඩායමක්  බන්ධනාගාරය වෙත ගිය බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු සඳහන් කරයි.
-
-The Criminal Investigation Department's Computer Criminal Investigation Division is according to court orders obtained to obtain information on bank accounts used by the suspects.
-
-එම නියෝග අනුව  ඊයේ  (22) දමිතා අබේරත්නගේ සැමියා වන ලෙන්ලි ජොන්සන්  යන අයගෙන් පමණක් පුරා පැය දෙකකට ආසන්න කාලයක්  ප්‍රකාශ ලබාගෙන ඇතැයි   දැනගන්න ඇත
-
-...
-
-[Data](articles/7f574628.json)
-
-[Extended Data](ext_articles/7f574628.ext.json)
-
----
-
-### 28 Welikada inmates have died this year
-
-*2024-04-23 14:08:11* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-වැලිකඩ-රැඳවියන්-28ක්-මිය-ගිහින්/11-409220) · `si`
-
-28 inmates, including 2 women, died in Welikada Prison this year. January and February saw 11 deaths, including 2 women. Prisoners in Colombo and Welikada died from various illnesses.
-
-🟩
-
-28 people have been killed in the Welikada Prison since January this year, police said.. It is learned that among the dead were two women.
-
-Six people and five persons including a woman including a woman in January and five persons including a woman in February have been killed in this month.. A man and a woman have died and died.
-
-In prisoners who are infected with the Magazine Prison, Colombo remanded and Welikada prisons were killed in various illnesses.
-
-◼️
-
-[Data](articles/5e0e4c51.json)
-
-[Extended Data](ext_articles/5e0e4c51.ext.json)
-
----
-
-### Sri Lanka Foreign Ministry consular division shifted to Battaramulla
-
-*2024-04-23 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-ministry-consular-division-shifted-to-battaramulla-159789/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Foreign Ministry said it consular division would be shifted to the Suhurupaya building in Subuthipura, Battaramulla from May 02, 2024.
-
-Document authentication services provided by the Consular Affairs Division in Colombo will be suspended on 29 and 30 April 2024 held transfer the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
-
-Urgent applications for authentication to the Consular Division in Colombo, or any Regional Consular Offices by 4.15 pm on 26 April 2024, the Foreign Ministry said.
-
-Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to accept applications.
-
-Authenticated documents will be delivered to the applicants only on Thursday, 02 May 2024.
-
-◼️
-
-[Data](articles/ea30192a.json)
-
-[Extended Data](ext_articles/ea30192a.ext.json)
-
----
-
-### Journalist of Dambulla Dambulla
-
-*2024-04-23 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-දෙකෙක්-බේරූ-දඹුල්ලේ-මාධ්‍යවේදී-කාචන/11-409219) · `si`
-
-A journalist from Dambulla saved a father and daughter from a dam by using a newly built concrete structure.
-
-🟩
-
-Dissanayake of a newly built concrete to the northwestern reservoir, he was able to save the lives of a daughter and father-handed dam
-
-The sixth year of the sixth year of the sixth year of the Molevadu Vidyalaya, Galelassem, and her father, Rasika Gayan was saved while swimming.
-
-Karana Kumara Ariyadasa is walking along the road with three of his friends with three of his friends, with the daughter's screaming with the daughter's life, with the daughter's life, with the daughter's screamingWith the daughter's notice that the father who had gone to save her life was able to save the father's life.
-
-◼️
-
-[Data](articles/b3024ea8.json)
-
-[Extended Data](ext_articles/b3024ea8.ext.json)
-
----
-
-### Israel, which lives within the war of Iran
-
-*2024-04-23 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181765) · `ta`
-
-Israel and Iran are in a tense standoff, with Iran's missile strength and military capabilities being of concern. Iran has a large number of missiles and is improving its space technology for missile manufacturing. The Iranian military includes 523,000 soldiers, with significant naval and air forces. Israel, on the other hand, has a sophisticated military with 601 aircraft, 48 helicopters, and 2,200 tanks, supported by the US. Israel's military spending in 2022 was $23.4 billion, with additional financial assistance from the US. The region has a history of conflicts, including the Israeli Liberation War and various border conflicts. Israel's recent actions in Gaza have drawn international attention and concern.
-
-🟩
-
-In the wake of the tension between Israel and Iran, it is necessary to investigate the power of Iran, Israel and the force.. The scenes are changing massive in the Middle East.
-
-Israel was besieged Gaza.However, it has been reported that Iran is receiving their forces from the city of Gaza, Gaza, as Iran can attack at any time.
-
-Although the strength of the Iranian Air Force is low, Iran's missile strength is the main feature of its military strength. Iran has a large number of missiles in the Middle East, the US Defense Department said.
-
-Most of them are more likely to be hit by long -range and are more likely to hit middle distance missiles. Iran is also trying to improve its space technology to manufacture missiles that can be continental missiles.
-
-The British International Military Studies Center said that there are 523,000 soldiers in the Iranian military. This includes 350,000 people in regular military work and 150,000 in the Islamic Revolutionary Security Forces.
-
-...
-
-[Data](articles/4f53b99a.json)
-
-[Extended Data](ext_articles/4f53b99a.ext.json)
-
----
-
-### Two killed in firing
-
-*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
-
-Two killed in a shooting incident at the Meegoda-Delkittiya junction this morning. The victims were in a three-wheeler violating traffic rules. The Colombo South Criminal Investigation Division was involved in the incident. Two injured were admitted to Horana Hospital.
-
-🟩
-
-The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
-
-According to the information provided by the police to the police, the Colombo South Criminal Investigation Division (Southern Crime Investigation), who had arrived there for investigations, had been traveling in violation of the three -wheeler orders.
-
-Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
-
-Two persons who were injured in the shooting were admitted to the Horana Hospital, police said.
-
-◼️
-
-[Data](articles/4d3dedb5.json)
-
-[Extended Data](ext_articles/4d3dedb5.ext.json)
-
----
-
-### Two killed in police firing
-
-*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
-
-Two killed in police firing at Meegoda-Delkittiya junction. Colombo Southern Criminal Investigation Department tried to stop a three-wheeler, leading to a shooting near a tire factory on Moragahahena-Meepee Road. Two injured admitted to Horana Hospital.
-
-🟩
-
-The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
-
-According to the information provided by the police to the police, the Colombo Southern Criminal Investigation Department (Southern Crime Investigation), who had arrived there, had tried to stop the three -wheeler.
-
-Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
-
-Two people who were injured in the shooting were admitted to the Horana Hospital, police said.
-
-◼️
-
-[Data](articles/57aa6b96.json)
-
-[Extended Data](ext_articles/57aa6b96.ext.json)
-
----
-
-### Two killed in police gunmen
-
-*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோத்தில்-இருவர்-பலி/175-336238) · `ta`
-
-Two killed in police gunmen incident at Meegoda-Delkittiya junction. Colombo South Criminal Investigation Division shot at a three-wheeler violating traffic rules. Two injured admitted to Horana Hospital.
-
-🟩
-
-The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
-
-According to the information provided by the police to the police, the Colombo South Criminal Investigation Division (Southern Crime Investigation), who had arrived there for investigations, had been traveling in violation of the three -wheeler orders.
-
-Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
-
-Two persons who were injured in the shooting were admitted to the Horana Hospital, police said.
-
-◼️
-
-[Data](articles/5df8fbd4.json)
-
-[Extended Data](ext_articles/5df8fbd4.ext.json)
-
----
-
-### Attorneys on Maithri's decision
-
-*2024-04-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195893) · `si`
-
-Duminda Dissanayake, a Sri Lanka Freedom Party organizer, expresses gratitude for being expelled from the party, criticizing Maithripala Sirisena's decisions and accusing him of authoritarianism. He mentions an alleged favor asked by Sirisena and questions the legitimacy of his actions. The party alleges a deal between Sirisena and Wijayadasa, suggesting Sirisena's removal from the party chairmanship.
-
-🟩
-
-Sri Lanka Freedom Party organizer Duminda Dissanayake says that the party is thankful for the decision that he has been expelled from the party.
-
-All the decisions Maithripala Sirisena's decision have been imprisoned today because the authoritarian democratic, unbelievable, without faults of the dictatorship.. Nimal Siripala's appointment was incorrect. Without that, illegal is working. Maithripala Sirusena knows what he does. Talk to Dr. Chamila Liyanage. I was speaking and told Maithripala told Maithripala to do a little favor, Mr. Maithri didn't come to our cell phone. Mr. Maithri asked for the Minister of Justice to the Minister of Justice. "
-
-"Or not possible. Sri Lanka Freedom Party thinks the Sri Lanka Freedom Party. The Sri Lanka Freedom Party is the allegation from the SLFP to the government.. Now what is Mr. Wijayadasa hanging somewhere to be hanging the party tomorrow. "
-
-...
-
-[Data](articles/71e870e3.json)
-
-[Extended Data](ext_articles/71e870e3.ext.json)
-
----
-
-### The General Manager of Railways passes away
-
-*2024-04-23 13:33:52* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සාමාන්‍යාධිකාරී-හදිසියේ-අභාවප්‍රාප්ත-වෙයි/11-409218) · `si`
-
-Mr. Bandara, the General Manager of Railways, passed away suddenly. He joined the Railways Department in 1996 as an Assistant District Engineer and was appointed General Manager in November 2023.
-
-🟩
-
-Current Railway General Manager KW. Mr. Bandara has been delegated this morning due to a sudden illness. A professional engineer has been admitted to the Anuradhapura Teaching Hospital due to illness.
-
-He becomes an engineer by profession. In 1996, he joined the Railways Department as a Assistant District Engineer in 1996, he was appointed General Manager in November 2023.
-
-◼️
-
-[Data](articles/cfa0c332.json)
-
-[Extended Data](ext_articles/cfa0c332.ext.json)
-
----
-
-### Diminishing inflation
-
-*2024-04-23 13:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-குறைந்து/175-336237) · `ta`
-
-Sri Lanka's inflation fell to 2.5% in March from 5.1% in February, with food inflation unchanged at 5.0% and non-food inflation dropping to 0.7%.
-
-🟩
-
-According to the National Consumer Price Index, the Census and Statistics Department announced that inflation in Sri Lanka has fallen to 2.5 percent in March.
-
-Inflation was 5.1 per cent in February, according to the National Consumer Price Index and inflation fell to 2.6 per cent in March.
-
-Although the inflation of the food varieties from 5.0 percent in February remained unchanged in March, the non -food inflation, which was 5.1 percent in February, the department further stated that it has fallen to 0.7 percent by March.
-
-◼️
-
-[Data](articles/e1039d75.json)
-
-[Extended Data](ext_articles/e1039d75.ext.json)
-
----
-
-### Uma Oya project which is vested in the public tomorrow
-
-*2024-04-23 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195892) · `si`
-
-The Uma Oya Multipurpose Development Project, launched in 2011 with Iranian aid, is set to be introduced to the public tomorrow. It's a 24 km project in the Uva Province, providing 120 MW power and drinking water to Bandarawela, Badulla, and Moneragala. Despite an agreement for $450 million from Iran, the Sri Lankan government completed the project, which was delayed due to economic and social issues. Iranian President EMBeam Razis will attend the official handover.
-
-🟩
-
-Iranian President EMBeim Risha is due to arrive in Sri Lanka tomorrow.
-
-That's the Uma Oya Multipurpose Development Project Officially to be introduced to the public.
-
-In 2011, the Uma Oya Multipurpose Development Project was launched in 2011 on the loan aid of Iranian Export Development Bank.
-
-The multi-high project that is centered in the Uva Province is 24 km long.
-
-The Draba road from the Pucelpola reservoir is taken to the Draba reservoir, which was then taken to the Purba power plant from a 15.5 km long road from the draba reservoir.
-
-The electrical capacity of 120 MW is 120 MW.
-
-It also provides drinking water to the Bandarawela, Badulla and Moneragala areas in Bandarawela, Badulla and Moneragala areas for agricultural needs areas.
-
-The total cost of the project is US $ 514 million and $ 450 million has been agreed to the Iranian government during the period.
-
-But the Iranian government was unable to give the government to the government of Sri Lanka.
-
-...
-
-[Data](articles/3d4e1a5b.json)
-
-[Extended Data](ext_articles/3d4e1a5b.ext.json)
 
 ---

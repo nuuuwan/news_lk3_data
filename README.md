@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 13:34:20**
+As of **2024-04-23 13:52:58**
 
 ## Newspaper Stats
 
-*Scraped **20,413** Articles*
+*Scraped **20,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,355
+tamilmirrorlk | 2,357
 adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,176
-adaderanasinhalalk | 3,308
+adaderanasinhalalk | 3,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,413 (100.0%) of 20,413 articles have been extended.
+20,413 (100.0%) of 20,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### பணவீக்கம் குறைந்து
+
+*2024-04-23 13:28:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணவீக்கம்-குறைந்து/175-336237) · `ta`
+
+தேசிய நுகர்வோர் விலைச் சுட்டெண்ணின் படி கடந்த மார்ச் மாதம் இலங்கையில் பணவீக்கம் 2.5 வீதமாக குறைந்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் அறிவித்துள்ளது.
+
+தேசிய நுகர்வோர் விலைச் சுட்டெண் படி, பெப்ரவரி மாதத்தில் பணவீக்கம் 5.1 சதவீதமாக இருந்ததுடன், அதன் படி மார்ச் மாதத்தில் பணவீக்கம் 2.6 சதவீதமாக குறைந்துள்ளது.
+
+பெப்ரவரியில் 5.0 வீதமாக இருந்த உணவு வகைகளின் பணவீக்கம் மார்ச் மாதத்தில் மாறாமல் இருந்த போதிலும், பெப்ரவரியில் 5.1 வீதமாக இருந்த உணவு அல்லாத வகையின் பணவீக்கம் மார்ச் மாதத்திற்குள் 0.7 வீதமாகக் குறைந்துள்ளதாக திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e1039d75.json)
+
+---
+
+### හෙට ජනතා අයිතියට පැවරෙන උමා ඔය ව්‍යාපෘතිය
+
+*2024-04-23 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195892) · `si`
+
+ඉරාන ජනාධිපති ඊබ්‍රයිම් රයිසි මහතා හෙට මෙරටට පැමිණීමට නියමිතව තිබේ.
+
+ඒ උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය නිල වශයෙන් ජනතා අයිතියට භාරදීමේ උත්සවයට සහභාගී වීම සඳහාය.
+
+ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණි.
+
+ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකෙරෙන එම බහුකාර්ය ව්‍යාපෘතිය කිලෝමීටර් 24ක දිගින් යුක්තය.
+
+පුහුල්පොල ජලාශයේ සිට භූගත නල මාර්ග ඔස්සේ කිලෝමීටර් 4ක දුරක් ඩයරබා ජලාශය වෙත ජලය රැගෙන යන අතර පසුව ඩයරබා ජලාශයේ සිට එම ජලය කිලෝමීටර් 15.5ක දිගකින් යුත් භූගත මාර්ගයක් හරහා පවර්හවුස් බලාගාරය වෙත රැගෙනු ලබයි.
+
+මෙරට ජාතික විදුලි පද්ධතියට එමගින් එක් කිරීමට නියමිත විදුලි ධාරිතාව මෙගාවොට් 120කි.
+
+එමෙන්ම එම ව්‍යාපෘතිය හරහා බණ්ඩාරවෙල, බදුල්ල සහ මොනරාගල යන ප්‍රදේශවලට අවශ්‍ය පානීය ජලය සහ බදුල්ල සහ මොණරාගල ප්‍රදේශවල කෘෂිකාර්මික අවශ්‍යතා සඳහා ජලය සැපයීම ද සිදුකෙරේ.
+
+එම ව්‍යාපෘතිය සඳහා වැයවූ සමස්ත මුදල ඩොලර් මිලියන 514ක් වන අතර ව්‍යාපෘතිය ආරම්භ කළ කාලසීමාව තුළදී ඉන් ඩොලර් මිලියන 450ක මුදලක් ඉරාන රජයෙන් මෙටට ලබාදීමට එකඟවී තිබුණි.
+
+...
+
+[Data](articles/3d4e1a5b.json)
+
+---
+
+### இஞ்சி 3,200 ரூபாய்
+
+*2024-04-23 13:16:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இஞ்சி-3-200-ரூபாய்/76-336236) · `ta`
+
+ஒரு கிலோ கிராம் இஞ்சி 3,000 ரூபாய்க்கும் 3,200 க்கும் விற்கப்படுகின்றது. இதனால், பல்பொருள் அங்காடிகளில் மட்டுமே இஞ்சி விற்கப்படுகிறது. எனினும், அங்கு இஞ்சியின் விலை காட்சிப்படுத்தப்படுவதில்லை என்றும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/0382321f.json)
+
+---
+
+### ශ්‍රීලන්කන් මිල දී ගන්න ආ ආයෝජකයෝ
+
+*2024-04-23 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195891) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සේවය මිලදී ගැනීම සඳහා කැඳවන ලද අභිලාෂයන් වෙත මෙරට ආයෝජකයින් තිදෙනෙකු ඇතුළු ආයෝජකයින් 6ක් කැමැත්ත පළකර ඇති බව රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යූහගත කිරීමේ ඒකකය විසින් ඊයේ (22) අනාවරණය කරනු ලැබීය.
+
+ඒ අතරට ලොව ප්‍රමුඛ පෙළේ අඩුමිල ගුවන් සමාගමක් වන එයාර් ඒෂියා සමාගම සහ මෙරට ක්‍රියාත්මක ෆිට්ස් ඒවියේෂන් ද ඇතුළත්ව ඇති බව වාර්තා වෙයි.
+
+මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය යටතේ ක්‍රියාත්මක රාජ්‍ය ව්‍යවසාය ප්‍රතිව්‍යූහගත කිරීමේ ඒකකය විසින්, මෙරට ජාතික ගුවන් සේවය වන ශ්‍රීලංකන් ගුවන් සේවය මිලදී ගැනීම සඳහා කැඳවන ලද අභිලාෂයන් වෙත කැමැත්ත පළ කර ඇති ආයෝජකයින් 6 දෙනෙකුගේ විස්තර ඊයේ දිනයේදී අනාවරණය කරනු ලැබීය.
+
+මෙලෙස ශ්‍රී ලංකන් ගුවන් සේවය මිල දී ගැනීම සඳහා කැමැත්ත පළ කර ඇති පාර්ශ්වයන් වන්නේ,
+
+එමෙන්ම FITS Aviation සමාගම ජාත්‍යන්තර ගමනාන්ත වෙත ගුවන් ගමන් වාර ක්‍රියාත්මක මෙරට පළමු පෞද්ගලික ගුවන් සේවය ද වෙයි.
+
+අඩු මිල ගුවන්සේවයක් ලෙස පවත්වාගෙන යන FITS ගුවන් සේවය මෙරට සිට මේ වන විට දකුණු ආසියාවේ සහ මැදපෙරදිග කලාපයේ ගමනාන්ත වෙත ගුවන් ගමන් ක්‍රියාත්මක කරනු ලබයි.
+
+...
+
+[Data](articles/eda90607.json)
+
+---
 
 ### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
 
@@ -2103,83 +2179,5 @@ As cyber threats escalate globally, the imperative to design, deploy, and utiliz
 [Data](articles/00e123a3.json)
 
 [Extended Data](ext_articles/00e123a3.ext.json)
-
----
-
-### LOLC Group contributes more than 30 percent to CSE turnover
-
-*2024-04-22 23:19:00* · [`islandlk`](http://island.lk/lolc-group-contributes-more-than-30-percent-to-cse-turnover/) · `en`
-
-The LOLC Group of companies contributed more than 30 percent to the CSE’s turnover yesterday and moved the stock market to positive territory. Mainly LOLC Finance, followed by Browns Investments, contributed to the market’s vibrancy, market analysts said.
-
-LOLC Finance’s shares became the most preferred stocks among local and foreign investors. The LOLC Finance share price appreciated by 12.5 percent or 80 cents. Its share price shot up to Rs 7.20 from Rs 6.40.
-
-The All Share Price Index went up by 75.2 points while S and P SL20 rose by 44.4 points. Turnover stood at Rs 1.3 billion with one crossing. The crossing was reported in Hemas Holdings, which crossed 250,000 shares, which were worth Rs 82.50 a share, to the tune of Rs 20.6 million.
-
-...
-
-[Data](articles/12a6e5ab.json)
-
-[Extended Data](ext_articles/12a6e5ab.ext.json)
-
----
-
-### Presidential Secretariat issues clarification on rice stocks released for school meals program
-
-*2024-04-22 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98784/presidential-secretariat-issues-clarification-on-rice-stocks-released-for-school-meals-program) · `en`
-
-The Veyangoda warehouse complex has only issued rice stocks deemed suitable for human consumption by the expert committee appointed by the Gampaha Divisional Health Services Director for distribution in the school meal program, says the Presidential Secretariat.
-
-The committee has provided relevant recommendations relying on analytical reports from the Government Analyst’s Department and the Medical Research Institute, it said issuing a statement.
-
-This comes after the Public Health Inspectors’ Union (PHIU) alleged, earlier today, that the stocks of rice stored in a government warehouse in the Veyangoda area, which was to be used in the meals program for schoolchildren, have been found to be substandard and have become unfit for consumption due to insect damage.
-
-It was reported that the rice stocks in question were set to be used in the school meals program implemented in collaboration with the World Food Programme (WFP), to provide free nutritious lunches for schoolchildren.
-
-...
-
-[Data](articles/edef48cc.json)
-
-[Extended Data](ext_articles/edef48cc.ext.json)
-
----
-
-### Amitabh Bachchan, who plays Aswathama
-
-*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181689) · `ta`
-
-Amitabh Bachchan stars as Aswathama in 'Kalki 2898 AD', a mythical film directed by Nag Ashwin, featuring Bollywood stars like Kamal Haasan and Deepika Padukone. The film, produced by Bachchan, is set in Nemavar, Madhya Pradesh.
-
-🟩
-
-The video and photo of the role of Aswathama, who plays the role of Bollywood Super Star Amithappachan 'Kalki 2898 AD'.
-
-Bollywood Super Star Star Amitabh Bachchan, 'Kamal Haasan', Rebel Star Prabhas, Bollywood actresses Deepika Padukone and Disha Patani are playing the lead role in the upcoming film 'Kalki 2898 AD' directed by Nag Ashwin.. Vaijayanthi Movies is produced by Bollywood Super Star Amitabh Bachchan as Ashwathama. The film, which is a mythical and science fictional story, is being released in the holy city of Nemavar, the holy city of Madhya Pradesh, Madhya Pradesh, North India.. The character of Aswatama, which is featured in the Mahabharata epic. Therefore, the film crew released the appearance of the character Aswatama at 'Narmada Gad' in the city of Nemavar, which is monuments.
-
-...
-
-[Data](articles/0ae9621b.json)
-
-[Extended Data](ext_articles/0ae9621b.ext.json)
-
----
-
-### Sonia Agarwal's 'Behind'
-
-*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181690) · `ta`
-
-"Sonia Agarwal stars in 'Behind,' a suspense thriller in Tamil and Malayalam, produced by Pawakutty Creations. The film explores a mother's struggle to protect her child from a dangerous force, with music by Sandeep Sankaradas and D. Murali Abadat. Release and success are anticipated."
-
-🟩
-
-Actress Sonia Agarwal, who plays the lead role in the Tamil film industry after the marriage breakdown, continues to play her art service in the Tamil film industry.. Will the film be released and make a breakthrough in his film industry ..?Has been expected.
-
-Sonia Agarwal, Ginu E.. Thomas, Minu Mole, Marina Michael, Noby Maros, Sinoj Varghese and many others have played. Sandeep Sankaradas and D. Murali Abadat, Arif Ansar and Sunny Madhavan have composed the film, which is being recorded by Sameer Mohammed.. The film is being produced in the suspense thriller Janer and produced by producer Shija Jinu on behalf of Pawakutty Creations.
-
-...
-
-[Data](articles/242327ef.json)
-
-[Extended Data](ext_articles/242327ef.ext.json)
 
 ---

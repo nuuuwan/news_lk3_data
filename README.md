@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 19:34:10**
+As of **2024-04-23 19:52:00**
 
 ## Newspaper Stats
 
-*Scraped **20,477** Articles*
+*Scraped **20,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
-economynextcom | 1,161
+economynextcom | 1,165
 adalk | 1,710
 tamilmirrorlk | 2,364
 adaderanalk | 2,443
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,477 (100.0%) of 20,477 articles have been extended.
+20,477 (100.0%) of 20,481 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,26 @@ Sun Hayan, Deputy Minister of the Communist Party of International Affairs and t
 [Data](articles/b499190b.json)
 
 [Extended Data](ext_articles/b499190b.ext.json)
+
+---
+
+### Iran President to open Sri Lanka $514mn irrigation, hydro power project
+
+*2024-04-23 18:07:00* · [`economynextcom`](https://economynext.com/iran-president-to-open-sri-lanka-514mn-irrigation-hydro-power-project-159760/) · `en`
+
+ECONOMYNEXT – Iran President Seyyed Ebrahim Raisi will inaugurate an irrigation and hydropower project that was designed and built by Iranian engineering firm and was also initially financed before international sanctions hit the project.
+
+The Uma Oya (River) project will irrigate 4,500 acres of new agricultural land, generate 290 Gigawatt hours of electricity and also provide drinking water, a government statement said.
+
+Sri Lanka had awarded an engineering, procurement, construction (EPC) to Iran’s FARAB engineering group to design and construct the 514 million dollar multipurpose project in 2010.
+
+The project was funded until 2013 with a million US dollar credit from the Export Development Bank of Iran but international sanctions prevented the country from continuing financing, a government statement said.
+
+The project continued with funding from Sri Lanka. Sri Lanka had since repaid 19.3 million dollars of the credit and 35.2 million remains outstanding.
+
+...
+
+[Data](articles/e3dd8400.json)
 
 ---
 
@@ -904,6 +924,26 @@ As a mark of respect, all the other swimmers cancelled the relay event and reach
 
 ---
 
+### Sri Lanka state oligopoly allowed to import some black gram
+
+*2024-04-23 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-oligopoly-allowed-to-import-some-black-gram-159757/) · `en`
+
+ECONOMYNEXT – Sri Lanka has allowed the import of some black gram, by three state agencies, according to a gazette notice issued under the hand of President Ranil Wickremesinghe.
+
+Import licenses will be given for 2,000 metric tonnes of the seed classified under HS Code 7312.31.22 and 29.
+
+Sri Lanka State Trading Corporation, National Food Promotion Board and Sri Lanka Hadabima Authority is to be given import licenses.
+
+Traders have resorted to smuggling some types of black gram (ulundu) mis classified as chick peas, to get over high taxes and import restrictions.
+
+Tamil legislators have also protested the import controls, which they go into several key ethnic foods they consume. (Colombo/Apr23/2024)
+
+◼️
+
+[Data](articles/ce343ee9.json)
+
+---
+
 ### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
 
 *2024-04-23 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98793/navy-impounds-kerala-cannabis-worth-over-rs-4mn-in-mannar) · `en`
@@ -1055,6 +1095,26 @@ In prisoners who are infected with the Magazine Prison, Colombo remanded and Wel
 [Data](articles/5e0e4c51.json)
 
 [Extended Data](ext_articles/5e0e4c51.ext.json)
+
+---
+
+### Sri Lanka Foreign Ministry consular division shifted to Battaramulla
+
+*2024-04-23 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-ministry-consular-division-shifted-to-battaramulla-159789/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Foreign Ministry said it consular division would be shifted to the Suhurupaya building in Subuthipura, Battaramulla from May 02, 2024.
+
+Document authentication services provided by the Consular Affairs Division in Colombo will be suspended on 29 and 30 April 2024 held transfer the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
+
+Urgent applications for authentication to the Consular Division in Colombo, or any Regional Consular Offices by 4.15 pm on 26 April 2024, the Foreign Ministry said.
+
+Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to accept applications.
+
+Authenticated documents will be delivered to the applicants only on Thursday, 02 May 2024.
+
+◼️
+
+[Data](articles/ea30192a.json)
 
 ---
 
@@ -2245,71 +2305,5 @@ The prices rose by 2.5 percent in March from a year earlier, softening from 5.1 
 [Data](articles/d79e0b15.json)
 
 [Extended Data](ext_articles/d79e0b15.ext.json)
-
----
-
-### Great gold looting - two arrested in financial institution
-
-*2024-04-23 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195883) · `si`
-
-Two suspects arrested for breaking into a financial institution in Kalawana. Arrested were a sales officer and a gold officer. The suspects are aged 26 to 33. The company's manager filed a complaint.
-
-🟩
-
-Two suspects have been arrested for breaking a private financial institution in Kalawana town.
-
-They were arrested yesterday (22) and the arrest was a sales officer and a gold officer in charge of the Range.
-
-The suspects are two and 33 people aged 26 to 33 years in Kalawana, police said.
-
-The acting manager of the company had commenced a complaint from the Kalawana Police Station, including Rs.
-
-◼️
-
-[Data](articles/7809f03e.json)
-
-[Extended Data](ext_articles/7809f03e.ext.json)
-
----
-
-### Two killed in police shooting at Moragahahena
-
-*2024-04-23 06:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-police-shooting-at-Moragahahena/108-281198) · `en`
-
-Kalutara, April 23 (Daily Mirror) - Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
-
-Police said that when the police signaled for the three-wheeler to stop near the Meegoda - Delketiya junction, the driver slowed down the vehicle and individuals inside opened fire at the police before fleeing towards Moragahahena.
-
-Accordingly, the Moragahahena Police were informed of the shooting incident and a team of officers from the Colombo South Crimes Division, who happened to be at Moragahahena Police Station for a separate inquiry, endeavored to intercept the fleeing three-wheeler.
-
-Despite repeated orders to stop, the three-wheeler persisted in its attempt to escape and proceeded towards Moragahahena.
-
-Police then opened fire at the three-wheeler near the Moragahahena tyre factory.
-
-They said another person who was inside the three-wheeler at the time of the shooting had fled.
-
-...
-
-[Data](articles/c35b2a3c.json)
-
-[Extended Data](ext_articles/c35b2a3c.ext.json)
-
----
-
-### Twi killed in police shooting at Moragahahena
-
-*2024-04-23 06:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twi-killed-in-police-shooting-at-Moragahahena/108-281198) · `en`
-
-Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
-
-Police said the shooting took place near the Moragahahena tyre factory.
-
-They said another person who was inside the three-wheeler at the time of the shooting had fled.na
-
-◼️
-
-[Data](articles/cb357762.json)
-
-[Extended Data](ext_articles/cb357762.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 00:18:36**
+As of **2024-04-24 00:34:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,510 (100.0%) of 20,513 articles have been extended.
+20,513 (100.0%) of 20,513 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -686,45 +686,69 @@ We have repeatedly told the President about the need for our district's housing 
 
 ---
 
-### நடிகை கீர்த்தனா மீண்டும் நடிக்கும் 'பேபி & பேபி'
+### Actress Kirtana will play again 'Baby & Baby'
 
 *2024-04-23 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181783) · `ta`
 
-'நாளைய தீர்ப்பு' என்ற படத்தின் மூலம் தமிழ் திரையுலகத்திற்கு நடிகையாக அறிமுகமான கீர்த்தனா சிறிய இடைவெளிக்குப் பிறகு மீண்டும் ' பேபி & பேபி' எனும் படத்தில் முக்கிய வேடத்தில் நடித்திருக்கிறார். இப்படத்தின் படப்பிடிப்பு இறுதி கட்டத்தை எட்டி இருப்பதாக படக்குழுவினர் உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+Actress Kirtana stars in 'Baby & Baby', her second lead role after 'Tomorrow Judgment'. The film, a comedy-family entertainer, is nearing completion. Kirtana, known for 'Anthiyachalam', plays a mother alongside Satyaraj. The film aims to entertain fans of all ages.
 
-அறிமுக இயக்குநர் பிரதாப் இயக்கத்தில் உருவாகி வரும் 'பேபி & பேபி' எனும் திரைப்படத்தில் சத்யராஜ், ஜெய், யோகி பாபு, கீர்த்தனா, பிரக்யா நாக்ரா, சாய் தன்யா, ஆனந்தராஜ், ஸ்ரீமன், மொட்டை ராஜேந்திரன், இளவரசு, சிங்கம் புலி, நிழல்கள் ரவி, ஆர் ஜே விக்னேஷ் காந்த், தங்கதுரை, ராமர் உள்ளிட்ட பலர் நடிக்கிறார்கள். டி. பி. சாரதி ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். நகைச்சுவை கலந்த ஃபேமிலி என்டர்டெய்னர் ஜேனரில் தயாராகும் இந்த திரைப்படத்தை ஜி பி எஸ் கிரியேசன்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ஜி. பி. செல்வகுமார் தயாரிக்கிறார்.  இந்த திரைப்படத்தை யுவராஜ் பிலிம்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் பி. யுவராஜ் வழங்குகிறார்.
+🟩
+
+Kirtana, who made his debut in Tamil film industry through the film 'Tomorrow Judgment', has once again played the lead role in 'Baby & Baby'. The film crew has excitedly expressed that the shooting of the film reached the final stage.
+
+Sathyaraj, Jai, Yogi Babu, Kirtana, Pragya Nagra, Sai Tanya, Anandaraj, Sreeman, Motta Rajendran, Prince, Lion Tiger, Shadows Ravi, RJ Vignesh Kant, ThangaduraiMany people including Rama. D. B.. The film is being recorded by the film. Iman has composed music. The film is being produced in the comedy -mixed family entertainer Janer.. B.. Produced by Selvakumar.The film was made on behalf of Yuvraj Films Film Company. Yuvraj offers.
+
+The first shooting of the film is completed and the second phase of the shooting is currently underway. The film's first look will be released once the shooting is over.
+
+The film crew is delighted that the film is being prepared as a family entertainer to celebrate all the fans from the age of six to 60.
 
 ...
 
 [Data](articles/1d38594a.json)
 
+[Extended Data](ext_articles/1d38594a.ext.json)
+
 ---
 
-### அமீரின் 'உயிர் தமிழுக்கு' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Aamirin's release date of 'Bi Tamil'
 
 *2024-04-23 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181780) · `ta`
 
-போதை பொருள் கடத்தல் வழக்கில் தொடர்புடையவர் என்ற குற்றச்சாட்டிற்கு ஆளாகி இருக்கும் இயக்குநரும், நடிகருமான அமீர் நடிப்பில் தயாராகி இருக்கும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+"Aamir's 'Bi Tamil' releases globally on May 10th, amidst his drug trafficking case. The film, produced by Moon Pictures, features a star-studded cast and is directed by Adam Bawa. Its release coincides with the Lok Sabha elections, potentially impacting its reception."
 
-தயாரிப்பாளரும், இயக்குநருமான ஆதம் பாவா இயக்கத்தில் உருவாகி இருக்கும் 'உயிர் தமிழுக்கு' எனும் திரைப்படத்தில் அமீர், சாந்தினி, ஆனந்தராஜ், இமான் அண்ணாச்சி, ராஜசிம்மன், சரவண சக்தி, மகாநதி சங்கர், சுப்ரமணியம் சிவா, ராஜ் கபூர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தேவராஜ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு வித்யாசாகர் இசையமைத்திருக்கிறார். பொலிட்டிக்கல் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை மூன் பிக்சர்ஸ் சார்பில் இயக்குனர் ஆதம் பாவா தயாரித்திருக்கிறார்.
+🟩
 
-இப்படத்தின் ஃபர்ஸ்ட் லுக், டீசர், சிங்கிள் ட்ராக், ட்ரெய்லர் ஆகியவை வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இந்த திரைப்படம் எதிர்வரும் மே மாதம் பத்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கிறது.
+The release date of the film 'Bi Tamil', which is being prepared by director and actor Aamir, who is accused of involvement in the drug trafficking case, has been officially announced.
+
+Aamir, Santini, Anandaraj, Iman Annachi, Rajasimman, Saravana Shakti, Mahanadi Shankar, Subramaniam Siva, Raj Kapoor, directed by the producer and director Adam Bawa.. Vidyasagar has composed the film, which has been recorded by Devaraj. The film is being produced by Moon Pictures on behalf of Moon Pictures.
+
+The film's first look, teaser, single track and trailer have been released. The film is expected to be released at the film House around the world on the 10th of May.
 
 ...
 
 [Data](articles/f10ca2bc.json)
 
+[Extended Data](ext_articles/f10ca2bc.ext.json)
+
 ---
 
-### மீண்டும் எழுச்சி பெறுவாரா 'மக்கள் நாயகன்' ராமராஜன்..?
+### Ramarajan .. 'People Man' ..?
 
 *2024-04-23 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181784) · `ta`
 
-'மக்கள் நாயகன்' ராமராஜனுக்கு தமிழகத்தின் தென் பகுதிகளில் இன்றைக்கும் இலட்சக்கணக்கான ரசிகர்கள் இருக்கிறார்கள். அவர் நடிப்பில் புதிய திரைப்படம் வராதா..? என பத்தாண்டுகளுக்கு மேல் தவம் கிடந்து காத்திருந்த ரசிகர்களுக்கு.. அவர் நடிப்பில் தயாராகி இருக்கும் 'சாமானியன்' எனும் திரைப்படம் வெளியாகும் திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது. இந்த அறிவிப்பு வெளியான நிலையிலேயே அவரது ரசிகர்கள் உற்சாகமடைந்திருக்கிறார்கள்.
+"Ramarajan, known as 'People Man,' has millions of fans in Tamil Nadu. His new movie 'Samaniyan,' directed by R. Ramarajan, Radha Ravi, and M, is set to release on May 23, 2023. The film, produced by V of Etchetra Entertainment, focuses on the lives of ordinary people. It's a collaboration with 'Musician' Ilayaraja."
+
+🟩
+
+'People Man' Ramarajan has millions of fans today in the southern parts of Tamil Nadu. Does he not come up with a new movie ..?For fans who have been waiting for more than a decade.. He has been officially announced on the date of the release of the movie 'Samaniyan'.. His fans are excited as the announcement was released.
+
+Director r. Ramarajan, Radha Ravi and M in the film 'Samaniyan' directed by Rakesh. S.. Bhaskar, Bose Venkat, K. S.. Ravikumar, Sharavana Subbaiah, Naksha Saran, Leo Sivakumar, Vinodhini, Deepa Shankar, Smriti Venkat, Abernathi, Aranthangi Nisha. C. The film, which has been recorded by Arulselvan, has composed the music of 'Music Gnani'.Actor and producer V, on behalf of Etchetra Entertainment film company, is ready to focus on the life of simple people.. The afternoon has produced.
 
 ...
 
 [Data](articles/f52bde65.json)
+
+[Extended Data](ext_articles/f52bde65.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 17:54:39**
+As of **2024-04-23 18:10:51**
 
 ## Newspaper Stats
 
-*Scraped **20,462** Articles*
+*Scraped **20,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,96 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
-adalk | 1,709
+adalk | 1,710
 tamilmirrorlk | 2,363
-adaderanalk | 2,442
+adaderanalk | 2,443
 virakesarilk | 3,068
-dailymirrorlk | 3,186
-adaderanasinhalalk | 3,316
+dailymirrorlk | 3,188
+adaderanasinhalalk | 3,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,461 (100.0%) of 20,462 articles have been extended.
+20,462 (100.0%) of 20,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### ශ්‍රී ලංකාවේ සිට ඉන්දියාව වෙත පිහිනමින් සිටි පුද්ගලයෙකු මරුට
+### ඉන්දියාවේ දැවැන්ත පාලමක් කඩාවැටෙයි
+
+*2024-04-23 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195899) · `si`
+
+විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ අධික සුළං තත්ත්වය සමග පාලමේ අඩි 100ක පමණ කොටසක් කඩා වැටී ඇති බවය.
+
+එම පාලම කඩාවැටීමට සුළු මොහොතකට පෙර එම ස්ථානයෙන් මංගල උත්සවයක පුද්ගලයින් 65 දෙනෙකු රැගත් බස් රථයක් ද ගමන්කර ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් එරට බලධාරීන් මේ වනවිට විමර්ශනයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/e3425409.json)
+
+---
+
+### CEB incurred annual loss of Rs. 9.8B due to Uma Oya plant’s delays - Minister
+
+*2024-04-23 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98797/ceb-incurred-annual-loss-of-rs-98b-due-to-uma-oya-plants-delays-minister) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera says the Ceylon Electricity Board (CEB) incurred a loss to the tune of Rs. 9.8 billion per annum as a result of the delays in the construction and commissioning of the Uma Oya hydropower plant.
+
+“The delays in the construction and commissioning of the hydropower plant due to various politically motivated protests is estimated to be a loss of Rs 9.8 Billion per annum to the CEB. The hydropower plant project was scheduled to be commissioned in December 2015,” the lawmaker said further in a post on X (formerly Twitter).
+
+Wijesekera’s remarks came after a meeting with the Managing Director, Chairman of the Board and the officials of the FARAB Group, an Iran-based contractor, as well as the Iranian Energy Ministry officials on Monday (22).
+
+...
+
+[Data](articles/5fe2762e.json)
+
+---
+
+### Man dies from Sri Lanka to India
 
 *2024-04-23 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195898) · `si`
 
-ශ්‍රී ලංකාවේ සිට ඉන්දියාවේ ධනුෂ්කෝඩි වෙත පිහිනමින් සිටි පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+A 78-year-old swimmer, Gopal Rao, died while swimming from Sri Lanka to India. The event was part of a group of 31 swimmers organized by Sri Lanka. Due to the incident, the swimming event was canceled, and the group returned to India.
 
-මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි වියේ පසුවූ ගෝපාල් රාඕ නැමති ඉන්දීය ජාතිකයෙකි.
+🟩
 
-31 දෙනෙකුගෙන් සමන්විත පිහිණුම් කණ්ඩායමක් අද අලුයම ශ්‍රී ලංකාවේ ඉන්දියාව වෙත සහාය පිහිණුම් ඉසව්වක් සංවිධානය කර ඇත.
+A person who was swimming to Dhanushkody, India, has died.
 
-එහිදී මෙම අවාසනාවන්ත සිදුවීම වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+The deceased has been identified as a 78-year-old Gopal Rao.
 
-තරගය අතරතුර ගෝපාල් රාඕ සංවිධායකයින් වෙත දැනුම්දී ඇත්තේ තමන්ට ශ්වසන අපහසුතාවයක් ඇති බවය.
+A group of 31 swimming was organized by Sri Lanka this morning.
 
-කෙසේ වෙතත් එහිදී අදාළ රෝගී තත්ත්වය උත්සන්න වීම හේතුවෙන් ඔහු අවාසනාවන්ත ලෙස මියගොස් ඇත.
+Foreign media reports that this unfortunate event has been reported.
 
-මෙම සිදුවීමත් සමග සංවිධායකයින් විසින් එම පිහිනීමේ ඉසව්ව අවලංගු කර නැවත ඉන්දීයාව වෙත ගොස් තිබේ.
+Gopal Rao has informed the organizers of the competition.
 
-ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙලෙස මියගොස් ඇති ගෝපාල් රාඕ නැමති පුද්ගලයා පළපුරුදු පිහිනුම් ක්‍රීඩකයෙකු බවය.
+However, he was unlucky due to the escalation of the disease.
+
+With this incident, the organizers canceled the swimming event and returned to the Indian.
+
+The Indian media further stated that the victim is Gopal Rao, who is dead, is an experienced swimmer.
 
 ◼️
 
 [Data](articles/ae003fe4.json)
+
+[Extended Data](ext_articles/ae003fe4.ext.json)
+
+---
+
+### Elephants in search of food...
+
+*2024-04-23 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Elephants-in-search-of-food/110-281091) · `en`
+
+Wild elephants crossing the road at Tissamaharama in search of food and water in the current dry weather. Some elephants were searching for food amidst the garbage dumped by the people. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/2d5c7761.json)
 
 ---
 
@@ -95,6 +145,50 @@ The order was issued after taking into consideration a request made by the Offic
 [Data](articles/2f281231.json)
 
 [Extended Data](ext_articles/2f281231.ext.json)
+
+---
+
+### මහවැලියට පසු දැවැන්තම වාරි ව්‍යාපෘතිය හෙට ජන අයිතියට
+
+*2024-04-23 16:58:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලියට-පසු-දැවැන්තම-වාරි-ව්‍යාපෘතිය-හෙට-ජන-අයිතියට/11-409224) · `si`
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය විවෘත කිරීමට ඉරාන ජනපති හෙට දිවයිනට
+
+ජාතික විදුලිබල පද්ධතියට ගිගා වොට් පැය 290 (290 GWh)ක විදුලි ධාරිතාවක්.
+
+නව කෘෂිකාර්මික ඉඩම් හෙක්ටයාර් 4500කට සහ පැරණි ඉඩම් හෙක්ටයාර් 1500කට වාරි ජලය.
+
+බදුල්ල, මොණරාගල සහ හම්බන්තොට ප්‍රදේශවල පානීය සහ කාර්මික ජල අවශ්‍යතා සැපිරේ.
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පත් කිරීමේ අවස්ථාවට එක්වීම සඳහා ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතා හෙට (24) දිවයිනට පැමිණීමට නියමිතය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ විශේෂ ආරාධනය පරිදි ඉරාන ජනාධිපතිවරයා මෙලෙස ශ්‍රී ලංකාවේ එක් දින නිල සංචාරයකට එක් වන අතර 2008 වසරේ අප්‍රේල් මාසයේ දී එවකට ඉරාන ජනාධිපති මොහොමඩ් අහමදිනෙජාඩ් මහතාගේ සංචාරයෙන් පසුව ඉරාන ජනාධිපතිවරයෙකු මෙරට සංචාරයක නිරත වන පළමු අවස්ථාව මෙය වීම විශේෂත්වයකි.
+
+ඉරාන ශ්‍රී ලංකා ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කෙරෙන අවබෝධතා ගිවිසුම් 05කට ද ඉරාන ජනාධිපතිවරයාගේ සංචාරයට සමගාමීව අත්සන් තැබීමට නියමිතය.
+
+...
+
+[Data](articles/d9c70e2b.json)
+
+---
+
+### Top Chinese delegation meets Anura Kumara
+
+*2024-04-23 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-Chinese-delegation-meets-Anura-Kumara/108-281212) · `en`
+
+Colombo, April 23 (Daily Mirror)-A top delegation of the Chinese Communist Party headed by Vice Minister of the International Department, Sun Haiyan met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP head office today.
+
+The delegation included head of the International Department of the Chinese Communist Party Liu Jianchao and Political Counsellor of the Chinese Embassy in Sri Lanka Chen Xiang Yuan.
+
+They discussed matters related to the current political situation in the country and upcoming elections.
+
+The NPP representatives briefed the delegation about the NPP's preparation for the election and the need to create political stability to rescue the country from the crisis situation.
+
+NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Prof. Anil Jayantha participated in the discussion.
+
+◼️
+
+[Data](articles/17e060fc.json)
 
 ---
 
@@ -2219,111 +2313,5 @@ The police further states that another person in the three-wheeler was fled by t
 [Data](articles/3659624e.json)
 
 [Extended Data](ext_articles/3659624e.ext.json)
-
----
-
-### Is the tallest man in Sri Lanka in seven feet and 2 inches tall Gunasingham?
-
-*2024-04-23 05:14:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx8q34zzvjgo) · `si`
-
-Gunasingham Kchendran, from Mullaitivu, claims to be 7 feet 2 inches tall, the tallest in Sri Lanka, and discusses facing challenges from a former LTTE member.
-
-🟩
-
-There is no containing none of this. Gunasingham Kchera, Mullaitivu, Kayurala, Mullaitivu, Mullaitivu, Mullaitivu, Mullaitivu.
-
-Gunasingham Kchendran, who lives in the Mullaitivu, Kayuralai village, is 7 feet 2 feet 2 feet.
-
-He told the BBC Sinhala service that he believes that Sri Lanka is the tallest person in Sri Lanka.
-
-He commented on the circumstances and responses that he faces and respond by a former LTTE member.
-
-◼️
-
-[Data](articles/4d58308d.json)
-
-[Extended Data](ext_articles/4d58308d.ext.json)
-
----
-
-### There is no need for an election order to make justice
-
-*2024-04-23 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181734) · `ta`
-
-"No election order needed for justice. Sri Lanka's Easter Sunday bombings, killing 300 and injuring hundreds, raised questions about global conflict and national security, leading to political changes and panic."
-
-🟩
-
-Five years have passed since the Easter Sunday bombing that killed about 300 people and injured hundreds of more people (April 21) last Sunday (April 21).. Suicide bombers chose Catholic and Christian churches on Sunday, Easter, the holy day of Christians for their attacks. At the time of the attacks, the servants were full of churches.
-
-Unexpectedly raised the question of whether Sri Lanka has become a platform of global conflicts and created a state of uncertainty that there will be many attacks.. The capital of Colombo has often been closed for two months. People lived with panic. The bombers also changed the course of national politics. The nationalist politicians promised to guarantee national security and the placement of ethnic and religious majority.
-
-◼️
-
-[Data](articles/8e3525e2.json)
-
-[Extended Data](ext_articles/8e3525e2.ext.json)
-
----
-
-### Why abandon the checks of Sri Lanka's post?
-
-*2024-04-23 04:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181733) · `ta`
-
-Abandon Sri Lanka's post checks to ensure recipient is ready to deposit. Checks are used globally, with different rules: in the US and UK, banks can cash them early; in India and Australia, they must wait until the check's date. These checks are legal and negotiable tools.
-
-🟩
-
-The check -up check is the regular check written on the future date. எதிர்கால திகதி வரும் வரை காசோலையை செலுத்த வேண்டாம் என்று காசோலை எழுத்தாளர் வங்கிக்கு அறிவுறுத்துகின்றார்.
-
-⦁ Purpose: People use them to ensure that the recipient is waiting to deposit the check. There are two reasons for this:
-
-⦁ In some countries such as the United States and Britain, banks can be implemented before the date of writing.
-
-⦁ In other countries such as India and Australia, the bank must wait till the date on the check.
-
-⦁ Legal: Post -date checks are usually considered legal and negotiated tools.
-
-◼️
-
-[Data](articles/cee643b7.json)
-
-[Extended Data](ext_articles/cee643b7.ext.json)
-
----
-
-### New battle
-
-*2024-04-23 04:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181732) · `ta`
-
-Israeli and Iranian forces clashed in Syria, with Iran claiming Israeli attacks resulted in the loss of seven Iranian military advisors. In response, Iran launched unmanned aircraft and missiles, which were reportedly intercepted by Israeli defenses.
-
-🟩
-
-Most researchers who are interested in international politics, have been involved in the long -awaited enemies in the Middle East this week, Israeli Iran's war environment.. Iranian leadership Tehran says that Israeli attacks in Syria's capital, Damascus, have lost seven military advisors, including top officials of Iranian forces.. In response, last Saturday, with the help of unmanned aircraft and the help of missiles, the attack took place last Saturday.. Although Israel has not released its losses, most deep aircraft and missiles have been shot down by barricades that are called ironing
-
-◼️
-
-[Data](articles/050164a0.json)
-
-[Extended Data](ext_articles/050164a0.ext.json)
-
----
-
-### Impersonators in Police attire loot Norochcholai home of Rs. 8Mn, 40 Gold sovereigns
-
-*2024-04-23 04:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Impersonators-in-Police-attire-loot-Norochcholai-home-of-Rs-8Mn-40-Gold-sovereigns/108-281196) · `en`
-
-In an alarming incident, a gang of three individuals disguised in authentic police attire perpetrated a robbery in Norochcholai, Kalpitiya yesterday, leaving residents shaken and authorities on high alert. According to police reports, the culprits made away with a staggering sum of Rs. 8 million in cash along with gold items weighing approximately 40 sovereigns.
-
-The unsuspecting victims recounted the harrowing experience, revealing that the perpetrators gained entry to their residence under the pretence of conducting a search for a purportedly valuable item known as Valampuri. Upon gaining access, the impostors purportedly bound the hands and legs of the primary occupant, instilling fear among other residents with threats of grave harm.
-
-As investigations into the incident unfold, law enforcement agencies are actively pursuing leads to apprehend the suspects and recover the stolen assets.
-
-◼️
-
-[Data](articles/add7c119.json)
-
-[Extended Data](ext_articles/add7c119.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 19:52:00**
+As of **2024-04-23 20:03:56**
 
 ## Newspaper Stats
 
-*Scraped **20,481** Articles*
+*Scraped **20,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 1,133
 economynextcom | 1,165
 adalk | 1,710
 tamilmirrorlk | 2,364
-adaderanalk | 2,443
+adaderanalk | 2,445
 virakesarilk | 3,072
-dailymirrorlk | 3,193
+dailymirrorlk | 3,195
 adaderanasinhalalk | 3,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,477 (100.0%) of 20,481 articles have been extended.
+20,481 (100.0%) of 20,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Sixteen dead, 28 missing after boat capsizes off Djibouti coast
+
+*2024-04-23 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Sixteen-dead-28-missing-after-boat-capsizes-off-Djibouti-coast/107-281217) · `en`
+
+NAIROBI, April 23 (Reuters) - Sixteen would-be migrants have died and another 28 are missing after a boat carrying 77 people capsized off the coast of Djibouti, the second such incident in two weeks, the United Nations migration agency said on Tuesday.
+
+The boat's occupants included children, the International Organization for Migration (IOM) said in a post on social media platform X.
+
+It said its Djiboutian office was helping with rescue efforts.
+
+Two weeks ago, at least 38 people, including children, died in another shipwreck off the Djibouti coast.
+
+◼️
+
+[Data](articles/c2c6bd76.json)
+
+---
+
+### Court bars CEB employees’ protest march
+
+*2024-04-23 19:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-bars-CEB-employees-protest-march/108-281216) · `en`
+
+Colombo, April 23 (Daily Mirror) -  The Colombo Chief Magistrate’s Court issued a restraining order preventing a planned protest march by the Ceylon Electricity Board (CEB) employees’ union tomorrow near the Polduwa Junction in the Welikada police area.
+
+This legal action follows a request by the Officer in Charge (OIC) of the Welikada Police, invoking the provisions of the Code of Criminal Procedure.
+
+Police confirmed the court's decision, stating that the order prohibits the union's secretary, Ranjan Jayalal, its members and any other participants from staging the protest march tomorrow (24).
+
+The court order also prohibits the demonstration from obstructing vehicular movements and pedestrian pathways.
+
+◼️
+
+[Data](articles/3b6c5137.json)
+
+---
+
+### UN rights chief ‘horrified’ by mass grave reports at Gaza hospitals
+
+*2024-04-23 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98798/un-rights-chief-horrified-by-mass-grave-reports-at-gaza-hospitals) · `en`
+
+U.N. rights chief Volker Turk said on Tuesday that he was “horrified” by the destruction of the Nasser and Al Shifa medical facilities in Gaza and reports of mass graves containing hundreds of bodies there, according to a spokesperson.
+
+Palestinian authorities reported finding scores of bodies in mass graves at Nasser hospital in Khan Younis this week after it was abandoned by Israeli troops. Bodies were also reported at the Al Shifa site following an Israeli special forces operation.
+
+“We feel the need to raise the alarm because clearly there have been multiple bodies discovered,” said Ravina Shamdasani, the spokesperson for the U.N. High Commissioner for Human Rights, adding Turk said he had been horrified by the reported mass grave discoveries and the hospitals’ destruction.
+
+“Some of them had their hands tied, which of course indicates serious violations of international human rights law and international humanitarian law, and these need to be subjected to further investigations.”
+
+...
+
+[Data](articles/c6c8e47e.json)
+
+---
 
 ### Narendra Modi accused of ‘anti-Muslim hate speech’
 
@@ -78,7 +132,7 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hatunnetti and Pro
 
 *2024-04-23 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Caution-level-temperature-rises/108-281214) · `en`
 
-Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning yesterday about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
+Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning today about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
 
 They said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution'.
 
@@ -133,6 +187,8 @@ The project continued with funding from Sri Lanka. Sri Lanka had since repaid 19
 ...
 
 [Data](articles/e3dd8400.json)
+
+[Extended Data](ext_articles/e3dd8400.ext.json)
 
 ---
 
@@ -942,6 +998,8 @@ Tamil legislators have also protested the import controls, which they go into se
 
 [Data](articles/ce343ee9.json)
 
+[Extended Data](ext_articles/ce343ee9.ext.json)
+
 ---
 
 ### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
@@ -1115,6 +1173,8 @@ Authenticated documents will be delivered to the applicants only on Thursday, 02
 ◼️
 
 [Data](articles/ea30192a.json)
+
+[Extended Data](ext_articles/ea30192a.ext.json)
 
 ---
 
@@ -2052,15 +2112,23 @@ Two helicopters were in danger during military training in Malaysia.
 
 *2024-04-23 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98789/ten-dead-as-two-helicopters-crash-during-military-rehearsal-in-malaysia-) · `en`
 
-Ten crew members have died after two navy helicopters collided in mid-air during a military rehearsal for a Royal Malaysian Navy parade.
+Two Malaysian navy helicopters collided in mid-air as they flew in formation during a rehearsal for a military parade, killing all 10 crew on board.
 
-One of the choppers clipped the rotor of the other before the two crashed into the ground, footage published on local media show.
+One of the aircraft clipped the rotor of the other before the two crashed into the ground, footage published on local media showed.
 
-The incident took place in the Malaysian town of Lumut, which is home to a navy base.
+The incident took place at 09:30 local time (02:30 BST) in the Malaysian town of Lumut, which is home to a Royal Malaysian Navy base.
 
-One of the helicopters is believed to have crashed onto a running track, while the other crashed into a swimming pool nearby.
+“All victims were confirmed dead on site and the remains were sent to the [Lumut] Military Hospital for identification,” said the Royal Malaysian Navy.
 
-◼️
+It added that it would form a committee to investigate the cause of the incident.
+
+One of the helicopters, a HOM M503-3 with seven people on board, is believed to have crashed onto a running track.
+
+The other, a Fennec M502-6 carrying the other three victims, crashed into a swimming pool nearby.
+
+The state’s fire and rescue department said it was alerted to the incident at 09:50 local time (01:50 GMT).
+
+...
 
 [Data](articles/f2437918.json)
 
@@ -2229,81 +2297,5 @@ Energy utilities were made to borrow from state banks to run off-budget subsidie
 [Data](articles/c07a279c.json)
 
 [Extended Data](ext_articles/c07a279c.ext.json)
-
----
-
-### Series of earthquakes rattle Taiwan, centred on east coast
-
-*2024-04-23 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98787/series-of-earthquakes-rattle-taiwan-centred-on-east-coast) · `en`
-
-More than 80 earthquakes, the strongest of 6.3 magnitude, struck Taiwan’s east coast starting Monday night and into the early hours of Tuesday and some caused shaking of buildings in the capital Taipei, the island’s weather administration said.
-
-The quakes were centred on the largely rural eastern county of Hualien, where on April 3 at least 14 people died after a 7.2 magnitude temblor. Taiwan has been jolted by hundreds of aftershocks since then.
-
-The fire department in Hualien said early on Tuesday that a hotel which had already been damaged on April 3 and was no longer in operation was now slightly leaning on its side.
-
-Taiwan lies near the junction of two tectonic plates and is prone to earthquakes.
-
-More than 100 people were killed in a quake in southern Taiwan in 2016, while a 7.3 magnitude quake killed more than 2,000 people in 1999.
-
-◼️
-
-[Data](articles/752e9c74.json)
-
-[Extended Data](ext_articles/752e9c74.ext.json)
-
----
-
-### Five government institutions to COPE
-
-*2024-04-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195884) · `si`
-
-COPE summons SriLankan Airlines, Sri Lanka Broadcasting Corporation, University Grants Commission, National Institute of Business Management, and Mahapola Management Fund. Parliamentary debate on Passover attack scheduled. Justice Ministry to submit new cabinet leaflets.
-
-🟩
-
-SriLankan Airlines, including SriLankan Airlines, will be summoned to the Committee on Public Enterprises (COPE).
-
-The Sri Lanka Broadcasting Corporation has been summoned before the COPE Committee tomorrow (24).
-
-The University Grants Commission, the National Institute of Business Management and the Mahapola Management Fund has been called on the COPE.
-
-The heads of SriLankan Airlines have been summoned before the COPE Committee on Friday.
-
-Meanwhile, the Parliament will meet tomorrow after the new year.
-
-The Parliamentary debate on the Passover attack is scheduled to be held tomorrow on tomorrow and Friday, the Department of Parliament.
-
-In addition, the Criminal Procedure Toping Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tomorrow
-
-Meanwhile, the cabinet is scheduled to meet tomorrow after New Year.
-
-It is reported that the Justice Ministry is due to submit two new cabinet leaflets for the Cabinet meeting headed by President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/991fc88b.json)
-
-[Extended Data](ext_articles/991fc88b.ext.json)
-
----
-
-### National consumer prices soften in March
-
-*2024-04-23 07:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-consumer-prices-soften-in-March/108-281191) · `en`
-
-Shoppers seen selecting clothes from a roadside stall in Pettah, days before the island nation celebrated the Sinhala and Tamil New Year and Eid-ul-Fitr, which fell on the same week this year
-
-The consumer prices measured by the broader National Consumer Price Index (NCPI) continued to soften in March, as the non-food prices cooled sharply while the food prices remained unchanged from a year ago.
-
-However, the prices measured on a monthly basis turned to negative, indicating that the prices of goods and services have in fact fallen from the February levels.
-
-The prices rose by 2.5 percent in March from a year earlier, softening from 5.1 percent through February, as the prices of non-food prices decelerated to just under 1.0 percent, from 5.1 percent through February, as the electricity prices were revised downwards.
-
-...
-
-[Data](articles/d79e0b15.json)
-
-[Extended Data](ext_articles/d79e0b15.ext.json)
 
 ---

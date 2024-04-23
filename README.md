@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 09:03:36**
+As of **2024-04-23 09:18:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,374 (100.0%) of 20,376 articles have been extended.
+20,376 (100.0%) of 20,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ More than 100 people were killed in a quake in southern Taiwan in 2016, while a 
 ◼️
 
 [Data](articles/752e9c74.json)
+
+[Extended Data](ext_articles/752e9c74.ext.json)
 
 ---
 
@@ -646,19 +648,25 @@ Criticism is also charged towards an after-event organised in line with the race
 
 ---
 
-### 5 அரச நிறுவனங்களுக்கு கோப் குழு அழைப்பு
+### COPE Group Call for 5 State Institutions
 
 *2024-04-23 01:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-அரச-நிறுவனங்களுக்கு-கோப்-குழு-அழைப்பு/175-336222) · `ta`
 
-ஸ்ரீ லங்கன் விமானச் சேவை நிறுவனம் உள்ளிட்ட 5 அரச நிறுவனங்களின் தலைவர்கள் இந்த வாரம் கோப் எனப்படும் அரச பொறுப்பு முயற்சிகள் பற்றிய குழுவுக்கு அழைக்கப்பட்டுள்ளனர்.
+COPE Group Call for 5 State Institutions: Leaders of Sri Lanka Service Company, University Grants Commission, Sri Lanka Broadcasting Corporation, National Business Management Institute, and Mahabola High Education Scholarship Fund summoned to COPE this week. President of Sri Lanka Airlines Institute called on 26th.
 
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழு, இலங்கை ஒலிபரப்புக் கூட்டுத்தாபனம், தேசிய வர்த்தக முகாமைத்துவ நிறுவனம் மற்றும் மஹாபொல உயர் கல்வி உதவித்தொகை நிதியம் ஆகிய நிறுவனங்களின் தலைவர்களே மேற்படி குழுவுக்கு அழைக்கப்பட்டுள்ளனர் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய. இலங்கை ஒலிபரப்புக் கூட்டுத்தாபனத்தின் தலைவர் நாளையும், பல்கலைக்கழக மானியங்கள் ஆணைக்குழு, தேசிய வர்த்தக முகாமைத்துவ நிறுவனம் மற்றும் மஹாபொல உயர் கல்வி உதவித்தொகை நிதியம் ஆகியவற்றின் தலைவர்கள் எதிர்வரும் 25 ஆம் திகதியும், ஸ்ரீ லங்கன் விமானச் சேவை நிறுவனத்தின் தலைவர் எதிர்வரும் 26ஆம் திகதியும் கோப் எனப்படும் என அரச பொறுப்பு முயற்சிகள் தொடர்பான குழுவுக்கு அழைக்கப்பட்டுள்ளனர் என பாராளுமன்ற தொடர்பாடல் திணைக்களம் குறிப்பிட்டுள்ளது.  (a)
+The leaders of 5 state agencies, including the Sri Lanka Service Company, have been summoned to the Committee of State Responsibility Tastes (COP) this week.
+
+The leaders of the University Grants Commission, the Sri Lanka Broadcasting Corporation, the National Business Management Institute and the Mahabola High Education Scholarship Fund have been summoned to the committee.
+
+It. Leaders of the President of the Sri Lanka Broadcasting Corporation, the University Grants Commission, the National Business Management Institute and the Mahabola Higher Education Fund have been invited to the State Responsibility Committee on the 25th of this month and the President of the Sri Lanka Airlines Institute will be called Cobb on the 26th of this month..(a)
 
 ◼️
 
 [Data](articles/4408dbf2.json)
+
+[Extended Data](ext_articles/4408dbf2.ext.json)
 
 ---
 

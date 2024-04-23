@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 13:03:33**
+As of **2024-04-23 13:18:20**
 
 ## Newspaper Stats
 
-*Scraped **20,412** Articles*
+*Scraped **20,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,702
 tamilmirrorlk | 2,355
 adaderanalk | 2,437
 virakesarilk | 3,057
-dailymirrorlk | 3,175
+dailymirrorlk | 3,176
 adaderanasinhalalk | 3,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,411 (100.0%) of 20,412 articles have been extended.
+20,412 (100.0%) of 20,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
+
+*2024-04-23 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-forms-committee-to-probe-Diyatalawa-Fox-Hill-Supercross-accident/108-281203) · `en`
+
+Colombo, April 23(Daily Mirror) - The Sri Lanka Army has decided to appoint a special investigation committee consisting of 07 senior officers chaired by a Major General to probe the accident that occurred during the Diyatalawa Fox Hill Supercross.
+
+Army Spokesman Major General Rasika Kumara said that this committee appointed by the Army Headquarters is tasked with reporting the incident to the Commander of the Army.
+
+The investigators will utilize existing videos and photographs related to the accident.
+
+The spokesman outlined several areas of inquiry for the committee, including determining the causes of the accident, identifying responsible parties, confirming the safety measures for spectators, assessing the track's quality assurance processes and recommending preventive measures for future accidents.
+
+The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercross track.
+
+...
+
+[Data](articles/54af8c57.json)
+
+---
 
 ### UK parliament approves Rwanda deportation bill, ending weeks of legislative stalemate
 
@@ -50,17 +70,23 @@ Earlier in the day, Sunak held a rare morning press conference to demand that th
 
 ---
 
-### பிரமிட்டில் ஈடுபட்ட நிறுவனங்களின் பெயர்கள் அறிவிப்பு
+### Names of companies involved in the pyramid notice
 
 *2024-04-23 12:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ஈடுபட்ட-நிறுவனங்களின்-பெயர்கள்-அறிவிப்பு/175-336232) · `ta`
 
-பெறப்பட்ட முறைப்பாடுகளின் அடிப்படையில், இலங்கை மத்திய வங்கி (CBSL) பிரமிட் நடவடிக்கைகளில் ஈடுபட்டதாக அடையாளம் காணப்பட்ட மேலும் எட்டு நிறுவனங்களின் பெயர்களை வெளியிட்டுள்ளது.
+The Central Bank of Sri Lanka (CBSL) has identified eight companies in pyramid schemes, investigating their involvement in banned projects under Article 30 of the Banking Act No. 30 of 1988.
 
-பின்வரும் நிறுவனங்கள் அல்லது விண்ணப்பங்கள் 1988 ஆம் ஆண்டின் வங்கிச் சட்ட எண் 30 பிரிவு 83C இன் அடிப்படையில் தடைசெய்யப்பட்ட திட்டங்களை ஈடுபட்டுள்ளனவா என்பதைக் கண்டறிய விசாரணைகள் முன்னெடுக்கப்படுகின்றன.
+🟩
+
+Based on the complaints received, the Central Bank of Sri Lanka (CBSL) has released the names of eight other companies identified as involved in pyramid activities.
+
+Investigations are being carried out to determine whether the following companies or applications are involved in banned projects based on Article 30 of the Banking Act No. 30 of 1988.
 
 ◼️
 
 [Data](articles/e50e34f9.json)
+
+[Extended Data](ext_articles/e50e34f9.ext.json)
 
 ---
 
@@ -2153,29 +2179,5 @@ Sonia Agarwal, Ginu E.. Thomas, Minu Mole, Marina Michael, Noby Maros, Sinoj Var
 [Data](articles/242327ef.json)
 
 [Extended Data](ext_articles/242327ef.ext.json)
-
----
-
-### Finder - Review
-
-*2024-04-22 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181687) · `ta`
-
-"Finder" is a socially responsible film about Peter, who, desperate for money, agrees to go to jail, only to be betrayed by a gang. His wife commits suicide, and his daughter is left traumatized. The film explores the truth behind Peter's imprisonment, with the help of a team that investigates innocent prisoners. Directed by Vinod Rajendran, it features a compelling narrative and performances by Charlie, Vinod Rajendran, Senrayan, and others.
-
-🟩
-
-Actors: Charlie, Vinod Rajendran, Senrayan, Shadows Ravi, Prana and many others.
-
-Peter suffers without even economic facilities for daily livelihood. If you go to jail, you will get millions of money if a gang who approaches his wife and daughter in a situation where he wants to feed him.. Your family's poverty will be eliminated. The period you are in prison is less. Makes various attractive promises to be on bail soon. Peter agrees to go to jail without any other way due to the environment. But after the Peter went to jail, the gang cheats Peter's wife and daughter without help. Thus the wife of Peter commits suicide. The daughter is stunned.At this moment, Peter's case goes on to the team that examines innocents who are jailed in prison through Finder.
-
-The group then examines the truth.What happens after that?Is Peter released from prison?Or not?That is the story of the film.
-
-Director Vinod Rajendran should be praised for giving them a different socially responsible story.
-
-...
-
-[Data](articles/49b3092c.json)
-
-[Extended Data](ext_articles/49b3092c.ext.json)
 
 ---

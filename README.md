@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 03:35:15**
+As of **2024-04-24 03:52:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,540 (100.0%) of 20,542 articles have been extended.
+20,542 (100.0%) of 20,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ What a turn of events in Myanmar–in  2021, the Generals seized power again fr
 
 [Data](articles/092aa58e.json)
 
+[Extended Data](ext_articles/092aa58e.ext.json)
+
 ---
 
 ### Those whom Gods wish to destroy, they first make mad - EDITORIAL
@@ -59,6 +61,8 @@ Today, our country is gripped in election fever. We are witnessing the applicabi
 ...
 
 [Data](articles/aedc977c.json)
+
+[Extended Data](ext_articles/aedc977c.ext.json)
 
 ---
 

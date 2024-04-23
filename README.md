@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 02:03:36**
+As of **2024-04-24 02:18:45**
 
 ## Newspaper Stats
 
-*Scraped **20,523** Articles*
+*Scraped **20,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,366
 adaderanalk | 2,447
-virakesarilk | 3,086
+virakesarilk | 3,087
 dailymirrorlk | 3,200
 adaderanasinhalalk | 3,324
 
@@ -26,67 +26,119 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,519 (100.0%) of 20,523 articles have been extended.
+20,523 (100.0%) of 20,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் : இன்று மீண்டும் கூடுகிறது சம்பள நிர்ணயசபை
+### இரு தரப்பு இணைந்து இணக்கப்பாடு எட்டப்படும் தினத்திலேயே விவாதம் - ஐக்கிய மக்கள் சக்தி
+
+*2024-04-24 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181805) · `ta`
+
+ஐக்கிய மக்கள் சக்தி மற்றும் தேசிய மக்கள் சக்திக்கு இடையிலான விவாதத்தை நடத்துவதற்கான தினத்தை இரு தரப்பும் இணைந்து முன்னெடுக்கும் பேச்சுவார்த்தையின் பின்னரே தீர்மானிக்க முடியும் என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+
+இந்த விவாதம் தொடர்பில் இருதரப்பும் கலந்துரையாட வேண்டியது அவசியமாகும் என்று தேசிய மக்கள் சக்தியினால் ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவுக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதம் தொடர்பில் வினவிய போதே அவர் இதனைத் தெரிவித்தார்.
+
+எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச மற்றும் தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்க ஆகியோருக்கிடையில் நடத்துவதற்கு திட்டமிட்டுள்ள விவாதத்துக்கான தினங்களைக் குறிப்பிட்டு தேசிய மக்கள் சக்தியினால் ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவுக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதத்தில் மே மாதம் 7, 9, 13 அல்லது 14ஆம் திகதிகள் பரிந்துரைக்கப்பட்டுள்ளன.
+
+இது தொடர்பில் வினவிய போதே நளின் பண்டார மேற்கண்டவாறு தெரிவித்தார். அவர் மேலும் குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/16241ea9.json)
+
+---
+
+### Plantation workers' salary issue
 
 *2024-04-24 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181804) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் தொடர்பான பேச்சுவார்த்தைகளை முன்னெடுப்பதற்கு சம்பள நிர்ணய சபை  புதன்கிழமை (24) மீண்டும் கூடவுள்ளது. தொழில் ஆணையாளர் நாயகம் எச்.கே.கே.ஏ.ஜயசுதந்தர தலைமையில் கூடவுள்ள சம்பள நிர்ணய சபையில் தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனம் மற்றும் அரச தரப்பினர் பங்கேற்கவுள்ளனர்.
+Plantation Workers' Salary Committee meets Wednesday to discuss salary issues. Trade Unions, Employers Federation, and State Division attend. Employers Federation postponed negotiations due to lack of social work, but is expected to participate today. The Salary Council was convened to decide on a 1700 rupee salary increase, with a referendum if not accepted. Negotiations postponed due to company representatives' absence. Workers expect a favorable solution with state support.
 
-கடந்த 10ஆம் திகதி பெருந்தோட்டத் தொழிலாளர்களின் சம்பளம் தொடர்பில் தீர்மானிப்பதற்காக சம்பள நிர்ணய சபை கூட்டப்பட்ட போதிலும், இறுதி நேரத்தில் முதலாளிமார் சம்மேளனம் சமூகமளிக்காமையினால் பேச்சுவார்த்தை ஒத்திவைக்கப்பட்டது. சம்பள நிர்ணய சபை கூடுவது குறித்து தமக்கு உரிய நேரத்தில் அறிவிக்கப்படவில்லை எனத் தெரிவித்து முதலாளிமார் சம்மேளனம் பேச்சுவார்த்தையில் பங்கேற்றிருக்கவில்லை.
+🟩
+
+Plantation Workers' Salary Committee will meet on Wednesday (24) to hold talks on salary issues. Trade Unions, Employers Federation and State Division will attend the salary council headed by the Commissioner General of Labor HKKA Jayasudhantha.
+
+Although the Salary Council has convened to decide on the salary of plantation workers on the 10th, the Employers Federation has been postponed negotiations due to the lack of social work.. The Employers Federation did not participate in the negotiations, saying they had not been informed in a timely manner about the salary council.
+
+In this case, the Employers Federation will be formally announced 14 days ago and will be held again today. The Salary Council had been convened to decide on the 1700 rupee salary increase by the unions and it was decided to hold a referendum if these demands were not accepted.
 
 ...
 
 [Data](articles/6d7903bb.json)
 
+[Extended Data](ext_articles/6d7903bb.ext.json)
+
 ---
 
-### பிரபல வர்த்தகரிடம் 100 மில்லியன் பேரம் பேசிய மைத்திரி; அமைச்சர் மஹிந்த அமரவீர பகிரங்க குற்றச்சாட்டு
+### Maithri who spoke 100 million bargains to a famous businessman;Minister Mahinda Amaraweera is a public charge
 
 *2024-04-24 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181803) · `ta`
 
-ஜனாதிபதி வேட்பாளராகக் களமிறங்கவுள்ளதாக அறிவிக்கப்பட்டுள்ள பிரபல வர்த்தகர் ஒருவரிடம், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திர கட்சியை ஏலம் விடுவதற்கு 100 மில்லியன் பேரம் பேசியுள்ளதாக அமைச்சர் மஹிந்த அமரவீர குற்றஞ்சுமத்தினார்.
+Minister Mahinda Amaraweera accuses a presidential candidate of bribery. Minister Nimal Siripala de Silva's appointment is uncontested. The Executive Committee's formation is illegal, and former President Sirisena's involvement is deemed insulting. Sirisena's security officers are accused of political activities, and he allegedly asked a businessman for 100 million rupees, which was rejected.
 
-செவ்வாய்கிழமை (23) விவசாய அமைச்சில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இவ்வாறு குற்றஞ்சுமத்திய அவர் மேலும் தெரிவிககையில்,
+🟩
 
-அமைச்சர் நிமல் சிறிபால டி சில்வாவே ஸ்ரீலங்கா சுதந்திர கட்சியின் சட்ட பூர்வமான பதில் தவிசாளராவார். அவருக்கான நியமனம் வழங்கப்பட்டு இரண்டு வாரங்கள் கடந்துள்ளன. அவரது நியமனத்துக்கு எதிராக எவ்வித ஆட்சேபனைகளும் வெளியிடப்படவில்லை. எந்த தரப்பும் நீதிமன்றத்துக்கும் செல்லவில்லை.
+Minister Mahinda Amaraweera has accused a famous businessman who has been announced as a presidential candidate.
 
-கடந்த ஞாயிற்றுக்கிழமை திடீரென நிறைவேற்றுக்குழு கூட்டப்பட்டது. எமக்கு அழைப்பு வரும் போது செல்லவதற்கான நேரம் கூட இல்லை. அத்தோடு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது. செயலாளருக்கும் அந்த தடையுத்தரவு பொறுந்தும் என்று தெளிவாக அறிவிக்கப்பட்டுள்ள நிலையில் நிறைவேற்றுக்குழுவை கூட்ட முடியாது.
+He further stated at a press conference held at the Ministry of Agriculture on Tuesday (23).
+
+Minister Nimal Siripala de Silvaway is the legal response of the Sri Lanka Freedom Party (SLFP). Two weeks have passed since his appointment. No objections have been issued against his appointment. No side went to court.
+
+Suddenly the Executive Committee convened last Sunday. We don't even have time to move when we call. In addition, an interim injunction has been issued to former President Maithripala Sirisena. The executive committee cannot be assembled as it has clearly declared that the Secretary is responsible for the ban.
+
+The Executive Committee is contrary to the law. Former President Maithripala Sirisena has no authority to participate in it. He has acted in a way that insults the court. In response, we will take legal action against the act of insulting the court.
 
 ...
 
 [Data](articles/429d89c8.json)
 
+[Extended Data](ext_articles/429d89c8.ext.json)
+
 ---
 
-### உயிர்த்த குண்டு தாக்குதல் சம்பவம் : சபை ஒத்திவைப்பு விவாதம் இன்று ஆரம்பம்
+### Resurrection Bomb attack: Council adjournment debate begins today
 
 *2024-04-24 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181802) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற அமர்வு இன்று இடம்பெறவுள்ளது.எதிர்க்கட்சியினால் கொண்டுவரப்படும் பிரேரணைக்கு அமைய உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான சபை ஒத்திவைப்பு விவாதம் மூன்று நாட்களுக்கு நடத்தப்படவுள்ளது.
+Parliamentary session today, led by Speaker Mahinda Yapa Abeywardena. Key debates include the Criminal Act (Amendment) Bill, adjournment of Opposition on Sunday attack, and regulations under the Motor Vehicle Act. Further debates on the Church's postponement and House adjournment on Sunday attack continue on Friday.
 
-இன்று புதன்கிழமை  காலை 9.30 மணி முதல் மு.ப 10.30 மணி வரையான காலப் பகுதியில் குற்றவியல் நடவடிக்கை முறைச் சட்டக்கோவை (திருத்தச்) சட்டமூலம் இரண்டாவது மதிப்பீடு,நஞ்சு வகைகள், அபின் மற்றும் அபாயகர ஔடதங்கள் பற்றிய கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி என்பன விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளன.
+🟩
 
-அதனை தொடர்ந்து  காலை 10.30 மணி முதல் மாலை  5.30 மணி வரை உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் எதிர்க்கட்சியினால் கொண்டுவரப்படும் சபை ஒத்திவைப்புப் பிரேரணை மீதான விவாதம் இடம்பெறவுள்ளது.
+The parliamentary session will be held today under the patronage of Speaker Mahinda Yapa Abeywardena.
 
-...
+During the period from 9.30 am to 10.30 am today, the Criminal Act (Amendment) Bill (Amendment) Bill will be taken up for debate, the order of poison, opin and hazardous regulations will be taken up for debate.
+
+This is followed by a debate on the adjournment of the Opposition in connection with the Sunday attack from 10.30 am to 5.30 pm.
+
+The two regulations issued under the Motor Vehicle Act and the Gazette No. 22338 \ 39 and 2352 \ 29 Gazette under the Motor Vehicle Act tomorrow, from 9.30 am to 10.30 am.The published regulation will be discussed.
+
+This is followed by the second day of debate on the postponement of the Church on the Sunday attack till 5.30 pm.
+
+On Friday (26), the third day of the postponement of the House adjournment debate on the Sunday attack will take place from 9.30 am to 5.30 pm.
+
+◼️
 
 [Data](articles/99291ba1.json)
 
+[Extended Data](ext_articles/99291ba1.ext.json)
+
 ---
 
-### உமா ஓயா திட்டத்தைத் திறந்துவைக்க இன்று இலங்கை வருகிறார் ஈரான் ஜனாதிபதி
+### Iran's President arrives in Sri Lanka today to open the Uma Oya project
 
 *2024-04-24 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181801) · `ta`
+
+Iran's President Ibrahim Raisi visits Sri Lanka to inaugurate the $529M Uma Oya project, a collaboration between Iran and Sri Lanka. The project, launched in 2011, aims to generate electricity from water collected in the Buhlpola reservoir. Despite global politics and sanctions, the project is progressing, with electricity production set to be integrated into Sri Lanka's national grid.
+
+🟩
 
 ...
 
 [Data](articles/10afd8f3.json)
+
+[Extended Data](ext_articles/10afd8f3.ext.json)
 
 ---
 
@@ -2247,33 +2299,5 @@ One kilogram of ginger is sold for 3,000 rupees and 3,200. Thus, ginger is only 
 [Data](articles/0382321f.json)
 
 [Extended Data](ext_articles/0382321f.ext.json)
-
----
-
-### Iranameme icilian: The President arrives in Sri Lanka in the middle of the Middle Eastern warmth?
-
-*2024-04-23 13:02:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz6epqde7o) · `si`
-
-It seems like you've provided a detailed account of various events and discussions related to Sri Lanka's foreign relations, particularly with Iran, and the Uma Oya Multipurpose Development Project. However, your message doesn't specify a clear question or task you need assistance with. Could you please clarify what specific information or help you're seeking? For example, are you looking for an analysis of the political implications of these events, advice on how to structure a report on this topic, or something else?
-
-🟩
-
-Iranameme icilian: The President arrives in Sri Lanka in the middle of the Middle Eastern warmth?
-
-The President of the Iranian Islamic Republic, the President of the Iranian Islamic Republic, is due to arrive on a Sri Lankan official visit to Sri Lanka (24th April 24).
-
-The Ministry of External Affairs stated that the Iranian president will arrive in the island due to the invitation of President Ranil Wickremesinghe.
-
-The Iranian president is to commence a three-day official visit to Pakistan.
-
-The Iranian president arrives on a Sri Lankan official visit to Sri Lanka as a group of American Morne Army members.
-
-The Sri Lanka External Affairs Ministry stated that the Iranian President Dr. Ibrahim Reli was on bilateral financial assistance, the Sri Lanka External Affairs Ministry stated that the Uma Oya Multipurpose Development Project built on bilateral financial assistance.
-
-...
-
-[Data](articles/aabf86f4.json)
-
-[Extended Data](ext_articles/aabf86f4.ext.json)
 
 ---

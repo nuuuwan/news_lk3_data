@@ -1,0 +1,28 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking-news/Voyager-1-sends-readable-data-again-from-deep-space/108-281218",
+  "time_ut": 1713882840.0,
+  "original_lang": "en",
+  "original_title": "Voyager-1 sends readable data again from deep space",
+  "original_body_lines": [
+    "(BBC) - The US space agency says its Voyager-1 probe is once again sending usable information back to Earth after months of spouting gibberish.",
+    "A computer fault stopped it returning readable data in November but engineers have now fixed this.",
+    "For the moment, Voyager is sending back only health data about its onboard systems, but further work should get the scientific instruments back online.",
+    "Voyager-1 is more than 24 billion km (15 billion miles) away, so distant, its radio messages take fully 22.5 hours to reach us.",
+    "\"Voyager-1 spacecraft is returning usable data about the health and status of its onboard engineering systems,\" Nasa said in a statement.",
+    "\"The next step is to enable the spacecraft to begin returning science data again.\"",
+    "Voyager-1 was launched from Earth in 1977 on a tour of the outer planets, but then just kept going.",
+    "It moved beyond the bubble of gas emitted by the Sun - a domain known as the heliosphere - in 2012, and is now embedded in interstellar space, which contains the gas, dust and magnetic fields from other stars.",
+    "A corrupted chip has been blamed for the ageing spacecraft's recent woes.",
+    "This prevented Voyager's computers from accessing a vital segment of software code used to package information for transmission to Earth.",
+    "For a period of time, engineers could get no sense whatsoever out of Voyager, even though they could tell the spacecraft was still receiving their commands and otherwise operating normally.",
+    "The issue was resolved by shifting the affected code to different locations in the memory of the probe's computers.",
+    "Voyager-1 departed Earth on 5 September 1977, a few days after its sister spacecraft, Voyager-2.",
+    "The pair's primary objective was to survey the planets Jupiter, Saturn, Uranus and Neptune - a task they completed in 1989.",
+    "They were then steered towards deep space, in the general direction of our galaxy's centre.",
+    "Their power comes from radioisotope thermoelectric generators (RTGs), which convert heat from decaying plutonium into electricity. The continual decay process means the generators produce slightly less power each year.",
+    "How much longer the Voyagers can continue is uncertain, but engineers have until now always come up with strategies to eke out a few extra years of operations.",
+    "Voyager-2 is a little behind its twin and moving slightly slower.",
+    "Even though both are travelling at over 15 km per second (9 miles/s), they would not approach another star for tens of thousands of years."
+  ]
+}

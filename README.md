@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 14:18:27**
+As of **2024-04-23 14:34:28**
 
 ## Newspaper Stats
 
-*Scraped **20,420** Articles*
+*Scraped **20,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,88 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
-adalk | 1,702
+adalk | 1,706
 tamilmirrorlk | 2,359
 adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,176
-adaderanasinhalalk | 3,311
+adaderanasinhalalk | 3,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,419 (100.0%) of 20,420 articles have been extended.
+20,420 (100.0%) of 20,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### பொலிஸாரின் துப்பாக்கி பிரயோகத்தில் இருவர் பலி
+### චමරි අංක එකට
+
+*2024-04-23 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195894) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ එක්දින පිතිකාරිනියන් ශ්‍රේණිගත කිරීම්වල පළමු ස්ථානයට පැමිණීමට ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තු සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/76c57ca6.json)
+
+---
+
+### මේ වසරේ මේ දක්වා වැලිකඩ රැඳවියන් 28ක් මිය ගිහින්
+
+*2024-04-23 14:08:11* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-වැලිකඩ-රැඳවියන්-28ක්-මිය-ගිහින්/11-409220) · `si`
+
+මේ වසරේ ජනවාරි  මස සිට මේ දක්වා  වැලිකඩ බන්ධනාගාරය තුළ විවිධ හේතූන් මත පුද්ගලයන් 28 කු මිය ගොස් ඇතැයි බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි. එලෙස මියගිය අය අතර කාන්තාවන් දෙදෙනෙකුද වන බව දැනගන්නට ඇත.
+
+ජනවාරි මස පුද්ගලයන් හය දෙනෙකුත්, පෙබරවාරි මස පුද්ගලයන් පස් දෙනෙකුත්, මාර්තු මස කාන්තාවක් ඇතුළු පුද්ගලයන් දස දෙනෙකුත් , මෙම මස ( අප්‍රේල්) මේ දක්වා කාන්තාවක් ඇතුළු පුද්ගලයන් හත් දෙනෙකුත් මිය ගොස් ඇතැයි වැඩිදුරටත් දැනගන්නට ඇත. පිරිමි පුද්ගලයකු සහ කාන්තාවක ගෙල වැලලාගෙන මියගොස් ඇත.
+
+මැගසින් බන්ධනාගාරය , කොළඹ රිමාන්ඩ් බන්ධනාගාරය හා වැලිකඩ බන්ධනාගාරය යන පරිශ්‍රවල රඳවා සිටින රැඳවියන් විවිධ රෝගාබාධ වලට ලක්ව මියගොස්  ඇති බව වැඩිදුර ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5e0e4c51.json)
+
+---
+
+### ජීවිත දෙකෙක් බේරූ දඹුල්ලේ මාධ්‍යවේදී කාචන
+
+*2024-04-23 13:53:25* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-දෙකෙක්-බේරූ-දඹුල්ලේ-මාධ්‍යවේදී-කාචන/11-409219) · `si`
+
+වෑ මැඩිල්ල ජලාශය හරහා වයඹ ප්‍රදේශයට ජලය රැගෙන යෑම සඳහා අභිනවයෙන් ඉදිකරන ලද කොන්ක්‍රීට් සහිත වේල්ලකින් දිය නෑම සඳහා ගොස්  දියේ ගසාගෙන යමින් සිටි  දියණියකගේ සහ පියකුගේ ජීවිතය බේරා ගැනීමට  මාධ්‍යවේදී කාංචන කුමාර ආරියදාස මහතාට පසුගියදා හැකි විය
+
+මෙසේ ජල පහරට ගසාගෙන යද්දී දිවි බේරා ගනු  ලැබුවේ ගලේවෙල වලස්වැව ප්‍රදේශයේ පදිංචි තොලඹුගොල්ල විද්‍යාලයේ හයවැනි වසරේ ඉගෙනුම ලබන හිරුශි  කෞවශල්‍යා දියණිය සහ ඇයගේ පියා වූ රසික ගයාන් යන දෙදෙනාය.
+
+කාංචන කුමාර ආරියදාස මහතා ඔහුගේ මිතුරන් තිදෙනෙකු සමග මෝටර් රථයෙන් ඇළ මාර්ගය මතින් ඇති මාර්ගයේ ගමන් කරමින් සිටියදී එකවරම මෙම දියණිය ජල පහරට ගසාගෙන යන අයුරු දැකීමත් සමග මෝටර් රථය නවතා  ඇඳගෙන සිටි ඇඳුම් පිටින්ම ඇල මාර්ගයට පැන  පිහිනා ගොස් එම දියණියගේ ජීවිතය බේරාගෙන ගොඩ ගන්නවත් සමඟ දියණියගේ කෑගැසිල්ලත් සමඟින් ඇයගේ ජීවිතය බේරා ගැනීමට ගිය පියාද ජලයේ ගසාගෙන යන බව දියණියගේ දැනුම් දීමත් සමඟ එම පියාගේ ද ජීවිතය බේරා ගැනීමට හැකි විය.
+
+◼️
+
+[Data](articles/b3024ea8.json)
+
+---
+
+### Two killed in police firing
 
 *2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
 
-மீகொட - தெல்கெட்டிய சந்தியில் இன்று(23) அதிகாலை பொலிஸ் வீதித்தடையொன்றில் முச்சக்கர வண்டியை சோதனையிடுவதற்காக நிறுத்த முயற்சித்த சந்தர்ப்பத்தில் அந்த முச்சக்கர வண்டியில் இருந்த நபர்கள் பொலிஸார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு மொரகஹஹேனைக்கு தப்பிச்சென்றதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Two killed in police firing at Meegoda-Delkittiya junction. Colombo Southern Criminal Investigation Department tried to stop a three-wheeler, leading to a shooting near a tire factory on Moragahahena-Meepee Road. Two injured admitted to Horana Hospital.
 
-இதனையடுத்து மொரகஹஹேனை பொலிஸாருக்கு வழங்கப்பட்ட தகவலுக்கமைய, விசாரணைகளுக்காக அங்கு வந்த கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகள் அந்த முச்சக்கர வண்டியை நிறுத்த முயற்சித்த சந்தர்ப்பத்திலும் முச்சக்கர வண்டி கட்டளையை மீறிப் பயணித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+🟩
 
-அதற்கமைய, மொரகஹஹேனை - மீப்பே வீதியிலுள்ள டயர் தொழிற்சாலையொன்றுக்கு அருகில் வைத்து கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகளால் குறித்த முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
 
-துப்பாக்கிப் பிரயோகத்தில் காயமடைந்த இருவர் ஹொரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+According to the information provided by the police to the police, the Colombo Southern Criminal Investigation Department (Southern Crime Investigation), who had arrived there, had tried to stop the three -wheeler.
+
+Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
+
+Two people who were injured in the shooting were admitted to the Horana Hospital, police said.
 
 ◼️
 
 [Data](articles/57aa6b96.json)
+
+[Extended Data](ext_articles/57aa6b96.ext.json)
 
 ---
 
@@ -93,6 +143,20 @@ All the decisions Maithripala Sirisena's decision have been imprisoned today bec
 [Data](articles/71e870e3.json)
 
 [Extended Data](ext_articles/71e870e3.ext.json)
+
+---
+
+### දුම්රිය සාමාන්‍යාධිකාරී හදිසියේ අභාවප්‍රාප්ත වෙයි
+
+*2024-04-23 13:33:52* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-සාමාන්‍යාධිකාරී-හදිසියේ-අභාවප්‍රාප්ත-වෙයි/11-409218) · `si`
+
+වත්මන් දුම්රිය සාමාන්‍යාධිකාරී කේ.ඩබ්. බණ්ඩාර මහතා හදිසියේ ඇතිවූ රෝගී තත්ත්වයක් හේතුවෙන් අද පෙරවරුවේ අභාවප්‍රපාත්ත වී තිබේ. වෘත්තීමය ඉංජිනේරුවරයෙක් වන ඒ මහතා රෝගී තත්ත්වයක් හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඔහු වෘත්තියෙන් ඉංජිනේරුවරයෙක් වෙයි. 1996 වසරේදී සහකාර දිස්ත්‍රික් ඉංජිනේරුවරයෙක් ලෙස දුම්රිය දෙපාර්තමේන්තුවට එක්වූ ඒ මහතා විවිධ තනතුරු දරමින් 2023 වසරේ නොවැම්බර් මාසයේදී දුම්රිය සාමාන්‍යාධිකාරී ලෙස පත්විය.
+
+◼️
+
+[Data](articles/cfa0c332.json)
 
 ---
 
@@ -459,6 +523,22 @@ At the same time, more than 2,000 people were killed in the 7.3 magnitude earthq
 [Data](articles/0a94f57c.json)
 
 [Extended Data](ext_articles/0a94f57c.ext.json)
+
+---
+
+### හෙලිකොප්ටර් දෙකක් ගුවනේදී ගැටෙයි
+
+*2024-04-23 11:13:58* · [`adalk`](https://www.ada.lk/breaking_news/හෙලිකොප්ටර්-දෙකක්-ගුවනේදී-ගැටෙයි/11-409217) · `si`
+
+මැලේසියාවේ ලුමුට් නගරය ආසන්නයේ නාවික හමුදාවේ සැමරුම් උත්සවයක් සඳහා පෙරහුරුවීමක් අතරතුර හෙලිකොප්ටර්  දෙකක් එකිනෙක ගැටී අනතුරට පත්ව  10 දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එක් හෙලිකොප්ටරයක් ධාවන පථයකට කඩා වැටී ඇති අතර අනෙක ඒ අසල තිබූ පිහිනුම් තටාකයකට කඩා වැටී ඇති බව විදෙස් මාධ්‍ය වාර්තාකර තිබුණි.
+
+අනතුරට පත්වන අවස්ථාවේ හෙලිකොප්ටර් යානා දෙකෙහි කාර්යමණ්ඩල සාමාජිකයින් 10 දෙනෙකු පමණ සිට ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/144306c7.json)
 
 ---
 
@@ -2109,121 +2189,5 @@ He had been famous for what many described to be stunts or antiques, but he alwa
 [Data](articles/37c9b1a8.json)
 
 [Extended Data](ext_articles/37c9b1a8.ext.json)
-
----
-
-### President Muizzu’s alliance gets super majority in Maldivian Parliament
-
-*2024-04-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/President-Muizzus-alliance-gets-super-majority-in-Maldivian-Parliament/172-281176) · `en`
-
-Secures full power to make and implement decisions having clinched 70 out of 93 seats.
-
-Maldivian voters gave President Mohamed Muizzu’s alliance, principally comprising the Progressive Party of Maldives (PPM) and the People’s National Congress (PNC), a super majority in the Parliamentary elections held on April 21.
-
-As per the interim results, the PPM/PNC alliance secured 70 seats in the Majlis (as the Maldivian Parliament is called) comprising 93 seats.
-
-With three fourths of the entire Parliament in his hands, the President gets the power to amend the Constitution. He can also chalk out and implement policies without being hamstrung by a hostile Parliament.
-
-The other parties in the coalition such as the Maldives National Party (MNP) and Maldives Development Alliance (MDA) also won seats with the MNP winning one and the MDA winning two.
-
-...
-
-[Data](articles/ad40ac6e.json)
-
-[Extended Data](ext_articles/ad40ac6e.ext.json)
-
----
-
-### 2024-04-22 (Monday)
-
-### Rediscovering Lumbini: Birth place of Prince Siduhath
-
-*2024-04-22 23:46:00* · [`islandlk`](http://island.lk/rediscovering-lumbini-birth-place-of-prince-siduhath/) · `en`
-
-There is no doubt that this title itself will bring bemusement to the denizens of the land of Mahavamsa. An entire nation failing to recall such an important place may seem impossible, but up until the colonial occupiers started probing the past in the 19th century, the historical significance, or the geographical location of Lumbini had been completely erased from the collective memory of India and Nepal.
-
-...
-
-[Data](articles/20464f71.json)
-
-[Extended Data](ext_articles/20464f71.ext.json)
-
----
-
-### Taste the difference…
-
-*2024-04-22 23:39:00* · [`islandlk`](http://island.lk/taste-the-difference-2/) · `en`
-
-‘From the ’70s to the Generation New’, a musical event highlighting the music of the good ole days, and the present, will be held on 28th April, from 7.00 pm onwards, at Musaeus College Auditorium.
-
-The Gypsies and Rajiv & The Clan, will be in the spotlight, along with several other well-known artistes.
-
-Billed to appear, as guests artistes, are Sohan Weerasinghe, Ishaq Baig, Keerthi Pasqual and Falan Andrea.
-
-This event is in aid of charity and is presented by The Lions Club District 306 C2 and co-organized by District Governor and Cabinet Officers, Past District Governors Association, Lion Ladies Association, plus Leo District and key officers.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/3871d362.json)
-
-[Extended Data](ext_articles/3871d362.ext.json)
-
----
-
-### Sahal was the first player to take 200 wickets in IPL
-
-*2024-04-22 23:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181722) · `ta`
-
-Sahal, first to reach 200 wickets in IPL, broke Dwen Bravo's record in his 153rd match. He started with Mumbai Indians, then moved to Royal Challengers Bangalore, where he set a record for the most wickets. Currently with Rajasthan Royals, he's taken 13 wickets this year, with a best of 5 wickets for 40 runs.
-
-🟩
-
-Rajasthan Royals Royals Royals Royal Falls Yusvendra Sahal holds the record for the first player to take 200 wickets in the history of Indian Premier League Cricket.
-
-He achieved this milestone record at the Sawai Mansingh Stadium in Jaipur against the Mumbai Indians on Monday.
-
-In his bowling, Sahal took over 200 wickets in the IPL.
-
-Sahal, who broke Dwen Bravo's 183 wickets last year, set this rare record in his 153rd match.
-
-After breaking Bravo's record last year, Sahal said, "I have never thought of taking more wickets in the IPL."
-
-'I had 3 years with Mumbai Indians when I started playing on IPL. But my journey began in 2014. Medu, there were a lot of grooves. Likewise I enjoyed a lot. I learned a lot during my slopes. My downfalls and the support of my close associates have reached me to this level today. ”
-
-He was signed by Royal Challengers Bangalore next year. That's where his IPL cricket career began to shine.
-
-...
-
-[Data](articles/f795d3aa.json)
-
-[Extended Data](ext_articles/f795d3aa.ext.json)
-
----
-
-### The people of the area protest against the opening of liquor store in Jaffna
-
-*2024-04-22 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181721) · `ta`
-
-Residents of Jaffna's Neduntivu protested against a liquor store opening, fearing it would negatively impact young people. The protest, led by students and religious leaders, began at Nedundevu junction and concluded with a petition to the Divisional Secretary.
-
-🟩
-
-The people of the area staged a protest in protest of the opening of a liquor store in a hostel in Jaffna - Neduntivu.
-
-The demonstration was held on Monday (22) and a large number of public school students, including religious leaders, staged a slogan.
-
-The demonstration was carried out by the people of the area, considering that the young descendants could fail due to the bringing of a liquor store in the Neduntivu area.
-
-The demonstration was abandoned after the demonstration, which began from the Nedundevu junction, went to the procession and handed over a Mahajar to the Divisional Secretary of the Neduntivu Divisional Secretary.
-
-◼️
-
-[Data](articles/e85ba3af.json)
-
-[Extended Data](ext_articles/e85ba3af.ext.json)
 
 ---

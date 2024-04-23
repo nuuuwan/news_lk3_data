@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 10:51:33**
+As of **2024-04-23 11:03:25**
 
 ## Newspaper Stats
 
-*Scraped **20,385** Articles*
+*Scraped **20,387** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 180
-bbccomsinhala | 211
+bbccomsinhala | 212
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
-adalk | 1,700
+adalk | 1,701
 tamilmirrorlk | 2,348
 adaderanalk | 2,434
 virakesarilk | 3,051
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,306
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,385 (100.0%) of 20,385 articles have been extended.
+20,385 (100.0%) of 20,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -521,6 +521,24 @@ The police further states that another person in the three-wheeler was fled by t
 [Data](articles/3659624e.json)
 
 [Extended Data](ext_articles/3659624e.ext.json)
+
+---
+
+### අඩි 07යි අඟල් 02ක් උස ගුණසිංහම් ලංකාවේ උසම මිනිසා ද ?
+
+*2024-04-23 05:14:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx8q34zzvjgo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, මුලතිව්, කයිවේලි ගම්මානයේ ජීවත්වෙන ගුණසිංහම් කසේන්ද්‍රන්ගේ උස අඩි 07යි අඟල් 02කි.
+
+මුලතිව් දිස්ත්‍රික්කයට අයත් පුදුකුඩිඉරිප්පු, කයිවේලි ගම්මානයේ ජීවත්වෙන ගුණසිංහම් කසේන්ද්‍රන්ගේ උස අඩි 07යි අඟල් 02කි.
+
+ශ්‍රී ලංකාවේ උසම පුද්ගලයා තමන් බවට විශ්වාස කරන බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+
+හිටපු LTTE සාමාජිකයෙකු වූ ඔහු දෛනික කටයුතු සිදු කිරීමේ දී උස නිසා ඔහු මුහුණ දෙන තත්ත්වයන් සහ සමාජයෙන් ලැබෙන ප්‍රතිචාර ගැන ඔහු අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/4d58308d.json)
 
 ---
 
@@ -2068,6 +2086,24 @@ The government took measures to pay half of the salary paid to the retired peopl
 
 ---
 
+### පාර්ලිමේන්තුව හෙට සිට 26 දා තෙක් රැස්වෙයි
+
+*2024-04-22 19:16:09* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-හෙට-සිට-26-දා-තෙක්-රැස්වෙයි/11-409213) · `si`
+
+මෙම සතියේ පාර්ලිමේන්තුව හෙට (24දා) සිට ලබන 26 වැනිදා දක්වා පැවැත්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.
+
+ඒ අනුව මෙම දින තුනේදී විපක්ෂය ගෙනෙන යෝජනාවකට අනුව පාස්කු ඉරුදින ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් පැවැත්වීමට මෙහිදී තීරණය වූ බව පාර්ලිමේන්තුවේ වැඩබලන මහ ලේකම් චමින්ද කුලරත්න මහතා පැවසීය.
+
+හෙට(24දා) පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා අපරාධ නඩු විධාන සංග්‍රහය (සංශෝධන) පනත් කෙටුම්පත (දෙවන වර කියවීම) සහ විෂවර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතව ඇත.
+
+අනතුරුව පෙ.ව 10.30 සිට පෙ.ව 5.30 දක්වා විරුද්ධ පාර්ශ්වය විසින් ‍ගෙනෙනු ලබන යෝජනාවකට අනුව පාස්කු ඉරු දින සිදුවූ ප්‍රහාරය සම්බන්ධ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට ද මෙහිදී තීරණය වූ බව වැඩබලන මහලේකම්වරයා පැවසීය.
+
+...
+
+[Data](articles/cf644d0e.json)
+
+---
+
 ### Explanation for 9 suspects including Keheliya
 
 *2024-04-22 19:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-9-சந்தேகநபர்களுக்கும்-விளக்கமறியல்/175-336205) · `ta`
@@ -2113,49 +2149,5 @@ Israel responded by launching its most intense ever war in Gaza with the aims of
 [Data](articles/4c4c0f46.json)
 
 [Extended Data](ext_articles/4c4c0f46.ext.json)
-
----
-
-### Army's inquiry into Foxahill accident
-
-*2024-04-22 19:08:25* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-අනතුර-ගැන-යුද-හමුදාවෙන්-පරීක්ෂණයක්/11-409212) · `si`
-
-The Army is conducting an internal investigation into the Diyatalawa accident, following police inquiries. The Army's investigation aims to identify the cause and responsible parties.
-
-🟩
-
-The Army Media Spokesperson (Director General of Mass Media and Psychological Operations) stated that the Army will conduct an internal investigation into the accident held on Monday in Diyatalawa.
-
-Inquiring today, the police are conducting an investigation and the internal investigation was carried out on the instructions of the Army.
-
-He said that at the time of the army, the accident and the measures should be found on the occasion and the measures to be taken and responsible.
-
-◼️
-
-[Data](articles/16548c71.json)
-
-[Extended Data](ext_articles/16548c71.ext.json)
-
----
-
-### Nine suspects including Keheliya Rambukwella till the sixth day
-
-*2024-04-22 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/181710) · `ta`
-
-Nine suspects, including former health minister Keheliya Rambukwella, remanded until May 6th. Bail rejected. Order issued by Magistrate Losini Abeywickrama on Monday.
-
-🟩
-
-Nine suspects, including former health minister Keheliya Rambukwella, have been remanded until the sixth May.
-
-The order was issued on Monday (22) when the Magistrate Magistrate Losini Abeywickrama issued the order.
-
-It is noteworthy that the bail demand by the President's Attorney General on behalf of former Health Minister Keheliya Rambukwella was rejected.
-
-◼️
-
-[Data](articles/063a8be9.json)
-
-[Extended Data](ext_articles/063a8be9.ext.json)
 
 ---

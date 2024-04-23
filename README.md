@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 20:33:59**
+As of **2024-04-23 20:50:59**
 
 ## Newspaper Stats
 
-*Scraped **20,489** Articles*
+*Scraped **20,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,63 @@ tamilmirrorlk | 2,364
 adaderanalk | 2,445
 virakesarilk | 3,072
 dailymirrorlk | 3,197
-adaderanasinhalalk | 3,318
+adaderanasinhalalk | 3,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,486 (100.0%) of 20,489 articles have been extended.
+20,489 (100.0%) of 20,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### දණගස්වන කල්ලිය නිසා ප්‍රදේශ රැසක ජනතාව බියෙන්
+### විවාදයට සූදානම් - සජිත්
+
+*2024-04-23 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195901) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුරකුමාර දිසානායක මහතා සමග විවාදය සඳහා තම පාර්ශ්වය සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+සුහුරු පන්ති කාමර ලබාදීමේ වැඩසටහන යටතේ වීරකැටිය, ඕකන්දයාය විද්‍යාලයට සුහුරු පන්ති කාමරයක් ලබාදීමේ අවස්ථාවට එක්වෙමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව සඳහන් කළේය.
+
+සමගි ජන බලවේගයේ නායක සජිත් ප්‍රෙමදාස සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක යන මහත්වරුන් අතර පැවැත්වීමට යෝජිත විවාදය වෙනුවෙන් ජාතික ජන බලවේගය පාර්ශවයෙන් ලිපියක් යොමුකරමින් දින කිහිපයක් යෝජනා කර තිබුණි.
+
+ඒ අනුව අදාළ විවාදය සඳහා ලබන මැයි මාසයේ 07, 09, 13 හෝ 14 යන දිනවලින් එකක් යොදා ගැනීමට සූදානම් බව එම ලිපියේ සඳහන් කර තිබුණි.
+
+◼️
+
+[Data](articles/e20a093e.json)
+
+---
+
+### People in many areas due to the kneeling gang
 
 *2024-04-23 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195900) · `si`
 
-මහමග ගමන් කරන කතුන් ඇතුළු පුද්ගලයින්ට මන්නා පෙන්වමින් දණ ගස්වා කොල්ලකන කල්ලියක් හේතුවෙන් පානදුර,ගල්කිස්ස සහ නුගේගොඩ පොලිස් කොට්ඨාස තුළ භීතියක් නිර්මාණය වී තිබේ.
+A robbing gang has caused frustration in Mount Lavinia and Nugegoda, with 40 robberies reported in the past month. Complaints came from various areas, including Moragahahena, Kesbewa, Piliyandala, and Kaduwela. The gang abducts motorcycles, which are then used in other parts of the area. A video shows residents pursuing the gang, but suspects were arrested by Bandaragama and Keraventi police stations.
 
-අදාළ කොල්ල කල්ලිය ගතවූ මාසයක කාලය ඇතුළත කොල්ලකෑම් 40ක් පමණ සිදුකර ඇති බවට වාර්තාවෙයි.
+🟩
 
-මෙම කල්ලිය පිළිබඳව මොරගහහේන, කැස්බෑව, පිළියන්දල, බොරලැස්ගමුව, කහතුඩුව, කඩුවෙල, තෙබුවන ආදී ප්‍රදේශවලින් පොලීසියට පැමිණිලි ලැබී තිබේ.
+Around the manna, including the Mahamugama women, showed a frustration in Mount Lavinia and Nugegoda police divisions due to a robbing gang.
 
-ඔවුන් එලෙස යතුරුපැදියක් පැහැරගන්නා අවස්ථාවක CCTV  දර්ශනද අපවෙත ලැබී තිබේ.
+It is reported that about 40 robbers have carried out about 40 robbers during the past month.
 
-මෙලෙස පැහැරගන්නා යතුරුපැදිවලින් තවත් ප්‍රදේශවලට ගොස් කොල්ලකෑම්වල නිරතවී යතුරුපැදි අතරමග අත්හැර දමා යන බවද පැවසෙයි.
+Police have received complaints complained to the police from Moragahahena, Kesbewa, Piliyandala, Kesbewa, Piliyandala, Kawhatuduwa, Kahathuduwa, Kahathuduwa, Kahatduwa, Kaduwela and Tebuwana.
 
-එසේම එක් අවස්ථාවක කොල්ලකරුවන් රන් භාණ්ඩ කොල්ලකා පළායාමේදී ප්‍රදේශවාසීන් පිරිසක් ඔවුන් ලුහුබැඳ යන ආකාරය දැක්වෙන වීඩියෝවක් ද අපවෙත ලැබී ඇත.
+When they abduct a motorcycle, we have received us.
 
-මේ අතර බණ්ඩාරගම සහ මොරන්තුඩුව පොලිස් ස්ථාන මගින් සැකපිට කිහිපදෙනෙකුම අත්අඩංගුවට ගෙන තිබුණද කොල්ලකෑම් මේ වනවිටත් ක්‍රියාත්මක බව ප්‍රදේශවාසීන් පවසයි.
+It is also said that the abducted motorbikes go to other parts of the area and leave the robberies and leave the robbery.
+
+At one point, the robbers escape the robbery in the area and have also received a video showing how a group of residents pursuing them.
+
+Meanwhile, residents say that the suspects were arrested by Bandaragama and Keraventi police stations.
 
 ◼️
 
 [Data](articles/5e10a81c.json)
+
+[Extended Data](ext_articles/5e10a81c.ext.json)
 
 ---
 
@@ -77,6 +101,8 @@ Voyager-1 was launched from Earth in 1977 on a tour of the outer planets, but th
 ...
 
 [Data](articles/dca06e3f.json)
+
+[Extended Data](ext_articles/dca06e3f.ext.json)
 
 ---
 
@@ -217,6 +243,8 @@ This poses potential health risks, especially to vulnerable populations such as 
 ...
 
 [Data](articles/9fdf125d.json)
+
+[Extended Data](ext_articles/9fdf125d.ext.json)
 
 ---
 
@@ -2287,19 +2315,5 @@ In 1996, he joined Sri Lanka Railways as an Assistant District Engineer and has 
 [Data](articles/0131d927.json)
 
 [Extended Data](ext_articles/0131d927.ext.json)
-
----
-
-### Railways chief H.M.K.W. Bandara passes away
-
-*2024-04-23 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98788/railways-chief-hmkw-bandara-passes-away) · `en`
-
-General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morning due to a sudden illness.
-
-◼️
-
-[Data](articles/4cc50609.json)
-
-[Extended Data](ext_articles/4cc50609.ext.json)
 
 ---

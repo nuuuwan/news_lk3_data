@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 21:18:17**
+As of **2024-04-23 21:34:14**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,492 (100.0%) of 20,494 articles have been extended.
+20,494 (100.0%) of 20,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### අධ්‍යාපනය දේශපාලන පාපන්දුවක් බවට පත්කර නොගත යුතුයි - ජනපති
+### Education should not be made a political proclaimer - President
 
 *2024-04-23 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195903) · `si`
 
-අධ්‍යාපනය දේශපාලන පාපන්දුවක් බවට පත් කර ගතහොත් අවසානයේ පරාජයට පත් වන්නේ රට බවත්, එබැවින් පෞද්ගලික මත පසෙකලා සියලු දෙනා එක්ව සාකච්ඡා කර රටට ඔබින හොඳම අධ්‍යාපන ක්‍රමය මෙම වසර දෙක තුන තුළදී තීරණය කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe emphasizes the importance of education not being politicized, advocating for a collaborative approach to improve the education system. He highlights the need for technology in education, including online learning, and calls for a modern education system by 2030.
 
-ජනාධිපතිවරයා මෙම අදහස් පළකළේ අද (23) පස්වරුවේ කොළඹ නෙළුම් පොකුණ රඟහලේ පැවති සමස්ත ලංකා වෘත්තීය දේශකවරුන්ගේ සංගමයේ 10 වැනි දෙවාර්ෂික සම්මේලනය අමතමිනි.
+🟩
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ රජයේ නව අධ්‍යාපන ප්‍රතිසංස්කරණ සමබන්ධව කටයුතු කිරීම අධ්‍යාපන විශේෂඥයන්ට පමණක් සීමා නොකර පාසල් ගුරුවරුන්, ආර්ථික ක්ෂේත්‍රයේ කටයුතු කරන පිරිස් මෙන්ම සමස්ත ලංකා වෘත්තීය දේශකවරුන්ගේ සංගමය වැනි සංගම් ද ඊට සහභාගී කරවා ගන්නා බවය.
+President Ranil Wickremesinghe says that if education has been defeated by a political proclamation, so the best education system to be held together to discuss with privately, then President Ranil Wickremesinghe said.
+
+The President made these comments addressing the 10th Bank Segriors Association of All Ceylon Professional Lecturers Association held at the Nelum Pokuna Theater of Colombo this afternoon.
+
+Speaking further, President Ranil Wickremesinghe further stated that the school teachers and the All Ceylon Professional Lecturers Association will participate in the education experts.
 
 ...
 
 [Data](articles/42693731.json)
+
+[Extended Data](ext_articles/42693731.ext.json)
 
 ---
 
@@ -828,23 +834,31 @@ What's going on in the Middle East?The world is excited today to know the truth.
 
 ---
 
-### பந்தய காருக்கு பலியான சிறுமி
+### Rabbit girl
 
 *2024-04-23 15:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தய-காருக்கு-பலியான-சிறுமி/175-336245) · `ta`
 
-எனது சிறிய சகோதரியின் வேண்டுகோளுக்கு இணங்க, எனது மாமாவும் எங்கள் தோட்டத்தைச் சேர்ந்த 27 பேரும் பஸ் பிடித்து தியத்தலாவில் கார் பந்தயம் பார்க்கச் சென்றனர்.
+A tragic car accident at "Foxhill Super Cross Race" resulted in seven deaths and 21 injuries, including a 7-year-old girl. Relatives from Diyarabawatte gathered to mourn and plan commemorations for the victims, including a 7-year-old girl and her grandfather.
 
-கார் பந்தயத்தைப் பார்ப்பதில் மிகுந்த விருப்பமுள்ள எங்கள் சிறிய சகோதரி, கார் பந்தயத்தின் போது எங்கள் மாமாவுடன் எங்களை விட்டுச் சென்றுவிட்டார் என உறவினர் சிவராஜ் கௌசல்யா (வயது 39) கூறினார்.
+🟩
 
-தியத்தலாவ நரியகந்தவில் இடம்பெற்ற “Foxhill Super Cross Race” கார் விபத்தில் ஏழு பேர பலியாகினர். 21 பேர் காயமடைந்தனர். அதில், ஏழுவயதான சிறுமியும் அடங்குவார்.
+At the request of my little sister, my uncle and 27 people from our estate caught the bus and went to the car racing in Diyathala.
 
-சிவராஜ் கௌசல்யாவின் தாயாரின் சகோதரர் முத்துலிங்கம் உதயகுமார் மற்றும் முத்துலிங்கத்தின் மூத்த மகளின் மூன்றாவது குழந்தையான ஏழு வயது சிவகுமார் தினுஷிகா ஆகியோர் விபத்தில் உயிரிழந்துள்ளனர்.
+Relative Shivraj Kausalya (age 39) said that our little sister, who is very interested in watching the car racing, left us with our uncle during the car race.
 
-டயரபாவத்தையைச் சேர்ந்த உறவினர்கள் நண்பர்கள் அனைவரும் திங்கட்கிழமை (22) தினுஷிகாவின் வீட்டில் ஒன்று கூடி தினுஷிகா மற்றும் தாத்தாவை இழந்த துயரத்தை வெளிப்படுத்தியும், தினுஷிகாவின் நினைவு தின நிகழ்வுகள் குறித்து பேசிக்கொண்டிருப்பதையும் காணமுடிந்தது.
+Seven people were killed in a car accident at "Foxhill Super Cross Race". 21 people were injured. It includes a seven -year -old girl.
+
+Sivaraj Kausalya's mother's brother Muthulingam Udayakumar and seven -year -old Sivakumar Dinushika, the third child of Muthulingam's eldest daughter, died in the accident.
+
+All the relatives from Diyarabawatte gathered together on Monday (22) at the house of Dinushika and expressed the tragedy of the loss of Dinushika and grandfather and were talking about Dinushika's commemoration events.
+
+Even when we went there, Dinushika's father went to Diyatha La and went to bring the bodies of Dinushika and her grandfather. However, the body of Dinushika was not available.
 
 ...
 
 [Data](articles/014f8099.json)
+
+[Extended Data](ext_articles/014f8099.ext.json)
 
 ---
 

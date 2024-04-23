@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 15:19:04**
+As of **2024-04-23 15:34:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,433 (100.0%) of 20,437 articles have been extended.
+20,437 (100.0%) of 20,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The knock saw Athapaththu achieve her highest-ever rating (773) in the women’s
 ...
 
 [Data](articles/7f865cac.json)
+
+[Extended Data](ext_articles/7f865cac.ext.json)
 
 ---
 
@@ -116,6 +118,8 @@ Another former number one batter also rose after the series, Athapaththu’s cou
 
 [Data](articles/6ce9f92a.json)
 
+[Extended Data](ext_articles/6ce9f92a.ext.json)
+
 ---
 
 ### Showers of about 50 mm on the cards across Sri Lanka
@@ -133,6 +137,8 @@ Misty conditions are also anticipated in certain locations of the Sabaragamuwa, 
 ◼️
 
 [Data](articles/25ef5527.json)
+
+[Extended Data](ext_articles/25ef5527.ext.json)
 
 ---
 
@@ -256,21 +262,27 @@ The British International Military Studies Center said that there are 523,000 so
 
 ---
 
-### துப்பாக்கி பிரயோகத்தில் இருவர் பலி
+### Two killed in firing
 
 *2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
 
-மீகொட - தெல்கெட்டிய சந்தியில் இன்று(23) அதிகாலை பொலிஸ் வீதித்தடையொன்றில் முச்சக்கர வண்டியை சோதனையிடுவதற்காக நிறுத்த முயற்சித்த சந்தர்ப்பத்தில் அந்த முச்சக்கர வண்டியில் இருந்த நபர்கள் பொலிஸார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு மொரகஹஹேனைக்கு தப்பிச்சென்றதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Two killed in a shooting incident at the Meegoda-Delkittiya junction this morning. The victims were in a three-wheeler violating traffic rules. The Colombo South Criminal Investigation Division was involved in the incident. Two injured were admitted to Horana Hospital.
 
-இதனையடுத்து மொரகஹஹேனை பொலிஸாருக்கு வழங்கப்பட்ட தகவலுக்கமைய, விசாரணைகளுக்காக அங்கு வந்த கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகள் அந்த முச்சக்கர வண்டியை நிறுத்த முயற்சித்த சந்தர்ப்பத்திலும் முச்சக்கர வண்டி கட்டளையை மீறிப் பயணித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+🟩
 
-அதற்கமைய, மொரகஹஹேனை - மீப்பே வீதியிலுள்ள டயர் தொழிற்சாலையொன்றுக்கு அருகில் வைத்து கொழும்பு தெற்கு குற்ற விசாரணைப்பிரிவு அதிகாரிகளால் குறித்த முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
 
-துப்பாக்கிப் பிரயோகத்தில் காயமடைந்த இருவர் ஹொரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+According to the information provided by the police to the police, the Colombo South Criminal Investigation Division (Southern Crime Investigation), who had arrived there for investigations, had been traveling in violation of the three -wheeler orders.
+
+Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
+
+Two persons who were injured in the shooting were admitted to the Horana Hospital, police said.
 
 ◼️
 
 [Data](articles/4d3dedb5.json)
+
+[Extended Data](ext_articles/4d3dedb5.ext.json)
 
 ---
 

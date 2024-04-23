@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 09:18:48**
+As of **2024-04-23 09:34:01**
 
 ## Newspaper Stats
 
-*Scraped **20,376** Articles*
+*Scraped **20,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
-adalk | 1,699
+adalk | 1,700
 tamilmirrorlk | 2,348
 adaderanalk | 2,431
 virakesarilk | 3,051
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,376 (100.0%) of 20,376 articles have been extended.
+20,376 (100.0%) of 20,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,13 +136,19 @@ The acting manager of the company had commenced a complaint from the Kalawana Po
 
 *2024-04-23 06:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-police-shooting-at-Moragahahena/108-281198) · `en`
 
-Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
+Kalutara, April 23 (Daily Mirror) - Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
 
-Police said the shooting took place near the Moragahahena tyre factory.
+Police said that when the police signaled for the three-wheeler to stop near the Meegoda - Delketiya junction, the driver slowed down the vehicle and individuals inside opened fire at the police before fleeing towards Moragahahena.
+
+Accordingly, the Moragahahena Police were informed of the shooting incident and a team of officers from the Colombo South Crimes Division, who happened to be at Moragahahena Police Station for a separate inquiry, endeavored to intercept the fleeing three-wheeler.
+
+Despite repeated orders to stop, the three-wheeler persisted in its attempt to escape and proceeded towards Moragahahena.
+
+Police then opened fire at the three-wheeler near the Moragahahena tyre factory.
 
 They said another person who was inside the three-wheeler at the time of the shooting had fled.
 
-◼️
+...
 
 [Data](articles/c35b2a3c.json)
 
@@ -1942,6 +1948,22 @@ Israel responded by launching its most intense ever war in Gaza with the aims of
 
 ---
 
+### ෆොක්ස්හිල් අනතුර ගැන යුද හමුදාවෙන් පරීක්ෂණයක්
+
+*2024-04-22 19:08:25* · [`adalk`](https://www.ada.lk/breaking_news/ෆොක්ස්හිල්-අනතුර-ගැන-යුද-හමුදාවෙන්-පරීක්ෂණයක්/11-409212) · `si`
+
+දියතලාව Fox Hill සුපර්ක්‍රොස් තරගාවලිය අතරතුර  පෙරේදා (21දා) සිදු වූ අනතුර සම්බන්ධයෙන්  යුද හමුදාව විසින් අභ්‍යන්තර පරීක්ෂණයක් සිදුකරන බව  යුදහමුදා මාධ්‍ය ප්‍රකාශක (අධ්‍යක්‍ෂ ජෙනරාල් ජනමාධ්‍ය හා මනෝ විද්‍යාත්මක මෙහෙයුම්) මේජර් ජෙනරල් රසික කුමාර  මහතා සඳහන් කළේය.
+
+පොලීසිය විසින්ද පරීක්ෂණයක් සිදුකරන බවත්, අභ්‍යන්තර පරීක්ෂණය යුද හමුදාපති තුමාගේ උපදෙස් මත සිදුවන බවත් අද කළ විමසිමකදී හෙතෙම පවසා සිටියේය.
+
+යුද හමුදාව  සිදුකරන පරික්ෂණයේදී  අනතුර සම්බන්ධයෙන් හා  මීට හේතු වූ කරුණු පිළිබඳවත් ඉදිරියේදී ගත යුතු ක්‍රියා මාර්ග හා මේ පිළිබඳව හා  මීට වගකිව යුතු පිරිස් සිටිනවාද යන්න සොයා බැලීමට නියමිතව තිබෙන බවද ඒ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/16548c71.json)
+
+---
+
 ### Nine suspects including Keheliya Rambukwella till the sixth day
 
 *2024-04-22 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/181710) · `ta`
@@ -2147,29 +2169,5 @@ The chest of the chest was burned by dollars of dollars and not paying the bonds
 [Data](articles/2e14d7fc.json)
 
 [Extended Data](ext_articles/2e14d7fc.ext.json)
-
----
-
-### Israeli military intelligence head resigns
-
-*2024-04-22 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195870) · `si`
-
-Israeli Army Intelligence head, Major General Azorne Halli, resigns, marking the first senior officer departure due to the Israeli attack on October 7th. Hamas claims responsibility.
-
-🟩
-
-Foreign media reports that the Head of the Army Intelligence of Israel has resigned.
-
-The Hamas took responsibility for the lack of identifying the attack on Israel on October 07th last October.
-
-However, the Israelite security force has said that Major General Azorne Halli has retired.
-
-He is also the first Senior Army officer who left office due to the Israeli attack.
-
-◼️
-
-[Data](articles/753da4f1.json)
-
-[Extended Data](ext_articles/753da4f1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 12:05:28**
+As of **2024-04-23 12:18:33**
 
 ## Newspaper Stats
 
-*Scraped **20,408** Articles*
+*Scraped **20,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,353
-adaderanalk | 2,435
+tamilmirrorlk | 2,354
+adaderanalk | 2,436
 virakesarilk | 3,057
 dailymirrorlk | 3,175
 adaderanasinhalalk | 3,308
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,405 (100.0%) of 20,408 articles have been extended.
+20,408 (100.0%) of 20,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### வலம்புரி தேடி வந்த பொலிஸார் கொள்ளை
+
+*2024-04-23 11:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலம்புரி-தேடி-வந்த-பொலிஸார்-கொள்ளை/175-336231) · `ta`
+
+நேற்றைய தினம் கல்பிட்டி, நுரைச்சோலையில் பொலிஸ் உடையில் மூன்று பேர் கொண்ட கும்பல் கொள்ளையடித்த சம்பவம் அப்பகுதி மக்களை அதிர்ச்சிக்குள்ளாக்கியதுடன், அதிகாரிகளையும் விழிப்படைய செய்துள்ளது.
+
+பொலிஸ் அறிக்கையின்படி, குறித்த கொள்ளையர்கள் ரூ.8 மில்லியன் பணத்தைம் சுமார் 40 பவுண் நகைகளையும் கொள்ளையடித்துள்ளதாக தெரிய வருகிறது.
+
+பொலிஸ் வேடமிட்ட கொள்ளையர்கள் வலம்புரி என்று அழைக்கப்படும் ஒரு மதிப்புமிக்க சங்கு குறித்த வீட்டில் இருப்பதாக சந்தேகிப்பதாகவும் அதனைத் தேடும் போலித்தனத்தின் கீழ் தங்கள் வீட்டிற்குள் நுழைந்ததாகவும் பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
+
+அதனையடுத்து கொள்ளையர்கள் முதன்மை முகாமையாளரின் கைகளையும் கால்களையும் கட்டிவிட்டு, மற்ற குடியிருப்பாளர்ளை மிரட்டியுள்ளனர்.
+
+சம்பவம் தொடர்பான விசாரணைகள் வெளிவரும் நிலையில், சந்தேக நபர்களை கைது செய்வதற்கும் திருடப்பட்ட சொத்துக்களை மீட்பதற்கும் பொலிஸார் தீவிரமாக நடவடிக்கை எடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/530d5b59.json)
+
+---
 
 ### CBSL announces eight new pyramid activities
 
@@ -44,17 +64,25 @@ The notice was published by the CBSL following investigations conducted in accor
 
 [Data](articles/928765fd.json)
 
+[Extended Data](ext_articles/928765fd.ext.json)
+
 ---
 
-### புகையிரத பொது முகாமையாளர் காலமானார்
+### The Railway General Manager has passed away
 
 *2024-04-23 11:40:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-பொது-முகாமையாளர்-காலமானார்/175-336229) · `ta`
 
-புகையிரத பொது முகாமையாளர் எச்.எம்.கே.டபிள்யூ பண்டார திடீர் சுகயீனம் காரணமாக அனுராதபுரம் வைத்தியசாலையில் இன்று (23) காலை காலமானார்.
+HMKW Bandara, Railway General Manager, passed away at Anuradhapura Hospital due to sudden illness.
+
+🟩
+
+Railway General Manager HMKW Bandara passed away at the Anuradhapura Hospital this morning due to sudden illness.
 
 ◼️
 
 [Data](articles/4dad390e.json)
+
+[Extended Data](ext_articles/4dad390e.ext.json)
 
 ---
 
@@ -69,6 +97,26 @@ A seven-member panel led by a Major General has been appointed to investigate th
 [Data](articles/0bdb6306.json)
 
 [Extended Data](ext_articles/0bdb6306.ext.json)
+
+---
+
+### Army appoints investigation panel to probe deadly Fox Hill crash
+
+*2024-04-23 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98790/army-appoints-investigation-panel-to-probe-deadly-fox-hill-crash) · `en`
+
+A seven-member panel led by a Major General has been appointed to investigate the deadly accident that happened during the ‘Fox Hill Super Cross 2024’ racing event in Diyatalawa, Sri Lanka Army says.
+
+As many as seven people including an 8-year-old girl lost their lives and more than 20 were injured on Sunday (21) after a car ran off the track during a race and ploughed into spectators.
+
+Among the deceased were four event officials who had been stationed as flag marshals. The others were identified as spectators.
+
+Reportedly, the crash happened soon after another car had overturned on the track. As the vehicles were speeding past, one red car veered off course and crashed into spectators on the side of the unguarded track.
+
+Two drivers of the racing cars involved in the accident were subsequently arrested and remanded until 30 April on the orders of Bandarawela Magistrate’s Court.
+
+...
+
+[Data](articles/652d7fc5.json)
 
 ---
 
@@ -924,29 +972,39 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### 'වසර දෙකකදී ශ්‍රී ලාංකිකයින් ලක්ෂ 25ක් රට හැර ගිහින්; ඩොලර් මිලියන 10,000ක් ශ්‍රී ලංකාවට එවලා'
+### 25 lakhs of Sri Lankans left the country in two years;10,000 million USA to Sri Lanka
 
 *2024-04-23 05:58:54* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjr7e5v7ng5o) · `si`
 
-'වසර දෙකකදී ශ්‍රී ලාංකිකයින් ලක්ෂ 25ක් රට හැර ගිහින්; ඩොලර් මිලියන 10,000ක් ශ්‍රී ලංකාවට එවලා'
+In 2022-23, 2.56M Sri Lankans left the country, with 70% migrating in 2023. Sri Lanka received $3.789.4M from foreign workers in 2022, with Kuwait sending the most ($139.7M). In 2023, foreign workers sent $5.969.6M, with Kuwait again leading ($170.9M). Despite short-term disadvantages, experts abroad can benefit Sri Lanka economically and socially.
 
-පසුගිය වසර දෙකක, එනම්, 2022 සහ 2023 වසර දෙක තුළ ශ්‍රී ලාංකිකයින් 2,565,365 දෙනෙකු විවිධ හේතු මත රට හැර ගොස් ඇතැයි ශ්‍රී ලංකා මහ බැංකුවේ කාර්තුමය වාර්තාවලින් තහවුරු වී තිබේ.
+🟩
 
-එම සංඛ්‍යා ලේඛන අනුව, 2022 වසරේදී ශ්‍රී ලාංකිකයින් 1,127,758 දෙනෙකු සහ 2023 වසරේදී ශ්‍රී ලාංකිකයින් 1,437,607 දෙනෙකු විදේශ රටවලට සංක්‍රමණය වී ඇත.
+25 lakhs of Sri Lankans left the country in two years;10,000 million USA to Sri Lanka
 
-සංඛ්‍යා ලේඛනවල දැක්වෙන පරිදි 2022 සහ 2023 වසරවලදී රැකියා සඳහා විදෙස්ගත වී ඇත්තේ, සමස්ත විදේශගත වූවන්ගෙන් 24%ක් පමණි. එනම්, ශ්‍රී ලාංකිකයින් 608,925 දෙනෙකි.
+In the last two years, 2,565,365 Sri Lankans have left the country for various reasons.
 
-ඒ, 2022 වසරේදී 311,269 දෙනෙකු සහ 2023 වසරේදී 297,656 දෙනෙකු වශයෙනි.
+According to the statistics, 1,127,758 Sri Lankans and 1,437,607 Sri Lankans have migrated to foreign countries.
 
-මෙම දත්ත අනුව, 2022 වසරේදී රැකියා සඳහා විදෙස් රටවලට සංක්‍රමණය වූ ශ්‍රී ලාංකිකයින්ගේ මාසික සාමාන්‍යය 25,939 දෙනෙකි.
+In the year 2022 and 2023, there are only 24% of the entire overseas. That is, 608,925 Sri Lankans.
 
-2023 වසරේදී විදේශ රටවලට සංක්‍රමණය වූවන්ගෙන් 70%ක් කුසලතා සහ වෘත්තීය සුදුසුකම් සහිත ශ්‍රමිකයින් බව සංඛ්‍යා ලේඛනවලින් තහවුරු වේ.
+It was 311,269 and 297,656 in 2022 and 297,656 in 2023.
 
-2022 සහ 2023 වසරවලදී විදෙස්ගත ශ්‍රමිකයින්ගෙන් ශ්‍රී ලංකාවට ලැබුණු විදේශ විනිමය
+According to this data, 25,939 members of the Sri Lankans who migrated to foreign countries in 2022 were 25,939.
+
+The statistics confirm that 70% of the migrants migrated to foreign countries in 2023, the statistics confirm.
+
+Sri Lanka received foreign workers from foreign workers in 2022 and 2023
+
+According to the quarterly, Sri Lankans who have been issued by the Central Bank of Sri Lanka have increased significantly in the 2022 and 2023.
+
+Accordingly, foreign exchange sent to Sri Lanka by foreign workers in 2022 was US $ 3,789.4 million.
 
 ...
 
 [Data](articles/ae782774.json)
+
+[Extended Data](ext_articles/ae782774.ext.json)
 
 ---
 
@@ -2125,61 +2183,5 @@ The Central Bank of Sri Lanka (SLTB) has sent demands to the Attorney General
 [Data](articles/dd280c83.json)
 
 [Extended Data](ext_articles/dd280c83.ext.json)
-
----
-
-### Three, including a boy, from Sri Lanka reach India on fibre boat
-
-*2024-04-22 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98783/three-including-a-boy-from-sri-lanka-reach-india-on-fibre-boat) · `en`
-
-Three persons, including an eight-year-old boy, from Sri Lanka reached the Dhanushkodi islet in India in the early hours of Monday. On information, the marine police brought them to the shore and conducted inquiries, The Hindu reported.
-
-A senior police officer said the three identified themselves as Sivaneshwaran, 49, Gajendran, 45, and his son Sajith, 8. They said they were residents of Batticaloa. It is said they hired a fibre boat from a point on the Thalaimannar beach and reached somewhere near the Dhanushkodi islet.
-
-They said poverty and joblessness, brought on the economic crisis, forced them to leave the island nation, the police officer said, adding that after due verification, they were sent to the Mandapam Rehabilitation Centre.
-
-An officer at the rehabilitation centre said that with the entry of the three persons, the number of occupants at the centre rose up to 301.
-
-...
-
-[Data](articles/fe825caa.json)
-
-[Extended Data](ext_articles/fe825caa.ext.json)
-
----
-
-### The gods found for a lost mother
-
-*2024-04-22 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195877) · `si`
-
-The gods found a lost 90-year-old woman in Mahamin, Thammea, after she was reported missing in Kassiwatta. The Badalgama Police, with the help of locals, located her in Thammei.
-
-🟩
-
-People and the Badalgama Police have taken measures to hand over a long-standing woman in the Mahamin.
-
-The event is a 90-year-old woman living in Thammea.
-
-The woman had informed the Badalgama police regarding her when she was resloring in the Kassiwatta area in Badalgama.
-
-The officers of the Badalgama police have come to the police station.
-
-She had stated that he returned from the Kegalle area.
-
-Later, the OIC of the Badalgama has told the officers that the woman had seen in the same area before.
-
-The woman was seen by the OIC Jayantha on the road to another duties in the Pulapitiya Police area.
-
-The OIC Jayantha has revealed that the woman in a house in Thammea has lived in a house in Thammei, Thammei area.
-
-Accordingly, the police had taken the woman to his home.
-
-It was revealed that the residents had been looking for two days and that she was suffering from the condition of the illness.
-
-◼️
-
-[Data](articles/25472f1e.json)
-
-[Extended Data](ext_articles/25472f1e.ext.json)
 
 ---

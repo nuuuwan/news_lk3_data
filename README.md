@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 01:33:55**
+As of **2024-04-24 01:51:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,515 (100.0%) of 20,519 articles have been extended.
+20,518 (100.0%) of 20,519 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Today, we, in Sri Lanka, are directly affected by the West Asian war crisis that
 
 [Data](articles/6095f1ce.json)
 
+[Extended Data](ext_articles/6095f1ce.ext.json)
+
 ---
 
 ### The Gandhi of Sri Lanka: Dr. Ari is the apostle of peace to the world and beyond
@@ -60,6 +62,8 @@ With a clear and sharp mind until his last breath, the 92-year-old soul lived fo
 
 [Data](articles/18fcaa85.json)
 
+[Extended Data](ext_articles/18fcaa85.ext.json)
+
 ---
 
 ### Tolerance of failure: Essential in innovating and risk-taking
@@ -73,6 +77,8 @@ An organisation’s attitude towards failure has a significant bearing, amongst 
 ...
 
 [Data](articles/d9bbf838.json)
+
+[Extended Data](ext_articles/d9bbf838.ext.json)
 
 ---
 

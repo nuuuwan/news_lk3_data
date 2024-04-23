@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 05:38:23**
+As of **2024-04-23 05:57:26**
 
 ## Newspaper Stats
 
-*Scraped **20,331** Articles*
+*Scraped **20,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 180
 bbccomsinhala | 210
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,094
+islandlk | 1,095
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,331 (100.0%) of 20,331 articles have been extended.
+20,331 (100.0%) of 20,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -433,6 +433,28 @@ The other parties in the coalition such as the Maldives National Party (MNP) and
 ---
 
 ### 2024-04-22 (Monday)
+
+### Taste the difference…
+
+*2024-04-22 23:39:00* · [`islandlk`](http://island.lk/taste-the-difference-2/) · `en`
+
+‘From the ’70s to the Generation New’, a musical event highlighting the music of the good ole days, and the present, will be held on 28th April, from 7.00 pm onwards, at Musaeus College Auditorium.
+
+The Gypsies and Rajiv & The Clan, will be in the spotlight, along with several other well-known artistes.
+
+Billed to appear, as guests artistes, are Sohan Weerasinghe, Ishaq Baig, Keerthi Pasqual and Falan Andrea.
+
+This event is in aid of charity and is presented by The Lions Club District 306 C2 and co-organized by District Governor and Cabinet Officers, Past District Governors Association, Lion Ladies Association, plus Leo District and key officers.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/3871d362.json)
+
+---
 
 ### Sahal was the first player to take 200 wickets in IPL
 
@@ -2161,19 +2183,5 @@ The Vavuniya Hospital Director telephoned the hospital to learn about the incide
 [Data](articles/9b489b5c.json)
 
 [Extended Data](ext_articles/9b489b5c.ext.json)
-
----
-
-### Pensioners protest...
-
-*2024-04-22 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Pensioners-protest/110-281160) · `en`
-
-The Collective of Pensioners' Associations staged a protest outside the Public Administration Ministry today, advocating for various demands, including the rectification of pension anomalies. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/0d863f50.json)
-
-[Extended Data](ext_articles/0d863f50.ext.json)
 
 ---

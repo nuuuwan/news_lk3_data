@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 16:49:47**
+As of **2024-04-23 17:03:34**
 
 ## Newspaper Stats
 
-*Scraped **20,455** Articles*
+*Scraped **20,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
-adalk | 1,707
-tamilmirrorlk | 2,362
+adalk | 1,708
+tamilmirrorlk | 2,363
 adaderanalk | 2,441
 virakesarilk | 3,068
 dailymirrorlk | 3,184
@@ -26,29 +26,55 @@ adaderanasinhalalk | 3,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,451 (100.0%) of 20,455 articles have been extended.
+20,455 (100.0%) of 20,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### Fox Hill Journey පාටිය ගැන යුද හමුදාවෙන් නිවේදනයක්
+### முதலிடத்தை பிடித்தார் சாமரி அத்தபத்து
+
+*2024-04-23 16:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலிடத்தை-பிடித்தார்-சாமரி-அத்தபத்து/44-336248) · `ta`
+
+இலங்கை மகளிர் கிரிக்கெட் அணியின் தலைவியும், சூப்பர் துடுப்பாட்ட வீராங்கனையுமான சாமரி அத்தபத்து, உலக மகளிர் ஒருநாள் கிரிக்கெட் துடுப்பாட்ட தரவரிசையில் முதலிடத்தைப் பிடித்துள்ளார்
+
+சர்வதேச கிரிக்கட் பேரவையின் திங்கட்கிழமை (22) புதுப்பிப்பின் படி, சாமரி அத்தபத்து 773 போனஸ் புள்ளிகளுடன் தரவரிசையில் முதலிடத்தை அடைந்தார்.
+
+சமீபத்தில் தென்னாப்பிரிக்காவுக்கு எதிரான கடைசி ஒருநாள் போட்டியில் ஆட்டமிழக்காமல் 195 ஓட்டங்களை குவிப்பதற்கு முன்பு சமாரி துடுப்பாட்ட வரிசையில் இரண்டாவது இடத்தில் இருந்தார்.
+
+சாமரி இதுவரை 101 ஒருநாள் போட்டிகளில் 9 சதங்கள் மற்றும் 16 அரைசதங்களுடன் 3,513 ஓட்டங்களை குவித்துள்ளார்.
+
+இங்கிலாந்து வீரர் நடாலி சீவர் 764 புள்ளிகளுடன் இரண்டாவது இடத்திலும், தென்னாப்பிரிக்க வீரர் லாரா வால்வார்ட் 718 புள்ளிகளுடன் மூன்றாவது இடத்திலும் உள்ளனர்.
+
+◼️
+
+[Data](articles/edaf83ea.json)
+
+---
+
+### Army announces Fox Hill Journy Party
 
 *2024-04-23 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195897) · `si`
 
-ෆොක්ස් හිල් බිහිසුණු අනතුරින් පසුව පැවති බවට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වූ Fox Hill Journey නම් DJ රාත්‍රිය සම්බන්ධයෙන් ශ්‍රී ලංකා යුද්ධ හමුදා මූලස්ථානය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Sri Lanka Army denies involvement in the Fox Hill Journey DJ night, organized by a hotel in Bandarawela, for promoting the Fox Hill Super Cross.
 
-එම නිවේදනයෙන් දැක්වෙන්නේ මෙම DJ රාත්‍රිය සඳහා යුද්ධ හමුදාව කිසිදු ආකාරයකින් සම්බන්ධයක් නොමැති බවය.
+🟩
 
-බණ්ඩාරවෙල පිහිටි හෝටලයක් මගින් Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර ඇති බවද එහි දැක්වෙයි.
+The Sri Lanka Army Headquarters has issued a statement regarding the Fox Hill Journy, which was exchanged after the Fox Hill.
+
+The announcement indicates that the army of the army has no involvement in any way for this DJ night.
+
+The night has been organized by a hotel in Bandarawela.
 
 එසේම අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ Fox Hill සුපර් ක්‍රොස් තරගාවලිය නැරඹීම සඳහා පැමිණෙන ප්‍රේක්ෂකයින් ඉලක්ක කරගනිමින් එම Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර ඇති බවය.
 
-සමස්ථ යුද්ධ හමුදාව කම්පනයට පත්ව සිටින මොහොතක යුද්ධ හමුදාව හෝ ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය අනුග්‍රහයකින් තොරව එම Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර තිබූ බවද එහි වැඩිදුරටත් දැක්වෙයි.
+The army or Sri Lanka Automobile Sports Association have been organized without a sponsored by the Army or the Sri Lanka Automobile Sports Association.
 
 ◼️
 
 [Data](articles/473d6d77.json)
+
+[Extended Data](ext_articles/473d6d77.ext.json)
 
 ---
 
@@ -70,6 +96,8 @@ She said a team of labourers of the Pradeshiya Sabha had been deployed to collec
 
 [Data](articles/e0c48b04.json)
 
+[Extended Data](ext_articles/e0c48b04.ext.json)
+
 ---
 
 ### More than one in five cars sold worldwide in 2024 will be electric
@@ -89,6 +117,8 @@ Last year, global electric car sales amounted to almost 14 million vehicles.
 ...
 
 [Data](articles/a3f1a963.json)
+
+[Extended Data](ext_articles/a3f1a963.ext.json)
 
 ---
 
@@ -286,6 +316,24 @@ It was reported that the Jaffna district traffic police rushed to the scene and 
 
 ---
 
+### චන්ද්‍රසිරි බණ්ඩාර මහතාගේ මරණයට හේතුව හෘදයාබාධයක්
+
+*2024-04-23 15:14:16* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රසිරි-බණ්ඩාර-මහතාගේ-මරණයට-හේතුව-හෘදයාබාධයක්/11-409222) · `si`
+
+ජ්‍යොතිෂය වැඩසටහනක් සදහා උදෑසන හතට සහභාගිවීමට නියමිතව  තිබූ නිසා අළුයම 5.45 පමණ කොළ කැඳ පානයක් රැගෙන සැමියා නිදා සිටි කාමරයට ගොස්  අවදි කළත් ඊට යහපත් ප්‍රතිචාරයක් නොදැක්වීම නිසා පෞද්ගලික රෝහලකට ඇතුළත් කිරීමෙන් පසුව මියගොස් ඇති බව වෛද්‍යවරු පැවසුවේ යැයි ප්‍රවීණ ජ්‍යෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතාගේ බිරිද වන හිනිදුම ලියනගේ චම්පිකා (59) මහත්මිය පැවසුවාය.
+
+ඇය මේ බව කියා සිටියේ තලවතුගොඩ හෝකන්දර පාරේ සමගිමාවත , රොම්ස් ලැන්ඩ් හි  අංක 424 / 01 නිවසේ පදිංචි හේරත් මුදියන්සේලාගේ චන්ද්‍රසිරි බණ්ඩාර වන මියගිය තම සැමියාගේ මෘත දේහය පිළිබඳ හදිසි මරණ පරීක්ෂණයේදී සාක්ෂි ලබා දෙමිනි.
+
+මෘත දේහය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය කොළඹ ජාතික රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරී ඩී.ඇල්.ඇම්. සේනානායක මහතා විසින් සිදුකළ අතර මෘත දේහය පිළිබඳ  හදිසි මරණ පරීක්ෂණය තලංගම හදිසි මරණ පරීක්ෂිකා සාමවිනිසුරු ප්‍රේමලතා අබේවර්ධන මහත්මිය විසින් (23) දා සිදු කළාය.
+
+එහිදී  තවදුරටත්   සාක්ෂි ලබා දෙමින් එච්.එල් චම්පිකා මහත්මිය මෙසේද  කීවාය.
+
+...
+
+[Data](articles/9d803e4d.json)
+
+---
+
 ### Welcome to the capital of Iran
 
 *2024-04-23 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181772) · `ta`
@@ -325,6 +373,8 @@ The project was officially launched in 2010, with an estimated cost of USD 514 m
 ◼️
 
 [Data](articles/c1c45d89.json)
+
+[Extended Data](ext_articles/c1c45d89.ext.json)
 
 ---
 
@@ -2255,63 +2305,5 @@ Further investigations are underway under the leadership of Senior Police Office
 [Data](articles/5fb8bd25.json)
 
 [Extended Data](ext_articles/5fb8bd25.ext.json)
-
----
-
-### An Indian citizen arrested for attempting to marry a woman
-
-*2024-04-23 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181725) · `ta`
-
-An Indian citizen, journalist and actor, was arrested for attempting to marry a woman in Vatukkamam, India, without a visa. Despite his parents' rejection, he was identified on social media and arrested by the Kandy Tourism Police. His visa expired on April 4, and he faces expulsion.
-
-🟩
-
-He was arrested by a group of Indian police officers yesterday (21) for allegedly being a journalist and film actor and had come to India and had pressed his parents in the country after she had rejected her parents in Vatukkama.
-
-Thus, the Indian citizen, who was staying in the country without a visa, was identified by social media and she went to the house of a young woman living in the Vatukkamam police division and asked her to marry her.
-
-Even after the parents rejected the citizen's wishes, the police are currently conducting a proper investigation into the Vathekama police as he has been staying in the country without going to India.
-
-The Indian citizen's visa has ended on April 4 and the Indian citizen has been arrested by the police in the wake of the Kandy Manukkuttu bus stand.
-
-The Kandy Tourism Police have taken steps to present the Indian citizen in court and the police say that the Indian citizen is expected to be expelled from the country.
-
-◼️
-
-[Data](articles/82bf2382.json)
-
-[Extended Data](ext_articles/82bf2382.ext.json)
-
----
-
-### Public Employees' House of Commerce worth several lakhs of rupees
-
-*2024-04-23 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181724) · `ta`
-
-In Mannar Basal, a robbery of jewelry and money worth several lakhs of rupees occurred in a public servant's house. The wife of a district secretariat official was targeted, despite her children being left with a relative. The police are investigating, with no suspects arrested yet.
-
-🟩
-
-In the Mannar Basal police station, there was an incident of robbery of jewelery and money worth several lakhs of rupees.
-
-The incident took place on Monday (22) at ten o'clock in the house of public servants in Basal.
-
-The wife of the district secretariat, who is in the district secretariat, has gone to the office for his duty in the morning and left her children at a relative's house, despite her husband's school holiday at a famous school.
-
-Then the teacher, the daytime teacher returned home, saw that the door was broken.
-
-The police have appealed to the police that thirteen half -pound jewelery and fifty thousand rupees were stolen, including the wife's talisman.
-
-The police have been brought and tested with the aim of finding the thief in this regard.
-
-So far, no suspect has been arrested, but the police are under intense investigation.
-
-It is also noteworthy that the homes of public servants were being mocked by the robbers in the Basal police division.
-
-◼️
-
-[Data](articles/b6e0c0c4.json)
-
-[Extended Data](ext_articles/b6e0c0c4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 20:50:59**
+As of **2024-04-23 21:03:43**
 
 ## Newspaper Stats
 
-*Scraped **20,490** Articles*
+*Scraped **20,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,62 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,165
-adalk | 1,710
+adalk | 1,711
 tamilmirrorlk | 2,364
 adaderanalk | 2,445
 virakesarilk | 3,072
 dailymirrorlk | 3,197
-adaderanasinhalalk | 3,319
+adaderanasinhalalk | 3,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,489 (100.0%) of 20,490 articles have been extended.
+20,490 (100.0%) of 20,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### විවාදයට සූදානම් - සජිත්
+### මටත් ඒක තේරුණේ තාත්තා කෙනෙක් වුණාට පස්සේ - නාමල්
+
+*2024-04-23 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195902) · `si`
+
+අරගල සමයේ සටන් පාඨය බවට පත්වූ ක්‍රම වෙනසක් ඇති කිරීම සිය පක්ෂය තුළින්ම ආරම්භ කිරීමට සූදානම් බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ප්‍රතිසංස්කරණය කළ ශ්‍රී ලංකා පොදුජන පෙරමුණු කුරුණෑගල දිස්ත්‍රික් දේශපාලන කාර්යාලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+අරගල සමයේදී ගිනි තබා විනාශ කෙරුණු මෙම කාර්යාලය විවෘත කිරීම අද සිදුකෙරුණේ පක්ෂ නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙනි.
+
+"මගේ සීයාගේ සොහොන කඩලා බිඳලා දැම්මා, අපි ජීවත් වෙච්ච නිවාස ගිනි තියන්න ගත්තා, මේ දරුවන්ට වෛර කරලා වැඩක් වෙන්නේ නෑ. යම් කණ්ඩායමක් විසින් ඒ අයව පෙළඹවූවා. සාමාන්‍යයෙන් දරුවෝ වුණාම ටිකක් දඩබ්බරයි, මටත් ඒක තේරුම්ගන්න තාත්තා කෙනෙක් වෙන්නම වුණා. වැඩිහිටියෝ විදියට ඔබේ අපේ වගකීම තමයි ඒ දරුවන්ට යථාර්ථය පැහැදිළි කිරීම. ඒ නිසා අපේ හාමුදුරුවනේ ඒ අයට අවස්ථාවක් දෙන්න ඕන ලෝකය පිළිබඳව විවෘත මනසකින් බලන්න."
+
+◼️
+
+[Data](articles/0ff228a0.json)
+
+---
+
+### Ready for the debate - Sajith
 
 *2024-04-23 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195901) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුරකුමාර දිසානායක මහතා සමග විවාදය සඳහා තම පාර්ශ්වය සූදානම් බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa's party is prepared for a debate with the National Institute of National Power's leader, following a meeting at Okandya Vidyalaya, Weeraketiya. A date for the debate has been proposed for May 9, 13, or 14.
 
-සුහුරු පන්ති කාමර ලබාදීමේ වැඩසටහන යටතේ වීරකැටිය, ඕකන්දයාය විද්‍යාලයට සුහුරු පන්ති කාමරයක් ලබාදීමේ අවස්ථාවට එක්වෙමින් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව සඳහන් කළේය.
+🟩
 
-සමගි ජන බලවේගයේ නායක සජිත් ප්‍රෙමදාස සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක යන මහත්වරුන් අතර පැවැත්වීමට යෝජිත විවාදය වෙනුවෙන් ජාතික ජන බලවේගය පාර්ශවයෙන් ලිපියක් යොමුකරමින් දින කිහිපයක් යෝජනා කර තිබුණි.
+Opposition Leader Sajith Premadasa says his party is ready for debate with the Leader of the National Institute of National Power.
 
-ඒ අනුව අදාළ විවාදය සඳහා ලබන මැයි මාසයේ 07, 09, 13 හෝ 14 යන දිනවලින් එකක් යොදා ගැනීමට සූදානම් බව එම ලිපියේ සඳහන් කර තිබුණි.
+Opposition Leader Sajith Premadasa made this statement participating at the meeting of a nearby classroom to Okandya Vidyalaya, Weeraketiya under the program of weeraketiya.
+
+A few days have been proposed to a letter from the party in a letter to the National Folk Force (UNP) and the Leader of the National Folk Person Anura Kumara Dissanayake.
+
+According to the article, one of May 9, 09, 13 or 14 will be prepared for the debate on the debate.
 
 ◼️
 
 [Data](articles/e20a093e.json)
+
+[Extended Data](ext_articles/e20a093e.ext.json)
 
 ---
 
@@ -395,6 +419,24 @@ However, during this transition period, the Regional Consular Offices in Jaffna,
 [Data](articles/e33548d9.json)
 
 [Extended Data](ext_articles/e33548d9.ext.json)
+
+---
+
+### චමරි අතපත්තු ලෝකයෙන්ම පළමු තැනට
+
+*2024-04-23 17:09:34* · [`adalk`](https://www.ada.lk/sports/චමරි-අතපත්තු-ලෝකයෙන්ම-පළමු-තැනට/9-409225) · `si`
+
+ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තු ලෝක කාන්තා එක්දින පිතිකරණ ශ්‍රේණිගත කිරීම්වල පළමු ස්ථානයට පැමිණ තිබේ.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නවතම ශ්‍රේණිගත කිරිම් අනුව ඇය තම ක්‍රිකට් දිවියෙ ඉහළම ප්‍රසාද ලකුණු ප්‍රමාණ්‍ය වන ලකුණු 773ක් ලබා ගනිමින් මෙසේ පළමු ස්ථානයට පැමිණ තිබේ.
+
+දකුණු අප්‍රිකාව හා පැවැති තෙවැනි එක්දින තරගයේදී ඇය ලකුණු 195ක් රැස්කරමින් දැක්වූ දක්ෂතාවත් සමගින් ඇය මෙසේ ශ්‍රේණිගත කිරීම්වල ඉදිරියට පැමිණ තිබේ.
+
+චමරි මේ වන විට එක්දින ජාත්‍යන්තර තරග 101 කදී ශතක 9 ක් සහ අර්ධ ශතක 16 ක් සමගින් ලකුණු 3,513 ක් රැස්කිරීමට සමත්ව සිටින්නීය.ෙ
+
+◼️
+
+[Data](articles/89236925.json)
 
 ---
 
@@ -2261,59 +2303,5 @@ The state’s fire and rescue department said it was alerted to the incident at 
 [Data](articles/f2437918.json)
 
 [Extended Data](ext_articles/f2437918.ext.json)
-
----
-
-### Identity reveals from police shooting
-
-*2024-04-23 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195886) · `si`
-
-Police officers in Meegoda Junction shot at a three-wheeler from Dompe, leading to a pursuit and shooting. The three-wheeler was from the Western Province South Criminal Division. The incident involved a resident of Mattegoda, identified as a criminal with a history of arrests for drug offenses. Another suspect, a 42-year-old from Thanamalwila, died from police fire. The deceased was involved in a shooting incident in Kandana Police Division in August 2023.
-
-🟩
-
-The police officers were shooting at the Meegoda Junction in the Meegoda Police Division this morning.
-
-They have been signaled to stop a three-wheeler from Dompe and has been shot to the police officers and headed to the Moragahahena.
-
-The incident has been made to inform the surrounding police stations.
-
-The three-wheeler was signaled to stop the three-wheeler of the Western Province South Criminal Division of the Moragahahena police domain.
-
-The three-wheeler had been tracked by the officials due to the three-wheeler, and the three-wheeler had stopped.
-
-The pursuit of the jeep had come near the three-wheeler and had shouting the jeep by a person in the three-wheeler.
-
-The injured were injured and admitted to the Horana hospital due to the shooting carried out by officials at the time.
-
-The deceased has been identified as a resident of Mattegoda, a resident of Mattegoda.It has been revealed that the property has been stolen and sued the judiciary in respect of these mistakes.
-
-...
-
-[Data](articles/cdadcb4f.json)
-
-[Extended Data](ext_articles/cdadcb4f.ext.json)
-
----
-
-### Railways General Manager H.M.K.W. Bandara passes away
-
-*2024-04-23 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98788/railways-general-manager-hmkw-bandara-passes-away) · `en`
-
-General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morning due to a sudden illness.
-
-According to sources, he succumbed to his illness while being rushed to the Anuradhapura Teaching Hospital.
-
-Eng. Bandara was appointed as the railways chief in November 2023 following the retirement of his predecessor.
-
-He was educated at the Science College in Matale and received his bachelor’s degree in engineering from the Peradeniya University and the Moratuwa University.
-
-In 1996, he joined Sri Lanka Railways as an Assistant District Engineer and has served in a number of posts including District Engineer, Deputy Chief Engineer, Chief Engineer (Roads and Industries) and Additional General Manager (Infrastructure) during the span of his career.
-
-◼️
-
-[Data](articles/0131d927.json)
-
-[Extended Data](ext_articles/0131d927.ext.json)
 
 ---

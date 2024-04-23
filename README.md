@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 08:06:27**
+As of **2024-04-23 08:18:22**
 
 ## Newspaper Stats
 
-*Scraped **20,370** Articles*
+*Scraped **20,372** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 180
-bbccomsinhala | 210
+bbccomsinhala | 211
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
-tamilmirrorlk | 2,345
+tamilmirrorlk | 2,346
 adaderanalk | 2,430
 virakesarilk | 3,051
 dailymirrorlk | 3,171
@@ -26,33 +26,43 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,367 (100.0%) of 20,370 articles have been extended.
+20,370 (100.0%) of 20,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### රාජ්‍ය ආයතන 05ක් මේ සතියේ කෝප් කමිටුවට
+### Five government institutions to COPE
 
 *2024-04-23 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195884) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සමාගම ඇතුළු රාජ්‍ය ආයතන 05ක ප්‍රධානීන් මෙම සතිය තුළ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව වෙත කැඳවීමට නියමිතන තිබේ.
+COPE summons SriLankan Airlines, Sri Lanka Broadcasting Corporation, University Grants Commission, National Institute of Business Management, and Mahapola Management Fund. Parliamentary debate on Passover attack scheduled. Justice Ministry to submit new cabinet leaflets.
 
-හෙට (24) දිනයේ දී ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාව කෝප් කමිටුව හමුවට කැඳවා ඇති බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+🟩
 
-අනිද්දා දිනයේ දී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල කෝප් කමිටුව හමුවට කැඳවා තිබේ.
+SriLankan Airlines, including SriLankan Airlines, will be summoned to the Committee on Public Enterprises (COPE).
 
-ලබන සිකුරාදා දිනයේ ශ්‍රීලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා ඇති බව වාර්තා වේ.
+The Sri Lanka Broadcasting Corporation has been summoned before the COPE Committee tomorrow (24).
 
-මේ අතර අලුත් අවුරුද්දෙන් පසුව පළමු වරට හෙට දිනයේ පාර්ලිමේන්තුව රැස්වීමට නියමිතව තිබේ.
+The University Grants Commission, the National Institute of Business Management and the Mahapola Management Fund has been called on the COPE.
 
-පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් හෙට, අනිද්දා සහ සිකුරාදා යන දිනවල පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The heads of SriLankan Airlines have been summoned before the COPE Committee on Friday.
 
-ඊට අමතරව හෙට දිනයේ දී අපරාධ නඩු විධාන සංග්‍රසය සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ විෂ වර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතය.
+Meanwhile, the Parliament will meet tomorrow after the new year.
+
+The Parliamentary debate on the Passover attack is scheduled to be held tomorrow on tomorrow and Friday, the Department of Parliament.
+
+In addition, the Criminal Procedure Toping Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tomorrow
+
+Meanwhile, the cabinet is scheduled to meet tomorrow after New Year.
+
+It is reported that the Justice Ministry is due to submit two new cabinet leaflets for the Cabinet meeting headed by President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/991fc88b.json)
+
+[Extended Data](ext_articles/991fc88b.ext.json)
 
 ---
 
@@ -71,6 +81,8 @@ The prices rose by 2.5 percent in March from a year earlier, softening from 5.1 
 ...
 
 [Data](articles/d79e0b15.json)
+
+[Extended Data](ext_articles/d79e0b15.ext.json)
 
 ---
 
@@ -111,6 +123,8 @@ They said another person who was inside the three-wheeler at the time of the sho
 ◼️
 
 [Data](articles/c35b2a3c.json)
+
+[Extended Data](ext_articles/c35b2a3c.ext.json)
 
 ---
 
@@ -562,6 +576,30 @@ It is also noteworthy that the homes of public servants were being mocked by the
 
 ---
 
+### මෙරට දරුවන්ගේ නිරුවත් ෆොටෝ, වීඩියෝ ලක්ෂ ගණනක් ගැන ජාත්‍යන්තර වාර්තාවක් පොලිසියට
+
+*2024-04-23 02:05:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d4g27nez7o) · `si`
+
+මෙරට දරුවන්ගේ නිරුවත් ෆොටෝ, වීඩියෝ ලක්ෂ ගණනක් ගැන ජාත්‍යන්තර වාර්තාවක් පොලිසියට
+
+ශ්‍රී ලංකාව කිහිප වතාවක්ම ගූගල් අන්තර්ජාල සෙවුම හරහා ලෝකයේ SEX වචනය වැඩිම පිරිසක් සොයා බැලු රට බවට පත් විය.
+
+ලිංගිකත්වය පිළිබඳව කතා කිරිම තවමත් මෙරට තුළ රහසක් සේ පවතින අතර ලිංගික අධ්‍යාපනය පාසල් විෂය මාලාවට එක් කිරිමට ගත් උත්සාහයන්ට ආගමික සංස්ථා ඇතුලුව සමාජයේ ඇති වූ විරෝධය මැද හකුලා ගන්නට සිදුවිය.
+
+වත්මන් රජය විසින් මාර්ගගත සුරක්ෂිතභාවය පිළිබඳ වු පනත ගෙන එන අවස්ථාවේ දී ප්‍රකාශ කළ එක් ප්‍රධන හේතුවක් ලෙස සඳහන් කළේ දරුවන්ට හා කාන්තාවන්ට අන්තර්ජාලය හරහා වන අපරාධ වැළැක්වීම ය.
+
+එවන් පසුබිමක් තුළ මාර්ගගත ක්‍රම හරහා දරුවන් සම්බන්ධ  ප්‍රකාශන හෙවත් ළමුන්ගේ අසභ්‍ය ඡායාරූප හා වීඩියෝ සම්බන්ධව ලැබෙන පැමිණිලි වැඩි වී ඇතැයි බීබීසී සිංහල වෙත අනාවරණය කර ගැනීමට හැකි විය.
+
+දෙමාපියන්ට, ගුරුවරුන්ට දරුවන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කළ හැකි ද?
+
+ළමුන් සම්බන්ධ අසභ්‍ය පළකිරිම් 10 ක් සම්බන්ධව මේ වසරේ මුල් මාස තුනේ දී පමණක් වාර්තා වී ඇති බව පොලිස් ළමා හා කාන්තා අපයෝජන නිවාරණ කාර්යාංශය අනාවරණය කළේය.
+
+...
+
+[Data](articles/c47c5736.json)
+
+---
+
 ### Having Fox Hill race on Easter Attack anniversary day was unintentional: Army
 
 *2024-04-23 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Having-Fox-Hill-race-on-Easter-Attack-anniversary-day-was-unintentional-Army/108-281194) · `en`
@@ -577,6 +615,20 @@ Criticism is also charged towards an after-event organised in line with the race
 [Data](articles/3b1e6c62.json)
 
 [Extended Data](ext_articles/3b1e6c62.ext.json)
+
+---
+
+### ஈரான் ஜனாதிபதி நாளை இலங்கைக்கு விஜயம்
+
+*2024-04-23 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதி-நாளை-இலங்கைக்கு-விஜயம்/175-336220) · `ta`
+
+ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி நாளை  இலங்கைக்கு விஜயம் மேற்கொள்ளவுள்ளார் என அரசாங்க தகவல் திணைக்களம் அறிவித்துள்ளது.
+
+ஈரானின் 529 மில்லியன் டொலர் நிதியுதவியுடன் நிர்மாணிக்கப்பட்டுள்ள உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை பொதுமக்களின் பயன்பாட்டுக்காக கையளிக்கும் நிகழ்வில் பங்கேற்பதற்காக அவர் இலங்கை வரவுள்ளார் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/f5363f67.json)
 
 ---
 
@@ -2097,57 +2149,5 @@ During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Mu
 [Data](articles/dcf4e6e0.json)
 
 [Extended Data](ext_articles/dcf4e6e0.ext.json)
-
----
-
-### Homemade people are locked up in the room by a group of policemen who like the police!
-
-*2024-04-22 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181680) · `ta`
-
-A group of policemen, posing as police, locked up homemade people in a room, claiming to investigate. They demanded 90,000 rupees, a large sum, and were revealed to be a robbery gang.
-
-🟩
-
-நுரைச்சோலை நாவற்காடு பிரதேசத்தில் பொலிஸார் என தம்மை அடையாளப்படுத்திய குழுவொன்று வீடு ஒன்றுக்குள் நுழைந்து அங்கிருந்தவர்களை அறையில் பூட்டி வைத்து அவர்களின் தங்க நகைகள்,பணம் உள்ளிட்ட 90 இலட்சம் ரூபாவுக்கும் அதிகமான சொத்துக்களை கொள்ளையடித்துள்ளதாக நுரைச்சோலை பொலிஸார் தெரிவித்துள்ளனர்.
-
-The robbery took place at the home of a tobacco and vegetable manufacturer in the Navakkadu area, police said.
-
-During the robbery, police said that the owner of the house, his wife, mother and three daughters were at home.
-
-Investigations have revealed that the robbery gang wearing a police uniform had entered the house claiming that they had come to investigate.
-
-◼️
-
-[Data](articles/bd89d09e.json)
-
-[Extended Data](ext_articles/bd89d09e.ext.json)
-
----
-
-### Ice emerged from a loamy in Battaramulla
-
-*2024-04-22 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195868) · `si`
-
-In Battaramulla, 5 suspects, including 2 women from Negombo and Katana, and 3 from Colombo and Embilipitiya, were arrested with 650 grams of ice. The Army Intelligence led the raid, and the suspects are now under Talangama Police investigation.
-
-🟩
-
-In a location of Battaramulla, 5 suspects have been arrested along with 650 grams of ice.
-
-It is reported that the value of the ice drug has been reported nearly Rs.
-
-There are two women among the arrested persons and they have revealed that they were residents of Negombo and Katana.
-
-The other three suspects have been revealed to residents of Colombo and Embilipitiya.
-
-The suspects have been arrested in a raid on a loamy in the area of Battaramulla on information received by the Army Intelligence.
-
-The suspects have been handed over to the Talangama Police for further investigations.
-
-◼️
-
-[Data](articles/96bd3151.json)
-
-[Extended Data](ext_articles/96bd3151.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 20:03:56**
+As of **2024-04-23 20:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,485** Articles*
+*Scraped **20,486** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 180
-bbccomsinhala | 213
+bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,481 (100.0%) of 20,485 articles have been extended.
+20,485 (100.0%) of 20,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Two weeks ago, at least 38 people, including children, died in another shipwreck
 
 [Data](articles/c2c6bd76.json)
 
+[Extended Data](ext_articles/c2c6bd76.ext.json)
+
 ---
 
 ### Court bars CEB employees’ protest march
@@ -66,6 +68,8 @@ The court order also prohibits the demonstration from obstructing vehicular move
 
 [Data](articles/3b6c5137.json)
 
+[Extended Data](ext_articles/3b6c5137.ext.json)
+
 ---
 
 ### UN rights chief ‘horrified’ by mass grave reports at Gaza hospitals
@@ -83,6 +87,8 @@ Palestinian authorities reported finding scores of bodies in mass graves at Nass
 ...
 
 [Data](articles/c6c8e47e.json)
+
+[Extended Data](ext_articles/c6c8e47e.ext.json)
 
 ---
 
@@ -1414,6 +1420,28 @@ One kilogram of ginger is sold for 3,000 rupees and 3,200. Thus, ginger is only 
 
 ---
 
+### ඊබ්‍රහිම් රයිසි: මැද පෙරදිග යුද උණුසුම මැද ඉරාන ජනපති ශ්‍රී ලංකාවට පැමිණෙන්නේ ඇයි ?
+
+*2024-04-23 13:02:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz6epqde7o) · `si`
+
+ඊබ්‍රහිම් රයිසි: මැද පෙරදිග යුද උණුසුම මැද ඉරාන ජනපති ශ්‍රී ලංකාවට පැමිණෙන්නේ ඇයි ?
+
+මැදපෙරදිග පවතින යුද උණුසුම මැද එහි ප්‍රබල පාර්ශවකරුවෙකු වන ඉරාන ඉස්ලාමීය ජනරජයේ  ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි හෙට (අප්‍රේල් මස 24 වෙනිදා) ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණීමට නියමිතව තිබේ.
+
+විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ ජනාධිපති රනිල් වික්‍රමසිංහගේ ආරාධනයකට අනුව ඉරාන ජනාධිපතිවරයා දිවයිනට පැමිණෙන බවය.
+
+දින 03ක නිල සංචාරයක් ආරම්භ කරමින් ඉරාන ජනාධිපතිවරයා මේවන විට පකිස්ථානයේ සංචාරයක නිරත වෙමින් සිටියි.
+
+ඉරාන ජනාධිපතිවරයා ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණෙන්නේ ඇමෙරිකානු මෙරීන් බලකා සාමාජිකයින් පිරිසක් ද ත්‍රිකුණාමලයට පැමිණ සිටින අවස්ථාවකදීය.
+
+ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි ශ්‍රී ලංකාවේ නිල සංචාරයක් සඳහා පැමිණෙන්නේ ද්වි පාර්ශ්වීය මුල්‍ය ආධාර මත  ඉදිකෙරුණු උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය විවෘත කිරීම සඳහා බව ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශය විසින් නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/aabf86f4.json)
+
+---
+
 ### Investors who buy SriLankan
 
 *2024-04-23 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195891) · `si`
@@ -2273,29 +2301,5 @@ Dr. Mohammed Salama, head of the neonatal emergency department of Raba's Emirate
 [Data](articles/d0e6785c.json)
 
 [Extended Data](ext_articles/d0e6785c.ext.json)
-
----
-
-### Sri Lanka single borrower limits cut to 25-pct of bank capital, SOEs also included
-
-*2024-04-23 08:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-single-borrower-limits-cut-to-25-pct-of-bank-capital-soes-also-included-159744/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued directions limiting loans to a singe borrower or a group of connected customers to 25 percent of Tier I capital, with state enterprises which turned out to be the biggest borrowers, also included.
-
-In a 2007 direction, banks were allowed to give loans up to 30 percent of capital for a single customer and 33 percent for a group but the rules were widely violated in the case of state enterprises, which were used as off-budget vehicles to give energy and other subsidies.
-
-Banks will have to limit exposures to 25 percent starting from January 2026.
-
-According to transitional provisions published in the direction seems to indicate that some banks may have single borrower exposures of 85 percent or more.
-
-They will be required to bring exposures down to 60 percent by 2027 and 25 percent by 2028.
-
-Energy utilities were made to borrow from state banks to run off-budget subsidies under plan avoid a price formula during the Rajapaksa regimes.
-
-...
-
-[Data](articles/c07a279c.json)
-
-[Extended Data](ext_articles/c07a279c.ext.json)
 
 ---

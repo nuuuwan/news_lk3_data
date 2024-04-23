@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 11:03:25**
+As of **2024-04-23 11:18:15**
 
 ## Newspaper Stats
 
-*Scraped **20,387** Articles*
+*Scraped **20,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,701
-tamilmirrorlk | 2,348
+tamilmirrorlk | 2,349
 adaderanalk | 2,434
 virakesarilk | 3,051
 dailymirrorlk | 3,173
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,306
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,385 (100.0%) of 20,387 articles have been extended.
+20,387 (100.0%) of 20,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### முச்சக்கர வண்டி மீது துப்பாக்கிச்சூடு - இருவர் மரணம்
+
+*2024-04-23 10:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-மீது-துப்பாக்கிச்சூடு-இருவர்-மரணம்/175-336223) · `ta`
+
+மொரகஹஹேன - மிரிஸ்வத்த பிரதேசத்தில் பொலிஸாரின் கட்டளையை மீறிச் சென்ற முச்சக்கர வண்டி மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டு சம்பவத்தின் போது முச்சக்கரவண்டிக்குள் இருந்த மற்றுமொரு நபர் அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/c7f54dfd.json)
+
+---
 
 ### Ten dead as two Navy helicopters collide mid-air in Malaysia
 
@@ -524,21 +538,27 @@ The police further states that another person in the three-wheeler was fled by t
 
 ---
 
-### අඩි 07යි අඟල් 02ක් උස ගුණසිංහම් ලංකාවේ උසම මිනිසා ද ?
+### Is the tallest man in Sri Lanka in seven feet and 2 inches tall Gunasingham?
 
 *2024-04-23 05:14:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx8q34zzvjgo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, මුලතිව්, කයිවේලි ගම්මානයේ ජීවත්වෙන ගුණසිංහම් කසේන්ද්‍රන්ගේ උස අඩි 07යි අඟල් 02කි.
+Gunasingham Kchendran, from Mullaitivu, claims to be 7 feet 2 inches tall, the tallest in Sri Lanka, and discusses facing challenges from a former LTTE member.
 
-මුලතිව් දිස්ත්‍රික්කයට අයත් පුදුකුඩිඉරිප්පු, කයිවේලි ගම්මානයේ ජීවත්වෙන ගුණසිංහම් කසේන්ද්‍රන්ගේ උස අඩි 07යි අඟල් 02කි.
+🟩
 
-ශ්‍රී ලංකාවේ උසම පුද්ගලයා තමන් බවට විශ්වාස කරන බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+There is no containing none of this. Gunasingham Kchera, Mullaitivu, Kayurala, Mullaitivu, Mullaitivu, Mullaitivu, Mullaitivu.
 
-හිටපු LTTE සාමාජිකයෙකු වූ ඔහු දෛනික කටයුතු සිදු කිරීමේ දී උස නිසා ඔහු මුහුණ දෙන තත්ත්වයන් සහ සමාජයෙන් ලැබෙන ප්‍රතිචාර ගැන ඔහු අදහස් පළ කළේය.
+Gunasingham Kchendran, who lives in the Mullaitivu, Kayuralai village, is 7 feet 2 feet 2 feet.
+
+He told the BBC Sinhala service that he believes that Sri Lanka is the tallest person in Sri Lanka.
+
+He commented on the circumstances and responses that he faces and respond by a former LTTE member.
 
 ◼️
 
 [Data](articles/4d58308d.json)
+
+[Extended Data](ext_articles/4d58308d.ext.json)
 
 ---
 
@@ -2086,21 +2106,29 @@ The government took measures to pay half of the salary paid to the retired peopl
 
 ---
 
-### පාර්ලිමේන්තුව හෙට සිට 26 දා තෙක් රැස්වෙයි
+### Parliament to meet tomorrow to tomorrow
 
 *2024-04-22 19:16:09* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-හෙට-සිට-26-දා-තෙක්-රැස්වෙයි/11-409213) · `si`
 
-මෙම සතියේ පාර්ලිමේන්තුව හෙට (24දා) සිට ලබන 26 වැනිදා දක්වා පැවැත්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.
+Parliament meets 24th-26th. Committee on Parliamentary Affairs decides to discuss Easter Sunday attack, Criminal Procedure (Amendment) Bill, and Opium and Dangers Ordinance. Adjournment Commission to meet on Passover Day. Motor Training Act, Product Tax (Special Provisions) Act, and Emigration Act debates scheduled. Adultery Adjournment Debate and Pahakara Sunday Adjournment Debate also announced.
 
-ඒ අනුව මෙම දින තුනේදී විපක්ෂය ගෙනෙන යෝජනාවකට අනුව පාස්කු ඉරුදින ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයක් පැවැත්වීමට මෙහිදී තීරණය වූ බව පාර්ලිමේන්තුවේ වැඩබලන මහ ලේකම් චමින්ද කුලරත්න මහතා පැවසීය.
+🟩
 
-හෙට(24දා) පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා අපරාධ නඩු විධාන සංග්‍රහය (සංශෝධන) පනත් කෙටුම්පත (දෙවන වර කියවීම) සහ විෂවර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතව ඇත.
+The Committee on Parliamentary Affairs has decided to hold the Parliament tomorrow (24th) to the 26th.
 
-අනතුරුව පෙ.ව 10.30 සිට පෙ.ව 5.30 දක්වා විරුද්ධ පාර්ශ්වය විසින් ‍ගෙනෙනු ලබන යෝජනාවකට අනුව පාස්කු ඉරු දින සිදුවූ ප්‍රහාරය සම්බන්ධ සභාව කල්තැබීමේ විවාදය පැවැත්වීමට ද මෙහිදී තීරණය වූ බව වැඩබලන මහලේකම්වරයා පැවසීය.
+According to the opposition proposal this three days, it is decided to promote the attack on the Easter attack on the Easter's Sunday attack.
+
+The Criminal Procedure (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Second Reading) and the Second Reading, Opium, and Dangers Ordinance.
+
+The Acting Secretary-General also decided to hold the post of Adjournage to the Adjournment Commission on the Passover Day on a proposal carried out from 10.30 am to 10 am.
+
+Announcements published in the Gazette No. 2364/35 posted in the Gazette, No. 2338/39 and 2352/29 under the Motor Training Act, April 25th to 10:00 pm.The approval is due to be debated under the Ordinary and the Informal and Emigration Act No. 2364/36 under the Product Tax (Special Provisions) Act.
 
 ...
 
 [Data](articles/cf644d0e.json)
+
+[Extended Data](ext_articles/cf644d0e.ext.json)
 
 ---
 
@@ -2123,31 +2151,5 @@ It is also reported that the bail demand by the President's Attorney General on 
 [Data](articles/e2ba4fa0.json)
 
 [Extended Data](ext_articles/e2ba4fa0.ext.json)
-
----
-
-### Israel military intelligence chief quits over 7 October
-
-*2024-04-22 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98780/israel-military-intelligence-chief-quits-over-7-october) · `en`
-
-The Israeli military’s intelligence chief has resigned, saying he took responsibility for the failures before Hamas’s attack on Israel on 7 October.
-
-The Israel Defense Forces (IDF) said Major General Aharon Haliva would retire once his successor was selected.
-
-He acknowledged in a letter that his intelligence directorate “did not live up to the task we were entrusted with”.
-
-He is the first senior figure to step down over the attack, which were the deadliest in Israel’s history.
-
-Israeli military and intelligence officials missed or ignored multiple warnings before hundreds of Hamas gunmen breached the Gaza border fence that day and attacked nearby Israeli communities, military bases and a music festival.
-
-About 1,200 Israelis and foreigners - mostly civilians - were killed and 253 others were taken back to Gaza as hostages, according to Israeli tallies.
-
-Israel responded by launching its most intense ever war in Gaza with the aims of destroying Hamas and freeing the hostages.
-
-...
-
-[Data](articles/4c4c0f46.json)
-
-[Extended Data](ext_articles/4c4c0f46.ext.json)
 
 ---

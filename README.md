@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 22:18:30**
+As of **2024-04-23 22:34:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,496 (100.0%) of 20,497 articles have been extended.
+20,497 (100.0%) of 20,497 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The All Island Professional Lecturers’ Association (APLA), established in 2004
 ...
 
 [Data](articles/8fd8292a.json)
+
+[Extended Data](ext_articles/8fd8292a.ext.json)
 
 ---
 

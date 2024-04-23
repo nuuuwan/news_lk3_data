@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 16:33:51**
+As of **2024-04-23 16:49:47**
 
 ## Newspaper Stats
 
-*Scraped **20,451** Articles*
+*Scraped **20,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 1,707
 tamilmirrorlk | 2,362
 adaderanalk | 2,441
 virakesarilk | 3,068
-dailymirrorlk | 3,181
-adaderanasinhalalk | 3,314
+dailymirrorlk | 3,184
+adaderanasinhalalk | 3,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,451 (100.0%) of 20,451 articles have been extended.
+20,451 (100.0%) of 20,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Fox Hill Journey පාටිය ගැන යුද හමුදාවෙන් නිවේදනයක්
+
+*2024-04-23 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195897) · `si`
+
+ෆොක්ස් හිල් බිහිසුණු අනතුරින් පසුව පැවති බවට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වූ Fox Hill Journey නම් DJ රාත්‍රිය සම්බන්ධයෙන් ශ්‍රී ලංකා යුද්ධ හමුදා මූලස්ථානය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනයෙන් දැක්වෙන්නේ මෙම DJ රාත්‍රිය සඳහා යුද්ධ හමුදාව කිසිදු ආකාරයකින් සම්බන්ධයක් නොමැති බවය.
+
+බණ්ඩාරවෙල පිහිටි හෝටලයක් මගින් Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර ඇති බවද එහි දැක්වෙයි.
+
+එසේම අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ Fox Hill සුපර් ක්‍රොස් තරගාවලිය නැරඹීම සඳහා පැමිණෙන ප්‍රේක්ෂකයින් ඉලක්ක කරගනිමින් එම Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර ඇති බවය.
+
+සමස්ථ යුද්ධ හමුදාව කම්පනයට පත්ව සිටින මොහොතක යුද්ධ හමුදාව හෝ ශ්‍රී ලංකා ඔටෝ මොබයිල් ක්‍රීඩා සංගමය අනුග්‍රහයකින් තොරව එම Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර තිබූ බවද එහි වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/473d6d77.json)
+
+---
+
+### Over 25 tons of gabage disposed of in Sri Pada for five months
+
+*2024-04-23 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-25-tons-of-gabage-disposed-of-in-Sri-Pada-for-five-months/108-281210) · `en`
+
+Hatton, April 23 (Daily Mirror)- More than 25 tons of gabage have been disposed of into the environment in the Sri Pada route from Nallathaniya for the last five months of the Sri Pada pilgrimage season.
+
+Envornment Promotion Officer of Maskeliiya Pradeshiya Sabha, Rasika Samaranayake said the stock of solid waste included about three tons of plastic bottles.
+
+She said the Environmental Unit of the Maskeliya Pradeshiya Sabha will be responsible for clearing gabage disposed of by the pilgrims during the six months of the Sri Pada pilgrim season
+
+The Environmental Officer pointed out that a heavy influx of pilgrims have been experienced on every weekends, particlularly during long weekend holidays and that the disposal of garbage including solid waste had increased.
+
+She said a team of labourers of the Pradeshiya Sabha had been deployed to collect and transport garbage to the recycling centre at Rikaton in Maskeliya.
+
+◼️
+
+[Data](articles/e0c48b04.json)
+
+---
+
+### More than one in five cars sold worldwide in 2024 will be electric
+
+*2024-04-23 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-one-in-five-cars-sold-worldwide-in-2024-will-be-electric/108-281209) · `en`
+
+More than one in five cars sold worldwide in 2024 will be electric vehicles (EV’s) according to the forecasts of the International Energy Agency (IEA).
+
+The agency’s latest report on the ‘Global Outlook for EV’s’ published today, found that global electric car sales are set to remain robust in 2024, reaching around 17 million by the end of the year.
+
+Moreover, the number of electric cars sold globally in the first three months of 2024 (Q1 2024) is roughly equivalent to the number sold in all of 2020, the report revealed.
+
+Last year, global electric car sales amounted to almost 14 million vehicles.
+
+“Substantial investment in the electric vehicle supply chain, the surging demand, ongoing policy support and declines in the price of EVs set to remake the global auto industry and significantly reduce oil consumption”, the IEA report stated.
+
+...
+
+[Data](articles/a3f1a963.json)
+
+---
 
 ### Court order to protest
 
@@ -249,6 +309,22 @@ In this case, the former members of the Colombo Municipal Council (I.). A.. Thes
 [Data](articles/9454de40.json)
 
 [Extended Data](ext_articles/9454de40.ext.json)
+
+---
+
+### Uma Oya project ready to be handed over to public tomorrow
+
+*2024-04-23 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-project-ready-to-be-handed-over-to-public-tomorrow/108-281207) · `en`
+
+Colombo, April 23 (Daily Mirror) - All arrangements have been made to hand over the Uma Oya Multi-Purpose Development Project to the public tomorrow (April 24), Irrigation, Wildlife and Forest Conservation Minister Pavitra Wanniarachchi said following a recent visit to inspect the project.
+
+The Uma Oya Multi-Purpose Development Project is set to be handed over to the public with the patronage of President Ranil Wickremesinghe and President of the Islamic Republic of Iran Ebrahim Raisi.
+
+The project was officially launched in 2010, with an estimated cost of USD 514 million.
+
+◼️
+
+[Data](articles/c1c45d89.json)
 
 ---
 
@@ -2237,103 +2313,5 @@ It is also noteworthy that the homes of public servants were being mocked by the
 [Data](articles/b6e0c0c4.json)
 
 [Extended Data](ext_articles/b6e0c0c4.ext.json)
-
----
-
-### International report to the police for nudgeto photos of children in Sri Lanka
-
-*2024-04-23 02:05:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d4g27nez7o) · `si`
-
-Sri Lanka's efforts to combat child pornography have led to increased reports and international attention. The Police Children's and Women's Abuse Prevention Bureau has received a significant number of complaints, with a notable increase in 2022 and 2023. The NCMEC database plays a crucial role in identifying and reporting such crimes. The National Child Protection Authority is working on preventing sexual abuse through education and has established a video evidence center.
-
-🟩
-
-International report to the police for nudgeto photos of children in Sri Lanka
-
-Sri Lanka several times in Google Internet search became the country in the world.
-
-Talking about sex is still a secret in the country and the efforts to join the school curriculum had to have acted in the middle of a religious corporations.
-
-One policy reasonable as a policy stated by the present government was the prevention of children and women to prevent the internet crimes.
-
-Such a backdrop has increased to BBC Sinhala that complaints of children involving children, or children's publications, or video complaints have increased.
-
-Can parents, teachers post the photos of their children in social media?
-
-The Police Children's and Women's Abuse Prevention Bureau revealed that only 10 children involved in child pornography.
-
-The number of complaints have increased compared to two years in relation to these incidents and has received 13 and 20 complaints in 2022 and 2023.
-
-...
-
-[Data](articles/c47c5736.json)
-
-[Extended Data](ext_articles/c47c5736.ext.json)
-
----
-
-### Having Fox Hill race on Easter Attack anniversary day was unintentional: Army
-
-*2024-04-23 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Having-Fox-Hill-race-on-Easter-Attack-anniversary-day-was-unintentional-Army/108-281194) · `en`
-
-Colombo, April 23 (Daily Mirror) - Sri Lanka Army yesterday said organising the Fox Hill Super Cross race on April 21st when the fifth Easter Attack commemoration was taking place in the country was unintentional, as heavy public criticism was underway for holding the event on a day of public mourning.
-
-Public criticism is currently underway through various dialogues on social media presently about the date selected by the race organisers to hold it on April 21st, the day of the Easter Bombings which took place in 2019 and also the same day the last motor race was held and stopped on the way as a result of the terrorist attacks.
-
-Criticism is also charged towards an after-event organised in line with the races with DJ music at a location in Bandarawela that was held on Sunday night amidst the unfortunate accident at the races which left seven spectators killed and 30 others injured.
-
-...
-
-[Data](articles/3b1e6c62.json)
-
-[Extended Data](ext_articles/3b1e6c62.ext.json)
-
----
-
-### COPE Group Call for 5 State Institutions
-
-*2024-04-23 01:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-அரச-நிறுவனங்களுக்கு-கோப்-குழு-அழைப்பு/175-336222) · `ta`
-
-COPE Group Call for 5 State Institutions: Leaders of Sri Lanka Service Company, University Grants Commission, Sri Lanka Broadcasting Corporation, National Business Management Institute, and Mahabola High Education Scholarship Fund summoned to COPE this week. President of Sri Lanka Airlines Institute called on 26th.
-
-🟩
-
-The leaders of 5 state agencies, including the Sri Lanka Service Company, have been summoned to the Committee of State Responsibility Tastes (COP) this week.
-
-The leaders of the University Grants Commission, the Sri Lanka Broadcasting Corporation, the National Business Management Institute and the Mahabola High Education Scholarship Fund have been summoned to the committee.
-
-It. Leaders of the President of the Sri Lanka Broadcasting Corporation, the University Grants Commission, the National Business Management Institute and the Mahabola Higher Education Fund have been invited to the State Responsibility Committee on the 25th of this month and the President of the Sri Lanka Airlines Institute will be called Cobb on the 26th of this month..(a)
-
-◼️
-
-[Data](articles/4408dbf2.json)
-
-[Extended Data](ext_articles/4408dbf2.ext.json)
-
----
-
-### President meets with Mahanayaka Thera
-
-*2024-04-23 01:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்களுடன்-ஜனாதிபதி-சந்திப்பு/175-336221) · `ta`
-
-President Ranil Wickremesinghe met Maha Nayaka Thera of Malwathu and Asgiri, received blessings, and discussed with Sri Sumangala Maha Nayaka Thera and Sri Gnanaradana Thera.
-
-🟩
-
-President Ranil Wickremesinghe met the Maha Nayaka Thera of the Malwathu and Asgiri Faculty and received the blessings.
-
-President Ranil Wickremesinghe, who first visited the Malwathu Maha Vihara, had a brief discussion after receiving the blessings of Sri Sumangala Maha Nayaka Thera, Malwathu Peeta Maha Nayaka, Tippattuwawe.
-
-The meeting was attended by the Malwathu Peetha Anunayaka Vanayaka, Thimbulkumbure Wimalathama Thera and he recited and blessed the president.
-
-President Ranil Wickremesinghe, who visited the Asgiri Maha Vihara, met with Sri Gnanaradana Thera, Asgiri Petta Mahanayaka Varakagoda.
-
-The Maha Sangha led by Dammaratana Thera, the Vidyapati of the Elder Rajamaha Vihara, recited the President and blessed the President.. (A)
-
-◼️
-
-[Data](articles/3446f9ed.json)
-
-[Extended Data](ext_articles/3446f9ed.ext.json)
 
 ---

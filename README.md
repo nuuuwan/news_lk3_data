@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 07:18:01**
+As of **2024-04-23 07:42:47**
 
 ## Newspaper Stats
 
-*Scraped **20,355** Articles*
+*Scraped **20,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
 tamilmirrorlk | 2,345
-adaderanalk | 2,428
+adaderanalk | 2,430
 virakesarilk | 3,041
 dailymirrorlk | 3,169
 adaderanasinhalalk | 3,302
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,302
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,340 (99.9%) of 20,355 articles have been extended.
+20,353 (100.0%) of 20,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### මහා රන් භාණ්ඩ කොල්ලය - මුල්‍ය ආයතනයේම දෙන්නෙක් අත්අඩංගුවට
+### Great gold looting - two arrested in financial institution
 
 *2024-04-23 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195883) · `si`
 
-කලවාන නගරයේ පිහිටි පුද්ගලික මූල්‍ය ආයතනයක් බිඳ රන්භාණ්ඩ සොරකම් කළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects arrested for breaking into a financial institution in Kalawana. Arrested were a sales officer and a gold officer. The suspects are aged 26 to 33. The company's manager filed a complaint.
 
-ඊයේ (22) ඔවුන් අත්අඩංගුවට ගෙන ඇති අතර එසේ අත්අඩංගුවට ගෙන අත්තේ, එම ආයතනයේම අලෙවි නිලධාරියෙකු හා රන් භාණ්ඩ අංශය භාර නිලධාරියෙකි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් කලවාන ප්‍රදේශයේ පදිංචි අවුරුදු 26ත් 33ත් අතර වයස්වල පසුව පුද්ගලයින් දෙදෙනෙක් බව පොලීසිය පවසයි.
+Two suspects have been arrested for breaking a private financial institution in Kalawana town.
 
-මූල්‍ය ආයතනයේ තිබූ රු 68,978,357ක් වටිනා මාල, මුදු, වළලු, බේස්ලට්, කරාබු, පෙන්ඩන් ඇතුළු රන් භාණ්ඩ කිලෝ 03 ග්‍රෑම් 770ක් හා කැමරා පද්ධතියේ ඩෙකෝඩරය සොරාගෙන ගොස් ඇති බවට එම ආයතනයේ වැඩබලන කලමණාකරු විසින් කලවාන පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර තිබුණි.
+They were arrested yesterday (22) and the arrest was a sales officer and a gold officer in charge of the Range.
+
+The suspects are two and 33 people aged 26 to 33 years in Kalawana, police said.
+
+The acting manager of the company had commenced a complaint from the Kalawana Police Station, including Rs.
 
 ◼️
 
 [Data](articles/7809f03e.json)
+
+[Extended Data](ext_articles/7809f03e.ext.json)
 
 ---
 
@@ -64,45 +70,81 @@ They said another person who was inside the three-wheeler at the time of the sho
 
 [Data](articles/cb357762.json)
 
+[Extended Data](ext_articles/cb357762.ext.json)
+
 ---
 
-### බක් පුර පසළොස්වක පොහොය අදයි
+### Evening thundershowers anticipated in five provinces today
+
+*2024-04-23 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98786/evening-thundershowers-anticipated-in-five-provinces-today) · `en`
+
+Showers or thundershowers are anticipated in parts of the Western, Sabaragamuwa, Central, Uva and North-western provinces and Galle and Matara districts after 2.00 p.m., the Meteorology Department says.
+
+Showers or thundershowers may occur at a few places in North-central and Northern provinces in the afternoon or at night.
+
+Showers or thundershowers will occur over the coastal areas of Puttalam to Galle via Colombo in the morning.
+
+Fairly heavy showers of about 75 mm are likely at some places in the Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Ampara district during the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/509c0e73.json)
+
+---
+
+### Buck Pills Poya today
 
 *2024-04-23 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195882) · `si`
 
-ශාසන ඉතිහාසයේ සුවිශේෂී සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස බක්පුර පසළොස්වක පොහොය දිනය සැලකේ.
+Bakpura Poya Day marks significant events in Sasana history, including Buddha's second journey to Lanka and the resolution of a king's dispute. It also features the first appearance of Prince Siddhartha's old man in a dream and a live broadcast from Giriulla Rajamaha Viharaya.
 
-බුදුරජාණන් වහන්සේගේ දෙවන ලංකා ගමනය සිදුවුයේ ද අද වැනි පොහොය දිනයක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+🟩
 
-චූලෝදර මහෝදර යන නා රජුන් දෙදෙනා අතර ඇතිවූ ගැටුම සමථයකට පත්කිරීම සඳහා බුදුරජාණන් වහන්සේ බක්පුර පසළොස්වක පොහොය දිනයක නාගදීපයට වැඩම කරනු ලැබීය.
+The Bakpura Poya Day is considered as a day of unique events in the history of the Sasana.
 
-එහිදී සිදුවූ තවත් වැදගත් සිදුවීමක් වනුයේ මහෝදර නාරජුගේ සහායට පැමිණි ඔහුගේ මයිලනුවන් වන මනිඅක්ඛිත නා රජු විසින් බුදුරජාණන් වහන්සේට කැලණිය වෙත වඩින මෙන් ආරාධනා කළේ ද අද වැනි පොහොය දිනයක බව වාර්තා වේ.
+The history of the Sasana states that the second Lanka journey of the Buddha was on today's day.
 
-සිදුහත් කුමරු සතර පෙර නිමිතිවලින් පළමු පෙර නිමිත්ත වන මහල්ලාගේ රුව දැක තිබුණේ ද බක්පුර පසළොස්වක පොහොය දිනයක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+The Supreme Buddha was opened to the Nagadeepa on a Bakpura Fifteen Poya Day to resolve the clash between the two kings.
 
-අලුත් අවුරුදු සමයෙන් එළඹෙන පළමු පස‍ළොස්වක පොහොය දිනය වන බක්පුර පසළොස්වක පොහොය දිනය වෙනුවෙන් අද උදෑසන සිට දිවයිනේ විවිධ වෙහෙර විහාරස්ථානවල ආමිස සහ ප්‍රතිපත්ති පූජා රැසක් සංවිධානය කර ඇති බව වාර්තා වේ.
+Another important event was the king of Milanuwan, Manivuan, Manivuan, Manivuan, who was invited to the Buddha to Kelaniya today, as the Buddha.
 
-මේ අතර එෆ්.එම් දෙරණ බක් පෝදා සජීවී විකාශය අද දිනයේ ගිරිඋල්ල ඵෛතිහාසික ශ්‍රී සුන්දරාරාම රජමහා විහාරස්ථානයේ සිට ගෙනඑනු ලබයි.
+The first of the first-time old man in the forecast of Prince Siddhartha was seen in the history of the Bakepura Poya Day.
+
+It is reported that several policy sacrifices have been organized for the first robbery Bukeep, Bakpura, the first fifteen year.
+
+Meanwhile, the live whip of FM Derana Bak is brought from Giriulla Rajamaha Viharaya today.
 
 ◼️
 
 [Data](articles/9138911b.json)
 
+[Extended Data](ext_articles/9138911b.ext.json)
+
 ---
 
-### තායිවානයේ භූ කම්පනයක්
+### An earthquake of Taiwan
 
 *2024-04-23 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195881) · `si`
 
-ඊයේ (22) රාත්‍රී රික්ටර් මාපකයේ ඒකක 6.3ක ප්‍රබලත්වයකින් යුතුව එම භූ කම්පනයක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+A 6.3 magnitude earthquake struck Taiwan yesterday, affecting Taipei and damaging buildings. No specific damage details are reported.
 
-මෙම භූකම්පනය තායිපේ අගනුවරට ද දැනී ඇති අතර ගොඩනැගිලි රැසක් සෙලවීමට ලක්ව ඇති බව සඳහන්ය.
+🟩
 
-කෙසේවෙතත් භූ කම්පනයක් සිදුව ඇති හානිය පිළිබඳ මෙතෙක් අනාවරණය වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the earthquake has taken place with 6.3 units of the Richter's thumb yesterday (22).
+
+The earthquake has also felt the capital of Taipei and many buildings have been shapped.
+
+However, foreign media reports that there is no revelation of the damage caused to the earthquake.
 
 ◼️
 
 [Data](articles/443c4c75.json)
+
+[Extended Data](ext_articles/443c4c75.ext.json)
 
 ---
 
@@ -119,6 +161,24 @@ The NPP requested the SJB to promptly inform them if they do not agree to the de
 ◼️
 
 [Data](articles/29ca18ed.json)
+
+[Extended Data](ext_articles/29ca18ed.ext.json)
+
+---
+
+### Police open fire at defiant three-wheeler; two people dead
+
+*2024-04-23 06:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98785/police-open-fire-at-defiant-three-wheeler-two-people-dead) · `en`
+
+Two individuals have died after the police opened fire at a three-wheeler that failed to comply with the orders to pull over.
+
+The incident took place near the tyre factory in Moragahahena.
+
+Another individual who was inside the vehicle at the time has meanwhile escaped.
+
+◼️
+
+[Data](articles/9b264125.json)
 
 ---
 
@@ -144,39 +204,51 @@ It is common knowledge that licences for opening liquor shops are issued under p
 
 ---
 
-### පළාත් කිහිපයකට සවසට වැසි
+### Showers at several places
 
 *2024-04-23 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195880) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Sabaragamuwa, Central, Uva, and North Western Provinces, including coastal areas from Puttalam to Galle. About 75 showers tightly packed. Morning showers in some places. Public advised to reduce risks from wind and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරුමැද සහ උතුරු පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-පුත්තලම සිට කොළඹ හරහා ගාල්ල දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+The Galle and Matara districts have been in the Western, Sabaragamuwa, Central, Uva and North Western Provinces today (23).. Showers or thundershowers will occur at several places, after about 2.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇති වේ.
+Showers or thundershowers will occur at several places in the evening or night in the evening or night in the North Central and Northern provinces.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Showers or thundershowers will occur at several places in the coastal areas from Puttalam to Galle.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. There are about 75 times tight showers.
+
+The Department of Meteorology announces that the Sabaragamuwa, Central and Uva provinces can last a morning in some places in some places.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/8570915e.json)
 
+[Extended Data](ext_articles/8570915e.ext.json)
+
 ---
 
-### මොරගහහේනේ වෙඩිතැබීමක්
+### Moragahahena shooting
 
 *2024-04-23 05:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195879) · `si`
 
-මොරගහහේන ප්‍රදේශයේදී අණ නොතකා ධාවනය කළ ත්‍රිරෝද රථයකට පොලීසිය සිදුකළ වෙඩිතැබීමකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+In Moragahahena, police killed two in a shooting, with a third fleeing in a three-wheeler.
 
-පොලීසිය වැඩිදුරටත් පවසන්නේ වෙඩිතැබීම සිදුවන අවස්ථාවේ ත්‍රිරෝද රථය තුළ සිටි තවත් පුද්ගලයෙකු ඉන් පළාගොස් ඇති බවය.
+🟩
+
+Two persons were killed in a shooting carried out by the police in the Moragahahena area.
+
+The police further states that another person in the three-wheeler was fled by the police.
 
 ◼️
 
 [Data](articles/3659624e.json)
+
+[Extended Data](ext_articles/3659624e.ext.json)
 
 ---
 
@@ -193,6 +265,8 @@ As investigations into the incident unfold, law enforcement agencies are activel
 ◼️
 
 [Data](articles/add7c119.json)
+
+[Extended Data](ext_articles/add7c119.ext.json)
 
 ---
 
@@ -214,21 +288,27 @@ Criticism is also charged towards an after-event organised in line with the race
 
 ---
 
-### சஜித்துடன் விவாதம்: திகதிகளை வழங்கினார் அனுர
+### Discussion with Sajith: Anura presented dates
 
 *2024-04-23 01:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-விவாதம்-திகதிகளை-வழங்கினார்-அனுர/175-336219) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச   மற்றும் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க ஆகியோருக்கு இடையில் நடைபெறவுள்ள விவாதத்திற்கான திகதிகளை தேசிய மக்கள் சக்தி  அறிவித்துள்ளது.
+"Anura Kumara Dissanayake and Sajith Premadasa will debate on May 7, 9, 13, and 14. The National People's Power is ready and will provide details including time, location, and broadcast after selecting a date."
 
-அது தொடர்பில் ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவிற்கு தேசிய மக்கள் சக்தி கடிதமொன்றை அனுப்பியது.
+🟩
 
-அதற்கமைய மே மாதம் 7, 9, 13 ஆம் மற்றும் 14 ஆம் திகதிகளில் விவாதத்தை நடத்துவதற்கு தயாராக இருப்பதாக தேசிய மக்கள் சக்தி தெரிவித்துள்ளது.
+The National People's Power has announced the date for the debate between United People's Power Leader Sajith Premadasa and the National People's Power Leader Anura Kumara Dissanayake.
 
-திகதியை தெரிவு செய்ததன் பின்னர் நேரம், விவாதத்திற்கான காலப்பகுதி, இடம் மற்றும் விவாதம் ஒளிபரப்பாகும் தொலைக்காட்சி என்பன தொடர்பில் தீர்மானிக்க முடியும் என தேசிய மக்கள் சக்தி அனுப்பியுள்ள கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது. (a)
+In this regard, United People's Power General Secretary Ranjith Mathuma Bandara sent a letter to the National People's Power.
+
+Accordingly, the National People's Power said it was ready to hold a debate on May 7, 9, 13 and 14.
+
+In a letter sent by the National People's Power, the time, the time for the debate, the location and the television broadcast after the selection of the date.. (A)
 
 ◼️
 
 [Data](articles/8f3b5f3b.json)
+
+[Extended Data](ext_articles/8f3b5f3b.ext.json)
 
 ---
 
@@ -609,6 +689,8 @@ The RfQs will be evaluated as per the Special Guidelines on Divestiture of State
 ...
 
 [Data](articles/b0dc1062.json)
+
+[Extended Data](ext_articles/b0dc1062.ext.json)
 
 ---
 
@@ -2049,55 +2131,5 @@ The trio thanked Marine Police for rescuing themselves for not being warm.. Furt
 [Data](articles/ec453574.json)
 
 [Extended Data](ext_articles/ec453574.ext.json)
-
----
-
-### Three Sri Lankan refugees, including boy, have refuge in Tamil Nadu
-
-*2024-04-22 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181675) · `ta`
-
-Three Sri Lankan refugees, including a boy, sought shelter in Tamil Nadu's fifth sand, rescued by Marine Police due to heat.
-
-🟩
-
-Three Sri Lankan refugees, including a boy from Sri Lanka, have taken shelter in Tamil Nadu this morning.
-
-Fishermen who went to fish in the area have informed the police that three persons, including a boy from the Sri Lankan Batticaloa area, have taken refuge in the next fifth sand.
-
-Subsequently, Marine Police took action and rescued the Sri Lankan refugees who sought refuge in the fifth sand fleet, unable to bear the heat in the sun.
-
-The refugees who were unable to bear the warmth have thanked Marine Police.
-
-◼️
-
-[Data](articles/3765cf7e.json)
-
-[Extended Data](ext_articles/3765cf7e.ext.json)
-
----
-
-### Israel's military intelligence unit resigns
-
-*2024-04-22 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181674) · `ta`
-
-Major General Agaron Haliva, head of Israeli Military Intelligence, resigned due to failure to prevent the Hamas attack on October 7th, marking the first high-ranking officer resignation since the attack.
-
-🟩
-
-The head of the Israeli Military Intelligence Unit has resigned from his post in connection with the attack on Israel on the seventh of October.
-
-Major General Agaron Haliva, head of Israeli Military Intelligence Unit, said he would resign from his post, including failing to find out the Hamas attack.
-
-In his letter of resignation, he accepted that our intelligence unit did not function as much as we could fulfill our responsibility.
-
-He is the first high -ranking officer of Israel, who resigned on the seventh of October.
-
-It is noteworthy that the Israeli military and the intelligence agencies have missed several precautions.
-
-◼️
-
-[Data](articles/4a842872.json)
-
-[Extended Data](ext_articles/4a842872.ext.json)
 
 ---

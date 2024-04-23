@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 12:34:28**
+As of **2024-04-23 12:51:03**
 
 ## Newspaper Stats
 
-*Scraped **20,410** Articles*
+*Scraped **20,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
 tamilmirrorlk | 2,354
-adaderanalk | 2,436
+adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,175
 adaderanasinhalalk | 3,308
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,410 (100.0%) of 20,410 articles have been extended.
+20,410 (100.0%) of 20,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### UK parliament approves Rwanda deportation bill, ending weeks of legislative stalemate
+
+*2024-04-23 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98792/uk-parliament-approves-rwanda-deportation-bill-ending-weeks-of-legislative-stalemate) · `en`
+
+British Prime Minister Rishi Sunak ‘s latest effort to send some migrants to Rwanda finally won approval from Parliament early Tuesday, hours after he pledged deportation flights would begin in July.
+
+The parliamentary logjam that had stalled the legislation for two months was finally broken just after midnight when the unelected House of Lords “recognized the primacy” of the elected House of Commons and dropped the last of its proposed amendments, clearing the way for the bill to become law.
+
+Earlier in the day, Sunak held a rare morning press conference to demand that the Lords stop blocking his key proposal for ending the tide of migrants crossing the English Channel in small boats, promising that both houses of Parliament would remain in session until it was approved.
+
+...
+
+[Data](articles/97401602.json)
+
+---
 
 ### Police robbery in search of Valamburi
 
@@ -2165,31 +2181,5 @@ Bharathiraja, Natti, Rio Raj, Sandy, Suresh MenonAntony, Namo Narayanan, Vijith,
 [Data](articles/0b259339.json)
 
 [Extended Data](ext_articles/0b259339.ext.json)
-
----
-
-### Did you know about these pyramids and inputs?
-
-*2024-04-22 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195878) · `si`
-
-The Central Bank of Sri Lanka has identified eight institutions in pyramid schemes, including beecoin App, Sunbird Foundation, and others, and requested legal action.
-
-🟩
-
-The Central Bank of Sri Lanka has issued an announcement on other eight institutions and applications identified in pyramidara activities.
-
-The Central Bank said that the Attorney General has requested the law to implement the law regarding the relevant institutions.
-
-The Central Bank of Sri Lanka (SLTB) has been identified in investigations by investigating the complaints made by the complaints received by the complaints received by the Central Bank Act.
-
-Under it, the beecoin App / Sunbird Foundation, Fruugo Olynational Pvt Ltd, Ledger Block, Qnet / QuestNet and Ride to th ree freedom pvt ltdThe statement has received information that the pyramidage has been carried out in violation of sections of the Central Bank of Act.
-
-The Central Bank of Sri Lanka (SLTB) has sent demands to the Attorney General
-
-◼️
-
-[Data](articles/dd280c83.json)
-
-[Extended Data](ext_articles/dd280c83.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 06:56:27**
+As of **2024-04-23 07:18:01**
 
 ## Newspaper Stats
 
-*Scraped **20,345** Articles*
+*Scraped **20,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,698
-tamilmirrorlk | 2,344
+tamilmirrorlk | 2,345
 adaderanalk | 2,428
 virakesarilk | 3,041
-dailymirrorlk | 3,165
-adaderanasinhalalk | 3,297
+dailymirrorlk | 3,169
+adaderanasinhalalk | 3,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,332 (99.9%) of 20,345 articles have been extended.
+20,340 (99.9%) of 20,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### මහා රන් භාණ්ඩ කොල්ලය - මුල්‍ය ආයතනයේම දෙන්නෙක් අත්අඩංගුවට
+
+*2024-04-23 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195883) · `si`
+
+කලවාන නගරයේ පිහිටි පුද්ගලික මූල්‍ය ආයතනයක් බිඳ රන්භාණ්ඩ සොරකම් කළ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (22) ඔවුන් අත්අඩංගුවට ගෙන ඇති අතර එසේ අත්අඩංගුවට ගෙන අත්තේ, එම ආයතනයේම අලෙවි නිලධාරියෙකු හා රන් භාණ්ඩ අංශය භාර නිලධාරියෙකි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් කලවාන ප්‍රදේශයේ පදිංචි අවුරුදු 26ත් 33ත් අතර වයස්වල පසුව පුද්ගලයින් දෙදෙනෙක් බව පොලීසිය පවසයි.
+
+මූල්‍ය ආයතනයේ තිබූ රු 68,978,357ක් වටිනා මාල, මුදු, වළලු, බේස්ලට්, කරාබු, පෙන්ඩන් ඇතුළු රන් භාණ්ඩ කිලෝ 03 ග්‍රෑම් 770ක් හා කැමරා පද්ධතියේ ඩෙකෝඩරය සොරාගෙන ගොස් ඇති බවට එම ආයතනයේ වැඩබලන කලමණාකරු විසින් කලවාන පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර තිබුණි.
+
+◼️
+
+[Data](articles/7809f03e.json)
+
+---
+
+### Twi killed in police shooting at Moragahahena
+
+*2024-04-23 06:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twi-killed-in-police-shooting-at-Moragahahena/108-281198) · `en`
+
+Two persons have died after police fired at a three-wheeler that was driving in defiance of orders to halt at Millawa in Moragahahena.
+
+Police said the shooting took place near the Moragahahena tyre factory.
+
+They said another person who was inside the three-wheeler at the time of the shooting had fled.na
+
+◼️
+
+[Data](articles/cb357762.json)
+
+---
+
+### බක් පුර පසළොස්වක පොහොය අදයි
+
+*2024-04-23 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195882) · `si`
+
+ශාසන ඉතිහාසයේ සුවිශේෂී සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස බක්පුර පසළොස්වක පොහොය දිනය සැලකේ.
+
+බුදුරජාණන් වහන්සේගේ දෙවන ලංකා ගමනය සිදුවුයේ ද අද වැනි පොහොය දිනයක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+චූලෝදර මහෝදර යන නා රජුන් දෙදෙනා අතර ඇතිවූ ගැටුම සමථයකට පත්කිරීම සඳහා බුදුරජාණන් වහන්සේ බක්පුර පසළොස්වක පොහොය දිනයක නාගදීපයට වැඩම කරනු ලැබීය.
+
+එහිදී සිදුවූ තවත් වැදගත් සිදුවීමක් වනුයේ මහෝදර නාරජුගේ සහායට පැමිණි ඔහුගේ මයිලනුවන් වන මනිඅක්ඛිත නා රජු විසින් බුදුරජාණන් වහන්සේට කැලණිය වෙත වඩින මෙන් ආරාධනා කළේ ද අද වැනි පොහොය දිනයක බව වාර්තා වේ.
+
+සිදුහත් කුමරු සතර පෙර නිමිතිවලින් පළමු පෙර නිමිත්ත වන මහල්ලාගේ රුව දැක තිබුණේ ද බක්පුර පසළොස්වක පොහොය දිනයක බව ශාසන ඉතිහාසයේ සඳහන් වේ.
+
+අලුත් අවුරුදු සමයෙන් එළඹෙන පළමු පස‍ළොස්වක පොහොය දිනය වන බක්පුර පසළොස්වක පොහොය දිනය වෙනුවෙන් අද උදෑසන සිට දිවයිනේ විවිධ වෙහෙර විහාරස්ථානවල ආමිස සහ ප්‍රතිපත්ති පූජා රැසක් සංවිධානය කර ඇති බව වාර්තා වේ.
+
+මේ අතර එෆ්.එම් දෙරණ බක් පෝදා සජීවී විකාශය අද දිනයේ ගිරිඋල්ල ඵෛතිහාසික ශ්‍රී සුන්දරාරාම රජමහා විහාරස්ථානයේ සිට ගෙනඑනු ලබයි.
+
+◼️
+
+[Data](articles/9138911b.json)
+
+---
+
+### තායිවානයේ භූ කම්පනයක්
+
+*2024-04-23 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195881) · `si`
+
+ඊයේ (22) රාත්‍රී රික්ටර් මාපකයේ ඒකක 6.3ක ප්‍රබලත්වයකින් යුතුව එම භූ කම්පනයක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මෙම භූකම්පනය තායිපේ අගනුවරට ද දැනී ඇති අතර ගොඩනැගිලි රැසක් සෙලවීමට ලක්ව ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් භූ කම්පනයක් සිදුව ඇති හානිය පිළිබඳ මෙතෙක් අනාවරණය වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/443c4c75.json)
+
+---
+
+### Anura Kumara gives date for debate with Sajith
+
+*2024-04-23 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-gives-date-for-debate-with-Sajith/108-281197) · `en`
+
+The National People's Power (NPP) has officially notified the Samagi Jana Balawegaya (SJB) yesterday that they are prepared to hold the proposed debate between NPP leader Anura Kumara Dissanayake and SJB leader Sajith Premadasa on one of the following days: May 7, 9, 13, or 14.
+
+In a letter sent by NPP executive member Dr. Nalinda Jayatissa, to SJB General Secretary Ranjith Madduma bandara yesterday afternoon, it was emphasized that without a set date for the debate, misunderstandings may arise among the public.
+
+The NPP requested the SJB to promptly inform them if they do not agree to the debate.
+
+◼️
+
+[Data](articles/29ca18ed.json)
+
+---
 
 ### SJB, SLPP MPs broker liquor licences for cronies
 
@@ -50,6 +140,60 @@ It is common knowledge that licences for opening liquor shops are issued under p
 
 [Data](articles/4146b2a8.json)
 
+[Extended Data](ext_articles/4146b2a8.ext.json)
+
+---
+
+### පළාත් කිහිපයකට සවසට වැසි
+
+*2024-04-23 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195880) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරුමැද සහ උතුරු පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+පුත්තලම සිට කොළඹ හරහා ගාල්ල දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇති වේ.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/8570915e.json)
+
+---
+
+### මොරගහහේනේ වෙඩිතැබීමක්
+
+*2024-04-23 05:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195879) · `si`
+
+මොරගහහේන ප්‍රදේශයේදී අණ නොතකා ධාවනය කළ ත්‍රිරෝද රථයකට පොලීසිය සිදුකළ වෙඩිතැබීමකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය වැඩිදුරටත් පවසන්නේ වෙඩිතැබීම සිදුවන අවස්ථාවේ ත්‍රිරෝද රථය තුළ සිටි තවත් පුද්ගලයෙකු ඉන් පළාගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/3659624e.json)
+
+---
+
+### Impersonators in Police attire loot Norochcholai home of Rs. 8Mn, 40 Gold sovereigns
+
+*2024-04-23 04:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Impersonators-in-Police-attire-loot-Norochcholai-home-of-Rs-8Mn-40-Gold-sovereigns/108-281196) · `en`
+
+In an alarming incident, a gang of three individuals disguised in authentic police attire perpetrated a robbery in Norochcholai, Kalpitiya yesterday, leaving residents shaken and authorities on high alert. According to police reports, the culprits made away with a staggering sum of Rs. 8 million in cash along with gold items weighing approximately 40 sovereigns.
+
+The unsuspecting victims recounted the harrowing experience, revealing that the perpetrators gained entry to their residence under the pretence of conducting a search for a purportedly valuable item known as Valampuri. Upon gaining access, the impostors purportedly bound the hands and legs of the primary occupant, instilling fear among other residents with threats of grave harm.
+
+As investigations into the incident unfold, law enforcement agencies are actively pursuing leads to apprehend the suspects and recover the stolen assets.
+
+◼️
+
+[Data](articles/add7c119.json)
+
 ---
 
 ### Having Fox Hill race on Easter Attack anniversary day was unintentional: Army
@@ -65,6 +209,26 @@ Criticism is also charged towards an after-event organised in line with the race
 ...
 
 [Data](articles/3b1e6c62.json)
+
+[Extended Data](ext_articles/3b1e6c62.ext.json)
+
+---
+
+### சஜித்துடன் விவாதம்: திகதிகளை வழங்கினார் அனுர
+
+*2024-04-23 01:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-விவாதம்-திகதிகளை-வழங்கினார்-அனுர/175-336219) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச   மற்றும் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க ஆகியோருக்கு இடையில் நடைபெறவுள்ள விவாதத்திற்கான திகதிகளை தேசிய மக்கள் சக்தி  அறிவித்துள்ளது.
+
+அது தொடர்பில் ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவிற்கு தேசிய மக்கள் சக்தி கடிதமொன்றை அனுப்பியது.
+
+அதற்கமைய மே மாதம் 7, 9, 13 ஆம் மற்றும் 14 ஆம் திகதிகளில் விவாதத்தை நடத்துவதற்கு தயாராக இருப்பதாக தேசிய மக்கள் சக்தி தெரிவித்துள்ளது.
+
+திகதியை தெரிவு செய்ததன் பின்னர் நேரம், விவாதத்திற்கான காலப்பகுதி, இடம் மற்றும் விவாதம் ஒளிபரப்பாகும் தொலைக்காட்சி என்பன தொடர்பில் தீர்மானிக்க முடியும் என தேசிய மக்கள் சக்தி அனுப்பியுள்ள கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/8f3b5f3b.json)
 
 ---
 
@@ -430,6 +594,24 @@ The Leader of the Opposition is the Prime Minister-in waiting in a Westminster f
 
 ---
 
+### Six suitors in the running for SriLankan Airlines
+
+*2024-04-23 00:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-suitors-in-the-running-for-SriLankan-Airlines/108-281184) · `en`
+
+Malaysia’s AirAsia and Sri Lanka’s privately-owned low-cost carrier FitsAir among bidders
+
+The government’s search for a suitor for national carrier SriLankan Airlines has narrowed down with a total of six bidders showing interest in the debt-ridden entity.
+
+The State-Owned Restructuring Unit (SOERU) yesterday shared that Requests for Qualification (RfQs) were received from AirAsia Consulting Sdn. Bhd., Dharshaan Elite Investment Holding (Pvt.) Ltd, FITS Aviation (Private) Limited, Sherisha Technologies Private Limited, Treasure Republic Guardians Limited and Hayleys PLC.
+
+The RfQs will be evaluated as per the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023. International Finance Corporation (IFC), as the transaction advisor for the divestiture of SriLankan Airlines Limited, will continue to advise the government of Sri Lanka.
+
+...
+
+[Data](articles/b0dc1062.json)
+
+---
+
 ### Importance of intellectuality with humanity in politicians
 
 *2024-04-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Importance-of-intellectuality-with-humanity-in-politicians/172-281175) · `en`
@@ -479,6 +661,8 @@ There is no doubt that this title itself will bring bemusement to the denizens o
 ...
 
 [Data](articles/20464f71.json)
+
+[Extended Data](ext_articles/20464f71.ext.json)
 
 ---
 
@@ -570,6 +754,8 @@ The No.1 Bank in the Country, Bank of Ceylon yet again set a record during Avuru
 
 [Data](articles/c275d50f.json)
 
+[Extended Data](ext_articles/c275d50f.ext.json)
+
 ---
 
 ### Japlan Shades and Styles takes world of beauty to new heights
@@ -588,6 +774,8 @@ Japlan also made use of the glittering event to introduce IKONIC professionals t
 
 [Data](articles/d20cc10f.json)
 
+[Extended Data](ext_articles/d20cc10f.ext.json)
+
 ---
 
 ### The Microsoft Cyber Signals Report furnishes strategic guidance on comprehending cybersecurity
@@ -599,6 +787,8 @@ As cyber threats escalate globally, the imperative to design, deploy, and utiliz
 ...
 
 [Data](articles/00e123a3.json)
+
+[Extended Data](ext_articles/00e123a3.ext.json)
 
 ---
 
@@ -615,6 +805,8 @@ The All Share Price Index went up by 75.2 points while S and P SL20 rose by 44.4
 ...
 
 [Data](articles/12a6e5ab.json)
+
+[Extended Data](ext_articles/12a6e5ab.ext.json)
 
 ---
 
@@ -1907,219 +2099,5 @@ It is noteworthy that the Israeli military and the intelligence agencies have mi
 [Data](articles/4a842872.json)
 
 [Extended Data](ext_articles/4a842872.ext.json)
-
----
-
-### Sri Lanka’s inflation eases to 2.5% in March 2024
-
-*2024-04-22 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98776/sri-lankas-inflation-eases-to-25-in-march-2024) · `en`
-
-The overall rate of inflation as measured by the National Consumer Price Index (NCPI) on Year-on-Year basis has been decreased to 2.5% in March 2024, compared to 5.1% in February 2024, the Department of Census and Statistics (DCS) revealed in its latest report.
-
-Meanwhile, the contributions to the inflation rate of March 2024 from the food group and non-food group are 2.1% and 0.4% respectively.
-
-On a monthly basis, the Year-on-Year inflation of the food group remained unchanged in March 2024 at 5.0% which was reported in February 2024 and the Year-on-Year inflation of the non-food group decreased to 0.7% in March 2024 from 5.1% in February 2024, according to the report.
-
-...
-
-[Data](articles/020f0d52.json)
-
-[Extended Data](ext_articles/020f0d52.ext.json)
-
----
-
-### India’s ITC to launch over $300 mln worth Sri Lankan property this week
-
-*2024-04-22 15:37:00* · [`economynextcom`](https://economynext.com/indias-itc-to-launch-over-300-mln-worth-sri-lankan-property-this-week-159703/) · `en`
-
-ECONOMYNEXT – Indian Tobacco Company (ITC) will launch its Sri Lankan property this week, an official said, a decade after the start of the construction in the land it owns next to China’s high end Shangri-La Hotel.
-
-This waterfront luxury development will include Colombo’s tallest residential tower with 48 stories, connected by a dual sky bridge to a 29-story hotel.
-
-Named as ITC Ratnadipa, is a subsidiary of ITC Limited and the proprietor is locally incorporated WelcomHotels Lanka Pvt. Ltd.
-
-The hotel is located adjacent to the Galle Face Green and Chinese-built Colombo Port City. It is also situated next to Hong Kong-listed Shangri-La and Taj Samudra hotels. It is ITC Hotels’ first foreign investment.
-
-The hotel is 140 metres (460 ft) tall and accompanied by a 224 metres (735 ft) tall Sapphire Residences building.
-
-The two buildings are connected by a 55 metres (180 ft) sky bridge which is built 100 metres (330 ft) above ground, connecting 19-21 levels of the two buildings.
-
-...
-
-[Data](articles/02708e58.json)
-
-[Extended Data](ext_articles/02708e58.ext.json)
-
----
-
-### Here is the difference in inflation
-
-*2024-04-22 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195865) · `si`
-
-Inflation fell to 2.5% in March 2024, down from February's rate.
-
-🟩
-
-According to the National Institute of Consumer Price Index, the country's inflation has fallen to 2.5% for March 2024.
-
-However, in February, 2024, the inflation was reported in March 2024.
-
-◼️
-
-[Data](articles/c5da262d.json)
-
-[Extended Data](ext_articles/c5da262d.ext.json)
-
----
-
-### Does he know him in the Kelani River?
-
-*2024-04-22 15:34:49* · [`adalk`](https://www.ada.lk/breaking_news/කැලනි-ගඟේ-සිටි-ඔහු-හඳුනනවාද--/11-409205) · `si`
-
-A body found in Kelani River, Peliyagoda, is unidentified due to age, height, and unrecognizable face.
-
-🟩
-
-It is reported that the corpse of a body found in the Kelani River in the Peliyagoda Police Division area.
-
-The demise of the deceased has not been confirmed and is about 55 and 50 feet tall and a shirt is like a shirt and the face is too unforms and the face is too unreasonable to be identified..
-
-◼️
-
-[Data](articles/c54ac22d.json)
-
-[Extended Data](ext_articles/c54ac22d.ext.json)
-
----
-
-### Pro-China party wins Maldives election in landslide
-
-*2024-04-22 15:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pro-China-party-wins-Maldives-election-in-landslide/108-281163) · `en`
-
-MALE, April 22 (Reuters) - Maldives voters handed President Mohamed Muizzu's party a landslide win at parlimentary elections, media said on Monday, an outcome set to shift the Indian Ocean archipelago closer to China and away from traditional partner India.
-
-Muizzu's People's National Congress (PNC) won 65 of the 93 seats up for grabs on Sunday, preliminary results from the Maldives Elections Commission and media projections show.
-
-The main opposition Maldives Democratic Party (MDP) dwindled to just 12 seats from 65 earlier.
-
-Both Beijing and New Delhi have wooed the Maldives as they vie for influence in the Indo-Pacific region.
-
-Elected last year, Muizzu has pledged to end the country's "India First" policy, straining ties with New Delhi.
-
-His government has asked dozens of Indian military personnel to leave the Maldives, a move critics say could hasten its shift towards China.
-
-Muizzu's post as president is not affected by Sunday's vote, in which 368 candidates contested for five-year terms.
-
-◼️
-
-[Data](articles/6138b433.json)
-
-[Extended Data](ext_articles/6138b433.ext.json)
-
----
-
-### Minister Prasanna officials to fulfill the project to develop Sigiriya and Dambulla as a tourist destination
-
-*2024-04-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181672) · `ta`
-
-Minister Prasanna Ranatunga directs officials to complete Sigiriya and Dambulla tourism projects, supported by the Asian Development Bank, aiming to enhance tourism, protect monuments, and boost economic development.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga on Friday (19) issued a directive to the officials of the Urban Development and Housing Minister to complete the basic projects of the Sigiriya and Dambulla Tourism Zone.
-
-Minister Prasanna Ranatunga said that the Ministry of Finance has also appointed a committee to provide urban facilities in the scheme.
-
-The project has been implemented under the Sustainable Urban Development Program of the Ministry of Urban Development and Housing in accordance with the Directorate of Minister Prasanna Ranatunga in charge of the matter.. Launched in 2019, the project was temporarily suspended due to the Govt infection and economic crisis in the country.
-
-...
-
-[Data](articles/7a142cc9.json)
-
-[Extended Data](ext_articles/7a142cc9.ext.json)
-
----
-
-### Stocks of rice, dhal distributed to schools unfit for consumption
-
-*2024-04-22 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stocks-of-rice-dhal-distributed-to-schools-unfit-for-consumption/108-281162) · `en`
-
-Colombo, April 22 (Daily Mirror) - The Public Health Inspectors’ Union has raised serious concerns over the quality of rice and dhal to be distributed to schools under the World Food Programme (WFP).
-
-Speaking to the Daily Mirror, PHI union Head Upul Rohana alleged that stocks of rice and dhal stored in a government warehouse in the Veyangoda area, intended for the school meals programme, have been found to be substandard.
-
-"Based on numerous complaints received from schools regarding the quality of rice and dhal, the steps were taken to direct the samples to the Government Analyst. Subsequently, the majority of samples was confirmed to be substandard," the Union Head said.
-
-Upul Rohana, highlighted that the stocks of rice in question have become unfit for human consumption due to insect damage.
-
-These stocks were slated for use in the school meals programme, a joint initiative between the government and the World Food Programme, aimed at providing free nutritious lunches for schoolchildren.
-
-...
-
-[Data](articles/fa1efff6.json)
-
-[Extended Data](ext_articles/fa1efff6.ext.json)
-
----
-
-### CID invitation to senior journalist
-
-*2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூத்த-ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
-
-A senior journalist from Sri Lanka will attend a CID summit tomorrow, focusing on security concerns regarding President Ranil Wickremesinghe.
-
-🟩
-
-Senior Journalist in Sri Lanka will be present at the Criminal Investigation Department (CID) tomorrow.
-
-Samarawickrama has said that the summit has been issued on a broadcast on the security issue of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/adf30176.json)
-
-[Extended Data](ext_articles/adf30176.ext.json)
-
----
-
-### CID invitation to journalist
-
-*2024-04-22 15:14:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளருக்கு-CID-அழைப்பாணை/175-336191) · `ta`
-
-A senior journalist from Sri Lanka will attend a CID summit tomorrow, focusing on security concerns regarding President Ranil Wickremesinghe.
-
-🟩
-
-Senior Journalist in Sri Lanka will be present at the Criminal Investigation Department (CID) tomorrow.
-
-Samarawickrama has said that the summit has been issued on a broadcast on the security issue of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/bf2f3b12.json)
-
-[Extended Data](ext_articles/bf2f3b12.ext.json)
-
----
-
-### 68,131 hectares crops due to rain and floods
-
-*2024-04-22 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181667) · `ta`
-
-From 2023-2024, rain and floods damaged 68,131 hectares of crops, 71% of total land area, impacting 100,000 hectares of paddy.
-
-🟩
-
-The Department of Agriculture said that 68,131 hectares of vegetables and other crops were damaged due to rain and floods in the country from 2023 to 2024.
-
-In addition, the amount of the damaged land is 71 percent of the total land area, the department said.
-
-100,000 hectares of paddy cultivated this year have been damaged due to rain and floods.
-
-◼️
-
-[Data](articles/44037bf1.json)
-
-[Extended Data](ext_articles/44037bf1.ext.json)
 
 ---

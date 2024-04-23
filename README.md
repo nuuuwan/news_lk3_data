@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 23:19:09**
+As of **2024-04-23 23:34:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,497 (100.0%) of 20,502 articles have been extended.
+20,502 (100.0%) of 20,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ President Ranil Wickremesinghe and his Iranian counterpart are scheduled to join
 ◼️
 
 [Data](articles/75f43199.json)
+
+[Extended Data](ext_articles/75f43199.ext.json)
 
 ---
 
@@ -64,37 +66,53 @@ The project was officially launched in 2010, with an estimated cost of USD 514 m
 
 [Data](articles/88cfc589.json)
 
+[Extended Data](ext_articles/88cfc589.ext.json)
+
 ---
 
-### ෆොක්ස් හිල් ධාවකයින්ගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+### A controversial statement from fox hill riders
 
 *2024-04-23 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195905) · `si`
 
-ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී ඊයේ පුද්ගලයන් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අදාළ මෝටර් රථ දෙකේ රියදුරන් දෙදෙනා ඊයේ පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව බණ්ඩාරවෙල මහෙස්ත්‍රාත් අධිකරණය ඔවුන් දෙදෙනාව අප්‍රෙල් 30 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+Fox Hill riders criticized for not obeying race cars, leading to remand until April 30. Sajaja Huger, a special speaker, expressed concern over speed and safety measures, emphasizing the importance of red flags and the dangers of not adhering to them.
 
-ඒ සම්බන්ධයෙන් වන ඉදිරි කටයුතු පිළිබඳ සාකච්ඡා කිරීම සඳහා සුපර්ක්‍රොස් ධාවකයින් කැඳවා තිබූ හමුවකින් අනතුරුව ඔවුන් මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ සුපර්ක්‍රොස් ධාවකයින්ගේ සංගමයේ අනුශාසක සජාජ් ජුහේර්,
+The Bandarawela Magistrate's Court yesterday ordered the two cars to be remanded until April 30 at the Fox Hill Supercross yesterday.
 
-...
+They made these comments after a meeting of Supercross Riders to discuss the future.
+
+Supercross Riders Association Special Speaker Sajaja Huger,
+
+"We cannot do the speed of the organizers that we do not obey the race car and arrest the drivers in the race car and arrest the yellow flag.Unable to do not have the red flag in a car for earlier time and caught the car drippie, not for the loss of life - the other peopleDon't send the body "
+
+◼️
 
 [Data](articles/157b92c2.json)
 
+[Extended Data](ext_articles/157b92c2.ext.json)
+
 ---
 
-### හිඟුරක්ගොඩ පුද්ගල ඝාතනයක්
+### Murder of Hingurakgoda personnel
 
 *2024-04-23 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195904) · `si`
 
-හිඟුරක්ගොඩ ප්‍රදේශයේදී ධීවරයන් පිරිසක් අතර හටගත් ගැටුමක් දුරදිග ගොස් සිදුවූ පිහි ඇනුමක් හේතුවෙන් ධීවරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A 39-year-old fisherman in Hingurakgoda was killed in a clash with other fishermen. The police were called to secure the murder suspect.
 
-මෙලෙස මියගොස් ඇත්තේ 39 හැවිරිදි වියේ පසුවූ එම ප්‍රදේශයේම පදිංචි ධීවරයෙකි.
+🟩
 
-මෙම සිදුවීමත් සමඟ ඝාතන සැකකරුගේ නිවසට කිසියම් පිරිසක් පහරදී අලාභහානි සිදුකර ඇති අතර එහි ආරක්ෂාව සඳහා පොලිසිය කැඳවා තිබුණි.
+A fisherman has died due to a clash between a clash between a group of fishermen in the Hingurakgoda area.
+
+The deceased has been identified as a 39 year old fisherman.
+
+The residence suspect had been attacked and the police had been convened for the security of the murder suspect.
 
 ◼️
 
 [Data](articles/64e074a0.json)
+
+[Extended Data](ext_articles/64e074a0.ext.json)
 
 ---
 
@@ -204,19 +222,31 @@ However, Catholic leaders say no justice have been served for the innocent follo
 
 ---
 
-### ගම්පහ ඔස්මන් ඝාතන තැත වරදියි
+### Osheman in Gampaha is a sins
 
 *2024-04-23 20:40:17* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-ඔස්මන්-ඝාතන-තැත-වරදියි/11-409226) · `si`
 
-ගම්පහ ඔස්මන් නැමැත්තා ඝාතනය කිරීම සඳහා සූදානමින් සිටි පුද්ගලයන් දෙදෙනෙක් ගිනි අවි සහ ජීව උණ්ඩ තොගයක් සමග අත්අඩංගුවට ගත් බව පෑලියගොඩ අපරාධ කොට්ඨාසය කියයි
+In Gampaha, two suspects were arrested for planning to assassinate Osman. They were found with a Ti-56 firearm and two live bullets. The suspects, aged 30-50, were led by Kehel Bedma Padma.
 
-එම සැකකරුවන් දෙදෙනා සමග ට් 56 ගිනි අවියක්, එම ජීවඋණ්ඩ 150 ක් ටි 56 මැගසින්  3 ක්  ,ජර්මනියේ නිෂ්පාදිත රිවොල්වර වර්ගයේ  ගිනි අවියක්, එම ජීව උණ්ඩ දෙකක්  , අති සුඛෝභෝගී වෑන් රථයක්  හොරයින් මත්කුඩු මිලිග්‍රෑම් 11100 ක් අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 10250 ක් පොලිසිය භාරයට ගෙන ඇත
+🟩
 
-ඝාතන සැලැස්ම සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසයේ  විමර්ශන කණ්ඩායමේ ස්ථානාධිපති සුනිත් ජයසේකර මහතාට ලද රහසිගත තොරතුරකට අනුව මිනුවන්ගොඩ මා බෝදල ප්‍රදේශයේදී පුද්ගලයකු අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 10250 ක් සමග අත්අඩංගුවට ගෙන සිදු කරන ලද දීර්ඝ ප්‍රශ්න කිරීමේදී   ඝාතනයට යොදා ගැනීම සඳහා සඟවා තිබූ ගිනි අවි තොගය සම්බන්ධයෙන් තොරතුරු අනාවරණය වූ බව පොලිසිය කියයි
+Peliyagoda Crimes Division says that two persons who were preparing to assassinate the killing of Gampaha Osman.
+
+Ti-56 firearm with the two suspects, 150 terrorists, Germany's produced by two live bullets, 2,50 milligrams of ice of ice.
+
+Police have revealed that information was revealed to the OIC of the Peliyagoda Crimes Division on a secret information on the assassination plan.Says
+
+Accordingly, the suspects were raided a house in the Titwinal Mankada area in the Tissue and arrested the suspect.
+
+A police officer who had been assassinated in the area of the House of Osman, was a man of the two suspended crimes for many crimes early in the two suspensions.
+
+The suspect has been deployed by the suspects on the instructions of Kehel Bedma Padma and provide a sum of Rs.The vehicle was also taken into custody after the suspects were taken into custody after the suspects were revealed in a private hospital in Gampaha.
 
 ...
 
 [Data](articles/ebfbbe1a.json)
+
+[Extended Data](ext_articles/ebfbbe1a.ext.json)
 
 ---
 

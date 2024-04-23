@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 17:03:34**
+As of **2024-04-23 17:18:29**
 
 ## Newspaper Stats
 
-*Scraped **20,457** Articles*
+*Scraped **20,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,102 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
-adalk | 1,708
+adalk | 1,709
 tamilmirrorlk | 2,363
-adaderanalk | 2,441
+adaderanalk | 2,442
 virakesarilk | 3,068
-dailymirrorlk | 3,184
+dailymirrorlk | 3,185
 adaderanasinhalalk | 3,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,455 (100.0%) of 20,457 articles have been extended.
+20,457 (100.0%) of 20,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### முதலிடத்தை பிடித்தார் சாமரி அத்தபத்து
+### Court order issued against CEB trade unionists’ protest tomorrow
+
+*2024-04-23 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98796/court-order-issued-against-ceb-trade-unionists-protest-tomorrow) · `en`
+
+The Colombo Chief Magistrate’s Court has delivered an order against the protest march planned to be staged by the Ceylon Electricity Board (CEB) employees’ union near the Polduwa Junction in Welikada police area tomorrow (24).
+
+Accordingly, the trade union’s secretary Ranjan Jayalal, its members and other participants are barred from engaging in a protest march that gets in the way of vehicular movement and pedestrians.
+
+Further, the court order has prohibited them from behaving in an unruly manner during the course of the demonstration.
+
+The order was issued after taking into consideration a request made by the Officer in Charge (OIC) of Welikada Police, pursuant to the provisions of the Code of Criminal Procedure.
+
+◼️
+
+[Data](articles/2f281231.json)
+
+---
+
+### Top Chinese delegation meet Anura Kumara
+
+*2024-04-23 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-Chinese-delegation-meet-Anura-Kumara/108-281212) · `en`
+
+Colombo, April 23 (Daily Mirror)-A top delegation of the Chinese Communist Party headed by Vice Minister of the International Department, Sun Haiyan met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP head office today.
+
+The delegation included head of the International Department of the Chinese Communist Party Liu Jianchao and Political Counsellor of the Chinese Embassy in Sri Lanka Chen Xiang Yuan.
+
+They discussed matters related to the current political situation in the country and upcoming elections.
+
+The NPP representatives briefed the delegation about the NPP's preparation for the election and the need to create political stability to rescue the country from the crisis situation.
+
+NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Prof. Anil Jayantha participated in the discussion.
+
+◼️
+
+[Data](articles/1e59fc3a.json)
+
+---
+
+### වේයන්ගොඩ සහල් තොගය ගැන පැහැදිලි කිරීමක්
+
+*2024-04-23 16:48:38* · [`adalk`](https://www.ada.lk/breaking_news/වේයන්ගොඩ-සහල්-තොගය-ගැන-පැහැදිලි-කිරීමක්/11-409223) · `si`
+
+පාසල් පෝෂණ වැඩසටහන සඳහා වේයන්ගොඩ පිහිටි දිස්ත්‍රික් ධාන්‍ය ගබඩාවෙන් නිකුත් කර ඇත්තේ ගම්පහ ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ විසින් පත් කළ විද්වත් කමිටුව මඟින් මිනිස් පරිභෝජනයට සුදුසු බවට නිර්දේශ කළ සහල් තොග පමණක් යැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+එම සහල් තොග ප්‍රමිතියෙන් තොර බවට වාර්තා වන තොරතුරුවලට ප්‍රතිචාර දක්වමින් ජනපති මාධ්‍ය අංශය මේ බව පවසයි.
+
+එම කමිටුව අදාළ නිර්දේශය ලබා දී ඇත්තේ ආණ්ඩුවේ රස පරීක්ෂක දෙපාර්තමේන්තුව සහ වෛද්‍ය පර්යේෂණ ආයතනයේ විශ්ලේෂණ වාර්තා පදනම් කර ගනිමින් බවත් ජනපති මාධ්‍ය අංශය පවසයි.
+
+එලෙස ආයතන කිහිපයක් මඟින් මිනිස් පරිභෝජනයට සුදුසු බවට තහවුරු කළ සහල් තොගය වේයන්ගොඩ පිහිටි දිස්ත්‍රික් ධාන්‍ය ගබඩාවෙන් යළි පරීක්ෂා කර ලබා ගැනීම සඳහා සෞඛ්‍ය කේෂ්ත්‍රය නියෝජනය වන පරිදි නිලධාරී කණ්ඩායමක් යොදවන ලෙසත්, මෙම සහල් තොගය මැයි 01වනදාට පෙර භාවිතා කිරීමට හැකිවන පරිදි සැලසුම් කරන ලෙසත් සියලුම පළාත් ප්‍රධාන ලේකම්වරුන්ට ලිඛිත උපදෙස් ලබා දෙනු ලැබූ බවද එම නිවේදනයේ දැක්වෙයි
+
+...
+
+[Data](articles/01b786b1.json)
+
+---
+
+### Samari Athapathu topped the list
 
 *2024-04-23 16:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலிடத்தை-பிடித்தார்-சாமரி-அத்தபத்து/44-336248) · `ta`
 
-இலங்கை மகளிர் கிரிக்கெட் அணியின் தலைவியும், சூப்பர் துடுப்பாட்ட வீராங்கனையுமான சாமரி அத்தபத்து, உலக மகளிர் ஒருநாள் கிரிக்கெட் துடுப்பாட்ட தரவரிசையில் முதலிடத்தைப் பிடித்துள்ளார்
+Samari Athapathu leads World Women's ODI rankings with 773 points, topping Sri Lanka's team. She scored 195 runs in her last ODI against South Africa, accumulating 3,513 runs in 101 ODIs, including 9 centuries and 16 fifties.
 
-சர்வதேச கிரிக்கட் பேரவையின் திங்கட்கிழமை (22) புதுப்பிப்பின் படி, சாமரி அத்தபத்து 773 போனஸ் புள்ளிகளுடன் தரவரிசையில் முதலிடத்தை அடைந்தார்.
+🟩
 
-சமீபத்தில் தென்னாப்பிரிக்காவுக்கு எதிரான கடைசி ஒருநாள் போட்டியில் ஆட்டமிழக்காமல் 195 ஓட்டங்களை குவிப்பதற்கு முன்பு சமாரி துடுப்பாட்ட வரிசையில் இரண்டாவது இடத்தில் இருந்தார்.
+Sri Lanka Women's Cricket Team and Super Pastor Samari Athapathu tops the World Women's ODI rankings
 
-சாமரி இதுவரை 101 ஒருநாள் போட்டிகளில் 9 சதங்கள் மற்றும் 16 அரைசதங்களுடன் 3,513 ஓட்டங்களை குவித்துள்ளார்.
+According to the International Cricket Council on Monday (22), Samari topped the rankings with 773 bonus points.
 
-இங்கிலாந்து வீரர் நடாலி சீவர் 764 புள்ளிகளுடன் இரண்டாவது இடத்திலும், தென்னாப்பிரிக்க வீரர் லாரா வால்வார்ட் 718 புள்ளிகளுடன் மூன்றாவது இடத்திலும் உள்ளனர்.
+Samari was second in the last ODI against South Africa recently before scoring 195 runs.
+
+Samari has scored 3,513 runs in 101 ODIs with 9 centuries and 16 fifties.
+
+England's Natalie Sear is second with 764 points and South African player Laura Walward is third with 718 points.
 
 ◼️
 
 [Data](articles/edaf83ea.json)
+
+[Extended Data](ext_articles/edaf83ea.ext.json)
 
 ---
 
@@ -316,21 +378,31 @@ It was reported that the Jaffna district traffic police rushed to the scene and 
 
 ---
 
-### චන්ද්‍රසිරි බණ්ඩාර මහතාගේ මරණයට හේතුව හෘදයාබාධයක්
+### Heartache is a heart attack on the death of Chandrasiri Bandara
 
 *2024-04-23 15:14:16* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රසිරි-බණ්ඩාර-මහතාගේ-මරණයට-හේතුව-හෘදයාබාධයක්/11-409222) · `si`
 
-ජ්‍යොතිෂය වැඩසටහනක් සදහා උදෑසන හතට සහභාගිවීමට නියමිතව  තිබූ නිසා අළුයම 5.45 පමණ කොළ කැඳ පානයක් රැගෙන සැමියා නිදා සිටි කාමරයට ගොස්  අවදි කළත් ඊට යහපත් ප්‍රතිචාරයක් නොදැක්වීම නිසා පෞද්ගලික රෝහලකට ඇතුළත් කිරීමෙන් පසුව මියගොස් ඇති බව වෛද්‍යවරු පැවසුවේ යැයි ප්‍රවීණ ජ්‍යෝතිර්වේදී චන්ද්‍රසිරි බණ්ඩාර මහතාගේ බිරිද වන හිනිදුම ලියනගේ චම්පිකා (59) මහත්මිය පැවසුවාය.
+Chandrasiri Bandara, 59, died of a heart attack. His wife, Chandraziri Liyanage, found him unresponsive at 5:45 am. He had high blood pressure and didn't eat meat. His daughter, Herath Mudiyanselage Minister Bandara, confirmed his death.
 
-ඇය මේ බව කියා සිටියේ තලවතුගොඩ හෝකන්දර පාරේ සමගිමාවත , රොම්ස් ලැන්ඩ් හි  අංක 424 / 01 නිවසේ පදිංචි හේරත් මුදියන්සේලාගේ චන්ද්‍රසිරි බණ්ඩාර වන මියගිය තම සැමියාගේ මෘත දේහය පිළිබඳ හදිසි මරණ පරීක්ෂණයේදී සාක්ෂි ලබා දෙමිනි.
+🟩
 
-මෘත දේහය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය කොළඹ ජාතික රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය නිලධාරී ඩී.ඇල්.ඇම්. සේනානායක මහතා විසින් සිදුකළ අතර මෘත දේහය පිළිබඳ  හදිසි මරණ පරීක්ෂණය තලංගම හදිසි මරණ පරීක්ෂිකා සාමවිනිසුරු ප්‍රේමලතා අබේවර්ධන මහත්මිය විසින් (23) දා සිදු කළාය.
+Astronomy to attend the seven in the morning to attend the seven in the morning, but the girl's wife Chandraziri Liyanage is the wife of Honorary Chandraziri Bandara (59) Ms. said.
 
-එහිදී  තවදුරටත්   සාක්ෂි ලබා දෙමින් එච්.එල් චම්පිකා මහත්මිය මෙසේද  කීවාය.
+She was speaking at the death inspection of the death inspection of his husband's body, a resident of Rolol Land, a resident of Thalawathugoda Hokandara Road.
+
+Post Mortality Foreign Officer of the Colombo National Hospital Specialist Judicial Medical Officer. The death of the body was carried out by the deaths of the remains of the body.
+
+Ms. HL Champika said:
+
+This is my husband. We have been married for thirty-six years. We have two children. The son in Sri Lanka is Australia.
+
+My husband had high blood pressure from about five years. Temporarily treated with a private doctor. But he did not go to permanent treatment. It's a little bored to drink. My husband doesn't eat meat.
 
 ...
 
 [Data](articles/9d803e4d.json)
+
+[Extended Data](ext_articles/9d803e4d.ext.json)
 
 ---
 
@@ -2233,77 +2305,5 @@ These lines of Bharatiyar are always very good. With such a arrogant question, t
 [Data](articles/f022cdb8.json)
 
 [Extended Data](ext_articles/f022cdb8.ext.json)
-
----
-
-### Only rice confirmed to be human use is distributed to the school nutrition program: The Secretariat for World Food Plan Cooperation of the President's Office
-
-*2024-04-23 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181729) · `ta`
-
-The World Food Scheme Secretariat confirms only rice for school nutrition, ensuring it's inspected by health officials before distribution. Rice is packaged according to international standards and can be used until May 31. It's not for sale and is distributed under an aid scheme.
-
-🟩
-
-The World Food Scheme Secretariat of the Presidential Office has announced that only rice has been confirmed by the Professional Committee appointed by the Director of Gampaha Divisional Health Services and is being distributed from the warehouse for the school nutrition.
-
-The office has made these recommendations focusing on reports of the Department of State Analysis and the Institute of Medical Research.
-
-Accordingly, the Secretariat of World Food Scheme has announced that all Provincial Secretaries have been instructed to appoint a panel of health officials to recruit the amount of rice confirmed by many companies.
-
-Accordingly, it is mandatory to ensure that rice distributed to schools by a team of provincial public health inspector, including the Chief Minister of Provincial Education and the Provincial Public Health Inspector, before distributing rice to the respective provinces from the Central Reserve.. Only rice confirmed with the seal will be released.
-
-...
-
-[Data](articles/a81ab1ca.json)
-
-[Extended Data](ext_articles/a81ab1ca.ext.json)
-
----
-
-### Iranian President Ibrahim Raisi visits Sri Lanka;Uma Oya intends to open the multi -purpose project and depart from the country
-
-*2024-04-23 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/181727) · `ta`
-
-Iranian President Ibrahim Raisi visits Sri Lanka to open the $529M Uma Oya project, a water supply initiative. Despite US embassy dissatisfaction, the project, funded by Iran's Export Development Bank, aims to generate 120 MW of electricity.
-
-🟩
-
-Iranian President Ibrahim Raisi will visit Sri Lanka at 2.00 pm on Wednesday (24).
-
-The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
-
-The Uma Oya Multi -Purpose Project was launched in 2011 with the loan of Iran's Export Development Bank. However, as a result of global politics and sanctions on Iran, the Uma Oya project was transferred to the domestic treasury allocation for the Uma Oya project.
-
-Under this scheme, the water collected from the Buhlpola reservoir runs to the Diyaraba reservoir through the 4km tunnel.. From there, the 15.5 kilometers of tunnel passes to 2 underground turbines in Ella, Karandagolla area. Each of these systems produces 60 MW of electricity and they will be incorporated into the National Construction.
-
-...
-
-[Data](articles/2fa3c14f.json)
-
-[Extended Data](ext_articles/2fa3c14f.ext.json)
-
----
-
-### An office assistant arrested for fake signed a copy of a case
-
-*2024-04-23 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181726) · `ta`
-
-An office assistant was arrested for falsely signing a case copy at Kandy Magistrate's Court. The Kandy Police Special Criminal Investigation Department (K) found the suspect's court registrar's signature was fake. The Kandy Police Special Criminal Investigation Division (KNA) filed a case against the suspect on Tuesday or Wednesday. Further investigations are ongoing under Senior Police Officer Anurutha Bandaranaike.
-
-🟩
-
-An office assistant has been arrested by the court on charges of fake signing a copy of a case at the Kandy Magistrate's Court.
-
-Following a complaint with the police, the Kandy Police Special Criminal Investigation Department (K), who investigated the incident, fake the signature of the suspect's court registrar and found that the document was prepared.
-
-The Kandy Police Special Criminal Investigation Division (KNA) has taken action to file a case against the suspect on Tuesday (23) or Wednesday (24).
-
-Further investigations are underway under the leadership of Senior Police Officer Anurutha Bandaranaike.
-
-◼️
-
-[Data](articles/5fb8bd25.json)
-
-[Extended Data](ext_articles/5fb8bd25.ext.json)
 
 ---

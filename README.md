@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 23:03:42**
+As of **2024-04-23 23:19:09**
 
 ## Newspaper Stats
 
-*Scraped **20,497** Articles*
+*Scraped **20,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,166
-adalk | 1,711
+adalk | 1,712
 tamilmirrorlk | 2,365
-adaderanalk | 2,446
+adaderanalk | 2,447
 virakesarilk | 3,072
-dailymirrorlk | 3,198
-adaderanasinhalalk | 3,321
+dailymirrorlk | 3,199
+adaderanasinhalalk | 3,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,497 (100.0%) of 20,497 articles have been extended.
+20,497 (100.0%) of 20,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Special traffic plans in Sri Lanka for Iranian President’s arrival
+
+*2024-04-23 23:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98800/special-traffic-plans-in-sri-lanka-for-iranian-presidents-arrival) · `en`
+
+Special traffic plans will be set in place tomorrow (24) in consideration of the arrival of Iranian President Dr. Ebrahim Raisi, says Police Spokesperson SSP Nihal Thalduwa.
+
+President Ranil Wickremesinghe and his Iranian counterpart are scheduled to jointly declare open the Uma Oya Multipurpose Development Project (UOMDP) tomorrow.
+
+◼️
+
+[Data](articles/75f43199.json)
+
+---
+
+### Uma Oya Hydro Power Plant to add 120 MW to national grid: Minister
+
+*2024-04-23 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-Hydro-Power-Plant-to-add-120-MW-to-national-grid-Minister/108-281222) · `en`
+
+Colombo, April 23 (Daily Mirror)- With the commissioning of the Uma Oya Hydro Power Plant tomorrow, 120 MW generation capacity will be added to the national grid and reduce the cost of energy, Power and Energy Minister Kanchana Wijesekara said today.
+
+He said in a statement posted on X, that the project will also provide water requirements for drinking, agricultural and irrigational requirements for beneficiaries in three districts.
+
+He also said the delays in the construction and commissioning of the hydro power plant due to various politically motivated protests is estimated to be a loss of Rs 9.8 Billion per annum to the CEB.
+
+"The hydro power plant project was scheduled to be commissioned in December 2015," he added.
+
+The project was officially launched in 2010, with an estimated cost of USD 514 million.
+
+◼️
+
+[Data](articles/88cfc589.json)
+
+---
+
+### ෆොක්ස් හිල් ධාවකයින්ගෙන් ආන්දෝලනාත්මක ප්‍රකාශයක්
+
+*2024-04-23 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195905) · `si`
+
+ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී ඊයේ පුද්ගලයන් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අදාළ මෝටර් රථ දෙකේ රියදුරන් දෙදෙනා ඊයේ පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව බණ්ඩාරවෙල මහෙස්ත්‍රාත් අධිකරණය ඔවුන් දෙදෙනාව අප්‍රෙල් 30 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+ඒ සම්බන්ධයෙන් වන ඉදිරි කටයුතු පිළිබඳ සාකච්ඡා කිරීම සඳහා සුපර්ක්‍රොස් ධාවකයින් කැඳවා තිබූ හමුවකින් අනතුරුව ඔවුන් මෙම අදහස් පළකළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ සුපර්ක්‍රොස් ධාවකයින්ගේ සංගමයේ අනුශාසක සජාජ් ජුහේර්,
+
+...
+
+[Data](articles/157b92c2.json)
+
+---
+
+### හිඟුරක්ගොඩ පුද්ගල ඝාතනයක්
+
+*2024-04-23 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195904) · `si`
+
+හිඟුරක්ගොඩ ප්‍රදේශයේදී ධීවරයන් පිරිසක් අතර හටගත් ගැටුමක් දුරදිග ගොස් සිදුවූ පිහි ඇනුමක් හේතුවෙන් ධීවරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 39 හැවිරිදි වියේ පසුවූ එම ප්‍රදේශයේම පදිංචි ධීවරයෙකි.
+
+මෙම සිදුවීමත් සමඟ ඝාතන සැකකරුගේ නිවසට කිසියම් පිරිසක් පහරදී අලාභහානි සිදුකර ඇති අතර එහි ආරක්ෂාව සඳහා පොලිසිය කැඳවා තිබුණි.
+
+◼️
+
+[Data](articles/64e074a0.json)
+
+---
 
 ### Education should be free from political influence – President Ranil
 
@@ -135,6 +201,22 @@ However, Catholic leaders say no justice have been served for the innocent follo
 [Data](articles/09f61c38.json)
 
 [Extended Data](ext_articles/09f61c38.ext.json)
+
+---
+
+### ගම්පහ ඔස්මන් ඝාතන තැත වරදියි
+
+*2024-04-23 20:40:17* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-ඔස්මන්-ඝාතන-තැත-වරදියි/11-409226) · `si`
+
+ගම්පහ ඔස්මන් නැමැත්තා ඝාතනය කිරීම සඳහා සූදානමින් සිටි පුද්ගලයන් දෙදෙනෙක් ගිනි අවි සහ ජීව උණ්ඩ තොගයක් සමග අත්අඩංගුවට ගත් බව පෑලියගොඩ අපරාධ කොට්ඨාසය කියයි
+
+එම සැකකරුවන් දෙදෙනා සමග ට් 56 ගිනි අවියක්, එම ජීවඋණ්ඩ 150 ක් ටි 56 මැගසින්  3 ක්  ,ජර්මනියේ නිෂ්පාදිත රිවොල්වර වර්ගයේ  ගිනි අවියක්, එම ජීව උණ්ඩ දෙකක්  , අති සුඛෝභෝගී වෑන් රථයක්  හොරයින් මත්කුඩු මිලිග්‍රෑම් 11100 ක් අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 10250 ක් පොලිසිය භාරයට ගෙන ඇත
+
+ඝාතන සැලැස්ම සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසයේ  විමර්ශන කණ්ඩායමේ ස්ථානාධිපති සුනිත් ජයසේකර මහතාට ලද රහසිගත තොරතුරකට අනුව මිනුවන්ගොඩ මා බෝදල ප්‍රදේශයේදී පුද්ගලයකු අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 10250 ක් සමග අත්අඩංගුවට ගෙන සිදු කරන ලද දීර්ඝ ප්‍රශ්න කිරීමේදී   ඝාතනයට යොදා ගැනීම සඳහා සඟවා තිබූ ගිනි අවි තොගය සම්බන්ධයෙන් තොරතුරු අනාවරණය වූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/ebfbbe1a.json)
 
 ---
 
@@ -2195,113 +2277,5 @@ About 50 passports were found in his house in the investigation by the suspect.
 [Data](articles/e64291c5.json)
 
 [Extended Data](ext_articles/e64291c5.ext.json)
-
----
-
-### 10 killed in plane crash
-
-*2024-04-23 10:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-10-பேர்-பலி/50-336225) · `ta`
-
-10 killed in Malaysia naval rehearsal helicopter crash. Two helicopters crashed during a live rehearsal for the 90th Malaysian Navy Day, killing all on board.
-
-🟩
-
-Two helicopters crashed during a naval rehearsal in Malaysia. Helicopters crashed during a LIVE rehearsal at a military base in Perak, Malaysia.
-
-Ten people, including naval workers who traveled in two helicopters, died on the spot. The accident occurred during a rehearsal for the 90th anniversary of the Malaysian Navy Day.
-
-Royal Malaysian Nevi (RMN) has confirmed that the RMN Maritime Operation Helicopter (HOM-AW139) and RMN Fennec helicopter crashed during the 90th RMN Day parade at the RMN Lumut site at 9.32 am today (23).
-
-A total of 10 people were involved in the incident, ie 7 TLDM HOM team and 3 TLDM Fennec. All the victims were confirmed that they were dead on the spot and sent to the Lumut TLDM Basic Army Hospital for identification process.
-
-...
-
-[Data](articles/ba3432e2.json)
-
-[Extended Data](ext_articles/ba3432e2.ext.json)
-
----
-
-### Seeking blessings on Bak Poya day
-
-*2024-04-23 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Seeking-blessings-on-Bak-Poya-day/110-281201) · `en`
-
-Devotees at the Pillewa Bodhiraja Temple and Bellanwila Rajamaha Viharaya are seen taking part in religious observances on Bak Full Moon Poya Day which falls today. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/3ccf197a.json)
-
-[Extended Data](ext_articles/3ccf197a.ext.json)
-
----
-
-### The General Manager of the Railway Department has passed away
-
-*2024-04-23 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181747) · `ta`
-
-HMKW Pandara, General Manager of Railways, passed away after sudden illness. He was an engineer, alumnus of Matale College of Science, and held key positions including Chief Engineer and General Manager of Infrastructure.
-
-🟩
-
-The General Manager of the Railways Department, HMKW Pandara, passed away this morning (23).
-
-He was admitted to the Anuradhapura Hospital due to sudden illness, hospital sources said.
-
-He is an alumnus of the College of Science, Matale, and has completed his higher education at the Universities of Peradeniya and Moratuwa and started his career as an engineer.
-
-He has also held several top posts, including the Chief Engineer of the Railway Department and the General Manager of Infrastructure.
-
-◼️
-
-[Data](articles/fffa9341.json)
-
-[Extended Data](ext_articles/fffa9341.ext.json)
-
----
-
-### Two killed in underworld activities
-
-*2024-04-23 10:40:54* · [`adalk`](https://www.ada.lk/breaking_news/පාතාල-ක්‍රියාකාරකම්-රැසකට-සම්බන්ධ-පුද්ගලයන්--දෙදෙනෙක්-පොලිස්-වෙඩි-පහරින්-මිය-යයි/11-409216) · `si`
-
-Two individuals involved in underworld activities were shot by police in a three-wheeler, leading to their deaths. The Meegoda police set up a roadblock but were fired upon. A sub-inspector pursued the suspects in a jeep, resulting in two injuries and one escape to a rubber estate. The injured were taken to Horana Base Hospital. The incident is under investigation by Magistrate Chandana Kalazuriya.
-
-🟩
-
-Two persons involved in a number of underworld activities were shot towards the police with a three-wheeler, Moragahahena Police said that the police shot dead in a three-wheeler.
-
-The Meegoda police officers have commanded the stole of a quick roadblock, but it was fired at the Moragahayana to the Moragahayana.
-
-The sub-inspector of police officers pursued the Tiger briefly by the jeep of the jeep and two persons were seriously injured and a person had fled to a rubber estate.
-
-Police said that the two injured police officers were admitted to Horana Base Hospital
-
-The event was taken to the incident and the Magistrate Chandana Kalazuriya Magistrate inquiry.
-
-◼️
-
-[Data](articles/db707f24.json)
-
-[Extended Data](ext_articles/db707f24.ext.json)
-
----
-
-### Firing on three -wheeler - two deaths
-
-*2024-04-23 10:34:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டி-மீது-துப்பாக்கிச்சூடு-இருவர்-மரணம்/175-336223) · `ta`
-
-A three-wheeler was shot, killing two inside. One man fled.
-
-🟩
-
-A three -wheeler has been shot dead in the Moragahahena -Miriswatta area.
-
-Another man inside the three -wheeler has fled the shooting, police said the police said. Remble
-
-◼️
-
-[Data](articles/c7f54dfd.json)
-
-[Extended Data](ext_articles/c7f54dfd.ext.json)
 
 ---

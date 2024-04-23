@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 18:10:51**
+As of **2024-04-23 18:22:28**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,462 (100.0%) of 20,467 articles have been extended.
+20,467 (100.0%) of 20,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### ඉන්දියාවේ දැවැන්ත පාලමක් කඩාවැටෙයි
+### India's massive bridge collapses
 
 *2024-04-23 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195899) · `si`
 
+India's massive bridge collapses, killing 100 people, including 65 on a bus. Authorities are investigating.
+
+🟩
+
 විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ අධික සුළං තත්ත්වය සමග පාලමේ අඩි 100ක පමණ කොටසක් කඩා වැටී ඇති බවය.
 
-එම පාලම කඩාවැටීමට සුළු මොහොතකට පෙර එම ස්ථානයෙන් මංගල උත්සවයක පුද්ගලයින් 65 දෙනෙකු රැගත් බස් රථයක් ද ගමන්කර ඇත.
+A bus carrying 65 persons carrying 65 persons at the wedding have also been traveling shortly before the bridge was collapse.
 
-සිද්ධිය සම්බන්ධයෙන් එරට බලධාරීන් මේ වනවිට විමර්ශනයක් ආරම්භ කර ඇත.
+The authorities of the country have already begun an investigation into the incident.
 
 ◼️
 
 [Data](articles/e3425409.json)
+
+[Extended Data](ext_articles/e3425409.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Wijesekera’s remarks came after a meeting with the Managing Director, Chairman
 ...
 
 [Data](articles/5fe2762e.json)
+
+[Extended Data](ext_articles/5fe2762e.ext.json)
 
 ---
 
@@ -106,6 +114,8 @@ Wild elephants crossing the road at Tissamaharama in search of food and water in
 
 [Data](articles/2d5c7761.json)
 
+[Extended Data](ext_articles/2d5c7761.ext.json)
+
 ---
 
 ### Colombo’s consular services temporarily suspended for system transition
@@ -148,27 +158,35 @@ The order was issued after taking into consideration a request made by the Offic
 
 ---
 
-### මහවැලියට පසු දැවැන්තම වාරි ව්‍යාපෘතිය හෙට ජන අයිතියට
+### The largest irrigation project after the Mahaweliya opens
 
 *2024-04-23 16:58:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලියට-පසු-දැවැන්තම-වාරි-ව්‍යාපෘතිය-හෙට-ජන-අයිතියට/11-409224) · `si`
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය විවෘත කිරීමට ඉරාන ජනපති හෙට දිවයිනට
+The Uma Oya Multipurpose Development Project in Sri Lanka, funded by Iran, aims to alleviate water shortages in the southeastern dry zone by irrigating 4500 hectares of new land and 1500 hectares of old land, supplying 290 GWh of electricity, and meeting drinking and industrial water needs in Badulla, Moneragala, and Hambantota. The project, completed in 2024, was delayed due to unpredictable maintenance, financial challenges, and the Covid-19 pandemic, extending its completion to March 2025. It features a unique 700-meter tunnel design and is expected to irrigate 1500 hectares of land and 4500 new developed land.
 
-ජාතික විදුලිබල පද්ධතියට ගිගා වොට් පැය 290 (290 GWh)ක විදුලි ධාරිතාවක්.
+🟩
 
-නව කෘෂිකාර්මික ඉඩම් හෙක්ටයාර් 4500කට සහ පැරණි ඉඩම් හෙක්ටයාර් 1500කට වාරි ජලය.
+Iran to open Uma Oya Multipurpose development project tomorrow
 
-බදුල්ල, මොණරාගල සහ හම්බන්තොට ප්‍රදේශවල පානීය සහ කාර්මික ජල අවශ්‍යතා සැපිරේ.
+290 GWhs of GPPs (290 GWh) electricity to the national grid.
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පත් කිරීමේ අවස්ථාවට එක්වීම සඳහා ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතා හෙට (24) දිවයිනට පැමිණීමට නියමිතය.
+New agricultural land is irrigated for 4500 hectares of land and 1500 hectares of old land.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ විශේෂ ආරාධනය පරිදි ඉරාන ජනාධිපතිවරයා මෙලෙස ශ්‍රී ලංකාවේ එක් දින නිල සංචාරයකට එක් වන අතර 2008 වසරේ අප්‍රේල් මාසයේ දී එවකට ඉරාන ජනාධිපති මොහොමඩ් අහමදිනෙජාඩ් මහතාගේ සංචාරයෙන් පසුව ඉරාන ජනාධිපතිවරයෙකු මෙරට සංචාරයක නිරත වන පළමු අවස්ථාව මෙය වීම විශේෂත්වයකි.
+Drinking and industrial water requirements are available in Badulla, Moneragala and Hambantota areas.
 
-ඉරාන ශ්‍රී ලංකා ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කෙරෙන අවබෝධතා ගිවිසුම් 05කට ද ඉරාන ජනාධිපතිවරයාගේ සංචාරයට සමගාමීව අත්සන් තැබීමට නියමිතය.
+Irania President Irabhim Reli is due to join the country to join the public to open the Uma Oya Multipurpose Development Project.
+
+The Iranian President is one of the first time a Iranian president will visit Sri Lanka after the special invitation of President Ranil Wickremesinghe.
+
+Five MoUs will also be signed in parallel to the President's visit to the Iranian president of Iranian bilateral boasts.
+
+The Uma Oya Multipurpose Development Project will be opened by the Uma Oya Multipurpose Development Project at the patronage of Iran-Sri Lankan presidents on the 24th morning.
 
 ...
 
 [Data](articles/d9c70e2b.json)
+
+[Extended Data](ext_articles/d9c70e2b.ext.json)
 
 ---
 
@@ -189,6 +207,8 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Pro
 ◼️
 
 [Data](articles/17e060fc.json)
+
+[Extended Data](ext_articles/17e060fc.ext.json)
 
 ---
 

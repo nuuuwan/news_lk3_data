@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 16:18:34**
+As of **2024-04-23 16:33:51**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,442 (100.0%) of 20,451 articles have been extended.
+20,451 (100.0%) of 20,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### විරෝධතාවයකට අධිකරණ නියෝගයක්
+### Court order to protest
 
 *2024-04-23 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195896) · `si`
 
-ලංකා විදුලි සේවක සංගමය මගින් හෙට (24) පොල්දූව වටරවුම ආශ්‍රිතව සංවිධානය කර ඇති විරෝධතාවයට එරෙහිව පොලීසිය විසින් අධිකරණ නියෝගයක් ලබාගෙන ඇත.
+Court order issued against Ceylon Electricity Workers Association protest tomorrow, prohibiting protests and violence to prevent coconut basemass and pedestrian obstructions.
 
-පොලීසිය පවසන්නේ වැලිකඩ පොලිස් ස්ථානාධිපතිවරයා වෙත ලද තොරතුරකට අනුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය විසින් මෙම නියෝගය ලබා දී ඇති බවය.
+🟩
 
-එම නියෝගයේ දැක්වෙන්නේ පොල්දූව වටරවුම ආශ්‍රීතව මජනතාවට හහා පදිකයින් අවහිර බාධා වන ලෙස කිසිදු මාර්ගයක් හරස් කර විරෝධතා හෝ ප්‍රචණ්ඩ ක්‍රියා නොකිරීමට එමගින් නියෝග කර ඇති බවය.
+Police have obtained a court order against the protest organized by the Ceylon Electricity Workers Association tomorrow (24).
+
+The police said that according to information received by the Colombo Chief Magistrate's Court, the Colombo Chief Magistrate has issued the order.
+
+The order is that there has been ordered no protests or violence to prevent the coconut basemass and obstructing pedestrians.
 
 ◼️
 
 [Data](articles/8d2c2ed6.json)
+
+[Extended Data](ext_articles/8d2c2ed6.ext.json)
 
 ---
 
@@ -58,17 +64,25 @@ Palu fruit (Manilkara hexandra), which has a unique sweetness, being sold in Col
 
 [Data](articles/e0c8db42.json)
 
+[Extended Data](ext_articles/e0c8db42.ext.json)
+
 ---
 
-### மின்னாமல் முழங்காமல் ஒரு தாக்குதல் ; பின்னணியில்  இருந்தது யார்? ; ஈரான் மீது "புளூ ஸ்பரோ " ஏவுகணை பயன்படுத்தப்பட்டதா?
+### An attack without lightning;Who was in the background?;Was the "Blue Sparo" missile used on Iran?
 
 *2024-04-23 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181777) · `ta`
 
-மத்திய கிழக்கில் நடப்பது என்ன ? உண்மை நிலைவரத்தை அறிய உலகமே இன்று ஆவலாக இருந்து வருகிறது. ஒருபுறம் தாக்குதல் நடந்ததாக  கூறப்படும் அதேவேளை , மறுபுறம்  சம்பந்தப்பட்ட தரப்பால்  அவ்வாறு எதுவும் நடக்கவில்லை என்று மறுக்கப்படுகின்றது.  இருந்த போதிலும் அது தொடர்பான வீடியோக்கள் படங்கள் என்பன வெளிவரவே செய்கின்றன . இறுதியாக , சனிக்கிழமை ஈராக்கில்  நடைபெற்ற சம்பவம்  புருவத்தை உயர்த்த வைத்துள்ளது.
+The world is abuzz with conflicting reports about an unidentified attack, with some claiming it involved a "Blue Sparo" missile on Iran. Videos emerge, and the incident in Iraq has sparked international concern.
+
+🟩
+
+What's going on in the Middle East?The world is excited today to know the truth. While the attack is said to have taken place on the one hand, it is denied that nothing has happened by the concerned side on the other hand. However, the videos related to it are coming out. Finally, the incident in Iraq on Saturday has raised the eyebrow.
 
 ◼️
 
 [Data](articles/92fbb734.json)
+
+[Extended Data](ext_articles/92fbb734.ext.json)
 
 ---
 
@@ -108,6 +122,8 @@ However, during the said transition period, the Regional Consular Offices in Jaf
 
 [Data](articles/66e8a07e.json)
 
+[Extended Data](ext_articles/66e8a07e.ext.json)
+
 ---
 
 ### கடும் மழையை எதிர்கொள்ள தயாராக இருக்கவும்
@@ -134,21 +150,27 @@ The snow is expected in some parts of the Sabaragamuwa, Central and Uva province
 
 ---
 
-### உலக புத்தக தினம் இன்று
+### World Book Day Today
 
 *2024-04-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181766) · `ta`
 
-புத்தக வாசிப்பின் மகிழ்ச்சியை ஊக்குவிக்கும் வகையில் உலக புத்தக தினம் மற்றும் பதிப்புரிமை தினம் இன்று  செவ்வாய்கிழமை (23) கொண்டாடப்படுகின்றது.
+Today is World Book Day, promoting reading happiness. The theme is "Read Your Way," focusing on developing reading interests and connecting with books of all ages. Celebrations worldwide highlight books' purpose and educational value.
 
-இந்த ஆண்டுக்கான சர்வதேச புத்தகம் மற்றும் பதிப்புரிமை தினத்தின் கருப்பொருள்  உங்கள் வழியைப் படியுங்கள்' என்பதாகும்.
+🟩
 
-இந்த கருப்பொருளானது வாசிப்பு ஆர்வத்தை வளர்ப்பதன் முக்கியத்துவத்தை வலியுறுத்துவதோடு   எல்லா வயதினரும்  புத்தகங்களுடன் இணைவதற்கு  வழிகளைக் கண்டறிய ஊக்குவிக்கிறது.
+World Book Day and Copyright Day is celebrated on Tuesday (23) to promote the happiness of the book reading.
 
-அத்தோடு, புத்தகங்களின் நோக்கம் மற்றும் பல்வேறு பின்னணியில் உள்ள மக்களை ஊக்குவிக்கும் மற்றும் கல்வி கற்பிக்கும் திறன் ஆகியவற்றை முன்னிலைப்படுத்த உலகம் முழுவதும் கொண்டாட்டங்கள் நடத்தப்படுகின்றன.
+The theme of the International Book and Copyright Day for this year is reading your way.
+
+This theme emphasizes the importance of developing reading interest and encourages ways to connect with books of all ages.
+
+In addition, celebrations are held around the world to highlight the purpose of the books and the ability to promote and educate people in various backgrounds.
 
 ◼️
 
 [Data](articles/b665f5de.json)
+
+[Extended Data](ext_articles/b665f5de.ext.json)
 
 ---
 
@@ -178,41 +200,55 @@ Applications for verification can be submitted to these Regional Offices and wil
 
 ---
 
-### யாழில் லொறியும் முச்சக்கர வண்டியும் கோர விபத்து - ஒருவர் படுகாயம்!
+### Lorry and three -wheeler accident in Jaffna
 
 *2024-04-23 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181770) · `ta`
 
-யாழ்ப்பாண நகரை அண்மித்த நாலுகால் மட சந்தியில் இன்று செவ்வாய்க்கிழமை (23) மதியம் இடம்பெற்ற விபத்து ஒன்றில் முச்சக்கர வண்டி ஒன்று பட்டாரக வாகனத்துடன் விபத்துக்குள்ளாகி முற்றாக சேதமடைந்ததோடு முச்சக்கர வண்டி சாரதி படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண பொலிசார் தெரிவித்தனர்.
+A three-wheeler crashed into a lorry near Jaffna, injuring the driver and damaging the vehicle. The driver was taken to Jaffna Teaching Hospital. Meanwhile, a Budaraka vehicle driver crashed into a Ceylon Electricity Board wiring without injury. Traffic police are investigating.
 
-யாழ்ப்பாணம் - மானிப்பாய் -  காரைநகர் பிரதான வீதியில் நாலுகால்மடம் சந்தியில் அமைந்துள்ள அரைக்கும் ஆலை ஒன்றில் இருந்து பிரதான வீதியில் முச்சக்கர வண்டி பயணிக்க தொடங்கிய நிலையில் பின்புறமாக ஆறுகால்மடம் பகுதியில் இருந்து வருகை தந்த பட்டாரக வாகனம் மோதியது.
+🟩
 
-இதன் போது முச்சக்கர வண்டி முற்றாக சேதமடைந்தது. முச்சக்கர வண்டியினை செலுத்திய ஆறுகால்மடம் பகுதியினை சேர்ந்த 20 வயதான அஜிந்தன் எனும் இளைஞன் படுகாயமடைந்த நிலையில் யாழ் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+A three -wheeler was completely damaged and a three -wheeler driver was injured and the three -wheeler driver was injured and admitted to the Jaffna Teaching Hospital in a accident on Tuesday (23).
 
-இதேவேளை பட்டாரக வாகனம் இலங்கை மின்சார சபைக்கு சொந்தமான மின்கம்பத்துடன் மோதி பகுதியளவில் சேதமடைந்த நிலையில் வாகன சாரதி காயங்களின்றி மீட்கபட்டார்.
+A three -wheeler from a milling plant located at Nalukalmadam junction on the Jaffna - Manipayi - Karainagar main road, a three -wheeler from the main road, crashed into the back of the river Kalmadam.
 
-...
+The three -wheeler was completely damaged. A 20 -year -old Ajindan, a youth from the six -wheeler, who was driving a three -wheeler, was admitted to the Jaffna Teaching Hospital after being injured.
+
+Meanwhile, the driver of the Budaraka vehicle crashed into a wiring of the Ceylon Electricity Board and the driver was recovered without injuries.
+
+It was reported that the Jaffna district traffic police rushed to the scene and are conducting further investigations.
+
+◼️
 
 [Data](articles/a52015de.json)
 
+[Extended Data](ext_articles/a52015de.ext.json)
+
 ---
 
-### ஈரான் ஜனாதிபதியின் விஜயத்தை முன்னிட்டு தலைநகரில் வரவேற்பு பதாதைகள்
+### Welcome to the capital of Iran
 
 *2024-04-23 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181772) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி (Ebrahim Raisi) உத்தியோகப்பூர்வ விஜயம் மேற்கொண்டு நாளை இலங்கைக்கு வருகை தரவுள்ளார். அவரை வரவேற்று ஐக்கிய சமாதான கூட்டமைப்பின் சார்பில் தலைநகர் கொழும்பில் வரவேற்பு பதாதைகள் காட்சிப்படுத்தப்பட்டுள்ளன.
+Iranian President Ibrahim Raisi visits Sri Lanka to open the Uma Oya Multipurpose Development Program, a project funded by Iran. He also tours Pakistan.
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டத்தை திறந்துவைக்கப்பதற்காக ஈரான் ஜனாதிபதி இலங்கைக்கு ஒரு நாள் உத்தியோகப்பூர்வ விஜயம் மேற்கொள்ளவுள்ளார்.
+🟩
 
-514 மில்லியன் அமெரிக்க டொலர்கள் செலவில் ஈரான் அரசாங்கத்தின் கடனுதவியின் கீழ் 2011 ஆம் ஆண்டு உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம் ஆரம்பித்துவைக்கப்பட்டது.
+Iranian President Ibrahim Raisi makes an official visit to Sri Lanka tomorrow. He was greeted by the United Peace Federation and the welcome posts were displayed in the capital Colombo.
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி இன்று பாகிஸ்தானுக்கு சுற்றுபயணம் மேற்கொண்டுள்ள நிலையில், பாகிஸ்தான் விஜயத்தை நிறைவு செய்து, நாளை மறுதினம் நாட்டுக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+The Iranian President will make a one -day official visit to Sri Lanka to open the Uma Oya Multipurpose Development Program.
 
-இந்நிலையில், அவரை வரவேற்று ஐக்கிய சமாதான கூட்டமைப்பின் சார்பில் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர்களான ஐ. ஏ. கலீலுர் ரஹ்மான், எம்.காதர், எம்.முசம்மில் போன்றோர்களினால் இந்த வரவேற்பு பதாதைகள் காட்சிப்படுத்தப்பட்டுள்ளது.
+The Uma Oya Multipurpose Development Program was launched in 2011 under the Iranian government's loan at a cost of US $ 514 million.
+
+Iranian President Ibrahim Raisi is on a tour of Pakistan today and the Foreign Ministry has announced that it will complete the Pakistan visit and visit the country tomorrow.
+
+In this case, the former members of the Colombo Municipal Council (I.). A.. These receptions have been exhibited by Khalilur Rahman, M. Kadar and M. Muzammil.
 
 ◼️
 
 [Data](articles/9454de40.json)
+
+[Extended Data](ext_articles/9454de40.ext.json)
 
 ---
 
@@ -229,6 +265,8 @@ The project was officially launched in 2010, with an estimated cost of USD 514 m
 ◼️
 
 [Data](articles/f572f2fa.json)
+
+[Extended Data](ext_articles/f572f2fa.ext.json)
 
 ---
 
@@ -319,6 +357,8 @@ As a mark of respect, all the other swimmers cancelled the relay event and reach
 ...
 
 [Data](articles/a52d889a.json)
+
+[Extended Data](ext_articles/a52d889a.ext.json)
 
 ---
 

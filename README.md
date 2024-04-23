@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 03:03:36**
+As of **2024-04-24 03:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,539** Articles*
+*Scraped **20,540** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 180
+colombotelegraphcom | 181
 bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,539 (100.0%) of 20,539 articles have been extended.
+20,539 (100.0%) of 20,540 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -779,6 +779,20 @@ He made these comments in response to the decision to temporarily halt the sale 
 [Data](articles/dfef5f8c.json)
 
 [Extended Data](ext_articles/dfef5f8c.ext.json)
+
+---
+
+### An Oxygen Economy
+
+*2024-04-23 21:09:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-oxygen-economy/) · `en`
+
+Air, the last of the Global Commons that transcends political boundaries, may be the commonwealth that we can source our value transactions in the future. Air which contains the most precious substance in the known universe, free molecular Oxygen, is itself a mix of four major gasses Nitrogen (78%), Oxygen (20.9%), Argon (.93%) and Carbon Dioxide (.03%).
+
+The current climate crisis is seen as being driven by excess heat trapped in the atmosphere by the so–called ‘greenhouse gasses, Carbon Dioxide being the major contributor, an increase in CO2 concentration leads to an increase in global temperatures, hence the interest in trees to sequester Carbon
+
+...
+
+[Data](articles/81b27bff.json)
 
 ---
 
@@ -2221,25 +2235,5 @@ Another former number one batter also rose after the series, Athapaththu’s cou
 [Data](articles/6ce9f92a.json)
 
 [Extended Data](ext_articles/6ce9f92a.ext.json)
-
----
-
-### Showers of about 50 mm on the cards across Sri Lanka
-
-*2024-04-23 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-of-about-50-mm-on-the-cards-across-Sri-Lanka/108-281204) · `en`
-
-Colombo, April 23 (Daily Mirror) -  Residents in the Western and Sabaragamuwa Provinces, as well as the Galle and Matara districts, should be prepared for fairly heavy showers of about 50 mm in some areas, the Meteorology Department predicted.
-
-According to the latest forecast, the Western, Sabaragamuwa, Central, Uva, Southern and North-Western Provinces are likely to experience rainfall after 2.00 p.m.
-
-Furthermore, scattered showers or thundershowers are expected in the Northern and North-Central Provinces during the afternoon or night.
-
-Misty conditions are also anticipated in certain locations of the Sabaragamuwa, Central and Uva Provinces during the morning.
-
-◼️
-
-[Data](articles/25ef5527.json)
-
-[Extended Data](ext_articles/25ef5527.ext.json)
 
 ---

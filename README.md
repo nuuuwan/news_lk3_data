@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 13:18:20**
+As of **2024-04-23 13:34:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,412 (100.0%) of 20,413 articles have been extended.
+20,413 (100.0%) of 20,413 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercros
 ...
 
 [Data](articles/54af8c57.json)
+
+[Extended Data](ext_articles/54af8c57.ext.json)
 
 ---
 

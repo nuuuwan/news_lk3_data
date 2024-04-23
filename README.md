@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 17:18:29**
+As of **2024-04-23 17:34:55**
 
 ## Newspaper Stats
 
-*Scraped **20,460** Articles*
+*Scraped **20,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,709
 tamilmirrorlk | 2,363
 adaderanalk | 2,442
 virakesarilk | 3,068
-dailymirrorlk | 3,185
+dailymirrorlk | 3,186
 adaderanasinhalalk | 3,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,457 (100.0%) of 20,460 articles have been extended.
+20,460 (100.0%) of 20,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Colombo’s consular services temporarily suspended for system transition
+
+*2024-04-23 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombos-consular-services-temporarily-suspended-for-system-transition/108-281213) · `en`
+
+Colombo, April 23 (Daily Mirror) - Document authentication services provided by the Consular Affairs Division of the Foreign Affairs Ministry in Colombo will be temporarily suspended for the public on April 29 and 30 in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
+
+They said the services will be suspended as the the Consular Affairs Division of the Ministry will be relocated to the new premises at the 16th floor of “Suhurupaya”, Sri Subhuthipura Road, Battaramulla with effect from May 2.
+
+Accordingly, all consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday, 8.30 am to 4.15 pm.
+
+However, during this transition period, the Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to the public during regular office hours.
+
+...
+
+[Data](articles/e33548d9.json)
+
+---
 
 ### Court order issued against CEB trade unionists’ protest tomorrow
 
@@ -47,6 +65,8 @@ The order was issued after taking into consideration a request made by the Offic
 ◼️
 
 [Data](articles/2f281231.json)
+
+[Extended Data](ext_articles/2f281231.ext.json)
 
 ---
 
@@ -68,23 +88,31 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Pro
 
 [Data](articles/1e59fc3a.json)
 
+[Extended Data](ext_articles/1e59fc3a.ext.json)
+
 ---
 
-### වේයන්ගොඩ සහල් තොගය ගැන පැහැදිලි කිරීමක්
+### Explanation of Veyangoda rice stock
 
 *2024-04-23 16:48:38* · [`adalk`](https://www.ada.lk/breaking_news/වේයන්ගොඩ-සහල්-තොගය-ගැන-පැහැදිලි-කිරීමක්/11-409223) · `si`
 
-පාසල් පෝෂණ වැඩසටහන සඳහා වේයන්ගොඩ පිහිටි දිස්ත්‍රික් ධාන්‍ය ගබඩාවෙන් නිකුත් කර ඇත්තේ ගම්පහ ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ විසින් පත් කළ විද්වත් කමිටුව මඟින් මිනිස් පරිභෝජනයට සුදුසු බවට නිර්දේශ කළ සහල් තොග පමණක් යැයි ජනාධිපති මාධ්‍ය අංශය පවසයි.
+Veyangoda rice stock: Expert panel recommends re-examination by District Grain Store. Rice, packed according to international standards, to be used before May 31. President's media unit states it's not suitable for consumption, leading to steps for release under World Food Program.
 
-එම සහල් තොග ප්‍රමිතියෙන් තොර බවට වාර්තා වන තොරතුරුවලට ප්‍රතිචාර දක්වමින් ජනපති මාධ්‍ය අංශය මේ බව පවසයි.
+🟩
 
-එම කමිටුව අදාළ නිර්දේශය ලබා දී ඇත්තේ ආණ්ඩුවේ රස පරීක්ෂක දෙපාර්තමේන්තුව සහ වෛද්‍ය පර්යේෂණ ආයතනයේ විශ්ලේෂණ වාර්තා පදනම් කර ගනිමින් බවත් ජනපති මාධ්‍ය අංශය පවසයි.
+The expert panel appointed by the Provincial Regional Health Services in Veyangoda has been issued to the school nutrition program.
 
-එලෙස ආයතන කිහිපයක් මඟින් මිනිස් පරිභෝජනයට සුදුසු බවට තහවුරු කළ සහල් තොගය වේයන්ගොඩ පිහිටි දිස්ත්‍රික් ධාන්‍ය ගබඩාවෙන් යළි පරීක්ෂා කර ලබා ගැනීම සඳහා සෞඛ්‍ය කේෂ්ත්‍රය නියෝජනය වන පරිදි නිලධාරී කණ්ඩායමක් යොදවන ලෙසත්, මෙම සහල් තොගය මැයි 01වනදාට පෙර භාවිතා කිරීමට හැකිවන පරිදි සැලසුම් කරන ලෙසත් සියලුම පළාත් ප්‍රධාන ලේකම්වරුන්ට ලිඛිත උපදෙස් ලබා දෙනු ලැබූ බවද එම නිවේදනයේ දැක්වෙයි
+The President's Media Division states this in response to information that is reported that the rice consumers are reported from quality.
+
+The committee has issued the recommendation based on the Analyst's Analyst Department and the Analysis Institute of the Medical Research Institute.
+
+Several institutions have been deployed to re-examine the rice to be re-consolidated by the District Grain Store, which confirm human consumption, to be used to be re-consolidated by the Veyangoda, to be planned to be used before 1st May.The announcement also provided written instructions
 
 ...
 
 [Data](articles/01b786b1.json)
+
+[Extended Data](ext_articles/01b786b1.ext.json)
 
 ---
 
@@ -2287,23 +2315,5 @@ The parties who are trying to create an opportunity to bargain with the Sinhales
 [Data](articles/47df6e7f.json)
 
 [Extended Data](ext_articles/47df6e7f.ext.json)
-
----
-
-### Did you think I would fall like a lot of fun? ''SriLankabimanya' lived in life
-
-*2024-04-23 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181730) · `ta`
-
-"SriLankabimanya" reflects on life's unpredictability, inspired by Bharatiyar's wisdom. Few in Vayayam live with such arrogance, a sentiment echoed upon KR Ariyaratne's death.
-
-🟩
-
-These lines of Bharatiyar are always very good. With such a arrogant question, there are very few people who live in Vayayam. These were the lyrics that appeared in the thought when he heard the death of KR Ariyaratne.
-
-◼️
-
-[Data](articles/f022cdb8.json)
-
-[Extended Data](ext_articles/f022cdb8.ext.json)
 
 ---

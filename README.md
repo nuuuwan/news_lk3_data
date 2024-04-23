@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 00:03:31**
+As of **2024-04-23 23:53:08**
 
 ## Newspaper Stats
 
-*Scraped **20,513** Articles*
+*Scraped **20,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,18 @@ adalk | 1,712
 tamilmirrorlk | 2,365
 adaderanalk | 2,447
 virakesarilk | 3,081
-dailymirrorlk | 3,200
+dailymirrorlk | 3,199
 adaderanasinhalalk | 3,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,502 (99.9%) of 20,513 articles have been extended.
+20,502 (100.0%) of 20,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
-
-### Sri Lanka took minimal steps to punish officials who committed human rights abuses: US report
-
-*2024-04-23 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-took-minimal-steps-to-punish-officials-who-committed-human-rights-abuses-US-report/108-281220) · `en`
-
-Colombo, April 23 (Daily Mirror)- Sri Lanka took minimal steps to identify and punish officials who may have committed human rights abuses, the 2023 report issued by the US State Department's Bureau of Democracy, Human Rights and Labour on Sri Lanka's Human Rights Practices has alleged.
-
-The report said that significant human rights issues such as arbitrary or unlawful killings, including extrajudicial killings, torture or cruel, inhuman, or degrading treatment or punishment by the government, harsh and life-threatening prison conditions and arbitrary arrest or detention were reported.
-
-...
-
-[Data](articles/3725879b.json)
-
----
 
 ### போதைப் பொருள் கொடுத்து வன்புணர்வுக்கு உட்படுத்தியதாக கிடைக்கப்பெற்ற முறைப்பாட்டையடுத்து பொலிஸார் விசாரணை
 
@@ -2255,5 +2241,21 @@ As investigations are revealed, police are actively taking steps to arrest the s
 [Data](articles/530d5b59.json)
 
 [Extended Data](ext_articles/530d5b59.ext.json)
+
+---
+
+### CBSL announces eight new pyramid activities
+
+*2024-04-23 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-announces-eight-new-pyramid-activities/108-281202) · `en`
+
+Based on complaints received, the Central Bank of Sri Lanka (CBSL) has released eight other institutions and inputs identified as engaging in pyramid activities.
+
+The notice was published by the CBSL following investigations conducted in accordance with Section 83C of the Banking Act No. 30 of 1988 to ascertain whether the following entities or applications conduct or have conducted schemes prohibited in terms of Section 83C of the Banking Act.
+
+◼️
+
+[Data](articles/928765fd.json)
+
+[Extended Data](ext_articles/928765fd.ext.json)
 
 ---

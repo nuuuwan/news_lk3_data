@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 18:52:23**
+As of **2024-04-23 19:03:40**
 
 ## Newspaper Stats
 
-*Scraped **20,471** Articles*
+*Scraped **20,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,710
 tamilmirrorlk | 2,363
 adaderanalk | 2,443
 virakesarilk | 3,072
-dailymirrorlk | 3,188
+dailymirrorlk | 3,190
 adaderanasinhalalk | 3,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,471 (100.0%) of 20,471 articles have been extended.
+20,471 (100.0%) of 20,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### ’Caution’ level temperature rises
+
+*2024-04-23 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Caution-level-temperature-rises/108-281214) · `en`
+
+Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning yesterday about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
+
+They said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution'.
+
+According to the heat advisory issued, the 'Caution Level' was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
+
+This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
+
+...
+
+[Data](articles/7cb3bb5c.json)
+
+---
 
 ### National People's Power is popular among the people - Chinese delegation
 
@@ -397,6 +415,26 @@ The Department of Examinations said that the GCE Ordinary Level Examination will
 [Data](articles/9cf7eaf1.json)
 
 [Extended Data](ext_articles/9cf7eaf1.ext.json)
+
+---
+
+### Over 25 tons of garbage disposed in Sri Pada for five months
+
+*2024-04-23 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-25-tons-of-garbage-disposed-in-Sri-Pada-for-five-months/108-281210) · `en`
+
+Hatton, April 23 (Daily Mirror)- More than 25 tons of garbage have been disposed of into the environment in the Sri Pada route from Nallathaniya for the last five months of the Sri Pada pilgrimage season.
+
+Envornment Promotion Officer of Maskeliiya Pradeshiya Sabha, Rasika Samaranayake said the stock of solid waste included about three tons of plastic bottles.
+
+She said the Environmental Unit of the Maskeliya Pradeshiya Sabha will be responsible for clearing garbage disposed of by the pilgrims during the six months of the Sri Pada pilgrim season
+
+The Environmental Officer pointed out that a heavy influx of pilgrims have been experienced on every weekends, particlularly during long weekend holidays and that the disposal of garbage including solid waste had increased.
+
+She said a team of labourers of the Pradeshiya Sabha had been deployed to collect and transport garbage to the recycling centre at Rikaton in Maskeliya.
+
+◼️
+
+[Data](articles/a4d7be1c.json)
 
 ---
 
@@ -2281,41 +2319,5 @@ However, foreign media reports that there is no revelation of the damage caused 
 [Data](articles/443c4c75.json)
 
 [Extended Data](ext_articles/443c4c75.ext.json)
-
----
-
-### Anura Kumara gives date for debate with Sajith
-
-*2024-04-23 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-gives-date-for-debate-with-Sajith/108-281197) · `en`
-
-The National People's Power (NPP) has officially notified the Samagi Jana Balawegaya (SJB) yesterday that they are prepared to hold the proposed debate between NPP leader Anura Kumara Dissanayake and SJB leader Sajith Premadasa on one of the following days: May 7, 9, 13, or 14.
-
-In a letter sent by NPP executive member Dr. Nalinda Jayatissa, to SJB General Secretary Ranjith Madduma bandara yesterday afternoon, it was emphasized that without a set date for the debate, misunderstandings may arise among the public.
-
-The NPP requested the SJB to promptly inform them if they do not agree to the debate.
-
-◼️
-
-[Data](articles/29ca18ed.json)
-
-[Extended Data](ext_articles/29ca18ed.ext.json)
-
----
-
-### Police open fire at defiant three-wheeler; two people dead
-
-*2024-04-23 06:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98785/police-open-fire-at-defiant-three-wheeler-two-people-dead) · `en`
-
-Two individuals have died after the police opened fire at a three-wheeler that failed to comply with the orders to pull over.
-
-The incident took place near the tyre factory in Moragahahena.
-
-Another individual who was inside the vehicle at the time has meanwhile escaped.
-
-◼️
-
-[Data](articles/9b264125.json)
-
-[Extended Data](ext_articles/9b264125.ext.json)
 
 ---

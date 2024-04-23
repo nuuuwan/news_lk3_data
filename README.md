@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 01:18:24**
+As of **2024-04-24 01:33:55**
 
 ## Newspaper Stats
 
-*Scraped **20,515** Articles*
+*Scraped **20,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
-dailyftlk | 1,133
+dailyftlk | 1,137
 economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,366
@@ -26,27 +26,97 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,514 (100.0%) of 20,515 articles have been extended.
+20,515 (100.0%) of 20,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ருத்துராஜ், டுபே ஆகியோரின் அதிரடிகளை வீணடித்தார் ஸ்டொய்னிஸ் ; நான்கு நாட்கள் இடைவெளியில் சென்னையை மீண்டும் வென்றது லக்னோவ்
+### Prolonged West Asian instability re-shapes global system
+
+*2024-04-24 01:14:57* · [`dailyftlk`](https://www.ft.lk/columns/Prolonged-West-Asian-instability-re-shapes-global-system/4-760936) · `en`
+
+The core problem, the Gaza war continues to shock and anger the world community, which is why world perspectives are shifting
+
+Two hundred days after it began last 7 October, the terrible, system-shaking, Gaza war, is now a whole West Asian regional crisis. The very prolongation of the military onslaught on Gaza and the violence in the West Bank as well as its highly controversial and socially devastating nature has very quickly expanded it beyond Israel-Palestine’s borders. Given the current global systemic intimacy, it is actually a global crisis.
+
+Today, we, in Sri Lanka, are directly affected by the West Asian war crisis that the Gaza war has become. Leave aside the simple danger of long-range missile mis-targeting in our neighbouring region of West Asia. Long range missiles possessed by some of the combatant states, carrying nuclear payloads, can, with a possible targeting failure, easily come in Sri Lanka’s direction.
+
+...
+
+[Data](articles/6095f1ce.json)
+
+---
+
+### The Gandhi of Sri Lanka: Dr. Ari is the apostle of peace to the world and beyond
+
+*2024-04-24 01:11:20* · [`dailyftlk`](https://www.ft.lk/columns/The-Gandhi-of-Sri-Lanka-Dr-Ari-is-the-apostle-of-peace-to-the-world-and-beyond/4-760935) · `en`
+
+(KRAKOW, Poland): On the morning of 16 April, Dr. A.T. Ariyaratne’s family informed me that he was in critical condition. In the quiet of the evening, I was heartbroken to learn that “Ari Aiya” of Sarvodaya—as I affectionately called him for more than half a century—departed us peacefully.
+
+With a clear and sharp mind until his last breath, the 92-year-old soul lived for others with his quintessentially Buddhist way of life as a compassionate servant-leader. Undeniably, Ari Aiya drew equal inspiration from the Gandhian philosophy of non-violence. When he received the Hubert H. Humphrey International Humanitarian Award from the University of Minnesota’s Humphrey School of Public Affairs in 1994, I hailed him as the “Gandhi of Sri Lanka.”
+
+...
+
+[Data](articles/18fcaa85.json)
+
+---
+
+### Tolerance of failure: Essential in innovating and risk-taking
+
+*2024-04-24 01:06:54* · [`dailyftlk`](https://www.ft.lk/columns/Tolerance-of-failure-Essential-in-innovating-and-risk-taking/4-760934) · `en`
+
+Innovation and continuous learning are impossible in a culture where there is no tolerance for failure
+
+An organisation’s attitude towards failure has a significant bearing, amongst others, on its drive for innovation, improvement through continuous learning, penchant for risk-taking and the willingness of its employees to delegate.
+
+...
+
+[Data](articles/d9bbf838.json)
+
+---
+
+### Debt, divestiture and discontent
+
+*2024-04-24 00:53:52* · [`dailyftlk`](https://www.ft.lk/columns/Debt-divestiture-and-discontent/4-760933) · `en`
+
+When Governments borrow, they actually mortgage the livelihood of citizens as collateral
+
+Debt negotiations between Government’s hired experts and private sovereign bond holders are reported to be progressing under closed doors and to the satisfaction of the principal supervisor IMF. This has convinced the former SLBC Governor Indrajit Coomaraswamy to feel confident that the third tranche of IMF’s $ 3 billion EFF would be released soon.
+
+...
+
+[Data](articles/ceb05649.json)
+
+---
+
+### Stoinis wasted the actions of Ruthuraj and Tube;Lucknov beat Chennai again in four days
 
 *2024-04-24 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181800) · `ta`
 
-சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (23) நடைபெற்ற 38ஆவது இண்டியன் பிறீமியர் லிக் அத்தியாயத்தின் 39ஆவது போட்டியில் சென்னை சுப்பர் கிங்ஸை எதிர்த்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 6 விக்கெட்களால் அபார வெற்றிபெற்றது.
+Lucknow Super Giants won by 6 wickets against Chennai Chepakkam in the 39th IPL match, with Marcus Stoinis's century leading to victory. Chennai's bowlers faltered, and Lucknow scored 211. Stoinis and Pooran shared significant runs, while Dhoni's cameo was brief.
 
-புத்திசாதுரியத்துடன் துடுப்பெடுத்தாடிய மாக்கஸ் ஸ்டொய்னிஸ் ஆரம்பத்தில் நிதானத்தைக் கடைப்பிடித்ததுடன் கடைசியில் அதிரடியைப் பிரயோகித்து அபார சதம் குவித்து லக்னோவை வெற்றி அடையச் செய்தார். ஐபிஎல் போட்டியில் மாக்கஸ் ஸ்டொய்னிஸ் குவித்த முதலாவது சதம் இதுவாகும்.
+🟩
 
-இதன் காரணமாக ருத்துராஜ் கய்க்வாட் குவித்த ஆட்டமிழக்காத சதமும் ஷிவம் டுபே விளாசிய அரைச் சதமும் வீண் போயின.
+Chennai Chepakkam MA. Lucknov Super Giants won by 6 wickets in the 39th match of the 38th Indian Premier Lick chapter held on Tuesday (23) at Chidambaram Stadium.
 
-சென்னை பந்துவீச்சாளர்கள் ஆரம்பத்தில் சிறப்பாக பந்துவீசிய போதிலும் பின்னர்  மோசமாக பந்துவீசி ஓட்டங்களை வாரி வழங்கியதால் அவர்களது அணி தோல்வி அடைந்தது. இலங்கையின் மதீஷ பத்திரண மாத்திரமே சிறப்பாக பந்துவீசினார்.
+Maccus Stoinis, who was wisely, initially adopted relaxation and finally applied the action and conquered Lucknow.. This is the first century in Maccus Stoinis in the IPL.
+
+Due to this, Rutraj Gaygwat was unbeaten and half a century of Shivam Tube Valasa was in vain.
+
+Chennai bowlers initially bowled well, but then their team failed as they gave a bad bowling.. Only Sri Lanka's Madisha Bandara bowled well.
+
+In the IPL R20 match, Lucknow, who scored a huge hit 211 at the Chennai Stadium. Maccus Stoinis is a special feature of the highest number of runs on behalf of the second team in the stadium.
+
+Prior to this, Chennai Super Kings were successful in replying the biggest victory target of 206 runs set by Kolkata Knight Riders in 2012.
+
+Quinton de Kok lost the game and team captain KL. Rahul left with 16 runs. (33 - 2 wig.)
 
 ...
 
 [Data](articles/edddff2c.json)
+
+[Extended Data](ext_articles/edddff2c.ext.json)
 
 ---
 
@@ -2243,93 +2313,5 @@ The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercros
 [Data](articles/b753346d.json)
 
 [Extended Data](ext_articles/b753346d.ext.json)
-
----
-
-### UK parliament approves Rwanda deportation bill, ending weeks of legislative stalemate
-
-*2024-04-23 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98792/uk-parliament-approves-rwanda-deportation-bill-ending-weeks-of-legislative-stalemate) · `en`
-
-British Prime Minister Rishi Sunak ‘s latest effort to send some migrants to Rwanda finally won approval from Parliament early Tuesday, hours after he pledged deportation flights would begin in July.
-
-The parliamentary logjam that had stalled the legislation for two months was finally broken just after midnight when the unelected House of Lords “recognized the primacy” of the elected House of Commons and dropped the last of its proposed amendments, clearing the way for the bill to become law.
-
-Earlier in the day, Sunak held a rare morning press conference to demand that the Lords stop blocking his key proposal for ending the tide of migrants crossing the English Channel in small boats, promising that both houses of Parliament would remain in session until it was approved.
-
-...
-
-[Data](articles/97401602.json)
-
-[Extended Data](ext_articles/97401602.ext.json)
-
----
-
-### Diyatalawa car racing accident
-
-*2024-04-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181760) · `ta`
-
-A car race in Diyatalawa resulted in 7 deaths and 21 injuries. A committee is investigating the cause.
-
-🟩
-
-A military spokesman said that a seven -member committee has been appointed to investigate the cause of the accident during the car race in Diyathalawa.
-
-Seven people were killed and 21 injured in a car race in Diyatalawa last Sunday.
-
-◼️
-
-[Data](articles/6219b418.json)
-
-[Extended Data](ext_articles/6219b418.ext.json)
-
----
-
-### Elon Maxk's arrogant millionaire;Australian PM Sadel
-
-*2024-04-23 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181755) · `ta`
-
-Australian PM Antony Albenez criticized Elon Musk as a millionaire, referencing a knife video at Sydney Church. The court ordered social media to hide these videos, with the decision based on the court case. Musk's actions are seen as beyond common morality, and the Australian Commissioner warned against fines for social media if the video is not removed.
-
-🟩
-
-Australian Prime Minister Antony Albenez has claimed that Elon McCon was a millionaire.
-
-Elon's Maskin has been criticized by Australian Prime Minister Timiripitti as a millionaire as X refuses to remove the knife video at Sydney Church.
-
-Last week, the Australian court ordered social media to cover up these videos.
-
-The X -site said that the decision would be made based on the case in court.
-
-Antony Albanis said that the Musk is not the law of law, but that he is beyond common morality.
-
-Last week, Australia's Commissioner's Commissioner had warned that social media would not be fined if the video related to the Sydney church knife would be imposed.
-
-The Australian Prime Minister said that the refusal of the X site to accept the order and the commentary against it is an unusual issue.
-
-◼️
-
-[Data](articles/ac14503a.json)
-
-[Extended Data](ext_articles/ac14503a.ext.json)
-
----
-
-### Names of companies involved in the pyramid notice
-
-*2024-04-23 12:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ஈடுபட்ட-நிறுவனங்களின்-பெயர்கள்-அறிவிப்பு/175-336232) · `ta`
-
-The Central Bank of Sri Lanka (CBSL) has identified eight companies in pyramid schemes, investigating their involvement in banned projects under Article 30 of the Banking Act No. 30 of 1988.
-
-🟩
-
-Based on the complaints received, the Central Bank of Sri Lanka (CBSL) has released the names of eight other companies identified as involved in pyramid activities.
-
-Investigations are being carried out to determine whether the following companies or applications are involved in banned projects based on Article 30 of the Banking Act No. 30 of 1988.
-
-◼️
-
-[Data](articles/e50e34f9.json)
-
-[Extended Data](ext_articles/e50e34f9.ext.json)
 
 ---

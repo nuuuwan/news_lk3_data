@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 08:18:22**
+As of **2024-04-23 08:34:04**
 
 ## Newspaper Stats
 
-*Scraped **20,372** Articles*
+*Scraped **20,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,131
 economynextcom | 1,160
-adalk | 1,698
+adalk | 1,699
 tamilmirrorlk | 2,346
 adaderanalk | 2,430
 virakesarilk | 3,051
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,370 (100.0%) of 20,372 articles have been extended.
+20,372 (100.0%) of 20,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -576,27 +576,35 @@ It is also noteworthy that the homes of public servants were being mocked by the
 
 ---
 
-### මෙරට දරුවන්ගේ නිරුවත් ෆොටෝ, වීඩියෝ ලක්ෂ ගණනක් ගැන ජාත්‍යන්තර වාර්තාවක් පොලිසියට
+### International report to the police for nudgeto photos of children in Sri Lanka
 
 *2024-04-23 02:05:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1d4g27nez7o) · `si`
 
-මෙරට දරුවන්ගේ නිරුවත් ෆොටෝ, වීඩියෝ ලක්ෂ ගණනක් ගැන ජාත්‍යන්තර වාර්තාවක් පොලිසියට
+Sri Lanka's efforts to combat child pornography have led to increased reports and international attention. The Police Children's and Women's Abuse Prevention Bureau has received a significant number of complaints, with a notable increase in 2022 and 2023. The NCMEC database plays a crucial role in identifying and reporting such crimes. The National Child Protection Authority is working on preventing sexual abuse through education and has established a video evidence center.
 
-ශ්‍රී ලංකාව කිහිප වතාවක්ම ගූගල් අන්තර්ජාල සෙවුම හරහා ලෝකයේ SEX වචනය වැඩිම පිරිසක් සොයා බැලු රට බවට පත් විය.
+🟩
 
-ලිංගිකත්වය පිළිබඳව කතා කිරිම තවමත් මෙරට තුළ රහසක් සේ පවතින අතර ලිංගික අධ්‍යාපනය පාසල් විෂය මාලාවට එක් කිරිමට ගත් උත්සාහයන්ට ආගමික සංස්ථා ඇතුලුව සමාජයේ ඇති වූ විරෝධය මැද හකුලා ගන්නට සිදුවිය.
+International report to the police for nudgeto photos of children in Sri Lanka
 
-වත්මන් රජය විසින් මාර්ගගත සුරක්ෂිතභාවය පිළිබඳ වු පනත ගෙන එන අවස්ථාවේ දී ප්‍රකාශ කළ එක් ප්‍රධන හේතුවක් ලෙස සඳහන් කළේ දරුවන්ට හා කාන්තාවන්ට අන්තර්ජාලය හරහා වන අපරාධ වැළැක්වීම ය.
+Sri Lanka several times in Google Internet search became the country in the world.
 
-එවන් පසුබිමක් තුළ මාර්ගගත ක්‍රම හරහා දරුවන් සම්බන්ධ  ප්‍රකාශන හෙවත් ළමුන්ගේ අසභ්‍ය ඡායාරූප හා වීඩියෝ සම්බන්ධව ලැබෙන පැමිණිලි වැඩි වී ඇතැයි බීබීසී සිංහල වෙත අනාවරණය කර ගැනීමට හැකි විය.
+Talking about sex is still a secret in the country and the efforts to join the school curriculum had to have acted in the middle of a religious corporations.
 
-දෙමාපියන්ට, ගුරුවරුන්ට දරුවන්ගේ ඡායාරූප සමාජ මාධ්‍යවල පළ කළ හැකි ද?
+One policy reasonable as a policy stated by the present government was the prevention of children and women to prevent the internet crimes.
 
-ළමුන් සම්බන්ධ අසභ්‍ය පළකිරිම් 10 ක් සම්බන්ධව මේ වසරේ මුල් මාස තුනේ දී පමණක් වාර්තා වී ඇති බව පොලිස් ළමා හා කාන්තා අපයෝජන නිවාරණ කාර්යාංශය අනාවරණය කළේය.
+Such a backdrop has increased to BBC Sinhala that complaints of children involving children, or children's publications, or video complaints have increased.
+
+Can parents, teachers post the photos of their children in social media?
+
+The Police Children's and Women's Abuse Prevention Bureau revealed that only 10 children involved in child pornography.
+
+The number of complaints have increased compared to two years in relation to these incidents and has received 13 and 20 complaints in 2022 and 2023.
 
 ...
 
 [Data](articles/c47c5736.json)
+
+[Extended Data](ext_articles/c47c5736.ext.json)
 
 ---
 
@@ -618,17 +626,23 @@ Criticism is also charged towards an after-event organised in line with the race
 
 ---
 
-### ஈரான் ஜனாதிபதி நாளை இலங்கைக்கு விஜயம்
+### Iran's President visits Sri Lanka tomorrow
 
 *2024-04-23 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதி-நாளை-இலங்கைக்கு-விஜயம்/175-336220) · `ta`
 
-ஈரானிய ஜனாதிபதி இப்ராஹிம் ரைசி நாளை  இலங்கைக்கு விஜயம் மேற்கொள்ளவுள்ளார் என அரசாங்க தகவல் திணைக்களம் அறிவித்துள்ளது.
+Iran's President Ibrahim Raisi visits Sri Lanka tomorrow for the Uma Oya development program, funded by Iran with $529 million.
 
-ஈரானின் 529 மில்லியன் டொலர் நிதியுதவியுடன் நிர்மாணிக்கப்பட்டுள்ள உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை பொதுமக்களின் பயன்பாட்டுக்காக கையளிக்கும் நிகழ்வில் பங்கேற்பதற்காக அவர் இலங்கை வரவுள்ளார் என தெரிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+The Government Information Department has announced that Iranian President Ibrahim Raisi will visit Sri Lanka tomorrow.
+
+He is expected to come to Sri Lanka to participate in the Uma Oya multi -purpose development program, which has been constructed by Iran's $ 529 million for public use.. (A)
 
 ◼️
 
 [Data](articles/f5363f67.json)
+
+[Extended Data](ext_articles/f5363f67.ext.json)
 
 ---
 
@@ -1782,6 +1796,22 @@ He added that it is advisable to stop the property by abolishing the post of MP.
 
 ---
 
+### වගා නොකළ ඉඩම් වගා කිරීමට කැමති අයට නිදහස් කරයි
+
+*2024-04-22 19:25:01* · [`adalk`](https://www.ada.lk/breaking_news/වගා-නොකළ-ඉඩම්-වගා-කිරීමට-කැමති-අයට-නිදහස්-කරයි/11-409214) · `si`
+
+මෙතෙක් වගා නොකළ නමුත් වගා කළ හැකි ඉඩම් වගා කිරීමට කැමති අය සඳහා නිදහස් කිරීමට රජය ප්‍රතිපත්තිමය තීන්දුවක් ගෙන ඇති බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවසීය.මේ තුළ කිසිසේත්ම ඉඩම් හිමිකම් පැවරීමක් නොවන්නට වග බලාගන්නා බව ද හෙතෙම සඳහන් කළේය.
+
+තමන්ට වුවමනා වගා කළ හැකි භූමියේ හිමිකම එසේම තිබියදී නිෂ්පාදනය පමණක් හැකි අය වෙත පැවරීම පමණක් බවත්, දැනට වතු සමාගම් සතු වතුවල පවා වගා නොකරන බිම් අයිතිය වගා කළ හැකි අය වෙත ලබා දීම සඳහා වන නීති සංශෝධන ගෙන ඒමට රජය කටයුතු කරන බවත් අග්‍රාමාත්‍යවරයා පැවසීය. එතුළින් ගම අපනයනාභිමුක නිෂ්පාදන ඒකකයක් කිරිම සඳහා වන ඇරඹුමක් ලබා ගන්නට බලාපොරොත්තු වන බව ද හෙතෙම කීවේය.
+
+අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ දෙහිඕවිට ප්‍රාදේශීය ලේකම් කාර්යාලයේදී ග්‍රාමීය ආර්ථිකය ශක්තිමත් කිරීම සහ සුළු පරිමාණ කුකුළු ගොවිපොළ හිමිකරුවන් නංවාලීම අරමුණු කරගෙන සිදු කරන බිත්තර රැක්කවීමේ යන්ත්‍ර බෙදාදීමේ වැඩසටහනට ඊයේ (22දා) එක්වෙමිනි.
+
+...
+
+[Data](articles/58ac9655.json)
+
+---
+
 ### Explanation for 9 suspects including Keheliya
 
 *2024-04-22 19:15:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்ட-9-சந்தேகநபர்களுக்கும்-விளக்கமறியல்/175-336205) · `ta`
@@ -2127,27 +2157,5 @@ The upcoming OIC summit, to be convened in Gambia, promises significant particip
 [Data](articles/efd44f83.json)
 
 [Extended Data](ext_articles/efd44f83.ext.json)
-
----
-
-### President calls on Chief Prelates of Malwatu and Asgiri chapters
-
-*2024-04-22 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98778/president-calls-on-chief-prelates-of-malwatu-and-asgiri-chapters) · `en`
-
-President Ranil Wickremesinghe called on the Chief Prelates of the Malwathu and Asgiri Chapters yesterday (21) to seek their blessings.
-
-First, President Ranil Wickremesinghe visited the Malwathu Maha Viharaya and paid his respects to the Chief Prelate of the Malwathu Chapter, Most Ven. Thibbatuwawe Sri Sumangala Nayaka Thera, followed by a brief discussion. The Anunayake of the Malwathu Chapter,
-
-Most Venerable Dimbulkumbure Vimaladhamma Thera, was also present, and together they chanted Seth Pirith and blessed the President.
-
-Thereafter, President Ranil Wickremesinghe preceded to the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Thera, and engaged in a brief discussion.
-
-During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Muthiyangana Raja Maha Vihara, Ven. Murundeniye Dhammarathana Thera recited Seth Pirith and invoked blessings upon the President.
-
-◼️
-
-[Data](articles/dcf4e6e0.json)
-
-[Extended Data](ext_articles/dcf4e6e0.ext.json)
 
 ---

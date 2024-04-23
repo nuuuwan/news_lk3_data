@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 09:52:51**
+As of **2024-04-23 10:03:53**
 
 ## Newspaper Stats
 
-*Scraped **20,379** Articles*
+*Scraped **20,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ dailyftlk | 1,131
 economynextcom | 1,160
 adalk | 1,700
 tamilmirrorlk | 2,348
-adaderanalk | 2,432
+adaderanalk | 2,434
 virakesarilk | 3,051
 dailymirrorlk | 3,171
-adaderanasinhalalk | 3,304
+adaderanasinhalalk | 3,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,377 (100.0%) of 20,379 articles have been extended.
+20,379 (100.0%) of 20,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### මැලේසියාවේ හමුදා හෙලිකොප්ටර් දෙකක් ගුවනේදී ගැටෙයි
+
+*2024-04-23 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195887) · `si`
+
+මැලේසියාවේ හමුදා පුහුණුවීමක් අතරතුර හෙලිකොප්ටර් යානා දෙකක් අනතුරට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/ff7ed977.json)
+
+---
+
+### Ten dead as two helicopters crash during military rehearsal in Malaysia
+
+*2024-04-23 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98789/ten-dead-as-two-helicopters-crash-during-military-rehearsal-in-malaysia-) · `en`
+
+Ten crew members have died after two navy helicopters collided in mid-air during a military rehearsal for a Royal Malaysian Navy parade.
+
+One of the choppers clipped the rotor of the other before the two crashed into the ground, footage published on local media show.
+
+The incident took place in the Malaysian town of Lumut, which is home to a navy base.
+
+One of the helicopters is believed to have crashed onto a running track, while the other crashed into a swimming pool nearby.
+
+◼️
+
+[Data](articles/f2437918.json)
+
+---
+
+### පොලිස් වෙඩිතැබීමෙන් මිය ගිය පුද්ගලයින්ගේ අනන්‍යතාවය හෙළිවෙයි
+
+*2024-04-23 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195886) · `si`
+
+අද (23) අලුයම මීගොඩ පොලිස් වසමේ බෙරුකැටිය මංසන්ධිය අසල මාර්ග බාධක රාජකාරියේ යෙදී සිටි පොලිස් නිලධාරීන් අණ නොතැකූ ත්‍රීරෝද රථයකට වෙඩි තැබීමක් සිදුකර තිබිණී.
+
+දොම්පේ දෙස සිට පැමිණි ත්‍රීරෝද රථයක් නැවැත්වීම සඳහා සංඥා කර ඇති අතර, ඔවුන් පොලිස් අණ නොතකා ඉදිරියට ධාවනය කර ඇති අතර පොලිස් නිලධාරීන් දෙසට වෙඩි තැබීමක් සිදුකර මොරගහහේන දෙසට ගමන් කර ඇත.
+
+අනතුරුව ඒ සම්බන්ධයෙන් අවට පොලිස් ස්ථාන දැනුවත් කිරීමට කටයුතු යොදා තිබේ.
+
+එහිදී මොරගහහේන පොලිස් වසමේ මෙහෙයුම් රාජකාරි යෙදී සිටි බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසයේ නිලධාරීන් හට මෙම පණිවුඩය ලැබීමෙන් පසු පළා යමින් සිටි ත්‍රීරෝද රථය මොවුන් විසින් නැවැත්වීමට සංඥා කර තිබේ.
+
+එම අවස්ථාවේ දී ත්‍රීරෝද රථය අණ නොතකා පළා යෑම හේතුවෙන් එම නිලධාරීන් විසින් ලුහුබැඳ ගොස් ඇති අතර ත්‍රීරෝද රථය මාර්ගයෙන් ඉවතට පැන නතර වී ඇත.
+
+ලුහුබැඳ පැමිණි ජිප් රථය ත්‍රීරෝද රථය ආසන්නයට පැමිණ නවත්නවාත් සමග ත්‍රීරෝද රථයේ සිටි පුද්ගලයෙකු විසින් ජිප් රථය දෙසට වෙඩිතැබීමක් සිදුකළ බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/cdadcb4f.json)
+
+---
+
+### Railways General Manager H.M.K.W. Bandara passes away
+
+*2024-04-23 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98788/railways-general-manager-hmkw-bandara-passes-away) · `en`
+
+General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morning due to a sudden illness.
+
+◼️
+
+[Data](articles/0131d927.json)
+
+---
 
 ### Railways chief H.M.K.W. Bandara passes away
 
@@ -42,23 +106,31 @@ General Manager of Railways H. M. K. W. Bandara passed away on Tuesday (23) morn
 
 [Data](articles/4cc50609.json)
 
+[Extended Data](ext_articles/4cc50609.ext.json)
+
 ---
 
-### දුම්රිය සාමාන්‍යාධිකාරීවරයා අභාවප්‍රාප්ත වෙයි
+### Death of the General Manager of Railways
 
 *2024-04-23 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195885) · `si`
 
-දුම්රිය සාමාන්‍යාධිකාරී එච්.එම්.කේ.ඩබ්ලිව්. බණ්ඩාර මහතා අද (23) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+HMK. Bandara, former Railway General Manager, passed away suddenly at Anuradhapura hospital. He was an engineer from Matale Science and Moratuwa Universities, serving as Railway Head Engineer and Additional General Manager.
 
-හදිසියේ ඇති වූ රෝගාබාධයක් හේතුවෙන් ඒ මහතා අනුරාධපුර රෝහලට ඇතුළත් කර සිටියදී එලෙස අභාවප්‍රාප්ත ඇති බව රෝහල් ආරංචි මාර්ග සඳහන් කරයි.
+🟩
 
-මාතලේ විද්‍යා විද්‍යාලයේ ආදි ශිෂ්‍යයකු වූ ඒ මහතා පේරාදෙණිය හා මොරටු විශ්වවිද්‍යාලවලින් උසස් අධ්‍යාපනය ලබා ඉංජිනේරුවරයකු ලෙස වෘත්තිය ජීවිතය ඇරඹීය.
+Railway General Manager HMK. Bandara has passed away this morning (23).
 
-දුම්රිය ප්‍රධාන ඉංජිනේරු (මාර්ග හා කර්මාන්ත) හා අතිරේක සාමාන්‍යාධිකාරි (යටිතල පහසුකම්) පදවි ඇතුළු දුම්රිය ක්ෂේත්‍රයේ ඉහළ පදවි රැසක් ද ඔහු විසින් හොබවනු ලැබීය.
+According to hospital sources, he passed away at the Anuradhapura hospital due to a sudden illness.
+
+He was a past pupil of Matale science and Moratuwa universities to be engineered as engineer.
+
+Railway Head Engineer (Road Engineering) and Additional General Manager (Infrastructure)
 
 ◼️
 
 [Data](articles/96d81322.json)
+
+[Extended Data](ext_articles/96d81322.ext.json)
 
 ---
 
@@ -2055,97 +2127,5 @@ Maligakanda Magistrate Lochani Abeywickrema issued this order when the case was 
 [Data](articles/4f3f513f.json)
 
 [Extended Data](ext_articles/4f3f513f.ext.json)
-
----
-
-### Keheliya remanded again
-
-*2024-04-22 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195872) · `si`
-
-Keheliya Rambukwella, former Health Minister, and nine suspects were remanded again from May to May on antibody charges. Their bail was rejected.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and the nine suspects were remanded again from May until May of the questionable antibodies.
-
-When the case was taken up again today, Maligakanda Magistrate Luchene Abeywickrama made this order.
-
-The bail of the President's Counsel appearing on behalf of former Minister of Health Keheliya Rambukwella was rejected.
-
-◼️
-
-[Data](articles/344468fc.json)
-
-[Extended Data](ext_articles/344468fc.ext.json)
-
----
-
-### Foreign State Debt Relief issue: Failure of negotiations with international bailouts
-
-*2024-04-22 18:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/181703) · `ta`
-
-Sri Lanka's negotiations with international bailouts for foreign debt relief have failed, despite efforts to restructure debt. The government rejected bailout proposals, and only $1.678 billion needs to be paid by 2023.12.31.
-
-🟩
-
-The government's negotiations with international bailouts for foreign government loans have failed.
-
-He was speaking at a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Colombo on Monday (22).
-
-The government is negotiating with three sides on debt restructuring. First, the official committee, which includes other credit providers, except China, has bilateral discussions on the basis of the second China and the third international bailouts.
-
-Despite the decision to renovate debt restructuring in discussions with other credit providers, including China, all the discussions between the international bailout and the Sri Lankan representatives have failed.
-
-The Sri Lankan government has rejected the proposal proposed by the bailouts on debt renovation during a recent meeting with international bailouts in London.
-
-International bailouts have reacted interest on delayed fees as the debt restructuring continues. Only $ 1,678 million has to be paid until the period of 2023.12.31.
-
-...
-
-[Data](articles/12b4dff3.json)
-
-[Extended Data](ext_articles/12b4dff3.ext.json)
-
----
-
-### Inflation is reduced
-
-*2024-04-22 18:25:07* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-අඩුවෙයි/11-409210) · `si`
-
-Inflation fell to 2.5% in March 2024, down from February's report.
-
-🟩
-
-According to the National Institute of Consumer Price Index, the country's inflation has fallen to 2.5% for March 2024.
-
-However, in February, 2024, the inflation was reported in March 2024.
-
-◼️
-
-[Data](articles/be51edc5.json)
-
-[Extended Data](ext_articles/be51edc5.ext.json)
-
----
-
-### Interruptions to build power in Kerawalapitiya - 33,000 Nugapa
-
-*2024-04-22 18:07:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙරවලපිටිය---නුගපේ-33-000ක-විදුලි-රැහැන-ඉදිකිරීමට-පැවති-බාධා-ඉවත්-කෙරේ/11-409208) · `si`
-
-In 2019, Kerawalapitiya received 33,000 kg of power from Nugapalawe. A committee, including representatives from various ministries and conservation departments, discussed the project. Despite protests from a state agency, the Cabinet approved construction. The committee agreed to protect the environment by taking measures against eight industries in the area.
-
-🟩
-
-The parties of the Independent of 33,000 kg of power in Kerawalapitiya - Nugapalawe - 33,000 kg of electricity was established in the year 2019.
-
-The sectoral Oversight Committee on the environment, natural resources and sustain development was held at the Chairman of Parliament Member of Parliament Hon.
-
-Ministry of Urban Development and Housing, Ministry of Power and Energy, Ministry of Power and Energy Conservation, Department of Power and Wildlife Conservation, Department of Wildlife Conservation, Central Environmental Staff, and the Muthurajawela Conservation AssociationOfficials representing the organizations were present.
-
-...
-
-[Data](articles/6341913a.json)
-
-[Extended Data](ext_articles/6341913a.ext.json)
 
 ---

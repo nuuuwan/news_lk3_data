@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 12:51:03**
+As of **2024-04-23 13:03:33**
 
 ## Newspaper Stats
 
-*Scraped **20,411** Articles*
+*Scraped **20,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,354
+tamilmirrorlk | 2,355
 adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,175
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,410 (100.0%) of 20,411 articles have been extended.
+20,411 (100.0%) of 20,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ Earlier in the day, Sunak held a rare morning press conference to demand that th
 ...
 
 [Data](articles/97401602.json)
+
+[Extended Data](ext_articles/97401602.ext.json)
+
+---
+
+### பிரமிட்டில் ஈடுபட்ட நிறுவனங்களின் பெயர்கள் அறிவிப்பு
+
+*2024-04-23 12:10:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ஈடுபட்ட-நிறுவனங்களின்-பெயர்கள்-அறிவிப்பு/175-336232) · `ta`
+
+பெறப்பட்ட முறைப்பாடுகளின் அடிப்படையில், இலங்கை மத்திய வங்கி (CBSL) பிரமிட் நடவடிக்கைகளில் ஈடுபட்டதாக அடையாளம் காணப்பட்ட மேலும் எட்டு நிறுவனங்களின் பெயர்களை வெளியிட்டுள்ளது.
+
+பின்வரும் நிறுவனங்கள் அல்லது விண்ணப்பங்கள் 1988 ஆம் ஆண்டின் வங்கிச் சட்ட எண் 30 பிரிவு 83C இன் அடிப்படையில் தடைசெய்யப்பட்ட திட்டங்களை ஈடுபட்டுள்ளனவா என்பதைக் கண்டறிய விசாரணைகள் முன்னெடுக்கப்படுகின்றன.
+
+◼️
+
+[Data](articles/e50e34f9.json)
 
 ---
 
@@ -2161,25 +2177,5 @@ Director Vinod Rajendran should be praised for giving them a different socially 
 [Data](articles/49b3092c.json)
 
 [Extended Data](ext_articles/49b3092c.ext.json)
-
----
-
-### Hyperling style is ready for 'color changing in color'
-
-*2024-04-22 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181691) · `ta`
-
-"Hyperling style film 'Color Valve Volunteer' blends four stories with different geographical settings and color schemes, featuring Bharathiraja, Naty, Rio Raj, and Sandy. Directed by Bharathiraja, it emphasizes relationships and is produced by Signature Productions and GS Cinema International. The first look has been released, with the director highlighting the unique experience it offers."
-
-🟩
-
-The first character of Tamil cinema describes as the various characters that support it, and the directors will entertain the audience as a result of a stop, and now the story is a new style of the four story.. The movie 'Color Valve Volunteer', which is currently playing the lead roles in the four leading roles of 'Director' Bharathiraja, Naty alias Natraj, Rio Raj and choreographer Sandy, is being produced in the hyper -link style.
-
-Bharathiraja, Natti, Rio Raj, Sandy, Suresh MenonAntony, Namo Narayanan, Vijith, Jeeva Sneha and many others have been cast.Mallika Arjun and Manikanda Raja are co -produced by Dev Prakash for the film.. The film is being produced by Signature Productions and GS Cinema International.
-
-...
-
-[Data](articles/0b259339.json)
-
-[Extended Data](ext_articles/0b259339.ext.json)
 
 ---

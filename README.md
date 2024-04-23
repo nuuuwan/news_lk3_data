@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 01:51:41**
+As of **2024-04-24 02:03:36**
 
 ## Newspaper Stats
 
-*Scraped **20,519** Articles*
+*Scraped **20,523** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,366
 adaderanalk | 2,447
-virakesarilk | 3,082
+virakesarilk | 3,086
 dailymirrorlk | 3,200
 adaderanasinhalalk | 3,324
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,518 (100.0%) of 20,519 articles have been extended.
+20,519 (100.0%) of 20,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் : இன்று மீண்டும் கூடுகிறது சம்பள நிர்ணயசபை
+
+*2024-04-24 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181804) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் தொடர்பான பேச்சுவார்த்தைகளை முன்னெடுப்பதற்கு சம்பள நிர்ணய சபை  புதன்கிழமை (24) மீண்டும் கூடவுள்ளது. தொழில் ஆணையாளர் நாயகம் எச்.கே.கே.ஏ.ஜயசுதந்தர தலைமையில் கூடவுள்ள சம்பள நிர்ணய சபையில் தொழிற்சங்கங்கள், முதலாளிமார் சம்மேளனம் மற்றும் அரச தரப்பினர் பங்கேற்கவுள்ளனர்.
+
+கடந்த 10ஆம் திகதி பெருந்தோட்டத் தொழிலாளர்களின் சம்பளம் தொடர்பில் தீர்மானிப்பதற்காக சம்பள நிர்ணய சபை கூட்டப்பட்ட போதிலும், இறுதி நேரத்தில் முதலாளிமார் சம்மேளனம் சமூகமளிக்காமையினால் பேச்சுவார்த்தை ஒத்திவைக்கப்பட்டது. சம்பள நிர்ணய சபை கூடுவது குறித்து தமக்கு உரிய நேரத்தில் அறிவிக்கப்படவில்லை எனத் தெரிவித்து முதலாளிமார் சம்மேளனம் பேச்சுவார்த்தையில் பங்கேற்றிருக்கவில்லை.
+
+...
+
+[Data](articles/6d7903bb.json)
+
+---
+
+### பிரபல வர்த்தகரிடம் 100 மில்லியன் பேரம் பேசிய மைத்திரி; அமைச்சர் மஹிந்த அமரவீர பகிரங்க குற்றச்சாட்டு
+
+*2024-04-24 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181803) · `ta`
+
+ஜனாதிபதி வேட்பாளராகக் களமிறங்கவுள்ளதாக அறிவிக்கப்பட்டுள்ள பிரபல வர்த்தகர் ஒருவரிடம், முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திர கட்சியை ஏலம் விடுவதற்கு 100 மில்லியன் பேரம் பேசியுள்ளதாக அமைச்சர் மஹிந்த அமரவீர குற்றஞ்சுமத்தினார்.
+
+செவ்வாய்கிழமை (23) விவசாய அமைச்சில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இவ்வாறு குற்றஞ்சுமத்திய அவர் மேலும் தெரிவிககையில்,
+
+அமைச்சர் நிமல் சிறிபால டி சில்வாவே ஸ்ரீலங்கா சுதந்திர கட்சியின் சட்ட பூர்வமான பதில் தவிசாளராவார். அவருக்கான நியமனம் வழங்கப்பட்டு இரண்டு வாரங்கள் கடந்துள்ளன. அவரது நியமனத்துக்கு எதிராக எவ்வித ஆட்சேபனைகளும் வெளியிடப்படவில்லை. எந்த தரப்பும் நீதிமன்றத்துக்கும் செல்லவில்லை.
+
+கடந்த ஞாயிற்றுக்கிழமை திடீரென நிறைவேற்றுக்குழு கூட்டப்பட்டது. எமக்கு அழைப்பு வரும் போது செல்லவதற்கான நேரம் கூட இல்லை. அத்தோடு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு இடைக்கால தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது. செயலாளருக்கும் அந்த தடையுத்தரவு பொறுந்தும் என்று தெளிவாக அறிவிக்கப்பட்டுள்ள நிலையில் நிறைவேற்றுக்குழுவை கூட்ட முடியாது.
+
+...
+
+[Data](articles/429d89c8.json)
+
+---
+
+### உயிர்த்த குண்டு தாக்குதல் சம்பவம் : சபை ஒத்திவைப்பு விவாதம் இன்று ஆரம்பம்
+
+*2024-04-24 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181802) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் பாராளுமன்ற அமர்வு இன்று இடம்பெறவுள்ளது.எதிர்க்கட்சியினால் கொண்டுவரப்படும் பிரேரணைக்கு அமைய உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான சபை ஒத்திவைப்பு விவாதம் மூன்று நாட்களுக்கு நடத்தப்படவுள்ளது.
+
+இன்று புதன்கிழமை  காலை 9.30 மணி முதல் மு.ப 10.30 மணி வரையான காலப் பகுதியில் குற்றவியல் நடவடிக்கை முறைச் சட்டக்கோவை (திருத்தச்) சட்டமூலம் இரண்டாவது மதிப்பீடு,நஞ்சு வகைகள், அபின் மற்றும் அபாயகர ஔடதங்கள் பற்றிய கட்டளைச் சட்டத்தின் கீழான ஒழுங்குவிதி என்பன விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளன.
+
+அதனை தொடர்ந்து  காலை 10.30 மணி முதல் மாலை  5.30 மணி வரை உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் எதிர்க்கட்சியினால் கொண்டுவரப்படும் சபை ஒத்திவைப்புப் பிரேரணை மீதான விவாதம் இடம்பெறவுள்ளது.
+
+...
+
+[Data](articles/99291ba1.json)
+
+---
+
+### உமா ஓயா திட்டத்தைத் திறந்துவைக்க இன்று இலங்கை வருகிறார் ஈரான் ஜனாதிபதி
+
+*2024-04-24 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181801) · `ta`
+
+...
+
+[Data](articles/10afd8f3.json)
+
+---
 
 ### Prolonged West Asian instability re-shapes global system
 
@@ -93,6 +151,8 @@ Debt negotiations between Government’s hired experts and private sovereign bon
 ...
 
 [Data](articles/ceb05649.json)
+
+[Extended Data](ext_articles/ceb05649.ext.json)
 
 ---
 
@@ -2215,109 +2275,5 @@ The Sri Lanka External Affairs Ministry stated that the Iranian President Dr. Ib
 [Data](articles/aabf86f4.json)
 
 [Extended Data](ext_articles/aabf86f4.ext.json)
-
----
-
-### Investors who buy SriLankan
-
-*2024-04-23 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195891) · `si`
-
-The State Enterprise Rules Unit has revealed that 6 investors, including three invited, aim to buy SriLankan Airlines. Fits AVIATION, the first private airline in Sri Lanka to fly internationally, is among them. Dhammika Perera, controlling 51.01% of Hayleys PLC, is also involved. The Cabinet and State Enterprise Rulization Unit will approve the final decision in July.
-
-🟩
-
-The State Enterprise Rules Unit was revealed that 6 investors including three investors who were invited to buy SriLankan Airlines.
-
-Meanwhile, the world's top airline Air Asia, a leading lowest airline Air Asia, is reported.
-
-The State Enterprises Restructuring Unit operating under the Ministry of Finance, Economic Stability and National Policy, 6 investors have revealed the ambitions held to buy Sri Lankan Airlines SriLankan Airlines SriLankan Airlines.
-
-The parties who have agreed to buy the airline are the parties
-
-Fits AVIATION is also the first private airline in Sri Lanka to operate flights to international destinations.
-
-Fits running as a low price airline operates flights to destinations in South Asia and the Middle East.
-
-Hayleys PLC is a large group of companies engaged in diversified fields, and the billionaire business owner Dhammika Perera is its controlled partner.
-
-Dhammika Perera owned 51.01% of Hayleys PLC PLC's share capital on December 31, 2023.
-
-...
-
-[Data](articles/eda90607.json)
-
-[Extended Data](ext_articles/eda90607.ext.json)
-
----
-
-### Environmental impact on the activities of Sivanolipada mountain pilgrims
-
-*2024-04-23 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181762) · `ta`
-
-Pilgrims to Sivanolipada mountain dump 25 tonnes of waste, including 3 tonnes of plastic bottles, impacting the environment. The Maskeliya Pradeshiya Sabha collects and recycles the waste, highlighting the need for better waste management during the peak pilgrimage season.
-
-🟩
-
-The environmental officer says that the waste is polluted by the pilgrims going to the Sivanolipada hill.
-
-During this year's Sivanolipada Padamalai pilgrimage, 25 tonnes of dummy waste was dumped by local pilgrims on the road leading to Sivanoli Path Mountain.
-
-There are 03 tonnes of plastic bottles, said the Maskeliya Pradeshiya Sabha Environmental Officer.
-
-In 5 months since the launch of the Sivanolipada Mountain season, the pilgrimage to the pilgrimage to the Nalladhani - Sivanolipada hill in the beginning of the Sivanolipada mountain season has thrown about 25 tonnes of solid waste into the environment.
-
-There are about 03 tonnes of plastic bottles, said Mrs. Kiza Samaranayake, Environmental Officer of the Maskeliya Pradeshiya Sabha.
-
-During the seasonal event for 05 months, the Maskeliya Pradeshiya Sabha has been collected and removed by the Nalladhani - Sivanoli Padalai Mountain Road and Nalladhani Urban Roads.
-
-...
-
-[Data](articles/bfd24885.json)
-
-[Extended Data](ext_articles/bfd24885.ext.json)
-
----
-
-### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
-
-*2024-04-23 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Army-forms-committee-to-probe-Diyatalawa-Fox-Hill-Supercross-accident/108-281203) · `en`
-
-Colombo, April 23(Daily Mirror) - The Sri Lanka Army has decided to appoint a special investigation committee consisting of 07 senior officers chaired by a Major General to probe the accident that occurred during the Diyatalawa Fox Hill Supercross.
-
-Army Spokesman Major General Rasika Kumara said that this committee appointed by the Army Headquarters is tasked with reporting the incident to the Commander of the Army.
-
-The investigators will utilize existing videos and photographs related to the accident.
-
-The spokesman outlined several areas of inquiry for the committee, including determining the causes of the accident, identifying responsible parties, confirming the safety measures for spectators, assessing the track's quality assurance processes and recommending preventive measures for future accidents.
-
-The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercross track.
-
-...
-
-[Data](articles/54af8c57.json)
-
-[Extended Data](ext_articles/54af8c57.ext.json)
-
----
-
-### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
-
-*2024-04-23 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Army-forms-committee-to-probe-Diyatalawa-Fox-Hill-Supercross-accident/155-281203) · `en`
-
-Colombo, April 23(Daily Mirror) - The Sri Lanka Army has decided to appoint a special investigation committee consisting of 07 senior officers chaired by a Major General to probe the accident that occurred during the Diyatalawa Fox Hill Supercross.
-
-Army Spokesman Major General Rasika Kumara said that this committee appointed by the Army Headquarters is tasked with reporting the incident to the Commander of the Army.
-
-The investigators will utilize existing videos and photographs related to the accident.
-
-The spokesman outlined several areas of inquiry for the committee, including determining the causes of the accident, identifying responsible parties, confirming the safety measures for spectators, assessing the track's quality assurance processes and recommending preventive measures for future accidents.
-
-The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercross track.
-
-...
-
-[Data](articles/b753346d.json)
-
-[Extended Data](ext_articles/b753346d.ext.json)
 
 ---

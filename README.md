@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 17:34:55**
+As of **2024-04-23 17:54:39**
 
 ## Newspaper Stats
 
-*Scraped **20,461** Articles*
+*Scraped **20,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ tamilmirrorlk | 2,363
 adaderanalk | 2,442
 virakesarilk | 3,068
 dailymirrorlk | 3,186
-adaderanasinhalalk | 3,315
+adaderanasinhalalk | 3,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,460 (100.0%) of 20,461 articles have been extended.
+20,461 (100.0%) of 20,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### ශ්‍රී ලංකාවේ සිට ඉන්දියාව වෙත පිහිනමින් සිටි පුද්ගලයෙකු මරුට
+
+*2024-04-23 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195898) · `si`
+
+ශ්‍රී ලංකාවේ සිට ඉන්දියාවේ ධනුෂ්කෝඩි වෙත පිහිනමින් සිටි පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි වියේ පසුවූ ගෝපාල් රාඕ නැමති ඉන්දීය ජාතිකයෙකි.
+
+31 දෙනෙකුගෙන් සමන්විත පිහිණුම් කණ්ඩායමක් අද අලුයම ශ්‍රී ලංකාවේ ඉන්දියාව වෙත සහාය පිහිණුම් ඉසව්වක් සංවිධානය කර ඇත.
+
+එහිදී මෙම අවාසනාවන්ත සිදුවීම වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+තරගය අතරතුර ගෝපාල් රාඕ සංවිධායකයින් වෙත දැනුම්දී ඇත්තේ තමන්ට ශ්වසන අපහසුතාවයක් ඇති බවය.
+
+කෙසේ වෙතත් එහිදී අදාළ රෝගී තත්ත්වය උත්සන්න වීම හේතුවෙන් ඔහු අවාසනාවන්ත ලෙස මියගොස් ඇත.
+
+මෙම සිදුවීමත් සමග සංවිධායකයින් විසින් එම පිහිනීමේ ඉසව්ව අවලංගු කර නැවත ඉන්දීයාව වෙත ගොස් තිබේ.
+
+ඉන්දීය මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙලෙස මියගොස් ඇති ගෝපාල් රාඕ නැමති පුද්ගලයා පළපුරුදු පිහිනුම් ක්‍රීඩකයෙකු බවය.
+
+◼️
+
+[Data](articles/ae003fe4.json)
+
+---
 
 ### Colombo’s consular services temporarily suspended for system transition
 
@@ -47,6 +73,8 @@ However, during this transition period, the Regional Consular Offices in Jaffna,
 ...
 
 [Data](articles/e33548d9.json)
+
+[Extended Data](ext_articles/e33548d9.ext.json)
 
 ---
 
@@ -2297,23 +2325,5 @@ As investigations into the incident unfold, law enforcement agencies are activel
 [Data](articles/add7c119.json)
 
 [Extended Data](ext_articles/add7c119.ext.json)
-
----
-
-### What does the Tamil general candidate say by the North and East?
-
-*2024-04-23 04:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181731) · `ta`
-
-Tamil general candidate in presidential election aims to bargain with Sinhalese leaders, seen as a tribute and anti-racist act.
-
-🟩
-
-The parties who are trying to create an opportunity to bargain with the Sinhalese leaders by contesting a Tamil general candidate in the presidential election, and this initiative is going to be a tribute and will be a re -racist act.
-
-◼️
-
-[Data](articles/47df6e7f.json)
-
-[Extended Data](ext_articles/47df6e7f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 16:03:43**
+As of **2024-04-23 16:18:34**
 
 ## Newspaper Stats
 
-*Scraped **20,442** Articles*
+*Scraped **20,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,707
 tamilmirrorlk | 2,362
-adaderanalk | 2,440
-virakesarilk | 3,064
-dailymirrorlk | 3,178
-adaderanasinhalalk | 3,313
+adaderanalk | 2,441
+virakesarilk | 3,068
+dailymirrorlk | 3,181
+adaderanasinhalalk | 3,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,442 (100.0%) of 20,442 articles have been extended.
+20,442 (100.0%) of 20,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### විරෝධතාවයකට අධිකරණ නියෝගයක්
+
+*2024-04-23 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195896) · `si`
+
+ලංකා විදුලි සේවක සංගමය මගින් හෙට (24) පොල්දූව වටරවුම ආශ්‍රිතව සංවිධානය කර ඇති විරෝධතාවයට එරෙහිව පොලීසිය විසින් අධිකරණ නියෝගයක් ලබාගෙන ඇත.
+
+පොලීසිය පවසන්නේ වැලිකඩ පොලිස් ස්ථානාධිපතිවරයා වෙත ලද තොරතුරකට අනුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය විසින් මෙම නියෝගය ලබා දී ඇති බවය.
+
+එම නියෝගයේ දැක්වෙන්නේ පොල්දූව වටරවුම ආශ්‍රීතව මජනතාවට හහා පදිකයින් අවහිර බාධා වන ලෙස කිසිදු මාර්ගයක් හරස් කර විරෝධතා හෝ ප්‍රචණ්ඩ ක්‍රියා නොකිරීමට එමගින් නියෝග කර ඇති බවය.
+
+◼️
+
+[Data](articles/8d2c2ed6.json)
+
+---
+
+### A small sweet surprise....
+
+*2024-04-23 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/A-small-sweet-surprise/110-281208) · `en`
+
+Palu fruit (Manilkara hexandra), which has a unique sweetness, being sold in Colombo on the road leading to Borelasgamuwa. Palu fruit trees usually grow in tropical and temperate forests. Pictures show a person who loves the sweetness of Palu fruits waiting to get some. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/e0c8db42.json)
+
+---
+
+### மின்னாமல் முழங்காமல் ஒரு தாக்குதல் ; பின்னணியில்  இருந்தது யார்? ; ஈரான் மீது "புளூ ஸ்பரோ " ஏவுகணை பயன்படுத்தப்பட்டதா?
+
+*2024-04-23 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181777) · `ta`
+
+மத்திய கிழக்கில் நடப்பது என்ன ? உண்மை நிலைவரத்தை அறிய உலகமே இன்று ஆவலாக இருந்து வருகிறது. ஒருபுறம் தாக்குதல் நடந்ததாக  கூறப்படும் அதேவேளை , மறுபுறம்  சம்பந்தப்பட்ட தரப்பால்  அவ்வாறு எதுவும் நடக்கவில்லை என்று மறுக்கப்படுகின்றது.  இருந்த போதிலும் அது தொடர்பான வீடியோக்கள் படங்கள் என்பன வெளிவரவே செய்கின்றன . இறுதியாக , சனிக்கிழமை ஈராக்கில்  நடைபெற்ற சம்பவம்  புருவத்தை உயர்த்த வைத்துள்ளது.
+
+◼️
+
+[Data](articles/92fbb734.json)
+
+---
 
 ### Document authentication services at Consular Affairs Division suspended on 29 & 30 April
 
@@ -49,6 +89,24 @@ However, during the said transition period, the Regional Consular Offices in Jaf
 [Data](articles/63133d8d.json)
 
 [Extended Data](ext_articles/63133d8d.ext.json)
+
+---
+
+### Special notice on Consular Division’s document authentication services
+
+*2024-04-23 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98795/special-notice-on-consular-divisions-document-authentication-services) · `en`
+
+The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises on the 16th floor of “Suhurupaya” on Sri Subhuthipura Road, Battaramulla with effect from 02 May, the Foreign Affairs Ministry said today (23).
+
+Accordingly, all consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday between 8.30 a.m. and 4.15 p.m.
+
+As a result, document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
+
+However, during the said transition period, the Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to the public during regular office hours.
+
+...
+
+[Data](articles/66e8a07e.json)
 
 ---
 
@@ -73,6 +131,24 @@ The snow is expected in some parts of the Sabaragamuwa, Central and Uva province
 [Data](articles/f8d06af3.json)
 
 [Extended Data](ext_articles/f8d06af3.ext.json)
+
+---
+
+### உலக புத்தக தினம் இன்று
+
+*2024-04-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181766) · `ta`
+
+புத்தக வாசிப்பின் மகிழ்ச்சியை ஊக்குவிக்கும் வகையில் உலக புத்தக தினம் மற்றும் பதிப்புரிமை தினம் இன்று  செவ்வாய்கிழமை (23) கொண்டாடப்படுகின்றது.
+
+இந்த ஆண்டுக்கான சர்வதேச புத்தகம் மற்றும் பதிப்புரிமை தினத்தின் கருப்பொருள்  உங்கள் வழியைப் படியுங்கள்' என்பதாகும்.
+
+இந்த கருப்பொருளானது வாசிப்பு ஆர்வத்தை வளர்ப்பதன் முக்கியத்துவத்தை வலியுறுத்துவதோடு   எல்லா வயதினரும்  புத்தகங்களுடன் இணைவதற்கு  வழிகளைக் கண்டறிய ஊக்குவிக்கிறது.
+
+அத்தோடு, புத்தகங்களின் நோக்கம் மற்றும் பல்வேறு பின்னணியில் உள்ள மக்களை ஊக்குவிக்கும் மற்றும் கல்வி கற்பிக்கும் திறன் ஆகியவற்றை முன்னிலைப்படுத்த உலகம் முழுவதும் கொண்டாட்டங்கள் நடத்தப்படுகின்றன.
+
+◼️
+
+[Data](articles/b665f5de.json)
 
 ---
 
@@ -102,6 +178,60 @@ Applications for verification can be submitted to these Regional Offices and wil
 
 ---
 
+### யாழில் லொறியும் முச்சக்கர வண்டியும் கோர விபத்து - ஒருவர் படுகாயம்!
+
+*2024-04-23 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181770) · `ta`
+
+யாழ்ப்பாண நகரை அண்மித்த நாலுகால் மட சந்தியில் இன்று செவ்வாய்க்கிழமை (23) மதியம் இடம்பெற்ற விபத்து ஒன்றில் முச்சக்கர வண்டி ஒன்று பட்டாரக வாகனத்துடன் விபத்துக்குள்ளாகி முற்றாக சேதமடைந்ததோடு முச்சக்கர வண்டி சாரதி படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண பொலிசார் தெரிவித்தனர்.
+
+யாழ்ப்பாணம் - மானிப்பாய் -  காரைநகர் பிரதான வீதியில் நாலுகால்மடம் சந்தியில் அமைந்துள்ள அரைக்கும் ஆலை ஒன்றில் இருந்து பிரதான வீதியில் முச்சக்கர வண்டி பயணிக்க தொடங்கிய நிலையில் பின்புறமாக ஆறுகால்மடம் பகுதியில் இருந்து வருகை தந்த பட்டாரக வாகனம் மோதியது.
+
+இதன் போது முச்சக்கர வண்டி முற்றாக சேதமடைந்தது. முச்சக்கர வண்டியினை செலுத்திய ஆறுகால்மடம் பகுதியினை சேர்ந்த 20 வயதான அஜிந்தன் எனும் இளைஞன் படுகாயமடைந்த நிலையில் யாழ் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+இதேவேளை பட்டாரக வாகனம் இலங்கை மின்சார சபைக்கு சொந்தமான மின்கம்பத்துடன் மோதி பகுதியளவில் சேதமடைந்த நிலையில் வாகன சாரதி காயங்களின்றி மீட்கபட்டார்.
+
+...
+
+[Data](articles/a52015de.json)
+
+---
+
+### ஈரான் ஜனாதிபதியின் விஜயத்தை முன்னிட்டு தலைநகரில் வரவேற்பு பதாதைகள்
+
+*2024-04-23 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181772) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி (Ebrahim Raisi) உத்தியோகப்பூர்வ விஜயம் மேற்கொண்டு நாளை இலங்கைக்கு வருகை தரவுள்ளார். அவரை வரவேற்று ஐக்கிய சமாதான கூட்டமைப்பின் சார்பில் தலைநகர் கொழும்பில் வரவேற்பு பதாதைகள் காட்சிப்படுத்தப்பட்டுள்ளன.
+
+உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டத்தை திறந்துவைக்கப்பதற்காக ஈரான் ஜனாதிபதி இலங்கைக்கு ஒரு நாள் உத்தியோகப்பூர்வ விஜயம் மேற்கொள்ளவுள்ளார்.
+
+514 மில்லியன் அமெரிக்க டொலர்கள் செலவில் ஈரான் அரசாங்கத்தின் கடனுதவியின் கீழ் 2011 ஆம் ஆண்டு உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம் ஆரம்பித்துவைக்கப்பட்டது.
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி இன்று பாகிஸ்தானுக்கு சுற்றுபயணம் மேற்கொண்டுள்ள நிலையில், பாகிஸ்தான் விஜயத்தை நிறைவு செய்து, நாளை மறுதினம் நாட்டுக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+இந்நிலையில், அவரை வரவேற்று ஐக்கிய சமாதான கூட்டமைப்பின் சார்பில் கொழும்பு மாநகர சபை முன்னாள் உறுப்பினர்களான ஐ. ஏ. கலீலுர் ரஹ்மான், எம்.காதர், எம்.முசம்மில் போன்றோர்களினால் இந்த வரவேற்பு பதாதைகள் காட்சிப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9454de40.json)
+
+---
+
+### Uma Oya multi-purpose development project ready to be handed over to public tomorrow
+
+*2024-04-23 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-multi-purpose-development-project-ready-to-be-handed-over-to-public-tomorrow/108-281207) · `en`
+
+Colombo, April 23 (Daily Mirror) - All arrangements have been made to hand over the Uma Oya Multi-Purpose Development Project to the public tomorrow (April 24), Irrigation, Wildlife and Forest Conservation Minister Pavitra Wanniarachchi said following a recent visit to inspect the project.
+
+The Uma Oya Multi-Purpose Development Project is set to be handed over to the public with the patronage of President Ranil Wickremesinghe and President of the Islamic Republic of Iran Ebrahim Raisi.
+
+The project was officially launched in 2010, with an estimated cost of USD 514 million.
+
+◼️
+
+[Data](articles/f572f2fa.json)
+
+---
+
 ### 12 மணித்தியால நீர்வெட்டு அமுல்
 
 *2024-04-23 15:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணித்தியால-நீர்வெட்டு-அமுல்/175-336243) · `ta`
@@ -121,6 +251,32 @@ Applications for verification can be submitted to these Regional Offices and wil
 [Data](articles/a974a41d.json)
 
 [Extended Data](ext_articles/a974a41d.ext.json)
+
+---
+
+### Increase in drug use in the North: Who are the source?
+
+*2024-04-23 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181767) · `ta`
+
+Four youths in the North died from drug use, with heavy drugs implicated. Cases of heroin and cannabis were reported. Sri Lanka's strategic location in global drug trade, facilitated by maritime boundaries, contributes to the issue. Despite legal action, drug use remains prevalent, especially among the youth. The government's focus on the war context in the North and East may exacerbate drug issues.
+
+🟩
+
+Four youths died due to drug use in the first quarter of this year in the Northern Province. They are all between the ages of 20 to 30 years.
+
+In particular, a youth from Chavakachcheri has died during a drug treaty for celebrating his release as a youth from Chavakachcheri was released from prison on bail.
+
+Others are dead due to the use of heavy drugs. There are no reports of drug use even after these deaths.
+
+There were 29 cases of drugs in Jaffna, especially in the period from 2024.03.26 to 2024.04.16.. Two cases of 23.075 grams of heroin have been filed for the holding of 0.08 grams of ice.
+
+In addition, 21 cases have been filed in connection with the use and business of cannabis and 21.299 kilograms of cannabis have been seized.. The drug issue in the North continues to be socially cancer, while police say that legal action has been taken against the arrested persons.
+
+...
+
+[Data](articles/3c5a25ad.json)
+
+[Extended Data](ext_articles/3c5a25ad.ext.json)
 
 ---
 
@@ -148,6 +304,24 @@ The knock saw Athapaththu achieve her highest-ever rating (773) in the women’s
 
 ---
 
+### 78-year-old swimmer from Bengaluru dies while swimming from Sri Lanka to India
+
+*2024-04-23 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/78-year-old-swimmer-from-Bengaluru-dies-while-swimming-from-Sri-Lanka-to-India/108-281206) · `en`
+
+Rameswaram, April 23 (The Hindu) - A 78-year-old man, Gopal Rao, of Bengaluru, Karnataka, died of a heart attack while he was swimming from Thalaimannar in Sri Lanka to the Dhanushkodi islet in Rameswaram, T.N., on Tuesday, April 23, 2024.
+
+Mr. Rao was part of a group of 31 swimmers who held a relay swimming event from Sri Lanka to India through the Palk Strait. The swimmers had left Rameswaram by a boat, and had gone to Sri Lanka on April 22. At 12.10 a.m. on April 23, they began swimming from Thalaimannar in Sri Lanka towards Dhanushkodi.
+
+Gopal Rao, believed to have been the third swimmer on the row, began feeling uneasy and complained of chest pains at 3.10 a.m. He was immediately helped to get into the boat that was accompanying the swimmers. The doctor attending on him however, subsequently declared that he was dead.
+
+As a mark of respect, all the other swimmers cancelled the relay event and reached Dhanushkodi islet by boat.
+
+...
+
+[Data](articles/a52d889a.json)
+
+---
+
 ### Navy impounds Kerala cannabis worth over Rs. 4mn in Mannar
 
 *2024-04-23 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98793/navy-impounds-kerala-cannabis-worth-over-rs-4mn-in-mannar) · `en`
@@ -167,32 +341,6 @@ The gross street value of Kerala cannabis held in this operation is believed to 
 [Data](articles/c61f277e.json)
 
 [Extended Data](ext_articles/c61f277e.ext.json)
-
----
-
-### Increase in drug use in the North: Who are the source?
-
-*2024-04-23 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181767) · `ta`
-
-Four youths in the North died from drug use, with heavy drugs implicated. Cases of heroin and cannabis were reported. Sri Lanka's strategic location in global drug trade, facilitated by maritime boundaries, contributes to the issue. Despite legal action, drug use remains prevalent, especially among the youth. The government's focus on the war context in the North and East may exacerbate drug issues.
-
-🟩
-
-Four youths died due to drug use in the first quarter of this year in the Northern Province. They are all between the ages of 20 to 30 years.
-
-In particular, a youth from Chavakachcheri has died during a drug treaty for celebrating his release as a youth from Chavakachcheri was released from prison on bail.
-
-Others are dead due to the use of heavy drugs. There are no reports of drug use even after these deaths.
-
-There were 29 cases of drugs in Jaffna, especially in the period from 2024.03.26 to 2024.04.16.. Two cases of 23.075 grams of heroin have been filed for the holding of 0.08 grams of ice.
-
-In addition, 21 cases have been filed in connection with the use and business of cannabis and 21.299 kilograms of cannabis have been seized.. The drug issue in the North continues to be socially cancer, while police say that legal action has been taken against the arrested persons.
-
-...
-
-[Data](articles/3c5a25ad.json)
-
-[Extended Data](ext_articles/3c5a25ad.ext.json)
 
 ---
 
@@ -2147,189 +2295,5 @@ The Maha Sangha led by Dammaratana Thera, the Vidyapati of the Elder Rajamaha Vi
 [Data](articles/3446f9ed.json)
 
 [Extended Data](ext_articles/3446f9ed.ext.json)
-
----
-
-### Iran's President visits Sri Lanka tomorrow
-
-*2024-04-23 01:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரான்-ஜனாதிபதி-நாளை-இலங்கைக்கு-விஜயம்/175-336220) · `ta`
-
-Iran's President Ibrahim Raisi visits Sri Lanka tomorrow for the Uma Oya development program, funded by Iran with $529 million.
-
-🟩
-
-The Government Information Department has announced that Iranian President Ibrahim Raisi will visit Sri Lanka tomorrow.
-
-He is expected to come to Sri Lanka to participate in the Uma Oya multi -purpose development program, which has been constructed by Iran's $ 529 million for public use.. (A)
-
-◼️
-
-[Data](articles/f5363f67.json)
-
-[Extended Data](ext_articles/f5363f67.ext.json)
-
----
-
-### Discussion with Sajith: Anura presented dates
-
-*2024-04-23 01:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-விவாதம்-திகதிகளை-வழங்கினார்-அனுர/175-336219) · `ta`
-
-"Anura Kumara Dissanayake and Sajith Premadasa will debate on May 7, 9, 13, and 14. The National People's Power is ready and will provide details including time, location, and broadcast after selecting a date."
-
-🟩
-
-The National People's Power has announced the date for the debate between United People's Power Leader Sajith Premadasa and the National People's Power Leader Anura Kumara Dissanayake.
-
-In this regard, United People's Power General Secretary Ranjith Mathuma Bandara sent a letter to the National People's Power.
-
-Accordingly, the National People's Power said it was ready to hold a debate on May 7, 9, 13 and 14.
-
-In a letter sent by the National People's Power, the time, the time for the debate, the location and the television broadcast after the selection of the date.. (A)
-
-◼️
-
-[Data](articles/8f3b5f3b.json)
-
-[Extended Data](ext_articles/8f3b5f3b.ext.json)
-
----
-
-### SJB accuses Govt. of attempting to disrupt party’s May Day rally
-
-*2024-04-23 01:13:45* · [`dailyftlk`](https://www.ft.lk/news/SJB-accuses-Govt-of-attempting-to-disrupt-party-s-May-Day-rally/56-760918) · `en`
-
-Claims CMC has provided Lipton Circle to NPP for their May Day rally despite claiming areas around it will not be allocated for rallies
-
-Says SJB will take necessary action against CMC’s decision favouring NPP and asks if NPP and Govt. have struck a deal
-
-Notes an estimated 100,000 supporters are anticipated to attend SJB’s rally, making it largest event on the day
-
-Accuses President of favouring an NPP win as an SJB win would leave him without any political prospects
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar accused the Government of attempting to disrupt the party’s rally on May Day while at the same time facilitating the Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) party’s May Day events.
-
-...
-
-[Data](articles/1d71b0d2.json)
-
-[Extended Data](ext_articles/1d71b0d2.ext.json)
-
----
-
-### President calls on Chief Prelates of the Malwatu-Asgiri Chapters
-
-*2024-04-23 01:12:55* · [`dailyftlk`](https://www.ft.lk/news/President-calls-on-Chief-Prelates-of-the-Malwatu-Asgiri-Chapters/56-760917) · `en`
-
-President Ranil Wickrem-esinghe on Sunday called on the Chief Prelates of the Malwathu and Asgiri Chapters to seek their blessings.
-
-First, President Ranil Wickremesinghe visited the Malwathu Maha Viharaya and paid his respects to the Chief Prelate of the Malwathu Chapter, Most Ven. Thibbatuwawe Sri Sumangala Nayaka Thera, followed by a brief discussion. The Anunayake of the Malwathu Chapter, Most Venerable
-
-Dimbulkumbure Vimalad-hamma Thera, was also present, and together they chanted Seth Pirith and blessed the President. Thereafter, President Ranil Wickremesinghe preceded to the Asgiri Maha Viharaya, where he met with the Chief Prelate of the Asgiri Chapter, Most Ven. Warakagoda Sri Gnanarathana Thera, and engaged in a brief discussion.
-
-During the visit, the Maha Sangha led by the Viharadhipathi (Chief Priest) of Muthiyangana Raja Maha Vihara, Ven. Murundeniye Dhammar-athana Thera recited Seth Pirith and invoked blessings upon the President.
-
-◼️
-
-[Data](articles/a4d7c029.json)
-
-[Extended Data](ext_articles/a4d7c029.ext.json)
-
----
-
-### Govt’s IMF efforts a mere facade – G.L
-
-*2024-04-23 01:12:15* · [`dailyftlk`](https://www.ft.lk/news/Govt-s-IMF-efforts-a-mere-facade-G-L/56-760916) · `en`
-
-Reveals IMF has instructed SL to pass bill aimed at curbing corruption and fraud
-
-Slams Govt. for breaking promises made to IMF while simultaneously deceiving citizens
-
-Freedom People’s Congress (FPC) member Prof. G.L. Peiris yesterday accused the Government of merely acting out a facade while claiming to be striking a deal with the International Monetary Fund (IMF).
-
-...
-
-[Data](articles/aa1c04fa.json)
-
-[Extended Data](ext_articles/aa1c04fa.ext.json)
-
----
-
-### Thilanga opposes Wijeyadasa’s appointment as SLFP Acting Chair
-
-*2024-04-23 01:11:15* · [`dailyftlk`](https://www.ft.lk/news/Thilanga-opposes-Wijeyadasa-s-appointment-as-SLFP-Acting-Chair/56-760915) · `en`
-
-Highlights that party’s constitution doesn’t allow its Acting General Secretary to convene meetings in current scenario
-
-Claims Executive Council meeting convened by SLFP Acting General Secretary is illegal
-
-Says therefore decisions taken on Sunday including appointment of Acting Chairman is null and void
-
-Sri Lanka Freedom Party (SLFP) Vice President Thilanga Sumathipala yesterday expressed his opposition to the appointment of Justice Minister Wijeyadasa Rajapakshe as the party’s Acting Chairman.
-
-Sumathipala, though aligned with the pro-Sirisena faction, was also seen raising objections to Rajapakshe’s appointment during the party’s Executive Council meeting on Sunday. However, his objections were met with interruption from other attendees.
-
-Sumathipala said the Executive Council meeting convened by SLFP Acting General Secretary Sarathi Dushmantha Mithrapala on Sunday to appoint Rajapakshe was illegal.
-
-...
-
-[Data](articles/e12724af.json)
-
-[Extended Data](ext_articles/e12724af.ext.json)
-
----
-
-### SLASSCOM successfully concludes People Summit 2024
-
-*2024-04-23 01:09:58* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-successfully-concludes-People-Summit-2024/34-760914) · `en`
-
-Fireside Chat: ‘Money Matters’ - Insights on investment and economic development with Board of Investment of Sri Lanka Executive Director Prasanjith Wijayatilake, moderated by Advocata Institute CEO Dhananath Fernando
-
-The SLASSCOM People Summit 2024, organised by the SLASSCOM HR Forum at WatersEdge on 13 March, brought together industry leaders, experts, and practitioners to discuss current workplace challenges.
-
-Speakers from various sectors shared emerging trends and innovative HR strategies, inspiring attendees to drive positive organisational change through interactive discussions and insightful sessions.
-
-...
-
-[Data](articles/5cc9fed6.json)
-
-[Extended Data](ext_articles/5cc9fed6.ext.json)
-
----
-
-### John Keells Properties hosts Union Bank customers at ‘Viman’ Ja-Ela model apartment
-
-*2024-04-23 01:09:18* · [`dailyftlk`](https://www.ft.lk/business/John-Keells-Properties-hosts-Union-Bank-customers-at-Viman-Ja-Ela-model-apartment/34-760913) · `en`
-
-John Keells Properties has partnered with Union Bank to offer flexible mortgage solutions for its ‘Viman’ Ja-Ela project.
-
-John Keells Properties further strengthened its relationship with the bank’s customers by hosting an exclusive event for them on 6 March, to tour the Viman model apartment at the John Keells Properties head office in Vauxhall Street, Colombo 2.
-
-The event provided an opportunity for customers of Union Bank to tour the model apartment and to engage with the experienced sales team from John Keells Properties to understand how owning a home at Viman Ja-Ela can fulfil their aspirations. The innovative mortgage packages provided by Union Bank in collaboration with John Keells Properties enable prospective homeowners to access customised financing options, making Viman Ja-Ela’s residences more accessible.
-
-...
-
-[Data](articles/c11d948d.json)
-
-[Extended Data](ext_articles/c11d948d.ext.json)
-
----
-
-### Hayleys Solar records double win at SLIM Brand Excellence
-
-*2024-04-23 01:08:12* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Solar-records-double-win-at-SLIM-Brand-Excellence/34-760912) · `en`
-
-Hayleys Solar team at the victorious night of the SLIM award gala
-
-Wins Bronze in ‘Green Brand of the Year’ and Merit for ‘Best New Entrant’ 2023
-
-Hayleys Solar, the renewable energy arm of Hayleys Fentons Ltd., proudly clinched two coveted awards at the prestigious Brand Excellence Awards, organised by the Sri Lanka Institute of Marketing (SLIM) to honour exceptional marketing efforts and outstanding brand stories.
-
-Hayleys Solar won the Bronze Award for Green Brand of the Year which recognises Hayleys Solar’s green energy revolution, in a competitive category spanning the strongest local and multinational brands in the country. Hayleys Solar also won the Merit Award for Best New Entrant Brand of the Year which highlights the brand’s impressive strides in the renewable energy sector, being able to meet the pressing needs of homeowners in Sri Lanka.
-
-...
-
-[Data](articles/cd96c562.json)
-
-[Extended Data](ext_articles/cd96c562.ext.json)
 
 ---

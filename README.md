@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 14:03:35**
+As of **2024-04-23 14:18:27**
 
 ## Newspaper Stats
 
-*Scraped **20,419** Articles*
+*Scraped **20,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,702
-tamilmirrorlk | 2,358
+tamilmirrorlk | 2,359
 adaderanalk | 2,437
 virakesarilk | 3,057
 dailymirrorlk | 3,176
@@ -26,15 +26,15 @@ adaderanasinhalalk | 3,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,417 (100.0%) of 20,419 articles have been extended.
+20,419 (100.0%) of 20,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
 
-### பொலிஸாரின் துப்பாக்கி பிரயோத்தில் இருவர் பலி
+### பொலிஸாரின் துப்பாக்கி பிரயோகத்தில் இருவர் பலி
 
-*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோத்தில்-இருவர்-பலி/175-336238) · `ta`
+*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோகத்தில்-இருவர்-பலி/175-336238) · `ta`
 
 மீகொட - தெல்கெட்டிய சந்தியில் இன்று(23) அதிகாலை பொலிஸ் வீதித்தடையொன்றில் முச்சக்கர வண்டியை சோதனையிடுவதற்காக நிறுத்த முயற்சித்த சந்தர்ப்பத்தில் அந்த முச்சக்கர வண்டியில் இருந்த நபர்கள் பொலிஸார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொண்டு விட்டு மொரகஹஹேனைக்கு தப்பிச்சென்றதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
 
@@ -46,21 +46,53 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/5df8fbd4.json)
+[Data](articles/57aa6b96.json)
 
 ---
 
-### මෛත්‍රීගේ තීරණයට දුමින්දගෙන් තුති
+### Two killed in police gunmen
+
+*2024-04-23 13:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-துப்பாக்கி-பிரயோத்தில்-இருவர்-பலி/175-336238) · `ta`
+
+Two killed in police gunmen incident at Meegoda-Delkittiya junction. Colombo South Criminal Investigation Division shot at a three-wheeler violating traffic rules. Two injured admitted to Horana Hospital.
+
+🟩
+
+The men in the three -wheeler fired at the Moragahahena when they tried to stop a three -wheeler at a police road at the Meegoda - Delkittiya junction this morning (23).
+
+According to the information provided by the police to the police, the Colombo South Criminal Investigation Division (Southern Crime Investigation), who had arrived there for investigations, had been traveling in violation of the three -wheeler orders.
+
+Accordingly, a three -wheeler has been shot dead by the Colombo South Criminal Investigation Division near a tire factory on Moragahahena - Meepee Road.
+
+Two persons who were injured in the shooting were admitted to the Horana Hospital, police said.
+
+◼️
+
+[Data](articles/5df8fbd4.json)
+
+[Extended Data](ext_articles/5df8fbd4.ext.json)
+
+---
+
+### Attorneys on Maithri's decision
 
 *2024-04-23 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195893) · `si`
 
-තමන් පක්ෂයෙන් නෙරපීමට ගත් තීරණය පිළිබඳව මෛත්‍රීපාල සිරිසේන මහතාට ස්තූතිවන්ත වන බවත් ඉන් පක්ෂය ආරක්ෂා කරගැනීමට හැකිවූ බවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක දුමින්ද දිසානායක මහතා පවසයි.
+Duminda Dissanayake, a Sri Lanka Freedom Party organizer, expresses gratitude for being expelled from the party, criticizing Maithripala Sirisena's decisions and accusing him of authoritarianism. He mentions an alleged favor asked by Sirisena and questions the legitimacy of his actions. The party alleges a deal between Sirisena and Wijayadasa, suggesting Sirisena's removal from the party chairmanship.
 
-"දැන් වෙලා තියෙන්නේ මෛත්‍රීපාල සිරිසේන මහතා ගත්ත සියලුම තීරණ ඒකාධිපති ප්‍රජාතන්ත්‍ර විරෝධී, චාරයක් නැති තීන්දු තීරණ එකින් එක වැරදි තීන්දු ගත්ත නිසා තමයි, අද හැමෝම හිරවෙලා ඉන්නේ. නිමල් සිරිපාලගේ පත්වීම වැරදි නම් උසාවි යන්න තිබුණා. එහෙම නැතුව නීතිවිරෝධී වැඩ කරනවා. මෛත්‍රීපාල සිරසේන මහතා දන්නේ නැහැ එයා කරන දේ මොනවද කියලා. මං එන්න කලින් කතා කළා ආචාර්ය චමිල ලියනගේට. මම කථා කරලා කිව්වා පුළුවන් නම් පොඩි උදව්වක් කරන්න මෛත්‍රීපාලට කෝල් කරලා අහන්න කිව්වා මෛත්‍රී මහත්තයා අපේ ෆෝන් එකට එන්නේ නෑ නේ. මෛත්‍රී මහත්තයාගෙන් අහලා කියන්න අධිකරණ ඇමතිවරයාට මේ පක්ෂය විකිණුවේ කීයටද කියලා."
+🟩
+
+Sri Lanka Freedom Party organizer Duminda Dissanayake says that the party is thankful for the decision that he has been expelled from the party.
+
+All the decisions Maithripala Sirisena's decision have been imprisoned today because the authoritarian democratic, unbelievable, without faults of the dictatorship.. Nimal Siripala's appointment was incorrect. Without that, illegal is working. Maithripala Sirusena knows what he does. Talk to Dr. Chamila Liyanage. I was speaking and told Maithripala told Maithripala to do a little favor, Mr. Maithri didn't come to our cell phone. Mr. Maithri asked for the Minister of Justice to the Minister of Justice. "
+
+"Or not possible. Sri Lanka Freedom Party thinks the Sri Lanka Freedom Party. The Sri Lanka Freedom Party is the allegation from the SLFP to the government.. Now what is Mr. Wijayadasa hanging somewhere to be hanging the party tomorrow. "
 
 ...
 
 [Data](articles/71e870e3.json)
+
+[Extended Data](ext_articles/71e870e3.ext.json)
 
 ---
 
@@ -2193,19 +2225,5 @@ The demonstration was abandoned after the demonstration, which began from the Ne
 [Data](articles/e85ba3af.json)
 
 [Extended Data](ext_articles/e85ba3af.ext.json)
-
----
-
-### BOC records over Rs. 503 billion worth transactions via its service touch points during this Avurudu Season
-
-*2024-04-22 23:26:00* · [`islandlk`](http://island.lk/boc-records-over-rs-503-billion-worth-transactions-via-its-service-touch-points-during-this-avurudu-season/) · `en`
-
-The No.1 Bank in the Country, Bank of Ceylon yet again set a record during Avurudu Season with over Rs. 185 Billion worth transactions taking place in BOC’s very own CRM and ATM terminals. This record is a testimonial to customer’s faith kept on the Bank’s ATM and CRM network, to provide them the best in class 24-hour operative convenient banking services. Having a fully operational ATM and CRM network with over 1460 machines, at the time of writing, covering the entire country, BOC has provided customers utmost convenience and easy access to cash for their immediate cash requirements during Avurudu season.
-
-...
-
-[Data](articles/c275d50f.json)
-
-[Extended Data](ext_articles/c275d50f.ext.json)
 
 ---

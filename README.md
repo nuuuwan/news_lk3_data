@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 01:04:26**
+As of **2024-04-24 01:18:24**
 
 ## Newspaper Stats
 
-*Scraped **20,514** Articles*
+*Scraped **20,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,366
 adaderanalk | 2,447
-virakesarilk | 3,081
+virakesarilk | 3,082
 dailymirrorlk | 3,200
 adaderanasinhalalk | 3,324
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,513 (100.0%) of 20,514 articles have been extended.
+20,514 (100.0%) of 20,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### நிதி மோசடியில் ஈடுபட்டவர் கைது
+### ருத்துராஜ், டுபே ஆகியோரின் அதிரடிகளை வீணடித்தார் ஸ்டொய்னிஸ் ; நான்கு நாட்கள் இடைவெளியில் சென்னையை மீண்டும் வென்றது லக்னோவ்
+
+*2024-04-24 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181800) · `ta`
+
+சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (23) நடைபெற்ற 38ஆவது இண்டியன் பிறீமியர் லிக் அத்தியாயத்தின் 39ஆவது போட்டியில் சென்னை சுப்பர் கிங்ஸை எதிர்த்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 6 விக்கெட்களால் அபார வெற்றிபெற்றது.
+
+புத்திசாதுரியத்துடன் துடுப்பெடுத்தாடிய மாக்கஸ் ஸ்டொய்னிஸ் ஆரம்பத்தில் நிதானத்தைக் கடைப்பிடித்ததுடன் கடைசியில் அதிரடியைப் பிரயோகித்து அபார சதம் குவித்து லக்னோவை வெற்றி அடையச் செய்தார். ஐபிஎல் போட்டியில் மாக்கஸ் ஸ்டொய்னிஸ் குவித்த முதலாவது சதம் இதுவாகும்.
+
+இதன் காரணமாக ருத்துராஜ் கய்க்வாட் குவித்த ஆட்டமிழக்காத சதமும் ஷிவம் டுபே விளாசிய அரைச் சதமும் வீண் போயின.
+
+சென்னை பந்துவீச்சாளர்கள் ஆரம்பத்தில் சிறப்பாக பந்துவீசிய போதிலும் பின்னர்  மோசமாக பந்துவீசி ஓட்டங்களை வாரி வழங்கியதால் அவர்களது அணி தோல்வி அடைந்தது. இலங்கையின் மதீஷ பத்திரண மாத்திரமே சிறப்பாக பந்துவீசினார்.
+
+...
+
+[Data](articles/edddff2c.json)
+
+---
+
+### Arrested in financial fraud
 
 *2024-04-24 00:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-மோசடியில்-ஈடுபட்டவர்-கைது/175-336250) · `ta`
 
-ஐரோப்பாவில் தொழில் பெற்றுத் தருவதாகக் கூறி நிதி மோசடி செய்த நபர் படல்கம பகுதியில் கைது செய்யப்பட்டுள்ளார்.
+A 29-year-old from Chandalangawa was arrested in Badalgama for financial fraud, claiming to offer employment in Europe and Canada.
 
-சந்தலங்காவ பகுதியை சேர்ந்த 29 வயதான ஒருவரே கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-வௌிநாட்டு வேலைவாய்ப்பு நிறுவனமொன்றை நடத்தி, கனடா மற்றும் ஐரோப்பிய நாடுகளில் தொழில் பெற்றுத்தருவதாகக் கூறி மேற்படி நபர் நிதி மோசடியில் ஈடுபட்டுள்ளார்.
+A man has been arrested in Badalgama area for allegedly giving employment in Europe.
 
-சந்தேகநபர், கனடாவில் தொழில் வாய்ப்பு பெற்றுத்தருவதாகக் கூறி பெண் ஒருவர் மற்றும் ஆண் ஒருவரிடமிருந்து இரண்டு லட்சம் ரூபா பணத்தை பெற்றுக்கொள்ள கடல்கம நகருக்கு வந்தபோது கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர். (a)
+A 29 -year -old man from Chandalangawa has been arrested, police said.
+
+The person has been involved in financial fraud, claiming that a foreign employment agency is working in Canada and Europe.
+
+The suspect has been arrested when he came to Kadalgama Nagar to get two lakhs of rupees from a woman and a man for allegedly getting employment in Canada, police said that he was arrested.. (A)
 
 ◼️
 
 [Data](articles/1356e202.json)
+
+[Extended Data](ext_articles/1356e202.ext.json)
 
 ---
 
@@ -2307,33 +2331,5 @@ Investigations are being carried out to determine whether the following companie
 [Data](articles/e50e34f9.json)
 
 [Extended Data](ext_articles/e50e34f9.ext.json)
-
----
-
-### Don't cheat!List of 8 companies has been released!
-
-*2024-04-23 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181752) · `ta`
-
-The Central Bank of Sri Lanka has named eight companies involved in banned pyramid schemes, urging vigilance. It has issued a statement, highlighting the punishable nature of such activities, and has requested legal action against companies rejecting agreements.
-
-🟩
-
-The Central Bank of Sri Lanka has released details of eight other companies that are conducting banned pyramid projects in Sri Lanka.
-
-The Central Bank has issued a statement relating to the report.
-
-The public has advised the public to be very careful and vigilant on such projects.
-
-The Central Bank states that any person who provides, promotes, conduct, and manages the prohibited pyramid scheme directly or indirectly is committing a punishable offense.
-
-The Central Bank of Sri Lanka has pointed out that companies that run some pyramid projects are rejecting some of the claims of some parties that have made some agreements with the Central Bank of Sri Lanka.
-
-The Central Bank of Sri Lanka has further stated that it has requested the Attorney General to consider legal action on the provisions of Article 83 (c) of the Central Bank Act of Sri Lanka.
-
-◼️
-
-[Data](articles/daa7abe3.json)
-
-[Extended Data](ext_articles/daa7abe3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 19:03:40**
+As of **2024-04-23 19:18:26**
 
 ## Newspaper Stats
 
-*Scraped **20,473** Articles*
+*Scraped **20,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,106
 dailyftlk | 1,133
 economynextcom | 1,161
 adalk | 1,710
-tamilmirrorlk | 2,363
+tamilmirrorlk | 2,364
 adaderanalk | 2,443
 virakesarilk | 3,072
-dailymirrorlk | 3,190
+dailymirrorlk | 3,193
 adaderanasinhalalk | 3,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,471 (100.0%) of 20,473 articles have been extended.
+20,473 (100.0%) of 20,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Narendra Modi accused of ‘anti-Muslim hate speech’
+
+*2024-04-23 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Narendra-Modi-accused-of-anti-Muslim-hate-speech/108-281215) · `en`
+
+India, April 23 - India’s main opposition party accused Prime Minister Narendra Modi of using hate speech after he called Muslims “infiltrators” — some of his most incendiary rhetoric about the minority faith, days after the country began its weekslong general election.
+
+The remarks at a campaign rally Sunday drew fierce criticism that Modi was peddling anti-Muslim tropes. The Congress party filed a complaint Monday with the Election Commission of India, alleging he broke rules that bar candidates from engaging in any activity that aggravates religious tensions.
+
+◼️
+
+[Data](articles/f8777806.json)
+
+---
+
+### சீனக்குழு அநுரவுடன் சந்திப்பு
+
+*2024-04-23 18:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்குழு-அநுரவுடன்-சந்திப்பு/175-336249) · `ta`
+
+சர்வதேசத் திணைக்களத்தின் பிரதி அமைச்சர் சன் ஹையன் தலைமையிலான சீனக் கம்யூனிஸ்ட் கட்சியின் உயர்மட்டக் குழு இன்று ஜே.வி.பி தலைமை அலுவலகத்தில் தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்கவைச் சந்தித்தது.
+
+தூதுக்குழுவில் சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேசத் துறைத் தலைவர் லியு ஜியான்சாவோ மற்றும் இலங்கையில் உள்ள சீனத் தூதரகத்தின் அரசியல் ஆலோசகர் சென் சியாங் யுவான் ஆகியோர் அடங்குவர்.
+
+நாட்டின் தற்போதைய அரசியல் நிலவரங்கள் மற்றும் எதிர்வரும் தேர்தல்கள் தொடர்பிலும் அவர்கள் சந்திப்பின் போது கலந்துரையாடினர்.
+
+NPPயின் பிரதிநிதிகள், தேர்தலுக்கான NPPயின் தயாரிப்பு மற்றும் நெருக்கடியான சூழ்நிலையில் இருந்து நாட்டை மீட்பதற்கு அரசியல் ஸ்திரத்தன்மையை உருவாக்க வேண்டியதன் அவசியம் குறித்து தூதுக்குழுவிற்கு விளக்கினர்.
+
+இக்கலந்துரையாடலில் NPP பாராளுமன்ற உறுப்பினர்களான விஜித ஹேரத், ஹரினி அமரசூரிய, NPP உறுப்பினர்களான சுனில் ஹதுன்னெத்தி மற்றும் பேராசிரியர் அனில் ஜயந்த ஆகியோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/ef4daa0d.json)
+
+---
 
 ### ’Caution’ level temperature rises
 
@@ -47,6 +81,8 @@ This poses potential health risks, especially to vulnerable populations such as 
 ...
 
 [Data](articles/7cb3bb5c.json)
+
+[Extended Data](ext_articles/7cb3bb5c.ext.json)
 
 ---
 
@@ -435,6 +471,8 @@ She said a team of labourers of the Pradeshiya Sabha had been deployed to collec
 ◼️
 
 [Data](articles/a4d7be1c.json)
+
+[Extended Data](ext_articles/a4d7be1c.ext.json)
 
 ---
 
@@ -1327,6 +1365,26 @@ The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercros
 [Data](articles/54af8c57.json)
 
 [Extended Data](ext_articles/54af8c57.ext.json)
+
+---
+
+### Army forms committee to probe Diyatalawa Fox Hill Supercross accident
+
+*2024-04-23 12:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Army-forms-committee-to-probe-Diyatalawa-Fox-Hill-Supercross-accident/155-281203) · `en`
+
+Colombo, April 23(Daily Mirror) - The Sri Lanka Army has decided to appoint a special investigation committee consisting of 07 senior officers chaired by a Major General to probe the accident that occurred during the Diyatalawa Fox Hill Supercross.
+
+Army Spokesman Major General Rasika Kumara said that this committee appointed by the Army Headquarters is tasked with reporting the incident to the Commander of the Army.
+
+The investigators will utilize existing videos and photographs related to the accident.
+
+The spokesman outlined several areas of inquiry for the committee, including determining the causes of the accident, identifying responsible parties, confirming the safety measures for spectators, assessing the track's quality assurance processes and recommending preventive measures for future accidents.
+
+The Fox Hill Supercross 2024 was held on 21 April 2024 at the Fox Hill Supercross track.
+
+...
+
+[Data](articles/b753346d.json)
 
 ---
 
@@ -2243,81 +2301,5 @@ They said another person who was inside the three-wheeler at the time of the sho
 [Data](articles/cb357762.json)
 
 [Extended Data](ext_articles/cb357762.ext.json)
-
----
-
-### Evening thundershowers anticipated in five provinces today
-
-*2024-04-23 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98786/evening-thundershowers-anticipated-in-five-provinces-today) · `en`
-
-Showers or thundershowers are anticipated in parts of the Western, Sabaragamuwa, Central, Uva and North-western provinces and Galle and Matara districts after 2.00 p.m., the Meteorology Department says.
-
-Showers or thundershowers may occur at a few places in North-central and Northern provinces in the afternoon or at night.
-
-Showers or thundershowers will occur over the coastal areas of Puttalam to Galle via Colombo in the morning.
-
-Fairly heavy showers of about 75 mm are likely at some places in the Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Ampara district during the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/509c0e73.json)
-
-[Extended Data](ext_articles/509c0e73.ext.json)
-
----
-
-### Buck Pills Poya today
-
-*2024-04-23 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195882) · `si`
-
-Bakpura Poya Day marks significant events in Sasana history, including Buddha's second journey to Lanka and the resolution of a king's dispute. It also features the first appearance of Prince Siddhartha's old man in a dream and a live broadcast from Giriulla Rajamaha Viharaya.
-
-🟩
-
-The Bakpura Poya Day is considered as a day of unique events in the history of the Sasana.
-
-The history of the Sasana states that the second Lanka journey of the Buddha was on today's day.
-
-The Supreme Buddha was opened to the Nagadeepa on a Bakpura Fifteen Poya Day to resolve the clash between the two kings.
-
-Another important event was the king of Milanuwan, Manivuan, Manivuan, Manivuan, who was invited to the Buddha to Kelaniya today, as the Buddha.
-
-The first of the first-time old man in the forecast of Prince Siddhartha was seen in the history of the Bakepura Poya Day.
-
-It is reported that several policy sacrifices have been organized for the first robbery Bukeep, Bakpura, the first fifteen year.
-
-Meanwhile, the live whip of FM Derana Bak is brought from Giriulla Rajamaha Viharaya today.
-
-◼️
-
-[Data](articles/9138911b.json)
-
-[Extended Data](ext_articles/9138911b.ext.json)
-
----
-
-### An earthquake of Taiwan
-
-*2024-04-23 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195881) · `si`
-
-A 6.3 magnitude earthquake struck Taiwan yesterday, affecting Taipei and damaging buildings. No specific damage details are reported.
-
-🟩
-
-Foreign media reports that the earthquake has taken place with 6.3 units of the Richter's thumb yesterday (22).
-
-The earthquake has also felt the capital of Taipei and many buildings have been shapped.
-
-However, foreign media reports that there is no revelation of the damage caused to the earthquake.
-
-◼️
-
-[Data](articles/443c4c75.json)
-
-[Extended Data](ext_articles/443c4c75.ext.json)
 
 ---

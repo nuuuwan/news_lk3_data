@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 14:51:25**
+As of **2024-04-23 15:03:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,425 (100.0%) of 20,433 articles have been extended.
+20,433 (100.0%) of 20,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,33 @@ The gross street value of Kerala cannabis held in this operation is believed to 
 
 [Data](articles/c61f277e.json)
 
+[Extended Data](ext_articles/c61f277e.ext.json)
+
 ---
 
-### வடக்கில் போதைப்­பொருள் பாவ­னைகள் அதி­க­ரிப்பு : மூலச்­சக்­திகள் யார்?
+### Increase in drug use in the North: Who are the source?
 
 *2024-04-23 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181767) · `ta`
 
-வடக்கு மாகா­ணத்தில் இந்த ஆண்டின் முதல் காலாண்டில் நான்கு இளை­ஞர்கள் போதைப்­பொருள் பாவனை காரண­மாக மர­ணித்­துள்­ளார்கள். இவர்கள் அனை­வரும் 20 முதல் 30 வய­துக்கு உட்­பட்­ட­வர்கள்.
+Four youths in the North died from drug use, with heavy drugs implicated. Cases of heroin and cannabis were reported. Sri Lanka's strategic location in global drug trade, facilitated by maritime boundaries, contributes to the issue. Despite legal action, drug use remains prevalent, especially among the youth. The government's focus on the war context in the North and East may exacerbate drug issues.
 
-குறிப்­பாக, மர­ணித்­த­வர்­களில் சாவ­கச்­சே­ரியைச் சேர்ந்த இளைஞர் ஒருவர் சிறை­யி­லி­ருந்து நீதி­மன்­றத்தின் பிணையில் விடு­விக்­கப்­பட்ட நிலையில் தனது விடு­த­லையை கொண்­டாடும் முக­மாக ஏற்­பாடு செய்த போதை விருந்­து­ப­சா­ரத்தின் போது மர­ண­ம­டைந்­துள்ளார்.
+🟩
 
-மற்­றை­ய­வர்கள், அதி­க­ள­வான போதைப்­பொ­ருளை பயன்படுத்தியமை உள்ளிட்ட கார­ணங்­களால் உயி­ரி­ழந்­த­வர்­க­ளாக உள்­ளனர். இந்த மர­ணங்கள் நிகழ்ந்த பின்­னரும் கூட போதைப்­பொருள் பாவனை குறைந்­த­தாக தக­வல்கள் இல்லை.
+Four youths died due to drug use in the first quarter of this year in the Northern Province. They are all between the ages of 20 to 30 years.
 
-கடந்த வாரத்தில் குறிப்­பாக 2024.03.26 முதல் 2024.04.16 வரை­யான காலப்­ப­கு­தியில் யாழ்ப்­பா­ணத்தில் போதைப்­பொருள் தொடர்பில் 29 வழக்­கு­களும் தொட­ரப்­பட்­டுள்­ளன. அதில் 23.075 கிராம் அளவு ஹெரோயின் வைத்­தி­ருந்­தமை தொடர்பில் இரண்டு வழக்­கு­களும் 0.08 கிராம் அளவு ஐஸ் வைத்­தி­ருந்த­மைக்­காக ஒரு வழக்கும் தாக்கல் செய்­யப்­பட்­டுள்­ளது.
+In particular, a youth from Chavakachcheri has died during a drug treaty for celebrating his release as a youth from Chavakachcheri was released from prison on bail.
+
+Others are dead due to the use of heavy drugs. There are no reports of drug use even after these deaths.
+
+There were 29 cases of drugs in Jaffna, especially in the period from 2024.03.26 to 2024.04.16.. Two cases of 23.075 grams of heroin have been filed for the holding of 0.08 grams of ice.
+
+In addition, 21 cases have been filed in connection with the use and business of cannabis and 21.299 kilograms of cannabis have been seized.. The drug issue in the North continues to be socially cancer, while police say that legal action has been taken against the arrested persons.
 
 ...
 
 [Data](articles/3c5a25ad.json)
+
+[Extended Data](ext_articles/3c5a25ad.ext.json)
 
 ---
 
@@ -164,19 +174,29 @@ Karana Kumara Ariyadasa is walking along the road with three of his friends with
 
 ---
 
-### போருக்குள் தள்ளப்பட்ட ஈரான் போருக்குள் வாழும் இஸ்ரேல்
+### Israel, which lives within the war of Iran
 
 *2024-04-23 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/181765) · `ta`
 
-இஸ்­ரே­லுக்கும் ஈரா­னுக்கும் இடை­யி­லான போர்ப் பதற்றம் அதி­க­ரித்­துள்ள இந்­நி­லையில், ஈரான், இஸ்ரேல்,  படை வல்­லமை குறித்து ஆராய்­வது அவ­சி­ய­மாகும். மத்­திய கிழக்குப் பகு­தி­களில் காட்­சிகள் பாரி­ய­ளவில் மாறி­வ­ரு­கி­றது.
+Israel and Iran are in a tense standoff, with Iran's missile strength and military capabilities being of concern. Iran has a large number of missiles and is improving its space technology for missile manufacturing. The Iranian military includes 523,000 soldiers, with significant naval and air forces. Israel, on the other hand, has a sophisticated military with 601 aircraft, 48 helicopters, and 2,200 tanks, supported by the US. Israel's military spending in 2022 was $23.4 billion, with additional financial assistance from the US. The region has a history of conflicts, including the Israeli Liberation War and various border conflicts. Israel's recent actions in Gaza have drawn international attention and concern.
 
-காசாவை இஸ்ரேல் முற்­று­கை­யிட்டு இருந்­தது.  ஆனால், ஈரான் எப்­போது வேண்­டு­மா­னாலும் தாக்­குதல் நடத்­தலாம் என்­பதால் இஸ்ரேல் காசாவின் கான்­யூனிஸ் நக­ரி­லி­ருந்து தங்கள் படை­களை வாபஸ் பெற்று வரு­வ­தாகத் தகவல் வெளி­யா­கி­யுள்­ளது.
+🟩
 
-ஈரான் விமா­னப்­ப­டையின் பலம் குறை­வாக இருந்­தாலும், ஈரானின் ஏவு­கணை பலம் அதன் இரா­ணுவ பலத்தின் முக்­கிய அம்­ச­மாக உள்­ளது. மத்­திய கிழக்கு பிராந்­தி­யத்தில் அதி­க­ள­வி­லான ஏவு­க­ணை­களை ஈரான் வைத்­தி­ருக்­கி­றது என்று அமெ­ரிக்கப் பாது­காப்­புத்­துறை தெரி­வித்­துள்­ளது.
+In the wake of the tension between Israel and Iran, it is necessary to investigate the power of Iran, Israel and the force.. The scenes are changing massive in the Middle East.
+
+Israel was besieged Gaza.However, it has been reported that Iran is receiving their forces from the city of Gaza, Gaza, as Iran can attack at any time.
+
+Although the strength of the Iranian Air Force is low, Iran's missile strength is the main feature of its military strength. Iran has a large number of missiles in the Middle East, the US Defense Department said.
+
+Most of them are more likely to be hit by long -range and are more likely to hit middle distance missiles. Iran is also trying to improve its space technology to manufacture missiles that can be continental missiles.
+
+The British International Military Studies Center said that there are 523,000 soldiers in the Iranian military. This includes 350,000 people in regular military work and 150,000 in the Islamic Revolutionary Security Forces.
 
 ...
 
 [Data](articles/4f53b99a.json)
+
+[Extended Data](ext_articles/4f53b99a.ext.json)
 
 ---
 
@@ -376,23 +396,31 @@ Dhammika Perera owned 51.01% of Hayleys PLC PLC's share capital on December 31, 
 
 ---
 
-### சிவனொளிபாத மலை யாத்திரீகர்களின் செயற்பாட்டால் சுற்றாடல் பாதிப்பு
+### Environmental impact on the activities of Sivanolipada mountain pilgrims
 
 *2024-04-23 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181762) · `ta`
 
-சிவனொளிபாத மலைக்கு செல்லும் யாத்திரீகர்ககளால் போடப்படும் கழிவுப்பொருட்களால் சுற்றாடல் மாசடைகின்றது என சுற்றாடல் அதிகாரி தெரிவிக்கின்றார்.
+Pilgrims to Sivanolipada mountain dump 25 tonnes of waste, including 3 tonnes of plastic bottles, impacting the environment. The Maskeliya Pradeshiya Sabha collects and recycles the waste, highlighting the need for better waste management during the peak pilgrimage season.
 
-இவ்வருட ஆரம்பமான சிவனொளிபாத பாதமலை யாத்திரை காலத்தில் நல்லதண்ணியிலிருந்து - சிவனொளி பாத மலைக்கு செல்லும் வீதியில் உள்ளூர் யாத்திரிகர்களால் 25 தொன் மக்காத திண்மக் கழிவுகள் கொட்டப்பட்டுள்ளன.
+🟩
 
-அவற்றில் 03 தொன் பிளாஸ்டிக் போத்தல்கள் உள்ளது என மஸ்கெலியா பிரதேச சபையின் சுற்றாடல் உத்தியோகத்தர் தெரிவித்துள்ளார்.
+The environmental officer says that the waste is polluted by the pilgrims going to the Sivanolipada hill.
 
-இவ்வருடம் (2023/2024) சிவனொளிபாத மலை பருவகாலம்   ஆரம்பித்து 5 மாதங்களில் நல்லதண்ணி - சிவனொளிபாத மலை செல்லும் வழித்தடத்தில் இருந்து யாத்திரைக்கு வந்த உள்நாட்டு சுற்றுலாப் பயணிகள் சுமார் 25 தொன் மக்காத திண்மக் கழிவுகளை சுற்றாடலில் வீசி சென்றுள்ளனர்.
+During this year's Sivanolipada Padamalai pilgrimage, 25 tonnes of dummy waste was dumped by local pilgrims on the road leading to Sivanoli Path Mountain.
 
-இதில் சுமார் 03 தொன் பிளாஸ்டிக் போத்தல்கள் மட்டுமே  உள்ளதாக மஸ்கெலியா பிரதேச சபையின் சுற்றாடல் உத்தியோகத்தர் திருமதி ரசிகா சமரநாயக்க தெரிவித்தார்.
+There are 03 tonnes of plastic bottles, said the Maskeliya Pradeshiya Sabha Environmental Officer.
+
+In 5 months since the launch of the Sivanolipada Mountain season, the pilgrimage to the pilgrimage to the Nalladhani - Sivanolipada hill in the beginning of the Sivanolipada mountain season has thrown about 25 tonnes of solid waste into the environment.
+
+There are about 03 tonnes of plastic bottles, said Mrs. Kiza Samaranayake, Environmental Officer of the Maskeliya Pradeshiya Sabha.
+
+During the seasonal event for 05 months, the Maskeliya Pradeshiya Sabha has been collected and removed by the Nalladhani - Sivanoli Padalai Mountain Road and Nalladhani Urban Roads.
 
 ...
 
 [Data](articles/bfd24885.json)
+
+[Extended Data](ext_articles/bfd24885.ext.json)
 
 ---
 
@@ -436,39 +464,53 @@ Earlier in the day, Sunak held a rare morning press conference to demand that th
 
 ---
 
-### தியத்தலாவை கார் பந்தய விபத்து : விசாரணைக்கு 7 பேர் அடங்கிய குழு நியமிப்பு !
+### Diyatalawa car racing accident
 
 *2024-04-23 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181760) · `ta`
 
-தியத்தலாவையில் இடம்பெற்ற கார் பந்தயத்தின் போது ஏற்பட்ட விபத்துக்கான காரணம் குறித்து விசாரணைகளை மேற்கொள்ள 7 பேர் அடங்கிய குழு நியமிக்கப்பட்டுள்ளதாக இராணுவ ஊடகப் பேச்சாளர் தெரிவித்தார்.
+A car race in Diyatalawa resulted in 7 deaths and 21 injuries. A committee is investigating the cause.
 
-கடந்த ஞாயிற்றுக்கிழமை தியத்தலாவையில் இடம்பெற்ற “Fox Hill Super Cross 2024” கார் பந்தயத்தின் போது ஏற்பட்ட விபத்தில் 7 பேர் உயிரிழந்ததுடன் 21 பேர் காயமடைந்திருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+A military spokesman said that a seven -member committee has been appointed to investigate the cause of the accident during the car race in Diyathalawa.
+
+Seven people were killed and 21 injured in a car race in Diyatalawa last Sunday.
 
 ◼️
 
 [Data](articles/6219b418.json)
 
+[Extended Data](ext_articles/6219b418.ext.json)
+
 ---
 
-### எலொன் மக்ஸ்க் திமிர்பிடித்த கோடீஸ்வரர் ; அவுஸ்திரேலிய பிரதமர் சாடல்
+### Elon Maxk's arrogant millionaire;Australian PM Sadel
 
 *2024-04-23 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181755) · `ta`
 
-எலொன் மக்ஸ்கினை திமிர்பிடித்த கோடீஸ்வரர் என அவுஸ்திரேலிய பிரதமர் அன்டனி அல்பெனிஸ் சாடியுள்ளார்.
+Australian PM Antony Albenez criticized Elon Musk as a millionaire, referencing a knife video at Sydney Church. The court ordered social media to hide these videos, with the decision based on the court case. Musk's actions are seen as beyond common morality, and the Australian Commissioner warned against fines for social media if the video is not removed.
 
-சிட்னி தேவாலயத்தில் இடம்பெற்ற கத்திக்குத்து வீடியோவை எக்ஸ் தளம் அகற்றுவதற்கு மறுத்துள்ள நிலையிலேயே எலொன் மஸ்க்கினை அவுஸ்திரேலிய  பிரதமர் திமிர்பிடித்த கோடீஸ்வரர் என சாடியுள்ளார்.
+🟩
 
-கடந்த வாரம் இந்த வீடியோக்களை மறைக்கவேண்டும் என சமூக ஊடகங்களிற்கு அவுஸ்திரேலிய நீதிமன்றம் உத்தரவிட்டது.
+Australian Prime Minister Antony Albenez has claimed that Elon McCon was a millionaire.
 
-நீதிமன்றத்தில் உள்ள வழக்கினை அடிப்படையாக வைத்து இது குறித்த முடிவை எடுப்பேன் என எக்ஸ் தளம்  தெரிவித்திருந்தது.
+Elon's Maskin has been criticized by Australian Prime Minister Timiripitti as a millionaire as X refuses to remove the knife video at Sydney Church.
 
-மஸ்க் தான் சட்டத்திற்கு அப்பாற்பட்டவர் என்று மாத்திரமில்லை பொதுவான ஒழுக்கநெறிகளிற்கு அப்பாற்பட்டவர் என கருதுகின்றார் என அன்டனி அல்பெனிஸ் தெரிவித்துள்ளார்.
+Last week, the Australian court ordered social media to cover up these videos.
 
-சிட்னி தேவாலய கத்திக்குத்து தொடர்பான வீடியோவை அகற்றாவிட்டால் சமூக ஊடகங்களிற்கு கடும் அபராதம் விதிக்கப்போவதாக  கடந்தவாரம் அவுஸ்திரேலியாவின் ஈபாதுகாப்பு ஆணையாளர் எச்சரித்திருந்தார்.
+The X -site said that the decision would be made based on the case in court.
 
-...
+Antony Albanis said that the Musk is not the law of law, but that he is beyond common morality.
+
+Last week, Australia's Commissioner's Commissioner had warned that social media would not be fined if the video related to the Sydney church knife would be imposed.
+
+The Australian Prime Minister said that the refusal of the X site to accept the order and the commentary against it is an unusual issue.
+
+◼️
 
 [Data](articles/ac14503a.json)
+
+[Extended Data](ext_articles/ac14503a.ext.json)
 
 ---
 
@@ -492,23 +534,31 @@ Investigations are being carried out to determine whether the following companie
 
 ---
 
-### ஏமாற வேண்டாம் ! 8 நிறுவனங்களின் பட்டியல் வெளியானது !
+### Don't cheat!List of 8 companies has been released!
 
 *2024-04-23 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181752) · `ta`
 
-இலலங்கையில் தடைசெய்யப்பட்ட பிரமிட்  திட்டங்களை நடத்தும் மேலும் 8 நிறுவனங்களின் விபரங்களை இலங்கை மத்திய வங்கி வெளியிட்டுள்ளது.
+The Central Bank of Sri Lanka has named eight companies involved in banned pyramid schemes, urging vigilance. It has issued a statement, highlighting the punishable nature of such activities, and has requested legal action against companies rejecting agreements.
 
-இது தொடர்பான அறிவித்தலொன்றை விடுத்து மத்திய வங்கி குறித்த நிறுவனங்கள் தொடர்பான விபரங்களை தெரிவித்துள்ளது.
+🟩
 
-அதுமாத்திரமன்றி இத்தகைய திட்டங்கள் தொடர்பில் மிகுந்த அவதானத்துடனும் விழிப்புடனும் செயற்படுமாறு பொதுமக்களுக்கு ஆலோசனை வழங்கியுள்ளது.
+The Central Bank of Sri Lanka has released details of eight other companies that are conducting banned pyramid projects in Sri Lanka.
 
-தடைசெய்யப்பட்ட பிரமிட் திட்டத்தை நேரடியாகவோ அல்லது மறைமுகமாகவோ தொடங்கும், வழங்குகின்ற, விளம்பரப்படுத்துகின்ற, நடத்துகின்ற, நிர்வகிக்கின்ற எந்தவொரு நபரும் தண்டனைக்குரிய குற்றத்தைச் செய்கிறார் என்று மத்திய வங்கி கூறுகிறது.
+The Central Bank has issued a statement relating to the report.
 
-சில பிரமிட் திட்டங்களை நடத்தும் நிறுவனங்கள் இலங்கை மத்திய வங்கியுடன் சில உடன்படிக்கைகளை மேற்கொண்டுள்ளதாக தெரிவிக்கும் சில தரப்பினரின் கூற்றுக்களை நிராகரிப்பதாக இலங்கை மத்திய வங்கி சுட்டிக்காட்டியுள்ளது.
+The public has advised the public to be very careful and vigilant on such projects.
 
-...
+The Central Bank states that any person who provides, promotes, conduct, and manages the prohibited pyramid scheme directly or indirectly is committing a punishable offense.
+
+The Central Bank of Sri Lanka has pointed out that companies that run some pyramid projects are rejecting some of the claims of some parties that have made some agreements with the Central Bank of Sri Lanka.
+
+The Central Bank of Sri Lanka has further stated that it has requested the Attorney General to consider legal action on the provisions of Article 83 (c) of the Central Bank Act of Sri Lanka.
+
+◼️
 
 [Data](articles/daa7abe3.json)
+
+[Extended Data](ext_articles/daa7abe3.ext.json)
 
 ---
 
@@ -554,21 +604,27 @@ The notice was published by the CBSL following investigations conducted in accor
 
 ---
 
-### ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் தலைவர் கட்சியை ஏலம் விடுவதாக மஹிந்த அமரவீர தெரிவிப்பு
+### Mahinda Amaraweera has announced that the former leader of the Sri Lanka Freedom Party (SLFP)
 
 *2024-04-23 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181750) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் தலைவர் கட்சியை ஏலம் விடுவதாக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் சிரேஷ்ட உப தலைவரும், விவசாய அமைச்சருமான மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Mahinda Amaraweera criticizes former SLFP leader for using party for security and financial needs. Maithripala Sirisena plans legal action due to ineligibility for party's executive council.
 
-அத்தோடு, சுதந்திரக் கட்சியின் முன்னாள் தலைவர்  தனது பாதுகாப்பு, வழக்கு மற்றும் நிதித் தேவைகளுக்காக இந்தக் கட்சியை பயன்படுத்துவதாகவும் தெரிவித்துள்ளார்.
+🟩
 
-கொழும்பில் நேற்று  திங்கட்கிழமை (22) நடைபெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு தெரிவித்தபோதே இவ்வாறு தெரிவித்துள்ளார்.
+Sri Lanka Freedom Party (SLFP) Senior Deputy Leader and Agriculture Minister Mahinda Amaraweera has said that the former leader of the Sri Lanka Freedom Party (SLFP) is auctioned off.
 
-மைத்திரிபால சிறிசேனவுக்கு  கட்சியின் நிறைவேற்று சபையில் இணையும் தகுதி  இல்லாத காரணத்தினாலும், பதில் செயலாளர்  சட்ட நடவடிக்கைகளை  அவமதித்துள்ளமையினால் இது குறித்து எதிர்காலத்தில் சட்ட நடவடிக்கைகளில் ஈடுபடவுள்ளதாக  தெரிவித்துள்ளார்.
+He also said that the former leader of the Freedom Party is using the party for his security, case and financial needs.
+
+He was speaking at a media briefing held in Colombo yesterday (22).
+
+Maithripala Sirisena has said that he will be involved in legal proceedings in the future because of the lack of eligibility to join the party's executive council.
 
 ◼️
 
 [Data](articles/3ebb1af3.json)
+
+[Extended Data](ext_articles/3ebb1af3.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 22:05:20**
+As of **2024-04-23 22:18:30**
 
 ## Newspaper Stats
 
-*Scraped **20,496** Articles*
+*Scraped **20,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,133
 economynextcom | 1,166
 adalk | 1,711
 tamilmirrorlk | 2,365
-adaderanalk | 2,445
+adaderanalk | 2,446
 virakesarilk | 3,072
 dailymirrorlk | 3,198
 adaderanasinhalalk | 3,321
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,494 (100.0%) of 20,496 articles have been extended.
+20,496 (100.0%) of 20,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Education should be free from political influence – President Ranil
+
+*2024-04-23 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98799/education-should-be-free-from-political-influence-president-ranil) · `en`
+
+President Ranil Wickremesinghe emphasized the peril of politicizing education, warning that such a move would inevitably lead to the nation’s downfall.
+
+He urged all stakeholders to set aside personal biases and engage in collaborative discussions to devise the most effective education system for the country within the next two to three years.
+
+These remarks were made during his address at the 10th Biennial Conference of the All Island Professional Lecturers’ Association (APLA), held at the Nelum Pokuna Theater in Colombo this afternoon (23).
+
+The All Island Professional Lecturers’ Association (APLA), established in 2004 by a consortium of tuition teachers nationwide, convened the event. Dr. K. Ariyasinghe, a founding member of the All Island Professional Lecturers’ Association, along with other senior teachers, was presented with the Senior Lecturers Award by the President.
+
+...
+
+[Data](articles/8fd8292a.json)
+
+---
 
 ### Finance Minister urges vehicle document verification amid luxury vehicle ban
 
@@ -43,6 +61,8 @@ He made these comments in response to the decision to temporarily halt the sale 
 ...
 
 [Data](articles/dfef5f8c.json)
+
+[Extended Data](ext_articles/dfef5f8c.ext.json)
 
 ---
 
@@ -111,6 +131,8 @@ However, Catholic leaders say no justice have been served for the innocent follo
 ...
 
 [Data](articles/09f61c38.json)
+
+[Extended Data](ext_articles/09f61c38.ext.json)
 
 ---
 
@@ -2279,29 +2301,5 @@ Another man inside the three -wheeler has fled the shooting, police said the pol
 [Data](articles/c7f54dfd.json)
 
 [Extended Data](ext_articles/c7f54dfd.ext.json)
-
----
-
-### Two helicopters collide during military rehearsal in Malaysia;10 people killed
-
-*2024-04-23 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181743) · `ta`
-
-In Malaysia, a military rehearsal helicopter collision at Lumud Naval Base killed 10, with both helicopters crashing; one on the road, the other in a lake.
-
-🟩
-
-Ten people were killed when two naval helicopters crashed during a military rehearsal in Malaysia.
-
-Local media showcases have been reported in local media shows that the two helicopters have clashed with each other.
-
-The incident took place at the Naval Base in Lumud, Malaysia. It is reported that no one who traveled on both kelikopters did not survive.
-
-It is reported that one of the crashed helicopters fell on the road and the other fell into a nearby swimming lake.
-
-◼️
-
-[Data](articles/0a51bd55.json)
-
-[Extended Data](ext_articles/0a51bd55.ext.json)
 
 ---

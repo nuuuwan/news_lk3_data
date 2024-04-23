@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-23 21:53:04**
+As of **2024-04-23 22:05:20**
 
 ## Newspaper Stats
 
-*Scraped **20,494** Articles*
+*Scraped **20,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,37 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,106
 dailyftlk | 1,133
-economynextcom | 1,165
+economynextcom | 1,166
 adalk | 1,711
 tamilmirrorlk | 2,365
 adaderanalk | 2,445
 virakesarilk | 3,072
-dailymirrorlk | 3,197
+dailymirrorlk | 3,198
 adaderanasinhalalk | 3,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,494 (100.0%) of 20,494 articles have been extended.
+20,494 (100.0%) of 20,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-23 (Tuesday)
+
+### Finance Minister urges vehicle document verification amid luxury vehicle ban
+
+*2024-04-23 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-Minister-urges-vehicle-document-verification-amid-luxury-vehicle-ban/108-281219) · `en`
+
+Colombo, April 23 (Daily Mirror) - State Finance Minister Ranjith Siyambalapitiya urged people to verify their vehicle documents with the Department of Motor Traffic (DMT) to ensure whether their vehicle is among the 112 luxury vehicles that have been temporarily prohibited from sale or transfer. Additionally, he stressed the importance of confirming whether the vehicles imported into the country have followed legal procedures.
+
+He made these comments in response to the decision to temporarily halt the sale or transfer of 112 luxury vehicles imported into Sri Lanka, which has resulted in the government losing more than Rs. 7,000 million in tax revenue.
+
+...
+
+[Data](articles/dfef5f8c.json)
+
+---
 
 ### Education should not be made a political proclaimer - President
 
@@ -75,6 +89,28 @@ The office was opened by former President Mahinda Rajapaksa, former President Ma
 [Data](articles/0ff228a0.json)
 
 [Extended Data](ext_articles/0ff228a0.ext.json)
+
+---
+
+### Anger, suspicion prevail as Sri Lanka Catholics mark fifth year of Easter attack
+
+*2024-04-23 20:43:00* · [`economynextcom`](https://economynext.com/anger-suspicion-prevail-as-sri-lanka-catholics-mark-fifth-year-of-easter-attack-159805/) · `en`
+
+ECONOMYNEXT – Five years after Sri Lanka’s worst ever attack on churches, the island nation’s ethnic minority Catholics are still struggling for justice and find the mastermind behind the Easter Sunday carnage that killed at least 269 people in 2019.
+
+The attack was carried out by local Islamist militants, but the investigations have failed to find the reason for the attack and who was behind local Islamist suicide bombers.
+
+Successive governments have promised independent probes into the attack, but nothing was done.
+
+And still key political parties use the Easter attack probe as their election promise.
+
+A parliament fact finding panel, a presidential commission of inquiry, and police investigations have found crucial facts related to the attack and those who are involved in the crime.
+
+However, Catholic leaders say no justice have been served for the innocent followers who were killed brutally when they were on prayers.
+
+...
+
+[Data](articles/09f61c38.json)
 
 ---
 
@@ -2267,57 +2303,5 @@ It is reported that one of the crashed helicopters fell on the road and the othe
 [Data](articles/0a51bd55.json)
 
 [Extended Data](ext_articles/0a51bd55.ext.json)
-
----
-
-### Ten dead as two Navy helicopters collide mid-air in Malaysia
-
-*2024-04-23 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ten-dead-as-two-Navy-helicopters-collide-mid-air-in-Malaysia/107-281200) · `en`
-
-Malaysia, April 23 (BBC) - Ten people have died after two navy helicopters collided in mid-air during a military rehearsal for a Royal Malaysian Navy parade.
-
-One of the choppers clipped the rotor of the other before the two crashed into the ground, footage published on local media show.
-
-The incident took place in the Malaysian town of Lumut, which is home to a navy base.
-
-One of the helicopters, a HOM M503-3 with seven people on board, is believed to have crashed onto a running track.
-
-The other, a Fennec M502-6 carrying the other three victims, crashed into a swimming pool nearby.
-
-The state's fire and rescue department said it was alerted to the incident at 09:50 local time (02:10 BST).
-
-◼️
-
-[Data](articles/bd71181e.json)
-
-[Extended Data](ext_articles/bd71181e.ext.json)
-
----
-
-### Who stayed in the 616- 623 number of rooms at the Sankirila Hotel when the lifeblood attack took place- the United People's Power Question?
-
-*2024-04-23 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181741) · `ta`
-
-The United People's Power has questioned who stayed in the 616 and 623rd rooms at the Sangirila Hotel during the lifeblood attack, where Sahran Hashim was present. The group alleges that Sahran Hashim and Saka Ilam Ahmad, involved in the suicide attack, are trying to hide details of the hotel's guests. The hotel management has refused to disclose the names of the two men in the 616th room, despite handing over details of other guests to the Colombo High Court.
-
-🟩
-
-The United People's Power has questioned who was staying in the 616 and 623rd rooms while Sahran Hashim was staying at the Sangirila Hotel.
-
-The United People's Power has reported that Sahran Hassim and his Saka Ilam Ahmad, who were involved in the suicide attack on April 21, 2019, are trying to cover up the details of the people who met at the same hotel on the 20th.
-
-United People's Power spokesman Mujibur Rahman has released the information.
-
-On the night of April 20, 2019, two suicide bombs were staying in the room on the sixth floor of the Sangirila Hotel.
-
-He also said that the hotel management refuses to make the names of the two men who stayed in the room.
-
-He said that the details of those who stayed at the hotel in the first two weeks of the survival Sunday attack were handed over to the Colombo High Court, but the hotel management did not provide details of those who stayed in the 616th room.
-
-...
-
-[Data](articles/de4ad065.json)
-
-[Extended Data](ext_articles/de4ad065.ext.json)
 
 ---

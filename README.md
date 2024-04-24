@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 10:03:31**
+As of **2024-04-24 10:18:45**
 
 ## Newspaper Stats
 
-*Scraped **20,587** Articles*
+*Scraped **20,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,132 @@ dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,715
 tamilmirrorlk | 2,373
-adaderanalk | 2,451
+adaderanalk | 2,452
 virakesarilk | 3,089
-dailymirrorlk | 3,212
-adaderanasinhalalk | 3,332
+dailymirrorlk | 3,213
+adaderanasinhalalk | 3,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,585 (100.0%) of 20,587 articles have been extended.
+20,587 (100.0%) of 20,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
+### Puttalam Qazi court judge arrested for accepting bribe
+
+*2024-04-24 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Puttalam-Qazi-court-judge-arrested-for-accepting-bribe/108-281254) · `en`
+
+Puttalam, April 25 (Daily Mirror) - A judge from the Puttalam Qazi Court has been arrested by officials from the Commission to Investigate Bribery or Corruption, for accepting a Rs. 5,000 bribe.
+
+The arrest followed a complaint from a resident of the Vettalai area in Puttalam.
+
+The judge had allegedly demanded the bribe from a woman in exchange for issuing a divorce certificate related to a court judgment.
+
+Following his arrest, the suspect was produced before the Puttalam Magistrate's Court and remanded until May 6.
+
+◼️
+
+[Data](articles/45c446dd.json)
+
+---
+
+### ටික්ටොක් ගැන අමෙරිකාව දැඩි තීරණයක් ගනී
+
+*2024-04-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195917) · `si`
+
+ටික්ටොක් තහනම් කිරීම සඳහා මඟ පෑදෙන පනත් කෙටුම්පත සඳහා අමෙරිකානු සෙනෙට් මණ්ඩලය සිය අනුමැතිය ලබාදී තිබේ.
+
+ටික්ටොක් හිමිකරු වන බයිට්ඩාන්ස් සමාගමට ඒ අනුව එම මෙවලමේ තමන් සතු කොටස් විකිණීමට මාස 9ක කාලයක් ලබාදී ඇති අතර එම කාලය තුළ කොටස් විකිණීම සිදුනොකළහොත් ටික්ටොක් අමෙරිකාව තුළ තහනම් කිරීමට නියමිතය.
+
+මෙම පනත් කෙටුම්පත නුදුරේදීම අනුමැතිය සඳහා ජනාධිපති ජෝ බයිඩන් වෙත ඉදිරිපත් කිරීමට නියමිත අතර ඔහු පවසා ඇත්තේ තමාට එය ලැබුණු විගස ඊට සිය අත්සන තබා එය නීතියක් බවට පත්කරන බවයි.
+
+එය එසේ සිදුකළහොත් ටික්ටොක් කොටස් විකිණීම සඳහා බයිට්ඩාන්ස් සමාගමට චීන බලධාරීන්ගේ අනුමැතිය ලබාගත යුතුය. ඔවුන් පවසන්නේ මෙය කොටස් විකිණීමට බලහත්කාරය පෑමක් ලෙසයි.
+
+ටික්ටොක් තහනම සඳහා සෙනෙට් මණ්ඩලයේ 79 දෙනෙක් පක්ෂව ඇති අතර විරුද්ධ වී ඇත්තේ 18ක් පමණි.
+
+ටික්ටොක් භාවිත කරන්නන් මිලියන 107ක් අමෙරිකාවේ සිටින අතර එය තහනම් කළහොත් ඔවුන්ගේ නිදහස් භාෂණයට ඇති අයිතියට බලපෑම් ඇතිවන බවත් එමගින් ව්‍යාපාර මිලියන 7කට බලපෑම් ඇතිවිය හැකි බවත් බයිට්ඩාන්ස් සමාගම පැවසීය.
+
+එසේම ටික්ටොක් මගින් වාර්ෂිකව අමෙරිකානු ආර්ථිකයට බිලියන 24ක දායකත්වයක් ලබාදෙන බවද සඳහන් ය.
+
+◼️
+
+[Data](articles/6070779c.json)
+
+---
+
+### Weerasena Gamage sworn in as Member of Parliament
+
+*2024-04-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98805/weerasena-gamage-sworn-in-as-member-of-parliament) · `en`
+
+Weerasena Gamage of Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament on Wednesday (24).
+
+He took oaths before Speaker Mahinda Yapa Abeywardena soon after the parliamentary proceedings kicked off.
+
+Earlier this month, the Election Commission had named Weerasena to fill the parliamentary seat that fell vacant following the demise of SLPP’s Anuradhapura District MP H. Nandasena.
+
+Nandasena passed away at the age of 69 on 05 April due to a sudden illness.
+
+Accordingly, Weerasena was next in line on the SLPP list for the Anuradhapura District after securing a total of 38,242 votes upon contesting the 2020 Parliamentary Elections. He managed to place 9th in the preferential votes list.
+
+Following Nandasena’s demise, the Acting Secretary General of Parliament informed the Election Commission, in writing, that a seat in the Ninth Parliament had become vacant. This notification was made in terms of Section 64(1) of the Parliamentary Elections Act, No. 1 of 1981.
+
+◼️
+
+[Data](articles/a9be6d39.json)
+
+---
+
+### New MP sworn in
 
 *2024-04-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195916) · `si`
 
-එන්. ජී. වීරසේන ගමගේ මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු මන්ත්‍රී ධුරයේ දිවුරුම් දෙනු ලැබීය.
+Mr. Weerasena Gamage, Anuradhapura District MP, was sworn in as a replacement for Mr. Nandasena, filling a vacant seat. He was sworn in by the Speaker at the start of Parliament today.
 
-ඒ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහාය.
+🟩
 
-අද (24) උදෑසන පාර්ලිමේන්තු කටයුතු ආරම්භ කළ අවස්ථාවේ දී කථානායකවරයා ඉදිරියේ වීරසේන මහතා එලෙස දිවුරුම් දෙනු ලැබීය.
+N. G. Mr. Weerasena Gamage was sworn in as a month ago.
+
+That is Anuradhapura District MP. The death of Mr. Nandasena was the vacant seat.
+
+Mr. Weerasena was sworn in before the Speaker at the time of the commencement of Parliament today.
 
 ◼️
 
 [Data](articles/ce972a10.json)
 
+[Extended Data](ext_articles/ce972a10.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-04-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195915) · `si`
 
-අලුත් අවුරුද්දෙන් පසුව පළමු වරට අද (24) දිනයේ පාර්ලිමේන්තුව මෙලෙස රැස්වුණි.
+The Parliamentary Council began today, with debates on the Criminal Procedure Finance and other amendments. Sri Lanka Broadcasting Corporation and several institutions are summoned to the COPE Committee.
 
-පාස්කු ප්‍රහාරය පිළිබද සභාව කල් තැබීමේ විවාදයක් අද, හෙට (25) සහ සිකුරාදා (26) යන දිනවල පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-ඊට අමතරව අද දිනයේ දී අපරාධ නඩු විධාන සංග්‍රසය සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ විෂ වර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතය.
+The Parliament was first met today (24) after the New Year.
 
-මේ අතර ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාව පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව වෙත අද කැඳවා තිබේ.
+The post adjournment debate will be held today and tomorrow (25) and Friday, the Parliamentary Communication Department stated.
 
-පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේ හෙට දිනයේ දී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල කෝප් කමිටුව හමුවට කැඳවා ඇති බවය.
+In addition, the Criminal Procedure Finance The Criminal Procedure Activity is due to be debated under the second reading of the amendment and poison, opium and the Dangers Ordinance.
 
-ලබන සිකුරාදා දිනයේ ශ්‍රීලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා ඇති බව සඳහන් වේ.
+Meanwhile, the Sri Lanka Broadcasting Corporation has been summoned to the Committee on Public Enterprises (COPE).
+
+The Communications Department of Parliament said that the University Grants Commission, National Institute of Business Management and the Mahapola Management Scardhi's Fund has been summoned before the COPE Committee.
+
+The heads of SriLankan Airlines have been summoned before the COPE Committee on Friday.
 
 ◼️
 
 [Data](articles/22c62adf.json)
+
+[Extended Data](ext_articles/22c62adf.ext.json)
 
 ---
 
@@ -2105,71 +2181,5 @@ We have repeatedly told the President about the need for our district's housing 
 [Data](articles/bd68c552.json)
 
 [Extended Data](ext_articles/bd68c552.ext.json)
-
----
-
-### Actress Kirtana will play again 'Baby & Baby'
-
-*2024-04-23 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181783) · `ta`
-
-Actress Kirtana stars in 'Baby & Baby', her second lead role after 'Tomorrow Judgment'. The film, a comedy-family entertainer, is nearing completion. Kirtana, known for 'Anthiyachalam', plays a mother alongside Satyaraj. The film aims to entertain fans of all ages.
-
-🟩
-
-Kirtana, who made his debut in Tamil film industry through the film 'Tomorrow Judgment', has once again played the lead role in 'Baby & Baby'. The film crew has excitedly expressed that the shooting of the film reached the final stage.
-
-Sathyaraj, Jai, Yogi Babu, Kirtana, Pragya Nagra, Sai Tanya, Anandaraj, Sreeman, Motta Rajendran, Prince, Lion Tiger, Shadows Ravi, RJ Vignesh Kant, ThangaduraiMany people including Rama. D. B.. The film is being recorded by the film. Iman has composed music. The film is being produced in the comedy -mixed family entertainer Janer.. B.. Produced by Selvakumar.The film was made on behalf of Yuvraj Films Film Company. Yuvraj offers.
-
-The first shooting of the film is completed and the second phase of the shooting is currently underway. The film's first look will be released once the shooting is over.
-
-The film crew is delighted that the film is being prepared as a family entertainer to celebrate all the fans from the age of six to 60.
-
-...
-
-[Data](articles/1d38594a.json)
-
-[Extended Data](ext_articles/1d38594a.ext.json)
-
----
-
-### Aamirin's release date of 'Bi Tamil'
-
-*2024-04-23 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181780) · `ta`
-
-"Aamir's 'Bi Tamil' releases globally on May 10th, amidst his drug trafficking case. The film, produced by Moon Pictures, features a star-studded cast and is directed by Adam Bawa. Its release coincides with the Lok Sabha elections, potentially impacting its reception."
-
-🟩
-
-The release date of the film 'Bi Tamil', which is being prepared by director and actor Aamir, who is accused of involvement in the drug trafficking case, has been officially announced.
-
-Aamir, Santini, Anandaraj, Iman Annachi, Rajasimman, Saravana Shakti, Mahanadi Shankar, Subramaniam Siva, Raj Kapoor, directed by the producer and director Adam Bawa.. Vidyasagar has composed the film, which has been recorded by Devaraj. The film is being produced by Moon Pictures on behalf of Moon Pictures.
-
-The film's first look, teaser, single track and trailer have been released. The film is expected to be released at the film House around the world on the 10th of May.
-
-...
-
-[Data](articles/f10ca2bc.json)
-
-[Extended Data](ext_articles/f10ca2bc.ext.json)
-
----
-
-### Ramarajan .. 'People Man' ..?
-
-*2024-04-23 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181784) · `ta`
-
-"Ramarajan, known as 'People Man,' has millions of fans in Tamil Nadu. His new movie 'Samaniyan,' directed by R. Ramarajan, Radha Ravi, and M, is set to release on May 23, 2023. The film, produced by V of Etchetra Entertainment, focuses on the lives of ordinary people. It's a collaboration with 'Musician' Ilayaraja."
-
-🟩
-
-'People Man' Ramarajan has millions of fans today in the southern parts of Tamil Nadu. Does he not come up with a new movie ..?For fans who have been waiting for more than a decade.. He has been officially announced on the date of the release of the movie 'Samaniyan'.. His fans are excited as the announcement was released.
-
-Director r. Ramarajan, Radha Ravi and M in the film 'Samaniyan' directed by Rakesh. S.. Bhaskar, Bose Venkat, K. S.. Ravikumar, Sharavana Subbaiah, Naksha Saran, Leo Sivakumar, Vinodhini, Deepa Shankar, Smriti Venkat, Abernathi, Aranthangi Nisha. C. The film, which has been recorded by Arulselvan, has composed the music of 'Music Gnani'.Actor and producer V, on behalf of Etchetra Entertainment film company, is ready to focus on the life of simple people.. The afternoon has produced.
-
-...
-
-[Data](articles/f52bde65.json)
-
-[Extended Data](ext_articles/f52bde65.ext.json)
 
 ---

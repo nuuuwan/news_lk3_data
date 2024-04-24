@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 00:34:19**
+As of **2024-04-25 00:49:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,760 (100.0%) of 20,763 articles have been extended.
+20,763 (100.0%) of 20,763 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Islamization and the Arabization of some quarters of the Muslim community, leadi
 
 [Data](articles/357b6f86.json)
 
+[Extended Data](ext_articles/357b6f86.ext.json)
+
 ---
 
 ### Seeing beyond the Uma Oya project and into eyes of Iran
@@ -68,6 +70,8 @@ Sri Lanka’s latest news in the international scene is generated with its deali
 
 [Data](articles/5d1a8597.json)
 
+[Extended Data](ext_articles/5d1a8597.ext.json)
+
 ---
 
 ### Girls in ICT and political leadership roles
@@ -81,6 +85,8 @@ Today, the United Nations marks the International Girls in ICT Day with the them
 ...
 
 [Data](articles/bc80a3ce.json)
+
+[Extended Data](ext_articles/bc80a3ce.ext.json)
 
 ---
 

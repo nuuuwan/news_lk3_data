@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 11:18:39**
+As of **2024-04-24 11:34:15**
 
 ## Newspaper Stats
 
-*Scraped **20,609** Articles*
+*Scraped **20,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,716
 tamilmirrorlk | 2,377
 adaderanalk | 2,455
 virakesarilk | 3,095
-dailymirrorlk | 3,216
+dailymirrorlk | 3,218
 adaderanasinhalalk | 3,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,609 (100.0%) of 20,609 articles have been extended.
+20,609 (100.0%) of 20,611 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,6 +106,10 @@ Significantly, he said, "We have to hold two debates, and one includes the leade
 
 President of the Islamic Republic of Iran Dr. Ebrahim Raisi arrived at the Mattala Rajapaksa International Airport (MRIA) a short while ago for the opening of the the Uma Oya Multipurpose Development Project.
 
+He was welcomed at the Mattala Airport by PM Dinesh Gunawardane.
+
+During his one-day official visit, President Raisi will inaugurate the Uma Oya Multipurpose Development Project (UOMDP).
+
 ◼️
 
 [Data](articles/75d3f176.json)
@@ -118,13 +122,13 @@ President of the Islamic Republic of Iran Dr. Ebrahim Raisi arrived at the Matta
 
 *2024-04-24 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98808/iranian-president-dr-ebrahim-raisi-reaches-sri-lanka) · `en`
 
-President of Iran, Dr. Ebrahim Raisi reached the Mattala International Airport in Sri Lanka on Wednesday morning (24) for a one-day visit.
+President of Iran, Dr. Ebrahim Raisi arrived in Sri Lanka on Wednesday morning (24) for a one-day visit.
+
+He was accorded a cordial welcome by Prime Minister Dinesh Gunawardena at the Mattala International Airport.
 
 At the invitation of President Ranil Wickremesinghe, the Iranian president arrived in Sri Lanka after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka after former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
 
 During his brief stay on the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
-
-Against this backdrop, Sri Lanka Police has implemented special traffic plans in Colombo and Mattala ahead of the Iranian president’s arrival. The vehicular movement will be restricted on many roads including the Colombo-Katunayake expressway and the main road from Mattala to Uma Oya.
 
 ...
 
@@ -206,7 +210,7 @@ The court order preventing the Executive Committee of Sri Lanka Freedom Party (S
 
 Accordingly, the interim injunction will be in place until 08 May on the orders of the Colombo District Court.
 
-Colombo District Judge delivered this extension when a plaint filed by the three MPs was taken up this morning (24).
+Colombo District Judge Sandun Withana delivered this extension when a plaint filed by the three MPs was taken up this morning (24).
 
 A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaints, which have sought an order declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
 
@@ -775,6 +779,22 @@ He was later produced before the Puttalam Magistrate's Court and remanded until 
 [Data](articles/7b148235.json)
 
 [Extended Data](ext_articles/7b148235.ext.json)
+
+---
+
+### Sri Lankan Ambassador engages in bilateral talks with Gambian President
+
+*2024-04-24 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Ambassador-engages-in-bilateral-talks-with-Gambian-President/108-281258) · `en`
+
+Sri Lankan Ambassador Kana Kananathan in Kenya, who is concurrently accredited to other African countries, engaged in bilateral discussions with Adama Barrow, the President of The Gambia, marking a step forward in solidifying the bonds of friendship and cooperation between the two nations.
+
+The talks between Ambassador Kananathan and President Adama Barrow focused on avenues for enhancing collaboration across various sectors, prominently trade and investment. Both sides expressed unwavering commitment to exploring fresh opportunities for mutual benefit and shared prosperity.
+
+President Barrow extended sincere appreciation to President Wickramasinghe for his remarkable efforts in stabilizing the economy within a remarkably short span of time. The Gambian President lauded his Sri Lankan counterpart for his adept leadership and effective economic policies, which have unquestionably bolstered Sri Lanka's economic landscape within a brief period.
+
+...
+
+[Data](articles/9f6ccad1.json)
 
 ---
 
@@ -2153,21 +2173,5 @@ President of the Association, Mr. P.. Karunanidhi welcomed the gathering, saying
 [Data](articles/2c7902ed.json)
 
 [Extended Data](ext_articles/2c7902ed.ext.json)
-
----
-
-### Finance Minister urges vehicle document verification amid luxury vehicle ban
-
-*2024-04-23 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-Minister-urges-vehicle-document-verification-amid-luxury-vehicle-ban/108-281219) · `en`
-
-Colombo, April 23 (Daily Mirror) - State Finance Minister Ranjith Siyambalapitiya urged people to verify their vehicle documents with the Department of Motor Traffic (DMT) to ensure whether their vehicle is among the 112 luxury vehicles that have been temporarily prohibited from sale or transfer. Additionally, he stressed the importance of confirming whether the vehicles imported into the country have followed legal procedures.
-
-He made these comments in response to the decision to temporarily halt the sale or transfer of 112 luxury vehicles imported into Sri Lanka, which has resulted in the government losing more than Rs. 7,000 million in tax revenue.
-
-...
-
-[Data](articles/dfef5f8c.json)
-
-[Extended Data](ext_articles/dfef5f8c.ext.json)
 
 ---

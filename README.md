@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 18:14:05**
+As of **2024-04-24 18:26:58**
 
 ## Newspaper Stats
 
-*Scraped **20,700** Articles*
+*Scraped **20,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,726
+adalk | 1,727
 tamilmirrorlk | 2,394
-adaderanalk | 2,467
+adaderanalk | 2,468
 virakesarilk | 3,109
-dailymirrorlk | 3,230
-adaderanasinhalalk | 3,351
+dailymirrorlk | 3,231
+adaderanasinhalalk | 3,352
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,699 (100.0%) of 20,700 articles have been extended.
+20,700 (100.0%) of 20,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### හදිසියේම ජනපති සහ බැසිල් අතර හමුවක්
+
+*2024-04-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195936) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අතර විශේෂ හමුවක් සිදුව ඇත.
+
+වැඩිදුරටත් වාර්තාවන්නේ ඊයේ (23) පස්වරුවේ පැවති එම සාකච්ඡාවේදී ප්‍රධාන වශයෙන් කරුණු 3ක් පිළිබඳව අවධානය යොමුකර ඇති බවය.
+
+එහිදී එළැඹෙන ජනාධිපතිවරණය පිළිබඳව සාකච්ඡා කර ඇති අතර දෙපාර්ශ්වය එකඟතාව පළකර ඇත්තේ ව්‍යවස්ථානුකූලව ඡන්ද විමසීමක් කැඳවනතුරු ජනාධිපති ධුර අපේක්ෂකත්වය ගැන විසංවාදයන්ගෙන් තොරව පවතින පොදු අභියෝග ජයගැනීමේ අරමුණු ප්‍රමුඛ කරගනිමින් ඉදිරියට යායුතු බවටය.
+
+එසේම හිටපු පළාත් පාලන නියෝජිතයන්ට ආණ්ඩුවේ පොදු කටයුතු සදහා නිල වශයෙන් සහභාගී විය හැකි වන පරිදි අවස්ථාවක් නිර්මාණය කරදීම පිළිබඳවද එහිදී සාකච්ඡා වී ඇත.
+
+මේ අතර එහිදී අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගෙන ඇති තීරණය සම්බන්ධයෙන් ද සාකච්ඡාවට ලක්ව ඇති බව ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරයි.
+
+මෙහිදී බැසිල් රාජපක්ෂ මහතා ජනාධිපතිවරයා වෙත දැනුම්දී ඇත්තේ පක්ෂයක් ලෙස වැරදි පූර්වාදර්ශයන්ට ඉඩදීමට නොහැකි බව පොදුජන පෙරමුණේ පොදු තීරණය වන බැවින් එකී වැරදි පූර්වාදර්ශය සම්බන්ධයෙන් ගතයුතු නිල ක්‍රියාමාර්ගය වෙත පක්ෂය මේ වනවිටත් අවතීර්ණ වී අවසන් බවය.
+
+◼️
+
+[Data](articles/8473fc31.json)
+
+---
+
+### Iranian President Ebrahim Raisi calls on President Ranil
+
+*2024-04-24 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98820/iranian-president-ebrahim-raisi-calls-on-president-ranil) · `en`
+
+Iranian President Dr. Ebrahim Raisi has called on President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
+
+The President of the Islamic Republic of Iran was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry.
+
+Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+During his one-day official visit, President Raisi participated in a public ceremony marking the inauguration of the Uma Oya Multipurpose Development Project (UOMDP)). This project, following the Mahaweli Development Project, is one of the largest irrigation projects in Sri Lanka.
+
+...
+
+[Data](articles/b818d191.json)
+
+---
 
 ### Karapitiya Hospital gets new CT scanner
 
@@ -47,6 +87,8 @@ Following its installation last Sunday, patients can now benefit from CT Scan te
 ◼️
 
 [Data](articles/bb5d8fdc.json)
+
+[Extended Data](ext_articles/bb5d8fdc.ext.json)
 
 ---
 
@@ -94,6 +136,24 @@ He has been accused of bribery in the projects carried out by the Ministry of De
 
 ---
 
+### විජයදාසට හා දුෂ්මන්තට වාරණ නියෝගයක්
+
+*2024-04-24 17:23:33* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-හා-දුෂ්මන්තට-වාරණ-නියෝගයක්/11-409242) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන  සභාපති ලෙස පත්වූ අමාත්‍ය විජයදාස රාජපක්ෂ මහතාට හා වැඩබලන ප්‍රධාන  ලේකම් ලෙස කටයුතු කරන මන්ත්‍රී සාරථි දුෂ්මන්ත මහත්වරුන්ට එම ධූරවල කටයුතු කිරීම වළක්වාලමින්  වාරණ නියෝග දෙකක් කොළඹ ප්‍රධාන දිසා විනිසුරු සඳුන්විතාන මහතා අද(24) නිකුත් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජික හා අමාත්‍යවරුන් වන ලසන්ත අලගියවන්න, දුමින්ද දිසානායක හා මහින්ද අමරවීර යන මහත්තුරුන් පැවරූ නඩුවක් සලකා බැලීමෙන් පසුව නිකුත් කළ මෙම වාරණයෝග ලබන මස අටවෙනි දින දක්වා ක්‍රියාත්මක වේ.
+
+පැමිණිලිකරුවන් වෙනුවෙන් ජනාධිපති නීතිඥ චන්දක ජයසුන්දර මහතා අධිකරණයට කරුණු දක්වමින් කියා සිටියේ විත්තිකරුවන් එම ධූරයන් වලට පත්වීම නීති විරෝධී හා ව්‍යවස්ථා විරෝධී බවය.
+
+විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකයෙක් නොවන බවත් සාමාජිකයෙකු නොවන වෙනත් පක්ෂයක සාමාජිකයකුට ශ්‍රී ලංකා නිදහස් පක්ෂයේ නිලතලයක් දැරීම ව්‍යස්ථානුකූලව නීති විරෝධී බවත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/865e5cba.json)
+
+---
+
 ### "Uma Janani" multiloime development project opens vested with the public
 
 *2024-04-24 17:18:09* · [`adalk`](https://www.ada.lk/breaking_news/“උමා-දිය-ජනනි”-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ජනතා-අයිතියට/11-409241) · `si`
@@ -119,6 +179,24 @@ Addressing the gathering, President Ranil Wickremesinghe said that Sri Lanka wou
 [Data](articles/9665f9dd.json)
 
 [Extended Data](ext_articles/9665f9dd.ext.json)
+
+---
+
+### Fox Hill Super Cross drivers granted bail
+
+*2024-04-24 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fox-Hill-Super-Cross-drivers-granted-bail/108-281294) · `en`
+
+Colombo, April 24 (Daily Mirror) - The Bandarawela Magistrate's Court today granted bail to the two drivers involved in the fatal crash during the Fox Hill Super Cross 2024 at Diyatalawa.
+
+The Magistrate ordered their release on surety bail of Rs. 100,000 each. The drivers had been arrested while receiving treatment in the hospital on April 22 and were remanded by the Bandarawela Magistrate on the same day.
+
+The tragic incident on Sunday (April 21) claimed the lives of seven people, including an 8-year-old girl, and left more than 23 injured when a car veered off the track during a race and collided with spectators. Among the deceased were four event officials acting as flag marshals, with the others identified as spectators.
+
+The crash occurred shortly after another car overturned on the track, leading to another car veering off and hitting spectators along the unguarded trackside.
+
+...
+
+[Data](articles/48247209.json)
 
 ---
 
@@ -2207,97 +2285,5 @@ Ticktock also contributes Rs. 24 billion to the American economy annually.
 [Data](articles/6070779c.json)
 
 [Extended Data](ext_articles/6070779c.ext.json)
-
----
-
-### Chinese Minister Shan Hayan visits Sri Lanka
-
-*2024-04-24 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181812) · `ta`
-
-Chinese Minister Shan Hayan visited Sri Lanka for four days, meeting President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. Discussions focused on political relations, economic crises, and China's debt restructuring.
-
-🟩
-
-Shan Hayan, a representative of the Chinese Communist Party's International Division, arrived in Sri Lanka on Tuesday (23) on an official visit.
-
-Minister Shan Hayan, who is staying in Sri Lanka for four days, will meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-Discussions will be held on the development and work of the relations between the political parties and its leaders in Sri Lanka.
-
-At the same time, there is also the possibility of paying attention to the economic crises and the issue of China's debt restructuring.
-
-◼️
-
-[Data](articles/ddde66bd.json)
-
-[Extended Data](ext_articles/ddde66bd.ext.json)
-
----
-
-### Weerasena in replace Nandasena
-
-*2024-04-24 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/නන්දසේන-වෙනුවට-වීරසේන-එයි/11-409232) · `si`
-
-G. Weerasena Gamage, replacing H. Nandasena, was sworn in as MP for Anuradhapura District.
-
-🟩
-
-Anuradhapura District MP H. Nandasena's death to be appointed as the vacant seat. G. Weerasena Gamage was sworn in as MP.
-
-Mr. Weerasena was sworn in before the Speaker at the time of the commencement of Parliament today.
-
-◼️
-
-[Data](articles/80d30786.json)
-
-[Extended Data](ext_articles/80d30786.ext.json)
-
----
-
-### Education should not be made a political worldle
-
-*2024-04-24 09:45:02* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනය-දේශපාලන-පාපන්දුවක්-බවට-පත්-කර-නොගත-යුතුයි/11-409231) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of education not being politicized, highlighting the need for a modern, technology-integrated education system. He praised the All Ceylon Professional Lecturers Association for its role in education and expressed hope for future reforms to be inclusive and non-political.
-
-🟩
-
-President Ranil Wickremesinghe said that if education was defeated by a political prone, the country should be determined to be determined by the country and will be determined by the country.
-
-President Ranil Wickremesinghe addressing the 10th Ceylon Professional Lecturers Association of the All Ceylon Professional Lecturers Association at the Nelum Pokuna Theater, Colombo yesterday (23).
-
-The All Ceylon Ceylon Professional Lecturers Association (APla) is a 2004 organization established by the teachers of the teachers throughout Sri Lanka.
-
-Founded member and senior Dr. K.. The President made awards to Awards to Ariyaasinghe and the awards to the other teachers.
-
-President Ranil Wickremesinghe graced the occasion as the Chief Guest at the conference, Mr. Ravindra Bandara awarded a souvenir.
-
-The President then joined a group photo with the executive committee members of the All Ceylon Professional Lecturer.
-
-...
-
-[Data](articles/edfee1bd.json)
-
-[Extended Data](ext_articles/edfee1bd.ext.json)
-
----
-
-### Khadi judge arrested for bribery
-
-*2024-04-24 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181809) · `ta`
-
-A Puttalam Khadi Court Judge was arrested for bribery of Rs 5,000. The Bribery Commission officials detained him, and he will be remanded until May 6 for a hearing in the Puttalam Magistrate's Court.
-
-🟩
-
-A Judge of the Puttalam Khadi Court has been arrested by the Bribery Commission officials on charges of bribery of Rs 5,000.
-
-The Investigation Commission (CIABOC) of the Bribery Corruption (CIABOC) said that he was ordered to be remanded until May 6 when the arrested Khadi Judge was produced before the Puttalam Magistrate's Court.
-
-◼️
-
-[Data](articles/234bd4fb.json)
-
-[Extended Data](ext_articles/234bd4fb.ext.json)
 
 ---

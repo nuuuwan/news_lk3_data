@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 20:18:38**
+As of **2024-04-24 20:34:19**
 
 ## Newspaper Stats
 
-*Scraped **20,727** Articles*
+*Scraped **20,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,56 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,729
+adalk | 1,730
 tamilmirrorlk | 2,399
 adaderanalk | 2,470
 virakesarilk | 3,120
 dailymirrorlk | 3,232
-adaderanasinhalalk | 3,353
+adaderanasinhalalk | 3,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,726 (100.0%) of 20,727 articles have been extended.
+20,727 (100.0%) of 20,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### சுற்றுலாப் பயணிகளின் செயலால் கவலை
+### කොළඹ වාහන සිරවෙයි
+
+*2024-04-24 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195938) · `si`
+
+කොළඹ ප්‍රධාන මාර්ග කිහිපයක මේ වනවිට දැඩි රථවාහන තදබයක් ඇතිවී තිබේ.
+
+◼️
+
+[Data](articles/fd3f4c23.json)
+
+---
+
+### Concern by the action of tourists
 
 *2024-04-24 20:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயலால்-கவலை/175-336293) · `ta`
 
-மலையக பிரதான ரயில் பாதையில் பயணிக்கும் வெளிநாட்டு சுற்றுலாப் பயணிகள் விரைவு ரயில்களின் கால் பலகைகளில் பயணிப்பதால் விபத்துக்கள் ஏற்படுவதாக ரயில் பயணிகள் கவலை தெரிவித்தனர்.
+Tourists on footboards of fast trains pose safety concerns, leading to accidents. Recent incidents include a foreign woman falling near Ohia station and an Iranian tourist's serious injury. Travelers demand action from train guards and security officials to prevent such risky behavior.
 
-சுற்றுலாப் பயணிகள் தங்களின் ஆபத்தைப் பொருட்படுத்தாமல் ஃபுட் போர்டில் ஏறி செல்ஃபி எடுப்பதை வழக்கமாகக் கொண்டிருப்பதாகவும், அண்மைக்காலமாக பல விபத்துக்கள் ஏற்பட்டு அதில் சில உயிரிழப்புகள் ஏற்பட்டதாகவும் அவர்கள் சுட்டிக்காட்டினர்.
+🟩
 
-சமீபத்தில், ஒஹியா ரயில் நிலையத்திற்கு அருகில் கடந்த ஞாயிற்றுக்கிழமை (21) பொடி மனிகே எக்ஸ்பிரஸில் வெளிநாட்டு பெண் ஒருவர் கீழே விழுந்தார், சுமார் ஒரு மாதத்திற்கு முன்பு இதேபோன்ற சம்பவத்தில் ஈரானிய சுற்றுலாப் பயணி ஒருவர் பலத்த காயமடைந்தார்.
+Railway passengers are concerned that foreign tourists traveling on the main railway line are traveling on the foot boards of fast trains.
 
-இந்த அபாயகரமான பயணத்தை சுற்றுலா பயணிகள் மேற்கொள்வதை தடுக்க புகையிரத காவலர்கள் மற்றும் பாதுகாப்பு சேவை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டுமென பயணிகள் சுட்டிக்காட்டியுள்ளனர்.
+They pointed out that tourists are customary for tourists to climb on the Foot Board regardless of their danger, and that there have been many accidents in recent years.
+
+Recently, a foreign woman fell down at the Powder Manike Express near the Ohia railway station last Sunday (21), and an Iranian tourist was seriously injured in a similar incident about a month ago.
+
+Travelers have pointed out that train guards and security service officials should take action to prevent tourists from making this dangerous journey.
 
 ◼️
 
 [Data](articles/0740ce39.json)
+
+[Extended Data](ext_articles/0740ce39.ext.json)
 
 ---
 
@@ -269,6 +287,22 @@ Uma Oya had to face a variety of challenges while implementing the Multipurpose 
 [Data](articles/10867119.json)
 
 [Extended Data](ext_articles/10867119.ext.json)
+
+---
+
+### යක්ෂා රූඩයෙන් බේර ගන්න පල්ලියකදී ජලය පෙවු දෙදරු මරණයට
+
+*2024-04-24 18:15:48* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂා-රූඩයෙන්-බේර-ගන්න-පල්ලියකදී-ජලය-පෙවු-දෙදරු-මරණයට/11-409245) · `si`
+
+මදුරන්කුලිය මුක්කුතොඩුවාව ප්‍රදේශයේ පවත්වාගෙන යනු ලබන රෝග සුව කරන බව පැවසෙන ස්ථානයකදී රෝගී තත්වයෙන් පසුවු කාන්තාවකට ජලය පානය කිරීමට දීමේන් පසු විජලනය හා දැඩි ශ්වසන ආබාධයකට ලක්වු 58 හැවිරිදි දෙදරු මවක් අසාධ්‍යව පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමේන් පසු 24 දින අලුයම මරණයට පත්ව ඇති බව මදුරන්කුලිය පොලිසිය කියයි.
+
+මෙලෙස මරණයට පත්ව ඇත්තේ මුන්දලම විල්පොත පදිංචි කළුමරක්කලගේ රේණුකා ඉන්ද්‍රකාන්ති නැමති දෙදරු මවක් වන අතර ඇය වසර 35 කට ආසන්න කාලයක් මැද පෙරදීග රටවල ගෘහ සේවිකාවක් ලෙස සේවය කරමින් සිට ඇති බවත් අවසන් වරට එක්සත් අරාබි එමිර් රාජ්‍යයෙ ඩුබායි නගරයෙ සේවය කරමින් සිට ඇති බව ඥාතින් පවසති.
+
+එසේ සේවය කරමින් සිට සති කිපයකට පෙර මෙරටට පැමිනි මෙම කාන්තාව යම් මානසික අපහසුතාවයකින් සිටිම නිසා එකම දියණීය ඒ පිළිබදව විමසිමේදි පවසා ඇත්තේ මැද පෙරදිග රටක සේවය කරමින් සිටියදී යම් කිසි භුතයකු තම සිරුරට ඇතුළු වී තමන්ට කරදර කරන බවත් එය සුව කර ගැනිමට හැකි තැනක් සොයා දෙන ලෙසට දියණියට පවසා ඇති බවයි.
+
+...
+
+[Data](articles/dd52ec12.json)
 
 ---
 
@@ -2249,51 +2283,5 @@ However, the US State Department has said that President Ranil Wickremesinghe ha
 [Data](articles/bcc280fb.json)
 
 [Extended Data](ext_articles/bcc280fb.ext.json)
-
----
-
-### Another interim injunction against Maithri
-
-*2024-04-24 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195920) · `si`
-
-The Colombo District Court issued an interim injunction against the Sri Lanka Freedom Party Chairman, following a complaint by the SLFP Executive Committee. The order, by Judge Sandun Withana, is in effect until the case concludes.
-
-🟩
-
-The Colombo District Court issued an interim injunction today (24) by the Sri Lanka Freedom Party Chairman.
-
-The order was issued by the Colombo District Judge Sandun Withana regarding a complaint lodged with a complaint lodged by the SLFP Executive Committee.
-
-The permanent interim injunction order stated that until the end of the case.
-
-◼️
-
-[Data](articles/dd70d77b.json)
-
-[Extended Data](ext_articles/dd70d77b.ext.json)
-
----
-
-### Vavuniya Police Action - Notification to the public
-
-*2024-04-24 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181823) · `ta`
-
-Vavuniya Police arrested Deputy Inspector General and his team for fraud near the Passport Office. The Magistrate will be courted after investigation. Public notified to report any future frauds via 0718593520.
-
-🟩
-
-There were reports in the media yesterday that there were many frauds in front of the Vavuniya Passport Office.
-
-Following this, the Vanni Regional Deputy Inspector General of Police Vavuniya, who was advised by the Chief Police Station, was arrested in front of the Vavuniya Passport Office in front of the Vavuniya Passport Office with his team led by Senior Police Inspector Jayathaka.
-
-Police say the Magistrate is to be produced before the court after investigating the detainees.
-
-Meanwhile, Senior Police Inspector of the Vavuniya Chief Police Station Crime Unit, Jayataka, has issued a notification to the public by contacting his official telephone number 0718593520 if there are any frauds in front of the Passport Office in the coming days.
-
-◼️
-
-[Data](articles/173b4e59.json)
-
-[Extended Data](ext_articles/173b4e59.ext.json)
 
 ---

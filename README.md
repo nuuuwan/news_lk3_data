@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 04:03:51**
+As of **2024-04-25 04:18:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,772 (100.0%) of 20,774 articles have been extended.
+20,774 (100.0%) of 20,774 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,19 +72,27 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
-### தமிழரசு நிர்வாகத் தெரிவு வழக்கு ஒத்திவைப்பு
+### Tamilnadu Administrative Choosing case postponed
 
 *2024-04-25 00:29:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-நிர்வாகத்-தெரிவு-வழக்கு-ஒத்திவைப்பு/175-336301) · `ta`
 
-திருகோணமலை நீதவான் நீதிமன்றில் புதன்கிழமை (24) விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட இலங்கைத் தமிழரசுக் கட்சி நிர்வாகத் தெரிவு தொடர்பான வழக்கு  எதிர்வரும் மே மாதம் 31ஆம் திகதி வரை ஒத்தி வைக்கப்பட்டுள்ளதாக ஜனாதிபதி சட்டத்தரணி கே.வி.தவராசா தெரிவித்துள்ளார்.
+The Tamilnadu Administrative Choosing case, involving the Sri Lanka Tamil National Alliance (TNA) and 7 opponents, has been postponed to May 31st. The case, filed on Feb 15, was discussed for 3 hours. No party violation is mentioned; it's about added rules. The case's outcome is uncertain, with no change in the prosecutor's position.
 
-07 எதிராளிகள் பெயரிடப்பட்டுள்ள நிலையில், 2ஆம்,4ஆம் எதிராளிகளான தலைவராக தெரிவு செய்யப்பட்ட  பாராளுமன்ற உறுப்பினர்  எஸ்.ஸ்ரீதரன், செயலாளராக தெரிவாகிய ச.குகதாசன் ஆகியோர்களுக்கு சார்பாக ஆஜராகினேன். சுமார் மூன்று மணி நேரம் இவ்வழக்கு விவாதிக்கப்பட்டு சமர்ப்பணம் செய்யப்பட்டது.
+🟩
 
-கடந்த பெப்ரவரி 15ஆம் திகதி வழகுகல் தாக்கல் செய்யப்பட்டு 29ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இந்த வழக்கு பொதுநலன் கருதி முடிவுக்கு கொண்டு வரவேண்டும். கட்சி யாப்பை மீறியதாக இங்கு எதுவும் சொல்லப்படவில்லை. குறிப்பாக சில விதிகளில் மேலதிகமாக சேர்க்கப்பட்டுள்ளது.
+President's Attorney KV Dawarasa said that the case of the Sri Lanka Tamil National Alliance (TNA) administration, which was taken up for hearing at the Trincomalee Magistrate's Court on Wednesday (24), has been postponed till May 31st.
 
-...
+With 07 opponents, I appeared on behalf of MP S. Sreedharan, who was elected as the leader of the 2nd and 4th opponents.. The case was discussed and submitted for about three hours.
+
+The case was filed on February 15 and was taken up for hearing on the 29th. The case must be concluded for the welfare of the welfare. Nothing is said here that the party is violated. In particular, some rules have been added.
+
+Accordingly, if the case is filed, it can be won. But the time goes, so that the case has gone, and if success is considered a failure. We are ready to provide relief. There is no change in our position, the prosecutor must report it through his lawyer. I expressed my argument in court that the case should be withdrawn.
+
+◼️
 
 [Data](articles/80ad5596.json)
+
+[Extended Data](ext_articles/80ad5596.ext.json)
 
 ---
 
@@ -1199,6 +1207,8 @@ Sajith Premadasa, the Leader of Samagi Jana Balawegaya, also made a similar pled
 ...
 
 [Data](articles/046d1ec1.json)
+
+[Extended Data](ext_articles/046d1ec1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 12:34:14**
+As of **2024-04-24 12:50:36**
 
 ## Newspaper Stats
 
-*Scraped **20,640** Articles*
+*Scraped **20,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,165 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,719
-tamilmirrorlk | 2,380
-adaderanalk | 2,458
+tamilmirrorlk | 2,386
+adaderanalk | 2,460
 virakesarilk | 3,101
 dailymirrorlk | 3,221
-adaderanasinhalalk | 3,339
+adaderanasinhalalk | 3,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,640 (100.0%) of 20,640 articles have been extended.
+20,640 (100.0%) of 20,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### சம்பள பேச்சு நின்னு போச்சு
+
+*2024-04-24 12:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-பேச்சு-நின்னு-போச்சு/76-336274) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் தொடர்பான பேச்சுவார்த்தையை முன்னெடுப்பதற்கான சம்பள நிர்ணய சபை புதன்கிழமை (24) மீண்டும் கூடியது. அந்த பேச்சுவார்த்தையில் முதலாளிமார் சம்மேளத்தை பிரதிநிதித்துவப்படுத்தி எவரும் பங்கேற்கவில்லை என அறியமுடிகின்றது.
+
+சம்பள உயர்வு விவகாரம் தொடர்பிலான வழக்கு, உயர்நீதிமன்றத்தில் நிலுவையில் உள்ளமையால், தங்களால் தலையிடமுடியாது என, சம்பள நிர்ணய சபை கையை விரித்துவிட்டதென தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/c977aa16.json)
+
+---
+
+### உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம் திறந்து வைக்கப்பட்டது
+
+*2024-04-24 12:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-பல்நோக்கு-அபிவிருத்தி-திட்டம்-திறந்து-வைக்கப்பட்டது/175-336273) · `ta`
+
+ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி (Dr. Ebrahim Raisi) மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க  ஆகியோரின் தலைமையில் உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம்  சற்று முன்னர் திறந்து வைக்கப்பட்டது.
+
+மகாவலி அபிவிருத்தித் திட்டத்திற்குப் பின்னர் இலங்கையில் நிர்மாணிக்கப்பட்ட பாரிய நீர்ப்பாசனத் திட்டங்களில் இத்திட்டம் ஒன்றாகும்.
+
+உமா ஓயா திட்டத்தை திறந்து வைப்பதற்காக ஈரான் ஜனாதிபதி இன்று காலை மத்தள விமான நிலையத்தை வந்தடைந்தார். இவருடைய வருகையை முன்னிட்டு விசேட பாதுகாப்பு திட்டமும் போக்குவரத்து திட்டமும் அமுல்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/f00fd357.json)
+
+---
+
+### மண்சரிவு அபாயம்: 10 குடும்பங்கள் இடம்பெயர்வு
+
+*2024-04-24 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்சரிவு-அபாயம்-10-குடும்பங்கள்-இடம்பெயர்வு/76-336272) · `ta`
+
+எல்ல கரடகொல்ல மலித்தகொல்ல பிரதேசத்தை அண்மித்த பகுதிகளில் வாழ்ந்த 10 குடும்பங்கள் பாதுகாப்பான இடங்களுக்கு புதன்கிழமை (24) மீண்டும்   இடம்பெயர்ந்ததாக எல்ல பிரதேச செயலாளர்  இந்திக்க கயான் பத்திரன தெரிவித்துள்ளார்.
+
+இந்த இடத்தில் முன்பு பெரிய அளவில் கச்சா நீர் ஓடிக் கொண்டிருந்ததாகவும், அந்த இடத்தில் நிலமும் விரிசல் ஏற்பட்டு வெடித்துச் சிதறியதாகவும் அவர் கூறினார்.
+
+இந்நாட்களில் மழை பெய்யாவிட்டாலும், வறண்ட காலநிலை நிலவி வருவதால், மண்சரிவு அபாயம் ஏற்பட்டுள்ளது. அசுத்தமான நீர், ஓடையாக அந்த இடத்தில் ஓடுகிறது என்றார்.
+
+அக்குடும்பங்கள் தற்போது உறவினர் வீடுகளில் தங்கியுள்ளதாகவும் அவர்களுக்கு தேவையான வசதிகளை செய்து கொடுக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக எல்ல பிரதேச செயலாளர்  இந்திக்க கயான் பத்திரன மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/7ffef5d6.json)
+
+---
+
+### Damitha Abeyratne and husband granted bail
+
+*2024-04-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98812/damitha-abeyratne-and-husband-granted-bail) · `en`
+
+Actress Damitha Abeyratne and her husband granted bail on surety bonds of Rs. 05 million each by the Fort Magistrate Court today.
+
+◼️
+
+[Data](articles/9c8eb788.json)
+
+---
+
+### Sri Lankan and Iranian presidents inaugurate Uma Oya project
+
+*2024-04-24 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98811/sri-lankan-and-iranian-presidents-inaugurate-uma-oya-project-) · `en`
+
+President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr. Ebrahim Raisi inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
+
+◼️
+
+[Data](articles/8b4b225d.json)
+
+---
+
+### தமிதா மற்றும் கணவருக்கு பிணை
+
+*2024-04-24 12:22:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிதா-மற்றும்-கணவருக்கு-பிணை/175-336271) · `ta`
+
+பண மோசடி வழக்கு தொடர்பில் கைது செய்யப்பட்ட நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+இவர்களை, தலா 50 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவித்து கொழும்பு கோட்டை நீதவான் நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/124f0c9f.json)
+
+---
+
+### அமைச்சர் விஜயதாசவுக்கு எதிராக ஒழுக்காற்று விசாரணை?
+
+*2024-04-24 12:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-விஜயதாசவுக்கு-எதிராக-ஒழுக்காற்று-விசாரணை/175-336270) · `ta`
+
+அமைச்சர் விஜயதாச ராஜபக்ஷ  பொதுஜன பெரமுனவின் அங்கத்தவராக இருக்கும் நிலையில், ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அங்கத்துவம் பெறுவது தொடர்பில் பொதுஜன பெரமுனவின் ஒழுக்காற்று சபை விசாரணை நடத்தும் என கட்சியின் செயலாளர் சாகர காரியவசம் நேற்று (23) தெரிவித்துள்ளார்.
+
+கட்சியின் யாப்பின் பிரகாரம் பொதுஜன பெரமுனவில் அங்கம் வகிக்கும் போது வேறு கட்சியில் அங்கத்துவம் பெற முடியாது எனவும், அமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் அங்கம் வகித்தால் பொதுஜன பெரமுனவில் உறுப்பினராக இனியும் இருக்க முடியாது என காரியவசம் கூறியுள்ளார்.
+
+இந்த நிலையில், விஜயதாச ராஜபக்ச பொதுஜன பெரமுனவின் உறுப்புரிமையை இழந்தால், அது அவரது பாராளுமன்ற உறுப்பினர் பதவிக்கும் சவாலாக இருக்கலாம் என அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/254e1fb0.json)
+
+---
+
+### උමා ඔය ව්‍යාපෘතිය විවෘත කෙරේ
+
+*2024-04-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195924) · `si`
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය මීට සුළු වේලාවකට පෙර ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතාගේ සහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනතා අයිතියට පත් කෙරුණි.
+
+අද (24) උදෑසන ඉරාන ජනාධිපතිවරයා මත්තල ගුවන් තොටුපොළින් දිවයිනට පැමිණි අතර, එහිදී අග්‍රාමාත්‍යවරයා විසින් ඔහුව පිළිගනු ලැබීය.
+
+ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණි.
+
+ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකෙරෙන එම බහුකාර්ය ව්‍යාපෘතිය කිලෝමීටර් 24ක දිගින් යුක්තය.
+
+පුහුල්පොල ජලාශයේ සිට භූගත නල මාර්ග ඔස්සේ කිලෝමීටර් 4ක දුරක් ඩයරබා ජලාශය වෙත ජලය රැගෙන යන අතර පසුව ඩයරබා ජලාශයේ සිට එම ජලය කිලෝමීටර් 15.5ක දිගකින් යුත් භූගත මාර්ගයක් හරහා පවර්හවුස් බලාගාරය වෙත රැගෙනු ලබයි.
+
+මෙරට ජාතික විදුලි පද්ධතියට එමගින් එක් කිරීමට නියමිත විදුලි ධාරිතාව මෙගාවොට් 120කි.
+
+එමෙන්ම එම ව්‍යාපෘතිය හරහා බණ්ඩාරවෙල, බදුල්ල සහ මොනරාගල යන ප්‍රදේශවලට අවශ්‍ය පානීය ජලය සහ බදුල්ල සහ මොණරාගල ප්‍රදේශවල කෘෂිකාර්මික අවශ්‍යතා සඳහා ජලය සැපයීම ද සිදුකෙරේ.
+
+...
+
+[Data](articles/819d582b.json)
+
+---
+
+### நீக்குவதை தடுக்கும் தடை நீட்டிப்பு
+
+*2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீக்குவதை-தடுக்கும்-தடை-நீட்டிப்பு/175-336268) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து மூவரை நீக்குவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடை உத்தரவு நீட்டிக்கப்பட்டுள்ளது.
+
+அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதற்கு தடை விதிக்கப்பட்டது.
+
+குறித்த தடை உத்தரவை எதிர்வரும் மே மாதம் 8ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக குறித்த மூவரால் தாக்கல் செய்த மனு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6790b951.json)
+
+---
 
 ### Extension of a ban on removal from positions
 
@@ -2047,207 +2191,5 @@ The proposed membership card can also be used as the members Privilege card whic
 [Data](articles/2e72f58c.json)
 
 [Extended Data](ext_articles/2e72f58c.ext.json)
-
----
-
-### Loosening fiscal squeeze could derail IMF programme commitments: Economist
-
-*2024-04-24 02:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Loosening-fiscal-squeeze-could-derail-IMF-programme-commitments-Economist/108-281243) · `en`
-
-Says there’s only room for tweaks at the margin on expenditure and revenue fronts
-
-Points out vote-winning quick fixes have turned out to be very costly in the past and the stakes are even higher this time around
-
-Stresses priority over the next few months is to build on existing progress and finalise an external debt restructuring deal before the elections
-
-A top economist yesterday raised concerns over the “loosening of fiscal squeeze” by authorities to stimulate economic growth. Since doing so could lead to potential risks of jeopardising Sri Lanka’s agreements with the International Monetary Fund (IMF).
-
-Institute of Policy Studies (IPS) Executive Director Dr. Dushni Weerakoon asserted that there is only room for tweaks at the margin on both the expenditure and revenue fronts.
-
-“Vote-winning quick fixes have turned out to be very costly in the past and the stakes are even higher this time around.
-
-...
-
-[Data](articles/21fbfbc2.json)
-
-[Extended Data](ext_articles/21fbfbc2.ext.json)
-
----
-
-### Exploring FDI and export potential of Sri Lanka under the new normal
-
-*2024-04-24 02:04:22* · [`dailyftlk`](https://www.ft.lk/columns/Exploring-FDI-and-export-potential-of-Sri-Lanka-under-the-new-normal/4-760961) · `en`
-
-This article captures the core insights from the recent webinar hosted by the Daily FT, Board of Investment, SLID, CIMA, ACCCA and the International Chamber of Commerce. The event fostered dialogue with the diplomatic community from crucial markets about the critical role of Free Trade Agreements (FTAs) in Sri Lanka’s growth trajectory.
-
-As Sri Lanka works to recover from its recent economic crisis through robust macroeconomic and fiscal policies, its future growth prospects remain constrained. The country faces challenges such as underperforming exports, which are projected to increase by only 5.27% annually from 2024 to 2028, and structural economic weaknesses, including persistently low labour productivity that has grown at a mere 1.4% over the past decade. To foster sustainable economic growth, Sri Lanka must enter new markets through efficiency-enhancing free trade agreements (FTAs), simultaneously addressing domestic constraints to unlock its FDI and export potential.
-
-...
-
-[Data](articles/781979bc.json)
-
-[Extended Data](ext_articles/781979bc.ext.json)
-
----
-
-### Rising from the Rubble: Sri Lanka’s economy roars back to life – fact or fiction?
-
-*2024-04-24 02:00:03* · [`dailyftlk`](https://www.ft.lk/columns/Rising-from-the-Rubble-Sri-Lanka-s-economy-roars-back-to-life-fact-or-fiction/4-760960) · `en`
-
-The World Bank recently held a press briefing to discuss the future of Sri Lanka's economy. World Bank Country Director for Maldives, Nepal, and Sri Lanka Faris Hadad-Zervos stated: "Sri Lanka's economy is on the road to recovery, but sustained efforts to mitigate the impact of the economic crisis on the poor and vulnerable are critical, alongside a continuation of the path of robust and credible structural reforms."
-
-Currently, Sri Lanka's overall recovery path is becoming clearer, especially through policy-level measures and structural reforms, particularly concerning state-owned enterprises (SOEs) that have been incurring losses. The maintenance of loss-making SOEs poses a significant burden on the Government's Balance Sheet. In 2023, the cumulative net losses of SOEs amounted to 1,323 billion rupees, with some showing marginal profits. However, overall, these entities face challenges in overcoming historical cumulative losses.
-
-...
-
-[Data](articles/3ad0f337.json)
-
-[Extended Data](ext_articles/3ad0f337.ext.json)
-
----
-
-### Inheritance shot to the carcars despite his command?
-
-*2024-04-24 01:58:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5n2zd2ej2o) · `si`
-
-Controversial police shootings in Sri Lanka have sparked debate. A lorry driver in Narammala was shot by police, leading to a trial. The incident raised questions about the use of firearms by police, with no clear guidelines on when it's justified. Legal experts argue that police should only use firearms in self-defense or to prevent serious crimes. The Supreme Court has ruled that police can be held accountable for their actions, and the Human Rights Commission has been criticized for not addressing such incidents.
-
-🟩
-
-In recent years, several controversial shootings carried out by the police have been severely criticized.
-
-It is also a controversial event that was carried out by a lorry driver in the Narammala area in Kurunegala.
-
-The police officers have also taken a trial in the court and the two police officers who shot the lorry.
-
-Police have shot dead by the Milwawa, Morawa, Marawaka, Millawa, Millawa, Millawa, Millawa, and two travels in the three-wheeler were killed in the three-wheeler. The police allege that the two residents of Tanamalwila area were attempting to shoot at a firearm before the police order.
-
-Is it possible to shoot the cargoing of the car to die in a manner when it comes to moving a car?BBC was conducted by BBC Sinhala.
-
-According to the provisions of Section 55 of the Police Ordinance of the Police Ordinance, No.
-
-"The guns are to be used at specific times, and they need to use in times of charge or consequences."
-
-...
-
-[Data](articles/6a8a5a80.json)
-
-[Extended Data](ext_articles/6a8a5a80.ext.json)
-
----
-
-### Discussion on the day of compliance with both sides - United People's Power
-
-*2024-04-24 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181805) · `ta`
-
-Nalin Bandara of United People's Power emphasizes the need for negotiations before deciding on debate days between the two parties. He criticizes the National People's Power for not including economic groups in their debate schedule, questioning their responsibility for key sectors. Bandara aims for a resolution in Parliament by May, insisting on equal debate opportunities and rejecting predetermined dates that conflict with opposition plans.
-
-🟩
-
-United People's Power Member Nalin Bandara said that the two sides can decide only after negotiations on the day of the debate between the United People's Power and the National People's Power.
-
-He said this when he was asked to discuss the letter sent to the United People's Power General Secretary Ranjith Mathuma Bandara by the National People's Power.
-
-In a letter sent to the United People's Power General Secretary Ranjith Mathuma Bandara on May 7, 9, 13 or 14, in a letter to the United People's Power, referring to the days of debate between Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake.
-
-When asked about this, Nalin Bandara said the above. As he further notes,
-
-...
-
-[Data](articles/16241ea9.json)
-
-[Extended Data](ext_articles/16241ea9.ext.json)
-
----
-
-### Plantation workers' salary issue
-
-*2024-04-24 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/181804) · `ta`
-
-Plantation Workers' Salary Committee meets Wednesday to discuss salary issues. Trade Unions, Employers Federation, and State Division attend. Employers Federation postponed negotiations due to lack of social work, but is expected to participate today. The Salary Council was convened to decide on a 1700 rupee salary increase, with a referendum if not accepted. Negotiations postponed due to company representatives' absence. Workers expect a favorable solution with state support.
-
-🟩
-
-Plantation Workers' Salary Committee will meet on Wednesday (24) to hold talks on salary issues. Trade Unions, Employers Federation and State Division will attend the salary council headed by the Commissioner General of Labor HKKA Jayasudhantha.
-
-Although the Salary Council has convened to decide on the salary of plantation workers on the 10th, the Employers Federation has been postponed negotiations due to the lack of social work.. The Employers Federation did not participate in the negotiations, saying they had not been informed in a timely manner about the salary council.
-
-In this case, the Employers Federation will be formally announced 14 days ago and will be held again today. The Salary Council had been convened to decide on the 1700 rupee salary increase by the unions and it was decided to hold a referendum if these demands were not accepted.
-
-...
-
-[Data](articles/6d7903bb.json)
-
-[Extended Data](ext_articles/6d7903bb.ext.json)
-
----
-
-### Maithri who spoke 100 million bargains to a famous businessman;Minister Mahinda Amaraweera is a public charge
-
-*2024-04-24 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/181803) · `ta`
-
-Minister Mahinda Amaraweera accuses a presidential candidate of bribery. Minister Nimal Siripala de Silva's appointment is uncontested. The Executive Committee's formation is illegal, and former President Sirisena's involvement is deemed insulting. Sirisena's security officers are accused of political activities, and he allegedly asked a businessman for 100 million rupees, which was rejected.
-
-🟩
-
-Minister Mahinda Amaraweera has accused a famous businessman who has been announced as a presidential candidate.
-
-He further stated at a press conference held at the Ministry of Agriculture on Tuesday (23).
-
-Minister Nimal Siripala de Silvaway is the legal response of the Sri Lanka Freedom Party (SLFP). Two weeks have passed since his appointment. No objections have been issued against his appointment. No side went to court.
-
-Suddenly the Executive Committee convened last Sunday. We don't even have time to move when we call. In addition, an interim injunction has been issued to former President Maithripala Sirisena. The executive committee cannot be assembled as it has clearly declared that the Secretary is responsible for the ban.
-
-The Executive Committee is contrary to the law. Former President Maithripala Sirisena has no authority to participate in it. He has acted in a way that insults the court. In response, we will take legal action against the act of insulting the court.
-
-...
-
-[Data](articles/429d89c8.json)
-
-[Extended Data](ext_articles/429d89c8.ext.json)
-
----
-
-### Resurrection Bomb attack: Council adjournment debate begins today
-
-*2024-04-24 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181802) · `ta`
-
-Parliamentary session today, led by Speaker Mahinda Yapa Abeywardena. Key debates include the Criminal Act (Amendment) Bill, adjournment of Opposition on Sunday attack, and regulations under the Motor Vehicle Act. Further debates on the Church's postponement and House adjournment on Sunday attack continue on Friday.
-
-🟩
-
-The parliamentary session will be held today under the patronage of Speaker Mahinda Yapa Abeywardena.
-
-During the period from 9.30 am to 10.30 am today, the Criminal Act (Amendment) Bill (Amendment) Bill will be taken up for debate, the order of poison, opin and hazardous regulations will be taken up for debate.
-
-This is followed by a debate on the adjournment of the Opposition in connection with the Sunday attack from 10.30 am to 5.30 pm.
-
-The two regulations issued under the Motor Vehicle Act and the Gazette No. 22338 \ 39 and 2352 \ 29 Gazette under the Motor Vehicle Act tomorrow, from 9.30 am to 10.30 am.The published regulation will be discussed.
-
-This is followed by the second day of debate on the postponement of the Church on the Sunday attack till 5.30 pm.
-
-On Friday (26), the third day of the postponement of the House adjournment debate on the Sunday attack will take place from 9.30 am to 5.30 pm.
-
-◼️
-
-[Data](articles/99291ba1.json)
-
-[Extended Data](ext_articles/99291ba1.ext.json)
-
----
-
-### Iran's President arrives in Sri Lanka today to open the Uma Oya project
-
-*2024-04-24 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181801) · `ta`
-
-Iran's President Ibrahim Raisi visits Sri Lanka to inaugurate the $529M Uma Oya project, a collaboration between Iran and Sri Lanka. The project, launched in 2011, aims to generate electricity from water collected in the Buhlpola reservoir. Despite global politics and sanctions, the project is progressing, with electricity production set to be integrated into Sri Lanka's national grid.
-
-🟩
-
-...
-
-[Data](articles/10afd8f3.json)
-
-[Extended Data](ext_articles/10afd8f3.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 16:05:35**
+As of **2024-04-24 16:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,689** Articles*
+*Scraped **20,691** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 215
+bbccomsinhala | 216
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,117
@@ -17,7 +17,7 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,723
 tamilmirrorlk | 2,393
-adaderanalk | 2,466
+adaderanalk | 2,467
 virakesarilk | 3,109
 dailymirrorlk | 3,229
 adaderanasinhalalk | 3,347
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,688 (100.0%) of 20,689 articles have been extended.
+20,689 (100.0%) of 20,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Athens: Greece’s capital turns an orange hue with dust clouds from Sahara Desert
+
+*2024-04-24 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98819/athens-greeces-capital-turns-an-orange-hue-with-dust-clouds-from-sahara-desert) · `en`
+
+Skies over southern Greece turned an orange hue on Tuesday as dust clouds blown across the Mediterranean Sea from North Africa engulfed the Acropolis and other Athens landmarks.
+
+Strong southerly winds carried the dust from the Sahara Desert, giving the atmosphere of the Greek capital a Martian-like filter in the last hours of daylight.
+
+The skies are predicted to clear on Wednesday as winds shift and move the dust, with temperatures dipping. On Tuesday, the daily high in parts of the southern island of Crete topped 30 degrees Celsius (86 Fahrenheit), more than 20 degrees C higher than what was registered in much of northern Greece.
+
+The strong southerly winds over the past few days have also fanned unseasonal early wildfires in the country’s south.
+
+...
+
+[Data](articles/b76cf2cf.json)
+
+---
 
 ### Deadly ‘Fox Hill’ crash: Arrested race car drivers granted bail
 
@@ -54,29 +72,37 @@ Reportedly, the crash happened soon after another car had overturned on the trac
 
 ---
 
-### ඉරාන ජනපතිගෙන් සැර ප්‍රකාශයක්
+### Such statement from Iranian President
 
 *2024-04-24 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195931) · `si`
 
-ඊශ්‍රායලය විසින් ඉරාන භූමියට එල්ල කරන මහා පරිමාන ප්‍රහාරයකදී ආරක්ෂක භූමිකාව කැපී පෙනෙන ලෙස වෙනස් වනු ඇති බවත්, එහිදී ඊශ්‍රායලය මුළුමණින්ම විනාශ කර දමන බවත් ඉරාන ජනපති ඊබ්‍රාහීම් රයිසි ප්‍රකාශ කර තිබේ.
+Iran's President Irabraim Rishire criticized Israel's security role, visited Pakistan, pledged to boost trade to $10 billion, and witnessed the signing of eight MoUs. He arrived in Sri Lanka after completing the Pakistan tour, focusing on the Uma Oya Multipurpose Scheme. Iran's response to Israel's missile and drone attack on April 13 was not immediate, with support from Hezbollah, Yemen, and Hamas.
 
-එවැනි වාතාවරණයකදී ඊශ්‍රායලයේ සියොන්වාදී රෙජීමයේ කිසිවක් ඉතිරි නොවනු ඇති බව ඔහු සඳහන් කර ඇත.
+🟩
 
-ඉරාන නායකයා පාකිස්ථාන සංචාරයේ නිරතවන අතරතුර, ඔහු මෙම ප්‍රකාශය සිදුකළ බව වාර්තාකර ඇත්තේ ඉරානයේ IRAN (ඉර්නා) රාජ්‍ය ප්‍රවෘත්ති සේවය විසිනි.
+Iranian President Irabraim Rishire has stated that the role of the security role will be significantly due to Israel.
 
-පසුගිය සඳුදා සිට පාකිස්ථානයේ තුන්දින සංචාරයක නිරත වූ ඉරාන ජනාධිපතිවරයා දෙරට අතර වාර්ෂික ද්විපාර්ශ්වික වෙළෙඳාම ඩොලර් බිලියන 10 දක්වා ඉහළ නැංවීමට ද ප්‍රතිඥාවක් ලබාදී තිබේ.
+He has said that in such an environment, there will be none of the Zionist regime in Israel.
 
-කෙසේ නමුත් මෙම අවබෝධතා ගිවිසුම් මුල්කරගෙන පාකිස්ථානයට සම්බාධක පැනවිය හැකි බවට අමෙරිකා එක්සත් ජනපදය දැනටමත් අනතුරුඅඟවා තිබේ.
+While the Iranian leader continues to travel by Pakistan visits, the Iran (Iran) service was reported by Iran (Irna).
 
-ජනාධිපති රයිසිගේ පාකිස්ථාන සංචාරයේදී අවබෝධතා ගිවිසුම් 08කට ද අත්සන් තැබුණි.
+The President of Irana, a three-day visit to Pakistan, has also pledged to increase the annual bilateral trade between the two countries to $ 10 billion.
 
-ඒ ජනාධිපති රයිසි සහ පාකිස්ථාන අගමැති ෂෙබාස් ෂරීෆ් ඊට සාක්ෂි දරමිනි.
+However, the United States of America has already been wareed to impose sanctions on these MoUs.
 
-පාකිස්ථාන සංචාරය නිම කොට ඉරාන ජනාධිපතිවරයා අද ශ්‍රී ලංකාවට පැමිණියේය.
+Eight MoUs were also signed during the Pakistan Visit of President Reli.
+
+The Presidential Deputy Prime Minister Shebas Sharif witnessing to the Prime Minister Shebas Sharif
+
+The Iranian President arrived in Sri Lanka today after completing Pakistan tour.
+
+The main objective of the Iranian support was attended by the opening of the Uma Oya Multipurpose Scheme.
 
 ...
 
 [Data](articles/4b44d06e.json)
+
+[Extended Data](ext_articles/4b44d06e.ext.json)
 
 ---
 
@@ -2176,6 +2202,28 @@ The list of names of eligible candidates, letters calling for interviews, interv
 
 ---
 
+### උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය: ආණ්ඩුව සහ ජනතාව කියන්නේ කුමක්ද?
+
+*2024-04-24 09:17:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1dqlrmn8o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ළිං 8000ක් හිඳුනා. ගෙවල් 8000කට වැඩිය පුපුරලා. ගොවියෝ 4500කට වතුර නැති වුණා.''
+
+උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය: ආණ්ඩුව සහ ජනතාව කියන්නේ කුමක්ද?
+
+ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉරාන ඉස්ලාමීය ජනරජයේ ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසිගේ සහභාගිත්වයෙන් උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය අද (අප්‍රේල් 24) විවෘත කෙරිණි.
+
+එමගින් මෙගාවොට් 120 ක ජල විදුලි බලයක් නිෂ්පාදනය කෙරෙන අතර බදුල්ල සහ මොණරාගල දිස්ත්‍රික්කවල කුඹුරු අක්කර 15000කට යල මහ දෙකන්නයේම වගාවන් සඳහා ජලය සපයනු ලැබේ.
+
+එමෙන්ම බදුල්ල, මොණරාගල සහ බණ්ඩාරවෙල ප්‍රදේශවලට පානීය ජලය ලබා දීම ද සිදු වේ.මේ ව්‍යාපෘතිය නිසා පිරිසකට ප්‍රතිලාභ ලැබෙන අතරේ ඉඩම් සහ දේපළ අහිමි වූ එතැම්හු අදටත් පීඩා විදිති.
+
+මෙම ව්‍යාපෘතිය නිසා ඉඩම් හා දේපල අහිමිවූවන්ට වන්දි සහ විකල්ප ඉඩම් ලබා දීමට රජය පියවර ගෙන තිබුණ ද අදටත් නොවිසඳුණු ගැටලු රැසක් තිබේ.
+
+◼️
+
+[Data](articles/be400693.json)
+
+---
+
 ### Massive change in Colombo today
 
 *2024-04-24 09:03:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கொழும்பில்-பாரிய-மாற்றம்/175-336256) · `ta`
@@ -2245,49 +2293,5 @@ During his brief visit to the island nation, Dr. Raisi, together with President 
 [Data](articles/1491b177.json)
 
 [Extended Data](ext_articles/1491b177.ext.json)
-
----
-
-### Iranian President to arrive in Sri Lanka today; special traffic plans implemented
-
-*2024-04-24 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98804/iranian-president-to-arrive-in-sri-lanka-today-special-traffic-plans-implemented) · `en`
-
-Sri Lanka and Iran will sign five Memorandums of Understanding (MoUs) today, in a bid to bolster the bilateral relations between the two nations.
-
-The signing of the agreements will coincide with the one-day visit of Iranian President Dr. Ebrahim Raisi, the President’s Media Division (PMD) said.
-
-At the invitation of President Ranil Wickremesinghe, the Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-During his brief visit to the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
-
-...
-
-[Data](articles/67214e2a.json)
-
-[Extended Data](ext_articles/67214e2a.ext.json)
-
----
-
-### Sri Lanka’s SJB wants mutually agreeable dates for debate with NPP
-
-*2024-04-24 08:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-wants-mutually-agreeable-dates-for-debate-with-npp-159824/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya will formally write to rival National People’s Power (NPP) this week inviting a representative for a discussion on a mutually agreeable date for an election debate.
-
-SJB legislator Nalin Bandara said the party will write to NPP’s Nalinda Jayatissa for a discussion on either Thursday April or Friday 26 on a time, date and venue for the proposed debate.
-
-This is despite the NPP having already written to the SJB inviting the latter’s leader Sajith Premadasa for a debate with NPP leader Anura Kumara Dissanayake on May 7, 9, 13 or 14.
-
-“They have unilaterally declared a few dates in May for the two leaders. But there is no mention of the debate between the two economic councils. But no problem,” said Bandara.
-
-Bandara said the discussion being sought with Jayatissa will be held at the parliament complex.
-
-However, Premadasa has other commitments on the dates proposed by the NPP, he said.
-
-...
-
-[Data](articles/6096031f.json)
-
-[Extended Data](ext_articles/6096031f.ext.json)
 
 ---

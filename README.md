@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 01:34:11**
+As of **2024-04-25 01:52:10**
 
 ## Newspaper Stats
 
-*Scraped **20,764** Articles*
+*Scraped **20,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,731
 tamilmirrorlk | 2,401
 adaderanalk | 2,474
 virakesarilk | 3,129
-dailymirrorlk | 3,241
+dailymirrorlk | 3,242
 adaderanasinhalalk | 3,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,764 (100.0%) of 20,764 articles have been extended.
+20,764 (100.0%) of 20,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### No footboard riding allowed, no liability for accidents: Railways Department
+
+*2024-04-25 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-footboard-riding-allowed-no-liability-for-accidents-Railways-Department/108-281301) · `en`
+
+Colombo, April 25 (Daily Mirror) - In light of the numerous complaints received, the Railways department has stated that riding on the footboards of express trains is strictly prohibited. They have made it clear that they will not assume responsibility for any accidents involving both locals and foreign tourists.
+
+A senior official from the department noted that several incidents have been reported where both locals and foreign tourists were observed riding on footboards, particularly on upcountry trains.
+
+To address this issue, railway guards and other officials onboard trains have been instructed to take measures to prevent individuals from riding on footboards.
+
+Despite these efforts, commuters traveling on the upcountry mainline have voiced their concerns regarding accidents involving foreign tourists riding on footboards of express trains.
+
+...
+
+[Data](articles/133f4e0f.json)
+
+---
 
 ### Politicking on the Easter Sunday massacre at its 5th anniversary
 
@@ -2261,31 +2279,5 @@ The revised law extends the deadline to the byte dance to sell the dictok, and t
 [Data](articles/4959047a.json)
 
 [Extended Data](ext_articles/4959047a.ext.json)
-
----
-
-### Tiktok ban?
-
-*2024-04-24 12:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TikTok-தடை/50-336275) · `ta`
-
-The US has enacted a law to ban China's BYTEDANCE, the parent company of Dictac, within 9 months if US shares aren't sold. This law is due to concerns that Dictac, used by TikTok, gives China access to user data without consent.
-
-🟩
-
-The US has passed the law of banning the Dictac processor. The law provides to ban China's BYTEDANCE as the mother company of the Dictac processor within 9 months, if the US shares are not sold.
-
-The US has filed a case in the United States that the Dick Doc processor gives China most of its users.
-
-The company has been accused of taking information in secret without the permission of the beneficiaries. Dictack, a mother -in -law, is a Chinese company, Pitans, has a lot of users in the United States.
-
-In the case of registered in California, the Dictac processor secretly sends information to China to identify most of the beneficiaries.
-
-The revised law extends the deadline to the byte dance to sell the dictok, and the sale can be extended for three months. The bill will prevent the control of Tiktok's secret sauce.
-
-◼️
-
-[Data](articles/741ea937.json)
-
-[Extended Data](ext_articles/741ea937.ext.json)
 
 ---

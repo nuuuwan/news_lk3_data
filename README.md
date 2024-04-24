@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 07:54:20**
+As of **2024-04-24 08:06:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,564 (100.0%) of 20,569 articles have been extended.
+20,569 (100.0%) of 20,569 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ He has been remanded until 06 May after being produced before the Puttalam Magis
 ◼️
 
 [Data](articles/309136b5.json)
+
+[Extended Data](ext_articles/309136b5.ext.json)
 
 ---
 
@@ -66,23 +68,31 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/ad4973c8.json)
 
+[Extended Data](ext_articles/ad4973c8.ext.json)
+
 ---
 
-### බස්නාහිර ත්‍රීරෝද රථ නියාමනයට ජූනි 30 දක්වා කල්දෙයි
+### Western three-wheelers postponed until June 30
 
 *2024-04-24 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195912) · `si`
 
-බස්නාහිර පළාතේ ත්‍රීරෝද රථ නියාමනය සඳහා ජූනි මස 30 වනදා දක්වා කාලය ලබා දී ඇති බව එක්සත් මගී ප්‍රවාහන ත්‍රීරෝද රථ රියදුරන්ගේ සංගමය පවසයි.
+The United Passenger Three Wheeler Drivers Association (EPFA) has postponed the implementation of three-wheeler regulations in the Western Province until June 30. The association requests that drivers register before this date to avoid legal action.
 
-එහි සභාපති රහුමාන් පල්ලි මහතා සඳහන් කළේ, ත්‍රීරෝද රථ රියදුරන් සඳහා සහන මිලට ගාස්තු මීටර ලබා දීමට රජය වැඩපිළිවලක් සකස් කළ යුතු බවය.
+🟩
 
-"මගී ප්‍රවාහනයේ යෙදෙන සියලුම ත්‍රීරෝද රථ සඳහා ගාස්තු මීටරයක් අනිවාර්යයෙන් තිබිය යුතුයි කියන මතයේ තමා අපි ඉන්නේ. ගාස්තු මීටරය කියන එක මගී ප්‍රවාහන සේවයේ යෙදෙන ත්‍රීරෝද සඳහා අත්‍යාවශ්‍ය වූ අංගයක්. ෆෝන් මීටරේ නෙමෙයි මේ කියන්නේ. අපි රජයෙන් ඉල්ලීමක් කරනවා රියදුරන්ට දරාගත හැකි මිලකට ලබාදීම සඳහා ගාස්තු මීටර් ආනයනය කොට හෝ ලබාදීමට කටයුතු කරන්න කියලා.
+The United Passenger Three Wheeler Drivers Association (EPFA) stated that the year has been granted to the three-wheeler regulation of the three-wheeler regulation.
 
-බස්නාහිර පළාතේ ත්‍රීරෝද රථ නියාමනය සඳහා ලියාපදිංචි වීමට ජූනි මස 30 වනදා දක්වා කල් ලබාදීමක් සිදුකර තිබෙනවා. අපි ඉල්ලීමක් කරනවා ජූනි 30ට පෙර ඒ ලියාපදිංචිය සිදුකර ගන්න. ඊට පස්සේ මගී ප්‍රවාහන අධිකාරිය පොලීසිය සමග එකතු වී ලියාපදිංචි නොවූ ත්‍රීරෝද රථ සඳහා නීතිමය පියවර ගන්නවා. ඒ සඳහා ප්‍රඥප්තිය තුළින් බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියට නීතිමය බලතල ලැබිලා තියෙනවා."
+Chairman of the company Rahman Palli said that the government should be prepared to provide relief purchases for three-wheeler drivers.
+
+"We have the opinion that it is inevitable for all three-wheelers on passenger transportation. The means that the fee meter is an essential part of passenger transportation. This is not the cell phone meter. We ask the government to import or provide the tariffs to provide the drivers to a cost of affordability.
+
+Three-wheeler regulations of the Western Province have been made up to June 30s until June 30. We request that registration before June 30. Later, the passenger Transport Authority joins the police and legal action against three-wheelers. Western Province Road Passenger Transport Authority has been legal authority in the Charter.
 
 ◼️
 
 [Data](articles/c8e1369f.json)
+
+[Extended Data](ext_articles/c8e1369f.ext.json)
 
 ---
 
@@ -101,6 +111,8 @@ The airport is currently used for handling chartered tourist flights from Russia
 ◼️
 
 [Data](articles/9ed06737.json)
+
+[Extended Data](ext_articles/9ed06737.ext.json)
 
 ---
 
@@ -277,6 +289,8 @@ In 2020, six people from Rameswaram, Tamil Nadu, India were arrested by the Rama
 ...
 
 [Data](articles/143169e6.json)
+
+[Extended Data](ext_articles/143169e6.ext.json)
 
 ---
 

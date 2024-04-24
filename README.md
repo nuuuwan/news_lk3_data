@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 17:35:14**
+As of **2024-04-24 17:54:51**
 
 ## Newspaper Stats
 
-*Scraped **20,695** Articles*
+*Scraped **20,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,724
+adalk | 1,726
 tamilmirrorlk | 2,394
 adaderanalk | 2,467
 virakesarilk | 3,109
 dailymirrorlk | 3,229
-adaderanasinhalalk | 3,349
+adaderanasinhalalk | 3,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,695 (100.0%) of 20,695 articles have been extended.
+20,695 (100.0%) of 20,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### ඉරාන ජනාධිපතිවරයා පිළිගැනීමේ නිල උත්සවය - සජීවී විකාශය
+
+*2024-04-24 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195935) · `si`
+
+ඉරාන ජනාධිපතිවරයා පිළිගැනීමේ නිල උත්සවය මේ වනවිට කොළඹදී ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/5a1220b6.json)
+
+---
+
+### අල්ලස් ගත් රුසියානු නියෝජ්‍ය ඇමති අත්අඩංගුවට
+
+*2024-04-24 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195934) · `si`
+
+රුසියාවේ නියෝජ්‍ය ආරක්ෂක අමාත්‍යවරයාව අත්අඩංගුවට ගෙන රඳවා තබාගැනීමට එරට අධිකරණයක් අද (24) නියෝග කළේය.
+
+නියෝජ්‍ය අමාත්‍යවරයාට අල්ලස් ගත් බවට චෝදනා එල්ල වී ඇති අතර ඔහු ආරක්ෂක අමාත්‍ය සර්ජි ශෝයිගු ගේ සමීපතමයෙකු ලෙස සැලකෙයි.
+
+තිමූර් ඉවනොෆ් ට එල්ල වී ඇති චෝදනා සම්බන්ධයෙන් විචාරකයින් පවසන්නේ රුසියානු හමුදා 2022 වසරේ පෙබරවාරි මාසයේදී යුක්‍රේනය ආක්‍රමණය කිරීමෙන් අනතුරුව එරටින් වාර්තා වූ ප්‍රධානතම දුෂණ සිද්ධිය බවයි.
+
+නියෝජ්‍ය අමාත්‍යවරයා ඊයේ සිය කාර්යාලයේ රාජකාරි කටයුතු වල නිරතව සිටියදී රුසියානු මධ්‍යම ආරක්ෂක සේවය විසින් අත්අඩංගුවට ගෙන තිබුණි. විශාල වශයෙන් අල්ලස් ලබාගත් බවට ඔහුට චෝදනා එල්ලවී තිබේ.
+
+ආරක්ෂක අමාත්‍යංශය මගින් සිදුකළ ව්‍යාපෘති වලින් අල්ලස් ලබාගත් බවට ඔහුට එරෙහිව චෝදනා එල්ලවී ඇති අතර එම චෝදනා සඳහා වැරදිකරු වුවහොත් වසර 15ක සිරදඬුවම් ලැබිය හැකි බව සඳහන් ය.
+
+◼️
+
+[Data](articles/79fdc16b.json)
+
+---
+
+### “උමා දිය ජනනි” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට
+
+*2024-04-24 17:18:09* · [`adalk`](https://www.ada.lk/breaking_news/“උමා-දිය-ජනනි”-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ජනතා-අයිතියට/11-409241) · `si`
+
+ඉරානය සමඟ වඩා සමීප සබඳතා ඇති කර ගනිමින් ඉදිරියට යාම අරමුණයි- ශ්‍රී ලංකා ජනපති.
+
+ශ්‍රී ලංකාව සමඟ මනා හවුල්කාරිත්වයකින් යුතුව ඉදිරියටක් කටයුතු කිරීමට සූදානම්- ඉරාන ජනපති.
+
+මහවැලි ව්‍යාපාරයෙන් පසුව මෙරට ක්‍රියාත්මක දැවැන්ත වාරි ව්‍යාපෘතියක් ලෙස ලක් ඉතිහාසයට එක් වන “උමා දිය ජනනි” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ඉරාන – ශ්‍රී ලංකා ජනාධිපතිවරුන්ගේ සුරතින් අද (24) පෙරවරුවේ ජනතා අයිතියට පත් කෙරිණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරාධනයෙන් මෙම අවස්ථාවට එක් වූ ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉතා උණුසුම් ලෙස පිළිගනු ලැබීය.
+
+දෙරටේ නායකයන් එක්ව සමරු ඵලකය නිරාවරණය කර “උමා දිය ජනනී” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පවරා දුන් අතර ඩිජිටල් තාක්ෂණය ඔස්සේ විදුලි ජනන යන්ත්‍ර පණ ගන්වා මෙහෙයුම් කටයතු ආරම්භ කිරීම ද ජනාධිපතිවරු දෙදෙනා අතින් සිදු කෙරිණි.
+
+...
+
+[Data](articles/9665f9dd.json)
+
+---
 
 ### Foxhill Disaster: Bail for 2 drivers
 
@@ -1170,6 +1222,22 @@ The total cost of the project is US $ 514 million and $ 450 million has been agr
 
 ---
 
+### යාපනයේ කෝවිලක සාරියක් රුපියල් ලක්ෂ 16 කට වෙන්දේසි වෙයි
+
+*2024-04-24 12:08:05* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-කෝවිලක-සාරියක්-රුපියල්-ලක්ෂ-16-කට-වෙන්දේසි-වෙයි/11-409237) · `si`
+
+යාපනය පුන්කුඩතිව් කන්නකිඅම්මන් හින්දු කෝවිලේ ඊයේ (23) දින පැවති වාර්ෂික තීර්ත දේව මංගල්ලයේදී පැවති වෙන්දේසියක් අතරතුරදී සාරියක් රුපියල් ලක්ෂ 16 ක මුදලකට වෙන්දේසි වූ බව එම කෝවිල් පාලක මණ්ඩලය පැවසීය.
+
+කෝවිලේ පැවති වර්ෂික දේව මෙහෙය වෙනුවෙන් කන්නකිඅම්මාන් , විනයගර් , මුරුගන්, වල්ලි ආදි දෙවිවරුන් වෙනුවෙන් විශේෂ දේව මෙහෙයන් පැවත්වීමෙන් අනතුරුව දේව මාතාවන් වෙනුවෙන්ද දේව මෙහෙයන් පැවත්වීම වර්ෂිකව සිදුකරනු ලබයි.
+
+මෙහිදී දේව මෙහෙයන් වලින් අනතුරුව දේව මාතවන්ට නිර්මාණය කරන ලද විශේෂ සාරියක් වෙන්දේසි කිරීමට කෝවිල පූජක මණ්ඩලය විසින් පියවර ගෙන තිබූ අතර ඒහිදී අදාල සාරිය වෙන්දේසි මුදල අරම්භ වී ඇත්තේද රුපියල් ලක්ෂයකට අධික මුදලකින් වූ අතරම අවසානයේ යාපනයේ පදිංචි කන්තාවක් විසින් අදල සරිය රුපියල් ලක්ෂ 16 ක මුද්ලකට මිලදී ගන්නා ලදි.
+
+...
+
+[Data](articles/4dc5d65f.json)
+
+---
+
 ### Extension of a barrier to preventing removal
 
 *2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீக்குவதை-தடுக்கும்-தடை-நீட்டிப்பு/175-336268) · `ta`
@@ -2209,101 +2277,5 @@ Following Nandasena’s demise, the Acting Secretary General of Parliament infor
 [Data](articles/a9be6d39.json)
 
 [Extended Data](ext_articles/a9be6d39.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 300.00/40 to US dollar
-
-*2024-04-24 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-00-40-to-us-dollar-159841/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 300.00/40 to the US dollar in the spot market on Wednesday, after closing at 300.50/301.00 on Monday, dealers said.
-
-The rupee closed at 302.00/50 to the US dollar on Friday amid moral suasion.
-
-On Monday a foreign bank sold dollars to the central bank around 302 levels, followed by more sales, dealers said after trading started without proper spot market quotes.
-
-On Friday a 302 level was indicated by some dollar sales, dealers said.
-
-Sri Lanka’s rupee came under pressure over the last week, despite broadly deflationary policy, after the central bank collected large volumes of dollars in March.
-
-Bond yields were flat as buyers awaited the next development in sovereign bond re-structuring, market participants said. There were both positive and negative sentiments among bond investors, dealers said.
-
-Meanwhile, a bond maturing on 15.12.2026 was quoted at 11.32/40 percent from 11.30/40 percent on Monday.
-
-...
-
-[Data](articles/7145dec7.json)
-
-[Extended Data](ext_articles/7145dec7.ext.json)
-
----
-
-### New MP sworn in
-
-*2024-04-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195916) · `si`
-
-Mr. Weerasena Gamage, Anuradhapura District MP, was sworn in as a replacement for Mr. Nandasena, filling a vacant seat. He was sworn in by the Speaker at the start of Parliament today.
-
-🟩
-
-N. G. Mr. Weerasena Gamage was sworn in as a month ago.
-
-That is Anuradhapura District MP. The death of Mr. Nandasena was the vacant seat.
-
-Mr. Weerasena was sworn in before the Speaker at the time of the commencement of Parliament today.
-
-◼️
-
-[Data](articles/ce972a10.json)
-
-[Extended Data](ext_articles/ce972a10.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-04-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195915) · `si`
-
-The Parliamentary Council began today, with debates on the Criminal Procedure Finance and other amendments. Sri Lanka Broadcasting Corporation and several institutions are summoned to the COPE Committee.
-
-🟩
-
-The Parliament was first met today (24) after the New Year.
-
-The post adjournment debate will be held today and tomorrow (25) and Friday, the Parliamentary Communication Department stated.
-
-In addition, the Criminal Procedure Finance The Criminal Procedure Activity is due to be debated under the second reading of the amendment and poison, opium and the Dangers Ordinance.
-
-Meanwhile, the Sri Lanka Broadcasting Corporation has been summoned to the Committee on Public Enterprises (COPE).
-
-The Communications Department of Parliament said that the University Grants Commission, National Institute of Business Management and the Mahapola Management Scardhi's Fund has been summoned before the COPE Committee.
-
-The heads of SriLankan Airlines have been summoned before the COPE Committee on Friday.
-
-◼️
-
-[Data](articles/22c62adf.json)
-
-[Extended Data](ext_articles/22c62adf.ext.json)
-
----
-
-### Teacher recruitment interviews from April 29–May 9 at Education Ministry
-
-*2024-04-24 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-recruitment-interviews-from-April-29May-9-at-Education-Ministry/108-281252) · `en`
-
-Colombo, April 24 (Daily Mirror) - Interviews for the recruitment of teachers will be conducted between April 29 and May 9 at the Education Ministry in accordance with the results of the competitive examination held on March 2.
-
-In a statement, the Minister said the teacher recruitment of graduates to Grade 3-I in national schools for 2023 (2024) is for the vacancies available in national schools.
-
-They said the competitive examination was held to recruit teachers’ services for Sinhala, Tamil and English medium vacancies.
-
-The list of names of eligible candidates, letters calling for interviews, interview dates, and times are available at the following links:
-
-...
-
-[Data](articles/5cdedebd.json)
-
-[Extended Data](ext_articles/5cdedebd.ext.json)
 
 ---

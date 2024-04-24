@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 22:34:08**
+As of **2024-04-24 22:51:59**
 
 ## Newspaper Stats
 
-*Scraped **20,746** Articles*
+*Scraped **20,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,731
 tamilmirrorlk | 2,400
 adaderanalk | 2,473
 virakesarilk | 3,125
-dailymirrorlk | 3,237
-adaderanasinhalalk | 3,356
+dailymirrorlk | 3,238
+adaderanasinhalalk | 3,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,745 (100.0%) of 20,746 articles have been extended.
+20,746 (100.0%) of 20,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Iran, Sri Lanka boost bilateral bonding in Uma Oya project unveiling
+
+*2024-04-24 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-Sri-Lanka-boost-bilateral-bonding-in-Uma-Oya-project-unveiling/108-281311) · `en`
+
+Colombo, April 24 (Daily Mirror) - Iranian President Ebrahim Raisi who was in Sri Lanka for a short visit to inaugurate the Uma Oya project said his country was ready for stronger ties with Sri Lanka as a sovereign, independent country.
+
+At the function to mark the event, he said his country stands fully ready to further expand bilateral relations with all Asian countries, neighbouring countries, and sovereign and independent states.
+
+The aircraft with the Iranian leader on board landed at the Mattala International Airport yesterday amidst tight security arrangements. He arrived from Pakistan where the two countries agreed to strengthen cooperation.
+
+The Western countries tried to convince all others that knowledge and technology is exclusive to those countries,” he said.
+
+He added that the “idea” was rooted in “colonialism and arrogance” and that Iran was now able to share its knowledge with others. According to him, Iran is currently having projects in 20 countries.
+
+...
+
+[Data](articles/5661f399.json)
+
+---
+
+### නෙත්මිකා ලක්මව රිදියෙන් සරසයි
+
+*2024-04-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195941) · `si`
+
+නෙත්මිකා මදුශානී හේරත් ආසියානු 20න් පහළ මලල ක්‍රීඩා ශූරතාවලියේදී කාන්තා තුන්පිම්ම ඉසව්ව නියෝජනය කරමින් එහි රිදී පදක්කම හිමිකරගෙන ඇත.
+
+එහිදී ඇය මීටර් 13.01ක දුරක් වාර්තා කරමින් මෙම ජයග්‍රහණය හිමිකර ගත්තාය.
+
+◼️
+
+[Data](articles/481af901.json)
+
+---
 
 ### Youth meets Sri Pada
 
@@ -104,11 +138,21 @@ The roads were closed to facilitate the movement of his convoy without any prior
 
 Iran and Sri Lanka on Wednesday (24) signed five Memorandums of Understanding (MoUs), aimed at bolstering bilateral relations between the two countries.
 
-The agreements will cover cooperation in film, media, tourism, cooperatives, libraries, and cultural, scientific, technical, and sports sectors between the two countries.
+Signed in the presence of President Ranil Wickremesinghe and President Dr. Ebrahim Raisi, the five agreements will cover cooperation between the two countries in the fields of film, media, tourism, cooperatives, libraries, and cultural, scientific, technical, and sports:
 
-◼️
+1. Memorandum of Understanding on cooperation between National Library of Sri Lanka and the National Library and Archives of Iran
+
+2. Memorandum of Understanding on cooperation in the film industry between the National Film Corporation of Sri Lanka and the Ministry of Cultural and Islamic Guidance of Iran
+
+3. Memorandum of Understanding on cooperation in the field of media and tourism between Sri Lanka and Iran
+
+4. Agreement on program of cultural, scientific and technical corporation, mass media, youth and sports between Sri Lanka and Iran
+
+...
 
 [Data](articles/2bd0ce96.json)
+
+[Extended Data](ext_articles/2bd0ce96.ext.json)
 
 ---
 
@@ -2201,61 +2245,5 @@ A police complaint had been lodged accusing Damitha and her husband of cheating 
 [Data](articles/621357a7.json)
 
 [Extended Data](ext_articles/621357a7.ext.json)
-
----
-
-### Uma Oya project opens
-
-*2024-04-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195924) · `si`
-
-The Uma Oya Multipurpose Development Project, funded by Iran, was officially opened by President Ranil Wickremesinghe and Minister Irabraim Rishobe. Despite an initial agreement with Iran, the project faced delays due to economic and social issues, leading to a shift in implementation to the Sri Lankan government.
-
-🟩
-
-The Uma Oya Multipurpose Development Project was declared open by President Ranil Wickremesinghe, Minister of Irabraim Rishobe.
-
-The Iran came to the island at the Mattala airport this morning (24), and he was welcomed by the Prime Minister.
-
-In 2011, the Uma Oya Multipurpose Development Project was launched in 2011 on the loan aid of Iranian Export Development Bank.
-
-The multi-high project that is centered in the Uva Province is 24 km long.
-
-The Draba road from the Pucelpola reservoir is taken to the Draba reservoir, which was then taken to the Purba power plant from a 15.5 km long road from the draba reservoir.
-
-The electrical capacity of 120 MW is 120 MW.
-
-It also provides drinking water to the Bandarawela, Badulla and Moneragala areas in Bandarawela, Badulla and Moneragala areas for agricultural needs areas.
-
-The total cost of the project is US $ 514 million and $ 450 million has been agreed to the Iranian government during the period.
-
-...
-
-[Data](articles/819d582b.json)
-
-[Extended Data](ext_articles/819d582b.ext.json)
-
----
-
-### Sara is auctioned for Rs 16 lakhs in Kovil in Jaffna
-
-*2024-04-24 12:08:05* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-කෝවිලක-සාරියක්-රුපියල්-ලක්ෂ-16-කට-වෙන්දේසි-වෙයි/11-409237) · `si`
-
-Sara auctioned for Rs 16 lakhs in Kovil, Jaffna. Kovil Board plans public services for monks, auctioning a special zar for godly services. Kovil Trust Board deploys funds from North to support temple development.
-
-🟩
-
-The Kovil Board of Directors said that a sum of Rs.
-
-The public services will be held for the monks for the monks for the Wornano, Vinakar, Murugan, Volisan, for the Wormenan Minister of the Kovan.
-
-The Kovil clergyhood had taken steps to auctioned a special zar in the event of the godly services.Was
-
-However, the Kovil Trust Board had taken steps to deploy the amount of the cormorandum of the corresponding from the North.It was said that it would help us to support the development of the temples and to contribute to the development of the temples in a separate sum.
-
-◼️
-
-[Data](articles/4dc5d65f.json)
-
-[Extended Data](ext_articles/4dc5d65f.ext.json)
 
 ---

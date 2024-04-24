@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 12:50:36**
+As of **2024-04-24 13:03:35**
 
 ## Newspaper Stats
 
-*Scraped **20,649** Articles*
+*Scraped **20,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,719
-tamilmirrorlk | 2,386
-adaderanalk | 2,460
+tamilmirrorlk | 2,388
+adaderanalk | 2,461
 virakesarilk | 3,101
 dailymirrorlk | 3,221
 adaderanasinhalalk | 3,340
@@ -26,57 +26,93 @@ adaderanasinhalalk | 3,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,640 (100.0%) of 20,649 articles have been extended.
+20,649 (100.0%) of 20,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### சம்பள பேச்சு நின்னு போச்சு
+### டிக்டாக் தடை?
+
+*2024-04-24 12:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிக்டாக்-தடை/50-336275) · `ta`
+
+டிக்டாக் செயலியை தடை செய்வதற்கான சட்டத்தை அமெரிக்காவின் பாராளுமன்ற மேலவை நிறைவேற்றியுள்ளது. டிக்டாக் செயலியின் தாய் நிறுவனமாக சீனாவின் ByteDance நிறுவனம் 9 மாதங்களுக்குள் டிக்டாக்கின் அமெரிக்க பங்குகளை விற்காவிட்டால், அதை தடை செய்ய இச்சட்டம் வழிவகை செய்கிறது.
+
+டிக் டாக் செயலி தன்னுடைய பயனாளர்களின் பெரும்பாலான தகவல்களைச் சீனாவிடம் கொடுக்கிறது என அமெரிக்காவில் வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+
+இந்த நிறுவனம் பயனாளர்களின் அனுமதியின்றி இரகசியமாகத் தகவல்களை எடுக்கிறது என வழக்கில் குற்றம் சுமத்தப்பட்டுள்ளது. பைட்டான்ஸ் என்ற சீன நிறுவனத்தைத் தாய் நிறுவனமாகக் கொண்ட டிக்டாக் அமெரிக்காவில் நிறையப் பயனாளர்களைக் கொண்டுள்ளது.
+
+கலிஃபோர்னியாவில் பதிவு செய்யப்பட்ட வழக்கில் டிக்டாக் செயலி இரகசியமாகப் பயனாளர்களின் பெரும்பாலான தனிப்பட்ட மற்றும் தனிநபரை அடையாளம் காணும் வகையான தகவல்களைச் சீனாவுக்கு அனுப்புகிறது எனக் கூறப்பட்டுள்ளது.
+
+...
+
+[Data](articles/4959047a.json)
+
+---
+
+### Salary talk
 
 *2024-04-24 12:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-பேச்சு-நின்னு-போச்சு/76-336274) · `ta`
 
-பெருந்தோட்டத் தொழிலாளர்களின் சம்பள விவகாரம் தொடர்பான பேச்சுவார்த்தையை முன்னெடுப்பதற்கான சம்பள நிர்ணய சபை புதன்கிழமை (24) மீண்டும் கூடியது. அந்த பேச்சுவார்த்தையில் முதலாளிமார் சம்மேளத்தை பிரதிநிதித்துவப்படுத்தி எவரும் பங்கேற்கவில்லை என அறியமுடிகின்றது.
+The Plantation Workers' Salary Council met on Wednesday, with no employers present. The council is awaiting a High Court ruling on a salary hike case.
 
-சம்பள உயர்வு விவகாரம் தொடர்பிலான வழக்கு, உயர்நீதிமன்றத்தில் நிலுவையில் உள்ளமையால், தங்களால் தலையிடமுடியாது என, சம்பள நிர்ணய சபை கையை விரித்துவிட்டதென தகவல்கள் தெரிவிக்கின்றன.
+🟩
+
+Plantation Workers' Salary Council repeatedly convened on Wednesday (24). It is revealed that no one participated in the negotiations representing the Employers Federation.
+
+According to sources, the salary council has expanded its hand that the case on the salary hike is pending in the High Court.
 
 ◼️
 
 [Data](articles/c977aa16.json)
 
+[Extended Data](ext_articles/c977aa16.ext.json)
+
 ---
 
-### உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம் திறந்து வைக்கப்பட்டது
+### Uma Oya Multipurpose Development Program has been opened
 
 *2024-04-24 12:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-பல்நோக்கு-அபிவிருத்தி-திட்டம்-திறந்து-வைக்கப்பட்டது/175-336273) · `ta`
 
-ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி (Dr. Ebrahim Raisi) மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க  ஆகியோரின் தலைமையில் உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம்  சற்று முன்னர் திறந்து வைக்கப்பட்டது.
+The Uma Oya Multipurpose Development Program, led by Ebrahim Raisi and President Ranil Wickremesinghe, is a significant irrigation project in Sri Lanka, following the Mahaweli Development Project. Iran's President opened it today, with special security and transportation arrangements.
 
-மகாவலி அபிவிருத்தித் திட்டத்திற்குப் பின்னர் இலங்கையில் நிர்மாணிக்கப்பட்ட பாரிய நீர்ப்பாசனத் திட்டங்களில் இத்திட்டம் ஒன்றாகும்.
+🟩
 
-உமா ஓயா திட்டத்தை திறந்து வைப்பதற்காக ஈரான் ஜனாதிபதி இன்று காலை மத்தள விமான நிலையத்தை வந்தடைந்தார். இவருடைய வருகையை முன்னிட்டு விசேட பாதுகாப்பு திட்டமும் போக்குவரத்து திட்டமும் அமுல்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Dr. Ibrahim Raisi (Dr.. The Uma Oya Multipurpose Development Program was under the leadership of Ebrahim Raisi and President Ranil Wickremesinghe.
+
+This is one of the massive irrigation projects built in Sri Lanka after the Mahaweli Development Project.
+
+Iran's President arrived at Mattala Airport this morning to open the Uma Oya project. It is noteworthy that the Special Security Scheme and the Transportation Scheme has been implemented on his arrival. Remble
 
 ◼️
 
 [Data](articles/f00fd357.json)
 
+[Extended Data](ext_articles/f00fd357.ext.json)
+
 ---
 
-### மண்சரிவு அபாயம்: 10 குடும்பங்கள் இடம்பெயர்வு
+### Risk of landslide: 10 families migration
 
 *2024-04-24 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்சரிவு-அபாயம்-10-குடும்பங்கள்-இடம்பெயர்வு/76-336272) · `ta`
 
-எல்ல கரடகொல்ல மலித்தகொல்ல பிரதேசத்தை அண்மித்த பகுதிகளில் வாழ்ந்த 10 குடும்பங்கள் பாதுகாப்பான இடங்களுக்கு புதன்கிழமை (24) மீண்டும்   இடம்பெயர்ந்ததாக எல்ல பிரதேச செயலாளர்  இந்திக்க கயான் பத்திரன தெரிவித்துள்ளார்.
+10 families in Ella Karadagolla Malitagolla area displaced due to landslides risk from dry weather and cracking land.
 
-இந்த இடத்தில் முன்பு பெரிய அளவில் கச்சா நீர் ஓடிக் கொண்டிருந்ததாகவும், அந்த இடத்தில் நிலமும் விரிசல் ஏற்பட்டு வெடித்துச் சிதறியதாகவும் அவர் கூறினார்.
+🟩
 
-இந்நாட்களில் மழை பெய்யாவிட்டாலும், வறண்ட காலநிலை நிலவி வருவதால், மண்சரிவு அபாயம் ஏற்பட்டுள்ளது. அசுத்தமான நீர், ஓடையாக அந்த இடத்தில் ஓடுகிறது என்றார்.
+Ella Divisional Secretary Indika Kayan Pathirana said that 10 families living in the Ella Karadagolla Malitagolla area have been displaced on Wednesday (24).
 
-அக்குடும்பங்கள் தற்போது உறவினர் வீடுகளில் தங்கியுள்ளதாகவும் அவர்களுக்கு தேவையான வசதிகளை செய்து கொடுக்க ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக எல்ல பிரதேச செயலாளர்  இந்திக்க கயான் பத்திரன மேலும் தெரிவித்தார்.
+He said that the area had previously been running a large crude water and the land was cracking and exploding.
+
+Despite the rainfall in these days, there is a risk of landslides due to dry weather conditions. He said the contaminated water flows into the stream.
+
+Ella Divisional Secretary Indika Kayan Pathirana added that the family is currently staying in relative homes and arrangements have been made to provide them with the necessary facilities.
 
 ◼️
 
 [Data](articles/7ffef5d6.json)
+
+[Extended Data](ext_articles/7ffef5d6.ext.json)
 
 ---
 
@@ -84,11 +120,35 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98812/damitha-abeyratne-and-husband-granted-bail) · `en`
 
-Actress Damitha Abeyratne and her husband granted bail on surety bonds of Rs. 05 million each by the Fort Magistrate Court today.
+Actress Damitha Abeyratne and her husband were granted bail on the orders of the Colombo Fort Magistrate’s Court on Wednesday (24).
+
+Accordingly, the couple was released on surety bonds of Rs. 5 million each.
+
+The actress and her spouse, who had been wanted by the CID, were arrested on 04 April after they appeared before the court.
+
+The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
+
+The Computer Crimes Division of the CID initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
+
+Fort Magistrate’s Court also rejected a writ petition looking to prevent their arrest.
 
 ◼️
 
 [Data](articles/9c8eb788.json)
+
+[Extended Data](ext_articles/9c8eb788.ext.json)
+
+---
+
+### Uma Oya Multipurpose Development Project inaugurated
+
+*2024-04-24 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98811/uma-oya-multipurpose-development-project-inaugurated) · `en`
+
+President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr. Ebrahim Raisi inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
+
+◼️
+
+[Data](articles/7e34497a.json)
 
 ---
 
@@ -102,77 +162,105 @@ President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr
 
 [Data](articles/8b4b225d.json)
 
+[Extended Data](ext_articles/8b4b225d.ext.json)
+
 ---
 
-### தமிதா மற்றும் கணவருக்கு பிணை
+### Bail for Tamitha and Husband
 
 *2024-04-24 12:22:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிதா-மற்றும்-கணவருக்கு-பிணை/175-336271) · `ta`
 
-பண மோசடி வழக்கு தொடர்பில் கைது செய்யப்பட்ட நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவர் ஆகியோர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Tamitha Abeyratne and her husband released on bail, ordered to pay Rs 50 lakh each.
 
-இவர்களை, தலா 50 இலட்சம் ரூபாய் பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவித்து கொழும்பு கோட்டை நீதவான் நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+🟩
+
+Actress Tamitha Abeyratne and her husband have been released on bail.
+
+The Colombo Fort Magistrate's Court today (24) ordered them to be released on two bodies worth Rs 50 lakh each.
 
 ◼️
 
 [Data](articles/124f0c9f.json)
 
+[Extended Data](ext_articles/124f0c9f.ext.json)
+
 ---
 
-### அமைச்சர் விஜயதாசவுக்கு எதிராக ஒழுக்காற்று விசாரணை?
+### Disciplinary inquiry against Minister Vijayadasa?
 
 *2024-04-24 12:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-விஜயதாசவுக்கு-எதிராக-ஒழுக்காற்று-விசாரணை/175-336270) · `ta`
 
-அமைச்சர் விஜயதாச ராஜபக்ஷ  பொதுஜன பெரமுனவின் அங்கத்தவராக இருக்கும் நிலையில், ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அங்கத்துவம் பெறுவது தொடர்பில் பொதுஜன பெரமுனவின் ஒழுக்காற்று சபை விசாரணை நடத்தும் என கட்சியின் செயலாளர் சாகர காரியவசம் நேற்று (23) தெரிவித்துள்ளார்.
+Sakara Kariyawasam claims Vijayadasa Rajapaksa cannot be a PA member if he's an SLFP member, posing a challenge to his parliamentary status.
 
-கட்சியின் யாப்பின் பிரகாரம் பொதுஜன பெரமுனவில் அங்கம் வகிக்கும் போது வேறு கட்சியில் அங்கத்துவம் பெற முடியாது எனவும், அமைச்சர் விஜயதாச ராஜபக்ஷ ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் அங்கம் வகித்தால் பொதுஜன பெரமுனவில் உறுப்பினராக இனியும் இருக்க முடியாது என காரியவசம் கூறியுள்ளார்.
+🟩
 
-இந்த நிலையில், விஜயதாச ராஜபக்ச பொதுஜன பெரமுனவின் உறுப்புரிமையை இழந்தால், அது அவரது பாராளுமன்ற உறுப்பினர் பதவிக்கும் சவாலாக இருக்கலாம் என அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+The party's secretary Sakara Kariyawasam said yesterday that the PA is a member of the PA, as a member of the PA is a member of the PA.
+
+According to the party, Kariyawasam has said that when a member of the party is a member of the PA, it is not possible to be a member of the PA if he is a member of the Sri Lanka Freedom Party (SLFP), Minister Vijayadasa Rajapaksa.
+
+In this case, political sources say that if Vijayadasa Rajapaksa loses the membership of the PA, it may be a challenge to his parliamentarian.
 
 ◼️
 
 [Data](articles/254e1fb0.json)
 
+[Extended Data](ext_articles/254e1fb0.ext.json)
+
 ---
 
-### උමා ඔය ව්‍යාපෘතිය විවෘත කෙරේ
+### Uma Oya project opens
 
 *2024-04-24 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195924) · `si`
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය මීට සුළු වේලාවකට පෙර ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි මහතාගේ සහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ජනතා අයිතියට පත් කෙරුණි.
+The Uma Oya Multipurpose Development Project, funded by Iran, was officially opened by President Ranil Wickremesinghe and Minister Irabraim Rishobe. Despite an initial agreement with Iran, the project faced delays due to economic and social issues, leading to a shift in implementation to the Sri Lankan government.
 
-අද (24) උදෑසන ඉරාන ජනාධිපතිවරයා මත්තල ගුවන් තොටුපොළින් දිවයිනට පැමිණි අතර, එහිදී අග්‍රාමාත්‍යවරයා විසින් ඔහුව පිළිගනු ලැබීය.
+🟩
 
-ඉරාන අපනයන සංවර්ධන බැංකුවේ ණය ආධාරයක් මත 2011 වසරේ දී උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආරම්භ කෙරුණි.
+The Uma Oya Multipurpose Development Project was declared open by President Ranil Wickremesinghe, Minister of Irabraim Rishobe.
 
-ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකෙරෙන එම බහුකාර්ය ව්‍යාපෘතිය කිලෝමීටර් 24ක දිගින් යුක්තය.
+The Iran came to the island at the Mattala airport this morning (24), and he was welcomed by the Prime Minister.
 
-පුහුල්පොල ජලාශයේ සිට භූගත නල මාර්ග ඔස්සේ කිලෝමීටර් 4ක දුරක් ඩයරබා ජලාශය වෙත ජලය රැගෙන යන අතර පසුව ඩයරබා ජලාශයේ සිට එම ජලය කිලෝමීටර් 15.5ක දිගකින් යුත් භූගත මාර්ගයක් හරහා පවර්හවුස් බලාගාරය වෙත රැගෙනු ලබයි.
+In 2011, the Uma Oya Multipurpose Development Project was launched in 2011 on the loan aid of Iranian Export Development Bank.
 
-මෙරට ජාතික විදුලි පද්ධතියට එමගින් එක් කිරීමට නියමිත විදුලි ධාරිතාව මෙගාවොට් 120කි.
+The multi-high project that is centered in the Uva Province is 24 km long.
 
-එමෙන්ම එම ව්‍යාපෘතිය හරහා බණ්ඩාරවෙල, බදුල්ල සහ මොනරාගල යන ප්‍රදේශවලට අවශ්‍ය පානීය ජලය සහ බදුල්ල සහ මොණරාගල ප්‍රදේශවල කෘෂිකාර්මික අවශ්‍යතා සඳහා ජලය සැපයීම ද සිදුකෙරේ.
+The Draba road from the Pucelpola reservoir is taken to the Draba reservoir, which was then taken to the Purba power plant from a 15.5 km long road from the draba reservoir.
+
+The electrical capacity of 120 MW is 120 MW.
+
+It also provides drinking water to the Bandarawela, Badulla and Moneragala areas in Bandarawela, Badulla and Moneragala areas for agricultural needs areas.
+
+The total cost of the project is US $ 514 million and $ 450 million has been agreed to the Iranian government during the period.
 
 ...
 
 [Data](articles/819d582b.json)
 
+[Extended Data](ext_articles/819d582b.ext.json)
+
 ---
 
-### நீக்குவதை தடுக்கும் தடை நீட்டிப்பு
+### Extension of a barrier to preventing removal
 
 *2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீக்குவதை-தடுக்கும்-தடை-நீட்டிப்பு/175-336268) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து மூவரை நீக்குவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடை உத்தரவு நீட்டிக்கப்பட்டுள்ளது.
+The Sri Lanka Freedom Party (SLFP) has extended the ban on Minister Mahinda Amaraweera, Lasantha Alagavanna, and MP Duminda Dissanayake from removing SLFP posts, until May 8, following a court order.
 
-அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதற்கு தடை விதிக்கப்பட்டது.
+🟩
 
-குறித்த தடை உத்தரவை எதிர்வரும் மே மாதம் 8ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+The ban on the removal of three from the Sri Lanka Freedom Party (SLFP) posts has been extended.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக குறித்த மூவரால் தாக்கல் செய்த மனு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Minister Mahinda Amaraweera, Lasantha Alagavanna and MP Duminda Dissanayake have been banned from implementing a resolution taken to remove the Sri Lanka Freedom Party (SLFP) posts.
+
+The Colombo District Court today (24) ordered the ban to be extended till May 8.
+
+The order was issued when a petition filed by the three against the Sri Lanka Freedom Party (SLFP) was taken up for hearing today.
 
 ◼️
 
 [Data](articles/6790b951.json)
+
+[Extended Data](ext_articles/6790b951.ext.json)
 
 ---
 
@@ -2153,43 +2241,5 @@ Palestinian authorities reported finding scores of bodies in mass graves at Nass
 [Data](articles/618464b5.json)
 
 [Extended Data](ext_articles/618464b5.ext.json)
-
----
-
-### Foreign Affairs relocates Consular Division to new premises at “Suhurupaya”, Battaramulla
-
-*2024-04-24 02:07:59* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-relocates-Consular-Division-to-new-premises-at-Suhurupaya-Battaramulla/56-760963) · `en`
-
-The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises at the 16th floor of “Suhurupaya”, Sri Subhuthipura Road, Battaramulla with effect from 2 May 2024.
-
-All consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday, 8:30 a.m. to 4:15 p.m.
-
-Document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
-
-...
-
-[Data](articles/044380d4.json)
-
-[Extended Data](ext_articles/044380d4.ext.json)
-
----
-
-### GMOA members to get dual interface membership cards
-
-*2024-04-24 02:07:41* · [`dailyftlk`](https://www.ft.lk/news/GMOA-members-to-get-dual-interface-membership-cards/56-760962) · `en`
-
-CH17 CEO Jumar Preena (left) exchanging MoU with GMOA Secretary Dr. Haritha Aluthga. GMOA Assistant Secretaries Dr. Prabath Sugathadasa and Dr. Chamil Wijesinghe, and CH17 Project Coordinator Tharaka Samarakoon are also present
-
-Government Medical Officers’ Association (GMOA) and Ch17 Loyalty have entered into an agreement for the implementation of a dual interface membership card which is the Association’s first in 98-year history.
-
-The proposed membership card can also be used as the members Privilege card which offers benefits from multiple merchants and vendors partnered with CH17 Loyalty. In addition, each cardholder will have access to a digital card and other features customised to the GMOA.
-
-“CH17’s multi-vendor platform is one of a kind in the corporate loyalty space developed by our in-house development team,” CH17 Loyalty CEO Jumar Preena said.
-
-...
-
-[Data](articles/2e72f58c.json)
-
-[Extended Data](ext_articles/2e72f58c.ext.json)
 
 ---

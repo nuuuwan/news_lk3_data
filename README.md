@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 06:57:47**
+As of **2024-04-24 07:18:25**
 
 ## Newspaper Stats
 
-*Scraped **20,555** Articles*
+*Scraped **20,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,106 @@ adalk | 1,712
 tamilmirrorlk | 2,367
 adaderanalk | 2,447
 virakesarilk | 3,088
-dailymirrorlk | 3,204
-adaderanasinhalalk | 3,325
+dailymirrorlk | 3,208
+adaderanasinhalalk | 3,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,550 (100.0%) of 20,555 articles have been extended.
+20,555 (100.0%) of 20,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### අදත් බස්නාහිර ඇතුළු ප්‍රදේශ කිහිපයකට හවසට තද වැසි
+### උපාධිධාරී ගුරුවරු බඳවා ගැනීම ගැන දැනුම්දීමක්
+
+*2024-04-24 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195911) · `si`
+
+දිවයිනේ ජාතික පාසල්වලට ගුරු සේවය සඳහා බැඳවා ගැනීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+ජාතික පාසල්වල පවතින සිංහල, දෙමළ හා ඉංග‍්‍රීසි මාධ්‍ය ගුරු පුරප්පාඩු සඳහා
+
+උපාධිධාරීන් ශ‍්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට බඳවා ගැනීම 2023 (2024)සම්බන්ධයෙන් මෙම නිවේදනය නිකුත් කර ඇත.
+
+ඒ අනුව පසුගිය මාර්තු 2 වන දින පවත්වන ලද තරග විභාගයේ ප්‍රතිඵල අනුව බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ අප්‍රේල් මස 29 වන දින සිට මැයි 9 වන දින දක්වා ඉසුරුපාය අධ්‍යාපන අමාත්‍යාංශයේ දී පැවැත්වේ.
+
+සුදුසුකම් ලැබූවන්ගේ නාම ලේඛනය හා කැඳවීමේ ලිපිය අධ්‍යාපන අමාත්‍යාංශයයේ වෙබ් අඩවියේ පළ කර ඇති බව ද අමාත්‍යාංශය නිවේදනය කරයි.
+
+මේ අතර පාසල් පද්ධතිය තුළ පවතින බරපතළ ගුරු හිඟය පියවීම සඳහා අධ්‍යාපන බලධාරීන් මේ වනතෙක් කිසිදු විධිමත් වැඩටහනක් සකස් කර නොමැති බව ලංකා ගුරු සංගමය පවසයි.
+
+එහි සභාපති ජෝසප් ස්ටාර්ලින් මහතා පැවසුවේ බඳවා ගත් ගුරුවරු ක්‍රමවත් පරිදි ස්ථානගත කර නොමැති බවය.
+
+◼️
+
+[Data](articles/f97275a3.json)
+
+---
+
+### අවුරුදු නිවාඩුවෙන් පසු පාසල් අද යළි ඇරඹේ
+
+*2024-04-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195910) · `si`
+
+සිංහල දෙමළ අළුත් අවුරුද්ද වෙනුවෙන් නිවාඩු ලබාදුන් පාසල් අද (24) යළි ආරම්භ වීමට නියමිතය.
+
+ඒ අනුව මෙම වර්ෂයේ පළමු පාසල් වාරයේ දෙවන අදියර මෙලෙස අදින් ආරම්භ වන බව අධ්‍යාපන අමාත්‍ය අංශය පවසයි.
+
+පළමු පාසල් වාරයේ පළමු අදියර අප්‍රේල් මස 10 වන දිනෙන් අවසන් කෙරුණි.
+
+මේ අතර ලබන මැයි 06 වනදා සිට 18 වනදා දක්වා 2023 අධ්‍යනය පොදු සහතික පත්‍ර සමාන්‍ය පෙළ විභාගය පැවැත්වීමට නියමිත තිබේ.
+
+ඒ අනුව මැයි 3 වන දින පළමු පාසල් වාරයේ දෙවන අදියර අවසන් වීමට නියමිතය.
+
+◼️
+
+[Data](articles/d16da13e.json)
+
+---
+
+### Sri Lanka weighs Open Skies amidst plans for national carrier privatization
+
+*2024-04-24 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-weighs-Open-Skies-amidst-plans-for-national-carrier-privatization/155-281248) · `en`
+
+Colombo, April 24 (Daily Mirror) - Sri Lanka is in a dilemma to decide whether to adopt an open skies policy or not in the event of divestiture of shares of the national carrier ‘SriLankan Airlines’, a top official said .
+
+An Open Skies policy means liberalization and ease of access and rules of use of national airports for foreign airlines. It is joined in order to increase the tourist flow and to develop the potential as a regional air hub.
+
+The government has now called for bids to privatize or restructure the national career .
+
+The government, acting through the Ministry of Finance, Economic Stabilization and National Policies called for Request for Qualification (RfQ) from potential investors for the acquisition of shares in SriLankan Airlines Limited. The deadline for submission of proposals ended at 2pm on Monday, April 22, 2024.
+
+...
+
+[Data](articles/98d465ea.json)
+
+---
+
+### Heavy rains in several parts of the Western and west
 
 *2024-04-24 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195907) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යමසහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, and Uva provinces, with potential for lightning and wind.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතේ සහ අනුරාධපුර දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-පුත්තලම සිට කොළඹ හරහා ගාල්ල දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+From the Galle and Matara districts of the Western, Sabaragamuwa, Central and Central provinces. Showers or thundershowers will occur at several places about 2.00.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorological Department announced that showers or thundershowers will occur at several places in the Uva Province and even night.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+Thundershowers will develop at several places in the coastal areas from Puttalam to Galle.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur more than 50.
+
+Some locations in the Sabaragamuwa, Central and Uva provinces can last a morning.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/46b749ed.json)
+
+[Extended Data](ext_articles/46b749ed.ext.json)
 
 ---
 
@@ -65,6 +133,8 @@ They stated that several roads in Colombo between Lotus roundabout, Presidential
 ◼️
 
 [Data](articles/425ca568.json)
+
+[Extended Data](ext_articles/425ca568.ext.json)
 
 ---
 
@@ -85,6 +155,26 @@ The Uma Oya project, following the Mahaweli Development Project, is one of the l
 ...
 
 [Data](articles/4ba86d67.json)
+
+[Extended Data](ext_articles/4ba86d67.ext.json)
+
+---
+
+### IMF third tranche hinges on proposed PFM Act: Dr. Coomaraswamy
+
+*2024-04-24 03:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-third-tranche-hinges-on-proposed-PFM-Act-Dr-Coomaraswamy/108-281241) · `en`
+
+The proposed Public Financial Management (PFM) Act remains crucial for the disbursement of the third tranche under the International Monetary Fund’s (IMF) US$ 3billion bailout package, stressed Former Central Bank (CB) Governor and economist, Dr. Indrajit Coomaraswamy.
+
+“It (PFM) is one of the prior actions to get approval of the IMF extended fund facility review. We already got the staff level agreement, but before getting the executive board approval, we need to at least get this bill into parliament,” he said.
+
+Dr. Coomaraswamy made his comments addressing a webinar organised by the Liberal Youth Movement under theme ‘Resilience and Recovery: Navigating Economic Crisis, Stabilising Efforts, and Pathways to Sustained Growth’, this Monday.
+
+The draft Public Financial Management Bill was expected to be tabled in the parliament in February, before the beginning of the second review of the IMF programme.
+
+...
+
+[Data](articles/a9eadc38.json)
 
 ---
 
@@ -378,6 +468,28 @@ The proposed membership card can also be used as the members Privilege card whic
 
 ---
 
+### Loosening fiscal squeeze could derail IMF programme commitments: Economist
+
+*2024-04-24 02:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Loosening-fiscal-squeeze-could-derail-IMF-programme-commitments-Economist/108-281243) · `en`
+
+Says there’s only room for tweaks at the margin on expenditure and revenue fronts
+
+Points out vote-winning quick fixes have turned out to be very costly in the past and the stakes are even higher this time around
+
+Stresses priority over the next few months is to build on existing progress and finalise an external debt restructuring deal before the elections
+
+A top economist yesterday raised concerns over the “loosening of fiscal squeeze” by authorities to stimulate economic growth. Since doing so could lead to potential risks of jeopardising Sri Lanka’s agreements with the International Monetary Fund (IMF).
+
+Institute of Policy Studies (IPS) Executive Director Dr. Dushni Weerakoon asserted that there is only room for tweaks at the margin on both the expenditure and revenue fronts.
+
+“Vote-winning quick fixes have turned out to be very costly in the past and the stakes are even higher this time around.
+
+...
+
+[Data](articles/21fbfbc2.json)
+
+---
+
 ### Exploring FDI and export potential of Sri Lanka under the new normal
 
 *2024-04-24 02:04:22* · [`dailyftlk`](https://www.ft.lk/columns/Exploring-FDI-and-export-potential-of-Sri-Lanka-under-the-new-normal/4-760961) · `en`
@@ -622,19 +734,25 @@ Quinton de Kok lost the game and team captain KL. Rahul left with 16 runs. (33 -
 
 ---
 
-### இன்று விசேட பாதுகாப்பு ஏற்பாடு
+### Special security arrangement today
 
 *2024-04-24 00:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-ஏற்பாடு/175-336251) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் இலங்கை விஜயத்தை முன்னிட்டு விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளன என பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்தது.
+Special security arrangements for Iranian President Ibrahim Raisi's visit to Sri Lanka, involving police and armed forces, have been implemented.
 
-பொலிஸாரும் முப்படையினரும் இணைந்து பாதுகாப்பு நடவடிக்கைகளை முன்னெடுக்கின்றனர் என அமைச்சர் டிரான் அலஸ் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி இன்று நாட்டிற்கு வருகை தரவுள்ளார் என வௌிவிவகார அமைச்சர் அலி சப்ரி நேற்று முன்தினம் உறுதிப்படுத்தியிருந்தார். (a)
+Special security arrangements have been made in the presence of Iranian President Ibrahim Raisi's visit to Sri Lanka, the Ministry of Public Security said.
+
+Minister Tran Alas said that the police and the armed forces are carrying out security measures.
+
+Iranian President Ibrahim Raisi has arrived in the country today that Minister Ali Sabri confirmed yesterday. (A)
 
 ◼️
 
 [Data](articles/5bb12e39.json)
+
+[Extended Data](ext_articles/5bb12e39.ext.json)
 
 ---
 
@@ -659,6 +777,26 @@ The suspect has been arrested when he came to Kadalgama Nagar to get two lakhs o
 [Data](articles/1356e202.json)
 
 [Extended Data](ext_articles/1356e202.ext.json)
+
+---
+
+### Tourist arrival momentum dips slightly in April
+
+*2024-04-24 00:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrival-momentum-dips-slightly-in-April/108-281242) · `en`
+
+A tourist exploring Colombo in a rented three wheel, popularly referred to as tuk-tuk - Pic by Pradeep Pathirana
+
+Tourist arrivals to the island nation continue to pickup from levels witnessed since the pandemic and the economic crisis. However, a slight drop in momentum is seen for the month of April.
+
+Provisional data showed that Sri Lanka welcomed a total of 107,124 international travellers in the first three weeks of April. When compared with the first three months of the year, a slowdown is seen.
+
+While in April the 100,000 tourist arrival mark was crossed in three weeks, from January to March the milestone was reached within two to two and a half weeks.
+
+The daily arrival average dropped to the levels of 5,100, while the weekly arrival average dipped to 35,000.
+
+...
+
+[Data](articles/6c6d7b4e.json)
 
 ---
 
@@ -1504,6 +1642,30 @@ Sun Hayan, Deputy Minister of the Communist Party of International Affairs and t
 
 ---
 
+### Sri Lanka single borrower limits cut to 25-pct of bank capital, SOEs also included
+
+*2024-04-23 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-single-borrower-limits-cut-to-25-pct-of-bank-capital-soes-also-included-159744/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued directions limiting loans to a singe borrower or a group of connected customers to 25 percent of Tier I capital, with state enterprises which turned out to be the biggest borrowers, also included.
+
+In a 2007 direction, banks were allowed to give loans up to 30 percent of capital for a single customer and 33 percent for a group but the rules were widely violated in the case of state enterprises, which were used as off-budget vehicles to give energy and other subsidies.
+
+Banks will have to limit exposures to 25 percent starting from January 2026.
+
+According to transitional provisions published in the direction seems to indicate that some banks may have single borrower exposures of 85 percent or more.
+
+They will be required to bring exposures down to 60 percent by 2027 and 25 percent by 2028.
+
+Energy utilities were made to borrow from state banks to run off-budget subsidies under plan avoid a price formula during the Rajapaksa regimes.
+
+...
+
+[Data](articles/c07a279c.json)
+
+[Extended Data](ext_articles/c07a279c.ext.json)
+
+---
+
 ### Iran President to open Sri Lanka $514mn irrigation, hydro power project
 
 *2024-04-23 18:07:00* · [`economynextcom`](https://economynext.com/iran-president-to-open-sri-lanka-514mn-irrigation-hydro-power-project-159760/) · `en`
@@ -2013,173 +2175,5 @@ What's going on in the Middle East?The world is excited today to know the truth.
 [Data](articles/92fbb734.json)
 
 [Extended Data](ext_articles/92fbb734.ext.json)
-
----
-
-### Rabbit girl
-
-*2024-04-23 15:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தய-காருக்கு-பலியான-சிறுமி/175-336245) · `ta`
-
-A tragic car accident at "Foxhill Super Cross Race" resulted in seven deaths and 21 injuries, including a 7-year-old girl. Relatives from Diyarabawatte gathered to mourn and plan commemorations for the victims, including a 7-year-old girl and her grandfather.
-
-🟩
-
-At the request of my little sister, my uncle and 27 people from our estate caught the bus and went to the car racing in Diyathala.
-
-Relative Shivraj Kausalya (age 39) said that our little sister, who is very interested in watching the car racing, left us with our uncle during the car race.
-
-Seven people were killed in a car accident at "Foxhill Super Cross Race". 21 people were injured. It includes a seven -year -old girl.
-
-Sivaraj Kausalya's mother's brother Muthulingam Udayakumar and seven -year -old Sivakumar Dinushika, the third child of Muthulingam's eldest daughter, died in the accident.
-
-All the relatives from Diyarabawatte gathered together on Monday (22) at the house of Dinushika and expressed the tragedy of the loss of Dinushika and grandfather and were talking about Dinushika's commemoration events.
-
-Even when we went there, Dinushika's father went to Diyatha La and went to bring the bodies of Dinushika and her grandfather. However, the body of Dinushika was not available.
-
-...
-
-[Data](articles/014f8099.json)
-
-[Extended Data](ext_articles/014f8099.ext.json)
-
----
-
-### Document authentication services at Consular Affairs Division suspended on 29 & 30 April
-
-*2024-04-23 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98795/document-authentication-services-at-consular-affairs-division-suspended-on-29-30-april) · `en`
-
-The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises on the 16th floor of “Suhurupaya” on Sri Subhuthipura Road, Battaramulla with effect from 02 May, the Foreign Affairs Ministry said today (23).
-
-Accordingly, all consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday between 8.30 a.m. and 4.15 p.m.
-
-As a result, document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
-
-However, during the said transition period, the Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to the public during regular office hours.
-
-...
-
-[Data](articles/63133d8d.json)
-
-[Extended Data](ext_articles/63133d8d.ext.json)
-
----
-
-### Special notice on Consular Division’s document authentication services
-
-*2024-04-23 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98795/special-notice-on-consular-divisions-document-authentication-services) · `en`
-
-The Consular Affairs Division of the Ministry of Foreign Affairs will be relocated to the new premises on the 16th floor of “Suhurupaya” on Sri Subhuthipura Road, Battaramulla with effect from 02 May, the Foreign Affairs Ministry said today (23).
-
-Accordingly, all consular services will be provided to the public at the new office premises during regular office hours from Monday to Friday between 8.30 a.m. and 4.15 p.m.
-
-As a result, document authentication services provided by the Consular Affairs Division in Colombo will be temporarily suspended for the public on 29 and 30 April in order to facilitate the transition of the Electronic Document Authentication System (e-DAS) to the new premises at Suhurupaya.
-
-However, during the said transition period, the Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara will remain open to the public during regular office hours.
-
-...
-
-[Data](articles/66e8a07e.json)
-
-[Extended Data](ext_articles/66e8a07e.ext.json)
-
----
-
-### கடும் மழையை எதிர்கொள்ள தயாராக இருக்கவும்
-
-*2024-04-23 15:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-மழையை-எதிர்கொள்ள-தயாராக-இருக்கவும்/175-336244) · `ta`
-
-வளிமண்டலவியல் திணைக்கள் கடும் மழையை 50 மில்லிமீற்றர் அளவில் அதற்கு தயாராக இருக்க வேண்டும் என குறிப்பிடுகின்றன. மேல், சப்ரகமுவ, மத்திய, ஊவா, தென் மற்றும் வடமேல் மாகாணங்களில் மழை பெய்யக்கூடும். அது அவற்றின் முன்னறிவிப்புகளுக்கு இதுவே எதிர்பார்க்கப்படுகிறது. இது அவற்றின் முன்னறிவிப்புகளுக்கு இதுவே எதிர்பார்க்கப்படுகிறது.
-
-🟩
-
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில பகுதிகளில் சுமார் 50 மில்லிமீற்றர் அளவில் கடும் மழை பொழியும் எனவும் மக்கள் அதற்கு தயாராக இருக்க வேண்டும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-சமீபத்திய முன்னறிவிப்புகளின்படி, மேல், சப்ரகமுவ, மத்திய, ஊவா, தென் மற்றும் வடமேல் மாகாணங்களில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை பெய்யக்கூடும் என எதிர்பார்க்கப்படுகிறது.
-
-Also, in the Northern and North Central Provinces, there will be widespread rain or thunderstorm in the afternoon or night.
-
-The snow is expected in some parts of the Sabaragamuwa, Central and Uva provinces.
-
-◼️
-
-[Data](articles/f8d06af3.json)
-
-[Extended Data](ext_articles/f8d06af3.ext.json)
-
----
-
-### World Book Day Today
-
-*2024-04-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181766) · `ta`
-
-Today is World Book Day, promoting reading happiness. The theme is "Read Your Way," focusing on developing reading interests and connecting with books of all ages. Celebrations worldwide highlight books' purpose and educational value.
-
-🟩
-
-World Book Day and Copyright Day is celebrated on Tuesday (23) to promote the happiness of the book reading.
-
-The theme of the International Book and Copyright Day for this year is reading your way.
-
-This theme emphasizes the importance of developing reading interest and encourages ways to connect with books of all ages.
-
-In addition, celebrations are held around the world to highlight the purpose of the books and the ability to promote and educate people in various backgrounds.
-
-◼️
-
-[Data](articles/b665f5de.json)
-
-[Extended Data](ext_articles/b665f5de.ext.json)
-
----
-
-### Special notice from Ministry of External Affairs
-
-*2024-04-23 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195895) · `si`
-
-The Ministry of External Affairs suspends the Consular Section on April 29 and 30. Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy, and Matara are open. Applications for verification can be submitted and will return on May 2. For any emergency, contact the Consular Section or any public Consular Office before April 26, 2024, at 4:15 PM.
-
-🟩
-
-The Ministry of External Affairs says that the Consular Section of the Ministry of External Affairs has been suspended on April 29 and 30.
-
-එම නිවේදනයේ දැක්වෙන්නේ විදේශ කටයුතු අමාත්‍යාංශයේ කොන්සියුලර් අංශය බත්තරමුල්ල, ශ්‍රී සුභූතිපුර පාරේ පිහිටි "සුහුරුපායේ" 16 වැනි මහලෙහි ඇති නව කාර්යාල පරිශ්‍රය වෙතට රැගෙන යාමේ කටයුතු හේතුවෙන් මෙම දින දෙක තුළ එම සේවාවන් තාවකාලිකව අත්හිටුවන බවය.
-
-The Regional Consular Offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara are open to the public.
-
-Applications for verification can be submitted to these Regional Offices and will return to the applicabies to applicatives on Thursday, May 2.
-
-සිදුවිය හැකි කිසියම් අපහසුතාවන් මඟහරවා ගැනීම සඳහා, සත්‍යාපනය කිරීම පිණිස යම් හදිසි ලේඛන ඇතොත් ඒවා 2024 අප්‍රේල් මස 26 වැනි දින පස්වරු 4.15 ට පෙර කොළඹ පිහිටි කන්සියුලර් අංශයට හෝ ඕනෑම ප්‍රාදේශීය කන්සියුලර් කාර්යාලයකට භාරදෙන ලෙසට විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් ඉල්ලා සිටී.
-
-...
-
-[Data](articles/f5d3742c.json)
-
-[Extended Data](ext_articles/f5d3742c.ext.json)
-
----
-
-### Lorry and three -wheeler accident in Jaffna
-
-*2024-04-23 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181770) · `ta`
-
-A three-wheeler crashed into a lorry near Jaffna, injuring the driver and damaging the vehicle. The driver was taken to Jaffna Teaching Hospital. Meanwhile, a Budaraka vehicle driver crashed into a Ceylon Electricity Board wiring without injury. Traffic police are investigating.
-
-🟩
-
-A three -wheeler was completely damaged and a three -wheeler driver was injured and the three -wheeler driver was injured and admitted to the Jaffna Teaching Hospital in a accident on Tuesday (23).
-
-A three -wheeler from a milling plant located at Nalukalmadam junction on the Jaffna - Manipayi - Karainagar main road, a three -wheeler from the main road, crashed into the back of the river Kalmadam.
-
-The three -wheeler was completely damaged. A 20 -year -old Ajindan, a youth from the six -wheeler, who was driving a three -wheeler, was admitted to the Jaffna Teaching Hospital after being injured.
-
-Meanwhile, the driver of the Budaraka vehicle crashed into a wiring of the Ceylon Electricity Board and the driver was recovered without injuries.
-
-It was reported that the Jaffna district traffic police rushed to the scene and are conducting further investigations.
-
-◼️
-
-[Data](articles/a52015de.json)
-
-[Extended Data](ext_articles/a52015de.ext.json)
 
 ---

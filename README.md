@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 14:04:23**
+As of **2024-04-24 14:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,660 (100.0%) of 20,661 articles have been extended.
+20,661 (100.0%) of 20,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -120,15 +120,21 @@ Plantation workers are currently struggling for a salary increase of 1700 rupees
 
 ---
 
-### දමිතාට හා සැමියාට ඇප
+### Damitha and husband bailed
 
 *2024-04-24 12:44:30* · [`adalk`](https://www.ada.lk/breaking_news/දමිතාට-හා-සැමියාට-ඇප/11-409240) · `si`
 
-කොරියාවේ රැකියා වීසා ලබාදෙන බවට පවසමින් පුද්ගලයන්ගේ රුපියල් ලක්ෂ 30කට වැඩි මුදලක් වංචා කිරිමේ සිදුවීමකට අදාළව රක්ෂිත බන්ධනාගාර ගත කර සිටි ප්‍රවීණ නිලි දමිතා අබෙරත්න හා ඇයගේ සැමියා ඇප මත නිදහස් කරන ලෙස කොටුව මහේස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+Damitha and her husband were exempted from charges of defrauding more than Rs. by the Fort Magistrate's Court.
+
+🟩
+
+The Fort Magistrate's Court today ordered the exemption of the persons who were remanded for defrauding more than Rs.
 
 ◼️
 
 [Data](articles/f5dfa40f.json)
+
+[Extended Data](ext_articles/f5dfa40f.ext.json)
 
 ---
 

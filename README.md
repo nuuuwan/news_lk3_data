@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 20:52:35**
+As of **2024-04-24 21:03:36**
 
 ## Newspaper Stats
 
-*Scraped **20,730** Articles*
+*Scraped **20,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,111 @@ economynextcom | 1,173
 adalk | 1,730
 tamilmirrorlk | 2,399
 adaderanalk | 2,470
-virakesarilk | 3,120
+virakesarilk | 3,125
 dailymirrorlk | 3,233
-adaderanasinhalalk | 3,354
+adaderanasinhalalk | 3,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,729 (100.0%) of 20,730 articles have been extended.
+20,730 (100.0%) of 20,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### ශ්‍රී ලංකා - ඉරාන ජනපතිවරු අතර විශේෂ සාකච්ඡාවක්
+
+*2024-04-24 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195939) · `si`
+
+ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉරාන ජනාධිපති ඊබ්‍රහීම් රයිසි අතර විශේෂ සාකච්ඡාවක් පැවැත්වුණු බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කරයි.
+
+එම සාකච්ඡාවෙන් අනතුරුව දෙරටෙහි නියෝජිතයින් අතර ද්වීපාර්ශ්වික සාකච්ඡා පැවති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/47dc4933.json)
+
+---
+
+### இந்திய உதவியின் கீழ் நிர்மாணிக்கப்பட்ட மேலும் 4 கிராமங்கள் விரைவில் மக்களிடம் கையளிக்கப்படும் - ரணதுங்க
+
+*2024-04-24 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181863) · `ta`
+
+இந்திய உதவியின் கீழ் நிர்மாணிக்கப்பட்ட மேலும் 04 கிராமங்கள் விரைவில் மக்களிடம் கையளிக்கப்படும் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+கொழும்பு, இரத்தினபுரி, திருகோணமலை மற்றும் மொனராகலை ஆகிய மாவட்டங்களில் இந்திய உதவியுடன் நிர்மாணிக்கப்பட்ட கிராமங்களே இவ்வாறு திறந்து வைக்கப்பட உள்ளன.
+
+இந்திய அரசாங்கத்தின் உதவியுடன் நாடளாவிய ரீதியில் செயற்படுத்தப்பட்டு வரும் 101 கிராமங்களில் 07 கிராமங்களில் வீடுகளை நிர்மாணிக்கும் பணிகள் மக்களிடம் கையளிக்கப்பட்டுள்ளதாகவும் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+
+இதனால் மட்டக்களப்பு, யாழ்ப்பாணம், கம்பஹா, கண்டி, வவுனியா, பதுளை மற்றும் அனுராதபுரம் ஆகிய மாவட்டங்களில் இந்திய அரசாங்கத்தின் உதவியுடன் நிர்மாணிக்கப்பட்ட கிராமங்கள் மக்களிடம் கையளிக்கப்பட்டுள்ளன.
+
+அதுமட்டுமின்றி, 90 கிராமங்களில் 1,668 வீடுகள் கட்டும் பணி இதுவரை துரிதப்படுத்தப்பட்டுள்ளது. இத்திட்டத்தின் கீழ் இதுவரை 732 வீடுகள் கட்டி முடிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/3a75327e.json)
+
+---
+
+### மரியாதை வேட்டுக்கள் தீர்க்கப்பட்டு ஈரான் ஜனாதிபதியை வரவேற்றார் ஜனாதிபதி ரணில்
+
+*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181888) · `ta`
+
+ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி உள்ளிட்ட குழுவினர் கொழும்பிலுள்ள ஜனாதிபதி அலுவலகத்தை புதன்கிழமை (24) மாலை வந்தடைந்தனர்.
+
+அதன்பின்னர் ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசிக்கும் (Dr. Ebrahim Raisi) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும்  இடையிலான உத்தியோகபூர்வ சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/68423f41.json)
+
+---
+
+### மே மாத இறுதியில் வெளியாகும் அருள்நிதியின் 'டிமான்டி காலனி 2'
+
+*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181872) · `ta`
+
+அருள்நிதி நடிப்பில், அஜய் ஆர் ஞானமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'டிமான்டி காலனி 2' திரைப்படம் மே மாத இறுதியில் வெளியிட திட்டமிடப்பட்டு வருவதாக படக்குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர் அஜய் ஆர். ஞானமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'டிமான்டி காலனி 2' எனும் திரைப்படத்தில் அருள்நிதி, பிரியா பவானி சங்கர், அருண்பாண்டியன், மீனாட்சி கோவிந்தராஜன், முத்துக்குமார், அர்ச்சனா ரவிச்சந்திரன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஹரிஷ் கண்ணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைத்திருக்கிறார். ஹாரர் திரில்லர் ஜேனரில் உருவாகி இருக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் நிறுவனத்தின் சார்பில் பொபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/93fb21bd.json)
+
+---
+
+### அசோக் செல்வன் நடிக்கும் 'எனக்கு தொழில் ரொமான்ஸ்' படத்தின் டீசர் வெளியீடு
+
+*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181873) · `ta`
+
+கடந்த ஆண்டில் வெளியான 'போர் தொழில்' எனும் படத்தின் வெற்றி மூலம் தொடர்ந்து குளிர் காய்ந்து கொண்டிருக்கும் நடிகர் அசோக் செல்வன் நடிப்பில் தயாராகி இருக்கும் 'எனக்குத் தொழில் ரொமான்ஸ்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் பாலாஜி கேசவன் இயக்கத்தில் உருவாகி இருக்கும் 'எனக்கு தொழில் ரொமான்ஸ்' எனும் திரைப்படத்தில் அசோக் செல்வன், அவந்திகா மிஸ்ரா, ஊர்வசி, எம். எஸ். பாஸ்கர், விஜய் வரதராஜ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கும் இந்த திரைப்படத்தை டி கிரியேசன்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் எம். திருமலை தயாரித்திருக்கிறார்.
+
+இப்படத்தின் ஃபர்ஸ்ட் லுக், சிங்கிள் ட்ராக் ஆகியவை வெளியாகி வெற்றி பெற்ற நிலையில் தற்போது இப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதில் நாயகன் அசோக் செல்வன் காதல் இளவரசனாக தோன்றுகிறார். காதலிப்பதற்காக இவர் கையாளும் உத்திகள் நகைச்சுவையாக இருப்பதால் இப்படத்தைப் பற்றிய எதிர்பார்ப்பு ரசிகர்களிடத்தில் ஏற்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/fc60099f.json)
+
+---
+
+### மீண்டும் இரட்டை வேடத்தில் நடிக்கும் அருண் விஜயின் 'ரெட்ட தல'
+
+*2024-04-24 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181874) · `ta`
+
+நட்சத்திர வாரிசாக தமிழ் திரையுலகிற்கு அறிமுகமானாலும் தன்னுடைய தனித்துவமான அடையாளத்திற்காக இருபத்தெட்டு ஆண்டுகளுக்கும் மேல் கடுமையாக உழைத்து முன்னணி நட்சத்திர அந்தஸ்தை எட்டிப்பிடித்து இருக்கும் நடிகர் அருண் விஜய் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடிக்கும் புதிய திரைப்படத்திற்கு 'ரெட்ட தல' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை சென்னையில் நடைபெற்ற பிரத்யேக விழாவில் இயக்குநரும், நடிகருமான மோகன் ராஜா வெளியிட்டார்.
+
+இயக்குநர் கிரிஷ் திருக்குமரன் இயக்கத்தில் உருவாகி வரும் 'ரெட்ட தல' எனும் திரைப்படத்தில் அருண் விஜய், சித்தி இத்னானி, தான்யா ரவிச்சந்திரன், கார்த்திக் யோகி, பாலாஜி முருகதாஸ் உள்ளிட்ட பலர் நடிக்கிறார்கள். டிஜோ டோமி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு சாம் சி எஸ் இசையமைக்கிறார். எக்சன் என்டர்டேய்னராக தயாராகும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் பட நிறுவனம் சார்பில் தயாரிப்பாளர் பொபி பாலச்சந்திரன் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/5ed955a5.json)
+
+---
 
 ### Colombo vehicles trapped
 
@@ -63,6 +155,8 @@ NPP General Secretary Tilvin Silva told a news conference that the NPP proposed 
 ...
 
 [Data](articles/d11c16e9.json)
+
+[Extended Data](ext_articles/d11c16e9.ext.json)
 
 ---
 
@@ -2149,145 +2243,5 @@ The magistrate, observing the arguments and defendants, issued an interim order 
 [Data](articles/f3e0141f.json)
 
 [Extended Data](ext_articles/f3e0141f.ext.json)
-
----
-
-### Debate on Easter Sunday attacks begins
-
-*2024-04-24 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debate-on-Easter-Sunday-attacks-begins/108-281269) · `en`
-
-Parliament, April 24 (Daily Mirror)- The three-day adournment debate on the Easter Sunday attacks commenced in Parliament today.
-
-The adournment debate was moved by SJB MP Niroshan Perera and seconded by SJB MP Kavinda Jayawardane.
-
-◼️
-
-[Data](articles/651da73f.json)
-
-[Extended Data](ext_articles/651da73f.ext.json)
-
----
-
-### Weerasena Kamage is the Member of Parliament
-
-*2024-04-24 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181826) · `ta`
-
-Weerasena Kamage, born 1945, is a Member of Parliament representing Anuradhapura district, appointed after Nandasena's death. Educated at Kekirawa Central Maha Vidyalaya, he joined the Sri Lanka Freedom Party (SLFP) in 1991, serving as Opposition leader. Kamage has held various positions, including Chief Minister and Minister of Labor and Health in the North Central Provincial Council. He contested the 2020 general election in PA, ranking 6th. Kamage is also the organizer of the Sri Lanka PA of the Kekirawa constituency and the head of a construction company in the North Central Province. Married with five children.
-
-🟩
-
-Weerasena Kamage was the Member of the Ninth Parliament on Wednesday (24) in the presence of Speaker Mahinda Yapa Abeywardena.
-
-He also signed the Members of Parliament in the presence of Parliamentary Secretary General Kushani Rohanadeera after the swearing in the presence of the Speaker.
-
-Member of Parliament KH, who represented the Sri Lankan PA in the Anuradhapura district. Weerasena Kamage was appointed to the vacuum caused by the death of Nandasena.
-
-Born in 1945, Veerasena Kamage completed his education at Kekirawa Central Maha Vidyalaya. He was elected as a member of the Kekirawa Pradeshiya Sabha in the Sri Lanka Freedom Party (SLFP) in 1991 and was the leader of the Opposition.
-
-Subsequently, Weerasena Kamage, who has been elected to the Northern Provincial Council election in the People's Front, has acted as the Chief Minister more times.. He has also held the post of Minister of Labor and Health in the North Central Provincial Council.
-
-...
-
-[Data](articles/d1dd7c31.json)
-
-[Extended Data](ext_articles/d1dd7c31.ext.json)
-
----
-
-### Ampara Regional Health Services for Affairs
-
-*2024-04-24 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181825) · `ta`
-
-A suspect arrested for drug distribution and use in Kalmunai is detained until April 28. The suspect, previously an accountant for the Kalmunai Municipal Council and currently with Ampara Regional Health Services, was arrested with ice and cannabis. Further investigations are underway.
-
-🟩
-
-The Kalmunai Magistrate has ordered the detainees to be detained until April 28, the suspect, who was arrested on charges of drug distribution and use.
-
-It is noteworthy that the suspect was produced in court on Tuesday (23).
-
-The suspect was arrested by a large Neelavana police on Monday night on charges of a long -standing drug distribution and use of drugs.
-
-Recently, in the adjoining city of Maruthamunai, the suspect, based on the confession of the suspect, who was arrested with ice and cannabis drug, has been carrying out speedy investigations to arrest the accountant of the big Neelavana police.
-
-It is noteworthy that 840 mg of ice drugs from the Gancal were recovered and 4 grams of 540 ml gram cannabis.
-
-Investigations have revealed that the suspect has been the former accountant of the Kalmunai Municipal Council in the past and is currently working as an accountant of the Ampara Regional Health Services Workshop.
-
-...
-
-[Data](articles/3f6b9aec.json)
-
-[Extended Data](ext_articles/3f6b9aec.ext.json)
-
----
-
-### We are going to take off the cloth to the people
-
-*2024-04-24 11:36:07* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-රෙදි-අඳින්න-කියන-අය-ජනතාව-ඉදිරියේ-රෙදි-ගලවගන්න-යනවා/11-409233) · `si`
-
-Sri Lanka Freedom Party (SLFP) Vice President Rohana Lakshman Piyadasa criticized the party's auction, claiming it's an attempt to save money for the people. He defended the party against accusations, stating they remain committed to the common people.
-
-🟩
-
-Sri Lanka Freedom Party Vice President Rohana Lakshman Piyadasa said that the Sri Lanka Freedom Party (SLFP) auction.
-
-Speaking to the media in Kandy, Professor Rohana Lakshman Piyadasa said this.
-
-Speaking further, the professor said:. People know how we go to Colombo, Colombo. We can meet with the road to the road, if we live, and drink how to eat and drinks.
-
-The media reports that the electricity bill of Rs.. That's why people who wear wear and talk to us are trying to save the cloth to the people.
-
-The party was auctioned, how many of us did not get. This allegation I do is do not have any relevance. You can check anything. So don't accuse us, thinking that he is in glass houses, thinking about. We still are with the common people, as humans.
-
-The Sri Lanka Freedom Party (SLFP) is likely to be held in Parliament and outside the court, and outside the court, and in the court.
-
-...
-
-[Data](articles/cb47b3d1.json)
-
-[Extended Data](ext_articles/cb47b3d1.ext.json)
-
----
-
-### The Wilgamuwa Police Meets the Missing Fire
-
-*2024-04-24 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195921) · `si`
-
-The Wilgamuwa Police discovered a missing firearm near a shop in Nugagolla. They suspect it's the same weapon reported missing weeks ago.
-
-🟩
-
-A woman who owns a shop in Nugagolla area in Wilgamuwa this morning, the Wilgamuwa Police have informed a person who is on the road near the Buddha in front of it this morning.
-
-The police had then visited the police and found a firearm.
-
-Police suspect that the firearm is suspected of the firearm missing at the Wilgamuwa Police a few weeks ago.
-
-◼️
-
-[Data](articles/61183b78.json)
-
-[Extended Data](ext_articles/61183b78.ext.json)
-
----
-
-### Maithripala prevented from functioning as SLFP chairman until trial ends
-
-*2024-04-24 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98809/maithripala-prevented-from-functioning-as-slfp-chairman-until-trial-ends) · `en`
-
-The Colombo District Court has delivered a permanent injunction preventing former President Maithripala Sirisena from functioning as the chairman of Sri Lanka Freedom Party (SLFP).
-
-The order was issued with regard to a plaint filed by SLFP executive committee member Montague Sarathchandra.
-
-Accordingly, the permanent injunction will be effective until the conclusion of the trial.
-
-This is the second order issued by the Colombo District Court, barring Sirisena from functioning as the SLFP chairman. The previous court order was delivered with respect to a case filed by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/b2b71fd3.json)
-
-[Extended Data](ext_articles/b2b71fd3.ext.json)
 
 ---

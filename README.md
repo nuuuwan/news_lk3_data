@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 15:04:00**
+As of **2024-04-24 15:18:39**
 
 ## Newspaper Stats
 
-*Scraped **20,672** Articles*
+*Scraped **20,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,88 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,722
 tamilmirrorlk | 2,391
-adaderanalk | 2,463
+adaderanalk | 2,465
 virakesarilk | 3,103
 dailymirrorlk | 3,226
-adaderanasinhalalk | 3,345
+adaderanasinhalalk | 3,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,668 (100.0%) of 20,672 articles have been extended.
+20,672 (100.0%) of 20,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
+### Injunction against appointing Wijeyadasa as SLFP’s Acting Chairman
+
+*2024-04-24 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98817/injunction-against-appointing-wijeyadasa-as-slfps-acting-chairman) · `en`
+
+The Colombo District Court today issued an injunction order preventing the appointment of Minister Wijeyadasa Rajapakshe as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
+
+The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
+
+Colombo District Judge Sandun Withana issued these orders after considering a plaint filed against the respective appointments.
+
+Meanwhile, the court issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
+
+The Colombo District Judge issued these injunctions after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
+
+It was mentioned in the order that these injunctions will remain in effect until May 08, 2024.
+
+◼️
+
+[Data](articles/d87063e4.json)
+
+---
+
+### මැලේරියාව යළිත්
+
+*2024-04-24 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195930) · `si`
+
+2024 වසරේ මේ දක්වා කාලය තුළ මැලේරියා රෝගීන් 09 දෙනෙකු වාර්තා වී ඇති බව මැලේරියා මර්දන ඒකකයේ ප්‍රජා වෛද්‍ය විශේෂඥ පුබුදු චූලසිරි මහතා පවසයි.
+
+අද (24) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා පවසා සිටියේ, මැලේරියා රෝගීන් බහුතරයක් වාර්තා වී ඇත්තේ, අප්‍රිකා රටවලට ගොස් පැමිණි අය අතුරින් බවයි.
+
+ශ්‍රී ලංකාව තුළින් වාර්තා වූ අවසන් මැලේරියා රෝගීයා වාර්තා වූයේ 2012දී වුවත් 2023 වර්ෂයේදීත් මැලේරියා රෝගීන් 62ක් වාර්තා වූ බව ප්‍රජා වෛද්‍ය විශේෂඥ පුබුදු චූලසිරි මහතා සඳහන් කළේය.
+
+එම රෝගීන් බහුතරයක් සාම සාධක රාජකාරි සඳහා ගොස් පැමිණි හමුදා සාමාජිකයින් සහ මැණික් වෙළෙඳාම සඳහා ගොස් පැමිණි පුද්ගයින් බව ඔහු වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/3df60436.json)
+
+---
+
 ### நடிகை தமிதாவுக்கும், கணவருக்கும் பிணை
 
 *2024-04-24 14:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதாவுக்கும்-கணவருக்கும்-பிணை/175-336285) · `ta`
 
-நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவருக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தின் உத்தரவின் பேரில் புதன்கிழமை (24) பிணை வழங்கப்பட்டுள்ளது.
+Actress Tamitha Abeyratne and her husband were granted bail on Wednesday, April 24, by the Colombo Fort Magistrate's Court. They were arrested after being interrogated by the Criminal Investigation Department (CID) for allegedly defrauding Rs 100 crore. The court ordered the release of two bodies worth Rs 50 lakhs.
 
-அதன்படி, தம்பதியர்கள் 50 இலட்சம் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவிக்குமாறு கொழும்பு கோட்டை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-குற்றப் புலனாய்வுப் பிரிவினரால் தேடப்பட்டு வந்த நடிகையும் அவரது மனைவியும் ஏப்ரல் 04ஆம் திகதி நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட பின்னர் கைது செய்யப்பட்டனர்.
+Actress Tamitha Abeyratne and her husband were granted bail on Wednesday (24) on the orders of the Colombo Fort Magistrate's Court.
 
-குற்றப் புலனாய்வுப் பிரிவினர் அபேரத்னவையும் அவரது கணவரையும் பண மோசடியில் ஈடுபட்டமை தொடர்பில் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Accordingly, the Colombo Fort Magistrate's Court has ordered the release of two bodies worth Rs 50 lakhs.
 
-இதற்கமைய, ரூ. 100 கோடி மோசடி செய்ததாக குற்றஞ்சாட்டப்பட்ட குற்றப் புலனாய்வுப் பிரிவின் கணினி குற்றப்பிரிவு விசாரணைகளை ஆரம்பித்துள்ளது.
+The actress and her wife, who was searched by the Criminal Investigation Department, were produced in court on April 4 and arrested after being interrogated.
 
-இதனையடுத்து, அபேரத்னவும் அவரது கணவரும் சம்பந்தப்பட்ட வழக்கின் சந்தேக நபர்களாக குறிப்பிடப்படுவார்கள் என குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றத்திற்கு அறிவித்தனர்.
+The Criminal Investigation Department is investigating the alleged involvement of Abeyratne and her husband.
 
-அவர்களைக் கைது செய்வதைத் தடுக்கக் கோரிய ரிட் மனுவையும் கோட்டை நீதவான் நீதிமன்றம் நிராகரித்தது.
+இதற்கமைய, ரூ. The Criminal Investigation Division (CID) has begun investigations of the Criminal Investigation Division for allegedly defrauding Rs 100 crore.
+
+Subsequently, the Criminal Investigation Department informed the court that Abeyratne and her husband would be referred to as the suspects.
+
+The Fort Magistrate's Court also rejected the writ petition seeking to prevent them.
 
 ◼️
 
 [Data](articles/7a8ac742.json)
+
+[Extended Data](ext_articles/7a8ac742.ext.json)
 
 ---
 
@@ -60,17 +106,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-24 14:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாச-துஷ்மந்தவுக்கு-தடை-உத்தரவு/175-336284) · `ta`
 
+விஜயதாச ராஜபக்ஷ மற்றும் சாரதி துஷ்மந்த ஆகியோருக்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான இரண்டு தடை உத்தரவுகளை புதன்கிழமை (24) பிறப்பித்துள்ளார். அவர்கள் அமைச்சர்களும் லசந்த அழகியவண்ண, துமிந்த திசாநாயக்க மற்றும் மஹிந்த அமரவீர ஆகியோரால் முன்வைக்கப்பட்ட மனுவை பரிசீலித்ததன் பின்னர் வெளியிடப்பட்ட இந்த தடை உத்தரவுகள் அடுத்த மாதம் எட்டாம் திகதி வரை அமுலில் இருக்கும் என்றும் உத்தரவிடப்பட்டுள்ளது.
+
+🟩
+
 கடந்த 21ஆம் திகதி ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராகவும் பதில் பொதுச் செயலாளராகவும் தெரிவு செய்யப்பட்ட அமைச்சர் விஜயதாச ராஜபக்ஷ மற்றும்  சாரதி துஷ்மந்த ஆகியோருக்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான   இரண்டு தடை உத்தரவுகளை புதன்கிழமை (24) பிறப்பித்துள்ளார்.
 
 ஸ்ரீலங்கா சுதந்திரக் கட்சி உறுப்பினர்களும் அமைச்சர்களுமான  லசந்த அழகியவண்ண,  துமிந்த திசாநாயக்க மற்றும்   மஹிந்த அமரவீர ஆகியோரால் முன்வைக்கப்பட்ட மனுவை பரிசீலித்ததன் பின்னர் வெளியிடப்பட்ட இந்த தடை உத்தரவுகள் அடுத்த மாதம் எட்டாம் திகதி வரை அமுலில் இருக்கும் என்றும் உத்தரவிடப்பட்டுள்ளது.
 
 மனுதாரர்கள் சார்பில், ஜனாதிபதியின் சட்டத்தரணி  சந்தக ஜயசுந்தர, நீதிமன்றில் வாதகங்களை முன்வைத்து, பிரதிவாதிகள் அந்தப் பதவிகளில் அமர்வது சட்டவிரோதமானது மற்றும் கட்சியின் யாப்புக்கு முரணானது எனத் தெரிவித்தார்.
 
-விஜயதாச ராஜபக்ச,  ஸ்ரீலங்கா சுதந்திரக் கட்சியில் அங்கம் வகிக்காதவர் எனவும், அங்கம் வகிக்காத வேறு ஒரு கட்சியின் உறுப்பினர் ஸ்ரீலங்கா சுதந்திரக் கட்சியில் பதவி வகிப்பது அரசியலமைப்பு சட்டத்திற்கு முரணானது எனவும்   தெரிவித்தார்.
+Vijayadasa Rajapaksa said that he was not a member of the Sri Lanka Freedom Party and that a member of the other party that was not a member of the Sri Lanka Freedom Party (SLFP) was contrary to the constitution.
 
 ...
 
 [Data](articles/fbd7001e.json)
+
+[Extended Data](ext_articles/fbd7001e.ext.json)
+
+---
+
+### President Ranil expresses gratitude to Iran for assistance in Uma Oya project
+
+*2024-04-24 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98816/president-ranil-expresses-gratitude-to-iran-for-assistance-in-uma-oya-project) · `en`
+
+President Ranil Wickremesinghe on Wednesday expressed gratitude to Iran for their technical support, emphasizing that without Iran’s assistance, Sri Lanka could not have diverted the Uma Oya tributaries into Kirindi Oya.
+
+The President stated this while addressing the gathering after both he and his Iranian counterpart, Dr. Ebrahim Raisi jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP), one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project.
+
+◼️
+
+[Data](articles/328131ba.json)
 
 ---
 
@@ -118,9 +184,19 @@ Sajith Premadasa was speaking in parliament today.
 
 *2024-04-24 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98814/sajith-premadasa-says-will-contest-presidential-election) · `en`
 
-Opposition Leader Sajith Premadasa, addressing the parliamentary session today, revealed that he intends to contest the upcoming Presidential Election.
+Opposition Leader Sajith Premadasa revealed on Wednesday (24) that he intends to contest the upcoming Presidential Election.
 
-◼️
+The leader of Samagi Jana Balawegaya (SJB) leader made this remark while addressing the adjournment debate on the 2019 Easter Sunday terror attacks, currently taking place in parliament.
+
+Denying claims stating that he would not contest the presidential election, Premadasa asserted that he would run for presidency.
+
+The opposition leader also gave an undertaking to implement proper action under a future SJB government to serve justice to the victims of the devastating suicide bombings detonated on 21 April 2019.
+
+Promising to appoint a special commission to investigate the terror attacks, he said this panel would consist of both local and foreign judges and investigators.
+
+Speaking further, he asserted that, under an SJB government, a transparent investigation would be conducted on the Easter attacks.
+
+...
 
 [Data](articles/82c34877.json)
 
@@ -155,6 +231,8 @@ Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsui
 ◼️
 
 [Data](articles/8d9c120a.json)
+
+[Extended Data](ext_articles/8d9c120a.ext.json)
 
 ---
 
@@ -560,21 +638,31 @@ In this case, political sources say that if Vijayadasa Rajapaksa loses the membe
 
 ---
 
-### තලෙයිමන්නාරමේ සිට ධනුෂ්කොඩි දක්වා පිහිනන්න ගිය ඉන්දියානුවන් 31ගෙන් අයේ මරුට
+### 31 Indians killed in Talaimannar to Dhanushkadi
 
 *2024-04-24 12:18:44* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරමේ-සිට-ධනුෂ්කොඩි-දක්වා-පිහිනන්න-ගිය-ඉන්දියානුවන්-31ගෙන්-අයේ-මරුට/11-409238) · `si`
 
-තලෙයිමන්නාරම් සිට ඉන්දියවේ ධනුෂ්කොඩි අරිචල්මුනෙයි දක්වා වූ මුහුදු සීමාව පිහිණමින් තරණය කිරීමින් සිටි ඉන්දියානුවන් 31 දෙනෙකුගෙන් ඒක් අයෙකු පිහිනමින් සිටියදී ඇති වූ හදීසි රෝගි තත්වයක් හේතුවෙන් මිය ගෙස් ඇතැයි රාමේෂ්වරන් පොලීසිය ඉන්දීය මාධ්‍ය වෙතට පවසා ඇත.
+31 Indians drowned near Talaimannar; a 78-year-old from Bangalore died due to heart disease. Rameshwaran police are investigating.
 
-අදාල ඉන්දියානුවන් ඊයේ (23) දින ඉන්දියාවේ ධනුෂ්කොඩි සිට තලෙයිමන්නරම් දක්වා බොට්ටුවකින් පැමිණ තලෙයිමන්නරම් සිට ධනුෂ්කොඩි අරිචල්මුනෙයි දක්ව වූ මුහුදු සීමාව පිහිනා තරණය කිරීම ආරම්භ කරන ලදි.
+🟩
 
-එහිදී 31 දෙනාගෙ කණ්ඩායමේ වායෝවෘද්ද පුද්ගලයෙකු වූ 78 හැවිරිදි ඉන්දියාවේ බැංගලෝරයේ පදිංචි ගෝපාල් රාඔි හට පිහිනමින් සිටයදී පපුවේ ඇති වූ හදීසි රෝගී තත්වයක් හේතුවෙන් පිහිනීම නවතා ඔවුන්ගේ බෝට්ටුවට ඇතුල්කර ගත්තද බොට්ටුව තුලදී මිය ගොස් තිබුණි.
+The Rameshwaran police have told the Indian media that a person has killed a tradiation in a palace that a person had been swimming from the Talaimannar from Talaimannar.
 
-මේ හේතුවෙන් ධනුෂ්කෙඩි දක්වා පිහිණමින් සිටි අනෙක් ඉන්දීය ජාතිකයින් 30 දෙනාද ඔවුන්ගේ පිහිනීම නවතා නැවත බේට්ටුව මගින් ධනුෂ්කොඩි දක්වා ගොස් ඒ පිළිබඳව රාමේෂ්වරන් පොලීසියට දැනුම් දෙනු ලැබීය.
+The Indians came from Dhanushkody from Dhanushkody from Dhanushkody, India to Talaiimanaram from Talaimannar to Talaimanaram to Talaimanaram from Talaimannar.
 
-...
+The 78-year-old Bangalore, a 78-year-old Bangalore, a man of the 31st of the team, had died in the boat, but also in the boat.
+
+As a result, the 30 Indian nationals who were swimming up to Dichchkedi and stopped their swimming and returned to Dhanushkadi to Rameshwaran.
+
+The post mortem examination was revealed that the death had occurred due to a heart disease in the Law.
+
+However, Rameshwaran police had taken steps to take a wide inquiry and commence a broader investigation into the incident.
+
+◼️
 
 [Data](articles/a326f73e.json)
+
+[Extended Data](ext_articles/a326f73e.ext.json)
 
 ---
 
@@ -2179,75 +2267,5 @@ Three-wheeler regulations of the Western Province have been made up to June 30s 
 [Data](articles/c8e1369f.json)
 
 [Extended Data](ext_articles/c8e1369f.ext.json)
-
----
-
-### Mattala airport privatization: Cabinet decision this week
-
-*2024-04-24 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mattala-airport-privatization-Cabinet-decision-this-week/108-281247) · `en`
-
-Colombo, April 24 (Daily Mirror) - The Cabinet is likely to endorse a proposal this week on the transfer of the management of Sri Lanka’s second largest Mattala international airport, a top official said.
-
-The Ports, Shipping and Aviation Ministry has already submitted the Cabinet proposal in this regard to be considered at the next sitting expected later this week.
-
-The airport built with a Chinese loan of US $ 307 million has been running up heavy losses. The area where it's located — Mattala — is close to Hambantota, now meant to become the country's new commercial and transportation hub.
-
-The airport is currently used for handling chartered tourist flights from Russia and some Central Asian countries.
-
-◼️
-
-[Data](articles/9ed06737.json)
-
-[Extended Data](ext_articles/9ed06737.ext.json)
-
----
-
-### Sri Lanka education reforms to involve input of professionals, other stakeholders
-
-*2024-04-24 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-education-reforms-to-involve-input-of-professionals-other-stakeholders-159819/) · `en`
-
-ECONOMYNEXT — Proposed education reforms in Sri Lanka will involve not just education experts but will also welcome input from other professionals, President Ranil Wickremesinghe said calling for collaboration between all stakeholders.
-
-Politicising education would inevitably lead to Sri Lanka’s downfall, said, calling for collaborations to devise the most effective education system for the country within the next two to three years.
-
-Wickremesinghe made these remarks at the 10th Biennial Conference of the All Island Professional Lecturers’ Association (APLA), held at the Nelum Pokuna Theater in Colombo on Tuesday April 23.
-
-The government’s forthcoming education reforms would not solely involve education experts but would also welcome input from school teachers, professionals in the economic sector, and organisations like the APLA, Wickremesinghe said calling for inclusive dialogue in shaping the future of education.
-
-...
-
-[Data](articles/594cefee.json)
-
-[Extended Data](ext_articles/594cefee.ext.json)
-
----
-
-### Notice on Recruitment of Graduate Teachers
-
-*2024-04-24 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195911) · `si`
-
-The Ministry of Education has announced recruitment for graduate teachers in national schools, focusing on Sinhala, Tamil, and English. Interviews will be held from April 29th to May 9th. The Ceylon Teachers Union criticizes the lack of formal structures to address teacher shortages.
-
-🟩
-
-The Ministry of Education has issued a special announcement for joining national schools in the island.
-
-For teachers of Sinhala, Tamil and English vacancies exist in national schools
-
-The announcement has been issued regarding the recruiting grade 3-1 (a) graduates from 3-1 (a) graduates.
-
-Accordingly, recruiting interviews will be held on the 29th of April to 9 May from 29th April to 9 May from April 29th of April.
-
-The list of qualified and calling letter has been published on the website of the Ministry of Education.
-
-Meanwhile, the Ceylon Teachers Union states that the Educational Authorities have not made any formal structures to cover the shortage of teachers in the school system.
-
-Chairman Joseph Starling said that the recruitment teachers have not been placed in a systematic place.
-
-◼️
-
-[Data](articles/f97275a3.json)
-
-[Extended Data](ext_articles/f97275a3.ext.json)
 
 ---

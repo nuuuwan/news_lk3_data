@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 10:18:45**
+As of **2024-04-24 10:34:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,587 (100.0%) of 20,590 articles have been extended.
+20,590 (100.0%) of 20,590 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,29 +48,37 @@ Following his arrest, the suspect was produced before the Puttalam Magistrate's 
 
 [Data](articles/45c446dd.json)
 
+[Extended Data](ext_articles/45c446dd.ext.json)
+
 ---
 
-### ටික්ටොක් ගැන අමෙරිකාව දැඩි තීරණයක් ගනී
+### America makes a severe decision about Ticktock
 
 *2024-04-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195917) · `si`
 
-ටික්ටොක් තහනම් කිරීම සඳහා මඟ පෑදෙන පනත් කෙටුම්පත සඳහා අමෙරිකානු සෙනෙට් මණ්ඩලය සිය අනුමැතිය ලබාදී තිබේ.
+The American Senate approved a bill banning Ticktock, with Bitdans given 9 months to sell parts. The bill requires Chinese approval for selling shares. 79 senators voted for the ban, with 18 opposing. Bitdans claims 107 million Ticktock users in the US, affecting ownership. Ticktock contributes $24 billion annually to the US economy.
 
-ටික්ටොක් හිමිකරු වන බයිට්ඩාන්ස් සමාගමට ඒ අනුව එම මෙවලමේ තමන් සතු කොටස් විකිණීමට මාස 9ක කාලයක් ලබාදී ඇති අතර එම කාලය තුළ කොටස් විකිණීම සිදුනොකළහොත් ටික්ටොක් අමෙරිකාව තුළ තහනම් කිරීමට නියමිතය.
+🟩
 
-මෙම පනත් කෙටුම්පත නුදුරේදීම අනුමැතිය සඳහා ජනාධිපති ජෝ බයිඩන් වෙත ඉදිරිපත් කිරීමට නියමිත අතර ඔහු පවසා ඇත්තේ තමාට එය ලැබුණු විගස ඊට සිය අත්සන තබා එය නීතියක් බවට පත්කරන බවයි.
+The American Senate has given his approval for the Bill that leads to banning ticktock.
 
-එය එසේ සිදුකළහොත් ටික්ටොක් කොටස් විකිණීම සඳහා බයිට්ඩාන්ස් සමාගමට චීන බලධාරීන්ගේ අනුමැතිය ලබාගත යුතුය. ඔවුන් පවසන්නේ මෙය කොටස් විකිණීමට බලහත්කාරය පෑමක් ලෙසයි.
+According to the Ticktock owner, Bitdans, has been given to nine months for 9 months, to sell his parts for the tool.
 
-ටික්ටොක් තහනම සඳහා සෙනෙට් මණ්ඩලයේ 79 දෙනෙක් පක්ෂව ඇති අතර විරුද්ධ වී ඇත්තේ 18ක් පමණි.
+The bill is to be produced before President Joe Biday, who has been sent to President Joe Biday, to the approval.
 
-ටික්ටොක් භාවිත කරන්නන් මිලියන 107ක් අමෙරිකාවේ සිටින අතර එය තහනම් කළහොත් ඔවුන්ගේ නිදහස් භාෂණයට ඇති අයිතියට බලපෑම් ඇතිවන බවත් එමගින් ව්‍යාපාර මිලියන 7කට බලපෑම් ඇතිවිය හැකි බවත් බයිට්ඩාන්ස් සමාගම පැවසීය.
+If it was done, Bitdans must obtain the approval of the Chinese authorities for selling ticktock shares. They say that this is a force to sell parts.
 
-එසේම ටික්ටොක් මගින් වාර්ෂිකව අමෙරිකානු ආර්ථිකයට බිලියන 24ක දායකත්වයක් ලබාදෙන බවද සඳහන් ය.
+There are 79 people in the Senate for the Ticktock ban and only 18 have been opposed.
+
+The Bitdans said that 107 million tickrok users were in the United States and that their free speech could influence their ownership.
+
+Ticktock also contributes Rs. 24 billion to the American economy annually.
 
 ◼️
 
 [Data](articles/6070779c.json)
+
+[Extended Data](ext_articles/6070779c.ext.json)
 
 ---
 
@@ -93,6 +101,8 @@ Following Nandasena’s demise, the Acting Secretary General of Parliament infor
 ◼️
 
 [Data](articles/a9be6d39.json)
+
+[Extended Data](ext_articles/a9be6d39.ext.json)
 
 ---
 

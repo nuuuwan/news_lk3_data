@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 16:50:24**
+As of **2024-04-24 17:03:31**
 
 ## Newspaper Stats
 
-*Scraped **20,693** Articles*
+*Scraped **20,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,723
-tamilmirrorlk | 2,393
+adalk | 1,724
+tamilmirrorlk | 2,394
 adaderanalk | 2,467
 virakesarilk | 3,109
 dailymirrorlk | 3,229
@@ -26,47 +26,75 @@ adaderanasinhalalk | 3,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,691 (100.0%) of 20,693 articles have been extended.
+20,693 (100.0%) of 20,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### කොළඹ ප්‍රධාන මාර්ගයකට බෝ අත්තක් කඩාවැටෙයි
+### Foxhill அனர்த்தம்: 2 சாரதிகளுக்கு பிணை
+
+*2024-04-24 16:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-பிணை/76-336288) · `ta`
+
+தியத்தலாவ நரியகந்தவில் இடம்பெற்ற “Foxhill Super Cross Race” கார் விபத்து தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த போட்டியாளர்கள் இருவருக்கும்  பண்டாரவளை  நீதிமன்ற நீதவான்  அன்டனி எஸ்.பீட்டர் ஃபால் பிணையில் செல்ல உத்தரவிட்டுள்ளார்
+
+தியத்தலாவ நரியகந்த ஃபாக்ஸ்ஹில் மோட்டார் பந்தயத்தில் 5ஆம் இலக்கத்தின் கீழ் போட்டியிட்ட மாத்தறை மெதபாறை ஹித்தெட்டிய பிரதேசத்தைச் சேர்ந்த ரஞ்சித் உடுவ் (36), மற்றும் 196 ஆம் இலக்கத்தின் கண்டி பேராதனை மாகந்தவைச் சேர்ந்த ஏ.எம்.டிலான் சஞ்சீவ (47) ஆகியோர் போட்டியிட்டனர்.
+
+இலங்கை மோட்டார் பந்தய சங்கம் மற்றும் தியத்தலாவ இராணுவ விஞ்ஞான பீடத்தினால் ஏற்பாடு செய்யப்பட்ட, ஈஸ்டர் தாக்குதலுக்குப் பின்னர் 21 ஆம் திகதி மீண்டும் ஆரம்பமான Foxhill மோட்டார் மற்றும் மோட்டார் சைக்கிள் போட்டிகள் தியத்தலாவ நர்யகந்த மோட்டார் பந்தயப் பாதையில் நடைபெற்றது.
+
+...
+
+[Data](articles/99c4ac85.json)
+
+---
+
+### Colombo main road collapses
 
 *2024-04-24 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195933) · `si`
 
-කොළඹ සංඝරාජ මාවත අසළ පිහිටි විහාරයක බෝ ගසක අත්තක් කඩාවැටීමෙන් මීට සුළු මොහොතකට පෙර අනතුරක් සිදුව තිබේ.
+Colombo's main road collapsed, damaging a lorry and a three-wheeler. A tree near Sangharaja Mawatha fell, injuring one person hospitalized.
 
-ශ්‍රී සංඝරාජ බෝධිමළු විහාරයේ බෝ ගසේ අත්තක් මෙලෙස කඩා වැටී ඇත.
+🟩
 
-බෝ ගසේ අත්ත කඩාවැටීමෙන් ලොරි රථයකට සහ ත්‍රිරෝද රථයකට හානි සිදුව තිබේ.
+A bunch of a breed of breeding tree near Sangharaja Mawatha near the collapse has been accidental.
 
-අනතුරින් තුවාල ලැබූ එක් අයෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+A branch in the Bodhi Viharaya of the Sri Sangaraja Bodhiralu Vihara has collapsed.
+
+A lorry and three-wheeler were damaged by the collapse of the breeding tree.
+
+One person who was injured in the accident has been hospitalized for treatment.
 
 ◼️
 
 [Data](articles/f7197926.json)
 
+[Extended Data](ext_articles/f7197926.ext.json)
+
 ---
 
-### කරාපිටියට අලුත් CT ස්කෑන් යන්ත්‍රයක්
+### A new CT scanner for Karapitiya
 
 *2024-04-24 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195932) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහලේ අළුතින් ස්ථාපිත කරන ලද රුපියල් මිලියන 220ක වටිනාකමකින් යුතු CT ස්කෑන් යන්ත්‍රය ප්‍රතිකාර සේවාවන් සඳහා එක්කිරීම අද (24) සිදුකෙරිණි.
+Karapitiya Teaching Hospital received a Rs. 220 million CT scanner from Japan, donated by Dr. Ramesh Pathirana, Minister of Health and Industry. It's expected to perform over 40 CT scans and will aid future inspections. The Health Ministry has allocated resources for development and medical equipment next year.
 
-ඒ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙනි.
+🟩
 
-ජපානයේ නිෂ්පාදිත අති නවීන තාක්ෂණයෙන් යුත් මෙම CT ස්කෑන් යන්ත්‍රය සෞඛ්‍ය අමාත්‍යාංශයේ මූල්‍ය ප්‍රතිපාදන යටතේ කරාපිටිය ශික්ෂණ රෝහලට ලබාදී ඇත.
+CT Scanner with a value of Rs. 220 million to the treatment of Rs.
 
-එමගින් දිනකට CT ස්කෑන් පරීක්ෂණ 40 ක් 50 ක් වැනි ප්‍රමාණයක් සිදු කිරිමට අපේක්ෂා කරනු ලබන අතර, ඉදිරියේදී එම සීමාව ඉක්මවා පරීක්ෂණ සිදුකිරිමට හැකිවනු ඇති බවත් මේ හරහා දැනට CT ස්කෑන් පරීක්ෂණ කටයුතු සඳහා වන පොරොත්තු ලේඛණ අවම කරගැනීමට හැකියාව ලැබෙනු ඇති බවටද බලාපොරොත්තු වෙයි.
+Dr. Ramesh Pathirana, Minister of Health and Industry.
 
-මෙහිදී අදහස් දැක්වූ අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ඉදිරි වසර තුළ රෝහලේ භෞතික සම්පත් සංවර්ධනයට සහ සමස්ත වෛද්‍ය උපකරණ වෙනුවෙන් රුපියල් කෝටි 100ක වෙන් කර ඇති බවය.
+The CT scanner with the modern technology made in Japan has been handed over to the Karapitiya Teaching Hospital under the financial provisions of the Health Ministry.
+
+It hopes to do more than 40 ct scan tests and will be able to conduct inspections in the future.
+
+The Minister further stated that the next year the physical resources have been allocated for development and overall medical equipment.
 
 ◼️
 
 [Data](articles/32181e6d.json)
+
+[Extended Data](ext_articles/32181e6d.ext.json)
 
 ---
 
@@ -1404,6 +1432,24 @@ Investigations have revealed that the suspect has been the former accountant of 
 
 ---
 
+### අපිට රෙදි අඳින්න කියන අය ජනතාව ඉදිරියේ රෙදි ගලවගන්න යනවා
+
+*2024-04-24 11:36:07* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-රෙදි-අඳින්න-කියන-අය-ජනතාව-ඉදිරියේ-රෙදි-ගලවගන්න-යනවා/11-409233) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය වෙන්දේසි කිරීමට පුරුද්ද ඇති අය විසින්, එම පුරුද්ද  තමන් වෙත ආදේශ කිරීම පිළිබඳව අතිශයින් කණගාටුවන බව ශ්‍රී ලංකා නිදහස් පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂ්මන් පියදාස මහතා සඳහන් පැවසීය.
+
+මහනුවර දී මාධ්‍ය හමුවේ අදහස් දක්වමින් ඊයේ (23) ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති  මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මේ බව සඳහන් කළේය.
+
+තවදුරටත් අදහස් දැක්වූ මහාචාර්යවරයා මෙසේද කීය. අපි යන එන වාහන පිළිබඳව, කොළඹ නුවර යන හැටි පිළිබඳවා ජනතාව දන්නවා. අපිව පාර තොටේදි හමුවිය හැකියි, අපි ඉන්න හැටි, කන බොන හැටි ජීවත් වෙන හැටි ජනතාව දන්නවා, කෝටිපතියෙක්  නම්, ගිණුම් වාර්තා සියල්ල සොයා බලා ගැනීමට කටයුතු කිරීමට අවස්ථාවත් තිබෙනවා.
+
+මේ රටේ මිනිස්සුන්ගේ ප විදුලිය බිල ගෙවා ගත නොහැකි  අවස්ථාවක, තමන්ගේ නිවසේ රුපියල් ලක්ෂ ගණනක විදුලි බිල, ආණ්ඩුවේ මුදලින් ගෙවල් ගෙවන්න කිව්ව  කියලා මාධ්‍ය මගින් වාර්තා කරනවා. ඒ විදහට තමයි, අපිට රෙදි ඇඳගෙන කතා කරන්න කියන අය, ජනතාව ඉදිරියේ රෙදි ගලවා ගන්න දඟලන්නේ.
+
+...
+
+[Data](articles/cb47b3d1.json)
+
+---
+
 ### The Wilgamuwa Police Meets the Missing Fire
 
 *2024-04-24 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195921) · `si`
@@ -2241,63 +2287,5 @@ The list of names of eligible candidates, letters calling for interviews, interv
 [Data](articles/5cdedebd.json)
 
 [Extended Data](ext_articles/5cdedebd.ext.json)
-
----
-
-### Uma Oya Multipurpose Development Scheme: What is the government and the people?
-
-*2024-04-24 09:17:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1dqlrmn8o) · `si`
-
-The Uma Oya Multipurpose Development Scheme, opened on April 24, aims to generate 120 MW hydro power and supply water to 15,000 acres in Badulla and Moneragala districts, benefiting Badulla, Moneragala, and Bandarawela. It involves President Dr. Ibrahim Rischi, Ranil Wickremesinghe, and the Iranian Islamic Republic's President. Despite providing benefits, it has led to the displacement of 8,000 houses and the loss of water for 4,500 farmers, with compensation and alternate land promised.
-
-🟩
-
-It contains nothing here.eidio heads, '' Eight wells sat down. More than 8,000 houses exploded. 4500 farmers lost water. "
-
-Uma Oya Multipurpose Development Scheme: What is the government and the people?
-
-The Uma Oya Multipurpose Development Scheme was opened today (April 24) with the participation of President Dr. Ibrahim Rischi, Ranil Wickremesinghe and the President of Iranian Islamic Republic.
-
-It produces 120 MW of hydro power and water supply for 15,000 acres of paddy lands in Badulla and Moneragala districts.
-
-The project also provides drinking water to Badulla, Moneragala and Bandarawela areas.
-
-The project has taken steps to obtain compensation and alternate land to the loss of land and property due to this project.
-
-◼️
-
-[Data](articles/be400693.json)
-
-[Extended Data](ext_articles/be400693.ext.json)
-
----
-
-### Massive change in Colombo today
-
-*2024-04-24 09:03:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கொழும்பில்-பாரிய-மாற்றம்/175-336256) · `ta`
-
-Iran's President visits Sri Lanka for Uma Oya project opening. Colombo faces multiple road closures today, affecting traffic from 2 pm to 10.30 pm.
-
-🟩
-
-The President of Iran is visiting Sri Lanka this morning to open the Uma Oya project.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the special security program in Colombo will be closed on several occasions.
-
-The Katunayake -Colombo Highway will be closed today (24) from 2 pm to 3 pm, police said.
-
-Also, from the high speed road, Peliyagoda, Okudavatta Junction, Dematagoda, Borella, TS Senanayake Junction, Horton Place, Hortton Circle, Green Bath, Library Circle, Ananda Kumaraswamy MawathaThe road from the Fort to Fort, the Hilton Hotel will be closed.
-
-The Colombo Lotus circuit will be closed after 3.30 pm and several roads, including the Galle Road, will be closed from 6.00 pm to 6.30 pm.
-
-After 7.30 pm, the road to the Fort President's House will be closed and several roads will be closed from Colombo Fort at 9.30 pm.
-
-Steps will be taken to close the Katunayake Highway from 9.30 pm to 10.30 pm, police said.
-
-...
-
-[Data](articles/8d8253a8.json)
-
-[Extended Data](ext_articles/8d8253a8.ext.json)
 
 ---

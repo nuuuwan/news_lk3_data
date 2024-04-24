@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 19:18:43**
+As of **2024-04-24 19:34:13**
 
 ## Newspaper Stats
 
-*Scraped **20,719** Articles*
+*Scraped **20,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,728
+adalk | 1,729
 tamilmirrorlk | 2,394
-adaderanalk | 2,469
+adaderanalk | 2,470
 virakesarilk | 3,120
-dailymirrorlk | 3,231
+dailymirrorlk | 3,232
 adaderanasinhalalk | 3,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,719 (100.0%) of 20,719 articles have been extended.
+20,719 (100.0%) of 20,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Imported milk powder prices to be reduced from tomorrow
+
+*2024-04-24 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imported-milk-powder-prices-to-be-reduced-from-tomorrow/108-281295) · `en`
+
+Colombo, April 24 (Daily Mirror) - Milk powder importers announced a reduction in the selling price of imported milk powder with effect from tomorrow.
+
+As a result, the retail price of a kilogram packet of milk powder will be reduced by between Rs. 250 and Rs. 300.
+
+Additionally, the selling price of a 400-gram milk powder packet will be lowered by between Rs. 100 and Rs. 130.
+
+◼️
+
+[Data](articles/c5dde61d.json)
+
+---
+
+### Price of imported milk powder reduced
+
+*2024-04-24 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98822/price-of-imported-milk-powder-reduced) · `en`
+
+The price of imported milk powder will be reduced with effect from tomorrow (25), according to the Milk Powder Importers’ Association.
+
+Accordingly, the price of a 01 kilogram pack of imported milk powder will drop by Rs. 250 while the price of 250 grams pack will be slashed by Rs. 100.
+
+◼️
+
+[Data](articles/cab71df0.json)
+
+---
 
 ### Sahran's policy may still be in the country -Ratana Thera
 
@@ -201,6 +231,20 @@ During his one-day official visit, President Raisi participated in a public cere
 [Data](articles/b818d191.json)
 
 [Extended Data](ext_articles/b818d191.ext.json)
+
+---
+
+### ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු තවත් ගම්මාන 04ක් ලගදීම ජනතා අයිතියට
+
+*2024-04-24 17:59:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියානු-ආධාර-යටතේ-ඉදිකෙරුණු-තවත්-ගම්මාන-04ක්-ලගදීම-ජනතා-අයිතියට/11-409244) · `si`
+
+ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු තවත් ගම්මාන 04ක් ලගදීම ජනතා අයිතියට පත් කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි. කොළඹ, රත්නපුර, ත්‍රිකුණාමලය හා මොනරාගල දිස්ත්‍රික්ක වල ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු ගම්මාන මෙලෙස විවෘත කිරීමට නියමිතය.
+
+ඉන්දියානු රජයේ ආධාර මත දිවයින පුරා ක්‍රියාත්මක ගම්මාන 101කින් ගම්මාන 07ක නිවාස ඉදිකිරීම් අවසන් කොට මේ වන විට ජනතා අයිතියට පත් කර තිබෙන බව ද ඇමති ප්‍රසන්න රණතුංග මහතා පවසයි. මෙලෙස ජනතා අයිතියට පත් කර ඇත්තේ මඩකලපුව, යාපනය, ගම්පහ, මහනුවර, වව්නියාව, බදුල්ල සහ අනුරාධපුර දිස්ත්‍රික්කවල ඉන්දියානු රජයේ ආධාර යටතේ ඉදිකළ ගම්මානයි.ඊට අමතරව තවත් ගම්මාන 90ක නිවාස 1,668ක ඉදිකිරීම් කටයුතු මේ වන විට කඩිනම් කර තිබේ. මෙම ව්‍යාපෘතිය යටතේ මේ වන විට ඉදිකිරීම් අවසන් කර ඇති නිවාස 732කි.
+
+...
+
+[Data](articles/561698c2.json)
 
 ---
 
@@ -2257,67 +2301,5 @@ Significantly, he said, "We have to hold two debates, and one includes the leade
 [Data](articles/05977e8a.json)
 
 [Extended Data](ext_articles/05977e8a.ext.json)
-
----
-
-### Iranian President arrives in Sri Lanka
-
-*2024-04-24 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-President-arrives-in-Sri-Lanka/108-281257) · `en`
-
-President of the Islamic Republic of Iran Dr. Ebrahim Raisi arrived at the Mattala Rajapaksa International Airport (MRIA) a short while ago for the opening of the the Uma Oya Multipurpose Development Project.
-
-He was welcomed at the Mattala Airport by PM Dinesh Gunawardane.
-
-During his one-day official visit, President Raisi will inaugurate the Uma Oya Multipurpose Development Project (UOMDP).
-
-◼️
-
-[Data](articles/75d3f176.json)
-
-[Extended Data](ext_articles/75d3f176.ext.json)
-
----
-
-### Iran President lands in Sri Lanka to open hydro-electric project
-
-*2024-04-24 10:43:00* · [`economynextcom`](https://economynext.com/iran-president-lands-in-sri-lanka-to-open-hydro-electric-project-159851/) · `en`
-
-ECONOMYNEXT – Iran President Seyyed Ebrahim Raisi has landed in Sri Lanka’s Mattala Rajpaksa International Airport in a Airbus A340 aircraft.
-
-President Raisi will inaugurate a 514 million dollar irrigation and hydropower project that was designed and built by Iranian engineering firm and was also initially financed before international sanctions hit the project.
-
-The Uma Oya multi-purpose project is expected to generate 290 GigaWatt hours of energy, irrigate 6,000 hectares of agricultural land and provide drinking and industrial water.
-
-It was designed and built by Iran’s Farab Engineering group.
-
-Sri Lanka and Iran are also expected to sign five agreements during the visit. (Colombo/Apr24/2024)
-
-◼️
-
-[Data](articles/f1fe7d9e.json)
-
-[Extended Data](ext_articles/f1fe7d9e.ext.json)
-
----
-
-### Iranian President Dr. Ebrahim Raisi arrives in Sri Lanka
-
-*2024-04-24 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98808/iranian-president-dr-ebrahim-raisi-arrives-in-sri-lanka) · `en`
-
-President of Iran, Dr. Ebrahim Raisi arrived in Sri Lanka on Wednesday morning (24) for a one-day visit.
-
-He was accorded a cordial welcome by Prime Minister Dinesh Gunawardena at the Mattala International Airport.
-
-At the invitation of President Ranil Wickremesinghe, the Iranian president arrived in Sri Lanka after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka after former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-During his brief stay on the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
-
-The project will add 290 GWh to the national grid, while supplying water to 6,000 hectares (15,000 acres) of farmland and drinking water to thousands of families in three districts.
-
-...
-
-[Data](articles/045d403c.json)
-
-[Extended Data](ext_articles/045d403c.ext.json)
 
 ---

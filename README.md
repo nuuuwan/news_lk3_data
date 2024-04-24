@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 13:03:35**
+As of **2024-04-24 13:18:38**
 
 ## Newspaper Stats
 
-*Scraped **20,652** Articles*
+*Scraped **20,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,66 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,719
+adalk | 1,720
 tamilmirrorlk | 2,388
 adaderanalk | 2,461
 virakesarilk | 3,101
-dailymirrorlk | 3,221
-adaderanasinhalalk | 3,340
+dailymirrorlk | 3,223
+adaderanasinhalalk | 3,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,649 (100.0%) of 20,652 articles have been extended.
+20,652 (100.0%) of 20,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### டிக்டாக் தடை?
+### අමෙරිකාවෙන් ඉරානය ගැන අනතුරු ඇඟවීමක්
+
+*2024-04-24 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195925) · `si`
+
+ඉරානය සමග වෙළෙඳ ගනුදෙනු සිදුකරන රටවල්වලට එරෙහිව සම්බාධක පැනවීමේ අවදානමක් ඇතැයි අමෙරිකාව අද අනතුරු ඇඟවීය.
+
+අමෙරිකාව මෙම අනතුරු ඇඟවීම සිදුකළේ ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි පාකිස්තානයේ දින 3ක සංචාරය අද (24) නිමකර ශ්‍රී ලංකාව බලා පිටත් වීමෙන් පසුවය.
+
+ඉරාන ජනාධිපතිවරයාගේ සංචාරය අතරතුරදී පාකිස්තානය සහ ඉරානය අතර අවබෝධතා ගිවිසුම් 8ක් අත්සන් කෙරුණු අතර දෙරට අතර වෙළෙඳාම ඩොලර් බිලියන 10ක් දක්වා වැඩිකිරීමට ද ඉන් යෝජනා කර තිබුණි.
+
+ඉරාන ජනපතිවරයා සඳුදා (22) පාකිස්තානයට පැමිණියේය. ඔහුගේ සංචාරයේ එක ප්‍රධාන අරමුණක් ලෙස සඳහන් වූයේ දෙරට අතර පැවති ගැටලු නිරාකරණය කර ගැනීම ය.
+
+මෙම වසර මුලදී ඉරානය සහ පාකිස්තානය එකිනෙකාට ප්‍රහාර එල්ලකර ගත්තේය.
+
+◼️
+
+[Data](articles/d6b810ce.json)
+
+---
+
+### Dictac barrier?
 
 *2024-04-24 12:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிக்டாக்-தடை/50-336275) · `ta`
 
-டிக்டாக் செயலியை தடை செய்வதற்கான சட்டத்தை அமெரிக்காவின் பாராளுமன்ற மேலவை நிறைவேற்றியுள்ளது. டிக்டாக் செயலியின் தாய் நிறுவனமாக சீனாவின் ByteDance நிறுவனம் 9 மாதங்களுக்குள் டிக்டாக்கின் அமெரிக்க பங்குகளை விற்காவிட்டால், அதை தடை செய்ய இச்சட்டம் வழிவகை செய்கிறது.
+The US has banned Dictac, a processor developed by China's BYTEDANCE, affecting its US shares. The law alleges that Dictac sends user data to China without consent, impacting TikTok's user base. BYTEDANCE has been accused of secret data collection. The revised law extends BYTEDANCE's deadline to sell Dictac, aiming to prevent control over TikTok's data.
 
-டிக் டாக் செயலி தன்னுடைய பயனாளர்களின் பெரும்பாலான தகவல்களைச் சீனாவிடம் கொடுக்கிறது என அமெரிக்காவில் வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+🟩
 
-இந்த நிறுவனம் பயனாளர்களின் அனுமதியின்றி இரகசியமாகத் தகவல்களை எடுக்கிறது என வழக்கில் குற்றம் சுமத்தப்பட்டுள்ளது. பைட்டான்ஸ் என்ற சீன நிறுவனத்தைத் தாய் நிறுவனமாகக் கொண்ட டிக்டாக் அமெரிக்காவில் நிறையப் பயனாளர்களைக் கொண்டுள்ளது.
+The US has passed the law of banning the Dictac processor. China's BYTEDANCE company as the mother of the Dicttac processor, the law provides for a ban on Dicttac's US shares within 9 months.
 
-கலிஃபோர்னியாவில் பதிவு செய்யப்பட்ட வழக்கில் டிக்டாக் செயலி இரகசியமாகப் பயனாளர்களின் பெரும்பாலான தனிப்பட்ட மற்றும் தனிநபரை அடையாளம் காணும் வகையான தகவல்களைச் சீனாவுக்கு அனுப்புகிறது எனக் கூறப்பட்டுள்ளது.
+The US has filed a case in the United States that the Dick Doc processor gives China most of its users.
 
-...
+The company has been accused of taking information in secret without the permission of the beneficiaries. Dictak, a mother -in -law, is a Chinese company, Bittac, has a lot of users in the United States.
+
+In the case of registered in California, the Dictac processor secretly sends information to China to identify most of the beneficiaries.
+
+The revised law extends the deadline to the byte dance to sell the dictok, and the sale can be extended for three months. The bill will prevent the control of Tiktok's secret sauce.
+
+◼️
 
 [Data](articles/4959047a.json)
+
+[Extended Data](ext_articles/4959047a.ext.json)
 
 ---
 
@@ -124,7 +152,7 @@ Actress Damitha Abeyratne and her husband were granted bail on the orders of the
 
 Accordingly, the couple was released on surety bonds of Rs. 5 million each.
 
-The actress and her spouse, who had been wanted by the CID, were arrested on 04 April after they appeared before the court.
+The actress and her spouse, who had been wanted by the CID, were arrested on 04 April after they appeared before the court and were kept in remand custody.
 
 The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
 
@@ -150,6 +178,8 @@ President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr
 
 [Data](articles/7e34497a.json)
 
+[Extended Data](ext_articles/7e34497a.ext.json)
+
 ---
 
 ### Sri Lankan and Iranian presidents inaugurate Uma Oya project
@@ -163,6 +193,20 @@ President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr
 [Data](articles/8b4b225d.json)
 
 [Extended Data](ext_articles/8b4b225d.ext.json)
+
+---
+
+### Uma Oya Development Project inaugurated
+
+*2024-04-24 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-Development-Project-inaugurated/108-281279) · `en`
+
+The President of the Islamic Republic of Iran, Dr. Ebrahim Raisi and President Ranil Wickremesinghe jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) a short while ago.
+
+This project is one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project
+
+◼️
+
+[Data](articles/f3126cd6.json)
 
 ---
 
@@ -205,6 +249,22 @@ In this case, political sources say that if Vijayadasa Rajapaksa loses the membe
 [Data](articles/254e1fb0.json)
 
 [Extended Data](ext_articles/254e1fb0.ext.json)
+
+---
+
+### Damitha, husband granted bail
+
+*2024-04-24 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Damitha-husband-granted-bail/108-281278) · `en`
+
+Colombo, April 24 (Daily Mirror) -  Popular actress Damitha Abeyratne and her husband, who were held in remand custody over an alleged financial fraud, were today ordered to be released on bail by the Colombo Fort Magistrate's Court.
+
+The two suspects were ordered to be released on a surety bail of Rs. 5 million each by Magistrate Koshala Senadheera.
+
+A police complaint had been lodged accusing Damitha and her husband of cheating Rs. 3 million by promising to provide job opportunities for several persons in Korea.
+
+◼️
+
+[Data](articles/621357a7.json)
 
 ---
 
@@ -285,6 +345,20 @@ The order was issued when a petition filed by the three against the Sri Lanka Fr
 [Data](articles/a260c184.json)
 
 [Extended Data](ext_articles/a260c184.ext.json)
+
+---
+
+### මෛත්‍රීට තවත් අතුරු තහනමක්
+
+*2024-04-24 12:02:38* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-තවත්-අතුරු-තහනමක්/11-409236) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් අද (24) ස්ථිර අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වූ මොන්ටේගු සරත්චන්ද්‍ර මහතා ඉදිරිපත් කළ පැමිණිල්ලකට අදාළව  මෙම නියෝගය නිකුත් කරනු ලැබීය. තහනම් නියෝගය නඩු විභාගය අවසන් වන තෙක් බලපැවැත්වෙයි.
+
+◼️
+
+[Data](articles/7ce2281e.json)
 
 ---
 
@@ -2159,87 +2233,5 @@ Daintee, the confectionary arm of Sunshine Consumer Lanka Ltd. (SCL), recently m
 [Data](articles/360794cd.json)
 
 [Extended Data](ext_articles/360794cd.ext.json)
-
----
-
-### Education should not be allowed to become a political football - the president
-
-*2024-04-24 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181806) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of unity in education, warning against turning it into a political tool. He highlighted the need for a comprehensive educational system that includes all stakeholders, not just academic experts. He also discussed the challenges and opportunities in integrating technology and artificial intelligence in education, aiming for a modern, export-based economy.
-
-🟩
-
-President Ranil Wickremesinghe said that if education is turned into a political football, the country will suffer a failure, so that it is necessary to unite and introduce a suitable education system for all.
-
-President Ranil Wickremesinghe said this at the 10th Annual Conference of the All Ceylon Industrial Resources Association held at the Nelum Pokuna Gallery of Colombo on Tuesday (23).
-
-The All Ceylon Occupational Resources Association (APLA) is an organization created in 2004 by the Asians of the exclusive classes that have spread throughout Sri Lanka.
-
-One of the initial members of the All Ceylon Entrepreneurs' Association and Senior Dr. K. Ariyasinghe was awarded the Senior Resources Award and other resources awards by President Ranil Wickremesinghe and the President of the President of the event.
-
-The President then joined the All Ceylon Industrial Resources Association Executive Committee members.
-
-...
-
-[Data](articles/125d3297.json)
-
-[Extended Data](ext_articles/125d3297.ext.json)
-
----
-
-### Australia and Sri Lanka further strengthen ties with launch of new joint maritime security operation
-
-*2024-04-24 02:10:50* · [`dailyftlk`](https://www.ft.lk/news/Australia-and-Sri-Lanka-further-strengthen-ties-with-launch-of-new-joint-maritime-security-operation/56-760966) · `en`
-
-Australian High Commissioner Paul Stephens (right) with Commander Joint Agency Task Force Operation Sovereign Borders, Rear Admiral Brett Sonter, RAN and Department of Sri Lanka Coast Guard Director-General Rear Admiral Pujitha Vithana at the briefing to announce the launch of new joint maritime security operation
-
-Australia and Sri Lanka’s commitment to countering maritime security threats has been on display with the launch of a new joint maritime security operation in Colombo this week.
-
-Aptly named Disi Rela, which means ‘keeping a watchful eye over the maritime environment,’ the new joint activity will see the Australian Border Force (ABF) and Department of Sri Lanka Coast Guard (SLCG) undertake a week-long program of work, from Dikkowita to Chilaw.
-
-Commander Joint Agency Task Force Operation Sovereign Borders, Rear Admiral Brett Sonter, RAN said that Disi Rela underscores the strong partnership between the two countries.
-
-...
-
-[Data](articles/e6360662.json)
-
-[Extended Data](ext_articles/e6360662.ext.json)
-
----
-
-### Rotary project awarded Global Climate Hero Award at COP28
-
-*2024-04-24 02:09:26* · [`dailyftlk`](https://www.ft.lk/news/Rotary-project-awarded-Global-Climate-Hero-Award-at-COP28/56-760965) · `en`
-
-On the sidelines of the COP28 Climate Summit, the Co-Founder of Its4U COP28 Cambridge University Alumni Dr. David Ko and Richard Busellato an Alumni of Stockholm University staged a 12-day workshop series under the branding “#Its4U” which connected the world on the projects done in different parts of the globe on initiatives for sustainability beyond ESG- Environment, Society and Governance.
-
-The preparations kick started from the Farican Climate Summit and thereafter together with World Climate School Co-Founder Inger-Mette Stenseth and then reached out to the global community to voice their views on the key initiatives from different parts of the world. Diana Mclntyre-Pike from Jamaica, Sadaf Khalid Khan the CEO of Walnut Heights Resorts in Pakistan, Dr. Rohantha Athukorala from Sri Lanka on the Rotary 1 Million Tree project were some of the key projects featured on Day 1 of the Symphony of a Billion Voices on Climate Change project.
-
-...
-
-[Data](articles/a31e6887.json)
-
-[Extended Data](ext_articles/a31e6887.ext.json)
-
----
-
-### UN rights chief ‘horrified’ by mass grave reports at Gaza hospitals
-
-*2024-04-24 02:08:18* · [`dailyftlk`](https://www.ft.lk/news/UN-rights-chief-horrified-by-mass-grave-reports-at-Gaza-hospitals/56-760964) · `en`
-
-U.N. rights chief Volker Turk said on Tuesday that he was “horrified” by the destruction of the Nasser and Al Shifa medical facilities in Gaza and reports of mass graves containing hundreds of bodies there, according to a spokesperson.
-
-Palestinian authorities reported finding scores of bodies in mass graves at Nasser hospital in Khan Younis this week after it was abandoned by Israeli troops. Bodies were also reported at the Al Shifa site following an Israeli special forces operation.
-
-“We feel the need to raise the alarm because clearly there have been multiple bodies discovered,” said Ravina Shamdasani, the spokesperson for the U.N. High Commissioner for Human Rights, adding Turk said he had been horrified by the reported mass grave discoveries and the hospitals’ destruction.
-
-“Some of them had their hands tied, which of course indicates serious violations of international human rights law and international humanitarian law, and these need to be subjected to further investigations.”
-
-...
-
-[Data](articles/618464b5.json)
-
-[Extended Data](ext_articles/618464b5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 19:34:13**
+As of **2024-04-24 19:52:29**
 
 ## Newspaper Stats
 
-*Scraped **20,722** Articles*
+*Scraped **20,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,729
-tamilmirrorlk | 2,394
+tamilmirrorlk | 2,397
 adaderanalk | 2,470
 virakesarilk | 3,120
 dailymirrorlk | 3,232
@@ -26,11 +26,39 @@ adaderanasinhalalk | 3,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,719 (100.0%) of 20,722 articles have been extended.
+20,722 (100.0%) of 20,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### பால்மாவின் விலை குறைப்பு
+
+*2024-04-24 19:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மாவின்-விலை-குறைப்பு/175-336290) · `ta`
+
+இறக்குமதி செய்யப்படும் பால்மாவின் விலை நாளை முதல் குறைக்கப்படவுள்ளதாக பால்மா இறக்குமதியாளர்கள் சங்கம் தெரிவிக்கின்றது.
+
+அத்துடன், 400 கிராம் பால்மா பக்கட்டின் விலை 100 ரூபாயினால் குறைக்கப்படவுள்ளது.  R
+
+◼️
+
+[Data](articles/0826ba8d.json)
+
+---
+
+### ஜனாதிபதி அலுவலகத்தில் ஈரான் ஜனாதிபதி
+
+*2024-04-24 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-ஈரான்-ஜனாதிபதி/175-336289) · `ta`
+
+ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி உள்ளிட்ட குழுவினர் சற்று முன்னர் ஜனாதிபதி அலுவலகத்தை வந்தடைந்தனர்.
+
+அதன்பின், ஈரான் ஜனாதிபதிக்கு முப்படையினால்   மரியாதை வேட்டுக்கள் தீர்க்கப்பட்டு  மரியாதை அளிக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/9849f7c3.json)
+
+---
 
 ### Imported milk powder prices to be reduced from tomorrow
 
@@ -46,6 +74,8 @@ Additionally, the selling price of a 400-gram milk powder packet will be lowered
 
 [Data](articles/c5dde61d.json)
 
+[Extended Data](ext_articles/c5dde61d.ext.json)
+
 ---
 
 ### Price of imported milk powder reduced
@@ -59,6 +89,8 @@ Accordingly, the price of a 01 kilogram pack of imported milk powder will drop b
 ◼️
 
 [Data](articles/cab71df0.json)
+
+[Extended Data](ext_articles/cab71df0.ext.json)
 
 ---
 
@@ -234,17 +266,23 @@ During his one-day official visit, President Raisi participated in a public cere
 
 ---
 
-### ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු තවත් ගම්මාන 04ක් ලගදීම ජනතා අයිතියට
+### Four more villages who were constructed under Indian assistance to the public
 
 *2024-04-24 17:59:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියානු-ආධාර-යටතේ-ඉදිකෙරුණු-තවත්-ගම්මාන-04ක්-ලගදීම-ජනතා-අයිතියට/11-409244) · `si`
 
-ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු තවත් ගම්මාන 04ක් ලගදීම ජනතා අයිතියට පත් කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි. කොළඹ, රත්නපුර, ත්‍රිකුණාමලය හා මොනරාගල දිස්ත්‍රික්ක වල ඉන්දියානු ආධාර යටතේ ඉදිකෙරුණු ගම්මාන මෙලෙස විවෘත කිරීමට නියමිතය.
+India aids in building 4 more villages in Sri Lanka, totaling 14 projects. 2400 houses each, costing Rs. 2400 million, with Rs. 807 million given. Indian aid also funds Sobhitha Memorial Village with Rs. 450 million, aiming for 115 houses.
 
-ඉන්දියානු රජයේ ආධාර මත දිවයින පුරා ක්‍රියාත්මක ගම්මාන 101කින් ගම්මාන 07ක නිවාස ඉදිකිරීම් අවසන් කොට මේ වන විට ජනතා අයිතියට පත් කර තිබෙන බව ද ඇමති ප්‍රසන්න රණතුංග මහතා පවසයි. මෙලෙස ජනතා අයිතියට පත් කර ඇත්තේ මඩකලපුව, යාපනය, ගම්පහ, මහනුවර, වව්නියාව, බදුල්ල සහ අනුරාධපුර දිස්ත්‍රික්කවල ඉන්දියානු රජයේ ආධාර යටතේ ඉදිකළ ගම්මානයි.ඊට අමතරව තවත් ගම්මාන 90ක නිවාස 1,668ක ඉදිකිරීම් කටයුතු මේ වන විට කඩිනම් කර තිබේ. මෙම ව්‍යාපෘතිය යටතේ මේ වන විට ඉදිකිරීම් අවසන් කර ඇති නිවාස 732කි.
+🟩
+
+Urban Development and Housing Minister Prasanna Ranatunga says that four other villages were built under Indian assistance will be vested with the public. The villages were to be opened with Indian assistance in Colombo, Ratnapura, Trincomalee and Moneragala Districts.
+
+Minister Prasanna Ranatunga says that the project is already vested with the public in 10 villages in 10 villages throughout the country on the assistance of the Government of India.. The project has been vested in the public in Batticaloa, Jaffna, Gampaha, Kandy, Kandy, Anuradhapura and Anuradhapura districts.. 732 houses have been completed under this project.
 
 ...
 
 [Data](articles/561698c2.json)
+
+[Extended Data](ext_articles/561698c2.ext.json)
 
 ---
 
@@ -2251,55 +2289,5 @@ Ibrahim Raisi, the President of the Islamic Republic, arrived at the Mathtala Ra
 [Data](articles/7387ac33.json)
 
 [Extended Data](ext_articles/7387ac33.ext.json)
-
----
-
-### The Chinese minister told Anura that the national people's power was famous among the people
-
-*2024-04-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/181817) · `ta`
-
-Chinese delegation led by Shan Hayan met with Anura Kumara Dissanayake, discussing national people's power's political development and popularity. They discussed current political situation, future elections, and strategies for building the country post-election crisis.
-
-🟩
-
-A delegation led by Shan Hayan, the International Division Representative and Minister of the Communist Party of China, met with the National People's Power President Anura Kumara Dissanayake.
-
-A team headed by Deputy Minister of the Chinese Communist Party Shan Hayn told Anura Kumara that the national people's power was politically developed and popular among the people.
-
-During the meeting, the current political situation, the future elections and the growing political conditions were discussed among the two sides.
-
-The leaders of the National People's Power pointed out the importance of creating a political assertion in the country to build the country from the crisis that has emerged from the crisis of the national people's power in the election, the instructions and the strategies that are expected to adhere to it.
-
-...
-
-[Data](articles/00e637d8.json)
-
-[Extended Data](ext_articles/00e637d8.ext.json)
-
----
-
-### Prepared for the debate; but the change in the date
-
-*2024-04-24 10:49:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவாதத்திற்கு-தயார்-ஆனால்-திகதியில்-மாற்றம்/175-336260) · `ta`
-
-Sajith Premadasa is set for a debate with Anura Kumara Dissanayake on economic policies, but not on Nalinda Jayatissa's proposed dates. Premadasa will attend Women's and Farmers' Conferences instead.
-
-🟩
-
-United People's Power Leader Sajith Premadasa is ready for a debate with the National People's Power (NPP) leader Anura Kumara Dissanayake on the policies of the two parties on economic matters but it will not be held on the date of the NPP member Nalinda Jayatissa, but it will be held in May, the United People's Power (SJB) said yesterday.
-
-Dr. Jayatissa said the NPP leader was ready on May 7, 9, 13 or 14.
-
-However, in a statement, MP Nalin Bandara said that Mr. Premadasa said that he would not participate in the debate as he would attend the Women's Conference and Farmers' Conference.
-
-Mr.. Premadasa also said that at a public meeting, he said he was ready to debate with NPP in May, but not the days of Dr. Jayatissa's proposal.
-
-Significantly, he said, "We have to hold two debates, and one includes the leaders of the two parties and the other between the economist groups of both parties," he said.
-
-◼️
-
-[Data](articles/05977e8a.json)
-
-[Extended Data](ext_articles/05977e8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 21:33:54**
+As of **2024-04-24 21:52:55**
 
 ## Newspaper Stats
 
-*Scraped **20,738** Articles*
+*Scraped **20,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,730
 tamilmirrorlk | 2,399
-adaderanalk | 2,471
+adaderanalk | 2,472
 virakesarilk | 3,125
-dailymirrorlk | 3,234
+dailymirrorlk | 3,236
 adaderanasinhalalk | 3,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,738 (100.0%) of 20,738 articles have been extended.
+20,738 (100.0%) of 20,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Iranian president meets with Sri Lankan president
+
+*2024-04-24 21:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Iranian-president-meets-with-Sri-Lankan-president/110-281298) · `en`
+
+The Iranian President, Dr. Ebrahim Raisi, and President Ranil Wickremesinghe held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat this eveining. Pix by President Media
+
+◼️
+
+[Data](articles/8e0e3f9f.json)
+
+---
+
+### Main man behind Sri Lanka – Malaysia child smuggling syndicate arrested at BIA
+
+*2024-04-24 21:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-man-behind-Sri-Lanka-Malaysia-child-smuggling-syndicate-arrested-at-BIA/108-281299) · `en`
+
+Colombo, April 24 (daily Mirror)- The chief local facilitator behind the organised child smuggling syndicate between Sri Lanka and Malaysia, which rocked the country with 17 child smuggling cases last year, was arrested by the Department of Immigration and Emigration at the Bandaranaike International Airport (BIA), when he was deported from Malaysia today.
+
+Making a breakthrough in a year-long probe by the Sri Lanka border agency, the chief local facilitator was caught in the act of transporting a 14-year-old boy with his father by the Malaysian Immigration Department last Monday, when the trio left BIA for Kuala Lumpur.
+
+A top Immigration official told the Daily Mirror their investigation division officials tracked down the main local facilitator of the syndicate a few months ago and had been closely monitoring his actions to determine his next move.
+
+...
+
+[Data](articles/903f2184.json)
+
+---
+
+### Heavy traffic in Colombo due to temporary road closure
+
+*2024-04-24 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98823/heavy-traffic-in-colombo-due-to-temporary-road-closure) · `en`
+
+Heavy traffic is reported in parts of Colombo as multiple roads remain closed due to the arrival of Iranian President Dr. Ebrahim Raisi.
+
+Security was beefed up in Sri Lanka for the arrival of the President of the Islamic Republic of Iran, with multiple roads including the Galle Road, Colombo-Katunayake expressway, and the main road from Mattala to Uma Oya being off-limits for traffic.
+
+Vehicular movement around Colombo – Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road – was restricted this evening, causing traffic congestion amidst the downpours.
+
+Earlier this evening, the Iranian leader was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry at Galle Face Green.
+
+...
+
+[Data](articles/36410129.json)
+
+---
 
 ### Heavy traffic reported in Colombo due to road closures
 
@@ -2201,73 +2247,5 @@ Iran came to Sri Lanka to open Uma Oya Multipurpose development project.
 [Data](articles/8442c05f.json)
 
 [Extended Data](ext_articles/8442c05f.ext.json)
-
----
-
-### Ten families from Ella evacuated due to impending landslide danger
-
-*2024-04-24 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-families-from-Ella-evacuated-due-to-impending-landslide-danger/108-281274) · `en`
-
-Steps were taken last morning to evacuate ten families from Karandagolla in Ella due to the danger of an impending landslide.
-
-Ella Divisional Secretary Indika Gayan Pathirana said the flow of muddy water and cracks in the hill had been noticed earlier, and they had developed despite the prevailing dry weather, signalling the possibility of a disastrous situation that required the evacuation of families from the high risk area.
-
-He said the National Building and Research Organisation (NBRO) carried out an inspection and recommended the evacuation of ten families.
-
-The Divisional Secretary further said the displaced families were provided with temporary shelter and necessary facilities.
-
-◼️
-
-[Data](articles/aa6ffb2c.json)
-
-[Extended Data](ext_articles/aa6ffb2c.ext.json)
-
----
-
-### Shakib calls back
-
-*2024-04-24 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195922) · `si`
-
-Shakib Al Hasan, former Bangladesh leader, is called back for the 2023 tournament against Zimbabwe. Bangladesh Cricket Committee head confirmed discussions with Shakib.
-
-🟩
-
-Foreign media reports that the former leader Shakib Al Hasan for the former Leader Shakib Al Hasan for the 20 overs of Bangladesh.
-
-Accordingly, he is to be summoned to the Bangladesh team to the 15th tournament with Zimbabwe.
-
-The head of the Bangladesh Cricket Committees, Head of Bangladesh, has said that he exchanged views with Shakib Al Hasan.
-
-37-year-old Shakib 20th January 2023 has not represented the group of Bangladesh.
-
-◼️
-
-[Data](articles/4466e1e9.json)
-
-[Extended Data](ext_articles/4466e1e9.ext.json)
-
----
-
-### Argentina seeks arrest of Iran minister over 1994 Jewish center bombing
-
-*2024-04-24 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98810/argentina-seeks-arrest-of-iran-minister-over-1994-jewish-center-bombing) · `en`
-
-Argentina has asked Interpol to arrest Iran’s interior minister over the 1994 bombing of a Jewish community center in Buenos Aires that killed 85 people, the foreign ministry said Tuesday.
-
-The Iranian minister, Ahmad Vahidi, is part of a delegation from Tehran currently visiting Pakistan and Sri Lanka, and Interpol has issued a red alert seeking his arrest at the request of Argentina, the ministry said in a statement.
-
-Argentina has also asked those two governments to arrest Vahidi, it added.
-
-On April 12, a court in Argentina placed blame on Iran for the 1994 attack against the AMIA Jewish community center in Buenos Aires and for a bombing two years earlier against the Israeli embassy, which killed 29 people.
-
-The 1994 assault has never been claimed or solved, but Argentina and Israel have long suspected the Iran-backed group Hezbollah carried it out at Iran’s request.
-
-Prosecutors have charged top Iranian officials with ordering the attack, though Tehran has denied any involvement.
-
-...
-
-[Data](articles/147ab426.json)
-
-[Extended Data](ext_articles/147ab426.ext.json)
 
 ---

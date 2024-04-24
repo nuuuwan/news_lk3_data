@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 19:52:29**
+As of **2024-04-24 20:05:02**
 
 ## Newspaper Stats
 
-*Scraped **20,725** Articles*
+*Scraped **20,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,729
-tamilmirrorlk | 2,397
+tamilmirrorlk | 2,398
 adaderanalk | 2,470
 virakesarilk | 3,120
 dailymirrorlk | 3,232
@@ -26,37 +26,67 @@ adaderanasinhalalk | 3,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,722 (100.0%) of 20,725 articles have been extended.
+20,725 (100.0%) of 20,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### பால்மாவின் விலை குறைப்பு
+### 250 மில்லியன் ரூபா பெறுமதியான  CT ஸ்கேனர் அறிமுகம்
+
+*2024-04-24 19:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மில்லியன்-ரூபா-பெறுமதியான-CT-ஸ்கேனர்-அறிமுகம்/175-336292) · `ta`
+
+காலி கராபிட்டிய போதனா வைத்தியசாலையானது 250 மில்லியன் ரூபா பெறுமதியான அதிநவீன CT ஸ்கேனரை அறிமுகப்படுத்தியுள்ளது.
+
+சுகாதார மற்றும் கைத்தொழில் அமைச்சர் வைத்தியர் ரமேஷ் பத்திரன தலைமையில் இன்று (24) இந்நிகழ்வு இடம்பெற்றது.
+
+ஜப்பானில் தயாரிக்கப்பட்ட இந்த அதிநவீன CT ஸ்கேனர், மருத்துவமனையின் நோய்களைக் கண்டறியும் வசதிகளுக்கு கணிசமான மேம்படுத்தலைக் குறிக்கிறது.
+
+கடந்த ஞாயிற்றுக்கிழமை முதல் இந்த ஸ்கேனர் பயன்பாட்டில் உள்ளதுடன் இப்போது தொடர்ந்து, நோயாளிகள் CT ஸ்கேன் சோதனைகள் மூலம் பயனடையலாம், மருத்துவமனை தினசரி 40 முதல் 50 ஸ்கேன்களை செய்ய தயாராக உள்ளது, இது நோய்களைக் கண்டறிய தேங்கியுள்ள நோயாளிகளின் தேவையைக் கணிசமாகக் குறைக்கிறது.
+
+◼️
+
+[Data](articles/6a00f297.json)
+
+---
+
+### A reduction in the price of milkma
 
 *2024-04-24 19:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மாவின்-விலை-குறைப்பு/175-336290) · `ta`
 
-இறக்குமதி செய்யப்படும் பால்மாவின் விலை நாளை முதல் குறைக்கப்படவுள்ளதாக பால்மா இறக்குமதியாளர்கள் சங்கம் தெரிவிக்கின்றது.
+Milkma Palma Importers Association announces a price reduction for imported milk, including a 100 rupee cut for 400 grams.
 
-அத்துடன், 400 கிராம் பால்மா பக்கட்டின் விலை 100 ரூபாயினால் குறைக்கப்படவுள்ளது.  R
+🟩
+
+Palma Importers Association says the price of imported milk will be reduced from tomorrow.
+
+In addition, the price of 400 grams of milk will be reduced by 100 rupees.R
 
 ◼️
 
 [Data](articles/0826ba8d.json)
 
+[Extended Data](ext_articles/0826ba8d.ext.json)
+
 ---
 
-### ஜனாதிபதி அலுவலகத்தில் ஈரான் ஜனாதிபதி
+### Iran's president in the presidential office
 
 *2024-04-24 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-ஈரான்-ஜனாதிபதி/175-336289) · `ta`
 
-ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி உள்ளிட்ட குழுவினர் சற்று முன்னர் ஜனாதிபதி அலுவலகத்தை வந்தடைந்தனர்.
+Ibrahim Risi, Iran's president, was honored in the presidential office by Hon. Remble.
 
-அதன்பின், ஈரான் ஜனாதிபதிக்கு முப்படையினால்   மரியாதை வேட்டுக்கள் தீர்க்கப்பட்டு  மரியாதை அளிக்கப்பட்டது. R
+🟩
+
+The President of the Islamic Republic of Ibrahim Risi, including the President of the Islamic Republic, arrived in the presidential office shortly before.
+
+Subsequently, the President of Iran was resolved and honored by the Hon.. Remble
 
 ◼️
 
 [Data](articles/9849f7c3.json)
+
+[Extended Data](ext_articles/9849f7c3.ext.json)
 
 ---
 
@@ -250,13 +280,13 @@ Minister Basil Rajapaksa has informed the President that the common decision of 
 
 *2024-04-24 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98820/iranian-president-ebrahim-raisi-calls-on-president-ranil) · `en`
 
-Iranian President Dr. Ebrahim Raisi has called on President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
+UPDATED: Iranian President Dr. Ebrahim Raisi has called on President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
 
 The President of the Islamic Republic of Iran was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry.
 
-Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+Iranian President, Dr. Ebrahim Raisi, and President Ranil Wickremesinghe held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat, the President’s Media Division said.
 
-During his one-day official visit, President Raisi participated in a public ceremony marking the inauguration of the Uma Oya Multipurpose Development Project (UOMDP)). This project, following the Mahaweli Development Project, is one of the largest irrigation projects in Sri Lanka.
+Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
 
 ...
 
@@ -2271,23 +2301,5 @@ Palestinian -backed students are appealing to Israel's attack on Israel's attack
 [Data](articles/1fa59aac.json)
 
 [Extended Data](ext_articles/1fa59aac.ext.json)
-
----
-
-### Iran's president came to Sri Lanka
-
-*2024-04-24 10:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்தார்-ஈரான்-ஜனாதிபதி/175-336261) · `ta`
-
-Iran's President Ibrahim Raisi visited Sri Lanka to inaugurate the Uma Oya Multipurpose Development Program at Mathtala Rajapaksa International Airport.
-
-🟩
-
-Ibrahim Raisi, the President of the Islamic Republic, arrived at the Mathtala Rajapaksa International Airport (MRIA) a while to open the Uma Oya Multipurpose Development Program.
-
-◼️
-
-[Data](articles/7387ac33.json)
-
-[Extended Data](ext_articles/7387ac33.ext.json)
 
 ---

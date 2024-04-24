@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 02:03:35**
+As of **2024-04-25 02:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,765 (100.0%) of 20,767 articles have been extended.
+20,767 (100.0%) of 20,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,37 +52,53 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
-### ’சூலாவுடன் என்ன தொடர்பு’
+### What is the connection with the model Sula
 
 *2024-04-25 00:04:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூலாவுடன்-என்ன-தொடர்பு/175-336297) · `ta`
 
-பயங்கரவாதி சஹ்ரானுக்கும் இராணுவ புலனாய்வு பிரிவின் அப்போதைய பணிப்பாளர் சூலா கொடித்துவக்கும்   இடையிலான தொடர்பு என்ன?
+The model Sula is connected to the terrorist Sahran through the Director of Army Intelligence Unit, Sula Kodithi. The Police Principal Patriot Thennakoon advised releasing a vehicle checked for ammunition in Kelaniya Kama, questioned by Kavinda Jayawardena. The government claims bombing investigations are complete but no one is sentenced. The US FBI is investigating.
 
-களனி கம பகுதியில்   வெடிபொருட்கள் அடங்கிய லொறியை சோதனை செய்ய பொலிஸார் முற்படுகையில் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் அதற்கு தடை விதித்து வாகனத்தை விடுவிக்க அறிவுறுத்தியது ஏன்?  என ஐக்கிய மக்கள் சக்தியின் எம்.பி.யான  காவிந்த ஜயவர்தன  கேள்வி எழுப்பினார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பற்ற 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை முதல் நாள் விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி எழுப்பிய அவர் மேலும் பேசுகையில்,
+What is the connection between the terrorist Sahran and the then Director of the Army Intelligence Unit Sula Kodithi?
 
-உயிர்த்த ஞாயிறு தின . குண்டுத்தாக்குதல்கள் தொடர்பான  விசாரணைகள் நிறைவடைந்து விட்டதாக அரசாங்கம் கூறுகின்றது.ஆனால் எவருக்கும் தண்டனை வழங்கப்படவில்லை.
+Why did the Police Principal Patriot Thennakoon advise the vehicle to be released when police seek to check the lorry containing ammunition in the Kelaniya Kama area?Kavinda Jayawardena, the United People's Power MP, questioned.
 
-...
+Speaking at the first day's debate on the first day's debate on the Sunday bombing of the 2019 2019 Livelihood on Wednesday (24) in Parliament, he said.
+
+Revival. The government claims that investigations into the bombings have been completed. But no one has been sentenced.
+
+US FBI is investigating the bombing. The division has mentioned many issues.He asked.
+
+◼️
 
 [Data](articles/0f9440dc.json)
 
+[Extended Data](ext_articles/0f9440dc.ext.json)
+
 ---
 
-### ’கோட்டாவின் கதை பொய்’
+### The story of Kota's story is lying
 
 *2024-04-25 00:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-கதை-பொய்/175-336296) · `ta`
 
-தன்னை தமிழ், முஸ்லிம் மக்களே விரட்டியடித்தார்கள் என்று முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்‌ஷ தனது புத்தகத்தில் குறிப்பிட்டுள்ளமை முற்றிலும் பொய்யானது.அவர் இவ்வாறாக சிறுபான்மை மக்கள் மீது குற்றச்சாட்டை முன்வைத்து தனது பாவத்தை கழுவிக்கொள்ள முயற்சிக்கின்றார்என  ஐக்கிய மக்கள் சக்தி எம்.பி.யான  கபீர் ஹாசீம் தெரிவித்தார்.
+Gotabhaya Rajapakse claims in his book that he was chased by Tamil and Muslim people, contradicting historical accounts. He defends his actions during the 2019 bombings, arguing that his policies were not solely against minorities.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24) இடம்பற்ற 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை முதல் நாள் விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-கோட்டாபய ராஜபக்‌ஷ தான் எழுதிய புத்தகத்தில் முஸ்லிம்கள், தமிழ் மக்கள் உள்ளிட்ட சிறுபான்மையினத்தவர்களே தன்னை விரட்டியடித்தனர் என்று குறிப்பிட்டுள்ளார். அவர் வரலாற்றை தெரிந்துகொள்ள வேண்டும். சிங்கள மன்னர்கள் காலத்தில் இருந்து முஸ்லிம் மக்கள் மன்னர்களை காட்டிக்கொடுக்கும் வகையில் நடந்துகொண்டதில்லை. இதனை சிறுபான்மை மக்களின் சூழ்ச்சியென்றே கூறுகின்றார். இவை கோட்டாபய தனது பாவத்தை கழுவிக்கொள்வதற்காக கூறும் பொய்யாகும்.
+Former President Gotabhaya Rajapakse has stated in his book that he has chased himself Tamil and Muslim people.
 
-...
+Speaking at the first day's debate on the first day of the House of Representatives on the Sunday bombing of the 2019, 2019, which will not be held in Parliament on Wednesday (24).
+
+In his book Gotabhaya Rajapakse, he noted that minorities, including Muslims and Tamil people, chased himself.. He wants to know history. From the time of the Sinhala kings, the Muslim people have not been treated to betray the kings. This is the intrigue of the minority people. These are a lie that Gotabhaya says to wash his sin.
+
+He came to power by spreading racism by exposing ideas against the minority people on the 2019 platform.. He eventually scored in the stomach of the Sinhalese people. This was followed by the struggle started. The people fought with fuel and gas problems. The minority people also attended. But he said he did not only chase the minority people.
+
+◼️
 
 [Data](articles/6f394bc7.json)
+
+[Extended Data](ext_articles/6f394bc7.ext.json)
 
 ---
 

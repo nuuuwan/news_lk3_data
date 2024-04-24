@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 05:57:29**
+As of **2024-04-24 06:17:39**
 
 ## Newspaper Stats
 
-*Scraped **20,542** Articles*
+*Scraped **20,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,106
+islandlk | 1,115
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,542 (100.0%) of 20,542 articles have been extended.
+20,542 (100.0%) of 20,551 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -674,13 +674,13 @@ Special traffic plans will be set in place tomorrow (24) around Colombo and Matt
 
 President Ranil Wickremesinghe and his Iranian counterpart are scheduled to jointly declare open the Uma Oya Multipurpose Development Project (UOMDP) tomorrow.
 
-According to Police Spokesperson SSP Nihal Thalduwa, the road from Mattala to Uma Oya is planned to be temporarily closed around 9.30 a.m. and again from noon to 1.30 p.m.
+According to the police media division, the main road from Mattala to Uma Oya is planned to be temporarily closed from 9.45 a.m. to 11 a.m. and again from noon to 1 p.m.
 
-Meanwhile, the Colombo-Katunayake expressway will remain closed in the afternoon from 2 p.m. to 3 p.m. and at night from 9.30 a.m. to 10.30 p.m.
+Meanwhile, the Colombo-Katunayake expressway will remain closed for a period of one hour from 2 p.m. to 3 p.m. and again after 8.30 p.m.
 
-In addition, several roads in Colombo including the stretch of Galle Road from the President’s Office (from 6 p.m. to 7 p.m.), the Lotus Roundabout and the NSA roundabout too will be off for vehicular movement tomorrow.
+In addition, several roads in Colombo, including the Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road too will be off for vehicular movement tomorrow from 2 p.m. to 3 p.m.
 
-◼️
+...
 
 [Data](articles/75f43199.json)
 
@@ -731,6 +731,78 @@ Supercross Riders Association Special Speaker Sajaja Huger,
 [Data](articles/157b92c2.json)
 
 [Extended Data](ext_articles/157b92c2.ext.json)
+
+---
+
+### Thaala Bentota spearheads sustainable efforts in conserving endangered Ratha Milla mangrove species
+
+*2024-04-23 22:26:00* · [`islandlk`](http://island.lk/thaala-bentota-spearheads-sustainable-efforts-in-conserving-endangered-ratha-milla-mangrove-species/) · `en`
+
+Thaala Bentota Resort by Browns Hotels & Resorts, in collaboration with the Department of Wildlife Conservation, recently unveiled a unique conservation initiative aimed at safeguarding Bentota’s vital mangrove ecosystem. The program aims to focus on the Ratha Milla plant (Lumnitzera littorea), a critically endangered true mangrove species native to Sri Lanka.
+
+The Ratha Milla mangrove, previously thought to be limited to the Madu River Ramsar until recently, has now been rediscovered in the Bentota estuary and the Dedduwa lagoon area, with over 100 young plants aged between 10 to 20 years, where it was last recorded a century ago.
+
+...
+
+[Data](articles/9a5170ce.json)
+
+---
+
+### SDB bank announces strategic Bancassurance Partnership with LOLC Life Assurance
+
+*2024-04-23 22:26:00* · [`islandlk`](http://island.lk/sdb-bank-announces-strategic-bancassurance-partnership-with-lolc-life-assurance/) · `en`
+
+Delivers best life insurance solutions for SDB bank customers with convenience and speed
+
+As a significant step towards enhancing cross financial and insurance services, SDB bank is pleased to announce its new bancassurance partnership with LOLC Life Assurance Ltd. This collaboration marks an important milestone in providing SDB bank customers with convenient access to life insurance products, leveraging LOLC’s expertise and integrating its offerings into SDB Bank’s extensive branch network.
+
+Through this partnership, customers can avail both banking and insurance services under one roof, thereby facilitating a seamless service experience for current and prospective clients. This initiative is expected to leverage the strengths of both entities, combining SDB Bank’s robust banking network with LOLC Life Assurance’s expertise in providing comprehensive insurance solutions.
+
+...
+
+[Data](articles/b4ed6a9e.json)
+
+---
+
+### BIMSTEC Secretary-General discusses regional cooperation in the Bay of Bengal region at LKI
+
+*2024-04-23 22:24:00* · [`islandlk`](http://island.lk/bimstec-secretary-general-discusses-regional-cooperation-in-the-bay-of-bengal-region-at-lki/) · `en`
+
+Ambassador Indra Mani Pandey, Secretary-General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) was hosted by the Lakshman Kadirgamar Institute (LKI) for a special guest lecture and interactive session titled “Regional Cooperation through BIMSTEC” on 09 April 2024 at the Lighthouse Auditorium. The programme provided an opportunity for the gathering of Sri Lankan policymakers, academics, researchers, and university students to engage directly with the Secretary-General who was on his first official visit to Sri Lanka, in evaluating topics and concerns related to the region and BIMSTEC, in the context of global politics and Sri Lanka’s foreign policy interests.
+
+...
+
+[Data](articles/b6fd2818.json)
+
+---
+
+### People’s Bank facilitates over 17 million transactions worth over Rs.568Bn
+
+*2024-04-23 22:20:00* · [`islandlk`](http://island.lk/peoples-bank-facilitates-over-17-million-transactions-worth-over-rs-568bn/) · `en`
+
+People’s Bank, the leader in digital banking innovation possessing the largest customer base in Sri Lanka, proudly announced that during the Avurudu season between 1st to 15th of April, the bank had facilitated over 17 million transactions valued at more than 568 billion rupees, highlighting its pivotal role in the daily financial activities of the country.
+
+Leveraging its extensive network, including 747 branches and service centers, the massively popular digital banking platforms and over 1,150 ATMs, CDMs, and CRMs, People’s Bank has successfully delivered unmatched convenience and accessibility to its customers. This vast infrastructure underscores the bank’s commitment to enhancing customer experience and expanding its reach across the island.
+
+...
+
+[Data](articles/492132ad.json)
+
+---
+
+### Telin and Dialog Axiata ink strategic partnership to manage international voice and SMS termination
+
+*2024-04-23 22:18:00* · [`islandlk`](http://island.lk/telin-and-dialog-axiata-ink-strategic-partnership-to-manage-international-voice-and-sms-termination/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, and Telin, the international arm of Telkom Indonesia, have signed a new Master Service Agreement (MSA) whereby Telin will exclusively provide Managed Services for international A2P SMS traffic and international voice termination traffic to Dialog.
+
+This agreement aims to monetize international traffic while extending unparalleled convenience, enhanced security, global coverage and consistent service quality to Dialog customers. The signing symbolized the commitment of both organizations to enhance telecommunication services around the world.
+
+The rise of spam, fraud, and unsolicited SMS messages has increasingly become a pressing concern for a multitude of operators in the telecommunications industry. With the exponential growth of mobile communication and digital connectivity, the proliferation of unwanted messages poses significant challenges to both consumers and service providers alike.
+
+...
+
+[Data](articles/29fc2562.json)
 
 ---
 
@@ -2117,119 +2189,5 @@ The project was officially launched in 2010, with an estimated cost of USD 514 m
 [Data](articles/f572f2fa.json)
 
 [Extended Data](ext_articles/f572f2fa.ext.json)
-
----
-
-### 12 மணித்தியால நீர்வெட்டு அமுல்
-
-*2024-04-23 15:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-மணித்தியால-நீர்வெட்டு-அமுல்/175-336243) · `ta`
-
-"கம்பஹா மாவட்டத்தில் நாளை 24 மணித்தியால நீர்வெட்டு அமுல்படுத்தப்படுகின்றது. 8.30 வரை நீர் விநியோகம் துண்டிக்கப்படுகின்றது. பேலியகொடை, வத்தளை, கந்தானை, ஜா-எல, கட்டுநாயக்க, களனி, மஹர, தொம்பே ஆகிய இடங்களிலும் மினுவாங்கொடை பிரதேச சபைக்குட்பட்ட பகுதிகள் மற்றும் கம்பஹா பிரதேச சபைக்குட்பட்ட பகுதிகளிலும் இவ்வாறு நீர்வெட்டு அமுல்படுத்தப்படுகின்றது."
-
-🟩
-
-கம்பஹா மாவட்டத்தின் சில பகுதிகளில் நாளை(24) புதன்கிழமை 12 மணித்தியால நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
-
-நாளை (24) காலை 8.30 தொடக்கம் இரவு 8.30 வரை நீர் விநியோகம் துண்டிக்கப்படவுள்ளதாக தேசிய நீர்வழங்கல் வடிகாலமைப்பு சபை தெரிவித்துள்ளது.
-
-பேலியகொடை, வத்தளை, கந்தானை, ஜா-எல, கட்டுநாயக்க – சீதுவ நகர சபைக்குட்பட்ட பகுதிகள், களனி, மஹர, தொம்பே ஆகிய இடங்களிலும் மினுவாங்கொடை பிரதேச சபைக்குட்பட்ட பகுதிகள் மற்றும் கம்பஹா பிரதேச சபைக்குட்பட்ட பகுதிகளிலும் இவ்வாறு நீர்வெட்டு அமுல்படுத்தப்படவுள்ளது.
-
-◼️
-
-[Data](articles/a974a41d.json)
-
-[Extended Data](ext_articles/a974a41d.ext.json)
-
----
-
-### Increase in drug use in the North: Who are the source?
-
-*2024-04-23 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/181767) · `ta`
-
-Four youths in the North died from drug use, with heavy drugs implicated. Cases of heroin and cannabis were reported. Sri Lanka's strategic location in global drug trade, facilitated by maritime boundaries, contributes to the issue. Despite legal action, drug use remains prevalent, especially among the youth. The government's focus on the war context in the North and East may exacerbate drug issues.
-
-🟩
-
-Four youths died due to drug use in the first quarter of this year in the Northern Province. They are all between the ages of 20 to 30 years.
-
-In particular, a youth from Chavakachcheri has died during a drug treaty for celebrating his release as a youth from Chavakachcheri was released from prison on bail.
-
-Others are dead due to the use of heavy drugs. There are no reports of drug use even after these deaths.
-
-There were 29 cases of drugs in Jaffna, especially in the period from 2024.03.26 to 2024.04.16.. Two cases of 23.075 grams of heroin have been filed for the holding of 0.08 grams of ice.
-
-In addition, 21 cases have been filed in connection with the use and business of cannabis and 21.299 kilograms of cannabis have been seized.. The drug issue in the North continues to be socially cancer, while police say that legal action has been taken against the arrested persons.
-
-...
-
-[Data](articles/3c5a25ad.json)
-
-[Extended Data](ext_articles/3c5a25ad.ext.json)
-
----
-
-### Chamari Athapaththu rises to No. 1 position in Women’s ODI batting rankings
-
-*2024-04-23 14:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98794/chamari-athapaththu-rises-to-no-1-position-in-womens-odi-batting-rankings) · `en`
-
-Sri Lanka’s star batter Chamari Athapaththu edged Natalie Sciver-Brunt to become the top-ranked batter in the ICC Women’s ODI batting rankings.
-
-Powering Sri Lanka to the highest successful run-chase in women’s ODIs has seen Chamari Athapaththu go to the top of the ICC Women’s ODI Batting Rankings in the latest update.
-
-Athapaththu’s stellar knock in the third and final ODI helped Sri Lanka level the three-match series in South Africa.
-
-Chasing a record target of 302 to win, Athapaththu led Sri Lanka’s fightback with a brilliant 195*, the third-highest score in women’s ODIs.
-
-It’s also the second-highest score by anyone in a successful run chase in ODI cricket - men’s and women’s - right behind Glenn Maxwell’s 201* against Afghanistan in the ICC Men’s Cricket World Cup 2023.
-
-The knock saw Athapaththu achieve her highest-ever rating (773) in the women’s batting rankings. The Sri Lankan also jumped two spots in the all-rounder rankings to enter the top 10 at ninth position.
-
-...
-
-[Data](articles/7f865cac.json)
-
-[Extended Data](ext_articles/7f865cac.ext.json)
-
----
-
-### 78-year-old swimmer from Bengaluru dies while swimming from Sri Lanka to India
-
-*2024-04-23 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/78-year-old-swimmer-from-Bengaluru-dies-while-swimming-from-Sri-Lanka-to-India/108-281206) · `en`
-
-Rameswaram, April 23 (The Hindu) - A 78-year-old man, Gopal Rao, of Bengaluru, Karnataka, died of a heart attack while he was swimming from Thalaimannar in Sri Lanka to the Dhanushkodi islet in Rameswaram, T.N., on Tuesday, April 23, 2024.
-
-Mr. Rao was part of a group of 31 swimmers who held a relay swimming event from Sri Lanka to India through the Palk Strait. The swimmers had left Rameswaram by a boat, and had gone to Sri Lanka on April 22. At 12.10 a.m. on April 23, they began swimming from Thalaimannar in Sri Lanka towards Dhanushkodi.
-
-Gopal Rao, believed to have been the third swimmer on the row, began feeling uneasy and complained of chest pains at 3.10 a.m. He was immediately helped to get into the boat that was accompanying the swimmers. The doctor attending on him however, subsequently declared that he was dead.
-
-As a mark of respect, all the other swimmers cancelled the relay event and reached Dhanushkodi islet by boat.
-
-...
-
-[Data](articles/a52d889a.json)
-
-[Extended Data](ext_articles/a52d889a.ext.json)
-
----
-
-### Sri Lanka state oligopoly allowed to import some black gram
-
-*2024-04-23 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-oligopoly-allowed-to-import-some-black-gram-159757/) · `en`
-
-ECONOMYNEXT – Sri Lanka has allowed the import of some black gram, by three state agencies, according to a gazette notice issued under the hand of President Ranil Wickremesinghe.
-
-Import licenses will be given for 2,000 metric tonnes of the seed classified under HS Code 7312.31.22 and 29.
-
-Sri Lanka State Trading Corporation, National Food Promotion Board and Sri Lanka Hadabima Authority is to be given import licenses.
-
-Traders have resorted to smuggling some types of black gram (ulundu) mis classified as chick peas, to get over high taxes and import restrictions.
-
-Tamil legislators have also protested the import controls, which they go into several key ethnic foods they consume. (Colombo/Apr23/2024)
-
-◼️
-
-[Data](articles/ce343ee9.json)
-
-[Extended Data](ext_articles/ce343ee9.ext.json)
 
 ---

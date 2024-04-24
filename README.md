@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 13:34:05**
+As of **2024-04-24 13:53:20**
 
 ## Newspaper Stats
 
-*Scraped **20,658** Articles*
+*Scraped **20,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,52 @@ adalk | 1,720
 tamilmirrorlk | 2,388
 adaderanalk | 2,461
 virakesarilk | 3,103
-dailymirrorlk | 3,223
+dailymirrorlk | 3,225
 adaderanasinhalalk | 3,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,656 (100.0%) of 20,658 articles have been extended.
+20,658 (100.0%) of 20,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### தேசிய கண் வைத்தியசாலையின் வைத்தியர் திடீரென உயிரிழப்பு!
+### Doctor of National Eye Hospital suddenly dies
 
 *2024-04-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181835) · `ta`
 
-கொழும்பு தேசிய கண் வைத்தியசாலையின்  வைத்தியர் ஒருவர் திடீரென உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+A doctor at the Colombo National Eye Hospital died suddenly after being admitted due to ill health.
 
-இரவு உணவை அருந்திய வைத்தியர் உடல்நலக்குறைவு ஏற்பட்டதையடுத்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். இதன் பின்னர் சிகிச்சை பலனின்றி வைத்தியர் உயிரிழந்துள்ளார்.
+🟩
+
+Hospital sources said that a doctor of the Colombo National Eye Hospital died suddenly.
+
+The doctor who had dinner was admitted to the hospital after suffering from ill health. Since then, the doctor has died without treatment.
 
 ◼️
 
 [Data](articles/338ffdc2.json)
+
+[Extended Data](ext_articles/338ffdc2.ext.json)
+
+---
+
+### Government to inform Parliament on trafficking Sri Lankans for military service in Russia, Ukraine: Wijeyadasa
+
+*2024-04-24 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-inform-Parliament-on-trafficking-Sri-Lankans-for-military-service-in-Russia-Ukraine-Wijeyadasa/108-281286) · `en`
+
+Parliament, April 24 (Daily Mirror)- Claiming that the police and the Ministry of Foreign Affairs are looking into the incidents of Sri Lankans being trafficked for military services in Russia and Ukraine, Justice Minister Wijeyadasa Rajapakshe informed Parliament that Public Security Minister Tiran Alles will make a statement regarding the matter in Parliament tomorrow.
+
+The Minister told Parliament that police had recieved information that several individuals were enagaged in rackets where they take Sri Lankans to Russia and Ukraine promising jobs and the recruit them to the army instead of other jobs.
+
+He said police had launched an investigation into the incident while the Ministry of Foreign Affairs is also looking into the matter.
+
+...
+
+[Data](articles/91d7090e.json)
 
 ---
 
@@ -72,21 +94,27 @@ Earlier this year, Iran and Pakistan were attacked by each other.
 
 ---
 
-### வரலாறு
+### History
 
 *2024-04-24 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181834) · `ta`
 
-கடந்த 1966ஆம் ஆண்டில் 45 நாட்களாக பஞ்சப்படி கோரி தோட்டத் தொழிலாளர்கள் வேலைநிறுத்தப் போராட்டத்தை முன்னெடுத்திருந்தனர்.
+In 1966, plantation workers in Sri Lanka went on a 45-day strike, demanding a 17.5% salary increase. Their struggle was highlighted in the Weerakesari newspapers on July 20, 21, and 26, 1966.
 
-அன்று தோட்டத் தொழிலாளர்களுக்கு வழங்கப்படாமலிருந்த 17 ரூபாய் 50 சதம் (17.50) என்ற பஞ்சப்படியை பெற்றுக்கொடுப்பதே இந்த போராட்டத்தின் நோக்கம் என தெரிவிக்கப்படுகிறது.
+🟩
 
-இது தொடர்பில் 1966ஆம் ஆண்டு ஜூலை மாதம் 20, 21 மற்றும் 26ஆம் திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் முன்பக்கத்தில் செய்திகள் வெளியாகியிருந்தன.
+In 1966, the plantation workers have launched a strike for 45 days.
 
-அன்றைய நிலைமையின் தொடர்ச்சியாக தோட்டத் தொழிலாளர்கள் தற்போது 1700 ரூபா சம்பள அதிகரிப்புக்காக போராடி வருகின்றனர்.
+The purpose of the struggle is to get a five -century (17.50 per cent) of the plantation workers that were not given to the plantation workers.
+
+The news was published in front of the Weerakesari newspapers on July 20, 21 and 26 on July 1966.
+
+Plantation workers are currently struggling for a salary increase of 1700 rupees.
 
 ◼️
 
 [Data](articles/4159cf87.json)
+
+[Extended Data](ext_articles/4159cf87.ext.json)
 
 ---
 
@@ -237,6 +265,20 @@ President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr
 [Data](articles/8b4b225d.json)
 
 [Extended Data](ext_articles/8b4b225d.ext.json)
+
+---
+
+### Uma Oya Development Project inaugurated
+
+*2024-04-24 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Uma-Oya-Development-Project-inaugurated/155-281279) · `en`
+
+The President of the Islamic Republic of Iran, Dr. Ebrahim Raisi and President Ranil Wickremesinghe jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) a short while ago.
+
+This project is one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project
+
+◼️
+
+[Data](articles/0651a588.json)
 
 ---
 
@@ -646,7 +688,7 @@ Police suspect that the firearm is suspected of the firearm missing at the Wilga
 
 The Colombo District Court has delivered a permanent injunction preventing former President Maithripala Sirisena from functioning as the chairman of Sri Lanka Freedom Party (SLFP).
 
-The order was issued with regard to a plaint filed by former SLFP executive committee member Montague Sarathchandra.
+The order was issued with regard to a plaint filed by SLFP executive committee member Montague Sarathchandra.
 
 Accordingly, the permanent injunction will be effective until the conclusion of the trial.
 
@@ -2207,47 +2249,5 @@ With the commissioning of the Uma Oya Hydro Power Plant today (24), the Minister
 [Data](articles/9d126daa.json)
 
 [Extended Data](ext_articles/9d126daa.ext.json)
-
----
-
-### Chinese Communist Party representatives meet AKD
-
-*2024-04-24 02:17:46* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Communist-Party-representatives-meet-AKD/56-760970) · `en`
-
-Several representatives of the Chinese Communist Party including the Vice Minister of the International Department Sun Haiyan met with Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) party leader Anura Kumara Dissanayake at the JVP head office in Pelawatta yesterday.
-
-The delegation included the Deputy Director General of the International Affairs Department Lin Tao, Counsellor of the Chinese Embassy in Sri Lanka Chen Xiangyuan, Director of the international Affairs Department Li Jiyan, Deputy Director Wen Jun, Secretary to the Deputy Minister Jin Yan and the Third Secretary of the Chinese Embassy in Sri Lanka Jin Enze.
-
-The NPP was represented by NPP Executive Council members Vijitha Herath, Dr Harini Amarasuriya, Prof Anil Jayantha Fernando and Sunil Handunetti.
-
-In a statement the NPP said the two parties discussed Sri Lanka’s current political situation, the upcoming polls and ensuing events.
-
-...
-
-[Data](articles/1dfb3e10.json)
-
-[Extended Data](ext_articles/1dfb3e10.ext.json)
-
----
-
-### Army appoints investigation panel to probe deadly Fox Hill crash
-
-*2024-04-24 02:16:24* · [`dailyftlk`](https://www.ft.lk/news/Army-appoints-investigation-panel-to-probe-deadly-Fox-Hill-crash/56-760969) · `en`
-
-The Sri Lanka Army has appointed a seven-member panel led by a Major General to investigate the deadly accident that happened during the ‘Fox Hill Super Cross 2024’ racing event in Diyatalawa on Sunday.
-
-As many as seven people including an 8-year-old girl lost their lives and more than 20 were injured after a car ran off the track during a race and ploughed into spectators.
-
-Among the deceased were four event officials who had been stationed as flag marshals. The others were identified as spectators.
-
-The crash happened soon after another car had overturned on the track. As the vehicles were speeding past, one red car veered off course and crashed into spectators on the side of the unguarded track.
-
-Two drivers of the racing cars involved in the accident were subsequently arrested and remanded until 30 April on the orders of Bandarawela Magistrate’s Court.
-
-...
-
-[Data](articles/372b355f.json)
-
-[Extended Data](ext_articles/372b355f.ext.json)
 
 ---

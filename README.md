@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 13:18:38**
+As of **2024-04-24 13:34:05**
 
 ## Newspaper Stats
 
-*Scraped **20,656** Articles*
+*Scraped **20,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,173
 adalk | 1,720
 tamilmirrorlk | 2,388
 adaderanalk | 2,461
-virakesarilk | 3,101
+virakesarilk | 3,103
 dailymirrorlk | 3,223
 adaderanasinhalalk | 3,341
 
@@ -26,29 +26,67 @@ adaderanasinhalalk | 3,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,652 (100.0%) of 20,656 articles have been extended.
+20,656 (100.0%) of 20,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### අමෙරිකාවෙන් ඉරානය ගැන අනතුරු ඇඟවීමක්
+### தேசிய கண் வைத்தியசாலையின் வைத்தியர் திடீரென உயிரிழப்பு!
+
+*2024-04-24 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181835) · `ta`
+
+கொழும்பு தேசிய கண் வைத்தியசாலையின்  வைத்தியர் ஒருவர் திடீரென உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+
+இரவு உணவை அருந்திய வைத்தியர் உடல்நலக்குறைவு ஏற்பட்டதையடுத்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். இதன் பின்னர் சிகிச்சை பலனின்றி வைத்தியர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/338ffdc2.json)
+
+---
+
+### A warning of Iran from the US
 
 *2024-04-24 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195925) · `si`
 
-ඉරානය සමග වෙළෙඳ ගනුදෙනු සිදුකරන රටවල්වලට එරෙහිව සම්බාධක පැනවීමේ අවදානමක් ඇතැයි අමෙරිකාව අද අනතුරු ඇඟවීය.
+The US warns Iran over sanctions, following a 3-day visit by Iran's President to Pakistan, where a trade agreement was signed to increase trade to $10 billion. This visit aimed to resolve past conflicts between Iran and Pakistan.
 
-අමෙරිකාව මෙම අනතුරු ඇඟවීම සිදුකළේ ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි පාකිස්තානයේ දින 3ක සංචාරය අද (24) නිමකර ශ්‍රී ලංකාව බලා පිටත් වීමෙන් පසුවය.
+🟩
 
-ඉරාන ජනාධිපතිවරයාගේ සංචාරය අතරතුරදී පාකිස්තානය සහ ඉරානය අතර අවබෝධතා ගිවිසුම් 8ක් අත්සන් කෙරුණු අතර දෙරට අතර වෙළෙඳාම ඩොලර් බිලියන 10ක් දක්වා වැඩිකිරීමට ද ඉන් යෝජනා කර තිබුණි.
+The United States today warned that the sanctions were imposed against Iran.
 
-ඉරාන ජනපතිවරයා සඳුදා (22) පාකිස්තානයට පැමිණියේය. ඔහුගේ සංචාරයේ එක ප්‍රධාන අරමුණක් ලෙස සඳහන් වූයේ දෙරට අතර පැවති ගැටලු නිරාකරණය කර ගැනීම ය.
+The United States made this warned after Iranian presence was completed in the 3-day visit to Iranian President.
 
-මෙම වසර මුලදී ඉරානය සහ පාකිස්තානය එකිනෙකාට ප්‍රහාර එල්ලකර ගත්තේය.
+During his visit to the Iran, Pakistan and Iran were signed between Pakistan and Iran to increase the trade to $ 10 billion.
+
+The President arrived in Pakistan on Monday (22). One of the main objectives of his tour was to resolve the problems between the two countries.
+
+Earlier this year, Iran and Pakistan were attacked by each other.
 
 ◼️
 
 [Data](articles/d6b810ce.json)
+
+[Extended Data](ext_articles/d6b810ce.ext.json)
+
+---
+
+### வரலாறு
+
+*2024-04-24 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181834) · `ta`
+
+கடந்த 1966ஆம் ஆண்டில் 45 நாட்களாக பஞ்சப்படி கோரி தோட்டத் தொழிலாளர்கள் வேலைநிறுத்தப் போராட்டத்தை முன்னெடுத்திருந்தனர்.
+
+அன்று தோட்டத் தொழிலாளர்களுக்கு வழங்கப்படாமலிருந்த 17 ரூபாய் 50 சதம் (17.50) என்ற பஞ்சப்படியை பெற்றுக்கொடுப்பதே இந்த போராட்டத்தின் நோக்கம் என தெரிவிக்கப்படுகிறது.
+
+இது தொடர்பில் 1966ஆம் ஆண்டு ஜூலை மாதம் 20, 21 மற்றும் 26ஆம் திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் முன்பக்கத்தில் செய்திகள் வெளியாகியிருந்தன.
+
+அன்றைய நிலைமையின் தொடர்ச்சியாக தோட்டத் தொழிலாளர்கள் தற்போது 1700 ரூபா சம்பள அதிகரிப்புக்காக போராடி வருகின்றனர்.
+
+◼️
+
+[Data](articles/4159cf87.json)
 
 ---
 
@@ -172,9 +210,15 @@ Fort Magistrate’s Court also rejected a writ petition looking to prevent their
 
 *2024-04-24 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98811/uma-oya-multipurpose-development-project-inaugurated) · `en`
 
-President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr. Ebrahim Raisi inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
+Sri Lankan President Ranil Wickremesinghe and Iranian President Dr. Ebrahim Raisi jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
 
-◼️
+Dr. Raisi arrived on the island nation on Wednesday morning via the Mattala International Airport, where he was accorded a warm welcome by Prime Minister Dinesh Gunawardena.
+
+His visit comes after a special invitation extended by his Sri Lankan counterpart, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+Shortly after his arrival, President Raisi participated in the public ceremony marking the inauguration of the UOMDP which aims to alleviate water scarcity in the southeastern dry region of the country by redirecting an annual average of 145 million cubic meters (MCM) of excess water from the Uma Oya basin to the Kirindi Oya basin.
+
+...
 
 [Data](articles/7e34497a.json)
 
@@ -207,6 +251,8 @@ This project is one of the largest irrigation projects in Sri Lanka following th
 ◼️
 
 [Data](articles/f3126cd6.json)
+
+[Extended Data](ext_articles/f3126cd6.ext.json)
 
 ---
 
@@ -265,6 +311,8 @@ A police complaint had been lodged accusing Damitha and her husband of cheating 
 ◼️
 
 [Data](articles/621357a7.json)
+
+[Extended Data](ext_articles/621357a7.ext.json)
 
 ---
 
@@ -348,17 +396,23 @@ The order was issued when a petition filed by the three against the Sri Lanka Fr
 
 ---
 
-### මෛත්‍රීට තවත් අතුරු තහනමක්
+### Another banned for Maithri
 
 *2024-04-24 12:02:38* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-තවත්-අතුරු-තහනමක්/11-409236) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් අද (24) ස්ථිර අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+The Colombo District Court permanently bans the Chairman of the Sri Lanka Freedom Party (SLFP) from attending the trial of Maithri Monthegorodage.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වූ මොන්ටේගු සරත්චන්ද්‍ර මහතා ඉදිරිපත් කළ පැමිණිල්ලකට අදාළව  මෙම නියෝගය නිකුත් කරනු ලැබීය. තහනම් නියෝගය නඩු විභාගය අවසන් වන තෙක් බලපැවැත්වෙයි.
+🟩
+
+The Colombo District Court today issued a permanent ban in the Colombo District Court today preventing the Chairman of the Sri Lanka Freedom Party (SLFP).
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වූ මොන්ටේගු සරත්චන්ද්‍ර මහතා ඉදිරිපත් කළ පැමිණිල්ලකට අදාළව  මෙම නියෝගය නිකුත් කරනු ලැබීය. The prohibition order will be effective until the end of the trial.
 
 ◼️
 
 [Data](articles/7ce2281e.json)
+
+[Extended Data](ext_articles/7ce2281e.ext.json)
 
 ---
 
@@ -2195,43 +2249,5 @@ Two drivers of the racing cars involved in the accident were subsequently arrest
 [Data](articles/372b355f.json)
 
 [Extended Data](ext_articles/372b355f.ext.json)
-
----
-
-### Intense temperature in SL
-
-*2024-04-24 02:15:58* · [`dailyftlk`](https://www.ft.lk/news/Intense-temperature-in-SL/56-760968) · `en`
-
-The Meteorology Department yesterday issued a cautionary warning about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
-
-It said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as ‘Caution’.
-
-According to the heat advisory issued, the ‘Caution Level’ was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
-
-This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
-
-...
-
-[Data](articles/45772df8.json)
-
-[Extended Data](ext_articles/45772df8.ext.json)
-
----
-
-### Daintee celebrates four decades of sweet success
-
-*2024-04-24 02:14:47* · [`dailyftlk`](https://www.ft.lk/business/Daintee-celebrates-four-decades-of-sweet-success/34-760967) · `en`
-
-Top management of Sunshine Holdings, Sunshine Consumer Lanka and Daintee cutting the celebratory anniversary cake
-
-Daintee receiving the ISO 22000:2018 certification from Control Union Inspections
-
-Daintee, the confectionary arm of Sunshine Consumer Lanka Ltd. (SCL), recently marked its 40th anniversary, highlighting four decades of excellence in crafting delicious sweets and confectionery delights for millions of Sri Lankans. The grand celebration, which took place on 1 April 2024, was graced by Sunshine Holdings Deputy Chairman Vish Govindasamy, Sunshine Consumer Lanka Chief Executive Officer Anuruddha Aluvihare, senior management of Sunshine Holdings and SCL, Daintee employees, and other distinguished guests.
-
-...
-
-[Data](articles/360794cd.json)
-
-[Extended Data](ext_articles/360794cd.ext.json)
 
 ---

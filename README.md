@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 21:18:28**
+As of **2024-04-24 21:33:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,736 (100.0%) of 20,738 articles have been extended.
+20,738 (100.0%) of 20,738 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ During his one-day official visit, President Raisi participated in a public cere
 ...
 
 [Data](articles/a646e646.json)
+
+[Extended Data](ext_articles/a646e646.ext.json)
 
 ---
 
@@ -87,6 +89,8 @@ Following the cracking 195 against South African women's team, Chamari told the 
 ...
 
 [Data](articles/e2ba8de4.json)
+
+[Extended Data](ext_articles/e2ba8de4.ext.json)
 
 ---
 

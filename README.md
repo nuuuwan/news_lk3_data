@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 01:04:01**
+As of **2024-04-25 01:18:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,763 (100.0%) of 20,764 articles have been extended.
+20,764 (100.0%) of 20,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -92,19 +92,27 @@ Today, the United Nations marks the International Girls in ICT Day with the them
 
 ### 2024-04-24 (Wednesday)
 
-### ’4 க்கு பின்னாலும் கோட்டாவே இருந்தார்’
+### Kottav was behind the number 4
 
 *2024-04-24 23:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-க்கு-பின்னாலும்-கோட்டாவே-இருந்தார்/175-336295) · `ta`
 
-2005, ஆம் ஆண்டு ஜோசப் பரராஜசிங்கம் எம்.பி.,படுகொலை, 2006 ஆம் ஆண்டு ரவிராஜ் எம்.பி.படுகொலை ,2009 ஆம் ஆண்டு இறுதி யுத்த படுகொலைகள், 2019 உயிர்த்த ஞாயிறு தாக்குதல் ஆகிய 4 சம்பவங்களின் பின்னாலும்  முன்னாள் பாதுகாப்பு அமைச்சின் செயலாளரும்  ,முன்னாள் ஜனாதிபதியுமான கோட்டாபாய ராஜபக்‌ஷவே இருந்துள்ளதாக தமிழ் தேசியக் கூட்டமைப்பின் வன்னி மாவட்ட எம்.பி. யான சார்ள்ஸ் நிர்மலநாதன் தெரிவித்தார்.
+Gotabhaya Rajapakse, former Defense Secretary and President, linked to four incidents: assassination of MP Joseph Pararajasingham in 2006, Raviraj MP's assassination, 2009 war massacre, and 2019 survival Sunday attacks. Accused by Charles Nirmalanathan, Wanni District MP, of masterminding the 2019 bombings.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பற்ற 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை முதல் நாள் விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-5  வருடங்கள் நிறைவடைந்துள்ள நிலையில் 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் சூத்திரதாரி யார்?ஏன் இன்னும்  கண்டுபிடிக்க முடியவில்லை என்ற கேள்விகள் இங்கு எழுப்பப்படுகின்றன. இலங்கையைப்பொறுத்த வரையில்  இலங்கையில் ஆட்சியாளர்களுடைய ஆசிர்வாதத்துடன் ஆட்சியாளர்களின் ஆலோசனைகளுக்கமைவாக  பல்வேறு சம்பவங்கள் நடைபெற்றுள்ளன.
+Former Defense Secretary and former President Gotabhaya Rajapakse has been in the aftermath of four incidents - Joseph Pararajasingham MP, assassination of MP, 2006, Raviraj MP's assassination, last war massacre in 2009, and 2019 survival Sunday attacks.Wanni District MP of the Federation. Said Charles Nirmalanathan.
+
+He said this while addressing the first day of the post of adjournment of the 2019 Livelihood Sunday bombing, which will not be held in Parliament on Wednesday (24).
+
+The 5 -year -old has been raised here as the 2019 Labor Sunday bombing mastermind?. Various incidents have taken place in Sri Lanka with the blessings of the rulers in Sri Lanka until the relevant.
+
+Especially Josephrarajasingham, Raviraj MPs.Were shot dead. Various sources and traces were available in both cases. But could not find the criminals. If the punishment was not punished, the killings were carried out on the advice of the rulers.
 
 ...
 
 [Data](articles/d1fd40b9.json)
+
+[Extended Data](ext_articles/d1fd40b9.ext.json)
 
 ---
 

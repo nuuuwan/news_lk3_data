@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 07:42:04**
+As of **2024-04-24 07:54:20**
 
 ## Newspaper Stats
 
-*Scraped **20,564** Articles*
+*Scraped **20,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,369
-adaderanalk | 2,447
+adaderanalk | 2,449
 virakesarilk | 3,088
-dailymirrorlk | 3,208
-adaderanasinhalalk | 3,327
+dailymirrorlk | 3,210
+adaderanasinhalalk | 3,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,561 (100.0%) of 20,564 articles have been extended.
+20,564 (100.0%) of 20,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Puttalam Quazi Court Judge arrested on bribery charge
+
+*2024-04-24 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98802/puttalam-quazi-court-judge-arrested-on-bribery-charge) · `en`
+
+The Puttalam Quazi Court Judge has been arrested by Bribery Commission officers while accepting a bribe of Rs. 5,000.
+
+He has been remanded until 06 May after being produced before the Puttalam Magistrate’s Court,  the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+◼️
+
+[Data](articles/309136b5.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-04-24 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98801/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Uva province and in Anuradhapura district during the afternoon or night.
+
+A few showers may occur over the coastal areas of Puttalam to Galle via Colombo during the morning too, it said.
+
+Fairly heavy showers more than 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ad4973c8.json)
+
+---
+
+### බස්නාහිර ත්‍රීරෝද රථ නියාමනයට ජූනි 30 දක්වා කල්දෙයි
+
+*2024-04-24 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195912) · `si`
+
+බස්නාහිර පළාතේ ත්‍රීරෝද රථ නියාමනය සඳහා ජූනි මස 30 වනදා දක්වා කාලය ලබා දී ඇති බව එක්සත් මගී ප්‍රවාහන ත්‍රීරෝද රථ රියදුරන්ගේ සංගමය පවසයි.
+
+එහි සභාපති රහුමාන් පල්ලි මහතා සඳහන් කළේ, ත්‍රීරෝද රථ රියදුරන් සඳහා සහන මිලට ගාස්තු මීටර ලබා දීමට රජය වැඩපිළිවලක් සකස් කළ යුතු බවය.
+
+"මගී ප්‍රවාහනයේ යෙදෙන සියලුම ත්‍රීරෝද රථ සඳහා ගාස්තු මීටරයක් අනිවාර්යයෙන් තිබිය යුතුයි කියන මතයේ තමා අපි ඉන්නේ. ගාස්තු මීටරය කියන එක මගී ප්‍රවාහන සේවයේ යෙදෙන ත්‍රීරෝද සඳහා අත්‍යාවශ්‍ය වූ අංගයක්. ෆෝන් මීටරේ නෙමෙයි මේ කියන්නේ. අපි රජයෙන් ඉල්ලීමක් කරනවා රියදුරන්ට දරාගත හැකි මිලකට ලබාදීම සඳහා ගාස්තු මීටර් ආනයනය කොට හෝ ලබාදීමට කටයුතු කරන්න කියලා.
+
+බස්නාහිර පළාතේ ත්‍රීරෝද රථ නියාමනය සඳහා ලියාපදිංචි වීමට ජූනි මස 30 වනදා දක්වා කල් ලබාදීමක් සිදුකර තිබෙනවා. අපි ඉල්ලීමක් කරනවා ජූනි 30ට පෙර ඒ ලියාපදිංචිය සිදුකර ගන්න. ඊට පස්සේ මගී ප්‍රවාහන අධිකාරිය පොලීසිය සමග එකතු වී ලියාපදිංචි නොවූ ත්‍රීරෝද රථ සඳහා නීතිමය පියවර ගන්නවා. ඒ සඳහා ප්‍රඥප්තිය තුළින් බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියට නීතිමය බලතල ලැබිලා තියෙනවා."
+
+◼️
+
+[Data](articles/c8e1369f.json)
+
+---
+
+### Mattala airport privatization: Cabinet decision this week
+
+*2024-04-24 07:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mattala-airport-privatization-Cabinet-decision-this-week/108-281247) · `en`
+
+Colombo, April 24 (Daily Mirror) - The Cabinet is likely to endorse a proposal this week on the transfer of the management of Sri Lanka’s second largest Mattala international airport, a top official said.
+
+The Ports, Shipping and Aviation Ministry has already submitted the Cabinet proposal in this regard to be considered at the next sitting expected later this week.
+
+The airport built with a Chinese loan of US $ 307 million has been running up heavy losses. The area where it's located — Mattala — is close to Hambantota, now meant to become the country's new commercial and transportation hub.
+
+The airport is currently used for handling chartered tourist flights from Russia and some Central Asian countries.
+
+◼️
+
+[Data](articles/9ed06737.json)
+
+---
 
 ### Notice on Recruitment of Graduate Teachers
 
@@ -191,6 +263,20 @@ The draft Public Financial Management Bill was expected to be tabled in the parl
 [Data](articles/a9eadc38.json)
 
 [Extended Data](ext_articles/a9eadc38.ext.json)
+
+---
+
+### ‘Spike in blast fishing’ poses renewed threats to Sri Lanka’s marine ecosystems
+
+*2024-04-24 03:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Spike-in-blast-fishing-poses-renewed-threats-to-Sri-Lankas-marine-ecosystems/131-281225) · `en`
+
+Unable to swim with a ruptured swim bladder, fish injured by an underwater concussive blast slowly sink to the bottom of the sea. (Image courtesy of Dharshana Jayawardena)
+
+In 2020, six people from Rameswaram, Tamil Nadu, India were arrested by the Ramanathapuram Police for attempting to smuggle around 5000 explosive materials similar to gelatin sticks, purportedly for blast fishing. According to a Times of India report, one of the groups was contacted by a fisherman from Sri Lanka. Police investigations revealed that the suspects were anticipating gold or other valuable items instead of money in exchange to the smuggled explosives. While many such explosives including detonators are being manufactured in Tamil Nadu and are being smuggled by boats to be distributed among Sri Lankan fishermen, incidents of dynamite fishing or blast fishing along the Sri Lankan coastal belt has increased by manifold over the recent past, posing a threat to unique maritime ecosystems.
+
+...
+
+[Data](articles/143169e6.json)
 
 ---
 
@@ -752,19 +838,25 @@ Quinton de Kok lost the game and team captain KL. Rahul left with 16 runs. (33 -
 
 ---
 
-### அரச வருமானம் அதிகரிப்பு
+### Increase in state income
 
 *2024-04-24 00:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வருமானம்-அதிகரிப்பு/175-336252) · `ta`
 
-2024 ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் எதிர்பார்க்கப்பட்ட அரச வருமானத்தை விட அதிக வருமானத்தை ஈட்ட முடிந்ததாக நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Dr. Ranjith Siyambalapitiya reports a surplus of 834 billion rupees in the first quarter of 2024, exceeding expected state income. This is attributed to the Sri Lankan Customs and Excise Tax Department's contributions, with a projected total of 4,106 billion rupees by 2024.
 
-இந்தக் காலப்பகுதியில் நாட்டின் பிரதான வருமானம் ஈட்டக்கூடிய இலங்கை சுங்கம் மற்றும் கலால் வரி திணைக்களம் ஆகியவற்றின் ஊடாக 834 பில்லியன் ரூபா ஈட்டப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன், 2024 ஆம் ஆண்டிற்குள் 4,106 பில்லியன் ரூபா அரச வருமானம் எதிர்பார்க்கப்படுவதாக அமைச்சர்  ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+Finance Minister Dr. Ranjith Siyambalapitiya has said that in the first trimester of 2024, the government has been able to earn more income than the expected state income.
+
+834 billion rupees has been earned through the Sri Lankan Customs and Excise Tax Department that will earn the country's main income during this period.
+
+Minister Ranjith Siyambalapitiya has said that by 2024, 4,106 billion rupees is expected.. (A)
 
 ◼️
 
 [Data](articles/b9a69dec.json)
+
+[Extended Data](ext_articles/b9a69dec.ext.json)
 
 ---
 
@@ -1055,6 +1147,8 @@ Nestled on the ground floor of the WishQue Head Office, Cloé Café promises to 
 ...
 
 [Data](articles/65abf240.json)
+
+[Extended Data](ext_articles/65abf240.ext.json)
 
 ---
 
@@ -2083,115 +2177,5 @@ Super Star Rajinikanth plays the hero of the film 'Kuli' directed by director Lo
 [Data](articles/13d3083d.json)
 
 [Extended Data](ext_articles/13d3083d.ext.json)
-
----
-
-### Educational activities in schools are beginning tomorrow
-
-*2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181771) · `ta`
-
-Schools start educational activities tomorrow. The second phase of the school's first installment runs until 3rd May, followed by the third stage from 20th to 31st May. GCE Ordinary Level Examination is from 6th to 15th May.
-
-🟩
-
-Meanwhile, the second phase of the school's first installment of this year will begin tomorrow and will be held until the 3rd of next month.
-
-The third stage of the first installment will be held from 20th to 31st of next month.
-
-The Department of Examinations said that the GCE Ordinary Level Examination will be held from 6 to 15th May.
-
-◼️
-
-[Data](articles/9cf7eaf1.json)
-
-[Extended Data](ext_articles/9cf7eaf1.ext.json)
-
----
-
-### Over 25 tons of garbage disposed in Sri Pada for five months
-
-*2024-04-23 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-25-tons-of-garbage-disposed-in-Sri-Pada-for-five-months/108-281210) · `en`
-
-Hatton, April 23 (Daily Mirror)- More than 25 tons of garbage have been disposed of into the environment in the Sri Pada route from Nallathaniya for the last five months of the Sri Pada pilgrimage season.
-
-Envornment Promotion Officer of Maskeliiya Pradeshiya Sabha, Rasika Samaranayake said the stock of solid waste included about three tons of plastic bottles.
-
-She said the Environmental Unit of the Maskeliya Pradeshiya Sabha will be responsible for clearing garbage disposed of by the pilgrims during the six months of the Sri Pada pilgrim season
-
-The Environmental Officer pointed out that a heavy influx of pilgrims have been experienced on every weekends, particlularly during long weekend holidays and that the disposal of garbage including solid waste had increased.
-
-She said a team of labourers of the Pradeshiya Sabha had been deployed to collect and transport garbage to the recycling centre at Rikaton in Maskeliya.
-
-◼️
-
-[Data](articles/a4d7be1c.json)
-
-[Extended Data](ext_articles/a4d7be1c.ext.json)
-
----
-
-### Over 25 tons of gabage disposed of in Sri Pada for five months
-
-*2024-04-23 16:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-25-tons-of-gabage-disposed-of-in-Sri-Pada-for-five-months/108-281210) · `en`
-
-Hatton, April 23 (Daily Mirror)- More than 25 tons of gabage have been disposed of into the environment in the Sri Pada route from Nallathaniya for the last five months of the Sri Pada pilgrimage season.
-
-Envornment Promotion Officer of Maskeliiya Pradeshiya Sabha, Rasika Samaranayake said the stock of solid waste included about three tons of plastic bottles.
-
-She said the Environmental Unit of the Maskeliya Pradeshiya Sabha will be responsible for clearing gabage disposed of by the pilgrims during the six months of the Sri Pada pilgrim season
-
-The Environmental Officer pointed out that a heavy influx of pilgrims have been experienced on every weekends, particlularly during long weekend holidays and that the disposal of garbage including solid waste had increased.
-
-She said a team of labourers of the Pradeshiya Sabha had been deployed to collect and transport garbage to the recycling centre at Rikaton in Maskeliya.
-
-◼️
-
-[Data](articles/e0c48b04.json)
-
-[Extended Data](ext_articles/e0c48b04.ext.json)
-
----
-
-### More than one in five cars sold worldwide in 2024 will be electric
-
-*2024-04-23 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-one-in-five-cars-sold-worldwide-in-2024-will-be-electric/108-281209) · `en`
-
-More than one in five cars sold worldwide in 2024 will be electric vehicles (EV’s) according to the forecasts of the International Energy Agency (IEA).
-
-The agency’s latest report on the ‘Global Outlook for EV’s’ published today, found that global electric car sales are set to remain robust in 2024, reaching around 17 million by the end of the year.
-
-Moreover, the number of electric cars sold globally in the first three months of 2024 (Q1 2024) is roughly equivalent to the number sold in all of 2020, the report revealed.
-
-Last year, global electric car sales amounted to almost 14 million vehicles.
-
-“Substantial investment in the electric vehicle supply chain, the surging demand, ongoing policy support and declines in the price of EVs set to remake the global auto industry and significantly reduce oil consumption”, the IEA report stated.
-
-...
-
-[Data](articles/a3f1a963.json)
-
-[Extended Data](ext_articles/a3f1a963.ext.json)
-
----
-
-### Court order to protest
-
-*2024-04-23 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195896) · `si`
-
-Court order issued against Ceylon Electricity Workers Association protest tomorrow, prohibiting protests and violence to prevent coconut basemass and pedestrian obstructions.
-
-🟩
-
-Police have obtained a court order against the protest organized by the Ceylon Electricity Workers Association tomorrow (24).
-
-The police said that according to information received by the Colombo Chief Magistrate's Court, the Colombo Chief Magistrate has issued the order.
-
-The order is that there has been ordered no protests or violence to prevent the coconut basemass and obstructing pedestrians.
-
-◼️
-
-[Data](articles/8d2c2ed6.json)
-
-[Extended Data](ext_articles/8d2c2ed6.ext.json)
 
 ---

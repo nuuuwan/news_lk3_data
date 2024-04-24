@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 18:26:58**
+As of **2024-04-24 18:37:06**
 
 ## Newspaper Stats
 
-*Scraped **20,704** Articles*
+*Scraped **20,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,727
 tamilmirrorlk | 2,394
-adaderanalk | 2,468
+adaderanalk | 2,469
 virakesarilk | 3,109
 dailymirrorlk | 3,231
 adaderanasinhalalk | 3,352
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,352
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,700 (100.0%) of 20,704 articles have been extended.
+20,700 (100.0%) of 20,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Russian deputy defense minister arrested for bribery
+
+*2024-04-24 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98821/russian-deputy-defense-minister-arrested-for-bribery) · `en`
+
+In a glass cage in a Moscow court stands Russia’s Deputy Defense Minister Timur Ivanov on Wednesday (April 24), a day after he was arrested at work for accepting large bribes.
+
+The court remanded him in custody for two months and said Ivanov entered into a criminal conspiracy with third parties to receive property and services while working for the ministry of defense.
+
+Ivanov, deputy minister since 2016, was in charge of property management, housing, construction and mortgages.
+
+The defense ministry, whose spending has spiraled since the start of the war, has made no comment.
+
+As the right hand man of Defense Minister Sergei Shoigu, Ivanov’s detention is the highest profile corruption case since Russia sent troops into Ukraine in February 2022.
+
+The Kremlin said President Vladimir Putin had been informed, and Shoigu had also been told.
+
+Ivanov was present earlier on Tuesday at a meeting of top defense officials chaired by Shoigu.
+
+...
+
+[Data](articles/b164444b.json)
+
+---
 
 ### හදිසියේම ජනපති සහ බැසිල් අතර හමුවක්
 
@@ -2255,35 +2279,5 @@ Following his arrest, the suspect was produced before the Puttalam Magistrate's 
 [Data](articles/45c446dd.json)
 
 [Extended Data](ext_articles/45c446dd.ext.json)
-
----
-
-### America makes a severe decision about Ticktock
-
-*2024-04-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195917) · `si`
-
-The American Senate approved a bill banning Ticktock, with Bitdans given 9 months to sell parts. The bill requires Chinese approval for selling shares. 79 senators voted for the ban, with 18 opposing. Bitdans claims 107 million Ticktock users in the US, affecting ownership. Ticktock contributes $24 billion annually to the US economy.
-
-🟩
-
-The American Senate has given his approval for the Bill that leads to banning ticktock.
-
-According to the Ticktock owner, Bitdans, has been given to nine months for 9 months, to sell his parts for the tool.
-
-The bill is to be produced before President Joe Biday, who has been sent to President Joe Biday, to the approval.
-
-If it was done, Bitdans must obtain the approval of the Chinese authorities for selling ticktock shares. They say that this is a force to sell parts.
-
-There are 79 people in the Senate for the Ticktock ban and only 18 have been opposed.
-
-The Bitdans said that 107 million tickrok users were in the United States and that their free speech could influence their ownership.
-
-Ticktock also contributes Rs. 24 billion to the American economy annually.
-
-◼️
-
-[Data](articles/6070779c.json)
-
-[Extended Data](ext_articles/6070779c.ext.json)
 
 ---

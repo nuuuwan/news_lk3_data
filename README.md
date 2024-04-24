@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 23:53:13**
+As of **2024-04-25 00:03:54**
 
 ## Newspaper Stats
 
-*Scraped **20,759** Articles*
+*Scraped **20,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,151
 economynextcom | 1,180
 adalk | 1,731
 tamilmirrorlk | 2,400
-adaderanalk | 2,473
+adaderanalk | 2,474
 virakesarilk | 3,129
 dailymirrorlk | 3,238
 adaderanasinhalalk | 3,357
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,752 (100.0%) of 20,759 articles have been extended.
+20,759 (100.0%) of 20,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### UN calls for investigation into mass graves uncovered at two Gaza hospitals raided by Israel
+
+*2024-04-24 23:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98825/un-calls-for-investigation-into-mass-graves-uncovered-at-two-gaza-hospitals-raided-by-israel) · `en`
+
+The United Nations called Tuesday for “a clear, transparent and credible investigation” of mass graves uncovered at two major hospitals in war-torn Gaza that were raided by Israeli troops.
+
+Credible investigators must have access to the sites, U.N. spokesman Stephane Dujarric told reporters, and added that more journalists need to be able to work safely in Gaza to report on the facts.
+
+Earlier Tuesday, U.N. human rights chief Volker Türk said he was “horrified” by the destruction of the Shifa medical center in Gaza City and Nasser Hospital in the southern city of Khan Younis as well as the reported discovery of mass graves in and around the facilities after the Israelis left.
+
+He called for independent and transparent investigations into the deaths, saying that “given the prevailing climate of impunity, this should include international investigators.”
+
+...
+
+[Data](articles/7b5a3006.json)
+
+---
 
 ### Iran, Sri Lanka boost bilateral bonding in Uma Oya project unveiling
 
@@ -1076,6 +1094,8 @@ The debt office sold 35 billion rupees of 3-month bills at 9.90 percent down fro
 
 [Data](articles/0ffba7c3.json)
 
+[Extended Data](ext_articles/0ffba7c3.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes stronger at 297.95/298.10 to US dollar
@@ -1102,6 +1122,8 @@ A bond maturing on 01.10.2032 closed at 12.35/60 percent from 12.40.50 percent. 
 
 [Data](articles/244ad810.json)
 
+[Extended Data](ext_articles/244ad810.ext.json)
+
 ---
 
 ### Global South’s desire to establish independence hinted at Sri Lanka-Iran leaders’ talk
@@ -1119,6 +1141,8 @@ Most of the Global South’s countries are commonly identified as lacking in the
 ...
 
 [Data](articles/b4a72e5c.json)
+
+[Extended Data](ext_articles/b4a72e5c.ext.json)
 
 ---
 
@@ -1165,6 +1189,8 @@ The ASPI was up mostly due to interest in LOLC group companies; Browns Investmen
 ...
 
 [Data](articles/5a82e56a.json)
+
+[Extended Data](ext_articles/5a82e56a.ext.json)
 
 ---
 
@@ -2263,29 +2289,5 @@ Ella Divisional Secretary Indika Kayan Pathirana added that the family is curren
 [Data](articles/7ffef5d6.json)
 
 [Extended Data](ext_articles/7ffef5d6.ext.json)
-
----
-
-### Damitha Abeyratne and husband granted bail
-
-*2024-04-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98812/damitha-abeyratne-and-husband-granted-bail) · `en`
-
-Actress Damitha Abeyratne and her husband were granted bail on the orders of the Colombo Fort Magistrate’s Court on Wednesday (24).
-
-Accordingly, the couple was released on surety bonds of Rs. 5 million each.
-
-The actress and her spouse, who had been wanted by the CID, were arrested on 04 April after they appeared before the court and were kept in remand custody.
-
-The CID is investigating Abeyratne and her husband, in connection with their involvement in an alleged money scam.
-
-The Computer Crimes Division of the CID initiated an investigation into the alleged defrauding of Rs. 3 million by the couple on the promise of employment in South Korea. Subsequently, the CID informed the court that Abeyratne and her husband would be named as suspects of the relevant case.
-
-Fort Magistrate’s Court also rejected a writ petition looking to prevent their arrest.
-
-◼️
-
-[Data](articles/9c8eb788.json)
-
-[Extended Data](ext_articles/9c8eb788.ext.json)
 
 ---

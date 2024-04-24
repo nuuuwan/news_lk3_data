@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 14:52:00**
+As of **2024-04-24 15:04:00**
 
 ## Newspaper Stats
 
-*Scraped **20,668** Articles*
+*Scraped **20,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,82 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,721
-tamilmirrorlk | 2,389
+adalk | 1,722
+tamilmirrorlk | 2,391
 adaderanalk | 2,463
 virakesarilk | 3,103
-dailymirrorlk | 3,225
+dailymirrorlk | 3,226
 adaderanasinhalalk | 3,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,667 (100.0%) of 20,668 articles have been extended.
+20,668 (100.0%) of 20,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ෆොක්ස් හිල් ධාවකයින් දෙදෙනාට ඇප
+### நடிகை தமிதாவுக்கும், கணவருக்கும் பிணை
+
+*2024-04-24 14:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதாவுக்கும்-கணவருக்கும்-பிணை/175-336285) · `ta`
+
+நடிகை தமிதா அபேரத்ன மற்றும் அவரது கணவருக்கு கொழும்பு கோட்டை நீதவான் நீதிமன்றத்தின் உத்தரவின் பேரில் புதன்கிழமை (24) பிணை வழங்கப்பட்டுள்ளது.
+
+அதன்படி, தம்பதியர்கள் 50 இலட்சம் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவிக்குமாறு கொழும்பு கோட்டை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+குற்றப் புலனாய்வுப் பிரிவினரால் தேடப்பட்டு வந்த நடிகையும் அவரது மனைவியும் ஏப்ரல் 04ஆம் திகதி நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட பின்னர் கைது செய்யப்பட்டனர்.
+
+குற்றப் புலனாய்வுப் பிரிவினர் அபேரத்னவையும் அவரது கணவரையும் பண மோசடியில் ஈடுபட்டமை தொடர்பில் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+இதற்கமைய, ரூ. 100 கோடி மோசடி செய்ததாக குற்றஞ்சாட்டப்பட்ட குற்றப் புலனாய்வுப் பிரிவின் கணினி குற்றப்பிரிவு விசாரணைகளை ஆரம்பித்துள்ளது.
+
+இதனையடுத்து, அபேரத்னவும் அவரது கணவரும் சம்பந்தப்பட்ட வழக்கின் சந்தேக நபர்களாக குறிப்பிடப்படுவார்கள் என குற்றப் புலனாய்வுப் பிரிவினர் நீதிமன்றத்திற்கு அறிவித்தனர்.
+
+அவர்களைக் கைது செய்வதைத் தடுக்கக் கோரிய ரிட் மனுவையும் கோட்டை நீதவான் நீதிமன்றம் நிராகரித்தது.
+
+◼️
+
+[Data](articles/7a8ac742.json)
+
+---
+
+### விஜயதாச, துஷ்மந்தவுக்கு தடை உத்தரவு
+
+*2024-04-24 14:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாச-துஷ்மந்தவுக்கு-தடை-உத்தரவு/175-336284) · `ta`
+
+கடந்த 21ஆம் திகதி ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராகவும் பதில் பொதுச் செயலாளராகவும் தெரிவு செய்யப்பட்ட அமைச்சர் விஜயதாச ராஜபக்ஷ மற்றும்  சாரதி துஷ்மந்த ஆகியோருக்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான   இரண்டு தடை உத்தரவுகளை புதன்கிழமை (24) பிறப்பித்துள்ளார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சி உறுப்பினர்களும் அமைச்சர்களுமான  லசந்த அழகியவண்ண,  துமிந்த திசாநாயக்க மற்றும்   மஹிந்த அமரவீர ஆகியோரால் முன்வைக்கப்பட்ட மனுவை பரிசீலித்ததன் பின்னர் வெளியிடப்பட்ட இந்த தடை உத்தரவுகள் அடுத்த மாதம் எட்டாம் திகதி வரை அமுலில் இருக்கும் என்றும் உத்தரவிடப்பட்டுள்ளது.
+
+மனுதாரர்கள் சார்பில், ஜனாதிபதியின் சட்டத்தரணி  சந்தக ஜயசுந்தர, நீதிமன்றில் வாதகங்களை முன்வைத்து, பிரதிவாதிகள் அந்தப் பதவிகளில் அமர்வது சட்டவிரோதமானது மற்றும் கட்சியின் யாப்புக்கு முரணானது எனத் தெரிவித்தார்.
+
+விஜயதாச ராஜபக்ச,  ஸ்ரீலங்கா சுதந்திரக் கட்சியில் அங்கம் வகிக்காதவர் எனவும், அங்கம் வகிக்காத வேறு ஒரு கட்சியின் உறுப்பினர் ஸ்ரீலங்கா சுதந்திரக் கட்சியில் பதவி வகிப்பது அரசியலமைப்பு சட்டத்திற்கு முரணானது எனவும்   தெரிவித்தார்.
+
+...
+
+[Data](articles/fbd7001e.json)
+
+---
+
+### Fox Hill riders released on bail
 
 *2024-04-24 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195929) · `si`
 
-ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී පුද්ගලයින් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුරට අදාළව අත්අඩංගුවට ගත් ධාවකයින් දෙදෙනා ඇප මත මුදාහැර තිබේ.
+Fox Hill riders arrested for accident released on bail.
 
-එම ධාවකයින් දෙදෙනා දියතලාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අනතුරට අදාළව පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රිමාන්ඩ් බන්ධනාගාරගතකෙරිණි.
+🟩
+
+The two runners who were arrested in connection with the accident have been released on bail.
+
+The two drivers were remanded after being arrested by police while receiving treatment at the Diyatalawa Hospital.
 
 ◼️
 
 [Data](articles/6ef87346.json)
+
+[Extended Data](ext_articles/6ef87346.ext.json)
 
 ---
 
@@ -93,6 +141,20 @@ The Iranian Head of State made these remarks after participating in the ceremony
 [Data](articles/4ea95771.json)
 
 [Extended Data](ext_articles/4ea95771.ext.json)
+
+---
+
+### Court blocks Maithri from running SLFP
+
+*2024-04-24 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-blocks-Maithri-from-running-SLFP/108-281289) · `en`
+
+Colombo, April 24 (Daily Mirror) -  The Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
+
+Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by SLFP activist Montague Sarathchandra. This order will be effective till the conclusion of the hearing into this matter.
+
+◼️
+
+[Data](articles/8d9c120a.json)
 
 ---
 
@@ -495,6 +557,24 @@ In this case, political sources say that if Vijayadasa Rajapaksa loses the membe
 [Data](articles/254e1fb0.json)
 
 [Extended Data](ext_articles/254e1fb0.ext.json)
+
+---
+
+### තලෙයිමන්නාරමේ සිට ධනුෂ්කොඩි දක්වා පිහිනන්න ගිය ඉන්දියානුවන් 31ගෙන් අයේ මරුට
+
+*2024-04-24 12:18:44* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරමේ-සිට-ධනුෂ්කොඩි-දක්වා-පිහිනන්න-ගිය-ඉන්දියානුවන්-31ගෙන්-අයේ-මරුට/11-409238) · `si`
+
+තලෙයිමන්නාරම් සිට ඉන්දියවේ ධනුෂ්කොඩි අරිචල්මුනෙයි දක්වා වූ මුහුදු සීමාව පිහිණමින් තරණය කිරීමින් සිටි ඉන්දියානුවන් 31 දෙනෙකුගෙන් ඒක් අයෙකු පිහිනමින් සිටියදී ඇති වූ හදීසි රෝගි තත්වයක් හේතුවෙන් මිය ගෙස් ඇතැයි රාමේෂ්වරන් පොලීසිය ඉන්දීය මාධ්‍ය වෙතට පවසා ඇත.
+
+අදාල ඉන්දියානුවන් ඊයේ (23) දින ඉන්දියාවේ ධනුෂ්කොඩි සිට තලෙයිමන්නරම් දක්වා බොට්ටුවකින් පැමිණ තලෙයිමන්නරම් සිට ධනුෂ්කොඩි අරිචල්මුනෙයි දක්ව වූ මුහුදු සීමාව පිහිනා තරණය කිරීම ආරම්භ කරන ලදි.
+
+එහිදී 31 දෙනාගෙ කණ්ඩායමේ වායෝවෘද්ද පුද්ගලයෙකු වූ 78 හැවිරිදි ඉන්දියාවේ බැංගලෝරයේ පදිංචි ගෝපාල් රාඔි හට පිහිනමින් සිටයදී පපුවේ ඇති වූ හදීසි රෝගී තත්වයක් හේතුවෙන් පිහිනීම නවතා ඔවුන්ගේ බෝට්ටුවට ඇතුල්කර ගත්තද බොට්ටුව තුලදී මිය ගොස් තිබුණි.
+
+මේ හේතුවෙන් ධනුෂ්කෙඩි දක්වා පිහිණමින් සිටි අනෙක් ඉන්දීය ජාතිකයින් 30 දෙනාද ඔවුන්ගේ පිහිනීම නවතා නැවත බේට්ටුව මගින් ධනුෂ්කොඩි දක්වා ගොස් ඒ පිළිබඳව රාමේෂ්වරන් පොලීසියට දැනුම් දෙනු ලැබීය.
+
+...
+
+[Data](articles/a326f73e.json)
 
 ---
 
@@ -2169,95 +2249,5 @@ Chairman Joseph Starling said that the recruitment teachers have not been placed
 [Data](articles/f97275a3.json)
 
 [Extended Data](ext_articles/f97275a3.ext.json)
-
----
-
-### Schools resume after a year holiday
-
-*2024-04-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195910) · `si`
-
-Schools resume today after a year's holiday. The second phase of the first season 2 starts, following the completion of the first phase on April 10th. The General Assessment Examination will be held from May 6th to 18th, with the second phase ending on May 3rd.
-
-🟩
-
-Schools for leave for the Sinhala and Tamil New Year will resume today (24).
-
-Accordingly, the second phase of the first season 2 of this year will commence today.
-
-The first phase of the first school was completed by 10th April.
-
-Meanwhile, the General Assessment Examination will be held from May 6th to 18th.
-
-The second phase of the first school will end on May 3.
-
-◼️
-
-[Data](articles/d16da13e.json)
-
-[Extended Data](ext_articles/d16da13e.ext.json)
-
----
-
-### Sri Lanka weighs Open Skies amidst plans for national carrier privatization
-
-*2024-04-24 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-weighs-Open-Skies-amidst-plans-for-national-carrier-privatization/155-281248) · `en`
-
-Colombo, April 24 (Daily Mirror) - Sri Lanka is in a dilemma to decide whether to adopt an open skies policy or not in the event of divestiture of shares of the national carrier ‘SriLankan Airlines’, a top official said .
-
-An Open Skies policy means liberalization and ease of access and rules of use of national airports for foreign airlines. It is joined in order to increase the tourist flow and to develop the potential as a regional air hub.
-
-The government has now called for bids to privatize or restructure the national career .
-
-The government, acting through the Ministry of Finance, Economic Stabilization and National Policies called for Request for Qualification (RfQ) from potential investors for the acquisition of shares in SriLankan Airlines Limited. The deadline for submission of proposals ended at 2pm on Monday, April 22, 2024.
-
-...
-
-[Data](articles/98d465ea.json)
-
-[Extended Data](ext_articles/98d465ea.ext.json)
-
----
-
-### Heavy rains in several parts of the Western and west
-
-*2024-04-24 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195907) · `si`
-
-Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, and Uva provinces, with potential for lightning and wind.
-
-🟩
-
-From the Galle and Matara districts of the Western, Sabaragamuwa, Central and Central provinces. Showers or thundershowers will occur at several places about 2.00.
-
-The Department of Meteorological Department announced that showers or thundershowers will occur at several places in the Uva Province and even night.
-
-Thundershowers will develop at several places in the coastal areas from Puttalam to Galle.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur more than 50.
-
-Some locations in the Sabaragamuwa, Central and Uva provinces can last a morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/46b749ed.json)
-
-[Extended Data](ext_articles/46b749ed.ext.json)
-
----
-
-### Katunayake-Colombo Expressway closed from 2pm to 3pm today
-
-*2024-04-24 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayake-Colombo-Expressway-closed-from-2pm-to-3pm-today/108-281246) · `en`
-
-Colombo, April 24 (Daily Mirror) - In view of the Iranian President's visit, Katunayake - Colombo Expressway will be closed from 2 pm to 3 pm and 9:30 pm to 10:30 pm today, police announced.
-
-They stated that several roads in Colombo between Lotus roundabout, Presidential Secretariat, President's House in Fort, and NSA roundabout will also be closed in the afternoon. The road from Mattala to Uma Oya will be closed from 9.45 am to 11 am.
-
-◼️
-
-[Data](articles/425ca568.json)
-
-[Extended Data](ext_articles/425ca568.ext.json)
 
 ---

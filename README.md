@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 09:52:40**
+As of **2024-04-24 10:03:31**
 
 ## Newspaper Stats
 
-*Scraped **20,585** Articles*
+*Scraped **20,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 2,373
 adaderanalk | 2,451
 virakesarilk | 3,089
 dailymirrorlk | 3,212
-adaderanasinhalalk | 3,330
+adaderanasinhalalk | 3,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,583 (100.0%) of 20,585 articles have been extended.
+20,585 (100.0%) of 20,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### නව මන්ත්‍රීවරයෙක් දිවුරුම් දෙයි
+
+*2024-04-24 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195916) · `si`
+
+එන්. ජී. වීරසේන ගමගේ මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු මන්ත්‍රී ධුරයේ දිවුරුම් දෙනු ලැබීය.
+
+ඒ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහාය.
+
+අද (24) උදෑසන පාර්ලිමේන්තු කටයුතු ආරම්භ කළ අවස්ථාවේ දී කථානායකවරයා ඉදිරියේ වීරසේන මහතා එලෙස දිවුරුම් දෙනු ලැබීය.
+
+◼️
+
+[Data](articles/ce972a10.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-04-24 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195915) · `si`
+
+අලුත් අවුරුද්දෙන් පසුව පළමු වරට අද (24) දිනයේ පාර්ලිමේන්තුව මෙලෙස රැස්වුණි.
+
+පාස්කු ප්‍රහාරය පිළිබද සභාව කල් තැබීමේ විවාදයක් අද, හෙට (25) සහ සිකුරාදා (26) යන දිනවල පැවැත්වීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඊට අමතරව අද දිනයේ දී අපරාධ නඩු විධාන සංග්‍රසය සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ විෂ වර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිතය.
+
+මේ අතර ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාව පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව වෙත අද කැඳවා තිබේ.
+
+පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේ හෙට දිනයේ දී විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල කෝප් කමිටුව හමුවට කැඳවා ඇති බවය.
+
+ලබන සිකුරාදා දිනයේ ශ්‍රීලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/22c62adf.json)
+
+---
 
 ### Teacher recruitment interviews from April 29–May 9 at Education Ministry
 
@@ -47,6 +85,8 @@ The list of names of eligible candidates, letters calling for interviews, interv
 ...
 
 [Data](articles/5cdedebd.json)
+
+[Extended Data](ext_articles/5cdedebd.ext.json)
 
 ---
 
@@ -228,17 +268,25 @@ He was later produced before the Puttalam Magistrate's Court and remanded until 
 
 ---
 
-### තක්කාලි මිල පහළට- ගොවියෝ කබලෙන් ලිපට
+### Tomato prices down - a frying pan
 
 *2024-04-24 08:00:43* · [`adalk`](https://www.ada.lk/picture_story/තක්කාලි-මිල-පහළට--ගොවියෝ-කබලෙන්-ලිපට/10-409229) · `si`
 
-වැලිමඩ , බොරලන්ද , බෝගහකුඹුර , කැප්පෙටිපොල , ලුණුවත්ත , මස්පන්න, අඹගස්දෝව , මැදවෙල , කැටගොඩ ආදී ප්‍රදේශ රැසක වැලිමඩ හා ඌව පරණගම ගොවින් තක්කාලි වගාව මෙවර කන්නයේ සිදු කර ඇති අතර එම ගොවින් මෙලෙස සිය අස්වනු විකුණා ගැනීමට නොහැකිව පීඩාවට පත්ව ඇත.
+Tomato prices in Welimada, Boralanda, Boragala, Kepherapola, Ambagoda, and Uva Palagoda have fallen due to high fertilizer costs, affecting farmers' ability to sell their harvest at Keppetipola Special Center. Economic centers and exhauspresses report a decline in tomato sales, with spoiled tomatoes being unsalable. The price for a kilogram of tomatoes has dropped to Rs. 70-100, causing farmers to seek support programs.
 
-කැප්පෙටිපොල විශේෂීත ආර්ථික මධ්‍යස්ථානය වෙත තම අස්වනු විකුණා ගැනීම සදහා රැගෙන ආවද වෙලෙදුන් විසින් තම අස්වනු ඉතා අඩුමිලකට ඉල්ලන බවයි ගොවින් පවසා සිටින්නේ. ගොවින් කියා සිටින්නේ තක්කාලි බීජ මිල ඉහල අගයක පැවතීමත් වගාව නඩත්තු කිරීමේදී යොදන කෘමිනාශක , රසායනික පොහොර ආදියේ මිල ඉතා අධික වීම නිසා මෙලෙස අඩු මුදලකට අස්වනු අලෙවි කිරීම තමන්ට ගිය වියදමවත් පියවා ගැනීමට නොහැකි තත්වයක් උදා කර ඇති බවයි.
+🟩
+
+The Welimada tomatoes of Welimada, Boralanda, Boralanda, Boralanda, Boragala, Kepherapola, Ambagoda, Ambagoda, Ambagoda, Ambagoda and Uva Palagoda have been unable.
+
+The farmers say that their harvest is very demanding their harvest to sell their harvest to Keppetipola Special Center. The farmers claim that the price of the tomato prices are highly interested in maintaining the cultivation, the price of chemical fertilizer has achieved a situation that he has unable to cover the cost.
+
+The economic centers and exhauspresses say that the cost of tomatoes have fallen to sell the tomatoes, which have been declined to sell more and buying tomatoes.. A spoiled tomatoes cannot be discarded to sell the phase of shops and selling Keppetipola at the economic center of Keppetipola.
 
 ...
 
 [Data](articles/c6b26bfc.json)
+
+[Extended Data](ext_articles/c6b26bfc.ext.json)
 
 ---
 
@@ -2123,51 +2171,5 @@ Director r. Ramarajan, Radha Ravi and M in the film 'Samaniyan' directed by Rake
 [Data](articles/f52bde65.json)
 
 [Extended Data](ext_articles/f52bde65.ext.json)
-
----
-
-### National People's Power is popular among the people - Chinese delegation
-
-*2024-04-23 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181793) · `ta`
-
-The Chinese delegation, led by Sun Hain, praises National People's Power's political development and popularity in Sri Lanka. They met with President Anura Kumara Dissanayake to discuss current politics, elections, and recovery.
-
-🟩
-
-The delegation headed by the Deputy Minister of the International Affairs Department of the Chinese Communist Party, Sun Hain, has told National People's Power President Anura Kumara Dissanayake that the national people's power is politically developed and popular among the people.
-
-The delegation, including the Deputy Minister of the International Affairs Department of the Chinese Communist Party, which is on an official visit to Sri Lanka, met with National People's Power President Anura Kumara Dissanayake at the People's Liberation Front office on Tuesday (23).
-
-Sun Hayan, Deputy Minister of the Communist Party of International Affairs and the Central Executive Committee of the Chinese Communist Party, and the Deputy Director General of the International Affairs Department of the Chinese Communist Party, Sen. Cianjian, Chinese Embassy in Colombo.
-
-...
-
-[Data](articles/b499190b.json)
-
-[Extended Data](ext_articles/b499190b.ext.json)
-
----
-
-### Sri Lanka single borrower limits cut to 25-pct of bank capital, SOEs also included
-
-*2024-04-23 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-single-borrower-limits-cut-to-25-pct-of-bank-capital-soes-also-included-159744/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued directions limiting loans to a singe borrower or a group of connected customers to 25 percent of Tier I capital, with state enterprises which turned out to be the biggest borrowers, also included.
-
-In a 2007 direction, banks were allowed to give loans up to 30 percent of capital for a single customer and 33 percent for a group but the rules were widely violated in the case of state enterprises, which were used as off-budget vehicles to give energy and other subsidies.
-
-Banks will have to limit exposures to 25 percent starting from January 2026.
-
-According to transitional provisions published in the direction seems to indicate that some banks may have single borrower exposures of 85 percent or more.
-
-They will be required to bring exposures down to 60 percent by 2027 and 25 percent by 2028.
-
-Energy utilities were made to borrow from state banks to run off-budget subsidies under plan avoid a price formula during the Rajapaksa regimes.
-
-...
-
-[Data](articles/c07a279c.json)
-
-[Extended Data](ext_articles/c07a279c.ext.json)
 
 ---

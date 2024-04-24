@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 22:05:07**
+As of **2024-04-24 22:18:38**
 
 ## Newspaper Stats
 
-*Scraped **20,742** Articles*
+*Scraped **20,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,731
-tamilmirrorlk | 2,399
+tamilmirrorlk | 2,400
 adaderanalk | 2,472
 virakesarilk | 3,125
-dailymirrorlk | 3,236
-adaderanasinhalalk | 3,355
+dailymirrorlk | 3,237
+adaderanasinhalalk | 3,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,741 (100.0%) of 20,742 articles have been extended.
+20,742 (100.0%) of 20,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### ශ්‍රී පාද උඩමළුවෙන් පහළට පැන්න තරුණයා හමුවෙයි
+
+*2024-04-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195940) · `si`
+
+කාන්තාවන් දෙදෙනෙකු සමග වන්දනාවේ පැමිණ ශ්‍රී පාද උඩ මළුවෙන් පහළට පැන අතුරුදන් වූ දිනේෂ් හේමන්ත නමැති වයස අවුරුදු 33 ක සූරියවැව ප්‍රදේශයේ පදිංචි තරුණයා මේ වනවිට හමුවී තිබේ
+
+එම තරුණයා අද උදෑසන ශ්‍රී පාද රක්ෂිතයට ආසන්නයේ නල්ලතන්නිය පොලිස් වසමට අයත් මරේ වතු යායේ රාජමලේ ප්‍රදේශයේ සිටිනු දැක වතු කම්කරුවන් පිරිසක් විසින් නල්ලතන්නිය පොලිස් ස්ථානය වෙත රැගෙනවිත් භාරදී තිබේ.
+
+එහිදී පොලිස් නිලධාරීන් විසින් එම තරුණයාව ප්‍රතිකාර සඳහා මස්කෙළිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව දික්ඔය මූලික රෝහල වෙත මාරුකර යවා තිබේ.
+
+තරුණයා සෙවීම සඳහා යුද හමුදාව සහ පොලිස් විශේෂ කාර්ය බළකාය විසින් දින 3ක් තිස්සේ විශේෂ මෙහෙයුමක් සිදුකර පසුව එම මෙහෙයුම අත්හැර දැමීය.
+
+◼️
+
+[Data](articles/2bc8992f.json)
+
+---
+
+### ஈரானுக்கும்  இலங்கைக்கும் இடையில் 5 புரிந்துணர்வு ஒப்பந்தங்கள்
+
+*2024-04-24 21:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கும்-இலங்கைக்கும்-இடையில்-5-புரிந்துணர்வு-ஒப்பந்தங்கள்/175-336294) · `ta`
+
+ஈரானுக்கும்  இலங்கைக்கும்  இடையிலான இருதரப்பு  உறவுகளை வலுப்படுத்தும் நோக்கத்தில் 5 புரிந்துணர்வு ஒப்பந்தங்கள் (MoUs)கைச்சாத்திடப்பட்டன.
+
+இந்த புரிந்துணர்வு ஒப்பந்தங்களின் ஊடாக  திரைப்படத் துறை, ஊடகம், சுற்றுலா, கூட்டுறவு, நூலகங்கள், கலாச்சாரம், அறிவியல், தொழில்நுட்பம் மற்றும் விளையாட்டு ஆகிய துறைகளில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பு மேம்படுத்தப்படும் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசிக்கும் (Dr. Ebrahim Raisi) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும்  இடையிலான உத்தியோகபூர்வ சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+இதன் பின்னர் ஈரானுக்கும்  இலங்கைக்கும்  இடையில் 5 புரிந்துணர்வு ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/86fd68d9.json)
+
+---
+
+### Road closures spark public outcry during Iranian President’s visit
+
+*2024-04-24 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Road-closures-spark-public-outcry-during-Iranian-Presidents-visit/108-281300) · `en`
+
+Colombo, April 24 (Daily Mirror)- The closure of roads in Colombo without prior notice during evening rush hours as part of security arrangements for the visit of Iranian President Ebrahim Raisi inconvenienced the public and motorists alike.
+
+Incensed by the notice of road closures, they vented their anger by honking horns. The government made tight security arrangements in view of the visit of the Iranian leader for the inauguration of the Uma Oya project.
+
+The roads were closed to facilitate the movement of his convoy without any prior notice as a security measure, but the motorists’ protest amounts to kind of an embarrassment for the government during the visit of a friendly country that has stood by Sri Lanka during its trying times. Iran and Sri Lanka have enjoyed excellent ties for decades and cooperated with each other in numerous international forums.
+
+◼️
+
+[Data](articles/6c50bf48.json)
+
+---
 
 ### Iranian president meets with Sri Lankan president
 
@@ -464,21 +516,33 @@ The Association further stated that the price of 400 g of imported milk powder w
 
 ---
 
-### රිලා ගහනය අඩු කිරීමට පේරේ කළ අලුත්ම පර්යේෂණය
+### The latest research made to reduce Rila population
 
 *2024-04-24 18:33:15* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ගහනය-අඩු-කිරීමට-පේරේ-කළ-අලුත්ම-පර්යේෂණය/11-409246) · `si`
 
-මෙරට ගොවි ජනතාවට පමණක් නොව සාමාන්‍ය ජනතාවට ද විශාල කරදරයක් වී ඇති රිළා ගහනය වැඩිවීමවැළැක්වීම සඳහා රිළවියන්ගේ ගර්භාෂය තුළට ලූපයක් ඇතුළත් කොට ගැබ් ගැනීමවැළැක්වීම සඳහා වූ පර්යේෂණයක් පේරාදෙණිය විශ්වවිද්‍යාලයේ පශු වෛද්‍ය පීඨය විසින් ඉතා සාර්ථකව සිදු කළේය .
+The University of Peradeniya's Veterinary Medical Faculty has made significant strides in reducing the Rila population through research, involving the Faculty of Dental Medicine and other experts. The project, which includes an annual exhibition, has been successful in controlling the uterus population, impacting about 20% of the country's vegetables and fruits.
 
-රිළවියන්ගේ ගර්භාෂය සඳහා ඉතා කුඩා ප්‍රමාණයේලූපයක්ඒ සඳහා නිර්මාණය කොට තිබූ අතරඑම ලූපය අද (24) රිලවියගේ ගර්භාෂය තැන්පත් කිරීමසිදුකෙරුණි .
+🟩
 
-එම ලූපය නිර්මාණය කිරීම සඳහා පෙරදෙණියශික්ෂන් රෝහලේ ප්‍රසව හා නාරිවේද අංශය වෛද්‍යවරුන්ගේත්පේරාදෙණිය දන්ත වෛද්‍ය පීඨයේද සාය එහෙම වූ බවපෙරාදෙණිය විශ්ව විද්‍යාලයේ පශු වෛද්‍ය පීඨයේ පසු ශික්ෂන හා පශු සායනික අංශයේ අංශාධිපතිමහාචාර්ය අශෝක දංගොල්ල මහතා පැවසීය .
+The Veterinary Medical Faculty of the University of Peradeniya has been successfully included in the pregnancy of the uterus for the pregnancy of relatives, not only the popularity of the country.
 
-එම පර්යේෂණය සඳහා එක් වරක් පැටවුන් බිහිකළ වයස අවුරුදු 11/2 පමණවන රිළවියක්එම පර්යේෂණය සඳහා යොදාගෙන තිබූ අතරසැත්කමෙන් පසුවසිදුකළ එක්ස් රේ පරීක්ෂණයේදීඑම ලූපය සාර්ථකව ගරුභාෂය තුළ තැන්පත්ව තිබෙන අයුරුදැක ගැනීමට හැකි වූ බවදංගොල්ල මහතා පැවසීය .
+The lounge was deposited for a small amount of uterus for the uterus of the waves.
+
+The Paradenteradeniya Hospital Division of the Faculty of Veterinary and Veterinary Clinic, Vidyalaya, the Faculty of the Veterinary Medical Faculty of the Dental Medical Faculty of the University of Dantaya
+
+The Exhibition used for research once in the year 11/2 years of age, the year 11/2 years of age was able to keep the loport in the detailed in the revelation.
+
+Dangolla was aited to about half an hour to dowritten the loop to deposit the loop into the retailer.
+
+He has identified as a result of 10-15 times in a normal life.
+
+He also made the appointment of the people who were resolved in the area of 20% of the vegetable and fruits of the country.
 
 ...
 
 [Data](articles/2d400e88.json)
+
+[Extended Data](ext_articles/2d400e88.ext.json)
 
 ---
 
@@ -2189,67 +2253,5 @@ The order was issued when a petition filed by the three against the Sri Lanka Fr
 [Data](articles/6790b951.json)
 
 [Extended Data](ext_articles/6790b951.ext.json)
-
----
-
-### Extension of a ban on removal from positions
-
-*2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளில்-இருந்து-நீக்குவதற்கான-தடை-நீட்டிப்பு/175-336268) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has extended the ban on the removal of Minister Mahinda Amaraweera, Lasantha Alagavanna, and MP Duminda Dissanayake from their posts until May 8, following a court order in response to a petition filed against the party.
-
-🟩
-
-The ban on the removal of three from the Sri Lanka Freedom Party (SLFP) posts has been extended.
-
-Minister Mahinda Amaraweera, Lasantha Alagavanna and MP Duminda Dissanayake have been banned from implementing a resolution taken to remove the Sri Lanka Freedom Party (SLFP) posts.
-
-The Colombo District Court today (24) ordered the ban to be extended till May 8.
-
-The order was issued when a petition filed by the three against the Sri Lanka Freedom Party (SLFP) was taken up for hearing today.
-
-◼️
-
-[Data](articles/a260c184.json)
-
-[Extended Data](ext_articles/a260c184.ext.json)
-
----
-
-### Another banned for Maithri
-
-*2024-04-24 12:02:38* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-තවත්-අතුරු-තහනමක්/11-409236) · `si`
-
-The Colombo District Court permanently bans the Chairman of the Sri Lanka Freedom Party (SLFP) from attending the trial of Maithri Monthegorodage.
-
-🟩
-
-The Colombo District Court today issued a permanent ban in the Colombo District Court today preventing the Chairman of the Sri Lanka Freedom Party (SLFP).
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වූ මොන්ටේගු සරත්චන්ද්‍ර මහතා ඉදිරිපත් කළ පැමිණිල්ලකට අදාළව  මෙම නියෝගය නිකුත් කරනු ලැබීය. The prohibition order will be effective until the end of the trial.
-
-◼️
-
-[Data](articles/7ce2281e.json)
-
-[Extended Data](ext_articles/7ce2281e.ext.json)
-
----
-
-### Damitha is released on bail
-
-*2024-04-24 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195923) · `si`
-
-Damitha Abeyratne and her husband released on bail.
-
-🟩
-
-Ranitan Shalipini Damitha Abeyratne and her husband have been released on bail.
-
-◼️
-
-[Data](articles/4bbc6296.json)
-
-[Extended Data](ext_articles/4bbc6296.ext.json)
 
 ---

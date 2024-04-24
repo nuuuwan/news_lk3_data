@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 20:05:02**
+As of **2024-04-24 20:18:38**
 
 ## Newspaper Stats
 
-*Scraped **20,726** Articles*
+*Scraped **20,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,729
-tamilmirrorlk | 2,398
+tamilmirrorlk | 2,399
 adaderanalk | 2,470
 virakesarilk | 3,120
 dailymirrorlk | 3,232
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,725 (100.0%) of 20,726 articles have been extended.
+20,726 (100.0%) of 20,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### 250 மில்லியன் ரூபா பெறுமதியான  CT ஸ்கேனர் அறிமுகம்
+### சுற்றுலாப் பயணிகளின் செயலால் கவலை
+
+*2024-04-24 20:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயலால்-கவலை/175-336293) · `ta`
+
+மலையக பிரதான ரயில் பாதையில் பயணிக்கும் வெளிநாட்டு சுற்றுலாப் பயணிகள் விரைவு ரயில்களின் கால் பலகைகளில் பயணிப்பதால் விபத்துக்கள் ஏற்படுவதாக ரயில் பயணிகள் கவலை தெரிவித்தனர்.
+
+சுற்றுலாப் பயணிகள் தங்களின் ஆபத்தைப் பொருட்படுத்தாமல் ஃபுட் போர்டில் ஏறி செல்ஃபி எடுப்பதை வழக்கமாகக் கொண்டிருப்பதாகவும், அண்மைக்காலமாக பல விபத்துக்கள் ஏற்பட்டு அதில் சில உயிரிழப்புகள் ஏற்பட்டதாகவும் அவர்கள் சுட்டிக்காட்டினர்.
+
+சமீபத்தில், ஒஹியா ரயில் நிலையத்திற்கு அருகில் கடந்த ஞாயிற்றுக்கிழமை (21) பொடி மனிகே எக்ஸ்பிரஸில் வெளிநாட்டு பெண் ஒருவர் கீழே விழுந்தார், சுமார் ஒரு மாதத்திற்கு முன்பு இதேபோன்ற சம்பவத்தில் ஈரானிய சுற்றுலாப் பயணி ஒருவர் பலத்த காயமடைந்தார்.
+
+இந்த அபாயகரமான பயணத்தை சுற்றுலா பயணிகள் மேற்கொள்வதை தடுக்க புகையிரத காவலர்கள் மற்றும் பாதுகாப்பு சேவை அதிகாரிகள் நடவடிக்கை எடுக்க வேண்டுமென பயணிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+◼️
+
+[Data](articles/0740ce39.json)
+
+---
+
+### Introduction of CT Scanner worth 250 million rupees
 
 *2024-04-24 19:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மில்லியன்-ரூபா-பெறுமதியான-CT-ஸ்கேனர்-அறிமுகம்/175-336292) · `ta`
 
-காலி கராபிட்டிய போதனா வைத்தியசாலையானது 250 மில்லியன் ரூபா பெறுமதியான அதிநவீன CT ஸ்கேனரை அறிமுகப்படுத்தியுள்ளது.
+Galle Karapitiya Teaching Hospital introduced a Rs 250 million CT scanner, manufactured in Japan, under Dr. Ramesh Pathirana's patronage. It's been in use since last Sunday, capable of performing 40-50 scans daily, significantly reducing disease diagnosis time.
 
-சுகாதார மற்றும் கைத்தொழில் அமைச்சர் வைத்தியர் ரமேஷ் பத்திரன தலைமையில் இன்று (24) இந்நிகழ்வு இடம்பெற்றது.
+🟩
 
-ஜப்பானில் தயாரிக்கப்பட்ட இந்த அதிநவீன CT ஸ்கேனர், மருத்துவமனையின் நோய்களைக் கண்டறியும் வசதிகளுக்கு கணிசமான மேம்படுத்தலைக் குறிக்கிறது.
+Galle Karapitiya Teaching Hospital has introduced a sophisticated CT scanner worth Rs 250 million.
 
-கடந்த ஞாயிற்றுக்கிழமை முதல் இந்த ஸ்கேனர் பயன்பாட்டில் உள்ளதுடன் இப்போது தொடர்ந்து, நோயாளிகள் CT ஸ்கேன் சோதனைகள் மூலம் பயனடையலாம், மருத்துவமனை தினசரி 40 முதல் 50 ஸ்கேன்களை செய்ய தயாராக உள்ளது, இது நோய்களைக் கண்டறிய தேங்கியுள்ள நோயாளிகளின் தேவையைக் கணிசமாகக் குறைக்கிறது.
+The event was held today (24) under the patronage of Minister of Health and Industry Dr. Ramesh Pathirana.
+
+This sophisticated CT scanner, manufactured in Japan, refers to significant improvement for hospital diseases.
+
+This scanner has been in use since last Sunday and now patients can benefit from CT scan tests, which are ready to perform 40 to 50 scans daily in the hospital, which significantly reduces the need for stagnant patients to diagnose diseases.
 
 ◼️
 
 [Data](articles/6a00f297.json)
+
+[Extended Data](ext_articles/6a00f297.ext.json)
 
 ---
 
@@ -2271,35 +2295,5 @@ Meanwhile, Senior Police Inspector of the Vavuniya Chief Police Station Crime Un
 [Data](articles/173b4e59.json)
 
 [Extended Data](ext_articles/173b4e59.ext.json)
-
----
-
-### Students who are camping outside the US universities
-
-*2024-04-24 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181819) · `ta`
-
-Colombian University suspended classroom activities due to protests against Israel, with over 100 demonstrators arrested. Universities in the US are reducing tension over Israel's war against Hamas. Demonstrators, including Palestinian-backed students, protest against Israel's actions in Gaza, while Israeli students criticize anti-Jewish sentiments.
-
-🟩
-
-Colombian University has suspended classroom learning activities following the intensification of protests against Israel in US universities. Demonstrators have been arrested at the University of New York and the University of Yal.
-
-Meanwhile, many universities in the United States are engaged in reducing the tension created by Israel's war against Hamas.
-
-More than 100 demonstrators were arrested last week outside the Colombian University.
-
-The university administration said that we first called them to leave, but we called the police after the situation became confusing.
-
-The university administration said it was able to hear intimidating slogans and anti -Jewish slogans.
-
-A student of the New York University of New York University of Law College said that the university's admission to the police to arrest students inside our campus.
-
-Palestinian -backed students are appealing to Israel's attack on Israel's attack in Gaza and withdrawn from companies that sell arms to Israel.
-
-...
-
-[Data](articles/1fa59aac.json)
-
-[Extended Data](ext_articles/1fa59aac.ext.json)
 
 ---

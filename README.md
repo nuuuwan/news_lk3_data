@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 07:18:25**
+As of **2024-04-24 07:42:04**
 
 ## Newspaper Stats
 
-*Scraped **20,561** Articles*
+*Scraped **20,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 181
 bbccomsinhala | 214
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,115
+islandlk | 1,116
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
-tamilmirrorlk | 2,367
+tamilmirrorlk | 2,369
 adaderanalk | 2,447
 virakesarilk | 3,088
 dailymirrorlk | 3,208
@@ -26,53 +26,65 @@ adaderanasinhalalk | 3,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,555 (100.0%) of 20,561 articles have been extended.
+20,561 (100.0%) of 20,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### උපාධිධාරී ගුරුවරු බඳවා ගැනීම ගැන දැනුම්දීමක්
+### Notice on Recruitment of Graduate Teachers
 
 *2024-04-24 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195911) · `si`
 
-දිවයිනේ ජාතික පාසල්වලට ගුරු සේවය සඳහා බැඳවා ගැනීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Education has announced recruitment for graduate teachers in national schools, focusing on Sinhala, Tamil, and English. Interviews will be held from April 29th to May 9th. The Ceylon Teachers Union criticizes the lack of formal structures to address teacher shortages.
 
-ජාතික පාසල්වල පවතින සිංහල, දෙමළ හා ඉංග‍්‍රීසි මාධ්‍ය ගුරු පුරප්පාඩු සඳහා
+🟩
 
-උපාධිධාරීන් ශ‍්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට බඳවා ගැනීම 2023 (2024)සම්බන්ධයෙන් මෙම නිවේදනය නිකුත් කර ඇත.
+The Ministry of Education has issued a special announcement for joining national schools in the island.
 
-ඒ අනුව පසුගිය මාර්තු 2 වන දින පවත්වන ලද තරග විභාගයේ ප්‍රතිඵල අනුව බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ අප්‍රේල් මස 29 වන දින සිට මැයි 9 වන දින දක්වා ඉසුරුපාය අධ්‍යාපන අමාත්‍යාංශයේ දී පැවැත්වේ.
+For teachers of Sinhala, Tamil and English vacancies exist in national schools
 
-සුදුසුකම් ලැබූවන්ගේ නාම ලේඛනය හා කැඳවීමේ ලිපිය අධ්‍යාපන අමාත්‍යාංශයයේ වෙබ් අඩවියේ පළ කර ඇති බව ද අමාත්‍යාංශය නිවේදනය කරයි.
+The announcement has been issued regarding the recruiting grade 3-1 (a) graduates from 3-1 (a) graduates.
 
-මේ අතර පාසල් පද්ධතිය තුළ පවතින බරපතළ ගුරු හිඟය පියවීම සඳහා අධ්‍යාපන බලධාරීන් මේ වනතෙක් කිසිදු විධිමත් වැඩටහනක් සකස් කර නොමැති බව ලංකා ගුරු සංගමය පවසයි.
+Accordingly, recruiting interviews will be held on the 29th of April to 9 May from 29th April to 9 May from April 29th of April.
 
-එහි සභාපති ජෝසප් ස්ටාර්ලින් මහතා පැවසුවේ බඳවා ගත් ගුරුවරු ක්‍රමවත් පරිදි ස්ථානගත කර නොමැති බවය.
+The list of qualified and calling letter has been published on the website of the Ministry of Education.
+
+Meanwhile, the Ceylon Teachers Union states that the Educational Authorities have not made any formal structures to cover the shortage of teachers in the school system.
+
+Chairman Joseph Starling said that the recruitment teachers have not been placed in a systematic place.
 
 ◼️
 
 [Data](articles/f97275a3.json)
 
+[Extended Data](ext_articles/f97275a3.ext.json)
+
 ---
 
-### අවුරුදු නිවාඩුවෙන් පසු පාසල් අද යළි ඇරඹේ
+### Schools resume after a year holiday
 
 *2024-04-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195910) · `si`
 
-සිංහල දෙමළ අළුත් අවුරුද්ද වෙනුවෙන් නිවාඩු ලබාදුන් පාසල් අද (24) යළි ආරම්භ වීමට නියමිතය.
+Schools resume today after a year's holiday. The second phase of the first season 2 starts, following the completion of the first phase on April 10th. The General Assessment Examination will be held from May 6th to 18th, with the second phase ending on May 3rd.
 
-ඒ අනුව මෙම වර්ෂයේ පළමු පාසල් වාරයේ දෙවන අදියර මෙලෙස අදින් ආරම්භ වන බව අධ්‍යාපන අමාත්‍ය අංශය පවසයි.
+🟩
 
-පළමු පාසල් වාරයේ පළමු අදියර අප්‍රේල් මස 10 වන දිනෙන් අවසන් කෙරුණි.
+Schools for leave for the Sinhala and Tamil New Year will resume today (24).
 
-මේ අතර ලබන මැයි 06 වනදා සිට 18 වනදා දක්වා 2023 අධ්‍යනය පොදු සහතික පත්‍ර සමාන්‍ය පෙළ විභාගය පැවැත්වීමට නියමිත තිබේ.
+Accordingly, the second phase of the first season 2 of this year will commence today.
 
-ඒ අනුව මැයි 3 වන දින පළමු පාසල් වාරයේ දෙවන අදියර අවසන් වීමට නියමිතය.
+The first phase of the first school was completed by 10th April.
+
+Meanwhile, the General Assessment Examination will be held from May 6th to 18th.
+
+The second phase of the first school will end on May 3.
 
 ◼️
 
 [Data](articles/d16da13e.json)
+
+[Extended Data](ext_articles/d16da13e.ext.json)
 
 ---
 
@@ -91,6 +103,8 @@ The government, acting through the Ministry of Finance, Economic Stabilization a
 ...
 
 [Data](articles/98d465ea.json)
+
+[Extended Data](ext_articles/98d465ea.ext.json)
 
 ---
 
@@ -175,6 +189,8 @@ The draft Public Financial Management Bill was expected to be tabled in the parl
 ...
 
 [Data](articles/a9eadc38.json)
+
+[Extended Data](ext_articles/a9eadc38.ext.json)
 
 ---
 
@@ -488,6 +504,8 @@ Institute of Policy Studies (IPS) Executive Director Dr. Dushni Weerakoon assert
 
 [Data](articles/21fbfbc2.json)
 
+[Extended Data](ext_articles/21fbfbc2.ext.json)
+
 ---
 
 ### Exploring FDI and export potential of Sri Lanka under the new normal
@@ -734,6 +752,22 @@ Quinton de Kok lost the game and team captain KL. Rahul left with 16 runs. (33 -
 
 ---
 
+### அரச வருமானம் அதிகரிப்பு
+
+*2024-04-24 00:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வருமானம்-அதிகரிப்பு/175-336252) · `ta`
+
+2024 ஆம் ஆண்டின் முதல் மூன்று மாதங்களில் எதிர்பார்க்கப்பட்ட அரச வருமானத்தை விட அதிக வருமானத்தை ஈட்ட முடிந்ததாக நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+இந்தக் காலப்பகுதியில் நாட்டின் பிரதான வருமானம் ஈட்டக்கூடிய இலங்கை சுங்கம் மற்றும் கலால் வரி திணைக்களம் ஆகியவற்றின் ஊடாக 834 பில்லியன் ரூபா ஈட்டப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+அத்துடன், 2024 ஆம் ஆண்டிற்குள் 4,106 பில்லியன் ரூபா அரச வருமானம் எதிர்பார்க்கப்படுவதாக அமைச்சர்  ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/b9a69dec.json)
+
+---
+
 ### Special security arrangement today
 
 *2024-04-24 00:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-ஏற்பாடு/175-336251) · `ta`
@@ -797,6 +831,8 @@ The daily arrival average dropped to the levels of 5,100, while the weekly arriv
 ...
 
 [Data](articles/6c6d7b4e.json)
+
+[Extended Data](ext_articles/6c6d7b4e.ext.json)
 
 ---
 
@@ -1005,6 +1041,20 @@ Leveraging its extensive network, including 747 branches and service centers, th
 [Data](articles/492132ad.json)
 
 [Extended Data](ext_articles/492132ad.ext.json)
+
+---
+
+### Cloé Café, ‘where every cup tells a story’, now in Nawala
+
+*2024-04-23 22:19:00* · [`islandlk`](http://island.lk/cloe-cafe-where-every-cup-tells-a-story-now-in-nawala/) · `en`
+
+Cloé Café, an Australian-inspired haven for coffee enthusiasts and culinary connoisseurs, recently opened its flagship location at No. 196, Nawala Road, Nawala. The opening ceremony was held under the patronage of Deputy High Commissioner for Australia in Sri Lanka Lalita Kapoor and several other guests.
+
+Nestled on the ground floor of the WishQue Head Office, Cloé Café promises to deliver a unique experience that celebrates the art of coffee and culinary excellence. With a tagline of “An Australian roast where every cup tells a story,” Cloé Café brings the rich heritage of Australian coffee culture to the vibrant streets of Sri Lanka. As a subsidiary of WishQue, a leading e-commerce platform, Cloé Café aims to redefine the café experience by offering a curated selection of award-winning coffee roasts sourced directly from Australia.
+
+...
+
+[Data](articles/65abf240.json)
 
 ---
 
@@ -2143,37 +2193,5 @@ The order is that there has been ordered no protests or violence to prevent the 
 [Data](articles/8d2c2ed6.json)
 
 [Extended Data](ext_articles/8d2c2ed6.ext.json)
-
----
-
-### A small sweet surprise....
-
-*2024-04-23 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/A-small-sweet-surprise/110-281208) · `en`
-
-Palu fruit (Manilkara hexandra), which has a unique sweetness, being sold in Colombo on the road leading to Borelasgamuwa. Palu fruit trees usually grow in tropical and temperate forests. Pictures show a person who loves the sweetness of Palu fruits waiting to get some. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/e0c8db42.json)
-
-[Extended Data](ext_articles/e0c8db42.ext.json)
-
----
-
-### An attack without lightning;Who was in the background?;Was the "Blue Sparo" missile used on Iran?
-
-*2024-04-23 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/181777) · `ta`
-
-The world is abuzz with conflicting reports about an unidentified attack, with some claiming it involved a "Blue Sparo" missile on Iran. Videos emerge, and the incident in Iraq has sparked international concern.
-
-🟩
-
-What's going on in the Middle East?The world is excited today to know the truth. While the attack is said to have taken place on the one hand, it is denied that nothing has happened by the concerned side on the other hand. However, the videos related to it are coming out. Finally, the incident in Iraq on Saturday has raised the eyebrow.
-
-◼️
-
-[Data](articles/92fbb734.json)
-
-[Extended Data](ext_articles/92fbb734.ext.json)
 
 ---

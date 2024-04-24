@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 06:17:39**
+As of **2024-04-24 06:57:47**
 
 ## Newspaper Stats
 
-*Scraped **20,551** Articles*
+*Scraped **20,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 1,115
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
-tamilmirrorlk | 2,366
+tamilmirrorlk | 2,367
 adaderanalk | 2,447
 virakesarilk | 3,088
-dailymirrorlk | 3,202
-adaderanasinhalalk | 3,324
+dailymirrorlk | 3,204
+adaderanasinhalalk | 3,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,542 (100.0%) of 20,551 articles have been extended.
+20,550 (100.0%) of 20,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### අදත් බස්නාහිර ඇතුළු ප්‍රදේශ කිහිපයකට හවසට තද වැසි
+
+*2024-04-24 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195907) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යමසහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, ඌව පළාතේ සහ අනුරාධපුර දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+පුත්තලම සිට කොළඹ හරහා ගාල්ල දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/46b749ed.json)
+
+---
+
+### Katunayake-Colombo Expressway closed from 2pm to 3pm today
+
+*2024-04-24 06:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayake-Colombo-Expressway-closed-from-2pm-to-3pm-today/108-281246) · `en`
+
+Colombo, April 24 (Daily Mirror) - In view of the Iranian President's visit, Katunayake - Colombo Expressway will be closed from 2 pm to 3 pm and 9:30 pm to 10:30 pm today, police announced.
+
+They stated that several roads in Colombo between Lotus roundabout, Presidential Secretariat, President's House in Fort, and NSA roundabout will also be closed in the afternoon. The road from Mattala to Uma Oya will be closed from 9.45 am to 11 am.
+
+◼️
+
+[Data](articles/425ca568.json)
+
+---
+
+### Tight security for Iranian President’s visit to Sri Lanka
+
+*2024-04-24 05:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tight-security-for-Iranian-Presidents-visit-to-Sri-Lanka/108-281245) · `en`
+
+Colombo, April 24 (Daily Mirror) - Stringent security measures have been put in place ahead of the arrival of Iranian President Ebrahim Raisi in Sri Lanka today. The President is scheduled for a one-day official visit to join a public event commemorating the launch of the Uma Oya Multipurpose Development Project (UOMDP).
+
+The Iranian President is scheduled to arrive in the country through the Mattala Airport and from there he is set to visit Uma Oya project by road.
+
+Security convoy for the Iranian President will comprise of tri-forces personnel and PSD security personnel.
+
+The Iranian President's visit to Sri Lanka is following a special invitation extended by President Ranil Wickremesinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad's visit in April 2008.
+
+The Uma Oya project, following the Mahaweli Development Project, is one of the largest irrigation projects in Sri Lanka.
+
+...
+
+[Data](articles/4ba86d67.json)
+
+---
 
 ### Myanmar’s junta takes revenge on its people
 
@@ -566,6 +622,22 @@ Quinton de Kok lost the game and team captain KL. Rahul left with 16 runs. (33 -
 
 ---
 
+### இன்று விசேட பாதுகாப்பு ஏற்பாடு
+
+*2024-04-24 00:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-ஏற்பாடு/175-336251) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசியின் இலங்கை விஜயத்தை முன்னிட்டு விசேட பாதுகாப்பு ஏற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளன என பொதுமக்கள் பாதுகாப்பு அமைச்சு தெரிவித்தது.
+
+பொலிஸாரும் முப்படையினரும் இணைந்து பாதுகாப்பு நடவடிக்கைகளை முன்னெடுக்கின்றனர் என அமைச்சர் டிரான் அலஸ் குறிப்பிட்டுள்ளார்.
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி இன்று நாட்டிற்கு வருகை தரவுள்ளார் என வௌிவிவகார அமைச்சர் அலி சப்ரி நேற்று முன்தினம் உறுதிப்படுத்தியிருந்தார். (a)
+
+◼️
+
+[Data](articles/5bb12e39.json)
+
+---
+
 ### Arrested in financial fraud
 
 *2024-04-24 00:31:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-மோசடியில்-ஈடுபட்டவர்-கைது/175-336250) · `ta`
@@ -746,6 +818,8 @@ The Ratha Milla mangrove, previously thought to be limited to the Madu River Ram
 
 [Data](articles/9a5170ce.json)
 
+[Extended Data](ext_articles/9a5170ce.ext.json)
+
 ---
 
 ### SDB bank announces strategic Bancassurance Partnership with LOLC Life Assurance
@@ -762,6 +836,8 @@ Through this partnership, customers can avail both banking and insurance service
 
 [Data](articles/b4ed6a9e.json)
 
+[Extended Data](ext_articles/b4ed6a9e.ext.json)
+
 ---
 
 ### BIMSTEC Secretary-General discusses regional cooperation in the Bay of Bengal region at LKI
@@ -773,6 +849,8 @@ Ambassador Indra Mani Pandey, Secretary-General of the Bay of Bengal Initiative 
 ...
 
 [Data](articles/b6fd2818.json)
+
+[Extended Data](ext_articles/b6fd2818.ext.json)
 
 ---
 
@@ -787,6 +865,8 @@ Leveraging its extensive network, including 747 branches and service centers, th
 ...
 
 [Data](articles/492132ad.json)
+
+[Extended Data](ext_articles/492132ad.ext.json)
 
 ---
 
@@ -803,6 +883,8 @@ The rise of spam, fraud, and unsolicited SMS messages has increasingly become a 
 ...
 
 [Data](articles/29fc2562.json)
+
+[Extended Data](ext_articles/29fc2562.ext.json)
 
 ---
 
@@ -2099,95 +2181,5 @@ It was reported that the Jaffna district traffic police rushed to the scene and 
 [Data](articles/a52015de.json)
 
 [Extended Data](ext_articles/a52015de.ext.json)
-
----
-
-### Heartache is a heart attack on the death of Chandrasiri Bandara
-
-*2024-04-23 15:14:16* · [`adalk`](https://www.ada.lk/breaking_news/චන්ද්‍රසිරි-බණ්ඩාර-මහතාගේ-මරණයට-හේතුව-හෘදයාබාධයක්/11-409222) · `si`
-
-Chandrasiri Bandara, 59, died of a heart attack. His wife, Chandraziri Liyanage, found him unresponsive at 5:45 am. He had high blood pressure and didn't eat meat. His daughter, Herath Mudiyanselage Minister Bandara, confirmed his death.
-
-🟩
-
-Astronomy to attend the seven in the morning to attend the seven in the morning, but the girl's wife Chandraziri Liyanage is the wife of Honorary Chandraziri Bandara (59) Ms. said.
-
-She was speaking at the death inspection of the death inspection of his husband's body, a resident of Rolol Land, a resident of Thalawathugoda Hokandara Road.
-
-Post Mortality Foreign Officer of the Colombo National Hospital Specialist Judicial Medical Officer. The death of the body was carried out by the deaths of the remains of the body.
-
-Ms. HL Champika said:
-
-This is my husband. We have been married for thirty-six years. We have two children. The son in Sri Lanka is Australia.
-
-My husband had high blood pressure from about five years. Temporarily treated with a private doctor. But he did not go to permanent treatment. It's a little bored to drink. My husband doesn't eat meat.
-
-...
-
-[Data](articles/9d803e4d.json)
-
-[Extended Data](ext_articles/9d803e4d.ext.json)
-
----
-
-### Welcome to the capital of Iran
-
-*2024-04-23 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181772) · `ta`
-
-Iranian President Ibrahim Raisi visits Sri Lanka to open the Uma Oya Multipurpose Development Program, a project funded by Iran. He also tours Pakistan.
-
-🟩
-
-Iranian President Ibrahim Raisi makes an official visit to Sri Lanka tomorrow. He was greeted by the United Peace Federation and the welcome posts were displayed in the capital Colombo.
-
-The Iranian President will make a one -day official visit to Sri Lanka to open the Uma Oya Multipurpose Development Program.
-
-The Uma Oya Multipurpose Development Program was launched in 2011 under the Iranian government's loan at a cost of US $ 514 million.
-
-Iranian President Ibrahim Raisi is on a tour of Pakistan today and the Foreign Ministry has announced that it will complete the Pakistan visit and visit the country tomorrow.
-
-In this case, the former members of the Colombo Municipal Council (I.). A.. These receptions have been exhibited by Khalilur Rahman, M. Kadar and M. Muzammil.
-
-◼️
-
-[Data](articles/9454de40.json)
-
-[Extended Data](ext_articles/9454de40.ext.json)
-
----
-
-### Uma Oya project ready to be handed over to public tomorrow
-
-*2024-04-23 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-project-ready-to-be-handed-over-to-public-tomorrow/108-281207) · `en`
-
-Colombo, April 23 (Daily Mirror) - All arrangements have been made to hand over the Uma Oya Multi-Purpose Development Project to the public tomorrow (April 24), Irrigation, Wildlife and Forest Conservation Minister Pavitra Wanniarachchi said following a recent visit to inspect the project.
-
-The Uma Oya Multi-Purpose Development Project is set to be handed over to the public with the patronage of President Ranil Wickremesinghe and President of the Islamic Republic of Iran Ebrahim Raisi.
-
-The project was officially launched in 2010, with an estimated cost of USD 514 million.
-
-◼️
-
-[Data](articles/c1c45d89.json)
-
-[Extended Data](ext_articles/c1c45d89.ext.json)
-
----
-
-### Uma Oya multi-purpose development project ready to be handed over to public tomorrow
-
-*2024-04-23 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-multi-purpose-development-project-ready-to-be-handed-over-to-public-tomorrow/108-281207) · `en`
-
-Colombo, April 23 (Daily Mirror) - All arrangements have been made to hand over the Uma Oya Multi-Purpose Development Project to the public tomorrow (April 24), Irrigation, Wildlife and Forest Conservation Minister Pavitra Wanniarachchi said following a recent visit to inspect the project.
-
-The Uma Oya Multi-Purpose Development Project is set to be handed over to the public with the patronage of President Ranil Wickremesinghe and President of the Islamic Republic of Iran Ebrahim Raisi.
-
-The project was officially launched in 2010, with an estimated cost of USD 514 million.
-
-◼️
-
-[Data](articles/f572f2fa.json)
-
-[Extended Data](ext_articles/f572f2fa.ext.json)
 
 ---

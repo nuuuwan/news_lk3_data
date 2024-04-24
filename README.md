@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 08:18:27**
+As of **2024-04-24 08:34:16**
 
 ## Newspaper Stats
 
-*Scraped **20,569** Articles*
+*Scraped **20,572** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 214
+bbccomsinhala | 215
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,116
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
-tamilmirrorlk | 2,369
+tamilmirrorlk | 2,370
 adaderanalk | 2,449
 virakesarilk | 3,088
 dailymirrorlk | 3,210
-adaderanasinhalalk | 3,328
+adaderanasinhalalk | 3,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,569 (100.0%) of 20,569 articles have been extended.
+20,570 (100.0%) of 20,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### අල්ලස් ගත් ක්වාසි අධිකරණ විනිසුරුවරයා අත්අඩංගුවට
+
+*2024-04-24 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195913) · `si`
+
+පුත්තලමේ ක්වාසි අධිකරණයේ විනිසුරුවරයෙක් රුපියල් 5,000ක අල්ලක් ලබා ගැනීමේ දී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුව ඔහුව පුත්තලම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මැයි 6 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+
+◼️
+
+[Data](articles/7b148235.json)
+
+---
 
 ### Puttalam Quazi Court Judge arrested on bribery charge
 
@@ -640,6 +654,36 @@ Currently, Sri Lanka's overall recovery path is becoming clearer, especially thr
 
 ---
 
+### Inheritance shot to the carcars despite his command?
+
+*2024-04-24 01:58:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq5n2zd2ej2o) · `si`
+
+Controversial police shootings in Sri Lanka have sparked debate. A lorry driver in Narammala was shot by police, leading to a trial. The incident raised questions about the use of firearms by police, with no clear guidelines on when it's justified. Legal experts argue that police should only use firearms in self-defense or to prevent serious crimes. The Supreme Court has ruled that police can be held accountable for their actions, and the Human Rights Commission has been criticized for not addressing such incidents.
+
+🟩
+
+In recent years, several controversial shootings carried out by the police have been severely criticized.
+
+It is also a controversial event that was carried out by a lorry driver in the Narammala area in Kurunegala.
+
+The police officers have also taken a trial in the court and the two police officers who shot the lorry.
+
+Police have shot dead by the Milwawa, Morawa, Marawaka, Millawa, Millawa, Millawa, Millawa, and two travels in the three-wheeler were killed in the three-wheeler. The police allege that the two residents of Tanamalwila area were attempting to shoot at a firearm before the police order.
+
+Is it possible to shoot the cargoing of the car to die in a manner when it comes to moving a car?BBC was conducted by BBC Sinhala.
+
+According to the provisions of Section 55 of the Police Ordinance of the Police Ordinance, No.
+
+"The guns are to be used at specific times, and they need to use in times of charge or consequences."
+
+...
+
+[Data](articles/6a8a5a80.json)
+
+[Extended Data](ext_articles/6a8a5a80.ext.json)
+
+---
+
 ### Discussion on the day of compliance with both sides - United People's Power
 
 *2024-04-24 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181805) · `ta`
@@ -819,6 +863,22 @@ Debt negotiations between Government’s hired experts and private sovereign bon
 [Data](articles/ceb05649.json)
 
 [Extended Data](ext_articles/ceb05649.ext.json)
+
+---
+
+### ’கல்வியை அரசியலாக மாற்ற முடியாது’
+
+*2024-04-24 00:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியை-அரசியலாக-மாற்ற-முடியாது/175-336254) · `ta`
+
+கல்வியை அரசியல் காற்பந்தாக மாற்றிக்கொள்ளும் பட்சத்தில் நாடு தோல்வியை சந்திக்க நேரிடும் என்பதால், தனிப்பட்ட நோக்கங்களை விடுத்து, அனைவரும் ஒன்றிணைந்து கலந்துரையாடி நாட்டிற்கு பொருத்தமான கல்வி முறையொன்றை அறிமுகப்படுத்த வேண்டியது அவசியமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பு நெலும் பொக்குன கலையரங்கத்தில் நேற்று  நடைபெற்ற அகில இலங்கை தொழில்சார் வளவாளர்கள் சங்கத்தின் 10 ஆவது வருடாந்த மாநாட்டிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+அரசாங்கத்தின் புதிய கல்வி மறுசீரமைப்புச் செயற்பாடுகளை மேற்கொள்ளும் போது அதனை கல்வி நிபுணர்களுக்கு மாத்திரமானதாக மட்டுப்படுத்தாமல், பாடசாலை ஆசிரியர்கள், பொருளாதார துறையினர், அகில இலங்கை வளவாளர்கள் சங்கம் உள்ளிட்ட தரப்பினரையும் உள்வாங்கிக்கொள்ள வேண்டியது அவசியம்.
+
+...
+
+[Data](articles/9499c9c1.json)
 
 ---
 
@@ -2119,77 +2179,5 @@ England's Natalie Sear is second with 764 points and South African player Laura 
 [Data](articles/edaf83ea.json)
 
 [Extended Data](ext_articles/edaf83ea.ext.json)
-
----
-
-### Embassy Affairs Division of the Ministry of External Affairs to be transferred to the new campus
-
-*2024-04-23 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181782) · `ta`
-
-The Embassy Affairs Division of the Ministry of External Affairs will move to a new campus on May 2. Services will be available from 8.30 am to 4.15 pm, Monday to Friday. Certificate services will be suspended on May 29th and 30th for system updates. Regional offices remain open, but certified documents will be issued on May 2024. Emergency applications should be submitted by 4.15 pm on May 26th.
-
-🟩
-
-The Embassy of External Affairs of the Ministry of External Affairs has announced that it will be transferred to the new campus on the 16th floor of the "Suhurupaya" building at Sri Subudipura Road, Battaramulla on May 2.
-
-In this case, all embassy services will be provided to the public at the new office premises from 8.30 am to 4.15 pm from Monday to Friday.
-
-Document Certificate Services provided by the Embassy in Colombo will be temporarily suspended for the public on the 29th and 30th of this month to facilitate the replacement of the Certificate and Verification Division's Computer Structure (E-DAS) for the new premises in Suhurupaya.
-
-However, during the Middle Ages, the regional embassy offices in Jaffna, Trincomalee, Kurunegala, Kandy and Matara were open to the public during the usual office.
-
-Application for certification can be submitted to regional offices as usual.However, certified documents will be given to applicants only on Thursday May 2024.
-
-...
-
-[Data](articles/452d44a6.json)
-
-[Extended Data](ext_articles/452d44a6.ext.json)
-
----
-
-### Army announces Fox Hill Journy Party
-
-*2024-04-23 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195897) · `si`
-
-The Sri Lanka Army denies involvement in the Fox Hill Journey DJ night, organized by a hotel in Bandarawela, for promoting the Fox Hill Super Cross.
-
-🟩
-
-The Sri Lanka Army Headquarters has issued a statement regarding the Fox Hill Journy, which was exchanged after the Fox Hill.
-
-The announcement indicates that the army of the army has no involvement in any way for this DJ night.
-
-The night has been organized by a hotel in Bandarawela.
-
-එසේම අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ Fox Hill සුපර් ක්‍රොස් තරගාවලිය නැරඹීම සඳහා පැමිණෙන ප්‍රේක්ෂකයින් ඉලක්ක කරගනිමින් එම Fox Hill Journey නම් DJ රාත්‍රිය සංවිධානය කර ඇති බවය.
-
-The army or Sri Lanka Automobile Sports Association have been organized without a sponsored by the Army or the Sri Lanka Automobile Sports Association.
-
-◼️
-
-[Data](articles/473d6d77.json)
-
-[Extended Data](ext_articles/473d6d77.ext.json)
-
----
-
-### Lokesh Kanakaraj's 'wage'
-
-*2024-04-23 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181781) · `ta`
-
-"Rajinikanth stars in 'Kuli', directed by Lokesh Kanakaraj, a sequel to 'Jailer'. The film, produced by Dr. Maran, has garnered anticipation and has already reached 4 million views. It's set against the backdrop of illegal activities and is expected to be released in multiple languages."
-
-🟩
-
-Following the huge gross success of 'Jailer', the new movie starring Super Star Rajinikanth has been named 'Kuli' and has been released.
-
-Super Star Rajinikanth plays the hero of the film 'Kuli' directed by director Lokesh Kanakaraj. The film is being produced by Dr. Dr. Maran on behalf of Sun Pictures Company. It was announced that the film and the teaser would be released. This caused great anticipation in fans.
-
-...
-
-[Data](articles/13d3083d.json)
-
-[Extended Data](ext_articles/13d3083d.ext.json)
 
 ---

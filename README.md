@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 13:53:20**
+As of **2024-04-24 14:04:23**
 
 ## Newspaper Stats
 
-*Scraped **20,660** Articles*
+*Scraped **20,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,720
+adalk | 1,721
 tamilmirrorlk | 2,388
 adaderanalk | 2,461
 virakesarilk | 3,103
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,658 (100.0%) of 20,660 articles have been extended.
+20,660 (100.0%) of 20,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,8 @@ He said police had launched an investigation into the incident while the Ministr
 ...
 
 [Data](articles/91d7090e.json)
+
+[Extended Data](ext_articles/91d7090e.ext.json)
 
 ---
 
@@ -115,6 +117,18 @@ Plantation workers are currently struggling for a salary increase of 1700 rupees
 [Data](articles/4159cf87.json)
 
 [Extended Data](ext_articles/4159cf87.ext.json)
+
+---
+
+### දමිතාට හා සැමියාට ඇප
+
+*2024-04-24 12:44:30* · [`adalk`](https://www.ada.lk/breaking_news/දමිතාට-හා-සැමියාට-ඇප/11-409240) · `si`
+
+කොරියාවේ රැකියා වීසා ලබාදෙන බවට පවසමින් පුද්ගලයන්ගේ රුපියල් ලක්ෂ 30කට වැඩි මුදලක් වංචා කිරිමේ සිදුවීමකට අදාළව රක්ෂිත බන්ධනාගාර ගත කර සිටි ප්‍රවීණ නිලි දමිතා අබෙරත්න හා ඇයගේ සැමියා ඇප මත නිදහස් කරන ලෙස කොටුව මහේස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+◼️
+
+[Data](articles/f5dfa40f.json)
 
 ---
 
@@ -279,6 +293,8 @@ This project is one of the largest irrigation projects in Sri Lanka following th
 ◼️
 
 [Data](articles/0651a588.json)
+
+[Extended Data](ext_articles/0651a588.ext.json)
 
 ---
 
@@ -2231,23 +2247,5 @@ On 17 April, the Government published the proposed electricity sector reforms in
 [Data](articles/6eac6281.json)
 
 [Extended Data](ext_articles/6eac6281.ext.json)
-
----
-
-### Power and Energy Minister expresses gratitude to Iran for Uma Oya multi-purpose project
-
-*2024-04-24 02:18:45* · [`dailyftlk`](https://www.ft.lk/news/Power-and-Energy-Minister-expresses-gratitude-to-Iran-for-Uma-Oya-multi-purpose-project/56-760971) · `en`
-
-Power and Energy Minister Kanchana Wijesekera yesterday said he met with the construction and engineering partner of the Uma Oya Multipurpose facility, FARAB Group top officials and the Iranian Energy Ministry officials on Monday at the Ministry premises.
-
-“A meeting with the Managing Director, Chairman of the Board, officials of FARAB group and officials of the Iranian Ministry of Energy was held yesterday (Monday). I thanked the officials for their assistance in implementing the project and discussed possible future investments and partnerships,” he said
-
-With the commissioning of the Uma Oya Hydro Power Plant today (24), the Minister said a total of 120MW power generation capacity will be added to the national grid, reducing the cost of energy. “The project will also provide water requirements for drinking, agricultural and irrigational requirements for beneficiaries in three districts,” he said.
-
-...
-
-[Data](articles/9d126daa.json)
-
-[Extended Data](ext_articles/9d126daa.ext.json)
 
 ---

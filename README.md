@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 11:34:15**
+As of **2024-04-24 11:53:51**
 
 ## Newspaper Stats
 
-*Scraped **20,611** Articles*
+*Scraped **20,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
-economynextcom | 1,166
-adalk | 1,716
+economynextcom | 1,173
+adalk | 1,717
 tamilmirrorlk | 2,377
-adaderanalk | 2,455
+adaderanalk | 2,457
 virakesarilk | 3,095
-dailymirrorlk | 3,218
-adaderanasinhalalk | 3,335
+dailymirrorlk | 3,219
+adaderanasinhalalk | 3,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,609 (100.0%) of 20,611 articles have been extended.
+20,611 (99.9%) of 20,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### විල්ගමුව පොලීසියෙන් අතුරුදන් වූ ගිනිඅවිය හමුවෙයි ?
+
+*2024-04-24 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195921) · `si`
+
+විල්ගමුව, නුගගොල්ල ප්‍රදේශයේ වෙළෙඳසැලක් හිමි කාන්තාවක් අද (24) උදෑසන සිය වෙළෙඳසැල විවෘතකළ පසු එය ඉදිරිපිට ඇති බුදු කුටිය අසල යම්කිසි දෙයක් දැක පාරේ යන අයෙකුට එය පෙන්වා ඒ සම්බන්ධයෙන් විල්ගමුව පොලීසිය දැනුවත් කර තිබුණි.
+
+පසුව පොලීසිය පැමිණ එය පරීක්ෂා කර ඇති අතර එහිදී එම ස්ථානයේ තිබී ගිනිඅවියක් හමුවී ඇත.
+
+එම ගිනිඅවිය මීට සති කිහිපයකට පෙර විල්ගමුව පොලීසියේදී අතුරුදන් වූ ගිනිඅවිය බවට පොලිසිය සැක කරයි.
+
+◼️
+
+[Data](articles/61183b78.json)
+
+---
+
+### Maithripala prevented from functioning as SLFP chairman until trial ends
+
+*2024-04-24 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98809/maithripala-prevented-from-functioning-as-slfp-chairman-until-trial-ends) · `en`
+
+The Colombo District Court has delivered a permanent injunction preventing former President Maithripala Sirisena from functioning as the chairman of Sri Lanka Freedom Party (SLFP).
+
+The order was issued with regard to a plaint filed by former SLFP executive committee member Montague Sarathchandra.
+
+Accordingly, the permanent injunction will be effective until the conclusion of the trial.
+
+This is the second order issued by the Colombo District Court, barring Sirisena from functioning as the SLFP chairman. The previous court order was delivered with respect to a case filed by former President Chandrika Bandaranaike Kumaratunga.
+
+◼️
+
+[Data](articles/b2b71fd3.json)
+
+---
+
+### මෛත්‍රීට එරෙහිව තවත් අතුරු තහනම් නියෝගයක්
+
+*2024-04-24 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195920) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් අද (24) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වූ මොන්ටේගු සරත්චන්ද්‍ර මහතා ඉදිරිපත් කළ පැමිණිල්ලකට අදාළව කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+මෙම ස්ථිර අතුරු තහනම් නියෝගය නඩු විභාගය අවසන් වන තෙක් බලපැවැත්වෙන බවත් නියෝගයේ සඳහන් වුණි.
+
+◼️
+
+[Data](articles/dd70d77b.json)
+
+---
 
 ### Iran's president came to Sri Lanka
 
@@ -115,6 +165,44 @@ During his one-day official visit, President Raisi will inaugurate the Uma Oya M
 [Data](articles/75d3f176.json)
 
 [Extended Data](ext_articles/75d3f176.ext.json)
+
+---
+
+### Iran President lands in Sri Lanka to open hydro-electric project
+
+*2024-04-24 10:43:00* · [`economynextcom`](https://economynext.com/iran-president-lands-in-sri-lanka-to-open-hydro-electric-project-159851/) · `en`
+
+ECONOMYNEXT – Iran President Seyyed Ebrahim Raisi has landed in Sri Lanka’s Mattala Rajpaksa International Airport in a Airbus A340 aircraft.
+
+President Raisi will inaugurate a 514 million dollar irrigation and hydropower project that was designed and built by Iranian engineering firm and was also initially financed before international sanctions hit the project.
+
+The Uma Oya multi-purpose project is expected to generate 290 GigaWatt hours of energy, irrigate 6,000 hectares of agricultural land and provide drinking and industrial water.
+
+It was designed and built by Iran’s Farab Engineering group.
+
+Sri Lanka and Iran are also expected to sign five agreements during the visit. (Colombo/Apr24/2024)
+
+◼️
+
+[Data](articles/f1fe7d9e.json)
+
+---
+
+### Iranian President Dr. Ebrahim Raisi arrives in Sri Lanka
+
+*2024-04-24 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98808/iranian-president-dr-ebrahim-raisi-arrives-in-sri-lanka) · `en`
+
+President of Iran, Dr. Ebrahim Raisi arrived in Sri Lanka on Wednesday morning (24) for a one-day visit.
+
+He was accorded a cordial welcome by Prime Minister Dinesh Gunawardena at the Mattala International Airport.
+
+At the invitation of President Ranil Wickremesinghe, the Iranian president arrived in Sri Lanka after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka after former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+During his brief stay on the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
+
+...
+
+[Data](articles/045d403c.json)
 
 ---
 
@@ -318,6 +406,28 @@ Meanwhile, 11 per cent of the people from Russia and 10 percent are from Britain
 
 ### US Senate approves potential TikTok ban
 
+*2024-04-24 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-Senate-approves-potential-TikTok-ban/107-281255) · `en`
+
+USA, April 24 (BBC) - The US Senate has approved a controversial landmark bill that could see TikTok banned in America.
+
+It gives TikTok's Chinese owner, ByteDance, nine months to sell its stake or the app will be blocked in the United States.
+
+The bill will now be handed over to US President, Joe Biden, who has said he will sign it into law as soon as it reaches his desk.
+
+If that happens, ByteDance will have to seek approval from Chinese officials to complete a forced sale, which Beijing has vowed to oppose. Analysts say the process could take years.
+
+The measure was passed as part of a package of four bills which also included military aid for Ukraine, Israel, Taiwan and other US partners in the Indo- Pacific.
+
+It got widespread support from lawmakers with 79 Senators voting for it and 18 voting against it.
+
+...
+
+[Data](articles/98da5e8f.json)
+
+---
+
+### US Senate approves potential TikTok ban
+
 *2024-04-24 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Senate-approves-potential-TikTok-ban/108-281255) · `en`
 
 USA, April 24 (BBC) - The US Senate has approved a controversial landmark bill that could see TikTok banned in America.
@@ -470,6 +580,26 @@ At the same time, there is also the possibility of paying attention to the econo
 
 ---
 
+### අධ්‍යාපනය දේශපාලන පාපන්දුවක් බවට පත් කර නොගත යුතුයි
+
+*2024-04-24 09:45:02* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපනය-දේශපාලන-පාපන්දුවක්-බවට-පත්-කර-නොගත-යුතුයි/11-409231) · `si`
+
+අධ්‍යාපනය දේශපාලන පාපන්දුවක් බවට පත් කර ගතහොත් අවසානයේ පරාජයට පත් වන්නේ රට බවත්, එබැවින් පෞද්ගලික මත පසෙකලා සියලු දෙනා එක්ව සාකච්ඡා කර රටට ඔබින හොඳම අධ්‍යාපන ක්‍රමය මෙම වසර දෙක තුන තුළදී තීරණය කළ යුතු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (23) පස්වරුවේ කොළඹ නෙළුම් පොකුණ රඟහලේ පැවති සමස්ත ලංකා වෘත්තීය දේශකවරුන්ගේ සංගමයේ 10 වැනි දෙවාර්ෂික සම්මේලනය අමතමිනි.
+
+සමස්ත ලංකා වෘත්තීය දේශකවරුන්ගේ සංගමය (APLA), ශ්‍රී ලංකාව පුරා විසිරී සිටින උපකාරක පන්ති ගුරුවරුන්ගේ එකතුවෙන් 2004 දී පිහිටුවා ගත් සංවිධානයකි.
+
+සමස්ත ලංකා වෘත්තීය දේශකවරුන්ගේ සංගමයේ ආරම්භක සාමාජික හා ජ්‍යෙෂ්ඨ ආචාර්ය කේ. ආරියසිංහ මහතා වෙත ජ්‍යෙෂ්ඨ ගුරු සම්මානය පිරිනැමීම සහ සෙසු ආචාර්යවරුන් වෙත සම්මාන පිරිනැමීම මෙහිදී ජනාධිපතිවරයා අතින් සිදු විය.
+
+සමුළුවේ ප්‍රධාන ආරාධිත අමුත්තා ලෙස එක් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සංගමයේ සභාපති රවීන්ද්‍ර බණ්ඩාර මහතා විසින් සමරු තිළිණයක් ද ප්‍රදානය කළේය.
+
+...
+
+[Data](articles/edfee1bd.json)
+
+---
+
 ### Khadi judge arrested for bribery
 
 *2024-04-24 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181809) · `ta`
@@ -511,6 +641,30 @@ Following Nandasena’s demise, the Acting Secretary General of Parliament infor
 [Data](articles/a9be6d39.json)
 
 [Extended Data](ext_articles/a9be6d39.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 300.00/40 to US dollar
+
+*2024-04-24 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-00-40-to-us-dollar-159841/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 300.00/40 to the US dollar in the spot market on Wednesday, after closing at 300.50/301.00 on Monday, dealers said.
+
+The rupee closed at 302.00/50 to the US dollar on Friday amid moral suasion.
+
+On Monday a foreign bank sold dollars to the central bank around 302 levels, followed by more sales, dealers said after trading started without proper spot market quotes.
+
+On Friday a 302 level was indicated by some dollar sales, dealers said.
+
+Sri Lanka’s rupee came under pressure over the last week, despite broadly deflationary policy, after the central bank collected large volumes of dollars in March.
+
+Bond yields were flat as buyers awaited the next development in sovereign bond re-structuring, market participants said. There were both positive and negative sentiments among bond investors, dealers said.
+
+Meanwhile, a bond maturing on 15.12.2026 was quoted at 11.32/40 percent from 11.30/40 percent on Monday.
+
+...
+
+[Data](articles/7145dec7.json)
 
 ---
 
@@ -676,6 +830,48 @@ During his brief visit to the island nation, Dr. Raisi, together with President 
 
 ---
 
+### Sri Lanka’s SJB wants mutually agreeable dates for debate with NPP
+
+*2024-04-24 08:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-sjb-wants-mutually-agreeable-dates-for-debate-with-npp-159824/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition Samagi Jana Balawegaya will formally write to rival National People’s Power (NPP) this week inviting a representative for a discussion on a mutually agreeable date for an election debate.
+
+SJB legislator Nalin Bandara said the party will write to NPP’s Nalinda Jayatissa for a discussion on either Thursday April or Friday 26 on a time, date and venue for the proposed debate.
+
+This is despite the NPP having already written to the SJB inviting the latter’s leader Sajith Premadasa for a debate with NPP leader Anura Kumara Dissanayake on May 7, 9, 13 or 14.
+
+“They have unilaterally declared a few dates in May for the two leaders. But there is no mention of the debate between the two economic councils. But no problem,” said Bandara.
+
+Bandara said the discussion being sought with Jayatissa will be held at the parliament complex.
+
+However, Premadasa has other commitments on the dates proposed by the NPP, he said.
+
+...
+
+[Data](articles/6096031f.json)
+
+---
+
+### Sri Lanka closes express highway, tightens security for Iran President’s visit
+
+*2024-04-24 08:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-closes-express-highway-tightens-security-for-iran-presidents-visit-159828/) · `en`
+
+ECONOMYNEXT – Sri Lanka has tightened security in capital Colombo and southern districts amid plans to close its key airport express highway on Wednesday for the Iran President Ebrahim Raisi’s short visit to launch Uma Oya Multipurpose Development Project.
+
+Raisi will inaugurate the irrigation and hydropower project that was designed and built by Iranian engineering firm. The project was initially financed by Tehran before U.S. sanctions hit the project.
+
+Raisi’s visit comes 10 days after Iran unleashed a barrage of missiles and drones targeting Israel in retaliation for April 1’s suspected Israeli strike on its consulate in Damascus, which killed 13 people.
+
+A special security programme and traffic plan have been in place on Wednesday (24) for President Raisi’s visit, Police Spokesman Nihal Thalduwa said.
+
+The special security plan will be implemented with the support of elite police force and armed forces.
+
+...
+
+[Data](articles/cf8d718a.json)
+
+---
+
 ### Three-day parliamentary debate on Easter attacks begins today
 
 *2024-04-24 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98803/three-day-parliamentary-debate-on-easter-attacks-begins-today) · `en`
@@ -762,6 +958,26 @@ Mr. Premadasa also in a public meeting said he is willing to have a debate with 
 
 ---
 
+### Sri Lanka financial account turns negative in 2023 amid heavy net repayments
+
+*2024-04-24 08:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-account-turns-negative-in-2023-amid-heavy-net-repayments-159825/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s external financial account turned negative in 2023, official data show as bilateral lenders stopped financing the government, multilaterals had to be paid, and banks repaid credit lines which counterparties refused to roll over.
+
+The financial account was 1.3 billion dollars in deficit in 2023, subject to errors and omissions of 318 million dollars.
+
+Sri Lanka defaulted on official credit in April 2022 after money printed to keep an artificially low policy rate depleted forex reserves, but the country had to repay multilateral lenders and banks and to repay counterparties.
+
+Though rates were hiked in April 2022, the Reserve Bank of India gave credits to the central bank, leading to more money printing to offset interventions, delaying a correction in the external accounts.
+
+The balance of payments turned positive only in the third quarter of 2022 and monetary stability was restored. A positive overall balance of payments also denotes outflows through the central bank.
+
+...
+
+[Data](articles/b4929c08.json)
+
+---
+
 ### Quasi Judge arrested for bribe
 
 *2024-04-24 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195913) · `si`
@@ -795,6 +1011,8 @@ President Barrow extended sincere appreciation to President Wickramasinghe for h
 ...
 
 [Data](articles/9f6ccad1.json)
+
+[Extended Data](ext_articles/9f6ccad1.ext.json)
 
 ---
 
@@ -855,6 +1073,26 @@ He has been remanded until 06 May after being produced before the Puttalam Magis
 [Data](articles/309136b5.json)
 
 [Extended Data](ext_articles/309136b5.ext.json)
+
+---
+
+### Sri Lanka Freedom Party officials squabble over Rajapakshe appointment
+
+*2024-04-24 07:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-officials-squabble-over-rajapakshe-appointment-159822/) · `en`
+
+ECONOMYNEXT — Officials of the crisis-riddled Sri Lanka Freedom Party (SLFP) are contradicting each other over the appointment of Justice Minister Wijeyadasa Rajapakshe as SLFP acting chairman.
+
+SLFP spokesmen also disagree over Rajapakshe’s purported candidacy at the upcoming presidential election.
+
+Agriculture Minister and SLFP senior vice president Mahinda Amaraweera claimed at a press conference on Tuesday April 23 that Rajapakshe’s appointment as acting chairman was made by a group of people that do not represent the party’s executive committee.
+
+“We are reliably informed that there was some coercing and threats. There was also the involvement of the security detail deployed for former presidents,” Amaraweera claimed.
+
+The minister represents a faction of the SLFP that opposes former President Maithripala Sirisena, whom the Colombo District Court has issued an enjoining order against, preventing him from serving as SLFP chairman.
+
+...
+
+[Data](articles/456dae6d.json)
 
 ---
 
@@ -923,6 +1161,24 @@ The airport is currently used for handling chartered tourist flights from Russia
 [Data](articles/9ed06737.json)
 
 [Extended Data](ext_articles/9ed06737.ext.json)
+
+---
+
+### Sri Lanka education reforms to involve input of professionals, other stakeholders
+
+*2024-04-24 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-education-reforms-to-involve-input-of-professionals-other-stakeholders-159819/) · `en`
+
+ECONOMYNEXT — Proposed education reforms in Sri Lanka will involve not just education experts but will also welcome input from other professionals, President Ranil Wickremesinghe said calling for collaboration between all stakeholders.
+
+Politicising education would inevitably lead to Sri Lanka’s downfall, said, calling for collaborations to devise the most effective education system for the country within the next two to three years.
+
+Wickremesinghe made these remarks at the 10th Biennial Conference of the All Island Professional Lecturers’ Association (APLA), held at the Nelum Pokuna Theater in Colombo on Tuesday April 23.
+
+The government’s forthcoming education reforms would not solely involve education experts but would also welcome input from school teachers, professionals in the economic sector, and organisations like the APLA, Wickremesinghe said calling for inclusive dialogue in shaping the future of education.
+
+...
+
+[Data](articles/594cefee.json)
 
 ---
 
@@ -1923,255 +2179,5 @@ In addition, vehicular movement in and around Colombo -- Orugodawatta, Dematagod
 [Data](articles/75f43199.json)
 
 [Extended Data](ext_articles/75f43199.ext.json)
-
----
-
-### The government exceeds income targets
-
-*2024-04-23 22:57:28* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ආදායම්-ඉලක්ක-අභිභවා-යයි/11-409227) · `si`
-
-In 2024, Sri Lanka exceeded income targets, with 834 billion in revenue, surpassing 787 billion rupees. The Inland Revenue Department earned Rs. 381 billion, and the Customs Department met its target. The government expects Rs. 4,106 billion in total revenues for the year.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that 2024 has been able to exceed the expected state income in the first quarter. 834 billion in Sri Lanka's main revenue, Excise and Inland Revenue. The Minister also said that it was over 787 billion rupees of income targets.
-
-The Inland Revenue Department has earned Rs. 381 billion, over Rs.
-
-The Customs Department has reached a target of Rs.
-
-The government also expects revenues of Rs. 4,106 billion in 2024.
-
-◼️
-
-[Data](articles/49b62a68.json)
-
-[Extended Data](ext_articles/49b62a68.ext.json)
-
----
-
-### Uma Oya Hydro Power Plant to add 120 MW to national grid: Minister
-
-*2024-04-23 22:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-Hydro-Power-Plant-to-add-120-MW-to-national-grid-Minister/108-281222) · `en`
-
-Colombo, April 23 (Daily Mirror)- With the commissioning of the Uma Oya Hydro Power Plant tomorrow, 120 MW generation capacity will be added to the national grid and reduce the cost of energy, Power and Energy Minister Kanchana Wijesekara said today.
-
-He said in a statement posted on X, that the project will also provide water requirements for drinking, agricultural and irrigational requirements for beneficiaries in three districts.
-
-He also said the delays in the construction and commissioning of the hydro power plant due to various politically motivated protests is estimated to be a loss of Rs 9.8 Billion per annum to the CEB.
-
-"The hydro power plant project was scheduled to be commissioned in December 2015," he added.
-
-The project was officially launched in 2010, with an estimated cost of USD 514 million.
-
-◼️
-
-[Data](articles/88cfc589.json)
-
-[Extended Data](ext_articles/88cfc589.ext.json)
-
----
-
-### A controversial statement from fox hill riders
-
-*2024-04-23 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195905) · `si`
-
-Fox Hill riders criticized for not obeying race cars, leading to remand until April 30. Sajaja Huger, a special speaker, expressed concern over speed and safety measures, emphasizing the importance of red flags and the dangers of not adhering to them.
-
-🟩
-
-The Bandarawela Magistrate's Court yesterday ordered the two cars to be remanded until April 30 at the Fox Hill Supercross yesterday.
-
-They made these comments after a meeting of Supercross Riders to discuss the future.
-
-Supercross Riders Association Special Speaker Sajaja Huger,
-
-"We cannot do the speed of the organizers that we do not obey the race car and arrest the drivers in the race car and arrest the yellow flag.Unable to do not have the red flag in a car for earlier time and caught the car drippie, not for the loss of life - the other peopleDon't send the body "
-
-◼️
-
-[Data](articles/157b92c2.json)
-
-[Extended Data](ext_articles/157b92c2.ext.json)
-
----
-
-### Thaala Bentota spearheads sustainable efforts in conserving endangered Ratha Milla mangrove species
-
-*2024-04-23 22:26:00* · [`islandlk`](http://island.lk/thaala-bentota-spearheads-sustainable-efforts-in-conserving-endangered-ratha-milla-mangrove-species/) · `en`
-
-Thaala Bentota Resort by Browns Hotels & Resorts, in collaboration with the Department of Wildlife Conservation, recently unveiled a unique conservation initiative aimed at safeguarding Bentota’s vital mangrove ecosystem. The program aims to focus on the Ratha Milla plant (Lumnitzera littorea), a critically endangered true mangrove species native to Sri Lanka.
-
-The Ratha Milla mangrove, previously thought to be limited to the Madu River Ramsar until recently, has now been rediscovered in the Bentota estuary and the Dedduwa lagoon area, with over 100 young plants aged between 10 to 20 years, where it was last recorded a century ago.
-
-...
-
-[Data](articles/9a5170ce.json)
-
-[Extended Data](ext_articles/9a5170ce.ext.json)
-
----
-
-### SDB bank announces strategic Bancassurance Partnership with LOLC Life Assurance
-
-*2024-04-23 22:26:00* · [`islandlk`](http://island.lk/sdb-bank-announces-strategic-bancassurance-partnership-with-lolc-life-assurance/) · `en`
-
-Delivers best life insurance solutions for SDB bank customers with convenience and speed
-
-As a significant step towards enhancing cross financial and insurance services, SDB bank is pleased to announce its new bancassurance partnership with LOLC Life Assurance Ltd. This collaboration marks an important milestone in providing SDB bank customers with convenient access to life insurance products, leveraging LOLC’s expertise and integrating its offerings into SDB Bank’s extensive branch network.
-
-Through this partnership, customers can avail both banking and insurance services under one roof, thereby facilitating a seamless service experience for current and prospective clients. This initiative is expected to leverage the strengths of both entities, combining SDB Bank’s robust banking network with LOLC Life Assurance’s expertise in providing comprehensive insurance solutions.
-
-...
-
-[Data](articles/b4ed6a9e.json)
-
-[Extended Data](ext_articles/b4ed6a9e.ext.json)
-
----
-
-### BIMSTEC Secretary-General discusses regional cooperation in the Bay of Bengal region at LKI
-
-*2024-04-23 22:24:00* · [`islandlk`](http://island.lk/bimstec-secretary-general-discusses-regional-cooperation-in-the-bay-of-bengal-region-at-lki/) · `en`
-
-Ambassador Indra Mani Pandey, Secretary-General of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) was hosted by the Lakshman Kadirgamar Institute (LKI) for a special guest lecture and interactive session titled “Regional Cooperation through BIMSTEC” on 09 April 2024 at the Lighthouse Auditorium. The programme provided an opportunity for the gathering of Sri Lankan policymakers, academics, researchers, and university students to engage directly with the Secretary-General who was on his first official visit to Sri Lanka, in evaluating topics and concerns related to the region and BIMSTEC, in the context of global politics and Sri Lanka’s foreign policy interests.
-
-...
-
-[Data](articles/b6fd2818.json)
-
-[Extended Data](ext_articles/b6fd2818.ext.json)
-
----
-
-### X-Press Feeders garners top accolade as #1 Feed Operator
-
-*2024-04-23 22:21:00* · [`islandlk`](http://island.lk/x-press-feeders-garners-top-accolade-as-1-feed-operator/) · `en`
-
-X-Press Feeders, the world’s largest independent feeder carrier announced its triumph as the recipient of the #1 Feed Operator Award at the Colombo Ports Awards 2024, underscoring X-Press Feeders’ commitment to excellence and innovation within the maritime industry.
-
-The award selection criteria, as outlined by the Colombo Ports Awards committee, spotlighted X-Press Feeders’ outstanding performance in terms of the total volume of fleet liners handled. The company’s dedication to understanding clients’ needs and delivering reliable and efficient solutions, coupled with its ability to navigate global challenges, has positioned it as a frontrunner in the industry. This marks the third consecutive year that X-Press Feeders has secured this honour.
-
-...
-
-[Data](articles/6e6d7692.json)
-
-[Extended Data](ext_articles/6e6d7692.ext.json)
-
----
-
-### People’s Bank facilitates over 17 million transactions worth over Rs.568Bn
-
-*2024-04-23 22:20:00* · [`islandlk`](http://island.lk/peoples-bank-facilitates-over-17-million-transactions-worth-over-rs-568bn/) · `en`
-
-People’s Bank, the leader in digital banking innovation possessing the largest customer base in Sri Lanka, proudly announced that during the Avurudu season between 1st to 15th of April, the bank had facilitated over 17 million transactions valued at more than 568 billion rupees, highlighting its pivotal role in the daily financial activities of the country.
-
-Leveraging its extensive network, including 747 branches and service centers, the massively popular digital banking platforms and over 1,150 ATMs, CDMs, and CRMs, People’s Bank has successfully delivered unmatched convenience and accessibility to its customers. This vast infrastructure underscores the bank’s commitment to enhancing customer experience and expanding its reach across the island.
-
-...
-
-[Data](articles/492132ad.json)
-
-[Extended Data](ext_articles/492132ad.ext.json)
-
----
-
-### Cloé Café, ‘where every cup tells a story’, now in Nawala
-
-*2024-04-23 22:19:00* · [`islandlk`](http://island.lk/cloe-cafe-where-every-cup-tells-a-story-now-in-nawala/) · `en`
-
-Cloé Café, an Australian-inspired haven for coffee enthusiasts and culinary connoisseurs, recently opened its flagship location at No. 196, Nawala Road, Nawala. The opening ceremony was held under the patronage of Deputy High Commissioner for Australia in Sri Lanka Lalita Kapoor and several other guests.
-
-Nestled on the ground floor of the WishQue Head Office, Cloé Café promises to deliver a unique experience that celebrates the art of coffee and culinary excellence. With a tagline of “An Australian roast where every cup tells a story,” Cloé Café brings the rich heritage of Australian coffee culture to the vibrant streets of Sri Lanka. As a subsidiary of WishQue, a leading e-commerce platform, Cloé Café aims to redefine the café experience by offering a curated selection of award-winning coffee roasts sourced directly from Australia.
-
-...
-
-[Data](articles/65abf240.json)
-
-[Extended Data](ext_articles/65abf240.ext.json)
-
----
-
-### Telin and Dialog Axiata ink strategic partnership to manage international voice and SMS termination
-
-*2024-04-23 22:18:00* · [`islandlk`](http://island.lk/telin-and-dialog-axiata-ink-strategic-partnership-to-manage-international-voice-and-sms-termination/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, and Telin, the international arm of Telkom Indonesia, have signed a new Master Service Agreement (MSA) whereby Telin will exclusively provide Managed Services for international A2P SMS traffic and international voice termination traffic to Dialog.
-
-This agreement aims to monetize international traffic while extending unparalleled convenience, enhanced security, global coverage and consistent service quality to Dialog customers. The signing symbolized the commitment of both organizations to enhance telecommunication services around the world.
-
-The rise of spam, fraud, and unsolicited SMS messages has increasingly become a pressing concern for a multitude of operators in the telecommunications industry. With the exponential growth of mobile communication and digital connectivity, the proliferation of unwanted messages poses significant challenges to both consumers and service providers alike.
-
-...
-
-[Data](articles/29fc2562.json)
-
-[Extended Data](ext_articles/29fc2562.ext.json)
-
----
-
-### Murder of Hingurakgoda personnel
-
-*2024-04-23 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195904) · `si`
-
-A 39-year-old fisherman in Hingurakgoda was killed in a clash with other fishermen. The police were called to secure the murder suspect.
-
-🟩
-
-A fisherman has died due to a clash between a clash between a group of fishermen in the Hingurakgoda area.
-
-The deceased has been identified as a 39 year old fisherman.
-
-The residence suspect had been attacked and the police had been convened for the security of the murder suspect.
-
-◼️
-
-[Data](articles/64e074a0.json)
-
-[Extended Data](ext_articles/64e074a0.ext.json)
-
----
-
-### Education should be free from political influence – President Ranil
-
-*2024-04-23 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98799/education-should-be-free-from-political-influence-president-ranil) · `en`
-
-President Ranil Wickremesinghe emphasized the peril of politicizing education, warning that such a move would inevitably lead to the nation’s downfall.
-
-He urged all stakeholders to set aside personal biases and engage in collaborative discussions to devise the most effective education system for the country within the next two to three years.
-
-These remarks were made during his address at the 10th Biennial Conference of the All Island Professional Lecturers’ Association (APLA), held at the Nelum Pokuna Theater in Colombo this afternoon (23).
-
-The All Island Professional Lecturers’ Association (APLA), established in 2004 by a consortium of tuition teachers nationwide, convened the event. Dr. K. Ariyasinghe, a founding member of the All Island Professional Lecturers’ Association, along with other senior teachers, was presented with the Senior Lecturers Award by the President.
-
-...
-
-[Data](articles/8fd8292a.json)
-
-[Extended Data](ext_articles/8fd8292a.ext.json)
-
----
-
-### Singapore's Tamil Language Festival
-
-*2024-04-23 21:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181798) · `ta`
-
-The Tamil Language Festival, supported by the Singapore Development Movement and the Tamil Language Learning Group, celebrated its 18th anniversary in Singapore. The event featured the Annamalai University Alumni Association's 11th anniversary of the Tamil Language, with competitions promoting Tamil-speaking interest among students. The festival highlighted the richness of the Tamil language through various studies and performances, emphasizing the importance of Tamil culture and language in Singapore.
-
-🟩
-
-The Tamil Language Festival, which was launched with the support of the Singapore Development Movement and the Tamil Language Learning Group, is celebrating its 18th anniversary in Singapore this year.
-
-The Annamalai University Alumni Association (Singapore), with the support of the festival as part of the festival, is celebrated annually for the Tamilnadu, which was followed by the 11th anniversary of the Tamil Language, which was held on the evening of April 14 at the Umurupulavar Tamil Language Center.
-
-The beginning of the show. Sakitya Senthil started the Tamil Greeting Song and his song was praised by everyone in the stadium.
-
-President of the Association, Mr. P.. Karunanidhi welcomed the gathering, saying that our organization has joined Singapore for the last 25 years and has coordinated all members and has been doing culture, social and youth progress.
-
-...
-
-[Data](articles/2c7902ed.json)
-
-[Extended Data](ext_articles/2c7902ed.ext.json)
 
 ---

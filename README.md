@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 03:52:35**
+As of **2024-04-25 04:03:51**
 
 ## Newspaper Stats
 
-*Scraped **20,772** Articles*
+*Scraped **20,774** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
 bbccomsinhala | 217
-dbsjeyarajcom | 222
+dbsjeyarajcom | 223
 newsfirstlk | 363
 islandlk | 1,118
 dailyftlk | 1,151
 economynextcom | 1,180
 adalk | 1,731
-tamilmirrorlk | 2,406
+tamilmirrorlk | 2,407
 adaderanalk | 2,474
 virakesarilk | 3,129
 dailymirrorlk | 3,243
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,771 (100.0%) of 20,772 articles have been extended.
+20,772 (100.0%) of 20,774 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,22 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 [Data](articles/133f4e0f.json)
 
 [Extended Data](ext_articles/133f4e0f.ext.json)
+
+---
+
+### தமிழரசு நிர்வாகத் தெரிவு வழக்கு ஒத்திவைப்பு
+
+*2024-04-25 00:29:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-நிர்வாகத்-தெரிவு-வழக்கு-ஒத்திவைப்பு/175-336301) · `ta`
+
+திருகோணமலை நீதவான் நீதிமன்றில் புதன்கிழமை (24) விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட இலங்கைத் தமிழரசுக் கட்சி நிர்வாகத் தெரிவு தொடர்பான வழக்கு  எதிர்வரும் மே மாதம் 31ஆம் திகதி வரை ஒத்தி வைக்கப்பட்டுள்ளதாக ஜனாதிபதி சட்டத்தரணி கே.வி.தவராசா தெரிவித்துள்ளார்.
+
+07 எதிராளிகள் பெயரிடப்பட்டுள்ள நிலையில், 2ஆம்,4ஆம் எதிராளிகளான தலைவராக தெரிவு செய்யப்பட்ட  பாராளுமன்ற உறுப்பினர்  எஸ்.ஸ்ரீதரன், செயலாளராக தெரிவாகிய ச.குகதாசன் ஆகியோர்களுக்கு சார்பாக ஆஜராகினேன். சுமார் மூன்று மணி நேரம் இவ்வழக்கு விவாதிக்கப்பட்டு சமர்ப்பணம் செய்யப்பட்டது.
+
+கடந்த பெப்ரவரி 15ஆம் திகதி வழகுகல் தாக்கல் செய்யப்பட்டு 29ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இந்த வழக்கு பொதுநலன் கருதி முடிவுக்கு கொண்டு வரவேண்டும். கட்சி யாப்பை மீறியதாக இங்கு எதுவும் சொல்லப்படவில்லை. குறிப்பாக சில விதிகளில் மேலதிகமாக சேர்க்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/80ad5596.json)
 
 ---
 
@@ -1054,6 +1070,20 @@ Ivanov was present earlier on Tuesday at a meeting of top defense officials chai
 
 ---
 
+### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
+
+*2024-04-24 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
+
+“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
+
+...
+
+[Data](articles/a00455cc.json)
+
+[Extended Data](ext_articles/a00455cc.ext.json)
+
+---
+
 ### The purpose is to strengthen contacts with Iran -President Ranil
 
 *2024-04-24 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181877) · `ta`
@@ -1151,6 +1181,24 @@ Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a spec
 [Data](articles/b818d191.json)
 
 [Extended Data](ext_articles/b818d191.ext.json)
+
+---
+
+### The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow where the state, and not the Islamists who blew up the innocents, stand accused.
+
+*2024-04-24 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83936) · `en`
+
+Five years ago, on Easter Sunday, a group of local Islamists carried out coordinated suicide attacks targeting three churches and tourist hotels, killing over 270 worshipers and tourists and wounding 500 others.
+
+The fifth anniversary of that heinous crime, which fell last Sunday (April 21), turned out to be a sordid display of politicking by the political parties, the catholic clergy and other usual culprits, who claim to campaign for justice for the victims.
+
+The National People’s Power of the JVP issued a seven-point agenda that it said would be implemented if it comes to power to hold accountable those responsible for the tragedy and serve justice to the victims.
+
+Sajith Premadasa, the Leader of Samagi Jana Balawegaya, also made a similar pledge in Parliament, promising to launch a fresh commission of inquiry, with the participation of local and international experts within two months of his election.
+
+...
+
+[Data](articles/046d1ec1.json)
 
 ---
 
@@ -2227,75 +2275,5 @@ The Colombo District Chief Court has issued the order based on a complaint filed
 [Data](articles/2c1ccde3.json)
 
 [Extended Data](ext_articles/2c1ccde3.ext.json)
-
----
-
-### A promise to Iran's promise
-
-*2024-04-24 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195926) · `si`
-
-Iran offers to share knowledge and expertise with Sri Lanka, especially after the Uma Oya project's nationalization, indicating readiness for future massive projects collaboration.
-
-🟩
-
-Iran is prepared to share its knowledge, expertise and experience with Sri Lanka.
-
-After the nationalization of the Uma Oya Multipurpose development project, the President said that Iran appears at any time for the progress of massive partnership of massive projects.
-
-◼️
-
-[Data](articles/44ae3f74.json)
-
-[Extended Data](ext_articles/44ae3f74.ext.json)
-
----
-
-### Recovered gun near the Buddha statue
-
-*2024-04-24 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181838) · `ta`
-
-A rifle was found by Wilgamuwa police near a Buddha statue in Nugegolla, suspected to be a missing gun from the police station.
-
-🟩
-
-A rifle has been recovered by the Wilgamuwa police near a Buddha statue in Nugegolla, Wilkamuwa.
-
-Police suspect that this was a missing gun from the Wilgamuwa police station a few weeks ago.
-
-◼️
-
-[Data](articles/b55e7a38.json)
-
-[Extended Data](ext_articles/b55e7a38.ext.json)
-
----
-
-### Iranian President Ibrahim Raisi arrived in Sri Lanka
-
-*2024-04-24 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181820) · `ta`
-
-Iranian President Ibrahim Raisi visited Sri Lanka for the Uma Oya Multipurpose Development Program, aiming to strengthen bilateral relations through MoUs and the opening of a $529 million project, despite challenges from global politics and sanctions.
-
-🟩
-
-Iranian President Ibrahim Raisi arrived in Sri Lanka shortly before on an official visit.
-
-The Iranian president -led delegation arrived at the Mattala International Airport via Iran -owned aircraft. They were welcomed by Prime Minister Dinesh Gunawardena.
-
-The President of Iran has visited Sri Lanka to attend the Uma Oya Multipurpose Development Program.
-
-There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
-
-The President of Iran, who is visiting Sri Lanka through the Mattala Airport in Hambantota, will come to Colombo via Katunayake airport to open the Uma Oya Multipurpose Development Project.
-
-The President of Iran, who is scheduled to hold a bilateral meeting with President Ranil Wickremesinghe in Colombo, will then return to the country.
-
-The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
-
-...
-
-[Data](articles/4ac2b16e.json)
-
-[Extended Data](ext_articles/4ac2b16e.ext.json)
 
 ---

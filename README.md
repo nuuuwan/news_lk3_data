@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 08:52:33**
+As of **2024-04-24 09:03:35**
 
 ## Newspaper Stats
 
-*Scraped **20,574** Articles*
+*Scraped **20,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 215
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,116
+islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,572 (100.0%) of 20,574 articles have been extended.
+20,574 (100.0%) of 20,575 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Subsequently, it has been decided to take up the adjournment debate on the Easte
 
 [Data](articles/bb46296f.json)
 
+[Extended Data](ext_articles/bb46296f.ext.json)
+
 ---
 
 ### Prepared for debate in May but not on dates suggested by NPP: SJB
@@ -63,6 +65,8 @@ Mr. Premadasa also in a public meeting said he is willing to have a debate with 
 ◼️
 
 [Data](articles/b9bf969b.json)
+
+[Extended Data](ext_articles/b9bf969b.ext.json)
 
 ---
 
@@ -1240,6 +1244,20 @@ Ambassador Indra Mani Pandey, Secretary-General of the Bay of Bengal Initiative 
 
 ---
 
+### X-Press Feeders garners top accolade as #1 Feed Operator
+
+*2024-04-23 22:21:00* · [`islandlk`](http://island.lk/x-press-feeders-garners-top-accolade-as-1-feed-operator/) · `en`
+
+X-Press Feeders, the world’s largest independent feeder carrier announced its triumph as the recipient of the #1 Feed Operator Award at the Colombo Ports Awards 2024, underscoring X-Press Feeders’ commitment to excellence and innovation within the maritime industry.
+
+The award selection criteria, as outlined by the Colombo Ports Awards committee, spotlighted X-Press Feeders’ outstanding performance in terms of the total volume of fleet liners handled. The company’s dedication to understanding clients’ needs and delivering reliable and efficient solutions, coupled with its ability to navigate global challenges, has positioned it as a frontrunner in the industry. This marks the third consecutive year that X-Press Feeders has secured this honour.
+
+...
+
+[Data](articles/6e6d7692.json)
+
+---
+
 ### People’s Bank facilitates over 17 million transactions worth over Rs.568Bn
 
 *2024-04-23 22:20:00* · [`islandlk`](http://island.lk/peoples-bank-facilitates-over-17-million-transactions-worth-over-rs-568bn/) · `en`
@@ -2153,27 +2171,5 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Pro
 [Data](articles/17e060fc.json)
 
 [Extended Data](ext_articles/17e060fc.ext.json)
-
----
-
-### Top Chinese delegation meet Anura Kumara
-
-*2024-04-23 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-Chinese-delegation-meet-Anura-Kumara/108-281212) · `en`
-
-Colombo, April 23 (Daily Mirror)-A top delegation of the Chinese Communist Party headed by Vice Minister of the International Department, Sun Haiyan met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP head office today.
-
-The delegation included head of the International Department of the Chinese Communist Party Liu Jianchao and Political Counsellor of the Chinese Embassy in Sri Lanka Chen Xiang Yuan.
-
-They discussed matters related to the current political situation in the country and upcoming elections.
-
-The NPP representatives briefed the delegation about the NPP's preparation for the election and the need to create political stability to rescue the country from the crisis situation.
-
-NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Prof. Anil Jayantha participated in the discussion.
-
-◼️
-
-[Data](articles/1e59fc3a.json)
-
-[Extended Data](ext_articles/1e59fc3a.ext.json)
 
 ---

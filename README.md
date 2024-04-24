@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 09:34:12**
+As of **2024-04-24 09:52:40**
 
 ## Newspaper Stats
 
-*Scraped **20,583** Articles*
+*Scraped **20,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,70 +15,110 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,166
-adalk | 1,714
+adalk | 1,715
 tamilmirrorlk | 2,373
 adaderanalk | 2,451
 virakesarilk | 3,089
-dailymirrorlk | 3,211
+dailymirrorlk | 3,212
 adaderanasinhalalk | 3,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,579 (100.0%) of 20,583 articles have been extended.
+20,583 (100.0%) of 20,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### இன்று கொழும்பில் பாரிய மாற்றம்
+### Teacher recruitment interviews from April 29–May 9 at Education Ministry
+
+*2024-04-24 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-recruitment-interviews-from-April-29May-9-at-Education-Ministry/108-281252) · `en`
+
+Colombo, April 24 (Daily Mirror) - Interviews for the recruitment of teachers will be conducted between April 29 and May 9 at the Education Ministry in accordance with the results of the competitive examination held on March 2.
+
+In a statement, the Minister said the teacher recruitment of graduates to Grade 3-I in national schools for 2023 (2024) is for the vacancies available in national schools.
+
+They said the competitive examination was held to recruit teachers’ services for Sinhala, Tamil and English medium vacancies.
+
+The list of names of eligible candidates, letters calling for interviews, interview dates, and times are available at the following links:
+
+...
+
+[Data](articles/5cdedebd.json)
+
+---
+
+### Massive change in Colombo today
 
 *2024-04-24 09:03:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கொழும்பில்-பாரிய-மாற்றம்/175-336256) · `ta`
 
-உமா ஓயா திட்டத்தை திறந்து வைப்பதற்காக ஈரான் ஜனாதிபதி இன்று காலை இலங்கை வருகைத்தருகின்றார்.
+Iran's President visits Sri Lanka for Uma Oya project opening. Colombo faces multiple road closures today, affecting traffic from 2 pm to 10.30 pm.
 
-இதற்காக கொழும்பில் விசேட பாதுகாப்பு திட்டமும் பல சந்தர்ப்பங்களில் வீதிகள் மூடப்படும் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
+🟩
 
-கட்டுநாயக்க – கொழும்பு அதிவேக நெடுஞ்சாலை இன்று (24) பிற்பகல் 2 மணி முதல் 3 மணி வரை மூடப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
+The President of Iran is visiting Sri Lanka this morning to open the Uma Oya project.
 
-மேலும் அதிவேக வீதியில் இருந்து பேலியகொட, ஒருகுடவத்த சந்தி, தெமட்டகொட, பொரளை, டி.எஸ்.சேனநாயக்க சந்தி, ஹோர்டன் பிளேஸ், ஹோர்டன் சுற்றுவட்டம், கிரீன் பாத்,  நூலக சுற்றுவட்டம், ஆனந்த குமாரசுவாமி மாவத்தை, லிபர்ட்டி சுற்றுவட்டம், ஆர்ஏ டி மெல் மாவத்தை, சாந்த மைக்கல் வீதி, காலி வீதி இருந்து கோட்டை வரையிலான வீதி, ஹில்டன் ஹோட்டல் வரையான வீதி ஆகிய மூடப்படவுள்ளன.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the special security program in Colombo will be closed on several occasions.
 
-கொழும்பு லோட்டஸ் சுற்றுவட்டம் பிற்பகல் 3.30 மணிக்குப் பின்னர் மூடப்படவுள்ள நிலையில் ஜனாதிபதி அலுவலகத்திலிருந்து காலி வீதி உட்பட பல வீதிகள் மாலை 6.00 மணி முதல் 6.30 மணி வரை மூடப்படும்.
+The Katunayake -Colombo Highway will be closed today (24) from 2 pm to 3 pm, police said.
+
+Also, from the high speed road, Peliyagoda, Okudavatta Junction, Dematagoda, Borella, TS Senanayake Junction, Horton Place, Hortton Circle, Green Bath, Library Circle, Ananda Kumaraswamy MawathaThe road from the Fort to Fort, the Hilton Hotel will be closed.
+
+The Colombo Lotus circuit will be closed after 3.30 pm and several roads, including the Galle Road, will be closed from 6.00 pm to 6.30 pm.
+
+After 7.30 pm, the road to the Fort President's House will be closed and several roads will be closed from Colombo Fort at 9.30 pm.
+
+Steps will be taken to close the Katunayake Highway from 9.30 pm to 10.30 pm, police said.
 
 ...
 
 [Data](articles/8d8253a8.json)
 
+[Extended Data](ext_articles/8d8253a8.ext.json)
+
 ---
 
-### காதி நீதிபதி ஒருவர் இலஞ்ச ஊழல் ஆணைக்குழுவினால் கைது !
+### Khadi judge arrested for bribery
 
 *2024-04-24 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181809) · `ta`
 
-புத்தளம் காதி நீதிமன்ற நீதிபதி ஒருவர் 5,000 ரூபாய் இலஞ்சம் கோரிய குற்றச்சாட்டில் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+A Puttalam Khadi Court Judge was arrested for bribery of Rs 5,000. The Bribery Commission officials detained him, and he will be remanded until May 6 for a hearing in the Puttalam Magistrate's Court.
 
-கைது செய்யப்பட்ட காதி நீதிபதி புத்தளம் நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட போது அவரை மே மாதம் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளதாக இலஞ்ச ஊழல் குற்றச்சாட்டுகளை புலனாய்வு செய்யும் ஆணைக்குழு (CIABOC) தெரிவித்துள்ளது.
+🟩
+
+A Judge of the Puttalam Khadi Court has been arrested by the Bribery Commission officials on charges of bribery of Rs 5,000.
+
+The Investigation Commission (CIABOC) of the Bribery Corruption (CIABOC) said that he was ordered to be remanded until May 6 when the arrested Khadi Judge was produced before the Puttalam Magistrate's Court.
 
 ◼️
 
 [Data](articles/234bd4fb.json)
 
+[Extended Data](ext_articles/234bd4fb.ext.json)
+
 ---
 
-### பாடசாலைகள் மீண்டும் ஆரம்பம்
+### Schools are back
 
 *2024-04-24 08:54:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-336255) · `ta`
 
-தமிழ் - சிங்கள புத்தாண்டை முன்னிட்டு விடுமுறை அளிக்கப்பட்ட பாடசாலைகள் இன்று (24) மீண்டும் ஆரம்பிக்கப்படவுள்ளன.
+Schools resume today after holidays on Tamil-Sinhala New Year. Second phase of first installment begins, following completion of first phase on April 10.
 
-அதன்படி, இந்த வருடத்தின் பாடசாலை முதல்  தவணையின் இரண்டாம் கட்ட கல்வி நடவடிக்கைகள் இன்று ஆரம்பமாகவுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+🟩
 
-கடந்த ஏப்ரல் மாதம் 10ஆம் திகதி பாடசாலை முதல் தவணையின் முதல் கட்ட கல்வி நடவடிக்கைகள் நிறைவடைந்தது. R
+The schools that have been given holidays on the Tamil -Sinhala New Year will be resumed today (24).
+
+Accordingly, the second phase of the first installment of the school will commence today, the Ministry of Education said.
+
+The first phase of the first phase of the school was completed on April 10. Remble
 
 ◼️
 
 [Data](articles/9e9484db.json)
+
+[Extended Data](ext_articles/9e9484db.ext.json)
 
 ---
 
@@ -90,7 +130,7 @@ Sri Lanka and Iran will sign five Memorandums of Understanding (MoUs) today, in 
 
 The signing of the agreements will coincide with the one-day visit of Iranian President Dr. Ebrahim Raisi, the President’s Media Division (PMD) said.
 
-The Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+At the invitation of President Ranil Wickremesinghe, the Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
 
 During his brief visit to the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
 
@@ -185,6 +225,20 @@ He was later produced before the Puttalam Magistrate's Court and remanded until 
 [Data](articles/7b148235.json)
 
 [Extended Data](ext_articles/7b148235.ext.json)
+
+---
+
+### තක්කාලි මිල පහළට- ගොවියෝ කබලෙන් ලිපට
+
+*2024-04-24 08:00:43* · [`adalk`](https://www.ada.lk/picture_story/තක්කාලි-මිල-පහළට--ගොවියෝ-කබලෙන්-ලිපට/10-409229) · `si`
+
+වැලිමඩ , බොරලන්ද , බෝගහකුඹුර , කැප්පෙටිපොල , ලුණුවත්ත , මස්පන්න, අඹගස්දෝව , මැදවෙල , කැටගොඩ ආදී ප්‍රදේශ රැසක වැලිමඩ හා ඌව පරණගම ගොවින් තක්කාලි වගාව මෙවර කන්නයේ සිදු කර ඇති අතර එම ගොවින් මෙලෙස සිය අස්වනු විකුණා ගැනීමට නොහැකිව පීඩාවට පත්ව ඇත.
+
+කැප්පෙටිපොල විශේෂීත ආර්ථික මධ්‍යස්ථානය වෙත තම අස්වනු විකුණා ගැනීම සදහා රැගෙන ආවද වෙලෙදුන් විසින් තම අස්වනු ඉතා අඩුමිලකට ඉල්ලන බවයි ගොවින් පවසා සිටින්නේ. ගොවින් කියා සිටින්නේ තක්කාලි බීජ මිල ඉහල අගයක පැවතීමත් වගාව නඩත්තු කිරීමේදී යොදන කෘමිනාශක , රසායනික පොහොර ආදියේ මිල ඉතා අධික වීම නිසා මෙලෙස අඩු මුදලකට අස්වනු අලෙවි කිරීම තමන්ට ගිය වියදමවත් පියවා ගැනීමට නොහැකි තත්වයක් උදා කර ඇති බවයි.
+
+...
+
+[Data](articles/c6b26bfc.json)
 
 ---
 
@@ -1052,21 +1106,27 @@ When carrying out the government's new educational restructuring activities, it 
 
 ---
 
-### தூதரக சேவையில் மாற்றம்
+### Change in Embassy Service
 
 *2024-04-24 00:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதரக-சேவையில்-மாற்றம்/175-336253) · `ta`
 
-வெளிவிவகார அமைச்சின் தூதரக அலுவல்கள் பிரிவு எதிர்வரும் மே மாதம் 2 ஆம் திகதி முதல் பத்தரமுல்லை - சுஹுருபாய நிர்வாக கட்டடத்துக்கு மாற்றப்படவுள்ளது.
+The Embassy of the Ministry of External Affairs will move to Battaramulla - Suhurupaya on May 2nd, suspending Document Certificate Services on May 29th and 30th. Services will be available at regional offices during this time.
 
-குறித்த தினத்திலிருந்து, புதிய அலுவலகத்தில் வழமையான அலுவலக நேரங்களில் சகல தூதரக  சேவைகளும் பொதுமக்களுக்கு வழங்கப்படும் என வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+🟩
 
-அதேநேரம், கொழும்பிலுள்ள தூதரக அலுவல்கள் பிரிவினால் பொதுமக்களுக்கு வழங்கப்பட்டுவரும் ஆவண அத்தாட்சிப்படுத்தல் சேவைகள், எதிர்வரும் 29 மற்றும் 30 ஆம் திகதிகளில் தற்காலிகமாக இடைநிறுத்தப்படும் எனவும் அறிவிக்கப்பட்டுள்ளது.
+The Embassy of the Ministry of External Affairs will be transferred to the Battaramulla - Suhurupaya administration building from the 2nd of May.
 
-எனினும், இந்தக் காலப்பகுதியினுள் பிராந்திய அலுவலகங்களில் சேவைகளை பெறமுடியுமென வெளிவிவகார அமைச்சு அறிவித்துள்ளது.  (a)
+The Ministry of External Affairs has announced that all embassy services will be provided to the public during the new office during the new office.
+
+At the same time, it has been announced that the Document Certificate Services provided by the public will be suspended on the 29th and 30th of this month by the Embassy in Colombo.
+
+However, the Ministry of External Affairs has announced that services will be obtained in regional offices during this period.(a)
 
 ◼️
 
 [Data](articles/758a84fa.json)
+
+[Extended Data](ext_articles/758a84fa.ext.json)
 
 ---
 
@@ -2109,49 +2169,5 @@ Energy utilities were made to borrow from state banks to run off-budget subsidie
 [Data](articles/c07a279c.json)
 
 [Extended Data](ext_articles/c07a279c.ext.json)
-
----
-
-### Iran President to open Sri Lanka $514mn irrigation, hydro power project
-
-*2024-04-23 18:07:00* · [`economynextcom`](https://economynext.com/iran-president-to-open-sri-lanka-514mn-irrigation-hydro-power-project-159760/) · `en`
-
-ECONOMYNEXT – Iran President Seyyed Ebrahim Raisi will inaugurate an irrigation and hydropower project that was designed and built by Iranian engineering firm and was also initially financed before international sanctions hit the project.
-
-The Uma Oya (River) project will irrigate 4,500 acres of new agricultural land, generate 290 Gigawatt hours of electricity and also provide drinking water, a government statement said.
-
-Sri Lanka had awarded an engineering, procurement, construction (EPC) to Iran’s FARAB engineering group to design and construct the 514 million dollar multipurpose project in 2010.
-
-The project was funded until 2013 with a million US dollar credit from the Export Development Bank of Iran but international sanctions prevented the country from continuing financing, a government statement said.
-
-The project continued with funding from Sri Lanka. Sri Lanka had since repaid 19.3 million dollars of the credit and 35.2 million remains outstanding.
-
-...
-
-[Data](articles/e3dd8400.json)
-
-[Extended Data](ext_articles/e3dd8400.ext.json)
-
----
-
-### India's massive bridge collapses
-
-*2024-04-23 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195899) · `si`
-
-India's massive bridge collapses, killing 100 people, including 65 on a bus. Authorities are investigating.
-
-🟩
-
-විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ අධික සුළං තත්ත්වය සමග පාලමේ අඩි 100ක පමණ කොටසක් කඩා වැටී ඇති බවය.
-
-A bus carrying 65 persons carrying 65 persons at the wedding have also been traveling shortly before the bridge was collapse.
-
-The authorities of the country have already begun an investigation into the incident.
-
-◼️
-
-[Data](articles/e3425409.json)
-
-[Extended Data](ext_articles/e3425409.ext.json)
 
 ---

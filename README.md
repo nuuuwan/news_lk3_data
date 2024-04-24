@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 05:03:32**
+As of **2024-04-25 05:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,774** Articles*
+*Scraped **20,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 217
 dbsjeyarajcom | 223
 newsfirstlk | 363
 islandlk | 1,118
-dailyftlk | 1,151
+dailyftlk | 1,160
 economynextcom | 1,180
 adalk | 1,731
 tamilmirrorlk | 2,407
@@ -26,11 +26,181 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,774 (100.0%) of 20,774 articles have been extended.
+20,774 (100.0%) of 20,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### BOI felicitates Brandix as Outstanding Exporter
+
+*2024-04-25 05:05:35* · [`dailyftlk`](https://www.ft.lk/business/BOI-felicitates-Brandix-as-Outstanding-Exporter/34-760999) · `en`
+
+Brandix Group Managing Director Hasitha Premaratne accepts the award for Most Outstanding Exporter Merchandise from President Ranil Wickremesinghe
+
+Brandix Group CEO Ashroff Omar receives awards for his individual contribution to growing Sri Lanka’s exports sector from President Ranil Wickremesinghe
+
+Brandix Apparel was recently recognised as Most Outstanding Exporter in the Merchandise category by the Board of Investment of Sri Lanka (BOI), as the country’s flagship investment promotion arm celebrated its 45th anniversary.
+
+Brandix Group Managing Director Hasitha Premaratne received the award from President Ranil Wickremesinghe, whilst Brandix Group Chief Executive  Ashroff Omar, received an award for Outstanding Individual Contribution towards growing Sri Lanka’s export sector.
+
+...
+
+[Data](articles/32144c5a.json)
+
+---
+
+### Chamber of Marine Industries of Sri Lanka signs MoU with Singapore Boating Industry Association
+
+*2024-04-25 05:02:00* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-of-Sri-Lanka-signs-MoU-with-Singapore-Boating-Industry-Association/34-760998) · `en`
+
+The Chamber of Marine Industries of Sri Lanka (CMISL) signed a Memorandum of Understanding (MOU) with the Singapore Boating Industry Association (SBIA) on 22 April 2024, with a view to working together to promote the boating and yachting industries.
+
+The initial negotiations between the two associations were facilitated by the High Commission of Sri Lanka in Singapore.
+
+The signing was done by Marine Industries Chamber of Sri Lanka Chairman and Sri Lanka Singapore Business Council Vice President Indhra Kaushal Rajapaksa and the Singapore Boating Industry Association Chairman Y.P. Loke, in the presence of High Commissioner of Sri Lanka to Singapore Senarath Dissanayake, One 15 Marina Chairman Arthur Tay, International Council of Marine Industry (ICOMIA) President Darren Vaux and, Minister (Commercial) of the High Commission of Sri Lanka Yasantha Yaddehi.
+
+...
+
+[Data](articles/5a9896a9.json)
+
+---
+
+### Nawaloka Hospitals wins Merit award at Best Management Practices Company Awards 2024
+
+*2024-04-25 05:00:49* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospitals-wins-Merit-award-at-Best-Management-Practices-Company-Awards-2024/34-760997) · `en`
+
+Sri Lanka’s foremost private healthcare provider, Nawaloka Hospitals PLC, took home a Merit award at the distinguished Best Management Practices Company Awards ceremony held on 13 March 2024, at the Cinnamon Grand, Colombo.
+
+The Best Management Practices Company Awards, organised annually by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), celebrate excellence in organisational growth and success within both the public and private sectors. These awards highlight exemplary leadership, policies, strategies, people management, partnerships, resources, processes, and performances demonstrated by companies throughout 2023.
+
+...
+
+[Data](articles/9cac0868.json)
+
+---
+
+### Omega Line honoured as ‘Most Outstanding Exporter – Merchandise’ at the 45th Anniversary of BOI Sri Lanka
+
+*2024-04-25 05:00:33* · [`dailyftlk`](https://www.ft.lk/business/Omega-Line-honoured-as-Most-Outstanding-Exporter-Merchandise-at-the-45th-Anniversary-of-BOI-Sri-Lanka/34-760996) · `en`
+
+Omega Line – Vavuniya Apparels Director – Quality Assurance and General Manager Paola Fava, receiving the award from President Ranil Wickremesinghe
+
+The Board of Investment (BOI) of Sri Lanka recently commemorated its 45th Anniversary with an inaugural awards ceremony on 2 April, recognising companies with exemplary contributions to the nation’s economic landscape. Among the distinguished recipients, Omega Line Limited was honoured as “Most Outstanding Exporter – Merchandise.”
+
+Omega Line CEO/Managing Director Felix A. Fernando, and Paola Fava, Omega Line – Vavuniya Apparels Director – Quality Assurance and General Manager Paola Fava, graciously accepted the prestigious award from President Ranil Wickremesinghe. The recognition by BOI underscores Omega Line’s significance as one of the leading apparel exporters in the country.
+
+...
+
+[Data](articles/f9e7fcd1.json)
+
+---
+
+### SJB and NPP to meet for public debate date finalisation
+
+*2024-04-25 04:57:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-and-NPP-to-meet-for-public-debate-date-finalisation/56-760995) · `en`
+
+SJB MP Nalin Bandara says all matters relating to holding of two debates will be discussed at meeting.
+
+Emphasises importance of holding a debate between economic councils at this juncture
+
+Assures both debates would take place in May, stating Premadasa is eager to participate
+
+Samagi Jana Balawegaya (SJB) MP Nalin Bandara in a communique to the rival National People’s Power (NPP) party yesterday has requested a meeting this week to decide on dates for two public debates between the party leaders and their economic councils.
+
+Bandara accordingly requested NPP Executive Council member, Dr. Nalinda Jayatissa to meet him in parliament on either 25 or 26 April to finalise the plans.
+
+The communique was in response to a letter sent by Jayatissa on Monday, requesting the SJB to choose either 7, 9, 13 or 14 May to hold a public debate between the respective party leaders.
+
+...
+
+[Data](articles/3065e894.json)
+
+---
+
+### Tilvin expresses doubts on Premadasa’s participation in public debate
+
+*2024-04-25 04:55:13* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-expresses-doubts-on-Premadasa-s-participation-in-public-debate/56-760994) · `en`
+
+Criticises SJB’s reluctance to agree to proposed dates or suggest alternatives
+
+Accuses SJB of employing evasion tactics instead of making efforts to face public debate
+
+Reiterates its readiness for debate and urges SJB to confirm date instead of prolonging discussions
+
+National People’s Power (NPP) Executive Council member Tilvin Silva yesterday voiced his doubts regarding whether Samagi Jana Balawegaya (SJB) leader Sajith Premadasa will indeed participate in a debate with NPP leader Anura Kumara Dissanayake.
+
+Speaking at a press conference, Silva expressed the NPP’s confidence that Premadasa would not partake in a public debate. “That is why they continue to engage in a back-and-forth with us on this matter and make various assertions,” he said.
+
+While the SJB has sought a meeting with the NPP this week to iron out the debate details, Silva criticised the SJB’s reluctance to participate in a debate on the dates proposed by the NPP or provide alternative dates.
+
+...
+
+[Data](articles/0710eb45.json)
+
+---
+
+### Interim injunction issued against Wijeyadasa’s SLFP Acting Chairmanship
+
+*2024-04-25 04:53:14* · [`dailyftlk`](https://www.ft.lk/news/Interim-injunction-issued-against-Wijeyadasa-s-SLFP-Acting-Chairmanship/56-760993) · `en`
+
+The Colombo District Court issued an interim injunction against Minister of Justice Dr. Wijeyadasa Rajapakshe from performing duties as the Acting Chairperson of the Sri Lanka Freedom Party (SLFP) yesterday.
+
+A similar injunction was also issued against the SLFP Acting General Secretary Sarathi Dushmantha Mithrapala.
+
+The injunctions, in effect until 8 May, were granted considering a case filed by SLFP office bearers Lasantha Alagiyawanna, Duminda Dissanayake, and Mahinda Amaraweera.
+
+Chandaka Jayasundara PC representing the plaintiffs told the courts that it is illegal and against the party’s constitution for the defendants to hold the positions.
+
+Jayasundara noted that Rajapakshe’s membership status disqualifies him from holding any position within the SLFP, citing constitutional illegality in having a member of another party in such a role.
+
+Additionally, Jayasundara highlighted that the Executive Committee convened on 21 April to appoint Rajapakshe was unlawful.
+
+...
+
+[Data](articles/0fe6a459.json)
+
+---
+
+### Pakistan High Commission mourns demise of Ifthikar Aziz
+
+*2024-04-25 04:51:58* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-mourns-demise-of-Ifthikar-Aziz/56-760992) · `en`
+
+The High Commission of the Islamic Republic of Pakistan in Colombo in a statement yesterday said it is deeply saddened to learn about the sad demise of Iftikhar Aziz, former President of Sri Lanka-Pakistan Friendship Association on 24 April 2024.
+
+Pakistan High Commissioner Maj. Gen. Faheem Ul Aziz (R) HI (M) has offered his heartfelt condolences to the family of Aziz.
+
+“Aziz was a great friend of Pakistan and his efforts at promoting Sri Lanka-Pakistan friendship will always be remembered. In recognition of his welfare activities and services for enhancing ties between the two countries, the Government of Pakistan conferred the prestigious title “Tamgha-i-Khidmat” on Iftikhar Aziz in September 2016,” the statement said.
+
+“Our thoughts and prayers are with the family of Aziz,” it added.
+
+◼️
+
+[Data](articles/a866f468.json)
+
+---
+
+### Court of Appeal summons Hajj Committee for contempt of court
+
+*2024-04-25 04:47:37* · [`dailyftlk`](https://www.ft.lk/news/Court-of-Appeal-summons-Hajj-Committee-for-contempt-of-court/56-760991) · `en`
+
+The Court of Appeal yesterday summoned all the members of the Hajj Committee and the Director of the Muslim Religious and Cultural Affairs for contempt of court.
+
+The Court ordered that they be summoned after a Petition was filed stating that the Hajj committee had acted in violation of a court order.
+
+Previously the Court of Appeal suspended the previous allocation of quotas and ordered a new allocation including a travel agent United Travels.
+
+The Court of Appeal was told yesterday that travel agents were told to flout the order on one hand and the pilgrims were made to fear that the Hajj would not be possible on the other by the Hajj Committee.
+
+Justice N. Samarakone yesterday clarified that there was no suspension of Hajj and that the order was only to include United Travels and reallocate the relevant quotas.
+
+Recordings were played in court where the public were told to violate the court order by the Hajj committee.
+
+...
+
+[Data](articles/2c8fe6c2.json)
+
+---
 
 ### GMOA wants decision on KDU medical degree admission suspended
 
@@ -2097,193 +2267,5 @@ The US dollar purchasing price was Rs 295.4376 and the sales price were Rs 305.3
 [Data](articles/76574dcf.json)
 
 [Extended Data](ext_articles/76574dcf.ext.json)
-
----
-
-### Fox Hill riders released on bail
-
-*2024-04-24 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195929) · `si`
-
-Fox Hill riders arrested for accident released on bail.
-
-🟩
-
-The two runners who were arrested in connection with the accident have been released on bail.
-
-The two drivers were remanded after being arrested by police while receiving treatment at the Diyatalawa Hospital.
-
-◼️
-
-[Data](articles/6ef87346.json)
-
-[Extended Data](ext_articles/6ef87346.ext.json)
-
----
-
-### Court ban on appointment of Minister Vijayadasa Rajapakse as the leader of the Freedom Party
-
-*2024-04-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181842) · `ta`
-
-The Colombo District Court has banned the appointment of Minister Vijayadasa Rajapakse as SLFP leader, issued another ban by Dushmantha Mithrapala, and on decisions by the temporary chief secretary. The order, by Magistrate Sandhwithan, is effective until May 8th, following complaints by Mahinda Amaraweera, Lasantha Alagavanna, and Duminda Dissanayake.
-
-🟩
-
-The Colombo District Court has issued an injunction to appoint Minister Vijayadasa Rajapakse as the leader of the Sri Lanka Freedom Party (SLFP).
-
-In addition, Dushmantha Mithrapala, who was the general secretary of the party, issued another ban.
-
-In addition, the court issued another ban on the implementation of the decisions taken by the temporary chief secretary.
-
-Colombo District Magistrate Sandhwithan has issued the order on the complaint lodged by Ministers Mahinda Amaraweera, Lasantha Alagavanna and Member of Parliament Duminda Dissanayake.
-
-The order also stated that the injunction will remain in effect until the 8th of May.
-
-◼️
-
-[Data](articles/c7f2d0f3.json)
-
-[Extended Data](ext_articles/c7f2d0f3.ext.json)
-
----
-
-### Security beefed up
-
-*2024-04-24 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Security-beefed-up/110-281288) · `en`
-
-Security in Colombo was beefed up this morning due to arrival of the President of the Islamic Republic of Iran, Dr. Ebrahim Raisi. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/677ae9e5.json)
-
-[Extended Data](ext_articles/677ae9e5.ext.json)
-
----
-
-### I'm coming to the presidential election - Sajith
-
-*2024-04-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195928) · `si`
-
-Sajith Premadasa announces presidential election run.
-
-🟩
-
-Opposition Leader Sajith Premadasa says he will contest the presidential election.
-
-Sajith Premadasa was speaking in parliament today.
-
-◼️
-
-[Data](articles/edd97be4.json)
-
-[Extended Data](ext_articles/edd97be4.ext.json)
-
----
-
-### Sajith Premadasa says will contest presidential election
-
-*2024-04-24 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98814/sajith-premadasa-says-will-contest-presidential-election) · `en`
-
-Opposition Leader Sajith Premadasa revealed on Wednesday (24) that he intends to contest the upcoming Presidential Election.
-
-The leader of Samagi Jana Balawegaya (SJB) leader made this remark while addressing the adjournment debate on the 2019 Easter Sunday terror attacks, currently taking place in parliament.
-
-Denying claims stating that he would not contest the presidential election, Premadasa highlighted that he, in fact, intends to run for the presidency.
-
-The opposition leader also gave an undertaking to implement proper action under a future SJB government to serve justice to the victims of the devastating suicide bombings detonated on 21 April 2019.
-
-Promising to appoint a special commission to investigate the terror attacks, he said this panel would consist of both local and foreign judges and investigators.
-
-Speaking further, he asserted that, under an SJB government, a transparent investigation would be conducted on the Easter attacks.
-
-...
-
-[Data](articles/82c34877.json)
-
-[Extended Data](ext_articles/82c34877.ext.json)
-
----
-
-### Iran offers knowledge, expertise for Sri Lanka’s development and progress
-
-*2024-04-24 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98813/iran-offers-knowledge-expertise-for-sri-lankas-development-and-progress) · `en`
-
-Iran stands ready to share its knowledge, expertise and experience with Sri Lanka for the progress and development of the country, including partnerships in large-scale projects, says Iranian President Dr. Ebrahim Raisi.
-
-The Iranian Head of State made these remarks after participating in the ceremony to inaugurate the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
-
-After declaring open the hydropower project, President Raisi promised to extend support for the developmental projects implemented on the island, through the provision of technical and engineering services.
-
-He also asserted that Iran is ready to expand the bilateral ties with ‘all Asian countries, our neighbouring countries and sovereign and independent states.’
-
-At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations.
-
-...
-
-[Data](articles/4ea95771.json)
-
-[Extended Data](ext_articles/4ea95771.ext.json)
-
----
-
-### Court blocks Maithri from running SLFP
-
-*2024-04-24 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-blocks-Maithri-from-running-SLFP/108-281289) · `en`
-
-Colombo, April 24 (Daily Mirror) -  The Colombo District Court issued an interim injunction preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP).
-
-Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by SLFP activist Montague Sarathchandra. This order will be effective till the conclusion of the hearing into this matter.
-
-◼️
-
-[Data](articles/8d9c120a.json)
-
-[Extended Data](ext_articles/8d9c120a.ext.json)
-
----
-
-### Three injunneous decisions against SLFP leaders
-
-*2024-04-24 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195927) · `si`
-
-The Colombo District Court issued injunctions preventing SLFP leaders from appointing a chairman, issuing another to block the General Secretary's appointment, and another to halt the acting Chief Secretary's decision-making. These orders were filed by Mahinda Amaraweera, Lasantha Alagiyawanna, and MP Duminda Dissanayake, effective from May 8.
-
-🟩
-
-The Colombo District Court has issued an enjoining order preventing the appointment chairman of the SLFP as the acting chairman of the SLFP.
-
-Also, Litamin Mithrapala issued another injunction to prevent the General Secretary of the party.
-
-The Court issued another injunction to prevent the implementation of the decision making regarding the acting Chief Secretary.
-
-The Enraining Orders of Colombo Dissaninithivarana issued a complaint made by Mahinda Amaraweera, Lasantha Alagiyawanna and MP Duminda Dissanayake.
-
-The injunction has stated that the injunction order will be effective from May 08.
-
-◼️
-
-[Data](articles/5c1c6e26.json)
-
-[Extended Data](ext_articles/5c1c6e26.ext.json)
-
----
-
-### Interim ban on Maithripala's act as the leader of the Freedom Party
-
-*2024-04-24 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181839) · `ta`
-
-Maithripala Sirisena, former President, issued an interim injunction against his leadership of the Freedom Party, following a complaint by Monteku Sarath Chandra, a member of the Sri Lanka Freedom Party Executive Committee. The order was issued by the Colombo District Chief Court.
-
-🟩
-
-Former President Maithripala Sirisena has issued an interim injunction on Wednesday (24).
-
-The Colombo District Chief Court has issued the order based on a complaint filed by Sri Lanka Freedom Party Executive Committee member Monteku Sarath Chandra.
-
-◼️
-
-[Data](articles/2c1ccde3.json)
-
-[Extended Data](ext_articles/2c1ccde3.ext.json)
 
 ---

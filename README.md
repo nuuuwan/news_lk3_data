@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 02:34:01**
+As of **2024-04-25 02:51:23**
 
 ## Newspaper Stats
 
-*Scraped **20,768** Articles*
+*Scraped **20,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,731
 tamilmirrorlk | 2,404
 adaderanalk | 2,474
 virakesarilk | 3,129
-dailymirrorlk | 3,242
+dailymirrorlk | 3,243
 adaderanasinhalalk | 3,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,767 (100.0%) of 20,768 articles have been extended.
+20,768 (100.0%) of 20,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### GMOA wants decision on KDU medical degree admission suspended
+
+*2024-04-25 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-wants-decision-on-KDU-medical-degree-admission-suspended/108-281302) · `en`
+
+Colombo, April 25 (Daily Mirror) - The Government Medical Officers' Association (GMOA) has requested the government to suspend the recent Cabinet decision which approved local students to gain admission to the General Sir John Kotelawala Defence University's medical degree programme.
+
+Under the endorsed proposal, which received the nod from the Cabinet, aspiring medical students from Sri Lanka will have the opportunity to commence their studies at the renowned institution from the upcoming academic year.
+
+Dr. Chamil Wijesinghe, spokesperson for the GMOA, called on the government to suspend the decision, citing concerns over its lack of consultation with relevant stakeholders and transparency.
+
+"The relevant authorities have not provided sufficient reasons for implementing this decision," Dr. Wijesinghe stated. "As a professional body, we are concerned about the potential impact on the quality of medical education."
+
+...
+
+[Data](articles/6eddcc51.json)
+
+---
 
 ### No footboard riding allowed, no liability for accidents: Railways Department
 
@@ -52,23 +70,31 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
-### ’ஒன்றிணைந்து செயற்பட வேண்டும்’
+### The model must work together
 
 *2024-04-25 00:09:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றிணைந்து-செயற்பட-வேண்டும்/175-336298) · `ta`
 
-இலங்கையில் நிர்மாணிக்கப்பட்ட பாரிய நீர்ப்பாசனத் திட்டங்களில் ஒன்றான உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்டம், புதன்கிழமை (24) திறந்துவைக்கப்பட்டது.
+Dr. Ibrahim Raisi, Iran's President, inaugurated the Uma Oya Multipurpose Development Project in Sri Lanka, highlighting Iran's technical support.
 
-ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி (Dr. Ebrahim Raisi)  மற்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க  ஆகியோரின் தலைமையில் திறந்துவைக்கப்பட்டது.
+🟩
 
-இந்த விழாவுக்கு ஒருநாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு  வருகைதந்திருந்த ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி, மத்தள விமான நிலையத்தில் வந்து இறங்கினார். அவரை, பிரதமர் தினேஷ் குணவர்தன தலைமையிலான குழுவினர் வரவேற்றனர்.
+The Uma Oya Multipurpose Development Project, one of the massive irrigation projects built in Sri Lanka, was opened on Wednesday (24).
 
-அதன்பின்னர், உமா ஓயா பல்நோக்கு அபிவிருத்தி திட்ட திறப்பு விழாவில் கலந்துகொண்டார். அவர், தனது விஜயத்தை முடித்துக்கொண்டு, கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் ஊடாக புறப்பட்டுச் சென்றார்.
+Dr. Ibrahim Raisi, President of the Islamic Republic of Iran (Dr.. Opened under the leadership of Ebrahim Raisi and President Ranil Wickremesinghe.
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தி  மகாவலி அபிவிருத்தித் திட்டத்திற்குப் பின்னர் இலங்கையில் நிர்மாணிக்கப்பட்ட பாரிய நீர்ப்பாசனத் திட்டங்களில் இத்திட்டம் ஒன்றாகும்.
+President of the Iranian Islamic Republic, Dr. Ibrahim Raisi, arrived at the Mattala airport on an official visit to the ceremony.. He was greeted by a delegation headed by Prime Minister Dinesh Gunawardena.
+
+Subsequently, Uma Oya attended the multi -purpose development project inauguration. He completed his visit and left through the Katunayake International Airport.
+
+This is one of the major irrigation projects built in Sri Lanka after the Uma Oya Multipurpose Development Mahaweli Development Program.
+
+President Ranil Wickremesinghe thanked the technical support of Iran for the success of the Uma Oya Multipurpose Development Program and said Sri Lanka could not carry water from Uma Oya without the help of Iran.
 
 ...
 
 [Data](articles/c22dff3d.json)
+
+[Extended Data](ext_articles/c22dff3d.ext.json)
 
 ---
 
@@ -2257,31 +2283,5 @@ He said police had launched an investigation into the incident while the Ministr
 [Data](articles/91d7090e.json)
 
 [Extended Data](ext_articles/91d7090e.ext.json)
-
----
-
-### A warning of Iran from the US
-
-*2024-04-24 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195925) · `si`
-
-The US warns Iran over sanctions, following a 3-day visit by Iran's President to Pakistan, where a trade agreement was signed to increase trade to $10 billion. This visit aimed to resolve past conflicts between Iran and Pakistan.
-
-🟩
-
-The United States today warned that the sanctions were imposed against Iran.
-
-The United States made this warned after Iranian presence was completed in the 3-day visit to Iranian President.
-
-During his visit to the Iran, Pakistan and Iran were signed between Pakistan and Iran to increase the trade to $ 10 billion.
-
-The President arrived in Pakistan on Monday (22). One of the main objectives of his tour was to resolve the problems between the two countries.
-
-Earlier this year, Iran and Pakistan were attacked by each other.
-
-◼️
-
-[Data](articles/d6b810ce.json)
-
-[Extended Data](ext_articles/d6b810ce.ext.json)
 
 ---

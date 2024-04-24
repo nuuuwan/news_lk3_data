@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 00:18:42**
+As of **2024-04-25 00:34:19**
 
 ## Newspaper Stats
 
-*Scraped **20,760** Articles*
+*Scraped **20,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,70 @@ adalk | 1,731
 tamilmirrorlk | 2,400
 adaderanalk | 2,474
 virakesarilk | 3,129
-dailymirrorlk | 3,238
+dailymirrorlk | 3,241
 adaderanasinhalalk | 3,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,760 (100.0%) of 20,760 articles have been extended.
+20,760 (100.0%) of 20,763 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-25 (Thursday)
+
+### Politicking on the Easter Sunday massacre at its 5th anniversary
+
+*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Politicking-on-the-Easter-Sunday-massacre-at-its-5th-anniversary/172-281304) · `en`
+
+At a commemoration event at St. Anthony’s Shrine in Kochchikade, Malcolm Cardinal Ranjit, maintained that The Roman Catholic church- in the majority Buddhist nation- no longer trusted the authorities to expose those behind the bombings
+
+The National People’s Power of the JVP issued a seven-point agenda that it said would be implemented if it comes to power to hold accountable those responsible for the tragedy and serve justice to the victims
+
+The politicization of the Easter Sunday attack is not only undermining the Sri Lankan state, but it also distracts the security agencies from the real threat of Islamist extremism
+
+The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow
+
+Islamization and the Arabization of some quarters of the Muslim community, leading up to the Easter Sunday attack, created permissive conditions for the Easter Sunday attacks
+
+...
+
+[Data](articles/357b6f86.json)
+
+---
+
+### Seeing beyond the Uma Oya project and into eyes of Iran
+
+*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Seeing-beyond-the-Uma-Oya-project-and-into-eyes-of-Iran/172-281308) · `en`
+
+Uma Oya multipurpose development project is the largest since the end of the Mahaweli projects
+
+Sri Lanka-Iran ties began long ago as 1961 when the latter had an embassy in Islamabad and over the years, Iran has funded a number of development projects in Sri Lankaining financial help from Israel’s enemy Iran for development work
+
+Iran, like other ambitious nations, would want to sow seeds of their interests here in this island, as no nation with military might would wish to see their interests being absent in a country which is followed by so many nations in the world
+
+Sri Lanka’s latest news in the international scene is generated with its dealings with Iran, a nation considered as a super power in tactical ballistic missiles and UAVs. Iran’s President Dr. Ebrahim Raisi was in the island on Wednesday (April 24) to declare open the Uma Oya Multipurpose Development Project along with Ranil Wickremesinghe, the President of Sri Lanka.
+
+...
+
+[Data](articles/5d1a8597.json)
+
+---
+
+### Girls in ICT and political leadership roles
+
+*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Girls-in-ICT-and-political-leadership-roles/172-281307) · `en`
+
+While most Sri Lankan politicians and the people are focused on elections—what elections and when or whether they will be held—it is more important to give attention and priority to issues such as gender equality. It is especially important to focus on the role of women in Information and Communication Technology (ICT) in the upcoming technological revolution that could manifest through areas like artificial intelligence.
+
+Today, the United Nations marks the International Girls in ICT Day with the theme being “Leadership” to underscore the critical need for strong female role models in science, technology, engineering and mathematics (STEM) careers.
+
+...
+
+[Data](articles/bc80a3ce.json)
+
+---
 
 ### 2024-04-24 (Wednesday)
 
@@ -2223,73 +2277,5 @@ According to sources, the salary council has expanded its hand that the case on 
 [Data](articles/c977aa16.json)
 
 [Extended Data](ext_articles/c977aa16.ext.json)
-
----
-
-### The driver of Hoppa town Hoppa jumps to Japan
-
-*2024-04-24 12:37:51* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවිය-හප්පා-මරා-දැමූ-රියදුරු-ජපානයට-පැන-යයි/11-409239) · `si`
-
-The driver of Hoppa town Hoppa, who fled to Japan, was arrested in Sri Lanka after his mother's death. He was involved in an accident and had been in Bangkok before returning to Japan. The victim was Sameera Madushan, the younger brother of Kuruppu, Madina Madushan, and Gilina Madushan, who were all involved in the van.
-
-🟩
-
-The elder brother of Kantale Magistrate, the elder brother who had fled into a foreign country to be remanded until May 3.
-
-The victim was a small brother, Sameera Madushan, the younger brother of Kuruppu, Madina Madushan, the younger brother of Kuruppu, Gilina Madushan, who had been deployed in Kuruppu, Gilinashan, who was involved in the van.The police said in court that he was supported.
-
-The driver of the suspect has come to Sri Lanka to the death of his mother, and the police have been arrested by the police that he had fled to Bangkok to travel back to Japan after the accident occurred.
-
-◼️
-
-[Data](articles/ee7ddbd2.json)
-
-[Extended Data](ext_articles/ee7ddbd2.ext.json)
-
----
-
-### Uma Oya Multipurpose Development Program has been opened
-
-*2024-04-24 12:34:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-பல்நோக்கு-அபிவிருத்தி-திட்டம்-திறந்து-வைக்கப்பட்டது/175-336273) · `ta`
-
-The Uma Oya Multipurpose Development Program, led by Ebrahim Raisi and President Ranil Wickremesinghe, is a significant irrigation project in Sri Lanka, following the Mahaweli Development Project. Iran's President opened it today, with special security and transportation arrangements.
-
-🟩
-
-Dr. Ibrahim Raisi (Dr.. The Uma Oya Multipurpose Development Program was under the leadership of Ebrahim Raisi and President Ranil Wickremesinghe.
-
-This is one of the massive irrigation projects built in Sri Lanka after the Mahaweli Development Project.
-
-Iran's President arrived at Mattala Airport this morning to open the Uma Oya project. It is noteworthy that the Special Security Scheme and the Transportation Scheme has been implemented on his arrival. Remble
-
-◼️
-
-[Data](articles/f00fd357.json)
-
-[Extended Data](ext_articles/f00fd357.ext.json)
-
----
-
-### Risk of landslide: 10 families migration
-
-*2024-04-24 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்சரிவு-அபாயம்-10-குடும்பங்கள்-இடம்பெயர்வு/76-336272) · `ta`
-
-10 families in Ella Karadagolla Malitagolla area displaced due to landslides risk from dry weather and cracking land.
-
-🟩
-
-Ella Divisional Secretary Indika Kayan Pathirana said that 10 families living in the Ella Karadagolla Malitagolla area have been displaced on Wednesday (24).
-
-He said that the area had previously been running a large crude water and the land was cracking and exploding.
-
-Despite the rainfall in these days, there is a risk of landslides due to dry weather conditions. He said the contaminated water flows into the stream.
-
-Ella Divisional Secretary Indika Kayan Pathirana added that the family is currently staying in relative homes and arrangements have been made to provide them with the necessary facilities.
-
-◼️
-
-[Data](articles/7ffef5d6.json)
-
-[Extended Data](ext_articles/7ffef5d6.ext.json)
 
 ---

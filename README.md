@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 02:51:23**
+As of **2024-04-25 03:03:49**
 
 ## Newspaper Stats
 
-*Scraped **20,769** Articles*
+*Scraped **20,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,180
 adalk | 1,731
-tamilmirrorlk | 2,404
+tamilmirrorlk | 2,405
 adaderanalk | 2,474
 virakesarilk | 3,129
 dailymirrorlk | 3,243
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,768 (100.0%) of 20,769 articles have been extended.
+20,769 (100.0%) of 20,770 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Dr. Chamil Wijesinghe, spokesperson for the GMOA, called on the government to su
 
 [Data](articles/6eddcc51.json)
 
+[Extended Data](ext_articles/6eddcc51.ext.json)
+
 ---
 
 ### No footboard riding allowed, no liability for accidents: Railways Department
@@ -67,6 +69,24 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 [Data](articles/133f4e0f.json)
 
 [Extended Data](ext_articles/133f4e0f.ext.json)
+
+---
+
+### ’பந்தய விபத்துக்கு கவனயீனமே காரணம்’
+
+*2024-04-25 00:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தய-விபத்துக்கு-கவனயீனமே-காரணம்/175-336299) · `ta`
+
+தியத்தலாவையில் 7 பேர் உயிரிழந்த சம்பவத்துடன் தொடர்புடைய கார் பந்தயத்தின் போது இடம்பெற்ற விபத்துக்கு போட்டி ஏற்பாட்டாளர்களின் கவனயீனமே காரணம் .எனவே அவர்களுக்கு எதிராக சட்டத்தை நடைமுறைப்படுத்தி தண்டனை வழங்க நடவடிக்கை எடுக்க வேண்டும் என்றும் எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் நளீன் பண்டார வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (14) விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே   இவ்வாறு வலியுறுத்திய அவர் மேலும் பேசுகையில்,
+
+சில தினங்களுக்கு முன்னர் தியத்தலாவையில் கார் பந்தய விபத்தில் 7 பேர் உயிரிழந்தனர். இது தொடர்பில் தேடிப் பார்த்த போது போட்டி ஏற்பாட்டாளர்களின் கவனயீனம் காரணமாகவே இந்த விபத்து நடந்துள்ளதாக தெரியவருகின்றது. ஓடு பாதையில் இருந்து 50 மீற்றருக்கு அப்பால் இராணுவம் இருக்க வேண்டும் என்பதுடன் அதன் பின்னாலேயே பார்வையாளர்கள் இருக்க வேண்டும்.
+
+போட்டியின் போது ஓடுபாதையில் தூசியை குறைக்க அடிக்கடி நீர் ஊற்ற வேண்டும். அத்துடன் வளைவுகளில் தேவையான பாதுகாப்பு ஏற்பாடுகளை செய்திருக்க வேண்டும். ஆனால் அவை எதனையும் செய்யாமல் இந்த போட்டி நடந்துள்ளது.
+
+...
+
+[Data](articles/35d7fddc.json)
 
 ---
 
@@ -2265,23 +2285,5 @@ The doctor who had dinner was admitted to the hospital after suffering from ill 
 [Data](articles/338ffdc2.json)
 
 [Extended Data](ext_articles/338ffdc2.ext.json)
-
----
-
-### Government to inform Parliament on trafficking Sri Lankans for military service in Russia, Ukraine: Wijeyadasa
-
-*2024-04-24 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-inform-Parliament-on-trafficking-Sri-Lankans-for-military-service-in-Russia-Ukraine-Wijeyadasa/108-281286) · `en`
-
-Parliament, April 24 (Daily Mirror)- Claiming that the police and the Ministry of Foreign Affairs are looking into the incidents of Sri Lankans being trafficked for military services in Russia and Ukraine, Justice Minister Wijeyadasa Rajapakshe informed Parliament that Public Security Minister Tiran Alles will make a statement regarding the matter in Parliament tomorrow.
-
-The Minister told Parliament that police had recieved information that several individuals were enagaged in rackets where they take Sri Lankans to Russia and Ukraine promising jobs and the recruit them to the army instead of other jobs.
-
-He said police had launched an investigation into the incident while the Ministry of Foreign Affairs is also looking into the matter.
-
-...
-
-[Data](articles/91d7090e.json)
-
-[Extended Data](ext_articles/91d7090e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 21:03:36**
+As of **2024-04-24 21:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,736** Articles*
+*Scraped **20,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,110 +17,188 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,730
 tamilmirrorlk | 2,399
-adaderanalk | 2,470
+adaderanalk | 2,471
 virakesarilk | 3,125
-dailymirrorlk | 3,233
+dailymirrorlk | 3,234
 adaderanasinhalalk | 3,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,730 (100.0%) of 20,736 articles have been extended.
+20,736 (100.0%) of 20,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ශ්‍රී ලංකා - ඉරාන ජනපතිවරු අතර විශේෂ සාකච්ඡාවක්
+### Heavy traffic reported in Colombo due to road closures
+
+*2024-04-24 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98823/heavy-traffic-reported-in-colombo-due-to-road-closures) · `en`
+
+Heavy traffic is reported in parts of Colombo as multiple roads remain closed due to the arrival of Iranian President Dr. Ebrahim Raisi.
+
+Earlier this evening, the President of the Islamic Republic of Iran was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry at Galle Face Green.
+
+Subsequently, the two leaders held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat.
+
+Dr. Ebrahim Raisi arrived in Sri Lanka this morning (24) via Mattala International Airport at a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+During his one-day official visit, President Raisi participated in a public ceremony to inaugurate the USD 514-million Uma Oya Multipurpose Development Project (UOMDP).
+
+...
+
+[Data](articles/a646e646.json)
+
+---
+
+### Special discussion between Sri Lanka and Iranian President
 
 *2024-04-24 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195939) · `si`
 
-ශ්‍රී ලංකා ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉරාන ජනාධිපති ඊබ්‍රහීම් රයිසි අතර විශේෂ සාකච්ඡාවක් පැවැත්වුණු බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කරයි.
+Sri Lanka's President Ranil Wickremesinghe and Iran's President held a special discussion, followed by bilateral talks between their representatives.
 
-එම සාකච්ඡාවෙන් අනතුරුව දෙරටෙහි නියෝජිතයින් අතර ද්වීපාර්ශ්වික සාකච්ඡා පැවති බවද වාර්තා වෙයි.
+🟩
+
+President Ranil Wickremesinghe and Iranian President elder President of Iranian President announced that a special discussion was held.
+
+It is also reported that bilateral discussions were held among the representatives of the two countries after the discussion.
 
 ◼️
 
 [Data](articles/47dc4933.json)
 
+[Extended Data](ext_articles/47dc4933.ext.json)
+
 ---
 
-### இந்திய உதவியின் கீழ் நிர்மாணிக்கப்பட்ட மேலும் 4 கிராமங்கள் விரைவில் மக்களிடம் கையளிக்கப்படும் - ரணதுங்க
+### Is Chamari Athapaththu Sri Lanka’s greatest cricketer ever?
+
+*2024-04-24 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-Chamari-Athapaththu-Sri-Lankas-greatest-cricketer-ever/108-281297) · `en`
+
+Colombo, April 24 (Daily Mirror) - Chamari Athapaththu's historical 195 against South Africa last week saw her claiming the top spot of ICC Women's ODI Batting Rankings on Tuesday.
+
+It was in fact the second time she achieved the feat in her ODI career which has now opened up a debate whether she'd go down as the greatest Sri Lankan cricketer in both men's and women's game in terms of the pure impact.
+
+Hailing from a modest family in Kurunegala, Chamari's greatest supporter in cricket was her late father who used to accompany her for practices in Colombo, but sadly passed away in 2008 - a year before her international debut. However, her cricketing journey never stopped there, and after 15 years at the top level of women's cricket, Chamari has now reached the twilight of her career.
+
+Following the cracking 195 against South African women's team, Chamari told the media that her 'retirement is very soon.'
+
+...
+
+[Data](articles/e2ba8de4.json)
+
+---
+
+### Four more villages constructed under Indian assistance will be handed over to the people soon - Ranatunga
 
 *2024-04-24 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181863) · `ta`
 
-இந்திய உதவியின் கீழ் நிர்மாணிக்கப்பட்ட மேலும் 04 கிராமங்கள் விரைவில் மக்களிடம் கையளிக்கப்படும் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Indian assistance has led to the construction of 101 villages in Sri Lanka, with 4 more to be handed over soon. The projects, including Southern Province, Village Shakti Housing Scheme, Northern Province, and Village Shakti House Project, aim to construct 2,400 houses with a total budget of 2400 million rupees, of which 807 million has been paid.
 
-கொழும்பு, இரத்தினபுரி, திருகோணமலை மற்றும் மொனராகலை ஆகிய மாவட்டங்களில் இந்திய உதவியுடன் நிர்மாணிக்கப்பட்ட கிராமங்களே இவ்வாறு திறந்து வைக்கப்பட உள்ளன.
+🟩
 
-இந்திய அரசாங்கத்தின் உதவியுடன் நாடளாவிய ரீதியில் செயற்படுத்தப்பட்டு வரும் 101 கிராமங்களில் 07 கிராமங்களில் வீடுகளை நிர்மாணிக்கும் பணிகள் மக்களிடம் கையளிக்கப்பட்டுள்ளதாகவும் பிரசன்ன ரணதுங்க தெரிவித்தார்.
+The Minister of Urban Development and Housing Prasanna Ranatunga said that four more villages constructed under Indian assistance will be handed over to the people soon.
 
-இதனால் மட்டக்களப்பு, யாழ்ப்பாணம், கம்பஹா, கண்டி, வவுனியா, பதுளை மற்றும் அனுராதபுரம் ஆகிய மாவட்டங்களில் இந்திய அரசாங்கத்தின் உதவியுடன் நிர்மாணிக்கப்பட்ட கிராமங்கள் மக்களிடம் கையளிக்கப்பட்டுள்ளன.
+The villages constructed with the help of Indian assistance are to be opened in the districts of Colombo, Ratnapura, Trincomalee and Moneragala.
 
-அதுமட்டுமின்றி, 90 கிராமங்களில் 1,668 வீடுகள் கட்டும் பணி இதுவரை துரிதப்படுத்தப்பட்டுள்ளது. இத்திட்டத்தின் கீழ் இதுவரை 732 வீடுகள் கட்டி முடிக்கப்பட்டுள்ளன.
+Prasanna Ranatunga said that the construction of houses has been handed over to the people in 101 villages in the country with the help of the Government of India.
+
+As a result, the villages built with the help of the Government of India have been handed over to the people in the districts of Batticaloa, Jaffna, Gampaha, Kandy, Vavuniya, Badulla and Anuradhapura.
+
+In addition, the construction of 1,668 houses in 90 villages has been accelerated so far. Under this scheme, 732 houses have been completed so far.
 
 ...
 
 [Data](articles/3a75327e.json)
 
+[Extended Data](ext_articles/3a75327e.ext.json)
+
 ---
 
-### மரியாதை வேட்டுக்கள் தீர்க்கப்பட்டு ஈரான் ஜனாதிபதியை வரவேற்றார் ஜனாதிபதி ரணில்
+### President Ranil welcomes Iran's president
 
 *2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181888) · `ta`
 
-ஈரான் இஸ்லாமிய குடியரசின் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி உள்ளிட்ட குழுவினர் கொழும்பிலுள்ள ஜனாதிபதி அலுவலகத்தை புதன்கிழமை (24) மாலை வந்தடைந்தனர்.
+President Ranil Wickremesinghe welcomed Iran's President Ibrahim Raisi to the Presidential Office in Colombo on Wednesday evening.
 
-அதன்பின்னர் ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசிக்கும் (Dr. Ebrahim Raisi) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும்  இடையிலான உத்தியோகபூர்வ சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+🟩
+
+The President of the Ibrahim Risi, including the President of the Islamic Republic, arrived at the Presidential Office in Colombo on Wednesday evening.
+
+After that, Iranian President Dr. Ibrahim Raisi (Dr.. The official meeting between President Ranil Wickremesinghe was held at the Presidential Office.
 
 ◼️
 
 [Data](articles/68423f41.json)
 
+[Extended Data](ext_articles/68423f41.ext.json)
+
 ---
 
-### மே மாத இறுதியில் வெளியாகும் அருள்நிதியின் 'டிமான்டி காலனி 2'
+### Arulnidhi's 'Demandy Colony 2', which is released at the end of May
 
 *2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181872) · `ta`
 
-அருள்நிதி நடிப்பில், அஜய் ஆர் ஞானமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'டிமான்டி காலனி 2' திரைப்படம் மே மாத இறுதியில் வெளியிட திட்டமிடப்பட்டு வருவதாக படக்குழுவினர் தெரிவித்துள்ளனர்.
+"Arulnidhi's 'Demandi Colony 2', starring Ajay R Gnanamuthu, is set for release in May. The film, featuring a mix of actors and a 135-minute runtime, includes 120 minutes of graphics scenes. Despite delays, it promises a unique experience for fans."
 
-இயக்குநர் அஜய் ஆர். ஞானமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'டிமான்டி காலனி 2' எனும் திரைப்படத்தில் அருள்நிதி, பிரியா பவானி சங்கர், அருண்பாண்டியன், மீனாட்சி கோவிந்தராஜன், முத்துக்குமார், அர்ச்சனா ரவிச்சந்திரன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஹரிஷ் கண்ணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைத்திருக்கிறார். ஹாரர் திரில்லர் ஜேனரில் உருவாகி இருக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் நிறுவனத்தின் சார்பில் பொபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+🟩
+
+Ajay R Gnanamuthu starring Arulnidhi, the film 'Demandi Colony 2' is scheduled to be released in the end of May, the film crew said.
+
+Director Ajay R. Arulnidhi, Priya Bhavani Shankar, Arunpandian, Meenakshi Govindarajan, Muthukumar, Archana Ravichandran and many others star in the film 'Demandi Colony 2'. Harish Kannan has recorded the cinematography by Sam C. S.. Has composed the music. The film is being produced by Bobi Balachandran on behalf of BTG Universal.
+
+The preview of the film was released by the end of last year. Almost one crore has been visited by viewers and achievement. In this case, when when the release of PDG Universal's logo, director Ajay Gnanamuthu on the participation of the film 'Demandi Colony 2'?When asked, “It is being released at the end of May. The length of the film is 135 min. It is full of 120 minutes of graphics scenes. This resulted in delay in setting graphics on international standards. However, the film will give fans a new experience. ”
 
 ...
 
 [Data](articles/93fb21bd.json)
 
+[Extended Data](ext_articles/93fb21bd.ext.json)
+
 ---
 
-### அசோக் செல்வன் நடிக்கும் 'எனக்கு தொழில் ரொமான்ஸ்' படத்தின் டீசர் வெளியீடு
+### Teaser release of Ashok Selvan starrer 'I Naiyam I Enjoy Romance'
 
 *2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181873) · `ta`
 
-கடந்த ஆண்டில் வெளியான 'போர் தொழில்' எனும் படத்தின் வெற்றி மூலம் தொடர்ந்து குளிர் காய்ந்து கொண்டிருக்கும் நடிகர் அசோக் செல்வன் நடிப்பில் தயாராகி இருக்கும் 'எனக்குத் தொழில் ரொமான்ஸ்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+"Teaser of 'I Naiyam Niyana' released, starring Ashok Selvan. Despite recent failures, fans hope for a commercial success. Selvan plays a romantic prince with humorous love strategies."
 
-இயக்குநர் பாலாஜி கேசவன் இயக்கத்தில் உருவாகி இருக்கும் 'எனக்கு தொழில் ரொமான்ஸ்' எனும் திரைப்படத்தில் அசோக் செல்வன், அவந்திகா மிஸ்ரா, ஊர்வசி, எம். எஸ். பாஸ்கர், விஜய் வரதராஜ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நிவாஸ் கே. பிரசன்னா இசையமைத்திருக்கும் இந்த திரைப்படத்தை டி கிரியேசன்ஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் எம். திருமலை தயாரித்திருக்கிறார்.
+🟩
 
-இப்படத்தின் ஃபர்ஸ்ட் லுக், சிங்கிள் ட்ராக் ஆகியவை வெளியாகி வெற்றி பெற்ற நிலையில் தற்போது இப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது. இதில் நாயகன் அசோக் செல்வன் காதல் இளவரசனாக தோன்றுகிறார். காதலிப்பதற்காக இவர் கையாளும் உத்திகள் நகைச்சுவையாக இருப்பதால் இப்படத்தைப் பற்றிய எதிர்பார்ப்பு ரசிகர்களிடத்தில் ஏற்பட்டிருக்கிறது.
+The teaser of the film 'I Naiyam Niyana' has been released, starring actor Ashok Selvan, who is constantly cold with the success of the film 'Battle Labor', which was released last year.
 
-...
+Ashok Selvan, Avantika Mishra, Urvasi, M.. S.. Bhaskar, Vijay Varadaraj and many others have played. Niwas K. The film is composed by Prasanna on behalf of the film company D Criminal.. Thirumalai has produced.
+
+The teaser of the film has now been released as the first look and single track of the film have been released.. In this, Man Ashok Selvan appears to be a romantic prince. The expectation of the film has caused fans because his strategies for love are humorous.
+
+Ashok Selvan, who has failed films this year as 'Blue Star' and 'Bon One Kanda', will give this film a commercial success and raise his star status ..!It must be seen.
+
+◼️
 
 [Data](articles/fc60099f.json)
 
+[Extended Data](ext_articles/fc60099f.ext.json)
+
 ---
 
-### மீண்டும் இரட்டை வேடத்தில் நடிக்கும் அருண் விஜயின் 'ரெட்ட தல'
+### Arun Vijay's 'Retta Thala'
 
 *2024-04-24 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181874) · `ta`
 
-நட்சத்திர வாரிசாக தமிழ் திரையுலகிற்கு அறிமுகமானாலும் தன்னுடைய தனித்துவமான அடையாளத்திற்காக இருபத்தெட்டு ஆண்டுகளுக்கும் மேல் கடுமையாக உழைத்து முன்னணி நட்சத்திர அந்தஸ்தை எட்டிப்பிடித்து இருக்கும் நடிகர் அருண் விஜய் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடிக்கும் புதிய திரைப்படத்திற்கு 'ரெட்ட தல' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை சென்னையில் நடைபெற்ற பிரத்யேக விழாவில் இயக்குநரும், நடிகருமான மோகன் ராஜா வெளியிட்டார்.
+Arun Vijay stars in 'Retta Thala', a film directed by Mohan Raja, featuring a unique identity as a star successor. The film, produced by Exan Entertainment and BTG Universal, showcases Arun Vijay's hard work and unique identity.
 
-இயக்குநர் கிரிஷ் திருக்குமரன் இயக்கத்தில் உருவாகி வரும் 'ரெட்ட தல' எனும் திரைப்படத்தில் அருண் விஜய், சித்தி இத்னானி, தான்யா ரவிச்சந்திரன், கார்த்திக் யோகி, பாலாஜி முருகதாஸ் உள்ளிட்ட பலர் நடிக்கிறார்கள். டிஜோ டோமி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு சாம் சி எஸ் இசையமைக்கிறார். எக்சன் என்டர்டேய்னராக தயாராகும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் பட நிறுவனம் சார்பில் தயாரிப்பாளர் பொபி பாலச்சந்திரன் தயாரிக்கிறார்.
+🟩
+
+Actor Arun Vijay, who has worked hard for over twenty -eight years for his unique identity as a star successor, has been named 'Red Thala', which has been named 'Retta Thala', which plays the lead role in the story of actor Arun Vijay's story.. It was released by director and actor Mohan Raja at a special ceremony in Chennai.
+
+Arun Vijay, Siddhi Idhanani, Tanya Ravichandran, Karthik Yogi, Balaji Murugadoss, directed by director Girish Thirukumaran directed 'Red Thala'.. Sam CS is composed by Dijo Tommy's cinematography. The film is being produced as Exan Entertainment and is produced by producer Bobi Balachandran on behalf of BTG Universal.
 
 ...
 
 [Data](articles/5ed955a5.json)
+
+[Extended Data](ext_articles/5ed955a5.ext.json)
 
 ---
 
@@ -2187,61 +2265,5 @@ Prosecutors have charged top Iranian officials with ordering the attack, though 
 [Data](articles/147ab426.json)
 
 [Extended Data](ext_articles/147ab426.ext.json)
-
----
-
-### Two Chairmen for the SLFP: Maithri is the party Wijayaka?
-
-*2024-04-24 11:44:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1wx0w9962go) · `si`
-
-Wijayadasa Rajapaksa was appointed as the acting chairman of the Sri Lanka Freedom Party (SLFP), causing a crisis. The Colombo District Court issued an injunction against the SLFP chairman. Duminda Dissanayake, the party's national organizer, confirmed Rajapaksa's appointment, stating it's not illegal. The court's permanent injunction is effective until the trial's end, and the SLFP's acting chairman and general secretary are also banned.
-
-🟩
-
-Wijayadasa Rajapaksa was appointed as the act of acting of the acting chairman recently, exacerbating the crisis in the Sri Lanka Freedom Party (SLFP).
-
-He was appointed as Maithripala Sirisena as the party to appoint Sri Lanka National Organizer Duminda Dissanayake and Nimal Siripala de Silva.
-
-The Colombo District Court today issued an enjoining order from the Sri Lanka Freedom Chairman of the Sri Lanka Freedom Party (SLFP).
-
-Is this in the Sri Lanka Freedom Party?
-
-The Sri Lanka Freedom Party (SLFP) Mahath was taken on the 20th of this month, a SLFP executive meeting was held on April 21.
-
-Minister of Justice Dr. Wijayadasa Rajapakse was also present at the Executive Council meeting and he was appointed as the Acting Chairman of the Sri Lanka Freedom Party.
-
-Maithri Side says that the Wijayadasa Rajapaksa acting is acting as acting of 116 executives.
-
-...
-
-[Data](articles/7d3b335b.json)
-
-[Extended Data](ext_articles/7d3b335b.ext.json)
-
----
-
-### Medieval disruption to Maithri
-
-*2024-04-24 11:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்காலத்-தடையுத்தரவு/175-336266) · `ta`
-
-Maithripala Sirisena, former President, banned by Colombo Chief District Magistrate for leading the Sri Lanka Freedom Party (SLFP). The ban follows a case filed against four SLFP members, including Sirisena, in 2022. The SLFP argues Sirisena should not lead the party, suggesting he should support it. The case will be heard on June 24.
-
-🟩
-
-Former President Maithripala Sirisena issued an interim injunction on Wednesday (24) by Colombo Chief District Magistrate Sandhvidanage to ban the Sri Lanka Freedom Party (SLFP) leader.
-
-The medieval session was issued after considering the case filed against four members of the party, including Mundiku Sarachandran and Maithripala Sirisena, a member of the Sri Lanka Freedom Party (SLFP) executive committee.
-
-Attorney -at -law Shantha Jayawardena, who appeared on behalf of him, said that the case was filed in 2022, and that Maithripala Sirisena was elected president in 2019 and 2021.
-
-According to the Sri Lanka Freedom Party (SLFP), a former president is unlikely to hold the post of party leader and that they should act as supporters.
-
-The magistrate, observing the arguments and defendants, issued an interim order and ordered the defendant to be presented in court on June 24.
-
-...
-
-[Data](articles/f3e0141f.json)
-
-[Extended Data](ext_articles/f3e0141f.ext.json)
 
 ---

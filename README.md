@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 16:34:18**
+As of **2024-04-24 16:50:24**
 
 ## Newspaper Stats
 
-*Scraped **20,691** Articles*
+*Scraped **20,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 2,393
 adaderanalk | 2,467
 virakesarilk | 3,109
 dailymirrorlk | 3,229
-adaderanasinhalalk | 3,347
+adaderanasinhalalk | 3,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,691 (100.0%) of 20,691 articles have been extended.
+20,691 (100.0%) of 20,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### කොළඹ ප්‍රධාන මාර්ගයකට බෝ අත්තක් කඩාවැටෙයි
+
+*2024-04-24 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195933) · `si`
+
+කොළඹ සංඝරාජ මාවත අසළ පිහිටි විහාරයක බෝ ගසක අත්තක් කඩාවැටීමෙන් මීට සුළු මොහොතකට පෙර අනතුරක් සිදුව තිබේ.
+
+ශ්‍රී සංඝරාජ බෝධිමළු විහාරයේ බෝ ගසේ අත්තක් මෙලෙස කඩා වැටී ඇත.
+
+බෝ ගසේ අත්ත කඩාවැටීමෙන් ලොරි රථයකට සහ ත්‍රිරෝද රථයකට හානි සිදුව තිබේ.
+
+අනතුරින් තුවාල ලැබූ එක් අයෙකු ප්‍රතිකාර සඳහා රෝහල්ගතකර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f7197926.json)
+
+---
+
+### කරාපිටියට අලුත් CT ස්කෑන් යන්ත්‍රයක්
+
+*2024-04-24 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195932) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ අළුතින් ස්ථාපිත කරන ලද රුපියල් මිලියන 220ක වටිනාකමකින් යුතු CT ස්කෑන් යන්ත්‍රය ප්‍රතිකාර සේවාවන් සඳහා එක්කිරීම අද (24) සිදුකෙරිණි.
+
+ඒ සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ ප්‍රධානත්වයෙනි.
+
+ජපානයේ නිෂ්පාදිත අති නවීන තාක්ෂණයෙන් යුත් මෙම CT ස්කෑන් යන්ත්‍රය සෞඛ්‍ය අමාත්‍යාංශයේ මූල්‍ය ප්‍රතිපාදන යටතේ කරාපිටිය ශික්ෂණ රෝහලට ලබාදී ඇත.
+
+එමගින් දිනකට CT ස්කෑන් පරීක්ෂණ 40 ක් 50 ක් වැනි ප්‍රමාණයක් සිදු කිරිමට අපේක්ෂා කරනු ලබන අතර, ඉදිරියේදී එම සීමාව ඉක්මවා පරීක්ෂණ සිදුකිරිමට හැකිවනු ඇති බවත් මේ හරහා දැනට CT ස්කෑන් පරීක්ෂණ කටයුතු සඳහා වන පොරොත්තු ලේඛණ අවම කරගැනීමට හැකියාව ලැබෙනු ඇති බවටද බලාපොරොත්තු වෙයි.
+
+මෙහිදී අදහස් දැක්වූ අමාත්‍යවරයා වැඩිදුරටත් පැවසුවේ ඉදිරි වසර තුළ රෝහලේ භෞතික සම්පත් සංවර්ධනයට සහ සමස්ත වෛද්‍ය උපකරණ වෙනුවෙන් රුපියල් කෝටි 100ක වෙන් කර ඇති බවය.
+
+◼️
+
+[Data](articles/32181e6d.json)
+
+---
 
 ### Athens: Greece’s capital turns an orange hue with dust clouds from Sahara Desert
 
@@ -494,9 +532,11 @@ Iran stands ready to share its knowledge, expertise and experience with Sri Lank
 
 The Iranian Head of State made these remarks after participating in the ceremony to inaugurate the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
 
-At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations.
+After declaring open the hydropower project, President Raisi promised to extend support for the developmental projects implemented on the island, through the provision of technical and engineering services.
 
-His arrival marks the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+He also asserted that Iran is ready to expand the bilateral ties with ‘all Asian countries, our neighbouring countries and sovereign and independent states.’
+
+At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations.
 
 ...
 
@@ -2259,47 +2299,5 @@ Steps will be taken to close the Katunayake Highway from 9.30 pm to 10.30 pm, po
 [Data](articles/8d8253a8.json)
 
 [Extended Data](ext_articles/8d8253a8.ext.json)
-
----
-
-### Schools are back
-
-*2024-04-24 08:54:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகள்-மீண்டும்-ஆரம்பம்/175-336255) · `ta`
-
-Schools resume today after holidays on Tamil-Sinhala New Year. Second phase of first installment begins, following completion of first phase on April 10.
-
-🟩
-
-The schools that have been given holidays on the Tamil -Sinhala New Year will be resumed today (24).
-
-Accordingly, the second phase of the first installment of the school will commence today, the Ministry of Education said.
-
-The first phase of the first phase of the school was completed on April 10. Remble
-
-◼️
-
-[Data](articles/9e9484db.json)
-
-[Extended Data](ext_articles/9e9484db.ext.json)
-
----
-
-### Iranian President to arrive in Sri Lanka today; special traffic plains implemented
-
-*2024-04-24 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98804/iranian-president-to-arrive-in-sri-lanka-today-special-traffic-plains-implemented) · `en`
-
-Sri Lanka and Iran will sign five Memorandums of Understanding (MoUs) today, in a bid to bolster the bilateral relations between the two nations.
-
-The signing of the agreements will coincide with the one-day visit of Iranian President Dr. Ebrahim Raisi, the President’s Media Division (PMD) said.
-
-At the invitation of President Ranil Wickremesinghe, the Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-During his brief visit to the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
-
-...
-
-[Data](articles/1491b177.json)
-
-[Extended Data](ext_articles/1491b177.ext.json)
 
 ---

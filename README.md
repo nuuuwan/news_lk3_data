@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 15:18:39**
+As of **2024-04-24 15:33:57**
 
 ## Newspaper Stats
 
-*Scraped **20,675** Articles*
+*Scraped **20,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,173
 adalk | 1,722
 tamilmirrorlk | 2,391
 adaderanalk | 2,465
-virakesarilk | 3,103
+virakesarilk | 3,109
 dailymirrorlk | 3,226
 adaderanasinhalalk | 3,346
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,346
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,672 (100.0%) of 20,675 articles have been extended.
+20,675 (100.0%) of 20,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### சர்வதேச ரீதியில் கவனத்தை ஈர்த்த இலங்கை பால் சோறு
+
+*2024-04-24 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181832) · `ta`
+
+இலங்கையின் சிங்களவர்களின் பாரம்பரிய உணவான கிரிபத் (කිරිබත්) எனப்படும் பால் சோறு சர்வதேச ரீதியில் கவனத்தை ஈர்த்துள்ளது.
+
+அவுஸ்திரேலியாவில் நடைபெறும் 'MasterChef Australia' சமையல் போட்டியில் இலங்கை வம்சாவளியைச் சேர்ந்த சாவிந்திரி பெரேரா பால் சோற்றை சமைத்து அதன் சுவையை சர்வதேச அரங்கிற்கு எடுத்துச் சென்றுள்ளார்.
+
+இந்நிலையில், இலங்கையின் பாரம்பரிய காலை உணவான பால் சோற்றை காட்சிப்படுத்திய விதம் மற்றும்  சுவைக்காக அவர் நடுவர்களால் பாராட்டப்பட்டுள்ளார்.
+
+'சவ்' என்று அன்போடு அழைக்கப்படும் சாவிந்திரி பெரேரா போட்டியில் பால்சோற்றுடன் ஸ்னாப்பர் மீனை வைத்து கித்துல் பாணியை மேலாக ஊற்றி நடுவர்களுக்கு வழங்கினார்.
+
+உணவை சுவைத்த நடுவர்கள் ஒரு கொண்டாட்டத்திற்கு ஒப்பிட்டனர். 'நிஜமாகவே சிறந்த  இலங்கை உணவு' வழங்கியதற்காக சாவிந்திரியை பாராட்டினார்கள்.
+
+◼️
+
+[Data](articles/70e103b2.json)
+
+---
+
+### மின்னேரியாவில்  இருவருக்கிடையில் மோதல்: ஒருவர் பலி!
+
+*2024-04-24 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181848) · `ta`
+
+மின்னேரிய மின்சார சபைக்கு அருகில் நேற்று செவ்வாய்க்கிழமை  இரவு  மூவருக்கு இடையில் ஏற்பட்ட மோதலில்  ஒருவர் கூரிய ஆயுதத்தால் தாக்கி கொல்லப்பட்டுள்ளதாக மின்னேரிய பொலிஸார் தெரிவித்துள்ளனர்.
+
+மின்னேரிய ஹென்யாய பிரதேசத்தைச் சேர்ந்த எச்.கபில பொன்சேகா என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/033173bb.json)
+
+---
 
 ### Injunction against appointing Wijeyadasa as SLFP’s Acting Chairman
 
@@ -48,27 +82,35 @@ The Colombo District Judge issued these injunctions after considering a plaint s
 
 It was mentioned in the order that these injunctions will remain in effect until May 08, 2024.
 
-◼️
+...
 
 [Data](articles/d87063e4.json)
 
+[Extended Data](ext_articles/d87063e4.ext.json)
+
 ---
 
-### මැලේරියාව යළිත්
+### Maleeria again again
 
 *2024-04-24 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195930) · `si`
 
-2024 වසරේ මේ දක්වා කාලය තුළ මැලේරියා රෝගීන් 09 දෙනෙකු වාර්තා වී ඇති බව මැලේරියා මර්දන ඒකකයේ ප්‍රජා වෛද්‍ය විශේෂඥ පුබුදු චූලසිරි මහතා පවසයි.
+In 2024, 9 malaria cases reported, with most in Africa. Last case in 2012; 62 in 2023.
 
-අද (24) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා පවසා සිටියේ, මැලේරියා රෝගීන් බහුතරයක් වාර්තා වී ඇත්තේ, අප්‍රිකා රටවලට ගොස් පැමිණි අය අතුරින් බවයි.
+🟩
 
-ශ්‍රී ලංකාව තුළින් වාර්තා වූ අවසන් මැලේරියා රෝගීයා වාර්තා වූයේ 2012දී වුවත් 2023 වර්ෂයේදීත් මැලේරියා රෝගීන් 62ක් වාර්තා වූ බව ප්‍රජා වෛද්‍ය විශේෂඥ පුබුදු චූලසිරි මහතා සඳහන් කළේය.
+Nine malaria patients have been reported in 2024 so far this year, said Pubudu Chlosiri, Community Medical Express Unit.
 
-එම රෝගීන් බහුතරයක් සාම සාධක රාජකාරි සඳහා ගොස් පැමිණි හමුදා සාමාජිකයින් සහ මැණික් වෙළෙඳාම සඳහා ගොස් පැමිණි පුද්ගයින් බව ඔහු වැඩිදුරටත් පැවසීය.
+Addressing a media briefing held today (24), he said that the majority of malaria had reportedly reported to Africa.
+
+The last malaria patient was reported in 2012, but 62 Malaria patients were reported in 2023, but said.
+
+He added that the majority of these patients had gone to the person who visited Peace and visited the jobs for their business.
 
 ◼️
 
 [Data](articles/3df60436.json)
+
+[Extended Data](ext_articles/3df60436.ext.json)
 
 ---
 
@@ -138,6 +180,20 @@ The President stated this while addressing the gathering after both he and his I
 
 [Data](articles/328131ba.json)
 
+[Extended Data](ext_articles/328131ba.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181843) · `ta`
+
+இன்று புதன்கிழமை (ஏப்ரல் 24) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.4376 ஆகவும் விற்பனை விலை ரூபா 305.3930 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/76574dcf.json)
+
 ---
 
 ### Fox Hill riders released on bail
@@ -157,6 +213,26 @@ The two drivers were remanded after being arrested by police while receiving tre
 [Data](articles/6ef87346.json)
 
 [Extended Data](ext_articles/6ef87346.ext.json)
+
+---
+
+### சுதந்திரக் கட்சி பதில் தலைவராக அமைச்சர் விஜயதாச ராஜபக்க்ஷவை நியமிப்பதற்கு நீதிமன்றம் தடை உத்தரவு!
+
+*2024-04-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181842) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் விஜயதாச ராஜபக்க்ஷவை நியமிப்பதற்கு கொழும்பு மாவட்ட நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+
+மேலும், கட்சியின் பொதுச் செயலாளராக துஷ்மந்த மித்ரபால செயற்படுவதைத் தடுத்து மற்றுமொரு தடை உத்தரவையும் பிறப்பித்தார்.
+
+மேலும், தற்காலிக தலைமைச்  செயலர் எடுத்த முடிவுகளை அமுல்படுத்த தடை விதித்து நீதிமன்றம் மற்றொரு தடை உத்தரவு பிறப்பித்தது.
+
+அமைச்சர்களான மஹிந்த அமரவீர, லசந்த அழகியவண்ண மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர் சமர்ப்பித்த முறைப்பாட்டுக்கமைய கொழும்பு மாவட்ட நீதிவான் சந்துன்விதான இந்த தடை உத்தரவை பிறப்பித்துள்ளார்.
+
+இந்தத் தடை உத்தரவு எதிர்வரும் மே மாதம் 8 ஆம் திகதி வரை அமுலில் இருக்கும் எனவும் அந்த உத்தரவில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c7f2d0f3.json)
 
 ---
 
@@ -262,6 +338,20 @@ The injunction has stated that the injunction order will be effective from May 0
 
 ---
 
+### சுதந்திரக் கட்சியின் தலைவராக மைத்திரிபால செயற்படுவதற்கு  இடைக்காலத் தடை!
+
+*2024-04-24 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181839) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதித்து கொழும்பு மாவட்ட பிரதான நீதிவான் நீதிமன்றமும்  இன்று புதன்கிழமை  (24) இடைக்காலத் தடை பிறப்பித்துள்ளது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினர் மொன்டேகு சரத் சந்திர தாக்கல் செய்த முறைப்பாட்டின் அடிப்படையில் கொழும்பு மாவட்ட பிரதான நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+◼️
+
+[Data](articles/2c1ccde3.json)
+
+---
+
 ### A promise to Iran's promise
 
 *2024-04-24 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195926) · `si`
@@ -279,6 +369,50 @@ After the nationalization of the Uma Oya Multipurpose development project, the P
 [Data](articles/44ae3f74.json)
 
 [Extended Data](ext_articles/44ae3f74.ext.json)
+
+---
+
+### புத்தர் சிலைக்கு அருகில் மீட்கப்பட்ட துப்பாக்கி : வில்கமுவ பொலிஸ் நிலையத்தில் காணாமல் போனதா?
+
+*2024-04-24 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181838) · `ta`
+
+வில்கமுவ, நுககொல்ல பிரதேசத்தில் உள்ள புத்தர்  சிலை ஒன்றுக்கு  அருகில்  துப்பாக்கி ஒன்று  வில்கமுவ பொலிஸாரால்  மீட்கப்பட்டுள்ளது.
+
+சில வாரங்களுக்கு முன்னர் வில்கமுவ பொலிஸ் நிலையத்திலிருந்து   காணாமல் போன துப்பாக்கியே இது என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+◼️
+
+[Data](articles/b55e7a38.json)
+
+---
+
+### Iranian President Ibrahim Raisi arrived in Sri Lanka
+
+*2024-04-24 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/181820) · `ta`
+
+Iranian President Ibrahim Raisi visited Sri Lanka for the Uma Oya Multipurpose Development Program, aiming to strengthen bilateral relations through MoUs and the opening of a $529 million project, despite challenges from global politics and sanctions.
+
+🟩
+
+Iranian President Ibrahim Raisi arrived in Sri Lanka shortly before on an official visit.
+
+The Iranian president -led delegation arrived at the Mattala International Airport via Iran -owned aircraft. They were welcomed by Prime Minister Dinesh Gunawardena.
+
+The President of Iran has visited Sri Lanka to attend the Uma Oya Multipurpose Development Program.
+
+There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
+
+The President of Iran, who is visiting Sri Lanka through the Mattala Airport in Hambantota, will come to Colombo via Katunayake airport to open the Uma Oya Multipurpose Development Project.
+
+The President of Iran, who is scheduled to hold a bilateral meeting with President Ranil Wickremesinghe in Colombo, will then return to the country.
+
+The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
+
+...
+
+[Data](articles/4ac2b16e.json)
+
+[Extended Data](ext_articles/4ac2b16e.ext.json)
 
 ---
 
@@ -1099,36 +1233,6 @@ Meanwhile, Senior Police Inspector of the Vavuniya Chief Police Station Crime Un
 [Data](articles/173b4e59.json)
 
 [Extended Data](ext_articles/173b4e59.ext.json)
-
----
-
-### Iranian President Ibrahim Raisi arrived in Sri Lanka
-
-*2024-04-24 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181820) · `ta`
-
-Iranian President Ibrahim Raisi visited Sri Lanka for the Uma Oya Multipurpose Development Program, aiming to strengthen bilateral relations through MoUs and the opening of a $529 million project, despite challenges from global politics and sanctions.
-
-🟩
-
-Iranian President Ibrahim Raisi arrived in Sri Lanka shortly before on an official visit.
-
-The Iranian president -led delegation arrived at the Mattala International Airport via Iran -owned aircraft. They were welcomed by Prime Minister Dinesh Gunawardena.
-
-The President of Iran has visited Sri Lanka to attend the Uma Oya Multipurpose Development Program.
-
-There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
-
-The President of Iran, who is visiting Sri Lanka through the Mattala Airport in Hambantota, will come to Colombo via Katunayake airport to open the Uma Oya Multipurpose Development Project.
-
-The President of Iran, who is scheduled to hold a bilateral meeting with President Ranil Wickremesinghe in Colombo, will then return to the country.
-
-The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
-
-...
-
-[Data](articles/4ac2b16e.json)
-
-[Extended Data](ext_articles/4ac2b16e.ext.json)
 
 ---
 
@@ -2137,135 +2241,5 @@ President Barrow extended sincere appreciation to President Wickramasinghe for h
 [Data](articles/9f6ccad1.json)
 
 [Extended Data](ext_articles/9f6ccad1.ext.json)
-
----
-
-### Tomato prices down - a frying pan
-
-*2024-04-24 08:00:43* · [`adalk`](https://www.ada.lk/picture_story/තක්කාලි-මිල-පහළට--ගොවියෝ-කබලෙන්-ලිපට/10-409229) · `si`
-
-Tomato prices in Welimada, Boralanda, Boragala, Kepherapola, Ambagoda, and Uva Palagoda have fallen due to high fertilizer costs, affecting farmers' ability to sell their harvest at Keppetipola Special Center. Economic centers and exhauspresses report a decline in tomato sales, with spoiled tomatoes being unsalable. The price for a kilogram of tomatoes has dropped to Rs. 70-100, causing farmers to seek support programs.
-
-🟩
-
-The Welimada tomatoes of Welimada, Boralanda, Boralanda, Boralanda, Boragala, Kepherapola, Ambagoda, Ambagoda, Ambagoda, Ambagoda and Uva Palagoda have been unable.
-
-The farmers say that their harvest is very demanding their harvest to sell their harvest to Keppetipola Special Center. The farmers claim that the price of the tomato prices are highly interested in maintaining the cultivation, the price of chemical fertilizer has achieved a situation that he has unable to cover the cost.
-
-The economic centers and exhauspresses say that the cost of tomatoes have fallen to sell the tomatoes, which have been declined to sell more and buying tomatoes.. A spoiled tomatoes cannot be discarded to sell the phase of shops and selling Keppetipola at the economic center of Keppetipola.
-
-...
-
-[Data](articles/c6b26bfc.json)
-
-[Extended Data](ext_articles/c6b26bfc.ext.json)
-
----
-
-### Drug trafficking father holds son-son and interrogation
-
-*2024-04-24 07:47:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරමේ-පිය-පුතු-රඳවාගෙන-ප්‍රශ්න-කිරිමට-යයි/11-409228) · `si`
-
-Kahathuduwa police arrest two astrologers, a sword, and a large heroin stash, linking them to a crime gang. Investigations reveal the heroin was distributed in several areas, including Kahathuduwa, Horana, and Piliyandala.
-
-🟩
-
-The Kahathuduwa police have arrested two astrologers and a sword, a large number of heroin, a large scale heroin racket and a crime gang.
-
-According to the preliminary investigations into the heroin Easens, who receives the couple from the large scale racketeers in place, have been composed in Kahathuduwa, Horana, Piliyandala and Lunawa, Lunawa, Lunawa, Lunawa, Lunawa, Lunawa, Lunawa.
-
-The suspects said that the suspects were not revealed and suspected of any other crimes in the area.
-
-◼️
-
-[Data](articles/d0c8b476.json)
-
-[Extended Data](ext_articles/d0c8b476.ext.json)
-
----
-
-### Puttalam Quazi Court Judge arrested on bribery charge
-
-*2024-04-24 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98802/puttalam-quazi-court-judge-arrested-on-bribery-charge) · `en`
-
-The Puttalam Quazi Court Judge has been arrested by Bribery Commission officers while allegedly soliciting a bribe of Rs. 5,000.
-
-He has been remanded until 06 May after being produced before the Puttalam Magistrate’s Court, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
-
-◼️
-
-[Data](articles/309136b5.json)
-
-[Extended Data](ext_articles/309136b5.ext.json)
-
----
-
-### Sri Lanka Freedom Party officials squabble over Rajapakshe appointment
-
-*2024-04-24 07:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-officials-squabble-over-rajapakshe-appointment-159822/) · `en`
-
-ECONOMYNEXT — Officials of the crisis-riddled Sri Lanka Freedom Party (SLFP) are contradicting each other over the appointment of Justice Minister Wijeyadasa Rajapakshe as SLFP acting chairman.
-
-SLFP spokesmen also disagree over Rajapakshe’s purported candidacy at the upcoming presidential election.
-
-Agriculture Minister and SLFP senior vice president Mahinda Amaraweera claimed at a press conference on Tuesday April 23 that Rajapakshe’s appointment as acting chairman was made by a group of people that do not represent the party’s executive committee.
-
-“We are reliably informed that there was some coercing and threats. There was also the involvement of the security detail deployed for former presidents,” Amaraweera claimed.
-
-The minister represents a faction of the SLFP that opposes former President Maithripala Sirisena, whom the Colombo District Court has issued an enjoining order against, preventing him from serving as SLFP chairman.
-
-...
-
-[Data](articles/456dae6d.json)
-
-[Extended Data](ext_articles/456dae6d.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-04-24 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98801/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Uva province and in Anuradhapura district during the afternoon or night.
-
-A few showers may occur over the coastal areas of Puttalam to Galle via Colombo during the morning too, it said.
-
-Fairly heavy showers more than 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ad4973c8.json)
-
-[Extended Data](ext_articles/ad4973c8.ext.json)
-
----
-
-### Western three-wheelers postponed until June 30
-
-*2024-04-24 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195912) · `si`
-
-The United Passenger Three Wheeler Drivers Association (EPFA) has postponed the implementation of three-wheeler regulations in the Western Province until June 30. The association requests that drivers register before this date to avoid legal action.
-
-🟩
-
-The United Passenger Three Wheeler Drivers Association (EPFA) stated that the year has been granted to the three-wheeler regulation of the three-wheeler regulation.
-
-Chairman of the company Rahman Palli said that the government should be prepared to provide relief purchases for three-wheeler drivers.
-
-"We have the opinion that it is inevitable for all three-wheelers on passenger transportation. The means that the fee meter is an essential part of passenger transportation. This is not the cell phone meter. We ask the government to import or provide the tariffs to provide the drivers to a cost of affordability.
-
-Three-wheeler regulations of the Western Province have been made up to June 30s until June 30. We request that registration before June 30. Later, the passenger Transport Authority joins the police and legal action against three-wheelers. Western Province Road Passenger Transport Authority has been legal authority in the Charter.
-
-◼️
-
-[Data](articles/c8e1369f.json)
-
-[Extended Data](ext_articles/c8e1369f.ext.json)
 
 ---

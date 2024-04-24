@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 18:37:06**
+As of **2024-04-24 18:53:41**
 
 ## Newspaper Stats
 
-*Scraped **20,705** Articles*
+*Scraped **20,708** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 216
+bbccomsinhala | 217
 dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,727
+adalk | 1,728
 tamilmirrorlk | 2,394
 adaderanalk | 2,469
 virakesarilk | 3,109
 dailymirrorlk | 3,231
-adaderanasinhalalk | 3,352
+adaderanasinhalalk | 3,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,700 (100.0%) of 20,705 articles have been extended.
+20,705 (100.0%) of 20,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### කිරිපිටි මිල පහළට
+
+*2024-04-24 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195937) · `si`
+
+හෙට සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි මිල පහළ දමන බව කිරිපිටි ආනයනකරුවන්ගේ සංගමය පවසයි.
+
+ඒ අනුව එම සංගමය පවසන්නේ ආනයනික කිරිපිටි කිලෝ එකක මිල රුපියල් 250ත් 300ත් අතර මිලකින් පහළ දැමෙනු ඇති බවය.
+
+එසේම ආනයනික කිරිපිටි ග්‍රෑම් 400ක මිල රුපියල් 100ත් 130ත් අතර මිලකින් පහළ දමනු ඇති බවද එම සංගමය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/b826b75b.json)
+
+---
 
 ### Russian deputy defense minister arrested for bribery
 
@@ -54,27 +70,35 @@ Ivanov was present earlier on Tuesday at a meeting of top defense officials chai
 
 [Data](articles/b164444b.json)
 
+[Extended Data](ext_articles/b164444b.ext.json)
+
 ---
 
-### හදිසියේම ජනපති සහ බැසිල් අතර හමුවක්
+### Suddenly meeting between President and Basil
 
 *2024-04-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195936) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ බැසිල් රාජපක්ෂ මහතා අතර විශේෂ හමුවක් සිදුව ඇත.
+President Ranil Wickremesinghe met with Basil Rajapaksa to discuss presidential elections, constituency, and local government representatives' roles. Basil criticized CHOGM's decision.
 
-වැඩිදුරටත් වාර්තාවන්නේ ඊයේ (23) පස්වරුවේ පැවති එම සාකච්ඡාවේදී ප්‍රධාන වශයෙන් කරුණු 3ක් පිළිබඳව අවධානය යොමුකර ඇති බවය.
+🟩
 
-එහිදී එළැඹෙන ජනාධිපතිවරණය පිළිබඳව සාකච්ඡා කර ඇති අතර දෙපාර්ශ්වය එකඟතාව පළකර ඇත්තේ ව්‍යවස්ථානුකූලව ඡන්ද විමසීමක් කැඳවනතුරු ජනාධිපති ධුර අපේක්ෂකත්වය ගැන විසංවාදයන්ගෙන් තොරව පවතින පොදු අභියෝග ජයගැනීමේ අරමුණු ප්‍රමුඛ කරගනිමින් ඉදිරියට යායුතු බවටය.
+A special meeting was held between President Ranil Wickremesinghe and the founder of the Sri Lanka General Man.
 
-එසේම හිටපු පළාත් පාලන නියෝජිතයන්ට ආණ්ඩුවේ පොදු කටයුතු සදහා නිල වශයෙන් සහභාගී විය හැකි වන පරිදි අවස්ථාවක් නිර්මාණය කරදීම පිළිබඳවද එහිදී සාකච්ඡා වී ඇත.
+He further stated that the discussion was held yesterday (23).
 
-මේ අතර එහිදී අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගෙන ඇති තීරණය සම්බන්ධයෙන් ද සාකච්ඡාවට ලක්ව ඇති බව ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරයි.
+It has been discussed with the presidential election and the two parties have agreed that the party has agreed to proceed with the purposes of constituencing the presence of the presidential candidacy.
 
-මෙහිදී බැසිල් රාජපක්ෂ මහතා ජනාධිපතිවරයා වෙත දැනුම්දී ඇත්තේ පක්ෂයක් ලෙස වැරදි පූර්වාදර්ශයන්ට ඉඩදීමට නොහැකි බව පොදුජන පෙරමුණේ පොදු තීරණය වන බැවින් එකී වැරදි පූර්වාදර්ශය සම්බන්ධයෙන් ගතයුතු නිල ක්‍රියාමාර්ගය වෙත පක්ෂය මේ වනවිටත් අවතීර්ණ වී අවසන් බවය.
+It is also discussed that the former local government representatives are also discussing the opportunity to attend the general purposes of the government.
+
+Meanwhile, sources say that the decision of the Minister Wijayadasa Rajapaksa has also discussed the decision.
+
+Minister Basil Rajapaksa has informed the President that the common decision of the CHOGM is the common decision on the wrong precedent.
 
 ◼️
 
 [Data](articles/8473fc31.json)
+
+[Extended Data](ext_articles/8473fc31.ext.json)
 
 ---
 
@@ -93,6 +117,24 @@ During his one-day official visit, President Raisi participated in a public cere
 ...
 
 [Data](articles/b818d191.json)
+
+[Extended Data](ext_articles/b818d191.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය කිලෝ 300ක් විනාශ කිරීමට යයි
+
+*2024-04-24 17:54:13* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-300ක්-විනාශ-කිරීමට-යයි/11-409243) · `si`
+
+එළැඹෙන මැයි මාසයේදී පොලිස් භාරයට ගත් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 300ක් පමණ විනාශ කිරීමට කටයුතු කරන බව අධිකරණ, බන්ධනාගාර හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+ඒ සඳහා මිලියන 18ක් වියදම් කර Incinerator යන්ත්‍රයක් මිලදී ගෙන තිබෙන බව අද (24දා) පාර්ලිමේන්තුවේ පැවති අපරාධ නඩු විධාන සංග්‍රහය (සංශෝධන) පනත් කෙටුම්පත (දෙවන වර කියවීම) සහ විෂවර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග පිළිබඳ පැවති විවාදයේදී අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+"මත්ද්‍රව්‍ය විනාශ කිරීමේදී අපිට විශාල පාරසරික ප්‍රශ්න මතු වුණා. ඒ නිසා මහජන ආරක්ෂක අමාත්‍යාංශයත් අපිත් ඒකාබද්ධව මේ පිළිබඳව අවුරැද්දකට වැඩි කාලායක් සාකච්ඡා පැවැත්වුවා. ඒ අනුව පාරසරික ප්‍රශ්න විසඳන්න අපි විශේෂඥ උපදෙස් ලබා ගත්තා. අන්තරායකාරී ඖෂධ අධිකාරි මේකට මැදිහත් වුණා. ඒ අනුව ඔවුන් අපිට උපදෙස් දුන්නා මේවා මහජනතාව ගැවසෙන තැන් වල විනාශ කරන්න තහනම්, ඒක කරන්න හොඳ නෑ කියලා. මේක නූතන තාක්ෂණය පාවිච්චි කරලයි විනාශ කරන්න ඕනී. ඒ කියන්නේ Incinerator වගේ එකක් පාවිච්චි කරන්න ඕනී පරිසරයට හානි නොවන විදියට.
+
+...
+
+[Data](articles/25b4df46.json)
 
 ---
 
@@ -160,21 +202,27 @@ He has been accused of bribery in the projects carried out by the Ministry of De
 
 ---
 
-### විජයදාසට හා දුෂ්මන්තට වාරණ නියෝගයක්
+### Wijayaka and Vulgent
 
 *2024-04-24 17:23:33* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-හා-දුෂ්මන්තට-වාරණ-නියෝගයක්/11-409242) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන  සභාපති ලෙස පත්වූ අමාත්‍ය විජයදාස රාජපක්ෂ මහතාට හා වැඩබලන ප්‍රධාන  ලේකම් ලෙස කටයුතු කරන මන්ත්‍රී සාරථි දුෂ්මන්ත මහත්වරුන්ට එම ධූරවල කටයුතු කිරීම වළක්වාලමින්  වාරණ නියෝග දෙකක් කොළඹ ප්‍රධාන දිසා විනිසුරු සඳුන්විතාන මහතා අද(24) නිකුත් කළේය.
+Colombo Chief Judge Sandamaduwarana issued two injunctions, affecting Wijayadasa Rajapakse, a former SLFP member, until the 8th. The decision, after court deliberations involving SLFP and ministers, was defended by President's Counsel Chandra Jayasundara.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජික හා අමාත්‍යවරුන් වන ලසන්ත අලගියවන්න, දුමින්ද දිසානායක හා මහින්ද අමරවීර යන මහත්තුරුන් පැවරූ නඩුවක් සලකා බැලීමෙන් පසුව නිකුත් කළ මෙම වාරණයෝග ලබන මස අටවෙනි දින දක්වා ක්‍රියාත්මක වේ.
+🟩
 
-පැමිණිලිකරුවන් වෙනුවෙන් ජනාධිපති නීතිඥ චන්දක ජයසුන්දර මහතා අධිකරණයට කරුණු දක්වමින් කියා සිටියේ විත්තිකරුවන් එම ධූරයන් වලට පත්වීම නීති විරෝධී හා ව්‍යවස්ථා විරෝධී බවය.
+The Colombo Chief Judge Sandamaduwarana released two injunctions today (24).
 
-විජයදාස රාජපක්ෂ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සාමාජිකයෙක් නොවන බවත් සාමාජිකයෙකු නොවන වෙනත් පක්ෂයක සාමාජිකයකුට ශ්‍රී ලංකා නිදහස් පක්ෂයේ නිලතලයක් දැරීම ව්‍යස්ථානුකූලව නීති විරෝධී බවත් සඳහන් කළේය.
+The cases released after considering a court of the SLFP and Ministers Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera have been implemented until the 8th of this month.
+
+President's Counsel Chandra Jayasundara told the courts in behalf of the plaintiffs.
+
+The SLFP official was launched to a member of the SLFP that Wijayadasa Rajapakse was not a member of the SLFP.
 
 ◼️
 
 [Data](articles/865e5cba.json)
+
+[Extended Data](ext_articles/865e5cba.ext.json)
 
 ---
 
@@ -221,6 +269,8 @@ The crash occurred shortly after another car overturned on the track, leading to
 ...
 
 [Data](articles/48247209.json)
+
+[Extended Data](ext_articles/48247209.ext.json)
 
 ---
 
@@ -1560,6 +1610,28 @@ Prosecutors have charged top Iranian officials with ordering the attack, though 
 
 ---
 
+### ශ්‍රී ලනිපයට සභාපතිවරුන් දෙදෙනෙක්: 'මෛත්‍රී පක්ෂය විජයදාසට වික්කා' ද?
+
+*2024-04-24 11:44:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1wx0w9962go) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ කලක් තිස්සේ වර්ධනය වෙමින් පවතින අර්බුදකාරී තත්ත්වය තවත් උග්‍ර අතට පත් කරමින් පසුගිය දා, එහි වැඩබලන සභාපති ධූරයට අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ පත් කෙරිණි.
+
+මෛත්‍රීපාල සිරිසේන පාර්ශවය විසින් ඔහු එම ධූරයට පත් කරනු ලැබුවේ, පක්ෂයේ ජාතික සංවිධායක දුමින්ද දිසානායක ඇතුළු පිරිසක් විසින් වැඩබලන සභාපති ධූරයට නිමල් සිරිපාල ද සිල්වා පත් කරනු ලැබ ඇති පසුබිමක ය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ පත් කිරීම ද වළක්වාලමින් අද (අප්‍රේල් 24 වැනිදා) කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කළේ, පක්ෂය තුළ පැවති අභ්‍යන්තර අර්බුදකාරී තත්ත්වය තවත් උග්‍ර අතට පත් කරවමිනි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය තුළ මේ ක්‍රියාත්මක වන්නේ කුමන්ත්‍රණයක් ද?
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශ්වය පසුගිය 20 වන දා රැස්වූ අවස්ථාවේ ගත් තීරණයට අනුව ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක රැස්වීමක් අප්‍රේල් 21 වන දා පෙරවරුවේ පැවැත්විණි.
+
+මෙම විධායක සභා රැස්වීමට අධිකරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ ද සහභාගී වී සිටි අතර, එහිදී ඔහු ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති ධුරයට පත් කර ගැනිණි.
+
+...
+
+[Data](articles/7d3b335b.json)
+
+---
+
 ### Medieval disruption to Maithri
 
 *2024-04-24 11:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்காலத்-தடையுத்தரவு/175-336266) · `ta`
@@ -2203,81 +2275,5 @@ It got widespread support from lawmakers with 79 Senators voting for it and 18 v
 [Data](articles/c3aa02c4.json)
 
 [Extended Data](ext_articles/c3aa02c4.ext.json)
-
----
-
-### The Sri Lankan government and its agents were involved in indiscriminate illegal assassinations in 2023 - the US accuses the US
-
-*2024-04-24 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181814) · `ta`
-
-The US State Department's 2023 report accuses the Sri Lankan government of illegal killings, citing incidents in the police block and the arrest of AG Samantha Preity Kumara for heroin possession.
-
-🟩
-
-The US State Department said that the Sri Lankan government and its agents were involved in indiscriminate or illegal killings.
-
-The US State Department said this in its annual report on the human rights situation in the world in 2023.
-
-The Sri Lankan government and its agents were involved in indiscriminate or illegal killings. Many casualties were found in the police block, the US State Department said in its annual report.
-
-The US State Department said that several murders were taken away when the suspects took the suspects to investigate the crime area.
-
-On the 10th of last year, Assistant Manager of the National Vocational Training Institute, AG Samantha Preity Kumara, was arrested by the police on charges of possessing 15 grams of heroin. He was acting violently.Has been reported.
-
-...
-
-[Data](articles/85eaf3c5.json)
-
-[Extended Data](ext_articles/85eaf3c5.ext.json)
-
----
-
-### 1,700 rupees salary is not possible: Sri Lanka Plantation Employers Federation Announced
-
-*2024-04-24 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/181815) · `ta`
-
-The Sri Lanka Plantation Employers Federation has rejected a 1,700 rupee salary increase for plantation workers, citing the industry's decline and economic challenges. They offer a 20% increase instead, despite unions demanding 75%.
-
-🟩
-
-The Sri Lanka Plantation Employers Federation has stated that the 1,700 rupee salary increase demanded on behalf of the trade unions on the salary increase of plantation workers is impossible.
-
-The Employers Federation has announced this as the second phase of negotiations on plantation workers' salary increases in the Ministry of Labor.
-
-The demand of the unions on the salary increase of plantation workers was 1,700 rupees.
-
-It is impossible to provide this salary increase based on the fall in tea production and the challenges of the tea industry as the question of tea in the world market has declined.
-
-We have already announced our position in the negotiations with the trade unions on this issue.
-
-Plantation workers have been adopted by poverty due to the economic crisis in Sri Lanka in the past.
-
-This is why we have come forward to offer a 20 percent salary increase in the wage of plantation workers.
-
-...
-
-[Data](articles/cfd05471.json)
-
-[Extended Data](ext_articles/cfd05471.ext.json)
-
----
-
-### Puttalam Qazi court judge arrested for accepting bribe
-
-*2024-04-24 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Puttalam-Qazi-court-judge-arrested-for-accepting-bribe/108-281254) · `en`
-
-Puttalam, April 24 (Daily Mirror) - A judge from the Puttalam Qazi Court has been arrested by officials from the Commission to Investigate Bribery or Corruption, for accepting a Rs. 5,000 bribe.
-
-The arrest followed a complaint from a resident of the Vettalai area in Puttalam.
-
-The judge had allegedly demanded the bribe from a woman in exchange for issuing a divorce certificate related to a court judgment.
-
-Following his arrest, the suspect was produced before the Puttalam Magistrate's Court and remanded until May 6.
-
-◼️
-
-[Data](articles/45c446dd.json)
-
-[Extended Data](ext_articles/45c446dd.ext.json)
 
 ---

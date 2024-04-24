@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 14:34:08**
+As of **2024-04-24 14:52:00**
 
 ## Newspaper Stats
 
-*Scraped **20,667** Articles*
+*Scraped **20,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ tamilmirrorlk | 2,389
 adaderanalk | 2,463
 virakesarilk | 3,103
 dailymirrorlk | 3,225
-adaderanasinhalalk | 3,344
+adaderanasinhalalk | 3,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,661 (100.0%) of 20,667 articles have been extended.
+20,667 (100.0%) of 20,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### මම ජනාධිපතිවරණයට එනවා - සජිත්
+### ෆොක්ස් හිල් ධාවකයින් දෙදෙනාට ඇප
+
+*2024-04-24 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195929) · `si`
+
+ෆොක්ස් හිල් සුපර්ක්‍රොස් තරගාවලියේදී පුද්ගලයින් හත් දෙනකුට මරු කැඳවමින් සිදුවූ අනතුරට අදාළව අත්අඩංගුවට ගත් ධාවකයින් දෙදෙනා ඇප මත මුදාහැර තිබේ.
+
+එම ධාවකයින් දෙදෙනා දියතලාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අනතුරට අදාළව පොලීසිය විසින් අත්අඩංගුවට ගැනීමෙන් අනතුරුව රිමාන්ඩ් බන්ධනාගාරගතකෙරිණි.
+
+◼️
+
+[Data](articles/6ef87346.json)
+
+---
+
+### I'm coming to the presidential election - Sajith
 
 *2024-04-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195928) · `si`
 
-එළැඹෙන ජනාධිපතිවරණය සඳහා තමන් ඉදිරිපත්වන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa announces presidential election run.
 
-අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් සජිත් ප්‍රේමදාස මහතා මේ බව පැවසීය.
+🟩
+
+Opposition Leader Sajith Premadasa says he will contest the presidential election.
+
+Sajith Premadasa was speaking in parliament today.
 
 ◼️
 
 [Data](articles/edd97be4.json)
+
+[Extended Data](ext_articles/edd97be4.ext.json)
 
 ---
 
@@ -55,6 +75,8 @@ Opposition Leader Sajith Premadasa, addressing the parliamentary session today, 
 ◼️
 
 [Data](articles/82c34877.json)
+
+[Extended Data](ext_articles/82c34877.ext.json)
 
 ---
 
@@ -70,39 +92,53 @@ The Iranian Head of State made these remarks after participating in the ceremony
 
 [Data](articles/4ea95771.json)
 
+[Extended Data](ext_articles/4ea95771.ext.json)
+
 ---
 
-### ශ්‍රීලනිපයේ ප්‍රධානීන්ට විරුද්ධව වාරණ නියෝග තුනක්
+### Three injunneous decisions against SLFP leaders
 
 *2024-04-24 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195927) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+The Colombo District Court issued injunctions preventing SLFP leaders from appointing a chairman, issuing another to block the General Secretary's appointment, and another to halt the acting Chief Secretary's decision-making. These orders were filed by Mahinda Amaraweera, Lasantha Alagiyawanna, and MP Duminda Dissanayake, effective from May 8.
 
-එසේම පක්ෂයේ ප්‍රධාන ලේකම්වරයා ලෙස දුෂ්මන්ත මිත්‍රපාල මහතා කටයුතු කිරීම වළක්වාලමින් තවත් වාරණ නියෝගයක් නිකුත් කළේය.
+🟩
 
-එසේම වැඩ බලන ප්‍රධාන ලේකම්වරයා විසින් ගනු ලැබුණත් තීන්දු තීරණ ක්‍රියාත්මක කිරීම වළක්වාලමින් තවත් වාරණ නියෝගයක්ද අධිකරණය නිකුත් කරනු ලැබීය.
+The Colombo District Court has issued an enjoining order preventing the appointment chairman of the SLFP as the acting chairman of the SLFP.
 
-මහින්ද අමරවීර,  ලසන්ත අලගියවන්න යන අමාත්‍යවරු සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරුන් විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසාවිනිසුුර සඳුන්විතාන මහතා විසින් මෙම වාරණ නියෝග නිකුත් කළේය.
+Also, Litamin Mithrapala issued another injunction to prevent the General Secretary of the party.
 
-මෙම වාරණ නියෝගය මැයි මස 08 දක්වා බලපැවැත්වෙන බවත් නියෝගයේ සඳහන් වුණි.
+The Court issued another injunction to prevent the implementation of the decision making regarding the acting Chief Secretary.
+
+The Enraining Orders of Colombo Dissaninithivarana issued a complaint made by Mahinda Amaraweera, Lasantha Alagiyawanna and MP Duminda Dissanayake.
+
+The injunction has stated that the injunction order will be effective from May 08.
 
 ◼️
 
 [Data](articles/5c1c6e26.json)
 
+[Extended Data](ext_articles/5c1c6e26.ext.json)
+
 ---
 
-### ඉරාන ජනපතිගෙන් පොරොන්දුවක්
+### A promise to Iran's promise
 
 *2024-04-24 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195926) · `si`
 
-ඉරානය ශ්‍රී ලංකාව සමඟ සිය දැනුම, විශේෂඥතාවය හා අත්දැකීම් බෙදා ගැනීමට සුදානම් බව ඉරාන ජනපති ආචාර්ය ඊබ්‍රහිම් රයිසි මහතා පවසයි.
+Iran offers to share knowledge and expertise with Sri Lanka, especially after the Uma Oya project's nationalization, indicating readiness for future massive projects collaboration.
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනසතු කිරීමෙන් අනතුරුව උත්සව සභාව අමතමින් ඉරාන ජනපතිවරයා වැඩිදුරටත් පවසා සිටියේ, දැවැන්ත ව්‍යාපෘතිවල හවුල්කාරීත්වය ඇතුළුව මෙරට ප්‍රගතිය උදෙසා ඉරානය ඕනෑම මොහොතක පෙනී සිටින බවය.
+🟩
+
+Iran is prepared to share its knowledge, expertise and experience with Sri Lanka.
+
+After the nationalization of the Uma Oya Multipurpose development project, the President said that Iran appears at any time for the progress of massive partnership of massive projects.
 
 ◼️
 
 [Data](articles/44ae3f74.json)
+
+[Extended Data](ext_articles/44ae3f74.ext.json)
 
 ---
 
@@ -238,21 +274,29 @@ The revised law extends the deadline to the byte dance to sell the dictok, and t
 
 ---
 
-### TikTok தடை?
+### Tiktok ban?
 
 *2024-04-24 12:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TikTok-தடை/50-336275) · `ta`
 
-டிக்டாக் செயலியை தடை செய்வதற்கான சட்டத்தை அமெரிக்காவின் பாராளுமன்ற மேலவை நிறைவேற்றியுள்ளது. டிக்டாக் செயலியின் தாய் நிறுவனமாக சீனாவின் ByteDance நிறுவனம் 9 மாதங்களுக்குள் டிக்டாக்கின் அமெரிக்க பங்குகளை விற்காவிட்டால், அதை தடை செய்ய இச்சட்டம் வழிவகை செய்கிறது.
+The US has enacted a law to ban China's BYTEDANCE, the parent company of Dictac, within 9 months if US shares aren't sold. This law is due to concerns that Dictac, used by TikTok, gives China access to user data without consent.
 
-டிக் டாக் செயலி தன்னுடைய பயனாளர்களின் பெரும்பாலான தகவல்களைச் சீனாவிடம் கொடுக்கிறது என அமெரிக்காவில் வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+🟩
 
-இந்த நிறுவனம் பயனாளர்களின் அனுமதியின்றி இரகசியமாகத் தகவல்களை எடுக்கிறது என வழக்கில் குற்றம் சுமத்தப்பட்டுள்ளது. பைட்டான்ஸ் என்ற சீன நிறுவனத்தைத் தாய் நிறுவனமாகக் கொண்ட டிக்டாக் அமெரிக்காவில் நிறையப் பயனாளர்களைக் கொண்டுள்ளது.
+The US has passed the law of banning the Dictac processor. The law provides to ban China's BYTEDANCE as the mother company of the Dictac processor within 9 months, if the US shares are not sold.
 
-கலிஃபோர்னியாவில் பதிவு செய்யப்பட்ட வழக்கில் டிக்டாக் செயலி இரகசியமாகப் பயனாளர்களின் பெரும்பாலான தனிப்பட்ட மற்றும் தனிநபரை அடையாளம் காணும் வகையான தகவல்களைச் சீனாவுக்கு அனுப்புகிறது எனக் கூறப்பட்டுள்ளது.
+The US has filed a case in the United States that the Dick Doc processor gives China most of its users.
 
-...
+The company has been accused of taking information in secret without the permission of the beneficiaries. Dictack, a mother -in -law, is a Chinese company, Pitans, has a lot of users in the United States.
+
+In the case of registered in California, the Dictac processor secretly sends information to China to identify most of the beneficiaries.
+
+The revised law extends the deadline to the byte dance to sell the dictok, and the sale can be extended for three months. The bill will prevent the control of Tiktok's secret sauce.
+
+◼️
 
 [Data](articles/741ea937.json)
+
+[Extended Data](ext_articles/741ea937.ext.json)
 
 ---
 
@@ -2215,27 +2259,5 @@ They stated that several roads in Colombo between Lotus roundabout, Presidential
 [Data](articles/425ca568.json)
 
 [Extended Data](ext_articles/425ca568.ext.json)
-
----
-
-### Tight security for Iranian President’s visit to Sri Lanka
-
-*2024-04-24 05:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tight-security-for-Iranian-Presidents-visit-to-Sri-Lanka/108-281245) · `en`
-
-Colombo, April 24 (Daily Mirror) - Stringent security measures have been put in place ahead of the arrival of Iranian President Ebrahim Raisi in Sri Lanka today. The President is scheduled for a one-day official visit to join a public event commemorating the launch of the Uma Oya Multipurpose Development Project (UOMDP).
-
-The Iranian President is scheduled to arrive in the country through the Mattala Airport and from there he is set to visit Uma Oya project by road.
-
-Security convoy for the Iranian President will comprise of tri-forces personnel and PSD security personnel.
-
-The Iranian President's visit to Sri Lanka is following a special invitation extended by President Ranil Wickremesinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad's visit in April 2008.
-
-The Uma Oya project, following the Mahaweli Development Project, is one of the largest irrigation projects in Sri Lanka.
-
-...
-
-[Data](articles/4ba86d67.json)
-
-[Extended Data](ext_articles/4ba86d67.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 08:34:16**
+As of **2024-04-24 08:52:33**
 
 ## Newspaper Stats
 
-*Scraped **20,572** Articles*
+*Scraped **20,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,72 @@ dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,712
 tamilmirrorlk | 2,370
-adaderanalk | 2,449
+adaderanalk | 2,450
 virakesarilk | 3,088
-dailymirrorlk | 3,210
+dailymirrorlk | 3,211
 adaderanasinhalalk | 3,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,570 (100.0%) of 20,572 articles have been extended.
+20,572 (100.0%) of 20,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### අල්ලස් ගත් ක්වාසි අධිකරණ විනිසුරුවරයා අත්අඩංගුවට
+### Three-day parliamentary debate on Easter attacks begins today
+
+*2024-04-24 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98803/three-day-parliamentary-debate-on-easter-attacks-begins-today) · `en`
+
+The three-day adjournment debate on the 2019 Easter Sunday terror attacks will be taken up in parliament today (24) in accordance with a motion brought forward by the Opposition.
+
+The decision was taken at the meeting of the Parliamentary Business Committee convened earlier this month.
+
+Soon after the commencement of the parliamentary proceedings today, the Code of Criminal Procedure (Amendment) Bill (Second Reading) and Regulations under the Poisons, Opium and Dangerous Drugs Ordinance are scheduled to be debated from 9.30 a.m. to 10.30 p.m.
+
+Subsequently, it has been decided to take up the adjournment debate on the Easter Sunday attacks from 10.30 a.m. to 5.30 p.m.
+
+...
+
+[Data](articles/bb46296f.json)
+
+---
+
+### Prepared for debate in May but not on dates suggested by NPP: SJB
+
+*2024-04-24 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prepared-for-debate-in-May-but-not-on-dates-suggested-by-NPP-SJB/108-281249) · `en`
+
+Colombo, April 24 (Daily Mirror) - Samagi Jana Balawegaya (SJB) yesterday said its leader Sajith Premadasa is ready for the proposed debate with National People's Power (NPP), leader Anura Kumara Dissanayake on the policies of both parties on economic issues in the month of May but not on dates proposed by NPP Member Nalinda Jayatissa.
+
+Dr Jayatissa proposed that the NPP Leader is ready for the date on May 7, 9, 13 or 14. However MP Nalin Bandara said in a statement that Mr. Premadasa cannot make it during those days as he has planned to hold a few conferences including a women's conference and a farmer's conference.
+
+Mr. Premadasa also in a public meeting said he is willing to have a debate with his NPP counterpart in May but not on the days proposed by Dr. Jayatissa. "We should have two debates which include the one between the leaders of the two parties and the other between the economic expert teams of both parties," he said.
+
+◼️
+
+[Data](articles/b9bf969b.json)
+
+---
+
+### Quasi Judge arrested for bribe
 
 *2024-04-24 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195913) · `si`
 
-පුත්තලමේ ක්වාසි අධිකරණයේ විනිසුරුවරයෙක් රුපියල් 5,000ක අල්ලක් ලබා ගැනීමේ දී අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+A judge was arrested for bribery, charged with 5,000 rupees, and remanded until May 6th.
 
-පසුව ඔහුව පුත්තලම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මැයි 6 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර ඇත.
+🟩
+
+The Commission of Investigation (Investigation) has been arrested by the Commission of Investigation (Investigation) in the Kavasi Court's judge for 5,000 rupees.
+
+He was later produced before the Puttalam Magistrate's Court and remanded until May 6th.
 
 ◼️
 
 [Data](articles/7b148235.json)
+
+[Extended Data](ext_articles/7b148235.ext.json)
 
 ---
 
@@ -50,9 +90,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-24 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98802/puttalam-quazi-court-judge-arrested-on-bribery-charge) · `en`
 
-The Puttalam Quazi Court Judge has been arrested by Bribery Commission officers while accepting a bribe of Rs. 5,000.
+The Puttalam Quazi Court Judge has been arrested by Bribery Commission officers while allegedly soliciting a bribe of Rs. 5,000.
 
-He has been remanded until 06 May after being produced before the Puttalam Magistrate’s Court,  the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+He has been remanded until 06 May after being produced before the Puttalam Magistrate’s Court, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
 
 ◼️
 
@@ -866,19 +906,25 @@ Debt negotiations between Government’s hired experts and private sovereign bon
 
 ---
 
-### ’கல்வியை அரசியலாக மாற்ற முடியாது’
+### Model education cannot be turned into politics
 
 *2024-04-24 00:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியை-அரசியலாக-மாற்ற-முடியாது/175-336254) · `ta`
 
-கல்வியை அரசியல் காற்பந்தாக மாற்றிக்கொள்ளும் பட்சத்தில் நாடு தோல்வியை சந்திக்க நேரிடும் என்பதால், தனிப்பட்ட நோக்கங்களை விடுத்து, அனைவரும் ஒன்றிணைந்து கலந்துரையாடி நாட்டிற்கு பொருத்தமான கல்வி முறையொன்றை அறிமுகப்படுத்த வேண்டியது அவசியமென ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of not politicizing education, advocating for a unified approach to education reform that includes various stakeholders, not just academic experts. He highlighted the need for the Ministry of Education to address the evolving exclusive class systems and the impact of political interventions on education.
 
-கொழும்பு நெலும் பொக்குன கலையரங்கத்தில் நேற்று  நடைபெற்ற அகில இலங்கை தொழில்சார் வளவாளர்கள் சங்கத்தின் 10 ஆவது வருடாந்த மாநாட்டிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-அரசாங்கத்தின் புதிய கல்வி மறுசீரமைப்புச் செயற்பாடுகளை மேற்கொள்ளும் போது அதனை கல்வி நிபுணர்களுக்கு மாத்திரமானதாக மட்டுப்படுத்தாமல், பாடசாலை ஆசிரியர்கள், பொருளாதார துறையினர், அகில இலங்கை வளவாளர்கள் சங்கம் உள்ளிட்ட தரப்பினரையும் உள்வாங்கிக்கொள்ள வேண்டியது அவசியம்.
+President Ranil Wickremesinghe said that if education is turned into a political football, the country will suffer a failure, so that it is necessary to unite and introduce a suitable education system for the country.
+
+President Ranil Wickremesinghe made this statement at the 10th Annual Conference of the All Ceylon Industrial Resources Association held at the Nelum Pokuna Gallery of Colombo yesterday.. As he further stated,
+
+When carrying out the government's new educational restructuring activities, it is necessary to embrace the school teachers, the economists and the All Ceylon Resources Association, rather than limiting it to the academic experts.
 
 ...
 
 [Data](articles/9499c9c1.json)
+
+[Extended Data](ext_articles/9499c9c1.ext.json)
 
 ---
 
@@ -1090,7 +1136,7 @@ According to the police media division, the main road from Mattala to Uma Oya is
 
 Meanwhile, the Colombo-Katunayake expressway will remain closed for a period of one hour from 2 p.m. to 3 p.m. and again after 8.30 p.m.
 
-In addition, several roads in Colombo, including the Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road too will be off for vehicular movement tomorrow from 2 p.m. to 3 p.m.
+In addition, vehicular movement in and around Colombo -- Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road -- too will be restricted from 2 p.m. to 3 p.m.
 
 ...
 
@@ -2129,55 +2175,5 @@ NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Pro
 [Data](articles/1e59fc3a.json)
 
 [Extended Data](ext_articles/1e59fc3a.ext.json)
-
----
-
-### Explanation of Veyangoda rice stock
-
-*2024-04-23 16:48:38* · [`adalk`](https://www.ada.lk/breaking_news/වේයන්ගොඩ-සහල්-තොගය-ගැන-පැහැදිලි-කිරීමක්/11-409223) · `si`
-
-Veyangoda rice stock: Expert panel recommends re-examination by District Grain Store. Rice, packed according to international standards, to be used before May 31. President's media unit states it's not suitable for consumption, leading to steps for release under World Food Program.
-
-🟩
-
-The expert panel appointed by the Provincial Regional Health Services in Veyangoda has been issued to the school nutrition program.
-
-The President's Media Division states this in response to information that is reported that the rice consumers are reported from quality.
-
-The committee has issued the recommendation based on the Analyst's Analyst Department and the Analysis Institute of the Medical Research Institute.
-
-Several institutions have been deployed to re-examine the rice to be re-consolidated by the District Grain Store, which confirm human consumption, to be used to be re-consolidated by the Veyangoda, to be planned to be used before 1st May.The announcement also provided written instructions
-
-...
-
-[Data](articles/01b786b1.json)
-
-[Extended Data](ext_articles/01b786b1.ext.json)
-
----
-
-### Samari Athapathu topped the list
-
-*2024-04-23 16:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலிடத்தை-பிடித்தார்-சாமரி-அத்தபத்து/44-336248) · `ta`
-
-Samari Athapathu leads World Women's ODI rankings with 773 points, topping Sri Lanka's team. She scored 195 runs in her last ODI against South Africa, accumulating 3,513 runs in 101 ODIs, including 9 centuries and 16 fifties.
-
-🟩
-
-Sri Lanka Women's Cricket Team and Super Pastor Samari Athapathu tops the World Women's ODI rankings
-
-According to the International Cricket Council on Monday (22), Samari topped the rankings with 773 bonus points.
-
-Samari was second in the last ODI against South Africa recently before scoring 195 runs.
-
-Samari has scored 3,513 runs in 101 ODIs with 9 centuries and 16 fifties.
-
-England's Natalie Sear is second with 764 points and South African player Laura Walward is third with 718 points.
-
-◼️
-
-[Data](articles/edaf83ea.json)
-
-[Extended Data](ext_articles/edaf83ea.ext.json)
 
 ---

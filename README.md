@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 12:06:40**
+As of **2024-04-24 12:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,635** Articles*
+*Scraped **20,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,106 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,717
-tamilmirrorlk | 2,379
+adalk | 1,719
+tamilmirrorlk | 2,380
 adaderanalk | 2,458
 virakesarilk | 3,101
-dailymirrorlk | 3,220
-adaderanasinhalalk | 3,338
+dailymirrorlk | 3,221
+adaderanasinhalalk | 3,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,623 (99.9%) of 20,635 articles have been extended.
+20,635 (100.0%) of 20,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ශකිබ් ව නැවත කැඳවයි
+### பதவிகளில் இருந்து நீக்குவதற்கான தடை நீட்டிப்பு
+
+*2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளில்-இருந்து-நீக்குவதற்கான-தடை-நீட்டிப்பு/175-336268) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து மூவரை நீக்குவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடை உத்தரவு நீட்டிக்கப்பட்டுள்ளது.
+
+அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதற்கு தடை விதிக்கப்பட்டது.
+
+குறித்த தடை உத்தரவை எதிர்வரும் மே மாதம் 8ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக குறித்த மூவரால் தாக்கல் செய்த மனு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a260c184.json)
+
+---
+
+### දමිතා ට ඇප
+
+*2024-04-24 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195923) · `si`
+
+විදේශ රැකියාවක් ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටි රංගන ශිලිපිනි දමිතා අබේරත්නට සහ ඇගේ සැමියා ඇප මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/4bbc6296.json)
+
+---
+
+### ඉරාන ජනපති මත්තලින් දිවයිනට
+
+*2024-04-24 11:56:19* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-මත්තලින්-දිවයිනට/11-409235) · `si`
+
+ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා මත්තල ගුවන් තොටුපොළින් දිවයිනට පැමිණියේය. ඔහු විශේෂ ගුවන් යානයකින් මත්තලට පැමිණි අතර ඔහු පිළිගැනිමට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා මත්තලට පැමිණ සිටියේය.
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපාතිය විවෘත කිරීමට ඉරාන ජනපතිවරයා ලංකාවට පැමිණියේය.
+
+◼️
+
+[Data](articles/8442c05f.json)
+
+---
+
+### Ten families from Ella evacuated due to impending landslide danger
+
+*2024-04-24 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-families-from-Ella-evacuated-due-to-impending-landslide-danger/108-281274) · `en`
+
+Steps were taken last morning to evacuate ten families from Karandagolla in Ella due to the danger of an impending landslide.
+
+Ella Divisional Secretary Indika Gayan Pathirana said the flow of muddy water and cracks in the hill had been noticed earlier, and they had developed despite the prevailing dry weather, signalling the possibility of a disastrous situation that required the evacuation of families from the high risk area.
+
+He said the National Building and Research Organisation (NBRO) carried out an inspection and recommended the evacuation of ten families.
+
+The Divisional Secretary further said the displaced families were provided with temporary shelter and necessary facilities.
+
+◼️
+
+[Data](articles/aa6ffb2c.json)
+
+---
+
+### Shakib calls back
 
 *2024-04-24 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195922) · `si`
 
-බංග්ලාදේශ පන්දුවාර 20යි 20 සංචිතය සඳහා හිටපු නායක ශකිබ් අල් හසන් යළි කැඳවීමේ සූදානමක් පවතින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Shakib Al Hasan, former Bangladesh leader, is called back for the 2023 tournament against Zimbabwe. Bangladesh Cricket Committee head confirmed discussions with Shakib.
 
-ඒ අනුව, සිම්බාබ්වේ කණ්ඩායම සමග පැවැත්වෙන 20යි 20 තරගාවලියට ඔහුව බංග්ලාදේශ කණ්ඩායමට කැඳවීමට නියමිතය.
+🟩
 
-ඒ සම්බන්ධයෙන් ශකිබ් අල් හසන් සමග තවදුරටත් අදහස් හුවමාරු කරගනිමින් පවතින බව බංග්ලාදේශ ක්‍රිකට් තේරිම් කමිටු ප්‍රධානී ගාසී අෂ්රෆ් ප්‍රකාශ කර තිබේ.
+Foreign media reports that the former leader Shakib Al Hasan for the former Leader Shakib Al Hasan for the 20 overs of Bangladesh.
 
-37 හැවිරිදි ශකිබ් 2023 වසරේ ජුලි මාසයෙන් පසු බංග්ලාදේශ 20යි 20 කණ්ඩායම නියෝජනය කර නොමැත.
+Accordingly, he is to be summoned to the Bangladesh team to the 15th tournament with Zimbabwe.
+
+The head of the Bangladesh Cricket Committees, Head of Bangladesh, has said that he exchanged views with Shakib Al Hasan.
+
+37-year-old Shakib 20th January 2023 has not represented the group of Bangladesh.
 
 ◼️
 
 [Data](articles/4466e1e9.json)
+
+[Extended Data](ext_articles/4466e1e9.ext.json)
 
 ---
 
@@ -70,23 +138,33 @@ Prosecutors have charged top Iranian officials with ordering the attack, though 
 
 [Data](articles/147ab426.json)
 
+[Extended Data](ext_articles/147ab426.ext.json)
+
 ---
 
-### மைத்திரிக்கு இடைக்காலத் தடையுத்தரவு
+### Medieval disruption to Maithri
 
 *2024-04-24 11:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-இடைக்காலத்-தடையுத்தரவு/175-336266) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதித்து கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதானகே புதன்கிழமை (24) இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளார்.
+Maithripala Sirisena, former President, banned by Colombo Chief District Magistrate for leading the Sri Lanka Freedom Party (SLFP). The ban follows a case filed against four SLFP members, including Sirisena, in 2022. The SLFP argues Sirisena should not lead the party, suggesting he should support it. The case will be heard on June 24.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினரும் கலாசார அமைப்பாளருமான  முண்டிகு சரச்சந்திரன் மற்றும் மைத்திரிபால சிறிசேன உள்ளிட்ட கட்சியின் நான்கு உறுப்பினர்களுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கை பரிசீலித்ததன் பின்னர் இந்த இடைக்காலத்தடையுத்தரவு பிறப்பிக்கப்பட்து.
+🟩
 
-2022 ஆம் ஆண்டு இந்த வழக்கை சர்ச்சந்திர தாக்கல் செய்துள்ளார், மேலும் மைத்திரிபால சிறிசேன 2019 மற்றும் 2021 ஆம் ஆண்டுகளில் ஜனாதிபதியாக தேர்ந்தெடுக்கப்பட்டது சட்டவிரோதமானது என அவர் சார்பில் ஆஜரான சட்டத்தரணி சாந்த ஜயவர்தன நீதிமன்றில் தெரிவித்தார்.
+Former President Maithripala Sirisena issued an interim injunction on Wednesday (24) by Colombo Chief District Magistrate Sandhvidanage to ban the Sri Lanka Freedom Party (SLFP) leader.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் யாப்பின் படி, முன்னாள் ஜனாதிபதி ஒருவர் கட்சியின் தலைவர் பதவியை வகிக்க சாத்தியமில்லை எனவும் அவர்கள் ஆதரவாளர்களாக செயற்பட வேண்டும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+The medieval session was issued after considering the case filed against four members of the party, including Mundiku Sarachandran and Maithripala Sirisena, a member of the Sri Lanka Freedom Party (SLFP) executive committee.
+
+Attorney -at -law Shantha Jayawardena, who appeared on behalf of him, said that the case was filed in 2022, and that Maithripala Sirisena was elected president in 2019 and 2021.
+
+According to the Sri Lanka Freedom Party (SLFP), a former president is unlikely to hold the post of party leader and that they should act as supporters.
+
+The magistrate, observing the arguments and defendants, issued an interim order and ordered the defendant to be presented in court on June 24.
 
 ...
 
 [Data](articles/f3e0141f.json)
+
+[Extended Data](ext_articles/f3e0141f.ext.json)
 
 ---
 
@@ -102,41 +180,61 @@ The adournment debate was moved by SJB MP Niroshan Perera and seconded by SJB MP
 
 [Data](articles/651da73f.json)
 
+[Extended Data](ext_articles/651da73f.ext.json)
+
 ---
 
-### வீரசேன கமகே பாராளுமன்ற உறுப்பினராக சத்தியப்பிரமாணம்
+### Weerasena Kamage is the Member of Parliament
 
 *2024-04-24 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181826) · `ta`
 
-ஒன்பதாவது பாராளுமன்றத்தின் உறுப்பினராக வீரசேன கமகே இன்று புதன்கிழமை  (24) சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார்.
+Weerasena Kamage, born 1945, is a Member of Parliament representing Anuradhapura district, appointed after Nandasena's death. Educated at Kekirawa Central Maha Vidyalaya, he joined the Sri Lanka Freedom Party (SLFP) in 1991, serving as Opposition leader. Kamage has held various positions, including Chief Minister and Minister of Labor and Health in the North Central Provincial Council. He contested the 2020 general election in PA, ranking 6th. Kamage is also the organizer of the Sri Lanka PA of the Kekirawa constituency and the head of a construction company in the North Central Province. Married with five children.
 
-சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்து கொண்டதன் பின்னர் பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர முன்னிலையில் பாராளுமன்ற உறுப்பினர்களுக்கான ஏட்டிலும் அவர் கையொப்பமிட்டார்.
+🟩
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவை அநுராதபுர மாவட்டத்தில் பிரதிநிதித்துவப்படுத்திய பாராளுமன்ற உறுப்பினர்  கே.எச். நந்தசேன உயிரிழந்துள்ளமையின் காரணமாக ஏற்பட்ட வெற்றிடத்துக்கே வீரசேன கமகே இவ்வாறு நியமிக்கப்பட்டார்.
+Weerasena Kamage was the Member of the Ninth Parliament on Wednesday (24) in the presence of Speaker Mahinda Yapa Abeywardena.
 
-1945 இல் பிறந்த வீரசேன கமகே, கெக்கிராவ மத்திய மகா வித்தியாலயத்தில் தனது கல்வியை நிறைவு  செய்துள்ளார். 1991 இல் அரசியல் நடவடிக்கைளை ஆரம்பித்து ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் கெக்கிராவ பிரதேச சபை உறுப்பினராக தெரிவு செய்யப்பட்ட அவர் அதன் எதிர்க்கட்சித் தலைவராக செயற்பட்டுள்ளார்.
+He also signed the Members of Parliament in the presence of Parliamentary Secretary General Kushani Rohanadeera after the swearing in the presence of the Speaker.
+
+Member of Parliament KH, who represented the Sri Lankan PA in the Anuradhapura district. Weerasena Kamage was appointed to the vacuum caused by the death of Nandasena.
+
+Born in 1945, Veerasena Kamage completed his education at Kekirawa Central Maha Vidyalaya. He was elected as a member of the Kekirawa Pradeshiya Sabha in the Sri Lanka Freedom Party (SLFP) in 1991 and was the leader of the Opposition.
+
+Subsequently, Weerasena Kamage, who has been elected to the Northern Provincial Council election in the People's Front, has acted as the Chief Minister more times.. He has also held the post of Minister of Labor and Health in the North Central Provincial Council.
 
 ...
 
 [Data](articles/d1dd7c31.json)
 
+[Extended Data](ext_articles/d1dd7c31.ext.json)
+
 ---
 
-### போதைப்பொருட்களுடன் கைதான அம்பாறை பிராந்திய சுகாதார சேவைகள் பணிமனையின் கணக்காளருக்கு தடுப்புக்காவல் உத்தரவு
+### Ampara Regional Health Services for Affairs
 
 *2024-04-24 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181825) · `ta`
 
-நீண்ட காலமாக போதைப் பொருள் விநியோகம் மற்றும் பயன்பாட்டில் ஈடுபட்ட குற்றச்சாட்டின் அடிப்படையில் கைதான சந்தேக நபரான கணக்காளரை எதிர்வரும் ஏப்ரல் மாதம் 28 ஆம்திகதி வரை தடுப்புக் காவலில் வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவு பிறப்பித்துள்ளது.
+A suspect arrested for drug distribution and use in Kalmunai is detained until April 28. The suspect, previously an accountant for the Kalmunai Municipal Council and currently with Ampara Regional Health Services, was arrested with ice and cannabis. Further investigations are underway.
 
-செவ்வாய்க்கிழமை (23) கைதான குறித்த  சந்தேக நபரை நீதிமன்றில் ஆஜர்படுத்திய வேளை மேற்கண்டவாறு 05 நாட்கள் தடுப்பு காவல்  உத்தரவு பிறப்பிக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கதாகும்.
+🟩
 
-சந்தேக நபரான கணக்காளர் நீண்ட காலமாக போதைப்பொருள் விநியோகம் மற்றும் பயன்பாட்டில் ஈடுபட்ட குற்றச்சாட்டின் அடிப்படையில் மருதமுனை பகுதியில் வைத்து பெரிய நீலாவணை பொலிஸாரினால் திங்கட்கிழமை (22) இரவு கைது செய்யப்பட்டிருந்தார்.
+The Kalmunai Magistrate has ordered the detainees to be detained until April 28, the suspect, who was arrested on charges of drug distribution and use.
 
-அண்மையில்  மருதமுனை நகரை அண்டிய பகுதியில் ஐஸ் மற்றும் கஞ்சா போதைப்பொருளுடன் கைதான சந்தேக நபரின்  வாக்குமூலத்தை அடிப்படையாக கொண்டு பெரிய நீலாவணை பொலிஸார் குறித்த கணக்காளரை கைது செய்ய  துரித விசாரணை நடவடிக்கைகளை முன்னெடுத்திருந்தனர்.
+It is noteworthy that the suspect was produced in court on Tuesday (23).
+
+The suspect was arrested by a large Neelavana police on Monday night on charges of a long -standing drug distribution and use of drugs.
+
+Recently, in the adjoining city of Maruthamunai, the suspect, based on the confession of the suspect, who was arrested with ice and cannabis drug, has been carrying out speedy investigations to arrest the accountant of the big Neelavana police.
+
+It is noteworthy that 840 mg of ice drugs from the Gancal were recovered and 4 grams of 540 ml gram cannabis.
+
+Investigations have revealed that the suspect has been the former accountant of the Kalmunai Municipal Council in the past and is currently working as an accountant of the Ampara Regional Health Services Workshop.
 
 ...
 
 [Data](articles/3f6b9aec.json)
+
+[Extended Data](ext_articles/3f6b9aec.ext.json)
 
 ---
 
@@ -182,21 +280,31 @@ This is the second order issued by the Colombo District Court, barring Sirisena 
 
 ---
 
-### காணாமல்போனவர்கள் தொடர்பான விசாரணைகளில்    சிறிய முன்னேற்றமும் ஏற்படவில்லை - 2023ஆண்டு மனித உரிமை நிலவர அறிக்கையில் அமெரிக்கா
+### There was no minor improvement in the investigation into missing persons - US
 
 *2024-04-24 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181824) · `ta`
 
-2023இல் இலங்கையில் அரசாங்கத்தின் அதிகாரிகள் சார்பில் எவரும் காணாமல்போகச்செய்யப்பட்டதாக அறிக்கைகள் எவையும் கிடைக்கவில்லை என அமெரிக்க இராஜாங்க திணைக்களம் தெரிவித்துள்ளதுடன் ஒக்டோபர் இறுதிவரை எவரும் காணாமல்போகச்செய்யப்பட்டதாக தனக்கு அறிக்கைகள் எவையும் கிடைக்கவில்லை என காணாமல்போனோர் அலுவலகம் குறிப்பிட்டுள்ளதாகவும்  தெரிவித்துள்ளது.
+The US State Department reported no improvements in investigations into missing persons or human rights abuses in Sri Lanka in 2023, including the 1988-89 JVP rebellion. Karanagoda, involved in the 2008-09 abductions, was removed from his post by President Wickremesinghe.
 
-2023 இல் உலக நாடுகளில் மனித உரிமை நிலவரம் குறித்த தனது வருடாந்த அறிக்கையில் அமெரிக்க இராஜாங்க திணைக்களம் இதனை தெரிவித்துள்ளது.
+🟩
 
-1983ம் ஆண்டு முதல் 2009ம் ஆண்டுவரை இடம்பெற்ற மனித உரிமை துஸ்பிரயோகங்கள் தொடர்பிலான விசாரணைகளில் சிறிதளவு முன்னேற்றம் இல்லை அதேபோல 1988-89 ஜேவிபி கிளர்ச்சிகாலத்தில் இடம்பெற்ற மனித உரிமை துஸ்பிரயோகங்கள் குறித்த விசாரணைகளிலும் எந்த முன்னேற்றமும் இல்லை என அமெரிக்க இராஜாங்க திணைக்களம் தெரிவித்துள்ளது.
+The US State Department said that no reports were received on behalf of the government officials in Sri Lanka in 2023 and that no one was missing until the end of October.
 
-அதிகளவில் கவனத்தை ஈர்த்;த காணாமல்போன சம்பவங்கள் குறித்த விசாரணைகளிலும் முன்னேற்றம் இல்லை எனவும் அமெரிக்க இராஜாங்க திணைக்களம் தெரிவித்துள்ளது.
+The US State Department said this in its annual report on the human rights situation in the world in 2023.
 
-...
+The US State Department said that there was no improvement in the investigation into human rights abuse from 1983 to 2009, as well as the investigation into human rights abuse during the 1988-89 JVP rebellion.
+
+The US State Department has said that there is no improvement in investigations into incidents of missing incidents.
+
+Investigations into the incident of the abduction and disappearance of 11 individuals in Colombo in 2008 - 2009, which were involved in former Navy Commander Vasantha Karanagoda, had made no improvement.
+
+However, the US State Department has said that President Ranil Wickremesinghe has removed Karanagoda from the post of Governor of the North for not involvement with human rights violations.
+
+◼️
 
 [Data](articles/bcc280fb.json)
+
+[Extended Data](ext_articles/bcc280fb.ext.json)
 
 ---
 
@@ -222,63 +330,87 @@ The permanent interim injunction order stated that until the end of the case.
 
 ---
 
-### வவுனியா பொலிஸார் அதிரடி - பொதுமக்களுக்கு அறிவித்தல்
+### Vavuniya Police Action - Notification to the public
 
 *2024-04-24 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181823) · `ta`
 
-வவுனியா கடவுச்சீட்டு காரியாலயம் முன்பாக பல மோசடிகள் இடம்பெறுவதாகவும் அதற்கு பொலிஸாரும் உடந்தை என தெரிவித்து நேற்றைய தினம் ஊடகங்களில் செய்திகள் வெளியாகியிருந்தன.
+Vavuniya Police arrested Deputy Inspector General and his team for fraud near the Passport Office. The Magistrate will be courted after investigation. Public notified to report any future frauds via 0718593520.
 
-இதனை தொடர்ந்து வன்னி பிராந்திய பிரதி பொலிஸ் மா அதிபர் வவுனியா தலைமை பொலிஸ் நிலையத்திற்கு வழங்கிய அறிவுறுத்தலுக்கமைவாக செயல்பட்ட தலைமை பொலிஸ் நிலையத்தின் குற்றத்தடுப்பு பிரிவின் பொறுப்பதிகாரி சிரேஷ்ட பொலிஸ் பரிசோதகர் ஜெயத்திலக்க தன் தலைமையிலான குழுவினருடன் இன்று புதன்கிழமை (24) அதிகாலை வவுனியா கடவுச்சீட்டு காரியாலயம் முன்பாக மோசடிகளில் ஈடுபட்டுவருபவர்கள் என அடையாளம் காணப்பட்ட ஆறு பேரை சந்தேகத்தின் பேரில் கைது செய்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்களை தடுத்து வைத்து விசாரணை மேக்கொண்ட பின்னர் நீதவான் நீதிமன்றில் முன்னிலைப்படுத்த உள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+There were reports in the media yesterday that there were many frauds in front of the Vavuniya Passport Office.
 
-...
+Following this, the Vanni Regional Deputy Inspector General of Police Vavuniya, who was advised by the Chief Police Station, was arrested in front of the Vavuniya Passport Office in front of the Vavuniya Passport Office with his team led by Senior Police Inspector Jayathaka.
+
+Police say the Magistrate is to be produced before the court after investigating the detainees.
+
+Meanwhile, Senior Police Inspector of the Vavuniya Chief Police Station Crime Unit, Jayataka, has issued a notification to the public by contacting his official telephone number 0718593520 if there are any frauds in front of the Passport Office in the coming days.
+
+◼️
 
 [Data](articles/173b4e59.json)
 
+[Extended Data](ext_articles/173b4e59.ext.json)
+
 ---
 
-### இலங்கை வந்தார் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி
+### Iranian President Ibrahim Raisi arrived in Sri Lanka
 
 *2024-04-24 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/181820) · `ta`
 
-உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசி  சற்று முன்னர் இலங்கையை வந்தடைந்தார்.
+Iranian President Ibrahim Raisi visited Sri Lanka for the Uma Oya Multipurpose Development Program, aiming to strengthen bilateral relations through MoUs and the opening of a $529 million project, despite challenges from global politics and sanctions.
 
-ஈரானுக்கு சொந்தமான விமானத்தின் ஊடாக மத்தல சர்வதேச விமான நிலையத்தை ஈரான் ஜனாதிபதி தலைமையிலான குழுவினர் வந்தடைந்துள்ளனர். பிரதமர் தினேஷ் குணவர்தனவினால் அவர்களுக்கு வரவேற்பளிக்கப்பட்டது.
+🟩
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை மக்கள் பாவனைக்கான கையளிக்கும் நிகழ்வில் கலந்துகொள்ளும் நோக்கிலேயே ஈரான் ஜனாதிபதி இலங்கைக்கு விஜயம் மேற்கொண்டுள்ளார்.
+Iranian President Ibrahim Raisi arrived in Sri Lanka shortly before on an official visit.
 
-ஈரானுக்கும் இலங்கைக்கும் இடையிலான இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவதற்கான 05 புரிந்துணர்வு ஒப்பந்தங்களும் இதன்போது கைசாத்திடப்படவுள்ளது.
+The Iranian president -led delegation arrived at the Mattala International Airport via Iran -owned aircraft. They were welcomed by Prime Minister Dinesh Gunawardena.
 
-அம்பாந்தோட்டை மத்தல விமான நிலையத்தின் ஊடாக இலங்கைக்கு வருகைதந்துள்ள ஈரான் ஜனாதிபதி, அங்கிருந்து உமா ஓயா பல்நோக்கு அபிவிருத்தித்திட்டத்தை திறந்துவைத்துவிட்டு கட்டுநாயக்க விமான நிலையம் ஊடாக கொழும்பை வந்தடையவுள்ளார்.
+The President of Iran has visited Sri Lanka to attend the Uma Oya Multipurpose Development Program.
 
-கொழும்பில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுடன் இருதரப்பு சந்திப்பை நடாத்தவுள்ள ஈரான் ஜனாதிபதி, பின்னர் நாடு திரும்பவுள்ளார்.
+There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
+
+The President of Iran, who is visiting Sri Lanka through the Mattala Airport in Hambantota, will come to Colombo via Katunayake airport to open the Uma Oya Multipurpose Development Project.
+
+The President of Iran, who is scheduled to hold a bilateral meeting with President Ranil Wickremesinghe in Colombo, will then return to the country.
+
+The aim of the Iranian president's visit to Sri Lanka is to open the Uma Oya multi -purpose program, which is worth $ 529 million with Iran's cooperation.
 
 ...
 
 [Data](articles/4ac2b16e.json)
 
+[Extended Data](ext_articles/4ac2b16e.ext.json)
+
 ---
 
-### பாலஸ்தீனத்திற்கு ஆதரவான ஆர்ப்பாட்டங்களால் அதிரும் அமெரிக்க பல்கலைகழகங்கள் - பல்கலைகழங்களிற்கு வெளியே முகாமிட்டு மாணவர்கள் தொடர் ஆர்ப்பாட்டம்
+### Students who are camping outside the US universities
 
 *2024-04-24 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181819) · `ta`
 
-அமெரிக்க பல்கலைகழகங்களில் இஸ்ரேலிற்கு எதிரான ஆர்ப்பாட்டங்கள் தீவிரமடைந்துள்ளதை தொடர்ந்து கொலம்பிய பல்கலைகழகம் வகுப்பறை கற்றல் செயற்பாடுகளை இடைநிறுத்தியுள்ளது. நியுயோர்க் பல்கலைகழகத்திலும் யால் பல்கலைகழகத்திலும் ஆர்ப்பாட்டக்காரர்கள் கைதுசெய்யப்பட்டுள்ளனர்.
+Colombian University suspended classroom activities due to protests against Israel, with over 100 demonstrators arrested. Universities in the US are reducing tension over Israel's war against Hamas. Demonstrators, including Palestinian-backed students, protest against Israel's actions in Gaza, while Israeli students criticize anti-Jewish sentiments.
 
-இதேவேளை அமெரிக்காவின் பல பல்கலைகழகங்கள் ஹமாசிற்கு எதிரான இஸ்ரேலின் யுத்தத்தினால் உருவாகியுள்ள பதற்றத்தை குறைப்பதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளன.
+🟩
 
-கொலம்பிய பல்கலைகழகத்தின் வெளியே முகாமிட்டிருந்த 100க்கும் மேற்பட்ட ஆர்ப்பாட்டக்காரர்கள் கடந்த வாரம் கைதுசெய்யப்பட்டனர்.
+Colombian University has suspended classroom learning activities following the intensification of protests against Israel in US universities. Demonstrators have been arrested at the University of New York and the University of Yal.
 
-முதலில் அவர்களை வெளியேற சொன்னோம்  எனினும் நிலைமை குழப்பகரமானதாக மாறிய பின்னர் பொலிஸாரை அழைத்தோம் என பல்கலைகழக நிர்வாகம் தெரிவித்துள்ளது.
+Meanwhile, many universities in the United States are engaged in reducing the tension created by Israel's war against Hamas.
 
-மிரட்டும் கோசங்கள் மற்றும் யூத எதிர்ப்பு கோசங்களை கேட்க முடிந்ததாக  பல்கலைகழக நிர்வாகம் தெரிவித்துள்ளது.
+More than 100 demonstrators were arrested last week outside the Colombian University.
 
-எங்கள் வளாகத்திற்குள் மாணவர்களை கைதுசெய்வதற்கு பொலிஸாருக்கு பல்கலைகழகம் அனுமதிப்பது கடும் கண்டணத்திற்குரியது என நியுயோர்க் பல்கலைகழக சட்டககல்லூரி மாணவர் ஒருவர் தெரிவித்துள்ளார்.
+The university administration said that we first called them to leave, but we called the police after the situation became confusing.
+
+The university administration said it was able to hear intimidating slogans and anti -Jewish slogans.
+
+A student of the New York University of New York University of Law College said that the university's admission to the police to arrest students inside our campus.
+
+Palestinian -backed students are appealing to Israel's attack on Israel's attack in Gaza and withdrawn from companies that sell arms to Israel.
 
 ...
 
 [Data](articles/1fa59aac.json)
+
+[Extended Data](ext_articles/1fa59aac.ext.json)
 
 ---
 
@@ -783,6 +915,20 @@ At the same time, there is also the possibility of paying attention to the econo
 [Data](articles/ddde66bd.json)
 
 [Extended Data](ext_articles/ddde66bd.ext.json)
+
+---
+
+### නන්දසේන වෙනුවට වීරසේන එයි
+
+*2024-04-24 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/නන්දසේන-වෙනුවට-වීරසේන-එයි/11-409232) · `si`
+
+අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහා එන්. ජී. වීරසේන ගමගේ මහතාපාර්ලිමේන්තු මන්ත්‍රී ධුරයේ දිවුරුම් දෙනු ලැබීය.
+
+අද (24) උදෑසන පාර්ලිමේන්තු කටයුතු ආරම්භ කළ අවස්ථාවේ දී කථානායකවරයා ඉදිරියේ වීරසේන මහතා එලෙස දිවුරුම් දෙනු ලැබීය.
+
+◼️
+
+[Data](articles/80d30786.json)
 
 ---
 
@@ -1403,6 +1549,8 @@ The government’s forthcoming education reforms would not solely involve educat
 ...
 
 [Data](articles/594cefee.json)
+
+[Extended Data](ext_articles/594cefee.ext.json)
 
 ---
 
@@ -2073,93 +2221,5 @@ Iran's President Ibrahim Raisi visits Sri Lanka to inaugurate the $529M Uma Oya 
 [Data](articles/10afd8f3.json)
 
 [Extended Data](ext_articles/10afd8f3.ext.json)
-
----
-
-### Prolonged West Asian instability re-shapes global system
-
-*2024-04-24 01:14:57* · [`dailyftlk`](https://www.ft.lk/columns/Prolonged-West-Asian-instability-re-shapes-global-system/4-760936) · `en`
-
-The core problem, the Gaza war continues to shock and anger the world community, which is why world perspectives are shifting
-
-Two hundred days after it began last 7 October, the terrible, system-shaking, Gaza war, is now a whole West Asian regional crisis. The very prolongation of the military onslaught on Gaza and the violence in the West Bank as well as its highly controversial and socially devastating nature has very quickly expanded it beyond Israel-Palestine’s borders. Given the current global systemic intimacy, it is actually a global crisis.
-
-Today, we, in Sri Lanka, are directly affected by the West Asian war crisis that the Gaza war has become. Leave aside the simple danger of long-range missile mis-targeting in our neighbouring region of West Asia. Long range missiles possessed by some of the combatant states, carrying nuclear payloads, can, with a possible targeting failure, easily come in Sri Lanka’s direction.
-
-...
-
-[Data](articles/6095f1ce.json)
-
-[Extended Data](ext_articles/6095f1ce.ext.json)
-
----
-
-### The Gandhi of Sri Lanka: Dr. Ari is the apostle of peace to the world and beyond
-
-*2024-04-24 01:11:20* · [`dailyftlk`](https://www.ft.lk/columns/The-Gandhi-of-Sri-Lanka-Dr-Ari-is-the-apostle-of-peace-to-the-world-and-beyond/4-760935) · `en`
-
-(KRAKOW, Poland): On the morning of 16 April, Dr. A.T. Ariyaratne’s family informed me that he was in critical condition. In the quiet of the evening, I was heartbroken to learn that “Ari Aiya” of Sarvodaya—as I affectionately called him for more than half a century—departed us peacefully.
-
-With a clear and sharp mind until his last breath, the 92-year-old soul lived for others with his quintessentially Buddhist way of life as a compassionate servant-leader. Undeniably, Ari Aiya drew equal inspiration from the Gandhian philosophy of non-violence. When he received the Hubert H. Humphrey International Humanitarian Award from the University of Minnesota’s Humphrey School of Public Affairs in 1994, I hailed him as the “Gandhi of Sri Lanka.”
-
-...
-
-[Data](articles/18fcaa85.json)
-
-[Extended Data](ext_articles/18fcaa85.ext.json)
-
----
-
-### Tolerance of failure: Essential in innovating and risk-taking
-
-*2024-04-24 01:06:54* · [`dailyftlk`](https://www.ft.lk/columns/Tolerance-of-failure-Essential-in-innovating-and-risk-taking/4-760934) · `en`
-
-Innovation and continuous learning are impossible in a culture where there is no tolerance for failure
-
-An organisation’s attitude towards failure has a significant bearing, amongst others, on its drive for innovation, improvement through continuous learning, penchant for risk-taking and the willingness of its employees to delegate.
-
-...
-
-[Data](articles/d9bbf838.json)
-
-[Extended Data](ext_articles/d9bbf838.ext.json)
-
----
-
-### Debt, divestiture and discontent
-
-*2024-04-24 00:53:52* · [`dailyftlk`](https://www.ft.lk/columns/Debt-divestiture-and-discontent/4-760933) · `en`
-
-When Governments borrow, they actually mortgage the livelihood of citizens as collateral
-
-Debt negotiations between Government’s hired experts and private sovereign bond holders are reported to be progressing under closed doors and to the satisfaction of the principal supervisor IMF. This has convinced the former SLBC Governor Indrajit Coomaraswamy to feel confident that the third tranche of IMF’s $ 3 billion EFF would be released soon.
-
-...
-
-[Data](articles/ceb05649.json)
-
-[Extended Data](ext_articles/ceb05649.ext.json)
-
----
-
-### Model education cannot be turned into politics
-
-*2024-04-24 00:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியை-அரசியலாக-மாற்ற-முடியாது/175-336254) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of not politicizing education, advocating for a unified approach to education reform that includes various stakeholders, not just academic experts. He highlighted the need for the Ministry of Education to address the evolving exclusive class systems and the impact of political interventions on education.
-
-🟩
-
-President Ranil Wickremesinghe said that if education is turned into a political football, the country will suffer a failure, so that it is necessary to unite and introduce a suitable education system for the country.
-
-President Ranil Wickremesinghe made this statement at the 10th Annual Conference of the All Ceylon Industrial Resources Association held at the Nelum Pokuna Gallery of Colombo yesterday.. As he further stated,
-
-When carrying out the government's new educational restructuring activities, it is necessary to embrace the school teachers, the economists and the All Ceylon Resources Association, rather than limiting it to the academic experts.
-
-...
-
-[Data](articles/9499c9c1.json)
-
-[Extended Data](ext_articles/9499c9c1.ext.json)
 
 ---

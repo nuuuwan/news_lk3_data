@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 17:03:31**
+As of **2024-04-24 17:18:26**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 3,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,693 (100.0%) of 20,695 articles have been extended.
+20,695 (100.0%) of 20,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### Foxhill அனர்த்தம்: 2 சாரதிகளுக்கு பிணை
+### Foxhill Disaster: Bail for 2 drivers
 
 *2024-04-24 16:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-பிணை/76-336288) · `ta`
 
-தியத்தலாவ நரியகந்தவில் இடம்பெற்ற “Foxhill Super Cross Race” கார் விபத்து தொடர்பில் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த போட்டியாளர்கள் இருவருக்கும்  பண்டாரவளை  நீதிமன்ற நீதவான்  அன்டனி எஸ்.பீட்டர் ஃபால் பிணையில் செல்ல உத்தரவிட்டுள்ளார்
+Foxhill Disaster: Two drivers released after Bandarawela Court Magistrate Antony S. Peter Fall ordered their release, following an interrogation over a car accident in Diyathalawa Nariyakanda. The accident occurred during the 18th Foxhill Motor and Motorcycle Tournament, organized by the Sri Lanka Motor Racing Association and the Faculty of Army Science, on April 21st, following the Easter attacks.
 
-தியத்தலாவ நரியகந்த ஃபாக்ஸ்ஹில் மோட்டார் பந்தயத்தில் 5ஆம் இலக்கத்தின் கீழ் போட்டியிட்ட மாத்தறை மெதபாறை ஹித்தெட்டிய பிரதேசத்தைச் சேர்ந்த ரஞ்சித் உடுவ் (36), மற்றும் 196 ஆம் இலக்கத்தின் கண்டி பேராதனை மாகந்தவைச் சேர்ந்த ஏ.எம்.டிலான் சஞ்சீவ (47) ஆகியோர் போட்டியிட்டனர்.
+🟩
 
-இலங்கை மோட்டார் பந்தய சங்கம் மற்றும் தியத்தலாவ இராணுவ விஞ்ஞான பீடத்தினால் ஏற்பாடு செய்யப்பட்ட, ஈஸ்டர் தாக்குதலுக்குப் பின்னர் 21 ஆம் திகதி மீண்டும் ஆரம்பமான Foxhill மோட்டார் மற்றும் மோட்டார் சைக்கிள் போட்டிகள் தியத்தலாவ நர்யகந்த மோட்டார் பந்தயப் பாதையில் நடைபெற்றது.
+Bandarawela Court Magistrate Antony S. Peter Fall has ordered two competitors who were arrested and interrogated on suspicion over the car accident in Diyathalawa Nariyakanda
 
-...
+Ranjith Uduu (36) from Matara Mathabara, Mathaparai, who competed under the Diyatalawa Nariyakanda Foxhil Motor Race, and AM Dilan Sanjeewa (47) from Peradeniya, Kandy, 196.
+
+The Foxhill Motor and Motorcycle Tournament, which was held on the 21st after the Easter attacks organized by the Sri Lanka Motor Racing Association and the Faculty of Army Science, was held on the Diyatalawa Naryakanda Motor Racing Road.
+
+The 18th event of the competition, the Ford/Laser Mazda engine -capable 1500 CC car section, crashed into two cars.
+
+◼️
 
 [Data](articles/99c4ac85.json)
+
+[Extended Data](ext_articles/99c4ac85.ext.json)
 
 ---
 
@@ -1432,21 +1440,31 @@ Investigations have revealed that the suspect has been the former accountant of 
 
 ---
 
-### අපිට රෙදි අඳින්න කියන අය ජනතාව ඉදිරියේ රෙදි ගලවගන්න යනවා
+### We are going to take off the cloth to the people
 
 *2024-04-24 11:36:07* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-රෙදි-අඳින්න-කියන-අය-ජනතාව-ඉදිරියේ-රෙදි-ගලවගන්න-යනවා/11-409233) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය වෙන්දේසි කිරීමට පුරුද්ද ඇති අය විසින්, එම පුරුද්ද  තමන් වෙත ආදේශ කිරීම පිළිබඳව අතිශයින් කණගාටුවන බව ශ්‍රී ලංකා නිදහස් පක්ෂ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂ්මන් පියදාස මහතා සඳහන් පැවසීය.
+Sri Lanka Freedom Party (SLFP) Vice President Rohana Lakshman Piyadasa criticized the party's auction, claiming it's an attempt to save money for the people. He defended the party against accusations, stating they remain committed to the common people.
 
-මහනුවර දී මාධ්‍ය හමුවේ අදහස් දක්වමින් ඊයේ (23) ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති  මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මේ බව සඳහන් කළේය.
+🟩
 
-තවදුරටත් අදහස් දැක්වූ මහාචාර්යවරයා මෙසේද කීය. අපි යන එන වාහන පිළිබඳව, කොළඹ නුවර යන හැටි පිළිබඳවා ජනතාව දන්නවා. අපිව පාර තොටේදි හමුවිය හැකියි, අපි ඉන්න හැටි, කන බොන හැටි ජීවත් වෙන හැටි ජනතාව දන්නවා, කෝටිපතියෙක්  නම්, ගිණුම් වාර්තා සියල්ල සොයා බලා ගැනීමට කටයුතු කිරීමට අවස්ථාවත් තිබෙනවා.
+Sri Lanka Freedom Party Vice President Rohana Lakshman Piyadasa said that the Sri Lanka Freedom Party (SLFP) auction.
 
-මේ රටේ මිනිස්සුන්ගේ ප විදුලිය බිල ගෙවා ගත නොහැකි  අවස්ථාවක, තමන්ගේ නිවසේ රුපියල් ලක්ෂ ගණනක විදුලි බිල, ආණ්ඩුවේ මුදලින් ගෙවල් ගෙවන්න කිව්ව  කියලා මාධ්‍ය මගින් වාර්තා කරනවා. ඒ විදහට තමයි, අපිට රෙදි ඇඳගෙන කතා කරන්න කියන අය, ජනතාව ඉදිරියේ රෙදි ගලවා ගන්න දඟලන්නේ.
+Speaking to the media in Kandy, Professor Rohana Lakshman Piyadasa said this.
+
+Speaking further, the professor said:. People know how we go to Colombo, Colombo. We can meet with the road to the road, if we live, and drink how to eat and drinks.
+
+The media reports that the electricity bill of Rs.. That's why people who wear wear and talk to us are trying to save the cloth to the people.
+
+The party was auctioned, how many of us did not get. This allegation I do is do not have any relevance. You can check anything. So don't accuse us, thinking that he is in glass houses, thinking about. We still are with the common people, as humans.
+
+The Sri Lanka Freedom Party (SLFP) is likely to be held in Parliament and outside the court, and outside the court, and in the court.
 
 ...
 
 [Data](articles/cb47b3d1.json)
+
+[Extended Data](ext_articles/cb47b3d1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 03:34:04**
+As of **2024-04-25 03:52:35**
 
 ## Newspaper Stats
 
-*Scraped **20,771** Articles*
+*Scraped **20,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 217
 dbsjeyarajcom | 222
 newsfirstlk | 363
-islandlk | 1,117
+islandlk | 1,118
 dailyftlk | 1,151
 economynextcom | 1,180
 adalk | 1,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,770 (100.0%) of 20,771 articles have been extended.
+20,771 (100.0%) of 20,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,21 +72,27 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
-### ’கோர மாட்டோம் நாமே விசாரிப்போம்’
+### We will inquire ourselves
 
 *2024-04-25 00:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-மாட்டோம்-நாமே-விசாரிப்போம்/175-336300) · `ta`
 
-உயிர்த்த ஞாயிறு தற்கொலை குண்டுத் தாக்குதல் சம்பவங்கள் தொடர்பில் உரிய விசாரணைகளை நடத்துமாறு இனியும் இந்த அரசாங்கத்திடம்  கோரிக்கை விட மாட்டோம். எமது அரசாங்கத்தில் விசேட விசாரணை ஆணைக்குழுவின் ஊடாக விசாரணைகளை முன்னெடுப்போம் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+Opposition leader Sajith Premadasa announced a Special Investigation Commission to probe the suicide bombing of Lifeblood Sunday, promising transparent investigation with international judges and specialists.
 
-தாக்குதலுடன் தொடர்புடைய அனைவரையும் சட்டத்தின் முன்கொண்டு வருவதுடன், அவர்களுக்கு வழங்கக் கூடிய உயர்ந்தப்பட்ச தண்டனையை வழங்கவும் நடவடிக்கை எடுப்போம் என்றார். .
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பில் பாராளுமன்றத்தில் புதன்கிழமை(24) இடம்பெற்ற சபை ஒத்திவைப்பு வேளை விவாதத்தில் உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+We will no longer request this government to conduct a proper investigation into the suicide bombing of the lifeblood Sunday.. Opposition leader Sajith Premadasa said that we will carry out investigations through the Special Investigation Commission in our government.
 
-ஐக்கிய மக்கள் சக்தி தமது ஆட்சிக் காலத்தில் முன்னெடுக்கும் நடவடிக்கை தொடர்பில் ஏற்கனவே அறிவித்துள்ளோம். அதாவது விசேட விசாரணை ஆணைக்குழுவொன்றை நாங்கள் அமைப்போம். உள்நாட்டு மற்றும் வெளிநாட்டு நீதிபதிகளையும் விசேட விசாரணையாளர்களையும் கொண்டதாக விசாரணை ஆணைக்குழு அமைக்கப்படும் என்றார்.
+He said that all those involved in the attack will be preceded by the law and will take steps to provide them with a high penalty to be given to them.. .
+
+The Leader of the Opposition said this while addressing the debate on Wednesday (24) in Parliament regarding the survival Sunday attack.
+
+We have already announced that the United People's Power is carrying out during their tenure. That means we will set up a special inquiry commission. The Inquiry Commission will be set up for domestic and foreign judges and special investigators.
 
 ...
 
 [Data](articles/9a7c65e8.json)
+
+[Extended Data](ext_articles/9a7c65e8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 20:34:19**
+As of **2024-04-24 20:52:35**
 
 ## Newspaper Stats
 
-*Scraped **20,729** Articles*
+*Scraped **20,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,50 @@ adalk | 1,730
 tamilmirrorlk | 2,399
 adaderanalk | 2,470
 virakesarilk | 3,120
-dailymirrorlk | 3,232
+dailymirrorlk | 3,233
 adaderanasinhalalk | 3,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,727 (100.0%) of 20,729 articles have been extended.
+20,729 (100.0%) of 20,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### කොළඹ වාහන සිරවෙයි
+### Colombo vehicles trapped
 
 *2024-04-24 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195938) · `si`
 
-කොළඹ ප්‍රධාන මාර්ග කිහිපයක මේ වනවිට දැඩි රථවාහන තදබයක් ඇතිවී තිබේ.
+Heavy traffic in Colombo has caused vehicles to be trapped on several main roads.
+
+🟩
+
+Heavy traffic strict has been strict at several main roads in Colombo.
 
 ◼️
 
 [Data](articles/fd3f4c23.json)
+
+[Extended Data](ext_articles/fd3f4c23.ext.json)
+
+---
+
+### NPP asks Sajith to propose convenient date unless he can participate on proposed four days
+
+*2024-04-24 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-asks-Sajith-to-propose-convenient-date-unless-he-can-participate-on-proposed-four-days/108-281296) · `en`
+
+Colombo, April 24 (Daily Mirror)- The National People's Power (NPP) today requested Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to propose a date convenient to him if he is unable to participate in any of the four days proposed by the NPP for the public debate between the two leaders.
+
+NPP General Secretary Tilvin Silva told a news conference that the NPP proposed four days assuming that Sajith Premadasa would be busy and give him an opportunity to select any of the four days convenient to him.
+
+"We proposed four dates, assuming that Sajith may be busy. Anura Kumara is also a busy person engaged in a tight schedule. We proposed four dates considering the importance of the debate. If the Sajith faction is claiming that this debate is so importatnt, they can choose any one of the four dates. If he is unable to make it on any of the four dates, we request him to propose a date convenient to him," he said.
+
+...
+
+[Data](articles/d11c16e9.json)
 
 ---
 
@@ -290,19 +312,31 @@ Uma Oya had to face a variety of challenges while implementing the Multipurpose 
 
 ---
 
-### යක්ෂා රූඩයෙන් බේර ගන්න පල්ලියකදී ජලය පෙවු දෙදරු මරණයට
+### Save the devil riding in a church to death of water
 
 *2024-04-24 18:15:48* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂා-රූඩයෙන්-බේර-ගන්න-පල්ලියකදී-ජලය-පෙවු-දෙදරු-මරණයට/11-409245) · `si`
 
-මදුරන්කුලිය මුක්කුතොඩුවාව ප්‍රදේශයේ පවත්වාගෙන යනු ලබන රෝග සුව කරන බව පැවසෙන ස්ථානයකදී රෝගී තත්වයෙන් පසුවු කාන්තාවකට ජලය පානය කිරීමට දීමේන් පසු විජලනය හා දැඩි ශ්වසන ආබාධයකට ලක්වු 58 හැවිරිදි දෙදරු මවක් අසාධ්‍යව පුත්තලම මූලික රෝහලට ඇතුලත් කිරීමේන් පසු 24 දින අලුයම මරණයට පත්ව ඇති බව මදුරන්කුලිය පොලිසිය කියයි.
+A 58-year-old woman from Madurankuliya, suffering from mental health issues, died after being taken to a church for treatment. Her family believes she was poisoned with water.
 
-මෙලෙස මරණයට පත්ව ඇත්තේ මුන්දලම විල්පොත පදිංචි කළුමරක්කලගේ රේණුකා ඉන්ද්‍රකාන්ති නැමති දෙදරු මවක් වන අතර ඇය වසර 35 කට ආසන්න කාලයක් මැද පෙරදීග රටවල ගෘහ සේවිකාවක් ලෙස සේවය කරමින් සිට ඇති බවත් අවසන් වරට එක්සත් අරාබි එමිර් රාජ්‍යයෙ ඩුබායි නගරයෙ සේවය කරමින් සිට ඇති බව ඥාතින් පවසති.
+🟩
 
-එසේ සේවය කරමින් සිට සති කිපයකට පෙර මෙරටට පැමිනි මෙම කාන්තාව යම් මානසික අපහසුතාවයකින් සිටිම නිසා එකම දියණීය ඒ පිළිබදව විමසිමේදි පවසා ඇත්තේ මැද පෙරදිග රටක සේවය කරමින් සිටියදී යම් කිසි භුතයකු තම සිරුරට ඇතුළු වී තමන්ට කරදර කරන බවත් එය සුව කර ගැනිමට හැකි තැනක් සොයා දෙන ලෙසට දියණියට පවසා ඇති බවයි.
+Madurankuliya police say that afternoon of a patient, a 58-year-old two-old two-year-old injuries have been identified as a woman who has been cured in the Madurankuliya Mukkotagodu area.
+
+The deceased has been identified as a mother of two who was residing in Wilpotha, Mundalama.
+
+Inquiry into the same daughter as a matter of mental inconveniences, the woman is told to enter into the body while serving in a Middle East.That is said.
+
+Although her mother tried to show her her mother to a medical medical, the woman continued to replicate it.
+
+Later, relatives have been taken to the place where the baby is being treated at the Madurankuliya Mokkotugoda, who is being treated at the Madurankuliya Mokkotugoda.The relatives say they were taken to this woman after the Kiwadan again to drink a few days.
+
+The woman has been taken to recovering measures in the area.
 
 ...
 
 [Data](articles/dd52ec12.json)
+
+[Extended Data](ext_articles/dd52ec12.ext.json)
 
 ---
 
@@ -2255,33 +2289,5 @@ This is the second order issued by the Colombo District Court, barring Sirisena 
 [Data](articles/b2b71fd3.json)
 
 [Extended Data](ext_articles/b2b71fd3.ext.json)
-
----
-
-### There was no minor improvement in the investigation into missing persons - US
-
-*2024-04-24 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181824) · `ta`
-
-The US State Department reported no improvements in investigations into missing persons or human rights abuses in Sri Lanka in 2023, including the 1988-89 JVP rebellion. Karanagoda, involved in the 2008-09 abductions, was removed from his post by President Wickremesinghe.
-
-🟩
-
-The US State Department said that no reports were received on behalf of the government officials in Sri Lanka in 2023 and that no one was missing until the end of October.
-
-The US State Department said this in its annual report on the human rights situation in the world in 2023.
-
-The US State Department said that there was no improvement in the investigation into human rights abuse from 1983 to 2009, as well as the investigation into human rights abuse during the 1988-89 JVP rebellion.
-
-The US State Department has said that there is no improvement in investigations into incidents of missing incidents.
-
-Investigations into the incident of the abduction and disappearance of 11 individuals in Colombo in 2008 - 2009, which were involved in former Navy Commander Vasantha Karanagoda, had made no improvement.
-
-However, the US State Department has said that President Ranil Wickremesinghe has removed Karanagoda from the post of Governor of the North for not involvement with human rights violations.
-
-◼️
-
-[Data](articles/bcc280fb.json)
-
-[Extended Data](ext_articles/bcc280fb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 10:34:26**
+As of **2024-04-24 10:52:26**
 
 ## Newspaper Stats
 
-*Scraped **20,590** Articles*
+*Scraped **20,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,27 +16,127 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,166
 adalk | 1,715
-tamilmirrorlk | 2,373
-adaderanalk | 2,452
+tamilmirrorlk | 2,375
+adaderanalk | 2,454
 virakesarilk | 3,089
-dailymirrorlk | 3,213
-adaderanasinhalalk | 3,333
+dailymirrorlk | 3,215
+adaderanasinhalalk | 3,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,590 (100.0%) of 20,590 articles have been extended.
+20,590 (100.0%) of 20,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
+### இலஞ்சம் பெற்ற நீதிபதி கைது
+
+*2024-04-24 10:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-நீதிபதி-கைது/175-336259) · `ta`
+
+இலஞ்சம் அல்லது ஊழல் விசாரணை ஆணைக்குழுவின் அதிகாரிகளால், புத்தளம் காதி நீதிமன்ற நீதிபதி ஒருவர், ரூ. 5,000 லஞ்சம் பெற்ற குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்டுள்ளார்.
+
+நீதிமன்றத் தீர்ப்பு தொடர்பான விவாகரத்துச் சான்றிதழை வழங்குவதற்காக, குறித்த நீதிபதி ஒரு பெண்ணிடம் லஞ்சம் கேட்டதாகக் கூறப்படுகிறது.
+
+கைது செய்யப்பட்ட சந்தேகநபர் புத்தளம் நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டு எதிர்வரும் மே மாதம் 6ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/369465ec.json)
+
+---
+
+### අමරවීර, අලගියවන්න සහ දුමින්ද ශ්‍රීලනිප තනතුරුවලින් ඉවත් කිරීම වළක්වාලමින් පැනවූ වාරණය දීර්ඝ කෙරේ
+
+*2024-04-24 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195918) · `si`
+
+අමාත්‍ය මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් ඉවත් කිරීමට ගනු ලැබූ තීරණය ක්‍රියාත්මක වීම වළක්වාලමින් නිකුත් කර තිබෙන වාරණ නියෝගය මැයි මස 08 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය අද (24) නියම කළේය.
+
+තමන්ව ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් ඉවත් කිරීමට එරෙහිව එම අමාත්‍යවරු විසින් ගොනුකළ පැමිණිලි අද කැඳවනු ලැබූ අවස්ථාවේදී කොළඹ දිසා අධිකරණය මෙම නියෝග නිකුත් කළේය.
+
+◼️
+
+[Data](articles/0422c0e1.json)
+
+---
+
+### Court order preventing removal of Amaraweera and others from SLFP posts extended
+
+*2024-04-24 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98807/court-order-preventing-removal-of-amaraweera-and-others-from-slfp-posts-extended-) · `en`
+
+The court order preventing the Executive Committee of Sri Lanka Freedom Party (SLFP) from ousting its members Mahinda Amaraweera, Duminda Dissanayake, and Lasantha Alagiyawanna from their respective party positions has been extended.
+
+Accordingly, the interim injunction will be in place until 08 May on the orders of the Colombo District Court.
+
+Colombo District Judge delivered this extension when a plaint filed by the three MPs was taken up this morning (24).
+
+A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaints, which have sought an order declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
+
+...
+
+[Data](articles/0d975f32.json)
+
+---
+
+### புதிய பாராளுமன்ற உறுப்பினர் சத்தியப்பிரமாணம்
+
+*2024-04-24 10:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்ற-உறுப்பினர்-சத்தியப்பிரமாணம்/175-336258) · `ta`
+
+புதிய பாராளுமன்ற உறுப்பினராக என்.ஜி. வீரசேன கமகே இன்று (24) காலை சத்தியப்பிரமாணம் செய்து கொண்டார்.
+
+அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினர் எச். நந்தசேனவின் மறைவால் வெற்றிடமாகிய பாராளுமன்ற உறுப்பினர் பதவிக்கே இவர் நியமிக்கப்பட்டுள்ளார்.
+
+பாராளுமன்ற நடவடிக்கைகள் ஆரம்பிக்கப்பட்ட வேளையில் வீரசேன சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்துகொண்டார். R
+
+◼️
+
+[Data](articles/5a9ff38d.json)
+
+---
+
+### M.G. Weerasena sworn in as MP
+
+*2024-04-24 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/M-G-Weerasena-sworn-in-as-MP/108-281256) · `en`
+
+Parliament, April 24 (Daily Mirror)- M.G. Weerasena was sworn in as a Member of Parliament before Speaker Mahinda Yapa Abeywardena today.
+
+He was sworn in to fill the vacancy created by the death of Anuradhapura District SLPP MP K.H. Nandasena.
+
+◼️
+
+[Data](articles/f1071c26.json)
+
+---
+
+### US Senate approves potential TikTok ban
+
+*2024-04-24 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Senate-approves-potential-TikTok-ban/108-281255) · `en`
+
+USA, April 24 (BBC) - The US Senate has approved a controversial landmark bill that could see TikTok banned in America.
+
+It gives TikTok's Chinese owner, ByteDance, nine months to sell its stake or the app will be blocked in the United States.
+
+The bill will now be handed over to US President, Joe Biden, who has said he will sign it into law as soon as it reaches his desk.
+
+If that happens, ByteDance will have to seek approval from Chinese officials to complete a forced sale, which Beijing has vowed to oppose. Analysts say the process could take years.
+
+The measure was passed as part of a package of four bills which also included military aid for Ukraine, Israel, Taiwan and other US partners in the Indo- Pacific.
+
+It got widespread support from lawmakers with 79 Senators voting for it and 18 voting against it.
+
+...
+
+[Data](articles/c3aa02c4.json)
+
+---
+
 ### Puttalam Qazi court judge arrested for accepting bribe
 
 *2024-04-24 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Puttalam-Qazi-court-judge-arrested-for-accepting-bribe/108-281254) · `en`
 
-Puttalam, April 25 (Daily Mirror) - A judge from the Puttalam Qazi Court has been arrested by officials from the Commission to Investigate Bribery or Corruption, for accepting a Rs. 5,000 bribe.
+Puttalam, April 24 (Daily Mirror) - A judge from the Puttalam Qazi Court has been arrested by officials from the Commission to Investigate Bribery or Corruption, for accepting a Rs. 5,000 bribe.
 
 The arrest followed a complaint from a resident of the Vettalai area in Puttalam.
 
@@ -265,6 +365,24 @@ During his brief visit to the island nation, Dr. Raisi, together with President 
 [Data](articles/1491b177.json)
 
 [Extended Data](ext_articles/1491b177.ext.json)
+
+---
+
+### Iranian President to arrive in Sri Lanka today; special traffic plans implemented
+
+*2024-04-24 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98804/iranian-president-to-arrive-in-sri-lanka-today-special-traffic-plans-implemented) · `en`
+
+Sri Lanka and Iran will sign five Memorandums of Understanding (MoUs) today, in a bid to bolster the bilateral relations between the two nations.
+
+The signing of the agreements will coincide with the one-day visit of Iranian President Dr. Ebrahim Raisi, the President’s Media Division (PMD) said.
+
+At the invitation of President Ranil Wickremesinghe, the Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+During his brief visit to the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
+
+...
+
+[Data](articles/67214e2a.json)
 
 ---
 
@@ -2041,155 +2159,5 @@ Samari also set the record for successfully scoring the highest number of runs o
 [Data](articles/92eb8618.json)
 
 [Extended Data](ext_articles/92eb8618.ext.json)
-
----
-
-### UN rights chief ‘horrified’ by mass grave reports at Gaza hospitals
-
-*2024-04-23 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98798/un-rights-chief-horrified-by-mass-grave-reports-at-gaza-hospitals) · `en`
-
-U.N. rights chief Volker Turk said on Tuesday that he was “horrified” by the destruction of the Nasser and Al Shifa medical facilities in Gaza and reports of mass graves containing hundreds of bodies there, according to a spokesperson.
-
-Palestinian authorities reported finding scores of bodies in mass graves at Nasser hospital in Khan Younis this week after it was abandoned by Israeli troops. Bodies were also reported at the Al Shifa site following an Israeli special forces operation.
-
-“We feel the need to raise the alarm because clearly there have been multiple bodies discovered,” said Ravina Shamdasani, the spokesperson for the U.N. High Commissioner for Human Rights, adding Turk said he had been horrified by the reported mass grave discoveries and the hospitals’ destruction.
-
-“Some of them had their hands tied, which of course indicates serious violations of international human rights law and international humanitarian law, and these need to be subjected to further investigations.”
-
-...
-
-[Data](articles/c6c8e47e.json)
-
-[Extended Data](ext_articles/c6c8e47e.ext.json)
-
----
-
-### Narendra Modi accused of ‘anti-Muslim hate speech’
-
-*2024-04-23 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Narendra-Modi-accused-of-anti-Muslim-hate-speech/108-281215) · `en`
-
-India, April 23 - India’s main opposition party accused Prime Minister Narendra Modi of using hate speech after he called Muslims “infiltrators” — some of his most incendiary rhetoric about the minority faith, days after the country began its weekslong general election.
-
-The remarks at a campaign rally Sunday drew fierce criticism that Modi was peddling anti-Muslim tropes. The Congress party filed a complaint Monday with the Election Commission of India, alleging he broke rules that bar candidates from engaging in any activity that aggravates religious tensions.
-
-◼️
-
-[Data](articles/f8777806.json)
-
-[Extended Data](ext_articles/f8777806.ext.json)
-
----
-
-### Meeting with Chinese group Anura
-
-*2024-04-23 18:53:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனக்குழு-அநுரவுடன்-சந்திப்பு/175-336249) · `ta`
-
-Deputy Minister Sun Haiyan led a Chinese Communist Party delegation to meet with NPP President Anura Kumara Dissanayake, discussing political stability and upcoming elections. Key figures included Liu Jienzao and Sen Chiang Yuan.
-
-🟩
-
-The high -level committee of the Chinese Communist Party headed by Deputy Minister of International Sun Haiyan today met with National People's Power President Anura Kumara Dissanayake at the JVP headquarters.
-
-The delegation includes Liu Jienzao, the leader of the Chinese Communist Party, and Sen Chiang Yuan, the political adviser to the Chinese embassy in Sri Lanka.
-
-They also discussed the current political situation and the upcoming elections.
-
-NPP's representatives explained to the delegation about the need to create political stability to recover the country from the preparation and crisis of the NPP for the election.
-
-NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hatunnetti and Professor Anil Jayantha were also present.
-
-◼️
-
-[Data](articles/ef4daa0d.json)
-
-[Extended Data](ext_articles/ef4daa0d.ext.json)
-
----
-
-### Iran's President visits Sri Lanka tomorrow to open the Uma Oya Multipurpose Development Program05 Decision to Sign Up
-
-*2024-04-23 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181794) · `ta`
-
-Iran's President Ibrahim Raisi visits Sri Lanka tomorrow to open the Uma Oya Multipurpose Development Program, a significant irrigation project aimed at addressing water shortages in the southeastern region. This marks the first visit by an Iranian president to Sri Lanka since 2008. The project, valued at $514 million, aims to provide irrigation for 4500 hectares of agricultural land, drinking water for 39 million cubic meters, and 290 GWh of electricity annually. It involves a 3.98 km long water tunnel, a landing power plant, and other infrastructure. Despite delays, the project was completed in 2024 and is expected to significantly improve water management in the region.
-
-🟩
-
-Iranian President Ibrahim Raisi will visit Sri Lanka tomorrow (24) to attend the Uma Oya Multipurpose Development Program for public use.
-
-This is the first time that the Iranian president will visit Sri Lanka after the visit of President Ranil Wickremesinghe, after the visit of the Iranian President Mohamed Ahmadinejat in April 2008, on April 2008.
-
-There will also be five Memorandum of Understanding (MoU) to further strengthen bilateral relations between Iran and Sri Lanka.
-
-After the Mahaweli project, the Uma Oya Multipurpose Development Project, which joins history as the country's largest irrigation project, will be opened tomorrow (24) under the leadership of Iran and Sri Lankan Presidents.
-
-...
-
-[Data](articles/16a4bbc5.json)
-
-[Extended Data](ext_articles/16a4bbc5.ext.json)
-
----
-
-### ’Caution’ level temperature rises
-
-*2024-04-23 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Caution-level-temperature-rises/108-281214) · `en`
-
-Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning today about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
-
-They said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution'.
-
-According to the heat advisory issued, the 'Caution Level' was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
-
-This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
-
-...
-
-[Data](articles/7cb3bb5c.json)
-
-[Extended Data](ext_articles/7cb3bb5c.ext.json)
-
----
-
-### Temperature rises to ’Caution’ level
-
-*2024-04-23 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Temperature-rises-to-Caution-level/108-281214) · `en`
-
-Colombo, April 23 (Daily Mirror) -  The Meteorology Department issued a cautionary warning today about escalating temperatures that may be particularly intense for people across the country except in Matale, Kandy, Nuwara Eliya and Badulla.
-
-They said the heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution'.
-
-According to the heat advisory issued, the 'Caution Level' was expected in 22 districts, which include the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Vavuniya, Anuradhapura, Puttalam, Polonnaruwa, Kurunegala, Gampaha, Kegalle, Ampara, Colombo, Kalutara, Ratnapura, Galle, Matara, Hambantota, Moneragala, Batticaloa and Ampara districts.
-
-This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
-
-...
-
-[Data](articles/9fdf125d.json)
-
-[Extended Data](ext_articles/9fdf125d.ext.json)
-
----
-
-### If someone gets the money, the land is given to the land - the Minister of State Mastan
-
-*2024-04-23 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181776) · `ta`
-
-The Minister of State Mastan announced a 50,000 Solar Power Housing Scheme for the North, aiming to end homelessness. Despite past efforts, resettlement and rehabilitation remain incomplete. The scheme, valued at Rs 35 lakh per beneficiary, is part of broader efforts to address infrastructure needs and road rehabilitation. Additionally, efforts are underway to provide electricity and drinking water connections, and steps are being taken to address land issues, with immediate action taken by President Ranil Wickremesinghe.
-
-🟩
-
-50 thousand Solar Power Housing Schemes will be provided to the North according to the president's plan. Rural Economic Development Minister Khadar Mastan has said that if someone gets the money and land using the name of the Member of Parliament and the ministers.
-
-He made this statement during a media briefing to take place on Tuesday (23) at his office on Kandy Road, Vavuniya.. As he continues to comment,
-
-After the end of the war, the resettlement and rehabilitation of our people were like a dream. Although many ministers have acted on this, it has not been completed.
-
-We have repeatedly told the President about the need for our district's housing plan, the need for infrastructure and the rehabilitation of the road.. In this context, the solar power housing scheme is to be implemented to the North as various housing projects have been implemented in the past.
-
-...
-
-[Data](articles/bd68c552.json)
-
-[Extended Data](ext_articles/bd68c552.ext.json)
 
 ---

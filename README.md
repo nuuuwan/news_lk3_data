@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 23:34:20**
+As of **2024-04-24 23:53:13**
 
 ## Newspaper Stats
 
-*Scraped **20,752** Articles*
+*Scraped **20,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 222
 newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
-economynextcom | 1,173
+economynextcom | 1,180
 adalk | 1,731
 tamilmirrorlk | 2,400
 adaderanalk | 2,473
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,752 (100.0%) of 20,752 articles have been extended.
+20,752 (100.0%) of 20,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1060,6 +1060,68 @@ Addressing the gathering, President Ranil Wickremesinghe said that Sri Lanka wou
 
 ---
 
+### Sri Lanka Treasury bill yields fall across maturities, 3-months 9.90-pct
+
+*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-fall-across-maturities-3-months-9-90-pct-159919/) · `en`
+
+ECONOMYNEXT – Sri Lanka Treasury bill yields dropped across maturities at Wednesday’s auction, with the 3-month yield falling below 10 percent to 9.90 percent, data from the state debt office showed.
+
+The debt office sold 35 billion rupees of 3-month bills at 9.90 percent down from 10.03 percent.
+
+30 billion rupees of 6-month were sold, at 10.08 percent, down from 10.22 percent.
+
+27 billion rupees of 12-month bills were sold at 10.21 percent, down from 10.23 percent.
+
+◼️
+
+[Data](articles/0ffba7c3.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 297.95/298.10 to US dollar
+
+*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-297-95-298-10-to-us-dollar-159918/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 297.95/298.10 to the US dollar on Wednesday after closing at 300.50/301.00 on Monday, dealers said.
+
+Sri Lanka’s rupee came under pressure over the last week, despite broadly deflationary policy, after the central bank collected large volumes of dollars in March.
+
+Bond yields were flat as buyers awaited the next development in sovereign bond re-structuring, market participants said. There were both positive and negative sentiments among bond investors, dealers said.
+
+A bond maturing on 15.12.2026 closed flat at 11.30/40 percent
+
+A bond maturing on 15.09.2027 closed down at 11.90/95 percent from 11.95/12.05 percent.
+
+A bond maturing on 15.12.2028 closed flat at 12.15/25 percent.
+
+A bond maturing on 15.09.2029 closed higher at 12.30/40 percent from 12.25/35 percent.
+
+A bond maturing on 01.10.2032 closed at 12.35/60 percent from 12.40.50 percent. (Colombo/Apr24/2024)
+
+◼️
+
+[Data](articles/244ad810.json)
+
+---
+
+### Global South’s desire to establish independence hinted at Sri Lanka-Iran leaders’ talk
+
+*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/global-souths-desire-to-establish-independence-hinted-at-sri-lanka-iran-leaders-talk-159920/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has highlighted the Global South’s desire to establish its identity and independence during the talks with Iranian President Ebrahim Raisi, President’s Media Division (PMD) said.
+
+Most developing nations are depending on developed nations and such dependence has deprived most developing nations of being with its own identity and independence.
+
+According to the United Nations Conference on Trade and Development (UNCTAD), the Global South broadly comprises Africa, Latin America and the Caribbean, Asia (excluding Israel, Japan, and South Korea), and Oceania (excluding Australia and New Zealand).
+
+Most of the Global South’s countries are commonly identified as lacking in their standard of living, which includes having lower incomes, high levels of poverty, high population growth rates, inadequate housing, limited educational opportunities, and deficient health systems, among other issues.
+
+...
+
+[Data](articles/b4a72e5c.json)
+
+---
+
 ### Plantation workers' salary hike fails again
 
 *2024-04-24 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181861) · `ta`
@@ -1081,6 +1143,28 @@ The government and the plantation workers are ignoring the plantation workers be
 [Data](articles/71c87702.json)
 
 [Extended Data](ext_articles/71c87702.ext.json)
+
+---
+
+### Sri Lanka stocks close up, small caps see buying interest
+
+*2024-04-24 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-small-caps-see-buying-interest-159911/) · `en`
+
+ECONOMYNEXT – Improved market sentiment saw the Colombo Stock Exchange close up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.66 percent, or 77.50 points, at 11,905; while the S&P SL20 Index closed up 0.38 percent, or 13.17 points, at 3,495.
+
+“Buying interest was coming into the small caps from the retail front,” market participants said.
+
+The ASPI was up mostly due to interest in LOLC group companies; Browns Investments Plc (up at 6.20), LOLC Finance Plc (up at 7.40), LOLC General Insurance Plc (up at 7.00). LOLC Holdings Plc was also up at 445.25.
+
+“There was a run on penny stocks, possibly because banking stocks had slowed down,” market participants said.
+
+“There was also interest in index heavyweight Hayleys.” Hayleys Plc is one of six companies that had expressed interest in the acquisition of SriLankan Airlines Limited, the state owned enterprise restructuring unit said. Shares of the bluechip conglomerate closed up at 84.90.
+
+...
+
+[Data](articles/5a82e56a.json)
 
 ---
 
@@ -2203,71 +2287,5 @@ Fort Magistrate’s Court also rejected a writ petition looking to prevent their
 [Data](articles/9c8eb788.json)
 
 [Extended Data](ext_articles/9c8eb788.ext.json)
-
----
-
-### Uma Oya Multipurpose Development Project inaugurated
-
-*2024-04-24 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98811/uma-oya-multipurpose-development-project-inaugurated) · `en`
-
-Sri Lankan President Ranil Wickremesinghe and Iranian President Dr. Ebrahim Raisi jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
-
-Dr. Raisi arrived on the island nation on Wednesday morning via the Mattala International Airport, where he was accorded a warm welcome by Prime Minister Dinesh Gunawardena.
-
-His visit comes after a special invitation extended by his Sri Lankan counterpart, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-Shortly after his arrival, President Raisi participated in the public ceremony marking the inauguration of the UOMDP which aims to alleviate water scarcity in the southeastern dry region of the country by redirecting an annual average of 145 million cubic meters (MCM) of excess water from the Uma Oya basin to the Kirindi Oya basin.
-
-...
-
-[Data](articles/7e34497a.json)
-
-[Extended Data](ext_articles/7e34497a.ext.json)
-
----
-
-### Sri Lankan and Iranian presidents inaugurate Uma Oya project
-
-*2024-04-24 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98811/sri-lankan-and-iranian-presidents-inaugurate-uma-oya-project-) · `en`
-
-President Ranil Wickramasinghe and President of the Islamic Republic of Iran, Dr. Ebrahim Raisi inaugurated the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
-
-◼️
-
-[Data](articles/8b4b225d.json)
-
-[Extended Data](ext_articles/8b4b225d.ext.json)
-
----
-
-### Uma Oya Development Project inaugurated
-
-*2024-04-24 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Uma-Oya-Development-Project-inaugurated/155-281279) · `en`
-
-The President of the Islamic Republic of Iran, Dr. Ebrahim Raisi and President Ranil Wickremesinghe jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) a short while ago.
-
-This project is one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project
-
-◼️
-
-[Data](articles/0651a588.json)
-
-[Extended Data](ext_articles/0651a588.ext.json)
-
----
-
-### Uma Oya Development Project inaugurated
-
-*2024-04-24 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-Development-Project-inaugurated/108-281279) · `en`
-
-The President of the Islamic Republic of Iran, Dr. Ebrahim Raisi and President Ranil Wickremesinghe jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP) a short while ago.
-
-This project is one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project
-
-◼️
-
-[Data](articles/f3126cd6.json)
-
-[Extended Data](ext_articles/f3126cd6.ext.json)
 
 ---

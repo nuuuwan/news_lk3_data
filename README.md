@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 15:33:57**
+As of **2024-04-24 15:52:47**
 
 ## Newspaper Stats
 
-*Scraped **20,681** Articles*
+*Scraped **20,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,122 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
-adalk | 1,722
-tamilmirrorlk | 2,391
-adaderanalk | 2,465
+adalk | 1,723
+tamilmirrorlk | 2,393
+adaderanalk | 2,466
 virakesarilk | 3,109
-dailymirrorlk | 3,226
+dailymirrorlk | 3,229
 adaderanasinhalalk | 3,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,675 (100.0%) of 20,681 articles have been extended.
+20,681 (100.0%) of 20,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### சர்வதேச ரீதியில் கவனத்தை ஈர்த்த இலங்கை பால் சோறு
+### Deadly ‘Fox Hill’ crash: Arrested race car drivers granted bail
+
+*2024-04-24 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98818/deadly-fox-hill-crash-arrested-race-car-drivers-granted-bail) · `en`
+
+The two drivers of the race cars involved in fatal crash during the ‘Fox Hill Super Cross 2024’ motorsport racing championship at Diyatalawa, have been granted bail by the Bandarawela Magistrate’s Court.
+
+The two drivers in question had been arrested while undergoing treatment in hospital on April 22 and were ordered remanded in custody by the Bandarawela Magistrate on the same day.
+
+As many as seven people including an 8-year-old girl lost their lives and more than 23 were injured on Sunday (April 21) after a car ran off the track during a race and ploughed into spectators.
+
+Among the deceased were four event officials who had been stationed as flag marshals. The others were identified as spectators.
+
+Reportedly, the crash happened soon after another car had overturned on the track. As the vehicles were speeding past, one red car veered off the track and crashed into spectators on the side of the unguarded track.
+
+...
+
+[Data](articles/706a9416.json)
+
+---
+
+### ஈரானுக்கு நன்றி தெரிவித்த,  ஜனாதிபதி
+
+*2024-04-24 15:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கு-நன்றி-தெரிவித்த-ஜனாதிபதி/175-336287) · `ta`
+
+உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தின் வெற்றிக்காக ஈரான் வழங்கிய தொழில்நுட்ப ஆதரவிற்கு நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, ஈரானின் உதவியின்றி இலங்கையினால் உமா  ஓயாவில் இருந்து கிரிந்தி ஓயாவிற்கு நீரை கொண்டு செல்ல முடியாது என புதன்கிழமை (24) நடைபெற்ற  உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்ட  திறப்பு விழா நிகழ்வின்  போது தெரிவித்துள்ளார் .
+
+உலகளாவிய  தெற்கு நாடுகள் தமது அடையாளத்தையும் சுதந்திரத்தையும் நிலைநாட்ட விரும்புவதை நினைவு கூர்ந்த ஜனாதிபதி, அதற்காக உலகளாவிய தெற்கு நாடுகள் ஒன்றிணைந்து செயற்பட வேண்டும் என்றும் வலியுறுத்தியுள்ளார் .
+
+◼️
+
+[Data](articles/04386a9a.json)
+
+---
+
+### Sri Lanka's milk rice has attracted international attention
 
 *2024-04-24 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181832) · `ta`
 
-இலங்கையின் சிங்களவர்களின் பாரம்பரிய உணவான கிரிபத் (කිරිබත්) எனப்படும் பால் சோறு சர்வதேச ரீதியில் கவனத்தை ஈர்த்துள்ளது.
+Sri Lanka's Kiribath, a traditional Sinhalese dish, gained global fame through Savindri Perera's 'Masterchef Australia' performance, where he showcased the dish's unique flavor.
 
-அவுஸ்திரேலியாவில் நடைபெறும் 'MasterChef Australia' சமையல் போட்டியில் இலங்கை வம்சாவளியைச் சேர்ந்த சாவிந்திரி பெரேரா பால் சோற்றை சமைத்து அதன் சுவையை சர்வதேச அரங்கிற்கு எடுத்துச் சென்றுள்ளார்.
+🟩
 
-இந்நிலையில், இலங்கையின் பாரம்பரிய காலை உணவான பால் சோற்றை காட்சிப்படுத்திய விதம் மற்றும்  சுவைக்காக அவர் நடுவர்களால் பாராட்டப்பட்டுள்ளார்.
+The traditional food of the Sinhalese of Sri Lanka, Kiribath (කිරිබත්), has attracted international attention.
 
-'சவ்' என்று அன்போடு அழைக்கப்படும் சாவிந்திரி பெரேரா போட்டியில் பால்சோற்றுடன் ஸ்னாப்பர் மீனை வைத்து கித்துல் பாணியை மேலாக ஊற்றி நடுவர்களுக்கு வழங்கினார்.
+In the 'Masterchef Australia' culinary competition in Australia, Savindri Perera of Sri Lankan origin has cooked Paul's soda and taken its flavor to the international stage.
 
-உணவை சுவைத்த நடுவர்கள் ஒரு கொண்டாட்டத்திற்கு ஒப்பிட்டனர். 'நிஜமாகவே சிறந்த  இலங்கை உணவு' வழங்கியதற்காக சாவிந்திரியை பாராட்டினார்கள்.
+In this case, he has been praised by the referees for the exhibition and taste of Sri Lanka's traditional breakfast.
+
+The 'Sou', the Savindri Perera, poured the kitul style with the snail fish with the milk, and gave it to the referees.
+
+The referees who tasted the food were compared to a celebration. They praised the body for the fact that they were supplying 'the best Sri Lankan food'.
 
 ◼️
 
 [Data](articles/70e103b2.json)
 
+[Extended Data](ext_articles/70e103b2.ext.json)
+
 ---
 
-### மின்னேரியாவில்  இருவருக்கிடையில் மோதல்: ஒருவர் பலி!
+### Incinerator to destroy seized drugs to be opened next month: Wijeyadasa
+
+*2024-04-24 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incinerator-to-destroy-seized-drugs-to-be-opened-next-month-Wijeyadasa/108-281291) · `en`
+
+Parliament, April 24 (Daily Mirror)- The incinerator built in Wanathavilluwa for the purpose of destroying narcotic drugs produced before courts will be opened next month, Justice Minister Wijeyadasa Rajapakshe said today.
+
+He told Parliament that some 300 kilograms of heroin produced before courts will be destroyed on the first day.
+
+The Minister said this when the regulations under the Poisons, Opium and Dangerous Drugs Ordinance were taken up for approval in Parliament.
+
+He said under the new regulations, the magistrate can order the seized drugs to be destroyed after obtaining a sample of the stock and other required evidence before concluding the case.
+
+“The drugs will be destroyed under a proper procedure with the participation of the magistrate, the police, the Attorney General’s Department and the Government Analyst's Department,” he said.
+
+He said after the opening of the incinerator, steps will be taken to destroy the seized drugs once a month.
+
+◼️
+
+[Data](articles/60840921.json)
+
+---
+
+### Conflict between two people in Minneria: One killed
 
 *2024-04-24 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181848) · `ta`
 
-மின்னேரிய மின்சார சபைக்கு அருகில் நேற்று செவ்வாய்க்கிழமை  இரவு  மூவருக்கு இடையில் ஏற்பட்ட மோதலில்  ஒருவர் கூரிய ஆயுதத்தால் தாக்கி கொல்லப்பட்டுள்ளதாக மின்னேரிய பொலிஸார் தெரிவித்துள்ளனர்.
+In Minneriya, a man was killed by a sharp weapon in a clash near the Minoriya Electricity Board. The victim is H.Pabila Fonseka from Henayaya, Minneriya.
 
-மின்னேரிய ஹென்யாய பிரதேசத்தைச் சேர்ந்த எச்.கபில பொன்சேகா என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A man was attacked by a sharp weapon in a clash between the trio last Tuesday night near the Minoriya Electricity Board, Minoriya police said.
+
+The deceased is H.Pabila Fonseka from Henayaya, Minneriya, police said.
 
 ◼️
 
 [Data](articles/033173bb.json)
+
+[Extended Data](ext_articles/033173bb.ext.json)
 
 ---
 
@@ -90,6 +158,26 @@ It was mentioned in the order that these injunctions will remain in effect until
 
 ---
 
+### நீதிபதி இளஞ்செழியன் மீது துப்பாக்கிச்சூடு: 3 நாட்களுக்கு விசாரணை
+
+*2024-04-24 15:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீதிபதி-இளஞ்செழியன்-மீது-துப்பாக்கிச்சூடு-3-நாட்களுக்கு-விசாரணை/71-336286) · `ta`
+
+மேல் நீதிமன்ற நீதிபதி இளஞ்செழியன் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டுச் சம்பவத்தில் அவரது மெய்ப்பாதுகாவலாரான பொலிஸ் சார்ஜன்ட் ஒருவர் உயிரிழந்தமை மற்றும் ஒரு பொலிஸ் உத்தியோகத்தர் காயமடைந்த சம்பவம் தொடர்பான வழக்கு  யாழ்ப்பாணம் மேல் நீதிமன்றில் புதன்கிழமை (24)  விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இந்த வழக்கில் சாட்சியமளிப்பதற்காக வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன், விசேட அதிரடிப் படையினரின் பாதுகாப்புடன் யாழ்ப்பாணம் நீதிமன்ற வளாகத்திற்கு வருகைதந்தார்.
+
+யாழ்ப்பாணம் மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் எடுத்து கொள்ளப்பட்ட வழக்கு விசாரணையில் மேல் நீதிமன்ற நீதிபதி மா.இளஞ்செழியனும் காயமடைந்த பொலிஸ் உத்தியோகத்தரும் சாட்சியமளித்தனர்.
+
+குறித்த வழக்கில் சட்டமா அதிபர் திணைக்களம் சார்பில் விசேட அரச சட்டவாதி நாகரத்தினம் நிசாந்தும் எதிராளிகள் சார்பில் சட்டத்தரணி பிரதீபன் சர்மினியும் ஆஜராகினர்.
+
+குறித்த வழக்கு விசாரணை தொடர்ச்சியாக மூன்று தினங்களுக்கு யாழ்ப்பாணம் மேல் நீதிமன்றத்தில் நடைபெறவுள்ளது.
+
+◼️
+
+[Data](articles/c40f3cbd.json)
+
+---
+
 ### Maleeria again again
 
 *2024-04-24 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195930) · `si`
@@ -111,6 +199,24 @@ He added that the majority of these patients had gone to the person who visited 
 [Data](articles/3df60436.json)
 
 [Extended Data](ext_articles/3df60436.ext.json)
+
+---
+
+### Tourists ride on footboards of express trains
+
+*2024-04-24 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourists-ride-on-footboards-of-express-trains/108-281290) · `en`
+
+Railway passengers on the upcountry mainline expressed concern over the accidents involving foreign tourists riding on footboards of the express trains.
+
+They pointed out that tourists are in the habit of riding on footboards and taking selfies regardless of their danger, and that several accidents, some of which were fatal, had occurred recently.
+
+In the latest incident, a foreign woman fell down the Podi Minike Express on Sunday (21) near the Ohiya railway station, and in a similar incident about a month ago, an Iranian tourist received serious injuries.
+
+Passengers pointed out that the railway guards and the security service officials should take steps to prevent tourists from taking this risky journey.
+
+◼️
+
+[Data](articles/7b333e82.json)
 
 ---
 
@@ -184,15 +290,21 @@ The President stated this while addressing the gathering after both he and his I
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181843) · `ta`
 
-இன்று புதன்கிழமை (ஏப்ரல் 24) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 295.4376 ஆகவும் விற்பனை விலை ரூபா 305.3930 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 24, the US dollar was bought for Rs 295.4376 and sold for Rs 305.3930.
+
+🟩
+
+The US dollar purchasing price was Rs 295.4376 and the sales price were Rs 305.3930 based on the Central Bank's coinage rate on Wednesday (April 24).
 
 ◼️
 
 [Data](articles/76574dcf.json)
+
+[Extended Data](ext_articles/76574dcf.ext.json)
 
 ---
 
@@ -216,23 +328,41 @@ The two drivers were remanded after being arrested by police while receiving tre
 
 ---
 
-### சுதந்திரக் கட்சி பதில் தலைவராக அமைச்சர் விஜயதாச ராஜபக்க்ஷவை நியமிப்பதற்கு நீதிமன்றம் தடை உத்தரவு!
+### Court ban on appointment of Minister Vijayadasa Rajapakse as the leader of the Freedom Party
 
 *2024-04-24 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/181842) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக அமைச்சர் விஜயதாச ராஜபக்க்ஷவை நியமிப்பதற்கு கொழும்பு மாவட்ட நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+The Colombo District Court has banned the appointment of Minister Vijayadasa Rajapakse as SLFP leader, issued another ban by Dushmantha Mithrapala, and on decisions by the temporary chief secretary. The order, by Magistrate Sandhwithan, is effective until May 8th, following complaints by Mahinda Amaraweera, Lasantha Alagavanna, and Duminda Dissanayake.
 
-மேலும், கட்சியின் பொதுச் செயலாளராக துஷ்மந்த மித்ரபால செயற்படுவதைத் தடுத்து மற்றுமொரு தடை உத்தரவையும் பிறப்பித்தார்.
+🟩
 
-மேலும், தற்காலிக தலைமைச்  செயலர் எடுத்த முடிவுகளை அமுல்படுத்த தடை விதித்து நீதிமன்றம் மற்றொரு தடை உத்தரவு பிறப்பித்தது.
+The Colombo District Court has issued an injunction to appoint Minister Vijayadasa Rajapakse as the leader of the Sri Lanka Freedom Party (SLFP).
 
-அமைச்சர்களான மஹிந்த அமரவீர, லசந்த அழகியவண்ண மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர் சமர்ப்பித்த முறைப்பாட்டுக்கமைய கொழும்பு மாவட்ட நீதிவான் சந்துன்விதான இந்த தடை உத்தரவை பிறப்பித்துள்ளார்.
+In addition, Dushmantha Mithrapala, who was the general secretary of the party, issued another ban.
 
-இந்தத் தடை உத்தரவு எதிர்வரும் மே மாதம் 8 ஆம் திகதி வரை அமுலில் இருக்கும் எனவும் அந்த உத்தரவில் குறிப்பிடப்பட்டுள்ளது.
+In addition, the court issued another ban on the implementation of the decisions taken by the temporary chief secretary.
+
+Colombo District Magistrate Sandhwithan has issued the order on the complaint lodged by Ministers Mahinda Amaraweera, Lasantha Alagavanna and Member of Parliament Duminda Dissanayake.
+
+The order also stated that the injunction will remain in effect until the 8th of May.
 
 ◼️
 
 [Data](articles/c7f2d0f3.json)
+
+[Extended Data](ext_articles/c7f2d0f3.ext.json)
+
+---
+
+### Security beefed up
+
+*2024-04-24 14:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Security-beefed-up/110-281288) · `en`
+
+Security in Colombo was beefed up this morning due to arrival of the President of the Islamic Republic of Iran, Dr. Ebrahim Raisi. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/677ae9e5.json)
 
 ---
 
@@ -338,17 +468,23 @@ The injunction has stated that the injunction order will be effective from May 0
 
 ---
 
-### சுதந்திரக் கட்சியின் தலைவராக மைத்திரிபால செயற்படுவதற்கு  இடைக்காலத் தடை!
+### Interim ban on Maithripala's act as the leader of the Freedom Party
 
 *2024-04-24 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181839) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக செயற்படுவதற்கு தடை விதித்து கொழும்பு மாவட்ட பிரதான நீதிவான் நீதிமன்றமும்  இன்று புதன்கிழமை  (24) இடைக்காலத் தடை பிறப்பித்துள்ளது.
+Maithripala Sirisena, former President, issued an interim injunction against his leadership of the Freedom Party, following a complaint by Monteku Sarath Chandra, a member of the Sri Lanka Freedom Party Executive Committee. The order was issued by the Colombo District Chief Court.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு உறுப்பினர் மொன்டேகு சரத் சந்திர தாக்கல் செய்த முறைப்பாட்டின் அடிப்படையில் கொழும்பு மாவட்ட பிரதான நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+🟩
+
+Former President Maithripala Sirisena has issued an interim injunction on Wednesday (24).
+
+The Colombo District Chief Court has issued the order based on a complaint filed by Sri Lanka Freedom Party Executive Committee member Monteku Sarath Chandra.
 
 ◼️
 
 [Data](articles/2c1ccde3.json)
+
+[Extended Data](ext_articles/2c1ccde3.ext.json)
 
 ---
 
@@ -372,17 +508,23 @@ After the nationalization of the Uma Oya Multipurpose development project, the P
 
 ---
 
-### புத்தர் சிலைக்கு அருகில் மீட்கப்பட்ட துப்பாக்கி : வில்கமுவ பொலிஸ் நிலையத்தில் காணாமல் போனதா?
+### Recovered gun near the Buddha statue
 
 *2024-04-24 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181838) · `ta`
 
-வில்கமுவ, நுககொல்ல பிரதேசத்தில் உள்ள புத்தர்  சிலை ஒன்றுக்கு  அருகில்  துப்பாக்கி ஒன்று  வில்கமுவ பொலிஸாரால்  மீட்கப்பட்டுள்ளது.
+A rifle was found by Wilgamuwa police near a Buddha statue in Nugegolla, suspected to be a missing gun from the police station.
 
-சில வாரங்களுக்கு முன்னர் வில்கமுவ பொலிஸ் நிலையத்திலிருந்து   காணாமல் போன துப்பாக்கியே இது என பொலிஸார் சந்தேகிக்கின்றனர்.
+🟩
+
+A rifle has been recovered by the Wilgamuwa police near a Buddha statue in Nugegolla, Wilkamuwa.
+
+Police suspect that this was a missing gun from the Wilgamuwa police station a few weeks ago.
 
 ◼️
 
 [Data](articles/b55e7a38.json)
+
+[Extended Data](ext_articles/b55e7a38.ext.json)
 
 ---
 
@@ -591,6 +733,22 @@ According to sources, the salary council has expanded its hand that the case on 
 [Data](articles/c977aa16.json)
 
 [Extended Data](ext_articles/c977aa16.ext.json)
+
+---
+
+### පාසල් සිසුවිය හප්පා මරා දැමූ රියදුරු ජපානයට පැන යයි
+
+*2024-04-24 12:37:51* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවිය-හප්පා-මරා-දැමූ-රියදුරු-ජපානයට-පැන-යයි/11-409239) · `si`
+
+කන්තලේ , රජඇල ප්‍රදේශයේදී පාසල් සිසුවියක් වෑන් රථයක  හැපී ජීවිතක්ෂයට පත්වීමත් සමඟ  පලා ගිය වෑන් රථ රියදුරු විදේශීය රටකට යෑමට උදව් කළ සැකකරුගේ වැඩිමහල් සහෝදරයා ලබන මැයි තුන්වෙනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කන්තලේ  මහේස්ත්‍රාත් දිළිඳු සමරසිංහ මහතා පොලිසියට නියම කළේය.
+
+මෙලෙස බන්ධනාගාර ගත වූයේ කන්තලේ රජ ඇල පාරේ පදිංචි කුරුප්පු ගෙදර සමීර මධුෂාන්  නැමැති අයෙකි.බන්ධනාගාර ගත වූ සැකකරුගේ බාල සහෝදරයා වන කුරුප්පු ගෙදර තිළිණ මධුෂාන්  නමැති අය පැදවූ වෑන් රථයට යට වී පාසල් සිසුවියක් මිය ගිය පසු සැකකරුට විදේශ ගතවීමට දැනට බන්ධනාගාර ගත කර සිටින වැඩිමහල් සහෝදරයා ආධාර අනුබල දී ඇති බවට පොලිසිය අධිකරණ හමුවේ පැවසීය.
+
+සැකකාර වෑන් රථ රියදුරු සිය මවගේ අභාවය සඳහා ජපානයේ සිට මෙරටට පැමිණ ඇති අතර අනතුර සිදුවීමෙන් පසු ඔහු නැවත ජපානය බලා යෑමට බැංකොක් වෙත පලා ගොස් ඇති බවට තොරතුරු පොලිසියට ලැබී තිබේ.පලා යැමට උපයෝගී කරගත් මෝටර් රථයද පොලිසිය  අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ee7ddbd2.json)
 
 ---
 
@@ -2095,151 +2253,5 @@ The special security plan will be implemented with the support of elite police f
 [Data](articles/cf8d718a.json)
 
 [Extended Data](ext_articles/cf8d718a.ext.json)
-
----
-
-### Three-day parliamentary debate on Easter attacks begins today
-
-*2024-04-24 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98803/three-day-parliamentary-debate-on-easter-attacks-begins-today) · `en`
-
-The three-day adjournment debate on the 2019 Easter Sunday terror attacks will be taken up in parliament today (24) in accordance with a motion brought forward by the Opposition.
-
-The decision was taken at the meeting of the Parliamentary Business Committee convened earlier this month.
-
-Soon after the commencement of the parliamentary proceedings today, the Code of Criminal Procedure (Amendment) Bill (Second Reading) and Regulations under the Poisons, Opium and Dangerous Drugs Ordinance are scheduled to be debated from 9.30 a.m. to 10.30 p.m.
-
-Subsequently, it has been decided to take up the adjournment debate on the Easter Sunday attacks from 10.30 a.m. to 5.30 p.m.
-
-...
-
-[Data](articles/bb46296f.json)
-
-[Extended Data](ext_articles/bb46296f.ext.json)
-
----
-
-### Roads closed due to the visit of Iran
-
-*2024-04-24 08:27:43* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපතිගේ-සංචාරය-නිසා-වැහෙන-මාර්ග/11-409230) · `si`
-
-Roads in Sri Lanka will be closed for Iranian President Irabhim Razis's visit, affecting traffic. This is the first visit by an Iranian president to Sri Lanka since 2008.
-
-🟩
-
-Iranian President Irabhim Razis is due to join the Iranian Fund to join the public to be opened to the public.
-
-According to the Sri Lanka Police, Traffic will be restricted for other vehicles from time to time. An Iranian president joins Sri Lanka's visit to Sri Lanka after 2008.
-
-◼️
-
-[Data](articles/684a6f6e.json)
-
-[Extended Data](ext_articles/684a6f6e.ext.json)
-
----
-
-### Special traffic plan in Colombo
-
-*2024-04-24 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195914) · `si`
-
-Due to the Iranian project's Uma Oya opening, Colombo will implement a special security and traffic plan. Mattala to Uma Oya road will be closed from 9.30 am to 11 am. The Colombo-Katunayake Expressway will close from 2 to 3 pm, affecting routes to Fort and Hilton Hotel. Fort will close to President's House after 7.30 pm.
-
-🟩
-
-A special security plan and traffic plan will be implemented with the arrival of the Iranian project to opening the Uma Oya project.
-
-Police Media Spokesperson DIG Deputy Inspector General of Police said that the road from Mattala to Uma Oya from 9.30 am to 11 am.
-
-Meanwhile, DIG, Nihal Talduuwa, the Colombo-Katunayake Expressway will be closed down from 2 to 3 pm today.
-
-Also, from the Expressway, Borella, DS Senanayake Mawatha, Liberty Roundabout, Liberty Roundabout, Shunamy Mawatha, Galle Road, Galle RoadDuring this hourly period, the route to the Fort and the route to the Hilton Hotel is being closed this hour.
-
-Fort will be closed down to the President's House after 7.30pm and will be closed from Colombo Fort, Colombo Fort.
-
-The full announcement published by the police is as follower.
-
-◼️
-
-[Data](articles/fb2a693c.json)
-
-[Extended Data](ext_articles/fb2a693c.ext.json)
-
----
-
-### Prepared for debate in May but not on dates suggested by NPP: SJB
-
-*2024-04-24 08:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prepared-for-debate-in-May-but-not-on-dates-suggested-by-NPP-SJB/108-281249) · `en`
-
-Colombo, April 24 (Daily Mirror) - Samagi Jana Balawegaya (SJB) yesterday said its leader Sajith Premadasa is ready for the proposed debate with National People's Power (NPP), leader Anura Kumara Dissanayake on the policies of both parties on economic issues in the month of May but not on dates proposed by NPP Member Nalinda Jayatissa.
-
-Dr Jayatissa proposed that the NPP Leader is ready for the date on May 7, 9, 13 or 14. However MP Nalin Bandara said in a statement that Mr. Premadasa cannot make it during those days as he has planned to hold a few conferences including a women's conference and a farmer's conference.
-
-Mr. Premadasa also in a public meeting said he is willing to have a debate with his NPP counterpart in May but not on the days proposed by Dr. Jayatissa. "We should have two debates which include the one between the leaders of the two parties and the other between the economic expert teams of both parties," he said.
-
-◼️
-
-[Data](articles/b9bf969b.json)
-
-[Extended Data](ext_articles/b9bf969b.ext.json)
-
----
-
-### Sri Lanka financial account turns negative in 2023 amid heavy net repayments
-
-*2024-04-24 08:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-financial-account-turns-negative-in-2023-amid-heavy-net-repayments-159825/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s external financial account turned negative in 2023, official data show as bilateral lenders stopped financing the government, multilaterals had to be paid, and banks repaid credit lines which counterparties refused to roll over.
-
-The financial account was 1.3 billion dollars in deficit in 2023, subject to errors and omissions of 318 million dollars.
-
-Sri Lanka defaulted on official credit in April 2022 after money printed to keep an artificially low policy rate depleted forex reserves, but the country had to repay multilateral lenders and banks and to repay counterparties.
-
-Though rates were hiked in April 2022, the Reserve Bank of India gave credits to the central bank, leading to more money printing to offset interventions, delaying a correction in the external accounts.
-
-The balance of payments turned positive only in the third quarter of 2022 and monetary stability was restored. A positive overall balance of payments also denotes outflows through the central bank.
-
-...
-
-[Data](articles/b4929c08.json)
-
-[Extended Data](ext_articles/b4929c08.ext.json)
-
----
-
-### Quasi Judge arrested for bribe
-
-*2024-04-24 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195913) · `si`
-
-A judge was arrested for bribery, charged with 5,000 rupees, and remanded until May 6th.
-
-🟩
-
-The Commission of Investigation (Investigation) has been arrested by the Commission of Investigation (Investigation) in the Kavasi Court's judge for 5,000 rupees.
-
-He was later produced before the Puttalam Magistrate's Court and remanded until May 6th.
-
-◼️
-
-[Data](articles/7b148235.json)
-
-[Extended Data](ext_articles/7b148235.ext.json)
-
----
-
-### Sri Lankan Ambassador engages in bilateral talks with Gambian President
-
-*2024-04-24 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Ambassador-engages-in-bilateral-talks-with-Gambian-President/108-281258) · `en`
-
-Sri Lankan Ambassador Kana Kananathan in Kenya, who is concurrently accredited to other African countries, engaged in bilateral discussions with Adama Barrow, the President of The Gambia, marking a step forward in solidifying the bonds of friendship and cooperation between the two nations.
-
-The talks between Ambassador Kananathan and President Adama Barrow focused on avenues for enhancing collaboration across various sectors, prominently trade and investment. Both sides expressed unwavering commitment to exploring fresh opportunities for mutual benefit and shared prosperity.
-
-President Barrow extended sincere appreciation to President Wickramasinghe for his remarkable efforts in stabilizing the economy within a remarkably short span of time. The Gambian President lauded his Sri Lankan counterpart for his adept leadership and effective economic policies, which have unquestionably bolstered Sri Lanka's economic landscape within a brief period.
-
-...
-
-[Data](articles/9f6ccad1.json)
-
-[Extended Data](ext_articles/9f6ccad1.ext.json)
 
 ---

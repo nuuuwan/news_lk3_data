@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 16:18:28**
+As of **2024-04-24 16:34:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,689 (100.0%) of 20,691 articles have been extended.
+20,691 (100.0%) of 20,691 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The strong southerly winds over the past few days have also fanned unseasonal ea
 ...
 
 [Data](articles/b76cf2cf.json)
+
+[Extended Data](ext_articles/b76cf2cf.ext.json)
 
 ---
 
@@ -2202,25 +2204,31 @@ The list of names of eligible candidates, letters calling for interviews, interv
 
 ---
 
-### උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය: ආණ්ඩුව සහ ජනතාව කියන්නේ කුමක්ද?
+### Uma Oya Multipurpose Development Scheme: What is the government and the people?
 
 *2024-04-24 09:17:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1dqlrmn8o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ළිං 8000ක් හිඳුනා. ගෙවල් 8000කට වැඩිය පුපුරලා. ගොවියෝ 4500කට වතුර නැති වුණා.''
+The Uma Oya Multipurpose Development Scheme, opened on April 24, aims to generate 120 MW hydro power and supply water to 15,000 acres in Badulla and Moneragala districts, benefiting Badulla, Moneragala, and Bandarawela. It involves President Dr. Ibrahim Rischi, Ranil Wickremesinghe, and the Iranian Islamic Republic's President. Despite providing benefits, it has led to the displacement of 8,000 houses and the loss of water for 4,500 farmers, with compensation and alternate land promised.
 
-උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය: ආණ්ඩුව සහ ජනතාව කියන්නේ කුමක්ද?
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඉරාන ඉස්ලාමීය ජනරජයේ ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසිගේ සහභාගිත්වයෙන් උමා ඔය බහුකාර්ය සංවර්ධන යෝජනා ක්‍රමය අද (අප්‍රේල් 24) විවෘත කෙරිණි.
+It contains nothing here.eidio heads, '' Eight wells sat down. More than 8,000 houses exploded. 4500 farmers lost water. "
 
-එමගින් මෙගාවොට් 120 ක ජල විදුලි බලයක් නිෂ්පාදනය කෙරෙන අතර බදුල්ල සහ මොණරාගල දිස්ත්‍රික්කවල කුඹුරු අක්කර 15000කට යල මහ දෙකන්නයේම වගාවන් සඳහා ජලය සපයනු ලැබේ.
+Uma Oya Multipurpose Development Scheme: What is the government and the people?
 
-එමෙන්ම බදුල්ල, මොණරාගල සහ බණ්ඩාරවෙල ප්‍රදේශවලට පානීය ජලය ලබා දීම ද සිදු වේ.මේ ව්‍යාපෘතිය නිසා පිරිසකට ප්‍රතිලාභ ලැබෙන අතරේ ඉඩම් සහ දේපළ අහිමි වූ එතැම්හු අදටත් පීඩා විදිති.
+The Uma Oya Multipurpose Development Scheme was opened today (April 24) with the participation of President Dr. Ibrahim Rischi, Ranil Wickremesinghe and the President of Iranian Islamic Republic.
 
-මෙම ව්‍යාපෘතිය නිසා ඉඩම් හා දේපල අහිමිවූවන්ට වන්දි සහ විකල්ප ඉඩම් ලබා දීමට රජය පියවර ගෙන තිබුණ ද අදටත් නොවිසඳුණු ගැටලු රැසක් තිබේ.
+It produces 120 MW of hydro power and water supply for 15,000 acres of paddy lands in Badulla and Moneragala districts.
+
+The project also provides drinking water to Badulla, Moneragala and Bandarawela areas.
+
+The project has taken steps to obtain compensation and alternate land to the loss of land and property due to this project.
 
 ◼️
 
 [Data](articles/be400693.json)
+
+[Extended Data](ext_articles/be400693.ext.json)
 
 ---
 

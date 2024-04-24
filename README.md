@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 12:18:31**
+As of **2024-04-24 12:34:14**
 
 ## Newspaper Stats
 
@@ -26,53 +26,71 @@ adaderanasinhalalk | 3,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,635 (100.0%) of 20,640 articles have been extended.
+20,640 (100.0%) of 20,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### பதவிகளில் இருந்து நீக்குவதற்கான தடை நீட்டிப்பு
+### Extension of a ban on removal from positions
 
 *2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிகளில்-இருந்து-நீக்குவதற்கான-தடை-நீட்டிப்பு/175-336268) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து மூவரை நீக்குவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடை உத்தரவு நீட்டிக்கப்பட்டுள்ளது.
+The Sri Lanka Freedom Party (SLFP) has extended the ban on the removal of Minister Mahinda Amaraweera, Lasantha Alagavanna, and MP Duminda Dissanayake from their posts until May 8, following a court order in response to a petition filed against the party.
 
-அமைச்சர் மஹிந்த அமரவீர, லசந்த அழகியவன்ன மற்றும் நாடாளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோரை ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதவிகளில் இருந்து நீக்குவதற்கு எடுக்கப்பட்ட தீர்மானத்தை அமுல்படுத்துவதற்கு தடை விதிக்கப்பட்டது.
+🟩
 
-குறித்த தடை உத்தரவை எதிர்வரும் மே மாதம் 8ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் இன்று (24) உத்தரவிட்டுள்ளது.
+The ban on the removal of three from the Sri Lanka Freedom Party (SLFP) posts has been extended.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியில் இருந்து நீக்கப்பட்டமைக்கு எதிராக குறித்த மூவரால் தாக்கல் செய்த மனு இன்று விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Minister Mahinda Amaraweera, Lasantha Alagavanna and MP Duminda Dissanayake have been banned from implementing a resolution taken to remove the Sri Lanka Freedom Party (SLFP) posts.
+
+The Colombo District Court today (24) ordered the ban to be extended till May 8.
+
+The order was issued when a petition filed by the three against the Sri Lanka Freedom Party (SLFP) was taken up for hearing today.
 
 ◼️
 
 [Data](articles/a260c184.json)
 
+[Extended Data](ext_articles/a260c184.ext.json)
+
 ---
 
-### දමිතා ට ඇප
+### Damitha is released on bail
 
 *2024-04-24 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195923) · `si`
 
-විදේශ රැකියාවක් ලබාදෙන බව පවසා මුදල් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටි රංගන ශිලිපිනි දමිතා අබේරත්නට සහ ඇගේ සැමියා ඇප මත මුදාහැර තිබේ.
+Damitha Abeyratne and her husband released on bail.
+
+🟩
+
+Ranitan Shalipini Damitha Abeyratne and her husband have been released on bail.
 
 ◼️
 
 [Data](articles/4bbc6296.json)
 
+[Extended Data](ext_articles/4bbc6296.ext.json)
+
 ---
 
-### ඉරාන ජනපති මත්තලින් දිවයිනට
+### Indian President to Satized
 
 *2024-04-24 11:56:19* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන-ජනපති-මත්තලින්-දිවයිනට/11-409235) · `si`
 
-ඉරාන ජනපති ඊබ්‍රහිම් රයිසි මහතා මත්තල ගුවන් තොටුපොළින් දිවයිනට පැමිණියේය. ඔහු විශේෂ ගුවන් යානයකින් මත්තලට පැමිණි අතර ඔහු පිළිගැනිමට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා මත්තලට පැමිණ සිටියේය.
+Iranian President arrived in Sri Lanka for Uma Oya project opening.
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපාතිය විවෘත කිරීමට ඉරාන ජනපතිවරයා ලංකාවට පැමිණියේය.
+🟩
+
+Iranian President Irane arrived at the Mattala airport. He arrived in Mattala at Mattala and he was present at Mattala.
+
+Iran came to Sri Lanka to open Uma Oya Multipurpose development project.
 
 ◼️
 
 [Data](articles/8442c05f.json)
+
+[Extended Data](ext_articles/8442c05f.ext.json)
 
 ---
 
@@ -91,6 +109,8 @@ The Divisional Secretary further said the displaced families were provided with 
 ◼️
 
 [Data](articles/aa6ffb2c.json)
+
+[Extended Data](ext_articles/aa6ffb2c.ext.json)
 
 ---
 
@@ -534,6 +554,8 @@ At the invitation of President Ranil Wickremesinghe, the Iranian president arriv
 
 During his brief stay on the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
 
+The project will add 290 GWh to the national grid, while supplying water to 6,000 hectares (15,000 acres) of farmland and drinking water to thousands of families in three districts.
+
 ...
 
 [Data](articles/045d403c.json)
@@ -918,17 +940,23 @@ At the same time, there is also the possibility of paying attention to the econo
 
 ---
 
-### නන්දසේන වෙනුවට වීරසේන එයි
+### Weerasena in replace Nandasena
 
 *2024-04-24 09:52:10* · [`adalk`](https://www.ada.lk/breaking_news/නන්දසේන-වෙනුවට-වීරසේන-එයි/11-409232) · `si`
 
-අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එච්. නන්දසේන මහතාගේ අභාවයෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය සඳහා එන්. ජී. වීරසේන ගමගේ මහතාපාර්ලිමේන්තු මන්ත්‍රී ධුරයේ දිවුරුම් දෙනු ලැබීය.
+G. Weerasena Gamage, replacing H. Nandasena, was sworn in as MP for Anuradhapura District.
 
-අද (24) උදෑසන පාර්ලිමේන්තු කටයුතු ආරම්භ කළ අවස්ථාවේ දී කථානායකවරයා ඉදිරියේ වීරසේන මහතා එලෙස දිවුරුම් දෙනු ලැබීය.
+🟩
+
+Anuradhapura District MP H. Nandasena's death to be appointed as the vacant seat. G. Weerasena Gamage was sworn in as MP.
+
+Mr. Weerasena was sworn in before the Speaker at the time of the commencement of Parliament today.
 
 ◼️
 
 [Data](articles/80d30786.json)
+
+[Extended Data](ext_articles/80d30786.ext.json)
 
 ---
 

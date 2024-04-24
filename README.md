@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 22:18:38**
+As of **2024-04-24 22:34:08**
 
 ## Newspaper Stats
 
-*Scraped **20,745** Articles*
+*Scraped **20,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,731
 tamilmirrorlk | 2,400
-adaderanalk | 2,472
+adaderanalk | 2,473
 virakesarilk | 3,125
 dailymirrorlk | 3,237
 adaderanasinhalalk | 3,356
@@ -26,45 +26,57 @@ adaderanasinhalalk | 3,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,742 (100.0%) of 20,745 articles have been extended.
+20,745 (100.0%) of 20,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ශ්‍රී පාද උඩමළුවෙන් පහළට පැන්න තරුණයා හමුවෙයි
+### Youth meets Sri Pada
 
 *2024-04-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195940) · `si`
 
-කාන්තාවන් දෙදෙනෙකු සමග වන්දනාවේ පැමිණ ශ්‍රී පාද උඩ මළුවෙන් පහළට පැන අතුරුදන් වූ දිනේෂ් හේමන්ත නමැති වයස අවුරුදු 33 ක සූරියවැව ප්‍රදේශයේ පදිංචි තරුණයා මේ වනවිට හමුවී තිබේ
+A 33-year-old from Sooriyawewa and a 35-year-old from Suriyawewa have taken over the Nallathaniya Police Division. They've been admitted to Maskeliya hospital, then transferred to Dikoya Base Hospital. The army and STF have been searching for them for 3 days.
 
-එම තරුණයා අද උදෑසන ශ්‍රී පාද රක්ෂිතයට ආසන්නයේ නල්ලතන්නිය පොලිස් වසමට අයත් මරේ වතු යායේ රාජමලේ ප්‍රදේශයේ සිටිනු දැක වතු කම්කරුවන් පිරිසක් විසින් නල්ලතන්නිය පොලිස් ස්ථානය වෙත රැගෙනවිත් භාරදී තිබේ.
+🟩
 
-එහිදී පොලිස් නිලධාරීන් විසින් එම තරුණයාව ප්‍රතිකාර සඳහා මස්කෙළිය රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව දික්ඔය මූලික රෝහල වෙත මාරුකර යවා තිබේ.
+A 33 year old resident of Sooriyawewa, a 35 year old resident of Suriyawewa
 
-තරුණයා සෙවීම සඳහා යුද හමුදාව සහ පොලිස් විශේෂ කාර්ය බළකාය විසින් දින 3ක් තිස්සේ විශේෂ මෙහෙයුමක් සිදුකර පසුව එම මෙහෙයුම අත්හැර දැමීය.
+The youth has taken over the Nallathaniya Police Division in the Rajamala Estate Division of Nalladuniya Police Division this morning.
+
+The police officers have been admitted to the Maskeliya hospital for treatment and transferred to the Dikoya Base Hospital.
+
+The army and the STF has been conducting a special operation for 3 days to search for the youth.
 
 ◼️
 
 [Data](articles/2bc8992f.json)
 
+[Extended Data](ext_articles/2bc8992f.ext.json)
+
 ---
 
-### ஈரானுக்கும்  இலங்கைக்கும் இடையில் 5 புரிந்துணர்வு ஒப்பந்தங்கள்
+### 5 Memorandum of Understanding Between Iran and Sri Lanka
 
 *2024-04-24 21:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கும்-இலங்கைக்கும்-இடையில்-5-புரிந்துணர்வு-ஒப்பந்தங்கள்/175-336294) · `ta`
 
-ஈரானுக்கும்  இலங்கைக்கும்  இடையிலான இருதரப்பு  உறவுகளை வலுப்படுத்தும் நோக்கத்தில் 5 புரிந்துணர்வு ஒப்பந்தங்கள் (MoUs)கைச்சாத்திடப்பட்டன.
+Iran and Sri Lanka signed five MoUs to enhance cooperation in film, media, tourism, libraries, culture, science, technology, and sports. The meetings were led by Iranian President Dr. Ibrahim Raisi and Sri Lankan President Ranil Wickremesinghe.
 
-இந்த புரிந்துணர்வு ஒப்பந்தங்களின் ஊடாக  திரைப்படத் துறை, ஊடகம், சுற்றுலா, கூட்டுறவு, நூலகங்கள், கலாச்சாரம், அறிவியல், தொழில்நுட்பம் மற்றும் விளையாட்டு ஆகிய துறைகளில் இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பு மேம்படுத்தப்படும் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசிக்கும் (Dr. Ebrahim Raisi) ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும்  இடையிலான உத்தியோகபூர்வ சந்திப்பு  ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Five Memorandums Agreements were signed to strengthen bilateral relations between Iran and Sri Lanka.
 
-இதன் பின்னர் ஈரானுக்கும்  இலங்கைக்கும்  இடையில் 5 புரிந்துணர்வு ஒப்பந்தங்கள் கைச்சாத்திடப்பட்டமை குறிப்பிடத்தக்கது. R
+The Presidential Media Unit said that through these Memorandum of Understanding, the cooperation between the two countries will be improved in the fields of film industry, media, tourism, co -operative, libraries, culture, science, technology and sports.
+
+Dr. Ibrahim Raisi for Iranian President. The official meeting between President Ranil Wickremesinghe was held at the Presidential Office.
+
+It is noteworthy that five Memorandum of Understanding (MoU) were signed between Iran and Sri Lanka. Remble
 
 ◼️
 
 [Data](articles/86fd68d9.json)
+
+[Extended Data](ext_articles/86fd68d9.ext.json)
 
 ---
 
@@ -81,6 +93,22 @@ The roads were closed to facilitate the movement of his convoy without any prior
 ◼️
 
 [Data](articles/6c50bf48.json)
+
+[Extended Data](ext_articles/6c50bf48.ext.json)
+
+---
+
+### Sri Lanka, Iran ink five agreements to strengthen bilateral ties
+
+*2024-04-24 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98824/sri-lanka-iran-ink-five-agreements-to-strengthen-bilateral-ties) · `en`
+
+Iran and Sri Lanka on Wednesday (24) signed five Memorandums of Understanding (MoUs), aimed at bolstering bilateral relations between the two countries.
+
+The agreements will cover cooperation in film, media, tourism, cooperatives, libraries, and cultural, scientific, technical, and sports sectors between the two countries.
+
+◼️
+
+[Data](articles/2bd0ce96.json)
 
 ---
 
@@ -1582,7 +1610,7 @@ Opposition Leader Sajith Premadasa revealed on Wednesday (24) that he intends to
 
 The leader of Samagi Jana Balawegaya (SJB) leader made this remark while addressing the adjournment debate on the 2019 Easter Sunday terror attacks, currently taking place in parliament.
 
-Denying claims stating that he would not contest the presidential election, Premadasa asserted that he would run for presidency.
+Denying claims stating that he would not contest the presidential election, Premadasa highlighted that he, in fact, intends to run for the presidency.
 
 The opposition leader also gave an undertaking to implement proper action under a future SJB government to serve justice to the victims of the devastating suicide bombings detonated on 21 April 2019.
 
@@ -2229,29 +2257,5 @@ However, the Kovil Trust Board had taken steps to deploy the amount of the cormo
 [Data](articles/4dc5d65f.json)
 
 [Extended Data](ext_articles/4dc5d65f.ext.json)
-
----
-
-### Extension of a barrier to preventing removal
-
-*2024-04-24 12:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீக்குவதை-தடுக்கும்-தடை-நீட்டிப்பு/175-336268) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) has extended the ban on Minister Mahinda Amaraweera, Lasantha Alagavanna, and MP Duminda Dissanayake from removing SLFP posts, until May 8, following a court order.
-
-🟩
-
-The ban on the removal of three from the Sri Lanka Freedom Party (SLFP) posts has been extended.
-
-Minister Mahinda Amaraweera, Lasantha Alagavanna and MP Duminda Dissanayake have been banned from implementing a resolution taken to remove the Sri Lanka Freedom Party (SLFP) posts.
-
-The Colombo District Court today (24) ordered the ban to be extended till May 8.
-
-The order was issued when a petition filed by the three against the Sri Lanka Freedom Party (SLFP) was taken up for hearing today.
-
-◼️
-
-[Data](articles/6790b951.json)
-
-[Extended Data](ext_articles/6790b951.ext.json)
 
 ---

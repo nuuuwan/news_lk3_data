@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 17:54:51**
+As of **2024-04-24 18:14:05**
 
 ## Newspaper Stats
 
-*Scraped **20,699** Articles*
+*Scraped **20,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,106 @@ adalk | 1,726
 tamilmirrorlk | 2,394
 adaderanalk | 2,467
 virakesarilk | 3,109
-dailymirrorlk | 3,229
+dailymirrorlk | 3,230
 adaderanasinhalalk | 3,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,695 (100.0%) of 20,699 articles have been extended.
+20,699 (100.0%) of 20,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
 
-### ඉරාන ජනාධිපතිවරයා පිළිගැනීමේ නිල උත්සවය - සජීවී විකාශය
+### Karapitiya Hospital gets new CT scanner
+
+*2024-04-24 17:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-gets-new-CT-scanner/108-281293) · `en`
+
+April 24, (Daily Mirror)  -  The Galle Karapitiya Teaching Hospital unveiled its latest addition of a cutting-edge CT Scanner valued at Rs 250 million.
+
+The installation ceremony, held today (24), was spearheaded by Minister of Health and Industry, Dr. Ramesh Pathirana.
+
+This state-of-the-art CT Scanner, manufactured in Japan, marks a substantial upgrade to the hospital's diagnostic facilities.
+
+Following its installation last Sunday, patients can now benefit from CT Scan tests, with the hospital poised to conduct 40 to 50 scans daily, significantly alleviating the backlog of cases awaiting diagnostic imaging.
+
+◼️
+
+[Data](articles/bb5d8fdc.json)
+
+---
+
+### Official Festival of the President of Iran - Live Accident
 
 *2024-04-24 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195935) · `si`
 
-ඉරාන ජනාධිපතිවරයා පිළිගැනීමේ නිල උත්සවය මේ වනවිට කොළඹදී ආරම්භ වී තිබේ.
+The official festival of the President of Iran has started in Colombo, with a live accident reported.
+
+🟩
+
+The official festival of the president Iranian has begun in Colombo.
 
 ◼️
 
 [Data](articles/5a1220b6.json)
 
+[Extended Data](ext_articles/5a1220b6.ext.json)
+
 ---
 
-### අල්ලස් ගත් රුසියානු නියෝජ්‍ය ඇමති අත්අඩංගුවට
+### Russian deputy minister arrested for bribe
 
 *2024-04-24 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195934) · `si`
 
-රුසියාවේ නියෝජ්‍ය ආරක්ෂක අමාත්‍යවරයාව අත්අඩංගුවට ගෙන රඳවා තබාගැනීමට එරට අධිකරණයක් අද (24) නියෝග කළේය.
+Russian Deputy Defense Minister arrested for bribery in Sri Lanka. Accused of bribes in Ministry of Defense projects, facing up to 15 years in prison.
 
-නියෝජ්‍ය අමාත්‍යවරයාට අල්ලස් ගත් බවට චෝදනා එල්ල වී ඇති අතර ඔහු ආරක්ෂක අමාත්‍ය සර්ජි ශෝයිගු ගේ සමීපතමයෙකු ලෙස සැලකෙයි.
+🟩
 
-තිමූර් ඉවනොෆ් ට එල්ල වී ඇති චෝදනා සම්බන්ධයෙන් විචාරකයින් පවසන්නේ රුසියානු හමුදා 2022 වසරේ පෙබරවාරි මාසයේදී යුක්‍රේනය ආක්‍රමණය කිරීමෙන් අනතුරුව එරටින් වාර්තා වූ ප්‍රධානතම දුෂණ සිද්ධිය බවයි.
+A court of Sri Lanka ordered that the Deputy Defense Minister of Russia was arrested today (24).
 
-නියෝජ්‍ය අමාත්‍යවරයා ඊයේ සිය කාර්යාලයේ රාජකාරි කටයුතු වල නිරතව සිටියදී රුසියානු මධ්‍යම ආරක්ෂක සේවය විසින් අත්අඩංගුවට ගෙන තිබුණි. විශාල වශයෙන් අල්ලස් ලබාගත් බවට ඔහුට චෝදනා එල්ලවී තිබේ.
+The Deputy Minister has been accused of bribes and is considered a close associate of Defense Minister Sergei Shaegu.
 
-ආරක්ෂක අමාත්‍යංශය මගින් සිදුකළ ව්‍යාපෘති වලින් අල්ලස් ලබාගත් බවට ඔහුට එරෙහිව චෝදනා එල්ලවී ඇති අතර එම චෝදනා සඳහා වැරදිකරු වුවහොත් වසර 15ක සිරදඬුවම් ලැබිය හැකි බව සඳහන් ය.
+After invading Ukraine in February 2022, the critics say that the Russian troops were invaded in February 2022.
+
+The Russian Central Security Service was arrested by the Russian Central Security Service while the Deputy Minister was engaged in duties yesterday. He has been accused of gaining bribes.
+
+He has been accused of bribery in the projects carried out by the Ministry of Defense and the charges can be sentenced to 15 years in prison.
 
 ◼️
 
 [Data](articles/79fdc16b.json)
 
+[Extended Data](ext_articles/79fdc16b.ext.json)
+
 ---
 
-### “උමා දිය ජනනි” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට
+### "Uma Janani" multiloime development project opens vested with the public
 
 *2024-04-24 17:18:09* · [`adalk`](https://www.ada.lk/breaking_news/“උමා-දිය-ජනනි”-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ජනතා-අයිතියට/11-409241) · `si`
 
-ඉරානය සමඟ වඩා සමීප සබඳතා ඇති කර ගනිමින් ඉදිරියට යාම අරමුණයි- ශ්‍රී ලංකා ජනපති.
+The Uma Oya Multipurpose Development Project, a significant initiative in Sri Lanka, aims to alleviate water shortages in the southeastern dry zone. This project, funded by Farab Farab Ltd and the Export Development Bank of Iran, involves the construction of two reservoirs and a 3.98-kilometer water flow tunnel. Despite challenges, including international sanctions and the Covid-19 pandemic, the project was completed in 2015 and began operations in 2024. It aims to irrigate 1500 hectares of existing land and 4500 new developed land, addressing the water shortage issue. The project symbolizes the strengthening of ties between Sri Lanka and Iran, with both countries contributing their expertise and resources.
 
-ශ්‍රී ලංකාව සමඟ මනා හවුල්කාරිත්වයකින් යුතුව ඉදිරියටක් කටයුතු කිරීමට සූදානම්- ඉරාන ජනපති.
+🟩
 
-මහවැලි ව්‍යාපාරයෙන් පසුව මෙරට ක්‍රියාත්මක දැවැන්ත වාරි ව්‍යාපෘතියක් ලෙස ලක් ඉතිහාසයට එක් වන “උමා දිය ජනනි” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ඉරාන – ශ්‍රී ලංකා ජනාධිපතිවරුන්ගේ සුරතින් අද (24) පෙරවරුවේ ජනතා අයිතියට පත් කෙරිණි.
+President to promote closer ties with Iran - President
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරාධනයෙන් මෙම අවස්ථාවට එක් වූ ඉරාන ජනාධිපති ආචාර්ය ඊබ්‍රහිම් රයිසි මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉතා උණුසුම් ලෙස පිළිගනු ලැබීය.
+The President is ready to continue with good partnership with Sri Lanka.
 
-දෙරටේ නායකයන් එක්ව සමරු ඵලකය නිරාවරණය කර “උමා දිය ජනනී” බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පවරා දුන් අතර ඩිජිටල් තාක්ෂණය ඔස්සේ විදුලි ජනන යන්ත්‍ර පණ ගන්වා මෙහෙයුම් කටයතු ආරම්භ කිරීම ද ජනාධිපතිවරු දෙදෙනා අතින් සිදු කෙරිණි.
+After the Mahaweli movement, the "Uma Pannani" multi-Janani "multi-Janani" multi-Sri Lankan election project was illegally owned by the people of Iranian-Sri Lankan presidents this morning.
+
+The Iranian President Dr. Ibrahim Reli was warmly welcomed by President Ranil Wickremesinghe.
+
+The leaders of the two countries have unveiled the plaque and the Multi-Jathika Development Project was vested with the public and began operating activities through Digital Technology.
+
+Addressing the gathering, President Ranil Wickremesinghe said that Sri Lanka would not be able to bring the water in Uma Oya to be taken to the Uma Oya.. President Ranil Wickremesinghe, who thanked the Iranian president of the Iranian, he said that the purpose of Sri Lanka's aim to promote closer ties with Iran.
 
 ...
 
 [Data](articles/9665f9dd.json)
+
+[Extended Data](ext_articles/9665f9dd.ext.json)
 
 ---
 
@@ -1222,19 +1260,27 @@ The total cost of the project is US $ 514 million and $ 450 million has been agr
 
 ---
 
-### යාපනයේ කෝවිලක සාරියක් රුපියල් ලක්ෂ 16 කට වෙන්දේසි වෙයි
+### Sara is auctioned for Rs 16 lakhs in Kovil in Jaffna
 
 *2024-04-24 12:08:05* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-කෝවිලක-සාරියක්-රුපියල්-ලක්ෂ-16-කට-වෙන්දේසි-වෙයි/11-409237) · `si`
 
-යාපනය පුන්කුඩතිව් කන්නකිඅම්මන් හින්දු කෝවිලේ ඊයේ (23) දින පැවති වාර්ෂික තීර්ත දේව මංගල්ලයේදී පැවති වෙන්දේසියක් අතරතුරදී සාරියක් රුපියල් ලක්ෂ 16 ක මුදලකට වෙන්දේසි වූ බව එම කෝවිල් පාලක මණ්ඩලය පැවසීය.
+Sara auctioned for Rs 16 lakhs in Kovil, Jaffna. Kovil Board plans public services for monks, auctioning a special zar for godly services. Kovil Trust Board deploys funds from North to support temple development.
 
-කෝවිලේ පැවති වර්ෂික දේව මෙහෙය වෙනුවෙන් කන්නකිඅම්මාන් , විනයගර් , මුරුගන්, වල්ලි ආදි දෙවිවරුන් වෙනුවෙන් විශේෂ දේව මෙහෙයන් පැවත්වීමෙන් අනතුරුව දේව මාතාවන් වෙනුවෙන්ද දේව මෙහෙයන් පැවත්වීම වර්ෂිකව සිදුකරනු ලබයි.
+🟩
 
-මෙහිදී දේව මෙහෙයන් වලින් අනතුරුව දේව මාතවන්ට නිර්මාණය කරන ලද විශේෂ සාරියක් වෙන්දේසි කිරීමට කෝවිල පූජක මණ්ඩලය විසින් පියවර ගෙන තිබූ අතර ඒහිදී අදාල සාරිය වෙන්දේසි මුදල අරම්භ වී ඇත්තේද රුපියල් ලක්ෂයකට අධික මුදලකින් වූ අතරම අවසානයේ යාපනයේ පදිංචි කන්තාවක් විසින් අදල සරිය රුපියල් ලක්ෂ 16 ක මුද්ලකට මිලදී ගන්නා ලදි.
+The Kovil Board of Directors said that a sum of Rs.
 
-...
+The public services will be held for the monks for the monks for the Wornano, Vinakar, Murugan, Volisan, for the Wormenan Minister of the Kovan.
+
+The Kovil clergyhood had taken steps to auctioned a special zar in the event of the godly services.Was
+
+However, the Kovil Trust Board had taken steps to deploy the amount of the cormorandum of the corresponding from the North.It was said that it would help us to support the development of the temples and to contribute to the development of the temples in a separate sum.
+
+◼️
 
 [Data](articles/4dc5d65f.json)
+
+[Extended Data](ext_articles/4dc5d65f.ext.json)
 
 ---
 
@@ -2253,29 +2299,5 @@ The Investigation Commission (CIABOC) of the Bribery Corruption (CIABOC) said th
 [Data](articles/234bd4fb.json)
 
 [Extended Data](ext_articles/234bd4fb.ext.json)
-
----
-
-### Weerasena Gamage sworn in as Member of Parliament
-
-*2024-04-24 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98805/weerasena-gamage-sworn-in-as-member-of-parliament) · `en`
-
-Weerasena Gamage of Sri Lanka Podujana Peramuna (SLPP) was sworn in as a Member of Parliament on Wednesday (24).
-
-He took oaths before Speaker Mahinda Yapa Abeywardena soon after the parliamentary proceedings kicked off.
-
-Earlier this month, the Election Commission had named Weerasena to fill the parliamentary seat that fell vacant following the demise of SLPP’s Anuradhapura District MP H. Nandasena.
-
-Nandasena passed away at the age of 69 on 05 April due to a sudden illness.
-
-Accordingly, Weerasena was next in line on the SLPP list for the Anuradhapura District after securing a total of 38,242 votes upon contesting the 2020 Parliamentary Elections. He managed to place 9th in the preferential votes list.
-
-Following Nandasena’s demise, the Acting Secretary General of Parliament informed the Election Commission, in writing, that a seat in the Ninth Parliament had become vacant. This notification was made in terms of Section 64(1) of the Parliamentary Elections Act, No. 1 of 1981.
-
-◼️
-
-[Data](articles/a9be6d39.json)
-
-[Extended Data](ext_articles/a9be6d39.ext.json)
 
 ---

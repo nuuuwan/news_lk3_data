@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 14:18:35**
+As of **2024-04-24 14:34:08**
 
 ## Newspaper Stats
 
-*Scraped **20,661** Articles*
+*Scraped **20,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,173
 adalk | 1,721
-tamilmirrorlk | 2,388
-adaderanalk | 2,461
+tamilmirrorlk | 2,389
+adaderanalk | 2,463
 virakesarilk | 3,103
 dailymirrorlk | 3,225
-adaderanasinhalalk | 3,341
+adaderanasinhalalk | 3,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,661 (100.0%) of 20,661 articles have been extended.
+20,661 (100.0%) of 20,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### මම ජනාධිපතිවරණයට එනවා - සජිත්
+
+*2024-04-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195928) · `si`
+
+එළැඹෙන ජනාධිපතිවරණය සඳහා තමන් ඉදිරිපත්වන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+
+අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් සජිත් ප්‍රේමදාස මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/edd97be4.json)
+
+---
+
+### Sajith Premadasa says will contest presidential election
+
+*2024-04-24 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98814/sajith-premadasa-says-will-contest-presidential-election) · `en`
+
+Opposition Leader Sajith Premadasa, addressing the parliamentary session today, revealed that he intends to contest the upcoming Presidential Election.
+
+◼️
+
+[Data](articles/82c34877.json)
+
+---
+
+### Iran offers knowledge, expertise for Sri Lanka’s development and progress
+
+*2024-04-24 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98813/iran-offers-knowledge-expertise-for-sri-lankas-development-and-progress) · `en`
+
+Iran stands ready to share its knowledge, expertise and experience with Sri Lanka for the progress and development of the country, including partnerships in large-scale projects, says Iranian President Dr. Ebrahim Raisi.
+
+The Iranian Head of State made these remarks after participating in the ceremony to inaugurate the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
+
+◼️
+
+[Data](articles/4ea95771.json)
+
+---
+
+### ශ්‍රීලනිපයේ ප්‍රධානීන්ට විරුද්ධව වාරණ නියෝග තුනක්
+
+*2024-04-24 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195927) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පත් කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කර තිබේ.
+
+එසේම පක්ෂයේ ප්‍රධාන ලේකම්වරයා ලෙස දුෂ්මන්ත මිත්‍රපාල මහතා කටයුතු කිරීම වළක්වාලමින් තවත් වාරණ නියෝගයක් නිකුත් කළේය.
+
+එසේම වැඩ බලන ප්‍රධාන ලේකම්වරයා විසින් ගනු ලැබුණත් තීන්දු තීරණ ක්‍රියාත්මක කිරීම වළක්වාලමින් තවත් වාරණ නියෝගයක්ද අධිකරණය නිකුත් කරනු ලැබීය.
+
+මහින්ද අමරවීර,  ලසන්ත අලගියවන්න යන අමාත්‍යවරු සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරුන් විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ දිසාවිනිසුුර සඳුන්විතාන මහතා විසින් මෙම වාරණ නියෝග නිකුත් කළේය.
+
+මෙම වාරණ නියෝගය මැයි මස 08 දක්වා බලපැවැත්වෙන බවත් නියෝගයේ සඳහන් වුණි.
+
+◼️
+
+[Data](articles/5c1c6e26.json)
+
+---
+
+### ඉරාන ජනපතිගෙන් පොරොන්දුවක්
+
+*2024-04-24 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195926) · `si`
+
+ඉරානය ශ්‍රී ලංකාව සමඟ සිය දැනුම, විශේෂඥතාවය හා අත්දැකීම් බෙදා ගැනීමට සුදානම් බව ඉරාන ජනපති ආචාර්ය ඊබ්‍රහිම් රයිසි මහතා පවසයි.
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනසතු කිරීමෙන් අනතුරුව උත්සව සභාව අමතමින් ඉරාන ජනපතිවරයා වැඩිදුරටත් පවසා සිටියේ, දැවැන්ත ව්‍යාපෘතිවල හවුල්කාරීත්වය ඇතුළුව මෙරට ප්‍රගතිය උදෙසා ඉරානය ඕනෑම මොහොතක පෙනී සිටින බවය.
+
+◼️
+
+[Data](articles/44ae3f74.json)
+
+---
 
 ### Doctor of National Eye Hospital suddenly dies
 
@@ -161,6 +235,24 @@ The revised law extends the deadline to the byte dance to sell the dictok, and t
 [Data](articles/4959047a.json)
 
 [Extended Data](ext_articles/4959047a.ext.json)
+
+---
+
+### TikTok தடை?
+
+*2024-04-24 12:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TikTok-தடை/50-336275) · `ta`
+
+டிக்டாக் செயலியை தடை செய்வதற்கான சட்டத்தை அமெரிக்காவின் பாராளுமன்ற மேலவை நிறைவேற்றியுள்ளது. டிக்டாக் செயலியின் தாய் நிறுவனமாக சீனாவின் ByteDance நிறுவனம் 9 மாதங்களுக்குள் டிக்டாக்கின் அமெரிக்க பங்குகளை விற்காவிட்டால், அதை தடை செய்ய இச்சட்டம் வழிவகை செய்கிறது.
+
+டிக் டாக் செயலி தன்னுடைய பயனாளர்களின் பெரும்பாலான தகவல்களைச் சீனாவிடம் கொடுக்கிறது என அமெரிக்காவில் வழக்கு பதிவு செய்யப்பட்டுள்ளது.
+
+இந்த நிறுவனம் பயனாளர்களின் அனுமதியின்றி இரகசியமாகத் தகவல்களை எடுக்கிறது என வழக்கில் குற்றம் சுமத்தப்பட்டுள்ளது. பைட்டான்ஸ் என்ற சீன நிறுவனத்தைத் தாய் நிறுவனமாகக் கொண்ட டிக்டாக் அமெரிக்காவில் நிறையப் பயனாளர்களைக் கொண்டுள்ளது.
+
+கலிஃபோர்னியாவில் பதிவு செய்யப்பட்ட வழக்கில் டிக்டாக் செயலி இரகசியமாகப் பயனாளர்களின் பெரும்பாலான தனிப்பட்ட மற்றும் தனிநபரை அடையாளம் காணும் வகையான தகவல்களைச் சீனாவுக்கு அனுப்புகிறது எனக் கூறப்பட்டுள்ளது.
+
+...
+
+[Data](articles/741ea937.json)
 
 ---
 
@@ -2145,113 +2237,5 @@ The Uma Oya project, following the Mahaweli Development Project, is one of the l
 [Data](articles/4ba86d67.json)
 
 [Extended Data](ext_articles/4ba86d67.ext.json)
-
----
-
-### IMF third tranche hinges on proposed PFM Act: Dr. Coomaraswamy
-
-*2024-04-24 03:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-third-tranche-hinges-on-proposed-PFM-Act-Dr-Coomaraswamy/108-281241) · `en`
-
-The proposed Public Financial Management (PFM) Act remains crucial for the disbursement of the third tranche under the International Monetary Fund’s (IMF) US$ 3billion bailout package, stressed Former Central Bank (CB) Governor and economist, Dr. Indrajit Coomaraswamy.
-
-“It (PFM) is one of the prior actions to get approval of the IMF extended fund facility review. We already got the staff level agreement, but before getting the executive board approval, we need to at least get this bill into parliament,” he said.
-
-Dr. Coomaraswamy made his comments addressing a webinar organised by the Liberal Youth Movement under theme ‘Resilience and Recovery: Navigating Economic Crisis, Stabilising Efforts, and Pathways to Sustained Growth’, this Monday.
-
-The draft Public Financial Management Bill was expected to be tabled in the parliament in February, before the beginning of the second review of the IMF programme.
-
-...
-
-[Data](articles/a9eadc38.json)
-
-[Extended Data](ext_articles/a9eadc38.ext.json)
-
----
-
-### ‘Spike in blast fishing’ poses renewed threats to Sri Lanka’s marine ecosystems
-
-*2024-04-24 03:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Spike-in-blast-fishing-poses-renewed-threats-to-Sri-Lankas-marine-ecosystems/131-281225) · `en`
-
-Unable to swim with a ruptured swim bladder, fish injured by an underwater concussive blast slowly sink to the bottom of the sea. (Image courtesy of Dharshana Jayawardena)
-
-In 2020, six people from Rameswaram, Tamil Nadu, India were arrested by the Ramanathapuram Police for attempting to smuggle around 5000 explosive materials similar to gelatin sticks, purportedly for blast fishing. According to a Times of India report, one of the groups was contacted by a fisherman from Sri Lanka. Police investigations revealed that the suspects were anticipating gold or other valuable items instead of money in exchange to the smuggled explosives. While many such explosives including detonators are being manufactured in Tamil Nadu and are being smuggled by boats to be distributed among Sri Lankan fishermen, incidents of dynamite fishing or blast fishing along the Sri Lankan coastal belt has increased by manifold over the recent past, posing a threat to unique maritime ecosystems.
-
-...
-
-[Data](articles/143169e6.json)
-
-[Extended Data](ext_articles/143169e6.ext.json)
-
----
-
-### Myanmar’s junta takes revenge on its people
-
-*2024-04-24 03:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Myanmars-junta-takes-revenge-on-its-people/172-281224) · `en`
-
-The army has 150,000 troops while the rebel strength is 20,000. It has  700 tanks, 2000 artillery pieces (big numbers for a poor country with no  external enemies)
-
-What a turn of events in Myanmar–in  2021, the Generals seized power again from the legitimately elected government of Aung San Suu Kyi, the second military coup staged since 1962. The Generals had total power for much of Myanmar’s post-independence period, then relinquished briefly only to seize it back a few months later. She was jailed for 33 years on trumped-up charges. Widespread protests were crushed by killing over 3000 people, imprisoning 20,000 and destroying 55,000 houses over the past two years. Thus, the junta hoped to silence her forever and crush the country’s hopes of ever returning to democracy.
-
-...
-
-[Data](articles/092aa58e.json)
-
-[Extended Data](ext_articles/092aa58e.ext.json)
-
----
-
-### Those whom Gods wish to destroy, they first make mad - EDITORIAL
-
-*2024-04-24 02:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Those-whom-Gods-wish-to-destroy-they-first-make-mad-EDITORIAL/172-281223) · `en`
-
-The saying “Whom the Gods would destroy, they first make mad” is  believed to have been made by the Greek Tragedian Euripides and has been used in English literature since the 17th century. Leon Tolstoy in his novel ‘War and Peace’ uses the phrase in reference to Napoleon.
-
-Wikipedia quotes Sri Lankan Catholic Priest Father Simon Gregory Perera, SJ using the phrase about the belief of Portuguese colonialists that the loss of Sri Lanka to the Dutch was divine punishment.
-
-Today, our country is gripped in election fever. We are witnessing the applicability of this phrase in many a political party and candidate. The dramatic twists and turns of our political establishment bear ample testimony to this. According to media reports the Sri Lanka Podujana Peramuna (SLPP) has barred party members from commenting on whom that particular party may nominate as its presidential candidate!
-
-...
-
-[Data](articles/aedc977c.json)
-
-[Extended Data](ext_articles/aedc977c.ext.json)
-
----
-
-### Electricity Users Association files complaint with HRCSL against Electricity Bill
-
-*2024-04-24 02:20:00* · [`dailyftlk`](https://www.ft.lk/news/Electricity-Users-Association-files-complaint-with-HRCSL-against-Electricity-Bill/56-760973) · `en`
-
-Electricity Users Association has filed a formal complaint with Human Rights Commission Sri Lanka (HRCSL) against the recently gazetted Sri Lanka Electricity Bill, alleging that it violates the rights of electricity users.
-
-The Association’s Secretary Sanjeewa Dhammika outlined that the complaint was filed focusing on five critical concerns regarding the Bill.
-
-He also highlighted that under the proposed legislation, key entities such as the National Energy Advisory Council, National System Operator, National Transmission Grid Service Provider, and Field Strength Renovation Network Service Provider and the Public Utilities Commission of Sri Lanka (PUCSL), would fall under the direct purview of the Minister, which will give immense powers to him.
-
-...
-
-[Data](articles/007532f9.json)
-
-[Extended Data](ext_articles/007532f9.ext.json)
-
----
-
-### Citizen’s movement calls for Rs. 50 m compensation over new Electricity Bill
-
-*2024-04-24 02:19:31* · [`dailyftlk`](https://www.ft.lk/news/Citizen-s-movement-calls-for-Rs-50-m-compensation-over-new-Electricity-Bill/56-760972) · `en`
-
-The Citizen’s movement against fraud, corruption and waste has submitted a letter of demand to the Power and Energy Ministry Secretary, calling for Rs. 50 million in compensation.
-
-They cited the adverse effects of the new Sri Lanka Electricity Bill on the citizens as the basis for their claim.
-
-Led by its Chairman Jamuni Kamantha Thushara along with a few other members, the movement argued that the Bill violates Constitutional rights and has a detrimental impact on over 6 million electricity users countrywide.
-
-On 17 April, the Government published the proposed electricity sector reforms in the gazette, which is now named the Sri Lanka Electricity Bill. The crucial legislation is now set to be presented to Parliament during the next sitting. It then allows the public a two-week window from the date of its submission in Parliament to challenge its legality in the Supreme Court.
-
-◼️
-
-[Data](articles/6eac6281.json)
-
-[Extended Data](ext_articles/6eac6281.ext.json)
 
 ---

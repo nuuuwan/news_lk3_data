@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 15:52:47**
+As of **2024-04-24 16:05:35**
 
 ## Newspaper Stats
 
-*Scraped **20,688** Articles*
+*Scraped **20,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 2,393
 adaderanalk | 2,466
 virakesarilk | 3,109
 dailymirrorlk | 3,229
-adaderanasinhalalk | 3,346
+adaderanasinhalalk | 3,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,681 (100.0%) of 20,688 articles have been extended.
+20,688 (100.0%) of 20,689 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,53 @@ Reportedly, the crash happened soon after another car had overturned on the trac
 
 [Data](articles/706a9416.json)
 
+[Extended Data](ext_articles/706a9416.ext.json)
+
 ---
 
-### ஈரானுக்கு நன்றி தெரிவித்த,  ஜனாதிபதி
+### ඉරාන ජනපතිගෙන් සැර ප්‍රකාශයක්
+
+*2024-04-24 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195931) · `si`
+
+ඊශ්‍රායලය විසින් ඉරාන භූමියට එල්ල කරන මහා පරිමාන ප්‍රහාරයකදී ආරක්ෂක භූමිකාව කැපී පෙනෙන ලෙස වෙනස් වනු ඇති බවත්, එහිදී ඊශ්‍රායලය මුළුමණින්ම විනාශ කර දමන බවත් ඉරාන ජනපති ඊබ්‍රාහීම් රයිසි ප්‍රකාශ කර තිබේ.
+
+එවැනි වාතාවරණයකදී ඊශ්‍රායලයේ සියොන්වාදී රෙජීමයේ කිසිවක් ඉතිරි නොවනු ඇති බව ඔහු සඳහන් කර ඇත.
+
+ඉරාන නායකයා පාකිස්ථාන සංචාරයේ නිරතවන අතරතුර, ඔහු මෙම ප්‍රකාශය සිදුකළ බව වාර්තාකර ඇත්තේ ඉරානයේ IRAN (ඉර්නා) රාජ්‍ය ප්‍රවෘත්ති සේවය විසිනි.
+
+පසුගිය සඳුදා සිට පාකිස්ථානයේ තුන්දින සංචාරයක නිරත වූ ඉරාන ජනාධිපතිවරයා දෙරට අතර වාර්ෂික ද්විපාර්ශ්වික වෙළෙඳාම ඩොලර් බිලියන 10 දක්වා ඉහළ නැංවීමට ද ප්‍රතිඥාවක් ලබාදී තිබේ.
+
+කෙසේ නමුත් මෙම අවබෝධතා ගිවිසුම් මුල්කරගෙන පාකිස්ථානයට සම්බාධක පැනවිය හැකි බවට අමෙරිකා එක්සත් ජනපදය දැනටමත් අනතුරුඅඟවා තිබේ.
+
+ජනාධිපති රයිසිගේ පාකිස්ථාන සංචාරයේදී අවබෝධතා ගිවිසුම් 08කට ද අත්සන් තැබුණි.
+
+ඒ ජනාධිපති රයිසි සහ පාකිස්ථාන අගමැති ෂෙබාස් ෂරීෆ් ඊට සාක්ෂි දරමිනි.
+
+පාකිස්ථාන සංචාරය නිම කොට ඉරාන ජනාධිපතිවරයා අද ශ්‍රී ලංකාවට පැමිණියේය.
+
+...
+
+[Data](articles/4b44d06e.json)
+
+---
+
+### Thanks to Iran, the President
 
 *2024-04-24 15:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கு-நன்றி-தெரிவித்த-ஜனாதிபதி/175-336287) · `ta`
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தின் வெற்றிக்காக ஈரான் வழங்கிய தொழில்நுட்ப ஆதரவிற்கு நன்றி தெரிவித்த ஜனாதிபதி ரணில் விக்ரமசிங்க, ஈரானின் உதவியின்றி இலங்கையினால் உமா  ஓயாவில் இருந்து கிரிந்தி ஓயாவிற்கு நீரை கொண்டு செல்ல முடியாது என புதன்கிழமை (24) நடைபெற்ற  உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்ட  திறப்பு விழா நிகழ்வின்  போது தெரிவித்துள்ளார் .
+Iran's technical support enabled Sri Lanka's Uma Oya Multipurpose Development Program success, highlighted by President Ranil Wickremesinghe. He emphasized global southern countries' need for unity and independence.
 
-உலகளாவிய  தெற்கு நாடுகள் தமது அடையாளத்தையும் சுதந்திரத்தையும் நிலைநாட்ட விரும்புவதை நினைவு கூர்ந்த ஜனாதிபதி, அதற்காக உலகளாவிய தெற்கு நாடுகள் ஒன்றிணைந்து செயற்பட வேண்டும் என்றும் வலியுறுத்தியுள்ளார் .
+🟩
+
+President Ranil Wickremesinghe thanked the technical support of Iran for the success of the Uma Oya Multipurpose Development Program and said at the opening ceremony of the Uma Oya Multipurpose Development Program on Wednesday (24) that Sri Lanka could not transport water from Uma Oya to Kirindi Oya without the help of Iran.
+
+The President, recalled that the global southern countries wanted to establish their identity and independence, urged the global southern countries to work together.
 
 ◼️
 
 [Data](articles/04386a9a.json)
+
+[Extended Data](ext_articles/04386a9a.ext.json)
 
 ---
 
@@ -112,6 +146,8 @@ He said after the opening of the incinerator, steps will be taken to destroy the
 
 [Data](articles/60840921.json)
 
+[Extended Data](ext_articles/60840921.ext.json)
+
 ---
 
 ### Conflict between two people in Minneria: One killed
@@ -158,23 +194,29 @@ It was mentioned in the order that these injunctions will remain in effect until
 
 ---
 
-### நீதிபதி இளஞ்செழியன் மீது துப்பாக்கிச்சூடு: 3 நாட்களுக்கு விசாரணை
+### Judge firing on Ilangazhiyan: Investigate 3 days
 
 *2024-04-24 15:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீதிபதி-இளஞ்செழியன்-மீது-துப்பாக்கிச்சூடு-3-நாட்களுக்கு-விசாரணை/71-336286) · `ta`
 
-மேல் நீதிமன்ற நீதிபதி இளஞ்செழியன் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டுச் சம்பவத்தில் அவரது மெய்ப்பாதுகாவலாரான பொலிஸ் சார்ஜன்ட் ஒருவர் உயிரிழந்தமை மற்றும் ஒரு பொலிஸ் உத்தியோகத்தர் காயமடைந்த சம்பவம் தொடர்பான வழக்கு  யாழ்ப்பாணம் மேல் நீதிமன்றில் புதன்கிழமை (24)  விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+Judge Ilangazhiyan faces investigation for 3 days over a police shooting incident.
 
-இந்த வழக்கில் சாட்சியமளிப்பதற்காக வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன், விசேட அதிரடிப் படையினரின் பாதுகாப்புடன் யாழ்ப்பாணம் நீதிமன்ற வளாகத்திற்கு வருகைதந்தார்.
+🟩
 
-யாழ்ப்பாணம் மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் எடுத்து கொள்ளப்பட்ட வழக்கு விசாரணையில் மேல் நீதிமன்ற நீதிபதி மா.இளஞ்செழியனும் காயமடைந்த பொலிஸ் உத்தியோகத்தரும் சாட்சியமளித்தனர்.
+A case of the death of a police sergeant and a police officer injured in the shooting incident on Supreme Court Judge Ilancheliyan was taken up for hearing on Wednesday (24).
 
-குறித்த வழக்கில் சட்டமா அதிபர் திணைக்களம் சார்பில் விசேட அரச சட்டவாதி நாகரத்தினம் நிசாந்தும் எதிராளிகள் சார்பில் சட்டத்தரணி பிரதீபன் சர்மினியும் ஆஜராகினர்.
+The Vavuniya High Court Judge Ilangazhiyan visited the Jaffna Court Complex with the protection of the Special Task Force.
 
-குறித்த வழக்கு விசாரணை தொடர்ச்சியாக மூன்று தினங்களுக்கு யாழ்ப்பாணம் மேல் நீதிமன்றத்தில் நடைபெறவுள்ளது.
+Supreme Court Judge Majeljayan and the injured police officer testified at the case taken up in the presence of Jaffna High Court Judge Denis Shantan Susitasan.
+
+Special State Attorney Nagarathinam Nisanth on behalf of the Attorney General's Department
+
+The trial will be held in the Jaffna High Court for three consecutive days.
 
 ◼️
 
 [Data](articles/c40f3cbd.json)
+
+[Extended Data](ext_articles/c40f3cbd.ext.json)
 
 ---
 
@@ -217,6 +259,8 @@ Passengers pointed out that the railway guards and the security service official
 ◼️
 
 [Data](articles/7b333e82.json)
+
+[Extended Data](ext_articles/7b333e82.ext.json)
 
 ---
 
@@ -282,7 +326,9 @@ President Ranil Wickremesinghe on Wednesday expressed gratitude to Iran for thei
 
 The President stated this while addressing the gathering after both he and his Iranian counterpart, Dr. Ebrahim Raisi jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP), one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project.
 
-◼️
+At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations. His arrival marks the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+...
 
 [Data](articles/328131ba.json)
 
@@ -364,6 +410,8 @@ Security in Colombo was beefed up this morning due to arrival of the President o
 
 [Data](articles/677ae9e5.json)
 
+[Extended Data](ext_articles/677ae9e5.ext.json)
+
 ---
 
 ### I'm coming to the presidential election - Sajith
@@ -418,7 +466,11 @@ Iran stands ready to share its knowledge, expertise and experience with Sri Lank
 
 The Iranian Head of State made these remarks after participating in the ceremony to inaugurate the Uma Oya Multipurpose Development Project (UOMDP) on Wednesday (24).
 
-◼️
+At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations.
+
+His arrival marks the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+...
 
 [Data](articles/4ea95771.json)
 
@@ -736,19 +788,25 @@ According to sources, the salary council has expanded its hand that the case on 
 
 ---
 
-### පාසල් සිසුවිය හප්පා මරා දැමූ රියදුරු ජපානයට පැන යයි
+### The driver of Hoppa town Hoppa jumps to Japan
 
 *2024-04-24 12:37:51* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-සිසුවිය-හප්පා-මරා-දැමූ-රියදුරු-ජපානයට-පැන-යයි/11-409239) · `si`
 
-කන්තලේ , රජඇල ප්‍රදේශයේදී පාසල් සිසුවියක් වෑන් රථයක  හැපී ජීවිතක්ෂයට පත්වීමත් සමඟ  පලා ගිය වෑන් රථ රියදුරු විදේශීය රටකට යෑමට උදව් කළ සැකකරුගේ වැඩිමහල් සහෝදරයා ලබන මැයි තුන්වෙනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කන්තලේ  මහේස්ත්‍රාත් දිළිඳු සමරසිංහ මහතා පොලිසියට නියම කළේය.
+The driver of Hoppa town Hoppa, who fled to Japan, was arrested in Sri Lanka after his mother's death. He was involved in an accident and had been in Bangkok before returning to Japan. The victim was Sameera Madushan, the younger brother of Kuruppu, Madina Madushan, and Gilina Madushan, who were all involved in the van.
 
-මෙලෙස බන්ධනාගාර ගත වූයේ කන්තලේ රජ ඇල පාරේ පදිංචි කුරුප්පු ගෙදර සමීර මධුෂාන්  නැමැති අයෙකි.බන්ධනාගාර ගත වූ සැකකරුගේ බාල සහෝදරයා වන කුරුප්පු ගෙදර තිළිණ මධුෂාන්  නමැති අය පැදවූ වෑන් රථයට යට වී පාසල් සිසුවියක් මිය ගිය පසු සැකකරුට විදේශ ගතවීමට දැනට බන්ධනාගාර ගත කර සිටින වැඩිමහල් සහෝදරයා ආධාර අනුබල දී ඇති බවට පොලිසිය අධිකරණ හමුවේ පැවසීය.
+🟩
 
-සැකකාර වෑන් රථ රියදුරු සිය මවගේ අභාවය සඳහා ජපානයේ සිට මෙරටට පැමිණ ඇති අතර අනතුර සිදුවීමෙන් පසු ඔහු නැවත ජපානය බලා යෑමට බැංකොක් වෙත පලා ගොස් ඇති බවට තොරතුරු පොලිසියට ලැබී තිබේ.පලා යැමට උපයෝගී කරගත් මෝටර් රථයද පොලිසිය  අත්අඩංගුවට ගෙන තිබේ.
+The elder brother of Kantale Magistrate, the elder brother who had fled into a foreign country to be remanded until May 3.
+
+The victim was a small brother, Sameera Madushan, the younger brother of Kuruppu, Madina Madushan, the younger brother of Kuruppu, Gilina Madushan, who had been deployed in Kuruppu, Gilinashan, who was involved in the van.The police said in court that he was supported.
+
+The driver of the suspect has come to Sri Lanka to the death of his mother, and the police have been arrested by the police that he had fled to Bangkok to travel back to Japan after the accident occurred.
 
 ◼️
 
 [Data](articles/ee7ddbd2.json)
+
+[Extended Data](ext_articles/ee7ddbd2.ext.json)
 
 ---
 
@@ -2231,27 +2289,5 @@ However, Premadasa has other commitments on the dates proposed by the NPP, he sa
 [Data](articles/6096031f.json)
 
 [Extended Data](ext_articles/6096031f.ext.json)
-
----
-
-### Sri Lanka closes express highway, tightens security for Iran President’s visit
-
-*2024-04-24 08:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-closes-express-highway-tightens-security-for-iran-presidents-visit-159828/) · `en`
-
-ECONOMYNEXT – Sri Lanka has tightened security in capital Colombo and southern districts amid plans to close its key airport express highway on Wednesday for the Iran President Ebrahim Raisi’s short visit to launch Uma Oya Multipurpose Development Project.
-
-Raisi will inaugurate the irrigation and hydropower project that was designed and built by Iranian engineering firm. The project was initially financed by Tehran before U.S. sanctions hit the project.
-
-Raisi’s visit comes 10 days after Iran unleashed a barrage of missiles and drones targeting Israel in retaliation for April 1’s suspected Israeli strike on its consulate in Damascus, which killed 13 people.
-
-A special security programme and traffic plan have been in place on Wednesday (24) for President Raisi’s visit, Police Spokesman Nihal Thalduwa said.
-
-The special security plan will be implemented with the support of elite police force and armed forces.
-
-...
-
-[Data](articles/cf8d718a.json)
-
-[Extended Data](ext_articles/cf8d718a.ext.json)
 
 ---

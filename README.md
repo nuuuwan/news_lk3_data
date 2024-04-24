@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-24 09:03:35**
+As of **2024-04-24 09:18:37**
 
 ## Newspaper Stats
 
-*Scraped **20,575** Articles*
+*Scraped **20,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,117
 dailyftlk | 1,151
 economynextcom | 1,166
-adalk | 1,712
+adalk | 1,714
 tamilmirrorlk | 2,370
-adaderanalk | 2,450
+adaderanalk | 2,451
 virakesarilk | 3,088
 dailymirrorlk | 3,211
-adaderanasinhalalk | 3,329
+adaderanasinhalalk | 3,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,574 (100.0%) of 20,575 articles have been extended.
+20,575 (100.0%) of 20,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-24 (Wednesday)
+
+### Iranian President to arrive in Sri Lanka today; special traffic plains implemented
+
+*2024-04-24 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98804/iranian-president-to-arrive-in-sri-lanka-today-special-traffic-plains-implemented) · `en`
+
+Sri Lanka and Iran will sign five Memorandums of Understanding (MoUs) today, in a bid to bolster the bilateral relations between the two nations.
+
+The signing of the agreements will coincide with the one-day visit of Iranian President Dr. Ebrahim Raisi, the President’s Media Division (PMD) said.
+
+The Iranian president is set to arrive in Sri Lanka today after wrapping up his three-day visit to neighbouring Pakistan. This is the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
+
+During his brief visit to the island nation, Dr. Raisi, together with President Ranil Wickremesinghe, will participate in a public ceremony to mark the inauguration of the Uma Oya Multipurpose Development Project (UOMDP).
+
+...
+
+[Data](articles/1491b177.json)
+
+---
 
 ### Three-day parliamentary debate on Easter attacks begins today
 
@@ -49,6 +67,26 @@ Subsequently, it has been decided to take up the adjournment debate on the Easte
 [Data](articles/bb46296f.json)
 
 [Extended Data](ext_articles/bb46296f.ext.json)
+
+---
+
+### කොළඹ විශේෂ රථවාහන සැලසුමක්
+
+*2024-04-24 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195914) · `si`
+
+උමා ඔය ව්‍යාපෘතිය විවෘත කිරීමේ අවස්ථාව සඳහා ඉරාන ජනාධිපතිවරයා ශ්‍රී ලංකාවට පැමිණීමත් සමග විශේෂ ආරක්ෂක සැලැස්මක් සහ රථවාහන සැලැස්මක් ක්‍රියාත්මක කෙරෙන බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසුවේ උදෑසන 9.30 සිට 11 දක්වා කාලය ඇතුළත කොටස් වශයෙන් මත්තල සිට උමා ඔය දක්වා වූ මාර්ගය වසා තැබෙන බවය.
+
+මේ අතර, අද පස්වරු 2 සිට 3 දක්වා කාලය තුළ කටුනායක කොළඹ අධිවේගී මාර්ගය සම්පූරණයෙන් වසා තැබෙන බවද නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පැවසීය.
+
+එසේම අධිවේගී මාර්ගයේ සිට පෑලියගොඩ, ඔරුගොඩවත්ත මංසන්ධිය, දෙමටගොඩ, බොරැල්ල, ඩී එස් සේනානායක මංසන්ධිය, හෝටන් පෙදෙස, හෝටන් වටරවුම, ග්‍රීන් පාත්, පුස්තකාල වටරවුම, ආනන්ද කුමාරස්වාමි මාවත, ලිබර්ටි වටරවුම, ආර් ඒ ද මැල් මාවත, ශාත්න මයිකල් පාර, ගාලු පාර සිට කොටුව දක්වා වූ මාර්ගයත්, හිල්ටන් හෝටලය දක්වා වූ මාර්ගයත් වසා තැබීමට කටයුතු කරනවා මේ පැයක කාලසීමාව තුළ.
+
+නැවත රාත්‍රී 7.30 න් පසුව කොටුව ජනාධිපති මන්දිරය දක්වා මාර්ගය වසා තැබෙන අතර රාත්‍රී 9.30 න් පසු කොළඹ කොටුව සිට NSA වටරවුම ගාලුපාර, ඇතුළු මාර්ග කිහිපයක් වසා තැබෙනු ඇත.
+
+...
+
+[Data](articles/fb2a693c.json)
 
 ---
 
@@ -87,6 +125,22 @@ He was later produced before the Puttalam Magistrate's Court and remanded until 
 [Data](articles/7b148235.json)
 
 [Extended Data](ext_articles/7b148235.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය ජාවාරමේ පිය පුතු රඳවාගෙන ප්‍රශ්න කිරිමට යයි
+
+*2024-04-24 07:47:25* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරමේ-පිය-පුතු-රඳවාගෙන-ප්‍රශ්න-කිරිමට-යයි/11-409228) · `si`
+
+මහා පරිමාණයේ හෙරෝයින් ජාවාරමේ හා අපරාධ කල්ලියක නියුතු පිය පුතූ දෙදෙනකු හෙරෝයින් ග්‍රෑම් 10 ක් හා කඩුවක් , යුධ හමුදා කමාන්ඩෝ  නිලඇදුම් කට්ටලයක්ද ඊ‍යේ (23දා) පෝය දින කහතුඩුව ප්‍රදේශයේදී කහතුඩුව  පොලීසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය කියයි.
+
+මෙම දෙදෙනා තැනින් තැන නවාතැන් ගෙන මහ පරිමාණයේ ජාවාරම්කරුවන්ගෙන් ලබා ගන්නා හෙරෝයින් ඊෂි කෑෂ් ක්‍රමයට දීර්ඝකාලීනව කහතුඩුව, හොරණ, පිළියන්දල,  මොරටුව, ලුනාව, බොරලැස්ගමුව යන ප්‍රදේශවලට  අලෙවිකර ඇති බවට මූලික විමර්ශන වලට අනුව අනුවරණයවී ඇතැයිද පොලීසිය කියයි .
+
+සැකකරුවන්ට  මෙම හමුදා නිල ඇදුම් ලැබුනේ කෙසේද යන්න හෙලි නොකිරීමත් , ඒවා යොදාගන ප්‍රදේශයේ   තවත් විවිධ  අපරාධ සිදුකර ඇති බවට සැක කරන පොලීසිය  අධිකරණයෙන් ලබාගත් රැදවුම් නියෝග මත රදවා තබාගන වැඩිදුර  ප්‍රශ්න කරමින්  පරීක්ෂණ  සිදු කරගන යනු ලබන බවත් පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/d0c8b476.json)
 
 ---
 
@@ -1138,15 +1192,33 @@ President Ranil Wickremesinghe and his Iranian counterpart are scheduled to join
 
 According to the police media division, the main road from Mattala to Uma Oya is planned to be temporarily closed from 9.45 a.m. to 11 a.m. and again from noon to 1 p.m.
 
-Meanwhile, the Colombo-Katunayake expressway will remain closed for a period of one hour from 2 p.m. to 3 p.m. and again after 8.30 p.m.
+Meanwhile, sections of the Colombo-Katunayake expressway will remain closed for a period of one hour from 2 p.m. to 3 p.m. and once again after 8.30 p.m.
 
-In addition, vehicular movement in and around Colombo -- Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road -- too will be restricted from 2 p.m. to 3 p.m.
+In addition, vehicular movement in and around Colombo -- Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road -- too will be restricted between 2 p.m. and 3 p.m.
 
 ...
 
 [Data](articles/75f43199.json)
 
 [Extended Data](ext_articles/75f43199.ext.json)
+
+---
+
+### රජය ආදායම් ඉලක්ක අභිභවා යයි
+
+*2024-04-23 22:57:28* · [`adalk`](https://www.ada.lk/breaking_news/රජය-ආදායම්-ඉලක්ක-අභිභවා-යයි/11-409227) · `si`
+
+2024 පළමු කාර්තුව තුළ අපේක්ෂිත රාජ්‍ය ආදායම ඉක්මවා යාමට හැකි වී ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි. ඔහු පවමන්නේ මෙරට ප්‍රධාන ආදායම් ලබන ශ්‍රී ලංකා රේගුව, සුරාබදු සහ දේශීය ආදායම් යන දෙපාර්තමේන්තු උපයා ඇති ආදායම රුපියල් බිලියන 834ක් බවයි. එය අපේක්ෂිත ආදායම වූ රුපියල් බිලියන 787ට වඩා 6%ක ආදායම් ඉලක්ක අභිබවා යාමක් බවද අමාත්‍යවරයා පවසයි.
+
+2024 වසරේ පළමු කාර්තුව සඳහා දේශීය ආදායම් දෙපාර්තමේන්තුව වෙත ලබා දී තිබූ රුපියල් බිලියන 381 ඉක්මවා 13%ක ආදායමක් ලබමින් රුපියල් බිලියන 430ක් උපයා ඇතැයි අමාත්‍යවරයා සඳහන් කරයි.
+
+රේගු දෙපාර්තමේන්තුව රුපියල් බිලියන 353ක ඉලක්කය වෙත ළගා වීමට සමත් වී ඇති අතර සුරාබදු දෙපාර්තමේන්තුව ද අදායම් ඉල්ලකවලින් 96%ක් ලබා ගනිමින් රුපියල් බිලියන 51ක ආදායමක් උපයා ඇතැයි ද අමාත්‍යවරයා කියා සිටී.
+
+2024 වසර තුළ රජය රුපියල් බිලියන 4,106ක ආදායමක් අපේක්ෂා කරන බවද අමාත්‍යවරයා පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/49b62a68.json)
 
 ---
 
@@ -1255,6 +1327,8 @@ The award selection criteria, as outlined by the Colombo Ports Awards committee,
 ...
 
 [Data](articles/6e6d7692.json)
+
+[Extended Data](ext_articles/6e6d7692.ext.json)
 
 ---
 
@@ -2073,103 +2147,5 @@ However, during this transition period, the Regional Consular Offices in Jaffna,
 [Data](articles/e33548d9.json)
 
 [Extended Data](ext_articles/e33548d9.ext.json)
-
----
-
-### Chamari Atapattu is the first place
-
-*2024-04-23 17:09:34* · [`adalk`](https://www.ada.lk/sports/චමරි-අතපත්තු-ලෝකයෙන්ම-පළමු-තැනට/9-409225) · `si`
-
-Chamari Atapattu, Sri Lanka's top women's cricketer, tops the World Women's Batturus Rankings, earning the highest bonus marks. She scored 195 runs in South Africa, bringing her total to 3,513 runs, including nine centuries and 16 half centuries.
-
-🟩
-
-Sri Lanka Women's Cricket Leader Chamari Atapattu has arrived in the first place in World Women's Batturus Rankings.
-
-According to the latest ranking of the International Cricket Council, she has come to the first place with the highest bonus marks of its cricket.
-
-She has come forward with the graduation of the 195 runs in South Africa.
-
-Chamari is now scored 3,513 runs with nine centuries and 16 half centuries.
-
-◼️
-
-[Data](articles/89236925.json)
-
-[Extended Data](ext_articles/89236925.ext.json)
-
----
-
-### Court order issued against CEB trade unionists’ protest tomorrow
-
-*2024-04-23 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98796/court-order-issued-against-ceb-trade-unionists-protest-tomorrow) · `en`
-
-The Colombo Chief Magistrate’s Court has delivered an order against the protest march planned to be staged by the Ceylon Electricity Board (CEB) employees’ union near the Polduwa Junction in Welikada police area tomorrow (24).
-
-Accordingly, the trade union’s secretary Ranjan Jayalal, its members and other participants are barred from engaging in a protest march that gets in the way of vehicular movement and pedestrians.
-
-Further, the court order has prohibited them from behaving in an unruly manner during the course of the demonstration.
-
-The order was issued after taking into consideration a request made by the Officer in Charge (OIC) of Welikada Police, pursuant to the provisions of the Code of Criminal Procedure.
-
-◼️
-
-[Data](articles/2f281231.json)
-
-[Extended Data](ext_articles/2f281231.ext.json)
-
----
-
-### The largest irrigation project after the Mahaweliya opens
-
-*2024-04-23 16:58:30* · [`adalk`](https://www.ada.lk/breaking_news/මහවැලියට-පසු-දැවැන්තම-වාරි-ව්‍යාපෘතිය-හෙට-ජන-අයිතියට/11-409224) · `si`
-
-The Uma Oya Multipurpose Development Project in Sri Lanka, funded by Iran, aims to alleviate water shortages in the southeastern dry zone by irrigating 4500 hectares of new land and 1500 hectares of old land, supplying 290 GWh of electricity, and meeting drinking and industrial water needs in Badulla, Moneragala, and Hambantota. The project, completed in 2024, was delayed due to unpredictable maintenance, financial challenges, and the Covid-19 pandemic, extending its completion to March 2025. It features a unique 700-meter tunnel design and is expected to irrigate 1500 hectares of land and 4500 new developed land.
-
-🟩
-
-Iran to open Uma Oya Multipurpose development project tomorrow
-
-290 GWhs of GPPs (290 GWh) electricity to the national grid.
-
-New agricultural land is irrigated for 4500 hectares of land and 1500 hectares of old land.
-
-Drinking and industrial water requirements are available in Badulla, Moneragala and Hambantota areas.
-
-Irania President Irabhim Reli is due to join the country to join the public to open the Uma Oya Multipurpose Development Project.
-
-The Iranian President is one of the first time a Iranian president will visit Sri Lanka after the special invitation of President Ranil Wickremesinghe.
-
-Five MoUs will also be signed in parallel to the President's visit to the Iranian president of Iranian bilateral boasts.
-
-The Uma Oya Multipurpose Development Project will be opened by the Uma Oya Multipurpose Development Project at the patronage of Iran-Sri Lankan presidents on the 24th morning.
-
-...
-
-[Data](articles/d9c70e2b.json)
-
-[Extended Data](ext_articles/d9c70e2b.ext.json)
-
----
-
-### Top Chinese delegation meets Anura Kumara
-
-*2024-04-23 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-Chinese-delegation-meets-Anura-Kumara/108-281212) · `en`
-
-Colombo, April 23 (Daily Mirror)-A top delegation of the Chinese Communist Party headed by Vice Minister of the International Department, Sun Haiyan met National People's Power (NPP) leader Anura Kumara Dissanayake at the JVP head office today.
-
-The delegation included head of the International Department of the Chinese Communist Party Liu Jianchao and Political Counsellor of the Chinese Embassy in Sri Lanka Chen Xiang Yuan.
-
-They discussed matters related to the current political situation in the country and upcoming elections.
-
-The NPP representatives briefed the delegation about the NPP's preparation for the election and the need to create political stability to rescue the country from the crisis situation.
-
-NPP MPs Vijitha Herath, Harini Amarasuriya, NPP members Sunil Hadunnetti and Prof. Anil Jayantha participated in the discussion.
-
-◼️
-
-[Data](articles/17e060fc.json)
-
-[Extended Data](ext_articles/17e060fc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 12:04:30**
+As of **2024-04-25 12:18:31**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 3,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,860 (100.0%) of 20,864 articles have been extended.
+20,864 (100.0%) of 20,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### பெரும் கூட்டணியை உருவாக்க முக்கியஸ்தர்கள் சந்திப்பு
+### Meeting the major coalition
 
 *2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-முக்கியஸ்தர்கள்-சந்திப்பு/175-336310) · `ta`
 
-பரந்த அரசியல் கூட்டணியை உருவாக்குவதற்கான அதன் முதல் நடவடிக்கையாக, ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ஷ மற்றும் ஏனைய கட்சிகள் மற்றும் குழுக்களின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியதுடன் மே தினத்திற்கு பின்னர் ஜனாதிபதி தேர்தலை கருத்தில் கொண்டு அரசியல் பணிகளை துரிதப்படுத்த தீர்மானித்துள்ளார்.
+President Ranil Wickremesinghe met with Sri Lanka PA (SLPP) and other parties to form a political alliance, deciding to expedite tasks post-May Day. The UNP and SLPP plan a May Day rally and a coalition for the presidential election, with the president contesting under a common candidate's symbol. Vajira Abeywardena and Minister Ales will register a new coalition. The President aims to campaign against the IMF in June. Parliamentarians and PHU have been invited to join the new coalition.
 
-கூட்டத்தில் மகஜன எக்சத் பெரமுனவை பிரதிநிதித்துவப்படுத்தி பிரதமர் தினேஷ் குணவர்தன கலந்துகொண்டார். மேலும், அமைச்சர்களான பிரசன்ன ரணதுங்க, டிரான் அலஸ், ஹரின் பெர்னாண்டோ, காஞ்சன விஜேசேகர, பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே மற்றும் அனுர பிரியதர்ஷன யாப்பா ஆகியோர் செவ்வாய்க்கிழமை மாலை இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டனர். ஐக்கிய தேசியக் கட்சியை (UNP) பிரதிநிதித்துவப்படுத்தி ஜனாதிபதியின் பிரதானி சாகல ரத்நாயக்கவும் கலந்து கொண்டார்.
+🟩
+
+As a first step to forming a vast political alliance, President Ranil Wickremesinghe met with representatives of the Sri Lanka PA (SLPP), Basil Rajapaksa and other parties and groups and decided to expedite the political tasks after May Day.
+
+Prime Minister Dinesh Gunawardena represented the meeting. Ministers Prasanna Ranatunga, Tran Ales, Harin Fernando, Kanchana Wijesekera, Member of Parliament Mahindananda Aluthgamage and Anura Priyadarshana Yapa were present at the meeting on Tuesday evening.. President of the President Sagala Ratnayake also attended the UNP (UNP).
+
+The United National Party (UNP) led by the president and the Sri Lanka Peoples Freedom Alliance (PA) decided to hold a separate May Day rally and then, in view of the presidential election, as a coalition with other parties.
+
+The president will contest the election on the symbol of the coalition that comes up as a common candidate this time.
 
 ...
 
 [Data](articles/16b8296c.json)
+
+[Extended Data](ext_articles/16b8296c.ext.json)
 
 ---
 
@@ -348,6 +358,8 @@ The Colombo Stock Exchange was up; The All Share Price Index was up 0.05 percent
 
 [Data](articles/33c109d1.json)
 
+[Extended Data](ext_articles/33c109d1.ext.json)
+
 ---
 
 ### Certain Breid Couples 30 Gentines
@@ -637,6 +649,8 @@ Advertisements for outbound travel including for pilgrimages to India (Dambadiva
 ...
 
 [Data](articles/8e43b7b3.json)
+
+[Extended Data](ext_articles/8e43b7b3.ext.json)
 
 ---
 
@@ -1935,6 +1949,8 @@ A catering company and a company involved in assembling air conditioning parts a
 ...
 
 [Data](articles/8a4d6f7c.json)
+
+[Extended Data](ext_articles/8a4d6f7c.ext.json)
 
 ---
 

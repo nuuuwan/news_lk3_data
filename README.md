@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 18:34:16**
+As of **2024-04-25 18:50:33**
 
 ## Newspaper Stats
 
-*Scraped **20,941** Articles*
+*Scraped **20,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,751
+adalk | 1,752
 tamilmirrorlk | 2,423
 adaderanalk | 2,494
 virakesarilk | 3,149
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,940 (100.0%) of 20,941 articles have been extended.
+20,941 (100.0%) of 20,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -432,19 +432,25 @@ According to a complaint lodged with a complaint with a financial fraud, he was 
 
 ---
 
-### සන්නස්ගලට ඇප
+### Santoras released on bail
 
 *2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගලට-ඇප/11-409264) · `si`
 
-රුපියල් ලක්ෂ 10ක මුදල් ගනුදෙනුවක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් උපුල් ශාන්ත සන්නස්ගල මහතා ඇප මත මුදා හැර තිබේ.
+Upul Shantha Sannrasgala, arrested for cash deal, released on bail.
+
+🟩
+
+Mr. Upul Shantha Sannrasgala, who was arrested in connection with a cash deal, was released on bail.
 
 ජනප්‍රිය YouTube වැඩසටහන් නිර්මාණ කරුවකුසේම මීට පෙර උපකාරක පන්ති ගුරුවරයකුව සිටි උපුල් ශාන්ත සන්නස්ගල පොලීිසිය විසින් අත්අඩංගුවට ගෙන තිබෙනවා.
 
-රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්දව සිදුකළ පැමිණිල්ලකට අනුව සිදුකල විමර්ශනවලට අදාළව සැකපිට ඔහු අත්අඩංගුවට ගෙන ඇතිබව වාර්තා වනවා.
+According to a complaint lodged with a complaint with a financial fraud, he was arrested on suspicion.
 
 ◼️
 
 [Data](articles/d4de2816.json)
+
+[Extended Data](ext_articles/d4de2816.ext.json)
 
 ---
 
@@ -749,6 +755,28 @@ Memorandum of Understanding (MoU) signed between Sri Lanka and Iran Cooperation.
 [Data](articles/5047b0a7.json)
 
 [Extended Data](ext_articles/5047b0a7.ext.json)
+
+---
+
+### 2023දී මත්පැන් නිශ්පාදකයන්  රජයට බිලියන 1.1ක පොල්ලක් තියයි
+
+*2024-04-25 13:48:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-මත්පැන්-නිශ්පාදකයන්--රජයට-බිලියන-1-1ක-පොල්ලක්-තියයි/11-409259) · `si`
+
+2023 වසරට අදාළව මත්පැන් නිෂ්පාදකයින්ගෙන් අයවිය යුතු හිඟ බදු මුදල් ජූනි 30 වැනිදා වන විට අයකර ගැනීමට කටයුතු ක‍රන්න - ක්‍රම හා විධි පිළිබඳ කාරක සභාවෙන් ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුවට නියෝගයක්
+
+2023 වසරට අදාළව මත්පැන් නිෂ්පාදකයින්ගෙන් අයවිය යුතු හිඟ බදු මුදල් ප්‍රමාණය රුපියල් බිලියන 1.1ක් - ක්‍රම හා විධි පිළිබද කාරක සභාවේදී අනාවරණය වෙයි.
+
+මත්පැන් බලපත්‍රයක් නිකුත් කරන විට නිෂ්පාදන ධාරිතාවය අනුව ඇප මුදල්  තීරණය කරන්න - කාරක සභාවෙන්  සුරාබදු දෙපාර්තමේන්තු නිලධාරීන්ට උපදෙස්.
+
+අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය අලෙවියෙන් අයුතු ලාභ උපයන පාර්ශ්වයන් හඳුනාගැනීමට පාරිභෝගික සේවා අධිකාරිය විසින් සමීක්ෂණයක් සිදු කළ යුතුයි
+
+පාරිභෝගික සේවා අධිකාරිය මගින් නියම කර ඇති ඇස්තමේන්තු සිල්ලර මිල පරාසයට අනුව අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය අලෙවි නොකරන පුද්ගලයන්ට එරෙහිව පාරිභෝගික සේවා අධිකාරිය විසින් ක්‍රියාමාර්ග ගත යුතුයි
+
+පාර්ලිමේන්තුවේ ක්‍රම හා විධි පිළිබඳ කාරක සභාව 2024.04.24 දින එහි සභාපති පාඨලී චම්පික රණවක මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේ දී රැස්විය.
+
+...
+
+[Data](articles/5b9d1bb1.json)
 
 ---
 
@@ -2257,29 +2285,5 @@ The debate was launched yesterday (24) and will be held tomorrow (26).
 [Data](articles/df1e8416.json)
 
 [Extended Data](ext_articles/df1e8416.ext.json)
-
----
-
-### Vavuniya Human Rights Commission Police and Forest Department
-
-*2024-04-25 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181896) · `ta`
-
-The Vavuniya Human Rights Commission investigated the arrest of eight individuals, including a temple priest, after a fire in a forest area. The Forest Department, police, and temple administration were involved. The police arrested the individuals based on an Archaeological Department letter and the fire. The temple administration was criticized for not worshipping the temple and providing water. The Human Rights Commission requested evidence and asked the temple administration to submit it by Friday.
-
-🟩
-
-Investigations have been carried out by the Vavuniya Human Rights Commission in connection with the arrest of eight persons, including the temple priest at the Adisivan Temple at the Adivasivan Temple.
-
-Investigations were carried out by the Nedungeni police, the forest department and the temple administration, which was invited to the Office of the Human Rights Commission on Wednesday (24), located on the inner road in Vavuniya.
-
-The Forest Department told the Human Rights Commission that the fire had been closed in their forest area when they went there and that plastic products, cooking waste and temple coating were poured there.
-
-According to the incident, the police said that they were arrested due to the letter of the Archaeological Department and the fire in the forest area, and that they had not taken any attack on anyone and not taken the hunt and took half naked.
-
-...
-
-[Data](articles/397f1987.json)
-
-[Extended Data](ext_articles/397f1987.ext.json)
 
 ---

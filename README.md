@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 21:18:31**
+As of **2024-04-25 21:34:15**
 
 ## Newspaper Stats
 
-*Scraped **20,979** Articles*
+*Scraped **20,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,193
 adalk | 1,758
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
-virakesarilk | 3,163
+virakesarilk | 3,165
 dailymirrorlk | 3,266
 adaderanasinhalalk | 3,385
 
@@ -26,41 +26,85 @@ adaderanasinhalalk | 3,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,976 (100.0%) of 20,979 articles have been extended.
+20,979 (100.0%) of 20,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### මෛත්‍රී මහින්දගෙන් මිලියන 1000ක වන්දි ඉල්ලයි
+### அதிவேக நெடுஞ்சாலையில் கார் விபத்து
+
+*2024-04-25 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181959) · `ta`
+
+கொழும்பு-கட்டுநாயக்க அதிவேக நெடுஞ்சாலையின் ஜா-எல நுழைவாயிலில் இன்று பிற்பகல் 3.00 மணியளவில் கார் ஒன்று விபத்துக்குள்ளானது.
+
+நெடுஞ்சாலையில் இருந்து ஜா -எல நோக்கி பயணித்த கார் விபத்துக்குள்ளாகி கவிழ்ந்து சுமார் 20 மீற்றர் தூரம் வரை புரண்டு சென்றுள்ளதாக  சம்பவத்தை பார்த்த ஒருவர் தெரிவித்துள்ளார்.
+
+கடந்த காலங்களில் இந்த இடத்தில் வாகனங்கள் கவிழ்ந்து விபத்துக்கள் ஏற்பட்டுள்ளதாகவும் இதனால்  பத்து பேர் உயிரிழந்துள்ளதாக அப்பகுதி மக்கள் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/e43d5731.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தின குண்டுத்தாக்குதல்களின் சாபத்தினால் ராஜபக்ஷர்கள் பதவி விலகினார்கள் - கிரியெல்ல
+
+*2024-04-25 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181949) · `ta`
+
+உயிர்த்த ஞாயிறுதின குண்டுத்தாக்குதல்களின் சாபத்தினால் தான்  பொதுஜன பெரமுனவின் ஜனாதிபதி, பிரதமர் பதவி விலகினார்கள். கடவுளின் நீதிமன்றத்தில் இருந்து எவரும் தப்பிக்க முடியாது.
+
+பொறுப்புக் கூற வேண்டியவர்கள் தண்டனைக்கு தயாராக வேண்டும். குண்டுத்தாக்குதலை நடத்த புலனாய்வு பிரிவினரே இடமளித்தார்கள். உண்மை நிச்சயம் வெளிவரும் என எதிர்க்கட்சிகளின் பிரதான கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25)  இடம்பெற்ற உயிர்த்த ஞாயிறு தின குண்டுத்தாக்குதல்கள் தொடர்பான சபை ஒத்திவைப்பு இரண்டாம் நாள் விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/097553ad.json)
+
+---
+
+### Maithri seeks to compensation for 1000 million
 
 *2024-04-25 20:13:41* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-මහින්දගෙන්-මිලියන-1000ක-වන්දි-ඉල්ලයි/11-409273) · `si`
 
-තමා සම්බන්ධයෙන් අමාත්‍ය මහින්ද අමරවීර මහතා විසින් සිදු කළ ප්‍රකාශ කිහිපයක් නිසා ඇති වූ  අපහාසයට රුපියල් මිලියන දහසක (1000) වන්දි මුදලක් ඉල්ලා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා  නීතිඥයෙකු මාර්ගයෙන්  එම අමාත්‍යවරයාට  එන්තරවාසියක් යවා  තිබේ.
+Maithripala Sirisena demands $1000 million compensation, sending a letter via a lawyer to Minister Mahinda Amaraweera. The letter states a payment of the amount within 14 days, with interest to be recovered if not paid. The claim was made on the 22nd, 24 years ago.
 
-එම ලිපිය මගින් පෙන්වා දී තිබෙන්නේ   දින 14 ක් තුළ අදාළ මුදල සේවාදායකයා වෙත ගෙවන ලෙසය. මුදල ගෙවීම පැහර හැරියහොත්  එම මුදල හා  නෛතික පොලිය අයකර ගැනීම සඳහා  නඩුපවරන බව සඳහන් කර ඇත.
+🟩
 
-අමාත්‍ය මහින්ද අමරවීර මහතා විසින් පසුගිය 22 වන දින හා 24 වන දින සිදුකළ ප්‍රකාශ කිහිපයක් නිසා සිදුවී ඇතැයි කියන අපහාසය මුල් කර ගෙන මේ එන්තරවාසිය යවා තිබේ.
+Former President Maithripala Sirisena has sent an election to the Minister through a lawyer by a lawyer of a number of statements made by Hon.
+
+The letter indicated that the relevant amount is paid to the server within 14 days. If the amount is paid, the amount and legal interest is indicated to recover the amount and legal interest.
+
+The Minister Mahinda Amaraweera has been sent on the 22nd and the claim that he had taken place on the 22nd and the 24 years.
 
 ◼️
 
 [Data](articles/9b19df49.json)
 
+[Extended Data](ext_articles/9b19df49.ext.json)
+
 ---
 
-### දුමින්ද ශ්‍රීලංනිප වැඩබලන මහ ලේකම් ධුරයට
+### Duminda to be appointed SLFP acting Secretary
 
 *2024-04-25 20:08:48* · [`adalk`](https://www.ada.lk/breaking_news/දුමින්ද-ශ්‍රීලංනිප-වැඩබලන-මහ-ලේකම්-ධුරයට/11-409272) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහලේකම්වරයා ලෙස දුමින්ද දිසානායක මහතා පත් කර තිබේ.
+Duminda Dissanayake appointed as Acting Secretary General of the Sri Lanka Freedom Party by the Politburo. He is also the National Organizer. The Political Board will inform the Election Commission tomorrow.
 
-එම පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මෙම පත් කිරීම අද (25දා) සිදුකර තිබේ. දුමින්ද දිසානායක මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක වරයා  වශයෙන්ද කටයුතු කරයි.
+🟩
 
-දේශපාලන මණ්ඩලය විසින් ගත් මෙම නීන්දුව මැතිවරණ කොමිෂන් සභාව වෙත හෙට (26දා) දන්වා යැවීමට කටයුතු කරන බවද ශ්‍රීලංකා නිදහස් පක්ෂය සඳහන් කරයි.
+Duminda Dissanayake has been appointed as Acting Secretary General of the Sri Lanka Freedom Party.
+
+The appointment was made by the party's Politburo (25). Duminda Dissanayake is also the National Organizer of the SLFP.
+
+The Political Board (SLC) will inform the Election Commission tomorrow (26).
 
 ◼️
 
 [Data](articles/16f4f6e0.json)
+
+[Extended Data](ext_articles/16f4f6e0.ext.json)
 
 ---
 
@@ -396,25 +440,31 @@ The passing out parade of a team of 100 police personnel who underwent special t
 
 ---
 
-### ජනතාව යළි අරගලයකට නොයන ආර්ථිකයක් නිර්මාණය කරනවා
+### The people create an economy that does not go back to struggle
 
 *2024-04-25 18:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-යළි-අරගලයකට-නොයන-ආර්ථිකයක්-නිර්මාණය-කරනවා/11-409267) · `si`
 
-ජනතාව යළි අරගලයකට නොයන ආර්ථික තත්ත්වයක් රට තුළ නිර්මාණය කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe highlighted the resilience of Sri Lanka's economy, which, despite facing a crisis, was rebuilt within two years. He emphasized the potential of Sri Lanka as a tourist destination, with the ITC Ratnadeepe Hotel symbolizing the country's growth. Wickremesinghe also mentioned the need for further development in Colombo, including the President's House and other landmarks, to enhance tourism and boost the economy.
 
-කඩා වැටුණු ආර්ථිකය වසර දෙකක් තුළ යළි ගොඩනැඟීමට හැකිවූ බව පෙන්වා දුන් ජනාධිපතිවරයා නැවත කඩා නොවැටෙන ආර්ථිකයක් රට තුළ ඇතිකර ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීමට කටයුතු කරන බව ද කියා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ, ITC රත්නදීප අධි සුඛෝපභෝගි හෝටලය විවෘත කිරීමේ උත්සවයට අද (25) එක්වෙමිනි .
+President Ranil Wickremesinghe said that the people are creating an economic situation that will not go back to a struggle.
 
-ගාලුමුවදොර ඉදිකර ඇති ITC රත්නදීප හෝටලය ඉන්දියාවේ ITC හෝටල් සමූහය විසින් ඉන්දියාවෙන් පිටත ඉදිකළ පළමු හෝටලය වේ.
+He said the President pointed out that the crash economy was rebuilt within two years, he said he would resume an economy in the country and improve the quality of life of the people.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය.
+President Ranil Wickremesinghe made these comments participating at the opening of ITC Ratdepi Hotel today (25).
 
-ITC සමාගම ශ්‍රී ලංකාවට සාදරයෙන් පිළිගන්නවා. ආසියාවේ පළමු තරු පහේ හෝටලය වන ගාලුමුවදොර හෝටලය මේ අසල පිහිටා තිබෙනවා. ඒවගේම ඉන්දියානු ටාජ් හෝටලය ද මේ ආසන්නයේ පිහිටා තිබෙනවා. සිංගප්පූරුවෙන් පැමිණි ෂැංග්‍රිලා හෝටලයද පිහිටා තිබෙන්නේ මේ ආසන්නයේයි. ඒ සියල්ලන්ටම වඩා උසින් දැන් ITC රත්නදීප හෝටලයද තිබෙනවා. ඒ වගේම ඊට පසුපසින් සිනමන් ලයිෆ් හෝටලය තිබෙනවා.
+The ITC Ratnadeepepepepepepi Hotel, which was built, is the first hotel built by ITC Hotel Group in India.
+
+Speaking further, President Ranil Wickremesinghe further said,
+
+Itc welcomes Sri Lanka. Galle Face Hotel, the first five star hotel in Asia, is located near this. And the Indian Taj Hotel also is located near this. Shangriila Hotel is also located in Singapore. There is also the ITC Ratnightpa Hotel in taller than all of them. And there is a Cinnamon Life Hotel.
 
 ...
 
 [Data](articles/478eb6b3.json)
+
+[Extended Data](ext_articles/478eb6b3.ext.json)
 
 ---
 
@@ -2211,57 +2261,5 @@ Opposition chief organizer Lakshman Kiriella presented this idea in Parliament. 
 [Data](articles/2fd50b5e.json)
 
 [Extended Data](ext_articles/2fd50b5e.ext.json)
-
----
-
-### Palestinian pro -Palestinian protests intensify in US universities - more than 100 students arrested
-
-*2024-04-25 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181925) · `ta`
-
-Protests against Israel at US universities intensify, with over 100 students arrested. Demonstrations began at Columbia University, New York, and spread to many universities, including Texas University and California State Politechnic University. Students demand disconnection of armed forces with Israel, leading to campus closures and arrests.
-
-🟩
-
-More than 100 students have been arrested by police who have taken stern action against students who have been protesting against Israel at US universities.
-
-Police have arrested 34 people, including journalists, who were protesting at Austin's Texas University.
-
-Such demonstrations are taking place in many universities in the United States following the launching of protests in New York's Columbia University, demanding the disconnection of the armed forces with Israel.
-
-The university was closed due to a siege within the university, using furniture tents at the Califorina State Politechnic University.
-
-Students from Hawart University, who are demanding that the university cut ties with Israel for the Gaza War and a student of a Palestinian -backed group, has set up tents inside the university campus.
-
-Thousands of students in many universities, from Massachoods to California, are engaged in protests around rallies and universities.
-
-◼️
-
-[Data](articles/d71d0bde.json)
-
-[Extended Data](ext_articles/d71d0bde.ext.json)
-
----
-
-### Minister Manusashet received a foreign-employment racket
-
-*2024-04-25 12:14:02* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ--රැකියා-ජාවාරමක්-ගැන-ඇමති-මනූෂට-ලැබුණ-ඔත්තුව/11-409256) · `si`
-
-Labor and Foreign Employment Minister Manusha Nanayakkara has received complaints about a police sergeant's appointment in Anuradhapura, involving blood tests. He emphasizes quick investigation and the importance of submitting to the Foreign Employment Bureau.
-
-🟩
-
-Labor and Foreign Employment Minister Manusha Nanayakkara says that the Foreign Employment Bureau has received complaints regarding the appointment of a police sergeant in Anuradhapura and a police sergeant.
-
-Accordingly, the complaints have been received by a sergeant to Anuradhapura by a sergeant at Anuradhapura and a police officer in the Anuradhapura temple and recovering the complaints and recovery of blood tests.
-
-The Manusha Nanayakkara has received information from the parties in Anuradhapura regarding this regarding the matter is very quick to investigate this fraud and emphasized the immediate submission of the Foreign Employment Bureau.
-
-He also said that he was arrested and he had an inquiry into the Foreign Employment Bureau to enforce the law and implement the law.
-
-◼️
-
-[Data](articles/71ff9dfd.json)
-
-[Extended Data](ext_articles/71ff9dfd.ext.json)
 
 ---

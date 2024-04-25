@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 02:52:03**
+As of **2024-04-26 03:03:40**
 
 ## Newspaper Stats
 
-*Scraped **21,022** Articles*
+*Scraped **21,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,132
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,427
+tamilmirrorlk | 2,429
 adaderanalk | 2,500
 virakesarilk | 3,169
-dailymirrorlk | 3,273
+dailymirrorlk | 3,276
 adaderanasinhalalk | 3,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,022 (100.0%) of 21,022 articles have been extended.
+21,022 (100.0%) of 21,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### A common sense alternative
+
+*2024-04-26 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-common-sense-alternative/172-281395) · `en`
+
+Sri Lanka must integrate with global production networks that require trade reforms, removal of tariffs and protections across sectors and joining free trade agreements.
+
+I hope to convince the reader that despite some of the commentary, Sri Lanka is not on the road to recovery. Numerous predictably dysfunctional policies with questionable rationalisations were implemented in 2019 and 2020; there was no discernible deliberative process. The underlying fragility of governance that precipitated the collapse is still prevalent. Two years on, the Wickremesinghe Government is exhibiting the same tendencies: a concentration of power in the office of the presidency with the executive holding the critical ministries of finance and defence; this Wickremesinghe Government has not materially altered the conditions that led to our crisis.
+
+...
+
+[Data](articles/8020cb7b.json)
+
+---
+
+### Israel’s US-backed genocide in Gaza, 200 days on
+
+*2024-04-26 02:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israels-US-backed-genocide-in-Gaza-200-days-on/172-281394) · `en`
+
+A wounded Palestinian boy receives treatment at a clinic set up by medical charity Doctors Without Borders (MSF) treating severe injuries and burns sustained in Israeli bombardment, at the Rafah Indonesian Field Hospital. Pic by Mohammed Abed/AFP)
+
+What horrible times are we living in? “Never again” was the resolve that led to the formation of a rules-based world order in the aftermath of World War II, in which some 80 million people—3 percent of the then-world population—perished. But events that followed showed humans were incapable of living in peace. People continued to die in wars across the world.
+
+But none of the myriad wars and conflicts could be as brutal as the war Israel’s hardline prime minister Benjamin Netanyahu has been waging against the hapless people of the Gaza Strip for the past 200-plus days. What is happening in Gaza is not a war; it is genocide, period.
+
+...
+
+[Data](articles/cfe94b8b.json)
+
+---
+
+### Death on the racetrack - EDITORIAL
+
+*2024-04-26 02:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Death-on-the-racetrack-EDITORIAL/172-281393) · `en`
+
+The tragic motor car accident that snuffed out the lives of seven people and injured over 20 people must be reviewed critically. At the time of writing this column only two drivers involved in the accident were initially nabbed and later released on bail. No member of the organizing committee has been arrested so far and this has led to a public outcry on social and online media platforms blaming the organizers.
+
+The public wishes to know why the organizers of the event should go unpunished when there have been deaths and injuries to spectators. Both the Government and the Sports Minister have maintained silence over the incident. Only the Opposition alliance Samagi Jana Balawegaya has demanded to know whether the organizers of the sporting event carry a liability
+
+...
+
+[Data](articles/7f4f4604.json)
+
+---
 
 ### Back to school, back to hope as LOLC Divi Saviya resumes distribution
 
@@ -188,6 +232,22 @@ Meanwhile, Minister Ali Sabri is expected to hold bilateral meetings with the to
 
 ---
 
+### தமிழர்கள் வாழக்கூடாதா: ஸ்ரீதரன் கேள்வி
+
+*2024-04-26 01:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-வாழக்கூடாதா-ஸ்ரீதரன்-கேள்வி/175-336357) · `ta`
+
+இந்த நாட்டில் தமிழர்கள் இருக்கக்கூடாது அல்லது வாழக்கூடாது  என அரசு நினைக்கின்றதா?என கேள்வியெழுப்பிய தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான எஸ்.ஸ்ரீதரன் யுத்தம் முடிந்து 15 ஆண்டுகள் நிறைவுறுவதாக சொல்லப்படுகின்ற நிலையில் கூட தமிழர்கள் சுதந்திரமாக வாழ முடியாதுள்ளது என்று சுட்டிக்காட்டினார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பற்ற 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை 2 ஆம் நாள்   விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி எழுப்பினார்.
+
+வவுனியா தோணிக்கல்லை சேர்ந்த முன்னாள் போராளியும் சமூக செயற்பாட்டாளருமான செல்வநாயகம் ஆனந்தவர்மன் என்கின்ற அரவிந்தன் கடந்த 2024 -03-26 ஆம் திகதியன்று பயங்கரவாத் குற்றத்தடுப்பு மற்றும் விசாரணை பிரிவினரால் கொழும்பில் வைத்து கைது செய்யப்பட்டு தற்போது வெலிக்கடை சிறையில் தடுத்து வைக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/561fc1b3.json)
+
+---
+
 ### In the first quarter of 2024, the government has grown beyond the goal of the state income target - Finance Minister Ranjith Siyambalapitiya
 
 *2024-04-26 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181981) · `ta`
@@ -209,6 +269,20 @@ Treasury is facing a serious challenge in managing the liquidity this year.The r
 [Data](articles/9b770aa2.json)
 
 [Extended Data](ext_articles/9b770aa2.ext.json)
+
+---
+
+### வவுணதீவு விசாரணைகள் திசை திருப்பப்பட்டன
+
+*2024-04-26 01:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுணதீவு-விசாரணைகள்-திசை-திருப்பப்பட்டன/175-336356) · `ta`
+
+வவுணதீவில் பொலிஸ் உத்தியோகத்தர்கள் இருவர் சஹ்ரான் தரப்பினரால் கொல்லப்பட்ட போது அதன் விசாரணைகள் ஏன் வேறு பக்கத்திற்கு திருப்பப்பட்டன?எனக்கேள்வி எழுப்பிய மக்கள் விடுதலை முன்னணியின் (ஜே .வி.பி.)தலைவரும்,எம்.பி.யுமான அநுரகுமார திஸாநாயக்க தாக்குதல்தாரிகளும் தாக்குதலை தடுக்கத் தவறியதாக கூறப்படும் தரப்பினரும் கூட்டாக இணைந்து உயிர்த்த ஞாயிறு தாக்குதலை நடத்தினரா என்ற சந்தேகங்கள் உள்ளதாகவும் கூறினார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை நடைபெற்ற உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பான சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்த அவர் மேலும்  பேசுகையில்,
+
+...
+
+[Data](articles/803194e4.json)
 
 ---
 
@@ -2095,113 +2169,5 @@ According to a complaint lodged with a complaint with a financial fraud, he was 
 [Data](articles/72c0edb5.json)
 
 [Extended Data](ext_articles/72c0edb5.ext.json)
-
----
-
-### Santoras released on bail
-
-*2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගලට-ඇප/11-409264) · `si`
-
-Upul Shantha Sannrasgala, arrested for cash deal, released on bail.
-
-🟩
-
-Mr. Upul Shantha Sannrasgala, who was arrested in connection with a cash deal, was released on bail.
-
-ජනප්‍රිය YouTube වැඩසටහන් නිර්මාණ කරුවකුසේම මීට පෙර උපකාරක පන්ති ගුරුවරයකුව සිටි උපුල් ශාන්ත සන්නස්ගල පොලීිසිය විසින් අත්අඩංගුවට ගෙන තිබෙනවා.
-
-According to a complaint lodged with a complaint with a financial fraud, he was arrested on suspicion.
-
-◼️
-
-[Data](articles/d4de2816.json)
-
-[Extended Data](ext_articles/d4de2816.ext.json)
-
----
-
-### JICA to commence second phase of Anuradhapura North Water Supply Project
-
-*2024-04-25 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98839/jica-to-commence-second-phase-of-anuradhapura-north-water-supply-project) · `en`
-
-The Japanese International Cooperation Agency (JICA) has agreed to commence the second phase of the Anuradhapura North Water Supply Project, says State Minister of Finance Shehan Semasinghe.
-
-He said the second phase of the project will meet the drinking water needs of 50,000 families in Padaviya, Kebithigollewa, Horowpothana and Kahatagasdigiliya divisional secretariats covering 119 Grama Niladari Divisions.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe expressed that JICA has expressed its agreement to extend the time frame for providing financial facilities for the start of the second phase of the Anuradhapura North Water Supply Project.
-
-Furthermore, he said that instructions were given to the Water Supply and Drainage Board to obtain the necessary Cabinet approval to resume the work.
-
-...
-
-[Data](articles/939bb1e9.json)
-
-[Extended Data](ext_articles/939bb1e9.ext.json)
-
----
-
-### Archbishop Cardinal rejected Malcolm Ranjith's allegations
-
-*2024-04-25 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181941) · `ta`
-
-Archbishop Cardinal rejected Malcolm Ranjith's allegations, alleging Cardinal hides facts about the terrorist attack. Gotabhaya Rajapaksa, the former President, rejected Cardinal's allegations and claimed the Muslim community did not support him. He also mentioned the appointment of a Cabinet Subcommittee to address the Presidential Commission's report findings.
-
-🟩
-
-Cardinal hides or obviously avoiding the facts of the two parties involved in the terrorist attack
-
-Former President Gotabhaya Rajapaksa, who has presented him with Archbishop Cardinal Malcolm Ranjith
-
-Former President Gotabhaya Rajapakse, who has completely rejected the allegations of Cardinal Malcolm Ranjith on the lifeblood Sunday, has stated that Cardinal hides or avoids the facts of the two parties involved in the terrorist attack.
-
-Gotabaya said that the day after the Presidential Commission handed over me to the President's Commission on the Sunday attack, Cardinal said that I was in contact with Ranjit.
-
-The former president said that the Muslim community did not vote for me and did not support me.
-
-On February 2021, the Presidential Commission's Report was handed over to me after examining it. After examining it, it was handed over to the Speaker of Parliament on February 23, 2021.
-
-...
-
-[Data](articles/5306f112.json)
-
-[Extended Data](ext_articles/5306f112.ext.json)
-
----
-
-### Parliament grants three-months leave for MP R. Sampanthan
-
-*2024-04-25 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98838/parliament-grants-three-months-leave-for-mp-r-sampanthan) · `en`
-
-TNA leader and Trincomalee District Parliamentarian R. Sampanthan has been granted leave of three months from attending Parliament sessions.
-
-The proposal to provide three-months leave was passed in the Parliament today (25).
-
-Chief Opposition Whip Lakshman Kiriella brought up the proposal in the Parliament while it was affirmed by Tamil National Alliance (TNA) MP Charles Nirmalanathan.
-
-Veteran Tamil politician R. Sampanthan, who is aged 91 years, is reported to be suffering from an illness.
-
-◼️
-
-[Data](articles/acf97336.json)
-
-[Extended Data](ext_articles/acf97336.ext.json)
-
----
-
-### Maithripala sends letter of demand to Amaraweera, seeks Rs. 1 bn compensation
-
-*2024-04-25 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98837/maithripala-sends-letter-of-demand-to-amaraweera-seeks-rs-1-bn-compensation) · `en`
-
-Former President Maithripala Sirisena has sent a letter of demand to Minister Mahinda Amaraweera, seeking Rs. 1 billion in damages over defamation.
-
-The letter of demand references an alleged statement made by Minister Amaraweera to the media on April 22 and 24 which it claims contains inaccurate and malicious comments regarding former President Sirisena.
-
-Accordingly, the letter of demand seeks Rs. 1,000 million in damages or compensation for defamation. It further states that legal action will be initiated against Minister Amaraweera if Mr. Sirisena is not compensated within 14 days.
-
-◼️
-
-[Data](articles/6d709775.json)
-
-[Extended Data](ext_articles/6d709775.ext.json)
 
 ---

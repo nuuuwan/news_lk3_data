@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 09:03:40**
+As of **2024-04-25 09:18:29**
 
 ## Newspaper Stats
 
-*Scraped **20,828** Articles*
+*Scraped **20,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,732
 tamilmirrorlk | 2,408
-adaderanalk | 2,475
+adaderanalk | 2,476
 virakesarilk | 3,136
 dailymirrorlk | 3,247
 adaderanasinhalalk | 3,362
@@ -26,31 +26,59 @@ adaderanasinhalalk | 3,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,827 (100.0%) of 20,828 articles have been extended.
+20,828 (100.0%) of 20,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### දේවගැතිවරයා දුන් ජලය පානය කළ කාන්තාව හදිසියේ මරුට
+### Sri Lanka, Russia explore avenues for enhanced defence cooperation
+
+*2024-04-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98827/sri-lanka-russia-explore-avenues-for-enhanced-defence-cooperation-) · `en`
+
+Sri Lanka’s Secretary Defence General Kamal Gunaratne has held bilateral talks with Russia’s Security Council Secretary Nikolai Patrushev in St. Petersburg.
+
+The meeting underscored the importance of fostering international cooperation and collaboration in addressing security threats and promoting peace and stability in the region, a statement from the Defence Ministry read.
+
+The discussions covered a wide range of topics, including counterterrorism efforts, cyber security and defence cooperation.
+
+Both parties expressed their commitment to strengthening bilateral ties and exploring avenues for enhanced cooperation in the security domain.
+
+The bilateral discussion took place on the sidelines of the 12th International Meeting of High-Ranking Officials Responsible for Security Matters convened in St. Petersburg, Russia from 22 - 25 April.
+
+This prestigious event serves as a platform for global leaders to discuss and address pressing security challenges facing nations today.
+
+...
+
+[Data](articles/39bc74b3.json)
+
+---
+
+### The woman, who had drank the pastor, dies
 
 *2024-04-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195947) · `si`
 
-මදුරන්කුලිය පොලිස් වසමේ දේවස්ථානයක පැවති දේවමෙහෙයක් අතරතුර ඇති වූ හදිසි රෝගී තත්ත්වයකින් කාන්තාවක් මියගොස් තිබේ.
+A 58-year-old woman died in Puttalam Hospital after a sudden illness, following a heated argument with a man. The police are investigating.
 
-පොලීසිය සඳහන් කළේ අදාළ කාන්තාව පුත්තලම රෝහල වෙත ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්වූ බවය.
+🟩
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 58 හැවිරිදි හලාවත ප්‍රදේශයේ පදිංචි දෙදරු මවකි.
+A woman was killed in a sickness of the Madurankuliya police division.
 
-විමර්ශනයේ දී අනාවරණය වී ඇත්තේ දීර්ඝ කාලයක සිට හෘදරෝගයකින් හා සෙම් රෝගයකින් එම කාන්තාව පෙළී ඇති බවය.
+The police said that the woman was admitted to the Puttalam Hospital.
 
-රෝග සුවවීම සඳහා කාන්තාව විසින් රැගෙන ආ ජලය දේවගැතිවරයා විසින් යාඥා කර නැවත එම කාන්තාවට බීමට ලබාදීමෙන් පසුව ඇති වූ හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ජීවිතක්ෂයට පත්වූ බව ද අනාවරණය වී තිබේ.
+The victim was a 58 year old resident mother of the 58 year old residents.
 
-මෘත ශරීරය පුත්තලම රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය අද (25) සිදුකිරීමට නියමිතය.
+Investigation revealed that the woman had been with a heated manner and a manmy.
+
+It has also been revealed that the pastor was brought to the woman who had been brought to the woman to recover and had died due to the sudden illness.
+
+The body has been placed at the Puttalam Hospital while the post mortem will be conducted today (25).
 
 ◼️
 
 [Data](articles/9c96b8cd.json)
+
+[Extended Data](ext_articles/9c96b8cd.ext.json)
 
 ---
 
@@ -2169,23 +2197,5 @@ Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a spec
 [Data](articles/b818d191.json)
 
 [Extended Data](ext_articles/b818d191.ext.json)
-
----
-
-### Iranian President  Ebrahim Raisi Arrives in Sri Lanka  to Inaugurate Iran -funded Irrigation and Power Project amid Media Reports of “Western Pressure” on Colombo; Lankan President Wickremesinghe  Thanks his Counterpart and says “Global South must Strive for Strength and Autonomy”.
-
-*2024-04-24 18:06:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83939) · `en`
-
-The Global South must strive for their strength and autonomy, Sri Lankan President Ranil Wickremesinghe said on Wednesday, even as he thanked his Iranian counterpart Ebrahim Raisi, who inaugurated a key power and irrigation project in the island nation.
-
-Expressing “gratitude to Iran for their technical support”, Mr. Wickremesinghe emphasised that without Iran’s assistance, Sri Lanka would not be able to execute the crucial $514 million irrigation project.
-
-Consequent to the project, around 6,000 hectares of agricultural land in three southern and central districts will receive water supply, his office said. Further, the project is expected to generate and add 120 MW to the national grid.
-
-...
-
-[Data](articles/5e2db065.json)
-
-[Extended Data](ext_articles/5e2db065.ext.json)
 
 ---

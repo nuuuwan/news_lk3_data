@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 05:38:20**
+As of **2024-04-25 05:59:07**
 
 ## Newspaper Stats
 
-*Scraped **20,787** Articles*
+*Scraped **20,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 181
 bbccomsinhala | 217
 dbsjeyarajcom | 223
 newsfirstlk | 363
-islandlk | 1,118
-dailyftlk | 1,164
+islandlk | 1,121
+dailyftlk | 1,170
 economynextcom | 1,180
 adalk | 1,731
 tamilmirrorlk | 2,407
@@ -26,11 +26,105 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,783 (100.0%) of 20,787 articles have been extended.
+20,787 (100.0%) of 20,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Imposing costs on business; disregarding ability to enforce
+
+*2024-04-25 05:42:11* · [`dailyftlk`](https://www.ft.lk/columns/Imposing-costs-on-business-disregarding-ability-to-enforce/4-761009) · `en`
+
+If this bill is not amended at the committee stage, it will impose significant costs of compliance on small businesses who are already under stress from the crisis
+
+The Gender Equality Bill has been gazetted. It requires every public institution and private institution to appoint a senior official to be responsible for gender mainstreaming and gender equality (“Gender Focal Point”). That person is legally required to prepare a plan of activities targeting their areas of responsibility and report directly to the Council on a quarterly basis with a copy to Women Parliamentarians Caucus in Parliament (section 17).
+
+If this bill is not amended at the committee stage, it will impose significant costs of compliance on small businesses who are already under stress from the crisis. It will also impose costs on State entities and large corporations, but the focus here is on small business which are least capable of meeting unfunded mandates.
+
+...
+
+[Data](articles/fe45d89d.json)
+
+---
+
+### Dissecting digital disruption: The imperative of digital literacy for today’s CEOs
+
+*2024-04-25 05:35:58* · [`dailyftlk`](https://www.ft.lk/columns/Dissecting-digital-disruption-The-imperative-of-digital-literacy-for-today-s-CEOs/4-761008) · `en`
+
+A golden rule for leaders embarking on digital transformation is to educate themselves. This education is not merely academic; it is a necessary step in becoming conversant in the language of technology, a prerequisite for the formulation and execution of effective digital strategies – adapted from Rewired, McKinsey, 2021.
+
+We have never seen change like we experience today. In today›s VUCA (Volatile, Uncertain, Complex, and Ambiguous) world, corporate leaders find themselves rowing not in the calm waters but in the turbulent rapids of white-water rafting. The calm predictability of the past has given way to a landscape where constant change is the only constant.
+
+Amidst this turbulence, one of the most significant drivers of change has been technology, whose capabilities are expanding at a staggering rate. There are three factors that create these ‘disruptive’ trends, which need to be understood in the right magnitude and scale.
+
+...
+
+[Data](articles/fe65951c.json)
+
+---
+
+### Why stories make business sense
+
+*2024-04-25 05:31:41* · [`dailyftlk`](https://www.ft.lk/columns/Why-stories-make-business-sense/4-761007) · `en`
+
+Stories have been a primary means of transmitting knowledge and cultural values across generations. Community reading in the Temple in Sri Lanka circa 1923 from a hand etching by Charles W. Bartlett
+
+The thirst for stories is evidenced in how people attended book fairs through the pandemic and economic restrictions. So much so, that we wonder whether our collective appetite for stories is only heightened in crises. Photo by B.Ganguly.
+
+...
+
+[Data](articles/48729d9a.json)
+
+---
+
+### Hambantota Port’s container services will make Sri Lanka a key logistics hub in Indian Ocean
+
+*2024-04-25 05:25:55* · [`dailyftlk`](https://www.ft.lk/columns/Hambantota-Port-s-container-services-will-make-Sri-Lanka-a-key-logistics-hub-in-Indian-Ocean/4-761006) · `en`
+
+Sri Lanka is an island nation situated in a strategically important location in the Indian Ocean Region at the centre of maritime trade routes in between East and West, as well as in the middle of Africa, the Arab, and Eastern worlds and is surrounded by the Bay of Bengal and the Arabian Sea.
+
+Sri Lanka’s location enables the country to provide quick and efficient global and regional connectivity to move cargo to and from Asia to the rest of the world. More than 60,000 ships ply this route annually, carrying two-thirds of the world’s oil and half of the global containerised traffic.
+
+Sri Lanka, also located very close to all major ports in the Indian subcontinent, especially those of India, with the rising middle class, makes it a prime location that is able to provide fast and easy connectivity to the Indian subcontinent through its feeder network.
+
+...
+
+[Data](articles/2e2ae087.json)
+
+---
+
+### We need a revisionist president, not merely a reformist one
+
+*2024-04-25 05:21:57* · [`dailyftlk`](https://www.ft.lk/columns/We-need-a-revisionist-president-not-merely-a-reformist-one/4-761005) · `en`
+
+SJB presidential campaign manager Sujeewa Senasinghe and live-wire SM Marikkar accuse President Wickremesinghe of refusing the SJB its request of venue for May 1st and switching that preferred location to the JVP-NPP instead.
+
+Meanwhile, six SJB MPs including shadow Finance Minister Dr Harsha de Silva accept decentralized funds from President Wickremesinghe allegedly without obtaining party permission. (https://www.dailymirror.lk/breaking-news/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/108-281121)
+
+Is Ranil already a shareholder of the SJB, while simultaneously undermining it? Is he patronizing policy proxies in the SJB?
+
+Little wonder then, as Prof Charitha Herath noted, that the SJB challenges the JVP-NPP to a debate on economics, but doesn’t challenge the incumbent and his administration with its austerity policies, to any such debate.
+
+...
+
+[Data](articles/f8a6ff10.json)
+
+---
+
+### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
+
+*2024-04-25 05:19:28* · [`dailyftlk`](https://www.ft.lk/opinion/Austerity-dispossession-and-injustice-Facets-of-the-debt-crisis-in-Sri-Lanka/14-761004) · `en`
+
+The widespread and ongoing debt crisis today is a wakeup call
+
+Sri Lanka defaulted on its external debt for the first time in its postcolonial history in April 2022. The International Monetary Fund (IMF)-led process of recovery that followed has not only been disastrous in terms of the economic policy package proposed by the Government. The underlying analysis of the causes of the debt crisis itself is also flawed. Sri Lanka provides lessons about both the broken global financial system and the widespread consequences of an unjust debt resolution architecture affecting other countries in the Global South.
+
+...
+
+[Data](articles/d894ff28.json)
+
+---
 
 ### International Industry Expo 2024 in June
 
@@ -43,6 +137,8 @@ With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibi
 ...
 
 [Data](articles/f9af1e45.json)
+
+[Extended Data](ext_articles/f9af1e45.ext.json)
 
 ---
 
@@ -58,6 +154,8 @@ The ISAS was established in 2004 as an autonomous research institute at the Nati
 
 [Data](articles/34175bfe.json)
 
+[Extended Data](ext_articles/34175bfe.ext.json)
+
 ---
 
 ### Imported milk powder gets cheaper
@@ -71,6 +169,8 @@ It said the price of a 01 kilogram pack of imported milk powder will drop by Rs.
 ◼️
 
 [Data](articles/8cabf42b.json)
+
+[Extended Data](ext_articles/8cabf42b.ext.json)
 
 ---
 
@@ -87,6 +187,8 @@ In addition to the traditional committees such as the World Health Assembly and 
 ...
 
 [Data](articles/f64673ec.json)
+
+[Extended Data](ext_articles/f64673ec.ext.json)
 
 ---
 
@@ -571,6 +673,22 @@ He called for independent and transparent investigations into the deaths, saying
 [Data](articles/7b5a3006.json)
 
 [Extended Data](ext_articles/7b5a3006.ext.json)
+
+---
+
+### A family affair, indeed…
+
+*2024-04-24 23:05:00* · [`islandlk`](http://island.lk/a-family-affair-indeed/) · `en`
+
+Hi! I’m Shivona Alexander, 35 years of age. I’m a wife, mom to two beautiful daughters, model, and founder of Party Bee.
+
+Believe me, I never thought I would be a model at this age, especially after having two kids. But…I met Brian Kerkoven, in the year 2021, through one of my friends. I took a three-month course at his modelling academy and was lucky enough to join his agency as a professional model. This is my third year as a model, representing BK Model Management, and I’m proud and happy to say that I’m now a part of the BK family.
+
+I would say maintaining a perfect physique, although being a mom of two kids, as well as my age!
+
+...
+
+[Data](articles/58de8bd5.json)
 
 ---
 
@@ -2089,169 +2207,5 @@ The President, recalled that the global southern countries wanted to establish t
 [Data](articles/04386a9a.json)
 
 [Extended Data](ext_articles/04386a9a.ext.json)
-
----
-
-### Sri Lanka's milk rice has attracted international attention
-
-*2024-04-24 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/181832) · `ta`
-
-Sri Lanka's Kiribath, a traditional Sinhalese dish, gained global fame through Savindri Perera's 'Masterchef Australia' performance, where he showcased the dish's unique flavor.
-
-🟩
-
-The traditional food of the Sinhalese of Sri Lanka, Kiribath (කිරිබත්), has attracted international attention.
-
-In the 'Masterchef Australia' culinary competition in Australia, Savindri Perera of Sri Lankan origin has cooked Paul's soda and taken its flavor to the international stage.
-
-In this case, he has been praised by the referees for the exhibition and taste of Sri Lanka's traditional breakfast.
-
-The 'Sou', the Savindri Perera, poured the kitul style with the snail fish with the milk, and gave it to the referees.
-
-The referees who tasted the food were compared to a celebration. They praised the body for the fact that they were supplying 'the best Sri Lankan food'.
-
-◼️
-
-[Data](articles/70e103b2.json)
-
-[Extended Data](ext_articles/70e103b2.ext.json)
-
----
-
-### Incinerator to destroy seized drugs to be opened next month: Wijeyadasa
-
-*2024-04-24 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Incinerator-to-destroy-seized-drugs-to-be-opened-next-month-Wijeyadasa/108-281291) · `en`
-
-Parliament, April 24 (Daily Mirror)- The incinerator built in Wanathavilluwa for the purpose of destroying narcotic drugs produced before courts will be opened next month, Justice Minister Wijeyadasa Rajapakshe said today.
-
-He told Parliament that some 300 kilograms of heroin produced before courts will be destroyed on the first day.
-
-The Minister said this when the regulations under the Poisons, Opium and Dangerous Drugs Ordinance were taken up for approval in Parliament.
-
-He said under the new regulations, the magistrate can order the seized drugs to be destroyed after obtaining a sample of the stock and other required evidence before concluding the case.
-
-“The drugs will be destroyed under a proper procedure with the participation of the magistrate, the police, the Attorney General’s Department and the Government Analyst's Department,” he said.
-
-He said after the opening of the incinerator, steps will be taken to destroy the seized drugs once a month.
-
-◼️
-
-[Data](articles/60840921.json)
-
-[Extended Data](ext_articles/60840921.ext.json)
-
----
-
-### Conflict between two people in Minneria: One killed
-
-*2024-04-24 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/181848) · `ta`
-
-In Minneriya, a man was killed by a sharp weapon in a clash near the Minoriya Electricity Board. The victim is H.Pabila Fonseka from Henayaya, Minneriya.
-
-🟩
-
-A man was attacked by a sharp weapon in a clash between the trio last Tuesday night near the Minoriya Electricity Board, Minoriya police said.
-
-The deceased is H.Pabila Fonseka from Henayaya, Minneriya, police said.
-
-◼️
-
-[Data](articles/033173bb.json)
-
-[Extended Data](ext_articles/033173bb.ext.json)
-
----
-
-### Injunction against appointing Wijeyadasa as SLFP’s Acting Chairman
-
-*2024-04-24 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98817/injunction-against-appointing-wijeyadasa-as-slfps-acting-chairman) · `en`
-
-The Colombo District Court today issued an injunction order preventing the appointment of Minister Wijeyadasa Rajapakshe as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
-
-The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
-
-Colombo District Judge Sandun Withana issued these orders after considering a plaint filed against the respective appointments.
-
-Meanwhile, the court issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
-
-The Colombo District Judge issued these injunctions after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
-
-It was mentioned in the order that these injunctions will remain in effect until May 08, 2024.
-
-...
-
-[Data](articles/d87063e4.json)
-
-[Extended Data](ext_articles/d87063e4.ext.json)
-
----
-
-### Judge firing on Ilangazhiyan: Investigate 3 days
-
-*2024-04-24 15:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீதிபதி-இளஞ்செழியன்-மீது-துப்பாக்கிச்சூடு-3-நாட்களுக்கு-விசாரணை/71-336286) · `ta`
-
-Judge Ilangazhiyan faces investigation for 3 days over a police shooting incident.
-
-🟩
-
-A case of the death of a police sergeant and a police officer injured in the shooting incident on Supreme Court Judge Ilancheliyan was taken up for hearing on Wednesday (24).
-
-The Vavuniya High Court Judge Ilangazhiyan visited the Jaffna Court Complex with the protection of the Special Task Force.
-
-Supreme Court Judge Majeljayan and the injured police officer testified at the case taken up in the presence of Jaffna High Court Judge Denis Shantan Susitasan.
-
-Special State Attorney Nagarathinam Nisanth on behalf of the Attorney General's Department
-
-The trial will be held in the Jaffna High Court for three consecutive days.
-
-◼️
-
-[Data](articles/c40f3cbd.json)
-
-[Extended Data](ext_articles/c40f3cbd.ext.json)
-
----
-
-### Maleeria again again
-
-*2024-04-24 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195930) · `si`
-
-In 2024, 9 malaria cases reported, with most in Africa. Last case in 2012; 62 in 2023.
-
-🟩
-
-Nine malaria patients have been reported in 2024 so far this year, said Pubudu Chlosiri, Community Medical Express Unit.
-
-Addressing a media briefing held today (24), he said that the majority of malaria had reportedly reported to Africa.
-
-The last malaria patient was reported in 2012, but 62 Malaria patients were reported in 2023, but said.
-
-He added that the majority of these patients had gone to the person who visited Peace and visited the jobs for their business.
-
-◼️
-
-[Data](articles/3df60436.json)
-
-[Extended Data](ext_articles/3df60436.ext.json)
-
----
-
-### Tourists ride on footboards of express trains
-
-*2024-04-24 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourists-ride-on-footboards-of-express-trains/108-281290) · `en`
-
-Railway passengers on the upcountry mainline expressed concern over the accidents involving foreign tourists riding on footboards of the express trains.
-
-They pointed out that tourists are in the habit of riding on footboards and taking selfies regardless of their danger, and that several accidents, some of which were fatal, had occurred recently.
-
-In the latest incident, a foreign woman fell down the Podi Minike Express on Sunday (21) near the Ohiya railway station, and in a similar incident about a month ago, an Iranian tourist received serious injuries.
-
-Passengers pointed out that the railway guards and the security service officials should take steps to prevent tourists from taking this risky journey.
-
-◼️
-
-[Data](articles/7b333e82.json)
-
-[Extended Data](ext_articles/7b333e82.ext.json)
 
 ---

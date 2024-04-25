@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 04:18:35**
+As of **2024-04-26 04:33:53**
 
 ## Newspaper Stats
 
-*Scraped **21,031** Articles*
+*Scraped **21,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,132
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,431
+tamilmirrorlk | 2,432
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,276
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,031 (100.0%) of 21,031 articles have been extended.
+21,031 (100.0%) of 21,032 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -159,6 +159,22 @@ Rajapaksa said the discussions focused on enhancing bilateral ties and future pl
 [Data](articles/9c31c551.json)
 
 [Extended Data](ext_articles/9c31c551.ext.json)
+
+---
+
+### ’பிள்ளையானை கைது செய்தால் உண்மைகள் வெளிவரும்’
+
+*2024-04-26 01:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானை-கைது-செய்தால்-உண்மைகள்-வெளிவரும்/175-336360) · `ta`
+
+பிள்ளையான் எம்.பியை கைது செய்து விசாரணை நடத்தினால் 2005 முதல் உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் வரையிலான அனைத்த உண்மை தகவல்களையும் அறிந்துகொள்ளலாம் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பில் பாராளுமன்றத்தில்   வியாழக்கிழமை (25) நடைபெற்ற சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் 2019ஆம் ஆண்டில் நடந்திருந்தாலும் அதனுடன் தொடர்புடைய குழுக்கள் 2005ஆம் ஆண்டு முதல் இந்த நாட்டில் செயற்பட்டு வந்துள்ளனர். இது தொடர்பில் அடிக்கடி கூறியிருந்தாலும் இதன் பாரதூரதன்மை தொடர்பில் புரிந்துகொள்ளாது இருக்கின்றனர். எவ்வாறாயினும் தற்போது 2014ஆம் ஆண்டில் நடந்த சம்பவமொன்று தொடர்பில் மீண்டும் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/00249b03.json)
 
 ---
 
@@ -2159,39 +2175,5 @@ The order has been issued after the Kandana Police have arrested the event and p
 [Data](articles/fa8d4ee8.json)
 
 [Extended Data](ext_articles/fa8d4ee8.ext.json)
-
----
-
-### A Sri Lankan woman who completed his legal order while working as a homework in Singapore, firmly made her dream and realized her dream
-
-*2024-04-25 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/181930) · `ta`
-
-Jayanthi Kamage, a Sri Lankan woman, pursued her dream of studying in the UK, despite facing financial challenges and cultural adjustments. She left Sri Lanka for Singapore, where she worked to support her education, overcoming language barriers and personal struggles.
-
-🟩
-
-While Jayanthi Kamage was working in his work, his email came to a message from the University of London.
-
-The 43 -year -old Sri Lankan woman's journey as a long -term journey will defile her journey. The trip has lasted several kilometers.
-
-Kamage told us that when he was working as an audit assistant in Sri Lanka, Singapore has twice as much income than the salary.
-
-Three years after he began his law, he left Sri Lanka for money for his education.
-
-If she was very sure of her childhood, she was ready to face any crisis caused by her going abroad.
-
-Kamage, the supervisor of the company, who is currently working on the refinery, said this was a very long task.
-
-He said that I know that there is a way to be in the words of the words, but there is a way that my feelings are.
-
-Kamage had been blindfolded for several days-he had difficulty in learning.
-
-I did not buy a lipstick or cosmetics, he says.
-
-...
-
-[Data](articles/b1461844.json)
-
-[Extended Data](ext_articles/b1461844.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 13:03:36**
+As of **2024-04-25 13:18:40**
 
 ## Newspaper Stats
 
-*Scraped **20,869** Articles*
+*Scraped **20,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,183
-adalk | 1,738
-tamilmirrorlk | 2,414
+adalk | 1,739
+tamilmirrorlk | 2,416
 adaderanalk | 2,482
 virakesarilk | 3,142
-dailymirrorlk | 3,251
-adaderanasinhalalk | 3,370
+dailymirrorlk | 3,252
+adaderanasinhalalk | 3,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,868 (100.0%) of 20,869 articles have been extended.
+20,869 (100.0%) of 20,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### යළි කිසි දිනක අරගලයකට යන්න එපා...-ජනපති
+
+*2024-04-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195956) · `si`
+
+නැවත අරගලයකට යොමුනොවී රට ගොඩනැගීමට සියලුදෙනා එක්වන්නයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනතාවගෙන් ඉල්ලා සිටී.
+
+අද කොළඹදී 'ITC Ratnadipa' අතිසුඛෝපභෝගී හෝටලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+"අවුරුදු දෙකකට කලින් මෙතෙන තිබුණේ විශාල උද්ඝෝෂණයක්. මෙතෙන තිබුණේ අරගලයක්. වටේ වට කරලා තිබුණා. අද ඒ වෙනුවට තියෙන්නේ, විශාල හෝලයක්. ITC සමාගමේ, හෝටලය මෙතැන තියෙන Ratnadipa. අවුරුදු දෙකකින් ස්ථාවරභාවය ඇති කළා. අවුරුදු දෙකකින් ආර්ථිකයට පණ දුන්නා. අපි එතැනින් ඉදිරියට යන්නේ. මෙතැන තියෙන අවුල පහුකරලා, අපි ඒ වෙනුවට අලුත් ආර්ථිකයක් හදන්න ක්‍රියාකරගෙන යනවා. කිසි දවසක ආපහු අරගලයට යන්න එපා. තමන්ගේ ආර්ථිකය ආපහු කඩා වැටිලා වැඩක් නෑ. අස්ථාවරභාවයක් ඇති කරලා වැඩක් නෑ. අපි මෙතැන ඉඳන් ඉදිරියට යමු මීට වඩා හොඳ රතන දීපයක් ඇති කරන්න."
+
+ඉන්දියාවේ ITC හෝටල් සමූහය ඉන්දියාවෙන් පිටත ඔවුන්ගේ පළමු සුඛෝපභෝගි හෝටලය ගාලුමුවදොර ඉදිරිපිට ගොඩනැගූ අතර එය නම් කර ඇත්තේ  ITC Ratnadipa Colombo ලෙසය.
+
+...
+
+[Data](articles/6b620a0b.json)
+
+---
+
+### சஜித் பிரேமதாசவை சந்தித்த  சீனக் கம்யூனிஸ்ட் கட்சி
+
+*2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாசவை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
+
+சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேச உறவுகள் திணைக்களத்தின் உயர்மட்ட பிரதிநிதிகள் குழுவினர்,  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியின் பிரதிநிதிகளை கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து  புதன்கிழமை (24) பிற்கபல் சந்தித்து கலந்துரையாடியுள்ளனர் .
+
+இரு தரப்பினருக்கும் இடையிலான இந்த விசேட சந்திப்பு ஒரு மணி நேரம் இடம்பெற்றுள்ளது . அதனை தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச விவகாரங்களுக்கான துணை அமைச்சர்  சன் ஹையன் இடையில் 45 நிமிட நேருக்கு நேர் பிரத்தியக சந்திப்பும் இடம்பெற்றுள்ளது .
+
+பொருளாதாரம், வர்த்தக, அரசியல் உறவுகள் என பல துறைகள் குறித்து இங்கு விரிவாக கலந்துரையாடப்பட்டுள்ளதுடன் ,இலங்கைக்கும் சீனாவுக்கும் இடையில் வர்த்தக உறவுகளை ஏற்படுத்துவது தொடர்பில் இரு தரப்புக்கும் இடையில் கருத்துக்கள் பரிமாறப்பட்டுள்ளது .
+
+...
+
+[Data](articles/3c2ec142.json)
+
+---
+
+### 80 ரூபாய்க்கு பால் தேநீர் வழங்கவும்
+
+*2024-04-25 12:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-ரூபாய்க்கு-பால்-தேநீர்-வழங்கவும்/175-336313) · `ta`
+
+இறக்குமதி செய்யப்படும் பால் மாவின் விலை குறைப்பு சலுகையை நுகர்வோருக்கு வழங்கும் வகையில் ஒரு கோப்பை பால் தேநீரை  80 ரூபாய்க்கு வழங்குமாறு கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத், சிற்றுண்டிச்சாலை உரிமையாளர்களிடம் இந்த கோரிக்கையை விடுத்துள்ளார்.
+
+அத்துடன், டொலரின் பெறுமதி வீழ்ச்சியடைந்ததன் காரணமாக இன்று முதல் அமுலுக்கு வரும் வகையில் பால்மா இறக்குமதியாளர்கள் பால் மாவின்  சில்லறை விலையை குறைக்க தீர்மானித்துள்ளதாக அவர் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+
+அண்மைகாலமாக பால்மா விலை உயர்வு காரணமாக, பால் தேநீர் அருந்துவதற்கு ஹோட்டல்களுக்கு வருவதை மக்கள் தவிர்த்து வந்தனர்.
+
+தற்போது அந்த நிலை மாறி, மீண்டும் 80 ரூபாய்க்கு ஒரு கோப்பை பால் தேநீர் குடிக்கும் வாய்ப்பு மக்களுக்கு கிடைத்துள்ளது என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/698c04fa.json)
+
+---
 
 ### 60,000 applications received for NIE admissions – Edu. Minister
 
@@ -47,6 +101,26 @@ Furthermore, Premajayantha mentioned that measures are underway for the recruitm
 ◼️
 
 [Data](articles/6471dc0e.json)
+
+[Extended Data](ext_articles/6471dc0e.ext.json)
+
+---
+
+### Give cup of milk tea for Rs. 80: Asela Sampath
+
+*2024-04-25 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Give-cup-of-milk-tea-for-Rs-80-Asela-Sampath/108-281355) · `en`
+
+Colombo, April 25 (Daily Mirror) - National Consumer Front Chairman Asela Sampath urged the canteen owners to provide a cup of milk tea for Rs. 80 from today while granting the concession of the reduced prices of imported milk powder to the consumers.
+
+Addressing the media, he said the milk powder importers had decided to reduce the retail prices of their one kilogram and 400 grams of milk powder packets with effect from today due to the depreciation of the dollar in the world market.
+
+"In the recent past, people used to avoid patronising hotels to have a cup of milk tea due to the increase in milk powder prices.
+
+"Now the situation has changed, and again, people have the opportunity to have a cup of milk tea at a price of Rs. 80," Sampath said.
+
+◼️
+
+[Data](articles/96776fe3.json)
 
 ---
 
@@ -337,6 +411,24 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 [Data](articles/45940318.json)
 
 [Extended Data](ext_articles/45940318.ext.json)
+
+---
+
+### පාතාලය මඩින්න විශේෂ කාර්ය බළකායෙන් විශේෂ යතුරුපැදි බළකායක්
+
+*2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/uncategorized/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/1-409253) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සහ පාතාලය මර්ධනය කිරීමේ අරමුණින්  විශේෂ කාර්ය බළකායේ විශේෂ පුහුණුවක් ලද පළමු පොලිස් සංග්‍රාමික ක්ෂණික විහිදුම් යතුරුපැදි  කණ්ඩායම  විසිරයාමේ පෙලපාලිය අද (25 ) කළුතර , කටුකුරුන්ද පිහිටි විශේෂ කාර්ය බළකා පුහුණු පාසලේදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගේ ප්‍රධානත්වයෙන් සිදු කරන ලදී.
+
+එම පුහුණුව හදාරන ලද විශේෂ යතුරුපැදිකරුවන් 100 කු මෙහිදී විසිර යනු ලැබූ අතර , ඔවුන්  වෙත සහතිකපත් සහ විශේෂ ලාංඡනයක් මෙහිදී හිමිගන්වනු ලැබීය .
+
+මෙම යතුරුපැදිකරුවන් කොළඹ අපරාධ කොට්ඨාශයට අනුයුක්ත කර බස්නාහිර සහ දකුණ පළාත් යටතේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ රාජකාරී යෙදවීමට නියමිතව ඇත.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන්, විශේෂ කාර්ය බළකා අණදෙන නිළධාරී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  නීතිඥ  වරුණ ජයසුන්දර, බස්නාහිර පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති මහින්ද ගුණරත්න , පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දුව, කටුකුරුන්ද විශේෂ කාර්ය බළකා අණදෙන නිළධාරී  සහකාර  පොලිස් අධිකාරි එන්සී ගජවීර ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීන් රැසක්ද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/a6f7a5c6.json)
 
 ---
 
@@ -2135,109 +2227,5 @@ LOLC Finance PLC, the leading Non-Banking Financial Institution (NBFI) in Sri La
 [Data](articles/e1633d6f.json)
 
 [Extended Data](ext_articles/e1633d6f.ext.json)
-
----
-
-### ComBank crowned ‘Best Bank in Sri Lanka’ by Global Finance for 22nd year
-
-*2024-04-24 22:41:00* · [`islandlk`](http://island.lk/combank-crowned-best-bank-in-sri-lanka-by-global-finance-for-22nd-year/) · `en`
-
-The Commercial Bank of Ceylon has been named the ‘Best Bank in Sri Lanka’ for a remarkable 22nd year in the ‘World’s Best Banks 2024’ list released recently by the US-based Global Finance magazine.
-
-Global Finance said its Best Bank Awards recognise financial institutions that offer the broadest range of services, long-term reliability, and technological innovation.
-
-“The winners of this year’s awards are those banks that attended carefully to their customers’ needs in difficult markets and accomplished strong results while laying the foundations for future success,” the magazine said. “Winning organizations managed their assets and liabilities in a savvy way in light of the fast-changing interest rate scenarios.”
-
-...
-
-[Data](articles/aea4791a.json)
-
-[Extended Data](ext_articles/aea4791a.ext.json)
-
----
-
-### India is no ‘big brother’ to Sri Lanka, H.C. Santosh Jha says in myth-busting speech
-
-*2024-04-24 22:39:00* · [`islandlk`](http://island.lk/india-is-no-big-brother-to-sri-lanka-h-c-santosh-jha-says-in-myth-busting-speech/) · `en`
-
-India is referred to as a ‘big brother’ state for the South Asian region as it is the largest and most powerful country in South Asia.
-
-However, the Indian High Commissioner to Sri Lanka Santosh Jha delivering a speech in Colombo on April 21, busted this myth adequately.
-
-Speaking at the official launch of the “Ramayana Trail – The Sacred Mission” Project organised by the Supreme Global Holdings Group at Hotel Taj Samudra, Colombo, the Indian High Commissioner said that ‘Ramayana Trail’ reaffirms his oft-repeated assertion that the two countries are civilisational twins sharing the same antiquity.
-
-“From this it follows that we are not after all big or small sisters or brothers but one of the same age and antiquity with neither being small or big vis-a-vis each other,” he said, addressing the audience that comprised a delegation from India led by Swami Govind Dev Giriji.
-
-...
-
-[Data](articles/5b3b61e6.json)
-
-[Extended Data](ext_articles/5b3b61e6.ext.json)
-
----
-
-### Iran, Sri Lanka boost bilateral bonding in Uma Oya project unveiling
-
-*2024-04-24 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-Sri-Lanka-boost-bilateral-bonding-in-Uma-Oya-project-unveiling/108-281311) · `en`
-
-Colombo, April 24 (Daily Mirror) - Iranian President Ebrahim Raisi who was in Sri Lanka for a short visit to inaugurate the Uma Oya project said his country was ready for stronger ties with Sri Lanka as a sovereign, independent country.
-
-At the function to mark the event, he said his country stands fully ready to further expand bilateral relations with all Asian countries, neighbouring countries, and sovereign and independent states.
-
-The aircraft with the Iranian leader on board landed at the Mattala International Airport yesterday amidst tight security arrangements. He arrived from Pakistan where the two countries agreed to strengthen cooperation.
-
-The Western countries tried to convince all others that knowledge and technology is exclusive to those countries,” he said.
-
-He added that the “idea” was rooted in “colonialism and arrogance” and that Iran was now able to share its knowledge with others. According to him, Iran is currently having projects in 20 countries.
-
-...
-
-[Data](articles/5661f399.json)
-
-[Extended Data](ext_articles/5661f399.ext.json)
-
----
-
-### Nothika is university with the hurt
-
-*2024-04-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195941) · `si`
-
-Nothika University's Nethikaka Madushani Herath secured a silver medal in the Under-20 athletics championship, achieving a remarkable 13.01m victory.
-
-🟩
-
-Nethikaka Madushani Herath represents the silver medal in the Under-20 athletics championship.
-
-There she won 13.01m and win this victory.
-
-◼️
-
-[Data](articles/481af901.json)
-
-[Extended Data](ext_articles/481af901.ext.json)
-
----
-
-### Youth meets Sri Pada
-
-*2024-04-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195940) · `si`
-
-A 33-year-old from Sooriyawewa and a 35-year-old from Suriyawewa have taken over the Nallathaniya Police Division. They've been admitted to Maskeliya hospital, then transferred to Dikoya Base Hospital. The army and STF have been searching for them for 3 days.
-
-🟩
-
-A 33 year old resident of Sooriyawewa, a 35 year old resident of Suriyawewa
-
-The youth has taken over the Nallathaniya Police Division in the Rajamala Estate Division of Nalladuniya Police Division this morning.
-
-The police officers have been admitted to the Maskeliya hospital for treatment and transferred to the Dikoya Base Hospital.
-
-The army and the STF has been conducting a special operation for 3 days to search for the youth.
-
-◼️
-
-[Data](articles/2bc8992f.json)
-
-[Extended Data](ext_articles/2bc8992f.ext.json)
 
 ---

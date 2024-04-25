@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 21:53:17**
+As of **2024-04-25 22:04:59**
 
 ## Newspaper Stats
 
-*Scraped **20,984** Articles*
+*Scraped **20,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ dailyftlk | 1,172
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
-adaderanalk | 2,497
+adaderanalk | 2,498
 virakesarilk | 3,165
-dailymirrorlk | 3,266
-adaderanasinhalalk | 3,386
+dailymirrorlk | 3,269
+adaderanasinhalalk | 3,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,981 (100.0%) of 20,984 articles have been extended.
+20,984 (100.0%) of 20,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Malaysia ex-PM Mahathir facing anti-graft probe in a case involving his sons
+
+*2024-04-25 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98849/malaysia-ex-pm-mahathir-facing-anti-graft-probe-in-a-case-involving-his-sons) · `en`
+
+(Reuters) - Former Malaysian Prime Minister Mahathir Mohamad is among individuals being investigated in connection with a graft probe involving his sons, the head of Malaysia’s Anti-Corruption Commission (MACC) said on Thursday.
+
+The investigation comes amid a widening crackdown on graft involving prominent political figures, including those seen as close to 98-year-old veteran leader Mahathir, a long-time foe of current Prime Minister Anwar Ibrahim.
+
+Anwar has denied targeting political rivals, saying the investigations are part of the government’s efforts to tackle high-level corruption.
+
+The MACC in January served Mahathir’s businessmen sons, Mirzan and Mokhzani, with notices to declare their wealth as part of investigations into offshore financial and business records revealed by a group of news organisations.
+
+The MACC’s chief commissioner, Azam Baki, on Thursday declined to elaborate on the investigations facing Mahathir or his sons.
+
+...
+
+[Data](articles/17afe00b.json)
+
+---
+
+### Let’s not get into a ‘Aragalaya’ again: President
+
+*2024-04-25 21:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lets-not-get-into-a-Aragalaya-again-President/108-281373) · `en`
+
+Colombo, April 25 (Daily Mirror) - While highlighting that the economy in on the mend, President Ranil Wickremesinghe pleaded for people not to resort to another ‘Aragalaya’ which would escalate chaos in the country.
+
+The President urged people to support the efforts to rebuild the economy rather than engaging in activities that could disrupt progress.
+
+These remarks were made today (25) during the inauguration of the ITC Ratnadipa Hotel. located opposite the Galle Face Green. This hotel marks the first venture outside India by the ITC Hotel Group.
+
+He expressed his commitment to creating an economic environment in the country where people would not struggle again.
+
+Highlighting the successful rebuilding of the collapsed economy within two years, he emphasized his efforts to enhance the standard of living by establishing a resilient economy.
+
+...
+
+[Data](articles/b219c5ae.json)
+
+---
+
+### ආගමන විගමන දෙපාර්තමේන්තුවෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-25 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195972) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුව විසින් ජනතාව වෙත විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+එමගින් දැනුම්දී ඇත්තේ මාර්ගගත වීසා අයදුම් කිරීමේදී http://www.immigration gov.lk වෙබ් අඩවියේ e visa සබැඳිය පමණක් භාවිත කරන ලෙසටය.
+
+ආගමන විගමන දෙපාර්තමේන්තුව වැඩිදුරටත් පෙන්වාදෙන්නේ http://www.srilankaevisa.lk වෙබ් අඩවියට සමාන ව්‍යාජ වෙබ් අඩවි වෙත පිවිස මුදල් ගෙවීමේ අවස්ථාවන් පවතින බවට තොරතුරු වාර්තා වී ඇති බවය.
+
+එම දෙපාර්තමේන්තුව සිය නිවේදනයෙන් වැඩිදුරටත් සඳහන් කර ඇත්තේ අප්‍රේල් මස 17 වනදා සිට ආගමන විගමන දෙපාර්තමේන්තුවේ නව වීසා ක්‍රමවේදය ක්‍රියාත්මක කිරීම හා නව මාර්ගගත ක්‍රමවේදය ක්‍රියාත්මක කිරීම ආරම්භ කර ඇති බවය.
+
+ඊට අදාළව ආගමන විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනය පහතින්,
+
+◼️
+
+[Data](articles/86d7df4f.json)
+
+---
 
 ### Iran’s President Raisi urges broadening ties with Asian countries
 
@@ -50,31 +110,61 @@ During his visit to Sri Lanka, President Raisi attended the inauguration of a la
 
 [Data](articles/f99eced6.json)
 
+[Extended Data](ext_articles/f99eced6.ext.json)
+
 ---
 
-### නිවසේ තනිවම සිටි කාන්තාවකට කළ අපරාධය
+### The crime of a woman who was alone at home
 
 *2024-04-25 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195971) · `si`
 
-හොරණ වීදියගොඩ ප්‍රදේශයේ නිවසක තනිව සිටි කාන්තාවකගේ සිරුරට පෙට්‍රල් දමා ගිනි තැබීමේ සිද්ධියක් වාර්තා වී තිබේ.
+A 63-year-old woman in Weeragoda, Horana, was reportedly deceived by a neighbor into selling her land for Rs. 800 lakhs, with the suspect fleeing after the transaction. The Panadura Division Special Investigation Unit and Moragahena Police are investigating.
 
-මෙලෙස සිරුරට ගිනි තබා ඇත්තේ එම ප්‍රදේශයේම පදිංචිව සිටි 63 හැවිරිදි කාන්තාවකි.
+🟩
 
-එම කාන්තාවගේ නිවසේ අසල්වැසි පුද්ගලයෙකු විසින් මෙම අපරාධය සිදුකර ඇති බවට පොලීසිය සැකපළ කරයි.
+It has been reported on the blast in Weeragoda, Horana.
 
-අදාළ සැකකරු එම නිවසට ඇතුළුවන ආකාරයත් ඉන් පිටව යන ආකාරයත් නිවසේ සවිකර තිබූ CCTV කැමරාවේ පටිගතව ඇත.
+The same was a 63-year-old resident of the same area.
 
-ඉඩම් ආරවුලක් දුරදිග යාමෙන් අනතුරුව සැකකාර පුද්ගලයා මෙම ගිනිතැබීම සිදුකරන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+Police suspect that the woman has committed this crime by a neighboring person in the woman's house.
 
-මොරගහහේන පොලිසිය පවසන පරිදි, කලකට පෙර රුපියල් ලක්ෂ 60කට විකිණීමට තීරණය කර තිබූ සැකකරු සතු ඉඩමක්  පසුව රුපියල් ලක්ෂ 80කට විකිණීම සඳහා ගැණුම්කරුවෙකු සොයාගැනීමට ඔහුට හැකිවී තිබේ.
+The suspect is recorded in the CCTV camera, installed and how the residence would be addressing the house.
 
-ඒ අනුව අදාළ ගැණුම්කරු රුපියල් ලක්ෂ 3ක අත්තිකාරම් මුදලක් ඉඩම අයිති සැකකරුට ලබාදී තිබුණේ ඉඩම මිලදී ගැනීම ස්ථීර කරමිනි.
+Police suspect that the suspect may have made the suspect after the deception was taken away.
 
-පසුව අසල්වැසි කාන්තාව ගැණුම්කරුට පවසා ඇත්තේ ඔහු රුපියල් ලක්ෂ අසූවකට මිලදීගැනීමට සූදානම් වන්නේ රුපියල් ලක්ෂ 60කට අලෙවිකිරීමට සැලසුම්කර තිබූ ඉඩමක් බවය.
+According to Moragahahena Police, he was able to find a land owner to sell for Rs. 800 lakhs.
+
+Accordingly, the buyer had given an advanced advance of Rs.
+
+The neighboring woman told the buyer that he was planning to buy Rs. 60 million marketing.
+
+The selected buyer met the landlord and retalified the advance given to the land.
+
+The angry landlord reportedly accidentally accidentally visited the house of Kadathta.
+
+The suspect has fled the area and the Panadura Division Special Investigation Unit and Moragahena Police are conducting further investigations.
+
+◼️
+
+[Data](articles/718852bd.json)
+
+[Extended Data](ext_articles/718852bd.ext.json)
+
+---
+
+### Businessman claims Rs.50 Mn from Gota, Mahinda, Basil
+
+*2024-04-25 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Businessman-claims-Rs-50-Mn-from-Gota-Mahinda-Basil/108-281372) · `en`
+
+Colombo, April 25 (Daily Mirror) -  A businessman, who was adversely affected by the country’s economic crisis, has sent letters of demand claiming Rs.50 million as damages from former President Gotabaya Rajapaksa, former Prime Minister Mahinda Rajapaksa, former Finance Minister Basil Rajapaksa, former CBSL Governor Ajith Nivard Cabraal and the Monterey Board for mishandling the economic crisis in the country.
+
+It has warned that legal action will be instituted against the above-mentioned individuals if the money with the interest is not paid within two weeks.
+
+Businessman Kalinga Silva, who is engaged in producing disposable surgical items, has sent these letters of demand through Attorney-at-Law Pramod Polpitiya.
 
 ...
 
-[Data](articles/718852bd.json)
+[Data](articles/2285a38f.json)
 
 ---
 
@@ -358,21 +448,29 @@ The Committee has expressed the revenue of the department with the income target
 
 ---
 
-### මෛත්‍රී වැනි පුද්ගලයන් අත්අඩංගුවට ගත යුතුයි
+### Those such as Maithree should be arrested
 
 *2024-04-25 19:27:00* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-වැනි-පුද්ගලයන්-අත්අඩංගුවට-ගත-යුතුයි/11-409268) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පාස්කු ප්‍රහාරය ගැන සිදු කළ ප්‍රකාශය අසත්‍ය බවට නිලා නොලත් ලෙස තහවුරැ වී තිබෙන බවත්, ඒ අනුව මෙවැනි වගකීම් විරහිත ප්‍රකාශ කරමින්  රට තුළ ප්‍රශ්න ඇති කරන පුද්ගලයන් අත්අඩංගුවට ගත යුතු බවට යෝජනා කරන බවත් පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා පැවසීය.
+Maithripala Sirisena claims the Passover attack was unsuccessful and suggests arresting those involved. He criticizes the police for not addressing national security issues, suggesting they are incompetent.
 
-පාර්ලිමේන්තුවේ අද (25දා) පැවති පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+The statement made by former President Maithripala Sirisena had confirmed that the statement of the Passover attack had been unsuccessful and proposes to be arrested in the country.
 
-"හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මහමොලකරැවන් ගැන, මේ ප්‍රහාරය පිටුපස ඉන්න පුද්ගලයන් ගැන දන්නවා කියලා ප්‍රකාශක් සිදු කළා. පොලීසියට කරන්න ඕනී ප්‍රකාශය මාධ්‍යයට කළා. එතුමා ප්‍රකාශයක් ලබා දීලා තියෙනවා, අපිට ලැබිලා තියෙන නොනිල තොරතුරැ අනුව මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රකාශයේ තියෙන්නේ බොරැ. ඒ කියන කරැණු අසත්‍යයි කියලා තහවුරැ වෙලා තියෙනවා. මේ හිටපු ජනාධිපතිවරයෙක්, ජාතික ආරක්ෂාව විහිලුවට අරගෙන. මේ රටේ ජනතාව විහිළුවට අරගෙන. රටේ පොලීසිය විහිළුවට අරගෙන.
+He was speaking at the postponement debate on the Passover attack held in Parliament today (25).
 
-...
+Speaking further Mr. Damage Gammanpila said:
+
+"Former President Maithripala Sirisena made a statement about the people behind the people behind this attack. The statement should be done to the police. He has made a statement by the statement of Maithripala Sirisena's statement in the statement of Maithripala Sirisena's statement is lie. It has been confirmed that it is false. A former president took up the national security and function. The people of this country joy. The police are joking.
+
+The magistrate's magistrate, the magistrate, chose to leave the file that affect national security.. Or the country is now on firearm. I also propose to arrest people who have problems in the country. "
+
+◼️
 
 [Data](articles/6b8e59bf.json)
+
+[Extended Data](ext_articles/6b8e59bf.ext.json)
 
 ---
 
@@ -839,6 +937,18 @@ He said organising, conducting subject-oriented lectures, seminars or classes, p
 [Data](articles/9ea05f5b.json)
 
 [Extended Data](ext_articles/9ea05f5b.ext.json)
+
+---
+
+### Japan grants USD 3 Mn for inland fisheries enhancement
+
+*2024-04-25 16:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Japan-grants-USD-3-Mn-for-inland-fisheries-enhancement/110-281363) · `en`
+
+Japan Provides USD 3 million through the Food and Agriculture Organisation (FAO) to strengthen inland fisheries and improve rural livelihoods in Sri Lanka. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/3de5ae96.json)
 
 ---
 
@@ -2161,113 +2271,5 @@ Furthermore, Premajayantha mentioned that measures are underway for the recruitm
 [Data](articles/6471dc0e.json)
 
 [Extended Data](ext_articles/6471dc0e.ext.json)
-
----
-
-### Outlook prices
-
-*2024-04-25 12:44:01* · [`adalk`](https://www.ada.lk/breaking_news/එලවලු-මිල-තව-තවත්-පහලට/11-409258) · `si`
-
-Farmers in Ukuwela, Dambulla Pallewela, and Matale report lower vegetable prices, especially tomatoes, making cultivation unaffordable.
-
-🟩
-
-Due to the farmer, farmers say that the vegetable prices are down these days.
-
-The farmers who grow vegetables in Ukuwela, Dambulla Pallewela in Ukuwatta, Matale.
-
-In particular, farmers in the Matale area are cultivated and other crops, including tomatoes, and the price they are not able to afford the cost of cultivation.
-
-◼️
-
-[Data](articles/7df3ae6c.json)
-
-[Extended Data](ext_articles/7df3ae6c.ext.json)
-
----
-
-### Sri Lanka will need Rs 40 Bn to increase senior citizens’ interest rate to 15 pct
-
-*2024-04-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs-40-bn-to-increase-senior-citizens-interest-rate-to-15-pct-160026/) · `en`
-
-ECONOMYNEXT — Sri Lanka will require 40 billion rupees a year to bring the interest rate offered to senior citizens for their savings and the government is closely studying the matter with the country’s fiscal situation in mind, an official said.
-
-State Minister of Finance Ranjith Siyambalapitiya told parliament on Thursday April 25 that the Treasury will take a decision with “great care”.
-
-Siyambalapitiya was responding to a question raised by opposition leader Sajith Premadasa.
-
-“The 15 percent interest rate offered to senior citizens has now gone down to 8 or 7 percent or even lower in some places. Senior citizens in this country are calling for government intervention to raise the interest rate back to 15 percent,” said Premadasa.
-
-The state minister of finance responded that the government would have to fund such an initiative.
-
-...
-
-[Data](articles/2c6f5061.json)
-
-[Extended Data](ext_articles/2c6f5061.ext.json)
-
----
-
-### Agricultural Minister silence on fertilizer subsidy
-
-*2024-04-25 12:38:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-ගැන-කෘෂි-ඇමති-නිහඬයි/11-409257) · `si`
-
-Agriculture Minister Mahinda Amaraweera has not informed farmers about the fertilizer subsidy for paddy cultivation this year, according to the All Ceylon Agrarian Association. Susantha Navaratne, Minister of Agriculture, also failed to provide details on the subsidy.
-
-🟩
-
-The All Ceylon Agrarian Association says that Minister of Agriculture Mahinda Amaraweera has not told the farmers regarding the fertilizer subsidy given to paddy cultivation this year.
-
-Troops of the All Ceylon Agrarian Federation Susantha Kumara Navaratne said that the Minister of Agriculture Susantha Navaratne said that the Minister of Agriculture had not been able to provide Rs.
-
-The Vice Chairman was speaking to the media in Anuradhapura.
-
-The current government has been auctioned to plunder land deeds to the farmers' inheritance and to strengthen the foreign farmers in the country by Ranil Wickremesinghe.Susantha Kumara Navaratne added that he added.
-
-◼️
-
-[Data](articles/fecc9260.json)
-
-[Extended Data](ext_articles/fecc9260.ext.json)
-
----
-
-### Submission to the Board of Electricity
-
-*2024-04-25 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181927) · `ta`
-
-The Minister of Electricity and Power, Kanjana Wijesekera, proposed a bill to reform the electricity industry, reorganize the National Electricity Board, and integrate the Ceylon Public Use of Electricity Business Commission under the Sri Lanka Public Utilities Commission Act. The bill aims to abolish the Ceylon Electricity Act No. 20 of 2009 and its related regulations.
-
-🟩
-
-The Minister of Electricity and Power and Energy, Kanjana Wijesekera presented the proposed Electricity Board Bill.
-
-In order to organize reforms for the electricity industry, to organize the National Electricity Board, and to organize the Ceylon Public Use of the Electricity Business Commission under the Sri Lanka Public Utilities Commission Act No. 35 of the Act, 2002, the Regulation of the Electricity Business Commission under the Sri Lanka Public Affairs Commission Act.In any combined metaphors, all the activities of the power, the power supply, the power supply, the power supply and the power supply, the 196 -year -old, and the relevant actions of the consolidation of the consolidated metaphor. And the law of the HouseThe purpose of the Bill is to abolish the Ceylon Electricity Act No. 20 of 2009, as well as all the interactions associated with them or their intermediate.
-
-◼️
-
-[Data](articles/b2e62c6b.json)
-
-[Extended Data](ext_articles/b2e62c6b.ext.json)
-
----
-
-### Give cup of milk tea for Rs. 80: Asela Sampath
-
-*2024-04-25 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Give-cup-of-milk-tea-for-Rs-80-Asela-Sampath/108-281355) · `en`
-
-Colombo, April 25 (Daily Mirror) - National Consumer Front Chairman Asela Sampath urged the canteen owners to provide a cup of milk tea for Rs. 80 from today while granting the concession of the reduced prices of imported milk powder to the consumers.
-
-Addressing the media, he said the milk powder importers had decided to reduce the retail prices of their one kilogram and 400 grams of milk powder packets with effect from today due to the depreciation of the dollar in the world market.
-
-"In the recent past, people used to avoid patronising hotels to have a cup of milk tea due to the increase in milk powder prices.
-
-"Now the situation has changed, and again, people have the opportunity to have a cup of milk tea at a price of Rs. 80," Sampath said.
-
-◼️
-
-[Data](articles/96776fe3.json)
-
-[Extended Data](ext_articles/96776fe3.ext.json)
 
 ---

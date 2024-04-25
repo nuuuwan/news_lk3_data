@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 17:18:25**
+As of **2024-04-25 17:34:35**
 
 ## Newspaper Stats
 
-*Scraped **20,931** Articles*
+*Scraped **20,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,131
+islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,187
 adalk | 1,749
@@ -20,17 +20,49 @@ tamilmirrorlk | 2,423
 adaderanalk | 2,493
 virakesarilk | 3,149
 dailymirrorlk | 3,258
-adaderanasinhalalk | 3,380
+adaderanasinhalalk | 3,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,928 (100.0%) of 20,931 articles have been extended.
+20,931 (100.0%) of 20,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### හිටපු අගමැති මහතීර් පුත්‍රයින් ගේ වැඩ නිසා අමාරුවේ වැටෙයි
+
+*2024-04-25 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195967) · `si`
+
+මැලේසියාවේ හිටපු අගමැති මහතීර් මොහොමඩ් ට එරෙහිව පරීක්ෂණයක් පැවැත්වෙන බව එරට දුෂණ විරෝධී කොමිසම පවසයි.
+
+ඒ ඔහුගේ පුත්‍රයින්ට එරෙහිව දුෂණ චෝදනා එල්ලවී ඇති බවත් ඒ හේතුවෙන් හිටපු අගමැතිවරයා සම්බන්ධයෙන් ද පරීක්ෂණය පවත්වන බව එම කොමිසම වැඩිදුරටත් පැවසීය.
+
+මැලේසියාවේ දුෂණ සහ වංචා සම්බන්ධයෙන් චෝදනා එල්ලවී ඇති ප්‍රමුඛ දේශපාලකයින් ට එරෙහිව දැඩි පියවරගැනීමට එරට බලධාරීන් කටයුතු කරයි.
+
+විශේෂයෙන්ම 98 හැවිරිදි හිටපු අගමැතිවරයාගේ සමීපතමයින් සම්බන්ධයෙන් කෙරෙන පරීක්ෂණ දැඩිකර තිබේ. ඔහු වර්තමාන අගමැති ඉබ්‍රහිම් අන්වර් ගේ ප්‍රධානතම දේශපාලන ප්‍රතිවාදියා වෙයි.
+
+අන්වර් පවසන්නේ මෙම පරීක්ෂණ දේශපාලන විරුද්ධවාදීන් ව ඉලක්ක කර සිදු නොකරන බවත් එය රජය මගින් ගෙනයන මහා පරිමාණ දුෂණ වැළැක්වීමේ උත්සාහයක් බවත් ය.
+
+◼️
+
+[Data](articles/bb3b17bb.json)
+
+---
+
+### විදුහල්පතිවරයෙකු සියදිවි හානිකරගනී
+
+*2024-04-25 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195966) · `si`
+
+මෙලෙස සියදිවි හානිකරගෙන ඇත්තේ කුරුණෑගල මාස්පොත ප්‍රදේශයේ පදිංචිව සිටි 55 හැවිරිදි වියේ පසුවූ විදුහල්පතිවරයෙකි.
+
+◼️
+
+[Data](articles/f71c0e83.json)
+
+---
 
 ### GCE O/L tuition classes banned from midnight April 30: Exams Dept.
 
@@ -47,6 +79,8 @@ He said organising, conducting subject-oriented lectures, seminars or classes, p
 ...
 
 [Data](articles/9ea05f5b.json)
+
+[Extended Data](ext_articles/9ea05f5b.ext.json)
 
 ---
 
@@ -65,6 +99,8 @@ The initial negotiations between the two associations were facilitated by the Hi
 ...
 
 [Data](articles/ac879233.json)
+
+[Extended Data](ext_articles/ac879233.ext.json)
 
 ---
 
@@ -109,6 +145,8 @@ Sannasgala was arrested by the Kandana police in response to accusations levelle
 ◼️
 
 [Data](articles/a8cc5a9f.json)
+
+[Extended Data](ext_articles/a8cc5a9f.ext.json)
 
 ---
 
@@ -2265,47 +2303,5 @@ The body has been placed at the Puttalam Hospital while the post mortem will be 
 [Data](articles/9c96b8cd.json)
 
 [Extended Data](ext_articles/9c96b8cd.ext.json)
-
----
-
-### Thundershowers expected in five provinces after 2pm
-
-*2024-04-25 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98826/thundershowers-expected-in-five-provinces-after-2pm) · `en`
-
-Showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, North-western and Southern provinces after 2 p.m., the Department of Meteorology says.
-
-Showers or thundershowers may occur over the coastal areas of Galle to Pottuvil via Matara and Hambantota during the morning.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces in the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at several places in the sea areas off the coast extending from Pottuvil to Matara via Hambantota. Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
-
-Winds will be south-easterly or variable and wind speed will be 20-30 kmph.
-
-...
-
-[Data](articles/fb3789a0.json)
-
-[Extended Data](ext_articles/fb3789a0.ext.json)
-
----
-
-### Red light to foreign employment rackets
-
-*2024-04-25 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195946) · `si`
-
-Minister Manusha Nanayakkara is addressing complaints about the temple near Anuradhapura's chief incumbent.
-
-🟩
-
-Minister Manusha Nanayakkara has received complaints regarding the chief incumbent of the temple near Anuradhapura.
-
-◼️
-
-[Data](articles/44b14a02.json)
-
-[Extended Data](ext_articles/44b14a02.ext.json)
 
 ---

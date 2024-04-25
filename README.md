@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 14:18:28**
+As of **2024-04-25 14:34:16**
 
 ## Newspaper Stats
 
-*Scraped **20,898** Articles*
+*Scraped **20,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,742
-tamilmirrorlk | 2,416
+adalk | 1,744
+tamilmirrorlk | 2,417
 adaderanalk | 2,485
 virakesarilk | 3,149
-dailymirrorlk | 3,253
+dailymirrorlk | 3,254
 adaderanasinhalalk | 3,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,894 (100.0%) of 20,898 articles have been extended.
+20,898 (100.0%) of 20,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### உபுல் சாந்த கைது
+
+*2024-04-25 14:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உபுல்-சாந்த-கைது/175-336319) · `ta`
+
+திரைப்படம் தயாரிப்பதாக கூறி ஒருவரிடம் 10 இலட்சம் ரூபாவை பெற்றுக்கொண்டு நம்பிக்கை மோசடியில் ஈடுபட்ட சம்பவம் தொடர்பில் மூத்த உயர்தர சிங்கள போதகர்  உபுல் சாந்த சன்னஸ்கல கடான பொலிஸாரால் இன்று (25) கைது செய்யப்பட்டுள்ளார்.
+
+கடனா பிரதேசத்திலுள்ள ஒருவரிடம் இருந்து 10 இலட்சம் ரூபா பணத்தை பெற்றுக்கொண்டு ஒரு மாதத்திற்குள் கொடுப்பதாக உறுதியளித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+எவ்வாறாயினும், குறித்த திகதியில் சந்தேகநபர் பணத்தை வழங்க தவறியமையினால், நம்பிக்கை மீறல் காரணமாக, பணத்தை வழங்கிய நபர் கடான பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் இன்று (25) வெலிசர நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவிருந்தார்.
+
+களனி மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஏ.ஜே.ஒய்.பி. கிரிஷாந்தவின் பணிப்புரையின் பிரகாரம் கடான பொலிஸ் பரிசோதகர் காமினி ஹேவாவிதாரண தலைமையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன..
+
+◼️
+
+[Data](articles/4919a7c2.json)
+
+---
+
+### Upul Shantha Sannasgala arrested
+
+*2024-04-25 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upul-Shantha-Sannasgala-arrested/108-281359) · `en`
+
+Colombo, April 25 -  Prominent Sinhala lecturer and social activist Upul Shantha Sannasgala has been arrested over allegations of financial misconduct.
+
+The arrest has been made by the Kandana police in response to accusations levelled against Sannasgala by an individual who claims that he failed to return Rs. 1 million, which was reportedly obtained from him.
+
+◼️
+
+[Data](articles/1df6db73.json)
+
+---
 
 ### Gota fires back at Cardinal, rebuts allegations
 
@@ -47,6 +81,44 @@ Cardinal Ranjith made the following allegations against former President Gotabay
 ...
 
 [Data](articles/6567daf6.json)
+
+[Extended Data](ext_articles/6567daf6.ext.json)
+
+---
+
+### කාදිනල් හිමිගේ චෝදනාවන්ට ගෝඨාභයගෙන් පිළිතුරු
+
+*2024-04-25 13:57:34* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිගේ-චෝදනාවන්ට-ගෝඨාභයගෙන්-පිළිතුරු/11-409261) · `si`
+
+පාස්කු ප්‍රහාරයට පස්වසරක් පිරිම නිමිත්තෙන් පැවැති ආගමික වැඩසටහනේදි අති උතුම් මැල්කම් රංජිත් කාදිනල් හිමිපාණනන් කළ ප්‍රකාශයන්ට හිටපු ජනපති ගෝඨාභය රාජපක්ෂ මහතා පිළිතුරු ලබාදි තිබේ.
+
+ඔහුගේ මාධ්‍යයට නිකුත් කළ නිවේදනය පහත පරිිදි වන අතර එහිිදි කාදිනල් හිමිපාණන් කළ ප්‍රකාශ ගෝඨාභය රාජපක්ෂ මහතා විසින් ප්‍රතික්ෂේප කර තිබේ.
+
+අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් විසින් මට එරෙහිව කරන ලද චෝදනා
+
+පාස්කු ඉරිදා මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයට වසර පහක් පිරීම නිමිත්තෙන් පැවති සැමරීමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් මට එරෙහිව පහත සඳහන් චෝදනා එල්ල කරන ලදී.
+
+පාස්කු ඉරිදා ප්‍රහාරය පිළිබඳ ජනාධිපති විමර්ශන කොමිෂන් සභාවේ වාර්තාව මට ලැබුණු දිනට පසු දිනම මා කාදිනල් හිමිපාණන්ට දුරකථනයෙන් කතා කර එම වාර්තාවේ සඳහන් නිර්දේශ ක්‍රියාත්මක කිරීමට ගියහොත් මට සහාය වූ පුද්ගලයන් අත්අඩංගුවට ගැනීමටත්, ඔවුන්ගේ සංවිධාන තහනම් කිරීමට පවා සිදුවෙන බැවින්, එම නිර්දේශ ක්‍රියාත්මක කිරීමට අසීරු බව උන්වහන්සේ වෙත මා දන්වා සිටි බව.
+
+...
+
+[Data](articles/b2838db6.json)
+
+---
+
+### ශ්‍රී ලංකාව - ඉරාන අතර අවබෝධතා ගිවිසුම් 05 ක්
+
+*2024-04-25 13:54:32* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව---ඉරාන-අතර-අවබෝධතා-ගිවිසුම්-05-ක්/11-409260) · `si`
+
+උමා ඔය ව්‍යාපෘතිය විවෘත කිරීමේ අවස්ථාවට සහභාගීවීම සඳහා මෙරටට පැමිණි ඉරාන ජනපති ඊබුහිම් රසික් මහහතා සහ ජනපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක් ඊයේ (24) සවස ජනපති කාර්යායේදී සිදුවුනා. දෙරට නායකයන් අතර සුහද කථාබහකින් අනතුරුව ද්වීපාශර්වික සාකච්ා හා අවබොධතා ගිවිසුම් 5කට ඒහිදී අත්සන් තැබුනා.
+
+ඉරාන ඉස්ලාමීය ජනරජයේ ජාතික පුස්තකාලය හා ලේඛනාගාරය සහ ශ්‍රී ලංකා ජාතික පුස්තකාලය අතර සහයෝගීතාව පිළිබඳ අවබෝධතා ගිවිසුමට ශ්‍රී ලංකා පාර්ශ්වයෙන් අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා අත්සන් තැබූ අතර ඉරාන ඉස්ලාම් ජනජය වෙනුවෙන් එරට සංස්කෘතික කටයුතු අමාත්‍ය මොහොමඩ් මෙහ්දි ඉස්මයිල් (Mohammad Mehdi Esmaeili) මහතා අත්සන් තැබීය.
+
+ශ්‍රී ලංකාවේ ජාතික චිත්‍රපට සංස්ථාව සහ ඉරාන ඉස්ලාමීය ජනරජයේ සංස්කෘතික හා ඉස්ලාමීය මාර්ගෝපදේශන අමාත්‍යාංශය අතර සිනමා කර්මාන්තයේ සහයෝගීතාව පිළිබඳ අවබෝධතා ගිවිසුමකටද අත්සන් තැබූණු අතර ප්‍රවාහන මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සහ ඉරාන ඉස්ලාම් ජනජය වෙනුවෙන් එරට සංස්කෘතික කටයුතු අමාත්‍ය මොහොමඩ් මෙහ්දි ඉස්මයිල් (Mohammad Mehdi Esmaeili) මහතා ඊට අත්සන් තැබීය.
+
+...
+
+[Data](articles/5047b0a7.json)
 
 ---
 
@@ -68,17 +140,23 @@ The US $ 292.7078 and the sales price were 302.5848 based on the Central Bank's 
 
 ---
 
-### සන්නස්ගල අත්අඩංගුවට
+### Sannasgala arrested
 
 *2024-04-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195960) · `si`
 
-හිටපු ජනප්‍රිය උපකාරක පන්ති ගුරුවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල මහතා පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Mr. Upul Shantha Sannrasgala, a former tuition teacher, arrested for financial fraud.
 
-රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්ධයෙන් සිදුකළ විමර්ශනවලට අදාළව ඒ මහතා මෙලෙස පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+Mr. Upul Shantha Sannrasgala, a former popular tuition teacher, has been arrested by police.
+
+He was arrested by the police regarding the investigations carried out regarding a financial fraud of Rs.
 
 ◼️
 
 [Data](articles/ea389bb2.json)
+
+[Extended Data](ext_articles/ea389bb2.ext.json)
 
 ---
 
@@ -688,23 +766,29 @@ The president will contest the election on the symbol of the coalition that come
 
 ---
 
-### මේ අවුරුද්දේ ආණ්ඩුවේ වෙනසක් නෑ
+### There is no change in the government this year
 
 *2024-04-25 11:46:36* · [`adalk`](https://www.ada.lk/breaking_news/මේ-අවුරුද්දේ-ආණ්ඩුවේ-වෙනසක්-නෑ/11-409254) · `si`
 
+No government change this year. Minister addresses Gampaha Municipal Council issues, highlighting delays in maintenance projects and blaming officials. Public and former council members complain. Tractors not adopted, and work is delayed due to officer weaknesses. Officials' delays and lack of coordination with the District Coordinating Committee are criticized. Despite no presidential election, officials' inaction threatens government stability.
+
+🟩
+
 ඇතැම් රාජ්‍ය නිලධාරීන්ගේ වැරැදි තීන්දු තීරණ නිසා රජයටත් ජනතාවටත් විශාල පාඩු සිදු වෙන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
 
-ඔහු අවධාරණය කරන්නේ නිලධාරින් සිදු කරන එවැනි වැරිදි නිසා අවසානයේ ජනතාවගෙන් චෝදනාවට ලක්වන්නේ දේශපාලන්ඥයින් බවයි.
+He emphasizes that such facts have been charged with politicians at the end of the people.
 
-අදවන විට ඇතැම් රාජ්‍ය ආයතනවල නිලධාරීවාදය නිසා සංවර්ධන වැඩසටහන් නතර වී ඇති බවද හෙතෙම පැවසීය.
+The officials of certain government institutions have stopped due to the officials of certain government institutions.
 
-ගම්පහ මහ නගර සභාවේ පැන නැගී ඇති ගැටලු විසඳීම සදහා ගම්පහ මහ නගර සභාවේ ඊයේ (24) පැවති සාකච්ඡාවකට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය. ගම්පහ මහ නගර සභාව විසින් සිදු කරන සංවර්ධන ව්‍යාපෘති සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කෙරුණි.
+The Minister was speaking at a meeting held yesterday (24) to address the problems that erupted in the Gampaha Municipal Council.. The discussion was discussed with the development projects made by the Gampaha Municipal Council.
 
-2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘතිවල තත්ත්වය මෙහිදී අමාත්‍යවරයා විසින් නාගරික ගම්පහ නාගරික කොමසාරිස් තුමියගෙන් විමසා සිටියේය. එහිදී නාගරික කොමසාරිස්තුමිය කියා සිටියේ 2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘති 33න් 15ක වැඩ මේ වනවිට අවසන් වී ඇති බවයි. 2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘති මේ වසරේ මාස හතරක් ගතවන තුරු අවසන් කිරීමට නොහැකි වීම ගැන අමාත්‍යවරයාගේ අප්‍රසාදයට ලක් විය.
+Maintenance projects found in the year 2023 at the Minister inquired from the Municipal Commissioner of Municipal Commissioner. The Municipal decided that 15 of the 33 main maintenance projects opened in 2023. The maintenance projects commenced in the year 2023 was unable to end until four months of this year.
 
 ...
 
 [Data](articles/f7431efe.json)
+
+[Extended Data](ext_articles/f7431efe.ext.json)
 
 ---
 
@@ -2135,107 +2219,5 @@ Pakistan High Commissioner Maj. Gen. Faheem Ul Aziz (R) HI (M) has offered his h
 [Data](articles/a866f468.json)
 
 [Extended Data](ext_articles/a866f468.ext.json)
-
----
-
-### Court of Appeal summons Hajj Committee for contempt of court
-
-*2024-04-25 04:47:37* · [`dailyftlk`](https://www.ft.lk/news/Court-of-Appeal-summons-Hajj-Committee-for-contempt-of-court/56-760991) · `en`
-
-The Court of Appeal yesterday summoned all the members of the Hajj Committee and the Director of the Muslim Religious and Cultural Affairs for contempt of court.
-
-The Court ordered that they be summoned after a Petition was filed stating that the Hajj committee had acted in violation of a court order.
-
-Previously the Court of Appeal suspended the previous allocation of quotas and ordered a new allocation including a travel agent United Travels.
-
-The Court of Appeal was told yesterday that travel agents were told to flout the order on one hand and the pilgrims were made to fear that the Hajj would not be possible on the other by the Hajj Committee.
-
-Justice N. Samarakone yesterday clarified that there was no suspension of Hajj and that the order was only to include United Travels and reallocate the relevant quotas.
-
-Recordings were played in court where the public were told to violate the court order by the Hajj committee.
-
-...
-
-[Data](articles/2c8fe6c2.json)
-
-[Extended Data](ext_articles/2c8fe6c2.ext.json)
-
----
-
-### Ajith - Shalini Wedding Day: Celebration at Hotel ..!
-
-*2024-04-25 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181899) · `ta`
-
-Ajith and Shalini, child stars, wed on April 24, 2000, with a daughter and son. Today marks their 24th anniversary, celebrated at a hotel in Chennai, with photos going viral.
-
-🟩
-
-Actress Shalini made her debut as a child star in Tamil film industry. He fell in love with actor Ajit Kumar while acting in the movie 'Amarkalam'.
-
-Subsequently, the two were married on April 24, 2000. The couple has a daughter Anoshka and a son named Advik. In this case, Ajith - Shalini's 24th wedding day today.
-
-The two at the star hotel in Chennai cut the cake and celebrated the wedding day. Related photos go viral on social networks.
-
-◼️
-
-[Data](articles/3829e6dc.json)
-
-[Extended Data](ext_articles/3829e6dc.ext.json)
-
----
-
-### Re-Realis Great Success: Congratulations to Vijay ..!
-
-*2024-04-25 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181898) · `ta`
-
-Vijay's film 'Gilly' re-released, 'April 17, 2004' in 4K, grossed Rs 12 crore in two days, and Sakthivelan congratulated him, highlighting the film's impact beyond business.
-
-🟩
-
-Vijay's starring film 'Gilly' has been re-released and welcomed, and the distributor who released the film met Vijay and congratulated Vijay.
-
-Vijay starrer 'April 17, 2004'. It is an important film in Vijay's Carrian and starred in many others including Trisha. Vidyasagar composed the music.
-
-The film was made in theaters on the 20th of the year, which was polished in 4K digital quality after 20 years.. The film has been released by Sakthivel Film Factory.
-
-It has surprised many people that the film has grossed Rs 12 crore in two days.
-
-Following the reception of the film, the distributor Sakthivelan, who released the film, met with actor Vijay in the evening and congratulated him.
-
-He then said, “Spend a lot of time for politics and people. But, make a picture of the year. Beyond business, Gospus is the moment in theaters. ”. The video related to this is going viral.
-
-◼️
-
-[Data](articles/df9cf037.json)
-
-[Extended Data](ext_articles/df9cf037.ext.json)
-
----
-
-### Kalmunai North Divisional Secretariat
-
-*2024-04-25 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181897) · `ta`
-
-Public protests against administrative repression at Kalmunai North Divisional Secretariat continue for a second day. Peaceful demonstrations have been ongoing since Monday, with slogans and demands for rights. The Western Divisional Secretariat, upgraded in 1988, has faced continuous repression, leading to a hunger strike in 2019 for upgrades.
-
-🟩
-
-The public is carrying out a controversial protest on Wednesday (24) for the second day against the continuous administrative repression of the Kalmunai North Divisional Secretariat.
-
-On Monday (25) in front of the Divisional Secretariat, the public gathered in a peaceful way, carrying out various slogans.
-
-Following this, the 31st day is still continuing the struggle with various slogans.
-
-In the past, the Western Divisional Secretariat, which has been the Assistant Government Agent Division in the past, has been upgraded to a separate Divisional Secretariat in 1988 and has been functioning as a separate Divisional Secretariat for the past 30 years as a separate Divisional Secretariat.
-
-Nevertheless, a few politicians have begun the struggle due to continuous administrative repression on the Divisional Secretariat, from the top officials to the top officials.
-
-Over the past 30 years
-
-...
-
-[Data](articles/44b6a206.json)
-
-[Extended Data](ext_articles/44b6a206.ext.json)
 
 ---

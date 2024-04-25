@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 20:34:07**
+As of **2024-04-25 20:53:12**
 
 ## Newspaper Stats
 
-*Scraped **20,975** Articles*
+*Scraped **20,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,755
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
 virakesarilk | 3,163
-dailymirrorlk | 3,265
+dailymirrorlk | 3,266
 adaderanasinhalalk | 3,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,975 (100.0%) of 20,975 articles have been extended.
+20,975 (100.0%) of 20,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Anura Kumara leaves for Sweden tonight
+
+*2024-04-25 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-leaves-for-Sweden-tonight/108-281370) · `en`
+
+Colombo, April 25 (Daily Mirror)- National People's Power (NPP) leader Anura Kumara Dissanayake is scheduled to leave for Sweden tonight, party sources said.
+
+He is to attend a meeting with the Sri Lankan diaspora in Stockholm, Sweden on Saturday (27).
+
+◼️
+
+[Data](articles/8905f593.json)
+
+---
 
 ### The price of milk powder has no further decrease
 
@@ -2269,29 +2283,5 @@ The hospital administration said that there were some minor injuries on the leg 
 [Data](articles/0c14a6b9.json)
 
 [Extended Data](ext_articles/0c14a6b9.ext.json)
-
----
-
-### 802kg of gems will be buying a price of gems
-
-*2024-04-25 12:03:49* · [`adalk`](https://www.ada.lk/picture_story/කිලෝ-ග්‍රෑම්-802ක-මැණික්-ගලට-මිලක්-තියා-මිලදි-ගන්න-අවස්ථාව/10-409255) · `si`
-
-A 802kg gemstone mix, stolen from Ella Mount Vegan Hotel, was valued at $60M, inspected, and appraised by buyers.
-
-🟩
-
-A large gem stone in a gem mix of Rs.
-
-The gem stolen at the Ella Mount Vegan Hotel has been planted at the Ella Mount Vegan Hotel, which has been inspected by US $ 60 million at a cost of US $ 60 million.P. Says Seneviratne.
-
-Several buyers have already examined the stone and have already submitted the prices.
-
-The certificates and valuation reports received by the relevant divisions have been displayed with this gem stone.
-
-◼️
-
-[Data](articles/811b2145.json)
-
-[Extended Data](ext_articles/811b2145.ext.json)
 
 ---

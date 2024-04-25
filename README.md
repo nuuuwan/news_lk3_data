@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 10:34:15**
+As of **2024-04-25 10:51:36**
 
 ## Newspaper Stats
 
-*Scraped **20,837** Articles*
+*Scraped **20,838** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,53 @@ tamilmirrorlk | 2,410
 adaderanalk | 2,478
 virakesarilk | 3,136
 dailymirrorlk | 3,248
-adaderanasinhalalk | 3,364
+adaderanasinhalalk | 3,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,835 (100.0%) of 20,837 articles have been extended.
+20,837 (100.0%) of 20,838 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### ஜனாதிபதி வேட்பாளர் குறித்து நாமல் கருத்து
+### මහින්දානන්දට එරෙහි නඩුවේ තීන්දුව අප්‍රේල් 30
+
+*2024-04-25 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195950) · `si`
+
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව ගොනුකර ඇති නඩුවේ තීන්දුව ප්‍රකාශ කිරීම මේ මස 30 වනදා දක්වා කල් තැබීමට කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම නඩුවේ තීන්දුව අද (25) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+
+එහෙත් මහාධිකරණ විනිසුරු නවරත්න මහරසිංහ මහතා සඳහන් කළේ, එහි තීන්දුව ප්‍රකාශ කිරීම ලබන 30 වන දා සිදුකරන බවය.
+
+මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+
+◼️
+
+[Data](articles/452849a8.json)
+
+---
+
+### Namal's comment on the presidential candidate
 
 *2024-04-25 10:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-குறித்து-நாமல்-கருத்து/175-336306) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தமது கட்சியிலிருந்து பொருத்தமான வேட்பாளர் நிறுத்தப்படுவார் என, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+Sri Lanka PA MP Namal Rajapaksa announces his party will field a candidate for the presidential election, highlighting multiple options within his party.
 
-எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தமது கட்சியில் பல வேட்பாளர்கள் இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+🟩
+
+Sri Lanka PA MP Namal Rajapaksa has said that the appropriate candidate from his party will be fielded to contest the upcoming presidential election.
+
+He pointed out that there are many candidates in his party to contest the upcoming presidential election.
 
 ◼️
 
 [Data](articles/93d3f760.json)
+
+[Extended Data](ext_articles/93d3f760.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ However, the Milk Powder Importers’ Association asserted that it was in no way
 ◼️
 
 [Data](articles/4b5f78c5.json)
+
+[Extended Data](ext_articles/4b5f78c5.ext.json)
 
 ---
 
@@ -2149,27 +2175,5 @@ Meanwhile, 95 percent of the MPs would not have read the report of the Commissio
 [Data](articles/85eba3d5.json)
 
 [Extended Data](ext_articles/85eba3d5.ext.json)
-
----
-
-### The price of milk powder down
-
-*2024-04-24 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195937) · `si`
-
-Milk Poewa Esala announces a reduction in the price of imported milk powder, effective tomorrow, with a decrease of Rs. 130 per kilo.
-
-🟩
-
-According to the Milk Poewa Esala, the Association of Milkpola says that the import milk powder prices will be reduced to effect from tomorrow.
-
-Accordingly, the proportion of imported milk powder will be reduced by a kilos of imported milk powder at a price level.
-
-The Association further stated that the price of 400 g of imported milk powder will be reduced by Rs. 130 and Rs. 130.
-
-◼️
-
-[Data](articles/b826b75b.json)
-
-[Extended Data](ext_articles/b826b75b.ext.json)
 
 ---

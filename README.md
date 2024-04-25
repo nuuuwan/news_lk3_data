@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 16:04:16**
+As of **2024-04-25 16:18:33**
 
 ## Newspaper Stats
 
-*Scraped **20,921** Articles*
+*Scraped **20,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,747
 tamilmirrorlk | 2,421
 adaderanalk | 2,492
 virakesarilk | 3,149
-dailymirrorlk | 3,255
-adaderanasinhalalk | 3,378
+dailymirrorlk | 3,256
+adaderanasinhalalk | 3,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,914 (100.0%) of 20,921 articles have been extended.
+20,921 (100.0%) of 20,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Railway gets S.S. Mudalige to cover GMR’s duties
+
+*2024-04-25 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-gets-S-S-Mudalige-to-cover-GMRs-duties/108-281361) · `en`
+
+Colombo, April 25 (Daily Mirror) - Director General (Planning) of the Transport and Highways Ministry, S.S. Mudalige has been appointed to cover the duties of the position of General Manager, Railways until the Cabinet appoints a suitable officer.
+
+The GMR post fell vacant due to the sudden death of H.M.K.B. Bandara.
+
+The appointment letter related to the post was made by Transport and Highways Ministry Secretary Ranjith Ganganath Rubasinghe and handed over to S.S. Mudalige by Minister Bandula Gunawardena at the Ministry office.
+
+Accordingly, in addition to the position of Director General (Planning) of the Ministry that he currently holds, he will cover the duties of the position of General Manager of Railways.
+
+◼️
+
+[Data](articles/99a6352b.json)
+
+---
 
 ### More than 100 inmates escape after rain damages Nigerian prison
 
@@ -45,6 +63,28 @@ The statement gave no details on the identities or affiliation of the escaped pr
 ◼️
 
 [Data](articles/882bff82.json)
+
+[Extended Data](ext_articles/882bff82.ext.json)
+
+---
+
+### මාස 4ට විදේශ රැකියා සම්බන්ධ පැමිණිලි 1371ක්
+
+*2024-04-25 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195964) · `si`
+
+2024 වසරේ ගතවූ කාලය මාස 4 ක කාලය තුළ විදේශ රැකියා සම්බන්ධ පැමිණිලි 1371ක් විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශය වෙත ලැබී තිබේ.
+
+කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකිරීම, වලංගු රැකියා ඇණවුමක් නොමැතිව විදේශ රැකියා ලබාදීම සඳහා මුදල් අයකිරීම, සංචාරක වීසා මගින් තැනැත්තන් විදේශ රැකියා සඳහා යොමුකිරීම ආදී පැමිණිලි කාර්යාංශය වෙත ලැබී ඇත.
+
+මෙසේ කාර්යාංශය වෙත ලද පැමිණිලි අතුරින් පැමිණිලි 495ක් සඳහා විසඳුම් මෙම කාලසීමාව තුළදී ලබාදී ඇති අතර, පැමිණිලිකරුවන්ට රු. 53,509,520.00ක මුදලක් යළි අයකරදීමටද විමර්ශන නිලධාරීන් සමත්වී තිබේ.
+
+තවත් පැමිණිලි 680කට අධික ප්‍රමාණයක් සඳහා වංචාකරුවන්ට එරෙහිව අධිකරණයේ නඩු පැවරීමටද කාර්යාංශය පියවර ගෙන තිබේ.
+
+මෙම කාලය තුළ විදේශ රැකියා වංචාවන් සම්බන්ධයෙන් සැකකරුවන් 28 දෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කර ඇති අතර, කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය හා වලංගු රැකියා ඇණවුමක් ලබානොගෙන විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකළ ආයතන 8ක් ද කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් වැටලීම් කර තිබුණි.
+
+...
+
+[Data](articles/9532efd6.json)
 
 ---
 
@@ -134,19 +174,27 @@ On the sidelines, the Foreign Minister is expected to have bilateral meetings wi
 
 [Data](articles/2a4d89dd.json)
 
+[Extended Data](ext_articles/2a4d89dd.ext.json)
+
 ---
 
-### සන්නස්ගල අත්අඩංගුවට
+### Sannasgala arrested
 
 *2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගල-අත්අඩංගුවට/11-409264) · `si`
 
-ජනප්‍රිය YouTube වැඩසටහන් නිර්මාණ කරුවකුසේම මීට පෙර උපකාරක පන්ති ගුරුවරයකුව සිටි උපුල් ශාන්ත සන්නස්ගල පොලීිසිය විසින් අත්අඩංගුවට ගෙන තිබෙනවා.
+Sannasgala, a YouTube Program Designer, arrested by Upul Shantha Police on suspicion of financial fraud.
 
-රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්දව සිදුකළ පැමිණිල්ලකට අනුව සිදුකල විමර්ශනවලට අදාළව සැකපිට ඔහු අත්අඩංගුවට ගෙන ඇතිබව වාර්තා වනවා.
+🟩
+
+The Popular YouTube Program Design has been arrested by the Upul Shantha Police, a tuition teacher.
+
+According to a complaint lodged with a complaint with a financial fraud, he was arrested on suspicion.
 
 ◼️
 
 [Data](articles/72c0edb5.json)
+
+[Extended Data](ext_articles/72c0edb5.ext.json)
 
 ---
 
@@ -166,6 +214,8 @@ Furthermore, he said that instructions were given to the Water Supply and Draina
 
 [Data](articles/939bb1e9.json)
 
+[Extended Data](ext_articles/939bb1e9.ext.json)
+
 ---
 
 ### Parliament grants three-months leave for MP R. Sampanthan
@@ -183,6 +233,8 @@ Veteran Tamil politician R. Sampanthan, who is aged 91 years, is reported to be 
 ◼️
 
 [Data](articles/acf97336.json)
+
+[Extended Data](ext_articles/acf97336.ext.json)
 
 ---
 
@@ -275,6 +327,8 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 ◼️
 
 [Data](articles/d242f60b.json)
+
+[Extended Data](ext_articles/d242f60b.ext.json)
 
 ---
 
@@ -1882,25 +1936,37 @@ According to the incident, the police said that they were arrested due to the le
 
 ---
 
-### උපුල් ශාන්ත සන්නස්ගල හදිසියේ අත්අඩංගුවට ගත්තේ ඇයි?
+### Why was Upul Shantha Sannasgala Suddenly arrested?
 
 *2024-04-25 09:24:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n2j5zyjvo) · `si`
 
-සිංහල උපකාරක පන්ති ගුරුවරයෙකු සහ ග්‍රන්ථ කර්තෘවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල අද (අප්‍රේල් 25) පෙරවරුවේ අත්අඩංගුවට ගත් බව පොලිසිය පවසයි.
+Upul Shantha Sannasgala, a teacher and writer, was arrested on Apr 25 for allegedly defrauding a businessman of Rs. 200,000. Despite receiving the money as a donation, the businessman accused him of not returning it. Sannasgala was released on a promise to pay within two weeks but was re-arrested on a new complaint. The case is now in court.
 
-කඳාන ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගෙන් රුපියල් ලක්ෂ 10ක් වංචා කළ බවට අදාළ ව්‍යාපාරිකයා විසින් කරන ලද පැමිණිල්ලකට අනුව ඔහු අත්අඩංගුවට ගත් බව කඳාන පොලිසිය පැවසීය.
+🟩
 
-උපුල් ශාන්ත සන්නස්ගල, අදාළ ව්‍යාපාරිකයාගෙන් මීට වසර දෙකකට පමණ පෙර චිත්‍රපටයක් නිෂ්පාදනය කිරීම සඳහා බව පවසමින් නැවත දෙන පොරොන්දුව පිට රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන තිබුණු බවට ව්‍යාපාරිකයා පොලිසියට පැමිණිලි කර තිබේ.
+A teacher and a book teacher and Upul Shantha Sannasgala has been arrested this morning (Apr 25).
 
-නැවත ලබා දෙන බව පැවසුව ද, වසර දෙකක කාලයක් ගත වී ඇතත් ඔහු එම මුදල තමාට ලබා නොදී මග හරින බව ව්‍යාපාරිකයා චෝදනා කරයි.
+The Kandana Police said that he was arrested on a complaint lodged by the businessman that the businessman had defrauded Rs.
 
-කෙසේ වෙතත්, උපුල් ශාන්ත සන්නස්ගල පොලිසියට පවසා තිබුණේ, අදාළ මුදල පරිත්‍යාගයක් ලෙස තමාට ලැබුණු බව ය.
+Upul Shantha Sannasgala said the businessman had lodged a complaint with the police that Rs.
 
-මේ සම්බන්ධයෙන් පසුගිය දා උපුල් ශාන්ත සන්නස්ගල පොලිසියට කැඳවූ අවස්ථාවේ එම මුදල සති දෙකක් තුළ ගෙවීමට පියවර ගන්නා බවට වූ පොරොන්දුව පිට පොලිසිය ඔහු මුදා හැර තිබිණි.
+Even though it is said again, two years have passed, the businessman accuses him not to give it.
+
+However, Upul Shantha Sanvestgala had told the police that he received the money as a donation.
+
+When he was summoned to the police of Upul Shanthagala recently, he was released on the promise to pay the money within two weeks.
+
+However, the OIC of the Kandana Police stated that he was arrested on a complaint lodged by the businessman that Upul Shantha Sannasgala was not returning the money.
+
+The arrest of Upul Shantha Square is being produced before the Welisara Magistrate's Court today.
+
+The OIC stated that he will act on court orders after being produced before courts.
 
 ...
 
 [Data](articles/7f1b4372.json)
+
+[Extended Data](ext_articles/7f1b4372.ext.json)
 
 ---
 
@@ -2237,39 +2303,5 @@ If this bill is not amended at the committee stage, it will impose significant c
 [Data](articles/fe45d89d.json)
 
 [Extended Data](ext_articles/fe45d89d.ext.json)
-
----
-
-### Dissecting digital disruption: The imperative of digital literacy for today’s CEOs
-
-*2024-04-25 05:35:58* · [`dailyftlk`](https://www.ft.lk/columns/Dissecting-digital-disruption-The-imperative-of-digital-literacy-for-today-s-CEOs/4-761008) · `en`
-
-A golden rule for leaders embarking on digital transformation is to educate themselves. This education is not merely academic; it is a necessary step in becoming conversant in the language of technology, a prerequisite for the formulation and execution of effective digital strategies – adapted from Rewired, McKinsey, 2021.
-
-We have never seen change like we experience today. In today›s VUCA (Volatile, Uncertain, Complex, and Ambiguous) world, corporate leaders find themselves rowing not in the calm waters but in the turbulent rapids of white-water rafting. The calm predictability of the past has given way to a landscape where constant change is the only constant.
-
-Amidst this turbulence, one of the most significant drivers of change has been technology, whose capabilities are expanding at a staggering rate. There are three factors that create these ‘disruptive’ trends, which need to be understood in the right magnitude and scale.
-
-...
-
-[Data](articles/fe65951c.json)
-
-[Extended Data](ext_articles/fe65951c.ext.json)
-
----
-
-### Why stories make business sense
-
-*2024-04-25 05:31:41* · [`dailyftlk`](https://www.ft.lk/columns/Why-stories-make-business-sense/4-761007) · `en`
-
-Stories have been a primary means of transmitting knowledge and cultural values across generations. Community reading in the Temple in Sri Lanka circa 1923 from a hand etching by Charles W. Bartlett
-
-The thirst for stories is evidenced in how people attended book fairs through the pandemic and economic restrictions. So much so, that we wonder whether our collective appetite for stories is only heightened in crises. Photo by B.Ganguly.
-
-...
-
-[Data](articles/48729d9a.json)
-
-[Extended Data](ext_articles/48729d9a.ext.json)
 
 ---

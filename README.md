@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 08:18:38**
+As of **2024-04-25 08:33:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,822 (100.0%) of 20,825 articles have been extended.
+20,825 (100.0%) of 20,825 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,6 +64,8 @@ The SLPP and the UNP led by the President decided to have May Day rallies separa
 
 [Data](articles/a5ad6bf8.json)
 
+[Extended Data](ext_articles/a5ad6bf8.ext.json)
+
 ---
 
 ### Crackdown on fraudulent foreign job schemes: Manusha
@@ -79,6 +81,8 @@ However, he instructed officials to take necessary measures to prevent any activ
 ...
 
 [Data](articles/c213e27a.json)
+
+[Extended Data](ext_articles/c213e27a.ext.json)
 
 ---
 

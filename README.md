@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 12:18:31**
+As of **2024-04-25 12:34:06**
 
 ## Newspaper Stats
 
-*Scraped **20,864** Articles*
+*Scraped **20,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,183
 adalk | 1,737
-tamilmirrorlk | 2,412
+tamilmirrorlk | 2,414
 adaderanalk | 2,481
 virakesarilk | 3,142
 dailymirrorlk | 3,250
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,864 (100.0%) of 20,864 articles have been extended.
+20,864 (100.0%) of 20,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### WFP அரிசியை அரசாங்க அரிசியுடன் கலக்க வேண்டாம்
+
+*2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WFP-அரிசியை-அரசாங்க-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
+
+பாடசாலைகளுக்கு விநியோகிக்கப்பட்டு வருகின்ற, குழந்தைகளின் பாவனைக்கு ஏற்றதல்ல என கூறப்படும் அரிசி உலக உணவுத் திட்டத்தினால் (WFP) வழங்கப்பட்டதே தவிர அரசாங்கத்தினால் வழங்கப்படவில்லை என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த இன்று உறுதியளித்துள்ளார்.
+
+இன்று பாராளுமன்றத்தில் உரையாற்றிய அவர், அரசாங்க வேலைத்திட்டத்திற்கு ஆதரவாக WFP இனால் அந்த அரிசி பொதிகள் கூடுதலாக வழங்கப்பட்டதாக தெரிவித்தார்.
+
+அரசு நிதியில் விநியோகிக்கப்படும் உணவு குழந்தைகள் சாப்பிடுவதற்கு ஏற்றது என்பதை அரசு உறுதி செய்கிறது. சுகாதார சேவைகள் பணிப்பாளர் நாயகத்தின் ஊடாக மாகாண கல்வி நிலையங்களுக்கு அரிசி கையிருப்பு வழங்கப்பட்ட பின்னரும், மாகாண பொது சுகாதார பரிசோதகர்களின் (PHIs) உதவியுடன் வழக்கமான தர சோதனைகளுக்கு அவர்கள் ஆலோசனை வழங்குவதாக அமைச்சர் பிரேமஜயந்த தெரிவித்தார்.
+
+அரசு பல்வேறு வளங்களிலிருந்து வரும் கூடுதல் நிதியின் மூலம் ஒவ்வொரு குழந்தைக்கும்  ரூ. 110 ஒதுக்கியுள்ளது . இதன் விளைவாக, WFP திட்டத்தின் மூலம் வழங்கப்படும் அரிசியுடன் அரசாங்கத்தின் நிதியுதவியில் உள்ள அரிசியை கலக்க வேண்டாம் என்று அமைச்சர் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/8f9c8fed.json)
+
+---
+
+### ஸ்ரீ பாத மலையில் இருந்து குதித்த  இளைஞன்  மீட்பு
+
+*2024-04-25 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஸ்ரீ-பாத-மலையில்-இருந்து-குதித்த-இளைஞன்-மீட்பு/76-336311) · `ta`
+
+சிவனொளிபாதமலை  முற்றத்தில் இருந்து கீழே குதித்து காணாமல் போன இளைஞன் புதன்கிழமை  (24) மதியம்  கண்டு பிடிக்கப்பட்டதாக நல்லதண்ணிய பொலிஸார் தெரிவித்துள்ளனர் .
+
+ஹம்பாந்தோட்டை, சூரியவெவ பிரதேசத்தில் இருந்து இரண்டு பெண்களுடன்  சிவனொளிபாதமலை சென்ற தினேஷ ஹேமந்த (33) என்ற இளைஞன்  ஸ்ரீ பாத உட மலுவ பாதுகாப்பு வேலியில் இருந்து கீழே குதித்துள்ள காணொளி,  நிறுவப்பட்ட பாதுகாப்பு கேமராவில்  பதிவாகியுள்ளது
+
+இந்நிலையில் நல்லதண்ணிய  பொலிஸ் பிரிவிற்குட்பட்ட மரே தோட்டத்தை சேர்ந்த இளைஞர்  சிலர்  விறகு  வெட்டுவதற்காக சென்றுள்ள போது  காணாமல் போன  இளைஞன் சுயநினைவின்றி  கிடப்பதை  கண்டு   நல்லதண்ணிய பொலிஸாருக்கு  தெரிவித்துள்ளனர் .
+
+அதற்கமைய  உடனடியாக  அவ் இடத்திற்கு  சென்ற  பொலிஸார் குறித்த  இளைஞனை  மீட்டு  மஸ்கெலியா பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர்  டிக் ஓயா  வைத்தியசாலைக்கு  மாற்றப்பட்டுள்ளார் .
+
+...
+
+[Data](articles/0c14a6b9.json)
+
+---
 
 ### Meeting the major coalition
 
@@ -2191,55 +2227,5 @@ The roads were closed to facilitate the movement of his convoy without any prior
 [Data](articles/6c50bf48.json)
 
 [Extended Data](ext_articles/6c50bf48.ext.json)
-
----
-
-### Sri Lanka, Iran ink five agreements to strengthen bilateral ties
-
-*2024-04-24 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98824/sri-lanka-iran-ink-five-agreements-to-strengthen-bilateral-ties) · `en`
-
-Iran and Sri Lanka on Wednesday (24) signed five Memorandums of Understanding (MoUs), aimed at bolstering bilateral relations between the two countries.
-
-Signed in the presence of President Ranil Wickremesinghe and President Dr. Ebrahim Raisi, the five agreements will cover cooperation between the two countries in the fields of film, media, tourism, cooperatives, libraries, and cultural, scientific, technical, and sports:
-
-1. Memorandum of Understanding on cooperation between National Library of Sri Lanka and the National Library and Archives of Iran
-
-2. Memorandum of Understanding on cooperation in the film industry between the National Film Corporation of Sri Lanka and the Ministry of Cultural and Islamic Guidance of Iran
-
-3. Memorandum of Understanding on cooperation in the field of media and tourism between Sri Lanka and Iran
-
-4. Agreement on program of cultural, scientific and technical corporation, mass media, youth and sports between Sri Lanka and Iran
-
-...
-
-[Data](articles/2bd0ce96.json)
-
-[Extended Data](ext_articles/2bd0ce96.ext.json)
-
----
-
-### 5 Memorandum of Understanding (MoU) between Iran and Sri Lanka
-
-*2024-04-24 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181890) · `ta`
-
-Iran and Sri Lanka signed five MoUs to enhance bilateral relations in film, media, tourism, cooperative, libraries, culture, science, technology, and sports. The President of Iran, Ibrahim Raisi, met with Sri Lanka's President Ranil Wickremesinghe in Colombo.
-
-🟩
-
-Five MoUs were signed shortly before the aim of strengthening bilateral relations between Iran and Sri Lanka.
-
-The Presidential Media Unit said that through these Memorandum of Understanding, the cooperation between the two countries will be improved in the fields of film industry, media, tourism, co -operative, libraries, culture, science, technology and sports.
-
-Earlier, a delegation, including the President of the Islamic Republic of Iran, Ibrahim Raisi, arrived at the Presidential Office in Colombo on Wednesday evening.
-
-After that, Iranian President Dr. Ibrahim Raisi (Dr.. The official meeting between President Ranil Wickremesinghe was held at the Presidential Office.
-
-Since then, five Memorandum of Understanding (MoU) have been signed between Iran and Sri Lanka.
-
-◼️
-
-[Data](articles/2ab08778.json)
-
-[Extended Data](ext_articles/2ab08778.ext.json)
 
 ---

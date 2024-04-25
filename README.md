@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 13:34:08**
+As of **2024-04-25 13:53:16**
 
 ## Newspaper Stats
 
-*Scraped **20,877** Articles*
+*Scraped **20,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,101 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
-economynextcom | 1,183
+economynextcom | 1,187
 adalk | 1,739
 tamilmirrorlk | 2,416
-adaderanalk | 2,484
+adaderanalk | 2,485
 virakesarilk | 3,142
 dailymirrorlk | 3,252
-adaderanasinhalalk | 3,372
+adaderanasinhalalk | 3,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,874 (100.0%) of 20,877 articles have been extended.
+20,877 (100.0%) of 20,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### චීන කොමියුනිස්ට් පක්ෂයේ ඉහළ පෙළේ නියෝජිත පිරිසක් විපක්ෂ නායකව හමුවෙයි.
+### සම්බන්ධන් ට මාස තුනක නිවාඩුවක්
+
+*2024-04-25 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195959) · `si`
+
+ත්‍රිකුණාමල දිස්ත්‍රික්කයේ  මන්ත්‍රී ආර්. සම්බන්ධන් මහතාට මාස තුනක කාලයක නිවාඩු ලබාදීමට පාර්ලිමේන්තුවට ගෙන ආ යෝජනාව අද (25) සම්මත විය.
+
+විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂ්මන් කිරිඇල්ල මහතා එම යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කළ අතර දෙමළ ජාතික සන්ධානයේ චාල්ස් නිර්මලනාදන් මහතා එම යෝජනාව ස්ථිර කළේය.
+
+ආර් සම්බන්ධන් මහතා 91වන වියේ පසුවන අතර  මේ වනවිට අසනීප තත්ත්වයකින් පසුවෙයි.
+
+◼️
+
+[Data](articles/6ca270c9.json)
+
+---
+
+### Unions threaten to “defeat” Sri Lanka electricity reforms bill outside parliament
+
+*2024-04-25 13:30:00* · [`economynextcom`](https://economynext.com/unions-threaten-to-defeat-sri-lanka-electricity-reforms-bill-outside-parliament-160035/) · `en`
+
+ECONOMYNEXT — Trade unions representing Sri Lanka’s state-run Ceylon Electricity Board (CEB) have threatened to defeat a new electricity reform bill even if it is passed in parliament.
+
+Trade unions held a demonstration against the bill Thursday April 25 near the parliament complex. Parallel protests were also organised in Galle, Tangalle and Hambantota.
+
+General Secretary of the Ceylon Electrical Workers Union Ranjan Jayalal told reporters at the demonstration that
+
+“This is bill that offers no benefits to CEB workers or to seven million CEB consumers but proposes to split the CEB  to a number of companies and offer them to foreign companies. Even if it is passed, we will defeat it outside parliament,” said Jayalal.
+
+...
+
+[Data](articles/bf3802b3.json)
+
+---
+
+### හිටපු ජනපති ගෝඨාභයගෙන් කාදිනල් හිමිට පිළිතුරු
+
+*2024-04-25 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195958) · `si`
+
+පාස්කු ඉරිදා ප්‍රහාරයට වසර 5ක් පිරීම නිමිත්තෙන් පසුගිය දා පැවැත්වූ සැමරුමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් තමාට එල්ල කළ චෝදනා සම්බන්ධයෙන් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+කාදිනල් හිමිපාණන් විසින් එල්ල කරන ලද ප්‍රධාන චෝදනා 4ක් උපුටා දක්වමින් අදාළ නිවේදනය නිකුත් කර ඇත.
+
+පාස්කු ඉරිදා මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයට වසර පහක් පිරීම නිමිත්තෙන් පැවති සැමරීමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් මට එරෙහිව පහත සඳහන් චෝදනා එල්ල කරන ලදී.
+
+•පාස්කු ඉරිදා ප්‍රහාරය පිළිබඳ ජනාධිපති විමර්ශන කොමිෂන් සභාවේ වාර්තාව මට ලැබුණු දිනට පසු දිනම මා කාදිනල් හිමිපාණන්ට දුරකථනයෙන් කතා කර එම වාර්තාවේ සඳහන් නිර්දේශ ක්‍රියාත්මක කිරීමට ගියහොත් මට සහාය වූ පුද්ගලයන් අත්අඩංගුවට ගැනීමටත්, ඔවුන්ගේ සංවිධාන තහනම් කිරීමට පවා සිදුවෙන බැවින්, එම නිර්දේශ ක්‍රියාත්මක කිරීමට අසීරු බව උන්වහන්සේ වෙත මා දන්වා සිටි බව.
+
+•මම ජනාධිපති කොමිෂන් සභා වාර්තාවේ පළමු වෙළුමේ පිටපතක් කාදිනල්තුමාට ලබා දීම ප්‍රමාද කළ බවත්, ඉතිරි වෙළුම් එතුමාට ලබා නොදුන් බව.
+
+...
+
+[Data](articles/7fe0d563.json)
+
+---
+
+### Toping delegation from the Chinese Communist Party meets Opposition Leader
 
 *2024-04-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195957) · `si`
 
-චීන කොමියුනිස්ට් පක්ෂයේ ජාත්‍යන්තර සම්බන්ධතා පිළිබඳ දෙපාර්තමේන්තුවේ ප්‍රධානීන් පිරිසක් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ප්‍රමුඛ සමගි ජන සන්ධානයේ නියෝජිතයන් අතර හමුවක් ඊයේ (24) පස්වරුවේ විපක්ෂ නායක කාර්යාලයේ දී සිදුවිය.
+A Chinese Communist Party delegation met with Sri Lanka's Opposition Leader Sajith Premadasa, discussing economic development models and entrepreneurial challenges.
 
-දෙපාර්ශ්වය අතර සිදු වූ මෙම සුවිශේෂී සාකච්ඡාව පැයක කාලයකට පමණ සීමා වූ අතර මෙම සාකච්ඡාවට අමතරව විනාඩි 45ක කාලයක් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ චීන කොමියුනිස්ට් පක්ෂයේ ජාත්‍යන්තර දෙපාර්තමේන්තුවේ මධ්‍යම කාරක සභාවේ උප ඇමතිනී සන් හයියන් මෙනවිය අතර පෞද්ගලික සාකච්ඡාවක් ද පැවැත්විණි.
+🟩
 
-මෙහි දී ආර්ථික, වානිජ, ව්‍යාපාර, දේශපාලන සබඳතා යන ක්ෂේත්‍ර රැසක් සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡාවට ලක් වූ අතර ඒ අනුව ශ්‍රී ලංකාව සහ චීනය අතර ව්‍යාපාර සම්බන්ධතා ගොඩනැගීම සම්බන්ධයෙන් දෙපාර්ශ්වය අතර අදහස් හුවමාරු විය.
+A meeting of the heads of the Chinese Communist Party International Relations Department of International Relations Meeting was a member of the Opposition Leader Sajith Premadasa at the Opposition Leader's office last evening.
 
-මෙහි දී චීනයේ ආර්ථික සංවර්ධන මොඩලය මෙරටට ආදේශ කර ශ්‍රී ලංකාවේ පවතින තත්ත්වයෙන් ගොඩගත හැකි ක්‍රමවේදයක් සම්බන්ධයෙන් ද දෙපාර්ශ්වය අතර අදහස් හුවමාරු විය.
+The unique discussion between the two parties was limited for about an hour and a private discussion between the Deputy Leader of the Central Committee of the Communist Party and the Vice Minister of the Communist Party.
+
+The two sides exchanged views between Sri Lanka and China and China and China and China.
+
+The two sides exchanged views between the two parties to replace China's Economic Development model in Sri Lanka.
+
+Opposition Leader Sajith Premadasa also requested that the heads of the Chinese Communist Party members of the Communist Party members of the Communist Party of the Department of Communist Party to restore the economy of the country.
 
 ...
 
 [Data](articles/c4df9b47.json)
+
+[Extended Data](ext_articles/c4df9b47.ext.json)
 
 ---
 
@@ -61,6 +123,24 @@ In a statement, Rajapaksa addressed four such allegations made by the Cardinal a
 ◼️
 
 [Data](articles/819d1fac.json)
+
+[Extended Data](ext_articles/819d1fac.ext.json)
+
+---
+
+### Easter attacks: Gotabaya responds to allegations made by Cardinal Ranjith
+
+*2024-04-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98835/easter-attacks-gotabaya-responds-to-allegations-made-by-cardinalranjith) · `en`
+
+Former President Gotabaya Rajapaksa on Thursday (25) vehemently refuted the allegations recently levelled at him by His Eminence Malcolm Cardinal Ranjith concerning the 2019 Easter Sunday terror attacks.
+
+In a statement, Rajapaksa addressed four such allegations made by the Cardinal at an event held to mark the 5th anniversary of the carnage that claimed the lives of more than 250 people and left hundreds of others wounded.
+
+Responding to the first allegation, the former president said: “I categorically state that I did NOT speak to the Cardinal over the phone after the Presidential Commission report was submitted to me and tell him that the recommendations of the Presidential Commission could not be implemented because that would entail the arrest of people and even the banning of organisations allied with me.”
+
+...
+
+[Data](articles/bb0aca05.json)
 
 ---
 
@@ -107,6 +187,42 @@ He stated Iran had progressed in various fields of technology over the past year
 ...
 
 [Data](articles/f0178659.json)
+
+[Extended Data](ext_articles/f0178659.ext.json)
+
+---
+
+### Sri Lanka presidential debate: NPP fires back at SJB, asks for alternative dates
+
+*2024-04-25 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-debate-npp-fires-back-at-sjb-asks-for-alternative-dates-160030/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s leftist opposition party National People’s Power (NPP) has shot back at main opposition Samagi Jana Balawegaya (SJB) asking the party to suggest alternative dates for the proposed debate between the two parties’ leaders.
+
+The NPP’s Nalinda Jayatissa, who has been tasked with overseeing the organisation of the debate from the NPP’s end, told reporters on Thursday April 25 that, since all political parties are going to be busy in the run up to Labour Day on May 01, the SJB can propose three or four dates before May 20.
+
+“Letters have been exchanged on this debate between the presidential candidates of the NPP and the SJB, but there is still no consensus the date of the debate,” said Jayatissa.
+
+...
+
+[Data](articles/f1799921.json)
+
+---
+
+### Climate summit to discuss growth opportunities for Sri Lanka businesses: Chamber
+
+*2024-04-25 12:52:00* · [`economynextcom`](https://economynext.com/climate-summit-to-discuss-growth-opportunities-for-sri-lanka-businesses-chamber-160027/) · `en`
+
+ECONOMYNEXT – Rising temperatures and extreme weather events due to climate change are impacting business, and companies need to address the irrelevance of existing business models, the Ceylon Chamber of Commerce said.
+
+“Climate change is affecting all of us in a big way. More particularly, the business community and businesses,” Duminda Hulangamuwa, Chairman, Ceylon Chamber of Commerce said.
+
+“There is a huge cost. It is imperative that we address the situation,” Hulangamuwa said announcing the Sri Lanka Climate Summit 2024 ‘Code Red – Climate Risks and Opportunities for Sri Lankan Businesses’.
+
+Over three days, from May 7-9, the Summit to be held at Shangri La Colombo, will bring together businesses, government officials/policy makers and academia to discuss the risks of climate change, and the growth opportunities for Sri Lankan businesses.
+
+...
+
+[Data](articles/43bfcb12.json)
 
 ---
 
@@ -179,6 +295,26 @@ Furthermore, Premajayantha mentioned that measures are underway for the recruitm
 [Data](articles/6471dc0e.json)
 
 [Extended Data](ext_articles/6471dc0e.ext.json)
+
+---
+
+### Sri Lanka will need Rs 40 Bn to increase senior citizens’ interest rate to 15 pct
+
+*2024-04-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs-40-bn-to-increase-senior-citizens-interest-rate-to-15-pct-160026/) · `en`
+
+ECONOMYNEXT — Sri Lanka will require 40 billion rupees a year to bring the interest rate offered to senior citizens for their savings and the government is closely studying the matter with the country’s fiscal situation in mind, an official said.
+
+State Minister of Finance Ranjith Siyambalapitiya told parliament on Thursday April 25 that the Treasury will take a decision with “great care”.
+
+Siyambalapitiya was responding to a question raised by opposition leader Sajith Premadasa.
+
+“The 15 percent interest rate offered to senior citizens has now gone down to 8 or 7 percent or even lower in some places. Senior citizens in this country are calling for government intervention to raise the interest rate back to 15 percent,” said Premadasa.
+
+The state minister of finance responded that the government would have to fund such an initiative.
+
+...
+
+[Data](articles/2c6f5061.json)
 
 ---
 
@@ -2111,155 +2247,5 @@ He came to power by spreading racism by exposing ideas against the minority peop
 [Data](articles/6f394bc7.json)
 
 [Extended Data](ext_articles/6f394bc7.ext.json)
-
----
-
-### Politicking on the Easter Sunday massacre at its 5th anniversary
-
-*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Politicking-on-the-Easter-Sunday-massacre-at-its-5th-anniversary/172-281304) · `en`
-
-At a commemoration event at St. Anthony’s Shrine in Kochchikade, Malcolm Cardinal Ranjit, maintained that The Roman Catholic church- in the majority Buddhist nation- no longer trusted the authorities to expose those behind the bombings
-
-The National People’s Power of the JVP issued a seven-point agenda that it said would be implemented if it comes to power to hold accountable those responsible for the tragedy and serve justice to the victims
-
-The politicization of the Easter Sunday attack is not only undermining the Sri Lankan state, but it also distracts the security agencies from the real threat of Islamist extremism
-
-The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow
-
-Islamization and the Arabization of some quarters of the Muslim community, leading up to the Easter Sunday attack, created permissive conditions for the Easter Sunday attacks
-
-...
-
-[Data](articles/357b6f86.json)
-
-[Extended Data](ext_articles/357b6f86.ext.json)
-
----
-
-### Seeing beyond the Uma Oya project and into eyes of Iran
-
-*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Seeing-beyond-the-Uma-Oya-project-and-into-eyes-of-Iran/172-281308) · `en`
-
-Uma Oya multipurpose development project is the largest since the end of the Mahaweli projects
-
-Sri Lanka-Iran ties began long ago as 1961 when the latter had an embassy in Islamabad and over the years, Iran has funded a number of development projects in Sri Lankaining financial help from Israel’s enemy Iran for development work
-
-Iran, like other ambitious nations, would want to sow seeds of their interests here in this island, as no nation with military might would wish to see their interests being absent in a country which is followed by so many nations in the world
-
-Sri Lanka’s latest news in the international scene is generated with its dealings with Iran, a nation considered as a super power in tactical ballistic missiles and UAVs. Iran’s President Dr. Ebrahim Raisi was in the island on Wednesday (April 24) to declare open the Uma Oya Multipurpose Development Project along with Ranil Wickremesinghe, the President of Sri Lanka.
-
-...
-
-[Data](articles/5d1a8597.json)
-
-[Extended Data](ext_articles/5d1a8597.ext.json)
-
----
-
-### Girls in ICT and political leadership roles
-
-*2024-04-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Girls-in-ICT-and-political-leadership-roles/172-281307) · `en`
-
-While most Sri Lankan politicians and the people are focused on elections—what elections and when or whether they will be held—it is more important to give attention and priority to issues such as gender equality. It is especially important to focus on the role of women in Information and Communication Technology (ICT) in the upcoming technological revolution that could manifest through areas like artificial intelligence.
-
-Today, the United Nations marks the International Girls in ICT Day with the theme being “Leadership” to underscore the critical need for strong female role models in science, technology, engineering and mathematics (STEM) careers.
-
-...
-
-[Data](articles/bc80a3ce.json)
-
-[Extended Data](ext_articles/bc80a3ce.ext.json)
-
----
-
-### 2024-04-24 (Wednesday)
-
-### Kottav was behind the number 4
-
-*2024-04-24 23:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-க்கு-பின்னாலும்-கோட்டாவே-இருந்தார்/175-336295) · `ta`
-
-Gotabhaya Rajapakse, former Defense Secretary and President, linked to four incidents: assassination of MP Joseph Pararajasingham in 2006, Raviraj MP's assassination, 2009 war massacre, and 2019 survival Sunday attacks. Accused by Charles Nirmalanathan, Wanni District MP, of masterminding the 2019 bombings.
-
-🟩
-
-Former Defense Secretary and former President Gotabhaya Rajapakse has been in the aftermath of four incidents - Joseph Pararajasingham MP, assassination of MP, 2006, Raviraj MP's assassination, last war massacre in 2009, and 2019 survival Sunday attacks.Wanni District MP of the Federation. Said Charles Nirmalanathan.
-
-He said this while addressing the first day of the post of adjournment of the 2019 Livelihood Sunday bombing, which will not be held in Parliament on Wednesday (24).
-
-The 5 -year -old has been raised here as the 2019 Labor Sunday bombing mastermind?. Various incidents have taken place in Sri Lanka with the blessings of the rulers in Sri Lanka until the relevant.
-
-Especially Josephrarajasingham, Raviraj MPs.Were shot dead. Various sources and traces were available in both cases. But could not find the criminals. If the punishment was not punished, the killings were carried out on the advice of the rulers.
-
-...
-
-[Data](articles/d1fd40b9.json)
-
-[Extended Data](ext_articles/d1fd40b9.ext.json)
-
----
-
-### UN calls for investigation into mass graves uncovered at two Gaza hospitals raided by Israel
-
-*2024-04-24 23:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98825/un-calls-for-investigation-into-mass-graves-uncovered-at-two-gaza-hospitals-raided-by-israel) · `en`
-
-The United Nations called Tuesday for “a clear, transparent and credible investigation” of mass graves uncovered at two major hospitals in war-torn Gaza that were raided by Israeli troops.
-
-Credible investigators must have access to the sites, U.N. spokesman Stephane Dujarric told reporters, and added that more journalists need to be able to work safely in Gaza to report on the facts.
-
-Earlier Tuesday, U.N. human rights chief Volker Türk said he was “horrified” by the destruction of the Shifa medical center in Gaza City and Nasser Hospital in the southern city of Khan Younis as well as the reported discovery of mass graves in and around the facilities after the Israelis left.
-
-He called for independent and transparent investigations into the deaths, saying that “given the prevailing climate of impunity, this should include international investigators.”
-
-...
-
-[Data](articles/7b5a3006.json)
-
-[Extended Data](ext_articles/7b5a3006.ext.json)
-
----
-
-### No company has come forward to offer Sri Lanka female prisoners paid work: Official
-
-*2024-04-24 23:34:00* · [`economynextcom`](https://economynext.com/no-company-has-come-forward-to-offer-sri-lanka-female-prisoners-paid-work-official-159940/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s female prisoners have so far not got an opportunity to work for private companies unlike their male counterparts, Prison Spokesman Gamini Dissanayake said.
-
-“There are only 208 convicted female prisoners and so far, no company has offered to use their labor,” Dissanayake told EconomyNext.
-
-“However, if there are companies that are willing to hire these females, they will gain employment.”
-
-Female prisoners are given sewing and weaving as part of a training program, and they are given a small allowance.
-
-However, groups of male prisoners have been given work by some private companies for which they are paid 1024 rupees a day.
-
-The prisoners are given 640 which they put in a savings account at National Savings Bank.
-
-Male prisoners get a daily wage of 1180 for work done and 1024 in they work out of prison.
-
-A catering company and a company involved in assembling air conditioning parts are the latest private firms to offer work, he said.
-
-...
-
-[Data](articles/8a4d6f7c.json)
-
-[Extended Data](ext_articles/8a4d6f7c.ext.json)
-
----
-
-### A family affair, indeed…
-
-*2024-04-24 23:05:00* · [`islandlk`](http://island.lk/a-family-affair-indeed/) · `en`
-
-Hi! I’m Shivona Alexander, 35 years of age. I’m a wife, mom to two beautiful daughters, model, and founder of Party Bee.
-
-Believe me, I never thought I would be a model at this age, especially after having two kids. But…I met Brian Kerkoven, in the year 2021, through one of my friends. I took a three-month course at his modelling academy and was lucky enough to join his agency as a professional model. This is my third year as a model, representing BK Model Management, and I’m proud and happy to say that I’m now a part of the BK family.
-
-I would say maintaining a perfect physique, although being a mom of two kids, as well as my age!
-
-...
-
-[Data](articles/58de8bd5.json)
-
-[Extended Data](ext_articles/58de8bd5.ext.json)
 
 ---

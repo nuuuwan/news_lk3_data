@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 20:18:22**
+As of **2024-04-25 20:34:07**
 
 ## Newspaper Stats
 
@@ -26,73 +26,105 @@ adaderanasinhalalk | 3,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,969 (100.0%) of 20,975 articles have been extended.
+20,975 (100.0%) of 20,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### කිරිපිටි මිල තවදුරටත් අඩු වීමක් නෑ
+### The price of milk powder has no further decrease
 
 *2024-04-25 19:58:20* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිල-තවදුරටත්-අඩු-වීමක්-නෑ/11-409271) · `si`
 
-2024 අප්‍රේල් 25 දින සිට ක්‍රියාත්මක වන පරිදි කිරිපිටි මිල අඩුවන බවට පළ වූ වාර්තා මුළුමනින්ම පදනම් විරහිත බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය පවසයි.
+Milk powder prices won't decrease further. From April 25, 2024, all brands will operate at a base price, with a maximum retail price of Rs. 1,050 for 400g. This decision was made to provide relief during the Sinhala and Tamil New Year period.
 
-එහි මාධ්‍ය ප්‍රකාශක අශෝක බණ්ඩාර මහතා පවසන්නේ සිංහල හා දෙමළ අලුත් අවුරුදු කාලසීමාව තුළ ජනතාවට සහන සැලසීම සඳහා වෙළෙඳ අමාත්‍යංශය විසින් සිදුකරන ලද ඉල්ලීමට ප්‍රතිචාර දැක්වීමක් වශයෙන්, සියලුම කිරිපිටි සන්නාමයන් විසින් 2024 අප්‍රේල් 01 වැනි දින සිට ක්‍රියාත්මක වන පරිදි කිරිපිටි මිල ගණන් අඩුකළ බවයි. ඒ අනුව දැනට ග්‍රෑම් 400 ඇසුරුමක උපරිම සිල්ලර මිල රු.1,050/- ක් ලෙස ස්ථාපිත කර තිබේ.
+🟩
 
-එමෙන්ම, විවිධ ප්‍රවර්ධන වැඩසටහන් යටතේ දැනටමත් කිරිපිටි සන්නාම රැසක් විසින් ඉහත සඳහන් උපරිම සිල්ලර මිලට අඩුවෙන්  අලෙවි කරනු ලබන බවද ඒ මහතා පෙන්වා දෙයි. එම නිසා, ඊයේ දිනයේ පළ වූ සාවද්‍ය වාර්තාවල සඳහන් පරිදි අප්‍රේල් 25 වැනි දින සිට තවත් මිල අඩුවීමක් සිදු නොවන බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය ලෙස වැඩිදුරටත් අවධාරණය කරන බව අශෝක බණ්ඩාර මහතා  සඳහන් කළේය.
+Milk powder importers is that the reports that the prices of milk powder will be completely base to operate from April 25, 2024.
+
+Its spokesman Asoka Bandara says that all milk powder brand has been reduced by all milk powder brands on 1 April 2024 to provide relief to the people during the Sinhala and Tamil New Year period.. Accordingly, the maximum retail price of a 400 g 400 g is established as Rs. 1,050 / -.
+
+Also, under various promotions, a number of milk powder will be sold at a maximum retail price.. Therefore, according to Asoka Importments, the forum of milk powder will be decreased from the false reports yesterday.
 
 ◼️
 
 [Data](articles/054877a0.json)
 
+[Extended Data](ext_articles/054877a0.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளராக துமிந்த திஸாநாயக்க நியமனம்
+### Duminda Dissanayake appointed as the General Secretary of the Sri Lanka Freedom Party (SLFP)
 
 *2024-04-25 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181978) · `ta`
 
-குறித்த கட்சியின் அரசியல் குழு கூட்டம் வியாழக்கிழமை (25) இன்று இடம் பெற்றது.
+Duminda Dissanayake named SLFP General Secretary. Party's political committee met in Colombo, chaired by Minister Nimal Siripala de Silva.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அரசியல் குழு கூட்டம் அமைச்சர் நிமல் சிறிபால டி சில்வா தலைமையில் வியாழக்கிழமை (25) பிற்பகல் கொழும்பில் கூடியமை குறிப்பிடத்தக்கது.
+🟩
+
+The party's political committee meeting was held on Thursday (25).
+
+The Sri Lanka Freedom Party (SLFP) political committee meeting was chaired by Minister Nimal Siripala de Silva in Colombo on Thursday afternoon.
 
 ◼️
 
 [Data](articles/a5628664.json)
 
+[Extended Data](ext_articles/a5628664.ext.json)
+
 ---
 
-### நடிகர் காளி வெங்கட் கதையின் நாயகனாக நடித்திருக்கும் 'குரங்கு பெடல்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Actor Kali Venkat is the hero of the story 'Monkey Pedal'
 
 *2024-04-25 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181957) · `ta`
 
-தமிழ் திரையுலகில் வெளியாகும் படைப்புகளில் கதாநாயகன்- கதாநாயகி- வில்லன்- நகைச்சுவை நடிகர்கள்- இவர்களுக்கு இணையாக புகழப்படுபவர்கள் குணச்சித்திர நடிகர்கள்.
+"Kali Venkat stars in 'Monkey Pedal', a film focusing on realistic life of simple people, produced by Montege Pictures and SK Productions. Features notable actors and child stars. Released on May 3rd, it's a commercial film depicting weavers' life in the 80s and 90s, aiming for critical acclaim and box office success."
 
-குணச்சித்திர நடிப்பில் தனக்கென தனித்துவமான பாணியை கண்டறிந்து அதனை தான் ஏற்கும் கதாபாத்திரத்திற்கு ஏற்ப வெளிப்படுத்தி ரசிகர்களிடத்தில் ஒப்பற்ற குணச்சித்திர நடிகர் என்ற அடையாளத்தையும், அங்கீகாரத்தையும் பெற்றிருக்கும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக நடித்திருக்கும் புதிய படமான 'குரங்கு பெடல்' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+🟩
 
-இயக்குநர் கமலக்கண்ணன் இயக்கத்தில் உருவாகி இருக்கும் 'குரங்கு பெடல்' எனும் திரைப்படத்தில் காளி வெங்கட், பிரசன்னா பாலச்சந்தர், ஜென்சென் திவாகர் ஆகியோருடன் சந்தோஷ் வேல்முருகன், வி. ஆர். ராகவன், எம். ஞானசேகர், ரத்தீஷ், சாய் கணேஷ் உள்ளிட்ட பல குழந்தை நட்சத்திரங்களும் நடித்திருக்கிறார்கள். சுமீ பாஸ்கரன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் இசையமைத்திருக்கிறார்.
+The heroes of the Tamil film industry, the heroine- the villain- the comedians- are the most famous actors.
+
+Actor Kali Venkat, who is the hero of the story, has been officially announced on the release date of the film 'Monkey Pedal', which has been identified as a unique character actor and recognition to the fans.
+
+Santosh Velmurugan, V with Kali Venkat, Prasanna Balachander and Jensen Divakar. R. Raghavan, M. Many child stars including Gnanasekar, Rathish and Sai Ganesh. Jibran has composed the film, which is being recorded by Sumi Baskaran.
+
+Savita Shanmugam, Sumi Baskaran, Sivakarthikeyan and Kalaiyarasu have produced the film on behalf of Montege Pictures, which is focusing on the realistic life of simple people.. The film is provided by Sivakarthikeyan's SK Productions.
+
+The teaser for the first look of the film has been released. It has also been officially announced that the film will be released on the third day of May, the world will be released in the world.
 
 ...
 
 [Data](articles/31029f40.json)
 
+[Extended Data](ext_articles/31029f40.ext.json)
+
 ---
 
-### 'ஈகை' படத்தில் வில்லனாக நடிக்கும் சந்தோஷ் பிரதாப்
+### Santosh Pratap, who plays the villain in 'Igai'
 
 *2024-04-25 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181961) · `ta`
 
-அனைத்துவித கதாபாத்திரங்களையும் ஏற்று நடிக்க கூடிய தகுதியும், திறமையும் இருந்தும் முன்னணி நட்சத்திர கலைஞராக ஜொலிக்க முடியாமல் கடுமையாக போராடிக் கொண்டிருக்கும் நடிகர் சந்தோஷ் பிரதாப்,' ஈகை' எனும் திரைப்படத்தில் வில்லனாக நடித்திருக்கிறார் என தகவல்கள் வெளியாகி இருக்கிறது.
+Santosh Pratap, unable to lead, plays a villain in 'Ekai', directed by Ashok Velayutham. Anjali stars as the hero. Santosh's character, Arun, is highlighted. The film, produced by Krishnashankar Ramabadran, features music by Tarankumar and stars Abhi Star, Hari, and Gautam.
 
-இயக்குநர் அசோக் வேலாயுதம் இயக்கத்தில் உருவாகி வரும் 'ஈகை' எனும் திரைப்படத்தில் நடிகை அஞ்சலி கதையின் நாயகியாக நடிக்கிறார்.
+🟩
 
-இவருடன் அருண் எனும் காவல்துறை உயரதிகாரி வேடத்தில் சந்தோஷ் பிரதாப் நடிக்கிறார். இந்த கதாபாத்திர தோற்றத்திற்கான பிரத்யேகப் புகைப்படத்தை படக்குழுவினர் வெளியிட்டுள்ளனர்.
+Actor Santosh Pratap, who is unable to shine as a leading star artist, has been playing a villain in 'Ekai'.
 
-அத்துடன் 'எதுவும் செய்யாமல் அநியாயம் செய்யலாம்' என்ற வாசகத்தையும் ஆங்கிலத்தில் இடம்பெற வைத்திருப்பதால் சந்தோஷ் பிரதாப் இந்த திரைப்படத்தில் வில்லனாக நடிக்கிறார் என தெரிய வருகிறது.
+Actress Anjali plays the hero of the story in the upcoming film 'Ekai' directed by director Ashok Velayutham.
+
+Santosh Pratap plays the role of a police officer named Arun. The film crew has released a special photo of this character look.
+
+It is also revealed that Santosh Pratap is playing the villain in the film as it also features the word '' unjustly to be unjust '.
+
+Along with the two, Abhi Star, Hari and Gautam have starred.Tarankumar has composed the film, which has been recorded by Sridhar.The film was produced by producer Krishnashankar Ramabadran on behalf of Brinda Krishna Creations.
+
+Many information about the release of the film has been released earlier.It has been reported that the film crew is planning to release some changes in the film due to various problems.
 
 ...
 
 [Data](articles/88bb3cd0.json)
+
+[Extended Data](ext_articles/88bb3cd0.ext.json)
 
 ---
 
@@ -122,21 +154,27 @@ In bowling was 3 wickets for 14 runs while Udeshika Prabodhani took two wickets 
 
 ---
 
-### இயக்குநர் லிங்குசாமி வழங்கும் 'வடக்கன்' படத்தின் டீசர் வெளியீடு
+### The teaser release of 'Vadakkan' by director Lingusamy
 
 *2024-04-25 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181963) · `ta`
 
-இயக்குநர் -தயாரிப்பாளர் - விநியோகஸ்தர் என மூன்று பிரிவுகளிலும் தோல்வியை எதிர்கொண்ட இயக்குநர் லிங்குசாமி, சிறிய இடைவெளிக்குப் பிறகு நம்பிக்கையுடன் வழங்கும் 'வடக்கன்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+"Director Lingusamy's 'Vadakkan' debuts with writer Vasanakarta Bhaskar Shakti. Features music by Janani, produced by Vediyappan, and explores North Indian migration in Tamil Nadu. Despite controversy fears, it's hoped to be well-received."
 
-எழுத்தாளரும், வசனகர்த்தாவுமான பாஸ்கர் சக்தி இயக்குநராக அறிமுகமாகும் 'வடக்கன்' எனும் திரைப்படத்தில் குங்குமராஜ் முத்துசாமி, வைரமாலா, ரமேஷ் வைத்யா, பர்வேஷ் மெஹ்ரு, ஷாமீரா, வைரம் பாட்டி, பின்ட்டு, வந்தனா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எஸ். ஜே. ஜனனி இசையமைத்திருக்கிறார். தமிழகத்தின் அதிகளவில் புலம் பெயர்ந்திருக்கும் வட இந்தியர்களை பற்றி கருத்தியல் ரீதியான பதிவினை பதிவு செய்யும் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை டிஸ்கவரி சினிமா புரொடக்சன் எனும் பட நிறுவனம் சார்பில் புத்தக பதிப்பாளர் எம். வேடியப்பன் தயாரித்திருக்கிறார்.
+Director Lingusamy, who has failed in all three categories - Director - Divisionalist - Dealers, has been released with confidence in 'Vadakkan'.
 
-இந்தப் படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பை பெற்ற நிலையில் தற்போது இதன் குறு முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Writer and Vasanakarta Bhaskar Shakti has made his debut as director of 'Vadakkan' and starred in the film 'Vadakkan'.
+
+The film has been recorded by Theni Eswar. J.. Janani has composed the music. The film, which is being developed as a conceptual record of North Indians in Tamil Nadu, is a book publisher on behalf of Discovery Cinema Production.. Vediyappan has produced.
+
+The first look of the film has been released and the short preview has been released.
 
 ...
 
 [Data](articles/1f81f69b.json)
+
+[Extended Data](ext_articles/1f81f69b.ext.json)
 
 ---
 
@@ -332,19 +370,27 @@ These injunctions were issued after considering a plaint submitted by Ministers 
 
 ---
 
-### වසරේ ආදායම් ඉලක්ක අභිභවා යා හැකියි
+### Rehabilitation of income goals of the year
 
 *2024-04-25 18:47:18* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-ආදායම්-ඉලක්ක-අභිභවා-යා-හැකියි/11-409266) · `si`
 
-මෙම වසරේ පළමු කාර්තුව තුළ රුපියල් බිලියන 834ක රාජ්‍ය ආදායමක් උපයා ගැනීමට හැකි වී තිබෙන බවත් ඒ හරහා අපේක්ෂිත රාජ්‍ය අදායම් ඉල්ලක්ක අභිබවමින් 6%ක වර්ධනයක් පෙන්නුම් කරන බවත් අමාත්‍ය මණ්ඩලයේ සාමාජික නොවන රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ සහ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya highlights the rehabilitation of income goals for 2024, emphasizing increased revenue, reduced debt repayment interest, and a 60% increase in capital expenditure. Despite challenges in cash flow and expenditure, the first quarter of 2024 shows a 6% increase in state income targets, with significant contributions from various departments. Economic indicators like the National Consumer Price Index and non-food inflation are improving, indicating a positive economic outlook.
 
-රටේ පවතින විධිමත් මූල්‍ය කළමනාකරණය සහ ආදායම් ලැබෙන රටාව අනුව සළකා බැලීමේදී 2024 වසර අදායම් ඉලක්ක සපුරාගත හැකි වසරක් වනු ඇති බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-අමාත්‍ය මණ්ඩලයේ සාමාජික නොවන රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ සහ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (25) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister of Public Plantation Enterprise Development and Finance Ranjith Siyambalapitiya said that a state revenue of the Cabinet has increased from Rs.
+
+Participating on the formal financial management and income pattern of the country will be the income of 2024 targets, the State Minister said.
+
+State Minister Ranjith Siyambalapitiya stated that the government plantation enterprise Enterprise Enterprise Reforms and Finance Secretary Ranjith Siyambalapitiya stated that no longer a member of the Cabinet of Ministers.
+
+"Treasury Operations Department has faced a challenge in managing cash flow this year. In the current laws, obtaining loans and unable to print money. Government expenditure has also increased due to welfare and recurrent expenditure. But it should be said that true financial management is in operation in the country.
 
 ...
 
 [Data](articles/9f307cf7.json)
+
+[Extended Data](ext_articles/9f307cf7.ext.json)
 
 ---
 

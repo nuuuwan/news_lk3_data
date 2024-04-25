@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 19:04:02**
+As of **2024-04-25 19:18:27**
 
 ## Newspaper Stats
 
-*Scraped **20,953** Articles*
+*Scraped **20,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,187
 adalk | 1,752
-tamilmirrorlk | 2,424
-adaderanalk | 2,495
+tamilmirrorlk | 2,425
+adaderanalk | 2,496
 virakesarilk | 3,157
-dailymirrorlk | 3,262
+dailymirrorlk | 3,264
 adaderanasinhalalk | 3,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,942 (99.9%) of 20,953 articles have been extended.
+20,953 (100.0%) of 20,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Heat advisory issued for several provinces and districts
+
+*2024-04-25 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98847/heat-advisory-issued-for-several-provinces-and-districts-) · `en`
+
+The Meteorology Department has issued a Heat Index Advisory for Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and Monaragala district for tomorrow (26).
+
+Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and in Monaragala district, it warned.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/2f292b72.json)
+
+---
+
+### துமிந்தவுக்கு புதிய பதவி
+
+*2024-04-25 18:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவுக்கு-புதிய-பதவி/175-336340) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளராக துமிந்த திஸாநாயக்க நியமிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அரசியல் குழு கூட்டம் அமைச்சர் நிமல் சிறிபால டி சில்வா தலைமையில் இன்று (25)  பிற்பகல் கொழும்பில் இடம்பெற்றது.
+
+◼️
+
+[Data](articles/04edbfb6.json)
+
+---
+
+### Police launches motorcycle squadron against underworld
+
+*2024-04-25 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Police-launches-motorcycle-squadron-against-underworld/110-281369) · `en`
+
+The passing out parade of a team of 100 police personnel who underwent special training at the Katukurunda STF camp to go after criminals operating in the Western and Southern Provinces was held with the participation of Public Security Minister Tiran Alles,  IGP Deshabandu Tennakoon, STF Commandant Senior DIG Waruna Jayasundara and the Western Province Senior DIG.
+
+◼️
+
+[Data](articles/3a32da2c.json)
+
+---
 
 ### Duminda Dissanayake appointed SLFP’s Acting General Secretary
 
@@ -44,37 +88,69 @@ He was appointed during the politburo meeting convened by the faction backing Mi
 
 [Data](articles/bfca08e2.json)
 
+[Extended Data](ext_articles/bfca08e2.ext.json)
+
 ---
 
-### දුමින්ද ශ්‍රීලනිප වැඩබලන මහලේකම් ධුරයට
+### Duminda to be appointed SLFP acting
 
 *2024-04-25 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195968) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ නව වැඩබලන මහලේකම්වරයා ලෙස දුමින්ද දිසානායක මහතා පත්කරගෙන තිබේ.
+Duminda Dissanayake appointed as SLFP Acting Secretary General. Decision made at political meeting today.
 
-එම පක්ෂයේ අද (25) පැවති දේශපාලන මණ්ඩල රැස්වීමකදී මෙම තීරණය ගෙන ඇත.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ දේශපාලන මණ්ඩලය අද පස්වරුවේ කොළඹ පදනම් ආයතනයේදී රැස්වුණේ පක්ෂ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙනි.
+Duminda Dissanayake has been appointed as the new Acting Secretary General of the Sri Lanka Freedom Party.
+
+The decision was taken at a political meeting held today (25).
+
+The Sri Lanka Freedom Party (SLFP) Politburo also met with party acting chairman Minister Nimal Siripala De Silva this afternoon.
 
 ◼️
 
 [Data](articles/04b2dd47.json)
 
+[Extended Data](ext_articles/04b2dd47.ext.json)
+
 ---
 
-### வாகரையில் முன்னெடுக்கப்படும் இறால்பண்ணை, இல்மனைட் திட்டங்களுக்கு எதிர்ப்புத் தெரிவித்து மட்டு நகரில் மக்கள் ஆர்ப்பாட்டம்
+### Do not be afraid to use weapons, Minister Alles tells police
+
+*2024-04-25 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-be-afraid-to-use-weapons-Minister-Alles-tells-police/108-281368) · `en`
+
+Colombo, April 25 (Daily Mirror) - Public Security Minister Tiran Alles told the police yesterday that eliminating criminals from the country is not a sin and not to be afraid to use weapons.
+
+He made these remarks while participating in the passing out parade at Katukurunda STF Training camp.
+
+"Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing and we stand by you," the minister said.
+
+"The police officers who had undergone the training know what to do. They know everything that is needed. If this team is not enough, another police motorcycle team will be established. We have a goal. All the police officers know what that goal is. I just want to go for that goal. I have done everything, including salary increases for all of you. I only expect you to go for the goal," the minister further said.
+
+...
+
+[Data](articles/9f9920e8.json)
+
+---
+
+### People protest in Modu city protesting
 
 *2024-04-25 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181969) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் வாகரை பிரதேசத்தில் மேற்கொள்ள திட்டமிட்டுவரும் இறால் பண்ணைக்கு எதிர்ப்பு தெரிவித்தும், இல்மனைட் அகழ்வை முற்றாக தடை செய்யுமாறு வலியுறுத்தியும் மட்டக்களப்பு சிவில் அமைப்புக்களின் ஏற்பாட்டில் கிராம மக்கள் மற்றும் சிவில் அமைப்புகளின் ஏற்பாட்டடில் வியாழக்கிழமை (25) மட்டக்களப்பு நகரில் கவனயீர்ப்பு ஆர்ப்பாட்டம்  முன்னெடுக்கப்பட்டிருந்தது.
+In Modu city, protesters marched against a shrimp farm in Vaharai, demanding environmental protection and accountability from local officials.
 
-இயற்கை வளங்களை அழிக்கும் செயற்திட்டங்கள் தமக்கு வேண்டாம், இறால்பண்ணை, மற்றும் இல்மனைட் கம்பனிகளைத் தடைசெய்ய வேண்டும், எனத் தெரிவித்து பதாகைகளை ஏந்தியவாறும், கோசங்களை எழுப்பியவாறும் மக்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+🟩
 
-இத்திட்டங்கள் தொடர்பில் மக்களின் கோரிக்கைகளுக்கு ஆளுனர் மற்றும் மக்கள் பிரதிநிதிகளும் பொறுப்புக்கூற வேண்டும். ஆர்ப்பாட்டக்காரர்கள் இதன்போது கோசங்களை முன்வைத்தனர்.
+A protest march was held in Batticaloa on Thursday (25) under the auspices of the Batticaloa Civil Organizations organized by the Civil Organizations of Batticaloa, protesting the shrimp farm in the Vaharai area of ​​the Batticaloa district.
+
+People were protesting the banners carrying banners and raising slogans, demanding that they do not want to destroy natural resources.
+
+Governor and people's representatives should be held accountable for the demands of the people regarding these schemes. Demonstrators presented the slogans.
 
 ◼️
 
 [Data](articles/3571eba3.json)
+
+[Extended Data](ext_articles/3571eba3.ext.json)
 
 ---
 
@@ -214,37 +290,51 @@ The initial negotiations between the two associations were facilitated by the Hi
 
 ---
 
-### தமிழ் அரசுக் கட்சியின் வழக்கு ஜூன் 20க்கு ஒத்திவைப்பு
+### TNA's case adjourned to June 20
 
 *2024-04-25 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181955) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் தேசிய மாநாட்டுக்கு எதிராக யாழ்ப்பாணம் மாவட்ட நீதிமன்றத்தில் தாக்கல் செய்யப்பட்ட வழக்கு எதிர்வரும் ஜூன் 20ஆம் திகதிக்கு ஒத்திவைக்கப்பட்டது.
+TNA's case in Jaffna District Court postponed to June 20. Shanmugam Kukadasan's address re-calling ordered. Senior Attorney Nrikanta seeks time for submissions. Case previously postponed to May 31.
 
-இலங்கை தமிழ் அரசு கட்சியின் மாநாட்டுக்கு எதிராக நீதிமன்றத்தால் பிறப்பிக்கப்பட்ட இடைக்கால தடை உத்தரவு தொடர்பான வழக்கு இன்றைய தினம் வியாழக்கிழமை யாழ்ப்பாணம் மாவட்ட நீதிமன்றில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+🟩
 
-ஐந்தாவது எதிராளியான சண்முகம் குகதாசன் இன்றும் நீதிமன்றத்தில் ஆஜராகததால், திருகோணமலையில் அவரது சரியான முகவரிக்கு மீண்டும் அழைப்பு கட்டளை அனுப்புவதற்கு நீதிமன்றம் உத்தரவிட்டது.
+The case filed in the Jaffna District Court against the National Conference of the Sri Lanka Tamil National Party (TNA) has been postponed to June 20.
 
-இதன்போது முதலாம் மற்றும் மூன்றாம் எதிராளிகள் தரப்பு சார்பில் ஆஜரான சிரேஷ்ட சட்டத்தரணி ந.ஶ்ரீகாந்தா தங்கள் தரப்பு கருத்துக்களை முன்வைக்க கால அவகாசம் கோரினார்.
+The case of the interim injunction issued by the court against the Sri Lankan Tamil state party convention was taken up for hearing at the Jaffna District Court on Thursday.
 
-இதனையடுத்து எதிராளிகள் தமது சமர்ப்பணங்களை முன்வைக்க அவகாசம் வழங்கி ஜீன் 20ஆம் திகதிக்கு வழக்கு ஒத்திவைக்கப்பட்டது.
+Since the fifth opponent Shanmugam Kukadasan is still appearing in court today, the court has ordered the re -calling for his correct address in Trincomalee.
 
-...
+Senior Attorney Nrikanta, who appeared on behalf of the first and third opponents, sought time to present their views.
+
+Subsequently, the case was postponed to Jean 20, giving the opponents time to present their submissions.
+
+Meanwhile, the case has been postponed to May 31, following the case filed by the Trincomalee District Court on Wednesday.
+
+◼️
 
 [Data](articles/57a26171.json)
 
+[Extended Data](ext_articles/57a26171.ext.json)
+
 ---
 
-### உபுல் சாந்த சன்னஸ்கல பிணையில் விடுதலை!
+### Ubul Shantha released on bail
 
 *2024-04-25 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181954) · `ta`
 
-10 இலட்சம் ரூபா நிதி மோசடி தொடர்பில் சந்தேகத்தின் அடிப்படையில் கைது செய்யப்பட்ட முன்னாள் பிரபல தனியார் வகுப்பு முன்னாள்   ஆசிரியரும் எழுத்தாளருமான உபுல் சாந்த சன்னஸ்கல பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+Upul Shantha, a renowned private class teacher and writer, was released on bail after his arrest by the Kandana police.
 
-அவரை கைது செய்து  கந்தானை பொலிஸார் வெலிசர நீதிமன்றத்தில் ஆஜர்படுத்தியதை அடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
+
+Former famous private class teacher and writer Upul Shantha has been released on bail.
+
+The order was issued after Kandana police arrested him and produced him in the Velisara Court.
 
 ◼️
 
 [Data](articles/a58f3056.json)
+
+[Extended Data](ext_articles/a58f3056.ext.json)
 
 ---
 
@@ -318,21 +408,27 @@ Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rup
 
 ---
 
-### மஹிந்தவிடம் ரூ.1 பில்லியன் கோருகிறார் மைத்திரி
+### Maithri demands Rs 1 billion to Mahinda
 
 *2024-04-25 16:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-ரூ-1-பில்லியன்-கோருகிறார்-மைத்திரி/175-336328) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தனக்கு எதிராக வெளியிடப்பட்ட அவதூறு அறிக்கைகள் தொடர்பில் அமைச்சர் மஹிந்த அமரவீரவுக்கு கோரிக்கை கடிதம் ஒன்றை அனுப்பியுள்ளார்.
+Maithripala Sirisena demands Rs 1 billion from Mahinda Amaraweera for defamation reports.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) ஜனாதிபதி வேட்பாளராக போட்டியிடத் தயாராக உள்ள வர்த்தகர் ஒருவரிடமிருந்து தான் 100 மில்லியன் ரூபாய் பணம் பெற்றதாக அமைச்சர் அமரவீர ஊடகங்களுக்கு அவதூறான அறிக்கைகளை வெளியிட்டுள்ளார் என  மைத்திரிபால சிறிசேன அந்த அறிக்கையில் தெரிவித்துள்ளார்.
+🟩
 
-தனது தலைமையில் அண்மையில் நடைபெற்ற ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழுக் கூட்டத்திலும் அமைச்சர் அமரவீர அவதூறான கருத்துக்களை வெளியிட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+Former President Maithripala Sirisena has recently sent a letter of request to Minister Mahinda Amaraweera regarding the defamation reports against him.
 
-மகிந்த அமரவீரவின் அவதூறுகள் மூலம் தனக்கு ஏற்பட்ட அசௌகரியத்திற்காக 1 பில்லியன் ரூபாவை மகிந்த அமரவீர வழங்க வேண்டுமென மைத்திரிபால சிறிசேன அக் கடிதத்தில் கோரியுள்ளார்.
+Maithripala Sirisena said in the statement that Minister Amaraweera has issued slanderous reports to the media that he has received Rs 100 million from a businessman who is ready to contest the Sri Lanka Freedom Party (SLFP) presidential candidate.
+
+He added that Minister Amaraweera has also made slanderous comments at the Sri Lanka Freedom Party (SLFP) executive meeting held under his leadership.
+
+Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rupees for the discomfort of Mahinda Amaraweera.
 
 ◼️
 
 [Data](articles/ed34c800.json)
+
+[Extended Data](ext_articles/ed34c800.ext.json)
 
 ---
 
@@ -392,23 +488,31 @@ The statement gave no details on the identities or affiliation of the escaped pr
 
 ---
 
-### முல்லைத்தீவில் தமிழர்களுடைய பூர்வீக நிலங்களை அபகரித்து சிங்கள மக்களை குடியமர்த்துகிறார்கள் - து.ரவிகரன் சீற்றம்
+### In Mullaitivu
 
 *2024-04-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181947) · `ta`
 
-முல்லைத்தீவில் தமிழர்களுடைய பூர்வீக நிலங்களை அபகரித்து சிங்கள மக்கள் குடியமர்த்தப்படுகிறார்கள் என முன்னாள் வடமாகாண சபை உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+Durairasa Ravikaran, a former Northern Provincial Council member, criticized the settlement of Sinhalese people in Tamil lands in Mullaitivu. He highlighted the seizure of agricultural lands by the government and the Forest Department's control over 74.24% of the district's land. The situation has led to a reduction in agricultural activities and the displacement of Tamil people.
 
-புதுக்குடியிருப்பில் இன்று (25) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்.
+🟩
 
-முல்லைத்தீவில் தமிழர்களுடைய பூர்வீக நிலங்களை ஆட்சியாளர்கள் அபகரித்து கொண்டிருக்கிறார்கள். அதாவது முல்லைத்தீவு மாவட்டத்தின் நிலப்பரப்பில் கூடுதலான நிலப்பரப்பினை ஒவ்வொரு திணைக்களங்களின் ஊடாகவும் அபகரித்து அவற்றில் சிங்கள மக்களுக்கு வழங்கி கொண்டிருக்கும் நிலையே காணப்படுகின்றது.
+Former Northern Provincial Council member Durairasa Ravikaran said that the Sinhalese people are being settled in the native lands of Tamils ​​in Mullaitivu.
 
-முல்லைத்தீவு மாவட்டத்தில் மொத்த நிலப்பரப்பில் கிட்டத்தட்ட 5 இலட்சத்தி தொண்ணூறாயிரம் ஏக்கரில் 74.24 வீதமான காணிகள் வன இலாகாவினுடைய பொறுப்பில் இருக்கின்றது.
+He made this comment to the media after an event in Pudukkudiyiruppu today (25).
 
-விடுதலைப் புலிகளின் காலத்தில் இந்த பகுதிகளுக்கெல்லாம் வர பயந்து கொண்டிருந்த நிலையில்  2009 ஆம் ஆண்டுக்கு முன்னர் அடர்ந்த காடுகள் என்று கூறக்கூடிய அளவில் 36.72 வீதமான காணிகளும் அதாவது 2 இலட்சத்தி  இருபத்தி இரண்டாயிரத்தி ஆறு ஏக்கர் காணிகள்தான் அவர்களுடைய கட்டுப்பாட்டில் இருந்தது.
+The rulers are taking over the native lands of Tamils ​​in Mullaitivu. That is, the landscape of the Mullaitivu district is seen by the Sinhalese to the Sinhalese.
+
+In the Mullaitivu district, 74.24 percent of the land in the Mullaitivu district is in charge of the Forest Department.
+
+During the LTTE, these areas were afraid to come up with 36.72 percent of lands before 2009 and were only 2 lakhs of twenty -two thousand six acres.
+
+After the silence of the Liberation Tigers of Tamil Eelam (LTTE) in 2009, the rulers have taken most of the agricultural lands of the people.
 
 ...
 
 [Data](articles/122d85e4.json)
+
+[Extended Data](ext_articles/122d85e4.ext.json)
 
 ---
 
@@ -440,21 +544,27 @@ Sri Lankans have a trend these days and that there is a tendency to employ forei
 
 ---
 
-### சீனக் கம்யூனிஸ்ட் கட்சியின் உயர்மட்ட பிரதிநிதிகள் குழு -  ஐ.ம.ச கூட்டணியின் பிரதிநிதிகள் சந்திப்பு
+### High -level representatives of the Chinese Communist Party
 
 *2024-04-25 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181942) · `ta`
 
-சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேச உறவுகள் திணைக்களத்தின் உயர்மட்ட பிரதிநிதிகள் குழுவினர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியின் பிரதிநிதிகளை நேற்று (24) பிற்கபல் கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் சந்தித்து கலந்துரையாடினர்.
+High-level Chinese Communist Party representatives met with UPFA leaders, including Sajith Premadasa, to discuss economic, trade, and political relations. They aim to establish trade ties between Sri Lanka and China, with China planning a $1M investment. Premadasa highlighted issues for micro, small, and medium entrepreneurs and the importance of the upcoming election year.
 
-இரு தரப்பினருக்கும் இடையிலான இந்த விசேட சந்திப்பு ஒரு மணி நேரம் இடம்பெற்றது. இச்சந்திப்பைத் தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச விவகாரங்களுக்கான துணை அமைச்சர் செல்வி. சன் ஹையன் இடையில் 45 நிமிட நேருக்கு நேர் பிரத்தியக சந்திப்பும் இடம்பெற்றது.
+🟩
 
-பொருளாதாரம், வர்த்தக, அரசியல் உறவுகள் என பல துறைகள் குறித்து இங்கு விரிவாக கலந்துரையாடப்பட்டதோடு,இலங்கைக்கும் சீனாவுக்கும் இடையில் வர்த்தக உறவுகளை ஏற்படுத்துவது தொடர்பில் இரு தரப்புக்கும் இடையில் கருத்துக்கள் பரிமாறப்பட்டன.
+A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa yesterday (24) at the Opposition Leader's Office in Colombo.
 
-இங்கு, சீனாவின் பொருளாதார அபிவிருத்தி மாதிரியை கருத்திற் கொண்டு,எமது நாட்டிற்கு  தற்போதைய சூழ்நிலையில் இருந்து மீண்டு வரக்கூடிய முறை குறித்தும் இரு தரப்பினரும் கருத்துகளை பரிமாறிக் கொண்டனர்.
+This special meeting between the two sides took place for an hour. Following the meeting, Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China. There was a 45 -minute face -to -face meeting between Sun Hayan.
+
+A number of sectors, such as the economy, trade and political relations, were discussed in detail and exchanged comments between the two sides about the establishment of trade ties between Sri Lanka and China.
+
+Here, considering China's economic development model, both sides exchanged ideas about the way our country could recover from the current situation.
 
 ...
 
 [Data](articles/02240b7c.json)
+
+[Extended Data](ext_articles/02240b7c.ext.json)
 
 ---
 
@@ -644,21 +754,31 @@ Furthermore, he said that instructions were given to the Water Supply and Draina
 
 ---
 
-### பேராயர் கர்தினால் மல்கம் ரஞ்சித்தின் குற்றச்சாட்டுகளை நிராகரித்தார் கோட்டா- ஆணைக்குழுஅறிக்கை வெளியான பின்னர் அவரை தொலைபேசியில் தொடர்புகொள்ளவில்லை என தெரிவிப்பு
+### Archbishop Cardinal rejected Malcolm Ranjith's allegations
 
 *2024-04-25 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181941) · `ta`
 
-பயங்கரவாத தாக்குதலில் ஈடுபட்டஇரு தரப்புகள் குறித்த உண்மைகளை கர்தினால் மறைக்கின்றார் அல்லது வெளிப்படையாக தவிர்க்கின்றார்
+Archbishop Cardinal rejected Malcolm Ranjith's allegations, alleging Cardinal hides facts about the terrorist attack. Gotabhaya Rajapaksa, the former President, rejected Cardinal's allegations and claimed the Muslim community did not support him. He also mentioned the appointment of a Cabinet Subcommittee to address the Presidential Commission's report findings.
 
-பேராயர் கர்தினால் மல்கம் ரஞ்சித் முன்வைத்துள்ள முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச அவரை கடுமையாக சாடியுள்ளார்
+🟩
 
-உயிர்த்த ஞாயிறு தொடர்பான கர்தினால் மல்கம் ரஞ்சித்தின் குற்றச்சாட்டுகளை முற்றாக நிராகரித்துள்ள முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பயங்கரவாத தாக்குதலில் ஈடுபட்டஇரு தரப்புகள் குறித்த உண்மைகளை கர்தினால் மறைக்கின்றார் அல்லது வெளிப்படையாக தவிர்க்கின்றார் என குறிப்பிட்டுள்ளார்.
+Cardinal hides or obviously avoiding the facts of the two parties involved in the terrorist attack
 
-உயிர்த்த ஞாயிறு தாக்குதல் குறித்த ஜனாதிபதி ஆணைக்குழு என்னிடம் கையளிக்கப்பட்ட மறுநாள் நான் கர்தினால்மல்கம் ரஞ்சித்தைதொடர்புகொண்டேன் என கர்தினால் தெரிவித்துள்ளார் ஆனால் நான் அந்தஅறிக்கைசமர்ப்பிக்கப்பட்ட பின்னர் நான் கர்தினாலை தொலைபேசி மூலம் தொடர்புகொள்ளவேயில்லை என கோட்டாபய தெரிவித்துள்ளார்.
+Former President Gotabhaya Rajapaksa, who has presented him with Archbishop Cardinal Malcolm Ranjith
+
+Former President Gotabhaya Rajapakse, who has completely rejected the allegations of Cardinal Malcolm Ranjith on the lifeblood Sunday, has stated that Cardinal hides or avoids the facts of the two parties involved in the terrorist attack.
+
+Gotabaya said that the day after the Presidential Commission handed over me to the President's Commission on the Sunday attack, Cardinal said that I was in contact with Ranjit.
+
+The former president said that the Muslim community did not vote for me and did not support me.
+
+On February 2021, the Presidential Commission's Report was handed over to me after examining it. After examining it, it was handed over to the Speaker of Parliament on February 23, 2021.
 
 ...
 
 [Data](articles/5306f112.json)
+
+[Extended Data](ext_articles/5306f112.ext.json)
 
 ---
 
@@ -720,45 +840,59 @@ It has been informed to pay a sum of Rs. 1000 million to Maithripala Sirisena fo
 
 ---
 
-### வெளிநாடு செல்லவதற்காக வேலைவாய்ப்புக்கு காத்திருப்பவர்களுக்கான அறிவித்தல்!
+### Notification for those waiting for employment to go abroad!
 
 *2024-04-25 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181943) · `ta`
 
-அனுமதி பெற்று இயங்கும் வெளிநாட்டு வேலைவாய்ப்பு நிறுவனத்தைத் தவிர வேறு எந்த தரப்பினரும் வெளிநாட்டு வேலைவாய்ப்பு பெற்று தருவதாக கூறி பணம் பெறுவதற்கு அதிகாரம் இல்லை என அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+Minister Manusha Nanayakkara clarified that only permit-owned foreign employment agencies can secure foreign employment. He also addressed complaints about a police sergeant receiving money, directing investigators to arrest those involved. The Foreign Employment Bureau of Investigation has been tasked with enforcing laws against traffickers.
 
-அவர் மேலும் தெரிவிக்கையில், அநுராதபுரத்தை அண்மித்த விஹாரை ஒன்றின்  விஹாராதிபதி தலைமையில் பொலிஸ் சார்ஜன்ட் ஒருவர் வெளிநாட்டு வேலைவாய்ப்பை பெற்று தருவதாக கூறி  பணம் பெற்ற  சம்பவம் தொடர்பில் முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளது.
+🟩
 
-இதனடிப்படையில், முறைப்பாட்டுடன் தொடர்புடைய தரப்பினரை கைது செய்யுமாறு புலனாய்வு அதிகாரிகளுக்கு  பணிப்புரை வழங்கப்பட்டுள்ளது என்றார்.
+Minister Manusha Nanayakkara has said that no parties other than the permit -owned foreign employment agency have the authority to get foreign employment.
 
-அதுமட்டுமன்றி, இவ்வாறான சட்டவிரோத செயல்களில் ஈடுபடும் ஆட்கடத்தல்காரர்களை கைது செய்ய சட்டத்தை அமுல்படுத்துமாறு  வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் புலனாய்வு பிரிவுக்கும் அமைச்சர் உத்தரவிட்டுள்ளார்.
+He further stated that complaints have been received regarding the money being received by a police sergeant under the leadership of Viharathi, who is near Anuradhapura.
 
-மேலும், இவ்வாறான மோசடிகளை தடுப்பதற்கும் நடவடிக்கை மேற்கொள்வதோடு, விசாரணைகளை மேற்கொள்ளுமாறும் வெளிநாட்டு வேலைவாய்ப்புப் பணியகத்தின் உயர் நிர்வாகத்திற்கு அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, investigators have been given a directive to arrest the parties involved in the complaint.
+
+In addition, the Minister has also ordered the Foreign Employment Bureau of Investigation to enforce the law to arrest the traffickers involved in such illegal activities.
+
+It is also worth noting that the Foreign Employment Bureau has informed the Bureau of Foreign Employment to prevent such frauds.
 
 ◼️
 
 [Data](articles/5ccca413.json)
 
+[Extended Data](ext_articles/5ccca413.ext.json)
+
 ---
 
-### நல்லூர் ஆலய சூழல் துப்பாக்கி சூடு நடாத்தி விளையாடும் திடல் இல்லை - நீதிபதி மா. இளஞ்செழியன் மன்றில் சாட்சியம்
+### Nallur temple environment is not playing firing - Judge Ma. Testimony
 
 *2024-04-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181939) · `ta`
 
-நல்லூர் ஆலய சூழல் துப்பாக்கி சூடு நடாத்தி விளையாடும் திடல் இல்லை என வவுனியா மேல் நீதிமன்ற நீதிபதி மா. இளஞ்செழியன் தனது சாட்சியத்தின் போது குறிப்பிட்டுள்ளார்.
+Judge Maa of Vavuniya High Court testifies that Nallur temple environmental firing did not occur. A civilian attempted to snatch a rifle from Judge Ilancheliyan's bodyguard, leading to a confrontation. The bodyguard fired, and the civilian fled. The incident occurred on July 22, 2017, near Nallur Temple, during which a police sergeant was shot and killed, and another injured.
 
-நீதிபதி இளஞ்செழியன் மீது மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டு சம்பவம் தொடர்பிலான வழக்கு விசாரணைகள் யாழ்.மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் நடைபெற்று வருகிறது.
+🟩
 
-அதன் போது , நேற்று புதன்கிழமை (24) நீதிபதி இளஞ்செழியன் மன்றில் தோன்றி, தனது சாட்சியங்களை பதிவு செய்தார்.
+Vavuniya High Court Judge Maa says that Nallur temple environmental firing is not played. Ilangelian mentioned during his testimony.
 
-சம்பவ தினத்தன்று மேல் நீதிமன்றில் இருந்து எனது காரில்  யாழ். - கண்டி வீதி வழியாக சென்று , கோவில் வீதி வழியாக எனது உத்தியோகபூர்வ இல்லத்தை நோக்கி பயணித்தேன்.
+Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna Western Court Judge Denis Shantan Suidasan.
 
-காரினை எனது சாரதி ஓட்டினார். அவருக்கு அருகில் எனது ஒரு மெய்ப்பாதுகாவலர் அமர்ந்திருந்தார். நான் காரின் பின் இருக்கையில் அமர்ந்து இருந்தேன்.
+At the same time, Judge Ilancheliyan appeared in the House yesterday (24) and recorded his testimony.
 
-எனது கார் சாரதியின் மோட்டார் சைக்கிளை எனது மற்றுமொரு மெய்ப்பாதுகாவலர் செலுத்தி வந்தார்.
+Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
+
+The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
+
+My car driver's motorcycle was paying another bodyguard.
+
+Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
 
 ...
 
 [Data](articles/abd2fc75.json)
+
+[Extended Data](ext_articles/abd2fc75.ext.json)
 
 ---
 
@@ -2129,111 +2263,5 @@ The government allocated Rs. 110 for each child, with additional funds coming fr
 [Data](articles/34975c5f.json)
 
 [Extended Data](ext_articles/34975c5f.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 297.10/20 to US dollar
-
-*2024-04-25 10:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-297-10-20-to-us-dollar-159953/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 297.10/20 to the US dollar on Thursday after closing at 297.95/298.10 on Wednesday, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 11.30/34 percent from 11.30/40 percent
-
-A bond maturing on 15.09.2027 was quoted down at 11.80/85 percent from 11.90/95 percent.
-
-A bond maturing on 15.03.2028 was quoted at 12.10/15 percent.
-
-A bond maturing on 15.12.2028 was quoted flat at 12.15/25 percent.
-
-The Colombo Stock Exchange was up; The All Share Price Index was up 0.05 percent at 11,911, the S&P SL20 was up 0.22 percent at 3,502. (Colombo/Apr25/2024)
-
-◼️
-
-[Data](articles/33c109d1.json)
-
-[Extended Data](ext_articles/33c109d1.ext.json)
-
----
-
-### Certain Breid Couples 30 Gentines
-
-*2024-04-25 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-උපකාරක-පංති-30දායින්-අවසන්/11-409252) · `si`
-
-Breid Couples 30 Gentines: Tuition, seminars, workshops suspended from midnight 30th. Strong action against law violations. GCE Ordinary Level Examination 6th-15th May.
-
-🟩
-
-The Department of Examinations says that the tuition classes and seminars will be suspended from midnight on the 30th of this month.
-
-According to a spokesperson that will be suspended from 12.00 midnight towards tuition classes, seminars and workshops.
-
-Strong action will be taken to violate those laws.
-
-The GCE Ordinary Level Examination is scheduled to be held from 6th to 15th May.
-
-◼️
-
-[Data](articles/97fe50bb.json)
-
-[Extended Data](ext_articles/97fe50bb.ext.json)
-
----
-
-### Action to issue National Identity Card with QR Code!
-
-*2024-04-25 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181902) · `ta`
-
-Tran Ales, Public Security Minister, announced a new National Identity Card with QR code, replacing the barcode. The new card will be issued soon, aiming to improve the current system. Despite 340 available seats, financial constraints hinder widespread issuance.
-
-🟩
-
-Public Security Minister Tran Ales said that steps will be taken to issue better National Identity Card than the present National Identity Card.
-
-The bar code on the existing National Identity Card has been deleted for this purpose.. He said the new identity card with the R code will be issued soon.
-
-He was speaking at the opening of the new Central Provincial Office of the Nuwara Eliya Department.
-
-The Minister said that there are 340 seats to obtain national identity cards, but the government has a financial problem.
-
-◼️
-
-[Data](articles/2236383d.json)
-
-[Extended Data](ext_articles/2236383d.ext.json)
-
----
-
-### Ukraine has begun to use long -range missiles provided by the US - US officials information
-
-*2024-04-25 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181908) · `ta`
-
-Ukraine now uses US-supplied long-range missiles against Russian soldiers, a change from previously supplied ADCMS missiles. The US president secretly approved the supply, with the number of missiles undisclosed.
-
-🟩
-
-US officials have said that Ukraine has begun to use long -range missiles issued by the US against Russian soldiers.
-
-These missiles, which are part of the security assistance for Ukraine, reached Ukraine this month.
-
-Ukraine has used these missiles at least at least once - US officials say that the soldiers in Crimea have been used.
-
-The US had previously supplied ADCMS missiles to Ukraine, but was reluctant to provide a strong missile than the missile.
-
-However, the US president has secretly granted permission to provide long -term missiles to Ukraine.
-
-A State Department official told the BBC that the missiles were supplied on the orders of the president.
-
-The US did not make it public as Ukraine had called for the safety of Ukraine to make the matter public.
-
-It is not clear how many missiles have been sent, but US security adviser Jag Sulivan says these missiles will change the battlefield.
-
-They can change but there are no easy solutions as I have said before
-
-...
-
-[Data](articles/7bcc126d.json)
-
-[Extended Data](ext_articles/7bcc126d.ext.json)
 
 ---

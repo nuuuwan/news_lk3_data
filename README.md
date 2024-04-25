@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 16:34:59**
+As of **2024-04-25 16:49:05**
 
 ## Newspaper Stats
 
-*Scraped **20,924** Articles*
+*Scraped **20,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,421
 adaderanalk | 2,492
 virakesarilk | 3,149
 dailymirrorlk | 3,256
-adaderanasinhalalk | 3,379
+adaderanasinhalalk | 3,380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,923 (100.0%) of 20,924 articles have been extended.
+20,924 (100.0%) of 20,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### රන් කොල්ලයේ සැකකරුවන් අල්ලන්න මහජන සහාය ඉල්ලයි
+
+*2024-04-25 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195965) · `si`
+
+අපරාධයක් සම්බන්ධයෙන් අවශ්‍යකරන සැකකරුවන් පිරිසක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා තිබේ.
+
+පොලීසිය පවසන්නේ මෙම සැකකරුවන්ට එරෙහිව රන් තොගයක් කොල්ලකෑම සම්බන්ධයෙන් චෝදනා එල්ලවී ඇති බවය.
+
+මෙම සැකකරුවන් විසින් පසුගිය වසරේ නොවැම්බර් මස 23 වනදා කල්පිටිය ප්‍රදේශයේදී පුද්ගලයෙකු පැහැරගෙනගෙන ගොස් ඔහු සතුව තිබූ රන් කිලෝ 37ක් කොල්ලකා පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් කල්පිටිය මහෙස්ත්‍රාත් අධිකරණය විසින් සැකකරුවන් 5ක් නම්කර ඇති අතර එම සැකකරුවන් මැණික්හින්න, ගාල්ල, පුත්තලම සහ ගුන්නෑපාන යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+කෙසේ වෙතත් මේ වනවිට එම සැකකරුවන් පිරිස ඔවුන් පදිංචි ප්‍රදේශ අත්හැර පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+ඒ අනුව පහත චායාරූපවල දැක්වෙන සැකකරුවන ගැන තොරතුරක් දන්නේ නම් 071 859 1763 හෝ 071 859 4916 යන දුරකථන අංක හරහා පොලීසිය වෙත දැනුම්දෙන ලෙස ඉල්ලා සිටී.
+
+පොලිස් මාධ්‍ය කොට්ඨාශය විසින් අප වෙත ඒවා තිබූ එම සැකකරුවන්ගේ ඡායාරූප පහතින්,
+
+◼️
+
+[Data](articles/6cbea96c.json)
+
+---
 
 ### Railway gets S.S. Mudalige to cover GMR’s duties
 
@@ -918,21 +942,27 @@ The state minister of finance responded that the government would have to fund s
 
 ---
 
-### පොහොර සහනාධාරය ගැන කෘෂි ඇමති නිහඬයි
+### Agricultural Minister silence on fertilizer subsidy
 
 *2024-04-25 12:38:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-ගැන-කෘෂි-ඇමති-නිහඬයි/11-409257) · `si`
 
-මෙවර යල කන්නයේ වී වගාව සදහා ලබා දෙන පොහොර සහනාධාරය සම්බන්ධයෙන් කිසිදු වැඩ පිළිවෙළක් පිළිබඳව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා විසින් ගොවී ජනතාවට ප්‍රකාශ කර නොමැති බව සමස්ත ලංකා ගොවිජන සම්මේලනය පවසයි.
+Agriculture Minister Mahinda Amaraweera has not informed farmers about the fertilizer subsidy for paddy cultivation this year, according to the All Ceylon Agrarian Association. Susantha Navaratne, Minister of Agriculture, also failed to provide details on the subsidy.
 
-පසුගිය මාස් කන්නයට අදාළව ලබා දීමට පොරොන්දු වූ අක්කරයකට රුපියල් 6000ක් බැගින් පොහොර සහනාධාරය සඳහා මුදල සමස්ථ ගොවි ජනතාවටම ලබා දීමට කෘෂිකර්ම අමාත්‍යවරයාට හැකිවී නොමැති බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ උප සභාපති සුසන්ත  කුමාර නවරත්න මහතා පැවසීය.
+🟩
 
-උප සභාපතිවරයා  මේ බව කියා සිටියේ අනුරාධපුරේදී ⁣ මාධ්‍යය වෙත අදහස් දක්වමින්ය.
+The All Ceylon Agrarian Association says that Minister of Agriculture Mahinda Amaraweera has not told the farmers regarding the fertilizer subsidy given to paddy cultivation this year.
 
-රනිල් වික්‍රමසිංහ මහතා විසින් ' උරුමය ' නමින් ගොවි ජනතාවට ඉඩම් ඔප්පු ලබා දීමේ වැඩ සටහනක් සිදු කරමින් රටේ ජාතික සම්පත් ඇති ඉඩම් කුණු කොල්ලයට වෙන්දේසි කරමින් පවතින බවත් මෙරට ගොවි ජනතාව ශක්තිමත් කිරීම වෙනුවට රටට අවශ්‍ය ආහාර වර්ග ආනයනය කරමින් විදේශීය ගොවියා ශක්තිමත් කිරීමට වත්මන් රජය කටයුතු කර ඇති බවත් සුසන්ත කුමාර නවරත්න මහතා මෙහිදී වැඩි දුරටත් පැවසීය.
+Troops of the All Ceylon Agrarian Federation Susantha Kumara Navaratne said that the Minister of Agriculture Susantha Navaratne said that the Minister of Agriculture had not been able to provide Rs.
+
+The Vice Chairman was speaking to the media in Anuradhapura.
+
+The current government has been auctioned to plunder land deeds to the farmers' inheritance and to strengthen the foreign farmers in the country by Ranil Wickremesinghe.Susantha Kumara Navaratne added that he added.
 
 ◼️
 
 [Data](articles/fecc9260.json)
+
+[Extended Data](ext_articles/fecc9260.ext.json)
 
 ---
 
@@ -2289,29 +2319,5 @@ This meeting is the first physical meeting of the ISO Technical Committee since 
 [Data](articles/4f25df55.json)
 
 [Extended Data](ext_articles/4f25df55.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-04-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195942) · `si`
-
-Showers and thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Southern provinces, along the coast from Galle to Matara and Hambantota, with some lasting into the morning. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-From Western, Sabaragamuwa, Central, North Western and Southern provinces. Showers or thundershowers will occur at several times after 2.
-
-The Department of Meteorology announces that showers will occur at several places in the coastal areas from Galle to Matara and Hambantota.
-
-Some locations in the Sabaragamuwa, Central and Uva provinces can last a morning.
-
-The Department of Meteorology has kindly requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/ba2c2909.json)
-
-[Extended Data](ext_articles/ba2c2909.ext.json)
 
 ---

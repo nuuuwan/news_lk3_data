@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 21:34:15**
+As of **2024-04-25 21:53:17**
 
 ## Newspaper Stats
 
-*Scraped **20,981** Articles*
+*Scraped **20,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,112 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,193
-adalk | 1,758
+adalk | 1,759
 tamilmirrorlk | 2,425
-adaderanalk | 2,496
+adaderanalk | 2,497
 virakesarilk | 3,165
 dailymirrorlk | 3,266
-adaderanasinhalalk | 3,385
+adaderanasinhalalk | 3,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,979 (100.0%) of 20,981 articles have been extended.
+20,981 (100.0%) of 20,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### அதிவேக நெடுஞ்சாலையில் கார் விபத்து
+### Iran’s President Raisi urges broadening ties with Asian countries
+
+*2024-04-25 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98848/irans-president-raisi-urges-broadening-ties-with-asian-countries) · `en`
+
+Iran’s President Ebrahim Raisi has called for expanding ties with Asian countries, particularly Pakistan and Sri Lanka, to strengthen bilateral, regional, and international cooperation.
+
+President Raisi made the remarks on Thursday morning after returning to Tehran from an official visit to Pakistan and Sri Lanka.
+
+Referring to the official meetings with Pakistan’s authorities, Raisi said that they discussed strengthening cooperation in the energy and economic sectors by increasing commercial ties to $10 billion annually.
+
+Also, he said that the barriers to expansion of cultural cooperation with Punjab, and Sindh states in Pakistan, which have great cultural and economic cooperation with Iran, were examined and agreed to be removed for enhancing ties.
+
+During his visit to Sri Lanka, President Raisi attended the inauguration of a large and multi-purpose hydroelectric project implemented by an Iranian company with modern, high-level, and sophisticated technology.
+
+...
+
+[Data](articles/f99eced6.json)
+
+---
+
+### නිවසේ තනිවම සිටි කාන්තාවකට කළ අපරාධය
+
+*2024-04-25 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195971) · `si`
+
+හොරණ වීදියගොඩ ප්‍රදේශයේ නිවසක තනිව සිටි කාන්තාවකගේ සිරුරට පෙට්‍රල් දමා ගිනි තැබීමේ සිද්ධියක් වාර්තා වී තිබේ.
+
+මෙලෙස සිරුරට ගිනි තබා ඇත්තේ එම ප්‍රදේශයේම පදිංචිව සිටි 63 හැවිරිදි කාන්තාවකි.
+
+එම කාන්තාවගේ නිවසේ අසල්වැසි පුද්ගලයෙකු විසින් මෙම අපරාධය සිදුකර ඇති බවට පොලීසිය සැකපළ කරයි.
+
+අදාළ සැකකරු එම නිවසට ඇතුළුවන ආකාරයත් ඉන් පිටව යන ආකාරයත් නිවසේ සවිකර තිබූ CCTV කැමරාවේ පටිගතව ඇත.
+
+ඉඩම් ආරවුලක් දුරදිග යාමෙන් අනතුරුව සැකකාර පුද්ගලයා මෙම ගිනිතැබීම සිදුකරන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+
+මොරගහහේන පොලිසිය පවසන පරිදි, කලකට පෙර රුපියල් ලක්ෂ 60කට විකිණීමට තීරණය කර තිබූ සැකකරු සතු ඉඩමක්  පසුව රුපියල් ලක්ෂ 80කට විකිණීම සඳහා ගැණුම්කරුවෙකු සොයාගැනීමට ඔහුට හැකිවී තිබේ.
+
+ඒ අනුව අදාළ ගැණුම්කරු රුපියල් ලක්ෂ 3ක අත්තිකාරම් මුදලක් ඉඩම අයිති සැකකරුට ලබාදී තිබුණේ ඉඩම මිලදී ගැනීම ස්ථීර කරමිනි.
+
+පසුව අසල්වැසි කාන්තාව ගැණුම්කරුට පවසා ඇත්තේ ඔහු රුපියල් ලක්ෂ අසූවකට මිලදීගැනීමට සූදානම් වන්නේ රුපියල් ලක්ෂ 60කට අලෙවිකිරීමට සැලසුම්කර තිබූ ඉඩමක් බවය.
+
+...
+
+[Data](articles/718852bd.json)
+
+---
+
+### Car accident on highway highway
 
 *2024-04-25 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181959) · `ta`
 
-கொழும்பு-கட்டுநாயக்க அதிவேக நெடுஞ்சாலையின் ஜா-எல நுழைவாயிலில் இன்று பிற்பகல் 3.00 மணியளவில் கார் ஒன்று விபத்துக்குள்ளானது.
+A car crashed at Ja-Ela Gateway on the Colombo-Kattunayake Highway, causing a 20-meter crash. This follows past incidents where vehicles crashed, killing ten people.
 
-நெடுஞ்சாலையில் இருந்து ஜா -எல நோக்கி பயணித்த கார் விபத்துக்குள்ளாகி கவிழ்ந்து சுமார் 20 மீற்றர் தூரம் வரை புரண்டு சென்றுள்ளதாக  சம்பவத்தை பார்த்த ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-கடந்த காலங்களில் இந்த இடத்தில் வாகனங்கள் கவிழ்ந்து விபத்துக்கள் ஏற்பட்டுள்ளதாகவும் இதனால்  பத்து பேர் உயிரிழந்துள்ளதாக அப்பகுதி மக்கள் குறிப்பிட்டுள்ளனர்.
+A car crashed at the Ja-Ela Gateway at the Colombo-Kattunayake Highway at around 3.00 pm today.
+
+One person who saw the incident said that a car traveling from the highway crashed into the accident and crashed into a distance of about 20 meters.
+
+Residents of the area said that in the past, vehicles have crashed and ten people have been killed.
 
 ◼️
 
 [Data](articles/e43d5731.json)
 
+[Extended Data](ext_articles/e43d5731.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தின குண்டுத்தாக்குதல்களின் சாபத்தினால் ராஜபக்ஷர்கள் பதவி விலகினார்கள் - கிரியெல்ல
+### Rajapaksas resigned due to the curse of the lifeblood Sunday bombings - Kiriella
 
 *2024-04-25 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181949) · `ta`
 
-உயிர்த்த ஞாயிறுதின குண்டுத்தாக்குதல்களின் சாபத்தினால் தான்  பொதுஜன பெரமுனவின் ஜனாதிபதி, பிரதமர் பதவி விலகினார்கள். கடவுளின் நீதிமன்றத்தில் இருந்து எவரும் தப்பிக்க முடியாது.
+Rajapaksas resigned due to the "Curse of the Lifeblood Sunday bombings," with investigations revealing the truth. The opposition's Kiriella promised transparency.
 
-பொறுப்புக் கூற வேண்டியவர்கள் தண்டனைக்கு தயாராக வேண்டும். குண்டுத்தாக்குதலை நடத்த புலனாய்வு பிரிவினரே இடமளித்தார்கள். உண்மை நிச்சயம் வெளிவரும் என எதிர்க்கட்சிகளின் பிரதான கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25)  இடம்பெற்ற உயிர்த்த ஞாயிறு தின குண்டுத்தாக்குதல்கள் தொடர்பான சபை ஒத்திவைப்பு இரண்டாம் நாள் விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The president of the PA resigned by the Curse of the Livelihood Sunday bombings. No one can escape from God's court.
+
+Those who are responsible must be prepared for punishment. Investigators were allowed to carry out the bombing. Lakshman Kiriella, the main rodent of the opposition parties, said the truth would be revealed.
+
+He was speaking at the Second Day debate on the Second Day of Parliament on Thursday (25).
+
+உயிர்த்த ஞாயிறு குண்டு தின குண்டுத்தாக்குதல்கள் தொடர்பில் பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகை குறிப்பிட்டு விடயத்தை சபையில் பதிவு செய்ய விரும்புகிறேன். 'ஜனாதிபதி விசாரணை ஆணைக்குழு அறிக்கை கிடைத்தவுடன் அப்போதைய ஜனாதிபதி கோட்டபய ராஜபக்ஷ  தொலைபேசி அழைப்பை எடுத்து, அறிக்கையின் பரிந்துரைகளை செயற்படுத்துவது கடினம் ஏனெனில் பரிந்துரைகளை செயற்படுத்தும் போது எனக்கு நெருக்கமானவர்களை கைது செய்யவும், அவர்களின் அமைப்புக்களை தடை செய்ய நேரிடும்' என்று குறிப்பிட்டதாக பேராயர் குறிப்பிட்டுள்ளார்.
 
 ...
 
 [Data](articles/097553ad.json)
+
+[Extended Data](ext_articles/097553ad.ext.json)
 
 ---
 
@@ -295,6 +355,24 @@ The Committee has expressed the revenue of the department with the income target
 [Data](articles/dc5bb62e.json)
 
 [Extended Data](ext_articles/dc5bb62e.ext.json)
+
+---
+
+### මෛත්‍රී වැනි පුද්ගලයන් අත්අඩංගුවට ගත යුතුයි
+
+*2024-04-25 19:27:00* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-වැනි-පුද්ගලයන්-අත්අඩංගුවට-ගත-යුතුයි/11-409268) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පාස්කු ප්‍රහාරය ගැන සිදු කළ ප්‍රකාශය අසත්‍ය බවට නිලා නොලත් ලෙස තහවුරැ වී තිබෙන බවත්, ඒ අනුව මෙවැනි වගකීම් විරහිත ප්‍රකාශ කරමින්  රට තුළ ප්‍රශ්න ඇති කරන පුද්ගලයන් අත්අඩංගුවට ගත යුතු බවට යෝජනා කරන බවත් පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේ අද (25දා) පැවති පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+"හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මහමොලකරැවන් ගැන, මේ ප්‍රහාරය පිටුපස ඉන්න පුද්ගලයන් ගැන දන්නවා කියලා ප්‍රකාශක් සිදු කළා. පොලීසියට කරන්න ඕනී ප්‍රකාශය මාධ්‍යයට කළා. එතුමා ප්‍රකාශයක් ලබා දීලා තියෙනවා, අපිට ලැබිලා තියෙන නොනිල තොරතුරැ අනුව මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රකාශයේ තියෙන්නේ බොරැ. ඒ කියන කරැණු අසත්‍යයි කියලා තහවුරැ වෙලා තියෙනවා. මේ හිටපු ජනාධිපතිවරයෙක්, ජාතික ආරක්ෂාව විහිලුවට අරගෙන. මේ රටේ ජනතාව විහිළුවට අරගෙන. රටේ පොලීසිය විහිළුවට අරගෙන.
+
+...
+
+[Data](articles/6b8e59bf.json)
 
 ---
 
@@ -2191,75 +2269,5 @@ Addressing the media, he said the milk powder importers had decided to reduce th
 [Data](articles/96776fe3.json)
 
 [Extended Data](ext_articles/96776fe3.ext.json)
-
----
-
-### Man who jumped off Sri Pada Uda Maluwa and went missing, found
-
-*2024-04-25 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-jumped-off-Sri-Pada-Uda-Maluwa-and-went-missing-found/108-281352) · `en`
-
-Police found the 33-year-old pilgrim who had climbed Sri Pada and had gone missing after jumping off the protective fence at the Ratnapura-Sri Pada route at the Uda Maluwa.
-
-The police found him lying in the Rajamalai Estate and admitted him to the Dikoya Hospital.
-
-They said the Siripagama Police and the STF, with the help of the army, had launched a search operation to trace the young man from where he had jumped.
-
-He jumped over the protective fence near the steps leading to Sri Padasthana on April 17 and disappeared.
-
-Residents of the area found him lying in Rajamalai Estate on Wednesday (24) and reported it to the Nallathanniya police and later he was admitted to the Dikoya Hospital.
-
-The circumstances which led him to jump into the precipice are yet to be established. The Nallathanniya and Siripagama police are conducting further investigations.
-
-...
-
-[Data](articles/d188d255.json)
-
-[Extended Data](ext_articles/d188d255.ext.json)
-
----
-
-### The train is not allowed to hang on the stairs;Railway department
-
-*2024-04-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181923) · `ta`
-
-The railway department has banned passengers from hanging on stairs, citing safety concerns and accidents involving tourists. Despite efforts to enforce this rule, it remains challenging, leading to complaints and negative social media posts. Accidents have occurred, including a foreign woman slipping and an Iranian tourist being severely injured. Passengers call for stricter enforcement by railway guards.
-
-🟩
-
-The train department said that it is banned from going to the stairs on the stairs.
-
-Many accidents have been reported as local and foreign tourists, especially the trains traveling to the hill country, are hanging on the stairs.
-
-Railway guards and other officials have been advised to take steps to prevent passengers from hanging on the stairs on the stairs to address the problem.
-
-Despite the action, it is worrying that accidents are caused by foreign tourists traveling in stairs on the railway trains.
-
-Although the train department officials have announced that they should not travel on the stairs on the stairs, it is difficult to prevent tourists from doing so. Most people complain to the train department that they are harassed by the authorities. He also said that they are posting bad comments on social media.
-
-...
-
-[Data](articles/fdc8bca0.json)
-
-[Extended Data](ext_articles/fdc8bca0.ext.json)
-
----
-
-### Three -month holiday with Sampanthan's salary!
-
-*2024-04-25 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181926) · `ta`
-
-Parliament granted a three-month holiday with Sampanthan's salary, proposed by Lakshman Kiriella and supported by Tamil National Alliance MP Charles Nirmalanathan.
-
-🟩
-
-Trincomalee District Parliamentarian. Parliament today granted permission to grant a three -month holiday with Sampanthan.
-
-Opposition chief organizer Lakshman Kiriella presented this idea in Parliament. Tamil National Alliance MP Charles Nirmalanathan supported the resolution.
-
-◼️
-
-[Data](articles/2fd50b5e.json)
-
-[Extended Data](ext_articles/2fd50b5e.ext.json)
 
 ---

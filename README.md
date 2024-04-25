@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 01:51:24**
+As of **2024-04-26 02:03:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,016 (100.0%) of 21,017 articles have been extended.
+21,017 (100.0%) of 21,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -120,25 +120,33 @@ Treasury is facing a serious challenge in managing the liquidity this year.The r
 
 ---
 
-### நீதிபதி  இளஞ்செழியன் சாட்சி
+### Witness of the judge
 
 *2024-04-26 01:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதி-இளஞ்செழியன்-சாட்சி/175-336355) · `ta`
 
-நல்லூர் ஆலய சூழல், துப்பாக்கி சூடு நடாத்தி விளையாடும் திடல் இல்லை என வவுனியா மேல் நீதிமன்ற நீதிபதி மா. இளஞ்செழியன் தனது சாட்சியில் தெரிவித்தார்.
+Judge Maa of Vavuniya High Court testifies that the Nallur temple environment is not a shooter's playground, as stated by Ilancheliyan. On July 22, 2017, Jaffna Western Court Judge Denis Shantan Susitasan was held in the presence of Jaffna High Court Judge Denis Santhan Susitasan. Ilancheliyan appeared in court on July 24 and recorded his testimony. He was traveling in his car from the High Court to his official residence when a civilian tried to snatch a rifle from his bodyguard. The bodyguard fired, and the civilian fled. The hearing continues at Jaffna High Court until Friday, July 26.
 
-நீதிபதி இளஞ்செழியன் மீது கடந்த 2017ஆம் ஆண்டு ஜூலை மாதம் 22ஆம் திகதி ஆலய தெற்கு வாசல் கோபுரத்திற்கு அருகில் மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டு சம்பவம் தொடர்பிலான வழக்கு விசாரணைகள் யாழ்.மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் நடைபெற்று வருகிறது.
+🟩
 
-நீதிபதி இளஞ்செழியன்    புதன்கிழமை (24) நீதி மன்றில் தோன்றி, தனது சாட்சியங்களை பதிவு செய்தார்.
+Vavuniya High Court Judge Maa says that the Nallur temple environment is not a shooter playing. Ilangelian said in his testimony.
 
-சம்பவ தினத்தன்று மேல் நீதிமன்றில் இருந்து எனது காரில்  யாழ். - கண்டி வீதி வழியாக சென்று , கோவில் வீதி வழியாக எனது உத்தியோகபூர்வ இல்லத்தை நோக்கி பயணித்தேன்.
+Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna High Court Judge Denis Santhan Susitasan on July 22, 2017.
 
-காரினை எனது சாரதி ஓட்டினார். அவருக்கு அருகில் எனது ஒரு மெய்ப்பாதுகாவலர் அமர்ந்திருந்தார். நான் காரின் பின் இருக்கையில் அமர்ந்து இருந்தேன்.
+Judge Ilancheliyan appeared in the court on Wednesday (24) and recorded his testimony.
 
-எனது கார் சாரதியின் மோட்டார் சைக்கிளை எனது மற்றுமொரு மெய்ப்பாதுகாவலர் செலுத்தி வந்தார்.
+Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
+
+The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
+
+My car driver's motorcycle was paying another bodyguard.
+
+Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
 
 ...
 
 [Data](articles/7213d9c3.json)
+
+[Extended Data](ext_articles/7213d9c3.ext.json)
 
 ---
 

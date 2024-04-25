@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 23:18:50**
+As of **2024-04-25 23:34:16**
 
 ## Newspaper Stats
 
-*Scraped **20,994** Articles*
+*Scraped **20,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
 adaderanalk | 2,500
-virakesarilk | 3,165
+virakesarilk | 3,166
 dailymirrorlk | 3,271
 adaderanasinhalalk | 3,388
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,994 (100.0%) of 20,994 articles have been extended.
+20,994 (100.0%) of 20,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### மகளிர் ரி20 உலகக் கிண்ண தகுதிகாண்: தாய்லாந்தின் சிறு சவாலை முறியடித்து இலகுவாக வெற்றியீட்டியது இலங்கை
+
+*2024-04-25 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181979) · `ta`
+
+ஐக்கிய அரபு இராச்சியத்தின் அபுதாபி, டொலரன்ஸ் ஓவல் விளையாட்டரங்கில் இன்று வியாழக்கிழமை (25) நடைபெற்ற ஏ குழுவுக்கான ஐசிசி மகளிர் ரி20  உலகக் கிண்ண  தகுதிகாண் போட்டியில் தாய்லாந்தை எதிர்த்தாடிய இலங்கை 67 ஓட்டங்களால் இலகுவாக வெற்றி பெற்றது.
+
+எவ்வாறாயினும் துடுப்பாட்டத்தில் சிறு தடுமாறத்திற்குள்ளான இலங்கை சிறப்பான பந்துவீச்சு மற்றும் களத்தடுப்பு மூலமே கடைசியில் இலகுவாக வெற்றியீட்டியது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை மகளிர் அணி 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 122 ஓட்டங்களைப் பெற்றது.
+
+ஐந்தாவது ஓவரில் மொத்த எண்ணிக்கை 24 ஓட்டங்களாக இருந்தபோது விஷ்மி குணரட்ன 13 ஓட்டங்களுடன் வெளியேறினார்.
+
+அணித் தலைவி சமரி அத்தபத்து நிதானத்துடன் துடுப்பெடுத்தாடி 16 ஓட்டங்களைப்  பெற்று ஆட்டம் இழந்தார்.
+
+அவரைத் தொடர்ந்து ஹன்சிமா கருணாரட்ன (11), கவிஷா டில்ஹாரி (5), ஹாசினி பெரேரா (29) ஆகியோர் சீரான இடைவெளியில் ஆட்டம் இழக்க இலங்கை நெருக்கடியை எதிர்கொண்டது. (78 - 5 விக்.)
+
+...
+
+[Data](articles/73cf5720.json)
+
+---
 
 ### SLAS appoints independent committee for investigation
 
@@ -69,6 +91,10 @@ The US$ 3 million initiative will bolster food and nutritional security and fort
 ### The government is a new decision to issue permanent appointments
 
 *2024-04-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195973) · `si`
+
+The government plans to offer permanent appointments to local government employees, following discussions between President Ranil Wickremesinghe and MPs. This decision affects around 8400 employees.
+
+🟩
 
 The government is focusing on providing permanent appointments for employees in local government bodies.
 
@@ -2243,23 +2269,5 @@ He stated Iran had progressed in various fields of technology over the past year
 [Data](articles/f0178659.json)
 
 [Extended Data](ext_articles/f0178659.ext.json)
-
----
-
-### Sri Lanka presidential debate: NPP fires back at SJB, asks for alternative dates
-
-*2024-04-25 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-debate-npp-fires-back-at-sjb-asks-for-alternative-dates-160030/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s leftist opposition party National People’s Power (NPP) has shot back at main opposition Samagi Jana Balawegaya (SJB) asking the party to suggest alternative dates for the proposed debate between the two parties’ leaders.
-
-The NPP’s Nalinda Jayatissa, who has been tasked with overseeing the organisation of the debate from the NPP’s end, told reporters on Thursday April 25 that, since all political parties are going to be busy in the run up to Labour Day on May 01, the SJB can propose three or four dates before May 20.
-
-“Letters have been exchanged on this debate between the presidential candidates of the NPP and the SJB, but there is still no consensus the date of the debate,” said Jayatissa.
-
-...
-
-[Data](articles/f1799921.json)
-
-[Extended Data](ext_articles/f1799921.ext.json)
 
 ---

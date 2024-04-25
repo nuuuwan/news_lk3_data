@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 20:53:12**
+As of **2024-04-25 21:03:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,975 (100.0%) of 20,976 articles have been extended.
+20,976 (100.0%) of 20,976 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ He is to attend a meeting with the Sri Lankan diaspora in Stockholm, Sweden on S
 ◼️
 
 [Data](articles/8905f593.json)
+
+[Extended Data](ext_articles/8905f593.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 17:34:35**
+As of **2024-04-25 17:53:58**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 3,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,931 (100.0%) of 20,934 articles have been extended.
+20,934 (100.0%) of 20,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### හිටපු අගමැති මහතීර් පුත්‍රයින් ගේ වැඩ නිසා අමාරුවේ වැටෙයි
+### Former Prime Minister Mahatarr falls in trouble due to work
 
 *2024-04-25 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195967) · `si`
 
-මැලේසියාවේ හිටපු අගමැති මහතීර් මොහොමඩ් ට එරෙහිව පරීක්ෂණයක් පැවැත්වෙන බව එරට දුෂණ විරෝධී කොමිසම පවසයි.
+Former PM Mahatir under investigation for corruption, with strict actions against politicians accused of corruption. Anwar claims the tests are not political, focusing on widespread corruption.
 
-ඒ ඔහුගේ පුත්‍රයින්ට එරෙහිව දුෂණ චෝදනා එල්ලවී ඇති බවත් ඒ හේතුවෙන් හිටපු අගමැතිවරයා සම්බන්ධයෙන් ද පරීක්ෂණය පවත්වන බව එම කොමිසම වැඩිදුරටත් පැවසීය.
+🟩
 
-මැලේසියාවේ දුෂණ සහ වංචා සම්බන්ධයෙන් චෝදනා එල්ලවී ඇති ප්‍රමුඛ දේශපාලකයින් ට එරෙහිව දැඩි පියවරගැනීමට එරට බලධාරීන් කටයුතු කරයි.
+An anti-Prime Minister of Malaysia is an investigation into a test against former Prime Minister Mahatir Mohammed.
 
-විශේෂයෙන්ම 98 හැවිරිදි හිටපු අගමැතිවරයාගේ සමීපතමයින් සම්බන්ධයෙන් කෙරෙන පරීක්ෂණ දැඩිකර තිබේ. ඔහු වර්තමාන අගමැති ඉබ්‍රහිම් අන්වර් ගේ ප්‍රධානතම දේශපාලන ප්‍රතිවාදියා වෙයි.
+The Commission added that corruption has been accused of corruption against his sons and the investigation into the former Prime Minister added.
 
-අන්වර් පවසන්නේ මෙම පරීක්ෂණ දේශපාලන විරුද්ධවාදීන් ව ඉලක්ක කර සිදු නොකරන බවත් එය රජය මගින් ගෙනයන මහා පරිමාණ දුෂණ වැළැක්වීමේ උත්සාහයක් බවත් ය.
+Authorities acting strict action against the leading politicians who have accused the corruption and frauds of Malaysia.
+
+Investigations on the closestines of the 98-year-old Prime Minister have been strictly. He is the main political opponent of Ibrahim Anwar today.
+
+Anwar states that these tests are not targeting political opponents and that it is a large number of corruption.
 
 ◼️
 
 [Data](articles/bb3b17bb.json)
 
+[Extended Data](ext_articles/bb3b17bb.ext.json)
+
 ---
 
-### විදුහල්පතිවරයෙකු සියදිවි හානිකරගනී
+### Principal commits suicide
 
 *2024-04-25 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195966) · `si`
 
-මෙලෙස සියදිවි හානිකරගෙන ඇත්තේ කුරුණෑගල මාස්පොත ප්‍රදේශයේ පදිංචිව සිටි 55 හැවිරිදි වියේ පසුවූ විදුහල්පතිවරයෙකි.
+A 55-year-old man from Maspotha, Kurunegala, commits suicide after being labeled a traitor.
+
+🟩
+
+The victim has been committed to a 55-year-old traitor, a resident of Maspotha, Kurunegala.
 
 ◼️
 
 [Data](articles/f71c0e83.json)
+
+[Extended Data](ext_articles/f71c0e83.ext.json)
 
 ---
 

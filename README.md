@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 10:51:36**
+As of **2024-04-25 11:03:40**
 
 ## Newspaper Stats
 
-*Scraped **20,838** Articles*
+*Scraped **20,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,152 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,733
+adalk | 1,735
 tamilmirrorlk | 2,410
 adaderanalk | 2,478
-virakesarilk | 3,136
-dailymirrorlk | 3,248
-adaderanasinhalalk | 3,365
+virakesarilk | 3,139
+dailymirrorlk | 3,249
+adaderanasinhalalk | 3,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,837 (100.0%) of 20,838 articles have been extended.
+20,838 (100.0%) of 20,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### මහින්දානන්දට එරෙහි නඩුවේ තීන්දුව අප්‍රේල් 30
+### Unsuitable rice for schools sourced by WFP, not government: Minister
+
+*2024-04-25 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unsuitable-rice-for-schools-sourced-by-WFP-not-government-Minister/108-281334) · `en`
+
+Colombo, April 25 (Daily Mirror) - The rice distributed among schools said to be unsuitable for children's co consumption was provided by the World Food Programme (WFP) and not by the government, Education Minister Susil Premajayantha assured today.
+
+Speaking in Parliament today, he said those packets of rice were provided additionaly by the WFP to support the government programme.
+
+The government ensures that food distributed with government funds is suitable for children's consumption. Even after stocks of rice are distributed to Provincial Education Centres through the Director General  of Health Services, they advise regular quality checks with the assistance of Provincial Public Health Inspectors (PHIs), Minister Premajayantha said.
+
+The government allocated Rs. 110 for each child, with additional funds coming from various sources. As a result, the Minister requested that the government-funded stocks of rice should not be mixed with those provided by the WFP programme.
+
+◼️
+
+[Data](articles/34975c5f.json)
+
+---
+
+### தேசிய அடையாள அட்டையை QR குறியீட்டுடன் வழங்க நடவடிக்கை!
+
+*2024-04-25 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181902) · `ta`
+
+தற்போது காணப்படும்  தேசிய அடையாள அட்டையை விட சிறந்த தேசிய அடையாள அட்டை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+
+இதற்காக ஒப்பந்தம் செய்யப்பட்டு, தற்போதுள்ள தேசிய அடையாள அட்டையில் இருந்த பார் குறியீடு நீக்கப்பட்டு இதற்கு பதிலாக கீயூ. ஆர் குறியீட்டுடன் கூடிய புதிய அடையாள அட்டை விரைவில் வழங்கப்படும் எனவும் தெரிவித்துள்ளார்.
+
+நுவரெலியா ஆட்பதிவு திணைக்களத்தின் புதிய மத்திய மாகாண அலுவலகத்தை திறந்து வைத்து உரையாற்றும் போதே இதனை தெரிவித்துள்ளார்.
+
+தேசிய அடையாள அட்டைகளை பெற்றுக்கொள்ள 340 இடங்கள் உள்ளதாகவும், ஆனால் அரசாங்கத்துக்கு நிதிப்பிரச்சினை காணப்படுவதாகவும் இருப்பினும் மக்களுக்காக நாடு முழுவதும் பல அலுவலகங்கள் திறக்கப்படும் என்றும் அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2236383d.json)
+
+---
+
+### அமெரிக்கா இரகசியமாக வழங்கிய நீண்ட தூர ஏவுகணைகளை உக்ரைன் பயன்படுத்த ஆரம்பித்துள்ளது - அமெரிக்க அதிகாரிகள் தகவல்
+
+*2024-04-25 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181908) · `ta`
+
+அமெரிக்கா இரகசியமாக வழங்கிய நீண்ட தூர ஏவுகணைகளை ரஸ்ய படையினருக்கு எதிராக உக்ரைன் பயன்படுத்த ஆரம்பித்துள்ளது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+மார்ச்சில் அமெரிக்க ஜனாதிபதி அனுமதி வழங்கிய உக்ரைனிற்கான பாதுகாப்பு உதவியின் ஒரு பகுதியான இந்த ஏவுகணைகள் இந்த மாதமே உக்ரைனை சென்றடைந்துள்ளன.
+
+இந்த ஏவுகணைகளை ஆகக்குறைந்தது ஒரு தடவையாவது உக்ரைன் பயன்படுத்தியுள்ளது - கிரிமியாவில் நிலை கொண்டுள்ள படையினருக்குஎதிராக பயன்படுத்தியுள்ளது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+அமெரிக்க முன்னர் ஏடிசிஎம்எஸ் ஏவுகணைகளை உக்ரைனிற்கு வழங்கியிருந்தது எனினும் அந்த ஏவுகணையை விட வலுவான ஏவுகணையை வழங்க தயக்கம் கொண்டிருந்தது.
+
+எனினும் உக்ரைனிற்கு நீண்டதூர ஏவுகணைகளை வழங்குவதற்கு அமெரிக்க ஜனாதிபதி இரகசியமாக அனுமதி வழங்கியுள்ளார்.
+
+ஜனாதிபதியின் உத்தரவின் பேரில் இந்த ஏவுகணைகள் வழங்கப்பட்டுள்ளதை உறுதி செய்ய முடியும் என இராஜாங்க திணைக்கள அதிகாரியொருவர் பிபிசிக்கு தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/7bcc126d.json)
+
+---
+
+### විද්‍යාපීඨ නව බඳවා ගැනීම් ගැන හෙළිදරව්වක්
+
+*2024-04-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195951) · `si`
+
+විද්‍යාපීඨ නව බඳවා ගැනීම් සඳහා 60,000ක් ඉල්ලුම් කර ඇති බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+
+එහි කටයුතු ලබන සතිය වන විට අරඹන බවත් සුසිල් ප්‍රේම්ජයන්ත් මහතා කීය.
+
+එසේම විද්‍යාපීඨ පුහුණුව නිමකළ 4,160ක් විද්‍යාපීඨ වලින් පිටවීමට නියමිත බවත් අමාත්‍යවරයා පැවසීය.
+
+ඔහු මේ බව පැවසුවේ පාර්ලිමේන්තුවේදී විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+ගුරු පුරප්පාඩු සඳහා 23,005 දෙනෙක් බඳවා ගැනීමේ කටයුතු සිදු කරමින් පවතින බවද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/94665761.json)
+
+---
+
+### The verdict against Mahindananda's decision on 30th April 30
 
 *2024-04-25 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195950) · `si`
 
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව ගොනුකර ඇති නඩුවේ තීන්දුව ප්‍රකාශ කිරීම මේ මස 30 වනදා දක්වා කල් තැබීමට කොළඹ මහාධිකරණය නියම කළේය.
+The Colombo High Court adjourned the verdict against Attorney General Mahindananda Aluthgamage, accused of purchasing a luxury house under the Money Laundering Act, until April 30th.
 
-මෙම නඩුවේ තීන්දුව අද (25) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+🟩
 
-එහෙත් මහාධිකරණ විනිසුරු නවරත්න මහරසිංහ මහතා සඳහන් කළේ, එහි තීන්දුව ප්‍රකාශ කිරීම ලබන 30 වන දා සිදුකරන බවය.
+Developing a luxury house of the Cash Basgon Aluthgamage has been accused of purchasing a luxury house of the Money Laundering Act.The Colombo High Court sentenced to adjourn.
 
-මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+The verdict in this case was to be announced today (25).
+
+However, High Court Judge Navaratne Mathusinghe said that it will be stated on the 30th of this month.
+
+The case was filed against the Attorney General Mahindananda Aluthgamage, the Attorney General of the Government of the Government of the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/452849a8.json)
+
+[Extended Data](ext_articles/452849a8.ext.json)
+
+---
+
+### தம்புள்ளை நகருக்குள் வந்த  3  காட்டு யானைகள்!
+
+*2024-04-25 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181907) · `ta`
+
+தம்புள்ளை நகருக்குள் வந்த மூன்று காட்டு யானைகளினால் தம்புள்ளை நகரை சுற்றியுள்ள வீடுகளில் வசிக்கும் மக்களிடத்தில் அமைதியின்மை ஏற்பட்டது.
+
+இந்த மூன்று காட்டு யானைகளும் தம்புள்ளை நகருக்கு வந்து வீடுகள் மற்றும் கடைகளுக்கு சுற்றித் திரிவதை அப்பகுதி மக்கள் கண்டுள்ளனர்.
+
+இந்நிலையில் நகரின் பாதுகாப்பு கருதி சீகிரிய வனவிலங்கு அதிகாரிகள்  மற்றும்  தம்புள்ளை பொலிஸ் நிலைய அதிகாரிகள்  பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளின் உதவியுடன்  காட்டு யானைகளை விரட்டுவதற்காக   நடவடிக்கை மேற்கொண்டதாக  பொலிஸார் தெரிவித்தனர்.
+
+மேலும் , காட்டு யானைகளை விரட்டுவதற்காக  24 மணித்தியாலங்கள்  எடுக்கப்பட்டதாக   தம்புள்ளை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a59d1302.json)
+
+---
+
+### ඩුබායිහිදී ලක්මව රිදියෙන් සැරසූ නෙත්මිකා
+
+*2024-04-25 10:24:53* · [`adalk`](https://www.ada.lk/sports/ඩුබායිහිදී-ලක්මව-රිදියෙන්-සැරසූ-නෙත්මිකා/9-409250) · `si`
+
+ඩුබායි හි පැවැත්වෙන ආසියානු 20න් පහළ මලල ක්‍රීඩා ශූරතාවලියේදී ශ්‍රි ලංකාව නියෝජනය කළ නෙත්මිකා මදුශානී හේරත් කාන්තා තුන්පිම්ම ඉසව්ව නියෝජනය කරමින් එහි රිදී පදක්කම හිමිකරගැනිමට සමත්වූවාය.ඇය මීටර් 13.01ක දුරක් වාර්තා කරමින් මෙම ජයග්‍රහණය හිමිකර ගත්තාය.
+
+◼️
+
+[Data](articles/a5e23f7a.json)
 
 ---
 
@@ -1984,6 +2098,22 @@ NPP General Secretary Tilvin Silva told a news conference that the NPP proposed 
 
 ---
 
+### යල කන්නයේ වී වගාවට දෙන රු. 15000 ලබන සතියේ සිට ගොවි ගිණුම් වෙත
+
+*2024-04-24 20:06:02* · [`adalk`](https://www.ada.lk/breaking_news/යල-කන්නයේ-වී-වගාවට-දෙන-රු--15000-ලබන-සතියේ-සිට-ගොවි-ගිණුම්-වෙත/11-409249) · `si`
+
+යල කන්නයේ වී වගාව සඳහා හෙක්ටයාරයකට ලබා දෙන රුපියල් 15,000ක  මූල්‍යමය සහනාධාරය එළඹෙන සතියේ සිට ගොවි ගිණුම් වෙත බැර කරන බව ගොවිජන සංවර්ධන කොමසාරිස් ජනරාල් ඒ.එම්. එච්. එල්. අබේරත්න මහතා ප්‍රකාශ කළේය.
+
+ඔහු සඳහන් කර සිටියේ යල කන්නයේ වී වගා කිරීම මේ වනවිට ආරම්භ කර ඇති නමුත් අදාළ ගොවීන් සම්බන්ධයෙන් වූ නිවැරදි තොරතුරු එක්රැස් කිරීමේ කටයුතු මෙම සතිය තුළ අවසන් කෙරෙන බවයි.
+
+යල කන්නයේ වගා කිරීමට නියමිත කුඹුරු ප්‍රමාණය හෙක්ටයාර ලක්ෂ 06ක් වන නමුත් පවතින තොරතුරු අනුව කුඹුරු හෙක්ටයාර් 25,000ක පමණක් මේ වනවිට වී වගා කටයුතු අවසන් කර ඇති බවට සඳහන් කළ කොමසාරිස් ජනරාල්වරයා, පොහොර යොදන්නේ වගා කිරීමෙන් අනතුරුව වන බැවින් කුඹුරු වගා කිරීමෙන් පසු මුල්‍යමය සහනාධාරය ලබා දීමට තීරණය කළ බව පැවසීය.
+
+◼️
+
+[Data](articles/4099d9be.json)
+
+---
+
 ### Concern by the action of tourists
 
 *2024-04-24 20:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயலால்-கவலை/175-336293) · `ta`
@@ -2029,151 +2159,5 @@ This scanner has been in use since last Sunday and now patients can benefit from
 [Data](articles/6a00f297.json)
 
 [Extended Data](ext_articles/6a00f297.ext.json)
-
----
-
-### Imported milk powder prices down
-
-*2024-04-24 19:31:29* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-කිරිපිටි-මිල-පහළට/11-409248) · `si`
-
-Milk Pooja reports a 250-300 Rs reduction in imported milk powder prices today, with 400g milk powder prices dropping by 100-130 Rs.
-
-🟩
-
-According to the Milk Pooja, the Association of the Milkpola, said that the import milk powder prices will be reduced today (25th).
-
-Accordingly, the price of a kilogram of imported milk powder is reduced by a price of Rs. 250-300.
-
-The Association further stated that the 400 g of milk powder will be reduced at a price of Rs 100-130.
-
-◼️
-
-[Data](articles/a2f269f9.json)
-
-[Extended Data](ext_articles/a2f269f9.ext.json)
-
----
-
-### A reduction in the price of milkma
-
-*2024-04-24 19:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மாவின்-விலை-குறைப்பு/175-336290) · `ta`
-
-Milkma Palma Importers Association announces a price reduction for imported milk, including a 100 rupee cut for 400 grams.
-
-🟩
-
-Palma Importers Association says the price of imported milk will be reduced from tomorrow.
-
-In addition, the price of 400 grams of milk will be reduced by 100 rupees.R
-
-◼️
-
-[Data](articles/0826ba8d.json)
-
-[Extended Data](ext_articles/0826ba8d.ext.json)
-
----
-
-### Iran's president in the presidential office
-
-*2024-04-24 19:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-ஈரான்-ஜனாதிபதி/175-336289) · `ta`
-
-Ibrahim Risi, Iran's president, was honored in the presidential office by Hon. Remble.
-
-🟩
-
-The President of the Islamic Republic of Ibrahim Risi, including the President of the Islamic Republic, arrived in the presidential office shortly before.
-
-Subsequently, the President of Iran was resolved and honored by the Hon.. Remble
-
-◼️
-
-[Data](articles/9849f7c3.json)
-
-[Extended Data](ext_articles/9849f7c3.ext.json)
-
----
-
-### The suspects of the drug 300 kilo of drugs have been released due to a proof of evidence
-
-*2024-04-24 19:25:48* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-300-සැකකරුවන්-සාක්ෂියක-පරස්පරයක්-නිසා-නිදහස්-කරලා/11-409247) · `si`
-
-Suspects in a 300 kg drug case released due to contradictory evidence. Minister Wijayadasa Rajapakse highlighted the Navy's role and the controversy over the credibility of police evidence.
-
-🟩
-
-Minister of Justice Wijeyadasa, Wijayadasa, Vijayadu Rajapaksa, said that all those who were taken into custody at the sea at the sea at the sea at the sea recently have been released on a contradiction.
-
-The Criminal Procedure Protection (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Second Reading) and the debate on orders, opium, and the dangers.
-
-Minister Wijayadasa Rajapakse said:
-
-Navy came to Navy yesterday before the Navy was very hard at the sea boat. The Attorney General was charged in the High Court. All Navy officials gave evidence. However, the Colombo High Court issued the verdict. Thandharaya tells the High Court that the police evidence is not credible. This is a problem with us too. We don't understand this. Police evidence is not needed. All the Navy personnel testified from the Navy, the Navy.
-
-...
-
-[Data](articles/d90fa179.json)
-
-[Extended Data](ext_articles/d90fa179.ext.json)
-
----
-
-### Imported milk powder prices to be reduced from tomorrow
-
-*2024-04-24 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imported-milk-powder-prices-to-be-reduced-from-tomorrow/108-281295) · `en`
-
-Colombo, April 24 (Daily Mirror) - Milk powder importers announced a reduction in the selling price of imported milk powder with effect from tomorrow.
-
-As a result, the retail price of a kilogram packet of milk powder will be reduced by between Rs. 250 and Rs. 300.
-
-Additionally, the selling price of a 400-gram milk powder packet will be lowered by between Rs. 100 and Rs. 130.
-
-◼️
-
-[Data](articles/c5dde61d.json)
-
-[Extended Data](ext_articles/c5dde61d.ext.json)
-
----
-
-### Price of imported milk powder reduced
-
-*2024-04-24 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98822/price-of-imported-milk-powder-reduced) · `en`
-
-The price of imported milk powder will be reduced with effect from tomorrow (25), according to the Milk Powder Importers’ Association.
-
-Accordingly, the price of a 01 kilogram pack of imported milk powder will drop by Rs. 250 while the price of 250 grams pack will be slashed by Rs. 100.
-
-◼️
-
-[Data](articles/cab71df0.json)
-
-[Extended Data](ext_articles/cab71df0.ext.json)
-
----
-
-### Sahran's policy may still be in the country -Ratana Thera
-
-*2024-04-24 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/181882) · `ta`
-
-Sahran's policy may still be in the country, with 5,000 people following his principles. Abe Janapala questions if anyone fights against the IS system. Current religious leaders suggest Sahran's group is a maneuver for Gotabhaya Rajapakse. Rajapakse's political mistakes are separate, but if this is an attempt to smear him, it's seen as a conspiracy. 95% of MPs haven't read the Commission of Inquiry report. Maithripala Sirisena claims India was involved in the Sunday Attack, but international contacts are implied.
-
-🟩
-
-There may be five thousand people with Sahran's principles. Can you say that there are no people who are fighting with the IS system?Abe Janapala Party Member of Parliament Athuraliye Rathinaderer questioned.
-
-He said this while addressing the debate on the House of Representatives on Wednesday (24) in Parliament.
-
-Currently responsible religious leaders say that the group, including Sahran, is a maneuver for Gotabhaya Rajapakse to take over to this.
-
-Gotabhaya Rajapakse's political mistakes are a different story. But if this is an attempt to call Gotabhaya Rajapakse a maneuver, it should be seen as a conspiracy to cover up these issues.. It is not acceptable that he was aware of this.
-
-Meanwhile, 95 percent of the MPs would not have read the report of the Commission of Inquiry into the Sunday Attack.. You have to see who witnessed the Commission.
-
-...
-
-[Data](articles/85eba3d5.json)
-
-[Extended Data](ext_articles/85eba3d5.ext.json)
 
 ---

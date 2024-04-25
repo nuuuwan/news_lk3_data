@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 03:03:40**
+As of **2024-04-26 03:18:47**
 
 ## Newspaper Stats
 
-*Scraped **21,027** Articles*
+*Scraped **21,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,429
 adaderanalk | 2,500
-virakesarilk | 3,169
+virakesarilk | 3,171
 dailymirrorlk | 3,276
 adaderanasinhalalk | 3,388
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,022 (100.0%) of 21,027 articles have been extended.
+21,027 (100.0%) of 21,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### வடக்கு ஆளுநர் செயலகத்தில் கைகலப்பு - ஒருவர் வைத்தியசாலையில்
+
+*2024-04-26 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181984) · `ta`
+
+வடமாகாண ஆளுநர் செயலகத்தில் ஏற்பட்ட கைக்கலப்பில் ஒருவர் கழுத்தில் காயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+வடமாகாண ஆளுநரின் யாழ்ப்பாணத்தில் உள்ள தலைமை அலுவலகத்தின் அலுவலக பணியாளர் ஒருவருடன், துப்பரவுப் பணியில் ஈடுபடும் நபர்  ஒருவர் தாக்குதலில் ஈடுபட்டார்.
+
+பாதிக்கப்பட்ட ஆளுநர் செயலக பணியாளர் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/937aafc3.json)
+
+---
 
 ### A common sense alternative
 
@@ -43,6 +59,8 @@ I hope to convince the reader that despite some of the commentary, Sri Lanka is 
 ...
 
 [Data](articles/8020cb7b.json)
+
+[Extended Data](ext_articles/8020cb7b.ext.json)
 
 ---
 
@@ -60,6 +78,8 @@ But none of the myriad wars and conflicts could be as brutal as the war Israel�
 
 [Data](articles/cfe94b8b.json)
 
+[Extended Data](ext_articles/cfe94b8b.ext.json)
+
 ---
 
 ### Death on the racetrack - EDITORIAL
@@ -73,6 +93,8 @@ The public wishes to know why the organizers of the event should go unpunished w
 ...
 
 [Data](articles/7f4f4604.json)
+
+[Extended Data](ext_articles/7f4f4604.ext.json)
 
 ---
 
@@ -168,6 +190,20 @@ He, being a distinguished old boy of Thurstan College, had a close relationship 
 
 ---
 
+### வவுனியா கடவுச்சீட்டு காரியாலயம் முன்பாக கஞ்சாவுடன் ஒருவர் கைது
+
+*2024-04-26 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181983) · `ta`
+
+வவுனியா பிராந்திய கடவுச்சீட்டு காரியாலயம் முன்பாக வியாழக்கிழமை (25) காலை பொலிஸார் முன்னெடுத்த திடீர் சோதனை நடவடிக்கையின் போது கஞ்சாவினை கைவசம் வைத்திருந்த குற்றச்சாட்டில் மகாறம்பைக்குளம் பகுதியைச் சேர்ந்த இளைஞன் ஒருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட நபரிடமிருந்து 1000மில்லிக்கிராம் கஞ்சா மீட்கப்பட்டதாகவும் இவை விற்பனைக்காக வைத்திருந்தாரா அல்லது பாவனைக்காக வைத்திருந்தாரா போன்ற கோணத்தில் விசாரணைகளை பொலிஸார் முன்னெடுத்து வருவதுடன் மேலதிக விசாரணைகளின் பின்னர் கைது செய்யப்பட்ட நபரை வவுனியா நீதவான் நீதிமன்றில் ஆயர் படுத்துவதற்குரிய நடவடிக்கையினை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/6dd6a4ee.json)
+
+---
+
 ### Japan provides $ 3 m through FAO to strengthen inland fisheries, rural livelihoods
 
 *2024-04-26 01:22:15* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-3-m-through-FAO-to-strengthen-inland-fisheries-rural-livelihoods/56-761051) · `en`
@@ -232,19 +268,27 @@ Meanwhile, Minister Ali Sabri is expected to hold bilateral meetings with the to
 
 ---
 
-### தமிழர்கள் வாழக்கூடாதா: ஸ்ரீதரன் கேள்வி
+### Tamils should not live: Sridharan question
 
 *2024-04-26 01:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-வாழக்கூடாதா-ஸ்ரீதரன்-கேள்வி/175-336357) · `ta`
 
-இந்த நாட்டில் தமிழர்கள் இருக்கக்கூடாது அல்லது வாழக்கூடாது  என அரசு நினைக்கின்றதா?என கேள்வியெழுப்பிய தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான எஸ்.ஸ்ரீதரன் யுத்தம் முடிந்து 15 ஆண்டுகள் நிறைவுறுவதாக சொல்லப்படுகின்ற நிலையில் கூட தமிழர்கள் சுதந்திரமாக வாழ முடியாதுள்ளது என்று சுட்டிக்காட்டினார்.
+S. Sreedharan argued Tamils can't live independently post-war. Selvanayagam Anandavarman, a former militant, was arrested in Colombo, falsely accused of terrorism. He's been imprisoned for eight years. The government's actions threaten ex-combatants and activists.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) இடம்பற்ற 2019 உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை 2 ஆம் நாள்   விவாதத்தில் உரையாற்றுகையிலேயே இவ்வாறு கேள்வி எழுப்பினார்.
+🟩
 
-வவுனியா தோணிக்கல்லை சேர்ந்த முன்னாள் போராளியும் சமூக செயற்பாட்டாளருமான செல்வநாயகம் ஆனந்தவர்மன் என்கின்ற அரவிந்தன் கடந்த 2024 -03-26 ஆம் திகதியன்று பயங்கரவாத் குற்றத்தடுப்பு மற்றும் விசாரணை பிரிவினரால் கொழும்பில் வைத்து கைது செய்யப்பட்டு தற்போது வெலிக்கடை சிறையில் தடுத்து வைக்கப்பட்டுள்ளார்.
+Does the government think that Tamils should not live in this country?. S. Sreedharan pointed out that the Tamils could not live independently even as they were said to have completed 15 years after the end of the war.
+
+He was speaking at a debate on the 2nd day of the 2019 Livelihood Sunday bombing, which was held in Parliament on Thursday (25).
+
+Selvanayagam Anandavarman, a former militant and social activist from Vavuniya, was arrested in Colombo by the Terrorist Crime and Investigation Unit on 2024-03-26.
+
+He has been the leader of the Vavuniya District of the Welfare Association of the Welfare Association of the Militants, who have been fought by the Divisional Donors, who have been imprisoned as a Tamil political prisoner for eight years from 2009 to 2017.
 
 ...
 
 [Data](articles/561fc1b3.json)
+
+[Extended Data](ext_articles/561fc1b3.ext.json)
 
 ---
 
@@ -272,17 +316,27 @@ Treasury is facing a serious challenge in managing the liquidity this year.The r
 
 ---
 
-### வவுணதீவு விசாரணைகள் திசை திருப்பப்பட்டன
+### Vavuniya Investigations were distracted
 
 *2024-04-26 01:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுணதீவு-விசாரணைகள்-திசை-திருப்பப்பட்டன/175-336356) · `ta`
 
-வவுணதீவில் பொலிஸ் உத்தியோகத்தர்கள் இருவர் சஹ்ரான் தரப்பினரால் கொல்லப்பட்ட போது அதன் விசாரணைகள் ஏன் வேறு பக்கத்திற்கு திருப்பப்பட்டன?எனக்கேள்வி எழுப்பிய மக்கள் விடுதலை முன்னணியின் (ஜே .வி.பி.)தலைவரும்,எம்.பி.யுமான அநுரகுமார திஸாநாயக்க தாக்குதல்தாரிகளும் தாக்குதலை தடுக்கத் தவறியதாக கூறப்படும் தரப்பினரும் கூட்டாக இணைந்து உயிர்த்த ஞாயிறு தாக்குதலை நடத்தினரா என்ற சந்தேகங்கள் உள்ளதாகவும் கூறினார்.
+Vavuniya Investigations shifted focus due to doubts about the Sahran side's involvement in the police officers' deaths. The investigation's shift was discussed in a House of Representatives debate on the Sunday attack. The case has been under scrutiny for 9 days, with a documentary and book released. Post-2015, Rajapaksas targeted Muslim and Islamic fundamentalism, affecting Sinhalese.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை நடைபெற்ற உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பான சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்த அவர் மேலும்  பேசுகையில்,
+🟩
 
-...
+When two police officers in Vavuniya were killed by the Sahran side, why were its investigations turned to the other side?He also said that there are doubts.
+
+He further stated that he was speaking at the second day debate of the House of Representatives on Thursday's life -threatening Sunday attack in Parliament on Thursday.
+
+There have been a number of suspicious things about the survival Sunday attack for the past 5 years. The life -long Sunday bombshell is discussed. The case has been discussed for 9 consecutive days during the attack. However, the Channel -04 documentary has been released, with the Pillaiyan book published.
+
+After the regime change in 2015, the political activities of the Rajapaksas focused on Muslim fundamentalism, Islamic fundamentalism and the threat to the Sinhalese.
+
+◼️
 
 [Data](articles/803194e4.json)
+
+[Extended Data](ext_articles/803194e4.ext.json)
 
 ---
 
@@ -2129,45 +2183,5 @@ Cardinal Ranjith made the following allegations at a recent media briefing again
 [Data](articles/6452250a.json)
 
 [Extended Data](ext_articles/6452250a.ext.json)
-
----
-
-### Foreign Minister to attend special meeting of World Economic Forum in Riyadh
-
-*2024-04-25 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98840/foreign-minister-to-attend-special-meeting-of-world-economic-forum-in-riyadh) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry is scheduled to leave for Riyadh, Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development which will be held in Riyadh, Saudi Arabia from 28-29 April 2024.
-
-Convened by the World Economic Forum, the Special Meeting in Riyadh is expected to bring together leaders from diverse sectors and industries to inspire a comprehensive dialogue on the most urgent and complex issues of the day.
-
-During the visit, Foreign Minister Ali Sabry will join as a panelist in two Sessions, namely “Building the Urban Future” and “North to South, East to West: Rebuilding Trust”, the Ministry of Foreign Affairs said.
-
-On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including Saudi Arabia, the host country. The Minister will also meet the Sri Lankan community in Riyadh and visit the Sri Lankan International School in Riyadh.
-
-◼️
-
-[Data](articles/2a4d89dd.json)
-
-[Extended Data](ext_articles/2a4d89dd.ext.json)
-
----
-
-### Sannasgala arrested
-
-*2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගල-අත්අඩංගුවට/11-409264) · `si`
-
-Sannasgala, a YouTube Program Designer, arrested by Upul Shantha Police on suspicion of financial fraud.
-
-🟩
-
-The Popular YouTube Program Design has been arrested by the Upul Shantha Police, a tuition teacher.
-
-According to a complaint lodged with a complaint with a financial fraud, he was arrested on suspicion.
-
-◼️
-
-[Data](articles/72c0edb5.json)
-
-[Extended Data](ext_articles/72c0edb5.ext.json)
 
 ---

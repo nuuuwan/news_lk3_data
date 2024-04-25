@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 23:03:29**
+As of **2024-04-25 23:18:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,990 (100.0%) of 20,994 articles have been extended.
+20,994 (100.0%) of 20,994 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ He said that an unforeseen racing incident which had happened within the track l
 
 [Data](articles/550c5d35.json)
 
+[Extended Data](ext_articles/550c5d35.ext.json)
+
 ---
 
 ### Japan provides $3M through FAO to strengthen inland fisheries in Sri Lanka
@@ -60,23 +62,27 @@ The US$ 3 million initiative will bolster food and nutritional security and fort
 
 [Data](articles/99799508.json)
 
+[Extended Data](ext_articles/99799508.ext.json)
+
 ---
 
-### ස්ථීර පත්වීම් ලබාදීම ගැන රජයෙන් අලුත් තීරණයක්
+### The government is a new decision to issue permanent appointments
 
 *2024-04-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195973) · `si`
 
-පළාත් පාලන ආයතනවල සිටින සේවකයින් සඳහා ස්ථීර පත්වීම් ලබාදීම සඳහා රජයේ අවධානය යොමුව තිබේ.
+The government is focusing on providing permanent appointments for employees in local government bodies.
 
-පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා මේ බව පැවසීය.
+He was speaking at the Minister of Provincial Councils, Local Government and Environment.
 
-ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරු අතර අද පස්වරුවේ පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා මේ බව පැවසීය.
+He was speaking to the media after a discussion between President Ranil Wickremesinghe and the government MPs at the Presidential Secretariat this afternoon.
 
-ඒ අනුව පළාත් පාලන ආයතනවල සිටින 8400ක පමණ වූ සේවකයින් ප්‍රමාණය සඳහා කඩිනමින් ස්ථිර පත්වීම් ලබාදීමට එහිදී අවධානය යොමුවූ බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+Accordingly, the attention of approximately 8400 employees in local government bodies, there were immediate appointments.
 
 ◼️
 
 [Data](articles/01604a0d.json)
+
+[Extended Data](ext_articles/01604a0d.ext.json)
 
 ---
 
@@ -115,6 +121,8 @@ Consumers can now find milk powder available in the market at a wide range of co
 ...
 
 [Data](articles/305438d5.json)
+
+[Extended Data](ext_articles/305438d5.ext.json)
 
 ---
 

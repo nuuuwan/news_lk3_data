@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 15:18:30**
+As of **2024-04-25 15:34:04**
 
 ## Newspaper Stats
 
-*Scraped **20,906** Articles*
+*Scraped **20,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
 adalk | 1,745
-tamilmirrorlk | 2,417
+tamilmirrorlk | 2,420
 adaderanalk | 2,487
 virakesarilk | 3,149
 dailymirrorlk | 3,254
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,905 (100.0%) of 20,906 articles have been extended.
+20,906 (100.0%) of 20,909 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Accordingly, the letter of demand seeks Rs. 1,000 million in damages or compensa
 ◼️
 
 [Data](articles/6d709775.json)
+
+[Extended Data](ext_articles/6d709775.ext.json)
 
 ---
 
@@ -568,6 +570,22 @@ International relations department leaders of the Chinese Communist Party have s
 
 ---
 
+### சஜிதை சந்தித்த  சீனக் கம்யூனிஸ்ட் கட்சி
+
+*2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜிதை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
+
+சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேச உறவுகள் திணைக்களத்தின் உயர்மட்ட பிரதிநிதிகள் குழுவினர்,  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியின் பிரதிநிதிகளை கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து  புதன்கிழமை (24) பிற்கபல் சந்தித்து கலந்துரையாடியுள்ளனர் .
+
+இரு தரப்பினருக்கும் இடையிலான இந்த விசேட சந்திப்பு ஒரு மணி நேரம் இடம்பெற்றுள்ளது . அதனை தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச விவகாரங்களுக்கான துணை அமைச்சர்  சன் ஹையன் இடையில் 45 நிமிட நேருக்கு நேர் பிரத்தியக சந்திப்பும் இடம்பெற்றுள்ளது .
+
+பொருளாதாரம், வர்த்தக, அரசியல் உறவுகள் என பல துறைகள் குறித்து இங்கு விரிவாக கலந்துரையாடப்பட்டுள்ளதுடன் ,இலங்கைக்கும் சீனாவுக்கும் இடையில் வர்த்தக உறவுகளை ஏற்படுத்துவது தொடர்பில் இரு தரப்புக்கும் இடையில் கருத்துக்கள் பரிமாறப்பட்டுள்ளது .
+
+...
+
+[Data](articles/8d5ba211.json)
+
+---
+
 ### Provide milk tea for 80 rupees
 
 *2024-04-25 12:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-ரூபாய்க்கு-பால்-தேநீர்-வழங்கவும்/175-336313) · `ta`
@@ -796,6 +814,24 @@ Thousands of students in many universities, from Massachoods to California, are 
 
 ---
 
+### அரிசியை அரிசியுடன் கலக்க வேண்டாம்
+
+*2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
+
+பாடசாலைகளுக்கு விநியோகிக்கப்பட்டு வருகின்ற, குழந்தைகளின் பாவனைக்கு ஏற்றதல்ல என கூறப்படும் அரிசி உலக உணவுத் திட்டத்தினால் (WFP) வழங்கப்பட்டதே தவிர அரசாங்கத்தினால் வழங்கப்படவில்லை என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த இன்று உறுதியளித்துள்ளார்.
+
+இன்று பாராளுமன்றத்தில் உரையாற்றிய அவர், அரசாங்க வேலைத்திட்டத்திற்கு ஆதரவாக WFP இனால் அந்த அரிசி பொதிகள் கூடுதலாக வழங்கப்பட்டதாக தெரிவித்தார்.
+
+அரசு நிதியில் விநியோகிக்கப்படும் உணவு குழந்தைகள் சாப்பிடுவதற்கு ஏற்றது என்பதை அரசு உறுதி செய்கிறது. சுகாதார சேவைகள் பணிப்பாளர் நாயகத்தின் ஊடாக மாகாண கல்வி நிலையங்களுக்கு அரிசி கையிருப்பு வழங்கப்பட்ட பின்னரும், மாகாண பொது சுகாதார பரிசோதகர்களின் (PHIs) உதவியுடன் வழக்கமான தர சோதனைகளுக்கு அவர்கள் ஆலோசனை வழங்குவதாக அமைச்சர் பிரேமஜயந்த தெரிவித்தார்.
+
+அரசு பல்வேறு வளங்களிலிருந்து வரும் கூடுதல் நிதியின் மூலம் ஒவ்வொரு குழந்தைக்கும்  ரூ. 110 ஒதுக்கியுள்ளது . இதன் விளைவாக, WFP திட்டத்தின் மூலம் வழங்கப்படும் அரிசியுடன் அரசாங்கத்தின் நிதியுதவியில் உள்ள அரிசியை கலக்க வேண்டாம் என்று அமைச்சர் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/73f12ccb.json)
+
+---
+
 ### Do not mix WFP rice with government rice
 
 *2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WFP-அரிசியை-அரசாங்க-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
@@ -869,6 +905,20 @@ The president will contest the election on the symbol of the coalition that come
 [Data](articles/16b8296c.json)
 
 [Extended Data](ext_articles/16b8296c.ext.json)
+
+---
+
+### பெரும் கூட்டணியை உருவாக்க  சந்திப்பு
+
+*2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-சந்திப்பு/175-336310) · `ta`
+
+பரந்த அரசியல் கூட்டணியை உருவாக்குவதற்கான அதன் முதல் நடவடிக்கையாக, ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ஷ மற்றும் ஏனைய கட்சிகள் மற்றும் குழுக்களின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியதுடன் மே தினத்திற்கு பின்னர் ஜனாதிபதி தேர்தலை கருத்தில் கொண்டு அரசியல் பணிகளை துரிதப்படுத்த தீர்மானித்துள்ளார்.
+
+கூட்டத்தில் மகஜன எக்சத் பெரமுனவை பிரதிநிதித்துவப்படுத்தி பிரதமர் தினேஷ் குணவர்தன கலந்துகொண்டார். மேலும், அமைச்சர்களான பிரசன்ன ரணதுங்க, டிரான் அலஸ், ஹரின் பெர்னாண்டோ, காஞ்சன விஜேசேகர, பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே மற்றும் அனுர பிரியதர்ஷன யாப்பா ஆகியோர் செவ்வாய்க்கிழமை மாலை இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டனர். ஐக்கிய தேசியக் கட்சியை (UNP) பிரதிநிதித்துவப்படுத்தி ஜனாதிபதியின் பிரதானி சாகல ரத்நாயக்கவும் கலந்து கொண்டார்.
+
+...
+
+[Data](articles/b1ec37bb.json)
 
 ---
 
@@ -2185,57 +2235,5 @@ Brandix Group Managing Director Hasitha Premaratne received the award from Presi
 [Data](articles/32144c5a.json)
 
 [Extended Data](ext_articles/32144c5a.ext.json)
-
----
-
-### Chamber of Marine Industries of Sri Lanka signs MoU with Singapore Boating Industry Association
-
-*2024-04-25 05:02:00* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-of-Sri-Lanka-signs-MoU-with-Singapore-Boating-Industry-Association/34-760998) · `en`
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) signed a Memorandum of Understanding (MOU) with the Singapore Boating Industry Association (SBIA) on 22 April 2024, with a view to working together to promote the boating and yachting industries.
-
-The initial negotiations between the two associations were facilitated by the High Commission of Sri Lanka in Singapore.
-
-The signing was done by Marine Industries Chamber of Sri Lanka Chairman and Sri Lanka Singapore Business Council Vice President Indhra Kaushal Rajapaksa and the Singapore Boating Industry Association Chairman Y.P. Loke, in the presence of High Commissioner of Sri Lanka to Singapore Senarath Dissanayake, One 15 Marina Chairman Arthur Tay, International Council of Marine Industry (ICOMIA) President Darren Vaux and, Minister (Commercial) of the High Commission of Sri Lanka Yasantha Yaddehi.
-
-...
-
-[Data](articles/5a9896a9.json)
-
-[Extended Data](ext_articles/5a9896a9.ext.json)
-
----
-
-### Nawaloka Hospitals wins Merit award at Best Management Practices Company Awards 2024
-
-*2024-04-25 05:00:49* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospitals-wins-Merit-award-at-Best-Management-Practices-Company-Awards-2024/34-760997) · `en`
-
-Sri Lanka’s foremost private healthcare provider, Nawaloka Hospitals PLC, took home a Merit award at the distinguished Best Management Practices Company Awards ceremony held on 13 March 2024, at the Cinnamon Grand, Colombo.
-
-The Best Management Practices Company Awards, organised annually by the Institute of Chartered Professional Managers of Sri Lanka (CPM Sri Lanka), celebrate excellence in organisational growth and success within both the public and private sectors. These awards highlight exemplary leadership, policies, strategies, people management, partnerships, resources, processes, and performances demonstrated by companies throughout 2023.
-
-...
-
-[Data](articles/9cac0868.json)
-
-[Extended Data](ext_articles/9cac0868.ext.json)
-
----
-
-### Omega Line honoured as ‘Most Outstanding Exporter – Merchandise’ at the 45th Anniversary of BOI Sri Lanka
-
-*2024-04-25 05:00:33* · [`dailyftlk`](https://www.ft.lk/business/Omega-Line-honoured-as-Most-Outstanding-Exporter-Merchandise-at-the-45th-Anniversary-of-BOI-Sri-Lanka/34-760996) · `en`
-
-Omega Line – Vavuniya Apparels Director – Quality Assurance and General Manager Paola Fava, receiving the award from President Ranil Wickremesinghe
-
-The Board of Investment (BOI) of Sri Lanka recently commemorated its 45th Anniversary with an inaugural awards ceremony on 2 April, recognising companies with exemplary contributions to the nation’s economic landscape. Among the distinguished recipients, Omega Line Limited was honoured as “Most Outstanding Exporter – Merchandise.”
-
-Omega Line CEO/Managing Director Felix A. Fernando, and Paola Fava, Omega Line – Vavuniya Apparels Director – Quality Assurance and General Manager Paola Fava, graciously accepted the prestigious award from President Ranil Wickremesinghe. The recognition by BOI underscores Omega Line’s significance as one of the leading apparel exporters in the country.
-
-...
-
-[Data](articles/f9e7fcd1.json)
-
-[Extended Data](ext_articles/f9e7fcd1.ext.json)
 
 ---

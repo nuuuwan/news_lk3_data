@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 19:18:27**
+As of **2024-04-25 19:34:37**
 
 ## Newspaper Stats
 
-*Scraped **20,957** Articles*
+*Scraped **20,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,41 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
-economynextcom | 1,187
+economynextcom | 1,193
 adalk | 1,752
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
 virakesarilk | 3,157
-dailymirrorlk | 3,264
+dailymirrorlk | 3,265
 adaderanasinhalalk | 3,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,953 (100.0%) of 20,957 articles have been extended.
+20,957 (100.0%) of 20,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Sri Lanka travel trade promised private visa levies would be lifted from May
+
+*2024-04-25 19:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-travel-trade-promised-private-visa-levies-would-be-lifted-from-may-160063/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Tourism Minister Harin Fernando had given an assurance that steep surcharges and levies on visa fees that were imposed with a shift to a private company would be reversed from May 01, a top travel official said.
+
+Sri Lanka’s 50 dollar visa fee went up to 75 dollars and another 18.5 dollar fee and an apparently hidden ‘convenience fee’ of 5 dollars or more were also hit on prospective travellers after a shift of the island’s acclaimed ETA system to a private company.
+
+“We have now been assured by the Hon Minister of Tourism that the process will be reversed by 1st May 2024,” President of the Sri Lanka Association of Inbound Tour Operators (SLAITO) Nishad Wijethunga said.
+
+SAARC Visa fees went up as much as 58.55 US dollars from 35 after the electronic travel authorization was outsourced to a private company called VFS Global.
+
+...
+
+[Data](articles/f4ed101f.json)
+
+---
 
 ### Heat advisory issued for several provinces and districts
 
@@ -48,19 +66,27 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 [Data](articles/2f292b72.json)
 
+[Extended Data](ext_articles/2f292b72.ext.json)
+
 ---
 
-### துமிந்தவுக்கு புதிய பதவி
+### New post for Duminda
 
 *2024-04-25 18:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவுக்கு-புதிய-பதவி/175-336340) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளராக துமிந்த திஸாநாயக்க நியமிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Duminda Dissanayake appointed General Secretary of Sri Lanka Freedom Party (SLFP) at a meeting chaired by Minister Nimal Siripala de Silva in Colombo.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அரசியல் குழு கூட்டம் அமைச்சர் நிமல் சிறிபால டி சில்வா தலைமையில் இன்று (25)  பிற்பகல் கொழும்பில் இடம்பெற்றது.
+🟩
+
+It is reported that Duminda Dissanayake has been appointed as the General Secretary of the Sri Lanka Freedom Party.
+
+The Sri Lanka Freedom Party (SLFP) political committee meeting was held in Colombo this afternoon chaired by Minister Nimal Siripala de Silva.
 
 ◼️
 
 [Data](articles/04edbfb6.json)
+
+[Extended Data](ext_articles/04edbfb6.ext.json)
 
 ---
 
@@ -74,6 +100,20 @@ The passing out parade of a team of 100 police personnel who underwent special t
 
 [Data](articles/3a32da2c.json)
 
+[Extended Data](ext_articles/3a32da2c.ext.json)
+
+---
+
+### Police launch motorcycle squadron against underworld
+
+*2024-04-25 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Police-launch-motorcycle-squadron-against-underworld/110-281369) · `en`
+
+The passing out parade of a team of 100 police personnel who underwent special training at the Katukurunda STF camp to go after criminals operating in the Western and Southern Provinces was held with the participation of Public Security Minister Tiran Alles,  IGP Deshabandu Tennakoon, STF Commandant Senior DIG Waruna Jayasundara and the Western Province Senior DIG.
+
+◼️
+
+[Data](articles/bf70eb86.json)
+
 ---
 
 ### Duminda Dissanayake appointed SLFP’s Acting General Secretary
@@ -83,6 +123,12 @@ The passing out parade of a team of 100 police personnel who underwent special t
 The Sri Lanka Freedom Party’s (SLFP) faction led by Minister Nimal Siripala de Silva has appointed MP Duminda Dissanayake as the party’s Acting General Secretary.
 
 He was appointed during the politburo meeting convened by the faction backing Minister Nimal Siripala de Silva this evening (25).
+
+On Wednesday (24), the Colombo District Court issued an injunction preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP and implementation of the decisions taken by him as the SLFP Acting General Secretary.
+
+It was mentioned in the order that these injunctions will remain in effect until May 08, 2024.
+
+These injunctions were issued after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
 
 ◼️
 
@@ -118,7 +164,7 @@ The Sri Lanka Freedom Party (SLFP) Politburo also met with party acting chairman
 
 *2024-04-25 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-be-afraid-to-use-weapons-Minister-Alles-tells-police/108-281368) · `en`
 
-Colombo, April 25 (Daily Mirror) - Public Security Minister Tiran Alles told the police yesterday that eliminating criminals from the country is not a sin and not to be afraid to use weapons.
+Colombo, April 25 (Daily Mirror) - Public Security Minister Tiran Alles told the police today that eliminating criminals from the country is not a sin and not to be afraid to use weapons.
 
 He made these remarks while participating in the passing out parade at Katukurunda STF Training camp.
 
@@ -129,6 +175,8 @@ He made these remarks while participating in the passing out parade at Katukurun
 ...
 
 [Data](articles/9f9920e8.json)
+
+[Extended Data](ext_articles/9f9920e8.ext.json)
 
 ---
 
@@ -172,6 +220,26 @@ While the China-based sources say the investment, which Colombo pegged at $4.5 b
 
 ---
 
+### Sri Lanka planning to cut withholding tax on interest to help retirees: Minister
+
+*2024-04-25 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-cut-withholding-tax-on-interest-to-help-retirees-minister-160056/) · `en`
+
+ECONOMYNEXT – Sri Lanka is planning to lift withholding tax on interest income below 100,000 a month to help older citizens who depend on interest income as interest rates fall, State Minister for Finance Ranjith Siyambalapitiya said.
+
+With deposit rates falling to around 9 percent from an earlier 16 percent, elderly persons who depend on interest get less income, Minister Siyambalapitiya said.
+
+“We are now planning to put in place a mechanism to lift withholding tax from retirees who earn interest below 1,000 rupees a month,” he said in statement.
+
+It is likely to cost up to 40 billion rupees to pay interest subsidies to banks to give senior citizens interest of 16 percent when market rates fall.
+
+The government still owed banks interest subsidies on previous years senior citizen interest subsidies, Siyambalapitiya told opposition leader Sajith Premadasa in parliament Thursday.
+
+...
+
+[Data](articles/7d93516e.json)
+
+---
+
 ### Ali Sabry to leave for Riyadh to attend World Economic Forum
 
 *2024-04-25 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-to-leave-for-Riyadh-to-attend-World-Economic-Forum/108-281366) · `en`
@@ -189,6 +257,28 @@ On the sidelines, the Foreign Minister is expected to have bilateral meetings wi
 [Data](articles/18b01d0a.json)
 
 [Extended Data](ext_articles/18b01d0a.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 296.85/297.00 to US dollar
+
+*2024-04-25 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-296-85-297-00-to-us-dollar-160059/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 296.85/297.00 to the US dollar on Thursday from 297.95/298.10 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 11.28/32 percent from 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed down at 11.70/80 percent from 11.90/95 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.95/12.05 percent.
+
+A bond maturing on 15.09.2029 closed lower at 12.20/40 percent from 12.30/40 percent.
+
+A bond maturing on 15.05.2030 closed at 12.30/55 percent from 12.35/60 percent. (Colombo/Apr24/2024)
+
+◼️
+
+[Data](articles/7976e62c.json)
 
 ---
 
@@ -365,6 +455,30 @@ Below are photos of the suspects by the Police Media Division,
 [Data](articles/6cbea96c.json)
 
 [Extended Data](ext_articles/6cbea96c.ext.json)
+
+---
+
+### Sri Lanka stocks close up, market gets bullish
+
+*2024-04-25 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-market-gets-bullish-160052/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 1.43 percent, or 170.26 points, at 12,075; while the S&P SL20 Index closed up 2.83 percent, or 98.77 points, at 3,593.
+
+“Market was extremely bullish today,” market participants said. “Banks were driving this bullishness, and all lost grounds were recovered.”
+
+Major positive contributors to the ASPI included Commercial Bank of Ceylon Plc which was up at 110.00, Hatton National Bank Plc up at 197.00, and Sampath Bank Plc up at 80.00.
+
+“There was a bit of consolidation after the run. Renewed buying interest also came into the bluechips and tourism related industries,” market participants said.
+
+John Keells Holdings Plc was up at 209.75, Hayleys Plc was up at 85.00, and Hemas Holdings Plc was up at 84.30.
+
+Distilleries Company of Sri Lanka Plc saw some buying interest and the share closed up at 27.90.
+
+...
+
+[Data](articles/d74c2eed.json)
 
 ---
 
@@ -1122,6 +1236,22 @@ Memorandum of Understanding (MoU) signed between Sri Lanka and Iran Cooperation.
 
 ---
 
+### SriLankan Engineering implements AMOS ERP
+
+*2024-04-25 13:51:00* · [`economynextcom`](https://economynext.com/srilankan-engineering-implements-amos-erp-160047/) · `en`
+
+ECONOMYEXT – State-run SriLankan said its engineering units has implemented AMOS, an aviation maintenance management system at its engineering division.
+
+By automating the monitoring and coordination of aircraft maintenance with AMOS, the airline said it will be able to boost engineering productivity, reduce costs and maintain quality and consistency in its Maintenance, Repair, and Overhaul (MRO) operations.
+
+“The integration took several months to complete given the complexities of transitioning data from our legacy system to the advanced AMOS platform. With this transition, we anticipate modernizing our operations, achieving greater efficiency, and ensuring that we maintain our aircraft and safety standards to the highest degree,” Head of Engineering at SriLankan Airlines, Arjuna Kapugeekiyana said.
+
+...
+
+[Data](articles/1b8a9e3c.json)
+
+---
+
 ### In 2023, alcohol producers have 1.1 billion to the government
 
 *2024-04-25 13:48:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-මත්පැන්-නිශ්පාදකයන්--රජයට-බිලියන-1-1ක-පොල්ලක්-තියයි/11-409259) · `si`
@@ -1185,6 +1315,24 @@ He was arrested by the police regarding the investigations carried out regarding
 [Data](articles/ea389bb2.json)
 
 [Extended Data](ext_articles/ea389bb2.ext.json)
+
+---
+
+### Japan grants US$3mn for inland cage aquaculture, hatcheries in Sri Lanka
+
+*2024-04-25 13:37:00* · [`economynextcom`](https://economynext.com/japan-grants-us3mn-for-inland-cage-aquaculture-hatcheries-in-sri-lanka-160037/) · `en`
+
+ECONOMYNEXT – Japan has given a 3 million dollar grant through the Food and Agriculture Organization of the United Nations (FAO), to boost inland fisheries and aquaculture in Sri Lanka as the country recovers from a currency crisis.
+
+The funds will establish four community-operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts.
+
+The money will also upgrade four NAQDA Aquaculture Development Centres and one community-operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
+
+“Recent financial challenges have left the fisheries sector deprived of necessary resources, exacerbating hardships among inland fishing communities and rural populations. This project is a pivotal step towards revitalizing the sector,” Douglas Devananda, Minister of Fisheries said.
+
+...
+
+[Data](articles/8e8e0f87.json)
 
 ---
 
@@ -2105,163 +2253,5 @@ Meanwhile Rs. Prices of "24 carrots" gold pound in 190,000. According to Rattota
 [Data](articles/71068132.json)
 
 [Extended Data](ext_articles/71068132.ext.json)
-
----
-
-### Electricity Reforms Bill presented to Parliament
-
-*2024-04-25 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Reforms-Bill-presented-to-Parliament/108-281335) · `en`
-
-Colombo, April 25 (Daily Mirror) - The Sri Lanka Electricity Bill, which includes proposed electricity sector reforms was presented to Parliament by Power and Energy Minister Kanchana Wijesekara a short while ago.
-
-The Bill provides for greater participation of the private sector in the power sector.
-
-Minister Wijesekera assured that he is willing to discuss the Bill with all MPs in Parliament.
-
-◼️
-
-[Data](articles/45940318.json)
-
-[Extended Data](ext_articles/45940318.ext.json)
-
----
-
-### Special motorcycle force from the Special Task Force to suppress the underworld
-
-*2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/picture_story/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/10-409253) · `si`
-
-The Special Task Force (STF) trained a special motorcycle force in Kalutara, led by Public Defense Minister Tiran Alles. Trainees received certificates and a logo, assigned to the Colombo Crimes Division. Key officials, including the IGP and Senior DIGs, were present.
-
-🟩
-
-The First Task Form Functional Task Force Task Force (STF) was chaired by the Public Defense Minister Tiran Alles at the Special Task Force Training School in Kalutara today (25).
-
-The trainees were dispersed and the certificates and a special logo were dispersed.
-
-These motorists are attached to the Colombo Crimes Division in an assigned to the Colombo Crimes Division.
-
-Inspector General of Police (IGP), Senior DIG of Western Province, Senior DIG Task Force in charge of the Western Province.Were there.
-
-◼️
-
-[Data](articles/83945a9c.json)
-
-[Extended Data](ext_articles/83945a9c.ext.json)
-
----
-
-### Special motorcycle force from the Special Task Force to suppress the underworld
-
-*2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/uncategorized/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/1-409253) · `si`
-
-The Special Task Force (STF) trained a special motorcycle force in Kalutara, led by Public Defense Minister Tiran Alles. Trainees received certificates and a special logo. The force is part of the Colombo Crimes Division, with representatives from the Inspector General of Police and the Western Province's Senior DIGs present.
-
-🟩
-
-The First Task Form Functional Task Force Task Force (STF) was chaired by the Public Defense Minister Tiran Alles at the Special Task Force Training School in Kalutara today (25).
-
-The trainees were dispersed and the certificates and a special logo were dispersed.
-
-These motorists are attached to the Colombo Crimes Division in an assigned to the Colombo Crimes Division.
-
-Inspector General of Police (IGP), Senior DIG of Western Province, Senior DIG Task Force in charge of the Western Province.Were there.
-
-◼️
-
-[Data](articles/a6f7a5c6.json)
-
-[Extended Data](ext_articles/a6f7a5c6.ext.json)
-
----
-
-### Importers Association Explanation on the price of milk mango
-
-*2024-04-25 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181913) · `ta`
-
-The Importers Association hasn't decided on reducing milk flour prices yet. Asoka Bandara, spokesperson for the Paul Maa Importers Association, confirmed no official meeting has been held. In March, milk prices were reduced, affecting milk mango prices in the local market. The importation of milk from New Zealand was re-priced from Rs 250 to Rs 150 for a kilogram and from Rs 100 to Rs 60 for 400 grams, but the Milk Maa Importers Association denied involvement in the report.
-
-🟩
-
-The Importers Association has said that the final decision has not yet been made regarding the reduction of the prices of imported milk flour.
-
-Asoka Bandara, media spokesman for the Paul Maa Importers Association, said that the official meeting has not been held yet.
-
-In March, the importers reduced the price of a kilogram of milk at Rs 150 and 400 grams of milk at 60 rupees.
-
-Following the reduction in prices, imported milk mangoes are sold at various prices in the local market.
-
-In this case, the importation of milk from New Zealand to re -prices from Thursday (25) from Thursday (24) said on Wednesday.
-
-Accordingly, the price of a kilogram of milk will be reduced by 250 rupees and 400 grams of milk will be reduced by 100 to 140 rupees.
-
-However, the Milk Maa Importers Association has urged them that it has nothing to do with the report.
-
-◼️
-
-[Data](articles/af8562ec.json)
-
-[Extended Data](ext_articles/af8562ec.ext.json)
-
----
-
-### New electricity bill aimed at industry reforms presented to parliament
-
-*2024-04-25 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98830/new-electricity-bill-aimed-at-industry-reforms-presented-to-parliament-) · `en`
-
-The ‘Sri Lanka Electricity Bill’, which incorporates the proposed reforms for the electricity sector, was presented to the parliament by Power & Energy Minister Kanchana Wijesekera on Thursday (25).
-
-The Bill seeks to provide for the establishment of the National Electricity Advisory Council and make the Public Utilities Commission of Sri Lanka (PUCSL) the regulator for the electricity industry in terms of the proposed legislation.
-
-Further, it seeks to provide legislative measures applicable to the incorporation of corporate entities, in which all activities connected to the generation, transmission, distribution, trade, supply and procurement of electricity are vested.
-
-In addition, the Bill also provides for the repealing of the Ceylon Electricity Board Act, No.17 of 1969 and the Sri Lanka Electricity Act, No.20 of 2009.
-
-Last week, Minister Wijesekera said that the amendments suggested by the industry stakeholders in January were also drafted in to the Bill.
-
-...
-
-[Data](articles/1ec4c300.json)
-
-[Extended Data](ext_articles/1ec4c300.ext.json)
-
----
-
-### Proposed Power and Power Bill in Parliament
-
-*2024-04-25 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195952) · `si`
-
-Sri Lanka's Power and Energy Minister Kanchana Wijesekera introduced a new Electricity Bill to Parliament, aiming to reform the power sector.
-
-🟩
-
-The proposed Sri Lanka Electricity Bill, Power and Energy Minister Kanchana Wijesekera presented the parliament shortly.
-
-The new bill has proposed several reforms of the power field under the new Bill.
-
-◼️
-
-[Data](articles/5597132c.json)
-
-[Extended Data](ext_articles/5597132c.ext.json)
-
----
-
-### Unsuitable rice for schools sourced by WFP, not government: Minister
-
-*2024-04-25 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unsuitable-rice-for-schools-sourced-by-WFP-not-government-Minister/108-281334) · `en`
-
-Colombo, April 25 (Daily Mirror) - The rice distributed among schools said to be unsuitable for children's co consumption was provided by the World Food Programme (WFP) and not by the government, Education Minister Susil Premajayantha assured today.
-
-Speaking in Parliament today, he said those packets of rice were provided additionaly by the WFP to support the government programme.
-
-The government ensures that food distributed with government funds is suitable for children's consumption. Even after stocks of rice are distributed to Provincial Education Centres through the Director General  of Health Services, they advise regular quality checks with the assistance of Provincial Public Health Inspectors (PHIs), Minister Premajayantha said.
-
-The government allocated Rs. 110 for each child, with additional funds coming from various sources. As a result, the Minister requested that the government-funded stocks of rice should not be mixed with those provided by the WFP programme.
-
-◼️
-
-[Data](articles/34975c5f.json)
-
-[Extended Data](ext_articles/34975c5f.ext.json)
 
 ---

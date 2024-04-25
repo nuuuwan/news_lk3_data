@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 18:19:05**
+As of **2024-04-25 18:34:16**
 
 ## Newspaper Stats
 
-*Scraped **20,940** Articles*
+*Scraped **20,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,750
+adalk | 1,751
 tamilmirrorlk | 2,423
 adaderanalk | 2,494
 virakesarilk | 3,149
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,940 (100.0%) of 20,940 articles have been extended.
+20,940 (100.0%) of 20,941 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -429,6 +429,22 @@ According to a complaint lodged with a complaint with a financial fraud, he was 
 [Data](articles/72c0edb5.json)
 
 [Extended Data](ext_articles/72c0edb5.ext.json)
+
+---
+
+### සන්නස්ගලට ඇප
+
+*2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගලට-ඇප/11-409264) · `si`
+
+රුපියල් ලක්ෂ 10ක මුදල් ගනුදෙනුවක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් උපුල් ශාන්ත සන්නස්ගල මහතා ඇප මත මුදා හැර තිබේ.
+
+ජනප්‍රිය YouTube වැඩසටහන් නිර්මාණ කරුවකුසේම මීට පෙර උපකාරක පන්ති ගුරුවරයකුව සිටි උපුල් ශාන්ත සන්නස්ගල පොලීිසිය විසින් අත්අඩංගුවට ගෙන තිබෙනවා.
+
+රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්දව සිදුකළ පැමිණිල්ලකට අනුව සිදුකල විමර්ශනවලට අදාළව සැකපිට ඔහු අත්අඩංගුවට ගෙන ඇතිබව වාර්තා වනවා.
+
+◼️
+
+[Data](articles/d4de2816.json)
 
 ---
 
@@ -2265,39 +2281,5 @@ According to the incident, the police said that they were arrested due to the le
 [Data](articles/397f1987.json)
 
 [Extended Data](ext_articles/397f1987.ext.json)
-
----
-
-### Why was Upul Shantha Sannasgala Suddenly arrested?
-
-*2024-04-25 09:24:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n2j5zyjvo) · `si`
-
-Upul Shantha Sannasgala, a teacher and writer, was arrested on Apr 25 for allegedly defrauding a businessman of Rs. 200,000. Despite receiving the money as a donation, the businessman accused him of not returning it. Sannasgala was released on a promise to pay within two weeks but was re-arrested on a new complaint. The case is now in court.
-
-🟩
-
-A teacher and a book teacher and Upul Shantha Sannasgala has been arrested this morning (Apr 25).
-
-The Kandana Police said that he was arrested on a complaint lodged by the businessman that the businessman had defrauded Rs.
-
-Upul Shantha Sannasgala said the businessman had lodged a complaint with the police that Rs.
-
-Even though it is said again, two years have passed, the businessman accuses him not to give it.
-
-However, Upul Shantha Sanvestgala had told the police that he received the money as a donation.
-
-When he was summoned to the police of Upul Shanthagala recently, he was released on the promise to pay the money within two weeks.
-
-However, the OIC of the Kandana Police stated that he was arrested on a complaint lodged by the businessman that Upul Shantha Sannasgala was not returning the money.
-
-The arrest of Upul Shantha Square is being produced before the Welisara Magistrate's Court today.
-
-The OIC stated that he will act on court orders after being produced before courts.
-
-...
-
-[Data](articles/7f1b4372.json)
-
-[Extended Data](ext_articles/7f1b4372.ext.json)
 
 ---

@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 06:57:33**
+As of **2024-04-25 07:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,799** Articles*
+*Scraped **20,806** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
 bbccomsinhala | 217
-dbsjeyarajcom | 223
+dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,124
-dailyftlk | 1,170
+dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,731
-tamilmirrorlk | 2,407
+tamilmirrorlk | 2,408
 adaderanalk | 2,474
 virakesarilk | 3,129
-dailymirrorlk | 3,243
-adaderanasinhalalk | 3,357
+dailymirrorlk | 3,244
+adaderanasinhalalk | 3,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,792 (100.0%) of 20,799 articles have been extended.
+20,795 (99.9%) of 20,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### සාපෙළ ගැන විශේෂ දැනුම්දීමක්
+
+*2024-04-25 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195944) · `si`
+
+මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන උපකාරක පංති, සම්මන්ත්‍රණ පැවැත්වීම ලබන 30 වැනිදා මධ්‍යම රාත්‍රී සිට අත්හිටුවන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව එදින මධ්‍යම රාත්‍රී 12.00 සිට උපකාරක පංති, සම්මන්ත්‍රණ, වැඩමුළු ආදී විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන කටයුතු අත්හිටවනු ඇති බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+එම නීති උල්ලංඝනය කරන පුද්ගලයින් සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 සිට 15 වන දින දක්වා පැවැත්විමට සැලසුම් කර තිබේ.
+
+මේ අතර පසුගියදා පැවති අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල මැයි මස අග නිකුත් කිරීමට කටයුතු කරන බව ද විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+
+2023 වසරේ පැවති සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණ කටයුතු ප්‍රමාද වීම හේතුවෙන් සිසුන්ට උසස් පෙළ පංති වෙත ඇතුළු වීමේ අවදානමක් පවතින බව පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා පවසයි.
+
+...
+
+[Data](articles/7610c1ad.json)
+
+---
+
+### SL to host global ISO review meeting for tea in July
+
+*2024-04-25 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-to-host-global-ISO-review-meeting-for-tea-in-July/108-281327) · `en`
+
+Sri Lanka is set to host the 34th plenary meeting of the International Standards Organization Technical Committee for tea on July 24.
+
+The global review meeting will be hosted under the leadership of the Tea Research Institute of Sri Lanka and the Sri Lanka Standards Institution, said Sri Lanka Tea Board Chairman Niraj de Mel.
+
+Representatives of more than 45 member countries are to attend the international review.
+
+According to Colombo Tea Traders Association Chairman Sanjaya Herath, discussions and evaluations on different international market parameters required by tea production globally are to be conducted at the meeting.
+
+This will include reviews on biochemical, physical, and biological standards expected to be followed by tea-producing countries.
+
+This meeting is the first physical meeting of the ISO Technical Committee since the COVID-19 pandemic in 2020.
+
+◼️
+
+[Data](articles/4f25df55.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට හවසට වැසි
+
+*2024-04-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195942) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම,වයඹ සහ දකුණු පළාත්වල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+ගාල්ල සිට මාතර සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/ba2c2909.json)
+
+---
 
 ### Imposing costs on business; disregarding ability to enforce
 
@@ -124,6 +186,20 @@ Little wonder then, as Prof Charitha Herath noted, that the SJB challenges the J
 
 ### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
 
+*2024-04-25 05:19:28* · [`dailyftlk`](https://www.ft.lk/columns/Austerity-dispossession-and-injustice-Facets-of-the-debt-crisis-in-Sri-Lanka/4-761004) · `en`
+
+The widespread and ongoing debt crisis today is a wakeup call
+
+Sri Lanka defaulted on its external debt for the first time in its postcolonial history in April 2022. The International Monetary Fund (IMF)-led process of recovery that followed has not only been disastrous in terms of the economic policy package proposed by the Government. The underlying analysis of the causes of the debt crisis itself is also flawed. Sri Lanka provides lessons about both the broken global financial system and the widespread consequences of an unjust debt resolution architecture affecting other countries in the Global South.
+
+...
+
+[Data](articles/178defff.json)
+
+---
+
+### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
+
 *2024-04-25 05:19:28* · [`dailyftlk`](https://www.ft.lk/opinion/Austerity-dispossession-and-injustice-Facets-of-the-debt-crisis-in-Sri-Lanka/14-761004) · `en`
 
 The widespread and ongoing debt crisis today is a wakeup call
@@ -133,6 +209,22 @@ Sri Lanka defaulted on its external debt for the first time in its postcolonial 
 ...
 
 [Data](articles/d894ff28.json)
+
+[Extended Data](ext_articles/d894ff28.ext.json)
+
+---
+
+### International Industry Expo 2024 in June
+
+*2024-04-25 05:13:27* · [`dailyftlk`](https://www.ft.lk/front-page/International-Industry-Expo-2024-in-June/44-761003) · `en`
+
+In anticipation of the upcoming industry exhibition, the “International Industry Expo 2024”, excitement is building as less than two months are left until the exciting event unfolds. Recognised as the largest South Asian industry exhibition of the year covering a wide range of industries, International Industry Expo 2024 is poised to bring together diverse participants from all over the country under one roof at the Bandaranaike Memorial International Conference Hall (BMICH) from 19 to 23 June 2024.
+
+With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibition offers a rich tapestry of experiences designed to inspire, educate, and facilitate vibrant displays of cutting-edge technology, interactive demos, and meaningful connections directly with manufacturers.
+
+...
+
+[Data](articles/8c5e31bd.json)
 
 ---
 
@@ -430,6 +522,24 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
+### ஐ.ம. சக்தியால் தேசிய மக்கள் சக்திக்கு கடிதம்
+
+*2024-04-25 00:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியால்-தேசிய-மக்கள்-சக்திக்கு-கடிதம்/175-336302) · `ta`
+
+தலைவர்கள், பொருளாதார குழுக்களுக்கு இடையிலான விவாதத்திற்கான திகதியை ஒதுக்குவதற்காக இன்று  அல்லது நாளை பாராளுமன்றத்திற்கு வருகை தருமாறு ஐக்கிய மக்கள் சக்தி, தேசிய மக்கள் சக்திக்கு அறிவித்துள்ளது.
+
+ஐக்கிய மக்கள் சக்தியின் நிறைவேற்றுக்குழு உறுப்பினரான நலீன் பண்டார, தேசிய மக்கள் சக்தியின் நிறைவேற்றுக்குழு உறுப்பினர் நலிந்த ஜயதிஸ்ஸவிற்கு கடிதமொன்றை அனுப்பி இதனை தெரிவித்துள்ளார்.
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  மற்றும் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க ஆகியோருக்கு இடையிலும் 2 கட்சிகளின் பொருளாதார குழுக்களுக்கு இடையிலும் இடம்பெறவுள்ள விவாதத்திற்கான திகதியை ஒதுக்குவதற்காக இன்று  அல்லது நாளை பாராளுமன்றத்திற்கு வருகை தருமாறு அந்த கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது.
+
+கடந்த 9ஆம் திகதி தன்னால் அனுப்பப்பட்ட கடிதத்தில் முதலில் பொருளாதார குழுக்களுக்கு இடையிலும் அதன்பின்னரே தலைவர்களுக்கு இடையிலும் விவாதத்தை நடத்துவதற்கு யோசனை முன்வைக்கப்பட்டிருந்ததாக கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b763e0bc.json)
+
+---
+
 ### Tamilnadu Administrative Choosing case postponed
 
 *2024-04-25 00:29:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-நிர்வாகத்-தெரிவு-வழக்கு-ஒத்திவைப்பு/175-336301) · `ta`
@@ -700,6 +810,8 @@ I would say maintaining a perfect physique, although being a mom of two kids, as
 
 [Data](articles/58de8bd5.json)
 
+[Extended Data](ext_articles/58de8bd5.ext.json)
+
 ---
 
 ### Remedies to reduce heat pimples
@@ -719,6 +831,8 @@ Apply honey on the heat pimples directly and let it dry. Leave it on for at leas
 ...
 
 [Data](articles/c969f337.json)
+
+[Extended Data](ext_articles/c969f337.ext.json)
 
 ---
 
@@ -1586,6 +1700,22 @@ Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a spec
 
 ---
 
+### Iranian President  Ebrahim Raisi Arrives in Sri Lanka  to Inaugurate Iran -funded Irrigation and Power Project amid Media Reports of “Western Pressure” on Colombo; Lankan President Wickremesinghe  Thanks his Counterpart and says “Global South must Strive for Strength and Autonomy”.
+
+*2024-04-24 18:06:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83939) · `en`
+
+The Global South must strive for their strength and autonomy, Sri Lankan President Ranil Wickremesinghe said on Wednesday, even as he thanked his Iranian counterpart Ebrahim Raisi, who inaugurated a key power and irrigation project in the island nation.
+
+Expressing “gratitude to Iran for their technical support”, Mr. Wickremesinghe emphasised that without Iran’s assistance, Sri Lanka would not be able to execute the crucial $514 million irrigation project.
+
+Consequent to the project, around 6,000 hectares of agricultural land in three southern and central districts will receive water supply, his office said. Further, the project is expected to generate and add 120 MW to the national grid.
+
+...
+
+[Data](articles/5e2db065.json)
+
+---
+
 ### The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow where the state, and not the Islamists who blew up the innocents, stand accused.
 
 *2024-04-24 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83936) · `en`
@@ -2039,183 +2169,5 @@ Accordingly, the district judge, who gave the defendant until May 8 to file obje
 [Data](articles/30e5f822.json)
 
 [Extended Data](ext_articles/30e5f822.ext.json)
-
----
-
-### Foxhill Disaster: Bail for 2 drivers
-
-*2024-04-24 16:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/Foxhill-அனர்த்தம்-2-சாரதிகளுக்கு-பிணை/76-336288) · `ta`
-
-Foxhill Disaster: Two drivers released after Bandarawela Court Magistrate Antony S. Peter Fall ordered their release, following an interrogation over a car accident in Diyathalawa Nariyakanda. The accident occurred during the 18th Foxhill Motor and Motorcycle Tournament, organized by the Sri Lanka Motor Racing Association and the Faculty of Army Science, on April 21st, following the Easter attacks.
-
-🟩
-
-Bandarawela Court Magistrate Antony S. Peter Fall has ordered two competitors who were arrested and interrogated on suspicion over the car accident in Diyathalawa Nariyakanda
-
-Ranjith Uduu (36) from Matara Mathabara, Mathaparai, who competed under the Diyatalawa Nariyakanda Foxhil Motor Race, and AM Dilan Sanjeewa (47) from Peradeniya, Kandy, 196.
-
-The Foxhill Motor and Motorcycle Tournament, which was held on the 21st after the Easter attacks organized by the Sri Lanka Motor Racing Association and the Faculty of Army Science, was held on the Diyatalawa Naryakanda Motor Racing Road.
-
-The 18th event of the competition, the Ford/Laser Mazda engine -capable 1500 CC car section, crashed into two cars.
-
-◼️
-
-[Data](articles/99c4ac85.json)
-
-[Extended Data](ext_articles/99c4ac85.ext.json)
-
----
-
-### Colombo main road collapses
-
-*2024-04-24 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195933) · `si`
-
-Colombo's main road collapsed, damaging a lorry and a three-wheeler. A tree near Sangharaja Mawatha fell, injuring one person hospitalized.
-
-🟩
-
-A bunch of a breed of breeding tree near Sangharaja Mawatha near the collapse has been accidental.
-
-A branch in the Bodhi Viharaya of the Sri Sangaraja Bodhiralu Vihara has collapsed.
-
-A lorry and three-wheeler were damaged by the collapse of the breeding tree.
-
-One person who was injured in the accident has been hospitalized for treatment.
-
-◼️
-
-[Data](articles/f7197926.json)
-
-[Extended Data](ext_articles/f7197926.ext.json)
-
----
-
-### Canada Police Officer Nissan Duraiyappa meets Sri Lankan official accused of involvement in torture
-
-*2024-04-24 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181859) · `ta`
-
-Canada's Nissan Duraiyappa, Peel Regional Police Chief, met with Sri Lankan officials accused of torture. The incident has sparked controversy, with critics questioning Duraiyappa's actions and the lack of cooperation between Canadian and Sri Lankan police forces.
-
-🟩
-
-A Sri Lankan police chief has met the Sri Lankan police chief who has accused the arrested suspect of torture.
-
-Pictures published in Sri Lankan English newspapers, including Cellonude, have shown that Peel Peel Regional Police Chief Nissan Duraiyappa is in uniform on December 29, 2023 with Sri Lankan senior officials.
-
-The court ordered that one of the Sri Lankan law enforcement officers in the film should be compensated by the President of Sri Lanka, Deshabandan, the Thenkoon - one month ago.
-
-On December 14, 2023, the court said that the suspect was involved in the arrest of a suspect for allegedly crime, and on December 14, the man was detained in a torture hall.
-
-Tamil Guardian Asian Dusian Nandakumar said the meeting was the stain that fell on Canada's honor.
-
-He said that the parade of the nation that was responsible for the multi -faceted people is shocked when you see an honorable person like Duraiappa receiving the honor.
-
-...
-
-[Data](articles/5a693c01.json)
-
-[Extended Data](ext_articles/5a693c01.ext.json)
-
----
-
-### A new CT scanner for Karapitiya
-
-*2024-04-24 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195932) · `si`
-
-Karapitiya Teaching Hospital received a Rs. 220 million CT scanner from Japan, donated by Dr. Ramesh Pathirana, Minister of Health and Industry. It's expected to perform over 40 CT scans and will aid future inspections. The Health Ministry has allocated resources for development and medical equipment next year.
-
-🟩
-
-CT Scanner with a value of Rs. 220 million to the treatment of Rs.
-
-Dr. Ramesh Pathirana, Minister of Health and Industry.
-
-The CT scanner with the modern technology made in Japan has been handed over to the Karapitiya Teaching Hospital under the financial provisions of the Health Ministry.
-
-It hopes to do more than 40 ct scan tests and will be able to conduct inspections in the future.
-
-The Minister further stated that the next year the physical resources have been allocated for development and overall medical equipment.
-
-◼️
-
-[Data](articles/32181e6d.json)
-
-[Extended Data](ext_articles/32181e6d.ext.json)
-
----
-
-### Athens: Greece’s capital turns an orange hue with dust clouds from Sahara Desert
-
-*2024-04-24 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98819/athens-greeces-capital-turns-an-orange-hue-with-dust-clouds-from-sahara-desert) · `en`
-
-Skies over southern Greece turned an orange hue on Tuesday as dust clouds blown across the Mediterranean Sea from North Africa engulfed the Acropolis and other Athens landmarks.
-
-Strong southerly winds carried the dust from the Sahara Desert, giving the atmosphere of the Greek capital a Martian-like filter in the last hours of daylight.
-
-The skies are predicted to clear on Wednesday as winds shift and move the dust, with temperatures dipping. On Tuesday, the daily high in parts of the southern island of Crete topped 30 degrees Celsius (86 Fahrenheit), more than 20 degrees C higher than what was registered in much of northern Greece.
-
-The strong southerly winds over the past few days have also fanned unseasonal early wildfires in the country’s south.
-
-...
-
-[Data](articles/b76cf2cf.json)
-
-[Extended Data](ext_articles/b76cf2cf.ext.json)
-
----
-
-### Deadly ‘Fox Hill’ crash: Arrested race car drivers granted bail
-
-*2024-04-24 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98818/deadly-fox-hill-crash-arrested-race-car-drivers-granted-bail) · `en`
-
-The two drivers of the race cars involved in fatal crash during the ‘Fox Hill Super Cross 2024’ motorsport racing championship at Diyatalawa, have been granted bail by the Bandarawela Magistrate’s Court.
-
-The two drivers in question had been arrested while undergoing treatment in hospital on April 22 and were ordered remanded in custody by the Bandarawela Magistrate on the same day.
-
-As many as seven people including an 8-year-old girl lost their lives and more than 23 were injured on Sunday (April 21) after a car ran off the track during a race and ploughed into spectators.
-
-Among the deceased were four event officials who had been stationed as flag marshals. The others were identified as spectators.
-
-Reportedly, the crash happened soon after another car had overturned on the track. As the vehicles were speeding past, one red car veered off the track and crashed into spectators on the side of the unguarded track.
-
-...
-
-[Data](articles/706a9416.json)
-
-[Extended Data](ext_articles/706a9416.ext.json)
-
----
-
-### Such statement from Iranian President
-
-*2024-04-24 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195931) · `si`
-
-Iran's President Irabraim Rishire criticized Israel's security role, visited Pakistan, pledged to boost trade to $10 billion, and witnessed the signing of eight MoUs. He arrived in Sri Lanka after completing the Pakistan tour, focusing on the Uma Oya Multipurpose Scheme. Iran's response to Israel's missile and drone attack on April 13 was not immediate, with support from Hezbollah, Yemen, and Hamas.
-
-🟩
-
-Iranian President Irabraim Rishire has stated that the role of the security role will be significantly due to Israel.
-
-He has said that in such an environment, there will be none of the Zionist regime in Israel.
-
-While the Iranian leader continues to travel by Pakistan visits, the Iran (Iran) service was reported by Iran (Irna).
-
-The President of Irana, a three-day visit to Pakistan, has also pledged to increase the annual bilateral trade between the two countries to $ 10 billion.
-
-However, the United States of America has already been wareed to impose sanctions on these MoUs.
-
-Eight MoUs were also signed during the Pakistan Visit of President Reli.
-
-The Presidential Deputy Prime Minister Shebas Sharif witnessing to the Prime Minister Shebas Sharif
-
-The Iranian President arrived in Sri Lanka today after completing Pakistan tour.
-
-The main objective of the Iranian support was attended by the opening of the Uma Oya Multipurpose Scheme.
-
-...
-
-[Data](articles/4b44d06e.json)
-
-[Extended Data](ext_articles/4b44d06e.ext.json)
 
 ---

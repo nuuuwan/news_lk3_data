@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 06:20:10**
+As of **2024-04-25 06:57:33**
 
 ## Newspaper Stats
 
-*Scraped **20,796** Articles*
+*Scraped **20,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 217
 dbsjeyarajcom | 223
 newsfirstlk | 363
-islandlk | 1,121
+islandlk | 1,124
 dailyftlk | 1,170
 economynextcom | 1,180
 adalk | 1,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,787 (100.0%) of 20,796 articles have been extended.
+20,792 (100.0%) of 20,799 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ If this bill is not amended at the committee stage, it will impose significant c
 
 [Data](articles/fe45d89d.json)
 
+[Extended Data](ext_articles/fe45d89d.ext.json)
+
 ---
 
 ### Dissecting digital disruption: The imperative of digital literacy for today’s CEOs
@@ -62,6 +64,8 @@ Amidst this turbulence, one of the most significant drivers of change has been t
 
 [Data](articles/fe65951c.json)
 
+[Extended Data](ext_articles/fe65951c.ext.json)
+
 ---
 
 ### Why stories make business sense
@@ -75,6 +79,8 @@ The thirst for stories is evidenced in how people attended book fairs through th
 ...
 
 [Data](articles/48729d9a.json)
+
+[Extended Data](ext_articles/48729d9a.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ Sri Lanka, also located very close to all major ports in the Indian subcontinent
 ...
 
 [Data](articles/2e2ae087.json)
+
+[Extended Data](ext_articles/2e2ae087.ext.json)
 
 ---
 
@@ -109,6 +117,8 @@ Little wonder then, as Prof Charitha Herath noted, that the SJB challenges the J
 ...
 
 [Data](articles/f8a6ff10.json)
+
+[Extended Data](ext_articles/f8a6ff10.ext.json)
 
 ---
 
@@ -689,6 +699,26 @@ I would say maintaining a perfect physique, although being a mom of two kids, as
 ...
 
 [Data](articles/58de8bd5.json)
+
+---
+
+### Remedies to reduce heat pimples
+
+*2024-04-24 23:00:00* · [`islandlk`](http://island.lk/remedies-to-reduce-heat-pimples/) · `en`
+
+Phew! With temperatures soaring high, the dreaded heat can certainly create problems for our skin, too.
+
+Quite a few readers have indicated to me that they are having a tough time with this heat, with plenty of heat pimples cropping up.
+
+The following skincare routine can help keep your skin stay fresh and hydrated during this scorching hot period…
+
+Lemon juice is a reliable remedy to reduce heat pimples on the face, naturally. Mix a teaspoon of lemon juice with honey and dab the mixture on the pimples with a cotton ball. Let it stay on the pimples for five minutes and then wash off with cold water. Doing this daily will prevent heat pimples from forming.
+
+Apply honey on the heat pimples directly and let it dry. Leave it on for at least 30 minutes and then wash your face. You can repeat this 02-03 times daily.
+
+...
+
+[Data](articles/c969f337.json)
 
 ---
 
@@ -2187,25 +2217,5 @@ The main objective of the Iranian support was attended by the opening of the Uma
 [Data](articles/4b44d06e.json)
 
 [Extended Data](ext_articles/4b44d06e.ext.json)
-
----
-
-### Thanks to Iran, the President
-
-*2024-04-24 15:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கு-நன்றி-தெரிவித்த-ஜனாதிபதி/175-336287) · `ta`
-
-Iran's technical support enabled Sri Lanka's Uma Oya Multipurpose Development Program success, highlighted by President Ranil Wickremesinghe. He emphasized global southern countries' need for unity and independence.
-
-🟩
-
-President Ranil Wickremesinghe thanked the technical support of Iran for the success of the Uma Oya Multipurpose Development Program and said at the opening ceremony of the Uma Oya Multipurpose Development Program on Wednesday (24) that Sri Lanka could not transport water from Uma Oya to Kirindi Oya without the help of Iran.
-
-The President, recalled that the global southern countries wanted to establish their identity and independence, urged the global southern countries to work together.
-
-◼️
-
-[Data](articles/04386a9a.json)
-
-[Extended Data](ext_articles/04386a9a.ext.json)
 
 ---

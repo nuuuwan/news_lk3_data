@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 22:18:34**
+As of **2024-04-25 22:34:07**
 
 ## Newspaper Stats
 
-*Scraped **20,989** Articles*
+*Scraped **20,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
-adaderanalk | 2,498
+adaderanalk | 2,499
 virakesarilk | 3,165
 dailymirrorlk | 3,269
 adaderanasinhalalk | 3,387
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,989 (100.0%) of 20,989 articles have been extended.
+20,989 (100.0%) of 20,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### President reveals govt’s plans for turning Colombo into tourist destination
+
+*2024-04-25 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98850/president-reveals-govts-plans-for-turning-colombo-into-tourist-destination) · `en`
+
+President Ranil Wickremesinghe expressed his dedication to fostering an economic landscape in the nation that would prevent future struggles among its citizens. Emphasizing the swift reconstruction of the economy within a mere two-year span, he underscored his resolve to elevate the standard of living by fortifying the economy’s resilience.
+
+These remarks were made today (25) during the Ceremonial Opening of the ITC Ratnadipa Hotel. Located in the Galle Face Green, this luxurious hotel marks the first venture outside India by the ITC Hotel Group.
+
+Addressing the gathering, President Wickremesinghe extended a warm welcome, stating, “ITC welcome to Sri Lanka.” He highlighted the prominent hotels in the vicinity, including the historic Galle Face Hotel which is bestowed as the first five-star hotel in Asia, the Taj Hotel from India and the Shangri-La Hotel from Singapore.
+
+...
+
+[Data](articles/198454ac.json)
+
+---
 
 ### Malaysia ex-PM Mahathir facing anti-graft probe in a case involving his sons
 
@@ -2265,25 +2281,5 @@ At present, the situation has changed and people have the opportunity to drink a
 [Data](articles/698c04fa.json)
 
 [Extended Data](ext_articles/698c04fa.ext.json)
-
----
-
-### 60,000 applications received for NIE admissions – Edu. Minister
-
-*2024-04-25 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98833/60000-applications-received-for-nie-admissions-edu-minister) · `en`
-
-Minister of Education Susil Premajayantha says that 60,000 applications were received for new admissions to National Colleges of Education (NIEs).
-
-He mentioned that the relevant admission activities would be initiated next week.
-
-In response to a question raised by Opposition Leader Sajith Premadasa in Parliament, the Minister said that 4,160 individuals are set to graduate from the NIEs in the near future.
-
-Furthermore, Premajayantha mentioned that measures are underway for the recruitment of 23,005 individuals to the teaching service.
-
-◼️
-
-[Data](articles/6471dc0e.json)
-
-[Extended Data](ext_articles/6471dc0e.ext.json)
 
 ---

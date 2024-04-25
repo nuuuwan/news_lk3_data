@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 10:18:32**
+As of **2024-04-25 10:34:15**
 
 ## Newspaper Stats
 
-*Scraped **20,835** Articles*
+*Scraped **20,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,733
-tamilmirrorlk | 2,409
-adaderanalk | 2,477
+tamilmirrorlk | 2,410
+adaderanalk | 2,478
 virakesarilk | 3,136
 dailymirrorlk | 3,248
 adaderanasinhalalk | 3,364
@@ -26,27 +26,67 @@ adaderanasinhalalk | 3,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,834 (100.0%) of 20,835 articles have been extended.
+20,835 (100.0%) of 20,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### O/L பரீட்சை தொடர்பில் விசேட அறிவித்தல்
+### ஜனாதிபதி வேட்பாளர் குறித்து நாமல் கருத்து
+
+*2024-04-25 10:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-குறித்து-நாமல்-கருத்து/175-336306) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தமது கட்சியிலிருந்து பொருத்தமான வேட்பாளர் நிறுத்தப்படுவார் என, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவதற்கு தமது கட்சியில் பல வேட்பாளர்கள் இருப்பதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/93d3f760.json)
+
+---
+
+### Importers issue clarification on milk powder prices
+
+*2024-04-25 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98829/importers-issue-clarification-on-milk-powder-prices) · `en`
+
+A final decision has yet to be taken regarding reducing the prices of imported milk powder, the importers say.
+
+The media spokesperson of the Milk Powder Importers’ Association, Ashoka Bandara noted that an official meeting on the matter has not been held as of yet.
+
+In March, the importers slashed the price of a 1-kilogram milk powder packet by Rs. 150 and a 400-gram packet by Rs. 60. It is understood that following the price drop, imported milk packets are being sold at various rates in the local market.
+
+Against this backdrop, a company that imports milk powder from New Zealand on Wednesday (24) said that it would once again reduce the prices with effect from today. As per the statement, the price of a 1-kilogram packet was supposed to be dropped by Rs. 250 and a 400-gram packet by around Rs. 100-140.
+
+However, the Milk Powder Importers’ Association asserted that it was in no way involved with the said statement.
+
+◼️
+
+[Data](articles/4b5f78c5.json)
+
+---
+
+### Special Notification in O/L Examination
 
 *2024-04-25 10:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-தொடர்பில்-விசேட-அறிவித்தல்/175-336305) · `ta`
 
-எதிர்வரும் கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையை இலக்காகக் கொண்டு இடம்பெறும் மேலதிக வகுப்புகள் மற்றும் கருத்தரங்குகள்  எதிர்வரும் 30ஆம் திகதி நள்ளிரவு முதல் இடைநிறுத்தப்படும் என பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations has suspended additional classes and seminars from midnight on the 30th, effective from 12.00 pm that day. The GCE Ordinary Level Examination is scheduled from May 6 to 15. The GCE A/L examination results will be released by the end of May.
 
-அதன்படி, அன்றைய தினம் நள்ளிரவு 12.00 மணி முதல் இது நடைமுறைக்கு வரும் என அதன் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+🟩
 
-எதிர்வரும் மே மாதம் 6 ஆம் திகதி முதல் 15 ஆம் திகதி வரை சாதாரண தரப் பரீட்சை நடைபெறவுள்ளது.
+The Department of Examinations has announced that additional classes and seminars will be suspended from midnight on the 30th of this month.
 
-இதேவேளை, அண்மையில் நடைபெற்ற உயர்தரப் பரீட்சையின் பெறுபேறுகள் மே மாத இறுதியில் வெளியிடப்படும் எனவும் பரீட்சை திணைக்களம் குறிப்பிட்டுள்ளது. R
+According to a spokesman, a spokesman said that it will come into effect from 12.00 pm that day.
+
+The GCE Ordinary Level Examination will be held from May 6 to 15.
+
+Meanwhile, the Examination Department has stated that the results of the recent GCE A / L examination will be released by the end of May.. Remble
 
 ◼️
 
 [Data](articles/a71fe48f.json)
+
+[Extended Data](ext_articles/a71fe48f.ext.json)
 
 ---
 
@@ -91,6 +131,30 @@ The debate was launched yesterday (24) and will be held tomorrow (26).
 [Data](articles/df1e8416.json)
 
 [Extended Data](ext_articles/df1e8416.ext.json)
+
+---
+
+### Vavuniya Human Rights Commission Police and Forest Department
+
+*2024-04-25 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/181896) · `ta`
+
+The Vavuniya Human Rights Commission investigated the arrest of eight individuals, including a temple priest, after a fire in a forest area. The Forest Department, police, and temple administration were involved. The police arrested the individuals based on an Archaeological Department letter and the fire. The temple administration was criticized for not worshipping the temple and providing water. The Human Rights Commission requested evidence and asked the temple administration to submit it by Friday.
+
+🟩
+
+Investigations have been carried out by the Vavuniya Human Rights Commission in connection with the arrest of eight persons, including the temple priest at the Adisivan Temple at the Adivasivan Temple.
+
+Investigations were carried out by the Nedungeni police, the forest department and the temple administration, which was invited to the Office of the Human Rights Commission on Wednesday (24), located on the inner road in Vavuniya.
+
+The Forest Department told the Human Rights Commission that the fire had been closed in their forest area when they went there and that plastic products, cooking waste and temple coating were poured there.
+
+According to the incident, the police said that they were arrested due to the letter of the Archaeological Department and the fire in the forest area, and that they had not taken any attack on anyone and not taken the hunt and took half naked.
+
+...
+
+[Data](articles/397f1987.json)
+
+[Extended Data](ext_articles/397f1987.ext.json)
 
 ---
 
@@ -853,30 +917,6 @@ Over the past 30 years
 [Data](articles/44b6a206.json)
 
 [Extended Data](ext_articles/44b6a206.ext.json)
-
----
-
-### Vavuniya Human Rights Commission Police and Forest Department
-
-*2024-04-25 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181896) · `ta`
-
-The Vavuniya Human Rights Commission investigated the arrest of eight individuals, including a temple priest, after a fire in a forest area. The Forest Department, police, and temple administration were involved. The police arrested the individuals based on an Archaeological Department letter and the fire. The temple administration was criticized for not worshipping the temple and providing water. The Human Rights Commission requested evidence and asked the temple administration to submit it by Friday.
-
-🟩
-
-Investigations have been carried out by the Vavuniya Human Rights Commission in connection with the arrest of eight persons, including the temple priest at the Adisivan Temple at the Adivasivan Temple.
-
-Investigations were carried out by the Nedungeni police, the forest department and the temple administration, which was invited to the Office of the Human Rights Commission on Wednesday (24), located on the inner road in Vavuniya.
-
-The Forest Department told the Human Rights Commission that the fire had been closed in their forest area when they went there and that plastic products, cooking waste and temple coating were poured there.
-
-According to the incident, the police said that they were arrested due to the letter of the Archaeological Department and the fire in the forest area, and that they had not taken any attack on anyone and not taken the hunt and took half naked.
-
-...
-
-[Data](articles/397f1987.json)
-
-[Extended Data](ext_articles/397f1987.ext.json)
 
 ---
 
@@ -2131,61 +2171,5 @@ The Association further stated that the price of 400 g of imported milk powder w
 [Data](articles/b826b75b.json)
 
 [Extended Data](ext_articles/b826b75b.ext.json)
-
----
-
-### The latest research made to reduce Rila population
-
-*2024-04-24 18:33:15* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ගහනය-අඩු-කිරීමට-පේරේ-කළ-අලුත්ම-පර්යේෂණය/11-409246) · `si`
-
-The University of Peradeniya's Veterinary Medical Faculty has made significant strides in reducing the Rila population through research, involving the Faculty of Dental Medicine and other experts. The project, which includes an annual exhibition, has been successful in controlling the uterus population, impacting about 20% of the country's vegetables and fruits.
-
-🟩
-
-The Veterinary Medical Faculty of the University of Peradeniya has been successfully included in the pregnancy of the uterus for the pregnancy of relatives, not only the popularity of the country.
-
-The lounge was deposited for a small amount of uterus for the uterus of the waves.
-
-The Paradenteradeniya Hospital Division of the Faculty of Veterinary and Veterinary Clinic, Vidyalaya, the Faculty of the Veterinary Medical Faculty of the Dental Medical Faculty of the University of Dantaya
-
-The Exhibition used for research once in the year 11/2 years of age, the year 11/2 years of age was able to keep the loport in the detailed in the revelation.
-
-Dangolla was aited to about half an hour to dowritten the loop to deposit the loop into the retailer.
-
-He has identified as a result of 10-15 times in a normal life.
-
-He also made the appointment of the people who were resolved in the area of 20% of the vegetable and fruits of the country.
-
-...
-
-[Data](articles/2d400e88.json)
-
-[Extended Data](ext_articles/2d400e88.ext.json)
-
----
-
-### Ready to join hands with Sri Lanka's progress and development - Ibrahim Risi
-
-*2024-04-24 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181878) · `ta`
-
-Iranian President Ibrahim Raisi expressed readiness to support Sri Lanka's development through technical services, highlighting the "Uma Oya" Multipurpose Development Program as a symbol of cooperation and unity.
-
-🟩
-
-Iranian President Ibrahim Raisi said that the President of Iran, who promised to prepare for the best cooperation with Sri Lanka, was preparing to help Sri Lanka's progress and development by providing technical and engineering services to Sri Lanka's massive development projects.
-
-Iranian President Ibrahim Raisi said this while addressing the publication of the "Uma Oya" Multipurpose Development Program by the Sri Lankan -Iranian presidents.
-
-This project is not only a symbol of friendship between Iran and Sri Lanka, but also a sign of maximum cooperation, integrity, harmony and unity between the Asian Zone countries.
-
-The President of Iran, who promised to prepare to go ahead with the best cooperation with Sri Lanka, is preparing to help Sri Lanka's progress and development by providing technical and engineering services to Sri Lanka's massive development projects.
-
-I would like to thank Sri Lankan President Ranil Wickremesinghe for an invitation to attend the event.
-
-...
-
-[Data](articles/c3dd64f4.json)
-
-[Extended Data](ext_articles/c3dd64f4.ext.json)
 
 ---

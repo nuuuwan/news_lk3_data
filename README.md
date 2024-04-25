@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 11:03:40**
+As of **2024-04-25 11:18:42**
 
 ## Newspaper Stats
 
-*Scraped **20,845** Articles*
+*Scraped **20,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,735
 tamilmirrorlk | 2,410
-adaderanalk | 2,478
+adaderanalk | 2,479
 virakesarilk | 3,139
 dailymirrorlk | 3,249
-adaderanasinhalalk | 3,366
+adaderanasinhalalk | 3,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,838 (100.0%) of 20,845 articles have been extended.
+20,845 (100.0%) of 20,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### New electricity bill aimed at industry reforms presented to parliament
+
+*2024-04-25 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98830/new-electricity-bill-aimed-at-industry-reforms-presented-to-parliament-) · `en`
+
+Sri Lanka Electricity Bill, which incorporates the proposed reforms in the electricity sector, was presented to the parliament by Power & Energy Minister Kanchana Wijesekera on Thursday (25).
+
+◼️
+
+[Data](articles/1ec4c300.json)
+
+---
+
+### යෝජිත විදුලිබල පනත් කෙටුම්පත පාර්ලිමේන්තුවට
+
+*2024-04-25 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195952) · `si`
+
+යෝජිත ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත විදුලිබල අමාත්‍ය කංචන විජේසේකර මහතා විසින් මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+එම නව පනත් කෙටුම්පත යටතේ විදුලිබල කේෂ්ත්‍රයේ ප්‍රතිසංස්කරණ කිහිපයක් යෝජනා කර ඇත.
+
+◼️
+
+[Data](articles/5597132c.json)
+
+---
 
 ### Unsuitable rice for schools sourced by WFP, not government: Minister
 
@@ -48,65 +74,91 @@ The government allocated Rs. 110 for each child, with additional funds coming fr
 
 [Data](articles/34975c5f.json)
 
+[Extended Data](ext_articles/34975c5f.ext.json)
+
 ---
 
-### தேசிய அடையாள அட்டையை QR குறியீட்டுடன் வழங்க நடவடிக்கை!
+### Action to issue National Identity Card with QR Code!
 
 *2024-04-25 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181902) · `ta`
 
-தற்போது காணப்படும்  தேசிய அடையாள அட்டையை விட சிறந்த தேசிய அடையாள அட்டை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+Tran Ales, Public Security Minister, announced a new National Identity Card with QR code, replacing the barcode. The new card will be issued soon, aiming to improve the current system. Despite 340 available seats, financial constraints hinder widespread issuance.
 
-இதற்காக ஒப்பந்தம் செய்யப்பட்டு, தற்போதுள்ள தேசிய அடையாள அட்டையில் இருந்த பார் குறியீடு நீக்கப்பட்டு இதற்கு பதிலாக கீயூ. ஆர் குறியீட்டுடன் கூடிய புதிய அடையாள அட்டை விரைவில் வழங்கப்படும் எனவும் தெரிவித்துள்ளார்.
+🟩
 
-நுவரெலியா ஆட்பதிவு திணைக்களத்தின் புதிய மத்திய மாகாண அலுவலகத்தை திறந்து வைத்து உரையாற்றும் போதே இதனை தெரிவித்துள்ளார்.
+Public Security Minister Tran Ales said that steps will be taken to issue better National Identity Card than the present National Identity Card.
 
-தேசிய அடையாள அட்டைகளை பெற்றுக்கொள்ள 340 இடங்கள் உள்ளதாகவும், ஆனால் அரசாங்கத்துக்கு நிதிப்பிரச்சினை காணப்படுவதாகவும் இருப்பினும் மக்களுக்காக நாடு முழுவதும் பல அலுவலகங்கள் திறக்கப்படும் என்றும் அமைச்சர் தெரிவித்துள்ளார்.
+The bar code on the existing National Identity Card has been deleted for this purpose.. He said the new identity card with the R code will be issued soon.
+
+He was speaking at the opening of the new Central Provincial Office of the Nuwara Eliya Department.
+
+The Minister said that there are 340 seats to obtain national identity cards, but the government has a financial problem.
 
 ◼️
 
 [Data](articles/2236383d.json)
 
+[Extended Data](ext_articles/2236383d.ext.json)
+
 ---
 
-### அமெரிக்கா இரகசியமாக வழங்கிய நீண்ட தூர ஏவுகணைகளை உக்ரைன் பயன்படுத்த ஆரம்பித்துள்ளது - அமெரிக்க அதிகாரிகள் தகவல்
+### Ukraine has begun to use long -range missiles provided by the US - US officials information
 
 *2024-04-25 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/181908) · `ta`
 
-அமெரிக்கா இரகசியமாக வழங்கிய நீண்ட தூர ஏவுகணைகளை ரஸ்ய படையினருக்கு எதிராக உக்ரைன் பயன்படுத்த ஆரம்பித்துள்ளது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+Ukraine now uses US-supplied long-range missiles against Russian soldiers, a change from previously supplied ADCMS missiles. The US president secretly approved the supply, with the number of missiles undisclosed.
 
-மார்ச்சில் அமெரிக்க ஜனாதிபதி அனுமதி வழங்கிய உக்ரைனிற்கான பாதுகாப்பு உதவியின் ஒரு பகுதியான இந்த ஏவுகணைகள் இந்த மாதமே உக்ரைனை சென்றடைந்துள்ளன.
+🟩
 
-இந்த ஏவுகணைகளை ஆகக்குறைந்தது ஒரு தடவையாவது உக்ரைன் பயன்படுத்தியுள்ளது - கிரிமியாவில் நிலை கொண்டுள்ள படையினருக்குஎதிராக பயன்படுத்தியுள்ளது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+US officials have said that Ukraine has begun to use long -range missiles issued by the US against Russian soldiers.
 
-அமெரிக்க முன்னர் ஏடிசிஎம்எஸ் ஏவுகணைகளை உக்ரைனிற்கு வழங்கியிருந்தது எனினும் அந்த ஏவுகணையை விட வலுவான ஏவுகணையை வழங்க தயக்கம் கொண்டிருந்தது.
+These missiles, which are part of the security assistance for Ukraine, reached Ukraine this month.
 
-எனினும் உக்ரைனிற்கு நீண்டதூர ஏவுகணைகளை வழங்குவதற்கு அமெரிக்க ஜனாதிபதி இரகசியமாக அனுமதி வழங்கியுள்ளார்.
+Ukraine has used these missiles at least at least once - US officials say that the soldiers in Crimea have been used.
 
-ஜனாதிபதியின் உத்தரவின் பேரில் இந்த ஏவுகணைகள் வழங்கப்பட்டுள்ளதை உறுதி செய்ய முடியும் என இராஜாங்க திணைக்கள அதிகாரியொருவர் பிபிசிக்கு தெரிவித்துள்ளார்.
+The US had previously supplied ADCMS missiles to Ukraine, but was reluctant to provide a strong missile than the missile.
+
+However, the US president has secretly granted permission to provide long -term missiles to Ukraine.
+
+A State Department official told the BBC that the missiles were supplied on the orders of the president.
+
+The US did not make it public as Ukraine had called for the safety of Ukraine to make the matter public.
+
+It is not clear how many missiles have been sent, but US security adviser Jag Sulivan says these missiles will change the battlefield.
+
+They can change but there are no easy solutions as I have said before
 
 ...
 
 [Data](articles/7bcc126d.json)
 
+[Extended Data](ext_articles/7bcc126d.ext.json)
+
 ---
 
-### විද්‍යාපීඨ නව බඳවා ගැනීම් ගැන හෙළිදරව්වක්
+### Faculty of Sciences reveal
 
 *2024-04-25 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195951) · `si`
 
-විද්‍යාපීඨ නව බඳවා ගැනීම් සඳහා 60,000ක් ඉල්ලුම් කර ඇති බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+The Faculty of Sciences has announced new recruitments for 60,000 positions, starting next week. Minister of Education Susil Premajay revealed that 4,160 students from the College of Academy will graduate, and 23,005 teacher vacancies have been filled.
 
-එහි කටයුතු ලබන සතිය වන විට අරඹන බවත් සුසිල් ප්‍රේම්ජයන්ත් මහතා කීය.
+🟩
 
-එසේම විද්‍යාපීඨ පුහුණුව නිමකළ 4,160ක් විද්‍යාපීඨ වලින් පිටවීමට නියමිත බවත් අමාත්‍යවරයා පැවසීය.
+Minister of Education Susil Premajay also says that 60,000 has been applied for new recruitments.
 
-ඔහු මේ බව පැවසුවේ පාර්ලිමේන්තුවේදී විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+Mr. Susil Premajay also said that it will begin next week.
 
-ගුරු පුරප්පාඩු සඳහා 23,005 දෙනෙක් බඳවා ගැනීමේ කටයුතු සිදු කරමින් පවතින බවද ඔහු පැවසීය.
+The Minister also said that 4,160 students of the College of Academy are expected to be exit from the Colleges of Science.
+
+He was responding to a question raised by Opposition Leader Sajith Premadasa in Parliament.
+
+He said that 23,005 persons have been carried out for teacher vacancies.
 
 ◼️
 
 [Data](articles/94665761.json)
+
+[Extended Data](ext_articles/94665761.ext.json)
 
 ---
 
@@ -134,33 +186,45 @@ The case was filed against the Attorney General Mahindananda Aluthgamage, the At
 
 ---
 
-### தம்புள்ளை நகருக்குள் வந்த  3  காட்டு யானைகள்!
+### 3 wild elephants in Dambulla town!
 
 *2024-04-25 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181907) · `ta`
 
-தம்புள்ளை நகருக்குள் வந்த மூன்று காட்டு யானைகளினால் தம்புள்ளை நகரை சுற்றியுள்ள வீடுகளில் வசிக்கும் மக்களிடத்தில் அமைதியின்மை ஏற்பட்டது.
+Three wild elephants in Dambulla caused unrest, leading to police and wildlife officers taking 24 hours to chase them away.
 
-இந்த மூன்று காட்டு யானைகளும் தம்புள்ளை நகருக்கு வந்து வீடுகள் மற்றும் கடைகளுக்கு சுற்றித் திரிவதை அப்பகுதி மக்கள் கண்டுள்ளனர்.
+🟩
 
-இந்நிலையில் நகரின் பாதுகாப்பு கருதி சீகிரிய வனவிலங்கு அதிகாரிகள்  மற்றும்  தம்புள்ளை பொலிஸ் நிலைய அதிகாரிகள்  பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளின் உதவியுடன்  காட்டு யானைகளை விரட்டுவதற்காக   நடவடிக்கை மேற்கொண்டதாக  பொலிஸார் தெரிவித்தனர்.
+Three wild elephants in the city of Dambulla were unrest in residents living in the houses around Dambulla.
 
-மேலும் , காட்டு யானைகளை விரட்டுவதற்காக  24 மணித்தியாலங்கள்  எடுக்கப்பட்டதாக   தம்புள்ளை பொலிஸார் தெரிவித்தனர்.
+The people of the area have seen these three wild elephants come to Dambulla and wander around houses and shops.
+
+In view of the safety of the city, the Sigiriya Wildlife Officers and the Dambulla Police Station have taken steps to chase away the wild elephants with the help of police specialists.
+
+Dambulla police said that 24 hours was taken to chase wild elephants.
 
 ◼️
 
 [Data](articles/a59d1302.json)
 
+[Extended Data](ext_articles/a59d1302.ext.json)
+
 ---
 
-### ඩුබායිහිදී ලක්මව රිදියෙන් සැරසූ නෙත්මිකා
+### Nethika, which was dressed in the srust in Dubai
 
 *2024-04-25 10:24:53* · [`adalk`](https://www.ada.lk/sports/ඩුබායිහිදී-ලක්මව-රිදියෙන්-සැරසූ-නෙත්මිකා/9-409250) · `si`
 
-ඩුබායි හි පැවැත්වෙන ආසියානු 20න් පහළ මලල ක්‍රීඩා ශූරතාවලියේදී ශ්‍රි ලංකාව නියෝජනය කළ නෙත්මිකා මදුශානී හේරත් කාන්තා තුන්පිම්ම ඉසව්ව නියෝජනය කරමින් එහි රිදී පදක්කම හිමිකරගැනිමට සමත්වූවාය.ඇය මීටර් 13.01ක දුරක් වාර්තා කරමින් මෙම ජයග්‍රහණය හිමිකර ගත්තාය.
+Nethika, in srust, won silver at Asian 20th Athletics Championships for Sri Lanka.
+
+🟩
+
+Neenika Madusani Herath, who represented Sri Lanka at the Asian 20th Athletics Championships, was won by the silver medal.
 
 ◼️
 
 [Data](articles/a5e23f7a.json)
+
+[Extended Data](ext_articles/a5e23f7a.ext.json)
 
 ---
 
@@ -2098,66 +2162,24 @@ NPP General Secretary Tilvin Silva told a news conference that the NPP proposed 
 
 ---
 
-### යල කන්නයේ වී වගාවට දෙන රු. 15000 ලබන සතියේ සිට ගොවි ගිණුම් වෙත
+### Rs.. 15000 to farm accounts from next week
 
 *2024-04-24 20:06:02* · [`adalk`](https://www.ada.lk/breaking_news/යල-කන්නයේ-වී-වගාවට-දෙන-රු--15000-ලබන-සතියේ-සිට-ගොවි-ගිණුම්-වෙත/11-409249) · `si`
 
-යල කන්නයේ වී වගාව සඳහා හෙක්ටයාරයකට ලබා දෙන රුපියල් 15,000ක  මූල්‍යමය සහනාධාරය එළඹෙන සතියේ සිට ගොවි ගිණුම් වෙත බැර කරන බව ගොවිජන සංවර්ධන කොමසාරිස් ජනරාල් ඒ.එම්. එච්. එල්. අබේරත්න මහතා ප්‍රකාශ කළේය.
+The Commissioner General of Agrarian Development AM announced a Rs. 15,000 incentive for farming accounts starting from the next Yala season. The paddy cultivation commissioner has been completed, with accurate farmer information to be gathered this week.
 
-ඔහු සඳහන් කර සිටියේ යල කන්නයේ වී වගා කිරීම මේ වනවිට ආරම්භ කර ඇති නමුත් අදාළ ගොවීන් සම්බන්ධයෙන් වූ නිවැරදි තොරතුරු එක්රැස් කිරීමේ කටයුතු මෙම සතිය තුළ අවසන් කෙරෙන බවයි.
+🟩
 
-යල කන්නයේ වගා කිරීමට නියමිත කුඹුරු ප්‍රමාණය හෙක්ටයාර ලක්ෂ 06ක් වන නමුත් පවතින තොරතුරු අනුව කුඹුරු හෙක්ටයාර් 25,000ක පමණක් මේ වනවිට වී වගා කටයුතු අවසන් කර ඇති බවට සඳහන් කළ කොමසාරිස් ජනරාල්වරයා, පොහොර යොදන්නේ වගා කිරීමෙන් අනතුරුව වන බැවින් කුඹුරු වගා කිරීමෙන් පසු මුල්‍යමය සහනාධාරය ලබා දීමට තීරණය කළ බව පැවසීය.
+The Commissioner General of Agrarian Development AM is credited to farm accounts from the Yala Season 15,000 to the Yala season 15,000 Agrarian Development AM. H. L. Mr. Abeyratne said.
+
+He said that the growing paddy of the Yala season has already been launched, but the gathering of accurate information on the farmers will be completed this week.
+
+The Commissioner General of Commissioner General, which has been deployed to be deployed so far, the commissioner of paddy cultivation has been completed so far, according to the existing information, the commissioner of paddy cultivation has been completed by now.Said it was done.
 
 ◼️
 
 [Data](articles/4099d9be.json)
 
----
-
-### Concern by the action of tourists
-
-*2024-04-24 20:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்-பயணிகளின்-செயலால்-கவலை/175-336293) · `ta`
-
-Tourists on footboards of fast trains pose safety concerns, leading to accidents. Recent incidents include a foreign woman falling near Ohia station and an Iranian tourist's serious injury. Travelers demand action from train guards and security officials to prevent such risky behavior.
-
-🟩
-
-Railway passengers are concerned that foreign tourists traveling on the main railway line are traveling on the foot boards of fast trains.
-
-They pointed out that tourists are customary for tourists to climb on the Foot Board regardless of their danger, and that there have been many accidents in recent years.
-
-Recently, a foreign woman fell down at the Powder Manike Express near the Ohia railway station last Sunday (21), and an Iranian tourist was seriously injured in a similar incident about a month ago.
-
-Travelers have pointed out that train guards and security service officials should take action to prevent tourists from making this dangerous journey.
-
-◼️
-
-[Data](articles/0740ce39.json)
-
-[Extended Data](ext_articles/0740ce39.ext.json)
-
----
-
-### Introduction of CT Scanner worth 250 million rupees
-
-*2024-04-24 19:41:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-மில்லியன்-ரூபா-பெறுமதியான-CT-ஸ்கேனர்-அறிமுகம்/175-336292) · `ta`
-
-Galle Karapitiya Teaching Hospital introduced a Rs 250 million CT scanner, manufactured in Japan, under Dr. Ramesh Pathirana's patronage. It's been in use since last Sunday, capable of performing 40-50 scans daily, significantly reducing disease diagnosis time.
-
-🟩
-
-Galle Karapitiya Teaching Hospital has introduced a sophisticated CT scanner worth Rs 250 million.
-
-The event was held today (24) under the patronage of Minister of Health and Industry Dr. Ramesh Pathirana.
-
-This sophisticated CT scanner, manufactured in Japan, refers to significant improvement for hospital diseases.
-
-This scanner has been in use since last Sunday and now patients can benefit from CT scan tests, which are ready to perform 40 to 50 scans daily in the hospital, which significantly reduces the need for stagnant patients to diagnose diseases.
-
-◼️
-
-[Data](articles/6a00f297.json)
-
-[Extended Data](ext_articles/6a00f297.ext.json)
+[Extended Data](ext_articles/4099d9be.ext.json)
 
 ---

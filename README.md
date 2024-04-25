@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 01:18:33**
+As of **2024-04-26 01:34:17**
 
 ## Newspaper Stats
 
-*Scraped **21,008** Articles*
+*Scraped **21,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
-dailyftlk | 1,181
+dailyftlk | 1,187
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,426
 adaderanalk | 2,500
-virakesarilk | 3,167
+virakesarilk | 3,169
 dailymirrorlk | 3,273
 adaderanasinhalalk | 3,388
 
@@ -26,25 +26,169 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,005 (100.0%) of 21,008 articles have been extended.
+21,008 (100.0%) of 21,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### கர்தினாலின் குற்றச்சாட்டுகளை மறுத்தார் கோட்டா
+### Japan provides $ 3 m through FAO to strengthen inland fisheries, rural livelihoods
+
+*2024-04-26 01:22:15* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-3-m-through-FAO-to-strengthen-inland-fisheries-rural-livelihoods/56-761051) · `en`
+
+The Japanese Government has provided a grant of $ 3 million through the Food and Agriculture Organisation of the United Nations (FAO), to strengthen inland fisheries and improve rural livelihoods in partnership with the Ministry of Fisheries.
+
+The $ 3 million initiative will bolster food and nutritional security and fortify resilience by establishing four community operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts, upgrade four NAQDA Aquaculture Development Centres and one community operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
+
+...
+
+[Data](articles/872effa1.json)
+
+---
+
+### Rotary International District 3220 Conference kicks off today creating hope for Sri Lanka
+
+*2024-04-26 01:19:50* · [`dailyftlk`](https://www.ft.lk/news/Rotary-International-District-3220-Conference-kicks-off-today-creating-hope-for-Sri-Lanka/56-761050) · `en`
+
+Minister of Information Technology and Digital Services, Government of Tamil Nadu Dr. Palanivel Thiaga Rajan
+
+The Rotary District Conference 2024, a key event in the Rotary calendar, will be inaugurated today at 4 p.m. at the BMICH by President Ranil Wickremesinghe.
+
+The event brings together over 400 Rotarians from Sri Lanka and overseas, together with several distinguished invitees and speakers.
+
+The keynote speaker is Minister of Information Technology and Digital Services, Government of Tamil Nadu Dr. Palanivel Thiaga Rajan, and Guest of Honour, Rotary International President’s Representative Per Hoyen.
+
+The opening ceremony will be followed by the technical sessions which will be conducted at the Monarch Imperial on 27 April.
+
+The technical sessions will consist of several key addresses and discussions around Rotary’s core areas of focus, such as the empowerment of women, community and economic development, peacebuilding and conflict prevention, and the environment.
+
+...
+
+[Data](articles/a1801b99.json)
+
+---
+
+### உலக பொருளாதாரப்பேரவையின் விசேட கூட்டத்தில் வெளிவிவகார அமைச்சர் அலி சப்ரி பங்கேற்பு
+
+*2024-04-26 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181982) · `ta`
+
+உலக பொருளாதாரப்பேரவையின் உலகளாவிய ஒத்துழைப்பு, வளர்ச்சி மற்றும் அபிவிருத்திக்கான வலுத்திறன் தொடர்பான விசேட கூட்டத்தில் பங்கேற்பதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி சவுதி அரேபியாவுக்குப் பயணமாகவுள்ளார்.
+
+உலக பொருளாதாரப்பேரவையின் ஏற்பாட்டில் சவுதி அரேபியாவின் ரியாத் நகரில் எதிர்வரும் 28 - 29 ஆம் திகதிகளில் நடைபெறவுள்ள இவ்விசேட கூட்டமானது உலகளாவிய ரீதியில் பல்துறைசார் பிரதிநிதிகளையும், தொழிற்துறை தலைவர்களையும் ஒன்றிணைக்கும் எனவும், உடனடியாகத் தீர்வு காணப்படவேண்டிய சிக்கலான பிரச்சினைகள் தொடர்பில் விரிவான கலந்துரையாடலை முன்னெடுப்பதற்கு வாய்ப்பளிக்கும் எனவும் எதிர்பார்க்கப்படுவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளார்.
+
+இவ்விசேட கூட்டத்தில் 'நகர்ப்புற எதிர்காலத்தைக் கட்டியெழுப்புதல்' மற்றும் 'வடக்கிலிருந்து தெற்கு - கிழக்கிலிருந்து மேற்கு: நம்பிக்கையை மீளக்கட்டியெழுப்புதல்' ஆகிய தலைப்புக்களில் நடைபெறவுள்ள இரு அமர்வுகளில் அமைச்சர் அலி சப்ரி பங்கேற்கவுள்ளார்.
+
+...
+
+[Data](articles/e602a794.json)
+
+---
+
+### 2024 ஆம் ஆண்டின் முதல் காலாண்டில் அரச வருமான இலக்குக்கு அப்பால் சென்று  6% வளர்ச்சியை எட்ட முடிந்துள்ளது - நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய
+
+*2024-04-26 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181981) · `ta`
+
+இந்த வருடத்தின் முதல் காலாண்டில், அரச வருமானம் 834 பில்லியன் ரூபாவாக உயர்வடைந்திருப்பதாகவும், இது எதிர்பார்க்கப்பட்ட அரச வருமானத்திற்கு மேலதிகமான  6% வளர்ச்சியாகும் எனவும் அரச பெருந்தோட்ட தொழில்முயற்சிகள் மறுசீரமைப்பு அமைச்சரும் நிதி இராஜாங்க அமைச்சருமான ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+
+நாட்டின் முறையான நிதி முகாமைத்துவம் மற்றும் வருமான முறைமையைக் பார்க்கும் போது, 2024 ஆம் ஆண்டு வருமான இலக்குகளை எட்டக்கூடிய ஆண்டாக அமையும் எனவும் இராஜாங்க அமைச்சர் நம்பிக்கைத் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (25) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டிருந்த போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்த ஆண்டு பணப்புழக்கத்தை முகாமைத்துவம் செய்வதில் திறைசேரி கடும் சவாலை எதிர்கொள்கிறது.  தற்போதைய சட்டத்தின்படி கடன் பெறவும், பணத்தை அச்சிடவும் முடியாமலிருப்பதே அதற்கு காரணமாகும். நலன்புரி மற்றும் மீள்கட்டமைப்புச் செயற்பாடுகள் அதிகமாக காணப்பட்டாலும், நாட்டில் சரியான முறையில் நிதி நிர்வாகம் செய்யப்படுகிறது.
+
+...
+
+[Data](articles/9b770aa2.json)
+
+---
+
+### Siyambalapitiya outlines objectives of SOE restructuring
+
+*2024-04-26 00:57:39* · [`dailyftlk`](https://www.ft.lk/business/Siyambalapitiya-outlines-objectives-of-SOE-restructuring/34-761043) · `en`
+
+Highlights need for a broader policy framework to guide transition of entrepreneurship activities from public to private entities, while maintaining Govt. oversight and collecting necessary taxes
+
+Asserts massive tax burden imposed on citizens due to losses incurred by SOEs operating outside proper policy frameworks
+
+State Minister of Finance Ranjith Siyambalapitiya yesterday shed light on the objectives behind the ongoing restructuring of public enterprises, noting the Government’s aim to transfer entrepreneurship activities to the private sector whilst ensuring effective regulation and reducing the burden on State institutions.
+
+Speaking in Parliament, Siyam-balapitiya addressed concerns raised by MP Lakshman Kiriella regarding the restructuring of profit-making State-owned enterprises (SOEs).
+
+...
+
+[Data](articles/79152258.json)
+
+---
+
+### Govt. to introduce relief program for senior citizens affected by withholding tax
+
+*2024-04-26 00:55:53* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-introduce-relief-program-for-senior-citizens-affected-by-withholding-tax/34-761042) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says a total of Rs. 40 b required annually for compensation activities
+
+In a bid to address the concerns of the senior citizens grappling with withholding tax on interest payments, State Minister of Finance Ranjith Siyambalapitiya announced plans for a formal relief program aimed at providing immediate assistance.
+
+He outlined a practical program tailored to the Government’s cash flow capabilities, with the primary objective of swiftly removing withholding tax on interest payments for those earning less than
+
+“The Government is dedicated to implementing a formal and practical relief program to alleviate the financial burden faced by the senior citizens. A significant allocation of around Rs. 40 billion annually is required for these compensation activities,” he added.
+
+...
+
+[Data](articles/f20fa434.json)
+
+---
+
+### Dialog Axiata recognised as the most significant FDI contributor by BOI
+
+*2024-04-26 00:54:56* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Axiata-recognised-as-the-most-significant-FDI-contributor-by-BOI/34-761041) · `en`
+
+In a significant acknowledgment of its contribution towards the development and growth of the national economy, Dialog Axiata PLC, was recognised by the Board of Investment (BOI) as the most significant FDI Contributor.
+
+This prestigious accolade, presented during the BOI’s 45th anniversary celebrations, underscores Dialog’s unwavering commitment to driving forward Sri Lanka’s economic development as the country’s largest Foreign Direct Investor, with investments totalling $ 3.25 billion to date.
+
+...
+
+[Data](articles/66b8a3b6.json)
+
+---
+
+### New electricity bill presented to Parliament
+
+*2024-04-26 00:53:19* · [`dailyftlk`](https://www.ft.lk/business/New-electricity-bill-presented-to-Parliament/34-761040) · `en`
+
+Power and Energy Minister Kanchana Wijesekera presented the much-anticipated ‘Sri Lanka electricity bill’ to the Parliament yesterday.
+
+The bill which published in the Government gazette on 17 April, lays out comprehensive reforms designed to modernise and streamline the country’s electricity industry.
+
+A key aspect of the proposed legislation is the establishment of the National Electricity Advisory Council, aimed at providing strategic guidance and oversight for the sector. Additionally, the bill seeks to empower the Public Utilities Commission of Sri Lanka (PUCSL) as the primary regulatory authority responsible for ensuring efficiency, transparency, and fair competition within the electricity market. Under the provisions of the bill, corporate entities will be incorporated to manage all aspects of electricity generation, transmission, distribution, trade, supply and procurement.
+
+...
+
+[Data](articles/7cda38a9.json)
+
+---
+
+### Kota denied Cardinal's allegations
 
 *2024-04-26 00:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலின்-குற்றச்சாட்டுகளை-மறுத்தார்-கோட்டா/175-336354) · `ta`
 
+Kota denies Cardinal's allegations of involvement in the Sunday attack, claiming he was either changing or dismissing the opinions of the Presidential Commission. Gotabaya alleges Cardinal said Kota was involved in the attack. Muslims are not allowed to vote for or against Kota, he claims, as a reason for the attack on him. The Presidential Commission's report was handed over to Kota on February 20, 2021, and to the Speaker on February 23, 2021. Kota appointed a six-year-old Cabinet Subcommittee to implement the Commission's report issues.
+
+🟩
+
 உயிர்த்த ஞாயிறு தொடர்பான கர்தினால் மல்கம் ரஞ்சித் முன்வைத்துள்ள குற்றச்சாட்டுகளை முற்றாக நிராகரித்துள்ள முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பயங்கரவாத தாக்குதலில் ஈடுபட்டஇரு தரப்புகள் குறித்த உண்மைகளை கர்தினால் மறைக்கின்றார் அல்லது வெளிப்படையாக தவிர்க்கின்றார் என குறிப்பிட்டுள்ளார்.
 
-உயிர்த்த ஞாயிறு தாக்குதல் குறித்த ஜனாதிபதி ஆணைக்குழு என்னிடம் கையளிக்கப்பட்ட மறுநாள் நான் கர்தினால்மல்கம் ரஞ்சித்தைதொடர்புகொண்டேன் என கர்தினால் தெரிவித்துள்ளார் ஆனால் நான் அந்தஅறிக்கைசமர்ப்பிக்கப்பட்ட பின்னர் கர்தினாலை தொலைபேசி மூலம் தொடர்புகொள்ளவேயில்லை என கோட்டாபய தெரிவித்துள்ளார்.
+Gotabaya said that Cardinal said that I was involved in the day after the Presidential Commission handed over to me on the Sunday attack.
 
 முஸ்லீம் சமூகத்தினர் எனக்கு வாக்களிக்கவில்லை என்னை ஆதரிக்கவில்லை என்பது நன்கு தெரிந்த விடயம் இதன் காரணமாக உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில்  தடைசெய்யப்படவேண்டிய எந்த அமைப்பிலும் நான் ஏன் ஆதரவாளர்களை வைத்திருக்கவேண்டும் எனவும் முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+On February 2021, the Presidential Commission's Report was handed over to me after examining it. It was handed over to the Speaker on February 23, 2021.
 
 ...
 
 [Data](articles/ca185a43.json)
+
+[Extended Data](ext_articles/ca185a43.ext.json)
 
 ---
 
@@ -84,6 +228,8 @@ He noted that doctors from the Obstetrics and Neurology Department of Peradeniya
 
 [Data](articles/68ad7e4d.json)
 
+[Extended Data](ext_articles/68ad7e4d.ext.json)
+
 ---
 
 ### Undercover cops to combat criminal activities in prisons: IGP
@@ -99,6 +245,8 @@ Inspector General of Police Deshabandu Tennakoon said that organized criminals a
 ...
 
 [Data](articles/5b2c3376.json)
+
+[Extended Data](ext_articles/5b2c3376.ext.json)
 
 ---
 
@@ -2039,193 +2187,5 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 [Data](articles/d242f60b.json)
 
 [Extended Data](ext_articles/d242f60b.ext.json)
-
----
-
-### Don't worry about using it right, but it is not a world
-
-*2024-04-25 14:06:51* · [`adalk`](https://www.ada.lk/breaking_news/වෙපන්-ඒක-හරි-දේට-පාවිච්චි-කරන්න-බය-වෙන්න-එපා--අපරාධකරුවන්-තුරන්-කිරීම-පවක්-නොවෙයි/11-409263) · `si`
-
-Deputy Minister of Defense Tiran Alles encouraged police officers at a motorcycle course to use their skills for the country's good, emphasizing their role in achieving a goal under the leadership of the IGP.
-
-🟩
-
-Deputy Minister of Defense Tiran Alles said that he should not be afraid to use the dispute in the hand.
-
-He was speaking at the premises of the police officers who studied the immediate extension motorcycle course in the Kalutara Katukurunkada Special Task Force.
-
-"We sit for you right for you. I don't want to talk much here. You know what those here should do.
-
-Everything knows what's the need. If this group is not enough, a team is formed.
-
-We have a goal. All police officers know what that goal is.I only expect you to go to the target.
-
-It is not a poll to sell drugs, underworld, surrender. So you go to your goal.
-
-This work is working on advice on the leadership of the IGP and bring this country to a good place "
-
-◼️
-
-[Data](articles/76eec9b6.json)
-
-[Extended Data](ext_articles/76eec9b6.ext.json)
-
----
-
-### Upul Shantha Sannasgala arrested
-
-*2024-04-25 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upul-Shantha-Sannasgala-arrested/108-281359) · `en`
-
-Colombo, April 25 -  Prominent Sinhala lecturer and social activist Upul Shantha Sannasgala has been arrested over allegations of financial misconduct.
-
-The arrest has been made by the Kandana police in response to accusations levelled against Sannasgala by an individual who claims that he failed to return Rs. 1 million, which was reportedly obtained from him.
-
-◼️
-
-[Data](articles/1df6db73.json)
-
-[Extended Data](ext_articles/1df6db73.ext.json)
-
----
-
-### Gota fires back at Cardinal, rebuts allegations
-
-*2024-04-25 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gota-fires-back-at-Cardinal-rebuts-allegations/108-281357) · `en`
-
-In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
-
-Cardinal Ranjith made the following allegations against former President Gotabaya Rajapaksa at a recent media conference:
-
-• That the day after the report of the Presidential Commission of Inquiry on the Easter Sunday attacks was handed over to me, I had spoken to the Cardinal over the phone and said that I had difficulties in implementing the recommendations in that report as it would entail the arrest of individuals and even the banning of organisations that were supportive of me.
-
-• That I had delayed giving the Cardinal a copy of the first volume of the Presidential Commission report and that I had not given him the remaining volumes.
-
-...
-
-[Data](articles/6567daf6.json)
-
-[Extended Data](ext_articles/6567daf6.ext.json)
-
----
-
-### Gota fires back at Cardinal, rebuts allegations
-
-*2024-04-25 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gota-fires-back-at-Cardinal-rebuts-allegations/155-281357) · `en`
-
-In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
-
-Cardinal Ranjith made the following allegations against former President Gotabaya Rajapaksa at a recent media conference:
-
-• That the day after the report of the Presidential Commission of Inquiry on the Easter Sunday attacks was handed over to me, I had spoken to the Cardinal over the phone and said that I had difficulties in implementing the recommendations in that report as it would entail the arrest of individuals and even the banning of organisations that were supportive of me.
-
-• That I had delayed giving the Cardinal a copy of the first volume of the Presidential Commission report and that I had not given him the remaining volumes.
-
-...
-
-[Data](articles/79c8fc60.json)
-
-[Extended Data](ext_articles/79c8fc60.ext.json)
-
----
-
-### Gotabhaya answers the allegations of Kadinal Thera
-
-*2024-04-25 13:59:35* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිගේ-චෝදනාවන්ට-ගෝඨාභයගෙන්-පිළිතුරු/11-409262) · `si`
-
-Gotabhaya Rajapaksa denies allegations by Malcolm Ranjith Kadin regarding the handling of the Easter Sunday bombings investigation. He refutes claims of withholding the Presidential Commission's report, selectively implementing recommendations, and interfering with the Criminal Investigation Department. Rajapaksa emphasizes that the Muslim community did not support his presidency, thus no need for bans. He also clarifies the timeline of the report's handling and the appointment of the CID director, disputing accusations of sabotage.
-
-🟩
-
-Former President Gotabhaya Rajapaksa has been responding to the statements made by Malcolm Ranjith Kadin allocated for a five-year-old program.
-
-The announcement issued to his media has refused the following proposals.
-
-The allegations made by Malcolm Cardinal Ranjith
-
-The Five Years of Celebrations to mark the suicide bombing bombing of the Easter
-
-When I received the report of the Presidential Investigation Commission regarding the Easter investigation Commission on the Past Sunday, the Cardinal returns to the Cadinal Harmark and to arrest the recommendations in the report and even to ban their organizations.That I am informed.
-
-I delayed giving a copy of the first volume of the Presidential Commission's Report and that the remaining volumes were not given to him.
-
-That I made a six-member cabinet subdivision to select only a few recommendations made by the Easter committees and commissions.
-
-...
-
-[Data](articles/7b18a758.json)
-
-[Extended Data](ext_articles/7b18a758.ext.json)
-
----
-
-### Gotabhaya answers the allegations of Kadinal Thera
-
-*2024-04-25 13:57:34* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිගේ-චෝදනාවන්ට-ගෝඨාභයගෙන්-පිළිතුරු/11-409261) · `si`
-
-Gotabhaya Rajapaksa denies allegations by Malcolm Cardinal Ranjith regarding the handling of the Easter Sunday bombings investigation. He refutes claims of withholding the Presidential Commission's report, selectively implementing recommendations, and interfering with the Criminal Investigation Department.
-
-🟩
-
-Former President Gotabhaya Rajapaksa has been responding to the statements made by Malcolm Ranjith Kadin allocated for a five-year-old program.
-
-The announcement issued to his media has refused the following proposals.
-
-The allegations made by Malcolm Cardinal Ranjith
-
-The Five Years of Celebrations to mark the suicide bombing bombing of the Easter
-
-When I received the report of the Presidential Investigation Commission regarding the Easter investigation Commission on the Past Sunday, the Cardinal returns to the Cadinal Harmark and to arrest the recommendations in the report and even to ban their organizations.That I am informed.
-
-I delayed giving a copy of the first volume of the Presidential Commission's Report and that the remaining volumes were not given to him.
-
-That I made a six-member cabinet subdivision to select only a few recommendations made by the Easter committees and commissions.
-
-...
-
-[Data](articles/b2838db6.json)
-
-[Extended Data](ext_articles/b2838db6.ext.json)
-
----
-
-### Sri Lanka - Iran and 5 MoUs
-
-*2024-04-25 13:54:32* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාව---ඉරාන-අතර-අවබෝධතා-ගිවිසුම්-05-ක්/11-409260) · `si`
-
-Iranian President visited Sri Lanka for the Uma Oya project, leading to five MoUs, including education, culture, transport, and cooperation agreements.
-
-🟩
-
-Iranian President arrived in Sri Lanka to attend the Uma Oya project. After a good speech between the two leaders, the two bilateral discussions and five cases were signed.
-
-Minister of Education Susil Premajayantha signed the Memorandum of the Iranian Republic of Iranian and the Sri Lanka National Library and the Sri Lanka National Library was signed by Mohammed Mehdi Esmaeili.
-
-Mohammed Mehi Gunawardena, Minister of Culture and the Ministry of Iranian Islamic Republic of Iranian Islamic Republic of Iranian Islamic Minister Mohammed Mehdi Esmaeil (Mohammad Mehdi Esmaeili)Signed it.
-
-Memorandum of Understanding (MoU) signed between Sri Lanka and Iran Cooperation. Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and the Republic of the Energy Minister Ali Akbar Merahi Biyan were signed.
-
-...
-
-[Data](articles/5047b0a7.json)
-
-[Extended Data](ext_articles/5047b0a7.ext.json)
-
----
-
-### SriLankan Engineering implements AMOS ERP
-
-*2024-04-25 13:51:00* · [`economynextcom`](https://economynext.com/srilankan-engineering-implements-amos-erp-160047/) · `en`
-
-ECONOMYEXT – State-run SriLankan said its engineering units has implemented AMOS, an aviation maintenance management system at its engineering division.
-
-By automating the monitoring and coordination of aircraft maintenance with AMOS, the airline said it will be able to boost engineering productivity, reduce costs and maintain quality and consistency in its Maintenance, Repair, and Overhaul (MRO) operations.
-
-“The integration took several months to complete given the complexities of transitioning data from our legacy system to the advanced AMOS platform. With this transition, we anticipate modernizing our operations, achieving greater efficiency, and ensuring that we maintain our aircraft and safety standards to the highest degree,” Head of Engineering at SriLankan Airlines, Arjuna Kapugeekiyana said.
-
-...
-
-[Data](articles/1b8a9e3c.json)
-
-[Extended Data](ext_articles/1b8a9e3c.ext.json)
 
 ---

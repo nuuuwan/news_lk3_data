@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 12:51:20**
+As of **2024-04-25 13:03:36**
 
 ## Newspaper Stats
 
-*Scraped **20,868** Articles*
+*Scraped **20,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,183
 adalk | 1,738
 tamilmirrorlk | 2,414
-adaderanalk | 2,481
+adaderanalk | 2,482
 virakesarilk | 3,142
 dailymirrorlk | 3,251
 adaderanasinhalalk | 3,370
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,866 (100.0%) of 20,868 articles have been extended.
+20,868 (100.0%) of 20,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### 60,000 applications received for NIE admissions – Edu. Minister
+
+*2024-04-25 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98833/60000-applications-received-for-nie-admissions-edu-minister) · `en`
+
+Minister of Education Susil Premajayantha says that 60,000 applications were received for new admissions to National Colleges of Education (NIEs).
+
+He mentioned that the relevant admission activities would be initiated next week.
+
+In response to a question raised by Opposition Leader Sajith Premadasa in Parliament, the Minister said that 4,160 individuals are set to graduate from the NIEs in the near future.
+
+Furthermore, Premajayantha mentioned that measures are underway for the recruitment of 23,005 individuals to the teaching service.
+
+◼️
+
+[Data](articles/6471dc0e.json)
+
+---
 
 ### Man who jumped off Sri Pada Uda Maluwa and went missing, found
 
@@ -51,6 +69,8 @@ The circumstances which led him to jump into the precipice are yet to be establi
 ...
 
 [Data](articles/d188d255.json)
+
+[Extended Data](ext_articles/d188d255.ext.json)
 
 ---
 
@@ -592,19 +612,25 @@ Dambulla police said that 24 hours was taken to chase wild elephants.
 
 ---
 
-### ජනපතිවරයා ඡන්දේ තියයිද නැත්ද අපි දන්නේ නෑ
+### We don't know if the President voted
 
 *2024-04-25 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයා-ඡන්දේ-තියයිද-නැත්ද-අපි-දන්නේ-නෑ/11-409251) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා පොදුජන පෙරමුණින් අපේක්ෂකයෙක් ඉදිරිපත් කරන බවත් ජනපතිවරයා ඡන්දය පවත්වාවිද නොපවත්විවද නොදන්න බවත් පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසිය.
+MP Namal Rajapaksa announced the Ceremonial Arose's General Secretary as a candidate for the next presidential election, with the Sri Lanka General Front also participating. He highlighted the importance of the ballot paper's pointer in identifying the candidate and emphasized the need to present a leader capable of overcoming challenges.
 
-ජනපතිවරණය පැවැත්වුවහොත් ඒ් සඳහා ඉදිරිපත් කිරිමට තම පක්ෂය තුළ අපේක්ෂකයන් කිහිප දෙනෙකුම සිටින බවද ඔහු පැවැසිය.
+🟩
 
-"අපි දන්නේ නෑ ජනාධිපතිතුමා ඡන්දය තියයි ද නැද්ද දන්නෙත් නෑ. ශ්‍රී ලංකා පොදුජන පෙරමුණ මැතිවරණයට ඉදිරිපත් වෙනවා. ඡන්ද පත්‍රිකාවේ පොහොට්ටුවේ ලකුණ තියෙනවා. අපේක්ෂකයා පිළිබඳව වෙලාවට කියන්නම්. ජනාධිපතිවරණයට පොදුජන පෙරමුණෙන් ලැයිස්තුවක් ඉන්නවා. ඒකෙන් අපි කාලෙට සුදුසු සහ අභියෝග ජයගන්න පුළුවන් කෙනා අපි ඉදිරිපත් කරනවා."
+MP Namal Rajapaksa said that the General Secretary of the Ceremonial Arose will be presented to the next presidential election.
+
+He also said that there are several candidates in their party to submit the presidential election.
+
+"We don't know if the President votes or not. The Sri Lanka General Front will contest the election. There's the mark of the pointer of the ballot paper. Tells the candidate. The Presidential election has a list of the Presidential Election. We present the man who can overcome the challenges and challenges. "
 
 ◼️
 
 [Data](articles/98be52e6.json)
+
+[Extended Data](ext_articles/98be52e6.ext.json)
 
 ---
 
@@ -2213,31 +2239,5 @@ The army and the STF has been conducting a special operation for 3 days to searc
 [Data](articles/2bc8992f.json)
 
 [Extended Data](ext_articles/2bc8992f.ext.json)
-
----
-
-### Mysterious person who entered the Vavuniya University women's hostel: The mother of an informed student dies of a heart attack
-
-*2024-04-24 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181891) · `ta`
-
-A mysterious person in lingerie at Vavuniya University's women's hostel caused fear, leading to the death of a student's mother from a heart attack after the incident was reported. Police are investigating with surveillance footage.
-
-🟩
-
-A person with lingerie at the women's hostel at Vavuniya University has caused fear among students.
-
-An unidentified person is located at the women's hostel at Vavuniya University, located in Pampaimaduvu at night
-
-A mysterious person escaped from the shouting and shouting at this
-
-It is also worth noting that the mother of Ammanavi died of a heart attack the next day as the student had informed her parents about the matter.
-
-Meanwhile, the police are carrying out investigations with the help of surveillance cameras regarding the locally.
-
-◼️
-
-[Data](articles/3d053416.json)
-
-[Extended Data](ext_articles/3d053416.ext.json)
 
 ---

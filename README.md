@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 13:18:40**
+As of **2024-04-25 13:34:08**
 
 ## Newspaper Stats
 
-*Scraped **20,874** Articles*
+*Scraped **20,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,148 @@ dailyftlk | 1,172
 economynextcom | 1,183
 adalk | 1,739
 tamilmirrorlk | 2,416
-adaderanalk | 2,482
+adaderanalk | 2,484
 virakesarilk | 3,142
 dailymirrorlk | 3,252
-adaderanasinhalalk | 3,371
+adaderanasinhalalk | 3,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,869 (100.0%) of 20,874 articles have been extended.
+20,874 (100.0%) of 20,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### යළි කිසි දිනක අරගලයකට යන්න එපා...-ජනපති
+### චීන කොමියුනිස්ට් පක්ෂයේ ඉහළ පෙළේ නියෝජිත පිරිසක් විපක්ෂ නායකව හමුවෙයි.
 
-*2024-04-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195956) · `si`
+*2024-04-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195957) · `si`
 
-නැවත අරගලයකට යොමුනොවී රට ගොඩනැගීමට සියලුදෙනා එක්වන්නයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ජනතාවගෙන් ඉල්ලා සිටී.
+චීන කොමියුනිස්ට් පක්ෂයේ ජාත්‍යන්තර සම්බන්ධතා පිළිබඳ දෙපාර්තමේන්තුවේ ප්‍රධානීන් පිරිසක් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ප්‍රමුඛ සමගි ජන සන්ධානයේ නියෝජිතයන් අතර හමුවක් ඊයේ (24) පස්වරුවේ විපක්ෂ නායක කාර්යාලයේ දී සිදුවිය.
 
-අද කොළඹදී 'ITC Ratnadipa' අතිසුඛෝපභෝගී හෝටලය විවෘත කිරීමේ අවස්ථාවට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+දෙපාර්ශ්වය අතර සිදු වූ මෙම සුවිශේෂී සාකච්ඡාව පැයක කාලයකට පමණ සීමා වූ අතර මෙම සාකච්ඡාවට අමතරව විනාඩි 45ක කාලයක් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ චීන කොමියුනිස්ට් පක්ෂයේ ජාත්‍යන්තර දෙපාර්තමේන්තුවේ මධ්‍යම කාරක සභාවේ උප ඇමතිනී සන් හයියන් මෙනවිය අතර පෞද්ගලික සාකච්ඡාවක් ද පැවැත්විණි.
 
-"අවුරුදු දෙකකට කලින් මෙතෙන තිබුණේ විශාල උද්ඝෝෂණයක්. මෙතෙන තිබුණේ අරගලයක්. වටේ වට කරලා තිබුණා. අද ඒ වෙනුවට තියෙන්නේ, විශාල හෝලයක්. ITC සමාගමේ, හෝටලය මෙතැන තියෙන Ratnadipa. අවුරුදු දෙකකින් ස්ථාවරභාවය ඇති කළා. අවුරුදු දෙකකින් ආර්ථිකයට පණ දුන්නා. අපි එතැනින් ඉදිරියට යන්නේ. මෙතැන තියෙන අවුල පහුකරලා, අපි ඒ වෙනුවට අලුත් ආර්ථිකයක් හදන්න ක්‍රියාකරගෙන යනවා. කිසි දවසක ආපහු අරගලයට යන්න එපා. තමන්ගේ ආර්ථිකය ආපහු කඩා වැටිලා වැඩක් නෑ. අස්ථාවරභාවයක් ඇති කරලා වැඩක් නෑ. අපි මෙතැන ඉඳන් ඉදිරියට යමු මීට වඩා හොඳ රතන දීපයක් ඇති කරන්න."
+මෙහි දී ආර්ථික, වානිජ, ව්‍යාපාර, දේශපාලන සබඳතා යන ක්ෂේත්‍ර රැසක් සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡාවට ලක් වූ අතර ඒ අනුව ශ්‍රී ලංකාව සහ චීනය අතර ව්‍යාපාර සම්බන්ධතා ගොඩනැගීම සම්බන්ධයෙන් දෙපාර්ශ්වය අතර අදහස් හුවමාරු විය.
 
-ඉන්දියාවේ ITC හෝටල් සමූහය ඉන්දියාවෙන් පිටත ඔවුන්ගේ පළමු සුඛෝපභෝගි හෝටලය ගාලුමුවදොර ඉදිරිපිට ගොඩනැගූ අතර එය නම් කර ඇත්තේ  ITC Ratnadipa Colombo ලෙසය.
+මෙහි දී චීනයේ ආර්ථික සංවර්ධන මොඩලය මෙරටට ආදේශ කර ශ්‍රී ලංකාවේ පවතින තත්ත්වයෙන් ගොඩගත හැකි ක්‍රමවේදයක් සම්බන්ධයෙන් ද දෙපාර්ශ්වය අතර අදහස් හුවමාරු විය.
 
 ...
 
-[Data](articles/6b620a0b.json)
+[Data](articles/c4df9b47.json)
 
 ---
 
-### சஜித் பிரேமதாசவை சந்தித்த  சீனக் கம்யூனிஸ்ட் கட்சி
+### Easter attacks: Gotabaya categorically denies allegations made by Cardinal
+
+*2024-04-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98835/easter-attacks-gotabaya-categorically-denies-allegations-made-by-cardinal) · `en`
+
+Former President Gotabaya Rajapaksa has vehemently refuted the allegations recently levelled at him by His Eminence Malcolm Cardinal Ranjith concerning the 2019 Easter Sunday terror attacks.
+
+In a statement, Rajapaksa addressed four such allegations made by the Cardinal at an event held to mark the 5th anniversary of the carnage that claimed the lives of more than 250 people and left hundreds of others wounded.
+
+◼️
+
+[Data](articles/819d1fac.json)
+
+---
+
+### Don't go to a struggle again ... - President
+
+*2024-04-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195956) · `si`
+
+President Ranil Wickremesinghe urged the public to restore the country, highlighting the ITC Ratnadipa Hotel's role in economic stability. The hotel, built by the ITC Hotel Group in India, is the first luxury hotel outside India, featuring a unique 100-foot high structure.
+
+🟩
+
+President Ranil Wickremesinghe has requested the public to arranged the country to restore the country.
+
+The President was speaking at the opening ceremony of the 'ITC Ratnadipa' Antiomple Hotel in Colombo today.
+
+"Two years ago, there was a great protest. There was a struggle here. Was rounded around. Today, there is a big hole. ITC, hotel is the ratnaadipa here. Struck stability in two years. Gave the economy in two years. We're going on there. Getting the mess here, we're working to build a new economy instead. Never go back to struggle. Their economy will go back. There is no need for a volatility. Let's go forward from here to make a better secret. "
+
+ITC Hotel Group in India built their first Luxury Hotel outside India and named itc ratnaadipa colombo.
+
+This is the specialty of 100 feet high in the sky, connecting two main pillars, and this is the first time in the country.
+
+◼️
+
+[Data](articles/6b620a0b.json)
+
+[Extended Data](ext_articles/6b620a0b.ext.json)
+
+---
+
+### Indian Ocean region to benefit from Iran-Sri Lanka cooperation: Raisi
+
+*2024-04-25 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98834/indian-ocean-region-to-benefit-from-iran-sri-lanka-cooperation-raisi) · `en`
+
+President Ebrahim Raisi has stated improved relations between Iran and Sri Lanka in various fields would benefit the two countries and the Indian Ocean region.
+
+Raisi made the remarks in a joint press conference with Sri Lankan President Ranil Wickremesinghe in the Island nation’s capital of Colombo on Wednesday.
+
+He said that Iran is ready to supply technical and engineering services to Sri Lanka to help the country boost its economic and industrial infrastructure.
+
+The president made the comments hours after he opened a large hydroelectric project in Badulla, located some 230 kilometers to the east of Colombo. The Uma Oya Multipurpose Development Project, which is worth over $500 million, has been largely designed and built by Iranian companies to help Sri Lanka overcome its electricity and irrigation problems.
+
+He stated Iran had progressed in various fields of technology over the past years despite being subject to a harsh regime of foreign sanctions.
+
+...
+
+[Data](articles/f0178659.json)
+
+---
+
+### Chinese Communist Party met with Sajith Premadasa
 
 *2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாசவை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
 
-சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேச உறவுகள் திணைக்களத்தின் உயர்மட்ட பிரதிநிதிகள் குழுவினர்,  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியின் பிரதிநிதிகளை கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து  புதன்கிழமை (24) பிற்கபல் சந்தித்து கலந்துரையாடியுள்ளனர் .
+Chinese Communist Party representatives met with UPFA's Sajith Premadasa, discussing economy, trade, and political relations. They aim to invest $1M to restore Sri Lanka's economy, with Premadasa addressing micro, small, and medium entrepreneurs' issues.
 
-இரு தரப்பினருக்கும் இடையிலான இந்த விசேட சந்திப்பு ஒரு மணி நேரம் இடம்பெற்றுள்ளது . அதனை தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச விவகாரங்களுக்கான துணை அமைச்சர்  சன் ஹையன் இடையில் 45 நிமிட நேருக்கு நேர் பிரத்தியக சந்திப்பும் இடம்பெற்றுள்ளது .
+🟩
 
-பொருளாதாரம், வர்த்தக, அரசியல் உறவுகள் என பல துறைகள் குறித்து இங்கு விரிவாக கலந்துரையாடப்பட்டுள்ளதுடன் ,இலங்கைக்கும் சீனாவுக்கும் இடையில் வர்த்தக உறவுகளை ஏற்படுத்துவது தொடர்பில் இரு தரப்புக்கும் இடையில் கருத்துக்கள் பரிமாறப்பட்டுள்ளது .
+A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa on Wednesday (24).
+
+This special meeting between the two sides has been held for an hour. Following this, a 45 -minute face -to -face meeting was held between Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China Sun Hayan.
+
+A number of sectors, such as the economy, trade and political relations, have been discussed in detail, and the two sides have been exchanged between Sri Lanka and China.
+
+Here, considering China's economic development model, both sides have exchanged ideas about the way our country can recover from the current situation.
+
+International relations department leaders of the Chinese Communist Party have said they expect to invest a million US dollars to restore the country's economy.
 
 ...
 
 [Data](articles/3c2ec142.json)
 
+[Extended Data](ext_articles/3c2ec142.ext.json)
+
 ---
 
-### 80 ரூபாய்க்கு பால் தேநீர் வழங்கவும்
+### Provide milk tea for 80 rupees
 
 *2024-04-25 12:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-ரூபாய்க்கு-பால்-தேநீர்-வழங்கவும்/175-336313) · `ta`
 
-இறக்குமதி செய்யப்படும் பால் மாவின் விலை குறைப்பு சலுகையை நுகர்வோருக்கு வழங்கும் வகையில் ஒரு கோப்பை பால் தேநீரை  80 ரூபாய்க்கு வழங்குமாறு கோரிக்கை விடுக்கப்பட்டுள்ளது.
+Asela Sampath, leader of the National Consumer Front, requested a cup of milk tea for 80 rupees to offset the price increase of imported milk flour. This move is in response to Palma importers reducing retail prices of Paul Maui due to a decrease in the dollar's value, encouraging consumers to return to drinking milk tea.
 
-தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத், சிற்றுண்டிச்சாலை உரிமையாளர்களிடம் இந்த கோரிக்கையை விடுத்துள்ளார்.
+🟩
 
-அத்துடன், டொலரின் பெறுமதி வீழ்ச்சியடைந்ததன் காரணமாக இன்று முதல் அமுலுக்கு வரும் வகையில் பால்மா இறக்குமதியாளர்கள் பால் மாவின்  சில்லறை விலையை குறைக்க தீர்மானித்துள்ளதாக அவர் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+It has been requested to provide a cup of milk tea for 80 rupees to provide consumers with a reduction in the price of imported milk flour.
 
-அண்மைகாலமாக பால்மா விலை உயர்வு காரணமாக, பால் தேநீர் அருந்துவதற்கு ஹோட்டல்களுக்கு வருவதை மக்கள் தவிர்த்து வந்தனர்.
+National Consumer Front leader Asela Sampath has made this request to the owners of the road.
 
-தற்போது அந்த நிலை மாறி, மீண்டும் 80 ரூபாய்க்கு ஒரு கோப்பை பால் தேநீர் குடிக்கும் வாய்ப்பு மக்களுக்கு கிடைத்துள்ளது என அவர் குறிப்பிட்டுள்ளார்.
+He also told the media that Palma importers have decided to reduce the retail prices of Paul Maui as it comes into effect from today due to the decline in the value of the dollar.
+
+Due to the rise in milk prices in recent times, people have been avoiding coming to hotels to drink milk tea.
+
+At present, the situation has changed and people have the opportunity to drink a cup of milk for 80 rupees again, he said.
 
 ◼️
 
 [Data](articles/698c04fa.json)
+
+[Extended Data](ext_articles/698c04fa.ext.json)
 
 ---
 
@@ -121,6 +197,8 @@ Addressing the media, he said the milk powder importers had decided to reduce th
 ◼️
 
 [Data](articles/96776fe3.json)
+
+[Extended Data](ext_articles/96776fe3.ext.json)
 
 ---
 
@@ -414,21 +492,27 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 
 ---
 
-### පාතාලය මඩින්න විශේෂ කාර්ය බළකායෙන් විශේෂ යතුරුපැදි බළකායක්
+### Special motorcycle force from the Special Task Force to suppress the underworld
 
 *2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/uncategorized/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/1-409253) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සහ පාතාලය මර්ධනය කිරීමේ අරමුණින්  විශේෂ කාර්ය බළකායේ විශේෂ පුහුණුවක් ලද පළමු පොලිස් සංග්‍රාමික ක්ෂණික විහිදුම් යතුරුපැදි  කණ්ඩායම  විසිරයාමේ පෙලපාලිය අද (25 ) කළුතර , කටුකුරුන්ද පිහිටි විශේෂ කාර්ය බළකා පුහුණු පාසලේදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගේ ප්‍රධානත්වයෙන් සිදු කරන ලදී.
+The Special Task Force (STF) trained a special motorcycle force in Kalutara, led by Public Defense Minister Tiran Alles. Trainees received certificates and a special logo. The force is part of the Colombo Crimes Division, with representatives from the Inspector General of Police and the Western Province's Senior DIGs present.
 
-එම පුහුණුව හදාරන ලද විශේෂ යතුරුපැදිකරුවන් 100 කු මෙහිදී විසිර යනු ලැබූ අතර , ඔවුන්  වෙත සහතිකපත් සහ විශේෂ ලාංඡනයක් මෙහිදී හිමිගන්වනු ලැබීය .
+🟩
 
-මෙම යතුරුපැදිකරුවන් කොළඹ අපරාධ කොට්ඨාශයට අනුයුක්ත කර බස්නාහිර සහ දකුණ පළාත් යටතේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ රාජකාරී යෙදවීමට නියමිතව ඇත.
+The First Task Form Functional Task Force Task Force (STF) was chaired by the Public Defense Minister Tiran Alles at the Special Task Force Training School in Kalutara today (25).
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන්, විශේෂ කාර්ය බළකා අණදෙන නිළධාරී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  නීතිඥ  වරුණ ජයසුන්දර, බස්නාහිර පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති මහින්ද ගුණරත්න , පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දුව, කටුකුරුන්ද විශේෂ කාර්ය බළකා අණදෙන නිළධාරී  සහකාර  පොලිස් අධිකාරි එන්සී ගජවීර ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීන් රැසක්ද මෙම අවස්ථාවට එක්ව සිටියහ.
+The trainees were dispersed and the certificates and a special logo were dispersed.
+
+These motorists are attached to the Colombo Crimes Division in an assigned to the Colombo Crimes Division.
+
+Inspector General of Police (IGP), Senior DIG of Western Province, Senior DIG Task Force in charge of the Western Province.Were there.
 
 ◼️
 
 [Data](articles/a6f7a5c6.json)
+
+[Extended Data](ext_articles/a6f7a5c6.ext.json)
 
 ---
 
@@ -2177,55 +2261,5 @@ I would say maintaining a perfect physique, although being a mom of two kids, as
 [Data](articles/58de8bd5.json)
 
 [Extended Data](ext_articles/58de8bd5.ext.json)
-
----
-
-### Remedies to reduce heat pimples
-
-*2024-04-24 23:00:00* · [`islandlk`](http://island.lk/remedies-to-reduce-heat-pimples/) · `en`
-
-Phew! With temperatures soaring high, the dreaded heat can certainly create problems for our skin, too.
-
-Quite a few readers have indicated to me that they are having a tough time with this heat, with plenty of heat pimples cropping up.
-
-The following skincare routine can help keep your skin stay fresh and hydrated during this scorching hot period…
-
-Lemon juice is a reliable remedy to reduce heat pimples on the face, naturally. Mix a teaspoon of lemon juice with honey and dab the mixture on the pimples with a cotton ball. Let it stay on the pimples for five minutes and then wash off with cold water. Doing this daily will prevent heat pimples from forming.
-
-Apply honey on the heat pimples directly and let it dry. Leave it on for at least 30 minutes and then wash your face. You can repeat this 02-03 times daily.
-
-...
-
-[Data](articles/c969f337.json)
-
-[Extended Data](ext_articles/c969f337.ext.json)
-
----
-
-### AMDT School of Creativity receives prestigious Silver Award at Pearson UK Higher Education Awards
-
-*2024-04-24 22:47:00* · [`islandlk`](http://island.lk/amdt-school-of-creativity-receives-prestigious-silver-award-at-pearson-uk-higher-education-awards/) · `en`
-
-AMDT School of Creativity, one of Sri Lanka’s leading educational institutions for creative arts and design, was recently honoured with the “Silver Award for Top Performing Centre” at the prestigious Pearson UK Higher Education Awards held at The Kingsbury, Colombo. This recognition highlights AMDT’s unwavering commitment to excellence and its exemplary performance as a Pearson BTEC International Centre.
-
-...
-
-[Data](articles/4db4a191.json)
-
-[Extended Data](ext_articles/4db4a191.ext.json)
-
----
-
-### lolc Finance expands to Karapitiya & relocates Kalawana
-
-*2024-04-24 22:45:00* · [`islandlk`](http://island.lk/lolc-finance-expands-to-karapitiya-relocates-kalawana/) · `en`
-
-LOLC Finance PLC, the leading Non-Banking Financial Institution (NBFI) in Sri Lanka, proudly announces the opening of a new branch in Karapitiya and a relocation in Kalawana, further solidifying its presence and commitment to serving customers across the nation. The Karapitiya branch, located at No.566 C, Hirimbura Rd, Karapitiya, Galle, and the Kalawana branch, now situated at 100/A, Mathugama Road, Kalawana, exemplify LOLC Finance’s dedication to delivering accessible financial solutions to urban, suburban, and rural communities alike.
-
-...
-
-[Data](articles/e1633d6f.json)
-
-[Extended Data](ext_articles/e1633d6f.ext.json)
 
 ---

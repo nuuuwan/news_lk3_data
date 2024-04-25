@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 15:52:46**
+As of **2024-04-25 16:04:16**
 
 ## Newspaper Stats
 
-*Scraped **20,914** Articles*
+*Scraped **20,921** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 220
+bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,746
+adalk | 1,747
 tamilmirrorlk | 2,421
-adaderanalk | 2,487
+adaderanalk | 2,492
 virakesarilk | 3,149
 dailymirrorlk | 3,255
 adaderanasinhalalk | 3,378
@@ -26,61 +26,163 @@ adaderanasinhalalk | 3,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,909 (100.0%) of 20,914 articles have been extended.
+20,914 (100.0%) of 20,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### සන්නස්ගලට ඇප
+### More than 100 inmates escape after rain damages Nigerian prison
+
+*2024-04-25 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98841/more-than-100-inmates-escape-after-rain-damages-nigerian-prison) · `en`
+
+At least 118 inmates escaped from prison after heavy rains on Wednesday night damaged the facility in Suleja near the Nigerian capital, a prison service spokesperson said.
+
+Service agents were hunting the fugitives and had so far recaptured 10 of them, spokesperson Adama Duza said in a statement on Thursday.
+
+The statement gave no details on the identities or affiliation of the escaped prisoners but in the past members of the Boko Haram insurgent group have been locked up in Suleja prison.
+
+◼️
+
+[Data](articles/882bff82.json)
+
+---
+
+### Santoras released on bail
 
 *2024-04-25 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195963) · `si`
 
-රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගැනුණු හිටපු ජනප්‍රිය උපකාරක පන්ති ගුරුවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල මහතාව ඇප මත මුදාහැර තිබේ.
+Upul Shantha Sanvestgala, a former tuition teacher, was released on bail after being arrested for financial fraud.
 
-කඳාන පොලීසිය විසින් ඒ මහතාව අත්අඩංගුවට ගෙන වැලිසර අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+🟩
+
+Upul Shantha Sanvestgala has been released on bail, a former popular tuition teacher arrested on suspicion of financial fraud.
+
+The order has been issued after the Kandana Police have arrested the event and produced before the Welisara Magistrate.
 
 ◼️
 
 [Data](articles/fa8d4ee8.json)
 
+[Extended Data](ext_articles/fa8d4ee8.ext.json)
+
 ---
 
-### ඉරාන රැප් ගායකයා ට මරණ දඬුවම
+### Rap singer sentenced to death
 
 *2024-04-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195962) · `si`
 
-ඉරානයේ රාජ්‍ය විරෝධී උද්ඝෝෂණ සඳහා සහාය දුන් බවට චෝදනා එල්ල වූ එරට ප්‍රකට රැප් ගායකයෙක් වන ටූමාජ් සලෙහි ට ඉරාන අධිකරණය විසින් මරණ දණ්ඩනය නියම කර තිබේ.
+Iranian rap singer sentenced to death for supporting anti-government protests in 2022-23. Punishment eased by state media.
 
-ඒ සම්බන්ධයෙන් වාර්තා කළ එරට රාජ්‍ය මාධ්‍ය පැවසුවේ සලෙහි ට ඔහුට එරෙහිව ලබාදී ඇති දඬුවම ලිහිල්කර ගැනීමට අවස්ථාවක් ඇති බවයි.
+🟩
 
-2022-23 කාලයේදී ඉරානයේ පැවති කලහකාරී සිදුවීම් සම්බන්ධයෙන් සලෙහි ට චෝදනා එල්ලකර තිබූ බව ඔහුගේ නීතිඥවරයා පැවසීය.
+The Iranian Court of Iranian Court has been sentenced to the Tumage of the Iranian Tumage, who was accused of supporting anti-government protests.
 
-රටපුරා පැවති විරෝධතා සඳහා සහාය දක්වමින් ප්‍රකාශ නිකුත් කිරීම සම්බන්දයෙන් සලෙහි ව 2022 ඔක්තෝබර් මාසයේදී අත්අඩංගුවට ගැනුණි.
+According to the state media, the state media said that the punishment given to him was eased on the forefront.
 
-හිජාබ ය නිසි ආකාරයට පැළඳ නොසිටි බවට චෝදනා කර පොලීසිය විසින් අත්අඩංගුවට ගැනුණු 22 හැවිරිදි මාෂා අමිනී පොලිස් අත්අඩංගුවේදී මිය යාමෙන් අනතුරුව එම උද්ඝෝෂණ ඇතිවිය.
+His lawyer said that he had accused the aggressive events in Iran in 2022-23.
+
+In October 2022, 2022 was arrested in October 2022, supporting the protests throughout the country.
+
+The demonstrations were taken into police custody after the police were arrested by the police accusing the hedgery not worrying properly.
 
 ◼️
 
 [Data](articles/74ed8a8d.json)
 
+[Extended Data](ext_articles/74ed8a8d.ext.json)
+
 ---
 
-### 21/4 தாக்குதல்கள்;விசேட அறிக்கை வெளியிட்டார் கோட்டா
+### 21/4 attacks; Kota released a special report
 
 *2024-04-25 15:27:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்கள்-விசேட-அறிக்கை-வெளியிட்டார்-கோட்டா/175-336323) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான கர்தினால் மல்கம் ரஞ்சித்தின் குற்றச்சாட்டுகளுக்கு காரசாரமான மறுப்புத் தெரிவித்த முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ, கர்தினால் ரஞ்சித் பயங்கரவாதத் தாக்குதல்களில் உண்மையில் ஈடுபட்ட இரு தரப்பினரின் பொறுப்பை மறைக்கிறார் அல்லது வெளிப்படையாக அவர்களை விடுவிக்கிறார் என்று தெரிவித்துள்ளார்.
+Former President Gotabhaya Rajapakse refutes allegations by Cardinal Malcolm Ranjith regarding the Easter Sunday attacks, claiming the Cardinal is implicating both sides involved in the attacks. Rajapakse denies delays in handing over the Presidential Commission's report and alleges that the Cardinal's accusations are politically motivated.
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவுக்கு எதிராக கர்தினால் ரஞ்சித் அவர்கள் அண்மையில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் பின்வரும் குற்றச்சாட்டுகளை முன்வைத்தார்.
+🟩
 
-• ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான ஜனாதிபதி விசாரணை ஆணைக்குழுவின் அறிக்கை என்னிடம் கையளிக்கப்பட்ட மறுநாள், நான் கர்டினாலுடன் தொலைபேசியில் பேசி, அந்த அறிக்கையில் உள்ள பரிந்துரைகளை நடைமுறைப்படுத்துவதில் எனக்கு சிரமங்கள் இருப்பதாகக் கூறினேன். தனி நபர்களை கைது செய்தல் மற்றும் எனக்கு ஆதரவாக இருந்த அமைப்புகளை தடை செய்தல் போன்றவை அதில் உள்ளடக்கப்பட்டு இருந்தன.
+Former President Gotabhaya Rajapakse, who has refused to have a serious refusal to the allegations of Cardinal Malcolm Ranjith on Easter Sunday attacks, has said that Cardinal Ranjit is acting in the responsibility of the two sides who are actually involved in terrorist attacks.
 
-• ஜனாதிபதி ஆணைக்குழு அறிக்கையின் முதல் தொகுதியின் நகலை கர்தினாலுக்கு வழங்க நான் (கோட்டாபய) தாமதித்ததாகவும், எஞ்சிய தொகுதிகளை அவருக்கு வழங்கவில்லை என்றும் கூறப்பட்டது.
+Cardinal Ranjith made the following allegations at a recent media briefing against former President Gotabhaya Rajapakse.
+
+• The day after the Presidential Commission of Inquiry was handed over to me on Easter Sunday attacks, I telephoned Kardinal and told me that I had difficulties in implementing the recommendations in the report.. It included the arrest of individuals and the ban on organizations that were in favor.
+
+• It was said that I (Gotabhaya) had delayed to hand over the copy of the first constituency of the Presidential Commission to the Cardinal and did not provide the remaining constituencies.
 
 ...
 
 [Data](articles/6452250a.json)
+
+[Extended Data](ext_articles/6452250a.ext.json)
+
+---
+
+### Foreign Minister to attend special meeting of World Economic Forum in Riyadh
+
+*2024-04-25 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98840/foreign-minister-to-attend-special-meeting-of-world-economic-forum-in-riyadh) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry is scheduled to leave for Riyadh, Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development which will be held in Riyadh, Saudi Arabia from 28-29 April 2024.
+
+Convened by the World Economic Forum, the Special Meeting in Riyadh is expected to bring together leaders from diverse sectors and industries to inspire a comprehensive dialogue on the most urgent and complex issues of the day.
+
+During the visit, Foreign Minister Ali Sabry will join as a panelist in two Sessions, namely “Building the Urban Future” and “North to South, East to West: Rebuilding Trust”, the Ministry of Foreign Affairs said.
+
+On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including Saudi Arabia, the host country. The Minister will also meet the Sri Lankan community in Riyadh and visit the Sri Lankan International School in Riyadh.
+
+◼️
+
+[Data](articles/2a4d89dd.json)
+
+---
+
+### සන්නස්ගල අත්අඩංගුවට
+
+*2024-04-25 15:24:10* · [`adalk`](https://www.ada.lk/breaking_news/සන්නස්ගල-අත්අඩංගුවට/11-409264) · `si`
+
+ජනප්‍රිය YouTube වැඩසටහන් නිර්මාණ කරුවකුසේම මීට පෙර උපකාරක පන්ති ගුරුවරයකුව සිටි උපුල් ශාන්ත සන්නස්ගල පොලීිසිය විසින් අත්අඩංගුවට ගෙන තිබෙනවා.
+
+රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්දව සිදුකළ පැමිණිල්ලකට අනුව සිදුකල විමර්ශනවලට අදාළව සැකපිට ඔහු අත්අඩංගුවට ගෙන ඇතිබව වාර්තා වනවා.
+
+◼️
+
+[Data](articles/72c0edb5.json)
+
+---
+
+### JICA to commence second phase of Anuradhapura North Water Supply Project
+
+*2024-04-25 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98839/jica-to-commence-second-phase-of-anuradhapura-north-water-supply-project) · `en`
+
+The Japanese International Cooperation Agency (JICA) has agreed to commence the second phase of the Anuradhapura North Water Supply Project, says State Minister of Finance Shehan Semasinghe.
+
+He said the second phase of the project will meet the drinking water needs of 50,000 families in Padaviya, Kebithigollewa, Horowpothana and Kahatagasdigiliya divisional secretariats covering 119 Grama Niladari Divisions.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe expressed that JICA has expressed its agreement to extend the time frame for providing financial facilities for the start of the second phase of the Anuradhapura North Water Supply Project.
+
+Furthermore, he said that instructions were given to the Water Supply and Drainage Board to obtain the necessary Cabinet approval to resume the work.
+
+...
+
+[Data](articles/939bb1e9.json)
+
+---
+
+### Parliament grants three-months leave for MP R. Sampanthan
+
+*2024-04-25 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98838/parliament-grants-three-months-leave-for-mp-r-sampanthan) · `en`
+
+TNA leader and Trincomalee District Parliamentarian R. Sampanthan has been granted leave of three months from attending Parliament sessions.
+
+The proposal to provide three-months leave was passed in the Parliament today (25).
+
+Chief Opposition Whip Lakshman Kiriella brought up the proposal in the Parliament while it was affirmed by Tamil National Alliance (TNA) MP Charles Nirmalanathan.
+
+Veteran Tamil politician R. Sampanthan, who is aged 91 years, is reported to be suffering from an illness.
+
+◼️
+
+[Data](articles/acf97336.json)
 
 ---
 
@@ -159,6 +261,20 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 [Data](articles/2997ae45.json)
 
 [Extended Data](ext_articles/2997ae45.ext.json)
+
+---
+
+### Upul Shantha Sannasgala granted bail
+
+*2024-04-25 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98836/upul-shantha-sannasgala-granted-bail) · `en`
+
+UPDATE: Upul Shantha Sannasgala, who was arrested earlier on Thursday has been released on bail, on the orders of Welisara Magistrate’s Court.
+
+Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
+
+◼️
+
+[Data](articles/d242f60b.json)
 
 ---
 
@@ -952,21 +1068,27 @@ The hospital administration said that there were some minor injuries on the leg 
 
 ---
 
-### කිලෝ ග්‍රෑම් 802ක මැණික් ගලට මිලක් තියා මිලදි ගන්න අවස්ථාව
+### 802kg of gems will be buying a price of gems
 
 *2024-04-25 12:03:49* · [`adalk`](https://www.ada.lk/picture_story/කිලෝ-ග්‍රෑම්-802ක-මැණික්-ගලට-මිලක්-තියා-මිලදි-ගන්න-අවස්ථාව/10-409255) · `si`
 
-වර්ෂ 2022 දී බලංගොඩ රජවක ප්‍රදේශයේ මැණික් පතලකින් හමුවූ බව කියන කිලෝග්‍රෑම් 802 ක් බරැති රුපියල් කෝටි ගණනක් වටිනා කොරන්ඩම් වර්ගයේ විශාල මැණික් ගලක් මේ වන විට ඇල්ල ප්‍රදේශයේ හෝටලයක අලෙවිය සඳහා තැන්පත් කර ඇත.
+A 802kg gemstone mix, stolen from Ella Mount Vegan Hotel, was valued at $60M, inspected, and appraised by buyers.
 
-ගැණුම්කරුවන්ට පරීක්ෂා කොට මිළ ගණන් ඉදිරිපත් කිරීමට අවස්ථාව සළසමින් මේ වන විට ඇල්ල මවුන්ට් හෙවන් හෝටලයේ මෙම මැණික් ගල තැන්පත් කර ඇති එය ඇමෙරිකන් ඩොලර් මිලියන 60 ක මිළකට තක්සේරු කර ඇතැයිද මෙය මේ වන විට ලංකාවේ ඇති කොරන්ඩම් වර්ගයේ විශාලම කෞතුකාගාර ගල බවද එම මැණික් ගල භාරව සිටින කුෂාන් පී. සෙනෙවිරත්න මහතා පවසයි.
+🟩
 
-එසේම මේ වන විටත් ගැණුම්කරුවන් කිහිප දෙනෙක් මෙම ගල පරීක්ෂා කර බලා මිළ ගණන් ඉදිරිපත් කර ඇති බවත් තව දුරටත් ගැණුම්කරුවන්ට ඒ සඳහා අවස්ථාව ඇති බවත් හෙතෙම වැඩි දුරටත් සඳහන් කළේය.
+A large gem stone in a gem mix of Rs.
 
-මෙම ගල සම්බන්ධයෙන් අදාළ අංශයන් මඟින් ලබාගත් සහතික හා තක්සේරු වාර්තාද මෙම මැණික් ගල සමඟ ප්‍රදර්ශනය කොට තිබේ.
+The gem stolen at the Ella Mount Vegan Hotel has been planted at the Ella Mount Vegan Hotel, which has been inspected by US $ 60 million at a cost of US $ 60 million.P. Says Seneviratne.
+
+Several buyers have already examined the stone and have already submitted the prices.
+
+The certificates and valuation reports received by the relevant divisions have been displayed with this gem stone.
 
 ◼️
 
 [Data](articles/811b2145.json)
+
+[Extended Data](ext_articles/811b2145.ext.json)
 
 ---
 
@@ -1760,6 +1882,28 @@ According to the incident, the police said that they were arrested due to the le
 
 ---
 
+### උපුල් ශාන්ත සන්නස්ගල හදිසියේ අත්අඩංගුවට ගත්තේ ඇයි?
+
+*2024-04-25 09:24:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51n2j5zyjvo) · `si`
+
+සිංහල උපකාරක පන්ති ගුරුවරයෙකු සහ ග්‍රන්ථ කර්තෘවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල අද (අප්‍රේල් 25) පෙරවරුවේ අත්අඩංගුවට ගත් බව පොලිසිය පවසයි.
+
+කඳාන ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගෙන් රුපියල් ලක්ෂ 10ක් වංචා කළ බවට අදාළ ව්‍යාපාරිකයා විසින් කරන ලද පැමිණිල්ලකට අනුව ඔහු අත්අඩංගුවට ගත් බව කඳාන පොලිසිය පැවසීය.
+
+උපුල් ශාන්ත සන්නස්ගල, අදාළ ව්‍යාපාරිකයාගෙන් මීට වසර දෙකකට පමණ පෙර චිත්‍රපටයක් නිෂ්පාදනය කිරීම සඳහා බව පවසමින් නැවත දෙන පොරොන්දුව පිට රුපියල් ලක්ෂ 10ක මුදලක් ලබාගෙන තිබුණු බවට ව්‍යාපාරිකයා පොලිසියට පැමිණිලි කර තිබේ.
+
+නැවත ලබා දෙන බව පැවසුව ද, වසර දෙකක කාලයක් ගත වී ඇතත් ඔහු එම මුදල තමාට ලබා නොදී මග හරින බව ව්‍යාපාරිකයා චෝදනා කරයි.
+
+කෙසේ වෙතත්, උපුල් ශාන්ත සන්නස්ගල පොලිසියට පවසා තිබුණේ, අදාළ මුදල පරිත්‍යාගයක් ලෙස තමාට ලැබුණු බව ය.
+
+මේ සම්බන්ධයෙන් පසුගිය දා උපුල් ශාන්ත සන්නස්ගල පොලිසියට කැඳවූ අවස්ථාවේ එම මුදල සති දෙකක් තුළ ගෙවීමට පියවර ගන්නා බවට වූ පොරොන්දුව පිට පොලිසිය ඔහු මුදා හැර තිබිණි.
+
+...
+
+[Data](articles/7f1b4372.json)
+
+---
+
 ### A new story about the price of milk powder
 
 *2024-04-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195948) · `si`
@@ -2127,123 +2271,5 @@ The thirst for stories is evidenced in how people attended book fairs through th
 [Data](articles/48729d9a.json)
 
 [Extended Data](ext_articles/48729d9a.ext.json)
-
----
-
-### Hambantota Port’s container services will make Sri Lanka a key logistics hub in Indian Ocean
-
-*2024-04-25 05:25:55* · [`dailyftlk`](https://www.ft.lk/columns/Hambantota-Port-s-container-services-will-make-Sri-Lanka-a-key-logistics-hub-in-Indian-Ocean/4-761006) · `en`
-
-Sri Lanka is an island nation situated in a strategically important location in the Indian Ocean Region at the centre of maritime trade routes in between East and West, as well as in the middle of Africa, the Arab, and Eastern worlds and is surrounded by the Bay of Bengal and the Arabian Sea.
-
-Sri Lanka’s location enables the country to provide quick and efficient global and regional connectivity to move cargo to and from Asia to the rest of the world. More than 60,000 ships ply this route annually, carrying two-thirds of the world’s oil and half of the global containerised traffic.
-
-Sri Lanka, also located very close to all major ports in the Indian subcontinent, especially those of India, with the rising middle class, makes it a prime location that is able to provide fast and easy connectivity to the Indian subcontinent through its feeder network.
-
-...
-
-[Data](articles/2e2ae087.json)
-
-[Extended Data](ext_articles/2e2ae087.ext.json)
-
----
-
-### We need a revisionist president, not merely a reformist one
-
-*2024-04-25 05:21:57* · [`dailyftlk`](https://www.ft.lk/columns/We-need-a-revisionist-president-not-merely-a-reformist-one/4-761005) · `en`
-
-SJB presidential campaign manager Sujeewa Senasinghe and live-wire SM Marikkar accuse President Wickremesinghe of refusing the SJB its request of venue for May 1st and switching that preferred location to the JVP-NPP instead.
-
-Meanwhile, six SJB MPs including shadow Finance Minister Dr Harsha de Silva accept decentralized funds from President Wickremesinghe allegedly without obtaining party permission. (https://www.dailymirror.lk/breaking-news/SJB-embroiled-in-controversy-after-its-MPs-secure-funds-from-Govt-without-party-approval/108-281121)
-
-Is Ranil already a shareholder of the SJB, while simultaneously undermining it? Is he patronizing policy proxies in the SJB?
-
-Little wonder then, as Prof Charitha Herath noted, that the SJB challenges the JVP-NPP to a debate on economics, but doesn’t challenge the incumbent and his administration with its austerity policies, to any such debate.
-
-...
-
-[Data](articles/f8a6ff10.json)
-
-[Extended Data](ext_articles/f8a6ff10.ext.json)
-
----
-
-### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
-
-*2024-04-25 05:19:28* · [`dailyftlk`](https://www.ft.lk/columns/Austerity-dispossession-and-injustice-Facets-of-the-debt-crisis-in-Sri-Lanka/4-761004) · `en`
-
-The widespread and ongoing debt crisis today is a wakeup call
-
-Sri Lanka defaulted on its external debt for the first time in its postcolonial history in April 2022. The International Monetary Fund (IMF)-led process of recovery that followed has not only been disastrous in terms of the economic policy package proposed by the Government. The underlying analysis of the causes of the debt crisis itself is also flawed. Sri Lanka provides lessons about both the broken global financial system and the widespread consequences of an unjust debt resolution architecture affecting other countries in the Global South.
-
-...
-
-[Data](articles/178defff.json)
-
-[Extended Data](ext_articles/178defff.ext.json)
-
----
-
-### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
-
-*2024-04-25 05:19:28* · [`dailyftlk`](https://www.ft.lk/opinion/Austerity-dispossession-and-injustice-Facets-of-the-debt-crisis-in-Sri-Lanka/14-761004) · `en`
-
-The widespread and ongoing debt crisis today is a wakeup call
-
-Sri Lanka defaulted on its external debt for the first time in its postcolonial history in April 2022. The International Monetary Fund (IMF)-led process of recovery that followed has not only been disastrous in terms of the economic policy package proposed by the Government. The underlying analysis of the causes of the debt crisis itself is also flawed. Sri Lanka provides lessons about both the broken global financial system and the widespread consequences of an unjust debt resolution architecture affecting other countries in the Global South.
-
-...
-
-[Data](articles/d894ff28.json)
-
-[Extended Data](ext_articles/d894ff28.ext.json)
-
----
-
-### International Industry Expo 2024 in June
-
-*2024-04-25 05:13:27* · [`dailyftlk`](https://www.ft.lk/front-page/International-Industry-Expo-2024-in-June/44-761003) · `en`
-
-In anticipation of the upcoming industry exhibition, the “International Industry Expo 2024”, excitement is building as less than two months are left until the exciting event unfolds. Recognised as the largest South Asian industry exhibition of the year covering a wide range of industries, International Industry Expo 2024 is poised to bring together diverse participants from all over the country under one roof at the Bandaranaike Memorial International Conference Hall (BMICH) from 19 to 23 June 2024.
-
-With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibition offers a rich tapestry of experiences designed to inspire, educate, and facilitate vibrant displays of cutting-edge technology, interactive demos, and meaningful connections directly with manufacturers.
-
-...
-
-[Data](articles/8c5e31bd.json)
-
-[Extended Data](ext_articles/8c5e31bd.ext.json)
-
----
-
-### International Industry Expo 2024 in June
-
-*2024-04-25 05:13:27* · [`dailyftlk`](https://www.ft.lk/news/International-Industry-Expo-2024-in-June/56-761003) · `en`
-
-In anticipation of the upcoming industry exhibition, the “International Industry Expo 2024”, excitement is building as less than two months are left until the exciting event unfolds. Recognised as the largest South Asian industry exhibition of the year covering a wide range of industries, International Industry Expo 2024 is poised to bring together diverse participants from all over the country under one roof at the Bandaranaike Memorial International Conference Hall (BMICH) from 19 to 23 June 2024.
-
-With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibition offers a rich tapestry of experiences designed to inspire, educate, and facilitate vibrant displays of cutting-edge technology, interactive demos, and meaningful connections directly with manufacturers.
-
-...
-
-[Data](articles/f9af1e45.json)
-
-[Extended Data](ext_articles/f9af1e45.ext.json)
-
----
-
-### Moragoda designated as Honorary Senior Fellow of National University of Singapore’s ISAS
-
-*2024-04-25 05:11:14* · [`dailyftlk`](https://www.ft.lk/news/Moragoda-designated-as-Honorary-Senior-Fellow-of-National-University-of-Singapore-s-ISAS/56-761002) · `en`
-
-In continuation of his association with the National University of Singapore’s Institute of South Asian Studies (ISAS), Former Cabinet Minister, Ambassador and Founder of the Pathfinder Foundation, Milinda Moragoda, has been recently designated as an Honorary Senior Fellow by the institution.
-
-The ISAS was established in 2004 as an autonomous research institute at the National University of Singapore. Its establishment reflects the increasing economic and political importance of South Asia and the strong historical links between South Asia and Southeast Asia. The institution, dedicated to research on contemporary South Asia, seeks to promote understanding of this vital region and to communicate knowledge and insights about it to policy makers, the business community, academia, and civil society in Singapore and beyond.
-
-◼️
-
-[Data](articles/34175bfe.json)
-
-[Extended Data](ext_articles/34175bfe.ext.json)
 
 ---

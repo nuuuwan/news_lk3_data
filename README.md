@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 22:04:59**
+As of **2024-04-25 22:18:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,984 (100.0%) of 20,989 articles have been extended.
+20,989 (100.0%) of 20,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The MACC’s chief commissioner, Azam Baki, on Thursday declined to elaborate on
 
 [Data](articles/17afe00b.json)
 
+[Extended Data](ext_articles/17afe00b.ext.json)
+
 ---
 
 ### Let’s not get into a ‘Aragalaya’ again: President
@@ -70,25 +72,33 @@ Highlighting the successful rebuilding of the collapsed economy within two years
 
 [Data](articles/b219c5ae.json)
 
+[Extended Data](ext_articles/b219c5ae.ext.json)
+
 ---
 
-### ආගමන විගමන දෙපාර්තමේන්තුවෙන් විශේෂ දැනුම්දීමක්
+### Special notice from the Department of Immigration and Emigration
 
 *2024-04-25 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195972) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුව විසින් ජනතාව වෙත විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Immigration and Emigration has issued a special notice, advising the public to use only the e-visa link on their website. They've also warned against scams, mentioning a website similar to http://www.srilankaevisa.lk. They've launched a new online system for immigration.
 
-එමගින් දැනුම්දී ඇත්තේ මාර්ගගත වීසා අයදුම් කිරීමේදී http://www.immigration gov.lk වෙබ් අඩවියේ e visa සබැඳිය පමණක් භාවිත කරන ලෙසටය.
+🟩
 
-ආගමන විගමන දෙපාර්තමේන්තුව වැඩිදුරටත් පෙන්වාදෙන්නේ http://www.srilankaevisa.lk වෙබ් අඩවියට සමාන ව්‍යාජ වෙබ් අඩවි වෙත පිවිස මුදල් ගෙවීමේ අවස්ථාවන් පවතින බවට තොරතුරු වාර්තා වී ඇති බවය.
+The Department of Immigration and Emigration has issued a special announcement to the public.
 
-එම දෙපාර්තමේන්තුව සිය නිවේදනයෙන් වැඩිදුරටත් සඳහන් කර ඇත්තේ අප්‍රේල් මස 17 වනදා සිට ආගමන විගමන දෙපාර්තමේන්තුවේ නව වීසා ක්‍රමවේදය ක්‍රියාත්මක කිරීම හා නව මාර්ගගත ක්‍රමවේදය ක්‍රියාත්මක කිරීම ආරම්භ කර ඇති බවය.
+It has been informed that only the website e visa link is used on the website.
 
-ඊට අදාළව ආගමන විගමන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනය පහතින්,
+The Department of Immigration, further showed that there are reports that there are times when there are cases of money equivalent to http://www.srilankaevisa.lk.
+
+The Department further stated that the Department has said that the implementation of the new online system of immigration and the implementation of the new online method has been launched.
+
+The demise of the Immigration and Emigration's Department is listed below,
 
 ◼️
 
 [Data](articles/86d7df4f.json)
+
+[Extended Data](ext_articles/86d7df4f.ext.json)
 
 ---
 
@@ -165,6 +175,8 @@ Businessman Kalinga Silva, who is engaged in producing disposable surgical items
 ...
 
 [Data](articles/2285a38f.json)
+
+[Extended Data](ext_articles/2285a38f.ext.json)
 
 ---
 
@@ -949,6 +961,8 @@ Japan Provides USD 3 million through the Food and Agriculture Organisation (FAO)
 ◼️
 
 [Data](articles/3de5ae96.json)
+
+[Extended Data](ext_articles/3de5ae96.ext.json)
 
 ---
 

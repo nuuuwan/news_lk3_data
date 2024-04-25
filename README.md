@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 04:33:53**
+As of **2024-04-26 04:52:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,031 (100.0%) of 21,032 articles have been extended.
+21,032 (100.0%) of 21,032 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -162,19 +162,27 @@ Rajapaksa said the discussions focused on enhancing bilateral ties and future pl
 
 ---
 
-### ’பிள்ளையானை கைது செய்தால் உண்மைகள் வெளிவரும்’
+### If the child is arrested, the facts come out
 
 *2024-04-26 01:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானை-கைது-செய்தால்-உண்மைகள்-வெளிவரும்/175-336360) · `ta`
 
-பிள்ளையான் எம்.பியை கைது செய்து விசாரணை நடத்தினால் 2005 முதல் உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் வரையிலான அனைத்த உண்மை தகவல்களையும் அறிந்துகொள்ளலாம் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் தெரிவித்தார்.
+TNA's Chanakyan Rasamanikam suggests that arresting Pillaiyan MP could reveal facts about attacks from 2005 to the 2019 Survival Sunday attack. Despite ongoing investigations since 2014, including the involvement of the Intelligence Unit of Sri Lanka and the arrest of several individuals, the connection between these incidents and the Survival Sunday attack remains unclear.
 
-உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பில் பாராளுமன்றத்தில்   வியாழக்கிழமை (25) நடைபெற்ற சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல் 2019ஆம் ஆண்டில் நடந்திருந்தாலும் அதனுடன் தொடர்புடைய குழுக்கள் 2005ஆம் ஆண்டு முதல் இந்த நாட்டில் செயற்பட்டு வந்துள்ளனர். இது தொடர்பில் அடிக்கடி கூறியிருந்தாலும் இதன் பாரதூரதன்மை தொடர்பில் புரிந்துகொள்ளாது இருக்கின்றனர். எவ்வாறாயினும் தற்போது 2014ஆம் ஆண்டில் நடந்த சம்பவமொன்று தொடர்பில் மீண்டும் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that if Pillaiyan MP was arrested and investigated, all the facts from 2005 to the survival Sunday attack could be found.
+
+He was speaking at the second day of the post -adjournment debate in Parliament on Thursday (25) in Parliament on the Sunday attack.
+
+Although the survival Sunday attack took place in 2019, the relevant groups have been operating in this country since 2005. Despite frequently said in this regard, they do not understand the matter. However, investigations have been resumed in connection with an incident in 2014.
+
+Intelligence Committee has been launched by the Intelligence Unit of Sri Lanka. In 2004, an organization called Imanian Heart. The group is also included in the police Boise, Amy Mohitin and Khalil. A man named Khalil is released to jail in the murder of Joseph Pararajasingham.
 
 ...
 
 [Data](articles/00249b03.json)
+
+[Extended Data](ext_articles/00249b03.ext.json)
 
 ---
 

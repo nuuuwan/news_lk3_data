@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 12:34:06**
+As of **2024-04-25 12:51:20**
 
 ## Newspaper Stats
 
-*Scraped **20,866** Articles*
+*Scraped **20,868** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,94 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,183
-adalk | 1,737
+adalk | 1,738
 tamilmirrorlk | 2,414
 adaderanalk | 2,481
 virakesarilk | 3,142
-dailymirrorlk | 3,250
+dailymirrorlk | 3,251
 adaderanasinhalalk | 3,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,864 (100.0%) of 20,866 articles have been extended.
+20,866 (100.0%) of 20,868 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### WFP அரிசியை அரசாங்க அரிசியுடன் கலக்க வேண்டாம்
+### Man who jumped off Sri Pada Uda Maluwa and went missing, found
+
+*2024-04-25 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-jumped-off-Sri-Pada-Uda-Maluwa-and-went-missing-found/108-281352) · `en`
+
+Police found the 33-year-old pilgrim who had climbed Sri Pada and had gone missing after jumping off the protective fence at the Ratnapura-Sri Pada route at the Uda Maluwa.
+
+The police found him lying in the Rajamalai Estate and admitted him to the Dikoya Hospital.
+
+They said the Siripagama Police and the STF, with the help of the army, had launched a search operation to trace the young man from where he had jumped.
+
+He jumped over the protective fence near the steps leading to Sri Padasthana on April 17 and disappeared.
+
+Residents of the area found him lying in Rajamalai Estate on Wednesday (24) and reported it to the Nallathanniya police and later he was admitted to the Dikoya Hospital.
+
+The circumstances which led him to jump into the precipice are yet to be established. The Nallathanniya and Siripagama police are conducting further investigations.
+
+...
+
+[Data](articles/d188d255.json)
+
+---
+
+### Do not mix WFP rice with government rice
 
 *2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WFP-அரிசியை-அரசாங்க-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
 
-பாடசாலைகளுக்கு விநியோகிக்கப்பட்டு வருகின்ற, குழந்தைகளின் பாவனைக்கு ஏற்றதல்ல என கூறப்படும் அரிசி உலக உணவுத் திட்டத்தினால் (WFP) வழங்கப்பட்டதே தவிர அரசாங்கத்தினால் வழங்கப்படவில்லை என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த இன்று உறுதியளித்துள்ளார்.
+Education Minister Susil Premajayantha assures that rice from the World Food Scheme (WFP) is not suitable for children and should not be mixed with government rice. The government ensures food is safe for children and conducts quality tests. The state provides Rs. 110 per child, advising against mixing WFP rice with government funds.
 
-இன்று பாராளுமன்றத்தில் உரையாற்றிய அவர், அரசாங்க வேலைத்திட்டத்திற்கு ஆதரவாக WFP இனால் அந்த அரிசி பொதிகள் கூடுதலாக வழங்கப்பட்டதாக தெரிவித்தார்.
+🟩
 
-அரசு நிதியில் விநியோகிக்கப்படும் உணவு குழந்தைகள் சாப்பிடுவதற்கு ஏற்றது என்பதை அரசு உறுதி செய்கிறது. சுகாதார சேவைகள் பணிப்பாளர் நாயகத்தின் ஊடாக மாகாண கல்வி நிலையங்களுக்கு அரிசி கையிருப்பு வழங்கப்பட்ட பின்னரும், மாகாண பொது சுகாதார பரிசோதகர்களின் (PHIs) உதவியுடன் வழக்கமான தர சோதனைகளுக்கு அவர்கள் ஆலோசனை வழங்குவதாக அமைச்சர் பிரேமஜயந்த தெரிவித்தார்.
+Education Minister Susil Premajayantha has today assured that the rice is supplied by the World Food Scheme (WFP) that is supplied to schools and is not suitable for the use of children.
 
-அரசு பல்வேறு வளங்களிலிருந்து வரும் கூடுதல் நிதியின் மூலம் ஒவ்வொரு குழந்தைக்கும்  ரூ. 110 ஒதுக்கியுள்ளது . இதன் விளைவாக, WFP திட்டத்தின் மூலம் வழங்கப்படும் அரிசியுடன் அரசாங்கத்தின் நிதியுதவியில் உள்ள அரிசியை கலக்க வேண்டாம் என்று அமைச்சர் கேட்டுக்கொண்டார்.
+Speaking to Parliament today, he said the rice packages were provided by the WFP in support of the government program.
+
+The government ensures that the food distributed in government funds is suitable for children's eating. Minister Premajayantha said that they would advise regular quality tests with the help of the Provincial Public Health Inspectors (PHIS), even after the rice reserves were provided to the provincial educational centers through the Director General of Health Services.
+
+The state government has an additional funding from various resources to each child for Rs.. 110 has been assigned. As a result, the Minister asked the government not to mix the rice in the government's funding with the rice provided by the WFP scheme.
 
 ◼️
 
 [Data](articles/8f9c8fed.json)
 
+[Extended Data](ext_articles/8f9c8fed.ext.json)
+
 ---
 
-### ஸ்ரீ பாத மலையில் இருந்து குதித்த  இளைஞன்  மீட்பு
+### Rescue
 
 *2024-04-25 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஸ்ரீ-பாத-மலையில்-இருந்து-குதித்த-இளைஞன்-மீட்பு/76-336311) · `ta`
 
-சிவனொளிபாதமலை  முற்றத்தில் இருந்து கீழே குதித்து காணாமல் போன இளைஞன் புதன்கிழமை  (24) மதியம்  கண்டு பிடிக்கப்பட்டதாக நல்லதண்ணிய பொலிஸார் தெரிவித்துள்ளனர் .
+A 33-year-old man, Dinesh Hemantha, was found unconscious after disappearing from Sivanolipadamalai. He was rescued by police and admitted to Maskeliya Divisional Hospital, later transferred to Dick Oya Hospital. He had minor leg injuries and was in stable condition.
 
-ஹம்பாந்தோட்டை, சூரியவெவ பிரதேசத்தில் இருந்து இரண்டு பெண்களுடன்  சிவனொளிபாதமலை சென்ற தினேஷ ஹேமந்த (33) என்ற இளைஞன்  ஸ்ரீ பாத உட மலுவ பாதுகாப்பு வேலியில் இருந்து கீழே குதித்துள்ள காணொளி,  நிறுவப்பட்ட பாதுகாப்பு கேமராவில்  பதிவாகியுள்ளது
+🟩
 
-இந்நிலையில் நல்லதண்ணிய  பொலிஸ் பிரிவிற்குட்பட்ட மரே தோட்டத்தை சேர்ந்த இளைஞர்  சிலர்  விறகு  வெட்டுவதற்காக சென்றுள்ள போது  காணாமல் போன  இளைஞன் சுயநினைவின்றி  கிடப்பதை  கண்டு   நல்லதண்ணிய பொலிஸாருக்கு  தெரிவித்துள்ளனர் .
+A good man who disappeared from the Sivanolipadamalai courtyard was found on Wednesday (24) afternoon, police said.
 
-அதற்கமைய  உடனடியாக  அவ் இடத்திற்கு  சென்ற  பொலிஸார் குறித்த  இளைஞனை  மீட்டு  மஸ்கெலியா பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர்  டிக் ஓயா  வைத்தியசாலைக்கு  மாற்றப்பட்டுள்ளார் .
+Dinesh Hemantha (33), a young man who went to Sivanolipadamalai with two women from Suryawewa, Hambantota
 
-...
+In this case, some of the youths from the Mare Estate of the Nallathani police division have told the good police that the missing young man was unconscious when he went to cut firewood.
+
+The police who immediately went to the place were rescued and admitted to the Maskeliya Divisional Hospital and later transferred to the Dick Oya Hospital.
+
+When the young man commented to the media at the Maskeliya Hospital, he said, "I do not remember what happened to me on the road of Sri Pada Udamaluwa. When I returned to self -consciousness, I was near a canal, and then slowly down the canal for five days.I only drink and solve hunger. ”
+
+The hospital administration said that there were some minor injuries on the leg of the young man and his condition was not worrisome.
+
+◼️
 
 [Data](articles/0c14a6b9.json)
+
+[Extended Data](ext_articles/0c14a6b9.ext.json)
 
 ---
 
@@ -551,6 +589,22 @@ Dambulla police said that 24 hours was taken to chase wild elephants.
 [Data](articles/a59d1302.json)
 
 [Extended Data](ext_articles/a59d1302.ext.json)
+
+---
+
+### ජනපතිවරයා ඡන්දේ තියයිද නැත්ද අපි දන්නේ නෑ
+
+*2024-04-25 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරයා-ඡන්දේ-තියයිද-නැත්ද-අපි-දන්නේ-නෑ/11-409251) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා පොදුජන පෙරමුණින් අපේක්ෂකයෙක් ඉදිරිපත් කරන බවත් ජනපතිවරයා ඡන්දය පවත්වාවිද නොපවත්විවද නොදන්න බවත් පාර්ලිමේන්තු මන්ත්‍රි නාමල් රාජපක්ෂ මහතා පැවැසිය.
+
+ජනපතිවරණය පැවැත්වුවහොත් ඒ් සඳහා ඉදිරිපත් කිරිමට තම පක්ෂය තුළ අපේක්ෂකයන් කිහිප දෙනෙකුම සිටින බවද ඔහු පැවැසිය.
+
+"අපි දන්නේ නෑ ජනාධිපතිතුමා ඡන්දය තියයි ද නැද්ද දන්නෙත් නෑ. ශ්‍රී ලංකා පොදුජන පෙරමුණ මැතිවරණයට ඉදිරිපත් වෙනවා. ඡන්ද පත්‍රිකාවේ පොහොට්ටුවේ ලකුණ තියෙනවා. අපේක්ෂකයා පිළිබඳව වෙලාවට කියන්නම්. ජනාධිපතිවරණයට පොදුජන පෙරමුණෙන් ලැයිස්තුවක් ඉන්නවා. ඒකෙන් අපි කාලෙට සුදුසු සහ අභියෝග ජයගන්න පුළුවන් කෙනා අපි ඉදිරිපත් කරනවා."
+
+◼️
+
+[Data](articles/98be52e6.json)
 
 ---
 
@@ -2185,47 +2239,5 @@ Meanwhile, the police are carrying out investigations with the help of surveilla
 [Data](articles/3d053416.json)
 
 [Extended Data](ext_articles/3d053416.ext.json)
-
----
-
-### 5 Memorandum of Understanding Between Iran and Sri Lanka
-
-*2024-04-24 21:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈரானுக்கும்-இலங்கைக்கும்-இடையில்-5-புரிந்துணர்வு-ஒப்பந்தங்கள்/175-336294) · `ta`
-
-Iran and Sri Lanka signed five MoUs to enhance cooperation in film, media, tourism, libraries, culture, science, technology, and sports. The meetings were led by Iranian President Dr. Ibrahim Raisi and Sri Lankan President Ranil Wickremesinghe.
-
-🟩
-
-Five Memorandums Agreements were signed to strengthen bilateral relations between Iran and Sri Lanka.
-
-The Presidential Media Unit said that through these Memorandum of Understanding, the cooperation between the two countries will be improved in the fields of film industry, media, tourism, co -operative, libraries, culture, science, technology and sports.
-
-Dr. Ibrahim Raisi for Iranian President. The official meeting between President Ranil Wickremesinghe was held at the Presidential Office.
-
-It is noteworthy that five Memorandum of Understanding (MoU) were signed between Iran and Sri Lanka. Remble
-
-◼️
-
-[Data](articles/86fd68d9.json)
-
-[Extended Data](ext_articles/86fd68d9.ext.json)
-
----
-
-### Road closures spark public outcry during Iranian President’s visit
-
-*2024-04-24 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Road-closures-spark-public-outcry-during-Iranian-Presidents-visit/108-281300) · `en`
-
-Colombo, April 24 (Daily Mirror)- The closure of roads in Colombo without prior notice during evening rush hours as part of security arrangements for the visit of Iranian President Ebrahim Raisi inconvenienced the public and motorists alike.
-
-Incensed by the notice of road closures, they vented their anger by honking horns. The government made tight security arrangements in view of the visit of the Iranian leader for the inauguration of the Uma Oya project.
-
-The roads were closed to facilitate the movement of his convoy without any prior notice as a security measure, but the motorists’ protest amounts to kind of an embarrassment for the government during the visit of a friendly country that has stood by Sri Lanka during its trying times. Iran and Sri Lanka have enjoyed excellent ties for decades and cooperated with each other in numerous international forums.
-
-◼️
-
-[Data](articles/6c50bf48.json)
-
-[Extended Data](ext_articles/6c50bf48.ext.json)
 
 ---

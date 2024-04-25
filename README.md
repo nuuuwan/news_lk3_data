@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 10:03:37**
+As of **2024-04-25 10:18:32**
 
 ## Newspaper Stats
 
-*Scraped **20,834** Articles*
+*Scraped **20,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,733
-tamilmirrorlk | 2,408
+tamilmirrorlk | 2,409
 adaderanalk | 2,477
 virakesarilk | 3,136
 dailymirrorlk | 3,248
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,833 (100.0%) of 20,834 articles have been extended.
+20,834 (100.0%) of 20,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### O/L பரீட்சை தொடர்பில் விசேட அறிவித்தல்
+
+*2024-04-25 10:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-தொடர்பில்-விசேட-அறிவித்தல்/175-336305) · `ta`
+
+எதிர்வரும் கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையை இலக்காகக் கொண்டு இடம்பெறும் மேலதிக வகுப்புகள் மற்றும் கருத்தரங்குகள்  எதிர்வரும் 30ஆம் திகதி நள்ளிரவு முதல் இடைநிறுத்தப்படும் என பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, அன்றைய தினம் நள்ளிரவு 12.00 மணி முதல் இது நடைமுறைக்கு வரும் என அதன் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+எதிர்வரும் மே மாதம் 6 ஆம் திகதி முதல் 15 ஆம் திகதி வரை சாதாரண தரப் பரீட்சை நடைபெறவுள்ளது.
+
+இதேவேளை, அண்மையில் நடைபெற்ற உயர்தரப் பரீட்சையின் பெறுபேறுகள் மே மாத இறுதியில் வெளியிடப்படும் எனவும் பரீட்சை திணைக்களம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/a71fe48f.json)
+
+---
 
 ### Spain’s PM Pedro Sánchez halts public duties as wife faces inquiry
 
@@ -56,17 +74,23 @@ The Spanish prime minister said he would make a decision on his future before th
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-04-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195949) · `si`
 
-මේ අතර, පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ සභාව කල් තැබිමේ විවාදයේ දෙවන දිනය අදයි.
+The Parliamentary Council's Peace on Adjourn debate on the Passover attack, launched on the 24th, continues on the 25th, with a conclusion expected on the 26th.
 
-අදාළ විවාදය ඊයේ (24)  දිනයේ ආරම්භ වූ අතර එය හෙට (26) දිනයේත් පැවැත්වීමට නියමිතව තිබේ.
+🟩
+
+Meanwhile, the Peace on Adjourn on the Passover attack is the second day of the debate today.
+
+The debate was launched yesterday (24) and will be held tomorrow (26).
 
 ◼️
 
 [Data](articles/df1e8416.json)
+
+[Extended Data](ext_articles/df1e8416.ext.json)
 
 ---
 
@@ -2163,31 +2187,5 @@ I would like to thank Sri Lankan President Ranil Wickremesinghe for an invitatio
 [Data](articles/c3dd64f4.json)
 
 [Extended Data](ext_articles/c3dd64f4.ext.json)
-
----
-
-### Russian deputy defense minister arrested for bribery
-
-*2024-04-24 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98821/russian-deputy-defense-minister-arrested-for-bribery) · `en`
-
-In a glass cage in a Moscow court stands Russia’s Deputy Defense Minister Timur Ivanov on Wednesday (April 24), a day after he was arrested at work for accepting large bribes.
-
-The court remanded him in custody for two months and said Ivanov entered into a criminal conspiracy with third parties to receive property and services while working for the ministry of defense.
-
-Ivanov, deputy minister since 2016, was in charge of property management, housing, construction and mortgages.
-
-The defense ministry, whose spending has spiraled since the start of the war, has made no comment.
-
-As the right hand man of Defense Minister Sergei Shoigu, Ivanov’s detention is the highest profile corruption case since Russia sent troops into Ukraine in February 2022.
-
-The Kremlin said President Vladimir Putin had been informed, and Shoigu had also been told.
-
-Ivanov was present earlier on Tuesday at a meeting of top defense officials chaired by Shoigu.
-
-...
-
-[Data](articles/b164444b.json)
-
-[Extended Data](ext_articles/b164444b.ext.json)
 
 ---

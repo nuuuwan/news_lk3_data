@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 11:34:15**
+As of **2024-04-25 11:53:18**
 
 ## Newspaper Stats
 
-*Scraped **20,853** Articles*
+*Scraped **20,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,120 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,736
-tamilmirrorlk | 2,410
-adaderanalk | 2,480
-virakesarilk | 3,139
+adalk | 1,737
+tamilmirrorlk | 2,411
+adaderanalk | 2,481
+virakesarilk | 3,142
 dailymirrorlk | 3,250
-adaderanasinhalalk | 3,369
+adaderanasinhalalk | 3,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,847 (100.0%) of 20,853 articles have been extended.
+20,853 (100.0%) of 20,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### දඹුල්ල නගරය ට ආ දැවැන්තයෝ
+### අහස යා කළ Ratnadipa
+
+*2024-04-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195955) · `si`
+
+'ITC Ratnadipa Colombo' අති සුඛෝපභෝගි හෝටලය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මීට සුළු වේලාවකට පෙර විවෘත කළේය.
+
+එය ඉන්දියාවේ ITC හෝටල් සමූහය, ඉන්දියාවෙන් පිටත ඉදිකළ ඔවුන්ගේ පළමු සුඛෝපභෝගි හෝටලය වීම ද විශේෂත්වයකි.
+
+ප්‍රධාන කුලුනු දෙකක් යා කරමින් අඩි 100ක් ඉහළ අහසේ ඉදි කෙරුණු අහස් පාලම මෙහි විශේෂත්වය වන අතර මෙරට එවැන්නක් ඉදි කෙරුණු පළමු වතාව මෙය වේ.
+
+◼️
+
+[Data](articles/0af137f4.json)
+
+---
+
+### சட்டமூலத்தை சமர்ப்பித்தார் காஞ்சன
+
+*2024-04-25 11:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-சமர்ப்பித்தார்-காஞ்சன/175-336309) · `ta`
+
+மின்சார சபை சீர்திருத்தங்களை உள்ளடக்கிய இலங்கை மின்சாரசபை சட்டமூலம் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகரவினால் சற்று நேரத்திற்கு முன்னர் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது.
+
+மின்சக்தி மற்றும் எரிசக்தி துறையில் தனியார் துறையின் அதிகப் பங்களிப்பை இந்த சட்டமூலம் வழங்குகிறது.
+
+இந்தச் சட்டமூலம் தொடர்பில் பாராளுமன்றத்தில் உள்ள அனைத்து பாராளுமன்ற உறுப்பினர்களுடனும் கலந்துரையாடுவதற்கு தயாராக இருப்பதாக அமைச்சர் விஜேசேகர உறுதியளித்துள்ளார்.
+
+◼️
+
+[Data](articles/6862507e.json)
+
+---
+
+### Super-luxury hotel ‘ITC Ratnadipa’ Colombo declared open
+
+*2024-04-25 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98832/super-luxury-hotel-itc-ratnadipa-colombo-declared-open) · `en`
+
+President Ranil Wickremesinghe declared open the super-luxury hotel ITC Ratnadipa Colombo which boasts Sri Lanka’s first ever sky bridge ‘AHASA ONE’ connecting two towers at a height of 100m above the ground.
+
+ITC’s Hotel Group, one of India’s leading luxury hotel chains, is reported to have invested close to INR 3,000 crore in the luxury Sri Lankan property, which is being set up under a subsidiary WelcomHotels Lanka. The luxury hotel — ITC Ratnadipa in Colombo — reportedly features about 352 rooms.
+
+◼️
+
+[Data](articles/1cabc927.json)
+
+---
+
+### ரணிலின் அறிவிப்புக்கு பின்னரே எமது ஜனாதிபதி வேட்பாளர் தொடர்பில் பகிரங்கப்படுத்தப்படும் - பசில் ராஜபக்ஷ
+
+*2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181915) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவார் என்ற உத்தியோகபூர்வ அறிவிப்புக்கு பின்னர் பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளரை அறிவிப்பதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான பசில் ராஜபக்க்ஷ ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம்  தெரிவித்துள்ளார்.
+
+கொழும்பில் உள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும்  பசில் ராஜபக்க்ஷவுக்கும் இடையில் இடம்பெற்ற சந்திப்பின் போதே  இந்த விடயத்தை அறிவித்துள்ளார்.
+
+நீதியமைச்சர் விஜயதாச ராஜபக்க்ஷ ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர் என்ற ரீதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவர் பதவியை பொறுப்பேற்பது குறித்தும் இந்தச் சந்திப்பில் கலந்துரையாடப்பட்டதாகவும் கட்சி ஏற்கனவே நடவடிக்கை எடுக்க ஆரம்பித்துள்ளதாகவும் பசில் ராஜபக்க்ஷ ஜனாதிபதிக்கு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/26d0bd72.json)
+
+---
+
+### உலக சந்தையில் மசகு எண்ணெய்யின் விலை குறைவடைந்தது!
+
+*2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181919) · `ta`
+
+உலக சந்தையில் மசகு எண்ணெய் விலையானது நேற்று புதன்கிழமை (24) குறைவடைந்து  87 டொலர் வரை பதிவாகியுள்ளது.
+
+இதன்படி, பிரண்ட் மசகு எண்ணெய் பீப்பா ஒன்றின் விலை 87.92 டொலராக பதிவாகியுள்ளது.
+
+கடந்த ஒரு மாதத்தை கருத்தில் கொண்டு உலக சந்தையில் மசகு எண்ணெய் விலை  தொடர்ந்து 90 டொலர் வரை காணப்பட்டதோடு , பங்குகள் அதிகரிப்பின் காரணமாக உலக சந்தையில் மசகு எண்ணெயின் விலை குறைவடைந்துள்ளது.
+
+◼️
+
+[Data](articles/706f0a8d.json)
+
+---
+
+### Gives for Dambulla town
 
 *2024-04-25 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195954) · `si`
 
-දඹුල්ල නගරයට අහම්බෙන් පැමිණි වන අලි තිදෙනා පළවා හැරීමට වනජීවී නිලධාරින් හා ආරක්ෂක අංශ නිලධාරීන්ට හැකිවූ බව දඹුල්ල පොලීසිය කියයි.
+Dambulla Police and wildlife officials successfully dispersed three elephants that entered the town yesterday morning.
 
-23 වනදා රාත්‍රියේ මෙම වන අලි තිදෙනා දඹුල්ල නගරයට පැමිණ අතරමංව නිවාස ආසන්නයේ හා වෙළෙඳසැල් අවට සැරිසරන අයුරු ඊයේ (24) අලුයම ප්‍රදේශවාසීන් දැක තිබේ.
+🟩
 
-පසුව වනජීවී නිලධාරීන්, දඹුල්ල පොලීසිය හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන්ගේ සහාය මත වනඅලි රැඳී සිටි ස්ථානයේ සිට කිරලව, මාරකෑල්ල  රක්ෂිතයට පළවා හැරීමට පියවර ගත්තේය.
+Dambulla Police say that wildlife officials and security personnel were able to expand the three odds who came to Dambulla town.
+
+The three elephants were visiting Dambulla town and the residents of the area yesterday morning.
+
+The wildlife officials were later deployed to be deployed in the area from the Wildlife, Dambulla Police and STF personnel.
 
 ◼️
 
 [Data](articles/04652860.json)
+
+[Extended Data](ext_articles/04652860.ext.json)
 
 ---
 
@@ -68,21 +152,29 @@ Against this backdrop, MP Gamini Waleboda stated that due to the delay in re-scr
 
 [Data](articles/8024a357.json)
 
+[Extended Data](ext_articles/8024a357.ext.json)
+
 ---
 
-### රන් මිලේ වෙනසක්
+### Gold price change
 
 *2024-04-25 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195953) · `si`
 
-මෙරට රත්‍රං මිල ගණන් පහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+Gold prices in Colombo's market are down. 22 carrot gold is priced at 173,000, and 24 carrot gold at 190,000.
 
-ඒ අනුව අද (25) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 173,000ක් දක්වා පහළ ගොස් තිබේ.
+🟩
 
-මේ අතර රු. 190,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද වනවිට රු. 188,000ක් දක්වා සුළු අගයකින් පහත වැටී ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+The market data indicates that the prices of gold has been down.
+
+Accordingly, the price of a 22 carrot prices in the gold market in the gold market in Colombo this morning (25). Up to 173,000.
+
+Meanwhile Rs. Prices of "24 carrots" gold pound in 190,000. According to Rattota Market, Colombo Sources said that up to 188,000.
 
 ◼️
 
 [Data](articles/71068132.json)
+
+[Extended Data](ext_articles/71068132.ext.json)
 
 ---
 
@@ -99,6 +191,30 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 ◼️
 
 [Data](articles/45940318.json)
+
+[Extended Data](ext_articles/45940318.ext.json)
+
+---
+
+### பால் மா விலை குறித்து இறக்குமதியாளர்கள் சங்கம் விளக்கம்
+
+*2024-04-25 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181913) · `ta`
+
+இறக்குமதி செய்யப்படும் பால் மாவின் விலையை குறைப்பது தொடர்பில் இன்னும் இறுதித் தீர்மானம் எடுக்கப்படவில்லை என இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இது தொடர்பான உத்தியோகபூர்வ கூட்டம் இதுவரையில் நடத்தப்படவில்லை என பால் மா இறக்குமதியாளர்கள் சங்கத்தின் ஊடகப் பேச்சாளர் அசோக பண்டார தெரிவித்துள்ளார்.
+
+மார்ச் மாதத்தில்  ஒரு கிலோ பால் மா பக்கற்றின் விலை 150 ரூபாவாலும்,  400 கிராம் பால் மா பக்கற்றின் விலை 60 ரூபாவாலும் இறக்குமதியாளர்கள் குறைத்தனர்.
+
+விலை குறைப்பை தொடர்ந்து, இறக்குமதி செய்யப்பட்ட பால் மா பக்கற்றுக்கள் உள்ளூர் சந்தையில் பல்வேறு விலைகளில் விற்பனை செய்யப்படுகிறது.
+
+இந்நிலையில், இன்று வியாழக்கிழமை (25) முதல் மீண்டும் விலையை குறைப்பதற்கு நியூசிலாந்தில் இருந்து பால் மாவை இறக்குமதி செய்யும் நிறுவனம் புதன்கிழமை (24) தெரிவித்துள்ளது.
+
+அதன்படி, ஒரு கிலோ பால் மா பக்கற்றின் விலை 250 ரூபாவாலும்,  400 கிராம் பால் மா பக்கற்றின் விலை 100 முதல் 140 ரூபாவாலும் குறைக்கப்படும் என்று கூறப்பட்டது.
+
+...
+
+[Data](articles/af8562ec.json)
 
 ---
 
@@ -155,6 +271,24 @@ The government allocated Rs. 110 for each child, with additional funds coming fr
 [Data](articles/34975c5f.json)
 
 [Extended Data](ext_articles/34975c5f.ext.json)
+
+---
+
+### සාපෙළ උපකාරක පංති 30දායින් අවසන්
+
+*2024-04-25 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-උපකාරක-පංති-30දායින්-අවසන්/11-409252) · `si`
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන උපකාරක පංති, සම්මන්ත්‍රණ පැවැත්වීම ලබන 30 වැනිදා මධ්‍යම රාත්‍රී සිට අත්හිටුවන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව එදින මධ්‍යම රාත්‍රී 12.00 සිට උපකාරක පංති, සම්මන්ත්‍රණ, වැඩමුළු ආදී විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන කටයුතු අත්හිටවනු ඇති බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+එම නීති උල්ලංඝනය කරන පුද්ගලයින් සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 සිට 15 වන දින දක්වා පැවැත්විමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/97fe50bb.json)
 
 ---
 
@@ -469,6 +603,22 @@ The association spokesman Asoka Bandara stated that there is no connection on th
 [Data](articles/375e2ed7.json)
 
 [Extended Data](ext_articles/375e2ed7.ext.json)
+
+---
+
+### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
+
+*2024-04-25 09:17:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
+
+Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
+
+Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
+
+...
+
+[Data](articles/df579056.json)
+
+[Extended Data](ext_articles/df579056.ext.json)
 
 ---
 
@@ -922,27 +1072,35 @@ In addition to the traditional committees such as the World Health Assembly and 
 
 ---
 
-### Fox Hill අනතුර: සාමාන්‍ය මාර්ග නීති මෝටර් රථ ධාවන තරගයකටත් අදාළ කර ගත හැකි ද?
+### Fox hill accident: Can you apply a general road legal car race?
 
 *2024-04-25 05:08:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72pllq3gd6o) · `si`
 
-Fox Hill අනතුර: සාමාන්‍ය මාර්ග නීති මෝටර් රථ ධාවන තරගයකටත් අදාළ කර ගත හැකි ද?
+Two auto racing competitors arrested after a fatal crash. Attorneys argue racing doesn't follow general road laws. Police investigate as a traffic accident. Sri Lankan Motor Runner Dilantha suggests police should intervene in races if accidents occur.
 
-දියතලාව 'Fox Hill Supercross 2024' මෝටර් ධාවන තරගය අතුරතුර පුද්ගලයින් 7 දෙනෙකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් මෝටර් රථ ධාවන තරගකරුවන් දෙදෙනා බදාදා (අප්‍රේල් 24) ඇප මත මුදාහැරිණි.
+🟩
 
-ඔවුන් දෙදෙනා බණ්ඩාරවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එලෙස ඇප මත මුදා හැරීමට නියෝග කෙරිණි.
+Fox hill accident: Can you apply a general road legal car race?
 
-එම මෝටර් රථ ධාවකයින් දෙදෙනා දියතලාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පසුගිය දා පොලිසිය මගින් අත්අඩංගුවට ගැනීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර තිබිණි.
+The two auto racing competitors arrested on Wednesday (April 24) after the arrest of 7 persons who were killed in motor racing interface.
 
-එලෙස අත්අඩංගුවට ගැනුණේ, මාතර පදිංචි 36 හැවිරිදි මෝටර් රථ ධාවන තරගකරුවෙකු සහ 47 හැවිරිදි පේරාදේණියේ පදිංචි තරගකරුවෙකි.
+They were produced before the Bandarawela Magistrate's Court on bail.
 
-තරගකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥයින් තර්ක කරන්නේ, මෝටර් රථ ධාවන තරගයක් අතරතුරදී සාමාන්‍ය මාර්ග නීති පද්ධතිය අනුව කටයුතු කළ නොහැකි බවට ය.
+The two cars racers were remanded after being arrested recently after the arrest of the Diyatalawa Hospital.
 
-මෝටර් රථ ධාවන තරගයක් අතරතුර අනාරක්ෂිතව රිය පැදවීම සහ අනතුරක් වළක්වා ගැනීමට උත්සහ නොකිරීම යන චෝදනා යටතේ නඩු පැවරිය නොහැකි බව නීතිඥ උපුල් කුමරප්පෙරුම බීබීසී සිංහල සේවයට පැවසීය.
+The 36-year-old motor racing competitor, a 36 year old resident of Matara and a 47-year-old contest was a competitor in Peradeniya.
+
+Attorneys who stand for competitors are argued that they cannot act on the ordinary road legal system during a motor racing.
+
+Attorney Upul Kumarapperuma told BBC Sinhala.
+
+"General road laws are not effective in these competitions. There are several rules that affect in a race. One is, not blocking the track. Two followers and deliberately innocent accident. The three is the length of the next. Several laws like such laws affect, "Attorney-at-Law Upul Kumarapperuma said.
 
 ...
 
 [Data](articles/8d6fc11c.json)
+
+[Extended Data](ext_articles/8d6fc11c.ext.json)
 
 ---
 
@@ -1732,22 +1890,6 @@ Global Finance said its Best Bank Awards recognise financial institutions that o
 
 ---
 
-### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
-
-*2024-04-24 22:40:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
-
-Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
-
-Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
-
-...
-
-[Data](articles/df579056.json)
-
-[Extended Data](ext_articles/df579056.ext.json)
-
----
-
 ### India is no ‘big brother’ to Sri Lanka, H.C. Santosh Jha says in myth-busting speech
 
 *2024-04-24 22:39:00* · [`islandlk`](http://island.lk/india-is-no-big-brother-to-sri-lanka-h-c-santosh-jha-says-in-myth-busting-speech/) · `en`
@@ -2023,165 +2165,5 @@ During his one-day official visit, President Raisi participated in a public cere
 [Data](articles/a646e646.json)
 
 [Extended Data](ext_articles/a646e646.ext.json)
-
----
-
-### Accident school student injured in Trincomalee
-
-*2024-04-24 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181889) · `ta`
-
-A 15-year-old schoolgirl was injured in an accident on the Rajavarotayam road in Trincomalee, caused by a van driver, who was arrested. The injured student is being treated at Trincomalee General Hospital.
-
-🟩
-
-A 15 -year -old schoolgirl has been involved in an accident on the Rajavarotayam road under the Trincomalee Headquarters Police Division.
-
-The accident occurred after a student of a van collided with a van when he tried to cross the road.
-
-The age of Kandy (32) from Kandyan, Van Driver, has been arrested by the headquarters of Kandyan. A student who was injured in the accident is receiving treatment at the Trincomalee General Hospital. Police said the van was seized and the driver was to be produced in court.
-
-◼️
-
-[Data](articles/39384944.json)
-
-[Extended Data](ext_articles/39384944.ext.json)
-
----
-
-### Special discussion between Sri Lanka and Iranian President
-
-*2024-04-24 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195939) · `si`
-
-Sri Lanka's President Ranil Wickremesinghe and Iran's President held a special discussion, followed by bilateral talks between their representatives.
-
-🟩
-
-President Ranil Wickremesinghe and Iranian President elder President of Iranian President announced that a special discussion was held.
-
-It is also reported that bilateral discussions were held among the representatives of the two countries after the discussion.
-
-◼️
-
-[Data](articles/47dc4933.json)
-
-[Extended Data](ext_articles/47dc4933.ext.json)
-
----
-
-### Is Chamari Athapaththu Sri Lanka’s greatest cricketer ever?
-
-*2024-04-24 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-Chamari-Athapaththu-Sri-Lankas-greatest-cricketer-ever/108-281297) · `en`
-
-Colombo, April 24 (Daily Mirror) - Chamari Athapaththu's historical 195 against South Africa last week saw her claiming the top spot of ICC Women's ODI Batting Rankings on Tuesday.
-
-It was in fact the second time she achieved the feat in her ODI career which has now opened up a debate whether she'd go down as the greatest Sri Lankan cricketer in both men's and women's game in terms of the pure impact.
-
-Hailing from a modest family in Kurunegala, Chamari's greatest supporter in cricket was her late father who used to accompany her for practices in Colombo, but sadly passed away in 2008 - a year before her international debut. However, her cricketing journey never stopped there, and after 15 years at the top level of women's cricket, Chamari has now reached the twilight of her career.
-
-Following the cracking 195 against South African women's team, Chamari told the media that her 'retirement is very soon.'
-
-...
-
-[Data](articles/e2ba8de4.json)
-
-[Extended Data](ext_articles/e2ba8de4.ext.json)
-
----
-
-### 300 kg of drugs will be destroyed in the first phase with court permission - Vijayadasa Rajapaksa
-
-*2024-04-24 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181850) · `ta`
-
-With court approval, 300 kg of hazardous drugs will be destroyed monthly in a forest area, as stated by Justice Minister Vijayadasa Rajapaksa. This initiative aims to address the issue of drug storage in courtrooms.
-
-🟩
-
-With the permission of the court, 300 kilograms of hazardous drugs will be destroyed in the forest area next month.
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that the drug will be destroyed every month every month.
-
-Speaking at the debate on the Second Assessment of the Criminal Investigation Act (Amendment) Bill, which was held in Parliament on Wednesday (24), the order of poison types, opin and hazards under the Ordinance Act.
-
-It is a major problem to protect drugs in the courtrooms as a case.
-
-It is useless to keep a large number of drugs in the courthouse as a case. Various negotiations were carried out on the destruction of one or five grams of drug samples for a court hearing.
-
-The National Risk Lighting Authority has stated that it cannot destroy hazardous drugs in the area where the public lives or mobilizes.
-
-18 million rupees has been spent to fit the machine.
-
-...
-
-[Data](articles/c571c707.json)
-
-[Extended Data](ext_articles/c571c707.ext.json)
-
----
-
-### Four more villages constructed under Indian assistance will be handed over to the people soon - Ranatunga
-
-*2024-04-24 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181863) · `ta`
-
-Indian assistance has led to the construction of 101 villages in Sri Lanka, with 4 more to be handed over soon. The projects, including Southern Province, Village Shakti Housing Scheme, Northern Province, and Village Shakti House Project, aim to construct 2,400 houses with a total budget of 2400 million rupees, of which 807 million has been paid.
-
-🟩
-
-The Minister of Urban Development and Housing Prasanna Ranatunga said that four more villages constructed under Indian assistance will be handed over to the people soon.
-
-The villages constructed with the help of Indian assistance are to be opened in the districts of Colombo, Ratnapura, Trincomalee and Moneragala.
-
-Prasanna Ranatunga said that the construction of houses has been handed over to the people in 101 villages in the country with the help of the Government of India.
-
-As a result, the villages built with the help of the Government of India have been handed over to the people in the districts of Batticaloa, Jaffna, Gampaha, Kandy, Vavuniya, Badulla and Anuradhapura.
-
-In addition, the construction of 1,668 houses in 90 villages has been accelerated so far. Under this scheme, 732 houses have been completed so far.
-
-...
-
-[Data](articles/3a75327e.json)
-
-[Extended Data](ext_articles/3a75327e.ext.json)
-
----
-
-### President Ranil welcomes Iran's president
-
-*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181888) · `ta`
-
-President Ranil Wickremesinghe welcomed Iran's President Ibrahim Raisi to the Presidential Office in Colombo on Wednesday evening.
-
-🟩
-
-The President of the Ibrahim Risi, including the President of the Islamic Republic, arrived at the Presidential Office in Colombo on Wednesday evening.
-
-After that, Iranian President Dr. Ibrahim Raisi (Dr.. The official meeting between President Ranil Wickremesinghe was held at the Presidential Office.
-
-◼️
-
-[Data](articles/68423f41.json)
-
-[Extended Data](ext_articles/68423f41.ext.json)
-
----
-
-### Arulnidhi's 'Demandy Colony 2', which is released at the end of May
-
-*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181872) · `ta`
-
-"Arulnidhi's 'Demandi Colony 2', starring Ajay R Gnanamuthu, is set for release in May. The film, featuring a mix of actors and a 135-minute runtime, includes 120 minutes of graphics scenes. Despite delays, it promises a unique experience for fans."
-
-🟩
-
-Ajay R Gnanamuthu starring Arulnidhi, the film 'Demandi Colony 2' is scheduled to be released in the end of May, the film crew said.
-
-Director Ajay R. Arulnidhi, Priya Bhavani Shankar, Arunpandian, Meenakshi Govindarajan, Muthukumar, Archana Ravichandran and many others star in the film 'Demandi Colony 2'. Harish Kannan has recorded the cinematography by Sam C. S.. Has composed the music. The film is being produced by Bobi Balachandran on behalf of BTG Universal.
-
-The preview of the film was released by the end of last year. Almost one crore has been visited by viewers and achievement. In this case, when when the release of PDG Universal's logo, director Ajay Gnanamuthu on the participation of the film 'Demandi Colony 2'?When asked, “It is being released at the end of May. The length of the film is 135 min. It is full of 120 minutes of graphics scenes. This resulted in delay in setting graphics on international standards. However, the film will give fans a new experience. ”
-
-...
-
-[Data](articles/93fb21bd.json)
-
-[Extended Data](ext_articles/93fb21bd.ext.json)
 
 ---

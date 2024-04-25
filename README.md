@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 20:03:55**
+As of **2024-04-25 20:18:22**
 
 ## Newspaper Stats
 
-*Scraped **20,969** Articles*
+*Scraped **20,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,193
-adalk | 1,753
+adalk | 1,755
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
-virakesarilk | 3,159
+virakesarilk | 3,163
 dailymirrorlk | 3,265
 adaderanasinhalalk | 3,385
 
@@ -26,29 +26,117 @@ adaderanasinhalalk | 3,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,967 (100.0%) of 20,969 articles have been extended.
+20,969 (100.0%) of 20,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට සුපිරි ජයක්
+### කිරිපිටි මිල තවදුරටත් අඩු වීමක් නෑ
+
+*2024-04-25 19:58:20* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිල-තවදුරටත්-අඩු-වීමක්-නෑ/11-409271) · `si`
+
+2024 අප්‍රේල් 25 දින සිට ක්‍රියාත්මක වන පරිදි කිරිපිටි මිල අඩුවන බවට පළ වූ වාර්තා මුළුමනින්ම පදනම් විරහිත බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය පවසයි.
+
+එහි මාධ්‍ය ප්‍රකාශක අශෝක බණ්ඩාර මහතා පවසන්නේ සිංහල හා දෙමළ අලුත් අවුරුදු කාලසීමාව තුළ ජනතාවට සහන සැලසීම සඳහා වෙළෙඳ අමාත්‍යංශය විසින් සිදුකරන ලද ඉල්ලීමට ප්‍රතිචාර දැක්වීමක් වශයෙන්, සියලුම කිරිපිටි සන්නාමයන් විසින් 2024 අප්‍රේල් 01 වැනි දින සිට ක්‍රියාත්මක වන පරිදි කිරිපිටි මිල ගණන් අඩුකළ බවයි. ඒ අනුව දැනට ග්‍රෑම් 400 ඇසුරුමක උපරිම සිල්ලර මිල රු.1,050/- ක් ලෙස ස්ථාපිත කර තිබේ.
+
+එමෙන්ම, විවිධ ප්‍රවර්ධන වැඩසටහන් යටතේ දැනටමත් කිරිපිටි සන්නාම රැසක් විසින් ඉහත සඳහන් උපරිම සිල්ලර මිලට අඩුවෙන්  අලෙවි කරනු ලබන බවද ඒ මහතා පෙන්වා දෙයි. එම නිසා, ඊයේ දිනයේ පළ වූ සාවද්‍ය වාර්තාවල සඳහන් පරිදි අප්‍රේල් 25 වැනි දින සිට තවත් මිල අඩුවීමක් සිදු නොවන බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය ලෙස වැඩිදුරටත් අවධාරණය කරන බව අශෝක බණ්ඩාර මහතා  සඳහන් කළේය.
+
+◼️
+
+[Data](articles/054877a0.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளராக துமிந்த திஸாநாயக்க நியமனம்
+
+*2024-04-25 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181978) · `ta`
+
+குறித்த கட்சியின் அரசியல் குழு கூட்டம் வியாழக்கிழமை (25) இன்று இடம் பெற்றது.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அரசியல் குழு கூட்டம் அமைச்சர் நிமல் சிறிபால டி சில்வா தலைமையில் வியாழக்கிழமை (25) பிற்பகல் கொழும்பில் கூடியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a5628664.json)
+
+---
+
+### நடிகர் காளி வெங்கட் கதையின் நாயகனாக நடித்திருக்கும் 'குரங்கு பெடல்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-04-25 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181957) · `ta`
+
+தமிழ் திரையுலகில் வெளியாகும் படைப்புகளில் கதாநாயகன்- கதாநாயகி- வில்லன்- நகைச்சுவை நடிகர்கள்- இவர்களுக்கு இணையாக புகழப்படுபவர்கள் குணச்சித்திர நடிகர்கள்.
+
+குணச்சித்திர நடிப்பில் தனக்கென தனித்துவமான பாணியை கண்டறிந்து அதனை தான் ஏற்கும் கதாபாத்திரத்திற்கு ஏற்ப வெளிப்படுத்தி ரசிகர்களிடத்தில் ஒப்பற்ற குணச்சித்திர நடிகர் என்ற அடையாளத்தையும், அங்கீகாரத்தையும் பெற்றிருக்கும் நடிகர் காளி வெங்கட் கதையின் நாயகனாக நடித்திருக்கும் புதிய படமான 'குரங்கு பெடல்' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் கமலக்கண்ணன் இயக்கத்தில் உருவாகி இருக்கும் 'குரங்கு பெடல்' எனும் திரைப்படத்தில் காளி வெங்கட், பிரசன்னா பாலச்சந்தர், ஜென்சென் திவாகர் ஆகியோருடன் சந்தோஷ் வேல்முருகன், வி. ஆர். ராகவன், எம். ஞானசேகர், ரத்தீஷ், சாய் கணேஷ் உள்ளிட்ட பல குழந்தை நட்சத்திரங்களும் நடித்திருக்கிறார்கள். சுமீ பாஸ்கரன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜிப்ரான் இசையமைத்திருக்கிறார்.
+
+...
+
+[Data](articles/31029f40.json)
+
+---
+
+### 'ஈகை' படத்தில் வில்லனாக நடிக்கும் சந்தோஷ் பிரதாப்
+
+*2024-04-25 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181961) · `ta`
+
+அனைத்துவித கதாபாத்திரங்களையும் ஏற்று நடிக்க கூடிய தகுதியும், திறமையும் இருந்தும் முன்னணி நட்சத்திர கலைஞராக ஜொலிக்க முடியாமல் கடுமையாக போராடிக் கொண்டிருக்கும் நடிகர் சந்தோஷ் பிரதாப்,' ஈகை' எனும் திரைப்படத்தில் வில்லனாக நடித்திருக்கிறார் என தகவல்கள் வெளியாகி இருக்கிறது.
+
+இயக்குநர் அசோக் வேலாயுதம் இயக்கத்தில் உருவாகி வரும் 'ஈகை' எனும் திரைப்படத்தில் நடிகை அஞ்சலி கதையின் நாயகியாக நடிக்கிறார்.
+
+இவருடன் அருண் எனும் காவல்துறை உயரதிகாரி வேடத்தில் சந்தோஷ் பிரதாப் நடிக்கிறார். இந்த கதாபாத்திர தோற்றத்திற்கான பிரத்யேகப் புகைப்படத்தை படக்குழுவினர் வெளியிட்டுள்ளனர்.
+
+அத்துடன் 'எதுவும் செய்யாமல் அநியாயம் செய்யலாம்' என்ற வாசகத்தையும் ஆங்கிலத்தில் இடம்பெற வைத்திருப்பதால் சந்தோஷ் பிரதாப் இந்த திரைப்படத்தில் வில்லனாக நடிக்கிறார் என தெரிய வருகிறது.
+
+...
+
+[Data](articles/88bb3cd0.json)
+
+---
+
+### Sri Lanka women's team beat Sri Lanka
 
 *2024-04-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195970) · `si`
 
-විස්සයි විස්ස කාන්තා ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබාගැනීමේ වටයේ පළමු තරගයේ ජය හිමිකරගැනීමට ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සමත්විය.
+Sri Lanka women's cricket team won their first Twenty20 Women's World Cup match against Thailand by 67 runs, scoring 122/5 in 20 overs, and Thailand scored 55/16.
 
-ඒ ලකුණු 67කින් තායිලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම පරාජයට පත් කරමිනි.
+🟩
 
-ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම පන්දුවාර විස්ස අවසානයේ කඩුලු 5ක් දැවී ලකුණු 122ක් රැස්කරගත්තේය.
+Sri Lanka women's cricket team won the first match of the Twenty20 Women's World Cup.
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ තායිලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට පන්දුවාර 16යි පන්දු 2ක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වූයේ ලකුණු 55ක් පමණි.
+They defeated Thailand women's cricket by 67 runs.
 
-පන්දුයැවීමේදී ඉනෝෂි ප්‍රියදර්ශනී ලකුණු 14කට කඩුලු 3ක් දවාගත් අතර උදේශිකා ප්‍රබෝධනී ලකුණු 10කට කඩුලු 2ක් දවාගත්තේය.
+Batting first, Sri Lanka women's cricket team scored 122 runs for the loss of 5 wickets at the end of the 20 wickets.
+
+In reply, Thailand women's cricket team scored 55 runs in the end of 16 overs.
+
+In bowling was 3 wickets for 14 runs while Udeshika Prabodhani took two wickets for 10 runs.
 
 ◼️
 
 [Data](articles/a846c839.json)
+
+[Extended Data](ext_articles/a846c839.ext.json)
+
+---
+
+### இயக்குநர் லிங்குசாமி வழங்கும் 'வடக்கன்' படத்தின் டீசர் வெளியீடு
+
+*2024-04-25 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181963) · `ta`
+
+இயக்குநர் -தயாரிப்பாளர் - விநியோகஸ்தர் என மூன்று பிரிவுகளிலும் தோல்வியை எதிர்கொண்ட இயக்குநர் லிங்குசாமி, சிறிய இடைவெளிக்குப் பிறகு நம்பிக்கையுடன் வழங்கும் 'வடக்கன்' எனும் திரைப்படத்தின் டீசர் வெளியிடப்பட்டிருக்கிறது.
+
+எழுத்தாளரும், வசனகர்த்தாவுமான பாஸ்கர் சக்தி இயக்குநராக அறிமுகமாகும் 'வடக்கன்' எனும் திரைப்படத்தில் குங்குமராஜ் முத்துசாமி, வைரமாலா, ரமேஷ் வைத்யா, பர்வேஷ் மெஹ்ரு, ஷாமீரா, வைரம் பாட்டி, பின்ட்டு, வந்தனா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+தேனி ஈஸ்வர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எஸ். ஜே. ஜனனி இசையமைத்திருக்கிறார். தமிழகத்தின் அதிகளவில் புலம் பெயர்ந்திருக்கும் வட இந்தியர்களை பற்றி கருத்தியல் ரீதியான பதிவினை பதிவு செய்யும் படைப்பாக உருவாகி இருக்கும் இந்த திரைப்படத்தை டிஸ்கவரி சினிமா புரொடக்சன் எனும் பட நிறுவனம் சார்பில் புத்தக பதிப்பாளர் எம். வேடியப்பன் தயாரித்திருக்கிறார்.
+
+இந்தப் படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பை பெற்ற நிலையில் தற்போது இதன் குறு முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/1f81f69b.json)
 
 ---
 
@@ -82,7 +170,7 @@ The Committee has expressed the revenue of the department with the income target
 
 ### மக்கள் போராட்டம் மீண்டும் ஏற்படாத வகையில் பொருளாதாரத்தை கட்டமைப்போம் : ITC ரத்னதீப அதிசொகுசு ஹோட்டலை திறந்து வைத்து ஜனாதிபதி தெரிவிப்பு
 
-*2024-04-25 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181977) · `ta`
+*2024-04-25 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181977) · `ta`
 
 President Ranil Wickremesinghe pledges to prevent the people's struggle by building the economy. He addresses the opening of the ITC Ratnadeepa Atti Luxury Hotel, marking the first Indian ITC Hotel Group building in Sri Lanka. The hotel is located near Asia's first five-star hotel, Galle Face. India has started a tourist hotel in Sri Lanka after a long time, with the Oberoi Hotel and the Sri Lankan President's House. Colombo is becoming a tourist center, with ITC promoting Sri Lanka. The city's tourism potential is being upgraded, and the economy is being restored through tourism.
 
@@ -244,6 +332,22 @@ These injunctions were issued after considering a plaint submitted by Ministers 
 
 ---
 
+### වසරේ ආදායම් ඉලක්ක අභිභවා යා හැකියි
+
+*2024-04-25 18:47:18* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-ආදායම්-ඉලක්ක-අභිභවා-යා-හැකියි/11-409266) · `si`
+
+මෙම වසරේ පළමු කාර්තුව තුළ රුපියල් බිලියන 834ක රාජ්‍ය ආදායමක් උපයා ගැනීමට හැකි වී තිබෙන බවත් ඒ හරහා අපේක්ෂිත රාජ්‍ය අදායම් ඉල්ලක්ක අභිබවමින් 6%ක වර්ධනයක් පෙන්නුම් කරන බවත් අමාත්‍ය මණ්ඩලයේ සාමාජික නොවන රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ සහ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+රටේ පවතින විධිමත් මූල්‍ය කළමනාකරණය සහ ආදායම් ලැබෙන රටාව අනුව සළකා බැලීමේදී 2024 වසර අදායම් ඉලක්ක සපුරාගත හැකි වසරක් වනු ඇති බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+අමාත්‍ය මණ්ඩලයේ සාමාජික නොවන රාජ්‍ය වැවිලි ව්‍යවසාය ප්‍රතිසංස්කරණ සහ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (25) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/9f307cf7.json)
+
+---
+
 ### Duminda to be appointed SLFP acting
 
 *2024-04-25 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195968) · `si`
@@ -266,21 +370,27 @@ The Sri Lanka Freedom Party (SLFP) Politburo also met with party acting chairman
 
 ---
 
-### කොළඹ වරාය නගරයට ජපන් අවහලක්
+### Japanese greatly for Colombo Port City
 
 *2024-04-25 18:27:34* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයට-ජපන්-අවහලක්/11-409265) · `si`
 
-කොළඹ වරාය නගර පරිශ්‍රයේ පිහිටුවන ලද “නිහොන්බෂි (Nihonbashi) ජපන් අවන්හල විවෘත කිරීම ඊයේ (24) පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් සිදුවිය.
+President Ranil Wickremesinghe inaugurated the Nihonbashi restaurant in Colombo Port City, highlighting its significance to Sri Lanka. The event featured a friendly conversation with attendees, including Sagala Ratnayake and other distinguished guests.
 
-1995 වසරේ ගාලු මුවදොර ටෙරස්හි ආරම්භ කළ පළමු නිහොන්බෂි ජපන් අවන්හල මෙරට සුප්‍රසිද්ධ සූපවේදියෙකු වන දර්ශන මුනිදාස මහතා විසින් මෙරටට දායාද කරන ලද ප්‍රමුඛ පෙළේ අවන්හලකි. ගතවුණු වසර 29ක් පුරාවට මෙම අවන්හල දෙස් විදෙස් සංචාරකයන් ඇතුළු මෙරට ජනතාවට ප්‍රණීත ජපන් ආහාර වේලක රස බැලීම සඳහා අවස්ථාව සලසා දී ඇත.
+🟩
 
-අවන්හල නිල වශයෙන් විවෘත කළ ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවකට එක්වූ අතර පැමිණ සිටි පිරිස සමඟ සුහද කතාබහක ද නිරත විය.
+The Nihonbash (NIHONBASH) of the Colombo Port City premises was chaired by President Ranil Wickremesinghe yesterday (24).
 
-එම අවස්ථාවට ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා ඇතුළු සම්භාවනීය ආරාධිතයින් පිරිසක් එක්ව සිටියහ.
+The first Nihonbashi, the first Nihonbashi, the first Nihonbashi, the first Niwonbashi, the first Niwonbashi, is a prominent restaurant to Sri Lanka, as a well-known chef in Sri Lanka. The restaurant has provided the people of Sri Lanka, including local and foreign tourists.
+
+The President officially opened the restaurant and joined the attendance in a friendly conversation with the attendees.
+
+Senior Presidential Advisor on National Security and Chief of Defense staff Sagala Ratnayake and other distinguished invitees were also present.
 
 ◼️
 
 [Data](articles/2576214b.json)
+
+[Extended Data](ext_articles/2576214b.ext.json)
 
 ---
 
@@ -2137,143 +2247,5 @@ The certificates and valuation reports received by the relevant divisions have b
 [Data](articles/811b2145.json)
 
 [Extended Data](ext_articles/811b2145.ext.json)
-
----
-
-### Meeting the major coalition
-
-*2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-முக்கியஸ்தர்கள்-சந்திப்பு/175-336310) · `ta`
-
-President Ranil Wickremesinghe met with Sri Lanka PA (SLPP) and other parties to form a political alliance, deciding to expedite tasks post-May Day. The UNP and SLPP plan a May Day rally and a coalition for the presidential election, with the president contesting under a common candidate's symbol. Vajira Abeywardena and Minister Ales will register a new coalition. The President aims to campaign against the IMF in June. Parliamentarians and PHU have been invited to join the new coalition.
-
-🟩
-
-As a first step to forming a vast political alliance, President Ranil Wickremesinghe met with representatives of the Sri Lanka PA (SLPP), Basil Rajapaksa and other parties and groups and decided to expedite the political tasks after May Day.
-
-Prime Minister Dinesh Gunawardena represented the meeting. Ministers Prasanna Ranatunga, Tran Ales, Harin Fernando, Kanchana Wijesekera, Member of Parliament Mahindananda Aluthgamage and Anura Priyadarshana Yapa were present at the meeting on Tuesday evening.. President of the President Sagala Ratnayake also attended the UNP (UNP).
-
-The United National Party (UNP) led by the president and the Sri Lanka Peoples Freedom Alliance (PA) decided to hold a separate May Day rally and then, in view of the presidential election, as a coalition with other parties.
-
-The president will contest the election on the symbol of the coalition that comes up as a common candidate this time.
-
-...
-
-[Data](articles/16b8296c.json)
-
-[Extended Data](ext_articles/16b8296c.ext.json)
-
----
-
-### Meeting to form a great alliance
-
-*2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-சந்திப்பு/175-336310) · `ta`
-
-President Ranil Wickremesinghe met with Sri Lanka PA (SLPP) and other parties to expedite political tasks post-May Day. The UNP and SLPP plan a joint May Day rally and presidential election strategy. The president will contest under a coalition's symbol, not UNP's. Vajira Abeywardena and Ales will register a new coalition. The president aims to campaign against the IMF in June. Parliamentarians and PHU have been invited to form a new coalition.
-
-🟩
-
-As a first step to forming a vast political alliance, President Ranil Wickremesinghe met with representatives of the Sri Lanka PA (SLPP), Basil Rajapaksa and other parties and groups and decided to expedite the political tasks after May Day.
-
-Prime Minister Dinesh Gunawardena represented the meeting. Ministers Prasanna Ranatunga, Tran Ales, Harin Fernando, Kanchana Wijesekera, Member of Parliament Mahindananda Aluthgamage and Anura Priyadarshana Yapa were present at the meeting on Tuesday evening.. President of the President Sagala Ratnayake was also present at the UNP (UNP).
-
-The president -led United National Party and the Sri Lanka Peoples Freedom Alliance (PA) decided to hold a separate May Day rally and then together with other parties with other parties in considering the presidential election.
-
-The president will contest the election on the symbol of the coalition that comes up as a common candidate this time.
-
-...
-
-[Data](articles/b1ec37bb.json)
-
-[Extended Data](ext_articles/b1ec37bb.ext.json)
-
----
-
-### There is no change in the government this year
-
-*2024-04-25 11:46:36* · [`adalk`](https://www.ada.lk/breaking_news/මේ-අවුරුද්දේ-ආණ්ඩුවේ-වෙනසක්-නෑ/11-409254) · `si`
-
-No government change this year. Minister addresses Gampaha Municipal Council issues, highlighting delays in maintenance projects and blaming officials. Public and former council members complain. Tractors not adopted, and work is delayed due to officer weaknesses. Officials' delays and lack of coordination with the District Coordinating Committee are criticized. Despite no presidential election, officials' inaction threatens government stability.
-
-🟩
-
-ඇතැම් රාජ්‍ය නිලධාරීන්ගේ වැරැදි තීන්දු තීරණ නිසා රජයටත් ජනතාවටත් විශාල පාඩු සිදු වෙන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
-
-He emphasizes that such facts have been charged with politicians at the end of the people.
-
-The officials of certain government institutions have stopped due to the officials of certain government institutions.
-
-The Minister was speaking at a meeting held yesterday (24) to address the problems that erupted in the Gampaha Municipal Council.. The discussion was discussed with the development projects made by the Gampaha Municipal Council.
-
-Maintenance projects found in the year 2023 at the Minister inquired from the Municipal Commissioner of Municipal Commissioner. The Municipal decided that 15 of the 33 main maintenance projects opened in 2023. The maintenance projects commenced in the year 2023 was unable to end until four months of this year.
-
-...
-
-[Data](articles/f7431efe.json)
-
-[Extended Data](ext_articles/f7431efe.ext.json)
-
----
-
-### Ratnaadipa, who was the sky
-
-*2024-04-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195955) · `si`
-
-President Ranil Wickremesinghe inaugurated ITC Ratnadipa Colombo, India's first luxury hotel outside India, featuring a 100-foot tower connecting two main pillars, marking a unique architectural achievement in Sri Lanka.
-
-🟩
-
-"ITC Ratnadipa Colombo" President Ranil Wickremesinghe opened a short while ago by President Ranil Wickremesinghe.
-
-It is noteworthy that ITC Hotel Group in India is their first luxury hotel built outside India.
-
-This is the specialty of 100 feet high in the sky, connecting two main pillars, and this is the first time in the country.
-
-◼️
-
-[Data](articles/0af137f4.json)
-
-[Extended Data](ext_articles/0af137f4.ext.json)
-
----
-
-### Kanchana submitted the Bill
-
-*2024-04-25 11:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-சமர்ப்பித்தார்-காஞ்சன/175-336309) · `ta`
-
-Kanchana submitted the Ceylon Electricity Board Bill, focusing on Electricity Board Reforms, to Parliament, promising to discuss it with MPs. It's the highest contribution to the private sector in power and energy.
-
-🟩
-
-The Ceylon Electricity Board Bill, which includes the Electricity Board Reforms, was submitted to Parliament shortly before the Minister of Power and Energy Kanjana Wijeshekara.
-
-The Bill contributes the highest contribution to the private sector in the power and energy sector.
-
-Minister Wijesekera has promised to discuss the bill with all the Members of Parliament in Parliament.
-
-◼️
-
-[Data](articles/6862507e.json)
-
-[Extended Data](ext_articles/6862507e.ext.json)
-
----
-
-### Super-luxury hotel ‘ITC Ratnadipa Colombo’ declared open
-
-*2024-04-25 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98832/super-luxury-hotel-itc-ratnadipa-colombo-declared-open) · `en`
-
-President Ranil Wickremesinghe declared open the super-luxury hotel ‘ITC Ratnadipa Colombo’ which boasts Sri Lanka’s first ever sky bridge ‘AHASA ONE’ connecting two towers at a height of 100m above the ground.
-
-ITC’s Hotel Group, one of India’s leading luxury hotel chains, is reported to have invested close to INR 3,000 crore in the luxury Sri Lankan property, which is being set up under a subsidiary WelcomHotels Lanka. The luxury hotel — ITC Ratnadipa in Colombo — reportedly features about 352 rooms.
-
-The USD 500 million + ITC development, comprising the Sapphire Residences and super-luxury hotel ITC Ratnadipa, occupies pride of place at the centre of Colombo’s most prestigious ocean front location.
-
-Overlooking the Galle Face and the Indian Ocean on one side and the Beira Lake on the other, this landmark is already redefining the city’s skyline.
-
-...
-
-[Data](articles/1cabc927.json)
-
-[Extended Data](ext_articles/1cabc927.ext.json)
 
 ---

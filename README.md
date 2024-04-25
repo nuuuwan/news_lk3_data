@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 03:51:31**
+As of **2024-04-26 04:03:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,029 (100.0%) of 21,031 articles have been extended.
+21,031 (100.0%) of 21,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,19 +196,27 @@ He, being a distinguished old boy of Thurstan College, had a close relationship 
 
 ---
 
-### தடுமாறுகிறது இ.தொ.கா: மனோ குற்றச்சாட்டு
+### Stumbling CWC: Mano accusation
 
 *2024-04-26 01:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுமாறுகிறது-இ-தொ-கா-மனோ-குற்றச்சாட்டு/175-336359) · `ta`
 
-"இலங்கை தொழிலாளர் காங்கிரஸ் தொழிற்சங்க போராட்டம் நடத்துவதாக சொல்லி ரவுடித்தனம், காடைத்தனம் செய்கின்றதா? எனக்கேட்ட தமிழ் முற்போக்கு கூட்டணி தலைவரான மனோ கணேசன் எம்.பி., அறிவுரை வழங்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கேட்டக்கொண்டார்.
+Mano Ganesan, Tamil Progressive Alliance leader, urged President Ranil Wickremesinghe to advise Rowdy and Ceylon Workers Congress to combat trade union struggles. Ganesan made this statement in response to the attack on Velu Kumar MP in Kandy. He advised taking legal action against those who prevented MPs from performing their duties. The Ceylon Workers Congress feels helpless, unable to fulfill promises of land, housing, and university education.
 
-கண்டி புஸ்ஸலாவையில்  வேலு குமார் எம்.பி மீது, இ.தொ.கா அங்கத்தவர்கள் மேற்கொண்ட தாக்குதல் முயற்சி தொடர்பில், வியாழக்கிழமை  (25) நடத்தப்பட்ட ஊடக சந்திப்பின் போதே  மனோ கணேசன்   இவ்வாறு  தெரிவித்துள்ளார் .
+🟩
 
-தனக்கு விடுக்கப்பட்ட கொலை அச்சுறுத்தல் தொடர்பில், முறைப்பாடு செய்யுமாறு அறிவுறுத்தியுள்ளேன்.   ஒரு மக்கள் பிரதிநிதி என்ற முறையில் அவரை தனது கடமைகளை செய்ய விடாமல் தடுத்த நபர்களின் அடையாளங்கள் காணொளியில்  உள்ளன. அதன்படி அவர்களை உடன் கைது சட்ட நடவடிக்கை எடுக்கும்படியும் கூறியுள்ளேன் என்றார்.
+"The Tamil Progressive Alliance leader, Mano Ganesan, asked President Ranil Wickremesinghe to advise me to advise Rowdy and Ceylon by calling on the Ceylon Workers Congress to fight the trade union struggle.
 
-...
+Mano Ganesan made this statement during a media briefing on Thursday (25) in connection with the attack on Velu Kumar MP in Pusalawa in Kandy.
+
+I have advised to complain about the threat of murder.As a people's representative, there are signs of people who prevented him from performing his duties. I have also told them to take legal action with them.
+
+The Ceylon Workers Congress is stumbling with the feeling of impossibility, as it has not been able to fulfill anything as said today, saying that the people will promise to the people as a row, ten perch land, separate house and university.
+
+◼️
 
 [Data](articles/439c1769.json)
+
+[Extended Data](ext_articles/439c1769.ext.json)
 
 ---
 
@@ -248,19 +256,27 @@ The $ 3 million initiative will bolster food and nutritional security and fortif
 
 ---
 
-### ’ இந்தியாவால் தகவல் வழங்கப்பட்டுள்ளது’
+### Information has been provided by India
 
 *2024-04-26 01:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவால்-தகவல்-வழங்கப்பட்டுள்ளது/175-336358) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல் சம்பவத்தின் பின்னால் சர்வதேச சூழ்ச்சி இருந்ததாக தெரியவில்லை என்று எதிர்க்கட்சி பிரதம கொரடாவான ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் லக்‌ஷ்மன் கிரியெல்ல தெரிவித்துள்ளார்.
+Lakshman Kiriella, MP, denies international maneuvers were behind the Sunday attack, citing information from India. Despite Jayawardena's presence, her phone data was erased. Gotabhaya Rajapakse warned of national security threats post-incident. India claims involvement in the attack, with information provided five times. The Indian Army has sacrificed for Sri Lanka's security, and the Modi government focuses on economic development.
 
-உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பில் பாராளுமன்றத்தில் வியாழக்கிழமை (25) நடைபெற்ற சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-இந்தியாவில் இருந்து தகவல்கள் வந்துள்ளன. நிலந்த ஜயவர்தனவுக்கு வந்துள்ள போதும், அவரின் தொலைபேசியில் இருந்த தகவல்கள் அழிக்கப்பட்டுள்ளன. தகவல் தெரிந்தும் சம்பவங்கள் நடக்க இடமளிக்கப்பட்டுள்ளது. சம்பவம் நடைபெற்ற பின்னர் கட்டுவாப்பிட்டிய சென்று தேசிய பாதுகாப்புக்கு அச்சுறுத்தல் என்று கோட்டாபய ராஜபக்‌ஷ கூறினார். அப்படிதான் அவர் வந்தார்.
+United People's Shakti MP Lakshman Kiriella has said that the international maneuvers did not appear to have been behind the survival Sunday attack.
 
-...
+He was speaking at the second day of the post -adjournment debate in Parliament on Thursday (25) in Parliament on the Sunday attack.
+
+There are information from India. Despite the arrival of Jayawardena, the information on her phone has been destroyed. Information has taken place in the event of information. Gotabhaya Rajapakse said that after the incident, the threat to the national security. That's how he came.
+
+Claiming to be involved in the attack on India. But India has been provided with information on the attack. Information has been provided 5 times. During the LTTE, the Indian Army has given their lives for the security of Sri Lanka. He said the Modi government is working for the entire period for economic development.
+
+◼️
 
 [Data](articles/fd58a65d.json)
+
+[Extended Data](ext_articles/fd58a65d.ext.json)
 
 ---
 

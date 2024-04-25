@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 09:53:03**
+As of **2024-04-25 10:03:37**
 
 ## Newspaper Stats
 
-*Scraped **20,833** Articles*
+*Scraped **20,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 2,408
 adaderanalk | 2,477
 virakesarilk | 3,136
 dailymirrorlk | 3,248
-adaderanasinhalalk | 3,363
+adaderanasinhalalk | 3,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,832 (100.0%) of 20,833 articles have been extended.
+20,833 (100.0%) of 20,834 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ The Spanish prime minister said he would make a decision on his future before th
 ...
 
 [Data](articles/3cf0fd5b.json)
+
+[Extended Data](ext_articles/3cf0fd5b.ext.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-04-25 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195949) · `si`
+
+මේ අතර, පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය පිළිබඳ සභාව කල් තැබිමේ විවාදයේ දෙවන දිනය අදයි.
+
+අදාළ විවාදය ඊයේ (24)  දිනයේ ආරම්භ වූ අතර එය හෙට (26) දිනයේත් පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/df1e8416.json)
 
 ---
 
@@ -2173,19 +2189,5 @@ Ivanov was present earlier on Tuesday at a meeting of top defense officials chai
 [Data](articles/b164444b.json)
 
 [Extended Data](ext_articles/b164444b.ext.json)
-
----
-
-### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
-
-*2024-04-24 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
-
-“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
-
-...
-
-[Data](articles/a00455cc.json)
-
-[Extended Data](ext_articles/a00455cc.ext.json)
 
 ---

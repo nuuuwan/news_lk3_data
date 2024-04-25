@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 17:53:58**
+As of **2024-04-25 18:07:12**
 
 ## Newspaper Stats
 
-*Scraped **20,934** Articles*
+*Scraped **20,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,749
+adalk | 1,750
 tamilmirrorlk | 2,423
-adaderanalk | 2,493
+adaderanalk | 2,494
 virakesarilk | 3,149
-dailymirrorlk | 3,258
+dailymirrorlk | 3,262
 adaderanasinhalalk | 3,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,934 (100.0%) of 20,934 articles have been extended.
+20,934 (100.0%) of 20,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Sinopec to complete feasibility study on Sri Lanka refinery by June – report
+
+*2024-04-25 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98845/sinopec-to-complete-feasibility-study-on-sri-lanka-refinery-by-june-report) · `en`
+
+Chinese state energy giant Sinopec is pushing for greater access to Sri Lanka’s market, where rival India is also seeking to expand its presence, as it looks to build its first fully-controlled overseas refinery, reflecting a change in the firm’s global strategy to compensate for slowing demand growth at home.
+
+Sinopec, the world’s largest oil refiner, is expected to complete a feasibility study by June for a plant at the Chinese-run Hambantota port, after winning Colombo’s approval last November, two senior industry sources with direct knowledge of the matter told Reuters.
+
+While the China-based sources say the investment, which Colombo pegged at $4.5 billion as the country’s largest-ever foreign investment, is commercially driven, neighbouring India is pushing a rival plan to build a fuel products pipeline to the island nation southeast of the subcontinent.
+
+...
+
+[Data](articles/bad77041.json)
+
+---
+
+### Ali Sabry to leave for Riyadh to attend World Economic Forum
+
+*2024-04-25 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-to-leave-for-Riyadh-to-attend-World-Economic-Forum/108-281366) · `en`
+
+Colombo, April 25 (Daily Mirror) - Foreign Minister Ali Sabry is scheduled to leave for Riyadh, Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development which will be held in Riyadh, Saudi Arabia between April 28 and 29.
+
+The Special Meeting in Riyadh is expected to bring together leaders from diverse sectors and industries to inspire a comprehensive dialogue on the most urgent and complex issues of the day.
+
+During the visit, Minister Sabry will join as a panelist in two Sessions, namely “Building the Urban Future” and “North to South, East to West: Rebuilding Trust”.
+
+On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including Saudi Arabia, the host country. The Minister will also meet the Sri Lankan community in Riyadh and visit the Sri Lankan International School in Riyadh.
+
+◼️
+
+[Data](articles/18b01d0a.json)
+
+---
+
+### ITC Ratnadipa Colombo declared open
+
+*2024-04-25 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/ITC-Ratnadipa-Colombo-declared-open/110-281365) · `en`
+
+President Ranil Wickremesinghe unveiled the epitome of luxury: 'ITC Ratnadipa Colombo' - featuring Sri Lanka's inaugural sky bridge 'AHASA ONE', soaring 100m above ground. Pix by Pradeep Dilruskshana
+
+◼️
+
+[Data](articles/09400d05.json)
+
+---
 
 ### Former Prime Minister Mahatarr falls in trouble due to work
 
@@ -577,6 +623,24 @@ Cardinal Ranjith made the following allegations against former President Gotabay
 [Data](articles/6567daf6.json)
 
 [Extended Data](ext_articles/6567daf6.ext.json)
+
+---
+
+### Gota fires back at Cardinal, rebuts allegations
+
+*2024-04-25 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Gota-fires-back-at-Cardinal-rebuts-allegations/155-281357) · `en`
+
+In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
+
+Cardinal Ranjith made the following allegations against former President Gotabaya Rajapaksa at a recent media conference:
+
+• That the day after the report of the Presidential Commission of Inquiry on the Easter Sunday attacks was handed over to me, I had spoken to the Cardinal over the phone and said that I had difficulties in implementing the recommendations in that report as it would entail the arrest of individuals and even the banning of organisations that were supportive of me.
+
+• That I had delayed giving the Cardinal a copy of the first volume of the Presidential Commission report and that I had not given him the remaining volumes.
+
+...
+
+[Data](articles/79c8fc60.json)
 
 ---
 
@@ -1279,6 +1343,22 @@ Thousands of students in many universities, from Massachoods to California, are 
 [Data](articles/d71d0bde.json)
 
 [Extended Data](ext_articles/d71d0bde.ext.json)
+
+---
+
+### විදේශ- රැකියා ජාවාරමක් ගැන ඇමති මනූෂට ලැබුණ ඔත්තුව
+
+*2024-04-25 12:14:02* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ--රැකියා-ජාවාරමක්-ගැන-ඇමති-මනූෂට-ලැබුණ-ඔත්තුව/11-409256) · `si`
+
+අනුරාධපුරයට ආසන්න ප්‍රදේශයක විහාරාධිපතින්වහන්සේ නමක හා  පොලිස් සැරයන්වරයෙකු විසින් ඊශ්‍රායලයේ  විදේශ රැකියා ලබා දීම සඳහා මුදල් අය කිරීමේ සිද්ධියක් පිළිබඳව විදේශ සේවා නියුක්ති කාර්යාංශයට පැමිණිලි ලැබී ඇතැයි කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+
+මේ අනුව එම  විහාරාධිපතින් වහන්සේ  සහ   පොලිස් ස්ථානයක සැරයන්වරයෙකු  විසින් අනුරාධපුරය ආසන්නයේ විහාරස්ථානයකට විදේශ රැකියා අපේක්ෂකයන් හයසියයක් පමණ ගෙන්වාගෙන ඔවුන්ගේ වෛද්‍ය පරීක්ෂණ  සහ රුධිර පරීක්ෂණ සඳහා   මුදල් අය කර ගැනීමක් පිළිබඳව එම  පැමිණිලිවලින් තොරතුරු ලැබී ඇතැයිද මනූෂ නානායක්කාර මහතා පැවසීය.
+
+මේ  පිළිබඳව අනුරාධපුරය ආශ්‍රිතව පාර්ශ්වයන්ගෙන් තොරතුරු ලැබී ඇතැයි කී මනූෂ නානායක්කාර මහතා ඉදිරි විමර්ශන සඳහා මේ ගැන නිසි පැමිණිලි ඉතා ඉක්මනින් අවශ්‍ය බැවින්  මේ  වංචාවකට අසුවී ඇති අය ඇත්නම්  වහාම  විදේශ සේවා නියුක්ති කාර්යාංශයට පැමිණිළි ඉදිරිපත් කරන ලෙසද අවධාරණය කළේය.
+
+...
+
+[Data](articles/71ff9dfd.json)
 
 ---
 
@@ -2203,117 +2283,5 @@ The OIC stated that he will act on court orders after being produced before cour
 [Data](articles/7f1b4372.json)
 
 [Extended Data](ext_articles/7f1b4372.ext.json)
-
----
-
-### A new story about the price of milk powder
-
-*2024-04-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195948) · `si`
-
-No decision to restore milk powder prices. Importers reduced by 400 grams/kg. No market price reduction. New Zealand imports now cheaper.
-
-🟩
-
-The forum of milk powder is reported so far, there has been no decision to restore the price of imported milk powder.
-
-According to the media spokesman Asoka Bandara, MP Asoka Bandara said that there was no discussion at the official level of a revision of the price of milk powder.
-
-In the last month, the importers of milk powder were taken to reduce 400 grams of imported milk powder and reducing the kilo.
-
-Accordingly, no decision has been taken so far to reduce milk powder at various prices in the market and no further decision has been taken to reduce milk powder prices.
-
-However, New Zealand has been reduced to the importation of milk powder to operate from today's milk powder.
-
-Accordingly, a packet of imported milk powder is due to be reduced by Rs. 350 and a packet of Rs.
-
-The association spokesman Asoka Bandara stated that there is no connection on the forum of the Milk powder importers.
-
-◼️
-
-[Data](articles/375e2ed7.json)
-
-[Extended Data](ext_articles/375e2ed7.ext.json)
-
----
-
-### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
-
-*2024-04-25 09:17:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
-
-Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
-
-Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
-
-...
-
-[Data](articles/df579056.json)
-
-[Extended Data](ext_articles/df579056.ext.json)
-
----
-
-### End the plastic era
-
-*2024-04-25 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/End-the-plastic-era/110-281332) · `en`
-
-Civil Society Organizations demands an ambitious Global Plastic Treaty, at Ottawa, Canada. Ahead of the Plastics Treaty negotiations in Ottawa, Canada this week, activists walked in the streets to demand a just Treaty for people and planet free from corporate influence.
-
-◼️
-
-[Data](articles/f49a7a12.json)
-
-[Extended Data](ext_articles/f49a7a12.ext.json)
-
----
-
-### Sri Lanka, Russia explore avenues for enhanced defence cooperation
-
-*2024-04-25 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98827/sri-lanka-russia-explore-avenues-for-enhanced-defence-cooperation-) · `en`
-
-Sri Lanka’s Secretary Defence General Kamal Gunaratne has held bilateral talks with Russia’s Security Council Secretary Nikolai Patrushev in St. Petersburg.
-
-The meeting underscored the importance of fostering international cooperation and collaboration in addressing security threats and promoting peace and stability in the region, a statement from the Defence Ministry read.
-
-The discussions covered a wide range of topics, including counterterrorism efforts, cyber security and defence cooperation.
-
-Both parties expressed their commitment to strengthening bilateral ties and exploring avenues for enhanced cooperation in the security domain.
-
-The bilateral discussion took place on the sidelines of the 12th International Meeting of High-Ranking Officials Responsible for Security Matters convened in St. Petersburg, Russia from 22 - 25 April.
-
-This prestigious event serves as a platform for global leaders to discuss and address pressing security challenges facing nations today.
-
-...
-
-[Data](articles/39bc74b3.json)
-
-[Extended Data](ext_articles/39bc74b3.ext.json)
-
----
-
-### The woman, who had drank the pastor, dies
-
-*2024-04-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195947) · `si`
-
-A 58-year-old woman died in Puttalam Hospital after a sudden illness, following a heated argument with a man. The police are investigating.
-
-🟩
-
-A woman was killed in a sickness of the Madurankuliya police division.
-
-The police said that the woman was admitted to the Puttalam Hospital.
-
-The victim was a 58 year old resident mother of the 58 year old residents.
-
-Investigation revealed that the woman had been with a heated manner and a manmy.
-
-It has also been revealed that the pastor was brought to the woman who had been brought to the woman to recover and had died due to the sudden illness.
-
-The body has been placed at the Puttalam Hospital while the post mortem will be conducted today (25).
-
-◼️
-
-[Data](articles/9c96b8cd.json)
-
-[Extended Data](ext_articles/9c96b8cd.ext.json)
 
 ---

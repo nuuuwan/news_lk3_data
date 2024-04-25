@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 21:03:32**
+As of **2024-04-25 21:18:31**
 
 ## Newspaper Stats
 
-*Scraped **20,976** Articles*
+*Scraped **20,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,193
-adalk | 1,755
+adalk | 1,758
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
 virakesarilk | 3,163
@@ -26,11 +26,43 @@ adaderanasinhalalk | 3,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,976 (100.0%) of 20,976 articles have been extended.
+20,976 (100.0%) of 20,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### මෛත්‍රී මහින්දගෙන් මිලියන 1000ක වන්දි ඉල්ලයි
+
+*2024-04-25 20:13:41* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-මහින්දගෙන්-මිලියන-1000ක-වන්දි-ඉල්ලයි/11-409273) · `si`
+
+තමා සම්බන්ධයෙන් අමාත්‍ය මහින්ද අමරවීර මහතා විසින් සිදු කළ ප්‍රකාශ කිහිපයක් නිසා ඇති වූ  අපහාසයට රුපියල් මිලියන දහසක (1000) වන්දි මුදලක් ඉල්ලා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා  නීතිඥයෙකු මාර්ගයෙන්  එම අමාත්‍යවරයාට  එන්තරවාසියක් යවා  තිබේ.
+
+එම ලිපිය මගින් පෙන්වා දී තිබෙන්නේ   දින 14 ක් තුළ අදාළ මුදල සේවාදායකයා වෙත ගෙවන ලෙසය. මුදල ගෙවීම පැහර හැරියහොත්  එම මුදල හා  නෛතික පොලිය අයකර ගැනීම සඳහා  නඩුපවරන බව සඳහන් කර ඇත.
+
+අමාත්‍ය මහින්ද අමරවීර මහතා විසින් පසුගිය 22 වන දින හා 24 වන දින සිදුකළ ප්‍රකාශ කිහිපයක් නිසා සිදුවී ඇතැයි කියන අපහාසය මුල් කර ගෙන මේ එන්තරවාසිය යවා තිබේ.
+
+◼️
+
+[Data](articles/9b19df49.json)
+
+---
+
+### දුමින්ද ශ්‍රීලංනිප වැඩබලන මහ ලේකම් ධුරයට
+
+*2024-04-25 20:08:48* · [`adalk`](https://www.ada.lk/breaking_news/දුමින්ද-ශ්‍රීලංනිප-වැඩබලන-මහ-ලේකම්-ධුරයට/11-409272) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහලේකම්වරයා ලෙස දුමින්ද දිසානායක මහතා පත් කර තිබේ.
+
+එම පක්ෂයේ දේශපාලන මණ්ඩලය විසින් මෙම පත් කිරීම අද (25දා) සිදුකර තිබේ. දුමින්ද දිසානායක මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක වරයා  වශයෙන්ද කටයුතු කරයි.
+
+දේශපාලන මණ්ඩලය විසින් ගත් මෙම නීන්දුව මැතිවරණ කොමිෂන් සභාව වෙත හෙට (26දා) දන්වා යැවීමට කටයුතු කරන බවද ශ්‍රීලංකා නිදහස් පක්ෂය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/16f4f6e0.json)
+
+---
 
 ### Anura Kumara leaves for Sweden tonight
 
@@ -361,6 +393,28 @@ The passing out parade of a team of 100 police personnel who underwent special t
 [Data](articles/bf70eb86.json)
 
 [Extended Data](ext_articles/bf70eb86.ext.json)
+
+---
+
+### ජනතාව යළි අරගලයකට නොයන ආර්ථිකයක් නිර්මාණය කරනවා
+
+*2024-04-25 18:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-යළි-අරගලයකට-නොයන-ආර්ථිකයක්-නිර්මාණය-කරනවා/11-409267) · `si`
+
+ජනතාව යළි අරගලයකට නොයන ආර්ථික තත්ත්වයක් රට තුළ නිර්මාණය කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
+
+කඩා වැටුණු ආර්ථිකය වසර දෙකක් තුළ යළි ගොඩනැඟීමට හැකිවූ බව පෙන්වා දුන් ජනාධිපතිවරයා නැවත කඩා නොවැටෙන ආර්ථිකයක් රට තුළ ඇතිකර ජනතාවගේ ජීවන තත්ත්වය ඉහළ නැංවීමට කටයුතු කරන බව ද කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ, ITC රත්නදීප අධි සුඛෝපභෝගි හෝටලය විවෘත කිරීමේ උත්සවයට අද (25) එක්වෙමිනි .
+
+ගාලුමුවදොර ඉදිකර ඇති ITC රත්නදීප හෝටලය ඉන්දියාවේ ITC හෝටල් සමූහය විසින් ඉන්දියාවෙන් පිටත ඉදිකළ පළමු හෝටලය වේ.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය.
+
+ITC සමාගම ශ්‍රී ලංකාවට සාදරයෙන් පිළිගන්නවා. ආසියාවේ පළමු තරු පහේ හෝටලය වන ගාලුමුවදොර හෝටලය මේ අසල පිහිටා තිබෙනවා. ඒවගේම ඉන්දියානු ටාජ් හෝටලය ද මේ ආසන්නයේ පිහිටා තිබෙනවා. සිංගප්පූරුවෙන් පැමිණි ෂැංග්‍රිලා හෝටලයද පිහිටා තිබෙන්නේ මේ ආසන්නයේයි. ඒ සියල්ලන්ටම වඩා උසින් දැන් ITC රත්නදීප හෝටලයද තිබෙනවා. ඒ වගේම ඊට පසුපසින් සිනමන් ලයිෆ් හෝටලය තිබෙනවා.
+
+...
+
+[Data](articles/478eb6b3.json)
 
 ---
 
@@ -2209,81 +2263,5 @@ He also said that he was arrested and he had an inquiry into the Foreign Employm
 [Data](articles/71ff9dfd.json)
 
 [Extended Data](ext_articles/71ff9dfd.ext.json)
-
----
-
-### Do not mix the rice with rice
-
-*2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
-
-Education Minister Susil Premajayantha assured that rice supplied by the World Food Scheme (WFP) to schools is not suitable for children, emphasizing the need for separate funding and quality checks.
-
-🟩
-
-Education Minister Susil Premajayantha has today assured that the rice is supplied by the World Food Scheme (WFP) that is supplied to schools and is not suitable for the use of children.
-
-Speaking to Parliament today, he said the rice packages were provided by the WFP in support of the government program.
-
-The government ensures that the food distributed in government funds is suitable for children's eating. Minister Premajayantha said that they would advise regular quality tests with the help of the Provincial Public Health Inspectors (PHIS), even after the rice reserves were provided to the provincial educational centers through the Director General of Health Services.
-
-The state government has an additional funding from various resources for each child for Rs.. 110 has been assigned. As a result, the Minister asked the government not to mix the rice in the government's funding with the rice provided by the WFP scheme.
-
-◼️
-
-[Data](articles/73f12ccb.json)
-
-[Extended Data](ext_articles/73f12ccb.ext.json)
-
----
-
-### Do not mix WFP rice with government rice
-
-*2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/WFP-அரிசியை-அரசாங்க-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
-
-Education Minister Susil Premajayantha assures that rice from the World Food Scheme (WFP) is not suitable for children and should not be mixed with government rice. The government ensures food is safe for children and conducts quality tests. The state provides Rs. 110 per child, advising against mixing WFP rice with government funds.
-
-🟩
-
-Education Minister Susil Premajayantha has today assured that the rice is supplied by the World Food Scheme (WFP) that is supplied to schools and is not suitable for the use of children.
-
-Speaking to Parliament today, he said the rice packages were provided by the WFP in support of the government program.
-
-The government ensures that the food distributed in government funds is suitable for children's eating. Minister Premajayantha said that they would advise regular quality tests with the help of the Provincial Public Health Inspectors (PHIS), even after the rice reserves were provided to the provincial educational centers through the Director General of Health Services.
-
-The state government has an additional funding from various resources to each child for Rs.. 110 has been assigned. As a result, the Minister asked the government not to mix the rice in the government's funding with the rice provided by the WFP scheme.
-
-◼️
-
-[Data](articles/8f9c8fed.json)
-
-[Extended Data](ext_articles/8f9c8fed.ext.json)
-
----
-
-### Rescue
-
-*2024-04-25 12:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஸ்ரீ-பாத-மலையில்-இருந்து-குதித்த-இளைஞன்-மீட்பு/76-336311) · `ta`
-
-A 33-year-old man, Dinesh Hemantha, was found unconscious after disappearing from Sivanolipadamalai. He was rescued by police and admitted to Maskeliya Divisional Hospital, later transferred to Dick Oya Hospital. He had minor leg injuries and was in stable condition.
-
-🟩
-
-A good man who disappeared from the Sivanolipadamalai courtyard was found on Wednesday (24) afternoon, police said.
-
-Dinesh Hemantha (33), a young man who went to Sivanolipadamalai with two women from Suryawewa, Hambantota
-
-In this case, some of the youths from the Mare Estate of the Nallathani police division have told the good police that the missing young man was unconscious when he went to cut firewood.
-
-The police who immediately went to the place were rescued and admitted to the Maskeliya Divisional Hospital and later transferred to the Dick Oya Hospital.
-
-When the young man commented to the media at the Maskeliya Hospital, he said, "I do not remember what happened to me on the road of Sri Pada Udamaluwa. When I returned to self -consciousness, I was near a canal, and then slowly down the canal for five days.I only drink and solve hunger. ”
-
-The hospital administration said that there were some minor injuries on the leg of the young man and his condition was not worrisome.
-
-◼️
-
-[Data](articles/0c14a6b9.json)
-
-[Extended Data](ext_articles/0c14a6b9.ext.json)
 
 ---

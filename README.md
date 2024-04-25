@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 03:33:55**
+As of **2024-04-26 03:51:31**
 
 ## Newspaper Stats
 
-*Scraped **21,029** Articles*
+*Scraped **21,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,132
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,429
+tamilmirrorlk | 2,431
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,276
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,029 (100.0%) of 21,029 articles have been extended.
+21,029 (100.0%) of 21,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,6 +196,22 @@ He, being a distinguished old boy of Thurstan College, had a close relationship 
 
 ---
 
+### தடுமாறுகிறது இ.தொ.கா: மனோ குற்றச்சாட்டு
+
+*2024-04-26 01:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுமாறுகிறது-இ-தொ-கா-மனோ-குற்றச்சாட்டு/175-336359) · `ta`
+
+"இலங்கை தொழிலாளர் காங்கிரஸ் தொழிற்சங்க போராட்டம் நடத்துவதாக சொல்லி ரவுடித்தனம், காடைத்தனம் செய்கின்றதா? எனக்கேட்ட தமிழ் முற்போக்கு கூட்டணி தலைவரான மனோ கணேசன் எம்.பி., அறிவுரை வழங்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கேட்டக்கொண்டார்.
+
+கண்டி புஸ்ஸலாவையில்  வேலு குமார் எம்.பி மீது, இ.தொ.கா அங்கத்தவர்கள் மேற்கொண்ட தாக்குதல் முயற்சி தொடர்பில், வியாழக்கிழமை  (25) நடத்தப்பட்ட ஊடக சந்திப்பின் போதே  மனோ கணேசன்   இவ்வாறு  தெரிவித்துள்ளார் .
+
+தனக்கு விடுக்கப்பட்ட கொலை அச்சுறுத்தல் தொடர்பில், முறைப்பாடு செய்யுமாறு அறிவுறுத்தியுள்ளேன்.   ஒரு மக்கள் பிரதிநிதி என்ற முறையில் அவரை தனது கடமைகளை செய்ய விடாமல் தடுத்த நபர்களின் அடையாளங்கள் காணொளியில்  உள்ளன. அதன்படி அவர்களை உடன் கைது சட்ட நடவடிக்கை எடுக்கும்படியும் கூறியுள்ளேன் என்றார்.
+
+...
+
+[Data](articles/439c1769.json)
+
+---
+
 ### A man arrested with cannabis in front of the Vavuniya Passport Office
 
 *2024-04-26 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181983) · `ta`
@@ -229,6 +245,22 @@ The $ 3 million initiative will bolster food and nutritional security and fortif
 [Data](articles/872effa1.json)
 
 [Extended Data](ext_articles/872effa1.ext.json)
+
+---
+
+### ’ இந்தியாவால் தகவல் வழங்கப்பட்டுள்ளது’
+
+*2024-04-26 01:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவால்-தகவல்-வழங்கப்பட்டுள்ளது/175-336358) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் சம்பவத்தின் பின்னால் சர்வதேச சூழ்ச்சி இருந்ததாக தெரியவில்லை என்று எதிர்க்கட்சி பிரதம கொரடாவான ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் லக்‌ஷ்மன் கிரியெல்ல தெரிவித்துள்ளார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பில் பாராளுமன்றத்தில் வியாழக்கிழமை (25) நடைபெற்ற சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+இந்தியாவில் இருந்து தகவல்கள் வந்துள்ளன. நிலந்த ஜயவர்தனவுக்கு வந்துள்ள போதும், அவரின் தொலைபேசியில் இருந்த தகவல்கள் அழிக்கப்பட்டுள்ளன. தகவல் தெரிந்தும் சம்பவங்கள் நடக்க இடமளிக்கப்பட்டுள்ளது. சம்பவம் நடைபெற்ற பின்னர் கட்டுவாப்பிட்டிய சென்று தேசிய பாதுகாப்புக்கு அச்சுறுத்தல் என்று கோட்டாபய ராஜபக்‌ஷ கூறினார். அப்படிதான் அவர் வந்தார்.
+
+...
+
+[Data](articles/fd58a65d.json)
 
 ---
 
@@ -2145,55 +2177,5 @@ I did not buy a lipstick or cosmetics, he says.
 [Data](articles/b1461844.json)
 
 [Extended Data](ext_articles/b1461844.ext.json)
-
----
-
-### Rap singer sentenced to death
-
-*2024-04-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195962) · `si`
-
-Iranian rap singer sentenced to death for supporting anti-government protests in 2022-23. Punishment eased by state media.
-
-🟩
-
-The Iranian Court of Iranian Court has been sentenced to the Tumage of the Iranian Tumage, who was accused of supporting anti-government protests.
-
-According to the state media, the state media said that the punishment given to him was eased on the forefront.
-
-His lawyer said that he had accused the aggressive events in Iran in 2022-23.
-
-In October 2022, 2022 was arrested in October 2022, supporting the protests throughout the country.
-
-The demonstrations were taken into police custody after the police were arrested by the police accusing the hedgery not worrying properly.
-
-◼️
-
-[Data](articles/74ed8a8d.json)
-
-[Extended Data](ext_articles/74ed8a8d.ext.json)
-
----
-
-### 21/4 attacks; Kota released a special report
-
-*2024-04-25 15:27:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்கள்-விசேட-அறிக்கை-வெளியிட்டார்-கோட்டா/175-336323) · `ta`
-
-Former President Gotabhaya Rajapakse refutes allegations by Cardinal Malcolm Ranjith regarding the Easter Sunday attacks, claiming the Cardinal is implicating both sides involved in the attacks. Rajapakse denies delays in handing over the Presidential Commission's report and alleges that the Cardinal's accusations are politically motivated.
-
-🟩
-
-Former President Gotabhaya Rajapakse, who has refused to have a serious refusal to the allegations of Cardinal Malcolm Ranjith on Easter Sunday attacks, has said that Cardinal Ranjit is acting in the responsibility of the two sides who are actually involved in terrorist attacks.
-
-Cardinal Ranjith made the following allegations at a recent media briefing against former President Gotabhaya Rajapakse.
-
-• The day after the Presidential Commission of Inquiry was handed over to me on Easter Sunday attacks, I telephoned Kardinal and told me that I had difficulties in implementing the recommendations in the report.. It included the arrest of individuals and the ban on organizations that were in favor.
-
-• It was said that I (Gotabhaya) had delayed to hand over the copy of the first constituency of the Presidential Commission to the Cardinal and did not provide the remaining constituencies.
-
-...
-
-[Data](articles/6452250a.json)
-
-[Extended Data](ext_articles/6452250a.ext.json)
 
 ---

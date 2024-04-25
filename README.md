@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 09:34:05**
+As of **2024-04-25 09:53:03**
 
 ## Newspaper Stats
 
-*Scraped **20,832** Articles*
+*Scraped **20,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,733
 tamilmirrorlk | 2,408
-adaderanalk | 2,476
+adaderanalk | 2,477
 virakesarilk | 3,136
 dailymirrorlk | 3,248
 adaderanasinhalalk | 3,363
@@ -26,31 +26,77 @@ adaderanasinhalalk | 3,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,829 (100.0%) of 20,832 articles have been extended.
+20,832 (100.0%) of 20,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### කිරිපිටි මිල ගැන අලුත් කතාවක්
+### Spain’s PM Pedro Sánchez halts public duties as wife faces inquiry
 
-*2024-04-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195948) · `si`
+*2024-04-25 09:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98828/spains-pm-pedro-snchez-halts-public-duties-as-wife-faces-inquiry) · `en`
 
-ආනයනික කිරිපිටි මිල යළිත් අඩු කිරීම සම්බන්ධයෙන් සංගමයක් ලෙස මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය පවසයි.
+Spanish Prime Minister Pedro Sánchez has suspended public duties to “stop and reflect” on whether to remain in the job, after a court opened a preliminary inquiry into his wife.
 
-එහි මාධ්‍ය ප්‍රකාශක අශෝක බණ්ඩාර මහතා සඳහන් කළේ, කිරිපිටි මිල සංශෝධනය කිරීම සම්බන්ධයෙන් නිල මට්ටමෙන් කිසිදු සාකච්ඡාවක් පවත්වා නොමැති බවය.
+In a statement, the Spanish leader said he urgently needed to decide “whether I should continue to lead the government or renounce this honour”.
 
-පසුගිය මාසයේදී ආනයනික කිරිපිටි ග්‍රෑම් 400 රුපියල් 60කින් සහ කිලෝග්‍රෑම් එක රුපියල් 150කින් අඩු කිරීමට කිරිපිටි ආනයනකරුවන් පියවර ගනු ලැබීය.
+The court said it was responding to corruption claims against Begoña Gómez.
 
-ඒ අනුව මේ වන විට වෙළෙඳපොළේ විවිධ මිල ගණන් යටතේ කිරිපිටි අලෙවි වන අතර තවදුරටත් කිරිපිටි මිල අඩු කිරීම පිළිබඳ මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව අශෝක බණ්ඩාර මහතා සඳහන් කළේය.
+Mr Sánchez said his wife would defend her honour and work with the judiciary.
 
-කෙසේවෙතත් නවසීලන්තයෙන් කිරිපිටි ආනයනය කරන ආයතනයක් විසින් අද දිනයේ සිට ක්‍රියාත්මක වන පරිදි යළිත් කිරිපිටි මිල අඩු කරන බවට ඊයේ (24) ප්‍රකාශයක් සිදුකරනු ලැබීය.
+The complaint against Begoña Gómez was raised by anti-corruption campaigners Manos Limpias (Clean Hands), who have taken part in a number of high-profile court cases in recent years and are led by a man linked to the far right.
 
-ඒ අනුව කිලෝග්‍රෑම් එකක ආනයනික කිරිපිටි පැකැට්ටුවක් රුපියල් 250ත් 350ත් අතර මිලකින් සහ ග්‍රෑම් 400යේ කිරිපිටි පැකට්ටුවක් රුපියල් 100ත් 140ත් අතර මිලකින් අඩු කිරීමට නියමිත බව වාර්තා වුණි.
+The Spanish prime minister said he would make a decision on his future before the media on Monday 29 April, after reflecting whether it was worth remaining in office “despite the mud” that the right and far right were trying to turn politics into.
 
 ...
 
+[Data](articles/3cf0fd5b.json)
+
+---
+
+### A new story about the price of milk powder
+
+*2024-04-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195948) · `si`
+
+No decision to restore milk powder prices. Importers reduced by 400 grams/kg. No market price reduction. New Zealand imports now cheaper.
+
+🟩
+
+The forum of milk powder is reported so far, there has been no decision to restore the price of imported milk powder.
+
+According to the media spokesman Asoka Bandara, MP Asoka Bandara said that there was no discussion at the official level of a revision of the price of milk powder.
+
+In the last month, the importers of milk powder were taken to reduce 400 grams of imported milk powder and reducing the kilo.
+
+Accordingly, no decision has been taken so far to reduce milk powder at various prices in the market and no further decision has been taken to reduce milk powder prices.
+
+However, New Zealand has been reduced to the importation of milk powder to operate from today's milk powder.
+
+Accordingly, a packet of imported milk powder is due to be reduced by Rs. 350 and a packet of Rs.
+
+The association spokesman Asoka Bandara stated that there is no connection on the forum of the Milk powder importers.
+
+◼️
+
 [Data](articles/375e2ed7.json)
+
+[Extended Data](ext_articles/375e2ed7.ext.json)
+
+---
+
+### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
+
+*2024-04-25 09:17:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
+
+Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
+
+Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
+
+...
+
+[Data](articles/df579056.json)
+
+[Extended Data](ext_articles/df579056.ext.json)
 
 ---
 
@@ -63,6 +109,8 @@ Civil Society Organizations demands an ambitious Global Plastic Treaty, at Ottaw
 ◼️
 
 [Data](articles/f49a7a12.json)
+
+[Extended Data](ext_articles/f49a7a12.ext.json)
 
 ---
 
@@ -1312,22 +1360,6 @@ Global Finance said its Best Bank Awards recognise financial institutions that o
 
 ---
 
-### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
-
-*2024-04-24 22:40:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
-
-Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
-
-Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
-
-...
-
-[Data](articles/df579056.json)
-
-[Extended Data](ext_articles/df579056.ext.json)
-
----
-
 ### India is no ‘big brother’ to Sri Lanka, H.C. Santosh Jha says in myth-busting speech
 
 *2024-04-24 22:39:00* · [`islandlk`](http://island.lk/india-is-no-big-brother-to-sri-lanka-h-c-santosh-jha-says-in-myth-busting-speech/) · `en`
@@ -1894,19 +1926,25 @@ This scanner has been in use since last Sunday and now patients can benefit from
 
 ---
 
-### ආනයනික කිරිපිටි මිල පහළට
+### Imported milk powder prices down
 
 *2024-04-24 19:31:29* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-කිරිපිටි-මිල-පහළට/11-409248) · `si`
 
-අද (25දා) සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි මිල පහළ දමන බව කිරිපිටි ආනයනකරුවන්ගේ සංගමය පැවසීය.
+Milk Pooja reports a 250-300 Rs reduction in imported milk powder prices today, with 400g milk powder prices dropping by 100-130 Rs.
 
-ඒ අනුව ආනයනික කිරිපිටි කිලෝග්‍රෑම් එකක මිල රුපියල් 250-300ත් අතර මිලකින් පහළ දමනු ලැබේ.
+🟩
 
-එමෙන්ම කිරිපිටි ග්‍රෑම් 400ක මිල රුපියල් 100-130ත් අතර මිලකින් පහළ දමනු ඇති බවද එම සංගමය වැඩිදුරටත් සඳහන් කළේය.
+According to the Milk Pooja, the Association of the Milkpola, said that the import milk powder prices will be reduced today (25th).
+
+Accordingly, the price of a kilogram of imported milk powder is reduced by a price of Rs. 250-300.
+
+The Association further stated that the 400 g of milk powder will be reduced at a price of Rs 100-130.
 
 ◼️
 
 [Data](articles/a2f269f9.json)
+
+[Extended Data](ext_articles/a2f269f9.ext.json)
 
 ---
 
@@ -2149,29 +2187,5 @@ Ivanov was present earlier on Tuesday at a meeting of top defense officials chai
 [Data](articles/a00455cc.json)
 
 [Extended Data](ext_articles/a00455cc.ext.json)
-
----
-
-### The purpose is to strengthen contacts with Iran -President Ranil
-
-*2024-04-24 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181877) · `ta`
-
-President Ranil Wickremesinghe emphasized strengthening relations with Iran, highlighting successful collaboration on the "Uma Oya" project, a blend of ancient irrigation traditions. The project, despite challenges, showcases Iran's technical cooperation, aiming to supply water and boost economic growth in Sri Lanka.
-
-🟩
-
-Both countries have a good experience in facing challenges. So we have successfully faced these challenges. President Ranil Wickremesinghe said the aim was to strengthen relations with Iran and bring forward.
-
-President Ranil Wickremesinghe said this while addressing the publication of the "Uma Oya" multi -purpose development project by the Sri Lankan -Iranian presidents.
-
-I would like to thank the President of Iran for accepting an invitation to attend the event today. I consider this opportunity to have a close relationship between the two countries. It must be said that this project was launched by leaders before my tenure. Former President Mahinda Rajapaksa showed special concern for this project to provide water to the dry zone.
-
-Uma Oya had to face a variety of challenges while implementing the Multipurpose Development Program. But our two countries have a good experience in facing challenges. So, we have successfully faced these challenges.
-
-...
-
-[Data](articles/10867119.json)
-
-[Extended Data](ext_articles/10867119.ext.json)
 
 ---

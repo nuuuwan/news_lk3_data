@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 01:03:45**
+As of **2024-04-26 01:18:33**
 
 ## Newspaper Stats
 
-*Scraped **21,005** Articles*
+*Scraped **21,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,132
 dailyftlk | 1,181
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,425
+tamilmirrorlk | 2,426
 adaderanalk | 2,500
 virakesarilk | 3,167
-dailymirrorlk | 3,271
+dailymirrorlk | 3,273
 adaderanasinhalalk | 3,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,002 (100.0%) of 21,005 articles have been extended.
+21,005 (100.0%) of 21,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### கர்தினாலின் குற்றச்சாட்டுகளை மறுத்தார் கோட்டா
+
+*2024-04-26 00:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலின்-குற்றச்சாட்டுகளை-மறுத்தார்-கோட்டா/175-336354) · `ta`
+
+உயிர்த்த ஞாயிறு தொடர்பான கர்தினால் மல்கம் ரஞ்சித் முன்வைத்துள்ள குற்றச்சாட்டுகளை முற்றாக நிராகரித்துள்ள முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பயங்கரவாத தாக்குதலில் ஈடுபட்டஇரு தரப்புகள் குறித்த உண்மைகளை கர்தினால் மறைக்கின்றார் அல்லது வெளிப்படையாக தவிர்க்கின்றார் என குறிப்பிட்டுள்ளார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் குறித்த ஜனாதிபதி ஆணைக்குழு என்னிடம் கையளிக்கப்பட்ட மறுநாள் நான் கர்தினால்மல்கம் ரஞ்சித்தைதொடர்புகொண்டேன் என கர்தினால் தெரிவித்துள்ளார் ஆனால் நான் அந்தஅறிக்கைசமர்ப்பிக்கப்பட்ட பின்னர் கர்தினாலை தொலைபேசி மூலம் தொடர்புகொள்ளவேயில்லை என கோட்டாபய தெரிவித்துள்ளார்.
+
+முஸ்லீம் சமூகத்தினர் எனக்கு வாக்களிக்கவில்லை என்னை ஆதரிக்கவில்லை என்பது நன்கு தெரிந்த விடயம் இதன் காரணமாக உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில்  தடைசெய்யப்படவேண்டிய எந்த அமைப்பிலும் நான் ஏன் ஆதரவாளர்களை வைத்திருக்கவேண்டும் எனவும் முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ca185a43.json)
+
+---
 
 ### Overseas Realty kicks off FY24 with Rs. 1.83 b pre-tax profit
 
@@ -45,6 +61,44 @@ Although apartment sales were low due to depressed economic conditions and highe
 ...
 
 [Data](articles/cc881e75.json)
+
+[Extended Data](ext_articles/cc881e75.ext.json)
+
+---
+
+### New uterine loop for monkey birth control
+
+*2024-04-26 00:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-uterine-loop-for-monkey-birth-control/108-281390) · `en`
+
+Colombo, April 25 (Daily Mirror) - The Veterinary Faculty at Peradeniya University has introduced a novel small-sized loop designed for implantation into the uterus of female monkeys to effectively prevent pregnancy
+
+A one-and-half-year-old female monkey that had given birth once was used for this test.
+
+Senior Professor Ashoka Dangolla from the Faculty of Veterinary Medicine at Peradeniya University reported that during the X-ray examination conducted after the surgery, it was observed that the implanted loop was successfully in place.
+
+Professor Dangolla explained that this form of birth control is intended to prevent pregnancy in women. Due to previous unsuccessful attempts using a normal-sized loop, the decision was made to create a smaller-sized loop.
+
+He noted that doctors from the Obstetrics and Neurology Department of Peradeniya Teaching Hospital, along with the Faculty of Dentistry at Peradeniya, have also contributed their expertise to this endeavour.
+
+...
+
+[Data](articles/68ad7e4d.json)
+
+---
+
+### Undercover cops to combat criminal activities in prisons: IGP
+
+*2024-04-26 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Undercover-cops-to-combat-criminal-activities-in-prisons-IGP/108-281371) · `en`
+
+Colombo, April 26 (Daily Mirror) - In light of ongoing criminal activities within prison facilities, police have initiated decisive measures to deploy undercover officers to monitor and thwart illicit operations within the prisons.
+
+Inspector General of Police Deshabandu Tennakoon said that organized criminals are being remanded in 15 prisons across the country and 15 special police teams have been deployed as undercover officers in those prisons to identify the activities by remanded criminals.
+
+"Despite being remanded, the organized criminals still operate their underworld activities and drug trafficking via prisons. The police under the 'Yukthiya' operation had taken special measures to curb those organized crimes by inmates," the IGP said.
+
+...
+
+[Data](articles/5b2c3376.json)
 
 ---
 
@@ -198,6 +252,8 @@ With about six months to go for a Presidential election, Cardinal Ranjith who wa
 
 [Data](articles/1d074e47.json)
 
+[Extended Data](ext_articles/1d074e47.ext.json)
+
 ---
 
 ### Palitha of Pasdun Korale was a “Hitha Honda Chandiya”
@@ -209,6 +265,8 @@ Palitha Thewarapperuma was an unconventional politician. He was a man of action 
 ...
 
 [Data](articles/3008fe64.json)
+
+[Extended Data](ext_articles/3008fe64.ext.json)
 
 ---
 
@@ -2169,71 +2227,5 @@ By automating the monitoring and coordination of aircraft maintenance with AMOS,
 [Data](articles/1b8a9e3c.json)
 
 [Extended Data](ext_articles/1b8a9e3c.ext.json)
-
----
-
-### In 2023, alcohol producers have 1.1 billion to the government
-
-*2024-04-25 13:48:39* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-මත්පැන්-නිශ්පාදකයන්--රජයට-බිලියන-1-1ක-පොල්ලක්-තියයි/11-409259) · `si`
-
-In 2023, alcohol producers owe 1.1 billion to the Sri Lankan government. The Excise Department is to recover these arrears by June 30. The Committee on Methods and Methods will reveal the number of arrears. Licenses will consider production capacity. The Consumer Affairs Authority will identify mandates of essential food items and take action against specified individuals. The Committee on Parliament and Methods met on April 24, 2014. The Excise Department is introducing a non-fake protective tax seal for all liquor manufacturers. The Revenue Administrative System (RASED) and the Criminal Investigation Department (CID) are progressing. The Committee has ordered the Excise Department to monitor each liquor factory. The Committee has given a report to the Commissioner of Excise. The Ministry of Economic Stability and National Institutes has called officers of state institutions. The Committee has ordered the Excise Department to recover the arrears by June 30. The Excise Department has collected 51 billion in the first quarter of 2024. The Chairman emphasized that the Excise Department's policy is not temporarily suspended. The Committee has inquired about the progress of introducing legal licenses and the issuance of new liquor licenses. The Committee has stressed the need for CCTV cameras for the Commissioner General of Excise. The Committee has ordered the reporting of essential food items to the Consumer Affairs Authority.
-
-🟩
-
-Death of alcohol manufacturers in relation to year 2023, action will be taken to recover on June 30 - Action to the Excise Department of Sri Lanka Excise on Planning and Opportunities
-
-The number of arrears of liquor manufacturers regarding the year 2023 will be revealed in the Committee on Methods and Methods.
-
-When issuing liquor license, determine the production capacity of the production capacity as per the production capacity - Committee instructors from the Excise Officers of the Committee.
-
-Consumer Affairs Authority should be conducted by the Consumer Affairs Authority to identify the number of mandate of essential food items
-
-Consumer Affairs Authority should take action against persons who have been specified by the Consumer Affairs Authority.
-
-The Committee on Parliament and Methods met on 24.04.2014.
-
-...
-
-[Data](articles/5b9d1bb1.json)
-
-[Extended Data](ext_articles/5b9d1bb1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-25 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181936) · `ta`
-
-Today's currency exchange rate: US $292.7078, sales price 302.5848, based on Central Bank's rate on April 25.
-
-🟩
-
-The US $ 292.7078 and the sales price were 302.5848 based on the Central Bank's currency exchange rate on Thursday (April 25).
-
-◼️
-
-[Data](articles/3cfacdfd.json)
-
-[Extended Data](ext_articles/3cfacdfd.ext.json)
-
----
-
-### Sannasgala arrested
-
-*2024-04-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195960) · `si`
-
-Mr. Upul Shantha Sannrasgala, a former tuition teacher, arrested for financial fraud.
-
-🟩
-
-Mr. Upul Shantha Sannrasgala, a former popular tuition teacher, has been arrested by police.
-
-He was arrested by the police regarding the investigations carried out regarding a financial fraud of Rs.
-
-◼️
-
-[Data](articles/ea389bb2.json)
-
-[Extended Data](ext_articles/ea389bb2.ext.json)
 
 ---

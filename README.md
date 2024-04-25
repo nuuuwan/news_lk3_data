@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 15:34:04**
+As of **2024-04-25 15:52:46**
 
 ## Newspaper Stats
 
-*Scraped **20,909** Articles*
+*Scraped **20,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,745
-tamilmirrorlk | 2,420
+adalk | 1,746
+tamilmirrorlk | 2,421
 adaderanalk | 2,487
 virakesarilk | 3,149
-dailymirrorlk | 3,254
-adaderanasinhalalk | 3,376
+dailymirrorlk | 3,255
+adaderanasinhalalk | 3,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,906 (100.0%) of 20,909 articles have been extended.
+20,909 (100.0%) of 20,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### සන්නස්ගලට ඇප
+
+*2024-04-25 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195963) · `si`
+
+රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගැනුණු හිටපු ජනප්‍රිය උපකාරක පන්ති ගුරුවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල මහතාව ඇප මත මුදාහැර තිබේ.
+
+කඳාන පොලීසිය විසින් ඒ මහතාව අත්අඩංගුවට ගෙන වැලිසර අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/fa8d4ee8.json)
+
+---
+
+### ඉරාන රැප් ගායකයා ට මරණ දඬුවම
+
+*2024-04-25 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195962) · `si`
+
+ඉරානයේ රාජ්‍ය විරෝධී උද්ඝෝෂණ සඳහා සහාය දුන් බවට චෝදනා එල්ල වූ එරට ප්‍රකට රැප් ගායකයෙක් වන ටූමාජ් සලෙහි ට ඉරාන අධිකරණය විසින් මරණ දණ්ඩනය නියම කර තිබේ.
+
+ඒ සම්බන්ධයෙන් වාර්තා කළ එරට රාජ්‍ය මාධ්‍ය පැවසුවේ සලෙහි ට ඔහුට එරෙහිව ලබාදී ඇති දඬුවම ලිහිල්කර ගැනීමට අවස්ථාවක් ඇති බවයි.
+
+2022-23 කාලයේදී ඉරානයේ පැවති කලහකාරී සිදුවීම් සම්බන්ධයෙන් සලෙහි ට චෝදනා එල්ලකර තිබූ බව ඔහුගේ නීතිඥවරයා පැවසීය.
+
+රටපුරා පැවති විරෝධතා සඳහා සහාය දක්වමින් ප්‍රකාශ නිකුත් කිරීම සම්බන්දයෙන් සලෙහි ව 2022 ඔක්තෝබර් මාසයේදී අත්අඩංගුවට ගැනුණි.
+
+හිජාබ ය නිසි ආකාරයට පැළඳ නොසිටි බවට චෝදනා කර පොලීසිය විසින් අත්අඩංගුවට ගැනුණු 22 හැවිරිදි මාෂා අමිනී පොලිස් අත්අඩංගුවේදී මිය යාමෙන් අනතුරුව එම උද්ඝෝෂණ ඇතිවිය.
+
+◼️
+
+[Data](articles/74ed8a8d.json)
+
+---
+
+### 21/4 தாக்குதல்கள்;விசேட அறிக்கை வெளியிட்டார் கோட்டா
+
+*2024-04-25 15:27:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்கள்-விசேட-அறிக்கை-வெளியிட்டார்-கோட்டா/175-336323) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான கர்தினால் மல்கம் ரஞ்சித்தின் குற்றச்சாட்டுகளுக்கு காரசாரமான மறுப்புத் தெரிவித்த முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ, கர்தினால் ரஞ்சித் பயங்கரவாதத் தாக்குதல்களில் உண்மையில் ஈடுபட்ட இரு தரப்பினரின் பொறுப்பை மறைக்கிறார் அல்லது வெளிப்படையாக அவர்களை விடுவிக்கிறார் என்று தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவுக்கு எதிராக கர்தினால் ரஞ்சித் அவர்கள் அண்மையில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் பின்வரும் குற்றச்சாட்டுகளை முன்வைத்தார்.
+
+• ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பான ஜனாதிபதி விசாரணை ஆணைக்குழுவின் அறிக்கை என்னிடம் கையளிக்கப்பட்ட மறுநாள், நான் கர்டினாலுடன் தொலைபேசியில் பேசி, அந்த அறிக்கையில் உள்ள பரிந்துரைகளை நடைமுறைப்படுத்துவதில் எனக்கு சிரமங்கள் இருப்பதாகக் கூறினேன். தனி நபர்களை கைது செய்தல் மற்றும் எனக்கு ஆதரவாக இருந்த அமைப்புகளை தடை செய்தல் போன்றவை அதில் உள்ளடக்கப்பட்டு இருந்தன.
+
+• ஜனாதிபதி ஆணைக்குழு அறிக்கையின் முதல் தொகுதியின் நகலை கர்தினாலுக்கு வழங்க நான் (கோட்டாபய) தாமதித்ததாகவும், எஞ்சிய தொகுதிகளை அவருக்கு வழங்கவில்லை என்றும் கூறப்பட்டது.
+
+...
+
+[Data](articles/6452250a.json)
+
+---
 
 ### Maithripala sends letter of demand to Amaraweera, seeks Rs. 1 bn compensation
 
@@ -570,19 +622,29 @@ International relations department leaders of the Chinese Communist Party have s
 
 ---
 
-### சஜிதை சந்தித்த  சீனக் கம்யூனிஸ்ட் கட்சி
+### Chinese Communist Party
 
 *2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜிதை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
 
-சீனக் கம்யூனிஸ்ட் கட்சியின் சர்வதேச உறவுகள் திணைக்களத்தின் உயர்மட்ட பிரதிநிதிகள் குழுவினர்,  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையிலான ஐக்கிய மக்கள் கூட்டணியின் பிரதிநிதிகளை கொழும்பிலுள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் வைத்து  புதன்கிழமை (24) பிற்கபல் சந்தித்து கலந்துரையாடியுள்ளனர் .
+Chinese Communist Party representatives met with UPFA leaders, discussing economy, trade, and political relations. They aim to invest $1M to restore Sri Lanka's economy, with focus on recovery strategies.
 
-இரு தரப்பினருக்கும் இடையிலான இந்த விசேட சந்திப்பு ஒரு மணி நேரம் இடம்பெற்றுள்ளது . அதனை தொடர்ந்து, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் சீன கம்யூனிஸ்ட் கட்சியின் சர்வதேச விவகாரங்களுக்கான துணை அமைச்சர்  சன் ஹையன் இடையில் 45 நிமிட நேருக்கு நேர் பிரத்தியக சந்திப்பும் இடம்பெற்றுள்ளது .
+🟩
 
-பொருளாதாரம், வர்த்தக, அரசியல் உறவுகள் என பல துறைகள் குறித்து இங்கு விரிவாக கலந்துரையாடப்பட்டுள்ளதுடன் ,இலங்கைக்கும் சீனாவுக்கும் இடையில் வர்த்தக உறவுகளை ஏற்படுத்துவது தொடர்பில் இரு தரப்புக்கும் இடையில் கருத்துக்கள் பரிமாறப்பட்டுள்ளது .
+A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa on Wednesday (24).
+
+This special meeting between the two sides has been held for an hour. Following this, a 45 -minute face -to -face meeting was held between Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China Sun Hayan.
+
+A number of sectors, such as the economy, trade and political relations, have been discussed in detail, and the two sides have been exchanged between Sri Lanka and China.
+
+Here, considering China's economic development model, both sides have exchanged ideas about the way our country can recover from the current situation.
+
+International relations department leaders of the Chinese Communist Party have said they expect to invest a million US dollars to restore the country's economy.
 
 ...
 
 [Data](articles/8d5ba211.json)
+
+[Extended Data](ext_articles/8d5ba211.ext.json)
 
 ---
 
@@ -814,21 +876,27 @@ Thousands of students in many universities, from Massachoods to California, are 
 
 ---
 
-### அரிசியை அரிசியுடன் கலக்க வேண்டாம்
+### Do not mix the rice with rice
 
 *2024-04-25 12:10:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அரிசியுடன்-கலக்க-வேண்டாம்/175-336312) · `ta`
 
-பாடசாலைகளுக்கு விநியோகிக்கப்பட்டு வருகின்ற, குழந்தைகளின் பாவனைக்கு ஏற்றதல்ல என கூறப்படும் அரிசி உலக உணவுத் திட்டத்தினால் (WFP) வழங்கப்பட்டதே தவிர அரசாங்கத்தினால் வழங்கப்படவில்லை என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த இன்று உறுதியளித்துள்ளார்.
+Education Minister Susil Premajayantha assured that rice supplied by the World Food Scheme (WFP) to schools is not suitable for children, emphasizing the need for separate funding and quality checks.
 
-இன்று பாராளுமன்றத்தில் உரையாற்றிய அவர், அரசாங்க வேலைத்திட்டத்திற்கு ஆதரவாக WFP இனால் அந்த அரிசி பொதிகள் கூடுதலாக வழங்கப்பட்டதாக தெரிவித்தார்.
+🟩
 
-அரசு நிதியில் விநியோகிக்கப்படும் உணவு குழந்தைகள் சாப்பிடுவதற்கு ஏற்றது என்பதை அரசு உறுதி செய்கிறது. சுகாதார சேவைகள் பணிப்பாளர் நாயகத்தின் ஊடாக மாகாண கல்வி நிலையங்களுக்கு அரிசி கையிருப்பு வழங்கப்பட்ட பின்னரும், மாகாண பொது சுகாதார பரிசோதகர்களின் (PHIs) உதவியுடன் வழக்கமான தர சோதனைகளுக்கு அவர்கள் ஆலோசனை வழங்குவதாக அமைச்சர் பிரேமஜயந்த தெரிவித்தார்.
+Education Minister Susil Premajayantha has today assured that the rice is supplied by the World Food Scheme (WFP) that is supplied to schools and is not suitable for the use of children.
 
-அரசு பல்வேறு வளங்களிலிருந்து வரும் கூடுதல் நிதியின் மூலம் ஒவ்வொரு குழந்தைக்கும்  ரூ. 110 ஒதுக்கியுள்ளது . இதன் விளைவாக, WFP திட்டத்தின் மூலம் வழங்கப்படும் அரிசியுடன் அரசாங்கத்தின் நிதியுதவியில் உள்ள அரிசியை கலக்க வேண்டாம் என்று அமைச்சர் கேட்டுக்கொண்டார்.
+Speaking to Parliament today, he said the rice packages were provided by the WFP in support of the government program.
+
+The government ensures that the food distributed in government funds is suitable for children's eating. Minister Premajayantha said that they would advise regular quality tests with the help of the Provincial Public Health Inspectors (PHIS), even after the rice reserves were provided to the provincial educational centers through the Director General of Health Services.
+
+The state government has an additional funding from various resources for each child for Rs.. 110 has been assigned. As a result, the Minister asked the government not to mix the rice in the government's funding with the rice provided by the WFP scheme.
 
 ◼️
 
 [Data](articles/73f12ccb.json)
+
+[Extended Data](ext_articles/73f12ccb.ext.json)
 
 ---
 
@@ -884,6 +952,24 @@ The hospital administration said that there were some minor injuries on the leg 
 
 ---
 
+### කිලෝ ග්‍රෑම් 802ක මැණික් ගලට මිලක් තියා මිලදි ගන්න අවස්ථාව
+
+*2024-04-25 12:03:49* · [`adalk`](https://www.ada.lk/picture_story/කිලෝ-ග්‍රෑම්-802ක-මැණික්-ගලට-මිලක්-තියා-මිලදි-ගන්න-අවස්ථාව/10-409255) · `si`
+
+වර්ෂ 2022 දී බලංගොඩ රජවක ප්‍රදේශයේ මැණික් පතලකින් හමුවූ බව කියන කිලෝග්‍රෑම් 802 ක් බරැති රුපියල් කෝටි ගණනක් වටිනා කොරන්ඩම් වර්ගයේ විශාල මැණික් ගලක් මේ වන විට ඇල්ල ප්‍රදේශයේ හෝටලයක අලෙවිය සඳහා තැන්පත් කර ඇත.
+
+ගැණුම්කරුවන්ට පරීක්ෂා කොට මිළ ගණන් ඉදිරිපත් කිරීමට අවස්ථාව සළසමින් මේ වන විට ඇල්ල මවුන්ට් හෙවන් හෝටලයේ මෙම මැණික් ගල තැන්පත් කර ඇති එය ඇමෙරිකන් ඩොලර් මිලියන 60 ක මිළකට තක්සේරු කර ඇතැයිද මෙය මේ වන විට ලංකාවේ ඇති කොරන්ඩම් වර්ගයේ විශාලම කෞතුකාගාර ගල බවද එම මැණික් ගල භාරව සිටින කුෂාන් පී. සෙනෙවිරත්න මහතා පවසයි.
+
+එසේම මේ වන විටත් ගැණුම්කරුවන් කිහිප දෙනෙක් මෙම ගල පරීක්ෂා කර බලා මිළ ගණන් ඉදිරිපත් කර ඇති බවත් තව දුරටත් ගැණුම්කරුවන්ට ඒ සඳහා අවස්ථාව ඇති බවත් හෙතෙම වැඩි දුරටත් සඳහන් කළේය.
+
+මෙම ගල සම්බන්ධයෙන් අදාළ අංශයන් මඟින් ලබාගත් සහතික හා තක්සේරු වාර්තාද මෙම මැණික් ගල සමඟ ප්‍රදර්ශනය කොට තිබේ.
+
+◼️
+
+[Data](articles/811b2145.json)
+
+---
+
 ### Meeting the major coalition
 
 *2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-முக்கியஸ்தர்கள்-சந்திப்பு/175-336310) · `ta`
@@ -908,17 +994,27 @@ The president will contest the election on the symbol of the coalition that come
 
 ---
 
-### பெரும் கூட்டணியை உருவாக்க  சந்திப்பு
+### Meeting to form a great alliance
 
 *2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-சந்திப்பு/175-336310) · `ta`
 
-பரந்த அரசியல் கூட்டணியை உருவாக்குவதற்கான அதன் முதல் நடவடிக்கையாக, ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ஷ மற்றும் ஏனைய கட்சிகள் மற்றும் குழுக்களின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியதுடன் மே தினத்திற்கு பின்னர் ஜனாதிபதி தேர்தலை கருத்தில் கொண்டு அரசியல் பணிகளை துரிதப்படுத்த தீர்மானித்துள்ளார்.
+President Ranil Wickremesinghe met with Sri Lanka PA (SLPP) and other parties to expedite political tasks post-May Day. The UNP and SLPP plan a joint May Day rally and presidential election strategy. The president will contest under a coalition's symbol, not UNP's. Vajira Abeywardena and Ales will register a new coalition. The president aims to campaign against the IMF in June. Parliamentarians and PHU have been invited to form a new coalition.
 
-கூட்டத்தில் மகஜன எக்சத் பெரமுனவை பிரதிநிதித்துவப்படுத்தி பிரதமர் தினேஷ் குணவர்தன கலந்துகொண்டார். மேலும், அமைச்சர்களான பிரசன்ன ரணதுங்க, டிரான் அலஸ், ஹரின் பெர்னாண்டோ, காஞ்சன விஜேசேகர, பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே மற்றும் அனுர பிரியதர்ஷன யாப்பா ஆகியோர் செவ்வாய்க்கிழமை மாலை இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டனர். ஐக்கிய தேசியக் கட்சியை (UNP) பிரதிநிதித்துவப்படுத்தி ஜனாதிபதியின் பிரதானி சாகல ரத்நாயக்கவும் கலந்து கொண்டார்.
+🟩
+
+As a first step to forming a vast political alliance, President Ranil Wickremesinghe met with representatives of the Sri Lanka PA (SLPP), Basil Rajapaksa and other parties and groups and decided to expedite the political tasks after May Day.
+
+Prime Minister Dinesh Gunawardena represented the meeting. Ministers Prasanna Ranatunga, Tran Ales, Harin Fernando, Kanchana Wijesekera, Member of Parliament Mahindananda Aluthgamage and Anura Priyadarshana Yapa were present at the meeting on Tuesday evening.. President of the President Sagala Ratnayake was also present at the UNP (UNP).
+
+The president -led United National Party and the Sri Lanka Peoples Freedom Alliance (PA) decided to hold a separate May Day rally and then together with other parties with other parties in considering the presidential election.
+
+The president will contest the election on the symbol of the coalition that comes up as a common candidate this time.
 
 ...
 
 [Data](articles/b1ec37bb.json)
+
+[Extended Data](ext_articles/b1ec37bb.ext.json)
 
 ---
 
@@ -2149,91 +2245,5 @@ The ISAS was established in 2004 as an autonomous research institute at the Nati
 [Data](articles/34175bfe.json)
 
 [Extended Data](ext_articles/34175bfe.ext.json)
-
----
-
-### Imported milk powder gets cheaper
-
-*2024-04-25 05:10:03* · [`dailyftlk`](https://www.ft.lk/news/Imported-milk-powder-gets-cheaper/56-761001) · `en`
-
-The price of imported milk powder will be reduced with effect from today according to the Milk Powder Importers’ Association.
-
-It said the price of a 01 kilogram pack of imported milk powder will drop by Rs. 250 while the price of 250 grams pack will be slashed by Rs. 100.
-
-◼️
-
-[Data](articles/8cabf42b.json)
-
-[Extended Data](ext_articles/8cabf42b.ext.json)
-
----
-
-### Bridging perspectives and inspiring change – SLMUN 17th session
-
-*2024-04-25 05:09:27* · [`dailyftlk`](https://www.ft.lk/news/Bridging-perspectives-and-inspiring-change-SLMUN-17th-session/56-761000) · `en`
-
-Amidst the turmoil and multifaceted challenges with which the world grapples, the youth of Sri Lanka gear up to participate in the 17th session of the Sri Lanka Model United Nations (SLMUN) Conference, scheduled to be held on 17 and 18 August at the Bandaranaike Memorial International Conference Hall.
-
-At SLMUN, delegates are tasked with assuming the roles of diplomats to represent various nations, navigate complex geopolitical scenarios, and formulate resolutions that reflect a collaborative effort towards resolving pressing global issues.
-
-In addition to the traditional committees such as the World Health Assembly and the 3rd General Assembly, the upcoming session will also feature the Union for the Mediterranean, the Commission on the Status of Women, the World Anti-Doping Agency, Aztec Empire, and the Arctic Council.
-
-...
-
-[Data](articles/f64673ec.json)
-
-[Extended Data](ext_articles/f64673ec.ext.json)
-
----
-
-### Fox hill accident: Can you apply a general road legal car race?
-
-*2024-04-25 05:08:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72pllq3gd6o) · `si`
-
-Two auto racing competitors arrested after a fatal crash. Attorneys argue racing doesn't follow general road laws. Police investigate as a traffic accident. Sri Lankan Motor Runner Dilantha suggests police should intervene in races if accidents occur.
-
-🟩
-
-Fox hill accident: Can you apply a general road legal car race?
-
-The two auto racing competitors arrested on Wednesday (April 24) after the arrest of 7 persons who were killed in motor racing interface.
-
-They were produced before the Bandarawela Magistrate's Court on bail.
-
-The two cars racers were remanded after being arrested recently after the arrest of the Diyatalawa Hospital.
-
-The 36-year-old motor racing competitor, a 36 year old resident of Matara and a 47-year-old contest was a competitor in Peradeniya.
-
-Attorneys who stand for competitors are argued that they cannot act on the ordinary road legal system during a motor racing.
-
-Attorney Upul Kumarapperuma told BBC Sinhala.
-
-"General road laws are not effective in these competitions. There are several rules that affect in a race. One is, not blocking the track. Two followers and deliberately innocent accident. The three is the length of the next. Several laws like such laws affect, "Attorney-at-Law Upul Kumarapperuma said.
-
-...
-
-[Data](articles/8d6fc11c.json)
-
-[Extended Data](ext_articles/8d6fc11c.ext.json)
-
----
-
-### BOI felicitates Brandix as Outstanding Exporter
-
-*2024-04-25 05:05:35* · [`dailyftlk`](https://www.ft.lk/business/BOI-felicitates-Brandix-as-Outstanding-Exporter/34-760999) · `en`
-
-Brandix Group Managing Director Hasitha Premaratne accepts the award for Most Outstanding Exporter Merchandise from President Ranil Wickremesinghe
-
-Brandix Group CEO Ashroff Omar receives awards for his individual contribution to growing Sri Lanka’s exports sector from President Ranil Wickremesinghe
-
-Brandix Apparel was recently recognised as Most Outstanding Exporter in the Merchandise category by the Board of Investment of Sri Lanka (BOI), as the country’s flagship investment promotion arm celebrated its 45th anniversary.
-
-Brandix Group Managing Director Hasitha Premaratne received the award from President Ranil Wickremesinghe, whilst Brandix Group Chief Executive  Ashroff Omar, received an award for Outstanding Individual Contribution towards growing Sri Lanka’s export sector.
-
-...
-
-[Data](articles/32144c5a.json)
-
-[Extended Data](ext_articles/32144c5a.ext.json)
 
 ---

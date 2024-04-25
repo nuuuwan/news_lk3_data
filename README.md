@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 14:51:47**
+As of **2024-04-25 15:03:37**
 
 ## Newspaper Stats
 
-*Scraped **20,902** Articles*
+*Scraped **20,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,744
+adalk | 1,745
 tamilmirrorlk | 2,417
-adaderanalk | 2,485
+adaderanalk | 2,486
 virakesarilk | 3,149
 dailymirrorlk | 3,254
-adaderanasinhalalk | 3,375
+adaderanasinhalalk | 3,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,902 (100.0%) of 20,902 articles have been extended.
+20,902 (100.0%) of 20,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### මහින්දගෙන් මිලියන 1000ක් ඉල්ලා මෛත්‍රීගෙන් එන්තරවාසියක්
+
+*2024-04-25 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195961) · `si`
+
+මාධ්‍ය ඔස්සේ සිදුකරන ලද ප්‍රකාශයක් හේතුවෙන් සිදුවූ අපහාසය වෙනුවෙන් වන්දි මුදලක් ඉල්ලා සිටිමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විසින් අමාත්‍ය මහින්ද අමරවීර මහතා වෙත එන්තරවාසියක් යොමුකර තිබේ.
+
+එමගින් දන්වා ඇත්තේ මෙම කරුණු හරහා සිදුවූ අලාභය හෝ වන්දි මුදල වන රුපියල් මිලියන 1000ක මුදලක් දින 14ක් තුළ මෛත්‍රීපාල සිරිසේන මහතා වෙත ගෙවන ලෙසටය.
+
+◼️
+
+[Data](articles/2e9cd50b.json)
+
+---
 
 ### Ubul Shantha arrested
 
@@ -55,6 +69,18 @@ Kelaniya District Senior Superintendent of Police AJYP. Further investigations a
 [Data](articles/4919a7c2.json)
 
 [Extended Data](ext_articles/4919a7c2.ext.json)
+
+---
+
+### Upul Shantha Sannasgala arrested
+
+*2024-04-25 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98836/upul-shantha-sannasgala-arrested) · `en`
+
+Popular lecturer Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
+
+◼️
+
+[Data](articles/2997ae45.json)
 
 ---
 
@@ -91,6 +117,26 @@ Cardinal Ranjith made the following allegations against former President Gotabay
 [Data](articles/6567daf6.json)
 
 [Extended Data](ext_articles/6567daf6.ext.json)
+
+---
+
+### කාදිනල් හිමිගේ චෝදනාවන්ට ගෝඨාභයගෙන් පිළිතුරු
+
+*2024-04-25 13:59:35* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිගේ-චෝදනාවන්ට-ගෝඨාභයගෙන්-පිළිතුරු/11-409262) · `si`
+
+පාස්කු ප්‍රහාරයට පස්වසරක් පිරිම නිමිත්තෙන් පැවැති ආගමික වැඩසටහනේදි අති උතුම් මැල්කම් රංජිත් කාදිනල් හිමිපාණනන් කළ ප්‍රකාශයන්ට හිටපු ජනපති ගෝඨාභය රාජපක්ෂ මහතා පිළිතුරු ලබාදි තිබේ.
+
+ඔහුගේ මාධ්‍යයට නිකුත් කළ නිවේදනය පහත පරිිදි වන අතර එහිිදි කාදිනල් හිමිපාණන් කළ ප්‍රකාශ ගෝඨාභය රාජපක්ෂ මහතා විසින් ප්‍රතික්ෂේප කර තිබේ.
+
+අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් විසින් මට එරෙහිව කරන ලද චෝදනා
+
+පාස්කු ඉරිදා මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයට වසර පහක් පිරීම නිමිත්තෙන් පැවති සැමරීමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් මට එරෙහිව පහත සඳහන් චෝදනා එල්ල කරන ලදී.
+
+පාස්කු ඉරිදා ප්‍රහාරය පිළිබඳ ජනාධිපති විමර්ශන කොමිෂන් සභාවේ වාර්තාව මට ලැබුණු දිනට පසු දිනම මා කාදිනල් හිමිපාණන්ට දුරකථනයෙන් කතා කර එම වාර්තාවේ සඳහන් නිර්දේශ ක්‍රියාත්මක කිරීමට ගියහොත් මට සහාය වූ පුද්ගලයන් අත්අඩංගුවට ගැනීමටත්, ඔවුන්ගේ සංවිධාන තහනම් කිරීමට පවා සිදුවෙන බැවින්, එම නිර්දේශ ක්‍රියාත්මක කිරීමට අසීරු බව උන්වහන්සේ වෙත මා දන්වා සිටි බව.
+
+...
+
+[Data](articles/7b18a758.json)
 
 ---
 
@@ -2177,73 +2223,5 @@ The communique was in response to a letter sent by Jayatissa on Monday, requesti
 [Data](articles/3065e894.json)
 
 [Extended Data](ext_articles/3065e894.ext.json)
-
----
-
-### Tilvin expresses doubts on Premadasa’s participation in public debate
-
-*2024-04-25 04:55:13* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-expresses-doubts-on-Premadasa-s-participation-in-public-debate/56-760994) · `en`
-
-Criticises SJB’s reluctance to agree to proposed dates or suggest alternatives
-
-Accuses SJB of employing evasion tactics instead of making efforts to face public debate
-
-Reiterates its readiness for debate and urges SJB to confirm date instead of prolonging discussions
-
-National People’s Power (NPP) Executive Council member Tilvin Silva yesterday voiced his doubts regarding whether Samagi Jana Balawegaya (SJB) leader Sajith Premadasa will indeed participate in a debate with NPP leader Anura Kumara Dissanayake.
-
-Speaking at a press conference, Silva expressed the NPP’s confidence that Premadasa would not partake in a public debate. “That is why they continue to engage in a back-and-forth with us on this matter and make various assertions,” he said.
-
-While the SJB has sought a meeting with the NPP this week to iron out the debate details, Silva criticised the SJB’s reluctance to participate in a debate on the dates proposed by the NPP or provide alternative dates.
-
-...
-
-[Data](articles/0710eb45.json)
-
-[Extended Data](ext_articles/0710eb45.ext.json)
-
----
-
-### Interim injunction issued against Wijeyadasa’s SLFP Acting Chairmanship
-
-*2024-04-25 04:53:14* · [`dailyftlk`](https://www.ft.lk/news/Interim-injunction-issued-against-Wijeyadasa-s-SLFP-Acting-Chairmanship/56-760993) · `en`
-
-The Colombo District Court issued an interim injunction against Minister of Justice Dr. Wijeyadasa Rajapakshe from performing duties as the Acting Chairperson of the Sri Lanka Freedom Party (SLFP) yesterday.
-
-A similar injunction was also issued against the SLFP Acting General Secretary Sarathi Dushmantha Mithrapala.
-
-The injunctions, in effect until 8 May, were granted considering a case filed by SLFP office bearers Lasantha Alagiyawanna, Duminda Dissanayake, and Mahinda Amaraweera.
-
-Chandaka Jayasundara PC representing the plaintiffs told the courts that it is illegal and against the party’s constitution for the defendants to hold the positions.
-
-Jayasundara noted that Rajapakshe’s membership status disqualifies him from holding any position within the SLFP, citing constitutional illegality in having a member of another party in such a role.
-
-Additionally, Jayasundara highlighted that the Executive Committee convened on 21 April to appoint Rajapakshe was unlawful.
-
-...
-
-[Data](articles/0fe6a459.json)
-
-[Extended Data](ext_articles/0fe6a459.ext.json)
-
----
-
-### Pakistan High Commission mourns demise of Ifthikar Aziz
-
-*2024-04-25 04:51:58* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-mourns-demise-of-Ifthikar-Aziz/56-760992) · `en`
-
-The High Commission of the Islamic Republic of Pakistan in Colombo in a statement yesterday said it is deeply saddened to learn about the sad demise of Iftikhar Aziz, former President of Sri Lanka-Pakistan Friendship Association on 24 April 2024.
-
-Pakistan High Commissioner Maj. Gen. Faheem Ul Aziz (R) HI (M) has offered his heartfelt condolences to the family of Aziz.
-
-“Aziz was a great friend of Pakistan and his efforts at promoting Sri Lanka-Pakistan friendship will always be remembered. In recognition of his welfare activities and services for enhancing ties between the two countries, the Government of Pakistan conferred the prestigious title “Tamgha-i-Khidmat” on Iftikhar Aziz in September 2016,” the statement said.
-
-“Our thoughts and prayers are with the family of Aziz,” it added.
-
-◼️
-
-[Data](articles/a866f468.json)
-
-[Extended Data](ext_articles/a866f468.ext.json)
 
 ---

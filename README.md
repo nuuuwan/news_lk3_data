@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 17:03:51**
+As of **2024-04-25 17:18:25**
 
 ## Newspaper Stats
 
-*Scraped **20,928** Articles*
+*Scraped **20,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ dailyftlk | 1,172
 economynextcom | 1,187
 adalk | 1,749
 tamilmirrorlk | 2,423
-adaderanalk | 2,492
+adaderanalk | 2,493
 virakesarilk | 3,149
-dailymirrorlk | 3,256
+dailymirrorlk | 3,258
 adaderanasinhalalk | 3,380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,925 (100.0%) of 20,928 articles have been extended.
+20,928 (100.0%) of 20,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### GCE O/L tuition classes banned from midnight April 30: Exams Dept.
+
+*2024-04-25 17:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-tuition-classes-banned-from-midnight-April-30-Exams-Dept/108-281364) · `en`
+
+Colombo, April 25 (Daily Mirror) - Conducting coaching or tuition classes aiming at the 2023 (2024) G.C.E. Ordinary Level (O/L) Examination aspirants will be prohibited from April 30 till the date where the exam is concluded, the Department of Examinations said.
+
+Commissioner General of Examinations H.J.M.C. Amith Jayasundara said all arrangements have been completed to conduct the examination from May 6 to May 15.
+
+The examination will be held at 3,527 examination centres around the country.
+
+He said organising, conducting subject-oriented lectures, seminars or classes, printing examination oriented papers, distribution and giving publicity via electronic media, posters and banners to provide similar questions/answers until June 1, the concluding day of the examinations were prohibited.
+
+...
+
+[Data](articles/9ea05f5b.json)
+
+---
+
+### Sri Lanka, Singapore sign MoU to promote boating and yachting industries
+
+*2024-04-25 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98844/sri-lanka-singapore-sign-mou-to-promote-boating-and-yachting-industries) · `en`
+
+Sri Lanka and Singapore have signed a Memorandum of Understanding (MoU) with a view to working together to promote the boating and yachting industries.
+
+The agreement was forged between the Chamber of Marine Industries of Sri Lanka (CMISL) and the Singapore Boating Industry Association (SBIA) on 22 April, the Ministry of Foreign Affairs said in a statement.
+
+Signing of the MoU was done by Indhra Kaushal Rajapaksa, Chairman of CMISL and Vice President of Sri Lanka Singapore Business Council and Y.P. Loke, Chairman of the Singapore Boating Industry Association, in the presence of Senarath Dissanayake, Sri Lankan High Commissioner to Singapore; Arthur Tay, Chairman of One 15 Marina; Darren Vaux, President of International Council of Marine Industry (ICOMIA); and, Yasantha Yaddehi, Minister (Commercial) of the High Commission of Sri Lanka.
+
+The initial negotiations between the two associations were facilitated by the High Commission of Sri Lanka in Singapore.
+
+...
+
+[Data](articles/ac879233.json)
+
+---
 
 ### Public assistance calls for holding suspects in gold robbery
 
@@ -62,33 +98,59 @@ Below are photos of the suspects by the Police Media Division,
 
 ---
 
-### மஹிந்தவிடம் 1 பில்லியன் ரூபாய் கோருகிறார் மைத்திரி
+### Upul Shantha Sannasgala released on bail
+
+*2024-04-25 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upul-Shantha-Sannasgala-released-on-bail/108-281362) · `en`
+
+Colombo, April 25 - Upul Shantha Sannasgala, the popular tutor and author who was arrested by the Kandana Police today in connection with an alleged fraud, has been released on bail.
+
+Sannasgala was arrested by the Kandana police in response to accusations levelled against him by an individual who claims that he (Sannasgala) failed to return Rs. 1 million, which was reportedly obtained from him.
+
+◼️
+
+[Data](articles/a8cc5a9f.json)
+
+---
+
+### Maithri demands 1 billion rupees to Mahinda
 
 *2024-04-25 16:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-1-பில்லியன்-ரூபாய்-கோருகிறார்-மைத்திரி/175-336328) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தனக்கு எதிராக வெளியிடப்பட்ட அவதூறு அறிக்கைகள் தொடர்பில் அமைச்சர் மஹிந்த அமரவீரவுக்கு கோரிக்கை கடிதம் ஒன்றை அனுப்பியுள்ளார்.
+Maithripala Sirisena demands 1 billion rupees from Mahinda Amaraweera for defamation reports.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) ஜனாதிபதி வேட்பாளராக போட்டியிடத் தயாராக உள்ள வர்த்தகர் ஒருவரிடமிருந்து தான் 100 மில்லியன் ரூபாய் பணம் பெற்றதாக அமைச்சர் அமரவீர ஊடகங்களுக்கு அவதூறான அறிக்கைகளை வெளியிட்டுள்ளார் என  மைத்திரிபால சிறிசேன அந்த அறிக்கையில் தெரிவித்துள்ளார்.
+🟩
 
-தனது தலைமையில் அண்மையில் நடைபெற்ற ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழுக் கூட்டத்திலும் அமைச்சர் அமரவீர அவதூறான கருத்துக்களை வெளியிட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+Former President Maithripala Sirisena has recently sent a letter of request to Minister Mahinda Amaraweera regarding the defamation reports against him.
 
-மகிந்த அமரவீரவின் அவதூறுகள் மூலம் தனக்கு ஏற்பட்ட அசௌகரியத்திற்காக 1 பில்லியன் ரூபாவை மகிந்த அமரவீர வழங்க வேண்டுமென மைத்திரிபால சிறிசேன அக் கடிதத்தில் கோரியுள்ளார்.
+Maithripala Sirisena said in the statement that Minister Amaraweera has issued slanderous reports to the media that he has received Rs 100 million from a businessman who is ready to contest the Sri Lanka Freedom Party (SLFP) presidential candidate.
+
+He added that Minister Amaraweera has also made slanderous comments at the Sri Lanka Freedom Party (SLFP) executive meeting held under his leadership.
+
+Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rupees for the discomfort of Mahinda Amaraweera.
 
 ◼️
 
 [Data](articles/9ec4bd29.json)
 
+[Extended Data](ext_articles/9ec4bd29.ext.json)
+
 ---
 
-### பரிசு கேட்கிறார் வடிவேல்
+### Vadivel asks the gift
 
 *2024-04-25 15:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிசு-கேட்கிறார்-வடிவேல்/175-336327) · `ta`
 
-பாராளுமன்றத்தில் தற்போது உரையாற்றிக்​கொண்டிருக்கும் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஸ், தோட்டத்தொழிலாளர்களுக்கு சம்பள உயர்வை ஜனாதிபதி ரணில் விக்கிரமசிங்க பெற்றுக்கொடுப்பார் என நம்பிக்கை கொண்டுள்ள அவர், மே தினம், தொழிலாளர் தினமாகும் அன்றைய தினத்தில், மே தின பரிசாக சம்பள உயர்வை வழங்கவேண்டும் என்றும் கேட்டக்கொண்டார்.
+Vadivel Suarez, in Parliament, requests President Ranil Wickremesinghe to increase plantation workers' wages, highlighting the need during May Day and Labor Day.
+
+🟩
+
+Vadivel Suarez, who is currently speaking in Parliament, hopes that President Ranil Wickremesinghe will pay a pay hike to the plantation workers, and asked for a wage increase in May Day, May Day, Labor Day.
 
 ◼️
 
 [Data](articles/6d28f780.json)
+
+[Extended Data](ext_articles/6d28f780.ext.json)
 
 ---
 
@@ -402,27 +464,33 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 
 ---
 
-### වෙපන් ඒක හරි දේට පාවිච්චි කරන්න බය වෙන්න එපා, අපරාධකරුවන් තුරන් කිරීම පවක් නොවෙයි
+### Don't worry about using it right, but it is not a world
 
 *2024-04-25 14:06:51* · [`adalk`](https://www.ada.lk/breaking_news/වෙපන්-ඒක-හරි-දේට-පාවිච්චි-කරන්න-බය-වෙන්න-එපා--අපරාධකරුවන්-තුරන්-කිරීම-පවක්-නොවෙයි/11-409263) · `si`
 
-අතේ තියෙන වෙපන් එක පාවිච්චි කරන්න බය වෙන්න එපා යයි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද (25) පැවසීය.
+Deputy Minister of Defense Tiran Alles encouraged police officers at a motorcycle course to use their skills for the country's good, emphasizing their role in achieving a goal under the leadership of the IGP.
 
-ඒ මහතා මේ බව සඳහන් කලේ කළුතර කටුකුරුන්ද විශේෂ කාර්ය බළකායේ ක්ෂණික විහිදුම් යතුරුපැදි පාඨමාලාව හදාරන ලද පොලිස් නිලධාරීන්ගේ විසිරයාමේ පෙළපාලියේදී අදහස් දක්වමිනි.
+🟩
 
-"අපි ඔබලා වෙනුවෙන් හරි දේට පෙනී හිටිනවා. මම මෙතන වැඩිය කතා කරන්න ඕන නැහැ. මෙතන ඉන්න අය මොකක්ද කරන්න ඕන කියල දන්නවා.
+Deputy Minister of Defense Tiran Alles said that he should not be afraid to use the dispute in the hand.
 
-මොකක්ද අවශ්‍යතාවය කියලා හැමදේම දන්නවා. මේ කණ්ඩායම මදි වුනොත් තව පොලිස් යතුරු බැදී කණ්ඩායමක් පිහිටවනවා.
+He was speaking at the premises of the police officers who studied the immediate extension motorcycle course in the Kalutara Katukurunkada Special Task Force.
 
-අපිට ඉලක්කයක් තියෙනවා. ඒ ඉලක්කය මොකක්ද කියලා සියලු පොලිස් නිලධාරීන් දන්නවා.මට අවශ්‍ය ඒ ඉලක්කයට යන්න පමණයි.ඔබලා සියලු දෙනාටම පඩි වැඩි කිරීම් ඇතුළු හැම දෙයක්ම කලා .  මම ඔබලාගෙන් බලාපොරොත්තු වෙන්නේ ඉලක්කයට යාම පමණයි.
+"We sit for you right for you. I don't want to talk much here. You know what those here should do.
 
-කුඩු විකුණන , පාතාලයට සම්බන්ධ , මිනීමරණ පුද්ගලයන් මේ රටින් තුරන් කිරීම පවක් නෙවෙයි. ඒ නිසා ඔබේ ඉලක්කයට ඔබ යන්න.
+Everything knows what's the need. If this group is not enough, a team is formed.
 
-මේ වැඩ කටයුත්ත පොලිස්පතිතුමාගේ නායකත්වයෙන් උපදෙස් පරිදි වැඩ කරගෙන ගිහිල්ලා මේ රට හොඳ තැනකට ගෙනියමු"
+We have a goal. All police officers know what that goal is.I only expect you to go to the target.
+
+It is not a poll to sell drugs, underworld, surrender. So you go to your goal.
+
+This work is working on advice on the leadership of the IGP and bring this country to a good place "
 
 ◼️
 
 [Data](articles/76eec9b6.json)
+
+[Extended Data](ext_articles/76eec9b6.ext.json)
 
 ---
 
@@ -2239,67 +2307,5 @@ Minister Manusha Nanayakkara has received complaints regarding the chief incumbe
 [Data](articles/44b14a02.json)
 
 [Extended Data](ext_articles/44b14a02.ext.json)
-
----
-
-### SLPP, UNP initiates action for forming broad alliance
-
-*2024-04-25 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-UNP-initiates-action-for-forming-broad-alliance/155-281330) · `en`
-
-Colombo, April 25 (Daily Mirror) - In its first move for the formation of a broad political alliance, President Ranil Wickremesinghe had a meeting with Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa and representatives of other parties and groups, and decided to accelerate political work in view of the presidential election after May Day.
-
-Prime Minister Dinesh Gunawardena represented the Mahajana Eksath Peramuna at the meeting. Besides, Ministers Prasanna Ranatunga, Tiran Alles, Harin Fernando, Kanchana Wijesekara, MP Mahindananda Aluthgamage and Anura Priyadarshana Yapa attended the meeting held on Tuesday evening. Chief of Staff of the President Sagala Ratnayake was also present representing the United National Party (UNP).
-
-The SLPP and the UNP led by the President decided to have May Day rallies separately and merge for an alliance along with other likeminded parties in view of the presidential election after that.
-
-...
-
-[Data](articles/a5ad6bf8.json)
-
-[Extended Data](ext_articles/a5ad6bf8.ext.json)
-
----
-
-### Rilan enhances 'loop' and a new attempt to control
-
-*2024-04-25 07:45:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c043pv305l3o) · `si`
-
-Rilan's 'loop' enhancement aims to control population through meditation. The University of Peradeniya's Veterinary Medicine Faculty researches this method for birth control. Professor Ashoka believes it will help manage Rila population and livestock. Due to 'Rila trouble', people were relocated, and the Court of Appeal received Rs. 100,000 from the Ministry of Agriculture for China.
-
-🟩
-
-It contains nothing here.Vite to make women meditating to be required to provide necessary for women to control their headship.
-
-The Faculty of Veterinary Medicine at the University of Peradeniya has begun to research the feminine of Rilaron's population.
-
-Accordingly, women meditating for birth control will be necessary and delayed.
-
-Professor Ashoka said that this would be a successful solution to Rila population to release animals to the environment and the livestock in the event.
-
-Due to 'Rila trouble', the people were taken to the distribution of air rifles and to other areas. The Court of Appeal was also buried by the Ministry of Agriculture to provide Rs. 100,000 to China.
-
-◼️
-
-[Data](articles/c5bb4aa2.json)
-
-[Extended Data](ext_articles/c5bb4aa2.ext.json)
-
----
-
-### Crackdown on fraudulent foreign job schemes: Manusha
-
-*2024-04-25 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crackdown-on-fraudulent-foreign-job-schemes-Manusha/108-281328) · `en`
-
-Colombo, April 25 (Daily Mirror) - Labour and Foreign Employment Minister Manusha Nanayakkara instructed the officials of the criminal investigation department of the Sri Lanka Bureau of Foreign Employment (SLBFE) to crack down and enforce the law against individuals fraudulently collecting money while claiming to provide foreign employment opportunities.
-
-Following discussions with the investigative team attached to the Ministry, the Minister informed the media that if anyone has faced such an incident, they should lodge a complaint with the complaints section of the SLBFE to initiate legal action against such parties.
-
-However, he instructed officials to take necessary measures to prevent any activities related to collecting money while falsely claiming to provide foreign employment opportunities.
-
-...
-
-[Data](articles/c213e27a.json)
-
-[Extended Data](ext_articles/c213e27a.ext.json)
 
 ---

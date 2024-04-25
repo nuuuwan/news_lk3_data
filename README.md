@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 08:06:28**
+As of **2024-04-25 08:18:38**
 
 ## Newspaper Stats
 
-*Scraped **20,822** Articles*
+*Scraped **20,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,66 @@ adalk | 1,732
 tamilmirrorlk | 2,408
 adaderanalk | 2,474
 virakesarilk | 3,136
-dailymirrorlk | 3,244
+dailymirrorlk | 3,247
 adaderanasinhalalk | 3,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,821 (100.0%) of 20,822 articles have been extended.
+20,822 (100.0%) of 20,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### විදෙස් රැකියා ජාවාරමේ යෙදන පිරිසට රතු එළියක්
+### Red light to foreign employment rackets
 
 *2024-04-25 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195946) · `si`
 
-අනුරාධපුරයට ආසන්න විහාරස්ථානයක විහාරාධිපති ප්‍රමුඛ පොලිස් සාජන්වරයෙකු මුල් වි විදේශ රැකියා ලබාදීම සඳහා මුදල් අය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බව අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+Minister Manusha Nanayakkara is addressing complaints about the temple near Anuradhapura's chief incumbent.
+
+🟩
+
+Minister Manusha Nanayakkara has received complaints regarding the chief incumbent of the temple near Anuradhapura.
 
 ◼️
 
 [Data](articles/44b14a02.json)
+
+[Extended Data](ext_articles/44b14a02.ext.json)
+
+---
+
+### SLPP, UNP initiates action for forming broad alliance
+
+*2024-04-25 07:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLPP-UNP-initiates-action-for-forming-broad-alliance/155-281330) · `en`
+
+Colombo, April 25 (Daily Mirror) - In its first move for the formation of a broad political alliance, President Ranil Wickremesinghe had a meeting with Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa and representatives of other parties and groups, and decided to accelerate political work in view of the presidential election after May Day.
+
+Prime Minister Dinesh Gunawardena represented the Mahajana Eksath Peramuna at the meeting. Besides, Ministers Prasanna Ranatunga, Tiran Alles, Harin Fernando, Kanchana Wijesekara, MP Mahindananda Aluthgamage and Anura Priyadarshana Yapa attended the meeting held on Tuesday evening. Chief of Staff of the President Sagala Ratnayake was also present representing the United National Party (UNP).
+
+The SLPP and the UNP led by the President decided to have May Day rallies separately and merge for an alliance along with other likeminded parties in view of the presidential election after that.
+
+...
+
+[Data](articles/a5ad6bf8.json)
+
+---
+
+### Crackdown on fraudulent foreign job schemes: Manusha
+
+*2024-04-25 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crackdown-on-fraudulent-foreign-job-schemes-Manusha/108-281328) · `en`
+
+Colombo, April 25 (Daily Mirror) - Labour and Foreign Employment Minister Manusha Nanayakkara instructed the officials of the criminal investigation department of the Sri Lanka Bureau of Foreign Employment (SLBFE) to crack down and enforce the law against individuals fraudulently collecting money while claiming to provide foreign employment opportunities.
+
+Following discussions with the investigative team attached to the Ministry, the Minister informed the media that if anyone has faced such an incident, they should lodge a complaint with the complaints section of the SLBFE to initiate legal action against such parties.
+
+However, he instructed officials to take necessary measures to prevent any activities related to collecting money while falsely claiming to provide foreign employment opportunities.
+
+...
+
+[Data](articles/c213e27a.json)
 
 ---
 
@@ -2129,43 +2167,5 @@ The Criminal Procedure Code (Amendment) Bill (Amendment) Bill (Amendment) Bill (
 [Data](articles/25b4df46.json)
 
 [Extended Data](ext_articles/25b4df46.ext.json)
-
----
-
-### Karapitiya Hospital gets new CT scanner
-
-*2024-04-24 17:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-gets-new-CT-scanner/108-281293) · `en`
-
-April 24, (Daily Mirror)  -  The Galle Karapitiya Teaching Hospital unveiled its latest addition of a cutting-edge CT Scanner valued at Rs 250 million.
-
-The installation ceremony, held today (24), was spearheaded by Minister of Health and Industry, Dr. Ramesh Pathirana.
-
-This state-of-the-art CT Scanner, manufactured in Japan, marks a substantial upgrade to the hospital's diagnostic facilities.
-
-Following its installation last Sunday, patients can now benefit from CT Scan tests, with the hospital poised to conduct 40 to 50 scans daily, significantly alleviating the backlog of cases awaiting diagnostic imaging.
-
-◼️
-
-[Data](articles/bb5d8fdc.json)
-
-[Extended Data](ext_articles/bb5d8fdc.ext.json)
-
----
-
-### Official Festival of the President of Iran - Live Accident
-
-*2024-04-24 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195935) · `si`
-
-The official festival of the President of Iran has started in Colombo, with a live accident reported.
-
-🟩
-
-The official festival of the president Iranian has begun in Colombo.
-
-◼️
-
-[Data](articles/5a1220b6.json)
-
-[Extended Data](ext_articles/5a1220b6.ext.json)
 
 ---

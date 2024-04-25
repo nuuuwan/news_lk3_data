@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 19:50:06**
+As of **2024-04-25 20:03:55**
 
 ## Newspaper Stats
 
-*Scraped **20,967** Articles*
+*Scraped **20,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,68 @@ newsfirstlk | 363
 islandlk | 1,132
 dailyftlk | 1,172
 economynextcom | 1,193
-adalk | 1,752
+adalk | 1,753
 tamilmirrorlk | 2,425
 adaderanalk | 2,496
 virakesarilk | 3,159
 dailymirrorlk | 3,265
-adaderanasinhalalk | 3,384
+adaderanasinhalalk | 3,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,964 (100.0%) of 20,967 articles have been extended.
+20,967 (100.0%) of 20,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### මත්පැන් සම්බන්ධයෙන් ලොකු තීරණයක්
+### ශ්‍රී ලංකා කාන්තා කණ්ඩායමට සුපිරි ජයක්
+
+*2024-04-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195970) · `si`
+
+විස්සයි විස්ස කාන්තා ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබාගැනීමේ වටයේ පළමු තරගයේ ජය හිමිකරගැනීමට ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම සමත්විය.
+
+ඒ ලකුණු 67කින් තායිලන්ත කාන්තා ක්‍රිකට් කණ්ඩායම පරාජයට පත් කරමිනි.
+
+ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම පන්දුවාර විස්ස අවසානයේ කඩුලු 5ක් දැවී ලකුණු 122ක් රැස්කරගත්තේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ තායිලන්ත කාන්තා ක්‍රිකට් කණ්ඩායමට පන්දුවාර 16යි පන්දු 2ක් අවසානයේ සියලුදෙනා දැවී රැස්කරගත හැකි වූයේ ලකුණු 55ක් පමණි.
+
+පන්දුයැවීමේදී ඉනෝෂි ප්‍රියදර්ශනී ලකුණු 14කට කඩුලු 3ක් දවාගත් අතර උදේශිකා ප්‍රබෝධනී ලකුණු 10කට කඩුලු 2ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/a846c839.json)
+
+---
+
+### A great decision on alcohol
 
 *2024-04-25 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195969) · `si`
 
-2023 වසරට අදාළව මත්පැන් නිෂ්පාදකයින්ගෙන් අයවිය යුතු හිඟ බදු මුදල් ජුනි මස 30 වනදා වනවිට අයකර ගැනීමට කටයුතු කරන ලෙස ක්‍රම හා විධි පිළිබඳ කාරක සභාව ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුවට නියෝග කර තිබේ.
+The Sri Lanka Excise Department must recover alcohol from manufacturers starting June 30, following a decision by the Committee on the Excise Department. The Committee, led by Patali Champika Ranawaka, has criticized the Excise Department for ignoring its order to temporarily suspend licenses. Despite this, the Excise Department officers are ready to recover deficit taxes without revoking permits. The Committee aims to collect 51 billion in the first quarter of 2024 to meet revenue targets.
 
-අයවිය යුතු හිඟ බදු මුදල් ප්‍රමාණය රුපියල් බිලියන 1.1ක් බව ක්‍රම හා විධි පිළිබඳ කාරක සභාව ඊයේ (24) සභාපති පාඨලී චම්පික රණවක මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ අවස්තාවේ දී අනාවරණය වී ඇත.
+🟩
 
-බදු නොගෙවන මත්පැන් නිෂ්පාදකයින්ගෙන් බලපත්‍ර බදු ගෙවන තෙක් තාවකාලිකව අත්හිටුවීමට ගෙන තිබූ කාරක සභා නියෝගය නොසලකා හැර කටයුතු කිරීම පිළිබඳව මෙහිදී සභාපතිවරයා සුරාබදු දෙපාර්තමේන්තුවෙන් ප්‍රශ්න කර තිබේ.
+The Committee on the Excise Department has ordered the department of the Sri Lanka Excise as to arranged from alcohol manufacturers to be recovered from June 30.
 
-බලපත්‍ර අහෝසි නොකොට අදාළ හිඟ බදු මුදල් වාරික වශයෙන් අයකරගැනීමේ ක්‍රමවේදයක් සකස් කර ඇති බව එහිදී සුරාබදු දෙපාර්තමේන්තු නිලධාරීන් කාරක සභාවට දන්වා ඇත.
+The Committee on Schedule of Schedule: Patali Champika Ranawaka has been revealed by Chamber Champika Ranawaka yesterday (24).
 
-කෙසේවෙතත් එම ක්‍රමවේදය පිළිබඳ සෑහීමකට පත්විය නොහැකි බැවින් ජූනි 30 වනදා වන විට අදාළ හිඟ බදු මුදල් අයකර ගැනීමට කටයුතු කරන ලෙස කාරක සභාව නියෝග කර තිබේ.
+The Chairman has questioned the Excise Department regarding the ignorement of the Committee order to temporarily suspend the license manufacturers.
 
-...
+The Officers of the Excise Department has informed the Select of the Excise Departments that have been prepared to recover the deficit taxes without undoing permits.
+
+However, the Committee has ordered to take action to recover the deficit tax on the methodology.
+
+The Committee has expressed the revenue of the department with the income targets of the department by collecting 51 billion in the first quarter of the first quarter of 2024.
+
+◼️
 
 [Data](articles/dc5bb62e.json)
+
+[Extended Data](ext_articles/dc5bb62e.ext.json)
 
 ---
 
@@ -56,21 +84,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-25 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/181977) · `ta`
 
-மக்கள் போராட்டம் மீண்டும் ஏற்படாத வகையில் பொருளாதாரத்தை கட்டமைப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe pledges to prevent the people's struggle by building the economy. He addresses the opening of the ITC Ratnadeepa Atti Luxury Hotel, marking the first Indian ITC Hotel Group building in Sri Lanka. The hotel is located near Asia's first five-star hotel, Galle Face. India has started a tourist hotel in Sri Lanka after a long time, with the Oberoi Hotel and the Sri Lankan President's House. Colombo is becoming a tourist center, with ITC promoting Sri Lanka. The city's tourism potential is being upgraded, and the economy is being restored through tourism.
+
+🟩
+
+President Ranil Wickremesinghe has promised to build the economy so that the people's struggle will not occur again.
 
 சரிவடைந்த பொருளாதாரத்தை இரண்டு வருடங்களில் மீட்க முடிந்ததென தெரிவித்த ஜனாதிபதி, சரிவடையாத வகையில் வலுவான பொருளாதாரத்தை கட்டமைத்து மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதாகவும் உறுதியளித்தார்.
 
-கொழும்பு ITC ரத்னதீப அதி சொகுசு ஹோட்டல் கட்டிடத்தை இன்று  வியாழக்கிழமை (25) திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe made this statement while addressing the opening of the ITC Ratnadeepa Atti Luxury Hotel Building on Thursday (25).
 
-காலி முகத்திடலுக்கு முன்பாக நிர்மாணிக்கப்பட்டிருக்கும் ITC ரத்னதீப ஹோட்டல் இந்திய ITC ஹோட்டல் குழுமத்தினால் இந்தியாவிற்கு வௌியில் நிர்மாணிக்கப்பட்டிருக்கும் முதலாவது கட்டிடமாகும்.
+ITC Ratnadeepa Hotel, built before the Galle Face, is the first building to be built by the Indian ITC Hotel Group of India.
 
-ITC நிறுவனத்தை இலங்கைக்கு வரவேற்கிறேன்.  இது ஆசியாவின் முதலாவது ஐந்து நட்சத்திர ஹோட்டலான காலி முகத்திடல் ஹோட்டலுக்கு முன்பாக அமைந்துள்ளது.
+Welcome to Sri Lanka to ITC.It is located in front of Asia's first five -star hotel, Galle Face.
 
 அதற்கு அருகில் இந்திய தாஜ் ஹோட்டலும் உள்ளது.  சிங்கப்பூர் ஹோட்டலான சங்ரீலாவும் அருகில் அமைந்துள்ளது.  அதற்கு மத்தியில் அமைக்கப்பட்டுள்ள ITC ஹோட்டலின் பின்புறத்தில் சினமன் கிரேண்ட் ஹோட்டலும் அமைந்திருக்கிறது.
 
 ...
 
 [Data](articles/273a8e19.json)
+
+[Extended Data](ext_articles/273a8e19.ext.json)
 
 ---
 
@@ -134,21 +168,29 @@ The Sri Lanka Freedom Party (SLFP) political committee meeting was held in Colom
 
 ---
 
-### யுத்தம் முடிந்து 15 வருடங்களாகியும் யாழ்ப்பாணத்தில் 1,500 குடும்பங்கள் அகதி வாழ்வு!
+### 1,500 families in Jaffna for 15 years after the war
 
 *2024-04-25 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181976) · `ta`
 
-வடக்கில் ஆரம்பிக்கப்பட்ட யுத்தம் முடிவடைந்து பதினைந்து வருடங்கள் கடந்துள்ள நிலையிலும் யாழ்ப்பாண மாவட்டத்தில் மாத்திரம் 1,500ற்கும் மேற்பட்ட குடும்பங்கள் வாழ்விடங்களை இழந்துள்ளமை தெரியவந்துள்ளது.
+15 years post-war, 1,500+ families in Jaffna lost homes. 10 still in welfare centers. Governor aims for resettlement by year-end, including electricity for homes. Land guarantees suspended, with 60,000 to be handed out by May.
 
-இவர்களில் 10 குடும்பங்கள் இன்னமும் நலன்புரி நிலையங்களில் வாழ்ந்து வருவதாக கடந்த ஏப்ரல் 18ஆம் திகதி யாழ்ப்பாணம் மாவட்ட செயலக கேட்போர் கூடத்தில் நடைபெற்ற மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் தெரியவந்துள்ளது.
+🟩
 
-யாழ்ப்பாண மாவட்ட ஒருங்கிணைப்புக் குழுக் கூட்டம் வடமாகாண ஆளுநர் பி.எஸ். எம். சார்ள்ஸ் மற்றும் அமைச்சர் டக்ளஸ் தேவானந்தா ஆகியோர் தலைமையில் இடம்பெற்றதாக மாகாண ஊடகவியலாளர்கள் தெரிவிக்கின்றனர்.
+Fifteen years after the end of the war in the North, more than 1,500 families have lost their homes in the Jaffna district.
 
-யாழ்ப்பாணம் மாவட்டத்தில் இடம்பெயர்ந்த 4,567 மக்களுக்கு அரசாங்கம் இதுவரை எதனையும் செய்யவில்லை என, இக்கூட்டத்தில் கலந்து கொண்ட யாழ். மாவட்ட பதில் செயலாளர் மருதலிங்கம் பிரதீபன் ஆளுநருக்கு அறிவித்தார்
+The District Coordinating Committee meeting held at the Jaffna District Secretariat Auditorium on April 18 last year has revealed that 10 of them are still living in welfare centers.
+
+Jaffna District Coordinating Committee Meeting Northern Province Governor BS. M.. Provincial journalists say that Charles and Minister Douglas Devananda were headed.
+
+Jaffna participated in the meeting that the government has not yet done anything to 4,567 displaced people in the Jaffna district.. District Reply Secretary Marudalingam Pradeepan announced to the Governor
+
+“There are 4,567 people from 1,512 families. Of these, 10 families are in welfare centers and 1,502 families stay in relatives' homes. They have nothing to do with them. They are to be resettled. ”
 
 ...
 
 [Data](articles/50a98f4e.json)
+
+[Extended Data](ext_articles/50a98f4e.ext.json)
 
 ---
 
@@ -221,6 +263,24 @@ The Sri Lanka Freedom Party (SLFP) Politburo also met with party acting chairman
 [Data](articles/04b2dd47.json)
 
 [Extended Data](ext_articles/04b2dd47.ext.json)
+
+---
+
+### කොළඹ වරාය නගරයට ජපන් අවහලක්
+
+*2024-04-25 18:27:34* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයට-ජපන්-අවහලක්/11-409265) · `si`
+
+කොළඹ වරාය නගර පරිශ්‍රයේ පිහිටුවන ලද “නිහොන්බෂි (Nihonbashi) ජපන් අවන්හල විවෘත කිරීම ඊයේ (24) පස්වරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් සිදුවිය.
+
+1995 වසරේ ගාලු මුවදොර ටෙරස්හි ආරම්භ කළ පළමු නිහොන්බෂි ජපන් අවන්හල මෙරට සුප්‍රසිද්ධ සූපවේදියෙකු වන දර්ශන මුනිදාස මහතා විසින් මෙරටට දායාද කරන ලද ප්‍රමුඛ පෙළේ අවන්හලකි. ගතවුණු වසර 29ක් පුරාවට මෙම අවන්හල දෙස් විදෙස් සංචාරකයන් ඇතුළු මෙරට ජනතාවට ප්‍රණීත ජපන් ආහාර වේලක රස බැලීම සඳහා අවස්ථාව සලසා දී ඇත.
+
+අවන්හල නිල වශයෙන් විවෘත කළ ජනාධිපතිවරයා එහි නිරීක්ෂණ චාරිකාවකට එක්වූ අතර පැමිණ සිටි පිරිස සමඟ සුහද කතාබහක ද නිරත විය.
+
+එම අවස්ථාවට ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා ඇතුළු සම්භාවනීය ආරාධිතයින් පිරිසක් එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/2576214b.json)
 
 ---
 
@@ -2215,49 +2275,5 @@ Overlooking the Galle Face and the Indian Ocean on one side and the Beira Lake o
 [Data](articles/1cabc927.json)
 
 [Extended Data](ext_articles/1cabc927.ext.json)
-
----
-
-### Basil Rajapaksa will be made public after Ranil's announcement
-
-*2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181915) · `ta`
-
-Basil Rajapaksa, Sri Lanka PA founder, informed President Ranil Wickremesinghe that Wickremesinghe will announce his presidential candidacy, with Rajapaksa highlighting the SLFP's role.
-
-🟩
-
-Basil Rajapaksa, the founder and former minister of the Sri Lanka PA, has told President Ranil Wickremesinghe that President Ranil Wickremesinghe will announce the presidential candidate after the official announcement that President Ranil Wickremesinghe will contest the upcoming presidential election.
-
-The matter was announced during a meeting between President Ranil Wickremesinghe and Basil Rajapaksa at the President's official residence in Colombo.
-
-Basil Rajapakse told the President that the party was in charge of the Sri Lanka Freedom Party (SLFP) as a member of the Sri Lanka Freedom Party (SLFP) as a member of the Sri Lanka Freedom Party (SLFP).
-
-◼️
-
-[Data](articles/26d0bd72.json)
-
-[Extended Data](ext_articles/26d0bd72.ext.json)
-
----
-
-### The price of lubricant oil in the world market has declined!
-
-*2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181919) · `ta`
-
-Lubricant oil prices worldwide have dropped to $87, affecting Friend Lubricant Bippa to $87.92. Despite a monthly average of $90, stock increases have led to a decline.
-
-🟩
-
-The price of lubricant in the world market fell yesterday (24) to $ 87.
-
-Accordingly, the price of a Friend Lubricant Bippa has been recorded at $ 87.92.
-
-Considering the last one month, lubricant prices in the world market have continued to be up to $ 90, and the price of lubricant oil in the world market has fallen due to the increase in stocks.
-
-◼️
-
-[Data](articles/706f0a8d.json)
-
-[Extended Data](ext_articles/706f0a8d.ext.json)
 
 ---

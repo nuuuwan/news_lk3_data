@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 16:49:05**
+As of **2024-04-25 17:03:51**
 
 ## Newspaper Stats
 
-*Scraped **20,925** Articles*
+*Scraped **20,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,748
-tamilmirrorlk | 2,421
+adalk | 1,749
+tamilmirrorlk | 2,423
 adaderanalk | 2,492
 virakesarilk | 3,149
 dailymirrorlk | 3,256
@@ -26,33 +26,69 @@ adaderanasinhalalk | 3,380
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,924 (100.0%) of 20,925 articles have been extended.
+20,925 (100.0%) of 20,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### රන් කොල්ලයේ සැකකරුවන් අල්ලන්න මහජන සහාය ඉල්ලයි
+### Public assistance calls for holding suspects in gold robbery
 
 *2024-04-25 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195965) · `si`
 
-අපරාධයක් සම්බන්ධයෙන් අවශ්‍යකරන සැකකරුවන් පිරිසක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා තිබේ.
+Police seek public help to arrest suspects in a gold robbery. The suspects, from Menikhinna, Galle, Puttalam, and Gnan Nampana, are accused of stealing 37 kg of gold in Kalpitiya. They fled after being abducted on November 23 last year. Contact 071 859 1763 or 071 859 4916 for more information.
 
-පොලීසිය පවසන්නේ මෙම සැකකරුවන්ට එරෙහිව රන් තොගයක් කොල්ලකෑම සම්බන්ධයෙන් චෝදනා එල්ලවී ඇති බවය.
+🟩
 
-මෙම සැකකරුවන් විසින් පසුගිය වසරේ නොවැම්බර් මස 23 වනදා කල්පිටිය ප්‍රදේශයේදී පුද්ගලයෙකු පැහැරගෙනගෙන ගොස් ඔහු සතුව තිබූ රන් කිලෝ 37ක් කොල්ලකා පළාගොස් ඇති බව පොලීසිය පවසයි.
+Police have asked for public assistance to arrest a group of suspects regarding a crime.
 
-සිද්ධිය සම්බන්ධයෙන් කල්පිටිය මහෙස්ත්‍රාත් අධිකරණය විසින් සැකකරුවන් 5ක් නම්කර ඇති අතර එම සැකකරුවන් මැණික්හින්න, ගාල්ල, පුත්තලම සහ ගුන්නෑපාන යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+The police say that the suspects have been accused of robbing a gold against the suspects.
 
-කෙසේ වෙතත් මේ වනවිට එම සැකකරුවන් පිරිස ඔවුන් පදිංචි ප්‍රදේශ අත්හැර පළාගොස් ඇති බව පොලීසිය පවසයි.
+The suspects have been abducted in the Kalpitiya area on November 23 last year and had fled the area of 37 kilo of gold.
 
-ඒ අනුව පහත චායාරූපවල දැක්වෙන සැකකරුවන ගැන තොරතුරක් දන්නේ නම් 071 859 1763 හෝ 071 859 4916 යන දුරකථන අංක හරහා පොලීසිය වෙත දැනුම්දෙන ලෙස ඉල්ලා සිටී.
+The Kalpitiya Magistrate's Magistrate's Court have been named after the suspects, residents of Menikhinna, Galle, Puttalam and Gnan Nampana.
 
-පොලිස් මාධ්‍ය කොට්ඨාශය විසින් අප වෙත ඒවා තිබූ එම සැකකරුවන්ගේ ඡායාරූප පහතින්,
+However, the suspects have left their residence, police said.
+
+Accordingly, if the suspects of the following chains, calls on 071 859 1763 or 071 859 4916 through 071 859 4916.
+
+Below are photos of the suspects by the Police Media Division,
 
 ◼️
 
 [Data](articles/6cbea96c.json)
+
+[Extended Data](ext_articles/6cbea96c.ext.json)
+
+---
+
+### மஹிந்தவிடம் 1 பில்லியன் ரூபாய் கோருகிறார் மைத்திரி
+
+*2024-04-25 16:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-1-பில்லியன்-ரூபாய்-கோருகிறார்-மைத்திரி/175-336328) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தனக்கு எதிராக வெளியிடப்பட்ட அவதூறு அறிக்கைகள் தொடர்பில் அமைச்சர் மஹிந்த அமரவீரவுக்கு கோரிக்கை கடிதம் ஒன்றை அனுப்பியுள்ளார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) ஜனாதிபதி வேட்பாளராக போட்டியிடத் தயாராக உள்ள வர்த்தகர் ஒருவரிடமிருந்து தான் 100 மில்லியன் ரூபாய் பணம் பெற்றதாக அமைச்சர் அமரவீர ஊடகங்களுக்கு அவதூறான அறிக்கைகளை வெளியிட்டுள்ளார் என  மைத்திரிபால சிறிசேன அந்த அறிக்கையில் தெரிவித்துள்ளார்.
+
+தனது தலைமையில் அண்மையில் நடைபெற்ற ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழுக் கூட்டத்திலும் அமைச்சர் அமரவீர அவதூறான கருத்துக்களை வெளியிட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+
+மகிந்த அமரவீரவின் அவதூறுகள் மூலம் தனக்கு ஏற்பட்ட அசௌகரியத்திற்காக 1 பில்லியன் ரூபாவை மகிந்த அமரவீர வழங்க வேண்டுமென மைத்திரிபால சிறிசேன அக் கடிதத்தில் கோரியுள்ளார்.
+
+◼️
+
+[Data](articles/9ec4bd29.json)
+
+---
+
+### பரிசு கேட்கிறார் வடிவேல்
+
+*2024-04-25 15:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிசு-கேட்கிறார்-வடிவேல்/175-336327) · `ta`
+
+பாராளுமன்றத்தில் தற்போது உரையாற்றிக்​கொண்டிருக்கும் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஸ், தோட்டத்தொழிலாளர்களுக்கு சம்பள உயர்வை ஜனாதிபதி ரணில் விக்கிரமசிங்க பெற்றுக்கொடுப்பார் என நம்பிக்கை கொண்டுள்ள அவர், மே தினம், தொழிலாளர் தினமாகும் அன்றைய தினத்தில், மே தின பரிசாக சம்பள உயர்வை வழங்கவேண்டும் என்றும் கேட்டக்கொண்டார்.
+
+◼️
+
+[Data](articles/6d28f780.json)
 
 ---
 
@@ -363,6 +399,30 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 [Data](articles/d242f60b.json)
 
 [Extended Data](ext_articles/d242f60b.ext.json)
+
+---
+
+### වෙපන් ඒක හරි දේට පාවිච්චි කරන්න බය වෙන්න එපා, අපරාධකරුවන් තුරන් කිරීම පවක් නොවෙයි
+
+*2024-04-25 14:06:51* · [`adalk`](https://www.ada.lk/breaking_news/වෙපන්-ඒක-හරි-දේට-පාවිච්චි-කරන්න-බය-වෙන්න-එපා--අපරාධකරුවන්-තුරන්-කිරීම-පවක්-නොවෙයි/11-409263) · `si`
+
+අතේ තියෙන වෙපන් එක පාවිච්චි කරන්න බය වෙන්න එපා යයි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද (25) පැවසීය.
+
+ඒ මහතා මේ බව සඳහන් කලේ කළුතර කටුකුරුන්ද විශේෂ කාර්ය බළකායේ ක්ෂණික විහිදුම් යතුරුපැදි පාඨමාලාව හදාරන ලද පොලිස් නිලධාරීන්ගේ විසිරයාමේ පෙළපාලියේදී අදහස් දක්වමිනි.
+
+"අපි ඔබලා වෙනුවෙන් හරි දේට පෙනී හිටිනවා. මම මෙතන වැඩිය කතා කරන්න ඕන නැහැ. මෙතන ඉන්න අය මොකක්ද කරන්න ඕන කියල දන්නවා.
+
+මොකක්ද අවශ්‍යතාවය කියලා හැමදේම දන්නවා. මේ කණ්ඩායම මදි වුනොත් තව පොලිස් යතුරු බැදී කණ්ඩායමක් පිහිටවනවා.
+
+අපිට ඉලක්කයක් තියෙනවා. ඒ ඉලක්කය මොකක්ද කියලා සියලු පොලිස් නිලධාරීන් දන්නවා.මට අවශ්‍ය ඒ ඉලක්කයට යන්න පමණයි.ඔබලා සියලු දෙනාටම පඩි වැඩි කිරීම් ඇතුළු හැම දෙයක්ම කලා .  මම ඔබලාගෙන් බලාපොරොත්තු වෙන්නේ ඉලක්කයට යාම පමණයි.
+
+කුඩු විකුණන , පාතාලයට සම්බන්ධ , මිනීමරණ පුද්ගලයන් මේ රටින් තුරන් කිරීම පවක් නෙවෙයි. ඒ නිසා ඔබේ ඉලක්කයට ඔබ යන්න.
+
+මේ වැඩ කටයුත්ත පොලිස්පතිතුමාගේ නායකත්වයෙන් උපදෙස් පරිදි වැඩ කරගෙන ගිහිල්ලා මේ රට හොඳ තැනකට ගෙනියමු"
+
+◼️
+
+[Data](articles/76eec9b6.json)
 
 ---
 
@@ -2241,83 +2301,5 @@ However, he instructed officials to take necessary measures to prevent any activ
 [Data](articles/c213e27a.json)
 
 [Extended Data](ext_articles/c213e27a.ext.json)
-
----
-
-### Namal opens about presidential candidate
-
-*2024-04-25 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195945) · `si`
-
-Namal Rajapaksa, MP, announces a suitable candidate for the next presidential election, highlighting the Sri Lankan Crown Front's readiness. JVP's KDDarkantha mentions government interest in the presidential election, while Sujee Senasinghe praises Sajith Premadasa's development program.
-
-🟩
-
-Namal Rajapaksa, MP Namal Rajapaksa, says that a suitable candidate is presented to contest for the next presidential election.
-
-The MP also pointed out that several candidates are in their party to contest for the next presidential election.
-
-"Especially as the Sri Lankan Crown Front, we are ready for that. Wherever you see in Sri Lanka, our former local government members, and the candidates called for all candidates join our meetings. That means we are still active today. We don't know if the President has voted or not. We clearly presented the Sri Lanka General Front election. The mark of the ballot is the mark of the ballot. Tells the candidate. They're not saying before. You asked me before the candidates of the Pradeshiya Sabha. The Presidential election has a list of the Presidential election. We present the man who can overcome the challenges and challenges. "
-
-Meanwhile, JVP's Politburo member KDDarkantha said that the government applied to the presidential election.
-
-...
-
-[Data](articles/dc4f182b.json)
-
-[Extended Data](ext_articles/dc4f182b.ext.json)
-
----
-
-### Special notice of constraints
-
-*2024-04-25 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195944) · `si`
-
-Tuition, seminars, and workshops suspended from midnight on 30th for GCE Ordinary Level exams (6th-15th May). GCE Advanced Level results delayed, risking students' entry. MP Gamini Walaweboda criticized the Commissioner General of Examinations for not issuing resurrection results, affecting nearly two million students. Education Minister has requested Examinations Minister to expedite surveys and results.
-
-🟩
-
-The Examinations Department says that the tuition classes and seminars will be suspended from midnight on the 30th of this year's GCE Ordinary Level examination.
-
-According to a spokesperson that will be suspended from 12.00 midnight towards tuition classes, seminars and workshops.
-
-Strong action will be taken to violate those laws.
-
-The GCE Ordinary Level Examination is scheduled to be held from 6th to 15th May.
-
-Meanwhile, the results of the GCE Advanced Level Examination will be issued in the end of May.
-
-According to MP Gamini Walaweboda, the students have a risk to the students to enter the GCE Advanced Level classes due to delaying the results of the GCE (Year 2023).
-
-The MP pointed out a letter to Education Minister Susil Premajayantha in December last year, the Commissioner General of Examinations had failed to issue resurrection results.
-
-...
-
-[Data](articles/7610c1ad.json)
-
-[Extended Data](ext_articles/7610c1ad.ext.json)
-
----
-
-### SL to host global ISO review meeting for tea in July
-
-*2024-04-25 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-to-host-global-ISO-review-meeting-for-tea-in-July/108-281327) · `en`
-
-Sri Lanka is set to host the 34th plenary meeting of the International Standards Organization Technical Committee for tea on July 24.
-
-The global review meeting will be hosted under the leadership of the Tea Research Institute of Sri Lanka and the Sri Lanka Standards Institution, said Sri Lanka Tea Board Chairman Niraj de Mel.
-
-Representatives of more than 45 member countries are to attend the international review.
-
-According to Colombo Tea Traders Association Chairman Sanjaya Herath, discussions and evaluations on different international market parameters required by tea production globally are to be conducted at the meeting.
-
-This will include reviews on biochemical, physical, and biological standards expected to be followed by tea-producing countries.
-
-This meeting is the first physical meeting of the ISO Technical Committee since the COVID-19 pandemic in 2020.
-
-◼️
-
-[Data](articles/4f25df55.json)
-
-[Extended Data](ext_articles/4f25df55.ext.json)
 
 ---

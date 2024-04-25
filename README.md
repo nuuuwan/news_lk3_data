@@ -1,60 +1,140 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 11:18:42**
+As of **2024-04-25 11:34:15**
 
 ## Newspaper Stats
 
-*Scraped **20,847** Articles*
+*Scraped **20,853** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 218
+bbccomsinhala | 219
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,735
+adalk | 1,736
 tamilmirrorlk | 2,410
-adaderanalk | 2,479
+adaderanalk | 2,480
 virakesarilk | 3,139
-dailymirrorlk | 3,249
-adaderanasinhalalk | 3,367
+dailymirrorlk | 3,250
+adaderanasinhalalk | 3,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,845 (100.0%) of 20,847 articles have been extended.
+20,847 (100.0%) of 20,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
+### දඹුල්ල නගරය ට ආ දැවැන්තයෝ
+
+*2024-04-25 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195954) · `si`
+
+දඹුල්ල නගරයට අහම්බෙන් පැමිණි වන අලි තිදෙනා පළවා හැරීමට වනජීවී නිලධාරින් හා ආරක්ෂක අංශ නිලධාරීන්ට හැකිවූ බව දඹුල්ල පොලීසිය කියයි.
+
+23 වනදා රාත්‍රියේ මෙම වන අලි තිදෙනා දඹුල්ල නගරයට පැමිණ අතරමංව නිවාස ආසන්නයේ හා වෙළෙඳසැල් අවට සැරිසරන අයුරු ඊයේ (24) අලුයම ප්‍රදේශවාසීන් දැක තිබේ.
+
+පසුව වනජීවී නිලධාරීන්, දඹුල්ල පොලීසිය හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන්ගේ සහාය මත වනඅලි රැඳී සිටි ස්ථානයේ සිට කිරලව, මාරකෑල්ල  රක්ෂිතයට පළවා හැරීමට පියවර ගත්තේය.
+
+◼️
+
+[Data](articles/04652860.json)
+
+---
+
+### Tuition classes targeting 2023 O/L exam prohibited from April 30
+
+*2024-04-25 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98831/tuition-classes-targeting-2023-ol-exam-prohibited-from-april-30) · `en`
+
+Conducting and organizing tuition classes and seminars aimed at students scheduled to sit for the upcoming 2023 G.C.E. Ordinary Level (O/L) examination will be prohibited from next week.
+
+Accordingly, all tuition and revision classes, as well as seminars oriented towards the 2023 O/L exam will be banned from midnight on Tuesday (April 30), the Department of Examinations said.
+
+Strict action will be taken against those who violate the rules, the Commissioner General of Examinations noted.
+
+The 2023 Ordinary Level exam is scheduled to be held from 06 May to 15 May, 2024.
+
+Furthermore, the Examinations Department mentioned that the results of the 2023 G.C.E. Advanced Level (A/L) examination would be released in the end of May.
+
+Against this backdrop, MP Gamini Waleboda stated that due to the delay in re-scrutiny of the 2022(2023) G.C.E O/L examination, students are facing issues with commencing their academic activities in the A/L classes.
+
+...
+
+[Data](articles/8024a357.json)
+
+---
+
+### රන් මිලේ වෙනසක්
+
+*2024-04-25 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195953) · `si`
+
+මෙරට රත්‍රං මිල ගණන් පහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+
+ඒ අනුව අද (25) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 173,000ක් දක්වා පහළ ගොස් තිබේ.
+
+මේ අතර රු. 190,000ක් ලෙස පැවති "කැරට් 24" රන් පවුමක මිල අද වනවිට රු. 188,000ක් දක්වා සුළු අගයකින් පහත වැටී ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/71068132.json)
+
+---
+
+### Electricity Reforms Bill presented to Parliament
+
+*2024-04-25 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Reforms-Bill-presented-to-Parliament/108-281335) · `en`
+
+Colombo, April 25 (Daily Mirror) - The Sri Lanka Electricity Bill, which includes proposed electricity sector reforms was presented to Parliament by Power and Energy Minister Kanchana Wijesekara a short while ago.
+
+The Bill provides for greater participation of the private sector in the power sector.
+
+Minister Wijesekera assured that he is willing to discuss the Bill with all MPs in Parliament.
+
+◼️
+
+[Data](articles/45940318.json)
+
+---
+
 ### New electricity bill aimed at industry reforms presented to parliament
 
 *2024-04-25 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98830/new-electricity-bill-aimed-at-industry-reforms-presented-to-parliament-) · `en`
 
-Sri Lanka Electricity Bill, which incorporates the proposed reforms in the electricity sector, was presented to the parliament by Power & Energy Minister Kanchana Wijesekera on Thursday (25).
+The ‘Sri Lanka Electricity Bill’, which incorporates the proposed reforms for the electricity sector, was presented to the parliament by Power & Energy Minister Kanchana Wijesekera on Thursday (25).
+
+It was published in the government gazette on 17 April (Wednesday).
 
 ◼️
 
 [Data](articles/1ec4c300.json)
 
+[Extended Data](ext_articles/1ec4c300.ext.json)
+
 ---
 
-### යෝජිත විදුලිබල පනත් කෙටුම්පත පාර්ලිමේන්තුවට
+### Proposed Power and Power Bill in Parliament
 
 *2024-04-25 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195952) · `si`
 
-යෝජිත ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත විදුලිබල අමාත්‍ය කංචන විජේසේකර මහතා විසින් මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+Sri Lanka's Power and Energy Minister Kanchana Wijesekera introduced a new Electricity Bill to Parliament, aiming to reform the power sector.
 
-එම නව පනත් කෙටුම්පත යටතේ විදුලිබල කේෂ්ත්‍රයේ ප්‍රතිසංස්කරණ කිහිපයක් යෝජනා කර ඇත.
+🟩
+
+The proposed Sri Lanka Electricity Bill, Power and Energy Minister Kanchana Wijesekera presented the parliament shortly.
+
+The new bill has proposed several reforms of the power field under the new Bill.
 
 ◼️
 
 [Data](articles/5597132c.json)
+
+[Extended Data](ext_articles/5597132c.ext.json)
 
 ---
 
@@ -389,22 +469,6 @@ The association spokesman Asoka Bandara stated that there is no connection on th
 [Data](articles/375e2ed7.json)
 
 [Extended Data](ext_articles/375e2ed7.ext.json)
-
----
-
-### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
-
-*2024-04-25 09:17:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
-
-Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
-
-Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
-
-...
-
-[Data](articles/df579056.json)
-
-[Extended Data](ext_articles/df579056.ext.json)
 
 ---
 
@@ -855,6 +919,30 @@ In addition to the traditional committees such as the World Health Assembly and 
 [Data](articles/f64673ec.json)
 
 [Extended Data](ext_articles/f64673ec.ext.json)
+
+---
+
+### Fox Hill අනතුර: සාමාන්‍ය මාර්ග නීති මෝටර් රථ ධාවන තරගයකටත් අදාළ කර ගත හැකි ද?
+
+*2024-04-25 05:08:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72pllq3gd6o) · `si`
+
+Fox Hill අනතුර: සාමාන්‍ය මාර්ග නීති මෝටර් රථ ධාවන තරගයකටත් අදාළ කර ගත හැකි ද?
+
+දියතලාව 'Fox Hill Supercross 2024' මෝටර් ධාවන තරගය අතුරතුර පුද්ගලයින් 7 දෙනෙකුට මරු කැඳවමින් සිදුවූ අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් මෝටර් රථ ධාවන තරගකරුවන් දෙදෙනා බදාදා (අප්‍රේල් 24) ඇප මත මුදාහැරිණි.
+
+ඔවුන් දෙදෙනා බණ්ඩාරවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එලෙස ඇප මත මුදා හැරීමට නියෝග කෙරිණි.
+
+එම මෝටර් රථ ධාවකයින් දෙදෙනා දියතලාව රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී පසුගිය දා පොලිසිය මගින් අත්අඩංගුවට ගැනීමෙන් පසු රක්ෂිත බන්ධනාගාරගත කර තිබිණි.
+
+එලෙස අත්අඩංගුවට ගැනුණේ, මාතර පදිංචි 36 හැවිරිදි මෝටර් රථ ධාවන තරගකරුවෙකු සහ 47 හැවිරිදි පේරාදේණියේ පදිංචි තරගකරුවෙකි.
+
+තරගකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥයින් තර්ක කරන්නේ, මෝටර් රථ ධාවන තරගයක් අතරතුරදී සාමාන්‍ය මාර්ග නීති පද්ධතිය අනුව කටයුතු කළ නොහැකි බවට ය.
+
+මෝටර් රථ ධාවන තරගයක් අතරතුර අනාරක්ෂිතව රිය පැදවීම සහ අනතුරක් වළක්වා ගැනීමට උත්සහ නොකිරීම යන චෝදනා යටතේ නඩු පැවරිය නොහැකි බව නීතිඥ උපුල් කුමරප්පෙරුම බීබීසී සිංහල සේවයට පැවසීය.
+
+...
+
+[Data](articles/8d6fc11c.json)
 
 ---
 
@@ -1644,6 +1732,22 @@ Global Finance said its Best Bank Awards recognise financial institutions that o
 
 ---
 
+### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
+
+*2024-04-24 22:40:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
+
+Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
+
+Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
+
+...
+
+[Data](articles/df579056.json)
+
+[Extended Data](ext_articles/df579056.ext.json)
+
+---
+
 ### India is no ‘big brother’ to Sri Lanka, H.C. Santosh Jha says in myth-busting speech
 
 *2024-04-24 22:39:00* · [`islandlk`](http://island.lk/india-is-no-big-brother-to-sri-lanka-h-c-santosh-jha-says-in-myth-busting-speech/) · `en`
@@ -2079,107 +2183,5 @@ The preview of the film was released by the end of last year. Almost one crore h
 [Data](articles/93fb21bd.json)
 
 [Extended Data](ext_articles/93fb21bd.ext.json)
-
----
-
-### Teaser release of Ashok Selvan starrer 'I Naiyam I Enjoy Romance'
-
-*2024-04-24 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/181873) · `ta`
-
-"Teaser of 'I Naiyam Niyana' released, starring Ashok Selvan. Despite recent failures, fans hope for a commercial success. Selvan plays a romantic prince with humorous love strategies."
-
-🟩
-
-The teaser of the film 'I Naiyam Niyana' has been released, starring actor Ashok Selvan, who is constantly cold with the success of the film 'Battle Labor', which was released last year.
-
-Ashok Selvan, Avantika Mishra, Urvasi, M.. S.. Bhaskar, Vijay Varadaraj and many others have played. Niwas K. The film is composed by Prasanna on behalf of the film company D Criminal.. Thirumalai has produced.
-
-The teaser of the film has now been released as the first look and single track of the film have been released.. In this, Man Ashok Selvan appears to be a romantic prince. The expectation of the film has caused fans because his strategies for love are humorous.
-
-Ashok Selvan, who has failed films this year as 'Blue Star' and 'Bon One Kanda', will give this film a commercial success and raise his star status ..!It must be seen.
-
-◼️
-
-[Data](articles/fc60099f.json)
-
-[Extended Data](ext_articles/fc60099f.ext.json)
-
----
-
-### Arun Vijay's 'Retta Thala'
-
-*2024-04-24 20:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181874) · `ta`
-
-Arun Vijay stars in 'Retta Thala', a film directed by Mohan Raja, featuring a unique identity as a star successor. The film, produced by Exan Entertainment and BTG Universal, showcases Arun Vijay's hard work and unique identity.
-
-🟩
-
-Actor Arun Vijay, who has worked hard for over twenty -eight years for his unique identity as a star successor, has been named 'Red Thala', which has been named 'Retta Thala', which plays the lead role in the story of actor Arun Vijay's story.. It was released by director and actor Mohan Raja at a special ceremony in Chennai.
-
-Arun Vijay, Siddhi Idhanani, Tanya Ravichandran, Karthik Yogi, Balaji Murugadoss, directed by director Girish Thirukumaran directed 'Red Thala'.. Sam CS is composed by Dijo Tommy's cinematography. The film is being produced as Exan Entertainment and is produced by producer Bobi Balachandran on behalf of BTG Universal.
-
-...
-
-[Data](articles/5ed955a5.json)
-
-[Extended Data](ext_articles/5ed955a5.ext.json)
-
----
-
-### Colombo vehicles trapped
-
-*2024-04-24 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195938) · `si`
-
-Heavy traffic in Colombo has caused vehicles to be trapped on several main roads.
-
-🟩
-
-Heavy traffic strict has been strict at several main roads in Colombo.
-
-◼️
-
-[Data](articles/fd3f4c23.json)
-
-[Extended Data](ext_articles/fd3f4c23.ext.json)
-
----
-
-### NPP asks Sajith to propose convenient date unless he can participate on proposed four days
-
-*2024-04-24 20:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-asks-Sajith-to-propose-convenient-date-unless-he-can-participate-on-proposed-four-days/108-281296) · `en`
-
-Colombo, April 24 (Daily Mirror)- The National People's Power (NPP) today requested Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to propose a date convenient to him if he is unable to participate in any of the four days proposed by the NPP for the public debate between the two leaders.
-
-NPP General Secretary Tilvin Silva told a news conference that the NPP proposed four days assuming that Sajith Premadasa would be busy and give him an opportunity to select any of the four days convenient to him.
-
-"We proposed four dates, assuming that Sajith may be busy. Anura Kumara is also a busy person engaged in a tight schedule. We proposed four dates considering the importance of the debate. If the Sajith faction is claiming that this debate is so importatnt, they can choose any one of the four dates. If he is unable to make it on any of the four dates, we request him to propose a date convenient to him," he said.
-
-...
-
-[Data](articles/d11c16e9.json)
-
-[Extended Data](ext_articles/d11c16e9.ext.json)
-
----
-
-### Rs.. 15000 to farm accounts from next week
-
-*2024-04-24 20:06:02* · [`adalk`](https://www.ada.lk/breaking_news/යල-කන්නයේ-වී-වගාවට-දෙන-රු--15000-ලබන-සතියේ-සිට-ගොවි-ගිණුම්-වෙත/11-409249) · `si`
-
-The Commissioner General of Agrarian Development AM announced a Rs. 15,000 incentive for farming accounts starting from the next Yala season. The paddy cultivation commissioner has been completed, with accurate farmer information to be gathered this week.
-
-🟩
-
-The Commissioner General of Agrarian Development AM is credited to farm accounts from the Yala Season 15,000 to the Yala season 15,000 Agrarian Development AM. H. L. Mr. Abeyratne said.
-
-He said that the growing paddy of the Yala season has already been launched, but the gathering of accurate information on the farmers will be completed this week.
-
-The Commissioner General of Commissioner General, which has been deployed to be deployed so far, the commissioner of paddy cultivation has been completed so far, according to the existing information, the commissioner of paddy cultivation has been completed by now.Said it was done.
-
-◼️
-
-[Data](articles/4099d9be.json)
-
-[Extended Data](ext_articles/4099d9be.ext.json)
 
 ---

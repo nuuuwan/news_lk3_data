@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 08:33:57**
+As of **2024-04-25 08:51:55**
 
 ## Newspaper Stats
 
-*Scraped **20,825** Articles*
+*Scraped **20,827** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 217
+bbccomsinhala | 218
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,130
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,732
 tamilmirrorlk | 2,408
-adaderanalk | 2,474
+adaderanalk | 2,475
 virakesarilk | 3,136
 dailymirrorlk | 3,247
 adaderanasinhalalk | 3,361
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,825 (100.0%) of 20,825 articles have been extended.
+20,827 (100.0%) of 20,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### Thundershowers expected in five provinces after 2pm
+
+*2024-04-25 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98826/thundershowers-expected-in-five-provinces-after-2pm) · `en`
+
+Showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, North-western and Southern provinces after 2 p.m., the Department of Meteorology says.
+
+Showers or thundershowers may occur over the coastal areas of Galle to Pottuvil via Matara and Hambantota during the morning.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces in the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at several places in the sea areas off the coast extending from Pottuvil to Matara via Hambantota. Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
+
+Winds will be south-easterly or variable and wind speed will be 20-30 kmph.
+
+...
+
+[Data](articles/fb3789a0.json)
+
+[Extended Data](ext_articles/fb3789a0.ext.json)
+
+---
 
 ### Red light to foreign employment rackets
 
@@ -717,6 +741,38 @@ Dr. Chamil Wijesinghe, spokesperson for the GMOA, called on the government to su
 [Data](articles/6eddcc51.json)
 
 [Extended Data](ext_articles/6eddcc51.ext.json)
+
+---
+
+### Why did the Turbine machines of the Uma Oya project be named 'Masni' and 'Churchi'?- Sindney speaks
+
+*2024-04-25 02:10:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1qlrp0qwo) · `si`
+
+The Uma Oya project's turbines, 'Masni' and 'Churchi', were named after two Sri Lankan women, Sindney and Sasuni Louis, who played significant roles in the project. Sindney, an alumni of Musaes Vidyalaya, was involved in coordinating work, salaries, and language translation. She was asked to name a turbine, leading to the naming of 'Masni'. Sasuni, who left the project due to obstacles, was named 'Churchi'. This naming tradition is part of Iran's culture, where female names are used for significant projects.
+
+🟩
+
+Why did the Turbine machines of the Uma Oya project be named 'Masni' and 'Churchi'?- Sindney speaks
+
+Uma Oya Multipurpose Development Project was declared open by the President of the Iranian Islamic Republic of Iranian Islamic Republic yesterday (April 24).
+
+With the opening of this project, a special focus on two Sri Lankan women.
+
+Why were the names of these two women to be very close to a massive project?
+
+The BBC Sinhala service was known to the BBC Sinhala service in the name of the two women belonging to the Uma Oya project.
+
+The BBC won the opportunity to talk to the owner of the name Dasuni Louis, the owner of the name used to one Turbine.
+
+Sumni Lewis is an alumni of Musaes Vidyalaya, Colombo and is currently settled in the Kurunegala area.
+
+The Uma Oya project was named by two turbines in the project and she was involved in the project that she was involved in the project.
+
+...
+
+[Data](articles/b0cd3998.json)
+
+[Extended Data](ext_articles/b0cd3998.ext.json)
 
 ---
 
@@ -2129,47 +2185,5 @@ Sajith Premadasa, the Leader of Samagi Jana Balawegaya, also made a similar pled
 [Data](articles/046d1ec1.json)
 
 [Extended Data](ext_articles/046d1ec1.ext.json)
-
----
-
-### Four more villages who were constructed under Indian assistance to the public
-
-*2024-04-24 17:59:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියානු-ආධාර-යටතේ-ඉදිකෙරුණු-තවත්-ගම්මාන-04ක්-ලගදීම-ජනතා-අයිතියට/11-409244) · `si`
-
-India aids in building 4 more villages in Sri Lanka, totaling 14 projects. 2400 houses each, costing Rs. 2400 million, with Rs. 807 million given. Indian aid also funds Sobhitha Memorial Village with Rs. 450 million, aiming for 115 houses.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga says that four other villages were built under Indian assistance will be vested with the public. The villages were to be opened with Indian assistance in Colombo, Ratnapura, Trincomalee and Moneragala Districts.
-
-Minister Prasanna Ranatunga says that the project is already vested with the public in 10 villages in 10 villages throughout the country on the assistance of the Government of India.. The project has been vested in the public in Batticaloa, Jaffna, Gampaha, Kandy, Kandy, Anuradhapura and Anuradhapura districts.. 732 houses have been completed under this project.
-
-...
-
-[Data](articles/561698c2.json)
-
-[Extended Data](ext_articles/561698c2.ext.json)
-
----
-
-### 300 kilo of drugs to be destroyed
-
-*2024-04-24 17:54:13* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-300ක්-විනාශ-කිරීමට-යයි/11-409243) · `si`
-
-"Minister Wijeyadasa Rajapaksa announced the seizure of 300 kg of drugs in May. The Criminal Procedure Code (Amendment) Bill and Danger Pharmaceutical Drugs Ordinance were mentioned. Due to environmental concerns, the destruction of drugs was delayed, and expert advice was sought. It was suggested to use modern technology, like an incinerator, to destroy drugs safely. A site for the incinerator was found, and a machine was purchased. The goal is to implement the incinerator by May next year to destroy about 300 kg of heroin."
-
-🟩
-
-Minister of Justice, Prints and Constitutional Reforms Wijeyadasa Rajapaksa said that about 300 kg of drugs were taken into custody in May.
-
-The Criminal Procedure Code (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Second Reading) and Orders, Owis and Danger Pharmaceful Drugs Ordinance.Mentioned.
-
-"When we destroy drugs, we raised many environmental problems. Therefore, the Ministry of Public Defense and the Ministry of Defense also held more time to a year. We have obtained expert advice to solve environmental problems. Dangerous Pharmaceutical Superintendent intervened. They advised us that these were prohibited to destroy the people, it was not good to do it. This should be used to destroy modern technology. That means that one like Incinerator wants to harm the environment.
-
-...
-
-[Data](articles/25b4df46.json)
-
-[Extended Data](ext_articles/25b4df46.ext.json)
 
 ---

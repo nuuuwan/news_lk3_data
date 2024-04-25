@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 05:03:42**
+As of **2024-04-26 05:18:33**
 
 ## Newspaper Stats
 
-*Scraped **21,032** Articles*
+*Scraped **21,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,132
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,432
+tamilmirrorlk | 2,433
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,276
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,032 (100.0%) of 21,032 articles have been extended.
+21,032 (100.0%) of 21,033 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,20 @@ The public wishes to know why the organizers of the event should go unpunished w
 [Data](articles/7f4f4604.json)
 
 [Extended Data](ext_articles/7f4f4604.ext.json)
+
+---
+
+### ஐயாவுக்கு விடுமுறை
+
+*2024-04-26 01:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-விடுமுறை/175-336361) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் இரா.சம்பந்தன் ஐயா,  பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும்   3 மாத கால விடுமுறை வழங்க பாராளுமன்றம் அனுமதியளித்துள்ளது.
+
+பாராளுமன்றம் வியாழக்கிழமை (25)  எதிர்க்கட்சியின் பிரதம கொறடாவான  லக்ஸ்மன் கிரியெல்ல எம்.பி., த.தே.கூவின் தலைவர் இரா.சம்பந்தன் பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும் 3 மாத கால விடுமுறை வழங்கும்  முன்மொழிந்தார். அதற்கு பாராளுமன்றம் அங்கிகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/004e179a.json)
 
 ---
 
@@ -2163,25 +2177,5 @@ Here, considering China's economic development model, both sides exchanged ideas
 [Data](articles/02240b7c.json)
 
 [Extended Data](ext_articles/02240b7c.ext.json)
-
----
-
-### Santoras released on bail
-
-*2024-04-25 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195963) · `si`
-
-Upul Shantha Sanvestgala, a former tuition teacher, was released on bail after being arrested for financial fraud.
-
-🟩
-
-Upul Shantha Sanvestgala has been released on bail, a former popular tuition teacher arrested on suspicion of financial fraud.
-
-The order has been issued after the Kandana Police have arrested the event and produced before the Welisara Magistrate.
-
-◼️
-
-[Data](articles/fa8d4ee8.json)
-
-[Extended Data](ext_articles/fa8d4ee8.ext.json)
 
 ---

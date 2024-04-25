@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 15:03:37**
+As of **2024-04-25 15:18:30**
 
 ## Newspaper Stats
 
-*Scraped **20,905** Articles*
+*Scraped **20,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,172
 economynextcom | 1,187
 adalk | 1,745
 tamilmirrorlk | 2,417
-adaderanalk | 2,486
+adaderanalk | 2,487
 virakesarilk | 3,149
 dailymirrorlk | 3,254
 adaderanasinhalalk | 3,376
@@ -26,23 +26,45 @@ adaderanasinhalalk | 3,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,902 (100.0%) of 20,905 articles have been extended.
+20,905 (100.0%) of 20,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### මහින්දගෙන් මිලියන 1000ක් ඉල්ලා මෛත්‍රීගෙන් එන්තරවාසියක්
+### Maithripala sends letter of demand to Amaraweera, seeks Rs. 1 bn compensation
+
+*2024-04-25 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98837/maithripala-sends-letter-of-demand-to-amaraweera-seeks-rs-1-bn-compensation) · `en`
+
+Former President Maithripala Sirisena has sent a letter of demand to Minister Mahinda Amaraweera, seeking Rs. 1 billion in damages over defamation.
+
+The letter of demand references an alleged statement made by Minister Amaraweera to the media on April 22 and 24 which it claims contains inaccurate and malicious comments regarding former President Sirisena.
+
+Accordingly, the letter of demand seeks Rs. 1,000 million in damages or compensation for defamation. It further states that legal action will be initiated against Minister Amaraweera if Mr. Sirisena is not compensated within 14 days.
+
+◼️
+
+[Data](articles/6d709775.json)
+
+---
+
+### An interval from Maithri demanding 1000 million people
 
 *2024-04-25 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195961) · `si`
 
-මාධ්‍ය ඔස්සේ සිදුකරන ලද ප්‍රකාශයක් හේතුවෙන් සිදුවූ අපහාසය වෙනුවෙන් වන්දි මුදලක් ඉල්ලා සිටිමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විසින් අමාත්‍ය මහින්ද අමරවීර මහතා වෙත එන්තරවාසියක් යොමුකර තිබේ.
+Maithripala Sirisena, former President and Minister, demands Rs. 1000 million compensation for 14 days.
 
-එමගින් දන්වා ඇත්තේ මෙම කරුණු හරහා සිදුවූ අලාභය හෝ වන්දි මුදල වන රුපියල් මිලියන 1000ක මුදලක් දින 14ක් තුළ මෛත්‍රීපාල සිරිසේන මහතා වෙත ගෙවන ලෙසටය.
+🟩
+
+Former President Maithripala Sirisena, Minister Maithripala Sirisena, Minister of Defense has begun to seek a compensation to compensation due to a statement.
+
+It has been informed to pay a sum of Rs. 1000 million to Maithripala Sirisena for 14 days.
 
 ◼️
 
 [Data](articles/2e9cd50b.json)
+
+[Extended Data](ext_articles/2e9cd50b.ext.json)
 
 ---
 
@@ -76,11 +98,13 @@ Kelaniya District Senior Superintendent of Police AJYP. Further investigations a
 
 *2024-04-25 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98836/upul-shantha-sannasgala-arrested) · `en`
 
-Popular lecturer Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
+Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
 
 ◼️
 
 [Data](articles/2997ae45.json)
+
+[Extended Data](ext_articles/2997ae45.ext.json)
 
 ---
 
@@ -104,7 +128,7 @@ The arrest has been made by the Kandana police in response to accusations levell
 
 *2024-04-25 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gota-fires-back-at-Cardinal-rebuts-allegations/108-281357) · `en`
 
-In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said   Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
+In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
 
 Cardinal Ranjith made the following allegations against former President Gotabaya Rajapaksa at a recent media conference:
 
@@ -120,23 +144,33 @@ Cardinal Ranjith made the following allegations against former President Gotabay
 
 ---
 
-### කාදිනල් හිමිගේ චෝදනාවන්ට ගෝඨාභයගෙන් පිළිතුරු
+### Gotabhaya answers the allegations of Kadinal Thera
 
 *2024-04-25 13:59:35* · [`adalk`](https://www.ada.lk/breaking_news/කාදිනල්-හිමිගේ-චෝදනාවන්ට-ගෝඨාභයගෙන්-පිළිතුරු/11-409262) · `si`
 
-පාස්කු ප්‍රහාරයට පස්වසරක් පිරිම නිමිත්තෙන් පැවැති ආගමික වැඩසටහනේදි අති උතුම් මැල්කම් රංජිත් කාදිනල් හිමිපාණනන් කළ ප්‍රකාශයන්ට හිටපු ජනපති ගෝඨාභය රාජපක්ෂ මහතා පිළිතුරු ලබාදි තිබේ.
+Gotabhaya Rajapaksa denies allegations by Malcolm Ranjith Kadin regarding the handling of the Easter Sunday bombings investigation. He refutes claims of withholding the Presidential Commission's report, selectively implementing recommendations, and interfering with the Criminal Investigation Department. Rajapaksa emphasizes that the Muslim community did not support his presidency, thus no need for bans. He also clarifies the timeline of the report's handling and the appointment of the CID director, disputing accusations of sabotage.
 
-ඔහුගේ මාධ්‍යයට නිකුත් කළ නිවේදනය පහත පරිිදි වන අතර එහිිදි කාදිනල් හිමිපාණන් කළ ප්‍රකාශ ගෝඨාභය රාජපක්ෂ මහතා විසින් ප්‍රතික්ෂේප කර තිබේ.
+🟩
 
-අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් විසින් මට එරෙහිව කරන ලද චෝදනා
+Former President Gotabhaya Rajapaksa has been responding to the statements made by Malcolm Ranjith Kadin allocated for a five-year-old program.
 
-පාස්කු ඉරිදා මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයට වසර පහක් පිරීම නිමිත්තෙන් පැවති සැමරීමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් මට එරෙහිව පහත සඳහන් චෝදනා එල්ල කරන ලදී.
+The announcement issued to his media has refused the following proposals.
 
-පාස්කු ඉරිදා ප්‍රහාරය පිළිබඳ ජනාධිපති විමර්ශන කොමිෂන් සභාවේ වාර්තාව මට ලැබුණු දිනට පසු දිනම මා කාදිනල් හිමිපාණන්ට දුරකථනයෙන් කතා කර එම වාර්තාවේ සඳහන් නිර්දේශ ක්‍රියාත්මක කිරීමට ගියහොත් මට සහාය වූ පුද්ගලයන් අත්අඩංගුවට ගැනීමටත්, ඔවුන්ගේ සංවිධාන තහනම් කිරීමට පවා සිදුවෙන බැවින්, එම නිර්දේශ ක්‍රියාත්මක කිරීමට අසීරු බව උන්වහන්සේ වෙත මා දන්වා සිටි බව.
+The allegations made by Malcolm Cardinal Ranjith
+
+The Five Years of Celebrations to mark the suicide bombing bombing of the Easter
+
+When I received the report of the Presidential Investigation Commission regarding the Easter investigation Commission on the Past Sunday, the Cardinal returns to the Cadinal Harmark and to arrest the recommendations in the report and even to ban their organizations.That I am informed.
+
+I delayed giving a copy of the first volume of the Presidential Commission's Report and that the remaining volumes were not given to him.
+
+That I made a six-member cabinet subdivision to select only a few recommendations made by the Easter committees and commissions.
 
 ...
 
 [Data](articles/7b18a758.json)
+
+[Extended Data](ext_articles/7b18a758.ext.json)
 
 ---
 
@@ -916,7 +950,11 @@ President Ranil Wickremesinghe declared open the super-luxury hotel ‘ITC Ratna
 
 ITC’s Hotel Group, one of India’s leading luxury hotel chains, is reported to have invested close to INR 3,000 crore in the luxury Sri Lankan property, which is being set up under a subsidiary WelcomHotels Lanka. The luxury hotel — ITC Ratnadipa in Colombo — reportedly features about 352 rooms.
 
-◼️
+The USD 500 million + ITC development, comprising the Sapphire Residences and super-luxury hotel ITC Ratnadipa, occupies pride of place at the centre of Colombo’s most prestigious ocean front location.
+
+Overlooking the Galle Face and the Indian Ocean on one side and the Beira Lake on the other, this landmark is already redefining the city’s skyline.
+
+...
 
 [Data](articles/1cabc927.json)
 
@@ -2199,29 +2237,5 @@ Omega Line CEO/Managing Director Felix A. Fernando, and Paola Fava, Omega Line �
 [Data](articles/f9e7fcd1.json)
 
 [Extended Data](ext_articles/f9e7fcd1.ext.json)
-
----
-
-### SJB and NPP to meet for public debate date finalisation
-
-*2024-04-25 04:57:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-and-NPP-to-meet-for-public-debate-date-finalisation/56-760995) · `en`
-
-SJB MP Nalin Bandara says all matters relating to holding of two debates will be discussed at meeting.
-
-Emphasises importance of holding a debate between economic councils at this juncture
-
-Assures both debates would take place in May, stating Premadasa is eager to participate
-
-Samagi Jana Balawegaya (SJB) MP Nalin Bandara in a communique to the rival National People’s Power (NPP) party yesterday has requested a meeting this week to decide on dates for two public debates between the party leaders and their economic councils.
-
-Bandara accordingly requested NPP Executive Council member, Dr. Nalinda Jayatissa to meet him in parliament on either 25 or 26 April to finalise the plans.
-
-The communique was in response to a letter sent by Jayatissa on Monday, requesting the SJB to choose either 7, 9, 13 or 14 May to hold a public debate between the respective party leaders.
-
-...
-
-[Data](articles/3065e894.json)
-
-[Extended Data](ext_articles/3065e894.ext.json)
 
 ---

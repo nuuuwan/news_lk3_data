@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 08:51:55**
+As of **2024-04-25 09:03:40**
 
 ## Newspaper Stats
 
-*Scraped **20,827** Articles*
+*Scraped **20,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,408
 adaderanalk | 2,475
 virakesarilk | 3,136
 dailymirrorlk | 3,247
-adaderanasinhalalk | 3,361
+adaderanasinhalalk | 3,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,827 (100.0%) of 20,827 articles have been extended.
+20,827 (100.0%) of 20,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### දේවගැතිවරයා දුන් ජලය පානය කළ කාන්තාව හදිසියේ මරුට
+
+*2024-04-25 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195947) · `si`
+
+මදුරන්කුලිය පොලිස් වසමේ දේවස්ථානයක පැවති දේවමෙහෙයක් අතරතුර ඇති වූ හදිසි රෝගී තත්ත්වයකින් කාන්තාවක් මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ අදාළ කාන්තාව පුත්තලම රෝහල වෙත ඇතුළත් කිරීමෙන් පසු ජීවිතක්ෂයට පත්වූ බවය.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 58 හැවිරිදි හලාවත ප්‍රදේශයේ පදිංචි දෙදරු මවකි.
+
+විමර්ශනයේ දී අනාවරණය වී ඇත්තේ දීර්ඝ කාලයක සිට හෘදරෝගයකින් හා සෙම් රෝගයකින් එම කාන්තාව පෙළී ඇති බවය.
+
+රෝග සුවවීම සඳහා කාන්තාව විසින් රැගෙන ආ ජලය දේවගැතිවරයා විසින් යාඥා කර නැවත එම කාන්තාවට බීමට ලබාදීමෙන් පසුව ඇති වූ හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ජීවිතක්ෂයට පත්වූ බව ද අනාවරණය වී තිබේ.
+
+මෘත ශරීරය පුත්තලම රෝහලේ තැන්පත් කර ඇති අතර, පශ්චාත් මරණ පරීක්ෂණය අද (25) සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/9c96b8cd.json)
+
+---
 
 ### Thundershowers expected in five provinces after 2pm
 
@@ -2165,25 +2187,5 @@ Consequent to the project, around 6,000 hectares of agricultural land in three s
 [Data](articles/5e2db065.json)
 
 [Extended Data](ext_articles/5e2db065.ext.json)
-
----
-
-### The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow where the state, and not the Islamists who blew up the innocents, stand accused.
-
-*2024-04-24 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83936) · `en`
-
-Five years ago, on Easter Sunday, a group of local Islamists carried out coordinated suicide attacks targeting three churches and tourist hotels, killing over 270 worshipers and tourists and wounding 500 others.
-
-The fifth anniversary of that heinous crime, which fell last Sunday (April 21), turned out to be a sordid display of politicking by the political parties, the catholic clergy and other usual culprits, who claim to campaign for justice for the victims.
-
-The National People’s Power of the JVP issued a seven-point agenda that it said would be implemented if it comes to power to hold accountable those responsible for the tragedy and serve justice to the victims.
-
-Sajith Premadasa, the Leader of Samagi Jana Balawegaya, also made a similar pledge in Parliament, promising to launch a fresh commission of inquiry, with the participation of local and international experts within two months of his election.
-
-...
-
-[Data](articles/046d1ec1.json)
-
-[Extended Data](ext_articles/046d1ec1.ext.json)
 
 ---

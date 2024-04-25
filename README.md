@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 00:03:57**
+As of **2024-04-26 00:18:20**
 
 ## Newspaper Stats
 
-*Scraped **20,996** Articles*
+*Scraped **20,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
-dailyftlk | 1,172
+dailyftlk | 1,173
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
@@ -26,29 +26,59 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,995 (100.0%) of 20,996 articles have been extended.
+20,996 (100.0%) of 20,997 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-26 (Friday)
+
+### Inaugural CPA Australia Appreciation Event
+
+*2024-04-26 00:05:27* · [`dailyftlk`](https://www.ft.lk/business/InauguralCPAAustralia-Appreciation-Event/34-761037) · `en`
+
+CPA Australia co-hosted an inaugural CPA Australia Appreciation Event for members and key stakeholders on 9 April 2024 at the Australian House.
+
+The event was graced by Australian High Commissioner to Sri Lanka Paul Stephens and well attended by more than 200 CPA Australia members and stakeholders, including office bearers of the local professional accounting organisations and senior leaders in businesses and universities.
+
+It was an opportune moment for CPA Australia to appreciate the support from the first Recognised Employer Partners in Sri Lanka through a certificate presentation by High Commissioner Paul Stephens, and CPA Australia Chief Member Experience Officer Rowena Buddee during the event.
+
+...
+
+[Data](articles/fe0101cd.json)
+
+---
+
 ### 2024-04-25 (Thursday)
 
-### ஹைதராபாத்தை அதிரவைத்து 35 ஓட்டங்களால் வென்றது பெங்களூரு
+### Bangalore won by 35 runs
 
 *2024-04-25 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181980) · `ta`
 
-ஹைதராபாத், ரஜீவ் காந்தி சர்வதேச விளையாட்டரங்கில் வியாழக்கிழமை (25) நடைபெற்ற இந்த வருடத்திற்கான இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 41ஆவது போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத்தை 35 ஓட்டங்களால் றோயல் செலஞ்சர்ஸ் பெங்களூரு வெற்றிகொண்டது.
+Royal Challengers Bangalore defeated Sunrisers Hyderabad by 35 runs in the IPL, with Virat Kohli and Rajad Patidar leading the victory. Bangalore scored 206/7, while Hyderabad lost 171/8.
 
-சன்ரைசர்ஸ் ஹைதராபாத்திற்கு இந்தத் தோல்வி பெரும்  ஏமாற்றத்தைக் கொடுத்த அதேவேளை, கடைநிலையில் இருக்கும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கு இந்த வெற்றி ஆறுதலைக் கொடுத்தது.
+🟩
 
-விராத் கோஹ்லி, ரஜாத் பட்டிடார் ஆகியோர் குவித்த அரைச் சதங்களும் கெமரன் க்றீனின் சகலதுறை ஆட்டமும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியின் வெற்றிக்கு வழிவகுத்தன.
+Royal Challengers Bangalore won the Sunrisers Hyderabad by 35 runs in the 41st match of the Indian Premier League Chapter for this year, held at Rajiv Gandhi International Stadium in Hyderabad on Thursday (25).
 
-எவ்வாறாயினும் இந்த தோல்விக்கு மத்தியிலும் சன்ரைசர்ஸ் ஹைதாராபத் 10 புள்ளிகளுடன் தொடர்ந்தும் 3ஆம் இடத்தில் இருக்கிறது. றோயல் செலஞ்சர்ஸ் பெங்களூரு 4 புள்ளிகளுடன் கடைசி இடத்தில் இருக்கிறது.
+The defeat was a great disappointment for Sunrisers Hyderabad, while the success of the Royal Challengers Bangalore team in the shop was comforted.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு  20 ஓவர்களில் 7 விக்கெட்களை இழந்து 206 ஓட்டங்களைப் பெற்றது.
+Virat Kohli and Rajad Patidar and all the match of Kemaran Kreen led to the victory of the Royal Challengers Bangalore team.
+
+However, despite this failure, Sunrisers Hyderabad continues to be 3rd place with 10 points. Royal Challengers Bangalore is in the last place with 4 points.
+
+Royal Challengers Bangalore scored 206 runs for the loss of 7 wickets in 20 overs.
+
+Team captain Bow to Blessis and Virat Kohli played efficiently and shared 48 runs off 23 balls.
+
+Bow to Plessis scored 25 runs. Mathim scored 6 runs for Jax who lost him.
+
+Virat Kohli and Rajad Patidar then shared 65 runs off 34 balls in the 3rd wicket.
 
 ...
 
 [Data](articles/0b3ee248.json)
+
+[Extended Data](ext_articles/0b3ee248.ext.json)
 
 ---
 
@@ -2251,31 +2281,5 @@ This is the specialty of 100 feet high in the sky, connecting two main pillars, 
 [Data](articles/6b620a0b.json)
 
 [Extended Data](ext_articles/6b620a0b.ext.json)
-
----
-
-### The President thanks for the assistance provided by the Iranian government
-
-*2024-04-25 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181932) · `ta`
-
-President Ranil Wickremesinghe hosted Iranian President Ibrahim Raisi for a meeting at the Presidential Office, marking the start of diplomatic relations in 1962. They discussed strengthening bilateral relations, including economic and cultural cooperation, and signed several Memorandums of Understanding (MoUs) on various sectors.
-
-🟩
-
-The official meeting between Ibrahim Raisi and President Ranil Wickremesinghe, who visited Sri Lanka to attend the inauguration of the Uma Oya Multipurpose Development Project, was held at the Presidential Office on Wednesday afternoon.
-
-President Ranil Wickremesinghe welcomed the delegation, including the President of Iran, who visited the presidential office.
-
-President Ranil Wickremesinghe took the Iranian presidential delegation to the presidential office after the two presidents introduced the two countries' delegation.
-
-To mark his visit, President Raisi also commemorated a memorial in the Presidential Office's Special Guest Book.
-
-Proper diplomatic relations between Iran and Sri Lanka started in 1962. Relationships between the two countries were carried out before the establishment of formal diplomatic relations. During the previous Persian period, relationships between the two countries were mainly conducted via Homos Strait. Iran established its embassy in 1975 in Colombo.
-
-...
-
-[Data](articles/83d8946a.json)
-
-[Extended Data](ext_articles/83d8946a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 02:18:26**
+As of **2024-04-26 02:34:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,017 (100.0%) of 21,022 articles have been extended.
+21,022 (100.0%) of 21,022 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ In a concerted effort to empower the educational landscape of Sri Lanka, LOLC Di
 ...
 
 [Data](articles/f517c163.json)
+
+[Extended Data](ext_articles/f517c163.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ Sri Lanka Podujana Peramuna (SLPP) National Organiser and Parliamentarian Namal 
 
 [Data](articles/be51eb89.json)
 
+[Extended Data](ext_articles/be51eb89.ext.json)
+
 ---
 
 ### Chinese communist party Vice Minister Sun Haiyan meets NR
@@ -81,6 +85,8 @@ Rajapaksa said the discussions focused on enhancing bilateral ties and future pl
 ◼️
 
 [Data](articles/9c31c551.json)
+
+[Extended Data](ext_articles/9c31c551.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ The Milk Powder Importers Association emphasises that there have been no additio
 
 [Data](articles/b5118c5a.json)
 
+[Extended Data](ext_articles/b5118c5a.ext.json)
+
 ---
 
 ### Well-known business leader and philanthropist Greatian Gunawardhana passes away
@@ -111,6 +119,8 @@ He, being a distinguished old boy of Thurstan College, had a close relationship 
 ...
 
 [Data](articles/e6ce7c6a.json)
+
+[Extended Data](ext_articles/e6ce7c6a.ext.json)
 
 ---
 

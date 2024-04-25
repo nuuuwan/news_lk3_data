@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 22:52:03**
+As of **2024-04-25 23:03:29**
 
 ## Newspaper Stats
 
-*Scraped **20,990** Articles*
+*Scraped **20,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ dailyftlk | 1,172
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
-adaderanalk | 2,499
+adaderanalk | 2,500
 virakesarilk | 3,165
-dailymirrorlk | 3,269
-adaderanasinhalalk | 3,387
+dailymirrorlk | 3,271
+adaderanasinhalalk | 3,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,990 (100.0%) of 20,990 articles have been extended.
+20,990 (100.0%) of 20,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### SLAS appoints independent committee for investigation
+
+*2024-04-25 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLAS-appoints-independent-committee-for-investigation/108-281389) · `en`
+
+Colombo, April 25 (Daily Mirror) - While the Sri Lanka Army is conducting an inquiry, a three-member independent committee headed by a Senior President’s Counsel has been appointed by Sri Lanka Automobile Sports (SLAS) to conduct an inquiry into the tragic incident that occurred during the Fox Hill Super Cross 2024 event in Diyatalawa.
+
+SLAS president Ashhar Hameem said they have taken urgent steps to financially support all the families of the victims.
+
+He said that an unforeseen racing incident which had happened within the track limits had resulted in the loss of seven lives and had left 19 injured, while seven persons are still receiving treatment.
+
+...
+
+[Data](articles/550c5d35.json)
+
+---
+
+### Japan provides $3M through FAO to strengthen inland fisheries in Sri Lanka
+
+*2024-04-25 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98851/japan-provides-3m-through-fao-to-strengthen-inland-fisheries-in-sri-lanka) · `en`
+
+The Japanese Government has provided a grant of US$3 million through the Food and Agriculture Organization of the United Nations (FAO), to strengthen inland fisheries and improve rural livelihoods in partnership with the Ministry of Fisheries of Sri Lanka.
+
+The US$ 3 million initiative will bolster food and nutritional security and fortify resilience by establishing four community operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts, upgrade four NAQDA Aquaculture Development Centres and one community operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
+
+...
+
+[Data](articles/99799508.json)
+
+---
+
+### ස්ථීර පත්වීම් ලබාදීම ගැන රජයෙන් අලුත් තීරණයක්
+
+*2024-04-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195973) · `si`
+
+පළාත් පාලන ආයතනවල සිටින සේවකයින් සඳහා ස්ථීර පත්වීම් ලබාදීම සඳහා රජයේ අවධානය යොමුව තිබේ.
+
+පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා මේ බව පැවසීය.
+
+ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරු අතර අද පස්වරුවේ පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා මේ බව පැවසීය.
+
+ඒ අනුව පළාත් පාලන ආයතනවල සිටින 8400ක පමණ වූ සේවකයින් ප්‍රමාණය සඳහා කඩිනමින් ස්ථිර පත්වීම් ලබාදීමට එහිදී අවධානය යොමුවූ බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/01604a0d.json)
+
+---
 
 ### President reveals govt’s plans for turning Colombo into tourist destination
 
@@ -47,6 +95,26 @@ Addressing the gathering, President Wickremesinghe extended a warm welcome, stat
 [Data](articles/198454ac.json)
 
 [Extended Data](ext_articles/198454ac.ext.json)
+
+---
+
+### No decision to reduce milk powder prices: Importers
+
+*2024-04-25 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-decision-to-reduce-milk-powder-prices-Importers/108-281378) · `en`
+
+Colombo, April 25 (Daily Mirror) - While condemning the media reports, the Milk Powder Importers’ Association said today that they had not taken any decision to reduce the retail prices of the milk powder packets in the local market.
+
+The association media spokesman, Asoka Bandara, said the statement circulated on media platforms is incorrect.
+
+All milk powder brands, in response to the Trade Ministry’s request to provide relief to consumers during the Avurudu season, have already reduced prices starting from April 1, with the current maximum retail price set at Rs. 1,050 for a 400-gram packet.
+
+Moreover, there are many milk powder brands that are sold at prices lower than this stipulated price, along with multiple price promotions. The Milk Powder Importers Association confirms that there will be no further reductions as of April 25, as misreported on Wednesday.
+
+Consumers can now find milk powder available in the market at a wide range of competitive prices and promotions, starting April 1.
+
+...
+
+[Data](articles/305438d5.json)
 
 ---
 
@@ -2185,103 +2253,5 @@ The NPP’s Nalinda Jayatissa, who has been tasked with overseeing the organisat
 [Data](articles/f1799921.json)
 
 [Extended Data](ext_articles/f1799921.ext.json)
-
----
-
-### Climate summit to discuss growth opportunities for Sri Lanka businesses: Chamber
-
-*2024-04-25 12:52:00* · [`economynextcom`](https://economynext.com/climate-summit-to-discuss-growth-opportunities-for-sri-lanka-businesses-chamber-160027/) · `en`
-
-ECONOMYNEXT – Rising temperatures and extreme weather events due to climate change are impacting business, and companies need to address the irrelevance of existing business models, the Ceylon Chamber of Commerce said.
-
-“Climate change is affecting all of us in a big way. More particularly, the business community and businesses,” Duminda Hulangamuwa, Chairman, Ceylon Chamber of Commerce said.
-
-“There is a huge cost. It is imperative that we address the situation,” Hulangamuwa said announcing the Sri Lanka Climate Summit 2024 ‘Code Red – Climate Risks and Opportunities for Sri Lankan Businesses’.
-
-Over three days, from May 7-9, the Summit to be held at Shangri La Colombo, will bring together businesses, government officials/policy makers and academia to discuss the risks of climate change, and the growth opportunities for Sri Lankan businesses.
-
-...
-
-[Data](articles/43bfcb12.json)
-
-[Extended Data](ext_articles/43bfcb12.ext.json)
-
----
-
-### Chinese Communist Party met with Sajith Premadasa
-
-*2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாசவை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
-
-Chinese Communist Party representatives met with UPFA's Sajith Premadasa, discussing economy, trade, and political relations. They aim to invest $1M to restore Sri Lanka's economy, with Premadasa addressing micro, small, and medium entrepreneurs' issues.
-
-🟩
-
-A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa on Wednesday (24).
-
-This special meeting between the two sides has been held for an hour. Following this, a 45 -minute face -to -face meeting was held between Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China Sun Hayan.
-
-A number of sectors, such as the economy, trade and political relations, have been discussed in detail, and the two sides have been exchanged between Sri Lanka and China.
-
-Here, considering China's economic development model, both sides have exchanged ideas about the way our country can recover from the current situation.
-
-International relations department leaders of the Chinese Communist Party have said they expect to invest a million US dollars to restore the country's economy.
-
-...
-
-[Data](articles/3c2ec142.json)
-
-[Extended Data](ext_articles/3c2ec142.ext.json)
-
----
-
-### Chinese Communist Party
-
-*2024-04-25 12:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜிதை-சந்தித்த-சீனக்-கம்யூனிஸ்ட்-கட்சி/175-336314) · `ta`
-
-Chinese Communist Party representatives met with UPFA leaders, discussing economy, trade, and political relations. They aim to invest $1M to restore Sri Lanka's economy, with focus on recovery strategies.
-
-🟩
-
-A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa on Wednesday (24).
-
-This special meeting between the two sides has been held for an hour. Following this, a 45 -minute face -to -face meeting was held between Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China Sun Hayan.
-
-A number of sectors, such as the economy, trade and political relations, have been discussed in detail, and the two sides have been exchanged between Sri Lanka and China.
-
-Here, considering China's economic development model, both sides have exchanged ideas about the way our country can recover from the current situation.
-
-International relations department leaders of the Chinese Communist Party have said they expect to invest a million US dollars to restore the country's economy.
-
-...
-
-[Data](articles/8d5ba211.json)
-
-[Extended Data](ext_articles/8d5ba211.ext.json)
-
----
-
-### Provide milk tea for 80 rupees
-
-*2024-04-25 12:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-ரூபாய்க்கு-பால்-தேநீர்-வழங்கவும்/175-336313) · `ta`
-
-Asela Sampath, leader of the National Consumer Front, requested a cup of milk tea for 80 rupees to offset the price increase of imported milk flour. This move is in response to Palma importers reducing retail prices of Paul Maui due to a decrease in the dollar's value, encouraging consumers to return to drinking milk tea.
-
-🟩
-
-It has been requested to provide a cup of milk tea for 80 rupees to provide consumers with a reduction in the price of imported milk flour.
-
-National Consumer Front leader Asela Sampath has made this request to the owners of the road.
-
-He also told the media that Palma importers have decided to reduce the retail prices of Paul Maui as it comes into effect from today due to the decline in the value of the dollar.
-
-Due to the rise in milk prices in recent times, people have been avoiding coming to hotels to drink milk tea.
-
-At present, the situation has changed and people have the opportunity to drink a cup of milk for 80 rupees again, he said.
-
-◼️
-
-[Data](articles/698c04fa.json)
-
-[Extended Data](ext_articles/698c04fa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 07:18:31**
+As of **2024-04-25 07:42:15**
 
 ## Newspaper Stats
 
-*Scraped **20,806** Articles*
+*Scraped **20,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 217
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,124
+islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
 adalk | 1,731
@@ -20,37 +20,61 @@ tamilmirrorlk | 2,408
 adaderanalk | 2,474
 virakesarilk | 3,129
 dailymirrorlk | 3,244
-adaderanasinhalalk | 3,359
+adaderanasinhalalk | 3,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,795 (99.9%) of 20,806 articles have been extended.
+20,804 (100.0%) of 20,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### සාපෙළ ගැන විශේෂ දැනුම්දීමක්
+### ජනාධිපති අපේක්ෂකයා ගැන නාමල් කට අරී
+
+*2024-04-25 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195945) · `si`
+
+ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂයෙන් සුදුසු අපේක්ෂකයෙකු ඉදිරිපත් කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+
+මන්ත්‍රීවරයා පෙන්වාදෙන්නේ ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂය තුළ අපේක්ෂකයින් කිහිපදෙනෙකුම සිටින බවය.
+
+"විශේෂයෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණ විදියට එළැබෙන්නේ මොන මැතිවරණය ද ඒකට අපි සුදානම්. ඔයාලා දකිනවා ඇති ලංකාවේ කොතැන ගිහින් අපේ හිටපු පළාත් පාලන මන්ත්‍රීවරු, අපේක්ෂකයෝ කැඳවූවත් සියලූම අපේක්ෂකයෝ අපේ රැස්වීම්වලට සම්බන්ධ වෙනවා. ඒ කියන්නේ අපි ගමේ අදටත් ක්‍රියාකාරී. අපි දන්නේ නෑ ජනාධිපතිතුමා ඡන්දය තියයි ද නැද්ද දන්නෙත් නෑ. අපි පැහැදිලිවම ශ්‍රී ලංකා පොදුජන පෙරමුණ මැතිවරණයට ඉදිරිපත් වෙනවා. එතකොට ඡන්ද පත්‍රිකාවේ පොහොට්ටුවේ ලකුණ තියෙනවා. අපේක්ෂකයා පිළිබඳව වෙලාවට කියන්නම්. ඒවා ඉතින් කලින් කියන්න ඕනේ දේවල් නෙමෙයි නේ. ඔබතුමන්ලා මගෙන් මීට කලින් ඇහුවේ ප්‍රාදේශීය සභාවේ ඉල්ලන්න අපේක්ෂකයෝ ඉන්නවා ද කියලා. දැන් ජනාධිපතිවරණයට පොදුජන පෙරමුණෙන් ලැයිස්තුවක් ඉන්නවා. ඒකෙන් අපි කාලෙට සුදුසු සහ අභියෝග ජයගන්න පුළුවන් කෙනා අපි ඉදිරිපත් කරනවා."
+
+...
+
+[Data](articles/dc4f182b.json)
+
+---
+
+### Special notice of constraints
 
 *2024-04-25 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195944) · `si`
 
-මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන උපකාරක පංති, සම්මන්ත්‍රණ පැවැත්වීම ලබන 30 වැනිදා මධ්‍යම රාත්‍රී සිට අත්හිටුවන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+Tuition, seminars, and workshops suspended from midnight on 30th for GCE Ordinary Level exams (6th-15th May). GCE Advanced Level results delayed, risking students' entry. MP Gamini Walaweboda criticized the Commissioner General of Examinations for not issuing resurrection results, affecting nearly two million students. Education Minister has requested Examinations Minister to expedite surveys and results.
 
-ඒ අනුව එදින මධ්‍යම රාත්‍රී 12.00 සිට උපකාරක පංති, සම්මන්ත්‍රණ, වැඩමුළු ආදී විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන කටයුතු අත්හිටවනු ඇති බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+🟩
 
-එම නීති උල්ලංඝනය කරන පුද්ගලයින් සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
+The Examinations Department says that the tuition classes and seminars will be suspended from midnight on the 30th of this year's GCE Ordinary Level examination.
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 සිට 15 වන දින දක්වා පැවැත්විමට සැලසුම් කර තිබේ.
+According to a spokesperson that will be suspended from 12.00 midnight towards tuition classes, seminars and workshops.
 
-මේ අතර පසුගියදා පැවති අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල මැයි මස අග නිකුත් කිරීමට කටයුතු කරන බව ද විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේය.
+Strong action will be taken to violate those laws.
 
-2023 වසරේ පැවති සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණ කටයුතු ප්‍රමාද වීම හේතුවෙන් සිසුන්ට උසස් පෙළ පංති වෙත ඇතුළු වීමේ අවදානමක් පවතින බව පාර්ලිමේන්තු මන්ත්‍රී ගාමිණි වලේබොඩ මහතා පවසයි.
+The GCE Ordinary Level Examination is scheduled to be held from 6th to 15th May.
+
+Meanwhile, the results of the GCE Advanced Level Examination will be issued in the end of May.
+
+According to MP Gamini Walaweboda, the students have a risk to the students to enter the GCE Advanced Level classes due to delaying the results of the GCE (Year 2023).
+
+The MP pointed out a letter to Education Minister Susil Premajayantha in December last year, the Commissioner General of Examinations had failed to issue resurrection results.
 
 ...
 
 [Data](articles/7610c1ad.json)
+
+[Extended Data](ext_articles/7610c1ad.ext.json)
 
 ---
 
@@ -74,23 +98,31 @@ This meeting is the first physical meeting of the ISO Technical Committee since 
 
 [Data](articles/4f25df55.json)
 
+[Extended Data](ext_articles/4f25df55.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට හවසට වැසි
+### Showers in several areas
 
 *2024-04-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195942) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම,වයඹ සහ දකුණු පළාත්වල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Showers and thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Southern provinces, along the coast from Galle to Matara and Hambantota, with some lasting into the morning. Public advised to prepare for strong winds and lightning.
 
-ගාල්ල සිට මාතර සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+From Western, Sabaragamuwa, Central, North Western and Southern provinces. Showers or thundershowers will occur at several times after 2.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+The Department of Meteorology announces that showers will occur at several places in the coastal areas from Galle to Matara and Hambantota.
+
+Some locations in the Sabaragamuwa, Central and Uva provinces can last a morning.
+
+The Department of Meteorology has kindly requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/ba2c2909.json)
+
+[Extended Data](ext_articles/ba2c2909.ext.json)
 
 ---
 
@@ -196,6 +228,8 @@ Sri Lanka defaulted on its external debt for the first time in its postcolonial 
 
 [Data](articles/178defff.json)
 
+[Extended Data](ext_articles/178defff.ext.json)
+
 ---
 
 ### Austerity, dispossession and injustice: Facets of the debt crisis in Sri Lanka
@@ -225,6 +259,8 @@ With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibi
 ...
 
 [Data](articles/8c5e31bd.json)
+
+[Extended Data](ext_articles/8c5e31bd.ext.json)
 
 ---
 
@@ -522,21 +558,29 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 
 ---
 
-### ஐ.ம. சக்தியால் தேசிய மக்கள் சக்திக்கு கடிதம்
+### I.. Letter to the power of the national people by force
 
 *2024-04-25 00:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியால்-தேசிய-மக்கள்-சக்திக்கு-கடிதம்/175-336302) · `ta`
 
-தலைவர்கள், பொருளாதார குழுக்களுக்கு இடையிலான விவாதத்திற்கான திகதியை ஒதுக்குவதற்காக இன்று  அல்லது நாளை பாராளுமன்றத்திற்கு வருகை தருமாறு ஐக்கிய மக்கள் சக்தி, தேசிய மக்கள் சக்திக்கு அறிவித்துள்ளது.
+The United People's Power and the National People's Power plan to visit Parliament to schedule a debate between leaders and economic groups. Nalin Bandara, a member of the United People's Power, sent a letter to Nalinda Jayatissa, a member of the National People's Power, proposing a debate between Opposition Leader Sajith Premadasa, National People's Power Leader Anura Kumara Dissanayake, and the economic groups of two parties. The letter suggests holding a debate between the economic groups first, followed by the leaders, aiming for a May event.
 
-ஐக்கிய மக்கள் சக்தியின் நிறைவேற்றுக்குழு உறுப்பினரான நலீன் பண்டார, தேசிய மக்கள் சக்தியின் நிறைவேற்றுக்குழு உறுப்பினர் நலிந்த ஜயதிஸ்ஸவிற்கு கடிதமொன்றை அனுப்பி இதனை தெரிவித்துள்ளார்.
+🟩
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச  மற்றும் தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்க ஆகியோருக்கு இடையிலும் 2 கட்சிகளின் பொருளாதார குழுக்களுக்கு இடையிலும் இடம்பெறவுள்ள விவாதத்திற்கான திகதியை ஒதுக்குவதற்காக இன்று  அல்லது நாளை பாராளுமன்றத்திற்கு வருகை தருமாறு அந்த கடிதத்தில் தெரிவிக்கப்பட்டுள்ளது.
+The United People's Power and the National People's Power have announced that they will visit Parliament today or tomorrow to allocate the date for the debate between leaders and economic groups.
 
-கடந்த 9ஆம் திகதி தன்னால் அனுப்பப்பட்ட கடிதத்தில் முதலில் பொருளாதார குழுக்களுக்கு இடையிலும் அதன்பின்னரே தலைவர்களுக்கு இடையிலும் விவாதத்தை நடத்துவதற்கு யோசனை முன்வைக்கப்பட்டிருந்ததாக கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+Nalin Bandara, a member of the United People's Power Executive Committee, sent a letter to the National People's Power Executive Committee member Nalinda Jayatissa.
 
-...
+The letter has been asked to visit Parliament today or tomorrow to allocate the date of debate between Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake and the economic groups of 2 parties.
+
+The letter stated that the letter was first proposed to hold a debate between the economic groups and then the leaders.
+
+Therefore, the letter indicated that the debate could be held between the two sides regarding the upcoming debate in May.. (A)
+
+◼️
 
 [Data](articles/b763e0bc.json)
+
+[Extended Data](ext_articles/b763e0bc.ext.json)
 
 ---
 
@@ -833,6 +877,78 @@ Apply honey on the heat pimples directly and let it dry. Leave it on for at leas
 [Data](articles/c969f337.json)
 
 [Extended Data](ext_articles/c969f337.ext.json)
+
+---
+
+### AMDT School of Creativity receives prestigious Silver Award at Pearson UK Higher Education Awards
+
+*2024-04-24 22:47:00* · [`islandlk`](http://island.lk/amdt-school-of-creativity-receives-prestigious-silver-award-at-pearson-uk-higher-education-awards/) · `en`
+
+AMDT School of Creativity, one of Sri Lanka’s leading educational institutions for creative arts and design, was recently honoured with the “Silver Award for Top Performing Centre” at the prestigious Pearson UK Higher Education Awards held at The Kingsbury, Colombo. This recognition highlights AMDT’s unwavering commitment to excellence and its exemplary performance as a Pearson BTEC International Centre.
+
+...
+
+[Data](articles/4db4a191.json)
+
+---
+
+### lolc Finance expands to Karapitiya & relocates Kalawana
+
+*2024-04-24 22:45:00* · [`islandlk`](http://island.lk/lolc-finance-expands-to-karapitiya-relocates-kalawana/) · `en`
+
+LOLC Finance PLC, the leading Non-Banking Financial Institution (NBFI) in Sri Lanka, proudly announces the opening of a new branch in Karapitiya and a relocation in Kalawana, further solidifying its presence and commitment to serving customers across the nation. The Karapitiya branch, located at No.566 C, Hirimbura Rd, Karapitiya, Galle, and the Kalawana branch, now situated at 100/A, Mathugama Road, Kalawana, exemplify LOLC Finance’s dedication to delivering accessible financial solutions to urban, suburban, and rural communities alike.
+
+...
+
+[Data](articles/e1633d6f.json)
+
+---
+
+### ComBank crowned ‘Best Bank in Sri Lanka’ by Global Finance for 22nd year
+
+*2024-04-24 22:41:00* · [`islandlk`](http://island.lk/combank-crowned-best-bank-in-sri-lanka-by-global-finance-for-22nd-year/) · `en`
+
+The Commercial Bank of Ceylon has been named the ‘Best Bank in Sri Lanka’ for a remarkable 22nd year in the ‘World’s Best Banks 2024’ list released recently by the US-based Global Finance magazine.
+
+Global Finance said its Best Bank Awards recognise financial institutions that offer the broadest range of services, long-term reliability, and technological innovation.
+
+“The winners of this year’s awards are those banks that attended carefully to their customers’ needs in difficult markets and accomplished strong results while laying the foundations for future success,” the magazine said. “Winning organizations managed their assets and liabilities in a savvy way in light of the fast-changing interest rate scenarios.”
+
+...
+
+[Data](articles/aea4791a.json)
+
+---
+
+### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
+
+*2024-04-24 22:40:00* · [`islandlk`](http://island.lk/cinnamon-lakeside-colombo-welcomes-nazoomi-azhar-as-its-new-general-manager/) · `en`
+
+Cinnamon Lakeside Colombo welcomes a new era of leadership with the appointment of Nazoomi Azhar as its new General Manager. With over 25 years of experience managing renowned hotels in the United Kingdom, Azhar brings a wealth of expertise to strengthen the hotel’s legacy with a fresh perspective and commitment to excellence.
+
+Azhar’s extensive industry tenure includes notable roles such as General Manager for Grange Hotels and Director of Operations for a UK-based boutique hotel group, where he spearheaded the establishment of the Hospitality Division. His proficiency in strategic planning, team development, and guest satisfaction aligns with Cinnamon Lakeside Colombo’s commitment to delivering excellent and memorable experiences.
+
+...
+
+[Data](articles/df579056.json)
+
+---
+
+### India is no ‘big brother’ to Sri Lanka, H.C. Santosh Jha says in myth-busting speech
+
+*2024-04-24 22:39:00* · [`islandlk`](http://island.lk/india-is-no-big-brother-to-sri-lanka-h-c-santosh-jha-says-in-myth-busting-speech/) · `en`
+
+India is referred to as a ‘big brother’ state for the South Asian region as it is the largest and most powerful country in South Asia.
+
+However, the Indian High Commissioner to Sri Lanka Santosh Jha delivering a speech in Colombo on April 21, busted this myth adequately.
+
+Speaking at the official launch of the “Ramayana Trail – The Sacred Mission” Project organised by the Supreme Global Holdings Group at Hotel Taj Samudra, Colombo, the Indian High Commissioner said that ‘Ramayana Trail’ reaffirms his oft-repeated assertion that the two countries are civilisational twins sharing the same antiquity.
+
+“From this it follows that we are not after all big or small sisters or brothers but one of the same age and antiquity with neither being small or big vis-a-vis each other,” he said, addressing the audience that comprised a delegation from India led by Swami Govind Dev Giriji.
+
+...
+
+[Data](articles/5b3b61e6.json)
 
 ---
 
@@ -1714,6 +1830,8 @@ Consequent to the project, around 6,000 hectares of agricultural land in three s
 
 [Data](articles/5e2db065.json)
 
+[Extended Data](ext_articles/5e2db065.ext.json)
+
 ---
 
 ### The whole discourse of the Easter Sunday attack is degenerating into a sordid freakshow where the state, and not the Islamists who blew up the innocents, stand accused.
@@ -2027,147 +2145,5 @@ The ASPI was up mostly due to interest in LOLC group companies; Browns Investmen
 [Data](articles/5a82e56a.json)
 
 [Extended Data](ext_articles/5a82e56a.ext.json)
-
----
-
-### All unions must unite and ignore the plantation management - Vadivel Suresh
-
-*2024-04-24 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/181864) · `ta`
-
-Vadivel Suresh urges unions to unite against plantation management, criticizing the Plantation Employers Federation for ignoring salary negotiations. He mentions the Sri Lanka National Plantation Workers Union's next steps post-discussion.
-
-🟩
-
-Plantation Employers Federation has re -ignored negotiations on workers' salary increase. All unions must unite and ignore the estate management. Vadivel Suresh, a Member of Parliament and Senior Advisor of the President, said that the next step of the Sri Lanka National Plantation Workers Union will be announced after a discussion.
-
-The Plantation Workers' Salary Council met today (24).It was also attended by members of the National Estate Workers Union of Sri Lanka.But today, plantation companies have ignored the meeting of the Salary Standing Council.Once again, plantation companies have ignored the plantation workers and the salary council.
-
-Speaking to the media, Vadivel Suresh, a Member of Parliament and Senior Advisor to the President, said this.
-
-...
-
-[Data](articles/5826422f.json)
-
-[Extended Data](ext_articles/5826422f.ext.json)
-
----
-
-### Fox Hill Super Cross drivers granted bail
-
-*2024-04-24 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fox-Hill-Super-Cross-drivers-granted-bail/108-281294) · `en`
-
-Colombo, April 24 (Daily Mirror) - The Bandarawela Magistrate's Court today granted bail to the two drivers involved in the fatal crash during the Fox Hill Super Cross 2024 at Diyatalawa.
-
-The Magistrate ordered their release on surety bail of Rs. 100,000 each. The drivers had been arrested while receiving treatment in the hospital on April 22 and were remanded by the Bandarawela Magistrate on the same day.
-
-The tragic incident on Sunday (April 21) claimed the lives of seven people, including an 8-year-old girl, and left more than 23 injured when a car veered off the track during a race and collided with spectators. Among the deceased were four event officials acting as flag marshals, with the others identified as spectators.
-
-The crash occurred shortly after another car overturned on the track, leading to another car veering off and hitting spectators along the unguarded trackside.
-
-...
-
-[Data](articles/48247209.json)
-
-[Extended Data](ext_articles/48247209.ext.json)
-
----
-
-### Applications for Degree Degree from Gorakhpur University
-
-*2024-04-24 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/181858) · `ta`
-
-Gorakhpur University, India's first in Uttar Pradesh, invites international students for degree courses. Founded in 1957, it's among India's top 100 universities. Applications close on May 7, 2024. More: https://dduguadmission.in/intcell/.
-
-🟩
-
-The University of Gorakhpur University of India's Deena Dayal Upadhyay has requested applications from international students who wish to continue their degree courses.
-
-Dinah Dayal Upadhyayi Gorakhpur University was the first university founded in Uttar Pradesh in 1957 after independence. The Arts Association is listed as one of the 100 universities in India.
-
-More information on this issue can be viewed on the website https://dduguadmission.in/intcell/. The final date for making records is on 07 May 2024.
-
-◼️
-
-[Data](articles/cef1fbec.json)
-
-[Extended Data](ext_articles/cef1fbec.ext.json)
-
----
-
-### The Iranian Home Minister who was to visit Sri Lanka with the President of Iran should arrest the Interior Minister - Argentina's request - what is the background?
-
-*2024-04-24 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/181867) · `ta`
-
-ARGENDina asked Sri Lanka to arrest Iran's Home Minister Ahmed Wahdi, accused of a 1994 Argentina bombing. He planned to visit Sri Lanka after Pakistan, but Iran's media reported his return to Iran. Sri Lanka's Foreign Ministry denied his involvement in the Iranian group in Sri Lanka.
-
-🟩
-
-ARGENDina has appealed to Sri Lanka to arrest the Iranian Home Minister who was to visit Sri Lanka with the Iranian president in 1994 in Argentina, but the minister did not visit Sri Lanka.
-
-In 1994, 85 people were killed in a vehicle suicide bombing carried out on a Jewish community station in the capital city of Argentina.
-
-Iran's current Home Minister Ahmed Wahdi has been accused of the attack.
-
-The minister was planning to visit Sri Lanka after he went to Pakistan with the President of Iran
-
-Aryanadina also appealed to Sri Lanka and Pakistan to arrest the Interior Minister of Iran.
-
-However, Iran's state media reported that he had gone to Iran on Tuesday.
-
-Meanwhile, a spokesman for the Sri Lankan Foreign Ministry has told AVP that Ahmed Wahdi has not been involved in the Iranian group that arrived in Sri Lanka.
-
-◼️
-
-[Data](articles/6f0423d7.json)
-
-[Extended Data](ext_articles/6f0423d7.ext.json)
-
----
-
-### 9 malaria patients identified in Sri Lanka
-
-*2024-04-24 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181857) · `ta`
-
-In 2023, Sri Lanka reported 9 malaria cases, primarily among visitors from African countries, despite the disease's last reported case in 2012.
-
-🟩
-
-Social medical expert Pubudu Sulasiri, a social doctor of the malaria control unit, said that 9 malaria patients have been complied with the period from this year.
-
-At a media briefing held today (24), he said that a large number of malaria patients were identified from those who visited African countries.
-
-He said that although Malaria was finally reported in 2012, 62 malaria patients were reported in 2023.
-
-He also said that the majority of the patients went to trade and traded the gem stones.
-
-◼️
-
-[Data](articles/0a3b0cc6.json)
-
-[Extended Data](ext_articles/0a3b0cc6.ext.json)
-
----
-
-### The ban on the sacking of Mahinda, Lasantha and Duminda has been extended!
-
-*2024-04-24 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/181862) · `ta`
-
-The ban on the removal of Mahinda Amaraweera, Lasantha Alagavanna, and Duminda Dissanayake from the SLFP has been extended by Colombo District Judge Chandun Vidhana, pending objections.
-
-🟩
-
-Colombo District Judge Chandun Vidhana has ordered the ban on the removal of ministers Mahinda Amaraweera, Lasantha Alagavanna and Parliamentarian Duminda Dissanayake from the posts of the Sri Lanka Freedom Party (SLFP).
-
-The Colombo District Judge issued the order when the complaints lodged against the Executive Council, including former President Maithripala Sirisena, were taken up for hearing to remove them from the posts of the Sri Lanka Freedom Party.
-
-Although the case was invited to submit the objections, the lawyers appearing on behalf of the defendant demanded that the court be given the date of filing objections.
-
-Accordingly, the district judge, who gave the defendant until May 8 to file objections, ordered the case to be called again.
-
-◼️
-
-[Data](articles/30e5f822.json)
-
-[Extended Data](ext_articles/30e5f822.ext.json)
 
 ---

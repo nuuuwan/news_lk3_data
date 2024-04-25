@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 01:34:17**
+As of **2024-04-26 01:51:24**
 
 ## Newspaper Stats
 
-*Scraped **21,016** Articles*
+*Scraped **21,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,132
 dailyftlk | 1,187
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,426
+tamilmirrorlk | 2,427
 adaderanalk | 2,500
 virakesarilk | 3,169
 dailymirrorlk | 3,273
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,008 (100.0%) of 21,016 articles have been extended.
+21,016 (100.0%) of 21,017 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The $ 3 million initiative will bolster food and nutritional security and fortif
 ...
 
 [Data](articles/872effa1.json)
+
+[Extended Data](ext_articles/872effa1.ext.json)
 
 ---
 
@@ -66,39 +68,77 @@ The technical sessions will consist of several key addresses and discussions aro
 
 [Data](articles/a1801b99.json)
 
+[Extended Data](ext_articles/a1801b99.ext.json)
+
 ---
 
-### உலக பொருளாதாரப்பேரவையின் விசேட கூட்டத்தில் வெளிவிவகார அமைச்சர் அலி சப்ரி பங்கேற்பு
+### External Affairs Minister Ali Sabri participate in a special meeting of the World Economic Forum
 
 *2024-04-26 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181982) · `ta`
 
-உலக பொருளாதாரப்பேரவையின் உலகளாவிய ஒத்துழைப்பு, வளர்ச்சி மற்றும் அபிவிருத்திக்கான வலுத்திறன் தொடர்பான விசேட கூட்டத்தில் பங்கேற்பதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி சவுதி அரேபியாவுக்குப் பயணமாகவுள்ளார்.
+External Affairs Minister Ali Sabri will attend a special World Economic Forum meeting in Riyadh, Saudi Arabia, focusing on global economic cooperation and development. The meeting will discuss complex issues and feature topics like 'Urban Future Building' and 'Repeating Faith from the North - West to West'.
 
-உலக பொருளாதாரப்பேரவையின் ஏற்பாட்டில் சவுதி அரேபியாவின் ரியாத் நகரில் எதிர்வரும் 28 - 29 ஆம் திகதிகளில் நடைபெறவுள்ள இவ்விசேட கூட்டமானது உலகளாவிய ரீதியில் பல்துறைசார் பிரதிநிதிகளையும், தொழிற்துறை தலைவர்களையும் ஒன்றிணைக்கும் எனவும், உடனடியாகத் தீர்வு காணப்படவேண்டிய சிக்கலான பிரச்சினைகள் தொடர்பில் விரிவான கலந்துரையாடலை முன்னெடுப்பதற்கு வாய்ப்பளிக்கும் எனவும் எதிர்பார்க்கப்படுவதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளார்.
+🟩
 
-இவ்விசேட கூட்டத்தில் 'நகர்ப்புற எதிர்காலத்தைக் கட்டியெழுப்புதல்' மற்றும் 'வடக்கிலிருந்து தெற்கு - கிழக்கிலிருந்து மேற்கு: நம்பிக்கையை மீளக்கட்டியெழுப்புதல்' ஆகிய தலைப்புக்களில் நடைபெறவுள்ள இரு அமர்வுகளில் அமைச்சர் அலி சப்ரி பங்கேற்கவுள்ளார்.
+External Affairs Minister Ali Sabri will visit Saudi Arabia to attend a special meeting on the global economic cooperation, development and development of the World Economic Forum.
 
-...
+The External Affairs Ministry said that the meeting, which will be held in Riyadh, Saudi Arabia in the World Economic Forum on the 28th and 29th of this month, will unite globally multi -faceted representatives and industrial leaders and will be expected to take a comprehensive discussion on complex issues that need to be addressed immediately.
+
+Minister Ali Sabri will attend the two sessions on the topics of 'Urban Future Building' and 'Repeating Faith from the North - West to West:
+
+Meanwhile, Minister Ali Sabri is expected to hold bilateral meetings with the top representatives of Saudi Arabia and other countries during the issue.. It is also noteworthy that he will also meet Sri Lankans living in Riyadh.
+
+◼️
 
 [Data](articles/e602a794.json)
 
+[Extended Data](ext_articles/e602a794.ext.json)
+
 ---
 
-### 2024 ஆம் ஆண்டின் முதல் காலாண்டில் அரச வருமான இலக்குக்கு அப்பால் சென்று  6% வளர்ச்சியை எட்ட முடிந்துள்ளது - நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய
+### In the first quarter of 2024, the government has grown beyond the goal of the state income target - Finance Minister Ranjith Siyambalapitiya
 
 *2024-04-26 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181981) · `ta`
 
-இந்த வருடத்தின் முதல் காலாண்டில், அரச வருமானம் 834 பில்லியன் ரூபாவாக உயர்வடைந்திருப்பதாகவும், இது எதிர்பார்க்கப்பட்ட அரச வருமானத்திற்கு மேலதிகமான  6% வளர்ச்சியாகும் எனவும் அரச பெருந்தோட்ட தொழில்முயற்சிகள் மறுசீரமைப்பு அமைச்சரும் நிதி இராஜாங்க அமைச்சருமான ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+In Q1 2024, Sri Lanka's state income exceeded targets, reaching Rs 834 billion, a 6% increase. Finance Minister Ranjith Siyambalapitiya expressed optimism for 2024, despite challenges in managing liquidity and a 35% increase in quarterly costs. Welfare spending grew by 25% from 2020 to 2024, with significant contributions from the Internal Revenue Department, Sri Lanka Customs, and the Department of Madhuri.
 
-நாட்டின் முறையான நிதி முகாமைத்துவம் மற்றும் வருமான முறைமையைக் பார்க்கும் போது, 2024 ஆம் ஆண்டு வருமான இலக்குகளை எட்டக்கூடிய ஆண்டாக அமையும் எனவும் இராஜாங்க அமைச்சர் நம்பிக்கைத் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (25) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் கலந்துகொண்டிருந்த போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+In the first quarter of this year, the state income has increased to Rs 834 billion and this will increase 6% of the expected state income, said Ranjith Siyambalapitiya, Minister of State Plantation Entrepreneurship Reorganization and Finance Minister.
 
-இந்த ஆண்டு பணப்புழக்கத்தை முகாமைத்துவம் செய்வதில் திறைசேரி கடும் சவாலை எதிர்கொள்கிறது.  தற்போதைய சட்டத்தின்படி கடன் பெறவும், பணத்தை அச்சிடவும் முடியாமலிருப்பதே அதற்கு காரணமாகும். நலன்புரி மற்றும் மீள்கட்டமைப்புச் செயற்பாடுகள் அதிகமாக காணப்பட்டாலும், நாட்டில் சரியான முறையில் நிதி நிர்வாகம் செய்யப்படுகிறது.
+The Minister of State has expressed confidence that 2024 will be a year of income targets when looking at the country's proper financial management and income system.
+
+He said this while attending a press conference held at the Presidential Media Center on Thursday (25).
+
+Treasury is facing a serious challenge in managing the liquidity this year.The reason is that the current law is unable to get loans and print money. Although welfare and reconstruction activities are high, the country is properly financially management.
 
 ...
 
 [Data](articles/9b770aa2.json)
+
+[Extended Data](ext_articles/9b770aa2.ext.json)
+
+---
+
+### நீதிபதி  இளஞ்செழியன் சாட்சி
+
+*2024-04-26 01:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதி-இளஞ்செழியன்-சாட்சி/175-336355) · `ta`
+
+நல்லூர் ஆலய சூழல், துப்பாக்கி சூடு நடாத்தி விளையாடும் திடல் இல்லை என வவுனியா மேல் நீதிமன்ற நீதிபதி மா. இளஞ்செழியன் தனது சாட்சியில் தெரிவித்தார்.
+
+நீதிபதி இளஞ்செழியன் மீது கடந்த 2017ஆம் ஆண்டு ஜூலை மாதம் 22ஆம் திகதி ஆலய தெற்கு வாசல் கோபுரத்திற்கு அருகில் மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டு சம்பவம் தொடர்பிலான வழக்கு விசாரணைகள் யாழ்.மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் நடைபெற்று வருகிறது.
+
+நீதிபதி இளஞ்செழியன்    புதன்கிழமை (24) நீதி மன்றில் தோன்றி, தனது சாட்சியங்களை பதிவு செய்தார்.
+
+சம்பவ தினத்தன்று மேல் நீதிமன்றில் இருந்து எனது காரில்  யாழ். - கண்டி வீதி வழியாக சென்று , கோவில் வீதி வழியாக எனது உத்தியோகபூர்வ இல்லத்தை நோக்கி பயணித்தேன்.
+
+காரினை எனது சாரதி ஓட்டினார். அவருக்கு அருகில் எனது ஒரு மெய்ப்பாதுகாவலர் அமர்ந்திருந்தார். நான் காரின் பின் இருக்கையில் அமர்ந்து இருந்தேன்.
+
+எனது கார் சாரதியின் மோட்டார் சைக்கிளை எனது மற்றுமொரு மெய்ப்பாதுகாவலர் செலுத்தி வந்தார்.
+
+...
+
+[Data](articles/7213d9c3.json)
 
 ---
 
@@ -118,6 +158,8 @@ Speaking in Parliament, Siyam-balapitiya addressed concerns raised by MP Lakshma
 
 [Data](articles/79152258.json)
 
+[Extended Data](ext_articles/79152258.ext.json)
+
 ---
 
 ### Govt. to introduce relief program for senior citizens affected by withholding tax
@@ -136,6 +178,8 @@ He outlined a practical program tailored to the Government’s cash flow capabil
 
 [Data](articles/f20fa434.json)
 
+[Extended Data](ext_articles/f20fa434.ext.json)
+
 ---
 
 ### Dialog Axiata recognised as the most significant FDI contributor by BOI
@@ -149,6 +193,8 @@ This prestigious accolade, presented during the BOI’s 45th anniversary celebra
 ...
 
 [Data](articles/66b8a3b6.json)
+
+[Extended Data](ext_articles/66b8a3b6.ext.json)
 
 ---
 
@@ -165,6 +211,8 @@ A key aspect of the proposed legislation is the establishment of the National El
 ...
 
 [Data](articles/7cda38a9.json)
+
+[Extended Data](ext_articles/7cda38a9.ext.json)
 
 ---
 
@@ -2171,21 +2219,5 @@ Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandan
 [Data](articles/2997ae45.json)
 
 [Extended Data](ext_articles/2997ae45.ext.json)
-
----
-
-### Upul Shantha Sannasgala granted bail
-
-*2024-04-25 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98836/upul-shantha-sannasgala-granted-bail) · `en`
-
-UPDATE: Upul Shantha Sannasgala, who was arrested earlier on Thursday has been released on bail, on the orders of Welisara Magistrate’s Court.
-
-Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
-
-◼️
-
-[Data](articles/d242f60b.json)
-
-[Extended Data](ext_articles/d242f60b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 00:49:27**
+As of **2024-04-26 01:03:45**
 
 ## Newspaper Stats
 
-*Scraped **21,003** Articles*
+*Scraped **21,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
-dailyftlk | 1,179
+dailyftlk | 1,181
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,997 (100.0%) of 21,003 articles have been extended.
+21,002 (100.0%) of 21,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Overseas Realty kicks off FY24 with Rs. 1.83 b pre-tax profit
+
+*2024-04-26 00:51:16* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-kicks-off-FY24-with-Rs-1-83-b-pre-tax-profit/34-761039) · `en`
+
+Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 1,681 million and a Group Profit Before Tax of Rs. 1,825 million for the 1st quarter ending 31 March 2024. The appreciation of the LKR resulted in a net exchange gain of Rs. 1,313 million on foreign currency loans.
+
+The Company Revenue of Rs. 652 million at the World Trade Center, Colombo, was 9% higher than the corresponding quarter of last year, due mainly to higher occupancy and rental rates.  Revenue of Rs. 338 million was recorded from Residential Sales of Havelock City which was higher than the corresponding period in 2023.
+
+Although apartment sales were low due to depressed economic conditions and higher prices, the gradual reduction in interest rates is generating higher sales inquiries. A limited number of move-in ready luxury apartments are available for purchase in the fourth and final phase of Havelock City Residential.
+
+...
+
+[Data](articles/cc881e75.json)
+
+---
 
 ### Elephant House Sausages takes legendary Sri Lankan taste to Australia
 
@@ -45,6 +61,8 @@ This partnership is a first for both Elephant House, the iconic Sri Lankan house
 ...
 
 [Data](articles/ee5145b3.json)
+
+[Extended Data](ext_articles/ee5145b3.ext.json)
 
 ---
 
@@ -80,6 +98,8 @@ With Phase I of the project nearly sold out, the company is now launching Phase 
 
 [Data](articles/edc75602.json)
 
+[Extended Data](ext_articles/edc75602.ext.json)
+
 ---
 
 ### CEAT’s 7th premium ‘SIS’ outlet in Sri Lanka opens in Kurunegala
@@ -95,6 +115,8 @@ Part of a three-year distribution channel expansion strategy by Sri Lanka’s mo
 ...
 
 [Data](articles/fed193b8.json)
+
+[Extended Data](ext_articles/fed193b8.ext.json)
 
 ---
 
@@ -113,6 +135,8 @@ This article draws on R&D performance that is measured through KPIs and how thos
 ...
 
 [Data](articles/68d531cc.json)
+
+[Extended Data](ext_articles/68d531cc.ext.json)
 
 ---
 
@@ -160,6 +184,8 @@ I was socialised in my childhood, by an ardent Samasamajist, LSSP, father, in Mo
 
 [Data](articles/936a48b8.json)
 
+[Extended Data](ext_articles/936a48b8.ext.json)
+
 ---
 
 ### Cardinal Ranjith the new political messiah
@@ -171,6 +197,18 @@ With about six months to go for a Presidential election, Cardinal Ranjith who wa
 ...
 
 [Data](articles/1d074e47.json)
+
+---
+
+### Palitha of Pasdun Korale was a “Hitha Honda Chandiya”
+
+*2024-04-25 23:21:37* · [`dailyftlk`](https://www.ft.lk/columns/Palitha-of-Pasdun-Korale-was-a-Hitha-Honda-Chandiya/4-761030) · `en`
+
+Palitha Thewarapperuma was an unconventional politician. He was a man of action without any intellectual pretensions. He had a fierce temper and was provoked easily. He was also fearless. At the same time, he possessed a tendency to bully or intimidate people. He justified his conduct with the excuse that he was acting in the interests of the people. This was accepted by many people who felt his heart was in the right place in spite of his unbecoming conduct at times. Besides he was generally on the side of the under-privileged and vulnerable sections of society. His dedicated service to these people was genuine
+
+...
+
+[Data](articles/3008fe64.json)
 
 ---
 
@@ -2197,47 +2235,5 @@ He was arrested by the police regarding the investigations carried out regarding
 [Data](articles/ea389bb2.json)
 
 [Extended Data](ext_articles/ea389bb2.ext.json)
-
----
-
-### Japan grants US$3mn for inland cage aquaculture, hatcheries in Sri Lanka
-
-*2024-04-25 13:37:00* · [`economynextcom`](https://economynext.com/japan-grants-us3mn-for-inland-cage-aquaculture-hatcheries-in-sri-lanka-160037/) · `en`
-
-ECONOMYNEXT – Japan has given a 3 million dollar grant through the Food and Agriculture Organization of the United Nations (FAO), to boost inland fisheries and aquaculture in Sri Lanka as the country recovers from a currency crisis.
-
-The funds will establish four community-operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts.
-
-The money will also upgrade four NAQDA Aquaculture Development Centres and one community-operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
-
-“Recent financial challenges have left the fisheries sector deprived of necessary resources, exacerbating hardships among inland fishing communities and rural populations. This project is a pivotal step towards revitalizing the sector,” Douglas Devananda, Minister of Fisheries said.
-
-...
-
-[Data](articles/8e8e0f87.json)
-
-[Extended Data](ext_articles/8e8e0f87.ext.json)
-
----
-
-### Three months on connector
-
-*2024-04-25 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195959) · `si`
-
-Three months on connector: Trincomalee District member Mr. Connector granted leave. Proposal by Lakshman Kiriella and Charles Nirmalanathan. Mr. R-Sampanthan, 91, ill.
-
-🟩
-
-Member of Trincomalee District. The proposal to the parliament was passed today (25) to grant the leave to Mr. Connector.
-
-The Chief Opposition Whip Lakshman Kiriella presented the proposal to parliament and Mr. Charles Nirmalanathan made the proposal.
-
-Mr. R-Sampanthan is 91 and is now ill.
-
-◼️
-
-[Data](articles/6ca270c9.json)
-
-[Extended Data](ext_articles/6ca270c9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 16:18:33**
+As of **2024-04-25 16:34:59**
 
 ## Newspaper Stats
 
-*Scraped **20,923** Articles*
+*Scraped **20,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,747
+adalk | 1,748
 tamilmirrorlk | 2,421
 adaderanalk | 2,492
 virakesarilk | 3,149
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,921 (100.0%) of 20,923 articles have been extended.
+20,923 (100.0%) of 20,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Accordingly, in addition to the position of Director General (Planning) of the M
 
 [Data](articles/99a6352b.json)
 
+[Extended Data](ext_articles/99a6352b.ext.json)
+
 ---
 
 ### More than 100 inmates escape after rain damages Nigerian prison
@@ -68,23 +70,31 @@ The statement gave no details on the identities or affiliation of the escaped pr
 
 ---
 
-### මාස 4ට විදේශ රැකියා සම්බන්ධ පැමිණිලි 1371ක්
+### 1371 foreign employment complaints at 4 months
 
 *2024-04-25 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195964) · `si`
 
-2024 වසරේ ගතවූ කාලය මාස 4 ක කාලය තුළ විදේශ රැකියා සම්බන්ධ පැමිණිලි 1371ක් විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශය වෙත ලැබී තිබේ.
+The Special Investigation Division of the Foreign Employment Division received 1371 complaints in the last 4 months, focusing on recruitment without valid employment units. Investigations led to the recovery of Rs. 53,509,520.00 and the prosecution of over 680 fraudsters. Eight institutions were arrested for illegal employment practices. The Bureau has decentralized its duties and expanded its reach, with a 24-hour hotline for complaints.
 
-කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකිරීම, වලංගු රැකියා ඇණවුමක් නොමැතිව විදේශ රැකියා ලබාදීම සඳහා මුදල් අයකිරීම, සංචාරක වීසා මගින් තැනැත්තන් විදේශ රැකියා සඳහා යොමුකිරීම ආදී පැමිණිලි කාර්යාංශය වෙත ලැබී ඇත.
+🟩
 
-මෙසේ කාර්යාංශය වෙත ලද පැමිණිලි අතුරින් පැමිණිලි 495ක් සඳහා විසඳුම් මෙම කාලසීමාව තුළදී ලබාදී ඇති අතර, පැමිණිලිකරුවන්ට රු. 53,509,520.00ක මුදලක් යළි අයකරදීමටද විමර්ශන නිලධාරීන් සමත්වී තිබේ.
+The Special Investigation Division of Foreign Employment Division has received 1371 foreign employment complaints over the past 4 months.
 
-තවත් පැමිණිලි 680කට අධික ප්‍රමාණයක් සඳහා වංචාකරුවන්ට එරෙහිව අධිකරණයේ නඩු පැවරීමටද කාර්යාංශය පියවර ගෙන තිබේ.
+Recruitment to Foreign Employment for Foreign Employment without a valid unit of foreign employment has been received by the complaint bureau of the tourist visas for foreign employment.
 
-මෙම කාලය තුළ විදේශ රැකියා වංචාවන් සම්බන්ධයෙන් සැකකරුවන් 28 දෙනෙකු අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කර ඇති අතර, කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය හා වලංගු රැකියා ඇණවුමක් ලබානොගෙන විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකළ ආයතන 8ක් ද කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් වැටලීම් කර තිබුණි.
+495 complaints have been issued during this period of Rs.. Investigations have also recovered 53,509,520.00.
+
+The Bureau has also taken steps to prosecute the court against fraudsters for more than 680 complaints.
+
+The Bureau Special Investigation Division had arrested eight institutions and eight institutions that have been carried out without a valid job order without a valid job order without a valid unemployment and not a valid job order in this period.
+
+Sri Lankans have a trend these days and that there is a tendency to employ foreign employment and that foreign employment frauds have increased.
 
 ...
 
 [Data](articles/9532efd6.json)
+
+[Extended Data](ext_articles/9532efd6.ext.json)
 
 ---
 
@@ -905,6 +915,24 @@ The state minister of finance responded that the government would have to fund s
 [Data](articles/2c6f5061.json)
 
 [Extended Data](ext_articles/2c6f5061.ext.json)
+
+---
+
+### පොහොර සහනාධාරය ගැන කෘෂි ඇමති නිහඬයි
+
+*2024-04-25 12:38:31* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-ගැන-කෘෂි-ඇමති-නිහඬයි/11-409257) · `si`
+
+මෙවර යල කන්නයේ වී වගාව සදහා ලබා දෙන පොහොර සහනාධාරය සම්බන්ධයෙන් කිසිදු වැඩ පිළිවෙළක් පිළිබඳව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා විසින් ගොවී ජනතාවට ප්‍රකාශ කර නොමැති බව සමස්ත ලංකා ගොවිජන සම්මේලනය පවසයි.
+
+පසුගිය මාස් කන්නයට අදාළව ලබා දීමට පොරොන්දු වූ අක්කරයකට රුපියල් 6000ක් බැගින් පොහොර සහනාධාරය සඳහා මුදල සමස්ථ ගොවි ජනතාවටම ලබා දීමට කෘෂිකර්ම අමාත්‍යවරයාට හැකිවී නොමැති බව සමස්ත ලංකා ගොවිජන සම්මේලනයේ උප සභාපති සුසන්ත  කුමාර නවරත්න මහතා පැවසීය.
+
+උප සභාපතිවරයා  මේ බව කියා සිටියේ අනුරාධපුරේදී ⁣ මාධ්‍යය වෙත අදහස් දක්වමින්ය.
+
+රනිල් වික්‍රමසිංහ මහතා විසින් ' උරුමය ' නමින් ගොවි ජනතාවට ඉඩම් ඔප්පු ලබා දීමේ වැඩ සටහනක් සිදු කරමින් රටේ ජාතික සම්පත් ඇති ඉඩම් කුණු කොල්ලයට වෙන්දේසි කරමින් පවතින බවත් මෙරට ගොවි ජනතාව ශක්තිමත් කිරීම වෙනුවට රටට අවශ්‍ය ආහාර වර්ග ආනයනය කරමින් විදේශීය ගොවියා ශක්තිමත් කිරීමට වත්මන් රජය කටයුතු කර ඇති බවත් සුසන්ත කුමාර නවරත්න මහතා මෙහිදී වැඩි දුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/fecc9260.json)
 
 ---
 
@@ -2285,23 +2313,5 @@ The Department of Meteorology has kindly requested the public to take necessary 
 [Data](articles/ba2c2909.json)
 
 [Extended Data](ext_articles/ba2c2909.ext.json)
-
----
-
-### Imposing costs on business; disregarding ability to enforce
-
-*2024-04-25 05:42:11* · [`dailyftlk`](https://www.ft.lk/columns/Imposing-costs-on-business-disregarding-ability-to-enforce/4-761009) · `en`
-
-If this bill is not amended at the committee stage, it will impose significant costs of compliance on small businesses who are already under stress from the crisis
-
-The Gender Equality Bill has been gazetted. It requires every public institution and private institution to appoint a senior official to be responsible for gender mainstreaming and gender equality (“Gender Focal Point”). That person is legally required to prepare a plan of activities targeting their areas of responsibility and report directly to the Council on a quarterly basis with a copy to Women Parliamentarians Caucus in Parliament (section 17).
-
-If this bill is not amended at the committee stage, it will impose significant costs of compliance on small businesses who are already under stress from the crisis. It will also impose costs on State entities and large corporations, but the focus here is on small business which are least capable of meeting unfunded mandates.
-
-...
-
-[Data](articles/fe45d89d.json)
-
-[Extended Data](ext_articles/fe45d89d.ext.json)
 
 ---

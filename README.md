@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 09:18:29**
+As of **2024-04-25 09:34:05**
 
 ## Newspaper Stats
 
-*Scraped **20,829** Articles*
+*Scraped **20,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,732
+adalk | 1,733
 tamilmirrorlk | 2,408
 adaderanalk | 2,476
 virakesarilk | 3,136
-dailymirrorlk | 3,247
-adaderanasinhalalk | 3,362
+dailymirrorlk | 3,248
+adaderanasinhalalk | 3,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,828 (100.0%) of 20,829 articles have been extended.
+20,829 (100.0%) of 20,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### කිරිපිටි මිල ගැන අලුත් කතාවක්
+
+*2024-04-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195948) · `si`
+
+ආනයනික කිරිපිටි මිල යළිත් අඩු කිරීම සම්බන්ධයෙන් සංගමයක් ලෙස මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව කිරිපිටි ආනයනකරුවන්ගේ සංසදය පවසයි.
+
+එහි මාධ්‍ය ප්‍රකාශක අශෝක බණ්ඩාර මහතා සඳහන් කළේ, කිරිපිටි මිල සංශෝධනය කිරීම සම්බන්ධයෙන් නිල මට්ටමෙන් කිසිදු සාකච්ඡාවක් පවත්වා නොමැති බවය.
+
+පසුගිය මාසයේදී ආනයනික කිරිපිටි ග්‍රෑම් 400 රුපියල් 60කින් සහ කිලෝග්‍රෑම් එක රුපියල් 150කින් අඩු කිරීමට කිරිපිටි ආනයනකරුවන් පියවර ගනු ලැබීය.
+
+ඒ අනුව මේ වන විට වෙළෙඳපොළේ විවිධ මිල ගණන් යටතේ කිරිපිටි අලෙවි වන අතර තවදුරටත් කිරිපිටි මිල අඩු කිරීම පිළිබඳ මෙතෙක් කිසිදු තීරණයක් ගෙන නොමැති බව අශෝක බණ්ඩාර මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් නවසීලන්තයෙන් කිරිපිටි ආනයනය කරන ආයතනයක් විසින් අද දිනයේ සිට ක්‍රියාත්මක වන පරිදි යළිත් කිරිපිටි මිල අඩු කරන බවට ඊයේ (24) ප්‍රකාශයක් සිදුකරනු ලැබීය.
+
+ඒ අනුව කිලෝග්‍රෑම් එකක ආනයනික කිරිපිටි පැකැට්ටුවක් රුපියල් 250ත් 350ත් අතර මිලකින් සහ ග්‍රෑම් 400යේ කිරිපිටි පැකට්ටුවක් රුපියල් 100ත් 140ත් අතර මිලකින් අඩු කිරීමට නියමිත බව වාර්තා වුණි.
+
+...
+
+[Data](articles/375e2ed7.json)
+
+---
+
+### End the plastic era
+
+*2024-04-25 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/End-the-plastic-era/110-281332) · `en`
+
+Civil Society Organizations demands an ambitious Global Plastic Treaty, at Ottawa, Canada. Ahead of the Plastics Treaty negotiations in Ottawa, Canada this week, activists walked in the streets to demand a just Treaty for people and planet free from corporate influence.
+
+◼️
+
+[Data](articles/f49a7a12.json)
+
+---
 
 ### Sri Lanka, Russia explore avenues for enhanced defence cooperation
 
@@ -51,6 +85,8 @@ This prestigious event serves as a platform for global leaders to discuss and ad
 ...
 
 [Data](articles/39bc74b3.json)
+
+[Extended Data](ext_articles/39bc74b3.ext.json)
 
 ---
 
@@ -1858,6 +1894,22 @@ This scanner has been in use since last Sunday and now patients can benefit from
 
 ---
 
+### ආනයනික කිරිපිටි මිල පහළට
+
+*2024-04-24 19:31:29* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-කිරිපිටි-මිල-පහළට/11-409248) · `si`
+
+අද (25දා) සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි මිල පහළ දමන බව කිරිපිටි ආනයනකරුවන්ගේ සංගමය පැවසීය.
+
+ඒ අනුව ආනයනික කිරිපිටි කිලෝග්‍රෑම් එකක මිල රුපියල් 250-300ත් අතර මිලකින් පහළ දමනු ලැබේ.
+
+එමෙන්ම කිරිපිටි ග්‍රෑම් 400ක මිල රුපියල් 100-130ත් අතර මිලකින් පහළ දමනු ඇති බවද එම සංගමය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a2f269f9.json)
+
+---
+
 ### A reduction in the price of milkma
 
 *2024-04-24 19:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மாவின்-விலை-குறைப்பு/175-336290) · `ta`
@@ -2121,81 +2173,5 @@ Uma Oya had to face a variety of challenges while implementing the Multipurpose 
 [Data](articles/10867119.json)
 
 [Extended Data](ext_articles/10867119.ext.json)
-
----
-
-### Save the devil riding in a church to death of water
-
-*2024-04-24 18:15:48* · [`adalk`](https://www.ada.lk/breaking_news/යක්ෂා-රූඩයෙන්-බේර-ගන්න-පල්ලියකදී-ජලය-පෙවු-දෙදරු-මරණයට/11-409245) · `si`
-
-A 58-year-old woman from Madurankuliya, suffering from mental health issues, died after being taken to a church for treatment. Her family believes she was poisoned with water.
-
-🟩
-
-Madurankuliya police say that afternoon of a patient, a 58-year-old two-old two-year-old injuries have been identified as a woman who has been cured in the Madurankuliya Mukkotagodu area.
-
-The deceased has been identified as a mother of two who was residing in Wilpotha, Mundalama.
-
-Inquiry into the same daughter as a matter of mental inconveniences, the woman is told to enter into the body while serving in a Middle East.That is said.
-
-Although her mother tried to show her her mother to a medical medical, the woman continued to replicate it.
-
-Later, relatives have been taken to the place where the baby is being treated at the Madurankuliya Mokkotugoda, who is being treated at the Madurankuliya Mokkotugoda.The relatives say they were taken to this woman after the Kiwadan again to drink a few days.
-
-The woman has been taken to recovering measures in the area.
-
-...
-
-[Data](articles/dd52ec12.json)
-
-[Extended Data](ext_articles/dd52ec12.ext.json)
-
----
-
-### Suddenly meeting between President and Basil
-
-*2024-04-24 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195936) · `si`
-
-President Ranil Wickremesinghe met with Basil Rajapaksa to discuss presidential elections, constituency, and local government representatives' roles. Basil criticized CHOGM's decision.
-
-🟩
-
-A special meeting was held between President Ranil Wickremesinghe and the founder of the Sri Lanka General Man.
-
-He further stated that the discussion was held yesterday (23).
-
-It has been discussed with the presidential election and the two parties have agreed that the party has agreed to proceed with the purposes of constituencing the presence of the presidential candidacy.
-
-It is also discussed that the former local government representatives are also discussing the opportunity to attend the general purposes of the government.
-
-Meanwhile, sources say that the decision of the Minister Wijayadasa Rajapaksa has also discussed the decision.
-
-Minister Basil Rajapaksa has informed the President that the common decision of the CHOGM is the common decision on the wrong precedent.
-
-◼️
-
-[Data](articles/8473fc31.json)
-
-[Extended Data](ext_articles/8473fc31.ext.json)
-
----
-
-### Iranian President Ebrahim Raisi calls on President Ranil
-
-*2024-04-24 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98820/iranian-president-ebrahim-raisi-calls-on-president-ranil) · `en`
-
-UPDATED: Iranian President Dr. Ebrahim Raisi has called on President Ranil Wickremesinghe at the Presidential Secretariat in Colombo, a short while ago.
-
-The President of the Islamic Republic of Iran was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry.
-
-Iranian President, Dr. Ebrahim Raisi, and President Ranil Wickremesinghe held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat, the President’s Media Division said.
-
-Dr. Ebrahim Raisi, arrived in Sri Lanka this morning (24), in response to a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-...
-
-[Data](articles/b818d191.json)
-
-[Extended Data](ext_articles/b818d191.ext.json)
 
 ---

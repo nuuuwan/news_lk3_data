@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 14:04:18**
+As of **2024-04-25 13:53:16**
 
 ## Newspaper Stats
 
-*Scraped **20,894** Articles*
+*Scraped **20,884** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 220
+bbccomsinhala | 219
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,741
+adalk | 1,739
 tamilmirrorlk | 2,416
 adaderanalk | 2,485
-virakesarilk | 3,149
+virakesarilk | 3,142
 dailymirrorlk | 3,252
 adaderanasinhalalk | 3,374
 
@@ -26,23 +26,11 @@ adaderanasinhalalk | 3,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,877 (99.9%) of 20,894 articles have been extended.
+20,877 (100.0%) of 20,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-04-25 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181936) · `ta`
-
-இன்று வியாழக்கிழமை (ஏப்ரல் 25) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 292.7078 ஆகவும் விற்பனை விலை ரூபா 302.5848 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/3cfacdfd.json)
-
----
 
 ### සම්බන්ධන් ට මාස තුනක නිවාඩුවක්
 
@@ -182,24 +170,6 @@ This is the specialty of 100 feet high in the sky, connecting two main pillars, 
 
 ---
 
-### ஈரான் அரசாங்கம் வழங்கிய உதவிகளுக்கு ஜனாதிபதி நன்றி தெரிவிப்பு
-
-*2024-04-25 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181932) · `ta`
-
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தைத் திறந்து வைக்கும் நிகழ்வில் பங்கேற்பதற்காக இலங்கை வருகை தந்த ஈரான் ஜனாதிபதி கலாநிதி இப்ராஹிம் ரைசி மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆகியோருக்கு இடையிலான உத்தியோகபூர்வ சந்திப்பு நேற்று புதன்கிழமை (24) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
-
-ஜனாதிபதி அலுவலகத்திற்கு வருகை தந்த ஈரான் ஜனாதிபதி உள்ளிட்ட தூதுக்குழுவினரை ஜனாதிபதி ரணில் விக்ரமசிங்க மிகவும் சிநேகபூர்வமாக வரவேற்றார்.
-
-இருநாட்டு ஜனாதிபதிகளும் இரு நாடுகளின் தூதுக்குழுவை அறிமுகப்படுத்திய பின்னர், ஜனாதிபதி ரணில் விக்ரமசிங்க, ஈரான் ஜனாதிபதி தலைமையிலான குழுவினரை ஜனாதிபதி அலுவலகத்திற்கு அழைத்துச் சென்றார்.
-
-தனது விஜயத்தைக் குறிக்கும் வகையில், ஜனாதிபதி ரைசி, ஜனாதிபதி அலுவலகத்தின் சிறப்பு விருந்தினர் புத்தகத்தில் நினைவுக் குறிப்பையும் பதிந்தார்.
-
-...
-
-[Data](articles/83d8946a.json)
-
----
-
 ### Indian Ocean region to benefit from Iran-Sri Lanka cooperation: Raisi
 
 *2024-04-25 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98834/indian-ocean-region-to-benefit-from-iran-sri-lanka-cooperation-raisi) · `en`
@@ -219,28 +189,6 @@ He stated Iran had progressed in various fields of technology over the past year
 [Data](articles/f0178659.json)
 
 [Extended Data](ext_articles/f0178659.ext.json)
-
----
-
-### சிங்கப்பூரில் வீட்டுப்பணிப்பெண்ணாக பணிபுரிந்துகொண்டே சட்டபட்டப்படிப்பை பூர்த்தி செய்த இலங்கை பெண்- இலக்கு  ஒன்றிலேயே உறுதியாகயிருந்து தனது  கனவை நிஜமாக்கினார்
-
-*2024-04-25 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181930) · `ta`
-
-ஜெயந்தி கமகே தனது வேலையில் ஈடுபட்டுக்கொண்டிருந்த வேளை அவரது மின்னஞ்சலிற்கு  லண்டன் பல்கலைகழகத்திலிருந்து ஒரு செய்தி வந்தது அதில் பாஸ் என்ற சொற்கள் காணப்பட்டன.
-
-43 வயது இலங்கை பெண்ணிண் பயணத்தை நீண்டகால பயணம் என மாத்திரம் குறிப்பிடுவது அவரது பயணத்தை மலினப்படுத்திவிடும்.அந்த பயணம் இரண்டு நாடுகள் பல கிலோமீற்றர்கள் நீடித்தது.
-
-இலங்கையில் கணக்காய்வு உதவியாளராக பணிபுரிந்தவேளை கிடைத்த சம்பளத்தை விட சிங்கப்பூரில் இரண்டு மடங்கு அதிகமான வருமானம் கிடைப்பதாக கமகே எங்களிடம் தெரிவித்தார்.
-
-தனது சட்டபடிப்பை ஆரம்பித்து மூன்று வருடங்களின் பின்னர் தனது கல்விக்கான பணத்திற்காக அவர் இலங்கையிலிருந்து வெளியேறினார்.
-
-தனது குழந்தை பருவகனவை நினைவாக்கவேண்டும் என்பதில் மிகவும் உறுதியாக இருந்ததால் அவள் வெளிநாட்டிற்கு செல்வதால் ஏற்படக்கூடிய எந்த நெருக்கடியையும் எதிர்கொள்ள தயாராகயிருந்தால்.
-
-இது மிகவும் நீண்டபயணம் மிகவும் கடினமான வேலை என தற்போது சுத்திகரிப்பு பணியில் ஈடுபட்டுள்ள நிறுவனத்தின் மேற்பார்வையாளராக உள்ள கமகே தெரிவித்தார்.
-
-...
-
-[Data](articles/b1461844.json)
 
 ---
 
@@ -350,22 +298,6 @@ Furthermore, Premajayantha mentioned that measures are underway for the recruitm
 
 ---
 
-### එලවලු මිල තව තවත් පහලට
-
-*2024-04-25 12:44:01* · [`adalk`](https://www.ada.lk/breaking_news/එලවලු-මිල-තව-තවත්-පහලට/11-409258) · `si`
-
-මේ දිනවල එලවලු මිල පහළ යැම නිසා මාතලේ ප්‍රදේශයේ එලවලු වගා කරක ගොවින් දැඩි අපහසුතාවයට පත්ව සිටින බව ගොවිහු කියයි.
-
-මාතලේ යටවත්ත,උකුවෙල දඹූල්ල ගලේවෙල පල්ලේපොල නාඋල ආදි ප්‍රදේශවල එලවලු වගා කරන ගොවින් මෙසේ අපහසුතාවයට පත්ව සිටියි.
-
-විශේෂයෙන් මාතලේ ප්‍රදේශයේ ගොවීන් විසින් තක්කාලි ඇතුලු අනෙකුත් බෝගයන් වැඩි වශයෙන් වගා කරන අතර එහි මිල පහල යාම නිසා තමන් විසින් වගා කිරිම සදහා යෙදවු වියදමවත් ලබා ගැනිමට නොහැකි තත්වයක් පත්ව ඇති බවය.
-
-◼️
-
-[Data](articles/7df3ae6c.json)
-
----
-
 ### Sri Lanka will need Rs 40 Bn to increase senior citizens’ interest rate to 15 pct
 
 *2024-04-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs-40-bn-to-increase-senior-citizens-interest-rate-to-15-pct-160026/) · `en`
@@ -383,18 +315,6 @@ The state minister of finance responded that the government would have to fund s
 ...
 
 [Data](articles/2c6f5061.json)
-
----
-
-### மின்சார சபை சட்டமூலம் சபைக்கு சமர்ப்பிப்பு
-
-*2024-04-25 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181927) · `ta`
-
-உத்தேச மின்சார சபை சட்டமூலத்தை மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர சபைக்கு சமர்ப்பித்தார்.
-
-...
-
-[Data](articles/b2e62c6b.json)
 
 ---
 
@@ -439,56 +359,6 @@ The circumstances which led him to jump into the precipice are yet to be establi
 [Data](articles/d188d255.json)
 
 [Extended Data](ext_articles/d188d255.ext.json)
-
----
-
-### ரயிலில் படிக்கட்டுகளில் தொங்கிய படி செல்வதற்கு அனுமதி இல்லை ; ரயில் திணைக்களம்
-
-*2024-04-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181923) · `ta`
-
-ரயிலில் படிக்கட்டுகளில் தொங்கிய படி செல்வது தடை செய்யப்பட்டுள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
-
-உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் குறிப்பாக மலையகத்திற்கும் செல்லும் ரயில்களில் படிக்கட்டுகளில் தொங்கிய படி பயணிப்பதால் பல விபத்து சம்பவங்கள் பதிவாகியுள்ளன.
-
-இப்பிரச்சினைக்கு தீர்வு காண, பயணிகள் ரயில்களில் படிக்கட்டுகளில் தொங்கிய படி  பயணிப்பதை தடுக்க நடவடிக்கை எடுக்குமாறு ரயில் காவலர்கள் மற்றும் இதர அதிகாரிகளுக்கு அறிவுறுத்தப்பட்டுள்ளது.
-
-எவ்வாறாயினும் நடவடிக்கை எடுக்கப்பட்டாலும், மலையக  ரயில் மார்க்கத்தில் கடுகதி ரயில்களில் படிக்கட்டுகளில் தொங்கிய படி  பயணிக்கும் வெளிநாட்டு சுற்றுலாப் பயணிகளால் விபத்துக்கள் ஏற்படுவது கவலை அளிக்கிறது.
-
-...
-
-[Data](articles/fdc8bca0.json)
-
----
-
-### சம்பந்தனுக்கு சம்பளத்துடன்  கூடிய மூன்று மாத கால விடுமுறை!
-
-*2024-04-25 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181926) · `ta`
-
-திருகோணமலை மாவட்ட  நாடாளுமன்ற உறுப்பினர்  ஆர். சம்பந்தனுக்கு சம்பளத்துடன் கூடிய மூன்று மாத கால விடுமுறை வழங்க நாடாளுமன்றம் இன்று (25) அனுமதி வழங்கியது.
-
-எதிர்க்கட்சியின் பிரதான அமைப்பாளர்  லக்ஷ்மன் கிரியெல்ல இந்த யோசனையை நாடாளுமன்றத்தில் முன்வைத்தார்.தமிழ்த் தேசியக் கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன் இந்த தீர்மானத்தை ஆதரித்தார்.
-
-◼️
-
-[Data](articles/2fd50b5e.json)
-
----
-
-### அமெரிக்க பல்கலைகழகங்களில் பாலஸ்தீன சார்பு போராட்டங்கள் தீவிரம் - 100க்கும் அதிகமான மாணவர்கள் கைது
-
-*2024-04-25 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181925) · `ta`
-
-அமெரிக்க பல்கலைகழகங்களில் இஸ்ரேலிற்கு எதிரான ஆர்ப்பாட்டங்களில் ஈடுபட்ட மாணவகளிற்கு எதிராக கடும் நடவடிக்கைகளை எடுத்துள்ள பொலிஸார் 100க்கும் மேற்பட்ட மாணவர்களை கைதுசெய்துள்ளனர்.
-
-அவுஸ்டினின் டெக்ஸாஸ் பல்கலைகழகத்தில்  ஆர்ப்பாட்டத்தில் ஈடுபட்ட மாணவர்கள் ஊடகவியலாளர்கள் உட்பட 34 பேரை பொலிஸார் கைதுசெய்துள்ளனர்.
-
-இஸ்ரேலுடன் தொடர்புகளை கொண்டுள்ள ஆயுதவியாபாரிகளுடனான  தொடர்பை துண்டிக்கவேண்டும் என கோரி நியுயோர்க்கின் கொலம்பியா பல்கலைகழக மாணவர்கள் பல்கலைகழகத்தை சூழ கூடாரங்களை அமைத்து போராட்டங்களை ஆரம்பித்ததை தொடர்ந்து அமெரிக்காவின் பல பல்கலைகழங்களில் இவ்வாறான ஆர்ப்பாட்டங்கள் இடம்பெறுகின்றன.
-
-கலிபோரினா அரச பொலிடெக்னிக் பல்கலைகழகத்தில் தளபாடங்கள் கூடாரங்கள் போன்றவற்றை பயன்படுத்திக்கொண்டு மாணவர்கள் பல்கலைகழகத்திற்குள் முற்றுகை போராட்டத்தை மேற்கொண்டதால்  பல்கலைகழகம் மூடப்பட்டது.
-
-...
-
-[Data](articles/d71d0bde.json)
 
 ---
 
@@ -755,24 +625,6 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 [Data](articles/45940318.json)
 
 [Extended Data](ext_articles/45940318.ext.json)
-
----
-
-### පාතාලය මඩින්න විශේෂ කාර්ය බළකායෙන් විශේෂ යතුරුපැදි බළකායක්
-
-*2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/picture_story/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/10-409253) · `si`
-
-සංවිධානාත්මක අපරාධ කල්ලි සහ පාතාලය මර්ධනය කිරීමේ අරමුණින්  විශේෂ කාර්ය බළකායේ විශේෂ පුහුණුවක් ලද පළමු පොලිස් සංග්‍රාමික ක්ෂණික විහිදුම් යතුරුපැදි  කණ්ඩායම  විසිරයාමේ පෙලපාලිය අද (25 ) කළුතර , කටුකුරුන්ද පිහිටි විශේෂ කාර්ය බළකා පුහුණු පාසලේදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගේ ප්‍රධානත්වයෙන් සිදු කරන ලදී.
-
-එම පුහුණුව හදාරන ලද විශේෂ යතුරුපැදිකරුවන් 100 කු මෙහිදී විසිර යනු ලැබූ අතර , ඔවුන්  වෙත සහතිකපත් සහ විශේෂ ලාංඡනයක් මෙහිදී හිමිගන්වනු ලැබීය .
-
-මෙම යතුරුපැදිකරුවන් කොළඹ අපරාධ කොට්ඨාශයට අනුයුක්ත කර බස්නාහිර සහ දකුණ පළාත් යටතේ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ රාජකාරී යෙදවීමට නියමිතව ඇත.
-
-පොලිස්පති දේශබන්දු තෙන්නකෝන්, විශේෂ කාර්ය බළකා අණදෙන නිළධාරී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  නීතිඥ  වරුණ ජයසුන්දර, බස්නාහිර පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති මහින්ද ගුණරත්න , පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දුව, කටුකුරුන්ද විශේෂ කාර්ය බළකා අණදෙන නිළධාරී  සහකාර  පොලිස් අධිකාරි එන්සී ගජවීර ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීන් රැසක්ද මෙම අවස්ථාවට එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/83945a9c.json)
 
 ---
 
@@ -1443,26 +1295,6 @@ The SLPP and the UNP led by the President decided to have May Day rallies separa
 [Data](articles/a5ad6bf8.json)
 
 [Extended Data](ext_articles/a5ad6bf8.ext.json)
-
----
-
-### රිලවියන්ට 'ලූප්' දමා රිලා ගහනය පාලනයට නව උත්සාහයක්
-
-*2024-04-25 07:45:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c043pv305l3o) · `si`
-
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, උපත් පාලනය සඳහා කාන්තාවන් භාවිත් කරන 'ලූප්' අවශ්‍ය ලෙස වෙනස්කම් කර රිලවියන්ට දැමීම සිදු කෙරේ.
-
-වගා කටයුතුවලට මෙන්ම ජන ජීවිතයට ගැටලුවක් වී ඇති රිලවුන්ගේ ගහනය පාලනය සඳහා ගැහැණු සතුන්ට 'ලූප්' දැමීමේ පර්යේෂණයක් පේරාදෙණිය විශ්වවිද්‍යාලයේ  පශු වෛද්‍ය පීඨය ආරම්භ කර තිබේ.
-
-ඒ අනුව උපත් පාලනය සඳහා කාන්තාවන් භාවිත් කරන 'ලූප්' අවශ්‍ය ලෙස වෙනස්කම් කර රිලවියන්ට දැමීම සිදු කෙරේ.
-
-අඩු වියදම, ඒ අවස්තාවේ දී ම සතුන් පරිසරයට මුදා හැරීමට ඇති හැකියාව සහ දිවයිනේ ඕනෑම ප්‍රදේශයක පශු වෛද්‍යවරුන්ට එය කිරීමට ඇති හැකියාව සැලකිල්ලට ගැනීමේ දී රිලා ගහනය පාලනයට මෙය සාර්ථක විසඳුමක් වනු ඇතැයි මහාචාර්ය අශෝක දංගොල්ල පවසයි.
-
-'රිලා කරදරය' නිසා ජනතාවට වායු රයිෆල් බෙදා දීම සහ රිලවුන් වෙනත් ප්‍රදේශවලට රැගෙන යෑම පසුගිය කාලයේ සිදු විය. එමෙන්ම රිලවුන් ලක්ෂයක් චීනයට ලබා දීමට කෘෂිකර්ම අමාත්‍යංශය ගත් උත්සාහයක් අභියාචනාධිකරණය විසින් වලක්වාලන ලදී.
-
-◼️
-
-[Data](articles/c5bb4aa2.json)
 
 ---
 
@@ -2155,5 +1987,265 @@ The Uma Oya project was named by two turbines in the project and she was involve
 [Data](articles/b0cd3998.json)
 
 [Extended Data](ext_articles/b0cd3998.ext.json)
+
+---
+
+### No footboard riding allowed, no liability for accidents: Railways Department
+
+*2024-04-25 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-footboard-riding-allowed-no-liability-for-accidents-Railways-Department/108-281301) · `en`
+
+Colombo, April 25 (Daily Mirror) - In light of the numerous complaints received, the Railways department has stated that riding on the footboards of express trains is strictly prohibited. They have made it clear that they will not assume responsibility for any accidents involving both locals and foreign tourists.
+
+A senior official from the department noted that several incidents have been reported where both locals and foreign tourists were observed riding on footboards, particularly on upcountry trains.
+
+To address this issue, railway guards and other officials onboard trains have been instructed to take measures to prevent individuals from riding on footboards.
+
+Despite these efforts, commuters traveling on the upcountry mainline have voiced their concerns regarding accidents involving foreign tourists riding on footboards of express trains.
+
+...
+
+[Data](articles/133f4e0f.json)
+
+[Extended Data](ext_articles/133f4e0f.ext.json)
+
+---
+
+### Telhi won Gujarat by 4 runs
+
+*2024-04-25 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181894) · `ta`
+
+Telhi Capitles won Gujarat Titans by 4 runs in the 40th IPL match, thanks to a last-over stand of 37 runs. Rashid Khan's 2 wickets in the last over were crucial. Telhi scored 224/4, with Akshar Patel and Rishabh Bant sharing a 113-run partnership. Gujarat lost 220 runs for 8 wickets.
+
+🟩
+
+Telhi Capitles won the Gujarat Titans by 4 runs in the 40th match of the 17th Indian Peerimer League Chapter held at the Telhi Arun Jaitley Stadium on Wednesday (24).
+
+Telhi Capitles needed 37 runs in the last two overs to win the match by both teams.
+
+Tellhi Capitols lost a wicket of 18 runs in the 19th over.
+
+The last over was required to win a further 19 runs. Rashid Khan scored 2 pounds of the first two balls. Because of this, Gujarat was expected to win. ஆனால், முக்கேஷ் குமாரின் அடுத்த இரண்டு பந்துகளில் ரஷித் கானினால் ஓட்டம் பெற முடியாமல் போனது.
+
+Rashid Khan, who was the fifth ball, was unable to get 5 runs in the last ball.
+
+Telhi Capitles scored 224 runs for the loss of 4 wickets in 20 overs.
+
+Akshar Patel and team captain Rishabh Bant scored half -centuries and shared 113 oats off 68 balls in the 4th wicket.
+
+Subsequently, Rishabh Bond and Triston Stubs shared 67 runs off 18 balls in the 5th wicket.
+
+Rishabh Bond did not play 43 balls with 5 pounds and 8 sixes and Triston Stubs 26 runs.
+
+...
+
+[Data](articles/63a9d106.json)
+
+[Extended Data](ext_articles/63a9d106.ext.json)
+
+---
+
+### Friday to Sri Lanka's Nethmika
+
+*2024-04-25 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181893) · `ta`
+
+Nethmika Madusani, Sri Lanka's women's team leader, won silver in the 21st Asian Junior Athletics Championships in Dubai. Madhushani Herath also secured silver in the women's three-legged event.
+
+🟩
+
+Sri Lankan women's team leader Nethmika Madusani won the silver medal in the 21st Asian Junior Athletics Championships, which began on Wednesday (24) at the Dubai International Stadium in the United Kingdom.
+
+Madhushani Herath won the silver medal in the women's three -legged event which began at 9.00 pm at Sri Lanka at Dubai Stadium.
+
+இம்முறை ஆகிய கனிஷ்ட மெய்வலலுநர் போட்டியில் இலங்கைக்கு கிடைத்த முதுலாவது பதக்கம் இதுவாகும்.
+
+அவர் 13.01 மீட்டர் தூரம் பாய்ந்தே வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். This is a personal distance from his post.
+
+2014ஆம் ஆண்டு ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் விதுஷா லகஷானி முப்பாய்ச்சிலில் பதக்கம் வென்ற பின்னர் இலங்கைக்கு இதே நிகழ்ச்சியில் கிடைத்த 2ஆவது பதக்கம் இதுவாகும்.
+
+அத்துடன் ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டி வரலாற்றில் 1986இலிருந்து இலங்கைக்கு கிடைத்த 36ஆவது பதக்கம் இதுவாகும்.
+
+◼️
+
+[Data](articles/35ff7c21.json)
+
+[Extended Data](ext_articles/35ff7c21.ext.json)
+
+---
+
+### I.. Letter to the power of the national people by force
+
+*2024-04-25 00:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியால்-தேசிய-மக்கள்-சக்திக்கு-கடிதம்/175-336302) · `ta`
+
+The United People's Power and the National People's Power plan to visit Parliament to schedule a debate between leaders and economic groups. Nalin Bandara, a member of the United People's Power, sent a letter to Nalinda Jayatissa, a member of the National People's Power, proposing a debate between Opposition Leader Sajith Premadasa, National People's Power Leader Anura Kumara Dissanayake, and the economic groups of two parties. The letter suggests holding a debate between the economic groups first, followed by the leaders, aiming for a May event.
+
+🟩
+
+The United People's Power and the National People's Power have announced that they will visit Parliament today or tomorrow to allocate the date for the debate between leaders and economic groups.
+
+Nalin Bandara, a member of the United People's Power Executive Committee, sent a letter to the National People's Power Executive Committee member Nalinda Jayatissa.
+
+The letter has been asked to visit Parliament today or tomorrow to allocate the date of debate between Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake and the economic groups of 2 parties.
+
+The letter stated that the letter was first proposed to hold a debate between the economic groups and then the leaders.
+
+Therefore, the letter indicated that the debate could be held between the two sides regarding the upcoming debate in May.. (A)
+
+◼️
+
+[Data](articles/b763e0bc.json)
+
+[Extended Data](ext_articles/b763e0bc.ext.json)
+
+---
+
+### Tamilnadu Administrative Choosing case postponed
+
+*2024-04-25 00:29:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-நிர்வாகத்-தெரிவு-வழக்கு-ஒத்திவைப்பு/175-336301) · `ta`
+
+The Tamilnadu Administrative Choosing case, involving the Sri Lanka Tamil National Alliance (TNA) and 7 opponents, has been postponed to May 31st. The case, filed on Feb 15, was discussed for 3 hours. No party violation is mentioned; it's about added rules. The case's outcome is uncertain, with no change in the prosecutor's position.
+
+🟩
+
+President's Attorney KV Dawarasa said that the case of the Sri Lanka Tamil National Alliance (TNA) administration, which was taken up for hearing at the Trincomalee Magistrate's Court on Wednesday (24), has been postponed till May 31st.
+
+With 07 opponents, I appeared on behalf of MP S. Sreedharan, who was elected as the leader of the 2nd and 4th opponents.. The case was discussed and submitted for about three hours.
+
+The case was filed on February 15 and was taken up for hearing on the 29th. The case must be concluded for the welfare of the welfare. Nothing is said here that the party is violated. In particular, some rules have been added.
+
+Accordingly, if the case is filed, it can be won. But the time goes, so that the case has gone, and if success is considered a failure. We are ready to provide relief. There is no change in our position, the prosecutor must report it through his lawyer. I expressed my argument in court that the case should be withdrawn.
+
+◼️
+
+[Data](articles/80ad5596.json)
+
+[Extended Data](ext_articles/80ad5596.ext.json)
+
+---
+
+### We will inquire ourselves
+
+*2024-04-25 00:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-மாட்டோம்-நாமே-விசாரிப்போம்/175-336300) · `ta`
+
+Opposition leader Sajith Premadasa announced a Special Investigation Commission to probe the suicide bombing of Lifeblood Sunday, promising transparent investigation with international judges and specialists.
+
+🟩
+
+We will no longer request this government to conduct a proper investigation into the suicide bombing of the lifeblood Sunday.. Opposition leader Sajith Premadasa said that we will carry out investigations through the Special Investigation Commission in our government.
+
+He said that all those involved in the attack will be preceded by the law and will take steps to provide them with a high penalty to be given to them.. .
+
+The Leader of the Opposition said this while addressing the debate on Wednesday (24) in Parliament regarding the survival Sunday attack.
+
+We have already announced that the United People's Power is carrying out during their tenure. That means we will set up a special inquiry commission. The Inquiry Commission will be set up for domestic and foreign judges and special investigators.
+
+...
+
+[Data](articles/9a7c65e8.json)
+
+[Extended Data](ext_articles/9a7c65e8.ext.json)
+
+---
+
+### The reason for the race accident
+
+*2024-04-25 00:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தய-விபத்துக்கு-கவனயீனமே-காரணம்/175-336299) · `ta`
+
+Naleen Bandara criticizes a car race in Diyathalawa that killed 7, blaming the accident on competitors' negligence, lack of safety measures, and insufficient security.
+
+🟩
+
+Opposition parliamentarian Naleen Bandara has urged the rivalry of the rivalry during the car race involving the death of seven people in Diyathalawa.
+
+Speaking on Wednesday (14) in Parliament
+
+A few days ago, 7 people were killed in a car race in Diyathalawa. When searching for this, it was revealed that the accident occurred due to the attention of the competitors.. The army must be 50 meters from the tile path and there should be visitors behind it.
+
+Frequent pouring water to reduce dust on the runway during the match. As well as must have made the necessary security arrangements in the curves. But the competition has taken place without doing anything.
+
+Thus the rival organizers must be declared to be punished for criminal offense. He said that those who participated in the race were arrested at the end of the competition.
+
+◼️
+
+[Data](articles/35d7fddc.json)
+
+[Extended Data](ext_articles/35d7fddc.ext.json)
+
+---
+
+### The model must work together
+
+*2024-04-25 00:09:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றிணைந்து-செயற்பட-வேண்டும்/175-336298) · `ta`
+
+Dr. Ibrahim Raisi, Iran's President, inaugurated the Uma Oya Multipurpose Development Project in Sri Lanka, highlighting Iran's technical support.
+
+🟩
+
+The Uma Oya Multipurpose Development Project, one of the massive irrigation projects built in Sri Lanka, was opened on Wednesday (24).
+
+Dr. Ibrahim Raisi, President of the Islamic Republic of Iran (Dr.. Opened under the leadership of Ebrahim Raisi and President Ranil Wickremesinghe.
+
+President of the Iranian Islamic Republic, Dr. Ibrahim Raisi, arrived at the Mattala airport on an official visit to the ceremony.. He was greeted by a delegation headed by Prime Minister Dinesh Gunawardena.
+
+Subsequently, Uma Oya attended the multi -purpose development project inauguration. He completed his visit and left through the Katunayake International Airport.
+
+This is one of the major irrigation projects built in Sri Lanka after the Uma Oya Multipurpose Development Mahaweli Development Program.
+
+President Ranil Wickremesinghe thanked the technical support of Iran for the success of the Uma Oya Multipurpose Development Program and said Sri Lanka could not carry water from Uma Oya without the help of Iran.
+
+...
+
+[Data](articles/c22dff3d.json)
+
+[Extended Data](ext_articles/c22dff3d.ext.json)
+
+---
+
+### What is the connection with the model Sula
+
+*2024-04-25 00:04:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூலாவுடன்-என்ன-தொடர்பு/175-336297) · `ta`
+
+The model Sula is connected to the terrorist Sahran through the Director of Army Intelligence Unit, Sula Kodithi. The Police Principal Patriot Thennakoon advised releasing a vehicle checked for ammunition in Kelaniya Kama, questioned by Kavinda Jayawardena. The government claims bombing investigations are complete but no one is sentenced. The US FBI is investigating.
+
+🟩
+
+What is the connection between the terrorist Sahran and the then Director of the Army Intelligence Unit Sula Kodithi?
+
+Why did the Police Principal Patriot Thennakoon advise the vehicle to be released when police seek to check the lorry containing ammunition in the Kelaniya Kama area?Kavinda Jayawardena, the United People's Power MP, questioned.
+
+Speaking at the first day's debate on the first day's debate on the Sunday bombing of the 2019 2019 Livelihood on Wednesday (24) in Parliament, he said.
+
+Revival. The government claims that investigations into the bombings have been completed. But no one has been sentenced.
+
+US FBI is investigating the bombing. The division has mentioned many issues.He asked.
+
+◼️
+
+[Data](articles/0f9440dc.json)
+
+[Extended Data](ext_articles/0f9440dc.ext.json)
+
+---
+
+### The story of Kota's story is lying
+
+*2024-04-25 00:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-கதை-பொய்/175-336296) · `ta`
+
+Gotabhaya Rajapakse claims in his book that he was chased by Tamil and Muslim people, contradicting historical accounts. He defends his actions during the 2019 bombings, arguing that his policies were not solely against minorities.
+
+🟩
+
+Former President Gotabhaya Rajapakse has stated in his book that he has chased himself Tamil and Muslim people.
+
+Speaking at the first day's debate on the first day of the House of Representatives on the Sunday bombing of the 2019, 2019, which will not be held in Parliament on Wednesday (24).
+
+In his book Gotabhaya Rajapakse, he noted that minorities, including Muslims and Tamil people, chased himself.. He wants to know history. From the time of the Sinhala kings, the Muslim people have not been treated to betray the kings. This is the intrigue of the minority people. These are a lie that Gotabhaya says to wash his sin.
+
+He came to power by spreading racism by exposing ideas against the minority people on the 2019 platform.. He eventually scored in the stomach of the Sinhalese people. This was followed by the struggle started. The people fought with fuel and gas problems. The minority people also attended. But he said he did not only chase the minority people.
+
+◼️
+
+[Data](articles/6f394bc7.json)
+
+[Extended Data](ext_articles/6f394bc7.ext.json)
 
 ---

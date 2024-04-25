@@ -1,50 +1,106 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 13:53:16**
+As of **2024-04-25 14:18:28**
 
 ## Newspaper Stats
 
-*Scraped **20,884** Articles*
+*Scraped **20,898** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 219
+bbccomsinhala | 220
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,130
+islandlk | 1,131
 dailyftlk | 1,172
 economynextcom | 1,187
-adalk | 1,739
+adalk | 1,742
 tamilmirrorlk | 2,416
 adaderanalk | 2,485
-virakesarilk | 3,142
-dailymirrorlk | 3,252
-adaderanasinhalalk | 3,374
+virakesarilk | 3,149
+dailymirrorlk | 3,253
+adaderanasinhalalk | 3,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,877 (100.0%) of 20,884 articles have been extended.
+20,894 (100.0%) of 20,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### සම්බන්ධන් ට මාස තුනක නිවාඩුවක්
+### Gota fires back at Cardinal, rebuts allegations
+
+*2024-04-25 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gota-fires-back-at-Cardinal-rebuts-allegations/108-281357) · `en`
+
+In a scathing rebuttal of allegations by Malcom Cardinal Ranjith regarding the Easter Sunday attacks, former President Gotabaya Rajapaksa said   Cardinal Ranjith either glosses over the responsibility of, or expressly absolves the two parties actually involved in the terrorist strikes.
+
+Cardinal Ranjith made the following allegations against former President Gotabaya Rajapaksa at a recent media conference:
+
+• That the day after the report of the Presidential Commission of Inquiry on the Easter Sunday attacks was handed over to me, I had spoken to the Cardinal over the phone and said that I had difficulties in implementing the recommendations in that report as it would entail the arrest of individuals and even the banning of organisations that were supportive of me.
+
+• That I had delayed giving the Cardinal a copy of the first volume of the Presidential Commission report and that I had not given him the remaining volumes.
+
+...
+
+[Data](articles/6567daf6.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-04-25 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/181936) · `ta`
+
+Today's currency exchange rate: US $292.7078, sales price 302.5848, based on Central Bank's rate on April 25.
+
+🟩
+
+The US $ 292.7078 and the sales price were 302.5848 based on the Central Bank's currency exchange rate on Thursday (April 25).
+
+◼️
+
+[Data](articles/3cfacdfd.json)
+
+[Extended Data](ext_articles/3cfacdfd.ext.json)
+
+---
+
+### සන්නස්ගල අත්අඩංගුවට
+
+*2024-04-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195960) · `si`
+
+හිටපු ජනප්‍රිය උපකාරක පන්ති ගුරුවරයෙකු වන උපුල් ශාන්ත සන්නස්ගල මහතා පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+රුපියල් ලක්ෂ 10ක මූල්‍ය වංචාවක් සම්බන්ධයෙන් සිදුකළ විමර්ශනවලට අදාළව ඒ මහතා මෙලෙස පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/ea389bb2.json)
+
+---
+
+### Three months on connector
 
 *2024-04-25 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195959) · `si`
 
-ත්‍රිකුණාමල දිස්ත්‍රික්කයේ  මන්ත්‍රී ආර්. සම්බන්ධන් මහතාට මාස තුනක කාලයක නිවාඩු ලබාදීමට පාර්ලිමේන්තුවට ගෙන ආ යෝජනාව අද (25) සම්මත විය.
+Three months on connector: Trincomalee District member Mr. Connector granted leave. Proposal by Lakshman Kiriella and Charles Nirmalanathan. Mr. R-Sampanthan, 91, ill.
 
-විපක්ෂයේ ප්‍රධාන සංවිධායක ලක්ෂ්මන් කිරිඇල්ල මහතා එම යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කළ අතර දෙමළ ජාතික සන්ධානයේ චාල්ස් නිර්මලනාදන් මහතා එම යෝජනාව ස්ථිර කළේය.
+🟩
 
-ආර් සම්බන්ධන් මහතා 91වන වියේ පසුවන අතර  මේ වනවිට අසනීප තත්ත්වයකින් පසුවෙයි.
+Member of Trincomalee District. The proposal to the parliament was passed today (25) to grant the leave to Mr. Connector.
+
+The Chief Opposition Whip Lakshman Kiriella presented the proposal to parliament and Mr. Charles Nirmalanathan made the proposal.
+
+Mr. R-Sampanthan is 91 and is now ill.
 
 ◼️
 
 [Data](articles/6ca270c9.json)
+
+[Extended Data](ext_articles/6ca270c9.ext.json)
 
 ---
 
@@ -64,25 +120,35 @@ General Secretary of the Ceylon Electrical Workers Union Ranjan Jayalal told rep
 
 [Data](articles/bf3802b3.json)
 
+[Extended Data](ext_articles/bf3802b3.ext.json)
+
 ---
 
-### හිටපු ජනපති ගෝඨාභයගෙන් කාදිනල් හිමිට පිළිතුරු
+### Responding to former President Gotabhaya
 
 *2024-04-25 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195958) · `si`
 
-පාස්කු ඉරිදා ප්‍රහාරයට වසර 5ක් පිරීම නිමිත්තෙන් පසුගිය දා පැවැත්වූ සැමරුමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් තමාට එල්ල කළ චෝදනා සම්බන්ධයෙන් හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා විසින් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Former President Gotabhaya Rajapakse responds to allegations by Cardinal Ranjith, addressing charges related to the Easter attack investigation. He denies involvement in the Presidential Commission's report and the appointment of a ministerial cabinet to investigate the attack. Rajapakse also refutes accusations of sabotaging the investigation and criticizes the handling of the case by law enforcement.
 
-කාදිනල් හිමිපාණන් විසින් එල්ල කරන ලද ප්‍රධාන චෝදනා 4ක් උපුටා දක්වමින් අදාළ නිවේදනය නිකුත් කර ඇත.
+🟩
 
-පාස්කු ඉරිදා මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයට වසර පහක් පිරීම නිමිත්තෙන් පැවති සැමරීමක දී අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් මට එරෙහිව පහත සඳහන් චෝදනා එල්ල කරන ලදී.
+Former President Gotabhaya Rajapakse has issued a special announcement for the allegations made by the Largest Malcolm Cardinal Ranjith in a celebration of the Easter attack on the loss of 5 years.
 
-•පාස්කු ඉරිදා ප්‍රහාරය පිළිබඳ ජනාධිපති විමර්ශන කොමිෂන් සභාවේ වාර්තාව මට ලැබුණු දිනට පසු දිනම මා කාදිනල් හිමිපාණන්ට දුරකථනයෙන් කතා කර එම වාර්තාවේ සඳහන් නිර්දේශ ක්‍රියාත්මක කිරීමට ගියහොත් මට සහාය වූ පුද්ගලයන් අත්අඩංගුවට ගැනීමටත්, ඔවුන්ගේ සංවිධාන තහනම් කිරීමට පවා සිදුවෙන බැවින්, එම නිර්දේශ ක්‍රියාත්මක කිරීමට අසීරු බව උන්වහන්සේ වෙත මා දන්වා සිටි බව.
+The relevant announcement has been issued quoted by citing 4 major charges launched by Cardinal.
 
-•මම ජනාධිපති කොමිෂන් සභා වාර්තාවේ පළමු වෙළුමේ පිටපතක් කාදිනල්තුමාට ලබා දීම ප්‍රමාද කළ බවත්, ඉතිරි වෙළුම් එතුමාට ලබා නොදුන් බව.
+The Five Years of Celebrations to mark the suicide bombing bombing of the Easter
+
+• When I received the report of the Presidential Investigation Commission on the Past Sunday, he telephoned the Cardinal Harbage and to enforce the recommendations in the report, so he would have to implement the recommendations.That I am informed to.
+
+Q: I delay a copy of the first volume of the Presidential Commission's Report and that the remaining volumes were delayed.
+
+• It has been a six ministerial cabinet subdivision to be selected only to look into the Passover committees and commissions.
 
 ...
 
 [Data](articles/7fe0d563.json)
+
+[Extended Data](ext_articles/7fe0d563.ext.json)
 
 ---
 
@@ -142,6 +208,8 @@ Responding to the first allegation, the former president said: “I categoricall
 
 [Data](articles/bb0aca05.json)
 
+[Extended Data](ext_articles/bb0aca05.ext.json)
+
 ---
 
 ### Don't go to a struggle again ... - President
@@ -170,6 +238,32 @@ This is the specialty of 100 feet high in the sky, connecting two main pillars, 
 
 ---
 
+### The President thanks for the assistance provided by the Iranian government
+
+*2024-04-25 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/181932) · `ta`
+
+President Ranil Wickremesinghe hosted Iranian President Ibrahim Raisi for a meeting at the Presidential Office, marking the start of diplomatic relations in 1962. They discussed strengthening bilateral relations, including economic and cultural cooperation, and signed several Memorandums of Understanding (MoUs) on various sectors.
+
+🟩
+
+The official meeting between Ibrahim Raisi and President Ranil Wickremesinghe, who visited Sri Lanka to attend the inauguration of the Uma Oya Multipurpose Development Project, was held at the Presidential Office on Wednesday afternoon.
+
+President Ranil Wickremesinghe welcomed the delegation, including the President of Iran, who visited the presidential office.
+
+President Ranil Wickremesinghe took the Iranian presidential delegation to the presidential office after the two presidents introduced the two countries' delegation.
+
+To mark his visit, President Raisi also commemorated a memorial in the Presidential Office's Special Guest Book.
+
+Proper diplomatic relations between Iran and Sri Lanka started in 1962. Relationships between the two countries were carried out before the establishment of formal diplomatic relations. During the previous Persian period, relationships between the two countries were mainly conducted via Homos Strait. Iran established its embassy in 1975 in Colombo.
+
+...
+
+[Data](articles/83d8946a.json)
+
+[Extended Data](ext_articles/83d8946a.ext.json)
+
+---
+
 ### Indian Ocean region to benefit from Iran-Sri Lanka cooperation: Raisi
 
 *2024-04-25 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98834/indian-ocean-region-to-benefit-from-iran-sri-lanka-cooperation-raisi) · `en`
@@ -192,6 +286,40 @@ He stated Iran had progressed in various fields of technology over the past year
 
 ---
 
+### A Sri Lankan woman who completed his legal order while working as a homework in Singapore, firmly made her dream and realized her dream
+
+*2024-04-25 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181930) · `ta`
+
+Jayanthi Kamage, a Sri Lankan woman, pursued her dream of studying in the UK, despite facing financial challenges and cultural adjustments. She left Sri Lanka for Singapore, where she worked to support her education, overcoming language barriers and personal struggles.
+
+🟩
+
+While Jayanthi Kamage was working in his work, his email came to a message from the University of London.
+
+The 43 -year -old Sri Lankan woman's journey as a long -term journey will defile her journey. The trip has lasted several kilometers.
+
+Kamage told us that when he was working as an audit assistant in Sri Lanka, Singapore has twice as much income than the salary.
+
+Three years after he began his law, he left Sri Lanka for money for his education.
+
+If she was very sure of her childhood, she was ready to face any crisis caused by her going abroad.
+
+Kamage, the supervisor of the company, who is currently working on the refinery, said this was a very long task.
+
+He said that I know that there is a way to be in the words of the words, but there is a way that my feelings are.
+
+Kamage had been blindfolded for several days-he had difficulty in learning.
+
+I did not buy a lipstick or cosmetics, he says.
+
+...
+
+[Data](articles/b1461844.json)
+
+[Extended Data](ext_articles/b1461844.ext.json)
+
+---
+
 ### Sri Lanka presidential debate: NPP fires back at SJB, asks for alternative dates
 
 *2024-04-25 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-debate-npp-fires-back-at-sjb-asks-for-alternative-dates-160030/) · `en`
@@ -205,6 +333,8 @@ The NPP’s Nalinda Jayatissa, who has been tasked with overseeing the organisat
 ...
 
 [Data](articles/f1799921.json)
+
+[Extended Data](ext_articles/f1799921.ext.json)
 
 ---
 
@@ -223,6 +353,8 @@ Over three days, from May 7-9, the Summit to be held at Shangri La Colombo, will
 ...
 
 [Data](articles/43bfcb12.json)
+
+[Extended Data](ext_articles/43bfcb12.ext.json)
 
 ---
 
@@ -298,6 +430,28 @@ Furthermore, Premajayantha mentioned that measures are underway for the recruitm
 
 ---
 
+### Outlook prices
+
+*2024-04-25 12:44:01* · [`adalk`](https://www.ada.lk/breaking_news/එලවලු-මිල-තව-තවත්-පහලට/11-409258) · `si`
+
+Farmers in Ukuwela, Dambulla Pallewela, and Matale report lower vegetable prices, especially tomatoes, making cultivation unaffordable.
+
+🟩
+
+Due to the farmer, farmers say that the vegetable prices are down these days.
+
+The farmers who grow vegetables in Ukuwela, Dambulla Pallewela in Ukuwatta, Matale.
+
+In particular, farmers in the Matale area are cultivated and other crops, including tomatoes, and the price they are not able to afford the cost of cultivation.
+
+◼️
+
+[Data](articles/7df3ae6c.json)
+
+[Extended Data](ext_articles/7df3ae6c.ext.json)
+
+---
+
 ### Sri Lanka will need Rs 40 Bn to increase senior citizens’ interest rate to 15 pct
 
 *2024-04-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-need-rs-40-bn-to-increase-senior-citizens-interest-rate-to-15-pct-160026/) · `en`
@@ -315,6 +469,28 @@ The state minister of finance responded that the government would have to fund s
 ...
 
 [Data](articles/2c6f5061.json)
+
+[Extended Data](ext_articles/2c6f5061.ext.json)
+
+---
+
+### Submission to the Board of Electricity
+
+*2024-04-25 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/181927) · `ta`
+
+The Minister of Electricity and Power, Kanjana Wijesekera, proposed a bill to reform the electricity industry, reorganize the National Electricity Board, and integrate the Ceylon Public Use of Electricity Business Commission under the Sri Lanka Public Utilities Commission Act. The bill aims to abolish the Ceylon Electricity Act No. 20 of 2009 and its related regulations.
+
+🟩
+
+The Minister of Electricity and Power and Energy, Kanjana Wijesekera presented the proposed Electricity Board Bill.
+
+In order to organize reforms for the electricity industry, to organize the National Electricity Board, and to organize the Ceylon Public Use of the Electricity Business Commission under the Sri Lanka Public Utilities Commission Act No. 35 of the Act, 2002, the Regulation of the Electricity Business Commission under the Sri Lanka Public Affairs Commission Act.In any combined metaphors, all the activities of the power, the power supply, the power supply, the power supply and the power supply, the 196 -year -old, and the relevant actions of the consolidation of the consolidated metaphor. And the law of the HouseThe purpose of the Bill is to abolish the Ceylon Electricity Act No. 20 of 2009, as well as all the interactions associated with them or their intermediate.
+
+◼️
+
+[Data](articles/b2e62c6b.json)
+
+[Extended Data](ext_articles/b2e62c6b.ext.json)
 
 ---
 
@@ -359,6 +535,80 @@ The circumstances which led him to jump into the precipice are yet to be establi
 [Data](articles/d188d255.json)
 
 [Extended Data](ext_articles/d188d255.ext.json)
+
+---
+
+### The train is not allowed to hang on the stairs;Railway department
+
+*2024-04-25 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181923) · `ta`
+
+The railway department has banned passengers from hanging on stairs, citing safety concerns and accidents involving tourists. Despite efforts to enforce this rule, it remains challenging, leading to complaints and negative social media posts. Accidents have occurred, including a foreign woman slipping and an Iranian tourist being severely injured. Passengers call for stricter enforcement by railway guards.
+
+🟩
+
+The train department said that it is banned from going to the stairs on the stairs.
+
+Many accidents have been reported as local and foreign tourists, especially the trains traveling to the hill country, are hanging on the stairs.
+
+Railway guards and other officials have been advised to take steps to prevent passengers from hanging on the stairs on the stairs to address the problem.
+
+Despite the action, it is worrying that accidents are caused by foreign tourists traveling in stairs on the railway trains.
+
+Although the train department officials have announced that they should not travel on the stairs on the stairs, it is difficult to prevent tourists from doing so. Most people complain to the train department that they are harassed by the authorities. He also said that they are posting bad comments on social media.
+
+...
+
+[Data](articles/fdc8bca0.json)
+
+[Extended Data](ext_articles/fdc8bca0.ext.json)
+
+---
+
+### Three -month holiday with Sampanthan's salary!
+
+*2024-04-25 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181926) · `ta`
+
+Parliament granted a three-month holiday with Sampanthan's salary, proposed by Lakshman Kiriella and supported by Tamil National Alliance MP Charles Nirmalanathan.
+
+🟩
+
+Trincomalee District Parliamentarian. Parliament today granted permission to grant a three -month holiday with Sampanthan.
+
+Opposition chief organizer Lakshman Kiriella presented this idea in Parliament. Tamil National Alliance MP Charles Nirmalanathan supported the resolution.
+
+◼️
+
+[Data](articles/2fd50b5e.json)
+
+[Extended Data](ext_articles/2fd50b5e.ext.json)
+
+---
+
+### Palestinian pro -Palestinian protests intensify in US universities - more than 100 students arrested
+
+*2024-04-25 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181925) · `ta`
+
+Protests against Israel at US universities intensify, with over 100 students arrested. Demonstrations began at Columbia University, New York, and spread to many universities, including Texas University and California State Politechnic University. Students demand disconnection of armed forces with Israel, leading to campus closures and arrests.
+
+🟩
+
+More than 100 students have been arrested by police who have taken stern action against students who have been protesting against Israel at US universities.
+
+Police have arrested 34 people, including journalists, who were protesting at Austin's Texas University.
+
+Such demonstrations are taking place in many universities in the United States following the launching of protests in New York's Columbia University, demanding the disconnection of the armed forces with Israel.
+
+The university was closed due to a siege within the university, using furniture tents at the Califorina State Politechnic University.
+
+Students from Hawart University, who are demanding that the university cut ties with Israel for the Gaza War and a student of a Palestinian -backed group, has set up tents inside the university campus.
+
+Thousands of students in many universities, from Massachoods to California, are engaged in protests around rallies and universities.
+
+◼️
+
+[Data](articles/d71d0bde.json)
+
+[Extended Data](ext_articles/d71d0bde.ext.json)
 
 ---
 
@@ -435,6 +685,26 @@ The president will contest the election on the symbol of the coalition that come
 [Data](articles/16b8296c.json)
 
 [Extended Data](ext_articles/16b8296c.ext.json)
+
+---
+
+### මේ අවුරුද්දේ ආණ්ඩුවේ වෙනසක් නෑ
+
+*2024-04-25 11:46:36* · [`adalk`](https://www.ada.lk/breaking_news/මේ-අවුරුද්දේ-ආණ්ඩුවේ-වෙනසක්-නෑ/11-409254) · `si`
+
+ඇතැම් රාජ්‍ය නිලධාරීන්ගේ වැරැදි තීන්දු තීරණ නිසා රජයටත් ජනතාවටත් විශාල පාඩු සිදු වෙන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+ඔහු අවධාරණය කරන්නේ නිලධාරින් සිදු කරන එවැනි වැරිදි නිසා අවසානයේ ජනතාවගෙන් චෝදනාවට ලක්වන්නේ දේශපාලන්ඥයින් බවයි.
+
+අදවන විට ඇතැම් රාජ්‍ය ආයතනවල නිලධාරීවාදය නිසා සංවර්ධන වැඩසටහන් නතර වී ඇති බවද හෙතෙම පැවසීය.
+
+ගම්පහ මහ නගර සභාවේ පැන නැගී ඇති ගැටලු විසඳීම සදහා ගම්පහ මහ නගර සභාවේ ඊයේ (24) පැවති සාකච්ඡාවකට සහභාගී වෙමින් අමාත්‍යවරයා මේ බව සදහන් කළේය. ගම්පහ මහ නගර සභාව විසින් සිදු කරන සංවර්ධන ව්‍යාපෘති සම්බන්ධයෙන් මෙහිදී සාකච්ඡා කෙරුණි.
+
+2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘතිවල තත්ත්වය මෙහිදී අමාත්‍යවරයා විසින් නාගරික ගම්පහ නාගරික කොමසාරිස් තුමියගෙන් විමසා සිටියේය. එහිදී නාගරික කොමසාරිස්තුමිය කියා සිටියේ 2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘති 33න් 15ක වැඩ මේ වනවිට අවසන් වී ඇති බවයි. 2023 වසරේදී ආරම්භ කළ නඩත්තු ව්‍යාපෘති මේ වසරේ මාස හතරක් ගතවන තුරු අවසන් කිරීමට නොහැකි වීම ගැන අමාත්‍යවරයාගේ අප්‍රසාදයට ලක් විය.
+
+...
+
+[Data](articles/f7431efe.json)
 
 ---
 
@@ -625,6 +895,30 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 [Data](articles/45940318.json)
 
 [Extended Data](ext_articles/45940318.ext.json)
+
+---
+
+### Special motorcycle force from the Special Task Force to suppress the underworld
+
+*2024-04-25 11:10:14* · [`adalk`](https://www.ada.lk/picture_story/පාතාලය-මඩින්න-විශේෂ-කාර්ය-බළකායෙන්-විශේෂ-යතුරුපැදි-බළකායක්/10-409253) · `si`
+
+The Special Task Force (STF) trained a special motorcycle force in Kalutara, led by Public Defense Minister Tiran Alles. Trainees received certificates and a logo, assigned to the Colombo Crimes Division. Key officials, including the IGP and Senior DIGs, were present.
+
+🟩
+
+The First Task Form Functional Task Force Task Force (STF) was chaired by the Public Defense Minister Tiran Alles at the Special Task Force Training School in Kalutara today (25).
+
+The trainees were dispersed and the certificates and a special logo were dispersed.
+
+These motorists are attached to the Colombo Crimes Division in an assigned to the Colombo Crimes Division.
+
+Inspector General of Police (IGP), Senior DIG of Western Province, Senior DIG Task Force in charge of the Western Province.Were there.
+
+◼️
+
+[Data](articles/83945a9c.json)
+
+[Extended Data](ext_articles/83945a9c.ext.json)
 
 ---
 
@@ -1298,6 +1592,32 @@ The SLPP and the UNP led by the President decided to have May Day rallies separa
 
 ---
 
+### Rilan enhances 'loop' and a new attempt to control
+
+*2024-04-25 07:45:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c043pv305l3o) · `si`
+
+Rilan's 'loop' enhancement aims to control population through meditation. The University of Peradeniya's Veterinary Medicine Faculty researches this method for birth control. Professor Ashoka believes it will help manage Rila population and livestock. Due to 'Rila trouble', people were relocated, and the Court of Appeal received Rs. 100,000 from the Ministry of Agriculture for China.
+
+🟩
+
+It contains nothing here.Vite to make women meditating to be required to provide necessary for women to control their headship.
+
+The Faculty of Veterinary Medicine at the University of Peradeniya has begun to research the feminine of Rilaron's population.
+
+Accordingly, women meditating for birth control will be necessary and delayed.
+
+Professor Ashoka said that this would be a successful solution to Rila population to release animals to the environment and the livestock in the event.
+
+Due to 'Rila trouble', the people were taken to the distribution of air rifles and to other areas. The Court of Appeal was also buried by the Ministry of Agriculture to provide Rs. 100,000 to China.
+
+◼️
+
+[Data](articles/c5bb4aa2.json)
+
+[Extended Data](ext_articles/c5bb4aa2.ext.json)
+
+---
+
 ### Crackdown on fraudulent foreign job schemes: Manusha
 
 *2024-04-25 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crackdown-on-fraudulent-foreign-job-schemes-Manusha/108-281328) · `en`
@@ -1917,335 +2237,5 @@ Over the past 30 years
 [Data](articles/44b6a206.json)
 
 [Extended Data](ext_articles/44b6a206.ext.json)
-
----
-
-### Jaffna Diocese Bishop Icerin Panad Gnanaprakasam
-
-*2024-04-25 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181895) · `ta`
-
-Bishop Icerin Panad Gnanaprakasam of Jaffna Diocese celebrated the Glossary of Gnanapakkam Anniversary and the Guru Festival at the Mariannerya Palace on Wednesday evening.
-
-🟩
-
-Jaffna Diocese Icerin Icerin Gnanaprakasam Anniversary of the Glossary of the Gnanapakkam Anniversary of the Guru Festival of the Jaffna Mariannerya Palace was held on Wednesday evening (24).
-
-◼️
-
-[Data](articles/073622ab.json)
-
-[Extended Data](ext_articles/073622ab.ext.json)
-
----
-
-### GMOA wants decision on KDU medical degree admission suspended
-
-*2024-04-25 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-wants-decision-on-KDU-medical-degree-admission-suspended/108-281302) · `en`
-
-Colombo, April 25 (Daily Mirror) - The Government Medical Officers' Association (GMOA) has requested the government to suspend the recent Cabinet decision which approved local students to gain admission to the General Sir John Kotelawala Defence University's medical degree programme.
-
-Under the endorsed proposal, which received the nod from the Cabinet, aspiring medical students from Sri Lanka will have the opportunity to commence their studies at the renowned institution from the upcoming academic year.
-
-Dr. Chamil Wijesinghe, spokesperson for the GMOA, called on the government to suspend the decision, citing concerns over its lack of consultation with relevant stakeholders and transparency.
-
-"The relevant authorities have not provided sufficient reasons for implementing this decision," Dr. Wijesinghe stated. "As a professional body, we are concerned about the potential impact on the quality of medical education."
-
-...
-
-[Data](articles/6eddcc51.json)
-
-[Extended Data](ext_articles/6eddcc51.ext.json)
-
----
-
-### Why did the Turbine machines of the Uma Oya project be named 'Masni' and 'Churchi'?- Sindney speaks
-
-*2024-04-25 02:10:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4n1qlrp0qwo) · `si`
-
-The Uma Oya project's turbines, 'Masni' and 'Churchi', were named after two Sri Lankan women, Sindney and Sasuni Louis, who played significant roles in the project. Sindney, an alumni of Musaes Vidyalaya, was involved in coordinating work, salaries, and language translation. She was asked to name a turbine, leading to the naming of 'Masni'. Sasuni, who left the project due to obstacles, was named 'Churchi'. This naming tradition is part of Iran's culture, where female names are used for significant projects.
-
-🟩
-
-Why did the Turbine machines of the Uma Oya project be named 'Masni' and 'Churchi'?- Sindney speaks
-
-Uma Oya Multipurpose Development Project was declared open by the President of the Iranian Islamic Republic of Iranian Islamic Republic yesterday (April 24).
-
-With the opening of this project, a special focus on two Sri Lankan women.
-
-Why were the names of these two women to be very close to a massive project?
-
-The BBC Sinhala service was known to the BBC Sinhala service in the name of the two women belonging to the Uma Oya project.
-
-The BBC won the opportunity to talk to the owner of the name Dasuni Louis, the owner of the name used to one Turbine.
-
-Sumni Lewis is an alumni of Musaes Vidyalaya, Colombo and is currently settled in the Kurunegala area.
-
-The Uma Oya project was named by two turbines in the project and she was involved in the project that she was involved in the project.
-
-...
-
-[Data](articles/b0cd3998.json)
-
-[Extended Data](ext_articles/b0cd3998.ext.json)
-
----
-
-### No footboard riding allowed, no liability for accidents: Railways Department
-
-*2024-04-25 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-footboard-riding-allowed-no-liability-for-accidents-Railways-Department/108-281301) · `en`
-
-Colombo, April 25 (Daily Mirror) - In light of the numerous complaints received, the Railways department has stated that riding on the footboards of express trains is strictly prohibited. They have made it clear that they will not assume responsibility for any accidents involving both locals and foreign tourists.
-
-A senior official from the department noted that several incidents have been reported where both locals and foreign tourists were observed riding on footboards, particularly on upcountry trains.
-
-To address this issue, railway guards and other officials onboard trains have been instructed to take measures to prevent individuals from riding on footboards.
-
-Despite these efforts, commuters traveling on the upcountry mainline have voiced their concerns regarding accidents involving foreign tourists riding on footboards of express trains.
-
-...
-
-[Data](articles/133f4e0f.json)
-
-[Extended Data](ext_articles/133f4e0f.ext.json)
-
----
-
-### Telhi won Gujarat by 4 runs
-
-*2024-04-25 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181894) · `ta`
-
-Telhi Capitles won Gujarat Titans by 4 runs in the 40th IPL match, thanks to a last-over stand of 37 runs. Rashid Khan's 2 wickets in the last over were crucial. Telhi scored 224/4, with Akshar Patel and Rishabh Bant sharing a 113-run partnership. Gujarat lost 220 runs for 8 wickets.
-
-🟩
-
-Telhi Capitles won the Gujarat Titans by 4 runs in the 40th match of the 17th Indian Peerimer League Chapter held at the Telhi Arun Jaitley Stadium on Wednesday (24).
-
-Telhi Capitles needed 37 runs in the last two overs to win the match by both teams.
-
-Tellhi Capitols lost a wicket of 18 runs in the 19th over.
-
-The last over was required to win a further 19 runs. Rashid Khan scored 2 pounds of the first two balls. Because of this, Gujarat was expected to win. ஆனால், முக்கேஷ் குமாரின் அடுத்த இரண்டு பந்துகளில் ரஷித் கானினால் ஓட்டம் பெற முடியாமல் போனது.
-
-Rashid Khan, who was the fifth ball, was unable to get 5 runs in the last ball.
-
-Telhi Capitles scored 224 runs for the loss of 4 wickets in 20 overs.
-
-Akshar Patel and team captain Rishabh Bant scored half -centuries and shared 113 oats off 68 balls in the 4th wicket.
-
-Subsequently, Rishabh Bond and Triston Stubs shared 67 runs off 18 balls in the 5th wicket.
-
-Rishabh Bond did not play 43 balls with 5 pounds and 8 sixes and Triston Stubs 26 runs.
-
-...
-
-[Data](articles/63a9d106.json)
-
-[Extended Data](ext_articles/63a9d106.ext.json)
-
----
-
-### Friday to Sri Lanka's Nethmika
-
-*2024-04-25 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181893) · `ta`
-
-Nethmika Madusani, Sri Lanka's women's team leader, won silver in the 21st Asian Junior Athletics Championships in Dubai. Madhushani Herath also secured silver in the women's three-legged event.
-
-🟩
-
-Sri Lankan women's team leader Nethmika Madusani won the silver medal in the 21st Asian Junior Athletics Championships, which began on Wednesday (24) at the Dubai International Stadium in the United Kingdom.
-
-Madhushani Herath won the silver medal in the women's three -legged event which began at 9.00 pm at Sri Lanka at Dubai Stadium.
-
-இம்முறை ஆகிய கனிஷ்ட மெய்வலலுநர் போட்டியில் இலங்கைக்கு கிடைத்த முதுலாவது பதக்கம் இதுவாகும்.
-
-அவர் 13.01 மீட்டர் தூரம் பாய்ந்தே வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். This is a personal distance from his post.
-
-2014ஆம் ஆண்டு ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் விதுஷா லகஷானி முப்பாய்ச்சிலில் பதக்கம் வென்ற பின்னர் இலங்கைக்கு இதே நிகழ்ச்சியில் கிடைத்த 2ஆவது பதக்கம் இதுவாகும்.
-
-அத்துடன் ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டி வரலாற்றில் 1986இலிருந்து இலங்கைக்கு கிடைத்த 36ஆவது பதக்கம் இதுவாகும்.
-
-◼️
-
-[Data](articles/35ff7c21.json)
-
-[Extended Data](ext_articles/35ff7c21.ext.json)
-
----
-
-### I.. Letter to the power of the national people by force
-
-*2024-04-25 00:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியால்-தேசிய-மக்கள்-சக்திக்கு-கடிதம்/175-336302) · `ta`
-
-The United People's Power and the National People's Power plan to visit Parliament to schedule a debate between leaders and economic groups. Nalin Bandara, a member of the United People's Power, sent a letter to Nalinda Jayatissa, a member of the National People's Power, proposing a debate between Opposition Leader Sajith Premadasa, National People's Power Leader Anura Kumara Dissanayake, and the economic groups of two parties. The letter suggests holding a debate between the economic groups first, followed by the leaders, aiming for a May event.
-
-🟩
-
-The United People's Power and the National People's Power have announced that they will visit Parliament today or tomorrow to allocate the date for the debate between leaders and economic groups.
-
-Nalin Bandara, a member of the United People's Power Executive Committee, sent a letter to the National People's Power Executive Committee member Nalinda Jayatissa.
-
-The letter has been asked to visit Parliament today or tomorrow to allocate the date of debate between Opposition Leader Sajith Premadasa and National People's Power Leader Anura Kumara Dissanayake and the economic groups of 2 parties.
-
-The letter stated that the letter was first proposed to hold a debate between the economic groups and then the leaders.
-
-Therefore, the letter indicated that the debate could be held between the two sides regarding the upcoming debate in May.. (A)
-
-◼️
-
-[Data](articles/b763e0bc.json)
-
-[Extended Data](ext_articles/b763e0bc.ext.json)
-
----
-
-### Tamilnadu Administrative Choosing case postponed
-
-*2024-04-25 00:29:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசு-நிர்வாகத்-தெரிவு-வழக்கு-ஒத்திவைப்பு/175-336301) · `ta`
-
-The Tamilnadu Administrative Choosing case, involving the Sri Lanka Tamil National Alliance (TNA) and 7 opponents, has been postponed to May 31st. The case, filed on Feb 15, was discussed for 3 hours. No party violation is mentioned; it's about added rules. The case's outcome is uncertain, with no change in the prosecutor's position.
-
-🟩
-
-President's Attorney KV Dawarasa said that the case of the Sri Lanka Tamil National Alliance (TNA) administration, which was taken up for hearing at the Trincomalee Magistrate's Court on Wednesday (24), has been postponed till May 31st.
-
-With 07 opponents, I appeared on behalf of MP S. Sreedharan, who was elected as the leader of the 2nd and 4th opponents.. The case was discussed and submitted for about three hours.
-
-The case was filed on February 15 and was taken up for hearing on the 29th. The case must be concluded for the welfare of the welfare. Nothing is said here that the party is violated. In particular, some rules have been added.
-
-Accordingly, if the case is filed, it can be won. But the time goes, so that the case has gone, and if success is considered a failure. We are ready to provide relief. There is no change in our position, the prosecutor must report it through his lawyer. I expressed my argument in court that the case should be withdrawn.
-
-◼️
-
-[Data](articles/80ad5596.json)
-
-[Extended Data](ext_articles/80ad5596.ext.json)
-
----
-
-### We will inquire ourselves
-
-*2024-04-25 00:23:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-மாட்டோம்-நாமே-விசாரிப்போம்/175-336300) · `ta`
-
-Opposition leader Sajith Premadasa announced a Special Investigation Commission to probe the suicide bombing of Lifeblood Sunday, promising transparent investigation with international judges and specialists.
-
-🟩
-
-We will no longer request this government to conduct a proper investigation into the suicide bombing of the lifeblood Sunday.. Opposition leader Sajith Premadasa said that we will carry out investigations through the Special Investigation Commission in our government.
-
-He said that all those involved in the attack will be preceded by the law and will take steps to provide them with a high penalty to be given to them.. .
-
-The Leader of the Opposition said this while addressing the debate on Wednesday (24) in Parliament regarding the survival Sunday attack.
-
-We have already announced that the United People's Power is carrying out during their tenure. That means we will set up a special inquiry commission. The Inquiry Commission will be set up for domestic and foreign judges and special investigators.
-
-...
-
-[Data](articles/9a7c65e8.json)
-
-[Extended Data](ext_articles/9a7c65e8.ext.json)
-
----
-
-### The reason for the race accident
-
-*2024-04-25 00:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பந்தய-விபத்துக்கு-கவனயீனமே-காரணம்/175-336299) · `ta`
-
-Naleen Bandara criticizes a car race in Diyathalawa that killed 7, blaming the accident on competitors' negligence, lack of safety measures, and insufficient security.
-
-🟩
-
-Opposition parliamentarian Naleen Bandara has urged the rivalry of the rivalry during the car race involving the death of seven people in Diyathalawa.
-
-Speaking on Wednesday (14) in Parliament
-
-A few days ago, 7 people were killed in a car race in Diyathalawa. When searching for this, it was revealed that the accident occurred due to the attention of the competitors.. The army must be 50 meters from the tile path and there should be visitors behind it.
-
-Frequent pouring water to reduce dust on the runway during the match. As well as must have made the necessary security arrangements in the curves. But the competition has taken place without doing anything.
-
-Thus the rival organizers must be declared to be punished for criminal offense. He said that those who participated in the race were arrested at the end of the competition.
-
-◼️
-
-[Data](articles/35d7fddc.json)
-
-[Extended Data](ext_articles/35d7fddc.ext.json)
-
----
-
-### The model must work together
-
-*2024-04-25 00:09:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றிணைந்து-செயற்பட-வேண்டும்/175-336298) · `ta`
-
-Dr. Ibrahim Raisi, Iran's President, inaugurated the Uma Oya Multipurpose Development Project in Sri Lanka, highlighting Iran's technical support.
-
-🟩
-
-The Uma Oya Multipurpose Development Project, one of the massive irrigation projects built in Sri Lanka, was opened on Wednesday (24).
-
-Dr. Ibrahim Raisi, President of the Islamic Republic of Iran (Dr.. Opened under the leadership of Ebrahim Raisi and President Ranil Wickremesinghe.
-
-President of the Iranian Islamic Republic, Dr. Ibrahim Raisi, arrived at the Mattala airport on an official visit to the ceremony.. He was greeted by a delegation headed by Prime Minister Dinesh Gunawardena.
-
-Subsequently, Uma Oya attended the multi -purpose development project inauguration. He completed his visit and left through the Katunayake International Airport.
-
-This is one of the major irrigation projects built in Sri Lanka after the Uma Oya Multipurpose Development Mahaweli Development Program.
-
-President Ranil Wickremesinghe thanked the technical support of Iran for the success of the Uma Oya Multipurpose Development Program and said Sri Lanka could not carry water from Uma Oya without the help of Iran.
-
-...
-
-[Data](articles/c22dff3d.json)
-
-[Extended Data](ext_articles/c22dff3d.ext.json)
-
----
-
-### What is the connection with the model Sula
-
-*2024-04-25 00:04:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூலாவுடன்-என்ன-தொடர்பு/175-336297) · `ta`
-
-The model Sula is connected to the terrorist Sahran through the Director of Army Intelligence Unit, Sula Kodithi. The Police Principal Patriot Thennakoon advised releasing a vehicle checked for ammunition in Kelaniya Kama, questioned by Kavinda Jayawardena. The government claims bombing investigations are complete but no one is sentenced. The US FBI is investigating.
-
-🟩
-
-What is the connection between the terrorist Sahran and the then Director of the Army Intelligence Unit Sula Kodithi?
-
-Why did the Police Principal Patriot Thennakoon advise the vehicle to be released when police seek to check the lorry containing ammunition in the Kelaniya Kama area?Kavinda Jayawardena, the United People's Power MP, questioned.
-
-Speaking at the first day's debate on the first day's debate on the Sunday bombing of the 2019 2019 Livelihood on Wednesday (24) in Parliament, he said.
-
-Revival. The government claims that investigations into the bombings have been completed. But no one has been sentenced.
-
-US FBI is investigating the bombing. The division has mentioned many issues.He asked.
-
-◼️
-
-[Data](articles/0f9440dc.json)
-
-[Extended Data](ext_articles/0f9440dc.ext.json)
-
----
-
-### The story of Kota's story is lying
-
-*2024-04-25 00:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-கதை-பொய்/175-336296) · `ta`
-
-Gotabhaya Rajapakse claims in his book that he was chased by Tamil and Muslim people, contradicting historical accounts. He defends his actions during the 2019 bombings, arguing that his policies were not solely against minorities.
-
-🟩
-
-Former President Gotabhaya Rajapakse has stated in his book that he has chased himself Tamil and Muslim people.
-
-Speaking at the first day's debate on the first day of the House of Representatives on the Sunday bombing of the 2019, 2019, which will not be held in Parliament on Wednesday (24).
-
-In his book Gotabhaya Rajapakse, he noted that minorities, including Muslims and Tamil people, chased himself.. He wants to know history. From the time of the Sinhala kings, the Muslim people have not been treated to betray the kings. This is the intrigue of the minority people. These are a lie that Gotabhaya says to wash his sin.
-
-He came to power by spreading racism by exposing ideas against the minority people on the 2019 platform.. He eventually scored in the stomach of the Sinhalese people. This was followed by the struggle started. The people fought with fuel and gas problems. The minority people also attended. But he said he did not only chase the minority people.
-
-◼️
-
-[Data](articles/6f394bc7.json)
-
-[Extended Data](ext_articles/6f394bc7.ext.json)
 
 ---

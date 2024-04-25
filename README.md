@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 02:03:32**
+As of **2024-04-26 02:18:26**
 
 ## Newspaper Stats
 
-*Scraped **21,017** Articles*
+*Scraped **21,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
-dailyftlk | 1,187
+dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,427
@@ -26,11 +26,93 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,017 (100.0%) of 21,017 articles have been extended.
+21,017 (100.0%) of 21,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Back to school, back to hope as LOLC Divi Saviya resumes distribution
+
+*2024-04-26 01:47:19* · [`dailyftlk`](https://www.ft.lk/business/Back-to-school-back-to-hope-as-LOLC-Divi-Saviya-resumes-distribution/34-761056) · `en`
+
+From left - Sri Indajothi Vidyalaya Principal Dulika Liyanage,  Education Minister Dr. Susil Premajayantha,  LOLC Holdings Group Managing Director Kapila Jayawardena, and  COO Kithsiri Gunawardena
+
+Education Minister Dr. Susil Premajayantha with LOLC Holdings Group Managing Director Kapila Jayawardena  distributing the books of LOLC Divi Saviya Phase 03
+
+In a concerted effort to empower the educational landscape of Sri Lanka, LOLC Divi Saviya proudly announces the continuation of its Phase 03 initiative coinciding with the reopening of schools subsequent to the New Year holidays. Following the success of its previous phases, this endeavour reaffirms LOLC›s commitment to nurturing the dreams and aspirations of the nation›s youth.
+
+...
+
+[Data](articles/f517c163.json)
+
+---
+
+### Rice distribution not a panacea to people’s struggles - Namal
+
+*2024-04-26 01:34:28* · [`dailyftlk`](https://www.ft.lk/news/Rice-distribution-not-a-panacea-to-people-s-struggles-Namal/56-761055) · `en`
+
+SLPP MP Namal Rajapaksa says despite difficulties Gotabaya Rajapaksa’s regime did not reach a point where rice distribution became necessary
+
+Notes SL has a good economy especially during his father’s tenure where people could easily purchase rice
+
+Says alongside rice distribution Govt. must focus on developing SL’s fledgling rural economy
+
+Sri Lanka Podujana Peramuna (SLPP) National Organiser and Parliamentarian Namal Rajapaksa yesterday stressed that the Government’s distribution of rice to the people of the country is not a solution to the struggles they are facing.
+
+“During the tenure of Mahinda Rajapaksa, we had an economy in which people could easily purchase rice. There was no need to distribute rice to the people,” he noted. He added that such a move was not necessary even during the tenure of his uncle, former President Gotabaya Rajapaksa.
+
+...
+
+[Data](articles/be51eb89.json)
+
+---
+
+### Chinese communist party Vice Minister Sun Haiyan meets NR
+
+*2024-04-26 01:33:36* · [`dailyftlk`](https://www.ft.lk/news/Chinese-communist-party-Vice-Minister-Sun-Haiyan-meets-NR/56-761054) · `en`
+
+Several representatives of the Chinese Communist Party including the Vice Minister of the International Department Sun Haiyan met with the Sri Lanka Podujana Party (SLPP) National Organiser Namal Rajapaksa on Tuesday.
+
+Taking to X (formerly Twitter) Rajapaksa said the meeting sought to strengthen the enduring alliance between the SLPP and CPC, setting the stage for collaboration and shared vision.
+
+Rajapaksa said the discussions focused on enhancing bilateral ties and future plans of the SLPP to establish a practical political course. SLPP General Secretary Sagara Kariyawasam was also present at the event.
+
+◼️
+
+[Data](articles/9c31c551.json)
+
+---
+
+### Clarification issued regarding milk powder price reduction misinformation
+
+*2024-04-26 01:31:55* · [`dailyftlk`](https://www.ft.lk/news/Clarification-issued-regarding-milk-powder-price-reduction-misinformation/56-761053) · `en`
+
+In response to recent media reports regarding a purported reduction in the price of imported milk powder starting 25 April, the Milk Powder Importers Association has issued a clarification, stating that such information is inaccurate.
+
+Contrary to the reported claims, all milk powder brands had already reduced their prices effective 1 April, in accordance with a request from the Trade Ministry. The move was aimed at providing relief to consumers during the Avurudu season, with the maximum retail price set at Rs. 1,050 for a 400g pack.
+
+The Milk Powder Importers Association emphasises that there have been no additional reductions in prices as of 25 April, contrary to the misinformation circulating in the media.  It has been confirmed that several milk powder brands are being sold at prices lower than the stipulated maximum retail price (MRP), with various promotional offers further driving down costs for consumers.
+
+...
+
+[Data](articles/b5118c5a.json)
+
+---
+
+### Well-known business leader and philanthropist Greatian Gunawardhana passes away
+
+*2024-04-26 01:30:27* · [`dailyftlk`](https://www.ft.lk/news/Well-known-business-leader-and-philanthropist-Greatian-Gunawardhana-passes-away/56-761052) · `en`
+
+Well-known business leader and philanthropist, Hands International Group Chairman as well as Founder of the Thurstan College Swimming Pool Complex Greatian Gunawardhana passed away Wednesday (24) early morning.
+
+He, being a distinguished old boy of Thurstan College, had a close relationship with the school and the Thurstan Community until his death.
+
+...
+
+[Data](articles/e6ce7c6a.json)
+
+---
 
 ### Japan provides $ 3 m through FAO to strengthen inland fisheries, rural livelihoods
 
@@ -2111,121 +2193,5 @@ Accordingly, the letter of demand seeks Rs. 1,000 million in damages or compensa
 [Data](articles/6d709775.json)
 
 [Extended Data](ext_articles/6d709775.ext.json)
-
----
-
-### An interval from Maithri demanding 1000 million people
-
-*2024-04-25 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195961) · `si`
-
-Maithripala Sirisena, former President and Minister, demands Rs. 1000 million compensation for 14 days.
-
-🟩
-
-Former President Maithripala Sirisena, Minister Maithripala Sirisena, Minister of Defense has begun to seek a compensation to compensation due to a statement.
-
-It has been informed to pay a sum of Rs. 1000 million to Maithripala Sirisena for 14 days.
-
-◼️
-
-[Data](articles/2e9cd50b.json)
-
-[Extended Data](ext_articles/2e9cd50b.ext.json)
-
----
-
-### Notification for those waiting for employment to go abroad!
-
-*2024-04-25 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/181943) · `ta`
-
-Minister Manusha Nanayakkara clarified that only permit-owned foreign employment agencies can secure foreign employment. He also addressed complaints about a police sergeant receiving money, directing investigators to arrest those involved. The Foreign Employment Bureau of Investigation has been tasked with enforcing laws against traffickers.
-
-🟩
-
-Minister Manusha Nanayakkara has said that no parties other than the permit -owned foreign employment agency have the authority to get foreign employment.
-
-He further stated that complaints have been received regarding the money being received by a police sergeant under the leadership of Viharathi, who is near Anuradhapura.
-
-Accordingly, investigators have been given a directive to arrest the parties involved in the complaint.
-
-In addition, the Minister has also ordered the Foreign Employment Bureau of Investigation to enforce the law to arrest the traffickers involved in such illegal activities.
-
-It is also worth noting that the Foreign Employment Bureau has informed the Bureau of Foreign Employment to prevent such frauds.
-
-◼️
-
-[Data](articles/5ccca413.json)
-
-[Extended Data](ext_articles/5ccca413.ext.json)
-
----
-
-### Nallur temple environment is not playing firing - Judge Ma. Testimony
-
-*2024-04-25 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/181939) · `ta`
-
-Judge Maa of Vavuniya High Court testifies that Nallur temple environmental firing did not occur. A civilian attempted to snatch a rifle from Judge Ilancheliyan's bodyguard, leading to a confrontation. The bodyguard fired, and the civilian fled. The incident occurred on July 22, 2017, near Nallur Temple, during which a police sergeant was shot and killed, and another injured.
-
-🟩
-
-Vavuniya High Court Judge Maa says that Nallur temple environmental firing is not played. Ilangelian mentioned during his testimony.
-
-Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna Western Court Judge Denis Shantan Suidasan.
-
-At the same time, Judge Ilancheliyan appeared in the House yesterday (24) and recorded his testimony.
-
-Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
-
-The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
-
-My car driver's motorcycle was paying another bodyguard.
-
-Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
-
-...
-
-[Data](articles/abd2fc75.json)
-
-[Extended Data](ext_articles/abd2fc75.ext.json)
-
----
-
-### Ubul Shantha arrested
-
-*2024-04-25 14:15:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உபுல்-சாந்த-கைது/175-336319) · `ta`
-
-Upul Shantha, a senior Sinhala preacher, was arrested for allegedly failing to pay 10 lakhs of rupees to a person in Kadana, leading to a complaint. He will be produced in court today.
-
-🟩
-
-Senior Sinhala Sinhala preacher Upul Shantha Santhakala Kadana Police have been arrested today (25) in connection with the incident of a man who claimed to be producing a film.
-
-Police said they had promised to get 10 lakhs of rupees from a person in Kadana area within a month.
-
-However, the suspect has lodged a complaint with the Kadana police due to the violation of confidence because the suspect failed to give money on the date.
-
-The arrested suspect is to be produced before the Welisara Magistrate's Court today (25).
-
-Kelaniya District Senior Superintendent of Police AJYP. Further investigations are underway under the leadership of Kadana Police Inspector Gamini Hewadharana.
-
-◼️
-
-[Data](articles/4919a7c2.json)
-
-[Extended Data](ext_articles/4919a7c2.ext.json)
-
----
-
-### Upul Shantha Sannasgala arrested
-
-*2024-04-25 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98836/upul-shantha-sannasgala-arrested) · `en`
-
-Popular tutor and author Upul Shantha Sannasgala has been arrested by the Kandana Police in connection with an alleged fraud.
-
-◼️
-
-[Data](articles/2997ae45.json)
-
-[Extended Data](ext_articles/2997ae45.ext.json)
 
 ---

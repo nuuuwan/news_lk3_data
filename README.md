@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 07:42:15**
+As of **2024-04-25 07:54:30**
 
 ## Newspaper Stats
 
-*Scraped **20,813** Articles*
+*Scraped **20,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,731
+adalk | 1,732
 tamilmirrorlk | 2,408
 adaderanalk | 2,474
-virakesarilk | 3,129
+virakesarilk | 3,136
 dailymirrorlk | 3,244
 adaderanasinhalalk | 3,360
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,360
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,804 (100.0%) of 20,813 articles have been extended.
+20,804 (99.9%) of 20,821 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -518,6 +518,88 @@ Recordings were played in court where the public were told to violate the court 
 
 ---
 
+### அஜித் - ஷாலினி திருமண நாள்: ஹோட்டலில் கொண்டாட்டம்..!
+
+*2024-04-25 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181899) · `ta`
+
+தமிழ்த் திரையுலகில் குழந்தை நட்சத்திரமாக அறிமுகமாகி, ‘காதலுக்கு மரியாதை’ படம் மூலம் கதாநாயகியாக மாறியவர் நடிகை ஷாலினி. இவர், ‘அமர்க்களம்’ திரைப்படத்தில் நடிக்கும்போது நடிகர் அஜித்குமாருடன் காதல் வயப்பட்டார்.
+
+இதையடுத்து, 2000ம் ஆண்டு ஏப்ரல் மாதம் 24ம் தேதி இருவரும் திருமணம் செய்துகொண்டனர். இந்தத் தம்பதிக்கு அனோஷ்கா என்ற மகளும், ஆத்விக் என்ற மகனும் உள்ளனர். இந்நிலையில், அஜித் - ஷாலினியின் 24வது திருமண நாள் இன்று.
+
+இதை முன்னிட்டு சென்னையில் உள்ள நட்சத்திர ஹோட்டலில் இருவரும் கேக் வெட்டி திருமண நாளை கொண்டாடினர். இது தொடர்பான புகைப்படங்கள் சமூக வலைதளங்களில் வைரலாகிறது.
+
+◼️
+
+[Data](articles/3829e6dc.json)
+
+---
+
+### ‘கில்லி’ ரீ-ரிலீஸ் மாபெரும் வெற்றி: விஜய்க்கு விநியோகஸ்தர் வாழ்த்து..!
+
+*2024-04-25 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181898) · `ta`
+
+விஜய் நடிப்பில் உருவான ‘கில்லி’ திரைப்படம் ரீ-ரிலீஸ் செய்யப்பட்டு வரவேற்பை பெற்றுள்ள நிலையில், படத்தை வெளியிட்ட விநியோகஸ்தர், விஜய்யை சந்தித்து மாலை அணிவித்து வாழ்த்து தெரிவித்தார்.
+
+தரணி இயக்கத்தில், விஜய் நடிப்பில் 2004ம் ஆண்டு ஏப்ரல் 17ம் தேதி வெளியான படம் ‘கில்லி’. விஜய்யின் கரியரில் முக்கியமான படமாக அமைந்த இதில் த்ரிஷா, பிரகாஷ்ராஜ் உள்ளிட்ட பலர் நடித்திருந்தனர். வித்யாசாகர் இசையமைத்திருந்தார்.
+
+இப்படம், 20 ஆண்டுகளுக்குப் பிறகு 4கே டிஜிட்டல் தரத்தில் மெருகூட்டப்பட்டு கடந்த 20ம் தேதி திரையரங்குகளில் வெளியானது. இப்படத்தை, சக்திவேல் ஃபிலிம் ஃபேக்டரி நிறுவனம் வெளியிட்டுள்ளது.
+
+படம் வெளியான 2 நாட்களில் ரூ.12 கோடியை வசூலித்துள்ளதாக வெளியான தகவல் பலரையும் ஆச்சரியப்படுத்தியுள்ளது.
+
+படத்திற்கு கிடைத்த வரவேற்பை தொடர்ந்து, படத்தை வெளியிட்ட விநியோகஸ்தர் சக்திவேலன் நடிகர் விஜய்யை நேரில் சந்தித்து மாலை அணிவித்து வாழ்த்து தெரிவித்தார்.
+
+...
+
+[Data](articles/df9cf037.json)
+
+---
+
+### கல்முனை வடக்கு பிரதேச செயலக விடயம் : 31 ஆவது நாளாக போராட்டம் முன்னெடுப்பு - பொதுமக்கள் ஊடகங்களுக்கு கருத்து
+
+*2024-04-25 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181897) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் இரண்டாவது நாளாக புதன்கிழமை (24) கவனயீர்ப்பு  போராட்டத்தை முன்னெடுத்து வருகின்றனர்.
+
+குறித்த  பிரதேச செயலகத்தின் முன்பாக கடந்த மார்ச் மாதம்  திங்கட்கிழமை (25) பொதுமக்கள் பல்வேறு சுலோகங்களை உள்ளடக்கிய  பதாதைகளை தாங்கிய வண்ணம் அமைதி வழியில் ஒன்று கூடி போராட்டம் ஒன்றினை முன்னெடுத்து இருந்தனர்.
+
+அதன் தொடர்ச்சியாக 31 ஆவது நாளான இன்றும் பல்வேறு சுலோகங்களை முன்வைத்து போராட்டத்தை தொடர்ந்து மேற்கொண்டு வருகின்றனர்.
+
+மேலும் கடந்த காலங்களில் உதவி அரசாங்க அதிபர் பிரிவாக செயல்பட்டு வந்த மேற்குறித்த பிரதேச செயலகம் 1988 களில் தனியான பிரதேச செயலகமாக தரமுயர்த்தப்பட்டுள்ளதாகவும் தொடர்ந்து 1993 ஆண்டு அமைச்சரவை அங்கீகாரம் பெற்று தனியான பிரதேச செயலகமாக கடந்த 30 வருட காலமாக இயங்கி வருவதாகவும் ஊடகங்களிடம் சுட்டிக்காட்டுகின்றனர்.
+
+...
+
+[Data](articles/44b6a206.json)
+
+---
+
+### வெடுக்குநாறி மலை ஆதி சிவன் ஆலய கைது தொடர்பில் வவுனியா மனிதவுரிமை ஆணைக்குழு பொலிசார் மற்றும் வனவளத்திணைக்களத்திடம் விசாரணை
+
+*2024-04-25 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181896) · `ta`
+
+வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் வைத்து ஆலய பூசகர் உள்ளிட்ட 8 பேர் கைது செய்யப்பட்டமை தொடர்பில் வவுனியா மனிதவுரிமை ஆணைக்குழுவினரால் நெடுங்கேணிப் பொலிசார் மற்றும் வனவளத் திணைக்கள அதிகாரிகளிடம் விசாரணைகள் மேற்கொள்ளப்பட்டது.
+
+வவுனியா, உள்வட்ட வீதியில் அமைந்துள்ள மனிதவுரிமைகள் ஆணைக்குழு அலுவலகத்திற்கு புதன்கிழமை (24) அழைக்கப்பட்ட நெடுங்கேணிப் பொலிசார், வனவளத் திணைக்களத்தினர் மற்றும் ஆலய நிர்வாகத்தினர் ஆகியோரிடம் விசாரணைகள் முன்னெடுக்கப்பட்டதுடன், வாக்கு மூலமும் பெறப்பட்டது.
+
+இதன்போது, வனவளத் திணைக்களத்தினர் தாம் அங்கு சென்று பார்த்த போது தமது வனப் பகுதிக்குள் தீ மூடப்பட்டிருந்ததாகவும், பிளாஸ்ரிப் பொருட்கள், சமையல் கழிவுகள், ஆலய பூசைப் பொருட்கள் அங்கு கொட்டப்பட்டிருந்ததாகவும் மனிதவுரிமைகள் ஆணைக்குழுவிடம் தெரிவித்திருந்தனர்.
+
+...
+
+[Data](articles/397f1987.json)
+
+---
+
+### யாழ் மறைமாவட்ட ஆயர் ஐஸ்ரின் பேணாட் ஞானப்பிரகாசம் ஆண்டகையின் குருத்துவத்தின் பொன்விழா திருப்பலி நிகழ்வு
+
+*2024-04-25 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181895) · `ta`
+
+யாழ் மறைமாவட்ட ஆயர் ஐஸ்ரின் பேணாட் ஞானப்பிரகாசம் ஆண்டகையின் குருத்துவத்தின் பொன்விழா திருப்பலி நிகழ்வு யாழ் மரியன்னை பேராலயத்தில் புதன்கிழமை (24) மாலை நடைபெற்றது பொன்விழா திருப்பலியை யாழ் ஆயருடன் இணைந்து கொழும்பு மறைமாவட்ட துணைஆயர் அன்ரன் ரஞ்சித் ஆண்டகை, மன்னார் மறைமாவட்ட ஆயர் இம்மனுவேல் பெனாண்டோ மற்றும் குரு முதல்வர்கள் இடைந்து கூட்டுதிருப்பலி ஒப்புக் கொடுப்பதை படங்களில் காணலாம்.
+
+◼️
+
+[Data](articles/073622ab.json)
+
+---
+
 ### GMOA wants decision on KDU medical degree admission suspended
 
 *2024-04-25 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-wants-decision-on-KDU-medical-degree-admission-suspended/108-281302) · `en`
@@ -555,6 +637,50 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 [Data](articles/133f4e0f.json)
 
 [Extended Data](ext_articles/133f4e0f.ext.json)
+
+---
+
+### பரபரப்பை தோற்றுவித்த ஐபிஎல் போட்டியில் குஜராத்தை 4 ஓட்டங்களால் வென்றது டெல்ஹி
+
+*2024-04-25 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181894) · `ta`
+
+டெல்ஹி அருண் ஜெய்ட்லி விளையாட்டரங்கில் புதன்கிழமை (24) நடைபெற்ற 17ஆவது இண்டியன் பீறிமியர் லீக் அத்தியாயத்தின் 40ஆவது போட்டியில் குஜராத் டைட்டன்ஸ் அணியை 4 ஓட்டங்களால் பரபரப்பான முறையில் டெல்ஹி கெப்பிட்டல்ஸ் வெற்றிகொண்டது.
+
+இரண்டு அணிகளும் சம அளவில் மோதிக்கொண்ட இந்தப் போட்டியில் வெற்றிபெறுவதற்கு டெல்ஹி கெப்பிட்டல்ஸுக்கு கடைசி 2 ஓவர்களில் 37 ஓட்டங்கள் தேவைப்பட்டது.
+
+19ஆவது ஓவரில் 18 ஓட்டங்களைக் குவித்த டெல்ஹி கெப்பிட்டல்ஸ் ஒரு விக்கெட்டை இழந்தது.
+
+கடைசி ஓவரில் வெற்றிக்கு மேலும் 19 ஓட்டங்கள் தேவைப்பட்டது. முதல் இரண்டு பந்துகளில் ரஷித் கான் 2 பவுண்டறிகளை விளாசினார். இதன் காரணமாக குஜராத் வெற்றிபெறும் என எதிர்பார்க்கப்பட்டது. ஆனால், முக்கேஷ் குமாரின் அடுத்த இரண்டு பந்துகளில் ரஷித் கானினால் ஓட்டம் பெற முடியாமல் போனது.
+
+ஐந்தாவது பந்தில் சிக்ஸ் விளாசிய ரஷித்  கானினால்   கடைசிப் பந்தில் வெற்றிக்கு தேவைப்பட்ட 5 ஓட்டங்களைப் பெறமுடியாமல் போனது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய டெல்ஹி கெப்பிட்டல்ஸ் 20 ஓவர்களில் 4 விக்கெட்களை இழந்து 224 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/63a9d106.json)
+
+---
+
+### ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் இலங்கையின் நெத்மிகாவுக்கு வெள்ளி
+
+*2024-04-25 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181893) · `ta`
+
+ஐக்கிய இராச்சியத்தின் துபாய் சர்வதேச விளையாட்டரங்கில் இன்று புதன்கிழமை (24) ஆரம்பமான 21ஆவது ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் இலங்கையின் பெண்கள் அணித் தலைவி நெத்மிகா மதுஷானி ஹேரத் வெள்ளிப் பதக்கத்தை வென்று தேசத்திற்கு புகழீட்டிக்கொடுத்தார்.
+
+துபாய் விளையாட்டரங்கில் இலங்கை நேரப்படி இரவு 9.00 மணிக்கு ஆரம்பமான பெண்களுக்கான முப்பாய்ச்சல் போட்டியிலேயே மதுஷானி ஹேரத் வெள்ளிப் பதக்கத்தை வென்றார்.
+
+இம்முறை ஆகிய கனிஷ்ட மெய்வலலுநர் போட்டியில் இலங்கைக்கு கிடைத்த முதுலாவது பதக்கம் இதுவாகும்.
+
+அவர் 13.01 மீட்டர் தூரம் பாய்ந்தே வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். இது அவர் பதவி செய்து தனிப்பட்ட அதிசிறந்த தூரப் பெறுதியாகும்.
+
+2014ஆம் ஆண்டு ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் விதுஷா லகஷானி முப்பாய்ச்சிலில் பதக்கம் வென்ற பின்னர் இலங்கைக்கு இதே நிகழ்ச்சியில் கிடைத்த 2ஆவது பதக்கம் இதுவாகும்.
+
+அத்துடன் ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டி வரலாற்றில் 1986இலிருந்து இலங்கைக்கு கிடைத்த 36ஆவது பதக்கம் இதுவாகும்.
+
+◼️
+
+[Data](articles/35ff7c21.json)
 
 ---
 
@@ -1538,6 +1664,22 @@ Subsequently, the President of Iran was resolved and honored by the Hon.. Remble
 
 ---
 
+### මත්ද්‍රව්‍ය කිලෝ 300 සැකකරුවන් සාක්ෂියක පරස්පරයක් නිසා නිදහස් කරලා
+
+*2024-04-24 19:25:48* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-300-සැකකරුවන්-සාක්ෂියක-පරස්පරයක්-නිසා-නිදහස්-කරලා/11-409247) · `si`
+
+නාවික හමුදාව විසින් පසුගියදා මුහුදේදී හෙරොයින්  සහ හෙරොයින් රුගෙන යාමට පැමිණීමේදී සිය භාරයට ගත් පුද්ගලයන් සියලු දෙනා එක් සාක්ෂියක පරස්පරතාවක් මත නිදහස් කර ඇති බව අධිකරණ, බන්ධනාගාර හා ආණ්ඩුක්රවම ව්යසවස්ථා ප්රකතිසංස්කරණ අමාත්ය  විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේ අද (24දා) පැවති අපරාධ නඩු විධාන සංග්රාහය (සංශෝධන) පනත් කෙටුම්පත (දෙවන වර කියවීම) සහ විෂවර්ග, අබිං සහ අන්තරාදායක ඖෂධ ආඥා පනත යටතේ නියෝග පිළිබඳ පැවති විවාදයේදී අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අමාත්යප විජයදාස රාජපක්ෂ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/d90fa179.json)
+
+---
+
 ### Imported milk powder prices to be reduced from tomorrow
 
 *2024-04-24 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imported-milk-powder-prices-to-be-reduced-from-tomorrow/108-281295) · `en`
@@ -1957,193 +2099,5 @@ He has been accused of bribery in the projects carried out by the Ministry of De
 [Data](articles/79fdc16b.json)
 
 [Extended Data](ext_articles/79fdc16b.ext.json)
-
----
-
-### Wijayaka and Vulgent
-
-*2024-04-24 17:23:33* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-හා-දුෂ්මන්තට-වාරණ-නියෝගයක්/11-409242) · `si`
-
-Colombo Chief Judge Sandamaduwarana issued two injunctions, affecting Wijayadasa Rajapakse, a former SLFP member, until the 8th. The decision, after court deliberations involving SLFP and ministers, was defended by President's Counsel Chandra Jayasundara.
-
-🟩
-
-The Colombo Chief Judge Sandamaduwarana released two injunctions today (24).
-
-The cases released after considering a court of the SLFP and Ministers Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera have been implemented until the 8th of this month.
-
-President's Counsel Chandra Jayasundara told the courts in behalf of the plaintiffs.
-
-The SLFP official was launched to a member of the SLFP that Wijayadasa Rajapakse was not a member of the SLFP.
-
-◼️
-
-[Data](articles/865e5cba.json)
-
-[Extended Data](ext_articles/865e5cba.ext.json)
-
----
-
-### One person injured when the branch of the Buddhist Vihara collapses in Colombo
-
-*2024-04-24 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181868) · `ta`
-
-Injured in Colombo, Buddhist Vihara branch collapse causes heavy traffic. Police investigate.
-
-🟩
-
-One person was injured when a branch of a royal tree near a Vihar near Sankaraja Mawatha, Colombo, was injured.
-
-Heavy traffic congestion in the area where the incident took place and police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/ab39c8b7.json)
-
-[Extended Data](ext_articles/ab39c8b7.ext.json)
-
----
-
-### "Uma Janani" multiloime development project opens vested with the public
-
-*2024-04-24 17:18:09* · [`adalk`](https://www.ada.lk/breaking_news/“උමා-දිය-ජනනි”-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ජනතා-අයිතියට/11-409241) · `si`
-
-The Uma Oya Multipurpose Development Project, a significant initiative in Sri Lanka, aims to alleviate water shortages in the southeastern dry zone. This project, funded by Farab Farab Ltd and the Export Development Bank of Iran, involves the construction of two reservoirs and a 3.98-kilometer water flow tunnel. Despite challenges, including international sanctions and the Covid-19 pandemic, the project was completed in 2015 and began operations in 2024. It aims to irrigate 1500 hectares of existing land and 4500 new developed land, addressing the water shortage issue. The project symbolizes the strengthening of ties between Sri Lanka and Iran, with both countries contributing their expertise and resources.
-
-🟩
-
-President to promote closer ties with Iran - President
-
-The President is ready to continue with good partnership with Sri Lanka.
-
-After the Mahaweli movement, the "Uma Pannani" multi-Janani "multi-Janani" multi-Sri Lankan election project was illegally owned by the people of Iranian-Sri Lankan presidents this morning.
-
-The Iranian President Dr. Ibrahim Reli was warmly welcomed by President Ranil Wickremesinghe.
-
-The leaders of the two countries have unveiled the plaque and the Multi-Jathika Development Project was vested with the public and began operating activities through Digital Technology.
-
-Addressing the gathering, President Ranil Wickremesinghe said that Sri Lanka would not be able to bring the water in Uma Oya to be taken to the Uma Oya.. President Ranil Wickremesinghe, who thanked the Iranian president of the Iranian, he said that the purpose of Sri Lanka's aim to promote closer ties with Iran.
-
-...
-
-[Data](articles/9665f9dd.json)
-
-[Extended Data](ext_articles/9665f9dd.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields fall across maturities, 3-months 9.90-pct
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-fall-across-maturities-3-months-9-90-pct-159919/) · `en`
-
-ECONOMYNEXT – Sri Lanka Treasury bill yields dropped across maturities at Wednesday’s auction, with the 3-month yield falling below 10 percent to 9.90 percent, data from the state debt office showed.
-
-The debt office sold 35 billion rupees of 3-month bills at 9.90 percent down from 10.03 percent.
-
-30 billion rupees of 6-month were sold, at 10.08 percent, down from 10.22 percent.
-
-27 billion rupees of 12-month bills were sold at 10.21 percent, down from 10.23 percent.
-
-◼️
-
-[Data](articles/0ffba7c3.json)
-
-[Extended Data](ext_articles/0ffba7c3.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 297.95/298.10 to US dollar
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-297-95-298-10-to-us-dollar-159918/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 297.95/298.10 to the US dollar on Wednesday after closing at 300.50/301.00 on Monday, dealers said.
-
-Sri Lanka’s rupee came under pressure over the last week, despite broadly deflationary policy, after the central bank collected large volumes of dollars in March.
-
-Bond yields were flat as buyers awaited the next development in sovereign bond re-structuring, market participants said. There were both positive and negative sentiments among bond investors, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 11.30/40 percent
-
-A bond maturing on 15.09.2027 closed down at 11.90/95 percent from 11.95/12.05 percent.
-
-A bond maturing on 15.12.2028 closed flat at 12.15/25 percent.
-
-A bond maturing on 15.09.2029 closed higher at 12.30/40 percent from 12.25/35 percent.
-
-A bond maturing on 01.10.2032 closed at 12.35/60 percent from 12.40.50 percent. (Colombo/Apr24/2024)
-
-◼️
-
-[Data](articles/244ad810.json)
-
-[Extended Data](ext_articles/244ad810.ext.json)
-
----
-
-### Global South’s desire to establish independence hinted at Sri Lanka-Iran leaders’ talk
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/global-souths-desire-to-establish-independence-hinted-at-sri-lanka-iran-leaders-talk-159920/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has highlighted the Global South’s desire to establish its identity and independence during the talks with Iranian President Ebrahim Raisi, President’s Media Division (PMD) said.
-
-Most developing nations are depending on developed nations and such dependence has deprived most developing nations of being with its own identity and independence.
-
-According to the United Nations Conference on Trade and Development (UNCTAD), the Global South broadly comprises Africa, Latin America and the Caribbean, Asia (excluding Israel, Japan, and South Korea), and Oceania (excluding Australia and New Zealand).
-
-Most of the Global South’s countries are commonly identified as lacking in their standard of living, which includes having lower incomes, high levels of poverty, high population growth rates, inadequate housing, limited educational opportunities, and deficient health systems, among other issues.
-
-...
-
-[Data](articles/b4a72e5c.json)
-
-[Extended Data](ext_articles/b4a72e5c.ext.json)
-
----
-
-### Plantation workers' salary hike fails again
-
-*2024-04-24 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181861) · `ta`
-
-Plantation workers' salary hike talks failed as employers, including the Employers Federation, did not attend. The Plantation Workers Union criticized the companies for ignoring the issue, despite previous negotiations. The government and plantation workers are also accused of neglecting the workers' concerns. Only one plantation owner attended the Salary Council meeting, raising suspicions. The secretary called for a wage increase, but companies did not participate. The union's efforts were highlighted, with the government accused of favoring plantation companies over workers.
-
-🟩
-
-The Executive Officers of the Employers Federation did not attend the salary hike talks today.. All Ceylon Plantation Workers Union President Kidnan Selvaraj, who is participating in the salary of plantation workers, said that the Plantation Company did not negotiate because the Plantation Company did not attend the wage hike in the pay rise for plantation workers on Wednesday morning.
-
-He said this when he inquired about the salary talks to be held today.
-
-Plantation Companies have ignored the second time on pay rise for plantation workers. In this case, they have no concern for plantation workers and salary. Is clear.
-
-The government and the plantation workers are ignoring the plantation workers beyond the only criticism of the company.. That should be said. The issue was taken to the Salary Standards Council following the negotiations of the plantation workers' salary hike in the last year.
-
-...
-
-[Data](articles/71c87702.json)
-
-[Extended Data](ext_articles/71c87702.ext.json)
-
----
-
-### Sri Lanka stocks close up, small caps see buying interest
-
-*2024-04-24 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-small-caps-see-buying-interest-159911/) · `en`
-
-ECONOMYNEXT – Improved market sentiment saw the Colombo Stock Exchange close up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.66 percent, or 77.50 points, at 11,905; while the S&P SL20 Index closed up 0.38 percent, or 13.17 points, at 3,495.
-
-“Buying interest was coming into the small caps from the retail front,” market participants said.
-
-The ASPI was up mostly due to interest in LOLC group companies; Browns Investments Plc (up at 6.20), LOLC Finance Plc (up at 7.40), LOLC General Insurance Plc (up at 7.00). LOLC Holdings Plc was also up at 445.25.
-
-“There was a run on penny stocks, possibly because banking stocks had slowed down,” market participants said.
-
-“There was also interest in index heavyweight Hayleys.” Hayleys Plc is one of six companies that had expressed interest in the acquisition of SriLankan Airlines Limited, the state owned enterprise restructuring unit said. Shares of the bluechip conglomerate closed up at 84.90.
-
-...
-
-[Data](articles/5a82e56a.json)
-
-[Extended Data](ext_articles/5a82e56a.ext.json)
 
 ---

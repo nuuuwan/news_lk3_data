@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 11:53:18**
+As of **2024-04-25 12:04:30**
 
 ## Newspaper Stats
 
-*Scraped **20,860** Articles*
+*Scraped **20,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
-economynextcom | 1,180
+economynextcom | 1,183
 adalk | 1,737
-tamilmirrorlk | 2,411
+tamilmirrorlk | 2,412
 adaderanalk | 2,481
 virakesarilk | 3,142
 dailymirrorlk | 3,250
@@ -26,49 +26,75 @@ adaderanasinhalalk | 3,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,853 (100.0%) of 20,860 articles have been extended.
+20,860 (100.0%) of 20,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### අහස යා කළ Ratnadipa
+### பெரும் கூட்டணியை உருவாக்க முக்கியஸ்தர்கள் சந்திப்பு
+
+*2024-04-25 11:50:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-கூட்டணியை-உருவாக்க-முக்கியஸ்தர்கள்-சந்திப்பு/175-336310) · `ta`
+
+பரந்த அரசியல் கூட்டணியை உருவாக்குவதற்கான அதன் முதல் நடவடிக்கையாக, ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ஷ மற்றும் ஏனைய கட்சிகள் மற்றும் குழுக்களின் பிரதிநிதிகளை சந்தித்து கலந்துரையாடியதுடன் மே தினத்திற்கு பின்னர் ஜனாதிபதி தேர்தலை கருத்தில் கொண்டு அரசியல் பணிகளை துரிதப்படுத்த தீர்மானித்துள்ளார்.
+
+கூட்டத்தில் மகஜன எக்சத் பெரமுனவை பிரதிநிதித்துவப்படுத்தி பிரதமர் தினேஷ் குணவர்தன கலந்துகொண்டார். மேலும், அமைச்சர்களான பிரசன்ன ரணதுங்க, டிரான் அலஸ், ஹரின் பெர்னாண்டோ, காஞ்சன விஜேசேகர, பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே மற்றும் அனுர பிரியதர்ஷன யாப்பா ஆகியோர் செவ்வாய்க்கிழமை மாலை இடம்பெற்ற கூட்டத்தில் கலந்துகொண்டனர். ஐக்கிய தேசியக் கட்சியை (UNP) பிரதிநிதித்துவப்படுத்தி ஜனாதிபதியின் பிரதானி சாகல ரத்நாயக்கவும் கலந்து கொண்டார்.
+
+...
+
+[Data](articles/16b8296c.json)
+
+---
+
+### Ratnaadipa, who was the sky
 
 *2024-04-25 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195955) · `si`
 
-'ITC Ratnadipa Colombo' අති සුඛෝපභෝගි හෝටලය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මීට සුළු වේලාවකට පෙර විවෘත කළේය.
+President Ranil Wickremesinghe inaugurated ITC Ratnadipa Colombo, India's first luxury hotel outside India, featuring a 100-foot tower connecting two main pillars, marking a unique architectural achievement in Sri Lanka.
 
-එය ඉන්දියාවේ ITC හෝටල් සමූහය, ඉන්දියාවෙන් පිටත ඉදිකළ ඔවුන්ගේ පළමු සුඛෝපභෝගි හෝටලය වීම ද විශේෂත්වයකි.
+🟩
 
-ප්‍රධාන කුලුනු දෙකක් යා කරමින් අඩි 100ක් ඉහළ අහසේ ඉදි කෙරුණු අහස් පාලම මෙහි විශේෂත්වය වන අතර මෙරට එවැන්නක් ඉදි කෙරුණු පළමු වතාව මෙය වේ.
+"ITC Ratnadipa Colombo" President Ranil Wickremesinghe opened a short while ago by President Ranil Wickremesinghe.
+
+It is noteworthy that ITC Hotel Group in India is their first luxury hotel built outside India.
+
+This is the specialty of 100 feet high in the sky, connecting two main pillars, and this is the first time in the country.
 
 ◼️
 
 [Data](articles/0af137f4.json)
 
+[Extended Data](ext_articles/0af137f4.ext.json)
+
 ---
 
-### சட்டமூலத்தை சமர்ப்பித்தார் காஞ்சன
+### Kanchana submitted the Bill
 
 *2024-04-25 11:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-சமர்ப்பித்தார்-காஞ்சன/175-336309) · `ta`
 
-மின்சார சபை சீர்திருத்தங்களை உள்ளடக்கிய இலங்கை மின்சாரசபை சட்டமூலம் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகரவினால் சற்று நேரத்திற்கு முன்னர் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது.
+Kanchana submitted the Ceylon Electricity Board Bill, focusing on Electricity Board Reforms, to Parliament, promising to discuss it with MPs. It's the highest contribution to the private sector in power and energy.
 
-மின்சக்தி மற்றும் எரிசக்தி துறையில் தனியார் துறையின் அதிகப் பங்களிப்பை இந்த சட்டமூலம் வழங்குகிறது.
+🟩
 
-இந்தச் சட்டமூலம் தொடர்பில் பாராளுமன்றத்தில் உள்ள அனைத்து பாராளுமன்ற உறுப்பினர்களுடனும் கலந்துரையாடுவதற்கு தயாராக இருப்பதாக அமைச்சர் விஜேசேகர உறுதியளித்துள்ளார்.
+The Ceylon Electricity Board Bill, which includes the Electricity Board Reforms, was submitted to Parliament shortly before the Minister of Power and Energy Kanjana Wijeshekara.
+
+The Bill contributes the highest contribution to the private sector in the power and energy sector.
+
+Minister Wijesekera has promised to discuss the bill with all the Members of Parliament in Parliament.
 
 ◼️
 
 [Data](articles/6862507e.json)
 
+[Extended Data](ext_articles/6862507e.ext.json)
+
 ---
 
-### Super-luxury hotel ‘ITC Ratnadipa’ Colombo declared open
+### Super-luxury hotel ‘ITC Ratnadipa Colombo’ declared open
 
 *2024-04-25 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98832/super-luxury-hotel-itc-ratnadipa-colombo-declared-open) · `en`
 
-President Ranil Wickremesinghe declared open the super-luxury hotel ITC Ratnadipa Colombo which boasts Sri Lanka’s first ever sky bridge ‘AHASA ONE’ connecting two towers at a height of 100m above the ground.
+President Ranil Wickremesinghe declared open the super-luxury hotel ‘ITC Ratnadipa Colombo’ which boasts Sri Lanka’s first ever sky bridge ‘AHASA ONE’ connecting two towers at a height of 100m above the ground.
 
 ITC’s Hotel Group, one of India’s leading luxury hotel chains, is reported to have invested close to INR 3,000 crore in the luxury Sri Lankan property, which is being set up under a subsidiary WelcomHotels Lanka. The luxury hotel — ITC Ratnadipa in Colombo — reportedly features about 352 rooms.
 
@@ -76,37 +102,51 @@ ITC’s Hotel Group, one of India’s leading luxury hotel chains, is reported t
 
 [Data](articles/1cabc927.json)
 
+[Extended Data](ext_articles/1cabc927.ext.json)
+
 ---
 
-### ரணிலின் அறிவிப்புக்கு பின்னரே எமது ஜனாதிபதி வேட்பாளர் தொடர்பில் பகிரங்கப்படுத்தப்படும் - பசில் ராஜபக்ஷ
+### Basil Rajapaksa will be made public after Ranil's announcement
 
 *2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181915) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் ஜனாதிபதித் தேர்தலில் போட்டியிடுவார் என்ற உத்தியோகபூர்வ அறிவிப்புக்கு பின்னர் பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளரை அறிவிப்பதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகரும் முன்னாள் அமைச்சருமான பசில் ராஜபக்க்ஷ ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம்  தெரிவித்துள்ளார்.
+Basil Rajapaksa, Sri Lanka PA founder, informed President Ranil Wickremesinghe that Wickremesinghe will announce his presidential candidacy, with Rajapaksa highlighting the SLFP's role.
 
-கொழும்பில் உள்ள ஜனாதிபதியின் உத்தியோகபூர்வ இல்லத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும்  பசில் ராஜபக்க்ஷவுக்கும் இடையில் இடம்பெற்ற சந்திப்பின் போதே  இந்த விடயத்தை அறிவித்துள்ளார்.
+🟩
 
-நீதியமைச்சர் விஜயதாச ராஜபக்க்ஷ ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்பினர் என்ற ரீதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவர் பதவியை பொறுப்பேற்பது குறித்தும் இந்தச் சந்திப்பில் கலந்துரையாடப்பட்டதாகவும் கட்சி ஏற்கனவே நடவடிக்கை எடுக்க ஆரம்பித்துள்ளதாகவும் பசில் ராஜபக்க்ஷ ஜனாதிபதிக்கு தெரிவித்தார்.
+Basil Rajapaksa, the founder and former minister of the Sri Lanka PA, has told President Ranil Wickremesinghe that President Ranil Wickremesinghe will announce the presidential candidate after the official announcement that President Ranil Wickremesinghe will contest the upcoming presidential election.
+
+The matter was announced during a meeting between President Ranil Wickremesinghe and Basil Rajapaksa at the President's official residence in Colombo.
+
+Basil Rajapakse told the President that the party was in charge of the Sri Lanka Freedom Party (SLFP) as a member of the Sri Lanka Freedom Party (SLFP) as a member of the Sri Lanka Freedom Party (SLFP).
 
 ◼️
 
 [Data](articles/26d0bd72.json)
 
+[Extended Data](ext_articles/26d0bd72.ext.json)
+
 ---
 
-### உலக சந்தையில் மசகு எண்ணெய்யின் விலை குறைவடைந்தது!
+### The price of lubricant oil in the world market has declined!
 
 *2024-04-25 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181919) · `ta`
 
-உலக சந்தையில் மசகு எண்ணெய் விலையானது நேற்று புதன்கிழமை (24) குறைவடைந்து  87 டொலர் வரை பதிவாகியுள்ளது.
+Lubricant oil prices worldwide have dropped to $87, affecting Friend Lubricant Bippa to $87.92. Despite a monthly average of $90, stock increases have led to a decline.
 
-இதன்படி, பிரண்ட் மசகு எண்ணெய் பீப்பா ஒன்றின் விலை 87.92 டொலராக பதிவாகியுள்ளது.
+🟩
 
-கடந்த ஒரு மாதத்தை கருத்தில் கொண்டு உலக சந்தையில் மசகு எண்ணெய் விலை  தொடர்ந்து 90 டொலர் வரை காணப்பட்டதோடு , பங்குகள் அதிகரிப்பின் காரணமாக உலக சந்தையில் மசகு எண்ணெயின் விலை குறைவடைந்துள்ளது.
+The price of lubricant in the world market fell yesterday (24) to $ 87.
+
+Accordingly, the price of a Friend Lubricant Bippa has been recorded at $ 87.92.
+
+Considering the last one month, lubricant prices in the world market have continued to be up to $ 90, and the price of lubricant oil in the world market has fallen due to the increase in stocks.
 
 ◼️
 
 [Data](articles/706f0a8d.json)
+
+[Extended Data](ext_articles/706f0a8d.ext.json)
 
 ---
 
@@ -196,25 +236,33 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 
 ---
 
-### பால் மா விலை குறித்து இறக்குமதியாளர்கள் சங்கம் விளக்கம்
+### Importers Association Explanation on the price of milk mango
 
 *2024-04-25 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/181913) · `ta`
 
-இறக்குமதி செய்யப்படும் பால் மாவின் விலையை குறைப்பது தொடர்பில் இன்னும் இறுதித் தீர்மானம் எடுக்கப்படவில்லை என இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+The Importers Association hasn't decided on reducing milk flour prices yet. Asoka Bandara, spokesperson for the Paul Maa Importers Association, confirmed no official meeting has been held. In March, milk prices were reduced, affecting milk mango prices in the local market. The importation of milk from New Zealand was re-priced from Rs 250 to Rs 150 for a kilogram and from Rs 100 to Rs 60 for 400 grams, but the Milk Maa Importers Association denied involvement in the report.
 
-இது தொடர்பான உத்தியோகபூர்வ கூட்டம் இதுவரையில் நடத்தப்படவில்லை என பால் மா இறக்குமதியாளர்கள் சங்கத்தின் ஊடகப் பேச்சாளர் அசோக பண்டார தெரிவித்துள்ளார்.
+🟩
 
-மார்ச் மாதத்தில்  ஒரு கிலோ பால் மா பக்கற்றின் விலை 150 ரூபாவாலும்,  400 கிராம் பால் மா பக்கற்றின் விலை 60 ரூபாவாலும் இறக்குமதியாளர்கள் குறைத்தனர்.
+The Importers Association has said that the final decision has not yet been made regarding the reduction of the prices of imported milk flour.
 
-விலை குறைப்பை தொடர்ந்து, இறக்குமதி செய்யப்பட்ட பால் மா பக்கற்றுக்கள் உள்ளூர் சந்தையில் பல்வேறு விலைகளில் விற்பனை செய்யப்படுகிறது.
+Asoka Bandara, media spokesman for the Paul Maa Importers Association, said that the official meeting has not been held yet.
 
-இந்நிலையில், இன்று வியாழக்கிழமை (25) முதல் மீண்டும் விலையை குறைப்பதற்கு நியூசிலாந்தில் இருந்து பால் மாவை இறக்குமதி செய்யும் நிறுவனம் புதன்கிழமை (24) தெரிவித்துள்ளது.
+In March, the importers reduced the price of a kilogram of milk at Rs 150 and 400 grams of milk at 60 rupees.
 
-அதன்படி, ஒரு கிலோ பால் மா பக்கற்றின் விலை 250 ரூபாவாலும்,  400 கிராம் பால் மா பக்கற்றின் விலை 100 முதல் 140 ரூபாவாலும் குறைக்கப்படும் என்று கூறப்பட்டது.
+Following the reduction in prices, imported milk mangoes are sold at various prices in the local market.
 
-...
+In this case, the importation of milk from New Zealand to re -prices from Thursday (25) from Thursday (24) said on Wednesday.
+
+Accordingly, the price of a kilogram of milk will be reduced by 250 rupees and 400 grams of milk will be reduced by 100 to 140 rupees.
+
+However, the Milk Maa Importers Association has urged them that it has nothing to do with the report.
+
+◼️
 
 [Data](articles/af8562ec.json)
+
+[Extended Data](ext_articles/af8562ec.ext.json)
 
 ---
 
@@ -224,9 +272,15 @@ Minister Wijesekera assured that he is willing to discuss the Bill with all MPs 
 
 The ‘Sri Lanka Electricity Bill’, which incorporates the proposed reforms for the electricity sector, was presented to the parliament by Power & Energy Minister Kanchana Wijesekera on Thursday (25).
 
-It was published in the government gazette on 17 April (Wednesday).
+The Bill seeks to provide for the establishment of the National Electricity Advisory Council and make the Public Utilities Commission of Sri Lanka (PUCSL) the regulator for the electricity industry in terms of the proposed legislation.
 
-◼️
+Further, it seeks to provide legislative measures applicable to the incorporation of corporate entities, in which all activities connected to the generation, transmission, distribution, trade, supply and procurement of electricity are vested.
+
+In addition, the Bill also provides for the repealing of the Ceylon Electricity Board Act, No.17 of 1969 and the Sri Lanka Electricity Act, No.20 of 2009.
+
+Last week, Minister Wijesekera said that the amendments suggested by the industry stakeholders in January were also drafted in to the Bill.
+
+...
 
 [Data](articles/1ec4c300.json)
 
@@ -274,21 +328,49 @@ The government allocated Rs. 110 for each child, with additional funds coming fr
 
 ---
 
-### සාපෙළ උපකාරක පංති 30දායින් අවසන්
+### Sri Lanka rupee opens stronger at 297.10/20 to US dollar
+
+*2024-04-25 10:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-297-10-20-to-us-dollar-159953/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 297.10/20 to the US dollar on Thursday after closing at 297.95/298.10 on Wednesday, dealers said.
+
+A bond maturing on 15.12.2026 was quoted down at 11.30/34 percent from 11.30/40 percent
+
+A bond maturing on 15.09.2027 was quoted down at 11.80/85 percent from 11.90/95 percent.
+
+A bond maturing on 15.03.2028 was quoted at 12.10/15 percent.
+
+A bond maturing on 15.12.2028 was quoted flat at 12.15/25 percent.
+
+The Colombo Stock Exchange was up; The All Share Price Index was up 0.05 percent at 11,911, the S&P SL20 was up 0.22 percent at 3,502. (Colombo/Apr25/2024)
+
+◼️
+
+[Data](articles/33c109d1.json)
+
+---
+
+### Certain Breid Couples 30 Gentines
 
 *2024-04-25 10:38:39* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-උපකාරක-පංති-30දායින්-අවසන්/11-409252) · `si`
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන උපකාරක පංති, සම්මන්ත්‍රණ පැවැත්වීම ලබන 30 වැනිදා මධ්‍යම රාත්‍රී සිට අත්හිටුවන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+Breid Couples 30 Gentines: Tuition, seminars, workshops suspended from midnight 30th. Strong action against law violations. GCE Ordinary Level Examination 6th-15th May.
 
-ඒ අනුව එදින මධ්‍යම රාත්‍රී 12.00 සිට උපකාරක පංති, සම්මන්ත්‍රණ, වැඩමුළු ආදී විභාගය ඉලක්ක කරගනිමින් සිදුකෙරෙන කටයුතු අත්හිටවනු ඇති බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+🟩
 
-එම නීති උල්ලංඝනය කරන පුද්ගලයින් සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ග ගැනීමට ද නියමිතය.
+The Department of Examinations says that the tuition classes and seminars will be suspended from midnight on the 30th of this month.
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මැයි 06 සිට 15 වන දින දක්වා පැවැත්විමට සැලසුම් කර තිබේ.
+According to a spokesperson that will be suspended from 12.00 midnight towards tuition classes, seminars and workshops.
+
+Strong action will be taken to violate those laws.
+
+The GCE Ordinary Level Examination is scheduled to be held from 6th to 15th May.
 
 ◼️
 
 [Data](articles/97fe50bb.json)
+
+[Extended Data](ext_articles/97fe50bb.ext.json)
 
 ---
 
@@ -529,6 +611,32 @@ The Spanish prime minister said he would make a decision on his future before th
 [Data](articles/3cf0fd5b.json)
 
 [Extended Data](ext_articles/3cf0fd5b.ext.json)
+
+---
+
+### Sri Lanka worker migration, passport issues, begin to decline
+
+*2024-04-25 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-worker-migration-passport-issues-begin-to-decline-159947/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s departures for foreign employment has declined for five straight months, while new passport issues have declined for seven, official data shows.
+
+Departures for foreign employment in August 2022 was 26,394, down from 29,186 in 2022. In September departures fell from 30,104 in 2022 to 25,311, Foreign Employment Bureau data quoted by the central bank shows.
+
+In 2022, 92,880 passports were issued in June, 100,396 in July and 115,403 in August.
+
+In 2023, 88,308 passports were issued in June, 76,071 in July and 87,433 in August.
+
+In December 2023, 53,431 passports were issued, down from 69,920 in 2022.
+
+Meanwhile, total departures of Sri Lankans from the country for all purposes continued to increase.
+
+This may be due to a gradual recovery in incomes leading to a recovery in outward tourism.
+
+Advertisements for outbound travel including for pilgrimages to India (Dambadiva charika) have started to appear in Sri Lankan media amid monetary stability.
+
+...
+
+[Data](articles/8e43b7b3.json)
 
 ---
 
@@ -1804,6 +1912,32 @@ He called for independent and transparent investigations into the deaths, saying
 
 ---
 
+### No company has come forward to offer Sri Lanka female prisoners paid work: Official
+
+*2024-04-24 23:34:00* · [`economynextcom`](https://economynext.com/no-company-has-come-forward-to-offer-sri-lanka-female-prisoners-paid-work-official-159940/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s female prisoners have so far not got an opportunity to work for private companies unlike their male counterparts, Prison Spokesman Gamini Dissanayake said.
+
+“There are only 208 convicted female prisoners and so far, no company has offered to use their labor,” Dissanayake told EconomyNext.
+
+“However, if there are companies that are willing to hire these females, they will gain employment.”
+
+Female prisoners are given sewing and weaving as part of a training program, and they are given a small allowance.
+
+However, groups of male prisoners have been given work by some private companies for which they are paid 1024 rupees a day.
+
+The prisoners are given 640 which they put in a savings account at National Savings Bank.
+
+Male prisoners get a daily wage of 1180 for work done and 1024 in they work out of prison.
+
+A catering company and a company involved in assembling air conditioning parts are the latest private firms to offer work, he said.
+
+...
+
+[Data](articles/8a4d6f7c.json)
+
+---
+
 ### A family affair, indeed…
 
 *2024-04-24 23:05:00* · [`islandlk`](http://island.lk/a-family-affair-indeed/) · `en`
@@ -2091,79 +2225,5 @@ Since then, five Memorandum of Understanding (MoU) have been signed between Iran
 [Data](articles/2ab08778.json)
 
 [Extended Data](ext_articles/2ab08778.ext.json)
-
----
-
-### Iranian president meets with Sri Lankan president
-
-*2024-04-24 21:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Iranian-president-meets-with-Sri-Lankan-president/110-281298) · `en`
-
-The Iranian President, Dr. Ebrahim Raisi, and President Ranil Wickremesinghe held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat this eveining. Pix by President Media
-
-◼️
-
-[Data](articles/8e0e3f9f.json)
-
-[Extended Data](ext_articles/8e0e3f9f.ext.json)
-
----
-
-### Main man behind Sri Lanka – Malaysia child smuggling syndicate arrested at BIA
-
-*2024-04-24 21:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-man-behind-Sri-Lanka-Malaysia-child-smuggling-syndicate-arrested-at-BIA/108-281299) · `en`
-
-Colombo, April 24 (daily Mirror)- The chief local facilitator behind the organised child smuggling syndicate between Sri Lanka and Malaysia, which rocked the country with 17 child smuggling cases last year, was arrested by the Department of Immigration and Emigration at the Bandaranaike International Airport (BIA), when he was deported from Malaysia today.
-
-Making a breakthrough in a year-long probe by the Sri Lanka border agency, the chief local facilitator was caught in the act of transporting a 14-year-old boy with his father by the Malaysian Immigration Department last Monday, when the trio left BIA for Kuala Lumpur.
-
-A top Immigration official told the Daily Mirror their investigation division officials tracked down the main local facilitator of the syndicate a few months ago and had been closely monitoring his actions to determine his next move.
-
-...
-
-[Data](articles/903f2184.json)
-
-[Extended Data](ext_articles/903f2184.ext.json)
-
----
-
-### Heavy traffic in Colombo due to temporary road closure
-
-*2024-04-24 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98823/heavy-traffic-in-colombo-due-to-temporary-road-closure) · `en`
-
-Heavy traffic is reported in parts of Colombo as multiple roads remain closed due to the arrival of Iranian President Dr. Ebrahim Raisi.
-
-Security was beefed up in Sri Lanka for the arrival of the President of the Islamic Republic of Iran, with multiple roads including the Galle Road, Colombo-Katunayake expressway, and the main road from Mattala to Uma Oya being off-limits for traffic.
-
-Vehicular movement around Colombo – Orugodawatta, Dematagoda, Borella, D.S. Senanayake Mawatha, Horton Place, Green Path, Ananda Coomaraswamy Mawatha, Liberty Junction, St. Anthony’s Road, Galle Road, Galle Face, and Lotus Road – was restricted this evening, causing traffic congestion amidst the downpours.
-
-Earlier this evening, the Iranian leader was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry at Galle Face Green.
-
-...
-
-[Data](articles/36410129.json)
-
-[Extended Data](ext_articles/36410129.ext.json)
-
----
-
-### Heavy traffic reported in Colombo due to road closures
-
-*2024-04-24 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98823/heavy-traffic-reported-in-colombo-due-to-road-closures) · `en`
-
-Heavy traffic is reported in parts of Colombo as multiple roads remain closed due to the arrival of Iranian President Dr. Ebrahim Raisi.
-
-Earlier this evening, the President of the Islamic Republic of Iran was ceremonially welcomed by his Sri Lankan counterpart along with a guard of honour and other pageantry at Galle Face Green.
-
-Subsequently, the two leaders held one-on-one discussions, followed by a bilateral meeting between representatives of both nations at the Presidential Secretariat.
-
-Dr. Ebrahim Raisi arrived in Sri Lanka this morning (24) via Mattala International Airport at a special invitation extended by President Wickremasinghe, marking the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-During his one-day official visit, President Raisi participated in a public ceremony to inaugurate the USD 514-million Uma Oya Multipurpose Development Project (UOMDP).
-
-...
-
-[Data](articles/a646e646.json)
-
-[Extended Data](ext_articles/a646e646.ext.json)
 
 ---

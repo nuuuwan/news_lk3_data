@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 00:33:50**
+As of **2024-04-26 00:49:27**
 
 ## Newspaper Stats
 
-*Scraped **20,997** Articles*
+*Scraped **21,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,132
-dailyftlk | 1,173
+dailyftlk | 1,179
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,997 (100.0%) of 20,997 articles have been extended.
+20,997 (100.0%) of 21,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Elephant House Sausages takes legendary Sri Lankan taste to Australia
+
+*2024-04-26 00:17:51* · [`dailyftlk`](https://www.ft.lk/business/Elephant-House-Sausages-takes-legendary-Sri-Lankan-taste-to-Australia/34-761038) · `en`
+
+Now consumers can look forward to a culinary adventure unlike any other, with Elephant house products being made available at all key Australian cities in the near future as well as being an integral part within the sizable Sri Lankan origin community in Australia
+
+Keells Food Products PLC, has announced the launch of Elephant House range of Sausages to the vibrant culinary landscape of Australia through an esteemed partnership with Millennium Imports Ltd., a leading importer and distributor of premium food products.
+
+This partnership is a first for both Elephant House, the iconic Sri Lankan household brand renowned for its premium products and unparalleled taste and Millennium Imports as this range is being fully manufactured in Australia with 95% of the raw materials being sources from the continent itself.
+
+...
+
+[Data](articles/ee5145b3.json)
+
+---
 
 ### Inaugural CPA Australia Appreciation Event
 
@@ -51,6 +67,54 @@ It was an opportune moment for CPA Australia to appreciate the support from the 
 ---
 
 ### 2024-04-25 (Thursday)
+
+### Prime Residencies breaks ground and launches Phase II of ‘The Colombo Border’
+
+*2024-04-25 23:59:24* · [`dailyftlk`](https://www.ft.lk/business/Prime-Residencies-breaks-ground-and-launches-Phase-II-of-The-Colombo-Border/34-761036) · `en`
+
+Prime Lands Residencies PLC, Sri Lanka’s leading real estate developer, said it has achieved a significant milestone with the ground-breaking ceremony of ‘The Colombo Border,’ a landmark project poised to redefine urban living.
+
+With Phase I of the project nearly sold out, the company is now launching Phase II, coinciding with the commencement of construction. Piling work has been undertaken by San Piling, a reputed name in the construction industry, signifying the project’s steady progress towards completion.
+
+...
+
+[Data](articles/edc75602.json)
+
+---
+
+### CEAT’s 7th premium ‘SIS’ outlet in Sri Lanka opens in Kurunegala
+
+*2024-04-25 23:57:02* · [`dailyftlk`](https://www.ft.lk/business/CEAT-s-7th-premium-SIS-outlet-in-Sri-Lanka-opens-in-Kurunegala/34-761035) · `en`
+
+Kurunegala has become the latest location to receive the CEAT premium retail experience with the opening of a new-concept Shop-in-Shop (SIS) outlet in this busy north-western metropolis by CEAT Kelani Holdings, Sri Lanka’s leading pneumatic tyre manufacturer.
+
+The seventh CEAT SIS outlet to be opened in Sri Lanka, the new outlet is located at Rohana Enterprises Kurunegala Ltd., at No. 288C, Negombo Road, Kurunegala.
+
+Part of a three-year distribution channel expansion strategy by Sri Lanka’s most-used tyre brand, the CEAT Shop-in-Shop concept is designed to drive brand premiumisation and enhance customer experience, and entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises.
+
+...
+
+[Data](articles/fed193b8.json)
+
+---
+
+### KPIs in R&D institutes: Defining success path for R&D performance in commercial agriculture
+
+*2024-04-25 23:50:55* · [`dailyftlk`](https://www.ft.lk/opinion/KPIs-in-R-D-institutes-Defining-success-path-for-R-D-performance-in-commercial-agriculture/14-761034) · `en`
+
+Key performance indicators (KPIs) are the key measures used by organisations to track the success of an organisational interest
+
+KPIs look after the organisation’s growth by revealing its strengths, weaknesses, and sustainability
+
+Organisational leadership designs and establishes KPIs and interprets data gathered through them to make decisions on the success factors of an organisation
+
+This article draws on R&D performance that is measured through KPIs and how those KPI data are used to generate insights for promoting innovations in the commercial agriculture sector in Sri Lanka
+
+...
+
+[Data](articles/68d531cc.json)
+
+---
 
 ### Bangalore won by 35 runs
 
@@ -81,6 +145,32 @@ Virat Kohli and Rajad Patidar then shared 65 runs off 34 balls in the 3rd wicket
 [Data](articles/0b3ee248.json)
 
 [Extended Data](ext_articles/0b3ee248.ext.json)
+
+---
+
+### Revival of Premadasaism: The way forward for Sri Lanka
+
+*2024-04-25 23:41:34* · [`dailyftlk`](https://www.ft.lk/columns/Revival-of-Premadasaism-The-way-forward-for-Sri-Lanka/4-761032) · `en`
+
+Truly cultured men and women have the capacity to be thankful for the progressive measures taken by Ranasinghe Premadasa. He was a true embodiment of Social Democracy, governing the entire social, political, cultural, and moral order. He was not a mere propagator of a Social Market Economy, when he took over leadership from a right wing, J.R. Jayewardene led UNP that tried to dislodge Deputy Leader Premadasa from his well-earned Presidential candidature in 1989. The same right-wing forces in the UNP, tried to impeach him together with Feudalist sympathisers, who lost all their social status due to Premadasaism
+
+I was socialised in my childhood, by an ardent Samasamajist, LSSP, father, in Moratuwa. However, I became disillusioned in my youth, as I witnessed the ground level actions of the Samasamaja Party, working with Feudalists, who pretended to be Progressive.
+
+...
+
+[Data](articles/936a48b8.json)
+
+---
+
+### Cardinal Ranjith the new political messiah
+
+*2024-04-25 23:35:50* · [`dailyftlk`](https://www.ft.lk/columns/Cardinal-Ranjith-the-new-political-messiah/4-761031) · `en`
+
+With about six months to go for a Presidential election, Cardinal Ranjith who was criticised some time ago for discretely running a campaign to support ex-President Gotabaya Rajapaksa, came out all guns blazing to blast both ex-President Gotabaya and current President Ranil Wickremesinghe. They were taken to the cleaners by Cardinal Malcolm Ranjith in a hard hitting homily to mark the fifth anniversary of the Easter Sunday bombings that killed more than 250 worshippers on 21 April 2019.
+
+...
+
+[Data](articles/1d074e47.json)
 
 ---
 
@@ -2149,139 +2239,5 @@ Mr. R-Sampanthan is 91 and is now ill.
 [Data](articles/6ca270c9.json)
 
 [Extended Data](ext_articles/6ca270c9.ext.json)
-
----
-
-### Unions threaten to “defeat” Sri Lanka electricity reforms bill outside parliament
-
-*2024-04-25 13:30:00* · [`economynextcom`](https://economynext.com/unions-threaten-to-defeat-sri-lanka-electricity-reforms-bill-outside-parliament-160035/) · `en`
-
-ECONOMYNEXT — Trade unions representing Sri Lanka’s state-run Ceylon Electricity Board (CEB) have threatened to defeat a new electricity reform bill even if it is passed in parliament.
-
-Trade unions held a demonstration against the bill Thursday April 25 near the parliament complex. Parallel protests were also organised in Galle, Tangalle and Hambantota.
-
-General Secretary of the Ceylon Electrical Workers Union Ranjan Jayalal told reporters at the demonstration that
-
-“This is bill that offers no benefits to CEB workers or to seven million CEB consumers but proposes to split the CEB  to a number of companies and offer them to foreign companies. Even if it is passed, we will defeat it outside parliament,” said Jayalal.
-
-...
-
-[Data](articles/bf3802b3.json)
-
-[Extended Data](ext_articles/bf3802b3.ext.json)
-
----
-
-### Responding to former President Gotabhaya
-
-*2024-04-25 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195958) · `si`
-
-Former President Gotabhaya Rajapakse responds to allegations by Cardinal Ranjith, addressing charges related to the Easter attack investigation. He denies involvement in the Presidential Commission's report and the appointment of a ministerial cabinet to investigate the attack. Rajapakse also refutes accusations of sabotaging the investigation and criticizes the handling of the case by law enforcement.
-
-🟩
-
-Former President Gotabhaya Rajapakse has issued a special announcement for the allegations made by the Largest Malcolm Cardinal Ranjith in a celebration of the Easter attack on the loss of 5 years.
-
-The relevant announcement has been issued quoted by citing 4 major charges launched by Cardinal.
-
-The Five Years of Celebrations to mark the suicide bombing bombing of the Easter
-
-• When I received the report of the Presidential Investigation Commission on the Past Sunday, he telephoned the Cardinal Harbage and to enforce the recommendations in the report, so he would have to implement the recommendations.That I am informed to.
-
-Q: I delay a copy of the first volume of the Presidential Commission's Report and that the remaining volumes were delayed.
-
-• It has been a six ministerial cabinet subdivision to be selected only to look into the Passover committees and commissions.
-
-...
-
-[Data](articles/7fe0d563.json)
-
-[Extended Data](ext_articles/7fe0d563.ext.json)
-
----
-
-### Toping delegation from the Chinese Communist Party meets Opposition Leader
-
-*2024-04-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195957) · `si`
-
-A Chinese Communist Party delegation met with Sri Lanka's Opposition Leader Sajith Premadasa, discussing economic development models and entrepreneurial challenges.
-
-🟩
-
-A meeting of the heads of the Chinese Communist Party International Relations Department of International Relations Meeting was a member of the Opposition Leader Sajith Premadasa at the Opposition Leader's office last evening.
-
-The unique discussion between the two parties was limited for about an hour and a private discussion between the Deputy Leader of the Central Committee of the Communist Party and the Vice Minister of the Communist Party.
-
-The two sides exchanged views between Sri Lanka and China and China and China and China.
-
-The two sides exchanged views between the two parties to replace China's Economic Development model in Sri Lanka.
-
-Opposition Leader Sajith Premadasa also requested that the heads of the Chinese Communist Party members of the Communist Party members of the Communist Party of the Department of Communist Party to restore the economy of the country.
-
-...
-
-[Data](articles/c4df9b47.json)
-
-[Extended Data](ext_articles/c4df9b47.ext.json)
-
----
-
-### Easter attacks: Gotabaya categorically denies allegations made by Cardinal
-
-*2024-04-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98835/easter-attacks-gotabaya-categorically-denies-allegations-made-by-cardinal) · `en`
-
-Former President Gotabaya Rajapaksa has vehemently refuted the allegations recently levelled at him by His Eminence Malcolm Cardinal Ranjith concerning the 2019 Easter Sunday terror attacks.
-
-In a statement, Rajapaksa addressed four such allegations made by the Cardinal at an event held to mark the 5th anniversary of the carnage that claimed the lives of more than 250 people and left hundreds of others wounded.
-
-◼️
-
-[Data](articles/819d1fac.json)
-
-[Extended Data](ext_articles/819d1fac.ext.json)
-
----
-
-### Easter attacks: Gotabaya responds to allegations made by Cardinal Ranjith
-
-*2024-04-25 13:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98835/easter-attacks-gotabaya-responds-to-allegations-made-by-cardinalranjith) · `en`
-
-Former President Gotabaya Rajapaksa on Thursday (25) vehemently refuted the allegations recently levelled at him by His Eminence Malcolm Cardinal Ranjith concerning the 2019 Easter Sunday terror attacks.
-
-In a statement, Rajapaksa addressed four such allegations made by the Cardinal at an event held to mark the 5th anniversary of the carnage that claimed the lives of more than 250 people and left hundreds of others wounded.
-
-Responding to the first allegation, the former president said: “I categorically state that I did NOT speak to the Cardinal over the phone after the Presidential Commission report was submitted to me and tell him that the recommendations of the Presidential Commission could not be implemented because that would entail the arrest of people and even the banning of organisations allied with me.”
-
-...
-
-[Data](articles/bb0aca05.json)
-
-[Extended Data](ext_articles/bb0aca05.ext.json)
-
----
-
-### Don't go to a struggle again ... - President
-
-*2024-04-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195956) · `si`
-
-President Ranil Wickremesinghe urged the public to restore the country, highlighting the ITC Ratnadipa Hotel's role in economic stability. The hotel, built by the ITC Hotel Group in India, is the first luxury hotel outside India, featuring a unique 100-foot high structure.
-
-🟩
-
-President Ranil Wickremesinghe has requested the public to arranged the country to restore the country.
-
-The President was speaking at the opening ceremony of the 'ITC Ratnadipa' Antiomple Hotel in Colombo today.
-
-"Two years ago, there was a great protest. There was a struggle here. Was rounded around. Today, there is a big hole. ITC, hotel is the ratnaadipa here. Struck stability in two years. Gave the economy in two years. We're going on there. Getting the mess here, we're working to build a new economy instead. Never go back to struggle. Their economy will go back. There is no need for a volatility. Let's go forward from here to make a better secret. "
-
-ITC Hotel Group in India built their first Luxury Hotel outside India and named itc ratnaadipa colombo.
-
-This is the specialty of 100 feet high in the sky, connecting two main pillars, and this is the first time in the country.
-
-◼️
-
-[Data](articles/6b620a0b.json)
-
-[Extended Data](ext_articles/6b620a0b.ext.json)
 
 ---

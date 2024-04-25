@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 23:53:02**
+As of **2024-04-26 00:03:57**
 
 ## Newspaper Stats
 
-*Scraped **20,995** Articles*
+*Scraped **20,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,425
 adaderanalk | 2,500
-virakesarilk | 3,166
+virakesarilk | 3,167
 dailymirrorlk | 3,271
 adaderanasinhalalk | 3,388
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,995 (100.0%) of 20,995 articles have been extended.
+20,995 (100.0%) of 20,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### ஹைதராபாத்தை அதிரவைத்து 35 ஓட்டங்களால் வென்றது பெங்களூரு
+
+*2024-04-25 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181980) · `ta`
+
+ஹைதராபாத், ரஜீவ் காந்தி சர்வதேச விளையாட்டரங்கில் வியாழக்கிழமை (25) நடைபெற்ற இந்த வருடத்திற்கான இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 41ஆவது போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத்தை 35 ஓட்டங்களால் றோயல் செலஞ்சர்ஸ் பெங்களூரு வெற்றிகொண்டது.
+
+சன்ரைசர்ஸ் ஹைதராபாத்திற்கு இந்தத் தோல்வி பெரும்  ஏமாற்றத்தைக் கொடுத்த அதேவேளை, கடைநிலையில் இருக்கும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணிக்கு இந்த வெற்றி ஆறுதலைக் கொடுத்தது.
+
+விராத் கோஹ்லி, ரஜாத் பட்டிடார் ஆகியோர் குவித்த அரைச் சதங்களும் கெமரன் க்றீனின் சகலதுறை ஆட்டமும் றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியின் வெற்றிக்கு வழிவகுத்தன.
+
+எவ்வாறாயினும் இந்த தோல்விக்கு மத்தியிலும் சன்ரைசர்ஸ் ஹைதாராபத் 10 புள்ளிகளுடன் தொடர்ந்தும் 3ஆம் இடத்தில் இருக்கிறது. றோயல் செலஞ்சர்ஸ் பெங்களூரு 4 புள்ளிகளுடன் கடைசி இடத்தில் இருக்கிறது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு  20 ஓவர்களில் 7 விக்கெட்களை இழந்து 206 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/0b3ee248.json)
+
+---
 
 ### Women's T20 World Cup Qualification: Thailand's minor challenge
 
@@ -2257,27 +2277,5 @@ Proper diplomatic relations between Iran and Sri Lanka started in 1962. Relation
 [Data](articles/83d8946a.json)
 
 [Extended Data](ext_articles/83d8946a.ext.json)
-
----
-
-### Indian Ocean region to benefit from Iran-Sri Lanka cooperation: Raisi
-
-*2024-04-25 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98834/indian-ocean-region-to-benefit-from-iran-sri-lanka-cooperation-raisi) · `en`
-
-President Ebrahim Raisi has stated improved relations between Iran and Sri Lanka in various fields would benefit the two countries and the Indian Ocean region.
-
-Raisi made the remarks in a joint press conference with Sri Lankan President Ranil Wickremesinghe in the Island nation’s capital of Colombo on Wednesday.
-
-He said that Iran is ready to supply technical and engineering services to Sri Lanka to help the country boost its economic and industrial infrastructure.
-
-The president made the comments hours after he opened a large hydroelectric project in Badulla, located some 230 kilometers to the east of Colombo. The Uma Oya Multipurpose Development Project, which is worth over $500 million, has been largely designed and built by Iranian companies to help Sri Lanka overcome its electricity and irrigation problems.
-
-He stated Iran had progressed in various fields of technology over the past years despite being subject to a harsh regime of foreign sanctions.
-
-...
-
-[Data](articles/f0178659.json)
-
-[Extended Data](ext_articles/f0178659.ext.json)
 
 ---

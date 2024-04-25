@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 05:18:31**
+As of **2024-04-25 05:38:20**
 
 ## Newspaper Stats
 
-*Scraped **20,783** Articles*
+*Scraped **20,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 217
 dbsjeyarajcom | 223
 newsfirstlk | 363
 islandlk | 1,118
-dailyftlk | 1,160
+dailyftlk | 1,164
 economynextcom | 1,180
 adalk | 1,731
 tamilmirrorlk | 2,407
@@ -26,11 +26,69 @@ adaderanasinhalalk | 3,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,774 (100.0%) of 20,783 articles have been extended.
+20,783 (100.0%) of 20,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
+
+### International Industry Expo 2024 in June
+
+*2024-04-25 05:13:27* · [`dailyftlk`](https://www.ft.lk/news/International-Industry-Expo-2024-in-June/56-761003) · `en`
+
+In anticipation of the upcoming industry exhibition, the “International Industry Expo 2024”, excitement is building as less than two months are left until the exciting event unfolds. Recognised as the largest South Asian industry exhibition of the year covering a wide range of industries, International Industry Expo 2024 is poised to bring together diverse participants from all over the country under one roof at the Bandaranaike Memorial International Conference Hall (BMICH) from 19 to 23 June 2024.
+
+With over 1,300 exhibition stalls representing 25 industrial sectors, the exhibition offers a rich tapestry of experiences designed to inspire, educate, and facilitate vibrant displays of cutting-edge technology, interactive demos, and meaningful connections directly with manufacturers.
+
+...
+
+[Data](articles/f9af1e45.json)
+
+---
+
+### Moragoda designated as Honorary Senior Fellow of National University of Singapore’s ISAS
+
+*2024-04-25 05:11:14* · [`dailyftlk`](https://www.ft.lk/news/Moragoda-designated-as-Honorary-Senior-Fellow-of-National-University-of-Singapore-s-ISAS/56-761002) · `en`
+
+In continuation of his association with the National University of Singapore’s Institute of South Asian Studies (ISAS), Former Cabinet Minister, Ambassador and Founder of the Pathfinder Foundation, Milinda Moragoda, has been recently designated as an Honorary Senior Fellow by the institution.
+
+The ISAS was established in 2004 as an autonomous research institute at the National University of Singapore. Its establishment reflects the increasing economic and political importance of South Asia and the strong historical links between South Asia and Southeast Asia. The institution, dedicated to research on contemporary South Asia, seeks to promote understanding of this vital region and to communicate knowledge and insights about it to policy makers, the business community, academia, and civil society in Singapore and beyond.
+
+◼️
+
+[Data](articles/34175bfe.json)
+
+---
+
+### Imported milk powder gets cheaper
+
+*2024-04-25 05:10:03* · [`dailyftlk`](https://www.ft.lk/news/Imported-milk-powder-gets-cheaper/56-761001) · `en`
+
+The price of imported milk powder will be reduced with effect from today according to the Milk Powder Importers’ Association.
+
+It said the price of a 01 kilogram pack of imported milk powder will drop by Rs. 250 while the price of 250 grams pack will be slashed by Rs. 100.
+
+◼️
+
+[Data](articles/8cabf42b.json)
+
+---
+
+### Bridging perspectives and inspiring change – SLMUN 17th session
+
+*2024-04-25 05:09:27* · [`dailyftlk`](https://www.ft.lk/news/Bridging-perspectives-and-inspiring-change-SLMUN-17th-session/56-761000) · `en`
+
+Amidst the turmoil and multifaceted challenges with which the world grapples, the youth of Sri Lanka gear up to participate in the 17th session of the Sri Lanka Model United Nations (SLMUN) Conference, scheduled to be held on 17 and 18 August at the Bandaranaike Memorial International Conference Hall.
+
+At SLMUN, delegates are tasked with assuming the roles of diplomats to represent various nations, navigate complex geopolitical scenarios, and formulate resolutions that reflect a collaborative effort towards resolving pressing global issues.
+
+In addition to the traditional committees such as the World Health Assembly and the 3rd General Assembly, the upcoming session will also feature the Union for the Mediterranean, the Commission on the Status of Women, the World Anti-Doping Agency, Aztec Empire, and the Arctic Council.
+
+...
+
+[Data](articles/f64673ec.json)
+
+---
 
 ### BOI felicitates Brandix as Outstanding Exporter
 
@@ -48,6 +106,8 @@ Brandix Group Managing Director Hasitha Premaratne received the award from Presi
 
 [Data](articles/32144c5a.json)
 
+[Extended Data](ext_articles/32144c5a.ext.json)
+
 ---
 
 ### Chamber of Marine Industries of Sri Lanka signs MoU with Singapore Boating Industry Association
@@ -64,6 +124,8 @@ The signing was done by Marine Industries Chamber of Sri Lanka Chairman and Sri 
 
 [Data](articles/5a9896a9.json)
 
+[Extended Data](ext_articles/5a9896a9.ext.json)
+
 ---
 
 ### Nawaloka Hospitals wins Merit award at Best Management Practices Company Awards 2024
@@ -77,6 +139,8 @@ The Best Management Practices Company Awards, organised annually by the Institut
 ...
 
 [Data](articles/9cac0868.json)
+
+[Extended Data](ext_articles/9cac0868.ext.json)
 
 ---
 
@@ -93,6 +157,8 @@ Omega Line CEO/Managing Director Felix A. Fernando, and Paola Fava, Omega Line �
 ...
 
 [Data](articles/f9e7fcd1.json)
+
+[Extended Data](ext_articles/f9e7fcd1.ext.json)
 
 ---
 
@@ -116,6 +182,8 @@ The communique was in response to a letter sent by Jayatissa on Monday, requesti
 
 [Data](articles/3065e894.json)
 
+[Extended Data](ext_articles/3065e894.ext.json)
+
 ---
 
 ### Tilvin expresses doubts on Premadasa’s participation in public debate
@@ -137,6 +205,8 @@ While the SJB has sought a meeting with the NPP this week to iron out the debate
 ...
 
 [Data](articles/0710eb45.json)
+
+[Extended Data](ext_articles/0710eb45.ext.json)
 
 ---
 
@@ -160,6 +230,8 @@ Additionally, Jayasundara highlighted that the Executive Committee convened on 2
 
 [Data](articles/0fe6a459.json)
 
+[Extended Data](ext_articles/0fe6a459.ext.json)
+
 ---
 
 ### Pakistan High Commission mourns demise of Ifthikar Aziz
@@ -177,6 +249,8 @@ Pakistan High Commissioner Maj. Gen. Faheem Ul Aziz (R) HI (M) has offered his h
 ◼️
 
 [Data](articles/a866f468.json)
+
+[Extended Data](ext_articles/a866f468.ext.json)
 
 ---
 
@@ -199,6 +273,8 @@ Recordings were played in court where the public were told to violate the court 
 ...
 
 [Data](articles/2c8fe6c2.json)
+
+[Extended Data](ext_articles/2c8fe6c2.ext.json)
 
 ---
 
@@ -2177,95 +2253,5 @@ Passengers pointed out that the railway guards and the security service official
 [Data](articles/7b333e82.json)
 
 [Extended Data](ext_articles/7b333e82.ext.json)
-
----
-
-### நடிகை தமிதாவுக்கும், கணவருக்கும் பிணை
-
-*2024-04-24 14:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதாவுக்கும்-கணவருக்கும்-பிணை/175-336285) · `ta`
-
-Actress Tamitha Abeyratne and her husband were granted bail on Wednesday, April 24, by the Colombo Fort Magistrate's Court. They were arrested after being interrogated by the Criminal Investigation Department (CID) for allegedly defrauding Rs 100 crore. The court ordered the release of two bodies worth Rs 50 lakhs.
-
-🟩
-
-Actress Tamitha Abeyratne and her husband were granted bail on Wednesday (24) on the orders of the Colombo Fort Magistrate's Court.
-
-Accordingly, the Colombo Fort Magistrate's Court has ordered the release of two bodies worth Rs 50 lakhs.
-
-The actress and her wife, who was searched by the Criminal Investigation Department, were produced in court on April 4 and arrested after being interrogated.
-
-The Criminal Investigation Department is investigating the alleged involvement of Abeyratne and her husband.
-
-இதற்கமைய, ரூ. The Criminal Investigation Division (CID) has begun investigations of the Criminal Investigation Division for allegedly defrauding Rs 100 crore.
-
-Subsequently, the Criminal Investigation Department informed the court that Abeyratne and her husband would be referred to as the suspects.
-
-The Fort Magistrate's Court also rejected the writ petition seeking to prevent them.
-
-◼️
-
-[Data](articles/7a8ac742.json)
-
-[Extended Data](ext_articles/7a8ac742.ext.json)
-
----
-
-### விஜயதாச, துஷ்மந்தவுக்கு தடை உத்தரவு
-
-*2024-04-24 14:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயதாச-துஷ்மந்தவுக்கு-தடை-உத்தரவு/175-336284) · `ta`
-
-விஜயதாச ராஜபக்ஷ மற்றும் சாரதி துஷ்மந்த ஆகியோருக்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான இரண்டு தடை உத்தரவுகளை புதன்கிழமை (24) பிறப்பித்துள்ளார். அவர்கள் அமைச்சர்களும் லசந்த அழகியவண்ண, துமிந்த திசாநாயக்க மற்றும் மஹிந்த அமரவீர ஆகியோரால் முன்வைக்கப்பட்ட மனுவை பரிசீலித்ததன் பின்னர் வெளியிடப்பட்ட இந்த தடை உத்தரவுகள் அடுத்த மாதம் எட்டாம் திகதி வரை அமுலில் இருக்கும் என்றும் உத்தரவிடப்பட்டுள்ளது.
-
-🟩
-
-கடந்த 21ஆம் திகதி ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராகவும் பதில் பொதுச் செயலாளராகவும் தெரிவு செய்யப்பட்ட அமைச்சர் விஜயதாச ராஜபக்ஷ மற்றும்  சாரதி துஷ்மந்த ஆகியோருக்கு கொழும்பு பிரதான மாவட்ட நீதவான் சந்துன்விதான   இரண்டு தடை உத்தரவுகளை புதன்கிழமை (24) பிறப்பித்துள்ளார்.
-
-ஸ்ரீலங்கா சுதந்திரக் கட்சி உறுப்பினர்களும் அமைச்சர்களுமான  லசந்த அழகியவண்ண,  துமிந்த திசாநாயக்க மற்றும்   மஹிந்த அமரவீர ஆகியோரால் முன்வைக்கப்பட்ட மனுவை பரிசீலித்ததன் பின்னர் வெளியிடப்பட்ட இந்த தடை உத்தரவுகள் அடுத்த மாதம் எட்டாம் திகதி வரை அமுலில் இருக்கும் என்றும் உத்தரவிடப்பட்டுள்ளது.
-
-மனுதாரர்கள் சார்பில், ஜனாதிபதியின் சட்டத்தரணி  சந்தக ஜயசுந்தர, நீதிமன்றில் வாதகங்களை முன்வைத்து, பிரதிவாதிகள் அந்தப் பதவிகளில் அமர்வது சட்டவிரோதமானது மற்றும் கட்சியின் யாப்புக்கு முரணானது எனத் தெரிவித்தார்.
-
-Vijayadasa Rajapaksa said that he was not a member of the Sri Lanka Freedom Party and that a member of the other party that was not a member of the Sri Lanka Freedom Party (SLFP) was contrary to the constitution.
-
-...
-
-[Data](articles/fbd7001e.json)
-
-[Extended Data](ext_articles/fbd7001e.ext.json)
-
----
-
-### President Ranil expresses gratitude to Iran for assistance in Uma Oya project
-
-*2024-04-24 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98816/president-ranil-expresses-gratitude-to-iran-for-assistance-in-uma-oya-project) · `en`
-
-President Ranil Wickremesinghe on Wednesday expressed gratitude to Iran for their technical support, emphasizing that without Iran’s assistance, Sri Lanka could not have diverted the Uma Oya tributaries into Kirindi Oya.
-
-The President stated this while addressing the gathering after both he and his Iranian counterpart, Dr. Ebrahim Raisi jointly inaugurated the Uma Oya Multipurpose Development Project (UOMDP), one of the largest irrigation projects in Sri Lanka following the Mahaweli Development Project.
-
-At a special invitation extended by his Sri Lankan counterpart, President Raisi arrived in Sri Lanka on Wednesday morning (24) on a one-day visit to foster ties between the two nations. His arrival marks the first visit of an Iranian President to Sri Lanka since former President Dr. Mahmoud Ahmadinejad’s visit in April 2008.
-
-...
-
-[Data](articles/328131ba.json)
-
-[Extended Data](ext_articles/328131ba.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-24 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181843) · `ta`
-
-On April 24, the US dollar was bought for Rs 295.4376 and sold for Rs 305.3930.
-
-🟩
-
-The US dollar purchasing price was Rs 295.4376 and the sales price were Rs 305.3930 based on the Central Bank's coinage rate on Wednesday (April 24).
-
-◼️
-
-[Data](articles/76574dcf.json)
-
-[Extended Data](ext_articles/76574dcf.ext.json)
 
 ---

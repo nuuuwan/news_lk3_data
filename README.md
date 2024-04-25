@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 23:34:16**
+As of **2024-04-25 23:53:02**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,994 (100.0%) of 20,995 articles have been extended.
+20,995 (100.0%) of 20,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### மகளிர் ரி20 உலகக் கிண்ண தகுதிகாண்: தாய்லாந்தின் சிறு சவாலை முறியடித்து இலகுவாக வெற்றியீட்டியது இலங்கை
+### Women's T20 World Cup Qualification: Thailand's minor challenge
 
 *2024-04-25 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181979) · `ta`
 
-ஐக்கிய அரபு இராச்சியத்தின் அபுதாபி, டொலரன்ஸ் ஓவல் விளையாட்டரங்கில் இன்று வியாழக்கிழமை (25) நடைபெற்ற ஏ குழுவுக்கான ஐசிசி மகளிர் ரி20  உலகக் கிண்ண  தகுதிகாண் போட்டியில் தாய்லாந்தை எதிர்த்தாடிய இலங்கை 67 ஓட்டங்களால் இலகுவாக வெற்றி பெற்றது.
+Sri Lanka won the ICC Women's T20 World Cup A Group qualification, defeating Thailand by 67 runs. Sri Lanka scored 122 runs in 20 overs, with Nilakshika Silva and Anushka Sanjeevani sharing 44 runs. Thailand lost all wickets in 16.2 overs, scoring 55 runs.
 
-எவ்வாறாயினும் துடுப்பாட்டத்தில் சிறு தடுமாறத்திற்குள்ளான இலங்கை சிறப்பான பந்துவீச்சு மற்றும் களத்தடுப்பு மூலமே கடைசியில் இலகுவாக வெற்றியீட்டியது.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை மகளிர் அணி 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 122 ஓட்டங்களைப் பெற்றது.
+Sri Lanka won the ICC Women's T20 World Cup qualification for the A Group on Thursday (25) at the Dollans Oval Stadium in Abu Dhabi, the United Arab Emirates. Sri Lanka won by 67 runs.
 
-ஐந்தாவது ஓவரில் மொத்த எண்ணிக்கை 24 ஓட்டங்களாக இருந்தபோது விஷ்மி குணரட்ன 13 ஓட்டங்களுடன் வெளியேறினார்.
+However, Sri Lanka, which is a small stumbling block, finally won the event with a special bowling and fielding.
 
-அணித் தலைவி சமரி அத்தபத்து நிதானத்துடன் துடுப்பெடுத்தாடி 16 ஓட்டங்களைப்  பெற்று ஆட்டம் இழந்தார்.
+The Sri Lankan women's team, who decided to bat first in the upting match, scored 122 runs for the loss of 5 wickets in 20 overs.
 
-அவரைத் தொடர்ந்து ஹன்சிமா கருணாரட்ன (11), கவிஷா டில்ஹாரி (5), ஹாசினி பெரேரா (29) ஆகியோர் சீரான இடைவெளியில் ஆட்டம் இழக்க இலங்கை நெருக்கடியை எதிர்கொண்டது. (78 - 5 விக்.)
+Vishmi Gunaratne was out for 13 runs when the total number was 24 runs in the fifth over.
+
+The captain of the team, Samari, scored 16 runs and lost the game.
+
+Hansima Karunaratne (11), Kavisha Dilhari (5) and Hassini Perera (29) faced the Sri Lankan crisis. (78 - 5 wig.)
+
+In this case, Nilakshika Silva and Anushka Sanjeevani shared 44 runs in the 6th wicket and raised the total number of Sri Lankan team to 122 runs.
+
+Nilakshika Silva did not lose 20 runs off 20 balls and Anushka Sanjeevani scored 15 runs off 13 balls.
 
 ...
 
 [Data](articles/73cf5720.json)
+
+[Extended Data](ext_articles/73cf5720.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 18:07:12**
+As of **2024-04-25 18:19:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,934 (100.0%) of 20,940 articles have been extended.
+20,940 (100.0%) of 20,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ While the China-based sources say the investment, which Colombo pegged at $4.5 b
 
 [Data](articles/bad77041.json)
 
+[Extended Data](ext_articles/bad77041.ext.json)
+
 ---
 
 ### Ali Sabry to leave for Riyadh to attend World Economic Forum
@@ -64,6 +66,8 @@ On the sidelines, the Foreign Minister is expected to have bilateral meetings wi
 
 [Data](articles/18b01d0a.json)
 
+[Extended Data](ext_articles/18b01d0a.ext.json)
+
 ---
 
 ### ITC Ratnadipa Colombo declared open
@@ -75,6 +79,8 @@ President Ranil Wickremesinghe unveiled the epitome of luxury: 'ITC Ratnadipa Co
 ◼️
 
 [Data](articles/09400d05.json)
+
+[Extended Data](ext_articles/09400d05.ext.json)
 
 ---
 
@@ -641,6 +647,8 @@ Cardinal Ranjith made the following allegations against former President Gotabay
 ...
 
 [Data](articles/79c8fc60.json)
+
+[Extended Data](ext_articles/79c8fc60.ext.json)
 
 ---
 
@@ -1346,19 +1354,27 @@ Thousands of students in many universities, from Massachoods to California, are 
 
 ---
 
-### විදේශ- රැකියා ජාවාරමක් ගැන ඇමති මනූෂට ලැබුණ ඔත්තුව
+### Minister Manusashet received a foreign-employment racket
 
 *2024-04-25 12:14:02* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ--රැකියා-ජාවාරමක්-ගැන-ඇමති-මනූෂට-ලැබුණ-ඔත්තුව/11-409256) · `si`
 
-අනුරාධපුරයට ආසන්න ප්‍රදේශයක විහාරාධිපතින්වහන්සේ නමක හා  පොලිස් සැරයන්වරයෙකු විසින් ඊශ්‍රායලයේ  විදේශ රැකියා ලබා දීම සඳහා මුදල් අය කිරීමේ සිද්ධියක් පිළිබඳව විදේශ සේවා නියුක්ති කාර්යාංශයට පැමිණිලි ලැබී ඇතැයි කම්කරු හා විදේශ රැකියා අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+Labor and Foreign Employment Minister Manusha Nanayakkara has received complaints about a police sergeant's appointment in Anuradhapura, involving blood tests. He emphasizes quick investigation and the importance of submitting to the Foreign Employment Bureau.
 
-මේ අනුව එම  විහාරාධිපතින් වහන්සේ  සහ   පොලිස් ස්ථානයක සැරයන්වරයෙකු  විසින් අනුරාධපුරය ආසන්නයේ විහාරස්ථානයකට විදේශ රැකියා අපේක්ෂකයන් හයසියයක් පමණ ගෙන්වාගෙන ඔවුන්ගේ වෛද්‍ය පරීක්ෂණ  සහ රුධිර පරීක්ෂණ සඳහා   මුදල් අය කර ගැනීමක් පිළිබඳව එම  පැමිණිලිවලින් තොරතුරු ලැබී ඇතැයිද මනූෂ නානායක්කාර මහතා පැවසීය.
+🟩
 
-මේ  පිළිබඳව අනුරාධපුරය ආශ්‍රිතව පාර්ශ්වයන්ගෙන් තොරතුරු ලැබී ඇතැයි කී මනූෂ නානායක්කාර මහතා ඉදිරි විමර්ශන සඳහා මේ ගැන නිසි පැමිණිලි ඉතා ඉක්මනින් අවශ්‍ය බැවින්  මේ  වංචාවකට අසුවී ඇති අය ඇත්නම්  වහාම  විදේශ සේවා නියුක්ති කාර්යාංශයට පැමිණිළි ඉදිරිපත් කරන ලෙසද අවධාරණය කළේය.
+Labor and Foreign Employment Minister Manusha Nanayakkara says that the Foreign Employment Bureau has received complaints regarding the appointment of a police sergeant in Anuradhapura and a police sergeant.
 
-...
+Accordingly, the complaints have been received by a sergeant to Anuradhapura by a sergeant at Anuradhapura and a police officer in the Anuradhapura temple and recovering the complaints and recovery of blood tests.
+
+The Manusha Nanayakkara has received information from the parties in Anuradhapura regarding this regarding the matter is very quick to investigate this fraud and emphasized the immediate submission of the Foreign Employment Bureau.
+
+He also said that he was arrested and he had an inquiry into the Foreign Employment Bureau to enforce the law and implement the law.
+
+◼️
 
 [Data](articles/71ff9dfd.json)
+
+[Extended Data](ext_articles/71ff9dfd.ext.json)
 
 ---
 

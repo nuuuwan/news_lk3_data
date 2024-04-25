@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-25 07:42:15**
+As of **2024-04-25 08:06:28**
 
 ## Newspaper Stats
 
-*Scraped **20,813** Articles*
+*Scraped **20,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,56 @@ newsfirstlk | 363
 islandlk | 1,130
 dailyftlk | 1,172
 economynextcom | 1,180
-adalk | 1,731
+adalk | 1,732
 tamilmirrorlk | 2,408
 adaderanalk | 2,474
-virakesarilk | 3,129
+virakesarilk | 3,136
 dailymirrorlk | 3,244
-adaderanasinhalalk | 3,360
+adaderanasinhalalk | 3,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-20,804 (100.0%) of 20,813 articles have been extended.
+20,821 (100.0%) of 20,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-25 (Thursday)
 
-### ජනාධිපති අපේක්ෂකයා ගැන නාමල් කට අරී
+### විදෙස් රැකියා ජාවාරමේ යෙදන පිරිසට රතු එළියක්
+
+*2024-04-25 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195946) · `si`
+
+අනුරාධපුරයට ආසන්න විහාරස්ථානයක විහාරාධිපති ප්‍රමුඛ පොලිස් සාජන්වරයෙකු මුල් වි විදේශ රැකියා ලබාදීම සඳහා මුදල් අය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පැමිණිලි ලැබී ඇති බව අමාත්‍ය මනූෂ නානායක්කාර මහතා පවසයි.
+
+◼️
+
+[Data](articles/44b14a02.json)
+
+---
+
+### Namal opens about presidential candidate
 
 *2024-04-25 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195945) · `si`
 
-ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂයෙන් සුදුසු අපේක්ෂකයෙකු ඉදිරිපත් කරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa, MP, announces a suitable candidate for the next presidential election, highlighting the Sri Lankan Crown Front's readiness. JVP's KDDarkantha mentions government interest in the presidential election, while Sujee Senasinghe praises Sajith Premadasa's development program.
 
-මන්ත්‍රීවරයා පෙන්වාදෙන්නේ ඉදිරි ජනාධිපතිවරණය සඳහා තරග කිරීමට සිය පක්ෂය තුළ අපේක්ෂකයින් කිහිපදෙනෙකුම සිටින බවය.
+🟩
 
-"විශේෂයෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණ විදියට එළැබෙන්නේ මොන මැතිවරණය ද ඒකට අපි සුදානම්. ඔයාලා දකිනවා ඇති ලංකාවේ කොතැන ගිහින් අපේ හිටපු පළාත් පාලන මන්ත්‍රීවරු, අපේක්ෂකයෝ කැඳවූවත් සියලූම අපේක්ෂකයෝ අපේ රැස්වීම්වලට සම්බන්ධ වෙනවා. ඒ කියන්නේ අපි ගමේ අදටත් ක්‍රියාකාරී. අපි දන්නේ නෑ ජනාධිපතිතුමා ඡන්දය තියයි ද නැද්ද දන්නෙත් නෑ. අපි පැහැදිලිවම ශ්‍රී ලංකා පොදුජන පෙරමුණ මැතිවරණයට ඉදිරිපත් වෙනවා. එතකොට ඡන්ද පත්‍රිකාවේ පොහොට්ටුවේ ලකුණ තියෙනවා. අපේක්ෂකයා පිළිබඳව වෙලාවට කියන්නම්. ඒවා ඉතින් කලින් කියන්න ඕනේ දේවල් නෙමෙයි නේ. ඔබතුමන්ලා මගෙන් මීට කලින් ඇහුවේ ප්‍රාදේශීය සභාවේ ඉල්ලන්න අපේක්ෂකයෝ ඉන්නවා ද කියලා. දැන් ජනාධිපතිවරණයට පොදුජන පෙරමුණෙන් ලැයිස්තුවක් ඉන්නවා. ඒකෙන් අපි කාලෙට සුදුසු සහ අභියෝග ජයගන්න පුළුවන් කෙනා අපි ඉදිරිපත් කරනවා."
+Namal Rajapaksa, MP Namal Rajapaksa, says that a suitable candidate is presented to contest for the next presidential election.
+
+The MP also pointed out that several candidates are in their party to contest for the next presidential election.
+
+"Especially as the Sri Lankan Crown Front, we are ready for that. Wherever you see in Sri Lanka, our former local government members, and the candidates called for all candidates join our meetings. That means we are still active today. We don't know if the President has voted or not. We clearly presented the Sri Lanka General Front election. The mark of the ballot is the mark of the ballot. Tells the candidate. They're not saying before. You asked me before the candidates of the Pradeshiya Sabha. The Presidential election has a list of the Presidential election. We present the man who can overcome the challenges and challenges. "
+
+Meanwhile, JVP's Politburo member KDDarkantha said that the government applied to the presidential election.
 
 ...
 
 [Data](articles/dc4f182b.json)
+
+[Extended Data](ext_articles/dc4f182b.ext.json)
 
 ---
 
@@ -518,6 +538,126 @@ Recordings were played in court where the public were told to violate the court 
 
 ---
 
+### Ajith - Shalini Wedding Day: Celebration at Hotel ..!
+
+*2024-04-25 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/181899) · `ta`
+
+Ajith and Shalini, child stars, wed on April 24, 2000, with a daughter and son. Today marks their 24th anniversary, celebrated at a hotel in Chennai, with photos going viral.
+
+🟩
+
+Actress Shalini made her debut as a child star in Tamil film industry. He fell in love with actor Ajit Kumar while acting in the movie 'Amarkalam'.
+
+Subsequently, the two were married on April 24, 2000. The couple has a daughter Anoshka and a son named Advik. In this case, Ajith - Shalini's 24th wedding day today.
+
+The two at the star hotel in Chennai cut the cake and celebrated the wedding day. Related photos go viral on social networks.
+
+◼️
+
+[Data](articles/3829e6dc.json)
+
+[Extended Data](ext_articles/3829e6dc.ext.json)
+
+---
+
+### Re-Realis Great Success: Congratulations to Vijay ..!
+
+*2024-04-25 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181898) · `ta`
+
+Vijay's film 'Gilly' re-released, 'April 17, 2004' in 4K, grossed Rs 12 crore in two days, and Sakthivelan congratulated him, highlighting the film's impact beyond business.
+
+🟩
+
+Vijay's starring film 'Gilly' has been re-released and welcomed, and the distributor who released the film met Vijay and congratulated Vijay.
+
+Vijay starrer 'April 17, 2004'. It is an important film in Vijay's Carrian and starred in many others including Trisha. Vidyasagar composed the music.
+
+The film was made in theaters on the 20th of the year, which was polished in 4K digital quality after 20 years.. The film has been released by Sakthivel Film Factory.
+
+It has surprised many people that the film has grossed Rs 12 crore in two days.
+
+Following the reception of the film, the distributor Sakthivelan, who released the film, met with actor Vijay in the evening and congratulated him.
+
+He then said, “Spend a lot of time for politics and people. But, make a picture of the year. Beyond business, Gospus is the moment in theaters. ”. The video related to this is going viral.
+
+◼️
+
+[Data](articles/df9cf037.json)
+
+[Extended Data](ext_articles/df9cf037.ext.json)
+
+---
+
+### Kalmunai North Divisional Secretariat
+
+*2024-04-25 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/181897) · `ta`
+
+Public protests against administrative repression at Kalmunai North Divisional Secretariat continue for a second day. Peaceful demonstrations have been ongoing since Monday, with slogans and demands for rights. The Western Divisional Secretariat, upgraded in 1988, has faced continuous repression, leading to a hunger strike in 2019 for upgrades.
+
+🟩
+
+The public is carrying out a controversial protest on Wednesday (24) for the second day against the continuous administrative repression of the Kalmunai North Divisional Secretariat.
+
+On Monday (25) in front of the Divisional Secretariat, the public gathered in a peaceful way, carrying out various slogans.
+
+Following this, the 31st day is still continuing the struggle with various slogans.
+
+In the past, the Western Divisional Secretariat, which has been the Assistant Government Agent Division in the past, has been upgraded to a separate Divisional Secretariat in 1988 and has been functioning as a separate Divisional Secretariat for the past 30 years as a separate Divisional Secretariat.
+
+Nevertheless, a few politicians have begun the struggle due to continuous administrative repression on the Divisional Secretariat, from the top officials to the top officials.
+
+Over the past 30 years
+
+...
+
+[Data](articles/44b6a206.json)
+
+[Extended Data](ext_articles/44b6a206.ext.json)
+
+---
+
+### Vavuniya Human Rights Commission Police and Forest Department
+
+*2024-04-25 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/181896) · `ta`
+
+The Vavuniya Human Rights Commission investigated the arrest of eight individuals, including a temple priest, after a fire in a forest area. The Forest Department, police, and temple administration were involved. The police arrested the individuals based on an Archaeological Department letter and the fire. The temple administration was criticized for not worshipping the temple and providing water. The Human Rights Commission requested evidence and asked the temple administration to submit it by Friday.
+
+🟩
+
+Investigations have been carried out by the Vavuniya Human Rights Commission in connection with the arrest of eight persons, including the temple priest at the Adisivan Temple at the Adivasivan Temple.
+
+Investigations were carried out by the Nedungeni police, the forest department and the temple administration, which was invited to the Office of the Human Rights Commission on Wednesday (24), located on the inner road in Vavuniya.
+
+The Forest Department told the Human Rights Commission that the fire had been closed in their forest area when they went there and that plastic products, cooking waste and temple coating were poured there.
+
+According to the incident, the police said that they were arrested due to the letter of the Archaeological Department and the fire in the forest area, and that they had not taken any attack on anyone and not taken the hunt and took half naked.
+
+...
+
+[Data](articles/397f1987.json)
+
+[Extended Data](ext_articles/397f1987.ext.json)
+
+---
+
+### Jaffna Diocese Bishop Icerin Panad Gnanaprakasam
+
+*2024-04-25 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/181895) · `ta`
+
+Bishop Icerin Panad Gnanaprakasam of Jaffna Diocese celebrated the Glossary of Gnanapakkam Anniversary and the Guru Festival at the Mariannerya Palace on Wednesday evening.
+
+🟩
+
+Jaffna Diocese Icerin Icerin Gnanaprakasam Anniversary of the Glossary of the Gnanapakkam Anniversary of the Guru Festival of the Jaffna Mariannerya Palace was held on Wednesday evening (24).
+
+◼️
+
+[Data](articles/073622ab.json)
+
+[Extended Data](ext_articles/073622ab.ext.json)
+
+---
+
 ### GMOA wants decision on KDU medical degree admission suspended
 
 *2024-04-25 02:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-wants-decision-on-KDU-medical-degree-admission-suspended/108-281302) · `en`
@@ -555,6 +695,68 @@ Despite these efforts, commuters traveling on the upcountry mainline have voiced
 [Data](articles/133f4e0f.json)
 
 [Extended Data](ext_articles/133f4e0f.ext.json)
+
+---
+
+### Telhi won Gujarat by 4 runs
+
+*2024-04-25 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181894) · `ta`
+
+Telhi Capitles won Gujarat Titans by 4 runs in the 40th IPL match, thanks to a last-over stand of 37 runs. Rashid Khan's 2 wickets in the last over were crucial. Telhi scored 224/4, with Akshar Patel and Rishabh Bant sharing a 113-run partnership. Gujarat lost 220 runs for 8 wickets.
+
+🟩
+
+Telhi Capitles won the Gujarat Titans by 4 runs in the 40th match of the 17th Indian Peerimer League Chapter held at the Telhi Arun Jaitley Stadium on Wednesday (24).
+
+Telhi Capitles needed 37 runs in the last two overs to win the match by both teams.
+
+Tellhi Capitols lost a wicket of 18 runs in the 19th over.
+
+The last over was required to win a further 19 runs. Rashid Khan scored 2 pounds of the first two balls. Because of this, Gujarat was expected to win. ஆனால், முக்கேஷ் குமாரின் அடுத்த இரண்டு பந்துகளில் ரஷித் கானினால் ஓட்டம் பெற முடியாமல் போனது.
+
+Rashid Khan, who was the fifth ball, was unable to get 5 runs in the last ball.
+
+Telhi Capitles scored 224 runs for the loss of 4 wickets in 20 overs.
+
+Akshar Patel and team captain Rishabh Bant scored half -centuries and shared 113 oats off 68 balls in the 4th wicket.
+
+Subsequently, Rishabh Bond and Triston Stubs shared 67 runs off 18 balls in the 5th wicket.
+
+Rishabh Bond did not play 43 balls with 5 pounds and 8 sixes and Triston Stubs 26 runs.
+
+...
+
+[Data](articles/63a9d106.json)
+
+[Extended Data](ext_articles/63a9d106.ext.json)
+
+---
+
+### Friday to Sri Lanka's Nethmika
+
+*2024-04-25 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/181893) · `ta`
+
+Nethmika Madusani, Sri Lanka's women's team leader, won silver in the 21st Asian Junior Athletics Championships in Dubai. Madhushani Herath also secured silver in the women's three-legged event.
+
+🟩
+
+Sri Lankan women's team leader Nethmika Madusani won the silver medal in the 21st Asian Junior Athletics Championships, which began on Wednesday (24) at the Dubai International Stadium in the United Kingdom.
+
+Madhushani Herath won the silver medal in the women's three -legged event which began at 9.00 pm at Sri Lanka at Dubai Stadium.
+
+இம்முறை ஆகிய கனிஷ்ட மெய்வலலுநர் போட்டியில் இலங்கைக்கு கிடைத்த முதுலாவது பதக்கம் இதுவாகும்.
+
+அவர் 13.01 மீட்டர் தூரம் பாய்ந்தே வெள்ளிப் பதக்கத்தை வென்றெடுத்தார். This is a personal distance from his post.
+
+2014ஆம் ஆண்டு ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டியில் விதுஷா லகஷானி முப்பாய்ச்சிலில் பதக்கம் வென்ற பின்னர் இலங்கைக்கு இதே நிகழ்ச்சியில் கிடைத்த 2ஆவது பதக்கம் இதுவாகும்.
+
+அத்துடன் ஆசிய கனிஷ்ட மெய்வல்லுநர் போட்டி வரலாற்றில் 1986இலிருந்து இலங்கைக்கு கிடைத்த 36ஆவது பதக்கம் இதுவாகும்.
+
+◼️
+
+[Data](articles/35ff7c21.json)
+
+[Extended Data](ext_articles/35ff7c21.ext.json)
 
 ---
 
@@ -890,6 +1092,8 @@ AMDT School of Creativity, one of Sri Lanka’s leading educational institutions
 
 [Data](articles/4db4a191.json)
 
+[Extended Data](ext_articles/4db4a191.ext.json)
+
 ---
 
 ### lolc Finance expands to Karapitiya & relocates Kalawana
@@ -901,6 +1105,8 @@ LOLC Finance PLC, the leading Non-Banking Financial Institution (NBFI) in Sri La
 ...
 
 [Data](articles/e1633d6f.json)
+
+[Extended Data](ext_articles/e1633d6f.ext.json)
 
 ---
 
@@ -918,6 +1124,8 @@ Global Finance said its Best Bank Awards recognise financial institutions that o
 
 [Data](articles/aea4791a.json)
 
+[Extended Data](ext_articles/aea4791a.ext.json)
+
 ---
 
 ### Cinnamon Lakeside Colombo welcomes Nazoomi Azhar as its new General Manager
@@ -931,6 +1139,8 @@ Azhar’s extensive industry tenure includes notable roles such as General Manag
 ...
 
 [Data](articles/df579056.json)
+
+[Extended Data](ext_articles/df579056.ext.json)
 
 ---
 
@@ -949,6 +1159,8 @@ Speaking at the official launch of the “Ramayana Trail – The Sacred Mission�
 ...
 
 [Data](articles/5b3b61e6.json)
+
+[Extended Data](ext_articles/5b3b61e6.ext.json)
 
 ---
 
@@ -1538,6 +1750,30 @@ Subsequently, the President of Iran was resolved and honored by the Hon.. Remble
 
 ---
 
+### The suspects of the drug 300 kilo of drugs have been released due to a proof of evidence
+
+*2024-04-24 19:25:48* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-කිලෝ-300-සැකකරුවන්-සාක්ෂියක-පරස්පරයක්-නිසා-නිදහස්-කරලා/11-409247) · `si`
+
+Suspects in a 300 kg drug case released due to contradictory evidence. Minister Wijayadasa Rajapakse highlighted the Navy's role and the controversy over the credibility of police evidence.
+
+🟩
+
+Minister of Justice Wijeyadasa, Wijayadasa, Vijayadu Rajapaksa, said that all those who were taken into custody at the sea at the sea at the sea at the sea recently have been released on a contradiction.
+
+The Criminal Procedure Protection (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Amendment) Bill (Second Reading) and the debate on orders, opium, and the dangers.
+
+Minister Wijayadasa Rajapakse said:
+
+Navy came to Navy yesterday before the Navy was very hard at the sea boat. The Attorney General was charged in the High Court. All Navy officials gave evidence. However, the Colombo High Court issued the verdict. Thandharaya tells the High Court that the police evidence is not credible. This is a problem with us too. We don't understand this. Police evidence is not needed. All the Navy personnel testified from the Navy, the Navy.
+
+...
+
+[Data](articles/d90fa179.json)
+
+[Extended Data](ext_articles/d90fa179.ext.json)
+
+---
+
 ### Imported milk powder prices to be reduced from tomorrow
 
 *2024-04-24 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Imported-milk-powder-prices-to-be-reduced-from-tomorrow/108-281295) · `en`
@@ -1931,219 +2167,5 @@ The official festival of the president Iranian has begun in Colombo.
 [Data](articles/5a1220b6.json)
 
 [Extended Data](ext_articles/5a1220b6.ext.json)
-
----
-
-### Russian deputy minister arrested for bribe
-
-*2024-04-24 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195934) · `si`
-
-Russian Deputy Defense Minister arrested for bribery in Sri Lanka. Accused of bribes in Ministry of Defense projects, facing up to 15 years in prison.
-
-🟩
-
-A court of Sri Lanka ordered that the Deputy Defense Minister of Russia was arrested today (24).
-
-The Deputy Minister has been accused of bribes and is considered a close associate of Defense Minister Sergei Shaegu.
-
-After invading Ukraine in February 2022, the critics say that the Russian troops were invaded in February 2022.
-
-The Russian Central Security Service was arrested by the Russian Central Security Service while the Deputy Minister was engaged in duties yesterday. He has been accused of gaining bribes.
-
-He has been accused of bribery in the projects carried out by the Ministry of Defense and the charges can be sentenced to 15 years in prison.
-
-◼️
-
-[Data](articles/79fdc16b.json)
-
-[Extended Data](ext_articles/79fdc16b.ext.json)
-
----
-
-### Wijayaka and Vulgent
-
-*2024-04-24 17:23:33* · [`adalk`](https://www.ada.lk/breaking_news/විජයදාසට-හා-දුෂ්මන්තට-වාරණ-නියෝගයක්/11-409242) · `si`
-
-Colombo Chief Judge Sandamaduwarana issued two injunctions, affecting Wijayadasa Rajapakse, a former SLFP member, until the 8th. The decision, after court deliberations involving SLFP and ministers, was defended by President's Counsel Chandra Jayasundara.
-
-🟩
-
-The Colombo Chief Judge Sandamaduwarana released two injunctions today (24).
-
-The cases released after considering a court of the SLFP and Ministers Lasantha Alagiyawanna, Duminda Dissanayake and Mahinda Amaraweera have been implemented until the 8th of this month.
-
-President's Counsel Chandra Jayasundara told the courts in behalf of the plaintiffs.
-
-The SLFP official was launched to a member of the SLFP that Wijayadasa Rajapakse was not a member of the SLFP.
-
-◼️
-
-[Data](articles/865e5cba.json)
-
-[Extended Data](ext_articles/865e5cba.ext.json)
-
----
-
-### One person injured when the branch of the Buddhist Vihara collapses in Colombo
-
-*2024-04-24 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181868) · `ta`
-
-Injured in Colombo, Buddhist Vihara branch collapse causes heavy traffic. Police investigate.
-
-🟩
-
-One person was injured when a branch of a royal tree near a Vihar near Sankaraja Mawatha, Colombo, was injured.
-
-Heavy traffic congestion in the area where the incident took place and police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/ab39c8b7.json)
-
-[Extended Data](ext_articles/ab39c8b7.ext.json)
-
----
-
-### "Uma Janani" multiloime development project opens vested with the public
-
-*2024-04-24 17:18:09* · [`adalk`](https://www.ada.lk/breaking_news/“උමා-දිය-ජනනි”-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ජනතා-අයිතියට/11-409241) · `si`
-
-The Uma Oya Multipurpose Development Project, a significant initiative in Sri Lanka, aims to alleviate water shortages in the southeastern dry zone. This project, funded by Farab Farab Ltd and the Export Development Bank of Iran, involves the construction of two reservoirs and a 3.98-kilometer water flow tunnel. Despite challenges, including international sanctions and the Covid-19 pandemic, the project was completed in 2015 and began operations in 2024. It aims to irrigate 1500 hectares of existing land and 4500 new developed land, addressing the water shortage issue. The project symbolizes the strengthening of ties between Sri Lanka and Iran, with both countries contributing their expertise and resources.
-
-🟩
-
-President to promote closer ties with Iran - President
-
-The President is ready to continue with good partnership with Sri Lanka.
-
-After the Mahaweli movement, the "Uma Pannani" multi-Janani "multi-Janani" multi-Sri Lankan election project was illegally owned by the people of Iranian-Sri Lankan presidents this morning.
-
-The Iranian President Dr. Ibrahim Reli was warmly welcomed by President Ranil Wickremesinghe.
-
-The leaders of the two countries have unveiled the plaque and the Multi-Jathika Development Project was vested with the public and began operating activities through Digital Technology.
-
-Addressing the gathering, President Ranil Wickremesinghe said that Sri Lanka would not be able to bring the water in Uma Oya to be taken to the Uma Oya.. President Ranil Wickremesinghe, who thanked the Iranian president of the Iranian, he said that the purpose of Sri Lanka's aim to promote closer ties with Iran.
-
-...
-
-[Data](articles/9665f9dd.json)
-
-[Extended Data](ext_articles/9665f9dd.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields fall across maturities, 3-months 9.90-pct
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-fall-across-maturities-3-months-9-90-pct-159919/) · `en`
-
-ECONOMYNEXT – Sri Lanka Treasury bill yields dropped across maturities at Wednesday’s auction, with the 3-month yield falling below 10 percent to 9.90 percent, data from the state debt office showed.
-
-The debt office sold 35 billion rupees of 3-month bills at 9.90 percent down from 10.03 percent.
-
-30 billion rupees of 6-month were sold, at 10.08 percent, down from 10.22 percent.
-
-27 billion rupees of 12-month bills were sold at 10.21 percent, down from 10.23 percent.
-
-◼️
-
-[Data](articles/0ffba7c3.json)
-
-[Extended Data](ext_articles/0ffba7c3.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 297.95/298.10 to US dollar
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-297-95-298-10-to-us-dollar-159918/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 297.95/298.10 to the US dollar on Wednesday after closing at 300.50/301.00 on Monday, dealers said.
-
-Sri Lanka’s rupee came under pressure over the last week, despite broadly deflationary policy, after the central bank collected large volumes of dollars in March.
-
-Bond yields were flat as buyers awaited the next development in sovereign bond re-structuring, market participants said. There were both positive and negative sentiments among bond investors, dealers said.
-
-A bond maturing on 15.12.2026 closed flat at 11.30/40 percent
-
-A bond maturing on 15.09.2027 closed down at 11.90/95 percent from 11.95/12.05 percent.
-
-A bond maturing on 15.12.2028 closed flat at 12.15/25 percent.
-
-A bond maturing on 15.09.2029 closed higher at 12.30/40 percent from 12.25/35 percent.
-
-A bond maturing on 01.10.2032 closed at 12.35/60 percent from 12.40.50 percent. (Colombo/Apr24/2024)
-
-◼️
-
-[Data](articles/244ad810.json)
-
-[Extended Data](ext_articles/244ad810.ext.json)
-
----
-
-### Global South’s desire to establish independence hinted at Sri Lanka-Iran leaders’ talk
-
-*2024-04-24 17:18:00* · [`economynextcom`](https://economynext.com/global-souths-desire-to-establish-independence-hinted-at-sri-lanka-iran-leaders-talk-159920/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has highlighted the Global South’s desire to establish its identity and independence during the talks with Iranian President Ebrahim Raisi, President’s Media Division (PMD) said.
-
-Most developing nations are depending on developed nations and such dependence has deprived most developing nations of being with its own identity and independence.
-
-According to the United Nations Conference on Trade and Development (UNCTAD), the Global South broadly comprises Africa, Latin America and the Caribbean, Asia (excluding Israel, Japan, and South Korea), and Oceania (excluding Australia and New Zealand).
-
-Most of the Global South’s countries are commonly identified as lacking in their standard of living, which includes having lower incomes, high levels of poverty, high population growth rates, inadequate housing, limited educational opportunities, and deficient health systems, among other issues.
-
-...
-
-[Data](articles/b4a72e5c.json)
-
-[Extended Data](ext_articles/b4a72e5c.ext.json)
-
----
-
-### Plantation workers' salary hike fails again
-
-*2024-04-24 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/181861) · `ta`
-
-Plantation workers' salary hike talks failed as employers, including the Employers Federation, did not attend. The Plantation Workers Union criticized the companies for ignoring the issue, despite previous negotiations. The government and plantation workers are also accused of neglecting the workers' concerns. Only one plantation owner attended the Salary Council meeting, raising suspicions. The secretary called for a wage increase, but companies did not participate. The union's efforts were highlighted, with the government accused of favoring plantation companies over workers.
-
-🟩
-
-The Executive Officers of the Employers Federation did not attend the salary hike talks today.. All Ceylon Plantation Workers Union President Kidnan Selvaraj, who is participating in the salary of plantation workers, said that the Plantation Company did not negotiate because the Plantation Company did not attend the wage hike in the pay rise for plantation workers on Wednesday morning.
-
-He said this when he inquired about the salary talks to be held today.
-
-Plantation Companies have ignored the second time on pay rise for plantation workers. In this case, they have no concern for plantation workers and salary. Is clear.
-
-The government and the plantation workers are ignoring the plantation workers beyond the only criticism of the company.. That should be said. The issue was taken to the Salary Standards Council following the negotiations of the plantation workers' salary hike in the last year.
-
-...
-
-[Data](articles/71c87702.json)
-
-[Extended Data](ext_articles/71c87702.ext.json)
-
----
-
-### Sri Lanka stocks close up, small caps see buying interest
-
-*2024-04-24 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-small-caps-see-buying-interest-159911/) · `en`
-
-ECONOMYNEXT – Improved market sentiment saw the Colombo Stock Exchange close up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.66 percent, or 77.50 points, at 11,905; while the S&P SL20 Index closed up 0.38 percent, or 13.17 points, at 3,495.
-
-“Buying interest was coming into the small caps from the retail front,” market participants said.
-
-The ASPI was up mostly due to interest in LOLC group companies; Browns Investments Plc (up at 6.20), LOLC Finance Plc (up at 7.40), LOLC General Insurance Plc (up at 7.00). LOLC Holdings Plc was also up at 445.25.
-
-“There was a run on penny stocks, possibly because banking stocks had slowed down,” market participants said.
-
-“There was also interest in index heavyweight Hayleys.” Hayleys Plc is one of six companies that had expressed interest in the acquisition of SriLankan Airlines Limited, the state owned enterprise restructuring unit said. Shares of the bluechip conglomerate closed up at 84.90.
-
-...
-
-[Data](articles/5a82e56a.json)
-
-[Extended Data](ext_articles/5a82e56a.ext.json)
 
 ---

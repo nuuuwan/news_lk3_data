@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 19:18:49**
+As of **2024-04-26 19:34:08**
 
 ## Newspaper Stats
 
-*Scraped **21,155** Articles*
+*Scraped **21,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,769
 tamilmirrorlk | 2,449
 adaderanalk | 2,520
 virakesarilk | 3,189
-dailymirrorlk | 3,294
+dailymirrorlk | 3,298
 adaderanasinhalalk | 3,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,154 (100.0%) of 21,155 articles have been extended.
+21,155 (100.0%) of 21,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The lawmaker made this remark while speaking during today’s parliamentary sess
 ◼️
 
 [Data](articles/48b9639c.json)
+
+[Extended Data](ext_articles/48b9639c.ext.json)
 
 ---
 
@@ -103,6 +105,38 @@ The Minister of Defense Minister Tiran Alles revealed the secret statement that 
 [Data](articles/03550bea.json)
 
 [Extended Data](ext_articles/03550bea.ext.json)
+
+---
+
+### To combat Dengue menace...
+
+*2024-04-26 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/To-combat-Dengue-menace/110-281423) · `en`
+
+As a precautionary measure to control the mosquitoes, the Colombo Municipal Council (CMC) has taken steps to start fogging and other preventive steps targeting the vulnerable areas in the Colombo municipality.
+
+◼️
+
+[Data](articles/60fa9e25.json)
+
+---
+
+### Sri Lanka to establish new energy sector regulator
+
+*2024-04-26 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-establish-new-energy-sector-regulator/108-281440) · `en`
+
+Colombo, April 26 (Daily Mirror) - The Cabinet has approved a proposal to establish a dedicated regulator for the energy sector.
+
+Taking to ‘X’, Power and Energy Minister Kanchana Wijesekera said the petroleum, LPG, LNG, lubricants, oils and broader energy sectors are set to fall under the purview of the newly formed regulatory body.
+
+The Public Utilities Commission of Sri Lanka (PUCSL) will retain its role as the regulator for the electricity sector, while the forthcoming regulator will assume responsibility for governing various aspects of the petroleum and energy industries.
+
+This separation of oversight is expected to streamline the regulatory processes, foster greater accountability and optimize sector-specific regulations.
+
+A specialized committee has been entrusted with the task of formulating the framework for the Energy Sector Regulator within a concise timeline of two months.
+
+...
+
+[Data](articles/1a930919.json)
 
 ---
 
@@ -482,6 +516,24 @@ Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, p
 
 ---
 
+### Sri Lanka to hand management of China-built airport to India, Russia companies
+
+*2024-04-26 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-hand-management-of-China-built-airport-to-India-Russia-companies/155-281435) · `en`
+
+COLOMBO, April 26 (Reuters) - Sri Lanka will hand over management of its $209 million Chinese-built airport to two Indian and Russian companies, a cabinet statement said on Friday, as the island nation attempts to reduce losses from its state enterprises.
+
+Mattala Rajapaksa International Airport (MRIA), funded by China EXIM Bank, has stoked controversy since its opening in 2013 due to a low number of flights, environmentally sensitive location and persistent financial losses.
+
+The airport's management will be handed over to Shaurya Aeronautics (Pvt) Ltd. of India and Airports of Regions Management Company of Russia for 30 years, a cabinet statement said, without mentioning the deal value.
+
+Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, part of $4.2 billion borrowed for other infrastructure projects.
+
+...
+
+[Data](articles/d38df7f8.json)
+
+---
+
 ### Two Lieutenant Commander remanded
 
 *2024-04-26 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195996) · `si`
@@ -534,7 +586,7 @@ Colombo, April 26 (Daily Mirror) - Colombo residents are set to experience a 14-
 
 The NWSDB reported that the water cut will apply to the Colombo 5, 6, Dehiwala-Mount Lavinia and Moratuwa Urban Council areas, Jayanthipura and Pelawatta.
 
-Water supply will be disrupted at 5 p.m. tomorrow (28), and will resume at 7 a.m. on Sunday (28).
+Water supply will be disrupted at 5 p.m. tomorrow (27), and will resume at 7 a.m. on Sunday (28).
 
 According to the NWS&DB, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
 
@@ -2209,75 +2261,5 @@ The new visa system and the new online system have been implemented in the Depar
 [Data](articles/63e0c2df.json)
 
 [Extended Data](ext_articles/63e0c2df.ext.json)
-
----
-
-### Correcting documents set up and sell motorcycles
-
-*2024-04-26 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195976) · `si`
-
-"Correcting documents to assemble imported motorcycle parts for sale. Unlawful fake documents sold."
-
-🟩
-
-A racket racket racket racket to assemble the imported parts and sell motorcycle.
-
-It has been revealed that the unlawful motorcycle fake documents have been sold.
-
-◼️
-
-[Data](articles/f399ab3d.json)
-
-[Extended Data](ext_articles/f399ab3d.ext.json)
-
----
-
-### Web range for theft doctor
-
-*2024-04-26 06:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டு-வைத்தியருக்கு-வலை-வீச்சு/175-336366) · `ta`
-
-A man posing as a doctor at Kiliyapitiya Teaching Hospital stole gold jewelry from a child, using a scanner to remove it. The imposter, who met a mother for treatment, escaped with the child's jewelry.
-
-🟩
-
-Kiliyapitiya headquarters headquarters headquarters police said that a man who played a doctor from a child who had gone to the Kiliyapitiya Teaching Hospital yesterday (24) had stolen gold jewelery.
-
-A 40 -year -old mother from Kumbagoduwa area met with a doctor at the Kiliyapitiya Teaching Hospital for treatment of a thorn injury on her son's leg.
-
-The person who looks like a doctor has said that he should scan the son and put the gold ornaments he wore and put it in the bag.
-
-A senior police officer said that the doctor's disguise man took the baby and sat on the bench in the hospital and escaped with the child's gold jewelery.. Remble
-
-◼️
-
-[Data](articles/0d1a1707.json)
-
-[Extended Data](ext_articles/0d1a1707.ext.json)
-
----
-
-### The sea is seen as turbulent
-
-*2024-04-26 06:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-கொந்தளிப்பாக-காணப்படும்/175-336365) · `ta`
-
-Dr. Mohamed Saliheen warns of turbulent seas, rain, and thunderstorms in Central, Sabaragamuwa, Upper, North Western, and Southern Provinces. Public vigilance advised due to strong winds and lightning.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said the temperature in most provinces of the country today.
-
-Accordingly, rain or thunderstorms are expected in several parts of the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
-
-In some parts of the Central, Sabaragamuwa and Uva provinces
-
-In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
-
-But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a state of volatility.. Remble
-
-◼️
-
-[Data](articles/271bcaf4.json)
-
-[Extended Data](ext_articles/271bcaf4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 09:34:00**
+As of **2024-04-26 09:52:41**
 
 ## Newspaper Stats
 
-*Scraped **21,063** Articles*
+*Scraped **21,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ adalk | 1,760
 tamilmirrorlk | 2,441
 adaderanalk | 2,502
 virakesarilk | 3,171
-dailymirrorlk | 3,280
-adaderanasinhalalk | 3,393
+dailymirrorlk | 3,281
+adaderanasinhalalk | 3,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,062 (100.0%) of 21,063 articles have been extended.
+21,063 (100.0%) of 21,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### යුද හමුදා සෙබළෙකු මරුට - 9කට තුවාල
+
+*2024-04-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195983) · `si`
+
+තුවාල ලැබූ යුද හමුදා සෙබළුන් 10 දෙනෙකු කිළිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඉන් එක් සෙබළෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+
+පොලීසිය සඳහන් කළේ පිරිස ගමන් කළ කැබ් රථය අනතුරකට ලක්වීමෙන් පිරිස තුවාල ලබා ඇති බවය.
+
+◼️
+
+[Data](articles/351c17e2.json)
+
+---
+
+### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+
+*2024-04-26 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195982) · `si`
+
+අද (26) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයේ තෙවන දිනය වෙනුවෙන් පාර්ලිමේන්තුවේ කටයුතු අද සිදු කෙරෙයි.
+
+මේ අතර අද දිනයේ ශ්‍රී ලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා තිබේ.
+
+විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල ඊයේ කමිටුව හමුවට කැඳවා තිබු බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f6524251.json)
+
+---
+
+### මනුෂ්‍ය ඝාතනයක සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-04-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195981) · `si`
+
+පිරිසක් විසින් අඹු-සැමි යුවළක් පැහැරගෙන ගොස් ඉන් පිරිමි පුද්ගලයාව ඝාතනය කිරීමේ සිද්ධියේ සැකකරුවෙකුව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි කරෙයිනගර් ප්‍රදේශයේ පදිංචිකරුවෙකු බවය.
+
+◼️
+
+[Data](articles/1a9325ed.json)
+
+---
+
+### Soldier killed, nine injured in army cab-lorry collision
+
+*2024-04-26 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Soldier-killed-nine-injured-in-army-cab-lorry-collision/108-281406) · `en`
+
+Kilinochchi, April 26 (Daily Mirror) - A soldier was killed and nine others injured when a lorry collided with an army cab at Vasanthanagar in Mankulam early this morning.
+
+Police said the lorry travelling from Mankulam to Kilinochchi, crashed onto the cab ahead of it.
+
+The injured soldiers were rushed to Kilinochchi Hospital, where one of them succumbed to injuries upon admission.
+
+The deceased was identified as a 39-year-old sergeant of the Sri Lanka Army attached to the Murukkandi Army Camp.
+
+◼️
+
+[Data](articles/5f6c343d.json)
+
+---
 
 ### State revenue surged by 6% in Q1 2024 exceeding expectations - Siyambalapitiya
 
@@ -45,6 +109,8 @@ Siyambalapitiya made these remarks during his participation in a press briefing 
 ...
 
 [Data](articles/7a218612.json)
+
+[Extended Data](ext_articles/7a218612.ext.json)
 
 ---
 
@@ -2083,97 +2149,5 @@ Itc welcomes Sri Lanka. Galle Face Hotel, the first five star hotel in Asia, is 
 [Data](articles/478eb6b3.json)
 
 [Extended Data](ext_articles/478eb6b3.ext.json)
-
----
-
-### Duminda Dissanayake appointed SLFP’s Acting General Secretary
-
-*2024-04-25 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98846/duminda-dissanayake-appointed-slfps-acting-general-secretary) · `en`
-
-The Sri Lanka Freedom Party’s (SLFP) faction led by Minister Nimal Siripala de Silva has appointed MP Duminda Dissanayake as the party’s Acting General Secretary.
-
-He was appointed during the politburo meeting convened by the faction backing Minister Nimal Siripala de Silva this evening (25).
-
-On Wednesday (24), the Colombo District Court issued an injunction preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP and implementation of the decisions taken by him as the SLFP Acting General Secretary.
-
-It was mentioned in the order that these injunctions will remain in effect until May 08, 2024.
-
-These injunctions were issued after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
-
-◼️
-
-[Data](articles/bfca08e2.json)
-
-[Extended Data](ext_articles/bfca08e2.ext.json)
-
----
-
-### Rehabilitation of income goals of the year
-
-*2024-04-25 18:47:18* · [`adalk`](https://www.ada.lk/breaking_news/වසරේ-ආදායම්-ඉලක්ක-අභිභවා-යා-හැකියි/11-409266) · `si`
-
-State Minister Ranjith Siyambalapitiya highlights the rehabilitation of income goals for 2024, emphasizing increased revenue, reduced debt repayment interest, and a 60% increase in capital expenditure. Despite challenges in cash flow and expenditure, the first quarter of 2024 shows a 6% increase in state income targets, with significant contributions from various departments. Economic indicators like the National Consumer Price Index and non-food inflation are improving, indicating a positive economic outlook.
-
-🟩
-
-State Minister of Public Plantation Enterprise Development and Finance Ranjith Siyambalapitiya said that a state revenue of the Cabinet has increased from Rs.
-
-Participating on the formal financial management and income pattern of the country will be the income of 2024 targets, the State Minister said.
-
-State Minister Ranjith Siyambalapitiya stated that the government plantation enterprise Enterprise Enterprise Reforms and Finance Secretary Ranjith Siyambalapitiya stated that no longer a member of the Cabinet of Ministers.
-
-"Treasury Operations Department has faced a challenge in managing cash flow this year. In the current laws, obtaining loans and unable to print money. Government expenditure has also increased due to welfare and recurrent expenditure. But it should be said that true financial management is in operation in the country.
-
-...
-
-[Data](articles/9f307cf7.json)
-
-[Extended Data](ext_articles/9f307cf7.ext.json)
-
----
-
-### Duminda to be appointed SLFP acting
-
-*2024-04-25 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195968) · `si`
-
-Duminda Dissanayake appointed as SLFP Acting Secretary General. Decision made at political meeting today.
-
-🟩
-
-Duminda Dissanayake has been appointed as the new Acting Secretary General of the Sri Lanka Freedom Party.
-
-The decision was taken at a political meeting held today (25).
-
-The Sri Lanka Freedom Party (SLFP) Politburo also met with party acting chairman Minister Nimal Siripala De Silva this afternoon.
-
-◼️
-
-[Data](articles/04b2dd47.json)
-
-[Extended Data](ext_articles/04b2dd47.ext.json)
-
----
-
-### Japanese greatly for Colombo Port City
-
-*2024-04-25 18:27:34* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-වරාය-නගරයට-ජපන්-අවහලක්/11-409265) · `si`
-
-President Ranil Wickremesinghe inaugurated the Nihonbashi restaurant in Colombo Port City, highlighting its significance to Sri Lanka. The event featured a friendly conversation with attendees, including Sagala Ratnayake and other distinguished guests.
-
-🟩
-
-The Nihonbash (NIHONBASH) of the Colombo Port City premises was chaired by President Ranil Wickremesinghe yesterday (24).
-
-The first Nihonbashi, the first Nihonbashi, the first Nihonbashi, the first Niwonbashi, the first Niwonbashi, is a prominent restaurant to Sri Lanka, as a well-known chef in Sri Lanka. The restaurant has provided the people of Sri Lanka, including local and foreign tourists.
-
-The President officially opened the restaurant and joined the attendance in a friendly conversation with the attendees.
-
-Senior Presidential Advisor on National Security and Chief of Defense staff Sagala Ratnayake and other distinguished invitees were also present.
-
-◼️
-
-[Data](articles/2576214b.json)
-
-[Extended Data](ext_articles/2576214b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 20:52:17**
+As of **2024-04-26 21:03:37**
 
 ## Newspaper Stats
 
-*Scraped **21,162** Articles*
+*Scraped **21,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,771
 tamilmirrorlk | 2,449
-adaderanalk | 2,520
+adaderanalk | 2,521
 virakesarilk | 3,189
-dailymirrorlk | 3,298
-adaderanasinhalalk | 3,415
+dailymirrorlk | 3,301
+adaderanasinhalalk | 3,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,162 (100.0%) of 21,162 articles have been extended.
+21,162 (100.0%) of 21,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### බන්ධනාගාරයේදී සැප ඉල්ලන හරක් කටා
+
+*2024-04-26 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196008) · `si`
+
+මේ දිනවල දැඩි රස්නයක් පවතින නිසා තමා රඳවා සිටින කුටියේ සිටීමට අපහසු බැවින් තමාට විදුලි පංකාවක් ලබාදෙන්නැයි ප්‍රබල මත්ද්‍රව්‍ය ජාවාරමකරුවකු වන නඳුන් චින්තක නොහොත් හරක් කටා අධිකරණයෙන් අද (26) ඉල්ලා සිටියේය.
+
+එමෙන්ම ඔහු ඉල්ලා ඇත්තේ තමාට කියවීමට පොත් හෝ පුවත්පත් ලබාදෙන ලෙසය.
+
+මෙම ඉල්ලීම් සිදුකෙරුණේ සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් භාරයේ සිටියදී ඉන් පළායාමට උත්සාහ කිරීම සම්බන්ධයෙන් නඳුන් චින්තක හෙවත් "හරක් කටා" සහ තවත් දෙදෙනෙකුට එරෙහිව ගොනුකර ඇති අධිචෝදනාවලට අදාළ නඩුව කොළඹ මහාධිකරණයේදී අද යළි කැඳවනු ලැබීය.
+
+තංගල්ල පැරණි බන්ධනාගාරයේ පිහිටි රැඳවුම් මධ්‍යස්ථානයේ සිට හරක් කටා නඩු වාරයට රැගෙන විත් තිබිණි.
+
+නීතිපතිවරයා වෙනුවෙන් පෙනීසිටි රජයේ නීතිඥ සජිත් බණ්ඩාර මහතා එහිදී දැනුම් දුන්නේ ඉකුත් නඩු වාරයේදී විත්තිය ඉල්ලූ පරිදි සැකකරුට නීතිඥයින් සහ ඥාතීන් හමුවීමට පහසුකම් සැලසූ බවය.
+
+නමුත් "හරක් කටා" වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා මෙලෙස අධිකරණයේදී චෝදනා කිහිපයක් කළේය.
+
+...
+
+[Data](articles/d1f7271b.json)
+
+---
+
+### High Posts Committee green-lights several new appointments
+
+*2024-04-26 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98872/high-posts-committee-green-lights-several-new-appointments) · `en`
+
+The Committee on High Posts has approved the appointments of a new ambassador, a ministry secretary and two chairpersons of state institutions.
+
+Accordingly, the Committee on High Posts has approved the appointment of Mr. S.A. Rodrigo as the new Sri Lankan Ambassador to Italy.
+
+In addition to that, the appointment of Mr. A.C.M. Nafeel as the new Secretary of the Ministry of Water Supply and Estate Infrastructure Development was also approved by the Committee on High Posts.
+
+Furthermore, the Committee on High Posts approved the appointments of Mr. W.A.D.S. Gunasinghe as the new chairman of the Regional Development Bank and Mr. N.K.S. Jayasekara as the new chairman of the Sri Lanka Atomic Energy Regulatory Council.
+
+Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen participated in the meeting of the High Posts Committee which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
+
+◼️
+
+[Data](articles/e0f37658.json)
+
+---
+
+### Two women stuck between two moving compartments
+
+*2024-04-26 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-stuck-between-two-moving-compartments/108-281444) · `en`
+
+Colombo, April 26 (Daily Mirror) - Two women were trapped between two compartments this evening while trying to board a moving train before it stopped, the Railways Department said.
+
+They said the accident occurred at around 4:35 p.m. as the Kandy-bound Colombo train was arriving at the Colombo Fort station, where it was supposed to stop for passengers to board.
+
+Both women sustained serious injuries and were taken to the hospital for treatment, they said.
+
+A major rescue effort ensued, with bystanders and railway employees at the Fort station working together to free the women from between the train compartments, the Department said.
+
+◼️
+
+[Data](articles/feb023cf.json)
+
+---
+
+### Statement to CID - Maithripala has not implicated any Sri Lankans
+
+*2024-04-26 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Statement-to-CID-Maithripala-has-not-implicated-any-Sri-Lankans/108-281443) · `en`
+
+Colombo, April 26 (Daily Mirror) - Public Security Minister Tiran Alles told Parliament today (26) that former President Maithripala Sirisena, in his statement to the CID, did not disclose any information implicating a citizen of this country or any connection to a citizen in relation to the Easter Sunday bomb attacks.
+
+During the debate on the Easter Sunday bomb attacks, which span eleven days, Minister Alles emphasized the importance of seeking answers without politicizing the matter. He urged collaboration among the police and legal authorities to address any shortcomings and bring closure to the discussions.
+
+Regarding the former President's statement, Minister Alles noted the absence of any mention implicating a citizen or their relation in the country. He also referenced to an ongoing case before the Maligakanda court related to this matter, refraining from further commentary on the topic.
+
+...
+
+[Data](articles/d183731b.json)
+
+---
+
+### පොලීසිය බලාසිටිය දීම කළුතර මැරයෝ යකා නටති
+
+*2024-04-26 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196007) · `si`
+
+කළුතර නාගොඩ රෝහලේ ප්‍රධාන දොරටුව අසල පොලිස් නිලධාරීන් සහ ආරක්ෂක නිලධාරීන් බලා සිටියදී රෝහලට පැමිණි කාන්තාවකට තියුණු ආයුධවලින් පහර දී තිබේ.
+
+පහරදීම සිදුකර ඇත්තේ කළුතර, වෙනිවැල්පිටිය ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත මැර පිරිසකි.
+
+කළුතර, වෙනිවැල්පිටිය, වෙන්දේසි වත්ත ප්‍රදේශයේ නිවසකට ඊයේ (25) පස්වරුවේ පැමිණි පුද්ගලයින් කිහිපදෙනෙක් එහි සිටි තරුණයෙකුට පහර දී නිවසේ දේපළවලටත් හානි කර තිබේ.
+
+පහරදීම සම්බන්ධයෙන් චෝදනා එල්ල වන්නේ, එම ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත සුද්දා සහ රනේ නැමැති පුද්ගලයින් දෙදෙනෙකුට සහ ඔවුන්ගේ ආධාරකරුවන් කිහිපදෙනෙකුටය.
+
+එම නිවසේ තරුණයාට පහරදුන් පිරිස පසුව ඒ ආසන්නයේ ඇති තවත් නිවසකට ගොස් එහි සිටි තරුණයින් දෙදෙනෙකුට ද පහරදීමට තැත්කර තිබේ.
+
+නමුත් එම නිවසේ තරුණයින් දෙදෙනා සිය ජීවිත බේරාගැනීමට සමත් වුණේ ඒ අසල ඇති කැලයට පැනයමිනි.
+
+මේ සම්බන්ධයෙන් කළුතර දකුණ පොලීසියට දුරකථනයෙන් දැනුම් දී ඇති අතර පසුව එහි පැමිණි නිලධාරීන් මැර පිරිස සමග කතාබස් කර පිටව ගිය බවට චෝදනා එල්ල වේ.
+
+...
+
+[Data](articles/97be7d48.json)
+
+---
 
 ### Romania employment racket
 
@@ -83,6 +183,22 @@ The match will be held today with the Kolkata Knight Riders team and Punjab King
 [Data](articles/00998270.json)
 
 [Extended Data](ext_articles/00998270.ext.json)
+
+---
+
+### US to support Sri Lanka’s dairy modernization drive
+
+*2024-04-26 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-to-support-Sri-Lankas-dairy-modernization-drive/108-281442) · `en`
+
+Colombo, April 26 (PMD) - In a bid to bolster Sri Lanka's dairy industry, Alexis Taylor, the Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), conferred with Sri Lankan President Ranil Wickremesinghe on April 26.
+
+During the meeting, Taylor apprised President Wickremesinghe of the ongoing dairy modernization initiative backed by the United States. President Wickremesinghe warmly welcomed the programme, noting its alignment with Sri Lanka's expansive efforts in dairy production across the nation.
+
+The President took the opportunity to detail the Sri Lankan government's endeavors in modernizing agriculture, underscoring the imperative of fostering greater participation of the youth in the sector. In response, the U.S. delegation affirmed their support for these endeavours, vowing to extend the necessary aid.
+
+◼️
+
+[Data](articles/925b36fb.json)
 
 ---
 
@@ -2147,129 +2263,5 @@ The Department of Parliament, the National Institute of Business Management and 
 [Data](articles/f6524251.json)
 
 [Extended Data](ext_articles/f6524251.ext.json)
-
----
-
-### Suspect arrested for murder
-
-*2024-04-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195981) · `si`
-
-A suspect was arrested for murder after being abducted and killed by a couple. The victim, a 30-year-old from Karainagar, was identified by the police.
-
-🟩
-
-A suspect had been abducted by a group of couple and killed the man who was murdered by a group.
-
-The police said that the victim was a 30 year old resident of Karainagar.
-
-◼️
-
-[Data](articles/1a9325ed.json)
-
-[Extended Data](ext_articles/1a9325ed.ext.json)
-
----
-
-### Soldier killed, nine injured in army cab-lorry collision
-
-*2024-04-26 09:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Soldier-killed-nine-injured-in-army-cab-lorry-collision/108-281406) · `en`
-
-Kilinochchi, April 26 (Daily Mirror) - A soldier was killed and nine others injured when a lorry collided with an army cab at Vasanthanagar in Mankulam early this morning.
-
-Police said the lorry travelling from Mankulam to Kilinochchi, crashed onto the cab ahead of it.
-
-The injured soldiers were rushed to Kilinochchi Hospital, where one of them succumbed to injuries upon admission.
-
-The deceased was identified as a 39-year-old sergeant of the Sri Lanka Army attached to the Murukkandi Army Camp.
-
-◼️
-
-[Data](articles/5f6c343d.json)
-
-[Extended Data](ext_articles/5f6c343d.ext.json)
-
----
-
-### State revenue surged by 6% in Q1 2024 exceeding expectations - Siyambalapitiya
-
-*2024-04-26 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98853/state-revenue-surged-by-6-in-q1-2024-exceeding-expectations-siyambalapitiya) · `en`
-
-In the first quarter of 2024, state revenue has reached an impressive Rs. 834 billion, says State Minister of Finance, Ranjith Siyambalapitiya. This achievement not only surpasses the projected revenue but also indicates a growth of 6%, he added.
-
-The lawmaker emphasized that with prudent financial management and a consistent revenue pattern, 2024 promises to be a year where revenue targets can be successfully attained.
-
-Siyambalapitiya made these remarks during his participation in a press briefing held at the Presidential Media Centre (PMC) on Thursday (25), under the theme ‘Collective Path to a Stable Country’.
-
-...
-
-[Data](articles/7a218612.json)
-
-[Extended Data](ext_articles/7a218612.ext.json)
-
----
-
-### Surgeons perform first combined heart pump and pig kidney transplant
-
-*2024-04-26 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surgeons-perform-first-combined-heart-pump-and-pig-kidney-transplant/108-281400) · `en`
-
-(CNN) - The first transplant surgery to combine a mechanical heart pump as well as a gene-edited pig kidney has been completed at NYU Langone Health, the system said Wednesday.
-
-The subject, 54-year-old Lisa Pisano of New Jersey, had heart failure and end-stage kidney disease that required routine dialysis, NYU Langone said in a news release. But she couldn’t have a standard heart or kidney transplant because of other chronic medical conditions that “significantly reduced the likelihood of a good outcome” and because of an overall lack of donor organs in the US.
-
-“When that opportunity first came to me, I was like, ‘I gotta try it,’ ” Pisano said during a news conference Wednesday from her bed in the intensive care unit.
-
-“I’ve tried everything else, and I’ve exhausted all other resources. So when this opportunity came, I said, ‘I’m gonna take advantage of it,’ ” she said, hoping to “spend time with my grandkids and play with them.”
-
-...
-
-[Data](articles/40339c96.json)
-
-[Extended Data](ext_articles/40339c96.ext.json)
-
----
-
-### Anura Dissanayake to Sweden
-
-*2024-04-26 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195980) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power and Leader Parliamentarian, left Sweden last night for several meetings in the country.
-
-🟩
-
-Leader of the National Power and Leader Parliamentarian Anura Kumara Dissanayake left Sweden.
-
-He had left the island last night.
-
-Anura Kumara Dissanayake is also on the occasion to participate in several meetings in the country.
-
-◼️
-
-[Data](articles/e3576c88.json)
-
-[Extended Data](ext_articles/e3576c88.ext.json)
-
----
-
-### Five provinces likely to receive thundershowers this evening
-
-*2024-04-26 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98852/five-provinces-likely-to-receive-thundershowers-this-evening) · `en`
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Southern provinces after 2 p.m., the Meteorology Department.
-
-Showers or thundershowers may occur at a few places over the coastal areas of Galle to Hambantota via Matara during the morning too.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces in the morning.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Pottuvil to Matara via Hambantota.
-
-Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
-
-...
-
-[Data](articles/97ad8032.json)
-
-[Extended Data](ext_articles/97ad8032.ext.json)
 
 ---

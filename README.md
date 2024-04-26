@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 12:18:35**
+As of **2024-04-26 12:34:06**
 
 ## Newspaper Stats
 
-*Scraped **21,092** Articles*
+*Scraped **21,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,194
 adalk | 1,763
 tamilmirrorlk | 2,446
-adaderanalk | 2,508
+adaderanalk | 2,509
 virakesarilk | 3,174
 dailymirrorlk | 3,283
 adaderanasinhalalk | 3,401
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,092 (100.0%) of 21,092 articles have been extended.
+21,092 (100.0%) of 21,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Several political decisions taken at meeting between President & ruling party MPs
+
+*2024-04-26 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98861/several-political-decisions-taken-at-meeting-between-president-ruling-party-mps) · `en`
+
+A special meeting of the Members of Parliament representing the ruling party led by President Ranil Wickremesinghe has been held at the Presidential Secretariat last night (25).
+
+During the discussion, special attention of the MPs has reportedly been drawn to the government’s future course of actions, implementation of development projects and preparation of developmental plans covering all electorates.
+
+Sources said that it also focused on the decisions to be taken by political parties and reaching specific agreements in relation to the upcoming elections.
+
+Speaking to the media following the meeting, State Minister D.B. Herath said that the affiliated parties of the government have decided to work together in the upcoming presidential election.
+
+The meeting was participated by all MPs of the ruling party including Prime Minister Dinesh Gunawardena and former President Mahinda Rajapaksa.
+
+◼️
+
+[Data](articles/d0e0ce6a.json)
+
+---
 
 ### One of two - China warns America
 
@@ -2153,27 +2173,5 @@ The demise of the Immigration and Emigration's Department is listed below,
 [Data](articles/86d7df4f.json)
 
 [Extended Data](ext_articles/86d7df4f.ext.json)
-
----
-
-### Iran’s President Raisi urges broadening ties with Asian countries
-
-*2024-04-25 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98848/irans-president-raisi-urges-broadening-ties-with-asian-countries) · `en`
-
-Iran’s President Ebrahim Raisi has called for expanding ties with Asian countries, particularly Pakistan and Sri Lanka, to strengthen bilateral, regional, and international cooperation.
-
-President Raisi made the remarks on Thursday morning after returning to Tehran from an official visit to Pakistan and Sri Lanka.
-
-Referring to the official meetings with Pakistan’s authorities, Raisi said that they discussed strengthening cooperation in the energy and economic sectors by increasing commercial ties to $10 billion annually.
-
-Also, he said that the barriers to expansion of cultural cooperation with Punjab, and Sindh states in Pakistan, which have great cultural and economic cooperation with Iran, were examined and agreed to be removed for enhancing ties.
-
-During his visit to Sri Lanka, President Raisi attended the inauguration of a large and multi-purpose hydroelectric project implemented by an Iranian company with modern, high-level, and sophisticated technology.
-
-...
-
-[Data](articles/f99eced6.json)
-
-[Extended Data](ext_articles/f99eced6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 11:19:02**
+As of **2024-04-26 11:34:17**
 
 ## Newspaper Stats
 
-*Scraped **21,084** Articles*
+*Scraped **21,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 1,193
 economynextcom | 1,194
 adalk | 1,762
 tamilmirrorlk | 2,444
-adaderanalk | 2,505
+adaderanalk | 2,507
 virakesarilk | 3,174
 dailymirrorlk | 3,283
-adaderanasinhalalk | 3,399
+adaderanasinhalalk | 3,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,080 (100.0%) of 21,084 articles have been extended.
+21,084 (100.0%) of 21,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### O/L නැවත සමීක්ෂණ ප්‍රතිඵල එන දිනය ඇමති කියයි
+
+*2024-04-26 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195987) · `si`
+
+සාමාන්‍ය පෙළ නැවත සමීක්ෂණ ප්‍රතිඵල මෙවර සාමාන්‍ය පෙළ විභාගයට පෙර නිකුත් කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පවසයි.
+
+ඔහු අද (26) පාර්ලිමේන්තුවේදී සඳහන් කළේ සාමාන්‍ය පෙළ විභාගය මැයි මාසයේ දෙවෙනි සතියේ ආරම්භවීමට නියමිතව බවය.
+
+"සාමාන්‍ය පෙළ විභාගය මැයි මාසයේ දෙවෙනි සතියේ ආරම්භවීමට නියමිතව තිබෙනවා. ඊට පෙර සියලු නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරන බවට විභාග කොමසාරිස්තුමා දැනුම්දුන්නා."
+
+◼️
+
+[Data](articles/b9ba4763.json)
+
+---
+
+### Verdict on MSD director’s bail request deferred to next week
+
+*2024-04-26 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98858/verdict-on-msd-directors-bail-request-deferred-to-next-week) · `en`
+
+The Court of Appeal has deferred the verdict on the bail request made by the Director of Medical Supplies Division (MSD) Dr. Kapila Wickramanayake.
+
+Thereby, the decision on the bail request, which was slated to be delivered today by Appeals Court judge D.N. Samarakoon, is expected on 30 April.
+
+Wickramanayake is currently held in remand custody over the alleged substandard immunoglobulin imports case. He had filed the petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
+
+On 20 November 2023, MSD Director and three other officials arrested over the controversial Immunoglobulin import were ordered to be remanded in custody by the Maligakanda Magistrate’s Court.
+
+...
+
+[Data](articles/9e76a013.json)
+
+---
+
+### Hearing of case against “Harak Kata” fixed for 15 May
+
+*2024-04-26 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98857/hearing-of-case-against-harak-kata-fixed-for-15-may) · `en`
+
+The Colombo High Court on Friday (26) fixed a date for the hearing of the case filed against the notorious criminal figure and drug trafficker Nadun Chinthaka alias “Harak Kata” over his failed escape attempt from the Criminal Investigation Department (CID).
+
+Accordingly, the case filed against “Harak Kata” and two others will be taken up on 15 May, on the orders of High Court Judge Damith Thotawatta.
+
+The accused is being held at the old prison complex in Tangalle, which currently operates as a detention centre.
+
+On 10 September 2023, “Harak Kata”, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
+
+During the questioning, “Harak Kata” had allegedly requested to go to the washroom and was escorted out of the interrogation room with his accomplice – the police constable, and another sub-inspector attached to the Police Special Task Force (STF), assigned for the suspect’s protection.
+
+...
+
+[Data](articles/1c0f6470.json)
+
+---
 
 ### Order on Dr. Kapila Wickremanayake's bail
 
@@ -136,43 +190,61 @@ Launching its operations, the first flight arrived at the BIA with 138 passenger
 
 [Data](articles/71ba0b05.json)
 
+[Extended Data](ext_articles/71ba0b05.ext.json)
+
 ---
 
-### இலங்கையில் குரங்குகளின் இனப்பெருக்கத்தை கட்டுப்படுத்த புதிய கருவி
+### A new tool to control the breeding of monkeys in Sri Lanka
 
 *2024-04-26 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181987) · `ta`
 
-குரங்குகளின் இனப்பெருக்கத்தை கட்டுப்படுத்த வளையம் வடிவிலான புதிய கருப்பை கருவியை பேராதனை பல்கலைக்கழகத்தில் உள்ள கால்நடை மருத்துவ பீடம் அறிமுகப்படுத்தியுள்ளது.
+The University of Peradeniya has developed a new uterine tool for controlling monkey breeding, initially tested on a 1.5-year-old monkey. The tool, which was adapted from a pregnancy prevention device for humans, has been successfully used in a radiological examination. Collaboration between the Department of Maternity and Neurology and the Paradise Faculty of Dental Medicine is noted. The tool, costing 2000 rupees, aims to manage monkey populations.
 
-கருவியை ஒருமுறை குட்டி ஈன்ற ஒன்றரை வயது பெண் குரங்கிற்கு சோதனைக்காக பயன்படுத்தப்பட்டது.
+🟩
 
-சோதனையின் பின்னர் மேற்கொள்ளப்பட்ட கதிரியக்க பரிசோதனையில், கருப்பையில் பொருத்தப்பட்ட கருவி வெற்றிகரமாக செயல்பட்டுள்ளதை அவதானித்ததாக பேராதனை பல்கலைக்கழகத்தின் கால்நடை மருத்துவ பீடத்தைச் சேர்ந்த சிரேஷ்ட பேராசிரியர் அசோக தங்கொல்ல தெரிவித்தார்.
+The veterinary pedestal at the University of Peradeniya has introduced a new uterine tool to control the breeding of monkeys.
 
-பெண்களுக்கு கர்ப்பம் தரிப்பதை தடுக்கும் நடைமுறையிலுள்ள சாதாரண அளவிலான கருவியை பயன்படுத்திய போது அது தோல்லி அடைந்தது. அதனால் சிறிய அளவிலான வளையத்தை உருவாக்க முடிவு செய்தோம் என தெரிவித்துள்ளார்.
+The instrument was once used for testing for a one -and -a -half -year -old monkey.
 
-பேராதனை போதனா வைத்தியசாலையின் மகப்பேறு மற்றும் நரம்பியல் திணைக்களத்தின் வைத்தியர்களும் பேராதனையிலுள்ள பல் வைத்திய பீடத்தினரும் இந்த முயற்சிக்கு தமது ஒத்துழைப்பை வழங்கியுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+Senior Professor Asoka Thangolla from the University of Peradeniya University said that the radiological examination carried out after the test was noticed that the uterus was successfully operated.
 
-...
+It reached the throat when it used the normal level of tool in the practice of preventing pregnancy for women. So we decided to create a small ring.
+
+He noted that the doctors of the Department of Maternity and Neurology of the Peradeniya Teaching Hospital and the Paradise Faculty of Dental Medicine in Peradeniya have cooperated with the effort.
+
+“It takes half an hour to calm the animal, which takes another half an hour for surgery. This time it has the potential to control the number of monkeys in the country. ”
+
+It is said that the ring will cost 2000 rupees to produce the new uterine tool.
+
+◼️
 
 [Data](articles/29bb74c3.json)
 
+[Extended Data](ext_articles/29bb74c3.ext.json)
+
 ---
 
-### வாகன விபத்தில் இராணுவ வீரர்  பலி ; நான்கு பேர் படுகாயம்
+### Soldier killed in vehicle accident;Four people were injured
 
 *2024-04-26 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181989) · `ta`
 
-முல்லைத்தீவு முறிகண்டி ஏ 9 வீதியில் இடம் பெற்ற வாகன விபத்தில் இராணுவ வீரர் ஒருவர் உயிரிழந்துள்ளதுடன்   மேலும் நான்கு  பேர் படுகாயம் அடைந்துள்ளனர்.
+A soldier died, and four were injured in a crash on the Mullaitivu A9 road. The accident involved a car returning from Jaffna to a military camp in Thirumurugandi. The deceased soldier's body is at Clichi District General Hospital, with Mankulam police investigating.
 
-ஏ.09 வீதியின் யாழ்ப்பாணம் நோக்கி  பயணித்த பாரஊர்தி  ஒன்றும் திருமுருகண்டி பகுதியில் உள்ள இராணுவ   முகாமுக்கு திரும்ப முற்பட்ட கப்ரக  வாகனமும்  இன்று வெள்ளிக்கிழமை  (26) காலை மோதி  இந்த  விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-இந்த இரு வாகனங்களும் மோதி விபத்துக்குள்ளானதில் கெப்ரக வாகனத்தில் பயணித்த இராணுவ வீரர் ஒருவர் உயிரிழந்துள்ளதுடன், நான்கு பேர் படுகாயம் அடைந்துள்ளனர்.
+A soldier was killed and four others were injured in a vehicle accident on the Mullaitivu A9 road.
 
-இவ்வாறு உயிரிழந்த இராணுவ வீரரின் சடலம் கிளிச்சி மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை மாங்குளம் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+The accident occurred on Friday morning (26), a car that was traveling to Jaffna on the A.09 road and returning to a military camp in Thirumurugandi area.
+
+A soldier in a Kepraku vehicle was killed and four others were injured when the two vehicles crashed.
+
+The body of the deceased soldier has been placed at the Clichi District General Hospital and further investigations are being carried out by the Mankulam police.
 
 ◼️
 
 [Data](articles/9ae55f6e.json)
+
+[Extended Data](ext_articles/9ae55f6e.ext.json)
 
 ---
 
@@ -206,23 +278,29 @@ The body of the deceased has been placed at the Kilinochchi Hospital after inves
 
 ---
 
-### வைத்தியர் எனக் கூறி சிறுவனின் தங்க நகைகள் கொள்ளை
+### The boy's gold jewelery robbery
 
 *2024-04-26 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181986) · `ta`
 
-குளியாபிட்டிய போதனா வைத்தியசாலையில் நேற்று வியாழக்கிழமை தனது தாயுடன் வைத்தியசாலைக்கு சென்ற சிறுவனின் தங்க நகைகளை வைத்தியர் போல நடித்து ஏமாற்றி திருடிச் னெ்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A boy, posing as a doctor, stole 3.82 lakhs worth of gold jewelry from a patient at Kiliyapitiya Teaching Hospital.
 
-இவ்வாறு திருடப்பட்ட தங்க நகைகள் சுமார் 3 இலட்சத்து 82 ஆயிரம் ரூபா பெறுமதியுடையது என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-அனுக்கனே குபுகொடுவ பிரதேசத்தைச் சேர்ந்த 40 வயதுடைய தாய் சிறுவனின் காலில்  ஏற்பட்ட காயத்திற்கு சிகிச்சை பெற குளியாப்பிட்டிய போதனா வைத்தியசாலையில் சிகிச்சை பெற சென்றுள்ளார்.
+Police said that the boy who went to the hospital with his mother at the Kiliyapitiya Teaching Hospital on Thursday was acting as a doctor.
 
-இதன்போது, தன்னை வைத்தியர் எனக் கூறிய நபரொருவர் சிறுவனுக்கு ஸ்கேன் பரிசோதனை செய்ய வேண்டும் என்று, அவர் அணிந்திருந்த தங்க நகைகளை கழற்றி பையில் போடுமாறு கூறியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The stolen gold jewelery is worth about 3 lakhs 82 thousand rupees, police said.
 
-மேலும், இந்த நபர் வைத்தியசாலையில் உள்ள கதிரையில் சிறுவனை அமரச் செய்து தங்க நகைகளுடன் தப்பிச் சென்றுள்ளதாக உயர் பொலிஸ் அதிகாரி தெரிவித்துள்ளார்.
+Anukane has gone to Kuliyapitiya Teaching Hospital for treatment of a child's leg injury.
+
+The police said that a person who called himself a doctor had to scan the boy and put the gold jewelery he was wearing and put it in the bag.
+
+In addition, the person has escaped with gold jewelery in the hospital in the hospital, a high -ranking police officer said.
 
 ◼️
 
 [Data](articles/95c52ddc.json)
+
+[Extended Data](ext_articles/95c52ddc.ext.json)
 
 ---
 
@@ -2083,65 +2161,5 @@ The Minister Mahinda Amaraweera has been sent on the 22nd and the claim that he 
 [Data](articles/9b19df49.json)
 
 [Extended Data](ext_articles/9b19df49.ext.json)
-
----
-
-### Duminda to be appointed SLFP acting Secretary
-
-*2024-04-25 20:08:48* · [`adalk`](https://www.ada.lk/breaking_news/දුමින්ද-ශ්‍රීලංනිප-වැඩබලන-මහ-ලේකම්-ධුරයට/11-409272) · `si`
-
-Duminda Dissanayake appointed as Acting Secretary General of the Sri Lanka Freedom Party by the Politburo. He is also the National Organizer. The Political Board will inform the Election Commission tomorrow.
-
-🟩
-
-Duminda Dissanayake has been appointed as Acting Secretary General of the Sri Lanka Freedom Party.
-
-The appointment was made by the party's Politburo (25). Duminda Dissanayake is also the National Organizer of the SLFP.
-
-The Political Board (SLC) will inform the Election Commission tomorrow (26).
-
-◼️
-
-[Data](articles/16f4f6e0.json)
-
-[Extended Data](ext_articles/16f4f6e0.ext.json)
-
----
-
-### Anura Kumara leaves for Sweden tonight
-
-*2024-04-25 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-leaves-for-Sweden-tonight/108-281370) · `en`
-
-Colombo, April 25 (Daily Mirror)- National People's Power (NPP) leader Anura Kumara Dissanayake is scheduled to leave for Sweden tonight, party sources said.
-
-He is to attend a meeting with the Sri Lankan diaspora in Stockholm, Sweden on Saturday (27).
-
-◼️
-
-[Data](articles/8905f593.json)
-
-[Extended Data](ext_articles/8905f593.ext.json)
-
----
-
-### The price of milk powder has no further decrease
-
-*2024-04-25 19:58:20* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිල-තවදුරටත්-අඩු-වීමක්-නෑ/11-409271) · `si`
-
-Milk powder prices won't decrease further. From April 25, 2024, all brands will operate at a base price, with a maximum retail price of Rs. 1,050 for 400g. This decision was made to provide relief during the Sinhala and Tamil New Year period.
-
-🟩
-
-Milk powder importers is that the reports that the prices of milk powder will be completely base to operate from April 25, 2024.
-
-Its spokesman Asoka Bandara says that all milk powder brand has been reduced by all milk powder brands on 1 April 2024 to provide relief to the people during the Sinhala and Tamil New Year period.. Accordingly, the maximum retail price of a 400 g 400 g is established as Rs. 1,050 / -.
-
-Also, under various promotions, a number of milk powder will be sold at a maximum retail price.. Therefore, according to Asoka Importments, the forum of milk powder will be decreased from the false reports yesterday.
-
-◼️
-
-[Data](articles/054877a0.json)
-
-[Extended Data](ext_articles/054877a0.ext.json)
 
 ---

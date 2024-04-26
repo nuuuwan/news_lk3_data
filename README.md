@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 17:18:39**
+As of **2024-04-26 17:34:35**
 
 ## Newspaper Stats
 
-*Scraped **21,144** Articles*
+*Scraped **21,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,56 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,768
 tamilmirrorlk | 2,447
-adaderanalk | 2,516
+adaderanalk | 2,517
 virakesarilk | 3,189
-dailymirrorlk | 3,293
+dailymirrorlk | 3,294
 adaderanasinhalalk | 3,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,141 (100.0%) of 21,144 articles have been extended.
+21,144 (100.0%) of 21,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### මැදිහත්කරුවෙක් වෙන්නැයි සජබයෙන් නීතිඥ සංගමයට ඇරයුමක්
+### Transport Ministry DG to oversee duties of Railways GM
+
+*2024-04-26 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98869/transport-ministry-dg-to-oversee-duties-of-railways-gm) · `en`
+
+The Director General of the Ministry of Transport and Highways S.S. Mudalige has been appointed to oversee the functions and duties of the General Manager position of Sri Lanka Railways.
+
+The position was left vacant with the sudden passing away of the Railways General Manager H.M.K.W. Bandara.
+
+Accordingly, the relevant appointment will be in place until the Cabinet of Ministers appoints a qualified official to the vacant position.
+
+◼️
+
+[Data](articles/05cc88c2.json)
+
+---
+
+### Bar Association invited to be a mediator
 
 *2024-04-26 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196001) · `si`
 
-සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය අතර යෝජිත විවාදය සඳහා මැදිහත් පාර්ශවයක් ලෙස කටයුතු කිරීමට ශ්‍රී ලංකා නීතිඥ සංගමයට ආරාධනා කර තිබේ.
+The Bar Association of Sri Lanka (BASL) has been invited by the Head of the Sihily Power and Head of the Sri Lankan arrest to mediate between the reconciliation and national folk force, considering the international interest in these debates.
 
-ලිපියක් භාරදෙමින් සමගි ජන බලවේගයේ මෙහෙයුම් ප්‍රධානී නලීන් බණ්ඩාර මහතා මෙම ඉල්ලීම සිදුකර ඇත.
+🟩
 
-මෙවැනි විවාද සංවිධාන කිරීම හා සහ සම්බන්ධීකරණය පිළිබඳ ජාත්‍යන්තරව ඇති පුර්වාදර්ශ ද සැලකිල්ලට ගනිමින් මෙම සම්බන්ධීකරණය සහ අනෙකුත් විධිවිධාන සැලසීමට ශ්‍රී ලංකා නීතිඥ සංගමයට එලෙස ආරාධනා කර ඇත.
+The Bar Association of Sri Lanka has been invited to serve as an intervening party between the reconciliation and national folk force.
+
+The request was made by the Head of the Sihily Power and Head of the Sri Lankan arrest.
+
+The Bar Association of Sri Lanka (BASL) has been invited to provide this coordination and other provisions, considering the internationally preoccupied and coordination of such debates.
 
 ◼️
 
 [Data](articles/6d67e778.json)
+
+[Extended Data](ext_articles/6d67e778.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ The Chief Guest for the first-leg in Colombo will be the 1985 Royal Skipper Chir
 ◼️
 
 [Data](articles/4e0eb488.json)
+
+[Extended Data](ext_articles/4e0eb488.ext.json)
 
 ---
 
@@ -122,19 +146,35 @@ The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priorit
 
 *2024-04-26 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98867/new-regulatory-body-to-be-introduced-for-energy-sector) · `en`
 
-The Cabinet of Ministers has approved the proposal presented by the Minister of Power and Energy to appoint a committee to study the matter and make recommendations to prepare a necessary legal framework for the purpose.
+The Cabinet of Ministers has approved the proposal presented by the Minister of Power and Energy to appoint a committee to study the matter and make recommendations to prepare a necessary legal framework for the introduction of a regulatory body for energy sector.
 
 The proposed panel will be headed by the Secretary of the Ministry of Power and Energy.
 
 In a statement, the government said that although the import, refining, distribution and sale of petroleum products including petrol, diesel, kerosene, jet fuel oil, liquefied petroleum gas (LPG) and lubricating oil are carried out within the existing legal framework, the sector is not subjected to a wide range of regulation or a petroleum mechanism.
 
-Meanwhile, as private entities are involved in the import and distribution of products, the need for an independent, dynamic, effective and efficient regulatory mechanism has been identified to find solutions to problems, address challenges in the sector and safeguard the interests of consumers, investors and other stakeholders.
-
-◼️
+...
 
 [Data](articles/91489d53.json)
 
 [Extended Data](ext_articles/91489d53.ext.json)
+
+---
+
+### Ven. Ulapane Sumangala Thero granted bail
+
+*2024-04-26 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Ulapane-Sumangala-Thero-granted-bail/108-281438) · `en`
+
+Colombo, April 26 (Daily Mirror) -  Five individuals, including Ven. Ulapane Sumangala Thero, who were held in remand custody for allegedly defying a court order, was today ordered to be released on bail by the Colombo Chief Magistrate’s Court.
+
+Each suspect was ordered to be released on two sureties of Rs.100,000 by Colombo Additional Magistrate Pasan Amarasena.
+
+It was alleged that the suspects had obstructed and defied a court order issued to remove slums located at Dabare Mawatha in Narahenpita.
+
+The Additional Magistrate ordered the suspects not to interfere with the witnesses and warned that bail could be cancelled if they violate the bail conditions. This case is to be called again on August 5.
+
+◼️
+
+[Data](articles/d8be56de.json)
 
 ---
 
@@ -748,25 +788,31 @@ Give permission to reform this. Otherwise, rectify this, dear officers!He was in
 
 ---
 
-### සංවර්ධනය සඳහා ප්‍රතිපාදන වෙන් කෙරුණේ විනිවිදවයි
+### Provisions were made for development
 
 *2024-04-26 13:12:21* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධනය-සඳහා-ප්‍රතිපාදන-වෙන්-කෙරුණේ-විනිවිදවයි/11-409280) · `si`
 
-විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට මෙවර විමද්‍යගත අරමුදල් ආණ්ඩුව ලබා නොදෙන බවට කෙරෙන ප්‍රකාශ පදනම් විරහිතයි....
+Government claims opposition MPs' claims of no provisions this year are baseless. Provisions were made for the District Coordinating Committee, not MPs. Chief Government Whip Prasanna Ranatunga emphasizes transparency in development. Allocations were made to government or opposition MPs, not exclusively to MPs. Decentralized funds were given to the District Coordinating Committee, not just selected MPs.
 
-මෙවර ප්‍රතිපාදන වෙන් කෙරුනේ දිස්ත්‍රික් සම්බන්ධිකරණ කමිටු වලටයි.. මන්ත්‍රීවරුන්ට නොවෙයි...
+🟩
 
-සංවර්ධන කටයුතු සඳහා ප්‍රතිපාදන වෙන් කිරීමේදී එය විනිවිද භාවයකින් සිදු කෙරුණ බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
+The claims that the opposition parliamentarians do not provide the government this year is baseless ....
 
-ඔහු පෙන්වා දෙන්නේ විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට මෙවර විමද්‍යගත අරමුදල් ආණ්ඩුව ලබා නොදෙන බවට කෙරෙන ප්‍රකාශ පදනම් විරහිත බවයි.
+This year's provisions were made to the District Coordinating Committee.. Not the MPs ...
 
-ආණ්ඩු පක්ෂය හෝ විපක්ෂයේ කිසිදු පාර්ලිමේන්තු මන්ත්‍රීවරයකුට මෙවර වෙන් වෙන් වශයෙන් විමද්‍යගත අරමුදල් වෙන් කර නොමැති බවත්, සියළු ප්‍රතිපාදන වෙන් කර ඇත්තේ මන්ත්‍රීවරුන්ට නොව දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවලට බවත් ඇමැතිවරයා පෙන්වා දෙයි.
+The Chief of Government Prasanna Ranatunga emphasizes that it was transparently transparencing for development.
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතා මේ බව කියා සිටියේ විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී අශෝක් අබේසිංහ මහතා අද (26) දින පාර්ලිමේන්තුවේදී මතුකළ කරුණකට පිළිතුරු ලබා දෙමින්ය.
+He points out that the state-member parliamentarians of the opposition is baseless that the government does not provide this year's investigation.
+
+The Minister pointed out that allocating allocations have been allocated to the Members of the Government or the Opposition to the Members of Parliament.
+
+Chief Government Whip Prasanna Ranatunga made this statement from the opposition MP Ashok Abeysinghe today (26).
 
 ...
 
 [Data](articles/ede22e2c.json)
+
+[Extended Data](ext_articles/ede22e2c.ext.json)
 
 ---
 
@@ -2219,51 +2265,5 @@ The public wishes to know why the organizers of the event should go unpunished w
 [Data](articles/7f4f4604.json)
 
 [Extended Data](ext_articles/7f4f4604.ext.json)
-
----
-
-### If you add interest, you can cost you
-
-*2024-04-26 02:01:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டியை-கூட்டினால்-செலவும்-கூடும்/175-336363) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya said the government would pay an additional 40 billion rupees if it increased the 15% interest for senior citizens, in response to opposition leader Sajith Premadasa's question about reduced bank deposit interest rates for seniors.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said the government would pay a further 40 billion rupees if it was to pay 15 percent interest for senior citizens.
-
-Finance Minister Ranjith Siyambalapitiya said this while responding to a question raised by opposition leader Sajith Premadasa in Parliament on Thursday (25).
-
-In the question of opposition leader Sajith Premadasa, the interest rate on bank deposit for senior citizens has been reduced as bank interest rates have been reduced.. He urged the government to take swift action to increase their interest rate.
-
-When the Minister of Finance responded, there were issues regarding the bank interest rate during these times.. Increased interest on loan and we have now brought the interest on bank deposit to a separate number from 16 percent to a separate number. Reducing interest on deposits. Senior citizens have also faced some impact on it.
-
-◼️
-
-[Data](articles/818ae00a.json)
-
-[Extended Data](ext_articles/818ae00a.ext.json)
-
----
-
-### CWC betrayed: Velukumar
-
-*2024-04-26 01:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவே-காட்டிக்கொடுத்தது-வேலுகுமார்/175-336362) · `ta`
-
-Velukumar accuses the Sri Lanka Workers Congress of betrayal, demanding the leader and general secretary's acceptance of ongoing negotiations. He criticizes the lack of salary increases for workers since 2021 and the Labor Congress leader's acceptance of a Governorship as a government offer.
-
-🟩
-
-Today, the entire big workers have been betrayed that we are conducting negotiations. The Tamil Progressive Alliance (MP) MP MP demands that Sri Lanka's Workers Congress leader and general secretary be fully accepted for this situation.. Said Velukumar.
-
-He said this while addressing the second day of debate in the House of Representatives on the Sunday attack on Thursday in Parliament.
-
-இன்று பெருந்தோட்ட தொழிலாளர்களின் சம்பள பிரச்சினை எரியும் பிரச்சினையாக மாறியுள்ளது .2021 இலிருந்து ஒரு சதமெனும் அவர்களுக்க சம்பள அதிகரிப்பு  செய்யப்படவில்லை. Today, the entire big workers have been betrayed that we are conducting negotiations. The Labor Congress President and the General Secretary of Sri Lanka must accept the situation for this situation.
-
-...
-
-[Data](articles/79d4bf8b.json)
-
-[Extended Data](ext_articles/79d4bf8b.ext.json)
 
 ---

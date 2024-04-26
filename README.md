@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 06:17:33**
+As of **2024-04-26 06:56:31**
 
 ## Newspaper Stats
 
-*Scraped **21,034** Articles*
+*Scraped **21,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,41 @@ colombotelegraphcom | 181
 bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,132
+islandlk | 1,141
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
 tamilmirrorlk | 2,434
 adaderanalk | 2,500
 virakesarilk | 3,171
-dailymirrorlk | 3,276
+dailymirrorlk | 3,277
 adaderanasinhalalk | 3,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,034 (100.0%) of 21,034 articles have been extended.
+21,034 (100.0%) of 21,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Foreign powers intensify surveillance on Presidential elections as strategic interests take centre stage
+
+*2024-04-26 06:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Foreign-powers-intensify-surveillance-on-Presidential-elections-as-strategic-interests-take-centre-stage/155-281396) · `en`
+
+Colombo, April 26 (Daily Mirror) - Ahead of the presidential election scheduled for October this year, the foreign powers have ramped up their efforts in the assessment of ground political developments as was in the case of vital elections in the past.
+
+The political situation is likely to heat up after May Day events in which the respective parties will try to show their political might as a launching pad for electioneering.
+
+It is natural for foreign countries having bilateral relations with Sri Lanka to be watchful of political developments with key elections pending. However, countries such as the United States, India, China, Japan, the United Kingdom and other Western countries take particular interest in the possible outcome of elections. They have strategic and competing interests in the country.
+
+...
+
+[Data](articles/128db9cc.json)
+
+---
 
 ### Northern Governor's Secretariat
 
@@ -670,6 +686,18 @@ This partnership is a first for both Elephant House, the iconic Sri Lankan house
 
 ---
 
+### Movies filmed in Sri Lanka
+
+*2024-04-26 00:12:00* · [`islandlk`](http://island.lk/movies-filmed-in-sri-lanka/) · `en`
+
+The next great film shot on location in Sri Lanka was The bridge on the river Kwai, which was filmed in 1957, based on the novel by Pierre Boulle written in 1952. The movie, directed by David Lean, explored the Burmese and British prisoners of war in a Japanese prison camp in Burma, and filmed in Kitulgala. It won seven academy awards. The film had Alec Guiness, William Holden, Sessue Hayakawa, Jack Hawkins, Geoffrey Holmes, James Donald and Ann Sears as its stars.
+
+...
+
+[Data](articles/88707192.json)
+
+---
+
 ### Inaugural CPA Australia Appreciation Event
 
 *2024-04-26 00:05:27* · [`dailyftlk`](https://www.ft.lk/business/InauguralCPAAustralia-Appreciation-Event/34-761037) · `en`
@@ -792,6 +820,18 @@ I was socialised in my childhood, by an ardent Samasamajist, LSSP, father, in Mo
 
 ---
 
+### Dialog Axiata recognised as the Most Significant FDI Contributor by BOI
+
+*2024-04-25 23:36:00* · [`islandlk`](http://island.lk/dialog-axiata-recognised-as-the-most-significant-fdi-contributor-by-boi/) · `en`
+
+In a significant acknowledgment of its contribution towards the development and growth of the national economy, Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, was recognised by the Board of Investment (BOI) as the Most Significant FDI Contributor. This prestigious accolade, presented during the BOI’s 45th anniversary celebrations, underscores Dialog’s unwavering commitment to driving forward Sri Lanka’s economic development as the country’s largest Foreign Direct Investor, with investments totalling USD 3.25 Billion to date.
+
+...
+
+[Data](articles/6db80db2.json)
+
+---
+
 ### Cardinal Ranjith the new political messiah
 
 *2024-04-25 23:35:50* · [`dailyftlk`](https://www.ft.lk/columns/Cardinal-Ranjith-the-new-political-messiah/4-761031) · `en`
@@ -803,6 +843,34 @@ With about six months to go for a Presidential election, Cardinal Ranjith who wa
 [Data](articles/1d074e47.json)
 
 [Extended Data](ext_articles/1d074e47.ext.json)
+
+---
+
+### ‘Davos of the Tea Industry’ to attract 700 tea experts, scientists
+
+*2024-04-25 23:35:00* · [`islandlk`](http://island.lk/davos-of-the-tea-industry-to-attract-700-tea-experts-scientists/) · `en`
+
+The Colombo International Tea Convention, slated to run from July 24th to 26th, 2024, will see the participation of over 700 tea experts and scientists hailing from nearly 25 countries. Described as the ‘Davos of the Tea Industry’ by a tea expert, this gathering aims to focus on pivotal discussions shaping the tea landscape globally.
+
+Ganesh Deivanayagam, Co-Chairman of the Colombo International Tea Convention, emphasized the event’s focal theme at a press briefing recently, that is, the evolving lifestyle dynamics surrounding tea consumption. He highlighted the necessity to adapt production and marketing strategies to accommodate the shifting preferences within various market segments while also addressing the crucial livelihood aspect, acknowledging the significant number of individuals reliant on tea for their sustenance.
+
+...
+
+[Data](articles/5e44f704.json)
+
+---
+
+### Bank stocks rally on investors’ earning hopes
+
+*2024-04-25 23:35:00* · [`islandlk`](http://island.lk/bank-stocks-rally-on-investors-earning-hopes/) · `en`
+
+Trading activities of the Colombo Stock Exchange were bullish yesterday due to the positive development at the Treasury bond market where all maturities were subscribed providing a boost to the equity market, market analysts said.
+
+The banking sector counters were very active on the trading floor, creating a sharp upward trend for the stock market. As a result, both indices moved upwards; All Share Price Index up by 170.2 points while S and P SL20 up by 104.6 points.
+
+...
+
+[Data](articles/b5bd0d75.json)
 
 ---
 
@@ -2069,117 +2137,5 @@ Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rup
 [Data](articles/ed34c800.json)
 
 [Extended Data](ext_articles/ed34c800.ext.json)
-
----
-
-### Vadivel asks the gift
-
-*2024-04-25 15:58:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிசு-கேட்கிறார்-வடிவேல்/175-336327) · `ta`
-
-Vadivel Suarez, in Parliament, requests President Ranil Wickremesinghe to increase plantation workers' wages, highlighting the need during May Day and Labor Day.
-
-🟩
-
-Vadivel Suarez, who is currently speaking in Parliament, hopes that President Ranil Wickremesinghe will pay a pay hike to the plantation workers, and asked for a wage increase in May Day, May Day, Labor Day.
-
-◼️
-
-[Data](articles/6d28f780.json)
-
-[Extended Data](ext_articles/6d28f780.ext.json)
-
----
-
-### Railway gets S.S. Mudalige to cover GMR’s duties
-
-*2024-04-25 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-gets-S-S-Mudalige-to-cover-GMRs-duties/108-281361) · `en`
-
-Colombo, April 25 (Daily Mirror) - Director General (Planning) of the Transport and Highways Ministry, S.S. Mudalige has been appointed to cover the duties of the position of General Manager, Railways until the Cabinet appoints a suitable officer.
-
-The GMR post fell vacant due to the sudden death of H.M.K.B. Bandara.
-
-The appointment letter related to the post was made by Transport and Highways Ministry Secretary Ranjith Ganganath Rubasinghe and handed over to S.S. Mudalige by Minister Bandula Gunawardena at the Ministry office.
-
-Accordingly, in addition to the position of Director General (Planning) of the Ministry that he currently holds, he will cover the duties of the position of General Manager of Railways.
-
-◼️
-
-[Data](articles/99a6352b.json)
-
-[Extended Data](ext_articles/99a6352b.ext.json)
-
----
-
-### More than 100 inmates escape after rain damages Nigerian prison
-
-*2024-04-25 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98841/more-than-100-inmates-escape-after-rain-damages-nigerian-prison) · `en`
-
-At least 118 inmates escaped from prison after heavy rains on Wednesday night damaged the facility in Suleja near the Nigerian capital, a prison service spokesperson said.
-
-Service agents were hunting the fugitives and had so far recaptured 10 of them, spokesperson Adama Duza said in a statement on Thursday.
-
-The statement gave no details on the identities or affiliation of the escaped prisoners but in the past members of the Boko Haram insurgent group have been locked up in Suleja prison.
-
-◼️
-
-[Data](articles/882bff82.json)
-
-[Extended Data](ext_articles/882bff82.ext.json)
-
----
-
-### In Mullaitivu
-
-*2024-04-25 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181947) · `ta`
-
-Durairasa Ravikaran, a former Northern Provincial Council member, criticized the settlement of Sinhalese people in Tamil lands in Mullaitivu. He highlighted the seizure of agricultural lands by the government and the Forest Department's control over 74.24% of the district's land. The situation has led to a reduction in agricultural activities and the displacement of Tamil people.
-
-🟩
-
-Former Northern Provincial Council member Durairasa Ravikaran said that the Sinhalese people are being settled in the native lands of Tamils ​​in Mullaitivu.
-
-He made this comment to the media after an event in Pudukkudiyiruppu today (25).
-
-The rulers are taking over the native lands of Tamils ​​in Mullaitivu. That is, the landscape of the Mullaitivu district is seen by the Sinhalese to the Sinhalese.
-
-In the Mullaitivu district, 74.24 percent of the land in the Mullaitivu district is in charge of the Forest Department.
-
-During the LTTE, these areas were afraid to come up with 36.72 percent of lands before 2009 and were only 2 lakhs of twenty -two thousand six acres.
-
-After the silence of the Liberation Tigers of Tamil Eelam (LTTE) in 2009, the rulers have taken most of the agricultural lands of the people.
-
-...
-
-[Data](articles/122d85e4.json)
-
-[Extended Data](ext_articles/122d85e4.ext.json)
-
----
-
-### 1371 foreign employment complaints at 4 months
-
-*2024-04-25 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195964) · `si`
-
-The Special Investigation Division of the Foreign Employment Division received 1371 complaints in the last 4 months, focusing on recruitment without valid employment units. Investigations led to the recovery of Rs. 53,509,520.00 and the prosecution of over 680 fraudsters. Eight institutions were arrested for illegal employment practices. The Bureau has decentralized its duties and expanded its reach, with a 24-hour hotline for complaints.
-
-🟩
-
-The Special Investigation Division of Foreign Employment Division has received 1371 foreign employment complaints over the past 4 months.
-
-Recruitment to Foreign Employment for Foreign Employment without a valid unit of foreign employment has been received by the complaint bureau of the tourist visas for foreign employment.
-
-495 complaints have been issued during this period of Rs.. Investigations have also recovered 53,509,520.00.
-
-The Bureau has also taken steps to prosecute the court against fraudsters for more than 680 complaints.
-
-The Bureau Special Investigation Division had arrested eight institutions and eight institutions that have been carried out without a valid job order without a valid job order without a valid unemployment and not a valid job order in this period.
-
-Sri Lankans have a trend these days and that there is a tendency to employ foreign employment and that foreign employment frauds have increased.
-
-...
-
-[Data](articles/9532efd6.json)
-
-[Extended Data](ext_articles/9532efd6.ext.json)
 
 ---

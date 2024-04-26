@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 07:41:40**
+As of **2024-04-26 07:54:29**
 
 ## Newspaper Stats
 
-*Scraped **21,046** Articles*
+*Scraped **21,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ tamilmirrorlk | 2,434
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,278
-adaderanasinhalalk | 3,389
+adaderanasinhalalk | 3,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,046 (100.0%) of 21,046 articles have been extended.
+21,046 (100.0%) of 21,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### එක්ස්ප්‍රස් පර්ල් සිද්ධියට අදාළව දැනුම්දීමක්
+
+*2024-04-26 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195978) · `si`
+
+එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනි ගැනීමේ සිද්ධියට අදාළ විමර්ශන කටයුතු කඩිනමින් අවසන් කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට දැනුම්දී තිබේ.
+
+කෙසේවෙතත් ඊයේ (25) නඩුව කැඳවු අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි රජයේ නීතිඥවරයා මෙම විමර්ශනවලට අදාළ කරුණු දැක්වීම සඳහා මාසයක කාලයක් ලබාදෙන ලෙස ඉල්ලීමක් සිදුකළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+එහිදී අදාළ පැමිණිල්ලේ සැකකරුවන් වශයෙන් නම්කර සිටින එම නෞකාවේ කපිතාන්වරයා සහ දේශීය නියෝජිත සමාගමේ අධ්‍යක්ෂවරුන් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් කියා සිටියේ මෙම සිද්ධියට අදාළව දැනටමත් කොළඹ මහාධිකරණය හමුවේ විත්තිකරුවන්ට එරෙහිව නඩු විභාගයක් පැවැත්වෙන බවය.
+
+එම තත්ත්වය යටතේ තවදුරටත් විමර්ශන සිදු කිරීමේ අවශ්‍යතාවය කුමක්දැයි එම නීතිඥවරුන් ප්‍රශ්න කර තිබේ.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ අතිරේක මහෙස්ත්‍රාත්වරයා විමර්ශන කටයුතු කඩිනමින් අවසන් කරන ලෙස පොලීසියට දැනුම් දුන් අතර එහි ප්‍රගතිය ඉදිරියේදී අධිකරණයට වාර්තා කරන ලෙසටද නියෝග කළ බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/28f56947.json)
+
+---
+
+### ජනපති කැඳවූ රැස්වීමේදී දේශපාලන තීන්දු කිහිපයක්
+
+*2024-04-26 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195977) · `si`
+
+ආණ්ඩු පක්ෂයේ විශේෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පවත්වා තිබුණි.
+
+ඊයේ (25) රාත්‍රියේ ජනාධිපති ලේකම් කාර්යාලයේ පැවැති මෙම සාකච්ඡාව සඳහා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, හිටපු ජනාධිපති මහින්ද රාජපක්ෂ ඇතුළු ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන් සහභාගීවී ඇති බව වාර්තා විය.
+
+එහිදී රජයේ ඉදිරි වැඩපිළිවෙළ, සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීම සහ සියලු මැතිවරණ කොට්ඨාස සඳහා සංවර්ධන සැලසුම් සකස් කිරීම කෙරෙහි විශේෂ අවදානයක් යොමුවී තිබේ.
+
+ඉදිරි මැතිවරණවලදී දේශපාලන පක්ෂ වශයෙන් ගනු ලබන තීන්දු තීරණ සහ නිශ්චිත එකඟතාවලට එළඹීම සම්බන්ධයෙන් ද මෙහිදී අවදානය යොමුවී ඇති බවද වාර්තා වෙයි.
+
+ඉදිරි ජනාධිපතිවරණයේදී ආණ්ඩුවේ හවුල්කාර පක්ෂ එක්ව කටයුතු කිරීමට තීරණය කර ඇති බව රාජ්‍ය අමාත්‍ය ඩී.බී හේරත් මහතා සාකච්ඡාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/7b0d0035.json)
+
+---
+
+### කූට ලේඛන සකසා යතුරුපැදි අලෙවි කරන ජාවාරමක්
+
+*2024-04-26 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195976) · `si`
+
+ආනයනය කරනු ලබන අමතර කොටස් එකලස් කර යතුරුපැදි සකසා අලෙවි කරන ජාවාරමක් වටලා තිබේ.
+
+මෙලෙස එකලස් කරන යතුරුපැදි ව්‍යාජ ලේඛන සකසා අලෙවි කර ඇති බවද හෙළිවී ඇත.
+
+◼️
+
+[Data](articles/f399ab3d.json)
+
+---
 
 ### Sri Lanka and China discuss vehicle manufacturing investment
 
@@ -2073,77 +2127,5 @@ The order was issued after Kandana police arrested him and produced him in the V
 [Data](articles/a58f3056.json)
 
 [Extended Data](ext_articles/a58f3056.ext.json)
-
----
-
-### Public assistance calls for holding suspects in gold robbery
-
-*2024-04-25 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195965) · `si`
-
-Police seek public help to arrest suspects in a gold robbery. The suspects, from Menikhinna, Galle, Puttalam, and Gnan Nampana, are accused of stealing 37 kg of gold in Kalpitiya. They fled after being abducted on November 23 last year. Contact 071 859 1763 or 071 859 4916 for more information.
-
-🟩
-
-Police have asked for public assistance to arrest a group of suspects regarding a crime.
-
-The police say that the suspects have been accused of robbing a gold against the suspects.
-
-The suspects have been abducted in the Kalpitiya area on November 23 last year and had fled the area of 37 kilo of gold.
-
-The Kalpitiya Magistrate's Magistrate's Court have been named after the suspects, residents of Menikhinna, Galle, Puttalam and Gnan Nampana.
-
-However, the suspects have left their residence, police said.
-
-Accordingly, if the suspects of the following chains, calls on 071 859 1763 or 071 859 4916 through 071 859 4916.
-
-Below are photos of the suspects by the Police Media Division,
-
-◼️
-
-[Data](articles/6cbea96c.json)
-
-[Extended Data](ext_articles/6cbea96c.ext.json)
-
----
-
-### Sri Lanka stocks close up, market gets bullish
-
-*2024-04-25 16:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-market-gets-bullish-160052/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 1.43 percent, or 170.26 points, at 12,075; while the S&P SL20 Index closed up 2.83 percent, or 98.77 points, at 3,593.
-
-“Market was extremely bullish today,” market participants said. “Banks were driving this bullishness, and all lost grounds were recovered.”
-
-Major positive contributors to the ASPI included Commercial Bank of Ceylon Plc which was up at 110.00, Hatton National Bank Plc up at 197.00, and Sampath Bank Plc up at 80.00.
-
-“There was a bit of consolidation after the run. Renewed buying interest also came into the bluechips and tourism related industries,” market participants said.
-
-John Keells Holdings Plc was up at 209.75, Hayleys Plc was up at 85.00, and Hemas Holdings Plc was up at 84.30.
-
-Distilleries Company of Sri Lanka Plc saw some buying interest and the share closed up at 27.90.
-
-...
-
-[Data](articles/d74c2eed.json)
-
-[Extended Data](ext_articles/d74c2eed.ext.json)
-
----
-
-### Upul Shantha Sannasgala released on bail
-
-*2024-04-25 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Upul-Shantha-Sannasgala-released-on-bail/108-281362) · `en`
-
-Colombo, April 25 - Upul Shantha Sannasgala, the popular tutor and author who was arrested by the Kandana Police today in connection with an alleged fraud, has been released on bail.
-
-Sannasgala was arrested by the Kandana police in response to accusations levelled against him by an individual who claims that he (Sannasgala) failed to return Rs. 1 million, which was reportedly obtained from him.
-
-◼️
-
-[Data](articles/a8cc5a9f.json)
-
-[Extended Data](ext_articles/a8cc5a9f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 13:18:39**
+As of **2024-04-26 13:34:11**
 
 ## Newspaper Stats
 
-*Scraped **21,096** Articles*
+*Scraped **21,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,35 +14,81 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,141
 dailyftlk | 1,193
-economynextcom | 1,194
-adalk | 1,763
+economynextcom | 1,195
+adalk | 1,764
 tamilmirrorlk | 2,446
 adaderanalk | 2,510
-virakesarilk | 3,174
-dailymirrorlk | 3,284
+virakesarilk | 3,181
+dailymirrorlk | 3,285
 adaderanasinhalalk | 3,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,094 (100.0%) of 21,096 articles have been extended.
+21,096 (100.0%) of 21,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### මත්තල ගුවන්තොටුපොළ කළමනාකරණයට ආයතන දෙකක්
+### ஓட்டமாவடியில் தனிநபர் கவனயீர்ப்பு போராட்டம்!
+
+*2024-04-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182012) · `ta`
+
+ஓட்டமாவடி சுற்றுவட்டத்தை அண்மித்துள்ள புகையிரத கடவைக்கு அருகில் இன்று வெள்ளிக்கிழமை (26) தனிநபர் ஒருவர் கவனயீர்ப்பு போராட்டமொன்றில் ஈடுபட்டார்.
+
+கோறளைப்பற்று மேற்கு பிரதேச செயலகப் பிரிவுக்குட்பட்ட ஓட்டமாவடி பொதுச் சந்தையை கடக்கும் புகையிரத கடவை நீண்ட காலமாக சேதமடைந்து காணப்படுகிறது.
+
+அதனை சம்பந்தப்பட்ட அதிகாரிகள் கவனமெடுத்து சீர்செய்து தரவேண்டும் என்றே அந்நபர் போராட்டத்தில் ஈடுபட்டார்.
+
+"ஊருக்கு சொந்தமான பிரதேச செயலாளர் உண்டு"  ஊரின் அக்கறையில் கவனம் செலுத்தும் சமூக நலன் விரும்பிகள் உண்டு. எத்தனையோ காலமாக இந்த இடம் சேதமடைந்துள்ளது.  இதனால் பல நூறு பேர்கள் பயணிக்கும் முக்கியமான ஓர் இடம்.
+
+இதை சீர் செய்ய பலரிடம் பேசியும் பலனளிக்கவில்லை. இது ஏன் எந்த ஒரு அதிகாரியின் கண்ணுக்கும் படவில்லை.
+
+இதை சீர்செய்ய அனுமதி தாருங்கள். இல்லா விட்டால் இதை சீர்செய்து தாருங்கள் அன்புள்ள அதிகாரிகளே!  என எழுதப்பட்ட பதாதையை கழுத்தில் தொங்கவிட்ட நிலையில் போராட்டத்தில் ஈடுபட்டார்.
+
+◼️
+
+[Data](articles/9e2a7146.json)
+
+---
+
+### US$ 3 Million grant to strengthen inland fisheries
+
+*2024-04-26 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-3-Million-grant-to-strengthen-inland-fisheries/108-281427) · `en`
+
+Colombo, April 26 (Daily Mirror) - A US$ 3 million grant from the Japanese government, through the Food and Agriculture Organisation of the United Nations (FAO), in partnership with the Ministry of Fisheries, is set to boost the country’s inland fisheries sector.
+
+A Memorandum of Understanding (MoU) was signed on Thursday, with the project aiming to directly support approximately 3,000 inland fishers, 40 farmers engaged in mini hatchery operations, and 20 farmers specializing in fish feed preparation.
+
+The project is also expected to have a positive ripple effect on indirect beneficiaries, including family members, consumers, producers of dry fish, and stakeholders in research and academia.
+
+Minister of Fisheries Douglas Devananda indicated that the grant would revitalize a sector that had been affected by the country’s economic crisis.
+
+...
+
+[Data](articles/c19fa6e5.json)
+
+---
+
+### Two institutions to manage Mattala Airport
 
 *2024-04-26 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195989) · `si`
 
-මත්තල ජාත්‍යන්තර ගුවන්තොටුපොළ කළමනාකරණය සඳහා අභිලාෂ කැඳවූ ආයතන 05ක් අතරින් 02ක් නිර්දේශ කර ඇත.
+Two institutions recommended for managing Mattala Airport: Shaurya Aeronutics and Russia AirportsF Management Company, approved for a 30-year period.
 
-ඒ අනුව ඉන්දියාවේ Shaurya Aeronautics Pvt. Ltd සහ රුසියාවේ Airports of Regions Management Company වෙත හෝ එහි බද්ධ ව්‍යවසායක් වෙත වසර 30ක කාලසීමාවක් සඳහා කළමනාකාරීත්වය පැවරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+🟩
+
+Two of the five institutions that manage Mattala International Airport have been recommended.
+
+Shaurya Aeronutics pvt in India. The Cabinet approval has been paid to the Ltd and Russia AirportsF Management Company or its joint venture for a 30 year period.
 
 ◼️
 
 [Data](articles/e5ab841b.json)
+
+[Extended Data](ext_articles/e5ab841b.ext.json)
 
 ---
 
@@ -57,6 +103,34 @@ Accordingly, the Cabinet approval has been received to hand over the management 
 ◼️
 
 [Data](articles/6acda69f.json)
+
+[Extended Data](ext_articles/6acda69f.ext.json)
+
+---
+
+### ஹரக் கட்டாவின் வழக்கு விசாரணை எதிர்வரும் மே மாதம்
+
+*2024-04-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181999) · `ta`
+
+குற்றப் புலனாய்வுத் திணைக்களத்தின் காவலில் இருந்து தப்பிச் செல்வதற்கு  முயற்சி செய்ததாக  குற்றம் சுமத்தப்பட்டுள்ள ஹரக் கட்டா என அழைக்கப்படும் நதுன் சிந்தக விக்கிரமரத்ன உள்ளிட்ட மூன்று பிரதிவாதிகளுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கை எதிர்வரும் மே மாதம் 15 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+அத்தோடு, அன்றைய தினம் இந்த வழக்கில் நீதிமன்றத்தில் முன்னிலையாவதை தவிர்க்கும் பிரதிவாதி தொடர்பிலான விசாரணையை நடத்துமாறும் கொழும்பு மேல் நீதிமன்ற நீதிபதி தமித் தொட்டவத்த உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1f41f258.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182005) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஏப்ரல் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 291.8770ஆகவும் விற்பனை விலை ரூபா 301.2928 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/df70aa1c.json)
 
 ---
 
@@ -82,6 +156,42 @@ He urged the House to report the matter to the Central Bank and look into it soo
 
 ---
 
+### உலகில் ஆஸ்துமாவால் அதிகம் பாதிக்கப்பட்ட நாடுகளில் முன்னிலையில் இலங்கை
+
+*2024-04-26 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182000) · `ta`
+
+உலகில் ஆஸ்துமா நோயால் அதிகம் பாதிக்கப்பட்ட நாடுகளில் இலங்கை முன்னிலையில் உள்ளதாக இலங்கை சுவாச நோய் நிபுணர்கள் சங்கத்தின் தலைவர் வைத்தியர் நெரஞ்சன் திஸாநாயக்க தெரிவித்துள்ளார்.
+
+நாட்டில் மொத்த சனத்தொகையில் 10 முதல் 15 சதவீதமானவர்கள் ஆஸ்துமா நோயால் பாதிக்கப்பட்டுள்ளதாகவும், இது சிறுவர்கள்,  இளைஞர்கள் மற்றும் முதியோர்களை பெரும் மன மற்றும் உடல் ஆரோக்கியத்தை பாதிக்கிறது என தெரிவித்துள்ளார்.
+
+எனவே, ஆஸ்துமா நோயை உரிய முறையில்  கட்டுப்படுத்தப்படாவிட்டால், அது மரணத்திற்குக் கூட வழிவகுக்கும்.
+
+90 சதவீதமான ஆஸ்துமா நோயாளர்களை  இலகுவாக  மிகவும் குறைந்த செலவில் மருந்துகளால் கட்டுப்படுத்த முடியும் என வைத்தியர் நெரஞ்சன் திஸாநாயக்க தெரிவித்துள்ளார்.
+
+உலக ஆஸ்துமா தினம் மே 7 ஆம் திகதி வருகிறது. அன்று சுவாச நோய் நிபுணர்கள் சங்கம் சார்பில் விழிப்புணர்வு நிகழ்ச்சி ஏற்பாடு செய்யப்பட்டுள்ளதாக என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ab538feb.json)
+
+---
+
+### யாழ். அளவெட்டியில் எரி காயங்களுடன் முதியவரின் சடலம் மீட்பு!
+
+*2024-04-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182003) · `ta`
+
+யாழ்ப்பாணம் தெல்லிப்பழை பொலிஸ் பிரிவிற்குட்பட்ட அளவெட்டி தெற்கு பகுதியில் உள்ள வீடு ஒன்றில் இருந்து முழுமையாக எரிந்த நிலையில் முதியவர் ஒருவருடைய சடலம் வியாழக்கிழமை (25) மாலை  மீட்கப்பட்டுள்ளது. அதே பகுதியைச் சேர்ந்த ஐயம்பிள்ளை தேவராசா (வயது 73) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+குறித்த முதியவர் தனது மகளுடன் வசித்து வந்துள்ளார். இந்நிலையில் இன்று மாலை வேளை அவரது மகள் வெளியே சென்றிருந்தார். இதன்போது குறித்த முதியவர் பீடி புகைப்பதற்கு முயன்றவேளை படுகாகையில் தீப்பற்றி, தீ விபத்துக்கு உள்ளாகி உயிரிழந்துள்ளார்.
+
+இந்நிலையில், அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ. ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9a867951.json)
+
+---
+
 ### Several political decisions taken at meeting between President & ruling party MPs
 
 *2024-04-26 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98861/several-political-decisions-taken-at-meeting-between-president-ruling-party-mps) · `en`
@@ -101,6 +211,24 @@ The meeting was participated by all MPs of the ruling party including Prime Mini
 [Data](articles/d0e0ce6a.json)
 
 [Extended Data](ext_articles/d0e0ce6a.ext.json)
+
+---
+
+### சுமார் 70 இலட்சம் பெறுமதியான கேரள கஞ்சாவுடன் நபரொருவர் கைது
+
+*2024-04-26 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181991) · `ta`
+
+வெளிநாட்டில் தலைமறைவாக இருந்த போதைப்பொருளை கடத்தும் “ரதுல் குமார” வின் பிரதான சகாக்களில் ஒருவர் சுமார் 70 இலட்சம் பெறுமதியான 25 கிலோ கஞ்சாவுடன் களுத்துறை குற்றப்புலனாய்வு பிரிவினரினால் கைது செய்யப்பட்டுள்ளார்.
+
+கஞ்சா போதைப்பொருள் விநியோகிப்பதாக புலனாய்வுப் பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் கடுவலை வெலவிட்ட நகரில் மற்றுமொரு நபருக்கு வழங்குவதற்காக வைத்திருந்த 02 கிலோ கேரள கஞ்சாவுடன் கைது செய்யப்பட்டுள்ளார்.
+
+இதன்போது கைது செய்யப்பட்ட நபர் தெமட்டகொடை சாமர நிரோஷன் என்ற  47 வயதுடையவராவார்.
+
+மேலும் , சந்தேக நபரிடத்தில் மேற்கொண்ட மேலதிக விசாரணையின் போது கடுவலை வெலவிட்ட பகுதியில் உள்ள வீடொன்றில் வைத்திருந்த 23 கிலோ கிராம் கஞ்சா பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8ba6de87.json)
 
 ---
 
@@ -232,6 +360,24 @@ He was speaking in parliament today (26). The Ordinary Level examination is due 
 
 ---
 
+### வெள்ளை மாளிகைக்கு அருகில் பாலஸ்தீனியர்களிற்கு ஆதரவாக மாணவர்கள் ஆர்ப்பாட்டம்
+
+*2024-04-26 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181994) · `ta`
+
+அமெரிக்காவின் ஜோர்ஜ்டவுன் பல்கலைகழக மாணவர்கள் வோசிங்டனில் ஜோர்ஜ் வோசிங்டன் பல்கலைகழகத்திற்கு அருகில் பாலஸ்தீனத்திற்கு ஆதரவான ஆர்ப்பாட்டங்களில் ஈடுபட்டுள்ளனர்.
+
+காசா யுத்தத்தின் மத்தியில் பாலஸ்தீனத்திற்கு ஆதரவு தெரிவிப்பதற்காகவும் அமெரிக்க பல்கலைகழகங்கள் இஸ்ரேலின் மனித உரிமை மீறல்களில் தங்களுக்கு உள்ள தொடர்பை முறித்துக்கொள்ள வேண்டும் என வேண்டுகோள் விடுப்பதற்காகவும்  வோசிங்டனை சேர்ந்த மாணவர்களும் பேராசிரியர்களும் செயற்பாட்டாளர்களும் அங்குகுழுமியுள்ளனர்.
+
+அமெரிக்காவின் ஏனைய பல்கலைகழகங்களை போல ஜோர்ஜ் வோசிங்டன் பல்கலைகழகத்திலும் மாணவர்கள் வளாகத்தில் கூடாரம் அமைத்து தங்கியிருந்து ஆர்ப்பாட்டங்களில் ஈடுபடுகின்றனர்.
+
+ஜோர்ஜ் வோசிங்டன் பல்கலைகழக மாணவர்களிற்கான எங்கள் ஆதரவை வெளிப்படுத்துவதற்காகவும் அமெரிக்காவின் ஏனைய பல்கலைகழக மாணவர்களின் கோரிக்கைகளை வலியுறுத்துவதற்காகவும் நாங்கள் இங்குவந்திருக்கின்றோம் என அனா வெசெல்ஸ் என்ற மாணவி அல்ஜசீராவிற்கு தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/c8803f83.json)
+
+---
+
 ### Verdict on MSD director’s bail request deferred to next week
 
 *2024-04-26 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98858/verdict-on-msd-directors-bail-request-deferred-to-next-week) · `en`
@@ -249,6 +395,26 @@ On 20 November 2023, four high-ranking officials – MSD Director Dr. Wickramana
 [Data](articles/9e76a013.json)
 
 [Extended Data](ext_articles/9e76a013.ext.json)
+
+---
+
+### Colombo to become tourist city, no more aragalaya: Sri Lanka President
+
+*2024-04-26 11:02:00* · [`economynextcom`](https://economynext.com/colombo-to-become-tourist-city-no-more-aragalaya-sri-lanka-president-160102/) · `en`
+
+ECONOMYNEXT – Colombo city will be developed further into a tourist destination with the relocation of several features, President Ranil Wickremesinghe has said.
+
+Wickremesinghe outlined plans “for further development beyond Colombo, including relocating the President’s House to the Madiwela area within the next decade.”
+
+There was “potential for transforming sites like Republic Square, Navy Headquarters, Old Jetty, Customs House and the General Post Office into key components of the burgeoning Colombo Tourist City,” Wickremesinghe was quoted as saying by his media divisions at the opening of the ITC Ratnadipa Hotel.
+
+The luxurious hotel, located near the Galle Face Green, marks the first venture outside India by the ITC Hotel Group, following their establishment of a 10,000-room hotel chain in India.
+
+“Two years ago this was the site of a huge struggle. Today we have a huge hotel in its place. We can’t go back to that stage.”
+
+...
+
+[Data](articles/c3c341a7.json)
 
 ---
 
@@ -619,6 +785,22 @@ The document was released Thursday in Haiti on the same day as the new transitio
 [Data](articles/c0cccfc0.json)
 
 [Extended Data](ext_articles/c0cccfc0.ext.json)
+
+---
+
+### ලිතුවේනියාවේ බරවාහන රියදුරු රැකියාව සිහිනයක් කරලා
+
+*2024-04-26 09:41:58* · [`adalk`](https://www.ada.lk/breaking_news/ලිතුවේනියාවේ-බරවාහන-රියදුරු-රැකියාව-සිහිනයක්-කරලා/11-409276) · `si`
+
+ලිතුවේනියාවේ බර වාහන රියැදුරන් ලෙස සේවය කිරීමට ගිය ශ්‍රී  ලාංකිකයන් 106 දෙනෙකු එම රැකියා , ආහාරපාන සහ නවාතැන් පහසුකම් නොමැති වීම නිසා  යුරෝපයේ අතරමං වී සිටින බව එම කණ්ඩායමේ සිටි, ලිතුවේනියාවෙන් පිටුවහල් කර පැමිණි ශ්‍රී ලාංකිකයන් දෙදෙනෙකු 04/26 දින උදෑසන  කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+
+ඔවුන් දෙදෙනා ඇතුළු ශ්‍රී ලාංකික 108 දෙනෙකු රජයේ මැදිහත් වීමෙන් , ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ලියාපදිංචි වී , රුපියල් ලක්ෂ 12 ක් කොළඹ රැකියා නියෝජිත ආයතනයකට ලබා දී ලිතුවේනියාව බලා බර වාහන රියැදුරුන් ලෙස සේවය කිරීම සදහා පිටත්ව ගොස් තිබේ .
+
+මෙසේ ලිතුවේනියාවේ සිට මෙරටට පැමිණි ගාල්ල උණවටුන ප්‍රදේශයේ පදිංචි එන්.ඩබ්ලිව්.ප්‍රියන්ත මහතා කටුනායක ගුවන් තොටුපොළේ දී මෙසේ පැවසීය .
+
+...
+
+[Data](articles/20dca945.json)
 
 ---
 
@@ -1965,195 +2147,5 @@ In a significant acknowledgment of its contribution towards the development and 
 [Data](articles/6db80db2.json)
 
 [Extended Data](ext_articles/6db80db2.ext.json)
-
----
-
-### Cardinal Ranjith the new political messiah
-
-*2024-04-25 23:35:50* · [`dailyftlk`](https://www.ft.lk/columns/Cardinal-Ranjith-the-new-political-messiah/4-761031) · `en`
-
-With about six months to go for a Presidential election, Cardinal Ranjith who was criticised some time ago for discretely running a campaign to support ex-President Gotabaya Rajapaksa, came out all guns blazing to blast both ex-President Gotabaya and current President Ranil Wickremesinghe. They were taken to the cleaners by Cardinal Malcolm Ranjith in a hard hitting homily to mark the fifth anniversary of the Easter Sunday bombings that killed more than 250 worshippers on 21 April 2019.
-
-...
-
-[Data](articles/1d074e47.json)
-
-[Extended Data](ext_articles/1d074e47.ext.json)
-
----
-
-### ‘Davos of the Tea Industry’ to attract 700 tea experts, scientists
-
-*2024-04-25 23:35:00* · [`islandlk`](http://island.lk/davos-of-the-tea-industry-to-attract-700-tea-experts-scientists/) · `en`
-
-The Colombo International Tea Convention, slated to run from July 24th to 26th, 2024, will see the participation of over 700 tea experts and scientists hailing from nearly 25 countries. Described as the ‘Davos of the Tea Industry’ by a tea expert, this gathering aims to focus on pivotal discussions shaping the tea landscape globally.
-
-Ganesh Deivanayagam, Co-Chairman of the Colombo International Tea Convention, emphasized the event’s focal theme at a press briefing recently, that is, the evolving lifestyle dynamics surrounding tea consumption. He highlighted the necessity to adapt production and marketing strategies to accommodate the shifting preferences within various market segments while also addressing the crucial livelihood aspect, acknowledging the significant number of individuals reliant on tea for their sustenance.
-
-...
-
-[Data](articles/5e44f704.json)
-
-[Extended Data](ext_articles/5e44f704.ext.json)
-
----
-
-### Bank stocks rally on investors’ earning hopes
-
-*2024-04-25 23:35:00* · [`islandlk`](http://island.lk/bank-stocks-rally-on-investors-earning-hopes/) · `en`
-
-Trading activities of the Colombo Stock Exchange were bullish yesterday due to the positive development at the Treasury bond market where all maturities were subscribed providing a boost to the equity market, market analysts said.
-
-The banking sector counters were very active on the trading floor, creating a sharp upward trend for the stock market. As a result, both indices moved upwards; All Share Price Index up by 170.2 points while S and P SL20 up by 104.6 points.
-
-...
-
-[Data](articles/b5bd0d75.json)
-
-[Extended Data](ext_articles/b5bd0d75.ext.json)
-
----
-
-### Palitha of Pasdun Korale was a “Hitha Honda Chandiya”
-
-*2024-04-25 23:21:37* · [`dailyftlk`](https://www.ft.lk/columns/Palitha-of-Pasdun-Korale-was-a-Hitha-Honda-Chandiya/4-761030) · `en`
-
-Palitha Thewarapperuma was an unconventional politician. He was a man of action without any intellectual pretensions. He had a fierce temper and was provoked easily. He was also fearless. At the same time, he possessed a tendency to bully or intimidate people. He justified his conduct with the excuse that he was acting in the interests of the people. This was accepted by many people who felt his heart was in the right place in spite of his unbecoming conduct at times. Besides he was generally on the side of the under-privileged and vulnerable sections of society. His dedicated service to these people was genuine
-
-...
-
-[Data](articles/3008fe64.json)
-
-[Extended Data](ext_articles/3008fe64.ext.json)
-
----
-
-### Women's T20 World Cup Qualification: Thailand's minor challenge
-
-*2024-04-25 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/181979) · `ta`
-
-Sri Lanka won the ICC Women's T20 World Cup A Group qualification, defeating Thailand by 67 runs. Sri Lanka scored 122 runs in 20 overs, with Nilakshika Silva and Anushka Sanjeevani sharing 44 runs. Thailand lost all wickets in 16.2 overs, scoring 55 runs.
-
-🟩
-
-Sri Lanka won the ICC Women's T20 World Cup qualification for the A Group on Thursday (25) at the Dollans Oval Stadium in Abu Dhabi, the United Arab Emirates. Sri Lanka won by 67 runs.
-
-However, Sri Lanka, which is a small stumbling block, finally won the event with a special bowling and fielding.
-
-The Sri Lankan women's team, who decided to bat first in the upting match, scored 122 runs for the loss of 5 wickets in 20 overs.
-
-Vishmi Gunaratne was out for 13 runs when the total number was 24 runs in the fifth over.
-
-The captain of the team, Samari, scored 16 runs and lost the game.
-
-Hansima Karunaratne (11), Kavisha Dilhari (5) and Hassini Perera (29) faced the Sri Lankan crisis. (78 - 5 wig.)
-
-In this case, Nilakshika Silva and Anushka Sanjeevani shared 44 runs in the 6th wicket and raised the total number of Sri Lankan team to 122 runs.
-
-Nilakshika Silva did not lose 20 runs off 20 balls and Anushka Sanjeevani scored 15 runs off 13 balls.
-
-...
-
-[Data](articles/73cf5720.json)
-
-[Extended Data](ext_articles/73cf5720.ext.json)
-
----
-
-### SLAS appoints independent committee for investigation
-
-*2024-04-25 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLAS-appoints-independent-committee-for-investigation/108-281389) · `en`
-
-Colombo, April 25 (Daily Mirror) - While the Sri Lanka Army is conducting an inquiry, a three-member independent committee headed by a Senior President’s Counsel has been appointed by Sri Lanka Automobile Sports (SLAS) to conduct an inquiry into the tragic incident that occurred during the Fox Hill Super Cross 2024 event in Diyatalawa.
-
-SLAS president Ashhar Hameem said they have taken urgent steps to financially support all the families of the victims.
-
-He said that an unforeseen racing incident which had happened within the track limits had resulted in the loss of seven lives and had left 19 injured, while seven persons are still receiving treatment.
-
-...
-
-[Data](articles/550c5d35.json)
-
-[Extended Data](ext_articles/550c5d35.ext.json)
-
----
-
-### Japan provides $3M through FAO to strengthen inland fisheries in Sri Lanka
-
-*2024-04-25 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98851/japan-provides-3m-through-fao-to-strengthen-inland-fisheries-in-sri-lanka) · `en`
-
-The Japanese Government has provided a grant of US$3 million through the Food and Agriculture Organization of the United Nations (FAO), to strengthen inland fisheries and improve rural livelihoods in partnership with the Ministry of Fisheries of Sri Lanka.
-
-The US$ 3 million initiative will bolster food and nutritional security and fortify resilience by establishing four community operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts, upgrade four NAQDA Aquaculture Development Centres and one community operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
-
-...
-
-[Data](articles/99799508.json)
-
-[Extended Data](ext_articles/99799508.ext.json)
-
----
-
-### The government is a new decision to issue permanent appointments
-
-*2024-04-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195973) · `si`
-
-The government plans to offer permanent appointments to local government employees, following discussions between President Ranil Wickremesinghe and MPs. This decision affects around 8400 employees.
-
-🟩
-
-The government is focusing on providing permanent appointments for employees in local government bodies.
-
-He was speaking at the Minister of Provincial Councils, Local Government and Environment.
-
-He was speaking to the media after a discussion between President Ranil Wickremesinghe and the government MPs at the Presidential Secretariat this afternoon.
-
-Accordingly, the attention of approximately 8400 employees in local government bodies, there were immediate appointments.
-
-◼️
-
-[Data](articles/01604a0d.json)
-
-[Extended Data](ext_articles/01604a0d.ext.json)
-
----
-
-### President reveals govt’s plans for turning Colombo into tourist destination
-
-*2024-04-25 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98850/president-reveals-govts-plans-for-turning-colombo-into-tourist-destination) · `en`
-
-President Ranil Wickremesinghe expressed his dedication to fostering an economic landscape in the nation that would prevent future struggles among its citizens. Emphasizing the swift reconstruction of the economy within a mere two-year span, he underscored his resolve to elevate the standard of living by fortifying the economy’s resilience.
-
-These remarks were made today (25) during the Ceremonial Opening of the ITC Ratnadipa Hotel. Located in the Galle Face Green, this luxurious hotel marks the first venture outside India by the ITC Hotel Group.
-
-Addressing the gathering, President Wickremesinghe extended a warm welcome, stating, “ITC welcome to Sri Lanka.” He highlighted the prominent hotels in the vicinity, including the historic Galle Face Hotel which is bestowed as the first five-star hotel in Asia, the Taj Hotel from India and the Shangri-La Hotel from Singapore.
-
-...
-
-[Data](articles/198454ac.json)
-
-[Extended Data](ext_articles/198454ac.ext.json)
-
----
-
-### No decision to reduce milk powder prices: Importers
-
-*2024-04-25 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-decision-to-reduce-milk-powder-prices-Importers/108-281378) · `en`
-
-Colombo, April 25 (Daily Mirror) - While condemning the media reports, the Milk Powder Importers’ Association said today that they had not taken any decision to reduce the retail prices of the milk powder packets in the local market.
-
-The association media spokesman, Asoka Bandara, said the statement circulated on media platforms is incorrect.
-
-All milk powder brands, in response to the Trade Ministry’s request to provide relief to consumers during the Avurudu season, have already reduced prices starting from April 1, with the current maximum retail price set at Rs. 1,050 for a 400-gram packet.
-
-Moreover, there are many milk powder brands that are sold at prices lower than this stipulated price, along with multiple price promotions. The Milk Powder Importers Association confirms that there will be no further reductions as of April 25, as misreported on Wednesday.
-
-Consumers can now find milk powder available in the market at a wide range of competitive prices and promotions, starting April 1.
-
-...
-
-[Data](articles/305438d5.json)
-
-[Extended Data](ext_articles/305438d5.ext.json)
 
 ---

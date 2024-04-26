@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 20:03:34**
+As of **2024-04-26 20:18:46**
 
 ## Newspaper Stats
 
-*Scraped **21,159** Articles*
+*Scraped **21,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,769
+adalk | 1,770
 tamilmirrorlk | 2,449
 adaderanalk | 2,520
 virakesarilk | 3,189
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,159 (100.0%) of 21,159 articles have been extended.
+21,159 (100.0%) of 21,160 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -983,6 +983,22 @@ Addressing the cabinet spokesman Minister Dr. Bandula Gunawardena made this stat
 [Data](articles/3cff1daf.json)
 
 [Extended Data](ext_articles/3cff1daf.ext.json)
+
+---
+
+### මිනිසෙකුට තියා සතෙකුටවත් කන්න බැරි හාල් හාලිඇලදි ‌බෙදලා
+
+*2024-04-26 13:18:48* · [`adalk`](https://www.ada.lk/breaking_news/මිනිසෙකුට-තියා-සතෙකුටවත්-කන්න-බැරි-හාල්-හාලිඇලදි-‌බෙදලා/11-409282) · `si`
+
+ජය මගින් නොමිලේ ලබා දුන් හාල් ලබා ගත් හාලිඇල ප්‍රදේශයේ පුද්ගලයකු ට නරක්වී ආහාරයට ගැනීමට නුසුදුසු තත්ත්වයේ ඇති හාල්  බෑගයක් ලැබුණු බව පවසමින් ඊයේ (25) හාලිඇල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට ගොස් පැමිණිලි කලහ .
+
+හාලිඇල මැදපිටගම  ප්‍රදේශයේ පදිංචි එච් .බංඩාර නැමත්තෙකු මෙසේ තමන්ට රජයෙන් ලබා දුන් සහල් පරිභෝජනයට නුසුදුසු අයුරින් පවතින බව පවසමින් ලැබුණු සහල් වලින් කොටසක් ද  රැගෙන හාලිඇල  සෞඛ්‍ය  වෛද්‍ය නිලධාරී කාර්යාලයට ගොස් මේ සම්බන්ධයෙන් දැනුම් දුන්නේය .
+
+හාලිඇල මහජන සෞඛ්‍ය පරීක්ෂක තනුජය ප්‍රදීප් මහතා මේ සම්බන්ධයෙන් සදහන් කලේ රජය මගින් නොමිලේ ලබා දුන් සහල් කිලෝ 10 ක් අඩංගු සහල් බෑගයේ තිබූ සහල් නරක්වී පරිභෝජනයට නුසුදුසු තත්ත්වයේ පවතින බව පවසමින් සහල්  රැගෙන  හාලිඇල  මැදපිටගම ප්‍රදේශයේ පුද්ගලයකු හාලිඇල සෞඛ්‍ය  වෛද්‍ය නිලධාරී කාර්යාලයට පැමිණ පැමිණිලි කල බවත් , ඒ සම්බන්ධයෙන් අදාළ පරීක්ෂණ කටයුතු කරන බවයි .
+
+...
+
+[Data](articles/84a9bdf3.json)
 
 ---
 
@@ -2245,27 +2261,5 @@ After discussion, State Minister DB Herath said that the party's Partnership Par
 [Data](articles/7b0d0035.json)
 
 [Extended Data](ext_articles/7b0d0035.ext.json)
-
----
-
-### Special Notice of Immigration and Emigration
-
-*2024-04-26 07:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிவரவு-குடியகழ்வு-திணைக்களம்-மக்களுக்கு-விசேட-அறிவிப்பு/175-336367) · `ta`
-
-The Department of Immigration and Emigration has announced that only the E Visa application should be made through the official website (http://www.immigration.gov.lk). Fake websites like http://www.srilankaevisa.lk are reportedly involved in fraudulent payments. The new visa and online system were implemented on April 17th.
-
-🟩
-
-When applying online visa, it has been announced that only the E Visa connection on the http: //www.immigration gov.lk website.
-
-If you go to fake websites like http://www.srilankaevisa.lk. The Department of Immigration and Emigration has further pointed out that there are reports of payment.
-
-The new visa system and the new online system have been implemented in the Department of Immigration from April 17th. Remble
-
-◼️
-
-[Data](articles/63e0c2df.json)
-
-[Extended Data](ext_articles/63e0c2df.ext.json)
 
 ---

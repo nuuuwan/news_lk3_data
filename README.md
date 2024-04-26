@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 08:06:17**
+As of **2024-04-26 08:26:22**
 
 ## Newspaper Stats
 
-*Scraped **21,057** Articles*
+*Scraped **21,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,760
 tamilmirrorlk | 2,441
 adaderanalk | 2,500
 virakesarilk | 3,171
-dailymirrorlk | 3,278
+dailymirrorlk | 3,279
 adaderanasinhalalk | 3,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,049 (100.0%) of 21,057 articles have been extended.
+21,058 (100.0%) of 21,058 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,19 +84,25 @@ After discussion, State Minister DB Herath said that the party's Partnership Par
 
 ---
 
-### குடிவரவு குடியகழ்வு திணைக்களம் மக்களுக்கு விசேட அறிவிப்பு
+### Special Notice of Immigration and Emigration
 
 *2024-04-26 07:18:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிவரவு-குடியகழ்வு-திணைக்களம்-மக்களுக்கு-விசேட-அறிவிப்பு/175-336367) · `ta`
 
-ஆன்லைன் விசாவிற்கு விண்ணப்பிக்கும் போது http://www.immigration gov.lk இணையதளத்தில் உள்ள e visa இணைப்பை மட்டும் பயன்படுத்துமாறு அறிவிக்கப்பட்டுள்ளது.
+The Department of Immigration and Emigration has announced that only the E Visa application should be made through the official website (http://www.immigration.gov.lk). Fake websites like http://www.srilankaevisa.lk are reportedly involved in fraudulent payments. The new visa and online system were implemented on April 17th.
 
-http://www.srilankaevisa.lk போன்ற போலி இணையத்தளங்களுக்கு சென்றால். அங்கு பணம் செலுத்துவதற்கான வாய்ப்புகள் இருப்பதாக தகவல்கள் வெளியாகியுள்ளதாக குடிவரவு குடியகல்வு திணைக்களம் மேலும் சுட்டிக்காட்டியுள்ளது.
+🟩
 
-எதிர்வரும் ஏப்ரல் மாதம் 17ஆம் திகதி முதல் குடிவரவுத் திணைக்களத்தில் புதிய வீசா முறை மற்றும் புதிய ஆன்லைன் முறைமை நடைமுறைப்படுத்தப்பட்டுள்ளதாக திணைக்களம் மேலும் தெரிவித்துள்ளது. R
+When applying online visa, it has been announced that only the E Visa connection on the http: //www.immigration gov.lk website.
+
+If you go to fake websites like http://www.srilankaevisa.lk. The Department of Immigration and Emigration has further pointed out that there are reports of payment.
+
+The new visa system and the new online system have been implemented in the Department of Immigration from April 17th. Remble
 
 ◼️
 
 [Data](articles/63e0c2df.json)
+
+[Extended Data](ext_articles/63e0c2df.ext.json)
 
 ---
 
@@ -120,41 +126,53 @@ It has been revealed that the unlawful motorcycle fake documents have been sold.
 
 ---
 
-### திருட்டு வைத்தியருக்கு வலை வீச்சு
+### Web range for theft doctor
 
 *2024-04-26 06:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டு-வைத்தியருக்கு-வலை-வீச்சு/175-336366) · `ta`
 
-குளியாப்பிட்டிய போதனா வைத்தியசாலைக்கு நேற்று (24) தனது தாயுடன் சென்ற குழந்தையிடமிருந்து வைத்தியர் போல நடித்த ஒருவர் தங்க ஆபரணங்களை திருடியுள்ளதாக குளியாப்பிட்டிய தலைமையக பொலிஸார் தெரிவித்தனர்.
+A man posing as a doctor at Kiliyapitiya Teaching Hospital stole gold jewelry from a child, using a scanner to remove it. The imposter, who met a mother for treatment, escaped with the child's jewelry.
 
-அனுக்கனே கும்பகொடுவ பிரதேசத்தைச் சேர்ந்த 40 வயதுடைய தாய் ஒருவர் தனது மகனின் காலில் முள்ளினால் ஏற்பட்ட காயத்திற்கு சிகிச்சை பெற குளியாப்பிட்டிய போதனா வைத்தியசாலையில் வைத்தியரைச் சந்தித்து தேவையான சிகிச்சைகளை பெற்றுக்கொண்டார்.
+🟩
 
-மருத்துவர் போல் தோற்றமளிக்கும் குறித்த நபர் மகனுக்கு ஸ்கேன் பரிசோதனை செய்ய வேண்டும் என்றும், அவர் அணிந்திருந்த தங்க ஆபரணங்களை கழற்றி பையில் போடுமாறும் கூறியுள்ளார்.
+Kiliyapitiya headquarters headquarters headquarters police said that a man who played a doctor from a child who had gone to the Kiliyapitiya Teaching Hospital yesterday (24) had stolen gold jewelery.
 
-இதன்போது, மருத்துவர் வேடமணிந்த நபர் குழந்தையை அழைத்துச் சென்று மருத்துவமனையில் உள்ள பெஞ்சில் உட்கார வைத்துவிட்டு குழந்தையின் தங்க ஆபரணங்களுடன் தப்பிச் சென்றதாக மூத்த பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார். R
+A 40 -year -old mother from Kumbagoduwa area met with a doctor at the Kiliyapitiya Teaching Hospital for treatment of a thorn injury on her son's leg.
+
+The person who looks like a doctor has said that he should scan the son and put the gold ornaments he wore and put it in the bag.
+
+A senior police officer said that the doctor's disguise man took the baby and sat on the bench in the hospital and escaped with the child's gold jewelery.. Remble
 
 ◼️
 
 [Data](articles/0d1a1707.json)
 
+[Extended Data](ext_articles/0d1a1707.ext.json)
+
 ---
 
-### கடல் கொந்தளிப்பாக காணப்படும்
+### The sea is seen as turbulent
 
 *2024-04-26 06:47:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-கொந்தளிப்பாக-காணப்படும்/175-336365) · `ta`
 
-நாட்டின் பெரும்பாலான மாகாணங்களில் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் கூறினார்.
+Dr. Mohamed Saliheen warns of turbulent seas, rain, and thunderstorms in Central, Sabaragamuwa, Upper, North Western, and Southern Provinces. Public vigilance advised due to strong winds and lightning.
 
-இதன்படி, மத்திய, சப்ரகமுவ, மேல், வடமேல் மற்றும் தென்  மாகாணங்களின் பல இடங்களில் பிற்பகல் இரண்டு மணிக்குப் பின்னர்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் காலை வேளையில் பனிமூட்டம் காணப்படும்
+Senior Weather Officer Dr. Mohamed Saliheen said the temperature in most provinces of the country today.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர்.
+Accordingly, rain or thunderstorms are expected in several parts of the Central, Sabaragamuwa, Upper, North Western and Southern Provinces.
 
-ஆனால் இடியுடன் கூடிய மழை பெய்கின்ற சந்தர்ப்பங்களில் பலத்த காற்று வீசுவதுடன் அவ்வேளைகளில் கடல் பிராந்தியங்கள் தற்காலிகமாக மிகவும் கொந்தளிப்பான நிலையில் காணப்படும் என்றார். R
+In some parts of the Central, Sabaragamuwa and Uva provinces
+
+In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
+
+But in the event of thunderstorms, strong winds are blowing and the sea regions are temporarily in a state of volatility.. Remble
 
 ◼️
 
 [Data](articles/271bcaf4.json)
+
+[Extended Data](ext_articles/271bcaf4.ext.json)
 
 ---
 
@@ -222,6 +240,26 @@ It is natural for foreign countries having bilateral relations with Sri Lanka to
 
 ---
 
+### Not AirAsia bidding to acquire SriLankan: Capital A CEO clarifies
+
+*2024-04-26 04:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-AirAsia-bidding-to-acquire-SriLankan-Capital-A-CEO-clarifies/108-281384) · `en`
+
+Capital A CEO Tan Sri Tony Fernandes clarified that it is AirAsia Consulting Sdn Bhd that is bidding to acquire SriLankan Airlines, and not AirAsia.
+
+If successful, the soon to be re-branded AirAsia Consulting will raise its own capital for the acquisition, Fernandes told reporters in Malaysia this week at a media conference that was held to announce the extension of his tenure as chief for another five years.
+
+“Just to clear that up for everyone, AirAsia is not buying SriLankan Airlines. AirAsia Consulting, which will set up its own fund, is looking at buying SriLankan Airlines. So, it’s not AirAsia,” he said.
+
+“I know it’s confusing, and AirAsia Consulting will be changing (its name) to Capital A Consulting very soon. So, that’s for airlines who want to consult our 23 years of experience, but AirAsia Consulting is also looking for opportunities to invest in airlines outside of ASEAN. AirAsia is fully focused on ASEAN. That’s our goal,”
+
+...
+
+[Data](articles/4e73a094.json)
+
+[Extended Data](ext_articles/4e73a094.ext.json)
+
+---
+
 ### Northern Governor's Secretariat
 
 *2024-04-26 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181984) · `ta`
@@ -244,21 +282,27 @@ The affected Governor's Secretariat has been admitted to the Jaffna Teaching Hos
 
 ---
 
-### ’போராட்டம் ஏற்படாதவாறு பொருளாதார கட்டமைப்பு’
+### Economic structure so that the telephone struggle does not occur
 
 *2024-04-26 02:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டம்-ஏற்படாதவாறு-பொருளாதார-கட்டமைப்பு/175-336364) · `ta`
 
-மக்கள் போராட்டம் மீண்டும் ஏற்படாத வகையில் பொருளாதாரத்தை கட்டமைப்போம். சரிவடைந்த பொருளாதாரத்தை இரண்டு வருடங்களில் மீட்க முடிந்தது. சரிவடையாத வகையில் வலுவான பொருளாதாரத்தை கட்டமைத்து மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவோம் என ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe pledges to rebuild the economy, ensuring no future struggles, and promises rapid recovery from the tourism sector collapse.
 
-கொழும்பு ஐ.ரி.சி. ரத்னதீப அதி சொகுசு ஹோட்டல் கட்டடத்தை நேற்று திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சரிவடைந்த பொருளாதாரத்தை மீட்பதற்கான அஸ்திரமாகவும் அது அமைந்திருக்கும். சுற்றுலா வியாபாரத்தினால் இலங்கையை துரிதமாக மீட்கலாம். அதற்கான வசதிகளை வழங்க நாம் தயார்.
+We will build the economy so that the people's struggle does not occur again. Was able to recover the collapse economy in two years. President Ranil Wickremesinghe has promised to build a strong economy and improve the quality of life of the people.
 
-அவ்வாறானதொரு மக்கள் போரட்டம் மீண்டும் ஏற்படாதவாறான பொருளாதாரத்தை கட்டமைக்க வேண்டும். அதற்கு தேவையான திட்டங்களை நாம் செயற்படுத்துவோம். இந்த திட்டங்களால் பொருளாதாரத்தையும் நிலைப்படுத்த முடியும். அதனால் மக்களின் வாழ்க்கைத் தரமும் உயர்வடையும் என்றார். (a)
+Colombo IRC. The President said this while addressing the opening of the Ratnadeepa Luxury Hotel building yesterday.As he further stated,
+
+It will also be the case for the restoration of the collapsed economy. Sri Lanka can rapidly recover from the tourist business. We are ready to provide the appropriate facilities.
+
+Such people need to build the economy that does not re -fight. We will implement the plans required for it. These projects can also be able to stabilize the economy. So the quality of life of the people will rise. (A)
 
 ◼️
 
 [Data](articles/e6480f66.json)
+
+[Extended Data](ext_articles/e6480f66.ext.json)
 
 ---
 
@@ -312,19 +356,27 @@ The public wishes to know why the organizers of the event should go unpunished w
 
 ---
 
-### ’வட்டியை கூட்டினால் செலவும் கூடும்’
+### If you add interest, you can cost you
 
 *2024-04-26 02:01:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டியை-கூட்டினால்-செலவும்-கூடும்/175-336363) · `ta`
 
-சிரேஷ்ட பிரஜைகளுக்கான வட்டியை 15 வீதமாக வழங்க வேண்டுமானால் அரசாங்கம் மேலும்  40 பில்லியன் ரூபாவை அதற்காக செலுத்த நேரிடும்   என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய   தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya said the government would pay an additional 40 billion rupees if it increased the 15% interest for senior citizens, in response to opposition leader Sajith Premadasa's question about reduced bank deposit interest rates for seniors.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (25) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய இவ்வாறு தெரிவித்தார்.
+🟩
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தமது கேள்வியின் போது, வங்கி வட்டி வீதங்கள் குறைக்கப்பட்டுள்ள நிலையில் சிரேஷ்ட பிரஜைகளுக்கான வங்கி வைப்புக்கான வட்டி வீதமும் குறைக்கப்பட்டுள்ளது. அதனை நம்பி வாழும் அவர்களின் வட்டி வீதத்தை அதிகரித்து வழங்க அரசாங்கம் துரித நடவடிக்கை எடுக்க வேண்டும் எனக்  கேட்டுக்கொண்டார்.
+Finance Minister Ranjith Siyambalapitiya said the government would pay a further 40 billion rupees if it was to pay 15 percent interest for senior citizens.
 
-...
+Finance Minister Ranjith Siyambalapitiya said this while responding to a question raised by opposition leader Sajith Premadasa in Parliament on Thursday (25).
+
+In the question of opposition leader Sajith Premadasa, the interest rate on bank deposit for senior citizens has been reduced as bank interest rates have been reduced.. He urged the government to take swift action to increase their interest rate.
+
+When the Minister of Finance responded, there were issues regarding the bank interest rate during these times.. Increased interest on loan and we have now brought the interest on bank deposit to a separate number from 16 percent to a separate number. Reducing interest on deposits. Senior citizens have also faced some impact on it.
+
+◼️
 
 [Data](articles/818ae00a.json)
+
+[Extended Data](ext_articles/818ae00a.ext.json)
 
 ---
 
@@ -370,17 +422,23 @@ Lakshman Kiriella MP, the leader of the Opposition on Thursday (25), proposed a 
 
 ---
 
-### சம்பந்தன் ஐயாவுக்கு விடுமுறை
+### Sampanthan sir holiday
 
 *2024-04-26 01:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தன்-ஐயாவுக்கு-விடுமுறை/175-336361) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் இரா.சம்பந்தன் ஐயா,  பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும்   3 மாத கால விடுமுறை வழங்க பாராளுமன்றம் அனுமதியளித்துள்ளது.
+R. Sampanthan, TNA leader, granted parliament a three-month holiday from sessions.
 
-பாராளுமன்றம் வியாழக்கிழமை (25)  எதிர்க்கட்சியின் பிரதம கொறடாவான  லக்ஸ்மன் கிரியெல்ல எம்.பி., த.தே.கூவின் தலைவர் இரா.சம்பந்தன் பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும் 3 மாத கால விடுமுறை வழங்கும்  முன்மொழிந்தார். அதற்கு பாராளுமன்றம் அங்கிகாரம் வழங்கியுள்ளது.
+🟩
+
+The Tamil National Alliance (TNA) leader R. Sampanthan Sir has given parliament permission to grant a further three months' holiday to not participate in the parliamentary sessions.
+
+Lakshman Kiriella MP, the leader of the Opposition on Thursday (25), proposed a three -month holiday to not attend the parliamentary sessions of TNA.. Parliament has approved it.
 
 ◼️
 
 [Data](articles/62db7d85.json)
+
+[Extended Data](ext_articles/62db7d85.ext.json)
 
 ---
 
@@ -704,25 +762,33 @@ After the regime change in 2015, the political activities of the Rajapaksas focu
 
 ---
 
-### நல்லூர் ஆலய சூழல் விளையாட்டு திடல் அல்ல;நீதிபதி  இளஞ்செழியன் சாட்சி
+### Nallur temple environment is not a game;
 
 *2024-04-26 01:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-ஆலய-சூழல்-விளையாட்டு-திடல்-அல்ல-நீதிபதி-இளஞ்செழியன்-சாட்சி/175-336355) · `ta`
 
-நல்லூர் ஆலய சூழல், துப்பாக்கி சூடு நடாத்தி விளையாடும் திடல் இல்லை என வவுனியா மேல் நீதிமன்ற நீதிபதி மா. இளஞ்செழியன் தனது சாட்சியில் தெரிவித்தார்.
+Jaffna High Court Judge Maa states Nallur temple environment is not a game. Judge Ilancheliyan testifies about an incident where a civilian tried to snatch a rifle from his bodyguard, leading to a confrontation. The bodyguard was injured, and the civilian fled. The hearing continues for three days.
 
-நீதிபதி இளஞ்செழியன் மீது கடந்த 2017ஆம் ஆண்டு ஜூலை மாதம் 22ஆம் திகதி ஆலய தெற்கு வாசல் கோபுரத்திற்கு அருகில் மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டு சம்பவம் தொடர்பிலான வழக்கு விசாரணைகள் யாழ்.மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் நடைபெற்று வருகிறது.
+🟩
 
-நீதிபதி இளஞ்செழியன்    புதன்கிழமை (24) நீதி மன்றில் தோன்றி, தனது சாட்சியங்களை பதிவு செய்தார்.
+Vavuniya High Court Judge Maa says that the Nallur temple environment is not a shooter playing. Ilangelian said in his testimony.
 
-சம்பவ தினத்தன்று மேல் நீதிமன்றில் இருந்து எனது காரில்  யாழ். - கண்டி வீதி வழியாக சென்று , கோவில் வீதி வழியாக எனது உத்தியோகபூர்வ இல்லத்தை நோக்கி பயணித்தேன்.
+Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna High Court Judge Denis Santhan Susitasan on July 22, 2017.
 
-காரினை எனது சாரதி ஓட்டினார். அவருக்கு அருகில் எனது ஒரு மெய்ப்பாதுகாவலர் அமர்ந்திருந்தார். நான் காரின் பின் இருக்கையில் அமர்ந்து இருந்தேன்.
+Judge Ilancheliyan appeared in the court on Wednesday (24) and recorded his testimony.
 
-எனது கார் சாரதியின் மோட்டார் சைக்கிளை எனது மற்றுமொரு மெய்ப்பாதுகாவலர் செலுத்தி வந்தார்.
+Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
+
+The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
+
+My car driver's motorcycle was paying another bodyguard.
+
+Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
 
 ...
 
 [Data](articles/561ef2f5.json)
+
+[Extended Data](ext_articles/561ef2f5.ext.json)
 
 ---
 
@@ -1620,17 +1686,27 @@ Many information about the release of the film has been released earlier.It has 
 
 ---
 
-### මහින්දානන්දගේ නඩුවක තීන්දුව ලබන 30දා
+### The verdict of Mahindananda's case on the 30th
 
 *2024-04-25 19:41:16* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දගේ-නඩුවක-තීන්දුව-ලබන-30දා/11-409269) · `si`
 
-අමාත්‍යවරයෙකු ලෙස කටයුතු කළ සමයේ අයථා ක්‍රම වලින් උපයාගත් රුපියල් කෝටි දෙකාහමාරකට අධික මුදලක් වියදම් කොට බොරැල්ල කින්සි පාරෙන් සුඛෝපභෝගී නිවසක් මිලදී ගත් බවට මුදල් විශූද්ධීකරණ පණත යටතේ මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව පවරන ලද නඩුවේ තීන්දුව ලබන 30 වැනිදා ප්‍රකාශයට පත් කරන බව කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා අද (25) නියම කළේය.
+Mahindananda's case verdict on 30th by Colombo High Court Judge Navaratne Marasinghe. Aluthgamage, a minister, accused of buying a luxury house in Borella with ministry funds. Case filed against Hithgama.
 
-ක්‍රීඩා අමාත්‍යවරයා ලෙස කටයුතු කළ සමයේ අයථා ක්‍රම වලින් උපයාගත් රුපියල් කෝටි දෙකාහාමාරකට අධික මුදලක් වියදම් කොට බොරැල්ල කින්සි පාරෙන් සුඛෝපභෝගී නිවසක් මිලදී ගත් බවට හිටපු ක්‍රීඩා අමාත්‍ය, පාර්ලිමෙන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මුදල් විශූද්ධීකරණ පනත යටතේ පවරා ඇති නඩුව කැඳවනු ලැබු අවස්ථාවේදී විනිසුරුවරයා ඒ බව දැනුම් දුන්නේය.
+🟩
 
-...
+Colombo High Court Judge Navaratne Marasinghe today will be announced on the 30th of this month, the decision in the case was being deleted on the 30th of Borella Kiscy Road, which had been earned by the Cabinet of Borella.(25) fixed.
+
+The judge also informed the Financial Minister Mahindananda Aluthgamage that the case has been convened by the Ceylon Sports Minister Mahindananda Aluthgamage that he has purchased a luxury house of the Borella by the Ministry of Sports..
+
+On the 30th of April 2013 while serving as a ministerial portfolio of Rs. 27 million while serving as a ministerial portfolio and the Clearization of Borella, the Bulkarakanda Act, has been purchased at Borella and Finance Act.The case has been filed by the lawyers against Hithgama.
+
+At the end of the long trial, the date was prescribed to announce the verdict in the case.
+
+◼️
 
 [Data](articles/848fa858.json)
+
+[Extended Data](ext_articles/848fa858.ext.json)
 
 ---
 
@@ -2099,29 +2175,5 @@ On the sidelines, the Foreign Minister is expected to have bilateral meetings wi
 [Data](articles/18b01d0a.json)
 
 [Extended Data](ext_articles/18b01d0a.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 296.85/297.00 to US dollar
-
-*2024-04-25 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-296-85-297-00-to-us-dollar-160059/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 296.85/297.00 to the US dollar on Thursday from 297.95/298.10 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 11.28/32 percent from 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed down at 11.70/80 percent from 11.90/95 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.95/12.05 percent.
-
-A bond maturing on 15.09.2029 closed lower at 12.20/40 percent from 12.30/40 percent.
-
-A bond maturing on 15.05.2030 closed at 12.30/55 percent from 12.35/60 percent. (Colombo/Apr24/2024)
-
-◼️
-
-[Data](articles/7976e62c.json)
-
-[Extended Data](ext_articles/7976e62c.ext.json)
 
 ---

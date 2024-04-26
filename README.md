@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 11:34:17**
+As of **2024-04-26 11:53:35**
 
 ## Newspaper Stats
 
-*Scraped **21,087** Articles*
+*Scraped **21,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,141
 dailyftlk | 1,193
 economynextcom | 1,194
-adalk | 1,762
+adalk | 1,763
 tamilmirrorlk | 2,444
 adaderanalk | 2,507
 virakesarilk | 3,174
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,084 (100.0%) of 21,087 articles have been extended.
+21,087 (100.0%) of 21,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### O/L නැවත සමීක්ෂණ ප්‍රතිඵල එන දිනය ඇමති කියයි
+### The date on O / L returns to review results
 
 *2024-04-26 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195987) · `si`
 
-සාමාන්‍ය පෙළ නැවත සමීක්ෂණ ප්‍රතිඵල මෙවර සාමාන්‍ය පෙළ විභාගයට පෙර නිකුත් කරන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත මහතා පවසයි.
+"Susil Premajayantha announced Ordinary Level resurrection results release before the GCE Ordinary Level exam, scheduled for the second week of May. All survey results have been released."
 
-ඔහු අද (26) පාර්ලිමේන්තුවේදී සඳහන් කළේ සාමාන්‍ය පෙළ විභාගය මැයි මාසයේ දෙවෙනි සතියේ ආරම්භවීමට නියමිතව බවය.
+🟩
 
-"සාමාන්‍ය පෙළ විභාගය මැයි මාසයේ දෙවෙනි සතියේ ආරම්භවීමට නියමිතව තිබෙනවා. ඊට පෙර සියලු නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරන බවට විභාග කොමසාරිස්තුමා දැනුම්දුන්නා."
+Minister of Education Susil Premajayantha says that the Ordinary Level resurrection results will be released before the GCE Ordinary Level examination.
+
+He was speaking in parliament today (26). The Ordinary Level examination is due to begin the second week in May.
+
+"The GCE Ordinary Level Examination is scheduled to begin the second week in May. Before that, the Commissioner of Examinations informed the Commissioner of Examinations that all the survey results were released. "
 
 ◼️
 
 [Data](articles/b9ba4763.json)
+
+[Extended Data](ext_articles/b9ba4763.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ On 20 November 2023, MSD Director and three other officials arrested over the co
 ...
 
 [Data](articles/9e76a013.json)
+
+[Extended Data](ext_articles/9e76a013.ext.json)
 
 ---
 
@@ -83,6 +91,8 @@ During the questioning, “Harak Kata” had allegedly requested to go to the wa
 ...
 
 [Data](articles/1c0f6470.json)
+
+[Extended Data](ext_articles/1c0f6470.ext.json)
 
 ---
 
@@ -431,6 +441,22 @@ The document was released Thursday in Haiti on the same day as the new transitio
 [Data](articles/c0cccfc0.json)
 
 [Extended Data](ext_articles/c0cccfc0.ext.json)
+
+---
+
+### මාලදවයින හා ලංකාව අතර තවත් සෘජු ගුවන් ගමනක්
+
+*2024-04-26 09:39:58* · [`adalk`](https://www.ada.lk/breaking_news/මාලදවයින-හා-ලංකාව-අතර-තවත්-සෘජු-ගුවන්-ගමනක්/11-409275) · `si`
+
+මාළදිවයින මාළේ ජාත්‍යන්තර ගුවන් තොටුපොළේ සිට ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ අතර , මාළදිවයිනේ " මෝල්ඩිවියන්ස් " ගුවන් සේවය ඍජු ගුවන් ගමන් සේවා ආරම්භ කරමින් මංගල ගුවන් යානය 04/25 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+
+කිව්.2 - 940 දරන මෙම ගුවන් යානය 04/25 දින රාත්‍රී 09.55 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි අතර ජල ආචාර පවත්වමින් මෙම ගුවන් යානය පිළිගැනීමට කටුනායක ගුවන් තොටුපොළ බලධාරීන් පියවර ගෙන තිබුණි .මින් පසුව මෙම ගුවන් සේවයේ යානා සෑම සතියකම දින දෙකක් , එනම් බ්‍රහස්පතින්දා සහ සෙනසුරාදා කටුනායක සහ මාළදිවයින අතර ගුවන් ගමන් වල නිරත වීමට නියමිතය .
+
+අඩු වියදම් ගුවන් සේවයක් වන මෙම ගුවන් සේවය තම ප්මංගල ගුවන් ගමන සදහා ඒ.320 එයාර් බස් වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එම ගුවන් යානයෙන් මාළදිවයින ප්‍රවාහන සහ සිවිල් ගුවන් සේවා අමාත්‍ය කපිතාන් මොහොමඩ් අමීන් මහතා ද පැමිණ සිටියේය .
+
+◼️
+
+[Data](articles/3aea32c3.json)
 
 ---
 
@@ -2139,27 +2165,5 @@ He was speaking at the Second Day debate on the Second Day of Parliament on Thur
 [Data](articles/097553ad.json)
 
 [Extended Data](ext_articles/097553ad.ext.json)
-
----
-
-### Maithri seeks to compensation for 1000 million
-
-*2024-04-25 20:13:41* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-මහින්දගෙන්-මිලියන-1000ක-වන්දි-ඉල්ලයි/11-409273) · `si`
-
-Maithripala Sirisena demands $1000 million compensation, sending a letter via a lawyer to Minister Mahinda Amaraweera. The letter states a payment of the amount within 14 days, with interest to be recovered if not paid. The claim was made on the 22nd, 24 years ago.
-
-🟩
-
-Former President Maithripala Sirisena has sent an election to the Minister through a lawyer by a lawyer of a number of statements made by Hon.
-
-The letter indicated that the relevant amount is paid to the server within 14 days. If the amount is paid, the amount and legal interest is indicated to recover the amount and legal interest.
-
-The Minister Mahinda Amaraweera has been sent on the 22nd and the claim that he had taken place on the 22nd and the 24 years.
-
-◼️
-
-[Data](articles/9b19df49.json)
-
-[Extended Data](ext_articles/9b19df49.ext.json)
 
 ---

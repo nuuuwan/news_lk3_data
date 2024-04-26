@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 18:21:57**
+As of **2024-04-26 18:34:08**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 3,412
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,148 (100.0%) of 21,151 articles have been extended.
+21,151 (100.0%) of 21,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### மத்தள சர்வதேச விமான நிலையம் இந்தியா, ரஷ்யாவுக்கு
+### Mattala International Airport India, Russia
 
 *2024-04-26 18:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்தள-சர்வதேச-விமான-நிலையம்-இந்தியா-ரஷ்யாவுக்கு/175-336377) · `ta`
 
-மத்தள சர்வதேச விமான நிலையத்தின் நிர்வாகத்தை ரஷ்ய மற்றும் இந்திய நிறுவனங்களுக்கு வழங்குவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+India and Russia's companies, Shaurya Aeronautics and Airports of Regions Management, have been approved to administer Mattala International Airport in India for 30 years.
 
-அதன்படி, இந்தியாவின் Shaurya Aeronautics Pvt. Ltd மற்றும் ரஷ்யாவின் Airports of Regions Management Company அல்லது அதன் துணை நிறுவனங்கள் 30 வருட காலத்திற்கு நிர்வாகத்தை மாற்றுவதற்கு அமைச்சரவையின் அங்கீகாரத்தை பெற்றுள்ளன. R
+🟩
+
+The Cabinet has approved the provision of the administration of the Mattala International Airport to Russian and Indian companies.
+
+Accordingly, India's Shaurya Aeronautics Pvt. Ltd and Russia's Airports of Regions Management Company or its subsidiaries have obtained the approval of the Cabinet to change the administration for a period of 30 years. Remble
 
 ◼️
 
 [Data](articles/f7e8ce7b.json)
 
+[Extended Data](ext_articles/f7e8ce7b.ext.json)
+
 ---
 
-### උෂ්ණත්වය ගැන අවවාදාත්මක නිවේදනයක්
+### An announcement of temperature
 
 *2024-04-26 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196002) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (27) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of rising temperatures in several areas on the island tomorrow, including Moneragala, East, Eastern, Southern and South, and Wayamba.
 
-උතුරු, උතුරු-මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණු සහ වයඹ පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම එලෙස ඉහළ යනු ඇත.
+🟩
 
-මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+The Meteorological Department says that the temperature of several areas on the island will continue to pay attention tomorrow (27).
+
+In some places in the Moneragala, East, Eastern, Southern and South and Wayamba, will increase the heat of the human body in the Moneragala district.
+
+In the announcement issued by the Department, the rest of the shadows of the shade, which is sufficient in the shade, the rest of the shade, and the tightening situations of the open.
 
 ◼️
 
 [Data](articles/84dbae98.json)
+
+[Extended Data](ext_articles/84dbae98.ext.json)
 
 ---
 
@@ -77,6 +89,8 @@ The suspects had been arrested while in the possession of 434 grams of ‘Ice’
 ◼️
 
 [Data](articles/4cfdd203.json)
+
+[Extended Data](ext_articles/4cfdd203.ext.json)
 
 ---
 

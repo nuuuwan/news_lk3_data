@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 11:03:32**
+As of **2024-04-26 11:19:02**
 
 ## Newspaper Stats
 
-*Scraped **21,080** Articles*
+*Scraped **21,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,39 @@ economynextcom | 1,194
 adalk | 1,762
 tamilmirrorlk | 2,444
 adaderanalk | 2,505
-virakesarilk | 3,171
-dailymirrorlk | 3,282
+virakesarilk | 3,174
+dailymirrorlk | 3,283
 adaderanasinhalalk | 3,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,074 (100.0%) of 21,080 articles have been extended.
+21,080 (100.0%) of 21,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### වෛද්‍ය කපිල වික්‍රමනායක ගේ ඇප ඉල්ලීම ගැන නියෝගය ලබන සතියේ
+### Order on Dr. Kapila Wickremanayake's bail
 
 *2024-04-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195986) · `si`
 
-මහත් ආන්දෝලනයකට තුඩු දුන් ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටින වෛද්‍ය සැපයීම අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතාගේ ඇප ඉල්ලීම පිළිබඳ නියෝගය මේ මස 30 වනදා දක්වා කල්තැබීමට අභියාචනාධිකරණය අද (26) නියම කළේය.
+The Court of Appeal postponed Dr. Kapila Wickramanayaka's bail to the 30th, with the decision announced today.
 
-මෙම ඉල්ලීමට අදාළ නියෝගය අද දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණි.
+🟩
 
-එහෙත් එම නියෝගය ප්‍රකාශ කිරීම මෙම මස 30 වනදා සිදුකරන බවත් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා නියෝග කළේය.
+The Court of Appeal was appointed to postpone the bail of Dr. Kapila Wickramanayaka on the 30th of this month.
+
+The order on this request was to be announced today.
+
+However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of this month. N. Mr. Samarakoon ordered.
 
 ◼️
 
 [Data](articles/7866aa8a.json)
+
+[Extended Data](ext_articles/7866aa8a.ext.json)
 
 ---
 
@@ -66,39 +72,107 @@ The Colombo Additional Magistrate, who took all the facts presented into conside
 
 [Data](articles/be53cc58.json)
 
+[Extended Data](ext_articles/be53cc58.ext.json)
+
 ---
 
-### හරක් කටා ට එරෙහි නඩුවක් ගැන දුන් නියෝගය
+### The order to be taken about a case against beef
 
 *2024-04-26 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195985) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටියදී පළායාමට කුමන්ත්‍රණය කළේ යැයි චෝදනා ලබා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව ගොනුකර ඇති නඩුව මැයි මස 15 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියෝග කළේය.
+The Colombo High Court ordered a case against three defendants, including the CID, to proceed without the accused.
 
-එදින මෙම නඩුවේ අධිකරණය මඟහැර සිටින විත්තිකරුවකුට අදාළව එම විත්තිකරුව නොමැතිව නඩු විභාගය පවත්වාගෙන යාම පිළිබඳ සාක්ෂි විභාගය පවත්වන බවත් කොළඹ මහාධිකරණ විනිසුරු  දමිත් තොටවත්ත මහතා නියෝග කළේය.
+🟩
+
+The Colombo High Court ordered the case against three accused against three defendants, including the Criminal Investigation Department (CID).
+
+Colombo High Court Judge Damith Thatawatte ordered the exams to maintain the case without the accused without the accused.
 
 ◼️
 
 [Data](articles/f20d917e.json)
 
+[Extended Data](ext_articles/f20d917e.ext.json)
+
 ---
 
-### පූජ්‍ය උලපනේ හිමි ඇතුළු පිරිසට ඇප
+### Rev. Ulapane Thera and others arrested
 
 *2024-04-26 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195984) · `si`
 
-අධිකරණ නියෝගවලට අවනත නොවී රාජ්‍ය නිලධාරින්ගේ කටයුතුවලට බාධා කිරීම සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු සැකකරුවන් 05 දෙනෙකු ඇප මත මුදාහරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+Rev. Ulapane Thera and others arrested. Colombo Magistrate's Court orders five suspects, including Sumangala Thera, to be released on bail. A foreign traffic ban is imposed on Ulapane Sumangala Thera. The Magistrate warns suspects against witness pressure. Sumangala Thero accused of obstructing the dismissal of shanty houses at Dabara Road, Narahenpita.
 
-ඒ අනුව සුමංගල හිමි ඇතුළු සැකකරුවන් 04දෙනෙකු රුපියල් ලක්ෂ දෙක බැගින් වූ ශරීර අප මත මුදාහැරීමටත් තවත් සැකකරුවකු රුපියල් ලක්ෂයක ශරීර ඇප මත මුදා හැරීමටත් නියෝග කෙරුණි.
+🟩
 
-මෙහිදී පූජ්‍ය උලපනේ සුමංගල හිමි වෙත විදෙස් ගමන් තහනමක් ද පනවා තිබේ.
+The Colombo Magistrate's Court ordered five suspects, including the suspects who were remanded in connection with the activities of state officials without obstructing the activities of state officials.
 
-සාක්ෂිකරුවන්ට බලපෑම් කිරීමෙන් වළකින ලෙසත් මෙහිදී මහෙස්ත්‍රාත්වරයා විසින් සැකකරුවන්ට අවවාද කළේය.
+Accordingly, four suspects including Sumangala Thera were ordered to be released on bail of Rs.
 
-නාරාහේන්පිට, දාබරේ මාවතේ පිහිටි පැල්පත් නිවාස කිහිපයක් අධිකරණ නියෝග මත ඉවත් කිරීමට යාමේදී ඊට බාධා කරමින් විරෝධය පෑ බවට සුමංගල හිමියන් ඇතුළු පිරිසට එරෙහිව චෝදනා එල්ලවී තිබුණි.
+There is a foreign traffic ban on the Venerable Ulapane Sumangala Thera.
+
+The Magistrate admonished the suspects to avoid pressure from the Witnesses.
+
+Sumangala Thero was accused of obstruction of dismissing several shanty houses at the Dabara Road, Narahenpita.
 
 ◼️
 
 [Data](articles/519de48a.json)
+
+[Extended Data](ext_articles/519de48a.ext.json)
+
+---
+
+### BIA welcomes Maldivian Airlines
+
+*2024-04-26 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BIA-welcomes-Maldivian-Airlines/108-281422) · `en`
+
+Colombo, April 26 (Daily Mirror) - The Bandaranaike International Airport (BIA) welcomed the Maldivian Airlines as they launched their newest flight route connecting Colombo, Sri Lanka with Male, Maldives, the Airport & Aviation Services Sri Lanka Private Ltd (AASL) said.
+
+They said the Maldivian, the renowned flag carrier of the Maldives, operates two weekly flights departing every Thursday and Saturday, providing flexible options for both leisure and business travellers.
+
+Launching its operations, the first flight arrived at the BIA with 138 passengers. The flight was welcomed by a celebratory water cannon salute upon arrival and the passengers were warmly welcomed with Sri Lanka Tea Board-sponsored Ceylon Tea gift packs, followed by a traditional Kandyan dance performance.
+
+◼️
+
+[Data](articles/71ba0b05.json)
+
+---
+
+### இலங்கையில் குரங்குகளின் இனப்பெருக்கத்தை கட்டுப்படுத்த புதிய கருவி
+
+*2024-04-26 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181987) · `ta`
+
+குரங்குகளின் இனப்பெருக்கத்தை கட்டுப்படுத்த வளையம் வடிவிலான புதிய கருப்பை கருவியை பேராதனை பல்கலைக்கழகத்தில் உள்ள கால்நடை மருத்துவ பீடம் அறிமுகப்படுத்தியுள்ளது.
+
+கருவியை ஒருமுறை குட்டி ஈன்ற ஒன்றரை வயது பெண் குரங்கிற்கு சோதனைக்காக பயன்படுத்தப்பட்டது.
+
+சோதனையின் பின்னர் மேற்கொள்ளப்பட்ட கதிரியக்க பரிசோதனையில், கருப்பையில் பொருத்தப்பட்ட கருவி வெற்றிகரமாக செயல்பட்டுள்ளதை அவதானித்ததாக பேராதனை பல்கலைக்கழகத்தின் கால்நடை மருத்துவ பீடத்தைச் சேர்ந்த சிரேஷ்ட பேராசிரியர் அசோக தங்கொல்ல தெரிவித்தார்.
+
+பெண்களுக்கு கர்ப்பம் தரிப்பதை தடுக்கும் நடைமுறையிலுள்ள சாதாரண அளவிலான கருவியை பயன்படுத்திய போது அது தோல்லி அடைந்தது. அதனால் சிறிய அளவிலான வளையத்தை உருவாக்க முடிவு செய்தோம் என தெரிவித்துள்ளார்.
+
+பேராதனை போதனா வைத்தியசாலையின் மகப்பேறு மற்றும் நரம்பியல் திணைக்களத்தின் வைத்தியர்களும் பேராதனையிலுள்ள பல் வைத்திய பீடத்தினரும் இந்த முயற்சிக்கு தமது ஒத்துழைப்பை வழங்கியுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/29bb74c3.json)
+
+---
+
+### வாகன விபத்தில் இராணுவ வீரர்  பலி ; நான்கு பேர் படுகாயம்
+
+*2024-04-26 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181989) · `ta`
+
+முல்லைத்தீவு முறிகண்டி ஏ 9 வீதியில் இடம் பெற்ற வாகன விபத்தில் இராணுவ வீரர் ஒருவர் உயிரிழந்துள்ளதுடன்   மேலும் நான்கு  பேர் படுகாயம் அடைந்துள்ளனர்.
+
+ஏ.09 வீதியின் யாழ்ப்பாணம் நோக்கி  பயணித்த பாரஊர்தி  ஒன்றும் திருமுருகண்டி பகுதியில் உள்ள இராணுவ   முகாமுக்கு திரும்ப முற்பட்ட கப்ரக  வாகனமும்  இன்று வெள்ளிக்கிழமை  (26) காலை மோதி  இந்த  விபத்து இடம்பெற்றுள்ளது.
+
+இந்த இரு வாகனங்களும் மோதி விபத்துக்குள்ளானதில் கெப்ரக வாகனத்தில் பயணித்த இராணுவ வீரர் ஒருவர் உயிரிழந்துள்ளதுடன், நான்கு பேர் படுகாயம் அடைந்துள்ளனர்.
+
+இவ்வாறு உயிரிழந்த இராணுவ வீரரின் சடலம் கிளிச்சி மாவட்ட பொது வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை மாங்குளம் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/9ae55f6e.json)
 
 ---
 
@@ -129,6 +203,26 @@ The body of the deceased has been placed at the Kilinochchi Hospital after inves
 [Data](articles/7da955f4.json)
 
 [Extended Data](ext_articles/7da955f4.ext.json)
+
+---
+
+### வைத்தியர் எனக் கூறி சிறுவனின் தங்க நகைகள் கொள்ளை
+
+*2024-04-26 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181986) · `ta`
+
+குளியாபிட்டிய போதனா வைத்தியசாலையில் நேற்று வியாழக்கிழமை தனது தாயுடன் வைத்தியசாலைக்கு சென்ற சிறுவனின் தங்க நகைகளை வைத்தியர் போல நடித்து ஏமாற்றி திருடிச் னெ்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவ்வாறு திருடப்பட்ட தங்க நகைகள் சுமார் 3 இலட்சத்து 82 ஆயிரம் ரூபா பெறுமதியுடையது என பொலிஸார் தெரிவித்துள்ளனர்.
+
+அனுக்கனே குபுகொடுவ பிரதேசத்தைச் சேர்ந்த 40 வயதுடைய தாய் சிறுவனின் காலில்  ஏற்பட்ட காயத்திற்கு சிகிச்சை பெற குளியாப்பிட்டிய போதனா வைத்தியசாலையில் சிகிச்சை பெற சென்றுள்ளார்.
+
+இதன்போது, தன்னை வைத்தியர் எனக் கூறிய நபரொருவர் சிறுவனுக்கு ஸ்கேன் பரிசோதனை செய்ய வேண்டும் என்று, அவர் அணிந்திருந்த தங்க நகைகளை கழற்றி பையில் போடுமாறு கூறியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், இந்த நபர் வைத்தியசாலையில் உள்ள கதிரையில் சிறுவனை அமரச் செய்து தங்க நகைகளுடன் தப்பிச் சென்றுள்ளதாக உயர் பொலிஸ் அதிகாரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/95c52ddc.json)
 
 ---
 
@@ -240,6 +334,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.55 perc
 
 [Data](articles/c47ae6d4.json)
 
+[Extended Data](ext_articles/c47ae6d4.ext.json)
+
 ---
 
 ### Haiti’s Prime Minister Ariel Henry resigns, transitional council takes power
@@ -280,19 +376,25 @@ The police said that the group was injured in the cab accident.
 
 ---
 
-### අනුර ස්විඩනයේ ලාංකිකයන් හමුවෙන්න යයි
+### Sri Lankans to meet Anura Swaden
 
 *2024-04-26 09:32:50* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ස්විඩනයේ-ලාංකිකයන්-හමුවෙන්න-යයි/11-409274) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ඊයේ (25දා) රාත්‍රීයේ දී ස්වීඩනය බලා පිටත්ව ගියේය. ඔහු එහිදී පැවැත්වෙන ජනහමුවක් සහ සුහද හමු කිහිපයක් සඳහා සහභාගි වීමට නියමිතව ඇත.
+Anura Kumara Dissanayake, leader of the National Power, is in Sweden for meetings. A gathering is planned at Nacka Aula on April 27th, organized by the Swedish Foreign Committee of the National Power.
 
-අප්‍රේල් 27 සෙනසුරාදා දින ස්වීඩනයේ NACKA AULA හිදී එරට වේලාවෙන් පස්වරු 1.30ට STOCKHOLM ජනහමුව පැවැත්වීමට කටයුතු සංවිධානය කර තිබේ.
+🟩
 
-ජාතික ජන බලවේගයේ ස්වීඩන විදෙස් කමිටුව විසින් මෙම කටයුතු සංවිධානය කර ඇත.
+Leader of the National Power Anura Kumara Dissanayake left for Sweden yesterday at night. He is scheduled to participate in a few senior meetings and a few friendly meetings.
+
+On Saturday, April 27, the operator has been organized at Nacka Aula at 1.30 pm at Nacka Aula, Sweden.
+
+These activities have been organized by the Swedish Foreign Committee of the National Power.
 
 ◼️
 
 [Data](articles/96291dbe.json)
+
+[Extended Data](ext_articles/96291dbe.ext.json)
 
 ---
 
@@ -2041,103 +2143,5 @@ Also, under various promotions, a number of milk powder will be sold at a maximu
 [Data](articles/054877a0.json)
 
 [Extended Data](ext_articles/054877a0.ext.json)
-
----
-
-### Duminda Dissanayake appointed as the General Secretary of the Sri Lanka Freedom Party (SLFP)
-
-*2024-04-25 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181978) · `ta`
-
-Duminda Dissanayake named SLFP General Secretary. Party's political committee met in Colombo, chaired by Minister Nimal Siripala de Silva.
-
-🟩
-
-The party's political committee meeting was held on Thursday (25).
-
-The Sri Lanka Freedom Party (SLFP) political committee meeting was chaired by Minister Nimal Siripala de Silva in Colombo on Thursday afternoon.
-
-◼️
-
-[Data](articles/a5628664.json)
-
-[Extended Data](ext_articles/a5628664.ext.json)
-
----
-
-### A strawberry village in Nuwara Eliya
-
-*2024-04-25 19:51:03* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියට-ස්ට්‍රෝබෙරි-ගම්මානයක්/11-409270) · `si`
-
-The Department of Agrarian Development in Nuwara Eliya is cultivating over 300 strawberry plants, with a remote control app designed for cultivation. The cost is shared between the department and selected farmers, with Mahinda Amaraweera, Minister of Agriculture, overseeing the initiative.
-
-🟩
-
-The Department of Agrarian Development has been conducting further strawberry plants before the end of this month.
-
-The cost of a remote control app for cultivation is now designed at Nuwara Eliya, and over 300 strawberry plants will be cultivated in a safe house.
-
-The cost of the Agrarian Development Department is provided for 40 selected farmers for this purpose. According to the Department, one farmer will cost about Rs.. Accordingly, the remaining six lakhs will be borne by farmers.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the Department of Agrarian Development to commence the Sampanthanaya Sample Frost Village to the government's focus on new cultivation.
-
-◼️
-
-[Data](articles/d038d090.json)
-
-[Extended Data](ext_articles/d038d090.ext.json)
-
----
-
-### Actor Kali Venkat is the hero of the story 'Monkey Pedal'
-
-*2024-04-25 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181957) · `ta`
-
-"Kali Venkat stars in 'Monkey Pedal', a film focusing on realistic life of simple people, produced by Montege Pictures and SK Productions. Features notable actors and child stars. Released on May 3rd, it's a commercial film depicting weavers' life in the 80s and 90s, aiming for critical acclaim and box office success."
-
-🟩
-
-The heroes of the Tamil film industry, the heroine- the villain- the comedians- are the most famous actors.
-
-Actor Kali Venkat, who is the hero of the story, has been officially announced on the release date of the film 'Monkey Pedal', which has been identified as a unique character actor and recognition to the fans.
-
-Santosh Velmurugan, V with Kali Venkat, Prasanna Balachander and Jensen Divakar. R. Raghavan, M. Many child stars including Gnanasekar, Rathish and Sai Ganesh. Jibran has composed the film, which is being recorded by Sumi Baskaran.
-
-Savita Shanmugam, Sumi Baskaran, Sivakarthikeyan and Kalaiyarasu have produced the film on behalf of Montege Pictures, which is focusing on the realistic life of simple people.. The film is provided by Sivakarthikeyan's SK Productions.
-
-The teaser for the first look of the film has been released. It has also been officially announced that the film will be released on the third day of May, the world will be released in the world.
-
-...
-
-[Data](articles/31029f40.json)
-
-[Extended Data](ext_articles/31029f40.ext.json)
-
----
-
-### Santosh Pratap, who plays the villain in 'Igai'
-
-*2024-04-25 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/181961) · `ta`
-
-Santosh Pratap, unable to lead, plays a villain in 'Ekai', directed by Ashok Velayutham. Anjali stars as the hero. Santosh's character, Arun, is highlighted. The film, produced by Krishnashankar Ramabadran, features music by Tarankumar and stars Abhi Star, Hari, and Gautam.
-
-🟩
-
-Actor Santosh Pratap, who is unable to shine as a leading star artist, has been playing a villain in 'Ekai'.
-
-Actress Anjali plays the hero of the story in the upcoming film 'Ekai' directed by director Ashok Velayutham.
-
-Santosh Pratap plays the role of a police officer named Arun. The film crew has released a special photo of this character look.
-
-It is also revealed that Santosh Pratap is playing the villain in the film as it also features the word '' unjustly to be unjust '.
-
-Along with the two, Abhi Star, Hari and Gautam have starred.Tarankumar has composed the film, which has been recorded by Sridhar.The film was produced by producer Krishnashankar Ramabadran on behalf of Brinda Krishna Creations.
-
-Many information about the release of the film has been released earlier.It has been reported that the film crew is planning to release some changes in the film due to various problems.
-
-...
-
-[Data](articles/88bb3cd0.json)
-
-[Extended Data](ext_articles/88bb3cd0.ext.json)
 
 ---

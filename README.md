@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 22:34:49**
+As of **2024-04-26 22:51:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,185 (100.0%) of 21,188 articles have been extended.
+21,188 (100.0%) of 21,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,35 +58,47 @@ Chinese player Siaz Itrus holds the record for 7 wickets for 8 runs for 8 runs. 
 
 ---
 
-### ආසියානු මලල ක්‍රීඩා උළෙලේ ශ්‍රී ලංකාවට තවත් පදක්කමක්
+### Another medal for Sri Lanka at the Asian Athletics Champion
 
 *2024-04-26 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196012) · `si`
 
-වයස අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා ශූරතා තරගාවලියේ 4X400 මිශ්‍ර සහාය දිවීමේ ඉසව්වේ ලෝකඩ පදක්කම දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත්විය.
+Sri Lanka secured a bronze medal in the 4x400m relay at the 20th Asian Athletics Championships.
+
+🟩
+
+Sri Lanka won the bronze medal at the age of 4x400 in the 20th Asian Athletics Championships.
 
 ◼️
 
 [Data](articles/de821c16.json)
 
+[Extended Data](ext_articles/de821c16.ext.json)
+
 ---
 
-### කාන්තා ක්‍රිකට් නඟාසිටුවන්න මහේල ඉදිරියට
+### Mahela before women's cricket
 
 *2024-04-26 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196011) · `si`
 
-පිරිමි පාසල් ක්‍රිකට් පද්ධතිය මෙන්ම කාන්තා පාසල් ක්‍රිකට් පද්ධතිය ව්‍යාප්ත කිරීම සඳහා සම පහසුකම් ලබාදිය යුතු බව ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක මහේල ජයවර්ධන මහතා පවසයි.
+Mahela Jayawardene advocates for expanding women's school cricket in Sri Lanka. The Mahela Sanga Challenge Trophy, hosted at Nalanda College, highlights the need for more female athletes at the national level. Sri Lanka women's cricket team recently won a match against Thailand by 67 runs, scoring 122 runs in 20 overs.
 
-ඒ, කොළඹ නාලන්දා විද්‍යාලයීය ක්‍රීඩාංගණයේදී අද (26) ආරම්භ වූ නාලන්දා විද්‍යාලීය 88 කණ්ඩායම මෙහෙයවන මහේල සංගා අභියෝගතා කුසලාන ක්‍රිකට් තරගයට ප්‍රධාන අරාධිතයා ලෙස එක්වෙමිනි.
+🟩
 
-"පිරිමි පාසල් ක්‍රිකට් වගේම කාන්තාවන්ටත් පාසල් ක්‍රීඩා පද්ධතියක් ඒ සමව අපි ව්‍යාප්ත කරන්න ඕනේ. මොකද අපිට අවශ්‍යයි ඉදිරියේ දී ක්‍රීඩිකාවන් ජාතික තලයට එන එක..."
+Sri Lanka Cricket Training Advisor Mahela Jayawardene says that the co-school cricket system and the women's school cricket system should facilitate the expansion of the women's school cricket system.
 
-අබුඩාබිහි පැවැත්වෙන කාන්තා 20-20 ලෝක කුසලානයට සුදුසුකම් ලැබීමේ තරගාවලියේ තායිලන්තය සමග පැවති තරගය ලකුණු 67කින් ජය ගැනීමට ශ්‍රී ලංකා කාන්තා පිල ඊයේ (25) සමත්වුණි.
+The Mahela Sanga Challenge Trophy, which began in Nalanda College, Colombo at Nalanda College Stadium, is the main guest.
 
-තරගයේ පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කාන්තා පිල නියමිත පන්දුවාර 20දී කඩුලු 5ක් දැවී ලකුණු 122ක් රැස් කිරීමට සමත් වූ අතර එම ඉලක්කය හඹාගිය තායිලන්ත කාන්තා පිලට පන්දුවාර 16යි පන්දු 2ක් අවසානයේ සියලුදෙනා දැවී රැස්කර ගැනීමට හැකි වූයේ ලකුණු 55ක් පමණයි.
+"We need to expand the boy cricket and women at that time. Because we need the athletes in the future to come to the national level ... "
+
+Sri Lanka women were able to win the match with Thailand in 67 runs in 67 runs.
+
+Batting first, Sri Lanka women scored 122 runs for the loss of 5 wickets in the 20 overs.
 
 ◼️
 
 [Data](articles/f07decae.json)
+
+[Extended Data](ext_articles/f07decae.ext.json)
 
 ---
 
@@ -101,6 +113,8 @@ Traditionally, admissions to medical faculties in Sri Lanka have been based prim
 ...
 
 [Data](articles/4a1f0253.json)
+
+[Extended Data](ext_articles/4a1f0253.ext.json)
 
 ---
 

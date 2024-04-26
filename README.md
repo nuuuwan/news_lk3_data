@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 13:03:35**
+As of **2024-04-26 13:18:39**
 
 ## Newspaper Stats
 
-*Scraped **21,094** Articles*
+*Scraped **21,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ dailyftlk | 1,193
 economynextcom | 1,194
 adalk | 1,763
 tamilmirrorlk | 2,446
-adaderanalk | 2,509
+adaderanalk | 2,510
 virakesarilk | 3,174
 dailymirrorlk | 3,284
-adaderanasinhalalk | 3,401
+adaderanasinhalalk | 3,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,094 (100.0%) of 21,094 articles have been extended.
+21,094 (100.0%) of 21,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### මත්තල ගුවන්තොටුපොළ කළමනාකරණයට ආයතන දෙකක්
+
+*2024-04-26 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195989) · `si`
+
+මත්තල ජාත්‍යන්තර ගුවන්තොටුපොළ කළමනාකරණය සඳහා අභිලාෂ කැඳවූ ආයතන 05ක් අතරින් 02ක් නිර්දේශ කර ඇත.
+
+ඒ අනුව ඉන්දියාවේ Shaurya Aeronautics Pvt. Ltd සහ රුසියාවේ Airports of Regions Management Company වෙත හෝ එහි බද්ධ ව්‍යවසායක් වෙත වසර 30ක කාලසීමාවක් සඳහා කළමනාකාරීත්වය පැවරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+◼️
+
+[Data](articles/e5ab841b.json)
+
+---
+
+### Two companies from Russia, India to take over management of Mattala airport
+
+*2024-04-26 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98862/two-companies-from-russia-india-to-take-over-management-of-mattala-airport-) · `en`
+
+The Cabinet of Ministers has green-lighted the proposal to hand over the management of Mattala Rajapaksa International Airport to a selected private sector company which has submitted Expressions Of Interest (EOI) for the purpose.
+
+Accordingly, the Cabinet approval has been received to hand over the management of Mattala Rajapaksa International Airport to Shaurya Aeronautics Pvt. Ltd of India or Airports of Regions Management Company of Russia or an affiliated company thereof for a period of 30 years.
+
+◼️
+
+[Data](articles/6acda69f.json)
+
+---
 
 ### Massive money transferring scam from accounts without notice: MP reveals
 
@@ -2127,49 +2155,5 @@ Consumers can now find milk powder available in the market at a wide range of co
 [Data](articles/305438d5.json)
 
 [Extended Data](ext_articles/305438d5.ext.json)
-
----
-
-### Malaysia ex-PM Mahathir facing anti-graft probe in a case involving his sons
-
-*2024-04-25 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98849/malaysia-ex-pm-mahathir-facing-anti-graft-probe-in-a-case-involving-his-sons) · `en`
-
-(Reuters) - Former Malaysian Prime Minister Mahathir Mohamad is among individuals being investigated in connection with a graft probe involving his sons, the head of Malaysia’s Anti-Corruption Commission (MACC) said on Thursday.
-
-The investigation comes amid a widening crackdown on graft involving prominent political figures, including those seen as close to 98-year-old veteran leader Mahathir, a long-time foe of current Prime Minister Anwar Ibrahim.
-
-Anwar has denied targeting political rivals, saying the investigations are part of the government’s efforts to tackle high-level corruption.
-
-The MACC in January served Mahathir’s businessmen sons, Mirzan and Mokhzani, with notices to declare their wealth as part of investigations into offshore financial and business records revealed by a group of news organisations.
-
-The MACC’s chief commissioner, Azam Baki, on Thursday declined to elaborate on the investigations facing Mahathir or his sons.
-
-...
-
-[Data](articles/17afe00b.json)
-
-[Extended Data](ext_articles/17afe00b.ext.json)
-
----
-
-### Let’s not get into a ‘Aragalaya’ again: President
-
-*2024-04-25 21:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lets-not-get-into-a-Aragalaya-again-President/108-281373) · `en`
-
-Colombo, April 25 (Daily Mirror) - While highlighting that the economy in on the mend, President Ranil Wickremesinghe pleaded for people not to resort to another ‘Aragalaya’ which would escalate chaos in the country.
-
-The President urged people to support the efforts to rebuild the economy rather than engaging in activities that could disrupt progress.
-
-These remarks were made today (25) during the inauguration of the ITC Ratnadipa Hotel. located opposite the Galle Face Green. This hotel marks the first venture outside India by the ITC Hotel Group.
-
-He expressed his commitment to creating an economic environment in the country where people would not struggle again.
-
-Highlighting the successful rebuilding of the collapsed economy within two years, he emphasized his efforts to enhance the standard of living by establishing a resilient economy.
-
-...
-
-[Data](articles/b219c5ae.json)
-
-[Extended Data](ext_articles/b219c5ae.ext.json)
 
 ---

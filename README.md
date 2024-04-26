@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 10:03:33**
+As of **2024-04-26 10:18:36**
 
 ## Newspaper Stats
 
-*Scraped **21,068** Articles*
+*Scraped **21,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,141
 dailyftlk | 1,193
 economynextcom | 1,193
-adalk | 1,760
-tamilmirrorlk | 2,441
+adalk | 1,761
+tamilmirrorlk | 2,442
 adaderanalk | 2,503
 virakesarilk | 3,171
-dailymirrorlk | 3,281
+dailymirrorlk | 3,282
 adaderanasinhalalk | 3,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,067 (100.0%) of 21,068 articles have been extended.
+21,068 (100.0%) of 21,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### நிரந்தர நியமனம் தொடர்பில் புதிய தீர்மானம்
+
+*2024-04-26 09:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-நியமனம்-தொடர்பில்-புதிய-தீர்மானம்/175-336368) · `ta`
+
+உள்ளூராட்சி மன்றங்களில் பணிபுரியும் ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்குவது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+
+மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜனக வக்கம்புர இந்த விடயத்தை தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் ஆளும் கட்சி உறுப்பினர்களுக்கும் இடையில் நேற்று பிற்பகல் ஜனாதிபதி செயலகத்தில் கலந்துரையாடல் இடம்பெற்றது.
+
+இதன்படி, உள்ளூராட்சி நிறுவனங்களில் உள்ள 8,400 ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்குவதற்கு கவனம் செலுத்தப்பட்டதாக அவர் குறுிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/4ffeb8ad.json)
+
+---
+
+### Sri Lanka among main countries with asthma in the world
+
+*2024-04-26 09:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-main-countries-with-asthma-in-the-world/108-281414) · `en`
+
+Colombo, April 26 (Daily Mirror) - Sri Lanka has come to the forefront among the countries in the world suffering from asthma, Sri Lanka Respiratory Disease Specialists' Association President Dr. Neranjan Dissanayake said.
+
+He said between 10% and 15% of the country's population suffers from asthma, and it affects children, young adults and the elderly with great mental and physical discomfort.
+
+If asthma is not controlled properly, it can even lead to death. About 95% of asthma patients can be controlled with simple, very cost-effective, high-performance medications, Dr. Dissanayake said.
+
+But, unfortunately, around 500,000 people worldwide die from asthma every year, he said.
+
+This year, Asthma Day falls on May 7, and an awareness programme has been organized by the Association of Respiratory Disease Specialists, Dr. Dissanayake said.
+
+◼️
+
+[Data](articles/fbde782a.json)
+
+---
 
 ### Haiti’s Prime Minister Ariel Henry resigns, transitional council takes power
 
@@ -45,6 +83,8 @@ The document was released Thursday in Haiti on the same day as the new transitio
 ...
 
 [Data](articles/c0cccfc0.json)
+
+[Extended Data](ext_articles/c0cccfc0.ext.json)
 
 ---
 
@@ -1836,6 +1876,22 @@ The Sri Lanka Freedom Party (SLFP) political committee meeting was chaired by Mi
 
 ---
 
+### නුවරඑළියට ස්ට්‍රෝබෙරි ගම්මානයක්
+
+*2024-04-25 19:51:03* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියට-ස්ට්‍රෝබෙරි-ගම්මානයක්/11-409270) · `si`
+
+නුවරඑළියේ ස්ථාපිත කිරීමට නියමිත මෙරට පළමු ස්ට්‍රෝබෙරි  වගා ආදර්ශ ගම්මානය සඳහා මෙම මස අවසන් වීමට ප්‍රථම ස්ට්‍රෝබෙරි පැළ ආනයනය කිරීමට ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව කටයුතු යොදා තිබේ.
+
+වගාව සඳහා ස්වයංක්‍රීයව (Automated)  දුරස්ථ පාලන යෙදවුමක් මගින් ක්‍රියාත්මක කළ හැකි ආරක්ෂිත ගෘහ 40ක් නුවරඑළියේදී මේ වනවිට සකස් කර ඇති අතර එක් ආරක්ෂිත ගෘහයක් තුළ දළ වශයෙන් ස්ට්‍රෝබෙරි  පැළ 300ට වැඩි ප්‍රමාණයක් වගා කිරීමට නියමිතය.
+
+මේ සඳහා තෝරාගත් ගොවීන් 40 දෙනෙකු වෙනුවෙන් රුපියල් මිලියන 30ක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් සපයනු ලැබේ. එම දෙපාර්තමේන්තුව සඳහන් කරන පරිදි එක් ගොවියෙකුට රුපියල් ලක්ෂ 13ක පමණ මුදලක් වැය වන අතර, ඉන්  රුපියල් 750,000ක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් නැවත අය කර ගැනීමකින් තොරව ලබා දීමට නියමිතය.  ඒ අනුව ඉතිරි ලක්ෂ 06ක මුදල අදාල වගාවෙහි නියුතු ගොවීන් විසින් දරනු ලැබේ.
+
+...
+
+[Data](articles/d038d090.json)
+
+---
+
 ### Actor Kali Venkat is the hero of the story 'Monkey Pedal'
 
 *2024-04-25 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/181957) · `ta`
@@ -2103,59 +2159,5 @@ The Sri Lanka Freedom Party (SLFP) political committee meeting was held in Colom
 [Data](articles/04edbfb6.json)
 
 [Extended Data](ext_articles/04edbfb6.ext.json)
-
----
-
-### 1,500 families in Jaffna for 15 years after the war
-
-*2024-04-25 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/181976) · `ta`
-
-15 years post-war, 1,500+ families in Jaffna lost homes. 10 still in welfare centers. Governor aims for resettlement by year-end, including electricity for homes. Land guarantees suspended, with 60,000 to be handed out by May.
-
-🟩
-
-Fifteen years after the end of the war in the North, more than 1,500 families have lost their homes in the Jaffna district.
-
-The District Coordinating Committee meeting held at the Jaffna District Secretariat Auditorium on April 18 last year has revealed that 10 of them are still living in welfare centers.
-
-Jaffna District Coordinating Committee Meeting Northern Province Governor BS. M.. Provincial journalists say that Charles and Minister Douglas Devananda were headed.
-
-Jaffna participated in the meeting that the government has not yet done anything to 4,567 displaced people in the Jaffna district.. District Reply Secretary Marudalingam Pradeepan announced to the Governor
-
-“There are 4,567 people from 1,512 families. Of these, 10 families are in welfare centers and 1,502 families stay in relatives' homes. They have nothing to do with them. They are to be resettled. ”
-
-...
-
-[Data](articles/50a98f4e.json)
-
-[Extended Data](ext_articles/50a98f4e.ext.json)
-
----
-
-### Police launches motorcycle squadron against underworld
-
-*2024-04-25 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Police-launches-motorcycle-squadron-against-underworld/110-281369) · `en`
-
-The passing out parade of a team of 100 police personnel who underwent special training at the Katukurunda STF camp to go after criminals operating in the Western and Southern Provinces was held with the participation of Public Security Minister Tiran Alles,  IGP Deshabandu Tennakoon, STF Commandant Senior DIG Waruna Jayasundara and the Western Province Senior DIG.
-
-◼️
-
-[Data](articles/3a32da2c.json)
-
-[Extended Data](ext_articles/3a32da2c.ext.json)
-
----
-
-### Police launch motorcycle squadron against underworld
-
-*2024-04-25 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Police-launch-motorcycle-squadron-against-underworld/110-281369) · `en`
-
-The passing out parade of a team of 100 police personnel who underwent special training at the Katukurunda STF camp to go after criminals operating in the Western and Southern Provinces was held with the participation of Public Security Minister Tiran Alles,  IGP Deshabandu Tennakoon, STF Commandant Senior DIG Waruna Jayasundara and the Western Province Senior DIG.
-
-◼️
-
-[Data](articles/bf70eb86.json)
-
-[Extended Data](ext_articles/bf70eb86.ext.json)
 
 ---

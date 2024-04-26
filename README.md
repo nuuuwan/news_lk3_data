@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 15:52:46**
+As of **2024-04-26 16:05:36**
 
 ## Newspaper Stats
 
-*Scraped **21,125** Articles*
+*Scraped **21,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,765
-tamilmirrorlk | 2,446
+adalk | 1,766
+tamilmirrorlk | 2,447
 adaderanalk | 2,514
-virakesarilk | 3,181
+virakesarilk | 3,189
 dailymirrorlk | 3,292
 adaderanasinhalalk | 3,408
 
@@ -26,25 +26,83 @@ adaderanasinhalalk | 3,408
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,119 (100.0%) of 21,125 articles have been extended.
+21,125 (100.0%) of 21,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### හෙට කොළඹට පැය 14 ජල කප්පාදුවක්
+### இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியத்தின் தலைவராக பேராசிரியர் சன்ன ஜயசுமன தெரிவு
+
+*2024-04-26 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/182033) · `ta`
+
+பாராளுமன்றத்தில் புதிதாக ஸ்தாபிக்கப்பட்ட இலங்கை மருத்துவ பாராளுமன்ற உறுப்பினர்களின் ஒன்றியத்தின் தலைவராக பாராளுமன்ற உறுப்பினர் பேராசிரியர் சன்ன ஜயசுமன தெரிவு செய்யப்பட்டார்.
+
+பாராளுமன்ற உறுப்பினர் (வைத்தியகலாநிதி) உபுல் கலப்பத்தி அவரது பெயரை முன்மொழிந்ததுடன், வைத்தியகலாநிதி சுதர்ஷினி பெர்னாண்டோபுள்ளே  அதனை வழிமொழிந்தார். ஒன்றியத்துக்கான செயற்குழு உறுப்பினர்களை நியமிக்கும் முதலாவது கூட்டம் 25 ஆம் திகதி பாரளுமன்றத்தில் இடம்பெற்ற போதே அவர் தெரிவு செய்யப்பட்டார்.
+
+அத்துடன், ஒன்றியத்தின் போஷகர்களாக வைத்திய கலாநிதி ராஜித சேனாரத்ன மற்றும் சுகாதார அமைச்சர் வைத்திய கலாநிதி ரமேஷ் பத்திரன ஆகியோர் தெரிவு செய்யப்பட்டதுடன், இணை உப தலைவர்களாக வைத்தியகலாநிதி சுதர்ஷினி பெர்னாண்டோபுள்ளே மற்றும் வைத்திய கலாநிதி காவிந்த ஜயவர்தன ஆகியோர் தெரிவு செய்யப்பட்டனர்.
+
+மேலும், ஒன்றியத்தின் இணை அமைப்பாளர்களாக வைத்தியகலாநிதி திலக் ராஜபக்ஷ மற்றும் வைத்திய கலாநிதி உபுல் கலப்பத்தி ஆகியோர் தெரிவு செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/4c9412a6.json)
+
+---
+
+### 14 மணிநேர நீர் வெட்டு
+
+*2024-04-26 15:48:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-மணிநேர-நீர்-வெட்டு/175-336375) · `ta`
+
+கொழும்பின் சில பகுதிகளுக்கு நாளை (27)  14 மணிநேர நீர் வெட்டு அமுல்படுத்தப்படும் என தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+
+இதன்படி நாளை சனிக்கிழமை  மாலை 5 மணி முதல்  ஞாயிற்றுக்கிழமை (28) காலை 7 மணி வரை குறித்த நீர் வெட்டு அமுல்படுத்தப்படும் எனவும் தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+
+கொழும்பு 5 மற்றும் கொழும்பு 6, தெஹிவளை, கல்கிசை மற்றும் மொரட்டுவ நகர சபை பகுதிகளிலும், ஜயந்திபுர மற்றும் பெலவத்தை பிரதேசங்களிலும் இந்த நீர் வெட்டு அமுல்படுத்தப்படும். R
+
+◼️
+
+[Data](articles/b6239b1e.json)
+
+---
+
+### யாழில் சகோதரிக்கு போதை ஊசி செலுத்தி, பாலியல் தொழிலில் ஈடுபடுத்திய சகோதரன் கைது
+
+*2024-04-26 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182031) · `ta`
+
+தனது சகோதரியை பாலியல் வன்புணர்வுக்கு உட்படுத்தி வந்ததுடன், சகோதரியை வலுக்கட்டாயமாக பாலியல் தொழிலில் ஈடுபடுத்தி வந்த குற்றச்சாட்டில் சகோதரன் கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் நகர் பகுதியை அண்டிய கிராமத்தைச் சேர்ந்த 34 வயதுடைய பெண்ணொருவர் தனது பெற்றோர் உயிரிழந்த நிலையில், சகோதரியுடன் வடமராட்சி கிழக்கு பகுதியில் உள்ள ஆதரவற்றோர் இல்லத்தில் வசித்து வந்துள்ளார்.
+
+இந்நிலையில், கடந்த டிசம்பர் மாதம் பெண்ணின் சகோதரி உயிரிழந்துள்ளார். அதனை அடுத்து இல்லத்தில் வசித்து வந்த சகோதரியை , யாழ்.நகர் பகுதியை அண்டிய பிரதேசத்தில் வாழும் சகோதரன் தன்னுடன் அழைத்து வந்து தங்க வைத்துள்ளார்.
+
+இந்நிலையில், கடந்த ஜனவரி மாதம் குறித்த பெண்ணுக்கு போதைப்பொருட்களை வலுக்கட்டாயமாக நுகர வைத்தும், போதை ஊசிகளை செலுத்தியும் பாலியல் வன்புணர்வுக்கு கும்பல் ஒன்று உட்படுத்தி வந்துடன் பெண்ணை சித்திரவதைக்கு உள்ளாக்கியும் வந்துள்ளது.
+
+...
+
+[Data](articles/9a4a8642.json)
+
+---
+
+### 14 hour water cut in Colombo tomorrow
 
 *2024-04-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195997) · `si`
 
-හෙට (27) පස්වරු 05 සිට පැය 14ක කාලයක් කොළඹ, දෙහිවල - ගල්කිස්ස හා මොරටුව ඇතුළු ප්‍රදේශ කිහිපයකට ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Tomorrow, Colombo will experience a 14-hour water cut from 5 pm to 7 am, affecting Mount Lavinia and Moratuwa. Maintenance in Colombo 5 and 6, Dehiwala - Mount Lavinia, Moratuwa, and Pelawatta areas has suspended water cuts.
 
-අත්‍යාවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් කොළඹ 5 සහ 6, දෙහිවල - ගල්කිස්ස හා මොරටුව නගර සභා බලප්‍රදේශ, ජයන්තිපුර සහ පැලවත්ත යන ප්‍රදේශවලට මෙලෙස ජල සැපයුම අත්හිටුවන බව එම මණ්ඩලය පැවසුවේය.
+🟩
 
-හෙට පස්වරු 05 සිට ඉරිදා පෙරවරු 07 දක්වා අදාළ ප්‍රදේශවලට ජල සැපයුම අත්හිටුවීමට නියමිතය.
+The National Water Supply and Drainage Board says that the water cut will be imposed tomorrow from 5 pm, Colombo - Mount Lavinia and Moratuwa.
+
+The Board said that the water cut in Colombo 5 and 6, Dehiwala - Mount Lavinia and Moratuwa and Pelawatta areas have been suspended due to an essential maintenance.
+
+The water cut will be imposed tomorrow 5am to 07 am on Sunday.
 
 ◼️
 
 [Data](articles/181a5956.json)
+
+[Extended Data](ext_articles/181a5956.ext.json)
 
 ---
 
@@ -63,6 +121,8 @@ Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, p
 ...
 
 [Data](articles/19c4e3ed.json)
+
+[Extended Data](ext_articles/19c4e3ed.ext.json)
 
 ---
 
@@ -130,6 +190,28 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 
 [Data](articles/e6ab3ad8.json)
 
+[Extended Data](ext_articles/e6ab3ad8.ext.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை ; மேலுமொரு சந்தேகநபர் கைது
+
+*2024-04-26 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182022) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்த சம்பவத்துடன் தொடர்புடைய குற்றச்சாட்டில் தேடப்பட்டு வந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மார்ச் மாதம் 11ஆம் திகதி காரைநகர் பகுதிக்கு மோட்டார் சைக்கிளில் சென்று விட்டு ,வீடு திரும்பிக்கொண்டிருந்த தம்பதியினரை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்று, கணவனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்துள்ளதுடன், மனைவியை வீதியில் இறக்கி விட்டு சென்று இருந்தனர்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த பொலிஸார் இதுவரையில் 09 பேரை சந்தேகத்தில் கைது செய்து நீதிமன்றில் முற்படுத்திய நிலையில் நீதிமன்றால் அவர்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில், சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்களில் ஒருவர் காரைநகர் பகுதியில் தலைமறைவாக இருந்த நிலையில் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுளளார்.
+
+கைது செய்யப்பட்டவரை விசாரணைகளின் பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/e9507fce.json)
+
 ---
 
 ### Indian heart gives new lease of life to Pakistani girl
@@ -152,6 +234,8 @@ The family was hesitant as they were not able to afford the various Rs 35 lakhs 
 
 [Data](articles/dcfc413e.json)
 
+[Extended Data](ext_articles/dcfc413e.ext.json)
+
 ---
 
 ### Protests as Venice begins charging entry fee for day-trippers
@@ -171,6 +255,8 @@ Anybody visiting Venice as a tourist for the day – except those who live in th
 ...
 
 [Data](articles/6a0428b4.json)
+
+[Extended Data](ext_articles/6a0428b4.ext.json)
 
 ---
 
@@ -216,6 +302,18 @@ Blinken’s trip to China – his second in the space of a year – comes as the
 
 ---
 
+### ஒரு நொடி-  விமர்சனம்
+
+*2024-04-26 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/182015) · `ta`
+
+கிரைம் திரில்லர் ஜேனரிலான திரைப்படங்களுக்கு அடர்த்தியான திரை கதையும், விறுவிறுப்பான காட்சி அமைப்பும், குறைந்த அளவிற்கான லாஜிக் மீறலும் இருப்பது தான் இன்றைய ட்ரெண்ட். இதற்கு ஏற்றார் போல் உருவாகி வெளியாகி இருக்கும் 'ஒரு நொடி' திரைப்படத்திற்கு ரசிகர்களிடத்தில் வரவேற்பு கிடைக்குமா? கிடைக்காதா? என்பது தொடர்ந்து காண்போம்.
+
+...
+
+[Data](articles/86b922bd.json)
+
+---
+
 ### SS Mudali appointed to work in general area General Manager
 
 *2024-04-26 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195993) · `si`
@@ -235,6 +333,20 @@ Accordingly, an officer has been appointed to cover its duties until the vacancy
 [Data](articles/6d7c0935.json)
 
 [Extended Data](ext_articles/6d7c0935.ext.json)
+
+---
+
+### வரலாற்றில் இன்று
+
+*2024-04-26 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182016) · `ta`
+
+தந்தை செல்வாவின் நினைவு தினத்தை இன்று (26) நாட்டில் பல்வேறு தரப்பினரும் அனுஷ்டிக்கின்றனர்.
+
+1977 ஏப்ரல் 26 அன்று தந்தை செல்வா மறைந்த செய்தி, மறுநாள் 27ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையில் "தலைவர் செல்வா காலமானார்" என தலையங்கத்துடன் இவ்வாறு பிரசுரிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/7f4f036e.json)
 
 ---
 
@@ -285,6 +397,8 @@ He told Parliament that Sajith Premadasa did not attend the dinner with the Iran
 ◼️
 
 [Data](articles/1b326aeb.json)
+
+[Extended Data](ext_articles/1b326aeb.ext.json)
 
 ---
 
@@ -352,6 +466,34 @@ He also said there were issues in selecting people for this programme.
 
 ---
 
+### 'ரசிகர்களை மனதில் வைத்து தான் கதைகளை கேட்கிறேன்' - அருண் விஜய்
+
+*2024-04-26 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182014) · `ta`
+
+'எம்மிடம் கதை சொல்ல வரும் இயக்குநர்களிடம் கதை கேட்கும் போது, ரசிகர்களை மனதில் வைத்து தான் கதைகளை கேட்கிறேன். பிடித்திருந்தால் மட்டுமே அப்படத்தில் நடிக்க ஒப்புக் கொள்கிறேன்' என அருண் விஜய் தெரிவித்திருக்கிறார்.
+
+இயக்குநர் கிரிஷ் திருக்குமரன் இயக்கத்தில் உருவாகி வரும் 'ரெட்ட தல' எனும் திரைப்படத்தில் அருண் விஜய், சித்தி இத்னானி, தான்யா ரவிச்சந்திரன், கன்னட நடிகர் கார்த்திக் யோகி,  பிக் பொஸ் பிரபலம் பாலாஜி முருகதாஸ் உள்ளிட்ட பலர் நடிக்கிறார்கள். டிஜோ டோமி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைக்கிறார். அருண் விஜய் இரட்டை வேடத்தில் நடிக்கும் இந்த திரைப்படத்தை பி டி ஜி யுனிவர்சல் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் பொபி பாலச்சந்திரன் தயாரிக்கிறார்.
+
+இப்படத்தினை தயாரிக்கும் பி டி ஜி யுனிவர்சல் நிறுவனத்தின் இலச்சினை, இப்படத்தில் டைட்டில் மற்றும் ஃபர்ஸ்ட் லுக்  வெளியீட்டு விழா நிகழ்வு சென்னையில் உள்ள நட்சத்திர ஹொட்டேலில் நடைபெற்றது. இதன்போது பட குழுவினருடன் இயக்குநரும், நடிகருமான ஜெயம் ராஜா சிறப்பு அதிதியாக பங்கு பற்றினார்.
+
+...
+
+[Data](articles/d2784fa1.json)
+
+---
+
+### அஜித் குமாரின் பிறந்த நாளில் வெளியாகும் 'பில்லா'
+
+*2024-04-26 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182013) · `ta`
+
+அஜித் குமாரின் திரையுலக பயணத்தில் அவருக்கு திருப்புமுனை ஏற்படுத்திய படைப்புகளில் 'பில்லா'வும் ஒன்று.  ஸ்டைலிஷ்ஷான திரை தோற்றத்தில் ரசிகர்களை கவர்ந்த அஜித்குமாரின் 'பில்லா'- அவரது பிறந்த நாளான மே ஒன்றாம் திகதியன்று பட மாளிகையில் மீண்டும் வெளியிடப்படுகிறது.  ஜி பி என்டர்டெயின்மென்ட் எனும் பட நிறுவனத்தை சார்ந்த அரவிந்த் சுரேஷ்குமார் மற்றும் டொக்டர் ஞானபாரதி ஆகியோர் இணைந்து இத்திரைப்படத்தை பட மாளிகையில் வெளியிடுகிறார்கள்.
+
+...
+
+[Data](articles/630e975d.json)
+
+---
+
 ### Energy field is a government for regulation
 
 *2024-04-26 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195991) · `si`
@@ -369,6 +511,26 @@ Addressing the cabinet spokesman Minister Dr. Bandula Gunawardena made this stat
 [Data](articles/3cff1daf.json)
 
 [Extended Data](ext_articles/3cff1daf.ext.json)
+
+---
+
+### வெளிநாட்டில் வசிப்பவரின் காணியை மோசடி செய்து விற்றவருக்கு விளக்கமறியல்
+
+*2024-04-26 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182008) · `ta`
+
+வெளிநாட்டில் வசிப்பவரின் காணியை மோசடி செய்து விற்பனை செய்த நபர் கைதுசெய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+வெளிநாட்டில் வசிக்கும் நபர் ஒருவர் யாழ்ப்பாணத்தில் உள்ள தனது காணியை பராமரிப்பதற்காக யாழ்ப்பாணத்தை சேர்ந்த உறவினர் ஒருவருக்கு அற்ரோணித்தத்துவம் முடித்து கொடுத்துள்ளார்.
+
+அற்ரோணித்தத்துவத்தை தனக்கு சாதகமாக பயன்படுத்தி காணியினை மூன்று துண்டுகளாக பிரித்து ஒரு பகுதியை  நபர் ஒருவருக்கு விற்பனை செய்ததுடன் , மற்றுமொரு பகுதியை வங்கியில் ஈடுவைத்துள்ளார். மற்றைய காணித் துண்டினை தனது உறவினருக்கு நன்கொடையாக கொடுத்து , அதனை மீள அறுதியாக பெற்றுள்ளார்.
+
+இது தொடர்பில் அறிந்த காணி உரிமையாளர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த நிலையில் , முறைப்பாட்டின் பிரகாரம் பொலிஸார் விசாரணைகளை முன்னெடுத்து , காணி விற்பனையில் ஈடுபட்ட நபரை கைது செய்தனர்.
+
+கைது செய்யப்பட்டவரிடம் விசாரணைகளை முன்னெடுத்த பின்னர் யாழ்.நீதவான் நீதிமன்றில் முற்படுத்தியவேளை, நீதிமன்று சந்தேகநபரை விளக்கமறியலில் வைக்க உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/20bf29d6.json)
 
 ---
 
@@ -611,6 +773,26 @@ In addition, 23 kg of cannabis was seized by the police in a house in the Velavi
 [Data](articles/8ba6de87.json)
 
 [Extended Data](ext_articles/8ba6de87.ext.json)
+
+---
+
+### මලිතගොල්ල ප්‍රදේශයේ පැරණි නායාමක් නැවත සක්‍රිය වෙයි
+
+*2024-04-26 11:58:55* · [`adalk`](https://www.ada.lk/breaking_news/මලිතගොල්ල-ප්‍රදේශයේ-පැරණි-නායාමක්-නැවත-සක්‍රිය-වෙයි/11-409278) · `si`
+
+ඇල්ල මලිතගොල්ල ප්‍රදේශයේ පැරණි නායාමක් මේ වනවිට නැවත සක්‍රිය  වී එම තත්වය  වේගවත් වී ඇතැයි ද ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ උපදෙස් ඇතිව පවුල් දහයකට ආරක්ෂිත ප්‍රදේශයන්ට ඉවත් වන ලෙස දැනුම් දුන් බවද බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ නියෝජ්‍ය අධ්‍යක්ෂ ඊ එම් එල් උදය කුමාර මහතා අද 26 පැවසීය.
+
+ඇල්ල වැල්ලවාය මාර්ගයේ 16 වැනි කිලෝමීටර් කණුව  අසල මාර්ගයට ඉහළ  විශාල ප්‍රදේශයක  මෙම නායයාම සක්‍රිය  වී තිබේ.
+
+මෙම ප්‍රදේශය  2019 වර්ෂයේ හඳුනාගත් නාය යාම් අවදානම් කලාපයක් බවත් මේ වන විට දැඩි අවදානම් කලාපයක් බවට මෙම නාය යාම පත් වී ඇති බවත් උදය කුමාර මහතා පැවසීය.
+
+දැනට පවතින  තත්වය අනුව ලොකු හානියක් විය හැකි බවට පෙර ලකුණු පෙන්වන බවද ජල පෝෂක ප්‍රදේශයක් ආශ්‍රිතව සක්‍රිය  වී ඇති මෙම නායයාම සමග පොළොව යටින් බොරදිය සහිත උල්පත් ජලය මතුවී ඇති බවද ඒ මහතා සඳහන් කළේය.
+
+මේ අවදානම් කලාපය ආශ්‍රිතව ඉවත් කළ  පවුල් දහයක සාමාජිකයින් එම  දැනුම් දීම ගැන එතරම් සැලකිල්ලක් නොදක්වා එම ස්ථානවලම රැඳී සිටීමට උත්සාහ ගන්නා  බවද පැවසේ.
+
+...
+
+[Data](articles/d0ef6dec.json)
 
 ---
 
@@ -1991,245 +2173,5 @@ The Ceylon Workers Congress is stumbling with the feeling of impossibility, as i
 [Data](articles/439c1769.json)
 
 [Extended Data](ext_articles/439c1769.ext.json)
-
----
-
-### A man arrested with cannabis in front of the Vavuniya Passport Office
-
-*2024-04-26 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181983) · `ta`
-
-A youth from Maharampaikulam was arrested for possessing cannabis near the Vavuniya Passport Office. Police are investigating if the 1000 milligrams found were for sale.
-
-🟩
-
-Police have arrested a youth from Maharampaikulam area on charges of holding a cannabis in a raid carried out by police on Thursday morning in front of the Vavuniya Regional Passport Office.
-
-Police are conducting investigations into an angle such as whether 1000 milligrams of cannabis has been recovered from the arrested person and whether they were for sale or for sale.
-
-◼️
-
-[Data](articles/6dd6a4ee.json)
-
-[Extended Data](ext_articles/6dd6a4ee.ext.json)
-
----
-
-### Japan provides $ 3 m through FAO to strengthen inland fisheries, rural livelihoods
-
-*2024-04-26 01:22:15* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-3-m-through-FAO-to-strengthen-inland-fisheries-rural-livelihoods/56-761051) · `en`
-
-The Japanese Government has provided a grant of $ 3 million through the Food and Agriculture Organisation of the United Nations (FAO), to strengthen inland fisheries and improve rural livelihoods in partnership with the Ministry of Fisheries.
-
-The $ 3 million initiative will bolster food and nutritional security and fortify resilience by establishing four community operated mini hatcheries in Batticaloa, Mullaitivu, Anuradhapura and Monaragala districts, upgrade four NAQDA Aquaculture Development Centres and one community operated mini fish breeding centre to increase breeding and rearing capacity, enhance fingerling stocks in selected reservoirs, develop broodstock for breeding units and promote cage culture for seed rearing among fisher communities.
-
-...
-
-[Data](articles/872effa1.json)
-
-[Extended Data](ext_articles/872effa1.ext.json)
-
----
-
-### Information has been provided by India
-
-*2024-04-26 01:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவால்-தகவல்-வழங்கப்பட்டுள்ளது/175-336358) · `ta`
-
-Lakshman Kiriella, MP, denies international maneuvers were behind the Sunday attack, citing information from India. Despite Jayawardena's presence, her phone data was erased. Gotabhaya Rajapakse warned of national security threats post-incident. India claims involvement in the attack, with information provided five times. The Indian Army has sacrificed for Sri Lanka's security, and the Modi government focuses on economic development.
-
-🟩
-
-United People's Shakti MP Lakshman Kiriella has said that the international maneuvers did not appear to have been behind the survival Sunday attack.
-
-He was speaking at the second day of the post -adjournment debate in Parliament on Thursday (25) in Parliament on the Sunday attack.
-
-There are information from India. Despite the arrival of Jayawardena, the information on her phone has been destroyed. Information has taken place in the event of information. Gotabhaya Rajapakse said that after the incident, the threat to the national security. That's how he came.
-
-Claiming to be involved in the attack on India. But India has been provided with information on the attack. Information has been provided 5 times. During the LTTE, the Indian Army has given their lives for the security of Sri Lanka. He said the Modi government is working for the entire period for economic development.
-
-◼️
-
-[Data](articles/fd58a65d.json)
-
-[Extended Data](ext_articles/fd58a65d.ext.json)
-
----
-
-### Rotary International District 3220 Conference kicks off today creating hope for Sri Lanka
-
-*2024-04-26 01:19:50* · [`dailyftlk`](https://www.ft.lk/news/Rotary-International-District-3220-Conference-kicks-off-today-creating-hope-for-Sri-Lanka/56-761050) · `en`
-
-Minister of Information Technology and Digital Services, Government of Tamil Nadu Dr. Palanivel Thiaga Rajan
-
-The Rotary District Conference 2024, a key event in the Rotary calendar, will be inaugurated today at 4 p.m. at the BMICH by President Ranil Wickremesinghe.
-
-The event brings together over 400 Rotarians from Sri Lanka and overseas, together with several distinguished invitees and speakers.
-
-The keynote speaker is Minister of Information Technology and Digital Services, Government of Tamil Nadu Dr. Palanivel Thiaga Rajan, and Guest of Honour, Rotary International President’s Representative Per Hoyen.
-
-The opening ceremony will be followed by the technical sessions which will be conducted at the Monarch Imperial on 27 April.
-
-The technical sessions will consist of several key addresses and discussions around Rotary’s core areas of focus, such as the empowerment of women, community and economic development, peacebuilding and conflict prevention, and the environment.
-
-...
-
-[Data](articles/a1801b99.json)
-
-[Extended Data](ext_articles/a1801b99.ext.json)
-
----
-
-### External Affairs Minister Ali Sabri participate in a special meeting of the World Economic Forum
-
-*2024-04-26 01:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181982) · `ta`
-
-External Affairs Minister Ali Sabri will attend a special World Economic Forum meeting in Riyadh, Saudi Arabia, focusing on global economic cooperation and development. The meeting will discuss complex issues and feature topics like 'Urban Future Building' and 'Repeating Faith from the North - West to West'.
-
-🟩
-
-External Affairs Minister Ali Sabri will visit Saudi Arabia to attend a special meeting on the global economic cooperation, development and development of the World Economic Forum.
-
-The External Affairs Ministry said that the meeting, which will be held in Riyadh, Saudi Arabia in the World Economic Forum on the 28th and 29th of this month, will unite globally multi -faceted representatives and industrial leaders and will be expected to take a comprehensive discussion on complex issues that need to be addressed immediately.
-
-Minister Ali Sabri will attend the two sessions on the topics of 'Urban Future Building' and 'Repeating Faith from the North - West to West:
-
-Meanwhile, Minister Ali Sabri is expected to hold bilateral meetings with the top representatives of Saudi Arabia and other countries during the issue.. It is also noteworthy that he will also meet Sri Lankans living in Riyadh.
-
-◼️
-
-[Data](articles/e602a794.json)
-
-[Extended Data](ext_articles/e602a794.ext.json)
-
----
-
-### Tamils should not live: Sridharan question
-
-*2024-04-26 01:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-வாழக்கூடாதா-ஸ்ரீதரன்-கேள்வி/175-336357) · `ta`
-
-S. Sreedharan argued Tamils can't live independently post-war. Selvanayagam Anandavarman, a former militant, was arrested in Colombo, falsely accused of terrorism. He's been imprisoned for eight years. The government's actions threaten ex-combatants and activists.
-
-🟩
-
-Does the government think that Tamils should not live in this country?. S. Sreedharan pointed out that the Tamils could not live independently even as they were said to have completed 15 years after the end of the war.
-
-He was speaking at a debate on the 2nd day of the 2019 Livelihood Sunday bombing, which was held in Parliament on Thursday (25).
-
-Selvanayagam Anandavarman, a former militant and social activist from Vavuniya, was arrested in Colombo by the Terrorist Crime and Investigation Unit on 2024-03-26.
-
-He has been the leader of the Vavuniya District of the Welfare Association of the Welfare Association of the Militants, who have been fought by the Divisional Donors, who have been imprisoned as a Tamil political prisoner for eight years from 2009 to 2017.
-
-...
-
-[Data](articles/561fc1b3.json)
-
-[Extended Data](ext_articles/561fc1b3.ext.json)
-
----
-
-### In the first quarter of 2024, the government has grown beyond the goal of the state income target - Finance Minister Ranjith Siyambalapitiya
-
-*2024-04-26 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/181981) · `ta`
-
-In Q1 2024, Sri Lanka's state income exceeded targets, reaching Rs 834 billion, a 6% increase. Finance Minister Ranjith Siyambalapitiya expressed optimism for 2024, despite challenges in managing liquidity and a 35% increase in quarterly costs. Welfare spending grew by 25% from 2020 to 2024, with significant contributions from the Internal Revenue Department, Sri Lanka Customs, and the Department of Madhuri.
-
-🟩
-
-In the first quarter of this year, the state income has increased to Rs 834 billion and this will increase 6% of the expected state income, said Ranjith Siyambalapitiya, Minister of State Plantation Entrepreneurship Reorganization and Finance Minister.
-
-The Minister of State has expressed confidence that 2024 will be a year of income targets when looking at the country's proper financial management and income system.
-
-He said this while attending a press conference held at the Presidential Media Center on Thursday (25).
-
-Treasury is facing a serious challenge in managing the liquidity this year.The reason is that the current law is unable to get loans and print money. Although welfare and reconstruction activities are high, the country is properly financially management.
-
-...
-
-[Data](articles/9b770aa2.json)
-
-[Extended Data](ext_articles/9b770aa2.ext.json)
-
----
-
-### Vavuniya Investigations were distracted
-
-*2024-04-26 01:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுணதீவு-விசாரணைகள்-திசை-திருப்பப்பட்டன/175-336356) · `ta`
-
-Vavuniya Investigations shifted focus due to doubts about the Sahran side's involvement in the police officers' deaths. The investigation's shift was discussed in a House of Representatives debate on the Sunday attack. The case has been under scrutiny for 9 days, with a documentary and book released. Post-2015, Rajapaksas targeted Muslim and Islamic fundamentalism, affecting Sinhalese.
-
-🟩
-
-When two police officers in Vavuniya were killed by the Sahran side, why were its investigations turned to the other side?He also said that there are doubts.
-
-He further stated that he was speaking at the second day debate of the House of Representatives on Thursday's life -threatening Sunday attack in Parliament on Thursday.
-
-There have been a number of suspicious things about the survival Sunday attack for the past 5 years. The life -long Sunday bombshell is discussed. The case has been discussed for 9 consecutive days during the attack. However, the Channel -04 documentary has been released, with the Pillaiyan book published.
-
-After the regime change in 2015, the political activities of the Rajapaksas focused on Muslim fundamentalism, Islamic fundamentalism and the threat to the Sinhalese.
-
-◼️
-
-[Data](articles/803194e4.json)
-
-[Extended Data](ext_articles/803194e4.ext.json)
-
----
-
-### Nallur temple environment is not a game;
-
-*2024-04-26 01:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லூர்-ஆலய-சூழல்-விளையாட்டு-திடல்-அல்ல-நீதிபதி-இளஞ்செழியன்-சாட்சி/175-336355) · `ta`
-
-Jaffna High Court Judge Maa states Nallur temple environment is not a game. Judge Ilancheliyan testifies about an incident where a civilian tried to snatch a rifle from his bodyguard, leading to a confrontation. The bodyguard was injured, and the civilian fled. The hearing continues for three days.
-
-🟩
-
-Vavuniya High Court Judge Maa says that the Nallur temple environment is not a shooter playing. Ilangelian said in his testimony.
-
-Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna High Court Judge Denis Santhan Susitasan on July 22, 2017.
-
-Judge Ilancheliyan appeared in the court on Wednesday (24) and recorded his testimony.
-
-Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
-
-The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
-
-My car driver's motorcycle was paying another bodyguard.
-
-Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
-
-...
-
-[Data](articles/561ef2f5.json)
-
-[Extended Data](ext_articles/561ef2f5.ext.json)
-
----
-
-### Witness of the judge
-
-*2024-04-26 01:07:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதி-இளஞ்செழியன்-சாட்சி/175-336355) · `ta`
-
-Judge Maa of Vavuniya High Court testifies that the Nallur temple environment is not a shooter's playground, as stated by Ilancheliyan. On July 22, 2017, Jaffna Western Court Judge Denis Shantan Susitasan was held in the presence of Jaffna High Court Judge Denis Santhan Susitasan. Ilancheliyan appeared in court on July 24 and recorded his testimony. He was traveling in his car from the High Court to his official residence when a civilian tried to snatch a rifle from his bodyguard. The bodyguard fired, and the civilian fled. The hearing continues at Jaffna High Court until Friday, July 26.
-
-🟩
-
-Vavuniya High Court Judge Maa says that the Nallur temple environment is not a shooter playing. Ilangelian said in his testimony.
-
-Jaffna Western Court Judge Denis Shantan Susitasan is being held in the presence of Jaffna High Court Judge Denis Santhan Susitasan on July 22, 2017.
-
-Judge Ilancheliyan appeared in the court on Wednesday (24) and recorded his testimony.
-
-Jaffna in my car from the High Court on the day of the incident. - I went through Kandy Road and traveled towards my official residence through the temple road.
-
-The car drove my driver. I was sitting next to him. I was sitting in the back seat of the car.
-
-My car driver's motorcycle was paying another bodyguard.
-
-Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who went on a motorcycle reproduced the transport of the road and sent my car to Point Pedro Road.
-
-...
-
-[Data](articles/7213d9c3.json)
-
-[Extended Data](ext_articles/7213d9c3.ext.json)
 
 ---

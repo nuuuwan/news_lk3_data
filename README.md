@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 07:22:46**
+As of **2024-04-26 07:41:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,041 (100.0%) of 21,046 articles have been extended.
+21,046 (100.0%) of 21,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ Highlighting potential investment avenues, Mr. Xu Xiang, Vice President of CASMC
 
 [Data](articles/930e59ea.json)
 
+[Extended Data](ext_articles/930e59ea.ext.json)
+
 ---
 
-### අද ගිගුරුම් සහිත වැසි
+### Thundershowers today
 
 *2024-04-26 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195974) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල අද (26) සවස 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Southern provinces today. Coastal areas from Galle to Matara also affected. Morning thunder in Sabaragamuwa, Central, and Uva. Public advised to prepare for strong winds and lightning.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම කාලගුණ නිවේදනය මගින් ඒ බව පෙන්වා දෙයි.
+🟩
 
-ගාල්ල සිට මාතර හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Central, North Western and Southern provinces today (26).
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+The Department of Meteorology points out that by its latest weather notification.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers or thundershowers will occur at several places in the coastal areas from Galle to Matara.
+
+In some places in the Sabaragamuwa, Central and Uva provinces, there is a thumb in the morning.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/baef88cb.json)
+
+[Extended Data](ext_articles/baef88cb.ext.json)
 
 ---
 

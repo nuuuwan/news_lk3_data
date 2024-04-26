@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 15:34:18**
+As of **2024-04-26 15:52:46**
 
 ## Newspaper Stats
 
-*Scraped **21,119** Articles*
+*Scraped **21,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,765
 tamilmirrorlk | 2,446
 adaderanalk | 2,514
 virakesarilk | 3,181
-dailymirrorlk | 3,287
-adaderanasinhalalk | 3,407
+dailymirrorlk | 3,292
+adaderanasinhalalk | 3,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,119 (100.0%) of 21,119 articles have been extended.
+21,119 (100.0%) of 21,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### හෙට කොළඹට පැය 14 ජල කප්පාදුවක්
+
+*2024-04-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195997) · `si`
+
+හෙට (27) පස්වරු 05 සිට පැය 14ක කාලයක් කොළඹ, දෙහිවල - ගල්කිස්ස හා මොරටුව ඇතුළු ප්‍රදේශ කිහිපයකට ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+අත්‍යාවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් කොළඹ 5 සහ 6, දෙහිවල - ගල්කිස්ස හා මොරටුව නගර සභා බලප්‍රදේශ, ජයන්තිපුර සහ පැලවත්ත යන ප්‍රදේශවලට මෙලෙස ජල සැපයුම අත්හිටුවන බව එම මණ්ඩලය පැවසුවේය.
+
+හෙට පස්වරු 05 සිට ඉරිදා පෙරවරු 07 දක්වා අදාළ ප්‍රදේශවලට ජල සැපයුම අත්හිටුවීමට නියමිතය.
+
+◼️
+
+[Data](articles/181a5956.json)
+
+---
+
+### Sri Lanka to hand management of China-built airport to India, Russia companies
+
+*2024-04-26 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-hand-management-of-China-built-airport-to-India-Russia-companies/108-281435) · `en`
+
+COLOMBO, April 26 (Reuters) - Sri Lanka will hand over management of its $209 million Chinese-built airport to two Indian and Russian companies, a cabinet statement said on Friday, as the island nation attempts to reduce losses from its state enterprises.
+
+Mattala Rajapaksa International Airport (MRIA), funded by China EXIM Bank, has stoked controversy since its opening in 2013 due to a low number of flights, environmentally sensitive location and persistent financial losses.
+
+The airport's management will be handed over to Shaurya Aeronautics (Pvt) Ltd. of India and Airports of Regions Management Company of Russia for 30 years, a cabinet statement said, without mentioning the deal value.
+
+Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, part of $4.2 billion borrowed for other infrastructure projects.
+
+...
+
+[Data](articles/19c4e3ed.json)
+
+---
 
 ### Two Lieutenant Commander remanded
 
@@ -73,6 +107,70 @@ Launching its operations, the first flight reached the BIA with 138 passengers. 
 [Data](articles/7211dcc4.json)
 
 [Extended Data](ext_articles/7211dcc4.ext.json)
+
+---
+
+### 14-hour water cut in Colombo tomorrow: NWS&DB
+
+*2024-04-26 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-hour-water-cut-in-Colombo-tomorrow-NWS-DB/108-281433) · `en`
+
+Colombo, April 26 (Daily Mirror) - Colombo residents are set to experience a 14-hour water cut tomorrow as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
+
+The NWSDB reported that the water cut will apply to the Colombo 5, 6, Dehiwala-Mount Lavinia and Moratuwa Urban Council areas, Jayanthipura and Pelawatta.
+
+Water supply will be disrupted at 5 p.m. tomorrow (28), and will resume at 7 a.m. on Sunday (28).
+
+According to the NWS&DB, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
+
+The NWSDB has advised residents in the affected areas to make the necessary arrangements to store water during the water cut period.
+
+Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
+
+◼️
+
+[Data](articles/e6ab3ad8.json)
+
+---
+
+### Indian heart gives new lease of life to Pakistani girl
+
+*2024-04-26 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-heart-gives-new-lease-of-life-to-Pakistani-girl/108-281432) · `en`
+
+Chennai (India Times) - The heart of a 69-year-old man who passed away earlier this year will continue to live, across the border, in Pakistan on a teenager.
+
+19-year-old Ayesha Rashan from Karachi, Pakistan who had been battling heart disease for ten years is all set to live a normal life, with an Indian heart.
+
+Ayesha underwent a successful heart transplant in Chennai’s MGM Healthcare and was discharged from the hospital last week.
+
+Ayesha's family first brought her to India in 2019 when she suffered a cardiac arrest and went into heart failure.
+
+They consulted Senior cardiac surgeon Dr. K R Balakrishnan at the Malar Hospital in Chennai's Adyar, who recommended a heart transplant for the teenager.
+
+The family was hesitant as they were not able to afford the various Rs 35 lakhs that would cost for the transplant surgery.
+
+...
+
+[Data](articles/dcfc413e.json)
+
+---
+
+### Protests as Venice begins charging entry fee for day-trippers
+
+*2024-04-26 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protests-as-Venice-begins-charging-entry-fee-for-day-trippers/108-281431) · `en`
+
+Venice, Italy (CNN) — April 25 has long been a historic day in Venice – the date is not just Italy’s Liberation day, but it’s also the feast day of the city’s patron saint, St. Mark.
+
+But now Venice will notch up another dose of history for April 25 – as the day the city becomes the first in the world to charge day-trippers an entry fee.
+
+There were protests as the day got underway with locals waving banners and holding up their passports in anger at the city being put behind a barrier in the style of a theme park or museum. Photos show police clashing with some protesters.
+
+The long-awaited contributo di accesso (it’s styled as an ‘access contribution’ rather than a ticket) started at 8.a.m. on Thursday. The city council is running a pilot project until mid July to see if it can make the system work.
+
+Anybody visiting Venice as a tourist for the day – except those who live in the local Veneto region – must pay the 5 euro ($5.40) charge if they arrive between 8 a.m. and 4 p.m..
+
+...
+
+[Data](articles/6a0428b4.json)
 
 ---
 
@@ -171,6 +269,22 @@ He told Parliament that Sajith Premadasa did not attend the dinner with the Iran
 [Data](articles/06fc03de.json)
 
 [Extended Data](ext_articles/06fc03de.ext.json)
+
+---
+
+### Sajith didn't get appointment from Iranian Embassy to meet Iranian President: Nalin Bandara
+
+*2024-04-26 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-didn-t-get-appointment-from-Iranian-Embassy-to-meet-Iranian-President-Nalin-Bandara/108-281429) · `en`
+
+Parliament, April 26 (Daily Mirror)- Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara said today that Opposition Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
+
+He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe as he never attends dinners hosted by President Wickremesinghe.
+
+"I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy to meet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe," he said.
+
+◼️
+
+[Data](articles/1b326aeb.json)
 
 ---
 
@@ -2117,121 +2231,5 @@ Due to the traffic congestion on the Nallur Temple Bin Road, my bodyguard who we
 [Data](articles/7213d9c3.json)
 
 [Extended Data](ext_articles/7213d9c3.ext.json)
-
----
-
-### Siyambalapitiya outlines objectives of SOE restructuring
-
-*2024-04-26 00:57:39* · [`dailyftlk`](https://www.ft.lk/business/Siyambalapitiya-outlines-objectives-of-SOE-restructuring/34-761043) · `en`
-
-Highlights need for a broader policy framework to guide transition of entrepreneurship activities from public to private entities, while maintaining Govt. oversight and collecting necessary taxes
-
-Asserts massive tax burden imposed on citizens due to losses incurred by SOEs operating outside proper policy frameworks
-
-State Minister of Finance Ranjith Siyambalapitiya yesterday shed light on the objectives behind the ongoing restructuring of public enterprises, noting the Government’s aim to transfer entrepreneurship activities to the private sector whilst ensuring effective regulation and reducing the burden on State institutions.
-
-Speaking in Parliament, Siyam-balapitiya addressed concerns raised by MP Lakshman Kiriella regarding the restructuring of profit-making State-owned enterprises (SOEs).
-
-...
-
-[Data](articles/79152258.json)
-
-[Extended Data](ext_articles/79152258.ext.json)
-
----
-
-### Govt. to introduce relief program for senior citizens affected by withholding tax
-
-*2024-04-26 00:55:53* · [`dailyftlk`](https://www.ft.lk/business/Govt-to-introduce-relief-program-for-senior-citizens-affected-by-withholding-tax/34-761042) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says a total of Rs. 40 b required annually for compensation activities
-
-In a bid to address the concerns of the senior citizens grappling with withholding tax on interest payments, State Minister of Finance Ranjith Siyambalapitiya announced plans for a formal relief program aimed at providing immediate assistance.
-
-He outlined a practical program tailored to the Government’s cash flow capabilities, with the primary objective of swiftly removing withholding tax on interest payments for those earning less than
-
-“The Government is dedicated to implementing a formal and practical relief program to alleviate the financial burden faced by the senior citizens. A significant allocation of around Rs. 40 billion annually is required for these compensation activities,” he added.
-
-...
-
-[Data](articles/f20fa434.json)
-
-[Extended Data](ext_articles/f20fa434.ext.json)
-
----
-
-### Dialog Axiata recognised as the most significant FDI contributor by BOI
-
-*2024-04-26 00:54:56* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Axiata-recognised-as-the-most-significant-FDI-contributor-by-BOI/34-761041) · `en`
-
-In a significant acknowledgment of its contribution towards the development and growth of the national economy, Dialog Axiata PLC, was recognised by the Board of Investment (BOI) as the most significant FDI Contributor.
-
-This prestigious accolade, presented during the BOI’s 45th anniversary celebrations, underscores Dialog’s unwavering commitment to driving forward Sri Lanka’s economic development as the country’s largest Foreign Direct Investor, with investments totalling $ 3.25 billion to date.
-
-...
-
-[Data](articles/66b8a3b6.json)
-
-[Extended Data](ext_articles/66b8a3b6.ext.json)
-
----
-
-### New electricity bill presented to Parliament
-
-*2024-04-26 00:53:19* · [`dailyftlk`](https://www.ft.lk/business/New-electricity-bill-presented-to-Parliament/34-761040) · `en`
-
-Power and Energy Minister Kanchana Wijesekera presented the much-anticipated ‘Sri Lanka electricity bill’ to the Parliament yesterday.
-
-The bill which published in the Government gazette on 17 April, lays out comprehensive reforms designed to modernise and streamline the country’s electricity industry.
-
-A key aspect of the proposed legislation is the establishment of the National Electricity Advisory Council, aimed at providing strategic guidance and oversight for the sector. Additionally, the bill seeks to empower the Public Utilities Commission of Sri Lanka (PUCSL) as the primary regulatory authority responsible for ensuring efficiency, transparency, and fair competition within the electricity market. Under the provisions of the bill, corporate entities will be incorporated to manage all aspects of electricity generation, transmission, distribution, trade, supply and procurement.
-
-...
-
-[Data](articles/7cda38a9.json)
-
-[Extended Data](ext_articles/7cda38a9.ext.json)
-
----
-
-### Kota denied Cardinal's allegations
-
-*2024-04-26 00:53:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினாலின்-குற்றச்சாட்டுகளை-மறுத்தார்-கோட்டா/175-336354) · `ta`
-
-Kota denies Cardinal's allegations of involvement in the Sunday attack, claiming he was either changing or dismissing the opinions of the Presidential Commission. Gotabaya alleges Cardinal said Kota was involved in the attack. Muslims are not allowed to vote for or against Kota, he claims, as a reason for the attack on him. The Presidential Commission's report was handed over to Kota on February 20, 2021, and to the Speaker on February 23, 2021. Kota appointed a six-year-old Cabinet Subcommittee to implement the Commission's report issues.
-
-🟩
-
-உயிர்த்த ஞாயிறு தொடர்பான கர்தினால் மல்கம் ரஞ்சித் முன்வைத்துள்ள குற்றச்சாட்டுகளை முற்றாக நிராகரித்துள்ள முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பயங்கரவாத தாக்குதலில் ஈடுபட்டஇரு தரப்புகள் குறித்த உண்மைகளை கர்தினால் மறைக்கின்றார் அல்லது வெளிப்படையாக தவிர்க்கின்றார் என குறிப்பிட்டுள்ளார்.
-
-Gotabaya said that Cardinal said that I was involved in the day after the Presidential Commission handed over to me on the Sunday attack.
-
-முஸ்லீம் சமூகத்தினர் எனக்கு வாக்களிக்கவில்லை என்னை ஆதரிக்கவில்லை என்பது நன்கு தெரிந்த விடயம் இதன் காரணமாக உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில்  தடைசெய்யப்படவேண்டிய எந்த அமைப்பிலும் நான் ஏன் ஆதரவாளர்களை வைத்திருக்கவேண்டும் எனவும் முன்னாள் ஜனாதிபதி தெரிவித்துள்ளார்.
-
-On February 2021, the Presidential Commission's Report was handed over to me after examining it. It was handed over to the Speaker on February 23, 2021.
-
-...
-
-[Data](articles/ca185a43.json)
-
-[Extended Data](ext_articles/ca185a43.ext.json)
-
----
-
-### Overseas Realty kicks off FY24 with Rs. 1.83 b pre-tax profit
-
-*2024-04-26 00:51:16* · [`dailyftlk`](https://www.ft.lk/business/Overseas-Realty-kicks-off-FY24-with-Rs-1-83-b-pre-tax-profit/34-761039) · `en`
-
-Overseas Realty (Ceylon) PLC said yesterday it has recorded a Group Revenue of Rs. 1,681 million and a Group Profit Before Tax of Rs. 1,825 million for the 1st quarter ending 31 March 2024. The appreciation of the LKR resulted in a net exchange gain of Rs. 1,313 million on foreign currency loans.
-
-The Company Revenue of Rs. 652 million at the World Trade Center, Colombo, was 9% higher than the corresponding quarter of last year, due mainly to higher occupancy and rental rates.  Revenue of Rs. 338 million was recorded from Residential Sales of Havelock City which was higher than the corresponding period in 2023.
-
-Although apartment sales were low due to depressed economic conditions and higher prices, the gradual reduction in interest rates is generating higher sales inquiries. A limited number of move-in ready luxury apartments are available for purchase in the fourth and final phase of Havelock City Residential.
-
-...
-
-[Data](articles/cc881e75.json)
-
-[Extended Data](ext_articles/cc881e75.ext.json)
 
 ---

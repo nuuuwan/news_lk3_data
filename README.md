@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 14:52:20**
+As of **2024-04-26 15:03:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,117 (100.0%) of 21,118 articles have been extended.
+21,118 (100.0%) of 21,118 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Launching its operations, the first flight reached the BIA with 138 passengers. 
 ◼️
 
 [Data](articles/7211dcc4.json)
+
+[Extended Data](ext_articles/7211dcc4.ext.json)
 
 ---
 

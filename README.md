@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 22:05:42**
+As of **2024-04-26 22:18:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,171 (99.9%) of 21,185 articles have been extended.
+21,185 (100.0%) of 21,185 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,21 +196,29 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 
 ---
 
-### ரி20 கிரிக்கெட் பந்துவீச்சில் இருபாலாரிலும் இந்தோனேசியாவின் ரொஹ்மாலியா உலக சாதனை
+### Rhmalia's World Record in Indonesia
 
 *2024-04-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182055) · `ta`
 
+Rohmalia, a 17-year-old from Indonesia, set a world record in the 5th Women's International T20 cricket match against Mongolia in Bali, taking 7 wickets in 3.2 overs. This achievement makes her the 3rd woman to achieve this feat, following Alison Stokes and Frederic Orterica in 2022.
+
+🟩
+
 மகளிர் சர்வதேச ரி20 கிரிக்கெட் பந்துவீச்சில் இந்தோனேசிய கிரிக்கெட் வீராங்கனை ரொஹ்மாலியா அதிசிறந்த பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்து உலக சாதனை படைத்துள்ளார்.
 
-17 வயதான ரொஹ்மாலியா ஒரு ஓட்டமும் விட்டுக் கொடுக்காமல் 7 விக்கெட்களைக் கைப்பற்றி ஆண்களுக்கான மற்றும் பெண்களுக்கான சர்வதேச ரி20 கிரிக்கெட் போட்டிகளுக்கான உலக சாதனையை படைத்தார்.
+17 -year -old Rohmalia took a world record for men and women's international T20 cricket matches for men and women.
 
-பாலியில் நடைபெற்ற மொங்கோலியாவுக்கு எதிரான 5ஆவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் அறிமுகமான ரொஹ்மாலி 3.2 ஓவர்கள் பந்துவீசி ஒரு ஓட்டத்தையும் விட்டுக்கொடுக்காமல் 7 விக்கெட்களை வீழ்த்தி உலக சாதனை நிலைநாட்டினார்.
+Rhmali, who debuted in the 5th Women's International T20 cricket match against Mongolia in Bali, set a world record for the bowling of 3.2 overs.
 
-மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 7 விக்கெட்களை வீழ்த்திய 3ஆவது வீராங்கனை ரொஹ்மாலியா ஆவார். இதற்கு முன்னர் பெரு அணிக்கு எதிராக 2022இல்  ஆர்ஜன்டீனாவின் அலிசன் ஸ்டொக்ஸ் என்பவரும் பிரான்ஸுக்கு எதிராக 2021இல் நெதர்லாந்தின் ப்ரெடரிக் ஓவர்டிக என்பவரும் ஒரே பந்துவீச்சுப் பெறுதியான 3 ஓட்டங்களுக்கு 7 விக்கெட்கள் என்ற உலக சாதனையை சமமாகக் கொண்டிருந்தனர்.
+Rohmalia is the 3rd hero who took 7 wickets in women's international T20 cricket matches. Earlier, Argentina's Alison Stokes and Netherlands's Frederic Orterica in 2022 were equal to the world record for 3 wickets for 3 runs.
 
-...
+Chinese player Siaz Itrus holds the record for 7 wickets for 8 runs for 8 runs. He became the owner of this achievement in last year's match against Malaysia in Kuala Lumpur. This is the only international T20 cricket world record for the man.
+
+◼️
 
 [Data](articles/ec1c6cee.json)
+
+[Extended Data](ext_articles/ec1c6cee.ext.json)
 
 ---
 
@@ -244,23 +252,33 @@ The group who assaulted the young man had then went to another home near the nea
 
 ---
 
-### ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண தூதுவராக யுவ்ராஜ் சிங் பெயரிடப்பட்டுள்ளார்
+### Yuvraj Singh has been named as ICC men's R20 World Cup ambassador
 
 *2024-04-26 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182054) · `ta`
 
-ஐசிசி ஆடவர் டி20 உலகக் கிண்ண தூதுவராக இந்தியாவின் கிரிக்கெட் ஜாம்பவான் யுவ்ராஜ் சிங்கை சர்வதேச கிரிக்கெட் பேரவை (ஐசிசி) அறிவித்துள்ளது.
+Yuvraj Singh, a 2007 world champion, is named ICC Men's T20 World Cup ambassador, joining Chris Gale and Jemimah Rodrigues. He scored 6 sixes in the 19th over against England in 2007. India won the final against Pakistan. The ICC Men's R20 World Cup, from June 1st to 29th, features 20 teams and 55 matches across 9 stadiums, culminating in the final in Barbados.
 
-ரி20 கிரிக்கெட் உலகக் கிண்ணம் நடைபெற 36 நாட்கள் உள்ள நிலையில் யுவ்ராஜ் சிங்குக்கு இந்த கௌரவம் கிடைத்துள்ளது.
+🟩
 
-மேற்கிந்தியத் தீவுகளின் அதிரடி மன்னன் கிறிஸ் கேல், ஜெமெய்க்காவின் மின்னல் வேக ஓட்ட வீரரும் ஒலிம்பிக்கில் 8 தங்கப் பதக்கங்கள் வென்றவருமான யூசெயன் போல்ட் ஆகியோருடன் முதலாவது தூதுவர்கள் குழுவில் யுவ்ராஜ் சிங் இணைகிறார்.
+The International Cricket Council (ICC) has announced India's cricketer Yuvraj Singh as ICC Men's T20 World Cup ambassador
 
-தென் ஆபிரிக்காவில் 2007ஆம் ஆண்டு நடைபெற்ற அங்குரார்ப்பண ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் இங்கிலாந்துக்கு எதிராக ஸ்டுவர்ட் ப்றோட் வீசிய 19ஆவது ஓவரில் 6 சிக்ஸ்களை யுவ்ராஜ் சிங் விளாசியிருந்தார்.
+Yuvraj Singh has been honored with 36 days of the R20 Cricket World Cup.
 
-இறுதிப் போட்டியில் பாகிஸ்தானை வெற்றிகொண்ட இந்தியா முதலாவது ரி20 உலகக் கிண்ண சம்பியனாகியிருந்தது.
+Yuvraj Singh joins the first ambassador of the West Indies, Chris Gale, Jemica's lightning -driven player and 8 gold medals at the Olympics.
+
+Yuvraj Singh has scored 6 sixes in the 19th over against England against England in the 2007 Appendix T20 World Cup in South Africa.
+
+India won Pakistan in the final.
+
+ரி20 உலகக் கிண்ணப் போட்டி ஆரம்பமாவதற்கு முன்னரும் போட்டிகளின்போதும்  அமெரிக்காவில் நடைபெறும் உலகக் கிண்ண விளம்பர நிகழ்ச்சிகளில்  யுவ்ராஜ் சிங்  கலந்து கொள்வார். The ICC has learned that he will participate in the advertising event, especially during the league match between India and Pakistan on June 9 in New York.
+
+Yuvraj Singh, a world champion in 2007, said:. Therefore, it is exciting to be a partner in the R20 World Cup chapter. ”
 
 ...
 
 [Data](articles/0e5e75c4.json)
+
+[Extended Data](ext_articles/0e5e75c4.ext.json)
 
 ---
 
@@ -336,33 +354,45 @@ The President took the opportunity to detail the Sri Lankan government's endeavo
 
 ---
 
-### ஈஸ்டர் தாக்குதல் குறித்து மைத்திரியின் இரகசிய வாக்குமூலம் அம்பலம்
+### Maithri's secret confession over Easter attack exposed
 
 *2024-04-26 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182053) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதலின் மூளையாக செயல்பட்டவர் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குற்றப்புலனாய்வு திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலம் தொடர்பில் பொது பாதுகாப்பு அமைச்சர் திரான் அலஸ் வெள்ளிக்கிழமை (26) முதன்முறையாக அம்பலப்படுத்தியுள்ளார்.
+Maithripala Sirisena revealed a confidential confession about the Easter attack to the CID, without naming anyone from Sri Lanka.
 
-மேலும் கருத்து தெரிவித்த அமைச்சர் குறித்த வாக்குமூலத்தில் இலங்கையை சேர்ந்த எவருடைய பெயரையும் முன்னாள் ஜனாதிபதி குறிப்பிடவில்லை என அமைச்சர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Former President Maithripala Sirisena has exposed the confidential confession to the Criminal Investigation Department (CID) for the first time on Friday (26).
+
+The Minister also stated that the former President did not mention the name of anyone from Sri Lanka in the affidavit of the minister.
 
 ◼️
 
 [Data](articles/ece40cf0.json)
 
+[Extended Data](ext_articles/ece40cf0.ext.json)
+
 ---
 
-### இலங்கை விவசாயத்துறைக்கான உதவிகள் மூலம் உணவுப்பாதுகாப்பு நிலையை மேம்படுத்த எதிர்பார்ப்பு - அமெரிக்கா தெரிவிப்பு
+### Expectation to improve food security through assistance to Sri Lanka's agriculture sector - US
 
 *2024-04-26 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182048) · `ta`
 
-ஸ்திரத்தன்மை மற்றும் சுபீட்சம் ஆகியவற்றைப் பேணிவளர்ப்பதற்கான தமது பரந்துபட்ட இலக்கின் ஓரங்கமாக இலங்கையின் விவசாயத்துறைசார் அபிவிருத்திக்கு அவசியமான உதவிகளை வழங்குவதன் ஊடாக நாட்டின் உணவுப்பாதுகாப்பு நிலையை மேம்படுத்துவதற்கு எதிர்பார்ப்பதாக அமெரிக்கா தெரிவித்துள்ளது.
+The US aims to enhance Sri Lanka's food security by supporting its agriculture, as part of its broader goals for stability and prosperity. A meeting between US and Sri Lankan officials discussed this, with commitments to aid and promote food security and climate change resilience.
 
-அமெரிக்க விவசாயத்திணைக்களத்தின் வர்த்தக மற்றும் வெளிநாட்டு விவசாயம்சார் விவகாரங்களுக்கான துணைச்செயலர் அலெக்சிஸ் டெய்லருக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் இடையிலான சந்திப்பொன்று வெள்ளிக்கிழமை (26) கொழும்பில் இடம்பெற்றது. இச்சந்திப்பில் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங்கும் கலந்துகொண்டிருந்தார்.
+🟩
 
-இலங்கையின் விவசாயத்துறைக்கு அமெரிக்க விவசாயத்திணைக்களம் வழங்கிவரும் உதவிகள் குறித்துக் கலந்துரையாடும் நோக்கில் இடம்பெற்ற இச்சந்திப்பில், உணவுப்பாதுகாப்பை மேம்படுத்தல், காலநிலைமாற்ற சவால்களுக்கு எதிரான மீண்டெழும் தன்மையை ஊக்குவித்தல் என்பவற்றின் ஊடாக இலங்கையின் விவசாய அபிவிருத்தி மற்றும் பொருளாதார வளர்ச்சிக்கு ஆதரவளிப்பதில் அமெரிக்கா கொண்டிருக்கும் வலுவான உறுதிப்பாட்டினை துணைச்செயலர் அலெக்சிஸ் டெய்லர் வெளிக்காட்டினார்.
+The US has said it expects to improve the country's food safety by providing necessary assistance to Sri Lanka's agricultural development as part of its vast goal of maintaining stability and prosperity.
+
+A meeting between Alexis Taylor and President Ranil Wickremesinghe, Deputy Secretary of the US Department of Agriculture and Foreign Agriculture Affairs, took place in Colombo on Friday (26).. US Ambassador to Sri Lanka Julie Sangam was also present at the meeting.
+
+In a view to the aid provided by the US Department of Agriculture to the Department of Agriculture, the United States, Alexis Daler, has made a strong commitment to supporting the agricultural development and economic development of Sri Lanka through promoting food security and recovery against climate change challenges.
 
 ...
 
 [Data](articles/77f1ae12.json)
+
+[Extended Data](ext_articles/77f1ae12.ext.json)
 
 ---
 
@@ -456,19 +486,27 @@ As a precautionary measure to control the mosquitoes, the Colombo Municipal Coun
 
 ---
 
-### காஸா சிறுவர் நிதியத்திற்கான பல நன்கொடைகள் ஜனாதிபதியிடம் கையளிப்பு
+### Many donations to Gaza Children's Fund have been handed over to the President
 
 *2024-04-26 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182049) · `ta`
 
-காஸா மோதல்களில் பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்குவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஸ்தாபிக்கப்பட்ட காஸா குழந்தைகள் நிதியத்திற்கான (Children of Gaza Fund) நிதி நன்கொடைகள் வெள்ளிக்கிழமை (26) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டன.
+President Ranil Wickremesinghe received donations for the Gaza Children's Fund, including $1M from Ministries and State Institutions for the Iftar event, and funds from various organizations for the "Children of Gaza Fund". The funds will be handed over to the Palestinian government.
+
+🟩
+
+Funds for the Gaza Children's Fund (Children of Gaza Fund) established by President Ranil Wickremesinghe to provide relief to victims of the Gaza conflict were handed over to President Ranil Wickremesinghe at the Presidential Office on Friday (26).
 
 கல்முனை ஹுதா ஜும்மா பள்ளிவாசல் 1,589,000 ரூபாவையும், அகில இலங்கை ஜம்மியத்துல் உலமா கிண்ணியா கிளை 5,300,000 ரூபாவையும், கல்முனை வலயக் கல்வி அலுவலகம் 3,128,500 ரூபாவையும், Sports First Foundation 300,000 ரூபாவையும் சிறுவர் நிதியத்திற்கு நன்கொடையாக வழங்கியுள்ளன.
 
-முதற்கட்டமாக, இந்த ஆண்டு இப்தார் நிகழ்வை நடத்துவதற்கு அமைச்சுக்கள் மற்றும் அரச நிறுவனங்கள் ஒதுக்கிய நிதியில் இருந்து கிடைத்த ஒரு மில்லியன் அமெரிக்க டொலர்களை, ஐக்கிய நாடுகள் சபையின் உத்தியோகபூர்வ பிரதிநிதிகள் குழு மூலம் பலஸ்தீன அரசாங்கத்திடம் ஜனாதிபதி ரணில் விக்ரமசிங்க அண்மையில் கையளித்தார்.
+Initially, President Ranil Wickremesinghe recently handed over $ 1 million from the funds allocated to the Ministries and State Institutions to host the Iftar event this year.
+
+In addition, the President's Office has received a large number of funds to contribute to the "Children of Gaza Fund" Fund and the money will be officially handed over to the Palestinian government in the coming years.
 
 ...
 
 [Data](articles/5a85a88d.json)
+
+[Extended Data](ext_articles/5a85a88d.ext.json)
 
 ---
 
@@ -553,6 +591,8 @@ The Shell and RM Parks (Private) Limited have already signed retail brand licens
 ...
 
 [Data](articles/2a394463.json)
+
+[Extended Data](ext_articles/2a394463.ext.json)
 
 ---
 
@@ -640,6 +680,8 @@ A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr26/2024)
 
 [Data](articles/2ba306eb.json)
 
+[Extended Data](ext_articles/2ba306eb.ext.json)
+
 ---
 
 ### Bar Association invited to be a mediator
@@ -705,6 +747,8 @@ There was a net foreign outflow of 288 million. (Colombo/Apr26/2024)
 ◼️
 
 [Data](articles/b5e3b349.json)
+
+[Extended Data](ext_articles/b5e3b349.ext.json)
 
 ---
 
@@ -896,19 +940,29 @@ Later last week, the woman was taken to the orphaned house and the brother added
 
 *2024-04-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182007) · `ta`
 
-எமக்கு எதிராக தொடுக்கப்பட்ட வழக்கின் தீர்ப்பானது  இன்னும் வழங்கப்படாத நிலையில் இரண்டு நீதிபதிகள் குறித்த தீர்ப்பை எழுதி  இருப்பதாக எதிர்க்கட்சித் பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்திருந்தார். இது பாரிய சிறப்புரிமை மீறலாகும்.
+Opposition PM Lakshman Kiriella criticizes the verdict's issuance before court ruling, suggesting intervention. Minister Harin Fernando calls for a select committee to investigate. Two out of three judges involved in the case have issued verdicts, raising suspicions.
 
-அதேநேரம் சட்டத்தில் தலையீடு செய்யப்பட்டிருக்கிறதா என்ற சந்தேகம் எழுகிறது. அதனால் நீதிமன்ற தீர்ப்பு வழங்காத நிலையில் அந்த தீர்ப்பு எவ்வாறு வெளியில் வந்தது என்பது தொடர்பில்  தெரிவுக்குழு அமைத்து விசாரணை நடத்த வேண்டும் என அமைச்சர் ஹரின் பெர்ணான்டோ தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) சிறப்புரிமை மீறல் பிரச்சினை ஒன்றை முன்வைத்து குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+Opposition Prime Minister Lakshman Kiriella said that the verdict of the case against us was not yet issued.. This is a massive violation of privilege.
 
-எமக்கு எதிராக தொடுக்கப்பட்டிருக்கும் வழக்கு தீர்ப்பு ஒன்றுதொடர்பில் எதிர்க்கட்சி பிரதமகொறடா சபையில் தெரிவித்திருந்தார்.
+At the same time, suspicion arises as to whether the law has been intervened. Minister Harin Fernando said the select committee should be set up and investigated on how the verdict came out without a court verdict.
 
-அதில் எமக்கு எதிரான வழக்கு விசாரணையில் இருந்த 3 நீதிபதிகளில் 2நீதிபதிகள் தீர்ப்பை வழங்கியுள்ளதாகவும் ஒரு நீதிபதி அதனை வழங்காமல் இருக்கின்றார். அதனால் விரைவாக வழக்கிற்கு  தீர்ப்பை வழங்காவிட்டால் அவரின் பெயரை வெளியிடுவதாகவும் குறிப்பிட்டிருந்தார்.
+He said this in a statement on Friday (26) in Parliament.
+
+The opposition prime minister said in the verdict of the case against us.
+
+Of the three judges who were in the case against us, 2 judges have issued the verdict and a judge does not give it.. அதனால் விரைவாக வழக்கிற்கு  தீர்ப்பை வழங்காவிட்டால் அவரின் பெயரை வெளியிடுவதாகவும் குறிப்பிட்டிருந்தார்.
+
+This claim of Lakshman Kiriella MP can violate massive privilege. At the same time, I doubt whether there is interventions in this case.
+
+So before the court ruled, the select committee should set up and investigate how the verdict came out.
 
 ...
 
 [Data](articles/02e8466f.json)
+
+[Extended Data](ext_articles/02e8466f.ext.json)
 
 ---
 
@@ -1013,6 +1067,8 @@ The International Monetary Fund required that Sri Lanka introduce a comprehensiv
 ◼️
 
 [Data](articles/c76b99a8.json)
+
+[Extended Data](ext_articles/c76b99a8.ext.json)
 
 ---
 
@@ -1149,6 +1205,8 @@ The committee headed by the Secretary to the Energy Ministry will draw up the le
 ...
 
 [Data](articles/488de373.json)
+
+[Extended Data](ext_articles/488de373.ext.json)
 
 ---
 
@@ -1680,6 +1738,8 @@ For Air Seychelles, over 20 destinations are included in the partnership, which 
 
 [Data](articles/162196eb.json)
 
+[Extended Data](ext_articles/162196eb.ext.json)
+
 ---
 
 ### German research ship allowed Sri Lanka port call after Chinese-protest led clarification
@@ -1701,6 +1761,8 @@ The clarification came after strong protest by China over Sri Lanka allowing the
 ...
 
 [Data](articles/14aa3fbd.json)
+
+[Extended Data](ext_articles/14aa3fbd.ext.json)
 
 ---
 
@@ -1743,6 +1805,8 @@ This week Iran’s President Seyyed Ebrahim Raisi landed at the airport in an Ai
 ◼️
 
 [Data](articles/95d75f2b.json)
+
+[Extended Data](ext_articles/95d75f2b.ext.json)
 
 ---
 

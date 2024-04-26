@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 20:18:46**
+As of **2024-04-26 20:35:12**
 
 ## Newspaper Stats
 
-*Scraped **21,160** Articles*
+*Scraped **21,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,770
+adalk | 1,771
 tamilmirrorlk | 2,449
 adaderanalk | 2,520
 virakesarilk | 3,189
 dailymirrorlk | 3,298
-adaderanasinhalalk | 3,414
+adaderanasinhalalk | 3,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,159 (100.0%) of 21,160 articles have been extended.
+21,160 (100.0%) of 21,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### රුමේනියා රැකියා ජාවාරමේ දෙවන සැකකරුත් කොටුවෙයි
+
+*2024-04-26 20:10:36* · [`adalk`](https://www.ada.lk/breaking_news/රුමේනියා-රැකියා-ජාවාරමේ-දෙවන-සැකකරුත්-කොටුවෙයි/11-409285) · `si`
+
+රුමේනියාවේ රැකියා ලබාදෙන බව පවසා රුපියල් කෝටි 7ට අධික මුදලක් වංචාකළ ජාවාරමට අදාල පැමිණිල්ලේ දෙවන සැකකරු අද දින (4.26) විදේශ සේවා නියුක්ති කාර්යාංශයේදී අත්අඩංගුවට ගන්නා ලදී.
+
+කොළඹ 10, සංඝරාජ මාවතේ පවත්වාගෙන ගිය රෝයල් ඩ්‍රිම්ස් (Royal Dreamz) නම් බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනය මගින්, රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකර ඇති අතර, ඒ පිළිබඳව පැමිණිලි 88ක් කාර්යාංශය වෙත ලැබී තිබිණි. ඒ අනුව අදාළ ආයතනයේ බලපත්‍රලාභිනිය පසුගිය අප්‍රේල් 01 දින කාර්යාංශය මගින් අත්අඩංගුවට ගෙන මාළිගාකන්ද අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අප්‍රේල් මස 29 දින දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලදී.
+
+මෙම ජාවාරම සඳහා සහය වූ තවත් පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විමර්ශන මෙහෙයවූ අතර, ඒ අනුව මෙම ආයතනයේ උප ඒජන්තවරයෙකු ලෙස සේවය කළ නාත්තන්ඩිය ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+...
+
+[Data](articles/52ddb6b3.json)
+
+---
+
+### දුෂ්මන්ත චමීර ගැන අලුත්ම ආරංචිය
+
+*2024-04-26 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196006) · `si`
+
+IPL තරගාවලියේ අද (26) පැවැත්වෙන තරගයේ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සඳහා ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර තරග කිරීමට නියමිතය.
+
+ඔහු කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම වෙනුවෙන් අද තරග වදින්නේ පළමු වරටය.
+
+ඔහු කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමට එක්වූයේ ඉන්දීය රුපියල් ලක්ෂ 50ක මිලකට බව වාර්තා වේ.
+
+දුෂ්මන්ත චමීර එලෙස කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම විසින් තොරගෙන තිබුණේ එංගලන්ත පන්දු යවන ක්‍රීඩක Gus Atkinson වෙනුවටය.
+
+දුෂ්මන්ත චමීර මීට පෙර IPL තරගාවලියවලදී  2018 වසරේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජනය කර ඇති අතර 2021 රෝයල් චැලෙන්ජර්ස් බැංගලෝර් කණ්ඩායම සඳහා ක්‍රීඩා කළේය.
+
+අද තරගය පැවැත්වෙන්නේ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සහ පන්ජාබ් කිංග්ස් කණ්ඩායම් අතරය.
+
+◼️
+
+[Data](articles/00998270.json)
+
+---
 
 ### Easter attack culprits: Tiran’s revelation on Maithripala’s statement
 
@@ -986,19 +1024,27 @@ Addressing the cabinet spokesman Minister Dr. Bandula Gunawardena made this stat
 
 ---
 
-### මිනිසෙකුට තියා සතෙකුටවත් කන්න බැරි හාල් හාලිඇලදි ‌බෙදලා
+### A man is divided in thea and distributed in the rice hell, which cannot eat
 
 *2024-04-26 13:18:48* · [`adalk`](https://www.ada.lk/breaking_news/මිනිසෙකුට-තියා-සතෙකුටවත්-කන්න-බැරි-හාල්-හාලිඇලදි-‌බෙදලා/11-409282) · `si`
 
-ජය මගින් නොමිලේ ලබා දුන් හාල් ලබා ගත් හාලිඇල ප්‍රදේශයේ පුද්ගලයකු ට නරක්වී ආහාරයට ගැනීමට නුසුදුසු තත්ත්වයේ ඇති හාල්  බෑගයක් ලැබුණු බව පවසමින් ඊයේ (25) හාලිඇල සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට ගොස් පැමිණිලි කලහ .
+A man in Haliela complained about rice distribution, leading to an investigation. The Divisional Secretary confirmed government efforts to distribute rice but emphasized the importance of accurate information.
 
-හාලිඇල මැදපිටගම  ප්‍රදේශයේ පදිංචි එච් .බංඩාර නැමත්තෙකු මෙසේ තමන්ට රජයෙන් ලබා දුන් සහල් පරිභෝජනයට නුසුදුසු අයුරින් පවතින බව පවසමින් ලැබුණු සහල් වලින් කොටසක් ද  රැගෙන හාලිඇල  සෞඛ්‍ය  වෛද්‍ය නිලධාරී කාර්යාලයට ගොස් මේ සම්බන්ධයෙන් දැනුම් දුන්නේය .
+🟩
 
-හාලිඇල මහජන සෞඛ්‍ය පරීක්ෂක තනුජය ප්‍රදීප් මහතා මේ සම්බන්ධයෙන් සදහන් කලේ රජය මගින් නොමිලේ ලබා දුන් සහල් කිලෝ 10 ක් අඩංගු සහල් බෑගයේ තිබූ සහල් නරක්වී පරිභෝජනයට නුසුදුසු තත්ත්වයේ පවතින බව පවසමින් සහල්  රැගෙන  හාලිඇල  මැදපිටගම ප්‍රදේශයේ පුද්ගලයකු හාලිඇල සෞඛ්‍ය  වෛද්‍ය නිලධාරී කාර්යාලයට පැමිණ පැමිණිලි කල බවත් , ඒ සම්බන්ධයෙන් අදාළ පරීක්ෂණ කටයුතු කරන බවයි .
+The winner received a rice medical officer in Haliela, Haliela, had complained to the Medical Officer of Health, Haliela.
 
-...
+A resident of the Meditagama area in Haliela has gone to the Health Medical Officer of Health and informed the Health Medical Officer of Haliela.
+
+Mr. Haliela Public Health Inspector Dani Pradeep, Mr. Pradeep, said that a person in Haliela Medicuting has complained to the Haliel Medical Officer of Haliela, saying that the rice bag of 10 kg of rice.It is relevant to the relevant investigations.
+
+Hali-Ela Divisional Secretary WNC Weasinghe said that the government was conducting rice distribution to the public these days, but only another kilogram of rice to the people of the people.Said that a rice bag was given. Investigations are conducted in this regard, he said.
+
+◼️
 
 [Data](articles/84a9bdf3.json)
+
+[Extended Data](ext_articles/84a9bdf3.ext.json)
 
 ---
 
@@ -2209,57 +2255,5 @@ Showers or thundershowers may occur at a few places in the sea areas off the coa
 [Data](articles/97ad8032.json)
 
 [Extended Data](ext_articles/97ad8032.ext.json)
-
----
-
-### Notification for Express Pearl incident
-
-*2024-04-26 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195978) · `si`
-
-The CID has been ordered to end investigations into the Express Pearl fire, despite a request for a month's extension. Lawyers representing parties involved have questioned the need for further investigation. The Additional Magistrate has ordered the police to end investigations quickly and report to court later.
-
-🟩
-
-The Criminal Investigation Department (CID) has informed the CID to end investigations into the fire of Express Pearl.
-
-However, when the case was taken up yesterday (25th), the State Counsel appearing on behalf of the Criminal Investigations have been requested to provide a month to these investigations.
-
-Attorneys representing the Capithan and the Directors of the Commissioner, the Captain and the Directors of the Commissioner is said to have a trial against the accused in connection with the Colombo High Court.
-
-The lawyers have questioned what the need to investigate further investigations.
-
-The Additional Magistrate, who had considered the submissions presented, informed the police to end investigations quickly and was ordered to report to court in the future.
-
-◼️
-
-[Data](articles/28f56947.json)
-
-[Extended Data](ext_articles/28f56947.ext.json)
-
----
-
-### Several political decisions at the meeting of the President
-
-*2024-04-26 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195977) · `si`
-
-President Ranil Wickremesinghe chaired a government meeting, focusing on public programs, development projects, and future political party decisions. State Minister DB Herath announced the Partnership Party's commitment to work together in the next presidential election.
-
-🟩
-
-The government team meeting was chaired by President Ranil Wickremesinghe.
-
-Prime Minister Dinesh Gunawardena, former President Mahinda Rajapakse and other government members participated in the meeting held at the Presidential Secretariat last night.
-
-There is a special attention to the implementation of the public program, implementing development projects and develop development plans for all electorates.
-
-It is also reported that the attention of the decisions and conventions of the political parties in future elections have also been addressed.
-
-After discussion, State Minister DB Herath said that the party's Partnership Party has decided to work together in the next presidential election.
-
-◼️
-
-[Data](articles/7b0d0035.json)
-
-[Extended Data](ext_articles/7b0d0035.ext.json)
 
 ---

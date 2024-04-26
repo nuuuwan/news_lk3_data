@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 09:03:31**
+As of **2024-04-26 09:18:32**
 
 ## Newspaper Stats
 
-*Scraped **21,060** Articles*
+*Scraped **21,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,80 @@ dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,760
 tamilmirrorlk | 2,441
-adaderanalk | 2,500
+adaderanalk | 2,501
 virakesarilk | 3,171
-dailymirrorlk | 3,279
+dailymirrorlk | 3,280
 adaderanasinhalalk | 3,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,059 (100.0%) of 21,060 articles have been extended.
+21,060 (100.0%) of 21,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### අනුර දිසානායක ස්වීඩනයට
+### Surgeons perform first combined heart pump and pig kidney transplant
+
+*2024-04-26 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Surgeons-perform-first-combined-heart-pump-and-pig-kidney-transplant/108-281400) · `en`
+
+(CNN) - The first transplant surgery to combine a mechanical heart pump as well as a gene-edited pig kidney has been completed at NYU Langone Health, the system said Wednesday.
+
+The subject, 54-year-old Lisa Pisano of New Jersey, had heart failure and end-stage kidney disease that required routine dialysis, NYU Langone said in a news release. But she couldn’t have a standard heart or kidney transplant because of other chronic medical conditions that “significantly reduced the likelihood of a good outcome” and because of an overall lack of donor organs in the US.
+
+“When that opportunity first came to me, I was like, ‘I gotta try it,’ ” Pisano said during a news conference Wednesday from her bed in the intensive care unit.
+
+“I’ve tried everything else, and I’ve exhausted all other resources. So when this opportunity came, I said, ‘I’m gonna take advantage of it,’ ” she said, hoping to “spend time with my grandkids and play with them.”
+
+...
+
+[Data](articles/40339c96.json)
+
+---
+
+### Anura Dissanayake to Sweden
 
 *2024-04-26 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195980) · `si`
 
-ජාතික ජන බලවේගයේ නායක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා ස්වීඩනය වෙත පිටත්ව ගොස් තිබේ.
+Anura Kumara Dissanayake, leader of the National Power and Leader Parliamentarian, left Sweden last night for several meetings in the country.
 
-ඊයේ (25) රාත්‍රියේ ඔහු දිවයිනෙන් පිටත්ව ගොස් ඇති බව වාර්තා විය.
+🟩
 
-එරට පැවැත්වෙන ජනහමුවක් සහ සුහද හමු කිහිපයක් සඳහා සහභාගී වීම වෙනුවෙන් අනුර කුමාර දිසානායක මහතා මෙම සංචාරයේ නිරත වෙයි.
+Leader of the National Power and Leader Parliamentarian Anura Kumara Dissanayake left Sweden.
+
+He had left the island last night.
+
+Anura Kumara Dissanayake is also on the occasion to participate in several meetings in the country.
 
 ◼️
 
 [Data](articles/e3576c88.json)
+
+[Extended Data](ext_articles/e3576c88.ext.json)
+
+---
+
+### Five provinces likely to receive thundershowers this evening
+
+*2024-04-26 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98852/five-provinces-likely-to-receive-thundershowers-this-evening) · `en`
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western and Southern provinces after 2 p.m., the Meteorology Department.
+
+Showers or thundershowers may occur at a few places over the coastal areas of Galle to Hambantota via Matara during the morning too.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces in the morning.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers will occur at a few places in the sea areas off the coast extending from Pottuvil to Matara via Hambantota.
+
+Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Matara via Colombo and Galle in the evening or night.
+
+...
+
+[Data](articles/97ad8032.json)
 
 ---
 
@@ -2129,45 +2175,5 @@ He made these remarks while participating in the passing out parade at Katukurun
 [Data](articles/9f9920e8.json)
 
 [Extended Data](ext_articles/9f9920e8.ext.json)
-
----
-
-### People protest in Modu city protesting
-
-*2024-04-25 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/181969) · `ta`
-
-In Modu city, protesters marched against a shrimp farm in Vaharai, demanding environmental protection and accountability from local officials.
-
-🟩
-
-A protest march was held in Batticaloa on Thursday (25) under the auspices of the Batticaloa Civil Organizations organized by the Civil Organizations of Batticaloa, protesting the shrimp farm in the Vaharai area of ​​the Batticaloa district.
-
-People were protesting the banners carrying banners and raising slogans, demanding that they do not want to destroy natural resources.
-
-Governor and people's representatives should be held accountable for the demands of the people regarding these schemes. Demonstrators presented the slogans.
-
-◼️
-
-[Data](articles/3571eba3.json)
-
-[Extended Data](ext_articles/3571eba3.ext.json)
-
----
-
-### Sinopec to complete feasibility study on Sri Lanka refinery by June – report
-
-*2024-04-25 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98845/sinopec-to-complete-feasibility-study-on-sri-lanka-refinery-by-june-report) · `en`
-
-Chinese state energy giant Sinopec is pushing for greater access to Sri Lanka’s market, where rival India is also seeking to expand its presence, as it looks to build its first fully-controlled overseas refinery, reflecting a change in the firm’s global strategy to compensate for slowing demand growth at home.
-
-Sinopec, the world’s largest oil refiner, is expected to complete a feasibility study by June for a plant at the Chinese-run Hambantota port, after winning Colombo’s approval last November, two senior industry sources with direct knowledge of the matter told Reuters.
-
-While the China-based sources say the investment, which Colombo pegged at $4.5 billion as the country’s largest-ever foreign investment, is commercially driven, neighbouring India is pushing a rival plan to build a fuel products pipeline to the island nation southeast of the subcontinent.
-
-...
-
-[Data](articles/bad77041.json)
-
-[Extended Data](ext_articles/bad77041.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 17:03:33**
+As of **2024-04-26 17:18:39**
 
 ## Newspaper Stats
 
-*Scraped **21,141** Articles*
+*Scraped **21,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,86 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,767
+adalk | 1,768
 tamilmirrorlk | 2,447
 adaderanalk | 2,516
 virakesarilk | 3,189
-dailymirrorlk | 3,292
-adaderanasinhalalk | 3,410
+dailymirrorlk | 3,293
+adaderanasinhalalk | 3,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,138 (100.0%) of 21,141 articles have been extended.
+21,141 (100.0%) of 21,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### රුමේනියා යවන විදෙස් රැකියා ජාවාරමක තතු එළියට
+### මැදිහත්කරුවෙක් වෙන්නැයි සජබයෙන් නීතිඥ සංගමයට ඇරයුමක්
+
+*2024-04-26 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196001) · `si`
+
+සමගි ජන බලවේගය සහ ජාතික ජන බලවේගය අතර යෝජිත විවාදය සඳහා මැදිහත් පාර්ශවයක් ලෙස කටයුතු කිරීමට ශ්‍රී ලංකා නීතිඥ සංගමයට ආරාධනා කර තිබේ.
+
+ලිපියක් භාරදෙමින් සමගි ජන බලවේගයේ මෙහෙයුම් ප්‍රධානී නලීන් බණ්ඩාර මහතා මෙම ඉල්ලීම සිදුකර ඇත.
+
+මෙවැනි විවාද සංවිධාන කිරීම හා සහ සම්බන්ධීකරණය පිළිබඳ ජාත්‍යන්තරව ඇති පුර්වාදර්ශ ද සැලකිල්ලට ගනිමින් මෙම සම්බන්ධීකරණය සහ අනෙකුත් විධිවිධාන සැලසීමට ශ්‍රී ලංකා නීතිඥ සංගමයට එලෙස ආරාධනා කර ඇත.
+
+◼️
+
+[Data](articles/6d67e778.json)
+
+---
+
+### Dates confirmed for 78th Bradby Shield
+
+*2024-04-26 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dates-confirmed-for-78th-Bradby-Shield/108-281436) · `en`
+
+Apr. 26 (Daily Mirror) - The dates for the 78th Bradby Shield rugby encounter between the traditional rivals Trinity College and Royal College have been confirmed.
+
+Accordingly, the first-leg will be played at the Royal College Sports Complex on August 24 while the second-leg will take place on September 7 at the Trinity College Rugby Stadium in Pallekele.
+
+Trinity are led by centre three quarter, Anuhas Kodithuwakku while Royal are led by Thivain Perera.
+
+The Chief Guest for the first-leg in Colombo will be the 1985 Royal Skipper Chiranjaya Nanayakkara. The Chief Guest for the second-leg in Pallekele will be the 1985 Trinity Skipper Manoj Jayatissa.
+
+◼️
+
+[Data](articles/4e0eb488.json)
+
+---
+
+### A foreign employment trafficking of the foreign employment
 
 *2024-04-26 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196000) · `si`
 
-කූට ලේඛන හා නිල මුද්‍රා ව්‍යාජ අයුරින් භාවිතා කරමින් තරුණයින් පිරිසක් රුමේනියාවේ රැකියා සඳහා යැවීමට උත්සහා කළ පුද්ගලයෙකු රඳවාගෙන ඉදිරි විමර්ශන කටයුතු සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත භාරදීමට කාර්යාංශයේ ගුවන් තොටුපොළ ඒකකයේ නිලධාරීන් විසින් කටයුතු කර තිබේ.
+The Airport Unit's Office Unit handed over a group of young people suspected of employment trafficking to the CID. The job agency in Kilinochchi, involved in sending people to Romania, was revealed as illegal. A fake Ramadiah Visa was detected, leading to the arrest of the agency's officials and a supporter. The suspects are due in court today.
 
-අප්‍රේල් 24 වන දා කිලිනොච්චිය ප්‍රදේශයේ රැකියා නියෝජිතායතනයක් මාර්ගයෙන්, රුමේනියාවේ රැකියා සඳහා යාමට පැමිණි තරුණයින් පස් දෙනෙකුගේ ලේඛන පරික්ෂා කිරීමේදී ඔවුන් පිළිබඳ සැකසිතී ඇත.
+🟩
 
-පසුව කාර්යාංශයේ කටුනායක ගුවන් තොටුපොළ ඒකකයේ නිලධාරීන් විසින් ඔවුන් සමග පැමිණි ඒජන්සි ආයතනයේ නියෝජිතයා රඳවාගෙන ප්‍රශ්න කර තිබේ.
+Office Unit of the Airport Unit has handed over a group of young persons to the CID for further investigations, using a group of young people to send a person to Romania.
 
-එහිදී එම රැකියා නියෝජිතායතනය නීතිවිරෝධි ආයතනයක් බවට අනාවරණය වී ඇත.
+On April 24, a job agency in the Kilinochchi area on April 24, five youths who have been traveling for jobs in Kilinochchi have been suspected.
 
-එබැවින් විදේශ ගතවීමට පැමිණි තරුණයින්ගේ කාර්යාංශ ලියාපදිංචිය ඇතුළු ලේඛනද නිලධාරීන් විසින් දැඩිව පරීක්ෂා කර ඇති අතර, එහිදි කාර්යාංශයේ ආරක්ෂිත මුද්දර හා නිල මුද්‍රා ව්‍යාජ අයුරින් උපයෝගි කරගෙන ඇති බවද හෙළි වී තිබේ.
+Later, officials of the Agency of the Agency accompanied them with the Bureau of the Katunayake airport unit.
 
-එසේම නිලධාරීන් වෙත ඉදිරිපත් කළ රැමේනියා වීසාද ව්‍යාජ වීසා බවට කරුණු අනාවරණය වී ඇත.
+It has been revealed that the job agency has revealed as an illegal institution.
 
-...
+Therefore, the officials have been severely inspected by the officers and documents of the youths who came to go abroad.
+
+It has also been revealed that the Ramadiah Visa, who was produced before the officials, detected fake visa.
+
+Accordingly, the CID was sent to the Department of Investigation and another person who was supporting him and was arrested by the CID.
+
+The suspects are to be produced before the Negombo Magistrate's Court today (26).
+
+◼️
 
 [Data](articles/df634b11.json)
+
+[Extended Data](ext_articles/df634b11.ext.json)
 
 ---
 
@@ -70,6 +114,8 @@ The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priorit
 
 [Data](articles/0ee7d35b.json)
 
+[Extended Data](ext_articles/0ee7d35b.ext.json)
+
 ---
 
 ### New regulatory body to be introduced for energy sector
@@ -87,6 +133,8 @@ Meanwhile, as private entities are involved in the import and distribution of pr
 ◼️
 
 [Data](articles/91489d53.json)
+
+[Extended Data](ext_articles/91489d53.ext.json)
 
 ---
 
@@ -700,6 +748,28 @@ Give permission to reform this. Otherwise, rectify this, dear officers!He was in
 
 ---
 
+### සංවර්ධනය සඳහා ප්‍රතිපාදන වෙන් කෙරුණේ විනිවිදවයි
+
+*2024-04-26 13:12:21* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධනය-සඳහා-ප්‍රතිපාදන-වෙන්-කෙරුණේ-විනිවිදවයි/11-409280) · `si`
+
+විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට මෙවර විමද්‍යගත අරමුදල් ආණ්ඩුව ලබා නොදෙන බවට කෙරෙන ප්‍රකාශ පදනම් විරහිතයි....
+
+මෙවර ප්‍රතිපාදන වෙන් කෙරුනේ දිස්ත්‍රික් සම්බන්ධිකරණ කමිටු වලටයි.. මන්ත්‍රීවරුන්ට නොවෙයි...
+
+සංවර්ධන කටයුතු සඳහා ප්‍රතිපාදන වෙන් කිරීමේදී එය විනිවිද භාවයකින් සිදු කෙරුණ බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
+
+ඔහු පෙන්වා දෙන්නේ විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට මෙවර විමද්‍යගත අරමුදල් ආණ්ඩුව ලබා නොදෙන බවට කෙරෙන ප්‍රකාශ පදනම් විරහිත බවයි.
+
+ආණ්ඩු පක්ෂය හෝ විපක්ෂයේ කිසිදු පාර්ලිමේන්තු මන්ත්‍රීවරයකුට මෙවර වෙන් වෙන් වශයෙන් විමද්‍යගත අරමුදල් වෙන් කර නොමැති බවත්, සියළු ප්‍රතිපාදන වෙන් කර ඇත්තේ මන්ත්‍රීවරුන්ට නොව දිස්ත්‍රික් සම්බන්ධිකරණ කමිටුවලට බවත් ඇමැතිවරයා පෙන්වා දෙයි.
+
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක ප්‍රසන්න රණතුංග මහතා මේ බව කියා සිටියේ විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී අශෝක් අබේසිංහ මහතා අද (26) දින පාර්ලිමේන්තුවේදී මතුකළ කරුණකට පිළිතුරු ලබා දෙමින්ය.
+
+...
+
+[Data](articles/ede22e2c.json)
+
+---
+
 ### US$ 3 Million grant to strengthen inland fisheries
 
 *2024-04-26 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-3-Million-grant-to-strengthen-inland-fisheries/108-281427) · `en`
@@ -1237,6 +1307,10 @@ However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of t
 ### 'How I Write': Ariywansa Abeysekara
 
 *2024-04-26 10:50:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pynwz6y5ro) · `si`
+
+Ariywansa Abeysekera discusses his writing process, emphasizing the importance of the first sentence and the evolution of characters and plot. He doesn't plan his novels in advance, instead allowing the story to unfold as he writes. His narrative style varies, sometimes drawing from real-life experiences, other times from the supernatural. Writing is a personal journey for him, with no set schedule, and he views it as a way to express his thoughts and feelings.
+
+🟩
 
 Ariywansa Abeysekera, we have chosen for the final part of the conversation, is a significant novel that uses in Sinhala literary history that creates a unique fiction world.
 
@@ -2191,63 +2265,5 @@ He said this while addressing the second day of debate in the House of Represent
 [Data](articles/79d4bf8b.json)
 
 [Extended Data](ext_articles/79d4bf8b.ext.json)
-
----
-
-### Sir holiday
-
-*2024-04-26 01:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-விடுமுறை/175-336361) · `ta`
-
-R. Sampanthan, TNA leader, granted parliament a three-month holiday from sessions. Opposition leader Lakshman Kiriella proposed the same, which was approved.
-
-🟩
-
-The Tamil National Alliance (TNA) leader R. Sampanthan Sir has given parliament permission to grant a further three months' holiday to not participate in the parliamentary sessions.
-
-Lakshman Kiriella MP, the leader of the Opposition on Thursday (25), proposed a three -month holiday to not attend the parliamentary sessions of TNA.. Parliament has approved it.
-
-◼️
-
-[Data](articles/004e179a.json)
-
-[Extended Data](ext_articles/004e179a.ext.json)
-
----
-
-### Sampanthan sir holiday
-
-*2024-04-26 01:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தன்-ஐயாவுக்கு-விடுமுறை/175-336361) · `ta`
-
-R. Sampanthan, TNA leader, granted parliament a three-month holiday from sessions.
-
-🟩
-
-The Tamil National Alliance (TNA) leader R. Sampanthan Sir has given parliament permission to grant a further three months' holiday to not participate in the parliamentary sessions.
-
-Lakshman Kiriella MP, the leader of the Opposition on Thursday (25), proposed a three -month holiday to not attend the parliamentary sessions of TNA.. Parliament has approved it.
-
-◼️
-
-[Data](articles/62db7d85.json)
-
-[Extended Data](ext_articles/62db7d85.ext.json)
-
----
-
-### Back to school, back to hope as LOLC Divi Saviya resumes distribution
-
-*2024-04-26 01:47:19* · [`dailyftlk`](https://www.ft.lk/business/Back-to-school-back-to-hope-as-LOLC-Divi-Saviya-resumes-distribution/34-761056) · `en`
-
-From left - Sri Indajothi Vidyalaya Principal Dulika Liyanage,  Education Minister Dr. Susil Premajayantha,  LOLC Holdings Group Managing Director Kapila Jayawardena, and  COO Kithsiri Gunawardena
-
-Education Minister Dr. Susil Premajayantha with LOLC Holdings Group Managing Director Kapila Jayawardena  distributing the books of LOLC Divi Saviya Phase 03
-
-In a concerted effort to empower the educational landscape of Sri Lanka, LOLC Divi Saviya proudly announces the continuation of its Phase 03 initiative coinciding with the reopening of schools subsequent to the New Year holidays. Following the success of its previous phases, this endeavour reaffirms LOLC›s commitment to nurturing the dreams and aspirations of the nation›s youth.
-
-...
-
-[Data](articles/f517c163.json)
-
-[Extended Data](ext_articles/f517c163.ext.json)
 
 ---

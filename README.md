@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 21:03:37**
+As of **2024-04-26 21:18:33**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 3,417
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,162 (100.0%) of 21,168 articles have been extended.
+21,168 (100.0%) of 21,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### බන්ධනාගාරයේදී සැප ඉල්ලන හරක් කටා
+### Beef asking for pleasure at prison
 
 *2024-04-26 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196008) · `si`
 
-මේ දිනවල දැඩි රස්නයක් පවතින නිසා තමා රඳවා සිටින කුටියේ සිටීමට අපහසු බැවින් තමාට විදුලි පංකාවක් ලබාදෙන්නැයි ප්‍රබල මත්ද්‍රව්‍ය ජාවාරමකරුවකු වන නඳුන් චින්තක නොහොත් හරක් කටා අධිකරණයෙන් අද (26) ඉල්ලා සිටියේය.
+A powerful drug trafficker seeks a fan due to heat, leading to demands from the CID. The Criminal Investigation Department (CID) and the case against the indictments were highlighted. The President's Counsel Sampath Mendis, representing "Beef Sampantha," charged the police in court for surveillance and harassment. Judge Damith Thotawatte proposed using only voice-free CCTV cameras. The State Counsel argued that prison facilities do not allow for the applicant's requests. The High Court Judge informed the Terrorism Division director of all demands for the suspects, emphasizing the unsuitability of the government lawyer and the online procedure for security reasons. The accused's lawyer asked for a return to court.
+
+🟩
+
+There is a strong drug traveler, a powerful drug traveler, a powerful drug traveler to give him a fan, as there is a strong heat.
 
 එමෙන්ම ඔහු ඉල්ලා ඇත්තේ තමාට කියවීමට පොත් හෝ පුවත්පත් ලබාදෙන ලෙසය.
 
-මෙම ඉල්ලීම් සිදුකෙරුණේ සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ රැඳවුම් භාරයේ සිටියදී ඉන් පළායාමට උත්සාහ කිරීම සම්බන්ධයෙන් නඳුන් චින්තක හෙවත් "හරක් කටා" සහ තවත් දෙදෙනෙකුට එරෙහිව ගොනුකර ඇති අධිචෝදනාවලට අදාළ නඩුව කොළඹ මහාධිකරණයේදී අද යළි කැඳවනු ලැබීය.
+These demands were made by the Criminal Investigation Department (CID) and the case against the indictments filed against the indictment against the indictments.
 
 තංගල්ල පැරණි බන්ධනාගාරයේ පිහිටි රැඳවුම් මධ්‍යස්ථානයේ සිට හරක් කටා නඩු වාරයට රැගෙන විත් තිබිණි.
 
 නීතිපතිවරයා වෙනුවෙන් පෙනීසිටි රජයේ නීතිඥ සජිත් බණ්ඩාර මහතා එහිදී දැනුම් දුන්නේ ඉකුත් නඩු වාරයේදී විත්තිය ඉල්ලූ පරිදි සැකකරුට නීතිඥයින් සහ ඥාතීන් හමුවීමට පහසුකම් සැලසූ බවය.
 
-නමුත් "හරක් කටා" වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා මෙලෙස අධිකරණයේදී චෝදනා කිහිපයක් කළේය.
+However, President's Counsel Sampath Mendis appearing on behalf of "Beef Sampantha" made several charges in court.
+
+He said that when legal and relatives arrived to meet the suspect, the police officers are closely and recorded.
+
+එය ඔවුන්ට අදහස් හුවමාරු කරගැනීමට බාධාවක් මෙන්ම සාධාරණ නඩු විභාගයක් සඳහා ඇති අයිතිය උල්ලංඝනය කිරීමක් බවටයි ඔහු චෝදනා කළේය.
 
 ...
 
 [Data](articles/d1f7271b.json)
+
+[Extended Data](ext_articles/d1f7271b.ext.json)
 
 ---
 
@@ -72,6 +82,8 @@ Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen 
 
 [Data](articles/e0f37658.json)
 
+[Extended Data](ext_articles/e0f37658.ext.json)
+
 ---
 
 ### Two women stuck between two moving compartments
@@ -90,6 +102,8 @@ A major rescue effort ensued, with bystanders and railway employees at the Fort 
 
 [Data](articles/feb023cf.json)
 
+[Extended Data](ext_articles/feb023cf.ext.json)
+
 ---
 
 ### Statement to CID - Maithripala has not implicated any Sri Lankans
@@ -106,21 +120,27 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 
 [Data](articles/d183731b.json)
 
+[Extended Data](ext_articles/d183731b.ext.json)
+
 ---
 
-### පොලීසිය බලාසිටිය දීම කළුතර මැරයෝ යකා නටති
+### Police waiting forces
 
 *2024-04-26 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196007) · `si`
 
+A drug gang in Vidilapitiya, Kalutara, attacked a young man, leading to a police response. The gang then targeted two youths near the victim's home. The police intervened, and the suspect was arrested.
+
+🟩
+
 කළුතර නාගොඩ රෝහලේ ප්‍රධාන දොරටුව අසල පොලිස් නිලධාරීන් සහ ආරක්ෂක නිලධාරීන් බලා සිටියදී රෝහලට පැමිණි කාන්තාවකට තියුණු ආයුධවලින් පහර දී තිබේ.
 
-පහරදීම සිදුකර ඇත්තේ කළුතර, වෙනිවැල්පිටිය ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත මැර පිරිසකි.
+The attack was carried out by a group of drug racket in the Vidilapitiya area in Kalutara.
 
 කළුතර, වෙනිවැල්පිටිය, වෙන්දේසි වත්ත ප්‍රදේශයේ නිවසකට ඊයේ (25) පස්වරුවේ පැමිණි පුද්ගලයින් කිහිපදෙනෙක් එහි සිටි තරුණයෙකුට පහර දී නිවසේ දේපළවලටත් හානි කර තිබේ.
 
 පහරදීම සම්බන්ධයෙන් චෝදනා එල්ල වන්නේ, එම ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත සුද්දා සහ රනේ නැමැති පුද්ගලයින් දෙදෙනෙකුට සහ ඔවුන්ගේ ආධාරකරුවන් කිහිපදෙනෙකුටය.
 
-එම නිවසේ තරුණයාට පහරදුන් පිරිස පසුව ඒ ආසන්නයේ ඇති තවත් නිවසකට ගොස් එහි සිටි තරුණයින් දෙදෙනෙකුට ද පහරදීමට තැත්කර තිබේ.
+The group who assaulted the young man had then went to another home near the nearby house and tried to attack two youths.
 
 නමුත් එම නිවසේ තරුණයින් දෙදෙනා සිය ජීවිත බේරාගැනීමට සමත් වුණේ ඒ අසල ඇති කැලයට පැනයමිනි.
 
@@ -129,6 +149,8 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 ...
 
 [Data](articles/97be7d48.json)
+
+[Extended Data](ext_articles/97be7d48.ext.json)
 
 ---
 
@@ -199,6 +221,8 @@ The President took the opportunity to detail the Sri Lankan government's endeavo
 ◼️
 
 [Data](articles/925b36fb.json)
+
+[Extended Data](ext_articles/925b36fb.ext.json)
 
 ---
 

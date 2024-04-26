@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 18:52:03**
+As of **2024-04-26 19:03:46**
 
 ## Newspaper Stats
 
-*Scraped **21,152** Articles*
+*Scraped **21,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,70 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,769
 tamilmirrorlk | 2,449
-adaderanalk | 2,518
+adaderanalk | 2,519
 virakesarilk | 3,189
 dailymirrorlk | 3,294
-adaderanasinhalalk | 3,413
+adaderanasinhalalk | 3,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,151 (100.0%) of 21,152 articles have been extended.
+21,152 (100.0%) of 21,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### පාස්කු ප්‍රහාරය ගැන මෛත්‍රී CIDයට කී දේ හෙළිවෙයි
+### Tiran Alles reveals former President Sirisena’s silence on Easter Attacks’ culprits
+
+*2024-04-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98871/sirisena-keeping-mum-on-easter-attack-masterminds-tiran-says) · `en`
+
+During the inquiry over former President Maithripala Sirisena’s recent statement that he was aware of the real culprits behind the Easter Sunday bomb attacks, he has not mentioned the names of anyone in Sri Lanka, Public Security Minister Tiran Alles said.
+
+The lawmaker made this remark while speaking during today’s parliamentary session, according to Ada Derana reporter.
+
+◼️
+
+[Data](articles/c498b19a.json)
+
+---
+
+### නව පත්කිරීම් කිහිපයකට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය
+
+*2024-04-26 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196005) · `si`
+
+නව තානාපතිවරයෙක්, අමාත්‍යාංශ ලේකම්වරයෙක් සහ ආයතන සභාපතිවරයන් දෙදෙනෙක් පත් කිරීම සඳහා පසුගියදා පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී තිබේ.
+
+ඒ අනුව ඉතාලි ජනරජයේ නව ශ්‍රී ලංකා තානාපතිවරයා ලෙස එස්.ඒ රොද්‍රිගෝ මහතා පත් කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී ඇත.
+
+එයට අමතරව, ජල සම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස ඒ.සී.එම්. න‍ෆීල් මහතා පත්කිරීමටද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී ඇත.
+
+තවද ප්‍රාදේශීය සංවර්ධන බැංකුවේ නව සභාපතිවරයා ලෙස ඩබ්ලිව්.ඒ.ඩී.එස් ගුණසිංහ මහතා පත් කිරීමට සහ ශ්‍රී ලංකා පරමාණුක බලශක්ති නියාමන සභාවේ නව සභාපතිවරයා ලෙස එන්.කේ.එස්. ජයසේකර මහතා පත් කිරීමටද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී තිබේ.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවට අමාත්‍යවරයන් වන රමේෂ් පතිරණ, විදුර වික්‍රමනායක සහ පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් යන මහත්වරු සහභාගී වූහ.
+
+◼️
+
+[Data](articles/4da913d5.json)
+
+---
+
+### Maithri CID about the Passover attack reveals
 
 *2024-04-26 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196004) · `si`
 
-පාස්කු ප්‍රහාරයේ මහමොළකරු සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදුන් රහස් ප්‍රකාශය සම්බන්ධයෙන් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද මුල්වරට හෙළි කළේය.
+"Maithri CID reveals Passover attack details. Defense Minister Tiran Alles discloses former President Maithripala Sirisena's secret statement to CID."
+
+🟩
+
+The Minister of Defense Minister Tiran Alles revealed the secret statement that former President Maithripala Sirisena has given the secret statement to the CID.
 
 ◼️
 
 [Data](articles/03550bea.json)
+
+[Extended Data](ext_articles/03550bea.ext.json)
 
 ---
 
@@ -2237,49 +2277,5 @@ Highlighting potential investment avenues, Mr. Xu Xiang, Vice President of CASMC
 [Data](articles/930e59ea.json)
 
 [Extended Data](ext_articles/930e59ea.ext.json)
-
----
-
-### Thundershowers today
-
-*2024-04-26 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195974) · `si`
-
-Thundershowers expected in Western, Sabaragamuwa, Central, North Western, and Southern provinces today. Coastal areas from Galle to Matara also affected. Morning thunder in Sabaragamuwa, Central, and Uva. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa, Central, North Western and Southern provinces today (26).
-
-The Department of Meteorology points out that by its latest weather notification.
-
-Showers or thundershowers will occur at several places in the coastal areas from Galle to Matara.
-
-In some places in the Sabaragamuwa, Central and Uva provinces, there is a thumb in the morning.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/baef88cb.json)
-
-[Extended Data](ext_articles/baef88cb.ext.json)
-
----
-
-### Foreign powers intensify surveillance on Presidential elections as strategic interests take centre stage
-
-*2024-04-26 06:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Foreign-powers-intensify-surveillance-on-Presidential-elections-as-strategic-interests-take-centre-stage/155-281396) · `en`
-
-Colombo, April 26 (Daily Mirror) - Ahead of the presidential election scheduled for October this year, the foreign powers have ramped up their efforts in the assessment of ground political developments as was in the case of vital elections in the past.
-
-The political situation is likely to heat up after May Day events in which the respective parties will try to show their political might as a launching pad for electioneering.
-
-It is natural for foreign countries having bilateral relations with Sri Lanka to be watchful of political developments with key elections pending. However, countries such as the United States, India, China, Japan, the United Kingdom and other Western countries take particular interest in the possible outcome of elections. They have strategic and competing interests in the country.
-
-...
-
-[Data](articles/128db9cc.json)
-
-[Extended Data](ext_articles/128db9cc.ext.json)
 
 ---

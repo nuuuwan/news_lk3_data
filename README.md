@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 05:18:33**
+As of **2024-04-26 05:38:16**
 
 ## Newspaper Stats
 
-*Scraped **21,033** Articles*
+*Scraped **21,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,132
 dailyftlk | 1,192
 economynextcom | 1,193
 adalk | 1,759
-tamilmirrorlk | 2,433
+tamilmirrorlk | 2,434
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,276
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,032 (100.0%) of 21,033 articles have been extended.
+21,033 (100.0%) of 21,034 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,17 +104,39 @@ The public wishes to know why the organizers of the event should go unpunished w
 
 ---
 
-### ஐயாவுக்கு விடுமுறை
+### இ.தொ.காவே காட்டிக்கொடுத்தது: வேலுகுமார்
+
+*2024-04-26 01:57:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவே-காட்டிக்கொடுத்தது-வேலுகுமார்/175-336362) · `ta`
+
+பேச்சுவார்த்தை நடத்துகின்றோம் நடத்துகின்றோம் என்று இன்று ஒட்டுமொத்த பெரும்தோட்ட தொழிலாளர்களும் காட்டிக் கொடுக்கப்பட்டுள்ளார்கள். இந்த நிலைமைக்கு இலங்கையை தொழிலாளர் காங்கிரஸ் தலைவரும் பொது செயலாளரும் முழுப்பொறுப்பையும் ஏற்க வேண்டும் என தமிழ் முற்போக்கு கூட்டணி எம்.பி.யான எம். வேலுகுமார் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை நடைபெற்ற உயிர்த்த ஞாயிறு தாக்குதல் சம்பவம் தொடர்பான சபை ஒத்திவைப்பு வேளை இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+இன்று பெருந்தோட்ட தொழிலாளர்களின் சம்பள பிரச்சினை எரியும் பிரச்சினையாக மாறியுள்ளது .2021 இலிருந்து ஒரு சதமெனும் அவர்களுக்க சம்பள அதிகரிப்பு  செய்யப்படவில்லை. பேச்சுவார்த்தை நடத்துகின்றோம் நடத்துகின்றோம் என்று இன்று ஒட்டுமொத்த பெரும்தோட்ட தொழிலாளர்களும் காட்டிக் கொடுக்கப்பட்டுள்ளார்கள். இந்த நிலைமைக்கு இலங்கையை தொழிலாளர் காங்கிரஸ் தலைவரும் பொது செயலாளரும் முழுப்பொறுப்பையும் ஏற்க வேண்டும்.
+
+...
+
+[Data](articles/79d4bf8b.json)
+
+---
+
+### Sir holiday
 
 *2024-04-26 01:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐயாவுக்கு-விடுமுறை/175-336361) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் இரா.சம்பந்தன் ஐயா,  பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும்   3 மாத கால விடுமுறை வழங்க பாராளுமன்றம் அனுமதியளித்துள்ளது.
+R. Sampanthan, TNA leader, granted parliament a three-month holiday from sessions. Opposition leader Lakshman Kiriella proposed the same, which was approved.
 
-பாராளுமன்றம் வியாழக்கிழமை (25)  எதிர்க்கட்சியின் பிரதம கொறடாவான  லக்ஸ்மன் கிரியெல்ல எம்.பி., த.தே.கூவின் தலைவர் இரா.சம்பந்தன் பாராளுமன்ற அமர்வுகளில் பங்கேற்காமல் இருக்க மேலும் 3 மாத கால விடுமுறை வழங்கும்  முன்மொழிந்தார். அதற்கு பாராளுமன்றம் அங்கிகாரம் வழங்கியுள்ளது.
+🟩
+
+The Tamil National Alliance (TNA) leader R. Sampanthan Sir has given parliament permission to grant a further three months' holiday to not participate in the parliamentary sessions.
+
+Lakshman Kiriella MP, the leader of the Opposition on Thursday (25), proposed a three -month holiday to not attend the parliamentary sessions of TNA.. Parliament has approved it.
 
 ◼️
 
 [Data](articles/004e179a.json)
+
+[Extended Data](ext_articles/004e179a.ext.json)
 
 ---
 
@@ -2153,29 +2175,5 @@ Sri Lankans have a trend these days and that there is a tendency to employ forei
 [Data](articles/9532efd6.json)
 
 [Extended Data](ext_articles/9532efd6.ext.json)
-
----
-
-### High -level representatives of the Chinese Communist Party
-
-*2024-04-25 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/181942) · `ta`
-
-High-level Chinese Communist Party representatives met with UPFA leaders, including Sajith Premadasa, to discuss economic, trade, and political relations. They aim to establish trade ties between Sri Lanka and China, with China planning a $1M investment. Premadasa highlighted issues for micro, small, and medium entrepreneurs and the importance of the upcoming election year.
-
-🟩
-
-A team of high -level representatives of the Chinese Communist Party's International Relations Department met with representatives of the United People's Alliance (UPFA) headed by Opposition Leader Sajith Premadasa yesterday (24) at the Opposition Leader's Office in Colombo.
-
-This special meeting between the two sides took place for an hour. Following the meeting, Opposition Leader Sajith Premadasa and Deputy Minister of International Affairs of the Communist Party of China. There was a 45 -minute face -to -face meeting between Sun Hayan.
-
-A number of sectors, such as the economy, trade and political relations, were discussed in detail and exchanged comments between the two sides about the establishment of trade ties between Sri Lanka and China.
-
-Here, considering China's economic development model, both sides exchanged ideas about the way our country could recover from the current situation.
-
-...
-
-[Data](articles/02240b7c.json)
-
-[Extended Data](ext_articles/02240b7c.ext.json)
 
 ---

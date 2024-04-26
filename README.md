@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 06:56:31**
+As of **2024-04-26 07:22:46**
 
 ## Newspaper Stats
 
-*Scraped **21,044** Articles*
+*Scraped **21,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,759
 tamilmirrorlk | 2,434
 adaderanalk | 2,500
 virakesarilk | 3,171
-dailymirrorlk | 3,277
-adaderanasinhalalk | 3,388
+dailymirrorlk | 3,278
+adaderanasinhalalk | 3,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,034 (100.0%) of 21,044 articles have been extended.
+21,041 (100.0%) of 21,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Sri Lanka and China discuss vehicle manufacturing investment
+
+*2024-04-26 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-and-China-discuss-vehicle-manufacturing-investment/108-281397) · `en`
+
+Colombo, April 26 (Daily Mirror) - A meeting between the China Association of Small and Medium-commercial Enterprises (CASMCE) and Prime Minister Dinesh Gunawardena took place yesterday at Temple Trees, focusing on bilateral cooperation and investment opportunities.
+
+The discussion revolved around the expansion and trade investments in several key sectors, including vehicle manufacturing, renewable energy, agricultural technology, paper and printing-related fields.
+
+Mr. Ren Xinglei, President of CASMCE, expressed China's enthusiasm for Prime Minister Gunawardena's recent visit to China, extending heartfelt gratitude for the visit's significance in fostering stronger ties between the two nations.
+
+Highlighting potential investment avenues, Mr. Xu Xiang, Vice President of CASMCE, emphasized opportunities in developing industries related to solar power, wind power and biomass energy within Sri Lanka.
+
+...
+
+[Data](articles/930e59ea.json)
+
+---
+
+### අද ගිගුරුම් සහිත වැසි
+
+*2024-04-26 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195974) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල අද (26) සවස 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම කාලගුණ නිවේදනය මගින් ඒ බව පෙන්වා දෙයි.
+
+ගාල්ල සිට මාතර හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/baef88cb.json)
+
+---
 
 ### Foreign powers intensify surveillance on Presidential elections as strategic interests take centre stage
 
@@ -45,6 +83,8 @@ It is natural for foreign countries having bilateral relations with Sri Lanka to
 ...
 
 [Data](articles/128db9cc.json)
+
+[Extended Data](ext_articles/128db9cc.ext.json)
 
 ---
 
@@ -696,6 +736,8 @@ The next great film shot on location in Sri Lanka was The bridge on the river Kw
 
 [Data](articles/88707192.json)
 
+[Extended Data](ext_articles/88707192.ext.json)
+
 ---
 
 ### Inaugural CPA Australia Appreciation Event
@@ -830,6 +872,8 @@ In a significant acknowledgment of its contribution towards the development and 
 
 [Data](articles/6db80db2.json)
 
+[Extended Data](ext_articles/6db80db2.ext.json)
+
 ---
 
 ### Cardinal Ranjith the new political messiah
@@ -858,6 +902,8 @@ Ganesh Deivanayagam, Co-Chairman of the Colombo International Tea Convention, em
 
 [Data](articles/5e44f704.json)
 
+[Extended Data](ext_articles/5e44f704.ext.json)
+
 ---
 
 ### Bank stocks rally on investors’ earning hopes
@@ -871,6 +917,8 @@ The banking sector counters were very active on the trading floor, creating a sh
 ...
 
 [Data](articles/b5bd0d75.json)
+
+[Extended Data](ext_articles/b5bd0d75.ext.json)
 
 ---
 
@@ -2089,53 +2137,5 @@ Sannasgala was arrested by the Kandana police in response to accusations levelle
 [Data](articles/a8cc5a9f.json)
 
 [Extended Data](ext_articles/a8cc5a9f.ext.json)
-
----
-
-### Maithri demands 1 billion rupees to Mahinda
-
-*2024-04-25 16:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-1-பில்லியன்-ரூபாய்-கோருகிறார்-மைத்திரி/175-336328) · `ta`
-
-Maithripala Sirisena demands 1 billion rupees from Mahinda Amaraweera for defamation reports.
-
-🟩
-
-Former President Maithripala Sirisena has recently sent a letter of request to Minister Mahinda Amaraweera regarding the defamation reports against him.
-
-Maithripala Sirisena said in the statement that Minister Amaraweera has issued slanderous reports to the media that he has received Rs 100 million from a businessman who is ready to contest the Sri Lanka Freedom Party (SLFP) presidential candidate.
-
-He added that Minister Amaraweera has also made slanderous comments at the Sri Lanka Freedom Party (SLFP) executive meeting held under his leadership.
-
-Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rupees for the discomfort of Mahinda Amaraweera.
-
-◼️
-
-[Data](articles/9ec4bd29.json)
-
-[Extended Data](ext_articles/9ec4bd29.ext.json)
-
----
-
-### Maithri demands Rs 1 billion to Mahinda
-
-*2024-04-25 16:01:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவிடம்-ரூ-1-பில்லியன்-கோருகிறார்-மைத்திரி/175-336328) · `ta`
-
-Maithripala Sirisena demands Rs 1 billion from Mahinda Amaraweera for defamation reports.
-
-🟩
-
-Former President Maithripala Sirisena has recently sent a letter of request to Minister Mahinda Amaraweera regarding the defamation reports against him.
-
-Maithripala Sirisena said in the statement that Minister Amaraweera has issued slanderous reports to the media that he has received Rs 100 million from a businessman who is ready to contest the Sri Lanka Freedom Party (SLFP) presidential candidate.
-
-He added that Minister Amaraweera has also made slanderous comments at the Sri Lanka Freedom Party (SLFP) executive meeting held under his leadership.
-
-Maithripala Sirisena has requested that Mahinda Amaraweera be paid 1 billion rupees for the discomfort of Mahinda Amaraweera.
-
-◼️
-
-[Data](articles/ed34c800.json)
-
-[Extended Data](ext_articles/ed34c800.ext.json)
 
 ---

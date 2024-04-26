@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 13:34:11**
+As of **2024-04-26 13:53:05**
 
 ## Newspaper Stats
 
-*Scraped **21,106** Articles*
+*Scraped **21,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,45 +12,71 @@ colombotelegraphcom | 181
 bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,141
+islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,764
 tamilmirrorlk | 2,446
 adaderanalk | 2,510
 virakesarilk | 3,181
-dailymirrorlk | 3,285
+dailymirrorlk | 3,286
 adaderanasinhalalk | 3,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,096 (100.0%) of 21,106 articles have been extended.
+21,106 (100.0%) of 21,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### ஓட்டமாவடியில் தனிநபர் கவனயீர்ப்பு போராட்டம்!
+### Sajith wants probe into distribution of low quality rice among people
+
+*2024-04-26 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-wants-probe-into-distribution-of-low-quality-rice-among-people/108-281428) · `en`
+
+Parliament, April 26 (Daily Mirror)- Claiming that poor quality rice is being distributed among people in some areas under the government's programme to distribute free rice for April and May, Opposition Leader Sajith Premadasa today urged the government to launch an investigation into this incident.
+
+The Opposition Leader told Parliament that he appreciates the government's move to distribute rice free of charge among the low income families and said it is important to ensure that high quality rice is distributed.
+
+He said Rajitha Keerthi Tennakoon who is employed at the Presidential Secretariat has revealed in his Facebook account with photos that rice distributed in Hali Ela is of low quality.
+
+The MP requested the government to look into the matter and take steps to distribute high quality rice as this rice is for human consumption.
+
+He also said there were issues in selecting people for this programme.
+
+◼️
+
+[Data](articles/cca08acb.json)
+
+---
+
+### Personal Attention Struggle in Ottamavadi!
 
 *2024-04-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182012) · `ta`
 
-ஓட்டமாவடி சுற்றுவட்டத்தை அண்மித்துள்ள புகையிரத கடவைக்கு அருகில் இன்று வெள்ளிக்கிழமை (26) தனிநபர் ஒருவர் கவனயீர்ப்பு போராட்டமொன்றில் ஈடுபட்டார்.
+A man protested near Ottamavadi's railway crossing, damaged for years, to draw attention to the issue. He appealed to authorities to repair or allow reformation.
 
-கோறளைப்பற்று மேற்கு பிரதேச செயலகப் பிரிவுக்குட்பட்ட ஓட்டமாவடி பொதுச் சந்தையை கடக்கும் புகையிரத கடவை நீண்ட காலமாக சேதமடைந்து காணப்படுகிறது.
+🟩
 
-அதனை சம்பந்தப்பட்ட அதிகாரிகள் கவனமெடுத்து சீர்செய்து தரவேண்டும் என்றே அந்நபர் போராட்டத்தில் ஈடுபட்டார்.
+An individual was engaged in a protest on Friday (26) near the railway crossing near the Ottamavadi.
 
-"ஊருக்கு சொந்தமான பிரதேச செயலாளர் உண்டு"  ஊரின் அக்கறையில் கவனம் செலுத்தும் சமூக நலன் விரும்பிகள் உண்டு. எத்தனையோ காலமாக இந்த இடம் சேதமடைந்துள்ளது.  இதனால் பல நூறு பேர்கள் பயணிக்கும் முக்கியமான ஓர் இடம்.
+The railway line that crosses the Ottamavadi public market under the Koralaipattu West Divisional Secretariat has been damaged for a long time.
 
-இதை சீர் செய்ய பலரிடம் பேசியும் பலனளிக்கவில்லை. இது ஏன் எந்த ஒரு அதிகாரியின் கண்ணுக்கும் படவில்லை.
+The man went on a struggle to take care of the authorities concerned.
 
-இதை சீர்செய்ய அனுமதி தாருங்கள். இல்லா விட்டால் இதை சீர்செய்து தாருங்கள் அன்புள்ள அதிகாரிகளே!  என எழுதப்பட்ட பதாதையை கழுத்தில் தொங்கவிட்ட நிலையில் போராட்டத்தில் ஈடுபட்டார்.
+There are social welfare lovers who focus on the concern of the city. The place has been damaged for many years.This is an important place for several hundred people traveling.
+
+Speaking to many to repair this, it is not worth it. This is not the case of any officer.
+
+Give permission to reform this. Otherwise, rectify this, dear officers!He was involved in a protest as he hung the written post.
 
 ◼️
 
 [Data](articles/9e2a7146.json)
+
+[Extended Data](ext_articles/9e2a7146.ext.json)
 
 ---
 
@@ -69,6 +95,8 @@ Minister of Fisheries Douglas Devananda indicated that the grant would revitaliz
 ...
 
 [Data](articles/c19fa6e5.json)
+
+[Extended Data](ext_articles/c19fa6e5.ext.json)
 
 ---
 
@@ -108,29 +136,41 @@ Accordingly, the Cabinet approval has been received to hand over the management 
 
 ---
 
-### ஹரக் கட்டாவின் வழக்கு விசாரணை எதிர்வரும் மே மாதம்
+### The trial of Harak Katha's trial in May
 
 *2024-04-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181999) · `ta`
 
-குற்றப் புலனாய்வுத் திணைக்களத்தின் காவலில் இருந்து தப்பிச் செல்வதற்கு  முயற்சி செய்ததாக  குற்றம் சுமத்தப்பட்டுள்ள ஹரக் கட்டா என அழைக்கப்படும் நதுன் சிந்தக விக்கிரமரத்ன உள்ளிட்ட மூன்று பிரதிவாதிகளுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கை எதிர்வரும் மே மாதம் 15 ஆம் திகதி விசாரணைக்கு எடுத்துக் கொள்ளுமாறு கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo High Court ordered a hearing for Harak Katha, accused of escaping CID custody, and an inquiry to prevent him from avoiding court.
 
-அத்தோடு, அன்றைய தினம் இந்த வழக்கில் நீதிமன்றத்தில் முன்னிலையாவதை தவிர்க்கும் பிரதிவாதி தொடர்பிலான விசாரணையை நடத்துமாறும் கொழும்பு மேல் நீதிமன்ற நீதிபதி தமித் தொட்டவத்த உத்தரவிட்டுள்ளார்.
+🟩
+
+The Colombo High Court has ordered the hearing of the case filed against three defendants, including Nathan Chintaka Wickremaratne, known as Harak Kata, who was accused of trying to escape the custody of the Criminal Investigation Department.
+
+In addition, Colombo High Court Judge Tamittawatta has also ordered an inquiry into the defendant to avoid the court in the case.
 
 ◼️
 
 [Data](articles/1f41f258.json)
 
+[Extended Data](ext_articles/1f41f258.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182005) · `ta`
 
-இன்று வெள்ளிக்கிழமை (ஏப்ரல் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 291.8770ஆகவும் விற்பனை விலை ரூபா 301.2928 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's currency exchange rate: US transaction rate at Rs. on April 26.
+
+🟩
+
+The US purchasing price of the US on Friday (April 26) was reported at the US transaction rate at Rs.
 
 ◼️
 
 [Data](articles/df70aa1c.json)
+
+[Extended Data](ext_articles/df70aa1c.ext.json)
 
 ---
 
@@ -156,39 +196,51 @@ He urged the House to report the matter to the Central Bank and look into it soo
 
 ---
 
-### உலகில் ஆஸ்துமாவால் அதிகம் பாதிக்கப்பட்ட நாடுகளில் முன்னிலையில் இலங்கை
+### Sri Lanka in the presence of countries that are most affected by asthma in the world
 
 *2024-04-26 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182000) · `ta`
 
-உலகில் ஆஸ்துமா நோயால் அதிகம் பாதிக்கப்பட்ட நாடுகளில் இலங்கை முன்னிலையில் உள்ளதாக இலங்கை சுவாச நோய் நிபுணர்கள் சங்கத்தின் தலைவர் வைத்தியர் நெரஞ்சன் திஸாநாயக்க தெரிவித்துள்ளார்.
+Sri Lanka, among countries most affected by asthma, has 10-15% of its population suffering, impacting children, youth, and the elderly. Dr. Neranjan Dissanayake highlights that 90% of asthma cases can be managed with low-cost medication. World Asthma Day, May 7th, features awareness programs.
 
-நாட்டில் மொத்த சனத்தொகையில் 10 முதல் 15 சதவீதமானவர்கள் ஆஸ்துமா நோயால் பாதிக்கப்பட்டுள்ளதாகவும், இது சிறுவர்கள்,  இளைஞர்கள் மற்றும் முதியோர்களை பெரும் மன மற்றும் உடல் ஆரோக்கியத்தை பாதிக்கிறது என தெரிவித்துள்ளார்.
+🟩
 
-எனவே, ஆஸ்துமா நோயை உரிய முறையில்  கட்டுப்படுத்தப்படாவிட்டால், அது மரணத்திற்குக் கூட வழிவகுக்கும்.
+Sri Lanka's presence in the world of asthma is in the world of asthma, said Dr. Neranjan Dissanayake, president of the Sri Lanka Respiratory Professional Association.
 
-90 சதவீதமான ஆஸ்துமா நோயாளர்களை  இலகுவாக  மிகவும் குறைந்த செலவில் மருந்துகளால் கட்டுப்படுத்த முடியும் என வைத்தியர் நெரஞ்சன் திஸாநாயக்க தெரிவித்துள்ளார்.
+He said that 10 to 15 percent of the total population of the country suffer from asthma, which affects children, youth and the elderly.
 
-உலக ஆஸ்துமா தினம் மே 7 ஆம் திகதி வருகிறது. அன்று சுவாச நோய் நிபுணர்கள் சங்கம் சார்பில் விழிப்புணர்வு நிகழ்ச்சி ஏற்பாடு செய்யப்பட்டுள்ளதாக என தெரிவித்துள்ளார்.
+Therefore, if asthma is not properly controlled, it can lead to death.
+
+90 % of asthma patients can be easily controlled by medication at very low cost, said Dr. Neranjan Dissanayake.
+
+World Asthma Day comes on May 7th. Awareness program has been organized on behalf of the Breathing Diseases Association.
 
 ◼️
 
 [Data](articles/ab538feb.json)
 
+[Extended Data](ext_articles/ab538feb.ext.json)
+
 ---
 
-### யாழ். அளவெட்டியில் எரி காயங்களுடன் முதியவரின் சடலம் மீட்பு!
+### Yall. Elderly body body recovered with fuel injuries
 
 *2024-04-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182003) · `ta`
 
-யாழ்ப்பாணம் தெல்லிப்பழை பொலிஸ் பிரிவிற்குட்பட்ட அளவெட்டி தெற்கு பகுதியில் உள்ள வீடு ஒன்றில் இருந்து முழுமையாக எரிந்த நிலையில் முதியவர் ஒருவருடைய சடலம் வியாழக்கிழமை (25) மாலை  மீட்கப்பட்டுள்ளது. அதே பகுதியைச் சேர்ந்த ஐயம்பிள்ளை தேவராசா (வயது 73) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+An elderly man's body was found in Alavetti, Jaffna, after a fire broke out while he smoked. His daughter was out, and the body was recovered by a neighbor. A death investigation is underway, with the body sent to Jaffna Teaching Hospital for examination.
 
-குறித்த முதியவர் தனது மகளுடன் வசித்து வந்துள்ளார். இந்நிலையில் இன்று மாலை வேளை அவரது மகள் வெளியே சென்றிருந்தார். இதன்போது குறித்த முதியவர் பீடி புகைப்பதற்கு முயன்றவேளை படுகாகையில் தீப்பற்றி, தீ விபத்துக்கு உள்ளாகி உயிரிழந்துள்ளார்.
+🟩
 
-இந்நிலையில், அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ. ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளது.
+The body of an elderly man was recovered on Thursday evening after a house in Alavetti south of the Tellippalai police division in Jaffna. The body was recovered by Iyamillai Thevarasa (73 years old) from the same area.
+
+The old man lives with his daughter. Her daughter had gone out this evening. When the old man tried to smoke beedi, he was killed when a fire broke out.
+
+In this case, the death investigation into his body. Jayapalasingham carried out. The body has been taken to the Jaffna Teaching Hospital for anatomical examination.
 
 ◼️
 
 [Data](articles/9a867951.json)
+
+[Extended Data](ext_articles/9a867951.ext.json)
 
 ---
 
@@ -214,21 +266,27 @@ The meeting was participated by all MPs of the ruling party including Prime Mini
 
 ---
 
-### சுமார் 70 இலட்சம் பெறுமதியான கேரள கஞ்சாவுடன் நபரொருவர் கைது
+### A person arrested with Kerala cannabis worth about Rs 70 lakh
 
 *2024-04-26 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181991) · `ta`
 
-வெளிநாட்டில் தலைமறைவாக இருந்த போதைப்பொருளை கடத்தும் “ரதுல் குமார” வின் பிரதான சகாக்களில் ஒருவர் சுமார் 70 இலட்சம் பெறுமதியான 25 கிலோ கஞ்சாவுடன் களுத்துறை குற்றப்புலனாய்வு பிரிவினரினால் கைது செய்யப்பட்டுள்ளார்.
+Dematagoda Samara Niroshan, 47, arrested with 25 kg of Kerala cannabis worth Rs 70 lakh, linked to Ratul Kumara's drug smuggling.
 
-கஞ்சா போதைப்பொருள் விநியோகிப்பதாக புலனாய்வுப் பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் கடுவலை வெலவிட்ட நகரில் மற்றுமொரு நபருக்கு வழங்குவதற்காக வைத்திருந்த 02 கிலோ கேரள கஞ்சாவுடன் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இதன்போது கைது செய்யப்பட்ட நபர் தெமட்டகொடை சாமர நிரோஷன் என்ற  47 வயதுடையவராவார்.
+One of the main colleagues of "Ratul Kumara", who smuggled drugs abroad, has been arrested by the Kalutara Criminal Investigation Division with 25 kg of cannabis worth about Rs 70 lakh.
 
-மேலும் , சந்தேக நபரிடத்தில் மேற்கொண்ட மேலதிக விசாரணையின் போது கடுவலை வெலவிட்ட பகுதியில் உள்ள வீடொன்றில் வைத்திருந்த 23 கிலோ கிராம் கஞ்சா பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+Based on information received by the Intelligence Unit of the supply of cannabis, he has been arrested with 2 kg of Kerala cannabis for supplying another person in the city of Kaduwela.
+
+The arrested person was 47 years old, Dematagoda Samara Niroshan.
+
+In addition, 23 kg of cannabis was seized by the police in a house in the Velavita area of Kaduwela during further inquiries into the suspect.
 
 ◼️
 
 [Data](articles/8ba6de87.json)
+
+[Extended Data](ext_articles/8ba6de87.ext.json)
 
 ---
 
@@ -360,21 +418,29 @@ He was speaking in parliament today (26). The Ordinary Level examination is due 
 
 ---
 
-### வெள்ளை மாளிகைக்கு அருகில் பாலஸ்தீனியர்களிற்கு ஆதரவாக மாணவர்கள் ஆர்ப்பாட்டம்
+### Students protest in support of Palestinians near White House
 
 *2024-04-26 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181994) · `ta`
 
-அமெரிக்காவின் ஜோர்ஜ்டவுன் பல்கலைகழக மாணவர்கள் வோசிங்டனில் ஜோர்ஜ் வோசிங்டன் பல்கலைகழகத்திற்கு அருகில் பாலஸ்தீனத்திற்கு ஆதரவான ஆர்ப்பாட்டங்களில் ஈடுபட்டுள்ளனர்.
+Georgetown University students protest in support of Palestinians, demanding an end to Israel's human rights violations.
 
-காசா யுத்தத்தின் மத்தியில் பாலஸ்தீனத்திற்கு ஆதரவு தெரிவிப்பதற்காகவும் அமெரிக்க பல்கலைகழகங்கள் இஸ்ரேலின் மனித உரிமை மீறல்களில் தங்களுக்கு உள்ள தொடர்பை முறித்துக்கொள்ள வேண்டும் என வேண்டுகோள் விடுப்பதற்காகவும்  வோசிங்டனை சேர்ந்த மாணவர்களும் பேராசிரியர்களும் செயற்பாட்டாளர்களும் அங்குகுழுமியுள்ளனர்.
+🟩
 
-அமெரிக்காவின் ஏனைய பல்கலைகழகங்களை போல ஜோர்ஜ் வோசிங்டன் பல்கலைகழகத்திலும் மாணவர்கள் வளாகத்தில் கூடாரம் அமைத்து தங்கியிருந்து ஆர்ப்பாட்டங்களில் ஈடுபடுகின்றனர்.
+Students from the Georgetown University of the United States are engaged in protests in Palestinian near the University of George Wasington in Washington.
 
-ஜோர்ஜ் வோசிங்டன் பல்கலைகழக மாணவர்களிற்கான எங்கள் ஆதரவை வெளிப்படுத்துவதற்காகவும் அமெரிக்காவின் ஏனைய பல்கலைகழக மாணவர்களின் கோரிக்கைகளை வலியுறுத்துவதற்காகவும் நாங்கள் இங்குவந்திருக்கின்றோம் என அனா வெசெல்ஸ் என்ற மாணவி அல்ஜசீராவிற்கு தெரிவித்துள்ளார்.
+Students, professors and activists from Vosington have been in the mood to support Palestine in the midst of the Gaza War and to break their connection with Israel's human rights violations.
 
-...
+Like other universities in the United States, students at the University of George Wasington set up a tent on campus and engage in demonstrations.
+
+"We are here to express our support for George Wasington University students and emphasize the demands of other university students in the United States," Ana Vessel's student told Al Jazeera.
+
+If we do nothing in the capital, it means that we have not fulfilled our moral obligations, "said student Vesselles.
+
+◼️
 
 [Data](articles/c8803f83.json)
+
+[Extended Data](ext_articles/c8803f83.ext.json)
 
 ---
 
@@ -415,6 +481,8 @@ The luxurious hotel, located near the Galle Face Green, marks the first venture 
 ...
 
 [Data](articles/c3c341a7.json)
+
+[Extended Data](ext_articles/c3c341a7.ext.json)
 
 ---
 
@@ -788,19 +856,29 @@ The document was released Thursday in Haiti on the same day as the new transitio
 
 ---
 
-### ලිතුවේනියාවේ බරවාහන රියදුරු රැකියාව සිහිනයක් කරලා
+### The driver of Lithuania has been a career
 
 *2024-04-26 09:41:58* · [`adalk`](https://www.ada.lk/breaking_news/ලිතුවේනියාවේ-බරවාහන-රියදුරු-රැකියාව-සිහිනයක්-කරලා/11-409276) · `si`
 
-ලිතුවේනියාවේ බර වාහන රියැදුරන් ලෙස සේවය කිරීමට ගිය ශ්‍රී  ලාංකිකයන් 106 දෙනෙකු එම රැකියා , ආහාරපාන සහ නවාතැන් පහසුකම් නොමැති වීම නිසා  යුරෝපයේ අතරමං වී සිටින බව එම කණ්ඩායමේ සිටි, ලිතුවේනියාවෙන් පිටුවහල් කර පැමිණි ශ්‍රී ලාංකිකයන් දෙදෙනෙකු 04/26 දින උදෑසන  කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+Two Sri Lankan drivers deported from Lithuania due to job scarcity were part of a delegation of 10,000 students. They were detained in Lithuania, lost their residential visas, and faced financial hardships.
 
-ඔවුන් දෙදෙනා ඇතුළු ශ්‍රී ලාංකික 108 දෙනෙකු රජයේ මැදිහත් වීමෙන් , ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ ලියාපදිංචි වී , රුපියල් ලක්ෂ 12 ක් කොළඹ රැකියා නියෝජිත ආයතනයකට ලබා දී ලිතුවේනියාව බලා බර වාහන රියැදුරුන් ලෙස සේවය කිරීම සදහා පිටත්ව ගොස් තිබේ .
+🟩
 
-මෙසේ ලිතුවේනියාවේ සිට මෙරටට පැමිණි ගාල්ල උණවටුන ප්‍රදේශයේ පදිංචි එන්.ඩබ්ලිව්.ප්‍රියන්ත මහතා කටුනායක ගුවන් තොටුපොළේ දී මෙසේ පැවසීය .
+Two Sri Lankans who were deported from Lithuania were deported from Lithuania in the Katunay Airport on the morning of the lack of jobs, food, and lodging drivers in Lithuania.
+
+Ten thousand Sri Lankan students, including both of them, left for a Colombo-in Colombo job delegation, and to serve as vehicles for Lithuania.
+
+The Katunayake Airport, a resident of Unawatuna, Galle, Galle arrived at the Bandaranawatuna, Galle.
+
+"I was working as a heavy driver from the Colombo port and two heavy vehicles belonging to myself were employed in the port. But under the current economic situation in Sri Lanka, the vehicles were prepared to sell and travel to a UN job delegation to a Colombo job delegation by paying Rs.. In addition to this amount, we bought many other airline tickets.
+
+Prime Minister Dinesh Gunawardena was also present at the occasion ceremony with Lithuania.. So we have been detained.
 
 ...
 
 [Data](articles/20dca945.json)
+
+[Extended Data](ext_articles/20dca945.ext.json)
 
 ---
 
@@ -2133,19 +2211,5 @@ I was socialised in my childhood, by an ardent Samasamajist, LSSP, father, in Mo
 [Data](articles/936a48b8.json)
 
 [Extended Data](ext_articles/936a48b8.ext.json)
-
----
-
-### Dialog Axiata recognised as the Most Significant FDI Contributor by BOI
-
-*2024-04-25 23:36:00* · [`islandlk`](http://island.lk/dialog-axiata-recognised-as-the-most-significant-fdi-contributor-by-boi/) · `en`
-
-In a significant acknowledgment of its contribution towards the development and growth of the national economy, Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, was recognised by the Board of Investment (BOI) as the Most Significant FDI Contributor. This prestigious accolade, presented during the BOI’s 45th anniversary celebrations, underscores Dialog’s unwavering commitment to driving forward Sri Lanka’s economic development as the country’s largest Foreign Direct Investor, with investments totalling USD 3.25 Billion to date.
-
-...
-
-[Data](articles/6db80db2.json)
-
-[Extended Data](ext_articles/6db80db2.ext.json)
 
 ---

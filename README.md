@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 10:18:36**
+As of **2024-04-26 10:34:12**
 
 ## Newspaper Stats
 
-*Scraped **21,071** Articles*
+*Scraped **21,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,761
 tamilmirrorlk | 2,442
-adaderanalk | 2,503
+adaderanalk | 2,504
 virakesarilk | 3,171
 dailymirrorlk | 3,282
 adaderanasinhalalk | 3,396
@@ -26,27 +26,53 @@ adaderanasinhalalk | 3,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,068 (100.0%) of 21,071 articles have been extended.
+21,071 (100.0%) of 21,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### நிரந்தர நியமனம் தொடர்பில் புதிய தீர்மானம்
+### Army soldier killed, 9 injured in Mankulam cab-lorry crash
+
+*2024-04-26 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98855/army-soldier-killed-9-injured-in-mankulam-cab-lorry-crash) · `en`
+
+An army soldier died and 9 others were injured after a lorry collided with an army cab in Mankulam on Friday morning (26).
+
+According to the police media division, a lorry en route to Kilinochchi has rear-ended an army cab carrying a group of soldiers near the Vasanthanagar junction.
+
+One of the soldiers who was in critical condition succumbed to his injuries while being rushed to the Kilinochchi District General Hospital. He was identified as a 39-year-old from Galgamuwa, a sergeant attached to the Murukkandi army camp.
+
+The nine other soldiers who were wounded in the accident are currently receiving treatment at the Kilinochchi hospital.
+
+The driver of the lorry has been arrested in connection with the accident and Mankulam Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/57375b97.json)
+
+---
+
+### New Resolution on Permanent Appointment
 
 *2024-04-26 09:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-நியமனம்-தொடர்பில்-புதிய-தீர்மானம்/175-336368) · `ta`
 
-உள்ளூராட்சி மன்றங்களில் பணிபுரியும் ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்குவது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது.
+New resolution aims to provide permanent appointments to local council employees. Provincial Councils, Local Government, and Environment Minister Janaka Wakambura announced this, following a meeting with President Ranil Wickremesinghe. The focus is on 8,400 employees in local government companies.
 
-மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜனக வக்கம்புர இந்த விடயத்தை தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் ஆளும் கட்சி உறுப்பினர்களுக்கும் இடையில் நேற்று பிற்பகல் ஜனாதிபதி செயலகத்தில் கலந்துரையாடல் இடம்பெற்றது.
+Focus on providing permanent appointment to employees working in local councils.
 
-இதன்படி, உள்ளூராட்சி நிறுவனங்களில் உள்ள 8,400 ஊழியர்களுக்கு நிரந்தர நியமனம் வழங்குவதற்கு கவனம் செலுத்தப்பட்டதாக அவர் குறுிப்பிட்டுள்ளார்.
+Provincial Councils, Local Government and Environment Minister Janaka Wakambura made this statement.
+
+A discussion was held at the Presidential Secretariat yesterday afternoon between President Ranil Wickremesinghe and members of the ruling party.
+
+Accordingly, he has stated that 8,400 employees in local government companies have been focused on granting permanent appointment.
 
 ◼️
 
 [Data](articles/4ffeb8ad.json)
+
+[Extended Data](ext_articles/4ffeb8ad.ext.json)
 
 ---
 
@@ -67,6 +93,8 @@ This year, Asthma Day falls on May 7, and an awareness programme has been organi
 ◼️
 
 [Data](articles/fbde782a.json)
+
+[Extended Data](ext_articles/fbde782a.ext.json)
 
 ---
 
@@ -1876,19 +1904,27 @@ The Sri Lanka Freedom Party (SLFP) political committee meeting was chaired by Mi
 
 ---
 
-### නුවරඑළියට ස්ට්‍රෝබෙරි ගම්මානයක්
+### A strawberry village in Nuwara Eliya
 
 *2024-04-25 19:51:03* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියට-ස්ට්‍රෝබෙරි-ගම්මානයක්/11-409270) · `si`
 
-නුවරඑළියේ ස්ථාපිත කිරීමට නියමිත මෙරට පළමු ස්ට්‍රෝබෙරි  වගා ආදර්ශ ගම්මානය සඳහා මෙම මස අවසන් වීමට ප්‍රථම ස්ට්‍රෝබෙරි පැළ ආනයනය කිරීමට ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව කටයුතු යොදා තිබේ.
+The Department of Agrarian Development in Nuwara Eliya is cultivating over 300 strawberry plants, with a remote control app designed for cultivation. The cost is shared between the department and selected farmers, with Mahinda Amaraweera, Minister of Agriculture, overseeing the initiative.
 
-වගාව සඳහා ස්වයංක්‍රීයව (Automated)  දුරස්ථ පාලන යෙදවුමක් මගින් ක්‍රියාත්මක කළ හැකි ආරක්ෂිත ගෘහ 40ක් නුවරඑළියේදී මේ වනවිට සකස් කර ඇති අතර එක් ආරක්ෂිත ගෘහයක් තුළ දළ වශයෙන් ස්ට්‍රෝබෙරි  පැළ 300ට වැඩි ප්‍රමාණයක් වගා කිරීමට නියමිතය.
+🟩
 
-මේ සඳහා තෝරාගත් ගොවීන් 40 දෙනෙකු වෙනුවෙන් රුපියල් මිලියන 30ක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් සපයනු ලැබේ. එම දෙපාර්තමේන්තුව සඳහන් කරන පරිදි එක් ගොවියෙකුට රුපියල් ලක්ෂ 13ක පමණ මුදලක් වැය වන අතර, ඉන්  රුපියල් 750,000ක් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් නැවත අය කර ගැනීමකින් තොරව ලබා දීමට නියමිතය.  ඒ අනුව ඉතිරි ලක්ෂ 06ක මුදල අදාල වගාවෙහි නියුතු ගොවීන් විසින් දරනු ලැබේ.
+The Department of Agrarian Development has been conducting further strawberry plants before the end of this month.
 
-...
+The cost of a remote control app for cultivation is now designed at Nuwara Eliya, and over 300 strawberry plants will be cultivated in a safe house.
+
+The cost of the Agrarian Development Department is provided for 40 selected farmers for this purpose. According to the Department, one farmer will cost about Rs.. Accordingly, the remaining six lakhs will be borne by farmers.
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera has instructed the Department of Agrarian Development to commence the Sampanthanaya Sample Frost Village to the government's focus on new cultivation.
+
+◼️
 
 [Data](articles/d038d090.json)
+
+[Extended Data](ext_articles/d038d090.ext.json)
 
 ---
 
@@ -2139,25 +2175,5 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/2f292b72.json)
 
 [Extended Data](ext_articles/2f292b72.ext.json)
-
----
-
-### New post for Duminda
-
-*2024-04-25 18:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்தவுக்கு-புதிய-பதவி/175-336340) · `ta`
-
-Duminda Dissanayake appointed General Secretary of Sri Lanka Freedom Party (SLFP) at a meeting chaired by Minister Nimal Siripala de Silva in Colombo.
-
-🟩
-
-It is reported that Duminda Dissanayake has been appointed as the General Secretary of the Sri Lanka Freedom Party.
-
-The Sri Lanka Freedom Party (SLFP) political committee meeting was held in Colombo this afternoon chaired by Minister Nimal Siripala de Silva.
-
-◼️
-
-[Data](articles/04edbfb6.json)
-
-[Extended Data](ext_articles/04edbfb6.ext.json)
 
 ---

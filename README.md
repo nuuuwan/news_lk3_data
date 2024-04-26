@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 14:04:01**
+As of **2024-04-26 14:18:34**
 
 ## Newspaper Stats
 
-*Scraped **21,108** Articles*
+*Scraped **21,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,764
 tamilmirrorlk | 2,446
-adaderanalk | 2,510
+adaderanalk | 2,512
 virakesarilk | 3,181
 dailymirrorlk | 3,286
-adaderanasinhalalk | 3,402
+adaderanasinhalalk | 3,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,108 (100.0%) of 21,108 articles have been extended.
+21,108 (100.0%) of 21,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### දුම්රිය සාමාන්‍යාධිකාරී ධුරයේ වැඩබැලීමට එස්.එස් මුදලිගේ පත් කෙරේ
+
+*2024-04-26 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195993) · `si`
+
+පුරප්පාඩු වී ඇති දුම්රිය සාමාන්‍යාධිකාරි ධුරයේ රාජකාරී ආවරණය කිරීම සඳහා ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ අධ්‍යක්ෂ ජනරාල් එස්.එස්. මුදලිගේ මහතා පත්කර තිබේ.
+
+දුම්රිය සාමාන්‍යාධිකාරිවරයා ලෙස කටයුතු කළ එච්. එම්. කේ. ඩබ්.බණ්ඩාර මහතා පසුගියදා හදිසියේ අභවප්‍රාප්ත වී තිබුණි.
+
+ඒ අනුව පුරප්පාඩුව පවතින එම තනතුර සඳහා සුදුසු නිලධාරියකු අමාත්‍ය මණ්ඩලය විසින් පත් කරන තෙක් එහි රාජකාරී ආවරණය කිරීම සඳහා නව පත් කිරීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/6d7c0935.json)
+
+---
+
+### 14-hour water cut to be imposed in parts of Colombo District
+
+*2024-04-26 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98864/14-hour-water-cut-to-be-imposed-in-parts-of-colombo-district) · `en`
+
+A 14-hour water cut will be imposed for several areas in Colombo District on Saturday (27), the National Water Supply & Drainage Board (NWSDB) says.
+
+Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 a.m. on Sunday (28) in Colombo 5 and 6 areas, Dehiwala, Mount Lavinia and Moratuwa urban council areas, as well as in Jayanthipura and Pelawatta areas.
+
+◼️
+
+[Data](articles/afa57efd.json)
+
+---
+
+### පාකිස්තාන තරුණියකට ඉන්දීය ජාතිකයෙකුගේ හදවතක් බද්ධ කරයි
+
+*2024-04-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195992) · `si`
+
+පාකිස්තාන 19 හැවිරිදි තරුණියකට ඉන්දීය ජාතිකයෙකුගේ හදවතක් සාර්ථකව බද්ධ කිරීමට ඉන්දීය වෛද්‍යවරුන් පිරිසක් සමත්වී තිබේ.
+
+චෙන්නායි හිදී සිදු කෙරුණු සැත්කමේදී තරුණියට බද්ධ කර ඇත්තේ 69 හැවිරිදි මොළය මියගිය පුද්ගලයෙකුගේ හදවතකි.
+
+වෛද්‍යවරුන් සහ දිල්ලි නුවර මූල්‍ය පදනමක් එක්වී නොමිලේ මෙම සැත්කම සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/cf7ef083.json)
+
+---
+
+### Re-scrutinized results of O/L exam to be released before mid-May
+
+*2024-04-26 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98863/re-scrutinized-results-of-ol-exam-to-be-released-before-mid-may) · `en`
+
+The re-scrutinized results of the 2022(2023) G.C.E. O/L examination will be released before the 2023 (2024) O/L examination, Minister of Education Susil Premajayantha said.
+
+Speaking during today’s parliamentary session, Premajayantha expressed that the 2023 (2024) G.C.E O/L examination is scheduled to be commenced in the second week of May.
+
+“The G.C.E O/L examination will commence in the second week of May. The Commissioner General of Examinations informed that all re-scrutinized results will be released before that”, he said.
+
+Meanwhile, MP Gamini Waleboda recently raised concerns that due to the delay in re-scrutiny of the 2022(2023) O/L examination, students are facing issues with commencing their academic activities in the A/L classes.
+
+...
+
+[Data](articles/dcbd7d22.json)
+
+---
 
 ### Sajith wants probe into distribution of low quality rice among people
 
@@ -51,6 +115,20 @@ He also said there were issues in selecting people for this programme.
 [Data](articles/cca08acb.json)
 
 [Extended Data](ext_articles/cca08acb.ext.json)
+
+---
+
+### බලශක්ති ක්ෂේත්‍රය නියාමනය සඳහා ආයතනයක්
+
+*2024-04-26 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195991) · `si`
+
+බලශක්ති ක්ෂේත්‍රය නියාමනය කිරීම සඳහා බලශක්ති අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් නව කමිටුවක් පත්කිරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+අද (26) දහවල් පැවති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3cff1daf.json)
 
 ---
 
@@ -126,11 +204,15 @@ Shaurya Aeronutics pvt in India. The Cabinet approval has been paid to the Ltd a
 
 *2024-04-26 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98862/two-companies-from-russia-india-to-take-over-management-of-mattala-airport-) · `en`
 
-The Cabinet of Ministers has green-lighted the proposal to hand over the management of Mattala Rajapaksa International Airport to a selected private sector company which has submitted Expressions Of Interest (EOI) for the purpose.
+The Cabinet of Ministers has green-lighted the proposal to hand over the management of Mattala Rajapaksa International Airport to a selected private sector company which has submitted Expressions of Interest (EOI) for the purpose.
 
-Accordingly, the Cabinet approval has been received to hand over the management of Mattala Rajapaksa International Airport to Shaurya Aeronautics Pvt. Ltd of India or Airports of Regions Management Company of Russia or an affiliated company thereof for a period of 30 years.
+Accordingly, the Cabinet approval has been received to hand over the management of Mattala Rajapaksa International Airport to Shaurya Aeronautics Pvt. Ltd of India and Airports of Regions Management Company of Russia or an affiliated company thereof for a period of 30 years.
 
-◼️
+Earlier during a Cabinet meeting held on 09 January 2023, approval has been granted to invite EOIs from interested parties for utilizing the facilities of the Mattala Rajapaksa International Airport.
+
+Accordingly, EOIs have been called, for which 05 institutions have submitted offers for the purpose.
+
+...
 
 [Data](articles/6acda69f.json)
 
@@ -2107,111 +2189,5 @@ With Phase I of the project nearly sold out, the company is now launching Phase 
 [Data](articles/edc75602.json)
 
 [Extended Data](ext_articles/edc75602.ext.json)
-
----
-
-### CEAT’s 7th premium ‘SIS’ outlet in Sri Lanka opens in Kurunegala
-
-*2024-04-25 23:57:02* · [`dailyftlk`](https://www.ft.lk/business/CEAT-s-7th-premium-SIS-outlet-in-Sri-Lanka-opens-in-Kurunegala/34-761035) · `en`
-
-Kurunegala has become the latest location to receive the CEAT premium retail experience with the opening of a new-concept Shop-in-Shop (SIS) outlet in this busy north-western metropolis by CEAT Kelani Holdings, Sri Lanka’s leading pneumatic tyre manufacturer.
-
-The seventh CEAT SIS outlet to be opened in Sri Lanka, the new outlet is located at Rohana Enterprises Kurunegala Ltd., at No. 288C, Negombo Road, Kurunegala.
-
-Part of a three-year distribution channel expansion strategy by Sri Lanka’s most-used tyre brand, the CEAT Shop-in-Shop concept is designed to drive brand premiumisation and enhance customer experience, and entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises.
-
-...
-
-[Data](articles/fed193b8.json)
-
-[Extended Data](ext_articles/fed193b8.ext.json)
-
----
-
-### KPIs in R&D institutes: Defining success path for R&D performance in commercial agriculture
-
-*2024-04-25 23:50:55* · [`dailyftlk`](https://www.ft.lk/columns/KPIs-in-R-D-institutes-Defining-success-path-for-R-D-performance-in-commercial-agriculture/4-761034) · `en`
-
-Key performance indicators (KPIs) are the key measures used by organisations to track the success of an organisational interest
-
-KPIs look after the organisation’s growth by revealing its strengths, weaknesses, and sustainability
-
-Organisational leadership designs and establishes KPIs and interprets data gathered through them to make decisions on the success factors of an organisation
-
-This article draws on R&D performance that is measured through KPIs and how those KPI data are used to generate insights for promoting innovations in the commercial agriculture sector in Sri Lanka
-
-...
-
-[Data](articles/01aedfaa.json)
-
-[Extended Data](ext_articles/01aedfaa.ext.json)
-
----
-
-### KPIs in R&D institutes: Defining success path for R&D performance in commercial agriculture
-
-*2024-04-25 23:50:55* · [`dailyftlk`](https://www.ft.lk/opinion/KPIs-in-R-D-institutes-Defining-success-path-for-R-D-performance-in-commercial-agriculture/14-761034) · `en`
-
-Key performance indicators (KPIs) are the key measures used by organisations to track the success of an organisational interest
-
-KPIs look after the organisation’s growth by revealing its strengths, weaknesses, and sustainability
-
-Organisational leadership designs and establishes KPIs and interprets data gathered through them to make decisions on the success factors of an organisation
-
-This article draws on R&D performance that is measured through KPIs and how those KPI data are used to generate insights for promoting innovations in the commercial agriculture sector in Sri Lanka
-
-...
-
-[Data](articles/68d531cc.json)
-
-[Extended Data](ext_articles/68d531cc.ext.json)
-
----
-
-### Bangalore won by 35 runs
-
-*2024-04-25 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/181980) · `ta`
-
-Royal Challengers Bangalore defeated Sunrisers Hyderabad by 35 runs in the IPL, with Virat Kohli and Rajad Patidar leading the victory. Bangalore scored 206/7, while Hyderabad lost 171/8.
-
-🟩
-
-Royal Challengers Bangalore won the Sunrisers Hyderabad by 35 runs in the 41st match of the Indian Premier League Chapter for this year, held at Rajiv Gandhi International Stadium in Hyderabad on Thursday (25).
-
-The defeat was a great disappointment for Sunrisers Hyderabad, while the success of the Royal Challengers Bangalore team in the shop was comforted.
-
-Virat Kohli and Rajad Patidar and all the match of Kemaran Kreen led to the victory of the Royal Challengers Bangalore team.
-
-However, despite this failure, Sunrisers Hyderabad continues to be 3rd place with 10 points. Royal Challengers Bangalore is in the last place with 4 points.
-
-Royal Challengers Bangalore scored 206 runs for the loss of 7 wickets in 20 overs.
-
-Team captain Bow to Blessis and Virat Kohli played efficiently and shared 48 runs off 23 balls.
-
-Bow to Plessis scored 25 runs. Mathim scored 6 runs for Jax who lost him.
-
-Virat Kohli and Rajad Patidar then shared 65 runs off 34 balls in the 3rd wicket.
-
-...
-
-[Data](articles/0b3ee248.json)
-
-[Extended Data](ext_articles/0b3ee248.ext.json)
-
----
-
-### Revival of Premadasaism: The way forward for Sri Lanka
-
-*2024-04-25 23:41:34* · [`dailyftlk`](https://www.ft.lk/columns/Revival-of-Premadasaism-The-way-forward-for-Sri-Lanka/4-761032) · `en`
-
-Truly cultured men and women have the capacity to be thankful for the progressive measures taken by Ranasinghe Premadasa. He was a true embodiment of Social Democracy, governing the entire social, political, cultural, and moral order. He was not a mere propagator of a Social Market Economy, when he took over leadership from a right wing, J.R. Jayewardene led UNP that tried to dislodge Deputy Leader Premadasa from his well-earned Presidential candidature in 1989. The same right-wing forces in the UNP, tried to impeach him together with Feudalist sympathisers, who lost all their social status due to Premadasaism
-
-I was socialised in my childhood, by an ardent Samasamajist, LSSP, father, in Moratuwa. However, I became disillusioned in my youth, as I witnessed the ground level actions of the Samasamaja Party, working with Feudalists, who pretended to be Progressive.
-
-...
-
-[Data](articles/936a48b8.json)
-
-[Extended Data](ext_articles/936a48b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 16:49:33**
+As of **2024-04-26 17:03:33**
 
 ## Newspaper Stats
 
-*Scraped **21,138** Articles*
+*Scraped **21,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,767
 tamilmirrorlk | 2,447
-adaderanalk | 2,514
+adaderanalk | 2,516
 virakesarilk | 3,189
 dailymirrorlk | 3,292
-adaderanasinhalalk | 3,409
+adaderanasinhalalk | 3,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,135 (100.0%) of 21,138 articles have been extended.
+21,138 (100.0%) of 21,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### රුමේනියා යවන විදෙස් රැකියා ජාවාරමක තතු එළියට
+
+*2024-04-26 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196000) · `si`
+
+කූට ලේඛන හා නිල මුද්‍රා ව්‍යාජ අයුරින් භාවිතා කරමින් තරුණයින් පිරිසක් රුමේනියාවේ රැකියා සඳහා යැවීමට උත්සහා කළ පුද්ගලයෙකු රඳවාගෙන ඉදිරි විමර්ශන කටයුතු සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත භාරදීමට කාර්යාංශයේ ගුවන් තොටුපොළ ඒකකයේ නිලධාරීන් විසින් කටයුතු කර තිබේ.
+
+අප්‍රේල් 24 වන දා කිලිනොච්චිය ප්‍රදේශයේ රැකියා නියෝජිතායතනයක් මාර්ගයෙන්, රුමේනියාවේ රැකියා සඳහා යාමට පැමිණි තරුණයින් පස් දෙනෙකුගේ ලේඛන පරික්ෂා කිරීමේදී ඔවුන් පිළිබඳ සැකසිතී ඇත.
+
+පසුව කාර්යාංශයේ කටුනායක ගුවන් තොටුපොළ ඒකකයේ නිලධාරීන් විසින් ඔවුන් සමග පැමිණි ඒජන්සි ආයතනයේ නියෝජිතයා රඳවාගෙන ප්‍රශ්න කර තිබේ.
+
+එහිදී එම රැකියා නියෝජිතායතනය නීතිවිරෝධි ආයතනයක් බවට අනාවරණය වී ඇත.
+
+එබැවින් විදේශ ගතවීමට පැමිණි තරුණයින්ගේ කාර්යාංශ ලියාපදිංචිය ඇතුළු ලේඛනද නිලධාරීන් විසින් දැඩිව පරීක්ෂා කර ඇති අතර, එහිදි කාර්යාංශයේ ආරක්ෂිත මුද්දර හා නිල මුද්‍රා ව්‍යාජ අයුරින් උපයෝගි කරගෙන ඇති බවද හෙළි වී තිබේ.
+
+එසේම නිලධාරීන් වෙත ඉදිරිපත් කළ රැමේනියා වීසාද ව්‍යාජ වීසා බවට කරුණු අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/df634b11.json)
+
+---
+
+### Top U.S. State Dept. official visits Sri Lanka to strengthen agricultural ties, food security
+
+*2024-04-26 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98868/top-us-state-dept-official-visits-sri-lanka-to-strengthen-agricultural-ties-food-security) · `en`
+
+Alexis Taylor, Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA) on Friday (26) called on President Ranil Wickremesinghe and other senior government officials to discuss USDA support for Sri Lanka’s agricultural sector.
+
+She was accompanied by the U.S. Ambassador to Sri Lanka, Julie Chung.
+
+Under Secretary Taylor’s visit underscored the American peoples’ ongoing commitment to supporting the agricultural development and economic growth of Sri Lanka, promoting greater food security and enhancing resilience against climate challenges, the U.S. Embassy in Colombo said in a statement.
+
+The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priority country in the 2024 Food for Progress initiative, which focuses on enhancing food security and climate resilience through environmentally friendly practices and improved market linkages.
+
+...
+
+[Data](articles/0ee7d35b.json)
+
+---
+
+### New regulatory body to be introduced for energy sector
+
+*2024-04-26 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98867/new-regulatory-body-to-be-introduced-for-energy-sector) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by the Minister of Power and Energy to appoint a committee to study the matter and make recommendations to prepare a necessary legal framework for the purpose.
+
+The proposed panel will be headed by the Secretary of the Ministry of Power and Energy.
+
+In a statement, the government said that although the import, refining, distribution and sale of petroleum products including petrol, diesel, kerosene, jet fuel oil, liquefied petroleum gas (LPG) and lubricating oil are carried out within the existing legal framework, the sector is not subjected to a wide range of regulation or a petroleum mechanism.
+
+Meanwhile, as private entities are involved in the import and distribution of products, the need for an independent, dynamic, effective and efficient regulatory mechanism has been identified to find solutions to problems, address challenges in the sector and safeguard the interests of consumers, investors and other stakeholders.
+
+◼️
+
+[Data](articles/91489d53.json)
+
+---
 
 ### Professor Sanna Jayasumana elected as the President of the Union of Sri Lanka Medical Members of Parliament
 
@@ -82,15 +140,21 @@ The water cut will be implemented in Colombo 5 and Colombo 6, Dehiwala, Malkisai
 
 *2024-04-26 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195998) · `si`
 
-චීනය සහ අමෙරිකාව, "ප්‍රතිවාදීන් නොව හවුල්කරුවන් විය යුතු" බව චීන ජනාධිපති ෂී ජින්පින් පැවසීය.
+Xi Jinping emphasized partnership with the US, focusing on mutual respect for peaceful cooperation.
 
-ඔහු ඒ බව පැවසුවේ අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් සමග පැවති හමුවකදීය.
+🟩
 
-චීන ජනාධිපතිවරයා පවසා ඇත්තේ එකිනෙකාට අන්‍යෝන්‍ය ගෞරවය දැක්වීම, සාමකාමී සහජීවනය සහ දෙපාර්ශ්වයටම වාසිදායක සහයෝගීතාවය පවත්වාගෙන යෑම දෙරටේ සම්බන්ධතා ශක්තිමත් කරගැනීමට වැදගත් ප්‍රධාන ප්‍රතිපත්ති ත්‍රිත්වය වියයුතු බවය.
+Chinese President Xi Ginpin said that China and the US should be partners, but partners.
+
+He was speaking at a meeting with US Secretary of State Anthony Blinken.
+
+The Chinese President has said that showing mutual respect for each other must be the Trinity Important Policies for Peaceful Cooperation and Fierce Benex for Both Both
 
 ◼️
 
 [Data](articles/2006b865.json)
+
+[Extended Data](ext_articles/2006b865.ext.json)
 
 ---
 
@@ -716,21 +780,29 @@ In addition, Colombo High Court Judge Tamittawatta has also ordered an inquiry i
 
 ---
 
-### යුදහමුදා කැබ්රථයක් සහ ලොරියක් ගැටී සෙබලෙකු මරුට 09 කට තුවාල
+### One killed, 9 injured as a lorry collision and lorry
 
 *2024-04-26 12:49:21* · [`adalk`](https://www.ada.lk/breaking_news/යුදහමුදා-කැබ්රථයක්-සහ-ලොරියක්-ගැටී-සෙබලෙකු-මරුට-09-කට-තුවාල/11-409279) · `si`
 
-යාපනය මහනුවර ඒ-9 ප්‍රධාන මාර්ගයේ මාන්කුලම් වසන්තනගර් සහ මුරුකණ්ඩි අතර අද (26) උදෑසන යුදහමුදා කැබ් රථයක් සහ ලොරියක් ගැටීමෙන් යුදහමුදා සෙබලෙකු මිය ගොස් තවත් 09 දෙනෙකු තුවල ලබා ඇතැයි මන්කුලම් පොලීසිය පැවසීය.
+A lorry collision on A-9 road in Jaffna resulted in one death and nine injuries. The lorry driver was attempting to escape when two soldiers collided with it. Further investigations are ongoing.
 
-ඒ්- 9 ප්‍රධාන මාර්ගයේ මාන්කුලම් සිට කිලිනොච්චිය දෙසට යුදහමුදා කැබ්රථය ධාවනය වී ඇති අතර ඒ දෙසටම පිටුපසින් ලොරියක්ද ධාවනය වී ඇත. එහිදී ලොරිරථය කැබ්රථය පසුකොට යාමට ගත් උත්සයකදී ඉදිරියෙන් තවත් වාහනයක් ප්‍රතිවිරුද්ධ දෙසට ධාවනය වීම හේතුවෙන් ලොරියේ රියදුරු ඒකවරම ලොරිය කැබ්රථය දෙසට හරවීමෙන් කැබ්රථයේ ලොරිය ගැටී ඇති බවට මූලික පොලිස් පරික්ෂණවලදී හෙලි වී ඇත.
+🟩
 
-අනතුරුව කැබ්රථය පිටුපස ගිය යුදහමුදා සෙබලුන් දෙදෙනෙකු ඉන් විසවී ලොරියේ ගැටී ඇති අතර ඒ් සමගම ලොරි රියදුරු ඔවුන් බේරීමට ගත් උත්සහයකදී ලොරිය පෙරලී ගොස් ඇත.
+Awahhamadu soldier was killed and nine others had been killed in the A-9 main road in Jaffna.
+
+AW - 9 main road has been run towards Kilinochchi towards Kilinochchi and a lorry is on the back of it. The lorry driver was revealed at the preliminary police investigations that the lorry was collided with the lorry by the end of the lorry.
+
+Two warfare soldiers who had been behind the cab have collided with the lorry, while the lorry driver was trying to escape the lorry.
 
 අනතුරින් කැබ්රථයේ ගිය යුදහමුදා සෙබලුන් සහ ලෙරි රථයේ රියුදරු ඇතුලු 09 දෙනෙකු තුවල ලබා කිලිනොච්චිය මහරෝහලට රැගෙන ගොස් ඇති අතර ලොරියේ ගැටුනු එක් යුදහමුදා සෙබලෙකු එම ස්ථනයේම මිය ගො ඇතැයි පොලීසිය පැවසීය.
 
-...
+The victim was a 39 year old warm soldier from Galgamuwa and the Kizakkulam Police are conducting further investigations.
+
+◼️
 
 [Data](articles/e5c1ebbf.json)
+
+[Extended Data](ext_articles/e5c1ebbf.ext.json)
 
 ---
 
@@ -1162,23 +1234,29 @@ However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of t
 
 ---
 
-### 'මම ලියන හැටි': ආරියවංශ අබේසේකර
+### 'How I Write': Ariywansa Abeysekara
 
 *2024-04-26 10:50:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pynwz6y5ro) · `si`
 
-මම ලියන හැටි සංවාද මාලාවේ අවසාන කොටස වෙනුවෙන් අප තෝරා ගෙන ඇති ආරියවංශ අබේසේකර යනු සිය කෘතීන් ඔස්සේ අද්විතීය ප්‍රබන්ධ ලෝකයක් නිර්මාණය කරන සිංහල සාහිත්‍ය ඉතිහාසයේ අපට හමුවන සුවිශේෂී නවකතාකරුවෙකි.
+Ariywansa Abeysekera, we have chosen for the final part of the conversation, is a significant novel that uses in Sinhala literary history that creates a unique fiction world.
 
-'දාගේ' කෘතිය ඔස්සේ 1988 දී නවකතාකරණයට ප්‍රවේශ වන ඔහු චාරුමන්දා, මතකවත, මාතෘකාවක් සොයන වචන අනූ තුන්දාහක් සහ ආරාමදාස යන නවකතා රචනා කරමින් සිය අනන්‍යතාව සිංහල සාහිත්‍යය තුළ සලකුණු කර ඇත.
+In 1988, he was approved by the 'Dhage' work in 1988, composing the novels, reflecting in Sinhala literature.
 
-මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය. මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+I talk to him as a novelist as a notener, he is in the way to understand his own and writing. The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
 
-හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේ ම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+It is well known for all writer's writing process.
 
-ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+Where writing, how to write, how to write, the writing of writing, belong to the writer's abuse of the writer.
+
+In this conversation, it was tried to pose to the secret site of the novels.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
 
 ...
 
 [Data](articles/377cc2eb.json)
+
+[Extended Data](ext_articles/377cc2eb.ext.json)
 
 ---
 
@@ -2171,69 +2249,5 @@ In a concerted effort to empower the educational landscape of Sri Lanka, LOLC Di
 [Data](articles/f517c163.json)
 
 [Extended Data](ext_articles/f517c163.ext.json)
-
----
-
-### Rice distribution not a panacea to people’s struggles - Namal
-
-*2024-04-26 01:34:28* · [`dailyftlk`](https://www.ft.lk/news/Rice-distribution-not-a-panacea-to-people-s-struggles-Namal/56-761055) · `en`
-
-SLPP MP Namal Rajapaksa says despite difficulties Gotabaya Rajapaksa’s regime did not reach a point where rice distribution became necessary
-
-Notes SL has a good economy especially during his father’s tenure where people could easily purchase rice
-
-Says alongside rice distribution Govt. must focus on developing SL’s fledgling rural economy
-
-Sri Lanka Podujana Peramuna (SLPP) National Organiser and Parliamentarian Namal Rajapaksa yesterday stressed that the Government’s distribution of rice to the people of the country is not a solution to the struggles they are facing.
-
-“During the tenure of Mahinda Rajapaksa, we had an economy in which people could easily purchase rice. There was no need to distribute rice to the people,” he noted. He added that such a move was not necessary even during the tenure of his uncle, former President Gotabaya Rajapaksa.
-
-...
-
-[Data](articles/be51eb89.json)
-
-[Extended Data](ext_articles/be51eb89.ext.json)
-
----
-
-### Chinese communist party Vice Minister Sun Haiyan meets NR
-
-*2024-04-26 01:33:36* · [`dailyftlk`](https://www.ft.lk/news/Chinese-communist-party-Vice-Minister-Sun-Haiyan-meets-NR/56-761054) · `en`
-
-Several representatives of the Chinese Communist Party including the Vice Minister of the International Department Sun Haiyan met with the Sri Lanka Podujana Party (SLPP) National Organiser Namal Rajapaksa on Tuesday.
-
-Taking to X (formerly Twitter) Rajapaksa said the meeting sought to strengthen the enduring alliance between the SLPP and CPC, setting the stage for collaboration and shared vision.
-
-Rajapaksa said the discussions focused on enhancing bilateral ties and future plans of the SLPP to establish a practical political course. SLPP General Secretary Sagara Kariyawasam was also present at the event.
-
-◼️
-
-[Data](articles/9c31c551.json)
-
-[Extended Data](ext_articles/9c31c551.ext.json)
-
----
-
-### If the child is arrested, the facts come out
-
-*2024-04-26 01:32:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானை-கைது-செய்தால்-உண்மைகள்-வெளிவரும்/175-336360) · `ta`
-
-TNA's Chanakyan Rasamanikam suggests that arresting Pillaiyan MP could reveal facts about attacks from 2005 to the 2019 Survival Sunday attack. Despite ongoing investigations since 2014, including the involvement of the Intelligence Unit of Sri Lanka and the arrest of several individuals, the connection between these incidents and the Survival Sunday attack remains unclear.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam said that if Pillaiyan MP was arrested and investigated, all the facts from 2005 to the survival Sunday attack could be found.
-
-He was speaking at the second day of the post -adjournment debate in Parliament on Thursday (25) in Parliament on the Sunday attack.
-
-Although the survival Sunday attack took place in 2019, the relevant groups have been operating in this country since 2005. Despite frequently said in this regard, they do not understand the matter. However, investigations have been resumed in connection with an incident in 2014.
-
-Intelligence Committee has been launched by the Intelligence Unit of Sri Lanka. In 2004, an organization called Imanian Heart. The group is also included in the police Boise, Amy Mohitin and Khalil. A man named Khalil is released to jail in the murder of Joseph Pararajasingham.
-
-...
-
-[Data](articles/00249b03.json)
-
-[Extended Data](ext_articles/00249b03.ext.json)
 
 ---

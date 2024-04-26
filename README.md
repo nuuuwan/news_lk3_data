@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 18:34:08**
+As of **2024-04-26 18:52:03**
 
 ## Newspaper Stats
 
-*Scraped **21,151** Articles*
+*Scraped **21,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 2,449
 adaderanalk | 2,518
 virakesarilk | 3,189
 dailymirrorlk | 3,294
-adaderanasinhalalk | 3,412
+adaderanasinhalalk | 3,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,151 (100.0%) of 21,151 articles have been extended.
+21,151 (100.0%) of 21,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### පාස්කු ප්‍රහාරය ගැන මෛත්‍රී CIDයට කී දේ හෙළිවෙයි
+
+*2024-04-26 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196004) · `si`
+
+පාස්කු ප්‍රහාරයේ මහමොළකරු සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදුන් රහස් ප්‍රකාශය සම්බන්ධයෙන් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා අද මුල්වරට හෙළි කළේය.
+
+◼️
+
+[Data](articles/03550bea.json)
+
+---
 
 ### Mattala International Airport India, Russia
 
@@ -2269,25 +2281,5 @@ It is natural for foreign countries having bilateral relations with Sri Lanka to
 [Data](articles/128db9cc.json)
 
 [Extended Data](ext_articles/128db9cc.ext.json)
-
----
-
-### Not AirAsia bidding to acquire SriLankan: Capital A CEO clarifies
-
-*2024-04-26 04:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Not-AirAsia-bidding-to-acquire-SriLankan-Capital-A-CEO-clarifies/108-281384) · `en`
-
-Capital A CEO Tan Sri Tony Fernandes clarified that it is AirAsia Consulting Sdn Bhd that is bidding to acquire SriLankan Airlines, and not AirAsia.
-
-If successful, the soon to be re-branded AirAsia Consulting will raise its own capital for the acquisition, Fernandes told reporters in Malaysia this week at a media conference that was held to announce the extension of his tenure as chief for another five years.
-
-“Just to clear that up for everyone, AirAsia is not buying SriLankan Airlines. AirAsia Consulting, which will set up its own fund, is looking at buying SriLankan Airlines. So, it’s not AirAsia,” he said.
-
-“I know it’s confusing, and AirAsia Consulting will be changing (its name) to Capital A Consulting very soon. So, that’s for airlines who want to consult our 23 years of experience, but AirAsia Consulting is also looking for opportunities to invest in airlines outside of ASEAN. AirAsia is fully focused on ASEAN. That’s our goal,”
-
-...
-
-[Data](articles/4e73a094.json)
-
-[Extended Data](ext_articles/4e73a094.ext.json)
 
 ---

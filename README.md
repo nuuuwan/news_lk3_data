@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 01:03:34**
+As of **2024-04-27 01:18:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,193 (100.0%) of 21,202 articles have been extended.
+21,202 (100.0%) of 21,202 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,6 +90,8 @@ The MP said the platoon made up of Muslim, Tamil and Sinhalese operatives was se
 
 [Data](articles/4a896e9e.json)
 
+[Extended Data](ext_articles/4a896e9e.ext.json)
+
 ---
 
 ### Easter Sunday Attack – Eran details measures for justice under future SJB Govt.
@@ -111,6 +113,8 @@ Speaking at the debate on the Easter Sunday terror attack, Wickramaratne said a 
 ...
 
 [Data](articles/6e369750.json)
+
+[Extended Data](ext_articles/6e369750.ext.json)
 
 ---
 
@@ -152,6 +156,8 @@ National People’s Power (NPP) party leader Anura Kumara Dissanayake yesterday 
 
 [Data](articles/d30759ff.json)
 
+[Extended Data](ext_articles/d30759ff.ext.json)
+
 ---
 
 ### SLT-Mobitel wins ‘Best Corporate Citizen Sustainability Award 2023’
@@ -167,6 +173,8 @@ The annual awards are organised by the Ceylon Chamber of Commerce, Sri Lanka’s
 ...
 
 [Data](articles/eaf046fd.json)
+
+[Extended Data](ext_articles/eaf046fd.ext.json)
 
 ---
 
@@ -186,6 +194,8 @@ The Memorandum of Understanding (MoU) between Ninewells Hospital and the Army Su
 
 [Data](articles/e9d57047.json)
 
+[Extended Data](ext_articles/e9d57047.ext.json)
+
 ---
 
 ### Amana Bank collaborates with the University of Colombo to mark World Water Day
@@ -199,6 +209,8 @@ To mark World Water Day, Amana Bank partnered with the Environment Committee of 
 ...
 
 [Data](articles/ed1ee256.json)
+
+[Extended Data](ext_articles/ed1ee256.ext.json)
 
 ---
 
@@ -260,6 +272,8 @@ Two politicians, one a State Minister in present SLPP Government headed by Presi
 
 [Data](articles/68e67b77.json)
 
+[Extended Data](ext_articles/68e67b77.ext.json)
+
 ---
 
 ### From global to local: Challenges for equitable local-level access to climate finance and support
@@ -273,6 +287,8 @@ Climate change impacts all sectors, administrative levels, and segments of socie
 ...
 
 [Data](articles/264d1ca1.json)
+
+[Extended Data](ext_articles/264d1ca1.ext.json)
 
 ---
 
@@ -291,6 +307,8 @@ It’s all about family. The prodigal son or daughter can return. And when they 
 ...
 
 [Data](articles/49739f89.json)
+
+[Extended Data](ext_articles/49739f89.ext.json)
 
 ---
 

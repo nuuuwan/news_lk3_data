@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 09:52:41**
+As of **2024-04-26 10:03:33**
 
 ## Newspaper Stats
 
-*Scraped **21,067** Articles*
+*Scraped **21,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,760
 tamilmirrorlk | 2,441
-adaderanalk | 2,502
+adaderanalk | 2,503
 virakesarilk | 3,171
 dailymirrorlk | 3,281
 adaderanasinhalalk | 3,396
@@ -26,55 +26,89 @@ adaderanasinhalalk | 3,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,063 (100.0%) of 21,067 articles have been extended.
+21,067 (100.0%) of 21,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### යුද හමුදා සෙබළෙකු මරුට - 9කට තුවාල
+### Haiti’s Prime Minister Ariel Henry resigns, transitional council takes power
+
+*2024-04-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98854/haitis-prime-minister-ariel-henry-resigns-transitional-council-takes-power) · `en`
+
+Haiti opened a new political chapter Thursday with the installation of a transitional council tasked to pick a new prime minister and prepare for eventual presidential elections, in hopes of quelling spiraling gang violence that has killed thousands in the Caribbean country.
+
+Ariel Henry, the prime minister who had been locked out of the country for the past couple of months due to the violence, cleared the way for the transition by presenting his resignation in a letter signed in Los Angeles.
+
+The document was released Thursday in Haiti on the same day as the new transitional council was sworn in to choose a new prime minister and Cabinet. Henry’s outgoing Cabinet chose Economy and Finance Minister Michel Patrick Boisvert as interim prime minister in the meantime. It was not immediately clear when the transitional council would name its own choice for interim prime minister.
+
+...
+
+[Data](articles/c0cccfc0.json)
+
+---
+
+### Army soldier killed - 9 injured
 
 *2024-04-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195983) · `si`
 
-තුවාල ලැබූ යුද හමුදා සෙබළුන් 10 දෙනෙකු කිළිනොච්චිය රෝහලට ඇතුළත් කර ඇති අතර ඉන් එක් සෙබළෙකු මියගොස් ඇති බව වාර්තා වෙයි.
+An army soldier was killed, and 9 were injured in a cab accident, with 10 admitted to Kilinochchi hospital and one soldier died.
 
-පොලීසිය සඳහන් කළේ පිරිස ගමන් කළ කැබ් රථය අනතුරකට ලක්වීමෙන් පිරිස තුවාල ලබා ඇති බවය.
+🟩
+
+Ten soldiers who were injured have been admitted to the Kilinochchi hospital and one soldier has died.
+
+The police said that the group was injured in the cab accident.
 
 ◼️
 
 [Data](articles/351c17e2.json)
 
+[Extended Data](ext_articles/351c17e2.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+### Parliamentary proceedings begun
 
 *2024-04-26 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195982) · `si`
 
-අද (26) දිනට නියමිත පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+Parliamentary proceedings start today, focusing on the Passover attack. SriLankan Airlines heads and the Department of Parliament, National Institute of Business Management, and Mahapola Higher Education Fund were summoned to the COPE Committee.
 
-පාස්කු ප්‍රහාරය පිළිබඳ සභාව කල්තැබීමේ විවාදයේ තෙවන දිනය වෙනුවෙන් පාර්ලිමේන්තුවේ කටයුතු අද සිදු කෙරෙයි.
+🟩
 
-මේ අතර අද දිනයේ ශ්‍රී ලන්කන් ගුවන් සමාගමේ ප්‍රධානීන් කෝප් කමිටුව හමුවට කැඳවා තිබේ.
+Parliamentary affairs have commenced today (26).
 
-විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව, ව්‍යාපාර කළමනාකරණය පිළිබඳ ජාතික ආයතනය සහ මහපොළ උසස් අධ්‍යාපන ශිෂ්‍යාධාර අරමුදල ඊයේ කමිටුව හමුවට කැඳවා තිබු බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+Parliament will be held today on the third day of the PSC on the Passover attack.
+
+Meanwhile, the heads of SriLankan Airlines have been summoned before the COPE Committee.
+
+The Department of Parliament, the National Institute of Business Management and the Mahapola Higher Education Fund have been summoned before the committee yesterday.
 
 ◼️
 
 [Data](articles/f6524251.json)
 
+[Extended Data](ext_articles/f6524251.ext.json)
+
 ---
 
-### මනුෂ්‍ය ඝාතනයක සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested for murder
 
 *2024-04-26 09:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195981) · `si`
 
-පිරිසක් විසින් අඹු-සැමි යුවළක් පැහැරගෙන ගොස් ඉන් පිරිමි පුද්ගලයාව ඝාතනය කිරීමේ සිද්ධියේ සැකකරුවෙකුව අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested for murder after being abducted and killed by a couple. The victim, a 30-year-old from Karainagar, was identified by the police.
 
-පොලීසිය සඳහන් කළේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි කරෙයිනගර් ප්‍රදේශයේ පදිංචිකරුවෙකු බවය.
+🟩
+
+A suspect had been abducted by a group of couple and killed the man who was murdered by a group.
+
+The police said that the victim was a 30 year old resident of Karainagar.
 
 ◼️
 
 [Data](articles/1a9325ed.json)
+
+[Extended Data](ext_articles/1a9325ed.ext.json)
 
 ---
 
@@ -93,6 +127,8 @@ The deceased was identified as a 39-year-old sergeant of the Sri Lanka Army atta
 ◼️
 
 [Data](articles/5f6c343d.json)
+
+[Extended Data](ext_articles/5f6c343d.ext.json)
 
 ---
 
@@ -2121,33 +2157,5 @@ The passing out parade of a team of 100 police personnel who underwent special t
 [Data](articles/bf70eb86.json)
 
 [Extended Data](ext_articles/bf70eb86.ext.json)
-
----
-
-### The people create an economy that does not go back to struggle
-
-*2024-04-25 18:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-යළි-අරගලයකට-නොයන-ආර්ථිකයක්-නිර්මාණය-කරනවා/11-409267) · `si`
-
-President Ranil Wickremesinghe highlighted the resilience of Sri Lanka's economy, which, despite facing a crisis, was rebuilt within two years. He emphasized the potential of Sri Lanka as a tourist destination, with the ITC Ratnadeepe Hotel symbolizing the country's growth. Wickremesinghe also mentioned the need for further development in Colombo, including the President's House and other landmarks, to enhance tourism and boost the economy.
-
-🟩
-
-President Ranil Wickremesinghe said that the people are creating an economic situation that will not go back to a struggle.
-
-He said the President pointed out that the crash economy was rebuilt within two years, he said he would resume an economy in the country and improve the quality of life of the people.
-
-President Ranil Wickremesinghe made these comments participating at the opening of ITC Ratdepi Hotel today (25).
-
-The ITC Ratnadeepepepepepepi Hotel, which was built, is the first hotel built by ITC Hotel Group in India.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-Itc welcomes Sri Lanka. Galle Face Hotel, the first five star hotel in Asia, is located near this. And the Indian Taj Hotel also is located near this. Shangriila Hotel is also located in Singapore. There is also the ITC Ratnightpa Hotel in taller than all of them. And there is a Cinnamon Life Hotel.
-
-...
-
-[Data](articles/478eb6b3.json)
-
-[Extended Data](ext_articles/478eb6b3.ext.json)
 
 ---

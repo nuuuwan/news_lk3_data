@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 20:35:12**
+As of **2024-04-26 20:52:17**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 3,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,160 (100.0%) of 21,162 articles have been extended.
+21,162 (100.0%) of 21,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### රුමේනියා රැකියා ජාවාරමේ දෙවන සැකකරුත් කොටුවෙයි
+### Romania employment racket
 
 *2024-04-26 20:10:36* · [`adalk`](https://www.ada.lk/breaking_news/රුමේනියා-රැකියා-ජාවාරමේ-දෙවන-සැකකරුත්-කොටුවෙයි/11-409285) · `si`
 
-රුමේනියාවේ රැකියා ලබාදෙන බව පවසා රුපියල් කෝටි 7ට අධික මුදලක් වංචාකළ ජාවාරමට අදාල පැමිණිල්ලේ දෙවන සැකකරු අද දින (4.26) විදේශ සේවා නියුක්ති කාර්යාංශයේදී අත්අඩංගුවට ගන්නා ලදී.
+A second suspect was arrested for an employment racket involving Romania. The Licensed Foreign Employment agency was implicated, with 88 complaints. The suspect is due in court today.
 
-කොළඹ 10, සංඝරාජ මාවතේ පවත්වාගෙන ගිය රෝයල් ඩ්‍රිම්ස් (Royal Dreamz) නම් බලපත්‍රලාභී විදේශ රැකියා නියෝජිතායතනය මගින්, රුමේනියාවේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකර ඇති අතර, ඒ පිළිබඳව පැමිණිලි 88ක් කාර්යාංශය වෙත ලැබී තිබිණි. ඒ අනුව අදාළ ආයතනයේ බලපත්‍රලාභිනිය පසුගිය අප්‍රේල් 01 දින කාර්යාංශය මගින් අත්අඩංගුවට ගෙන මාළිගාකන්ද අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අප්‍රේල් මස 29 දින දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලදී.
+🟩
 
-මෙම ජාවාරම සඳහා සහය වූ තවත් පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගැනීම සඳහා කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විමර්ශන මෙහෙයවූ අතර, ඒ අනුව මෙම ආයතනයේ උප ඒජන්තවරයෙකු ලෙස සේවය කළ නාත්තන්ඩිය ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+The second suspect, the second suspect, was arrested in the Foreign Employment Bureau today (4.26).
 
-...
+The Licensed Foreign Employment (Royal Dramez), which was held at Sangaraja Mawatha, had been cheated by the Licensed Foreign Employment agency (Licensed Foreign Employment has provided employment to Romania and had received 88 complaints.. Accordingly, the Licensing of the Institute was arrested by the Bureau and was remanded until 29th April.
+
+Investigations were arrested by the investigating officials from the Nattandiya area in the Nattandiya area, who was supporting the racket.
+
+The suspect is to be produced before the Maligakanda Magistrate's Court today (4/66).
+
+WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK Website or the 1989 instant call number
+
+◼️
 
 [Data](articles/52ddb6b3.json)
 
+[Extended Data](ext_articles/52ddb6b3.ext.json)
+
 ---
 
-### දුෂ්මන්ත චමීර ගැන අලුත්ම ආරංචිය
+### The latest news about Dushhamah Chameera
 
 *2024-04-26 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196006) · `si`
 
-IPL තරගාවලියේ අද (26) පැවැත්වෙන තරගයේ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සඳහා ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක දුෂ්මන්ත චමීර තරග කිරීමට නියමිතය.
+Dushhamah Chameera, Sri Lanka's fast bowler, debuts for Kolkata Knight Riders today in an IPL match against Punjab Kings.
 
-ඔහු කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම වෙනුවෙන් අද තරග වදින්නේ පළමු වරටය.
+🟩
 
-ඔහු කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායමට එක්වූයේ ඉන්දීය රුපියල් ලක්ෂ 50ක මිලකට බව වාර්තා වේ.
+Sri Lanka's fast bowler is to contest the match of the IPL today (26).
 
-දුෂ්මන්ත චමීර එලෙස කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම විසින් තොරගෙන තිබුණේ එංගලන්ත පන්දු යවන ක්‍රීඩක Gus Atkinson වෙනුවටය.
+He is the first time that he is the first to compete today for Kolkata Knight Riders.
 
-දුෂ්මන්ත චමීර මීට පෙර IPL තරගාවලියවලදී  2018 වසරේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම නියෝජනය කර ඇති අතර 2021 රෝයල් චැලෙන්ජර්ස් බැංගලෝර් කණ්ඩායම සඳහා ක්‍රීඩා කළේය.
+He joined Kolkata Knight Riders at a price of Rs.
 
-අද තරගය පැවැත්වෙන්නේ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සහ පන්ජාබ් කිංග්ස් කණ්ඩායම් අතරය.
+The Kolkata Knight Riders of Kolkata Knight Riders had been selected by Kolkata Knight Riders in such a bowler Gustakinson.
+
+Dushhana Chameera has represented Royal Royals in 2018 in 2018 and the 2021 Royal Challengers played for Bangalore.
+
+The match will be held today with the Kolkata Knight Riders team and Punjab Kings.
 
 ◼️
 
 [Data](articles/00998270.json)
+
+[Extended Data](ext_articles/00998270.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 01:52:14**
+As of **2024-04-27 02:03:43**
 
 ## Newspaper Stats
 
@@ -26,71 +26,99 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,202 (100.0%) of 21,206 articles have been extended.
+21,206 (100.0%) of 21,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### வலுசக்தித்  துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனம்! - மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக
+### Independent Company to regulate the power sector!- Minister of Electricity and Power and Energy TV Chanaka
 
 *2024-04-27 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182061) · `ta`
 
-வலுசக்தித் துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனமொன்றை நிறுவத் தேவையான நடவடிக்கைகள் மேற்கொள்ளப்படும் என மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக தெரிவித்தார்.
+Minister TV Chanaka announced an independent company to regulate the power sector, focusing on imports, quality, distribution, and sales. This aims to ensure fair service to consumers. The minister also highlighted efforts to stabilize power supply and improve fuel quality, with plans for an independent regulatory company to manage kerosene, petrol, diesel, and other fuels.
 
-குறித்த நிறுவனம், வலுசக்தித் துறையுடன் தொடர்புடைய இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை தொடர்பான விடயங்களை ஒழுங்குபடுத்தும் என்றும் அதன் மூலம் நுகர்வோருக்கு நியாயமான சேவையை வழங்க எதிர்பார்ப்பதாகவும் இராஜாங்க அமைச்சர் மேலும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக இதனைத் தெரிவித்தார்.
+Minister of Power and Power and Energy TV Chanaka said that necessary steps would be taken to establish an independent company to regulate the power sector.
 
-தொடர்ச்சியான வலுசக்தி விநியோகத்திற்குத் தேவையான ஸ்திரத்தன்மையை தற்போது ஏற்படுத்த முடிந்துள்ளது. எரிபொருள் வரிசைகளின் காலம் முடிந்துவிட்டது. எமது அமைச்சும் அதனுடன் இணைந்த நிறுவனங்களும் உயர்தர எரிபொருளை வழங்க நடவடிக்கை எடுத்துள்ளது.
+The Minister further stated that the company will regulate the imports, quality, distribution and sale of the Department of Power and Energy and thereby provide fair service to consumers.
 
-மேலும், வலுசக்தித் துறையின் இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை ஆகியவற்றுடன் தொடர்புடைய ஒரு சுயாதீனமான ஒழுங்குமுறை நிறுவனமொன்றின் அவசியத்தை நாம் அடையாளம் கண்டுள்ளோம்.
+Minister of Electricity and Power and Energy TV Chanaka said this at a media briefing held at the Presidential Media Center on Friday.
+
+Continuous power supply has now been able to establish stability. The duration of fuel rows is over. Our ministry and its affiliated companies have taken steps to provide high quality fuel.
+
+Furthermore, we have identified the need for an independent regulatory company associated with import, quality, distribution and sale of the Department of Power.
 
 ...
 
 [Data](articles/c8c23f47.json)
 
+[Extended Data](ext_articles/c8c23f47.ext.json)
+
 ---
 
-### குண்டுத்தாக்குதலின் பின்னணியில் மோடியின் பாதுகாப்பு ஆலோசகர் அஜித் தோவால் - விமல் வீரவன்ச
+### Modi's security adviser Ajith Doaal - Wimal Weerawansa
 
 *2024-04-27 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182060) · `ta`
+
+Ajith Dowal's security adviser, Modi's MRM Vasim and Rajadurai Hashan, face controversy over the Sunday bombings. Wimal Weerawansa, a National Freedom Front leader, suggests the bombings could alter Sri Lanka's elections. The truth behind the bombings remains unknown, with no debate on the incident. Maithripala Sirisena and Ranil Wickremesinghe express concern. Modi's statement in Goa on the day of the bombings suggests a conflict between Sri Lankan Catholics and Indians. The bombings did not affect the 2019 presidential election, with Sajith Premadasa winning. The bombings targeted traditional Muslim beliefs, with 117 Muslims killed in 2016.
+
+🟩
 
 ...
 
 [Data](articles/5b9ba150.json)
 
+[Extended Data](ext_articles/5b9ba150.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதலுக்கு தீர்வுகாண கத்தோலிக்க சட்டத்தரணிகளைக்கொண்ட ஆணைக்குழு அமைக்க வேண்டும் - அமைச்சர் ஹரின்
+### Catholic lawyers should set up a Commission to Solve the Life Sunday attack -Minister Harin
 
 *2024-04-27 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182059) · `ta`
 
-கத்தோலிக்க சட்டத்தரணிகள் சமூகத்தை அழைத்து அதிகாரமுடைய ஆணைக்குழுவொன்றை ஏற்படுத்தி உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான விசாரணைகளை மேற்கொள்ள இடமளிக்க வேண்டும் என அமைச்சர் ஹரின் பெர்ணான்டோ தெரிவித்தார்.
+Minister Harin Fernando suggests Catholic lawyers form a commission to investigate the Sunday attack, emphasizing legal action over continued discussion.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) இடம்பற்ற  உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை  மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் தொடர்ந்து விவாதிப்பதைவிட அதற்கு தீர்வொன்றை வழங்க நடவடிக்கை எடுக்க வேண்டும். அதனால் இதற்கு தீர்வாக கத்தோலிக்க சட்டத்தரணிகள் சமூகத்தை அழைத்து அதிகாரமுடைய ஆணைக்குழுவொன்றை ஏற்படுத்தி உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான விசாரணைகளை மேற்கொள்ள இடமளிக்க வேண்டும். அது தொடர்பிலான  சட்ட ரீதியிலான நடவடிக்கைகளை எடுப்பதற்கும் அந்த ஆணைக்குழுவுக்கு பொறுப்பாக்க வேண்டும்.
+Minister Harin Fernando said that Catholic lawyers should call the community and set up a power commission and investigate the life of the Sunday.
+
+He was speaking at the third day debate in Parliament on Friday (26).
+
+Steps must be taken to provide a solution rather than continue to discuss the lifeblood Sunday attack. As a solution to this, Catholic lawyers should call the community and set up a power commission to investigate the life of the Sunday attack on the Sunday attack.. The Commission should also be held responsible for taking legal action.
+
+The government nor the nan does not have to report this issue. The proposal may have been presented to Sajith Premadasa and Anuragumara Dissanayake. There are great lawyers from the Kattaelika community in Sri Lanka.. There is a charge against 93 people in connection with the attack. All 93 persons should be summoned to the Commission.
 
 ...
 
 [Data](articles/03e169bd.json)
 
+[Extended Data](ext_articles/03e169bd.ext.json)
+
 ---
 
-### எத்தனை விசாரணைகள் வந்தாலும்  எதிர்கொள்ளத் தயார் - இராஜாங்க அமைச்சர் சிவநேசத்துரை சந்திரகாந்தன்
+### Ready to face no matter how many inquiries are available -State Minister Sivanesathurai Chandrakanthan
 
 *2024-04-27 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182058) · `ta`
 
-நான் விடுதலைப்போராட்டத்தில் இருந்தவன் என்பதற்காக எல்லாவற்றையும்  எனது தலையில் கொட்ட முடியாது. எத்தனை விசாரணைகள் வந்தாலும் நான் எதிர்கொள்ளத்தயாராகவே இருக்கின்றேன் என  இராஜாங்க அமைச்சர் சிவநேசத்துரை சந்திரகாந்தன் தெரிவித்தார்.
+State Minister Sivanesathurai Chandrakanthan faces numerous inquiries, emphasizing readiness despite political pressures. He highlights the impact of religious affairs since 2012, especially concerning Muslim communities, and criticizes the media's portrayal of events, including the Channel 4 controversy.
 
-பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) இடம்பற்ற  உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை  மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இது  தேர்தல் ஆண்டு என்ற அடிப்படையில் எதிர்கட்சியினரும் வேறு சிலரும் ரணித்த அந்த ஜீவன்களை மையப்படுத்தி இன்னமும் விவாதப்பொருளாக்கிக் கொண்டிருக்கின்றார்கள். சிலர் அரசியலுக்காக என் மீதும் கை  நீட்டுவதனை இங்கு அவதானித்தேன். அவர்களைப்பற்றி என்னால் கவலை மட்டும்தான் அடைய முடியும். எத்தனை விசாரணைகள் வந்தாலும் நான் எதிர்கொள்ளத் தயராகவே இருக்கின்றேன்.
+I can't pour everything into my head because I was in the liberation struggle. "I am confronted by how many inquiries," said Minister of State Sivanesathurai Chandrakanthan.
+
+He was speaking at the third day debate in Parliament on Friday (26).
+
+This is the election year and the opposition and some others are still focusing on those living.. Here I noticed that some people extend their hands on me for politics. I can only worry about them. No matter how many inquiries, I am ready to face.
+
+Since 2012, this religious affair has slowly come out.. As a result, some things have begun to happen in the villages where Muslims are concentrated. It was only when ISIS terrorism has reached its peak in the world.
 
 ...
 
 [Data](articles/87c1d9f2.json)
+
+[Extended Data](ext_articles/87c1d9f2.ext.json)
 
 ---
 

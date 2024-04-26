@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 21:53:33**
+As of **2024-04-26 22:05:42**
 
 ## Newspaper Stats
 
-*Scraped **21,171** Articles*
+*Scraped **21,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
-economynextcom | 1,195
+economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,449
 adaderanalk | 2,522
-virakesarilk | 3,189
+virakesarilk | 3,195
 dailymirrorlk | 3,301
 adaderanasinhalalk | 3,419
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 3,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,169 (100.0%) of 21,171 articles have been extended.
+21,171 (99.9%) of 21,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### ඇල්ලේ නායයෑමේ අවදාමක්
+### Landscale landslide
 
 *2024-04-26 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196010) · `si`
 
-අක්කර දෙකක පමණ භූමියක නාය යාම සක්‍රිය වුවද එය අක්කර 30ක පමණ වපසරියකට බලපෑම් එල්ලකර ඇති බව පැවසේ.
+A 2-acre landslide in Badulla District, affecting 30 acres, has reached 10 feet, potentially impacting Wellawaya Road. A 15-acre mountain area is severely affected, according to Udaya Kumara, Deputy Director of the Badulla District Disaster Management Unit.
 
-මේ වනවිට භූමිය අඩි 10ක් පමණ ගිලා බැස ඇති අතර නායයාම තවදුරටත් සක්‍රිය වුවහොත් ඇල්ල වැල්ලවාය මාර්ගයටද බලපෑම් එල්ලවිය හැකිය.
+🟩
 
-අක්කර 15ක පමණ ප්‍රමාණයක කන්ද බිඳවැටීමක් පැහැදිලිව ඇති බවත් එය ක්‍රියාත්මක වුවහොත් ඇල්ල - වැල්ලවාය මාර්ගයට දැඩි අවධානමක් ඇති බව ද බදුල්ල දිස්ත්‍රික් ආපදා කළමණාකරණ ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂ, උදය කුමාර මහතා පැවසීය.
+It is said that the landslide on a two-acre site is active, it is said to have been affected by about 30 acres.
+
+The land has been hit by 10 feet and if the landslide is further enabled, the Falls can also be affected by the Wellawaya Road.
+
+The Deputy Director of the Badulla District Disaster Management Unit said that a 15 acres of mountain is severe in the Ella-Wellawaya Road, "Udaya Kumara said.
 
 ◼️
 
 [Data](articles/2bc4c67f.json)
 
+[Extended Data](ext_articles/2bc4c67f.ext.json)
+
 ---
 
-### ආණ්ඩු පක්ෂ මන්ත්‍රීවරු දැඩි ස්ථාවරයක
+### Government Members of Parliament
 
 *2024-04-26 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196009) · `si`
 
-ඉදිරි ජනාධිපතිවරණයේදී පක්ෂ පාට භේදයකින් තොරව ජනාධිපතිවරයාට සහාය පළකරන බව ආණ්ඩු පක්ෂ මන්ත්‍රිවරු අවධාරණය කරයි.
+Government MPs, including PM Dinesh Gunawardena and former President Mahinda Rajapaksa, met with President Ranil Wickremesinghe to discuss the upcoming presidential election, emphasizing unity. A committee was formed to address censorship issues.
 
-ඔවුන් මේ බව කියා සිටියේ, ජනාධිපතිවරයා සමග පැවති විශේෂ හමුවකට එක්වීමෙන් පසු මාධ්‍ය වෙත අදහස් පළකරමිනි.
+🟩
 
-සාකච්ඡාවට අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ඇතුළු ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රිවරු එක්ව සිටියහ.
+Government MPs emphasize that the President will support the President without a party split in the next presidential election.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ ආණ්ඩු පක්ෂ මන්ත්‍රිවරුන් අතර විශේෂ හමුවක් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (25) පස්වරුවේ පැවැත්වුණි.
+They were speaking to the media after joining a special meeting with the President.
 
-පැය 02කට ආසන්න කාලයක් පැවති රැස්වීමෙන් පසු පිටතට පැමිණි මන්ත්‍රිවරු මාධ්‍යයට අදහස් පළ කළේය.
+Prime Minister Dinesh Gunawardena and former President Mahinda Rajapaksa were also present.
 
-මේ අතර වාරණයට ලක්ව සිටින ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විසින් අත්තනෝමතික ලෙස ඉවත්කරනු ලැබූ ආසන සංවිධායකවරු සහ පක්ෂ ක්‍රියාකාරීන් යළි නිදහස් පක්ෂයට එක්කර ගැනීම සඳහා පියවර ගැනීමට පංච පුද්ගල කමිටුවක් පත්කර තිබේ.
+President Ranil Wickremesinghe and other meeting between government MPs were held at the Presidential Secretariat yesterday (25) at the Presidential Secretariat.
 
-ඒ ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් කොළඹ පදනම් ආයතයේ ඊයේ පැවති දේශපාලන මණ්ඩල රැස්වීමේදීය.
+After two hours of the meeting, MPs expressed their views to the media.
+
+Meanwhile, a five-person committee has been appointed to take arbitrary organizers and party activists to recover the arbitrary organizers and party activists who were censored.
+
+The SLFP acting chairman Minister Nimal Siripala de Silva was held at the Colombo Foundation Committee yesterday.
 
 ...
 
 [Data](articles/b08f15bc.json)
+
+[Extended Data](ext_articles/b08f15bc.ext.json)
 
 ---
 
@@ -184,6 +196,24 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 
 ---
 
+### ரி20 கிரிக்கெட் பந்துவீச்சில் இருபாலாரிலும் இந்தோனேசியாவின் ரொஹ்மாலியா உலக சாதனை
+
+*2024-04-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182055) · `ta`
+
+மகளிர் சர்வதேச ரி20 கிரிக்கெட் பந்துவீச்சில் இந்தோனேசிய கிரிக்கெட் வீராங்கனை ரொஹ்மாலியா அதிசிறந்த பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்து உலக சாதனை படைத்துள்ளார்.
+
+17 வயதான ரொஹ்மாலியா ஒரு ஓட்டமும் விட்டுக் கொடுக்காமல் 7 விக்கெட்களைக் கைப்பற்றி ஆண்களுக்கான மற்றும் பெண்களுக்கான சர்வதேச ரி20 கிரிக்கெட் போட்டிகளுக்கான உலக சாதனையை படைத்தார்.
+
+பாலியில் நடைபெற்ற மொங்கோலியாவுக்கு எதிரான 5ஆவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் அறிமுகமான ரொஹ்மாலி 3.2 ஓவர்கள் பந்துவீசி ஒரு ஓட்டத்தையும் விட்டுக்கொடுக்காமல் 7 விக்கெட்களை வீழ்த்தி உலக சாதனை நிலைநாட்டினார்.
+
+மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 7 விக்கெட்களை வீழ்த்திய 3ஆவது வீராங்கனை ரொஹ்மாலியா ஆவார். இதற்கு முன்னர் பெரு அணிக்கு எதிராக 2022இல்  ஆர்ஜன்டீனாவின் அலிசன் ஸ்டொக்ஸ் என்பவரும் பிரான்ஸுக்கு எதிராக 2021இல் நெதர்லாந்தின் ப்ரெடரிக் ஓவர்டிக என்பவரும் ஒரே பந்துவீச்சுப் பெறுதியான 3 ஓட்டங்களுக்கு 7 விக்கெட்கள் என்ற உலக சாதனையை சமமாகக் கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/ec1c6cee.json)
+
+---
+
 ### Police waiting forces
 
 *2024-04-26 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196007) · `si`
@@ -211,6 +241,26 @@ The group who assaulted the young man had then went to another home near the nea
 [Data](articles/97be7d48.json)
 
 [Extended Data](ext_articles/97be7d48.ext.json)
+
+---
+
+### ஐசிசி ஆடவர் ரி20 உலகக் கிண்ண தூதுவராக யுவ்ராஜ் சிங் பெயரிடப்பட்டுள்ளார்
+
+*2024-04-26 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182054) · `ta`
+
+ஐசிசி ஆடவர் டி20 உலகக் கிண்ண தூதுவராக இந்தியாவின் கிரிக்கெட் ஜாம்பவான் யுவ்ராஜ் சிங்கை சர்வதேச கிரிக்கெட் பேரவை (ஐசிசி) அறிவித்துள்ளது.
+
+ரி20 கிரிக்கெட் உலகக் கிண்ணம் நடைபெற 36 நாட்கள் உள்ள நிலையில் யுவ்ராஜ் சிங்குக்கு இந்த கௌரவம் கிடைத்துள்ளது.
+
+மேற்கிந்தியத் தீவுகளின் அதிரடி மன்னன் கிறிஸ் கேல், ஜெமெய்க்காவின் மின்னல் வேக ஓட்ட வீரரும் ஒலிம்பிக்கில் 8 தங்கப் பதக்கங்கள் வென்றவருமான யூசெயன் போல்ட் ஆகியோருடன் முதலாவது தூதுவர்கள் குழுவில் யுவ்ராஜ் சிங் இணைகிறார்.
+
+தென் ஆபிரிக்காவில் 2007ஆம் ஆண்டு நடைபெற்ற அங்குரார்ப்பண ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் இங்கிலாந்துக்கு எதிராக ஸ்டுவர்ட் ப்றோட் வீசிய 19ஆவது ஓவரில் 6 சிக்ஸ்களை யுவ்ராஜ் சிங் விளாசியிருந்தார்.
+
+இறுதிப் போட்டியில் பாகிஸ்தானை வெற்றிகொண்ட இந்தியா முதலாவது ரி20 உலகக் கிண்ண சம்பியனாகியிருந்தது.
+
+...
+
+[Data](articles/0e5e75c4.json)
 
 ---
 
@@ -283,6 +333,36 @@ The President took the opportunity to detail the Sri Lankan government's endeavo
 [Data](articles/925b36fb.json)
 
 [Extended Data](ext_articles/925b36fb.ext.json)
+
+---
+
+### ஈஸ்டர் தாக்குதல் குறித்து மைத்திரியின் இரகசிய வாக்குமூலம் அம்பலம்
+
+*2024-04-26 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182053) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதலின் மூளையாக செயல்பட்டவர் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குற்றப்புலனாய்வு திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலம் தொடர்பில் பொது பாதுகாப்பு அமைச்சர் திரான் அலஸ் வெள்ளிக்கிழமை (26) முதன்முறையாக அம்பலப்படுத்தியுள்ளார்.
+
+மேலும் கருத்து தெரிவித்த அமைச்சர் குறித்த வாக்குமூலத்தில் இலங்கையை சேர்ந்த எவருடைய பெயரையும் முன்னாள் ஜனாதிபதி குறிப்பிடவில்லை என அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ece40cf0.json)
+
+---
+
+### இலங்கை விவசாயத்துறைக்கான உதவிகள் மூலம் உணவுப்பாதுகாப்பு நிலையை மேம்படுத்த எதிர்பார்ப்பு - அமெரிக்கா தெரிவிப்பு
+
+*2024-04-26 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182048) · `ta`
+
+ஸ்திரத்தன்மை மற்றும் சுபீட்சம் ஆகியவற்றைப் பேணிவளர்ப்பதற்கான தமது பரந்துபட்ட இலக்கின் ஓரங்கமாக இலங்கையின் விவசாயத்துறைசார் அபிவிருத்திக்கு அவசியமான உதவிகளை வழங்குவதன் ஊடாக நாட்டின் உணவுப்பாதுகாப்பு நிலையை மேம்படுத்துவதற்கு எதிர்பார்ப்பதாக அமெரிக்கா தெரிவித்துள்ளது.
+
+அமெரிக்க விவசாயத்திணைக்களத்தின் வர்த்தக மற்றும் வெளிநாட்டு விவசாயம்சார் விவகாரங்களுக்கான துணைச்செயலர் அலெக்சிஸ் டெய்லருக்கும் ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் இடையிலான சந்திப்பொன்று வெள்ளிக்கிழமை (26) கொழும்பில் இடம்பெற்றது. இச்சந்திப்பில் இலங்கைக்கான அமெரிக்கத்தூதுவர் ஜுலி சங்கும் கலந்துகொண்டிருந்தார்.
+
+இலங்கையின் விவசாயத்துறைக்கு அமெரிக்க விவசாயத்திணைக்களம் வழங்கிவரும் உதவிகள் குறித்துக் கலந்துரையாடும் நோக்கில் இடம்பெற்ற இச்சந்திப்பில், உணவுப்பாதுகாப்பை மேம்படுத்தல், காலநிலைமாற்ற சவால்களுக்கு எதிரான மீண்டெழும் தன்மையை ஊக்குவித்தல் என்பவற்றின் ஊடாக இலங்கையின் விவசாய அபிவிருத்தி மற்றும் பொருளாதார வளர்ச்சிக்கு ஆதரவளிப்பதில் அமெரிக்கா கொண்டிருக்கும் வலுவான உறுதிப்பாட்டினை துணைச்செயலர் அலெக்சிஸ் டெய்லர் வெளிக்காட்டினார்.
+
+...
+
+[Data](articles/77f1ae12.json)
 
 ---
 
@@ -376,6 +456,22 @@ As a precautionary measure to control the mosquitoes, the Colombo Municipal Coun
 
 ---
 
+### காஸா சிறுவர் நிதியத்திற்கான பல நன்கொடைகள் ஜனாதிபதியிடம் கையளிப்பு
+
+*2024-04-26 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182049) · `ta`
+
+காஸா மோதல்களில் பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்குவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஸ்தாபிக்கப்பட்ட காஸா குழந்தைகள் நிதியத்திற்கான (Children of Gaza Fund) நிதி நன்கொடைகள் வெள்ளிக்கிழமை (26) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் கையளிக்கப்பட்டன.
+
+கல்முனை ஹுதா ஜும்மா பள்ளிவாசல் 1,589,000 ரூபாவையும், அகில இலங்கை ஜம்மியத்துல் உலமா கிண்ணியா கிளை 5,300,000 ரூபாவையும், கல்முனை வலயக் கல்வி அலுவலகம் 3,128,500 ரூபாவையும், Sports First Foundation 300,000 ரூபாவையும் சிறுவர் நிதியத்திற்கு நன்கொடையாக வழங்கியுள்ளன.
+
+முதற்கட்டமாக, இந்த ஆண்டு இப்தார் நிகழ்வை நடத்துவதற்கு அமைச்சுக்கள் மற்றும் அரச நிறுவனங்கள் ஒதுக்கிய நிதியில் இருந்து கிடைத்த ஒரு மில்லியன் அமெரிக்க டொலர்களை, ஐக்கிய நாடுகள் சபையின் உத்தியோகபூர்வ பிரதிநிதிகள் குழு மூலம் பலஸ்தீன அரசாங்கத்திடம் ஜனாதிபதி ரணில் விக்ரமசிங்க அண்மையில் கையளித்தார்.
+
+...
+
+[Data](articles/5a85a88d.json)
+
+---
+
 ### Sri Lanka to establish new energy sector regulator
 
 *2024-04-26 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-establish-new-energy-sector-regulator/108-281440) · `en`
@@ -437,6 +533,26 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 [Data](articles/84dbae98.json)
 
 [Extended Data](ext_articles/84dbae98.ext.json)
+
+---
+
+### Shell asked to bring premium fuels to start Sri Lanka retail distribution
+
+*2024-04-26 18:03:00* · [`economynextcom`](https://economynext.com/shell-asked-to-bring-premium-fuels-to-start-sri-lanka-retail-distribution-160221/) · `en`
+
+ECONOMYNEXT – Leading global group of energy and petrochemical company Shell has been asked to import premium fuel products in addition to widely used petrol and diesel before starting the fuel distribution, State Power and Energy Minister D V Chanaka said.
+
+The Shell and RM Parks (Private) Limited have already signed retail brand license and product supply agreements. However, the start of fuel distribution through 150 local fuel stations has yet to be started.
+
+“They have already brought diesel and petrol consignments to Sri Lanka,” Chanaka told reporters at a media briefing in Colombo.
+
+“They (Shell) requested to allow them to start work after they brought those two products. We told them that we have no ability to grant such permission.”
+
+“We can give that opportunity only when they bring all 4 main products diesel, petrol, Octane 95 and super diesel.”
+
+...
+
+[Data](articles/2a394463.json)
 
 ---
 
@@ -506,6 +622,26 @@ Accordingly, the relevant appointment will be in place until the Cabinet of Mini
 
 ---
 
+### Sri Lanka rupee closes stronger at 296.00/30 to US dollar
+
+*2024-04-26 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-296-00-30-to-us-dollar-160215/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 296.00/30 to the US dollar on Friday from 296.85/297.00 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 11.15/20 percent from 11.28/32 percent.
+
+A bond maturing on 15.09.2027 closed down at 11.55/65 percent from 11.70/80 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.90/12.00 percent from 11.95/12.05 percent.
+
+A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr26/2024)
+
+◼️
+
+[Data](articles/2ba306eb.json)
+
+---
+
 ### Bar Association invited to be a mediator
 
 *2024-04-26 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196001) · `si`
@@ -545,6 +681,30 @@ The Chief Guest for the first-leg in Colombo will be the 1985 Royal Skipper Chir
 [Data](articles/4e0eb488.json)
 
 [Extended Data](ext_articles/4e0eb488.ext.json)
+
+---
+
+### Sri Lanka stocks close up, capital goods drive turnover
+
+*2024-04-26 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-capital-goods-drive-turnover-160211/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 1.04 percent, or 125.03 points, at 12201.01; while the S&P SL20 Index closed up 2.83 percent, or 98.77 points, at 3,593.
+
+Turnover was at 4.1 billion. 1.4 of this came from the capital goods sector.
+
+Hayleys Plc saw the most active trading (Rs508mn), the share closed down at 83.30.
+
+Hemas Holdings Plc also saw interest (Rs271mn), and the share closed up at 86.50
+
+Major positive contributors to the ASPI included Commercial Bank of Ceylon Plc which was up at 114.50, Hatton National Bank Plc up at 200.00, and Aitken Spence Plc up at 136.00.
+
+There was a net foreign outflow of 288 million. (Colombo/Apr26/2024)
+
+◼️
+
+[Data](articles/b5e3b349.json)
 
 ---
 
@@ -732,6 +892,26 @@ Later last week, the woman was taken to the orphaned house and the brother added
 
 ---
 
+### நீதிமன்ற தீர்ப்புக்கு முன் வழக்கு தீர்ப்பு  வெளிவந்திருப்பது தொடர்பில் விசாரணை நடத்த வேண்டும் - ஹரீன்
+
+*2024-04-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182007) · `ta`
+
+எமக்கு எதிராக தொடுக்கப்பட்ட வழக்கின் தீர்ப்பானது  இன்னும் வழங்கப்படாத நிலையில் இரண்டு நீதிபதிகள் குறித்த தீர்ப்பை எழுதி  இருப்பதாக எதிர்க்கட்சித் பிரதமகொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்திருந்தார். இது பாரிய சிறப்புரிமை மீறலாகும்.
+
+அதேநேரம் சட்டத்தில் தலையீடு செய்யப்பட்டிருக்கிறதா என்ற சந்தேகம் எழுகிறது. அதனால் நீதிமன்ற தீர்ப்பு வழங்காத நிலையில் அந்த தீர்ப்பு எவ்வாறு வெளியில் வந்தது என்பது தொடர்பில்  தெரிவுக்குழு அமைத்து விசாரணை நடத்த வேண்டும் என அமைச்சர் ஹரின் பெர்ணான்டோ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) சிறப்புரிமை மீறல் பிரச்சினை ஒன்றை முன்வைத்து குறிப்பிடுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+எமக்கு எதிராக தொடுக்கப்பட்டிருக்கும் வழக்கு தீர்ப்பு ஒன்றுதொடர்பில் எதிர்க்கட்சி பிரதமகொறடா சபையில் தெரிவித்திருந்தார்.
+
+அதில் எமக்கு எதிரான வழக்கு விசாரணையில் இருந்த 3 நீதிபதிகளில் 2நீதிபதிகள் தீர்ப்பை வழங்கியுள்ளதாகவும் ஒரு நீதிபதி அதனை வழங்காமல் இருக்கின்றார். அதனால் விரைவாக வழக்கிற்கு  தீர்ப்பை வழங்காவிட்டால் அவரின் பெயரை வெளியிடுவதாகவும் குறிப்பிட்டிருந்தார்.
+
+...
+
+[Data](articles/02e8466f.json)
+
+---
+
 ### 14 hour water cut in Colombo tomorrow
 
 *2024-04-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195997) · `si`
@@ -817,6 +997,22 @@ The suspects were arrested while holding 434 grams of ice.
 [Data](articles/879ccd5a.json)
 
 [Extended Data](ext_articles/879ccd5a.ext.json)
+
+---
+
+### Sri Lanka to draft criminal asset recovery law
+
+*2024-04-26 14:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-draft-criminal-asset-recovery-law-160168/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s legal draftsman has been instructed to draft a bill on criminal asset recovery, Cabinet spokesman Bandula Gunawardena said.
+
+“The Legal Draftsman has been instructed to prepare a bill based on the recommendations of the expert committee appointed to study the policy, legal framework and procedure required to recover the proceeds earned from crime,” Gunawardena said.
+
+The International Monetary Fund required that Sri Lanka introduce a comprehensive law on recovery of criminal assets by 2024 in return for its comprehensive loan facility. (Colombo/Apr26/2024)
+
+◼️
+
+[Data](articles/c76b99a8.json)
 
 ---
 
@@ -935,6 +1131,24 @@ Labor and Foreign Employment Minister Manusha Nanayakkara has instructed the off
 [Data](articles/962f3644.json)
 
 [Extended Data](ext_articles/962f3644.ext.json)
+
+---
+
+### Sri Lanka panel to draw up  petroleum regulator law
+
+*2024-04-26 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-panel-to-draw-up-petroleum-regulator-law-160157/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved appointing a panel to draft a law to set up petroleum regulator, Minister Bandula Gunawardana said.
+
+The regulator will cover liquified petroleum gas, petrol, diesel, kerosene, aviation fuel and lubricants.
+
+The committee headed by the Secretary to the Energy Ministry will draw up the legal framework, Gunawardana told reporters on Friday.
+
+“Cabinet of Ministers approved the proposal to establish a Regulator for the Energy Sector. PUCSL will remain as the Electricity sector Regulator and a new Regulator will be introduced for Petroleum, LPG, LNG, Lubricants, Oils & Energy Sectors,” Energy Minister Kanchana Wijesekera said on X.
+
+...
+
+[Data](articles/488de373.json)
 
 ---
 
@@ -1452,6 +1666,44 @@ The victim was a 39 year old warm soldier from Galgamuwa and the Kizakkulam Poli
 
 ---
 
+### SriLankan to codeshare with Air Seychelles to Africa
+
+*2024-04-26 12:48:00* · [`economynextcom`](https://economynext.com/srilankan-to-codeshare-with-air-seychelles-to-africa-160133/) · `en`
+
+ECONOMYNEXT – State-run SriLankan and and Air Seychelles, the national airline of the Republic of Seychelles, have embarked on a codeshare partnership which could lead to multiple new destinations throughout Asia, Africa and Australia for their passengers flying between Colombo and Mahé, SriLankan said in a statement.
+
+The new move empowers SriLankan Airlines to amplify its position and reach in Africa and to travel conveniently between Colombo and Mahé twice a week. Mahé is the largest island of the Seychelles archipelago.
+
+For Air Seychelles, over 20 destinations are included in the partnership, which includes much requested destinations such as Sydney and Melbourne in Australia as well as other popular stops in India, Thailand, Malaysia and Singapore.
+
+...
+
+[Data](articles/162196eb.json)
+
+---
+
+### German research ship allowed Sri Lanka port call after Chinese-protest led clarification
+
+*2024-04-26 12:31:00* · [`economynextcom`](https://economynext.com/german-research-ship-allowed-sri-lanka-port-call-after-chinese-protest-led-clarification-160119/) · `en`
+
+ECONOMYNEXT – Sri Lanka has allowed a German research vessel for replenishment in Colombo port for the second time following the clarification from the island nation’s Foreign Ministry after Chinese protest.
+
+“It’s the same German research vessel came last month. It came around New Year time when it was returning and the ship was allowed,” a top Foreign Ministry official told Economy Next referring to Sri Lanka’s traditional New Year celebrated on April 14.
+
+Another Foreign Ministry official confirmed the German research vessel’s Colombo port call.
+
+The Foreign Ministry last month clarified a confusion related to ban on foreign research vessels.
+
+It said Sri Lanka will allow offshore research ships for replenishment at the island nation ports despite the one-year ban on such vessels. #
+
+The clarification came after strong protest by China over Sri Lanka allowing the same German research vessel last month.
+
+...
+
+[Data](articles/14aa3fbd.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-04-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182005) · `ta`
@@ -1467,6 +1719,30 @@ The US purchasing price of the US on Friday (April 26) was reported at the US tr
 [Data](articles/df70aa1c.json)
 
 [Extended Data](ext_articles/df70aa1c.ext.json)
+
+---
+
+### Sri Lanka’s Mattala Airport to be managed by India, Russia companies
+
+*2024-04-26 12:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-mattala-airport-to-be-managed-by-india-russia-companies-160117/) · `en`
+
+ECONOMYNEXT – Management of Sri Lanka’s southern Mattala Rajapaksa International Airport has been awarded to a Russia and India joint venture, cabinet spokesman Bandula Gunawardena said.
+
+“Five parties submitted Expressions of Interest and the cabinet approved the decision to award it to the Russia-India joint venture on a 30-year contract.”
+
+The companies were named as Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
+
+The China-built airport has struggled to attract regular traffic, even after a raft of special concessions were offered for international airlines operating from the airport, including discounts on landing and parking charges.
+
+The losses of the airport were reduced by 30 percent, Ports and Aviation Minister Nimal Siripala de Silva told parliament in December.
+
+Sri Lanka’s Mattala Airport loses billion rupees in 2023: Minister
+
+This week Iran’s President Seyyed Ebrahim Raisi landed at the airport in an Airbus A340. (Colombo/Apr26/2024)
+
+◼️
+
+[Data](articles/95d75f2b.json)
 
 ---
 
@@ -1949,337 +2225,5 @@ Colombo High Court Judge Damith Thatawatte ordered the exams to maintain the cas
 [Data](articles/f20d917e.json)
 
 [Extended Data](ext_articles/f20d917e.ext.json)
-
----
-
-### Rev. Ulapane Thera and others arrested
-
-*2024-04-26 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195984) · `si`
-
-Rev. Ulapane Thera and others arrested. Colombo Magistrate's Court orders five suspects, including Sumangala Thera, to be released on bail. A foreign traffic ban is imposed on Ulapane Sumangala Thera. The Magistrate warns suspects against witness pressure. Sumangala Thero accused of obstructing the dismissal of shanty houses at Dabara Road, Narahenpita.
-
-🟩
-
-The Colombo Magistrate's Court ordered five suspects, including the suspects who were remanded in connection with the activities of state officials without obstructing the activities of state officials.
-
-Accordingly, four suspects including Sumangala Thera were ordered to be released on bail of Rs.
-
-There is a foreign traffic ban on the Venerable Ulapane Sumangala Thera.
-
-The Magistrate admonished the suspects to avoid pressure from the Witnesses.
-
-Sumangala Thero was accused of obstruction of dismissing several shanty houses at the Dabara Road, Narahenpita.
-
-◼️
-
-[Data](articles/519de48a.json)
-
-[Extended Data](ext_articles/519de48a.ext.json)
-
----
-
-### BIA welcomes Maldivian Airlines
-
-*2024-04-26 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BIA-welcomes-Maldivian-Airlines/108-281422) · `en`
-
-Colombo, April 26 (Daily Mirror) - The Bandaranaike International Airport (BIA) welcomed the Maldivian Airlines as they launched their newest flight route connecting Colombo, Sri Lanka with Male, Maldives, the Airport & Aviation Services Sri Lanka Private Ltd (AASL) said.
-
-They said the Maldivian, the renowned flag carrier of the Maldives, operates two weekly flights departing every Thursday and Saturday, providing flexible options for both leisure and business travellers.
-
-Launching its operations, the first flight arrived at the BIA with 138 passengers. The flight was welcomed by a celebratory water cannon salute upon arrival and the passengers were warmly welcomed with Sri Lanka Tea Board-sponsored Ceylon Tea gift packs, followed by a traditional Kandyan dance performance.
-
-◼️
-
-[Data](articles/71ba0b05.json)
-
-[Extended Data](ext_articles/71ba0b05.ext.json)
-
----
-
-### A new tool to control the breeding of monkeys in Sri Lanka
-
-*2024-04-26 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181987) · `ta`
-
-The University of Peradeniya has developed a new uterine tool for controlling monkey breeding, initially tested on a 1.5-year-old monkey. The tool, which was adapted from a pregnancy prevention device for humans, has been successfully used in a radiological examination. Collaboration between the Department of Maternity and Neurology and the Paradise Faculty of Dental Medicine is noted. The tool, costing 2000 rupees, aims to manage monkey populations.
-
-🟩
-
-The veterinary pedestal at the University of Peradeniya has introduced a new uterine tool to control the breeding of monkeys.
-
-The instrument was once used for testing for a one -and -a -half -year -old monkey.
-
-Senior Professor Asoka Thangolla from the University of Peradeniya University said that the radiological examination carried out after the test was noticed that the uterus was successfully operated.
-
-It reached the throat when it used the normal level of tool in the practice of preventing pregnancy for women. So we decided to create a small ring.
-
-He noted that the doctors of the Department of Maternity and Neurology of the Peradeniya Teaching Hospital and the Paradise Faculty of Dental Medicine in Peradeniya have cooperated with the effort.
-
-“It takes half an hour to calm the animal, which takes another half an hour for surgery. This time it has the potential to control the number of monkeys in the country. ”
-
-It is said that the ring will cost 2000 rupees to produce the new uterine tool.
-
-◼️
-
-[Data](articles/29bb74c3.json)
-
-[Extended Data](ext_articles/29bb74c3.ext.json)
-
----
-
-### Soldier killed in vehicle accident;Four people were injured
-
-*2024-04-26 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/181989) · `ta`
-
-A soldier died, and four were injured in a crash on the Mullaitivu A9 road. The accident involved a car returning from Jaffna to a military camp in Thirumurugandi. The deceased soldier's body is at Clichi District General Hospital, with Mankulam police investigating.
-
-🟩
-
-A soldier was killed and four others were injured in a vehicle accident on the Mullaitivu A9 road.
-
-The accident occurred on Friday morning (26), a car that was traveling to Jaffna on the A.09 road and returning to a military camp in Thirumurugandi area.
-
-A soldier in a Kepraku vehicle was killed and four others were injured when the two vehicles crashed.
-
-The body of the deceased soldier has been placed at the Clichi District General Hospital and further investigations are being carried out by the Mankulam police.
-
-◼️
-
-[Data](articles/9ae55f6e.json)
-
-[Extended Data](ext_articles/9ae55f6e.ext.json)
-
----
-
-### Soldier killed in accident
-
-*2024-04-26 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முறிகண்டி-விபத்தில்-இராணுவ-வீரர்-பலி/72-336370) · `ta`
-
-A soldier died in an accident on A9 road near Mudikandi, Mullaitivu District, on Wednesday morning. The military vehicle was trying to overtake another when it collided with a car, killing one soldier. The deceased was taken to Kilinochchi Hospital.
-
-🟩
-
-A soldier was killed in an accident that took place on Wednesday morning (26) in the Mudikandi area of the Mangulam Police Division of the Mullaitivu District.
-
-The incident took place at 6 am. The accident occurred on the A9 road of the Vasanthanagar junction.
-
-The military cup, which traveled from Colombo to Jaffna to Jaffna, is trying to overtake a military cup.
-
-At the time, the cup vehicle is not operating. The driver is trying to pay the car with the intention of causing the accident, fearing that the vehicle will crash face -to -face.
-
-In the meantime, two soldiers who were traveling in a car collided with a car.
-
-One of them died at the scene of the incident.
-
-The body of the deceased has been placed at the Kilinochchi Hospital after investigations.
-
-◼️
-
-[Data](articles/7da955f4.json)
-
-[Extended Data](ext_articles/7da955f4.ext.json)
-
----
-
-### The boy's gold jewelery robbery
-
-*2024-04-26 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/181986) · `ta`
-
-A boy, posing as a doctor, stole 3.82 lakhs worth of gold jewelry from a patient at Kiliyapitiya Teaching Hospital.
-
-🟩
-
-Police said that the boy who went to the hospital with his mother at the Kiliyapitiya Teaching Hospital on Thursday was acting as a doctor.
-
-The stolen gold jewelery is worth about 3 lakhs 82 thousand rupees, police said.
-
-Anukane has gone to Kuliyapitiya Teaching Hospital for treatment of a child's leg injury.
-
-The police said that a person who called himself a doctor had to scan the boy and put the gold jewelery he was wearing and put it in the bag.
-
-In addition, the person has escaped with gold jewelery in the hospital in the hospital, a high -ranking police officer said.
-
-◼️
-
-[Data](articles/95c52ddc.json)
-
-[Extended Data](ext_articles/95c52ddc.ext.json)
-
----
-
-### Army soldier killed, 9 injured in Mankulam cab-lorry crash
-
-*2024-04-26 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98855/army-soldier-killed-9-injured-in-mankulam-cab-lorry-crash) · `en`
-
-An army soldier died and 9 others were injured after a lorry collided with an army cab in Mankulam on Friday morning (26).
-
-According to the police media division, a lorry en route to Kilinochchi has rear-ended an army cab carrying a group of soldiers near the Vasanthanagar junction.
-
-One of the soldiers who was in critical condition succumbed to his injuries while being rushed to the Kilinochchi District General Hospital. He was identified as a 39-year-old from Galgamuwa, a sergeant attached to the Murukkandi army camp.
-
-The nine other soldiers who were wounded in the accident are currently receiving treatment at the Kilinochchi hospital.
-
-The driver of the lorry has been arrested in connection with the accident and Mankulam Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/57375b97.json)
-
-[Extended Data](ext_articles/57375b97.ext.json)
-
----
-
-### E - Special instruction in connection with visa
-
-*2024-04-26 10:02:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-தொடர்பில்-விசேட-அறிவுறுத்தல்/175-336369) · `ta`
-
-New visa procedure introduced to prevent fraud. Use official website www.immigration.gov.lk. Beware of fake websites.
-
-🟩
-
-E - The Department of Immigration and Emigration is advised to use the official website www.immigration.gov.lk.
-
-With the introduction of a new visa procedure since the 17th, the instruction has been aimed at avoiding fraud.
-
-In addition, it has been warned that there is a risk of cheating people through fake websites.
-
-◼️
-
-[Data](articles/367fd40a.json)
-
-[Extended Data](ext_articles/367fd40a.ext.json)
-
----
-
-### New Resolution on Permanent Appointment
-
-*2024-04-26 09:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிரந்தர-நியமனம்-தொடர்பில்-புதிய-தீர்மானம்/175-336368) · `ta`
-
-New resolution aims to provide permanent appointments to local council employees. Provincial Councils, Local Government, and Environment Minister Janaka Wakambura announced this, following a meeting with President Ranil Wickremesinghe. The focus is on 8,400 employees in local government companies.
-
-🟩
-
-Focus on providing permanent appointment to employees working in local councils.
-
-Provincial Councils, Local Government and Environment Minister Janaka Wakambura made this statement.
-
-A discussion was held at the Presidential Secretariat yesterday afternoon between President Ranil Wickremesinghe and members of the ruling party.
-
-Accordingly, he has stated that 8,400 employees in local government companies have been focused on granting permanent appointment.
-
-◼️
-
-[Data](articles/4ffeb8ad.json)
-
-[Extended Data](ext_articles/4ffeb8ad.ext.json)
-
----
-
-### Sri Lanka among main countries with asthma in the world
-
-*2024-04-26 09:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-main-countries-with-asthma-in-the-world/108-281414) · `en`
-
-Colombo, April 26 (Daily Mirror) - Sri Lanka has come to the forefront among the countries in the world suffering from asthma, Sri Lanka Respiratory Disease Specialists' Association President Dr. Neranjan Dissanayake said.
-
-He said between 10% and 15% of the country's population suffers from asthma, and it affects children, young adults and the elderly with great mental and physical discomfort.
-
-If asthma is not controlled properly, it can even lead to death. About 95% of asthma patients can be controlled with simple, very cost-effective, high-performance medications, Dr. Dissanayake said.
-
-But, unfortunately, around 500,000 people worldwide die from asthma every year, he said.
-
-This year, Asthma Day falls on May 7, and an awareness programme has been organized by the Association of Respiratory Disease Specialists, Dr. Dissanayake said.
-
-◼️
-
-[Data](articles/fbde782a.json)
-
-[Extended Data](ext_articles/fbde782a.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 296.10/20 to US dollar
-
-*2024-04-26 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-296-10-20-to-us-dollar-160093/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 296.10/20 to the US dollar on Friday after closing at 296.85/297.00 Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 11.28/35 percent from 11.28/32 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 11.70/75 percent from 11.70/80 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/20 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.55 percent at 12,141, while the S&P SL20 was up 0.91 percent at 3,626. (Colombo/Apr26/2024)
-
-◼️
-
-[Data](articles/c47ae6d4.json)
-
-[Extended Data](ext_articles/c47ae6d4.ext.json)
-
----
-
-### Haiti’s Prime Minister Ariel Henry resigns, transitional council takes power
-
-*2024-04-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98854/haitis-prime-minister-ariel-henry-resigns-transitional-council-takes-power) · `en`
-
-Haiti opened a new political chapter Thursday with the installation of a transitional council tasked to pick a new prime minister and prepare for eventual presidential elections, in hopes of quelling spiraling gang violence that has killed thousands in the Caribbean country.
-
-Ariel Henry, the prime minister who had been locked out of the country for the past couple of months due to the violence, cleared the way for the transition by presenting his resignation in a letter signed in Los Angeles.
-
-The document was released Thursday in Haiti on the same day as the new transitional council was sworn in to choose a new prime minister and Cabinet. Henry’s outgoing Cabinet chose Economy and Finance Minister Michel Patrick Boisvert as interim prime minister in the meantime. It was not immediately clear when the transitional council would name its own choice for interim prime minister.
-
-...
-
-[Data](articles/c0cccfc0.json)
-
-[Extended Data](ext_articles/c0cccfc0.ext.json)
-
----
-
-### The driver of Lithuania has been a career
-
-*2024-04-26 09:41:58* · [`adalk`](https://www.ada.lk/breaking_news/ලිතුවේනියාවේ-බරවාහන-රියදුරු-රැකියාව-සිහිනයක්-කරලා/11-409276) · `si`
-
-Two Sri Lankan drivers deported from Lithuania due to job scarcity were part of a delegation of 10,000 students. They were detained in Lithuania, lost their residential visas, and faced financial hardships.
-
-🟩
-
-Two Sri Lankans who were deported from Lithuania were deported from Lithuania in the Katunay Airport on the morning of the lack of jobs, food, and lodging drivers in Lithuania.
-
-Ten thousand Sri Lankan students, including both of them, left for a Colombo-in Colombo job delegation, and to serve as vehicles for Lithuania.
-
-The Katunayake Airport, a resident of Unawatuna, Galle, Galle arrived at the Bandaranawatuna, Galle.
-
-"I was working as a heavy driver from the Colombo port and two heavy vehicles belonging to myself were employed in the port. But under the current economic situation in Sri Lanka, the vehicles were prepared to sell and travel to a UN job delegation to a Colombo job delegation by paying Rs.. In addition to this amount, we bought many other airline tickets.
-
-Prime Minister Dinesh Gunawardena was also present at the occasion ceremony with Lithuania.. So we have been detained.
-
-...
-
-[Data](articles/20dca945.json)
-
-[Extended Data](ext_articles/20dca945.ext.json)
-
----
-
-### Another direct flight between the flights and Sri Lanka
-
-*2024-04-26 09:39:58* · [`adalk`](https://www.ada.lk/breaking_news/මාලදවයින-හා-ලංකාව-අතර-තවත්-සෘජු-ගුවන්-ගමනක්/11-409275) · `si`
-
-A direct flight from Katunayake Airport, Colombo, to the Maldives is scheduled for Saturday, with the PMGala flight A320 Airbus plane, led by Transport and Civil Aviation Minister Captain Mohammed Amit, making the journey.
-
-🟩
-
-The Mangala arrived at the Katunayaka Airport on the night of the Katunayaka, the Katunayaka of the Maladivian Airport, Colombo.
-
-The airplane arrived at the Katunayake airport at the Katunayake airport at 09.55 pm.And Saturday is scheduled to engage in flights between Katunayake and Maladives.
-
-The airline, a low cost airline, was deployed by the PMGala flight A320 Air bus plane and the flight of Transport and Civil Aviation Minister Captain Mohammed Amit was also present.
-
-◼️
-
-[Data](articles/3aea32c3.json)
-
-[Extended Data](ext_articles/3aea32c3.ext.json)
 
 ---

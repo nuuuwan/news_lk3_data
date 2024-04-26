@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 21:18:33**
+As of **2024-04-26 21:34:06**
 
 ## Newspaper Stats
 
-*Scraped **21,168** Articles*
+*Scraped **21,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,771
 tamilmirrorlk | 2,449
-adaderanalk | 2,521
+adaderanalk | 2,522
 virakesarilk | 3,189
 dailymirrorlk | 3,301
 adaderanasinhalalk | 3,417
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,417
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,168 (100.0%) of 21,168 articles have been extended.
+21,168 (100.0%) of 21,169 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Venice introduces entry fee for day-trippers to tackle mass tourism
+
+*2024-04-26 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98873/venice-introduces-entry-fee-for-day-trippers-to-tackle-mass-tourism) · `en`
+
+After many years of preparation, Venice has finally debuted its controversial five-euro entry toll for tourists without a hotel reservation this Thursday (25).
+
+This unprecedented measure – being the first city in the world to impose such a fee – has a clear objective: to confront mass tourism that has threatened the fragile balance of the city of canals for too many years, relentlessly driving out its residents.
+
+The figures are quite graphic because, even though there are only about 50,000 residents living in the islands of Venice – not counting those living on the mainland – on days of high pressure, there can be up to 40,000 visitors in Venice at once.
+
+Just last year, 20 million tourists came to walk through its alleyways. After having banned large cruise ships from the historic center in 2021, the City Council of La Serenissima has now decided to opt for an original measure after UNESCO threatened to include the municipality in the blacklist of endangered World Heritage Sites.
+
+...
+
+[Data](articles/971dc53c.json)
+
+---
 
 ### Beef asking for pleasure at prison
 
@@ -68,15 +86,15 @@ He said that when legal and relatives arrived to meet the suspect, the police of
 
 *2024-04-26 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98872/high-posts-committee-green-lights-several-new-appointments) · `en`
 
-The Committee on High Posts has approved the appointments of a new ambassador, a ministry secretary and two chairpersons of state institutions.
+The Committee on High Posts has green-lighted the appointment of a new ambassador, a ministerial secretary and two chairpersons to state institutions.
 
-Accordingly, the Committee on High Posts has approved the appointment of Mr. S.A. Rodrigo as the new Sri Lankan Ambassador to Italy.
+• Mr. A.C.M. Nafeel – Secretary to Ministry of Water Supply and Estate Infrastructure Development
 
-In addition to that, the appointment of Mr. A.C.M. Nafeel as the new Secretary of the Ministry of Water Supply and Estate Infrastructure Development was also approved by the Committee on High Posts.
+• Mr. W.A.D.S. Gunasinghe – Chairman of Regional Development Bank
 
-Furthermore, the Committee on High Posts approved the appointments of Mr. W.A.D.S. Gunasinghe as the new chairman of the Regional Development Bank and Mr. N.K.S. Jayasekara as the new chairman of the Sri Lanka Atomic Energy Regulatory Council.
+• Mr. N.K.S. Jayasekara – Chairman of Sri Lanka Atomic Energy Regulatory Council
 
-Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen participated in the meeting of the High Posts Committee which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
+Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen participated in the recent meeting of the High Posts Committee which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
 
 ◼️
 
@@ -2263,29 +2281,5 @@ These activities have been organized by the Swedish Foreign Committee of the Nat
 [Data](articles/96291dbe.json)
 
 [Extended Data](ext_articles/96291dbe.ext.json)
-
----
-
-### Parliamentary proceedings begun
-
-*2024-04-26 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195982) · `si`
-
-Parliamentary proceedings start today, focusing on the Passover attack. SriLankan Airlines heads and the Department of Parliament, National Institute of Business Management, and Mahapola Higher Education Fund were summoned to the COPE Committee.
-
-🟩
-
-Parliamentary affairs have commenced today (26).
-
-Parliament will be held today on the third day of the PSC on the Passover attack.
-
-Meanwhile, the heads of SriLankan Airlines have been summoned before the COPE Committee.
-
-The Department of Parliament, the National Institute of Business Management and the Mahapola Higher Education Fund have been summoned before the committee yesterday.
-
-◼️
-
-[Data](articles/f6524251.json)
-
-[Extended Data](ext_articles/f6524251.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 12:34:06**
+As of **2024-04-26 12:51:27**
 
 ## Newspaper Stats
 
-*Scraped **21,093** Articles*
+*Scraped **21,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,763
 tamilmirrorlk | 2,446
 adaderanalk | 2,509
 virakesarilk | 3,174
-dailymirrorlk | 3,283
+dailymirrorlk | 3,284
 adaderanasinhalalk | 3,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,092 (100.0%) of 21,093 articles have been extended.
+21,093 (100.0%) of 21,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Massive money transferring scam from accounts without notice: MP reveals
+
+*2024-04-26 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Massive-money-transferring-scam-from-accounts-without-notice-MP-reveals/108-281426) · `en`
+
+Parliament, April 26 (Daily Mirror)- A massive scam is being operated where money is transferred from current and savings accounts to other multiple accounts without any notice to the account holder, an Opposition MP revealed in Parliament.
+
+MP Gamini Waleboda told Parliament that people have complained that money from their current and savings accounts have been transferred to multiple other accounts within a day without the account holder getting any notification of the transfers.
+
+He said people who had done online transactions had fallen victims to this scam.
+
+The MP said Rs. 1.1 million from an account of a Buddhist monk from Balangoda had been transferred in this manner and it was found that a group of people who had been trained under an institute engaged in providing online transaction training were behind the scam.
+
+He urged the House to report the matter to the Central Bank and look into it soon, claiming that money had been transferred from some 1000 accounts so far.
+
+◼️
+
+[Data](articles/7af2b5c0.json)
+
+---
 
 ### Several political decisions taken at meeting between President & ruling party MPs
 
@@ -49,6 +69,8 @@ The meeting was participated by all MPs of the ruling party including Prime Mini
 ◼️
 
 [Data](articles/d0e0ce6a.json)
+
+[Extended Data](ext_articles/d0e0ce6a.ext.json)
 
 ---
 
@@ -2147,31 +2169,5 @@ Highlighting the successful rebuilding of the collapsed economy within two years
 [Data](articles/b219c5ae.json)
 
 [Extended Data](ext_articles/b219c5ae.ext.json)
-
----
-
-### Special notice from the Department of Immigration and Emigration
-
-*2024-04-25 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195972) · `si`
-
-The Department of Immigration and Emigration has issued a special notice, advising the public to use only the e-visa link on their website. They've also warned against scams, mentioning a website similar to http://www.srilankaevisa.lk. They've launched a new online system for immigration.
-
-🟩
-
-The Department of Immigration and Emigration has issued a special announcement to the public.
-
-It has been informed that only the website e visa link is used on the website.
-
-The Department of Immigration, further showed that there are reports that there are times when there are cases of money equivalent to http://www.srilankaevisa.lk.
-
-The Department further stated that the Department has said that the implementation of the new online system of immigration and the implementation of the new online method has been launched.
-
-The demise of the Immigration and Emigration's Department is listed below,
-
-◼️
-
-[Data](articles/86d7df4f.json)
-
-[Extended Data](ext_articles/86d7df4f.ext.json)
 
 ---

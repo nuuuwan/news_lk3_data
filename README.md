@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 16:34:02**
+As of **2024-04-26 16:49:33**
 
 ## Newspaper Stats
 
-*Scraped **21,135** Articles*
+*Scraped **21,138** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 221
+bbccomsinhala | 222
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,766
+adalk | 1,767
 tamilmirrorlk | 2,447
 adaderanalk | 2,514
 virakesarilk | 3,189
 dailymirrorlk | 3,292
-adaderanasinhalalk | 3,408
+adaderanasinhalalk | 3,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,135 (100.0%) of 21,135 articles have been extended.
+21,135 (100.0%) of 21,138 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,22 @@ The water cut will be implemented in Colombo 5 and Colombo 6, Dehiwala, Malkisai
 [Data](articles/b6239b1e.json)
 
 [Extended Data](ext_articles/b6239b1e.ext.json)
+
+---
+
+### චීන ජනපති අමෙරිකාවට හොඳ හිත පෙන්වයි
+
+*2024-04-26 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195998) · `si`
+
+චීනය සහ අමෙරිකාව, "ප්‍රතිවාදීන් නොව හවුල්කරුවන් විය යුතු" බව චීන ජනාධිපති ෂී ජින්පින් පැවසීය.
+
+ඔහු ඒ බව පැවසුවේ අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනි බ්ලින්කන් සමග පැවති හමුවකදීය.
+
+චීන ජනාධිපතිවරයා පවසා ඇත්තේ එකිනෙකාට අන්‍යෝන්‍ය ගෞරවය දැක්වීම, සාමකාමී සහජීවනය සහ දෙපාර්ශ්වයටම වාසිදායක සහයෝගීතාවය පවත්වාගෙන යෑම දෙරටේ සම්බන්ධතා ශක්තිමත් කරගැනීමට වැදගත් ප්‍රධාන ප්‍රතිපත්ති ත්‍රිත්වය වියයුතු බවය.
+
+◼️
+
+[Data](articles/2006b865.json)
 
 ---
 
@@ -700,6 +716,24 @@ In addition, Colombo High Court Judge Tamittawatta has also ordered an inquiry i
 
 ---
 
+### යුදහමුදා කැබ්රථයක් සහ ලොරියක් ගැටී සෙබලෙකු මරුට 09 කට තුවාල
+
+*2024-04-26 12:49:21* · [`adalk`](https://www.ada.lk/breaking_news/යුදහමුදා-කැබ්රථයක්-සහ-ලොරියක්-ගැටී-සෙබලෙකු-මරුට-09-කට-තුවාල/11-409279) · `si`
+
+යාපනය මහනුවර ඒ-9 ප්‍රධාන මාර්ගයේ මාන්කුලම් වසන්තනගර් සහ මුරුකණ්ඩි අතර අද (26) උදෑසන යුදහමුදා කැබ් රථයක් සහ ලොරියක් ගැටීමෙන් යුදහමුදා සෙබලෙකු මිය ගොස් තවත් 09 දෙනෙකු තුවල ලබා ඇතැයි මන්කුලම් පොලීසිය පැවසීය.
+
+ඒ්- 9 ප්‍රධාන මාර්ගයේ මාන්කුලම් සිට කිලිනොච්චිය දෙසට යුදහමුදා කැබ්රථය ධාවනය වී ඇති අතර ඒ දෙසටම පිටුපසින් ලොරියක්ද ධාවනය වී ඇත. එහිදී ලොරිරථය කැබ්රථය පසුකොට යාමට ගත් උත්සයකදී ඉදිරියෙන් තවත් වාහනයක් ප්‍රතිවිරුද්ධ දෙසට ධාවනය වීම හේතුවෙන් ලොරියේ රියදුරු ඒකවරම ලොරිය කැබ්රථය දෙසට හරවීමෙන් කැබ්රථයේ ලොරිය ගැටී ඇති බවට මූලික පොලිස් පරික්ෂණවලදී හෙලි වී ඇත.
+
+අනතුරුව කැබ්රථය පිටුපස ගිය යුදහමුදා සෙබලුන් දෙදෙනෙකු ඉන් විසවී ලොරියේ ගැටී ඇති අතර ඒ් සමගම ලොරි රියදුරු ඔවුන් බේරීමට ගත් උත්සහයකදී ලොරිය පෙරලී ගොස් ඇත.
+
+අනතුරින් කැබ්රථයේ ගිය යුදහමුදා සෙබලුන් සහ ලෙරි රථයේ රියුදරු ඇතුලු 09 දෙනෙකු තුවල ලබා කිලිනොච්චිය මහරෝහලට රැගෙන ගොස් ඇති අතර ලොරියේ ගැටුනු එක් යුදහමුදා සෙබලෙකු එම ස්ථනයේම මිය ගො ඇතැයි පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/e5c1ebbf.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-04-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182005) · `ta`
@@ -1125,6 +1159,26 @@ However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of t
 [Data](articles/7866aa8a.json)
 
 [Extended Data](ext_articles/7866aa8a.ext.json)
+
+---
+
+### 'මම ලියන හැටි': ආරියවංශ අබේසේකර
+
+*2024-04-26 10:50:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pynwz6y5ro) · `si`
+
+මම ලියන හැටි සංවාද මාලාවේ අවසාන කොටස වෙනුවෙන් අප තෝරා ගෙන ඇති ආරියවංශ අබේසේකර යනු සිය කෘතීන් ඔස්සේ අද්විතීය ප්‍රබන්ධ ලෝකයක් නිර්මාණය කරන සිංහල සාහිත්‍ය ඉතිහාසයේ අපට හමුවන සුවිශේෂී නවකතාකරුවෙකි.
+
+'දාගේ' කෘතිය ඔස්සේ 1988 දී නවකතාකරණයට ප්‍රවේශ වන ඔහු චාරුමන්දා, මතකවත, මාතෘකාවක් සොයන වචන අනූ තුන්දාහක් සහ ආරාමදාස යන නවකතා රචනා කරමින් සිය අනන්‍යතාව සිංහල සාහිත්‍යය තුළ සලකුණු කර ඇත.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය. මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේ ම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන කාලයට හැසිරෙන හැටි සහ ලියන විට විඳින සතුට වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+...
+
+[Data](articles/377cc2eb.json)
 
 ---
 
@@ -2181,63 +2235,5 @@ Intelligence Committee has been launched by the Intelligence Unit of Sri Lanka. 
 [Data](articles/00249b03.json)
 
 [Extended Data](ext_articles/00249b03.ext.json)
-
----
-
-### Clarification issued regarding milk powder price reduction misinformation
-
-*2024-04-26 01:31:55* · [`dailyftlk`](https://www.ft.lk/news/Clarification-issued-regarding-milk-powder-price-reduction-misinformation/56-761053) · `en`
-
-In response to recent media reports regarding a purported reduction in the price of imported milk powder starting 25 April, the Milk Powder Importers Association has issued a clarification, stating that such information is inaccurate.
-
-Contrary to the reported claims, all milk powder brands had already reduced their prices effective 1 April, in accordance with a request from the Trade Ministry. The move was aimed at providing relief to consumers during the Avurudu season, with the maximum retail price set at Rs. 1,050 for a 400g pack.
-
-The Milk Powder Importers Association emphasises that there have been no additional reductions in prices as of 25 April, contrary to the misinformation circulating in the media.  It has been confirmed that several milk powder brands are being sold at prices lower than the stipulated maximum retail price (MRP), with various promotional offers further driving down costs for consumers.
-
-...
-
-[Data](articles/b5118c5a.json)
-
-[Extended Data](ext_articles/b5118c5a.ext.json)
-
----
-
-### Well-known business leader and philanthropist Greatian Gunawardhana passes away
-
-*2024-04-26 01:30:27* · [`dailyftlk`](https://www.ft.lk/news/Well-known-business-leader-and-philanthropist-Greatian-Gunawardhana-passes-away/56-761052) · `en`
-
-Well-known business leader and philanthropist, Hands International Group Chairman as well as Founder of the Thurstan College Swimming Pool Complex Greatian Gunawardhana passed away Wednesday (24) early morning.
-
-He, being a distinguished old boy of Thurstan College, had a close relationship with the school and the Thurstan Community until his death.
-
-...
-
-[Data](articles/e6ce7c6a.json)
-
-[Extended Data](ext_articles/e6ce7c6a.ext.json)
-
----
-
-### Stumbling CWC: Mano accusation
-
-*2024-04-26 01:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தடுமாறுகிறது-இ-தொ-கா-மனோ-குற்றச்சாட்டு/175-336359) · `ta`
-
-Mano Ganesan, Tamil Progressive Alliance leader, urged President Ranil Wickremesinghe to advise Rowdy and Ceylon Workers Congress to combat trade union struggles. Ganesan made this statement in response to the attack on Velu Kumar MP in Kandy. He advised taking legal action against those who prevented MPs from performing their duties. The Ceylon Workers Congress feels helpless, unable to fulfill promises of land, housing, and university education.
-
-🟩
-
-"The Tamil Progressive Alliance leader, Mano Ganesan, asked President Ranil Wickremesinghe to advise me to advise Rowdy and Ceylon by calling on the Ceylon Workers Congress to fight the trade union struggle.
-
-Mano Ganesan made this statement during a media briefing on Thursday (25) in connection with the attack on Velu Kumar MP in Pusalawa in Kandy.
-
-I have advised to complain about the threat of murder.As a people's representative, there are signs of people who prevented him from performing his duties. I have also told them to take legal action with them.
-
-The Ceylon Workers Congress is stumbling with the feeling of impossibility, as it has not been able to fulfill anything as said today, saying that the people will promise to the people as a row, ten perch land, separate house and university.
-
-◼️
-
-[Data](articles/439c1769.json)
-
-[Extended Data](ext_articles/439c1769.ext.json)
 
 ---

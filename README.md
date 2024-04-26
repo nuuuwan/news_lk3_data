@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 10:51:37**
+As of **2024-04-26 11:03:32**
 
 ## Newspaper Stats
 
-*Scraped **21,074** Articles*
+*Scraped **21,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,45 +14,121 @@ dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,141
 dailyftlk | 1,193
-economynextcom | 1,193
-adalk | 1,761
+economynextcom | 1,194
+adalk | 1,762
 tamilmirrorlk | 2,444
-adaderanalk | 2,504
+adaderanalk | 2,505
 virakesarilk | 3,171
 dailymirrorlk | 3,282
-adaderanasinhalalk | 3,396
+adaderanasinhalalk | 3,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,072 (100.0%) of 21,074 articles have been extended.
+21,074 (100.0%) of 21,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### முறிகண்டி விபத்தில் இராணுவ வீரர்   பலி
+### වෛද්‍ය කපිල වික්‍රමනායක ගේ ඇප ඉල්ලීම ගැන නියෝගය ලබන සතියේ
+
+*2024-04-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195986) · `si`
+
+මහත් ආන්දෝලනයකට තුඩු දුන් ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට රක්ෂිත බන්ධනාගාරගත කර සිටින වෛද්‍ය සැපයීම අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතාගේ ඇප ඉල්ලීම පිළිබඳ නියෝගය මේ මස 30 වනදා දක්වා කල්තැබීමට අභියාචනාධිකරණය අද (26) නියම කළේය.
+
+මෙම ඉල්ලීමට අදාළ නියෝගය අද දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණි.
+
+එහෙත් එම නියෝගය ප්‍රකාශ කිරීම මෙම මස 30 වනදා සිදුකරන බවත් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා නියෝග කළේය.
+
+◼️
+
+[Data](articles/7866aa8a.json)
+
+---
+
+### CID ordered to expedite investigations into ‘X-Press Pearl’ maritime disaster
+
+*2024-04-26 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98856/cid-ordered-to-expedite-investigations-into-x-press-pearl-maritime-disaster) · `en`
+
+The Colombo Magistrate’s Court has ordered the Criminal Investigations Department (CID) to expedite the probes related to the ‘X-Press Pearl’ maritime disaster.
+
+However, the State Counsel who appeared on behalf of the CID when the case was taken up on Thursday (25), has sought a period of one month, in order to present facts in relation to the investigations, Ada Derana reporter said.
+
+The attorneys representing the captain of the destroyed ‘X-Press Pearl’ ship and the directors of the relevant local agent, who have been named as respondents of the case, mentioned that a trial is underway before the Colombo High Court pertaining to the maritime calamity.
+
+They have also raised questions concerning the need for conducting further investigations into the same incident against this backdrop.
+
+The Colombo Additional Magistrate, who took all the facts presented into consideration, ordered the CID to conclude the relevant probes as soon as possible, and to report the progress.
+
+◼️
+
+[Data](articles/be53cc58.json)
+
+---
+
+### හරක් කටා ට එරෙහි නඩුවක් ගැන දුන් නියෝගය
+
+*2024-04-26 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195985) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවේ සිටියදී පළායාමට කුමන්ත්‍රණය කළේ යැයි චෝදනා ලබා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව ගොනුකර ඇති නඩුව මැයි මස 15 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියෝග කළේය.
+
+එදින මෙම නඩුවේ අධිකරණය මඟහැර සිටින විත්තිකරුවකුට අදාළව එම විත්තිකරුව නොමැතිව නඩු විභාගය පවත්වාගෙන යාම පිළිබඳ සාක්ෂි විභාගය පවත්වන බවත් කොළඹ මහාධිකරණ විනිසුරු  දමිත් තොටවත්ත මහතා නියෝග කළේය.
+
+◼️
+
+[Data](articles/f20d917e.json)
+
+---
+
+### පූජ්‍ය උලපනේ හිමි ඇතුළු පිරිසට ඇප
+
+*2024-04-26 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195984) · `si`
+
+අධිකරණ නියෝගවලට අවනත නොවී රාජ්‍ය නිලධාරින්ගේ කටයුතුවලට බාධා කිරීම සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි පූජ්‍ය උලපනේ සුමංගල හිමි ඇතුළු සැකකරුවන් 05 දෙනෙකු ඇප මත මුදාහරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+ඒ අනුව සුමංගල හිමි ඇතුළු සැකකරුවන් 04දෙනෙකු රුපියල් ලක්ෂ දෙක බැගින් වූ ශරීර අප මත මුදාහැරීමටත් තවත් සැකකරුවකු රුපියල් ලක්ෂයක ශරීර ඇප මත මුදා හැරීමටත් නියෝග කෙරුණි.
+
+මෙහිදී පූජ්‍ය උලපනේ සුමංගල හිමි වෙත විදෙස් ගමන් තහනමක් ද පනවා තිබේ.
+
+සාක්ෂිකරුවන්ට බලපෑම් කිරීමෙන් වළකින ලෙසත් මෙහිදී මහෙස්ත්‍රාත්වරයා විසින් සැකකරුවන්ට අවවාද කළේය.
+
+නාරාහේන්පිට, දාබරේ මාවතේ පිහිටි පැල්පත් නිවාස කිහිපයක් අධිකරණ නියෝග මත ඉවත් කිරීමට යාමේදී ඊට බාධා කරමින් විරෝධය පෑ බවට සුමංගල හිමියන් ඇතුළු පිරිසට එරෙහිව චෝදනා එල්ලවී තිබුණි.
+
+◼️
+
+[Data](articles/519de48a.json)
+
+---
+
+### Soldier killed in accident
 
 *2024-04-26 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முறிகண்டி-விபத்தில்-இராணுவ-வீரர்-பலி/72-336370) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்கு உட்பட்ட முறிகண்டி பகுதியில் வௌ்ளிக்கிழமை (26) காலை இடம்பெற்ற விபத்தில் இராணுவ வீரர் ஸ்தலத்தில் பலியாகியுள்ளார்.
+A soldier died in an accident on A9 road near Mudikandi, Mullaitivu District, on Wednesday morning. The military vehicle was trying to overtake another when it collided with a car, killing one soldier. The deceased was taken to Kilinochchi Hospital.
 
-குறித்த சம்பவம் காலை 6 மணியளவில் இடம்பெற்றுள்ளது. முறிகண்டி வசந்தநகர் சந்தியின் A9 வீதியில் குறித்த விபத்து இடம் பெற்றுள்ளது.
+🟩
 
-கொழும்பிலிருந்து யாழ்ப்பாணம் நோக்கி பயணித்த பார ஊர்தியை, அதே திசையில் பயணித்த இராணுவ கப் வாகனம் முந்த முற்பட்டுள்ளது.
+A soldier was killed in an accident that took place on Wednesday morning (26) in the Mudikandi area of the Mangulam Police Division of the Mullaitivu District.
 
-இதன்போது குறித்த கப் வாகனம் திடிரென இயங்காமல் நின்றுள்ளது. எதிரே வந்த வாகனம் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகி விடும் எனும் அச்சத்தில் விபத்தை தருக்கும் நோக்குடன் சாரதி பார ஊர்தியை செலுத்த முற்பட்டுள்ளார்.
+The incident took place at 6 am. The accident occurred on the A9 road of the Vasanthanagar junction.
 
-இதன்போது, கப் வாகனத்தில் பாரஊர்தி மோதியதில் அதில் பயணித்த இரண்டு இராணுவ வீரர்கள் வீதியில் விழுந்துள்ளனர்.
+The military cup, which traveled from Colombo to Jaffna to Jaffna, is trying to overtake a military cup.
 
-அதில் ஒருவர் மேல் பாரஊர்தி ஏறியதில் குறித்த இராணுவ வீரர் சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
+At the time, the cup vehicle is not operating. The driver is trying to pay the car with the intention of causing the accident, fearing that the vehicle will crash face -to -face.
 
-உயிரிழந்தவரின் சடலம் கிளிநொச்சி வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில் விசாரணைகளின் பின்னர் உறவினர்களிடம் கையளிக்கப்படவுள்ளது.
+In the meantime, two soldiers who were traveling in a car collided with a car.
+
+One of them died at the scene of the incident.
+
+The body of the deceased has been placed at the Kilinochchi Hospital after investigations.
 
 ◼️
 
 [Data](articles/7da955f4.json)
+
+[Extended Data](ext_articles/7da955f4.ext.json)
 
 ---
 
@@ -78,19 +154,25 @@ The driver of the lorry has been arrested in connection with the accident and Ma
 
 ---
 
-### ஈ - விசா தொடர்பில் விசேட அறிவுறுத்தல்
+### E - Special instruction in connection with visa
 
 *2024-04-26 10:02:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-தொடர்பில்-விசேட-அறிவுறுத்தல்/175-336369) · `ta`
 
-ஈ - விசா பெற்றுக் கொள்ள குடிவரவு மற்றும் குடியகழ்வு திணைக்களத்தின்  www.immigration.gov.lk என்ற உத்தியோகப்பூர்வ இணையத்தளத்தை மாத்திரமே பயன்படுத்துமாறு அறிவுறுத்தப்பட்டுள்ளது.
+New visa procedure introduced to prevent fraud. Use official website www.immigration.gov.lk. Beware of fake websites.
 
-கடந்த 17ம் திகதி முதல் புதிய விசா நடைமுறை அறிமுகம் செய்யப்பட்ட நிலையில், மோசடிகளை தவிர்க்கும் நோக்கில் இந்த அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+🟩
 
-அத்துடன், போலி இணைய தளங்கள் மூலம் மக்களை ஏமாற்றி பணம் பறிக்கக்கூடிய அபாயம் காணப்படுவதாக எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+E - The Department of Immigration and Emigration is advised to use the official website www.immigration.gov.lk.
+
+With the introduction of a new visa procedure since the 17th, the instruction has been aimed at avoiding fraud.
+
+In addition, it has been warned that there is a risk of cheating people through fake websites.
 
 ◼️
 
 [Data](articles/367fd40a.json)
+
+[Extended Data](ext_articles/367fd40a.ext.json)
 
 ---
 
@@ -140,6 +222,26 @@ This year, Asthma Day falls on May 7, and an awareness programme has been organi
 
 ---
 
+### Sri Lanka rupee opens stronger at 296.10/20 to US dollar
+
+*2024-04-26 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-296-10-20-to-us-dollar-160093/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 296.10/20 to the US dollar on Friday after closing at 296.85/297.00 Thursday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 11.28/35 percent from 11.28/32 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 11.70/75 percent from 11.70/80 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/20 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.55 percent at 12,141, while the S&P SL20 was up 0.91 percent at 3,626. (Colombo/Apr26/2024)
+
+◼️
+
+[Data](articles/c47ae6d4.json)
+
+---
+
 ### Haiti’s Prime Minister Ariel Henry resigns, transitional council takes power
 
 *2024-04-26 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98854/haitis-prime-minister-ariel-henry-resigns-transitional-council-takes-power) · `en`
@@ -175,6 +277,22 @@ The police said that the group was injured in the cab accident.
 [Data](articles/351c17e2.json)
 
 [Extended Data](ext_articles/351c17e2.ext.json)
+
+---
+
+### අනුර ස්විඩනයේ ලාංකිකයන් හමුවෙන්න යයි
+
+*2024-04-26 09:32:50* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ස්විඩනයේ-ලාංකිකයන්-හමුවෙන්න-යයි/11-409274) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ඊයේ (25දා) රාත්‍රීයේ දී ස්වීඩනය බලා පිටත්ව ගියේය. ඔහු එහිදී පැවැත්වෙන ජනහමුවක් සහ සුහද හමු කිහිපයක් සඳහා සහභාගි වීමට නියමිතව ඇත.
+
+අප්‍රේල් 27 සෙනසුරාදා දින ස්වීඩනයේ NACKA AULA හිදී එරට වේලාවෙන් පස්වරු 1.30ට STOCKHOLM ජනහමුව පැවැත්වීමට කටයුතු සංවිධානය කර තිබේ.
+
+ජාතික ජන බලවේගයේ ස්වීඩන විදෙස් කමිටුව විසින් මෙම කටයුතු සංවිධානය කර ඇත.
+
+◼️
+
+[Data](articles/96291dbe.json)
 
 ---
 
@@ -2021,161 +2139,5 @@ Many information about the release of the film has been released earlier.It has 
 [Data](articles/88bb3cd0.json)
 
 [Extended Data](ext_articles/88bb3cd0.ext.json)
-
----
-
-### The verdict of Mahindananda's case on the 30th
-
-*2024-04-25 19:41:16* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්දගේ-නඩුවක-තීන්දුව-ලබන-30දා/11-409269) · `si`
-
-Mahindananda's case verdict on 30th by Colombo High Court Judge Navaratne Marasinghe. Aluthgamage, a minister, accused of buying a luxury house in Borella with ministry funds. Case filed against Hithgama.
-
-🟩
-
-Colombo High Court Judge Navaratne Marasinghe today will be announced on the 30th of this month, the decision in the case was being deleted on the 30th of Borella Kiscy Road, which had been earned by the Cabinet of Borella.(25) fixed.
-
-The judge also informed the Financial Minister Mahindananda Aluthgamage that the case has been convened by the Ceylon Sports Minister Mahindananda Aluthgamage that he has purchased a luxury house of the Borella by the Ministry of Sports..
-
-On the 30th of April 2013 while serving as a ministerial portfolio of Rs. 27 million while serving as a ministerial portfolio and the Clearization of Borella, the Bulkarakanda Act, has been purchased at Borella and Finance Act.The case has been filed by the lawyers against Hithgama.
-
-At the end of the long trial, the date was prescribed to announce the verdict in the case.
-
-◼️
-
-[Data](articles/848fa858.json)
-
-[Extended Data](ext_articles/848fa858.ext.json)
-
----
-
-### Sri Lanka women's team beat Sri Lanka
-
-*2024-04-25 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195970) · `si`
-
-Sri Lanka women's cricket team won their first Twenty20 Women's World Cup match against Thailand by 67 runs, scoring 122/5 in 20 overs, and Thailand scored 55/16.
-
-🟩
-
-Sri Lanka women's cricket team won the first match of the Twenty20 Women's World Cup.
-
-They defeated Thailand women's cricket by 67 runs.
-
-Batting first, Sri Lanka women's cricket team scored 122 runs for the loss of 5 wickets at the end of the 20 wickets.
-
-In reply, Thailand women's cricket team scored 55 runs in the end of 16 overs.
-
-In bowling was 3 wickets for 14 runs while Udeshika Prabodhani took two wickets for 10 runs.
-
-◼️
-
-[Data](articles/a846c839.json)
-
-[Extended Data](ext_articles/a846c839.ext.json)
-
----
-
-### The teaser release of 'Vadakkan' by director Lingusamy
-
-*2024-04-25 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/181963) · `ta`
-
-"Director Lingusamy's 'Vadakkan' debuts with writer Vasanakarta Bhaskar Shakti. Features music by Janani, produced by Vediyappan, and explores North Indian migration in Tamil Nadu. Despite controversy fears, it's hoped to be well-received."
-
-🟩
-
-Director Lingusamy, who has failed in all three categories - Director - Divisionalist - Dealers, has been released with confidence in 'Vadakkan'.
-
-Writer and Vasanakarta Bhaskar Shakti has made his debut as director of 'Vadakkan' and starred in the film 'Vadakkan'.
-
-The film has been recorded by Theni Eswar. J.. Janani has composed the music. The film, which is being developed as a conceptual record of North Indians in Tamil Nadu, is a book publisher on behalf of Discovery Cinema Production.. Vediyappan has produced.
-
-The first look of the film has been released and the short preview has been released.
-
-...
-
-[Data](articles/1f81f69b.json)
-
-[Extended Data](ext_articles/1f81f69b.ext.json)
-
----
-
-### A great decision on alcohol
-
-*2024-04-25 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195969) · `si`
-
-The Sri Lanka Excise Department must recover alcohol from manufacturers starting June 30, following a decision by the Committee on the Excise Department. The Committee, led by Patali Champika Ranawaka, has criticized the Excise Department for ignoring its order to temporarily suspend licenses. Despite this, the Excise Department officers are ready to recover deficit taxes without revoking permits. The Committee aims to collect 51 billion in the first quarter of 2024 to meet revenue targets.
-
-🟩
-
-The Committee on the Excise Department has ordered the department of the Sri Lanka Excise as to arranged from alcohol manufacturers to be recovered from June 30.
-
-The Committee on Schedule of Schedule: Patali Champika Ranawaka has been revealed by Chamber Champika Ranawaka yesterday (24).
-
-The Chairman has questioned the Excise Department regarding the ignorement of the Committee order to temporarily suspend the license manufacturers.
-
-The Officers of the Excise Department has informed the Select of the Excise Departments that have been prepared to recover the deficit taxes without undoing permits.
-
-However, the Committee has ordered to take action to recover the deficit tax on the methodology.
-
-The Committee has expressed the revenue of the department with the income targets of the department by collecting 51 billion in the first quarter of the first quarter of 2024.
-
-◼️
-
-[Data](articles/dc5bb62e.json)
-
-[Extended Data](ext_articles/dc5bb62e.ext.json)
-
----
-
-### Those such as Maithree should be arrested
-
-*2024-04-25 19:27:00* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-වැනි-පුද්ගලයන්-අත්අඩංගුවට-ගත-යුතුයි/11-409268) · `si`
-
-Maithripala Sirisena claims the Passover attack was unsuccessful and suggests arresting those involved. He criticizes the police for not addressing national security issues, suggesting they are incompetent.
-
-🟩
-
-The statement made by former President Maithripala Sirisena had confirmed that the statement of the Passover attack had been unsuccessful and proposes to be arrested in the country.
-
-He was speaking at the postponement debate on the Passover attack held in Parliament today (25).
-
-Speaking further Mr. Damage Gammanpila said:
-
-"Former President Maithripala Sirisena made a statement about the people behind the people behind this attack. The statement should be done to the police. He has made a statement by the statement of Maithripala Sirisena's statement in the statement of Maithripala Sirisena's statement is lie. It has been confirmed that it is false. A former president took up the national security and function. The people of this country joy. The police are joking.
-
-The magistrate's magistrate, the magistrate, chose to leave the file that affect national security.. Or the country is now on firearm. I also propose to arrest people who have problems in the country. "
-
-◼️
-
-[Data](articles/6b8e59bf.json)
-
-[Extended Data](ext_articles/6b8e59bf.ext.json)
-
----
-
-### மக்கள் போராட்டம் மீண்டும் ஏற்படாத வகையில் பொருளாதாரத்தை கட்டமைப்போம் : ITC ரத்னதீப அதிசொகுசு ஹோட்டலை திறந்து வைத்து ஜனாதிபதி தெரிவிப்பு
-
-*2024-04-25 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/181977) · `ta`
-
-President Ranil Wickremesinghe pledges to prevent the people's struggle by building the economy. He addresses the opening of the ITC Ratnadeepa Atti Luxury Hotel, marking the first Indian ITC Hotel Group building in Sri Lanka. The hotel is located near Asia's first five-star hotel, Galle Face. India has started a tourist hotel in Sri Lanka after a long time, with the Oberoi Hotel and the Sri Lankan President's House. Colombo is becoming a tourist center, with ITC promoting Sri Lanka. The city's tourism potential is being upgraded, and the economy is being restored through tourism.
-
-🟩
-
-President Ranil Wickremesinghe has promised to build the economy so that the people's struggle will not occur again.
-
-சரிவடைந்த பொருளாதாரத்தை இரண்டு வருடங்களில் மீட்க முடிந்ததென தெரிவித்த ஜனாதிபதி, சரிவடையாத வகையில் வலுவான பொருளாதாரத்தை கட்டமைத்து மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதாகவும் உறுதியளித்தார்.
-
-President Ranil Wickremesinghe made this statement while addressing the opening of the ITC Ratnadeepa Atti Luxury Hotel Building on Thursday (25).
-
-ITC Ratnadeepa Hotel, built before the Galle Face, is the first building to be built by the Indian ITC Hotel Group of India.
-
-Welcome to Sri Lanka to ITC.It is located in front of Asia's first five -star hotel, Galle Face.
-
-அதற்கு அருகில் இந்திய தாஜ் ஹோட்டலும் உள்ளது.  சிங்கப்பூர் ஹோட்டலான சங்ரீலாவும் அருகில் அமைந்துள்ளது.  அதற்கு மத்தியில் அமைக்கப்பட்டுள்ள ITC ஹோட்டலின் பின்புறத்தில் சினமன் கிரேண்ட் ஹோட்டலும் அமைந்திருக்கிறது.
-
-...
-
-[Data](articles/273a8e19.json)
-
-[Extended Data](ext_articles/273a8e19.ext.json)
 
 ---

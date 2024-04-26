@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 19:03:46**
+As of **2024-04-26 19:18:49**
 
 ## Newspaper Stats
 
-*Scraped **21,154** Articles*
+*Scraped **21,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,769
 tamilmirrorlk | 2,449
-adaderanalk | 2,519
+adaderanalk | 2,520
 virakesarilk | 3,189
 dailymirrorlk | 3,294
 adaderanasinhalalk | 3,414
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,152 (100.0%) of 21,154 articles have been extended.
+21,154 (100.0%) of 21,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Easter attack culprits: Tiran’s revelation on Maithripala’s statement
+
+*2024-04-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98871/easter-attack-culprits-tirans-revelation-on-maithripalas-statement) · `en`
+
+During the inquiry over former President Maithripala Sirisena’s recent statement that he was aware of the real culprits behind the Easter Sunday bomb attacks, he has not mentioned the names of anyone in Sri Lanka, Public Security Minister Tiran Alles said.
+
+The lawmaker made this remark while speaking during today’s parliamentary session, according to Ada Derana reporter.
+
+◼️
+
+[Data](articles/48b9639c.json)
+
+---
 
 ### Tiran Alles reveals former President Sirisena’s silence on Easter Attacks’ culprits
 
@@ -44,25 +58,33 @@ The lawmaker made this remark while speaking during today’s parliamentary sess
 
 [Data](articles/c498b19a.json)
 
+[Extended Data](ext_articles/c498b19a.ext.json)
+
 ---
 
-### නව පත්කිරීම් කිහිපයකට උසස් නිලතල පිළිබඳ කාරක සභාවේ අනුමැතිය
+### Several new appointments are the approval of the Committee on High Posts
 
 *2024-04-26 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196005) · `si`
 
-නව තානාපතිවරයෙක්, අමාත්‍යාංශ ලේකම්වරයෙක් සහ ආයතන සභාපතිවරයන් දෙදෙනෙක් පත් කිරීම සඳහා පසුගියදා පාර්ලිමේන්තුවේදී රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී තිබේ.
+The Committee on High Posts approved new appointments: SA Rodrigo as Sri Lankan Ambassador to Italy, ACM as Secretary of Water Supply, and NKS as Chairman of Regional Development Bank and Sri Lanka Atomic Energy Regulatory Council.
 
-ඒ අනුව ඉතාලි ජනරජයේ නව ශ්‍රී ලංකා තානාපතිවරයා ලෙස එස්.ඒ රොද්‍රිගෝ මහතා පත් කිරීමට උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී ඇත.
+🟩
 
-එයට අමතරව, ජල සම්පාදන සහ වතු යටිතල පහසුකම් සංවර්ධන අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස ඒ.සී.එම්. න‍ෆීල් මහතා පත්කිරීමටද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී ඇත.
+The Committee has approved by the Committee on High Posts in Parliament recently to appoint two new Ambassador, Secretary to the Ministry and Institute Chairman.
 
-තවද ප්‍රාදේශීය සංවර්ධන බැංකුවේ නව සභාපතිවරයා ලෙස ඩබ්ලිව්.ඒ.ඩී.එස් ගුණසිංහ මහතා පත් කිරීමට සහ ශ්‍රී ලංකා පරමාණුක බලශක්ති නියාමන සභාවේ නව සභාපතිවරයා ලෙස එන්.කේ.එස්. ජයසේකර මහතා පත් කිරීමටද උසස් නිලතල පිළිබඳ කාරක සභාව අනුමතිය ලබා දී තිබේ.
+Accordingly, the Committee on High Posts has approved to appoint SA Rodrigo as the new Sri Lankan Ambassador to the Italian Republic.
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් රැස්වූ උසස් නිලතල පිළිබඳ කාරක සභාවට අමාත්‍යවරයන් වන රමේෂ් පතිරණ, විදුර වික්‍රමනායක සහ පාර්ලිමේන්තු මන්ත්‍රී රිෂාඩ් බදියුදීන් යන මහත්වරු සහභාගී වූහ.
+In addition, the new Secretary of the Ministry of Water Supply and Estate Infrastructure Development ACM. The appointment of Nafeeel has been appointed to appoint the Committee on High Posts.
+
+NKS appoint WADS Gunasinghe as the new Chairman of Regional Development Bank and the new Chairman of the Sri Lanka Atomic Energy Regulatory Council. The appointment of Jayasekara has been appointed to appoint Jayasekera and the Committee approved.
+
+Ministers Ramesh Wickramanayaka and Parliamentarian Rishad Bathiudeen were also present.
 
 ◼️
 
 [Data](articles/4da913d5.json)
+
+[Extended Data](ext_articles/4da913d5.ext.json)
 
 ---
 
@@ -2257,25 +2279,5 @@ But in the event of thunderstorms, strong winds are blowing and the sea regions 
 [Data](articles/271bcaf4.json)
 
 [Extended Data](ext_articles/271bcaf4.ext.json)
-
----
-
-### Sri Lanka and China discuss vehicle manufacturing investment
-
-*2024-04-26 06:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-and-China-discuss-vehicle-manufacturing-investment/108-281397) · `en`
-
-Colombo, April 26 (Daily Mirror) - A meeting between the China Association of Small and Medium-commercial Enterprises (CASMCE) and Prime Minister Dinesh Gunawardena took place yesterday at Temple Trees, focusing on bilateral cooperation and investment opportunities.
-
-The discussion revolved around the expansion and trade investments in several key sectors, including vehicle manufacturing, renewable energy, agricultural technology, paper and printing-related fields.
-
-Mr. Ren Xinglei, President of CASMCE, expressed China's enthusiasm for Prime Minister Gunawardena's recent visit to China, extending heartfelt gratitude for the visit's significance in fostering stronger ties between the two nations.
-
-Highlighting potential investment avenues, Mr. Xu Xiang, Vice President of CASMCE, emphasized opportunities in developing industries related to solar power, wind power and biomass energy within Sri Lanka.
-
-...
-
-[Data](articles/930e59ea.json)
-
-[Extended Data](ext_articles/930e59ea.ext.json)
 
 ---

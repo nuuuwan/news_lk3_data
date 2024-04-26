@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 00:18:38**
+As of **2024-04-27 00:33:55**
 
 ## Newspaper Stats
 
-*Scraped **21,189** Articles*
+*Scraped **21,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,203
 adalk | 1,771
-tamilmirrorlk | 2,449
+tamilmirrorlk | 2,450
 adaderanalk | 2,523
 virakesarilk | 3,195
-dailymirrorlk | 3,302
+dailymirrorlk | 3,305
 adaderanasinhalalk | 3,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,189 (100.0%) of 21,189 articles have been extended.
+21,189 (100.0%) of 21,193 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-27 (Saturday)
+
+### The SLFP mess; for whose benefit?
+
+*2024-04-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-SLFP-mess-for-whose-benefit/172-281447) · `en`
+
+The Janatha Vimukthi Peramuna (JVP) leaders who had been imprisoned for their involvement in the 1971 Insurrection followed an untraditional strategy subsequent to their release from prison in 1977, in their pursuit of political power.
+
+They, instead of mainly encountering the United National Party (UNP), the then ruling party, chose first to attack the leftist parties which were the third force then, to capture that position and then take on the Sri Lanka Freedom Party (SLFP) to become the second powerful party in the country.
+
+...
+
+[Data](articles/869baf8c.json)
+
+---
+
+### Ranil’s evolving  strategy to win 2024 presidential poll
+
+*2024-04-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ranils-evolving-strategy-to-win-2024-presidential-poll/172-281445) · `en`
+
+Ranil Wickremesinghe perceives himself as a unique selling proposition in the presidential election.
+
+Ranil Wickremesinghe,  a 75-year-old  lawyer, has been immersed in politics for over 50 years. He has been an MP for almost 44 years. Ranil has served as  leader of the Opposition for about 18 years. He has been a deputy minister and Cabinet minister. Above all Wickremesinghe has been sworn in as Prime Minister six times. Impressive as it is, this record of service will not be Wickremesinghe’s lasting political legacy
+
+The first advantage is that Wickremesinghe has a proven track record in this so far. He took over when the country was facing an unprecedented economic crisis. Shortages were rampant amid an acute lack of foreign exchange. There were queues everywhere but supplies were unavailable or inadequate. Power and fuel shortages had virtually paralysed the country
+
+...
+
+[Data](articles/c45e4769.json)
+
+---
+
 ### 2024-04-26 (Friday)
+
+### Mano Ganesan requests China to help Sri Lanka join BRICS
+
+*2024-04-26 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mano-Ganesan-requests-China-to-help-Sri-Lanka-join-BRICS/108-281459) · `en`
+
+Colombo, April 26 (Daily Mirror) - Tamil Progressive Alliance (TPA) leader Mano Ganesan said China plays a key role in the Asia-centric world today, and it should help Sri Lanka to join BRICS- the grouping of Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, and the United Arab Emirates
+
+Taking to X, he said India, Russia are well placed in the BRICS grouping. Hence, in future, Chinese good offices should support Sri Lanka to gain entry into BRICS, said TPA leader Mano Ganesan to Sun Haiyan, Vice Minister of the Central Committee of the Communist Party of China (CPC).
+
+Mr. Ganesan met her along with Opposition Leader Sajith Premadasa. The CPC delegation, earlier, met the representatives of the parties such as Sri Lanka Podujana Peramuna (SLPP) and the National People’s Power (NPP).
+
+◼️
+
+[Data](articles/ec8267e5.json)
+
+---
+
+### தேடப்பட்டு வந்தவர் சிக்கினார்
+
+*2024-04-26 23:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்தவர்-சிக்கினார்/175-336390) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி  படுகொலை செய்த சம்பவத்தில் தேடப்பட்டு வந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மார்ச் மாதம் 11ஆம் திகதி காரைநகர் பகுதிக்கு மோட்டார் சைக்கிளில் சென்று விட்டு, வீடு திரும்பிக்கொண்டிருந்த தம்பதியினரை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்று, கணவனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்துள்ளதுடன் மனைவியை வீதியில் இறக்கி விட்டு சென்று இருந்தனர்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த பொலிஸார் இதுவரையில் 09 பேரை சந்தேகத்தில் கைது செய்து நீதிமன்றில் முற்படுத்திய நிலையில் நீதிமன்றால் அவர்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில் சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்களில் ஒருவர் காரைநகர் பகுதியில் தலைமறைவாக இருந்த நிலையில் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுளளார்.
+
+கைது செய்யப்பட்டவரை விசாரணைகளின் பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/196f9f10.json)
+
+---
 
 ### U.S. Under Secretary pledges support for Sri Lanka’s dairy modernization efforts
 
@@ -2185,95 +2253,5 @@ He was speaking in parliament today (26). The Ordinary Level examination is due 
 [Data](articles/b9ba4763.json)
 
 [Extended Data](ext_articles/b9ba4763.ext.json)
-
----
-
-### Students protest in support of Palestinians near White House
-
-*2024-04-26 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/181994) · `ta`
-
-Georgetown University students protest in support of Palestinians, demanding an end to Israel's human rights violations.
-
-🟩
-
-Students from the Georgetown University of the United States are engaged in protests in Palestinian near the University of George Wasington in Washington.
-
-Students, professors and activists from Vosington have been in the mood to support Palestine in the midst of the Gaza War and to break their connection with Israel's human rights violations.
-
-Like other universities in the United States, students at the University of George Wasington set up a tent on campus and engage in demonstrations.
-
-"We are here to express our support for George Wasington University students and emphasize the demands of other university students in the United States," Ana Vessel's student told Al Jazeera.
-
-If we do nothing in the capital, it means that we have not fulfilled our moral obligations, "said student Vesselles.
-
-◼️
-
-[Data](articles/c8803f83.json)
-
-[Extended Data](ext_articles/c8803f83.ext.json)
-
----
-
-### Verdict on MSD director’s bail request deferred to next week
-
-*2024-04-26 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98858/verdict-on-msd-directors-bail-request-deferred-to-next-week) · `en`
-
-The Court of Appeal has deferred the verdict on the bail request made by the Director of Medical Supplies Division (MSD) Dr. Kapila Wickramanayake.
-
-Thereby, the decision on the bail request, which was slated to be delivered today by Appeals Court judge D.N. Samarakoon, is expected on 30 April.
-
-Wickramanayake is currently held in remand custody over the alleged substandard immunoglobulin imports case. He had filed the petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
-
-On 20 November 2023, four high-ranking officials – MSD Director Dr. Wickramanayake, Assistant Director Devashantha Soloman, Accountant (Supplies) Neran Dhananjaya and the Stock Controller of the Medical Supplies Division Sujith Kumara – were arrested by the Criminal Investigations Department (CID).
-
-...
-
-[Data](articles/9e76a013.json)
-
-[Extended Data](ext_articles/9e76a013.ext.json)
-
----
-
-### Colombo to become tourist city, no more aragalaya: Sri Lanka President
-
-*2024-04-26 11:02:00* · [`economynextcom`](https://economynext.com/colombo-to-become-tourist-city-no-more-aragalaya-sri-lanka-president-160102/) · `en`
-
-ECONOMYNEXT – Colombo city will be developed further into a tourist destination with the relocation of several features, President Ranil Wickremesinghe has said.
-
-Wickremesinghe outlined plans “for further development beyond Colombo, including relocating the President’s House to the Madiwela area within the next decade.”
-
-There was “potential for transforming sites like Republic Square, Navy Headquarters, Old Jetty, Customs House and the General Post Office into key components of the burgeoning Colombo Tourist City,” Wickremesinghe was quoted as saying by his media divisions at the opening of the ITC Ratnadipa Hotel.
-
-The luxurious hotel, located near the Galle Face Green, marks the first venture outside India by the ITC Hotel Group, following their establishment of a 10,000-room hotel chain in India.
-
-“Two years ago this was the site of a huge struggle. Today we have a huge hotel in its place. We can’t go back to that stage.”
-
-...
-
-[Data](articles/c3c341a7.json)
-
-[Extended Data](ext_articles/c3c341a7.ext.json)
-
----
-
-### Hearing of case against “Harak Kata” fixed for 15 May
-
-*2024-04-26 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98857/hearing-of-case-against-harak-kata-fixed-for-15-may) · `en`
-
-The Colombo High Court on Friday (26) fixed a date for the hearing of the case filed against the notorious criminal figure and drug trafficker Nadun Chinthaka alias “Harak Kata” over his failed escape attempt from the Criminal Investigation Department (CID).
-
-Accordingly, the case filed against “Harak Kata” and two others will be taken up on 15 May, on the orders of High Court Judge Damith Thotawatta.
-
-The accused is being held at the old prison complex in Tangalle, which currently operates as a detention centre.
-
-On 10 September 2023, “Harak Kata”, who was being interrogated by eight CID officers, had reportedly laced the officers’ teas with poison during his questioning, with the help of a Police Constable.
-
-During the questioning, “Harak Kata” had allegedly requested to go to the washroom and was escorted out of the interrogation room with his accomplice – the police constable, and another sub-inspector attached to the Police Special Task Force (STF), assigned for the suspect’s protection.
-
-...
-
-[Data](articles/1c0f6470.json)
-
-[Extended Data](ext_articles/1c0f6470.ext.json)
 
 ---

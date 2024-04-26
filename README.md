@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 19:34:08**
+As of **2024-04-26 19:51:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,155 (100.0%) of 21,159 articles have been extended.
+21,159 (100.0%) of 21,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,6 +118,8 @@ As a precautionary measure to control the mosquitoes, the Colombo Municipal Coun
 
 [Data](articles/60fa9e25.json)
 
+[Extended Data](ext_articles/60fa9e25.ext.json)
+
 ---
 
 ### Sri Lanka to establish new energy sector regulator
@@ -137,6 +139,8 @@ A specialized committee has been entrusted with the task of formulating the fram
 ...
 
 [Data](articles/1a930919.json)
+
+[Extended Data](ext_articles/1a930919.ext.json)
 
 ---
 
@@ -531,6 +535,8 @@ Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, p
 ...
 
 [Data](articles/d38df7f8.json)
+
+[Extended Data](ext_articles/d38df7f8.ext.json)
 
 ---
 

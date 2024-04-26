@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 08:52:57**
+As of **2024-04-26 09:03:31**
 
 ## Newspaper Stats
 
-*Scraped **21,059** Articles*
+*Scraped **21,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,441
 adaderanalk | 2,500
 virakesarilk | 3,171
 dailymirrorlk | 3,279
-adaderanasinhalalk | 3,392
+adaderanasinhalalk | 3,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,058 (100.0%) of 21,059 articles have been extended.
+21,059 (100.0%) of 21,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### අනුර දිසානායක ස්වීඩනයට
+
+*2024-04-26 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195980) · `si`
+
+ජාතික ජන බලවේගයේ නායක පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා ස්වීඩනය වෙත පිටත්ව ගොස් තිබේ.
+
+ඊයේ (25) රාත්‍රියේ ඔහු දිවයිනෙන් පිටත්ව ගොස් ඇති බව වාර්තා විය.
+
+එරට පැවැත්වෙන ජනහමුවක් සහ සුහද හමු කිහිපයක් සඳහා සහභාගී වීම වෙනුවෙන් අනුර කුමාර දිසානායක මහතා මෙම සංචාරයේ නිරත වෙයි.
+
+◼️
+
+[Data](articles/e3576c88.json)
+
+---
 
 ### Notification for Express Pearl incident
 
@@ -1079,6 +1095,8 @@ This article draws on R&D performance that is measured through KPIs and how thos
 ...
 
 [Data](articles/01aedfaa.json)
+
+[Extended Data](ext_articles/01aedfaa.ext.json)
 
 ---
 
@@ -2151,27 +2169,5 @@ While the China-based sources say the investment, which Colombo pegged at $4.5 b
 [Data](articles/bad77041.json)
 
 [Extended Data](ext_articles/bad77041.ext.json)
-
----
-
-### Sri Lanka planning to cut withholding tax on interest to help retirees: Minister
-
-*2024-04-25 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-planning-to-cut-withholding-tax-on-interest-to-help-retirees-minister-160056/) · `en`
-
-ECONOMYNEXT – Sri Lanka is planning to lift withholding tax on interest income below 100,000 a month to help older citizens who depend on interest income as interest rates fall, State Minister for Finance Ranjith Siyambalapitiya said.
-
-With deposit rates falling to around 9 percent from an earlier 16 percent, elderly persons who depend on interest get less income, Minister Siyambalapitiya said.
-
-“We are now planning to put in place a mechanism to lift withholding tax from retirees who earn interest below 1,000 rupees a month,” he said in statement.
-
-It is likely to cost up to 40 billion rupees to pay interest subsidies to banks to give senior citizens interest of 16 percent when market rates fall.
-
-The government still owed banks interest subsidies on previous years senior citizen interest subsidies, Siyambalapitiya told opposition leader Sajith Premadasa in parliament Thursday.
-
-...
-
-[Data](articles/7d93516e.json)
-
-[Extended Data](ext_articles/7d93516e.ext.json)
 
 ---

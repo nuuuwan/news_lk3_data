@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 15:03:33**
+As of **2024-04-26 15:18:39**
 
 ## Newspaper Stats
 
-*Scraped **21,118** Articles*
+*Scraped **21,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,446
 adaderanalk | 2,514
 virakesarilk | 3,181
 dailymirrorlk | 3,287
-adaderanasinhalalk | 3,406
+adaderanasinhalalk | 3,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,118 (100.0%) of 21,118 articles have been extended.
+21,118 (100.0%) of 21,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### අයිස් සමග හසුවූ ලුතිනන් කමාන්ඩර්වරු දෙදෙනා තවදුරටත් රිමාන්ඩ්
+
+*2024-04-26 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195996) · `si`
+
+මත්ද්‍රව්‍ය තොගයක් සමග සැකපිට අත්ඩංගුවට ගත් නාවික හමුදා ලුතිනන් කමාන්ඩර්වරු දෙදෙනෙකු ඇතුළු සැකකරුන් හතර දෙනෙකු රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (26) නියෝග කළේය.
+
+මුල්ලේරියාව පොලීසිය මඟින් අත්අඩංගුවටගත් මෙම සැකකරුවන් රඳවා තබා ප්‍රශ්න කිරීමෙන් අනතුරුව අද කොළඹ අතිරේක මහෙස්ත්‍රාත් තරංගා මහවත්ත මහත්මිය හමුවට පමුණුවනු ලැබීය.
+
+පොලීසිය අධිකරණය හමුවේ කරුණු දක්වමින් මෙම සිද්ධියට අදාළව තවදුරටත් පරීක්ෂණ සිදුකරන හෙයින් සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කරන ලෙස ඉල්ලා සිටියේය.
+
+ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරිය අදාළ සැකකරුවන් ලබන 09 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස නියෝග කළාය.
+
+අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 434ක් සන්තකයේ තබාගෙන සිටියදී මෙම සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/879ccd5a.json)
+
+---
 
 ### Maldivian launches direct flights to Colombo
 
@@ -2207,27 +2227,5 @@ Although apartment sales were low due to depressed economic conditions and highe
 [Data](articles/cc881e75.json)
 
 [Extended Data](ext_articles/cc881e75.ext.json)
-
----
-
-### New uterine loop for monkey birth control
-
-*2024-04-26 00:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-uterine-loop-for-monkey-birth-control/108-281390) · `en`
-
-Colombo, April 25 (Daily Mirror) - The Veterinary Faculty at Peradeniya University has introduced a novel small-sized loop designed for implantation into the uterus of female monkeys to effectively prevent pregnancy
-
-A one-and-half-year-old female monkey that had given birth once was used for this test.
-
-Senior Professor Ashoka Dangolla from the Faculty of Veterinary Medicine at Peradeniya University reported that during the X-ray examination conducted after the surgery, it was observed that the implanted loop was successfully in place.
-
-Professor Dangolla explained that this form of birth control is intended to prevent pregnancy in women. Due to previous unsuccessful attempts using a normal-sized loop, the decision was made to create a smaller-sized loop.
-
-He noted that doctors from the Obstetrics and Neurology Department of Peradeniya Teaching Hospital, along with the Faculty of Dentistry at Peradeniya, have also contributed their expertise to this endeavour.
-
-...
-
-[Data](articles/68ad7e4d.json)
-
-[Extended Data](ext_articles/68ad7e4d.ext.json)
 
 ---

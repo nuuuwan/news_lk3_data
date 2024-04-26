@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 18:10:25**
+As of **2024-04-26 18:21:57**
 
 ## Newspaper Stats
 
-*Scraped **21,148** Articles*
+*Scraped **21,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,769
-tamilmirrorlk | 2,448
-adaderanalk | 2,517
+tamilmirrorlk | 2,449
+adaderanalk | 2,518
 virakesarilk | 3,189
 dailymirrorlk | 3,294
-adaderanasinhalalk | 3,411
+adaderanasinhalalk | 3,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,148 (100.0%) of 21,148 articles have been extended.
+21,148 (100.0%) of 21,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### மத்தள சர்வதேச விமான நிலையம் இந்தியா, ரஷ்யாவுக்கு
+
+*2024-04-26 18:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மத்தள-சர்வதேச-விமான-நிலையம்-இந்தியா-ரஷ்யாவுக்கு/175-336377) · `ta`
+
+மத்தள சர்வதேச விமான நிலையத்தின் நிர்வாகத்தை ரஷ்ய மற்றும் இந்திய நிறுவனங்களுக்கு வழங்குவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+அதன்படி, இந்தியாவின் Shaurya Aeronautics Pvt. Ltd மற்றும் ரஷ்யாவின் Airports of Regions Management Company அல்லது அதன் துணை நிறுவனங்கள் 30 வருட காலத்திற்கு நிர்வாகத்தை மாற்றுவதற்கு அமைச்சரவையின் அங்கீகாரத்தை பெற்றுள்ளன. R
+
+◼️
+
+[Data](articles/f7e8ce7b.json)
+
+---
+
+### උෂ්ණත්වය ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-04-26 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196002) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (27) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරු-මැද, බස්නාහිර, සබරගමුව, නැගෙනහිර, දකුණු සහ වයඹ පළාත්වලත් මොනරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම එලෙස ඉහළ යනු ඇත.
+
+මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/84dbae98.json)
+
+---
+
+### Four including two naval officers arrested with drugs remanded
+
+*2024-04-26 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98870/four-including-two-naval-officers-arrested-with-drugs-remanded) · `en`
+
+The Colombo Magistrate’s Court ordered 04 including two Lieutenant Commanders of Sri Lanka Navy who were arrested along with a stock of drugs to be remanded in custody until May 09.
+
+The relevant suspects were detained and interrogated after being arrested by the Mulleriyawa Police and were produced before Colombo Additional Magistrate Tharanga Mahawatte today (26).
+
+The police, presenting facts before the court, requested that the suspects be remanded as further investigations are underway in relation to this incident.
+
+The suspects had been arrested while in the possession of 434 grams of ‘Ice’ (crystal methamphetamine).
+
+◼️
+
+[Data](articles/4cfdd203.json)
+
+---
 
 ### Human remains recovery in Kilinochchi
 
@@ -2227,67 +2275,5 @@ If successful, the soon to be re-branded AirAsia Consulting will raise its own c
 [Data](articles/4e73a094.json)
 
 [Extended Data](ext_articles/4e73a094.ext.json)
-
----
-
-### Northern Governor's Secretariat
-
-*2024-04-26 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/181984) · `ta`
-
-A person was injured in the neck at the Northern Governor's Secretariat and admitted to Jaffna Teaching Hospital. A cleaner at the Northern Provincial Governor's office in Jaffna was attacked. The Governor's Secretariat was treated at the Jaffna Police Station.
-
-🟩
-
-One person has been admitted to the Jaffna Teaching Hospital after being injured in his neck in the Northern Governor's Secretariat.
-
-A man who was involved in the cleaning of the Northern Provincial Governor's head office in Jaffna was attacked.
-
-The affected Governor's Secretariat has been admitted to the Jaffna Teaching Hospital for treatment at the Jaffna Police Station.
-
-◼️
-
-[Data](articles/937aafc3.json)
-
-[Extended Data](ext_articles/937aafc3.ext.json)
-
----
-
-### Economic structure so that the telephone struggle does not occur
-
-*2024-04-26 02:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டம்-ஏற்படாதவாறு-பொருளாதார-கட்டமைப்பு/175-336364) · `ta`
-
-President Ranil Wickremesinghe pledges to rebuild the economy, ensuring no future struggles, and promises rapid recovery from the tourism sector collapse.
-
-🟩
-
-We will build the economy so that the people's struggle does not occur again. Was able to recover the collapse economy in two years. President Ranil Wickremesinghe has promised to build a strong economy and improve the quality of life of the people.
-
-Colombo IRC. The President said this while addressing the opening of the Ratnadeepa Luxury Hotel building yesterday.As he further stated,
-
-It will also be the case for the restoration of the collapsed economy. Sri Lanka can rapidly recover from the tourist business. We are ready to provide the appropriate facilities.
-
-Such people need to build the economy that does not re -fight. We will implement the plans required for it. These projects can also be able to stabilize the economy. So the quality of life of the people will rise. (A)
-
-◼️
-
-[Data](articles/e6480f66.json)
-
-[Extended Data](ext_articles/e6480f66.ext.json)
-
----
-
-### A common sense alternative
-
-*2024-04-26 02:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-common-sense-alternative/172-281395) · `en`
-
-Sri Lanka must integrate with global production networks that require trade reforms, removal of tariffs and protections across sectors and joining free trade agreements.
-
-I hope to convince the reader that despite some of the commentary, Sri Lanka is not on the road to recovery. Numerous predictably dysfunctional policies with questionable rationalisations were implemented in 2019 and 2020; there was no discernible deliberative process. The underlying fragility of governance that precipitated the collapse is still prevalent. Two years on, the Wickremesinghe Government is exhibiting the same tendencies: a concentration of power in the office of the presidency with the executive holding the critical ministries of finance and defence; this Wickremesinghe Government has not materially altered the conditions that led to our crisis.
-
-...
-
-[Data](articles/8020cb7b.json)
-
-[Extended Data](ext_articles/8020cb7b.ext.json)
 
 ---

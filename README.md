@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 22:18:40**
+As of **2024-04-26 22:34:49**
 
 ## Newspaper Stats
 
-*Scraped **21,185** Articles*
+*Scraped **21,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ adalk | 1,771
 tamilmirrorlk | 2,449
 adaderanalk | 2,522
 virakesarilk | 3,195
-dailymirrorlk | 3,301
-adaderanasinhalalk | 3,419
+dailymirrorlk | 3,302
+adaderanasinhalalk | 3,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,185 (100.0%) of 21,185 articles have been extended.
+21,185 (100.0%) of 21,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### Rhmalia's World Record in Indonesia
+
+*2024-04-26 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182055) · `ta`
+
+Rohmalia, a 17-year-old from Indonesia, set a world record in the 5th Women's International T20 cricket match against Mongolia in Bali, taking 7 wickets in 3.2 overs. This achievement makes her the 3rd woman to achieve this feat, following Alison Stokes and Frederic Orterica in 2022.
+
+🟩
+
+மகளிர் சர்வதேச ரி20 கிரிக்கெட் பந்துவீச்சில் இந்தோனேசிய கிரிக்கெட் வீராங்கனை ரொஹ்மாலியா அதிசிறந்த பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்து உலக சாதனை படைத்துள்ளார்.
+
+17 -year -old Rohmalia took a world record for men and women's international T20 cricket matches for men and women.
+
+Rhmali, who debuted in the 5th Women's International T20 cricket match against Mongolia in Bali, set a world record for the bowling of 3.2 overs.
+
+Rohmalia is the 3rd hero who took 7 wickets in women's international T20 cricket matches. Earlier, Argentina's Alison Stokes and Netherlands's Frederic Orterica in 2022 were equal to the world record for 3 wickets for 3 runs.
+
+Chinese player Siaz Itrus holds the record for 7 wickets for 8 runs for 8 runs. He became the owner of this achievement in last year's match against Malaysia in Kuala Lumpur. This is the only international T20 cricket world record for the man.
+
+◼️
+
+[Data](articles/ec1c6cee.json)
+
+[Extended Data](ext_articles/ec1c6cee.ext.json)
+
+---
+
+### ආසියානු මලල ක්‍රීඩා උළෙලේ ශ්‍රී ලංකාවට තවත් පදක්කමක්
+
+*2024-04-26 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196012) · `si`
+
+වයස අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා ශූරතා තරගාවලියේ 4X400 මිශ්‍ර සහාය දිවීමේ ඉසව්වේ ලෝකඩ පදක්කම දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත්විය.
+
+◼️
+
+[Data](articles/de821c16.json)
+
+---
+
+### කාන්තා ක්‍රිකට් නඟාසිටුවන්න මහේල ඉදිරියට
+
+*2024-04-26 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196011) · `si`
+
+පිරිමි පාසල් ක්‍රිකට් පද්ධතිය මෙන්ම කාන්තා පාසල් ක්‍රිකට් පද්ධතිය ව්‍යාප්ත කිරීම සඳහා සම පහසුකම් ලබාදිය යුතු බව ශ්‍රී ලංකා ක්‍රිකට් පුහුණු උපදේශක මහේල ජයවර්ධන මහතා පවසයි.
+
+ඒ, කොළඹ නාලන්දා විද්‍යාලයීය ක්‍රීඩාංගණයේදී අද (26) ආරම්භ වූ නාලන්දා විද්‍යාලීය 88 කණ්ඩායම මෙහෙයවන මහේල සංගා අභියෝගතා කුසලාන ක්‍රිකට් තරගයට ප්‍රධාන අරාධිතයා ලෙස එක්වෙමිනි.
+
+"පිරිමි පාසල් ක්‍රිකට් වගේම කාන්තාවන්ටත් පාසල් ක්‍රීඩා පද්ධතියක් ඒ සමව අපි ව්‍යාප්ත කරන්න ඕනේ. මොකද අපිට අවශ්‍යයි ඉදිරියේ දී ක්‍රීඩිකාවන් ජාතික තලයට එන එක..."
+
+අබුඩාබිහි පැවැත්වෙන කාන්තා 20-20 ලෝක කුසලානයට සුදුසුකම් ලැබීමේ තරගාවලියේ තායිලන්තය සමග පැවති තරගය ලකුණු 67කින් ජය ගැනීමට ශ්‍රී ලංකා කාන්තා පිල ඊයේ (25) සමත්වුණි.
+
+තරගයේ පළමුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කාන්තා පිල නියමිත පන්දුවාර 20දී කඩුලු 5ක් දැවී ලකුණු 122ක් රැස් කිරීමට සමත් වූ අතර එම ඉලක්කය හඹාගිය තායිලන්ත කාන්තා පිලට පන්දුවාර 16යි පන්දු 2ක් අවසානයේ සියලුදෙනා දැවී රැස්කර ගැනීමට හැකි වූයේ ලකුණු 55ක් පමණයි.
+
+◼️
+
+[Data](articles/f07decae.json)
+
+---
+
+### Medical specialists concerned over changes in medical school admissions
+
+*2024-04-26 22:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-specialists-concerned-over-changes-in-medical-school-admissions/108-281455) · `en`
+
+Colombo, April 26 (Daily Mirror) - The Association of Medical Specialists (AMS) have raised concerns regarding proposed changes to the entry criteria for fee-levying medical undergraduate programs at the state-owned medical school of Kothalawala Defense University.
+
+Traditionally, admissions to medical faculties in Sri Lanka have been based primarily on the Advanced Level Examinations Z score, with the University Grants Commission (UGC) allowing a small allocation of additional marks for students excelling in extracurricular activities. This approach has been praised for providing equal opportunities regardless of economic or social background.
+
+...
+
+[Data](articles/4a1f0253.json)
+
+---
 
 ### Landscale landslide
 
@@ -193,32 +265,6 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 [Data](articles/d183731b.json)
 
 [Extended Data](ext_articles/d183731b.ext.json)
-
----
-
-### Rhmalia's World Record in Indonesia
-
-*2024-04-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182055) · `ta`
-
-Rohmalia, a 17-year-old from Indonesia, set a world record in the 5th Women's International T20 cricket match against Mongolia in Bali, taking 7 wickets in 3.2 overs. This achievement makes her the 3rd woman to achieve this feat, following Alison Stokes and Frederic Orterica in 2022.
-
-🟩
-
-மகளிர் சர்வதேச ரி20 கிரிக்கெட் பந்துவீச்சில் இந்தோனேசிய கிரிக்கெட் வீராங்கனை ரொஹ்மாலியா அதிசிறந்த பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்து உலக சாதனை படைத்துள்ளார்.
-
-17 -year -old Rohmalia took a world record for men and women's international T20 cricket matches for men and women.
-
-Rhmali, who debuted in the 5th Women's International T20 cricket match against Mongolia in Bali, set a world record for the bowling of 3.2 overs.
-
-Rohmalia is the 3rd hero who took 7 wickets in women's international T20 cricket matches. Earlier, Argentina's Alison Stokes and Netherlands's Frederic Orterica in 2022 were equal to the world record for 3 wickets for 3 runs.
-
-Chinese player Siaz Itrus holds the record for 7 wickets for 8 runs for 8 runs. He became the owner of this achievement in last year's match against Malaysia in Kuala Lumpur. This is the only international T20 cricket world record for the man.
-
-◼️
-
-[Data](articles/ec1c6cee.json)
-
-[Extended Data](ext_articles/ec1c6cee.ext.json)
 
 ---
 
@@ -2217,77 +2263,5 @@ However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of t
 [Data](articles/7866aa8a.json)
 
 [Extended Data](ext_articles/7866aa8a.ext.json)
-
----
-
-### 'How I Write': Ariywansa Abeysekara
-
-*2024-04-26 10:50:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pynwz6y5ro) · `si`
-
-Ariywansa Abeysekera discusses his writing process, emphasizing the importance of the first sentence and the evolution of characters and plot. He doesn't plan his novels in advance, instead allowing the story to unfold as he writes. His narrative style varies, sometimes drawing from real-life experiences, other times from the supernatural. Writing is a personal journey for him, with no set schedule, and he views it as a way to express his thoughts and feelings.
-
-🟩
-
-Ariywansa Abeysekera, we have chosen for the final part of the conversation, is a significant novel that uses in Sinhala literary history that creates a unique fiction world.
-
-In 1988, he was approved by the 'Dhage' work in 1988, composing the novels, reflecting in Sinhala literature.
-
-I talk to him as a novelist as a notener, he is in the way to understand his own and writing. The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, the writing of writing, belong to the writer's abuse of the writer.
-
-In this conversation, it was tried to pose to the secret site of the novels.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-...
-
-[Data](articles/377cc2eb.json)
-
-[Extended Data](ext_articles/377cc2eb.ext.json)
-
----
-
-### CID ordered to expedite investigations into ‘X-Press Pearl’ maritime disaster
-
-*2024-04-26 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98856/cid-ordered-to-expedite-investigations-into-x-press-pearl-maritime-disaster) · `en`
-
-The Colombo Magistrate’s Court has ordered the Criminal Investigations Department (CID) to expedite the probes related to the ‘X-Press Pearl’ maritime disaster.
-
-However, the State Counsel who appeared on behalf of the CID when the case was taken up on Thursday (25), has sought a period of one month, in order to present facts in relation to the investigations, Ada Derana reporter said.
-
-The attorneys representing the captain of the destroyed ‘X-Press Pearl’ ship and the directors of the relevant local agent, who have been named as respondents of the case, mentioned that a trial is underway before the Colombo High Court pertaining to the maritime calamity.
-
-They have also raised questions concerning the need for conducting further investigations into the same incident against this backdrop.
-
-The Colombo Additional Magistrate, who took all the facts presented into consideration, ordered the CID to conclude the relevant probes as soon as possible, and to report the progress.
-
-◼️
-
-[Data](articles/be53cc58.json)
-
-[Extended Data](ext_articles/be53cc58.ext.json)
-
----
-
-### The order to be taken about a case against beef
-
-*2024-04-26 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195985) · `si`
-
-The Colombo High Court ordered a case against three defendants, including the CID, to proceed without the accused.
-
-🟩
-
-The Colombo High Court ordered the case against three accused against three defendants, including the Criminal Investigation Department (CID).
-
-Colombo High Court Judge Damith Thatawatte ordered the exams to maintain the case without the accused without the accused.
-
-◼️
-
-[Data](articles/f20d917e.json)
-
-[Extended Data](ext_articles/f20d917e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 09:18:32**
+As of **2024-04-26 09:34:00**
 
 ## Newspaper Stats
 
-*Scraped **21,062** Articles*
+*Scraped **21,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,760
 tamilmirrorlk | 2,441
-adaderanalk | 2,501
+adaderanalk | 2,502
 virakesarilk | 3,171
 dailymirrorlk | 3,280
 adaderanasinhalalk | 3,393
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,060 (100.0%) of 21,062 articles have been extended.
+21,062 (100.0%) of 21,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### State revenue surged by 6% in Q1 2024 exceeding expectations - Siyambalapitiya
+
+*2024-04-26 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98853/state-revenue-surged-by-6-in-q1-2024-exceeding-expectations-siyambalapitiya) · `en`
+
+In the first quarter of 2024, state revenue has reached an impressive Rs. 834 billion, says State Minister of Finance, Ranjith Siyambalapitiya. This achievement not only surpasses the projected revenue but also indicates a growth of 6%, he added.
+
+The lawmaker emphasized that with prudent financial management and a consistent revenue pattern, 2024 promises to be a year where revenue targets can be successfully attained.
+
+Siyambalapitiya made these remarks during his participation in a press briefing held at the Presidential Media Centre (PMC) on Thursday (25), under the theme ‘Collective Path to a Stable Country’.
+
+...
+
+[Data](articles/7a218612.json)
+
+---
 
 ### Surgeons perform first combined heart pump and pig kidney transplant
 
@@ -47,6 +63,8 @@ The subject, 54-year-old Lisa Pisano of New Jersey, had heart failure and end-st
 ...
 
 [Data](articles/40339c96.json)
+
+[Extended Data](ext_articles/40339c96.ext.json)
 
 ---
 
@@ -91,6 +109,8 @@ Showers or thundershowers may occur at a few places in the sea areas off the coa
 ...
 
 [Data](articles/97ad8032.json)
+
+[Extended Data](ext_articles/97ad8032.ext.json)
 
 ---
 
@@ -2155,25 +2175,5 @@ Senior Presidential Advisor on National Security and Chief of Defense staff Saga
 [Data](articles/2576214b.json)
 
 [Extended Data](ext_articles/2576214b.ext.json)
-
----
-
-### Do not be afraid to use weapons, Minister Alles tells police
-
-*2024-04-25 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-be-afraid-to-use-weapons-Minister-Alles-tells-police/108-281368) · `en`
-
-Colombo, April 25 (Daily Mirror) - Public Security Minister Tiran Alles told the police today that eliminating criminals from the country is not a sin and not to be afraid to use weapons.
-
-He made these remarks while participating in the passing out parade at Katukurunda STF Training camp.
-
-"Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing and we stand by you," the minister said.
-
-"The police officers who had undergone the training know what to do. They know everything that is needed. If this team is not enough, another police motorcycle team will be established. We have a goal. All the police officers know what that goal is. I just want to go for that goal. I have done everything, including salary increases for all of you. I only expect you to go for the goal," the minister further said.
-
-...
-
-[Data](articles/9f9920e8.json)
-
-[Extended Data](ext_articles/9f9920e8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 14:34:57**
+As of **2024-04-26 14:52:20**
 
 ## Newspaper Stats
 
-*Scraped **21,117** Articles*
+*Scraped **21,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,195
 adalk | 1,765
 tamilmirrorlk | 2,446
-adaderanalk | 2,513
+adaderanalk | 2,514
 virakesarilk | 3,181
 dailymirrorlk | 3,287
 adaderanasinhalalk | 3,406
@@ -26,27 +26,49 @@ adaderanasinhalalk | 3,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,113 (100.0%) of 21,117 articles have been extended.
+21,117 (100.0%) of 21,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### දියණිය සහ දියණියගේ මිතුරියට අතවර කළ  පියා අත්අඩංගුවට
+### Maldivian launches direct flights to Colombo
+
+*2024-04-26 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98866/maldivian-launches-direct-flights-to-colombo) · `en`
+
+Maldivian, the national carrier of the Maldives, launched direct flights between Colombo and Malé as the inaugural flight touched down at the Bandaranaike International Airport (BIA) in Katunayake on Thursday (25).
+
+Accordingly, Maldivian will now operate two weekly flights departing every Thursday and Saturday, providing flexible options for both leisure and business travellers.
+
+Launching its operations, the first flight reached the BIA with 138 passengers. Upon arrival, the flight was welcomed by a celebratory water cannon salute while the passengers were accorded a warm welcome with Ceylon tea gift packs and a traditional Kandyan dance performance.
+
+◼️
+
+[Data](articles/7211dcc4.json)
+
+---
+
+### Father arrested for abusing daughter and daughter
 
 *2024-04-26 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195994) · `si`
 
-දොළොස් හැවිරිදි සිය දියණියට හා දියණියගේ 11 හැවිරිදි මිතුරියකට ලිංගික අතවර කළ බවට සැක﻿ පුද්ගලයෙකු වැල්ලවාය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 50-year-old man in Wellawaya was arrested for sexually abusing a 11-year-old girl and her 12-year-old daughter. Villagers reported the incident, leading to the police's investigation. The suspect will face charges in the Wellawaya Magistrate's Court.
 
-ගම්වාසීන් විසින් සිදුකළ දැනුම්දීමක් මත පොලීසිය විසින් සිදුකළ පරීක්ෂණයකින් අනතුරුව අදාළ පුද්ගලයාව අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු වැල්ලවාය ප්‍රදේශයේම පදිංචි අවුරුදු 50ක පුද්ගලයෙකු වේ.
+The Wellawaya Police have arrested the 12 year old daughter and daughter who had sexually abused a 11-year-old friend.
 
-සැකකරුව වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර වැල්ලවාය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The person has been arrested following an investigation made by the police on an notification carried out by the villagers.
+
+The suspect is a 50 year old resident of Wellawaya.
+
+The suspect is to be produced before the Wellawaya Magistrate's Court and Wellawaya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f113a9ba.json)
+
+[Extended Data](ext_articles/f113a9ba.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ Blinken’s trip to China – his second in the space of a year – comes as the
 ...
 
 [Data](articles/3cdabf4b.json)
+
+[Extended Data](ext_articles/3cdabf4b.ext.json)
 
 ---
 
@@ -117,6 +141,8 @@ He told Parliament that Sajith Premadasa did not attend the dinner with the Iran
 ◼️
 
 [Data](articles/06fc03de.json)
+
+[Extended Data](ext_articles/06fc03de.ext.json)
 
 ---
 
@@ -446,21 +472,29 @@ In addition, 23 kg of cannabis was seized by the police in a house in the Velavi
 
 ---
 
-### ලාංකික දරුවන් යුරෝපයට ජාවාරම් කළ ප්‍රධාන පහසුකම් සපයන්නා අල්ලයි
+### Sri Lankan children be arrested
 
 *2024-04-26 11:54:10* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-දරුවන්-යුරෝපයට-ජාවාරම්-කළ-ප්‍රධාන-පහසුකම්-සපයන්නා-අල්ලයි/11-409277) · `si`
 
-ශ්‍රී ලාංකික දරුවන් මැලේසියාව ඔස්සේ යුරෝපයේ රැගෙන ගොස් අලෙවි කිරීමේ ජාවාරමක නිරත වී සිටි ශ්‍රී ලංකාවේ ප්‍රධාන පහසුකම් සපයන්න 04/25 දින කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ  ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A 76-year-old Sri Lankan resident was arrested at Katunayake airport for allegedly smuggling 17 Tamil children to Malaysia, France, and England.
 
-මොහු කොළඹ , දෙහිවල ප්‍රදේශයේ පදිංචි 76 හැවිරිදි ද්‍රවිඩ ජාතිකයෙකි .
+🟩
 
-මොහු ශ්‍රී ලාංකික දරුවන් 17 දෙනෙකු රටින් පිට කර මිනිස් ජාවාරම් කිරීමේ අවස්ථාවන් පිළිබඳ චෝදනාවට ලක් වී සිටීම නිසා , මොහු පිළිබඳ විශේෂ , පුළුල් විමර්ශනයක් සිදු කරන ලෙස ආගමන විගමන පාළක ජනරාල් හර්ෂ ඉලුක්පිටිය මහතා ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ ඒකකය වෙත නියෝග කර තිබුණි .
+The Risk Assessment Unit of the Department of Immigration and Emigration Department (Immigration and Emigration Department Investigation Department) of the Department of Immigration and Emigration Department have been arrested at the Katunayake airport on 04/25.
 
-ඒ අනුව  ශ්‍රී ලංකා ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ ඒකකයේ නිලධාරීන් ඔහු ලුහු බදිමින් , ඔහුව සමීපව නිරීක්ෂණය කරමින් සිටි අතර , ඔහු පිළිබඳව මැලේසියාවේ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් ද දැනුවත් කිරීමට පියවර ගෙන තිබුණි .
+He is a 76 year old resident of Dehiwala.
+
+Harsha Iliksha Ilukepitiya had ordered the Risk Assessment Unit of the Immigration and Emigration Department to conduct a special, extensive investigation into his democratic investigation.
+
+Accordingly, the Risk Assessment Unit of the Department of Immigration and Emigration Department in the Department of Immigration and Emigration Department Investigation Unit, closely observed him, and the Immigration and Emigration Department officials in Malaysia were also aware of him.
+
+They were arrested by the Immigration and Emigration Department officials in Kuala Lumpur while a 14-year-old boy was taken to Malaysia with his father.
 
 ...
 
 [Data](articles/8fe393bf.json)
+
+[Extended Data](ext_articles/8fe393bf.ext.json)
 
 ---
 
@@ -2193,23 +2227,5 @@ He noted that doctors from the Obstetrics and Neurology Department of Peradeniya
 [Data](articles/68ad7e4d.json)
 
 [Extended Data](ext_articles/68ad7e4d.ext.json)
-
----
-
-### Undercover cops to combat criminal activities in prisons: IGP
-
-*2024-04-26 00:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Undercover-cops-to-combat-criminal-activities-in-prisons-IGP/108-281371) · `en`
-
-Colombo, April 26 (Daily Mirror) - In light of ongoing criminal activities within prison facilities, police have initiated decisive measures to deploy undercover officers to monitor and thwart illicit operations within the prisons.
-
-Inspector General of Police Deshabandu Tennakoon said that organized criminals are being remanded in 15 prisons across the country and 15 special police teams have been deployed as undercover officers in those prisons to identify the activities by remanded criminals.
-
-"Despite being remanded, the organized criminals still operate their underworld activities and drug trafficking via prisons. The police under the 'Yukthiya' operation had taken special measures to curb those organized crimes by inmates," the IGP said.
-
-...
-
-[Data](articles/5b2c3376.json)
-
-[Extended Data](ext_articles/5b2c3376.ext.json)
 
 ---

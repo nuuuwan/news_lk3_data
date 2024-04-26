@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 00:33:55**
+As of **2024-04-27 00:49:34**
 
 ## Newspaper Stats
 
-*Scraped **21,193** Articles*
+*Scraped **21,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 222
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,142
-dailyftlk | 1,193
+dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,450
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,189 (100.0%) of 21,193 articles have been extended.
+21,193 (100.0%) of 21,202 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ They, instead of mainly encountering the United National Party (UNP), the then r
 
 [Data](articles/869baf8c.json)
 
+[Extended Data](ext_articles/869baf8c.ext.json)
+
 ---
 
 ### Ranil’s evolving  strategy to win 2024 presidential poll
@@ -60,9 +62,57 @@ The first advantage is that Wickremesinghe has a proven track record in this so 
 
 [Data](articles/c45e4769.json)
 
+[Extended Data](ext_articles/c45e4769.ext.json)
+
 ---
 
 ### 2024-04-26 (Friday)
+
+### Shanakiyan reveals alleged Tripoli platoon link to Easter Sunday attacks
+
+*2024-04-26 23:56:08* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-reveals-alleged-Tripoli-platoon-link-to-Easter-Sunday-attacks/56-761103) · `en`
+
+Highlights the platoon’s history of involvement in killings dating back to 2005
+
+Claims platoon member ‘Police Faiz’ established ‘Imanian Enjangal’ in 2004 as part of a state intelligence op to foster Islamic extremism in SL
+
+Cites incidents linking TMVP led by MP Sivanesathurai Chandrakanthan to the Tripoli platoon
+
+Urges President Ranil Wickremesinghe to arrest Chandrakanthan to uncover the truth about the Easter Sunday attack
+
+Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam on Thursday accused the infamous Tripoli platoon, a paramilitary intelligence unit, of involvement in the Easter Sunday attacks in 2019.
+
+Speaking during the debate on the Easter Sunday attacks, Rasamanickam said the group had been involved in a spate of killings since early 2005, long before the Easter Sunday attacks.
+
+The MP said the platoon made up of Muslim, Tamil and Sinhalese operatives was set up in 2005 and persons linked to it such as Police Faiz, Khaleel and Army Mohideen are linked to serious crimes.
+
+...
+
+[Data](articles/4a896e9e.json)
+
+---
+
+### Easter Sunday Attack – Eran details measures for justice under future SJB Govt.
+
+*2024-04-26 23:55:10* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-Attack-Eran-details-measures-for-justice-under-future-SJB-Govt/56-761102) · `en`
+
+Reveals SJB will appoint special investigative commission to deliver justice to victims
+
+Says SJB will if necessary include foreign judges and foreign investigators in commission
+
+Discloses plans to set up permanent investigative office with prosecution office
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday disclosed his party’s plans to deliver justice to the victims of the Easter Sunday terror attack under a Government led by them.
+
+“A future SJB Government will ensure that truth is revealed and there is justice to provide redress to victims while punishing those who are responsible for the Easter attack or those who failed to prevent the Easter attack in the year 2019,” he said.
+
+Speaking at the debate on the Easter Sunday terror attack, Wickramaratne said a future SJB Government will first appoint a special investigative commission.
+
+...
+
+[Data](articles/6e369750.json)
+
+---
 
 ### Mano Ganesan requests China to help Sri Lanka join BRICS
 
@@ -78,25 +128,103 @@ Mr. Ganesan met her along with Opposition Leader Sajith Premadasa. The CPC deleg
 
 [Data](articles/ec8267e5.json)
 
+[Extended Data](ext_articles/ec8267e5.ext.json)
+
 ---
 
-### தேடப்பட்டு வந்தவர் சிக்கினார்
+### AKD urges Govt. to end ‘Ibrahim mantra’ and take action instead
+
+*2024-04-26 23:54:11* · [`dailyftlk`](https://www.ft.lk/news/AKD-urges-Govt-to-end-Ibrahim-mantra-and-take-action-instead/56-761101) · `en`
+
+Points out failure to file charges against Mohamed Ibrahim father of two of Easter Sunday suicide bombers five years on
+
+Highlights Ibrahim’s past accolades, including awards from former President Mahinda Rajapaksa before he was nominated to JVP national list
+
+Says mistakes can happen when choosing candidates but policy must be to not protect them if found to have committed wrong
+
+National People’s Power (NPP) party leader Anura Kumara Dissanayake yesterday said the Government must stop chanting the ‘Ibrahim’ mantra and instead take action if Mohammed Ibrahim, father of two of the Easter Sunday suicide bombers has in fact committed any wrongdoing.
+
+“There is no point in chanting the Ibrahim mantra if the Government is not carrying out its duty,” he said while participating in the parliamentary debate on the Easter Sunday attack.
+
+“It has been five years since but the Government has failed to file a single charge against him,” he added.
+
+...
+
+[Data](articles/d30759ff.json)
+
+---
+
+### SLT-Mobitel wins ‘Best Corporate Citizen Sustainability Award 2023’
+
+*2024-04-26 23:53:00* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-wins-Best-Corporate-Citizen-Sustainability-Award-2023/34-761100) · `en`
+
+Recognised for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event.
+
+The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
+
+The annual awards are organised by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organisations committed to sustainability across various sectors.
+
+...
+
+[Data](articles/eaf046fd.json)
+
+---
+
+### Ninewells Hospital partners Sri Lanka Army to implement health insurance scheme for war heroes
+
+*2024-04-26 23:52:26* · [`dailyftlk`](https://www.ft.lk/business/Ninewells-Hospital-partners-Sri-Lanka-Army-to-implement-health-insurance-scheme-for-war-heroes/34-761099) · `en`
+
+Ninewells Hospital officials exchange the MoU signed with the Sri Lanka Army
+
+Ninewells Hospital has announced its collaboration with the Sri Lanka Army to implement a special health insurance scheme.
+
+This partnership, aimed at expressing gratitude to the valiant war heroes who have tirelessly defended our nation, signifies a significant step towards ensuring their well-being.
+
+The Memorandum of Understanding (MoU) between Ninewells Hospital and the Army Suva Sahana Insurance Scheme initiated by the Sri Lanka Army underscores the commitment of both entities towards the health and welfare of military personnel. Through this collaboration, Ninewells Hospital pledges to deliver top-tier healthcare services, catering to the unique needs of army members and their families.
+
+...
+
+[Data](articles/e9d57047.json)
+
+---
+
+### Amana Bank collaborates with the University of Colombo to mark World Water Day
+
+*2024-04-26 23:51:36* · [`dailyftlk`](https://www.ft.lk/business/Amana-Bank-collaborates-with-the-University-of-Colombo-to-mark-World-Water-Day/34-761098) · `en`
+
+Amana Bank celebrated the World Water Day with University of Colombo Dean of the Faculty of Arts Senior Prof. Lasantha Manawadu
+
+To mark World Water Day, Amana Bank partnered with the Environment Committee of the Faculty of Arts at the University of Colombo to promote awareness of water conservation and sustainable practices. Aligned with the global theme ‘Water for Peace,’ the University organised a poster competition for undergraduates and facilitated a platform for emerging researchers and scholars to present their work and participate in insightful academic discussion. Gracing the occasion Professor Lasantha Manawadu, the Dean of the Faculty of Arts, delivered an inspiring address to the audience highlighting the importance in in fostering a more water-conscious society.
+
+...
+
+[Data](articles/ed1ee256.json)
+
+---
+
+### The searched man was trapped
 
 *2024-04-26 23:44:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்தவர்-சிக்கினார்/175-336390) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி  படுகொலை செய்த சம்பவத்தில் தேடப்பட்டு வந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A suspect arrested for kidnapping and murder in Vaddukoddai, Jaffna. A couple kidnapped near a naval camp, husband killed, wife left. Nine suspects detained, including a main suspect arrested in Karainagar.
 
-கடந்த மார்ச் மாதம் 11ஆம் திகதி காரைநகர் பகுதிக்கு மோட்டார் சைக்கிளில் சென்று விட்டு, வீடு திரும்பிக்கொண்டிருந்த தம்பதியினரை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்று, கணவனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்துள்ளதுடன் மனைவியை வீதியில் இறக்கி விட்டு சென்று இருந்தனர்.
+🟩
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த பொலிஸார் இதுவரையில் 09 பேரை சந்தேகத்தில் கைது செய்து நீதிமன்றில் முற்படுத்திய நிலையில் நீதிமன்றால் அவர்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+A suspect has been arrested in connection with the kidnapping and murder of a youth in Vaddukoddai, Jaffna.
 
-இந்நிலையில் சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்களில் ஒருவர் காரைநகர் பகுதியில் தலைமறைவாக இருந்த நிலையில் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுளளார்.
+On March 11, a motorcycle was left on a motorbike to Karainagar, kidnapping the couple in front of a naval camp near the Ponnalai Bridge, kidnapping and killing her husband and murdering her husband and leaving his wife on the streets.
 
-கைது செய்யப்பட்டவரை விசாரணைகளின் பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+They have been detained by the court after the police have been investigating the incident and arrested nine suspects so far.
+
+One of the main suspects involved in the incident was arrested by the police yesterday after being hiding in Karainagar.
+
+Police said they had taken steps to appear in court after investigations.R
 
 ◼️
 
 [Data](articles/196f9f10.json)
+
+[Extended Data](ext_articles/196f9f10.ext.json)
 
 ---
 
@@ -117,6 +245,52 @@ Further, the President has outlined the government’s agriculture modernization
 [Data](articles/3b5fcba5.json)
 
 [Extended Data](ext_articles/3b5fcba5.ext.json)
+
+---
+
+### Thevarapperuma a deformed version of a “Clean” MP
+
+*2024-04-26 23:35:46* · [`dailyftlk`](https://www.ft.lk/columns/Thevarapperuma-a-deformed-version-of-a-Clean-MP/4-761090) · `en`
+
+The cumulative factor of electing MPs on ethno-religious and caste preferences with ability to have personal issues addressed through them, have given the “vote” a completely contradictory reason for use, to what it is meant for. Within that distorted individualised purpose of using the vote left unquestioned, the likes of JVP/NPP now wants people to vote for candidates who would in their electorate “serve the people” and they pose as the most suitable candidates to “serve the people”. In plain language, Thevarapperumas do not “serve the people” as Nalinda Jayatissa says. They respond to individual requests
+
+Two politicians, one a State Minister in present SLPP Government headed by President Wickremesinghe and the other a former State Minister under incumbent President Wickremesinghe’s previous “Yahapalana” rule, had tragic, unexpected deaths. One in a road accident and the other in an electrocution in his own land. The two had two different social responses over their deaths.
+
+...
+
+[Data](articles/68e67b77.json)
+
+---
+
+### From global to local: Challenges for equitable local-level access to climate finance and support
+
+*2024-04-26 23:33:52* · [`dailyftlk`](https://www.ft.lk/columns/From-global-to-local-Challenges-for-equitable-local-level-access-to-climate-finance-and-support/4-761089) · `en`
+
+For climate finance and global funds, ensuring that funding reaches the local level and vulnerable
+
+Climate change impacts all sectors, administrative levels, and segments of society. Research has firmly established the need to mobilise significant resources for addressing these impacts, as well as the current gaps and shortfalls in this endeavour. According to the first Global Stocktake, which was finalised at the 28th meeting of the Conference of the Parties to the UNFCCC and the Paris Agreement (COP28) in December 2023, the adaptation finance needs of developing countries “are estimated at USD 215–387 billion annually up until 2030,” and their needs to implement their Nationally Determined Contributions (NDCs) “at USD 5.8–5.9 trillion for the pre-2030 period.”
+
+...
+
+[Data](articles/264d1ca1.json)
+
+---
+
+### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
+
+*2024-04-26 23:25:35* · [`dailyftlk`](https://www.ft.lk/columns/Unveiling-the-dark-reality-Sri-Lanka-s-deepening-drug-crisis/4-761081) · `en`
+
+There’s something rotting in our system, our society, and it’s being allowed to get worse
+
+There are of course principled and professionally sharp individuals in the police and other arms of the justice system who work tirelessly to combat the drug menace but their efforts are relentlessly compromised at some point by the intervention of some bigwig or another. Therein lies the problem and the solution
+
+Robert Frost once wrote, “Home is the place where, when you have to go there, they have to take you in.” It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
+
+It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
+
+...
+
+[Data](articles/49739f89.json)
 
 ---
 
@@ -2025,233 +2199,5 @@ In this case, the death investigation into his body. Jayapalasingham carried out
 [Data](articles/9a867951.json)
 
 [Extended Data](ext_articles/9a867951.ext.json)
-
----
-
-### Several political decisions taken at meeting between President & ruling party MPs
-
-*2024-04-26 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98861/several-political-decisions-taken-at-meeting-between-president-ruling-party-mps) · `en`
-
-A special meeting of the Members of Parliament representing the ruling party led by President Ranil Wickremesinghe has been held at the Presidential Secretariat last night (25).
-
-During the discussion, special attention of the MPs has reportedly been drawn to the government’s future course of actions, implementation of development projects and preparation of developmental plans covering all electorates.
-
-Sources said that it also focused on the decisions to be taken by political parties and reaching specific agreements in relation to the upcoming elections.
-
-Speaking to the media following the meeting, State Minister D.B. Herath said that the affiliated parties of the government have decided to work together in the upcoming presidential election.
-
-The meeting was participated by all MPs of the ruling party including Prime Minister Dinesh Gunawardena and former President Mahinda Rajapaksa.
-
-◼️
-
-[Data](articles/d0e0ce6a.json)
-
-[Extended Data](ext_articles/d0e0ce6a.ext.json)
-
----
-
-### A person arrested with Kerala cannabis worth about Rs 70 lakh
-
-*2024-04-26 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181991) · `ta`
-
-Dematagoda Samara Niroshan, 47, arrested with 25 kg of Kerala cannabis worth Rs 70 lakh, linked to Ratul Kumara's drug smuggling.
-
-🟩
-
-One of the main colleagues of "Ratul Kumara", who smuggled drugs abroad, has been arrested by the Kalutara Criminal Investigation Division with 25 kg of cannabis worth about Rs 70 lakh.
-
-Based on information received by the Intelligence Unit of the supply of cannabis, he has been arrested with 2 kg of Kerala cannabis for supplying another person in the city of Kaduwela.
-
-The arrested person was 47 years old, Dematagoda Samara Niroshan.
-
-In addition, 23 kg of cannabis was seized by the police in a house in the Velavita area of Kaduwela during further inquiries into the suspect.
-
-◼️
-
-[Data](articles/8ba6de87.json)
-
-[Extended Data](ext_articles/8ba6de87.ext.json)
-
----
-
-### An old leader of Malitagolla will be reactivated
-
-*2024-04-26 11:58:55* · [`adalk`](https://www.ada.lk/breaking_news/මලිතගොල්ල-ප්‍රදේශයේ-පැරණි-නායාමක්-නැවත-සක්‍රිය-වෙයි/11-409278) · `si`
-
-The old leader of Malitagolla has been reactivated, accelerating landslides in Kithagolla. Landslides have been activated near the 16th kilometer vacancy on the Wellawaya road, a 2019 landslide risk zone. This landslide can cause significant damage. Ten families displaced by the landslide are trying to stay in the area. The Disaster Management Center in Badulla is contacting all parties involved to take long-term measures.
-
-🟩
-
-Deputy Director of the Disaster Management Center EM L Udaya Kumara said that the old leader of the Falls had been re-activated and had accelerated in the Kithagolla.
-
-The landslides have been activated in a large area of the Wellawaya road near the 16th kilometer vacancy near the 16th Kim Road.
-
-The landslide is a landslide risk zone in 2019, he said.
-
-The landslide of the landslides that can cause great damage to the current situation have been caused by the earth with the landslides, he added.
-
-It is said that ten families who have been dismissed in the area are trying to stay in those places.
-
-The deputy director of the Disaster Management Center (Disaster Management Center), Badulla has already begun to be contacted by all parties on the landslide and long-term measures attached to all parties.
-
-◼️
-
-[Data](articles/d0ef6dec.json)
-
-[Extended Data](ext_articles/d0ef6dec.ext.json)
-
----
-
-### Sri Lankan children be arrested
-
-*2024-04-26 11:54:10* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-දරුවන්-යුරෝපයට-ජාවාරම්-කළ-ප්‍රධාන-පහසුකම්-සපයන්නා-අල්ලයි/11-409277) · `si`
-
-A 76-year-old Sri Lankan resident was arrested at Katunayake airport for allegedly smuggling 17 Tamil children to Malaysia, France, and England.
-
-🟩
-
-The Risk Assessment Unit of the Department of Immigration and Emigration Department (Immigration and Emigration Department Investigation Department) of the Department of Immigration and Emigration Department have been arrested at the Katunayake airport on 04/25.
-
-He is a 76 year old resident of Dehiwala.
-
-Harsha Iliksha Ilukepitiya had ordered the Risk Assessment Unit of the Immigration and Emigration Department to conduct a special, extensive investigation into his democratic investigation.
-
-Accordingly, the Risk Assessment Unit of the Department of Immigration and Emigration Department in the Department of Immigration and Emigration Department Investigation Unit, closely observed him, and the Immigration and Emigration Department officials in Malaysia were also aware of him.
-
-They were arrested by the Immigration and Emigration Department officials in Kuala Lumpur while a 14-year-old boy was taken to Malaysia with his father.
-
-...
-
-[Data](articles/8fe393bf.json)
-
-[Extended Data](ext_articles/8fe393bf.ext.json)
-
----
-
-### One of two - China warns America
-
-*2024-04-26 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195988) · `si`
-
-US Secretary Anthony Blinkill visits China, discussing key issues with Chinese ministers. China's stance on stability or collapse with the US is a focus. Blinkill's visit aims to strengthen US-China relations, with China's support for Russia and concerns over the South China Sea and Taiwan highlighted.
-
-🟩
-
-US Secretary Anthony Blinkill is currently visiting China.
-
-International media reports that he is to discuss some of the important issues and ministers of China.
-
-He held discussions with the Chinese foreign minister of China today (26).
-
-The wang is said to select one of the two "stability and collapse" to China and the United States.
-
-This will be the second time he came to China in Blinon year. It is said that the purpose of this visit is to strengthen the relations of the two countries that have arisen.
-
-In particular, China supports Russia as well as the prospective issues that arise against the South China Sea and the aggression against Taiwan.
-
-◼️
-
-[Data](articles/fc26c836.json)
-
-[Extended Data](ext_articles/fc26c836.ext.json)
-
----
-
-### Five including Ven. Ulapane Sumangala Thero granted bail
-
-*2024-04-26 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98859/five-including-ven-ulapane-sumangala-thero-granted-bail) · `en`
-
-Five individuals including Ven. Ulapane Sumangala Thero who were remanded over the charges of obstructing the duties of public officials, have been granted bail.
-
-Accordingly, the Colombo Magistrate’s Court has ordered that four accused including Ven. Ulapane Sumangala Thero be released under two surety bails of Rs. 200,000 each and the other suspect under a surety bail of Rs. 100,000.
-
-Furthermore, the court also imposed an overseas travel ban on Ven. Sumangala Thero, Ada Derana reporter said.
-
-Additionally, the Colombo Magistrate has advised the suspects to refrain from exerting influence on the witnesses of the case.
-
-The 05 individuals in question were charged for allegedly hindering the government officials who were attempting to remove some shanties on Dabare Mawatha in Narahenpita, in compliance with a court order.
-
-◼️
-
-[Data](articles/5b7e3694.json)
-
-[Extended Data](ext_articles/5b7e3694.ext.json)
-
----
-
-### Vaddukoddai Youth Massacre: Arrested
-
-*2024-04-26 11:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட்டுக்கோட்டை-இளைஞன்-படுகொலை-மேலுமொருவர்-கைது/71-336374) · `ta`
-
-A suspect has been arrested for the kidnapping and murder of a youth in Vaddukoddai, Jaffna. The victim was abducted by a mob near a naval camp and left his wife on the streets. Nine suspects have been detained, including the main suspect, who was arrested after hiding in Karainagar.
-
-🟩
-
-A suspect has been arrested for allegedly involved in the kidnapping and murder of a youth in the Vaddukoddai area in Jaffna.
-
-On March 11, a motorcycle was left on a motorcycle and was abducted by a violent mob in front of a naval camp near the Ponnalai Bridge and murdered her husband and murdered her husband and left his wife on the streets.
-
-They have been detained by the court after the police have been investigating the incident and arrested nine suspects so far.
-
-One of the main suspects involved in the incident was arrested by the police yesterday after being hiding in Karainagar.
-
-Police said they had taken steps to appear in court after investigations.
-
-◼️
-
-[Data](articles/517c578b.json)
-
-[Extended Data](ext_articles/517c578b.ext.json)
-
----
-
-### Shooting on judge
-
-*2024-04-26 11:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீதிபதி-மீது-துப்பாக்கி-சூடு-கைதுப்பாக்கியால்-வழக்கு-ஒத்திவைப்பு/71-336373) · `ta`
-
-The trial of the shooting incident on Judge Ilancheliyan on July 22, 2017, was postponed to May due to the unavailability of the main proof from the State Analysis Division. The case involved the judge's bodyguard identifying a handgun, which was not present in the incident. The judge ordered the police to return the handgun from the State Analysis Department.
-
-🟩
-
-Judge Ma. The case has been postponed to May as the main proof of the firing case against the Ilancheliyan has not been recovered from the State Analysis Division.
-
-The trial of the shooting incident on Judge Ilancheliyan on July 22, 2017 was held on Thursday (25) in the presence of Jaffna Western Court Judge Denis Shantan Susitasan.
-
-At that time, the judge's bodyguard appeared at the police officer who served at the time and testified.
-
-Can you identify your handgun during that time?When the state prosecutor asked the witness, he replied, "Yes."
-
-But the gun was not in the gunfight to identify the gun. It was revealed that the handgun was handed over to the State Analysis Department.
-
-Subsequently, the judge adjourned the case on May 21, saying that the main proof and the investigation could not be carried out.
-
-The judge also ordered the police to return the handgun from the State Analysis Department and submit it to the House.
-
-◼️
-
-[Data](articles/93bc72b9.json)
-
-[Extended Data](ext_articles/93bc72b9.ext.json)
-
----
-
-### The date on O / L returns to review results
-
-*2024-04-26 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195987) · `si`
-
-"Susil Premajayantha announced Ordinary Level resurrection results release before the GCE Ordinary Level exam, scheduled for the second week of May. All survey results have been released."
-
-🟩
-
-Minister of Education Susil Premajayantha says that the Ordinary Level resurrection results will be released before the GCE Ordinary Level examination.
-
-He was speaking in parliament today (26). The Ordinary Level examination is due to begin the second week in May.
-
-"The GCE Ordinary Level Examination is scheduled to begin the second week in May. Before that, the Commissioner of Examinations informed the Commissioner of Examinations that all the survey results were released. "
-
-◼️
-
-[Data](articles/b9ba4763.json)
-
-[Extended Data](ext_articles/b9ba4763.ext.json)
 
 ---

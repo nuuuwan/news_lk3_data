@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 01:34:10**
+As of **2024-04-27 01:52:14**
 
 ## Newspaper Stats
 
-*Scraped **21,202** Articles*
+*Scraped **21,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,450
 adaderanalk | 2,523
-virakesarilk | 3,195
+virakesarilk | 3,199
 dailymirrorlk | 3,305
 adaderanasinhalalk | 3,421
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,202 (100.0%) of 21,202 articles have been extended.
+21,202 (100.0%) of 21,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### வலுசக்தித்  துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனம்! - மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக
+
+*2024-04-27 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182061) · `ta`
+
+வலுசக்தித் துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனமொன்றை நிறுவத் தேவையான நடவடிக்கைகள் மேற்கொள்ளப்படும் என மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக தெரிவித்தார்.
+
+குறித்த நிறுவனம், வலுசக்தித் துறையுடன் தொடர்புடைய இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை தொடர்பான விடயங்களை ஒழுங்குபடுத்தும் என்றும் அதன் மூலம் நுகர்வோருக்கு நியாயமான சேவையை வழங்க எதிர்பார்ப்பதாகவும் இராஜாங்க அமைச்சர் மேலும் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக இதனைத் தெரிவித்தார்.
+
+தொடர்ச்சியான வலுசக்தி விநியோகத்திற்குத் தேவையான ஸ்திரத்தன்மையை தற்போது ஏற்படுத்த முடிந்துள்ளது. எரிபொருள் வரிசைகளின் காலம் முடிந்துவிட்டது. எமது அமைச்சும் அதனுடன் இணைந்த நிறுவனங்களும் உயர்தர எரிபொருளை வழங்க நடவடிக்கை எடுத்துள்ளது.
+
+மேலும், வலுசக்தித் துறையின் இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை ஆகியவற்றுடன் தொடர்புடைய ஒரு சுயாதீனமான ஒழுங்குமுறை நிறுவனமொன்றின் அவசியத்தை நாம் அடையாளம் கண்டுள்ளோம்.
+
+...
+
+[Data](articles/c8c23f47.json)
+
+---
+
+### குண்டுத்தாக்குதலின் பின்னணியில் மோடியின் பாதுகாப்பு ஆலோசகர் அஜித் தோவால் - விமல் வீரவன்ச
+
+*2024-04-27 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182060) · `ta`
+
+...
+
+[Data](articles/5b9ba150.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதலுக்கு தீர்வுகாண கத்தோலிக்க சட்டத்தரணிகளைக்கொண்ட ஆணைக்குழு அமைக்க வேண்டும் - அமைச்சர் ஹரின்
+
+*2024-04-27 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182059) · `ta`
+
+கத்தோலிக்க சட்டத்தரணிகள் சமூகத்தை அழைத்து அதிகாரமுடைய ஆணைக்குழுவொன்றை ஏற்படுத்தி உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான விசாரணைகளை மேற்கொள்ள இடமளிக்க வேண்டும் என அமைச்சர் ஹரின் பெர்ணான்டோ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) இடம்பற்ற  உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை  மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் தொடர்ந்து விவாதிப்பதைவிட அதற்கு தீர்வொன்றை வழங்க நடவடிக்கை எடுக்க வேண்டும். அதனால் இதற்கு தீர்வாக கத்தோலிக்க சட்டத்தரணிகள் சமூகத்தை அழைத்து அதிகாரமுடைய ஆணைக்குழுவொன்றை ஏற்படுத்தி உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பான விசாரணைகளை மேற்கொள்ள இடமளிக்க வேண்டும். அது தொடர்பிலான  சட்ட ரீதியிலான நடவடிக்கைகளை எடுப்பதற்கும் அந்த ஆணைக்குழுவுக்கு பொறுப்பாக்க வேண்டும்.
+
+...
+
+[Data](articles/03e169bd.json)
+
+---
+
+### எத்தனை விசாரணைகள் வந்தாலும்  எதிர்கொள்ளத் தயார் - இராஜாங்க அமைச்சர் சிவநேசத்துரை சந்திரகாந்தன்
+
+*2024-04-27 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182058) · `ta`
+
+நான் விடுதலைப்போராட்டத்தில் இருந்தவன் என்பதற்காக எல்லாவற்றையும்  எனது தலையில் கொட்ட முடியாது. எத்தனை விசாரணைகள் வந்தாலும் நான் எதிர்கொள்ளத்தயாராகவே இருக்கின்றேன் என  இராஜாங்க அமைச்சர் சிவநேசத்துரை சந்திரகாந்தன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வெள்ளிக்கிழமை (26) இடம்பற்ற  உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பான சபை ஒத்திவைப்புவேளை  மூன்றாம் நாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இது  தேர்தல் ஆண்டு என்ற அடிப்படையில் எதிர்கட்சியினரும் வேறு சிலரும் ரணித்த அந்த ஜீவன்களை மையப்படுத்தி இன்னமும் விவாதப்பொருளாக்கிக் கொண்டிருக்கின்றார்கள். சிலர் அரசியலுக்காக என் மீதும் கை  நீட்டுவதனை இங்கு அவதானித்தேன். அவர்களைப்பற்றி என்னால் கவலை மட்டும்தான் அடைய முடியும். எத்தனை விசாரணைகள் வந்தாலும் நான் எதிர்கொள்ளத் தயராகவே இருக்கின்றேன்.
+
+...
+
+[Data](articles/87c1d9f2.json)
+
+---
 
 ### The SLFP mess; for whose benefit?
 
@@ -2121,101 +2183,5 @@ The US purchasing price of the US on Friday (April 26) was reported at the US tr
 [Data](articles/df70aa1c.json)
 
 [Extended Data](ext_articles/df70aa1c.ext.json)
-
----
-
-### Sri Lanka’s Mattala Airport to be managed by India, Russia companies
-
-*2024-04-26 12:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-mattala-airport-to-be-managed-by-india-russia-companies-160117/) · `en`
-
-ECONOMYNEXT – Management of Sri Lanka’s southern Mattala Rajapaksa International Airport has been awarded to a Russia and India joint venture, cabinet spokesman Bandula Gunawardena said.
-
-“Five parties submitted Expressions of Interest and the cabinet approved the decision to award it to the Russia-India joint venture on a 30-year contract.”
-
-The companies were named as Shaurya Aeronautics Pvt Ltd of India and Airports of Regions Management Company of Russia.
-
-The China-built airport has struggled to attract regular traffic, even after a raft of special concessions were offered for international airlines operating from the airport, including discounts on landing and parking charges.
-
-The losses of the airport were reduced by 30 percent, Ports and Aviation Minister Nimal Siripala de Silva told parliament in December.
-
-Sri Lanka’s Mattala Airport loses billion rupees in 2023: Minister
-
-This week Iran’s President Seyyed Ebrahim Raisi landed at the airport in an Airbus A340. (Colombo/Apr26/2024)
-
-◼️
-
-[Data](articles/95d75f2b.json)
-
-[Extended Data](ext_articles/95d75f2b.ext.json)
-
----
-
-### Massive money transferring scam from accounts without notice: MP reveals
-
-*2024-04-26 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Massive-money-transferring-scam-from-accounts-without-notice-MP-reveals/108-281426) · `en`
-
-Parliament, April 26 (Daily Mirror)- A massive scam is being operated where money is transferred from current and savings accounts to other multiple accounts without any notice to the account holder, an Opposition MP revealed in Parliament.
-
-MP Gamini Waleboda told Parliament that people have complained that money from their current and savings accounts have been transferred to multiple other accounts within a day without the account holder getting any notification of the transfers.
-
-He said people who had done online transactions had fallen victims to this scam.
-
-The MP said Rs. 1.1 million from an account of a Buddhist monk from Balangoda had been transferred in this manner and it was found that a group of people who had been trained under an institute engaged in providing online transaction training were behind the scam.
-
-He urged the House to report the matter to the Central Bank and look into it soon, claiming that money had been transferred from some 1000 accounts so far.
-
-◼️
-
-[Data](articles/7af2b5c0.json)
-
-[Extended Data](ext_articles/7af2b5c0.ext.json)
-
----
-
-### Sri Lanka in the presence of countries that are most affected by asthma in the world
-
-*2024-04-26 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182000) · `ta`
-
-Sri Lanka, among countries most affected by asthma, has 10-15% of its population suffering, impacting children, youth, and the elderly. Dr. Neranjan Dissanayake highlights that 90% of asthma cases can be managed with low-cost medication. World Asthma Day, May 7th, features awareness programs.
-
-🟩
-
-Sri Lanka's presence in the world of asthma is in the world of asthma, said Dr. Neranjan Dissanayake, president of the Sri Lanka Respiratory Professional Association.
-
-He said that 10 to 15 percent of the total population of the country suffer from asthma, which affects children, youth and the elderly.
-
-Therefore, if asthma is not properly controlled, it can lead to death.
-
-90 % of asthma patients can be easily controlled by medication at very low cost, said Dr. Neranjan Dissanayake.
-
-World Asthma Day comes on May 7th. Awareness program has been organized on behalf of the Breathing Diseases Association.
-
-◼️
-
-[Data](articles/ab538feb.json)
-
-[Extended Data](ext_articles/ab538feb.ext.json)
-
----
-
-### Yall. Elderly body body recovered with fuel injuries
-
-*2024-04-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182003) · `ta`
-
-An elderly man's body was found in Alavetti, Jaffna, after a fire broke out while he smoked. His daughter was out, and the body was recovered by a neighbor. A death investigation is underway, with the body sent to Jaffna Teaching Hospital for examination.
-
-🟩
-
-The body of an elderly man was recovered on Thursday evening after a house in Alavetti south of the Tellippalai police division in Jaffna. The body was recovered by Iyamillai Thevarasa (73 years old) from the same area.
-
-The old man lives with his daughter. Her daughter had gone out this evening. When the old man tried to smoke beedi, he was killed when a fire broke out.
-
-In this case, the death investigation into his body. Jayapalasingham carried out. The body has been taken to the Jaffna Teaching Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/9a867951.json)
-
-[Extended Data](ext_articles/9a867951.ext.json)
 
 ---

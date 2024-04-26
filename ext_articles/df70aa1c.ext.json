@@ -1,0 +1,19 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d85\u0daf \u0db8\u0dd4\u0daf\u0dbd\u0dca \u0dc0\u0dd2\u0db1\u0dd2\u0db8\u0dba \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba",
+      "body_lines": [
+        "\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf \u0d9c\u0db1\u0dd4\u0daf\u0dd9\u0db1\u0dd4 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0dda \u0dc3\u0dd2\u0d9a\u0dd4\u0dbb\u0dcf\u0daf\u0dcf (\u0d85\u0db4\u0dca\u0dbb\u0dda\u0dbd\u0dca 26) \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba\u0dda \u0db8\u0dd2\u0dbd\u0daf\u0dd3 \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dd2\u0dbd \u0dbb\u0dd4."
+      ]
+    },
+    "en": {
+      "title": "Today's currency exchange rate",
+      "body_lines": [
+        "The US purchasing price of the US on Friday (April 26) was reported at the US transaction rate at Rs."
+      ]
+    }
+  },
+  "summary_lines": [
+    "Today's currency exchange rate: US transaction rate at Rs. on April 26."
+  ]
+}

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 14:18:34**
+As of **2024-04-26 14:34:57**
 
 ## Newspaper Stats
 
-*Scraped **21,113** Articles*
+*Scraped **21,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,764
+adalk | 1,765
 tamilmirrorlk | 2,446
-adaderanalk | 2,512
+adaderanalk | 2,513
 virakesarilk | 3,181
-dailymirrorlk | 3,286
-adaderanasinhalalk | 3,405
+dailymirrorlk | 3,287
+adaderanasinhalalk | 3,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,108 (100.0%) of 21,113 articles have been extended.
+21,113 (100.0%) of 21,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
 
-### දුම්රිය සාමාන්‍යාධිකාරී ධුරයේ වැඩබැලීමට එස්.එස් මුදලිගේ පත් කෙරේ
+### දියණිය සහ දියණියගේ මිතුරියට අතවර කළ  පියා අත්අඩංගුවට
+
+*2024-04-26 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195994) · `si`
+
+දොළොස් හැවිරිදි සිය දියණියට හා දියණියගේ 11 හැවිරිදි මිතුරියකට ලිංගික අතවර කළ බවට සැක﻿ පුද්ගලයෙකු වැල්ලවාය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ගම්වාසීන් විසින් සිදුකළ දැනුම්දීමක් මත පොලීසිය විසින් සිදුකළ පරීක්ෂණයකින් අනතුරුව අදාළ පුද්ගලයාව අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු වැල්ලවාය ප්‍රදේශයේම පදිංචි අවුරුදු 50ක පුද්ගලයෙකු වේ.
+
+සැකකරුව වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර වැල්ලවාය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/f113a9ba.json)
+
+---
+
+### Choose between stability and ‘downward spiral’ – China tells US
+
+*2024-04-26 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98865/choose-between-stability-and-downward-spiral-china-tells-us) · `en`
+
+China and the US face a choice between stability and a “downward spiral,” Chinese Foreign Minister Wang Yi told counterpart Antony Blinken on Friday in Beijing, as the American diplomat kicked off a day of meetings with top Chinese officials.
+
+Blinken’s trip to China – his second in the space of a year – comes as the two global powers seek to expand communication and stabilize rocky ties, while also navigating a host of thorny issues from China’s support for Russia to its aggression in the South China Sea and toward Taiwan.
+
+“Should China and the United States keep to the right direction of moving forward with stability or return to a downward spiral? This is a major question before our two countries, and tests our sincerity and ability,” Wang told Blinken during a meeting at the Diaoyutai State Guesthouse, after saying US-China ties were “beginning to stabilize.”
+
+...
+
+[Data](articles/3cdabf4b.json)
+
+---
+
+### SS Mudali appointed to work in general area General Manager
 
 *2024-04-26 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195993) · `si`
 
-පුරප්පාඩු වී ඇති දුම්රිය සාමාන්‍යාධිකාරි ධුරයේ රාජකාරී ආවරණය කිරීම සඳහා ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශයේ අධ්‍යක්ෂ ජනරාල් එස්.එස්. මුදලිගේ මහතා පත්කර තිබේ.
+SS Mudali, appointed as General Manager, will temporarily fill the Railway General Manager position vacated by Mr. W.Bandara's death.
 
-දුම්රිය සාමාන්‍යාධිකාරිවරයා ලෙස කටයුතු කළ එච්. එම්. කේ. ඩබ්.බණ්ඩාර මහතා පසුගියදා හදිසියේ අභවප්‍රාප්ත වී තිබුණි.
+🟩
 
-ඒ අනුව පුරප්පාඩුව පවතින එම තනතුර සඳහා සුදුසු නිලධාරියකු අමාත්‍ය මණ්ඩලය විසින් පත් කරන තෙක් එහි රාජකාරී ආවරණය කිරීම සඳහා නව පත් කිරීම සිදුකර තිබේ.
+SS Director General of the Ministry of Transport and Highways to cover duties as the vacant Railway General Manager. Mudalige has been appointed.
+
+H. Wickremesinghe of General Manager. M. K. Mr. W.Bandara had recently passed away.
+
+Accordingly, an officer has been appointed to cover its duties until the vacancy is appointed by the Cabinet.
 
 ◼️
 
 [Data](articles/6d7c0935.json)
+
+[Extended Data](ext_articles/6d7c0935.ext.json)
 
 ---
 
@@ -60,21 +100,45 @@ Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 
 
 [Data](articles/afa57efd.json)
 
+[Extended Data](ext_articles/afa57efd.ext.json)
+
 ---
 
-### පාකිස්තාන තරුණියකට ඉන්දීය ජාතිකයෙකුගේ හදවතක් බද්ධ කරයි
+### Iranian Embassy refused appointment for Sajith to meet Iranian President: Nalin Bandara
+
+*2024-04-26 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Embassy-refused-appointment-for-Sajith-to-meet-Iranian-President-Nalin-Bandara/108-281429) · `en`
+
+Parliament, April 26 (Daily Mirror)- Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara said today that Opposition Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
+
+He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe as he never attends dinners hosted by President Wickremesinghe.
+
+"I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy to meet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe," he said.
+
+◼️
+
+[Data](articles/06fc03de.json)
+
+---
+
+### A heart of Indian nationality is transplanted to a Pakistan
 
 *2024-04-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195992) · `si`
 
-පාකිස්තාන 19 හැවිරිදි තරුණියකට ඉන්දීය ජාතිකයෙකුගේ හදවතක් සාර්ථකව බද්ධ කිරීමට ඉන්දීය වෛද්‍යවරුන් පිරිසක් සමත්වී තිබේ.
+Indian doctors transplanted a heart from an Indian to a Pakistani, using a 69-year-old heart. The surgery was free, benefiting the doctors and Delhi.
 
-චෙන්නායි හිදී සිදු කෙරුණු සැත්කමේදී තරුණියට බද්ධ කර ඇත්තේ 69 හැවිරිදි මොළය මියගිය පුද්ගලයෙකුගේ හදවතකි.
+🟩
 
-වෛද්‍යවරුන් සහ දිල්ලි නුවර මූල්‍ය පදනමක් එක්වී නොමිලේ මෙම සැත්කම සිදුකර තිබුණි.
+Indian doctors have been able to transplant a heart of Indian nationality to a 19-year-old girl to a 19-year-old girl.
+
+A 69-year-old brain is a heart of the 69-year-old man.
+
+The surgery had been conducted for free of charge for a financial basis for doctors and Delhi.
 
 ◼️
 
 [Data](articles/cf7ef083.json)
+
+[Extended Data](ext_articles/cf7ef083.ext.json)
 
 ---
 
@@ -93,6 +157,8 @@ Meanwhile, MP Gamini Waleboda recently raised concerns that due to the delay in 
 ...
 
 [Data](articles/dcbd7d22.json)
+
+[Extended Data](ext_articles/dcbd7d22.ext.json)
 
 ---
 
@@ -118,17 +184,23 @@ He also said there were issues in selecting people for this programme.
 
 ---
 
-### බලශක්ති ක්ෂේත්‍රය නියාමනය සඳහා ආයතනයක්
+### Energy field is a government for regulation
 
 *2024-04-26 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195991) · `si`
 
-බලශක්ති ක්ෂේත්‍රය නියාමනය කිරීම සඳහා බලශක්ති අමාත්‍යාංශ ලේකම්වරයාගේ ප්‍රධානත්වයෙන් නව කමිටුවක් පත්කිරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+The Energy Ministry has been given cabinet approval to form a new committee, led by the Secretary to the Secretary, to regulate the energy sector. Dr. Bandula Gunawardena, the Minister, announced this at a press conference today.
 
-අද (26) දහවල් පැවති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා මේ බව සඳහන් කළේය.
+🟩
+
+Cabinet approval has been given to appoint a new committee under the patronage of the Secretary to the Secretary to the Energy Ministry to regulate the energy sector.
+
+Addressing the cabinet spokesman Minister Dr. Bandula Gunawardena made this statement participating at a press conference today (26).
 
 ◼️
 
 [Data](articles/3cff1daf.json)
+
+[Extended Data](ext_articles/3cff1daf.ext.json)
 
 ---
 
@@ -371,6 +443,24 @@ In addition, 23 kg of cannabis was seized by the police in a house in the Velavi
 [Data](articles/8ba6de87.json)
 
 [Extended Data](ext_articles/8ba6de87.ext.json)
+
+---
+
+### ලාංකික දරුවන් යුරෝපයට ජාවාරම් කළ ප්‍රධාන පහසුකම් සපයන්නා අල්ලයි
+
+*2024-04-26 11:54:10* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකික-දරුවන්-යුරෝපයට-ජාවාරම්-කළ-ප්‍රධාන-පහසුකම්-සපයන්නා-අල්ලයි/11-409277) · `si`
+
+ශ්‍රී ලාංකික දරුවන් මැලේසියාව ඔස්සේ යුරෝපයේ රැගෙන ගොස් අලෙවි කිරීමේ ජාවාරමක නිරත වී සිටි ශ්‍රී ලංකාවේ ප්‍රධාන පහසුකම් සපයන්න 04/25 දින කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ  ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු කොළඹ , දෙහිවල ප්‍රදේශයේ පදිංචි 76 හැවිරිදි ද්‍රවිඩ ජාතිකයෙකි .
+
+මොහු ශ්‍රී ලාංකික දරුවන් 17 දෙනෙකු රටින් පිට කර මිනිස් ජාවාරම් කිරීමේ අවස්ථාවන් පිළිබඳ චෝදනාවට ලක් වී සිටීම නිසා , මොහු පිළිබඳ විශේෂ , පුළුල් විමර්ශනයක් සිදු කරන ලෙස ආගමන විගමන පාළක ජනරාල් හර්ෂ ඉලුක්පිටිය මහතා ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ ඒකකය වෙත නියෝග කර තිබුණි .
+
+ඒ අනුව  ශ්‍රී ලංකා ආගමන විගමන දෙපාර්තමේන්තු විමර්ශන අංශයේ අවදානම් තක්සේරු කිරීමේ ඒකකයේ නිලධාරීන් ඔහු ලුහු බදිමින් , ඔහුව සමීපව නිරීක්ෂණය කරමින් සිටි අතර , ඔහු පිළිබඳව මැලේසියාවේ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරීන් ද දැනුවත් කිරීමට පියවර ගෙන තිබුණි .
+
+...
+
+[Data](articles/8fe393bf.json)
 
 ---
 
@@ -2121,73 +2211,5 @@ Inspector General of Police Deshabandu Tennakoon said that organized criminals a
 [Data](articles/5b2c3376.json)
 
 [Extended Data](ext_articles/5b2c3376.ext.json)
-
----
-
-### Elephant House Sausages takes legendary Sri Lankan taste to Australia
-
-*2024-04-26 00:17:51* · [`dailyftlk`](https://www.ft.lk/business/Elephant-House-Sausages-takes-legendary-Sri-Lankan-taste-to-Australia/34-761038) · `en`
-
-Now consumers can look forward to a culinary adventure unlike any other, with Elephant house products being made available at all key Australian cities in the near future as well as being an integral part within the sizable Sri Lankan origin community in Australia
-
-Keells Food Products PLC, has announced the launch of Elephant House range of Sausages to the vibrant culinary landscape of Australia through an esteemed partnership with Millennium Imports Ltd., a leading importer and distributor of premium food products.
-
-This partnership is a first for both Elephant House, the iconic Sri Lankan household brand renowned for its premium products and unparalleled taste and Millennium Imports as this range is being fully manufactured in Australia with 95% of the raw materials being sources from the continent itself.
-
-...
-
-[Data](articles/ee5145b3.json)
-
-[Extended Data](ext_articles/ee5145b3.ext.json)
-
----
-
-### Movies filmed in Sri Lanka
-
-*2024-04-26 00:12:00* · [`islandlk`](http://island.lk/movies-filmed-in-sri-lanka/) · `en`
-
-The next great film shot on location in Sri Lanka was The bridge on the river Kwai, which was filmed in 1957, based on the novel by Pierre Boulle written in 1952. The movie, directed by David Lean, explored the Burmese and British prisoners of war in a Japanese prison camp in Burma, and filmed in Kitulgala. It won seven academy awards. The film had Alec Guiness, William Holden, Sessue Hayakawa, Jack Hawkins, Geoffrey Holmes, James Donald and Ann Sears as its stars.
-
-...
-
-[Data](articles/88707192.json)
-
-[Extended Data](ext_articles/88707192.ext.json)
-
----
-
-### Inaugural CPA Australia Appreciation Event
-
-*2024-04-26 00:05:27* · [`dailyftlk`](https://www.ft.lk/business/InauguralCPAAustralia-Appreciation-Event/34-761037) · `en`
-
-CPA Australia co-hosted an inaugural CPA Australia Appreciation Event for members and key stakeholders on 9 April 2024 at the Australian House.
-
-The event was graced by Australian High Commissioner to Sri Lanka Paul Stephens and well attended by more than 200 CPA Australia members and stakeholders, including office bearers of the local professional accounting organisations and senior leaders in businesses and universities.
-
-It was an opportune moment for CPA Australia to appreciate the support from the first Recognised Employer Partners in Sri Lanka through a certificate presentation by High Commissioner Paul Stephens, and CPA Australia Chief Member Experience Officer Rowena Buddee during the event.
-
-...
-
-[Data](articles/fe0101cd.json)
-
-[Extended Data](ext_articles/fe0101cd.ext.json)
-
----
-
-### 2024-04-25 (Thursday)
-
-### Prime Residencies breaks ground and launches Phase II of ‘The Colombo Border’
-
-*2024-04-25 23:59:24* · [`dailyftlk`](https://www.ft.lk/business/Prime-Residencies-breaks-ground-and-launches-Phase-II-of-The-Colombo-Border/34-761036) · `en`
-
-Prime Lands Residencies PLC, Sri Lanka’s leading real estate developer, said it has achieved a significant milestone with the ground-breaking ceremony of ‘The Colombo Border,’ a landmark project poised to redefine urban living.
-
-With Phase I of the project nearly sold out, the company is now launching Phase II, coinciding with the commencement of construction. Piling work has been undertaken by San Piling, a reputed name in the construction industry, signifying the project’s steady progress towards completion.
-
-...
-
-[Data](articles/edc75602.json)
-
-[Extended Data](ext_articles/edc75602.ext.json)
 
 ---

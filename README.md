@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 11:53:35**
+As of **2024-04-26 12:05:53**
 
 ## Newspaper Stats
 
-*Scraped **21,088** Articles*
+*Scraped **21,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 1,141
 dailyftlk | 1,193
 economynextcom | 1,194
 adalk | 1,763
-tamilmirrorlk | 2,444
-adaderanalk | 2,507
+tamilmirrorlk | 2,446
+adaderanalk | 2,508
 virakesarilk | 3,174
 dailymirrorlk | 3,283
-adaderanasinhalalk | 3,400
+adaderanasinhalalk | 3,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,087 (100.0%) of 21,088 articles have been extended.
+21,088 (100.0%) of 21,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### දෙකෙන් එකක් - චීනය අමෙරිකාවට අනතුරු අඟවයි
+
+*2024-04-26 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195988) · `si`
+
+අමෙරිකානු විදෙස් ලේකම් ඇන්තනි බ්ලින්කන් මහතා මේ වනවිට චීනයේ සංචාරය කරයි.
+
+එහිදී ඔහු චීනයේ ප්‍රධාන පෙළේ නිලධාරීන් සහ අමාත්‍යවරුන් සමග වැදගත් කරුණු කිහිපයක් සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිත බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඔහු අද (26) චීන විදෙස් අමාත්‍ය වැන්ග් යී සමග බීජිං නුවරදී සාකච්ඡා පැවැත්වීය.
+
+එහිදී වැන්ග් යී පවසා ඇත්තේ චීනය සහ අමෙරිකාවට "ස්ථායිතාව සහ කඩා වැටීම" යන කාරණා දෙකෙන් එකක් තෝරා ගැනීමට අවස්ථාව ඇති බවයි.
+
+මෙය බ්ලින්කන් වසරක් තුළ චීනය ට පැමිණි දෙවැනි අවස්ථාව වෙයි.  ගැටලු මතුවී ඇති දෙරටේ සබඳතා ශක්තිමත් කර ගැනීම මෙම සංචාරයේ අරමුණ බව සඳහන් වෙයි.
+
+විශේෂයෙන් ම චීනය විසින් රුසියාවට සහාය දැක්වීම මෙන්ම දකුණු චීන මුහුදේ මතුව ඇති ගැටලුකාරී තත්ත්වයන් සහ තායිවානය ට එරෙහිව මතු කෙරෙන ආක්‍රමණශීලීත්වය ඒ අතර ඇති ප්‍රමුඛ ගැටලු වෙයි.
+
+◼️
+
+[Data](articles/fc26c836.json)
+
+---
+
+### Five including Ven. Ulapane Sumangala Thero granted bail
+
+*2024-04-26 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98859/five-including-ven-ulapane-sumangala-thero-granted-bail) · `en`
+
+Five individuals including Ven. Ulapane Sumangala Thero who were remanded over the charges of obstructing the duties of public officials, have been granted bail.
+
+Accordingly, the Colombo Magistrate’s Court has ordered that four accused including Ven. Ulapane Sumangala Thero be released under two surety bails of Rs. 200,000 each and the other suspect under a surety bail of Rs. 100,000.
+
+Furthermore, the court also imposed an overseas travel ban on Ven. Sumangala Thero, Ada Derana reporter said.
+
+Additionally, the Colombo Magistrate has advised the suspects to refrain from exerting influence on the witnesses of the case.
+
+The 05 individuals in question were charged for allegedly hindering the government officials who were attempting to remove some shanties on Dabare Mawatha in Narahenpita, in compliance with a court order.
+
+◼️
+
+[Data](articles/5b7e3694.json)
+
+---
+
+### வட்டுக்கோட்டை இளைஞன் படுகொலை: மேலுமொருவர் கைது
+
+*2024-04-26 11:31:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட்டுக்கோட்டை-இளைஞன்-படுகொலை-மேலுமொருவர்-கைது/71-336374) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்த சம்பவத்துடன் தொடர்புடைய குற்றச்சாட்டில் தேடப்பட்டு வந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மார்ச் மாதம் 11ஆம் திகதி காரைநகர் பகுதிக்கு மோட்டார் சைக்கிளில் சென்று விட்டு ,வீடு திரும்பிக்கொண்டிருந்த தம்பதியினரை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து வன்முறை கும்பல் கடத்தி சென்று , கணவனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்துள்ளதுடன் , மனைவியை வீதியில் இறக்கி விட்டு சென்று இருந்தனர்
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வந்த பொலிஸார் இதுவரையில் 09 பேரை சந்தேகத்தில் கைது செய்து நீதிமன்றில் முற்படுத்திய நிலையில் நீதிமன்றால் அவர்கள் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில் சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர்களில் ஒருவர் காரைநகர் பகுதியில் தலைமறைவாக இருந்த நிலையில் நேற்றைய தினம் பொலிஸாரினால் கைது செய்யப்பட்டுளளார்.
+
+கைது செய்யப்பட்டவரை விசாரணைகளின் பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/517c578b.json)
+
+---
+
+### நீதிபதி மீது துப்பாக்கி சூடு: கைதுப்பாக்கியால் வழக்கு ஒத்திவைப்பு
+
+*2024-04-26 11:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/நீதிபதி-மீது-துப்பாக்கி-சூடு-கைதுப்பாக்கியால்-வழக்கு-ஒத்திவைப்பு/71-336373) · `ta`
+
+நீதிபதி மா. இளஞ்செழியன் மீதான துப்பாக்கி சூடு வழக்கின் பிரதான சான்று பொருளான கைத்துப்பாக்கி அரச பகுப்பாய்வு பிரிவிடம் இருந்து மீள பெறப்படாததால் , வழக்கு மே மாதத்திற்கு ஒத்திவைக்கப்பட்டுள்ளது.
+
+கடந்த 2017ஆம் ஆண்டு ஜூலை மாதம் 22ஆம் திகதி நீதிபதி இளஞ்செழியன் மீது மேற்கொள்ளப்பட்ட துப்பாக்கி சூட்டு சம்பவம் தொடர்பிலான வழக்கு விசாரணைகள் யாழ்.மேல் நீதிமன்ற நீதிபதி டெனிஸ் சாந்தன் சூசைதாஸன் முன்னிலையில் , வியாழக்கிழமை (25) நடைபெற்றது.
+
+அதன் போது , நீதிபதியின் மெய்ப்பாதுகாவலராக அக்காலத்தில் கடமையாற்றிய பொலிஸ் உத்தியோகஸ்தர் மன்றில் தோன்றி சாட்சியமளித்தார்.
+
+அதன் போது, உங்கள் கைத்துப்பாக்கியை அடையாளம் காட்ட முடியுமா ? என அரச சட்டவாதி சாட்சியிடம் கேட்ட போது , "ஆம்" என பதிலளித்தார்.
+
+ஆனால் குறித்த துப்பாக்கியை சாட்சி அடையாளம் காட்ட துப்பாக்கி மன்றில் இருந்திருக்கவில்லை. கைத்துப்பாக்கியை அரச பகுப்பாய்வு திணைக்களத்திடம் வழங்கப்பட்ட நிலையில் , அது மீள பெறப்படவில்லை என்பது தெரியவந்தது.
+
+...
+
+[Data](articles/93bc72b9.json)
+
+---
 
 ### The date on O / L returns to review results
 
@@ -64,7 +146,7 @@ Thereby, the decision on the bail request, which was slated to be delivered toda
 
 Wickramanayake is currently held in remand custody over the alleged substandard immunoglobulin imports case. He had filed the petition through his lawyers, seeking an order that the Maligakanda Magistrate’s Court’s decision to remand him to be declared unlawful and therefore, to release him on bail.
 
-On 20 November 2023, MSD Director and three other officials arrested over the controversial Immunoglobulin import were ordered to be remanded in custody by the Maligakanda Magistrate’s Court.
+On 20 November 2023, four high-ranking officials – MSD Director Dr. Wickramanayake, Assistant Director Devashantha Soloman, Accountant (Supplies) Neran Dhananjaya and the Stock Controller of the Medical Supplies Division Sujith Kumara – were arrested by the Criminal Investigations Department (CID).
 
 ...
 
@@ -444,19 +526,25 @@ The document was released Thursday in Haiti on the same day as the new transitio
 
 ---
 
-### මාලදවයින හා ලංකාව අතර තවත් සෘජු ගුවන් ගමනක්
+### Another direct flight between the flights and Sri Lanka
 
 *2024-04-26 09:39:58* · [`adalk`](https://www.ada.lk/breaking_news/මාලදවයින-හා-ලංකාව-අතර-තවත්-සෘජු-ගුවන්-ගමනක්/11-409275) · `si`
 
-මාළදිවයින මාළේ ජාත්‍යන්තර ගුවන් තොටුපොළේ සිට ශ්‍රී ලංකාවේ කටුනායක ගුවන් තොටුපොළ අතර , මාළදිවයිනේ " මෝල්ඩිවියන්ස් " ගුවන් සේවය ඍජු ගුවන් ගමන් සේවා ආරම්භ කරමින් මංගල ගුවන් යානය 04/25 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+A direct flight from Katunayake Airport, Colombo, to the Maldives is scheduled for Saturday, with the PMGala flight A320 Airbus plane, led by Transport and Civil Aviation Minister Captain Mohammed Amit, making the journey.
 
-කිව්.2 - 940 දරන මෙම ගුවන් යානය 04/25 දින රාත්‍රී 09.55 ට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි අතර ජල ආචාර පවත්වමින් මෙම ගුවන් යානය පිළිගැනීමට කටුනායක ගුවන් තොටුපොළ බලධාරීන් පියවර ගෙන තිබුණි .මින් පසුව මෙම ගුවන් සේවයේ යානා සෑම සතියකම දින දෙකක් , එනම් බ්‍රහස්පතින්දා සහ සෙනසුරාදා කටුනායක සහ මාළදිවයින අතර ගුවන් ගමන් වල නිරත වීමට නියමිතය .
+🟩
 
-අඩු වියදම් ගුවන් සේවයක් වන මෙම ගුවන් සේවය තම ප්මංගල ගුවන් ගමන සදහා ඒ.320 එයාර් බස් වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එම ගුවන් යානයෙන් මාළදිවයින ප්‍රවාහන සහ සිවිල් ගුවන් සේවා අමාත්‍ය කපිතාන් මොහොමඩ් අමීන් මහතා ද පැමිණ සිටියේය .
+The Mangala arrived at the Katunayaka Airport on the night of the Katunayaka, the Katunayaka of the Maladivian Airport, Colombo.
+
+The airplane arrived at the Katunayake airport at the Katunayake airport at 09.55 pm.And Saturday is scheduled to engage in flights between Katunayake and Maladives.
+
+The airline, a low cost airline, was deployed by the PMGala flight A320 Air bus plane and the flight of Transport and Civil Aviation Minister Captain Mohammed Amit was also present.
 
 ◼️
 
 [Data](articles/3aea32c3.json)
+
+[Extended Data](ext_articles/3aea32c3.ext.json)
 
 ---
 
@@ -2063,107 +2151,5 @@ During his visit to Sri Lanka, President Raisi attended the inauguration of a la
 [Data](articles/f99eced6.json)
 
 [Extended Data](ext_articles/f99eced6.ext.json)
-
----
-
-### The crime of a woman who was alone at home
-
-*2024-04-25 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195971) · `si`
-
-A 63-year-old woman in Weeragoda, Horana, was reportedly deceived by a neighbor into selling her land for Rs. 800 lakhs, with the suspect fleeing after the transaction. The Panadura Division Special Investigation Unit and Moragahena Police are investigating.
-
-🟩
-
-It has been reported on the blast in Weeragoda, Horana.
-
-The same was a 63-year-old resident of the same area.
-
-Police suspect that the woman has committed this crime by a neighboring person in the woman's house.
-
-The suspect is recorded in the CCTV camera, installed and how the residence would be addressing the house.
-
-Police suspect that the suspect may have made the suspect after the deception was taken away.
-
-According to Moragahahena Police, he was able to find a land owner to sell for Rs. 800 lakhs.
-
-Accordingly, the buyer had given an advanced advance of Rs.
-
-The neighboring woman told the buyer that he was planning to buy Rs. 60 million marketing.
-
-The selected buyer met the landlord and retalified the advance given to the land.
-
-The angry landlord reportedly accidentally accidentally visited the house of Kadathta.
-
-The suspect has fled the area and the Panadura Division Special Investigation Unit and Moragahena Police are conducting further investigations.
-
-◼️
-
-[Data](articles/718852bd.json)
-
-[Extended Data](ext_articles/718852bd.ext.json)
-
----
-
-### Businessman claims Rs.50 Mn from Gota, Mahinda, Basil
-
-*2024-04-25 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Businessman-claims-Rs-50-Mn-from-Gota-Mahinda-Basil/108-281372) · `en`
-
-Colombo, April 25 (Daily Mirror) -  A businessman, who was adversely affected by the country’s economic crisis, has sent letters of demand claiming Rs.50 million as damages from former President Gotabaya Rajapaksa, former Prime Minister Mahinda Rajapaksa, former Finance Minister Basil Rajapaksa, former CBSL Governor Ajith Nivard Cabraal and the Monterey Board for mishandling the economic crisis in the country.
-
-It has warned that legal action will be instituted against the above-mentioned individuals if the money with the interest is not paid within two weeks.
-
-Businessman Kalinga Silva, who is engaged in producing disposable surgical items, has sent these letters of demand through Attorney-at-Law Pramod Polpitiya.
-
-...
-
-[Data](articles/2285a38f.json)
-
-[Extended Data](ext_articles/2285a38f.ext.json)
-
----
-
-### Car accident on highway highway
-
-*2024-04-25 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/181959) · `ta`
-
-A car crashed at Ja-Ela Gateway on the Colombo-Kattunayake Highway, causing a 20-meter crash. This follows past incidents where vehicles crashed, killing ten people.
-
-🟩
-
-A car crashed at the Ja-Ela Gateway at the Colombo-Kattunayake Highway at around 3.00 pm today.
-
-One person who saw the incident said that a car traveling from the highway crashed into the accident and crashed into a distance of about 20 meters.
-
-Residents of the area said that in the past, vehicles have crashed and ten people have been killed.
-
-◼️
-
-[Data](articles/e43d5731.json)
-
-[Extended Data](ext_articles/e43d5731.ext.json)
-
----
-
-### Rajapaksas resigned due to the curse of the lifeblood Sunday bombings - Kiriella
-
-*2024-04-25 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/181949) · `ta`
-
-Rajapaksas resigned due to the "Curse of the Lifeblood Sunday bombings," with investigations revealing the truth. The opposition's Kiriella promised transparency.
-
-🟩
-
-The president of the PA resigned by the Curse of the Livelihood Sunday bombings. No one can escape from God's court.
-
-Those who are responsible must be prepared for punishment. Investigators were allowed to carry out the bombing. Lakshman Kiriella, the main rodent of the opposition parties, said the truth would be revealed.
-
-He was speaking at the Second Day debate on the Second Day of Parliament on Thursday (25).
-
-உயிர்த்த ஞாயிறு குண்டு தின குண்டுத்தாக்குதல்கள் தொடர்பில் பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகை குறிப்பிட்டு விடயத்தை சபையில் பதிவு செய்ய விரும்புகிறேன். 'ஜனாதிபதி விசாரணை ஆணைக்குழு அறிக்கை கிடைத்தவுடன் அப்போதைய ஜனாதிபதி கோட்டபய ராஜபக்ஷ  தொலைபேசி அழைப்பை எடுத்து, அறிக்கையின் பரிந்துரைகளை செயற்படுத்துவது கடினம் ஏனெனில் பரிந்துரைகளை செயற்படுத்தும் போது எனக்கு நெருக்கமானவர்களை கைது செய்யவும், அவர்களின் அமைப்புக்களை தடை செய்ய நேரிடும்' என்று குறிப்பிட்டதாக பேராயர் குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/097553ad.json)
-
-[Extended Data](ext_articles/097553ad.ext.json)
 
 ---

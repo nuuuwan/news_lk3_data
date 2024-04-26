@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 23:53:21**
+As of **2024-04-27 00:04:20**
 
 ## Newspaper Stats
 
-*Scraped **21,188** Articles*
+*Scraped **21,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,193
 economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,449
-adaderanalk | 2,522
+adaderanalk | 2,523
 virakesarilk | 3,195
 dailymirrorlk | 3,302
 adaderanasinhalalk | 3,421
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,188 (100.0%) of 21,188 articles have been extended.
+21,188 (100.0%) of 21,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### U.S. Under Secretary pledges support for Sri Lanka’s dairy modernization efforts
+
+*2024-04-26 23:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98874/us-under-secretary-pledges-support-for-sri-lankas-dairy-modernization-efforts) · `en`
+
+Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), Alexis Taylor, paid a courtesy call on President Ranil Wickremesinghe on Friday (26).
+
+During the discussions, the Sri Lankan leader was briefed on the ongoing dairy modernization program supported by the U.S.
+
+In response, Wickremesinghe welcomed the program, stating that it would complement the island-wide dairy expansion projects.
+
+Further, the President has outlined the government’s agriculture modernization efforts, emphasizing the importance of attracting a greater level of youth involvement in the sector. The U.S. delegation expressed their support for these initiatives, pledging to provide necessary assistance.
+
+◼️
+
+[Data](articles/3b5fcba5.json)
+
+---
 
 ### Rhmalia's World Record in Indonesia
 
@@ -2255,27 +2273,5 @@ During the questioning, “Harak Kata” had allegedly requested to go to the wa
 [Data](articles/1c0f6470.json)
 
 [Extended Data](ext_articles/1c0f6470.ext.json)
-
----
-
-### Order on Dr. Kapila Wickremanayake's bail
-
-*2024-04-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195986) · `si`
-
-The Court of Appeal postponed Dr. Kapila Wickramanayaka's bail to the 30th, with the decision announced today.
-
-🟩
-
-The Court of Appeal was appointed to postpone the bail of Dr. Kapila Wickramanayaka on the 30th of this month.
-
-The order on this request was to be announced today.
-
-However, the Court of Appeal is Delivery by the Court of Appeal on the 30th of this month. N. Mr. Samarakoon ordered.
-
-◼️
-
-[Data](articles/7866aa8a.json)
-
-[Extended Data](ext_articles/7866aa8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 17:34:35**
+As of **2024-04-26 17:54:24**
 
 ## Newspaper Stats
 
-*Scraped **21,146** Articles*
+*Scraped **21,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,142
 dailyftlk | 1,193
 economynextcom | 1,195
-adalk | 1,768
-tamilmirrorlk | 2,447
+adalk | 1,769
+tamilmirrorlk | 2,448
 adaderanalk | 2,517
 virakesarilk | 3,189
 dailymirrorlk | 3,294
@@ -26,11 +26,33 @@ adaderanasinhalalk | 3,411
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,144 (100.0%) of 21,146 articles have been extended.
+21,146 (100.0%) of 21,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### கிளிநொச்சியிலும் மனித எச்சங்கள் மீட்பு
+
+*2024-04-26 17:36:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியிலும்-மனித-எச்சங்கள்-மீட்பு/175-336376) · `ta`
+
+கிளிநொச்சி - பளை பொலிஸ் பிரிவுக்குட்பட்ட முகமாலைப் பகுதியில் இன்று (26) கண்ணிவெடி அகற்றலின் போது மனித எச்சங்களுடன் கூடிய ஆடை ஒன்று  இனங்காணப்பட்டுள்ளது.
+
+இதையடுத்து பொலிஸார் சம்பவ இடத்திற்கு சென்று விசாரணைகளை மேற்கொண்டனர். தொடர்ந்து பொலிஸார் மாவட்ட நீதவானின் கவனத்திற்கு கொண்டு சென்றனர்.
+
+கிளிநொச்சி மாவட்ட நீதிமன்ற நீதவான் இஸ்மாத் ஜெமில் இன்று காலை சம்பவ இடத்திற்கு சென்று குறித்த மனித எச்சங்கள் மற்றும் மனித எச்சம் இனங்காணப்பட்ட பகுதிகளை பார்வையிட்டார்.
+
+தொடர்ந்து குறித்த பகுதியில் கண்ணிவெடி அகற்றும் பணியாளர்கள் மூலம் கண்ணிவெடி அகற்றும் பணியை முன்னெடுக்குமாறும், கிடைக்கப் பெறுகின்ற எச்சங்கள் மற்றும் தடயங்கள் தொடர்பாக பளை பொலிஸ் நிலைய பொறுப்பதிகாரியின் கவனத்திற்கு  கொண்டு செல்லுமாறும் குறிப்பிட்டுள்ளார்.
+
+அத்துடன், கிடைக்கப்பெற்ற மனித எச்சங்களை சட்ட வைத்திய அதிகாரி மூலம் பரிசோதனைக்கு உட்படுத்த அனுப்பி வைக்குமாறும் குறிப்பிட்டுள்ளார்.
+
+இது தொடர்பில் எதிர்வரும் திங்கட்கிழமை சம்பவ இடத்தினை மீண்டும் சென்று பார்வையிடுவதாகவும் நீதவான் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/3df26bef.json)
+
+---
 
 ### Transport Ministry DG to oversee duties of Railways GM
 
@@ -45,6 +67,8 @@ Accordingly, the relevant appointment will be in place until the Cabinet of Mini
 ◼️
 
 [Data](articles/05cc88c2.json)
+
+[Extended Data](ext_articles/05cc88c2.ext.json)
 
 ---
 
@@ -175,6 +199,8 @@ The Additional Magistrate ordered the suspects not to interfere with the witness
 ◼️
 
 [Data](articles/d8be56de.json)
+
+[Extended Data](ext_articles/d8be56de.ext.json)
 
 ---
 
@@ -429,6 +455,24 @@ The family was hesitant as they were not able to afford the various Rs 35 lakhs 
 [Data](articles/dcfc413e.json)
 
 [Extended Data](ext_articles/dcfc413e.ext.json)
+
+---
+
+### රට යනකොට පරිස්සමෙන්, මුල් මාස 4ට පැමිණිලි 1371ක්
+
+*2024-04-26 14:19:49* · [`adalk`](https://www.ada.lk/breaking_news/රට-යනකොට-පරිස්සමෙන්--මුල්-මාස-4ට-පැමිණිලි-1371ක්/11-409283) · `si`
+
+2024 වසරේ ගත වූ මාස 4 ක කාලය තුල  විදේශ රැකියා සම්බන්ධ පැමිණිලි 1371ක් විශේෂ විමර්ශන අංශය වෙත ලැබී ඇතැයි විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකිරීම,  වලංගු රැකියා ඇනවුමක් නොමැතිව විදේශ රැකියා ලබාදීම සඳහා මුදල් අය කිරීම, සංචාරක වීසා මගින් තැනැත්තන් විදේශ රැකියා සඳහා යොමු කිරීම ආදී පැමිණිලි කාර්යාංශය වෙත ලැබී ඇත.
+
+මෙසේ කාර්යාංශය වෙත ලද පැමිණිලි අතුරින් පැමිණි 495 ක් සඳහා විසඳුම් මෙම කාලසීමාව තුළදී ලබාදී ඇති අතර පැමිණිලිකරුවන් ට රුපියල්  53,509,520.00 කමුදලක් යළි අයකර දීමටද විමර්ශන නිලධාරීන් සමත්වී ඇත.  තවත් පැමිණිලි 680කට අධික ප්‍රමාණයක් සඳහා වංචා කරුවන්ට එරෙහිව අධිකරණයේ නඩු පැවරීමට ද කාර්යාංශය පියවර ගෙන ඇත.
+
+මෙම කාලය තුළ විදේශ රැකියා වංචාවන් සම්බන්ධ සැකකරුවන්  28 දෙනෙක් අත්අඩංගුවට  ගෙන අධිකරණය හමුවට ඉදිරිපත් කර ඇති අතර කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව පවත්වාගෙන ගිය හා වලංගු රැකියා ඇනවුම් ලබා නොගෙන විදේශ රැකියා සඳහා බඳවාගැනීම් සිදුකළ ආයතන  8 ක්ද කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් වැටලීම් කර ඇත.
+
+...
+
+[Data](articles/962f3644.json)
 
 ---
 
@@ -2231,39 +2275,5 @@ I hope to convince the reader that despite some of the commentary, Sri Lanka is 
 [Data](articles/8020cb7b.json)
 
 [Extended Data](ext_articles/8020cb7b.ext.json)
-
----
-
-### Israel’s US-backed genocide in Gaza, 200 days on
-
-*2024-04-26 02:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israels-US-backed-genocide-in-Gaza-200-days-on/172-281394) · `en`
-
-A wounded Palestinian boy receives treatment at a clinic set up by medical charity Doctors Without Borders (MSF) treating severe injuries and burns sustained in Israeli bombardment, at the Rafah Indonesian Field Hospital. Pic by Mohammed Abed/AFP)
-
-What horrible times are we living in? “Never again” was the resolve that led to the formation of a rules-based world order in the aftermath of World War II, in which some 80 million people—3 percent of the then-world population—perished. But events that followed showed humans were incapable of living in peace. People continued to die in wars across the world.
-
-But none of the myriad wars and conflicts could be as brutal as the war Israel’s hardline prime minister Benjamin Netanyahu has been waging against the hapless people of the Gaza Strip for the past 200-plus days. What is happening in Gaza is not a war; it is genocide, period.
-
-...
-
-[Data](articles/cfe94b8b.json)
-
-[Extended Data](ext_articles/cfe94b8b.ext.json)
-
----
-
-### Death on the racetrack - EDITORIAL
-
-*2024-04-26 02:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Death-on-the-racetrack-EDITORIAL/172-281393) · `en`
-
-The tragic motor car accident that snuffed out the lives of seven people and injured over 20 people must be reviewed critically. At the time of writing this column only two drivers involved in the accident were initially nabbed and later released on bail. No member of the organizing committee has been arrested so far and this has led to a public outcry on social and online media platforms blaming the organizers.
-
-The public wishes to know why the organizers of the event should go unpunished when there have been deaths and injuries to spectators. Both the Government and the Sports Minister have maintained silence over the incident. Only the Opposition alliance Samagi Jana Balawegaya has demanded to know whether the organizers of the sporting event carry a liability
-
-...
-
-[Data](articles/7f4f4604.json)
-
-[Extended Data](ext_articles/7f4f4604.ext.json)
 
 ---

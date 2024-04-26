@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 08:34:02**
+As of **2024-04-26 08:52:57**
 
 ## Newspaper Stats
 
-*Scraped **21,058** Articles*
+*Scraped **21,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 221
 dbsjeyarajcom | 224
 newsfirstlk | 363
 islandlk | 1,141
-dailyftlk | 1,192
+dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,760
 tamilmirrorlk | 2,441
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,392
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,058 (100.0%) of 21,058 articles have been extended.
+21,058 (100.0%) of 21,059 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1061,6 +1061,24 @@ Part of a three-year distribution channel expansion strategy by Sri Lanka’s mo
 [Data](articles/fed193b8.json)
 
 [Extended Data](ext_articles/fed193b8.ext.json)
+
+---
+
+### KPIs in R&D institutes: Defining success path for R&D performance in commercial agriculture
+
+*2024-04-25 23:50:55* · [`dailyftlk`](https://www.ft.lk/columns/KPIs-in-R-D-institutes-Defining-success-path-for-R-D-performance-in-commercial-agriculture/4-761034) · `en`
+
+Key performance indicators (KPIs) are the key measures used by organisations to track the success of an organisational interest
+
+KPIs look after the organisation’s growth by revealing its strengths, weaknesses, and sustainability
+
+Organisational leadership designs and establishes KPIs and interprets data gathered through them to make decisions on the success factors of an organisation
+
+This article draws on R&D performance that is measured through KPIs and how those KPI data are used to generate insights for promoting innovations in the commercial agriculture sector in Sri Lanka
+
+...
+
+[Data](articles/01aedfaa.json)
 
 ---
 
@@ -2155,25 +2173,5 @@ The government still owed banks interest subsidies on previous years senior citi
 [Data](articles/7d93516e.json)
 
 [Extended Data](ext_articles/7d93516e.ext.json)
-
----
-
-### Ali Sabry to leave for Riyadh to attend World Economic Forum
-
-*2024-04-25 17:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-to-leave-for-Riyadh-to-attend-World-Economic-Forum/108-281366) · `en`
-
-Colombo, April 25 (Daily Mirror) - Foreign Minister Ali Sabry is scheduled to leave for Riyadh, Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development which will be held in Riyadh, Saudi Arabia between April 28 and 29.
-
-The Special Meeting in Riyadh is expected to bring together leaders from diverse sectors and industries to inspire a comprehensive dialogue on the most urgent and complex issues of the day.
-
-During the visit, Minister Sabry will join as a panelist in two Sessions, namely “Building the Urban Future” and “North to South, East to West: Rebuilding Trust”.
-
-On the sidelines, the Foreign Minister is expected to have bilateral meetings with his counterparts from a number of countries, including Saudi Arabia, the host country. The Minister will also meet the Sri Lankan community in Riyadh and visit the Sri Lankan International School in Riyadh.
-
-◼️
-
-[Data](articles/18b01d0a.json)
-
-[Extended Data](ext_articles/18b01d0a.ext.json)
 
 ---

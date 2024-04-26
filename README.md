@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-26 10:34:12**
+As of **2024-04-26 10:51:37**
 
 ## Newspaper Stats
 
-*Scraped **21,072** Articles*
+*Scraped **21,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,141
 dailyftlk | 1,193
 economynextcom | 1,193
 adalk | 1,761
-tamilmirrorlk | 2,442
+tamilmirrorlk | 2,444
 adaderanalk | 2,504
 virakesarilk | 3,171
 dailymirrorlk | 3,282
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,071 (100.0%) of 21,072 articles have been extended.
+21,072 (100.0%) of 21,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-26 (Friday)
+
+### முறிகண்டி விபத்தில் இராணுவ வீரர்   பலி
+
+*2024-04-26 10:19:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முறிகண்டி-விபத்தில்-இராணுவ-வீரர்-பலி/72-336370) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் மாங்குளம் பொலிஸ் பிரிவுக்கு உட்பட்ட முறிகண்டி பகுதியில் வௌ்ளிக்கிழமை (26) காலை இடம்பெற்ற விபத்தில் இராணுவ வீரர் ஸ்தலத்தில் பலியாகியுள்ளார்.
+
+குறித்த சம்பவம் காலை 6 மணியளவில் இடம்பெற்றுள்ளது. முறிகண்டி வசந்தநகர் சந்தியின் A9 வீதியில் குறித்த விபத்து இடம் பெற்றுள்ளது.
+
+கொழும்பிலிருந்து யாழ்ப்பாணம் நோக்கி பயணித்த பார ஊர்தியை, அதே திசையில் பயணித்த இராணுவ கப் வாகனம் முந்த முற்பட்டுள்ளது.
+
+இதன்போது குறித்த கப் வாகனம் திடிரென இயங்காமல் நின்றுள்ளது. எதிரே வந்த வாகனம் நேருக்கு நேர் மோதி விபத்துக்குள்ளாகி விடும் எனும் அச்சத்தில் விபத்தை தருக்கும் நோக்குடன் சாரதி பார ஊர்தியை செலுத்த முற்பட்டுள்ளார்.
+
+இதன்போது, கப் வாகனத்தில் பாரஊர்தி மோதியதில் அதில் பயணித்த இரண்டு இராணுவ வீரர்கள் வீதியில் விழுந்துள்ளனர்.
+
+அதில் ஒருவர் மேல் பாரஊர்தி ஏறியதில் குறித்த இராணுவ வீரர் சம்பவ இடத்தில் உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவரின் சடலம் கிளிநொச்சி வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில் விசாரணைகளின் பின்னர் உறவினர்களிடம் கையளிக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/7da955f4.json)
+
+---
 
 ### Army soldier killed, 9 injured in Mankulam cab-lorry crash
 
@@ -49,6 +73,24 @@ The driver of the lorry has been arrested in connection with the accident and Ma
 ◼️
 
 [Data](articles/57375b97.json)
+
+[Extended Data](ext_articles/57375b97.ext.json)
+
+---
+
+### ஈ - விசா தொடர்பில் விசேட அறிவுறுத்தல்
+
+*2024-04-26 10:02:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-தொடர்பில்-விசேட-அறிவுறுத்தல்/175-336369) · `ta`
+
+ஈ - விசா பெற்றுக் கொள்ள குடிவரவு மற்றும் குடியகழ்வு திணைக்களத்தின்  www.immigration.gov.lk என்ற உத்தியோகப்பூர்வ இணையத்தளத்தை மாத்திரமே பயன்படுத்துமாறு அறிவுறுத்தப்பட்டுள்ளது.
+
+கடந்த 17ம் திகதி முதல் புதிய விசா நடைமுறை அறிமுகம் செய்யப்பட்ட நிலையில், மோசடிகளை தவிர்க்கும் நோக்கில் இந்த அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+அத்துடன், போலி இணைய தளங்கள் மூலம் மக்களை ஏமாற்றி பணம் பறிக்கக்கூடிய அபாயம் காணப்படுவதாக எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/367fd40a.json)
 
 ---
 
@@ -2135,45 +2177,5 @@ Welcome to Sri Lanka to ITC.It is located in front of Asia's first five -star ho
 [Data](articles/273a8e19.json)
 
 [Extended Data](ext_articles/273a8e19.ext.json)
-
----
-
-### Sri Lanka travel trade promised private visa levies would be lifted from May
-
-*2024-04-25 19:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-travel-trade-promised-private-visa-levies-would-be-lifted-from-may-160063/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Tourism Minister Harin Fernando had given an assurance that steep surcharges and levies on visa fees that were imposed with a shift to a private company would be reversed from May 01, a top travel official said.
-
-Sri Lanka’s 50 dollar visa fee went up to 75 dollars and another 18.5 dollar fee and an apparently hidden ‘convenience fee’ of 5 dollars or more were also hit on prospective travellers after a shift of the island’s acclaimed ETA system to a private company.
-
-“We have now been assured by the Hon Minister of Tourism that the process will be reversed by 1st May 2024,” President of the Sri Lanka Association of Inbound Tour Operators (SLAITO) Nishad Wijethunga said.
-
-SAARC Visa fees went up as much as 58.55 US dollars from 35 after the electronic travel authorization was outsourced to a private company called VFS Global.
-
-...
-
-[Data](articles/f4ed101f.json)
-
-[Extended Data](ext_articles/f4ed101f.ext.json)
-
----
-
-### Heat advisory issued for several provinces and districts
-
-*2024-04-25 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98847/heat-advisory-issued-for-several-provinces-and-districts-) · `en`
-
-The Meteorology Department has issued a Heat Index Advisory for Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and Monaragala district for tomorrow (26).
-
-Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and in Monaragala district, it warned.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/2f292b72.json)
-
-[Extended Data](ext_articles/2f292b72.ext.json)
 
 ---

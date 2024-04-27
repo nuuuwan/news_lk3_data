@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 15:18:31**
+As of **2024-04-27 15:34:15**
 
 ## Newspaper Stats
 
-*Scraped **21,266** Articles*
+*Scraped **21,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,15 +18,15 @@ economynextcom | 1,205
 adalk | 1,772
 tamilmirrorlk | 2,461
 adaderanalk | 2,533
-virakesarilk | 3,200
-dailymirrorlk | 3,315
+virakesarilk | 3,201
+dailymirrorlk | 3,316
 adaderanasinhalalk | 3,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,265 (100.0%) of 21,266 articles have been extended.
+21,266 (100.0%) of 21,268 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,20 @@ The child has not been found with the help of the residents of the area.
 [Data](articles/b614b463.json)
 
 [Extended Data](ext_articles/b614b463.ext.json)
+
+---
+
+### வரலாற்றில் இன்று
+
+*2024-04-27 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182093) · `ta`
+
+மறைந்த முன்னாள் இந்திய பிரதமர் இந்திரா காந்தி முதல் முறையாக இலங்கைக்கு விஜயம் செய்தது 1973ஆம் ஆண்டு ஏப்ரல் 27ஆம் திகதியான இதே நாளிலாகும்.
+
+இந்திரா காந்தியின் முதலாவது இலங்கை வருகை தொடர்பான செய்திகளை தாங்கியவாறு 1973 ஏப்ரல் 27, 28ஆம் திகதிகளில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கங்களை இங்கே காணலாம்.
+
+◼️
+
+[Data](articles/c95856e4.json)
 
 ---
 
@@ -727,6 +741,22 @@ Speaking further Mr. Sumedha Somaratne said that the Railway Department has beco
 [Data](articles/846f2d13.json)
 
 [Extended Data](ext_articles/846f2d13.ext.json)
+
+---
+
+### Controversy over child smuggling to Malaysia: Children sent abroad for higher education purposes: CID
+
+*2024-04-27 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversy-over-child-smuggling-to-Malaysia-Children-sent-abroad-for-higher-education-purposes-CID/108-281486) · `en`
+
+Colombo, April 27 (Daily Mirror) - The claims over children being sent from Sri Lanka to Malaysia, which raised concerns of many regarding the fate of the children being sent abroad, took a fresh turn when the police found that the children were sent for higher education purposes, the Daily Mirror learns.
+
+The Police Criminal Investigation Department (CID) following preliminary investigations on the suspected local facilitator of the international child smuggling syndicate, a 14-year-old boy and his father who had been deported from Malaysia this week, had learned that the child was to be sent abroad for higher education purposes.
+
+A senior official of the CID’S Human Traf­ficking, Smuggling Investigation and Maritime Security Investigation Division (HTSIMSID) told the Daily Mirror yesterday that they have credible information that all the 17 children, who were said to have been smuggled out of Sri Lanka to Malaysia in the first few months of 2023, were sent for the same reason.
+
+...
+
+[Data](articles/dc49ba0c.json)
 
 ---
 
@@ -1956,21 +1986,27 @@ The match will be held today with the Kolkata Knight Riders team and Punjab King
 
 ---
 
-### බලශක්ති අංශයට නව නියාමන ආයතනයක්
+### New Regulatory Institute for Energy Sector
 
 *2024-04-26 19:59:04* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-අංශයට-නව-නියාමන-ආයතනයක්/11-409284) · `si`
 
-බලශක්ති අංශය සඳහා නව නියාමන ආයතනයක් හඳුන්වා දීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Energy Sector has been granted a new regulatory company by the Cabinet, focusing on the import, refinement, and sale of petroleum products. This initiative aims to create an independent, dynamic, effective, and efficient mechanism to address challenges and protect product quality. The proposal involves appointing a committee headed by the Secretary to the Ministry of Power and Energy.
 
-පෙට්‍රල් ,ඩීසල්,භූමිතෙල් ,ගුවන් යානා ඉන්ධන තෙල්,ද්‍රව්කෘත පෙට්‍රෝලියම් වායු (LPG) සහ ලිහිසි තෙල් ඇතුළු ඛනිජතෙල් නිෂ්පාදන ආනයනය, පිරිපහදු කිරීම .බෙදා හැරීම සහ අලෙවි කිරීම දැනට පවතින නීති රාමුව තුළ ක්‍රියාත්මක වුවද, මෙම අංශයට පුළුල් නියාමන යාන්ත්‍රනයක් නොමැත.
+🟩
 
-පුද්ගලික ආයතන රාශියක්ද ඛනිජතෙල් නිෂ්පාදන ආනයනය සහ බෙදා හැරිම සඳහා සම්බන්ධ වී සිටින බැවින් ඒම අංශයේ අභියෝගවලට විසඳුම් සෙවීම , නිෂ්පාදනවල ගුණාත්මකභාවය ඉහළ නැංවිම සහ පාරිභෝගිකයින්ගේ , ආයෝජකයින්ගේ හා අනෙකුත් පාර්හවකරුවන්ගේ අවශ්‍යතා ආරක්ෂා කිරීම සඳහා ස්වාධීන,ගතික,ඵලදායි හා කාර්යක්ෂම නියාමන යාන්ත්‍රණයක අවශතාව හඳුනාගනු ලැබ ඇත.
+Cabinet approval has been given to introduce a new regulatory company for the Energy Sector.
 
-ඒබැවින් ,ඒ් පිළිබඳව කරුණු අධ්‍යයනය කර නිර්දේශ ඉදිරිපත් කිරිම සහ නීතිමය රාමුවක් සකස් කිරීම පිණිස විදුලිබල හා බලශක්ති අමාත්‍යංශයේ ලේකම්ගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කිරීම සඳහා බලශක්ති අමාත්‍යවරයා කැබිනට් මණ්ඩලයට ඉදිරිපත් කල යෝජනාවට අනුමැතිය හිමි වී තිබේ.
+Import and refinement of petroleum products including petrol, diesel, kerosene, aircraft fuel oil (LPG) and lubricants (LPG) and lubricants (LPG) and the sale.
+
+The needs of the section have been identified independent, dynamic, effective and efficient mechanism to address the challenges of the session and to protect the quality of products and protects the needs of the sector products.
+
+Thus, the proposal to appoint a committee to the Cabinet of Power and Energy, the Secretary to the Power and Energy has been granted to appoint a committee headed by the Secretary to the Ministry of Power and Energy.
 
 ◼️
 
 [Data](articles/79611128.json)
+
+[Extended Data](ext_articles/79611128.ext.json)
 
 ---
 
@@ -2121,51 +2157,5 @@ As a precautionary measure to control the mosquitoes, the Colombo Municipal Coun
 [Data](articles/60fa9e25.json)
 
 [Extended Data](ext_articles/60fa9e25.ext.json)
-
----
-
-### Many donations to Gaza Children's Fund have been handed over to the President
-
-*2024-04-26 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182049) · `ta`
-
-President Ranil Wickremesinghe received donations for the Gaza Children's Fund, including $1M from Ministries and State Institutions for the Iftar event, and funds from various organizations for the "Children of Gaza Fund". The funds will be handed over to the Palestinian government.
-
-🟩
-
-Funds for the Gaza Children's Fund (Children of Gaza Fund) established by President Ranil Wickremesinghe to provide relief to victims of the Gaza conflict were handed over to President Ranil Wickremesinghe at the Presidential Office on Friday (26).
-
-கல்முனை ஹுதா ஜும்மா பள்ளிவாசல் 1,589,000 ரூபாவையும், அகில இலங்கை ஜம்மியத்துல் உலமா கிண்ணியா கிளை 5,300,000 ரூபாவையும், கல்முனை வலயக் கல்வி அலுவலகம் 3,128,500 ரூபாவையும், Sports First Foundation 300,000 ரூபாவையும் சிறுவர் நிதியத்திற்கு நன்கொடையாக வழங்கியுள்ளன.
-
-Initially, President Ranil Wickremesinghe recently handed over $ 1 million from the funds allocated to the Ministries and State Institutions to host the Iftar event this year.
-
-In addition, the President's Office has received a large number of funds to contribute to the "Children of Gaza Fund" Fund and the money will be officially handed over to the Palestinian government in the coming years.
-
-...
-
-[Data](articles/5a85a88d.json)
-
-[Extended Data](ext_articles/5a85a88d.ext.json)
-
----
-
-### Sri Lanka to establish new energy sector regulator
-
-*2024-04-26 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-establish-new-energy-sector-regulator/108-281440) · `en`
-
-Colombo, April 26 (Daily Mirror) - The Cabinet has approved a proposal to establish a dedicated regulator for the energy sector.
-
-Taking to ‘X’, Power and Energy Minister Kanchana Wijesekera said the petroleum, LPG, LNG, lubricants, oils and broader energy sectors are set to fall under the purview of the newly formed regulatory body.
-
-The Public Utilities Commission of Sri Lanka (PUCSL) will retain its role as the regulator for the electricity sector, while the forthcoming regulator will assume responsibility for governing various aspects of the petroleum and energy industries.
-
-This separation of oversight is expected to streamline the regulatory processes, foster greater accountability and optimize sector-specific regulations.
-
-A specialized committee has been entrusted with the task of formulating the framework for the Energy Sector Regulator within a concise timeline of two months.
-
-...
-
-[Data](articles/1a930919.json)
-
-[Extended Data](ext_articles/1a930919.ext.json)
 
 ---

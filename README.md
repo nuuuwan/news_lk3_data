@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 15:52:33**
+As of **2024-04-27 16:04:20**
 
 ## Newspaper Stats
 
-*Scraped **21,272** Articles*
+*Scraped **21,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,60 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,461
-adaderanalk | 2,534
+adaderanalk | 2,535
 virakesarilk | 3,201
 dailymirrorlk | 3,316
-adaderanasinhalalk | 3,435
+adaderanasinhalalk | 3,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,268 (100.0%) of 21,272 articles have been extended.
+21,272 (100.0%) of 21,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### මෑතකදී විවාහ වන පිරිස් අතර දික්කසාදවීම් ඉහළ යයි
+### මෙරටට ගෙන්වූ ඖෂධවල වගකීම නොදරන බවට ලිපියක්
+
+*2024-04-27 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196028) · `si`
+
+ඖෂධ නියාමන අධිකාරියේ හිටපු විධායක අධ්‍යක්ෂවරයා සහ එම අධ්‍යක්ෂ මණ්ඩලය පසුගිය කාලසීමාව තුළ ගෙන්වූ ඖෂධ සම්බන්ධයෙන් වගකීමක් නොදරන බවට ලිපියක් නිකුත් කර ඇති බව වෛද්‍ය සහ සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+
+ඔහු පවසන්නේ ප්‍රමිතියෙන් තොර ඖෂධ රටට ගෙනඒම සඳහා අනුබල දුන් ඖෂධ නියාමන අධිකාරියේ හිටපු විධායක අධ්‍යක්ෂවරයාට එරෙහිව නීතිය ක්‍රියාත්මක කළ යුතු බවය.
+
+වෛද්‍ය සහ සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ සංදේශයක් භාරදුනි.
+
+ඒ ප්‍රමිතියෙන් තොර ඖෂධ මෙරටට ගෙන්වීමට අදාළව චෝදනා එල්ලවී ඇති ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරි වෛද්‍ය විජිත් ගුණසේකර මහතා ඇතුළු අධ්‍යක්ෂ මණ්ඩලයට එරෙහිව පරීක්ෂණයක් සිදුකරන්නැයි ඉල්ලමිනි.
+
+...
+
+[Data](articles/c7dbf0df.json)
+
+---
+
+### Divorce is raised between the recently married people
 
 *2024-04-27 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196027) · `si`
 
-මෑතකදී විවාහ වන්නන් අතර දික්කසාද ඉහළ යාමක් දක්නට ලැබෙන බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව පවසයි.
+Divorce rates have increased, especially among recently married couples, with the Registrar General's Department noting a significant rise in 2020. Senior Deputy Registrar General Lakshika highlighted that divorce decisions by District Courts have been influenced by the negotiation of specific unbelievers.
 
-2020 වසරේ සිට මෙම තත්ත්වය වැඩි වශයෙන් පෙන්නුම්කරන බව එම දෙපාර්තමේන්තුව පැවසීය.
+🟩
 
-දිසා අධිකරණ මගින් ලබා දුන් දික්කසාද නඩු තීන්දු සලකා බැලීමේ දී මෑත කාලීනව විවාහ වන පිරිස් වසර දෙක තුනක් වැනි කෙටි කාලයක් තුළ දික්කසාද වීමේ ප්‍රවණතාවක් නිරීක්ෂණය වී ඇති බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුවේ සිවිල් ලියාපදිංචි කිරීම් අංශයේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය රෙජිස්ට්‍රාර් ජනරාල් නීතීඥ ලක්ෂිකා ගනේපොල මහත්මිය පැවසුවාය.
+The Registrar General's Department says that there is a decent increase in divorce recently.
 
-විශේෂයෙන් ද්වේෂ සහගත අත්හැරයාම් දික්කසාද වීම්වලට ප්‍රධාන වශයෙන් හේතුවී ඇති බව ඇය පෙන්වා දුන්නාය.
+The situation has increased in the year 2020, the Department said.
+
+Senior Deputy Registrar General of the Registrar Leader General of the Registrar Leader General of the Registrar Lakshika, Senior General's Department of Civil Registration Division (Registrar) has been observed in the consideration of divorce decisions made by District Courts.
+
+She pointed out that the negtoways of particular unbelievers have been mainly due to divorce.
 
 ◼️
 
 [Data](articles/a12e8ca8.json)
+
+[Extended Data](ext_articles/a12e8ca8.ext.json)
 
 ---
 
@@ -66,43 +90,77 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 
 [Data](articles/d797bca5.json)
 
+[Extended Data](ext_articles/d797bca5.ext.json)
+
 ---
 
-### අමෙරිකා එක්සත් ජනපදයේ කෘෂිකර්ම උප ලේකම්වරිය සහ ජනපති අතර හමුවක්
+### Sri Lanka co-chairs ASEAN Regional Forum inter-sessional meeting on disaster relief
 
-*2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
+*2024-04-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98883/sri-lanka-co-chairs-asean-regional-forum-inter-sessional-meeting-on-disaster-relief) · `en`
 
-මෙරට කෘෂිකර්ම ක්ෂේත්‍රය සඳහා තරුණ පරපුර ආකර්ෂණය කරගැනීම රජයේ කෘෂි නවීකරණ වැඩසටහනේ ප්‍රමුඛ අරමුණක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually earlier this week, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
 
-අමෙරිකා එක්සත් ජනපද විදේශ කෘෂිකාර්මික කටයුතු පිළිබඳ උප ලේකම්වරිය ඊයේ (26) හමුවූ අවස්ථාවේදී ජනාධිපතිවරයා ඒ බව සඳහන් කර සිටියේය.‍
+Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management.
 
-අමෙරිකා එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුවේ වෙළෙඳ සහ විදේශ කෘෂිකාර්මික කටයුතු පිළිබඳ උප ලේකම් ඇලෙක්සිස් ටේලර්  මහත්මිය සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක් ඊයේ පස්වරුවේ දී සිදු වුණි.
+Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
 
-මෙහිදී අමෙරිකා එක්සත් ජනපදයේ සහාය ඇතිව මෙරට කිරි නිෂ්පාදනය නවීකරණය කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීම පිළිබඳ සාකච්ඡා කෙරුණි.
-
-එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර සිටියේ එම වැඩසටහන මඟින් දිවයින පුරා දැනට ක්‍රියාත්මක කිරි නිෂ්පාදනය ප්‍රචලිත කිරීමේ ව්‍යාපෘති තවදුරටත් දිරිමත් කරනු ඇති බවය.
-
-මීට අමතරව රජයේ කෘෂි නවීකරණ වැඩසටහන පිළිබඳවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇලෙක්සිස් ටේලර් මහත්මියව දැනුවත් කර තිබේ.
+The Sri Lanka delegation was led by Director General, South East Asia Division of the Ministry of Foreign Affairs Sashikala Premawardhane, with the participation of senior officials from the National Disaster Relief Service Centre of the Ministry of Defence.
 
 ...
 
-[Data](articles/6b4ba40a.json)
+[Data](articles/e7339b8e.json)
 
 ---
 
-### බණ්ඩාරවත්තේදි සිදුකළ මත්ද්‍රව්‍ය වැටලීම
+### Meeting with Ministry of Agriculture, United States
+
+*2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
+
+President Ranil Wickremesinghe met with the US Foreign Agricultural Secretary, discussing agricultural modernization, including milk production, with US support.
+
+🟩
+
+President Ranil Wickremesinghe says that it is a leading purpose in the government's agricultural modernization program to attract young people in the country's field.
+
+The President made this statement when he met the United States Foreign Agricultural Secretary yesterday (26).
+
+A meeting between Mrs. Alexis Taylor and President Ranil Wickremesinghe met with the President of the United States Agriculture Department.
+
+The implementation of a modernization of milk production was discussed with the assistance of the United States.
+
+President Ranil Wickremesinghe said that the program will further encourage projects to promote the production of milk production throughout the country.
+
+In addition, President Ranil Wickremesinghe has also been informed of Mrs. Alexis Taylor.
+
+The United States delegation, including the sub-Secretariat, has assured the President that the Sri Lanka's agricultural modernization program will be fully supported.
+
+◼️
+
+[Data](articles/6b4ba40a.json)
+
+[Extended Data](ext_articles/6b4ba40a.ext.json)
+
+---
+
+### Drugs in Bandarawattaedi
 
 *2024-04-27 15:02:38* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවත්තේදි-සිදුකළ-මත්ද්‍රව්‍ය-වැටලීම/11-409287) · `si`
 
-බියගම පොලිස්ස්ථානපේ නිලධාරින්ට ලද තොරතුරක් අනුව බණ්ඩාරවත්ත ප්‍ර දේශයේ වැටලිමක් සිදුකර කාර් රථයක් පරික්ෂා කිරිමේදි අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 15 මිලි ග්‍රෑම් 81ක්, හෑෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 14 මිලිග්‍රෑම් 521ක් හා හොරොයින් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 941ක් ප්‍රවාහනය කරමින් සිටි පුද්ගලියෙක් අත්අඩංගුවට ගැනිමට පොලිසිය ඊයේ රාත්‍රි සමත්ව තිබේ.
+Police arrested 81 kg of ice, 15 mg of ice, and 941 mg of Hubes in Bandarawattaedi. Suspects include a 31-year-old from Kaduwela, a 40-year-old from Simaliapa, and a 39-year-old from Aralaganwila.
 
-අත්අඩංගුවට ගත් සැකකරු අවුරුදු 31 ක් වන බෝමරිය, කඩුවෙල පදිංචිකරුවෙකි. එම ප්‍ර දේශයේ සිදුකරන ලද තවත් වැටලිමකදි අයිස් මත්ද්‍රව්‍ය ගෑම් 02.310ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 5.310ක් සන්තකයේ තබාගෙන සිටි සැකකරුවන් දෙදෙනෙක් හා අයිස් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 120 ක් සන්තකයේ තබාගෙන සිටි සැකකාරියක් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-අත්අඩංගුවට ගෙන ඇති සැකකරුවන් අවුරුදු 31 හා 40 වයස්හි පසුවන කඩුවෙල හා සිමඹලාපේ පදිංචිකරුවන් වන අතර සැකකාරිය අවුරුදු 39ක් වන අරලගංවිල පදිංචිකාරිනියකි.
+According to information received by the Biyagama Inspector General of Police, the police have been arrested last 81 kg of ice, 15 milligrams of ice and 941 milligrams of Hubes.
+
+The suspect is one of the 31 year Bamuru, Kaduwela resident of Kaduwela. Another raid in the area was arrested in possession of 2 ice drugs, two suspects in possession of Rs. 120 ml.
+
+The suspects are residents of Kaduwela and Simaliapa, who have been arrested and 40 years old and the suspect is a 39 year old resident of Aralaganwila.
 
 ◼️
 
 [Data](articles/f1a1927a.json)
+
+[Extended Data](ext_articles/f1a1927a.ext.json)
 
 ---
 
@@ -2127,43 +2185,5 @@ The Minister also stated that the former President did not mention the name of a
 [Data](articles/ece40cf0.json)
 
 [Extended Data](ext_articles/ece40cf0.ext.json)
-
----
-
-### Expectation to improve food security through assistance to Sri Lanka's agriculture sector - US
-
-*2024-04-26 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182048) · `ta`
-
-The US aims to enhance Sri Lanka's food security by supporting its agriculture, as part of its broader goals for stability and prosperity. A meeting between US and Sri Lankan officials discussed this, with commitments to aid and promote food security and climate change resilience.
-
-🟩
-
-The US has said it expects to improve the country's food safety by providing necessary assistance to Sri Lanka's agricultural development as part of its vast goal of maintaining stability and prosperity.
-
-A meeting between Alexis Taylor and President Ranil Wickremesinghe, Deputy Secretary of the US Department of Agriculture and Foreign Agriculture Affairs, took place in Colombo on Friday (26).. US Ambassador to Sri Lanka Julie Sangam was also present at the meeting.
-
-In a view to the aid provided by the US Department of Agriculture to the Department of Agriculture, the United States, Alexis Daler, has made a strong commitment to supporting the agricultural development and economic development of Sri Lanka through promoting food security and recovery against climate change challenges.
-
-...
-
-[Data](articles/77f1ae12.json)
-
-[Extended Data](ext_articles/77f1ae12.ext.json)
-
----
-
-### Easter attack culprits: Tiran’s revelation on Maithripala’s statement
-
-*2024-04-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98871/easter-attack-culprits-tirans-revelation-on-maithripalas-statement) · `en`
-
-During the inquiry over former President Maithripala Sirisena’s recent statement that he was aware of the real culprits behind the Easter Sunday bomb attacks, he has not mentioned the names of anyone in Sri Lanka, Public Security Minister Tiran Alles said.
-
-The lawmaker made this remark while speaking during today’s parliamentary session, according to Ada Derana reporter.
-
-◼️
-
-[Data](articles/48b9639c.json)
-
-[Extended Data](ext_articles/48b9639c.ext.json)
 
 ---

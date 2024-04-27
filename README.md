@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 11:34:04**
+As of **2024-04-27 11:53:22**
 
 ## Newspaper Stats
 
-*Scraped **21,253** Articles*
+*Scraped **21,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,71 @@ islandlk | 1,151
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
-tamilmirrorlk | 2,458
-adaderanalk | 2,530
+tamilmirrorlk | 2,459
+adaderanalk | 2,531
 virakesarilk | 3,200
 dailymirrorlk | 3,314
-adaderanasinhalalk | 3,429
+adaderanasinhalalk | 3,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,250 (100.0%) of 21,253 articles have been extended.
+21,253 (100.0%) of 21,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### විදුලිසැර වැදී පුද්ගලයෙකුට දිවි අහිමි වෙයි
+### හෙරොයින් කිලෝ 8ක් සමග සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-04-27 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196021) · `si`
+
+හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 08ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු මහරගම නාවින්න ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/efc11ce1.json)
+
+---
+
+### Man arrested with 30kg of drugs including ‘Ice’ and heroin
+
+*2024-04-27 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98880/man-arrested-with-30kg-of-drugs-including-ice-and-heroin) · `en`
+
+A 31-year-old man has been arrested on Friday night (26) for the possession of a large consignment of narcotic substances.
+
+The arrest was made by the officers of Biyagama Police in the area of Bandarawatta when the suspect was transporting nearly 30kg of drugs.
+
+In the impounded consignment were 15kg of ‘Ice’ (crystal methamphetamine), 14kg of Hash and 941g of heroin, according to the police media division.
+
+The suspect was identified as a resident of Bomiriya area in Kaduwela.
+
+◼️
+
+[Data](articles/7b272978.json)
+
+---
+
+### A person dsides with electricity
 
 *2024-04-27 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196020) · `si`
 
-සිමෙන්ති ආශ්‍රිත නිෂ්පාදන සිදුකරන ආයතනයක කම්බි කපමින් සිටි පුද්ගලයෙකු මෙලෙස විදුලිසැර වැදීමෙන් අනතුරට ලක්ව ඇති බව පොලීසිය පැවසුවේය.
+A 62-year-old from Udispattu died after being hit by police at a wire cutting agency in a cement product.
 
-පසුව ඔහු තෙල්දෙණිය රෝහලට ඇතුළු කර ඇති අතර එහිදී මියගොස් ඇති බව සඳහන් වේ.
+🟩
 
-මියගොස් ඇත්තේ 62 හැවිරිදි කටුකිතුල, උඩිස්පත්තුව ප්‍රදේශයේ පදිංචිව සිටි අයෙකි.
+The police said that a wire cutting agency in a cement based product has been hit by the police.
+
+He was admitted to the Teldeniya Hospital and died.
+
+The victim was a 62 year old resident of Udispattu, Udispattu.
 
 ◼️
 
 [Data](articles/a15e44be.json)
+
+[Extended Data](ext_articles/a15e44be.ext.json)
 
 ---
 
@@ -59,6 +95,8 @@ Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 
 ◼️
 
 [Data](articles/0f046e24.json)
+
+[Extended Data](ext_articles/0f046e24.ext.json)
 
 ---
 
@@ -78,19 +116,25 @@ Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 
 
 ---
 
-### තායිවානයේ ප්‍රබල භූකම්පනයක්
+### A powerful earthquake in Taiwan
 
 *2024-04-27 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196019) · `si`
 
-රික්ටර් මාපකයේ ඒකක 6.1 ක ප්‍රබලත්වයක් සටහන් කරමින් එම  භූකම්පනය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+A powerful earthquake in Taiwan, reported in Richter's Thumb, has killed 17 and caused over 1,000 shocks, with no damage reported yet.
 
-කෙසේ වෙතත් ඉන් සිදු වු හානි මෙතෙක් වාර්තා වී නොමැති බව තායිවාන බලධාරීන් සඳහන් කර ඇත.
+🟩
 
-මේ මස මුලදී ද තායිවානයේ ඇති වූ භූකම්පනයකින් පුද්ගලයන් 17 දෙනෙකු ජීවිතක්ෂයට පත් වු අතර  එහිදී පසු කම්පන 1,000කට අධික සංඛ්‍යාවක් වාර්තා වී ඇති බව ද විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the earthquake has taken place in the richter's thumb.
+
+However, Taiwansa authorities have stated that the damage has not been reported so far.
+
+At first, 17 people were killed in Taiwan's earthquake and over 1,000 shocks were reported.
 
 ◼️
 
 [Data](articles/82e06e62.json)
+
+[Extended Data](ext_articles/82e06e62.ext.json)
 
 ---
 
@@ -165,6 +209,22 @@ Minister of Information Technology and Digital Services Dr. Palanivel Thiagaraja
 [Data](articles/e3490646.json)
 
 [Extended Data](ext_articles/e3490646.ext.json)
+
+---
+
+### மைத்திரி வழங்கிய இரகசிய வாக்குமூலம் வெளியானது
+
+*2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியானது/175-336398) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன குற்றப் புலனாய்வுத் திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலத்தை பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் வெளியிட்டுள்ளார்.
+
+இதில், இந்நாட்டு பிரஜையோ அல்லது இந்த நாட்டில் இருக்கும் வேறு நாட்டு பிரஜையோ ஏப்ரல் - 21 பயங்கரவாதத் தாக்குதலில் ஈடுபடவில்லை என தெரிவித்ததாக அவர் குறிப்பிட்டார்.
+
+அத்துடன் விசாரணைகள் நடைபெற்று வருவதால் சில உண்மைகளை வெளியிட முடியாது எனவும், அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/e10d6d0f.json)
 
 ---
 
@@ -2091,75 +2151,5 @@ There was a net foreign outflow of 288 million. (Colombo/Apr26/2024)
 [Data](articles/b5e3b349.json)
 
 [Extended Data](ext_articles/b5e3b349.ext.json)
-
----
-
-### A foreign employment trafficking of the foreign employment
-
-*2024-04-26 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196000) · `si`
-
-The Airport Unit's Office Unit handed over a group of young people suspected of employment trafficking to the CID. The job agency in Kilinochchi, involved in sending people to Romania, was revealed as illegal. A fake Ramadiah Visa was detected, leading to the arrest of the agency's officials and a supporter. The suspects are due in court today.
-
-🟩
-
-Office Unit of the Airport Unit has handed over a group of young persons to the CID for further investigations, using a group of young people to send a person to Romania.
-
-On April 24, a job agency in the Kilinochchi area on April 24, five youths who have been traveling for jobs in Kilinochchi have been suspected.
-
-Later, officials of the Agency of the Agency accompanied them with the Bureau of the Katunayake airport unit.
-
-It has been revealed that the job agency has revealed as an illegal institution.
-
-Therefore, the officials have been severely inspected by the officers and documents of the youths who came to go abroad.
-
-It has also been revealed that the Ramadiah Visa, who was produced before the officials, detected fake visa.
-
-Accordingly, the CID was sent to the Department of Investigation and another person who was supporting him and was arrested by the CID.
-
-The suspects are to be produced before the Negombo Magistrate's Court today (26).
-
-◼️
-
-[Data](articles/df634b11.json)
-
-[Extended Data](ext_articles/df634b11.ext.json)
-
----
-
-### Top U.S. State Dept. official visits Sri Lanka to strengthen agricultural ties, food security
-
-*2024-04-26 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98868/top-us-state-dept-official-visits-sri-lanka-to-strengthen-agricultural-ties-food-security) · `en`
-
-Alexis Taylor, Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA) on Friday (26) called on President Ranil Wickremesinghe and other senior government officials to discuss USDA support for Sri Lanka’s agricultural sector.
-
-She was accompanied by the U.S. Ambassador to Sri Lanka, Julie Chung.
-
-Under Secretary Taylor’s visit underscored the American peoples’ ongoing commitment to supporting the agricultural development and economic growth of Sri Lanka, promoting greater food security and enhancing resilience against climate challenges, the U.S. Embassy in Colombo said in a statement.
-
-The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priority country in the 2024 Food for Progress initiative, which focuses on enhancing food security and climate resilience through environmentally friendly practices and improved market linkages.
-
-...
-
-[Data](articles/0ee7d35b.json)
-
-[Extended Data](ext_articles/0ee7d35b.ext.json)
-
----
-
-### New regulatory body to be introduced for energy sector
-
-*2024-04-26 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98867/new-regulatory-body-to-be-introduced-for-energy-sector) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by the Minister of Power and Energy to appoint a committee to study the matter and make recommendations to prepare a necessary legal framework for the introduction of a regulatory body for energy sector.
-
-The proposed panel will be headed by the Secretary of the Ministry of Power and Energy.
-
-In a statement, the government said that although the import, refining, distribution and sale of petroleum products including petrol, diesel, kerosene, jet fuel oil, liquefied petroleum gas (LPG) and lubricating oil are carried out within the existing legal framework, the sector is not subjected to a wide range of regulation or a petroleum mechanism.
-
-...
-
-[Data](articles/91489d53.json)
-
-[Extended Data](ext_articles/91489d53.ext.json)
 
 ---

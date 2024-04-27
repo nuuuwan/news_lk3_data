@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 07:17:22**
+As of **2024-04-27 07:42:02**
 
 ## Newspaper Stats
 
-*Scraped **21,209** Articles*
+*Scraped **21,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,92 @@ adalk | 1,771
 tamilmirrorlk | 2,452
 adaderanalk | 2,523
 virakesarilk | 3,199
-dailymirrorlk | 3,305
-adaderanasinhalalk | 3,422
+dailymirrorlk | 3,310
+adaderanasinhalalk | 3,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,208 (100.0%) of 21,209 articles have been extended.
+21,209 (100.0%) of 21,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### අව්ව - වැස්ස දෙකම එකට
+### අමෙරිකාව චීනයට කළ තර්ජනය
+
+*2024-04-27 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196014) · `si`
+
+චීනය විසින් යුක්ක්‍රේන ගැටුම සඳහා රුසියාවට අනුබල දීම නතර නොකළහොත් ඊට එරෙහිව ක්‍රියාමාර්ග ගන්නා බව එක්සත් ජනපද රාජ්‍ය ලේකම් ඇන්ටනි බ්ලින්කන් අනතුරු අඟවා තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ සීතල යුද්ධයෙන් පසු යුරෝපීය ආරක්ෂාවට දැවැන්තම තර්ජනය මෙම සහයෝගීතාව බව ඔහු පවසා ඇති බවයට.
+
+අමෙරිකාව විසින් චීනයට එරෙහිව ගනු ලබන ක්‍රියාමාර්ග මොනවාදැයි මේවනතෙක් ප්‍රකාශ කර නොමැති බව සඳහන් වේ
+
+ඊශ්‍රායලය සමග ඇති ගැටුම තවදුරටත් උත්සන්න කිරීමට එරෙහිව ඉරානය සමග ඇති සබඳතාවය යොදා ගනිමින් චීනය කටයුතු කරමින් සිටින බවට එක්සත් ජනපද රාජ්‍ය ලේකම් ඇන්ටනි බ්ලින්කන් අවධාරණය කර ඇති බව වාර්තා වේ.
+
+මෙම තත්ත්වය හමුවේ අමෙරිකාව විසින් චීනයට අයත් TikTok යෙදුම විකිණීමට හෝ අමෙරිකාවේ තහනම් කිරීමට අවශ්‍ය පියවර ගැනීමටද නියමිත බව විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d60e5298.json)
+
+---
+
+### Exhibition of stamps, coins...
+
+*2024-04-27 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Exhibition-of-stamps-coins/110-281437) · `en`
+
+An exhibition of vintage stamps and coins organized by Sri Lanka Independent Philatelic Association was launched yesterday (26) at the Public Library and will be held until Sunday (28). Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/f7d2c93a.json)
+
+---
+
+### Sunny - both the rain together
 
 *2024-04-27 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196013) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sunny weather with showers or thundershowers expected across multiple provinces, including Western, Sabaragamuwa, Central, Southern, North Western, and Uva. High temperatures and humidity in some areas.
 
-උතුරු-මැද පළාතේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-ගාල්ල සිට මාතර හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව සඳහන් වේ.
+From Western, Sabaragamuwa, Central, Southern, Southern, North Western and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩිතරමක තද වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at several places in the North-Central Province or night.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවති.
+Showers or thundershowers will occur at several places in the coastal areas from Galle to Matara and showers.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. 75 workshop can also occur.
 
-මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (27) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Some locations in the Western, Sabaragamuwa, Central and Uva provinces were in the morning.
+
+The Department of Meteorology urges the public to take necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
+
+Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to pay attention today (27).
 
 ...
 
 [Data](articles/563577b5.json)
+
+[Extended Data](ext_articles/563577b5.ext.json)
+
+---
+
+### Govt. concerned over project implementation at snail’s pace
+
+*2024-04-27 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govt-concerned-over-project-implementation-at-snails-pace/155-281456) · `en`
+
+Colombo, April 26 (Daily Mirror) -  Ahead of the presidential election, the government has allocated Rs.100 million for each divisional secretariat area for development projects and instructed the ruling party MPs to accelerate implementation of them, Daily Mirror learns.
+
+President Ranil Wickremesinghe called for a meeting of the ruling party legislators on Thursday to discuss the matter since the execution of development projects takes place at a snail’s pace, according to an MP who was present at the meeting.
+
+...
+
+[Data](articles/c38e0eb4.json)
 
 ---
 
@@ -103,6 +155,44 @@ In addition, interest rates, which have increased by 2023, have now been brought
 [Data](articles/fcafeedf.json)
 
 [Extended Data](ext_articles/fcafeedf.ext.json)
+
+---
+
+### Government delays decision on future of oil palm cultivation
+
+*2024-04-27 04:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-delays-decision-on-future-of-oil-palm-cultivation/108-281485) · `en`
+
+Expert committee spells out instructions and directions to be followed when permitting palm oil cultivation in identified Mahaweli and specified other areas
+
+The government has been sitting on an expert committee report on how to permit oil palm cultivation in identified Mahaweli areas and other areas, without deciding for nearly five months.
+
+According to the Agriculture and Plantation Industries Ministry, the ministry forwarded the report to the secretary to the Cabinet of Ministers on January 12.
+
+In November 2022, the Cabinet of Ministers decided to appoint an expert committee to explore the possibility of permitting oil palm cultivation in identified Mahaweli areas and specified other areas, which include the Regional Plantation Companies (RPCs).
+
+The committee was headed by an additional secretary to the ministry and was made up of experts from of the Plantation Industries Ministry, Mahaweli Authority, Irrigation Department and Coconut Research Institute.
+
+...
+
+[Data](articles/8d21edef.json)
+
+---
+
+### Oil and gas exploration halted by prolonged legal dispute
+
+*2024-04-27 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oil-and-gas-exploration-halted-by-prolonged-legal-dispute/108-281484) · `en`
+
+Sri Lanka’s efforts to attract and leverage international investment into the exploration of oil and gas have once again been gridlocked by legal challenges in the Court of Appeal.
+
+Plans were underway to commercialise two blocks, adding to over 5,000 square kilometres with potential oil and gas resources in the Mannar Basin.
+
+According to the latest developments in CA (Writ) Application No: 392/2023, the court found that a prima facie case has been established by the petitioner Serendive Energy.
+
+Accordingly, the court issued orders restraining the first to 36th respondents and/or its servants or agents from granting to any third party, other than the petitioner, the rights to offshore exploration of blocks M1 and C1, until a final determination is reached in the case, Serendive Energy said in a statement.
+
+...
+
+[Data](articles/0a123394.json)
 
 ---
 
@@ -193,6 +283,24 @@ Since 2012, this religious affair has slowly come out.. As a result, some things
 [Data](articles/87c1d9f2.json)
 
 [Extended Data](ext_articles/87c1d9f2.ext.json)
+
+---
+
+### Tea auction offerings decline to 4.6 MnKgs this week
+
+*2024-04-27 00:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tea-auction-offerings-decline-to-4-6-MnKgs-this-week/108-281480) · `en`
+
+At the Colombo Tea Auction, the offerings declined to 4.6 million kilogrammes this week that was met with fair demand.
+
+The Ex-Estate offerings too declined and totalled 0.60 million kilogrammes, from 0.70 million kilogrammes the previous week. The overall quality of the teas was not as useful and perhaps against the backdrop of the limited availability, the prices were reasonably maintained, Forbes and Walker Tea Brokers said.
+
+The Best Western BOP/BOPFs, where quality was maintained, were mostly firm, whilst the others declined by Rs.50 per kilogramme and more following quality. In the Below Best category, a few select coloury BOPs appreciated, following special inquiry, whilst the others were firm and up to Rs.50 per kilogramme easier. The corresponding BOPFs sold around last.
+
+At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs were Rs.20-30 per easier, except for select clean leaf coloury sorts, which sold around last week’s levels.
+
+...
+
+[Data](articles/3e6c82dd.json)
 
 ---
 
@@ -2091,139 +2199,5 @@ Give permission to reform this. Otherwise, rectify this, dear officers!He was in
 [Data](articles/9e2a7146.json)
 
 [Extended Data](ext_articles/9e2a7146.ext.json)
-
----
-
-### Provisions were made for development
-
-*2024-04-26 13:12:21* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධනය-සඳහා-ප්‍රතිපාදන-වෙන්-කෙරුණේ-විනිවිදවයි/11-409280) · `si`
-
-Government claims opposition MPs' claims of no provisions this year are baseless. Provisions were made for the District Coordinating Committee, not MPs. Chief Government Whip Prasanna Ranatunga emphasizes transparency in development. Allocations were made to government or opposition MPs, not exclusively to MPs. Decentralized funds were given to the District Coordinating Committee, not just selected MPs.
-
-🟩
-
-The claims that the opposition parliamentarians do not provide the government this year is baseless ....
-
-This year's provisions were made to the District Coordinating Committee.. Not the MPs ...
-
-The Chief of Government Prasanna Ranatunga emphasizes that it was transparently transparencing for development.
-
-He points out that the state-member parliamentarians of the opposition is baseless that the government does not provide this year's investigation.
-
-The Minister pointed out that allocating allocations have been allocated to the Members of the Government or the Opposition to the Members of Parliament.
-
-Chief Government Whip Prasanna Ranatunga made this statement from the opposition MP Ashok Abeysinghe today (26).
-
-...
-
-[Data](articles/ede22e2c.json)
-
-[Extended Data](ext_articles/ede22e2c.ext.json)
-
----
-
-### US$ 3 Million grant to strengthen inland fisheries
-
-*2024-04-26 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-3-Million-grant-to-strengthen-inland-fisheries/108-281427) · `en`
-
-Colombo, April 26 (Daily Mirror) - A US$ 3 million grant from the Japanese government, through the Food and Agriculture Organisation of the United Nations (FAO), in partnership with the Ministry of Fisheries, is set to boost the country’s inland fisheries sector.
-
-A Memorandum of Understanding (MoU) was signed on Thursday, with the project aiming to directly support approximately 3,000 inland fishers, 40 farmers engaged in mini hatchery operations, and 20 farmers specializing in fish feed preparation.
-
-The project is also expected to have a positive ripple effect on indirect beneficiaries, including family members, consumers, producers of dry fish, and stakeholders in research and academia.
-
-Minister of Fisheries Douglas Devananda indicated that the grant would revitalize a sector that had been affected by the country’s economic crisis.
-
-...
-
-[Data](articles/c19fa6e5.json)
-
-[Extended Data](ext_articles/c19fa6e5.ext.json)
-
----
-
-### Two institutions to manage Mattala Airport
-
-*2024-04-26 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195989) · `si`
-
-Two institutions recommended for managing Mattala Airport: Shaurya Aeronutics and Russia AirportsF Management Company, approved for a 30-year period.
-
-🟩
-
-Two of the five institutions that manage Mattala International Airport have been recommended.
-
-Shaurya Aeronutics pvt in India. The Cabinet approval has been paid to the Ltd and Russia AirportsF Management Company or its joint venture for a 30 year period.
-
-◼️
-
-[Data](articles/e5ab841b.json)
-
-[Extended Data](ext_articles/e5ab841b.ext.json)
-
----
-
-### Two companies from Russia, India to take over management of Mattala airport
-
-*2024-04-26 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98862/two-companies-from-russia-india-to-take-over-management-of-mattala-airport-) · `en`
-
-The Cabinet of Ministers has green-lighted the proposal to hand over the management of Mattala Rajapaksa International Airport to a selected private sector company which has submitted Expressions of Interest (EOI) for the purpose.
-
-Accordingly, the Cabinet approval has been received to hand over the management of Mattala Rajapaksa International Airport to Shaurya Aeronautics Pvt. Ltd of India and Airports of Regions Management Company of Russia or an affiliated company thereof for a period of 30 years.
-
-Earlier during a Cabinet meeting held on 09 January 2023, approval has been granted to invite EOIs from interested parties for utilizing the facilities of the Mattala Rajapaksa International Airport.
-
-Accordingly, EOIs have been called, for which 05 institutions have submitted offers for the purpose.
-
-...
-
-[Data](articles/6acda69f.json)
-
-[Extended Data](ext_articles/6acda69f.ext.json)
-
----
-
-### The trial of Harak Katha's trial in May
-
-*2024-04-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/181999) · `ta`
-
-The Colombo High Court ordered a hearing for Harak Katha, accused of escaping CID custody, and an inquiry to prevent him from avoiding court.
-
-🟩
-
-The Colombo High Court has ordered the hearing of the case filed against three defendants, including Nathan Chintaka Wickremaratne, known as Harak Kata, who was accused of trying to escape the custody of the Criminal Investigation Department.
-
-In addition, Colombo High Court Judge Tamittawatta has also ordered an inquiry into the defendant to avoid the court in the case.
-
-◼️
-
-[Data](articles/1f41f258.json)
-
-[Extended Data](ext_articles/1f41f258.ext.json)
-
----
-
-### One killed, 9 injured as a lorry collision and lorry
-
-*2024-04-26 12:49:21* · [`adalk`](https://www.ada.lk/breaking_news/යුදහමුදා-කැබ්රථයක්-සහ-ලොරියක්-ගැටී-සෙබලෙකු-මරුට-09-කට-තුවාල/11-409279) · `si`
-
-A lorry collision on A-9 road in Jaffna resulted in one death and nine injuries. The lorry driver was attempting to escape when two soldiers collided with it. Further investigations are ongoing.
-
-🟩
-
-Awahhamadu soldier was killed and nine others had been killed in the A-9 main road in Jaffna.
-
-AW - 9 main road has been run towards Kilinochchi towards Kilinochchi and a lorry is on the back of it. The lorry driver was revealed at the preliminary police investigations that the lorry was collided with the lorry by the end of the lorry.
-
-Two warfare soldiers who had been behind the cab have collided with the lorry, while the lorry driver was trying to escape the lorry.
-
-අනතුරින් කැබ්රථයේ ගිය යුදහමුදා සෙබලුන් සහ ලෙරි රථයේ රියුදරු ඇතුලු 09 දෙනෙකු තුවල ලබා කිලිනොච්චිය මහරෝහලට රැගෙන ගොස් ඇති අතර ලොරියේ ගැටුනු එක් යුදහමුදා සෙබලෙකු එම ස්ථනයේම මිය ගො ඇතැයි පොලීසිය පැවසීය.
-
-The victim was a 39 year old warm soldier from Galgamuwa and the Kizakkulam Police are conducting further investigations.
-
-◼️
-
-[Data](articles/e5c1ebbf.json)
-
-[Extended Data](ext_articles/e5c1ebbf.ext.json)
 
 ---

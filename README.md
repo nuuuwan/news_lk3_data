@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 16:49:22**
+As of **2024-04-27 17:04:35**
 
 ## Newspaper Stats
 
-*Scraped **21,278** Articles*
+*Scraped **21,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,152
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
-tamilmirrorlk | 2,461
+tamilmirrorlk | 2,463
 adaderanalk | 2,536
 virakesarilk | 3,201
 dailymirrorlk | 3,316
@@ -26,47 +26,95 @@ adaderanasinhalalk | 3,438
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,276 (100.0%) of 21,278 articles have been extended.
+21,278 (100.0%) of 21,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### ඉන්දීය මැතිවරණයේ අලුත්ම තත්ත්වය
+### பாரியளவு போதைப்பொருட்கள் சிக்கின
+
+*2024-04-27 16:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரியளவு-போதைப்பொருட்கள்-சிக்கின/175-336402) · `ta`
+
+பியகம பகுதியில் முன்னெடுக்கப்பட்ட சுற்றிவளைப்பின் போது 15 கிலோ 81 கிராம் ஐஸ் போதைப்பொருள், 14 கிலோ 527 கிராம் ஹேஷ் போதைப்பொருள் மற்றும் 941 கிராம் ஹெரோயின் போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ள நிலையில், ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+போமிரிய கடுவலை பிரதேசத்தை சேர்ந்த 31 வயதுடைய நபர் பண்டாரவத்தை பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதுடன், அவர் வாழ்ந்த வீடு மற்றும் காரினை சோதனை செய்தபோதே இந்த போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+முன்னதாக கைது செய்யப்பட்ட இரண்டு சந்தேகநபர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் போது இந்த சந்தேக நபர் தொடர்பில் பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+
+◼️
+
+[Data](articles/8aa88179.json)
+
+---
+
+### The latest situation in the Indian election
 
 *2024-04-27 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196030) · `si`
 
-ලොව වැඩිම ඡන්ද දායකයින් සහිත රට වන ඉන්දියාවේ මහ මැතිවරණය පසුගිය 19 වනදා ඇරඹුණු අතර එහි දෙවන අදියර ඊයේ (26) නිමා විය.
+India's General Elections, the world's largest voter turnout, are in the second stage, with 61% voter turnout in the second phase. Results expected on June 4. Phases continue through May and June.
 
-විදෙස් මාධ්‍ය වාර්තා කරන්නේ පළමු අදියරේදී ඡන්ද දායකයින් 65%ක් ඡන්දය ප්‍රකාශ කර තිබූ අතර දෙවෙනි අදියරේදී එය 61%ක් දක්වා අඩුවී ඇති බවය.
+🟩
 
-මැතිවරණ ප්‍රතිඵල ජුනි 4 වනදා වනවිට ප්‍රකාශයට පත්කිරීමට හැකිවෙතැයි අනුමාන කරයි.
+The General Elections of India, the largest voters in the world, launched the second phase of the second stage yesterday (26).
 
-තෙවැනි අදියර මැයි 07 වනදා පැවැත්වෙන අතර සිව්වන අදියර මැයි 13, පස්වන අදියර මැයි 20, හයවන අදියර මැයි 25 සහ හත්වන අදියර ජුනි 01 වනදා පැවැත්වෙනු ඇත.
+Foreign media reports that 65% voters voted in the first phase, while it was reduced to 61% in the second stage.
+
+The electoral results are expected to be announced on June 4.
+
+The third phase will be held on May 07, May 13, 5th Phase 5, May 25 and 7 seventh stage will be held on June 01.
 
 ◼️
 
 [Data](articles/152ee5d1.json)
 
+[Extended Data](ext_articles/152ee5d1.ext.json)
+
 ---
 
-### ආරක්ෂක අභියෝග පිළිබඳ සාකච්ඡා කිරීමට කමල් ගුණරත්න රුසියාවට
+### வெளிநாட்டில் உள்ளவரின் காணியை விற்ற உறவினர்
+
+*2024-04-27 16:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெளிநாட்டில்-உள்ளவரின்-காணியை-விற்ற-உறவினர்/71-336401) · `ta`
+
+வெளிநாட்டில் உள்ளவரின் காணியை மோசடி செய்து விற்பனை செய்த நபர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+வெளிநாட்டில் வசிக்கும் நபர் ஒருவர் யாழ்ப்பாணத்தில் உள்ள தனது காணியை பராமரிப்பதற்காக யாழ்ப்பாணத்தை சேர்ந்த உறவினர் ஒருவருக்கு அற்றோணித்தத்துவம் முடித்து கொடுத்துள்ளார்.
+
+அற்றோணித்தத்துவத்தை தனக்கு சாதகமாக பயன்படுத்தி காணியினை மூன்று துண்டுகளாக பிரித்து ஒரு பகுதியை  நபர் ஒருவருக்கு விற்பனை செய்ததுடன், மற்றுமொரு பகுதியை வங்கியில் ஈடுவைத்துள்ளார். மற்றைய துண்டினை தனது உறவினருக்கு நன்கொடையாக கொடுத்து , அதனை மீள அறுதியாக பெற்றுள்ளார்.
+
+இது தொடர்பில் அறிந்த காணி உரிமையாளர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த நிலையில் , முறைப்பாட்டின் பிரகாரம் பொலிஸார் விசாரணைகளை முன்னெடுத்து , காணி விற்பனையில் ஈடுபட்ட நபரை கைது செய்தனர்.
+
+கைது செய்யப்பட்டவரிடம் விசாரணைகளை முன்னெடுத்த பின்னர் யாழ்.நீதவான் நீதிமன்றில் முற்படுத்தியவேளை, மன்று சந்தேகநபரை விளக்கமறியலில் வைக்க உத்தரவிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/8190b2f3.json)
+
+---
+
+### Kamal Gunaratne to discuss security challenges Russia
 
 *2024-04-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196029) · `si`
 
-ආරක්ෂක ලේකම් ජෙනරල් කමල් ගුණරත්න මහතා රුසියානු ආරක්ෂක කවුන්සිලයේ ලේකම්වරයා මුණ ගැසී ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
+Kamal Gunaratne, Defense Secretary General, discussed security challenges with Russia's Defense Council Secretary at the 12th international meeting. Focus was on international cooperation, regional peace, and stability, including efforts against terrorism, cyber threats, and internet security. Both sides aim to strengthen diplomatic relations and security cooperation.
 
-ඒ, රාජ්‍ය ආරක්ෂණ කටයුතු සඳහා වන උසස් නිලධාරීන්ගේ 12වන ජාත්‍යන්තර හමුවේදීය .
+🟩
 
-ආරක්ෂක අභියෝගයන්ට මුහුණ දීම මෙන්ම, කලාපීය සාමය සහ ස්ථාවරත්වය ප්‍රවර්ධනය කිරීම සඳහා ජාත්‍යන්තර සහයෝගීතාව සහ සාමුහිකත්වය වැඩිදියුණු කිරීම මෙහිදී අවධානය යොමු කර ඇති බව සඳහන්ය.
+Defense Secretary General Kamal Gunaratne has held bilateral discussions with the Secretary to the Russian Defense Council.
 
-එමෙන්ම ත්‍රස්ත මර්ධන ප්‍රයත්නයන්, සයිබර් හා අන්තර්ජාල මෙන්ම ආරක්ෂක සහයෝගීතාව ඇතුලු කරුණු රැසක් සම්බන්ධයෙන් මෙහිදී දෙපාර්ශ්වයේ අවධානය යොමුව තිබේ.
+At the 12th internation meeting of high officials for public security.
 
-ද්විපාර්ශ්වික රාජ්‍ය තාන්ත්‍රික සබඳතා ශක්තිමත් කිරීමට හා ආරක්ෂක ක්‍රියාවලිය තුළ දෙරටේ සහයෝගීතාව වැඩිදියුණු කිරීම සඳහා නව මංපෙත් පිළිබඳව සොයා බැලීමට ඇති අනෝන්‍යය කැපවීම දෙපාර්ශ්වය විසින් ම මෙහිදී අවධානයට යොමුකළ බව ආරක්ෂක අමාත්‍යංශය සදහන් කළේය.
+It is said that it is said that the international cooperation and collectivism have been focused on protecting security challenges, as well as to promote regional peace and stability.
+
+The attention of both parties, including terrorism efforts, cyberware and internet and security cooperation.
+
+The Defense Ministry said that the two sides had given the attention to the other commitment to the two countries to strengthen bilateral diplomatic relations and improve the cooperation of two countries in the security control.
 
 ◼️
 
 [Data](articles/72897361.json)
+
+[Extended Data](ext_articles/72897361.ext.json)
 
 ---
 
@@ -2135,59 +2183,5 @@ Yuvraj Singh, a world champion in 2007, said:. Therefore, it is exciting to be a
 [Data](articles/0e5e75c4.json)
 
 [Extended Data](ext_articles/0e5e75c4.ext.json)
-
----
-
-### Romania employment racket
-
-*2024-04-26 20:10:36* · [`adalk`](https://www.ada.lk/breaking_news/රුමේනියා-රැකියා-ජාවාරමේ-දෙවන-සැකකරුත්-කොටුවෙයි/11-409285) · `si`
-
-A second suspect was arrested for an employment racket involving Romania. The Licensed Foreign Employment agency was implicated, with 88 complaints. The suspect is due in court today.
-
-🟩
-
-The second suspect, the second suspect, was arrested in the Foreign Employment Bureau today (4.26).
-
-The Licensed Foreign Employment (Royal Dramez), which was held at Sangaraja Mawatha, had been cheated by the Licensed Foreign Employment agency (Licensed Foreign Employment has provided employment to Romania and had received 88 complaints.. Accordingly, the Licensing of the Institute was arrested by the Bureau and was remanded until 29th April.
-
-Investigations were arrested by the investigating officials from the Nattandiya area in the Nattandiya area, who was supporting the racket.
-
-The suspect is to be produced before the Maligakanda Magistrate's Court today (4/66).
-
-WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK Website or the 1989 instant call number
-
-◼️
-
-[Data](articles/52ddb6b3.json)
-
-[Extended Data](ext_articles/52ddb6b3.ext.json)
-
----
-
-### The latest news about Dushhamah Chameera
-
-*2024-04-26 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196006) · `si`
-
-Dushhamah Chameera, Sri Lanka's fast bowler, debuts for Kolkata Knight Riders today in an IPL match against Punjab Kings.
-
-🟩
-
-Sri Lanka's fast bowler is to contest the match of the IPL today (26).
-
-He is the first time that he is the first to compete today for Kolkata Knight Riders.
-
-He joined Kolkata Knight Riders at a price of Rs.
-
-The Kolkata Knight Riders of Kolkata Knight Riders had been selected by Kolkata Knight Riders in such a bowler Gustakinson.
-
-Dushhana Chameera has represented Royal Royals in 2018 in 2018 and the 2021 Royal Challengers played for Bangalore.
-
-The match will be held today with the Kolkata Knight Riders team and Punjab Kings.
-
-◼️
-
-[Data](articles/00998270.json)
-
-[Extended Data](ext_articles/00998270.ext.json)
 
 ---

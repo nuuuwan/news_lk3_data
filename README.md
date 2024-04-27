@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 21:52:46**
+As of **2024-04-27 22:03:45**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,301 (100.0%) of 21,302 articles have been extended.
+21,302 (100.0%) of 21,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### මඩකළපුවේ ඉදි කළ ක්‍රිකට් පිටිය
+### Batticaloa built cricket ground
 
 *2024-04-27 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196040) · `si`
 
-නැගෙනහිර පළාතේ ක්‍රිකට් ක්‍රීඩකයින්ගේ දියුණුව වෙනුවෙන් කැපවුණු පුද්ගලයෙකු අද දෙරණට මඩකළපුවෙන් හමු වුණි.
+Batticaloa's cricket ground, developed by Mr. Punerasingham, offers a personal investment opportunity for youths seeking advanced cricket experience.
 
-නමින් පූනසිංහම් වසීහරන් වන ඔහු මේ වනවිට තම පෞද්ගලික මුදලින් අංග සම්පූර්ණ ක්‍රිකට් ක්‍රීඩාංගණයක් මඩකළපුවේ ඉදිකර තිබේ.
+🟩
 
-මෙය උසස් මට්ටමේ ක්‍රිකට් අත්දැකීමක් ලබාගන්න අපේක්ෂා කරන සියලුම තරුණයින් ට හොඳ අවස්ථාවකි.
+A man committed to the development of cricketers in the Eastern Province today from Batticaloa.
+
+Mr. Punerasingham, he is currently building a complete component of personal money in Batticaloa.
+
+This is a good opportunity for all the youths who wish to have a high level of cricket experience.
 
 ◼️
 
 [Data](articles/5040ecc3.json)
+
+[Extended Data](ext_articles/5040ecc3.ext.json)
 
 ---
 

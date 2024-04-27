@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 22:03:45**
+As of **2024-04-27 22:18:26**
 
 ## Newspaper Stats
 
-*Scraped **21,302** Articles*
+*Scraped **21,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,464
 adaderanalk | 2,541
 virakesarilk | 3,201
 dailymirrorlk | 3,319
-adaderanasinhalalk | 3,448
+adaderanasinhalalk | 3,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,302 (100.0%) of 21,302 articles have been extended.
+21,302 (100.0%) of 21,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### ජාත්‍යන්තර වූෂු තරගාවලියකදී කවීෂ් බණ්ඩාර තැබූ වාර්තාව
+
+*2024-04-27 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196041) · `si`
+
+ජාත්‍යන්තර වූෂු තරගාවලියකදී ශ්‍රී ලංකා ක්‍රීඩකයෙකු රැස්කළ වැඩිම ලකුණු සංඛ්‍යාව වාර්තා කිරීමට කවීෂ් බණ්ඩාර සමත්වී තිබේ.
+
+චීනයේ පැවති ජාත්‍යන්තර ආරාධිත වූෂු තරගාවලියේදී 7 වැනි ස්ථානය දිනූ ඔහු ලකුණු 9.6ක් රැස් කරමින් එම වාර්තාව පිහිටුවනු ලැබීය.
+
+◼️
+
+[Data](articles/6c71d94a.json)
+
+---
 
 ### Batticaloa built cricket ground
 
@@ -2187,23 +2201,5 @@ National People’s Power (NPP) party leader Anura Kumara Dissanayake yesterday 
 [Data](articles/d30759ff.json)
 
 [Extended Data](ext_articles/d30759ff.ext.json)
-
----
-
-### SLT-Mobitel wins ‘Best Corporate Citizen Sustainability Award 2023’
-
-*2024-04-26 23:53:00* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-wins-Best-Corporate-Citizen-Sustainability-Award-2023/34-761100) · `en`
-
-Recognised for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event.
-
-The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
-
-The annual awards are organised by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organisations committed to sustainability across various sectors.
-
-...
-
-[Data](articles/eaf046fd.json)
-
-[Extended Data](ext_articles/eaf046fd.ext.json)
 
 ---

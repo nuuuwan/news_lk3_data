@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 11:03:30**
+As of **2024-04-27 11:18:35**
 
 ## Newspaper Stats
 
-*Scraped **21,248** Articles*
+*Scraped **21,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
 tamilmirrorlk | 2,458
-adaderanalk | 2,528
-virakesarilk | 3,199
+adaderanalk | 2,529
+virakesarilk | 3,200
 dailymirrorlk | 3,314
 adaderanasinhalalk | 3,427
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,427
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,248 (100.0%) of 21,248 articles have been extended.
+21,248 (100.0%) of 21,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### 14-hour water cut imposed in parts of Colombo District today
+
+*2024-04-27 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98879/14-hour-water-cut-imposed-in-parts-of-colombo-district-today) · `en`
+
+The National Water Supply & Drainage Board (NWSDB) says a 14-hour water cut would be imposed for several areas in Colombo District on Saturday evening (27).
+
+Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 a.m. on Sunday (28) in Colombo 5 and 6, Dehiwala-Mount Lavinia urban council and Moratuwa urban council area, as well as in Jayanthipura and Pelawatta areas.
+
+◼️
+
+[Data](articles/0f670467.json)
+
+---
 
 ### Taiwan rattled by quakes again, no immediate reports of damage
 
@@ -75,6 +89,26 @@ The driver was also killed when he was admitted to the Welikanda hospital.
 [Data](articles/aed4a924.json)
 
 [Extended Data](ext_articles/aed4a924.ext.json)
+
+---
+
+### இலங்கைக்கு நம்பிக்கையை ஏற்படுத்தவுள்ள Rotary International District 3220 மாநாடு
+
+*2024-04-27 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182070) · `ta`
+
+Rotary International District 3220 மாநாடு 2023 - 2024 இன் ஆரம்ப விழா கொழும்பு பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் வெள்ளிக்கிழமை (26) இடம்பெற்றது.
+
+இதில் இலங்கை மற்றும் வெளிநாடுகளில் இருந்து 400க்கும் மேற்பட்ட ரோட்டேரியன்கள் மற்றும் பலவிசேட பிரமுகர்கள் மற்றும் பேச்சாளர்கள் பங்கேற்றனர்.
+
+இலங்கை ரோட்டரி கழகத்தின் ஆளுநர் ஜெரோம் ராஜேந்திரம் மற்றும் தலைவர் டி.ஜி.என்.டி. குமார் சுந்தரராஜ் தலைமையில் இந்த மாநாடு இடம்பெற்றது.
+
+இம் மாநாட்டில் பிரதம அதிதியாக ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொண்டு உரையாற்றுகையில் “ மக்களின் பிரச்சினையை தீர்ப்பதே தற்போது முதன்மையானது எனவும் நிறைவேற்று அதிகார ஒழிப்பு அல்ல என்றும் குறிப்பிட்டதுடன் திருகோணமலை, கொழும்பு துறைமுகங்கள் இந்தியாவின் முதலீட்டுக்காக காத்திருக்கின்றன என்றும் தெரிவித்தார்.
+
+அதேவேளை, கௌரவ விருந்தினராக ரோட்டரி கழகத்தின் சர்வதேச தலைவரைப் பிரதிநிதித்துவப்படுத்தி முன்னாள் பணிப்பாளர் பெர்ஹோயன் கலந்துகொண்டார்.
+
+...
+
+[Data](articles/e3490646.json)
 
 ---
 
@@ -2137,53 +2171,5 @@ The water cut will be implemented in Colombo 5 and Colombo 6, Dehiwala, Malkisai
 [Data](articles/b6239b1e.json)
 
 [Extended Data](ext_articles/b6239b1e.ext.json)
-
----
-
-### චීන ජනපති අමෙරිකාවට හොඳ හිත පෙන්වයි
-
-*2024-04-26 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195998) · `si`
-
-Xi Jinping emphasized partnership with the US, focusing on mutual respect for peaceful cooperation.
-
-🟩
-
-Chinese President Xi Ginpin said that China and the US should be partners, but partners.
-
-He was speaking at a meeting with US Secretary of State Anthony Blinken.
-
-The Chinese President has said that showing mutual respect for each other must be the Trinity Important Policies for Peaceful Cooperation and Fierce Benex for Both Both
-
-◼️
-
-[Data](articles/2006b865.json)
-
-[Extended Data](ext_articles/2006b865.ext.json)
-
----
-
-### Brother arrested for engaging in drugs and sex work for her sister in Jaffna
-
-*2024-04-26 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182031) · `ta`
-
-A brother in Jaffna was arrested for sexually abusing his sister, who died last December. He was also accused of drug abuse and forced into sex work. The police are investigating further.
-
-🟩
-
-The brother has been arrested and detained in a court order on charges of sexually abusing her sister.
-
-A 34 -year -old woman from a village near Jaffna Nagar has died and her sister is living with her sister in the orphaned home in Vadamarachchi.
-
-In this case, the woman's sister died last December. After that, the sister who lived in the house, who lived in the neighboring area of Jaffna, brought him to stay.
-
-In January, the woman has been forcibly consumed by the drug, injecting drug needles, and a gang of sexual harassment has been tortured.
-
-Later last week, the woman was taken to the orphaned house and the brother added. Changes in the woman's actions in the house and the body of the body has been admitted to the Pedro Base Hospital for treatment by the home administration.
-
-...
-
-[Data](articles/9a4a8642.json)
-
-[Extended Data](ext_articles/9a4a8642.ext.json)
 
 ---

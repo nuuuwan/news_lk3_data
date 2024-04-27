@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 01:51:07**
+As of **2024-04-28 02:03:47**
 
 ## Newspaper Stats
 
-*Scraped **21,311** Articles*
+*Scraped **21,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,152
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
-tamilmirrorlk | 2,464
+tamilmirrorlk | 2,465
 adaderanalk | 2,543
 virakesarilk | 3,202
 dailymirrorlk | 3,319
@@ -26,9 +26,29 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,311 (100.0%) of 21,311 articles have been extended.
+21,311 (100.0%) of 21,312 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-28 (Sunday)
+
+### அனுரவுக்கு அமோக வரவேற்பு
+
+*2024-04-28 01:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-அமோக-வரவேற்பு/175-336416) · `ta`
+
+மக்கள் சந்திப்பு உள்ளிட்ட சில நிகழ்ச்சிகளில் பங்கேற்பதற்காக  சுவீடனுக்கு சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்கவிற்கு உற்சாக வரவேற்பளிக்கப்பட்டது.
+
+கடந்த 25 ஆம் திகதி அனுரகுமார திசாநாயக்க சுவீடன் நோக்கி பயணமானார். சுவீடனில் உள்ள இலங்கையர்களால் சுவீடன் விமான நிலையத்தில் அவருக்கு வரவேற்பளிக்கப்பட்டது.
+
+தேசிய மக்கள் சக்தியின் ஸ்வீடன் வௌிநாட்டு குழுவினரால் ஸ்டொக்ஹோல்ம் நகரில் ஏற்பாடு  செய்யப்பட்டுள்ள நிகழ்வில் அனுரகுமார திசாநாயக்க பங்கேற்கவுள்ளார்.
+
+அனுரகுமார திசாசாயக்க ஸ்வீடனில் தங்கியிருக்கும் காலத்தில் பல பொதுக்கூட்டங்கள் உள்ளிட்ட கலந்துரையாடல்களில்  பங்கேற்பார் என தேசிய மக்கள் சக்தி தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/93ea8559.json)
+
+---
 
 ### 2024-04-27 (Saturday)
 
@@ -2195,25 +2215,5 @@ Since 2012, this religious affair has slowly come out.. As a result, some things
 [Data](articles/87c1d9f2.json)
 
 [Extended Data](ext_articles/87c1d9f2.ext.json)
-
----
-
-### Tea auction offerings decline to 4.6 MnKgs this week
-
-*2024-04-27 00:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tea-auction-offerings-decline-to-4-6-MnKgs-this-week/108-281480) · `en`
-
-At the Colombo Tea Auction, the offerings declined to 4.6 million kilogrammes this week that was met with fair demand.
-
-The Ex-Estate offerings too declined and totalled 0.60 million kilogrammes, from 0.70 million kilogrammes the previous week. The overall quality of the teas was not as useful and perhaps against the backdrop of the limited availability, the prices were reasonably maintained, Forbes and Walker Tea Brokers said.
-
-The Best Western BOP/BOPFs, where quality was maintained, were mostly firm, whilst the others declined by Rs.50 per kilogramme and more following quality. In the Below Best category, a few select coloury BOPs appreciated, following special inquiry, whilst the others were firm and up to Rs.50 per kilogramme easier. The corresponding BOPFs sold around last.
-
-At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs were Rs.20-30 per easier, except for select clean leaf coloury sorts, which sold around last week’s levels.
-
-...
-
-[Data](articles/3e6c82dd.json)
-
-[Extended Data](ext_articles/3e6c82dd.ext.json)
 
 ---

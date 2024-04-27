@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 19:18:34**
+As of **2024-04-27 19:33:57**
 
 ## Newspaper Stats
 
-*Scraped **21,288** Articles*
+*Scraped **21,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,463
-adaderanalk | 2,539
+adaderanalk | 2,540
 virakesarilk | 3,201
 dailymirrorlk | 3,317
-adaderanasinhalalk | 3,442
+adaderanasinhalalk | 3,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,288 (100.0%) of 21,288 articles have been extended.
+21,288 (100.0%) of 21,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### Decision on removing salary disparities of university non-academic staff
+
+*2024-04-27 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98887/decision-on-removing-salary-disparities-of-university-non-academic-staff-) · `en`
+
+The Ministry of Education says that the cabinet memorandum submitted regarding the removal of salary disparities and allowances of the non-academic staff of state universities will be submitted to the ministerial sub-committee.
+
+The ministry also noted that accordingly, two Cabinet Memoranda are to be submitted to the Ministerial Sub-Committee in this regard.
+
+Thus, the cabinet memorandum regarding the removal of salary disparity and allowances of university non-academic staff will be submitted to the ministerial sub-committee on May 08, as per the Education Ministry.
+
+◼️
+
+[Data](articles/c6407c40.json)
+
+---
+
+### ඇල්ල - වැල්ලවායේ කරඳගොල්ල ප්‍රදේශයේ නායයෑමේ අවදානමක්
+
+*2024-04-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196036) · `si`
+
+ඇල්ල - වැල්ලවාය මාර්ගයේ කරඳගොල්ල ප්‍රදේශයේ සක්‍රිය වී ඇති නායයෑම් තත්ත්වය සම්බන්ධයෙන් ඉදිරි සතියේදී ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය පුළුල් අධ්‍යනයක් සිදුකරන බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා පවසයි.
+
+දිස්ත්‍රික් ලේකම්වරයා සඳහන් කළේ, එම තත්ත්වය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමෙන් ඇතිවූවක් ද යන්න මෙතෙක් ජල හෝ භූ විද්‍යාත්මක පර්යේෂණයකින් තහවුරු වී නැති බවය.
+
+ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසක් පසුගිය බ්‍රහස්පතින්දා සිට නායයෑම් තත්ත්වයක් සක්‍රීය වී තිබුණේ ප්‍රදේශවාසීන් තුළ කැලඹීමක් ඇති කරමිනි.
+
+නායයාම් අවදානම මතුවී ඇති එම ප්‍රදේශයේ ජලය ගලායන ආකාරය සහ රොන්මඩ පවතින ආකාරය අද දෙරණ ඊයේ (26) වාර්තා කළේය.
+
+කෙසේවෙතත් භූ ගෝලීය පිහිටීම අනුව ඇල්ල - කරඳගොල්ල ප්‍රදේශය පිහිටා ඇත්තේ උමාඔය ව්‍යාපෘතිය යටතේ ක්‍රියාත්මක ඩයරඹා ජලාශයට කිලෝමීටර් 2.5ක් පමණ පහළින්ය.
+
+බදුල්ල දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂක උදය කුමාර මහතා පැවසුවේ, 2019 සිට එම ස්ථානයේ විටින් විට නායයාම් සක්‍රීය වෙමින් පවතින බවය.
+
+...
+
+[Data](articles/a63f7ec3.json)
+
+---
+
+### විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතා ගැන තීරණයක්
+
+*2024-04-27 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196035) · `si`
+
+රාජ්‍ය විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතාවය ඉවත් කිරීම හා දීමනා සම්බන්ධයෙන් ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශ අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+ඒ සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල සංදේශ දෙකක් අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+ඒ අනුව මැයි මස 08 වනදා විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතාවය ඉවත් කිරීම හා දීමනා සම්බන්ධයෙන් ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශ අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a91e0951.json)
+
+---
 
 ### US - Sri Lanka bilateral naval exercises conclude on successful note
 
@@ -2095,69 +2149,5 @@ Sri Lanka won the bronze medal at the age of 4x400 in the 20th Asian Athletics C
 [Data](articles/de821c16.json)
 
 [Extended Data](ext_articles/de821c16.ext.json)
-
----
-
-### Mahela before women's cricket
-
-*2024-04-26 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196011) · `si`
-
-Mahela Jayawardene advocates for expanding women's school cricket in Sri Lanka. The Mahela Sanga Challenge Trophy, hosted at Nalanda College, highlights the need for more female athletes at the national level. Sri Lanka women's cricket team recently won a match against Thailand by 67 runs, scoring 122 runs in 20 overs.
-
-🟩
-
-Sri Lanka Cricket Training Advisor Mahela Jayawardene says that the co-school cricket system and the women's school cricket system should facilitate the expansion of the women's school cricket system.
-
-The Mahela Sanga Challenge Trophy, which began in Nalanda College, Colombo at Nalanda College Stadium, is the main guest.
-
-"We need to expand the boy cricket and women at that time. Because we need the athletes in the future to come to the national level ... "
-
-Sri Lanka women were able to win the match with Thailand in 67 runs in 67 runs.
-
-Batting first, Sri Lanka women scored 122 runs for the loss of 5 wickets in the 20 overs.
-
-◼️
-
-[Data](articles/f07decae.json)
-
-[Extended Data](ext_articles/f07decae.ext.json)
-
----
-
-### Medical specialists concerned over changes in medical school admissions
-
-*2024-04-26 22:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medical-specialists-concerned-over-changes-in-medical-school-admissions/108-281455) · `en`
-
-Colombo, April 26 (Daily Mirror) - The Association of Medical Specialists (AMS) have raised concerns regarding proposed changes to the entry criteria for fee-levying medical undergraduate programs at the state-owned medical school of Kothalawala Defense University.
-
-Traditionally, admissions to medical faculties in Sri Lanka have been based primarily on the Advanced Level Examinations Z score, with the University Grants Commission (UGC) allowing a small allocation of additional marks for students excelling in extracurricular activities. This approach has been praised for providing equal opportunities regardless of economic or social background.
-
-...
-
-[Data](articles/4a1f0253.json)
-
-[Extended Data](ext_articles/4a1f0253.ext.json)
-
----
-
-### Landscale landslide
-
-*2024-04-26 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196010) · `si`
-
-A 2-acre landslide in Badulla District, affecting 30 acres, has reached 10 feet, potentially impacting Wellawaya Road. A 15-acre mountain area is severely affected, according to Udaya Kumara, Deputy Director of the Badulla District Disaster Management Unit.
-
-🟩
-
-It is said that the landslide on a two-acre site is active, it is said to have been affected by about 30 acres.
-
-The land has been hit by 10 feet and if the landslide is further enabled, the Falls can also be affected by the Wellawaya Road.
-
-The Deputy Director of the Badulla District Disaster Management Unit said that a 15 acres of mountain is severe in the Ella-Wellawaya Road, "Udaya Kumara said.
-
-◼️
-
-[Data](articles/2bc4c67f.json)
-
-[Extended Data](ext_articles/2bc4c67f.ext.json)
 
 ---

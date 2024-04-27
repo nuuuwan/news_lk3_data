@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 09:34:05**
+As of **2024-04-27 09:52:37**
 
 ## Newspaper Stats
 
-*Scraped **21,240** Articles*
+*Scraped **21,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,771
 tamilmirrorlk | 2,457
 adaderanalk | 2,527
 virakesarilk | 3,199
-dailymirrorlk | 3,313
+dailymirrorlk | 3,314
 adaderanasinhalalk | 3,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,239 (100.0%) of 21,240 articles have been extended.
+21,240 (100.0%) of 21,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### Top US official holds talks with President for further support for food security
+
+*2024-04-27 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-US-official-holds-talks-with-President-for-further-support-for-food-security/108-281489) · `en`
+
+Colombo, April 27 (Daily Mirror) - Alexis Taylor, Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), together with U.S. Ambassador Julie Chung, met with Sri Lankan President Ranil Wickremesinghe and other senior government officials to discuss USDA support for Sri Lanka’s agricultural sector, a statement from the US Embassy said.
+
+Under Secretary Taylor’s visit underscored the American people’s ongoing commitment to supporting the agricultural development and economic growth of Sri Lanka, promoting greater food security and enhancing resilience against climate challenges.
+
+The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priority country in the 2024 Food for Progress initiative, which focuses on enhancing food security and climate resilience through environmentally friendly practices and improved market linkages.
+
+...
+
+[Data](articles/99e693dc.json)
+
+---
 
 ### President receives multiple donations for Gaza Children’s Fund
 
@@ -915,6 +931,8 @@ It is a ‘family matter’ unlike anything else. It is in fact a household matt
 ...
 
 [Data](articles/c6c2e4f3.json)
+
+[Extended Data](ext_articles/c6c2e4f3.ext.json)
 
 ---
 
@@ -2175,31 +2193,5 @@ Further, the NWS&DB has requested the cooperation of the public to conserve wate
 [Data](articles/e6ab3ad8.json)
 
 [Extended Data](ext_articles/e6ab3ad8.ext.json)
-
----
-
-### Yall. Vaddukoddai youth assassination;Another suspect arrested
-
-*2024-04-26 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182022) · `ta`
-
-A suspect was arrested for the kidnapping and murder of a youth in Vaddukoddai, Jaffna. The victim was abducted by a mob near a naval camp and left his wife on the streets. Nine suspects were detained, including a main suspect arrested after hiding in Karainagar.
-
-🟩
-
-A suspect has been arrested for allegedly involved in the kidnapping and murder of a youth in the Vaddukoddai area in Jaffna.
-
-On March 11, a motorcycle was left on a motorbike on March 11 and was abducted by a violent mob in front of a naval camp near the Ponnalai Bridge and murdered her husband and murdered her husband and left his wife on the streets.
-
-They have been detained by the court after the police have been investigating the incident and arrested nine suspects so far.
-
-In this case, one of the main suspects involved in the incident was arrested by the police yesterday after being hiding in Karainagar.
-
-Police said they had taken steps to appear in court after investigations.
-
-◼️
-
-[Data](articles/e9507fce.json)
-
-[Extended Data](ext_articles/e9507fce.ext.json)
 
 ---

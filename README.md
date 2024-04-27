@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 11:18:35**
+As of **2024-04-27 11:34:04**
 
 ## Newspaper Stats
 
-*Scraped **21,250** Articles*
+*Scraped **21,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
 tamilmirrorlk | 2,458
-adaderanalk | 2,529
+adaderanalk | 2,530
 virakesarilk | 3,200
 dailymirrorlk | 3,314
-adaderanasinhalalk | 3,427
+adaderanasinhalalk | 3,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,248 (100.0%) of 21,250 articles have been extended.
+21,250 (100.0%) of 21,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### විදුලිසැර වැදී පුද්ගලයෙකුට දිවි අහිමි වෙයි
+
+*2024-04-27 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196020) · `si`
+
+සිමෙන්ති ආශ්‍රිත නිෂ්පාදන සිදුකරන ආයතනයක කම්බි කපමින් සිටි පුද්ගලයෙකු මෙලෙස විදුලිසැර වැදීමෙන් අනතුරට ලක්ව ඇති බව පොලීසිය පැවසුවේය.
+
+පසුව ඔහු තෙල්දෙණිය රෝහලට ඇතුළු කර ඇති අතර එහිදී මියගොස් ඇති බව සඳහන් වේ.
+
+මියගොස් ඇත්තේ 62 හැවිරිදි කටුකිතුල, උඩිස්පත්තුව ප්‍රදේශයේ පදිංචිව සිටි අයෙකි.
+
+◼️
+
+[Data](articles/a15e44be.json)
+
+---
+
+### 14-hour water cut for several areas in Colombo District today
+
+*2024-04-27 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98879/14-hour-water-cut-for-several-areas-in-colombo-district-today) · `en`
+
+The National Water Supply & Drainage Board (NWSDB) says a 14-hour water cut would be imposed for several areas in Colombo District on Saturday evening (27).
+
+Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 a.m. on Sunday (28) in Colombo 5 and 6, Dehiwala-Mount Lavinia urban council and Moratuwa urban council area, as well as in Jayanthipura and Pelawatta areas.
+
+◼️
+
+[Data](articles/0f046e24.json)
+
+---
 
 ### 14-hour water cut imposed in parts of Colombo District today
 
@@ -43,6 +73,24 @@ Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 
 ◼️
 
 [Data](articles/0f670467.json)
+
+[Extended Data](ext_articles/0f670467.ext.json)
+
+---
+
+### තායිවානයේ ප්‍රබල භූකම්පනයක්
+
+*2024-04-27 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196019) · `si`
+
+රික්ටර් මාපකයේ ඒකක 6.1 ක ප්‍රබලත්වයක් සටහන් කරමින් එම  භූකම්පනය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+කෙසේ වෙතත් ඉන් සිදු වු හානි මෙතෙක් වාර්තා වී නොමැති බව තායිවාන බලධාරීන් සඳහන් කර ඇත.
+
+මේ මස මුලදී ද තායිවානයේ ඇති වූ භූකම්පනයකින් පුද්ගලයන් 17 දෙනෙකු ජීවිතක්ෂයට පත් වු අතර  එහිදී පසු කම්පන 1,000කට අධික සංඛ්‍යාවක් වාර්තා වී ඇති බව ද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/82e06e62.json)
 
 ---
 
@@ -92,23 +140,31 @@ The driver was also killed when he was admitted to the Welikanda hospital.
 
 ---
 
-### இலங்கைக்கு நம்பிக்கையை ஏற்படுத்தவுள்ள Rotary International District 3220 மாநாடு
+### Rotary International District 3220 Conference to Hope Sri Lanka
 
 *2024-04-27 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182070) · `ta`
 
-Rotary International District 3220 மாநாடு 2023 - 2024 இன் ஆரம்ப விழா கொழும்பு பண்டாரநாயக்க சர்வதேச மாநாட்டு மண்டபத்தில் வெள்ளிக்கிழமை (26) இடம்பெற்றது.
+Rotary International District 3220 Conference 2023-2024 in Colombo featured over 400 participants, including dignitaries and speakers from Sri Lanka and abroad. Key figures included Governor Jerome Rajendram and President Ranil Wickremesinghe, who emphasized solving people's problems over eradicating executive power. The conference highlighted Rotary's global impact, including disease prevention and community development, and its role in peace and goodwill.
 
-இதில் இலங்கை மற்றும் வெளிநாடுகளில் இருந்து 400க்கும் மேற்பட்ட ரோட்டேரியன்கள் மற்றும் பலவிசேட பிரமுகர்கள் மற்றும் பேச்சாளர்கள் பங்கேற்றனர்.
+🟩
 
-இலங்கை ரோட்டரி கழகத்தின் ஆளுநர் ஜெரோம் ராஜேந்திரம் மற்றும் தலைவர் டி.ஜி.என்.டி. குமார் சுந்தரராஜ் தலைமையில் இந்த மாநாடு இடம்பெற்றது.
+Rotary International District 3220 Conference 2023 - 2024 was held on Friday (26) at the Bandaranaike International Conference Hall in Colombo.
 
-இம் மாநாட்டில் பிரதம அதிதியாக ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொண்டு உரையாற்றுகையில் “ மக்களின் பிரச்சினையை தீர்ப்பதே தற்போது முதன்மையானது எனவும் நிறைவேற்று அதிகார ஒழிப்பு அல்ல என்றும் குறிப்பிட்டதுடன் திருகோணமலை, கொழும்பு துறைமுகங்கள் இந்தியாவின் முதலீட்டுக்காக காத்திருக்கின்றன என்றும் தெரிவித்தார்.
+More than 400 Rotarians and multi -faceted dignitaries and speakers from Sri Lanka and abroad participated.
 
-அதேவேளை, கௌரவ விருந்தினராக ரோட்டரி கழகத்தின் சர்வதேச தலைவரைப் பிரதிநிதித்துவப்படுத்தி முன்னாள் பணிப்பாளர் பெர்ஹோயன் கலந்துகொண்டார்.
+Governor of Sri Lanka Rotary Corporation Jerome Rajendram and Chairman DGNT. The conference was chaired by Kumar Sundararaj.
+
+Speaking at the conference, President Ranil Wickremesinghe said, “Solving the problem of the people is now the first to solve the problem of the people and not the eradication of executive power, and that the ports of Trincomalee and Colombo are waiting for India's investment.
+
+Meanwhile, former Director Berohoin represented the International Chairman of the Rotary Club as an honorary guest.
+
+Minister of Information Technology and Digital Services Dr. Palanivel Thiagarajan made a special speech entitled "Using Technology to Strengthen Democracy".
 
 ...
 
 [Data](articles/e3490646.json)
+
+[Extended Data](ext_articles/e3490646.ext.json)
 
 ---
 
@@ -2105,71 +2161,5 @@ In a statement, the government said that although the import, refining, distribu
 [Data](articles/91489d53.json)
 
 [Extended Data](ext_articles/91489d53.ext.json)
-
----
-
-### Ven. Ulapane Sumangala Thero granted bail
-
-*2024-04-26 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Ulapane-Sumangala-Thero-granted-bail/108-281438) · `en`
-
-Colombo, April 26 (Daily Mirror) -  Five individuals, including Ven. Ulapane Sumangala Thero, who were held in remand custody for allegedly defying a court order, was today ordered to be released on bail by the Colombo Chief Magistrate’s Court.
-
-Each suspect was ordered to be released on two sureties of Rs.100,000 by Colombo Additional Magistrate Pasan Amarasena.
-
-It was alleged that the suspects had obstructed and defied a court order issued to remove slums located at Dabare Mawatha in Narahenpita.
-
-The Additional Magistrate ordered the suspects not to interfere with the witnesses and warned that bail could be cancelled if they violate the bail conditions. This case is to be called again on August 5.
-
-◼️
-
-[Data](articles/d8be56de.json)
-
-[Extended Data](ext_articles/d8be56de.ext.json)
-
----
-
-### Professor Sanna Jayasumana elected as the President of the Union of Sri Lanka Medical Members of Parliament
-
-*2024-04-26 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/182033) · `ta`
-
-Professor Sanna Jayasumana elected President of Sri Lanka Medical Members of Parliament, with Upul Kalanthi proposing his name. Dr. Rajitha Senaratne and Dr. Ramesh Pathirana also elected.
-
-🟩
-
-Parliamentarian Professor Sanna Jayasumana was elected as the President of the newly established Sri Lankan Medical Members of Parliament in Parliament.
-
-Member of Parliament (Hospital) Upul Kalanthi proposed his name and proposed it to the hospital.. He was elected when the first meeting to appoint members of the Union Executive Committee was held in Parliament on the 25th.
-
-In addition, Dr. Rajitha Senaratne, Minister of Health, Dr. Ramesh Pathirana, was elected as the nurses of the Union, and the Vice President of the Department of Health
-
-In addition, the co -organizers of the union were elected by the Vaidyakalani Tilak Rajapaksa and Dr. Upul Kalawathi.
-
-◼️
-
-[Data](articles/4c9412a6.json)
-
-[Extended Data](ext_articles/4c9412a6.ext.json)
-
----
-
-### 14 hours of water cut
-
-*2024-04-26 15:48:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-மணிநேர-நீர்-வெட்டு/175-336375) · `ta`
-
-"The National Water Supply and Drainage Board announced a 14-hour water cut in Colombo 5, 6, Dehiwala, Malkisai, Moratuwa, Jayanthipura, and Belawatte areas, starting from 5 AM on 27th and ending at 7 AM on 28th."
-
-🟩
-
-The National Water Supply and Drainage Board has announced that the 14 -hour water cut will be implemented tomorrow (27) for parts of Colombo.
-
-இதன்படி நாளை சனிக்கிழமை  மாலை 5 மணி முதல்  ஞாயிற்றுக்கிழமை (28) காலை 7 மணி வரை குறித்த நீர் வெட்டு அமுல்படுத்தப்படும் எனவும் தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
-
-The water cut will be implemented in Colombo 5 and Colombo 6, Dehiwala, Malkisai and Moratuwa Urban Council areas and Jayanthipura and Belawatte areas.. Remble
-
-◼️
-
-[Data](articles/b6239b1e.json)
-
-[Extended Data](ext_articles/b6239b1e.ext.json)
 
 ---

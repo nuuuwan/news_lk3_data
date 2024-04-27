@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 08:18:37**
+As of **2024-04-27 08:35:04**
 
 ## Newspaper Stats
 
-*Scraped **21,227** Articles*
+*Scraped **21,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 222
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,148
+islandlk | 1,150
 dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,225 (100.0%) of 21,227 articles have been extended.
+21,227 (100.0%) of 21,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### ජාවාරම්කරු මත්ද්‍රව්‍ය කිලෝ 30ක් සමග කොටුවෙයි
+### Racker Bore with 30 kg of drugs
 
 *2024-04-27 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196016) · `si`
 
-කිලෝග්‍රෑම් 30කට ආසන මත්ද්‍රව්‍ය‌ තොගයක් සමඟ පුද්ගලයෙකු කඩුවෙල, බෝමිරිය ප්‍රදේශයේදී බියගම පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 30-year-old man was arrested in Bomagama, Kaduwela, by the Biyagama Police for carrying 30 kg of drugs, including 15 kg of ice.
 
-සැකකරු සතුව අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 15 ක්, හෑෂ් කිලෝග්‍රෑම් 14 ක් සහ හෙරොයින් ග්‍රෑම් 941 ක් තිබු බව පොලීසිය පවසයි.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි පුද්ගලයෙකු බව සඳහන් වේ.
+A person has been arrested by the Biyagama Police in Bomagama, Kaduwela.
+
+The suspect had 15 kilograms of ice, police said.
+
+It is said that a 30-year-old man was arrested.
 
 ◼️
 
 [Data](articles/7db9e54b.json)
+
+[Extended Data](ext_articles/7db9e54b.ext.json)
 
 ---
 
@@ -113,6 +119,8 @@ A senior official of the CID’S Human Traf­ficking, Smuggling Investigation an
 ...
 
 [Data](articles/f6b94cc0.json)
+
+[Extended Data](ext_articles/f6b94cc0.ext.json)
 
 ---
 

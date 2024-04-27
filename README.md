@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 22:51:15**
+As of **2024-04-27 23:03:45**
 
 ## Newspaper Stats
 
-*Scraped **21,310** Articles*
+*Scraped **21,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,209
 adalk | 1,775
 tamilmirrorlk | 2,464
 adaderanalk | 2,543
-virakesarilk | 3,201
+virakesarilk | 3,202
 dailymirrorlk | 3,319
 adaderanasinhalalk | 3,449
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,309 (100.0%) of 21,310 articles have been extended.
+21,310 (100.0%) of 21,311 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Four buildings — three for storage and one work facility — were destroyed an
 ...
 
 [Data](articles/8438a0e8.json)
+
+[Extended Data](ext_articles/8438a0e8.ext.json)
 
 ---
 
@@ -109,6 +111,22 @@ This is a good opportunity for all the youths who wish to have a high level of c
 [Data](articles/5040ecc3.json)
 
 [Extended Data](ext_articles/5040ecc3.ext.json)
+
+---
+
+### வர்த்தக சமூகம் மீது முழு நம்பிக்கை கொண்டுள்ளோம் : நாட்டின் பொருளாதாரத்தின் எதிர்காலப் போக்கை மக்களே தீர்மானிக்க வேண்டும் - ஜனாதிபதி
+
+*2024-04-27 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182114) · `ta`
+
+சந்தைப் பொருளாதாரத்தை அடிப்படையாகக் கொண்டதும், அதிக போட்டித்தன்மை கொண்டதுமான, ஏற்றுமதிப்  பொருளாதாரத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கமாகும் என்றும், இந்த நாட்டின் வர்த்தக சமூகம் மீது தனக்கு முழு நம்பிக்கை இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+தற்போது நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் முறைமையே நாட்டுக்கு அவசியப்படுகின்றதென சுட்டிக்காட்டிய ஜனாதிபதி நிறைவேற்று ஜனாதிபதி முறையை பேணுவதா இல்லையா என்பது தற்போதைய பிரச்சினை அல்லவெனவும்,  நாட்டுப் பொருளாதாரத்தின் எதிர்கால போக்கை தீர்மானிப்பதற்கான வாய்ப்பை மக்கள் இழந்துவிடக்கூடாதெனவும் தெரிவித்தார்.
+
+கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் வெள்ளிக்கிழமை (26) நடைபெற்ற இலங்கை மற்றும் மாலைதீவுகளுக்கான மாவட்ட 3220 சர்வதேச ரோட்டரி கழகத்தின் 2023/24 வருடாந்த மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/68ea06ef.json)
 
 ---
 
@@ -2189,19 +2207,5 @@ At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs we
 [Data](articles/3e6c82dd.json)
 
 [Extended Data](ext_articles/3e6c82dd.ext.json)
-
----
-
-### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
-
-*2024-04-27 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
-
-“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
-
-...
-
-[Data](articles/a00455cc.json)
-
-[Extended Data](ext_articles/a00455cc.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 09:18:22**
+As of **2024-04-27 09:34:05**
 
 ## Newspaper Stats
 
-*Scraped **21,239** Articles*
+*Scraped **21,240** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
 bbccomsinhala | 222
-dbsjeyarajcom | 225
+dbsjeyarajcom | 226
 newsfirstlk | 363
 islandlk | 1,150
 dailyftlk | 1,202
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,234 (100.0%) of 21,239 articles have been extended.
+21,239 (100.0%) of 21,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ During the initial phase, President Wickremesinghe delivered USD 1 million recei
 
 [Data](articles/eae98683.json)
 
+[Extended Data](ext_articles/eae98683.ext.json)
+
 ---
 
 ### Sri Lanka explores opportunity to import big onions from Egypt
@@ -66,6 +68,8 @@ During the meeting, Minister Fernando explored the opportunity to import big oni
 
 [Data](articles/3f642c9e.json)
 
+[Extended Data](ext_articles/3f642c9e.ext.json)
+
 ---
 
 ### Sajith never attends dinners hosted by Ranil
@@ -83,6 +87,8 @@ He told Parliament that Sajith Premadasa did not attend the dinner with the Iran
 ◼️
 
 [Data](articles/d36b3e98.json)
+
+[Extended Data](ext_articles/d36b3e98.ext.json)
 
 ---
 
@@ -394,41 +400,53 @@ Parliamentarians Vajira Abeywardena and HMM at the event to hand over these dona
 
 ---
 
-### ’வலுசக்தித் துறையை ஒழுங்குபடுத்துவதற்கு சுயாதீன நிறுவனம்’
+### Independent Company
 
 *2024-04-27 06:08:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையை-ஒழுங்குபடுத்துவதற்கு-சுயாதீன-நிறுவனம்/175-336394) · `ta`
 
-வலுசக்தித் துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனமொன்றை நிறுவத் தேவையான நடவடிக்கைகள் மேற்கொள்ளப்படும் என மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக தெரிவித்தார்.
+The Minister of Power announced plans to create an independent company to oversee the power sector, aiming to ensure continuous power supply and high-quality fuel. This move is part of efforts to stabilize the sector and regulate the import, quality, distribution, and sale of various fuels.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்.
+🟩
 
-தொடர்ச்சியான வலுசக்தி விநியோகத்திற்குத் தேவையான ஸ்திரத்தன்மையை தற்போது ஏற்படுத்த முடிந்துள்ளது. எரிபொருள் வரிசைகளின் காலம் முடிந்துவிட்டது. எமது அமைச்சும் அதனுடன் இணைந்த நிறுவனங்களும் உயர்தர எரிபொருளை வழங்க நடவடிக்கை எடுத்துள்ளது.
+Minister of Power and Power and Energy TV Chanaka said that necessary steps would be taken to establish an independent company to regulate the power sector.
 
-மேலும், வலுசக்தித் துறையின் இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை ஆகியவற்றுடன் தொடர்புடைய ஒரு சுயாதீனமான ஒழுங்குமுறை நிறுவனமொன்றின் அவசியத்தை நாம் அடையாளம் கண்டுள்ளோம்.
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
 
-இந்த சுயாதீன நிறுவனத்தை நிறுவுவதன் நோக்கம், நாட்டில் இறக்குமதி செய்யப்படும் மண்ணெண்ணெய், பெட்ரோல், டீசல், விமான எரிபொருள், LPG, LNG எரிவாயு மற்றும் மசகு எண்ணெய் ஆகியவற்றின் தரம், விநியோகப் போட்டி மற்றும் விலைகளை ஒழுங்குபடுத்துவதாகும் என்றார். (a)
+Continuous power supply has now been able to establish stability. The duration of fuel rows is over. Our ministry and its affiliated companies have taken steps to provide high quality fuel.
+
+Furthermore, we have identified the need for an independent regulatory company associated with import, quality, distribution and sale of the Department of Power.
+
+The purpose of establishing this independent company is to regulate the quality, distribution competition and prices of kerosene, petrol, diesel, air fuel, LPG, LNG gas and lubricant imported in the country.. (A)
 
 ◼️
 
 [Data](articles/9bcd0bfc.json)
 
+[Extended Data](ext_articles/9bcd0bfc.ext.json)
+
 ---
 
-### அமெரிக்க அதிகாரி ஜனாதிபதியுடன் சந்திப்பு
+### Meeting with US official president
 
 *2024-04-27 06:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-336393) · `ta`
 
-அமெரிக்க விவசாயத் தினைக்களத்தின் வர்த்தக மற்றும் வெளிநாட்டு விவசாய விவகாரங்களுக்கான துணைச் செயலாளர் அலெக்சிஸ் டெய்லர் மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆகியோருக்கு இடையிலான சந்திப்பொன்று நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Alexis Taylor, US Agriculture Deputy Secretary, met with President Ranil Wickremesinghe to discuss expanding milk production and cooperate on agricultural modernization.
 
-அந்த திட்டத்தின் ஊடாக நாடளாவிய ரீதியில் பால் உற்பத்தியை விரிவுப்படுத்த எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+🟩
 
-அரசாங்கத்தின் விவசாய நவீனமயமாக்கல் செயற்பாடுகள் குறித்து விளக்கமளித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, இத்துறையில் இளைஞர்களை அதிகளவில் உள்ளீர்ப்பது தொடர்பில் கவனம் செலுத்தப்படுவதாகவும் குறிப்பிட்டுள்ளார்.
+A meeting between Alexis Taylor and President Ranil Wickremesinghe, Deputy Secretary of the American Agricultural and Foreign Agriculture Affairs, was held at the Presidential Office yesterday.
 
-இதன்போது அரசாங்கத்தின் விவசாய நவீனமயப்படுத்தல் செயற்பாடுகளுக்கு முழுமையான ஒத்துழைப்பு வழங்குவோம் என அமெரிக்க விவசாய துணைச் செயலாளர் உறுதியளித்துள்ளார் என  ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+The President also said that through that scheme, it is expected to expand milk production nationwide.
+
+President Ranil Wickremesinghe, who explained the government's agricultural process, "he said, adding that the focus of the youth in the sector is on the intersection.
+
+The US Agriculture Deputy Secretary has promised to cooperate with the government's agricultural modernization process, the Presidential Media Division said that the government has promised to cooperate.. (A)
 
 ◼️
 
 [Data](articles/b5b69d35.json)
+
+[Extended Data](ext_articles/b5b69d35.ext.json)
 
 ---
 
@@ -879,6 +897,24 @@ To mark World Water Day, Amana Bank partnered with the Environment Committee of 
 [Data](articles/ed1ee256.json)
 
 [Extended Data](ext_articles/ed1ee256.ext.json)
+
+---
+
+### Why is there so much braggadocio about drug pushers being arrested and drug caches being seized, but nothing concrete is done to stop the inflow of drugs?
+
+*2024-04-26 23:46:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83944) · `en`
+
+Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
+
+It’s all about family.  The prodigal son or daughter can return.  And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
+
+And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol.
+
+It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
+
+...
+
+[Data](articles/c6c2e4f3.json)
 
 ---
 
@@ -2165,29 +2201,5 @@ Police said they had taken steps to appear in court after investigations.
 [Data](articles/e9507fce.json)
 
 [Extended Data](ext_articles/e9507fce.ext.json)
-
----
-
-### Indian heart gives new lease of life to Pakistani girl
-
-*2024-04-26 14:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-heart-gives-new-lease-of-life-to-Pakistani-girl/108-281432) · `en`
-
-Chennai (India Times) - The heart of a 69-year-old man who passed away earlier this year will continue to live, across the border, in Pakistan on a teenager.
-
-19-year-old Ayesha Rashan from Karachi, Pakistan who had been battling heart disease for ten years is all set to live a normal life, with an Indian heart.
-
-Ayesha underwent a successful heart transplant in Chennai’s MGM Healthcare and was discharged from the hospital last week.
-
-Ayesha's family first brought her to India in 2019 when she suffered a cardiac arrest and went into heart failure.
-
-They consulted Senior cardiac surgeon Dr. K R Balakrishnan at the Malar Hospital in Chennai's Adyar, who recommended a heart transplant for the teenager.
-
-The family was hesitant as they were not able to afford the various Rs 35 lakhs that would cost for the transplant surgery.
-
-...
-
-[Data](articles/dcfc413e.json)
-
-[Extended Data](ext_articles/dcfc413e.ext.json)
 
 ---

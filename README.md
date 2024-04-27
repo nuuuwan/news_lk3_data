@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 20:03:41**
+As of **2024-04-27 20:18:29**
 
 ## Newspaper Stats
 
-*Scraped **21,291** Articles*
+*Scraped **21,295** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 181
+colombotelegraphcom | 182
 bbccomsinhala | 223
 dbsjeyarajcom | 227
 newsfirstlk | 363
@@ -16,21 +16,61 @@ islandlk | 1,152
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
-tamilmirrorlk | 2,463
+tamilmirrorlk | 2,464
 adaderanalk | 2,540
 virakesarilk | 3,201
-dailymirrorlk | 3,317
-adaderanasinhalalk | 3,444
+dailymirrorlk | 3,318
+adaderanasinhalalk | 3,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,291 (100.0%) of 21,291 articles have been extended.
+21,291 (100.0%) of 21,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### “அவனை கொன்று விட்டேன். அவனால் இனி வர முடியாது” நடந்தது என்ன?
+
+*2024-04-27 20:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவனை-கொன்று-விட்டேன்-அவனால்-இனி-வர-முடியாது-நடந்தது-என்ன/175-336403) · `ta`
+
+குளியாபிட்டிய பிரதேசத்தில் காதலியின் வீட்டுக்குச் சென்ற 36 வயதான சுசித ஜயவன்ச என்ற இளைஞன் காணாமல் போயுள்ளார்.
+
+இந்த இளைஞன் குறித்த பகுதியில் ஹோட்டல் ஒன்றை நடத்தி வரும் நிலையில், இவர் கடந்த ஆறு நாட்களாக காணாமல் போயுள்ளார்.
+
+இவர் கடந்த 22ஆம் திகதி குளியாப்பிட்டி வஸ்ஸாவுல்ல பிரதேசத்தில் உள்ள தனது காதலியின் வீட்டிற்கு தனது கடையின் ஊழியர் ஒருவருடன் சென்றுள்ளார்.
+
+அவர் குறித்த வீட்டிற்குச் சென்ற நேரம் முதல் அவரைப் பற்றிய எந்தத் தகவலும் கிடைக்கவில்லை.
+
+இந்த நிலையில், குறித்த இளைஞன் சென்றதாக கூறப்படும் வீட்டின் உரிமையாளரான சிங்கிதி என்ற நபரால், சுசிதவின் நண்பருக்கு தொலைபேசி அழைப்பு வந்துள்ளது.
+
+“செவ்வாய்க்கிழமை இரவு 7:58 மணிக்கு சிங்கிதி என்ற நபர் எனக்கு போன் செய்தார். அப்பாவாக என் மகளுக்கு நியாயம் செய்தேன். இப்போது அதை பேசி பலனில்லை. அவனை நான் கொன்று விட்டேன். அவனால் இனி வர முடியாது" என்றார்.
+
+சம்பவம் தொடர்பில் குளியாபிட்டிய பொலிஸார் விசாரணைகளை மேற்கொண்டு வருவதுடன், சந்தேகத்திற்கிடமான வகையில் மோட்டார் வாகனமொன்றும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/a0fe2e61.json)
+
+---
+
+### ඉන්දීය සුපිරි නළු නිළියන් පිරිසකට සයිබර් අපරාධ අංශයෙන් කැඳවීමක්
+
+*2024-04-27 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196037) · `si`
+
+ඉන්දීය සුපිරි නළු සන්ජේ දත්, තමන්නා බාටියා ඇතුළු කලාකරුවන් පිරිසක් මහරාෂ්ට්‍ර සයිබර් අපරාධ අංශය වෙත කැඳවා තිබේ.‍
+
+2023 IPL තරඟාවලිය අනවසර යෙදවුමක් ඔස්සේ ප්‍රවර්ධනය කිරීමේ චෝදනා සම්බන්ධයෙන් එසේ ඔවුන් අපරාධ අංශය වෙත කැඳවා ඇත.
+
+එලෙස කැඳවූ පිරිස අතර සුපිරි නිළි ජැකලීන් ද අයත් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/61a025b8.json)
+
+---
 
 ### Decision on removing salary disparities of university non-academic staff
 
@@ -47,6 +87,26 @@ Thus, the cabinet memorandum regarding the removal of salary disparity and allow
 [Data](articles/c6407c40.json)
 
 [Extended Data](ext_articles/c6407c40.ext.json)
+
+---
+
+### Indian govt allows onion export to Sri Lanka & 5 more countries
+
+*2024-04-27 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-govt-allows-onion-export-to-Sri-Lanka-5-more-countries/108-281493) · `en`
+
+India, April 27 (ET) - The central government has allowed the export of 99,150 MT onion to six countries, Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka.
+
+According to a press release, the decision comes against the backdrop of lower estimated Kharif and Rabi crops in 2023-24 compared to the previous year, coupled with increased demand in the international market.
+
+To facilitate the export, the National Cooperative Exports Limited (NCEL) has been designated as the agency responsible for exporting onions to these countries.
+
+Additionally, the government has permitted the export of 2000 MT of white onion, specifically cultivated for export markets in the Middle East and some European countries.
+
+The production cost of white onions is higher due to factors such as higher seed costs, adoption of good agricultural practices, and compliance with strict maximum residue limits requirements.
+
+...
+
+[Data](articles/2d21e848.json)
 
 ---
 
@@ -645,6 +705,18 @@ Kuliyapitiya Police are conducting further investigations and a suspicious vehic
 [Data](articles/a22f2828.json)
 
 [Extended Data](ext_articles/a22f2828.ext.json)
+
+---
+
+### Debate Between Presidential Candidates First: A Point Of View
+
+*2024-04-27 13:49:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-between-presidential-candidates-first-a-point-of-view/) · `en`
+
+In terms of Article 31(3) of the Constitution, the Presidential election has to be held between 19 September and 19 October 2024, being a date not less than one month and not more than two months before the expiry of the current President’s term of office, which is 19 November 2024. Will it be held?  Will it be circumvented, as were the Local Government Elections?  Everyone is kept guessing.
+
+...
+
+[Data](articles/5347b29f.json)
 
 ---
 
@@ -2081,89 +2153,5 @@ Climate change impacts all sectors, administrative levels, and segments of socie
 [Data](articles/264d1ca1.json)
 
 [Extended Data](ext_articles/264d1ca1.ext.json)
-
----
-
-### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
-
-*2024-04-26 23:25:35* · [`dailyftlk`](https://www.ft.lk/columns/Unveiling-the-dark-reality-Sri-Lanka-s-deepening-drug-crisis/4-761081) · `en`
-
-There’s something rotting in our system, our society, and it’s being allowed to get worse
-
-There are of course principled and professionally sharp individuals in the police and other arms of the justice system who work tirelessly to combat the drug menace but their efforts are relentlessly compromised at some point by the intervention of some bigwig or another. Therein lies the problem and the solution
-
-Robert Frost once wrote, “Home is the place where, when you have to go there, they have to take you in.” It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
-
-It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
-
-...
-
-[Data](articles/49739f89.json)
-
-[Extended Data](ext_articles/49739f89.ext.json)
-
----
-
-### For five long  years , Sri Lankan  governments have thumbed their noses at the Catholic church leading the call for accountability and justice for the Easter Sunday bombings.
-
-*2024-04-26 23:07:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83942) · `en`
-
-Election fever is hotting up in Sri Lanka, and this time around the most coveted by Opposition parties are those affected by the 2019 Easter Sunday bombings.
-
-It’s been a long five years of waiting for the masterminds to be publicly named and brought to justice. Yet, incumbent governments choose to ignore the plight of the injured, and surving family members and their cries for accountability.
-
-The governments of Gotabaya Rajapaksa and Ranil Wickremesinghe have studiously ignored the evidence placed before them. Instead, they’ve appointed those named and even fined by the courts for dereliction of duty to positions of command and power.
-
-For five years the governments have thumbed their noses at the Catholic church leading the call for accountability and justice for the Easter Sunday bombings.
-
-...
-
-[Data](articles/2bcb7609.json)
-
-[Extended Data](ext_articles/2bcb7609.ext.json)
-
----
-
-### Rhmalia's World Record in Indonesia
-
-*2024-04-26 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182055) · `ta`
-
-Rohmalia, a 17-year-old from Indonesia, set a world record in the 5th Women's International T20 cricket match against Mongolia in Bali, taking 7 wickets in 3.2 overs. This achievement makes her the 3rd woman to achieve this feat, following Alison Stokes and Frederic Orterica in 2022.
-
-🟩
-
-மகளிர் சர்வதேச ரி20 கிரிக்கெட் பந்துவீச்சில் இந்தோனேசிய கிரிக்கெட் வீராங்கனை ரொஹ்மாலியா அதிசிறந்த பந்துவீச்சுப் பெறுதியைப் பதிவுசெய்து உலக சாதனை படைத்துள்ளார்.
-
-17 -year -old Rohmalia took a world record for men and women's international T20 cricket matches for men and women.
-
-Rhmali, who debuted in the 5th Women's International T20 cricket match against Mongolia in Bali, set a world record for the bowling of 3.2 overs.
-
-Rohmalia is the 3rd hero who took 7 wickets in women's international T20 cricket matches. Earlier, Argentina's Alison Stokes and Netherlands's Frederic Orterica in 2022 were equal to the world record for 3 wickets for 3 runs.
-
-Chinese player Siaz Itrus holds the record for 7 wickets for 8 runs for 8 runs. He became the owner of this achievement in last year's match against Malaysia in Kuala Lumpur. This is the only international T20 cricket world record for the man.
-
-◼️
-
-[Data](articles/ec1c6cee.json)
-
-[Extended Data](ext_articles/ec1c6cee.ext.json)
-
----
-
-### Another medal for Sri Lanka at the Asian Athletics Champion
-
-*2024-04-26 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196012) · `si`
-
-Sri Lanka secured a bronze medal in the 4x400m relay at the 20th Asian Athletics Championships.
-
-🟩
-
-Sri Lanka won the bronze medal at the age of 4x400 in the 20th Asian Athletics Championships.
-
-◼️
-
-[Data](articles/de821c16.json)
-
-[Extended Data](ext_articles/de821c16.ext.json)
 
 ---

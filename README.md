@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 18:08:59**
+As of **2024-04-27 18:20:56**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,284 (100.0%) of 21,286 articles have been extended.
+21,286 (100.0%) of 21,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### ඊජිප්තුවෙන් ලූනු ගේන්න සාකච්ඡා
+### Discussions to bring on onions from Egypt
 
 *2024-04-27 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196033) · `si`
 
-වෙළෙඳ වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා හා ඊජිප්තු තානාපති  Maged Mosleh මහතා අතර සාකච්ඡාවක් පවත්වා තිබේ.
+Nalin Fernando and Egyptian Ambassador Mausleh discussed importing onions from Egypt.
 
-මෙහිදී අමාත්‍යවරයා ඊජිප්තුවෙන් මෙරටට ලූනු ගෙන්වීමට ඇති හැකියාව සම්බන්ධයෙන්ද තානාපතිවරයාගෙන් විමසා තිබේ.
+🟩
+
+Commerce and Food Security Minister Nalin Fernando and Egyptian Ambassador Mausleh have held a discussion.
+
+The Ambassador also also asked the ambassador to the possibility of importing onions from Egypt.
 
 ◼️
 
 [Data](articles/46b13218.json)
+
+[Extended Data](ext_articles/46b13218.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Both parties expressed their commitment to strengthening bilateral ties and expl
 ...
 
 [Data](articles/b8d49bf5.json)
+
+[Extended Data](ext_articles/b8d49bf5.ext.json)
 
 ---
 

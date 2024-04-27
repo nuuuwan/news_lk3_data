@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 18:33:59**
+As of **2024-04-27 18:52:03**
 
 ## Newspaper Stats
 
-*Scraped **21,286** Articles*
+*Scraped **21,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,463
-adaderanalk | 2,538
+adaderanalk | 2,539
 virakesarilk | 3,201
 dailymirrorlk | 3,317
-adaderanasinhalalk | 3,441
+adaderanasinhalalk | 3,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,286 (100.0%) of 21,286 articles have been extended.
+21,286 (100.0%) of 21,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### US - Sri Lanka bilateral naval exercises conclude on successful note
+
+*2024-04-27 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98886/us-sri-lanka-bilateral-naval-exercises-conclude-on-successful-note) · `en`
+
+The Mini Cooperation Afloat Readiness and Training (CARAT) bilateral exercise 2024 between the United States Pacific Fleet and the Sri Lanka Navy came to a successful end on Friday (26).
+
+Commenced on Monday (22), Mini CARAT – 2024 took place in the Marine Headquarters, Special Boat Squadron Headquarters, Naval Dockyard and Upparu in Trincomalee as well as certain segments at the Lighthouse Galley in Colombo.
+
+The closing ceremony of the bilateral exercise was held at the Marines Headquarters in Sampoor, under the auspices of Commander Sean Jin, Office of Defence Cooperation at the U.S. embassy in Colombo and Captain Upul Samarakoon, Acting Director Sri Lanka Navy Marines. Mementoes were also exchanged, signifying the importance of this occasion.
+
+...
+
+[Data](articles/fd125336.json)
+
+---
+
+### ඉදිරි පැය 36 තුළ තද වැසි
+
+*2024-04-27 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196034) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඉදිරි පැය 36 සඳහා කාලගුණ නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව ඒ බව පවසයි.
+
+එම දෙපාරත්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වලත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් පස්වරුවේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+උතුරු-මැද පළාතේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c46e0289.json)
+
+---
 
 ### Discussions to bring on onions from Egypt
 
@@ -2111,55 +2151,5 @@ The Deputy Director of the Badulla District Disaster Management Unit said that a
 [Data](articles/2bc4c67f.json)
 
 [Extended Data](ext_articles/2bc4c67f.ext.json)
-
----
-
-### Government Members of Parliament
-
-*2024-04-26 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196009) · `si`
-
-Government MPs, including PM Dinesh Gunawardena and former President Mahinda Rajapaksa, met with President Ranil Wickremesinghe to discuss the upcoming presidential election, emphasizing unity. A committee was formed to address censorship issues.
-
-🟩
-
-Government MPs emphasize that the President will support the President without a party split in the next presidential election.
-
-They were speaking to the media after joining a special meeting with the President.
-
-Prime Minister Dinesh Gunawardena and former President Mahinda Rajapaksa were also present.
-
-President Ranil Wickremesinghe and other meeting between government MPs were held at the Presidential Secretariat yesterday (25) at the Presidential Secretariat.
-
-After two hours of the meeting, MPs expressed their views to the media.
-
-Meanwhile, a five-person committee has been appointed to take arbitrary organizers and party activists to recover the arbitrary organizers and party activists who were censored.
-
-The SLFP acting chairman Minister Nimal Siripala de Silva was held at the Colombo Foundation Committee yesterday.
-
-...
-
-[Data](articles/b08f15bc.json)
-
-[Extended Data](ext_articles/b08f15bc.ext.json)
-
----
-
-### Venice introduces entry fee for day-trippers to tackle mass tourism
-
-*2024-04-26 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98873/venice-introduces-entry-fee-for-day-trippers-to-tackle-mass-tourism) · `en`
-
-After many years of preparation, Venice has finally debuted its controversial five-euro entry toll for tourists without a hotel reservation this Thursday (25).
-
-This unprecedented measure – being the first city in the world to impose such a fee – has a clear objective: to confront mass tourism that has threatened the fragile balance of the city of canals for too many years, relentlessly driving out its residents.
-
-The figures are quite graphic because, even though there are only about 50,000 residents living in the islands of Venice – not counting those living on the mainland – on days of high pressure, there can be up to 40,000 visitors in Venice at once.
-
-Just last year, 20 million tourists came to walk through its alleyways. After having banned large cruise ships from the historic center in 2021, the City Council of La Serenissima has now decided to opt for an original measure after UNESCO threatened to include the municipality in the blacklist of endangered World Heritage Sites.
-
-...
-
-[Data](articles/971dc53c.json)
-
-[Extended Data](ext_articles/971dc53c.ext.json)
 
 ---

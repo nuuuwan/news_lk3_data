@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 10:51:21**
+As of **2024-04-27 11:03:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,427
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,245 (100.0%) of 21,248 articles have been extended.
+21,248 (100.0%) of 21,248 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,37 +52,51 @@ More than 100 people were killed in a quake in southern Taiwan in 2016, while a 
 
 [Data](articles/726d3be7.json)
 
+[Extended Data](ext_articles/726d3be7.ext.json)
+
 ---
 
-### තරුණයෙක් අවාසනාවන්ත ලෙස දිවියට සමුදෙයි
+### A young man is unfortunately
 
 *2024-04-27 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196018) · `si`
 
-වැලිකන්ද,  සිංහපුර මාර්ගයේ 07 වන කිලෝ මීටර් කණුව අසල සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් තිබේ.
+A young man died in an accident near Welikanda, while riding a motorbike. The driver was also killed and admitted to the hospital.
 
-පොලීසිය පැවසුවේ අදාළ තරුණයා යතුරුපැදයකින් ගමන් කරමින් සිටියදී මාර්ගයේ සිටි ගවයෙකුගේ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+🟩
 
-අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු සහ පසුපැදිකරු වැලිකන්ද රෝහලට ඇතුළත් කිරීමේදී පැදිකරු මියගොස් ඇත.
+A youth has died in an accident near the Single Kilometer Post 07th of Welikanda, Welikanda.
+
+Police said that the accident had occurred when the youth was on his way to a motorbike.
+
+The driver was also killed when he was admitted to the Welikanda hospital.
 
 ◼️
 
 [Data](articles/aed4a924.json)
 
+[Extended Data](ext_articles/aed4a924.ext.json)
+
 ---
 
-### மைத்திரி வழங்கிய இரகசிய வாக்குமூலம் வெளியான
+### Secret confession issued by Maithri
 
 *2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியான/175-336398) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன குற்றப் புலனாய்வுத் திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலத்தை பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் வெளியிட்டுள்ளார்.
+Tran Ales, Public Security Minister, confessed to Maithripala Sirisena that no local citizens were involved in the April 21 terrorist attack, and some facts are still under investigation.
 
-இதில், இந்நாட்டு பிரஜையோ அல்லது இந்த நாட்டில் இருக்கும் வேறு நாட்டு பிரஜையோ ஏப்ரல் - 21 பயங்கரவாதத் தாக்குதலில் ஈடுபடவில்லை என தெரிவித்ததாக அவர் குறிப்பிட்டார்.
+🟩
 
-அத்துடன் விசாரணைகள் நடைபெற்று வருவதால் சில உண்மைகளை வெளியிட முடியாது எனவும், அவர் குறிப்பிட்டுள்ளார். R
+Public Security Minister Tran Ales has issued a confidential confession to the former President Maithripala Sirisena.
+
+He said that neither the citizen of the country nor the citizen of the country in this country was not involved in the April 21 terrorist attack.
+
+He also stated that some facts cannot be released as investigations are underway. Remble
 
 ◼️
 
 [Data](articles/e8189de5.json)
+
+[Extended Data](ext_articles/e8189de5.ext.json)
 
 ---
 

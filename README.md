@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 13:52:53**
+As of **2024-04-27 14:03:31**
 
 ## Newspaper Stats
 
-*Scraped **21,260** Articles*
+*Scraped **21,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
 tamilmirrorlk | 2,460
-adaderanalk | 2,532
+adaderanalk | 2,533
 virakesarilk | 3,200
-dailymirrorlk | 3,314
+dailymirrorlk | 3,315
 adaderanasinhalalk | 3,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,260 (100.0%) of 21,260 articles have been extended.
+21,260 (100.0%) of 21,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### US announces $6 billion long-term military aid package for Ukraine
+
+*2024-04-27 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98882/us-announces-6-billion-long-term-military-aid-package-for-ukraine) · `en`
+
+US Defense Secretary Lloyd Austin announced on Friday a $6 billion long-term military aid package for Ukraine — the largest to date — which will allow the US to purchase new equipment produced by the American defense industry for the Ukrainian military.
+
+“This is the largest security assistance package that we’ve committed to date. It will include critical interceptors for Ukraine’s patriot and NASAMS air defense systems, more counter drone systems and support equipment, significant amounts of artillery ammunition, and air to ground munitions and maintenance and sustainment support,” Austin said during a press conference on Friday.
+
+The announcement comes just days after the US announced a $1 billion package that would quickly provide equipment to Ukraine from US stocks, following President Joe Biden’s signing of a much delayed $95 billion supplemental aid package on Wednesday.
+
+...
+
+[Data](articles/f52aaf17.json)
+
+---
+
+### Heavy showers expected in several provinces
+
+*2024-04-27 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-expected-in-several-provinces/108-281491) · `en`
+
+The Meteorological Department has issued a weather advisory forecasting heavy showers above 75 mm in certain regions of the Western and Sabaragamuwa Provinces, as well as in the Galle and Matara districts.
+
+According to the latest forecast, showers or thundershowers are anticipated in several areas across the Western, Sabaragamuwa, Central, Southern, North-Western, and Uva Provinces, along with the Ampara and Batticaloa districts after 2.00 p.m.
+
+Residents of the North-Central Province should also be prepared for showers or thundershowers during the evening or night, while coastal areas from Galle to Pottuvil via Hambantota may experience showers or thundershowers in the morning.
+
+Furthermore, misty conditions are likely in certain areas of the Sabaragamuwa, Central and Uva Provinces during the morning hours.
+
+◼️
+
+[Data](articles/62090fdb.json)
+
+---
 
 ### Another info of the drug raid carried out by the Biyagama Police
 
@@ -2111,51 +2145,5 @@ The suspects had been arrested while in the possession of 434 grams of ‘Ice’
 [Data](articles/4cfdd203.json)
 
 [Extended Data](ext_articles/4cfdd203.ext.json)
-
----
-
-### Human remains recovery in Kilinochchi
-
-*2024-04-26 17:36:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியிலும்-மனித-எச்சங்கள்-மீட்பு/175-336376) · `ta`
-
-Human remains found in Kilinochchi during mine removal. Police investigated, and District Magistrate Ismat Gem visited the site, overseeing the removal of mines and residues. He ordered the remains to be examined by a Legal Officer. The incident will be reviewed on Monday.
-
-🟩
-
-A dress with human remains was identified during the removal of a mines today (26) in the Muhamalai area of the Kilinochchi - Pali police division.
-
-The police then went to the scene and investigated. Subsequently, the police were brought to the notice of the District Magistrate.
-
-Kilinochchi District Court Magistrate Ismat Gem visited the scene this morning and visited the human remains and human remains.
-
-He continued to carry out the task of removing the mines and the residues and traces available to the police officer in charge of the police station.
-
-He also mentioned that the human remains available should be sent by the Legal Officer to be examined.
-
-The magistrate said that the incident will be visited by the incident on Monday.. Remble
-
-◼️
-
-[Data](articles/3df26bef.json)
-
-[Extended Data](ext_articles/3df26bef.ext.json)
-
----
-
-### Transport Ministry DG to oversee duties of Railways GM
-
-*2024-04-26 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98869/transport-ministry-dg-to-oversee-duties-of-railways-gm) · `en`
-
-The Director General of the Ministry of Transport and Highways S.S. Mudalige has been appointed to oversee the functions and duties of the General Manager position of Sri Lanka Railways.
-
-The position was left vacant with the sudden passing away of the Railways General Manager H.M.K.W. Bandara.
-
-Accordingly, the relevant appointment will be in place until the Cabinet of Ministers appoints a qualified official to the vacant position.
-
-◼️
-
-[Data](articles/05cc88c2.json)
-
-[Extended Data](ext_articles/05cc88c2.ext.json)
 
 ---

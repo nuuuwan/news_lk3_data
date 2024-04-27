@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 15:34:15**
+As of **2024-04-27 15:52:33**
 
 ## Newspaper Stats
 
-*Scraped **21,268** Articles*
+*Scraped **21,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 islandlk | 1,151
 dailyftlk | 1,202
 economynextcom | 1,205
-adalk | 1,772
+adalk | 1,773
 tamilmirrorlk | 2,461
-adaderanalk | 2,533
+adaderanalk | 2,534
 virakesarilk | 3,201
 dailymirrorlk | 3,316
-adaderanasinhalalk | 3,433
+adaderanasinhalalk | 3,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,266 (100.0%) of 21,268 articles have been extended.
+21,268 (100.0%) of 21,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### මෑතකදී විවාහ වන පිරිස් අතර දික්කසාදවීම් ඉහළ යයි
+
+*2024-04-27 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196027) · `si`
+
+මෑතකදී විවාහ වන්නන් අතර දික්කසාද ඉහළ යාමක් දක්නට ලැබෙන බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව පවසයි.
+
+2020 වසරේ සිට මෙම තත්ත්වය වැඩි වශයෙන් පෙන්නුම්කරන බව එම දෙපාර්තමේන්තුව පැවසීය.
+
+දිසා අධිකරණ මගින් ලබා දුන් දික්කසාද නඩු තීන්දු සලකා බැලීමේ දී මෑත කාලීනව විවාහ වන පිරිස් වසර දෙක තුනක් වැනි කෙටි කාලයක් තුළ දික්කසාද වීමේ ප්‍රවණතාවක් නිරීක්ෂණය වී ඇති බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුවේ සිවිල් ලියාපදිංචි කිරීම් අංශයේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය රෙජිස්ට්‍රාර් ජනරාල් නීතීඥ ලක්ෂිකා ගනේපොල මහත්මිය පැවසුවාය.
+
+විශේෂයෙන් ද්වේෂ සහගත අත්හැරයාම් දික්කසාද වීම්වලට ප්‍රධාන වශයෙන් හේතුවී ඇති බව ඇය පෙන්වා දුන්නාය.
+
+◼️
+
+[Data](articles/a12e8ca8.json)
+
+---
+
+### Sri Lanka co-chairs ASEAN Regional Forum meeting on disaster relief
+
+*2024-04-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98883/sri-lanka-co-chairs-asean-regional-forum-meeting-on-disaster-relief) · `en`
+
+The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually earlier this week, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
+
+Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management.
+
+Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
+
+The Sri Lanka delegation was led by Director General, South East Asia Division of the Ministry of Foreign Affairs Sashikala Premawardhane, with the participation of senior officials from the National Disaster Relief Service Centre of the Ministry of Defence.
+
+...
+
+[Data](articles/d797bca5.json)
+
+---
+
+### අමෙරිකා එක්සත් ජනපදයේ කෘෂිකර්ම උප ලේකම්වරිය සහ ජනපති අතර හමුවක්
+
+*2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
+
+මෙරට කෘෂිකර්ම ක්ෂේත්‍රය සඳහා තරුණ පරපුර ආකර්ෂණය කරගැනීම රජයේ කෘෂි නවීකරණ වැඩසටහනේ ප්‍රමුඛ අරමුණක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+අමෙරිකා එක්සත් ජනපද විදේශ කෘෂිකාර්මික කටයුතු පිළිබඳ උප ලේකම්වරිය ඊයේ (26) හමුවූ අවස්ථාවේදී ජනාධිපතිවරයා ඒ බව සඳහන් කර සිටියේය.‍
+
+අමෙරිකා එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුවේ වෙළෙඳ සහ විදේශ කෘෂිකාර්මික කටයුතු පිළිබඳ උප ලේකම් ඇලෙක්සිස් ටේලර්  මහත්මිය සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක් ඊයේ පස්වරුවේ දී සිදු වුණි.
+
+මෙහිදී අමෙරිකා එක්සත් ජනපදයේ සහාය ඇතිව මෙරට කිරි නිෂ්පාදනය නවීකරණය කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීම පිළිබඳ සාකච්ඡා කෙරුණි.
+
+එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර සිටියේ එම වැඩසටහන මඟින් දිවයින පුරා දැනට ක්‍රියාත්මක කිරි නිෂ්පාදනය ප්‍රචලිත කිරීමේ ව්‍යාපෘති තවදුරටත් දිරිමත් කරනු ඇති බවය.
+
+මීට අමතරව රජයේ කෘෂි නවීකරණ වැඩසටහන පිළිබඳවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇලෙක්සිස් ටේලර් මහත්මියව දැනුවත් කර තිබේ.
+
+...
+
+[Data](articles/6b4ba40a.json)
+
+---
+
+### බණ්ඩාරවත්තේදි සිදුකළ මත්ද්‍රව්‍ය වැටලීම
+
+*2024-04-27 15:02:38* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවත්තේදි-සිදුකළ-මත්ද්‍රව්‍ය-වැටලීම/11-409287) · `si`
+
+බියගම පොලිස්ස්ථානපේ නිලධාරින්ට ලද තොරතුරක් අනුව බණ්ඩාරවත්ත ප්‍ර දේශයේ වැටලිමක් සිදුකර කාර් රථයක් පරික්ෂා කිරිමේදි අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 15 මිලි ග්‍රෑම් 81ක්, හෑෂ් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 14 මිලිග්‍රෑම් 521ක් හා හොරොයින් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 941ක් ප්‍රවාහනය කරමින් සිටි පුද්ගලියෙක් අත්අඩංගුවට ගැනිමට පොලිසිය ඊයේ රාත්‍රි සමත්ව තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු අවුරුදු 31 ක් වන බෝමරිය, කඩුවෙල පදිංචිකරුවෙකි. එම ප්‍ර දේශයේ සිදුකරන ලද තවත් වැටලිමකදි අයිස් මත්ද්‍රව්‍ය ගෑම් 02.310ක්, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 5.310ක් සන්තකයේ තබාගෙන සිටි සැකකරුවන් දෙදෙනෙක් හා අයිස් මත්ද්‍රව්‍ය මිලි ග්‍රෑම් 120 ක් සන්තකයේ තබාගෙන සිටි සැකකාරියක් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගෙන ඇති සැකකරුවන් අවුරුදු 31 හා 40 වයස්හි පසුවන කඩුවෙල හා සිමඹලාපේ පදිංචිකරුවන් වන අතර සැකකාරිය අවුරුදු 39ක් වන අරලගංවිල පදිංචිකාරිනියකි.
+
+◼️
+
+[Data](articles/f1a1927a.json)
+
+---
 
 ### Child fell into the stream
 
@@ -64,17 +138,23 @@ The child has not been found with the help of the residents of the area.
 
 ---
 
-### வரலாற்றில் இன்று
+### Today in history
 
 *2024-04-27 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182093) · `ta`
 
-மறைந்த முன்னாள் இந்திய பிரதமர் இந்திரா காந்தி முதல் முறையாக இலங்கைக்கு விஜயம் செய்தது 1973ஆம் ஆண்டு ஏப்ரல் 27ஆம் திகதியான இதே நாளிலாகும்.
+Indira Gandhi, former Indian PM, visited Sri Lanka for the first time on April 27, 1973.
 
-இந்திரா காந்தியின் முதலாவது இலங்கை வருகை தொடர்பான செய்திகளை தாங்கியவாறு 1973 ஏப்ரல் 27, 28ஆம் திகதிகளில் வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கங்களை இங்கே காணலாம்.
+🟩
+
+Former Indian Prime Minister Indira Gandhi visited Sri Lanka for the first time on April 27, 1973.
+
+Here are the first pages of the Weerakesari magazine published on April 27 and 28, 1973, with reports of Indira Gandhi's first visit to Sri Lanka.
 
 ◼️
 
 [Data](articles/c95856e4.json)
+
+[Extended Data](ext_articles/c95856e4.ext.json)
 
 ---
 
@@ -757,6 +837,8 @@ A senior official of the CID’S Human Traf­ficking, Smuggling Investigation an
 ...
 
 [Data](articles/dc49ba0c.json)
+
+[Extended Data](ext_articles/dc49ba0c.ext.json)
 
 ---
 
@@ -2083,79 +2165,5 @@ The lawmaker made this remark while speaking during today’s parliamentary sess
 [Data](articles/48b9639c.json)
 
 [Extended Data](ext_articles/48b9639c.ext.json)
-
----
-
-### Tiran Alles reveals former President Sirisena’s silence on Easter Attacks’ culprits
-
-*2024-04-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98871/sirisena-keeping-mum-on-easter-attack-masterminds-tiran-says) · `en`
-
-During the inquiry over former President Maithripala Sirisena’s recent statement that he was aware of the real culprits behind the Easter Sunday bomb attacks, he has not mentioned the names of anyone in Sri Lanka, Public Security Minister Tiran Alles said.
-
-The lawmaker made this remark while speaking during today’s parliamentary session, according to Ada Derana reporter.
-
-◼️
-
-[Data](articles/c498b19a.json)
-
-[Extended Data](ext_articles/c498b19a.ext.json)
-
----
-
-### Several new appointments are the approval of the Committee on High Posts
-
-*2024-04-26 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196005) · `si`
-
-The Committee on High Posts approved new appointments: SA Rodrigo as Sri Lankan Ambassador to Italy, ACM as Secretary of Water Supply, and NKS as Chairman of Regional Development Bank and Sri Lanka Atomic Energy Regulatory Council.
-
-🟩
-
-The Committee has approved by the Committee on High Posts in Parliament recently to appoint two new Ambassador, Secretary to the Ministry and Institute Chairman.
-
-Accordingly, the Committee on High Posts has approved to appoint SA Rodrigo as the new Sri Lankan Ambassador to the Italian Republic.
-
-In addition, the new Secretary of the Ministry of Water Supply and Estate Infrastructure Development ACM. The appointment of Nafeeel has been appointed to appoint the Committee on High Posts.
-
-NKS appoint WADS Gunasinghe as the new Chairman of Regional Development Bank and the new Chairman of the Sri Lanka Atomic Energy Regulatory Council. The appointment of Jayasekara has been appointed to appoint Jayasekera and the Committee approved.
-
-Ministers Ramesh Wickramanayaka and Parliamentarian Rishad Bathiudeen were also present.
-
-◼️
-
-[Data](articles/4da913d5.json)
-
-[Extended Data](ext_articles/4da913d5.ext.json)
-
----
-
-### Maithri CID about the Passover attack reveals
-
-*2024-04-26 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196004) · `si`
-
-"Maithri CID reveals Passover attack details. Defense Minister Tiran Alles discloses former President Maithripala Sirisena's secret statement to CID."
-
-🟩
-
-The Minister of Defense Minister Tiran Alles revealed the secret statement that former President Maithripala Sirisena has given the secret statement to the CID.
-
-◼️
-
-[Data](articles/03550bea.json)
-
-[Extended Data](ext_articles/03550bea.ext.json)
-
----
-
-### To combat Dengue menace...
-
-*2024-04-26 18:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/To-combat-Dengue-menace/110-281423) · `en`
-
-As a precautionary measure to control the mosquitoes, the Colombo Municipal Council (CMC) has taken steps to start fogging and other preventive steps targeting the vulnerable areas in the Colombo municipality.
-
-◼️
-
-[Data](articles/60fa9e25.json)
-
-[Extended Data](ext_articles/60fa9e25.ext.json)
 
 ---

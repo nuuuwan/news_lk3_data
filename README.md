@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 09:03:47**
+As of **2024-04-27 09:18:22**
 
 ## Newspaper Stats
 
-*Scraped **21,234** Articles*
+*Scraped **21,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,150
 dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
-tamilmirrorlk | 2,455
-adaderanalk | 2,525
+tamilmirrorlk | 2,457
+adaderanalk | 2,527
 virakesarilk | 3,199
-dailymirrorlk | 3,312
+dailymirrorlk | 3,313
 adaderanasinhalalk | 3,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,232 (100.0%) of 21,234 articles have been extended.
+21,234 (100.0%) of 21,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### President receives multiple donations for Gaza Children’s Fund
+
+*2024-04-27 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98877/president-receives-multiple-donations-for-gaza-childrens-fund) · `en`
+
+President Ranil Wickremesinghe received official handovers of generous financial contributions for the ‘Children of Gaza’ Fund on Friday morning (26).
+
+This is an initiative the President established to alleviate the suffering of those affected by conflicts in Gaza, the President’s Media Division (PMD) said.
+
+Among the contributors, Huda Jumma Mosque in Kalmunai donated Rs. 1.58 million, the All Ceylon Jamiatul Ulama – Kinnia branch donated Rs. 5.3 million, the Regional Education Office in Kalmunai contributed Rs. 3.12 million, and the Sports First Foundation donated Rs. 300,000 to support the cause.
+
+During the initial phase, President Wickremesinghe delivered USD 1 million received from allocations earmarked by ministries and government bodies for this year’s Iftar celebrations, to the Palestinian government through an official United Nations delegation.
+
+...
+
+[Data](articles/eae98683.json)
+
+---
+
+### Sri Lanka explores opportunity to import big onions from Egypt
+
+*2024-04-27 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98876/sri-lanka-explores-opportunity-to-import-big-onions-from-egypt) · `en`
+
+Trade Minister Nalin Fernando met with the Egyptian Ambassador Maged Mosleh on Friday (26) at the trade ministry premises.
+
+During the meeting, the Ambassador noted that the Sri Lanka-Egypt Joint Commission on Trade and Economic Cooperation (JCTEC) would be an excellent platform to enhance bilateral economic ties between the two countries. In response, the minister said that Sri Lanka is considering convening the next session of the JCTEC in June this year.
+
+The ambassador pointed out that Africa is a potential and fast-growing and highly potential market and Sri Lankan exporters can exploit this potential by investing in Egypt. In addition, Sri Lanka has an additional advantage through relatively relaxed rules of origin under a free trade agreement, he added.
+
+During the meeting, Minister Fernando explored the opportunity to import big onion from Egypt, and the ambassador expressed willingness to assist with such imports.
+
+...
+
+[Data](articles/3f642c9e.json)
+
+---
+
+### Sajith never attends dinners hosted by Ranil
+
+*2024-04-27 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-never-attends-dinners-hosted-by-Ranil/108-281487) · `en`
+
+Colombo, April 27 (Daily Mirror)-Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara told Parliament yesterday that Opposition
+
+Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
+
+He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe, as he never attends dinners hosted by President Wickremesinghe.
+
+“I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy tomeet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe,” he said.
+
+◼️
+
+[Data](articles/d36b3e98.json)
+
+---
 
 ### Search for gems will lose their lives
 
@@ -63,6 +117,8 @@ Police said the suspect was carrying 15 kilograms of ICE, 14 kilograms of hash a
 ◼️
 
 [Data](articles/a3641152.json)
+
+[Extended Data](ext_articles/a3641152.ext.json)
 
 ---
 
@@ -107,6 +163,8 @@ Against this backdrop, the Meteorology Department issued a Heat Index Advisory f
 ...
 
 [Data](articles/f23ed014.json)
+
+[Extended Data](ext_articles/f23ed014.ext.json)
 
 ---
 
@@ -333,6 +391,44 @@ Parliamentarians Vajira Abeywardena and HMM at the event to hand over these dona
 [Data](articles/fe0f7064.json)
 
 [Extended Data](ext_articles/fe0f7064.ext.json)
+
+---
+
+### ’வலுசக்தித் துறையை ஒழுங்குபடுத்துவதற்கு சுயாதீன நிறுவனம்’
+
+*2024-04-27 06:08:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையை-ஒழுங்குபடுத்துவதற்கு-சுயாதீன-நிறுவனம்/175-336394) · `ta`
+
+வலுசக்தித் துறையை ஒழுங்குபடுத்த சுயாதீன நிறுவனமொன்றை நிறுவத் தேவையான நடவடிக்கைகள் மேற்கொள்ளப்படும் என மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வீ சானக தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்.
+
+தொடர்ச்சியான வலுசக்தி விநியோகத்திற்குத் தேவையான ஸ்திரத்தன்மையை தற்போது ஏற்படுத்த முடிந்துள்ளது. எரிபொருள் வரிசைகளின் காலம் முடிந்துவிட்டது. எமது அமைச்சும் அதனுடன் இணைந்த நிறுவனங்களும் உயர்தர எரிபொருளை வழங்க நடவடிக்கை எடுத்துள்ளது.
+
+மேலும், வலுசக்தித் துறையின் இறக்குமதி, தரம், விநியோகம் மற்றும் விற்பனை ஆகியவற்றுடன் தொடர்புடைய ஒரு சுயாதீனமான ஒழுங்குமுறை நிறுவனமொன்றின் அவசியத்தை நாம் அடையாளம் கண்டுள்ளோம்.
+
+இந்த சுயாதீன நிறுவனத்தை நிறுவுவதன் நோக்கம், நாட்டில் இறக்குமதி செய்யப்படும் மண்ணெண்ணெய், பெட்ரோல், டீசல், விமான எரிபொருள், LPG, LNG எரிவாயு மற்றும் மசகு எண்ணெய் ஆகியவற்றின் தரம், விநியோகப் போட்டி மற்றும் விலைகளை ஒழுங்குபடுத்துவதாகும் என்றார். (a)
+
+◼️
+
+[Data](articles/9bcd0bfc.json)
+
+---
+
+### அமெரிக்க அதிகாரி ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-04-27 06:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-336393) · `ta`
+
+அமெரிக்க விவசாயத் தினைக்களத்தின் வர்த்தக மற்றும் வெளிநாட்டு விவசாய விவகாரங்களுக்கான துணைச் செயலாளர் அலெக்சிஸ் டெய்லர் மற்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஆகியோருக்கு இடையிலான சந்திப்பொன்று நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+அந்த திட்டத்தின் ஊடாக நாடளாவிய ரீதியில் பால் உற்பத்தியை விரிவுப்படுத்த எதிர்பார்ப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+அரசாங்கத்தின் விவசாய நவீனமயமாக்கல் செயற்பாடுகள் குறித்து விளக்கமளித்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, இத்துறையில் இளைஞர்களை அதிகளவில் உள்ளீர்ப்பது தொடர்பில் கவனம் செலுத்தப்படுவதாகவும் குறிப்பிட்டுள்ளார்.
+
+இதன்போது அரசாங்கத்தின் விவசாய நவீனமயப்படுத்தல் செயற்பாடுகளுக்கு முழுமையான ஒத்துழைப்பு வழங்குவோம் என அமெரிக்க விவசாய துணைச் செயலாளர் உறுதியளித்துள்ளார் என  ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/b5b69d35.json)
 
 ---
 
@@ -2093,115 +2189,5 @@ The family was hesitant as they were not able to afford the various Rs 35 lakhs 
 [Data](articles/dcfc413e.json)
 
 [Extended Data](ext_articles/dcfc413e.ext.json)
-
----
-
-### 1371 complaints on first 4 months of warm
-
-*2024-04-26 14:19:49* · [`adalk`](https://www.ada.lk/breaking_news/රට-යනකොට-පරිස්සමෙන්--මුල්-මාස-4ට-පැමිණිලි-1371ක්/11-409283) · `si`
-
-The Ministry of Foreign Employment received 1371 complaints in the first 4 months, with 495 investigated and 680 prosecuted. Eight officers were arrested and eight raids were conducted. Minister Manusha Nanayakkara emphasized punishing those involved in foreign employment without a valid job order.
-
-🟩
-
-The Ministry of Foreign Employment says 1371 foreign employment complaints have been received during the past 4 months.
-
-Recruitment to Foreign Employment Controlments for Foreign Employment without a valid job order has been received by the complaint bureau of the tourist visas for foreign employment.
-
-Investigations have been given to 495 complaints of complaints from the Bureau.The Bureau has also taken steps to prosecute the judiciary against cheats for more than 680 more.
-
-The Special Investigation Division has raided eight officers who have been arrested and produced before the court in this period.
-
-Labor and Foreign Employment Minister Manusha Nanayakkara has instructed the officials of the Foreign Employment Bureau to punish people and institutions that will be given foreign employment.
-
-◼️
-
-[Data](articles/962f3644.json)
-
-[Extended Data](ext_articles/962f3644.ext.json)
-
----
-
-### Sri Lanka panel to draw up  petroleum regulator law
-
-*2024-04-26 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-panel-to-draw-up-petroleum-regulator-law-160157/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved appointing a panel to draft a law to set up petroleum regulator, Minister Bandula Gunawardana said.
-
-The regulator will cover liquified petroleum gas, petrol, diesel, kerosene, aviation fuel and lubricants.
-
-The committee headed by the Secretary to the Energy Ministry will draw up the legal framework, Gunawardana told reporters on Friday.
-
-“Cabinet of Ministers approved the proposal to establish a Regulator for the Energy Sector. PUCSL will remain as the Electricity sector Regulator and a new Regulator will be introduced for Petroleum, LPG, LNG, Lubricants, Oils & Energy Sectors,” Energy Minister Kanchana Wijesekera said on X.
-
-...
-
-[Data](articles/488de373.json)
-
-[Extended Data](ext_articles/488de373.ext.json)
-
----
-
-### Protests as Venice begins charging entry fee for day-trippers
-
-*2024-04-26 14:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protests-as-Venice-begins-charging-entry-fee-for-day-trippers/108-281431) · `en`
-
-Venice, Italy (CNN) — April 25 has long been a historic day in Venice – the date is not just Italy’s Liberation day, but it’s also the feast day of the city’s patron saint, St. Mark.
-
-But now Venice will notch up another dose of history for April 25 – as the day the city becomes the first in the world to charge day-trippers an entry fee.
-
-There were protests as the day got underway with locals waving banners and holding up their passports in anger at the city being put behind a barrier in the style of a theme park or museum. Photos show police clashing with some protesters.
-
-The long-awaited contributo di accesso (it’s styled as an ‘access contribution’ rather than a ticket) started at 8.a.m. on Thursday. The city council is running a pilot project until mid July to see if it can make the system work.
-
-Anybody visiting Venice as a tourist for the day – except those who live in the local Veneto region – must pay the 5 euro ($5.40) charge if they arrive between 8 a.m. and 4 p.m..
-
-...
-
-[Data](articles/6a0428b4.json)
-
-[Extended Data](ext_articles/6a0428b4.ext.json)
-
----
-
-### Father arrested for abusing daughter and daughter
-
-*2024-04-26 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195994) · `si`
-
-A 50-year-old man in Wellawaya was arrested for sexually abusing a 11-year-old girl and her 12-year-old daughter. Villagers reported the incident, leading to the police's investigation. The suspect will face charges in the Wellawaya Magistrate's Court.
-
-🟩
-
-The Wellawaya Police have arrested the 12 year old daughter and daughter who had sexually abused a 11-year-old friend.
-
-The person has been arrested following an investigation made by the police on an notification carried out by the villagers.
-
-The suspect is a 50 year old resident of Wellawaya.
-
-The suspect is to be produced before the Wellawaya Magistrate's Court and Wellawaya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f113a9ba.json)
-
-[Extended Data](ext_articles/f113a9ba.ext.json)
-
----
-
-### Choose between stability and ‘downward spiral’ – China tells US
-
-*2024-04-26 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98865/choose-between-stability-and-downward-spiral-china-tells-us) · `en`
-
-China and the US face a choice between stability and a “downward spiral,” Chinese Foreign Minister Wang Yi told counterpart Antony Blinken on Friday in Beijing, as the American diplomat kicked off a day of meetings with top Chinese officials.
-
-Blinken’s trip to China – his second in the space of a year – comes as the two global powers seek to expand communication and stabilize rocky ties, while also navigating a host of thorny issues from China’s support for Russia to its aggression in the South China Sea and toward Taiwan.
-
-“Should China and the United States keep to the right direction of moving forward with stability or return to a downward spiral? This is a major question before our two countries, and tests our sincerity and ability,” Wang told Blinken during a meeting at the Diaoyutai State Guesthouse, after saying US-China ties were “beginning to stabilize.”
-
-...
-
-[Data](articles/3cdabf4b.json)
-
-[Extended Data](ext_articles/3cdabf4b.ext.json)
 
 ---

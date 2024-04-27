@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 14:34:13**
+As of **2024-04-27 14:50:27**
 
 ## Newspaper Stats
 
-*Scraped **21,262** Articles*
+*Scraped **21,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,151
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
-tamilmirrorlk | 2,460
+tamilmirrorlk | 2,461
 adaderanalk | 2,533
 virakesarilk | 3,200
 dailymirrorlk | 3,315
-adaderanasinhalalk | 3,431
+adaderanasinhalalk | 3,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,262 (100.0%) of 21,262 articles have been extended.
+21,262 (100.0%) of 21,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### மோசடி, ஊழல் இடம்பெறும் இடமாக மாறிய புகையிரத திணைக்களம்?
+
+*2024-04-27 14:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசடி-ஊழல்-இடம்பெறும்-இடமாக-மாறிய-புகையிரத-திணைக்களம்/175-336400) · `ta`
+
+புகையிரத திணைக்களம் பல மோசடிகள் மற்றும் ஊழல்கள் இடம்பெறும் இடமாக மாறியுள்ளதாக ரயில் நிலைய அதிபர்கள் சங்கத்தின் தலைவர் சுமேத சோமரத்ன தெரிவித்துள்ளார்.
+
+மேலும், ஒன்லைன் ரயில் இருக்கை முன்பதிவு நெருக்கடியை தீர்க்க அதிகாரிகள் இன்னும் நடவடிக்கை எடுக்கவில்லை என்றும் கூறியுள்ளார்.
+
+உதவி போக்குவரத்து அத்தியட்சகர் ஒருவரின் அதிகாரத்தின் கீழ் இந்த விடயம் தொடர்பில் கலந்துரையாட மறுப்பதாகவும் சுமேத சோமரத்ன தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/f7c52292.json)
+
+---
 
 ### US announces $6 billion long-term military aid package for Ukraine
 
@@ -47,6 +63,30 @@ The announcement comes just days after the US announced a $1 billion package tha
 [Data](articles/f52aaf17.json)
 
 [Extended Data](ext_articles/f52aaf17.ext.json)
+
+---
+
+### පෙම්වතියගේ නිවසට ගිය සුසිත අතුරුදන්
+
+*2024-04-27 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196023) · `si`
+
+පෙම්වතියගේ නිවසට ගිය තරුණයෙක් අතුරුදන්වීමේ පුවතක් කුලියාපිටිය ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+කුලියාපිටිය කබලෑව ප්‍රදේශයේ පදිංචි 36 හැවිරිදි සුසිත ජයවංශ පිළිබඳව තොරතුරක් නොමැතිව අදට දින 6කි.
+
+ඔහු පසුගිය 22 වනදා සිය වෙළෙඳසැලෙහි සේවකයෙක් සමඟ කුලියාපිටිය වස්සාවුල්ල ප්‍රදේශයේ සිය පෙම්වතියගේ නිවසට ගොස් තිබුණි.
+
+අදාළ නිවසට ගිය අවස්ථාවේ සිට ඔහු පිළිබඳ කිසිඳු තොරතුරක් මේ දක්වා ලැබී නොමැත.
+
+අතුරුදන්වීමට පෙර සුසිත ගිය බව පැවසෙන නිවසේ හිමිකරු වන සිඟිති නමැති පුද්ගලයාගෙන් සුසිතගේ මිතුරෙකුට දුරකථන ඇමතුමක්ද ලැබී තිබුණි.
+
+"අඟහරුවාදා රෑ 7:58ට සිඟිති කියන කෙනා මට කෝල් එකක් ගත්තා. මං තාත්තා කෙනෙක් වශයෙන් මගේ දුවට සාධාරණයක් කෙරුවා කිව්වා. දැන් වැඩක් නැහැ ඒක කතා කරලා. ඌව මම මරලා ඉවරයි කිව්වා. ආයේ ඌට එන්න හම්බවෙන්නේ නැහැ කිව්වා."
+
+මෙම සිද්ධිය පිළිබඳව කුලියාපිටිය පොලීසිය විමර්ශන මෙහෙයවන අතර ඊට අදාළ සැක සහිත මෝටර් රථයක්ද මේ වන විට පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/a22f2828.json)
 
 ---
 
@@ -97,6 +137,28 @@ Police said that they were residents of Kaduwela and Siyambalape areas in Kaduwe
 [Data](articles/ded406c3.json)
 
 [Extended Data](ext_articles/ded406c3.ext.json)
+
+---
+
+### Sri Lanka tax collections up 54-pct in 2023, exceeds revised target, deficit lower
+
+*2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
+
+Sri Lanka tax collections higher than revised 2023 target, deficit lower
+
+ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
+
+Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
+
+In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
+
+But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
+
+...
+
+[Data](articles/a5269fcd.json)
+
+[Extended Data](ext_articles/a5269fcd.ext.json)
 
 ---
 
@@ -367,28 +429,6 @@ He also stated that some facts cannot be released as investigations are underway
 [Data](articles/e8189de5.json)
 
 [Extended Data](ext_articles/e8189de5.ext.json)
-
----
-
-### Sri Lanka tax collections up 54-pct in 2023, exceeds revised target, deficit lower
-
-*2024-04-27 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
-
-Sri Lanka tax collections higher than revised 2023 target, deficit lower
-
-ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
-
-Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
-
-In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
-
-But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
-
-...
-
-[Data](articles/a5269fcd.json)
-
-[Extended Data](ext_articles/a5269fcd.ext.json)
 
 ---
 
@@ -2107,47 +2147,5 @@ In the announcement issued by the Department, the rest of the shadows of the sha
 [Data](articles/84dbae98.json)
 
 [Extended Data](ext_articles/84dbae98.ext.json)
-
----
-
-### Shell asked to bring premium fuels to start Sri Lanka retail distribution
-
-*2024-04-26 18:03:00* · [`economynextcom`](https://economynext.com/shell-asked-to-bring-premium-fuels-to-start-sri-lanka-retail-distribution-160221/) · `en`
-
-ECONOMYNEXT – Leading global group of energy and petrochemical company Shell has been asked to import premium fuel products in addition to widely used petrol and diesel before starting the fuel distribution, State Power and Energy Minister D V Chanaka said.
-
-The Shell and RM Parks (Private) Limited have already signed retail brand license and product supply agreements. However, the start of fuel distribution through 150 local fuel stations has yet to be started.
-
-“They have already brought diesel and petrol consignments to Sri Lanka,” Chanaka told reporters at a media briefing in Colombo.
-
-“They (Shell) requested to allow them to start work after they brought those two products. We told them that we have no ability to grant such permission.”
-
-“We can give that opportunity only when they bring all 4 main products diesel, petrol, Octane 95 and super diesel.”
-
-...
-
-[Data](articles/2a394463.json)
-
-[Extended Data](ext_articles/2a394463.ext.json)
-
----
-
-### Four including two naval officers arrested with drugs remanded
-
-*2024-04-26 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98870/four-including-two-naval-officers-arrested-with-drugs-remanded) · `en`
-
-The Colombo Magistrate’s Court ordered 04 including two Lieutenant Commanders of Sri Lanka Navy who were arrested along with a stock of drugs to be remanded in custody until May 09.
-
-The relevant suspects were detained and interrogated after being arrested by the Mulleriyawa Police and were produced before Colombo Additional Magistrate Tharanga Mahawatte today (26).
-
-The police, presenting facts before the court, requested that the suspects be remanded as further investigations are underway in relation to this incident.
-
-The suspects had been arrested while in the possession of 434 grams of ‘Ice’ (crystal methamphetamine).
-
-◼️
-
-[Data](articles/4cfdd203.json)
-
-[Extended Data](ext_articles/4cfdd203.ext.json)
 
 ---

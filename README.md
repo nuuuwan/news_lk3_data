@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 16:04:20**
+As of **2024-04-27 16:18:27**
 
 ## Newspaper Stats
 
-*Scraped **21,274** Articles*
+*Scraped **21,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 181
 bbccomsinhala | 223
 dbsjeyarajcom | 227
 newsfirstlk | 363
-islandlk | 1,151
+islandlk | 1,152
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
@@ -26,27 +26,35 @@ adaderanasinhalalk | 3,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,272 (100.0%) of 21,274 articles have been extended.
+21,274 (100.0%) of 21,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### මෙරටට ගෙන්වූ ඖෂධවල වගකීම නොදරන බවට ලිපියක්
+### A letter not responsible for drugs imported
 
 *2024-04-27 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196028) · `si`
 
-ඖෂධ නියාමන අධිකාරියේ හිටපු විධායක අධ්‍යක්ෂවරයා සහ එම අධ්‍යක්ෂ මණ්ඩලය පසුගිය කාලසීමාව තුළ ගෙන්වූ ඖෂධ සම්බන්ධයෙන් වගකීමක් නොදරන බවට ලිපියක් නිකුත් කර ඇති බව වෛද්‍ය සහ සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+Dr. Chamal Sanjeewa, Chairman of Doctors of Medical and Civil Rights, criticizes the former Executive Director of the Drug Authority for not addressing drug imports. The Doctors' Trade Union Alliance has handed over a case to the Criminal Investigation Department, accusing the former CEO of the National Drug Regulatory Authority of involvement in imported drugs.
 
-ඔහු පවසන්නේ ප්‍රමිතියෙන් තොර ඖෂධ රටට ගෙනඒම සඳහා අනුබල දුන් ඖෂධ නියාමන අධිකාරියේ හිටපු විධායක අධ්‍යක්ෂවරයාට එරෙහිව නීතිය ක්‍රියාත්මක කළ යුතු බවය.
+🟩
 
-වෛද්‍ය සහ සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය ඊයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ සංදේශයක් භාරදුනි.
+Dr. Chamal Sanjeewa, Chairman of Doctors of Medical and Civil Rights, says that the former Executive Director of the Drug Authority and the Board of Directors have been issued in the last days.
 
-ඒ ප්‍රමිතියෙන් තොර ඖෂධ මෙරටට ගෙන්වීමට අදාළව චෝදනා එල්ලවී ඇති ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරි වෛද්‍ය විජිත් ගුණසේකර මහතා ඇතුළු අධ්‍යක්ෂ මණ්ඩලයට එරෙහිව පරීක්ෂණයක් සිදුකරන්නැයි ඉල්ලමිනි.
+He says that law should be implemented against the former Executive Director of the Drug Regulatory Authority who supported the country.
 
-...
+Doctors' Trade Union Alliance on Medical and Civil Rights and handed over to the Criminal Investigation Department yesterday.
+
+The former Chief Executive Officer of the National Drug Regulatory Authority, the National Drug Regulatory Authority, who has been accused of importance to imported drugs, has been conducting an investigation against the Board of Directors.
+
+Meanwhile, a complaint with the Criminal Investigation Department has lodged a complaint with the Criminal Investigation Department, as well as the surveillance of an eye-affected drug, as well as the witnesses and blinding persons.
+
+◼️
 
 [Data](articles/c7dbf0df.json)
+
+[Extended Data](ext_articles/c7dbf0df.ext.json)
 
 ---
 
@@ -109,6 +117,8 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 ...
 
 [Data](articles/e7339b8e.json)
+
+[Extended Data](ext_articles/e7339b8e.ext.json)
 
 ---
 
@@ -336,7 +346,7 @@ Police said that they were residents of Kaduwela and Siyambalape areas in Kaduwe
 
 ---
 
-### Sri Lanka tax collections up 54-pct in 2023, exceeds revised target, deficit lower
+### Sri Lanka budget deficit down in 2023, tax revenue up 54-pct
 
 *2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
 

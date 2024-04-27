@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 14:03:31**
+As of **2024-04-27 14:18:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,260 (100.0%) of 21,262 articles have been extended.
+21,262 (100.0%) of 21,262 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The announcement comes just days after the US announced a $1 billion package tha
 
 [Data](articles/f52aaf17.json)
 
+[Extended Data](ext_articles/f52aaf17.ext.json)
+
 ---
 
 ### Heavy showers expected in several provinces
@@ -63,6 +65,8 @@ Furthermore, misty conditions are likely in certain areas of the Sabaragamuwa, C
 ◼️
 
 [Data](articles/62090fdb.json)
+
+[Extended Data](ext_articles/62090fdb.ext.json)
 
 ---
 

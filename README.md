@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 10:03:49**
+As of **2024-04-27 10:18:40**
 
 ## Newspaper Stats
 
-*Scraped **21,241** Articles*
+*Scraped **21,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 181
 bbccomsinhala | 222
 dbsjeyarajcom | 226
 newsfirstlk | 363
-islandlk | 1,150
+islandlk | 1,151
 dailyftlk | 1,202
-economynextcom | 1,203
+economynextcom | 1,205
 adalk | 1,771
 tamilmirrorlk | 2,457
 adaderanalk | 2,527
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,241 (100.0%) of 21,241 articles have been extended.
+21,242 (100.0%) of 21,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### Sri Lanka tax collections up 54-pct in 2023, exceeds revised target, deficit lower
+
+*2024-04-27 09:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
+
+Sri Lanka tax collections higher than revised 2023 target, deficit lower
+
+ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
+
+Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
+
+In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
+
+But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
+
+...
+
+[Data](articles/a5269fcd.json)
+
+---
+
+### Sri Lanka changes fuel price formula ahead of polls; allow flexibility on profit margin
+
+*2024-04-27 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-changes-fuel-price-formula-ahead-of-polls-allow-flexibility-on-profit-margin-160235/) · `en`
+
+ECONOMYNEXT – Sri Lanka has changed its fuel price formula used to determine the prices of fuel once a month with allowing flexibility in the profit margin, State Power and Energy Minister D V Chanaka said.
+
+The move comes ahead of a presidential poll later this year in which President Ranil Wickremesinghe is expected to contest under an independent coalition.
+
+Unprecedented fuel price hike in 2022 amid long queues due to shortage compelled nationalist Sri Lanka Podujana Peramuna-led government to switch to fuel price formula which it cancelled in 2019 citing that government should have the control over fuel prices.
+
+“We have changed the formula. Instead of 4% fixed profit margin, we have now allowed flexibility and fuel retailers can chose their profit margin from 0-4 percent,” Chanaka told reporters at a media briefing on Friday (26) in Colombo.
+
+...
+
+[Data](articles/bf5efb6d.json)
+
+---
 
 ### Top US official holds talks with President for further support for food security
 
@@ -536,6 +574,20 @@ Part of a three-year distribution channel expansion strategy by Sri Lanka’s mo
 
 ---
 
+### Sri Lanka Resorts of Cinnamon Hotels & Resorts mark Earth Day with impactful eco-initiatives
+
+*2024-04-27 05:24:00* · [`islandlk`](http://island.lk/sri-lanka-resorts-of-cinnamon-hotels-resorts-mark-earth-day-with-impactful-eco-initiatives/) · `en`
+
+In celebration of Earth Day, Sri Lanka Resorts of Cinnamon Hotels & Resorts conducted a series of impactful initiatives conducted across its eight properties in Sri Lanka, under this year’s global theme of ‘Plastic Vs Planet’.
+
+...
+
+[Data](articles/95ea756f.json)
+
+[Extended Data](ext_articles/95ea756f.ext.json)
+
+---
+
 ### Kaspersky extends business footprint to Sri Lanka
 
 *2024-04-27 05:18:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka/) · `en`
@@ -733,6 +785,20 @@ At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs we
 [Data](articles/3e6c82dd.json)
 
 [Extended Data](ext_articles/3e6c82dd.ext.json)
+
+---
+
+### The Ranil Wickremesinghe Caravan  Moves  Forward   Despite Barking Dogs.
+
+*2024-04-27 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83924) · `en`
+
+“ The  Dogs bark but the Caravan moves on”is a proverbial  saying of supposedly Turkish origin. Caravan  in this instance refers to a group of people, animals or vehicles on the move. As is natural members of the canine species  respond to the  strange sight of a caravan  in their midst by barking. This is especially so if there are animals in the caravan. Despite the dogs barking, the carava proceeds on its journey. The moral is that an individual or group must continue on the journey towards their destination even if  there is vocal opposition.
+
+...
+
+[Data](articles/a00455cc.json)
+
+[Extended Data](ext_articles/a00455cc.ext.json)
 
 ---
 
@@ -2109,91 +2175,5 @@ Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, p
 [Data](articles/d38df7f8.json)
 
 [Extended Data](ext_articles/d38df7f8.ext.json)
-
----
-
-### Two Lieutenant Commander remanded
-
-*2024-04-26 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195996) · `si`
-
-Two Lieutenant Commanders remanded by Colombo Magistrate's Court for drug possession. Arrested by Mulleriyawa police, questioned by Address Tharangama Mahawatta. Suspects held 434 grams of ice.
-
-🟩
-
-The Colombo Magistrate's Court today (26) ordered four suspects, who were arrested along with drugs.
-
-The suspects were detained by the Mulleriyawa police and was retained and questioned by Address Tharangama Mahawatta today.
-
-The police were speaking before court and asked the suspects to be remanded.
-
-The reputation Magistrate also ordered that the suspects were remanded until the 9th.
-
-The suspects were arrested while holding 434 grams of ice.
-
-◼️
-
-[Data](articles/879ccd5a.json)
-
-[Extended Data](ext_articles/879ccd5a.ext.json)
-
----
-
-### Sri Lanka to draft criminal asset recovery law
-
-*2024-04-26 14:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-draft-criminal-asset-recovery-law-160168/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s legal draftsman has been instructed to draft a bill on criminal asset recovery, Cabinet spokesman Bandula Gunawardena said.
-
-“The Legal Draftsman has been instructed to prepare a bill based on the recommendations of the expert committee appointed to study the policy, legal framework and procedure required to recover the proceeds earned from crime,” Gunawardena said.
-
-The International Monetary Fund required that Sri Lanka introduce a comprehensive law on recovery of criminal assets by 2024 in return for its comprehensive loan facility. (Colombo/Apr26/2024)
-
-◼️
-
-[Data](articles/c76b99a8.json)
-
-[Extended Data](ext_articles/c76b99a8.ext.json)
-
----
-
-### Maldivian launches direct flights to Colombo
-
-*2024-04-26 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98866/maldivian-launches-direct-flights-to-colombo) · `en`
-
-Maldivian, the national carrier of the Maldives, launched direct flights between Colombo and Malé as the inaugural flight touched down at the Bandaranaike International Airport (BIA) in Katunayake on Thursday (25).
-
-Accordingly, Maldivian will now operate two weekly flights departing every Thursday and Saturday, providing flexible options for both leisure and business travellers.
-
-Launching its operations, the first flight reached the BIA with 138 passengers. Upon arrival, the flight was welcomed by a celebratory water cannon salute while the passengers were accorded a warm welcome with Ceylon tea gift packs and a traditional Kandyan dance performance.
-
-◼️
-
-[Data](articles/7211dcc4.json)
-
-[Extended Data](ext_articles/7211dcc4.ext.json)
-
----
-
-### 14-hour water cut in Colombo tomorrow: NWS&DB
-
-*2024-04-26 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/14-hour-water-cut-in-Colombo-tomorrow-NWS-DB/108-281433) · `en`
-
-Colombo, April 26 (Daily Mirror) - Colombo residents are set to experience a 14-hour water cut tomorrow as the National Water Supply and Drainage Board (NWSDB) announced that water supply to several areas in the city will be suspended.
-
-The NWSDB reported that the water cut will apply to the Colombo 5, 6, Dehiwala-Mount Lavinia and Moratuwa Urban Council areas, Jayanthipura and Pelawatta.
-
-Water supply will be disrupted at 5 p.m. tomorrow (27), and will resume at 7 a.m. on Sunday (28).
-
-According to the NWS&DB, the water cut is necessary as part of the ongoing essential maintenance work under the Ambatale Water Supply System Improvements and Energy Saving Project.
-
-The NWSDB has advised residents in the affected areas to make the necessary arrangements to store water during the water cut period.
-
-Further, the NWS&DB has requested the cooperation of the public to conserve water during and after the water cut.
-
-◼️
-
-[Data](articles/e6ab3ad8.json)
-
-[Extended Data](ext_articles/e6ab3ad8.ext.json)
 
 ---

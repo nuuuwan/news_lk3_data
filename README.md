@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 02:03:47**
+As of **2024-04-28 02:18:30**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,311 (100.0%) of 21,312 articles have been extended.
+21,312 (100.0%) of 21,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### அனுரவுக்கு அமோக வரவேற்பு
+### Welcome to
 
 *2024-04-28 01:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-அமோக-வரவேற்பு/175-336416) · `ta`
 
-மக்கள் சந்திப்பு உள்ளிட்ட சில நிகழ்ச்சிகளில் பங்கேற்பதற்காக  சுவீடனுக்கு சென்றுள்ள தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்கவிற்கு உற்சாக வரவேற்பளிக்கப்பட்டது.
+Anura Kumara Dissanayake, leader of the National People's Power, traveled to Sweden on 25th for events including a people's meeting, welcomed by Sri Lankans. He will participate in the Swedish Finance Committee's event and engage in public meetings.
 
-கடந்த 25 ஆம் திகதி அனுரகுமார திசாநாயக்க சுவீடன் நோக்கி பயணமானார். சுவீடனில் உள்ள இலங்கையர்களால் சுவீடன் விமான நிலையத்தில் அவருக்கு வரவேற்பளிக்கப்பட்டது.
+🟩
 
-தேசிய மக்கள் சக்தியின் ஸ்வீடன் வௌிநாட்டு குழுவினரால் ஸ்டொக்ஹோல்ம் நகரில் ஏற்பாடு  செய்யப்பட்டுள்ள நிகழ்வில் அனுரகுமார திசாநாயக்க பங்கேற்கவுள்ளார்.
+Anura Kumara Dissanayake, the leader of the National People's Power, who had gone to Sweden to attend some events, including the people's meeting, was welcomed.
 
-அனுரகுமார திசாசாயக்க ஸ்வீடனில் தங்கியிருக்கும் காலத்தில் பல பொதுக்கூட்டங்கள் உள்ளிட்ட கலந்துரையாடல்களில்  பங்கேற்பார் என தேசிய மக்கள் சக்தி தெரிவித்துள்ளது. (a)
+Anuragumara traveled towards Sweden on the 25th. He was welcomed by Sri Lankans in Sweden at the Sweden airport.
+
+Anuragumara Dissanayake will be participating in the event organized by the Swedish Finance Committee of the National People's Power.
+
+The National People's Power has said that during his stay in Sweden, Anuragumara will participate in discussions, including several public meetings.. (A)
 
 ◼️
 
 [Data](articles/93ea8559.json)
+
+[Extended Data](ext_articles/93ea8559.ext.json)
 
 ---
 

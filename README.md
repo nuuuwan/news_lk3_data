@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 22:33:47**
+As of **2024-04-27 22:51:15**
 
 ## Newspaper Stats
 
-*Scraped **21,309** Articles*
+*Scraped **21,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
 tamilmirrorlk | 2,464
-adaderanalk | 2,542
+adaderanalk | 2,543
 virakesarilk | 3,201
 dailymirrorlk | 3,319
 adaderanasinhalalk | 3,449
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,303 (100.0%) of 21,309 articles have been extended.
+21,309 (100.0%) of 21,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### 20 Cambodian soldiers killed in an ammunition explosion at a military base
+
+*2024-04-27 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98890/20-cambodian-soldiers-killed-in-an-ammunition-explosion-at-a-military-base) · `en`
+
+An ammunition explosion at a base in southwestern Cambodia on Saturday afternoon killed 20 soldiers and wounded several others, Prime Minister Hun Manet said.
+
+Hun Manet said in a Facebook post that he was “deeply shocked” when he received the news of the blast at the base in Kampong Speu province. It wasn’t immediately clear what caused it.
+
+Images from the scene showed several badly damaged buildings still smoldering, at least one with its roof blown off, and soldiers receiving treatment in a hospital. Other photos showed houses with holes in their roofs.
+
+Four buildings — three for storage and one work facility — were destroyed and several military vehicles damaged, Col. Youeng Sokhon, an army officer at the site, said in a brief report to army chief Gen. Mao Sophan, posted on social media. He added that 25 villagers’ homes were damaged as well.
+
+...
+
+[Data](articles/8438a0e8.json)
+
+---
 
 ### ‘If we desire a competitive economy, we must embrace competition’ - President
 
@@ -47,6 +65,8 @@ The district conference featured a keynote address by Mr. Palanivel Thiaga Rajan
 ...
 
 [Data](articles/2d4ad95b.json)
+
+[Extended Data](ext_articles/2d4ad95b.ext.json)
 
 ---
 
@@ -282,6 +302,8 @@ ECONOMYNEXT – If Sri Lanka desired a competitive economy, it must embrace comp
 
 [Data](articles/a020b5e3.json)
 
+[Extended Data](ext_articles/a020b5e3.ext.json)
+
 ---
 
 ### Decision on removing salary disparities of university non-academic staff
@@ -369,6 +391,8 @@ Country wise analysis of exports reveals that Iraq has emerged as the largest ex
 ◼️
 
 [Data](articles/3b6c30c1.json)
+
+[Extended Data](ext_articles/3b6c30c1.ext.json)
 
 ---
 
@@ -864,6 +888,8 @@ The strengthening of the Sri Lankan Rupee will make the purchasing of goods and 
 
 [Data](articles/740de949.json)
 
+[Extended Data](ext_articles/740de949.ext.json)
+
 ---
 
 ### Child fell into the stream
@@ -1091,6 +1117,8 @@ With non tax revenues of 100 billion rupees, lower than expected, total revenues
 ...
 
 [Data](articles/e3da9750.json)
+
+[Extended Data](ext_articles/e3da9750.ext.json)
 
 ---
 
@@ -2175,21 +2203,5 @@ At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs we
 [Data](articles/a00455cc.json)
 
 [Extended Data](ext_articles/a00455cc.ext.json)
-
----
-
-### The SLFP mess; for whose benefit?
-
-*2024-04-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-SLFP-mess-for-whose-benefit/172-281447) · `en`
-
-The Janatha Vimukthi Peramuna (JVP) leaders who had been imprisoned for their involvement in the 1971 Insurrection followed an untraditional strategy subsequent to their release from prison in 1977, in their pursuit of political power.
-
-They, instead of mainly encountering the United National Party (UNP), the then ruling party, chose first to attack the leftist parties which were the third force then, to capture that position and then take on the Sri Lanka Freedom Party (SLFP) to become the second powerful party in the country.
-
-...
-
-[Data](articles/869baf8c.json)
-
-[Extended Data](ext_articles/869baf8c.ext.json)
 
 ---

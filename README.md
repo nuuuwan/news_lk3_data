@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 08:35:04**
+As of **2024-04-27 08:52:47**
 
 ## Newspaper Stats
 
-*Scraped **21,229** Articles*
+*Scraped **21,232** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
 bbccomsinhala | 222
-dbsjeyarajcom | 224
+dbsjeyarajcom | 225
 newsfirstlk | 363
 islandlk | 1,150
 dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,455
-adaderanalk | 2,523
+adaderanalk | 2,524
 virakesarilk | 3,199
 dailymirrorlk | 3,311
-adaderanasinhalalk | 3,425
+adaderanasinhalalk | 3,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,227 (100.0%) of 21,229 articles have been extended.
+21,229 (100.0%) of 21,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### මැණික් සොයන්න ගිය පුද්ගලයෙකුට දිවි අහිමි වෙයි
+
+*2024-04-27 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196017) · `si`
+
+හොරණ පෝරුවදණ්ඩ ප්‍රදේශයේ කළුගඟේ මැණික් ගරමින් සිටි පුද්ගලයෙකු දියේ ගිලි මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ ඊයේ (26) දහවල් කාලයේ මෙම පුද්ගලයා කළු ගඟේ මැණික් ගරමින් සිටින අතර වාරයේ දියේ ගිලි බරපතළ තත්ත්වයෙන් හොරණ රෝහලට ඇතුළත් කර ඇති අතර එහිදී ඔහු මියගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/9162ea73.json)
+
+---
+
+### Fairly heavy rainfall above 75mm expected today
+
+*2024-04-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98875/fairly-heavy-rainfall-above-75mm-expected-today) · `en`
+
+The Meteorology Department says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 2 p.m.
+
+Showers or thundershowers may occur in the North-central Province in the evening or at night.
+
+Showers or thundershowers may occur at a few places over the coastal areas from Galle to Hambantota via Matara during the morning too.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/74591e6d.json)
+
+---
 
 ### Racker Bore with 30 kg of drugs
 
@@ -803,6 +837,24 @@ It’s all about family. The prodigal son or daughter can return. And when they 
 [Data](articles/49739f89.json)
 
 [Extended Data](ext_articles/49739f89.ext.json)
+
+---
+
+### For five long  years , Sri Lankan  governments have thumbed their noses at the Catholic church leading the call for accountability and justice for the Easter Sunday bombings.
+
+*2024-04-26 23:07:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83942) · `en`
+
+Election fever is hotting up in Sri Lanka, and this time around the most coveted by Opposition parties are those affected by the 2019 Easter Sunday bombings.
+
+It’s been a long five years of waiting for the masterminds to be publicly named and brought to justice. Yet, incumbent governments choose to ignore the plight of the injured, and surving family members and their cries for accountability.
+
+The governments of Gotabaya Rajapaksa and Ranil Wickremesinghe have studiously ignored the evidence placed before them. Instead, they’ve appointed those named and even fined by the courts for dereliction of duty to positions of command and power.
+
+For five years the governments have thumbed their noses at the Catholic church leading the call for accountability and justice for the Easter Sunday bombings.
+
+...
+
+[Data](articles/2bcb7609.json)
 
 ---
 
@@ -2147,59 +2199,5 @@ Accordingly, an officer has been appointed to cover its duties until the vacancy
 [Data](articles/6d7c0935.json)
 
 [Extended Data](ext_articles/6d7c0935.ext.json)
-
----
-
-### Today in history
-
-*2024-04-26 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182016) · `ta`
-
-Today marks Father Selva's Memorial, celebrated by many. His disappearance on April 26, 1977, was announced in Veerakesari on April 27, 1977.
-
-🟩
-
-Various parties in the country today (26) are celebrating Father Selva's Memorial.
-
-The news of the disappearance of Father Selva on April 26, 1977, was published in the Veerakesari magazine on the 27th of the day with an editorial as "Chairman Selva passed away".
-
-◼️
-
-[Data](articles/7f4f036e.json)
-
-[Extended Data](ext_articles/7f4f036e.ext.json)
-
----
-
-### 14-hour water cut to be imposed in parts of Colombo District
-
-*2024-04-26 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98864/14-hour-water-cut-to-be-imposed-in-parts-of-colombo-district) · `en`
-
-A 14-hour water cut will be imposed for several areas in Colombo District on Saturday (27), the National Water Supply & Drainage Board (NWSDB) says.
-
-Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 a.m. on Sunday (28) in Colombo 5 and 6 areas, Dehiwala, Mount Lavinia and Moratuwa urban council areas, as well as in Jayanthipura and Pelawatta areas.
-
-◼️
-
-[Data](articles/afa57efd.json)
-
-[Extended Data](ext_articles/afa57efd.ext.json)
-
----
-
-### Iranian Embassy refused appointment for Sajith to meet Iranian President: Nalin Bandara
-
-*2024-04-26 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-Embassy-refused-appointment-for-Sajith-to-meet-Iranian-President-Nalin-Bandara/108-281429) · `en`
-
-Parliament, April 26 (Daily Mirror)- Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara said today that Opposition Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
-
-He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe as he never attends dinners hosted by President Wickremesinghe.
-
-"I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy to meet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe," he said.
-
-◼️
-
-[Data](articles/06fc03de.json)
-
-[Extended Data](ext_articles/06fc03de.ext.json)
 
 ---

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 22:18:26**
+As of **2024-04-27 22:33:47**
 
 ## Newspaper Stats
 
-*Scraped **21,303** Articles*
+*Scraped **21,309** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 182
+colombotelegraphcom | 183
 bbccomsinhala | 223
 dbsjeyarajcom | 227
 newsfirstlk | 363
 islandlk | 1,152
 dailyftlk | 1,202
-economynextcom | 1,205
+economynextcom | 1,209
 adalk | 1,775
 tamilmirrorlk | 2,464
-adaderanalk | 2,541
+adaderanalk | 2,542
 virakesarilk | 3,201
 dailymirrorlk | 3,319
 adaderanasinhalalk | 3,449
@@ -26,23 +26,47 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,302 (100.0%) of 21,303 articles have been extended.
+21,303 (100.0%) of 21,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### ජාත්‍යන්තර වූෂු තරගාවලියකදී කවීෂ් බණ්ඩාර තැබූ වාර්තාව
+### ‘If we desire a competitive economy, we must embrace competition’ - President
+
+*2024-04-27 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98889/if-we-desire-a-competitive-economy-we-must-embrace-competition-president) · `en`
+
+President Ranil Wickremesinghe emphasized the government’s aim to create a highly competitive, export-oriented economy based on market economy, expressing full faith in the business community of the country. He pointed out that the current challenge facing the nation is not about maintaining the executive presidential system but rather about building a robust economic framework.
+
+The President underscored the importance of allowing the people to decide the country’s economic trajectory, highlighting that this opportunity should not be missed by anyone.
+
+These remarks were made during his presence at the International Rotary District Conference 2023/24 of the District 3220 Club for Sri Lanka and Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday (26).
+
+The district conference featured a keynote address by Mr. Palanivel Thiaga Rajan, Minister of Information Technology and Digital Services of Tamil Nadu, India.
+
+...
+
+[Data](articles/2d4ad95b.json)
+
+---
+
+### Gampaha Bandara laid in International Wenu Yu
 
 *2024-04-27 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196041) · `si`
 
-ජාත්‍යන්තර වූෂු තරගාවලියකදී ශ්‍රී ලංකා ක්‍රීඩකයෙකු රැස්කළ වැඩිම ලකුණු සංඛ්‍යාව වාර්තා කිරීමට කවීෂ් බණ්ඩාර සමත්වී තිබේ.
+Kash Bandara tops Sri Lankan marks at Veniceu Championship, setting a new record.
 
-චීනයේ පැවති ජාත්‍යන්තර ආරාධිත වූෂු තරගාවලියේදී 7 වැනි ස්ථානය දිනූ ඔහු ලකුණු 9.6ක් රැස් කරමින් එම වාර්තාව පිහිටුවනු ලැබීය.
+🟩
+
+Kash Bandara has scored the highest number of marks for a Sri Lankan player at an international forest tournament.
+
+The report was established at the International Guest Veniceu Championship at the International Grand Vaushu Championship.
 
 ◼️
 
 [Data](articles/6c71d94a.json)
+
+[Extended Data](ext_articles/6c71d94a.ext.json)
 
 ---
 
@@ -242,6 +266,24 @@ Foreign media reports that between the crowd, the Jacqueline of Jacqueline.
 
 ---
 
+### Sri Lanka businesses must embrace competition: President
+
+*2024-04-27 19:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-must-embrace-competition-president-160283/) · `en`
+
+ECONOMYNEXT – If Sri Lanka desired a competitive economy, it must embrace competition, Sri Lanka’s President has said, adding that he has faith in the country’s businesses.
+
+“We must understand how to influence market forces, perhaps even manipulate or direct them,” President Ranil Wickremesinghe said.
+
+“I can only envision a market economy where market forces will determine the course. Within that framework, we can establish policy guidelines, outline three or four-year programs, and adapt as needed,” Wickremesinghe said at the International Rotary District Conference 2023/24 of the District 3220 Club for Sri Lanka and Maldives.
+
+“I have faith in Sri Lankan businesses; we can overcome challenges,” he told those at the event held at the Bandaranaike Memorial International Conference Hall on Friday.
+
+...
+
+[Data](articles/a020b5e3.json)
+
+---
+
 ### Decision on removing salary disparities of university non-academic staff
 
 *2024-04-27 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98887/decision-on-removing-salary-disparities-of-university-non-academic-staff-) · `en`
@@ -309,6 +351,24 @@ He had also had a push of about 15 acres, or a pushing down.
 [Data](articles/a63f7ec3.json)
 
 [Extended Data](ext_articles/a63f7ec3.ext.json)
+
+---
+
+### Sri Lanka’s Ceylon tea exports increase in March
+
+*2024-04-27 18:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-tea-exports-increase-in-march-160266/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s total quantity of tea exported for March increased 18.22 percent compared to the same period last year, industry data showed.
+
+Total quantity of tea exported including re-exports with imported tea amounted to 21.25 million kilos.
+
+The FOB price per kilo for the month was 1,795.87 rupees. Total export earnings recorded an increase of 1.87 billion rupees, a 5.17 percent increase in 2024 as against the same month last year.
+
+Country wise analysis of exports reveals that Iraq has emerged as the largest export destination from Sri Lanka, buying 8.4 million kilos, followed by the UAE and Russia. (Colombo/Apr27/2024)
+
+◼️
+
+[Data](articles/3b6c30c1.json)
 
 ---
 
@@ -784,6 +844,28 @@ Presidential Secretary's Secretary to the Presidential Secretary of the Presiden
 
 ---
 
+### Government in the process of transitioning Sri Lanka economy: State minister
+
+*2024-04-27 14:48:00* · [`economynextcom`](https://economynext.com/government-in-the-process-of-transitioning-sri-lanka-economy-state-minister-160258/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s economy has stabilized, and growth is now emerging, due to macroeconomic reforms, State Minister of Finance Shehan Semasinghe said.
+
+“After a contraction of 7.8% in 2022, the GDP returned to growth in the 3rd and 4th quarters of 2023, with Q4 GDP growth reaching 4.5%,” Semasinghe said on X.
+
+“Recognizing the progress in macroeconomic reforms, the measures to stabilize the economy have thus far been successful. The government is now in the process of transitioning the economy to a new growth path.”
+
+The strengthening of the Sri Lankan Rupee will make the purchasing of goods and services cheaper over time, Semasinghe said.
+
+“This will lead to increased purchasing power, helping to alleviate inflationary pressures and contribute to price stability and financial system stability.
+
+“Importantly reduce the burden of debt servicing of the country.”
+
+...
+
+[Data](articles/740de949.json)
+
+---
+
 ### Child fell into the stream
 
 *2024-04-27 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196024) · `si`
@@ -989,6 +1071,26 @@ With non tax revenues of 100 billion rupees, lower than expected, total revenues
 [Data](articles/a5269fcd.json)
 
 [Extended Data](ext_articles/a5269fcd.ext.json)
+
+---
+
+### Sri Lanka budget deficit down in 2023, tax revenue up 54-pct
+
+*2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-in-2023-tax-revenue-up-54-pct-160234/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
+
+Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
+
+In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
+
+But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
+
+With non tax revenues of 100 billion rupees, lower than expected, total revenues were 3,048.8 billion rupees or 11 percent of GDP, in slightly lower than the 11.3 percent in the original budget but in line with the 10.9 percent IMF projection.
+
+...
+
+[Data](articles/e3da9750.json)
 
 ---
 
@@ -2089,117 +2191,5 @@ They, instead of mainly encountering the United National Party (UNP), the then r
 [Data](articles/869baf8c.json)
 
 [Extended Data](ext_articles/869baf8c.ext.json)
-
----
-
-### Ranil’s evolving  strategy to win 2024 presidential poll
-
-*2024-04-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Ranils-evolving-strategy-to-win-2024-presidential-poll/172-281445) · `en`
-
-Ranil Wickremesinghe perceives himself as a unique selling proposition in the presidential election.
-
-Ranil Wickremesinghe,  a 75-year-old  lawyer, has been immersed in politics for over 50 years. He has been an MP for almost 44 years. Ranil has served as  leader of the Opposition for about 18 years. He has been a deputy minister and Cabinet minister. Above all Wickremesinghe has been sworn in as Prime Minister six times. Impressive as it is, this record of service will not be Wickremesinghe’s lasting political legacy
-
-The first advantage is that Wickremesinghe has a proven track record in this so far. He took over when the country was facing an unprecedented economic crisis. Shortages were rampant amid an acute lack of foreign exchange. There were queues everywhere but supplies were unavailable or inadequate. Power and fuel shortages had virtually paralysed the country
-
-...
-
-[Data](articles/c45e4769.json)
-
-[Extended Data](ext_articles/c45e4769.ext.json)
-
----
-
-### 2024-04-26 (Friday)
-
-### Shanakiyan reveals alleged Tripoli platoon link to Easter Sunday attacks
-
-*2024-04-26 23:56:08* · [`dailyftlk`](https://www.ft.lk/news/Shanakiyan-reveals-alleged-Tripoli-platoon-link-to-Easter-Sunday-attacks/56-761103) · `en`
-
-Highlights the platoon’s history of involvement in killings dating back to 2005
-
-Claims platoon member ‘Police Faiz’ established ‘Imanian Enjangal’ in 2004 as part of a state intelligence op to foster Islamic extremism in SL
-
-Cites incidents linking TMVP led by MP Sivanesathurai Chandrakanthan to the Tripoli platoon
-
-Urges President Ranil Wickremesinghe to arrest Chandrakanthan to uncover the truth about the Easter Sunday attack
-
-Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam on Thursday accused the infamous Tripoli platoon, a paramilitary intelligence unit, of involvement in the Easter Sunday attacks in 2019.
-
-Speaking during the debate on the Easter Sunday attacks, Rasamanickam said the group had been involved in a spate of killings since early 2005, long before the Easter Sunday attacks.
-
-The MP said the platoon made up of Muslim, Tamil and Sinhalese operatives was set up in 2005 and persons linked to it such as Police Faiz, Khaleel and Army Mohideen are linked to serious crimes.
-
-...
-
-[Data](articles/4a896e9e.json)
-
-[Extended Data](ext_articles/4a896e9e.ext.json)
-
----
-
-### Easter Sunday Attack – Eran details measures for justice under future SJB Govt.
-
-*2024-04-26 23:55:10* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-Attack-Eran-details-measures-for-justice-under-future-SJB-Govt/56-761102) · `en`
-
-Reveals SJB will appoint special investigative commission to deliver justice to victims
-
-Says SJB will if necessary include foreign judges and foreign investigators in commission
-
-Discloses plans to set up permanent investigative office with prosecution office
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday disclosed his party’s plans to deliver justice to the victims of the Easter Sunday terror attack under a Government led by them.
-
-“A future SJB Government will ensure that truth is revealed and there is justice to provide redress to victims while punishing those who are responsible for the Easter attack or those who failed to prevent the Easter attack in the year 2019,” he said.
-
-Speaking at the debate on the Easter Sunday terror attack, Wickramaratne said a future SJB Government will first appoint a special investigative commission.
-
-...
-
-[Data](articles/6e369750.json)
-
-[Extended Data](ext_articles/6e369750.ext.json)
-
----
-
-### Mano Ganesan requests China to help Sri Lanka join BRICS
-
-*2024-04-26 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mano-Ganesan-requests-China-to-help-Sri-Lanka-join-BRICS/108-281459) · `en`
-
-Colombo, April 26 (Daily Mirror) - Tamil Progressive Alliance (TPA) leader Mano Ganesan said China plays a key role in the Asia-centric world today, and it should help Sri Lanka to join BRICS- the grouping of Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, and the United Arab Emirates
-
-Taking to X, he said India, Russia are well placed in the BRICS grouping. Hence, in future, Chinese good offices should support Sri Lanka to gain entry into BRICS, said TPA leader Mano Ganesan to Sun Haiyan, Vice Minister of the Central Committee of the Communist Party of China (CPC).
-
-Mr. Ganesan met her along with Opposition Leader Sajith Premadasa. The CPC delegation, earlier, met the representatives of the parties such as Sri Lanka Podujana Peramuna (SLPP) and the National People’s Power (NPP).
-
-◼️
-
-[Data](articles/ec8267e5.json)
-
-[Extended Data](ext_articles/ec8267e5.ext.json)
-
----
-
-### AKD urges Govt. to end ‘Ibrahim mantra’ and take action instead
-
-*2024-04-26 23:54:11* · [`dailyftlk`](https://www.ft.lk/news/AKD-urges-Govt-to-end-Ibrahim-mantra-and-take-action-instead/56-761101) · `en`
-
-Points out failure to file charges against Mohamed Ibrahim father of two of Easter Sunday suicide bombers five years on
-
-Highlights Ibrahim’s past accolades, including awards from former President Mahinda Rajapaksa before he was nominated to JVP national list
-
-Says mistakes can happen when choosing candidates but policy must be to not protect them if found to have committed wrong
-
-National People’s Power (NPP) party leader Anura Kumara Dissanayake yesterday said the Government must stop chanting the ‘Ibrahim’ mantra and instead take action if Mohammed Ibrahim, father of two of the Easter Sunday suicide bombers has in fact committed any wrongdoing.
-
-“There is no point in chanting the Ibrahim mantra if the Government is not carrying out its duty,” he said while participating in the parliamentary debate on the Easter Sunday attack.
-
-“It has been five years since but the Government has failed to file a single charge against him,” he added.
-
-...
-
-[Data](articles/d30759ff.json)
-
-[Extended Data](ext_articles/d30759ff.ext.json)
 
 ---

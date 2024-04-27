@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 12:18:44**
+As of **2024-04-27 12:34:15**
 
 ## Newspaper Stats
 
-*Scraped **21,258** Articles*
+*Scraped **21,259** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
 bbccomsinhala | 223
-dbsjeyarajcom | 226
+dbsjeyarajcom | 227
 newsfirstlk | 363
 islandlk | 1,151
 dailyftlk | 1,202
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,258 (100.0%) of 21,258 articles have been extended.
+21,258 (100.0%) of 21,259 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1021,6 +1021,18 @@ Ajith Dowal's security adviser, Modi's MRM Vasim and Rajadurai Hashan, face cont
 [Data](articles/5b9ba150.json)
 
 [Extended Data](ext_articles/5b9ba150.ext.json)
+
+---
+
+### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
+
+*2024-04-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
+
+In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
+
+...
+
+[Data](articles/e7ce8fc0.json)
 
 ---
 
@@ -2135,27 +2147,5 @@ A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr26/2024)
 [Data](articles/2ba306eb.json)
 
 [Extended Data](ext_articles/2ba306eb.ext.json)
-
----
-
-### Bar Association invited to be a mediator
-
-*2024-04-26 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196001) · `si`
-
-The Bar Association of Sri Lanka (BASL) has been invited by the Head of the Sihily Power and Head of the Sri Lankan arrest to mediate between the reconciliation and national folk force, considering the international interest in these debates.
-
-🟩
-
-The Bar Association of Sri Lanka has been invited to serve as an intervening party between the reconciliation and national folk force.
-
-The request was made by the Head of the Sihily Power and Head of the Sri Lankan arrest.
-
-The Bar Association of Sri Lanka (BASL) has been invited to provide this coordination and other provisions, considering the internationally preoccupied and coordination of such debates.
-
-◼️
-
-[Data](articles/6d67e778.json)
-
-[Extended Data](ext_articles/6d67e778.ext.json)
 
 ---

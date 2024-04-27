@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 16:18:27**
+As of **2024-04-27 16:34:07**
 
 ## Newspaper Stats
 
-*Scraped **21,275** Articles*
+*Scraped **21,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,461
-adaderanalk | 2,535
+adaderanalk | 2,536
 virakesarilk | 3,201
 dailymirrorlk | 3,316
 adaderanasinhalalk | 3,436
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,274 (100.0%) of 21,275 articles have been extended.
+21,275 (100.0%) of 21,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### COPF urges reevaluation of tax mechanism to stem state revenue loss
+
+*2024-04-27 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98884/copf-urges-reevaluation-of-tax-mechanism-to-stem-state-revenue-loss-) · `en`
+
+The Committee of Public Finance (COPF), at its most recent meeting, has examined the effectiveness of recent tax increases on tobacco and liquor, aimed at discouraging consumption and boosting government revenue.
+
+Drawing attention to the Laffer curve in taxation, the COPF observed a decline in government revenue over the past two months compared to the same period last year, attributing it to higher taxes that have led to increased smuggling and the adoption of alternative measures.
+
+At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, the COPF members recommended a thorough analysis of the inflation index to guide tax adjustments and research into existing tax systems to prevent revenue loss.
+
+...
+
+[Data](articles/d2b3bd0d.json)
+
+---
 
 ### A letter not responsible for drugs imported
 
@@ -2175,25 +2191,5 @@ The President took the opportunity to detail the Sri Lankan government's endeavo
 [Data](articles/925b36fb.json)
 
 [Extended Data](ext_articles/925b36fb.ext.json)
-
----
-
-### Maithri's secret confession over Easter attack exposed
-
-*2024-04-26 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182053) · `ta`
-
-Maithripala Sirisena revealed a confidential confession about the Easter attack to the CID, without naming anyone from Sri Lanka.
-
-🟩
-
-Former President Maithripala Sirisena has exposed the confidential confession to the Criminal Investigation Department (CID) for the first time on Friday (26).
-
-The Minister also stated that the former President did not mention the name of anyone from Sri Lanka in the affidavit of the minister.
-
-◼️
-
-[Data](articles/ece40cf0.json)
-
-[Extended Data](ext_articles/ece40cf0.ext.json)
 
 ---

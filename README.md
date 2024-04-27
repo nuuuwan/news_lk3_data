@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 17:34:39**
+As of **2024-04-27 17:54:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,282 (100.0%) of 21,284 articles have been extended.
+21,284 (100.0%) of 21,284 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,19 +44,27 @@ In a post on X (formerly Twitter), the Indian High Commission in Colombo said co
 
 [Data](articles/a3492f55.json)
 
+[Extended Data](ext_articles/a3492f55.ext.json)
+
 ---
 
-### බැසිල් සහ මෙරට ඉන්දීය මහකොමසාරිස් අතර හමුවක්
+### Basil and Indian High Commissioner
 
 *2024-04-27 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196032) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා සහ ශ්‍රී ලංකාවේ ඉන්දීය මහකොමසාරිස් සන්තෝෂ් ජා මහතා අතර හමුවක් සිදුවී තිබේ.
+Basil Rajapaksa, founder of Sri Lanka General Man, met with Indian High Commissioner Sanantha Raman to discuss Sri Lanka's political situation.
 
-X ගිණුමේ සටහනක් තබමින් ඉන්දීය මහකොමසාරිස් කාර්යාලය සඳහන් කළේ රටේ දේශපාලන තත්ත්වය ඇතුලු අන්‍යොන්‍ය උනන්දුවක් දක්වන කරුණු පිළිබඳව මෙහිදි සුහදව සාකච්ඡා කළ බවය.
+🟩
+
+Former Minister Basil Rajapaksa, the founder of the Sri Lanka General Man, and the Indian High Commissioner of Sri Lanka has met with Indian High Commissioner Sanantha Raman.
+
+The Indian High Commissioner's office said that a note of the account was discussed and discussed that the matters of the country, including the political situation in the country.
 
 ◼️
 
 [Data](articles/9e8bd0c8.json)
+
+[Extended Data](ext_articles/9e8bd0c8.ext.json)
 
 ---
 

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 10:18:40**
+As of **2024-04-27 10:34:08**
 
 ## Newspaper Stats
 
-*Scraped **21,244** Articles*
+*Scraped **21,245** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 181
-bbccomsinhala | 222
+bbccomsinhala | 223
 dbsjeyarajcom | 226
 newsfirstlk | 363
 islandlk | 1,151
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,242 (100.0%) of 21,244 articles have been extended.
+21,244 (100.0%) of 21,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ But the actual collections have turned out to be 2,720 billion rupees for 2023, 
 
 [Data](articles/a5269fcd.json)
 
+[Extended Data](ext_articles/a5269fcd.ext.json)
+
 ---
 
 ### Sri Lanka changes fuel price formula ahead of polls; allow flexibility on profit margin
@@ -67,6 +69,8 @@ Unprecedented fuel price hike in 2022 amid long queues due to shortage compelled
 ...
 
 [Data](articles/bf5efb6d.json)
+
+[Extended Data](ext_articles/bf5efb6d.ext.json)
 
 ---
 
@@ -655,6 +659,28 @@ The committee was headed by an additional secretary to the ministry and was made
 [Data](articles/8d21edef.json)
 
 [Extended Data](ext_articles/8d21edef.ext.json)
+
+---
+
+### 'කුකුල් කේන්තිය' අවාසනාවන්ත ඉරණමකින් කෙළවර නොවන්නට ඔබ දැන ගත යුතු දේ
+
+*2024-04-27 03:20:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd19v2k74r5o) · `si`
+
+'කුකුල් කේන්තිය' අවාසනාවන්ත ඉරණමකින් කෙළවර නොවන්නට ඔබ දැන ගත යුතු දේ
+
+ඉහත දැක්වෙන කියමන් අප එදිනෙදා ජීවිතයේ පුද්ගලයින් ඇසුරු කිරීමේදී පමණටත් වඩා අසා තිබේ. එපමණක් නොව එවැනි අධික ලෙස කෝපයට පත්වන පුද්ගලයින් ද අපට අපගේ ජීවිතය තුළ විවිධ අවස්ථාවලදී හමු වී තිබේ.
+
+'හදිසි කෝපය' ඉතා සරල දෙයක් ලෙස මතුපිටින් පෙනුන ද එය පාලනය කර නොගැනීම නිසා සිදුවන අවාසනාවන්ත සිදුවීම් විටෙක මරණයකින් පවා කෙළවර වන අවස්ථා අපි දැක ඇත්තෙමු.
+
+මෙරට සිවිල් සමාජය තුළ දෛනිකව වාර්තා වන, සංවිධානාත්මක අපරාධ හෝ පාතාල ක්‍රියා නොවන පුද්ගල ඝාතන සම්බන්ධයෙන් විමසා බැලීමේදී ද හදිසි කෝපය ඒ සඳහා ඉවහල් වී ඇති ආකාරය ඇතැම් අවස්ථාවලදී පැහැදිලි වෙයි.
+
+ගාල්ල, කරාපිටිය ශික්ෂණ රෝහලේ විශේෂඥ මනෝවෛද්‍ය රූමි රූබන් බීබීසී සිංහල සමග අදහස් දක්වමින් සඳහන් කළේ, කෝපය ඇති වීමට බොහෝ අවස්ථාවලදී කලකිරීම හේතු වන බව ය.
+
+ඊට අමතරව පුද්ගලානුබද්ධ අත්දැකීම් ද ඊට හේතුවන බව ඔහු පෙන්වා දුන්නේ ය.
+
+...
+
+[Data](articles/695f88de.json)
 
 ---
 
@@ -2155,25 +2181,5 @@ Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, p
 [Data](articles/19c4e3ed.json)
 
 [Extended Data](ext_articles/19c4e3ed.ext.json)
-
----
-
-### Sri Lanka to hand management of China-built airport to India, Russia companies
-
-*2024-04-26 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-hand-management-of-China-built-airport-to-India-Russia-companies/155-281435) · `en`
-
-COLOMBO, April 26 (Reuters) - Sri Lanka will hand over management of its $209 million Chinese-built airport to two Indian and Russian companies, a cabinet statement said on Friday, as the island nation attempts to reduce losses from its state enterprises.
-
-Mattala Rajapaksa International Airport (MRIA), funded by China EXIM Bank, has stoked controversy since its opening in 2013 due to a low number of flights, environmentally sensitive location and persistent financial losses.
-
-The airport's management will be handed over to Shaurya Aeronautics (Pvt) Ltd. of India and Airports of Regions Management Company of Russia for 30 years, a cabinet statement said, without mentioning the deal value.
-
-Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, part of $4.2 billion borrowed for other infrastructure projects.
-
-...
-
-[Data](articles/d38df7f8.json)
-
-[Extended Data](ext_articles/d38df7f8.ext.json)
 
 ---

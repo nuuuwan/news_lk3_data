@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 16:34:07**
+As of **2024-04-27 16:49:22**
 
 ## Newspaper Stats
 
-*Scraped **21,276** Articles*
+*Scraped **21,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 2,461
 adaderanalk | 2,536
 virakesarilk | 3,201
 dailymirrorlk | 3,316
-adaderanasinhalalk | 3,436
+adaderanasinhalalk | 3,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,275 (100.0%) of 21,276 articles have been extended.
+21,276 (100.0%) of 21,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### ඉන්දීය මැතිවරණයේ අලුත්ම තත්ත්වය
+
+*2024-04-27 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196030) · `si`
+
+ලොව වැඩිම ඡන්ද දායකයින් සහිත රට වන ඉන්දියාවේ මහ මැතිවරණය පසුගිය 19 වනදා ඇරඹුණු අතර එහි දෙවන අදියර ඊයේ (26) නිමා විය.
+
+විදෙස් මාධ්‍ය වාර්තා කරන්නේ පළමු අදියරේදී ඡන්ද දායකයින් 65%ක් ඡන්දය ප්‍රකාශ කර තිබූ අතර දෙවෙනි අදියරේදී එය 61%ක් දක්වා අඩුවී ඇති බවය.
+
+මැතිවරණ ප්‍රතිඵල ජුනි 4 වනදා වනවිට ප්‍රකාශයට පත්කිරීමට හැකිවෙතැයි අනුමාන කරයි.
+
+තෙවැනි අදියර මැයි 07 වනදා පැවැත්වෙන අතර සිව්වන අදියර මැයි 13, පස්වන අදියර මැයි 20, හයවන අදියර මැයි 25 සහ හත්වන අදියර ජුනි 01 වනදා පැවැත්වෙනු ඇත.
+
+◼️
+
+[Data](articles/152ee5d1.json)
+
+---
+
+### ආරක්ෂක අභියෝග පිළිබඳ සාකච්ඡා කිරීමට කමල් ගුණරත්න රුසියාවට
+
+*2024-04-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196029) · `si`
+
+ආරක්ෂක ලේකම් ජෙනරල් කමල් ගුණරත්න මහතා රුසියානු ආරක්ෂක කවුන්සිලයේ ලේකම්වරයා මුණ ගැසී ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
+
+ඒ, රාජ්‍ය ආරක්ෂණ කටයුතු සඳහා වන උසස් නිලධාරීන්ගේ 12වන ජාත්‍යන්තර හමුවේදීය .
+
+ආරක්ෂක අභියෝගයන්ට මුහුණ දීම මෙන්ම, කලාපීය සාමය සහ ස්ථාවරත්වය ප්‍රවර්ධනය කිරීම සඳහා ජාත්‍යන්තර සහයෝගීතාව සහ සාමුහිකත්වය වැඩිදියුණු කිරීම මෙහිදී අවධානය යොමු කර ඇති බව සඳහන්ය.
+
+එමෙන්ම ත්‍රස්ත මර්ධන ප්‍රයත්නයන්, සයිබර් හා අන්තර්ජාල මෙන්ම ආරක්ෂක සහයෝගීතාව ඇතුලු කරුණු රැසක් සම්බන්ධයෙන් මෙහිදී දෙපාර්ශ්වයේ අවධානය යොමුව තිබේ.
+
+ද්විපාර්ශ්වික රාජ්‍ය තාන්ත්‍රික සබඳතා ශක්තිමත් කිරීමට හා ආරක්ෂක ක්‍රියාවලිය තුළ දෙරටේ සහයෝගීතාව වැඩිදියුණු කිරීම සඳහා නව මංපෙත් පිළිබඳව සොයා බැලීමට ඇති අනෝන්‍යය කැපවීම දෙපාර්ශ්වය විසින් ම මෙහිදී අවධානයට යොමුකළ බව ආරක්ෂක අමාත්‍යංශය සදහන් කළේය.
+
+◼️
+
+[Data](articles/72897361.json)
+
+---
 
 ### COPF urges reevaluation of tax mechanism to stem state revenue loss
 
@@ -45,6 +83,8 @@ At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, t
 ...
 
 [Data](articles/d2b3bd0d.json)
+
+[Extended Data](ext_articles/d2b3bd0d.ext.json)
 
 ---
 
@@ -2149,47 +2189,5 @@ The match will be held today with the Kolkata Knight Riders team and Punjab King
 [Data](articles/00998270.json)
 
 [Extended Data](ext_articles/00998270.ext.json)
-
----
-
-### New Regulatory Institute for Energy Sector
-
-*2024-04-26 19:59:04* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-අංශයට-නව-නියාමන-ආයතනයක්/11-409284) · `si`
-
-The Energy Sector has been granted a new regulatory company by the Cabinet, focusing on the import, refinement, and sale of petroleum products. This initiative aims to create an independent, dynamic, effective, and efficient mechanism to address challenges and protect product quality. The proposal involves appointing a committee headed by the Secretary to the Ministry of Power and Energy.
-
-🟩
-
-Cabinet approval has been given to introduce a new regulatory company for the Energy Sector.
-
-Import and refinement of petroleum products including petrol, diesel, kerosene, aircraft fuel oil (LPG) and lubricants (LPG) and lubricants (LPG) and the sale.
-
-The needs of the section have been identified independent, dynamic, effective and efficient mechanism to address the challenges of the session and to protect the quality of products and protects the needs of the sector products.
-
-Thus, the proposal to appoint a committee to the Cabinet of Power and Energy, the Secretary to the Power and Energy has been granted to appoint a committee headed by the Secretary to the Ministry of Power and Energy.
-
-◼️
-
-[Data](articles/79611128.json)
-
-[Extended Data](ext_articles/79611128.ext.json)
-
----
-
-### US to support Sri Lanka’s dairy modernization drive
-
-*2024-04-26 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-to-support-Sri-Lankas-dairy-modernization-drive/108-281442) · `en`
-
-Colombo, April 26 (PMD) - In a bid to bolster Sri Lanka's dairy industry, Alexis Taylor, the Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), conferred with Sri Lankan President Ranil Wickremesinghe on April 26.
-
-During the meeting, Taylor apprised President Wickremesinghe of the ongoing dairy modernization initiative backed by the United States. President Wickremesinghe warmly welcomed the programme, noting its alignment with Sri Lanka's expansive efforts in dairy production across the nation.
-
-The President took the opportunity to detail the Sri Lankan government's endeavors in modernizing agriculture, underscoring the imperative of fostering greater participation of the youth in the sector. In response, the U.S. delegation affirmed their support for these endeavours, vowing to extend the necessary aid.
-
-◼️
-
-[Data](articles/925b36fb.json)
-
-[Extended Data](ext_articles/925b36fb.ext.json)
 
 ---

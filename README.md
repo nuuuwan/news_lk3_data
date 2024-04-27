@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 08:05:21**
+As of **2024-04-27 08:18:37**
 
 ## Newspaper Stats
 
-*Scraped **21,225** Articles*
+*Scraped **21,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,72 +19,126 @@ adalk | 1,771
 tamilmirrorlk | 2,455
 adaderanalk | 2,523
 virakesarilk | 3,199
-dailymirrorlk | 3,310
-adaderanasinhalalk | 3,424
+dailymirrorlk | 3,311
+adaderanasinhalalk | 3,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,215 (100.0%) of 21,225 articles have been extended.
+21,225 (100.0%) of 21,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### இன்று மழை பெய்யும் - வெப்பநிலை அதிகரிக்கும்...
+### ජාවාරම්කරු මත්ද්‍රව්‍ය කිලෝ 30ක් සමග කොටුවෙයි
+
+*2024-04-27 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196016) · `si`
+
+කිලෝග්‍රෑම් 30කට ආසන මත්ද්‍රව්‍ය‌ තොගයක් සමඟ පුද්ගලයෙකු කඩුවෙල, බෝමිරිය ප්‍රදේශයේදී බියගම පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සතුව අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 15 ක්, හෑෂ් කිලෝග්‍රෑම් 14 ක් සහ හෙරොයින් ග්‍රෑම් 941 ක් තිබු බව පොලීසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 30 හැවිරිදි පුද්ගලයෙකු බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/7db9e54b.json)
+
+---
+
+### It rains today - the temperature will increase ...
 
 *2024-04-27 07:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யும்-வெப்பநிலை-அதிகரிக்கும்/175-336397) · `ta`
 
-மேற்கு, சப்ரகமுவ, மத்திய, தெற்கு, வடமேற்கு மற்றும் ஊவா மாகாணங்களில் இன்று பிற்பகல் 2.00 மணிக்கு பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Rain and thunderstorms expected in West, Sabaragamuwa, Central, South, Northwest, and Uva provinces. Heavy rainfall in Galle and Matara districts, snowfall in West, Sabaragamuwa, Central, and Uva provinces. Temperature increase to 27°C. Take precautions for heavy winds and lightning.
 
-வடமத்திய மாகாணத்தில் மாலை அல்லது இரவில் ஒரு சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-காலியில் இருந்து மாத்தறை ஊடாக ஹம்பாந்தோட்டை வரையான காலப்பகுதியில் ஒரு சில இடங்களில் காலை வேளையில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+The Department of Meteorology said that rainfall or thunderstorms will occur at 2.00 pm today in the West, Sabaragamuwa, Central, South, Northwest and Uva provinces.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில்  அதிகபட்சமாக 75 மி.மீ. அளவில் கனமழைக்கு வாய்ப்புள்ளது.
+Thundershowers or thunderstorms can occur in the evening or night in the North Central Province.
 
-மேற்கு, சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் காலை வேளையில்  பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+It has been reported that there will be a few places in the morning or in a few places from Galle to Matara to Hambantota.
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களை கோரியுள்ளது.
+In the upper and Sabaragamuwa provinces, Galle and Matara districts are a maximum of 75 mm in some places. Heavy rainfall is likely.
+
+In some parts of the West, Sabaragamuwa, Central and Uva provinces, there is expected snowfall in the morning.
+
+The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
+
+Meanwhile, the Department of Meteorology has said that the temperature will increase to the level of temperature to pay attention to today (27) in many parts of the country.
 
 ...
 
 [Data](articles/556f907f.json)
 
+[Extended Data](ext_articles/556f907f.ext.json)
+
 ---
 
-### දුම්රිය ආසන වෙන් කිරීමේ අර්බුදය
+### Railway seat reservation crisis
 
 *2024-04-27 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196015) · `si`
 
-අන්තර්ජාලය ඔස්සේ දුම්රිය ආසන වෙන් කිරීමේ අර්බුදය  විසඳීමට බලධාරීන් මේ වනතෙක් පියවර ගෙන නොමැති බවට දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+The Railways Association criticizes the railway seating crisis resolution, accusing the Railway Department of corruption.
 
-එහි සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ සහකාර ප්‍රවාහන අධිකාරීවරයෙකුගේ බලතල යටතේ මෙම ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීම ප්‍රතික්ෂේප කරන බවය.
+🟩
 
-මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් සුමේධ සෝමරත්න මහතා පැවසුවේ දුම්රිය දෙපාර්තමේන්තුව වංචා දූෂණ රැසක් සිදුවන ස්ථානයක් බවට පත්ව ඇති බවය.
+The Railways Association (OICs) says that the authorities have taken steps to resolve the railway seating crisis online.
+
+Chairman of the President Sumedha Somaratne said that under the powers of a Assistant Transport Superintendent refused to discuss the issue.
+
+Speaking further Mr. Sumedha Somaratne said that the Railway Department has become a place where many corruption.
 
 ◼️
 
 [Data](articles/846f2d13.json)
 
+[Extended Data](ext_articles/846f2d13.ext.json)
+
 ---
 
-### சகோதரிக்கு போதையை கொடுத்து பாலியல் தொழிலில் ஈடுபடுத்திய சகோதரன்
+### Children sent abroad for higher education purposes: CID
+
+*2024-04-27 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Children-sent-abroad-for-higher-education-purposes-CID/108-281486) · `en`
+
+Colombo, April 27 (Daily Mirror) - The claims over children being sent from Sri Lanka to Malaysia, which raised concerns of many regarding the fate of the children being sent abroad, took a fresh turn when the police found that the children were sent for higher education purposes, the Daily Mirror learns.
+
+The Police Criminal Investigation Department (CID) following preliminary investigations on the suspected local facilitator of the international child smuggling syndicate, a 14-year-old boy and his father who had been deported from Malaysia this week, had learned that the child was to be sent abroad for higher education purposes.
+
+A senior official of the CID’S Human Traf­ficking, Smuggling Investigation and Maritime Security Investigation Division (HTSIMSID) told the Daily Mirror yesterday that they have credible information that all the 17 children, who were said to have been smuggled out of Sri Lanka to Malaysia in the first few months of 2023, were sent for the same reason.
+
+...
+
+[Data](articles/f6b94cc0.json)
+
+---
+
+### Brother
 
 *2024-04-27 07:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சகோதரிக்கு-போதையை-கொடுத்து-பாலியல்-தொழிலில்-ஈடுபடுத்திய-சகோதரன்/71-336396) · `ta`
 
-தனது சகோதரியை பாலியல் வன்புணர்வுக்கு உட்படுத்தியதுடன், வலுக்கட்டாயமாக பாலியல் தொழிலில் ஈடுபடுத்தி வந்த குற்றச்சாட்டில் சகோதரன் கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+A brother has been arrested for sexually abusing his sister and forcing her into sex work. The sister, now living in an orphanage, was previously hospitalized for drug overdose and torture. The brother later brought her back to the orphanage, where she was treated and revealed her abuse. The brother was arrested, and police are investigating eight other individuals for sexual harassment.
 
-யாழ்ப்பாணம் நகர் பகுதியை அண்டிய கிராமத்தை சேர்ந்த 34 வயதுடைய பெண்ணொருவர் தனது பெற்றோர் உயிரிழந்த நிலையில் , சகோதரியுடன் வடமராட்சி கிழக்கு பகுதியில் உள்ள ஆதரவற்றோர் இல்லத்தில் வசித்து வந்துள்ளார்.
+🟩
 
-இந்நிலையில் கடந்த டிசம்பர் மாதம் பெண்ணின் சகோதரி உயிரிழந்துள்ளார். அதனை அடுத்து ஆதரவற்றோர் இல்லத்தில் வசித்து வந்த சகோதரியை , யாழ்.நகர் பகுதியை அண்டிய பிரதேசத்தில் வாழும் சகோதரன் தன்னுடன் அழைத்து வந்து தங்க வைத்துள்ளார்.
+The brother has been arrested on charges of sexually abusing her sister and forcibly engaging in sex work.
 
-இந்நிலையில் கடந்த ஜனவரி மாதம் குறித்த பெண்ணுக்கு போதைப்பொருட்களை வலுக்கட்டாயமாக நுகர வைத்தும் , போதை ஊசிகளை செலுத்தியும் பாலியல் வன்புணர்வுக்கு கும்பல் ஒன்று உட்படுத்தி வந்துடன் பெண்ணை சித்திரவதைக்கு உள்ளாக்கியதும் வந்துள்ளது.
+A 34 -year -old woman from a village near Jaffna Nagar has died and her sister is living with her sister in the orphaned home in Vadamarachchi.
+
+The woman's sister died last December. After that, the sister who lived in the home of the orphans brought her sister to stay in the neighboring area of Jaffna.
+
+Last January, the woman had forcibly consumed drugs, injecting drug needles and torturing the woman after a gang of sexual harassment.
+
+Later last week, the brother took his sister to the orphaned house again. Changes in the woman's actions and the body of the body has been admitted to the Pedro Base Hospital for treatment by the home administration.
 
 ...
 
 [Data](articles/18ad1254.json)
+
+[Extended Data](ext_articles/18ad1254.ext.json)
 
 ---
 
@@ -196,19 +250,25 @@ Parliamentarians Vajira Abeywardena and HMM at the event to hand over these dona
 
 ---
 
-### 17 சிறார்களை கடத்தியவர் கைது
+### Arrested for kidnapping 17 minors
 
 *2024-04-27 05:50:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-சிறார்களை-கடத்தியவர்-கைது/175-336392) · `ta`
 
-இலங்கை சிறார்களை மலேசியா ஊடாக ஐரோப்பாவிற்கு அனுப்பி ஆட்கடத்தலில் ஈடுபட்ட நபர் குடிவரவு குடியகல்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+A man transported Sri Lankan children to Europe via Malaysia was arrested at Katunayake airport for kidnapping 17 minors.
 
-கட்டுநாயக்க விமான நிலையத்தில் நேற்று முன்தினம்  மாலை அந்த நபர் கைது செய்யப்பட்டுள்ளார் என திணைக்களத்தின் விசாரணை அதிகாரி எம்.ஜி.வி. காரியவசம் தெரிவித்துள்ளார்.
+🟩
 
-சந்தேகநபர், இலங்கையை சேர்ந்த 17 சிறார்களை சட்டவிரோதமாக நாட்டில் இருந்து வௌியேற்றி ஆட்கடத்தலில் ஈடுபட்டுள்ளார் என குற்றச்சாட்டு சுமத்தப்பட்டுள்ளது. (a)
+A person who has been transported by Sri Lankan children to Europe via Malaysia has been arrested by the Department of Immigration and Emigration.
+
+The man was arrested yesterday evening at the Katunayake airport.. Kariyawasam said.
+
+The suspect has been accused of illegally engaging in 17 Sri Lankan children from the country.. (A)
 
 ◼️
 
 [Data](articles/dd24fec7.json)
+
+[Extended Data](ext_articles/dd24fec7.ext.json)
 
 ---
 
@@ -254,6 +314,8 @@ Part of a three-year distribution channel expansion strategy by Sri Lanka’s mo
 
 [Data](articles/5c2b49e0.json)
 
+[Extended Data](ext_articles/5c2b49e0.ext.json)
+
 ---
 
 ### Kaspersky extends business footprint to Sri Lanka
@@ -267,6 +329,8 @@ As cyber threats continue to evolve and proliferate worldwide, Kaspersky recogni
 ...
 
 [Data](articles/b785f141.json)
+
+[Extended Data](ext_articles/b785f141.ext.json)
 
 ---
 
@@ -282,6 +346,8 @@ Connecting people and places across continents, the collaboration empowers SriLa
 
 [Data](articles/55e505b1.json)
 
+[Extended Data](ext_articles/55e505b1.ext.json)
+
 ---
 
 ### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
@@ -295,6 +361,8 @@ The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s
 ...
 
 [Data](articles/b4814955.json)
+
+[Extended Data](ext_articles/b4814955.ext.json)
 
 ---
 
@@ -2125,45 +2193,5 @@ He told Parliament that Sajith Premadasa did not attend the dinner with the Iran
 [Data](articles/06fc03de.json)
 
 [Extended Data](ext_articles/06fc03de.ext.json)
-
----
-
-### Sajith didn't get appointment from Iranian Embassy to meet Iranian President: Nalin Bandara
-
-*2024-04-26 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-didn-t-get-appointment-from-Iranian-Embassy-to-meet-Iranian-President-Nalin-Bandara/108-281429) · `en`
-
-Parliament, April 26 (Daily Mirror)- Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara said today that Opposition Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
-
-He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe as he never attends dinners hosted by President Wickremesinghe.
-
-"I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy to meet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe," he said.
-
-◼️
-
-[Data](articles/1b326aeb.json)
-
-[Extended Data](ext_articles/1b326aeb.ext.json)
-
----
-
-### A heart of Indian nationality is transplanted to a Pakistan
-
-*2024-04-26 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195992) · `si`
-
-Indian doctors transplanted a heart from an Indian to a Pakistani, using a 69-year-old heart. The surgery was free, benefiting the doctors and Delhi.
-
-🟩
-
-Indian doctors have been able to transplant a heart of Indian nationality to a 19-year-old girl to a 19-year-old girl.
-
-A 69-year-old brain is a heart of the 69-year-old man.
-
-The surgery had been conducted for free of charge for a financial basis for doctors and Delhi.
-
-◼️
-
-[Data](articles/cf7ef083.json)
-
-[Extended Data](ext_articles/cf7ef083.ext.json)
 
 ---

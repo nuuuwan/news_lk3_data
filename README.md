@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 23:03:45**
+As of **2024-04-27 23:18:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,310 (100.0%) of 21,311 articles have been extended.
+21,311 (100.0%) of 21,311 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,19 +114,27 @@ This is a good opportunity for all the youths who wish to have a high level of c
 
 ---
 
-### வர்த்தக சமூகம் மீது முழு நம்பிக்கை கொண்டுள்ளோம் : நாட்டின் பொருளாதாரத்தின் எதிர்காலப் போக்கை மக்களே தீர்மானிக்க வேண்டும் - ஜனாதிபதி
+### We have full confidence in the business community: People must decide the future of the country's economy- the president
 
 *2024-04-27 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182114) · `ta`
 
-சந்தைப் பொருளாதாரத்தை அடிப்படையாகக் கொண்டதும், அதிக போட்டித்தன்மை கொண்டதுமான, ஏற்றுமதிப்  பொருளாதாரத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கமாகும் என்றும், இந்த நாட்டின் வர்த்தக சமூகம் மீது தனக்கு முழு நம்பிக்கை இருப்பதாகவும் ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized the government's aim to create an export economy based on the market economy, expressing full confidence in the business community. He highlighted the need for the people to decide the future of the country's economy, addressing the annual conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives.
 
-தற்போது நாட்டின் பொருளாதாரத்தை கட்டியெழுப்பும் முறைமையே நாட்டுக்கு அவசியப்படுகின்றதென சுட்டிக்காட்டிய ஜனாதிபதி நிறைவேற்று ஜனாதிபதி முறையை பேணுவதா இல்லையா என்பது தற்போதைய பிரச்சினை அல்லவெனவும்,  நாட்டுப் பொருளாதாரத்தின் எதிர்கால போக்கை தீர்மானிப்பதற்கான வாய்ப்பை மக்கள் இழந்துவிடக்கூடாதெனவும் தெரிவித்தார்.
+🟩
 
-கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் வெள்ளிக்கிழமை (26) நடைபெற்ற இலங்கை மற்றும் மாலைதீவுகளுக்கான மாவட்ட 3220 சர்வதேச ரோட்டரி கழகத்தின் 2023/24 வருடாந்த மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized that the government's aim is to create an export economy based on the market economy and that he has full confidence in the business community of this country.
+
+Pointing out that the country is currently needing a system of building the country's economy, the President said that it is not the present issue and that the people should not lose the opportunity to determine the future course of the country's economy.
+
+President Ranil Wickremesinghe said this while addressing the annual conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo on Friday (26).
+
+This annual conference will be held in Colombo on April 26/27 and the Minister of Information Technology and Digital Services Palanivel Thiagarajan made the special speech at the conference.
 
 ...
 
 [Data](articles/68ea06ef.json)
+
+[Extended Data](ext_articles/68ea06ef.ext.json)
 
 ---
 

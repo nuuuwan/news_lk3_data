@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 12:04:33**
+As of **2024-04-27 12:18:44**
 
 ## Newspaper Stats
 
@@ -26,25 +26,59 @@ adaderanasinhalalk | 3,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,256 (100.0%) of 21,258 articles have been extended.
+21,258 (100.0%) of 21,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### O/L மாணவர்களுக்கு விசேட அறிவிப்பு வெளியானது...
+### Rotary International District 3220 Conference to Hope Sri Lanka
+
+*2024-04-27 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182070) · `ta`
+
+Rotary International District 3220 Conference 2023-2024 in Colombo featured over 400 participants, including dignitaries and speakers from Sri Lanka and abroad. Key figures included Governor Jerome Rajendram and President Ranil Wickremesinghe, who emphasized solving people's problems over eradicating executive power. The conference highlighted Rotary's global impact, including disease prevention and community development, and its role in peace and goodwill.
+
+🟩
+
+Rotary International District 3220 Conference 2023 - 2024 was held on Friday (26) at the Bandaranaike International Conference Hall in Colombo.
+
+More than 400 Rotarians and multi -faceted dignitaries and speakers from Sri Lanka and abroad participated.
+
+Governor of Sri Lanka Rotary Corporation Jerome Rajendram and Chairman DGNT. The conference was chaired by Kumar Sundararaj.
+
+Speaking at the conference, President Ranil Wickremesinghe said, “Solving the problem of the people is now the first to solve the problem of the people and not the eradication of executive power, and that the ports of Trincomalee and Colombo are waiting for India's investment.
+
+Meanwhile, former Director Berohoin represented the International Chairman of the Rotary Club as an honorary guest.
+
+Minister of Information Technology and Digital Services Dr. Palanivel Thiagarajan made a special speech entitled "Using Technology to Strengthen Democracy".
+
+...
+
+[Data](articles/e3490646.json)
+
+[Extended Data](ext_articles/e3490646.ext.json)
+
+---
+
+### A special announcement for O/L students ...
 
 *2024-04-27 11:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மாணவர்களுக்கு-விசேட-அறிவிப்பு-வெளியானது/175-336399) · `ta`
 
-எதிர்வரும் கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையை நோக்காகக் கொண்டு இடம்பெறும் மேலதிக வகுப்புகள் மற்றும் கருத்தரங்குகள் எதிர்வரும் 30ஆம் திகதி நள்ளிரவு முதல் இடைநிறுத்தப்படும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations has suspended additional classes, seminars, and workshops from midnight on the 30th, affecting the GCE Ordinary Level Examination scheduled from 6th to 15th May.
 
-இதன்படி, அன்றைய தினம் நள்ளிரவு 12.00 மணி முதல், பரீட்சையை இலக்காகக் கொண்ட மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் உள்ளிட்டவை இடைநிறுத்தப்படுவதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-சாதாரண தரப் பரீட்சையானது, எதிர்வரும் மே மாதம் 6 ஆம் திகதி முதல் 15 ஆம் திகதி வரை இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+The Department of Examinations has announced that additional classes and seminars will be suspended from midnight on the 30th of this month.
+
+Accordingly, the Department of Examinations said that more classes, seminars and workshops targeting the examination will be suspended from 12 midnight that day.
+
+The GCE Ordinary Level Examination will be held from 6th to 15th May.
 
 ◼️
 
 [Data](articles/a9400a6d.json)
+
+[Extended Data](ext_articles/a9400a6d.ext.json)
 
 ---
 
@@ -59,6 +93,8 @@ Reportedly, the heroin consignment is worth to the tune of Rs. 160 million.
 ◼️
 
 [Data](articles/131078d1.json)
+
+[Extended Data](ext_articles/131078d1.ext.json)
 
 ---
 
@@ -219,34 +255,6 @@ The driver was also killed when he was admitted to the Welikanda hospital.
 [Data](articles/aed4a924.json)
 
 [Extended Data](ext_articles/aed4a924.ext.json)
-
----
-
-### Rotary International District 3220 Conference to Hope Sri Lanka
-
-*2024-04-27 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182070) · `ta`
-
-Rotary International District 3220 Conference 2023-2024 in Colombo featured over 400 participants, including dignitaries and speakers from Sri Lanka and abroad. Key figures included Governor Jerome Rajendram and President Ranil Wickremesinghe, who emphasized solving people's problems over eradicating executive power. The conference highlighted Rotary's global impact, including disease prevention and community development, and its role in peace and goodwill.
-
-🟩
-
-Rotary International District 3220 Conference 2023 - 2024 was held on Friday (26) at the Bandaranaike International Conference Hall in Colombo.
-
-More than 400 Rotarians and multi -faceted dignitaries and speakers from Sri Lanka and abroad participated.
-
-Governor of Sri Lanka Rotary Corporation Jerome Rajendram and Chairman DGNT. The conference was chaired by Kumar Sundararaj.
-
-Speaking at the conference, President Ranil Wickremesinghe said, “Solving the problem of the people is now the first to solve the problem of the people and not the eradication of executive power, and that the ports of Trincomalee and Colombo are waiting for India's investment.
-
-Meanwhile, former Director Berohoin represented the International Chairman of the Rotary Club as an honorary guest.
-
-Minister of Information Technology and Digital Services Dr. Palanivel Thiagarajan made a special speech entitled "Using Technology to Strengthen Democracy".
-
-...
-
-[Data](articles/e3490646.json)
-
-[Extended Data](ext_articles/e3490646.ext.json)
 
 ---
 

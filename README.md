@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 21:34:00**
+As of **2024-04-27 21:52:46**
 
 ## Newspaper Stats
 
-*Scraped **21,301** Articles*
+*Scraped **21,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,464
 adaderanalk | 2,541
 virakesarilk | 3,201
 dailymirrorlk | 3,319
-adaderanasinhalalk | 3,447
+adaderanasinhalalk | 3,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,300 (100.0%) of 21,301 articles have been extended.
+21,301 (100.0%) of 21,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### මඩකළපුවේ ඉදි කළ ක්‍රිකට් පිටිය
+
+*2024-04-27 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196040) · `si`
+
+නැගෙනහිර පළාතේ ක්‍රිකට් ක්‍රීඩකයින්ගේ දියුණුව වෙනුවෙන් කැපවුණු පුද්ගලයෙකු අද දෙරණට මඩකළපුවෙන් හමු වුණි.
+
+නමින් පූනසිංහම් වසීහරන් වන ඔහු මේ වනවිට තම පෞද්ගලික මුදලින් අංග සම්පූර්ණ ක්‍රිකට් ක්‍රීඩාංගණයක් මඩකළපුවේ ඉදිකර තිබේ.
+
+මෙය උසස් මට්ටමේ ක්‍රිකට් අත්දැකීමක් ලබාගන්න අපේක්ෂා කරන සියලුම තරුණයින් ට හොඳ අවස්ථාවකි.
+
+◼️
+
+[Data](articles/5040ecc3.json)
+
+---
 
 ### Human skeletons recovered in Muhamalai demining site
 
@@ -45,6 +61,8 @@ The Kilinochchi Magistrate visited the site, conducted a magisterial inspection 
 ◼️
 
 [Data](articles/402db4e0.json)
+
+[Extended Data](ext_articles/402db4e0.ext.json)
 
 ---
 
@@ -2181,25 +2199,5 @@ The annual awards are organised by the Ceylon Chamber of Commerce, Sri Lanka’s
 [Data](articles/eaf046fd.json)
 
 [Extended Data](ext_articles/eaf046fd.ext.json)
-
----
-
-### Ninewells Hospital partners Sri Lanka Army to implement health insurance scheme for war heroes
-
-*2024-04-26 23:52:26* · [`dailyftlk`](https://www.ft.lk/business/Ninewells-Hospital-partners-Sri-Lanka-Army-to-implement-health-insurance-scheme-for-war-heroes/34-761099) · `en`
-
-Ninewells Hospital officials exchange the MoU signed with the Sri Lanka Army
-
-Ninewells Hospital has announced its collaboration with the Sri Lanka Army to implement a special health insurance scheme.
-
-This partnership, aimed at expressing gratitude to the valiant war heroes who have tirelessly defended our nation, signifies a significant step towards ensuring their well-being.
-
-The Memorandum of Understanding (MoU) between Ninewells Hospital and the Army Suva Sahana Insurance Scheme initiated by the Sri Lanka Army underscores the commitment of both entities towards the health and welfare of military personnel. Through this collaboration, Ninewells Hospital pledges to deliver top-tier healthcare services, catering to the unique needs of army members and their families.
-
-...
-
-[Data](articles/e9d57047.json)
-
-[Extended Data](ext_articles/e9d57047.ext.json)
 
 ---

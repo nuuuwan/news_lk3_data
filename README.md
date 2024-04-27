@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 08:52:47**
+As of **2024-04-27 09:03:47**
 
 ## Newspaper Stats
 
-*Scraped **21,232** Articles*
+*Scraped **21,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,52 @@ dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
 tamilmirrorlk | 2,455
-adaderanalk | 2,524
+adaderanalk | 2,525
 virakesarilk | 3,199
-dailymirrorlk | 3,311
+dailymirrorlk | 3,312
 adaderanasinhalalk | 3,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,229 (100.0%) of 21,232 articles have been extended.
+21,232 (100.0%) of 21,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### මැණික් සොයන්න ගිය පුද්ගලයෙකුට දිවි අහිමි වෙයි
+### Search for gems will lose their lives
 
 *2024-04-27 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196017) · `si`
 
-හොරණ පෝරුවදණ්ඩ ප්‍රදේශයේ කළුගඟේ මැණික් ගරමින් සිටි පුද්ගලයෙකු දියේ ගිලි මියගොස් තිබේ.
+A man in Kaluwadu, Horana, died after being admitted to Horana Hospital with a serious condition.
 
-පොලීසිය සඳහන් කළේ ඊයේ (26) දහවල් කාලයේ මෙම පුද්ගලයා කළු ගඟේ මැණික් ගරමින් සිටින අතර වාරයේ දියේ ගිලි බරපතළ තත්ත්වයෙන් හොරණ රෝහලට ඇතුළත් කර ඇති අතර එහිදී ඔහු මියගොස් ඇති බවය.
+🟩
+
+A man in Kaluwadu area in Horana was dead.
+
+The police said that the man was prevalent yesterday (26) and was admitted to the Horana Hospital with a serious situation.
 
 ◼️
 
 [Data](articles/9162ea73.json)
+
+[Extended Data](ext_articles/9162ea73.ext.json)
+
+---
+
+### Police arrest suspect with 30 kgs of Ice, hash
+
+*2024-04-27 08:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-suspect-with-30-kgs-of-Ice-hash/108-281490) · `en`
+
+Kaduwela, April 27 (Daily Mirror) - A 30-year-old man was arrested by the Biyagama Police in Kaduwela for possession of a substantial haul of narcotics.
+
+Police said the suspect was carrying 15 kilograms of ICE, 14 kilograms of hash and 941 grams of heroin at the time of the arrest.
+
+◼️
+
+[Data](articles/a3641152.json)
 
 ---
 
@@ -63,6 +83,30 @@ The general public is advised to take adequate precautions to minimize damages c
 ◼️
 
 [Data](articles/74591e6d.json)
+
+[Extended Data](ext_articles/74591e6d.ext.json)
+
+---
+
+### Evening thundershowers expected today; temperatures to reach ‘Caution’ level
+
+*2024-04-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98875/evening-thundershowers-expected-today-temperatures-to-reach-caution-level) · `en`
+
+The Meteorology Department says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 2 p.m.
+
+Showers or thundershowers are likely in the North-central province in the evening or at night.
+
+Showers or thundershowers may occur at a few places over the coastal areas from Galle to Hambantota via Matara during the morning too.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Against this backdrop, the Meteorology Department issued a Heat Index Advisory for Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and in Monaragala district.
+
+...
+
+[Data](articles/f23ed014.json)
 
 ---
 
@@ -855,6 +899,8 @@ For five years the governments have thumbed their noses at the Catholic church l
 ...
 
 [Data](articles/2bcb7609.json)
+
+[Extended Data](ext_articles/2bcb7609.ext.json)
 
 ---
 
@@ -2157,47 +2203,5 @@ Blinken’s trip to China – his second in the space of a year – comes as the
 [Data](articles/3cdabf4b.json)
 
 [Extended Data](ext_articles/3cdabf4b.ext.json)
-
----
-
-### A second-review
-
-*2024-04-26 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/182015) · `ta`
-
-"Odi," a crime thriller, features dense storytelling, brilliant visuals, and a compelling screenplay. It follows the journey of Karimedu Tyagu, who goes missing, leading to the murder of Parvati, a jewelry shop worker. The film explores the connection between Tyagu's disappearance and Parvati's murder, with a focus on the police investigation. Despite some logic inconsistencies, the film's strength lies in its unique narrative and performances, particularly by Taman Kumar and the ensemble cast.
-
-🟩
-
-Today's trend is a dense screen story, a brilliant visual system, and less logic violations for films in the crime thriller jainer.. Will the fans be welcomed for the movie 'Odi', which has been released?Not available?We will continue to see.
-
-Segaran (M. S.. Bhaskar), the ordinary man, Karimedu Tyagu. Ramamurthy, a local Dada+ Kanduvattikkar, leaves home with interest and original money to repay the loan bought by Rs.. He did not return home for a long time. Shocked by this, Sakuntala (Sri Ranjani), his wife, complains to the police. Police have registered a case as the missing person. A young woman named Parvati (Nikita), who works in a jewelery shop while investigating the police, is murdered. Does the missing Shekaran and the murdered Parvati have any connection?What is the background of this?Who killed?What is Sekaran?The film's brilliant screenplay.
-
-...
-
-[Data](articles/86b922bd.json)
-
-[Extended Data](ext_articles/86b922bd.ext.json)
-
----
-
-### SS Mudali appointed to work in general area General Manager
-
-*2024-04-26 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195993) · `si`
-
-SS Mudali, appointed as General Manager, will temporarily fill the Railway General Manager position vacated by Mr. W.Bandara's death.
-
-🟩
-
-SS Director General of the Ministry of Transport and Highways to cover duties as the vacant Railway General Manager. Mudalige has been appointed.
-
-H. Wickremesinghe of General Manager. M. K. Mr. W.Bandara had recently passed away.
-
-Accordingly, an officer has been appointed to cover its duties until the vacancy is appointed by the Cabinet.
-
-◼️
-
-[Data](articles/6d7c0935.json)
-
-[Extended Data](ext_articles/6d7c0935.ext.json)
 
 ---

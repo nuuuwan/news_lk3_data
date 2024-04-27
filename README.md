@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 10:34:08**
+As of **2024-04-27 10:51:21**
 
 ## Newspaper Stats
 
-*Scraped **21,245** Articles*
+*Scraped **21,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,151
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
-tamilmirrorlk | 2,457
-adaderanalk | 2,527
+tamilmirrorlk | 2,458
+adaderanalk | 2,528
 virakesarilk | 3,199
 dailymirrorlk | 3,314
-adaderanasinhalalk | 3,426
+adaderanasinhalalk | 3,427
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,244 (100.0%) of 21,245 articles have been extended.
+21,245 (100.0%) of 21,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### Taiwan rattled by quakes again, no immediate reports of damage
+
+*2024-04-27 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98878/taiwan-rattled-by-quakes-again-no-immediate-reports-of-damage) · `en`
+
+Two earthquakes, the largest a 6.1 magnitude, struck Taiwan’s eastern county of Hualien on Saturday, the island’s weather administration said, with no immediate reports of damage.
+
+The quakes, within half an hour of each other in the early hours of the morning, shook buildings in the capital, Taipei.
+
+The first quake had a depth of 24.9 km (15.5 miles) and hit just off Hualien’s coast, while the second with a magnitude of 5.8 had a depth of 18.9 km (11.7 miles) and hit a similar location, Taiwan’s weather administration said.
+
+Taiwan has been hit by more than 1,000 aftershocks since a 7.2 magnitude quake struck Hualien earlier this month, killing 17 people.
+
+Taiwan lies near the junction of two tectonic plates and is prone to earthquakes.
+
+More than 100 people were killed in a quake in southern Taiwan in 2016, while a 7.3 magnitude quake killed more than 2,000 people in 1999.
+
+◼️
+
+[Data](articles/726d3be7.json)
+
+---
+
+### තරුණයෙක් අවාසනාවන්ත ලෙස දිවියට සමුදෙයි
+
+*2024-04-27 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196018) · `si`
+
+වැලිකන්ද,  සිංහපුර මාර්ගයේ 07 වන කිලෝ මීටර් කණුව අසල සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ අදාළ තරුණයා යතුරුපැදයකින් ගමන් කරමින් සිටියදී මාර්ගයේ සිටි ගවයෙකුගේ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුරින් බරපතළ තුවාල ලැබූ යතුරුපැදිකරු සහ පසුපැදිකරු වැලිකන්ද රෝහලට ඇතුළත් කිරීමේදී පැදිකරු මියගොස් ඇත.
+
+◼️
+
+[Data](articles/aed4a924.json)
+
+---
+
+### மைத்திரி வழங்கிய இரகசிய வாக்குமூலம் வெளியான
+
+*2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியான/175-336398) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன குற்றப் புலனாய்வுத் திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலத்தை பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் வெளியிட்டுள்ளார்.
+
+இதில், இந்நாட்டு பிரஜையோ அல்லது இந்த நாட்டில் இருக்கும் வேறு நாட்டு பிரஜையோ ஏப்ரல் - 21 பயங்கரவாதத் தாக்குதலில் ஈடுபடவில்லை என தெரிவித்ததாக அவர் குறிப்பிட்டார்.
+
+அத்துடன் விசாரணைகள் நடைபெற்று வருவதால் சில உண்மைகளை வெளியிட முடியாது எனவும், அவர் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/e8189de5.json)
+
+---
 
 ### Sri Lanka tax collections up 54-pct in 2023, exceeds revised target, deficit lower
 
@@ -662,25 +716,33 @@ The committee was headed by an additional secretary to the ministry and was made
 
 ---
 
-### 'කුකුල් කේන්තිය' අවාසනාවන්ත ඉරණමකින් කෙළවර නොවන්නට ඔබ දැන ගත යුතු දේ
+### What you should know if 'chicken is "unhappy fate
 
 *2024-04-27 03:20:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd19v2k74r5o) · `si`
 
-'කුකුල් කේන්තිය' අවාසනාවන්ත ඉරණමකින් කෙළවර නොවන්නට ඔබ දැන ගත යුතු දේ
+"Chicken" symbolizes an "unhappy fate," reflecting broader societal issues like violence and anger. Experts discuss the causes, such as childhood trauma, societal violence, and the influence of drugs and alcohol, leading to impulsive and harmful actions. They emphasize the importance of early intervention and stress management to mitigate these issues.
 
-ඉහත දැක්වෙන කියමන් අප එදිනෙදා ජීවිතයේ පුද්ගලයින් ඇසුරු කිරීමේදී පමණටත් වඩා අසා තිබේ. එපමණක් නොව එවැනි අධික ලෙස කෝපයට පත්වන පුද්ගලයින් ද අපට අපගේ ජීවිතය තුළ විවිධ අවස්ථාවලදී හමු වී තිබේ.
+🟩
 
-'හදිසි කෝපය' ඉතා සරල දෙයක් ලෙස මතුපිටින් පෙනුන ද එය පාලනය කර නොගැනීම නිසා සිදුවන අවාසනාවන්ත සිදුවීම් විටෙක මරණයකින් පවා කෙළවර වන අවස්ථා අපි දැක ඇත්තෙමු.
+What you should know if 'chicken is "unhappy fate
 
-මෙරට සිවිල් සමාජය තුළ දෛනිකව වාර්තා වන, සංවිධානාත්මක අපරාධ හෝ පාතාල ක්‍රියා නොවන පුද්ගල ඝාතන සම්බන්ධයෙන් විමසා බැලීමේදී ද හදිසි කෝපය ඒ සඳහා ඉවහල් වී ඇති ආකාරය ඇතැම් අවස්ථාවලදී පැහැදිලි වෙයි.
+The foregoing sayings is more than just as we associate with the people of everyday life. Moreover, such highly angry people have also met in our lives.
 
-ගාල්ල, කරාපිටිය ශික්ෂණ රෝහලේ විශේෂඥ මනෝවෛද්‍ය රූමි රූබන් බීබීසී සිංහල සමග අදහස් දක්වමින් සඳහන් කළේ, කෝපය ඇති වීමට බොහෝ අවස්ථාවලදී කලකිරීම හේතු වන බව ය.
+We have seen when the unfortunate events caused by the surface of 'snap' as a simple thing.
 
-ඊට අමතරව පුද්ගලානුබද්ධ අත්දැකීම් ද ඊට හේතුවන බව ඔහු පෙන්වා දුන්නේ ය.
+Inquiries regarding the murders of organized criminal or non-underworld in the civil society of Sri Lanka, the sudden anger will also be clear.
+
+Specialist psychological advice in Galle, Karapitiya Teaching Hospital Specialist psychological Ruben BBC BBC.
+
+He also pointed out that the experience of persons of persons united.
+
+"That is because of childhood and physical persecution. Or because the person lives in a society where violence is normal. For these reasons, some people become violent, more violent than others, get worse, they can easily damage another person. "
 
 ...
 
 [Data](articles/695f88de.json)
+
+[Extended Data](ext_articles/695f88de.ext.json)
 
 ---
 
@@ -2109,77 +2171,5 @@ Later last week, the woman was taken to the orphaned house and the brother added
 [Data](articles/9a4a8642.json)
 
 [Extended Data](ext_articles/9a4a8642.ext.json)
-
----
-
-### நீதிமன்ற தீர்ப்புக்கு முன் வழக்கு தீர்ப்பு  வெளிவந்திருப்பது தொடர்பில் விசாரணை நடத்த வேண்டும் - ஹரீன்
-
-*2024-04-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182007) · `ta`
-
-Opposition PM Lakshman Kiriella criticizes the verdict's issuance before court ruling, suggesting intervention. Minister Harin Fernando calls for a select committee to investigate. Two out of three judges involved in the case have issued verdicts, raising suspicions.
-
-🟩
-
-Opposition Prime Minister Lakshman Kiriella said that the verdict of the case against us was not yet issued.. This is a massive violation of privilege.
-
-At the same time, suspicion arises as to whether the law has been intervened. Minister Harin Fernando said the select committee should be set up and investigated on how the verdict came out without a court verdict.
-
-He said this in a statement on Friday (26) in Parliament.
-
-The opposition prime minister said in the verdict of the case against us.
-
-Of the three judges who were in the case against us, 2 judges have issued the verdict and a judge does not give it.. அதனால் விரைவாக வழக்கிற்கு  தீர்ப்பை வழங்காவிட்டால் அவரின் பெயரை வெளியிடுவதாகவும் குறிப்பிட்டிருந்தார்.
-
-This claim of Lakshman Kiriella MP can violate massive privilege. At the same time, I doubt whether there is interventions in this case.
-
-So before the court ruled, the select committee should set up and investigate how the verdict came out.
-
-...
-
-[Data](articles/02e8466f.json)
-
-[Extended Data](ext_articles/02e8466f.ext.json)
-
----
-
-### 14 hour water cut in Colombo tomorrow
-
-*2024-04-26 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195997) · `si`
-
-Tomorrow, Colombo will experience a 14-hour water cut from 5 pm to 7 am, affecting Mount Lavinia and Moratuwa. Maintenance in Colombo 5 and 6, Dehiwala - Mount Lavinia, Moratuwa, and Pelawatta areas has suspended water cuts.
-
-🟩
-
-The National Water Supply and Drainage Board says that the water cut will be imposed tomorrow from 5 pm, Colombo - Mount Lavinia and Moratuwa.
-
-The Board said that the water cut in Colombo 5 and 6, Dehiwala - Mount Lavinia and Moratuwa and Pelawatta areas have been suspended due to an essential maintenance.
-
-The water cut will be imposed tomorrow 5am to 07 am on Sunday.
-
-◼️
-
-[Data](articles/181a5956.json)
-
-[Extended Data](ext_articles/181a5956.ext.json)
-
----
-
-### Sri Lanka to hand management of China-built airport to India, Russia companies
-
-*2024-04-26 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-hand-management-of-China-built-airport-to-India-Russia-companies/108-281435) · `en`
-
-COLOMBO, April 26 (Reuters) - Sri Lanka will hand over management of its $209 million Chinese-built airport to two Indian and Russian companies, a cabinet statement said on Friday, as the island nation attempts to reduce losses from its state enterprises.
-
-Mattala Rajapaksa International Airport (MRIA), funded by China EXIM Bank, has stoked controversy since its opening in 2013 due to a low number of flights, environmentally sensitive location and persistent financial losses.
-
-The airport's management will be handed over to Shaurya Aeronautics (Pvt) Ltd. of India and Airports of Regions Management Company of Russia for 30 years, a cabinet statement said, without mentioning the deal value.
-
-Sri Lanka is negotiating with China EXIM Bank to restructure the airport loan, part of $4.2 billion borrowed for other infrastructure projects.
-
-...
-
-[Data](articles/19c4e3ed.json)
-
-[Extended Data](ext_articles/19c4e3ed.ext.json)
 
 ---

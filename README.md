@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 17:54:02**
+As of **2024-04-27 18:08:59**
 
 ## Newspaper Stats
 
-*Scraped **21,284** Articles*
+*Scraped **21,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,773
 tamilmirrorlk | 2,463
 adaderanalk | 2,538
 virakesarilk | 3,201
-dailymirrorlk | 3,316
-adaderanasinhalalk | 3,440
+dailymirrorlk | 3,317
+adaderanasinhalalk | 3,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,284 (100.0%) of 21,284 articles have been extended.
+21,284 (100.0%) of 21,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### ඊජිප්තුවෙන් ලූනු ගේන්න සාකච්ඡා
+
+*2024-04-27 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196033) · `si`
+
+වෙළෙඳ වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු මහතා හා ඊජිප්තු තානාපති  Maged Mosleh මහතා අතර සාකච්ඡාවක් පවත්වා තිබේ.
+
+මෙහිදී අමාත්‍යවරයා ඊජිප්තුවෙන් මෙරටට ලූනු ගෙන්වීමට ඇති හැකියාව සම්බන්ධයෙන්ද තානාපතිවරයාගෙන් විමසා තිබේ.
+
+◼️
+
+[Data](articles/46b13218.json)
+
+---
+
+### Sri Lanka-Russia discuss defence cooperation, cyber security
+
+*2024-04-27 17:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Russia-discuss-defence-cooperation-cyber-security/108-281492) · `en`
+
+Colombo, April (Daily Mirror)- Defence Secretary Kamal Gunaratne met Secretary of the Security Council of the Russian Federation where they discussed a wide range of topics, including counter-terrorism efforts, cyber security and defence cooperation, the Ministry of Defence said.
+
+The meeting took place recently in line with the 12th International Meeting on Security Matters held in Saint Petersburg, Russia attended by high-ranking officials from around the world.
+
+The meeting between the two secretaries underscored the importance of fostering international cooperation and collaboration in addressing security threats and promoting peace and stability in the region.
+
+Both parties expressed their commitment to strengthening bilateral ties and exploring avenues for enhanced cooperation in the security domain.
+
+...
+
+[Data](articles/b8d49bf5.json)
+
+---
 
 ### Indian high commissioner meets with Basil
 
@@ -2121,59 +2153,5 @@ Just last year, 20 million tourists came to walk through its alleyways. After ha
 [Data](articles/971dc53c.json)
 
 [Extended Data](ext_articles/971dc53c.ext.json)
-
----
-
-### Beef asking for pleasure at prison
-
-*2024-04-26 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196008) · `si`
-
-A powerful drug trafficker seeks a fan due to heat, leading to demands from the CID. The Criminal Investigation Department (CID) and the case against the indictments were highlighted. The President's Counsel Sampath Mendis, representing "Beef Sampantha," charged the police in court for surveillance and harassment. Judge Damith Thotawatte proposed using only voice-free CCTV cameras. The State Counsel argued that prison facilities do not allow for the applicant's requests. The High Court Judge informed the Terrorism Division director of all demands for the suspects, emphasizing the unsuitability of the government lawyer and the online procedure for security reasons. The accused's lawyer asked for a return to court.
-
-🟩
-
-There is a strong drug traveler, a powerful drug traveler, a powerful drug traveler to give him a fan, as there is a strong heat.
-
-එමෙන්ම ඔහු ඉල්ලා ඇත්තේ තමාට කියවීමට පොත් හෝ පුවත්පත් ලබාදෙන ලෙසය.
-
-These demands were made by the Criminal Investigation Department (CID) and the case against the indictments filed against the indictment against the indictments.
-
-තංගල්ල පැරණි බන්ධනාගාරයේ පිහිටි රැඳවුම් මධ්‍යස්ථානයේ සිට හරක් කටා නඩු වාරයට රැගෙන විත් තිබිණි.
-
-නීතිපතිවරයා වෙනුවෙන් පෙනීසිටි රජයේ නීතිඥ සජිත් බණ්ඩාර මහතා එහිදී දැනුම් දුන්නේ ඉකුත් නඩු වාරයේදී විත්තිය ඉල්ලූ පරිදි සැකකරුට නීතිඥයින් සහ ඥාතීන් හමුවීමට පහසුකම් සැලසූ බවය.
-
-However, President's Counsel Sampath Mendis appearing on behalf of "Beef Sampantha" made several charges in court.
-
-He said that when legal and relatives arrived to meet the suspect, the police officers are closely and recorded.
-
-එය ඔවුන්ට අදහස් හුවමාරු කරගැනීමට බාධාවක් මෙන්ම සාධාරණ නඩු විභාගයක් සඳහා ඇති අයිතිය උල්ලංඝනය කිරීමක් බවටයි ඔහු චෝදනා කළේය.
-
-...
-
-[Data](articles/d1f7271b.json)
-
-[Extended Data](ext_articles/d1f7271b.ext.json)
-
----
-
-### High Posts Committee green-lights several new appointments
-
-*2024-04-26 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98872/high-posts-committee-green-lights-several-new-appointments) · `en`
-
-The Committee on High Posts has green-lighted the appointment of a new ambassador, a ministerial secretary and two chairpersons to state institutions.
-
-• Mr. A.C.M. Nafeel – Secretary to Ministry of Water Supply and Estate Infrastructure Development
-
-• Mr. W.A.D.S. Gunasinghe – Chairman of Regional Development Bank
-
-• Mr. N.K.S. Jayasekara – Chairman of Sri Lanka Atomic Energy Regulatory Council
-
-Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen participated in the recent meeting of the High Posts Committee which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/e0f37658.json)
-
-[Extended Data](ext_articles/e0f37658.ext.json)
 
 ---

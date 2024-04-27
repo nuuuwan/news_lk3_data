@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 20:18:29**
+As of **2024-04-27 20:34:20**
 
 ## Newspaper Stats
 
-*Scraped **21,295** Articles*
+*Scraped **21,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,91 @@ tamilmirrorlk | 2,464
 adaderanalk | 2,540
 virakesarilk | 3,201
 dailymirrorlk | 3,318
-adaderanasinhalalk | 3,445
+adaderanasinhalalk | 3,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,291 (100.0%) of 21,295 articles have been extended.
+21,295 (100.0%) of 21,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### “அவனை கொன்று விட்டேன். அவனால் இனி வர முடியாது” நடந்தது என்ன?
+### දුප්පතාට බෙදන සහල් ටිකත් හොරකම් කළ හැටි
+
+*2024-04-27 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196038) · `si`
+
+මේ දිනවල ක්‍රියාත්මක අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ වැඩසටහනේදී විවිධ අක්‍රමිතා සහ දූෂණ සිදුවීම් කිහිපයක් වාර්තාවී තිබේ.
+
+අඩු ආදායම්ලාභී පවුල් මිලියන 2.74ක් සඳහා සහල් බෙදාදීමේ ජනාධිපතිවරයාගේ වැඩපිළිවෙළ යටතේ මේ වනවිට දිවයින පුරා සහල් බෙදීම සිදුකෙරේ.
+
+තෝරාගත් ප්‍රතිලාභී පවුල් සඳහා සහල් කිලෝ 10 බැගින් බෙදාදීම සිදුවන්නේ ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමිනි.
+
+මෙම සහල් නොමිලේ ජනතාවට ලබාදෙන නමුත් තංගල්ල, නෙටොල්පිටිය, වැලිපැන්න, ලාලිතපුර ගම්මානයේ ජනතාව චෝදනා කරන්නේ තමන්ට සහල් ලබාගැනීමට මුදල් ගෙවීමට සිදුවූ බවය.
+
+ඒ අනුව රුපියල් 20 සිට රුපියල් 150 දක්වා විවිධ ප්‍රමාණයෙන් මුදල් ගෙවීමට ඔවුන්ට සිදුව තිබේ.
+
+මේ සම්බන්ධයෙන් අප හම්බන්තොට දිස්ත්‍රික් ලේකම්වරයාගෙන් විමසූ විට ඔහු පැවසුවේ ජනතාවට බෙදාදීමට තිබූ සහල් තොගවල ආරක්ෂාවට සිටි පුද්ගලයාට ගෙවීම සඳහා ජනතාවගෙන් මෙලෙස මුදල් එකතු කර ලබාදී ඇති බවට වාර්තා වූ බවය.
+
+කෙසේවෙතත් මේ සම්බන්ධයෙන් කරුණු සොයා බලා අදාළ නිලධාරීන්ට නිසි ක්‍රියාමාර්ග ගන්නා බවත් ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/abb3acbd.json)
+
+---
+
+### “I have killed him. He can't come anymore ”What happened?
 
 *2024-04-27 20:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவனை-கொன்று-விட்டேன்-அவனால்-இனி-வர-முடியாது-நடந்தது-என்ன/175-336403) · `ta`
 
-குளியாபிட்டிய பிரதேசத்தில் காதலியின் வீட்டுக்குச் சென்ற 36 வயதான சுசித ஜயவன்ச என்ற இளைஞன் காணாமல் போயுள்ளார்.
+Susitha Jayawansa, a 36-year-old hotel owner, disappeared after visiting his girlfriend in Kiliyapitiya. His friend received a call from the house owner, Singhiti, who claimed to have killed him. Police are investigating and have seized a vehicle.
 
-இந்த இளைஞன் குறித்த பகுதியில் ஹோட்டல் ஒன்றை நடத்தி வரும் நிலையில், இவர் கடந்த ஆறு நாட்களாக காணாமல் போயுள்ளார்.
+🟩
 
-இவர் கடந்த 22ஆம் திகதி குளியாப்பிட்டி வஸ்ஸாவுல்ல பிரதேசத்தில் உள்ள தனது காதலியின் வீட்டிற்கு தனது கடையின் ஊழியர் ஒருவருடன் சென்றுள்ளார்.
+36 -year -old Susitha Jayawansa, a young man who went to a girlfriend's house in Kiliyapitiya, has disappeared.
 
-அவர் குறித்த வீட்டிற்குச் சென்ற நேரம் முதல் அவரைப் பற்றிய எந்தத் தகவலும் கிடைக்கவில்லை.
+He has been missing for the past six days as the young man is running a hotel in the area.
 
-இந்த நிலையில், குறித்த இளைஞன் சென்றதாக கூறப்படும் வீட்டின் உரிமையாளரான சிங்கிதி என்ற நபரால், சுசிதவின் நண்பருக்கு தொலைபேசி அழைப்பு வந்துள்ளது.
+He had gone to his girlfriend's house in the Kuliyapitiya Wassaulla area on the 22nd with a shopkeeper.
 
-“செவ்வாய்க்கிழமை இரவு 7:58 மணிக்கு சிங்கிதி என்ற நபர் எனக்கு போன் செய்தார். அப்பாவாக என் மகளுக்கு நியாயம் செய்தேன். இப்போது அதை பேசி பலனில்லை. அவனை நான் கொன்று விட்டேன். அவனால் இனி வர முடியாது" என்றார்.
+Since the time he went home, he had no information about him.
 
-சம்பவம் தொடர்பில் குளியாபிட்டிய பொலிஸார் விசாரணைகளை மேற்கொண்டு வருவதுடன், சந்தேகத்திற்கிடமான வகையில் மோட்டார் வாகனமொன்றும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. R
+In this case, Susitha's friend has received a phone call by a man named Singhiti, the owner of the house, who is said to have gone to the young man.
+
+“The person named Singhti phoned me at 7:58 pm on Tuesday night. I justified my daughter as a father. Now talking about it is not worth it. I have killed him. He can no longer come. ”
+
+Kiliyapitiya police are conducting investigations into the incident and suspiciously a motor vehicle has been seized by the police.. Remble
 
 ◼️
 
 [Data](articles/a0fe2e61.json)
 
+[Extended Data](ext_articles/a0fe2e61.ext.json)
+
 ---
 
-### ඉන්දීය සුපිරි නළු නිළියන් පිරිසකට සයිබර් අපරාධ අංශයෙන් කැඳවීමක්
+### Cyber ​​Criminal Section calls for Indian super-actors
 
 *2024-04-27 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196037) · `si`
 
-ඉන්දීය සුපිරි නළු සන්ජේ දත්, තමන්නා බාටියා ඇතුළු කලාකරුවන් පිරිසක් මහරාෂ්ට්‍ර සයිබර් අපරාධ අංශය වෙත කැඳවා තිබේ.‍
+Indian super-actors Sanjay Dutt, Batah, and artists summoned by Cyber Criminal Section for promoting IPL 2023.
 
-2023 IPL තරඟාවලිය අනවසර යෙදවුමක් ඔස්සේ ප්‍රවර්ධනය කිරීමේ චෝදනා සම්බන්ධයෙන් එසේ ඔවුන් අපරාධ අංශය වෙත කැඳවා ඇත.
+🟩
 
-එලෙස කැඳවූ පිරිස අතර සුපිරි නිළි ජැකලීන් ද අයත් බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Indian super-actor Sanjayoth teeth, Batah and artists have been summoned to the Maharatha SyBar Criminal Division.
+
+The 2023 IPL tournament has been called to the criminal section so that they are accused of promotion of the IPL tournament.
+
+Foreign media reports that between the crowd, the Jacqueline of Jacqueline.
 
 ◼️
 
 [Data](articles/61a025b8.json)
+
+[Extended Data](ext_articles/61a025b8.ext.json)
 
 ---
 
@@ -107,6 +143,8 @@ The production cost of white onions is higher due to factors such as higher seed
 ...
 
 [Data](articles/2d21e848.json)
+
+[Extended Data](ext_articles/2d21e848.ext.json)
 
 ---
 
@@ -717,6 +755,8 @@ In terms of Article 31(3) of the Constitution, the Presidential election has to 
 ...
 
 [Data](articles/5347b29f.json)
+
+[Extended Data](ext_articles/5347b29f.ext.json)
 
 ---
 
@@ -2137,21 +2177,5 @@ Two politicians, one a State Minister in present SLPP Government headed by Presi
 [Data](articles/68e67b77.json)
 
 [Extended Data](ext_articles/68e67b77.ext.json)
-
----
-
-### From global to local: Challenges for equitable local-level access to climate finance and support
-
-*2024-04-26 23:33:52* · [`dailyftlk`](https://www.ft.lk/columns/From-global-to-local-Challenges-for-equitable-local-level-access-to-climate-finance-and-support/4-761089) · `en`
-
-For climate finance and global funds, ensuring that funding reaches the local level and vulnerable
-
-Climate change impacts all sectors, administrative levels, and segments of society. Research has firmly established the need to mobilise significant resources for addressing these impacts, as well as the current gaps and shortfalls in this endeavour. According to the first Global Stocktake, which was finalised at the 28th meeting of the Conference of the Parties to the UNFCCC and the Paris Agreement (COP28) in December 2023, the adaptation finance needs of developing countries “are estimated at USD 215–387 billion annually up until 2030,” and their needs to implement their Nationally Determined Contributions (NDCs) “at USD 5.8–5.9 trillion for the pre-2030 period.”
-
-...
-
-[Data](articles/264d1ca1.json)
-
-[Extended Data](ext_articles/264d1ca1.ext.json)
 
 ---

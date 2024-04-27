@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 13:18:30**
+As of **2024-04-27 13:34:54**
 
 ## Newspaper Stats
 
-*Scraped **21,259** Articles*
+*Scraped **21,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,460
 adaderanalk | 2,532
 virakesarilk | 3,200
 dailymirrorlk | 3,314
-adaderanasinhalalk | 3,430
+adaderanasinhalalk | 3,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,259 (100.0%) of 21,259 articles have been extended.
+21,259 (100.0%) of 21,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### බියගම පොලීසිය සිදුකළ මත්ද්‍රව්‍ය වැටලීමේ තවත් තොරතුරු එළියට
+
+*2024-04-27 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196022) · `si`
+
+බියගම පොලීසියට ලැබුණු තොරතුරු අනුව සිදුකළ වැටලීමකදී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 15යි ග්‍රෑම් 81ක්, හෑෂ් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 14යි ග්‍රෑම් 527ක් සහ හෙරොයින් මත්ද්‍රව්‍ය ග්‍රෑම් 941ක් සොයාගෙන තිබුණි.
+
+ඒ බණ්ඩාරවත්ත ප්‍රදේශයේදී සැකකරුවෙකු අත්අඩංගුවට ගෙන ඔහු පදිංචි නිවස සහ නිවසේ තිබූ කාර් රථය පරීක්ෂා කිරීමේදීය.
+
+මෙහිදී අත්අඩංගුවට ගත් සැකකරු 31 හැවිරිදි බෝමරිය කඩුවෙල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරු සම්බන්ධයෙන් පොලීසියට තොරතුරු ලැබී තිබුණේ මීට පෙර අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනෙකුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදීය.
+
+ඊයේ (26) රාත්‍රියේ බණ්ඩාරවත්ත ප්‍රදේශයේ සිදුකළ වැටලීමකදී එම සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 02යි මිලිග්‍රෑම් 310ක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 05යි මිලිග්‍රෑම් 310ක් බැගින් ඔවුන් දෙදෙනා සන්තකයේ තබාගෙන සිටියදීය.
+
+පොලීසිය සඳහන් කළේ එම සැකකරුවන් 31 සහ 40 යන වයස්වල පසුවන කඩුවෙල සහ සියඹලාපේ ප්‍රදේශවල පදිංචි පුද්ගලයන් බවය.
+
+◼️
+
+[Data](articles/ded406c3.json)
+
+---
 
 ### Rotary International District 3220 Conference to Hope Sri Lanka
 
@@ -2127,27 +2151,5 @@ Accordingly, the relevant appointment will be in place until the Cabinet of Mini
 [Data](articles/05cc88c2.json)
 
 [Extended Data](ext_articles/05cc88c2.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 296.00/30 to US dollar
-
-*2024-04-26 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-296-00-30-to-us-dollar-160215/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 296.00/30 to the US dollar on Friday from 296.85/297.00 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 11.15/20 percent from 11.28/32 percent.
-
-A bond maturing on 15.09.2027 closed down at 11.55/65 percent from 11.70/80 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.90/12.00 percent from 11.95/12.05 percent.
-
-A bond maturing on 01.10.2032 closed at 12.40/50 percent. (Colombo/Apr26/2024)
-
-◼️
-
-[Data](articles/2ba306eb.json)
-
-[Extended Data](ext_articles/2ba306eb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 20:34:20**
+As of **2024-04-27 20:51:02**
 
 ## Newspaper Stats
 
-*Scraped **21,296** Articles*
+*Scraped **21,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,90 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,464
-adaderanalk | 2,540
+adaderanalk | 2,541
 virakesarilk | 3,201
 dailymirrorlk | 3,318
-adaderanasinhalalk | 3,446
+adaderanasinhalalk | 3,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,295 (100.0%) of 21,296 articles have been extended.
+21,296 (100.0%) of 21,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### දුප්පතාට බෙදන සහල් ටිකත් හොරකම් කළ හැටි
+### Indian govt allows 99.5k MT of onion exports to 6 countries including Sri Lanka
+
+*2024-04-27 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98888/indian-govt-allows-995k-mt-of-onion-exports-to-6-countries-including-sri-lanka) · `en`
+
+The Centre on Saturday said it has allowed exports of 99,500 tonnes of onions, mainly sourced from Maharashtra, to six neighbouring countries despite the ban on shipments.
+
+The Centre has also allowed exports of 2,000 tonnes of white onion cultivated, especially, for export markets in the Middle East and some European countries.
+
+On December 8, 2023, the government banned export of onions.
+
+In an official statement, the Ministry of Consumer Affairs, Food & Public Distribution said the government has “allowed export of 99,150 tonnes of onion to six neighbouring countries of Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka”.
+
+The export prohibition has been imposed to ensure adequate domestic availability against the backdrop of estimated lower Kharif and Rabi crops in 2023-24 compared to the previous year.
+
+The ban was imposed amid an increase in demand in the international market, it added.
+
+...
+
+[Data](articles/3537b4fd.json)
+
+---
+
+### දරුවෙක් දියේ ගිලුනොත් මුලින්ම කරන්න ඕන දේ මෙන්න
+
+*2024-04-27 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196039) · `si`
+
+දියේ ගිලී අනතුරකට ලක්වූ දරුවෙකුගේ ජීවිතය බේරාගැනීමට කඩිනමින් කළ යුතු ප්‍රතිකාර මොනාවද යන්න පිළිබඳව ළමා රෝග විශේෂඥ ව්‍යෛ විරාජ් ජයසිංහ මහතා කරුණු පැහැදිළි කළේය.
+
+"මුලින්ම දරුවාව දියෙන් ගොඩට අරගෙන සමතලා බිමක තියා ගන්න. ඊට පස්සේ දරුවාගේ ස්වසන මාර්ගය විවෘත කරන්න. මුඛයේ යම් අපද්‍රව්‍යක් තිබෙනවා නම් ඒවා ඉවත් කර ගන්න. ඊට පස්සෙත් එයා හුස්ම ගන්නේ නැත්නම් නාසය කට දෙකම ආවරණය වන පරිදි කෘතිම ස්වසනය වාර 5ක් ලබාදෙනවා."
+
+"ඒත් එයාගේ ප්‍රතිචාරයක් නැත්නම් අපි දරුවාගේ පපු ප්‍රදේශය තෙරපුම් වාර 15ක් ලබාදෙන්න. කුඩා දරුවක් නම් අපිට ඇඟිලි දෙකෙන් කරන්න පුළුවන්. ලොකු දරුවෙකු නම් අත්දෙනෙන් හෘදය වස්තුව තෙරපන්න පුළුවන්. අපි බඩ ප්‍රදේශ තෙරපුවොත් හෝ නැත්නම් දරුවාගේ කකුල් දෙකෙන් ඉස්සුවොත් දරුවාගේ බඩේ තියෙන වතුර එළියට ගිහිල්ලා නැවත් ස්වසන මාර්ගයට ඇතුළු වෙලා නැවත පෙනහලුවලට ගිහිල්ලා තවත් හානි වෙන්න පුළුවන්."
+
+"තාම එයාගේ ප්‍රතිචාරයක් නැත්නම් නැවත අපි ස්වසන වාරා දෙකක් ලබාදීලා නැවතත් තෙරපුම් 15ක් ලබාදෙනවා. මේ වගේ අපි දිගටම මේක කරගෙන යනවා අපිට උදව් ලැබෙනකම් හරි... දරුවාගෙන් යම් ප්‍රතිචාරයක් ලැබෙනකම්ම."
+
+◼️
+
+[Data](articles/ed69d72f.json)
+
+---
+
+### How stealing the rice divided into the poor
 
 *2024-04-27 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196038) · `si`
 
-මේ දිනවල ක්‍රියාත්මක අඩු ආදායම්ලාභී පවුල් සඳහා සහල් බෙදාදීමේ වැඩසටහනේදී විවිධ අක්‍රමිතා සහ දූෂණ සිදුවීම් කිහිපයක් වාර්තාවී තිබේ.
+Rice distribution for low-income families reportedly involves allegations of payment for rice in some areas, despite being free. A theft of 20 bundles of rice intended for distribution in Kantale is under investigation.
 
-අඩු ආදායම්ලාභී පවුල් මිලියන 2.74ක් සඳහා සහල් බෙදාදීමේ ජනාධිපතිවරයාගේ වැඩපිළිවෙළ යටතේ මේ වනවිට දිවයින පුරා සහල් බෙදීම සිදුකෙරේ.
+🟩
 
-තෝරාගත් ප්‍රතිලාභී පවුල් සඳහා සහල් කිලෝ 10 බැගින් බෙදාදීම සිදුවන්නේ ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමිනි.
+The rice distribution of rice for low income families these days have been reported in several acrecutical events.
 
-මෙම සහල් නොමිලේ ජනතාවට ලබාදෙන නමුත් තංගල්ල, නෙටොල්පිටිය, වැලිපැන්න, ලාලිතපුර ගම්මානයේ ජනතාව චෝදනා කරන්නේ තමන්ට සහල් ලබාගැනීමට මුදල් ගෙවීමට සිදුවූ බවය.
+Rice divided over the island widespread for 2.74 million rice distribution families.
 
-ඒ අනුව රුපියල් 20 සිට රුපියල් 150 දක්වා විවිධ ප්‍රමාණයෙන් මුදල් ගෙවීමට ඔවුන්ට සිදුව තිබේ.
+Distributing 10 kg of rice for selected beneficiary families is distributed by Divisional Secretariats.
 
-මේ සම්බන්ධයෙන් අප හම්බන්තොට දිස්ත්‍රික් ලේකම්වරයාගෙන් විමසූ විට ඔහු පැවසුවේ ජනතාවට බෙදාදීමට තිබූ සහල් තොගවල ආරක්ෂාවට සිටි පුද්ගලයාට ගෙවීම සඳහා ජනතාවගෙන් මෙලෙස මුදල් එකතු කර ලබාදී ඇති බවට වාර්තා වූ බවය.
+The rice will be given to the people free of charge, but the people of the Welipenna, Welipenna and Lalithapura village are alleged that he had to pay rice to get rice.
 
-කෙසේවෙතත් මේ සම්බන්ධයෙන් කරුණු සොයා බලා අදාළ නිලධාරීන්ට නිසි ක්‍රියාමාර්ග ගන්නා බවත් ඔහු සඳහන් කළේය.
+Accordingly, they have to pay a variety of Rs. 20 to Rs. 150.
+
+When we asked the Hambantota District Secretary in this regard, he said that he had reported that the people were collected from the people who were to be provided with the security of the rice to the people.
+
+However, he said that however, appropriate action will be taken to investigate this matter.
+
+Meanwhile, a person has stolen 20 bundles of rice stored in a rice stored in the official shade building to distribute the low income of the Kantale.
 
 ...
 
 [Data](articles/abb3acbd.json)
+
+[Extended Data](ext_articles/abb3acbd.ext.json)
 
 ---
 
@@ -2141,41 +2189,5 @@ Police said they had taken steps to appear in court after investigations.R
 [Data](articles/196f9f10.json)
 
 [Extended Data](ext_articles/196f9f10.ext.json)
-
----
-
-### U.S. Under Secretary pledges support for Sri Lanka’s dairy modernization efforts
-
-*2024-04-26 23:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98874/us-under-secretary-pledges-support-for-sri-lankas-dairy-modernization-efforts) · `en`
-
-Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), Alexis Taylor, paid a courtesy call on President Ranil Wickremesinghe on Friday (26).
-
-During the discussions, the Sri Lankan leader was briefed on the ongoing dairy modernization program supported by the U.S.
-
-In response, Wickremesinghe welcomed the program, stating that it would complement the island-wide dairy expansion projects.
-
-Further, the President has outlined the government’s agriculture modernization efforts, emphasizing the importance of attracting a greater level of youth involvement in the sector. The U.S. delegation expressed their support for these initiatives, pledging to provide necessary assistance.
-
-◼️
-
-[Data](articles/3b5fcba5.json)
-
-[Extended Data](ext_articles/3b5fcba5.ext.json)
-
----
-
-### Thevarapperuma a deformed version of a “Clean” MP
-
-*2024-04-26 23:35:46* · [`dailyftlk`](https://www.ft.lk/columns/Thevarapperuma-a-deformed-version-of-a-Clean-MP/4-761090) · `en`
-
-The cumulative factor of electing MPs on ethno-religious and caste preferences with ability to have personal issues addressed through them, have given the “vote” a completely contradictory reason for use, to what it is meant for. Within that distorted individualised purpose of using the vote left unquestioned, the likes of JVP/NPP now wants people to vote for candidates who would in their electorate “serve the people” and they pose as the most suitable candidates to “serve the people”. In plain language, Thevarapperumas do not “serve the people” as Nalinda Jayatissa says. They respond to individual requests
-
-Two politicians, one a State Minister in present SLPP Government headed by President Wickremesinghe and the other a former State Minister under incumbent President Wickremesinghe’s previous “Yahapalana” rule, had tragic, unexpected deaths. One in a road accident and the other in an electrocution in his own land. The two had two different social responses over their deaths.
-
-...
-
-[Data](articles/68e67b77.json)
-
-[Extended Data](ext_articles/68e67b77.ext.json)
 
 ---

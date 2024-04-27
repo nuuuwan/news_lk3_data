@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 07:54:11**
+As of **2024-04-27 08:05:21**
 
 ## Newspaper Stats
 
-*Scraped **21,215** Articles*
+*Scraped **21,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,81 @@ colombotelegraphcom | 181
 bbccomsinhala | 222
 dbsjeyarajcom | 224
 newsfirstlk | 363
-islandlk | 1,142
+islandlk | 1,148
 dailyftlk | 1,202
 economynextcom | 1,203
 adalk | 1,771
-tamilmirrorlk | 2,452
+tamilmirrorlk | 2,455
 adaderanalk | 2,523
 virakesarilk | 3,199
 dailymirrorlk | 3,310
-adaderanasinhalalk | 3,423
+adaderanasinhalalk | 3,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,215 (100.0%) of 21,215 articles have been extended.
+21,215 (100.0%) of 21,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
+
+### இன்று மழை பெய்யும் - வெப்பநிலை அதிகரிக்கும்...
+
+*2024-04-27 07:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யும்-வெப்பநிலை-அதிகரிக்கும்/175-336397) · `ta`
+
+மேற்கு, சப்ரகமுவ, மத்திய, தெற்கு, வடமேற்கு மற்றும் ஊவா மாகாணங்களில் இன்று பிற்பகல் 2.00 மணிக்கு பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+வடமத்திய மாகாணத்தில் மாலை அல்லது இரவில் ஒரு சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+காலியில் இருந்து மாத்தறை ஊடாக ஹம்பாந்தோட்டை வரையான காலப்பகுதியில் ஒரு சில இடங்களில் காலை வேளையில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில்  அதிகபட்சமாக 75 மி.மீ. அளவில் கனமழைக்கு வாய்ப்புள்ளது.
+
+மேற்கு, சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் காலை வேளையில்  பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களை கோரியுள்ளது.
+
+...
+
+[Data](articles/556f907f.json)
+
+---
+
+### දුම්රිය ආසන වෙන් කිරීමේ අර්බුදය
+
+*2024-04-27 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196015) · `si`
+
+අන්තර්ජාලය ඔස්සේ දුම්රිය ආසන වෙන් කිරීමේ අර්බුදය  විසඳීමට බලධාරීන් මේ වනතෙක් පියවර ගෙන නොමැති බවට දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය පවසයි.
+
+එහි සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ සහකාර ප්‍රවාහන අධිකාරීවරයෙකුගේ බලතල යටතේ මෙම ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීම ප්‍රතික්ෂේප කරන බවය.
+
+මේ පිළිබඳ වැඩිදුරටත් අදහස් දක්වමින් සුමේධ සෝමරත්න මහතා පැවසුවේ දුම්රිය දෙපාර්තමේන්තුව වංචා දූෂණ රැසක් සිදුවන ස්ථානයක් බවට පත්ව ඇති බවය.
+
+◼️
+
+[Data](articles/846f2d13.json)
+
+---
+
+### சகோதரிக்கு போதையை கொடுத்து பாலியல் தொழிலில் ஈடுபடுத்திய சகோதரன்
+
+*2024-04-27 07:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சகோதரிக்கு-போதையை-கொடுத்து-பாலியல்-தொழிலில்-ஈடுபடுத்திய-சகோதரன்/71-336396) · `ta`
+
+தனது சகோதரியை பாலியல் வன்புணர்வுக்கு உட்படுத்தியதுடன், வலுக்கட்டாயமாக பாலியல் தொழிலில் ஈடுபடுத்தி வந்த குற்றச்சாட்டில் சகோதரன் கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் நகர் பகுதியை அண்டிய கிராமத்தை சேர்ந்த 34 வயதுடைய பெண்ணொருவர் தனது பெற்றோர் உயிரிழந்த நிலையில் , சகோதரியுடன் வடமராட்சி கிழக்கு பகுதியில் உள்ள ஆதரவற்றோர் இல்லத்தில் வசித்து வந்துள்ளார்.
+
+இந்நிலையில் கடந்த டிசம்பர் மாதம் பெண்ணின் சகோதரி உயிரிழந்துள்ளார். அதனை அடுத்து ஆதரவற்றோர் இல்லத்தில் வசித்து வந்த சகோதரியை , யாழ்.நகர் பகுதியை அண்டிய பிரதேசத்தில் வாழும் சகோதரன் தன்னுடன் அழைத்து வந்து தங்க வைத்துள்ளார்.
+
+இந்நிலையில் கடந்த ஜனவரி மாதம் குறித்த பெண்ணுக்கு போதைப்பொருட்களை வலுக்கட்டாயமாக நுகர வைத்தும் , போதை ஊசிகளை செலுத்தியும் பாலியல் வன்புணர்வுக்கு கும்பல் ஒன்று உட்படுத்தி வந்துடன் பெண்ணை சித்திரவதைக்கு உள்ளாக்கியதும் வந்துள்ளது.
+
+...
+
+[Data](articles/18ad1254.json)
+
+---
 
 ### The threat of America to China
 
@@ -140,6 +196,22 @@ Parliamentarians Vajira Abeywardena and HMM at the event to hand over these dona
 
 ---
 
+### 17 சிறார்களை கடத்தியவர் கைது
+
+*2024-04-27 05:50:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-சிறார்களை-கடத்தியவர்-கைது/175-336392) · `ta`
+
+இலங்கை சிறார்களை மலேசியா ஊடாக ஐரோப்பாவிற்கு அனுப்பி ஆட்கடத்தலில் ஈடுபட்ட நபர் குடிவரவு குடியகல்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+கட்டுநாயக்க விமான நிலையத்தில் நேற்று முன்தினம்  மாலை அந்த நபர் கைது செய்யப்பட்டுள்ளார் என திணைக்களத்தின் விசாரணை அதிகாரி எம்.ஜி.வி. காரியவசம் தெரிவித்துள்ளார்.
+
+சந்தேகநபர், இலங்கையை சேர்ந்த 17 சிறார்களை சட்டவிரோதமாக நாட்டில் இருந்து வௌியேற்றி ஆட்கடத்தலில் ஈடுபட்டுள்ளார் என குற்றச்சாட்டு சுமத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/dd24fec7.json)
+
+---
+
 ### Recreating economy
 
 *2024-04-27 05:47:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டெழும்-பொருளாதாரம்/175-336391) · `ta`
@@ -165,6 +237,64 @@ In addition, interest rates, which have increased by 2023, have now been brought
 [Data](articles/fcafeedf.json)
 
 [Extended Data](ext_articles/fcafeedf.ext.json)
+
+---
+
+### CEAT’s 7th premium ‘S-I-S’ outlet in Sri Lanka opens in Kurunegala
+
+*2024-04-27 05:28:00* · [`islandlk`](http://island.lk/ceats-7th-premium-s-i-s-outlet-in-sri-lanka-opens-in-kurunegala/) · `en`
+
+Kurunegala has become the latest location to receive the CEAT premium retail experience with the opening of a new-concept Shop-in-Shop (SIS) outlet in this busy north-western metropolis by CEAT Kelani Holdings, Sri Lanka’s leading pneumatic tyre manufacturer.
+
+The seventh CEAT SIS outlet to be opened in Sri Lanka, the new outlet is located at Rohana Enterprises Kurunegala (Pvt) Ltd., at No 288C, Negombo Road, Kurunegala.
+
+Part of a three-year distribution channel expansion strategy by Sri Lanka’s most-used tyre brand, the CEAT Shop-in-Shop concept is designed to drive brand premiumisation and enhance customer experience, and entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises.
+
+...
+
+[Data](articles/5c2b49e0.json)
+
+---
+
+### Kaspersky extends business footprint to Sri Lanka
+
+*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka/) · `en`
+
+Kaspersky, the global cybersecurity and digital privacy company, announced its expansion into new territories in Asia Pacific (APAC), including Sri Lanka, Cambodia, and Bangladesh. This strategic move marks a significant milestone in the company’s mission to fortify digital infrastructure across the developing economies in the region, particularly on the enterprise cybersecurity market.
+
+As cyber threats continue to evolve and proliferate worldwide, Kaspersky recognizes the imperative of extending its holistic suite of cybersecurity solutions services to emerging markets in APAC. With its proven track record of delivering innovative solutions and expertise, the company is poised to address the escalating cybersecurity challenges faced by individuals, governments, and private organizations in Cambodia, Sri Lanka, and Bangladesh.
+
+...
+
+[Data](articles/b785f141.json)
+
+---
+
+### SriLankan Airlines and Air Seychelles embark on a codeshare partnership
+
+*2024-04-27 05:17:00* · [`islandlk`](http://island.lk/srilankan-airlines-and-air-seychelles-embark-on-a-codeshare-partnership/) · `en`
+
+SriLankan Airlines, the national carrier of Sri Lanka and Air Seychelles, the national airline of the Republic of Seychelles, have embarked on a codeshare partnership, ushering in seamless travel to multiple new destinations throughout Asia, Africa and Australia for their passengers flying between Colombo and Mahé.
+
+Connecting people and places across continents, the collaboration empowers SriLankan Airlines to amplify its position and reach in Africa and passengers of the airline to travel conveniently between Colombo and Mahé twice a week. For Air Seychelles, over 20 destinations are included in the partnership, which includes much requested destinations such as Sydney and Melbourne in Australia as well as other popular stops in India, Thailand, Malaysia and Singapore.
+
+...
+
+[Data](articles/55e505b1.json)
+
+---
+
+### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
+
+*2024-04-27 05:17:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023/) · `en`
+
+Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
+
+The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
+
+...
+
+[Data](articles/b4814955.json)
 
 ---
 
@@ -2035,185 +2165,5 @@ The surgery had been conducted for free of charge for a financial basis for doct
 [Data](articles/cf7ef083.json)
 
 [Extended Data](ext_articles/cf7ef083.ext.json)
-
----
-
-### Re-scrutinized results of O/L exam to be released before mid-May
-
-*2024-04-26 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98863/re-scrutinized-results-of-ol-exam-to-be-released-before-mid-may) · `en`
-
-The re-scrutinized results of the 2022(2023) G.C.E. O/L examination will be released before the 2023 (2024) O/L examination, Minister of Education Susil Premajayantha said.
-
-Speaking during today’s parliamentary session, Premajayantha expressed that the 2023 (2024) G.C.E O/L examination is scheduled to be commenced in the second week of May.
-
-“The G.C.E O/L examination will commence in the second week of May. The Commissioner General of Examinations informed that all re-scrutinized results will be released before that”, he said.
-
-Meanwhile, MP Gamini Waleboda recently raised concerns that due to the delay in re-scrutiny of the 2022(2023) O/L examination, students are facing issues with commencing their academic activities in the A/L classes.
-
-...
-
-[Data](articles/dcbd7d22.json)
-
-[Extended Data](ext_articles/dcbd7d22.ext.json)
-
----
-
-### Sajith wants probe into distribution of low quality rice among people
-
-*2024-04-26 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-wants-probe-into-distribution-of-low-quality-rice-among-people/108-281428) · `en`
-
-Parliament, April 26 (Daily Mirror)- Claiming that poor quality rice is being distributed among people in some areas under the government's programme to distribute free rice for April and May, Opposition Leader Sajith Premadasa today urged the government to launch an investigation into this incident.
-
-The Opposition Leader told Parliament that he appreciates the government's move to distribute rice free of charge among the low income families and said it is important to ensure that high quality rice is distributed.
-
-He said Rajitha Keerthi Tennakoon who is employed at the Presidential Secretariat has revealed in his Facebook account with photos that rice distributed in Hali Ela is of low quality.
-
-The MP requested the government to look into the matter and take steps to distribute high quality rice as this rice is for human consumption.
-
-He also said there were issues in selecting people for this programme.
-
-◼️
-
-[Data](articles/cca08acb.json)
-
-[Extended Data](ext_articles/cca08acb.ext.json)
-
----
-
-### 'I hear stories with fans in mind' - Arun Vijay
-
-*2024-04-26 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182014) · `ta`
-
-Arun Vijay stars in 'Red Thala', a film produced by BTG Universal, featuring Siddhi Idhanani, Tanya Ravichandran, and Kannada actor Karthik Yogi. Directed by Krish Thirukumaran, it's a story told with fans in mind, with Arun Vijay agreeing to act only if he likes the story. The film's music is by S. and it's being recorded by Dijo Tommy. Shooting begins in Chennai.
-
-🟩
-
-'When I hear the story to the directors who tell us the story, I hear the stories with the fans in mind. "I only agree to act in the film," Arun Vijay said.
-
-Arun Vijay, Siddhi Idhanani, Tanya Ravichandran, Kannada actor Karthik Yogi, Big Pos popular Balaji Murugadoss starring director Krish Thirukumaran directed 'Red Thala'. Sam C for this movie, which is being recorded by Dijo Tommy. S.. Composes. The film is being produced by Arun Vijay's dual role.
-
-The film was produced by BTG Universal, the Title and First Look Release Ceremony in the Star Hotel, Chennai.. Director and actor Jayam Raja participated as a special guest with the film crew.
-
-...
-
-[Data](articles/d2784fa1.json)
-
-[Extended Data](ext_articles/d2784fa1.ext.json)
-
----
-
-### 'Billa' will be released on Ajith Kumar's birthday
-
-*2024-04-26 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182013) · `ta`
-
-"Billa," a breakthrough film for Ajith Kumar, is re-released on his birthday, May 1, by GB Entertainment. It highlights the challenges and successes of young Tamil film directors, aiming for a Rs 500-1000 crore target.
-
-🟩
-
-'Billa' was one of the works that made him a breakthrough on Ajith Kumar's film journey.Ajit Kumar's 'Billa', who attracted fans in the look of stylish screen, is re-released on May 1, his birthday.Arvind Suresh Kumar and Doctor Gnanaparathi, a film company GB Entertainment, are releasing the film at the film House.
-
-...
-
-[Data](articles/630e975d.json)
-
-[Extended Data](ext_articles/630e975d.ext.json)
-
----
-
-### Energy field is a government for regulation
-
-*2024-04-26 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195991) · `si`
-
-The Energy Ministry has been given cabinet approval to form a new committee, led by the Secretary to the Secretary, to regulate the energy sector. Dr. Bandula Gunawardena, the Minister, announced this at a press conference today.
-
-🟩
-
-Cabinet approval has been given to appoint a new committee under the patronage of the Secretary to the Secretary to the Energy Ministry to regulate the energy sector.
-
-Addressing the cabinet spokesman Minister Dr. Bandula Gunawardena made this statement participating at a press conference today (26).
-
-◼️
-
-[Data](articles/3cff1daf.json)
-
-[Extended Data](ext_articles/3cff1daf.ext.json)
-
----
-
-### A man is divided in thea and distributed in the rice hell, which cannot eat
-
-*2024-04-26 13:18:48* · [`adalk`](https://www.ada.lk/breaking_news/මිනිසෙකුට-තියා-සතෙකුටවත්-කන්න-බැරි-හාල්-හාලිඇලදි-‌බෙදලා/11-409282) · `si`
-
-A man in Haliela complained about rice distribution, leading to an investigation. The Divisional Secretary confirmed government efforts to distribute rice but emphasized the importance of accurate information.
-
-🟩
-
-The winner received a rice medical officer in Haliela, Haliela, had complained to the Medical Officer of Health, Haliela.
-
-A resident of the Meditagama area in Haliela has gone to the Health Medical Officer of Health and informed the Health Medical Officer of Haliela.
-
-Mr. Haliela Public Health Inspector Dani Pradeep, Mr. Pradeep, said that a person in Haliela Medicuting has complained to the Haliel Medical Officer of Haliela, saying that the rice bag of 10 kg of rice.It is relevant to the relevant investigations.
-
-Hali-Ela Divisional Secretary WNC Weasinghe said that the government was conducting rice distribution to the public these days, but only another kilogram of rice to the people of the people.Said that a rice bag was given. Investigations are conducted in this regard, he said.
-
-◼️
-
-[Data](articles/84a9bdf3.json)
-
-[Extended Data](ext_articles/84a9bdf3.ext.json)
-
----
-
-### Explanation for a resident of a foreigner
-
-*2024-04-26 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182008) · `ta`
-
-A man who fraudulently sold a foreigner's land has been arrested. He divided the land, sold part, and donated another to his cousin. The landowner filed a complaint, leading to the suspect's arrest and interrogation.
-
-🟩
-
-A man who defrauded and sold the land of a foreigner has been arrested and placed in interrogation.
-
-A person living abroad has completed the conclusion of a relative of Jaffna to maintain his land in Jaffna.
-
-He took advantage of the morality and divided the land into three pieces and sold one portion to a person and another part of the bank.. He has donated the other land to his cousin and returned it.
-
-As the owner of the land lodged a complaint at the Jaffna Police Station, the police were investigating the complaint and arrested the man involved in the sale of the land.
-
-The Jaffna Magistrate's Court has ordered the suspect to be interrogated after investigating the arrests.
-
-◼️
-
-[Data](articles/20bf29d6.json)
-
-[Extended Data](ext_articles/20bf29d6.ext.json)
-
----
-
-### Personal Attention Struggle in Ottamavadi!
-
-*2024-04-26 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182012) · `ta`
-
-A man protested near Ottamavadi's railway crossing, damaged for years, to draw attention to the issue. He appealed to authorities to repair or allow reformation.
-
-🟩
-
-An individual was engaged in a protest on Friday (26) near the railway crossing near the Ottamavadi.
-
-The railway line that crosses the Ottamavadi public market under the Koralaipattu West Divisional Secretariat has been damaged for a long time.
-
-The man went on a struggle to take care of the authorities concerned.
-
-There are social welfare lovers who focus on the concern of the city. The place has been damaged for many years.This is an important place for several hundred people traveling.
-
-Speaking to many to repair this, it is not worth it. This is not the case of any officer.
-
-Give permission to reform this. Otherwise, rectify this, dear officers!He was involved in a protest as he hung the written post.
-
-◼️
-
-[Data](articles/9e2a7146.json)
-
-[Extended Data](ext_articles/9e2a7146.ext.json)
 
 ---

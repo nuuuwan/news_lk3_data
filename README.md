@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 07:42:02**
+As of **2024-04-27 07:54:11**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,209 (100.0%) of 21,215 articles have been extended.
+21,215 (100.0%) of 21,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### අමෙරිකාව චීනයට කළ තර්ජනය
+### The threat of America to China
 
 *2024-04-27 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196014) · `si`
 
-චීනය විසින් යුක්ක්‍රේන ගැටුම සඳහා රුසියාවට අනුබල දීම නතර නොකළහොත් ඊට එරෙහිව ක්‍රියාමාර්ග ගන්නා බව එක්සත් ජනපද රාජ්‍ය ලේකම් ඇන්ටනි බ්ලින්කන් අනතුරු අඟවා තිබේ.
+US Secretary of State Anthony Blinken warned China against supporting Russia in Ukraine, calling it a threat to European security. He also mentioned China's cooperation with Iran to escalate conflict with Israel. In response, the US may sell or ban China's TikTok.
 
-විදෙස් වාර්තා සඳහන් කළේ සීතල යුද්ධයෙන් පසු යුරෝපීය ආරක්ෂාවට දැවැන්තම තර්ජනය මෙම සහයෝගීතාව බව ඔහු පවසා ඇති බවයට.
+🟩
 
-අමෙරිකාව විසින් චීනයට එරෙහිව ගනු ලබන ක්‍රියාමාර්ග මොනවාදැයි මේවනතෙක් ප්‍රකාශ කර නොමැති බව සඳහන් වේ
+US Secretary of State Anthony Blinkelar warned that if China does not stop his support to Russia for the Ukkrane conflict.
 
-ඊශ්‍රායලය සමග ඇති ගැටුම තවදුරටත් උත්සන්න කිරීමට එරෙහිව ඉරානය සමග ඇති සබඳතාවය යොදා ගනිමින් චීනය කටයුතු කරමින් සිටින බවට එක්සත් ජනපද රාජ්‍ය ලේකම් ඇන්ටනි බ්ලින්කන් අවධාරණය කර ඇති බව වාර්තා වේ.
+He said that this cooperation has said that the greatest threat to European security after the Cold War.
 
-මෙම තත්ත්වය හමුවේ අමෙරිකාව විසින් චීනයට අයත් TikTok යෙදුම විකිණීමට හෝ අමෙරිකාවේ තහනම් කිරීමට අවශ්‍ය පියවර ගැනීමටද නියමිත බව විදෙස් වාර්තා සඳහන් කළේය.
+It is said that a statement has not been said to be measures that will be taken against China
+
+US Secretary of State Anthony Blinke has stressed that China is working with Iran to escalate the conflict with Israel.
+
+In the face of this, the US will take necessary steps to sell or prohibit China's Tiktak app for sale.
 
 ◼️
 
 [Data](articles/d60e5298.json)
+
+[Extended Data](ext_articles/d60e5298.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ An exhibition of vintage stamps and coins organized by Sri Lanka Independent Phi
 ◼️
 
 [Data](articles/f7d2c93a.json)
+
+[Extended Data](ext_articles/f7d2c93a.ext.json)
 
 ---
 
@@ -105,6 +113,8 @@ President Ranil Wickremesinghe called for a meeting of the ruling party legislat
 ...
 
 [Data](articles/c38e0eb4.json)
+
+[Extended Data](ext_articles/c38e0eb4.ext.json)
 
 ---
 
@@ -176,6 +186,8 @@ The committee was headed by an additional secretary to the ministry and was made
 
 [Data](articles/8d21edef.json)
 
+[Extended Data](ext_articles/8d21edef.ext.json)
+
 ---
 
 ### Oil and gas exploration halted by prolonged legal dispute
@@ -193,6 +205,8 @@ Accordingly, the court issued orders restraining the first to 36th respondents a
 ...
 
 [Data](articles/0a123394.json)
+
+[Extended Data](ext_articles/0a123394.ext.json)
 
 ---
 
@@ -301,6 +315,8 @@ At the lower end, the BOPs were barely steady, whilst the corresponding BOPFs we
 ...
 
 [Data](articles/3e6c82dd.json)
+
+[Extended Data](ext_articles/3e6c82dd.ext.json)
 
 ---
 

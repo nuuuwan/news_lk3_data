@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 11:53:22**
+As of **2024-04-27 12:04:33**
 
 ## Newspaper Stats
 
-*Scraped **21,256** Articles*
+*Scraped **21,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,151
 dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,771
-tamilmirrorlk | 2,459
-adaderanalk | 2,531
+tamilmirrorlk | 2,460
+adaderanalk | 2,532
 virakesarilk | 3,200
 dailymirrorlk | 3,314
 adaderanasinhalalk | 3,430
@@ -26,21 +26,57 @@ adaderanasinhalalk | 3,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,253 (100.0%) of 21,256 articles have been extended.
+21,256 (100.0%) of 21,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### හෙරොයින් කිලෝ 8ක් සමග සැකකරුවෙක් අත්අඩංගුවට
+### O/L மாணவர்களுக்கு விசேட அறிவிப்பு வெளியானது...
+
+*2024-04-27 11:48:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மாணவர்களுக்கு-விசேட-அறிவிப்பு-வெளியானது/175-336399) · `ta`
+
+எதிர்வரும் கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சையை நோக்காகக் கொண்டு இடம்பெறும் மேலதிக வகுப்புகள் மற்றும் கருத்தரங்குகள் எதிர்வரும் 30ஆம் திகதி நள்ளிரவு முதல் இடைநிறுத்தப்படும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, அன்றைய தினம் நள்ளிரவு 12.00 மணி முதல், பரீட்சையை இலக்காகக் கொண்ட மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் உள்ளிட்டவை இடைநிறுத்தப்படுவதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+சாதாரண தரப் பரீட்சையானது, எதிர்வரும் மே மாதம் 6 ஆம் திகதி முதல் 15 ஆம் திகதி வரை இடம்பெறவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a9400a6d.json)
+
+---
+
+### Cache of heroin worth Rs. 160 million seized in Navinna
+
+*2024-04-27 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98881/cache-of-heroin-worth-rs-160-million-seized-in-navinna) · `en`
+
+During a raid carried out in Navinna area of Maharagama, the police have impounded a cache of heroin weighing 8 kilograms.
+
+Reportedly, the heroin consignment is worth to the tune of Rs. 160 million.
+
+◼️
+
+[Data](articles/131078d1.json)
+
+---
+
+### Suspect arrested with 8 kilos of heroin
 
 *2024-04-27 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196021) · `si`
 
-හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 08ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු මහරගම නාවින්න ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+A suspect with 8 kg of heroin was arrested in Nawanna, Maharagama.
+
+🟩
+
+A suspect in possession of 8 km of heroin has been arrested in Nawanna, Maharagama.
 
 ◼️
 
 [Data](articles/efc11ce1.json)
+
+[Extended Data](ext_articles/efc11ce1.ext.json)
 
 ---
 
@@ -59,6 +95,8 @@ The suspect was identified as a resident of Bomiriya area in Kaduwela.
 ◼️
 
 [Data](articles/7b272978.json)
+
+[Extended Data](ext_articles/7b272978.ext.json)
 
 ---
 
@@ -212,19 +250,25 @@ Minister of Information Technology and Digital Services Dr. Palanivel Thiagaraja
 
 ---
 
-### மைத்திரி வழங்கிய இரகசிய வாக்குமூலம் வெளியானது
+### The secret confession issued by Maithri has been released
 
 *2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியானது/175-336398) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன குற்றப் புலனாய்வுத் திணைக்களத்திற்கு வழங்கிய இரகசிய வாக்குமூலத்தை பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் வெளியிட்டுள்ளார்.
+Tran Ales, Public Security Minister, released a confidential confession to Maithripala Sirisena, stating no citizens were involved in the April 21 terrorist attack. Some facts remain undisclosed due to ongoing investigations.
 
-இதில், இந்நாட்டு பிரஜையோ அல்லது இந்த நாட்டில் இருக்கும் வேறு நாட்டு பிரஜையோ ஏப்ரல் - 21 பயங்கரவாதத் தாக்குதலில் ஈடுபடவில்லை என தெரிவித்ததாக அவர் குறிப்பிட்டார்.
+🟩
 
-அத்துடன் விசாரணைகள் நடைபெற்று வருவதால் சில உண்மைகளை வெளியிட முடியாது எனவும், அவர் குறிப்பிட்டுள்ளார். R
+Public Security Minister Tran Ales has issued a confidential confession to the former President Maithripala Sirisena.
+
+He said that neither the citizen of the country nor the citizen of the country in this country was not involved in the April 21 terrorist attack.
+
+He also stated that some facts cannot be released as investigations are underway. Remble
 
 ◼️
 
 [Data](articles/e10d6d0f.json)
+
+[Extended Data](ext_articles/e10d6d0f.ext.json)
 
 ---
 
@@ -2105,51 +2149,5 @@ The Bar Association of Sri Lanka (BASL) has been invited to provide this coordin
 [Data](articles/6d67e778.json)
 
 [Extended Data](ext_articles/6d67e778.ext.json)
-
----
-
-### Dates confirmed for 78th Bradby Shield
-
-*2024-04-26 16:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dates-confirmed-for-78th-Bradby-Shield/108-281436) · `en`
-
-Apr. 26 (Daily Mirror) - The dates for the 78th Bradby Shield rugby encounter between the traditional rivals Trinity College and Royal College have been confirmed.
-
-Accordingly, the first-leg will be played at the Royal College Sports Complex on August 24 while the second-leg will take place on September 7 at the Trinity College Rugby Stadium in Pallekele.
-
-Trinity are led by centre three quarter, Anuhas Kodithuwakku while Royal are led by Thivain Perera.
-
-The Chief Guest for the first-leg in Colombo will be the 1985 Royal Skipper Chiranjaya Nanayakkara. The Chief Guest for the second-leg in Pallekele will be the 1985 Trinity Skipper Manoj Jayatissa.
-
-◼️
-
-[Data](articles/4e0eb488.json)
-
-[Extended Data](ext_articles/4e0eb488.ext.json)
-
----
-
-### Sri Lanka stocks close up, capital goods drive turnover
-
-*2024-04-26 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-capital-goods-drive-turnover-160211/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 1.04 percent, or 125.03 points, at 12201.01; while the S&P SL20 Index closed up 2.83 percent, or 98.77 points, at 3,593.
-
-Turnover was at 4.1 billion. 1.4 of this came from the capital goods sector.
-
-Hayleys Plc saw the most active trading (Rs508mn), the share closed down at 83.30.
-
-Hemas Holdings Plc also saw interest (Rs271mn), and the share closed up at 86.50
-
-Major positive contributors to the ASPI included Commercial Bank of Ceylon Plc which was up at 114.50, Hatton National Bank Plc up at 200.00, and Aitken Spence Plc up at 136.00.
-
-There was a net foreign outflow of 288 million. (Colombo/Apr26/2024)
-
-◼️
-
-[Data](articles/b5e3b349.json)
-
-[Extended Data](ext_articles/b5e3b349.ext.json)
 
 ---

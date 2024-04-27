@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 17:18:31**
+As of **2024-04-27 17:34:39**
 
 ## Newspaper Stats
 
-*Scraped **21,282** Articles*
+*Scraped **21,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,70 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,463
-adaderanalk | 2,537
+adaderanalk | 2,538
 virakesarilk | 3,201
 dailymirrorlk | 3,316
-adaderanasinhalalk | 3,439
+adaderanasinhalalk | 3,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,280 (100.0%) of 21,282 articles have been extended.
+21,282 (100.0%) of 21,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### රනිල්ට ඉඩ දෙමු කොළඹින් ඇරඹෙයි
+### Indian high commissioner meets with Basil
+
+*2024-04-27 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98885/indian-high-commissioner-meets-with-basil-) · `en`
+
+High Commissioner Santosh Jha met with the founder of Sri Lanka Podujana Peramuna (SLPP) Basil Rajapaksa on Friday (26).
+
+In a post on X (formerly Twitter), the Indian High Commission in Colombo said cordial discussions between the Indian envoy and the former Sri Lankan finance minister focused on topics of mutual interest including political developments.
+
+◼️
+
+[Data](articles/a3492f55.json)
+
+---
+
+### බැසිල් සහ මෙරට ඉන්දීය මහකොමසාරිස් අතර හමුවක්
+
+*2024-04-27 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196032) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා සහ ශ්‍රී ලංකාවේ ඉන්දීය මහකොමසාරිස් සන්තෝෂ් ජා මහතා අතර හමුවක් සිදුවී තිබේ.
+
+X ගිණුමේ සටහනක් තබමින් ඉන්දීය මහකොමසාරිස් කාර්යාලය සඳහන් කළේ රටේ දේශපාලන තත්ත්වය ඇතුලු අන්‍යොන්‍ය උනන්දුවක් දක්වන කරුණු පිළිබඳව මෙහිදි සුහදව සාකච්ඡා කළ බවය.
+
+◼️
+
+[Data](articles/9e8bd0c8.json)
+
+---
+
+### Ranil begins in Colombo
 
 *2024-04-27 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196031) · `si`
 
-ජාත්‍යන්තර කම්කරු දින සැමරුමෙන් පසු විපක්ෂයේ දේශපාලන පක්ෂ කිහිපයක නියෝජිතයින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග එක්වීමට නියමිත බව ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය මහතා පවසයි.
+Ranil's event in Colombo, organized by Global Mind, began with UNP's Ruwan Wijewardene's advice.
 
-අද (27) පෙරවරුවේ පැවති වැඩසටහනකට එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
+🟩
 
-GLOBAL MIND සංවිධානය විසින් පවත්වන '' රනිල්ට ඉඩ දෙමු ''  යතුරුපැදි රැළිය අද පෙරවරුවේ කොළඹ ගංගාරාම විහාරස්ථානය ඉදිරිපිටින් ආරම්භ වුණා.
+Representatives of several political parties in the Opposition after the International Labor Day after the commemoration of the opposition political parties, President Trade Unions Director General Saman Ratnapriya said.
 
-ඒ, එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතාගේ උපදේශකත්වයෙනි.
+He was speaking at a program held this morning.
+
+The 'Ranil Mind' by Global Mind, 'Ranil letedy rally commenced in front of the Gangarama Viharaya in Colombo this morning.
+
+That is the advisory of the UNP Deputy Leader Ruwan Wijewardene.
 
 ◼️
 
 [Data](articles/582be90d.json)
+
+[Extended Data](ext_articles/582be90d.ext.json)
 
 ---
 
@@ -161,6 +195,8 @@ At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, t
 ...
 
 [Data](articles/ce0e94eb.json)
+
+[Extended Data](ext_articles/ce0e94eb.ext.json)
 
 ---
 
@@ -2131,43 +2167,5 @@ Ministers Dr. Ramesh Pathirana and Vidura Wickramanayake, MPs Rishad Bathiudeen 
 [Data](articles/e0f37658.json)
 
 [Extended Data](ext_articles/e0f37658.ext.json)
-
----
-
-### Two women stuck between two moving compartments
-
-*2024-04-26 20:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-stuck-between-two-moving-compartments/108-281444) · `en`
-
-Colombo, April 26 (Daily Mirror) - Two women were trapped between two compartments this evening while trying to board a moving train before it stopped, the Railways Department said.
-
-They said the accident occurred at around 4:35 p.m. as the Kandy-bound Colombo train was arriving at the Colombo Fort station, where it was supposed to stop for passengers to board.
-
-Both women sustained serious injuries and were taken to the hospital for treatment, they said.
-
-A major rescue effort ensued, with bystanders and railway employees at the Fort station working together to free the women from between the train compartments, the Department said.
-
-◼️
-
-[Data](articles/feb023cf.json)
-
-[Extended Data](ext_articles/feb023cf.ext.json)
-
----
-
-### Statement to CID - Maithripala has not implicated any Sri Lankans
-
-*2024-04-26 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Statement-to-CID-Maithripala-has-not-implicated-any-Sri-Lankans/108-281443) · `en`
-
-Colombo, April 26 (Daily Mirror) - Public Security Minister Tiran Alles told Parliament today (26) that former President Maithripala Sirisena, in his statement to the CID, did not disclose any information implicating a citizen of this country or any connection to a citizen in relation to the Easter Sunday bomb attacks.
-
-During the debate on the Easter Sunday bomb attacks, which span eleven days, Minister Alles emphasized the importance of seeking answers without politicizing the matter. He urged collaboration among the police and legal authorities to address any shortcomings and bring closure to the discussions.
-
-Regarding the former President's statement, Minister Alles noted the absence of any mention implicating a citizen or their relation in the country. He also referenced to an ongoing case before the Maligakanda court related to this matter, refraining from further commentary on the topic.
-
-...
-
-[Data](articles/d183731b.json)
-
-[Extended Data](ext_articles/d183731b.ext.json)
 
 ---

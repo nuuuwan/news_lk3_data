@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 18:52:03**
+As of **2024-04-27 19:03:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,442
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,286 (100.0%) of 21,288 articles have been extended.
+21,288 (100.0%) of 21,288 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,29 +46,37 @@ The closing ceremony of the bilateral exercise was held at the Marines Headquart
 
 [Data](articles/fd125336.json)
 
+[Extended Data](ext_articles/fd125336.ext.json)
+
 ---
 
-### ඉදිරි පැය 36 තුළ තද වැසි
+### Heavy rains in the next 36 hours
 
 *2024-04-27 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196034) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected in Western, Sabaragamuwa, Southern, North Western, Uva provinces, and Ampara, Batticaloa districts. Showers or thundershowers in North-Central, coastal areas, and thunder in Sabaragamuwa, Central, Uva provinces. Met Department advises precautions against wind and lightning.
 
-ඉදිරි පැය 36 සඳහා කාලගුණ නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව ඒ බව පවසයි.
+🟩
 
-එම දෙපාරත්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වලත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් පස්වරුවේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur at more than 75, the Met Department said.
 
-උතුරු-මැද පළාතේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+The Department says a weather notification for the next 36 hours.
 
-ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that there will be showers at several places in the Western, Sabaragamuwa, Southern, Southern, Southern, North Western and Uva provinces and in Ampara and Batticaloa Districts.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+Showers or thundershowers will occur at several places in the North-Central Province or night.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota.
+
+In some places in the Sabaragamuwa, Central and Uva provinces, there is a thumb in the morning.
+
+The Meteorological Department urges the public to take necessary steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
 
 ◼️
 
 [Data](articles/c46e0289.json)
+
+[Extended Data](ext_articles/c46e0289.ext.json)
 
 ---
 

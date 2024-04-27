@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 17:04:35**
+As of **2024-04-27 17:18:31**
 
 ## Newspaper Stats
 
-*Scraped **21,280** Articles*
+*Scraped **21,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,58 @@ dailyftlk | 1,202
 economynextcom | 1,205
 adalk | 1,773
 tamilmirrorlk | 2,463
-adaderanalk | 2,536
+adaderanalk | 2,537
 virakesarilk | 3,201
 dailymirrorlk | 3,316
-adaderanasinhalalk | 3,438
+adaderanasinhalalk | 3,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,278 (100.0%) of 21,280 articles have been extended.
+21,280 (100.0%) of 21,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### பாரியளவு போதைப்பொருட்கள் சிக்கின
+### රනිල්ට ඉඩ දෙමු කොළඹින් ඇරඹෙයි
+
+*2024-04-27 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196031) · `si`
+
+ජාත්‍යන්තර කම්කරු දින සැමරුමෙන් පසු විපක්ෂයේ දේශපාලන පක්ෂ කිහිපයක නියෝජිතයින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග එක්වීමට නියමිත බව ජනාධිපති වෘත්තීය සමිති අධ්‍යක්ෂ ජනරාල් සමන් රත්නප්‍රිය මහතා පවසයි.
+
+අද (27) පෙරවරුවේ පැවති වැඩසටහනකට එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
+
+GLOBAL MIND සංවිධානය විසින් පවත්වන '' රනිල්ට ඉඩ දෙමු ''  යතුරුපැදි රැළිය අද පෙරවරුවේ කොළඹ ගංගාරාම විහාරස්ථානය ඉදිරිපිටින් ආරම්භ වුණා.
+
+ඒ, එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතාගේ උපදේශකත්වයෙනි.
+
+◼️
+
+[Data](articles/582be90d.json)
+
+---
+
+### Huge drugs stuck
 
 *2024-04-27 16:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரியளவு-போதைப்பொருட்கள்-சிக்கின/175-336402) · `ta`
 
-பியகம பகுதியில் முன்னெடுக்கப்பட்ட சுற்றிவளைப்பின் போது 15 கிலோ 81 கிராம் ஐஸ் போதைப்பொருள், 14 கிலோ 527 கிராம் ஹேஷ் போதைப்பொருள் மற்றும் 941 கிராம் ஹெரோயின் போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ள நிலையில், ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A 31-year-old man from Kaduwela was arrested in Biyagama for seizing 15 kg 81 grams of ice, 14 kg 527 grams of hash, and 941 grams of heroin.
 
-போமிரிய கடுவலை பிரதேசத்தை சேர்ந்த 31 வயதுடைய நபர் பண்டாரவத்தை பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதுடன், அவர் வாழ்ந்த வீடு மற்றும் காரினை சோதனை செய்தபோதே இந்த போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-முன்னதாக கைது செய்யப்பட்ட இரண்டு சந்தேகநபர்களிடம் முன்னெடுக்கப்பட்ட விசாரணைகளின் போது இந்த சந்தேக நபர் தொடர்பில் பொலிஸாருக்கு தகவல் கிடைத்துள்ளது.
+A man has been arrested for seizing 15 kg 81 grams of ice, 14 kg 527 grams of hash and 941 grams of heroin during a roundup in Biyagama.
+
+The 31 -year -old man from Kaduwela, Bomiriya was arrested in the Bandarawatte area and the drug was seized while checking the house and car he lived.
+
+The suspects were informed about the suspect during an investigation into two suspects who had previously been arrested.
 
 ◼️
 
 [Data](articles/8aa88179.json)
+
+[Extended Data](ext_articles/8aa88179.ext.json)
 
 ---
 
@@ -72,23 +96,29 @@ The third phase will be held on May 07, May 13, 5th Phase 5, May 25 and 7 sevent
 
 ---
 
-### வெளிநாட்டில் உள்ளவரின் காணியை விற்ற உறவினர்
+### Relative to sell the land of a foreign
 
 *2024-04-27 16:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெளிநாட்டில்-உள்ளவரின்-காணியை-விற்ற-உறவினர்/71-336401) · `ta`
 
-வெளிநாட்டில் உள்ளவரின் காணியை மோசடி செய்து விற்பனை செய்த நபர் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+A man defrauded and sold land abroad, dividing it into three parts. He sold one to a person, another to a bank, and donated the third to his cousin. The land owner complained to Jaffna Police, who arrested the man. The Jaffna Magistrate's Court ordered interrogation.
 
-வெளிநாட்டில் வசிக்கும் நபர் ஒருவர் யாழ்ப்பாணத்தில் உள்ள தனது காணியை பராமரிப்பதற்காக யாழ்ப்பாணத்தை சேர்ந்த உறவினர் ஒருவருக்கு அற்றோணித்தத்துவம் முடித்து கொடுத்துள்ளார்.
+🟩
 
-அற்றோணித்தத்துவத்தை தனக்கு சாதகமாக பயன்படுத்தி காணியினை மூன்று துண்டுகளாக பிரித்து ஒரு பகுதியை  நபர் ஒருவருக்கு விற்பனை செய்ததுடன், மற்றுமொரு பகுதியை வங்கியில் ஈடுவைத்துள்ளார். மற்றைய துண்டினை தனது உறவினருக்கு நன்கொடையாக கொடுத்து , அதனை மீள அறுதியாக பெற்றுள்ளார்.
+A man who defrauded and sold the land abroad has been arrested and placed in interrogation.
 
-இது தொடர்பில் அறிந்த காணி உரிமையாளர் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த நிலையில் , முறைப்பாட்டின் பிரகாரம் பொலிஸார் விசாரணைகளை முன்னெடுத்து , காணி விற்பனையில் ஈடுபட்ட நபரை கைது செய்தனர்.
+A person living abroad has completed a relative of Jaffna to maintain his land in Jaffna.
 
-கைது செய்யப்பட்டவரிடம் விசாரணைகளை முன்னெடுத்த பின்னர் யாழ்.நீதவான் நீதிமன்றில் முற்படுத்தியவேளை, மன்று சந்தேகநபரை விளக்கமறியலில் வைக்க உத்தரவிட்டுள்ளது. R
+He took advantage of the vicinity and divided the land into three pieces and sold one portion to a person and another part of the bank.. He has donated the other piece to his cousin and recovered it.
+
+As the owner of the land lodged a complaint at the Jaffna Police Station, the police were investigating the complaint and arrested the man involved in the sale of the land.
+
+The Jaffna Magistrate's Court has ordered the suspect to be interrogated after investigating the arrest.. Remble
 
 ◼️
 
 [Data](articles/8190b2f3.json)
+
+[Extended Data](ext_articles/8190b2f3.ext.json)
 
 ---
 
@@ -115,6 +145,22 @@ The Defense Ministry said that the two sides had given the attention to the othe
 [Data](articles/72897361.json)
 
 [Extended Data](ext_articles/72897361.ext.json)
+
+---
+
+### COPF urges reevaluation of tax mechanism to prevent govt. revenue loss
+
+*2024-04-27 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98884/copf-urges-reevaluation-of-tax-mechanism-to-prevent-govt-revenue-loss-) · `en`
+
+The Committee of Public Finance (COPF), at its most recent meeting, has examined the effectiveness of recent tax increases on tobacco and liquor, aimed at discouraging consumption and boosting government revenue.
+
+Drawing attention to the Laffer curve in taxation, the COPF observed a decline in government revenue over the past two months compared to the same period last year, attributing it to higher taxes that have led to increased smuggling and the adoption of alternative measures.
+
+At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, the COPF members recommended a thorough analysis of the inflation index to guide tax adjustments and research into existing tax systems to prevent revenue loss.
+
+...
+
+[Data](articles/ce0e94eb.json)
 
 ---
 
@@ -2123,65 +2169,5 @@ Regarding the former President's statement, Minister Alles noted the absence of 
 [Data](articles/d183731b.json)
 
 [Extended Data](ext_articles/d183731b.ext.json)
-
----
-
-### Police waiting forces
-
-*2024-04-26 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196007) · `si`
-
-A drug gang in Vidilapitiya, Kalutara, attacked a young man, leading to a police response. The gang then targeted two youths near the victim's home. The police intervened, and the suspect was arrested.
-
-🟩
-
-කළුතර නාගොඩ රෝහලේ ප්‍රධාන දොරටුව අසල පොලිස් නිලධාරීන් සහ ආරක්ෂක නිලධාරීන් බලා සිටියදී රෝහලට පැමිණි කාන්තාවකට තියුණු ආයුධවලින් පහර දී තිබේ.
-
-The attack was carried out by a group of drug racket in the Vidilapitiya area in Kalutara.
-
-කළුතර, වෙනිවැල්පිටිය, වෙන්දේසි වත්ත ප්‍රදේශයේ නිවසකට ඊයේ (25) පස්වරුවේ පැමිණි පුද්ගලයින් කිහිපදෙනෙක් එහි සිටි තරුණයෙකුට පහර දී නිවසේ දේපළවලටත් හානි කර තිබේ.
-
-පහරදීම සම්බන්ධයෙන් චෝදනා එල්ල වන්නේ, එම ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත සුද්දා සහ රනේ නැමැති පුද්ගලයින් දෙදෙනෙකුට සහ ඔවුන්ගේ ආධාරකරුවන් කිහිපදෙනෙකුටය.
-
-The group who assaulted the young man had then went to another home near the nearby house and tried to attack two youths.
-
-නමුත් එම නිවසේ තරුණයින් දෙදෙනා සිය ජීවිත බේරාගැනීමට සමත් වුණේ ඒ අසල ඇති කැලයට පැනයමිනි.
-
-මේ සම්බන්ධයෙන් කළුතර දකුණ පොලීසියට දුරකථනයෙන් දැනුම් දී ඇති අතර පසුව එහි පැමිණි නිලධාරීන් මැර පිරිස සමග කතාබස් කර පිටව ගිය බවට චෝදනා එල්ල වේ.
-
-...
-
-[Data](articles/97be7d48.json)
-
-[Extended Data](ext_articles/97be7d48.ext.json)
-
----
-
-### Yuvraj Singh has been named as ICC men's R20 World Cup ambassador
-
-*2024-04-26 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182054) · `ta`
-
-Yuvraj Singh, a 2007 world champion, is named ICC Men's T20 World Cup ambassador, joining Chris Gale and Jemimah Rodrigues. He scored 6 sixes in the 19th over against England in 2007. India won the final against Pakistan. The ICC Men's R20 World Cup, from June 1st to 29th, features 20 teams and 55 matches across 9 stadiums, culminating in the final in Barbados.
-
-🟩
-
-The International Cricket Council (ICC) has announced India's cricketer Yuvraj Singh as ICC Men's T20 World Cup ambassador
-
-Yuvraj Singh has been honored with 36 days of the R20 Cricket World Cup.
-
-Yuvraj Singh joins the first ambassador of the West Indies, Chris Gale, Jemica's lightning -driven player and 8 gold medals at the Olympics.
-
-Yuvraj Singh has scored 6 sixes in the 19th over against England against England in the 2007 Appendix T20 World Cup in South Africa.
-
-India won Pakistan in the final.
-
-ரி20 உலகக் கிண்ணப் போட்டி ஆரம்பமாவதற்கு முன்னரும் போட்டிகளின்போதும்  அமெரிக்காவில் நடைபெறும் உலகக் கிண்ண விளம்பர நிகழ்ச்சிகளில்  யுவ்ராஜ் சிங்  கலந்து கொள்வார். The ICC has learned that he will participate in the advertising event, especially during the league match between India and Pakistan on June 9 in New York.
-
-Yuvraj Singh, a world champion in 2007, said:. Therefore, it is exciting to be a partner in the R20 World Cup chapter. ”
-
-...
-
-[Data](articles/0e5e75c4.json)
-
-[Extended Data](ext_articles/0e5e75c4.ext.json)
 
 ---

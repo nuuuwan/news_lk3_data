@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 19:33:57**
+As of **2024-04-27 19:50:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,288 (100.0%) of 21,291 articles have been extended.
+21,291 (100.0%) of 21,291 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,43 +46,59 @@ Thus, the cabinet memorandum regarding the removal of salary disparity and allow
 
 [Data](articles/c6407c40.json)
 
+[Extended Data](ext_articles/c6407c40.ext.json)
+
 ---
 
-### ඇල්ල - වැල්ලවායේ කරඳගොල්ල ප්‍රදේශයේ නායයෑමේ අවදානමක්
+### Landslide risk in Karandagolla, Ella - Wellawaya
 
 *2024-04-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196036) · `si`
 
-ඇල්ල - වැල්ලවාය මාර්ගයේ කරඳගොල්ල ප්‍රදේශයේ සක්‍රිය වී ඇති නායයෑම් තත්ත්වය සම්බන්ධයෙන් ඉදිරි සතියේදී ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය පුළුල් අධ්‍යනයක් සිදුකරන බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා පවසයි.
+Karandagolla, Ella-Wellawaya, faces landslide risks. Studies on the situation, including water and geological research, are ongoing. Landslides in Maligatigolla have been reported, affecting water flow and river levels. The Uma Oya Project's Uma Ratawata reservoir is 2.5 km below the project. Landslides have been active since 2019, with a push of about 15 acres. The National Building Research Institute attributes the risk to non-landslides and drainage systems. If unchanged, the risk could affect Wellawaya.
 
-දිස්ත්‍රික් ලේකම්වරයා සඳහන් කළේ, එම තත්ත්වය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමෙන් ඇතිවූවක් ද යන්න මෙතෙක් ජල හෝ භූ විද්‍යාත්මක පර්යේෂණයකින් තහවුරු වී නැති බවය.
+🟩
 
-ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසක් පසුගිය බ්‍රහස්පතින්දා සිට නායයෑම් තත්ත්වයක් සක්‍රීය වී තිබුණේ ප්‍රදේශවාසීන් තුළ කැලඹීමක් ඇති කරමිනි.
+Badulla District Secretary Prabhath Abeywardena says that a wide range of study is conducted on the landslide situation in the fall area of the Ella-Wellawaya.
 
-නායයාම් අවදානම මතුවී ඇති එම ප්‍රදේශයේ ජලය ගලායන ආකාරය සහ රොන්මඩ පවතින ආකාරය අද දෙරණ ඊයේ (26) වාර්තා කළේය.
+The District Secretary stated that the amount of water or geological research have not been confirmed to whether the situation has caused water to the tunnel of the Uma Oya project.
 
-කෙසේවෙතත් භූ ගෝලීය පිහිටීම අනුව ඇල්ල - කරඳගොල්ල ප්‍රදේශය පිහිටා ඇත්තේ උමාඔය ව්‍යාපෘතිය යටතේ ක්‍රියාත්මක ඩයරඹා ජලාශයට කිලෝමීටර් 2.5ක් පමණ පහළින්ය.
+The landslide of the Maligatigolla area in Ella-Karandagolla, landslide had been activated by the residents of the area.
 
-බදුල්ල දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකයේ නියෝජ්‍ය අධ්‍යක්ෂක උදය කුමාර මහතා පැවසුවේ, 2019 සිට එම ස්ථානයේ විටින් විට නායයාම් සක්‍රීය වෙමින් පවතින බවය.
+The landslide risk caused the flow of water and the river flowing in the area, and Ada Derameter was reported in the area.
+
+However, the Uma Ratawata reservoir operated under the Uma Oya Project is located about 2.5 km below the Uma Oya Project.
+
+Deputy Director of the District Disaster Management Unit, Deputy Director of the Disaster Management Unit, Deputy Director of Udaya Kumara said that the landslide is active from time to time since 2019.
+
+He had also had a push of about 15 acres, or a pushing down.
 
 ...
 
 [Data](articles/a63f7ec3.json)
 
+[Extended Data](ext_articles/a63f7ec3.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතා ගැන තීරණයක්
+### Decision on salary anomalies of university academic staff
 
 *2024-04-27 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196035) · `si`
 
-රාජ්‍ය විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතාවය ඉවත් කිරීම හා දීමනා සම්බන්ධයෙන් ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශ අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The Ministry of Education has directed the Salary Board of Cabinet of Ministers to address salary anomalies and allowances for non-academic staff at state universities. Two candidates from the Cabinet will be presented to the Ministerial Subcommittee for review. A memorandum submitted on May 8th for the removal of salary anomalies and allowances for academic staff will also be discussed.
 
-ඒ සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල සංදේශ දෙකක් අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-ඒ අනුව මැයි මස 08 වනදා විශ්වවිද්‍යාල අනධ්‍යයන කාර්යමණ්ඩලවල වැටුප් විෂමතාවය ඉවත් කිරීම හා දීමනා සම්බන්ධයෙන් ඉදිරිපත් කරන ලද අමාත්‍ය මණ්ඩල සංදේශ අමාත්‍ය අනුකමිටුවට ඉදිරිපත් කිරීමට නියමිතය.
+The Ministry of Education says that the Salary Board of Cabinet of Ministers are to be submitted to the removal of salary anomalies and allowances of the state university non-academic staff.
+
+The Ministry of Education stated that two candidations of Cabinet are to be produced before the Ministerial Subcommittee.
+
+Accordingly, the Cabinet Memorandum submitted to the removal of the salary anomaly and allowances of the university academic staff on May 08 will be presented to the Ministerial Subcommittee.
 
 ◼️
 
 [Data](articles/a91e0951.json)
+
+[Extended Data](ext_articles/a91e0951.ext.json)
 
 ---
 

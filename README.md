@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 21:18:33**
+As of **2024-04-27 21:34:00**
 
 ## Newspaper Stats
 
-*Scraped **21,300** Articles*
+*Scraped **21,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,775
 tamilmirrorlk | 2,464
 adaderanalk | 2,541
 virakesarilk | 3,201
-dailymirrorlk | 3,318
+dailymirrorlk | 3,319
 adaderanasinhalalk | 3,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,298 (100.0%) of 21,300 articles have been extended.
+21,300 (100.0%) of 21,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-27 (Saturday)
 
-### ආර්ථිකයේ ඉදිරි ගමන් මඟ ජනතාව තීරණය කළ යුතුයි
+### Human skeletons recovered in Muhamalai demining site
+
+*2024-04-27 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-skeletons-recovered-in-Muhamalai-demining-site/108-281495) · `en`
+
+Pallai, April 27 (Daily Mirror) - A group of non-governmental organization workers, engaged in demining activities in Muhamalai in the Pallai police area, discovered a uniform along with several human skeletons buried in the ground today.
+
+They reported the findings to the Pallai Police, who initiated investigations.
+
+The Kilinochchi Magistrate visited the site, conducted a magisterial inspection and ordered further excavations to be carried out at the particular site on Monday (29).
+
+◼️
+
+[Data](articles/402db4e0.json)
+
+---
+
+### The people should decide the way in the economy
 
 *2024-04-27 20:46:27* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකයේ-ඉදිරි-ගමන්-මඟ-ජනතාව-තීරණය-කළ-යුතුයි/11-409288) · `si`
 
-වෙළඳපොළ ආර්ථිකයක් මත පදනම් වූ ඉහළ තරගකාරී, අපනයනය ඉලක්ක කරගත් ආර්ථිකයක් බිහිකිරීම රජයේ අරමුණ බවත් එහිදී මෙරට ව්‍යාපාරික ප්‍රජාව කෙරෙහි තමා පූර්ණ විශ්වාසය තබා ඇති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe emphasized the need for a competitive, export-based economy at the 2020 International Rotary Club conference in Colombo. He urged the people to decide the country's economic path, highlighting the importance of market forces and the need for a steady growth plan.
 
-වර්තමානයේ රට හමුවේ ඇති ප්‍රශ්නය විය යුත්තේ විධායක ජනාධිපති ක්‍රමය පවත්වාගෙන යනවා ද නැද්ද යන්න නොව රටේ ආර්ථිකය ගොඩ නැඟීමේ ක්‍රමවේදය බව පෙන්වා දුන් ජනාධිපතිවරයා මෙරට ආර්ථිකයේ ඉදිරි ගමන් මඟ ජනතාව විසින්ම තීරණය කළ යුතු බවත් එම අවස්ථාව කිසිවෙකුටත් අතපසු කළ නොහැකි බවත් සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ ඊයේ (26) පැවති ශ්‍රී ලංකාව සහ මාලදිවයින සඳහා වන දිස්ත්‍රික් 3220 ජාත්‍යන්තර රොටරි සමාජයේ 2023/24 වාර්ෂික සමුළුවට එක්වෙමිනි. අප්‍රේල් 26 සහ 27 දෙදින පුරා කොළඹ දී මෙම වාර්ෂික සමුළුව පැවැත්වේ.
+President Ranil Wickremesinghe emphasized that the government's objective is to create a high competitive and export of export based economy based on a market economy.
 
-මෙම වාර්ෂික සමුළුවේ ප්‍රධාන දේශනය ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්තයේ තොරතුරු තාක්ෂණ හා ඩිජිටල් සේවා අමාත්‍ය පලනිවේල් ත්‍යාග රාජන් මහතා විසින් සිදු කළේය.
+The question in the country should be the case not whether or not the executive presidency is not or not.
+
+President Ranil Wickremesinghe expressed his views at the Gampaha Bandaranaike Memorial International Conference Hall in Colombo yesterday (2620) at the 2020 International Rotary Club. The annual conference will be held in Colombo on 26th and 27th April.
+
+The keynote address of this Annual Summit was made by Minister of Tamil Nadu in Tamil Nadu, India and Digital Services.
+
+Launched in 1929, more than 17,000 members of the district 3220 district 3220 international 3210 international Rotary Club has contributed to a large number of community and social welfare in Sri Lanka as well as a large number of social and social development projects.
 
 ...
 
 [Data](articles/9ff95dde.json)
+
+[Extended Data](ext_articles/9ff95dde.ext.json)
 
 ---
 
@@ -696,23 +720,29 @@ The suspects are residents of Kaduwela and Simaliapa, who have been arrested and
 
 ---
 
-### ඇමෙරිකාවේ ඉහළ නිලධාරිනියක් ජනපති හමුවෙයි
+### US officer meets President
 
 *2024-04-27 14:52:07* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-ඉහළ-නිලධාරිනියක්-ජනපති-හමුවෙයි/11-409286) · `si`
 
-ඇමෙරිකා එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුවේ (USDA) වෙළෙඳ සහ විදේශ කෘෂිකාර්මික කටයුතු පිළිබඳ උප ලේකම් ඇලෙක්සිස් ටේලර් (Alexis Taylor) මහත්මිය සහ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතර හමුවක්  ජනාධිපති කාර්යාලයේ දී සිදු විය.
+USDA Secretary Alexis Taylor met President Ranil Wickremesinghe to discuss modernizing milk production in Sri Lanka with US assistance. The US delegation, including the sub-secretary, supports the Sri Lanka Agriculture Navinna program.
 
-ඇමෙරිකා එක්සත් ජනපදයේ සහාය ඇතිව මෙරට කිරි නිෂ්පාදනය නවීකරණය කිරීමේ වැඩසටහනක් ක්‍රියාත්මක කිරීම පිළිබඳ මෙහිදී සාකච්ඡා කෙරුණු අතර එම වැඩසටහන මඟින් දිවයින පුරා දැනට ක්‍රියාත්මක කිරි නිෂ්පාදනය ප්‍රචලිත කිරීමේ ව්‍යාපෘති තවදුරටත් දිරිමත් කරනු ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+🟩
 
-රජයේ කෘෂි නවීකරණ වැඩසටහන පිළිබඳව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී ඇලෙක්සිස් ටේලර් මහත්මියව දැනුවත් කළ අතර මෙරට කෘෂිකර්ම ක්ෂේත්‍රය සඳහා තරුණ පුරපුර ආකර්ශණය කර ගැනීම එහි ප්‍රමුඛ අරමුණක් බවද පැවසීය.
+The US Department of Agriculture (USDA) Trade and Foreign Agricultural Secretary Alexis Taylor (Alexis Taylor) met at the Presidential Secretariat.
 
-ශ්‍රී ලංකාවේ කෘෂි නවීකරණ වැඩසටහන වෙනුවෙන් සිය පූර්ණ සහාය ලබා දෙන බවට උප ලේකම්වරිය ඇතුළු එක්සත් ජනපද නියෝජිත පිරිස මෙහිදී ජනාධිපතිවරයා වෙත සහතික වූහ.
+The meeting was discussed in the operation of a modernization of milk production in Sri Lanka with the assistance of the United States, said President Ranil Wickremesinghe said.
 
-ජනාධිපති ලේකම් සමන් ඒකනායක, ජාත්‍යන්තර කටයුතු පිළිබඳ ජනාධිපති අධ්‍යක්ෂ දිනූක් කොළඹගේ යන මහත්වරුන් ද මෙම අවස්ථාවට එක්ව සිටියහ.
+President Ranil Wickremesinghe was also informed of Mrs. Alexis Taylor, the government's agricultural modernization program and attracts young trees for the field of agriculture in the country.
+
+The US delegation including the sub-secretary, including the sub-Secretariat, guarantees its fullest support for the Sri Lanka Agriculture Navinna program.
+
+Presidential Secretary's Secretary to the Presidential Secretary of the President and the President's Director of International Affairs Dinukou was also present at the occasion.
 
 ◼️
 
 [Data](articles/80ad1265.json)
+
+[Extended Data](ext_articles/80ad1265.ext.json)
 
 ---
 
@@ -906,8 +936,6 @@ Police said that they were residents of Kaduwela and Siyambalape areas in Kaduwe
 
 *2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
 
-Sri Lanka tax collections higher than revised 2023 target, deficit lower
-
 ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
 
 Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
@@ -915,6 +943,8 @@ Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or
 In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
 
 But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
+
+With non tax revenues of 100 billion rupees, lower than expected, total revenues were 3,048.8 billion rupees or 11 percent of GDP, in slightly lower than the 11.3 percent in the original budget but in line with the 10.9 percent IMF projection.
 
 ...
 
@@ -2171,21 +2201,5 @@ The Memorandum of Understanding (MoU) between Ninewells Hospital and the Army Su
 [Data](articles/e9d57047.json)
 
 [Extended Data](ext_articles/e9d57047.ext.json)
-
----
-
-### Amana Bank collaborates with the University of Colombo to mark World Water Day
-
-*2024-04-26 23:51:36* · [`dailyftlk`](https://www.ft.lk/business/Amana-Bank-collaborates-with-the-University-of-Colombo-to-mark-World-Water-Day/34-761098) · `en`
-
-Amana Bank celebrated the World Water Day with University of Colombo Dean of the Faculty of Arts Senior Prof. Lasantha Manawadu
-
-To mark World Water Day, Amana Bank partnered with the Environment Committee of the Faculty of Arts at the University of Colombo to promote awareness of water conservation and sustainable practices. Aligned with the global theme ‘Water for Peace,’ the University organised a poster competition for undergraduates and facilitated a platform for emerging researchers and scholars to present their work and participate in insightful academic discussion. Gracing the occasion Professor Lasantha Manawadu, the Dean of the Faculty of Arts, delivered an inspiring address to the audience highlighting the importance in in fostering a more water-conscious society.
-
-...
-
-[Data](articles/ed1ee256.json)
-
-[Extended Data](ext_articles/ed1ee256.ext.json)
 
 ---

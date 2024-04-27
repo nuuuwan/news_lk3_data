@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-27 20:51:02**
+As of **2024-04-27 21:03:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,296 (100.0%) of 21,298 articles have been extended.
+21,298 (100.0%) of 21,298 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,13 +36,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-27 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98888/indian-govt-allows-995k-mt-of-onion-exports-to-6-countries-including-sri-lanka) · `en`
 
-The Centre on Saturday said it has allowed exports of 99,500 tonnes of onions, mainly sourced from Maharashtra, to six neighbouring countries despite the ban on shipments.
+The Indian Government on Saturday said it has allowed exports of 99,500 tonnes of onions, mainly sourced from Maharashtra, to six neighbouring countries despite the ban on shipments.
 
-The Centre has also allowed exports of 2,000 tonnes of white onion cultivated, especially, for export markets in the Middle East and some European countries.
+The Indian Government has also allowed exports of 2,000 tonnes of white onion cultivated, especially, for export markets in the Middle East and some European countries.
 
-On December 8, 2023, the government banned export of onions.
-
-In an official statement, the Ministry of Consumer Affairs, Food & Public Distribution said the government has “allowed export of 99,150 tonnes of onion to six neighbouring countries of Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka”.
+In an official statement, India’s Ministry of Consumer Affairs, Food & Public Distribution said the government has “allowed export of 99,150 tonnes of onion to six neighbouring countries of Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka”.
 
 The export prohibition has been imposed to ensure adequate domestic availability against the backdrop of estimated lower Kharif and Rabi crops in 2023-24 compared to the previous year.
 
@@ -52,23 +50,31 @@ The ban was imposed amid an increase in demand in the international market, it a
 
 [Data](articles/3537b4fd.json)
 
+[Extended Data](ext_articles/3537b4fd.ext.json)
+
 ---
 
-### දරුවෙක් දියේ ගිලුනොත් මුලින්ම කරන්න ඕන දේ මෙන්න
+### Here is what a child should be drown first
 
 *2024-04-27 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196039) · `si`
 
-දියේ ගිලී අනතුරකට ලක්වූ දරුවෙකුගේ ජීවිතය බේරාගැනීමට කඩිනමින් කළ යුතු ප්‍රතිකාර මොනාවද යන්න පිළිබඳව ළමා රෝග විශේෂඥ ව්‍යෛ විරාජ් ජයසිංහ මහතා කරුණු පැහැදිළි කළේය.
+"A child in danger needs immediate rescue: 1) Take to water, keep flat, open respiratory path, remove mouth waste. 2) If unresponsive, give 15 thrusters. Adjust based on child's size. Continue until response."
 
-"මුලින්ම දරුවාව දියෙන් ගොඩට අරගෙන සමතලා බිමක තියා ගන්න. ඊට පස්සේ දරුවාගේ ස්වසන මාර්ගය විවෘත කරන්න. මුඛයේ යම් අපද්‍රව්‍යක් තිබෙනවා නම් ඒවා ඉවත් කර ගන්න. ඊට පස්සෙත් එයා හුස්ම ගන්නේ නැත්නම් නාසය කට දෙකම ආවරණය වන පරිදි කෘතිම ස්වසනය වාර 5ක් ලබාදෙනවා."
+🟩
 
-"ඒත් එයාගේ ප්‍රතිචාරයක් නැත්නම් අපි දරුවාගේ පපු ප්‍රදේශය තෙරපුම් වාර 15ක් ලබාදෙන්න. කුඩා දරුවක් නම් අපිට ඇඟිලි දෙකෙන් කරන්න පුළුවන්. ලොකු දරුවෙකු නම් අත්දෙනෙන් හෘදය වස්තුව තෙරපන්න පුළුවන්. අපි බඩ ප්‍රදේශ තෙරපුවොත් හෝ නැත්නම් දරුවාගේ කකුල් දෙකෙන් ඉස්සුවොත් දරුවාගේ බඩේ තියෙන වතුර එළියට ගිහිල්ලා නැවත් ස්වසන මාර්ගයට ඇතුළු වෙලා නැවත පෙනහලුවලට ගිහිල්ලා තවත් හානි වෙන්න පුළුවන්."
+Promotes Cause Experts Exchange Viraj Jayasinghe explained what he had to do was to save the lives of a child who was dangerous.
 
-"තාම එයාගේ ප්‍රතිචාරයක් නැත්නම් නැවත අපි ස්වසන වාරා දෙකක් ලබාදීලා නැවතත් තෙරපුම් 15ක් ලබාදෙනවා. මේ වගේ අපි දිගටම මේක කරගෙන යනවා අපිට උදව් ලැබෙනකම් හරි... දරුවාගෙන් යම් ප්‍රතිචාරයක් ලැබෙනකම්ම."
+"First, take the child with water and keep a flat. Then open the child's respiratory path. If there is some waste in the mouth, remove them. After that, the artificial respiratory of two times covering both nose if he does not breathe. "
+
+"But if he doesn't want to respond, we give 15 tertum terms of the child. If a little child can do with the two fingers. If a big child, you can throw the heart. If we do not put in the stomach or the two legs of the child, the water in the baby can go out, or can damage the constitutional. "
+
+"If you don't have his response yet, we will be given two recessions and provides 15 thrusters. Like this, we continue to help us.. Until you have a response from the child. "
 
 ◼️
 
 [Data](articles/ed69d72f.json)
+
+[Extended Data](ext_articles/ed69d72f.ext.json)
 
 ---
 

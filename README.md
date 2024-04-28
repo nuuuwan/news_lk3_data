@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 21:18:23**
+As of **2024-04-28 21:34:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,428 (100.0%) of 21,431 articles have been extended.
+21,431 (100.0%) of 21,431 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,25 +44,33 @@ The arrest has been made after the suspect was detected through the recently-ins
 
 [Data](articles/0dd013a9.json)
 
+[Extended Data](ext_articles/0dd013a9.ext.json)
+
 ---
 
-### 7,000 කට හිමිවූ පොදු සමාව
+### 7,000 Common Pardon
 
 *2024-04-28 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196062) · `si`
 
-නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයින් 7,000කට අධික පිරිසක් පොදු සමා කාලයේ පළමු සතිය තුළ ඉවත් කර තිබේ.
+During the first week, over 7,000 soldiers were removed. From April 20, legally resigning officials and ranks not reported for leave were published. A total of 7,156 army soldiers were withdrawn publicly, with 7,143 temporarily removed from their centers. Thirteen soldiers were dismissed for not being taken to work without leave.
 
-අප්‍රේල් මස 20 වනදා සිට ශ්‍රී ලංකා යුද්ධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකරන සිටින නිලධාරීන් හා සෙසු නිලයන් හට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට පොදු සමා කාලයක් ප්‍රකාශයට පත් කරනු ලැබීය.
+🟩
 
-ඒ අනුව එම පොදු සමා කාලය තුළ මේ වනවිට යුද හමුදා සාමාජිකයින් 7,156 දෙනෙකු සේවයෙන් ඉවත් වී ඇති බව යුද හමුදා මූලස්ථානය සඳහන් කරයි.
+More than 7,000 soldiers have been removed during the first week during the first week.
 
-යුද හමුදා සාමාජිකයින් 7,143 දෙනෙකු ඔවුන් අයත් රෙජිමේන්තු මධ්‍යස්ථානවලින් තාවකාලිව ඉවත් කිරීම සිදුකර ඇති බවද වාර්තාවෙයි.
+From April 20, the officials and other ranks that are not reported to the service without leave without leave is published legally resignation.
 
-ඊට අමතරව නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර දැනට විදෙස්ගතව සිටින යුද හමුදා සාමාජිකයින් 13 දෙනෙකු ද යුද හමුදා සේවයෙන් නිත්‍යානුකූලව ඉවත්වීම සඳහා කටයුතු කර ඇති බව යුද හමුදා මූලස්ථානය සඳහන් කළේය.
+Accordingly, 7,156 army soldiers have been withdrawn during the public period.
+
+It is also reported that 7,143 soldiers have been temporarily removed from their regiment centers.
+
+Thirteen soldiers who have not been taken to work without leave and have been taken to dismissal from the military service.
 
 ◼️
 
 [Data](articles/274103ee.json)
+
+[Extended Data](ext_articles/274103ee.ext.json)
 
 ---
 
@@ -81,6 +89,8 @@ Ahmedabad DGP Gujarat Vikas Sahay said that the consignment was not for India bu
 ...
 
 [Data](articles/5b47de56.json)
+
+[Extended Data](ext_articles/5b47de56.ext.json)
 
 ---
 

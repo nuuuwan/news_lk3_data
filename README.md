@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 15:34:04**
+As of **2024-04-28 15:52:06**
 
 ## Newspaper Stats
 
-*Scraped **21,380** Articles*
+*Scraped **21,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,210
 adalk | 1,784
 tamilmirrorlk | 2,479
 adaderanalk | 2,548
-virakesarilk | 3,208
+virakesarilk | 3,211
 dailymirrorlk | 3,326
 adaderanasinhalalk | 3,461
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,379 (100.0%) of 21,380 articles have been extended.
+21,380 (100.0%) of 21,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### துப்பாக்கிச் சூட்டுக்கு இலக்கான யுவதி 14 நாட்களின் பின்னர் உயிரிழப்பு!
+
+*2024-04-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182151) · `ta`
+
+மின்னேரியா கிரித்தல பகுதியில் நடைபெற்ற புதுவருட கொண்டாட்டத்தின்போது கடந்த 14ஆம் திகதி இடம்பெற்ற  துப்பாக்கிப் பிரயோகத்தில் பலத்த காயமடைந்த 17 வயதுடைய யுவதி வைத்தியசாலையில் கிகிச்சை பெற்று வந்த நிலையில் 14 நாட்களுக்கு பின் உயிரிழந்துள்ளதாக மின்னேரியா பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலன்னறுவை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் அநுராதபுரம் வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சத்திர சிகிச்சை மேற்கொள்ளப்பட்டு மீண்டும் பொலன்னறுவை பொது வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையிலேயே இவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c02521b6.json)
+
+---
 
 ### An actor arrested for financial fraud
 
@@ -117,6 +131,22 @@ The suspect had been arrested by the security forces and the police suspect that
 [Data](articles/ef939c2c.json)
 
 [Extended Data](ext_articles/ef939c2c.ext.json)
+
+---
+
+### வாகன விபத்தில் ஒருவர் பலி!
+
+*2024-04-28 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182148) · `ta`
+
+புத்தளம் - அநுராதபுரம் ஏ-12 வீதியில் பண்டுலகம பிரதேசத்தில் இடம்பெற்ற வாகன விபத்தில் மோட்டார் சைக்கிளில் பயணித்த ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் ஒருவர் பலத்த காயமடைந்ததாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவத்தில் பண்டுலகம பிரதேசத்தைச் சேர்ந்த சமிந்த லால் என்ற 43 வயதுடைய நபரொருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+தனியார் பஸ் மற்றும் மோட்டார் சைக்கிள் மோதிக் கொண்டபோதே இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/4dd89e64.json)
 
 ---
 
@@ -214,6 +244,8 @@ People are urged to verify the identities of such persons from Senior Assistant 
 
 [Data](articles/b5edb97a.json)
 
+[Extended Data](ext_articles/b5edb97a.ext.json)
+
 ---
 
 ### A controversial video from Hamas
@@ -303,6 +335,24 @@ Recognizing the progress in macroeconomic reforms, the measures to stabilize the
 [Data](articles/a6af5c6c.json)
 
 [Extended Data](ext_articles/a6af5c6c.ext.json)
+
+---
+
+### பணிநீக்கம் செய்யப்பட்ட  பொலிஸ் கான்ஸ்டபிள்  போதைப்பொருளுடன் கைது!
+
+*2024-04-28 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182143) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களுடன் தொடர்பை பேணி போதைப்பொருள் விற்பனை செய்த குற்றச்சாட்டில்  பணி நீக்கம் செய்யப்பட்ட பொலிஸ் கான்ஸ்டபிள் ஒருவர் போதைப்பொருட்களுடன் கைது செய்யப்பட்டுள்ளதாக மேல் மாகாண வடக்கு குற்றப் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.
+
+சந்தேகநபர், திவுலப்பிட்டி உலுகடே சந்தியில் வைத்து விசாரணைக்கு உட்டபடுத்தப்பட்டபோது அவரால் காண்பிக்கப்பட்ட அடையாள அட்டையில்  ஏற்பட்ட  சந்தேகத்தின் அடிப்படையில் சோதனை மேற்கொண்ட குற்றப் புலனாய்வு பிரிவினரால் போதைப்பொருளுடன் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட மேலதிக விசாரணையின்  போது, அவர் 2022 ஆம் ஆண்டு புறக்கோட்டை பொலிஸ் நிலையத்தில் பணியாற்றியபோது பணி நீக்கம் செய்யப்பட்டவர் எனத் தெரிய வந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவர் கம்பஹா பிரதேசத்தில் இடம்பெற்ற கொலைச் சம்பவத்துடன் தொடர்புடைய காரொன்றின்  பாகங்களை மாற்றுவதற்கும் மறைப்பதற்கும் உதவியவர் எனவும்    விசாரணைகளில் தெரியவந்துள்ளதாக உயர் பொலிஸ் அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/89b93521.json)
 
 ---
 
@@ -2219,71 +2269,5 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 [Data](articles/d797bca5.json)
 
 [Extended Data](ext_articles/d797bca5.ext.json)
-
----
-
-### Sri Lanka co-chairs ASEAN Regional Forum inter-sessional meeting on disaster relief
-
-*2024-04-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98883/sri-lanka-co-chairs-asean-regional-forum-inter-sessional-meeting-on-disaster-relief) · `en`
-
-The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually earlier this week, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
-
-Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management.
-
-Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
-
-The Sri Lanka delegation was led by Director General, South East Asia Division of the Ministry of Foreign Affairs Sashikala Premawardhane, with the participation of senior officials from the National Disaster Relief Service Centre of the Ministry of Defence.
-
-...
-
-[Data](articles/e7339b8e.json)
-
-[Extended Data](ext_articles/e7339b8e.ext.json)
-
----
-
-### Meeting with Ministry of Agriculture, United States
-
-*2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
-
-President Ranil Wickremesinghe met with the US Foreign Agricultural Secretary, discussing agricultural modernization, including milk production, with US support.
-
-🟩
-
-President Ranil Wickremesinghe says that it is a leading purpose in the government's agricultural modernization program to attract young people in the country's field.
-
-The President made this statement when he met the United States Foreign Agricultural Secretary yesterday (26).
-
-A meeting between Mrs. Alexis Taylor and President Ranil Wickremesinghe met with the President of the United States Agriculture Department.
-
-The implementation of a modernization of milk production was discussed with the assistance of the United States.
-
-President Ranil Wickremesinghe said that the program will further encourage projects to promote the production of milk production throughout the country.
-
-In addition, President Ranil Wickremesinghe has also been informed of Mrs. Alexis Taylor.
-
-The United States delegation, including the sub-Secretariat, has assured the President that the Sri Lanka's agricultural modernization program will be fully supported.
-
-◼️
-
-[Data](articles/6b4ba40a.json)
-
-[Extended Data](ext_articles/6b4ba40a.ext.json)
-
----
-
-### Popes and Cardinals
-
-*2024-04-27 15:07:00* · [`islandlk`](http://island.lk/popes-and-cardinals/) · `en`
-
-The enthusiasm generated by the election of a new Pope may give the impression that the 500 million Roman Catholics – sometimes derisively called Papists – are a separate species of human beings. That is not the impression I carried away, after a stay of over five years in Rome. Roman Catholics are, I am certain, like the rest of us, capable of all the follies to which human frailty exposes men and women.
-
-The Pope does not dictate the policies of governments; not even those of the Government of Italy which, in recent times has been successively totalitarian, conservative, middle-of – the-road, and left of center.
-
-...
-
-[Data](articles/85a12429.json)
-
-[Extended Data](ext_articles/85a12429.ext.json)
 
 ---

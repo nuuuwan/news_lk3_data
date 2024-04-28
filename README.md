@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 01:18:34**
+As of **2024-04-29 01:34:04**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,454 (100.0%) of 21,456 articles have been extended.
+21,456 (100.0%) of 21,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### பயணிகள் கப்பல் சேவை மீண்டும் ஆரம்பம்
+### The passenger shipping service restarts
 
 *2024-04-29 00:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணிகள்-கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-336463) · `ta`
 
-இலங்கையின் காங்கேசன்துறை மற்றும் இந்தியாவின் நாகப்பட்டினத்திற்கு இடையிலான பயணிகள் கப்பல் சேவையை எதிர்வரும் மே மாதம் 13ஆம் திகதி மீள ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளது.
+The passenger shipping service between Sri Lanka's Kankesanthurai and India's Nagapattinam, using the 'Sivaganga' ship, resumes on May 13. Passengers can carry 60 kg of goods, with a maximum of 20 kg per package.
 
-இந்த சேவைக்காக ‘சிவகங்கை’ எனும் கப்பல் பயன்படுத்தப்படவுள்ளதாக இந்திய ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+🟩
 
-150 பயணிகள் பயணிப்பதற்கான வசதிகளை கொண்ட இந்த கப்பலில் பயணிப்பதற்கு இருவழி கட்டணமாக வரிகள் உள்ளடக்கப்பட்டு 34,200 ரூபாவை அறவிடுவதற்கு திட்டமிடப்பட்டுள்ளது.
+The passenger shipping service between Sri Lanka's Kankesanthurai and India's Nagapattinam is scheduled to be resumed on May 13.
 
-கப்பலில் பயணிக்கும் பயணியொருவர் 60 கிலோகிராம் எடையுடைய பொருட்களை எடுத்துச்செல்வதற்கும் சந்தர்ப்பம் வழங்கப்படவுள்ளது.
+The Indian media has reported that the ship 'Sivaganga' will be used for this service.
 
-எவ்வாறாயும், பொதியொன்றின் எடை 20 கிலோகிராமுக்கு உட்பட்டதாக அமைய வேண்டும் எனவும் அறிவிக்கப்பட்டுள்ளது. (a)
+The ship, which has 150 passengers, is scheduled to be charged a two -way fee for a two -way fee.
+
+The passenger on the ship will also be given the opportunity to carry 60 kilograms of goods.
+
+However, it has been announced that the weight of a package should be subject to 20 kilograms. (A)
 
 ◼️
 
 [Data](articles/188cd7a3.json)
+
+[Extended Data](ext_articles/188cd7a3.ext.json)
 
 ---
 
@@ -305,6 +311,8 @@ What is being bargained is much less than the relief of $ 14 billion expected th
 ...
 
 [Data](articles/22e76b44.json)
+
+[Extended Data](ext_articles/22e76b44.ext.json)
 
 ---
 

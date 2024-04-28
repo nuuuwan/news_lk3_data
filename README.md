@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 12:18:38**
+As of **2024-04-28 12:33:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,360 (100.0%) of 21,361 articles have been extended.
+21,361 (100.0%) of 21,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,19 +194,25 @@ Police officers who had been on trial for two weeks in connection with the adult
 
 ---
 
-### ඇහැලේපොල වලව්ව මෙරට පළමු ඉටිරූප කෞතුකාගාරය වෙි
+### Ehelepola Walawwa is the first Timber Museum of Sri Lanka
 
 *2024-04-28 11:16:15* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලේපොල-වලව්ව-මෙරට-පළමු-ඉටිරූප-කෞතුකාගාරය-වෙි/11-409293) · `si`
 
-ඇහැලේපොල වලව්ව ශ්‍රී දළදා මාලිගාවට පැවරීම කඩිනමින් ඇමති ප්‍රසන්නගෙන් නිලධාරීන්ට උපදෙස්
+Ehelepola Walawwa, Sri Lanka's first Timber Museum, is being reconstructed by the UDA with a wax museum by Diyawadana Nilame, showcasing Kandyan period architecture and culture. Minister Prasanna instructs its transfer to Sri Dalada Malurawa.
 
-ඓතිහාසික ඇහැලේපොඵ වලව්ව මෙරට පළමු ඉටිරූප කෞතුකාගාරයක් වෙයි. නාගරික සංවර්ධන අධිකාරිය විසින් ප්‍රතිසංස්කරණය කල ඇහැලේපොල වලව්ව දළදා මාලිගාවට පවරා දීමෙන් පසු පුරාවිද්‍යාත්මක හා සංස්කෘතිකමය වටිනාකම් ආරක්ෂා කර ගනිමින් මෙම ඉටි රූප කෞතුකාගාරය නිර්මාණය කරන බව ශ්‍රී දළදා මාලිගාවේ දියවඩන නිලමේ නිලංග දෑල බණ්ඩාර මහතා පවසයි.
+🟩
 
-ඇහැලේපොල වලව්ව අයත් මහනුවර යුගයේ ගෘහනිර්මාණ ශිල්ප, චාරිත්‍ර වාරිත්‍ර සංස්කෘතිය, ආහාර රටාව, කර්මාන්ත හා කලා ශිල්ප ද එම වලව්ව තුල ඉටි රූප ආශ්‍රිතව ප්‍රතිනිර්මාණය කෙරේ. එමෙන්ම ජාතික වීරවරයන් වන මොණරවිල කැප්පෙටිපොළදිසාව, ඇහැලේපොල මහාධිකාරම්තුමා, දේවේන්ද්‍ර මූලාචාරීතුමා මෙන්ම ඇහැලේපොල පවුලේ සාමාජිකයන්ගේද ඌව වෙල්ලස්ස කැරැල්ලට නායකත්වය දුන් නායකයන්ගේ ජීවමාන ඉටිරූප මෙහි නිර්මාණය කිරීමට සැලසුම් කර තිබේ. මෙරට පෞඩෟත්වය හා අභිමානය විදහා දැක්වෙන මෙම ඉටි කෞතුකාගාරය දෙස් විදෙස් ආකර්ශනය දිනා ගනු ඇතැයි විශ්වාස කරන බව දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑලබණ්ඩාර මහතා පවසයි.
+Minister Prasanna instructs officials to assign Ehelepola Walawwa to Sri Dalada Malurawa
+
+Historical Ehelepoliose Valuage is one of the first tiger museum in Sri Lanka. Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame, is creating the wax museum, will create archaeological and cultural values since the UDA's reconstructed Ehelepola Walawwa.
+
+The Kandyan period belonging to the Kandyan period originate architecture, customs culture, food pattern, industry and arts to be redesigned in the Weapons of waxes. It also plans to create the living tips of the leaders who led the Uva Wellassa, as well as the Ehelepola High Court and the Ehelepola High Court and the Ehelepola High Court and the Ehelepola High Court and the Ehelepola family and Ehelepola family members.. Diyawadana Nilame Pradeep Nilanga Delabandara says that this wax museum is believed to win local and overseas attractiveness.
 
 ...
 
 [Data](articles/66c47d70.json)
+
+[Extended Data](ext_articles/66c47d70.ext.json)
 
 ---
 

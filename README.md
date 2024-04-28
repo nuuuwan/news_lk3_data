@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 13:18:28**
+As of **2024-04-28 13:34:20**
 
 ## Newspaper Stats
 
-*Scraped **21,364** Articles*
+*Scraped **21,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,210
 adalk | 1,782
-tamilmirrorlk | 2,476
-adaderanalk | 2,546
+tamilmirrorlk | 2,477
+adaderanalk | 2,547
 virakesarilk | 3,208
 dailymirrorlk | 3,322
 adaderanasinhalalk | 3,457
@@ -26,11 +26,47 @@ adaderanasinhalalk | 3,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,364 (100.0%) of 21,364 articles have been extended.
+21,364 (100.0%) of 21,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### ‘Economy has stabilized, growth is now emerging’ - Semasinghe
+
+*2024-04-28 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98894/economy-has-stabilized-growth-is-now-emerging-semasinghe) · `en`
+
+State Minister of Finance Shehan Semasinghe says that Sri Lanka’s economy has been stabilized with the continuous appreciation of Sri Lankan Rupee, and the growth is now emerging.
+
+Posting on ‘X’ (formerly Twitter), Semasinghe expressed that the strengthening of the Sri Lankan Rupee will make the purchasing of goods and services cheaper over time.
+
+This will lead to increased purchasing power, helping to alleviate inflationary pressures and contribute to price stability and financial system stability, he added.
+
+Furthermore, the State Minister stated that after a contraction of 7.8% in 2022, the GDP returned to growth in the 3rd and 4th quarters of 2023, with Q4 GDP growth reaching 4.5%.
+
+Recognizing the progress in macroeconomic reforms, the measures to stabilize the economy has thus far been successful, Semasinghe said, adding that the government is now in the process of transitioning the economy to a new growth path.
+
+◼️
+
+[Data](articles/a6af5c6c.json)
+
+---
+
+### சடலமொன்று மிதக்கிறது
+
+*2024-04-28 13:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலமொன்று-மிதக்கிறது/175-336443) · `ta`
+
+ஆற்றில் மிதந்து கொண்டிருந்த சடலமொன்றை மீட்டெடுத்து வைத்தியசாலையில் பிரேத அறையில் வைத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+களனி- அவிசாவளை கிரிவந்தல வடக்கு பகுதியில் சடலமொன்று மிதப்பதாக அவிசாவளை தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் 50 வயதுடையவர் எனவும் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர். சடலம் அவிசாவளை ஆதார வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/30f35f0d.json)
+
+---
 
 ### Two women and men arrested on suspicion
 
@@ -2267,55 +2303,5 @@ With non tax revenues of 100 billion rupees, lower than expected, total revenues
 [Data](articles/a5269fcd.json)
 
 [Extended Data](ext_articles/a5269fcd.ext.json)
-
----
-
-### Sri Lanka budget deficit down in 2023, tax revenue up 54-pct
-
-*2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-in-2023-tax-revenue-up-54-pct-160234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
-
-Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
-
-In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
-
-But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
-
-With non tax revenues of 100 billion rupees, lower than expected, total revenues were 3,048.8 billion rupees or 11 percent of GDP, in slightly lower than the 11.3 percent in the original budget but in line with the 10.9 percent IMF projection.
-
-...
-
-[Data](articles/e3da9750.json)
-
-[Extended Data](ext_articles/e3da9750.ext.json)
-
----
-
-### Rotary International District 3220 Conference to Hope Sri Lanka
-
-*2024-04-27 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182070) · `ta`
-
-Rotary International District 3220 Conference 2023-2024 in Colombo featured over 400 participants, including dignitaries and speakers from Sri Lanka and abroad. Key figures included Governor Jerome Rajendram and President Ranil Wickremesinghe, who emphasized solving people's problems over eradicating executive power. The conference highlighted Rotary's global impact, including disease prevention and community development, and its role in peace and goodwill.
-
-🟩
-
-Rotary International District 3220 Conference 2023 - 2024 was held on Friday (26) at the Bandaranaike International Conference Hall in Colombo.
-
-More than 400 Rotarians and multi -faceted dignitaries and speakers from Sri Lanka and abroad participated.
-
-Governor of Sri Lanka Rotary Corporation Jerome Rajendram and Chairman DGNT. The conference was chaired by Kumar Sundararaj.
-
-Speaking at the conference, President Ranil Wickremesinghe said, “Solving the problem of the people is now the first to solve the problem of the people and not the eradication of executive power, and that the ports of Trincomalee and Colombo are waiting for India's investment.
-
-Meanwhile, former Director Berohoin represented the International Chairman of the Rotary Club as an honorary guest.
-
-Minister of Information Technology and Digital Services Dr. Palanivel Thiagarajan made a special speech entitled "Using Technology to Strengthen Democracy".
-
-...
-
-[Data](articles/e3490646.json)
-
-[Extended Data](ext_articles/e3490646.ext.json)
 
 ---

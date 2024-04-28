@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 07:21:51**
+As of **2024-04-28 07:58:43**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,320 (100.0%) of 21,326 articles have been extended.
+21,325 (100.0%) of 21,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ශ්‍රී ලංකාවට තවත් පදක්කමක්
+### Another medal to Sri Lanka
 
 *2024-04-28 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196043) · `si`
 
-වයස අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා ශූරතා තරගාවලියේ මීටර 4x400 ඉසව්වේ ලෝකඩ පදක්කම හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව තිබේ.
+Sri Lanka secured a 4x400m victory in the Under-20 Asian Athletics Championship.
+
+🟩
+
+Sri Lanka won the 4x400 incident in the Under-20 Asian Athletics Championship.
 
 ◼️
 
 [Data](articles/b6d15dca.json)
+
+[Extended Data](ext_articles/b6d15dca.ext.json)
 
 ---
 
@@ -92,21 +98,29 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 
 ---
 
-### ’வசத் சிரிய 2024’  புத்தாண்டுக் கொண்டாட்டம்
+### New Year Celebration Syrian 2024
 
 *2024-04-28 01:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசத்-சிரிய-2024-புத்தாண்டுக்-கொண்டாட்டம்/175-336417) · `ta`
 
-'வசத் சிரிய – 2024' சிங்கள மற்றும் தமிழ் புத்தாண்டு கொண்டாட்டம் நேற்று கொழும்பு ஷங்ரிலா பசுமை மைதானத்தில் ஆரம்பமாகியதுடன், உள்நாட்டு மற்றும் வெளிநாட்டு பெருந்திரளான மக்கள் ஆரம்பம் முதலே இந்நிகழ்வில் கலந்துகொண்டனர்.
+The 'Vasad Syria - 2024' New Year celebration in Colombo, organized by President Ranil Wickremesinghe's team, featured competitions and was attended by staff, families, and friends from across the country. President Wickremesinghe visited the event and interacted with attendees.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைவாக தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் அமைச்சுகள் மற்றும் அரச நிறுவனங்களை இணைத்து இந்த புத்தாண்டு கொண்டாட்டத்தை ஏற்பாடு செய்திருந்தனர்.
+🟩
 
-அரசதுறை, திறந்த துறை மற்றும் விருந்தினர் துறை ஆகிய 03 பிரிவுகளின் கீழ் பல போட்டிகள் நடத்தப்பட்டன. இதில் அமைச்சுக்கள் மற்றும் அரச நிறுவனங்களின் ஊழியர்கள், அவர்களின் குடும்பத்தினர், நண்பர்கள் மற்றும் நாட்டின் பல்வேறு பிரதேசங்களைச் சேர்ந்த மக்கள் இதில் கலந்து கொள்கின்றனர்.
+The 'Vasad Syria - 2024' Sinhala and Tamil New Year celebration commenced yesterday at the Shankrila Green Ground in Colombo and participated in the event from the beginning.
 
-புத்தாண்டு விழா நடைபெறும் இடத்திற்கு நேற்று விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, அங்கிருந்த மக்களுடன் சிநேகபூர்வவமாக கலந்துரையாடினார். சில போட்டிகளையும் பார்வையிட்டார்.
+In accordance with President Ranil Wickremesinghe's directive, the President's Senior Advisor and Presidential Task Force Chief Sagala Ratnayake and President's Secretary Saman Ekanayake organized the New Year celebration with ministries and state institutions.
 
-...
+Several competitions were held under 03 sections of the State Department, Open Department and Guest Department. It is attended by staff of ministries and state institutions, their families, friends and people from different parts of the country.
+
+President Ranil Wickremesinghe, who visited the site of the New Year celebration yesterday, discussed with the people there.. He also visited some matches.
+
+The President, who visited the village house and medical house, visited them and spoke to the foreigners who had come to see them.. (A)
+
+◼️
 
 [Data](articles/3a40b6e1.json)
+
+[Extended Data](ext_articles/3a40b6e1.ext.json)
 
 ---
 
@@ -1130,6 +1144,8 @@ Perhaps there is no phrase of Karl Marx that is better known or more frequently 
 
 [Data](articles/8760cdc2.json)
 
+[Extended Data](ext_articles/8760cdc2.ext.json)
+
 ---
 
 ### A.T. Ariyaratne and the Bauddha Jatika Balavegaya (BJB)
@@ -1145,6 +1161,8 @@ Much has been written of him and much will be written of him in the future. Ther
 ...
 
 [Data](articles/ea0079fa.json)
+
+[Extended Data](ext_articles/ea0079fa.ext.json)
 
 ---
 
@@ -1181,6 +1199,8 @@ Affection is the wrong word. Loyalty was the trait mothers enjoyed from their dr
 ...
 
 [Data](articles/f8e1b3ce.json)
+
+[Extended Data](ext_articles/f8e1b3ce.ext.json)
 
 ---
 

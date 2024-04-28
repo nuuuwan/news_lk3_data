@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 10:51:46**
+As of **2024-04-28 11:03:34**
 
 ## Newspaper Stats
 
-*Scraped **21,339** Articles*
+*Scraped **21,342** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 183
+colombotelegraphcom | 184
 bbccomsinhala | 224
 dbsjeyarajcom | 227
 newsfirstlk | 363
@@ -19,28 +19,74 @@ adalk | 1,776
 tamilmirrorlk | 2,470
 adaderanalk | 2,544
 virakesarilk | 3,204
-dailymirrorlk | 3,320
+dailymirrorlk | 3,322
 adaderanasinhalalk | 3,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,337 (100.0%) of 21,339 articles have been extended.
+21,339 (100.0%) of 21,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### நொச்சியாகம - மானெல் ஏரியில் மூழ்கி இளைஞர் உயிரிழப்பு
+### Teen girl injured in Minneriya shooting dies
+
+*2024-04-28 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-girl-injured-in-Minneriya-shooting-dies/108-281500) · `en`
+
+Minneriya, April 28 (Daily Mirror) - The 17-year-old girl who was injured in a shooting incident at Girithale in Minneriya recently, died while undergoing treatment at the hospital.
+
+Minneriya Police initiated an investigation upon receiving information that the girl had been injured and subsequently she was admitted to the Polonnaruwa Hospital.
+
+Investigations revealed that the shooting had occurred while the girl was visiting her relative's house with her family members.
+
+It was revealed that her ex-boyfriend had carried out the shooting.
+
+The suspect was arrested while fleeing after the shooting. He was later remanded till May 2.
+
+◼️
+
+[Data](articles/44fd1fc4.json)
+
+---
+
+### Over 7,000 soldiers granted legal discharge in Sri Lanka Army amnesty
+
+*2024-04-28 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-7-000-soldiers-granted-legal-discharge-in-Sri-Lanka-Army-amnesty/108-281498) · `en`
+
+Colombo, April 28 (Daily MIrror) - More than 7,000 soldiers who deserted the Sri Lanka Army have received legal discharge during an amnesty period declared by Sri Lanka’s Ministry of Defence.
+
+The Sri Lanka Army, under the Ministry of Defence's directive, has announced a General Amnesty from April 20, allowing all Army absentees to receive an official discharge from their service.
+
+The general amnesty is in effect for one month, from April 20 to May 20, 2024. During this period, Army absentees have been given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centers.
+
+As of April 27, a total of 7,156 deserters from the Army have obtained clearance and legal discharge.
+
+The Army has confirmed that 13 army deserters currently abroad are also among those received legal discharge.
+
+◼️
+
+[Data](articles/74fd8af6.json)
+
+---
+
+### Nochiyagama
 
 *2024-04-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182127) · `ta`
 
-நொச்சியாகம பிரதேசத்தில் உள்ள மானெல் ஏரியில் மூழ்கி இளைஞர் ஒருவர் நேற்று (27) காலை உயிரிழந்துள்ளார்.
+A youth drowned in Manel Lake, Nochiyagama area, yesterday morning.
+
+🟩
+
+A youth drowned in Manel Lake in Nochiyagama area yesterday morning.
 
 ◼️
 
 [Data](articles/c4df0c7a.json)
+
+[Extended Data](ext_articles/c4df0c7a.ext.json)
 
 ---
 
@@ -112,25 +158,35 @@ The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
 
 ---
 
-### மாகாணசபைமுறையால் இனப்பிரச்சினைக்கு நிரந்தரதீர்வை பெற்றுதர முடியாது : பல வருடங்களாக  மறுக்கப்பட்டு வந்த தமிழ் மக்களின் அதிகாரத்திற்கான நியாயமான உரிமையை நாங்கள் உறுதி செய்வோம் - ஜே.வி.பி. தலைவர்
+### Provincial Council cannot make a permanent decision on the ethnic problem: We will ensure the legitimate right to the power of the Tamil people who have been denied for years - the JVP. Chairman
 
 *2024-04-28 08:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182118) · `ta`
 
-பல ஆண்டுகளாக ஆட்சியாளர்களால் தொடர்ந்து மறுக்கப்பட்டு வந்த தமிழ் மக்களின் அதிகாரத்திற்கான நியாயமான உரிமையை நாங்கள் உறுதி செய்வோம் என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்
+JVP leader Anura Kumaratisanayake emphasizes the Tamil people's right to power, criticizing the Provincial Council's inability to permanently address ethnic issues. He argues for a political system that unites all communities, not divides them, to solve the ethnic problem in Sri Lanka.
 
-இலங்கையின் இனப்பிரச்சினைக்கு நிரந்தர தீர்வுகளை பெற்றுக்கொடுத்து தேசத்தை மீண்டும் கட்டியெழுப்ப முடியும் என கட்சி என்ற அடிப்படையில் நாங்கள் நம்புகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்
+🟩
 
-மாகாணசபைமுறையால் இனப்பிரச்சினைக்கு நிரந்தரதீர்வை பெற்றுதர முடியாது ஆனால் அது தங்களின் உரிமை என தமிழ் மக்கள் கருதுகின்றர் மாகாணசபைமுறை தொடரவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்
+JVP leader Anura Kumaratisanayake has said that we will ensure the legitimate right to the power of the Tamil people who have been denied by the rulers for many years.
 
-அரசமைப்பின் 13வது திருத்தம் குறித்து தேசிய மக்கள் சக்தியி;டமிருந்து எந்த கருத்தும் பதிலும் இல்லையே உங்களால் அதனை தெளிவுபடுத்த முடியுமா?
+"We believe in the party that we can build a permanent solution to the ethnic problem of Sri Lanka," he said.
 
-பதி;ல்- நாங்கள் பல தடவை 13வது திருத்தம் மற்றும் மாகாணசபைகள் குறித்த எங்கள் நிலைப்பாட்டை தெரிவித்திருக்கின்றோம்.
+He said the provincial council should not be a permanent decision by the provincial council, but the Tamil people think that it is their right.
 
-2019ம் ஆண்டு வெளியான எங்களின் கொள்கை குறித்த ஆவணத்திலும் இது குறித்து தெரிவித்திருக்கின்றோம்.
+Can you make it clear that there is no response from the National People's Power on the 13th Amendment to the Constitution?
+
+We have repeatedly informed our position on the 13th Amendment and Provincial Councils.
+
+We have also mentioned this in our policy document released in 2019.
+
+We do not consider the provincial council as a complete solution to the country's ethnic problem, but the provincial councils have been in the upper country for the past three decades.
+
+The people of the North East consider their victory as provincial councils after years of request.
 
 ...
 
 [Data](articles/59500574.json)
+
+[Extended Data](ext_articles/59500574.ext.json)
 
 ---
 
@@ -297,6 +353,20 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 [Data](articles/a122f825.json)
 
 [Extended Data](ext_articles/a122f825.ext.json)
+
+---
+
+### Sri Lanka’s Political Landscape: Navigating A Tripartite Contest
+
+*2024-04-28 05:04:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-political-landscape-navigating-a-tripartite-contest/) · `en`
+
+As Sri Lanka braces itself for a pivotal presidential election, the specter of a tripartite contest looms large, promising both challenges and opportunities for the nation’s political future. Against a backdrop of delayed and cancelled elections, disillusionment with traditional political parties, and socioeconomic turmoil exacerbated by the global pandemic, the stage is set for a seismic shift in the country’s power dynamics.
+
+The protracted postponements of provincial and local government elections have fuelled public frustration and eroded trust in the democratic process. The vacuum created by these delays has allowed incumbents to wield disproportionate influence, exploiting executive powers for personal gain and partisan advantage. The unchecked exercise of authority by appointed governors and the manipulation of electoral timelines have further eroded the foundations of democratic governance.
+
+...
+
+[Data](articles/e42628a3.json)
 
 ---
 
@@ -2149,75 +2219,5 @@ It is said that a 30-year-old man was arrested.
 [Data](articles/7db9e54b.json)
 
 [Extended Data](ext_articles/7db9e54b.ext.json)
-
----
-
-### It rains today - the temperature will increase ...
-
-*2024-04-27 07:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யும்-வெப்பநிலை-அதிகரிக்கும்/175-336397) · `ta`
-
-Rain and thunderstorms expected in West, Sabaragamuwa, Central, South, Northwest, and Uva provinces. Heavy rainfall in Galle and Matara districts, snowfall in West, Sabaragamuwa, Central, and Uva provinces. Temperature increase to 27°C. Take precautions for heavy winds and lightning.
-
-🟩
-
-The Department of Meteorology said that rainfall or thunderstorms will occur at 2.00 pm today in the West, Sabaragamuwa, Central, South, Northwest and Uva provinces.
-
-Thundershowers or thunderstorms can occur in the evening or night in the North Central Province.
-
-It has been reported that there will be a few places in the morning or in a few places from Galle to Matara to Hambantota.
-
-In the upper and Sabaragamuwa provinces, Galle and Matara districts are a maximum of 75 mm in some places. Heavy rainfall is likely.
-
-In some parts of the West, Sabaragamuwa, Central and Uva provinces, there is expected snowfall in the morning.
-
-The Department of Meteorology has called for the people to take necessary steps to reduce the dangers of temporary heavy winds and lightning strikes with thunderstorms.
-
-Meanwhile, the Department of Meteorology has said that the temperature will increase to the level of temperature to pay attention to today (27) in many parts of the country.
-
-...
-
-[Data](articles/556f907f.json)
-
-[Extended Data](ext_articles/556f907f.ext.json)
-
----
-
-### Railway seat reservation crisis
-
-*2024-04-27 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196015) · `si`
-
-The Railways Association criticizes the railway seating crisis resolution, accusing the Railway Department of corruption.
-
-🟩
-
-The Railways Association (OICs) says that the authorities have taken steps to resolve the railway seating crisis online.
-
-Chairman of the President Sumedha Somaratne said that under the powers of a Assistant Transport Superintendent refused to discuss the issue.
-
-Speaking further Mr. Sumedha Somaratne said that the Railway Department has become a place where many corruption.
-
-◼️
-
-[Data](articles/846f2d13.json)
-
-[Extended Data](ext_articles/846f2d13.ext.json)
-
----
-
-### Controversy over child smuggling to Malaysia: Children sent abroad for higher education purposes: CID
-
-*2024-04-27 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversy-over-child-smuggling-to-Malaysia-Children-sent-abroad-for-higher-education-purposes-CID/108-281486) · `en`
-
-Colombo, April 27 (Daily Mirror) - The claims over children being sent from Sri Lanka to Malaysia, which raised concerns of many regarding the fate of the children being sent abroad, took a fresh turn when the police found that the children were sent for higher education purposes, the Daily Mirror learns.
-
-The Police Criminal Investigation Department (CID) following preliminary investigations on the suspected local facilitator of the international child smuggling syndicate, a 14-year-old boy and his father who had been deported from Malaysia this week, had learned that the child was to be sent abroad for higher education purposes.
-
-A senior official of the CID’S Human Traf­ficking, Smuggling Investigation and Maritime Security Investigation Division (HTSIMSID) told the Daily Mirror yesterday that they have credible information that all the 17 children, who were said to have been smuggled out of Sri Lanka to Malaysia in the first few months of 2023, were sent for the same reason.
-
-...
-
-[Data](articles/dc49ba0c.json)
-
-[Extended Data](ext_articles/dc49ba0c.ext.json)
 
 ---

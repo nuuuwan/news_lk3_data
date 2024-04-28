@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 19:18:25**
+As of **2024-04-28 19:34:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,404 (100.0%) of 21,405 articles have been extended.
+21,405 (100.0%) of 21,405 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -292,17 +292,23 @@ Similarly, if there is any such thing as such a person, 071 530 8032 President P
 
 ---
 
-### ජනපති කාර්යාලෙය් නම ව්‍යාජව භාවිත කිරීමක් ගැන නිවේදනයක්
+### Announcement on false use of the name of the Presidential office
 
 *2024-04-28 16:30:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කාර්යාලෙය්-නම-ව්‍යාජව-භාවිත-කිරීමක්-ගැන-නිවේදනයක්/11-409302) · `si`
 
-ජනාධිපති කාර්යාලයේ තනතුරු දරන බවට සඳහන් කරමින් ව්‍යාජ ලිපි ලේඛන ඉදිරිපත් කර ආයෝජකයින්, රැකියා අපේක්ෂිත තරුණ පිරිස් සහ විවිධ රටවලට වීසා බලපත්‍ර ලබාගැනීමට අපේක්ෂා කරන්නන් රවටා මුදල් ලබාගැනීමේ සිදුවීම් වාර්තා වී ඇති බව ජනාධිපති ලේකම් කාර්‍යාලය පවසයි.
+The Presidential Secretariat warns against false use of the Presidential office's name, especially in visa acquisition scams. Investors and employers have reportedly been involved in such fraudulent activities. The Presidential Assistant Secretary, Prasad Senarath, has been confirmed by the Secretary to the President to address these issues.
 
-මෙවැනි වංචනිකයින්ගෙන් ප්‍රවේසම් වන ලෙස ජනාධිපති කාර්යාලය මහජනතාවගෙන් ඉල්ලා සිටින අතර, එවැනි පුද්ගලයින් පිළිබඳ සැකයක් ඇතිවූ වහාම +94 71 530 8032 යන දුරකථන අංකය ඔස්සේ ජනාධිපති ජ්‍යෙෂ්ඨ සහකාර ලේකම් ප්‍රසාද් සෙනරත් මහතා සම්බන්ධ කරගනිමින් අනන්‍යතාව තහවුරැ කර ගන්නා ලෙස වැඩිදුරටත් දැනුම් දී සිටියි.
+🟩
+
+The Presidential Secretariat says that the investors, employers have reportedly entered into custody and acquisition of visas for reports of employers, expects to obtain visas into various countries and various countries.
+
+The Presidential Secretariat requests the public to beware of such fraudsters, and as soon as a doubt about such people, the Presidential Assistant Secretary to the President Prasad Senarath has been confirmed by the Secretary to the President.
 
 ◼️
 
 [Data](articles/6a8ed805.json)
+
+[Extended Data](ext_articles/6a8ed805.ext.json)
 
 ---
 

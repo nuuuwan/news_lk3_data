@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 05:39:32**
+As of **2024-04-28 06:00:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,312 (100.0%) of 21,315 articles have been extended.
+21,315 (100.0%) of 21,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,8 @@ The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s
 ...
 
 [Data](articles/234acc68.json)
+
+[Extended Data](ext_articles/234acc68.ext.json)
 
 ---
 
@@ -2028,6 +2030,8 @@ Turnover stood at Rs 4.1 billion with five crossings. Those crossings were repor
 
 [Data](articles/077b05b6.json)
 
+[Extended Data](ext_articles/077b05b6.ext.json)
+
 ---
 
 ### Colombo shaping up as a major tourist destination – President Wickremesinghe
@@ -2041,6 +2045,8 @@ The city of Colombo will become a major tourist destination in years to come wit
 ...
 
 [Data](articles/508fdc02.json)
+
+[Extended Data](ext_articles/508fdc02.ext.json)
 
 ---
 

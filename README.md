@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 16:33:52**
+As of **2024-04-28 16:49:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,386 (100.0%) of 21,388 articles have been extended.
+21,388 (100.0%) of 21,388 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Pro-Palestinian protests have spread to college campuses across the U.S., stoked
 ...
 
 [Data](articles/22838f52.json)
+
+[Extended Data](ext_articles/22838f52.ext.json)
 
 ---
 
@@ -99,6 +101,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/1f6e3708.json)
+
+[Extended Data](ext_articles/1f6e3708.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 21:03:47**
+As of **2024-04-28 21:18:23**
 
 ## Newspaper Stats
 
-*Scraped **21,428** Articles*
+*Scraped **21,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ dailyftlk | 1,202
 economynextcom | 1,214
 adalk | 1,792
 tamilmirrorlk | 2,482
-adaderanalk | 2,555
+adaderanalk | 2,556
 virakesarilk | 3,218
-dailymirrorlk | 3,333
-adaderanasinhalalk | 3,469
+dailymirrorlk | 3,334
+adaderanasinhalalk | 3,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,427 (100.0%) of 21,428 articles have been extended.
+21,428 (100.0%) of 21,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Underworld figure arrested with fake passport at BIA
+
+*2024-04-28 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98904/underworld-figure-arrested-with-fake-passport-at-bia) · `en`
+
+An underworld figure from Angoda who was attempting to leave the country using a forged passport has been arrested at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The arrest has been made after the suspect was detected through the recently-installed automatic facial recognition system at the BIA premises, Police Media Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/0dd013a9.json)
+
+---
+
+### 7,000 කට හිමිවූ පොදු සමාව
+
+*2024-04-28 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196062) · `si`
+
+නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයින් 7,000කට අධික පිරිසක් පොදු සමා කාලයේ පළමු සතිය තුළ ඉවත් කර තිබේ.
+
+අප්‍රේල් මස 20 වනදා සිට ශ්‍රී ලංකා යුද්ධ හමුදාවේ නිවාඩු නොමැතිව සේවයට වාර්තා නොකරන සිටින නිලධාරීන් හා සෙසු නිලයන් හට නිත්‍යානුකූලව සේවයෙන් ඉවත්වීමට පොදු සමා කාලයක් ප්‍රකාශයට පත් කරනු ලැබීය.
+
+ඒ අනුව එම පොදු සමා කාලය තුළ මේ වනවිට යුද හමුදා සාමාජිකයින් 7,156 දෙනෙකු සේවයෙන් ඉවත් වී ඇති බව යුද හමුදා මූලස්ථානය සඳහන් කරයි.
+
+යුද හමුදා සාමාජිකයින් 7,143 දෙනෙකු ඔවුන් අයත් රෙජිමේන්තු මධ්‍යස්ථානවලින් තාවකාලිව ඉවත් කිරීම සිදුකර ඇති බවද වාර්තාවෙයි.
+
+ඊට අමතරව නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර දැනට විදෙස්ගතව සිටින යුද හමුදා සාමාජිකයින් 13 දෙනෙකු ද යුද හමුදා සේවයෙන් නිත්‍යානුකූලව ඉවත්වීම සඳහා කටයුතු කර ඇති බව යුද හමුදා මූලස්ථානය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/274103ee.json)
+
+---
+
+### Indian Coast Guard seizes narcotics bound for Sri Lanka, 14 held
+
+*2024-04-28 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Coast-Guard-seizes-narcotics-bound-for-Sri-Lanka-14-held/108-281509) · `en`
+
+New Delhi [India], April 28 (ANI): The Indian Coast Guard carried out an intelligence-based anti-narcotics operation and seized narcotics worth Rs 600 crore from a Pakistani boat named 'Al-Raza' and apprehended 14 crew members who belonged to Balochistan.
+
+The Pakistani boat along with its 14 crew members have been apprehended and is being brought to Porbandar, Gujarat for further investigations, the Indian Coast Guard said in a statement.
+
+The narcotics weighed around 86 kg and amounted to around Rs 600 crore.
+
+Ahmedabad DGP Gujarat Vikas Sahay said that the consignment was not for India but Sri Lanka and all 14 crew members were residents of Balochistan, Pakistan.
+
+...
+
+[Data](articles/5b47de56.json)
+
+---
 
 ### Man runs onto tarmac before trying to board Sri Lanka-bound flight at Sydney airport
 
@@ -480,23 +532,31 @@ The businessman was arrested by the Criminal Investigation Department and was pr
 
 ---
 
-### කොස්තාපල්වරියට පහරදුන් කොස්තාපල් අල්ලයි
+### Constable arrested for assaulting constable
 
 *2024-04-28 17:38:37* · [`adalk`](https://www.ada.lk/breaking_news/කොස්තාපල්වරියට-පහරදුන්-කොස්තාපල්-අල්ලයි/11-409304) · `si`
 
-මුල්ලේරියාව රූපලාවන්‍යගාරයක් තුලදි පොලිස්  කොස්තාපල්වරියකට පහර දුන්  කොස්තාපල්වරයෙක් මුල්ලේරියාව  පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+An amateur police constable in Mulleriyawa, who runs a salon in Angoda, was arrested for assaulting a police officer. The constable, attached to the CID, was suspended from duty. The incident occurred during an argument between the constable and the police, who were at the salon. The Mulleriyawa Police OIC Chief Inspector Sunimal Susantha is leading the investigation.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අනුයුක්ත ආධුනික පොලිස් කොස්තාපල්වරයෙකි.
+🟩
 
-කොස්තාපල්වරයා අංගොඩ ප්‍රදේශයේ රූපලාවණ්‍යාගාරයක් අලුතෙන් ආරම්භ කර ඇති අතර ඒ සඳහා ඔහු පෙම් සබඳතාවයක් පවත්වාගෙන යන පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයට අනුයුක්තව රාජකාරී කරනු ලබන කාන්තා පොලිස් කොස්තාපල් වරියගෙන් රුපියල් ලක්ෂ  13 කට ලබාගෙන ඇතැයි පොලිසිය කියයි.
+A constable assaulted by the Mulleriyawa Police has been arrested by the police in the mulleriyawa area.
 
-එම නිලධාරිනිය රූපලාවණ්‍යාගාරය  වෙත ගොස් සිටියදී  දෙදෙනා අතර බහින්බස්වීමක් හටගෙන ඇති අතර එහිදී කොස්තාපල්වරයා විසින් නිලධාරීනියට පහර දී  ඇති අතර ඒ සම්බන්ධයෙන් මුල්ලේරියාව පොලිසියට සිදුකළ පැමිණිල්ලක් අනුව සැකකාර කොස්තාපල්වරයා අත්අඩංගුවට ගෙන ඇත.
+The arrested is an amateur police constable attached to the CID.
 
-ඉහත විෂමාචාර ක්‍රියාව හේතුවෙන් ආධුනික පොලිස් කොස්තාපල්වරයාගේ රාජකාරී වැඩ තහනම් කර ඇතැයිද පොලිස් මූලස්ථානයේ උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+The constable has commenced a salon in Angoda area and has been attacked by the police, police said.
 
-...
+The officer had taken an argument between the two while the police had gone to the salon.
+
+A superior police officer at the Police Headquarters said that the duties of the amateur police constable has been suspended due to the act of misconduct.
+
+The suspected constable is to be produced in court. Investigations are conducted on the instructions of the Mulleriyawa Police OIC Chief Inspector Sunimal Susantha.
+
+◼️
 
 [Data](articles/f8830403.json)
+
+[Extended Data](ext_articles/f8830403.ext.json)
 
 ---
 
@@ -2305,53 +2365,5 @@ Gooneratne was born during colonial times to an elite Ceylonese legal family. Hi
 [Data](articles/0733fbe7.json)
 
 [Extended Data](ext_articles/0733fbe7.ext.json)
-
----
-
-### Geraldine D’Rozario : The Timeless Supermodel of Sri Lanka
-
-*2024-04-28 05:08:00* · [`islandlk`](http://island.lk/geraldine-drozario-the-timeless-supermodel-of-sri-lanka/) · `en`
-
-Geraldine D’Rozario epitomises elegance and sophistication as a former Miss Sri Lanka and celebrated supermodel. With an illustrious career spanning four decades, she has graced countless magazine covers and catwalks, leaving an indelible mark on the fashion industry. Beyond her mesmerising presence on camera, Geraldine has showcased her talent behind the scenes, choreographing and coordinating captivating fashion shows.
-
-From her humble beginnings in the advertising industry at the tender age of five, Geraldine’s star has only continued to rise. Her journey on international catwalks began in Sri Lanka at the age of 13 and has since taken her across Asia and Europe. Along the way, she has garnered a plethora of accolades from beauty pageants and industry insiders alike.
-
-Today, Geraldine lends her unparalleled expertise as a full-time fit model for prestigious international brands in Sri Lanka, embodying the epitome of style and grace with every step she takes.
-
-...
-
-[Data](articles/a122f825.json)
-
-[Extended Data](ext_articles/a122f825.ext.json)
-
----
-
-### Sri Lanka’s Political Landscape: Navigating A Tripartite Contest
-
-*2024-04-28 05:04:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-political-landscape-navigating-a-tripartite-contest/) · `en`
-
-As Sri Lanka braces itself for a pivotal presidential election, the specter of a tripartite contest looms large, promising both challenges and opportunities for the nation’s political future. Against a backdrop of delayed and cancelled elections, disillusionment with traditional political parties, and socioeconomic turmoil exacerbated by the global pandemic, the stage is set for a seismic shift in the country’s power dynamics.
-
-The protracted postponements of provincial and local government elections have fuelled public frustration and eroded trust in the democratic process. The vacuum created by these delays has allowed incumbents to wield disproportionate influence, exploiting executive powers for personal gain and partisan advantage. The unchecked exercise of authority by appointed governors and the manipulation of electoral timelines have further eroded the foundations of democratic governance.
-
-...
-
-[Data](articles/e42628a3.json)
-
-[Extended Data](ext_articles/e42628a3.ext.json)
-
----
-
-### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
-
-*2024-04-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
-
-In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
-
-...
-
-[Data](articles/e7ce8fc0.json)
-
-[Extended Data](ext_articles/e7ce8fc0.ext.json)
 
 ---

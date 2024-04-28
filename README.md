@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 11:03:34**
+As of **2024-04-28 11:18:35**
 
 ## Newspaper Stats
 
-*Scraped **21,342** Articles*
+*Scraped **21,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
-adalk | 1,776
+adalk | 1,778
 tamilmirrorlk | 2,470
-adaderanalk | 2,544
+adaderanalk | 2,545
 virakesarilk | 3,204
 dailymirrorlk | 3,322
-adaderanasinhalalk | 3,454
+adaderanasinhalalk | 3,455
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,339 (100.0%) of 21,342 articles have been extended.
+21,342 (100.0%) of 21,346 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,24 @@ The suspect was arrested while fleeing after the shooting. He was later remanded
 
 [Data](articles/44fd1fc4.json)
 
+[Extended Data](ext_articles/44fd1fc4.ext.json)
+
+---
+
+### Committee submits recommendations to expedite disciplinary inquiries of police officers to IGP
+
+*2024-04-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98892/committee-submits-recommendations-to-expedite-disciplinary-inquiries-of-police-officers-to-igp-) · `en`
+
+The committee tasked with addressing administrative issues within Sri Lanka Police, including the delays in disciplinary inquiries, has submitted its report to Inspector General of Police (IGP) Deshabandu Tennakoon.
+
+Led by Senior DIG in-charge of Eastern Province Ajith Rohana, the committee was formed to identify and propose solutions to streamline the disciplinary process for police officers. Among the committee members were DIG in charge of Discipline, Conduct and Legal Division Ruwan Gunasekara, DIG Jaliya Senaratne, Director of Human Resources Management Division SSP W.P.J. Senadheera and Director of Discipline and Conduct Division SSP Nishantha de Silva.
+
+The report contains comprehensive solutions and recommendations aimed at expediting disciplinary procedures and administrative processes within Sri Lanka Police and their impact on officers’ salary increments, allowances, and promotions, the police headquarters said.
+
+...
+
+[Data](articles/6cc179c3.json)
+
 ---
 
 ### Over 7,000 soldiers granted legal discharge in Sri Lanka Army amnesty
@@ -69,6 +87,8 @@ The Army has confirmed that 13 army deserters currently abroad are also among th
 ◼️
 
 [Data](articles/74fd8af6.json)
+
+[Extended Data](ext_articles/74fd8af6.ext.json)
 
 ---
 
@@ -115,6 +135,64 @@ The school student added to the police that the teacher did not harass her even 
 [Data](articles/f222ff16.json)
 
 [Extended Data](ext_articles/f222ff16.ext.json)
+
+---
+
+### ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම දෙවන ජයත් වාර්තා කරයි
+
+*2024-04-28 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196047) · `si`
+
+20යි 20 කාන්තා ලෝක කුසලාන සුදුසුකම් ලැබීමේ තරගාවලියේ ස්කොට්ලන්ත කාන්තා කණ්ඩායම සමග පැවති තරගය කඩුලු 10කින් ජය ගැනීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම සමත්ව තිබේ.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ස්කොට්ලන්ත කාන්තා කණ්ඩායම පන්දුවාර 18යි එක් පන්දුවක් තුළ සියලු දෙනා දැවී ලකුණු 94ක් ලබාගත්තේය.
+
+පන්දු යැවීමේ දී කවීෂා දිල්හාරී කඩුලු 04ක්, ඉනෝෂි ප්‍රියදර්ශනී කඩුලු 03ක් සහ සුගන්ධිකා කුමාරි කඩුලු 02ක් ලබාගත්තෝය.
+
+පිළිතුරු ඉනිම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කාන්තා කණ්ඩායම පන්දුවාර 10.1ක් තුළ කිසිදු කඩුල්ලක් නොදැවී ජයග්‍රහණය වාර්තා කළේය.
+
+ශ්‍රී ලංකා ඉනිම වෙනුවෙන් නායක චමරි අතපත්තු නොදැවී ලකුණු 59යි.
+
+මෙම තරගාවලියේ සහභාගී වූ පළමු තරගයේදී තායිලන්ත කාන්තා කණ්ඩායම පරදවා ලකුණු 67ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම  සමත් විය.
+
+◼️
+
+[Data](articles/e8b22f1b.json)
+
+---
+
+### පොහොට්ටු‌වේ අපේක්ෂකයා නාමල් හෝ රනිල්
+
+*2024-04-28 09:35:59* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු‌වේ-අපේක්ෂකයා-නාමල්-හෝ-රනිල්/11-409291) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණෙ නායකයින් සාකච්ඡා කර, ශ්‍රී ලංකා පොදු ජන පෙරමුණේ පොදු අපේක්ෂකයා වශයෙන්,රනිල් වික්‍රමසිංහ මහතා ඉදිරි ජනාධිපතිවරණයට ඉදිරිපත් කරන්නේ නම්,ඔහුට ඔහුට සියයට පන්සියයක්ම සහාය ලබාදෙන බව  ශ්‍රි ලංකා පොදු ජන පෙරමුණේ, පොළොන්නරුව දිස්ත්‍රික් පා‍ර්ලීමේන්තු මන්ත්‍රි ජගත් සමරවික්‍රම මහතා සඳහන් කළේය.
+
+වැටිලා තිබුණු රට ගොඩ ගැනීමට රනිල් වික්‍රමසිංහ මහතා විශාල කැපකිරීමක් සිදුකළ බවත්, රටේ ඉදිරි සංවර්ධන කටයුතු සඳහා යම් සාධාරණීය වැඩපිළිවෙළක් ක්‍රියාත්මක කරමින් සිටින බවත්, ජගත් සමරවික්‍රම මහතා 28 වෙනිදා සිරිපුර ප්‍රදේශයේ පැවැති මාධ්‍ය හමුවකදී එලෙස සඳහන් කළේය.
+
+දිවංගත ජේ.ආර් ජයවර්ධන මහතාගෙන් පසුව මේ රට සංවර්ධනය කිරීමට හොඳ මොලයක් ඇත්තේ රනිල් වික්‍රමසිංහ මහතාට බවද, සමරවික්‍රම මහතා මෙහිදී කීය.
+
+ඉදිරි ජනාධිපතිවරණයේදී, ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොදු අපේක්ෂකයා ලෙස අනිවාර්යයෙන්ම ඉදිරිපත් වන්නේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෝ නාමල් රාජපක්ෂ මහතා බවත්, එය තව නොබෝ දිනකින් තීරණය කිරීමට අදාළ සාකච්ඡා පැවැත්වෙන බවද ජගත් සමරවික්‍රම මහතා කීවේය.
+
+...
+
+[Data](articles/70114ff2.json)
+
+---
+
+### අවු. 50ට වැඩි ලෝක රූ රැජින තරගාවලියෙන් ලංකාවට ජයක්
+
+*2024-04-28 09:29:39* · [`adalk`](https://www.ada.lk/breaking_news/අවු--50ට-වැඩි-ලෝක-රූ-රැජින-තරගාවලියෙන්-ලංකාවට-ජයක්/11-409290) · `si`
+
+ඇමෙරිකා එක්සත් ජනපදයේ පැවති වයස අවුරුදු 50 ට වැඩි ලෝක රූ රැජින තරගාවලියට ශ්‍රී ලංකාව නියෝජනය කරමින්  සහභාගී වූ තුෂාරි ජයකොඩි මහත්මිය එහි අධ්‍යක්ෂ මණ්ඩල රූ රැජින (Director's Queen ) ලෙස ජයග්‍රහණය කර 04/28 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+
+මෙම ලෝක රූ රැජින  තරගාවලිය ඇමෙරිකා එක්සත් ජනපදයේ නිව්යෝර්ක් නුවර ලෝකයේ රටවල් 37 ක රූ රැජිනියන්ගේ සහභාගීත්වයෙන් ඉකුත් 04/21 දින සිට 04/25 දින දක්වා පවත්වා තිබුණි .
+
+මෙම ජයග්‍රහණය සදහා ලෝකයේ රටවල් 37 ක රූ රැජිනියන් අතර විශාල තරගයක් පැවති බවත් , ඔවුන් අතරින් මෙම අධ්‍යක්ෂ මණ්ඩල රූ රැජින ලෙස ජයග්‍රහණය කිරීමට සමත් වීම ශ්‍රී ලංකාව ලද විශාල භාග්‍යයක්  බවත් තුෂාරි ජයකොඩි මහත්මිය කටුනායක ගුවන් තොටුපොළේ දී පැවසුවාය .
+
+ශ්‍රී ලංකාවේ පැවති තරගාවලියෙන් වයස අවුරුදු 50 ට වැඩි කාණ්ඩයේ ශ්‍රී ලංකා රූ රැජින ලෙස ජයග්‍රහණය කිරීමෙන් අනතුරුව ඇය මෙම තරගාවලිය සදහා සහභාගී වීමට ඇමෙරිකා එක්සත් ජනපදය බලා පිටත්ව ගොස් තිබුණි .
+
+...
+
+[Data](articles/4a221244.json)
 
 ---
 
@@ -367,6 +445,8 @@ The protracted postponements of provincial and local government elections have f
 ...
 
 [Data](articles/e42628a3.json)
+
+[Extended Data](ext_articles/e42628a3.ext.json)
 
 ---
 
@@ -2135,89 +2215,5 @@ The police said that the man was prevalent yesterday (26) and was admitted to th
 [Data](articles/9162ea73.json)
 
 [Extended Data](ext_articles/9162ea73.ext.json)
-
----
-
-### Police arrest suspect with 30 kgs of Ice, hash
-
-*2024-04-27 08:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-suspect-with-30-kgs-of-Ice-hash/108-281490) · `en`
-
-Kaduwela, April 27 (Daily Mirror) - A 30-year-old man was arrested by the Biyagama Police in Kaduwela for possession of a substantial haul of narcotics.
-
-Police said the suspect was carrying 15 kilograms of ICE, 14 kilograms of hash and 941 grams of heroin at the time of the arrest.
-
-◼️
-
-[Data](articles/a3641152.json)
-
-[Extended Data](ext_articles/a3641152.ext.json)
-
----
-
-### Fairly heavy rainfall above 75mm expected today
-
-*2024-04-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98875/fairly-heavy-rainfall-above-75mm-expected-today) · `en`
-
-The Meteorology Department says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 2 p.m.
-
-Showers or thundershowers may occur in the North-central Province in the evening or at night.
-
-Showers or thundershowers may occur at a few places over the coastal areas from Galle to Hambantota via Matara during the morning too.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/74591e6d.json)
-
-[Extended Data](ext_articles/74591e6d.ext.json)
-
----
-
-### Evening thundershowers expected today; temperatures to reach ‘Caution’ level
-
-*2024-04-27 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98875/evening-thundershowers-expected-today-temperatures-to-reach-caution-level) · `en`
-
-The Meteorology Department says showers or thundershowers can be expected in parts of the Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 2 p.m.
-
-Showers or thundershowers are likely in the North-central province in the evening or at night.
-
-Showers or thundershowers may occur at a few places over the coastal areas from Galle to Hambantota via Matara during the morning too.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-The general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Against this backdrop, the Meteorology Department issued a Heat Index Advisory for Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and in Monaragala district.
-
-...
-
-[Data](articles/f23ed014.json)
-
-[Extended Data](ext_articles/f23ed014.ext.json)
-
----
-
-### Racker Bore with 30 kg of drugs
-
-*2024-04-27 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196016) · `si`
-
-A 30-year-old man was arrested in Bomagama, Kaduwela, by the Biyagama Police for carrying 30 kg of drugs, including 15 kg of ice.
-
-🟩
-
-A person has been arrested by the Biyagama Police in Bomagama, Kaduwela.
-
-The suspect had 15 kilograms of ice, police said.
-
-It is said that a 30-year-old man was arrested.
-
-◼️
-
-[Data](articles/7db9e54b.json)
-
-[Extended Data](ext_articles/7db9e54b.ext.json)
 
 ---

@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 01:51:46**
+As of **2024-04-29 02:03:56**
 
 ## Newspaper Stats
 
-*Scraped **21,456** Articles*
+*Scraped **21,460** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 184
+colombotelegraphcom | 185
 bbccomsinhala | 224
 dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,164
-dailyftlk | 1,209
+dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,792
 tamilmirrorlk | 2,484
@@ -26,11 +26,65 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,456 (100.0%) of 21,456 articles have been extended.
+21,456 (100.0%) of 21,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Mujibur blames Govt. for failing to address Opposition’s fresh poser on Easter attacks
+
+*2024-04-29 01:46:49* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-blames-Govt-for-failing-to-address-Opposition-s-fresh-poser-on-Easter-attacks/56-761155) · `en`
+
+SJB Deputy General Secretary Mujibur Rahman addressing the media yesterday
+
+Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman raised concerns yesterday about the lack of information regarding the guests who stayed in room 616 of the Shangri-La Hotel before being occupied by the Easter Sunday attackers including Zahran Hashim on 20 April 2019.
+
+During a press briefing yesterday, Rahman highlighted that court proceedings have unveiled a concerning lack of information regarding the occupants of room 616 at the Shangri-La Hotel in the days leading up to the terrorist attack. He noted that while details of other guests have emerged, court revelations indicate that individuals were present in the room despite a lack of information about them. “The evidence provided by staffers attests to this fact,” he said.
+
+...
+
+[Data](articles/8a32ca6e.json)
+
+---
+
+### Semasinghe highlights positives of strengthening Rupee
+
+*2024-04-29 01:44:30* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-highlights-positives-of-strengthening-Rupee/56-761154) · `en`
+
+Rupee has appreciated against US$ by 9% so far this year on top 12% gain in 2023
+
+State Minister of Finance Shehan Semasinghe highlighted the positive impact of the strengthening rupee on the economy, noting its implications for debt repayment, inflation and financial stability.
+
+He underscored that the strengthening of the rupee will gradually benefit the public, attributing exchange rate fluctuations to market demand and supply dynamics.
+
+The State Minister pointed out the importance of reducing the debt repayment burden amidst the rupee’s appreciation, leading to increased purchasing power, decreased inflationary pressure and preserved financial stability.
+
+During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the US Dollar by 9%, according to Central Bank data. In 2023 the Sri Lanka rupee appreciated against the US Dollar by 12%.
+
+...
+
+[Data](articles/89b8d71b.json)
+
+---
+
+### US research ship granted entry to SL waters for replenishment
+
+*2024-04-29 01:42:33* · [`dailyftlk`](https://www.ft.lk/news/US-research-ship-granted-entry-to-SL-waters-for-replenishment/56-761153) · `en`
+
+The Sri Lankan Government has granted entry to a US research ship for replenishment purposes alone.
+
+The Ministry of Defence confirmed that while the ship was denied permission to conduct research activities, it was allowed entry for replenishment purposes.
+
+Earlier reports indicated that the Sri Lankan Government declined a request for a research vessel to access Sri Lankan waters, consistent with its policy against permitting research ships in its maritime territory. The vessel, which included students from a US university, specifically sought permission to enter Sri Lankan waters solely for logistical support, including fuel, water purification, and food.
+
+In December of last year, Sri Lanka suspended the entry of foreign research vessels due to significant security concerns raised by neighbouring India and the United States, particularly following the visits of two Chinese research ships within 14 months.
+
+...
+
+[Data](articles/08443a72.json)
+
+---
 
 ### The passenger shipping service restarts
 
@@ -587,6 +641,18 @@ Hundreds of farmers participated in the event as the general public.
 [Data](articles/d8527b23.json)
 
 [Extended Data](ext_articles/d8527b23.ext.json)
+
+---
+
+### Foreign Debt Restructuring: Too Late & Too Short To Get Out Of The Debt Trap
+
+*2024-04-28 20:18:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/foreign-debt-restructuring-too-late-too-short-to-get-out-of-the-debt-trap/) · `en`
+
+Sri Lanka’s Government debt issue has become a perennial problem giving opportunities for politicians of the two major political camps which had been in power in the post-independence history to blame each other. They blame the other political party for adopting an irresponsible borrowing spree and gradually driving the nation to an inescapable debt trap. However, this was not the case when the country was under the British. Those colonial masters had adopted the practice of establishing a sinking fund, when a new loan is raised, to ensure its safe repayment.
+
+...
+
+[Data](articles/5c1e71f2.json)
 
 ---
 
@@ -2219,91 +2285,5 @@ Thus, the escaped Egyptians in Kandy. A.. Immigration and Emigration Officers ha
 [Data](articles/c4cb762a.json)
 
 [Extended Data](ext_articles/c4cb762a.ext.json)
-
----
-
-### Lamb with the human face
-
-*2024-04-28 11:19:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனித-முகத்துடன்-ஆட்டுக்குட்டி/175-336435) · `ta`
-
-A lamb with a human face and body, shocking neighbors. Photos spread, but it died in 30 minutes.
-
-🟩
-
-The goat was not only a face, but also the human body like two hands and two legs. Knowing this, the neighbors are looking at the people in surprise.
-
-Photographs related to this began to spread on social circles. However, it is noteworthy that the lamb died in half an hour.
-
-◼️
-
-[Data](articles/423f90d1.json)
-
-[Extended Data](ext_articles/423f90d1.ext.json)
-
----
-
-### Mother and daughter's adultery hostel caught
-
-*2024-04-28 11:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மகளின்-விபசார-விடுதி-சிக்கியது/175-336434) · `ta`
-
-The Kandy CID arrested 3 women for adultery in Handanai. Officers, on trial for 2 weeks, caught them while buying a woman for 5,000 rupees.
-
-🟩
-
-The Kandy Criminal Investigation Department (CID) has arrested three women on suspicion.. They have committed adultery in a large house in Handanai.
-
-Police officers who had been on trial for two weeks in connection with the adultery accommodation said they had arrested the suspects while buying a woman for 5,000 rupees.
-
-◼️
-
-[Data](articles/93178661.json)
-
-[Extended Data](ext_articles/93178661.ext.json)
-
----
-
-### Ehelepola Walawwa is the first Timber Museum of Sri Lanka
-
-*2024-04-28 11:16:15* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලේපොල-වලව්ව-මෙරට-පළමු-ඉටිරූප-කෞතුකාගාරය-වෙි/11-409293) · `si`
-
-Ehelepola Walawwa, Sri Lanka's first Timber Museum, is being reconstructed by the UDA with a wax museum by Diyawadana Nilame, showcasing Kandyan period architecture and culture. Minister Prasanna instructs its transfer to Sri Dalada Malurawa.
-
-🟩
-
-Minister Prasanna instructs officials to assign Ehelepola Walawwa to Sri Dalada Malurawa
-
-Historical Ehelepoliose Valuage is one of the first tiger museum in Sri Lanka. Diyawadana Nilame, Diyawadana Nilame, Diyawadana Nilame, is creating the wax museum, will create archaeological and cultural values since the UDA's reconstructed Ehelepola Walawwa.
-
-The Kandyan period belonging to the Kandyan period originate architecture, customs culture, food pattern, industry and arts to be redesigned in the Weapons of waxes. It also plans to create the living tips of the leaders who led the Uva Wellassa, as well as the Ehelepola High Court and the Ehelepola High Court and the Ehelepola High Court and the Ehelepola High Court and the Ehelepola family and Ehelepola family members.. Diyawadana Nilame Pradeep Nilanga Delabandara says that this wax museum is believed to win local and overseas attractiveness.
-
-...
-
-[Data](articles/66c47d70.json)
-
-[Extended Data](ext_articles/66c47d70.ext.json)
-
----
-
-### Maithri about the news of Korea
-
-*2024-04-28 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196048) · `si`
-
-Maithripala Sirisena denies moving to South Korea, rejects false propaganda, and acknowledges successful World Labor Day in Gampaha.
-
-🟩
-
-Former Presidential Member Maithripala Sirisena says that reports say that they are going to move to South Korea.
-
-He points out that they have no need to reside in any country in South Korea or the world.
-
-Former President Maithripala Sirisena pointed out that the former President Maithripala Sirisena has refused to reject this kind of false propaganda that is carried by political opponents.
-
-Maithripala Sirisena has already been informed that the party authorized officials have already organized the World Labor Day at the Gampaha Municipal Council successfully conducted the World Labor Day at the Gampaha Municipal Council.
-
-◼️
-
-[Data](articles/ee3fc69e.json)
-
-[Extended Data](ext_articles/ee3fc69e.ext.json)
 
 ---

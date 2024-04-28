@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 15:18:45**
+As of **2024-04-28 15:34:04**
 
 ## Newspaper Stats
 
-*Scraped **21,379** Articles*
+*Scraped **21,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 1,784
 tamilmirrorlk | 2,479
 adaderanalk | 2,548
 virakesarilk | 3,208
-dailymirrorlk | 3,325
+dailymirrorlk | 3,326
 adaderanasinhalalk | 3,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,378 (100.0%) of 21,379 articles have been extended.
+21,379 (100.0%) of 21,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### මූල්‍ය වංචාවකට නළුවෙකු අත්අඩංගුවට
+### An actor arrested for financial fraud
 
 *2024-04-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196053) · `si`
 
-ඉන්දීය ජනප්‍රිය නළුවෙකු වන සාහිල් ඛාන්ව එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Sahal Khan, an Indian actor, was arrested for financial fraud via a betting app "Mahadeva," following a 40-hour operation by Mumbai security forces.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ඔට්ටු ඇල්ලීමේ යෙදවුමක් හරහා මූල්‍ය වංචා සිදුකිරීමට අදාළ චෝදනාවකට ඔහුව මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-"මහාදේව්" නමැති අදාළ ඔට්ටු ඇල්ලීමේ යෙදවුම ප්‍රවර්ධනය සඳහා ද ඔහු පෙනී සිට ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කර ඇත.
+The Indian Popular actor, Sahal Khan, has been arrested by the police.
 
-සැකකාර නළුවා මුම්බායි සිට පළාගොස් සිටියදී එරට ආරක්ෂක අංශ විසින් පැය 40ක මෙහෙයුමකින් අනතුරුව ඔහුව අත්අඩංගුවට ගත් බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+Foreign media reports, he was arrested for charges of financial fraud through a betting app.
+
+Foreign media added that he has also appeared to promote the applicant betting application called "Mahadeva".
+
+Foreign media reports that the suspect actor has been arrested by the security forces from Mumbai and arrested him after a 40 hour operation.
 
 ◼️
 
 [Data](articles/724df992.json)
+
+[Extended Data](ext_articles/724df992.ext.json)
 
 ---
 
@@ -191,6 +197,22 @@ People are urged to verify the identities of such persons from Senior Assistant 
 [Data](articles/9d3e7abc.json)
 
 [Extended Data](ext_articles/9d3e7abc.ext.json)
+
+---
+
+### Public warned over individuals misleading investors, job seekers, visa applicants
+
+*2024-04-28 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-warned-over-individuals-misleading-investors-job-seekers-visa-applicants/155-281504) · `en`
+
+Colombo, April 28 (Daily Mirror)- The public are urged to exercise caution over certain individuals who are misleading investors, job seekers and visa applicants while claiming to hold positions within the Presidential Secretariat.
+
+The President's Media Division (PMD) said reports have been received that certain individuals are misleading investors, job seekers and visa applicants and are fraudulently obtaining money by submitting forged documents while claiming to hold positions within the Presidential Secretariat.
+
+People are urged to verify the identities of such persons from Senior Assistant Secretary Prasad Senarath on telephone number 0715308032.
+
+◼️
+
+[Data](articles/b5edb97a.json)
 
 ---
 
@@ -2263,27 +2285,5 @@ The Pope does not dictate the policies of governments; not even those of the Gov
 [Data](articles/85a12429.json)
 
 [Extended Data](ext_articles/85a12429.ext.json)
-
----
-
-### Drugs in Bandarawattaedi
-
-*2024-04-27 15:02:38* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරවත්තේදි-සිදුකළ-මත්ද්‍රව්‍ය-වැටලීම/11-409287) · `si`
-
-Police arrested 81 kg of ice, 15 mg of ice, and 941 mg of Hubes in Bandarawattaedi. Suspects include a 31-year-old from Kaduwela, a 40-year-old from Simaliapa, and a 39-year-old from Aralaganwila.
-
-🟩
-
-According to information received by the Biyagama Inspector General of Police, the police have been arrested last 81 kg of ice, 15 milligrams of ice and 941 milligrams of Hubes.
-
-The suspect is one of the 31 year Bamuru, Kaduwela resident of Kaduwela. Another raid in the area was arrested in possession of 2 ice drugs, two suspects in possession of Rs. 120 ml.
-
-The suspects are residents of Kaduwela and Simaliapa, who have been arrested and 40 years old and the suspect is a 39 year old resident of Aralaganwila.
-
-◼️
-
-[Data](articles/f1a1927a.json)
-
-[Extended Data](ext_articles/f1a1927a.ext.json)
 
 ---

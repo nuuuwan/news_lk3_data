@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 20:34:14**
+As of **2024-04-28 20:51:18**
 
 ## Newspaper Stats
 
-*Scraped **21,424** Articles*
+*Scraped **21,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 1,791
 tamilmirrorlk | 2,482
 adaderanalk | 2,555
 virakesarilk | 3,218
-dailymirrorlk | 3,330
+dailymirrorlk | 3,333
 adaderanasinhalalk | 3,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,421 (100.0%) of 21,424 articles have been extended.
+21,424 (100.0%) of 21,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Man runs onto tarmac before trying to board Sri Lanka-bound flight at Sydney airport
+
+*2024-04-28 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-runs-onto-tarmac-before-trying-to-board-Sri-Lanka-bound-flight-at-Sydney-airport/108-281508) · `en`
+
+April 28 (nypost) - A brazen intruder was captured walking across a jet bridge and onto a busy tarmac before he tried to board a nearby plane at an Australian airport.
+
+The unidentified 30-year-old man allegedly bolted through the screening area to breach security at the Sydney International Airport on Friday, 9 News reported.
+
+The Australian Federal Police say they were able to stop the man as he was moseying his way toward the tarmac.
+
+“AFP officers arrested a man, 30, who allegedly ran through the main screening area and gained access to restricted areas, including the apron,” said in a statement to the outlet.
+
+An apron connects the terminal buildings with the airfield, where baggage and passengers board a plane.
+
+Witnesses claimed they saw the man run through the airport’s immigration control area and onto the airport’s apron.
+
+He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flight but was thwarted by baggage handlers.
+
+...
+
+[Data](articles/69912ebd.json)
+
+---
 
 ### Action to increase the interest of the Employees Provident Fund 13% - Ministry of Finance
 
@@ -80,6 +104,24 @@ He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flig
 
 [Data](articles/9aac370b.json)
 
+[Extended Data](ext_articles/9aac370b.ext.json)
+
+---
+
+### Interest rate on EPF to be increased to 13%: Siyambalapitiya
+
+*2024-04-28 19:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Interest-rate-on-EPF-to-be-increased-to-13-Siyambalapitiya/108-281507) · `en`
+
+Yatiyantota, April 28 (Daily Mirror)- Steps would be taken to increase the interest rate of the Employee’s Provident Fund (EPF) from the existing 9 percent to 13 percent with effect from 2013, State Minister of Finance Ranjith Siyambalapitiya said.
+
+He told reporters in Yatiyantota that the EPF is the largest fund in the country with 2.7 million members.
+
+The interest paid to the EPF was reduced from 13 percent to 9 percent under the domestic debt restructuring process.
+
+◼️
+
+[Data](articles/595adcdc.json)
+
 ---
 
 ### Interest rate on EPF increased to 13%: Siyambalapitiya
@@ -95,6 +137,8 @@ The interest paid to the EPF was reduced from 13 percent to 9 percent under the 
 ◼️
 
 [Data](articles/809e13c5.json)
+
+[Extended Data](ext_articles/809e13c5.ext.json)
 
 ---
 
@@ -1155,6 +1199,8 @@ The 'City Pet Animal Hospital', Pelawatta branch, celebrated their third anniver
 ◼️
 
 [Data](articles/371be10a.json)
+
+[Extended Data](ext_articles/371be10a.ext.json)
 
 ---
 
@@ -2311,45 +2357,5 @@ What is a sexually transmitted infection?How can you protect you?
 [Data](articles/1c77e69d.json)
 
 [Extended Data](ext_articles/1c77e69d.ext.json)
-
----
-
-### Struggle for non -academic staff
-
-*2024-04-28 01:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-போராட்டம்/175-336420) · `ta`
-
-Non-academic staff at universities are engaging in a continuous trade union struggle, starting from 12 noon on May 2, as announced by the University Trade Union Union.
-
-🟩
-
-The University Trade Union Union said that non -academic staff have decided to engage in a continuous trade union struggle in all universities.
-
-The union protest will be carried out continuously from 12 noon on May 2. Priyantha said.
-
-◼️
-
-[Data](articles/603c42c6.json)
-
-[Extended Data](ext_articles/603c42c6.ext.json)
-
----
-
-### Discussion on vehicle import
-
-*2024-04-28 01:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-கலந்துரையாடல்/175-336419) · `ta`
-
-Finance Minister Shehan Semasinghe initiated discussions on vehicle import permissions, involving the Finance Ministry, Presidential Secretariat, and Central Bank.
-
-🟩
-
-Finance Minister Shehan Semasinghe said that discussions have been initiated regarding permission for vehicle imports.
-
-The Minister of State has stated that it is being discussed with the Finance Ministry, the Presidential Secretariat and the Central Bank.
-
-◼️
-
-[Data](articles/28083d3f.json)
-
-[Extended Data](ext_articles/28083d3f.ext.json)
 
 ---

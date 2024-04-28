@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 14:34:09**
+As of **2024-04-28 14:50:44**
 
 ## Newspaper Stats
 
-*Scraped **21,372** Articles*
+*Scraped **21,375** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 184
 bbccomsinhala | 224
-dbsjeyarajcom | 227
+dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
@@ -19,18 +19,52 @@ adalk | 1,783
 tamilmirrorlk | 2,477
 adaderanalk | 2,548
 virakesarilk | 3,208
-dailymirrorlk | 3,324
-adaderanasinhalalk | 3,459
+dailymirrorlk | 3,325
+adaderanasinhalalk | 3,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,372 (100.0%) of 21,372 articles have been extended.
+21,372 (100.0%) of 21,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### ලංකාවට එන්න තිබූ ගුවන් යානයේ ඇතිවූ කලබලය
+
+*2024-04-28 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196052) · `si`
+
+ඔස්ට්‍රේලියාවේ සිඩ්නි ගුවන්තොටුපොළේදී ඇතිවූ උණුසුම් තත්ත්වයක් දැක්වෙන වීඩියෝවක් මේ වනවිට විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබූ ගුවන් යානයක භාණ්ඩ රැගෙන යන කොටසට පුද්ගලයෙකු පිවිසීම හේතුවෙන් මෙම උණුසුම ඇතිවී තිබුණි.
+
+එහිදී ආරක්ෂක අංශ විසින් සැකකරු අත්අඩංගුවට ගැනීමට කටයුතු කර තිබූ අතර පසුව සිදුකළ විමර්ශනවලට අනුව පොලීසිය සැකපළකරන්නේ ඔහු මානසික ආබාධයකින් පෙළෙන අයෙකු බවටය.
+
+◼️
+
+[Data](articles/ef939c2c.json)
+
+---
+
+### Sri Lankan students excel at International Creativity and Innovation Awards in Thailand
+
+*2024-04-28 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-students-excel-at-International-Creativity-and-Innovation-Awards-in-Thailand/108-281505) · `en`
+
+Sri Lankan students from the Burhani Serendib School in Colombo who participated in the International Creativity and Innovation Awards 2024 in Thailand won the Titanium award (second highest) for their exceptional display in the field of robotics, in the finals held today.
+
+The Sri Lankan team competed with 25 countries. Over 1000 students representing 441 teams from four continents participated in the International competition. This is the first time Sri Lanka competed in such a global event displaying their robotic skills.
+
+The Sri Lankan students also clinched the Awards for the 'Most Interesting Solution' and won full scholarships for it's students from the Paragon International University in Cambodia.
+
+Six off site teams who also participated from the school also won the bronze and silver awards.
+
+...
+
+[Data](articles/b4fb9daa.json)
+
+---
 
 ### Sri Lanka’s population dynamics at risk, Registrar General’s Department warns
 
@@ -1084,6 +1118,20 @@ The protracted postponements of provincial and local government elections have f
 
 ---
 
+### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
+
+*2024-04-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
+
+In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
+
+...
+
+[Data](articles/e7ce8fc0.json)
+
+[Extended Data](ext_articles/e7ce8fc0.ext.json)
+
+---
+
 ### How do you know if you have a STD?
 
 *2024-04-28 03:23:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lz2xr91vo) · `si`
@@ -1223,6 +1271,22 @@ The National People's Power has said that during his stay in Sweden, Anuragumara
 [Data](articles/93ea8559.json)
 
 [Extended Data](ext_articles/93ea8559.ext.json)
+
+---
+
+### The “Unholy “Row Between Cardinal Malcolm Ranjith and  Ex-President Gotabaya Rajapaksa  Regarding the Easter Sunday Attacks by Home Grown Jihadists on 21 April 2019
+
+*2024-04-28 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83955) · `en`
+
+An (un)holy row has erupted between Cardinal Malcolm Ranjith, head of Sri Lanka’s Catholic Church and former President Gotabaya Rajapaksa regarding ‘who said what’ in the aftermath of the Easter Sunday attacks on April 21st 2019 by ‘home grown’ jihadists.
+
+Examining several aspects of this dispute is relevant against the wider backdrop of Sri Lanka’s painful struggles with political accountability.
+
+Marking the fifth anniversary of the attacks last week, the Church repeated its call for the perpetrators to be punished. That has not  yet transpired apart from the Supreme Court holding former President Maithripala Sirisena together with his defence and intelligence officers responsible for failing to protect the security of the country.
+
+...
+
+[Data](articles/37c20da3.json)
 
 ---
 
@@ -2227,83 +2291,5 @@ Perhaps there is no phrase of Karl Marx that is better known or more frequently 
 [Data](articles/8760cdc2.json)
 
 [Extended Data](ext_articles/8760cdc2.ext.json)
-
----
-
-### A.T. Ariyaratne and the Bauddha Jatika Balavegaya (BJB)
-
-*2024-04-27 14:41:00* · [`islandlk`](http://island.lk/a-t-ariyaratne-and-the-bauddha-jatika-balavegaya-bjb/) · `en`
-
-“I got disillusioned with politics. An idea was born in my mind that a social revolution minus political colouring should be staged. The Sarvodaya Shramadana movement was the outcome of this thinking.” – A.T. Ariyaratne
-
-The passing of A.T. Ariyaratne at the age of 92 years on April 16, 2024 removes from the national scene a colossus that straddled many spheres of local life and singularly gained international recognition for himself and his country to an unimaginable extent. Though small and diminutive in physical size he reached dizzy heights that should inspire the current and future generations to emulate him. A.T. Ariyaratne was an innovative thinker who consistently punched above his weight.
-
-Much has been written of him and much will be written of him in the future. Therefore, I will confine myself in this essay to the lesser publicized aspects of his charismatic life.
-
-...
-
-[Data](articles/ea0079fa.json)
-
-[Extended Data](ext_articles/ea0079fa.ext.json)
-
----
-
-### Today in history
-
-*2024-04-27 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182093) · `ta`
-
-Indira Gandhi, former Indian PM, visited Sri Lanka for the first time on April 27, 1973.
-
-🟩
-
-Former Indian Prime Minister Indira Gandhi visited Sri Lanka for the first time on April 27, 1973.
-
-Here are the first pages of the Weerakesari magazine published on April 27 and 28, 1973, with reports of Indira Gandhi's first visit to Sri Lanka.
-
-◼️
-
-[Data](articles/c95856e4.json)
-
-[Extended Data](ext_articles/c95856e4.ext.json)
-
----
-
-### And one last driver
-
-*2024-04-27 14:19:00* · [`islandlk`](http://island.lk/and-one-last-driver/) · `en`
-
-Having writted about the drivers of my classmates on two occasions I cannot allow the peculiarities of our own ‘charioteer’ to go untold for he was, like all of his breed, an exceptional servant of those times.
-
-We did not properly appreciate our help-karayas of yore. Our maids were all extensions of our mothers as far as getting us to keep clothes clean, rooms neat etc. and drivers were CIA agents. What linked the  Nona Mahattaya to the driver’s affections defied comprehension.
-
-Affection is the wrong word. Loyalty was the trait mothers enjoyed from their drivers. A driver was the caretaker of the car, which he kept in prime condition – washing it daily and dusting the insides – which was necessary since no cars were air-conditioned during my school days. Ergo the seats etc. got extremely dusty. Car carpets likewise.
-
-...
-
-[Data](articles/f8e1b3ce.json)
-
-[Extended Data](ext_articles/f8e1b3ce.ext.json)
-
----
-
-### The Railway Department has become the place where fraud and corruption are?
-
-*2024-04-27 14:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோசடி-ஊழல்-இடம்பெறும்-இடமாக-மாறிய-புகையிரத-திணைக்களம்/175-336400) · `ta`
-
-The Railway Department is plagued by fraud and corruption, with authorities failing to address the online train seat booking crisis. Somatha Somaratne, an Assistant Transport Superintendent, refuses to discuss the issue.
-
-🟩
-
-The Railway Department has become a place where the Railway Department has become a place of scams and corruption.
-
-He also said that the authorities have not taken steps to resolve the online train seat booking crisis.
-
-Somatha Somaratne has also refused to discuss the matter under the authority of a Assistant Transport Superintendent.. Remble
-
-◼️
-
-[Data](articles/f7c52292.json)
-
-[Extended Data](ext_articles/f7c52292.ext.json)
 
 ---

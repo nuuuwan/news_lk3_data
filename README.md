@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 06:00:13**
+As of **2024-04-28 06:59:32**
 
 ## Newspaper Stats
 
-*Scraped **21,315** Articles*
+*Scraped **21,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 183
 bbccomsinhala | 223
 dbsjeyarajcom | 227
 newsfirstlk | 363
-islandlk | 1,155
+islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
@@ -20,17 +20,57 @@ tamilmirrorlk | 2,465
 adaderanalk | 2,543
 virakesarilk | 3,202
 dailymirrorlk | 3,319
-adaderanasinhalalk | 3,449
+adaderanasinhalalk | 3,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,315 (100.0%) of 21,315 articles have been extended.
+21,317 (100.0%) of 21,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### අදත් පස්වරුවේ මහ වැස්සක්
+
+*2024-04-28 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196042) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වලත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් අද (28) ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර සහ උතුරු-මැද පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල ස්ථාන ස්වල්පයක උදෑසන කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+...
+
+[Data](articles/1d791e43.json)
+
+---
+
+### Geraldine D’Rozario : The Timeless Supermodel of Sri Lanka
+
+*2024-04-28 05:08:00* · [`islandlk`](http://island.lk/geraldine-drozario-the-timeless-supermodel-of-sri-lanka/) · `en`
+
+Geraldine D’Rozario epitomises elegance and sophistication as a former Miss Sri Lanka and celebrated supermodel. With an illustrious career spanning four decades, she has graced countless magazine covers and catwalks, leaving an indelible mark on the fashion industry. Beyond her mesmerising presence on camera, Geraldine has showcased her talent behind the scenes, choreographing and coordinating captivating fashion shows.
+
+From her humble beginnings in the advertising industry at the tender age of five, Geraldine’s star has only continued to rise. Her journey on international catwalks began in Sri Lanka at the age of 13 and has since taken her across Asia and Europe. Along the way, she has garnered a plethora of accolades from beauty pageants and industry insiders alike.
+
+Today, Geraldine lends her unparalleled expertise as a full-time fit model for prestigious international brands in Sri Lanka, embodying the epitome of style and grace with every step she takes.
+
+...
+
+[Data](articles/a122f825.json)
+
+[Extended Data](ext_articles/a122f825.ext.json)
+
+---
 
 ### Welcome to
 
@@ -57,6 +97,20 @@ The National People's Power has said that during his stay in Sweden, Anuragumara
 ---
 
 ### 2024-04-27 (Saturday)
+
+### MY FATHER
+
+*2024-04-27 23:18:00* · [`islandlk`](http://island.lk/my-father/) · `en`
+
+(This is another excerpt from the book Falling Leaves, a part autobiographical anthology of articles by one of the last remaining members of the old Ceylon Civil Service, now living in Manila at age of over 95-years. A painting my the author adorns the book cover.)
+
+...
+
+[Data](articles/b6eb14b9.json)
+
+[Extended Data](ext_articles/b6eb14b9.ext.json)
+
+---
 
 ### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
 
@@ -858,6 +912,22 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 
 ---
 
+### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
+
+*2024-04-27 15:22:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
+
+Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
+
+It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
+
+And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
+
+...
+
+[Data](articles/ca21bf6f.json)
+
+---
+
 ### Meeting with Ministry of Agriculture, United States
 
 *2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
@@ -885,6 +955,20 @@ The United States delegation, including the sub-Secretariat, has assured the Pre
 [Data](articles/6b4ba40a.json)
 
 [Extended Data](ext_articles/6b4ba40a.ext.json)
+
+---
+
+### Popes and Cardinals
+
+*2024-04-27 15:07:00* · [`islandlk`](http://island.lk/popes-and-cardinals/) · `en`
+
+The enthusiasm generated by the election of a new Pope may give the impression that the 500 million Roman Catholics – sometimes derisively called Papists – are a separate species of human beings. That is not the impression I carried away, after a stay of over five years in Rome. Roman Catholics are, I am certain, like the rest of us, capable of all the follies to which human frailty exposes men and women.
+
+The Pope does not dictate the policies of governments; not even those of the Government of Italy which, in recent times has been successively totalitarian, conservative, middle-of – the-road, and left of center.
+
+...
+
+[Data](articles/85a12429.json)
 
 ---
 
@@ -992,6 +1076,36 @@ The child has not been found with the help of the residents of the area.
 
 ---
 
+### Is Religion the opium of the masses?
+
+*2024-04-27 14:43:00* · [`islandlk`](http://island.lk/is-religion-the-opium-of-the-masses/) · `en`
+
+Perhaps there is no phrase of Karl Marx that is better known or more frequently quoted than his quip about religion being the opium of the masses. So let me quote the passage in full.
+
+“Religious distress is an expression of real distress and a protest against this distress. Religion is the sigh of the oppressed creature, the heart of a heartless world, the spirit of a spiritless condition. It is the opium of the masses. The abolition of religion as the illusory happiness of the people is the condition for their real happiness. The demand to give up this illusion is the demand for men to give up a condition which needs illusions”. Marx, Critique of Hegel’s Philosophy of Right.
+
+...
+
+[Data](articles/8760cdc2.json)
+
+---
+
+### A.T. Ariyaratne and the Bauddha Jatika Balavegaya (BJB)
+
+*2024-04-27 14:41:00* · [`islandlk`](http://island.lk/a-t-ariyaratne-and-the-bauddha-jatika-balavegaya-bjb/) · `en`
+
+“I got disillusioned with politics. An idea was born in my mind that a social revolution minus political colouring should be staged. The Sarvodaya Shramadana movement was the outcome of this thinking.” – A.T. Ariyaratne
+
+The passing of A.T. Ariyaratne at the age of 92 years on April 16, 2024 removes from the national scene a colossus that straddled many spheres of local life and singularly gained international recognition for himself and his country to an unimaginable extent. Though small and diminutive in physical size he reached dizzy heights that should inspire the current and future generations to emulate him. A.T. Ariyaratne was an innovative thinker who consistently punched above his weight.
+
+Much has been written of him and much will be written of him in the future. Therefore, I will confine myself in this essay to the lesser publicized aspects of his charismatic life.
+
+...
+
+[Data](articles/ea0079fa.json)
+
+---
+
 ### Today in history
 
 *2024-04-27 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182093) · `ta`
@@ -1009,6 +1123,22 @@ Here are the first pages of the Weerakesari magazine published on April 27 and 2
 [Data](articles/c95856e4.json)
 
 [Extended Data](ext_articles/c95856e4.ext.json)
+
+---
+
+### And one last driver
+
+*2024-04-27 14:19:00* · [`islandlk`](http://island.lk/and-one-last-driver/) · `en`
+
+Having writted about the drivers of my classmates on two occasions I cannot allow the peculiarities of our own ‘charioteer’ to go untold for he was, like all of his breed, an exceptional servant of those times.
+
+We did not properly appreciate our help-karayas of yore. Our maids were all extensions of our mothers as far as getting us to keep clothes clean, rooms neat etc. and drivers were CIA agents. What linked the  Nona Mahattaya to the driver’s affections defied comprehension.
+
+Affection is the wrong word. Loyalty was the trait mothers enjoyed from their drivers. A driver was the caretaker of the car, which he kept in prime condition – washing it daily and dusting the insides – which was necessary since no cars were air-conditioned during my school days. Ergo the seats etc. got extremely dusty. Car carpets likewise.
+
+...
+
+[Data](articles/f8e1b3ce.json)
 
 ---
 
@@ -2047,167 +2177,5 @@ The city of Colombo will become a major tourist destination in years to come wit
 [Data](articles/508fdc02.json)
 
 [Extended Data](ext_articles/508fdc02.ext.json)
-
----
-
-### Kaspersky extends business footprint to Sri Lanka
-
-*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka/) · `en`
-
-Kaspersky, the global cybersecurity and digital privacy company, announced its expansion into new territories in Asia Pacific (APAC), including Sri Lanka, Cambodia, and Bangladesh. This strategic move marks a significant milestone in the company’s mission to fortify digital infrastructure across the developing economies in the region, particularly on the enterprise cybersecurity market.
-
-As cyber threats continue to evolve and proliferate worldwide, Kaspersky recognizes the imperative of extending its holistic suite of cybersecurity solutions services to emerging markets in APAC. With its proven track record of delivering innovative solutions and expertise, the company is poised to address the escalating cybersecurity challenges faced by individuals, governments, and private organizations in Cambodia, Sri Lanka, and Bangladesh.
-
-...
-
-[Data](articles/b785f141.json)
-
-[Extended Data](ext_articles/b785f141.ext.json)
-
----
-
-### SriLankan Airlines and Air Seychelles embark on a codeshare partnership
-
-*2024-04-27 05:17:00* · [`islandlk`](http://island.lk/srilankan-airlines-and-air-seychelles-embark-on-a-codeshare-partnership/) · `en`
-
-SriLankan Airlines, the national carrier of Sri Lanka and Air Seychelles, the national airline of the Republic of Seychelles, have embarked on a codeshare partnership, ushering in seamless travel to multiple new destinations throughout Asia, Africa and Australia for their passengers flying between Colombo and Mahé.
-
-Connecting people and places across continents, the collaboration empowers SriLankan Airlines to amplify its position and reach in Africa and passengers of the airline to travel conveniently between Colombo and Mahé twice a week. For Air Seychelles, over 20 destinations are included in the partnership, which includes much requested destinations such as Sydney and Melbourne in Australia as well as other popular stops in India, Thailand, Malaysia and Singapore.
-
-...
-
-[Data](articles/55e505b1.json)
-
-[Extended Data](ext_articles/55e505b1.ext.json)
-
----
-
-### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
-
-*2024-04-27 05:17:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023/) · `en`
-
-Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
-
-The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
-
-...
-
-[Data](articles/b4814955.json)
-
-[Extended Data](ext_articles/b4814955.ext.json)
-
----
-
-### Government delays decision on future of oil palm cultivation
-
-*2024-04-27 04:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-delays-decision-on-future-of-oil-palm-cultivation/108-281485) · `en`
-
-Expert committee spells out instructions and directions to be followed when permitting palm oil cultivation in identified Mahaweli and specified other areas
-
-The government has been sitting on an expert committee report on how to permit oil palm cultivation in identified Mahaweli areas and other areas, without deciding for nearly five months.
-
-According to the Agriculture and Plantation Industries Ministry, the ministry forwarded the report to the secretary to the Cabinet of Ministers on January 12.
-
-In November 2022, the Cabinet of Ministers decided to appoint an expert committee to explore the possibility of permitting oil palm cultivation in identified Mahaweli areas and specified other areas, which include the Regional Plantation Companies (RPCs).
-
-The committee was headed by an additional secretary to the ministry and was made up of experts from of the Plantation Industries Ministry, Mahaweli Authority, Irrigation Department and Coconut Research Institute.
-
-...
-
-[Data](articles/8d21edef.json)
-
-[Extended Data](ext_articles/8d21edef.ext.json)
-
----
-
-### What you should know if 'chicken is "unhappy fate
-
-*2024-04-27 03:20:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd19v2k74r5o) · `si`
-
-"Chicken" symbolizes an "unhappy fate," reflecting broader societal issues like violence and anger. Experts discuss the causes, such as childhood trauma, societal violence, and the influence of drugs and alcohol, leading to impulsive and harmful actions. They emphasize the importance of early intervention and stress management to mitigate these issues.
-
-🟩
-
-What you should know if 'chicken is "unhappy fate
-
-The foregoing sayings is more than just as we associate with the people of everyday life. Moreover, such highly angry people have also met in our lives.
-
-We have seen when the unfortunate events caused by the surface of 'snap' as a simple thing.
-
-Inquiries regarding the murders of organized criminal or non-underworld in the civil society of Sri Lanka, the sudden anger will also be clear.
-
-Specialist psychological advice in Galle, Karapitiya Teaching Hospital Specialist psychological Ruben BBC BBC.
-
-He also pointed out that the experience of persons of persons united.
-
-"That is because of childhood and physical persecution. Or because the person lives in a society where violence is normal. For these reasons, some people become violent, more violent than others, get worse, they can easily damage another person. "
-
-...
-
-[Data](articles/695f88de.json)
-
-[Extended Data](ext_articles/695f88de.ext.json)
-
----
-
-### Oil and gas exploration halted by prolonged legal dispute
-
-*2024-04-27 02:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oil-and-gas-exploration-halted-by-prolonged-legal-dispute/108-281484) · `en`
-
-Sri Lanka’s efforts to attract and leverage international investment into the exploration of oil and gas have once again been gridlocked by legal challenges in the Court of Appeal.
-
-Plans were underway to commercialise two blocks, adding to over 5,000 square kilometres with potential oil and gas resources in the Mannar Basin.
-
-According to the latest developments in CA (Writ) Application No: 392/2023, the court found that a prima facie case has been established by the petitioner Serendive Energy.
-
-Accordingly, the court issued orders restraining the first to 36th respondents and/or its servants or agents from granting to any third party, other than the petitioner, the rights to offshore exploration of blocks M1 and C1, until a final determination is reached in the case, Serendive Energy said in a statement.
-
-...
-
-[Data](articles/0a123394.json)
-
-[Extended Data](ext_articles/0a123394.ext.json)
-
----
-
-### Independent Company to regulate the power sector!- Minister of Electricity and Power and Energy TV Chanaka
-
-*2024-04-27 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182061) · `ta`
-
-Minister TV Chanaka announced an independent company to regulate the power sector, focusing on imports, quality, distribution, and sales. This aims to ensure fair service to consumers. The minister also highlighted efforts to stabilize power supply and improve fuel quality, with plans for an independent regulatory company to manage kerosene, petrol, diesel, and other fuels.
-
-🟩
-
-Minister of Power and Power and Energy TV Chanaka said that necessary steps would be taken to establish an independent company to regulate the power sector.
-
-The Minister further stated that the company will regulate the imports, quality, distribution and sale of the Department of Power and Energy and thereby provide fair service to consumers.
-
-Minister of Electricity and Power and Energy TV Chanaka said this at a media briefing held at the Presidential Media Center on Friday.
-
-Continuous power supply has now been able to establish stability. The duration of fuel rows is over. Our ministry and its affiliated companies have taken steps to provide high quality fuel.
-
-Furthermore, we have identified the need for an independent regulatory company associated with import, quality, distribution and sale of the Department of Power.
-
-...
-
-[Data](articles/c8c23f47.json)
-
-[Extended Data](ext_articles/c8c23f47.ext.json)
-
----
-
-### Modi's security adviser Ajith Doaal - Wimal Weerawansa
-
-*2024-04-27 01:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182060) · `ta`
-
-Ajith Dowal's security adviser, Modi's MRM Vasim and Rajadurai Hashan, face controversy over the Sunday bombings. Wimal Weerawansa, a National Freedom Front leader, suggests the bombings could alter Sri Lanka's elections. The truth behind the bombings remains unknown, with no debate on the incident. Maithripala Sirisena and Ranil Wickremesinghe express concern. Modi's statement in Goa on the day of the bombings suggests a conflict between Sri Lankan Catholics and Indians. The bombings did not affect the 2019 presidential election, with Sajith Premadasa winning. The bombings targeted traditional Muslim beliefs, with 117 Muslims killed in 2016.
-
-🟩
-
-...
-
-[Data](articles/5b9ba150.json)
-
-[Extended Data](ext_articles/5b9ba150.ext.json)
 
 ---

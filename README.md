@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 14:18:31**
+As of **2024-04-28 14:34:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,370 (100.0%) of 21,372 articles have been extended.
+21,372 (100.0%) of 21,372 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ The Registrar General’s Department points out that this situation will adverse
 
 [Data](articles/b8a96312.json)
 
+[Extended Data](ext_articles/b8a96312.ext.json)
+
 ---
 
-### 14 දා වෙඩි කෑ 17 හැවිරිදි  දැරිය මරුට
+### 17 year old girl shot dead on Monday
 
 *2024-04-28 13:45:52* · [`adalk`](https://www.ada.lk/breaking_news/14-දා-වෙඩි-කෑ-17-හැවිරිදි--දැරිය-මරුට/11-409300) · `si`
 
-පසුගිය 14දා මින්නේරිය ගිරිතලේ ප්‍රදේශයේ  නිවසට යාබද නිවසක පැවති අවුරුදු සාජ්ජයකට සහභාගී වී සිටියදී වෙඩි ප්‍රහාරයට ලක්වීමෙන් බරපතල තුවාල ලබා දින14ක්  රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලැබූ 17 හැවිරිදි පාසල් සිසුවිය ජීවිතක්ෂයට පත්ව ඇතැයි මින්නේරිය පොලිසිය කියයි.
+A 17-year-old girl, J.J. Coshola, was shot and killed on Monday. She was initially treated at Giritale's Care of the Care Intensive Care Unit before being transferred to Polonnaruwa General Hospital.
 
-මෙසේ මියගොස් ඇත්තේ ගිරිතලේ ලිපිනයේ පදිංචි ජි.ජි කෝෂලා චමෝද්‍යා බණ්ඩාර නමැති තරුණියයි.
+🟩
 
-එම අවස්ථාවේදීම නිවැසියන් ඇය හිගුරක්ගොඩ රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව පොලොන්නරුව මහ රෝහලට මාරු කර යවා ඇත.  පසුව ඇය අනුරාධපුර රෝහලට මාරු කර යැවීමට කටයුතු කර ඇති අතර එහිදී ශල්‍යකර්මයකට භජනය කර නැවතත් පොලොන්නරුව මහ රෝහලට මාරු කර දැඩිසත්කාර එකකයේ ප්‍රතිකාර ලබමින් සිටියදී පසුගියදා ඇය ජීවිතක්ෂයට පත්ව ඇත.
+The 17-year-old schoolgirl has been treated at the Intensive Care Unit of the Care of the Care at the Giritale to the house of Minneriya.
+
+The deceased has been identified as J.J Coshola, a resident of the Giritale.
+
+At the same time, residents have been admitted to the Hingurakgoda hospital and transferred to Polonnaruwa Hospital.She had been transferred to the Anuradhapura hospital and was later transferred to the Polonnaruwa General Hospital and was later transferred to the Polonnaruwa General Hospital.
 
 ◼️
 
 [Data](articles/16dd477b.json)
+
+[Extended Data](ext_articles/16dd477b.ext.json)
 
 ---
 

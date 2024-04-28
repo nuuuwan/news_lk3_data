@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 23:03:38**
+As of **2024-04-28 23:18:36**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,440 (100.0%) of 21,442 articles have been extended.
+21,442 (100.0%) of 21,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### EPF வட்டியை அதிகரிக்க அரசாங்கம் நடவடிக்கை
+### Government action to increase EPF interest
 
 *2024-04-28 22:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-வட்டியை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-336462) · `ta`
 
-ஊழியர் சேமலாப நிதியத்திற்காக வழங்கப்படும் வட்டி விகிதத்தை 9 சதவீதத்தில் இருந்து 13 சதவீதமாக உயர்த்த அரசாங்கம் தீர்மானித்துள்ளதுதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+The government has increased the Employees Provident Fund interest rate from 9% to 13%, benefiting 27 lakh members. This move reflects the government's success in enhancing the fund's returns.
 
-“ஊழியர் சேமலாப நிதியம் நம் நாட்டில் மிகப்பெரிய நிதியமாகும், 27 லட்சம் உறுப்பினர்கள் உள்ளனர். 2023ம் ஆண்டுக்காக ஊழியர் சேமலாப நிதியம் ஊடாக முதலீடு செய்து ஈட்டிய பணத்தில் 9 சதவீதத்திற்கு பதிலாக 13 சதவீதத்தை வட்டியாக செலுத்த தயாராக உள்ளோம்.
+🟩
 
-குறைந்தபட்ச தொகையாக 9 சதவீத வட்டியை வழங்க முடியுமாக இருந்தது. ஆனால் அரசாங்கம் 13 சதவீதத்தை செலுத்த நடவடிக்கை எடுத்துள்ளது.
+Finance Minister Ranjith Siyambalapitiya told the media that the government has decided to increase the interest rate on the Employees Provident Fund from 9 per cent to 13 per cent.
 
-இது அரசாங்கத்திற்கு கிடைத்த வெற்றியாகும், அதன் உறுப்பினர்களுக்கும் இது வெற்றியாகும். இந்த நிதியை முதலீடு செய்வதன் மூலம் கிடைக்கும் லாபத்தின் நியாயமான பகுதி உறுப்பினர்களுக்கு செல்கிறது" என்றார். R
+“The Employees Provident Fund is the largest fund in our country, with 27 lakh members. We are ready to pay 13 per cent instead of 9 percent of the money earned through the Employees Provident Fund for 2023.
+
+Was able to offer a minimum amount of 9 percent interest. But the government has taken steps to pay 13 percent.
+
+This is the success of the government and this is a success for its members. Investing this fund goes to members of the reasonable part of the profit available. ”. Remble
 
 ◼️
 
 [Data](articles/f530be05.json)
+
+[Extended Data](ext_articles/f530be05.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Speaking further, the NPP leader also hinted that the Presidential Election is l
 ...
 
 [Data](articles/7ddc595b.json)
+
+[Extended Data](ext_articles/7ddc595b.ext.json)
 
 ---
 

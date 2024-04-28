@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 08:52:22**
+As of **2024-04-28 09:03:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,330 (100.0%) of 21,332 articles have been extended.
+21,332 (100.0%) of 21,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/6a0b3c38.json)
+
+[Extended Data](ext_articles/6a0b3c38.ext.json)
 
 ---
 
@@ -196,17 +198,23 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 
 ---
 
-### பல்கலை கல்விசாரா ஊழியர்கள் போராட்டம்
+### Struggle for non -academic staff
 
 *2024-04-28 01:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-போராட்டம்/175-336420) · `ta`
 
-அனைத்து பல்கலைக்கழகங்களிலும் தொடர்ச்சியான தொழிற்சங்க போராட்டத்தில் ஈடுபட கல்விசாரா ஊழியர்கள் தீர்மானித்துள்ளனர் என பல்கலைக்கழக தொழிற்சங்க ஒன்றியம் தெரிவித்துள்ளது.
+Non-academic staff at universities are engaging in a continuous trade union struggle, starting from 12 noon on May 2, as announced by the University Trade Union Union.
 
-தொழிற்சங்க போராட்டம் மே மாதம் 2 ஆம் திகதி நண்பகல் 12 மணி முதல் தொடர்ச்சியாக முன்னெடுக்கப்படுமென ஒன்றியத்தின்  இணைத்தலைவர் தம்மிக்க எஸ். பிரியந்த தெரிவித்துள்ளார்.
+🟩
+
+The University Trade Union Union said that non -academic staff have decided to engage in a continuous trade union struggle in all universities.
+
+The union protest will be carried out continuously from 12 noon on May 2. Priyantha said.
 
 ◼️
 
 [Data](articles/603c42c6.json)
+
+[Extended Data](ext_articles/603c42c6.ext.json)
 
 ---
 

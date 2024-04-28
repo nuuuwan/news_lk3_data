@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 02:03:56**
+As of **2024-04-29 02:18:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,456 (100.0%) of 21,460 articles have been extended.
+21,460 (100.0%) of 21,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ During a press briefing yesterday, Rahman highlighted that court proceedings hav
 ...
 
 [Data](articles/8a32ca6e.json)
+
+[Extended Data](ext_articles/8a32ca6e.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the
 
 [Data](articles/89b8d71b.json)
 
+[Extended Data](ext_articles/89b8d71b.ext.json)
+
 ---
 
 ### US research ship granted entry to SL waters for replenishment
@@ -83,6 +87,8 @@ In December of last year, Sri Lanka suspended the entry of foreign research vess
 ...
 
 [Data](articles/08443a72.json)
+
+[Extended Data](ext_articles/08443a72.ext.json)
 
 ---
 
@@ -653,6 +659,8 @@ Sri Lanka’s Government debt issue has become a perennial problem giving opport
 ...
 
 [Data](articles/5c1e71f2.json)
+
+[Extended Data](ext_articles/5c1e71f2.ext.json)
 
 ---
 

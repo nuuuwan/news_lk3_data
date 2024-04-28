@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 19:03:35**
+As of **2024-04-28 19:18:25**
 
 ## Newspaper Stats
 
-*Scraped **21,404** Articles*
+*Scraped **21,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,789
+adalk | 1,790
 tamilmirrorlk | 2,481
 adaderanalk | 2,553
 virakesarilk | 3,211
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,403 (100.0%) of 21,404 articles have been extended.
+21,404 (100.0%) of 21,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### හෙටත් රත්වෙන තැන් මෙන්න
+### Here are the places where they are
 
 *2024-04-28 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196060) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (29) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of rising temperatures in several areas on the island tomorrow, affecting the North, North-Central, Eastern, and Northwestern provinces. It advises adequate water intake, avoiding shade, and staying indoors.
 
-උතුරු, උතුරු-මැද, සබරගමුව, නැගෙනහිර, සහ වයඹ පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම එලෙස ඉහළ යනු ඇත.
+🟩
 
-මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+The Meteorological Department says that the temperature of several areas on the island will continue to pay attention tomorrow (29).
+
+The heat of the Moneragala and Hambantota District will increase the heat of the human body in the North, North-Central, Eastern, and Northwestern provinces.
+
+The announcement issued by the department, including adequate water, relating to the restriction in the shadow of the shade, and the tedious work of the open air.
 
 ◼️
 
 [Data](articles/e5de631b.json)
+
+[Extended Data](ext_articles/e5de631b.ext.json)
 
 ---
 
@@ -283,6 +289,20 @@ Similarly, if there is any such thing as such a person, 071 530 8032 President P
 [Data](articles/9401161c.json)
 
 [Extended Data](ext_articles/9401161c.ext.json)
+
+---
+
+### ජනපති කාර්යාලෙය් නම ව්‍යාජව භාවිත කිරීමක් ගැන නිවේදනයක්
+
+*2024-04-28 16:30:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කාර්යාලෙය්-නම-ව්‍යාජව-භාවිත-කිරීමක්-ගැන-නිවේදනයක්/11-409302) · `si`
+
+ජනාධිපති කාර්යාලයේ තනතුරු දරන බවට සඳහන් කරමින් ව්‍යාජ ලිපි ලේඛන ඉදිරිපත් කර ආයෝජකයින්, රැකියා අපේක්ෂිත තරුණ පිරිස් සහ විවිධ රටවලට වීසා බලපත්‍ර ලබාගැනීමට අපේක්ෂා කරන්නන් රවටා මුදල් ලබාගැනීමේ සිදුවීම් වාර්තා වී ඇති බව ජනාධිපති ලේකම් කාර්‍යාලය පවසයි.
+
+මෙවැනි වංචනිකයින්ගෙන් ප්‍රවේසම් වන ලෙස ජනාධිපති කාර්යාලය මහජනතාවගෙන් ඉල්ලා සිටින අතර, එවැනි පුද්ගලයින් පිළිබඳ සැකයක් ඇතිවූ වහාම +94 71 530 8032 යන දුරකථන අංකය ඔස්සේ ජනාධිපති ජ්‍යෙෂ්ඨ සහකාර ලේකම් ප්‍රසාද් සෙනරත් මහතා සම්බන්ධ කරගනිමින් අනන්‍යතාව තහවුරැ කර ගන්නා ලෙස වැඩිදුරටත් දැනුම් දී සිටියි.
+
+◼️
+
+[Data](articles/6a8ed805.json)
 
 ---
 
@@ -2301,25 +2321,5 @@ Foreign media reports that between the crowd, the Jacqueline of Jacqueline.
 [Data](articles/61a025b8.json)
 
 [Extended Data](ext_articles/61a025b8.ext.json)
-
----
-
-### Sri Lanka businesses must embrace competition: President
-
-*2024-04-27 19:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-must-embrace-competition-president-160283/) · `en`
-
-ECONOMYNEXT – If Sri Lanka desired a competitive economy, it must embrace competition, Sri Lanka’s President has said, adding that he has faith in the country’s businesses.
-
-“We must understand how to influence market forces, perhaps even manipulate or direct them,” President Ranil Wickremesinghe said.
-
-“I can only envision a market economy where market forces will determine the course. Within that framework, we can establish policy guidelines, outline three or four-year programs, and adapt as needed,” Wickremesinghe said at the International Rotary District Conference 2023/24 of the District 3220 Club for Sri Lanka and Maldives.
-
-“I have faith in Sri Lankan businesses; we can overcome challenges,” he told those at the event held at the Bandaranaike Memorial International Conference Hall on Friday.
-
-...
-
-[Data](articles/a020b5e3.json)
-
-[Extended Data](ext_articles/a020b5e3.ext.json)
 
 ---

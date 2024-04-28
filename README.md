@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 10:34:18**
+As of **2024-04-28 10:51:46**
 
 ## Newspaper Stats
 
-*Scraped **21,337** Articles*
+*Scraped **21,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,209
 adalk | 1,776
 tamilmirrorlk | 2,470
 adaderanalk | 2,544
-virakesarilk | 3,202
+virakesarilk | 3,204
 dailymirrorlk | 3,320
 adaderanasinhalalk | 3,454
 
@@ -26,27 +26,49 @@ adaderanasinhalalk | 3,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,336 (100.0%) of 21,337 articles have been extended.
+21,337 (100.0%) of 21,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### விடுதியில் மாணவி: ஆசிரியர் கைது
+### நொச்சியாகம - மானெல் ஏரியில் மூழ்கி இளைஞர் உயிரிழப்பு
+
+*2024-04-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182127) · `ta`
+
+நொச்சியாகம பிரதேசத்தில் உள்ள மானெல் ஏரியில் மூழ்கி இளைஞர் ஒருவர் நேற்று (27) காலை உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c4df0c7a.json)
+
+---
+
+### Hostel student: Teacher arrested
 
 *2024-04-28 10:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-மாணவி-ஆசிரியர்-கைது/175-336427) · `ta`
 
-தான் தங்கியிருக்கும் விடுதில், மாணவி ஒருவர் இருந்தார் என்றக் குற்றச்சாட்டின் பேரில், அந்த விடுதியில் தங்கியிருக்கும் ஆசிரியர் ஒருவர், சனிக்கிழமை (27) கைது செய்யப்பட்டார். இந்த சம்பவம், ஹட்டன் பிராந்திய கல்வி அலுவலகத்தின் கட்டுப்பாட்டில் உள்ள பிரதேசத்தில் இடம்பெற்றுள்ளது.
+A teacher staying at a hostel was arrested for allegedly being a student at the same school, where he was accused of bringing a student from another school under the same police division. The student claimed the teacher did not harass her. The teacher will face charges at the Hatton Magistrate's Court.
 
-கினிகத்தேனை பொலிஸ் பிரிவுக்குட்பட்ட பிரதான பாடசாலை ஒன்றின் ஆசிரியரேசந்தேகத்தின் பேரில் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-அதே பொலிஸ் எல்லைக்கு உட்பட்ட மற்றுமொரு பாடசாலையிலிருந்து 11 ஆம் தரத்தில் கல்வி கற்கும் பாடசாலை மாணவியை ஆசிரியர் தங்கியிருக்கும் பாடசாலையின் ஆசிரியர் விடுதிக்கு அழைத்து வந்ததாக கூறப்படும் சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் ஆசிரியர் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A teacher who was staying in the hotel was arrested on Saturday (27) on charges of being a student at the hotel where he was staying.. The incident took place in the area controlled by the Hatton Regional Education Office.
 
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட ஆசிரியர்தற்போது பணிபுரியும் பாடசாலைக்கு முன்னதாக அந்த மாணவி கல்விப்பயிலும் பாடசாலையில் பல வருடங்களாக சேவையாற்றி வந்துள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+Ginigathenai has been arrested by the police on the basis of a teacher of a main school in the Ginigathena Police Division.
+
+The teacher Ginigathena has been arrested by the police on suspicion of allegedly brought to a school teacher in the school where the teacher is staying in grade 11 from another school under the same police border.
+
+Investigations have revealed that the student had been working in the school for years before the school where the teacher was arrested on suspicion.
+
+The student told the police that she had gone to the teacher's hostel as it was too late to start an additional class.
+
+The school student added to the police that the teacher did not harass her even when she went to the teacher's residence.
 
 ...
 
 [Data](articles/f222ff16.json)
+
+[Extended Data](ext_articles/f222ff16.ext.json)
 
 ---
 
@@ -87,6 +109,28 @@ The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
 [Data](articles/32d21a33.json)
 
 [Extended Data](ext_articles/32d21a33.ext.json)
+
+---
+
+### மாகாணசபைமுறையால் இனப்பிரச்சினைக்கு நிரந்தரதீர்வை பெற்றுதர முடியாது : பல வருடங்களாக  மறுக்கப்பட்டு வந்த தமிழ் மக்களின் அதிகாரத்திற்கான நியாயமான உரிமையை நாங்கள் உறுதி செய்வோம் - ஜே.வி.பி. தலைவர்
+
+*2024-04-28 08:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182118) · `ta`
+
+பல ஆண்டுகளாக ஆட்சியாளர்களால் தொடர்ந்து மறுக்கப்பட்டு வந்த தமிழ் மக்களின் அதிகாரத்திற்கான நியாயமான உரிமையை நாங்கள் உறுதி செய்வோம் என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்
+
+இலங்கையின் இனப்பிரச்சினைக்கு நிரந்தர தீர்வுகளை பெற்றுக்கொடுத்து தேசத்தை மீண்டும் கட்டியெழுப்ப முடியும் என கட்சி என்ற அடிப்படையில் நாங்கள் நம்புகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்
+
+மாகாணசபைமுறையால் இனப்பிரச்சினைக்கு நிரந்தரதீர்வை பெற்றுதர முடியாது ஆனால் அது தங்களின் உரிமை என தமிழ் மக்கள் கருதுகின்றர் மாகாணசபைமுறை தொடரவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்
+
+அரசமைப்பின் 13வது திருத்தம் குறித்து தேசிய மக்கள் சக்தியி;டமிருந்து எந்த கருத்தும் பதிலும் இல்லையே உங்களால் அதனை தெளிவுபடுத்த முடியுமா?
+
+பதி;ல்- நாங்கள் பல தடவை 13வது திருத்தம் மற்றும் மாகாணசபைகள் குறித்த எங்கள் நிலைப்பாட்டை தெரிவித்திருக்கின்றோம்.
+
+2019ம் ஆண்டு வெளியான எங்களின் கொள்கை குறித்த ஆவணத்திலும் இது குறித்து தெரிவித்திருக்கின்றோம்.
+
+...
+
+[Data](articles/59500574.json)
 
 ---
 
@@ -2175,49 +2219,5 @@ A senior official of the CID’S Human Traf­ficking, Smuggling Investigation an
 [Data](articles/dc49ba0c.json)
 
 [Extended Data](ext_articles/dc49ba0c.ext.json)
-
----
-
-### Children sent abroad for higher education purposes: CID
-
-*2024-04-27 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Children-sent-abroad-for-higher-education-purposes-CID/108-281486) · `en`
-
-Colombo, April 27 (Daily Mirror) - The claims over children being sent from Sri Lanka to Malaysia, which raised concerns of many regarding the fate of the children being sent abroad, took a fresh turn when the police found that the children were sent for higher education purposes, the Daily Mirror learns.
-
-The Police Criminal Investigation Department (CID) following preliminary investigations on the suspected local facilitator of the international child smuggling syndicate, a 14-year-old boy and his father who had been deported from Malaysia this week, had learned that the child was to be sent abroad for higher education purposes.
-
-A senior official of the CID’S Human Traf­ficking, Smuggling Investigation and Maritime Security Investigation Division (HTSIMSID) told the Daily Mirror yesterday that they have credible information that all the 17 children, who were said to have been smuggled out of Sri Lanka to Malaysia in the first few months of 2023, were sent for the same reason.
-
-...
-
-[Data](articles/f6b94cc0.json)
-
-[Extended Data](ext_articles/f6b94cc0.ext.json)
-
----
-
-### Brother
-
-*2024-04-27 07:30:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சகோதரிக்கு-போதையை-கொடுத்து-பாலியல்-தொழிலில்-ஈடுபடுத்திய-சகோதரன்/71-336396) · `ta`
-
-A brother has been arrested for sexually abusing his sister and forcing her into sex work. The sister, now living in an orphanage, was previously hospitalized for drug overdose and torture. The brother later brought her back to the orphanage, where she was treated and revealed her abuse. The brother was arrested, and police are investigating eight other individuals for sexual harassment.
-
-🟩
-
-The brother has been arrested on charges of sexually abusing her sister and forcibly engaging in sex work.
-
-A 34 -year -old woman from a village near Jaffna Nagar has died and her sister is living with her sister in the orphaned home in Vadamarachchi.
-
-The woman's sister died last December. After that, the sister who lived in the home of the orphans brought her sister to stay in the neighboring area of Jaffna.
-
-Last January, the woman had forcibly consumed drugs, injecting drug needles and torturing the woman after a gang of sexual harassment.
-
-Later last week, the brother took his sister to the orphaned house again. Changes in the woman's actions and the body of the body has been admitted to the Pedro Base Hospital for treatment by the home administration.
-
-...
-
-[Data](articles/18ad1254.json)
-
-[Extended Data](ext_articles/18ad1254.ext.json)
 
 ---

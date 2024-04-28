@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 08:33:59**
+As of **2024-04-28 08:52:22**
 
 ## Newspaper Stats
 
-*Scraped **21,330** Articles*
+*Scraped **21,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
-tamilmirrorlk | 2,468
-adaderanalk | 2,543
+tamilmirrorlk | 2,469
+adaderanalk | 2,544
 virakesarilk | 3,202
 dailymirrorlk | 3,319
 adaderanasinhalalk | 3,453
@@ -26,53 +26,89 @@ adaderanasinhalalk | 3,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,328 (100.0%) of 21,330 articles have been extended.
+21,330 (100.0%) of 21,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### රිය අනතුරුවලින් තිදෙනෙක් මරුට
+### Fairly heavy showers expected in several provinces today
+
+*2024-04-28 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98891/fairly-heavy-showers-expected-in-several-provinces-today) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces and in Ampara district after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Northern and North-central provinces during the evening or night.
+
+Showers or thundershowers may occur at a few places over the coastal areas from Galle to Pottuvil via Hambantota during the morning too, it said.
+
+Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6a0b3c38.json)
+
+---
+
+### Three killed in accidents
 
 *2024-04-28 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196045) · `si`
 
-පිටකොටුව, ඕල්කට් මාවත දෙවන හරස් වීදිය ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Three people died in accidents: a man in Pettah, a 29-year-old in Dompe, and a 42-year-old in Anuradhapura-Puttalam.
 
-යතුරුපැදියක්, පදික මාරුව මතින් මාර්ගය හරහා ගමන්කළ පදිකයෙකුගේ ගැටී එම අනතුර සිදුව ඇත.
+🟩
 
-අනතුරින් මියගිය පුද්ගලයාගේ අනන්‍යතාවය මෙතෙක් තහවුරු වී නොමැති බව පොලීසිය පවසයි.
+A man was killed in an accident in the second cross-street, Olcott Mawatha, Pettah.
 
-අනතුරට අදාළ යතුරුපැදිකරු අත්අඩංගුවට ගෙන ඇති අතර පිටකොටුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The accident had occurred when a motorcycle was shifted by the pedestrian shift.
 
-මේ අතර දොම්පේ, පුටුපාගල - වානලුවාව මාර්ගයේ උක්කොටුන ප්‍රදේශයේදී සිදුවූ අනතුරකින් 29 හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+The identity of the deceased has not yet been established, police said.
 
-යතුරුපැදියක් මෝටර් රථයක ගැටී පැදිකරු මාර්ගයේ ඇද වැටී ඇති අතර  ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරි රථයක ඔහුව ගැටී එම අනතුර සිදුව තිබේ.
+The motorcyclist has been arrested and the Pettah Police are conducting further investigations.
 
-මේ අතර අනුරාධපුර - පුත්තලම මාර්ගයේ පණ්ඩුලගම ප්‍රදේශයේදී සිදුවූ රිය අනතුරකින් 42 හැවිරිදි පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Meanwhile, a 29-year-old man was killed in an accident in Ukkotuwela road along the Pulapalawa road in Dompe, Pulapalawa road.
 
-යතුරුපැදියක් බස් රථයක ගැටීමෙන් එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+The accident had occurred in a lorry that the collapse of a motorcycle was hit and collided with a lorry.
+
+Meanwhile, a 42-year-old man was killed in an accident in Pandulagama road on the Anuradhapura-Puttalam road.
+
+The accident had occurred when a motorcycle collided with a bus.
 
 ◼️
 
 [Data](articles/64e9444b.json)
 
+[Extended Data](ext_articles/64e9444b.ext.json)
+
 ---
 
-### පොලීසියේ විනය ගැන නිර්දේශ පොලිස්පති අතට
+### Inspector General of Police
 
 *2024-04-28 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196044) · `si`
 
-‍පොලිස් නිලධාරීන්ගේ විනය පරීක්ෂණ ප්‍රමාද වීම සම්බන්ධයෙන් විසඳුම් සහ නිර්දේශ ඉදිරිපත් කරමින් සකස් කරන ලද කමිටු වාර්තාව පොලිස්පතිවරයා වෙත බාර දී තිබේ.
+The Inspector General of Police (IGP) has taken over a committee investigating delays in police officer increments and promotions, led by Senior DIG Ajith Rohana. The IGP aims to expedite disciplinary procedures and solutions.
 
-විනය පටිපාටිය කඩිනම් කිරීම සහ පරිපාලන ගැටලුවලට විසඳුම් සහ නිර්දේශ ඉදිරිපත් කරමින් සකස් කරන ලද කමිටු වාර්තාව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා වෙත බාර දී ඇති බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+🟩
 
-පොලිස් නිලධාරීන්ට එරෙහි විනය කාර්ය පටිපාටියට අදාළ පරීක්ෂණ සඳහා දීර්ඝ කාලයක් ගතවීම හේතුවෙන් නිලධාරීන්ගේ වැටුප් වර්ධක, දීමනා සහ උසස් වීම් ප්‍රමාද වීම වැනි පරිපාලන ගැටලු සම්බන්ධයෙන් සොයා බලා ඊට අදාළ විසදුම් යෝජනා කිරීම සඳහා නැගෙනහිර පළාත් බාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති අජිත් රෝහණ මහතාගේ ප්‍රධානත්වයෙන් යුත් කමිටුවක් පත්කර කෙරුණි.
+The committee has been handed over to the IGP for the delay in the delay in police officers.
 
-විනය හා කල්ක්‍රියා හා නීති දිසාව භාර නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර, නියෝජ්‍ය පොලිස්පති නීතීඥ ජාලිය සේනාරත්න, මානව සම්පත් කළමනාකරණ කොට්ඨාසයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ඩබ්ලිව්.පී.ජේ. සේනාධීර සහ විනය හා කල්ක්‍රියා කොට්ඨාසයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නිශාන්ත ද සිල්වා යන මහත්වරුන් අදාළ කමිටුවට ඇතුළත්ය.
+Police Headquarters stated that IGP has handed over the committee's report to expedite disciplinary procedure and resolving solutions and recommendations.
 
-...
+A committee headed by Senior DIG of Eastern Province Ajith Rohana was appointed as the delay of officers such as the delay in the officers, increments, increments and promotions of the police officers against the police officers.
+
+Deputy Inspector General of Police Counsel Ruwan Gunasekara, DIG Attorney General Jali Senaratne, Director of Human Resources Management SSP WPJ Gunasekara. Senadheera and the Director of the Discipline and Comin Department of Discipline and Commerce Division include the relevant committee.
+
+The committee's recommendations are to be implemented expeditiously, the police headquarters added.
+
+◼️
 
 [Data](articles/0ae82630.json)
+
+[Extended Data](ext_articles/0ae82630.ext.json)
 
 ---
 
@@ -157,6 +193,20 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 [Data](articles/a122f825.json)
 
 [Extended Data](ext_articles/a122f825.ext.json)
+
+---
+
+### பல்கலை கல்விசாரா ஊழியர்கள் போராட்டம்
+
+*2024-04-28 01:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்கள்-போராட்டம்/175-336420) · `ta`
+
+அனைத்து பல்கலைக்கழகங்களிலும் தொடர்ச்சியான தொழிற்சங்க போராட்டத்தில் ஈடுபட கல்விசாரா ஊழியர்கள் தீர்மானித்துள்ளனர் என பல்கலைக்கழக தொழிற்சங்க ஒன்றியம் தெரிவித்துள்ளது.
+
+தொழிற்சங்க போராட்டம் மே மாதம் 2 ஆம் திகதி நண்பகல் 12 மணி முதல் தொடர்ச்சியாக முன்னெடுக்கப்படுமென ஒன்றியத்தின்  இணைத்தலைவர் தம்மிக்க எஸ். பிரியந்த தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/603c42c6.json)
 
 ---
 
@@ -2161,55 +2211,5 @@ Parliamentarians Vajira Abeywardena and HMM at the event to hand over these dona
 [Data](articles/fe0f7064.json)
 
 [Extended Data](ext_articles/fe0f7064.ext.json)
-
----
-
-### Independent Company
-
-*2024-04-27 06:08:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையை-ஒழுங்குபடுத்துவதற்கு-சுயாதீன-நிறுவனம்/175-336394) · `ta`
-
-The Minister of Power announced plans to create an independent company to oversee the power sector, aiming to ensure continuous power supply and high-quality fuel. This move is part of efforts to stabilize the sector and regulate the import, quality, distribution, and sale of various fuels.
-
-🟩
-
-Minister of Power and Power and Energy TV Chanaka said that necessary steps would be taken to establish an independent company to regulate the power sector.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
-
-Continuous power supply has now been able to establish stability. The duration of fuel rows is over. Our ministry and its affiliated companies have taken steps to provide high quality fuel.
-
-Furthermore, we have identified the need for an independent regulatory company associated with import, quality, distribution and sale of the Department of Power.
-
-The purpose of establishing this independent company is to regulate the quality, distribution competition and prices of kerosene, petrol, diesel, air fuel, LPG, LNG gas and lubricant imported in the country.. (A)
-
-◼️
-
-[Data](articles/9bcd0bfc.json)
-
-[Extended Data](ext_articles/9bcd0bfc.ext.json)
-
----
-
-### Meeting with US official president
-
-*2024-04-27 06:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-அதிகாரி-ஜனாதிபதியுடன்-சந்திப்பு/175-336393) · `ta`
-
-Alexis Taylor, US Agriculture Deputy Secretary, met with President Ranil Wickremesinghe to discuss expanding milk production and cooperate on agricultural modernization.
-
-🟩
-
-A meeting between Alexis Taylor and President Ranil Wickremesinghe, Deputy Secretary of the American Agricultural and Foreign Agriculture Affairs, was held at the Presidential Office yesterday.
-
-The President also said that through that scheme, it is expected to expand milk production nationwide.
-
-President Ranil Wickremesinghe, who explained the government's agricultural process, "he said, adding that the focus of the youth in the sector is on the intersection.
-
-The US Agriculture Deputy Secretary has promised to cooperate with the government's agricultural modernization process, the Presidential Media Division said that the government has promised to cooperate.. (A)
-
-◼️
-
-[Data](articles/b5b69d35.json)
-
-[Extended Data](ext_articles/b5b69d35.ext.json)
 
 ---

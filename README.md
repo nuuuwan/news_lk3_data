@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 17:34:51**
+As of **2024-04-28 17:54:28**
 
 ## Newspaper Stats
 
-*Scraped **21,396** Articles*
+*Scraped **21,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ tamilmirrorlk | 2,481
 adaderanalk | 2,551
 virakesarilk | 3,211
 dailymirrorlk | 3,327
-adaderanasinhalalk | 3,465
+adaderanasinhalalk | 3,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,395 (100.0%) of 21,396 articles have been extended.
+21,396 (100.0%) of 21,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ”தொலைபேசியில் பேசும் போது அவர்களுக்குக் கற்றுக் கொடுங்கள்’’
+### මහින්දගේ ධුර කාලය වසරකින් දිගුවෙයි
+
+*2024-04-28 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196058) · `si`
+
+මුදල් අමාත්‍යාංශයේ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ධුර කාලය වසරකින් දීර්ඝ කර තිබේ.
+
+ඒ අනුව ඒ පසුගිය අප්‍රේල් මස 26 වනදා සිට ක්‍රියාත්මක වන පරිදි ඒ මහතාගේ ධුර කාලය තවත් වසරකින් දීර්ඝ කර ඇත.
+
+◼️
+
+[Data](articles/5b0ffdd5.json)
+
+---
+
+### “Teach them when talking on the phone
 
 *2024-04-28 17:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசியில்-பேசும்-போது-அவர்களுக்குக்-கற்றுக்-கொடுங்கள்/175-336457) · `ta`
 
-2019ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவை ஆட்சிக்குக் கொண்டுவருவதற்கு வெளிநாட்டு இலங்கையர்கள் முக்கியப் பங்காற்றியதாகக் கூறிய NPP தலைவர் அனுரகுமார திஸாநாயக்க, இம்முறை வெளிநாடுகளில் உள்ள இலங்கையர்களின் முதன்மைத் தேர்வாக தேசிய மக்கள் சக்தியே உள்ளது என்றார்.
+NPP leader Anura Kumara Dissanayake highlighted the significant role foreign Sri Lankans played in the 2019 presidential election, urging them to support the NPP for future development. He emphasized the importance of campaigning and voting for the NPP, noting the current public opinion for organizational change.
 
-ஸ்வீடனின் ஸ்டாக்ஹோமில் நடைபெற்ற கூட்டத்தில் உரையாற்றிய அவர், வெளிநாடுகளில் உள்ள இலங்கையர்கள் தற்போது அமைப்பு மாற்றம் மற்றும் இலங்கைக்கான புதிய மாற்றத்திற்காக பிரச்சாரம் செய்து வருவதாகவும், அந்த மாற்றத்தை செய்வதற்கு NPP அவர்களின் விருப்பமாக இருப்பதாகவும் கூறினார்.
+🟩
 
-சுவீடனில் உள்ள இலங்கையர்களை இலங்கைக்கு வந்து NPPக்கு வாக்களிக்க வேண்டும் அல்லது NPPக்கு ஆதரவை வழங்க நிகழ்நிலையில் பிரச்சாரம் செய்ய வேண்டும் என்று அவர் கேட்டுக் கொண்டார்.
+NPP leader Anura Kumara Dissanayake, who said foreign Sri Lankans had played a key role in bringing the former President Gotabhaya Rajapaksa in the 2019 presidential election.
 
-"இலங்கையில் உள்ள உங்கள் குடும்ப உறுப்பினர்கள் மற்றும் நண்பர்கள் உங்களை தொலைபேசியில் தொடர்பு கொள்ளும் போதெல்லாம் அவர்களுக்குக் கற்றுக் கொடுங்கள்" என்று அவர் கூறினார்.
+Speaking at a meeting held at Stockholm, Sweden, he said that Sri Lankans abroad are currently campaigning for a change in organization and a new change in Sri Lanka.
+
+He urged Sri Lankans in Sweden to come to Sri Lanka to vote for NPP or campaign at a presentation in the event to support the NPP.
+
+"Teach your family members and friends in Sri Lanka whenever you telephone," he said.
+
+Dissanayake, who said that Sri Lankans abroad in the upcoming elections were a major force, asked them to support the NPP to gain power and develop the country after gaining power.
 
 ...
 
 [Data](articles/64cee3e2.json)
+
+[Extended Data](ext_articles/64cee3e2.ext.json)
 
 ---
 
@@ -2283,25 +2305,5 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/c46e0289.json)
 
 [Extended Data](ext_articles/c46e0289.ext.json)
-
----
-
-### Discussions to bring on onions from Egypt
-
-*2024-04-27 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196033) · `si`
-
-Nalin Fernando and Egyptian Ambassador Mausleh discussed importing onions from Egypt.
-
-🟩
-
-Commerce and Food Security Minister Nalin Fernando and Egyptian Ambassador Mausleh have held a discussion.
-
-The Ambassador also also asked the ambassador to the possibility of importing onions from Egypt.
-
-◼️
-
-[Data](articles/46b13218.json)
-
-[Extended Data](ext_articles/46b13218.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 20:03:53**
+As of **2024-04-28 20:18:27**
 
 ## Newspaper Stats
 
-*Scraped **21,416** Articles*
+*Scraped **21,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,214
 adalk | 1,791
-tamilmirrorlk | 2,481
-adaderanalk | 2,553
-virakesarilk | 3,217
+tamilmirrorlk | 2,482
+adaderanalk | 2,555
+virakesarilk | 3,218
 dailymirrorlk | 3,327
-adaderanasinhalalk | 3,468
+adaderanasinhalalk | 3,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,415 (100.0%) of 21,416 articles have been extended.
+21,416 (100.0%) of 21,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### ஊழியர் சேமலாப நிதியத்தின் வட்டியை 13% அதிகரிக்க நடவடிக்கை - நிதி அமைச்சு
+
+*2024-04-28 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182178) · `ta`
+
+ஊழியர் சேமலாப நிதியத்தின் மிகுதிகளுக்கு தற்போது வழங்கப்படுகின்ற 09 சதவீத வட்டியை 13 சதவீதமாக அதிகரிக்க நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது. குறுகிய அரசியல் நோக்கத்துக்காக எதிர்தரப்பினர் முன்வைத்த குற்றச்சாட்டுக்கள் பொய்யாக்கப்பட்டுள்ளன என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+கேகாலை பகுதியில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார பாதிப்புக்கு மத்தியில் நாட்டின் நிதி நிலையை ஸ்திரப்படுத்துவதற்காக தேசிய கடன்கள் மறுசீரமைக்கப்பட்டன. இதன்போது ஊழியர் சேமலாப நிதியம் மற்றும் ஊழியர் நம்பிக்கை நிதியத்தின் வட்டி வீதத்தில் தற்காலிக மாற்றம் ஏற்படுத்தப்பட்டது.
+
+ஊழியர் சேமலாப நிதியத்தை இல்லாதொழிக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளதாக அடிப்படையற்ற வகையில் குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டன.2023 ஆம் ஆண்டு பாராளுமன்றத்தின் அனுமதியுடன் ஊழியர் சேமலாப நிதியத்துக்கான வட்டி 09 சதவீதமாக வரையறுக்கப்பட்டது.
+
+...
+
+[Data](articles/8f13bfe2.json)
+
+---
+
+### Heat advisory: Temperatures expected to reach ‘caution’ level
+
+*2024-04-28 19:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98903/heat-advisory-temperatures-expected-to-reach-caution-level) · `en`
+
+The Meteorology Department has issued a Heat Index Advisory for Northern, North-central, Sabaragamuwa, Eastern and North-Western provinces and Monaragala, Hambantota districts.
+
+Heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in Northern, North-central, Western, Sabaragamuwa, Eastern, Southern and North-Western provinces and in Monaragala district tomorrow (29), it said.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/1c91a6f1.json)
+
+---
+
+### வைத்தியசாலைக்கு செல்லும் வழியிலேயே சிறுமியின் உயிர் பிரிந்தது
+
+*2024-04-28 19:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைக்கு-செல்லும்-வழியிலேயே-சிறுமியின்-உயிர்-பிரிந்தது/175-336460) · `ta`
+
+யாழ்ப்பாணம் - ஆவரங்கால் கிழக்கைச் சேர்ந்த ஜெயச்சந்திரன் சஸ்மிதா என்ற 5 வயதான சிறுமி காய்ச்சல் மற்றும் சத்தி காரணமாக சிகிச்சை பெறுவதற்காக வைத்தியசாலைக்கு போகும் வழியிலேயே உயிரிழந்துள்ளார்.
+
+சில தினங்களுக்கு முன்னர் குறித்த சிறுமி உடல் இயலாமை (காய்ச்சல் காரணமாக )காரணமாக அச்சுவேலி பிரதேச வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்றுவிட்டு  வீடு திரும்பியுள்ளார்.
+
+இந்த நிலையில் இன்று உடல் நிலை மோசமாகவே பெற்றோர் சிறுமியை அச்சுவேலி பிரதேச வைத்தியசாலைக்கு மீண்டும் கொண்டு சென்றபோதே சிறுமி உயிரிழந்தார்.
+
+உயிரிழந்த சிறுமியின் சடலம் அச்சுவேலி பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில், பிரேத பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்படவுள்ளது
+
+பிரேத பரிசோதனைக்கு பின்னரே உயிரிழப்புக்கான காரணம் தெரியவரும். சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர். R
+
+◼️
+
+[Data](articles/7a35de32.json)
+
+---
+
+### සහල් සිද්ධිය ගැන කඩිනම් පරීක්ෂණයක්
+
+*2024-04-28 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196061) · `si`
+
+අඩු ආදායම්ලාභී පවුල් වෙත නොමිලේ සහල් බෙදාදීමේ රජයේ වැඩසටහනේදී එල්ලවන චෝදනා සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් පවත්වන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ ලේකම්වරයා අදාළ දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබාදී තිබේ.
+
+ඒ කල් ඉකුත් වූ සහල් බෙදාදෙන බවටත්, සහල් වෙනුවෙන් මුදල් අයකරන බවටත් ප්‍රෙද්ශ කිහිපයකින් චෝදනා එල්ලවී ඇති පසුබිමකය.
+
+රාජ්‍ය පරිපාලන අමාත්‍යාංශ ලේකම්වරයා අද දෙරණට සඳහන් කළේ වැඩසටහන අක්‍රමිකතාවලින් තොරව සිදුකිරීම සඳහා අමාත්‍යාංශ මට්ටමින් නිරීක්ෂණ කණ්ඩායමක්ද යෙදවීමට පියවර ගන්නා බවය.
+
+රජය විසින් නොමිලේ බෙදාහරින සහල් සඳහා  මුදල් අයකිරීම් මෙන්ම  ගුණාත්මකභාවයෙන් අඩු සහල් බෙදාදීමේ  සිදුවීම් පිළිබඳව අද දෙරණ ඊයේ වාර්තා කළේය.
+
+◼️
+
+[Data](articles/f695a10b.json)
+
+---
 
 ### Sri Lanka A team wins the Duckworth Louis system
 
@@ -364,19 +438,25 @@ Dissanayake, who said that Sri Lankans abroad in the upcoming elections were a m
 
 ---
 
-### හොරොයින් සැකකරු පොලීසියෙන් පැන යයි
+### Horoin suspect escapes from the police
 
 *2024-04-28 17:16:40* · [`adalk`](https://www.ada.lk/breaking_news/හොරොයින්-සැකකරු-පොලීසියෙන්-පැන-යයි/11-409303) · `si`
 
-පොලිස් නිලධාරීන් සිව් දෙනකු භාරයේ අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීම සඳහා රැගෙන ගිය හොරෙයින් මත්කුඩු සමග අත්අඩංගුවට ගත් සැකකරුවෙකු පලා ගොස් ඇතැයි කොටහේන පොලිසිය කියයි. මෙලෙස පලා ගොස් ඇත්තේ ග්‍රෑන්ඩ්පාස්  මැල්වත්ත ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A suspect arrested with drugs escaped from Kotahena Police custody during a transfer to Maligakanda Courts. The suspect, a resident of Melwatta, had been taken to a forensic doctor for examination. The police are investigating further.
 
-හොරෙයින්  මත්කුඩු ගෑම් 12 මිලිගෑම් 900 ක් ළඟ තබා ගැනීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ගෑන්ඩ්පාස්  පොලිසියේ සිර මැදිරියේ රඳවා සිටි සැකකරු මාලිගාකන්ද අධිකරණය වෙත ඉදිරිපත් කිරීමට රැගෙන ගොස් ඊට පෙර අධිකරණ වෛද්‍යවරයා  වෙත ඉදිරිපත් කිරීම සඳහා රැගෙන ගිය අවස්ථාවේදී සැකකරු පළා ගොස් තිබූ බව පොලිසිය කියයි.
+🟩
 
-සැකකරු වැසිකිලි යාමට අවශ්‍ය බවට පවසා ඇති අතර එහිදී සැකකරු අත්අඩංගුවෙන් මිදී පලා ගොස් ඇත. කොටහේන පොලිසිය  පරීක්ෂණ පවත්වයි.
+Kotahena Police say that a suspect arrested with drugs who had been taken to the forensic doctor of the Trust to the forensic doctor.. Thus, the Grandpass is a resident of Melwatta area.
+
+The suspect had fled the suspect when he was taken to the Maligakanda Courts in connection with 12 meli in connection with the 1200 mal dysflows.
+
+The suspect had said that the suspect had toilets and had fled the custody from the custody. Kotahena Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/52e626da.json)
+
+[Extended Data](ext_articles/52e626da.ext.json)
 
 ---
 
@@ -835,6 +915,24 @@ Six off site teams who also participated from the school also won the bronze and
 [Data](articles/b4fb9daa.json)
 
 [Extended Data](ext_articles/b4fb9daa.ext.json)
+
+---
+
+### Sri Lanka’s population dynamics at risk, Registrar General’s Dept warns
+
+*2024-04-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98895/sri-lankas-population-dynamics-at-risk-registrar-generals-dept-warns-) · `en`
+
+Sri Lanka has shown a significant drop in annual birth rate while the number of annual deaths has increased since 2020, the Registrar General’s Department revealed.
+
+The Senior Deputy Registrar General, Attorney-at-Law Lakshika Ganepola stated that the number of annual births which was around 325,000 before 2020 has now decreased to 280,000.
+
+Meanwhile, the number of annual deaths has increased to around 180,000, which was 140,000 before 2020, as per reports.
+
+The Registrar General’s Department points out that this situation will adversely affect Sri Lanka’s population growth.
+
+◼️
+
+[Data](articles/1e7f43b2.json)
 
 ---
 
@@ -2251,95 +2349,5 @@ The National People's Power has said that during his stay in Sweden, Anuragumara
 [Data](articles/93ea8559.json)
 
 [Extended Data](ext_articles/93ea8559.ext.json)
-
----
-
-### The “Unholy “Row Between Cardinal Malcolm Ranjith and  Ex-President Gotabaya Rajapaksa  Regarding the Easter Sunday Attacks by Home Grown Jihadists on 21 April 2019
-
-*2024-04-28 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83955) · `en`
-
-An (un)holy row has erupted between Cardinal Malcolm Ranjith, head of Sri Lanka’s Catholic Church and former President Gotabaya Rajapaksa regarding ‘who said what’ in the aftermath of the Easter Sunday attacks on April 21st 2019 by ‘home grown’ jihadists.
-
-Examining several aspects of this dispute is relevant against the wider backdrop of Sri Lanka’s painful struggles with political accountability.
-
-Marking the fifth anniversary of the attacks last week, the Church repeated its call for the perpetrators to be punished. That has not  yet transpired apart from the Supreme Court holding former President Maithripala Sirisena together with his defence and intelligence officers responsible for failing to protect the security of the country.
-
-...
-
-[Data](articles/37c20da3.json)
-
-[Extended Data](ext_articles/37c20da3.ext.json)
-
----
-
-### 2024-04-27 (Saturday)
-
-### MY FATHER
-
-*2024-04-27 23:18:00* · [`islandlk`](http://island.lk/my-father/) · `en`
-
-(This is another excerpt from the book Falling Leaves, a part autobiographical anthology of articles by one of the last remaining members of the old Ceylon Civil Service, now living in Manila at age of over 95-years. A painting my the author adorns the book cover.)
-
-...
-
-[Data](articles/b6eb14b9.json)
-
-[Extended Data](ext_articles/b6eb14b9.ext.json)
-
----
-
-### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
-
-*2024-04-27 22:22:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023-2/) · `en`
-
-Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
-
-The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
-
-...
-
-[Data](articles/234acc68.json)
-
-[Extended Data](ext_articles/234acc68.ext.json)
-
----
-
-### 20 Cambodian soldiers killed in an ammunition explosion at a military base
-
-*2024-04-27 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98890/20-cambodian-soldiers-killed-in-an-ammunition-explosion-at-a-military-base) · `en`
-
-An ammunition explosion at a base in southwestern Cambodia on Saturday afternoon killed 20 soldiers and wounded several others, Prime Minister Hun Manet said.
-
-Hun Manet said in a Facebook post that he was “deeply shocked” when he received the news of the blast at the base in Kampong Speu province. It wasn’t immediately clear what caused it.
-
-Images from the scene showed several badly damaged buildings still smoldering, at least one with its roof blown off, and soldiers receiving treatment in a hospital. Other photos showed houses with holes in their roofs.
-
-Four buildings — three for storage and one work facility — were destroyed and several military vehicles damaged, Col. Youeng Sokhon, an army officer at the site, said in a brief report to army chief Gen. Mao Sophan, posted on social media. He added that 25 villagers’ homes were damaged as well.
-
-...
-
-[Data](articles/8438a0e8.json)
-
-[Extended Data](ext_articles/8438a0e8.ext.json)
-
----
-
-### ‘If we desire a competitive economy, we must embrace competition’ - President
-
-*2024-04-27 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98889/if-we-desire-a-competitive-economy-we-must-embrace-competition-president) · `en`
-
-President Ranil Wickremesinghe emphasized the government’s aim to create a highly competitive, export-oriented economy based on market economy, expressing full faith in the business community of the country. He pointed out that the current challenge facing the nation is not about maintaining the executive presidential system but rather about building a robust economic framework.
-
-The President underscored the importance of allowing the people to decide the country’s economic trajectory, highlighting that this opportunity should not be missed by anyone.
-
-These remarks were made during his presence at the International Rotary District Conference 2023/24 of the District 3220 Club for Sri Lanka and Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday (26).
-
-The district conference featured a keynote address by Mr. Palanivel Thiaga Rajan, Minister of Information Technology and Digital Services of Tamil Nadu, India.
-
-...
-
-[Data](articles/2d4ad95b.json)
-
-[Extended Data](ext_articles/2d4ad95b.ext.json)
 
 ---

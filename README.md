@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 16:18:45**
+As of **2024-04-28 16:33:52**
 
 ## Newspaper Stats
 
-*Scraped **21,386** Articles*
+*Scraped **21,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,202
 economynextcom | 1,210
 adalk | 1,785
 tamilmirrorlk | 2,479
-adaderanalk | 2,548
+adaderanalk | 2,550
 virakesarilk | 3,211
 dailymirrorlk | 3,326
 adaderanasinhalalk | 3,462
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,386 (100.0%) of 21,386 articles have been extended.
+21,386 (100.0%) of 21,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Police arrest scores of pro-Palestinian protesters on US university campuses
+
+*2024-04-28 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98897/police-arrest-scores-of-pro-palestinian-protesters-on-us-university-campuses) · `en`
+
+Pro-Palestinian protesters were arrested on a handful of U.S. university campuses on Saturday, as activists vowed to keep up the movement seeking a ceasefire in Israel’s war with Hamas among other demands.
+
+The Indiana University police department in Bloomington said in an emailed statement that 23 protesters were arrested there.
+
+Indiana State Police along with Indiana University police told demonstrators they could not pitch tents and camp on campus. When the tents were not removed, police arrested and transported protesters to the Monroe County Justice Center on charges of criminal trespass and resisting arrest.
+
+“The Indiana University Police Department continues to support peaceful protests on campus that follow university policy,” the police statement read.
+
+Pro-Palestinian protests have spread to college campuses across the U.S., stoked by the mass arrest of over 100 people on Columbia University’s campus last week.
+
+...
+
+[Data](articles/22838f52.json)
+
+---
 
 ### Tomorrow is a big rain
 
@@ -57,6 +77,28 @@ The public is also requested to take necessary measures to reduce temporary stro
 [Data](articles/93f62614.json)
 
 [Extended Data](ext_articles/93f62614.ext.json)
+
+---
+
+### Heavy showers of above 100mm expected tomorrow
+
+*2024-04-28 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98896/heavy-showers-of-above-100mm-expected-tomorrow) · `en`
+
+The Department of Meteorology says that the Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather conditions.
+
+In its latest weather forecast, issued for tomorrow (29), the department states that showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western, Uva and North-central provinces and in Ampara district after 1.00 p.m.
+
+Showers or thundershowers may occur at a few places elsewhere in the evening or night, it added.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Southern and North-western provinces, the Met. Department warned.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1f6e3708.json)
 
 ---
 
@@ -2253,41 +2295,5 @@ The Defense Ministry said that the two sides had given the attention to the othe
 [Data](articles/72897361.json)
 
 [Extended Data](ext_articles/72897361.ext.json)
-
----
-
-### COPF urges reevaluation of tax mechanism to prevent govt. revenue loss
-
-*2024-04-27 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98884/copf-urges-reevaluation-of-tax-mechanism-to-prevent-govt-revenue-loss-) · `en`
-
-The Committee of Public Finance (COPF), at its most recent meeting, has examined the effectiveness of recent tax increases on tobacco and liquor, aimed at discouraging consumption and boosting government revenue.
-
-Drawing attention to the Laffer curve in taxation, the COPF observed a decline in government revenue over the past two months compared to the same period last year, attributing it to higher taxes that have led to increased smuggling and the adoption of alternative measures.
-
-At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, the COPF members recommended a thorough analysis of the inflation index to guide tax adjustments and research into existing tax systems to prevent revenue loss.
-
-...
-
-[Data](articles/ce0e94eb.json)
-
-[Extended Data](ext_articles/ce0e94eb.ext.json)
-
----
-
-### COPF urges reevaluation of tax mechanism to stem state revenue loss
-
-*2024-04-27 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98884/copf-urges-reevaluation-of-tax-mechanism-to-stem-state-revenue-loss-) · `en`
-
-The Committee of Public Finance (COPF), at its most recent meeting, has examined the effectiveness of recent tax increases on tobacco and liquor, aimed at discouraging consumption and boosting government revenue.
-
-Drawing attention to the Laffer curve in taxation, the COPF observed a decline in government revenue over the past two months compared to the same period last year, attributing it to higher taxes that have led to increased smuggling and the adoption of alternative measures.
-
-At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, the COPF members recommended a thorough analysis of the inflation index to guide tax adjustments and research into existing tax systems to prevent revenue loss.
-
-...
-
-[Data](articles/d2b3bd0d.json)
-
-[Extended Data](ext_articles/d2b3bd0d.ext.json)
 
 ---

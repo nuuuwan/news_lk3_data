@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 14:50:44**
+As of **2024-04-28 15:03:44**
 
 ## Newspaper Stats
 
-*Scraped **21,375** Articles*
+*Scraped **21,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,783
-tamilmirrorlk | 2,477
+adalk | 1,784
+tamilmirrorlk | 2,479
 adaderanalk | 2,548
 virakesarilk | 3,208
 dailymirrorlk | 3,325
@@ -26,25 +26,61 @@ adaderanasinhalalk | 3,460
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,372 (100.0%) of 21,375 articles have been extended.
+21,375 (100.0%) of 21,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ලංකාවට එන්න තිබූ ගුවන් යානයේ ඇතිවූ කලබලය
+### விழிப்பாக இருக்குமாறு அறிவுறுத்தல்
+
+*2024-04-28 14:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விழிப்பாக-இருக்குமாறு-அறிவுறுத்தல்/175-336446) · `ta`
+
+ஜனாதிபதி அலுவலகத்தில் பதவி வகிப்பதாக போலி ஆவணங்களைச் சமர்ப்பித்து, முதலீட்டாளர்கள், வேலை தேடும் இளைஞர்கள், பல்வேறு நாடுகளுக்கு விசா பெற முயற்சிப்பவர்கள் என பலரை ஏமாற்றி, பணம் பெறும் சம்பவங்கள் பதிவாகியுள்ளன.
+
+இவ்வாறான மோசடியாளர்கள் குறித்து பொதுமக்கள் அவதானமாக இருக்குமாறும், இவ்வாறான நபர்கள் குறித்து சந்தேகம் ஏற்பட்டால் ஜனாதிபதியின் சிரேஷ்ட உதவிச் செயலாளர் பிரசாத் செனரத் என்ற அதிகாரியை +94 71 530 8032 என்ற தொலைபேசி இலக்கத்தின் ஊடாக தொடர்புகொண்டு, தகவல் பெற்றுக்கொள்ளுமாறும் ஜனாதிபதி அலுவலகம் பொதுமக்களைக் கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/ee164dc0.json)
+
+---
+
+### பாலத்தின் மீதேறி தற்கொலைக்கு முயன்ற  பைடன்
+
+*2024-04-28 14:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலத்தின்-மீதேறி-தற்கொலைக்கு-முயன்ற-பைடன்/50-336445) · `ta`
+
+அமெரிக்காவில் அதிபர் தேர்தல் நெருங்கி வருகிறது. இதற்காக தீவிர பிரச்சாரங்கள் நடந்து வருகின்றன. அந்த வகையில், தற்போதைய அதிபராக இருக்கும் ஜோ பைடன் ஒரு நேர்காணலில் கலந்துக்கொண்டார். அப்போது பேசிய அவர், தற்கொலைக்கு முயன்றதாக பேசியிருக்கிறார்.
+
+உலக வல்லரசு நாடுகளில் மிகவும் முக்கிய நாடாக இருக்கிறது அமெரிக்கா. இங்கு நான்கு ஆண்டுகளுக்கு ஒருமுறை அதிபர் தேர்தல் நடைபெறும். ஜனநாயக கட்சி சார்பாக ஜோ பைடன் மற்றும் குடியரசு கட்சி சார்பாக டொனால்ட் டிரம்ப் ஆகியோர் இந்த முறை போட்டியிடுகிறார்கள்.
+
+தற்போது ஜனநாயக கட்சி சார்பாக ஜோ பைடன் அதிபராக ஆட்சி புரிந்து வருகிறார். இதற்கு முந்தைய ஆட்சியில் டொனால்ட் டிரம்ப் பதவியில் இருந்தார் என்பது குறிப்பிடத்தக்கது. வருகின்ற நவம்பர் மாதத்தில் அமெரிக்க அதிபர் தேர்தல் நடைபெறுகிறது. அமெரிக்க அதிபர் தேர்தல் உலகம் முழுவதும் அதிக கவனம் கொண்ட தேர்தலாக அமைந்திருக்கிறது.
+
+...
+
+[Data](articles/44456de0.json)
+
+---
+
+### The flight caused to Sri Lanka
 
 *2024-04-28 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196052) · `si`
 
-ඔස්ට්‍රේලියාවේ සිඩ්නි ගුවන්තොටුපොළේදී ඇතිවූ උණුසුම් තත්ත්වයක් දැක්වෙන වීඩියෝවක් මේ වනවිට විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A video at Sydney Airport reportedly shows a person causing a heating issue on a Sri Lanka-bound flight. The suspect, arrested by security, is suspected to have a mental disorder.
 
-ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබූ ගුවන් යානයක භාණ්ඩ රැගෙන යන කොටසට පුද්ගලයෙකු පිවිසීම හේතුවෙන් මෙම උණුසුම ඇතිවී තිබුණි.
+🟩
 
-එහිදී ආරක්ෂක අංශ විසින් සැකකරු අත්අඩංගුවට ගැනීමට කටයුතු කර තිබූ අතර පසුව සිදුකළ විමර්ශනවලට අනුව පොලීසිය සැකපළකරන්නේ ඔහු මානසික ආබාධයකින් පෙළෙන අයෙකු බවටය.
+There is a videos in the Sydney Airport at Sydney Airport, Australia, has reportedly reported astrology.
+
+The heating was caused by the entry of a person who was to take the goods on a plane that was to come to Sri Lanka.
+
+The suspect had been arrested by the security forces and the police suspect that he is suffering from a mental disorder.
 
 ◼️
 
 [Data](articles/ef939c2c.json)
+
+[Extended Data](ext_articles/ef939c2c.ext.json)
 
 ---
 
@@ -63,6 +99,8 @@ Six off site teams who also participated from the school also won the bronze and
 ...
 
 [Data](articles/b4fb9daa.json)
+
+[Extended Data](ext_articles/b4fb9daa.ext.json)
 
 ---
 
@@ -327,6 +365,22 @@ Furthermore, the former President has mentioned in his statement that since ther
 [Data](articles/8133f5e2.json)
 
 [Extended Data](ext_articles/8133f5e2.ext.json)
+
+---
+
+### ආගමන විගමන නිලධාරින්ගෙන් මිදි පළා ගිය ඊජිප්තු ජාතිකයා නුවරදි අල්ලයි
+
+*2024-04-28 11:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-විගමන-නිලධාරින්ගෙන්-මිදි-පළා-ගිය-ඊජිප්තු-ජාතිකයා-නුවරදි-අල්ලයි/11-409296) · `si`
+
+වීසා නොමැතිව මෙරට රැඳී සිටි ඊජිප්තු ජාතිකයෙකු අගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන රඳවාගෙන සිටියදී ඉන් පලා ගොස් මහනුවර ප්‍රදේශයේ ලැගුම්හලක සැඟව සිටියදී නැවත අත්අඩංගුවට ගෙන තිබේ .
+
+වීසා නොමැතිව රැඳී සිටි Mohomad Nayal Abd Alsabour Nasar නමැති එම ඊජිප්තු ජාතිකයා අගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන රටින් පිටුවහල් කරන තෙක් කොළඹ ප්‍රදේශයේ රැඳවුම් මධ්‍යස්ථානයක රඳවා සිටියදී පසුගිය අප්‍රේල් මස 13 වැනි දින එම රඳවුම් මධ්‍යස්ථානයෙන් පලා ගොස් තිබේ .
+
+එසේ පලා ගිය ඊජිප්තු ජාතිකයා මහනුවර ප්‍රදේශයේ ඒ. ඒ. ධර්මසේන මාවතේ පිහිටි ලැගුම්හලක රැඳී සිටින බවට ලද බුද්ධි තොරතුරකට අනුව අගමන විගමන නිලධාරීන් විසින් පෙරේදා (27) අලුයම 1.00 ට පමණ අත්අඩංගුවට ගෙන තිබේ .
+
+◼️
+
+[Data](articles/6acfd19d.json)
 
 ---
 
@@ -1288,6 +1342,8 @@ Marking the fifth anniversary of the attacks last week, the Church repeated its 
 
 [Data](articles/37c20da3.json)
 
+[Extended Data](ext_articles/37c20da3.ext.json)
+
 ---
 
 ### 2024-04-27 (Saturday)
@@ -2219,77 +2275,5 @@ Presidential Secretary's Secretary to the Presidential Secretary of the Presiden
 [Data](articles/80ad1265.json)
 
 [Extended Data](ext_articles/80ad1265.ext.json)
-
----
-
-### Government in the process of transitioning Sri Lanka economy: State minister
-
-*2024-04-27 14:48:00* · [`economynextcom`](https://economynext.com/government-in-the-process-of-transitioning-sri-lanka-economy-state-minister-160258/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s economy has stabilized, and growth is now emerging, due to macroeconomic reforms, State Minister of Finance Shehan Semasinghe said.
-
-“After a contraction of 7.8% in 2022, the GDP returned to growth in the 3rd and 4th quarters of 2023, with Q4 GDP growth reaching 4.5%,” Semasinghe said on X.
-
-“Recognizing the progress in macroeconomic reforms, the measures to stabilize the economy have thus far been successful. The government is now in the process of transitioning the economy to a new growth path.”
-
-The strengthening of the Sri Lankan Rupee will make the purchasing of goods and services cheaper over time, Semasinghe said.
-
-“This will lead to increased purchasing power, helping to alleviate inflationary pressures and contribute to price stability and financial system stability.
-
-“Importantly reduce the burden of debt servicing of the country.”
-
-...
-
-[Data](articles/740de949.json)
-
-[Extended Data](ext_articles/740de949.ext.json)
-
----
-
-### Child fell into the stream
-
-*2024-04-27 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196024) · `si`
-
-A boy named Isuru Jayanath Bandara from Polonnaruwa fell into a canal and died. Residents found him 2 km from his home. He was often seen near the stream with his mother. The child was missing yesterday, and his disappearance was linked to an open gate. Despite efforts, the body was not found.
-
-🟩
-
-Polonnaruwa, Z D Canal, a boy has died after falling into a canal involved in the Em.
-
-A resident of the area had seen the child who had fallen into the canal and had dropped two miles [2 km] from his house.
-
-The victim was a small boy, a small male named Isuru Jayanath Bandara, a resident of Polonnaruwa, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda, Welikanda.
-
-Residents of the area said that small isuri usually comes to the stream with his mother.
-
-As a result, residents were also used round the house to prevent the child's safety to the body of the child.
-
-The little son had fled the elder silly, when he was not at home yesterday (26).
-
-Residents suspect that the child may have come to the stream to the stream due to the open gate of this safe fence.
-
-The child has not been found with the help of the residents of the area.
-
-...
-
-[Data](articles/b614b463.json)
-
-[Extended Data](ext_articles/b614b463.ext.json)
-
----
-
-### Is Religion the opium of the masses?
-
-*2024-04-27 14:43:00* · [`islandlk`](http://island.lk/is-religion-the-opium-of-the-masses/) · `en`
-
-Perhaps there is no phrase of Karl Marx that is better known or more frequently quoted than his quip about religion being the opium of the masses. So let me quote the passage in full.
-
-“Religious distress is an expression of real distress and a protest against this distress. Religion is the sigh of the oppressed creature, the heart of a heartless world, the spirit of a spiritless condition. It is the opium of the masses. The abolition of religion as the illusory happiness of the people is the condition for their real happiness. The demand to give up this illusion is the demand for men to give up a condition which needs illusions”. Marx, Critique of Hegel’s Philosophy of Right.
-
-...
-
-[Data](articles/8760cdc2.json)
-
-[Extended Data](ext_articles/8760cdc2.ext.json)
 
 ---

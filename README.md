@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 17:54:28**
+As of **2024-04-28 18:10:24**
 
 ## Newspaper Stats
 
-*Scraped **21,397** Articles*
+*Scraped **21,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,104 @@ newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,786
+adalk | 1,787
 tamilmirrorlk | 2,481
-adaderanalk | 2,551
+adaderanalk | 2,553
 virakesarilk | 3,211
 dailymirrorlk | 3,327
-adaderanasinhalalk | 3,466
+adaderanasinhalalk | 3,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,396 (100.0%) of 21,397 articles have been extended.
+21,397 (100.0%) of 21,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### මහින්දගේ ධුර කාලය වසරකින් දිගුවෙයි
+### Security breach at Sydney Airport as man runs onto tarmac and tries to board Sri Lanka-bound flight
+
+*2024-04-28 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98900/security-breach-at-sydney-airport-as-man-runs-onto-tarmac-and-tries-to-board-sri-lanka-bound-flight) · `en`
+
+A brazen intruder was captured walking across a jet bridge and onto a busy tarmac before he tried to board a nearby plane at an Australian airport.
+
+The unidentified 30-year-old man allegedly bolted through the screening area to breach security at the Sydney International Airport on Friday, 9 News reported.
+
+The Australian Federal Police say they were able to stop the man as he was moseying his way toward the tarmac.
+
+“AFP officers arrested a man, 30, who allegedly ran through the main screening area and gained access to restricted areas, including the apron,” said in a statement to the outlet.
+
+An apron connects the terminal buildings with the airfield, where baggage and passengers board a plane.
+
+Witnesses claimed they saw the man run through the airport’s immigration control area and onto the airport’s apron, the Daily Telegraph reported.
+
+He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flight but was thwarted by baggage handlers.
+
+...
+
+[Data](articles/4e5c06a5.json)
+
+---
+
+### කටුනායකදී ව්‍යාපාරිකයෙකු අත්අඩංගුවට
+
+*2024-04-28 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196059) · `si`
+
+විදෙස් ගමන් තහනමක් පනවා ඇති ව්‍යාපාරිකයෙකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකාර ව්‍යාපාරිකයා ව්‍යාජ ගමන් බලපත්‍රයකින් තායිලන්තය බලා පිටත්ව යාමට උත්සහ කළ අවස්ථාවේදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොළඹ ප්‍රදේශයේ පදිංචි 64 හැවිරිදි වියේ පසුවන ව්‍යාපාරිකයෙකි.
+
+අද දෙරණ ගුවන්තොටුපොළ වාර්තාකරු පැවසුවේ අද අලුයම තායි ගුවන් සේවයේ ටී.ජී. - 308 දරන ගුවන් යානයට පිවිසීමට කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි අවස්ථාවේ ආගමන විගමන දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අදාළ ව්‍යාපාරිකයා අත්අඩංගුවට ගෙන ඇති බවය.
+
+කූඨ ලෙස ලියකියවිලි සකස් කර පුද්ගලයෙකු ඉතාලිය වෙත යැවීමට උත්සාහ කිරීමේ සිද්ධියකට මෙම ව්‍යාපාරිකයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන මිනුවන්ගොඩ මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබූ අතර, එහිදී  ඔහුට එරෙහිව විදෙස් ගමන් තහනමක් පනවා තිබුණි.
+
+◼️
+
+[Data](articles/ad48548b.json)
+
+---
+
+### Mahinda's term extension
 
 *2024-04-28 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196058) · `si`
 
-මුදල් අමාත්‍යාංශයේ ලේකම් මහින්ද සිරිවර්ධන මහතාගේ ධුර කාලය වසරකින් දීර්ඝ කර තිබේ.
+Mahinda Siriwardena, Secretary to the Ministry of Finance, has extended his term by another year.
 
-ඒ අනුව ඒ පසුගිය අප්‍රේල් මස 26 වනදා සිට ක්‍රියාත්මක වන පරිදි ඒ මහතාගේ ධුර කාලය තවත් වසරකින් දීර්ඝ කර ඇත.
+🟩
+
+Secretary to the Ministry of Finance Mahinda Siriwardena has extended the term of office.
+
+Accordingly, the term of his term has been extended by another year.
 
 ◼️
 
 [Data](articles/5b0ffdd5.json)
+
+[Extended Data](ext_articles/5b0ffdd5.ext.json)
+
+---
+
+### Mahinda Siriwardene granted service extension as Finance Secretary
+
+*2024-04-28 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98899/mahinda-siriwardene-granted-service-extension-as-finance-secretary-) · `en`
+
+The Secretary to the Ministry of Finance Mahinda Siriwardene has been granted a service extension of one year.
+
+This term extension will be effective from 26 April 2024, the Finance Ministry said.
+
+Meanwhile on Friday (26), Siriwardena announced that he will be retiring from the Central Bank of Sri Lanka (CBSL), after more than 33 years of service. He held the position of Deputy Governor of the Central Bank.
+
+However, Mr. Siriwardana, who is completing his service period as Treasury Secretary this month, had said that he will continue to serve as the Secretary to the Treasury and Ministry of Finance.
+
+Accordingly, he will be given a one-year extension as Secretary to the Treasury and Secretary, Ministry of Finance, Economic Stabilisation and National Policies.
+
+◼️
+
+[Data](articles/5c49c0c7.json)
 
 ---
 
@@ -721,6 +791,26 @@ The May Day is gone to the May Day for the first stage of making Ranil to the Pr
 [Data](articles/c0253a9b.json)
 
 [Extended Data](ext_articles/c0253a9b.ext.json)
+
+---
+
+### නිදහස් පක්ෂයෙනුත් ජනපති අපේක්ෂකයෙක්
+
+*2024-04-28 11:56:56* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයෙනුත්-ජනපති-අපේක්ෂකයෙක්/11-409298) · `si`
+
+ජනාධිපතිවරණයක් ප්‍රකාශයට පත් කළහොත් ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් අපේක්ෂකයෙකු ඉදිරිපත් කරන බවත් වෙනත් පක්ෂයකින් ඉදිරිපත්වන අපේක්ෂකයෙකුට සිය පක්ෂයේ සහාය ලබා දීම සිදු නොකරන බවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභික සහ දේශපාලන මණ්ඩල සභික පාර්ලිමේන්තු මන්ත්‍රී දුෂ්මන්ත මිත්‍රපාල මහතා ගම්පහදී පැවසීය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මැයි දින රැලිය , නිදහස් සේවක සංගමය ඇතුලු වෘත්තීය සමිති සංවිධානත්වයෙන් මැයි 1 වෙනි දින ගම්පහ නගර සභා පිටියේදී පැවැත්වීමේ කටයුතු සංවිධානය කිරීම පිනිස එම පිටියට පැමිණි අවස්ථාවේදී මිත්‍රපාල එසේ සදහන් කළේය.
+
+මැයි දින රැලියට ඕනෑම අයෙකුට සහභාගිවිය හැකි බව හෙතෙම පැවසූ අතර ජනතාව ගැන කැක්කුමක් ඇති සැමට මීට සහභාගි විය හැකි බවද කීය.
+
+නිදහස් සේවක සංගමය ඇතුලු වෘත්තීය සමිති සංවිධානත්වයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂ මැයි දින රැලිය පැවැත්වෙන බවත් දුෂ්මන්ත මිත්‍රපාල මහතා මාධ්‍ය හමුවේ අදහස් දක්වමින් පැවසීය.
+
+මෙම අවස්ථාවට හිටපු පාර්ලිමේන්තු මන්ත්‍රී සචින්වාස් ගුණවර්ධන මහතා ඇතුලු ශ්‍රී ලංකා නිදහස් පක්ෂයේ ගම්පහ දිස්ත්‍රික් ආසන සංවිධායකවරුන් කිහිප දෙනෙකුද එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/c12c8c5e.json)
 
 ---
 
@@ -2215,95 +2305,5 @@ He had also had a push of about 15 acres, or a pushing down.
 [Data](articles/a63f7ec3.json)
 
 [Extended Data](ext_articles/a63f7ec3.ext.json)
-
----
-
-### Sri Lanka’s Ceylon tea exports increase in March
-
-*2024-04-27 18:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-tea-exports-increase-in-march-160266/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s total quantity of tea exported for March increased 18.22 percent compared to the same period last year, industry data showed.
-
-Total quantity of tea exported including re-exports with imported tea amounted to 21.25 million kilos.
-
-The FOB price per kilo for the month was 1,795.87 rupees. Total export earnings recorded an increase of 1.87 billion rupees, a 5.17 percent increase in 2024 as against the same month last year.
-
-Country wise analysis of exports reveals that Iraq has emerged as the largest export destination from Sri Lanka, buying 8.4 million kilos, followed by the UAE and Russia. (Colombo/Apr27/2024)
-
-◼️
-
-[Data](articles/3b6c30c1.json)
-
-[Extended Data](ext_articles/3b6c30c1.ext.json)
-
----
-
-### Decision on salary anomalies of university academic staff
-
-*2024-04-27 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196035) · `si`
-
-The Ministry of Education has directed the Salary Board of Cabinet of Ministers to address salary anomalies and allowances for non-academic staff at state universities. Two candidates from the Cabinet will be presented to the Ministerial Subcommittee for review. A memorandum submitted on May 8th for the removal of salary anomalies and allowances for academic staff will also be discussed.
-
-🟩
-
-The Ministry of Education says that the Salary Board of Cabinet of Ministers are to be submitted to the removal of salary anomalies and allowances of the state university non-academic staff.
-
-The Ministry of Education stated that two candidations of Cabinet are to be produced before the Ministerial Subcommittee.
-
-Accordingly, the Cabinet Memorandum submitted to the removal of the salary anomaly and allowances of the university academic staff on May 08 will be presented to the Ministerial Subcommittee.
-
-◼️
-
-[Data](articles/a91e0951.json)
-
-[Extended Data](ext_articles/a91e0951.ext.json)
-
----
-
-### US - Sri Lanka bilateral naval exercises conclude on successful note
-
-*2024-04-27 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98886/us-sri-lanka-bilateral-naval-exercises-conclude-on-successful-note) · `en`
-
-The Mini Cooperation Afloat Readiness and Training (CARAT) bilateral exercise 2024 between the United States Pacific Fleet and the Sri Lanka Navy came to a successful end on Friday (26).
-
-Commenced on Monday (22), Mini CARAT – 2024 took place in the Marine Headquarters, Special Boat Squadron Headquarters, Naval Dockyard and Upparu in Trincomalee as well as certain segments at the Lighthouse Galley in Colombo.
-
-The closing ceremony of the bilateral exercise was held at the Marines Headquarters in Sampoor, under the auspices of Commander Sean Jin, Office of Defence Cooperation at the U.S. embassy in Colombo and Captain Upul Samarakoon, Acting Director Sri Lanka Navy Marines. Mementoes were also exchanged, signifying the importance of this occasion.
-
-...
-
-[Data](articles/fd125336.json)
-
-[Extended Data](ext_articles/fd125336.ext.json)
-
----
-
-### Heavy rains in the next 36 hours
-
-*2024-04-27 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196034) · `si`
-
-Heavy rains expected in Western, Sabaragamuwa, Southern, North Western, Uva provinces, and Ampara, Batticaloa districts. Showers or thundershowers in North-Central, coastal areas, and thunder in Sabaragamuwa, Central, Uva provinces. Met Department advises precautions against wind and lightning.
-
-🟩
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. Heavy rains can occur at more than 75, the Met Department said.
-
-The Department says a weather notification for the next 36 hours.
-
-The department states that there will be showers at several places in the Western, Sabaragamuwa, Southern, Southern, Southern, North Western and Uva provinces and in Ampara and Batticaloa Districts.
-
-Showers or thundershowers will occur at several places in the North-Central Province or night.
-
-Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota.
-
-In some places in the Sabaragamuwa, Central and Uva provinces, there is a thumb in the morning.
-
-The Meteorological Department urges the public to take necessary steps to reduce the temporary winds and lightning accidents caused by thunderstorms.
-
-◼️
-
-[Data](articles/c46e0289.json)
-
-[Extended Data](ext_articles/c46e0289.ext.json)
 
 ---

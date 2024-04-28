@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 09:34:04**
+As of **2024-04-28 09:52:38**
 
 ## Newspaper Stats
 
-*Scraped **21,333** Articles*
+*Scraped **21,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,58 @@ newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
-adalk | 1,775
+adalk | 1,776
 tamilmirrorlk | 2,469
 adaderanalk | 2,544
 virakesarilk | 3,202
-dailymirrorlk | 3,319
+dailymirrorlk | 3,320
 adaderanasinhalalk | 3,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,332 (100.0%) of 21,333 articles have been extended.
+21,333 (100.0%) of 21,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### දියේ ගිලී තරුණයෙක් මරුට
+### Sri Lanka go on top of Group A of Women’s T20 World Cup Qualifier
+
+*2024-04-28 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-go-on-top-of-Group-A-of-Womens-T20-World-Cup-Qualifier/108-281497) · `en`
+
+The second matchday of the ICC Women’s T20 World Cup Qualifier 2024 witnessed the Netherlands, Uganda and Zimbabwe record important first wins while Sri Lanka made it two wins in two.
+
+Sri Lanka produced an utterly dominant performance against Scotland to move to the top of Group A in the Global Qualifier.
+
+Asked to bat first by the Islanders, UAE had no answers to the Sri Lankan spinners, who accounted for nine of the 10 wickets that fell. Inoshi Priyadharshani made a crucial breakthrough in the very first over, dismissing Darcey Carter for a duck to set the tone for Sri Lanka's dominance.
+
+Despite losing an early wicket, Kathryn Bryce emerged was undeterred and launched an attack during the Powerplay, striking two boundaries off Udeshika Prabodhani in an over. She dished out the same treat to Sugandika Kumari but the left-arm spinner had the last laugh by getting rid of the opposition skipper two balls later.
+
+...
+
+[Data](articles/3b89e8e6.json)
+
+---
+
+### Youth drowns
 
 *2024-04-28 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196046) · `si`
 
-ඊයේ (27) උදෑසන කාලයේදී එම තරුණයා මානෙල් වැවේ මසුන් ඇල්ලීම සඳහා ගොස් සිටියදී මෙලෙස එහි ගිලී ඇති බව පොලීසිය පවසයි.
+A 21-year-old from Nochchiyagama, Halmillawa, drowned while fishing in a lake yesterday morning.
 
-එසේ ජීවිතක්ෂයට පත්ව ඇත්තේ, හල්මිල්ලෑව, නොච්චියාගම ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+🟩
+
+The youngest was sank on the morning when the youth went to fishing in the liveli lake yesterday morning.
+
+The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
 
 ◼️
 
 [Data](articles/32d21a33.json)
+
+[Extended Data](ext_articles/32d21a33.ext.json)
 
 ---
 
@@ -479,6 +503,22 @@ The Kilinochchi Magistrate visited the site, conducted a magisterial inspection 
 [Data](articles/402db4e0.json)
 
 [Extended Data](ext_articles/402db4e0.ext.json)
+
+---
+
+### දකුණු කොරියාවේ පදිංචියට යන්නේ නෑ
+
+*2024-04-27 20:51:49* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-පදිංචියට-යන්නේ-නෑ/11-409289) · `si`
+
+තමා දකුණු කොරියාවේ පදිංචියට හෝ වෙනත් රටක පදිංචියට නොයන බවත් දේශපාලන ප්‍රතිවාදින් විසින් මෙවැනි ප්‍රකාශ ගෙන යන බවත් හිටපු ජනපති මෛත්‍රිපාල සිරිසේන මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+"මා දකුණු කොරියාවේ පදිංචියට යන බවට අසත්‍ය ප්‍රකාශයන් විවිධ ජනමාධ්‍යන් හරහා විශාල ප්‍රචාරයක් ලබා දෙන බව මේ දින වල පෙනී යයි. දකුණු කොරියාවේ හෝ ලෝකයේ කිසිඳු රටකට පදිංචියට යාමට මාහට අවශ්‍යතාවයක් නොමැත. දේශපාලන ප්‍රතිවාදීන් විසින් ගෙන යන මෙවැනි ආකාරයේ අසත්‍ය ප්‍රචාර මා විසින් තරයේ ප්‍රතික්ෂේප කරමි.
+
+මා වෙත අධිකරනයේ වාරන නියෝගයක් තිබෙන බැවින්, පක්‍ෂයේ බලයලත් නිලධාරීන් විසින් ගම්පහ නඟර සභා භූමියේදී ලෝක කම්කරු දිනය සාර්‍ථකව පැවැත්වීමට සියලුම කටයුතු මේ වන විටත් සංවිධානය කර ඇත." යැයි ඔහු නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/9d2e41eb.json)
 
 ---
 
@@ -2165,51 +2205,5 @@ An exhibition of vintage stamps and coins organized by Sri Lanka Independent Phi
 [Data](articles/f7d2c93a.json)
 
 [Extended Data](ext_articles/f7d2c93a.ext.json)
-
----
-
-### Sunny - both the rain together
-
-*2024-04-27 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196013) · `si`
-
-Sunny weather with showers or thundershowers expected across multiple provinces, including Western, Sabaragamuwa, Central, Southern, North Western, and Uva. High temperatures and humidity in some areas.
-
-🟩
-
-From Western, Sabaragamuwa, Central, Southern, Southern, North Western and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
-
-Showers or thundershowers will occur at several places in the North-Central Province or night.
-
-Showers or thundershowers will occur at several places in the coastal areas from Galle to Matara and showers.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. 75 workshop can also occur.
-
-Some locations in the Western, Sabaragamuwa, Central and Uva provinces were in the morning.
-
-The Department of Meteorology urges the public to take necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
-
-Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to pay attention today (27).
-
-...
-
-[Data](articles/563577b5.json)
-
-[Extended Data](ext_articles/563577b5.ext.json)
-
----
-
-### Govt. concerned over project implementation at snail’s pace
-
-*2024-04-27 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govt-concerned-over-project-implementation-at-snails-pace/155-281456) · `en`
-
-Colombo, April 26 (Daily Mirror) -  Ahead of the presidential election, the government has allocated Rs.100 million for each divisional secretariat area for development projects and instructed the ruling party MPs to accelerate implementation of them, Daily Mirror learns.
-
-President Ranil Wickremesinghe called for a meeting of the ruling party legislators on Thursday to discuss the matter since the execution of development projects takes place at a snail’s pace, according to an MP who was present at the meeting.
-
-...
-
-[Data](articles/c38e0eb4.json)
-
-[Extended Data](ext_articles/c38e0eb4.ext.json)
 
 ---

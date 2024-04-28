@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 10:18:35**
+As of **2024-04-28 10:34:18**
 
 ## Newspaper Stats
 
-*Scraped **21,336** Articles*
+*Scraped **21,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,776
-tamilmirrorlk | 2,469
+tamilmirrorlk | 2,470
 adaderanalk | 2,544
 virakesarilk | 3,202
 dailymirrorlk | 3,320
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,336 (100.0%) of 21,336 articles have been extended.
+21,336 (100.0%) of 21,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### விடுதியில் மாணவி: ஆசிரியர் கைது
+
+*2024-04-28 10:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-மாணவி-ஆசிரியர்-கைது/175-336427) · `ta`
+
+தான் தங்கியிருக்கும் விடுதில், மாணவி ஒருவர் இருந்தார் என்றக் குற்றச்சாட்டின் பேரில், அந்த விடுதியில் தங்கியிருக்கும் ஆசிரியர் ஒருவர், சனிக்கிழமை (27) கைது செய்யப்பட்டார். இந்த சம்பவம், ஹட்டன் பிராந்திய கல்வி அலுவலகத்தின் கட்டுப்பாட்டில் உள்ள பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+கினிகத்தேனை பொலிஸ் பிரிவுக்குட்பட்ட பிரதான பாடசாலை ஒன்றின் ஆசிரியரேசந்தேகத்தின் பேரில் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+அதே பொலிஸ் எல்லைக்கு உட்பட்ட மற்றுமொரு பாடசாலையிலிருந்து 11 ஆம் தரத்தில் கல்வி கற்கும் பாடசாலை மாணவியை ஆசிரியர் தங்கியிருக்கும் பாடசாலையின் ஆசிரியர் விடுதிக்கு அழைத்து வந்ததாக கூறப்படும் சம்பவம் தொடர்பில் சந்தேகத்தின் பேரில் ஆசிரியர் கினிகத்தேனை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட ஆசிரியர்தற்போது பணிபுரியும் பாடசாலைக்கு முன்னதாக அந்த மாணவி கல்விப்பயிலும் பாடசாலையில் பல வருடங்களாக சேவையாற்றி வந்துள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f222ff16.json)
+
+---
 
 ### Sri Lanka go on top of Group A of Women’s T20 World Cup Qualifier
 
@@ -2201,31 +2219,5 @@ Later last week, the brother took his sister to the orphaned house again. Change
 [Data](articles/18ad1254.json)
 
 [Extended Data](ext_articles/18ad1254.ext.json)
-
----
-
-### The threat of America to China
-
-*2024-04-27 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196014) · `si`
-
-US Secretary of State Anthony Blinken warned China against supporting Russia in Ukraine, calling it a threat to European security. He also mentioned China's cooperation with Iran to escalate conflict with Israel. In response, the US may sell or ban China's TikTok.
-
-🟩
-
-US Secretary of State Anthony Blinkelar warned that if China does not stop his support to Russia for the Ukkrane conflict.
-
-He said that this cooperation has said that the greatest threat to European security after the Cold War.
-
-It is said that a statement has not been said to be measures that will be taken against China
-
-US Secretary of State Anthony Blinke has stressed that China is working with Iran to escalate the conflict with Israel.
-
-In the face of this, the US will take necessary steps to sell or prohibit China's Tiktak app for sale.
-
-◼️
-
-[Data](articles/d60e5298.json)
-
-[Extended Data](ext_articles/d60e5298.ext.json)
 
 ---

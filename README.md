@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 08:08:52**
+As of **2024-04-28 08:18:27**
 
 ## Newspaper Stats
 
-*Scraped **21,327** Articles*
+*Scraped **21,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
-tamilmirrorlk | 2,467
+tamilmirrorlk | 2,468
 adaderanalk | 2,543
 virakesarilk | 3,202
 dailymirrorlk | 3,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,326 (100.0%) of 21,327 articles have been extended.
+21,327 (100.0%) of 21,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,19 +116,41 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 
 ---
 
-### ’வர்த்தக சமூகம் மீது முழு நம்பிக்கை உண்டு’
+### வாகன இறக்குமதி தொடர்பில் கலந்துரையாடல்
+
+*2024-04-28 01:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-கலந்துரையாடல்/175-336419) · `ta`
+
+வாகன இறக்குமதிக்கு அனுமதி வழங்குவது தொடர்பில் கலந்துரையாடல்கள் ஆரம்பிக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+நிதியமைச்சு, ஜனாதிபதி செயலகம் மற்றும் மத்திய வங்கி உள்ளிட்ட நிறுவனங்களுடன் இது தொடர்பில் கலந்துரையாடப்பட்டு வருவதாக இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/28083d3f.json)
+
+---
+
+### The telephone business has full confidence in the business community
 
 *2024-04-28 01:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-சமூகம்-மீது-முழு-நம்பிக்கை-உண்டு/175-336418) · `ta`
 
-சந்தைப் பொருளாதாரத்தை அடிப்படையாகக் கொண்டதும், அதிக போட்டித்தன்மை கொண்டதுமான, ஏற்றுமதிப் பொருளாதாரத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கமாகும். இந்த நாட்டின் வர்த்தக சமூகம் மீது தனக்கு முழு நம்பிக்கை இருக்கின்றது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe expressed confidence in Sri Lanka's business community, aiming for an export economy based on the market economy. He emphasized the need for the people to decide Sri Lanka's future direction, focusing on market forces for economic development.
 
-கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று முன்தினம் நடைபெற்ற இலங்கை மற்றும் மாலைதீவுகளுக்கான மாவட்ட 3220 சர்வதேச ரோட்டரி கழகத்தின் 2023/24 வருடாந்த மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில் ,
+🟩
 
-இலங்கை பயணிக்க வேண்டிய பாதையை தீர்மானிக்க வேண்டிய ஒரு கட்டாயத்தில் நாம் இருக்கிறோம். அதன்போது எந்த வழியில் நாம் செல்ல வேண்டும் என்பதை இந்த நாட்டு மக்களே தீர்மானிக்க வேண்டும். நாம் இங்கிருந்து நகர்வோமா? நாம் இங்கேயே நின்றுவிடுவோமா? அல்லது பின்னோக்கி செல்ல வேண்டுமா என்பதை நீங்கள் தீர்மானிக்க வேண்டும்.
+The purpose of the government is to create an export economy based on the market economy. President Ranil Wickremesinghe stressed that he has full confidence in the business community of this country.
+
+The President was speaking at the Annual Conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday.As he further stated,
+
+We are forced to decide the path to travel to Sri Lanka. The people of this country must decide which way we should go. Shall we move from here?Shall we stand here?Or you have to decide whether to go backwards.
+
+Asked what are your plans for a young man I met today. What plans have you made for the educated people of this country?What plans do you have to improve the country's physical infrastructure?I said there was no such plan like that. I told him that I could only think about the market economy.
 
 ...
 
 [Data](articles/fe97901f.json)
+
+[Extended Data](ext_articles/fe97901f.ext.json)
 
 ---
 
@@ -2189,23 +2211,5 @@ In addition, interest rates, which have increased by 2023, have now been brought
 [Data](articles/fcafeedf.json)
 
 [Extended Data](ext_articles/fcafeedf.ext.json)
-
----
-
-### CEAT’s 7th premium ‘S-I-S’ outlet in Sri Lanka opens in Kurunegala
-
-*2024-04-27 05:28:00* · [`islandlk`](http://island.lk/ceats-7th-premium-s-i-s-outlet-in-sri-lanka-opens-in-kurunegala/) · `en`
-
-Kurunegala has become the latest location to receive the CEAT premium retail experience with the opening of a new-concept Shop-in-Shop (SIS) outlet in this busy north-western metropolis by CEAT Kelani Holdings, Sri Lanka’s leading pneumatic tyre manufacturer.
-
-The seventh CEAT SIS outlet to be opened in Sri Lanka, the new outlet is located at Rohana Enterprises Kurunegala (Pvt) Ltd., at No 288C, Negombo Road, Kurunegala.
-
-Part of a three-year distribution channel expansion strategy by Sri Lanka’s most-used tyre brand, the CEAT Shop-in-Shop concept is designed to drive brand premiumisation and enhance customer experience, and entails demarcating a dedicated area for CEAT branded tyres within existing multi-brand dealer premises.
-
-...
-
-[Data](articles/5c2b49e0.json)
-
-[Extended Data](ext_articles/5c2b49e0.ext.json)
 
 ---

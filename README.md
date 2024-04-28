@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 16:03:45**
+As of **2024-04-28 16:18:45**
 
 ## Newspaper Stats
 
-*Scraped **21,383** Articles*
+*Scraped **21,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,53 @@ colombotelegraphcom | 184
 bbccomsinhala | 224
 dbsjeyarajcom | 228
 newsfirstlk | 363
-islandlk | 1,163
+islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,784
+adalk | 1,785
 tamilmirrorlk | 2,479
 adaderanalk | 2,548
 virakesarilk | 3,211
 dailymirrorlk | 3,326
-adaderanasinhalalk | 3,461
+adaderanasinhalalk | 3,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,383 (100.0%) of 21,383 articles have been extended.
+21,386 (100.0%) of 21,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Tomorrow is a big rain
+
+*2024-04-28 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196054) · `si`
+
+Tomorrow, heavy rain with thunderstorms expected in Western, Sabaragamuwa, Central, Southern, North Western, Uva, and North-Central provinces. Public advised to prepare for strong winds and lightning.
+
+🟩
+
+In some places in the Western, Sabaragamuwa, Southern and North Western Provinces tomorrow (29). Heavy showers that have more than 100 can occur.
+
+In a statement, the Department says that the interim convergence zone (from the northern hemisphere and the south hemisphere) is influenced by the island.
+
+Accordingly, the Western, Sabaragamuwa, Central, Southern, Southern, North Western, Uva and North-Central provinces. Showers or thundershowers will occur at several places around 1.00.
+
+Showers or thundershowers will occur at night in the evening or night in other areas.
+
+Meanwhile, the Department has informed that in some places in Sabaragamuwa and Central provinces, the Department has said.
+
+The public is also requested to take necessary measures to reduce temporary strong winds and lightning activities possible with thunderstorms.
+
+◼️
+
+[Data](articles/93f62614.json)
+
+[Extended Data](ext_articles/93f62614.ext.json)
+
+---
 
 ### Juvenile girl dies after 14 days
 
@@ -485,6 +513,34 @@ Furthermore, the former President has mentioned in his statement that since ther
 [Data](articles/8133f5e2.json)
 
 [Extended Data](ext_articles/8133f5e2.ext.json)
+
+---
+
+### The Freedom Party (SLFP) issue should be resolved from court
+
+*2024-04-28 11:52:04* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-ගැටලුව-අධිකරණයෙන්-විසඳාගත-යුතුයි/11-409297) · `si`
+
+The Freedom Party (SLFP) dispute should be resolved by the courts. Malwatte Sumangala Thera argued the issue should be judicially decided, noting the presence of a party constitution. Minister Wijedasa Rajapakse highlighted a group's attempt to form a separate political party and obtain a court order, emphasizing the judicial decision is based on majority.
+
+🟩
+
+The Malwatte Sumangala Thera said the people of the Malwatte faction was the problem of the people when the SLFP had three parties.
+
+When Minister Wijedasa Rajapakse visited the Malwathu Maha Malwathu Maha Nayor on Monday (26), the Thera added that the issue of the true owners of the party should be resolved only by the judiciary.
+
+The Thera added that the court will be given a fair decision as there is a party constitution.
+
+Speaking, Minister Wijedasa Rajapakse stressed that a group of people who thought to travel with a separate political party have visited the court and obtaining an enjoining order.
+
+He said that 116 members of the SLFP Executive Council were unanimously chosen as the president of the court.
+
+He emphasized that a group of hidden agenda and underlying agencies are being prepared as a political party and said that the judicial decision is being made only on the majority basis.
+
+...
+
+[Data](articles/1e2e37ff.json)
+
+[Extended Data](ext_articles/1e2e37ff.ext.json)
 
 ---
 
@@ -1261,6 +1317,22 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/1d791e43.json)
 
 [Extended Data](ext_articles/1d791e43.ext.json)
+
+---
+
+### REVIEW OF A BOOK BY RANJAN GOONERATNE
+
+*2024-04-28 05:19:00* · [`islandlk`](http://island.lk/review-of-a-book-by-ranjan-gooneratne/) · `en`
+
+Ranjan Gooneratne, who Ranjan Gooneratne, who practices law in a legal environment in Sri Lanka unrecognizable to the one in which he received his training over six decades ago, has written a book deploring the depths to which this once majestic profession has fallen.
+
+Gooneratne was born during colonial times to an elite Ceylonese legal family. His father was the late A. C. Gooneratne, Q.C., a former President of the Bar Council of Ceylon. The son was always drawn to the intellectual approach of the profession displayed by his father, who instilled in him the belief that discipline and hard work were the only paths to success in a noble profession.
+
+...
+
+[Data](articles/0733fbe7.json)
+
+[Extended Data](ext_articles/0733fbe7.ext.json)
 
 ---
 
@@ -2217,75 +2289,5 @@ At the meeting held on Wednesday under the chairmanship of MP Harsha de Silva, t
 [Data](articles/d2b3bd0d.json)
 
 [Extended Data](ext_articles/d2b3bd0d.ext.json)
-
----
-
-### A letter not responsible for drugs imported
-
-*2024-04-27 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196028) · `si`
-
-Dr. Chamal Sanjeewa, Chairman of Doctors of Medical and Civil Rights, criticizes the former Executive Director of the Drug Authority for not addressing drug imports. The Doctors' Trade Union Alliance has handed over a case to the Criminal Investigation Department, accusing the former CEO of the National Drug Regulatory Authority of involvement in imported drugs.
-
-🟩
-
-Dr. Chamal Sanjeewa, Chairman of Doctors of Medical and Civil Rights, says that the former Executive Director of the Drug Authority and the Board of Directors have been issued in the last days.
-
-He says that law should be implemented against the former Executive Director of the Drug Regulatory Authority who supported the country.
-
-Doctors' Trade Union Alliance on Medical and Civil Rights and handed over to the Criminal Investigation Department yesterday.
-
-The former Chief Executive Officer of the National Drug Regulatory Authority, the National Drug Regulatory Authority, who has been accused of importance to imported drugs, has been conducting an investigation against the Board of Directors.
-
-Meanwhile, a complaint with the Criminal Investigation Department has lodged a complaint with the Criminal Investigation Department, as well as the surveillance of an eye-affected drug, as well as the witnesses and blinding persons.
-
-◼️
-
-[Data](articles/c7dbf0df.json)
-
-[Extended Data](ext_articles/c7dbf0df.ext.json)
-
----
-
-### Divorce is raised between the recently married people
-
-*2024-04-27 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196027) · `si`
-
-Divorce rates have increased, especially among recently married couples, with the Registrar General's Department noting a significant rise in 2020. Senior Deputy Registrar General Lakshika highlighted that divorce decisions by District Courts have been influenced by the negotiation of specific unbelievers.
-
-🟩
-
-The Registrar General's Department says that there is a decent increase in divorce recently.
-
-The situation has increased in the year 2020, the Department said.
-
-Senior Deputy Registrar General of the Registrar Leader General of the Registrar Leader General of the Registrar Lakshika, Senior General's Department of Civil Registration Division (Registrar) has been observed in the consideration of divorce decisions made by District Courts.
-
-She pointed out that the negtoways of particular unbelievers have been mainly due to divorce.
-
-◼️
-
-[Data](articles/a12e8ca8.json)
-
-[Extended Data](ext_articles/a12e8ca8.ext.json)
-
----
-
-### Sri Lanka co-chairs ASEAN Regional Forum meeting on disaster relief
-
-*2024-04-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98883/sri-lanka-co-chairs-asean-regional-forum-meeting-on-disaster-relief) · `en`
-
-The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually earlier this week, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
-
-Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management.
-
-Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
-
-The Sri Lanka delegation was led by Director General, South East Asia Division of the Ministry of Foreign Affairs Sashikala Premawardhane, with the participation of senior officials from the National Disaster Relief Service Centre of the Ministry of Defence.
-
-...
-
-[Data](articles/d797bca5.json)
-
-[Extended Data](ext_articles/d797bca5.ext.json)
 
 ---

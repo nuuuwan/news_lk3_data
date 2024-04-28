@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 15:03:44**
+As of **2024-04-28 15:18:45**
 
 ## Newspaper Stats
 
-*Scraped **21,378** Articles*
+*Scraped **21,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,75 @@ tamilmirrorlk | 2,479
 adaderanalk | 2,548
 virakesarilk | 3,208
 dailymirrorlk | 3,325
-adaderanasinhalalk | 3,460
+adaderanasinhalalk | 3,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,375 (100.0%) of 21,378 articles have been extended.
+21,378 (100.0%) of 21,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### விழிப்பாக இருக்குமாறு அறிவுறுத்தல்
+### මූල්‍ය වංචාවකට නළුවෙකු අත්අඩංගුවට
+
+*2024-04-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196053) · `si`
+
+ඉන්දීය ජනප්‍රිය නළුවෙකු වන සාහිල් ඛාන්ව එරට පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ ඔට්ටු ඇල්ලීමේ යෙදවුමක් හරහා මූල්‍ය වංචා සිදුකිරීමට අදාළ චෝදනාවකට ඔහුව මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+"මහාදේව්" නමැති අදාළ ඔට්ටු ඇල්ලීමේ යෙදවුම ප්‍රවර්ධනය සඳහා ද ඔහු පෙනී සිට ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කර ඇත.
+
+සැකකාර නළුවා මුම්බායි සිට පළාගොස් සිටියදී එරට ආරක්ෂක අංශ විසින් පැය 40ක මෙහෙයුමකින් අනතුරුව ඔහුව අත්අඩංගුවට ගත් බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/724df992.json)
+
+---
+
+### Prosecution
 
 *2024-04-28 14:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விழிப்பாக-இருக்குமாறு-அறிவுறுத்தல்/175-336446) · `ta`
 
-ஜனாதிபதி அலுவலகத்தில் பதவி வகிப்பதாக போலி ஆவணங்களைச் சமர்ப்பித்து, முதலீட்டாளர்கள், வேலை தேடும் இளைஞர்கள், பல்வேறு நாடுகளுக்கு விசா பெற முயற்சிப்பவர்கள் என பலரை ஏமாற்றி, பணம் பெறும் சம்பவங்கள் பதிவாகியுள்ளன.
+The President's Office is investigating fraudulent activities involving fake documents for financial gain, job applications, and visa applications. Suspects are urged to contact Senior Assistant Secretary Prasad Senarath at +94 71 530 8032.
 
-இவ்வாறான மோசடியாளர்கள் குறித்து பொதுமக்கள் அவதானமாக இருக்குமாறும், இவ்வாறான நபர்கள் குறித்து சந்தேகம் ஏற்பட்டால் ஜனாதிபதியின் சிரேஷ்ட உதவிச் செயலாளர் பிரசாத் செனரத் என்ற அதிகாரியை +94 71 530 8032 என்ற தொலைபேசி இலக்கத்தின் ஊடாக தொடர்புகொண்டு, தகவல் பெற்றுக்கொள்ளுமாறும் ஜனாதிபதி அலுவலகம் பொதுமக்களைக் கேட்டுக்கொண்டுள்ளது.
+🟩
+
+There have been incidents of money being reported by submitting fake documents to the presidential office, investors, youth seeking jobs and attempts to obtain visa for various countries.
+
+The President's Office has asked the public to contact the President of Senior Assistant Secretary Prasad Senarath, +94 71 530 8032, if there is suspicion of such persons to be concerned about such fraudsters.
 
 ◼️
 
 [Data](articles/ee164dc0.json)
 
+[Extended Data](ext_articles/ee164dc0.ext.json)
+
 ---
 
-### பாலத்தின் மீதேறி தற்கொலைக்கு முயன்ற  பைடன்
+### Bidan, who tried to commit suicide on the bridge
 
 *2024-04-28 14:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலத்தின்-மீதேறி-தற்கொலைக்கு-முயன்ற-பைடன்/50-336445) · `ta`
 
-அமெரிக்காவில் அதிபர் தேர்தல் நெருங்கி வருகிறது. இதற்காக தீவிர பிரச்சாரங்கள் நடந்து வருகின்றன. அந்த வகையில், தற்போதைய அதிபராக இருக்கும் ஜோ பைடன் ஒரு நேர்காணலில் கலந்துக்கொண்டார். அப்போது பேசிய அவர், தற்கொலைக்கு முயன்றதாக பேசியிருக்கிறார்.
+Joe Biden, the current US chancellor, revealed in an interview that he attempted suicide by climbing a bridge while intoxicated, but changed his mind due to his children. The US presidential election, with Biden and Donald Trump as candidates, is the most anticipated globally.
 
-உலக வல்லரசு நாடுகளில் மிகவும் முக்கிய நாடாக இருக்கிறது அமெரிக்கா. இங்கு நான்கு ஆண்டுகளுக்கு ஒருமுறை அதிபர் தேர்தல் நடைபெறும். ஜனநாயக கட்சி சார்பாக ஜோ பைடன் மற்றும் குடியரசு கட்சி சார்பாக டொனால்ட் டிரம்ப் ஆகியோர் இந்த முறை போட்டியிடுகிறார்கள்.
+🟩
 
-தற்போது ஜனநாயக கட்சி சார்பாக ஜோ பைடன் அதிபராக ஆட்சி புரிந்து வருகிறார். இதற்கு முந்தைய ஆட்சியில் டொனால்ட் டிரம்ப் பதவியில் இருந்தார் என்பது குறிப்பிடத்தக்கது. வருகின்ற நவம்பர் மாதத்தில் அமெரிக்க அதிபர் தேர்தல் நடைபெறுகிறது. அமெரிக்க அதிபர் தேர்தல் உலகம் முழுவதும் அதிக கவனம் கொண்ட தேர்தலாக அமைந்திருக்கிறது.
+The presidential election in the United States is approaching. There are serious campaigns for this. In that respect, Joe Biden, the current chancellor, attended an interview. Speaking at the time, he has spoken that he tried to commit suicide.
+
+America is the most important country in the world powers. The presidential election will be held every four years. This time, Joe Bidan and Donald Trump are contesting on behalf of the Democratic Party.
+
+Joe Bidan is currently ruled on behalf of the Democratic Party. It is noteworthy that Donald Trump was in office in the previous regime. The US presidential election takes place in November. The US presidential election has been the most focused election worldwide.
 
 ...
 
 [Data](articles/44456de0.json)
+
+[Extended Data](ext_articles/44456de0.ext.json)
 
 ---
 
@@ -368,19 +398,25 @@ Furthermore, the former President has mentioned in his statement that since ther
 
 ---
 
-### ආගමන විගමන නිලධාරින්ගෙන් මිදි පළා ගිය ඊජිප්තු ජාතිකයා නුවරදි අල්ලයි
+### The Egyptian fleeing the grape from immigration officials arrested
 
 *2024-04-28 11:43:56* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-විගමන-නිලධාරින්ගෙන්-මිදි-පළා-ගිය-ඊජිප්තු-ජාතිකයා-නුවරදි-අල්ලයි/11-409296) · `si`
 
-වීසා නොමැතිව මෙරට රැඳී සිටි ඊජිප්තු ජාතිකයෙකු අගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන රඳවාගෙන සිටියදී ඉන් පලා ගොස් මහනුවර ප්‍රදේශයේ ලැගුම්හලක සැඟව සිටියදී නැවත අත්අඩංගුවට ගෙන තිබේ .
+An Egyptian without a visa was arrested in Kandy by the Prime Minister of Emigration, who fled from a lodge on Dharmasena Mawatha.
 
-වීසා නොමැතිව රැඳී සිටි Mohomad Nayal Abd Alsabour Nasar නමැති එම ඊජිප්තු ජාතිකයා අගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන රටින් පිටුවහල් කරන තෙක් කොළඹ ප්‍රදේශයේ රැඳවුම් මධ්‍යස්ථානයක රඳවා සිටියදී පසුගිය අප්‍රේල් මස 13 වැනි දින එම රඳවුම් මධ්‍යස්ථානයෙන් පලා ගොස් තිබේ .
+🟩
 
-එසේ පලා ගිය ඊජිප්තු ජාතිකයා මහනුවර ප්‍රදේශයේ ඒ. ඒ. ධර්මසේන මාවතේ පිහිටි ලැගුම්හලක රැඳී සිටින බවට ලද බුද්ධි තොරතුරකට අනුව අගමන විගමන නිලධාරීන් විසින් පෙරේදා (27) අලුයම 1.00 ට පමණ අත්අඩංගුවට ගෙන තිබේ .
+An Egyptian remained without a visa was detained by the Prime Minister of Prime Minister and was arrested while he was arrested and was arrested in a lodge in Kandy.
+
+The Mohomad Naayal Absabore, who has been with visa, has fled the Key in Colombo on 13th April.
+
+Egyptian fled in Kandy. it. According to intelligence in a lodge on a lodge on Dharmasena Mawatha, the Prime Minister of Emigration has been arrested at around 1.00 am yesterday.
 
 ◼️
 
 [Data](articles/6acfd19d.json)
+
+[Extended Data](ext_articles/6acfd19d.ext.json)
 
 ---
 
@@ -2249,31 +2285,5 @@ The suspects are residents of Kaduwela and Simaliapa, who have been arrested and
 [Data](articles/f1a1927a.json)
 
 [Extended Data](ext_articles/f1a1927a.ext.json)
-
----
-
-### US officer meets President
-
-*2024-04-27 14:52:07* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකාවේ-ඉහළ-නිලධාරිනියක්-ජනපති-හමුවෙයි/11-409286) · `si`
-
-USDA Secretary Alexis Taylor met President Ranil Wickremesinghe to discuss modernizing milk production in Sri Lanka with US assistance. The US delegation, including the sub-secretary, supports the Sri Lanka Agriculture Navinna program.
-
-🟩
-
-The US Department of Agriculture (USDA) Trade and Foreign Agricultural Secretary Alexis Taylor (Alexis Taylor) met at the Presidential Secretariat.
-
-The meeting was discussed in the operation of a modernization of milk production in Sri Lanka with the assistance of the United States, said President Ranil Wickremesinghe said.
-
-President Ranil Wickremesinghe was also informed of Mrs. Alexis Taylor, the government's agricultural modernization program and attracts young trees for the field of agriculture in the country.
-
-The US delegation including the sub-secretary, including the sub-Secretariat, guarantees its fullest support for the Sri Lanka Agriculture Navinna program.
-
-Presidential Secretary's Secretary to the Presidential Secretary of the President and the President's Director of International Affairs Dinukou was also present at the occasion.
-
-◼️
-
-[Data](articles/80ad1265.json)
-
-[Extended Data](ext_articles/80ad1265.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 07:21:51**
+As of **2024-04-28 08:08:52**
 
 ## Newspaper Stats
 
-*Scraped **21,326** Articles*
+*Scraped **21,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
-tamilmirrorlk | 2,466
+tamilmirrorlk | 2,467
 adaderanalk | 2,543
 virakesarilk | 3,202
 dailymirrorlk | 3,319
@@ -26,21 +26,45 @@ adaderanasinhalalk | 3,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,320 (100.0%) of 21,326 articles have been extended.
+21,326 (100.0%) of 21,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ශ්‍රී ලංකාවට තවත් පදක්කමක්
+### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
+
+*2024-04-28 06:53:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
+
+Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
+
+It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
+
+And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
+
+...
+
+[Data](articles/ca21bf6f.json)
+
+[Extended Data](ext_articles/ca21bf6f.ext.json)
+
+---
+
+### Another medal to Sri Lanka
 
 *2024-04-28 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196043) · `si`
 
-වයස අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා ශූරතා තරගාවලියේ මීටර 4x400 ඉසව්වේ ලෝකඩ පදක්කම හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව තිබේ.
+Sri Lanka secured a 4x400m victory in the Under-20 Asian Athletics Championship.
+
+🟩
+
+Sri Lanka won the 4x400 incident in the Under-20 Asian Athletics Championship.
 
 ◼️
 
 [Data](articles/b6d15dca.json)
+
+[Extended Data](ext_articles/b6d15dca.ext.json)
 
 ---
 
@@ -92,21 +116,45 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 
 ---
 
-### ’வசத் சிரிய 2024’  புத்தாண்டுக் கொண்டாட்டம்
+### ’வர்த்தக சமூகம் மீது முழு நம்பிக்கை உண்டு’
 
-*2024-04-28 01:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசத்-சிரிய-2024-புத்தாண்டுக்-கொண்டாட்டம்/175-336417) · `ta`
+*2024-04-28 01:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-சமூகம்-மீது-முழு-நம்பிக்கை-உண்டு/175-336418) · `ta`
 
-'வசத் சிரிய – 2024' சிங்கள மற்றும் தமிழ் புத்தாண்டு கொண்டாட்டம் நேற்று கொழும்பு ஷங்ரிலா பசுமை மைதானத்தில் ஆரம்பமாகியதுடன், உள்நாட்டு மற்றும் வெளிநாட்டு பெருந்திரளான மக்கள் ஆரம்பம் முதலே இந்நிகழ்வில் கலந்துகொண்டனர்.
+சந்தைப் பொருளாதாரத்தை அடிப்படையாகக் கொண்டதும், அதிக போட்டித்தன்மை கொண்டதுமான, ஏற்றுமதிப் பொருளாதாரத்தை உருவாக்குவதே அரசாங்கத்தின் நோக்கமாகும். இந்த நாட்டின் வர்த்தக சமூகம் மீது தனக்கு முழு நம்பிக்கை இருக்கின்றது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைவாக தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் அமைச்சுகள் மற்றும் அரச நிறுவனங்களை இணைத்து இந்த புத்தாண்டு கொண்டாட்டத்தை ஏற்பாடு செய்திருந்தனர்.
+கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று முன்தினம் நடைபெற்ற இலங்கை மற்றும் மாலைதீவுகளுக்கான மாவட்ட 3220 சர்வதேச ரோட்டரி கழகத்தின் 2023/24 வருடாந்த மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில் ,
 
-அரசதுறை, திறந்த துறை மற்றும் விருந்தினர் துறை ஆகிய 03 பிரிவுகளின் கீழ் பல போட்டிகள் நடத்தப்பட்டன. இதில் அமைச்சுக்கள் மற்றும் அரச நிறுவனங்களின் ஊழியர்கள், அவர்களின் குடும்பத்தினர், நண்பர்கள் மற்றும் நாட்டின் பல்வேறு பிரதேசங்களைச் சேர்ந்த மக்கள் இதில் கலந்து கொள்கின்றனர்.
-
-புத்தாண்டு விழா நடைபெறும் இடத்திற்கு நேற்று விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, அங்கிருந்த மக்களுடன் சிநேகபூர்வவமாக கலந்துரையாடினார். சில போட்டிகளையும் பார்வையிட்டார்.
+இலங்கை பயணிக்க வேண்டிய பாதையை தீர்மானிக்க வேண்டிய ஒரு கட்டாயத்தில் நாம் இருக்கிறோம். அதன்போது எந்த வழியில் நாம் செல்ல வேண்டும் என்பதை இந்த நாட்டு மக்களே தீர்மானிக்க வேண்டும். நாம் இங்கிருந்து நகர்வோமா? நாம் இங்கேயே நின்றுவிடுவோமா? அல்லது பின்னோக்கி செல்ல வேண்டுமா என்பதை நீங்கள் தீர்மானிக்க வேண்டும்.
 
 ...
 
+[Data](articles/fe97901f.json)
+
+---
+
+### New Year Celebration Syrian 2024
+
+*2024-04-28 01:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசத்-சிரிய-2024-புத்தாண்டுக்-கொண்டாட்டம்/175-336417) · `ta`
+
+The 'Vasad Syria - 2024' New Year celebration in Colombo, organized by President Ranil Wickremesinghe's team, featured competitions and was attended by staff, families, and friends from across the country. President Wickremesinghe visited the event and interacted with attendees.
+
+🟩
+
+The 'Vasad Syria - 2024' Sinhala and Tamil New Year celebration commenced yesterday at the Shankrila Green Ground in Colombo and participated in the event from the beginning.
+
+In accordance with President Ranil Wickremesinghe's directive, the President's Senior Advisor and Presidential Task Force Chief Sagala Ratnayake and President's Secretary Saman Ekanayake organized the New Year celebration with ministries and state institutions.
+
+Several competitions were held under 03 sections of the State Department, Open Department and Guest Department. It is attended by staff of ministries and state institutions, their families, friends and people from different parts of the country.
+
+President Ranil Wickremesinghe, who visited the site of the New Year celebration yesterday, discussed with the people there.. He also visited some matches.
+
+The President, who visited the village house and medical house, visited them and spoke to the foreigners who had come to see them.. (A)
+
+◼️
+
 [Data](articles/3a40b6e1.json)
+
+[Extended Data](ext_articles/3a40b6e1.ext.json)
 
 ---
 
@@ -950,24 +998,6 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 
 ---
 
-### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
-
-*2024-04-27 15:22:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
-
-Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
-
-It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
-
-And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
-
-...
-
-[Data](articles/ca21bf6f.json)
-
-[Extended Data](ext_articles/ca21bf6f.ext.json)
-
----
-
 ### Meeting with Ministry of Agriculture, United States
 
 *2024-04-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196025) · `si`
@@ -1130,6 +1160,8 @@ Perhaps there is no phrase of Karl Marx that is better known or more frequently 
 
 [Data](articles/8760cdc2.json)
 
+[Extended Data](ext_articles/8760cdc2.ext.json)
+
 ---
 
 ### A.T. Ariyaratne and the Bauddha Jatika Balavegaya (BJB)
@@ -1145,6 +1177,8 @@ Much has been written of him and much will be written of him in the future. Ther
 ...
 
 [Data](articles/ea0079fa.json)
+
+[Extended Data](ext_articles/ea0079fa.ext.json)
 
 ---
 
@@ -1181,6 +1215,8 @@ Affection is the wrong word. Loyalty was the trait mothers enjoyed from their dr
 ...
 
 [Data](articles/f8e1b3ce.json)
+
+[Extended Data](ext_articles/f8e1b3ce.ext.json)
 
 ---
 
@@ -2171,19 +2207,5 @@ Part of a three-year distribution channel expansion strategy by Sri Lanka’s mo
 [Data](articles/5c2b49e0.json)
 
 [Extended Data](ext_articles/5c2b49e0.ext.json)
-
----
-
-### Sri Lanka Resorts of Cinnamon Hotels & Resorts mark Earth Day with impactful eco-initiatives
-
-*2024-04-27 05:24:00* · [`islandlk`](http://island.lk/sri-lanka-resorts-of-cinnamon-hotels-resorts-mark-earth-day-with-impactful-eco-initiatives/) · `en`
-
-In celebration of Earth Day, Sri Lanka Resorts of Cinnamon Hotels & Resorts conducted a series of impactful initiatives conducted across its eight properties in Sri Lanka, under this year’s global theme of ‘Plastic Vs Planet’.
-
-...
-
-[Data](articles/95ea756f.json)
-
-[Extended Data](ext_articles/95ea756f.ext.json)
 
 ---

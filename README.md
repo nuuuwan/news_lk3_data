@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 01:03:46**
+As of **2024-04-29 01:18:34**
 
 ## Newspaper Stats
 
-*Scraped **21,454** Articles*
+*Scraped **21,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 224
 dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,164
-dailyftlk | 1,208
+dailyftlk | 1,209
 economynextcom | 1,215
 adalk | 1,792
-tamilmirrorlk | 2,483
+tamilmirrorlk | 2,484
 adaderanalk | 2,557
 virakesarilk | 3,222
 dailymirrorlk | 3,340
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,448 (100.0%) of 21,454 articles have been extended.
+21,454 (100.0%) of 21,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### பயணிகள் கப்பல் சேவை மீண்டும் ஆரம்பம்
+
+*2024-04-29 00:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணிகள்-கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-336463) · `ta`
+
+இலங்கையின் காங்கேசன்துறை மற்றும் இந்தியாவின் நாகப்பட்டினத்திற்கு இடையிலான பயணிகள் கப்பல் சேவையை எதிர்வரும் மே மாதம் 13ஆம் திகதி மீள ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இந்த சேவைக்காக ‘சிவகங்கை’ எனும் கப்பல் பயன்படுத்தப்படவுள்ளதாக இந்திய ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.
+
+150 பயணிகள் பயணிப்பதற்கான வசதிகளை கொண்ட இந்த கப்பலில் பயணிப்பதற்கு இருவழி கட்டணமாக வரிகள் உள்ளடக்கப்பட்டு 34,200 ரூபாவை அறவிடுவதற்கு திட்டமிடப்பட்டுள்ளது.
+
+கப்பலில் பயணிக்கும் பயணியொருவர் 60 கிலோகிராம் எடையுடைய பொருட்களை எடுத்துச்செல்வதற்கும் சந்தர்ப்பம் வழங்கப்படவுள்ளது.
+
+எவ்வாறாயும், பொதியொன்றின் எடை 20 கிலோகிராமுக்கு உட்பட்டதாக அமைய வேண்டும் எனவும் அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/188cd7a3.json)
+
+---
 
 ### If you don’t like to say genocide, think of it as mass murder
 
@@ -136,6 +156,8 @@ As scientists warn of the potentially devastating consequences of accelerating c
 
 [Data](articles/46ed4047.json)
 
+[Extended Data](ext_articles/46ed4047.ext.json)
+
 ---
 
 ### Bangladesh International Arbitration Centre signs MOU with Sri Lanka National Arbitration Centre
@@ -151,6 +173,8 @@ This collaborative endeavour holds the promise of enhancing trade and investment
 ...
 
 [Data](articles/66832974.json)
+
+[Extended Data](ext_articles/66832974.ext.json)
 
 ---
 
@@ -168,6 +192,8 @@ In General Management, Fernando was the Managing Director of Capital Reach Holdi
 
 [Data](articles/7d106c5a.json)
 
+[Extended Data](ext_articles/7d106c5a.ext.json)
+
 ---
 
 ### Kapila Ariyaratne joins RIL Property Board
@@ -184,6 +210,8 @@ After initial stints with Union Carbide Ceylon Ltd. and Chemical Industries Colo
 
 [Data](articles/5676e7c3.json)
 
+[Extended Data](ext_articles/5676e7c3.ext.json)
+
 ---
 
 ### Maharaja Foods appoints two Non-Executive Independent Directors
@@ -198,6 +226,8 @@ Founded by the visionary entrepreneur late Sivasaraman Guganathan hailing from V
 
 [Data](articles/1c9ae8c3.json)
 
+[Extended Data](ext_articles/1c9ae8c3.ext.json)
+
 ---
 
 ### Wither the Muslim parties
@@ -211,6 +241,8 @@ As elections approach, the two Muslim parties, Sri Lanka Muslim Congress (SLMC) 
 ...
 
 [Data](articles/5a0e6787.json)
+
+[Extended Data](ext_articles/5a0e6787.ext.json)
 
 ---
 
@@ -259,6 +291,20 @@ Speaking further, the NPP leader also hinted that the Presidential Election is l
 [Data](articles/7ddc595b.json)
 
 [Extended Data](ext_articles/7ddc595b.ext.json)
+
+---
+
+### Foreign debt restructuring: Too late and too short to get out of the debt trap
+
+*2024-04-28 22:34:34* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-debt-restructuring-Too-late-and-too-short-to-get-out-of-the-debt-trap/4-761118) · `en`
+
+Exterior of the Ministry of Finance and the Treasury. Time is running out for Sri Lanka, and it should fast track the restructuring program though it is not adequate to get the country out of the present debt trap
+
+What is being bargained is much less than the relief of $ 14 billion expected through debt restructuring. While noting that it is not a relief for Sri Lanka, the Government’s initiative to reach some agreement with them should be commended. Hence, any delay in reaching an agreement will be a killer for Sri Lanka which will have to sacrifice all the hard-earned gains so far relating to pushing the country back to normalcy
+
+...
+
+[Data](articles/22e76b44.json)
 
 ---
 
@@ -2251,59 +2297,5 @@ Maithripala Sirisena has already been informed that the party authorized officia
 [Data](articles/ee3fc69e.json)
 
 [Extended Data](ext_articles/ee3fc69e.ext.json)
-
----
-
-### Committee to complete the disciplinary inquiry of police officers
-
-*2024-04-28 10:59:07* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරින්ගේ-විනය-පරික්ෂණය-කඩිනමින්-අවසන්-කිරිමට-කමිටුවක්/11-409292) · `si`
-
-A disciplinary committee, led by DIG Ranith Rohana Jaliya Senaratne and including PJ and Senior Superintendent of Police Nishantha de Silva, has been formed to complete inquiries against police officers. The committee, under the IGP, has recommended actions against officers involved in investigations over three years. It has also proposed 33 short and long-term measures.
-
-🟩
-
-A disciplinary committee has been appointed to finalize disciplinary inquiries against the police officers.
-
-Senior DIG in charge of the Eastern Province, DIG Ranith Rohana Jaliya Senaratne Director of the National Police Training is the other members of the National Police Training.. PJ. Senior Superintendent of Police Nishantha de Silva has been appointed as Senadheera, Disciplinary and Cara Dives.
-
-The committee has been diagnosed with the IGP Deshabandu Tennakoon and has been handed over to the Inspector General of Committees.
-
-The committee has made recommendations to the IGP on measures to be taken against the police officers more than three years and over three years of main investigations.
-
-In addition, the IGP has reported to be taken against the IGP.
-
-Also, the report of the committee has also presented a proposal consisting of 33 factors about short term and long-term measures to be taken by the committee.The Police Headquarters stated that plans have been planned to be planned.
-
-◼️
-
-[Data](articles/ce17ece2.json)
-
-[Extended Data](ext_articles/ce17ece2.ext.json)
-
----
-
-### Central government permits to export onion
-
-*2024-04-28 10:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காயம்-ஏற்றுமதி-செய்ய-மத்திய-அரசு-அனுமதி/175-336431) · `ta`
-
-India's Central Government approved the export of 99,150 metric tonnes of onions to six countries, including Bangladesh, UAE, Bhutan, Bahrain, Mauritius, and Sri Lanka, due to increased international demand in 2023-24. NCEL will handle the exports. Additionally, 2000 MT of white onions, grown for Middle Eastern and European markets, are allowed, despite high costs.
-
-🟩
-
-The Central Government of India has approved the export of 99,150 metric tonnes of onions to six countries - Bangladesh, the United Arab Emirates, Bhutan, Bahrain, Mauritius and Sri Lanka.
-
-The decision was made due to the increase in demand in the international market in 2023-24, in the wake of the estimated of less than the previous year.
-
-To facilitate exports, National Cooperative Export Limited (NCEL) has been appointed as the responsibility of exporting onions to these countries.
-
-In addition, the government has allowed the export of 2000 MT white onions, particularly cultivated for export markets of the Middle East and some European countries.
-
-It is noteworthy that the cost of white onions is high due to high seed costs, adopting good agricultural procedures and compliance with severe maximum limitations.
-
-◼️
-
-[Data](articles/768c5d2e.json)
-
-[Extended Data](ext_articles/768c5d2e.ext.json)
 
 ---

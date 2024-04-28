@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 00:33:47**
+As of **2024-04-29 00:48:41**
 
 ## Newspaper Stats
 
-*Scraped **21,443** Articles*
+*Scraped **21,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,196 @@ bbccomsinhala | 224
 dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,164
-dailyftlk | 1,202
+dailyftlk | 1,208
 economynextcom | 1,215
 adalk | 1,792
 tamilmirrorlk | 2,483
 adaderanalk | 2,557
 virakesarilk | 3,222
-dailymirrorlk | 3,335
+dailymirrorlk | 3,340
 adaderanasinhalalk | 3,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,443 (100.0%) of 21,443 articles have been extended.
+21,443 (99.9%) of 21,454 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-04-29 (Monday)
+
+### If you don’t like to say genocide, think of it as mass murder
+
+*2024-04-29 00:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/If-you-dont-like-to-say-genocide-think-of-it-as-mass-murder/172-281514) · `en`
+
+In November, the UN Secretary- General called Israel’s retaliation  (including cutting off food, aid and water supply to Gaza) a genocidal  action, and  was heavily condemned by Israel and pro-Israeli lobbies  across Europe and the US.
+
+When Israel launched a massive bombardment of the Gaza Strip in retaliation to the Hamas cross-border attack on Oct 7, 2023, I had divided sympathies, especially in view of the atrocities committed by Hamas fighters inside Israel that day.
+
+These divided sympathies stemmed from the fact that I began my journalism career in Amman, Jordan, a step away from Jerusalem, the West Bank and Israel. The Israeli invasion of Lebanon to drive out Yasser Arafat’s Palestine Liberation Organisation (PLO) began when I was a young reporter and sub-editor at the Jordan Times. I quite understand what the Palestinians have been going through ever since the formation of Israel as a Jewish State in 1948.
+
+...
+
+[Data](articles/213649d7.json)
+
+---
+
+### May Day and the plight of Lankan workers - EDITORIAL
+
+*2024-04-29 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-Day-and-the-plight-of-Lankan-workers-EDITORIAL/172-281513) · `en`
+
+This Wednesday is May Day, a day set apart to commemorate the struggles and gains made by workers and labour movements the world over. Very sadly, in our country, workers’ day has been usurped by political parties and gains lost to economic woes.
+
+Today, workers dance and parade the streets, not to regain their lost rights of the past four to five years. They will carry forward campaigns of diverse political parties hoping to grab power at the yet undeclared elections expected to be held later this year.
+
+The average monthly household income of the poorest 20% of our population is Rs. 17,572, raised from a meager Rs. 12,500 in March this year. But multiple energy price increases and sales tax hikes in January raised the cost of living and hit wage earners hard.
+
+...
+
+[Data](articles/13f93437.json)
+
+---
+
+### Dishonouring May day’s Haymarket Mayhem Heroes on May 1
+
+*2024-04-29 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dishonouring-May-days-Haymarket-Mayhem-Heroes-on-May-1/172-281512) · `en`
+
+The Haymarket affair, which occurred in Chicago 138 years ago, marked a significant moment where labour protests advocating for an eight-hour workday turned violent, resulting in the deaths of several workers and police officers. This event is closely associated with the origins of International Workers’ Day, observed on May 1st.
+
+...
+
+[Data](articles/7ac522e8.json)
+
+---
+
+### Sri Lanka hosts ISGF ASPAC meeting: An initiative to inspire the next generation of youth
+
+*2024-04-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-hosts-ISGF-ASPAC-meeting-An-initiative-to-inspire-the-next-generation-of-youth/172-281515) · `en`
+
+A Scouts’ event held during the ASPAC meeting held earlier this year
+
+The International Scout and Guide Fellowship (ISGF) is an organisation that helps maintain the values learned in youth movements in order to provide a service within their communities. Recently, Sri Lanka hosted the Asia-Pacific regional committee meeting with the presence of Mariyam Shakeela, Chairman, Asia-Pacific Region Committee for the International Scout and Guide Fellowship and its Treasurer, Greg Davies.
+
+“Each year we try to meet in fellowship around one of the countries in the Asia-Pacific region,” said Shakeela in an interview with the Daily Mirror. With 11 member countries onboard, the Committee visits other countries which have not yet become members.
+
+“At this year’s meeting there were 15-16 members from nine other countries to discuss how we are going to each country individually and how we can help and foster relations within the Asia-Pacific region moving forward,” she said.
+
+...
+
+[Data](articles/7f52317b.json)
+
+---
+
+### Sri Lanka: A preferred haven for European senior citizens seeking serenity
+
+*2024-04-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-A-preferred-haven-for-European-senior-citizens-seeking-serenity/172-281511) · `en`
+
+With the baby boomer generation poised to reshape the landscape of  retirement, Sri Lanka stands at the cusp of a transformative journey—one  that promises adventure, serenity, and boundless exploration
+
+While the concept of permanent tourism may seem novel, its implications for countries like Sri Lanka are profound. Unlike traditional short-term visitors, permanent tourists often seek extended stays, immersing themselves deeply in the cultural tapestry of their chosen destination. For many European seniors, this shift signifies a departure from mundane routines, embracing newfound freedom in the twilight years of their lives.
+
+...
+
+[Data](articles/de678766.json)
+
+---
+
 ### 2024-04-28 (Sunday)
+
+### Ceylon Chamber Sri Lanka Climate Summit 2024 on 7-9 May
+
+*2024-04-28 23:33:46* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-Sri-Lanka-Climate-Summit-2024-on-7-9-May/34-761129) · `en`
+
+From left: Kira Consulting International Sustainability and Environmental Consultant Dr. Kiran Dhanapala, Advisor, Presidential Secretariat Dr. Ananda Mallawatantri, Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa, Dilmah Ceylon Tea Company Chairman Dilhan Fernando, and Innosolve Lanka Founder Sheran Fernando
+
+‘Code Red: Climate risks and opportunities for Sri Lankan businesses’
+
+The Ceylon Chamber of Commerce has announced the inaugural Sri Lanka Climate Summit 2024, themed “Code Red: Climate Risks and Opportunities for Sri Lankan Businesses,” from 7 to 9 May at the Shangri-La Hotel, Colombo.
+
+As scientists warn of the potentially devastating consequences of accelerating climate change, the summit will serve as a platform for a national dialogue on the impending risks of climate change, and the opportunities presented to Sri Lankan businesses.
+
+...
+
+[Data](articles/46ed4047.json)
+
+---
+
+### Bangladesh International Arbitration Centre signs MOU with Sri Lanka National Arbitration Centre
+
+*2024-04-28 23:06:05* · [`dailyftlk`](https://www.ft.lk/business/Bangladesh-International-Arbitration-Centre-signs-MOU-with-Sri-Lanka-National-Arbitration-Centre/34-761125) · `en`
+
+In a momentous occasion for international dispute resolution, the Bangladesh International Arbitration Centre (BIAC) and the Sri Lanka National Arbitration Centre (SLNAC) have strengthened their collaboration through the signing of a Memorandum of Understanding (MoU).
+
+BIAC Vice Chairman Muhammad A. (Rumee) Ali and SLNAC Chief Executive Seedantha Kulatilake signed the MoU on behalf of their respective organisations at the BIAC office in Dhaka, Bangladesh on 22 April 2024.
+
+This collaborative endeavour holds the promise of enhancing trade and investment relations between Bangladesh and Sri Lanka by facilitating the exchange of vital information and organising joint activities to raise awareness of Alternative Dispute Resolution (ADR) among businesses. Moreover, it includes the utilisation of each other’s infrastructure facilities to conduct arbitrations, mediations, and conciliation proceedings, thereby optimising resources and enhancing efficiency in resolving disputes.
+
+...
+
+[Data](articles/66832974.json)
+
+---
+
+### Mayura Fernando and Aruni Goonetilleke appointed to PGP Glass Board
+
+*2024-04-28 23:01:54* · [`dailyftlk`](https://www.ft.lk/business/Mayura-Fernando-and-Aruni-Goonetilleke-appointed-to-PGP-Glass-Board/34-761124) · `en`
+
+PGP Glass Ceylon PLC has announced the appointment of Mayura Fernando and Aruni Goonetilleke as Non-Executive Independent Directors with effect from 25 April.
+
+Fernando started his professional career at KPMG Ford Rhodes Thornton & Company and was a Partner of the Firm. He has extensive experience as Head of Finance, holding positions of Senior Vice President - Finance of Vanik and Forbes Ceylon Group, Group Finance Director of Confifi Group, and Director Finance - Asian Region of Virtusa (an Information Technology company based in Boston USA).
+
+In General Management, Fernando was the Managing Director of Capital Reach Holdings Ltd., Director/Chief Executive Officer of Softlogic Finance PLC, Director/Chief Executive Officer of Laugfs Capital Ltd., and Chief Executive Officer of Orient Finance PLC.
+
+...
+
+[Data](articles/7d106c5a.json)
+
+---
+
+### Kapila Ariyaratne joins RIL Property Board
+
+*2024-04-28 22:58:58* · [`dailyftlk`](https://www.ft.lk/business/Kapila-Ariyaratne-joins-RIL-Property-Board/34-761123) · `en`
+
+Ex-banker Kapila Ariyaratne has been appointed to the Board of RIL Property PLC as an Independent Non-Executive Director.
+
+Ariyaratne is a career banker with over 38 years of banking experience having worked for several local as well as international banks both locally and overseas. Prior to his retirement in April 2023, he served as the Director/Chief Executive Officer at Seylan Bank PLC.
+
+After initial stints with Union Carbide Ceylon Ltd. and Chemical Industries Colombo Ltd. He started his banking career with Grindlays Bank in 1984. He spent the next 38 years with several local and international banks, including ABN Amro Bank NV, Mashreq Bank PSC, Arab National Bank (Riyadh), People’s Bank and Nations Trust Bank PLC before joining Seylan Bank as its CEO in 2011.
+
+...
+
+[Data](articles/5676e7c3.json)
+
+---
+
+### Maharaja Foods appoints two Non-Executive Independent Directors
+
+*2024-04-28 22:54:52* · [`dailyftlk`](https://www.ft.lk/business/Maharaja-Foods-appoints-two-Non-Executive-Independent-Directors/34-761122) · `en`
+
+Maharaja Foods Ltd., has announced the appointment of Imran Furkan and Melanga Doolwala as Non-Executive Independent Directors.
+
+Founded by the visionary entrepreneur late Sivasaraman Guganathan hailing from Velani -Jaffna, Maharaja Food Products commenced operations in 1995, sourcing premium quality food items such as rice, potatoes, onions, and lentils etc., empowering local farmers whilst providing high quality food products to its customers. Today, the company stands as a symbol of quality and innovation, enriching lives with a diverse array of products including rice-based and flour-based products, spices, fish-based products, and a range of grocery items, serving both local and overseas consumers through its network of distributors in Sri Lanka, France, United Kingdom and Australia.
+
+...
+
+[Data](articles/1c9ae8c3.json)
+
+---
+
+### Wither the Muslim parties
+
+*2024-04-28 22:48:44* · [`dailyftlk`](https://www.ft.lk/columns/Wither-the-Muslim-parties/4-761120) · `en`
+
+There is a new generation of Muslim voters now who, like their counterparts among Sinhalese and Tamils, are waking up to the challenge – Pic by Shehan Gunasekara
+
+As elections approach, the two Muslim parties, Sri Lanka Muslim Congress (SLMC) the senior and its breakaway junior All Ceylon Makkal Congress (ACMC), are on a bargain hunt looking for profitable deals with any of the national parties so that they could coalesce. This is not something new but had been the history of these ethno-religious adjuncts right from their inception.
+
+...
+
+[Data](articles/5a0e6787.json)
+
+---
 
 ### Government action to increase EPF interest
 
@@ -2123,271 +2295,5 @@ It is noteworthy that the cost of white onions is high due to high seed costs, a
 [Data](articles/768c5d2e.json)
 
 [Extended Data](ext_articles/768c5d2e.ext.json)
-
----
-
-### Teen girl injured in Minneriya shooting dies
-
-*2024-04-28 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-girl-injured-in-Minneriya-shooting-dies/108-281500) · `en`
-
-Minneriya, April 28 (Daily Mirror) - The 17-year-old girl who was injured in a shooting incident at Girithale in Minneriya recently, died while undergoing treatment at the hospital.
-
-Minneriya Police initiated an investigation upon receiving information that the girl had been injured and subsequently she was admitted to the Polonnaruwa Hospital.
-
-Investigations revealed that the shooting had occurred while the girl was visiting her relative's house with her family members.
-
-It was revealed that her ex-boyfriend had carried out the shooting.
-
-The suspect was arrested while fleeing after the shooting. He was later remanded till May 2.
-
-◼️
-
-[Data](articles/44fd1fc4.json)
-
-[Extended Data](ext_articles/44fd1fc4.ext.json)
-
----
-
-### Committee submits recommendations to expedite disciplinary inquiries of police officers to IGP
-
-*2024-04-28 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98892/committee-submits-recommendations-to-expedite-disciplinary-inquiries-of-police-officers-to-igp-) · `en`
-
-The committee tasked with addressing administrative issues within Sri Lanka Police, including the delays in disciplinary inquiries, has submitted its report to Inspector General of Police (IGP) Deshabandu Tennakoon.
-
-Led by Senior DIG in-charge of Eastern Province Ajith Rohana, the committee was formed to identify and propose solutions to streamline the disciplinary process for police officers. Among the committee members were DIG in charge of Discipline, Conduct and Legal Division Ruwan Gunasekara, DIG Jaliya Senaratne, Director of Human Resources Management Division SSP W.P.J. Senadheera and Director of Discipline and Conduct Division SSP Nishantha de Silva.
-
-The report contains comprehensive solutions and recommendations aimed at expediting disciplinary procedures and administrative processes within Sri Lanka Police and their impact on officers’ salary increments, allowances, and promotions, the police headquarters said.
-
-...
-
-[Data](articles/6cc179c3.json)
-
-[Extended Data](ext_articles/6cc179c3.ext.json)
-
----
-
-### Over 7,000 soldiers granted legal discharge in Sri Lanka Army amnesty
-
-*2024-04-28 10:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-7-000-soldiers-granted-legal-discharge-in-Sri-Lanka-Army-amnesty/108-281498) · `en`
-
-Colombo, April 28 (Daily MIrror) - More than 7,000 soldiers who deserted the Sri Lanka Army have received legal discharge during an amnesty period declared by Sri Lanka’s Ministry of Defence.
-
-The Sri Lanka Army, under the Ministry of Defence's directive, has announced a General Amnesty from April 20, allowing all Army absentees to receive an official discharge from their service.
-
-The general amnesty is in effect for one month, from April 20 to May 20, 2024. During this period, Army absentees have been given the opportunity to legally discharge from the Army in coordination with their respective Regimental Centers.
-
-As of April 27, a total of 7,156 deserters from the Army have obtained clearance and legal discharge.
-
-The Army has confirmed that 13 army deserters currently abroad are also among those received legal discharge.
-
-◼️
-
-[Data](articles/74fd8af6.json)
-
-[Extended Data](ext_articles/74fd8af6.ext.json)
-
----
-
-### Mal Kamala arrested
-
-*2024-04-28 10:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மல்-கமலா-கைது/76-336429) · `ta`
-
-Mal Kamala, a woman allegedly involved in heroin sales, was arrested with two grams of heroin near a flower shop. Two of her sons were also detained for drug trafficking.
-
-🟩
-
-A woman who allegedly sells heroin was arrested with two grams of heroin, while conducting a flower shop in front of the Rajopa Vanarama Vihara, according to the Kandy Anti -Corruption Unit.
-
-Police investigations revealed that a woman named Mal Kamala had sold a heroin drug to customers who knew she knew.
-
-Police say two sons arrested on Saturday (27) have been detained in connection with heroin drug trafficking.
-
-A special police team is conducting further investigations on the directives of Senior Superintendent of Police Anurutha Bandaranaike, who is in charge of the Kandy area.
-
-◼️
-
-[Data](articles/80f99bdf.json)
-
-[Extended Data](ext_articles/80f99bdf.ext.json)
-
----
-
-### Thunderstorm
-
-*2024-04-28 10:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-பலத்த-மழை-பெய்யும்/175-336428) · `ta`
-
-Heavy rains and thunderstorms expected today in many parts of the country, affecting Upper, Sabaragamuwa, Central, Southern, North, and Uva provinces. Morning snowfall possible in Sabaragamuwa, Central, and Uva. Public advised to be cautious of heavy winds and lightning.
-
-🟩
-
-Heavy rains are expected today (28) in many parts of the country, the Department of Meteorology said.
-
-Accordingly, rainfall or thunderstorms will occur at 2.00 pm today in the provinces of Upper, Sabaragamuwa, Central, Southern, North, North and Uva and Uva.
-
-Thundershowers can occur in the evening or night in some places in the Northern and North Central Provinces.
-
-Thundershowers will occur in the morning from Galle to Pottuvil via Hambantota.
-
-Heavy rains are likely to experience 75 millimeters in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-In some places in the Sabaragamuwa, Central and Uva provinces, morning snowfall may be seen.
-
-The public is asked to be cautious in cases of temporary heavy winds and lightning during the rains.
-
-◼️
-
-[Data](articles/1dc24514.json)
-
-[Extended Data](ext_articles/1dc24514.ext.json)
-
----
-
-### Nochiyagama
-
-*2024-04-28 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182127) · `ta`
-
-A youth drowned in Manel Lake, Nochiyagama area, yesterday morning.
-
-🟩
-
-A youth drowned in Manel Lake in Nochiyagama area yesterday morning.
-
-◼️
-
-[Data](articles/c4df0c7a.json)
-
-[Extended Data](ext_articles/c4df0c7a.ext.json)
-
----
-
-### Hostel student: Teacher arrested
-
-*2024-04-28 10:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதியில்-மாணவி-ஆசிரியர்-கைது/175-336427) · `ta`
-
-A teacher staying at a hostel was arrested for allegedly being a student at the same school, where he was accused of bringing a student from another school under the same police division. The student claimed the teacher did not harass her. The teacher will face charges at the Hatton Magistrate's Court.
-
-🟩
-
-A teacher who was staying in the hotel was arrested on Saturday (27) on charges of being a student at the hotel where he was staying.. The incident took place in the area controlled by the Hatton Regional Education Office.
-
-Ginigathenai has been arrested by the police on the basis of a teacher of a main school in the Ginigathena Police Division.
-
-The teacher Ginigathena has been arrested by the police on suspicion of allegedly brought to a school teacher in the school where the teacher is staying in grade 11 from another school under the same police border.
-
-Investigations have revealed that the student had been working in the school for years before the school where the teacher was arrested on suspicion.
-
-The student told the police that she had gone to the teacher's hostel as it was too late to start an additional class.
-
-The school student added to the police that the teacher did not harass her even when she went to the teacher's residence.
-
-...
-
-[Data](articles/f222ff16.json)
-
-[Extended Data](ext_articles/f222ff16.ext.json)
-
----
-
-### Sri Lanka women's cricket team records
-
-*2024-04-28 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196047) · `si`
-
-Sri Lanka women's cricket team won by 10 wickets against Scotland in the 20 Women's World Cup, scoring 10.1 overs without losing a wicket. They also beat Thailand by 67 runs in their first match.
-
-🟩
-
-Sri Lanka women's group has won the match with Scottish women's team by 10 wickets in the 20 Women's World Cup.
-
-Batting first, Scottish women's team scored 94 runs for the loss of all festions.
-
-Kamisha Dilchers of four wickets, Eshashi Priyadarshani took 02 wickets and 2 wickets for two wickets.
-
-Sri Lanka women's group to enter the field for reply wicket won no crumbles in 10.1 overs.
-
-Chamari, Chamari Atapattu, was unbeaten on behalf of Sri Lankan innings.
-
-Sri Lanka women's group beat Thailand's group by 67 runs in the first match participated in the tournament.
-
-◼️
-
-[Data](articles/e8b22f1b.json)
-
-[Extended Data](ext_articles/e8b22f1b.ext.json)
-
----
-
-### 37kg Gold Trafficking: Web to Ivar
-
-*2024-04-28 09:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-கி-கி-தங்கம்-கடத்தல்-ஐவருக்கு-வலை/175-336425) · `ta`
-
-Sri Lankan police seek public help to arrest five suspects involved in a 37 kg gold theft in Kalpitiya, following an abduction in November. Contact numbers provided for information.
-
-🟩
-
-Sri Lankan police have sought the help of the public to arrest the five suspects in connection with the robbery of 37 kg of gold in Kalpitiya.
-
-It is reported that five suspects have been searched by the police in connection with the incident of abducting a person in Kalpitiya in November last year and stealing 37 kg of gold.
-
-Moreover, those who are informed of the suspects have been requested to contact the police by telephone numbers 071 8591763 or 071 8594916.
-
-◼️
-
-[Data](articles/43c74a33.json)
-
-[Extended Data](ext_articles/43c74a33.ext.json)
-
----
-
-### Namal or Ranil in the Pohot
-
-*2024-04-28 09:35:59* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු‌වේ-අපේක්ෂකයා-නාමල්-හෝ-රනිල්/11-409291) · `si`
-
-Jagath Samarawickrama suggests Ranil Wickremesinghe or Namal Rajapaksa as the common candidate for the Sri Lanka General Election, praising Wickremesinghe's leadership and decision-making for the country's development.
-
-🟩
-
-He said that if he was presented to the Presidential Folk General of Sri Lanka, the General Wickremesinghe of the Sri Lanka Arose Front, the General Assembly of the Sri Lanka Filling Election, he said.
-
-Jagath Samarawickrama states that Ranil Wickremesinghe has been launched to recruit the country and has been launched on a media briefing in Siripura on the 28th.
-
-Mr. Samarawickrama said he was a good brain to develop the country after JR Jayawardena.
-
-According to Jagath Samarawickrama, President Ranil Wickremesinghe or Namal Rajapaksa will be held as the common candidate of the Sri Lanka General Election.
-
-Mr. Samarawickrema said that if everyone would like to rise, therefore, therefore, as the common candidate, he will be supported by President Ranil Wickremesinghe.
-
-Mr. Jagath Samarawickrema added that Ranil Wickremesinghe has already taken the decisions taken by the people and the development of the country and the development of the villages.
-
-◼️
-
-[Data](articles/70114ff2.json)
-
-[Extended Data](ext_articles/70114ff2.ext.json)
-
----
-
-### Au. World Rs. 50 win by winning Sri Lanka
-
-*2024-04-28 09:29:39* · [`adalk`](https://www.ada.lk/breaking_news/අවු--50ට-වැඩි-ලෝක-රූ-රැජින-තරගාවලියෙන්-ලංකාවට-ජයක්/11-409290) · `si`
-
-Thushari Jayakody, a Sri Lankan over 50, won the World Station in New York, USA, from 37 countries. She arrived at Katunayake airport, highlighting Sri Lanka's significance among 37 countries.
-
-🟩
-
-Ms. Thushari Jayakody, who represented Sri Lanka for the world over the age of 50, arrived at the Katunayake airport on the morning of 04/28.
-
-The World Station was held from 37 countries in New York in New York, USA, USA.
-
-Thushaari Jayakody said at the Katunayake airport that Sri Lanka was a large number of matters of 37 countries in the world.
-
-After winning the Sri Lankan tournament, the Sri Lankan rajest was won by the Sri Lankan rooms over 50 years of age.
-
-Ms. Thushari Jayakody, from New York to Qatar from New York, USA to Katunayake at Katunayake airplane, 218, and she had come to the Katunayake AirportThe three children organized by the Board of Sri Lanka and the Board of Sri Lanka also arrived at the airport.
-
-◼️
-
-[Data](articles/4a221244.json)
-
-[Extended Data](ext_articles/4a221244.ext.json)
 
 ---

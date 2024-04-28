@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 16:49:04**
+As of **2024-04-28 17:03:40**
 
 ## Newspaper Stats
 
-*Scraped **21,388** Articles*
+*Scraped **21,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ dailyftlk | 1,202
 economynextcom | 1,210
 adalk | 1,785
 tamilmirrorlk | 2,479
-adaderanalk | 2,550
+adaderanalk | 2,551
 virakesarilk | 3,211
-dailymirrorlk | 3,326
-adaderanasinhalalk | 3,462
+dailymirrorlk | 3,327
+adaderanasinhalalk | 3,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,388 (100.0%) of 21,388 articles have been extended.
+21,388 (100.0%) of 21,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### EPF interest rates to be increased to 13%
+
+*2024-04-28 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98898/epf-interest-rates-to-be-increased-to-13) · `en`
+
+Steps are being taken to increase the interest rate of the Employees’ Provident Fund (EPF) from the existing 9% to 13% with effect from 2023, State Minister of Finance Ranjith Siyambalapitiya said.
+
+◼️
+
+[Data](articles/da6f23cd.json)
+
+---
+
+### අලුත් ජාවාරමක් ගැන විශේෂ දැනුම්දීමක්
+
+*2024-04-28 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196056) · `si`
+
+ජනාධිපති කාර්යාලයේ තනතුරු දරන බවට සඳහන් කර ජනතාවගෙන් මුදල් වංචා කරන අමුතුම ජාවාරම් පිළිබඳව අනාවරණය වී ඇති බව ජනාධිපති කාර්යාලය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් ජනාධිපති කාර්යාලය පවසන්නේ ව්‍යාජ ලිපි ලේඛන ඉදිරිපත් කරමින් මෙලෙස විදෙස් රටවලට වීසා බලපත්‍ර ලබාගැනීමට අපේක්ෂා කරන පුද්ගලයින් රවටා මුදල් ලබාගැනීමේ සිදුවීම් සම්බන්ධයෙන් තොරතුරු වාර්තා වී ඇති බවය.
+
+ආයෝජකයින් සහ රැකියා අපේක්ෂිත තරුණ පිරිස් මෙම ජාවාරම්කරුවන්ගේ විශේෂ ඉලක්කයක් වී ඇති බව එම නිවේදනයේ සඳහන් වෙයි.
+
+ජනාධිපති කාර්යාලය පෙන්වාදී ඇත්තේ එවැනි වංචාකාරී ජාවාරම්කරුවන්ගෙන් ප්‍රවේසම් වෙන ලෙසටය.
+
+එසේම එවැනි පුද්ගලයෙකු බවට සැකයක් ඇතිවුවහොත් වහාම 071 530 8032 යන දුරකථන අංකය ඔස්සේ ජනාධිපති ජ්‍යේෂ්ඨ සහකාර ලේකම් ප්‍රසාද් සෙනරත් මහතා සම්බන්ධ කරගනිමින් ඔවුන්ගේ අනන්‍යතාව තහවුරු කර ගන්නා ලෙසටය.
+
+◼️
+
+[Data](articles/9401161c.json)
+
+---
+
+### Overseas Sri Lankans back NPP this time like they backed Gota in 2019: Anura Kumara
+
+*2024-04-28 16:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Overseas-Sri-Lankans-back-NPP-this-time-like-they-backed-Gota-in-2019-Anura-Kumara/108-281506) · `en`
+
+Colombo, April 28 (Daily Mirror)- Claiming that overseas Sri Lankans played a key role in bringing former President Gotabaya Rajapaksa to power in the 2019 Presidential election, NPP leader Anura Kumara Dissanayake said the National People's Power has been the main choice of the overseas Sri Lankans this time.
+
+Speaking at a meeting in Stockholm, Sweden, he said overseas Sri Lankans are now campaigning for a system change and a new change for Sri Lanka and the NPP has been their choice to make that change.
+
+He requested Sri Lankans in Sweden to come to Sri Lanka and vote for the NPP or do an online campaign to garner support for the NPP.
+
+"Educate your family members and friends in Sri Lanka whenever they contact you over the phone," he said.
+
+Dissanayake said overseas Sri Lankans is a crucial force in upcoming elections and requested them to support the NPP to obtain power and develop the country after obtaining power.
+
+...
+
+[Data](articles/2bd37f00.json)
+
+---
 
 ### Police arrest scores of pro-Palestinian protesters on US university campuses
 
@@ -51,6 +103,28 @@ Pro-Palestinian protests have spread to college campuses across the U.S., stoked
 [Data](articles/22838f52.json)
 
 [Extended Data](ext_articles/22838f52.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට පාකිස්තානයෙන් ලොකු ලූනු
+
+*2024-04-28 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196055) · `si`
+
+පාකිස්තානයෙන් ලොකු ලූනු ආනයනය කිරීමට ශ්‍රී ලංකාව යළිත් පියවර ගෙන තිබේ.
+
+අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයනකරුවන්ගේ සංගමය සඳහන් කළේ පාකිස්තානය විසින් ලොකු ලූනු අපනයනය සඳහා පනවා තිබූ තහනම ඉවත් කිරීමත් සමග යළි ලොකු ලූනු ආනයනය කිරීමට පියවර ගෙන ඇති බවය.
+
+ඒ අනුව ඉදිරි සතිය තුළ පකිස්ථානයෙන් ආනයනය කරන ලද ලොකු ලූනු වෙළෙඳපොළට නිකුත් කිරීමට නියමිතව තිබේ.
+
+මේ වනවිටත් වෙළෙඳපොළ තුළ ලොකු ලූනු මිල පහළගොස් ඇති අතර චීනයෙන් ආනයනය කරන ලද ලොකු ලූනු කිලෝග්‍රෑම් එකක් රුපියල් 200ත් 300ත් අතර මිලකට වෙළෙඳපොළ තුළ පවතින බව වාර්තා වෙයි.
+
+මේ අතර ඉන්දියාව ද පසුගියදා ලොකු ලූනු අපනයනයට පනවා තිබූ තහනම ඉවත් කර ශ්‍රී ලංකාවට ලොකු ලූනු මෙට්‍රික් ටොන් දස දහසක් අපනයනය කිරීමට එකඟතාව පළකර තිබුණි.
+
+අදාළ ලොකු ලූනු වෙළෙඳ අමාත්‍යාංශය මාර්ගයෙන් මෙරටට ආනයනය කර සතොස හරහා ජනතාවට ලබාදීමට කටයුතු කරන බවයි අමාත්‍ය නලින් ප්‍රනාන්දු මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/981bc491.json)
 
 ---
 
@@ -2201,103 +2275,5 @@ That is the advisory of the UNP Deputy Leader Ruwan Wijewardene.
 [Data](articles/582be90d.json)
 
 [Extended Data](ext_articles/582be90d.ext.json)
-
----
-
-### Huge drugs stuck
-
-*2024-04-27 16:41:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரியளவு-போதைப்பொருட்கள்-சிக்கின/175-336402) · `ta`
-
-A 31-year-old man from Kaduwela was arrested in Biyagama for seizing 15 kg 81 grams of ice, 14 kg 527 grams of hash, and 941 grams of heroin.
-
-🟩
-
-A man has been arrested for seizing 15 kg 81 grams of ice, 14 kg 527 grams of hash and 941 grams of heroin during a roundup in Biyagama.
-
-The 31 -year -old man from Kaduwela, Bomiriya was arrested in the Bandarawatte area and the drug was seized while checking the house and car he lived.
-
-The suspects were informed about the suspect during an investigation into two suspects who had previously been arrested.
-
-◼️
-
-[Data](articles/8aa88179.json)
-
-[Extended Data](ext_articles/8aa88179.ext.json)
-
----
-
-### The latest situation in the Indian election
-
-*2024-04-27 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196030) · `si`
-
-India's General Elections, the world's largest voter turnout, are in the second stage, with 61% voter turnout in the second phase. Results expected on June 4. Phases continue through May and June.
-
-🟩
-
-The General Elections of India, the largest voters in the world, launched the second phase of the second stage yesterday (26).
-
-Foreign media reports that 65% voters voted in the first phase, while it was reduced to 61% in the second stage.
-
-The electoral results are expected to be announced on June 4.
-
-The third phase will be held on May 07, May 13, 5th Phase 5, May 25 and 7 seventh stage will be held on June 01.
-
-◼️
-
-[Data](articles/152ee5d1.json)
-
-[Extended Data](ext_articles/152ee5d1.ext.json)
-
----
-
-### Relative to sell the land of a foreign
-
-*2024-04-27 16:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெளிநாட்டில்-உள்ளவரின்-காணியை-விற்ற-உறவினர்/71-336401) · `ta`
-
-A man defrauded and sold land abroad, dividing it into three parts. He sold one to a person, another to a bank, and donated the third to his cousin. The land owner complained to Jaffna Police, who arrested the man. The Jaffna Magistrate's Court ordered interrogation.
-
-🟩
-
-A man who defrauded and sold the land abroad has been arrested and placed in interrogation.
-
-A person living abroad has completed a relative of Jaffna to maintain his land in Jaffna.
-
-He took advantage of the vicinity and divided the land into three pieces and sold one portion to a person and another part of the bank.. He has donated the other piece to his cousin and recovered it.
-
-As the owner of the land lodged a complaint at the Jaffna Police Station, the police were investigating the complaint and arrested the man involved in the sale of the land.
-
-The Jaffna Magistrate's Court has ordered the suspect to be interrogated after investigating the arrest.. Remble
-
-◼️
-
-[Data](articles/8190b2f3.json)
-
-[Extended Data](ext_articles/8190b2f3.ext.json)
-
----
-
-### Kamal Gunaratne to discuss security challenges Russia
-
-*2024-04-27 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196029) · `si`
-
-Kamal Gunaratne, Defense Secretary General, discussed security challenges with Russia's Defense Council Secretary at the 12th international meeting. Focus was on international cooperation, regional peace, and stability, including efforts against terrorism, cyber threats, and internet security. Both sides aim to strengthen diplomatic relations and security cooperation.
-
-🟩
-
-Defense Secretary General Kamal Gunaratne has held bilateral discussions with the Secretary to the Russian Defense Council.
-
-At the 12th internation meeting of high officials for public security.
-
-It is said that it is said that the international cooperation and collectivism have been focused on protecting security challenges, as well as to promote regional peace and stability.
-
-The attention of both parties, including terrorism efforts, cyberware and internet and security cooperation.
-
-The Defense Ministry said that the two sides had given the attention to the other commitment to the two countries to strengthen bilateral diplomatic relations and improve the cooperation of two countries in the security control.
-
-◼️
-
-[Data](articles/72897361.json)
-
-[Extended Data](ext_articles/72897361.ext.json)
 
 ---

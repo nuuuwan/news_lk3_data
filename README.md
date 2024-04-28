@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 22:50:56**
+As of **2024-04-28 23:03:38**
 
 ## Newspaper Stats
 
-*Scraped **21,440** Articles*
+*Scraped **21,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,214
 adalk | 1,792
-tamilmirrorlk | 2,482
-adaderanalk | 2,556
+tamilmirrorlk | 2,483
+adaderanalk | 2,557
 virakesarilk | 3,222
 dailymirrorlk | 3,335
 adaderanasinhalalk | 3,474
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,440 (100.0%) of 21,440 articles have been extended.
+21,440 (100.0%) of 21,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### EPF வட்டியை அதிகரிக்க அரசாங்கம் நடவடிக்கை
+
+*2024-04-28 22:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-வட்டியை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-336462) · `ta`
+
+ஊழியர் சேமலாப நிதியத்திற்காக வழங்கப்படும் வட்டி விகிதத்தை 9 சதவீதத்தில் இருந்து 13 சதவீதமாக உயர்த்த அரசாங்கம் தீர்மானித்துள்ளதுதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய ஊடகங்களுக்கு தெரிவித்துள்ளார்.
+
+“ஊழியர் சேமலாப நிதியம் நம் நாட்டில் மிகப்பெரிய நிதியமாகும், 27 லட்சம் உறுப்பினர்கள் உள்ளனர். 2023ம் ஆண்டுக்காக ஊழியர் சேமலாப நிதியம் ஊடாக முதலீடு செய்து ஈட்டிய பணத்தில் 9 சதவீதத்திற்கு பதிலாக 13 சதவீதத்தை வட்டியாக செலுத்த தயாராக உள்ளோம்.
+
+குறைந்தபட்ச தொகையாக 9 சதவீத வட்டியை வழங்க முடியுமாக இருந்தது. ஆனால் அரசாங்கம் 13 சதவீதத்தை செலுத்த நடவடிக்கை எடுத்துள்ளது.
+
+இது அரசாங்கத்திற்கு கிடைத்த வெற்றியாகும், அதன் உறுப்பினர்களுக்கும் இது வெற்றியாகும். இந்த நிதியை முதலீடு செய்வதன் மூலம் கிடைக்கும் லாபத்தின் நியாயமான பகுதி உறுப்பினர்களுக்கு செல்கிறது" என்றார். R
+
+◼️
+
+[Data](articles/f530be05.json)
+
+---
+
+### Sri Lanka will remain unstable until Easter attack concerns are clarified and resolved - AKD
+
+*2024-04-28 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98905/sri-lanka-will-remain-unstable-until-easter-attack-concerns-are-clarified-and-resolved-akd) · `en`
+
+Leader of the National People’s Power (NPP) Anura Kumara Dissanayaka states that opposing political factions might unite in order to ensure that the NPP will not come into power.
+
+Addressing a gathering in Stockholm, Sweden, he also stated that Sri Lanka will continue to be unstable until questions regarding the Easter Sunday attacks are clarified and resolved.
+
+“All opposing factions including Chandrika, Mahinda and Ranil will be joining one platform in the upcoming presidential election. They are already making plans to unite”, Dissanayake said.
+
+“However, personal disputes between Ranil and Sajith will be an obstacle. There won’t be any concerns in terms of policies for this unification.”
+
+“They must unite in order to hinder the development of the NPP as well as to prevent the NPP from coming into power”, he added.
+
+Speaking further, the NPP leader also hinted that the Presidential Election is likely to be held either on September 28 or October 05, 2024.
+
+...
+
+[Data](articles/7ddc595b.json)
+
+---
 
 ### Superior surgery that everyone surprised
 
@@ -938,7 +978,11 @@ Steps are being taken to increase the interest rate of the Employees’ Providen
 
 Accordingly, the payment of 13% interest rate for the EPF will be ensured for the year 2023, due to good investment performance of the fund, according to the minister.
 
-◼️
+The Finance State Minister made these comments in response to a question raised by a journalist while attending a meeting held in Yatianthota area of Kegalle district.
+
+Thus, Siyambalapitiya further clarified that the accusations raised by some stakeholders that the Employees’ Provident Fund is being destroyed in the past period are meaningless and that the government has decided to increase the amount from 9% to 13% for the year 2023, exceeding the interest rate that was adopted by the Parliament.
+
+...
 
 [Data](articles/da6f23cd.json)
 
@@ -2333,49 +2377,5 @@ Despite losing an early wicket, Kathryn Bryce emerged was undeterred and launche
 [Data](articles/3b89e8e6.json)
 
 [Extended Data](ext_articles/3b89e8e6.ext.json)
-
----
-
-### Youth drowns
-
-*2024-04-28 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196046) · `si`
-
-A 21-year-old from Nochchiyagama, Halmillawa, drowned while fishing in a lake yesterday morning.
-
-🟩
-
-The youngest was sank on the morning when the youth went to fishing in the liveli lake yesterday morning.
-
-The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
-
-◼️
-
-[Data](articles/32d21a33.json)
-
-[Extended Data](ext_articles/32d21a33.ext.json)
-
----
-
-### Sri Lanka to heat up coffee culture amid tourist revival
-
-*2024-04-28 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-heat-up-coffee-culture-amid-tourist-revival-160307/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s is seeing a growing demand for coffee amid a revival in tourism and efforts are underway to lift skills and improve quality down the value chain as part of efforts to broaden the island’s coffee culture, industry officials said.
-
-Lanka Coffee Association, made up of companies involved in the industry, with Australia-funded Market Development Facility is holding the Sri Lanka Coffee Festival in Galle in June.
-
-Coffee sales in café, are picking up partly helped by the tourist industry.
-
-“A lot of tourists especially in Colombo and down South appreciate a good cup of Sri Lankan coffee and that makes up a lot of the café’s demand,” Country Director for the Market Development Facility, Maryam Piracha, says.
-
-As part of efforts to lift the industry, competitions will be held around the country to recognize the best baristas, or the people who serve customers in coffee bars.
-
-“We will judge them on flavor and technique and less emphasis will be given to presentation,” Lanka
-
-...
-
-[Data](articles/12fabab4.json)
-
-[Extended Data](ext_articles/12fabab4.ext.json)
 
 ---

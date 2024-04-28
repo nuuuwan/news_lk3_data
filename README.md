@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 09:18:31**
+As of **2024-04-28 09:34:04**
 
 ## Newspaper Stats
 
-*Scraped **21,332** Articles*
+*Scraped **21,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,469
 adaderanalk | 2,544
 virakesarilk | 3,202
 dailymirrorlk | 3,319
-adaderanasinhalalk | 3,453
+adaderanasinhalalk | 3,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,332 (100.0%) of 21,332 articles have been extended.
+21,332 (100.0%) of 21,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### දියේ ගිලී තරුණයෙක් මරුට
+
+*2024-04-28 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196046) · `si`
+
+ඊයේ (27) උදෑසන කාලයේදී එම තරුණයා මානෙල් වැවේ මසුන් ඇල්ලීම සඳහා ගොස් සිටියදී මෙලෙස එහි ගිලී ඇති බව පොලීසිය පවසයි.
+
+එසේ ජීවිතක්ෂයට පත්ව ඇත්තේ, හල්මිල්ලෑව, නොච්චියාගම ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/32d21a33.json)
+
+---
 
 ### Fairly heavy showers expected in several provinces today
 
@@ -2197,27 +2211,5 @@ President Ranil Wickremesinghe called for a meeting of the ruling party legislat
 [Data](articles/c38e0eb4.json)
 
 [Extended Data](ext_articles/c38e0eb4.ext.json)
-
----
-
-### Gaza Children's Fund Donation Handing over President
-
-*2024-04-27 06:11:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஸா-சிறுவர்-நிதிய-நன்கொடை-ஜனாதிபதி-கையளிப்பு/175-336395) · `ta`
-
-Gaza Children's Fund received donations from various institutions, including Kalmunai Huda Zumma School, to aid conflict victims. Donations were handed over by President, with Parliamentarians and officials present.
-
-🟩
-
-Donations for the Gaza Children's Fund established by the President were handed over to the President yesterday to provide relief to victims of the Gaza conflict.
-
-The Kalmunai Huda Zumma School, All Ceylon Jamiyyathul Ulama Kinniya Branch, Kalmunai Zonal Education Office and Sports Institute have donated donations to the Gaza Children's Fund, the Presidential Media Division said.
-
-Parliamentarians Vajira Abeywardena and HMM at the event to hand over these donations.. Haris and Senior Additional Secretary of the President Sarath Kumara were present. (A)
-
-◼️
-
-[Data](articles/fe0f7064.json)
-
-[Extended Data](ext_articles/fe0f7064.ext.json)
 
 ---

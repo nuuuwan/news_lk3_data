@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 07:21:51**
+As of **2024-04-28 07:45:32**
 
 ## Newspaper Stats
 
@@ -31,6 +31,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
+
+*2024-04-28 06:53:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
+
+Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
+
+It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
+
+And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
+
+...
+
+[Data](articles/ca21bf6f.json)
+
+[Extended Data](ext_articles/ca21bf6f.ext.json)
+
+---
 
 ### ශ්‍රී ලංකාවට තවත් පදක්කමක්
 
@@ -947,24 +965,6 @@ The Sri Lanka delegation was led by Director General, South East Asia Division o
 [Data](articles/e7339b8e.json)
 
 [Extended Data](ext_articles/e7339b8e.ext.json)
-
----
-
-### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
-
-*2024-04-27 15:22:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
-
-Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
-
-It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
-
-And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
-
-...
-
-[Data](articles/ca21bf6f.json)
-
-[Extended Data](ext_articles/ca21bf6f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 14:03:40**
+As of **2024-04-28 14:18:31**
 
 ## Newspaper Stats
 
-*Scraped **21,370** Articles*
+*Scraped **21,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,782
+adalk | 1,783
 tamilmirrorlk | 2,477
-adaderanalk | 2,547
+adaderanalk | 2,548
 virakesarilk | 3,208
 dailymirrorlk | 3,324
 adaderanasinhalalk | 3,459
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,369 (100.0%) of 21,370 articles have been extended.
+21,370 (100.0%) of 21,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### Sri Lanka’s population dynamics at risk, Registrar General’s Department warns
+
+*2024-04-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98895/sri-lankas-population-dynamics-at-risk-registrar-generals-department-warns-) · `en`
+
+Sri Lanka has shown a significant drop in annual birth rate while the number of annual deaths has increased since 2020, the Registrar General’s Department revealed.
+
+The Senior Deputy Registrar General, Attorney-at-Law Lakshika Ganepola stated that the number of annual births which was around 325,000 before 2020 has now decreased to 280,000.
+
+Meanwhile, the number of annual deaths has increased to around 180,000, which was 140,000 before 2020, as per reports.
+
+The Registrar General’s Department points out that this situation will adversely affect Sri Lanka’s population growth.
+
+◼️
+
+[Data](articles/b8a96312.json)
+
+---
+
+### 14 දා වෙඩි කෑ 17 හැවිරිදි  දැරිය මරුට
+
+*2024-04-28 13:45:52* · [`adalk`](https://www.ada.lk/breaking_news/14-දා-වෙඩි-කෑ-17-හැවිරිදි--දැරිය-මරුට/11-409300) · `si`
+
+පසුගිය 14දා මින්නේරිය ගිරිතලේ ප්‍රදේශයේ  නිවසට යාබද නිවසක පැවති අවුරුදු සාජ්ජයකට සහභාගී වී සිටියදී වෙඩි ප්‍රහාරයට ලක්වීමෙන් බරපතල තුවාල ලබා දින14ක්  රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලැබූ 17 හැවිරිදි පාසල් සිසුවිය ජීවිතක්ෂයට පත්ව ඇතැයි මින්නේරිය පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ ගිරිතලේ ලිපිනයේ පදිංචි ජි.ජි කෝෂලා චමෝද්‍යා බණ්ඩාර නමැති තරුණියයි.
+
+එම අවස්ථාවේදීම නිවැසියන් ඇය හිගුරක්ගොඩ රෝහලට ඇතුලත් කිරීමෙන් අනතුරුව පොලොන්නරුව මහ රෝහලට මාරු කර යවා ඇත.  පසුව ඇය අනුරාධපුර රෝහලට මාරු කර යැවීමට කටයුතු කර ඇති අතර එහිදී ශල්‍යකර්මයකට භජනය කර නැවතත් පොලොන්නරුව මහ රෝහලට මාරු කර දැඩිසත්කාර එකකයේ ප්‍රතිකාර ලබමින් සිටියදී පසුගියදා ඇය ජීවිතක්ෂයට පත්ව ඇත.
+
+◼️
+
+[Data](articles/16dd477b.json)
+
+---
 
 ### Public warned over individuals misleading investors, job seekers, visa applicants
 
@@ -45,6 +79,8 @@ People are urged to verify the identities of such persons from Senior Assistant 
 ◼️
 
 [Data](articles/9d3e7abc.json)
+
+[Extended Data](ext_articles/9d3e7abc.ext.json)
 
 ---
 
@@ -2261,53 +2297,5 @@ Somatha Somaratne has also refused to discuss the matter under the authority of 
 [Data](articles/f7c52292.json)
 
 [Extended Data](ext_articles/f7c52292.ext.json)
-
----
-
-### US announces $6 billion long-term military aid package for Ukraine
-
-*2024-04-27 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98882/us-announces-6-billion-long-term-military-aid-package-for-ukraine) · `en`
-
-US Defense Secretary Lloyd Austin announced on Friday a $6 billion long-term military aid package for Ukraine — the largest to date — which will allow the US to purchase new equipment produced by the American defense industry for the Ukrainian military.
-
-“This is the largest security assistance package that we’ve committed to date. It will include critical interceptors for Ukraine’s patriot and NASAMS air defense systems, more counter drone systems and support equipment, significant amounts of artillery ammunition, and air to ground munitions and maintenance and sustainment support,” Austin said during a press conference on Friday.
-
-The announcement comes just days after the US announced a $1 billion package that would quickly provide equipment to Ukraine from US stocks, following President Joe Biden’s signing of a much delayed $95 billion supplemental aid package on Wednesday.
-
-...
-
-[Data](articles/f52aaf17.json)
-
-[Extended Data](ext_articles/f52aaf17.ext.json)
-
----
-
-### The sassenger disappeared visited his girlfriend's house
-
-*2024-04-27 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196023) · `si`
-
-A 36-year-old man, Susitha Jayawansa, from Kuliyapitiya, has been missing for 6 days after visiting his girlfriend's house in Waluwanda. His friend contacted the house owner, who claimed to have left before his disappearance. The police are investigating and have seized a suspicious vehicle.
-
-🟩
-
-A young man visited the girlfriend's house is reported from Kuliyapitiya.
-
-Susitha Jayawansa residents of Kuliyapitiya area is 6 days without information about 36-year-old Susitha Jayawvaks.
-
-He had gone to his girlfriend at the Waluwanda area in Kuliyapitiya on the 22nd.
-
-He has not received any information about him since visiting the house.
-
-Susitha's friend had also telephoned the man owner of the house, which was said to have gone before the disappearance.
-
-"Tuesday to 7:48 Tuesday nights took me a call. As a father, I told my daughter justice. Now, it's not going to talk. I'm over to kill Uva. It's not going to come back. "
-
-Kuliyapitiya Police are conducting further investigations and a suspicious vehicle has also seized.
-
-◼️
-
-[Data](articles/a22f2828.json)
-
-[Extended Data](ext_articles/a22f2828.ext.json)
 
 ---

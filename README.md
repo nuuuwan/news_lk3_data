@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 05:18:37**
+As of **2024-04-28 05:39:32**
 
 ## Newspaper Stats
 
-*Scraped **21,312** Articles*
+*Scraped **21,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 183
 bbccomsinhala | 223
 dbsjeyarajcom | 227
 newsfirstlk | 363
-islandlk | 1,152
+islandlk | 1,155
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,312 (100.0%) of 21,312 articles have been extended.
+21,312 (100.0%) of 21,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,20 @@ The National People's Power has said that during his stay in Sweden, Anuragumara
 ---
 
 ### 2024-04-27 (Saturday)
+
+### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
+
+*2024-04-27 22:22:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023-2/) · `en`
+
+Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent gala event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
+
+The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
+
+...
+
+[Data](articles/234acc68.json)
+
+---
 
 ### 20 Cambodian soldiers killed in an ammunition explosion at a military base
 
@@ -2000,6 +2014,36 @@ In celebration of Earth Day, Sri Lanka Resorts of Cinnamon Hotels & Resorts cond
 
 ---
 
+### Macroeconomic factors trigger bullish trend in bourse
+
+*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/macroeconomic-factors-trigger-bullish-trend-in-bourse/) · `en`
+
+The stock market was extremely bullish yesterday as three macroeconomic pillars, namely, the exchange rate, market interest rate and inflation are proving conducive to share market development, market analysts opined.
+
+Both indices moved upwards. The All Share Price Index went up by 128.88 points while S and P SL20 rose by 49.65 points.
+
+Turnover stood at Rs 4.1 billion with five crossings. Those crossings were reported in Hayleys, which crossed 3.8 million shares to the tune of Rs 317 million; its shares traded at Rs 83, JKH1 million shares crossed for Rs 218 million and its shares sold at Rs 218.50, People’s Leasing and Finance 9 million shares crossed for Rs 109.8 million; its shares traded at Rs 12.20, CCS 1 million shares crossed for Rs 57 million and its shares sold at Rs 57 and Hemas Holdings 400,000 shares crossed to the tune of Rs 34.4 million; its shares fetched Rs 86.
+
+...
+
+[Data](articles/077b05b6.json)
+
+---
+
+### Colombo shaping up as a major tourist destination – President Wickremesinghe
+
+*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/colombo-shaping-up-as-a-major-tourist-destination-president-wickremesinghe/) · `en`
+
+The city of Colombo will become a major tourist destination in years to come with the shifting of major government institutions, including the presidential official bungalow to Madiwela along with the Air Force headquarters, President Ranil Wickremesinghe said.
+
+“With the signing of the Vision Document by Prime Minister Naredra Modi and me, Sri Lanka could expect more Indian investments and with the high economic growth in India, Sri Lanka could reap benefits by becoming a major logistics hub in the region, the President said on Thursday. He made these observations after declaring open the US $ 500 million super-luxury hotel, ‘ITC Ratnadipa Colombo’, which boasts Sri Lanka’s first sky bridge, AHASA ONE, which is 55 meters long, connecting two towers of the hotel at a height of 100m above the ground.
+
+...
+
+[Data](articles/508fdc02.json)
+
+---
+
 ### Kaspersky extends business footprint to Sri Lanka
 
 *2024-04-27 05:18:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka/) · `en`
@@ -2159,67 +2203,5 @@ Ajith Dowal's security adviser, Modi's MRM Vasim and Rajadurai Hashan, face cont
 [Data](articles/5b9ba150.json)
 
 [Extended Data](ext_articles/5b9ba150.ext.json)
-
----
-
-### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
-
-*2024-04-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
-
-In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
-
-...
-
-[Data](articles/e7ce8fc0.json)
-
-[Extended Data](ext_articles/e7ce8fc0.ext.json)
-
----
-
-### Catholic lawyers should set up a Commission to Solve the Life Sunday attack -Minister Harin
-
-*2024-04-27 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182059) · `ta`
-
-Minister Harin Fernando suggests Catholic lawyers form a commission to investigate the Sunday attack, emphasizing legal action over continued discussion.
-
-🟩
-
-Minister Harin Fernando said that Catholic lawyers should call the community and set up a power commission and investigate the life of the Sunday.
-
-He was speaking at the third day debate in Parliament on Friday (26).
-
-Steps must be taken to provide a solution rather than continue to discuss the lifeblood Sunday attack. As a solution to this, Catholic lawyers should call the community and set up a power commission to investigate the life of the Sunday attack on the Sunday attack.. The Commission should also be held responsible for taking legal action.
-
-The government nor the nan does not have to report this issue. The proposal may have been presented to Sajith Premadasa and Anuragumara Dissanayake. There are great lawyers from the Kattaelika community in Sri Lanka.. There is a charge against 93 people in connection with the attack. All 93 persons should be summoned to the Commission.
-
-...
-
-[Data](articles/03e169bd.json)
-
-[Extended Data](ext_articles/03e169bd.ext.json)
-
----
-
-### Ready to face no matter how many inquiries are available -State Minister Sivanesathurai Chandrakanthan
-
-*2024-04-27 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182058) · `ta`
-
-State Minister Sivanesathurai Chandrakanthan faces numerous inquiries, emphasizing readiness despite political pressures. He highlights the impact of religious affairs since 2012, especially concerning Muslim communities, and criticizes the media's portrayal of events, including the Channel 4 controversy.
-
-🟩
-
-I can't pour everything into my head because I was in the liberation struggle. "I am confronted by how many inquiries," said Minister of State Sivanesathurai Chandrakanthan.
-
-He was speaking at the third day debate in Parliament on Friday (26).
-
-This is the election year and the opposition and some others are still focusing on those living.. Here I noticed that some people extend their hands on me for politics. I can only worry about them. No matter how many inquiries, I am ready to face.
-
-Since 2012, this religious affair has slowly come out.. As a result, some things have begun to happen in the villages where Muslims are concentrated. It was only when ISIS terrorism has reached its peak in the world.
-
-...
-
-[Data](articles/87c1d9f2.json)
-
-[Extended Data](ext_articles/87c1d9f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 19:34:06**
+As of **2024-04-28 19:51:09**
 
 ## Newspaper Stats
 
-*Scraped **21,405** Articles*
+*Scraped **21,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
-economynextcom | 1,210
+economynextcom | 1,214
 adalk | 1,790
 tamilmirrorlk | 2,481
 adaderanalk | 2,553
-virakesarilk | 3,211
+virakesarilk | 3,217
 dailymirrorlk | 3,327
 adaderanasinhalalk | 3,468
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 3,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,405 (100.0%) of 21,405 articles have been extended.
+21,405 (100.0%) of 21,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### டக்வேர்த் லூயிஸ் முறைமையில் இலங்கை ஏ அணி வெற்றி
+
+*2024-04-28 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182177) · `ta`
+
+இலங்கை ஏ அணிக்கும் ஆப்கானிஸ்தான் ஏ அணிக்கும் இடையில் ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ஷ சர்வதேச விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (28) நடைபெற்ற உத்தியோகப்பற்றற்ற சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் இலங்கை  ஏ அணி 8 ஓட்டங்களால் டக்வேர்த் லூயிஸ் முறைமையில் வெற்றிபெற்றது.
+
+இலங்கை ஏ அணியினால் நிர்ணயிக்கப்பட்ட 305 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கிப் பதிலுக்கு துடுப்பெடுத்தாடிய ஆப்கானிஸ்தான் ஏ அணி 48 ஓவர்களில் 7 விக்கெட்களை இழந்து 277 ஓட்டங்களைப் பெற்றிருந்தபோது போதிய வெளிச்சம் இன்மை காரணமாக ஆட்டம் முடிவுக்குக்கொண்டுவரப்பட்டது.
+
+அப்போது டக்வேர்த் லூயிஸ் முறைமையின் பிரகாரம் ஆப்கானிஸ்தான் ஏ அணியின் வெற்றி இலக்கு 286 ஓட்டங்கள் என நிர்ணயிக்கப்பட்டது. இதன் காரணமாக ஆப்கானிஸ்தான் ஏ அணி தோல்வியைத் தழுவியது.
+
+ஆப்கானிஸ்தான் ஏ அணி சார்பாக ஆரம்ப வீரர் ரிஹாஸ் ஹசன் 100 ஓட்டங்களையும் தார்விஷ் ரசூலி 75 ஓட்டங்களையும் பெற்றதுடன் 2ஆவது விக்கெட்டில் 163 ஓட்டங்களைப் பகிர்ந்து இலங்கை ஏ அணிக்கு பெரும் சவால் விடுத்தனர். ஆனால், அவர்கள் இருவரும் ஆட்டம் இழந்த பின்னர் விக்கெட்கள் சீரான இடைவெளியில் வீழந்தன.
+
+...
+
+[Data](articles/d0565920.json)
+
+---
+
+### Sri Lanka’s car market set to coast downhill
+
+*2024-04-28 19:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-car-market-set-to-coast-downhill-160361/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s overheated second-hand car market is set to cool rapidly industry analysts said, with advertised brand new prices for vans being sharply below asking prices for used vehicles after import controls were partially relaxed for tourism.
+
+Toyota Lanka took out advertisements on Sunday to sell the new HiAce passenger van, which is permitted for use in the tourism sector, where the government would allow 750 vans to be imported.
+
+The move startled dealers who have been offering their used vans at astronomical prices.
+
+The price of a 13-seater automatic HiAce was listed at an all-inclusive price of 16 million rupees, nearly half the 32.5 million rupees asking price of a five-year-old HiAce that had travelled 48,000 kilometres, advertised in recent days.
+
+HiAce vans of various ages are still advertised around 14 to 23 million rupees in online market places.
+
+A salesman at Toyota said the price of a brand-new van included approximately 7.0 million rupees in taxes.
+
+...
+
+[Data](articles/6fe10968.json)
+
+---
+
+### சிகிச்சை பெறுவதற்காக வைத்தியசாலைக்கு சென்று கொண்டிருந்த சிறுமி உயிரிழப்பு; யாழில் சோகம்
+
+*2024-04-28 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/182176) · `ta`
+
+காய்ச்சல் மற்றும் சத்தி காரணமாக சிகிச்சை பெறுவதற்காக வைத்தியசாலைக்கு சென்று கொண்டிருந்த சிறுமியொருவர் போகும் வழியிலேயே ஞாயிற்றுக்கிழமை (28) உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணம் - ஆவரங்கால் கிழக்கைச் சேர்ந்த ஜெயச்சந்திரன் சஸ்மிதா என்ற 5 வயதான சிறுமியே உயிரிழந்துள்ளார்.
+
+இது குறித்து மேலும் தெரியவருவதாவது, சில தினங்களுக்கு முன்னர் குறித்த சிறுமி உடல் இயலாமை (காய்ச்சல் காரணமாக) காரணமாக அச்சுவேலி பிரதேச வைத்தியசாலைக்கு சென்று  வீடுதிரும்பியுள்ளார்.
+
+இந்நிலையில் உடல் நிலை மோசமாகவே பெற்றோர் சிறுமியை அச்சுவேலி பிரதேச வைத்தியசாலைக்கு மீண்டும் கொண்டு சென்றபோதே சிறுமி உயிரிழந்தார்.
+
+உயிரிழந்த சிறுமியின் சடலம் அச்சுவேலி பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில், பிரேத பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்படவுள்ளது
+
+பிரேத பரிசோதனைக்கு பின்னரே உயிரிழப்புக்கான காரணம் தெரியவரும். சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/7f12d1f3.json)
+
+---
 
 ### Here are the places where they are
 
@@ -51,6 +113,42 @@ The announcement issued by the department, including adequate water, relating to
 [Data](articles/e5de631b.json)
 
 [Extended Data](ext_articles/e5de631b.ext.json)
+
+---
+
+### தேர்தல் காலத்தில் மாத்திரம் வாயால் பேசிவிட்டுப் போவதினால் மாத்திரம் ஒன்றும் செய்துவிட முடியாது - சதாசிவம் வியாழேந்திரன்
+
+*2024-04-28 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/182172) · `ta`
+
+தேர்தல் காலத்தில் மாத்திரம் வாயால் பேசிவிட்டுப் போவதினால் மாத்திரம் ஒன்றும் செய்துவிட முடியாது. பேச்சுக்கப்பால் செயற்பாட்டு ரீதியான விடையங்களையும் முன்னகர்த்திக் கொண்டு செல்ல வேண்டும். எனவே அபிவிருத்தித்திட்டங்கள் மக்களைச் சென்றடைய வேண்டும். இல்லையேல் மக்களை வைத்து ஏமாற்றிப் பிழைப்பவர்கள் உள்ளார்கள்.
+
+மட்டக்களப்பு மாவட்டத்தின் துறைநீலாவணைக் கிராமத்தில் 350 மில்லியன் நிதி ஒதுக்கீட்டில் 6 கிலோமீற்றர் வீதிகள் கார்பெட் வீதிகளாக புனரமைக்கப்பட்டு அதனை மக்கள் பாவனைக்கு திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு கருத்துத் தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் குறிப்பிடுகையில்.
+
+தேர்தல் காலத்தில் மாத்திரம் வாயால் பேசிவிட்டுப் போவதினால் மாத்திரம் ஒன்றும் செய்துவிட முடியாது. பேச்சுக்கப்பால் செயற்பாட்டு ரீதியான விடையங்களையும் முன்னகர்த்திக் கொண்டு செல்ல வேண்டும். எனவே அபிவிருத்தித் திட்டங்கள் மக்களைச் சென்றடைய வேண்டும் இல்லையேல் மக்களை வைத்து ஏமாற்றிப் பிழைப்பவர்கள் உள்ளார்கள்.
+
+...
+
+[Data](articles/8471c632.json)
+
+---
+
+### வெளிநாடுகளில் உள்ள இலங்கையர்கள்   2019 இல் கோட்டாவிற்கு வழங்கியது போன்ற ஆதரவை இம்முறை தேசிய மக்கள் சக்திக்கு வழங்கவேண்டும் - சுவீடனில் அனுரகுமார திசநாயக்க
+
+*2024-04-28 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182167) · `ta`
+
+2019 இல் கோட்டாபய ராஜபக்சவிற்கு வழங்கியது போன்ற ஆதரவை தனக்கு வழங்கவேண்டும் என அனுரகுமார திசநாயக்க வெளிநாட்டில் உள்ள இலங்கையர்களிடம் வேண்டுகோள் விடுத்துள்ளார்.
+
+2019 ஜனாதிபதி தேர்தலில் கோட்டாபய ராஜபக்ச வெற்றிபெறுவதில் வெளிநாடுகளில் உள்ள இலங்கையர்கள் முக்கிய பங்களிப்பை வழங்கினார்கள் என தெரிவித்துள்ள அவர் இம்முறை வெளிநாடுகளில் உள்ள இலங்கையர்களின் பிரதான தெரிவாக தேசிய மக்கள் சக்தி காணப்படுகின்றது எனவும் தெரிவித்துள்ளார்.
+
+வெளிநாட்டில் உள்ள இலங்கையர்கள் தற்போது அமைப்பு மாற்றத்திற்காகவும் புதிய இலங்கைக்காகவும்  பரப்புரை செய்கின்றார்கள்  அவர்களின் தெரிவாக தேசிய மக்கள் சக்தி காணப்படுகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இலங்கைக்கு வந்து எங்களிற்காக பரப்புரை செய்யுங்கள் அல்லது எங்களின் ஆதரவை அதிகரிப்பதற்காக இணையவழி பிரச்சாரத்தில் ஈடுபடுங்கள் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+இலங்கையில் உள்ள குடும்பத்தவர்கள் தொலைபேசிகள் மூலம் உங்களை தொடர்புகொள்ளும்போது அவர்களிற்கு விழிப்புணர்வை ஏற்படுத்துங்கள் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+...
+
+[Data](articles/6cd7a168.json)
 
 ---
 
@@ -79,6 +177,22 @@ The National Building Research Institute joined their geological riots, and afte
 [Data](articles/6ceb452b.json)
 
 [Extended Data](ext_articles/6ceb452b.ext.json)
+
+---
+
+### காணாமலாக்கப்பட்டோர் ஆட்கள் பற்றிய அலுவலகத்தினால் மட்டக்களப்பில் விசாரணைகள் முன்னெடுப்பு
+
+*2024-04-28 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182168) · `ta`
+
+காணாமலாக்கப்பட்ட தனது மகன் உயிரோடு திரும்பி வருவார் என்ற நம்பிக்கை தமக்கு கிடையாது எனவும் நோயுற்றுள்ள தனக்கு அரசாங்கத்தினால் நஷ்ட ஈடுகளை தந்து உதவுமாறு தாய் கவலையுடன் அரசாங்கத்திடம் வேண்டுகோள் விடுத்துள்ளார்.
+
+2003 ஆம் ஆண்டு கரடியனாறு பகுதியில் எனது மகன் காணாமல் போயுள்ளார் இதுவரை காலமும் நான் தேடித் திரிகின்றேன். இன்று வரை உரிய பதில்  கிடைக்கவில்லை. இனி அவர் திரும்பி வருவார் என்ற நம்பிக்கை தமக்கு கிடையாது. நோயுற்றுள்ள எனக்கு அரசாங்கத்தால் நஷ்ட ஈடுகளை தந்து உதவுவதன் மூலம்  வாழ்வாதாரத்தை கொண்டு நடத்த முடியும் என தனது மகன் உயிரோடு இருந்ததால் தன்னை நன்றாக பார்த்திருப்பார் என்று காணாமலாக்கப்பட்ட மகன் ஒருவரின் தாய் கவலையுடன் தனது கருத்தை தெரிவித்துள்ளார்.
+
+காணாமலாக்கப்பட்டோர் ஆட்கள் பற்றிய அலுவலகத்தினால் சனிக்கிழமை (27) மட்டக்களப்பு மாவட்டத்தைச் சேர்ந்த மன்முனை வடக்கு மற்றும் வாழைச்சேனை ஆகிய பிரதேச செயலகத்திற்குட்பட்ட 34 காணாமலாக்கப்பட்டோரின் உறவினர்களிடம் விசாரணைகள் முன்னெடுக்கப்பட்டிருந்தன.
+
+...
+
+[Data](articles/dce18a8a.json)
 
 ---
 
@@ -360,6 +474,24 @@ The bodies of the three deceased have been placed at the Horana District hospita
 
 ---
 
+### வவுனியாவில் ஹெரோயின் போதைப்பொருளுடன் இளைஞர் கைது!
+
+*2024-04-28 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/182155) · `ta`
+
+வவுனியா- ஒமந்தைப் பகுதியில் ஹெரோயின் போதைப்பொருளுடன் இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக வவுனியா பொலிஸார் இன்று (28) தெரிவித்தனர்.
+
+வவுனியா தலைமைப் பொலிஸ் நிலையக் குற்றத்தடுப்பு பிரிவு பொலிஸார் திருட்டுச் சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுதத நிலையில் பொலிஸாருக்கு கிடைத்த இரகசிய தவகவலையடுத்து ஏ9 வீதி ஓமந்தை பகுதியில் இளைஞர் ஒருவரை வழிமறித்து சோதனை செய்தனர்.
+
+இதன்போது அவரது உடைமையில் 6 கிராம் ஹெரோயின் போதைப்பொருள் காணப்பட்ட நிலையில் கைப்பற்றப்பட்டது.  இதனையடுத்து மதவுவைத்தகுளம் பகுதியைச் சேர்ந்த 35 வயதுடைய குறித்த இளைஞர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலதிக விசாரணைகளின் பின் நீதிமன்றத்தில்  முற்படுத்த நடவடிக்கை எடுத்துள்தாகவும் பொலிஸார் மேலும் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/946aeb20.json)
+
+---
+
 ### Police arrest scores of pro-Palestinian protesters on US university campuses
 
 *2024-04-28 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98897/police-arrest-scores-of-pro-palestinian-protesters-on-us-university-campuses) · `en`
@@ -523,6 +655,28 @@ The President's Office has asked the public to contact the President of Senior A
 [Data](articles/ee164dc0.json)
 
 [Extended Data](ext_articles/ee164dc0.ext.json)
+
+---
+
+### Sri Lanka expects 8.5-pct credit growth, $20bn imports in 2024
+
+*2024-04-28 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-8-5-pct-credit-growth-20bn-imports-in-2024-160327/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank is projecting 3.0 percent economic growth and a recovery in private credit to 8.5 percent in 2024 from a 0.6 percent contraction in 2023, in an outlook for the next year.
+
+Exports are projected at 12.9 billion US dollars from 11.9 billion dollars.
+
+Imports are expected to recover to 20 billion dollars in 2024 from 16.8 billion in 2023.
+
+Sri Lanka earns foreign exchange from remittances and also tourism to pay for imports and also repay debt or build reserves as long as the central bank does not cut rates with inflationary open market operations and easy standing facilities to trigger balance of payments crises.
+
+Sri Lanka does not have a penalty rate for standing liquidity facilities.
+
+The central bank is projecting 3.4 months of gross official reserves or about 5.6 billion dollars based on the 20 billion in imports.
+
+...
+
+[Data](articles/9fa5965a.json)
 
 ---
 
@@ -823,6 +977,30 @@ Police say the deceased is 50 years old and has not been identified yet. The bod
 [Data](articles/30f35f0d.json)
 
 [Extended Data](ext_articles/30f35f0d.ext.json)
+
+---
+
+### Sri Lanka coconut prices tumble for third week at auction
+
+*2024-04-28 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-tumble-for-third-week-at-auction-160324/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices fell to 63,231 per 1,000 nuts at an auction on April 2024 from 64,094.03 a week earlier, data from the Coconut Development Authority shows.
+
+The highest price was 72,200 rupees for 1,000 nuts down from 72,100 rupees a week ago, while the lowest remained at 60,000.
+
+A total of 811,217 coconuts were offered at the auction and only 360,531 nuts were sold as prices fell for the third week in a row.
+
+Coconut prices are down 16 percent from the last auction in December 2023.
+
+Wholesale prices were 95 to 100 rupees for large nuts and 85 to 90 rupees per small nut in the week to April 4, 2024.
+
+Farmgate prices in Kurunegala was 72,000- 75,000 per 1000 nuts.
+
+Coconut shells were 32,000 – 34,000 rupees per metric ton. (Colombo/Apr29/2024)
+
+◼️
+
+[Data](articles/dce85d05.json)
 
 ---
 
@@ -1570,6 +1748,28 @@ The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
 
 ### Sri Lanka to heat up coffee culture amid tourist revival
 
+*2024-04-28 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-heat-up-coffee-culture-amid-tourist-revival-160307/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s is seeing a growing demand for coffee amid a revival in tourism and efforts are underway to lift skills and improve quality down the value chain as part of efforts to broaden the island’s coffee culture, industry officials said.
+
+Lanka Coffee Association, made up of companies involved in the industry, with Australia-funded Market Development Facility is holding the Sri Lanka Coffee Festival in Galle in June.
+
+Coffee sales in café, are picking up partly helped by the tourist industry.
+
+“A lot of tourists especially in Colombo and down South appreciate a good cup of Sri Lankan coffee and that makes up a lot of the café’s demand,” Country Director for the Market Development Facility, Maryam Piracha, says.
+
+As part of efforts to lift the industry, competitions will be held around the country to recognize the best baristas, or the people who serve customers in coffee bars.
+
+“We will judge them on flavor and technique and less emphasis will be given to presentation,” Lanka
+
+...
+
+[Data](articles/12fabab4.json)
+
+---
+
+### Sri Lanka to heat up coffee culture amid tourist revival
+
 *2024-04-28 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-coffee-to-warm-up-in-festival-amid-tourist-revival-160307/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s is seeing a growing demand for coffee amid a revival in tourism and efforts are underway to lift skills and improve quality down the value chain as part of efforts to broaden the island’s coffee culture, industry officials said.
@@ -2085,247 +2285,5 @@ The report was established at the International Guest Veniceu Championship at th
 [Data](articles/6c71d94a.json)
 
 [Extended Data](ext_articles/6c71d94a.ext.json)
-
----
-
-### Batticaloa built cricket ground
-
-*2024-04-27 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196040) · `si`
-
-Batticaloa's cricket ground, developed by Mr. Punerasingham, offers a personal investment opportunity for youths seeking advanced cricket experience.
-
-🟩
-
-A man committed to the development of cricketers in the Eastern Province today from Batticaloa.
-
-Mr. Punerasingham, he is currently building a complete component of personal money in Batticaloa.
-
-This is a good opportunity for all the youths who wish to have a high level of cricket experience.
-
-◼️
-
-[Data](articles/5040ecc3.json)
-
-[Extended Data](ext_articles/5040ecc3.ext.json)
-
----
-
-### We have full confidence in the business community: People must decide the future of the country's economy- the president
-
-*2024-04-27 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182114) · `ta`
-
-President Ranil Wickremesinghe emphasized the government's aim to create an export economy based on the market economy, expressing full confidence in the business community. He highlighted the need for the people to decide the future of the country's economy, addressing the annual conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives.
-
-🟩
-
-President Ranil Wickremesinghe emphasized that the government's aim is to create an export economy based on the market economy and that he has full confidence in the business community of this country.
-
-Pointing out that the country is currently needing a system of building the country's economy, the President said that it is not the present issue and that the people should not lose the opportunity to determine the future course of the country's economy.
-
-President Ranil Wickremesinghe said this while addressing the annual conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo on Friday (26).
-
-This annual conference will be held in Colombo on April 26/27 and the Minister of Information Technology and Digital Services Palanivel Thiagarajan made the special speech at the conference.
-
-...
-
-[Data](articles/68ea06ef.json)
-
-[Extended Data](ext_articles/68ea06ef.ext.json)
-
----
-
-### Human skeletons recovered in Muhamalai demining site
-
-*2024-04-27 21:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Human-skeletons-recovered-in-Muhamalai-demining-site/108-281495) · `en`
-
-Pallai, April 27 (Daily Mirror) - A group of non-governmental organization workers, engaged in demining activities in Muhamalai in the Pallai police area, discovered a uniform along with several human skeletons buried in the ground today.
-
-They reported the findings to the Pallai Police, who initiated investigations.
-
-The Kilinochchi Magistrate visited the site, conducted a magisterial inspection and ordered further excavations to be carried out at the particular site on Monday (29).
-
-◼️
-
-[Data](articles/402db4e0.json)
-
-[Extended Data](ext_articles/402db4e0.ext.json)
-
----
-
-### Not going to South Korea
-
-*2024-04-27 20:51:49* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-පදිංචියට-යන්නේ-නෑ/11-409289) · `si`
-
-Former President Maithripala Sirisena denies moving to South Korea, refuting false propaganda by political opponents. He emphasizes his commitment to Sri Lanka, despite facing a court warrant.
-
-🟩
-
-Former President Maithripala Sirisena says that he will not move to South Korea or other country.
-
-"False statements that I am going to the South Korea, false statements appear to give a large propaganda through various board. No need for any country in South Korea or the world. I strongly deny this kind of false propaganda carried by political opponents.
-
-Since I have a court's warranty, the party's authorized officials have already organized all matters to successfully hold World Labor Day at the Gampaha Phase. "The statement issued by him.
-
-◼️
-
-[Data](articles/9d2e41eb.json)
-
-[Extended Data](ext_articles/9d2e41eb.ext.json)
-
----
-
-### The people should decide the way in the economy
-
-*2024-04-27 20:46:27* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථිකයේ-ඉදිරි-ගමන්-මඟ-ජනතාව-තීරණය-කළ-යුතුයි/11-409288) · `si`
-
-President Ranil Wickremesinghe emphasized the need for a competitive, export-based economy at the 2020 International Rotary Club conference in Colombo. He urged the people to decide the country's economic path, highlighting the importance of market forces and the need for a steady growth plan.
-
-🟩
-
-President Ranil Wickremesinghe emphasized that the government's objective is to create a high competitive and export of export based economy based on a market economy.
-
-The question in the country should be the case not whether or not the executive presidency is not or not.
-
-President Ranil Wickremesinghe expressed his views at the Gampaha Bandaranaike Memorial International Conference Hall in Colombo yesterday (2620) at the 2020 International Rotary Club. The annual conference will be held in Colombo on 26th and 27th April.
-
-The keynote address of this Annual Summit was made by Minister of Tamil Nadu in Tamil Nadu, India and Digital Services.
-
-Launched in 1929, more than 17,000 members of the district 3220 district 3220 international 3210 international Rotary Club has contributed to a large number of community and social welfare in Sri Lanka as well as a large number of social and social development projects.
-
-...
-
-[Data](articles/9ff95dde.json)
-
-[Extended Data](ext_articles/9ff95dde.ext.json)
-
----
-
-### Indian govt allows 99.5k MT of onion exports to 6 countries including Sri Lanka
-
-*2024-04-27 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98888/indian-govt-allows-995k-mt-of-onion-exports-to-6-countries-including-sri-lanka) · `en`
-
-The Indian Government on Saturday said it has allowed exports of 99,500 tonnes of onions, mainly sourced from Maharashtra, to six neighbouring countries despite the ban on shipments.
-
-The Indian Government has also allowed exports of 2,000 tonnes of white onion cultivated, especially, for export markets in the Middle East and some European countries.
-
-In an official statement, India’s Ministry of Consumer Affairs, Food & Public Distribution said the government has “allowed export of 99,150 tonnes of onion to six neighbouring countries of Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka”.
-
-The export prohibition has been imposed to ensure adequate domestic availability against the backdrop of estimated lower Kharif and Rabi crops in 2023-24 compared to the previous year.
-
-The ban was imposed amid an increase in demand in the international market, it added.
-
-...
-
-[Data](articles/3537b4fd.json)
-
-[Extended Data](ext_articles/3537b4fd.ext.json)
-
----
-
-### Here is what a child should be drown first
-
-*2024-04-27 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196039) · `si`
-
-"A child in danger needs immediate rescue: 1) Take to water, keep flat, open respiratory path, remove mouth waste. 2) If unresponsive, give 15 thrusters. Adjust based on child's size. Continue until response."
-
-🟩
-
-Promotes Cause Experts Exchange Viraj Jayasinghe explained what he had to do was to save the lives of a child who was dangerous.
-
-"First, take the child with water and keep a flat. Then open the child's respiratory path. If there is some waste in the mouth, remove them. After that, the artificial respiratory of two times covering both nose if he does not breathe. "
-
-"But if he doesn't want to respond, we give 15 tertum terms of the child. If a little child can do with the two fingers. If a big child, you can throw the heart. If we do not put in the stomach or the two legs of the child, the water in the baby can go out, or can damage the constitutional. "
-
-"If you don't have his response yet, we will be given two recessions and provides 15 thrusters. Like this, we continue to help us.. Until you have a response from the child. "
-
-◼️
-
-[Data](articles/ed69d72f.json)
-
-[Extended Data](ext_articles/ed69d72f.ext.json)
-
----
-
-### How stealing the rice divided into the poor
-
-*2024-04-27 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196038) · `si`
-
-Rice distribution for low-income families reportedly involves allegations of payment for rice in some areas, despite being free. A theft of 20 bundles of rice intended for distribution in Kantale is under investigation.
-
-🟩
-
-The rice distribution of rice for low income families these days have been reported in several acrecutical events.
-
-Rice divided over the island widespread for 2.74 million rice distribution families.
-
-Distributing 10 kg of rice for selected beneficiary families is distributed by Divisional Secretariats.
-
-The rice will be given to the people free of charge, but the people of the Welipenna, Welipenna and Lalithapura village are alleged that he had to pay rice to get rice.
-
-Accordingly, they have to pay a variety of Rs. 20 to Rs. 150.
-
-When we asked the Hambantota District Secretary in this regard, he said that he had reported that the people were collected from the people who were to be provided with the security of the rice to the people.
-
-However, he said that however, appropriate action will be taken to investigate this matter.
-
-Meanwhile, a person has stolen 20 bundles of rice stored in a rice stored in the official shade building to distribute the low income of the Kantale.
-
-...
-
-[Data](articles/abb3acbd.json)
-
-[Extended Data](ext_articles/abb3acbd.ext.json)
-
----
-
-### “I have killed him. He can't come anymore ”What happened?
-
-*2024-04-27 20:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவனை-கொன்று-விட்டேன்-அவனால்-இனி-வர-முடியாது-நடந்தது-என்ன/175-336403) · `ta`
-
-Susitha Jayawansa, a 36-year-old hotel owner, disappeared after visiting his girlfriend in Kiliyapitiya. His friend received a call from the house owner, Singhiti, who claimed to have killed him. Police are investigating and have seized a vehicle.
-
-🟩
-
-36 -year -old Susitha Jayawansa, a young man who went to a girlfriend's house in Kiliyapitiya, has disappeared.
-
-He has been missing for the past six days as the young man is running a hotel in the area.
-
-He had gone to his girlfriend's house in the Kuliyapitiya Wassaulla area on the 22nd with a shopkeeper.
-
-Since the time he went home, he had no information about him.
-
-In this case, Susitha's friend has received a phone call by a man named Singhiti, the owner of the house, who is said to have gone to the young man.
-
-“The person named Singhti phoned me at 7:58 pm on Tuesday night. I justified my daughter as a father. Now talking about it is not worth it. I have killed him. He can no longer come. ”
-
-Kiliyapitiya police are conducting investigations into the incident and suspiciously a motor vehicle has been seized by the police.. Remble
-
-◼️
-
-[Data](articles/a0fe2e61.json)
-
-[Extended Data](ext_articles/a0fe2e61.ext.json)
-
----
-
-### Cyber ​​Criminal Section calls for Indian super-actors
-
-*2024-04-27 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196037) · `si`
-
-Indian super-actors Sanjay Dutt, Batah, and artists summoned by Cyber Criminal Section for promoting IPL 2023.
-
-🟩
-
-Indian super-actor Sanjayoth teeth, Batah and artists have been summoned to the Maharatha SyBar Criminal Division.
-
-The 2023 IPL tournament has been called to the criminal section so that they are accused of promotion of the IPL tournament.
-
-Foreign media reports that between the crowd, the Jacqueline of Jacqueline.
-
-◼️
-
-[Data](articles/61a025b8.json)
-
-[Extended Data](ext_articles/61a025b8.ext.json)
 
 ---

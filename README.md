@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 22:33:49**
+As of **2024-04-28 22:50:56**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,438 (100.0%) of 21,440 articles have been extended.
+21,440 (100.0%) of 21,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### සියල්ලන් පුදුම කළ සුපිරි සැත්කම
+### Superior surgery that everyone surprised
 
 *2024-04-28 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196066) · `si`
 
-පුද්ගලයෙකුගේ වකුගඩු දෙකෙහිම ඇති ගල් එකවර ඉවත් කිරීමේ සුවිශේෂී සැත්කමක් මෙරට පළමුවරට කළුතර ශික්ෂණ රෝහලේදී සිදුකර තිබුණි.
+Kalutara Teaching Hospital introduces groundbreaking surgery using disposable flexible tools, surprising everyone.
 
-Disposable flexible yuritroscope නම් උපකරණය යොදා ගනිමින් කුඩා සිදුරක් ඔස්සේ මෙම සැත්කම සිදුකර තිබේ.
+🟩
 
-මේ වනවිට රෝගියා යහපත් සෞඛ්‍ය තත්ත්වයේ පසුව බව සැත්කම් සිදුකළ වෛද්‍යවරු පවසයි.
+The first time in the Kalutara Teaching Hospital has been launched at the Kalutara Teaching Hospital.
+
+This surgery has been carried out through a small hole using DISPOSABLE FLEXIBLE.
+
+The surgery doctors say that after the patient is in good health.
 
 ◼️
 
 [Data](articles/b4bb97fd.json)
 
+[Extended Data](ext_articles/b4bb97fd.ext.json)
+
 ---
 
-### උමා ඔය ව්‍යාපෘතිය ළඟ නායයාම ගැන අලුත් ආරංචියක්
+### New news of landslide near Uma Oya project
 
 *2024-04-28 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196065) · `si`
 
-උමා ඔය ව්‍යාපෘතියට කිලෝමීටර් දෙකහමාරක් පමණ දුරින් පිහිටි කරඳගොල්ල ප්‍රදේශයේ සක්‍රීය වූ නායයාමේ අවදානම සම්බන්ධයෙන් ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ ජ්‍යේෂ්ඨ භූ විද්‍යාඥයින් පිරිසක් හෙට දිනයේ විශේෂ නිරීක්ෂණයකට එක්වීමට සැලසුම් කර ඇත.
+Senior geologists from the National Building Research Institute have joined the NBRO to assess landslide risks near the Uma Oya project. The Badulla District Secretary is taking measures to reduce the mountain range's rise, which could mitigate landslides. Landslides have been active on a two-acre slope in Ella-Karandagolla, and residents have observed silver-like waterfalls indicating landslide characteristics. However, the District Secretary, Parit Abeywardena, stated that these findings have not been confirmed by hydrological or geological research.
 
-බදුල්ල දිස්ත්‍රික් ලේකම්වරයා පැවසුවේ, නාය අවදානම අවම කිරීම සඳහා කඳුකර භූමියේ ඉහළ රැඳී ඇති ජලය කෙටි කාලීන ක්‍රම ඔස්සේ පහළට ගෙන ඒමට අවශ්‍ය කටයුතු මේ වනවිට සිදුකරමින් පවතින බවය.
+🟩
 
-ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසෙහි දින කිහිපයකට පෙර සක්‍රීය වූ නාය අවදානම සම්බන්ධයෙන් මේ වනවිට බලධාරීන් දැඩි නිරීක්ෂණයක පසුවෙයි.
+Senior Geologists in the National Building Research Institute have decided to join the NBRO for the risk of landslides, about two and a half km away from the Uma Oya project.
 
-නායයාමක ලක්ෂණ පෙන්නුම් කරමින් ජලය ගලායන ආකාරය සහ රොන්මඩ පවතින ආකාරය සම්බන්ධයෙන් ප්‍රදේශවාසීන් සැකපළ කරන්නේ එය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ ඇතිවූ තත්ත්වයක් බවටය.
+The Badulla District Secretary said that necessary arrangements are being taken to reduce the rise in the mountain range to reduce the landslide.
 
-කෙසේවෙතත්, එය ජල විද්‍යාත්මක හෝ භූ විද්‍යාත්මක පර්යේෂණයකින් තහවුරු වී නැති බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා ඊයේ පැවසීය.
+The authorities are strictly inscribed on the landslides that were active in the slope of about two acres of land in Ella - Karandagolla.
 
-මේ අතර බදුල්ල දිස්ත්‍රික් ලේකම්වරයා ඇතුළු පිරිසක් අද එම ප්‍රදේශයේ නිරීක්ෂණයකට ද එක්විය.
+The residents of the area donate the breastfall of water, which exhibits landslide characteristics and how it has silver.
+
+However, Badulla District Secretary Parit Abeywardena said yesterday that it was not confirmed by a hydrological or geological research.
+
+Meanwhile, Badulla District Secretary and several others were inspected in the area.
 
 ◼️
 
 [Data](articles/1bb532e2.json)
+
+[Extended Data](ext_articles/1bb532e2.ext.json)
 
 ---
 

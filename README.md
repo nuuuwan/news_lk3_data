@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 23:52:52**
+As of **2024-04-29 00:03:37**
 
 ## Newspaper Stats
 
-*Scraped **21,442** Articles*
+*Scraped **21,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
-economynextcom | 1,214
+economynextcom | 1,215
 adalk | 1,792
 tamilmirrorlk | 2,483
 adaderanalk | 2,557
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,442 (100.0%) of 21,442 articles have been extended.
+21,442 (100.0%) of 21,443 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -255,6 +255,28 @@ Discussions were held on various topics including anti -terror efforts, internet
 [Data](articles/312015ca.json)
 
 [Extended Data](ext_articles/312015ca.ext.json)
+
+---
+
+### Sri Lanka to pay 13.0-pct return to EPF holders for 2023: Minister
+
+*2024-04-28 20:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-13-0-pct-return-to-epf-holders-for-2023-minister-160367/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-managed Employees Provident Fund will pay a 13 percent return to its member in 2023, State Minister for Finance Ranjith Siyambalapitiya has said.
+
+The government has decided to pay the return from the earnings the fund made in 2023, he said.
+
+It was higher than the 9.0 percent return the EPF had paid in recent years, Minister Siyambalapitiya said.
+
+Sri Lanka re-structured the debt of the EPF, extending maturities and initially raising the coupon the 12 percent, after the central bank busted the currency from 200 to 370 destroying its real value and pushing inflation to 70 percent.
+
+However, over the past year, the central bank has appreciated the currency, recouping the fund some of its losses.
+
+According the Central Bank, the inflation generating state enterprise that manages the fund, liability to members went up by 12.9 percent to 3,817.9 billion rupees in 2023, while the total value of the fund went up 11.5 percent to 3,857.4 billion rupees.
+
+...
+
+[Data](articles/a5712eba.json)
 
 ---
 
@@ -2365,25 +2387,5 @@ Ms. Thushari Jayakody, from New York to Qatar from New York, USA to Katunayake a
 [Data](articles/4a221244.json)
 
 [Extended Data](ext_articles/4a221244.ext.json)
-
----
-
-### Sri Lanka go on top of Group A of Women’s T20 World Cup Qualifier
-
-*2024-04-28 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-go-on-top-of-Group-A-of-Womens-T20-World-Cup-Qualifier/108-281497) · `en`
-
-The second matchday of the ICC Women’s T20 World Cup Qualifier 2024 witnessed the Netherlands, Uganda and Zimbabwe record important first wins while Sri Lanka made it two wins in two.
-
-Sri Lanka produced an utterly dominant performance against Scotland to move to the top of Group A in the Global Qualifier.
-
-Asked to bat first by the Islanders, UAE had no answers to the Sri Lankan spinners, who accounted for nine of the 10 wickets that fell. Inoshi Priyadharshani made a crucial breakthrough in the very first over, dismissing Darcey Carter for a duck to set the tone for Sri Lanka's dominance.
-
-Despite losing an early wicket, Kathryn Bryce emerged was undeterred and launched an attack during the Powerplay, striking two boundaries off Udeshika Prabodhani in an over. She dished out the same treat to Sugandika Kumari but the left-arm spinner had the last laugh by getting rid of the opposition skipper two balls later.
-
-...
-
-[Data](articles/3b89e8e6.json)
-
-[Extended Data](ext_articles/3b89e8e6.ext.json)
 
 ---

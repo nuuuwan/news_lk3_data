@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 22:04:01**
+As of **2024-04-28 22:18:32**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 3,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,431 (100.0%) of 21,438 articles have been extended.
+21,438 (100.0%) of 21,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### හෙට සංවර්ධන නිලධාරීන් ලෙඩවෙයි
+### Development officers will be sick tomorrow
 
 *2024-04-28 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196064) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් හෙට දිනයේ අසනීප නිවාඩු වාර්තා කිරිමේ වෘත්තිය සමිති ක්‍රියාමාර්ගයක නිරත වීමට සංවර්ධන නිලධාරී වෘත්තීය සමිති සම්මේලනය තීරණය කර තිබේ.
+Development officers will take sick leave tomorrow due to trade union action. Over 14,000 officials will participate. Services will halt from May 6 if demands are not met.
 
-අද පැවති මාධ්‍ය හමුවක දී එම සම්මේලනයේ සභාපති අනුරාධ සෙනෙවිරත්න මහතා කියා සිටියේ දිවයින පුරා 14,000කට අධික ආර්ථික සංවර්ධන නිලධාරීන් මෙම ක්‍රියාමාර්ගයට එක්වන බවය.
+🟩
 
-සිය ඉල්ලිම් සඳහා විසදුමක් ලබා නොදෙන්නේ නම් ආර්ථික සංවර්ධන නිලධාරින් මැයි මස 06 වැනිදා දින සිට සියලුම සේවාවන්වලින් ඉවත් වන බව ද  අනුරාධ සෙනෙවිරත්න මහතා පැවසීය.
+The Development Officer Federation has decided to engage in a trade union action to report sick leave tomorrow after several requests.
+
+At a press conference held today, the Chairman of the Federation Anuradha Seneviratne said that over 14,000 economic development officials will join this project island wide.
+
+Economic Development Officers will leave all services from May 6, if it does not give a solution to their requests.
 
 ◼️
 
 [Data](articles/31d328c5.json)
 
+[Extended Data](ext_articles/31d328c5.ext.json)
+
 ---
 
-### அங்கொடை லொக்காவின் சகா விமான நிலையத்தில் கைது!
+### Arrested at Angoda Loka's Saka Airport
 
 *2024-04-28 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182181) · `ta`
 
-அங்கொட லொக்கா என அழைக்கப்படும் மறைந்த பாதாள உலக முக்கிய நபரின் சகா ஒருவர் கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+A colleague of Angoda Loka, a late underworld figure, was arrested at Katunayake airport for attempting to leave the country with fake documents, using modern equipment in a police raid.
 
-போலியான பயண ஆவணங்களுடன் நாட்டை விட்டு வெளியேற முற்பட்ட போதே இவர் கைது செய்யப்பட்டார்.
+🟩
 
-விமான நிலையத்தில் புதிதாக பொருத்தப்பட்ட  நவீன கருவி ஊடான சோதனையின் போதே இவர் கைது செய்யப்பட்டதாக  பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+A colleague of the late underworld, known as Angoda Loka, has been arrested at the Katunayake airport.
+
+He was arrested while trying to leave the country with fake travel documents.
+
+The police media spokesman said he was arrested during a raid through a newly equipped modern equipment at the airport.
 
 ◼️
 
 [Data](articles/73f6e729.json)
+
+[Extended Data](ext_articles/73f6e729.ext.json)
 
 ---
 
@@ -80,19 +92,27 @@ The Diyawadana Nilame said he believes this wax museum, which will show the beau
 
 [Data](articles/d18c61d9.json)
 
+[Extended Data](ext_articles/d18c61d9.ext.json)
+
 ---
 
-### රටින් පනින්න හැදූ පාතාලයා කොටුවෙයි
+### The underworld falls in the country
 
 *2024-04-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196063) · `si`
 
-ව්‍යාජ විදේශ ගමන් බලපත්‍රයක් භාවිත කරමින් විදේශගතවීමට තැත්කළ ප්‍රධාන පෙළේ පාතාල සාමාජිකයෙකු ව බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+An underworld member was arrested at Bandaranaike International Airport for attempting to leave the country with a fake passport.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ ගුවන්තොටුපොළේ මෑතකදී  සවිකළ ස්වයංක්‍රීය හඳුනාගැනීමේ යන්ත්‍රය මගින් මෙම සැකකරුව හඳුනාගෙන ඇති බවය.
+🟩
+
+A leading underworld member was arrested at the Bandaranaike International Airport, who attempted to go abroad using a fake passport.
+
+Police Media Spokesperson DIG's DIG'sary, lawyer, said Nihal Talduuwa said the suspect had recently installed at the airport.
 
 ◼️
 
 [Data](articles/5bb83aff.json)
+
+[Extended Data](ext_articles/5bb83aff.ext.json)
 
 ---
 
@@ -112,21 +132,31 @@ The arrest has been made after the suspect was detected through the recently-ins
 
 ---
 
-### ரஷ்யாவில் இடம்பெற்ற பாதுகாப்பு கூட்டத்தில் ஜெனரல் கமல் குணரத்ன பங்கேற்பு
+### General Kamal Gunaratne participated in a security meeting held in Russia
 
 *2024-04-28 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182163) · `ta`
 
-ரஷ்யாவின் செயின்ட் பீட்டர்ஸ்பர்க் நகரில் கூடிய பாதுகாப்பு விடயங்களுக்குப் பொறுப்பான உயர் அதிகாரிகளின் 12ஆவது சர்வதேச கூட்டத்தில் இலங்கையைப் பிரதிநிதித்துவப்படுத்தி பாதுகாப்பு செயலாளர் ஓய்வுபெற்ற கமல் குணரத்ன பங்குபற்றியுள்ளார்.
+Defense Secretary Kamal Gunaratne attended the 12th International Security Meeting in St. Petersburg, Russia, discussing security challenges with top officials worldwide, including a special bilateral discussion with Russia's Nikolai Patrushee. The meeting aimed to enhance international cooperation and address security issues like terrorism and internet security.
 
-ரஷ்யாவின் செயின்ட் பீட்டர்ஸ்பர்க் நகரில் கடந்த 22 ஆம் திகதி முதல் 25 ஆம் திகதி வரை நடைபெற்றுக் கொண்டிருக்கும் பாதுகாப்பு விடயங்கள் தொடர்பான  12ஆவது சர்வதேச கூட்டத்திற்கு உலகெங்கிலும் உள்ள உயர்மட்ட அதிகாரிகள் கலந்துக்கொண்டனர்.
+🟩
 
-தற்போது நாடுகள் எதிர்கொள்ளும்  பாதுகாப்பு சவால்களைப் பற்றி விவாதிப்பதற்கும், அதற்கு தீர்வு காண்பதற்கும் உலகளாவிய தலைவர்களுக்கு இந்ந கூட்டம் ஒரு தளமாக விளங்குகிறது.
+Defense Secretary Kamal Gunaratne has participated in the 12th International Meeting of top officials responsible for security issues in St. Petersburg, Russia.
 
-இக்கூட்டத்தொடரின் ஓர்  அங்கமாக பாதுகாப்புச் செயலாளர் ஜெனரல் கமல் குணரத்னவுக்கும் ரஷ்ய கூட்டமைப்பின் பாதுகாப்புச் சபையின் செயலாளர் நிகோலாய் பட்ருஷேவுக்கும் இடையிலான இருதரப்பு கலந்துரையாடல் நடைபெற்றமை விஷேட அம்சமாகும்.
+Top officials around the world attended the 12th International Meeting on the security issues that are taking place from the 22nd to the 25th of this month in St. Petersburg, Russia.
+
+The meeting is a platform for global leaders to discuss and address the security challenges facing the present countries.
+
+The bilateral discussion between the Defense Secretary General Kamal Gunaratne and the Secretary of the Russian Federation Nikolai Patrushee was a special feature of the meeting.
+
+This meeting was important to further improve the importance of international cooperation and understanding in the face of security threats and promoted peace and stability in the region.
+
+Discussions were held on various topics including anti -terror efforts, internet security and security cooperation.
 
 ...
 
 [Data](articles/312015ca.json)
+
+[Extended Data](ext_articles/312015ca.ext.json)
 
 ---
 
@@ -176,37 +206,63 @@ Ahmedabad DGP Gujarat Vikas Sahay said that the consignment was not for India bu
 
 ---
 
-### காணிகளை அபகரித்து அந்நிய நாடுகளுக்கு விற்காதே! முத்து நகரில் மக்கள் போராட்டம்
+### Do not sell land to foreign countries!People's struggle in pearl city
 
 *2024-04-28 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/182180) · `ta`
 
-திருகோணமலை பட்டினமும் சூழலும் பிரதேச செயலக பிரிவுக்குட்பட்ட முத்து நகர் பகுதியில் விவசாய காணிகளை அபகரித்து அந்நிய நாடுகளுக்கு விற்க வேண்டாம் என கோரி கவனயீர்ப்பு போராட்டம் ஒன்று ஞாயிற்றுக்கிழமை (28) இடம்பெற்றது.
+Protest in Muthu Nagar against selling agricultural lands to foreigners. Revealed in 1984 by Lalith Atulathi Mudali, the resettlement of the Sri Lanka Sector Facial Authority led to threats and no compensation for 200 families.
 
-1972ம் ஆண்டு ஸ்ரீமாவோ பண்டாரநாயக்க ஆட்சி காலத்தில்  அப்போதைய பிரதியமைச்சராக செயற்பட்ட  மறைந்த மர்ஹூம் ஏ எல் அப்துல் மஜீத் அவர்களால் முத்து நகர் பகுதியில் மீள்குடியேற்றப்பட்டது 1984ல் இலங்கை துறை முக அதிகார சபைக்கு  ஐக்கிய தேசிய கட்சி ஆட்சியின் போது துறை முக அமைச்சராக இருந்த லலித் அதுலத் முதலி அவர்களால் வர்த்தமாணி அறிவித்தல் விடுக்கப்பட்டது ஆனால் அம் மக்களுக்கு இது வரை காணி உரித்துப் பத்திரப் வழங்கப்படவில்லை எனவும் துறை முக அதிகார சபையினர் தங்களை தொடர்ந்தும் அச்சுறுத்துவதாகவும் ஆர்ப்பாட்டத்தில் ஈடுபட்ட மக்கள் தெரிவிக்கின்றனர்.
+🟩
 
-...
+A protest march was held on Sunday (28) demanding not to sell agricultural lands to foreign countries in the Muthu Nagar area under the Divisional Secretariat Division of Trincomalee.
+
+The resettlement of the Sri Lanka Sector Facial Authority in 1984 was revealed by the Lalith Atulathi Mudali, who was the Minister of the United National Party (UNP) in 1984 by the Lalit Atulathi Mudali, who was the then Deputy Minister of the Srimavo Bandaranaike.The protesters say that they were not provided and that the Department of Facilities continued to threaten themselves.
+
+There are about 788 agricultural lands. There are about 788 agricultural lands. People from 200 families depend on their daily jurvana agriculture.
+
+Do not sell land, do not sell land, redeem agricultural lands, the country's backbone agriculture, the departmental faculty, do not extort agricultural lands, and since 1972.
+
+Hundreds of farmers participated in the event as the general public.
+
+◼️
 
 [Data](articles/d8527b23.json)
 
+[Extended Data](ext_articles/d8527b23.ext.json)
+
 ---
 
-### குஜராத் டைட்டன்ஸை வெளுத்துக் கட்டியது றோயல் செலஞ்சர்ஸ் பெங்களூரு; வில் ஜெக்ஸ், விராத் கோஹ்லி அபார துடுப்பாட்டங்கள்
+### Royal Challengers BangaloreWill Jx, Virat Kohli
 
 *2024-04-28 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182179) · `ta`
 
-அஹமதாபாத் நரேந்திர மோடி விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (28) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 45ஆவது போட்டியில் குஜராத் டைட்டன்ஸ் பந்துவீச்சாளர்களை வெளுத்துக்கட்டிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 4 ஓவர்கள் மீதம் இருக்க 9 விக்கெட்களால் அமோக வெற்றிபெற்றது.
+Royal Challengers Bangalore won by 9 wickets in the 45th IPL match, thanks to Will Jex's century and Virat Kohli's half-century. They scored 206 runs in 16 overs, with Kohli and Jex sharing 166 runs.
 
-வில் ஜெக்ஸ் குவித்த சதம், விராத் கோஹ்லி குவித்த அரைச் சதம், அவர்கள் பகிர்ந்த 166 ஓட்டங்கள் என்பன றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியை வெற்றிபெறச் செய்தன.
+🟩
 
-இந்தப் போட்டியில் தனது 3ஆவது வெற்றியை ஈட்டிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 6 புள்ளிகளுடன் அணிகள் நிலையில் தொடர்ந்தும் கடைசி இடத்தில் இருக்கிறது.
+Royal Challengers Bangalore won by 9 wickets in the 45th match of the 17th Indian Premier League chapter held at Narendra Modi Stadium on Sunday (28).
 
-அப் போட்டியில் குஜராத் டைட்டன்ஸினால் நிர்ணயிக்கப்பட்ட 201 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 16 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 206 ஓட்டங்களைப் பெற்று இலகுவாக வெற்றியீட்டியது.
+Wil Jex's century, Virat Kohli's half -century and 166 runs they shared made Royal Challengers Bangalore win the Bangalore team.
 
-விராத் கோஹ்லி, அணித் தலைவர் பவ் டு ப்ளெசிஸ் (24) ஆகிய இருவரும் 23 பந்துகளில் 40 ஓட்டங்களைப் பகிர்ந்திருந்தபோது டு ப்ளெசிஸ் ஆட்டம் இழந்தார்.
+Royal Challengers Bangalore, who scored their 3rd victory in the match, continues to be the last place in teams.
+
+Royal Challengers Bangalore lost the wicket in 16 overs and scored 206 runs easily.
+
+Virat Kohli and team captain Bow to Blessice (24) lost 40 runs in 23 balls.
+
+In the 2nd wicket with Virat Kohli, Will Jax initially followed the relaxation and then played a major contributor to the team's win.
+
+He and Kohli shared 166 runs off 73 balls in the 2nd wicket, which confirmed the team's victory.
+
+Will Jax, who scored his first 31 -ball 24 balls, did not lose the match with 69 runs in the last 17 balls, including 4 pounds and 9 sixes.
+
+At the other end, Virat Kohli did not lose 44 balls with 6 pounds and 3 sixes.
 
 ...
 
 [Data](articles/35994a07.json)
+
+[Extended Data](ext_articles/35994a07.ext.json)
 
 ---
 

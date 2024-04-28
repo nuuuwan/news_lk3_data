@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 10:03:55**
+As of **2024-04-28 10:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,335 (100.0%) of 21,336 articles have been extended.
+21,336 (100.0%) of 21,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -238,21 +238,31 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 
 ---
 
-### ඔබට ලිංගාශ්‍රිත රෝගයක් වැළඳී ඇත්දැයි සැක හැර දැන ගන්නේ කෙසේද?
+### How do you know if you have a STD?
 
 *2024-04-28 03:23:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lz2xr91vo) · `si`
 
-ඔබට ලිංගාශ්‍රිත රෝගයක් වැළඳී ඇත්දැයි සැක හැර දැන ගන්නේ කෙසේද?
+Know if you have a STD by following safety methods, checking symptoms like pain, bleeding, or unusual discharge. HIV can be tested at STD clinics, with free HIV testing available. Treatments for STDs vary; some can be cured, others controlled. Prevent HIV/STDs by using condoms, attending regular clinics, and getting Prep (Pre-Exposure Prophylaxis).
 
-ඔබ ආරක්ෂිත ක්‍රමවේදයන් අනුගමනය නොකරන්නේ නම්, ලිංගාශ්‍රිතව සම්ප්‍රේෂණය වන රෝගයක් ඕනෑම අවස්ථාවක ඔබට වැළඳීමේ හැකියාවක් පවතින බව ඔබ දැන සිටියා ද?
+🟩
 
-HIV/AIDS පිළිබඳ එක්සත් ජාතීන්ගේ ඒකාබද්ධ වැඩසටහන  (UNAIDS) විසින් 2023 දී නිකුත් කළ වාර්තාවක දැක්වෙන්නේ 2022 වසර වන විට ලොව පුරා මිලියන 39ක් ඒඩ්ස් සහ HIV සමඟ ජීවත් වන බව ය. 2022 වසරේ දී මිලියන 1.3කට වෛරසය අලුතෙන් ආසාදනය වී තිබේ. එම සංවිධානය විසින් ම නිකුත් කළ වාර්තාවකට අනුව 2023 තුන්වන කාර්තුව අවසන් වන විට ශ්‍රී ලංකාවේ නව HIV ආසාදිතයන් 485ක් හඳුනාගෙන තිබේ.
+How do you know if you have a STD?
 
-ශ්‍රී ලංකාව තුළ ඒඩ්ස් හා ලිංගාශ්‍රිතව බෝ වන රෝග මර්දනය සඳහා වන රාජ්‍ය ආයතනය වන ශ්‍රී ලංකා ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහනේ 2023 හතරවන කාර්තුවේ වාර්තාවට අනුව 2023 එම කාර්තුව වන විට HIV සමඟ ජීවත් වන සංඛ්‍යාව 5705කි. එමෙන් ම එම වසරේ දී ඒඩ්ස් සම්බන්ධ මරණ ද 710ක් සිදු වී තිබේ.
+If you do not follow safety methods, have you known that you are capable of helping you at any time?
+
+A report released by the United Nations Joint Program on HIV / AIDS, 39 million people worldwide live with AIDS and HIV by 2022. In 2022, the virus was newly infected with a virus. According to a report issued by the organization, by the end of the third quarter of 2023, 485 new HIV infected persons in Sri Lanka have been identified.
+
+The Sri Lanka National Institute of STD institutions for AIDS and STIs for the Repression of AIDS and STIs, Sri Lanka, the Government Institute of STDs, the Government Institution of AIDS and STIs, is the number of people living with HIV by the quarter is 573. At that year, 710 deaths occurred in that year.
+
+From now on how many other STDs are found in Sri Lanka and how to check whether he has caused such a disease personally and in secret.
+
+What is a sexually transmitted infection?How can you protect you?
 
 ...
 
 [Data](articles/1c77e69d.json)
+
+[Extended Data](ext_articles/1c77e69d.ext.json)
 
 ---
 

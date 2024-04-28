@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 18:52:05**
+As of **2024-04-28 19:03:35**
 
 ## Newspaper Stats
 
-*Scraped **21,403** Articles*
+*Scraped **21,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ tamilmirrorlk | 2,481
 adaderanalk | 2,553
 virakesarilk | 3,211
 dailymirrorlk | 3,327
-adaderanasinhalalk | 3,467
+adaderanasinhalalk | 3,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,401 (100.0%) of 21,403 articles have been extended.
+21,403 (100.0%) of 21,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ඇල්ල කරඳගොල්ල නාය යාම තවමත් සක්‍රීයයි
+### හෙටත් රත්වෙන තැන් මෙන්න
+
+*2024-04-28 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196060) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (29) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු, උතුරු-මැද, සබරගමුව, නැගෙනහිර, සහ වයඹ පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම එලෙස ඉහළ යනු ඇත.
+
+මෙහිදී ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළයුතු බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/e5de631b.json)
+
+---
+
+### Ella Karawadolla landslides are still active
 
 *2024-04-28 17:59:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරඳගොල්ල-නාය-යාම-තවමත්-සක්‍රීයයි/11-409306) · `si`
 
-ඇල්ල කරදගොල්ල 10 කනුව මලිත්තගොල්ල ප්‍රදේශයේ නාය යාම වඩ  වඩාත් සක්‍රීය වෙමින් විශාල බොරදිය ජලපහරක් ගලායමින් පවතින බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා අද (28)පැවසීය .
+Ella Karawadolla landslides are active, posing a main risk to Wellawaya. The landslide began in 2019, affecting Malagolla. Resettlement activities are underway, with the National Building Research Institute investigating and providing technical guidance. The landslide has increased significantly in the past four days, impacting areas like Kadattolla and Maluththagolla, affecting tourism.
 
-මේ නිසාවෙන් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගය ට දැඩි අවධානමක් දිනෙන් දිනම මතු වෙමින් පවතින බවද හෙතෙම කීය .
+🟩
 
-කරදගොල්ල 10 කනුව මලිත්තගොල්ල ප්‍රදේශයේ මෙම නාය යාම 2019 වසරේ ආරම්භ වූ බවත් , මේ වනවිටත් එහි පදිංචිව සිටි පවුල් 13ක් ඉවත් කර ඉන් පවුල් 5ක් වෙනත් තැනක පදිංචි කර සෙසු පවුල් 8 නැවත පදිංචි කිරීමට සුදුසු ඉඩමක් සොයා ගෙන   නිවාස තනා ගැනිමට අවශ්‍ය  මූලික  කටයුතු  කර ඉදිරි මාස කීපය තුල ඔවුන් නැවත පදිංචි කිරිමේ කටයුතු ඇල්ල  ප්‍රාදේශීය ලේකම් ඉංදික ගයාන් පතිරණ මහතා     ගේ මැදිහත් වීම මත සිදු කරන  බවත් බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා පවසයි .
+The Kataragolla 10 pointing of the landslide in Malagolla, Badulla District Secretary Prabhath Abeywardena said.
+
+Therefore, the Ella is emerging at the main risk of the Wellawaya, he said.
+
+Taragolla posts began in 2019 and the landslide in the Malthagollon.In the intervention of resettlement of resettlement activities, the Ella Divisional Secretary is also conducted on the intervention of the Ella Divisional Secretary, Isa Badulla District Secretary Prabhate Abeywardena.
+
+The District Secretary said that the people's opinion is that the landslide of the Uma Oya tunnels is to fill the landslide in the Maligolla area.
+
+The National Building Research Institute is conducting a widespread investigation into the matter and the landslide, it is revealed that it can be provided with the necessary technical guidance.
+
+The National Building Research Institute joined their geological riots, and after providing a detailed test to the Maluththagolla village, the District Secretary Prabhat Abeywardena said.
 
 ...
 
 [Data](articles/6ceb452b.json)
+
+[Extended Data](ext_articles/6ceb452b.ext.json)
 
 ---
 
@@ -280,23 +308,29 @@ Dissanayake said overseas Sri Lankans is a crucial force in upcoming elections a
 
 ---
 
-### එකම දිනක් තුළ කරන්නාගොඩ ගමේ තුනක් මරුට
+### Three killed in Galle town
 
 *2024-04-28 16:18:47* · [`adalk`](https://www.ada.lk/breaking_news/එකම-දිනක්-තුළ-කරන්නාගොඩ-ගමේ-තුනක්-මරුට/11-409301) · `si`
 
-පසුගිය සෙනසුරාදා (26) දින තුළ කරන්නාගොඩ  ගම්මානයේ එකවරම ඇතිවූ හදිසි අසනීප තත්වයක් නිසා පුද්ගලයින් තුන්දෙනෙකු මියගොස් ඇතැයි වරකාගොඩ පොලිසිය පවසයි.
+Three people died from an emergency illness in Karangoda, Galle. Roshan Indika Perera, 43, and another are in Colombo National Hospital. Waramagama and Varcadagoda Police are investigating.
 
-මෙසේ මියගොස් ඇත්තේ කරන්නාගොඩ , වරකාගොඩ ලිපිනයේ පදිංචි රොෂාන් ඉන්දික පෙරේරා (43) මුතු කුඩ ආරච්චිගේ පද්මසිරි විජය ගුණවර්ධන(69) සහ හොඳමුනිගේ උපුල්(64) යන පුද්ගලයින්වේ.
+🟩
 
-මීට අමතරව මෙම ප්‍රදේශයේම තවත් පුද්ගලයකු අසාධ්‍ය තත්ත්වයෙන් කොළඹ ජාතික රෝහලේ මේ වන විට ප්‍රතිකාර ලබමින් සිටී..
+Waramagama Police said that three persons were killed due to an emergency illness that occurred at the village of Karangoda last Saturday (26).
 
-කෙසේ වෙතත් මෙම පුද්ගලයින්  එකම ස්ථානයකින් යම් බීමක් මත්ද්‍රව්‍යයක් , ලබා ගෙන ආහාරයට ගත්තා දැයි  යන්න පිළිබඳ තොරතුරු හා පරීක්ෂණ විමර්ශනය කරමින් පවතින බව වර්කාගොඩ පොලිසිය පවසයි.
+The deceased has been identified as Roshan Indika Perera (43) of the Ven.
 
-මියගිය තිදෙනාගේ සිරුරු මේ වන විට හොරණ දිස්ත්‍රික් රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මෘත ශරීර සම්බන්ධ  තවමත්  පරීක්‍ෂණ කටයුතු සිදු කරමින් පවතින බව හොරණ හදිසි මරණ පරීක්ෂක සුමේධ ගුණවර්ධන මහතා පැවසීය.
+In addition, another person in this area is currently receiving treatment at the Colombo National Hospital.
+
+However, Varcadagoda Police say that there is an investigation and investigations into the same place.
+
+The bodies of the three deceased have been placed at the Horana District hospital morgue and investigations are still under investigation.
 
 ◼️
 
 [Data](articles/db246899.json)
+
+[Extended Data](ext_articles/db246899.ext.json)
 
 ---
 
@@ -2287,23 +2321,5 @@ ECONOMYNEXT – If Sri Lanka desired a competitive economy, it must embrace comp
 [Data](articles/a020b5e3.json)
 
 [Extended Data](ext_articles/a020b5e3.ext.json)
-
----
-
-### Decision on removing salary disparities of university non-academic staff
-
-*2024-04-27 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98887/decision-on-removing-salary-disparities-of-university-non-academic-staff-) · `en`
-
-The Ministry of Education says that the cabinet memorandum submitted regarding the removal of salary disparities and allowances of the non-academic staff of state universities will be submitted to the ministerial sub-committee.
-
-The ministry also noted that accordingly, two Cabinet Memoranda are to be submitted to the Ministerial Sub-Committee in this regard.
-
-Thus, the cabinet memorandum regarding the removal of salary disparity and allowances of university non-academic staff will be submitted to the ministerial sub-committee on May 08, as per the Education Ministry.
-
-◼️
-
-[Data](articles/c6407c40.json)
-
-[Extended Data](ext_articles/c6407c40.ext.json)
 
 ---

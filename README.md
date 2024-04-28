@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 21:52:57**
+As of **2024-04-28 22:04:01**
 
 ## Newspaper Stats
 
-*Scraped **21,431** Articles*
+*Scraped **21,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ economynextcom | 1,214
 adalk | 1,792
 tamilmirrorlk | 2,482
 adaderanalk | 2,556
-virakesarilk | 3,218
-dailymirrorlk | 3,334
-adaderanasinhalalk | 3,470
+virakesarilk | 3,222
+dailymirrorlk | 3,335
+adaderanasinhalalk | 3,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,431 (100.0%) of 21,431 articles have been extended.
+21,431 (100.0%) of 21,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### හෙට සංවර්ධන නිලධාරීන් ලෙඩවෙයි
+
+*2024-04-28 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196064) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් හෙට දිනයේ අසනීප නිවාඩු වාර්තා කිරිමේ වෘත්තිය සමිති ක්‍රියාමාර්ගයක නිරත වීමට සංවර්ධන නිලධාරී වෘත්තීය සමිති සම්මේලනය තීරණය කර තිබේ.
+
+අද පැවති මාධ්‍ය හමුවක දී එම සම්මේලනයේ සභාපති අනුරාධ සෙනෙවිරත්න මහතා කියා සිටියේ දිවයින පුරා 14,000කට අධික ආර්ථික සංවර්ධන නිලධාරීන් මෙම ක්‍රියාමාර්ගයට එක්වන බවය.
+
+සිය ඉල්ලිම් සඳහා විසදුමක් ලබා නොදෙන්නේ නම් ආර්ථික සංවර්ධන නිලධාරින් මැයි මස 06 වැනිදා දින සිට සියලුම සේවාවන්වලින් ඉවත් වන බව ද  අනුරාධ සෙනෙවිරත්න මහතා පැවසීය.
+
+◼️
+
+[Data](articles/31d328c5.json)
+
+---
+
+### அங்கொடை லொக்காவின் சகா விமான நிலையத்தில் கைது!
+
+*2024-04-28 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182181) · `ta`
+
+அங்கொட லொக்கா என அழைக்கப்படும் மறைந்த பாதாள உலக முக்கிய நபரின் சகா ஒருவர் கட்டுநாயக்க விமான நிலையத்தில் கைது செய்யப்பட்டுள்ளார்.
+
+போலியான பயண ஆவணங்களுடன் நாட்டை விட்டு வெளியேற முற்பட்ட போதே இவர் கைது செய்யப்பட்டார்.
+
+விமான நிலையத்தில் புதிதாக பொருத்தப்பட்ட  நவீன கருவி ஊடான சோதனையின் போதே இவர் கைது செய்யப்பட்டதாக  பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/73f6e729.json)
+
+---
+
+### Ehelepola Walawwa to become first wax museum in Sri Lanka
+
+*2024-04-28 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ehelepola-Walawwa-to-become-first-wax-museum-in-Sri-Lanka/108-281510) · `en`
+
+Colombo, April 28 (Daily Mirror) - Following the transfer of the renovated Ehelepola Walawwa to the Sri Dalada Maligawa by the Urban Development Authority (UDA), it will be transformed into a wax figure museum, preserving its archaeological and cultural significance, Sri Dalada Maligawa Diyawadana Nilame Pradeep Nilanga Dela said.
+
+Wax figures will recreate the architecture of the Kandy era, along with the ritual culture, food culture, industries, and arts associated with the Ehelepola Walawwa.
+
+Additionally, life-size wax figures of national heroes such as Monarawila Keppetipola Disawe, Ehelepola Maha Adikaram, and Devendra Mulachari, along with members of the Ehelepola family and leaders who played significant roles in the Uva Wellassa Rebellion, are planned to be created.
+
+The Diyawadana Nilame said he believes this wax museum, which will show the beauty and pride of this country, will attract the attention of those both home and abroad.
+
+...
+
+[Data](articles/d18c61d9.json)
+
+---
+
+### රටින් පනින්න හැදූ පාතාලයා කොටුවෙයි
+
+*2024-04-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196063) · `si`
+
+ව්‍යාජ විදේශ ගමන් බලපත්‍රයක් භාවිත කරමින් විදේශගතවීමට තැත්කළ ප්‍රධාන පෙළේ පාතාල සාමාජිකයෙකු ව බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ ගුවන්තොටුපොළේ මෑතකදී  සවිකළ ස්වයංක්‍රීය හඳුනාගැනීමේ යන්ත්‍රය මගින් මෙම සැකකරුව හඳුනාගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/5bb83aff.json)
+
+---
 
 ### Underworld figure arrested with fake passport at BIA
 
@@ -45,6 +109,24 @@ The arrest has been made after the suspect was detected through the recently-ins
 [Data](articles/0dd013a9.json)
 
 [Extended Data](ext_articles/0dd013a9.ext.json)
+
+---
+
+### ரஷ்யாவில் இடம்பெற்ற பாதுகாப்பு கூட்டத்தில் ஜெனரல் கமல் குணரத்ன பங்கேற்பு
+
+*2024-04-28 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182163) · `ta`
+
+ரஷ்யாவின் செயின்ட் பீட்டர்ஸ்பர்க் நகரில் கூடிய பாதுகாப்பு விடயங்களுக்குப் பொறுப்பான உயர் அதிகாரிகளின் 12ஆவது சர்வதேச கூட்டத்தில் இலங்கையைப் பிரதிநிதித்துவப்படுத்தி பாதுகாப்பு செயலாளர் ஓய்வுபெற்ற கமல் குணரத்ன பங்குபற்றியுள்ளார்.
+
+ரஷ்யாவின் செயின்ட் பீட்டர்ஸ்பர்க் நகரில் கடந்த 22 ஆம் திகதி முதல் 25 ஆம் திகதி வரை நடைபெற்றுக் கொண்டிருக்கும் பாதுகாப்பு விடயங்கள் தொடர்பான  12ஆவது சர்வதேச கூட்டத்திற்கு உலகெங்கிலும் உள்ள உயர்மட்ட அதிகாரிகள் கலந்துக்கொண்டனர்.
+
+தற்போது நாடுகள் எதிர்கொள்ளும்  பாதுகாப்பு சவால்களைப் பற்றி விவாதிப்பதற்கும், அதற்கு தீர்வு காண்பதற்கும் உலகளாவிய தலைவர்களுக்கு இந்ந கூட்டம் ஒரு தளமாக விளங்குகிறது.
+
+இக்கூட்டத்தொடரின் ஓர்  அங்கமாக பாதுகாப்புச் செயலாளர் ஜெனரல் கமல் குணரத்னவுக்கும் ரஷ்ய கூட்டமைப்பின் பாதுகாப்புச் சபையின் செயலாளர் நிகோலாய் பட்ருஷேவுக்கும் இடையிலான இருதரப்பு கலந்துரையாடல் நடைபெற்றமை விஷேட அம்சமாகும்.
+
+...
+
+[Data](articles/312015ca.json)
 
 ---
 
@@ -91,6 +173,40 @@ Ahmedabad DGP Gujarat Vikas Sahay said that the consignment was not for India bu
 [Data](articles/5b47de56.json)
 
 [Extended Data](ext_articles/5b47de56.ext.json)
+
+---
+
+### காணிகளை அபகரித்து அந்நிய நாடுகளுக்கு விற்காதே! முத்து நகரில் மக்கள் போராட்டம்
+
+*2024-04-28 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/182180) · `ta`
+
+திருகோணமலை பட்டினமும் சூழலும் பிரதேச செயலக பிரிவுக்குட்பட்ட முத்து நகர் பகுதியில் விவசாய காணிகளை அபகரித்து அந்நிய நாடுகளுக்கு விற்க வேண்டாம் என கோரி கவனயீர்ப்பு போராட்டம் ஒன்று ஞாயிற்றுக்கிழமை (28) இடம்பெற்றது.
+
+1972ம் ஆண்டு ஸ்ரீமாவோ பண்டாரநாயக்க ஆட்சி காலத்தில்  அப்போதைய பிரதியமைச்சராக செயற்பட்ட  மறைந்த மர்ஹூம் ஏ எல் அப்துல் மஜீத் அவர்களால் முத்து நகர் பகுதியில் மீள்குடியேற்றப்பட்டது 1984ல் இலங்கை துறை முக அதிகார சபைக்கு  ஐக்கிய தேசிய கட்சி ஆட்சியின் போது துறை முக அமைச்சராக இருந்த லலித் அதுலத் முதலி அவர்களால் வர்த்தமாணி அறிவித்தல் விடுக்கப்பட்டது ஆனால் அம் மக்களுக்கு இது வரை காணி உரித்துப் பத்திரப் வழங்கப்படவில்லை எனவும் துறை முக அதிகார சபையினர் தங்களை தொடர்ந்தும் அச்சுறுத்துவதாகவும் ஆர்ப்பாட்டத்தில் ஈடுபட்ட மக்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/d8527b23.json)
+
+---
+
+### குஜராத் டைட்டன்ஸை வெளுத்துக் கட்டியது றோயல் செலஞ்சர்ஸ் பெங்களூரு; வில் ஜெக்ஸ், விராத் கோஹ்லி அபார துடுப்பாட்டங்கள்
+
+*2024-04-28 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182179) · `ta`
+
+அஹமதாபாத் நரேந்திர மோடி விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (28) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 45ஆவது போட்டியில் குஜராத் டைட்டன்ஸ் பந்துவீச்சாளர்களை வெளுத்துக்கட்டிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 4 ஓவர்கள் மீதம் இருக்க 9 விக்கெட்களால் அமோக வெற்றிபெற்றது.
+
+வில் ஜெக்ஸ் குவித்த சதம், விராத் கோஹ்லி குவித்த அரைச் சதம், அவர்கள் பகிர்ந்த 166 ஓட்டங்கள் என்பன றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியை வெற்றிபெறச் செய்தன.
+
+இந்தப் போட்டியில் தனது 3ஆவது வெற்றியை ஈட்டிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 6 புள்ளிகளுடன் அணிகள் நிலையில் தொடர்ந்தும் கடைசி இடத்தில் இருக்கிறது.
+
+அப் போட்டியில் குஜராத் டைட்டன்ஸினால் நிர்ணயிக்கப்பட்ட 201 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய றோயல் செலஞ்சர்ஸ் பெங்களூரு 16 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 206 ஓட்டங்களைப் பெற்று இலகுவாக வெற்றியீட்டியது.
+
+விராத் கோஹ்லி, அணித் தலைவர் பவ் டு ப்ளெசிஸ் (24) ஆகிய இருவரும் 23 பந்துகளில் 40 ஓட்டங்களைப் பகிர்ந்திருந்தபோது டு ப்ளெசிஸ் ஆட்டம் இழந்தார்.
+
+...
+
+[Data](articles/35994a07.json)
 
 ---
 
@@ -2211,169 +2327,5 @@ The people of the North East consider their victory as provincial councils after
 [Data](articles/59500574.json)
 
 [Extended Data](ext_articles/59500574.ext.json)
-
----
-
-### Fairly heavy showers expected in several provinces today
-
-*2024-04-28 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98891/fairly-heavy-showers-expected-in-several-provinces-today) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces and in Ampara district after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Northern and North-central provinces during the evening or night.
-
-Showers or thundershowers may occur at a few places over the coastal areas from Galle to Pottuvil via Hambantota during the morning too, it said.
-
-Fairly heavy showers above 75 mm are likely at some places in Western, Sabaragamuwa and Southern provinces.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6a0b3c38.json)
-
-[Extended Data](ext_articles/6a0b3c38.ext.json)
-
----
-
-### Three killed in accidents
-
-*2024-04-28 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196045) · `si`
-
-Three people died in accidents: a man in Pettah, a 29-year-old in Dompe, and a 42-year-old in Anuradhapura-Puttalam.
-
-🟩
-
-A man was killed in an accident in the second cross-street, Olcott Mawatha, Pettah.
-
-The accident had occurred when a motorcycle was shifted by the pedestrian shift.
-
-The identity of the deceased has not yet been established, police said.
-
-The motorcyclist has been arrested and the Pettah Police are conducting further investigations.
-
-Meanwhile, a 29-year-old man was killed in an accident in Ukkotuwela road along the Pulapalawa road in Dompe, Pulapalawa road.
-
-The accident had occurred in a lorry that the collapse of a motorcycle was hit and collided with a lorry.
-
-Meanwhile, a 42-year-old man was killed in an accident in Pandulagama road on the Anuradhapura-Puttalam road.
-
-The accident had occurred when a motorcycle collided with a bus.
-
-◼️
-
-[Data](articles/64e9444b.json)
-
-[Extended Data](ext_articles/64e9444b.ext.json)
-
----
-
-### Inspector General of Police
-
-*2024-04-28 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196044) · `si`
-
-The Inspector General of Police (IGP) has taken over a committee investigating delays in police officer increments and promotions, led by Senior DIG Ajith Rohana. The IGP aims to expedite disciplinary procedures and solutions.
-
-🟩
-
-The committee has been handed over to the IGP for the delay in the delay in police officers.
-
-Police Headquarters stated that IGP has handed over the committee's report to expedite disciplinary procedure and resolving solutions and recommendations.
-
-A committee headed by Senior DIG of Eastern Province Ajith Rohana was appointed as the delay of officers such as the delay in the officers, increments, increments and promotions of the police officers against the police officers.
-
-Deputy Inspector General of Police Counsel Ruwan Gunasekara, DIG Attorney General Jali Senaratne, Director of Human Resources Management SSP WPJ Gunasekara. Senadheera and the Director of the Discipline and Comin Department of Discipline and Commerce Division include the relevant committee.
-
-The committee's recommendations are to be implemented expeditiously, the police headquarters added.
-
-◼️
-
-[Data](articles/0ae82630.json)
-
-[Extended Data](ext_articles/0ae82630.ext.json)
-
----
-
-### Unveiling the dark reality: Sri Lanka’s deepening drug crisis
-
-*2024-04-28 06:53:00* · [`islandlk`](http://island.lk/unveiling-the-dark-reality-sri-lankas-deepening-drug-crisis/) · `en`
-
-Robert Frost once wrote, ‘Home is the place where, when you have to go there, they have to take you in.’ It’s a place like Hotel California in the popular Eagles song by that name — you can check out any time you like but you can never leave.
-
-It’s all about family. The prodigal son or daughter can return. And when they do, other residents cannot pack their bags and leave, however distasteful the returnee has turned out to be or the returning is.
-
-And even if they are far away, ‘family’ remains, in our thoughts and in our hearts, whether they are ‘prodigal’ or not. Indeed, while there are degrees of prodigality or extravagant behaviour that displease friends and relatives, few things can make people grieve as extreme addiction to narcotics and alcohol. It is a ‘family matter’ unlike anything else. It is in fact a household matter wherever the addict may reside.
-
-...
-
-[Data](articles/ca21bf6f.json)
-
-[Extended Data](ext_articles/ca21bf6f.ext.json)
-
----
-
-### Another medal to Sri Lanka
-
-*2024-04-28 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196043) · `si`
-
-Sri Lanka secured a 4x400m victory in the Under-20 Asian Athletics Championship.
-
-🟩
-
-Sri Lanka won the 4x400 incident in the Under-20 Asian Athletics Championship.
-
-◼️
-
-[Data](articles/b6d15dca.json)
-
-[Extended Data](ext_articles/b6d15dca.ext.json)
-
----
-
-### Rains today even afternoon
-
-*2024-04-28 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196042) · `si`
-
-Rain expected in Western, Sabaragamuwa, Southern, North Western, and Uva provinces, and Ampara, Batticaloa districts. Showers or thundershowers in North, North-Central, and coastal areas from Galle to Hambantota. Heavy rains in some locations, potentially lasting a long time. Public advised to take precautions against wind and lightning.
-
-🟩
-
-Today is the Western, Sabaragamuwa, Southern, Southern, Southern, North Western and Uva provinces and in Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places, about 2.00.
-
-Showers or thundershowers will occur at several places in the North and North-Central provinces.
-
-Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota.
-
-Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota via Pottuvil.
-
-Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. The Department of Meteorology is prevailing that heavy rains will occur at more than 75.
-
-Some locations in the Sabaragamuwa, Central and Uva provinces can last a murder.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1d791e43.json)
-
-[Extended Data](ext_articles/1d791e43.ext.json)
-
----
-
-### REVIEW OF A BOOK BY RANJAN GOONERATNE
-
-*2024-04-28 05:19:00* · [`islandlk`](http://island.lk/review-of-a-book-by-ranjan-gooneratne/) · `en`
-
-Ranjan Gooneratne, who Ranjan Gooneratne, who practices law in a legal environment in Sri Lanka unrecognizable to the one in which he received his training over six decades ago, has written a book deploring the depths to which this once majestic profession has fallen.
-
-Gooneratne was born during colonial times to an elite Ceylonese legal family. His father was the late A. C. Gooneratne, Q.C., a former President of the Bar Council of Ceylon. The son was always drawn to the intellectual approach of the profession displayed by his father, who instilled in him the belief that discipline and hard work were the only paths to success in a noble profession.
-
-...
-
-[Data](articles/0733fbe7.json)
-
-[Extended Data](ext_articles/0733fbe7.ext.json)
 
 ---

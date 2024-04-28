@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 20:18:27**
+As of **2024-04-28 20:34:14**
 
 ## Newspaper Stats
 
-*Scraped **21,421** Articles*
+*Scraped **21,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,82 @@ adalk | 1,791
 tamilmirrorlk | 2,482
 adaderanalk | 2,555
 virakesarilk | 3,218
-dailymirrorlk | 3,327
+dailymirrorlk | 3,330
 adaderanasinhalalk | 3,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,416 (100.0%) of 21,421 articles have been extended.
+21,421 (100.0%) of 21,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### ஊழியர் சேமலாப நிதியத்தின் வட்டியை 13% அதிகரிக்க நடவடிக்கை - நிதி அமைச்சு
+### Action to increase the interest of the Employees Provident Fund 13% - Ministry of Finance
 
 *2024-04-28 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182178) · `ta`
 
-ஊழியர் சேமலாப நிதியத்தின் மிகுதிகளுக்கு தற்போது வழங்கப்படுகின்ற 09 சதவீத வட்டியை 13 சதவீதமாக அதிகரிக்க நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது. குறுகிய அரசியல் நோக்கத்துக்காக எதிர்தரப்பினர் முன்வைத்த குற்றச்சாட்டுக்கள் பொய்யாக்கப்பட்டுள்ளன என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+The Ministry of Finance has increased the Employees Provident Fund's interest rate from 9% to 13%, refuting opposition claims. This change was made to stabilize the country's financial position amidst economic impacts.
 
-கேகாலை பகுதியில் ஞாயிற்றுக்கிழமை (28) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-பொருளாதார பாதிப்புக்கு மத்தியில் நாட்டின் நிதி நிலையை ஸ்திரப்படுத்துவதற்காக தேசிய கடன்கள் மறுசீரமைக்கப்பட்டன. இதன்போது ஊழியர் சேமலாப நிதியம் மற்றும் ஊழியர் நம்பிக்கை நிதியத்தின் வட்டி வீதத்தில் தற்காலிக மாற்றம் ஏற்படுத்தப்பட்டது.
+Steps have been taken to increase the 9 per cent interest rate on the existing rates of the Employees Provident Fund to 13 percent. Finance Minister Ranjith Siyambalapitiya says that the allegations made by the opposition for short political purpose have been false.
 
-ஊழியர் சேமலாப நிதியத்தை இல்லாதொழிக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளதாக அடிப்படையற்ற வகையில் குற்றச்சாட்டுக்கள் முன்வைக்கப்பட்டன.2023 ஆம் ஆண்டு பாராளுமன்றத்தின் அனுமதியுடன் ஊழியர் சேமலாப நிதியத்துக்கான வட்டி 09 சதவீதமாக வரையறுக்கப்பட்டது.
+He was speaking to the media after attending a function held on Sunday (28) in Kegalle.
+
+National loans were renovated to stabilize the country's financial position amidst economic impact. A temporary change was made in the interest rate of the Employees Provident Fund and the Employees Trust Fund.
+
+In the year 2013, the interest of the Employees Provident Fund was limited to 9 percent with the permission of Parliament in 2013.
+
+The country's financial situation has now been stabilized, so it has taken appropriate measures to increase this 9 percent interest by 13 per cent.
 
 ...
 
 [Data](articles/8f13bfe2.json)
+
+[Extended Data](ext_articles/8f13bfe2.ext.json)
+
+---
+
+### Chaotic moment man runs onto tarmac before trying to board Sri Lanka-bound flight at Sydney airport
+
+*2024-04-28 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chaotic-moment-man-runs-onto-tarmac-before-trying-to-board-Sri-Lanka-bound-flight-at-Sydney-airport/108-281508) · `en`
+
+April 28 (nypost) - A brazen intruder was captured walking across a jet bridge and onto a busy tarmac before he tried to board a nearby plane at an Australian airport.
+
+The unidentified 30-year-old man allegedly bolted through the screening area to breach security at the Sydney International Airport on Friday, 9 News reported.
+
+The Australian Federal Police say they were able to stop the man as he was moseying his way toward the tarmac.
+
+“AFP officers arrested a man, 30, who allegedly ran through the main screening area and gained access to restricted areas, including the apron,” said in a statement to the outlet.
+
+An apron connects the terminal buildings with the airfield, where baggage and passengers board a plane.
+
+Witnesses claimed they saw the man run through the airport’s immigration control area and onto the airport’s apron.
+
+He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flight but was thwarted by baggage handlers.
+
+...
+
+[Data](articles/9aac370b.json)
+
+---
+
+### Interest rate on EPF increased to 13%: Siyambalapitiya
+
+*2024-04-28 19:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Interest-rate-on-EPF-increased-to-13-Siyambalapitiya/108-281507) · `en`
+
+Yatiyantota, April 28 (Daily Mirror)- Steps have been taken to increase the interest rate of the Employee's Provident Fund (EPF) from the existing 9 percent to 13 percent with effect from 2013, State Minister of Finance Ranjith Siyambalapitiya said.
+
+He told reporters in Yatiyantota that the EPF is the largest fund in the country with 2.7 million members.
+
+The interest paid to the EPF was reduced from 13 percent to 9 percent under the domestic debt restructuring process.
+
+◼️
+
+[Data](articles/809e13c5.json)
 
 ---
 
@@ -66,43 +114,57 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 [Data](articles/1c91a6f1.json)
 
+[Extended Data](ext_articles/1c91a6f1.ext.json)
+
 ---
 
-### வைத்தியசாலைக்கு செல்லும் வழியிலேயே சிறுமியின் உயிர் பிரிந்தது
+### On the way to the hospital, the little girl's life was broken
 
 *2024-04-28 19:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைக்கு-செல்லும்-வழியிலேயே-சிறுமியின்-உயிர்-பிரிந்தது/175-336460) · `ta`
 
-யாழ்ப்பாணம் - ஆவரங்கால் கிழக்கைச் சேர்ந்த ஜெயச்சந்திரன் சஸ்மிதா என்ற 5 வயதான சிறுமி காய்ச்சல் மற்றும் சத்தி காரணமாக சிகிச்சை பெறுவதற்காக வைத்தியசாலைக்கு போகும் வழியிலேயே உயிரிழந்துள்ளார்.
+Jayachandran Sasmita, 5, died en route to Achuveli Divisional Hospital for fever treatment. Her body will be autopsied at Jaffna Teaching Hospital.
 
-சில தினங்களுக்கு முன்னர் குறித்த சிறுமி உடல் இயலாமை (காய்ச்சல் காரணமாக )காரணமாக அச்சுவேலி பிரதேச வைத்தியசாலைக்கு சென்று சிகிச்சை பெற்றுவிட்டு  வீடு திரும்பியுள்ளார்.
+🟩
 
-இந்த நிலையில் இன்று உடல் நிலை மோசமாகவே பெற்றோர் சிறுமியை அச்சுவேலி பிரதேச வைத்தியசாலைக்கு மீண்டும் கொண்டு சென்றபோதே சிறுமி உயிரிழந்தார்.
+A 5 -year -old girl named Jayachandran Sasmita from Jaffna - Awarangal East has died on the way to the hospital for treatment of fever and fever.
 
-உயிரிழந்த சிறுமியின் சடலம் அச்சுவேலி பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ள நிலையில், பிரேத பரிசோதனைக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு அனுப்பி வைக்கப்படவுள்ளது
+A few days ago, the girl had gone to the Achuveli Divisional Hospital due to physical disability (fever) and returned home after being treated.
 
-பிரேத பரிசோதனைக்கு பின்னரே உயிரிழப்புக்கான காரணம் தெரியவரும். சம்பவம் தொடர்பாக அச்சுவேலி பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர். R
+The girl died when the parents were taken back to the Achchuveli Divisional Hospital.
+
+The body of the deceased is to be sent to the Jaffna Teaching Hospital for autopsy.
+
+The cause of death will be revealed only after the autopsy. Achuveli police have begun investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/7a35de32.json)
 
+[Extended Data](ext_articles/7a35de32.ext.json)
+
 ---
 
-### සහල් සිද්ධිය ගැන කඩිනම් පරීක්ෂණයක්
+### A probe investigation into rice incident
 
 *2024-04-28 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196061) · `si`
 
-අඩු ආදායම්ලාභී පවුල් වෙත නොමිලේ සහල් බෙදාදීමේ රජයේ වැඩසටහනේදී එල්ලවන චෝදනා සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් පවත්වන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ ලේකම්වරයා අදාළ දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබාදී තිබේ.
+The Secretary of the Ministry of Public Administration has ordered immediate investigations into allegations of free rice distribution to low-income families, due to expired rice and charges. The Ministry plans to deploy employees to ensure the program's integrity. Ada Derana reported on these events.
 
-ඒ කල් ඉකුත් වූ සහල් බෙදාදෙන බවටත්, සහල් වෙනුවෙන් මුදල් අයකරන බවටත් ප්‍රෙද්ශ කිහිපයකින් චෝදනා එල්ලවී ඇති පසුබිමකය.
+🟩
 
-රාජ්‍ය පරිපාලන අමාත්‍යාංශ ලේකම්වරයා අද දෙරණට සඳහන් කළේ වැඩසටහන අක්‍රමිකතාවලින් තොරව සිදුකිරීම සඳහා අමාත්‍යාංශ මට්ටමින් නිරීක්ෂණ කණ්ඩායමක්ද යෙදවීමට පියවර ගන්නා බවය.
+The Secretary to the Ministry of Public Administration has instructed the relevant District Secretaries to conduct an immediate investigation into the allegations of free rice distribution of low income families.
 
-රජය විසින් නොමිලේ බෙදාහරින සහල් සඳහා  මුදල් අයකිරීම් මෙන්ම  ගුණාත්මකභාවයෙන් අඩු සහල් බෙදාදීමේ  සිදුවීම් පිළිබඳව අද දෙරණ ඊයේ වාර්තා කළේය.
+The backdrop of the setting as a result of those expired rice and charges for rice.
+
+The Secretary of the Ministry of Public Administration has stated to Ada Derana that steps will be taken to deploy a group of employees at the Ministry level in order to perform the program without malpractices.
+
+Ada Derana reported on events to distribute money for free rice freely distributed rice.
 
 ◼️
 
 [Data](articles/f695a10b.json)
+
+[Extended Data](ext_articles/f695a10b.ext.json)
 
 ---
 
@@ -934,6 +996,8 @@ The Registrar General’s Department points out that this situation will adverse
 
 [Data](articles/1e7f43b2.json)
 
+[Extended Data](ext_articles/1e7f43b2.ext.json)
+
 ---
 
 ### Sri Lanka’s population dynamics at risk, Registrar General’s Department warns
@@ -1079,6 +1143,18 @@ The Registrar General's Department points out that this situation will adversely
 [Data](articles/418128e5.json)
 
 [Extended Data](ext_articles/418128e5.ext.json)
+
+---
+
+### Happy Life...
+
+*2024-04-28 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Happy-Life/110-281502) · `en`
+
+The 'City Pet Animal Hospital', Pelawatta branch, celebrated their third anniversary of compassionate care and dedication to pets under the theme 'Happy Life'. Several programms such as the rabies vaccination programme, the cats and dogs fashion show and live photo printing, were held to mark the event. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/371be10a.json)
 
 ---
 
@@ -2275,79 +2351,5 @@ The Minister of State has stated that it is being discussed with the Finance Min
 [Data](articles/28083d3f.json)
 
 [Extended Data](ext_articles/28083d3f.ext.json)
-
----
-
-### The telephone business has full confidence in the business community
-
-*2024-04-28 01:33:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-சமூகம்-மீது-முழு-நம்பிக்கை-உண்டு/175-336418) · `ta`
-
-President Ranil Wickremesinghe expressed confidence in Sri Lanka's business community, aiming for an export economy based on the market economy. He emphasized the need for the people to decide Sri Lanka's future direction, focusing on market forces for economic development.
-
-🟩
-
-The purpose of the government is to create an export economy based on the market economy. President Ranil Wickremesinghe stressed that he has full confidence in the business community of this country.
-
-The President was speaking at the Annual Conference of the 3220 International Rotary Corporation of Sri Lanka and the Maldives held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday.As he further stated,
-
-We are forced to decide the path to travel to Sri Lanka. The people of this country must decide which way we should go. Shall we move from here?Shall we stand here?Or you have to decide whether to go backwards.
-
-Asked what are your plans for a young man I met today. What plans have you made for the educated people of this country?What plans do you have to improve the country's physical infrastructure?I said there was no such plan like that. I told him that I could only think about the market economy.
-
-...
-
-[Data](articles/fe97901f.json)
-
-[Extended Data](ext_articles/fe97901f.ext.json)
-
----
-
-### New Year Celebration Syrian 2024
-
-*2024-04-28 01:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசத்-சிரிய-2024-புத்தாண்டுக்-கொண்டாட்டம்/175-336417) · `ta`
-
-The 'Vasad Syria - 2024' New Year celebration in Colombo, organized by President Ranil Wickremesinghe's team, featured competitions and was attended by staff, families, and friends from across the country. President Wickremesinghe visited the event and interacted with attendees.
-
-🟩
-
-The 'Vasad Syria - 2024' Sinhala and Tamil New Year celebration commenced yesterday at the Shankrila Green Ground in Colombo and participated in the event from the beginning.
-
-In accordance with President Ranil Wickremesinghe's directive, the President's Senior Advisor and Presidential Task Force Chief Sagala Ratnayake and President's Secretary Saman Ekanayake organized the New Year celebration with ministries and state institutions.
-
-Several competitions were held under 03 sections of the State Department, Open Department and Guest Department. It is attended by staff of ministries and state institutions, their families, friends and people from different parts of the country.
-
-President Ranil Wickremesinghe, who visited the site of the New Year celebration yesterday, discussed with the people there.. He also visited some matches.
-
-The President, who visited the village house and medical house, visited them and spoke to the foreigners who had come to see them.. (A)
-
-◼️
-
-[Data](articles/3a40b6e1.json)
-
-[Extended Data](ext_articles/3a40b6e1.ext.json)
-
----
-
-### Welcome to
-
-*2024-04-28 01:21:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-அமோக-வரவேற்பு/175-336416) · `ta`
-
-Anura Kumara Dissanayake, leader of the National People's Power, traveled to Sweden on 25th for events including a people's meeting, welcomed by Sri Lankans. He will participate in the Swedish Finance Committee's event and engage in public meetings.
-
-🟩
-
-Anura Kumara Dissanayake, the leader of the National People's Power, who had gone to Sweden to attend some events, including the people's meeting, was welcomed.
-
-Anuragumara traveled towards Sweden on the 25th. He was welcomed by Sri Lankans in Sweden at the Sweden airport.
-
-Anuragumara Dissanayake will be participating in the event organized by the Swedish Finance Committee of the National People's Power.
-
-The National People's Power has said that during his stay in Sweden, Anuragumara will participate in discussions, including several public meetings.. (A)
-
-◼️
-
-[Data](articles/93ea8559.json)
-
-[Extended Data](ext_articles/93ea8559.ext.json)
 
 ---

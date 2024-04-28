@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 11:34:19**
+As of **2024-04-28 11:53:24**
 
 ## Newspaper Stats
 
-*Scraped **21,346** Articles*
+*Scraped **21,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,147 @@ dbsjeyarajcom | 227
 newsfirstlk | 363
 islandlk | 1,163
 dailyftlk | 1,202
-economynextcom | 1,209
-adalk | 1,778
-tamilmirrorlk | 2,470
+economynextcom | 1,210
+adalk | 1,779
+tamilmirrorlk | 2,475
 adaderanalk | 2,545
-virakesarilk | 3,204
+virakesarilk | 3,207
 dailymirrorlk | 3,322
-adaderanasinhalalk | 3,455
+adaderanasinhalalk | 3,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,346 (100.0%) of 21,346 articles have been extended.
+21,346 (99.9%) of 21,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### ඩුබායි මත්ද්‍රව්‍ය ජාලයක තවත් පුරුකක් අල්ලයි
+
+*2024-04-28 11:36:13* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-මත්ද්‍රව්‍ය-ජාලයක-තවත්-පුරුකක්-අල්ලයි/11-409295) · `si`
+
+ඩුබායි රාජ්‍යයේ සිට මෙරට මෙහෙයවන මහා පරිමාණ මත්ද්‍රව්‍ය ජාලයකට අයත් බව පැවසෙන රුපියල් කෝටි විස්සකට අධික වටිනාකමින් යුත් හෙරොයින් කිලෝ හතයි ග්‍රෑම් හැටක්  සමග පුද්ගලයෙකු (27) දා අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරු කටුගස්තොට ප්‍රදේශයේ සිට මහරගම නාවින්න සමගි මාවත ප්‍රදේශයට මීට මාස තුනකට පමණ පෙර පැමිණ එහි නිවසක් රුපියල් 45,000 මාසික කුලී පදනම මත ලබාගෙන හෙරොයින් ජාවාරම ජයටම කරගෙන ගොස් ඇති බව පොලිසිය කියයි.
+
+මෙම වැටලීම පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක යුක්තිය මෙහෙයුමට සමගාමීව බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසයට අනුයුක්තව පිහිටුවන ලද සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ  විශේෂ කණ්ඩායමේ පොලිස් පරීක්ෂක වීරසිංහ මහතාට ලද තොරතුරකට අනුව සිදුකර තිබුණි.
+
+...
+
+[Data](articles/9893a44e.json)
+
+---
+
+### 450 சிசி திறன் கொண்ட மோட்டார் சைக்கிளைப் பதிவு செய்வதற்கு போக்குவரத்து திணைக்களம் தீர்மானம்!
+
+*2024-04-28 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182123) · `ta`
+
+450 சிசிக்கு மேற்பட்ட எஞ்சின் வலு கொண்ட பத்தாயிரம் மோட்டார் வண்டிகளை  பதிவு செய்ய மோட்டார் போக்குவரத்து திணைக்களம் முடிவு செய்துள்ளது.
+
+இதற்காக போக்குவரத்து அமைச்சு மற்றும்  பொதுமக்கள் பாதுகாப்பு அமைச்சு இணைந்து அமைச்சரவை அறிக்கையை  தயாரித்துள்ளதுடன், இந்த அறிக்கையானது சில வாரங்களில் அமைச்சரவையில் சமர்ப்பிக்கப்படவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சுங்க வரி செலுத்தாமல் இலங்கைக்கு கொண்டு வரப்பட்ட பதிவு செய்யப்படாத பத்தாயிரத்திற்கும் மேற்பட்ட மோட்டார் சைக்கிள்கள் காணப்படுவதாக தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/bdfc90d5.json)
+
+---
+
+### காசாவில்  இஸ்ரேலின் தாக்குதலில் கவிஞரின் மகள் குடும்பத்துடன் பலி - டிசம்பரில் தந்தை பலி
+
+*2024-04-28 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182133) · `ta`
+
+இஸ்ரேலிய படையினர் காசாவின் மேற்கில் உள்ள வீடொன்றின் மீது  மேற்கொண்ட விமானதாக்குதலில்  பாலஸ்தீனத்தை சேர்ந்த பிரபல கவிஞரின் மகள் சைமா ரெவாட் அலரீர் கொல்லப்பட்டுள்ளார்.
+
+நான்கு மாதங்களிற்கு முன்னர் தந்தை இதேபோன்ற தாக்குதலில் கொல்லப்பட்ட நிலையில் மகளும் கொல்லப்பட்டுள்ளார்.
+
+இஸ்ரேல் குறிப்பிட்ட வீட்டை இலக்குவைத்து பலதடவை  மேற்கொண்ட தாக்குதலில்  அலரீரும் கணவரும் அவர்களின் இரண்டு வயது மகனும் கொல்லப்பட்டதாக  சிஎன்என் தெரிவித்துள்ளது.
+
+அவர்கள் தஞ்சமடைந்திருந்த வீட்டை மூன்று ஏவுகணைகள் தாக்கின என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+டிசம்பரில் சுஜாயாவில் உள்ள வீட்டின் மீது இஸ்ரேல் மேற்கொண்ட விமானதாக்குதலில் தனது குடும்பத்தை சேர்ந்த பலருடன் கொல்லப்பட்ட கவிஞர் ரெபாட் அலரீரின் மகள் சைமா என்பது குறிப்பிடத்தக்கது.
+
+இந்த தாக்குதலை தொடர்ந்து கவிஞரின் மகள் இடம்பெயர்ந்து  தங்கியிருந்த வீட்டின் மீதே தாக்குதல் இடம்பெற்றுள்ளது.
+
+தாக்குதல் இடம்பெற்றதும் பொதுமக்கள் அந்த வீட்டை நோக்கி ஓடுவதையும் கொல்லப்பட்டவர்களின் உடல்களை சுற்றி காணப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/ecdb778f.json)
+
+---
+
+### தடுப்பு முகாமிலிருந்து தப்பிச் சென்ற எகிப்தியர்  கண்டியில் கைது!
+
+*2024-04-28 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182130) · `ta`
+
+வீசா இன்றி காணப்பட்ட எகிப்திய பிரஜையொருவர் குடிவரவு - குடியகல்வு அதிகாரிகளால் கைது செய்யப்பட்டு  தடுத்து வைக்கப்பட்டிருந்தபோது அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நாட்டை விட்டு இவரை வெளியேற்றும் வரை தடுப்பு முகாமில் வைக்கப்பட்டிருந்த நிலையில் கடந்த 13ஆம் திகதி தப்பிச் சென்றுள்ளதாக தெரிவித்துள்ளனர்.
+
+இவ்வாறு,  தப்பிச் சென்ற எகிப்தியர் கண்டி பிரதேசத்தில் உள்ள ஏ. ஏ. தர்மசேன மாவத்தையில் அமைந்துள்ள விடுதியொன்றில் தங்கியுள்ளதாக குடிவரவு - குடியகல்வு  புலனாய்வுப் பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் குடிவரவு குடியகல்வு அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/c4cb762a.json)
+
+---
+
+### மனித முகத்துடன் ஆட்டுக்குட்டி
+
+*2024-04-28 11:19:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனித-முகத்துடன்-ஆட்டுக்குட்டி/175-336435) · `ta`
+
+இந்த ஆட்டுக் குட்டி முகம் மட்டுமின்றி, இரு கை, இரு கால்களை போன்று மனித உடலமைப்பையே கொண்டிருந்தது. இதை அறிந்த அக்கம் பக்கத்தினர் மக்கள், ஆச்சரியத்துடன் பார்த்துச் செல்கின்றனர்.
+
+இது தொடர்பான புகைப்படங்களும் சமூகவலைதளங்களில் பரவத் தொடங்கியது. ஆனால், ஆட்டுக்குட்டி பிறந்து அரை மணி நேரத்தில் உயிரிழந்ததுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/423f90d1.json)
+
+---
+
+### කොරියාවේ පදිංචියට යන පුවත ගැන මෛත්‍රීගෙන් ප්‍රකාශයක්
+
+*2024-04-28 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196048) · `si`
+
+තමන් ‍දකුණු කොරියාවේ පදිංචියට යන බවට පළවන වාර්තා අසත්‍ය බව හිටපු ජනාධිපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ තමන්ට දකුණු කොරියාවේ හෝ ලෝකයේ කිසිදු රටක පදිංචියට යාමට අවශ්‍යතාවක් නොමැති බවය.
+
+නිවේදනයක් නිකුත් කරමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පෙන්වා දෙන්නේ දේශපාලන ප්‍රතිවාදීන් විසින් ගෙනයන මෙවැනි ආකාරයේ අසත්‍ය ප්‍රචාර තරයේ ප්‍රතික්ෂේප කරන බවය.
+
+අධිකරණයෙන් වාරණ නියෝගයක් පවතින බැවින් පක්ෂයේ බලයලත් නිලධාරීන් විසින් ගම්පහ නගර සභා භූමියේ දී ලෝක කම්කරු දිනය සාර්ථකව පැවැත්වීමට සියලු කටයුතු මේ වන විටත් සංවිධානය කර ඇති බව ද මෛත්‍රීපාල සිරිසේන මහතා සිය නිවේදනය මගින් වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ee3fc69e.json)
+
+---
+
+### வெங்காயம் ஏற்றுமதி செய்ய மத்திய அரசு அனுமதி
+
+*2024-04-28 10:50:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெங்காயம்-ஏற்றுமதி-செய்ய-மத்திய-அரசு-அனுமதி/175-336431) · `ta`
+
+பங்களாதேஷ், ஐக்கிய அரபு இராச்சியம், பூட்டான், பஹ்ரைன், மொரிசியஸ் மற்றும் இலங்கை ஆகிய 6 நாடுகளுக்கு 99,150 மெட்ரிக் தொன் வெங்காயத்தை ஏற்றுமதி செய்ய இந்திய மத்திய அரசு அனுமதி அளித்துள்ளது.
+
+2023-24 ஆம் ஆண்டில் கரீஃப் மற்றும் ரபி பயிர்கள் முந்தைய ஆண்டை விட குறைவாக மதிப்பிடப்பட்டதன் பின்னணியில், சர்வதேச சந்தையில் தேவை அதிகரித்ததன் காரணமாக இந்த முடிவு எடுக்கப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது.
+
+ஏற்றுமதியை எளிதாக்க, தேசிய கூட்டுறவு ஏற்றுமதி லிமிடெட் (NCEL) இந்த நாடுகளுக்கு வெங்காயத்தை ஏற்றுமதி செய்யும் பொறுப்பாக நியமிக்கப்பட்டுள்ளது.
+
+மேலும், மத்திய கிழக்கு மற்றும் சில ஐரோப்பிய நாடுகளின் ஏற்றுமதி சந்தைகளுக்காக குறிப்பாக பயிரிடப்படும் 2000 MT வெள்ளை வெங்காயத்தை ஏற்றுமதி செய்ய அரசாங்கம் அனுமதித்துள்ளது.
+
+அதிக விதைச் செலவுகள், நல்ல விவசாய நடைமுறைகளைக் கடைப்பிடிப்பது மற்றும் கடுமையான அதிகபட்ச வரம்புத் தேவைகளுக்கு இணங்குதல் போன்ற காரணங்களால் வெள்ளை வெங்காயத்தின் உற்பத்திச் செலவு அதிகமாக உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/768c5d2e.json)
+
+---
 
 ### Teen girl injured in Minneriya shooting dies
 
@@ -91,6 +215,48 @@ The Army has confirmed that 13 army deserters currently abroad are also among th
 [Data](articles/74fd8af6.json)
 
 [Extended Data](ext_articles/74fd8af6.ext.json)
+
+---
+
+### மல் கமலா கைது
+
+*2024-04-28 10:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மல்-கமலா-கைது/76-336429) · `ta`
+
+ஹெரோய்ன் போதைப்பொருள் விற்பனை செய்ததாக கூறப்படும் பெண்ணொருவர், கெட்டம்பே, ராஜோபா வானராம விகாரைக்கு முன்பாக பூக்கடை ஒன்றை நடத்திக் கொண்டிருந்த போது இரண்டு கிராம் ஹெரோய்ன் போதைப்பொருளுடன் கைது செய்யப்பட்டதாக கண்டி ஊழல் ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
+
+மல் கமலா என்ற பெண், பூக்களுக்கு அடியில் வைத்து தனக்குத் தெரிந்த வாடிக்கையாளர்களுக்கு ஹெராய்ன் போதைப்பொருள் விற்பனை செய்தது பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+சனிக்கிழமை (27) கைது செய்யப்பட்ட பெண்ணின் இரண்டு மகன்களும் ஹெரோய்ன் போதைப்பொருள் கடத்தல் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கண்டி பிரதேசத்திற்கு பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர் அனுருத்த பண்டாரநாயக்கவின் பணிப்புரைக்கு அமைய விசேட பொலிஸ் குழுவொன்று மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றது.
+
+◼️
+
+[Data](articles/80f99bdf.json)
+
+---
+
+### இடியுடன் கூடிய பலத்த மழை பெய்யும்
+
+*2024-04-28 10:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-பலத்த-மழை-பெய்யும்/175-336428) · `ta`
+
+நாட்டின் பல இடங்களில் இன்று (28) பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, மேல், சப்ரகமுவ, மத்திய, தெற்கு, வடமேல் மற்றும் ஊவா மாகாணங்களிலும் அம்பாறை, மட்டக்களப்பு மாவட்டங்களிலும் இன்று பிற்பகல் 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக்கூடும் என திணைக்களம் அறிவித்துள்ளது.
+
+அத்தோடு, வடக்கு, வடமத்திய மாகாணங்களில் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் இடியுடன் கூடிய மழை பெய்யலாம்.
+
+காலியில் இருந்து ஹம்பாந்தோட்டை ஊடாக பொத்துவில் வரையான கடற்பரப்புக்களில் காலை வேளையில் இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும்.
+
+சப்ரகமுவ, மத்திய, ஊவா மாகாணங்களில் சில இடங்களில் காலையில் பனிமூட்டமான நிலை காணப்படலாம்.
+
+மழையின்போது தற்காலிகமாக பலத்த காற்று, மின்னல் தாக்கங்கள் ஏற்படும் சந்தர்ப்பங்களில் எச்சரிக்கையுடன் செயற்படுமாறு பொதுமக்கள் கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/1dc24514.json)
 
 ---
 
@@ -165,6 +331,22 @@ Sri Lanka women's group beat Thailand's group by 67 runs in the first match part
 [Data](articles/e8b22f1b.json)
 
 [Extended Data](ext_articles/e8b22f1b.ext.json)
+
+---
+
+### 37 கி.கி தங்கம் கடத்தல்: ஐவருக்கு வலை
+
+*2024-04-28 09:56:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-கி-கி-தங்கம்-கடத்தல்-ஐவருக்கு-வலை/175-336425) · `ta`
+
+கற்பிட்டியில் 37 கிலோ தங்கம் கொள்ளையடிக்கப்பட்ட சம்பவம் தொடர்பில் தேடப்பட்டு வரும் சந்தேக நபர்கள் ஐவரை கைது செய்வதற்காக,  இலங்கை பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+கடந்த வருடம் நவம்பர் மாதம் கற்பிட்டி பிரதேசத்தில் நபர் ஒருவரை கடத்தி 37 கிலோ கிராம் தங்கத்தை திருடிய  சம்பவம்  தொடர்பில் கற்பிட்டி சுற்றுவட்ட நீதவான் நீதிமன்றத்தினால் பெயரிடப்பட்டுள்ள சந்தேகநபர்கள் ஐவரை பொலிஸாரால்   தேடப்பட்டு வந்த நிலையில் குறித்த  ஐவரும்  தமது வீடுகளை விட்டு தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+மேலும்  சந்தேகநபர்கள் தொடர்பில் தகவல் தெரிந்தவர்கள் 071 8591763 அல்லது 071 8594916 என்ற தொலைபேசி இலக்கங்களால்  பொலிஸாரை தொடர்பு கொள்ளுமாறு கோரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/43c74a33.json)
 
 ---
 
@@ -259,6 +441,28 @@ The victim is a 21 year old resident of the Nochchiyagama area in Halmillawa.
 [Data](articles/32d21a33.json)
 
 [Extended Data](ext_articles/32d21a33.ext.json)
+
+---
+
+### Sri Lanka to heat up coffee culture amid tourist revival
+
+*2024-04-28 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-coffee-to-warm-up-in-festival-amid-tourist-revival-160307/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s is seeing a growing demand for coffee amid a revival in tourism and efforts are underway to lift skills and improve quality down the value chain as part of efforts to broaden the island’s coffee culture, industry officials said.
+
+Lanka Coffee Association, made up of companies involved in the industry, with Australia-funded Market Development Facility is holding the Sri Lanka Coffee Festival in Galle in June.
+
+Coffee sales in café, are picking up partly helped by the tourist industry.
+
+“A lot of tourists especially in Colombo and down South appreciate a good cup of Sri Lankan coffee and that makes up a lot of the café’s demand,” Country Director for the Market Development Facility, Maryam Piracha, says.
+
+As part of efforts to lift the industry, competitions will be held around the country to recognize the best baristas, or the people who serve customers in coffee bars.
+
+“We will judge them on flavor and technique and less emphasis will be given to presentation,” Lanka
+
+...
+
+[Data](articles/f1f89bd6.json)
 
 ---
 
@@ -2011,235 +2215,5 @@ Accordingly, the water supply will be suspended from 5 p.m. on Saturday until 7 
 [Data](articles/0f670467.json)
 
 [Extended Data](ext_articles/0f670467.ext.json)
-
----
-
-### A powerful earthquake in Taiwan
-
-*2024-04-27 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196019) · `si`
-
-A powerful earthquake in Taiwan, reported in Richter's Thumb, has killed 17 and caused over 1,000 shocks, with no damage reported yet.
-
-🟩
-
-Foreign media reports that the earthquake has taken place in the richter's thumb.
-
-However, Taiwansa authorities have stated that the damage has not been reported so far.
-
-At first, 17 people were killed in Taiwan's earthquake and over 1,000 shocks were reported.
-
-◼️
-
-[Data](articles/82e06e62.json)
-
-[Extended Data](ext_articles/82e06e62.ext.json)
-
----
-
-### Taiwan rattled by quakes again, no immediate reports of damage
-
-*2024-04-27 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98878/taiwan-rattled-by-quakes-again-no-immediate-reports-of-damage) · `en`
-
-Two earthquakes, the largest a 6.1 magnitude, struck Taiwan’s eastern county of Hualien on Saturday, the island’s weather administration said, with no immediate reports of damage.
-
-The quakes, within half an hour of each other in the early hours of the morning, shook buildings in the capital, Taipei.
-
-The first quake had a depth of 24.9 km (15.5 miles) and hit just off Hualien’s coast, while the second with a magnitude of 5.8 had a depth of 18.9 km (11.7 miles) and hit a similar location, Taiwan’s weather administration said.
-
-Taiwan has been hit by more than 1,000 aftershocks since a 7.2 magnitude quake struck Hualien earlier this month, killing 17 people.
-
-Taiwan lies near the junction of two tectonic plates and is prone to earthquakes.
-
-More than 100 people were killed in a quake in southern Taiwan in 2016, while a 7.3 magnitude quake killed more than 2,000 people in 1999.
-
-◼️
-
-[Data](articles/726d3be7.json)
-
-[Extended Data](ext_articles/726d3be7.ext.json)
-
----
-
-### A young man is unfortunately
-
-*2024-04-27 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196018) · `si`
-
-A young man died in an accident near Welikanda, while riding a motorbike. The driver was also killed and admitted to the hospital.
-
-🟩
-
-A youth has died in an accident near the Single Kilometer Post 07th of Welikanda, Welikanda.
-
-Police said that the accident had occurred when the youth was on his way to a motorbike.
-
-The driver was also killed when he was admitted to the Welikanda hospital.
-
-◼️
-
-[Data](articles/aed4a924.json)
-
-[Extended Data](ext_articles/aed4a924.ext.json)
-
----
-
-### The secret confession issued by Maithri has been released
-
-*2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியானது/175-336398) · `ta`
-
-Tran Ales, Public Security Minister, released a confidential confession to Maithripala Sirisena, stating no citizens were involved in the April 21 terrorist attack. Some facts remain undisclosed due to ongoing investigations.
-
-🟩
-
-Public Security Minister Tran Ales has issued a confidential confession to the former President Maithripala Sirisena.
-
-He said that neither the citizen of the country nor the citizen of the country in this country was not involved in the April 21 terrorist attack.
-
-He also stated that some facts cannot be released as investigations are underway. Remble
-
-◼️
-
-[Data](articles/e10d6d0f.json)
-
-[Extended Data](ext_articles/e10d6d0f.ext.json)
-
----
-
-### Secret confession issued by Maithri
-
-*2024-04-27 09:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-இரகசிய-வாக்குமூலம்-வெளியான/175-336398) · `ta`
-
-Tran Ales, Public Security Minister, confessed to Maithripala Sirisena that no local citizens were involved in the April 21 terrorist attack, and some facts are still under investigation.
-
-🟩
-
-Public Security Minister Tran Ales has issued a confidential confession to the former President Maithripala Sirisena.
-
-He said that neither the citizen of the country nor the citizen of the country in this country was not involved in the April 21 terrorist attack.
-
-He also stated that some facts cannot be released as investigations are underway. Remble
-
-◼️
-
-[Data](articles/e8189de5.json)
-
-[Extended Data](ext_articles/e8189de5.ext.json)
-
----
-
-### Sri Lanka changes fuel price formula ahead of polls; allow flexibility on profit margin
-
-*2024-04-27 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-changes-fuel-price-formula-ahead-of-polls-allow-flexibility-on-profit-margin-160235/) · `en`
-
-ECONOMYNEXT – Sri Lanka has changed its fuel price formula used to determine the prices of fuel once a month with allowing flexibility in the profit margin, State Power and Energy Minister D V Chanaka said.
-
-The move comes ahead of a presidential poll later this year in which President Ranil Wickremesinghe is expected to contest under an independent coalition.
-
-Unprecedented fuel price hike in 2022 amid long queues due to shortage compelled nationalist Sri Lanka Podujana Peramuna-led government to switch to fuel price formula which it cancelled in 2019 citing that government should have the control over fuel prices.
-
-“We have changed the formula. Instead of 4% fixed profit margin, we have now allowed flexibility and fuel retailers can chose their profit margin from 0-4 percent,” Chanaka told reporters at a media briefing on Friday (26) in Colombo.
-
-...
-
-[Data](articles/bf5efb6d.json)
-
-[Extended Data](ext_articles/bf5efb6d.ext.json)
-
----
-
-### Top US official holds talks with President for further support for food security
-
-*2024-04-27 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Top-US-official-holds-talks-with-President-for-further-support-for-food-security/108-281489) · `en`
-
-Colombo, April 27 (Daily Mirror) - Alexis Taylor, Under Secretary for Trade and Foreign Agricultural Affairs at the U.S. Department of Agriculture (USDA), together with U.S. Ambassador Julie Chung, met with Sri Lankan President Ranil Wickremesinghe and other senior government officials to discuss USDA support for Sri Lanka’s agricultural sector, a statement from the US Embassy said.
-
-Under Secretary Taylor’s visit underscored the American people’s ongoing commitment to supporting the agricultural development and economic growth of Sri Lanka, promoting greater food security and enhancing resilience against climate challenges.
-
-The Under Secretary’s discussions affirmed Sri Lanka’s key role as a priority country in the 2024 Food for Progress initiative, which focuses on enhancing food security and climate resilience through environmentally friendly practices and improved market linkages.
-
-...
-
-[Data](articles/99e693dc.json)
-
-[Extended Data](ext_articles/99e693dc.ext.json)
-
----
-
-### President receives multiple donations for Gaza Children’s Fund
-
-*2024-04-27 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98877/president-receives-multiple-donations-for-gaza-childrens-fund) · `en`
-
-President Ranil Wickremesinghe received official handovers of generous financial contributions for the ‘Children of Gaza’ Fund on Friday morning (26).
-
-This is an initiative the President established to alleviate the suffering of those affected by conflicts in Gaza, the President’s Media Division (PMD) said.
-
-Among the contributors, Huda Jumma Mosque in Kalmunai donated Rs. 1.58 million, the All Ceylon Jamiatul Ulama – Kinnia branch donated Rs. 5.3 million, the Regional Education Office in Kalmunai contributed Rs. 3.12 million, and the Sports First Foundation donated Rs. 300,000 to support the cause.
-
-During the initial phase, President Wickremesinghe delivered USD 1 million received from allocations earmarked by ministries and government bodies for this year’s Iftar celebrations, to the Palestinian government through an official United Nations delegation.
-
-...
-
-[Data](articles/eae98683.json)
-
-[Extended Data](ext_articles/eae98683.ext.json)
-
----
-
-### Sri Lanka explores opportunity to import big onions from Egypt
-
-*2024-04-27 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98876/sri-lanka-explores-opportunity-to-import-big-onions-from-egypt) · `en`
-
-Trade Minister Nalin Fernando met with the Egyptian Ambassador Maged Mosleh on Friday (26) at the trade ministry premises.
-
-During the meeting, the Ambassador noted that the Sri Lanka-Egypt Joint Commission on Trade and Economic Cooperation (JCTEC) would be an excellent platform to enhance bilateral economic ties between the two countries. In response, the minister said that Sri Lanka is considering convening the next session of the JCTEC in June this year.
-
-The ambassador pointed out that Africa is a potential and fast-growing and highly potential market and Sri Lankan exporters can exploit this potential by investing in Egypt. In addition, Sri Lanka has an additional advantage through relatively relaxed rules of origin under a free trade agreement, he added.
-
-During the meeting, Minister Fernando explored the opportunity to import big onion from Egypt, and the ambassador expressed willingness to assist with such imports.
-
-...
-
-[Data](articles/3f642c9e.json)
-
-[Extended Data](ext_articles/3f642c9e.ext.json)
-
----
-
-### Sajith never attends dinners hosted by Ranil
-
-*2024-04-27 08:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-never-attends-dinners-hosted-by-Ranil/108-281487) · `en`
-
-Colombo, April 27 (Daily Mirror)-Refuting reports that Opposition Leader Sajith Premadasa avoided meeting visiting Iranian President Dr. Ebrahim Raisi, SJB MP Nalin Bandara told Parliament yesterday that Opposition
-
-Leader Sajith Premadasa did not get an appointment from the Iranian Embassy to meet the Iranian President.
-
-He told Parliament that Sajith Premadasa did not attend the dinner with the Iranian President hosted by President Ranil Wickremesinghe, as he never attends dinners hosted by President Wickremesinghe.
-
-“I must correct the incorrect reports claiming that the Samagi Jana Balawegaya did not meet the Iranian President. Our leader did not get the appointment from the Iranian Embassy tomeet the Iranian President. We did not attend the dinner as Sajith Premadasa never attends dinners hosted by Ranil Wickremesinghe,” he said.
-
-◼️
-
-[Data](articles/d36b3e98.json)
-
-[Extended Data](ext_articles/d36b3e98.ext.json)
-
----
-
-### Search for gems will lose their lives
-
-*2024-04-27 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196017) · `si`
-
-A man in Kaluwadu, Horana, died after being admitted to Horana Hospital with a serious condition.
-
-🟩
-
-A man in Kaluwadu area in Horana was dead.
-
-The police said that the man was prevalent yesterday (26) and was admitted to the Horana Hospital with a serious situation.
-
-◼️
-
-[Data](articles/9162ea73.json)
-
-[Extended Data](ext_articles/9162ea73.ext.json)
 
 ---

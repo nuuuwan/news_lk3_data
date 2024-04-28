@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 20:51:18**
+As of **2024-04-28 21:03:47**
 
 ## Newspaper Stats
 
-*Scraped **21,427** Articles*
+*Scraped **21,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,214
-adalk | 1,791
+adalk | 1,792
 tamilmirrorlk | 2,482
 adaderanalk | 2,555
 virakesarilk | 3,218
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,424 (100.0%) of 21,427 articles have been extended.
+21,427 (100.0%) of 21,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flig
 ...
 
 [Data](articles/69912ebd.json)
+
+[Extended Data](ext_articles/69912ebd.ext.json)
 
 ---
 
@@ -121,6 +123,8 @@ The interest paid to the EPF was reduced from 13 percent to 9 percent under the 
 ◼️
 
 [Data](articles/595adcdc.json)
+
+[Extended Data](ext_articles/595adcdc.ext.json)
 
 ---
 
@@ -473,6 +477,26 @@ The businessman was arrested by the Criminal Investigation Department and was pr
 [Data](articles/ad48548b.json)
 
 [Extended Data](ext_articles/ad48548b.ext.json)
+
+---
+
+### කොස්තාපල්වරියට පහරදුන් කොස්තාපල් අල්ලයි
+
+*2024-04-28 17:38:37* · [`adalk`](https://www.ada.lk/breaking_news/කොස්තාපල්වරියට-පහරදුන්-කොස්තාපල්-අල්ලයි/11-409304) · `si`
+
+මුල්ලේරියාව රූපලාවන්‍යගාරයක් තුලදි පොලිස්  කොස්තාපල්වරියකට පහර දුන්  කොස්තාපල්වරයෙක් මුල්ලේරියාව  පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අනුයුක්ත ආධුනික පොලිස් කොස්තාපල්වරයෙකි.
+
+කොස්තාපල්වරයා අංගොඩ ප්‍රදේශයේ රූපලාවණ්‍යාගාරයක් අලුතෙන් ආරම්භ කර ඇති අතර ඒ සඳහා ඔහු පෙම් සබඳතාවයක් පවත්වාගෙන යන පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයට අනුයුක්තව රාජකාරී කරනු ලබන කාන්තා පොලිස් කොස්තාපල් වරියගෙන් රුපියල් ලක්ෂ  13 කට ලබාගෙන ඇතැයි පොලිසිය කියයි.
+
+එම නිලධාරිනිය රූපලාවණ්‍යාගාරය  වෙත ගොස් සිටියදී  දෙදෙනා අතර බහින්බස්වීමක් හටගෙන ඇති අතර එහිදී කොස්තාපල්වරයා විසින් නිලධාරීනියට පහර දී  ඇති අතර ඒ සම්බන්ධයෙන් මුල්ලේරියාව පොලිසියට සිදුකළ පැමිණිල්ලක් අනුව සැකකාර කොස්තාපල්වරයා අත්අඩංගුවට ගෙන ඇත.
+
+ඉහත විෂමාචාර ක්‍රියාව හේතුවෙන් ආධුනික පොලිස් කොස්තාපල්වරයාගේ රාජකාරී වැඩ තහනම් කර ඇතැයිද පොලිස් මූලස්ථානයේ උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+...
+
+[Data](articles/f8830403.json)
 
 ---
 
@@ -2329,33 +2353,5 @@ In life, he was a controversial character who was mostly in the news for the wro
 [Data](articles/e7ce8fc0.json)
 
 [Extended Data](ext_articles/e7ce8fc0.ext.json)
-
----
-
-### How do you know if you have a STD?
-
-*2024-04-28 03:23:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ck7lz2xr91vo) · `si`
-
-Know if you have a STD by following safety methods, checking symptoms like pain, bleeding, or unusual discharge. HIV can be tested at STD clinics, with free HIV testing available. Treatments for STDs vary; some can be cured, others controlled. Prevent HIV/STDs by using condoms, attending regular clinics, and getting Prep (Pre-Exposure Prophylaxis).
-
-🟩
-
-How do you know if you have a STD?
-
-If you do not follow safety methods, have you known that you are capable of helping you at any time?
-
-A report released by the United Nations Joint Program on HIV / AIDS, 39 million people worldwide live with AIDS and HIV by 2022. In 2022, the virus was newly infected with a virus. According to a report issued by the organization, by the end of the third quarter of 2023, 485 new HIV infected persons in Sri Lanka have been identified.
-
-The Sri Lanka National Institute of STD institutions for AIDS and STIs for the Repression of AIDS and STIs, Sri Lanka, the Government Institute of STDs, the Government Institution of AIDS and STIs, is the number of people living with HIV by the quarter is 573. At that year, 710 deaths occurred in that year.
-
-From now on how many other STDs are found in Sri Lanka and how to check whether he has caused such a disease personally and in secret.
-
-What is a sexually transmitted infection?How can you protect you?
-
-...
-
-[Data](articles/1c77e69d.json)
-
-[Extended Data](ext_articles/1c77e69d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 22:18:32**
+As of **2024-04-28 22:33:49**
 
 ## Newspaper Stats
 
-*Scraped **21,438** Articles*
+*Scraped **21,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ tamilmirrorlk | 2,482
 adaderanalk | 2,556
 virakesarilk | 3,222
 dailymirrorlk | 3,335
-adaderanasinhalalk | 3,472
+adaderanasinhalalk | 3,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,438 (100.0%) of 21,438 articles have been extended.
+21,438 (100.0%) of 21,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### සියල්ලන් පුදුම කළ සුපිරි සැත්කම
+
+*2024-04-28 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196066) · `si`
+
+පුද්ගලයෙකුගේ වකුගඩු දෙකෙහිම ඇති ගල් එකවර ඉවත් කිරීමේ සුවිශේෂී සැත්කමක් මෙරට පළමුවරට කළුතර ශික්ෂණ රෝහලේදී සිදුකර තිබුණි.
+
+Disposable flexible yuritroscope නම් උපකරණය යොදා ගනිමින් කුඩා සිදුරක් ඔස්සේ මෙම සැත්කම සිදුකර තිබේ.
+
+මේ වනවිට රෝගියා යහපත් සෞඛ්‍ය තත්ත්වයේ පසුව බව සැත්කම් සිදුකළ වෛද්‍යවරු පවසයි.
+
+◼️
+
+[Data](articles/b4bb97fd.json)
+
+---
+
+### උමා ඔය ව්‍යාපෘතිය ළඟ නායයාම ගැන අලුත් ආරංචියක්
+
+*2024-04-28 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196065) · `si`
+
+උමා ඔය ව්‍යාපෘතියට කිලෝමීටර් දෙකහමාරක් පමණ දුරින් පිහිටි කරඳගොල්ල ප්‍රදේශයේ සක්‍රීය වූ නායයාමේ අවදානම සම්බන්ධයෙන් ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනයේ ජ්‍යේෂ්ඨ භූ විද්‍යාඥයින් පිරිසක් හෙට දිනයේ විශේෂ නිරීක්ෂණයකට එක්වීමට සැලසුම් කර ඇත.
+
+බදුල්ල දිස්ත්‍රික් ලේකම්වරයා පැවසුවේ, නාය අවදානම අවම කිරීම සඳහා කඳුකර භූමියේ ඉහළ රැඳී ඇති ජලය කෙටි කාලීන ක්‍රම ඔස්සේ පහළට ගෙන ඒමට අවශ්‍ය කටයුතු මේ වනවිට සිදුකරමින් පවතින බවය.
+
+ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසෙහි දින කිහිපයකට පෙර සක්‍රීය වූ නාය අවදානම සම්බන්ධයෙන් මේ වනවිට බලධාරීන් දැඩි නිරීක්ෂණයක පසුවෙයි.
+
+නායයාමක ලක්ෂණ පෙන්නුම් කරමින් ජලය ගලායන ආකාරය සහ රොන්මඩ පවතින ආකාරය සම්බන්ධයෙන් ප්‍රදේශවාසීන් සැකපළ කරන්නේ එය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ ඇතිවූ තත්ත්වයක් බවටය.
+
+කෙසේවෙතත්, එය ජල විද්‍යාත්මක හෝ භූ විද්‍යාත්මක පර්යේෂණයකින් තහවුරු වී නැති බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා ඊයේ පැවසීය.
+
+මේ අතර බදුල්ල දිස්ත්‍රික් ලේකම්වරයා ඇතුළු පිරිසක් අද එම ප්‍රදේශයේ නිරීක්ෂණයකට ද එක්විය.
+
+◼️
+
+[Data](articles/1bb532e2.json)
+
+---
 
 ### Development officers will be sick tomorrow
 
@@ -2327,61 +2365,5 @@ As part of efforts to lift the industry, competitions will be held around the co
 [Data](articles/12fabab4.json)
 
 [Extended Data](ext_articles/12fabab4.ext.json)
-
----
-
-### Sri Lanka to heat up coffee culture amid tourist revival
-
-*2024-04-28 08:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-coffee-to-warm-up-in-festival-amid-tourist-revival-160307/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s is seeing a growing demand for coffee amid a revival in tourism and efforts are underway to lift skills and improve quality down the value chain as part of efforts to broaden the island’s coffee culture, industry officials said.
-
-Lanka Coffee Association, made up of companies involved in the industry, with Australia-funded Market Development Facility is holding the Sri Lanka Coffee Festival in Galle in June.
-
-Coffee sales in café, are picking up partly helped by the tourist industry.
-
-“A lot of tourists especially in Colombo and down South appreciate a good cup of Sri Lankan coffee and that makes up a lot of the café’s demand,” Country Director for the Market Development Facility, Maryam Piracha, says.
-
-As part of efforts to lift the industry, competitions will be held around the country to recognize the best baristas, or the people who serve customers in coffee bars.
-
-“We will judge them on flavor and technique and less emphasis will be given to presentation,” Lanka
-
-...
-
-[Data](articles/f1f89bd6.json)
-
-[Extended Data](ext_articles/f1f89bd6.ext.json)
-
----
-
-### Provincial Council cannot make a permanent decision on the ethnic problem: We will ensure the legitimate right to the power of the Tamil people who have been denied for years - the JVP. Chairman
-
-*2024-04-28 08:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182118) · `ta`
-
-JVP leader Anura Kumaratisanayake emphasizes the Tamil people's right to power, criticizing the Provincial Council's inability to permanently address ethnic issues. He argues for a political system that unites all communities, not divides them, to solve the ethnic problem in Sri Lanka.
-
-🟩
-
-JVP leader Anura Kumaratisanayake has said that we will ensure the legitimate right to the power of the Tamil people who have been denied by the rulers for many years.
-
-"We believe in the party that we can build a permanent solution to the ethnic problem of Sri Lanka," he said.
-
-He said the provincial council should not be a permanent decision by the provincial council, but the Tamil people think that it is their right.
-
-Can you make it clear that there is no response from the National People's Power on the 13th Amendment to the Constitution?
-
-We have repeatedly informed our position on the 13th Amendment and Provincial Councils.
-
-We have also mentioned this in our policy document released in 2019.
-
-We do not consider the provincial council as a complete solution to the country's ethnic problem, but the provincial councils have been in the upper country for the past three decades.
-
-The people of the North East consider their victory as provincial councils after years of request.
-
-...
-
-[Data](articles/59500574.json)
-
-[Extended Data](ext_articles/59500574.ext.json)
 
 ---

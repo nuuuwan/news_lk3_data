@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 13:34:20**
+As of **2024-04-28 13:53:11**
 
 ## Newspaper Stats
 
-*Scraped **21,366** Articles*
+*Scraped **21,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 1,782
 tamilmirrorlk | 2,477
 adaderanalk | 2,547
 virakesarilk | 3,208
-dailymirrorlk | 3,322
-adaderanasinhalalk | 3,457
+dailymirrorlk | 3,323
+adaderanasinhalalk | 3,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,364 (100.0%) of 21,366 articles have been extended.
+21,366 (100.0%) of 21,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### හමාස් සංවිධානයෙන් ආන්දෝලනාත්මක වීඩියෝවක්
+
+*2024-04-28 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196051) · `si`
+
+ගාසාහි හමාස් සංවිධානය ඔක්තෝබර් 7 ප්‍රහාරයේ සිට ප්‍රාණඇපයේ සිටින පුද්ගලයින් දෙදෙනෙකුගේ වීඩියෝවක් නිකුත් කර තිබේ.
+
+ඔවුන් ඊශ්‍රායල ජාතික 47 හැවිරිදි ඔම්රි මිරාන් සහ අමෙරිකානු සම්භවයක් සහිත 64 හැවිරිදි කීත් සීගල් ලෙස විදෙස් වාර්තා පෙන්වා දෙයි.
+
+එම වීඩියෝව පටිගත කළ දිනය නිශ්චිත නොවූවත් එය ඉතාමත් මෑත කාලයේදී පටිගත කරන ලද්දක් බවට වාර්තා වෙයි.
+
+මෙලෙස ප්‍රාණඇපකරුවන්ගේ වීඩියෝවක් නිකුත් කිරීමත් සමග, නිදහස් කර ගැනීමේ නව ගිවිසුමකට එළැඹෙන ලෙස ඊශ්‍රායල රජයට බල කරමින් ඊශ්‍රායල ජනතාව විරෝධතා ආරම්භ කර තිබේ.
+
+ඊශ්‍රායල ප්‍රාණඇපකරුවන් 129ක් තවමත් හමාස් භාරයේ සිටින අතර ඉන් 34 දෙනෙකු මිය ගොස් ඇතැයි සැලකේ.
+
+◼️
+
+[Data](articles/67352db2.json)
+
+---
+
+### World Economic Forum gets underway in Saudi Arabia
+
+*2024-04-28 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Economic-Forum-gets-underway-in-Saudi-Arabia/108-281503) · `en`
+
+Saudi Arabia is hosting the first-ever special meeting of the World Economic Forum in the capital, Riyadh, which will discuss many important issues such as international cooperation, growth, and energy during the period 28th -29th April 2024,  Saudi Ambassador Khalid Hamoud Alkahtani said .
+
+Issuing a statement, he said the  event is one of the outcomes of the cooperation agreement between the Kingdom of Saudi Arabia and the World Economic Forum.
+
+The Riyadh meeting will host more than 1000 participants, including international experts, opinion leaders, and thinkers, from international organizations, government sectors, academic institutions, and the business sector, to discuss current global challenges in the areas of development, within fruitful dialogues that enhance global cooperation and stimulate joint international efforts to innovate sustainable solutions.
+
+...
+
+[Data](articles/b3a9bb38.json)
+
+---
+
+### ශ්‍රී ලංකාවේ මරණ වැඩිවෙයි
+
+*2024-04-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196050) · `si`
+
+2020 වසරේ සිට මෙරට වාර්ෂික දරු උපත් සංඛ්‍යාවේ අඩුවක් මෙන්ම මරණ සංඛ්‍යාවේ වැඩිවීමක් පෙන්නුම් කරන බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය රෙජිස්ට්‍රාර් ජනරාල් නීතිඥ ලක්ෂිකා ගනේපොළ මහත්මිය සඳහන් කළාය.
+
+2020 වසරට පෙර පැවති 325,000ක් පමණ වන වාර්ෂික දරු උපත් සංඛ්‍යාව මේ වන විට 280,000 සීමාව දක්වා අඩු වී ඇති බව සඳහන් වෙයි.
+
+වාර්ෂික මරණ සංඛ්‍යාව 140,000 සිට 180,000 පමණ දක්වා වැඩි වී ඇති බව වාර්තා වෙයි.
+
+මෙම තත්ත්වය ජනගහන වර්ධනය කෙරෙහි අහිතකර ලෙස බලපෑම් කරනු ඇති බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/418128e5.json)
+
+---
 
 ### ‘Economy has stabilized, growth is now emerging’ - Semasinghe
 
@@ -50,21 +104,29 @@ Recognizing the progress in macroeconomic reforms, the measures to stabilize the
 
 [Data](articles/a6af5c6c.json)
 
+[Extended Data](ext_articles/a6af5c6c.ext.json)
+
 ---
 
-### சடலமொன்று மிதக்கிறது
+### The corpse is floating
 
 *2024-04-28 13:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலமொன்று-மிதக்கிறது/175-336443) · `ta`
 
-ஆற்றில் மிதந்து கொண்டிருந்த சடலமொன்றை மீட்டெடுத்து வைத்தியசாலையில் பிரேத அறையில் வைத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 50-year-old unidentified body was found floating in the Kelani-Avissawella river, placed in the Avissawella Hospital's funeral room.
 
-களனி- அவிசாவளை கிரிவந்தல வடக்கு பகுதியில் சடலமொன்று மிதப்பதாக அவிசாவளை தலைமையக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர் 50 வயதுடையவர் எனவும் இதுவரை அடையாளம் காணப்படவில்லை எனவும் பொலிஸார் தெரிவிக்கின்றனர். சடலம் அவிசாவளை ஆதார வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+Police said that the body was floating in the river and kept in the funeral room at the hospital.
+
+Avissawella headquarters headquarters police said that a body was floating in the northern part of the Kelani-Avissawella.
+
+Police say the deceased is 50 years old and has not been identified yet. The body is placed in the funeral room of the Avissawella Hospital.
 
 ◼️
 
 [Data](articles/30f35f0d.json)
+
+[Extended Data](ext_articles/30f35f0d.ext.json)
 
 ---
 
@@ -2231,77 +2293,5 @@ In terms of Article 31(3) of the Constitution, the Presidential election has to 
 [Data](articles/5347b29f.json)
 
 [Extended Data](ext_articles/5347b29f.ext.json)
-
----
-
-### Heavy showers expected in several provinces
-
-*2024-04-27 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-expected-in-several-provinces/108-281491) · `en`
-
-The Meteorological Department has issued a weather advisory forecasting heavy showers above 75 mm in certain regions of the Western and Sabaragamuwa Provinces, as well as in the Galle and Matara districts.
-
-According to the latest forecast, showers or thundershowers are anticipated in several areas across the Western, Sabaragamuwa, Central, Southern, North-Western, and Uva Provinces, along with the Ampara and Batticaloa districts after 2.00 p.m.
-
-Residents of the North-Central Province should also be prepared for showers or thundershowers during the evening or night, while coastal areas from Galle to Pottuvil via Hambantota may experience showers or thundershowers in the morning.
-
-Furthermore, misty conditions are likely in certain areas of the Sabaragamuwa, Central and Uva Provinces during the morning hours.
-
-◼️
-
-[Data](articles/62090fdb.json)
-
-[Extended Data](ext_articles/62090fdb.ext.json)
-
----
-
-### Another info of the drug raid carried out by the Biyagama Police
-
-*2024-04-27 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196022) · `si`
-
-Biyagama Police recovered 15kg ice drugs, 91g, 941g heroin, and arrested a 31-year-old from Bamiya, Kaduwela, during a raid in Bandarawatta.
-
-🟩
-
-According to the information received by the Biyagama Police, 15 kilograms of ice drugs were recovered and 91 grams and 941 grams of heroin.
-
-A suspect was arrested in Bandarawatta area and he was examining his residence house and the car car.
-
-The suspect is a 31 year old resident of Bamiya, Kaduwela.
-
-The police had received information on the suspect in the ministerial suspects.
-
-The two suspects were arrested at a raid held at Bandarawatta last night.
-
-Two ice drugs and 310 milligrams of ice, 310 milligrams of ice, five and 310 milligrams of ice.
-
-Police said that they were residents of Kaduwela and Siyambalape areas in Kaduwela and Siyambalape areas.
-
-◼️
-
-[Data](articles/ded406c3.json)
-
-[Extended Data](ext_articles/ded406c3.ext.json)
-
----
-
-### Sri Lanka budget deficit down in 2023, tax revenue up 54-pct
-
-*2024-04-27 12:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-collections-up-54-pct-in-2023-exceeds-revised-target-deficit-lower-160234/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax collections in 2023 have totalled 2,750 billion rupees, up 55 from 2022 and higher than a revised out-turn presented at a November, official data show.
-
-Sri Lanka originally targeted 3,130 billion rupees of tax collections in 2023 or 10.3-pct of gross domestic product despite an economic contraction but with an inflated economy at hikes in rates, while the International Monetary Fund projected only 3,005 billion rupees (10.1-pct of GDP).
-
-In a budget for 2024 presented to parliament in November, the tax target was revised down to 2,596 billion rupees, or 9.2 percent of GDP.
-
-But the actual collections have turned out to be 2,720 billion rupees for 2023, which is 8.9 percent of GDP.
-
-With non tax revenues of 100 billion rupees, lower than expected, total revenues were 3,048.8 billion rupees or 11 percent of GDP, in slightly lower than the 11.3 percent in the original budget but in line with the 10.9 percent IMF projection.
-
-...
-
-[Data](articles/a5269fcd.json)
-
-[Extended Data](ext_articles/a5269fcd.ext.json)
 
 ---

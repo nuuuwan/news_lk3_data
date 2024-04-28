@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 13:53:11**
+As of **2024-04-28 14:03:40**
 
 ## Newspaper Stats
 
-*Scraped **21,369** Articles*
+*Scraped **21,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,58 @@ adalk | 1,782
 tamilmirrorlk | 2,477
 adaderanalk | 2,547
 virakesarilk | 3,208
-dailymirrorlk | 3,323
+dailymirrorlk | 3,324
 adaderanasinhalalk | 3,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,366 (100.0%) of 21,369 articles have been extended.
+21,369 (100.0%) of 21,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### හමාස් සංවිධානයෙන් ආන්දෝලනාත්මක වීඩියෝවක්
+### Public warned over individuals misleading investors, job seekers, visa applicants
+
+*2024-04-28 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-warned-over-individuals-misleading-investors-job-seekers-visa-applicants/108-281504) · `en`
+
+Colombo, April 28 (Daily Mirror)- The public are urged to exercise caution over certain individuals who are misleading investors, job seekers and visa applicants while claiming to hold positions within the Presidential Secretariat.
+
+The President's Media Division (PMD) said reports have been received that certain individuals are misleading investors, job seekers and visa applicants and are fraudulently obtaining money by submitting forged documents while claiming to hold positions within the Presidential Secretariat.
+
+People are urged to verify the identities of such persons from Senior Assistant Secretary Prasad Senarath on telephone number 0715308032.
+
+◼️
+
+[Data](articles/9d3e7abc.json)
+
+---
+
+### A controversial video from Hamas
 
 *2024-04-28 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196051) · `si`
 
-ගාසාහි හමාස් සංවිධානය ඔක්තෝබර් 7 ප්‍රහාරයේ සිට ප්‍රාණඇපයේ සිටින පුද්ගලයින් දෙදෙනෙකුගේ වීඩියෝවක් නිකුත් කර තිබේ.
+Hamas released a video showing two from the Oct 7 attack, identifying them as Omry Mirian and Seagal. The video's recording date is unspecified but recent. Protests in Israel demand the release of 129 hostages, with 34 deaths reported.
 
-ඔවුන් ඊශ්‍රායල ජාතික 47 හැවිරිදි ඔම්රි මිරාන් සහ අමෙරිකානු සම්භවයක් සහිත 64 හැවිරිදි කීත් සීගල් ලෙස විදෙස් වාර්තා පෙන්වා දෙයි.
+🟩
 
-එම වීඩියෝව පටිගත කළ දිනය නිශ්චිත නොවූවත් එය ඉතාමත් මෑත කාලයේදී පටිගත කරන ලද්දක් බවට වාර්තා වෙයි.
+Hamas, Gaza, has issued a video of two people from the October 7 attack.
 
-මෙලෙස ප්‍රාණඇපකරුවන්ගේ වීඩියෝවක් නිකුත් කිරීමත් සමග, නිදහස් කර ගැනීමේ නව ගිවිසුමකට එළැඹෙන ලෙස ඊශ්‍රායල රජයට බල කරමින් ඊශ්‍රායල ජනතාව විරෝධතා ආරම්භ කර තිබේ.
+They point out for 47-year-old Omry Mirian and American Origin as 64-year-old Seagal.
 
-ඊශ්‍රායල ප්‍රාණඇපකරුවන් 129ක් තවමත් හමාස් භාරයේ සිටින අතර ඉන් 34 දෙනෙකු මිය ගොස් ඇතැයි සැලකේ.
+It is reported that although the video was recorded was not specified, it was recorded in recent years.
+
+The Israeli people have begun protests, demanding the Israeli government to release the hostage of a hostage.
+
+There are still 129 Israeli hostages still in Hamas and 34 have died.
 
 ◼️
 
 [Data](articles/67352db2.json)
+
+[Extended Data](ext_articles/67352db2.ext.json)
 
 ---
 
@@ -66,23 +88,31 @@ The Riyadh meeting will host more than 1000 participants, including internationa
 
 [Data](articles/b3a9bb38.json)
 
+[Extended Data](ext_articles/b3a9bb38.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ මරණ වැඩිවෙයි
+### Sri Lanka increases death
 
 *2024-04-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196050) · `si`
 
-2020 වසරේ සිට මෙරට වාර්ෂික දරු උපත් සංඛ්‍යාවේ අඩුවක් මෙන්ම මරණ සංඛ්‍යාවේ වැඩිවීමක් පෙන්නුම් කරන බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය රෙජිස්ට්‍රාර් ජනරාල් නීතිඥ ලක්ෂිකා ගනේපොළ මහත්මිය සඳහන් කළාය.
+Sri Lanka's annual childbirths declined from 325,000 to 280,000 in 2020, while annual deaths rose from 140,000 to 180,000, impacting population growth negatively.
 
-2020 වසරට පෙර පැවති 325,000ක් පමණ වන වාර්ෂික දරු උපත් සංඛ්‍යාව මේ වන විට 280,000 සීමාව දක්වා අඩු වී ඇති බව සඳහන් වෙයි.
+🟩
 
-වාර්ෂික මරණ සංඛ්‍යාව 140,000 සිට 180,000 පමණ දක්වා වැඩි වී ඇති බව වාර්තා වෙයි.
+The Registrar General of the Registrar Lakshika Ganepola said that the number of annual childbirths of the country will be demonstrated in 2020.
 
-මෙම තත්ත්වය ජනගහන වර්ධනය කෙරෙහි අහිතකර ලෙස බලපෑම් කරනු ඇති බව රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+The number of annual births that were about 325,000 pre-20s before the year 2020 had declined to 280,000.
+
+It is reported that annual death has been increased from 140,000 to 180,000.
+
+The Registrar General's Department points out that this situation will adversely influence population growth.
 
 ◼️
 
 [Data](articles/418128e5.json)
+
+[Extended Data](ext_articles/418128e5.ext.json)
 
 ---
 
@@ -2279,19 +2309,5 @@ Kuliyapitiya Police are conducting further investigations and a suspicious vehic
 [Data](articles/a22f2828.json)
 
 [Extended Data](ext_articles/a22f2828.ext.json)
-
----
-
-### Debate Between Presidential Candidates First: A Point Of View
-
-*2024-04-27 13:49:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/debate-between-presidential-candidates-first-a-point-of-view/) · `en`
-
-In terms of Article 31(3) of the Constitution, the Presidential election has to be held between 19 September and 19 October 2024, being a date not less than one month and not more than two months before the expiry of the current President’s term of office, which is 19 November 2024. Will it be held?  Will it be circumvented, as were the Local Government Elections?  Everyone is kept guessing.
-
-...
-
-[Data](articles/5347b29f.json)
-
-[Extended Data](ext_articles/5347b29f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 06:59:32**
+As of **2024-04-28 07:21:51**
 
 ## Newspaper Stats
 
-*Scraped **21,324** Articles*
+*Scraped **21,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,61 @@ islandlk | 1,163
 dailyftlk | 1,202
 economynextcom | 1,209
 adalk | 1,775
-tamilmirrorlk | 2,465
+tamilmirrorlk | 2,466
 adaderanalk | 2,543
 virakesarilk | 3,202
 dailymirrorlk | 3,319
-adaderanasinhalalk | 3,450
+adaderanasinhalalk | 3,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,317 (100.0%) of 21,324 articles have been extended.
+21,320 (100.0%) of 21,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
 
-### අදත් පස්වරුවේ මහ වැස්සක්
+### ශ්‍රී ලංකාවට තවත් පදක්කමක්
+
+*2024-04-28 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196043) · `si`
+
+වයස අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා ශූරතා තරගාවලියේ මීටර 4x400 ඉසව්වේ ලෝකඩ පදක්කම හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/b6d15dca.json)
+
+---
+
+### Rains today even afternoon
 
 *2024-04-28 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196042) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වලත් අම්පාර සහ මඩකළපුව දිස්ත්‍රික්කවලත් අද (28) ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Rain expected in Western, Sabaragamuwa, Southern, North Western, and Uva provinces, and Ampara, Batticaloa districts. Showers or thundershowers in North, North-Central, and coastal areas from Galle to Hambantota. Heavy rains in some locations, potentially lasting a long time. Public advised to take precautions against wind and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර සහ උතුරු-මැද පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+Today is the Western, Sabaragamuwa, Southern, Southern, Southern, North Western and Uva provinces and in Ampara and Batticaloa Districts. Showers or thundershowers will occur at several places, about 2.00.
 
-ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළබඩ ප්‍රදේශවල ස්ථාන ස්වල්පයක උදෑසන කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+Showers or thundershowers will occur at several places in the North and North-Central provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota.
 
-සබරගමුව, මධ්‍යම සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+Showers or thundershowers will occur at several places in the coastal areas from Galle to Hambantota via Pottuvil.
 
-...
+Some locations in the Western and Sabaragamuwa Province and in some places in the Galle and Matara Districts. The Department of Meteorology is prevailing that heavy rains will occur at more than 75.
+
+Some locations in the Sabaragamuwa, Central and Uva provinces can last a murder.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
 
 [Data](articles/1d791e43.json)
+
+[Extended Data](ext_articles/1d791e43.ext.json)
 
 ---
 
@@ -69,6 +89,24 @@ Today, Geraldine lends her unparalleled expertise as a full-time fit model for p
 [Data](articles/a122f825.json)
 
 [Extended Data](ext_articles/a122f825.ext.json)
+
+---
+
+### ’வசத் சிரிய 2024’  புத்தாண்டுக் கொண்டாட்டம்
+
+*2024-04-28 01:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசத்-சிரிய-2024-புத்தாண்டுக்-கொண்டாட்டம்/175-336417) · `ta`
+
+'வசத் சிரிய – 2024' சிங்கள மற்றும் தமிழ் புத்தாண்டு கொண்டாட்டம் நேற்று கொழும்பு ஷங்ரிலா பசுமை மைதானத்தில் ஆரம்பமாகியதுடன், உள்நாட்டு மற்றும் வெளிநாட்டு பெருந்திரளான மக்கள் ஆரம்பம் முதலே இந்நிகழ்வில் கலந்துகொண்டனர்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரைக்கு அமைவாக தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க மற்றும் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்க ஆகியோர் அமைச்சுகள் மற்றும் அரச நிறுவனங்களை இணைத்து இந்த புத்தாண்டு கொண்டாட்டத்தை ஏற்பாடு செய்திருந்தனர்.
+
+அரசதுறை, திறந்த துறை மற்றும் விருந்தினர் துறை ஆகிய 03 பிரிவுகளின் கீழ் பல போட்டிகள் நடத்தப்பட்டன. இதில் அமைச்சுக்கள் மற்றும் அரச நிறுவனங்களின் ஊழியர்கள், அவர்களின் குடும்பத்தினர், நண்பர்கள் மற்றும் நாட்டின் பல்வேறு பிரதேசங்களைச் சேர்ந்த மக்கள் இதில் கலந்து கொள்கின்றனர்.
+
+புத்தாண்டு விழா நடைபெறும் இடத்திற்கு நேற்று விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க, அங்கிருந்த மக்களுடன் சிநேகபூர்வவமாக கலந்துரையாடினார். சில போட்டிகளையும் பார்வையிட்டார்.
+
+...
+
+[Data](articles/3a40b6e1.json)
 
 ---
 
@@ -926,6 +964,8 @@ And even if they are far away, ‘family’ remains, in our thoughts and in our 
 
 [Data](articles/ca21bf6f.json)
 
+[Extended Data](ext_articles/ca21bf6f.ext.json)
+
 ---
 
 ### Meeting with Ministry of Agriculture, United States
@@ -969,6 +1009,8 @@ The Pope does not dictate the policies of governments; not even those of the Gov
 ...
 
 [Data](articles/85a12429.json)
+
+[Extended Data](ext_articles/85a12429.ext.json)
 
 ---
 
@@ -2143,39 +2185,5 @@ In celebration of Earth Day, Sri Lanka Resorts of Cinnamon Hotels & Resorts cond
 [Data](articles/95ea756f.json)
 
 [Extended Data](ext_articles/95ea756f.ext.json)
-
----
-
-### Macroeconomic factors trigger bullish trend in bourse
-
-*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/macroeconomic-factors-trigger-bullish-trend-in-bourse/) · `en`
-
-The stock market was extremely bullish yesterday as three macroeconomic pillars, namely, the exchange rate, market interest rate and inflation are proving conducive to share market development, market analysts opined.
-
-Both indices moved upwards. The All Share Price Index went up by 128.88 points while S and P SL20 rose by 49.65 points.
-
-Turnover stood at Rs 4.1 billion with five crossings. Those crossings were reported in Hayleys, which crossed 3.8 million shares to the tune of Rs 317 million; its shares traded at Rs 83, JKH1 million shares crossed for Rs 218 million and its shares sold at Rs 218.50, People’s Leasing and Finance 9 million shares crossed for Rs 109.8 million; its shares traded at Rs 12.20, CCS 1 million shares crossed for Rs 57 million and its shares sold at Rs 57 and Hemas Holdings 400,000 shares crossed to the tune of Rs 34.4 million; its shares fetched Rs 86.
-
-...
-
-[Data](articles/077b05b6.json)
-
-[Extended Data](ext_articles/077b05b6.ext.json)
-
----
-
-### Colombo shaping up as a major tourist destination – President Wickremesinghe
-
-*2024-04-27 05:18:00* · [`islandlk`](http://island.lk/colombo-shaping-up-as-a-major-tourist-destination-president-wickremesinghe/) · `en`
-
-The city of Colombo will become a major tourist destination in years to come with the shifting of major government institutions, including the presidential official bungalow to Madiwela along with the Air Force headquarters, President Ranil Wickremesinghe said.
-
-“With the signing of the Vision Document by Prime Minister Naredra Modi and me, Sri Lanka could expect more Indian investments and with the high economic growth in India, Sri Lanka could reap benefits by becoming a major logistics hub in the region, the President said on Thursday. He made these observations after declaring open the US $ 500 million super-luxury hotel, ‘ITC Ratnadipa Colombo’, which boasts Sri Lanka’s first sky bridge, AHASA ONE, which is 55 meters long, connecting two towers of the hotel at a height of 100m above the ground.
-
-...
-
-[Data](articles/508fdc02.json)
-
-[Extended Data](ext_articles/508fdc02.ext.json)
 
 ---

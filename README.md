@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-28 18:34:10**
+As of **2024-04-28 18:52:05**
 
 ## Newspaper Stats
 
-*Scraped **21,401** Articles*
+*Scraped **21,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,164
 dailyftlk | 1,202
 economynextcom | 1,210
-adalk | 1,787
+adalk | 1,789
 tamilmirrorlk | 2,481
 adaderanalk | 2,553
 virakesarilk | 3,211
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,401 (100.0%) of 21,401 articles have been extended.
+21,401 (100.0%) of 21,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-28 (Sunday)
+
+### ඇල්ල කරඳගොල්ල නාය යාම තවමත් සක්‍රීයයි
+
+*2024-04-28 17:59:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරඳගොල්ල-නාය-යාම-තවමත්-සක්‍රීයයි/11-409306) · `si`
+
+ඇල්ල කරදගොල්ල 10 කනුව මලිත්තගොල්ල ප්‍රදේශයේ නාය යාම වඩ  වඩාත් සක්‍රීය වෙමින් විශාල බොරදිය ජලපහරක් ගලායමින් පවතින බව බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා අද (28)පැවසීය .
+
+මේ නිසාවෙන් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගය ට දැඩි අවධානමක් දිනෙන් දිනම මතු වෙමින් පවතින බවද හෙතෙම කීය .
+
+කරදගොල්ල 10 කනුව මලිත්තගොල්ල ප්‍රදේශයේ මෙම නාය යාම 2019 වසරේ ආරම්භ වූ බවත් , මේ වනවිටත් එහි පදිංචිව සිටි පවුල් 13ක් ඉවත් කර ඉන් පවුල් 5ක් වෙනත් තැනක පදිංචි කර සෙසු පවුල් 8 නැවත පදිංචි කිරීමට සුදුසු ඉඩමක් සොයා ගෙන   නිවාස තනා ගැනිමට අවශ්‍ය  මූලික  කටයුතු  කර ඉදිරි මාස කීපය තුල ඔවුන් නැවත පදිංචි කිරිමේ කටයුතු ඇල්ල  ප්‍රාදේශීය ලේකම් ඉංදික ගයාන් පතිරණ මහතා     ගේ මැදිහත් වීම මත සිදු කරන  බවත් බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා පවසයි .
+
+...
+
+[Data](articles/6ceb452b.json)
+
+---
 
 ### Security breach at Sydney Airport as man runs onto tarmac and tries to board Sri Lanka-bound flight
 
@@ -261,6 +277,26 @@ Dissanayake said overseas Sri Lankans is a crucial force in upcoming elections a
 [Data](articles/2bd37f00.json)
 
 [Extended Data](ext_articles/2bd37f00.ext.json)
+
+---
+
+### එකම දිනක් තුළ කරන්නාගොඩ ගමේ තුනක් මරුට
+
+*2024-04-28 16:18:47* · [`adalk`](https://www.ada.lk/breaking_news/එකම-දිනක්-තුළ-කරන්නාගොඩ-ගමේ-තුනක්-මරුට/11-409301) · `si`
+
+පසුගිය සෙනසුරාදා (26) දින තුළ කරන්නාගොඩ  ගම්මානයේ එකවරම ඇතිවූ හදිසි අසනීප තත්වයක් නිසා පුද්ගලයින් තුන්දෙනෙකු මියගොස් ඇතැයි වරකාගොඩ පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ කරන්නාගොඩ , වරකාගොඩ ලිපිනයේ පදිංචි රොෂාන් ඉන්දික පෙරේරා (43) මුතු කුඩ ආරච්චිගේ පද්මසිරි විජය ගුණවර්ධන(69) සහ හොඳමුනිගේ උපුල්(64) යන පුද්ගලයින්වේ.
+
+මීට අමතරව මෙම ප්‍රදේශයේම තවත් පුද්ගලයකු අසාධ්‍ය තත්ත්වයෙන් කොළඹ ජාතික රෝහලේ මේ වන විට ප්‍රතිකාර ලබමින් සිටී..
+
+කෙසේ වෙතත් මෙම පුද්ගලයින්  එකම ස්ථානයකින් යම් බීමක් මත්ද්‍රව්‍යයක් , ලබා ගෙන ආහාරයට ගත්තා දැයි  යන්න පිළිබඳ තොරතුරු හා පරීක්ෂණ විමර්ශනය කරමින් පවතින බව වර්කාගොඩ පොලිසිය පවසයි.
+
+මියගිය තිදෙනාගේ සිරුරු මේ වන විට හොරණ දිස්ත්‍රික් රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර මෘත ශරීර සම්බන්ධ  තවමත්  පරීක්‍ෂණ කටයුතු සිදු කරමින් පවතින බව හොරණ හදිසි මරණ පරීක්ෂක සුමේධ ගුණවර්ධන මහතා පැවසීය.
+
+◼️
+
+[Data](articles/db246899.json)
 
 ---
 
@@ -2269,57 +2305,5 @@ Thus, the cabinet memorandum regarding the removal of salary disparity and allow
 [Data](articles/c6407c40.json)
 
 [Extended Data](ext_articles/c6407c40.ext.json)
-
----
-
-### Indian govt allows onion export to Sri Lanka & 5 more countries
-
-*2024-04-27 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-govt-allows-onion-export-to-Sri-Lanka-5-more-countries/108-281493) · `en`
-
-India, April 27 (ET) - The central government has allowed the export of 99,150 MT onion to six countries, Bangladesh, UAE, Bhutan, Bahrain, Mauritius and Sri Lanka.
-
-According to a press release, the decision comes against the backdrop of lower estimated Kharif and Rabi crops in 2023-24 compared to the previous year, coupled with increased demand in the international market.
-
-To facilitate the export, the National Cooperative Exports Limited (NCEL) has been designated as the agency responsible for exporting onions to these countries.
-
-Additionally, the government has permitted the export of 2000 MT of white onion, specifically cultivated for export markets in the Middle East and some European countries.
-
-The production cost of white onions is higher due to factors such as higher seed costs, adoption of good agricultural practices, and compliance with strict maximum residue limits requirements.
-
-...
-
-[Data](articles/2d21e848.json)
-
-[Extended Data](ext_articles/2d21e848.ext.json)
-
----
-
-### Landslide risk in Karandagolla, Ella - Wellawaya
-
-*2024-04-27 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196036) · `si`
-
-Karandagolla, Ella-Wellawaya, faces landslide risks. Studies on the situation, including water and geological research, are ongoing. Landslides in Maligatigolla have been reported, affecting water flow and river levels. The Uma Oya Project's Uma Ratawata reservoir is 2.5 km below the project. Landslides have been active since 2019, with a push of about 15 acres. The National Building Research Institute attributes the risk to non-landslides and drainage systems. If unchanged, the risk could affect Wellawaya.
-
-🟩
-
-Badulla District Secretary Prabhath Abeywardena says that a wide range of study is conducted on the landslide situation in the fall area of the Ella-Wellawaya.
-
-The District Secretary stated that the amount of water or geological research have not been confirmed to whether the situation has caused water to the tunnel of the Uma Oya project.
-
-The landslide of the Maligatigolla area in Ella-Karandagolla, landslide had been activated by the residents of the area.
-
-The landslide risk caused the flow of water and the river flowing in the area, and Ada Derameter was reported in the area.
-
-However, the Uma Ratawata reservoir operated under the Uma Oya Project is located about 2.5 km below the Uma Oya Project.
-
-Deputy Director of the District Disaster Management Unit, Deputy Director of the Disaster Management Unit, Deputy Director of Udaya Kumara said that the landslide is active from time to time since 2019.
-
-He had also had a push of about 15 acres, or a pushing down.
-
-...
-
-[Data](articles/a63f7ec3.json)
-
-[Extended Data](ext_articles/a63f7ec3.ext.json)
 
 ---

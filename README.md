@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 00:48:41**
+As of **2024-04-29 01:03:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,443 (99.9%) of 21,454 articles have been extended.
+21,448 (100.0%) of 21,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ These divided sympathies stemmed from the fact that I began my journalism career
 
 [Data](articles/213649d7.json)
 
+[Extended Data](ext_articles/213649d7.ext.json)
+
 ---
 
 ### May Day and the plight of Lankan workers - EDITORIAL
@@ -62,6 +64,8 @@ The average monthly household income of the poorest 20% of our population is Rs.
 
 [Data](articles/13f93437.json)
 
+[Extended Data](ext_articles/13f93437.ext.json)
+
 ---
 
 ### Dishonouring May day’s Haymarket Mayhem Heroes on May 1
@@ -73,6 +77,8 @@ The Haymarket affair, which occurred in Chicago 138 years ago, marked a signific
 ...
 
 [Data](articles/7ac522e8.json)
+
+[Extended Data](ext_articles/7ac522e8.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ The International Scout and Guide Fellowship (ISGF) is an organisation that help
 
 [Data](articles/7f52317b.json)
 
+[Extended Data](ext_articles/7f52317b.ext.json)
+
 ---
 
 ### Sri Lanka: A preferred haven for European senior citizens seeking serenity
@@ -105,6 +113,8 @@ While the concept of permanent tourism may seem novel, its implications for coun
 ...
 
 [Data](articles/de678766.json)
+
+[Extended Data](ext_articles/de678766.ext.json)
 
 ---
 

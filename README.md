@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 20:18:37**
+As of **2024-04-29 20:34:23**
 
 ## Newspaper Stats
 
-*Scraped **21,658** Articles*
+*Scraped **21,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,813
 tamilmirrorlk | 2,520
 adaderanalk | 2,574
 virakesarilk | 3,265
-dailymirrorlk | 3,368
+dailymirrorlk | 3,370
 adaderanasinhalalk | 3,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,656 (100.0%) of 21,658 articles have been extended.
+21,658 (100.0%) of 21,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Fire reported at girls’ college hostel in Weligama
+
+*2024-04-29 20:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-reported-at-girls-college-hostel-in-Weligama/108-281583) · `en`
+
+Colombo, April 29 (Daily Mirror) - A fiire has reportedly broken out in a girls' college hostel in Weligama.
+
+The fire had reportedly broken out on the third floor of a four-storied building where the hostel of the college is located.
+
+The Matara Municipal Fire Brigade Unit, the Weligama Police and local residents have assisted in bringing the flames under control and extinguishing the fire.
+
+The damage caused by the fire has not been revealed so far and another similar incident had also been reported in the same girls' school on March 3.
+
+◼️
+
+[Data](articles/c600a5e0.json)
+
+---
 
 ### Fire at a private women's school in Weligama
 
@@ -93,6 +111,8 @@ Colombo, April 29 (Daily Mirror) - Pope Francis will decide as to when Archbisho
 ◼️
 
 [Data](articles/dfaad54d.json)
+
+[Extended Data](ext_articles/dfaad54d.ext.json)
 
 ---
 
@@ -336,19 +356,25 @@ The Minister added that the interviews of recruiting interviews will be taken up
 
 ---
 
-### සංචිතය ඩොලර් බිලියන 5 ඉක්මවයි
+### The squad exceeds $ 5 billion
 
 *2024-04-29 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඩොලර්-බිලියන-5-ඉක්මවයි/11-409326) · `si`
 
-ශ්‍රී ලංකාවේ විදේශ සංචිතය ඩොලර් බිලියන 5 ඉක්මවා ඇතැයි මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි්‍
+Sri Lanka's foreign reserves surpass $5 billion, with tourism reaching 757,000 by April 25, contributing to the increase. The economy is expected to improve for the next three months.
 
-කොළඹදී පැවැති වැඩසටහනකදී අදහස් දක්වමින් ඔහු තවදුරටත් සඳහන් කළේ මේ වසරේ අප්‍රේල් 25 දා වන විට ශ්‍රී ලංකාවට සංචාරකයන් 757000 ඉක්මවා පැමිණ ඇති බවත් එය ලංකාවේ විදේශ සංචිතය ඉහළ යාමට හේතුවක් බවට පත්ව ඇති බවත් ඔහු පැවැසීය.
+🟩
 
-එසේම ඉදිරි මාස තුනක කාලය තුළ ශ්‍රී ලංකාවේ ආර්ථිකය තවදුරටත් යහපත් වෙනු ඇති බවත් එහි ප්‍රතිලාභ ජනතාවට ලැබෙනු ඇති බවත් රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+Sri Lanka's foreign reserves have exceeded $ 5 billion, State Minister Shehan Semasinghe
+
+Speaking at a program in Colombo, he added that Sri Lanka had reached 757,000 tourists by April 25 this year, he had become a reason for the increase in the foreign reserves in Sri Lanka.
+
+The State Minister pointed out that the Sri Lankan economy will be further good for the next three months.
 
 ◼️
 
 [Data](articles/adc2ad87.json)
+
+[Extended Data](ext_articles/adc2ad87.ext.json)
 
 ---
 
@@ -1103,6 +1129,18 @@ There have been new expectations on the ceasefire as Israel's airstrike continue
 [Data](articles/5c7571f3.json)
 
 [Extended Data](ext_articles/5c7571f3.ext.json)
+
+---
+
+### Lourdes Aurudu Udawa 2024
+
+*2024-04-29 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lourdes-Aurudu-Udawa-2024/110-281572) · `en`
+
+'Lourdes Aurudu Udawa 2024' was held recently at the Basilica Church in Tewatte, Ragama. The event was organised by the Church Sunday school. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/1dfc71a3.json)
 
 ---
 
@@ -2323,53 +2361,5 @@ The OIC had fallen into the site due to a heart attack on the OIC of the Open Co
 [Data](articles/f6759078.json)
 
 [Extended Data](ext_articles/f6759078.ext.json)
-
----
-
-### A friend arrested for Angoda Loka'a's friend
-
-*2024-04-29 11:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கொட-லொக்கா-வின்-நண்பர்-கைது/175-336491) · `ta`
-
-Angoda Loka's friend, Ellalalake Sarath Kumara, arrested at Bandaranaike International Airport with a fake passport. He's a key figure in Angoda Loka's operations, involved in smuggling and a 2011 shooting.
-
-🟩
-
-A friend of Angoda Loka, a 'Angoda Loka' friend, has been arrested at the Bandaranaike International Airport.
-
-The 47 -year -old Ellalalake Sarath Kumara, also known as 'City', was arrested while attempting to go abroad with a fake passport, police said.
-
-The suspect has been arrested after he was identified by the AFRS (AFRS) mounted on the airport departure terminal.
-
-During further investigations, it was revealed that the suspect was the main partner of Angoda Loka and was searched by the Mulleriya police for smuggling ice.
-
-It has also been reported that the suspect has been involved in a number of crimes such as the shooting of a person in the Wellampitiya Police Division in 2011.
-
-◼️
-
-[Data](articles/7a44636a.json)
-
-[Extended Data](ext_articles/7a44636a.ext.json)
-
----
-
-### Achievement in a distinct surgery
-
-*2024-04-29 11:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனித்துவமான-அறுவை-சிகிச்சையில்-சாதனை/175-336490) · `ta`
-
-Kalutara Teaching Hospital successfully performed a unique kidney stone removal surgery using a Disposable Flexible Yuritroscope, with the patient reportedly in good health.
-
-🟩
-
-For the first time, the Kalutara Teaching Hospital has undergone a unique surgery that removes stones in both kidneys.
-
-The operation is carried out through a small hole using the device called Disposable Flexible Yuritroscope.
-
-It is noteworthy that doctors who underwent surgery have reported that the patient is currently in good health.
-
-◼️
-
-[Data](articles/b2972a95.json)
-
-[Extended Data](ext_articles/b2972a95.ext.json)
 
 ---

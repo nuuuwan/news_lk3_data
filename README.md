@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 14:34:22**
+As of **2024-04-29 14:52:38**
 
 ## Newspaper Stats
 
-*Scraped **21,585** Articles*
+*Scraped **21,587** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 185
 bbccomsinhala | 225
-dbsjeyarajcom | 229
+dbsjeyarajcom | 230
 newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,806
-tamilmirrorlk | 2,508
+tamilmirrorlk | 2,509
 adaderanalk | 2,565
 virakesarilk | 3,247
 dailymirrorlk | 3,356
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,583 (100.0%) of 21,585 articles have been extended.
+21,585 (100.0%) of 21,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### ஐக்கிய மக்கள் சக்தி இரு பேரணிகளை நடாத்தவுள்ளது
+
+*2024-04-29 14:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-இரு-பேரணிகளை-நடாத்தவுள்ளது/175-336505) · `ta`
+
+ஐக்கிய மக்கள் சக்தி (SJB) இந்த ஆண்டு கொழும்பிலும் நுவரெலியாவிலுமாக இரண்டு மே தின பேரணிகளை நடத்த உள்ளது.
+
+பிரதான பேரணி கொழும்பு சத்தம் வீதியிலும் மற்றைய பேரணி நுவரெலியாவிலும் நடைபெறவுள்ளதாக SJB தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+"நுவரெலியாவில் நடைபெறும் பேரணியை தமிழ் முற்போக்குக் கூட்டணி (TPA) ஏற்பாடு செய்ய உள்ளது, ஆனால் SJB தலைவர் இரண்டு பேரணிகளிலும் பங்கேற்பார்" என அத்தநாயக்க கூறினார்.
+
+SJB மே தின ஊர்வலம் குணசிங்காபுரத்தில் இருந்து மதியம் 1 மணிக்கு தொடங்கும் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/15d485bf.json)
+
+---
 
 ### Japanese Foreign Minister visits Sri Lanka
 
@@ -148,23 +166,33 @@ Two prison officers took him to the room and attacked him asking if he had a cel
 
 ---
 
-### මුුහුණුපොත හරහා සංවධානය කල පාසල් සිසු සිසුවියන් 110 ක් සහභාගීවූ සාදය
+### 110 school students who participated in the grailpel
 
 *2024-04-29 13:47:03* · [`adalk`](https://www.ada.lk/breaking_news/මුුහුණුපොත-හරහා-සංවධානය-කල-පාසල්-සිසු-සිසුවියන්-110-ක්-සහභාගීවූ-සාදය/11-409323) · `si`
 
-අවුරුදු උත්සවයක් පවත්වාගෙන යන මුවාවෙන් පාසල් නොගොස් උසස් පෙළ සිසු,සිසුවියන් මුහුණු පොතෙන් සංවිධානය කොට අද(29) අම්බලන්ගොඩ දෙල්දූව පදේශයේ හෝටලයක පැවැත්වීමට තිබූ මිතුරු සාදයක් විසුරුවා හැරීමට පියවර ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+110 students from the University of Ambalangoda participated in the grailpel, leading to a protest by the principal and students. The police confirmed the presence of students at the hotel examination, which has been a concern for nine years.
 
-සිය පොලිස් ස්තානයේ නිලධාරීන් එම ස්ථානයට  අද(29) උදෑසන යනවිටත් එම හෝටලයට අවුරුදු දහනවකක් පමන වන මෙවර උසස් පෙළ විභාගයට පෙනී සිටින සිසු,සිසුවියන් විශාල පිරිසක් පැමිණ සිටිය බව ද පොලීසිය කියයි.
+🟩
 
-පාසල් නොගොස් මිතුරු සාදයට බහුල වශයෙන්ම පේම සම්බන්ධතා පවත්වාගෙන යන සිසු,සිසුවියන් ඇතුලු 110ක් සහභාගිවීමට නියමිතව තිබූ බවත් පොලීසිය කියයි.
+The A / L Partners who had been organized by the University of the University of Ambalangoda, Ambalangoda, was organized by the University of Ambalangoda, Ambalangoda today (29).
 
-මේ අවස්ථාවට සහභාගී වන එක් අයෙකුගෙන් රුපියල් දහස බැගින් එකතු කර ඇති බව අනාවරණයවූ බව ද පොලීසිය කියයි.
+The police say that the hotel has been present at the same time for the same hotel examination this year about nine years after his policeman officials.
 
-අවුරුදු උත්සවයක් පැවැත්විය යුත්තේ කීඩාංගණයක බවත් මේ තරුණ ,තරුණියන් හෝටලයක් මේ සදහා තෝරාගෙන තිබුණේ අවුරුදු උත්සවයේ නමින් මිතුරු සාදයක් පැවැත්වීමට බවද අනාවරණයවූ බවද පොලීසිය කියයි.
+The police say that at least 110 students, including students, maintaining views, are not at school.
 
-...
+According to the police, it was revealed that one of the participants had been collected from Rs.
+
+A New Year festival should be held in a stadium and revealed that a young and young girl hotel had been selected for this year's friendship.
+
+The principal of the school also has led to the protest with a group of students in Ambalangoda.
+
+The decrease in the school today, the highest student density was impossible to maintain its Advanced Level classes.
+
+◼️
 
 [Data](articles/2e16f762.json)
+
+[Extended Data](ext_articles/2e16f762.ext.json)
 
 ---
 
@@ -2453,23 +2481,5 @@ The financial sector regulator in its Annual Economic Review 2023 released last 
 [Data](articles/de1399dc.json)
 
 [Extended Data](ext_articles/de1399dc.ext.json)
-
----
-
-### Mujibur blames Govt. for failing to address Opposition’s fresh poser on Easter attacks
-
-*2024-04-29 01:46:49* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-blames-Govt-for-failing-to-address-Opposition-s-fresh-poser-on-Easter-attacks/56-761155) · `en`
-
-SJB Deputy General Secretary Mujibur Rahman addressing the media yesterday
-
-Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman raised concerns yesterday about the lack of information regarding the guests who stayed in room 616 of the Shangri-La Hotel before being occupied by the Easter Sunday attackers including Zahran Hashim on 20 April 2019.
-
-During a press briefing yesterday, Rahman highlighted that court proceedings have unveiled a concerning lack of information regarding the occupants of room 616 at the Shangri-La Hotel in the days leading up to the terrorist attack. He noted that while details of other guests have emerged, court revelations indicate that individuals were present in the room despite a lack of information about them. “The evidence provided by staffers attests to this fact,” he said.
-
-...
-
-[Data](articles/8a32ca6e.json)
-
-[Extended Data](ext_articles/8a32ca6e.ext.json)
 
 ---

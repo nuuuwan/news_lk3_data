@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 16:18:36**
+As of **2024-04-29 16:35:13**
 
 ## Newspaper Stats
 
-*Scraped **21,611** Articles*
+*Scraped **21,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,807
 tamilmirrorlk | 2,512
-adaderanalk | 2,568
+adaderanalk | 2,569
 virakesarilk | 3,255
 dailymirrorlk | 3,359
 adaderanasinhalalk | 3,502
@@ -26,25 +26,47 @@ adaderanasinhalalk | 3,502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,610 (100.0%) of 21,611 articles have been extended.
+21,611 (100.0%) of 21,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### දකුණේ අපරාධ මැඩලිමට විශේෂ පොලිස් කණ්ඩායම් 30ක්
+### Deadline for accepting donations to Gaza Children’s Fund extended
+
+*2024-04-29 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98917/deadline-for-accepting-donations-to-gaza-childrens-fund-extended) · `en`
+
+The deadline for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to aid those affected by conflicts in Gaza, has now been extended until May 31, 2024.
+
+Originally scheduled to conclude on April 30, 2024, the extension follows a widespread appeal from across the island. Irrespective of background, citizens have rallied behind the President’s call to support this cause, the President’s Media Division (PMD) said.
+
+In the initial phase, on behalf of the government, President Ranil Wickremesinghe handed over US$ 01 million to the Palestinian government through the United Nations from the allocations set aside by ministries and government institutions to hold this year’s Iftar celebration. Subsequent donations will also be formally transferred to the Palestinian government.
+
+...
+
+[Data](articles/ee962340.json)
+
+---
+
+### 30 special police teams to criminate crimes in the South
 
 *2024-04-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196097) · `si`
 
-දකුණු පළාතේ පාතාල ක්‍රියාකරම් හා අපරාධ මැඩලීම සඳහා විශේෂ පුහුණුව සහිත පොලිස් කණ්ඩායම් 30ක් යෙදවීමට කටයුතු කර තිබේ.
+30 special police teams, trained to combat crimes in the South, have been deployed in Mirissa, under the Matara Crimes Division, established by an Assistant Superintendent of Police.
 
-මත්ද්‍රව්‍ය ජාවාරම් සිදුවන විට හා අපරාධයක් සිදුවූ විට ක්ෂණිකව ක්‍රියාත්මක විය හැකි වන පරිදි මිරිස්ස ප්‍රදේශයේ පිහිටුවා තිබූ මාතර අපරාධ කොට්ඨාසයේ මෙහෙයුම් කටයුතු මාතර ඉසදින් නගරයේ අද ස්ථාපනය කළේය.
+🟩
 
-සහකාර පොලිස් අධිකාරිවරයෙකුගේ අධීක්ෂණය යටතේ මෙම විශේෂ පොලිස් ඒකකය පිහිටුවා ඇති අතර ඒ සඳහා පොලිස් නිල සුනඛ ඒකකයක්ද, විශේෂ පුහුණුව ලත් ප්‍රහාරක පොලිස් ඒකකයක් අනුයුක්තව තිබිම විශේෂත්වයකි.
+Troops of 30 police teams with special training have been deployed to suppress underworld activities and crimes in the Southern Province.
+
+The operation of the Matara Crimes Division established in Mirissa today, the Matara Crimes Division established in Mirissa today, which was established in Mirissa.
+
+The special police unit was established under the supervision of an Assistant Superintendent of Police.
 
 ◼️
 
 [Data](articles/435d1964.json)
+
+[Extended Data](ext_articles/435d1964.ext.json)
 
 ---
 
@@ -2427,29 +2449,5 @@ Meanwhile, more than 7,000 soldiers have been removed during the first week duri
 [Data](articles/09be26b8.json)
 
 [Extended Data](ext_articles/09be26b8.ext.json)
-
----
-
-### Chennai team wins two wickets
-
-*2024-04-29 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196073) · `si`
-
-Chennai Super Kings beat Sunrises Hyderabad in IPL, scoring 212/3. Sunrises were bowled out for 18 in 13 balls, with Visitor Pathirana taking 2 wickets.
-
-🟩
-
-Chennai Super Kings won the match between the Sunrises Hyderabad team in the Indian Premier League.
-
-Channai Super Kings scored 212 runs for the loss of 03 wickets at the end of the match.
-
-Batting to batland, Sunrises Hyderabad was bowled out for 18 balls at the end of 13 balls.
-
-Super fast bowler Visitor Pathirana took 02 wickets in yesterday's day.
-
-◼️
-
-[Data](articles/66a29f25.json)
-
-[Extended Data](ext_articles/66a29f25.ext.json)
 
 ---

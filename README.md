@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 01:34:07**
+As of **2024-04-30 01:51:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,722 (100.0%) of 21,723 articles have been extended.
+21,723 (100.0%) of 21,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Executive Director PAFFREL Rohana Hettiarachchi made these remarks while address
 ...
 
 [Data](articles/5aac4dbc.json)
+
+[Extended Data](ext_articles/5aac4dbc.ext.json)
 
 ---
 

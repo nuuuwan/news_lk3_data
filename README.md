@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 23:18:50**
+As of **2024-04-29 23:34:15**
 
 ## Newspaper Stats
 
-*Scraped **21,680** Articles*
+*Scraped **21,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,175
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,817
-tamilmirrorlk | 2,520
+tamilmirrorlk | 2,521
 adaderanalk | 2,578
 virakesarilk | 3,265
-dailymirrorlk | 3,377
+dailymirrorlk | 3,378
 adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,678 (100.0%) of 21,680 articles have been extended.
+21,680 (100.0%) of 21,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### தனியார் பாடசாலையில் தீ விபத்து
+
+*2024-04-29 23:10:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-பாடசாலையில்-தீ-விபத்து/175-336534) · `ta`
+
+வெலிகம பிரதேசத்தில் உள்ள தனியார் மகளிர் பாடசாலை ஒன்றில் இன்று (29)  தீ பரவல் ஏற்பட்டது.
+
+பாடசாலையின் விடுதி அமைந்துள்ள நான்கு மாடி கட்டிடத்தின் மூன்றாவது மாடியில் இவ்வாறு தீ விபத்து ஏற்பட்டுள்ளது.
+
+மாத்தறை தீயணைப்புப் பிரிவு, வெலிகம பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை கட்டுப்படுத்த நடவடிக்கை எடுத்தனர். (a)
+
+◼️
+
+[Data](articles/60ad336a.json)
+
+---
+
+### President’s next revolution is to uplift agriculture through modern technology: Pavithra
+
+*2024-04-29 23:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-next-revolution-is-to-uplift-agriculture-through-modern-technology-Pavithra/108-281586) · `en`
+
+Colombo, April 29 (Daily Mirror) - President Ranil Wickremesinghe's next revolution is to prepare the farmers for the upliftment of agriculture based on modern technology, Wildlife and Forest Resources Conservation and Irrigation Minister Pavithra Wanniarachchi said.
+
+She pointed out that outdated agriculture practices should be stopped, and that the time has come to introduce smart agriculture systems to the farmer community in the country.
+
+She also said that the Asian Development Bank (ADB) has agreed to grant USD 10 million to uplift the livelihoods of the farmers through smart agriculture activities.
+
+The bank reached this agreement following her request, she added.
+
+While addressing an event organized in Ratnapura to distribute smart agriculture equipment for farmers in the area, she said that it is important not to subsidize the upliftment of the people but to provide them the strength to stand up independently.
+
+...
+
+[Data](articles/72fd9d83.json)
+
+---
 
 ### BASL calls for removal of Minister Tiran Alles over controversial remarks
 
@@ -67,6 +103,8 @@ Ms Kumaratunga said there was no truth in the reports that she was supporting th
 ...
 
 [Data](articles/226be54a.json)
+
+[Extended Data](ext_articles/226be54a.ext.json)
 
 ---
 
@@ -2227,53 +2265,5 @@ The petition was presented by the Minister Wijayadasa Rajapaksa.
 [Data](articles/617c0533.json)
 
 [Extended Data](ext_articles/617c0533.ext.json)
-
----
-
-### Two persons sentenced to death
-
-*2024-04-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196087) · `si`
-
-Two defendants convicted in a 22-year-old attack in Colombo were sentenced to death by Judge Amal Ranarajah, but the second and fourth were acquitted. The case involved the murder of Singain Nadesan.
-
-🟩
-
-Two defendants have been convicted of being attacked a person with a sharp weapon in the Gasadapha Junction of Colombo, about 22 years ago.
-
-The order was issued by the Colombo High Court Judge Amal Ranarajah.
-
-The order had issued the order to conclude that the complaints filed by the complaint had been proved without fair unsure.
-
-The second and fourth defendants in that case have been ordered to be acquitted and released.
-
-The case had filed the case against these accused by the Attorney General regarding the murder of Singain Nadesan with sharp weapons.
-
-◼️
-
-[Data](articles/1ccf96d7.json)
-
-[Extended Data](ext_articles/1ccf96d7.ext.json)
-
----
-
-### Seven hospitalsed following brawl at Menikhinna Hospital
-
-*2024-04-29 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-hospitalsed-following-brawl-at-Menikhinna-Hospital/108-281565) · `en`
-
-Menikhinna, April 29 (Daily Mirror)- Seven individuals were hospitalised following a brawl between the staff of the Menikhinna Hospital and a group of people who had come to admit a patient.
-
-The brawl had taken place after an altercation between the group who had come to admit the patient and the hospital staff.
-
-People who had came to admit the patient claim that the hospital staff, including a doctor assaulted them even with chairs.
-
-Menikhinna police who arrived at the scene upon receiving a telephone call took steps to admit the injured to the Kandy Hospital.
-
-Investigations have been launched to ascertain whether the hospital staff was under the influence of liqour at the time of the incident.
-
-◼️
-
-[Data](articles/9313d098.json)
-
-[Extended Data](ext_articles/9313d098.ext.json)
 
 ---

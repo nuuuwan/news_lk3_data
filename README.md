@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 12:50:55**
+As of **2024-04-29 13:03:47**
 
 ## Newspaper Stats
 
-*Scraped **21,556** Articles*
+*Scraped **21,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,146 @@ dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,802
 tamilmirrorlk | 2,502
-adaderanalk | 2,562
-virakesarilk | 3,242
+adaderanalk | 2,563
+virakesarilk | 3,247
 dailymirrorlk | 3,353
-adaderanasinhalalk | 3,491
+adaderanasinhalalk | 3,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,553 (100.0%) of 21,556 articles have been extended.
+21,556 (100.0%) of 21,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### ටයිටැනික් මතකය අලුත් කළ රන් ඔරලෝසුව
+### පුද්ගලයින් දෙදෙනෙකුට මරණ දඬුවම
+
+*2024-04-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196087) · `si`
+
+මීට වසර 22කට පමණ පෙර කොළඹ ගෑස්පහ හන්දිය ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධයකින් පහර දී ඝාතනය කිරීමේ සිද්ධියට වරදකරු වූ විත්තිකරුවන් දෙදෙනෙකුට මරණ දණ්ඩනය නියමකර තිබේ.
+
+කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් එම නියෝගය නිකුත් කළේය.
+
+එම විත්තිකරුවන් දෙදෙනාට පැමිණිල්ල විසින් ගොනුකළ චෝදනා සාධාරණ සැකයෙන් තොරව ඔප්පුකර ඇති බවට නිගමනය කරමින් කොළඹ මහාධිකරණ විනිසුරුවරයා මෙම නියෝගය නිකුත් කර තිබුණි.
+
+එම නඩුවේ දෙවන සහ හතරවන විත්තිකරුවන් දෙදෙනා නිදොස් කොට නිදහස් කිරීමට නියෝග කර ති‌බේ.
+
+සින්නයියා නඩේෂන් නැමැත්තාව තියුණු ආයුධවලින් පහරදී ඝාතනය කිරීම සම්බන්ධයෙන් නීතිපතිවරයා විසින් මෙම විත්තිකරුවන් ට එරෙහිව මෙම නඩුව ගොනු කර තිබුණි.
+
+◼️
+
+[Data](articles/1ccf96d7.json)
+
+---
+
+### சிட்னியில் கைதுசெய்யப்பட்ட பதின்மவயதினர்  கொலை செய்யவும் உயிரிழக்கவும் தயாராகயிருந்தனர் - அவுஸ்திரேலிய காவல்துறை
+
+*2024-04-29 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182224) · `ta`
+
+சிட்னியில் சமீபத்தில் கைதுசெய்யப்பட்ட பதின்மவயதினர் சிட்னி தேவாலய தாக்குதலின் பின்னர் பயங்கரவாத தாக்குதலை மேற்கொண்டு பலரை கொலை செய்துவிட்டு உயிரிழக்க தயாராகயிருந்தனர் என  அவுஸ்திரேலிய காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+இவர்களில் ஆறுபேர் சிட்னி தேவலாயத்தில் கத்திக்குத்து தாக்குதலை மேற்கொண்ட இளைஞனின் சகாக்கள் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+இவர்களிற்கு எதிராக பல குற்றச்சாட்டுகளை காவல்துறையினர் பயங்கரவாத தாக்குதலிற்கு திட்டமிட்டமை உட்பட பல குற்றச்சாட்டுகளை சுமத்தியுள்ளனர்.
+
+கைதுசெய்யப்பட்ட பதின்மவயதினரில் நால்வர் தேவாலய கத்திக்குத்து இடம்பெற்ற சில நாட்களின்பின்னர் மறைகுறியாக்கப்பட்ட செய்தியிடல் செய்தியான சிக்னல் மூலம் உரையாடியுள்ளனர்.
+
+நான் உயிரிழக்க விரும்புகின்றேன் நான் கொலை செய்ய விரும்புகின்றேன் நான் மிகுந்த ஆர்வத்துடன் உள்ளேன் என அவர்கள் தங்களுக்குள் தெரிவித்துள்ளனர்.
+
+அவன் திட்டம் உயிருடன் பிடிபடுவதா இறப்பதா என மற்றுமொரு இளைஞன் கேள்வி எழுப்பியுள்ளான்.
+
+நாங்கள் திட்டமிடப்போகின்றோம் தப்பிப்பதுதான் எங்கள் திட்டம் ஆனால் என்ன நடந்தாலும் அது அல்லாவின் வலிமை என அவன் தெரிவித்துள்ளான்.
+
+...
+
+[Data](articles/89c0dbad.json)
+
+---
+
+### Three dead, four hospitalised after consuming illicit liquor in Kalutara
+
+*2024-04-29 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98911/three-dead-four-hospitalised-after-consuming-illicit-liquor-in-kalutara) · `en`
+
+Three individuals from the Pahala Karannagoda area of Warakagoda in Kalutara, have died due to a sudden illness after consuming illicit liquor.
+
+The victims are reported to be residents of the Karannagoda area, aged between 43 and 68.
+
+Relatives of the deceased individuals state that all three of them had consumed illicit liquor on Saturday night (27).
+
+One of the victims died while at home yesterday morning (28), while another fell ill and had taken medication from a private dispensary. Subsequently, he fell ill again and died while en route to the hospital. It is reported that the other person succumbed to his illness while undergoing treatment at Horana Hospital.
+
+According to family sources, all three victims have had similar symptoms such as loss of vision and excessive vomiting.
+
+Additionally, four individuals from the same area are currently undergoing treatment at Colombo-South Teaching Hospital, Horana Hospital, and Jayawardenapura Hospital, exhibiting similar symptoms.
+
+...
+
+[Data](articles/1b1c4f9d.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-29 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182221) · `ta`
+
+இன்று திங்கட்கிழமை (ஏப்ரல் 29) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 291.524 ஆகவும் விற்பனை விலை ரூபா 300.9597ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/6d46b026.json)
+
+---
+
+### வடக்கு மாகாண வேலையில்லா பட்டதாரிகள் சங்கம் போராட்டம்
+
+*2024-04-29 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182218) · `ta`
+
+அனைத்து பட்டதாரிகளுக்கும் பாரபட்சமின்றி வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி யாழ்ப்பாணத்தில் போராட்டமொன்று முன்னெடுக்கப்பட்டது.
+
+வடக்கு மாகாண வேலையில்லா பட்டதாரிகள் சங்கத்தின் ஏற்பாட்டில் யாழ் மாவட்டச் செயலகத்திற்கு முன்னாள் இன்று காலை இப் போராட்டம் மேற்கொள்ளப்பட்டது.
+
+இதன் போது ஏமாற்றாதே ஏமாற்றாதே பட்டதாரிகளை ஏமாற்றாதே, வேண்டும் வேண்டும் வேலை வேண்டும், நாசம் நாசம் கனவுகள் நாசம் உள்ளிட்ட பல்வேறு கோஷங்களை எழுப்பியிருத்தனர்.
+
+மேலும் பலவருட கனவு வெறும் கனவாகவே போய் விடுமா, எமக்கான வாழ்க்கையை நாம் எப்போது வாழ்வது, அழிக்காதே அழிக்காதே எமது எதிர்காலத்தை அழிக்காதே, வயது ஏறுது வாழ்க்கை போகுது வேலை வேண்டும் உள்ளிட்ட பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளைத் தாங்கியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+
+இதனைத் தொடர்ந்து நீண்ட காலமாக வேலையில்லாமல் தாம் எதிர்நோக்கும் பிரச்சனைகள் மற்றும் பாதிப்புக்களை சுட்டிக்காட்டி தமக்கான வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி வடக்கு மாகாண ஆளுநர் ஊடாக ஐனாதிபதிக்கு மகஜர் ஒன்றையும் அனுப்பி வைத்துள்ளனர்.
+
+...
+
+[Data](articles/40981c5b.json)
+
+---
+
+### Titanic Memory Renewed Gold Clock
 
 *2024-04-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196086) · `si`
 
-සිය මංගල මුහුදු ගමන අතරතුරදී අනතුරට ලක්ව ගිලි ගිය ටයිටැනික් නෞකාව තවමත් විවිධ පුවත් මවයි.
+John Jacob Astor, a businessman, died on the Titanic in 1912. His gold pocket watch, sold at auction for £900,000, was a key factor in its discovery. The final price, after taxes, was £1.175 million.
 
-එම නෞකාව එංගලන්තයේ සවුතැම්ප්ටන් සිට අමෙරිකාවේ නිව් යෝර්ක් දක්වා ගමන් කරමින් සිටියදී 1912 අප්‍රේල් 12 වනදා උතුරු අත්ලාන්තික් මුහුදේදී අයිස් කුට්ටියක ගැටී ගිලී ගියේය.
+🟩
 
-එම නෞකාවේ ගමන් කරමින් සිදී ධනවත්ම මගියා වූයේ ජෝන් ජේකොබ් ඇස්ටර් නම් ව්‍යාපාරිකයෙකි.
+Titanic, which was submerged during his debut trip, still news.
 
-ඔහුද එම අනතුරින් මියගියේය. නමුත් ඔහු පැළඳ සිටි රත්‍රන් "පොකට් ඔරලෝසුව" නිසා ටයිටැනික් වෘතාන්තය නැවතත් කරළියට පැමිණ තිබේ.
+On April 12, 1912, was hit and killed in a iceberg in the North Atlantic Sea.
 
-එම රන් ඔරලෝසුව පවුම් 900,000කට වෙන්දේසියකදී විකිණී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+John Jacob Aster was a businessman named John Jacob aster.
 
-එංගලන්තයේ විල්ෂයර් ප්‍රදේශයේ පැවති වෙන්දේසියක් සඳහා එය ඉදිරිපත් කර තිබූ අතර එහි ආරම්භක වටිනාකම සඳහන් වූයේ පවුම් 150,000ක් ලෙසට ය.
+He died in the accident. But because the Titanic was once again came to the forest because of the gold "pocket clock" he worn.
 
-ඒ සඳහා බදු සහ වෙනත් ගාස්තු ගෙවු පසු එම ඔරලෝසුව මිලදී ගත් පුද්ගලයාට ගෙවීමට සිදුවන සම්පූර්ණ මුදල පවුම් මිලියන 1.175කි.
+International media reports that the gold watch has been sold at auction for £ 900,000.
+
+It was presented for a auction in Wilshire, England, and the opening value was mentioned.
+
+After tax and other fees paid, the full amount to pay the watch was 1.175 million to pay.
 
 ◼️
 
 [Data](articles/7c268795.json)
+
+[Extended Data](ext_articles/7c268795.ext.json)
 
 ---
 
@@ -160,6 +264,22 @@ When she told her girlfriend what had happened, the girlfriend informed her an e
 
 ---
 
+### பரீட்சை திணைக்களம் விடுத்துள்ள அறிவித்தல்!
+
+*2024-04-29 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182213) · `ta`
+
+மே 6 ஆம் திகதி ஆரம்பமாகவுள்ள சாதாரணத் தர  பரீட்சை தொடர்பான மேலதிக வகுப்புகள்,  கருத்தரங்குகள் என்பன நாளை செவ்வாய்க்கிழமை (30) நள்ளிரவு முதல் பரீட்சை நிறைவடையும் வரை தடை செய்யப்பட்டுள்ளதாக பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+
+பரீட்சை காலப்பகுதியில்,  பாடங்கள்  தொடர்பான குறிப்புக்கள்,பாட விரிவுரை,  வகுப்புகள் நடத்துதல் மற்றும்  கருத்தரங்குகள் போன்றவற்றை நடாத்துவதற்கு தடை செய்யப்பட்டுள்ளதாக  பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும் பரீட்சை தொடர்பான வினாக்கள் வழங்கப்படும் என சுவரொட்டிகளை காட்சிப்படுத்தல், கையேடுகள் வழங்குதல் மற்றும் அச்சிடப்பட்ட கையேடுகள் வழங்குதல் போன்ற செயற்பாடுகளும்  தடை செய்யப்பட்டுள்ளதாக பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c17df89a.json)
+
+---
+
 ### Three killed in a village
 
 *2024-04-29 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196085) · `si`
@@ -193,6 +313,26 @@ The police have been arrested by the police on the information of the villagers 
 [Data](articles/cdbd04e2.json)
 
 [Extended Data](ext_articles/cdbd04e2.ext.json)
+
+---
+
+### யாழ்.சிறைக்கூடத்தில் பீடி வைத்திருந்தார்கள் என கைதிகள் மீது தாக்குதல்
+
+*2024-04-29 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182214) · `ta`
+
+யாழ்ப்பாண சிறைச்சாலை உத்தியோகஸ்தர்களின் தாக்குதலுக்கு உள்ளானதாக தெரிவித்து இரண்டு விளக்கமறியல் கைதிகள் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+யாழ்ப்பாண சிறைச்சாலையில் நீதிமன்ற உத்தரவில் விளக்கமறியலில் தடுத்து வைக்கப்பட்டிருந்த ஒருவரை அவரது தாயார் பார்வையிட சென்ற சமயம் அவருக்கு பீடி வழங்கியுள்ளார்.
+
+அதனை சிறைக்கூடத்திற்குள் வைத்திருந்தவேளை , சிறைச்சாலை உத்தியோகஸ்தர்கள் கண்டறிந்து , அவற்றை பறிக்க முயன்ற வேளை முரண்பாடு ஏற்பட்டு  , விளக்கமறியல் கைதியை தாக்கியுள்ளனர். அதேவேளை , பீடி வைத்திருந்த தகவலை தமக்கு வழங்கவில்லை என அந்த சிறைக்கூடத்தில் இருந்த மற்றையவரையும் தாக்கியுள்ளனர்.
+
+இந்நிலையில், தாக்குதலுக்கு இலக்கான இருவரும் வழக்கு தவணைக்காக யாழ்.நீதவான் நீதிமன்றுக்கு அழைத்து சென்ற வேளை, தம் மீதான தாக்குதல் தொடர்பில் மன்றில் தெரிவித்தனர்.
+
+அதனை அடுத்து இருவரையும் சிகிச்சைக்காக யாழ்.போதான வைத்தியசாலையில் அனுமதித்து, சட்ட வைத்திய அதிகாரி முன்னிலையில் முற்படுத்தி மருத்துவ சான்றிதழ் பெற்று மன்றில் சமர்ப்பிக்குமாறு நீதவான் கட்டளையிட்டார்.
+
+◼️
+
+[Data](articles/91a4de7d.json)
 
 ---
 
@@ -1006,21 +1146,27 @@ The victim was a 30 year old resident of the area.
 
 ---
 
-### කජු කර්මාන්තකරුවන් ලියාපදිංචි කරයි
+### Cashew industrialists register
 
 *2024-04-29 09:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කජු-කර්මාන්තකරුවන්-ලියාපදිංචි-කරයි/11-409313) · `si`
 
-දිවයින පුරා විසිරී සිටින කජු ආශ්‍රිත කර්මාන්තයේ නියැලී සිටින ව්‍යවසායකයන් ලියා  පදිංචි කිරීමට  ශ්‍රි  ලංකා කජු සංස්ථාව තීරණය කර තිබේ.
+The Cashew Corporation is registering cashew industry entrepreneurs nationwide, aiming to provide accurate information for government policy planning and other organizations. This registration is crucial for the cashew industry's development and prioritizes entrepreneurs. Cashew growers, plantations, calcar, machiners, and importers must register by May 31st.
 
-රජයේ ප්‍රතිපත්තිමය සැළසුම් සකස් කිරීමේදී හා ක්ෂේත්‍රය සඳහා විවිධාකාර අනුග්‍රහයන් ලබාදීමේදී විවිධ ආයතනවලට නිවැරදි තොරතුරු ලබාදීම මෙමගින් අපේක්ෂිත බව කජු සංස්ථාව පවසයි.
+🟩
 
-ඉදිරියේදී කජු කර්මාන්තයට අදාලව රාජ්‍ය ආයතන සමග ගනුදෙනු කිරීමේදී හා එම ව්‍යවසායකයන්ට ප්‍රමුඛතාව ලබාදීමට     මෙම ලියාපදිංචිය අත්‍යවශ්‍ය බවද  කජු සංස්ථාව පැවසීය.
+The Cashew Corporation has decided to register entrepreneurs in the cashew industry throughout the country.
 
-මේ අනුව  කජු වගා කරුවන් ,කජු පිරිසැකසුම්කරුවන් ,කජු මද අපනයනකරුවන් හා ආනයනකරුවන් ,කජු නිෂ්පාදන යන්ත්‍ර නිෂ්පාදකයන් හා ආනයනකරුවන් ඇතුළු කජු කර්මාන්තයේ නියැලී සිටින ව්‍යවසායකයන් මැයි 31 දිනට පෙර කජු සංස්ථාවේ ලියාපදිංචි විය යුතු බවද කජු සංස්ථාව වැඩිදුරටත් පැවසීය.
+The Cashew Corporation says it is expected to provide accurate information to various institutions in providing various organizations for the field of government policy planning and various organizations.
+
+The Cashew Corporation said that this registration is essential for the implementation of the cashew industry and to give priority to those entrepreneurs.
+
+Accordingly, cashew growers, cashew growers, cashew plantations, cashew calculars, cashew machiners and importers, and importers should register in the Cashew Corporation before May 31st.
 
 ◼️
 
 [Data](articles/6d4c3f62.json)
+
+[Extended Data](ext_articles/6d4c3f62.ext.json)
 
 ---
 
@@ -1503,6 +1649,8 @@ They were charged for being part of an unlawful assembly that committed the crim
 ◼️
 
 [Data](articles/a8b47db4.json)
+
+[Extended Data](ext_articles/a8b47db4.ext.json)
 
 ---
 
@@ -2259,161 +2407,5 @@ This is the success of the government and this is a success for its members. Inv
 [Data](articles/fb988397.json)
 
 [Extended Data](ext_articles/fb988397.ext.json)
-
----
-
-### Warning about today
-
-*2024-04-28 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-தினம்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-336461) · `ta`
-
-The Department of Meteorology warns of rising temperatures in many parts of the country today, advising to stay hydrated, seek shade, and control outdoor activities.
-
-🟩
-
-The Department of Meteorology said that temperatures in many parts of the country today (29) will increase to the level of observation.
-
-In the Northern, North Central, Sabaragamuwa, Eastern and North Western provinces, in some parts of the human body, the human body is perceived in some areas.
-
-The Department of Meteorology has advised to follow health advice such as adequate watering, relaxing as shadowy places as possible, and controlling the outside.. Remble
-
-◼️
-
-[Data](articles/4b83500d.json)
-
-[Extended Data](ext_articles/4b83500d.ext.json)
-
----
-
-### Sri Lanka will remain unstable until Easter attack concerns are clarified and resolved - AKD
-
-*2024-04-28 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98905/sri-lanka-will-remain-unstable-until-easter-attack-concerns-are-clarified-and-resolved-akd) · `en`
-
-Leader of the National People’s Power (NPP) Anura Kumara Dissanayaka states that opposing political factions might unite in order to ensure that the NPP will not come into power.
-
-Addressing a gathering in Stockholm, Sweden, he also stated that Sri Lanka will continue to be unstable until questions regarding the Easter Sunday attacks are clarified and resolved.
-
-“All opposing factions including Chandrika, Mahinda and Ranil will be joining one platform in the upcoming presidential election. They are already making plans to unite”, Dissanayake said.
-
-“However, personal disputes between Ranil and Sajith will be an obstacle. There won’t be any concerns in terms of policies for this unification.”
-
-“They must unite in order to hinder the development of the NPP as well as to prevent the NPP from coming into power”, he added.
-
-Speaking further, the NPP leader also hinted that the Presidential Election is likely to be held either on September 28 or October 05, 2024.
-
-...
-
-[Data](articles/7ddc595b.json)
-
-[Extended Data](ext_articles/7ddc595b.ext.json)
-
----
-
-### Foreign debt restructuring: Too late and too short to get out of the debt trap
-
-*2024-04-28 22:34:34* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-debt-restructuring-Too-late-and-too-short-to-get-out-of-the-debt-trap/4-761118) · `en`
-
-Exterior of the Ministry of Finance and the Treasury. Time is running out for Sri Lanka, and it should fast track the restructuring program though it is not adequate to get the country out of the present debt trap
-
-What is being bargained is much less than the relief of $ 14 billion expected through debt restructuring. While noting that it is not a relief for Sri Lanka, the Government’s initiative to reach some agreement with them should be commended. Hence, any delay in reaching an agreement will be a killer for Sri Lanka which will have to sacrifice all the hard-earned gains so far relating to pushing the country back to normalcy
-
-...
-
-[Data](articles/22e76b44.json)
-
-[Extended Data](ext_articles/22e76b44.ext.json)
-
----
-
-### Superior surgery that everyone surprised
-
-*2024-04-28 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196066) · `si`
-
-Kalutara Teaching Hospital introduces groundbreaking surgery using disposable flexible tools, surprising everyone.
-
-🟩
-
-The first time in the Kalutara Teaching Hospital has been launched at the Kalutara Teaching Hospital.
-
-This surgery has been carried out through a small hole using DISPOSABLE FLEXIBLE.
-
-The surgery doctors say that after the patient is in good health.
-
-◼️
-
-[Data](articles/b4bb97fd.json)
-
-[Extended Data](ext_articles/b4bb97fd.ext.json)
-
----
-
-### New news of landslide near Uma Oya project
-
-*2024-04-28 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196065) · `si`
-
-Senior geologists from the National Building Research Institute have joined the NBRO to assess landslide risks near the Uma Oya project. The Badulla District Secretary is taking measures to reduce the mountain range's rise, which could mitigate landslides. Landslides have been active on a two-acre slope in Ella-Karandagolla, and residents have observed silver-like waterfalls indicating landslide characteristics. However, the District Secretary, Parit Abeywardena, stated that these findings have not been confirmed by hydrological or geological research.
-
-🟩
-
-Senior Geologists in the National Building Research Institute have decided to join the NBRO for the risk of landslides, about two and a half km away from the Uma Oya project.
-
-The Badulla District Secretary said that necessary arrangements are being taken to reduce the rise in the mountain range to reduce the landslide.
-
-The authorities are strictly inscribed on the landslides that were active in the slope of about two acres of land in Ella - Karandagolla.
-
-The residents of the area donate the breastfall of water, which exhibits landslide characteristics and how it has silver.
-
-However, Badulla District Secretary Parit Abeywardena said yesterday that it was not confirmed by a hydrological or geological research.
-
-Meanwhile, Badulla District Secretary and several others were inspected in the area.
-
-◼️
-
-[Data](articles/1bb532e2.json)
-
-[Extended Data](ext_articles/1bb532e2.ext.json)
-
----
-
-### Development officers will be sick tomorrow
-
-*2024-04-28 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196064) · `si`
-
-Development officers will take sick leave tomorrow due to trade union action. Over 14,000 officials will participate. Services will halt from May 6 if demands are not met.
-
-🟩
-
-The Development Officer Federation has decided to engage in a trade union action to report sick leave tomorrow after several requests.
-
-At a press conference held today, the Chairman of the Federation Anuradha Seneviratne said that over 14,000 economic development officials will join this project island wide.
-
-Economic Development Officers will leave all services from May 6, if it does not give a solution to their requests.
-
-◼️
-
-[Data](articles/31d328c5.json)
-
-[Extended Data](ext_articles/31d328c5.ext.json)
-
----
-
-### Arrested at Angoda Loka's Saka Airport
-
-*2024-04-28 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182181) · `ta`
-
-A colleague of Angoda Loka, a late underworld figure, was arrested at Katunayake airport for attempting to leave the country with fake documents, using modern equipment in a police raid.
-
-🟩
-
-A colleague of the late underworld, known as Angoda Loka, has been arrested at the Katunayake airport.
-
-He was arrested while trying to leave the country with fake travel documents.
-
-The police media spokesman said he was arrested during a raid through a newly equipped modern equipment at the airport.
-
-◼️
-
-[Data](articles/73f6e729.json)
-
-[Extended Data](ext_articles/73f6e729.ext.json)
 
 ---

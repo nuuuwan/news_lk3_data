@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 09:34:12**
+As of **2024-04-29 09:52:58**
 
 ## Newspaper Stats
 
-*Scraped **21,506** Articles*
+*Scraped **21,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,103 @@ tamilmirrorlk | 2,492
 adaderanalk | 2,559
 virakesarilk | 3,230
 dailymirrorlk | 3,349
-adaderanasinhalalk | 3,481
+adaderanasinhalalk | 3,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,503 (100.0%) of 21,506 articles have been extended.
+21,506 (100.0%) of 21,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### தோல்விக்கு பிறகு வெற்றி; மீண்டு வந்த சென்னை அணி
+### 19 හැවිරිදි තරුණයෙකු ඝාතනය කෙරේ
+
+*2024-04-29 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196076) · `si`
+
+කුරුවිට පොලිස් වසමේ වලදුර ප්‍රදේශයේ සහෝදරයන් දෙදෙනෙකු අතර ඇති වු ආරවුලක් දුරදිග යෑමෙන් ඝාතනයක් සිදුව තිබේ.
+
+පොලීසිය සඳහන් කළේ, බාල සහෝදරයා විසින් වැඩිමහල් සහෝදරයාට කතුරකින් ඇන බරපතළ තුවාල සිදුකර රත්නපුර රෝහලට ඇතුළත් කිරීමෙන් පසුව මියගොස් ඇති බවය.
+
+මෘත ශරීරය රත්නපුර රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, ඝාතනය සම්බන්ධයෙන් 17 හැවිරිදි බාල සහෝදරයා අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/bc52d3ea.json)
+
+---
+
+### මාස 9 බිළිඳිය ව ඝාතනය කරලා
+
+*2024-04-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196075) · `si`
+
+මහබාගේ පොලිස් වසමේ හලන්දුරුව පාර, රාගම යන ප්‍රදේශයේ පදිංචිව සිටි මාස 9ක් වූ බිළිඳියක් ඝාතනය කර ඇතැයි වාර්තා වේ.
+
+පොලීසිය සඳහන් කළේ, ඊයේ (28) උදෑසන බිළිඳියව කවුරුන් හෝ විසින් රැගෙන ගොස් ඇති බවට බිළිඳියගේ පියා විසින් පැමිණිලි කළ බවය.
+
+පසුව පැමිණිකරු පදිංචිව සිටි නිවස ආසන්නයේ ළිඳක් තුළ තිබී බිළිඳියකගේ සිරුර ගොඩ ගෙන තිබේ.
+
+සිදුකළ විමර්ශනයේ දී අනාවරණය වී ඇත්තේ මව විසින් බිළිඳියව ළිඳට දමා ඇති බවය.
+
+එලෙස අත්අඩංගුවට පත්ව ඇත්තේ, අවුරුදු 30ක් වූ එම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/2f9eea64.json)
+
+---
+
+### Success after failure;The recovery of the Chennai team
 
 *2024-04-29 09:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தோல்விக்கு-பிறகு-வெற்றி-மீண்டு-வந்த-சென்னை-அணி/44-336482) · `ta`
 
-அடுத்தடுத்த இரண்டு போட்டியிலும் மோசமான தோல்வியை சந்தித்த ருத்துராஜ் தலைமையிலான சென்னை சூப்பர் கிங்ஸ் அணி, நடப்பு ஐபிஎல் தொடரின் 46வது போட்டியில் ஹைதராபாத் அணியை எதிர்கொண்டது.
+Chennai Super Kings, led by Rutraj, bounced back from losses by defeating Hyderabad in the 46th IPL match, setting a target of 213 and bowling out Hyderabad for 134, winning by 78 runs. Key players were Rutraj Kaikwad (98 runs) and Dial Mitchell (52 runs). Dusar Daspande took 4 wickets, with Mustafizur Rahman and Badra each taking 2.
 
-சென்னை சேப்பாக்கம் மைதானத்தில் நேற்று நடைபெற்ற இந்த போட்டியில் முதலில் துடுப்பெடுத்தாடிய சென்னை அணி ஹைதராபாத்துகு்கு 213 ஒட்டங்களை இலக்காக நிர்ணயித்தது.
+🟩
 
-சென்னை அணியில் அதிகபட்சமாக ருத்துராஜ் கெய்க்வாட் 98 ரன்களும், டேரியல் மிட்செல் 52 ஒட்டங்களும் எடுத்தனர்.
+The Chennai Super Kings team, led by Rutraj, who suffered a bad defeat in the next two matches, faced Hyderabad in the 46th match of the current IPL.
 
-பந்துவீச்சிலும் சிறப்பாக செயல்பட்ட சென்னை சூப்பர் கிங்ஸ் அணி, ஹைதராபாத் அணியின் அனைத்து முக்கிய வீரர்களின் விக்கெட்டையும் கைப்பற்றி 134 ஓட்டங்களுக்கு கட்டுப்படுத்தியது.
+The Chennai team first batted at the Chepakkam Ground in Chennai yesterday and set a target of 213 runs for Hyderabad.
 
-இதன் மூலம் 78 ஓட்டங்கள் வித்தியாசத்தில் அபார வெற்றி பெற்ற சென்னை சூப்பர் கிங்ஸ் அணி, நடப்பு தொடருக்கான புள்ளி பட்டியலில் மூன்றாவது இடத்துகு்கு முன்னேறியது.
+Rutraj Kaikwad scored 98 runs and Dial Mitchell scored 52 runs.
 
-பந்துவீச்சில் சென்னை சூப்பர் கிங்ஸ் அணி சார்பில் அதிகபட்சமாக துசார் தேஸ்பாண்டே 4 விக்கெட்டுகளையும், முஸ்தபிசுர் ரஹ்மான் மற்றும் பதிரான தலா 2 விக்கெட்டுகளையும் கைப்பற்றி சென்னை அணியின் வெற்றியை இலகுவாக்கினர்.
+The Chennai Super Kings, who bowled well, took the wicket of all the major players in the Hyderabad team and controlled it to 134 runs.
+
+The Chennai Super Kings team, which won by 78 runs, advanced to the third place in the current series.
+
+Dusar Daspande took 4 wickets for the Chennai Super Kings team in bowling, while Mustafizur Rahman and Badra each took 2 wickets each.
 
 ◼️
 
 [Data](articles/b4377240.json)
 
+[Extended Data](ext_articles/b4377240.ext.json)
+
 ---
 
-### வெப்பநிலை குறித்து எச்சரிக்கை
+### Alarm about the temperature
 
 *2024-04-29 09:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-எச்சரிக்கை/175-336481) · `ta`
 
-நாடளாவிய ரீதியில் பல பகுதிகளில் இன்று (29) வெப்பநிலையானது அவதானம் செலுத்த வேண்டிய மட்டத்துக்கு அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of a temperature rise today (29°C) across many parts of the country, especially in the North, North Central, Sabaragamuwa, Eastern, and North Western provinces. Moneragala and Hambantota districts are also affected. Advised measures include adequate watering, staying in the shade, and reducing outdoor activities.
 
-வடக்கு, வடமத்திய, சப்ரகமுவ, கிழக்கு, மற்றும் வடமேல் மாகாணங்களில் மனித உடலால் உணரப்படும் அளவிற்கு வெப்பம் அதிகரிக்கக்கூடும் என திணைக்களம் கூறியுள்ளது.
+🟩
 
-இதேவேளை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களிலும் இந்த நிலை அதிகரித்து காணப்படும்.
+The Department of Meteorology has said that the temperature will increase to the level of observation today (29) in many parts of the country.
 
-போதிய அளவு நீர் அருந்துதல், நிழலான இடங்களில் ஓய்வெடுத்தல், வெளியில் நடமாடுவதை குறைத்துக்கொள்ளல் போன்ற நடவடிக்கைகளை  பின்பற்றுமாறு மக்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+The department said that the human body could increase in the North, North Central, Sabaragamuwa, Eastern and North Western provinces.
+
+Meanwhile, the situation will increase in Moneragala and Hambantota districts and some places.
+
+People have been advised to adopt measures such as adequate watering, relaxing in shadow and reducing the outside.
 
 ◼️
 
 [Data](articles/647370e0.json)
+
+[Extended Data](ext_articles/647370e0.ext.json)
 
 ---
 
@@ -89,6 +137,8 @@ However, misty conditions can be expected at some places in the Sabaragamuwa and
 ◼️
 
 [Data](articles/87b14251.json)
+
+[Extended Data](ext_articles/87b14251.ext.json)
 
 ---
 
@@ -2267,51 +2317,5 @@ Thus, Siyambalapitiya further clarified that the accusations raised by some stak
 [Data](articles/da6f23cd.json)
 
 [Extended Data](ext_articles/da6f23cd.ext.json)
-
----
-
-### Special notice of a new racket
-
-*2024-04-28 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196056) · `si`
-
-The Presidential Secretariat has exposed a racket involving fake documents in entertainment incidents, targeting investors and employment expenses. President Prasad Senarath urges anyone involved to contact Senior Assistant Assistant Senarath at 071 530 8032 to establish their identity.
-
-🟩
-
-The Presidential Secretariat says that the investigation racket is revealed to the public office as being held in the presidency.
-
-In a statement, the Presidential Secretariat says the fake documents have been filed in the incident and reports of entertainment incidents.
-
-Investors and employment expenses have been a special target of these racketeers.
-
-The presidential office was shown to beware of such cheating racketeers.
-
-Similarly, if there is any such thing as such a person, 071 530 8032 President Prasad Senarath will be able to establish his identity by contacting Senior Assistant Assistant Senarath.
-
-◼️
-
-[Data](articles/9401161c.json)
-
-[Extended Data](ext_articles/9401161c.ext.json)
-
----
-
-### Announcement on false use of the name of the Presidential office
-
-*2024-04-28 16:30:06* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කාර්යාලෙය්-නම-ව්‍යාජව-භාවිත-කිරීමක්-ගැන-නිවේදනයක්/11-409302) · `si`
-
-The Presidential Secretariat warns against false use of the Presidential office's name, especially in visa acquisition scams. Investors and employers have reportedly been involved in such fraudulent activities. The Presidential Assistant Secretary, Prasad Senarath, has been confirmed by the Secretary to the President to address these issues.
-
-🟩
-
-The Presidential Secretariat says that the investors, employers have reportedly entered into custody and acquisition of visas for reports of employers, expects to obtain visas into various countries and various countries.
-
-The Presidential Secretariat requests the public to beware of such fraudsters, and as soon as a doubt about such people, the Presidential Assistant Secretary to the President Prasad Senarath has been confirmed by the Secretary to the President.
-
-◼️
-
-[Data](articles/6a8ed805.json)
-
-[Extended Data](ext_articles/6a8ed805.ext.json)
 
 ---

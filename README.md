@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 07:43:04**
+As of **2024-04-29 07:55:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,475
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,478 (100.0%) of 21,487 articles have been extended.
+21,487 (100.0%) of 21,487 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He also said two Indian singers will also perform together with local artistes a
 ...
 
 [Data](articles/a2ab83bf.json)
+
+[Extended Data](ext_articles/a2ab83bf.ext.json)
 
 ---
 
@@ -96,6 +98,8 @@ Last week, Public Security Minister Tiran Alles said in Parliament that Mr. Siri
 
 [Data](articles/3b4635ad.json)
 
+[Extended Data](ext_articles/3b4635ad.ext.json)
+
 ---
 
 ### Apparel sector revenue totals US$ 1.17 bn in 1Q24
@@ -117,6 +121,8 @@ Overall exports to the US decreased by 5.11 percent while exports to the EU (exc
 ...
 
 [Data](articles/87892ce1.json)
+
+[Extended Data](ext_articles/87892ce1.ext.json)
 
 ---
 
@@ -298,6 +304,8 @@ The financial sector regulator in its Annual Economic Review 2023 released last 
 
 [Data](articles/de1399dc.json)
 
+[Extended Data](ext_articles/de1399dc.ext.json)
+
 ---
 
 ### Mujibur blames Govt. for failing to address Opposition’s fresh poser on Easter attacks
@@ -340,21 +348,27 @@ During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the
 
 ---
 
-### புத்தாண்டு நிகழ்வில் ஜனாதிபதி பங்கேற்பு
+### President's participation in New Year's Eve
 
 *2024-04-29 01:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்பு/175-336465) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் கொழும்பு மாநகர சபையின் முன்னாள் உறுப்பினர் கித்சிறி ராஜபக்‌ஷ, மருதானை – சுதுவெல்ல விளையாட்டுக் கழகத்துடன் இணைந்து நேற்று முன்தினம் நடத்திய புத்தாண்டு நிகழ்வுகள் டீன்ஸ் வீதி சுற்றுவட்டாரத்தில் நடைபெற்றன.
+President Ranil Wickremesinghe attended New Year's events in Deens Road, Colombo, where he crowned the top three New Year's beauties and awarded prizes in the All Ceylon Body Competition and bicycle competition.
 
-இதன் போதான பரிசளிப்பு நிகழ்வு நேற்று முன்தினம் மாலை ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் நடைபெற்றததோடு, முதல் மூன்று இடங்களை பெற்றுக்கொண்ட புத்தாண்டு அழகிகளுக்கு ஜனாதிபதியினால் மகுடம் அணிவிக்கப்பட்டது.
+🟩
 
-அகில இலங்கை உடல் கட்டழகு போட்டியில் முதல் மூன்று இடங்களைப் பெற்றுக்கொண்டவர்களுக்கும் சைக்கிளோட்ட போட்டியில் வெற்றி பெற்றவர்களுக்கும் ஜனாதிபதி பரிசுகளை வழங்கினார்.
+The New Year's events held yesterday in the Deens Road were held at the neighboring of the United National Party's Colombo Municipal Council, Kithsiri Rajapaksa and Maradana - Suduwella Sports Club yesterday.
 
-கித்சிறி ராஜபக்‌ஷவினால் இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு நினைவு பரிசு வழங்கப்பட்டது. (a)
+The prize giving was held yesterday evening under the patronage of President Ranil Wickremesinghe and the top three of the New Year's beauties were crowned by the President.
+
+The President presented prizes to the top three in the All Ceylon Body Competition and the winners of the bicycle competition.
+
+President Ranil Wickremesinghe was awarded a souvenir by Gitziri Rajapaksa. (A)
 
 ◼️
 
 [Data](articles/5b70a752.json)
+
+[Extended Data](ext_articles/5b70a752.ext.json)
 
 ---
 
@@ -378,17 +392,23 @@ In December of last year, Sri Lanka suspended the entry of foreign research vess
 
 ---
 
-### அபிவிருத்தி உத்தியோகத்தர்கள் பணிப்புறக்கணிப்பு
+### Development Officers Workplace
 
 *2024-04-29 01:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-பணிப்புறக்கணிப்பு/175-336464) · `ta`
 
-நாடளாவிய ரீதியில் அபிவிருத்தி உத்தியோகத்தர்கள் இன்று சுகவீன விடுமுறையை அறிவித்து பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளனர்.
+Development officers nationwide will be announced and engaged in the workplace, demanding solutions for transport and paperwork issues.
 
-தமக்கு போக்குவரத்து மற்றும் காகிதாதிகள் உள்ளிட்டவற்றை வழங்காமைக்கான உரிய தீர்வை பெற்றுத்தருமாறு கோரி அவர்கள் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளனர் என அதன் தலைவர் அனுராத செனவிரத்ன தெரிவித்துள்ளார்.  (a)
+🟩
+
+Development officers nationwide will be announced today and will be engaged in the workplace.
+
+Its leader Anuradha Seneviratne said that they will be engaged in the workplace demanding a proper solution for the lack of transport and paperwork.(a)
 
 ◼️
 
 [Data](articles/8a6b4afd.json)
+
+[Extended Data](ext_articles/8a6b4afd.ext.json)
 
 ---
 
@@ -696,19 +716,25 @@ This is the success of the government and this is a success for its members. Inv
 
 ---
 
-### இன்றைய தினம் குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+### Warning about today
 
 *2024-04-28 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-தினம்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-336461) · `ta`
 
-நாடளாவிய ரீதியில் இன்று (29) பல பகுதிகளில் வெப்பநிலையானது அவதானம் செலுத்த வேண்டிய மட்டத்திற்கு அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology warns of rising temperatures in many parts of the country today, advising to stay hydrated, seek shade, and control outdoor activities.
 
-வடக்கு, வடமத்திய, சப்ரகமுவ, கிழக்கு, மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களில் மனித உடலால் உணரப்படும் அளவிற்கு வெப்பம் அதிகரிக்கக்கூடும்.
+🟩
 
-இதன்போது போதிய அளவு நீர் அருந்துதல், முடிந்தவரை நிழலான இடங்களில் ஓய்வெடுத்தல், வெட்ட வெளியில் நடமாடுவதைக் கட்டுப்படுத்துதல் போன்ற சுகாதார ஆலோசனைகளைப் பின்பற்றுமாறு  வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
+The Department of Meteorology said that temperatures in many parts of the country today (29) will increase to the level of observation.
+
+In the Northern, North Central, Sabaragamuwa, Eastern and North Western provinces, in some parts of the human body, the human body is perceived in some areas.
+
+The Department of Meteorology has advised to follow health advice such as adequate watering, relaxing as shadowy places as possible, and controlling the outside.. Remble
 
 ◼️
 
 [Data](articles/4b83500d.json)
+
+[Extended Data](ext_articles/4b83500d.ext.json)
 
 ---
 
@@ -883,6 +909,30 @@ Police Media Spokesperson DIG's DIG'sary, lawyer, said Nihal Talduuwa said the s
 [Data](articles/5bb83aff.json)
 
 [Extended Data](ext_articles/5bb83aff.ext.json)
+
+---
+
+### Sri Lanka’s car market set to coast downhill
+
+*2024-04-28 21:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-car-market-set-to-coast-downhill-160361/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s overheated second-hand car market is set to cool rapidly industry analysts said, with advertised brand new prices for vans being sharply below asking prices for used vehicles after import controls were partially relaxed for tourism.
+
+Toyota Lanka took out advertisements on Sunday to sell the new HiAce passenger van, which is permitted for use in the tourism sector, where the government would allow 750 vans to be imported.
+
+The move startled dealers who have been offering their used vans at astronomical prices.
+
+The price of a 13-seater automatic HiAce was listed at an all-inclusive price of 16 million rupees, nearly half the 32.5 million rupees asking price of a five-year-old HiAce that had travelled 48,000 kilometres, advertised in recent days.
+
+HiAce vans of various ages are still advertised around 14 to 23 million rupees in online market places.
+
+A salesman at Toyota said the price of a brand-new van included approximately 7.0 million rupees in taxes.
+
+...
+
+[Data](articles/6fe10968.json)
+
+[Extended Data](ext_articles/6fe10968.ext.json)
 
 ---
 
@@ -1373,30 +1423,6 @@ Sri Lanka A team scored 304 runs for the loss of 8 wickets in 50 overs.
 [Data](articles/d0565920.json)
 
 [Extended Data](ext_articles/d0565920.ext.json)
-
----
-
-### Sri Lanka’s car market set to coast downhill
-
-*2024-04-28 19:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-car-market-set-to-coast-downhill-160361/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s overheated second-hand car market is set to cool rapidly industry analysts said, with advertised brand new prices for vans being sharply below asking prices for used vehicles after import controls were partially relaxed for tourism.
-
-Toyota Lanka took out advertisements on Sunday to sell the new HiAce passenger van, which is permitted for use in the tourism sector, where the government would allow 750 vans to be imported.
-
-The move startled dealers who have been offering their used vans at astronomical prices.
-
-The price of a 13-seater automatic HiAce was listed at an all-inclusive price of 16 million rupees, nearly half the 32.5 million rupees asking price of a five-year-old HiAce that had travelled 48,000 kilometres, advertised in recent days.
-
-HiAce vans of various ages are still advertised around 14 to 23 million rupees in online market places.
-
-A salesman at Toyota said the price of a brand-new van included approximately 7.0 million rupees in taxes.
-
-...
-
-[Data](articles/6fe10968.json)
-
-[Extended Data](ext_articles/6fe10968.ext.json)
 
 ---
 

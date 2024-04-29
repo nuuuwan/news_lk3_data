@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 19:34:33**
+As of **2024-04-29 19:52:15**
 
 ## Newspaper Stats
 
-*Scraped **21,643** Articles*
+*Scraped **21,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,812
-tamilmirrorlk | 2,519
-adaderanalk | 2,572
+tamilmirrorlk | 2,520
+adaderanalk | 2,574
 virakesarilk | 3,255
 dailymirrorlk | 3,367
 adaderanasinhalalk | 3,509
@@ -26,21 +26,63 @@ adaderanasinhalalk | 3,509
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,642 (100.0%) of 21,643 articles have been extended.
+21,643 (100.0%) of 21,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### කොළඹ මැයි රැළි පැවැත්වෙන්නේ මෙහෙමයි
+### வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள எச்சரிக்கை
+
+*2024-04-29 19:33:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-விடுத்துள்ள-எச்சரிக்கை/175-336521) · `ta`
+
+கடும் மின்னல் தாக்கம் குறித்து வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை அறிக்கை ஒன்றை வௌியிட்டுள்ளது.
+
+மேல், மத்திய, தென், சப்ரகமுவ, ஊவா, வடமேல் மற்றும் வடமத்திய மாகாணங்களிலும் மன்னார் மாவட்டத்திலும் மாலை வேளையில் இடியுடன் கூடிய மழையுடன் கூடிய பலத்த மின்னலுக்கான அதிக சாத்தியக்கூறுகள் காணப்படுவதாக அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் போது அந்த பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+இதேவேளை, முல்லைத்தீவு - ஜயங்கன்குளம் பகுதியில், திங்கட்கிழமை (29) மாலை  மின்னல் தாக்கி இடி விழுந்ததில் குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் ஒருவர் படுகாயமடைந்துள்ளமை குறிப்பிடத்தக்கது.  R
+
+◼️
+
+[Data](articles/d49937d4.json)
+
+---
+
+### Special traffic plan in Colombo for May Day events
+
+*2024-04-29 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98922/special-traffic-plan-in-colombo-for-may-day-events-) · `en`
+
+A special traffic plan will be implemented in and around the areas where May Day parades and rallies will be held on Wednesday (May 01), Sri Lanka Police announced.
+
+Meanwhile, around 2,100 police officers have been deployed for the security duties of the May Day rallies, while 1,300 police officers will be deployed for the traffic duties during this period, according to the police.
+
+Accordingly, the Police Media Division has released detailed maps of road closures in Colombo and alternative routes to be used.
+
+◼️
+
+[Data](articles/f6f885a9.json)
+
+---
+
+### May Day waves in Colombo will be held
 
 *2024-04-29 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196104) · `si`
 
-ජාත්‍යන්තර කම්කරු දිනය නිමිත්තෙන් කොළඹ නගරය ආශ්‍රිතව පැවැත්වෙන රැළි සහ පෙළපාලි හේතුවෙන් ක්‍රියාත්මක විශේෂ රථවාහන සැලැස්ම පොලීසිය විසින් ප්‍රකාශයට පත්කර තිබේ.
+Colombo's May Day events will feature a special traffic plan to honor International Labor Day.
+
+🟩
+
+Police have announced the special traffic plan in Colombo to mark the International Labor Day to mark the International Labor Day.
 
 ◼️
 
 [Data](articles/de7af2f2.json)
+
+[Extended Data](ext_articles/de7af2f2.ext.json)
 
 ---
 
@@ -63,6 +105,22 @@ Sources said that the Matara Fire Floor Unit, Weligama Police and the residents 
 [Data](articles/b5592cbe.json)
 
 [Extended Data](ext_articles/b5592cbe.ext.json)
+
+---
+
+### No transparency in electric vehicle scheme for migrant workers; CoPF calls for full analysis
+
+*2024-04-29 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98921/no-transparency-in-electric-vehicle-scheme-for-migrant-workers-copf-calls-for-full-analysis-) · `en`
+
+Since there is no transparency in the scheme of providing fully electric vehicle licenses to Sri Lankans working abroad and it appears that there are many issues pertaining to the matter, the Chair of the Committee on Public Finance Dr. Harsha de Silva instructed that a full analysis is needed to be carried out jointly with the Ministry of Finance, the Central Bank, Sri Lanka Customs and the Ministry of Labor and Foreign Employment.
+
+He further instructed that a report be submitted within two weeks on the said. Furthermore, until the analysis is received, it is not possible to give approval to the relevant gazette extending the period of licensing, the Chairman of the Committee said.
+
+It was also instructed to find out whether foreign remittances, which is the desired objective, have been received at a significant level through this system, or if some persons have misused this facility when preparing this analytical report, the Parliamentary Communications Department said in a statement.
+
+...
+
+[Data](articles/daee693a.json)
 
 ---
 
@@ -2333,85 +2391,5 @@ According to an official release, ATS Superintendent of Police KK Patel received
 [Data](articles/4f1c96a5.json)
 
 [Extended Data](ext_articles/4f1c96a5.ext.json)
-
----
-
-### The struggle was first that fell to the homes, toilets
-
-*2024-04-29 10:26:43* · [`adalk`](https://www.ada.lk/breaking_news/අරගලය-වෙලාවෙ-ගෙවල්-වලට-කඩා-වැදුණු-පිරිස්-මුලින්ම-කඩල-තිබුණේ-ටොයිලට්/11-409318) · `si`
-
-MP Madura Vithanage discusses school toilet issues in Sri Lanka, highlighting the need for environmental-friendly solutions and the impact of student behavior. He criticizes the lack of cleanliness and the absence of toilets, suggesting that decentralized funding could address these problems.
-
-🟩
-
-"The police were in the middle of the police, and the toilets were stone and the toilets were thrown into the sphere of roads in the school system.
-
-The divisional Director of Education is the 'Colombo District MP Madura Vithanage', Colombo, MP Madura Vithanage said.
-
-The MP had made these comments when the committee meeting was held in Sri Jayewardenepura Police.
-
-Speaking further he said he should think about the struggle.
-
-The MP said that it should raise the Silebas and set aside as environmental friendly, as well as his head.
-
-In some schools in 2022, the MP said that the toilet systems were destroyed by the students.
-
-When he went to schools, he said that some schools were found in some schools, Smart classrooms, the Smart classrooms, to protect the attitude of their children to protect their children's attitudes.
-
-...
-
-[Data](articles/cb9cb82e.json)
-
-[Extended Data](ext_articles/cb9cb82e.ext.json)
-
----
-
-### Ranilmakinda Chandrika can unite to prevent national people from coming to power - Anuragumara in Sweden
-
-*2024-04-29 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182203) · `ta`
-
-Anuragumaratisayake in Sweden suggests unifying against national power, including Chandrika Ranilmaginda, to prevent Sri Lanka's national people from gaining power. He mentions potential unity despite personal disputes between Ranil and Sajith, influenced by his policies.
-
-🟩
-
-He also said that the anti -Sri Lankan politics of the politics of Sri Lanka may unite to prevent the coming of the national people's power, he said.
-
-He said that the forces that are different poles in politics, including Chandrika Ranilmaginda, may be found on the same site.
-
-However, the personal disputes between Ranil and Sajith can be obstructed and that there will be no problems among them based on the policies of Anuragumaratisanayaka in Sweden.
-
-Anuragumaratisayake said that they could unite to prevent the development of the national people's power.
-
-Anura Kumaradisanayake, who said in Sweden, said the presidential election could be held from October 28 to October.
-
-The question is whether the resurrection and those who have been to prevent the resurrection are working together.
-
-Jamiel, who failed to detonate a bomb at the TajSamudra Hotel, has said that the JVP leader has gone to his home before the explosion of the bundle has gone to his home.
-
-◼️
-
-[Data](articles/6dba17d8.json)
-
-[Extended Data](ext_articles/6dba17d8.ext.json)
-
----
-
-### 10% of Sri Lanka’s population afflicted with Chronic Kidney Disease - report
-
-*2024-04-29 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98908/10-of-sri-lankas-population-afflicted-with-chronic-kidney-disease-report) · `en`
-
-Around 10% of Sri Lanka’s population is afflicted with Chronic Kidney Disease, the Chief Patron of All-island Kidney Patients’ Association Nephrologist Sanjaya Heiyanthuduwa says.
-
-Dr. Heiyanthuduwa expressed that the increase in diabetes among the population is the major cause of the increased figures of kidney patients.
-
-“Especially, diabetes is the main factor affecting kidney damage in Sri Lanka. Better diabetes control should be done to prevent kidney disease in these patients,” he said.
-
-“Additionally, adherence to medical advice and proper attendance at clinics are very important. The intake of excessive salt, sugar, and oil in food should be reduced. A healthy person should consume around three and a half liters of water per day in order to avoid this disease,” Dr. Heiyanthuduwa added.
-
-...
-
-[Data](articles/7dd5538e.json)
-
-[Extended Data](ext_articles/7dd5538e.ext.json)
 
 ---

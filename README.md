@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 13:03:47**
+As of **2024-04-29 13:18:31**
 
 ## Newspaper Stats
 
-*Scraped **21,563** Articles*
+*Scraped **21,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,125 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,802
-tamilmirrorlk | 2,502
+tamilmirrorlk | 2,504
 adaderanalk | 2,563
 virakesarilk | 3,247
-dailymirrorlk | 3,353
-adaderanasinhalalk | 3,492
+dailymirrorlk | 3,355
+adaderanasinhalalk | 3,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,556 (100.0%) of 21,563 articles have been extended.
+21,563 (100.0%) of 21,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### පුද්ගලයින් දෙදෙනෙකුට මරණ දඬුවම
+### වාරණයට එරෙහිව විජයදාසගෙන් පෙත්සමක්
+
+*2024-04-29 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196088) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් ඉකුත් දා කොළඹ දිසා අධිකරණය විසින් නිකුත් කළ වාරණ නියෝගය අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම සලකා බැලීම සඳහා මැයි මස 02 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+
+අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/617c0533.json)
+
+---
+
+### Two persons sentenced to death
 
 *2024-04-29 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196087) · `si`
 
-මීට වසර 22කට පමණ පෙර කොළඹ ගෑස්පහ හන්දිය ප්‍රදේශයේ දී පුද්ගලයෙකුට තියුණු ආයුධයකින් පහර දී ඝාතනය කිරීමේ සිද්ධියට වරදකරු වූ විත්තිකරුවන් දෙදෙනෙකුට මරණ දණ්ඩනය නියමකර තිබේ.
+Two defendants convicted in a 22-year-old attack in Colombo were sentenced to death by Judge Amal Ranarajah, but the second and fourth were acquitted. The case involved the murder of Singain Nadesan.
 
-කොළඹ මහාධිකරණ විනිසුරු අමල් රණරාජා මහතා විසින් එම නියෝගය නිකුත් කළේය.
+🟩
 
-එම විත්තිකරුවන් දෙදෙනාට පැමිණිල්ල විසින් ගොනුකළ චෝදනා සාධාරණ සැකයෙන් තොරව ඔප්පුකර ඇති බවට නිගමනය කරමින් කොළඹ මහාධිකරණ විනිසුරුවරයා මෙම නියෝගය නිකුත් කර තිබුණි.
+Two defendants have been convicted of being attacked a person with a sharp weapon in the Gasadapha Junction of Colombo, about 22 years ago.
 
-එම නඩුවේ දෙවන සහ හතරවන විත්තිකරුවන් දෙදෙනා නිදොස් කොට නිදහස් කිරීමට නියෝග කර ති‌බේ.
+The order was issued by the Colombo High Court Judge Amal Ranarajah.
 
-සින්නයියා නඩේෂන් නැමැත්තාව තියුණු ආයුධවලින් පහරදී ඝාතනය කිරීම සම්බන්ධයෙන් නීතිපතිවරයා විසින් මෙම විත්තිකරුවන් ට එරෙහිව මෙම නඩුව ගොනු කර තිබුණි.
+The order had issued the order to conclude that the complaints filed by the complaint had been proved without fair unsure.
+
+The second and fourth defendants in that case have been ordered to be acquitted and released.
+
+The case had filed the case against these accused by the Attorney General regarding the murder of Singain Nadesan with sharp weapons.
 
 ◼️
 
 [Data](articles/1ccf96d7.json)
 
+[Extended Data](ext_articles/1ccf96d7.ext.json)
+
 ---
 
-### சிட்னியில் கைதுசெய்யப்பட்ட பதின்மவயதினர்  கொலை செய்யவும் உயிரிழக்கவும் தயாராகயிருந்தனர் - அவுஸ்திரேலிய காவல்துறை
+### Seven hospitalsed following brawl at Menikhinna Hospital
+
+*2024-04-29 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seven-hospitalsed-following-brawl-at-Menikhinna-Hospital/108-281565) · `en`
+
+Menikhinna, April 29 (Daily Mirror)- Seven individuals were hospitalised following a brawl between the staff of the Menikhinna Hospital and a group of people who had come to admit a patient.
+
+The brawl had taken place after an altercation between the group who had come to admit the patient and the hospital staff.
+
+People who had came to admit the patient claim that the hospital staff, including a doctor assaulted them even with chairs.
+
+Menikhinna police who arrived at the scene upon receiving a telephone call took steps to admit the injured to the Kandy Hospital.
+
+Investigations have been launched to ascertain whether the hospital staff was under the influence of liqour at the time of the incident.
+
+◼️
+
+[Data](articles/9313d098.json)
+
+---
+
+### The teenagers arrested in Sydney were ready to kill and die - Australian police
 
 *2024-04-29 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182224) · `ta`
 
-சிட்னியில் சமீபத்தில் கைதுசெய்யப்பட்ட பதின்மவயதினர் சிட்னி தேவாலய தாக்குதலின் பின்னர் பயங்கரவாத தாக்குதலை மேற்கொண்டு பலரை கொலை செய்துவிட்டு உயிரிழக்க தயாராகயிருந்தனர் என  அவுஸ்திரேலிய காவல்துறையினர் தெரிவித்துள்ளனர்.
+Australian police arrest teenagers in Sydney for a terrorist attack following the Sydney church attack, with six being colleagues of a man shouting at the Sydney Devalaya. They allegedly planned the attack, expressed enthusiasm for killing and dying, and used the name of Allah's Veterans.
 
-இவர்களில் ஆறுபேர் சிட்னி தேவலாயத்தில் கத்திக்குத்து தாக்குதலை மேற்கொண்ட இளைஞனின் சகாக்கள் என காவல்துறையினர் தெரிவித்துள்ளனர்.
+🟩
 
-இவர்களிற்கு எதிராக பல குற்றச்சாட்டுகளை காவல்துறையினர் பயங்கரவாத தாக்குதலிற்கு திட்டமிட்டமை உட்பட பல குற்றச்சாட்டுகளை சுமத்தியுள்ளனர்.
+Australian police have said that the recently arrested teenagers in Sydney have carried out a terrorist attack after the Sydney church attack and killed many people.
 
-கைதுசெய்யப்பட்ட பதின்மவயதினரில் நால்வர் தேவாலய கத்திக்குத்து இடம்பெற்ற சில நாட்களின்பின்னர் மறைகுறியாக்கப்பட்ட செய்தியிடல் செய்தியான சிக்னல் மூலம் உரையாடியுள்ளனர்.
+Six of them were the colleagues of a young man who had been shouting at the Sydney Devalaya, police said.
 
-நான் உயிரிழக்க விரும்புகின்றேன் நான் கொலை செய்ய விரும்புகின்றேன் நான் மிகுந்த ஆர்வத்துடன் உள்ளேன் என அவர்கள் தங்களுக்குள் தெரிவித்துள்ளனர்.
+The police have made several allegations against them, including the plan for the terrorist attack.
 
-அவன் திட்டம் உயிருடன் பிடிபடுவதா இறப்பதா என மற்றுமொரு இளைஞன் கேள்வி எழுப்பியுள்ளான்.
+A few days after the four -year -old church knife in the arrested teenagers, they spoke with the Signal Signal Signal.
 
-நாங்கள் திட்டமிடப்போகின்றோம் தப்பிப்பதுதான் எங்கள் திட்டம் ஆனால் என்ன நடந்தாலும் அது அல்லாவின் வலிமை என அவன் தெரிவித்துள்ளான்.
+I want to die and I want to kill. I am very enthusiastic, ”they said.
 
-...
+Another young man has questioned whether his plan is alive or died.
+
+We are going to be planning to escape our plan but whatever happens, it is the strength of Allah.
+
+They used the name of Allah's Veterans.
+
+◼️
 
 [Data](articles/89c0dbad.json)
+
+[Extended Data](ext_articles/89c0dbad.ext.json)
+
+---
+
+### Children of Gaza Fund கால எல்லை நீடிப்பு
+
+*2024-04-29 12:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Children-of-Gaza-Fund-கால-எல்லை-நீடிப்பு/175-336498) · `ta`
+
+காஸா  மோதல்களினால் பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்குவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் ஆரம்பிக்கப்பட்ட காஸா சிறுவர் நிதியத்திற்கு (Children of Gaza Fund)  பங்களிப்புச் செய்வதற்கான காலஎல்லை 2024 மே 31 வரை நீடிக்கப்பட்டுள்ளது.
+
+இதற்குப் பங்களிக்க விரும்பும் நன்கொடையாளர்களுக்கு குறித்த திகதிக்கு முன்னர் தமது அன்பளிப்பை இலங்கை வங்கி தப்ரோபன் கிளையில் (747)   7040016 எனும் வங்கிக் கணக்கில்    வைப்பு செய்து பற்றுச்சீட்டை  077-9730396 என்ற எண்ணுக்கு WhatsApp  ஊடாக அனுப்புமாறு ஜனாதிபதி அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bf3ecb60.json)
 
 ---
 
@@ -96,37 +158,83 @@ Additionally, four individuals from the same area are currently undergoing treat
 
 [Data](articles/1b1c4f9d.json)
 
+[Extended Data](ext_articles/1b1c4f9d.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### SJB to hold two May Day rallies
+
+*2024-04-29 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-hold-two-May-Day-rallies/108-281564) · `en`
+
+Colombo, April 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) is to hold two May Day rallies this year, with one rally to be held in Colombo and the other in Nuwara Eliya.
+
+SJB National Organizer Tissa Attanayake said the main rally will be held at Chatham’s Street Colombo and the other in Nuwara Eliya.
+
+“The rally in Nuwara Eliya is to be organized by the Tamil Progressive Alliance (TPA) but the SJB leader will participate in both rallies,” Attanayake said.
+
+He said the SJB May Day procession is to begin from Gunasinhapura by 1 pm.
+
+◼️
+
+[Data](articles/662f0ae7.json)
+
+---
+
+### அமைச்சர் யோகோ கமிகாவா வருகிறார்
+
+*2024-04-29 12:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-யோகோ-கமிகாவா-வருகிறார்/175-336497) · `ta`
+
+ஜப்பானின் வெளிவிவகார அமைச்சர் யோகோ கமிகாவா இலங்கைக்கு  உத்தியோகபூர்வ  விஜயமொன்றை  மேற்கொள்ள உள்ளார். மே 04-05 வரை இரு நாட்களும் இலங்கையில் தங்கியிருப்பார்.
+
+◼️
+
+[Data](articles/4628f70e.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-04-29 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182221) · `ta`
 
-இன்று திங்கட்கிழமை (ஏப்ரல் 29) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 291.524 ஆகவும் விற்பனை விலை ரூபா 300.9597ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On April 29, the US purchasing price was Rs 291.524, and the sales price was Rs 300.9597, according to the Central Bank's currency exchange rate.
+
+🟩
+
+The US purchasing price was Rs 291.524 and the sales price were 300.9597 based on the Central Bank's currency exchange rate on Monday (April 29).
 
 ◼️
 
 [Data](articles/6d46b026.json)
 
+[Extended Data](ext_articles/6d46b026.ext.json)
+
 ---
 
-### வடக்கு மாகாண வேலையில்லா பட்டதாரிகள் சங்கம் போராட்டம்
+### Northern Province Unemployed Graduates Association Struggle
 
 *2024-04-29 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182218) · `ta`
 
-அனைத்து பட்டதாரிகளுக்கும் பாரபட்சமின்றி வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி யாழ்ப்பாணத்தில் போராட்டமொன்று முன்னெடுக்கப்பட்டது.
+The Northern Province Unemployed Graduates Association in Jaffna protested for job offers, demanding employment through a Mahajar to the President. They vowed to continue protests until their demands are met.
 
-வடக்கு மாகாண வேலையில்லா பட்டதாரிகள் சங்கத்தின் ஏற்பாட்டில் யாழ் மாவட்டச் செயலகத்திற்கு முன்னாள் இன்று காலை இப் போராட்டம் மேற்கொள்ளப்பட்டது.
+🟩
 
-இதன் போது ஏமாற்றாதே ஏமாற்றாதே பட்டதாரிகளை ஏமாற்றாதே, வேண்டும் வேண்டும் வேலை வேண்டும், நாசம் நாசம் கனவுகள் நாசம் உள்ளிட்ட பல்வேறு கோஷங்களை எழுப்பியிருத்தனர்.
+A struggle was launched in Jaffna demanding that all graduates be given a job offer.
 
-மேலும் பலவருட கனவு வெறும் கனவாகவே போய் விடுமா, எமக்கான வாழ்க்கையை நாம் எப்போது வாழ்வது, அழிக்காதே அழிக்காதே எமது எதிர்காலத்தை அழிக்காதே, வயது ஏறுது வாழ்க்கை போகுது வேலை வேண்டும் உள்ளிட்ட பல்வேறு வாசகங்கள் எழுதப்பட்ட பதாகைகளைத் தாங்கியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+The protest was held this morning to the Jaffna District Secretariat organized by the Northern Province Unemployed Graduates Association.
 
-இதனைத் தொடர்ந்து நீண்ட காலமாக வேலையில்லாமல் தாம் எதிர்நோக்கும் பிரச்சனைகள் மற்றும் பாதிப்புக்களை சுட்டிக்காட்டி தமக்கான வேலை வாய்ப்பை வழங்க வேண்டுமென வலியுறுத்தி வடக்கு மாகாண ஆளுநர் ஊடாக ஐனாதிபதிக்கு மகஜர் ஒன்றையும் அனுப்பி வைத்துள்ளனர்.
+Do not deceive at this time, do not deceive the graduates, to work, to work, ruin the ruin of dreams, raised various slogans.
+
+And many people struggled with banners, including banners, including the dream of going to be a dream, when we live our lives, when we live our lives, do not destroy our future, do not destroy our future.
+
+Following this, they have sent a Mahajar to the President through the Governor of the Northern Province, demanding that they provide their employment opportunities to point out the problems and effects they face for a long time.
+
+The graduates have also said that they will send copies of the Mahajar to politicians to emphasize these demands.
 
 ...
 
 [Data](articles/40981c5b.json)
+
+[Extended Data](ext_articles/40981c5b.ext.json)
 
 ---
 
@@ -264,19 +372,25 @@ When she told her girlfriend what had happened, the girlfriend informed her an e
 
 ---
 
-### பரீட்சை திணைக்களம் விடுத்துள்ள அறிவித்தல்!
+### The Examination Department issued the announcement!
 
 *2024-04-29 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182213) · `ta`
 
-மே 6 ஆம் திகதி ஆரம்பமாகவுள்ள சாதாரணத் தர  பரீட்சை தொடர்பான மேலதிக வகுப்புகள்,  கருத்தரங்குகள் என்பன நாளை செவ்வாய்க்கிழமை (30) நள்ளிரவு முதல் பரீட்சை நிறைவடையும் வரை தடை செய்யப்பட்டுள்ளதாக பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+The Examination Department announced that additional classes and seminars for the GCE Ordinary Level Examination, starting May 6, are prohibited from midnight until the end of the exam. During this period, lessons, lectures, classes, seminars, poster exhibitions, manuals, and printed manuals are banned.
 
-பரீட்சை காலப்பகுதியில்,  பாடங்கள்  தொடர்பான குறிப்புக்கள்,பாட விரிவுரை,  வகுப்புகள் நடத்துதல் மற்றும்  கருத்தரங்குகள் போன்றவற்றை நடாத்துவதற்கு தடை செய்யப்பட்டுள்ளதாக  பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேலும் பரீட்சை தொடர்பான வினாக்கள் வழங்கப்படும் என சுவரொட்டிகளை காட்சிப்படுத்தல், கையேடுகள் வழங்குதல் மற்றும் அச்சிடப்பட்ட கையேடுகள் வழங்குதல் போன்ற செயற்பாடுகளும்  தடை செய்யப்பட்டுள்ளதாக பரீட்சைத் திணைக்களம் தெரிவித்துள்ளது.
+Additional classes and seminars on the GCE Ordinary Level Examination, which begins on May 6, will be banned from tomorrow (30) from midnight to the end of the exam, the Department of Examinations said.
+
+During the exam period, the Department of Examinations has said that it has been banned from conducting lessons references, text lectures, classes and seminars.
+
+The Department of Examinations has said that the exhibition of posters, the provision of manuals and the provision of printed manuals has been banned.
 
 ◼️
 
 [Data](articles/c17df89a.json)
+
+[Extended Data](ext_articles/c17df89a.ext.json)
 
 ---
 
@@ -316,23 +430,29 @@ The police have been arrested by the police on the information of the villagers 
 
 ---
 
-### யாழ்.சிறைக்கூடத்தில் பீடி வைத்திருந்தார்கள் என கைதிகள் மீது தாக்குதல்
+### Attack on prisoners
 
 *2024-04-29 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182214) · `ta`
 
-யாழ்ப்பாண சிறைச்சாலை உத்தியோகஸ்தர்களின் தாக்குதலுக்கு உள்ளானதாக தெரிவித்து இரண்டு விளக்கமறியல் கைதிகள் யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two detainees at Jaffna Prison were attacked by officers for allegedly possessing a beedi. The incident led to their transfer to Jaffna Bodhana Hospital for treatment, with a magistrate's order and medical certificate.
 
-யாழ்ப்பாண சிறைச்சாலையில் நீதிமன்ற உத்தரவில் விளக்கமறியலில் தடுத்து வைக்கப்பட்டிருந்த ஒருவரை அவரது தாயார் பார்வையிட சென்ற சமயம் அவருக்கு பீடி வழங்கியுள்ளார்.
+🟩
 
-அதனை சிறைக்கூடத்திற்குள் வைத்திருந்தவேளை , சிறைச்சாலை உத்தியோகஸ்தர்கள் கண்டறிந்து , அவற்றை பறிக்க முயன்ற வேளை முரண்பாடு ஏற்பட்டு  , விளக்கமறியல் கைதியை தாக்கியுள்ளனர். அதேவேளை , பீடி வைத்திருந்த தகவலை தமக்கு வழங்கவில்லை என அந்த சிறைக்கூடத்தில் இருந்த மற்றையவரையும் தாக்கியுள்ளனர்.
+Two detainees have been admitted to the Jaffna Bodhana Hospital for allegedly attacking Jaffna Prison Officers.
 
-இந்நிலையில், தாக்குதலுக்கு இலக்கான இருவரும் வழக்கு தவணைக்காக யாழ்.நீதவான் நீதிமன்றுக்கு அழைத்து சென்ற வேளை, தம் மீதான தாக்குதல் தொடர்பில் மன்றில் தெரிவித்தனர்.
+When his mother went to visit a man who was detained in a court order in the Jaffna Prison, he was given a beedi.
 
-அதனை அடுத்து இருவரையும் சிகிச்சைக்காக யாழ்.போதான வைத்தியசாலையில் அனுமதித்து, சட்ட வைத்திய அதிகாரி முன்னிலையில் முற்படுத்தி மருத்துவ சான்றிதழ் பெற்று மன்றில் சமர்ப்பிக்குமாறு நீதவான் கட்டளையிட்டார்.
+While keeping it inside the prison, the prison officers found and tried to snatch them and attacked the prisoner.. At the same time, the other person in the jail has been attacked by the other person who has not provided the beedi information.
+
+In the meantime, the two men who were attacked to the Jaffna Magistrate's Court for a case were reported in the forum.
+
+Subsequently, the magistrate ordered the two men to be admitted to the Jaffna Hospital for treatment, in the presence of a legal officer and obtained a medical certificate.
 
 ◼️
 
 [Data](articles/91a4de7d.json)
+
+[Extended Data](ext_articles/91a4de7d.ext.json)
 
 ---
 
@@ -2309,103 +2429,5 @@ Maithripala Sirisena expelled Sri Lanka Freedom Party. The court has given him a
 [Data](articles/c0a6f5a0.json)
 
 [Extended Data](ext_articles/c0a6f5a0.ext.json)
-
----
-
-### Kapila Ariyaratne joins RIL Property Board
-
-*2024-04-28 22:58:58* · [`dailyftlk`](https://www.ft.lk/business/Kapila-Ariyaratne-joins-RIL-Property-Board/34-761123) · `en`
-
-Ex-banker Kapila Ariyaratne has been appointed to the Board of RIL Property PLC as an Independent Non-Executive Director.
-
-Ariyaratne is a career banker with over 38 years of banking experience having worked for several local as well as international banks both locally and overseas. Prior to his retirement in April 2023, he served as the Director/Chief Executive Officer at Seylan Bank PLC.
-
-After initial stints with Union Carbide Ceylon Ltd. and Chemical Industries Colombo Ltd. He started his banking career with Grindlays Bank in 1984. He spent the next 38 years with several local and international banks, including ABN Amro Bank NV, Mashreq Bank PSC, Arab National Bank (Riyadh), People’s Bank and Nations Trust Bank PLC before joining Seylan Bank as its CEO in 2011.
-
-...
-
-[Data](articles/5676e7c3.json)
-
-[Extended Data](ext_articles/5676e7c3.ext.json)
-
----
-
-### Maharaja Foods appoints two Non-Executive Independent Directors
-
-*2024-04-28 22:54:52* · [`dailyftlk`](https://www.ft.lk/business/Maharaja-Foods-appoints-two-Non-Executive-Independent-Directors/34-761122) · `en`
-
-Maharaja Foods Ltd., has announced the appointment of Imran Furkan and Melanga Doolwala as Non-Executive Independent Directors.
-
-Founded by the visionary entrepreneur late Sivasaraman Guganathan hailing from Velani -Jaffna, Maharaja Food Products commenced operations in 1995, sourcing premium quality food items such as rice, potatoes, onions, and lentils etc., empowering local farmers whilst providing high quality food products to its customers. Today, the company stands as a symbol of quality and innovation, enriching lives with a diverse array of products including rice-based and flour-based products, spices, fish-based products, and a range of grocery items, serving both local and overseas consumers through its network of distributors in Sri Lanka, France, United Kingdom and Australia.
-
-...
-
-[Data](articles/1c9ae8c3.json)
-
-[Extended Data](ext_articles/1c9ae8c3.ext.json)
-
----
-
-### Wither the Muslim parties
-
-*2024-04-28 22:48:44* · [`dailyftlk`](https://www.ft.lk/columns/Wither-the-Muslim-parties/4-761120) · `en`
-
-There is a new generation of Muslim voters now who, like their counterparts among Sinhalese and Tamils, are waking up to the challenge – Pic by Shehan Gunasekara
-
-As elections approach, the two Muslim parties, Sri Lanka Muslim Congress (SLMC) the senior and its breakaway junior All Ceylon Makkal Congress (ACMC), are on a bargain hunt looking for profitable deals with any of the national parties so that they could coalesce. This is not something new but had been the history of these ethno-religious adjuncts right from their inception.
-
-...
-
-[Data](articles/5a0e6787.json)
-
-[Extended Data](ext_articles/5a0e6787.ext.json)
-
----
-
-### Government action to increase EPF interest
-
-*2024-04-28 22:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-வட்டியை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/175-336462) · `ta`
-
-The government has increased the Employees Provident Fund interest rate from 9% to 13%, benefiting 27 lakh members. This move reflects the government's success in enhancing the fund's returns.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya told the media that the government has decided to increase the interest rate on the Employees Provident Fund from 9 per cent to 13 per cent.
-
-“The Employees Provident Fund is the largest fund in our country, with 27 lakh members. We are ready to pay 13 per cent instead of 9 percent of the money earned through the Employees Provident Fund for 2023.
-
-Was able to offer a minimum amount of 9 percent interest. But the government has taken steps to pay 13 percent.
-
-This is the success of the government and this is a success for its members. Investing this fund goes to members of the reasonable part of the profit available. ”. Remble
-
-◼️
-
-[Data](articles/f530be05.json)
-
-[Extended Data](ext_articles/f530be05.ext.json)
-
----
-
-### Government action to increase EPF interest
-
-*2024-04-28 22:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/EPF-வட்டியை-அதிகரிக்க-அரசாங்கம்-நடவடிக்கை/150-336462) · `ta`
-
-The government has increased the EPF interest rate from 9% to 13%, benefiting 27 lakh members. This is a success for both the government and its members, as it allows for a reasonable distribution of profits.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya told the media that the government has decided to increase the interest rate on the Employees Provident Fund from 9 per cent to 13 per cent.
-
-“The Employees Provident Fund is the largest fund in our country, with 27 lakh members. We are ready to pay 13 per cent instead of 9 percent of the money earned through the Employees Provident Fund for 2023.
-
-Was able to offer a minimum amount of 9 percent interest. But the government has taken steps to pay 13 percent.
-
-This is the success of the government and this is a success for its members. Investing this fund goes to members of the reasonable part of the profit available. ”. Remble
-
-◼️
-
-[Data](articles/fb988397.json)
-
-[Extended Data](ext_articles/fb988397.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 00:18:40**
+As of **2024-04-30 00:34:10**
 
 ## Newspaper Stats
 
-*Scraped **21,702** Articles*
+*Scraped **21,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,84 @@ adalk | 1,817
 tamilmirrorlk | 2,521
 adaderanalk | 2,578
 virakesarilk | 3,270
-dailymirrorlk | 3,378
+dailymirrorlk | 3,382
 adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,702 (100.0%) of 21,702 articles have been extended.
+21,702 (100.0%) of 21,706 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-30 (Tuesday)
+
+### A call to end  ‘Corporal Punishment’  and create a fear-free childhood
+
+*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-call-to-end-Corporal-Punishment-and-create-a-fear-free-childhood/172-281587) · `en`
+
+School and home are the places where children spend most of the time of the day; hence corporal punishment should be absent in both places and they should feel safe in such environments
+
+Research unequivocally shows that corporal punishment is linked to adverse outcomes, including increased aggression, poorer mental health, and diminished cognitive development, which could result in long-term psychological issues and social dysfunctions, ultimately contributing to a cycle of violence that affects the broader society and future generations
+
+A study on the perceptions of Sri Lankan parents on the use of corporal punishment (2012) found that 74 per cent of parents resort to corporal punishment
+
+The alternatives are rooted in communication, understanding, and mutual respect
+
+...
+
+[Data](articles/11ff1820.json)
+
+---
+
+### Law reforms stagnate in Lanka while world marks global Day to End Corporal Punishment
+
+*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Law-reforms-stagnate-in-Lanka-while-world-marks-global-Day-to-End-Corporal-Punishment/172-281591) · `en`
+
+Corporal punishment affects over 1.3 billion children worldwide and is the most common form of child abuse globally and in Sri Lanka, where complaints of cruelty against children have increased by three-fold in the past ten years.    As the world celebrates and respective governments pledge to do more to abolish a heinous crime against children on International Day to End Corporal Punishment on April 30th, neither the Government of Sri Lanka nor the National Child Protection Authority (NCPA), the most powerful institution maintained by public funds to protect and promote children’s rights is recognizing the only day dedicated to a specific type of child abuse.
+
+What are the proposed legal reforms to ban corporal punishment?
+
+The only group against whom assault is decriminalized is the 25% of citizens, 5.2 million children in Sri Lanka.
+
+...
+
+[Data](articles/2c4423ae.json)
+
+---
+
+### Early Buddhism’s links with urbanisation and commerce
+
+*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Early-Buddhisms-links-with-urbanisation-and-commerce/172-281590) · `en`
+
+When land-based feudalism replaced urbanism and trade, Buddhism waned in India, says Indian scholar Balkrishna Govind Gokhale
+
+In sixth century BC, Buddhism thrived in the Gangetic Plain in North India due to urbanisation and the development of trade. According to the renowned scholar of Buddhism in India, Balkrishna Govind Gokhale, Buddhism began to decline in India when urbanisation and trade yielded place to feudalism.
+
+In his paper in the Journal of the International Association of Buddhist Studies (Vol Number 2, 1982, University of Wisconsin Madison), Gokhale says that the use of iron tools, beginning from the seventh century BC, increased agricultural productivity, which in turn led to larger commodity surpluses, which became available for exchange through trade.
+
+...
+
+[Data](articles/8d239fc6.json)
+
+---
+
+### What’s wrong in having private medical education?
+
+*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Whats-wrong-in-having-private-medical-education/172-281588) · `en`
+
+The government made two important decisions recently on medical education in the country. One was to establish a medical faculty at the National School of Business Management (NSBM) in Homagama and the other was to enroll local students at the General Sir John Kotelawala Defence University to pursue medical degrees.
+
+Cabinet spokesman Bandula Gunawardena said on March 12 that the proposed medical faculty would come under the direct supervision and regulation of the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council (SLMC).
+
+He stated that the new faculty will enroll 500 local and foreign students annually and the Homagama Base Hospital will be upgraded to teaching hospital status, like the Kalubowila Hospital, for the NSBM undergraduates’ clinical training. The NSBM has agreed to provide funds for the development of the Homagama Base Hospital in accordance with the standards of medical education published by the SLMC, he said.
+
+...
+
+[Data](articles/933951d4.json)
+
+---
 
 ### 2024-04-29 (Monday)
 
@@ -2189,87 +2257,5 @@ Meanwhile, 22 grams of gold has fallen to 22,350 rupees, 22 grams 8 grams of gol
 [Data](articles/8e7ba1eb.json)
 
 [Extended Data](ext_articles/8e7ba1eb.ext.json)
-
----
-
-### Japanese Foreign Minister to visit Sri Lanka next week
-
-*2024-04-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98915/japanese-foreign-minister-to-visit-sri-lanka-next-week) · `en`
-
-Minister of Foreign Affairs of Japan Yoko Kamikawa is scheduled to undertake an official visit to Sri Lanka from 04 to 05 May 2024, the Ministry of Foreign Affairs said.
-
-Issuing a statement, the Foreign Ministry mentioned that during this visit, the Japanese Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-The Japanese Foreign Minister and her delegation will have official discussions with the Foreign Minister Ali Sabry during the visit.
-
-The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Japan, it added.
-
-◼️
-
-[Data](articles/333c39be.json)
-
-[Extended Data](ext_articles/333c39be.ext.json)
-
----
-
-### Protest against Maithri's statement...
-
-*2024-04-29 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Maithri-s-statement/110-281567) · `en`
-
-Citizens of People's Struggle staged a protest outside the Criminal Investigation Department (CID) calling for a proper investigation into the statement made by former President Maithripala Sirisena over the Easter Sunday bomb attacks. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/fb2fa445.json)
-
-[Extended Data](ext_articles/fb2fa445.ext.json)
-
----
-
-### Wijeyadasa’s petition against enjoining order fixed for consideration
-
-*2024-04-29 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98914/wijeyadasas-petition-against-enjoining-order-fixed-for-consideration) · `en`
-
-The Court of Appeals ordered a petition filed seeking to invalidate the recent order issued by the Colombo District Court preventing Minister Wijeyadasa Rajapakshe from functioning as the Acting Chairman of Sri Lanka Freedom Party (SLFP), to be taken up for consideration on May 02.
-
-This petition was filed by Minister of Justice Wijeyadasa Rajapakshe.
-
-On Wednesday (24), the Colombo District Court issued an injunction order preventing the appointment of Minister Wijeyadasa as the Acting Chairman of the SLFP.
-
-The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
-
-Meanwhile, the court issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
-
-The Colombo District Judge issued these injunctions after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
-
-...
-
-[Data](articles/a39628d9.json)
-
-[Extended Data](ext_articles/a39628d9.ext.json)
-
----
-
-### The United People's Power will hold two rallies
-
-*2024-04-29 14:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-இரு-பேரணிகளை-நடாத்தவுள்ளது/175-336505) · `ta`
-
-The United People's Power (SJB) will hold two May Day rallies in Colombo and Nuwara Eliya, with the main event in Colombo and participation by TPA in Nuwara Eliya. SJB leader Tissa Attanayake will attend both.
-
-🟩
-
-The United People's Power (SJB) is scheduled to hold two May Day rallies in Colombo and Nuwara Eliya this year.
-
-SJB National Organizer Tissa Attanayake said the main rally would be held in Colombo noise road and the other rally in Nuwara Eliya.
-
-"The rally in Nuwara Eliya is to be organized by the Tamil Progressive Alliance (TPA), but the SJB leader will participate in both rallies," said Attanayake.
-
-He added that the SJB May Day procession will start from Gunasingapuram at 1 pm.
-
-◼️
-
-[Data](articles/15d485bf.json)
-
-[Extended Data](ext_articles/15d485bf.ext.json)
 
 ---

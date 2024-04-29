@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 21:03:44**
+As of **2024-04-29 21:18:26**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,662 (100.0%) of 21,665 articles have been extended.
+21,665 (100.0%) of 21,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### ප්‍රේමදාස මුදුන්කොටුව අභාවප්‍රාප්ත වෙයි
+### Death of Premadasa passes away
 
 *2024-04-29 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196107) · `si`
 
-ප්‍රවීණ ගායන ශිල්පී සමිතා මුදුන්කොටුව මහත්මියගේ පියා වන ආචාර්ය ප්‍රේමදාස මුදුන්කොටුව අභාවප්‍රාප්ත වී තිබේ.
+Dr. Premadasa, father of singer Samaika Mudungotuwa, has passed away.
+
+🟩
+
+Dr. Premadasa, Dr. Premadasa, the father of Mrs. Veteran singer Samaika Mudungotuwa has passed away.
 
 ◼️
 
 [Data](articles/34886224.json)
+
+[Extended Data](ext_articles/34886224.ext.json)
 
 ---
 
@@ -60,21 +66,29 @@ The Department vows strict legal action against those who violate the Excise law
 
 [Data](articles/b66437c4.json)
 
+[Extended Data](ext_articles/b66437c4.ext.json)
+
 ---
 
-### ගාලුපාරේ යන රියදුරන්ට විශේෂ දැනුම්දීමක්
+### Special notice to the drivers on Galle Road
 
 *2024-04-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196105) · `si`
 
-ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත දක්වා කොටසේ මුහුදු රළ ගොඩගැලීම හේතුවෙන් වැලි තැන්පත්ව ඇත.
+Drivers on Galle Road: Due to sea waves from Kahawa Junction, motorbikes and three-wheelers must navigate through sand. Construction of sea waves requires careful driving.
 
-මේ හේතුවෙන් අනතුරු සිදුවිය හැකි බැවින් යතුරුපැදි සහ ත්‍රිරෝද රථ එම ප්‍රදේශයෙන් පරීක්ෂාකාරීව ගමන්කළ යුතුවෙයි.
+🟩
 
-එසේම ඒ ආශ්‍රිත ප්‍රදේශයේ විටින් විට මුහුදු රළ ගොඩගැලීම හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන් සැලකිලිමත්ව රිය ධාවනය කළයුතු වෙයි.
+The sand is deposited due to sea waves from Kahawa Junction on the Colombo-Colombo main road.
+
+Due to this, motorbikes and three-wheelers must be traveled through the area.
+
+Due to the construction of sea waves, drivers to use the road should be taken care of the road.
 
 ◼️
 
 [Data](articles/fbe50dee.json)
+
+[Extended Data](ext_articles/fbe50dee.ext.json)
 
 ---
 

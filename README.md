@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 14:05:13**
+As of **2024-04-29 14:18:35**
 
 ## Newspaper Stats
 
-*Scraped **21,579** Articles*
+*Scraped **21,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,104 +15,174 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,803
+adalk | 1,805
 tamilmirrorlk | 2,508
-adaderanalk | 2,564
+adaderanalk | 2,565
 virakesarilk | 3,247
 dailymirrorlk | 3,356
-adaderanasinhalalk | 3,497
+adaderanasinhalalk | 3,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,571 (100.0%) of 21,579 articles have been extended.
+21,579 (100.0%) of 21,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
+### ජපන් විදේශ අමාත්‍යවරිය ශ්‍රී ලංකාවේ සංචාරයක
+
+*2024-04-29 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196093) · `si`
+
+ජපන් විදේශ කටයුතු අමාත්‍ය යෝකෝ කමිකාවා මහත්මිය 2024 මැයි 04 වැනි දින සිට 05 වැනි දා දක්වා ශ්‍රී ලංකාවේ නිල සංචාරයක නිරතවීමට නියමිතය.
+
+මෙම සංචාරය අතරතුරදී ඇය, ජනාධිපති රනිල් වික්‍රමසිංහ සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන හමුවී සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+
+ජපන් විදේශ කටයුතු අමාත්‍යවරිය ප්‍රමුඛ දූත පිරිස විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා සමඟද නිල සාකච්ඡා පැවැත්වීමට නියමිතව තිබේ.
+
+ජපන් විදේශ කටයුතු අමාත්‍යවරිය සමඟ එරට විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක්ද මෙම නිල සංචාරයට එක් වෙති.
+
+◼️
+
+[Data](articles/07879e31.json)
+
+---
+
+### Two individuals sentenced to death over 2002 murder
+
+*2024-04-29 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98913/two-individuals-sentenced-to-death-over-2002-murder) · `en`
+
+Two accused who were found guilty of attacking a person to death with a sharp weapon in the Gas Paha Junction area in Colombo around 22 years ago, have been sentenced to death by court.
+
+This order was issued by Colombo High Court judge Amal Ranaraja who delivered the sentencing today (29), Ada Derana reporter said.
+
+Issuing the verdict, the judge stated that the prosecution had been able to prove the allegations against the two accused beyond reasonable doubt.
+
+Meanwhile, the judge also ordered the acquittal of the second and fourth defendants of the case, according to the reporter.
+
+The Attorney General had prosecuted the relevant convicts over attacking a person identified as Sinnaiya Nadesan with a sharp weapon in the Gas Paha Junction area of Colombo on 08 August 2002.
+
+◼️
+
+[Data](articles/3945fcfa.json)
+
+---
+
 ### පාඨලීව CIDයට කැඳවයි
 
 *2024-04-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196092) · `si`
 
-එක්සත් ජනරජ පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතාව හෙට (30) උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා තිබේ.
+USEP and MP Patali Champika Ranawaka summoned to CID for statement on party held in Ratnapura.
 
-ඒ රත්නපුර ප්‍රදේශයේ පැවැති පක්ෂ රැස්වීමක දී සිදුකරන ලදැයි කියන කතාවක් සම්බන්ධයෙන් ප්‍රකාශයක් ලබාගැනීම සඳහාය.
+🟩
+
+The leader of the USEP and MP Patali Champika Ranawaka has been summoned to the CID tomorrow morning.
+
+It is to obtain a statement regarding a story about a party that was held at a party meeting in the Ratnapura area.
 
 ◼️
 
 [Data](articles/f651d635.json)
 
+[Extended Data](ext_articles/f651d635.ext.json)
+
 ---
 
-### இளைஞனை கடத்த முயன்ற இரு பெண்கள் கைது
+### Two women arrested for attempting to kidnap youth
 
 *2024-04-29 13:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்த-முயன்ற-இரு-பெண்கள்-கைது/175-336504) · `ta`
 
-இங்கிலாந்தில் வசிக்கும் இலங்கைத் தாய் மற்றும் அவரது மகனின் தகவல்களை பயன்படுத்தி போலி ஆவணங்களை தயாரித்து,  17 வயதுடைய இளைஞனை இங்கிலாந்திற்கு அழைத்து செல்ல முயன்ற இரண்டு பெண்களை கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்துள்ள  சம்பவம்  வெள்ளிக்கிழமை (26) இடம்பெற்றுள்ளது .
+Two women from Mullaitivu attempted to kidnap a 17-year-old youth to the UK using fake documents at Katunayake airport. The youth revealed his true mother was waiting at the airport, claiming they were fleeing Sri Lanka's economic crisis. The women were handed over to the Criminal Investigation Division for further investigation.
 
-முல்லைத்தீவு பகுதியைச் சேர்ந்த பெண் ணொருவர் ,  ஒரு சிறுவனுடன் இங்கிலாந்துக்கு செல்வதற்காக கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார்.
+🟩
 
-அவர்கள்  கருமபீடத்துக்கு  வந்தபோது, ​​அவர்களின் ஆவணங்கள் தொடர்பில் அதிகாரிகளுக்கு  ஏற்பட்ட   சந்தேகத்தினால்  அவர்களை விமான நிலையத்தில் உள்ள குடிவரவுத் திணைக்களத்தின் எல்லைக் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகளிடம் ஒப்படைத்துள்ளனர்.
+The incident took place on Friday (26) at the Katunayake airport at the Katunayake airport, using the Sri Lankan mother and her son's information using the information of her son and her son for trying to take a 17 -year -old youth to the UK.
 
-அங்கு மேற்கொள்ளப்பட்ட தொழில்நுட்ப சோதனையின் போது அவர்கள்  சமர்ப்பித்த  ஆவணங்கள் போலியானவை என உறுதி செய்யப்பட்டுள்ளது.
+A woman from the Mullaitivu area has come to the Katunayake airport to travel to England with a boy.
+
+When they arrived at the Karumapatti, they were handed over to the authorities of the Immigration Department at the airport due to suspicion of their documents.
+
+It has been confirmed that the documents they submitted during the technical test there were fake.
+
+When the authorities then took the young man alone and inquired about the matter, the young man told the authorities that his true mother was still waiting on the terminal of the Katunayake airport.
 
 ...
 
 [Data](articles/558fb303.json)
 
+[Extended Data](ext_articles/558fb303.ext.json)
+
 ---
 
-### டியூப் லைட்டை கடித்து விழுங்கிய கைதி
+### The prisoner who swallowed the tube light
 
 *2024-04-29 13:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டியூப்-லைட்டை-கடித்து-விழுங்கிய-கைதி/76-336503) · `ta`
 
-ஐந்து வருட கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டு, தும்பர சிறைச்சாலையில் தடுத்துவைக்கப்பட்டிருந்த கைதி ஒருவர்   ட்யூப் லைட்டை விழுங்கியதன் காரணமாக கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A prisoner in Thumbara Prison, accused of thefts, swallowed a tube light, leading to his hospitalization for stomach inflammation.
 
-பல திருட்டுச் சம்பவங்கள் தொடர்பில் குற்றஞ்சாட்டப்பட்டிருந்த கம்பளை பிரதேசத்தில் வசிக்கும் 42 வயதுடைய ஒருவர் மீதான குற்றம் நிரூபிக்கப்பட்டு 2022 ஆம் ஆண்டு அவருக்கு  ஐந்து வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+🟩
 
-வயிற்றில் ஏற்பட்ட வீக்கம் மற்றும் வலி காரணமாக குறித்த கைதி கண்டி தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும்  அவரது வயிற்றின் ஸ்கேன் பரிசோதனை மேற்கொள்ளப்பட உள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+A prisoner who was sentenced to five years of imprisonment and detained at the Thumbara Prison has been admitted to the Kandy National Hospital for swallowing a tube light.
 
-தன்னிடம் கைத்தொலைபேசி இருக்கிறதா எனக் கேட்டு இரண்டு சிறை அதிகாரிகள் தன்னை அறைக்கு அழைத்துச் சென்று தாக்கியதாகவும். அதனையடுத்தே ​அந்த அறையில் இருந்த டியூப் லைட்டை கழற்றி கடித்து விழுங்கியதாகவும் பொலிஸாரிடம் கைதி தெரிவித்தார்.
+A 42 -year -old man who was accused of several thefts was convicted and sentenced to five years in prison.
+
+Hospital sources say that the prisoner has been admitted to the Kandy National Hospital for treatment due to stomach inflammation and his stomach scan.
+
+Two prison officers took him to the room and attacked him asking if he had a cell phone.. The prisoner then told the police that he had taken off the tube light in the room and swallowed it.
 
 ◼️
 
 [Data](articles/dc25836c.json)
 
+[Extended Data](ext_articles/dc25836c.ext.json)
+
 ---
 
-### කරඳගොල්ලේ නායයෑමේ අවදානම අඩුකරන්න විකල්පයක්
+### Optional to reduce the risk of landslide risk of the Karandagolla
 
 *2024-04-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196091) · `si`
 
-උමා ඔය ව්‍යාපෘතියට කිලෝමීටර් දෙකහමාරක් පමණ දුරින් පිහිටි කරඳගොල්ල ප්‍රදේශයේ සක්‍රිය වූ නායයාමේ අවදානම සම්බන්ධයෙන් ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥයින් පිරිසක් අද (29) විශේෂ නිරීක්ෂණයක් ආරම්භ කර තිබිණි.
+The National Building Research Organization (NBRO) has initiated a special observation to assess and mitigate landslide risks in the Karandagolla area, near the Uma Oya project. Measures are being taken to reduce the mountain range's elevation and manage landslide risks. Residents have linked the situation to the Uma Oya project's tunnel. The Ella Divisional Secretariat, Ella Pradeshiya Sabha, and the army are involved in managing the situation.
 
-බදුල්ල දිස්ත්‍රික් ලේකම්වරයා පැවසුවේ, නාය අවදානම අවම කිරීම සඳහා කඳුකර භූමියේ ඉහළ රැඳී ඇති ජලය කෙටි කාලීන ක්‍රම ඔස්සේ පහළට ගෙන ඒමට අවශ්‍ය කටයුතු මේ වනවිට සිදුකරමින් පවතින බවය.
+🟩
 
-ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසෙහි දින කිහිපයකට පෙර සිට නාය අවදානමක ලක්ෂණ පෙන්නුම් කෙරේ.
+A special observation of the National Building Research Organization (NBRO) has launched a special observation regarding the risk of landslide risk in Karandagolla area in Karandagolla, about two and a half km away from the Uma Oya project.
 
-ප්‍රදේශවාසීන් සැක පළ කළේ, එය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ ඇතිවූ තත්ත්වයක් බවටය.
+The Badulla District Secretary said that necessary arrangements are being taken to reduce the rise in the mountain range to reduce the landslide.
 
-ඒ අනුව ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය සභාව සහ යුද හමුදාව හා පොලීසිය සමග එක්ව එම නාය අවදානමට හේතු වී ඇති ජල මාර්ග වෙනත් දිශාවකට යොමු කරවීමේ කටයුතු සිදුකරනු ලබයි.
+The slope of the names of about two acres of land in Ella - Karandagolla shows the signs of the landslides.
+
+Residents of the area suspended that it was a situation that caused the tunnel of the Uma Oya project.
+
+Accordingly, the Ella Divisional Secretariat, the Ella Pradeshiya Sabha and the army and the army and the army will be held in another direction.
 
 ◼️
 
 [Data](articles/75dc14ef.json)
 
+[Extended Data](ext_articles/75dc14ef.ext.json)
+
 ---
 
-### EPF පොලිය ගැන මහ බැංකුවෙන් පැහැදිලි කිරීමක්
+### Central Bank explains about EPF interest
 
 *2024-04-29 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196090) · `si`
 
-සේවක අර්ථ සාධක අරමුදල සඳහා පොලිය වැඩිකිරීම සම්බන්ධයෙන්, ශ්‍රී ලංකා මහ බැංකුවේ පාලක මණ්ඩලය විසින් නව තීරණයක් ගෙන තිබේ.
+The Central Bank of Sri Lanka has decided to increase interest in the Employees Provident Fund (EPF), effective from 31st December 2013.
 
-එහි දැක්වෙන්නේ, "2023.12.31 වන දිනට පවතින සේවක අර්ථසාධක අරමුදලේ ශේෂය සඳහා සියයට 13ක පොලී අනුපාතයක් ගෙවීමට ශ්‍රී ලංකා මහ බැංකුවේ පාලක මණ්ඩලය අනුමැතිය" ලබා දුන් බවය.
+🟩
+
+The Central Bank of Sri Lanka has made a new decision regarding increasing interest in the EPF.
+
+It says that "the Governing Body of the Central Bank has been given to the Employees Provident Fund as at 31s.2013.
 
 ◼️
 
 [Data](articles/c271772e.json)
+
+[Extended Data](ext_articles/c271772e.ext.json)
 
 ---
 
@@ -177,6 +247,8 @@ The Foreign Minister will be accompanied by senior officials of the Ministry of 
 ◼️
 
 [Data](articles/932886d6.json)
+
+[Extended Data](ext_articles/932886d6.ext.json)
 
 ---
 
@@ -1008,6 +1080,26 @@ According to an official release, ATS Superintendent of Police KK Patel received
 
 ---
 
+### අරගලය වෙලාවෙ ගෙවල් වලට කඩා වැදුණු පිරිස් මුලින්ම කඩල තිබුණේ ටොයිලට්
+
+*2024-04-29 10:26:43* · [`adalk`](https://www.ada.lk/breaking_news/අරගලය-වෙලාවෙ-ගෙවල්-වලට-කඩා-වැදුණු-පිරිස්-මුලින්ම-කඩල-තිබුණේ-ටොයිලට්/11-409318) · `si`
+
+“අරගලය වෙලාවෙ පොලිසිය දුන්න රිපෝට් එකක් තියෙනවා ගෙවල් වලට කඩා වැදුණු පිරිස් මුලින්ම කඩල තිබුණේ ටොයිලට් අද වන විට පාසැල් පද්ධතිය තුල ගල් දාලා හිර කරලා කඩල බිඳල දාන්නේත් ටොයිලට් ලංකාවෙ විමධ්‍යගත අරමුදල් වලින් පාරවල් වලට අමතරව වැඩිපුරම හදන්නේ ටොයිලට්.
+
+කොට්ඨාශ අධ්‍යාපන අධ්‍යක්ෂකතුමියනි දරුවන්ට උගන්වන්න වැසිකිලියක් පාවිච්චි කරන ආකාරය පිළිබඳව ඒවගේම කසළ හතර වටේ දාන්නේ නැතුව ඩස්පින්න එකට දාන විදිය ගැන යැයි” කොළඹ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි මධුර විතානගේ මහතා පැවසීය.
+
+මන්ත්‍රීවරයා මෙම අදහස් පළ කළේ අප්‍රේල් මාසය සඳහා  පැවැතිය ශ්‍රි ජයවර්ධනපුර කෝට්ටේ සම්බන්ධීකරණය කමිටු රැස්වීම  පැවති අවස්ථාවේදීය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් වැසිකිළි කඩා දැමීම අරගලය අවස්ථාවේ දක්නට ලැබුනු සිතා බැලිය යුතු තත්වයක් බව ඔහු පැවසීය.
+
+සිලබස් කවර් කර දරුවන්ගේ අධ්‍යාපනය හැදීම මෙන්ම ඔලුවද පරිසර හිතකාමී ලෙස හැදිය යුතු බව එහිදී මන්ත්‍රීවරයා පැවසීය.
+
+...
+
+[Data](articles/cb9cb82e.json)
+
+---
+
 ### Ranilmakinda Chandrika can unite to prevent national people from coming to power - Anuragumara in Sweden
 
 *2024-04-29 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182203) · `ta`
@@ -1053,6 +1145,8 @@ Dr. Heiyanthuduwa expressed that the increase in diabetes among the population i
 ...
 
 [Data](articles/7dd5538e.json)
+
+[Extended Data](ext_articles/7dd5538e.ext.json)
 
 ---
 
@@ -1252,23 +1346,29 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.33 perc
 
 ---
 
-### மெனிக்ஹின்னவில் பதற்றம்: பொலிஸார் குவிப்பு
+### Tension in Menikhinna: Police accumulate
 
 *2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மெனிக்ஹின்னவில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
 
-கண்டி மெனிக்ஹின்ன வைத்தியசாலை வளாகத்தில் நேற்று (28) இரவு ஏற்பட்ட பதற்ற நிலை காரணமாக வைத்தியசாலை ஊழியர்கள் உட்பட 07 பேர் காயமடைந்துள்ளனர்.
+Tension at Kandy Menikhinna Hospital led to injuries for seven people, including staff, during New Year's Eve. A clash between hospital staff and injured parties resulted in further injuries. Police have been deployed for safety.
 
-மெனிக்ஹின்ன பிரதேசத்தில் இடம்பெற்ற புத்தாண்டு விழாவின் போது காயமடைந்த நபரொருவர் சிகிச்சைக்காக வைத்தியசாலைக்கு கொண்டு வரப்பட்டுள்ள நிலையில், மருத்துவமனையின் பணிக்குழாமினரும் புத்தாண்டு விழாவில் பங்கேற்றிருந்ததால் அவருக்கு சிகிச்சை அளிக்க காலதாமதமாகியுள்ளது.
+🟩
 
-இதையடுத்து, மருத்துவமனை ஊழியர்களுக்கும் காயமடைந்த தரப்பினருக்கும் இடையே காரசாரமான வார்த்தைப் பிரயோகம் இடம்பெற்று பின்னர் இது மோதலாக உருவெடுத்துள்ளதுடன், இரு தரப்பையும் சேர்ந்த 07 பேர் காயமடைந்து கண்டி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
 
-இரு தரப்பினரையும் அழைத்து வாக்குமூலம் பதிவு செய்யப்பட்டதை அடுத்து, அவர்கள் கலைந்து சென்றனர்.
+The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's Eve.
 
-எவ்வாறாயினும், வைத்தியசாலை வளாகத்தின் பாதுகாப்பிற்காக பொலிஸ் உத்தியோகத்தர்களை பாதுகாப்பு பணியில் ஈடுபடுத்தவும் மெனிக்ஹின்ன பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
+
+Following the confession of the two sides, they dispersed.
+
+However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
 
 ◼️
 
 [Data](articles/166f80eb.json)
+
+[Extended Data](ext_articles/166f80eb.ext.json)
 
 ---
 
@@ -2365,69 +2465,5 @@ The National Dengue Control Division has said that the number of people sufferin
 [Data](articles/deb4a31c.json)
 
 [Extended Data](ext_articles/deb4a31c.ext.json)
-
----
-
-### President's participation in New Year's Eve
-
-*2024-04-29 01:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்பு/175-336465) · `ta`
-
-President Ranil Wickremesinghe attended New Year's events in Deens Road, Colombo, where he crowned the top three New Year's beauties and awarded prizes in the All Ceylon Body Competition and bicycle competition.
-
-🟩
-
-The New Year's events held yesterday in the Deens Road were held at the neighboring of the United National Party's Colombo Municipal Council, Kithsiri Rajapaksa and Maradana - Suduwella Sports Club yesterday.
-
-The prize giving was held yesterday evening under the patronage of President Ranil Wickremesinghe and the top three of the New Year's beauties were crowned by the President.
-
-The President presented prizes to the top three in the All Ceylon Body Competition and the winners of the bicycle competition.
-
-President Ranil Wickremesinghe was awarded a souvenir by Gitziri Rajapaksa. (A)
-
-◼️
-
-[Data](articles/5b70a752.json)
-
-[Extended Data](ext_articles/5b70a752.ext.json)
-
----
-
-### US research ship granted entry to SL waters for replenishment
-
-*2024-04-29 01:42:33* · [`dailyftlk`](https://www.ft.lk/news/US-research-ship-granted-entry-to-SL-waters-for-replenishment/56-761153) · `en`
-
-The Sri Lankan Government has granted entry to a US research ship for replenishment purposes alone.
-
-The Ministry of Defence confirmed that while the ship was denied permission to conduct research activities, it was allowed entry for replenishment purposes.
-
-Earlier reports indicated that the Sri Lankan Government declined a request for a research vessel to access Sri Lankan waters, consistent with its policy against permitting research ships in its maritime territory. The vessel, which included students from a US university, specifically sought permission to enter Sri Lankan waters solely for logistical support, including fuel, water purification, and food.
-
-In December of last year, Sri Lanka suspended the entry of foreign research vessels due to significant security concerns raised by neighbouring India and the United States, particularly following the visits of two Chinese research ships within 14 months.
-
-...
-
-[Data](articles/08443a72.json)
-
-[Extended Data](ext_articles/08443a72.ext.json)
-
----
-
-### Development Officers Workplace
-
-*2024-04-29 01:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-பணிப்புறக்கணிப்பு/175-336464) · `ta`
-
-Development officers nationwide will be announced and engaged in the workplace, demanding solutions for transport and paperwork issues.
-
-🟩
-
-Development officers nationwide will be announced today and will be engaged in the workplace.
-
-Its leader Anuradha Seneviratne said that they will be engaged in the workplace demanding a proper solution for the lack of transport and paperwork.(a)
-
-◼️
-
-[Data](articles/8a6b4afd.json)
-
-[Extended Data](ext_articles/8a6b4afd.ext.json)
 
 ---

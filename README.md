@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 23:53:13**
+As of **2024-04-30 00:18:40**
 
 ## Newspaper Stats
 
@@ -26,45 +26,65 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,682 (99.9%) of 21,702 articles have been extended.
+21,702 (100.0%) of 21,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### சகல துறைகளிலும் டெல்ஹியை விஞ்சிய கொல்கத்தாவுக்கு இலகுவான வெற்றி
+### The easiest victory for Kolkata in all sectors
 
 *2024-04-29 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182276) · `ta`
 
-கொல்கத்தா ஈடன் கார்ட்ன் விளையாட்டரங்கில் திங்கட்கிழமை (29) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 47ஆவது போட்டியில் டெல்ஹி கெப்பட்டல்ஸ் அணியை 7 விக்கெட்களால் கொல்கத்தா நைட் ரைடர்ஸ் இலகுவாக வெற்றிகொண்டது.
+Kolkata Knight Riders won the 47th IPL match against Telhi Kettals by 7 wickets, thanks to strong bowling and fielding. Key players included Varun Emperor, Harshid Rana, Vaibhav Arora, and Bill Salt. Kolkata scored 157 runs in 16.3 overs, with Salt hitting 68 runs.
 
-துடுப்பாட்டம், பந்துவீச்சு, களத்தடுப்பு ஆகிய சகல துறைகளிலும் கொல்கத்தா பிரகாசித்து வெற்றியை ஈட்டியது.
+🟩
 
-வருண் சக்கரவர்த்தி, ஹர்ஷித் ரானா, வைபாவ் அரோரா ஆகியோரின் துல்லியமான பந்துவீச்சுகள், பில் சோல்டின் அதிரடி அரைச் சதம், ஷ்ரேயாஸ் ஐயரின் அபார துடுப்பாட்டம் என்பன கொல்கத்தா நைட் ரைடர்ஸின் வெற்றியில் பிரதான பங்காற்றின.
+Kolkata Knight Riders easily won the Telhi Kettals by 7 wickets in the 47th match of the 17th Indian Premier League chapter held at the Eden Garden Stadium in Kolkata on Monday (29).
 
-டெல்ஹி கெப்பிட்டல்ஸினால் நிர்ணயிக்கப்பட்ட 154 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 16.3 ஓவர்களில் 3 விக்கெட்களை இழந்து 157 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+Kolkata shone in all sectors of bowling, bowling and fielding.
 
-லிஸாட் வில்லியம்ஸின் முதல் ஓவரில் கொல்கத்தா நைட் ரைடர்ஸ் 21 ஓட்டங்களைப் பெற்றது.
+Varun Emperor, Harshid Rana and Vaibao Aurora, Bill Soldin's Action Half a century, and Shreyas Iyer's worse, played a major role in the victory of Kolkata Knight Riders.
+
+Kolkata Knight Riders lost 3 wickets in 16.3 overs, scoring 157 runs for a total of 154 runs.
+
+Kolkata Knight Riders scored 21 runs in the first over of Lizat Williams.
+
+Lizad Williams missed Bill Sold in the first ball of Khalil Ahmad in the next over. Bill Salt, who had scored 15 runs, sat down with 50 runs off 26 balls.
+
+Kolkata Knight Riders scored 79 runs without a wicket.
+
+Bill Salt, who scored 68 runs with 7 pounds and 5 sixes off 33 balls, lost the 2nd.
+
+Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 
 ...
 
 [Data](articles/999610aa.json)
 
+[Extended Data](ext_articles/999610aa.ext.json)
+
 ---
 
-### பலஸ்தீன விவகாரத்தில் 'இரு அரசு' தீர்வை முன்னிறுத்தி நெருங்கிப்பணியாற்ற இலங்கை - எகிப்து இணக்கம்
+### Sri Lanka - Egypt's Compliance to Initimate the Palestinian issue
 
 *2024-04-29 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182275) · `ta`
 
-வெளிவிவகார அமைச்சர் அலி சப்ரிக்கும், எகிப்து நாட்டின் வெளியுறவுத்துறை அமைச்சர் சமே ஹெளக்ரிக்கும் இடையிலான சந்திப்பின்போது பலஸ்தீன விவகாரத்தில் இரு அரசுகள் எனும் தீர்வை முன்னிறுத்தி நெருங்கிப்பணியாற்றுவதற்கு இணக்கம் காணப்பட்டுள்ளது.
+Sri Lanka and Egypt agreed to work on the Palestinian issue. Ali Sabri, Sri Lanka's External Affairs Minister, met with Egypt's Samay Haqi and Saudi Arabia's Faisal bin Farhan, discussing economic cooperation, investment, and employment for Sri Lankan workers.
 
-உலக பொருளாதாரப்பேரவையின் ஏற்பாட்டில் சவுதி அரேபியாவின் ரியாத் நகரில் 28 - 29 ஆம் திகதி நடைபெற்ற உலகளாவிய ஒத்துழைப்பு, வளர்ச்சி மற்றும் அபிவிருத்திக்கான வலுத்திறன் தொடர்பான விசேட கூட்டத்தில் இலங்கை சார்பில் பங்கேற்பதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி ரியாத் சென்றுள்ளார்.
+🟩
 
-அங்கு உலக பொருளாதாரப்பேரவையின் விசேட கூட்டத்தின் பக்க நிகழ்வாக சவுதி அரேபிய வெளிவிவகார அமைச்சர் ஃபைஸல் பின் ஃபர்ஹானை சந்தித்த அமைச்சர் அலி சப்ரி, இருநாடுகளுக்கும் இடையிலான இருதரப்பு உறவு குறித்துக் கலந்துரையாடினார். அத்தோடு பொருளாதார ஒத்துழைப்பு மற்றும் முதலீடுகளை ஊக்குவித்தல், திறன்மிக்க இலங்கை தொழிலாளர்களுக்கான வேலைவாய்ப்புக்களை வழங்கல் மற்றும் இருநாட்டு மக்களுக்கு இடையிலான தொடர்புகளை வலுப்படுத்தல் என்பன தொடர்பிலும் இரு அமைச்சர்களுக்கு இடையில் இணக்கப்பாடு எட்டப்பட்டது.
+During a meeting between External Affairs Minister Ali Sabri and Egypt's Foreign Minister Samay Haqi, they have agreed to take up the resolution of the two states in the Palestinian issue.
+
+External Affairs Minister Ali Sabri Riyadh went to Sri Lanka to attend a special meeting on Global Cooperation, Development and Development of Global Cooperation, Development and Development in Riyadh, Saudi Arabia.
+
+Minister Ali Sabri met with Saudi Arabian Foreign Minister Faisal bin Farhan as the side of the World Economic Forum, and discussed the bilateral relationship between the two countries.. In addition, the compliance between the two ministers has been reached on economic cooperation and promoting investments, providing employment opportunities for skilled Sri Lankan workers and strengthening inter -national relations.
 
 ...
 
 [Data](articles/c4ba6f82.json)
+
+[Extended Data](ext_articles/c4ba6f82.ext.json)
 
 ---
 
@@ -172,19 +192,25 @@ President Ranil Wickremesinghe, alongside President of the World Association of 
 
 ---
 
-### ட்ரோன்கள் பறக்க தடை : பொலிஸார் அறிவிப்பு!
+### Trones blocked: police announcement!
 
 *2024-04-29 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182274) · `ta`
 
-அனுமதியின்றி மே தினக் கொண்டாட்டங்களை காணொளி பதிவு செய்ய ட்ரோன்களை பயன்படுத்துவது தடைசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police prohibited drones for video recording May Day celebrations without permission. Drones must be obtained before use. Law applies nationwide.
 
-இவ்வாறு ட்ரோன்களை பயன்படுத்துவதற்கு அவசியமானால் அதற்கு முன் அனுமதி பெற வேண்டும் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துத தெரிவித்துள்ளார்.
+🟩
 
-இந்த சட்டம் நாடளாவிய ரீதியில் நடைபெறும் அனைத்து மே தின பேரணிகளுக்கும் பொருந்தும் என பொலிஸார் மேலும் தெரிவித்தனர்.
+Police said the use of drones was prohibited for video recording of May Day celebrations without permission.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Taluta said that if it is necessary to use the drones, it should be obtained before.
+
+The law applies to all the May Day rally which is held nationwide, police said.
 
 ◼️
 
 [Data](articles/a7cd1dda.json)
+
+[Extended Data](ext_articles/a7cd1dda.ext.json)
 
 ---
 
@@ -308,21 +334,33 @@ Addressing the media Senior DIG Traffic Administration and Road Safety, Indika H
 
 ---
 
-### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மின்கட்டமைப்பை இருண்ட யுகத்துக்கு தள்ளும் - மின் பொறியியலாளர் சங்கம் எதிர்ப்பு
+### The Electricity Board Reorganization Bill will push the electrification system to the dark era - Electrical Engineers Association
 
 *2024-04-29 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182273) · `ta`
 
-நாட்டின் மின்கட்டமைப்பை இருண்ட யுகத்துக்கு தள்ளும் வகையில் உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலம் பாராளுமன்றத்துக்கு சமர்ப்பிக்கப்பட்டுள்ளது.மின்கட்டணத்தை தீர்மானிக்கும் உரிமையை தனியார் நிறுவனங்களுக்கு வழங்குவது முறையற்றது என மின்சார சபையின் மின் பொறியியலாளர் சங்கத்தின் தலைவர் தனுஸ்க பராக்ரம தெரிவித்தார்.
+The Electricity Board Reorganization Bill, submitted to Parliament, aims to privatize the Electricity Board, redefine its role, and set up a commission for power supply. The government plans to proceed by November or October, with a presidential election in September or October. The Electricity Engineers Association opposes this, vowing to challenge the bill in court.
 
-இலங்கை மின்சார சபை மின் பொறியியலாளர் சங்கத்தின் காரியாலயத்தில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நட்டமடையும் அரச நிறுவனங்களை மறுசீரமைப்பதாக குறிப்பிட்டுக் கொண்டு இலாபமடையும் அரச நிறுவனங்களை மறுசீரமைக்கும் செயற்பாடுகளை மாத்திரம் அரசாங்கம் முன்னெடுத்துள்ளது.உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தில் பல குறைபாடுகள் காணப்படுகின்றன.
+The proposed Electricity Board Reorganization Bill has been submitted to Parliament to push the country's electricity system to Parliament.
 
-மின்சார சபையை 12 ஆக கூறுப்படுத்தி அதன் உரிமத்தை தனியார் நிறுவனங்களுக்கு உரித்தாக்க உத்தேசிக்கப்பட்டுள்ளது.நிறுவனங்கள் பெறும் இலாபத்துக்கு அமைய மின்கட்டணம் தீர்மானிக்கப்பட வேண்டும் என்று குறிப்பிடப்படுவது பாரதூரமான நெருக்கடிகளை ஏற்படுத்தும்.
+He made this statement during a media briefing held at the office of the Electricity Board Electricity Engineers Association on Monday (29).
 
-...
+The government has only carried out activities to rehabilitate state institutions that are referring to the loss of state institutions.
+
+It is proposed to set up the Electricity Board to 12 and pay its license to private companies.
+
+It is also proposed to define the role of the Sri Lanka Public Use the Commission on the power supply and to define the role of the Commission.
+
+The government has decided to carry out the proceedings of the country by November or October. The presidential election will be held in September or October.
+
+We will challenge the proposed Electricity Board Reorganization Bill in court.
+
+◼️
 
 [Data](articles/c6daf3e9.json)
+
+[Extended Data](ext_articles/c6daf3e9.ext.json)
 
 ---
 
@@ -464,6 +502,8 @@ State Tourism Minister Gamage said there are around 600 spas in the highly popul
 
 [Data](articles/1f03b566.json)
 
+[Extended Data](ext_articles/1f03b566.ext.json)
+
 ---
 
 ### Fire at a private women's school in Weligama
@@ -548,6 +588,8 @@ All offered 30 billion rupees of 15 May 2030 bonds were sold at 12.38 percent.
 
 [Data](articles/1bda0b94.json)
 
+[Extended Data](ext_articles/1bda0b94.ext.json)
+
 ---
 
 ### Sri Lanka to declare 49 new tourism zones: State Minister
@@ -567,6 +609,8 @@ The new tourism zones are expected to include most non-coastal area where touris
 ◼️
 
 [Data](articles/8aea1602.json)
+
+[Extended Data](ext_articles/8aea1602.ext.json)
 
 ---
 
@@ -928,6 +972,8 @@ Fitch Ratings – Colombo – 26 Apr 2024: Fitch Ratings has affirmed UB Finance
 
 [Data](articles/66f39edd.json)
 
+[Extended Data](ext_articles/66f39edd.ext.json)
+
 ---
 
 ### The squad exceeds $ 5 billion
@@ -1024,6 +1070,8 @@ The exhibition showcased the talents on young innovators who demonstrated practi
 
 [Data](articles/84998aa6.json)
 
+[Extended Data](ext_articles/84998aa6.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 297.80/298.50 to US dollar
@@ -1043,6 +1091,8 @@ A bond maturing on 01.10.2032 closed at 12.40/55 percent from 12.40/50 percent. 
 ◼️
 
 [Data](articles/1ba416b7.json)
+
+[Extended Data](ext_articles/1ba416b7.ext.json)
 
 ---
 
@@ -1332,25 +1382,33 @@ The prisoner told police that two prison officers had taken him to a room and as
 
 ---
 
-### விஜயதாஸவின் நியமனம் கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது : சந்திரிகா
+### Vijayadasa's appointment is completely hostile to the party: Chandrika
 
 *2024-04-29 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182248) · `ta`
 
-சுதந்திர கட்சியின் பதில் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ நியமிக்கப்பட்டமை கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது.
+Chandrika criticizes Vijayadasa's appointment as hostile to the Freedom Party, advising against damaging his reputation with Maithripala.
 
-மைத்திரிபாலவுடன் ஒன்றிணைந்து தனது நற்பெயரை விஜயதாஸ இல்லாதொழித்துக் கொள்ள கூடாது என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்தார்.
+🟩
 
-கொழும்பில் உள்ள இலங்கை மன்றக் கல்லூரியில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+The appointment of Justice Minister Vijayadasa Rajapaksa as the respondent of the Freedom Party is completely hostile to the party.
 
-ஸ்ரீ லங்கா சுதந்திர கட்சியின் பிரச்சினைகள் தீவிரமடைந்துள்ள நிலையில் கட்சியின் பதில் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ நியமிக்கப்பட்டுள்ளமை சுதந்திர கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது.
+Former President Chandrika Bandaranaike Kumaratunga has said that Vijayadasa should not dismantle his reputation with Maithripala.
 
-பல அரசியல் கட்சிகளில் உறுப்பினராக பதவி வகித்த விஜயதாஸ ராஜபக்ஷ ஜனாதிபதி வேட்பாளராக போட்டியிடும் நோக்கத்தில் சுதந்திர கட்சிக்கு வருகை தந்துள்ளார்.
+He made this statement during a media briefing held at the Sri Lanka Forum College in Colombo on Monday (29).
 
-மைத்திரிபால சிறிசேன வீதியில் செல்பவர்களை அழைத்து வந்து அவர்களை நிறைவேற்று சபையில் அமர செய்து தவறான தீர்மானங்களை எடுத்துள்ளார்.நாட்டின் நீதியமைச்சரான விஜயதாஸ ராஜபக்ஷவுக்கு அரசியல் கட்சிகளின் யாப்பு மற்றும் பொது சட்டம் பற்றி கூற வேண்டிய தேவை இல்லை.
+The appointment of Justice Minister Vijayadasa Rajapaksa as the party's response to the party's issues is completely hostile to the Freedom Party.
 
-...
+Vijayadasa Rajapakse, who has been a member of many political parties, has visited the Independence Party to contest the presidential candidate.
+
+Maithripala Sirisena has taken the people on the road and seated them in the Executive Council.
+
+Justice Minister Vijayadasa Rajapaksa, who has joined Maithripala Sirisena, who has degraded the Independence Party, said that he would not want to abolish his reputation.
+
+◼️
 
 [Data](articles/e0f9b641.json)
+
+[Extended Data](ext_articles/e0f9b641.ext.json)
 
 ---
 
@@ -1467,6 +1525,8 @@ The idea is to improve the tax revenue through night time dining and entertainme
 ...
 
 [Data](articles/913cb8cd.json)
+
+[Extended Data](ext_articles/913cb8cd.ext.json)
 
 ---
 
@@ -1613,6 +1673,8 @@ Major positive contributors to the ASPI included Hayleys Plc (up at 90.00), Samp
 ...
 
 [Data](articles/c0618fa1.json)
+
+[Extended Data](ext_articles/c0618fa1.ext.json)
 
 ---
 
@@ -1840,6 +1902,8 @@ Resolution passed by Bar Council calling for the Minister of Public Security to 
 
 [Data](articles/74ba7e90.json)
 
+[Extended Data](ext_articles/74ba7e90.ext.json)
+
 ---
 
 ### Lourdes Aurudu Udawa 2024
@@ -2053,6 +2117,8 @@ SDF shares were trading up at 14.00 on Monday. (Colombo/Apr29/2024)
 ◼️
 
 [Data](articles/5a003ea0.json)
+
+[Extended Data](ext_articles/5a003ea0.ext.json)
 
 ---
 

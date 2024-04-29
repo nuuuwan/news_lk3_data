@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 22:18:47**
+As of **2024-04-29 22:34:20**
 
 ## Newspaper Stats
 
-*Scraped **21,673** Articles*
+*Scraped **21,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,816
+adalk | 1,817
 tamilmirrorlk | 2,520
-adaderanalk | 2,576
+adaderanalk | 2,577
 virakesarilk | 3,265
-dailymirrorlk | 3,374
+dailymirrorlk | 3,376
 adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,671 (100.0%) of 21,673 articles have been extended.
+21,673 (100.0%) of 21,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### President reveals plans to expand cinnamon cultivation under agri modernization program
+
+*2024-04-29 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98925/president-reveals-plans-to-expand-cinnamon-cultivation-under-agri-modernization-program) · `en`
+
+President Ranil Wickremesinghe reiterated the government’s commitment to maximizing the contribution of agriculture to the country’s economic advancement. He highlighted the implementation of programs aimed at popularizing cinnamon cultivation, a significant export crop in the country’s history, as part of the agricultural modernization initiative.
+
+President Ranil Wickremesinghe made these remarks while attending the “Dilmah Cinnamon” launching ceremony held yesterday (28) at the Galle Face Hotel in Colombo, the PMD reported.
+
+The “Dilmah” brand, renowned for elevating “Ceylon Tea” in the global market, has ventured into the Sri Lankan cinnamon industry by expanding its domestic exports through the company, introducing high-quality cinnamon products to the global market.
+
+President Ranil Wickremesinghe, alongside President of the World Association of Chefs’ Societies Master Chef Thomas Gugler, symbolically unveiled Dilmah Cinnamon products.
+
+...
+
+[Data](articles/847be937.json)
+
+---
+
+### Special traffic plans for May Day parades, rallies
+
+*2024-04-29 21:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-traffic-plans-for-May-Day-parades-rallies/108-281594) · `en`
+
+Colombo, April 29 (Daily Mirror) - Sri Lanka Police have announced the implementation of a special traffic plan in the vicinity of May Day parades and rallies scheduled for Wednesday (May 01).
+
+According to the police, nearly 2,100 police personnel have been assigned security duties for the May Day rallies, with an additional 1,300 personnel deployed for traffic management during this period.
+
+The Police Media Division has accordingly released detailed maps outlining road closures in Colombo, along with suggested alternative routes.
+
+◼️
+
+[Data](articles/6a3f39c8.json)
+
+---
 
 ### Drone cameras prohibited near May Day rally locations
 
@@ -46,41 +80,71 @@ Police Spokesman DIG Nihal Thalduwa says that the use of drone cameras is prohib
 
 ---
 
-### ඇමති ටිරාන්ට එරෙහිව නීතිඥ සංගමය ජනපතිගෙන් කළ ඉල්ලීම
+### Attorneys' Association requesting the President's Court
 
 *2024-04-29 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196109) · `si`
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා එම ධුරයෙන් ඉවත් කරන ලෙස ශ්‍රී ලංකා නීතිඥ සංගමය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර තිබේ.
+The Sri Lanka Bar Association has requested President Ranil Wickremesinghe to remove Public Defense Minister Tiran Alles, citing his aggressive stance against crime and allegations of corruption.
 
-අපරාධකරුවන් මර්දනය සඳහා ගිනිඅවි භාවිත කිරීමට පසුබට නොවන්නැයි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පසුගියදා කළ ප්‍රකාශයක් පදනම් කරගනිමින් නීතිඥ සංගමය මෙම ඉල්ලීම සිදුකර ඇත.
+🟩
 
-නිවේදනයක් නිකුත් කරමින් අද (29) එම සංගමය සඳහන් කළේ ඊට අදාළව සිය සංගමයේ මහ සභාවේදී යෝජනාවක්ද සම්මත කරගත් බවය.
+President Ranil Wickremesinghe has requested President Ranil Wickremesinghe to remove Mr. Public Defense Minister Tiran Alles from post.
 
-අපරාධ කල්ලි මර්දනයට ගිනි අවි භාවිත කිරීමට පසුබට නොවන ලෙස පසුගියදා මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස් නිලධාරීන් අමතමින් සදහන් කළේ ක්ෂණික විහිදුම් යතුරුපැදි බලකායේ නිලධාරීන් විසිර යාමේ උත්සවයේදීය.
+The request has been made based on a statement made by Hon.
 
-උක්ත ප්‍රකාශය සම්බන්ධයෙන් දැඩි කණස්සල්ල පළකරන ශ්‍රී ලංකා නීතිඥ සංගමය අධිකරණ ක්‍රියාමාර්ගවලින් තොර අත්තනෝමතික දණ්ඩනය දිරිගන්වන ප්‍රකාශයක් සිදුකළ බවට චෝදනා කරමින් මහජන ආරක්ෂක අමාත්‍යවරයාට එරෙහි යෝජනාවක් එහි මහ සභා රැස්වීමේදී සම්මත කරගෙන තිබේ.
+The association was released today (29).
 
-ඒ පිළිබඳ නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා නීතිඥ සංගමය පවසන්නේ  ටිරාන් අලස් මහතා එම ප්‍රකාශය වහාම ඉල්ලා අස්කරගත යුතු බවය.
+The Minister of Defense Tiran Alles addressing the police as he was not hesitant to use firearms to repress crime gangs.
+
+The Sri Lanka Bar Association has been adopted by the Sri Lanka Bar Association with an arbitrary punishment that encourages a judicial attempt to promote court procedures.
+
+The Sri Lanka Bar Association (BASL) of the Sri Lanka Bar Association says that Mr. Tiran Alles should be immediately withdrawn.
+
+It shows that the President has immediately requested the President to remove his association from the public defense ministry as he is not inadequate by the reckless minister.
 
 ...
 
 [Data](articles/53ddd179.json)
 
+[Extended Data](ext_articles/53ddd179.ext.json)
+
 ---
 
-### ඩ්‍රෝන යානා භාවිතය ගැන පොලීසියෙන් දැනුම්දීමක්
+### All doubts over Sri Lanka’s ability to overcome economic crisis vanish: Semasinghe
+
+*2024-04-29 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-doubts-over-Sri-Lankas-ability-to-overcome-economic-crisis-vanish-Semasinghe/108-281582) · `en`
+
+Colombo, April 29 (Daily Mirror) - The doubts that existed among all parties on whether Sri Lanka will be able to overcome the economic crisis have disappeared, Finance State Minister Shehan Semasinghe said.
+
+He pointed out that this confidence among the business community will have a positive effect on the running of their activities.
+
+Therefore, respect must be given to all parties who shoulder the task of making the country enter the right path by making internationally accepted changes, the State Minister said.
+
+◼️
+
+[Data](articles/d22fe874.json)
+
+---
+
+### Police notice of drones
 
 *2024-04-29 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196108) · `si`
 
-අවසරයකික් තොරව මැයි රැළි ආවරණය කිරීම සඳහා ඩ්‍රෝන යානා භාවිත කිරීම තහනම් බව පොලීසිය පවසයි.
+Police on May Island prohibit drone use for covering wrinkles without permission. Drones must be authorized for use.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ, එලෙස ඩ්‍රෝන යානා භාවිත කිරීමට අවශ්‍ය නම් ඒ සඳහා පූර්ව අවසරයක් ලබාගතයුතු බවය.
+🟩
 
-මෙම නීතිය දිවයින පුරා පැවැත්වෙන සියලුම මැයි රැළි සඳහා අදාළ වනු ඇත.
+Police say the use of drones is forbidden to cover May wrinkles without permission.
+
+Police Media Spokesperson DIG'sary DIG at Law, Nihal Talduuwa said that if such to use the drones, the use of drones must be obtained for permission.
+
+This law will apply for all May island wide.
 
 ◼️
 
 [Data](articles/f7fb6222.json)
+
+[Extended Data](ext_articles/f7fb6222.ext.json)
 
 ---
 
@@ -411,6 +475,20 @@ Following the argument in the barbed wire, the facts revealed that the defendant
 [Data](articles/4ca2e7de.json)
 
 [Extended Data](ext_articles/4ca2e7de.ext.json)
+
+---
+
+### සාපෙළ  අවසන් වූ වහා උසස්පෙළ පන්ති ආරම්භ වේ
+
+*2024-04-29 18:27:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ--අවසන්-වූ-වහා-උසස්පෙළ-පන්ති-ආරම්භ-වේ/11-409330) · `si`
+
+පසුගිය කොවිඩ් ව්‍යසන සමයේ පාසල් වසා තැබීම නිසා අතපසු වූ අධ්‍යයන කටයුතු හා පාසල් විභාග කාලසටහන යථාවත් කිරීමේ වැඩපිළිවෙළ අනුව මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින සිසුන්ට එම විභාගය අවසන් වූ වහා ම අපොස උසස් පෙළ පන්ති ආරම්භ කිරීමට සිදු වන බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ ජාතික අධ්‍යාපන ආයතනයේ නිල අන්තර්ජාල ගුවන් විදුලි නාලිකාව (NIE Visual Radio) ආරම්භ කිරීමේ වැඩසටහනට ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි වෙමින් මහරගම ජාතික අධ්‍යාපන ආයතනයේ දී ය.
+
+...
+
+[Data](articles/82af75c6.json)
 
 ---
 
@@ -2197,99 +2275,5 @@ The President's Office has informed the donors who wish to contribute to the Don
 [Data](articles/bf3ecb60.json)
 
 [Extended Data](ext_articles/bf3ecb60.ext.json)
-
----
-
-### Three dead, four hospitalised after consuming illicit liquor in Kalutara
-
-*2024-04-29 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98911/three-dead-four-hospitalised-after-consuming-illicit-liquor-in-kalutara) · `en`
-
-Three individuals from the Pahala Karannagoda area of Warakagoda in Kalutara, have died due to a sudden illness after consuming illicit liquor.
-
-The victims are reported to be residents of the Karannagoda area, aged between 43 and 68.
-
-Relatives of the deceased individuals state that all three of them had consumed illicit liquor on Saturday night (27).
-
-One of the victims died while at home yesterday morning (28), while another fell ill and had taken medication from a private dispensary. Subsequently, he fell ill again and died while en route to the hospital. It is reported that the other person succumbed to his illness while undergoing treatment at Horana Hospital.
-
-According to family sources, all three victims have had similar symptoms such as loss of vision and excessive vomiting.
-
-Additionally, four individuals from the same area are currently undergoing treatment at Colombo-South Teaching Hospital, Horana Hospital, and Jayawardenapura Hospital, exhibiting similar symptoms.
-
-...
-
-[Data](articles/1b1c4f9d.json)
-
-[Extended Data](ext_articles/1b1c4f9d.ext.json)
-
----
-
-### SJB to hold two May Day rallies
-
-*2024-04-29 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-hold-two-May-Day-rallies/108-281564) · `en`
-
-Colombo, April 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) is to hold two May Day rallies this year, with one rally to be held in Colombo and the other in Nuwara Eliya.
-
-SJB National Organizer Tissa Attanayake said the main rally will be held at Chatham’s Street Colombo and the other in Nuwara Eliya.
-
-“The rally in Nuwara Eliya is to be organized by the Tamil Progressive Alliance (TPA) but the SJB leader will participate in both rallies,” Attanayake said.
-
-He said the SJB May Day procession is to begin from Gunasinhapura by 1 pm.
-
-◼️
-
-[Data](articles/662f0ae7.json)
-
-[Extended Data](ext_articles/662f0ae7.ext.json)
-
----
-
-### Minister Yogo Kamika is coming
-
-*2024-04-29 12:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-யோகோ-கமிகாவா-வருகிறார்/175-336497) · `ta`
-
-Japan's Foreign Minister Yogo Kamika visits Sri Lanka May 4-5.
-
-🟩
-
-Japan's Foreign Minister Yogo Kamika is to make an official visit to Sri Lanka. He will stay in Sri Lanka for two days from May 04-05.
-
-◼️
-
-[Data](articles/4628f70e.json)
-
-[Extended Data](ext_articles/4628f70e.ext.json)
-
----
-
-### May Day: May of May Rally in Colombo
-
-*2024-04-29 12:24:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpegdg1nwq8o) · `si`
-
-The May Day Rally in Colombo, organized by the May Day Ransay and teams, showcases future presidential election power. It features events in Colombo, Jaffna, Matara, and Anuradhapura, with the UNP, Sri Lanka General Front, and Maithri Party (SLFP) participating.
-
-🟩
-
-Doesn't you contain any of the uses.
-
-May Day: May of May Rally in Colombo
-
-The May Day Ransay and teams have been organized to organize the May Day Rally this year, displaying the power to the presidential election in the future.
-
-The UNP May Day Rally will be held in front of the Maligawatta Police, headed by President Ranil Wickremesinghe.
-
-Four May will be organized in Colombo, Jaffna, Matara and Anuradhapura.
-
-The reconciliation force is prepared to hold two May Day in Chatham Street and estate sector in Colombo.
-
-The Sri Lanka General Front is due to be held at the Campbell Ground, Borella.
-
-The Maithri Party (SLFP) Maithree is held in Gampaha.
-
-◼️
-
-[Data](articles/82557aed.json)
-
-[Extended Data](ext_articles/82557aed.ext.json)
 
 ---

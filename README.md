@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 12:34:20**
+As of **2024-04-29 12:50:55**
 
 ## Newspaper Stats
 
-*Scraped **21,553** Articles*
+*Scraped **21,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,70 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,801
+adalk | 1,802
 tamilmirrorlk | 2,502
 adaderanalk | 2,562
 virakesarilk | 3,242
-dailymirrorlk | 3,352
-adaderanasinhalalk | 3,490
+dailymirrorlk | 3,353
+adaderanasinhalalk | 3,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,550 (100.0%) of 21,553 articles have been extended.
+21,553 (100.0%) of 21,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### திருநங்கை, திருநம்பிகளுக்கு   மரண தண்டனை
+### ටයිටැනික් මතකය අලුත් කළ රන් ඔරලෝසුව
+
+*2024-04-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196086) · `si`
+
+සිය මංගල මුහුදු ගමන අතරතුරදී අනතුරට ලක්ව ගිලි ගිය ටයිටැනික් නෞකාව තවමත් විවිධ පුවත් මවයි.
+
+එම නෞකාව එංගලන්තයේ සවුතැම්ප්ටන් සිට අමෙරිකාවේ නිව් යෝර්ක් දක්වා ගමන් කරමින් සිටියදී 1912 අප්‍රේල් 12 වනදා උතුරු අත්ලාන්තික් මුහුදේදී අයිස් කුට්ටියක ගැටී ගිලී ගියේය.
+
+එම නෞකාවේ ගමන් කරමින් සිදී ධනවත්ම මගියා වූයේ ජෝන් ජේකොබ් ඇස්ටර් නම් ව්‍යාපාරිකයෙකි.
+
+ඔහුද එම අනතුරින් මියගියේය. නමුත් ඔහු පැළඳ සිටි රත්‍රන් "පොකට් ඔරලෝසුව" නිසා ටයිටැනික් වෘතාන්තය නැවතත් කරළියට පැමිණ තිබේ.
+
+එම රන් ඔරලෝසුව පවුම් 900,000කට වෙන්දේසියකදී විකිණී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේය.
+
+එංගලන්තයේ විල්ෂයර් ප්‍රදේශයේ පැවති වෙන්දේසියක් සඳහා එය ඉදිරිපත් කර තිබූ අතර එහි ආරම්භක වටිනාකම සඳහන් වූයේ පවුම් 150,000ක් ලෙසට ය.
+
+ඒ සඳහා බදු සහ වෙනත් ගාස්තු ගෙවු පසු එම ඔරලෝසුව මිලදී ගත් පුද්ගලයාට ගෙවීමට සිදුවන සම්පූර්ණ මුදල පවුම් මිලියන 1.175කි.
+
+◼️
+
+[Data](articles/7c268795.json)
+
+---
+
+### Transgender, death sentence for transgender
 
 *2024-04-29 12:07:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/திருநங்கை-திருநம்பிகளுக்கு-மரண-தண்டனை/50-336496) · `ta`
 
-தன்பாலின திருமணங்களுக்கு உலக நாடுகளில் பல சட்ட அங்கீகாரத்தை வழங்கி இருக்கிறது. எனினும், ஈராக் போன்ற நாடுகள் ஓரினச்சேர்க்கையை குற்றச்செயலாக்கி சட்டம் இயற்றி இருக்கிறது.
+Iraq bans homosexual marriages, with severe punishments for violators, including imprisonment for those married to homosexuals and transgender individuals. Despite international legal recognition, Iraq's stance is in stark contrast to the 130 countries that legalize homosexuality.
 
-மத்திய கிழக்கு நாடான ஈராக் நாட்டில் தன்பாலின திருமணங்கள் குற்றச்செயலாக அறிவிக்கபட்டு தடை விதிக்கபட்டு இருக்கிறது. மேலும், இந்த தடையை மீறுவோருக்கான தண்டனை குறித்தும் அறிவிக்கபட்டு இருக்கிறது.
+🟩
 
-ஓரினச்சேர்க்கையை சட்டபூர்வமாக்கி அதனை ஏற்றுக்கொண்ட 130 நாடுகள் உலகளவில் இருக்கின்றன. எனினும், இந்த ஓரினச்சேர்க்கை இயற்கைக்கும் கலாசாரத்திற்கும் மாறானது என இதனை தடை செய்தும் குற்றச்செய்யலாகவும் சுமார் 60 நாடுகள் அறிவித்து இருக்கின்றன.
+The world has given many legal recognition in the world for marriage. However, countries like Iraq have enacted homosexuality.
 
-சமீபத்தில், ஓரினச்சேர்க்கை திருமணத்தை சட்டபூர்வமாக்கியது தாய்லாந்து அரசு. இந்த அங்கீகாரத்திற்கு உலகளவில் மிகப்பெரிய கவனம் கிடைத்தது. இந்நிலையில், ஈராக் நாட்டில் தன்பாலின திருமணங்கள் தடை செய்யப்பட்டு அதற்கான சட்டங்களும் நிறைவேற்றபட்டு இருக்கின்றன.
+In the Middle East, Iraq, marriages have been declared a crime. Moreover, the punishment for violators has been reported.
+
+There are 130 countries worldwide that legalize homosexuality and accept it. However, about 60 countries have announced that this homosexuality is contrary to nature and culture.
+
+Recently, the government of Thailand legalized homosexual marriage. This recognition received the greatest attention worldwide. In this case, the marriages in Iraq have been banned and the laws have been passed.
+
+Earlier, a referendum was held in the presence of ministers in the Iraqi parliament to decide on the attraction. In it, the majority of ministers are opposed to this, and the punishments for violators are defined.
 
 ...
 
 [Data](articles/345c309a.json)
+
+[Extended Data](ext_articles/345c309a.ext.json)
 
 ---
 
@@ -802,23 +834,29 @@ However, Menikhinna police have taken steps to deploy police officers for the sa
 
 ---
 
-### கண்டியில் பதற்றம்: பொலிஸார் குவிப்பு
+### Tension in Kandy: Police accumulation
 
 *2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
 
-கண்டி மெனிக்ஹின்ன வைத்தியசாலை வளாகத்தில் நேற்று (28) இரவு ஏற்பட்ட பதற்ற நிலை காரணமாக வைத்தியசாலை ஊழியர்கள் உட்பட 07 பேர் காயமடைந்துள்ளனர்.
+Tension in Kandy's Menikhinna Hospital led to injuries among hospital staff and patients during New Year's Eve. Police intervened, and both sides admitted to clashes, resulting in seven injuries. The hospital's operations were delayed, and police ensured safety.
 
-மெனிக்ஹின்ன பிரதேசத்தில் இடம்பெற்ற புத்தாண்டு விழாவின் போது காயமடைந்த நபரொருவர் சிகிச்சைக்காக வைத்தியசாலைக்கு கொண்டு வரப்பட்டுள்ள நிலையில், மருத்துவமனையின் பணிக்குழாமினரும் புத்தாண்டு விழாவில் பங்கேற்றிருந்ததால் அவருக்கு சிகிச்சை அளிக்க காலதாமதமாகியுள்ளது.
+🟩
 
-இதையடுத்து, மருத்துவமனை ஊழியர்களுக்கும் காயமடைந்த தரப்பினருக்கும் இடையே காரசாரமான வார்த்தைப் பிரயோகம் இடம்பெற்று பின்னர் இது மோதலாக உருவெடுத்துள்ளதுடன், இரு தரப்பையும் சேர்ந்த 07 பேர் காயமடைந்து கண்டி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
 
-இரு தரப்பினரையும் அழைத்து வாக்குமூலம் பதிவு செய்யப்பட்டதை அடுத்து, அவர்கள் கலைந்து சென்றனர்.
+The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's Eve.
 
-எவ்வாறாயினும், வைத்தியசாலை வளாகத்தின் பாதுகாப்பிற்காக பொலிஸ் உத்தியோகத்தர்களை பாதுகாப்பு பணியில் ஈடுபடுத்தவும் மெனிக்ஹின்ன பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
+
+Following the confession of the two sides, they dispersed.
+
+However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
 
 ◼️
 
 [Data](articles/fb4305eb.json)
+
+[Extended Data](ext_articles/fb4305eb.ext.json)
 
 ---
 
@@ -965,6 +1003,24 @@ The victim was a 30 year old resident of the area.
 [Data](articles/2f9eea64.json)
 
 [Extended Data](ext_articles/2f9eea64.ext.json)
+
+---
+
+### කජු කර්මාන්තකරුවන් ලියාපදිංචි කරයි
+
+*2024-04-29 09:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කජු-කර්මාන්තකරුවන්-ලියාපදිංචි-කරයි/11-409313) · `si`
+
+දිවයින පුරා විසිරී සිටින කජු ආශ්‍රිත කර්මාන්තයේ නියැලී සිටින ව්‍යවසායකයන් ලියා  පදිංචි කිරීමට  ශ්‍රි  ලංකා කජු සංස්ථාව තීරණය කර තිබේ.
+
+රජයේ ප්‍රතිපත්තිමය සැළසුම් සකස් කිරීමේදී හා ක්ෂේත්‍රය සඳහා විවිධාකාර අනුග්‍රහයන් ලබාදීමේදී විවිධ ආයතනවලට නිවැරදි තොරතුරු ලබාදීම මෙමගින් අපේක්ෂිත බව කජු සංස්ථාව පවසයි.
+
+ඉදිරියේදී කජු කර්මාන්තයට අදාලව රාජ්‍ය ආයතන සමග ගනුදෙනු කිරීමේදී හා එම ව්‍යවසායකයන්ට ප්‍රමුඛතාව ලබාදීමට     මෙම ලියාපදිංචිය අත්‍යවශ්‍ය බවද  කජු සංස්ථාව පැවසීය.
+
+මේ අනුව  කජු වගා කරුවන් ,කජු පිරිසැකසුම්කරුවන් ,කජු මද අපනයනකරුවන් හා ආනයනකරුවන් ,කජු නිෂ්පාදන යන්ත්‍ර නිෂ්පාදකයන් හා ආනයනකරුවන් ඇතුළු කජු කර්මාන්තයේ නියැලී සිටින ව්‍යවසායකයන් මැයි 31 දිනට පෙර කජු සංස්ථාවේ ලියාපදිංචි විය යුතු බවද කජු සංස්ථාව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/6d4c3f62.json)
 
 ---
 
@@ -1427,6 +1483,26 @@ The employees of the employees have fallen from 8.14 million to 8.01 million fro
 [Data](articles/9af16cf4.json)
 
 [Extended Data](ext_articles/9af16cf4.ext.json)
+
+---
+
+### Five police officers sentenced to life with rigorous imprisonment
+
+*2024-04-29 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-police-officers-sentenced-to-life-with-rigorous-imprisonment/108-281551) · `en`
+
+Five police officers  including the then OIC of the Bharatipuram Police Station in the Trincomalee District were sentenced to life with rigorous imprisonment  after being convicted over an incident  that happened 26 years ago.
+
+The North Central Provincial High Court Judge, Manoj Thalgodapitiya, delivered the judgement.
+
+Indictments had been served against them for being present in the police station when the incident in which eight unarmed Tamils were taken to the police station and gunned down by an armed group.
+
+Two other police officers were acquitted from the charges. The convicts are Inspector of Police R. M. Ranaraja Bandara who served as the OIC of the Bharatipuram Police Station in the Kantale division, Sub Inspector G. L. Somaratne, Police Sergeants Chandraratne Bandara, K. M. Nihal Prematilake R. and R. Somaratne Bandara Mediwela.
+
+They were charged for being part of an unlawful assembly that committed the crime.
+
+◼️
+
+[Data](articles/a8b47db4.json)
 
 ---
 
@@ -2339,69 +2415,5 @@ The police media spokesman said he was arrested during a raid through a newly eq
 [Data](articles/73f6e729.json)
 
 [Extended Data](ext_articles/73f6e729.ext.json)
-
----
-
-### Ehelepola Walawwa to become first wax museum in Sri Lanka
-
-*2024-04-28 21:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ehelepola-Walawwa-to-become-first-wax-museum-in-Sri-Lanka/108-281510) · `en`
-
-Colombo, April 28 (Daily Mirror) - Following the transfer of the renovated Ehelepola Walawwa to the Sri Dalada Maligawa by the Urban Development Authority (UDA), it will be transformed into a wax figure museum, preserving its archaeological and cultural significance, Sri Dalada Maligawa Diyawadana Nilame Pradeep Nilanga Dela said.
-
-Wax figures will recreate the architecture of the Kandy era, along with the ritual culture, food culture, industries, and arts associated with the Ehelepola Walawwa.
-
-Additionally, life-size wax figures of national heroes such as Monarawila Keppetipola Disawe, Ehelepola Maha Adikaram, and Devendra Mulachari, along with members of the Ehelepola family and leaders who played significant roles in the Uva Wellassa Rebellion, are planned to be created.
-
-The Diyawadana Nilame said he believes this wax museum, which will show the beauty and pride of this country, will attract the attention of those both home and abroad.
-
-...
-
-[Data](articles/d18c61d9.json)
-
-[Extended Data](ext_articles/d18c61d9.ext.json)
-
----
-
-### The underworld falls in the country
-
-*2024-04-28 21:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196063) · `si`
-
-An underworld member was arrested at Bandaranaike International Airport for attempting to leave the country with a fake passport.
-
-🟩
-
-A leading underworld member was arrested at the Bandaranaike International Airport, who attempted to go abroad using a fake passport.
-
-Police Media Spokesperson DIG's DIG'sary, lawyer, said Nihal Talduuwa said the suspect had recently installed at the airport.
-
-◼️
-
-[Data](articles/5bb83aff.json)
-
-[Extended Data](ext_articles/5bb83aff.ext.json)
-
----
-
-### Sri Lanka’s car market set to coast downhill
-
-*2024-04-28 21:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-car-market-set-to-coast-downhill-160361/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s overheated second-hand car market is set to cool rapidly industry analysts said, with advertised brand new prices for vans being sharply below asking prices for used vehicles after import controls were partially relaxed for tourism.
-
-Toyota Lanka took out advertisements on Sunday to sell the new HiAce passenger van, which is permitted for use in the tourism sector, where the government would allow 750 vans to be imported.
-
-The move startled dealers who have been offering their used vans at astronomical prices.
-
-The price of a 13-seater automatic HiAce was listed at an all-inclusive price of 16 million rupees, nearly half the 32.5 million rupees asking price of a five-year-old HiAce that had travelled 48,000 kilometres, advertised in recent days.
-
-HiAce vans of various ages are still advertised around 14 to 23 million rupees in online market places.
-
-A salesman at Toyota said the price of a brand-new van included approximately 7.0 million rupees in taxes.
-
-...
-
-[Data](articles/6fe10968.json)
-
-[Extended Data](ext_articles/6fe10968.ext.json)
 
 ---

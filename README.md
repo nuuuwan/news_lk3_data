@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 11:04:48**
+As of **2024-04-29 11:18:36**
 
 ## Newspaper Stats
 
-*Scraped **21,521** Articles*
+*Scraped **21,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,90 @@ newsfirstlk | 363
 islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
-adalk | 1,798
+adalk | 1,800
 tamilmirrorlk | 2,494
 adaderanalk | 2,561
 virakesarilk | 3,230
 dailymirrorlk | 3,351
-adaderanasinhalalk | 3,486
+adaderanasinhalalk | 3,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,518 (100.0%) of 21,521 articles have been extended.
+21,521 (100.0%) of 21,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### අංගොඩ ලොක්කාගේ ගෝලයා ගැන තවත් තොරතුරු එළියට
+### හිටපු ඇමති ෆවුසි ට නොතීසි
+
+*2024-04-29 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196081) · `si`
+
+හිටපු ආපදා කළමනාකරණ අමාත්‍ය ඒ. එච්. එම්. ෆවුසි මහතාට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව මැයි මස 22 වනදා දක්වා කල්තැබීමට කොළඹ මහාධිකරණය අද (29) නියම කළේය.
+
+නෙදර්ලන්ත රජය විසින් ආපදා කළමනාකරණ මධ්‍යස්ථානය වෙත ලබාදුන් ජීප් රථයක් සිය පෞද්ගලික පරිහරණය සඳහා යොදාගැනීම තුළින් රජයට රුපියල් මිලියනයකට අධික පාඩුවක් සිදු කළේ යැයි ඔහු චෝදනා ලබා සිටියි.
+
+මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+ඔහු වෙනුවෙන් පෙනී සිටි නීතිඥවරයා සඳහන් කළේ විත්තිකරු චර්ම රෝගයකින් පෙළෙන බැවින් ඔහු අද දින අධිකරණයට නොපැමිණි බවයි.
+
+ඒ පිළිබඳ තහවුරු කරන වෛද්‍ය වාර්තාවක්ද නීතිඥවරයා අධිකරණයට ඉදිරිපත් කළේය.
+
+ඒ අනුව නඩුව නැවත මැයි මස 22 වනදා දක්වා කල්තැබූ මහාධිකරණ විනිසුරුවරයා එදින විත්තිකරුට අධිකරණයේ පෙනී සිටින ලෙස දන්වා නොතිසි නිකුත් කරන ලෙසත් නියෝග කළේය.
+
+◼️
+
+[Data](articles/4602b248.json)
+
+---
+
+### More information about the disciple of Angoda
 
 *2024-04-29 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196080) · `si`
 
-ව්‍යාජ විදේශ ගමන් බලපත්‍රයක් භාවිතා කරමින් විදේශගත වීමට උත්සාහ කිරීමේ දී අත්අඩංගුවට පත්වූ පුද්ගලයා සම්බන්ධයෙන් තවත් තොරතුරු රැසක් අනාවරණය වී තිබේ.
+Chitty 'Chitty', a 47-year-old from Angoda, arrested for smuggling 10 grams of ice drugs to Sri Lanka. He's a major underworld figure, identified by an automatic identification machine at the airport.
 
-අත්අඩංගුවට පත්වූ පුද්ගලයා මෙරට ප්‍රධාන පෙළේ පාතාල කල්ලි සාමාජිකයෙකුව සිටි 'අංගොඩ ලොක්කා'ගේ ප්‍රධාන ගෝලයෙකු බව වාර්තා වේ.
+🟩
 
-අපරාධකරුවන් හඳුනාගැනීම සඳහා ගුවන් තොටුපළේ මෑතක දී සවිකරන ලද ස්වයංක්‍රීය හඳුනාගැනීමේ යන්ත්‍රය මඟින් මෙම සැකකරුව හඳුනාගෙන අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා සඳහන් කළේය.
+There have been more information regarding the person arrested in attempts to go abroad using a fake passport.
 
-සැකකරු අංගොඩ ප්‍රදේශයේ පදිංචි 47 හැවිරිදි 'චිටී' නැමති අනුවර්ථ නාමයෙන් හැඳින්වූ පුද්ගලයෙකු බවට අනාවරණය වී තිබේ.
+The arrested person is a major disciple of the country, a leading underworld gang member of the country.
 
-මොහු අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 10ක් මෙරටට රැගෙන ඒම සහ ජාවාරම් කිරීමට අදාළව මුල්ලේරියාව පොලිස් ස්ථානයට අවශ්‍යව සිටි සැකකරුවෙකු බව වාර්තා වේ.
+Police Media Spokesperson DIG's Court, Nihawe Talduwa stated that the suspect had been identified and arrested by the automatic identification machine at the airport to identify criminals.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේ සැකකරු සතුව තිබී ව්‍යාජ නමකින් සකස් කළ විදෙස් ගමන් බලපත්‍රයක්, ජාතික හැඳුනුම්පතක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 මිලිග්‍රෑම් 500ක් පොලිස් භාරයට ගෙන තිබේ.
+The suspect was identified as a 47-year-old man named Chitty 'Chitty', a resident of Angoda.
 
-...
+It is reported that he was a suspect in the Mulleriyawa police station with 10 ice drugs to Sri Lanka and smuggling.
+
+At the time of his arrest, the suspect was taken into custody, a National Identity and Ice Narcotics, 10 grams prepared by the suspect.
+
+Police investigations have revealed that the suspect had been involved in the Wellampitiya Police Division in the Wellampitiya Police Division in 2011, including the possession of firearms, police investigations.
+
+◼️
 
 [Data](articles/bb0df58f.json)
+
+[Extended Data](ext_articles/bb0df58f.ext.json)
+
+---
+
+### මැණික්හින්න රෝහලේ ගැටුමක්
+
+*2024-04-29 10:42:28* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්හින්න-රෝහලේ-ගැටුමක්/11-409319) · `si`
+
+ඊයේ 28දා රාත්‍රීයේ  මැණික්හින්න රෝහල තුළ හටගත් කළහකාරී තත්ත්වයක් හේතුවෙන් රෝහල් කාර්ය මණ්ඩලය ඇතුළු පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා මහනුවර රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+
+මැණික්හින්න ප්‍රදේශයේ පැවති අවුරුදු උත්සවයක් අතරවාරයේ තුවාල ලැබු පුද්ගලයෙකු ප්‍රතිකාර සඳහා රෝහල වෙත රැගෙනවිත් ඇති අතර එහිදී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින්ද අවුරුදු උත්සවයකට සහභාගීවී තිබීම හේතුවෙන් ප්‍රතිකාර කිරීමට ප්‍රමාද වී ඇති බවත්  ඒ සම්බන්ධවෙන් විමසීමේ දී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් සහ තුවාල ලැබු පාර්ශ්වය අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබේ.
+
+පසුව මෙය ගැටුමක් දක්වා වර්ධනය වී ඇති අතර එහිදී දෙපාර්ශ්වයේම පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා තුවාල ලබා ඇත  ඒ අතර තුවාල ලැබුවන්ගෙන් 05 දෙනෙකු මැණික්හින්න රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් බව ද පොලීසිය සඳහන් කළේය.
+
+මෙම නොසන්සුන්කාරී තත්ත්වය මැණික්හින්න පොලීසිය මැදිහත් වීමෙන් ගැටුම සමතයකට පත් කිරීමට පියවර ගෙන  ඇති අතර එය පාලනය කිරීම සඳහා විශේෂ පොලිස් කණ්ඩායමක් ද කැඳවීමට පියවර ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/c54747a8.json)
 
 ---
 
@@ -67,6 +115,8 @@ According to an official release, ATS Superintendent of Police KK Patel received
 ...
 
 [Data](articles/4f1c96a5.json)
+
+[Extended Data](ext_articles/4f1c96a5.ext.json)
 
 ---
 
@@ -85,6 +135,8 @@ Dr. Heiyanthuduwa expressed that the increase in diabetes among the population i
 ...
 
 [Data](articles/e6ef3433.json)
+
+[Extended Data](ext_articles/e6ef3433.ext.json)
 
 ---
 
@@ -147,6 +199,24 @@ In the case of sufficient drinking water, the rest of the shade, the restraint, 
 [Data](articles/cefc2f39.json)
 
 [Extended Data](ext_articles/cefc2f39.ext.json)
+
+---
+
+### රිය අනතුරකින් උප පොලිස් පරික්ෂක මරුට
+
+*2024-04-29 10:13:29* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-උප-පොලිස්-පරික්ෂක-මරුට/11-409316) · `si`
+
+ගාල්ල මාතර මාර්ගයේ පඹුරන ප්‍රදේශයේදී මාතර දෙස සිට ගාල්ල දෙසට ධාවනයවු යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයේ පෙරලී ගොස් ඊයේ (28) රාත්‍රි  සිදුවු අනතුරකින් යතුරුපැදිකරු මියගොස් ඇති බව මාතර පොලීසිය කියයි.
+
+අනතුරින් තුවාල ලැබු පුද්ගලයා ප්‍රතිකාර සදහා මාතර රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+මියගොස් ඇත්තේ වයස අවුරුදු 58 ක්වු  මාතර, වල්ගම ප්‍රදේශයේ පදිංචි මාතර පොලිස් ස්ථානයට අනුයුක්තව සේවය කරන උප පොලිස් පරීක්ෂකවරයෙකී.
+
+රාජකාරි නිමාකර නිවස බලා යමින් සිටියදී මෙම අනතුරට පත්ව අති අතර, මෘත ශරිරය මාතර රෝහලේ මෘත ශරීරාගරයේ තැන්පත් කර  ඇති බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/d69b446f.json)
 
 ---
 
@@ -2241,81 +2311,5 @@ The government's subsidy has been determined to provide a rice subsidy for the e
 [Data](articles/796cd1ec.json)
 
 [Extended Data](ext_articles/796cd1ec.ext.json)
-
----
-
-### Sadasivam Jupiter can only do anything because of the election during the election
-
-*2024-04-28 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/182172) · `ta`
-
-Sadasivam emphasizes the importance of action over speech during elections, highlighting the need for development projects to directly benefit people.
-
-🟩
-
-Speaking of mouth only during the election can only do nothing. The speech must be carried out in advance of operational answers. So the development projects have to reach people. Otherwise there are people who cheat with people.
-
-He said this while participating in the opening ceremony of the people's use of 6 kilometers of carpet roads in the village of Batticaloa district with a sum of 350 million allocation.. As he further stated.
-
-Speaking of mouth only during the election can only do nothing. The speech must be carried out in advance of operational answers. Therefore, the development projects have to reach people or the people are deceiving the people.
-
-People's leaders are the ones who find the needs of the people and serve the services. So to do work for the vote. Said.
-
-◼️
-
-[Data](articles/8471c632.json)
-
-[Extended Data](ext_articles/8471c632.ext.json)
-
----
-
-### Interest at Employees Provident Fund to 13 percent
-
-*2024-04-28 18:22:38* · [`adalk`](https://www.ada.lk/breaking_news/සේවක-අර්ථසාධක-අරමුදලේ-පොලිය-සියයට-13-දක්වා-ඉහළට/11-409307) · `si`
-
-The government has increased the EPF interest rate from 9% to 13%, Dr. Ranjith Siyambalapitiya announced. This decision, effective in 2023, aims to strengthen the EPF, addressing criticisms and ensuring its growth.
-
-🟩
-
-State Minister Dr. Ranjith Siyambalapitiya says that the government has taken steps to increase the 9% interest rate of 9% at the EPF interest rate to 13%.
-
-At a meeting in Yatiyantota District, the Minister has commented. The Minister further explained that the government has decided to increase its 9% to 13%, exceeding 9% to 13% on the year 2023.
-
-The minister says that the allegations made by some stakeholders have been meaningless by some stakeholders that the Employees Provident Fund is being destroyed during the past. The Minister has said that the Growth Fund in the country is the EPF and the EPF.
-
-The Minister also stated that the largest challenge was the biggest challenge with the Employees' Provident Fund in Parliament and that the Employees Provident Fund would be incurred in the recreation.
-
-◼️
-
-[Data](articles/340631b4.json)
-
-[Extended Data](ext_articles/340631b4.ext.json)
-
----
-
-### Sri Lankans abroad should be supported by the people of the National People's Power this year - Anuragumara Dissanayake in Sweden
-
-*2024-04-28 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182167) · `ta`
-
-Anuragumara Dissanayake in Sweden urges Sri Lankans abroad to support Gotabhaya Rajapaksa, highlighting their crucial role in the 2019 election victory. He emphasizes their potential as a key force in upcoming elections, advocating for their engagement in ecommerce campaigns or direct contact with family members in Sri Lanka.
-
-🟩
-
-Anuragumara Dissanayake has appealed to Sri Lankans abroad to give him support to Gotabhaya Rajapaksa in 2019.
-
-He said that Sri Lankans abroad have made a major contribution to the winning of the 2019 presidential election, he said.
-
-Sri Lankans abroad are now propagating for the change and the new Sri Lanka.
-
-He has appealed to Sri Lanka to propagate for us or to engage in an ecommerce campaign to increase our support.
-
-He has requested that family members in Sri Lanka contact you with phones.
-
-He said that in the upcoming elections, Sri Lankans abroad will be the most important force.
-
-◼️
-
-[Data](articles/6cd7a168.json)
-
-[Extended Data](ext_articles/6cd7a168.ext.json)
 
 ---

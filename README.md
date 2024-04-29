@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 21:34:33**
+As of **2024-04-29 21:53:12**
 
 ## Newspaper Stats
 
-*Scraped **21,665** Articles*
+*Scraped **21,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,814
+adalk | 1,815
 tamilmirrorlk | 2,520
-adaderanalk | 2,574
+adaderanalk | 2,575
 virakesarilk | 3,265
 dailymirrorlk | 3,372
 adaderanasinhalalk | 3,511
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,665 (100.0%) of 21,665 articles have been extended.
+21,665 (100.0%) of 21,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Veteran musician Dr. Premadasa Mudunkotuwa passes away
+
+*2024-04-29 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98923/veteran-musician-dr-premadasa-mudunkotuwa-passes-away) · `en`
+
+Veteran musician Dr. Premadasa Mudunkotuwa has passed away on Monday at the age of 91, family members confirmed.
+
+He is the father of popular Sri Lankan singer Samitha Mudunkotuwa, 51, and is the husband of the late Kumari Bothota, a folk singer at the Sri Lanka Broadcasting Corporation (SLBC).
+
+Dr. Mudunkotuwa is the first Masters holder from Bhathkanda Music College, India and was the ‘Guru’ of many celebrated singers of today.
+
+◼️
+
+[Data](articles/457f64d8.json)
+
+---
 
 ### Death of Premadasa passes away
 
@@ -409,6 +425,22 @@ On a previous occasion, the defence counsel informed court that his client had r
 [Data](articles/9caf11c4.json)
 
 [Extended Data](ext_articles/9caf11c4.ext.json)
+
+---
+
+### ඇල්ල කරදගොල්ල ජලය ක්‍රමවත්ව ඉවත් කිරීමට කාණු පද්ධතියක්
+
+*2024-04-29 18:09:13* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-ජලය-ක්‍රමවත්ව-ඉවත්-කිරීමට-කාණු-පද්ධතියක්/11-409328) · `si`
+
+සක්‍රිය වී ඇති ඇල්ල කරදගොල්ල නායයාම සම්බන්ධ භූමිය මතුපිට ඇති ජලය ඉවත් කිරීම හා එම ජලය බැස යාම ක්‍රමවත් කිරීමේ කටයුතු සඳහා අද 29  යුද හමුදාව ඇතුළු සහන  සේවකයින් යෙදවූ බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ  නියෝජ්‍ය අධ්‍යක්ෂ  ඊ එම් එල් උදය කුමාර මහතා පැවසීය.
+
+ඇල්ල කරදගොල්ල මලිතගොල්ල  ප්‍රදේශයේ මේ වන විට මතුව ඇති නායයාමේ අවධානම පිළිබඳව අද 29 දිනයේත් විශේෂ කණ්ඩායම් නිරීක්‍ෂණය කරන බවත් එම ස්ථානයේ අවධානම අවම කර ගැනීමට අවශ්‍ය  කෙටිකාලින හා දිගුකාලීන  පියවර අනුගමනය කරමින් සිටින බවත් බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා සඳහන් කළේය.
+
+පසුගිය 25 දින මෙම නායයාමේ අවදානම මතු වූ අතර අද දින වන විට එම නාය යාම වඩා සක්‍රීය තත්ත්වයට පත්වී  ඇති බවත් දැනට කරන නිරීක්ෂණවල සටහන් වන බවද ඒ මහතා පැවසීය.
+
+...
+
+[Data](articles/28df5ab0.json)
 
 ---
 
@@ -2277,61 +2309,5 @@ The arrested suspect has been identified to be a Software Engineering degree-hol
 [Data](articles/240e9739.json)
 
 [Extended Data](ext_articles/240e9739.ext.json)
-
----
-
-### 5 Police sentenced to police; verdict of 26 years
-
-*2024-04-29 11:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பொலிஸாருக்கு-ஆயுள்-தண்டனை-26-வருடங்களின்-பின்-தீர்ப்பு/175-336494) · `ta`
-
-Five police officers sentenced to life for the 1998 killing of eight residents by an armed group, with two released.
-
-🟩
-
-About 26 years after the incident, five police officers from Kandale Paradipuram police station have been sentenced to life imprisonment in connection with the killing of eight residents of the area by the armed group.
-
-The five officers have arrested the victims and brought them to the police station.
-
-During the detention, it was reported that a armed group in the presence of police officers in 1998 killed victims at the police station.
-
-Anuradhapura High Court Judge Manoj Talgodapitiya sentenced five police officers, including the Bharathipuram Police Station officer in charge of the police.
-
-Five police officers were accused of illegally illegally with the intention of killing.
-
-However, the court ordered the release of only two police officers who were accused.
-
-◼️
-
-[Data](articles/8444c14a.json)
-
-[Extended Data](ext_articles/8444c14a.ext.json)
-
----
-
-### 3 girls abuse: father, teenager, lover arrested
-
-*2024-04-29 11:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுமிகள்-துஷ்பிரயோகம்-தந்தை-இளைஞன்-காதலன்-கைது/175-336493) · `ta`
-
-Three men, including a father and a boyfriend, were arrested for allegedly raping three girls in different incidents in the Moneragala district. The father was detained for sexually abusing his 12-year-old daughter. A 47-year-old man was arrested for raping a 12-year-old girl after an emergency call. A 22-year-old youth was arrested for sexually assaulting an 11-year-old girl, and a 13-year-old girl was arrested for allegedly raping a 11-month-old girl.
-
-🟩
-
-Father, youth and boyfriend have been arrested in connection with three different incidents, under the allegations that three girls were raped.
-
-These incidents have taken place under three different police officers in the Moneragala district.
-
-The father of a girl who was arrested on May 26) has been kept in detention until the seventh of May on charges of sexually abusing her 12 -year -old daughter from the Medagoda area of the Wellawaya Police Division.
-
-A 47 -year -old man, a father of three children arrested on charges of raping a 12 -year -old girl on the basis of an emergency phone call from 119, was arrested by the Wellawaya police and produced in court.. .
-
-When there was no one in the house, the suspect's father took his daughter, the girl, and raped her.
-
-When she told her girlfriend what had happened, the girlfriend informed her an emergency phone call 119.
-
-...
-
-[Data](articles/dafa8471.json)
-
-[Extended Data](ext_articles/dafa8471.ext.json)
 
 ---

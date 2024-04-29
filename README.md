@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 13:34:31**
+As of **2024-04-29 13:53:33**
 
 ## Newspaper Stats
 
-*Scraped **21,568** Articles*
+*Scraped **21,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,802
-tamilmirrorlk | 2,504
+adalk | 1,803
+tamilmirrorlk | 2,505
 adaderanalk | 2,563
 virakesarilk | 3,247
 dailymirrorlk | 3,355
-adaderanasinhalalk | 3,493
+adaderanasinhalalk | 3,494
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,568 (100.0%) of 21,568 articles have been extended.
+21,568 (100.0%) of 21,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### නිදහස් පක්ෂ ඉබි යතුරු ඇරෙයි
+
+*2024-04-29 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196089) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය අද (29) පෙරවරුවේ පොලිස් ස්ථානීය පරික්ෂණ නිලධාරීන් විසින් විමර්ශන කටයුතු සඳහා විවෘත කරනු ලැබීය.
+
+වැදගත් ලිපිගොනු කිහිපයක් අස්ථානගතවීම හේතුවෙන් පොලීසිය විසින් පසුගිය අප්‍රේල් 06 වැනිදා කිසිවෙකුට ඇතුළුවීමට නොහැකිවන සේ එම කාර්යාලය ඉබියතුරු දමා තිබිණි.
+
+ඒ අනුව පොලිස් ස්ථානීය විමර්ශන නිලධාරීන් අද (29) පැමිණ මූලස්ථාන ගොඩනැගිල්ලේ පරීක්ෂණයක් ආරම්භ කළේය.
+
+◼️
+
+[Data](articles/3b459936.json)
+
+---
+
+### கிளியில் 77 பேர் உயிர்களை மாய்த்துள்ளனர்
+
+*2024-04-29 13:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளியில்-77-பேர்-உயிர்களை-மாய்த்துள்ளனர்/175-336501) · `ta`
+
+கிளிநொச்சி மாவட்டத்தில் 2023 ஆம்  ஆண்டு 45 ஆண்களும் 32 பெண்களும் தவறான முடிவெடுத்து தங்களது உயிரைகளை  மாய்த்துக் கொண்டுள்ளனர்.
+
+கிளிநொச்சி மாவட்டத்தின் தற்போது தவறான முடிவெடுத்து உயிரை மாய்த்துக் கொள்பவர்கள் எண்ணிக்கை அதிகரித்து காணப்படுகிறது.
+
+குறிப்பாக தொழில் வாய்ப்பின்மை, போதை பொருள் பாவனை, மன அழுத்தம் மற்றும் குடும்ப வன்முறை என பல்வேறு காரணங்களால் தங்கள் உயிர்களை மாய்த்துக்கொண்டுள்ளனர்.
+
+கிளிநொச்சி பொலிஸ்  பிராந்தியத்திற்குட்பட்ட பகுதிகளில் கடந்த ஆண்டில் 45 ஆண்களும் 32 பெண்களும் தவறான முடிவெடுத்து தங்கள் உயிர்களை மாய்த்து கொண்டுள்ளனர்.
+
+இதேவேளை,  வவுனியா  மாவட்டத்தில் 41 பேரும் முல்லைத்தீவு மாவட்டத்தில் 28 பேரும் இவ்வாறு கடந்த ஆண்டில் தவறான முடிவு எடுத்து தங்களுடைய உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸ் திணைக்களத்தின் தகவல் மூலம் அறிய முடிகின்றது.
+
+◼️
+
+[Data](articles/04f8d4d4.json)
+
+---
 
 ### Fetition from Wijayadasa against censorship
 
@@ -993,6 +1029,20 @@ The border was placed in the accident and was placed in the border of the Matara
 [Data](articles/d69b446f.json)
 
 [Extended Data](ext_articles/d69b446f.ext.json)
+
+---
+
+### සියයට පනස් එක දකින වෙලාවට මම ඡන්දයට එනවා
+
+*2024-04-29 10:08:12* · [`adalk`](https://www.ada.lk/breaking_news/සියයට-පනස්-එක-දකින-වෙලාවට-මම-ඡන්දයට-එනවා/11-409315) · `si`
+
+“රටේ ආර්ථිකය පොහොසත් කරන්න නම් අපි අධ්‍යාපනයෙන් දරුවන් පෝෂණය කල යුතුයි.රජයකටවත් කරනන අපහසුයි.දරුවන් පරිගනක දැනුමින් පෝෂණය කිරීම.හැබැයි මම ඒක කරලා පෙන්නුවා. ඒක 2012 ආරම්භ කලේ ඡන්දය බලාපොරොත්තුවෙන් නොවේ.ඒත් සියයට පනස් එක තියනවා කියලා දකින වෙලාවට අනිවාර්යෙන්ම මා ඡන්දයට ඉදිරිපත් වෙනවා.” යැයි ප්‍රකට ව්‍යාපාරික හා ඩී පී එඩියුකේෂන් අයි.ටී.කැම්පස් නිර්මාතෘ ධම්මික පෙරේරා මහතා මාතර දී පැවසීය.
+
+එම ව්‍යාපෘතිය යටතේ අධ්‍යාපනය හැදෑරූ සිසුන් සඳහා සහතික පත්‍ර ප්‍රදානය කිරීමේ උත්සවයක් පෙරේදා (28) මාතර මහින්ද විජේසේකර ක්‍රීඩාංගනයේදී පාලටුව බෞද්ධ  පිරිවෙන්  විහාරාධිපති, ශාස්ත්‍රවේදී පූජ්‍ය ගැටමාන්නේ ගුණානන්ද නායක ස්වාමීන් වහන්සේගේ අනුශාසකත්වයෙන් පැවැත්විණි.
+
+...
+
+[Data](articles/022169a8.json)
 
 ---
 
@@ -2385,71 +2435,5 @@ As scientists warn of the potentially devastating consequences of accelerating c
 [Data](articles/46ed4047.json)
 
 [Extended Data](ext_articles/46ed4047.ext.json)
-
----
-
-### Bangladesh International Arbitration Centre signs MOU with Sri Lanka National Arbitration Centre
-
-*2024-04-28 23:06:05* · [`dailyftlk`](https://www.ft.lk/business/Bangladesh-International-Arbitration-Centre-signs-MOU-with-Sri-Lanka-National-Arbitration-Centre/34-761125) · `en`
-
-In a momentous occasion for international dispute resolution, the Bangladesh International Arbitration Centre (BIAC) and the Sri Lanka National Arbitration Centre (SLNAC) have strengthened their collaboration through the signing of a Memorandum of Understanding (MoU).
-
-BIAC Vice Chairman Muhammad A. (Rumee) Ali and SLNAC Chief Executive Seedantha Kulatilake signed the MoU on behalf of their respective organisations at the BIAC office in Dhaka, Bangladesh on 22 April 2024.
-
-This collaborative endeavour holds the promise of enhancing trade and investment relations between Bangladesh and Sri Lanka by facilitating the exchange of vital information and organising joint activities to raise awareness of Alternative Dispute Resolution (ADR) among businesses. Moreover, it includes the utilisation of each other’s infrastructure facilities to conduct arbitrations, mediations, and conciliation proceedings, thereby optimising resources and enhancing efficiency in resolving disputes.
-
-...
-
-[Data](articles/66832974.json)
-
-[Extended Data](ext_articles/66832974.ext.json)
-
----
-
-### Mayura Fernando and Aruni Goonetilleke appointed to PGP Glass Board
-
-*2024-04-28 23:01:54* · [`dailyftlk`](https://www.ft.lk/business/Mayura-Fernando-and-Aruni-Goonetilleke-appointed-to-PGP-Glass-Board/34-761124) · `en`
-
-PGP Glass Ceylon PLC has announced the appointment of Mayura Fernando and Aruni Goonetilleke as Non-Executive Independent Directors with effect from 25 April.
-
-Fernando started his professional career at KPMG Ford Rhodes Thornton & Company and was a Partner of the Firm. He has extensive experience as Head of Finance, holding positions of Senior Vice President - Finance of Vanik and Forbes Ceylon Group, Group Finance Director of Confifi Group, and Director Finance - Asian Region of Virtusa (an Information Technology company based in Boston USA).
-
-In General Management, Fernando was the Managing Director of Capital Reach Holdings Ltd., Director/Chief Executive Officer of Softlogic Finance PLC, Director/Chief Executive Officer of Laugfs Capital Ltd., and Chief Executive Officer of Orient Finance PLC.
-
-...
-
-[Data](articles/7d106c5a.json)
-
-[Extended Data](ext_articles/7d106c5a.ext.json)
-
----
-
-### Reorganization of profit -free state institutions
-
-*2024-04-28 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182182) · `ta`
-
-Reorganizing profitable state institutions, Gamini Lokuke urges protection of employees' rights. A May Day meeting is planned. President Ranil Wickremesinghe leads the government, opposing foreign investments and state privatization. Maithripala Sirisena, expelled from the Sri Lanka Freedom Party, faces legal challenges.
-
-🟩
-
-Only the reorganization of the profitable state institutions is being carried out by reforing the loss of state institutions. "We have urged the president to protect the rights and welfare of the employees of state institutions," said Gamini Lokuke.
-
-We will hold a great deal of May Day meeting.
-
-We have chosen President Ranil Wickremesinghe. We have created a government headed by him.
-
-We are not opposed to foreign investments and state institutions.
-
-We will never cooperate with the privatization of state institutions.
-
-Former President Maithripala has responded to Sirisena. In 2014, we have betrayed us in 2014 and formed a good governance government.
-
-Maithripala Sirisena expelled Sri Lanka Freedom Party. The court has given him an interim injunction. He said the situation of the SLFP was worrisome.
-
-◼️
-
-[Data](articles/c0a6f5a0.json)
-
-[Extended Data](ext_articles/c0a6f5a0.ext.json)
 
 ---

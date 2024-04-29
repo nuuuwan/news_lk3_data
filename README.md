@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 19:18:33**
+As of **2024-04-29 19:34:33**
 
 ## Newspaper Stats
 
-*Scraped **21,642** Articles*
+*Scraped **21,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,73 @@ tamilmirrorlk | 2,519
 adaderanalk | 2,572
 virakesarilk | 3,255
 dailymirrorlk | 3,367
-adaderanasinhalalk | 3,508
+adaderanasinhalalk | 3,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,639 (100.0%) of 21,642 articles have been extended.
+21,642 (100.0%) of 21,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### පාසලක ගින්නක්
+### කොළඹ මැයි රැළි පැවැත්වෙන්නේ මෙහෙමයි
+
+*2024-04-29 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196104) · `si`
+
+ජාත්‍යන්තර කම්කරු දිනය නිමිත්තෙන් කොළඹ නගරය ආශ්‍රිතව පැවැත්වෙන රැළි සහ පෙළපාලි හේතුවෙන් ක්‍රියාත්මක විශේෂ රථවාහන සැලැස්ම පොලීසිය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/de7af2f2.json)
+
+---
+
+### A fire in a school
 
 *2024-04-29 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196103) · `si`
 
-එම විද්‍යාලයේ නේවාසිකාගාරය පිහිටි සිව්මහල් ගොඩනැගිල්ලක තෙවන මහලේ මෙම ගින්න හටගෙන ඇත.
+A fire broke out on March 3rd at a women's college hostel, engulfing the third floor. Matara Fire Floor Unit, Weligama Police, and local residents are working to extinguish it.
 
-පසුගිය මාර්තු මස 03 වනදා ද මෙම පෞද්ගලික කාන්තා විද්‍යාලයේ ගින්නක් හටගෙන තිබීම විශේෂත්යකි.
+🟩
 
-ආරංචි මාර්ග සඳහන් කරන්නේ මාතර ගිනි නිවීමේ ඒකකය, වැලිගම පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව ගින්න මැඩපැවැත්වීමට පියවර ගෙන ඇති බවය.
+The fire broke out on the third floor of a four-storey building at the school hostel.
+
+It is a matter of March 3th lasting fire on these private women's college.
+
+Sources said that the Matara Fire Floor Unit, Weligama Police and the residents of the area have taken steps to curb the fire.
 
 ◼️
 
 [Data](articles/b5592cbe.json)
 
+[Extended Data](ext_articles/b5592cbe.ext.json)
+
 ---
 
-### சலூனில் வெட்டிக்கொலை: இருவருக்கு மரண தண்டனை
+### Cutting on Saloon: Two death sentences
 
 *2024-04-29 19:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலூனில்-வெட்டிக்கொலை-இருவருக்கு-மரண-தண்டனை/175-336520) · `ta`
 
-முடிதிருத்தும் கடையொன்றில் (சலூன்) ஏற்பட்ட வாக்குவாதத்தினால் நபர் ஒருவரை வெட்டிக் கொன்ற குற்றச்சாட்டின் பேரில் பிரதிவாதிகள் இருவருக்கு மரண தண்டனை விதித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா, வழக்கின் ஏனைய பிரதிவாதிகள் இருவரையும் விடுதலை செய்தார்.
+Amal Ranarajah, a Colombo High Court Judge, released two defendants on charges of killing a person in a dispute over a barrier shop (Salon). The judge, Mohammed Najim and Colin's warrior, were sentenced to death by Veeraamy Alakeswara Viswanathan and Duan Aziz Ramanathan. The Attorney General filed a case against four defendants for killing Nadesan in Pettah on August 5, 2022, revealing the defendants had cut Nadesan with a knife.
 
-குற்றச்சாட்டின் பேரில் வீரசாமி அழகேஸ்வர விஸ்வநாதன் மற்றும் துவான் அஜீஸ் ராமநாதன் ஆகியோருக்கு மரண தண்டனை விதித்த நீதிபதி, முகமது நஜீம் மற்றும் கொலின் வீரன் ஆகியோரை அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவித்தார்.
+🟩
 
-2022 ஓகஸ்ட் 05 ஆம் திகதி அல்லது அதற்கு அடுத்த நாள் புறக்கோட்டை, ஐந்துலாம்பு சந்தி பகுதியில்  சிக்கையா நடேஷனைக் கொன்றதற்காக நான்கு பிரதிவாதிகளுக்கு எதிராக சட்டமா அதிபர் வழக்குத் தாக்கல் செய்துள்ளார்.
+Colombo High Court Judge Amal Ranarajah released the two defendants on charges of killing a person after a dispute over a barrier shop (Salon) and released the two other defendants of the case.
 
-முடிதிருத்தும் இடத்தில் ஏற்பட்ட வாக்குவாதத்திற்குப் பிறகு, பிரதிவாதிகள் நடேசனை கத்தியால் வெட்டிக் கொன்றனர் என்ற உண்மைகள் வெளிவந்தன.
+The judge, Mohammed Najim and Colin's warrior, were sentenced to death by Veeraamy Alakeswara Viswanathan and Duan Aziz Ramanathan on all allegations.
+
+On August 5, 2022, the Attorney General has filed a case against four defendants for killing Nadesan in the five -year area of Pettah, Pettah.
+
+Following the argument in the barbed wire, the facts revealed that the defendants had cut Nadesan with a knife.
 
 ◼️
 
 [Data](articles/4ca2e7de.json)
+
+[Extended Data](ext_articles/4ca2e7de.ext.json)
 
 ---
 
@@ -444,19 +468,25 @@ The Ministry has issued necessary instructions to principals in this regard.
 
 ---
 
-### තම සුරතලා මරා දැමීමේ නඩුවෙන් නිදහස්
+### Free from the case of killing her pet
 
 *2024-04-29 16:33:41* · [`adalk`](https://www.ada.lk/breaking_news/තම-සුරතලා-මරා-දැමීමේ-නඩුවෙන්-නිදහස්/11-409325) · `si`
 
-ප්‍රමාණවත් සාක්ෂි නොමැතිව තවදුරටත් නඩුව පවත්වාගෙන යාමට නොහැකිබවට නීතිපතිවරයා වසින් ලබාදුන් උපදෙස්මත ඉකුත් කොවිඩ් සමයේදී සුරතලයට නිවසක ඇතිකළ සුනඛයෙකු වෙඩිතබා මරාදැමූ බවට චෝදනා ලැබූ විශ්‍රාමික පොලිස් අධිකාරිවරයෙකුට  එරෙහිව  පවරා තිබු නඩුවෙන්  විත්තිකරු නිදොස්කොට මුදාහැරීමට මිගමුව ප්‍රධාන මහේස්ත්‍රාත් රඛිත අබේසිංහ මහතා අද 29 දින නියෝග කළේය.
+The Attorney General advised the accused against defending a house in Migamuwa Kotiya, where a retired venture was allegedly killed. Senior Attorney General Nelstiyanayake led the defense.
 
-2020 මැයිමස 07 වෙසක් පොහෝදින සැකකරු පදිංචිව සිටින මිගමුව ප්‍රදේශයේදී තමා සුරතලයට ඇතිකළ මැක්ස් නමැති සුනඛයා වෙඩිතබාමරා දමා ඇතිබවට  චෝදනා කරමින්සිදුකල  පැමිණිල්ලකට අනුව විමර්ශන පවත්වා  මිගමුව මුලස්ථාන පොලිසිය විසින් විත්තිකරුට එරෙහිව නඩුපවරා තිබිණි.
+🟩
 
-මිගමුව පොලිසිය පැමිණිල්ල මෙහෙයවූ අතර විත්තිකරු වෙනුවෙන් චමරි සදුනිකා මහත්මිය සමග ජ්‍යෙෂ්ඨ නීතිඥ නෙල්සන් කුමාරනායක මහතා පෙනිසිටියේය .
+The Attorney General's advice was the advice that the Attorpies had been given to the accused against a retired venture to defend a house in the covard that was allegedly assumed to be released against a retired venture.
+
+2020 Maeease 77 MIMOSED Available in the Migamuwa Kotiya, the Vesak Polaya area, was reported to the Suraratha and had a complaint that the Migamuwa Kotte had had been shot dead.
+
+Senior Attorney General Nelstiyanayake has led the Neelsi Kumarataka on behalf of the accused.
 
 ◼️
 
 [Data](articles/83451af6.json)
+
+[Extended Data](ext_articles/83451af6.ext.json)
 
 ---
 
@@ -2383,25 +2413,5 @@ Dr. Heiyanthuduwa expressed that the increase in diabetes among the population i
 [Data](articles/7dd5538e.json)
 
 [Extended Data](ext_articles/7dd5538e.ext.json)
-
----
-
-### 10% of Sri Lanka’s population diagnosed with Chronic Kidney Disease - report
-
-*2024-04-29 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98908/10-of-sri-lankas-population-diagnosed-with-chronic-kidney-disease-report) · `en`
-
-Around 10% of Sri Lanka’s population is afflicted with Chronic Kidney Disease, the Chief Patron of All-island Kidney Patients’ Association Nephrologist Sanjaya Heiyanthuduwa says.
-
-Dr. Heiyanthuduwa expressed that the increase in diabetes among the population is the major cause of the increased figures of kidney patients.
-
-“Especially, diabetes is the main factor affecting kidney damage in Sri Lanka. Better diabetes control should be done to prevent kidney disease in these patients,” he said.
-
-“Additionally, adherence to medical advice and proper attendance at clinics are very important. The intake of excessive salt, sugar, and oil in food should be reduced. A healthy person should consume around three and a half liters of water per day in order to avoid this disease,” Dr. Heiyanthuduwa added.
-
-...
-
-[Data](articles/e6ef3433.json)
-
-[Extended Data](ext_articles/e6ef3433.ext.json)
 
 ---

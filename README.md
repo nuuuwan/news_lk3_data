@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 09:18:31**
+As of **2024-04-29 09:34:12**
 
 ## Newspaper Stats
 
-*Scraped **21,503** Articles*
+*Scraped **21,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,121 @@ islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,794
-tamilmirrorlk | 2,490
+tamilmirrorlk | 2,492
 adaderanalk | 2,559
 virakesarilk | 3,230
-dailymirrorlk | 3,348
+dailymirrorlk | 3,349
 adaderanasinhalalk | 3,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,500 (100.0%) of 21,503 articles have been extended.
+21,503 (100.0%) of 21,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### இன்று சில பகுதிகளில் இடியுடன் கூடிய மழை
+### தோல்விக்கு பிறகு வெற்றி; மீண்டு வந்த சென்னை அணி
+
+*2024-04-29 09:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தோல்விக்கு-பிறகு-வெற்றி-மீண்டு-வந்த-சென்னை-அணி/44-336482) · `ta`
+
+அடுத்தடுத்த இரண்டு போட்டியிலும் மோசமான தோல்வியை சந்தித்த ருத்துராஜ் தலைமையிலான சென்னை சூப்பர் கிங்ஸ் அணி, நடப்பு ஐபிஎல் தொடரின் 46வது போட்டியில் ஹைதராபாத் அணியை எதிர்கொண்டது.
+
+சென்னை சேப்பாக்கம் மைதானத்தில் நேற்று நடைபெற்ற இந்த போட்டியில் முதலில் துடுப்பெடுத்தாடிய சென்னை அணி ஹைதராபாத்துகு்கு 213 ஒட்டங்களை இலக்காக நிர்ணயித்தது.
+
+சென்னை அணியில் அதிகபட்சமாக ருத்துராஜ் கெய்க்வாட் 98 ரன்களும், டேரியல் மிட்செல் 52 ஒட்டங்களும் எடுத்தனர்.
+
+பந்துவீச்சிலும் சிறப்பாக செயல்பட்ட சென்னை சூப்பர் கிங்ஸ் அணி, ஹைதராபாத் அணியின் அனைத்து முக்கிய வீரர்களின் விக்கெட்டையும் கைப்பற்றி 134 ஓட்டங்களுக்கு கட்டுப்படுத்தியது.
+
+இதன் மூலம் 78 ஓட்டங்கள் வித்தியாசத்தில் அபார வெற்றி பெற்ற சென்னை சூப்பர் கிங்ஸ் அணி, நடப்பு தொடருக்கான புள்ளி பட்டியலில் மூன்றாவது இடத்துகு்கு முன்னேறியது.
+
+பந்துவீச்சில் சென்னை சூப்பர் கிங்ஸ் அணி சார்பில் அதிகபட்சமாக துசார் தேஸ்பாண்டே 4 விக்கெட்டுகளையும், முஸ்தபிசுர் ரஹ்மான் மற்றும் பதிரான தலா 2 விக்கெட்டுகளையும் கைப்பற்றி சென்னை அணியின் வெற்றியை இலகுவாக்கினர்.
+
+◼️
+
+[Data](articles/b4377240.json)
+
+---
+
+### வெப்பநிலை குறித்து எச்சரிக்கை
+
+*2024-04-29 09:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-எச்சரிக்கை/175-336481) · `ta`
+
+நாடளாவிய ரீதியில் பல பகுதிகளில் இன்று (29) வெப்பநிலையானது அவதானம் செலுத்த வேண்டிய மட்டத்துக்கு அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+வடக்கு, வடமத்திய, சப்ரகமுவ, கிழக்கு, மற்றும் வடமேல் மாகாணங்களில் மனித உடலால் உணரப்படும் அளவிற்கு வெப்பம் அதிகரிக்கக்கூடும் என திணைக்களம் கூறியுள்ளது.
+
+இதேவேளை, மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களிலும் இந்த நிலை அதிகரித்து காணப்படும்.
+
+போதிய அளவு நீர் அருந்துதல், நிழலான இடங்களில் ஓய்வெடுத்தல், வெளியில் நடமாடுவதை குறைத்துக்கொள்ளல் போன்ற நடவடிக்கைகளை  பின்பற்றுமாறு மக்களுக்கு அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/647370e0.json)
+
+---
+
+### Showers of 100 mm after 1 p.m. today
+
+*2024-04-29 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-of-100-mm-after-1-p-m-today/108-281545) · `en`
+
+Colombo, April 29 (Daily Mirror) - Due to the effect of the Intertropical Convergence Zone, heavy showers above 100 mm will occur in most provinces of the island after 1 p.m., the forecasting division of the National Meteorological Centre said.
+
+The Intertropical Convergence Zone is where winds from the Northern Hemisphere and Southern Hemisphere converge.
+
+They said heavy showers of 100mm are likely at some places in the Western, Sabaragamuwa, Southern and North-Western Provinces.
+
+Meanwhile, showers may occur at several places in the coastal areas of the Eastern and Southern Provinces and in the Mullaitivu district during the morning.
+
+However, misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces during the morning.
+
+◼️
+
+[Data](articles/87b14251.json)
+
+---
+
+### Thundershowers in some areas today
 
 *2024-04-29 08:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை/175-336480) · `ta`
 
-நாட்டின் சில பகுதிகளில் இன்று மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+"Thundershowers predicted in top, northwestern, central, sabaragamuwa provinces, Galle, Matara districts, Uva Province, and Anuradhapura district this afternoon or night."
 
-இதன்படி மேல், வடமேல், மத்திய மற்றும் சபரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+🟩
 
-ஊவா மாகாணத்திலும், அனுராதபுரம் மாவட்டத்தின் சில இடங்களிலும் இன்று பிற்பகல் அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. R
+The Department of Meteorology has predicted rain or thunderstorms in some parts of the country today.
+
+According to the Department of Meteorology, rain or thunderstorms are likely to occur in the top, northwestern, central and sabaragamuwa provinces and some parts of the Galle and Matara districts.
+
+Rainfall or thunderstorms are expected in the Uva Province and some parts of the Anuradhapura district this afternoon or night.. Remble
 
 ◼️
 
 [Data](articles/4442bf51.json)
 
+[Extended Data](ext_articles/4442bf51.ext.json)
+
 ---
 
-### வாகன இறக்குமதி குறித்து மகிழ்ச்சியான அறிவிப்பு
+### Happy notice of vehicle imports
 
 *2024-04-29 08:39:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-336479) · `ta`
 
-இந்த வருடத்தின் இறுதியில் அல்லது அடுத்த வருடத்தின் முற்பகுதியிலிருந்து கட்டுப்பாடுகளுக்கு உட்பட்டு மீண்டும் வாகனங்களை இறக்குமதி செய்வதற்கு எதிர்பார்ப்பதாக நிதி அமைச்சின் சிரேஷ்ட பேச்சாளர் ஒருவர் குறிப்பிட்டுள்ளார்.
+The Ministry of Finance plans to re-import vehicles by the end of this year or next, with discussions already underway, according to a senior spokesman and Finance Minister Shehan Semasinghe.
 
-இதேவேளை, வாகனங்களை இறக்குமதி செய்வது தொடர்பான கலந்துரையாடல்கள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார். R
+🟩
+
+A senior spokesman for the Ministry of Finance has stated that it is expected to re -import vehicles from the end of this year or next year.
+
+Meanwhile, Finance Minister Shehan Semasinghe has said that discussions on importing vehicles have already begun.. Remble
 
 ◼️
 
 [Data](articles/c4dfaed0.json)
+
+[Extended Data](ext_articles/c4dfaed0.ext.json)
 
 ---
 
@@ -1828,21 +1900,27 @@ People's leaders are the ones who find the needs of the people and serve the ser
 
 ---
 
-### සේවක අර්ථසාධක අරමුදලේ පොලිය සියයට 13 දක්වා ඉහළට
+### Interest at Employees Provident Fund to 13 percent
 
 *2024-04-28 18:22:38* · [`adalk`](https://www.ada.lk/breaking_news/සේවක-අර්ථසාධක-අරමුදලේ-පොලිය-සියයට-13-දක්වා-ඉහළට/11-409307) · `si`
 
-සේවක අර්ථසාධක අරමුදලේ මෙතෙක් පැවති 9%ක පොලී අනුපාතය13%ක් දක්වා ඉහළ නැංවීමට රජය පියවර ගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+The government has increased the EPF interest rate from 9% to 13%, Dr. Ranjith Siyambalapitiya announced. This decision, effective in 2023, aims to strengthen the EPF, addressing criticisms and ensuring its growth.
 
-කෑගල්ල දිස්ත්‍රික්කයේ යටියන්තොට පැවැති හමුවකදී අමාත්‍යවරයා මේ පිළිබඳව අදහස් පළ කර තිබේ. ඒ අනුව 2023 වර්ෂය සඳහා පාර්ලිමේන්තුවේ සම්මතව පැවැති පොලී අනුපාතයද ඉක්මවමින් එය 9% - 13% දක්වා ඉහළ  නැංවීමට රජය තීරණය කර ඇති බව අමාත්‍යවරයා වැඩිදුරටත් පැහැදිලි කර ඇත.
+🟩
 
-පසුගිය කාලවකවානුව තුළ සේවක අර්ථසාධක අරමුදල විනාශ වෙමින් යන බවට ඇතැම් පාර්ශ්වකරුවන් විසින් නැගූ චෝදනාව අර්ථ විරහිත බවත් අමාත්‍යවරයා පවසයි. රටේ ඇති දැවැන්තම අරමුදල සේවක අර්ථසාධක අරමුදල බවත්, මේ වන විට ක්‍රියාකාරී සාමාජිකයින් ලක්ෂ විසි හතක පිරිසක් එහි සිටින බවත් අමාත්‍යවරයා මෙහිදී පවසා තිබේ.
+State Minister Dr. Ranjith Siyambalapitiya says that the government has taken steps to increase the 9% interest rate of 9% at the EPF interest rate to 13%.
 
-එසේම ණය ප්‍රතිව්‍යුහගතකරණයේදී විශාලතම අභියෝගය එල්ල වූයේ සේවක අර්ථසාධක අරමුදලත් සමග පැවති ණය සම්බන්ධව බවත්, එම ණය ප්‍රතිව්‍යුහගතකරණයේදී සේවක අර්ථසාධක අරමුදලට විශාල අලාභයක් සිදුවන බවත් සඳහන් කරමින් පාර්ලිමේන්තුවේ මෙන්ම මාධ්‍ය හරහාද සමාජයේද බොහෝ චෝදනා එල්ල වූ බවත් අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+At a meeting in Yatiyantota District, the Minister has commented. The Minister further explained that the government has decided to increase its 9% to 13%, exceeding 9% to 13% on the year 2023.
+
+The minister says that the allegations made by some stakeholders have been meaningless by some stakeholders that the Employees Provident Fund is being destroyed during the past. The Minister has said that the Growth Fund in the country is the EPF and the EPF.
+
+The Minister also stated that the largest challenge was the biggest challenge with the Employees' Provident Fund in Parliament and that the Employees Provident Fund would be incurred in the recreation.
 
 ◼️
 
 [Data](articles/340631b4.json)
+
+[Extended Data](ext_articles/340631b4.ext.json)
 
 ---
 
@@ -2235,77 +2313,5 @@ The Presidential Secretariat requests the public to beware of such fraudsters, a
 [Data](articles/6a8ed805.json)
 
 [Extended Data](ext_articles/6a8ed805.ext.json)
-
----
-
-### Overseas Sri Lankans back NPP this time like they backed Gota in 2019: Anura Kumara
-
-*2024-04-28 16:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Overseas-Sri-Lankans-back-NPP-this-time-like-they-backed-Gota-in-2019-Anura-Kumara/108-281506) · `en`
-
-Colombo, April 28 (Daily Mirror)- Claiming that overseas Sri Lankans played a key role in bringing former President Gotabaya Rajapaksa to power in the 2019 Presidential election, NPP leader Anura Kumara Dissanayake said the National People's Power has been the main choice of the overseas Sri Lankans this time.
-
-Speaking at a meeting in Stockholm, Sweden, he said overseas Sri Lankans are now campaigning for a system change and a new change for Sri Lanka and the NPP has been their choice to make that change.
-
-He requested Sri Lankans in Sweden to come to Sri Lanka and vote for the NPP or do an online campaign to garner support for the NPP.
-
-"Educate your family members and friends in Sri Lanka whenever they contact you over the phone," he said.
-
-Dissanayake said overseas Sri Lankans is a crucial force in upcoming elections and requested them to support the NPP to obtain power and develop the country after obtaining power.
-
-...
-
-[Data](articles/2bd37f00.json)
-
-[Extended Data](ext_articles/2bd37f00.ext.json)
-
----
-
-### Three killed in Galle town
-
-*2024-04-28 16:18:47* · [`adalk`](https://www.ada.lk/breaking_news/එකම-දිනක්-තුළ-කරන්නාගොඩ-ගමේ-තුනක්-මරුට/11-409301) · `si`
-
-Three people died from an emergency illness in Karangoda, Galle. Roshan Indika Perera, 43, and another are in Colombo National Hospital. Waramagama and Varcadagoda Police are investigating.
-
-🟩
-
-Waramagama Police said that three persons were killed due to an emergency illness that occurred at the village of Karangoda last Saturday (26).
-
-The deceased has been identified as Roshan Indika Perera (43) of the Ven.
-
-In addition, another person in this area is currently receiving treatment at the Colombo National Hospital.
-
-However, Varcadagoda Police say that there is an investigation and investigations into the same place.
-
-The bodies of the three deceased have been placed at the Horana District hospital morgue and investigations are still under investigation.
-
-◼️
-
-[Data](articles/db246899.json)
-
-[Extended Data](ext_articles/db246899.ext.json)
-
----
-
-### Youth arrested for heroin drugs in Vavuniya
-
-*2024-04-28 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/182155) · `ta`
-
-A youth in Vavuniya was arrested with 6 grams of heroin, leading to further investigations.
-
-🟩
-
-Vavuniya police said that a youth has been arrested with heroin in the Vavuniya-Omanthai area.
-
-The Vavuniya Chief Police Criminal Investigation Division police raided a youth in the A9 road Omanthai area following a secret fate of the police as police were investigating the theft.
-
-At this time, 6 grams of heroin was seized in his possession.Subsequently, a 35 -year -old youth from the Madhavuwaithakulam area has been arrested.
-
-Further investigations have been taken in court, the police said that the police said
-
-◼️
-
-[Data](articles/946aeb20.json)
-
-[Extended Data](ext_articles/946aeb20.ext.json)
 
 ---

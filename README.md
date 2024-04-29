@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 21:53:12**
+As of **2024-04-29 22:05:21**
 
 ## Newspaper Stats
 
-*Scraped **21,667** Articles*
+*Scraped **21,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,815
+adalk | 1,816
 tamilmirrorlk | 2,520
-adaderanalk | 2,575
+adaderanalk | 2,576
 virakesarilk | 3,265
-dailymirrorlk | 3,372
+dailymirrorlk | 3,374
 adaderanasinhalalk | 3,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,665 (100.0%) of 21,667 articles have been extended.
+21,667 (100.0%) of 21,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Drone cameras prohibited near May Day rally locations
+
+*2024-04-29 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98924/drone-cameras-prohibited-near-may-day-rally-locations) · `en`
+
+Police Spokesman DIG Nihal Thalduwa says that the use of drone cameras is prohibited at May Day rally locations country-wide, without obtaining prior permission.
+
+◼️
+
+[Data](articles/ee652322.json)
+
+---
+
+### Police clamp down on Traffic light beggars, warn public against donations
+
+*2024-04-29 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-clamp-down-on-Traffic-light-beggars-warn-public-against-donations/108-281589) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Police Department today urged people not to give money to those begging from them in vehicles stuck at traffic lights within the Colombo city limits.
+
+Addressing the media Senior DIG Traffic Administration and Road Safety, Indika Hapugoda, mentioned that police officers from the 45 police divisions and 607 police stations have been instructed, through a circular signed by senior officers, to remove beggars causing disturbances to vehicular traffic.
+
+"During the mission, 94 beggars who violated the circular were arrested last week and presented before the courts. However, due to current conditions, these beggars cannot be detained for extended periods. Given the lack of facilities, they are released on bail after being fined," he said.
+
+...
+
+[Data](articles/26a14fbb.json)
+
+---
 
 ### Veteran musician Dr. Premadasa Mudunkotuwa passes away
 
@@ -45,6 +73,8 @@ Dr. Mudunkotuwa is the first Masters holder from Bhathkanda Music College, India
 ◼️
 
 [Data](articles/457f64d8.json)
+
+[Extended Data](ext_articles/457f64d8.ext.json)
 
 ---
 
@@ -408,6 +438,26 @@ The woman, who is a resident of the Mullaitivu area, had arrived at the BIA at a
 
 ---
 
+### ස්පා අධීක්ෂණය කිරීමට යාන්ත්‍රණයක්
+
+*2024-04-29 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ස්පා-අධීක්ෂණය-කිරීමට-යාන්ත්‍රණයක්/11-409329) · `si`
+
+සංචාරක කර්මාන්තයේ දියුණුව සඳහා තවත් සංචාරක ගමනාන්ත 49ක් හඳුනා ගෙන ඒවා සංචාරක කලාප ලෙස නම් කර මාසයක් ඇතුළත ගැසට් පත්‍රයේ පළ කිරීමට කටයුතු කරන බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසීය.
+
+සංචාරක කර්මාන්තයේ සිදුවන වංචා දූෂණ වැළැක්වීමට සහ අධීක්ෂණයට වෙනම කමිටුවක් පත් කිරීමට සැළසුම් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+
+සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (29) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරිය මෙසේද සඳහන් කළාය,
+
+මෙරට සංචාරකයින්ට සිදුවන හිරිහැර සම්බන්ධයෙන් විවිධ පැමිණිලි ලැබෙනවා. මම පසුගිය කාලයේ මේ ගැන හඬ නැගුවා.
+
+...
+
+[Data](articles/3e10517f.json)
+
+---
+
 ### Fowzie noticed to appear before court over corruption case
 
 *2024-04-29 18:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fowzie-noticed-to-appear-before-court-over-corruption-case/108-281579) · `en`
@@ -428,19 +478,31 @@ On a previous occasion, the defence counsel informed court that his client had r
 
 ---
 
-### ඇල්ල කරදගොල්ල ජලය ක්‍රමවත්ව ඉවත් කිරීමට කාණු පද්ධතියක්
+### Drainage system to remove water in Ella Aquiries
 
 *2024-04-29 18:09:13* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-ජලය-ක්‍රමවත්ව-ඉවත්-කිරීමට-කාණු-පද්ධතියක්/11-409328) · `si`
 
-සක්‍රිය වී ඇති ඇල්ල කරදගොල්ල නායයාම සම්බන්ධ භූමිය මතුපිට ඇති ජලය ඉවත් කිරීම හා එම ජලය බැස යාම ක්‍රමවත් කිරීමේ කටයුතු සඳහා අද 29  යුද හමුදාව ඇතුළු සහන  සේවකයින් යෙදවූ බව බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානයේ  නියෝජ්‍ය අධ්‍යක්ෂ  ඊ එම් එල් උදය කුමාර මහතා පැවසීය.
+In Ella Aquiries, a drainage system is being implemented to remove water. Landslides have been active since the 25th, affecting about 15 acres of houses. The Disaster Management Center (DMC) and Army are involved in response efforts. Residents are concerned about the Uma Oya Oya tunnel and the impact on the Ella Wellawaya road.
 
-ඇල්ල කරදගොල්ල මලිතගොල්ල  ප්‍රදේශයේ මේ වන විට මතුව ඇති නායයාමේ අවධානම පිළිබඳව අද 29 දිනයේත් විශේෂ කණ්ඩායම් නිරීක්‍ෂණය කරන බවත් එම ස්ථානයේ අවධානම අවම කර ගැනීමට අවශ්‍ය  කෙටිකාලින හා දිගුකාලීන  පියවර අනුගමනය කරමින් සිටින බවත් බදුල්ල දිස්ත්‍රික් ලේකම් ප්‍රභාත් අබේවර්ධන මහතා සඳහන් කළේය.
+🟩
 
-පසුගිය 25 දින මෙම නායයාමේ අවදානම මතු වූ අතර අද දින වන විට එම නාය යාම වඩා සක්‍රීය තත්ත්වයට පත්වී  ඇති බවත් දැනට කරන නිරීක්ෂණවල සටහන් වන බවද ඒ මහතා පැවසීය.
+The deputy Director of the Disaster Management Center, EM L Udaya Kumara said that the removal of water on the surface of the territory of the Kanagolla laid on the surface.
+
+Badulla District Secretary Prabhath Abeywardena stated that special groups have been observed in the Salaithagolla area, Ella Karaithagolla.
+
+The landslide has emerged on the 25th and the landslide has been increasingly more active and that the landslides have become more active.
+
+The Army is currently in Ella Divisional Secretariat, Water Supply Council, Pradeshiya Sabha, Road Development Authority and Disaster Management Center.Deputy Director of the Center EM L Udaya Kumara said.
+
+The people living in the area have now protested that the situation could be affecting the tunnel of Uma Oya Oya tunnel.
+
+Residents said that the houses have been affected by the landscape about a fifteen acreage of the houses at present.
 
 ...
 
 [Data](articles/28df5ab0.json)
+
+[Extended Data](ext_articles/28df5ab0.ext.json)
 
 ---
 
@@ -975,6 +1037,18 @@ Senior Attorney General Nelstiyanayake has led the Neelsi Kumarataka on behalf o
 [Data](articles/83451af6.json)
 
 [Extended Data](ext_articles/83451af6.ext.json)
+
+---
+
+### LECS unveils Construction Power and Energy Expo 2024
+
+*2024-04-29 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/LECS-unveils-Construction-Power-and-Energy-Expo-2024/110-281580) · `en`
+
+Lanka Exhibition and Conference Services (LECS) today announced the return of Sri Lanka's most focused construction, interior products, lighting, power and energy exhibition - the 'Construction Power and Energy Expo 2024'. The Exhibition is scheduled to be held from July 5 to 7 at the BMICH, Colombo. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/24d3506f.json)
 
 ---
 
@@ -2203,111 +2277,5 @@ The US purchasing price was Rs 291.524 and the sales price were 300.9597 based o
 [Data](articles/6d46b026.json)
 
 [Extended Data](ext_articles/6d46b026.ext.json)
-
----
-
-### Northern Province Unemployed Graduates Association Struggle
-
-*2024-04-29 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182218) · `ta`
-
-The Northern Province Unemployed Graduates Association in Jaffna protested for job offers, demanding employment through a Mahajar to the President. They vowed to continue protests until their demands are met.
-
-🟩
-
-A struggle was launched in Jaffna demanding that all graduates be given a job offer.
-
-The protest was held this morning to the Jaffna District Secretariat organized by the Northern Province Unemployed Graduates Association.
-
-Do not deceive at this time, do not deceive the graduates, to work, to work, ruin the ruin of dreams, raised various slogans.
-
-And many people struggled with banners, including banners, including the dream of going to be a dream, when we live our lives, when we live our lives, do not destroy our future, do not destroy our future.
-
-Following this, they have sent a Mahajar to the President through the Governor of the Northern Province, demanding that they provide their employment opportunities to point out the problems and effects they face for a long time.
-
-The graduates have also said that they will send copies of the Mahajar to politicians to emphasize these demands.
-
-...
-
-[Data](articles/40981c5b.json)
-
-[Extended Data](ext_articles/40981c5b.ext.json)
-
----
-
-### Titanic Memory Renewed Gold Clock
-
-*2024-04-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196086) · `si`
-
-John Jacob Astor, a businessman, died on the Titanic in 1912. His gold pocket watch, sold at auction for £900,000, was a key factor in its discovery. The final price, after taxes, was £1.175 million.
-
-🟩
-
-Titanic, which was submerged during his debut trip, still news.
-
-On April 12, 1912, was hit and killed in a iceberg in the North Atlantic Sea.
-
-John Jacob Aster was a businessman named John Jacob aster.
-
-He died in the accident. But because the Titanic was once again came to the forest because of the gold "pocket clock" he worn.
-
-International media reports that the gold watch has been sold at auction for £ 900,000.
-
-It was presented for a auction in Wilshire, England, and the opening value was mentioned.
-
-After tax and other fees paid, the full amount to pay the watch was 1.175 million to pay.
-
-◼️
-
-[Data](articles/7c268795.json)
-
-[Extended Data](ext_articles/7c268795.ext.json)
-
----
-
-### Transgender, death sentence for transgender
-
-*2024-04-29 12:07:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/திருநங்கை-திருநம்பிகளுக்கு-மரண-தண்டனை/50-336496) · `ta`
-
-Iraq bans homosexual marriages, with severe punishments for violators, including imprisonment for those married to homosexuals and transgender individuals. Despite international legal recognition, Iraq's stance is in stark contrast to the 130 countries that legalize homosexuality.
-
-🟩
-
-The world has given many legal recognition in the world for marriage. However, countries like Iraq have enacted homosexuality.
-
-In the Middle East, Iraq, marriages have been declared a crime. Moreover, the punishment for violators has been reported.
-
-There are 130 countries worldwide that legalize homosexuality and accept it. However, about 60 countries have announced that this homosexuality is contrary to nature and culture.
-
-Recently, the government of Thailand legalized homosexual marriage. This recognition received the greatest attention worldwide. In this case, the marriages in Iraq have been banned and the laws have been passed.
-
-Earlier, a referendum was held in the presence of ministers in the Iraqi parliament to decide on the attraction. In it, the majority of ministers are opposed to this, and the punishments for violators are defined.
-
-...
-
-[Data](articles/345c309a.json)
-
-[Extended Data](ext_articles/345c309a.ext.json)
-
----
-
-### Software Engineer arrested with drugs worth Rs. 5 mn smuggled from Italy
-
-*2024-04-29 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98910/software-engineer-arrested-with-drugs-worth-rs-5-mn-smuggled-from-italy-) · `en`
-
-Police have arrested a Software Engineer along with several types of drugs including Hash and Kush Cannabis which have been smuggled to Sri Lanka from Italy.
-
-The Western Province – South Crimes Unit said that the stock of drugs which is estimated to be worth around Rs. 5 million were seized in the Wijerama Junction of Nugegoda, along with the suspect, based on a tip-off received by the officers of Sri Lanka Army Intelligence Division.
-
-Accordingly, police have taken custody of 1 kilogram and 238 grams of Hash, 90 grams of Kush Cannabis, Rs.100,000 in cash, two iPhones and a motorcycle, which was used in drug trafficking activities.
-
-The preliminary investigations have revealed that the stock of drugs was smuggled to Sri Lanka from Italy, the police said.
-
-The arrested suspect has been identified to be a Software Engineering degree-holder who was expecting to migrate to Australia for employment.
-
-...
-
-[Data](articles/240e9739.json)
-
-[Extended Data](ext_articles/240e9739.ext.json)
 
 ---

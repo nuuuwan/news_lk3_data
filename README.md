@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 11:53:29**
+As of **2024-04-29 12:05:20**
 
 ## Newspaper Stats
 
@@ -26,61 +26,83 @@ adaderanasinhalalk | 3,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,535 (100.0%) of 21,540 articles have been extended.
+21,540 (100.0%) of 21,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### තීන්දුව ඇසූ පොලිස් ලොක්කා විත්ති කූඩුවේ දී ඇද වැටෙයි
+### Police boss hearing the verdict falls in the foundation cage
 
 *2024-04-29 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196084) · `si`
 
-මීට වසර 26කට පෙර කන්තලේ භාරතී පුරම් ගම්මානයේ පදිංචි නිරායුධ දෙමළ වැසියන් අට දෙනෙකු වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියකට අදාළව එම පොලීසියේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරින් පස් දෙනෙකු වරදකරු බවට අධිකරණය විසින් තීන්දු කර තිබේ.
+A police chief was convicted 26 years ago by a former High Court Judge for murder. The OIC of the North Central Province and Kuliyapitiya High Court sentenced the Superintendent of Police and others to death. The OIC collapsed in court due to a heart attack.
 
-උතුරු මැද පළාත් බද හිටපු මහාධිකරණ විනිසුරු සහ වර්තමාන කුලියාපිටිය මහාධිකරණ විනිසුරු මනෝජ් තල්ගොඩපිටිය මහතා එම විත්තිකාර පොලිස්  ස්ථානාධිපතිවරයා ඇතුළු  පොලිස් නිලධාරීන් පස් දෙනාට බරපතළ වැඩසහිතව ජීවිතාන්තය දක්වා සිරදඬුවම් නියම කළේය.
+🟩
 
-මෙලෙස සිරදඬුවම් නියම වූයේ, කන්තලේ පොලිස් කොට්ඨාශයේ භාරතීපුරම් පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා ලෙස රාජකාරි කළ පොලිස් පරීක්ෂක ආර්. එම්. රණරාජා බංඩාර, උප පොලිස් පරික්ෂක ජී.එල්. සෝමරත්න, පොලිස් සැරයන්වරු වන චන්ද්‍රරත්න බංඩාර, කේ. එම්. නිහාල් ප්‍රේමතිලක සහ ආර්. ආර්. සෝමරත්න බංඩාර මැදිවෙල, යන විත්තිකරුවන්ටය.
+The courts have also been convicted of the OIC of the Police OIC, 26 years ago, police said.
 
-...
+Former High Court Judge Manoj Talgodapitiya, the OIC of the North Central Province and Kuliyapitiya High Court judged the Superintendent of Police and the Superintendent of Police.
+
+The police were sentenced to death in danger of the Kantale Police Division, police inspector. M. Ranaraja Bandara, Sub Inspector G.L. Somaratne, Police Sergeant Chandraratne Bandara, K. M. Nihal Premathylake and R. R. Somaratne Bandara, Mediwela, Pharisees.
+
+The Attorney General has been committed to the Trincomalee High Court that the offense was committed to the Trincomalee High Court in the intention of conducting a murder.
+
+The OIC had fallen into the site due to a heart attack on the OIC of the Open Court and the police, and he later took him at the Anuradhapura hospital.
+
+◼️
 
 [Data](articles/f6759078.json)
 
+[Extended Data](ext_articles/f6759078.ext.json)
+
 ---
 
-### இலங்கையின் சனத்தொகையில் 10 சத வீதமானோர் சிறுநீரக நோயினால் பாதிப்பு!
+### 10 % of Sri Lanka's population is affected by kidney disease
 
 *2024-04-29 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182211) · `ta`
 
-இலங்கையின் சனத்தொகையில் 10 சத வீதமானோர் சிறுநீரக நோயினால் பாதிக்கப்பட்டுள்ளதாக அகில இலங்கை சிறுநீரக நோயாளர் சங்கத்தின் பிரதம வைத்தியர் சஞ்சய ஹெய்யன்துடுவ தெரிவித்துள்ளார்.
+10% of Sri Lanka's population suffers from kidney disease, primarily due to diabetes.
 
-இலங்கையில் சிறுநீரக நோயாளர்களின் எண்ணிக்கை அதிகரிப்பதற்கு நீரிழிவு நோயே பிரதான காரணியாக இருப்பதாகவும் அவர் கூறியுள்ளார்.
+🟩
 
-நமது நாட்டில் சுமார் 10 சத வீதமானோர்  சிறுநீரக நோயால் பாதிக்கப்பட்டுள்ளனர். உண்மையில் பல்வேறு காரணிகள் இந்தப் பாதிப்பை ஏற்படுத்துகின்றன.  இந்த நோய் தவிர்க்கப்பட வேண்டும்.
+The Prime Minister of the All Ceylon Kidney Patients Association, Sanjaya Heyantuwa, said that 10 percent of Sri Lanka's population is suffering from kidney disease.
 
-குறிப்பாக நம் நாட்டில் சிறுநீரகத்தைப்  பாதிக்கும் முக்கிய காரணியாக சர்க்கரை நோய் உள்ளது என்றும் அவர் கூறியுள்ளார்.
+He also said that diabetes is the main cause of the increase in the number of kidney patients in Sri Lanka.
+
+About 10 % of our country suffers from kidney disease. In fact, various factors are affected.This disease should be avoided.
+
+He said diabetes is the main cause of the kidney in our country, especially in our country.
 
 ◼️
 
 [Data](articles/4039a94e.json)
 
+[Extended Data](ext_articles/4039a94e.ext.json)
+
 ---
 
-### முன்னாள் அமைச்சர் பௌஸிக்கு எதிரான வழக்கு விசாரணை மே 22 இல்!
+### The trial against former minister Fouzi on May 22
 
 *2024-04-29 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182210) · `ta`
 
-முன்னாள் அனர்த்த முகாமைத்துவ அமைச்சர் ஏ. எச். எம். பௌஸிக்கு எதிராக இலஞ்ச ஊழல் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை எதிர்வரும் மே மாதம் 22 ஆம் திகதி வரை ஒத்திவைக்க கொழும்பு மேல் நீதிமன்றம் இன்று திங்கட்கிழமை (29) தீர்மானித்துள்ளது.
+The Colombo High Court postponed the case against former Disaster Management Minister H. M. Fouzi, accused of bribery, to May 22. Fouzi did not appear due to illness.
 
-நெதர்லாந்து அரசாங்கம் அனர்த்த முகாமைத்துவ நிலையத்துக்கு வழங்கிய ஜீப் வண்டியை தனது தனிப்பட்ட பாவனைக்குப்  பயன்படுத்தியதன் மூலம் அரசாங்கத்துக்கு  ஒரு மில்லியன் ரூபாவுக்கும்  அதிகமான நஷ்டத்தை ஏற்படுத்தியதாக அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+🟩
 
-இந்த வழக்கு இன்று கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு வந்தது. அப்போது, பிரதிவாதி  பௌஸி  நீதிமன்றத்தில் ஆஜராகவில்லை.
+Former Disaster Management Minister. H. M.. The Colombo High Court today (29) decided to postpone the case filed by the Bribery Commission against Busi till May 22.
 
-குற்றம் சாட்டப்பட்டவர் சுகயீனமடைந்துள்ளதால் இன்று நீதிமன்றத்துக்கு வரவில்லை என அவர் சார்பில் ஆஜரான சட்டத்தரணி  தெரிவித்தார்.
+He has been accused of using a jeep of the Jeep car that the Netherlands to the Disaster Management Center for the use of the government for a loss of more than one million rupees.
+
+The case came up for hearing before Colombo High Court Judge Nawaratne Marasinghe today. At the time, the defendant did not appear in the court.
+
+The lawyer appearing on behalf of him said that the accused did not come to court today as the accused was ill.
 
 ◼️
 
 [Data](articles/49c74a2a.json)
+
+[Extended Data](ext_articles/49c74a2a.ext.json)
 
 ---
 
@@ -517,6 +539,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.33 perc
 ◼️
 
 [Data](articles/ec4bcad6.json)
+
+[Extended Data](ext_articles/ec4bcad6.ext.json)
 
 ---
 
@@ -1071,6 +1095,8 @@ But since 2004, large numbers of unemployed graduates were absorbed to the gover
 ...
 
 [Data](articles/83fc2d92.json)
+
+[Extended Data](ext_articles/83fc2d92.ext.json)
 
 ---
 

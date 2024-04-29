@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 16:50:22**
+As of **2024-04-29 17:03:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,612 (100.0%) of 21,615 articles have been extended.
+21,615 (100.0%) of 21,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### කෙන්යාවේ ඛේදවාචකයක්
+### A tragedy of Kenya
 
 *2024-04-29 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196098) · `si`
 
-අධික වර්ෂාව නිසා ඇතිවූ ගං වතුර හේතුවෙන් කෙන්යාවේ වේල්ලක් කැඩී යාමෙන් 40 දෙනෙක් පමණ මියගොස් ඇති බව වාර්තා වෙයි.
+In West Kenya, heavy rains caused a dam to break near Kampachiri village, leading to floods that killed about 40 people and destroyed many houses. Over the past month, more than 100 people have died due to emergency water issues in Kenya.
 
-බටහිර කෙන්යාවේ කමුචිරි ගම්මානය ආසන්නයේ තිබූ වේල්ලක් ඒ හේතුවෙන් කැඩී ගොස් තිබූ අතර එහිදී නිවාස විශාල ගණනක් විනාශ වී තිබුණි.
+🟩
 
-පසුගිය මාසයේදී කෙන්යාවේ ඇතිවූ හදිසි ගං වතුර හේතුවෙන් 100කට වැඩි පිරිසක් ජීවිතක්ෂයට පත්ව තිබුණි.
+It is reported that about 40 people have died due to floods caused by heavy rains.
+
+A dam had broken near the Kampachiri village in West Kenya, where many houses had been destroyed.
+
+In the past month, more than 100 people have been killed due to the emergency water in Kenya.
 
 ◼️
 
 [Data](articles/a6f5c712.json)
+
+[Extended Data](ext_articles/a6f5c712.ext.json)
 
 ---
 
@@ -66,17 +72,25 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 [Data](articles/24ebe63b.json)
 
+[Extended Data](ext_articles/24ebe63b.ext.json)
+
 ---
 
-### நீங்கள் 2007 இல் பிறந்தீர்களா?
+### Did you born in 2007?
 
 *2024-04-29 16:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீங்கள்-2007-இல்-பிறந்தீர்களா/175-336512) · `ta`
 
-2007.01.31 ஆம் திகதிக்கு முன்னர் பிறந்துள்ள பிரஜைகளின் பெயர்கள், வாக்காளர் இடாப்பில் உள்ளதாவென கிராம அலுவலர்களிடம் உடனடியாக விசாரித்துக்கொள்ளுமாறு தேர்தல்கள் ஆணைக்குழு அறிவுறுத்தல் வழங்கியுள்ளது.
+The Elections Commission asks village officials to identify citizens born before January 31, 2007.
+
+🟩
+
+The Elections Commission has instructed the village officials to immediately inquire about the names of the citizens born before 31.01.2007.
 
 ◼️
 
 [Data](articles/97019318.json)
+
+[Extended Data](ext_articles/97019318.ext.json)
 
 ---
 

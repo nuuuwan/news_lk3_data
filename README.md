@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 07:55:34**
+As of **2024-04-29 08:06:32**
 
 ## Newspaper Stats
 
-*Scraped **21,487** Articles*
+*Scraped **21,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ newsfirstlk | 363
 islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
-adalk | 1,792
+adalk | 1,793
 tamilmirrorlk | 2,487
-adaderanalk | 2,557
+adaderanalk | 2,558
 virakesarilk | 3,230
 dailymirrorlk | 3,346
-adaderanasinhalalk | 3,475
+adaderanasinhalalk | 3,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,487 (100.0%) of 21,487 articles have been extended.
+21,487 (100.0%) of 21,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### රෝහලේ ගුටි කෙළියෙන් පිරිසකට තුවාල
+
+*2024-04-29 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196071) · `si`
+
+මහනුවර මැණික්හින්න රෝහල් පරිශ්‍රය තුළ හටගත් නොසන්සුන්කාරී තත්ත්වයක් හේතුවෙන් රෝහල් කාර්ය මණ්ඩලය ඇතුළු පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා තිබේ.
+
+ඊයේ (28) රාත්‍රී මෙම නොසන්සුන්කාරී තත්ත්වය හටගෙන ඇති අතර එය පාලනය කිරීම සඳහා විශේෂ පොලිස් කණ්ඩායමක් ද කැඳවීමට පියවර ගෙන තිබිණි.
+
+මැණික්හින්න ප්‍රදේශයේ පැවති අවුරුදු උත්සවයක් අතරවාරයේ තුවාල ලැබු පුද්ගලයෙකු ප්‍රතිකාර සඳහා රෝහල වෙත රැගෙනවිත් ඇති අතර එහිදී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් ද අවුරුදු උත්සවයකට සහභාගීවී තිබීම හේතුවෙන් ප්‍රතිකාර කිරීමට ප්‍රමාද වී ඇති බව සඳහන්ය.
+
+මේ සම්බන්ධවෙන් විමසීමේ දී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් සහ තුවාල ලැබු පාර්ශ්වය අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබේ.
+
+මෙය ගැටුමක් දක්වා වර්ධනය වී ඇති අතර එහිදී දෙපාර්ශ්වයේ ම පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා මහනුවර රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+
+තුවාල ලැබුවන්ගෙන් 05 දෙනෙකු මැණික්හින්න රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් බව ද පොලීසිය සඳහන් කළේය.
+
+කෙසේවෙතත් මැණික්හින්න පොලීසිය මැදිහත් වීමෙන් ගැටුම සමතයකට පත් කිරීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/cb1542aa.json)
+
+---
+
+### Heavy showers above 100 mm likely in several provinces
+
+*2024-04-29 07:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98906/heavy-showers-above-100-mm-likely-in-several-provinces) · `en`
+
+The Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather, according to the Meteorology Department.
+
+Showers or thundershowers will occur at several places in the most provinces of the island after 01.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Southern and North-western provinces, it said.
+
+Showers or thundershowers may occur at several places in the coastal areas of Eastern and Southern provinces and in Mullaitivu district during the morning too.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/75aea62b.json)
+
+---
+
+### පාකිස්තානයෙන් ආ යාත්‍රාවේ කෝටි ගාණනක මත්ද්‍රව්‍ය
+
+*2024-04-29 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196070) · `si`
+
+පාකිස්තානයේ සිට මෙරටට ප්‍රවාහනය කරමින් තිබු රුපියල් කෝටි 600ක වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් ඉන්දීය වෙරළාරක්ෂක බුද්ධි අංශ මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+"අල් රාසා" නැමති යාත්‍රාවකින් ප්‍රවාහනය කරමින් තිබු මෙම මත්ද්‍රව්‍ය තොගය සමග කාර්ය මණ්ඩල සාමාජිකයින් 14 දෙනෙකු අත්අඩංගුවට ගත් බව ඉන්දීය වෙරළාරක්ෂක බළකාය සඳහන් කර ඇත.
+
+මෙම මත්ද්‍රව්‍ය තොගයේ බර කිලෝග්‍රෑම් 86ක් පමණ වන අතර එහි වටිනාකම රුපියල් කෝටි 600කට අධික බව ද වෙරළාරක්ෂක බළකාය පැවසීය.
+
+අත්අඩංගුවට ගත් කාර්ය මණ්ඩල සාමාජිකයින් 14දෙනාම බලුකිස්තානයේ පදිංචිකරුවන් බව ද සඳහන්ය.
+
+ඒ අනුව ඔවුන් වැඩිදුර පරීක්ෂණ සඳහා ගුජරාටයේ පොර්බන්ඩර් වෙත රැගෙන විත් තිබේ.
+
+ඔවුන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් අහමදාබාද් නියෝජ්‍ය පොලිස්පතිවරයා පවසා ඇත්තේ, මෙම මත්ද්‍රව්‍ය තොගය ඉන්දියාව වෙත ප්‍රවාහනය කරමින් තිබු බව ප්‍රථමයෙන් සැක පළ කළ ද පසුව ඒවා ශ්‍රී ලංකාව වෙත ප්‍රවාහනය කරමින් තිබෙන බවට තොරතුරු අනාවරණය කර ගෙන ඇති බවය.
+
+මෙවැනි මත්ද්‍රව්‍ය තොගයක් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් සතුටට පත්වන බව ද අහමදාබාද් නියෝජ්‍ය පොලිස්පතිවරයා ඉන්දීය මාධ්‍යට පවසා තිබේ.
+
+◼️
+
+[Data](articles/6558f144.json)
+
+---
+
+### ශ්‍රම බළකාය පහළ ගොස් ඇති බවට අනාවරණයක්
+
+*2024-04-29 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196069) · `si`
+
+පසුගිය වසරේ දී මෙරට ශ්‍රම බළකාය පහත ගොස් ඇති බව ශ්‍රී ලංකා මහ බැංකුව නිකුත්කළ නවතම වාර්තාවකින් පෙන්නුම් කර තිබේ.
+
+ඒ අනුව 2022 වසරේ දී මිලියන 8.54ක් වූ ආර්ථික වශයෙන් සක්‍රීය ජනගහනය පසුගිය වසරේ දී වසරේ දී මිලියන 8.40ක් දක්වා පහත වැටී ඇති බව එම වාර්තාවේ සඳහන් වේ.
+
+ශ්‍රම බළකාය සහ කුටුම්බ ජනගහනය අතර අනුපාතය වන ශ්‍රම බළකා සහභාගීත්ව අනුපාතිකය ද 2022 වසරේ දී වාර්තා වූ සියයට 49.8 සිට 2023 වසර වන විට සියයට 48.6ක් දක්වා පහත වැටී තිබේ.
+
+සේවා වියුක්ත ජනගහනය මෙන්ම ශ්‍රම බළකාය පහත වැටීමෙහි ඒකාබද්ධ බලපෑම හේතුවෙන් සේවා වියුක්ති අනුපාතිකය ද පෙර වසර හා සැසඳීමේ දී 2023 වසරේ දී සියයට 4.7ක අගයෙහි නොවෙනස්ව පැවතී ඇති බව සඳහන්ය.
+
+සේවා වියුක්ත ජනගහනය 2022 දී වාර්තා වූ මිලියන 0.399 සිට 2023 වන විට මිලියන 0.39ක් දක්වා සුළු වශයෙන් පහත වැටී ඇති බව එම වාර්තාවේ සඳහන් වේ.
+
+එසේම, සේවා නියුක්ත ජනගහනය ද 2022 වසරේ දී වාර්තා වූ මිලියන 8.14 සිට පසුගිය වසර වන විට මිලියන 8.01ක් දක්වා පහත වැටී තිබේ.
+
+◼️
+
+[Data](articles/9af16cf4.json)
+
+---
 
 ### Political tremors expected on May Day: Ruwan
 
@@ -84,6 +176,28 @@ The heat of the Moneragala and Hambantota District will increase the heat of the
 
 ---
 
+### Sarigamaba Season 4 Music Competition
+
+*2024-04-29 06:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182189) · `ta`
+
+Indrajit, a young hill country singer, is a star of Sarigamaba Season 4, a popular Tamil Nadu TV show. He's an SPP fan and has been recognized by Sarigamaba for his talent.
+
+🟩
+
+Indrajit, a young man from the hill country, has been singing the voice of the Sarigamaba Season 4 music event, which is becoming a popular television show in Tamil Nadu.
+
+The music stadium staged a music forum, hearing and hearing that he was an avid fan of the famous singer SPP.
+
+Earlier, this music effort of Indrajit, who has gone to India from the hill country to India, has been honored by the Sarigamaba stage, and the Sarikamaba's attempt to make the motherland proud.
+
+◼️
+
+[Data](articles/a438a1f8.json)
+
+[Extended Data](ext_articles/a438a1f8.ext.json)
+
+---
+
 ### SLFP faction distances from Maithri’s claims
 
 *2024-04-29 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLFP-faction-distances-from-Maithris-claims/155-281540) · `en`
@@ -123,28 +237,6 @@ Overall exports to the US decreased by 5.11 percent while exports to the EU (exc
 [Data](articles/87892ce1.json)
 
 [Extended Data](ext_articles/87892ce1.ext.json)
-
----
-
-### Sarigamaba Season 4 Music Competition
-
-*2024-04-29 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182189) · `ta`
-
-Indrajit, a young hill country singer, is a star of Sarigamaba Season 4, a popular Tamil Nadu TV show. He's an SPP fan and has been recognized by Sarigamaba for his talent.
-
-🟩
-
-Indrajit, a young man from the hill country, has been singing the voice of the Sarigamaba Season 4 music event, which is becoming a popular television show in Tamil Nadu.
-
-The music stadium staged a music forum, hearing and hearing that he was an avid fan of the famous singer SPP.
-
-Earlier, this music effort of Indrajit, who has gone to India from the hill country to India, has been honored by the Sarigamaba stage, and the Sarikamaba's attempt to make the motherland proud.
-
-◼️
-
-[Data](articles/a438a1f8.json)
-
-[Extended Data](ext_articles/a438a1f8.ext.json)
 
 ---
 
@@ -1582,6 +1674,22 @@ Investigations were carried out on the missing persons and compensation to their
 
 ---
 
+### රටින් පිටවීම තහනම් කළ ව්‍යාපාරියෙක් රටින් යන්න ගිහින් අල්ලයි
+
+*2024-04-28 17:48:02* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටවීම-තහනම්-කළ-ව්‍යාපාරියෙක්-රටින්-යන්න-ගිහින්-අල්ලයි/11-409305) · `si`
+
+මිනුවන්ගොඩ මහේස්ත්‍රාත් අධිකරණය මගින් රටින් පිටවීම තහනම් කළ ව්‍යාපාරිකයෙකු, කූඨ ලෙස සකස් කළ ගමන් බලපත්‍රයක් භාවිතා කරමින් තායිලන්තය වෙත පළා යාමට 04/27 දින  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී ආගමන විගමන දෙපාර්තමේන්තුවේ දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු කොළඹ ප්‍රදේශයේ පදිංචි 64 හැවිරිදි ව්‍යාපාරිකයෙකි. මොහු ඉකුත් 04/27 දින අලුයම 01.08 ට තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව යෑමට නියමිත තායි ගුවන් සේවයේ ටී.ජී.- 308 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+එසේ පැමිණි මෙම ව්‍යාපාරිකයා සිය ගුවන් යානා නිශ්කාශන කටයුතු නිම කර , ගුවන් තොටුපොළ  විගමන අංශය වෙත පැමිණ සිටියදී , එහි රාජකාරී කටයුතු වල නිරත වී සිටි ආගමන විගමන නිලධාරීවරයා මොහුගේ ලියකියවිලි පරීක්ෂා කර බලා , ඇති වූ සැකය මත ප්‍රධාන ආගමන විගමන නිලධාරීවරයා වෙත යොමු කර තිබේ .
+
+...
+
+[Data](articles/0b84cd5e.json)
+
+---
+
 ### Security breach at Sydney Airport as man runs onto tarmac and tries to board Sri Lanka-bound flight
 
 *2024-04-28 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98900/security-breach-at-sydney-airport-as-man-runs-onto-tarmac-and-tries-to-board-sri-lanka-bound-flight) · `en`
@@ -2191,105 +2299,5 @@ The incident took place when a private bus and motorcycle collided.
 [Data](articles/4dd89e64.json)
 
 [Extended Data](ext_articles/4dd89e64.ext.json)
-
----
-
-### Sri Lankan students excel at International Creativity and Innovation Awards in Thailand
-
-*2024-04-28 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-students-excel-at-International-Creativity-and-Innovation-Awards-in-Thailand/108-281505) · `en`
-
-Sri Lankan students from the Burhani Serendib School in Colombo who participated in the International Creativity and Innovation Awards 2024 in Thailand won the Titanium award (second highest) for their exceptional display in the field of robotics, in the finals held today.
-
-The Sri Lankan team competed with 25 countries. Over 1000 students representing 441 teams from four continents participated in the International competition. This is the first time Sri Lanka competed in such a global event displaying their robotic skills.
-
-The Sri Lankan students also clinched the Awards for the 'Most Interesting Solution' and won full scholarships for it's students from the Paragon International University in Cambodia.
-
-Six off site teams who also participated from the school also won the bronze and silver awards.
-
-...
-
-[Data](articles/b4fb9daa.json)
-
-[Extended Data](ext_articles/b4fb9daa.ext.json)
-
----
-
-### Sri Lanka’s population dynamics at risk, Registrar General’s Dept warns
-
-*2024-04-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98895/sri-lankas-population-dynamics-at-risk-registrar-generals-dept-warns-) · `en`
-
-Sri Lanka has shown a significant drop in annual birth rate while the number of annual deaths has increased since 2020, the Registrar General’s Department revealed.
-
-The Senior Deputy Registrar General, Attorney-at-Law Lakshika Ganepola stated that the number of annual births which was around 325,000 before 2020 has now decreased to 280,000.
-
-Meanwhile, the number of annual deaths has increased to around 180,000, which was 140,000 before 2020, as per reports.
-
-The Registrar General’s Department points out that this situation will adversely affect Sri Lanka’s population growth.
-
-◼️
-
-[Data](articles/1e7f43b2.json)
-
-[Extended Data](ext_articles/1e7f43b2.ext.json)
-
----
-
-### Sri Lanka’s population dynamics at risk, Registrar General’s Department warns
-
-*2024-04-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98895/sri-lankas-population-dynamics-at-risk-registrar-generals-department-warns-) · `en`
-
-Sri Lanka has shown a significant drop in annual birth rate while the number of annual deaths has increased since 2020, the Registrar General’s Department revealed.
-
-The Senior Deputy Registrar General, Attorney-at-Law Lakshika Ganepola stated that the number of annual births which was around 325,000 before 2020 has now decreased to 280,000.
-
-Meanwhile, the number of annual deaths has increased to around 180,000, which was 140,000 before 2020, as per reports.
-
-The Registrar General’s Department points out that this situation will adversely affect Sri Lanka’s population growth.
-
-◼️
-
-[Data](articles/b8a96312.json)
-
-[Extended Data](ext_articles/b8a96312.ext.json)
-
----
-
-### 17 year old girl shot dead on Monday
-
-*2024-04-28 13:45:52* · [`adalk`](https://www.ada.lk/breaking_news/14-දා-වෙඩි-කෑ-17-හැවිරිදි--දැරිය-මරුට/11-409300) · `si`
-
-A 17-year-old girl, J.J. Coshola, was shot and killed on Monday. She was initially treated at Giritale's Care of the Care Intensive Care Unit before being transferred to Polonnaruwa General Hospital.
-
-🟩
-
-The 17-year-old schoolgirl has been treated at the Intensive Care Unit of the Care of the Care at the Giritale to the house of Minneriya.
-
-The deceased has been identified as J.J Coshola, a resident of the Giritale.
-
-At the same time, residents have been admitted to the Hingurakgoda hospital and transferred to Polonnaruwa Hospital.She had been transferred to the Anuradhapura hospital and was later transferred to the Polonnaruwa General Hospital and was later transferred to the Polonnaruwa General Hospital.
-
-◼️
-
-[Data](articles/16dd477b.json)
-
-[Extended Data](ext_articles/16dd477b.ext.json)
-
----
-
-### Public warned over individuals misleading investors, job seekers, visa applicants
-
-*2024-04-28 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-warned-over-individuals-misleading-investors-job-seekers-visa-applicants/108-281504) · `en`
-
-Colombo, April 28 (Daily Mirror)- The public are urged to exercise caution over certain individuals who are misleading investors, job seekers and visa applicants while claiming to hold positions within the Presidential Secretariat.
-
-The President's Media Division (PMD) said reports have been received that certain individuals are misleading investors, job seekers and visa applicants and are fraudulently obtaining money by submitting forged documents while claiming to hold positions within the Presidential Secretariat.
-
-People are urged to verify the identities of such persons from Senior Assistant Secretary Prasad Senarath on telephone number 0715308032.
-
-◼️
-
-[Data](articles/9d3e7abc.json)
-
-[Extended Data](ext_articles/9d3e7abc.ext.json)
 
 ---

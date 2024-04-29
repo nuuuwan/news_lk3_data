@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 23:34:15**
+As of **2024-04-29 23:53:13**
 
 ## Newspaper Stats
 
-*Scraped **21,682** Articles*
+*Scraped **21,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 231
 newsfirstlk | 363
 islandlk | 1,175
 dailyftlk | 1,212
-economynextcom | 1,217
+economynextcom | 1,232
 adalk | 1,817
 tamilmirrorlk | 2,521
 adaderanalk | 2,578
-virakesarilk | 3,265
+virakesarilk | 3,270
 dailymirrorlk | 3,378
 adaderanasinhalalk | 3,513
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,680 (100.0%) of 21,682 articles have been extended.
+21,682 (99.9%) of 21,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### தனியார் பாடசாலையில் தீ விபத்து
+### சகல துறைகளிலும் டெல்ஹியை விஞ்சிய கொல்கத்தாவுக்கு இலகுவான வெற்றி
+
+*2024-04-29 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182276) · `ta`
+
+கொல்கத்தா ஈடன் கார்ட்ன் விளையாட்டரங்கில் திங்கட்கிழமை (29) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 47ஆவது போட்டியில் டெல்ஹி கெப்பட்டல்ஸ் அணியை 7 விக்கெட்களால் கொல்கத்தா நைட் ரைடர்ஸ் இலகுவாக வெற்றிகொண்டது.
+
+துடுப்பாட்டம், பந்துவீச்சு, களத்தடுப்பு ஆகிய சகல துறைகளிலும் கொல்கத்தா பிரகாசித்து வெற்றியை ஈட்டியது.
+
+வருண் சக்கரவர்த்தி, ஹர்ஷித் ரானா, வைபாவ் அரோரா ஆகியோரின் துல்லியமான பந்துவீச்சுகள், பில் சோல்டின் அதிரடி அரைச் சதம், ஷ்ரேயாஸ் ஐயரின் அபார துடுப்பாட்டம் என்பன கொல்கத்தா நைட் ரைடர்ஸின் வெற்றியில் பிரதான பங்காற்றின.
+
+டெல்ஹி கெப்பிட்டல்ஸினால் நிர்ணயிக்கப்பட்ட 154 ஓட்டங்கள் என்ற சுமாரான மொத்த எண்ணிக்கையை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 16.3 ஓவர்களில் 3 விக்கெட்களை இழந்து 157 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+
+லிஸாட் வில்லியம்ஸின் முதல் ஓவரில் கொல்கத்தா நைட் ரைடர்ஸ் 21 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/999610aa.json)
+
+---
+
+### பலஸ்தீன விவகாரத்தில் 'இரு அரசு' தீர்வை முன்னிறுத்தி நெருங்கிப்பணியாற்ற இலங்கை - எகிப்து இணக்கம்
+
+*2024-04-29 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182275) · `ta`
+
+வெளிவிவகார அமைச்சர் அலி சப்ரிக்கும், எகிப்து நாட்டின் வெளியுறவுத்துறை அமைச்சர் சமே ஹெளக்ரிக்கும் இடையிலான சந்திப்பின்போது பலஸ்தீன விவகாரத்தில் இரு அரசுகள் எனும் தீர்வை முன்னிறுத்தி நெருங்கிப்பணியாற்றுவதற்கு இணக்கம் காணப்பட்டுள்ளது.
+
+உலக பொருளாதாரப்பேரவையின் ஏற்பாட்டில் சவுதி அரேபியாவின் ரியாத் நகரில் 28 - 29 ஆம் திகதி நடைபெற்ற உலகளாவிய ஒத்துழைப்பு, வளர்ச்சி மற்றும் அபிவிருத்திக்கான வலுத்திறன் தொடர்பான விசேட கூட்டத்தில் இலங்கை சார்பில் பங்கேற்பதற்காக வெளிவிவகார அமைச்சர் அலி சப்ரி ரியாத் சென்றுள்ளார்.
+
+அங்கு உலக பொருளாதாரப்பேரவையின் விசேட கூட்டத்தின் பக்க நிகழ்வாக சவுதி அரேபிய வெளிவிவகார அமைச்சர் ஃபைஸல் பின் ஃபர்ஹானை சந்தித்த அமைச்சர் அலி சப்ரி, இருநாடுகளுக்கும் இடையிலான இருதரப்பு உறவு குறித்துக் கலந்துரையாடினார். அத்தோடு பொருளாதார ஒத்துழைப்பு மற்றும் முதலீடுகளை ஊக்குவித்தல், திறன்மிக்க இலங்கை தொழிலாளர்களுக்கான வேலைவாய்ப்புக்களை வழங்கல் மற்றும் இருநாட்டு மக்களுக்கு இடையிலான தொடர்புகளை வலுப்படுத்தல் என்பன தொடர்பிலும் இரு அமைச்சர்களுக்கு இடையில் இணக்கப்பாடு எட்டப்பட்டது.
+
+...
+
+[Data](articles/c4ba6f82.json)
+
+---
+
+### Fire at private school
 
 *2024-04-29 23:10:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-பாடசாலையில்-தீ-விபத்து/175-336534) · `ta`
 
-வெலிகம பிரதேசத்தில் உள்ள தனியார் மகளிர் பாடசாலை ஒன்றில் இன்று (29)  தீ பரவல் ஏற்பட்டது.
+A fire at a private women's school in Weligama, on the third floor, has been extinguished by the Matara Fire Division, Weligama Police, and residents.
 
-பாடசாலையின் விடுதி அமைந்துள்ள நான்கு மாடி கட்டிடத்தின் மூன்றாவது மாடியில் இவ்வாறு தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-மாத்தறை தீயணைப்புப் பிரிவு, வெலிகம பொலிஸார் மற்றும் பிரதேசவாசிகள் இணைந்து தீயை கட்டுப்படுத்த நடவடிக்கை எடுத்தனர். (a)
+A fire broke out today (29) at a private women's school in Weligama.
+
+The fire broke out on the third floor of the four -storey building where the school's hostel is located.
+
+Matara Fire Division, Weligama Police and Residents have taken steps to control the fire. (A)
 
 ◼️
 
 [Data](articles/60ad336a.json)
+
+[Extended Data](ext_articles/60ad336a.ext.json)
 
 ---
 
@@ -65,6 +107,8 @@ While addressing an event organized in Ratnapura to distribute smart agriculture
 ...
 
 [Data](articles/72fd9d83.json)
+
+[Extended Data](ext_articles/72fd9d83.ext.json)
 
 ---
 
@@ -125,6 +169,22 @@ President Ranil Wickremesinghe, alongside President of the World Association of 
 [Data](articles/847be937.json)
 
 [Extended Data](ext_articles/847be937.ext.json)
+
+---
+
+### ட்ரோன்கள் பறக்க தடை : பொலிஸார் அறிவிப்பு!
+
+*2024-04-29 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182274) · `ta`
+
+அனுமதியின்றி மே தினக் கொண்டாட்டங்களை காணொளி பதிவு செய்ய ட்ரோன்களை பயன்படுத்துவது தடைசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவ்வாறு ட்ரோன்களை பயன்படுத்துவதற்கு அவசியமானால் அதற்கு முன் அனுமதி பெற வேண்டும் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துத தெரிவித்துள்ளார்.
+
+இந்த சட்டம் நாடளாவிய ரீதியில் நடைபெறும் அனைத்து மே தின பேரணிகளுக்கும் பொருந்தும் என பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a7cd1dda.json)
 
 ---
 
@@ -248,6 +308,24 @@ Addressing the media Senior DIG Traffic Administration and Road Safety, Indika H
 
 ---
 
+### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மின்கட்டமைப்பை இருண்ட யுகத்துக்கு தள்ளும் - மின் பொறியியலாளர் சங்கம் எதிர்ப்பு
+
+*2024-04-29 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182273) · `ta`
+
+நாட்டின் மின்கட்டமைப்பை இருண்ட யுகத்துக்கு தள்ளும் வகையில் உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலம் பாராளுமன்றத்துக்கு சமர்ப்பிக்கப்பட்டுள்ளது.மின்கட்டணத்தை தீர்மானிக்கும் உரிமையை தனியார் நிறுவனங்களுக்கு வழங்குவது முறையற்றது என மின்சார சபையின் மின் பொறியியலாளர் சங்கத்தின் தலைவர் தனுஸ்க பராக்ரம தெரிவித்தார்.
+
+இலங்கை மின்சார சபை மின் பொறியியலாளர் சங்கத்தின் காரியாலயத்தில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நட்டமடையும் அரச நிறுவனங்களை மறுசீரமைப்பதாக குறிப்பிட்டுக் கொண்டு இலாபமடையும் அரச நிறுவனங்களை மறுசீரமைக்கும் செயற்பாடுகளை மாத்திரம் அரசாங்கம் முன்னெடுத்துள்ளது.உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தில் பல குறைபாடுகள் காணப்படுகின்றன.
+
+மின்சார சபையை 12 ஆக கூறுப்படுத்தி அதன் உரிமத்தை தனியார் நிறுவனங்களுக்கு உரித்தாக்க உத்தேசிக்கப்பட்டுள்ளது.நிறுவனங்கள் பெறும் இலாபத்துக்கு அமைய மின்கட்டணம் தீர்மானிக்கப்பட வேண்டும் என்று குறிப்பிடப்படுவது பாரதூரமான நெருக்கடிகளை ஏற்படுத்தும்.
+
+...
+
+[Data](articles/c6daf3e9.json)
+
+---
+
 ### Veteran musician Dr. Premadasa Mudunkotuwa passes away
 
 *2024-04-29 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98923/veteran-musician-dr-premadasa-mudunkotuwa-passes-away) · `en`
@@ -368,6 +446,26 @@ The damage caused by the fire has not been revealed so far and another similar i
 
 ---
 
+### Sri Lanka should health regulate ‘illegal prostitution’ for safety: State Minister
+
+*2024-04-29 20:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-health-regulate-illegal-prostitution-for-safety-state-minister-160577/) · `en`
+
+ECONOMYNEXT – “Illegal prostitution” in the guise of spa or wellness centers should be regulated to prevent AIDS and other health issues among Sri Lankan youth, the island nation’s State Tourism Minister Diana Gamage said.
+
+At least 695 new HIV positive people were identified in the country in 2023 and it has seen a 14 percent rise over 2022, the National STD and AIDS Control Programme in Sri Lanka said last month.
+
+Sri Lanka has witnessed mushrooming spas or wellness centers throughout the island nation in the last three years amid an unprecedented economic crisis, tourism officials say.
+
+State Tourism Minister Gamage said there are around 600 spas in the highly populated Colombo suburb area
+
+“I don’t know how many people go for wellness to these 600 places, just a 50 meter away from each other. We have about 100 spas in a stretch. I don’t know whether I have seen anyone who is interested in wellness going in there,” she told reporters at a media briefing in Colombo.
+
+...
+
+[Data](articles/1f03b566.json)
+
+---
+
 ### Fire at a private women's school in Weligama
 
 *2024-04-29 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/182272) · `ta`
@@ -431,6 +529,44 @@ Colombo, April 29 (Daily Mirror) - Pope Francis will decide as to when Archbisho
 [Data](articles/dfaad54d.json)
 
 [Extended Data](ext_articles/dfaad54d.ext.json)
+
+---
+
+### Sri Lanka sells Rs99b in 2028 to 2032 bonds
+
+*2024-04-29 19:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs99b-in-2028-to-2032-bonds-160558/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 99.7 billion rupees in 2028, 2030 and 2032 bonds, data from the state debt office showed.
+
+The debt office sold at offered 25 billion rupees of 15 March 2028 at an average yield of 11.72 percent.
+
+All offered 30 billion rupees of 15 May 2030 bonds were sold at 12.38 percent.
+
+44.74 billion rupees of 01 October 2032 bonds were sold at 12.47 percent, after offering 45 billion rupees. (Colombo/Apr29/2024)
+
+◼️
+
+[Data](articles/1bda0b94.json)
+
+---
+
+### Sri Lanka to declare 49 new tourism zones: State Minister
+
+*2024-04-29 19:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-declare-49-new-tourism-zones-state-minister-160545/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process to designate 49 additional official tourism zones and the new areas will be published in a gazette within a month as part of the on-going efforts to boost tourism,” State Tourism Minister Diana Gamage said.
+
+“We have identified 49 additional tourist destinations for the advancement of our tourism industry,” Gamage told reporters at a media briefing in Colombo.
+
+“These sites will be designated as tourism zones and will be officially published in the gazette within a month. Through this initiative, we aim to bolster tourist arrival into our country and promote its diverse attractions.”
+
+Sri Lanka has already identified 15 tourism zones, but all are located in the coastal area around the island.
+
+The new tourism zones are expected to include most non-coastal area where tourists prefer to visit due to the nature of the locations, an industry official said. (Colombo/April 29/2024)
+
+◼️
+
+[Data](articles/8aea1602.json)
 
 ---
 
@@ -774,6 +910,26 @@ One says "IMF and World Bank with me. I can't borrow, or you don't borrow. ". On
 
 ---
 
+### Fitch affirms Sri Lanka’s UB Finance rating at ‘BB(lka)’
+
+*2024-04-29 17:54:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-ub-finance-rating-at-bblka-160531/) · `en`
+
+ECONOMYNEXT – Fitch affirmed licensed non-bank lender UB Finance Company Ltd’s national long-term rating at ‘BB(lka)’. The outlook is stable.
+
+The rating is driven by Fitch’s expectation of extraordinary support from Union Bank of Colombo PLC, which owns 89.9 percent of UB Finance.
+
+“UBF’s rating is constrained by our view that any support required may be more of a burden relative to UB’s modest balance sheet size, compared with other Fitch-rated financial leasing companies owned by larger banks,” Fitch said in its assessment.
+
+The rating agency expects the proposed rights issue to bridge UBF’s regulatory capital shortfall. “However, the capital buffer could be thin against the regulatory minimum capital of LKR2.5 billion and may fall below the regulatory requirement should there be any unforeseen losses.”
+
+Fitch Ratings – Colombo – 26 Apr 2024: Fitch Ratings has affirmed UB Finance PLC’s (UBF) National Long-Term Rating at ‘BB(lka)’. The Outlook is Stable.
+
+...
+
+[Data](articles/66f39edd.json)
+
+---
+
 ### The squad exceeds $ 5 billion
 
 *2024-04-29 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඩොලර්-බිලියන-5-ඉක්මවයි/11-409326) · `si`
@@ -851,6 +1007,42 @@ A group of MPs, including the Leader of the Opposition, have questioned the gove
 [Data](articles/d290ab33.json)
 
 [Extended Data](ext_articles/d290ab33.ext.json)
+
+---
+
+### Young Sri Lankan innovators showcase new ideas, creations at DreamCraft
+
+*2024-04-29 17:31:00* · [`economynextcom`](https://economynext.com/young-sri-lankan-innovators-showcase-new-ideas-creations-at-dreamcraft-160533/) · `en`
+
+ECONOMYNEXT – Young Sri Lankan school innovators showcased their creative products at DreamCraft exhibition in Colombo on the International Innovation and Creativity Day this month, illustrating the importance of educational initiatives in entrepreneurial success.
+
+The exhibition showcased the talents on young innovators who demonstrated practical skills in handling latest technology like 3D printing and start ups by young kids which are likely to spark economic opportunities in the future.
+
+“The DreamCraft exhibition is more than a celebration of youthful creativity—it is a catalyst for economic growth,” the Exhibition organizers IgniterSpace and TRACE said in a statement on the exhibition held on April 21.
+
+...
+
+[Data](articles/84998aa6.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 297.80/298.50 to US dollar
+
+*2024-04-29 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-297-80-298-50-to-us-dollar-160527/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 297.80/298.50 to the US dollar on Monday from 296.00/30 the previous week, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.95/11.05 percent from 11.15/20 percent.
+
+A bond maturing on 15.09.2027 closed down at 11.40/55 percent from 11.55/65 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.60/70 percent from 11.90/12.00 percent.
+
+A bond maturing on 01.10.2032 closed at 12.40/55 percent from 12.40/50 percent. (Colombo/Apr29/2024)
+
+◼️
+
+[Data](articles/1ba416b7.json)
 
 ---
 
@@ -1140,6 +1332,28 @@ The prisoner told police that two prison officers had taken him to a room and as
 
 ---
 
+### விஜயதாஸவின் நியமனம் கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது : சந்திரிகா
+
+*2024-04-29 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182248) · `ta`
+
+சுதந்திர கட்சியின் பதில் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ நியமிக்கப்பட்டமை கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது.
+
+மைத்திரிபாலவுடன் ஒன்றிணைந்து தனது நற்பெயரை விஜயதாஸ இல்லாதொழித்துக் கொள்ள கூடாது என முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க தெரிவித்தார்.
+
+கொழும்பில் உள்ள இலங்கை மன்றக் கல்லூரியில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஸ்ரீ லங்கா சுதந்திர கட்சியின் பிரச்சினைகள் தீவிரமடைந்துள்ள நிலையில் கட்சியின் பதில் தவிசாளராக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ நியமிக்கப்பட்டுள்ளமை சுதந்திர கட்சியின் யாப்புக்கு முற்றிலும் விரோதமானது.
+
+பல அரசியல் கட்சிகளில் உறுப்பினராக பதவி வகித்த விஜயதாஸ ராஜபக்ஷ ஜனாதிபதி வேட்பாளராக போட்டியிடும் நோக்கத்தில் சுதந்திர கட்சிக்கு வருகை தந்துள்ளார்.
+
+மைத்திரிபால சிறிசேன வீதியில் செல்பவர்களை அழைத்து வந்து அவர்களை நிறைவேற்று சபையில் அமர செய்து தவறான தீர்மானங்களை எடுத்துள்ளார்.நாட்டின் நீதியமைச்சரான விஜயதாஸ ராஜபக்ஷவுக்கு அரசியல் கட்சிகளின் யாப்பு மற்றும் பொது சட்டம் பற்றி கூற வேண்டிய தேவை இல்லை.
+
+...
+
+[Data](articles/e0f9b641.json)
+
+---
+
 ### Today in history
 
 *2024-04-29 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182251) · `ta`
@@ -1233,6 +1447,26 @@ He said that if the bus was not available, it would be difficult to travel and t
 [Data](articles/258dc679.json)
 
 [Extended Data](ext_articles/258dc679.ext.json)
+
+---
+
+### More steps need to improve Sri Lanka’s night economic activities to woo tourists: State Minister
+
+*2024-04-29 16:34:00* · [`economynextcom`](https://economynext.com/more-steps-need-to-improve-sri-lankas-night-economic-activities-to-woo-tourists-state-minister-160518/) · `en`
+
+ECONOMYNEXT – Sri Lanka has seen some improvements in night time economic activities, but more steps need to taken to attract tourists, State Tourism Minister Diana Gamage said.
+
+Gamage, since became the State Tourism Minister, has promoting night time economic activities to create more options for foreign visitors into the island nation.
+
+“Well I think so far I have achieved when it comes to the night time tourism,” Gamage told reporters at a media briefing on Monday (29) in Colombo.
+
+“It means street foods, bars which are being kept opened because now wine stores are opened till 10 o clock in the night instead of 9 o clock. Restaurant bars are allowed to be opened till 2 in the morning specially in the five-star hotels. But previously everybody had to shut at 11 o clock all the bars everywhere.”
+
+The idea is to improve the tax revenue through night time dining and entertainment, particularly from excise duties.
+
+...
+
+[Data](articles/913cb8cd.json)
 
 ---
 
@@ -1355,6 +1589,30 @@ The verses featured in the preview of the film are the relationship between the 
 [Data](articles/1746eb56.json)
 
 [Extended Data](ext_articles/1746eb56.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover tops 4bn for a second day
+
+*2024-04-29 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-4bn-for-a-second-day-160513/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.90 percent, or 109.94 points, at 12,310; while the S&P SL20 Index closed up 1.40 percent, or 51.04 points, at 3,685.
+
+Turnover was at 4.1 billion. 1.2 of this came from the capital goods sector.
+
+Ceylon Cold Stores Plc saw the most active trading volumes (Rs338mn), the share closed up at 62.50.
+
+Both Royal Ceramics Lanka Plc (up at 33.30) and Dipped Products Plc (up at 31.00) also saw investor interest.
+
+PGP Glass Ceylon Plc, which saw a trading halt imposed and later lifted on Friday, as well as board changes, saw selling pressure (Rs153mn), and the share closed down at 28.80.
+
+Major positive contributors to the ASPI included Hayleys Plc (up at 90.00), Sampath Bank Plc (up at 82.10), Hatton National Bank Plc (up at 204.75), Commercial Bank of Ceylon Plc (up at 116.25), and Melstacorp (up at 91.80).
+
+...
+
+[Data](articles/c0618fa1.json)
 
 ---
 
@@ -1564,6 +1822,26 @@ There have been new expectations on the ceasefire as Israel's airstrike continue
 
 ---
 
+### Sri Lanka Bar calls for police minister to be replaced
+
+*2024-04-29 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-bar-calls-for-police-minister-to-be-replaced-160498/) · `en`
+
+ECONOMYNEXT – The Bar Association of Sri Lanka has called for Minister of Public Security Tiran Alles to be replaced and for recent remarks on encouraging Police to shoot suspects to be withdrawn.
+
+Justice has to be dispensed by court after a fair trial and the minister’s remarks are against the constitutional rights of the public, BASL said in a statement.
+
+According to media reports, the Minister asserted, ‘Eliminating criminals from the country is not a sin. Don’t be afraid to use the weapon in your hand for the right thing, and we stand by you.’
+
+“The Minister’s statement perpetuates a dangerous misconception that justice, sentencing, and punishment lie beyond the purview of the judiciary and can be administered arbitrarily, without adherence to due process,” BASL said.
+
+Resolution passed by Bar Council calling for the Minister of Public Security to retract recent statement: and requesting his excellency the President to reassign the portfolio of Public Security
+
+...
+
+[Data](articles/74ba7e90.json)
+
+---
+
 ### Lourdes Aurudu Udawa 2024
 
 *2024-04-29 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lourdes-Aurudu-Udawa-2024/110-281572) · `en`
@@ -1758,6 +2036,26 @@ The bus was reported that the bus was infectioning on the highway.
 
 ---
 
+### Sri Lanka’s Sarvodaya DF gets 3mn loan from EU for agriculture
+
+*2024-04-29 15:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-sarvodaya-df-gets-3mn-loan-from-eu-for-agriculture-160489/) · `en`
+
+ECONOMYNEXT – Sarvodaya Development Finance Plc will receive a loan facility of 3 million dollars from EDFI Management Company, which is funded through the European Union.
+
+“This loan facility aims at supporting the Company’s Agriculture Portfolio, especially the agricultural leasing product enabling farmers to access agricultural machinery such as tractors and harvesters at affordable rates and become owners via leasing scheme,” the company said in a stock exchange filing.
+
+The company was responding to a story published in the Daily Mirror.
+
+“As considered by EDFI, this investment rolls out the principle of the Global Gateway in Sri Lanka, which is Europe’s Strategy to better connect the world and to create the proper conditions for attractive investment opportunities.”
+
+SDF shares were trading up at 14.00 on Monday. (Colombo/Apr29/2024)
+
+◼️
+
+[Data](articles/5a003ea0.json)
+
+---
+
 ### The President should immediately remove Tran Ales from the post of Minister of Public Safety
 
 *2024-04-29 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182236) · `ta`
@@ -1907,363 +2205,5 @@ He added that the SJB May Day procession will start from Gunasingapuram at 1 pm.
 [Data](articles/15d485bf.json)
 
 [Extended Data](ext_articles/15d485bf.ext.json)
-
----
-
-### The IMF will hold two rallies.
-
-*2024-04-29 14:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-பேரணிகளை-நடாத்தவுள்ள-ஐ-ம-ச/175-336505) · `ta`
-
-The IMF will hold two rallies, with the United People's Power (SJB) organizing two May Day events in Colombo and Nuwara Eliya. The main rally in Colombo will be on the noise road, while the Nuwara Eliya event is organized by the Tamil Progressive Alliance (TPA), with SJB participation. The SJB May Day procession starts from Gunasingapuram at 1 pm.
-
-🟩
-
-The United People's Power (SJB) is scheduled to hold two May Day rallies in Colombo and Nuwara Eliya this year.
-
-SJB National Organizer Tissa Attanayake said the main rally would be held in Colombo noise road and the other rally in Nuwara Eliya.
-
-"The rally in Nuwara Eliya is to be organized by the Tamil Progressive Alliance (TPA), but the SJB leader will participate in both rallies," said Attanayake.
-
-He added that the SJB May Day procession will start from Gunasingapuram at 1 pm.
-
-◼️
-
-[Data](articles/99555825.json)
-
-[Extended Data](ext_articles/99555825.ext.json)
-
----
-
-### Japanese Foreign Minister visits Sri Lanka
-
-*2024-04-29 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196093) · `si`
-
-Japanese Foreign Minister Yoko Kikawa visits Sri Lanka from May 4, 2024, meeting President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and External Affairs Minister Ali Sabri.
-
-🟩
-
-Japanese Minister of External Affairs Yoko Kikawa is scheduled to visit Sri Lanka from 4 May 3, 2024.
-
-During his visit, she is to be held in meeting President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-The official discussions are scheduled to hold official discussions with the External Affairs Minister of External Affairs Minister Ali Sabri.
-
-A group of senior officials of the Ministry of External Affairs along with Japan External Affairs
-
-◼️
-
-[Data](articles/07879e31.json)
-
-[Extended Data](ext_articles/07879e31.ext.json)
-
----
-
-### Two individuals sentenced to death over 2002 murder
-
-*2024-04-29 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98913/two-individuals-sentenced-to-death-over-2002-murder) · `en`
-
-Two accused who were found guilty of attacking a person to death with a sharp weapon in the Gas Paha Junction area in Colombo around 22 years ago, have been sentenced to death by court.
-
-This order was issued by Colombo High Court judge Amal Ranaraja who delivered the sentencing today (29), Ada Derana reporter said.
-
-Issuing the verdict, the judge stated that the prosecution had been able to prove the allegations against the two accused beyond reasonable doubt.
-
-Meanwhile, the judge also ordered the acquittal of the second and fourth defendants of the case, according to the reporter.
-
-The Attorney General had prosecuted the relevant convicts over attacking a person identified as Sinnaiya Nadesan with a sharp weapon in the Gas Paha Junction area of Colombo on 08 August 2002.
-
-◼️
-
-[Data](articles/3945fcfa.json)
-
-[Extended Data](ext_articles/3945fcfa.ext.json)
-
----
-
-### පාඨලීව CIDයට කැඳවයි
-
-*2024-04-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196092) · `si`
-
-USEP and MP Patali Champika Ranawaka summoned to CID for statement on party held in Ratnapura.
-
-🟩
-
-The leader of the USEP and MP Patali Champika Ranawaka has been summoned to the CID tomorrow morning.
-
-It is to obtain a statement regarding a story about a party that was held at a party meeting in the Ratnapura area.
-
-◼️
-
-[Data](articles/f651d635.json)
-
-[Extended Data](ext_articles/f651d635.ext.json)
-
----
-
-### Two women arrested for attempting to kidnap youth
-
-*2024-04-29 13:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்த-முயன்ற-இரு-பெண்கள்-கைது/175-336504) · `ta`
-
-Two women from Mullaitivu attempted to kidnap a 17-year-old youth to the UK using fake documents at Katunayake airport. The youth revealed his true mother was waiting at the airport, claiming they were fleeing Sri Lanka's economic crisis. The women were handed over to the Criminal Investigation Division for further investigation.
-
-🟩
-
-The incident took place on Friday (26) at the Katunayake airport at the Katunayake airport, using the Sri Lankan mother and her son's information using the information of her son and her son for trying to take a 17 -year -old youth to the UK.
-
-A woman from the Mullaitivu area has come to the Katunayake airport to travel to England with a boy.
-
-When they arrived at the Karumapatti, they were handed over to the authorities of the Immigration Department at the airport due to suspicion of their documents.
-
-It has been confirmed that the documents they submitted during the technical test there were fake.
-
-When the authorities then took the young man alone and inquired about the matter, the young man told the authorities that his true mother was still waiting on the terminal of the Katunayake airport.
-
-...
-
-[Data](articles/558fb303.json)
-
-[Extended Data](ext_articles/558fb303.ext.json)
-
----
-
-### The prisoner who swallowed the tube light
-
-*2024-04-29 13:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டியூப்-லைட்டை-கடித்து-விழுங்கிய-கைதி/76-336503) · `ta`
-
-A prisoner in Thumbara Prison, accused of thefts, swallowed a tube light, leading to his hospitalization for stomach inflammation.
-
-🟩
-
-A prisoner who was sentenced to five years of imprisonment and detained at the Thumbara Prison has been admitted to the Kandy National Hospital for swallowing a tube light.
-
-A 42 -year -old man who was accused of several thefts was convicted and sentenced to five years in prison.
-
-Hospital sources say that the prisoner has been admitted to the Kandy National Hospital for treatment due to stomach inflammation and his stomach scan.
-
-Two prison officers took him to the room and attacked him asking if he had a cell phone.. The prisoner then told the police that he had taken off the tube light in the room and swallowed it.
-
-◼️
-
-[Data](articles/dc25836c.json)
-
-[Extended Data](ext_articles/dc25836c.ext.json)
-
----
-
-### 110 school students who participated in the grailpel
-
-*2024-04-29 13:47:03* · [`adalk`](https://www.ada.lk/breaking_news/මුුහුණුපොත-හරහා-සංවධානය-කල-පාසල්-සිසු-සිසුවියන්-110-ක්-සහභාගීවූ-සාදය/11-409323) · `si`
-
-110 students from the University of Ambalangoda participated in the grailpel, leading to a protest by the principal and students. The police confirmed the presence of students at the hotel examination, which has been a concern for nine years.
-
-🟩
-
-The A / L Partners who had been organized by the University of the University of Ambalangoda, Ambalangoda, was organized by the University of Ambalangoda, Ambalangoda today (29).
-
-The police say that the hotel has been present at the same time for the same hotel examination this year about nine years after his policeman officials.
-
-The police say that at least 110 students, including students, maintaining views, are not at school.
-
-According to the police, it was revealed that one of the participants had been collected from Rs.
-
-A New Year festival should be held in a stadium and revealed that a young and young girl hotel had been selected for this year's friendship.
-
-The principal of the school also has led to the protest with a group of students in Ambalangoda.
-
-The decrease in the school today, the highest student density was impossible to maintain its Advanced Level classes.
-
-◼️
-
-[Data](articles/2e16f762.json)
-
-[Extended Data](ext_articles/2e16f762.ext.json)
-
----
-
-### Optional to reduce the risk of landslide risk of the Karandagolla
-
-*2024-04-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196091) · `si`
-
-The National Building Research Organization (NBRO) has initiated a special observation to assess and mitigate landslide risks in the Karandagolla area, near the Uma Oya project. Measures are being taken to reduce the mountain range's elevation and manage landslide risks. Residents have linked the situation to the Uma Oya project's tunnel. The Ella Divisional Secretariat, Ella Pradeshiya Sabha, and the army are involved in managing the situation.
-
-🟩
-
-A special observation of the National Building Research Organization (NBRO) has launched a special observation regarding the risk of landslide risk in Karandagolla area in Karandagolla, about two and a half km away from the Uma Oya project.
-
-The Badulla District Secretary said that necessary arrangements are being taken to reduce the rise in the mountain range to reduce the landslide.
-
-The slope of the names of about two acres of land in Ella - Karandagolla shows the signs of the landslides.
-
-Residents of the area suspended that it was a situation that caused the tunnel of the Uma Oya project.
-
-Accordingly, the Ella Divisional Secretariat, the Ella Pradeshiya Sabha and the army and the army and the army will be held in another direction.
-
-◼️
-
-[Data](articles/75dc14ef.json)
-
-[Extended Data](ext_articles/75dc14ef.ext.json)
-
----
-
-### Central Bank explains about EPF interest
-
-*2024-04-29 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196090) · `si`
-
-The Central Bank of Sri Lanka has decided to increase interest in the Employees Provident Fund (EPF), effective from 31st December 2013.
-
-🟩
-
-The Central Bank of Sri Lanka has made a new decision regarding increasing interest in the EPF.
-
-It says that "the Governing Body of the Central Bank has been given to the Employees Provident Fund as at 31s.2013.
-
-◼️
-
-[Data](articles/c271772e.json)
-
-[Extended Data](ext_articles/c271772e.ext.json)
-
----
-
-### The attempt to move a boy to England
-
-*2024-04-29 13:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පිරිමි-දරුවෙක්-එංගලන්තයට-ගෙන-යාමේ-තැත-වරදියි/11-409322) · `si`
-
-Two-year-old Tamil boys, with a Sri Lankan mother, were arrested for attempting to smuggle a 17-year-old Tamil boy to England. The boy's mother was interrogated, and the case is under investigation.
-
-🟩
-
-Two-year-old Tamil national boys have been prepared to take a 17-year-old Tamil boy with a Sri Lankan mother and her son's information, which is located in England and has a 17-year-old Tamil boy.Officers of the Survey Unit have been arrested.
-
-A woman residing in Mullaittivu at 04/26 days after a boy, SriLankan Airlines had reached the Katunayake Airport on the 503-owned aircraft.
-
-While returning to the Sri Lankan Aviation Window to carry out its aviation clearance, the two airline officers have been handed over to the Department of Immigration and Emigration Department for the Institute of Immigration and Emigration Department on suspicion of these documents.
-
-These documents were confirmed in technical tests where they were made.
-
-Immigration and Emigration Department officials had taken steps to take the boy aside and inquire into the matter..
-
-...
-
-[Data](articles/5a9c6037.json)
-
-[Extended Data](ext_articles/5a9c6037.ext.json)
-
----
-
-### Independence parties operates the keys
-
-*2024-04-29 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196089) · `si`
-
-The Sri Lanka Freedom Party's headquarters was opened by police after misplaced files prevented entry on April 6. Investigations are ongoing.
-
-🟩
-
-The Sri Lanka Freedom Party Headquarters was opened by Police Visitors today (29).
-
-The office had been launched by the police as a result of misplacement of important files and could not enter anyone on April 6.
-
-Accordingly, the Police Station Investigation Officers held an investigation in the Headquarters building this morning.
-
-◼️
-
-[Data](articles/3b459936.json)
-
-[Extended Data](ext_articles/3b459936.ext.json)
-
----
-
-### 77 people in the parrot have lost their lives
-
-*2024-04-29 13:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளியில்-77-பேர்-உயிர்களை-மாய்த்துள்ளனர்/175-336501) · `ta`
-
-In 2023, Kilinochchi district saw 45 men and 32 women lose their lives due to wrong decisions, impacted by unemployment, drug use, stress, and family violence. Vavuniya and Mullaitivu districts also reported similar issues.
-
-🟩
-
-In the Kilinochchi district, in 2023, 45 men and 32 women have made a wrong decision and their lives.
-
-Kilinochchi district is currently in the wrong decision and the number of people who make a mistake.
-
-In particular, they have been living their lives for various reasons, such as unemployment, drug use, stress and family violence.
-
-In the Kilinochchi police region, 45 men and 32 females have been wronged in the last year.
-
-Meanwhile, 41 people in the Vavuniya district and 28 in the Mullaitivu district have made a mistake last year, according to the police department.
-
-◼️
-
-[Data](articles/04f8d4d4.json)
-
-[Extended Data](ext_articles/04f8d4d4.ext.json)
-
----
-
-### Heat in the Philippines;Holidays for schools;Egline education system for learning
-
-*2024-04-29 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/182227) · `ta`
-
-Due to extreme heat in the Philippines, all government schools are closed for 2 days. The Ministry of Education is arranging alternative learning methods. Temperatures are expected to reach 37°C (98.6°F) in the capital, with a perceived human body temperature of 45°C. This heat wave has led to the closure of 13 power plants and electricity supply issues on Luzon Island, affecting economic production.
-
-🟩
-
-All government schools have been granted 2 days due to heavy heat in the Philippines. The Ministry of Education has taken steps to carry out educational education as an alternative arrangement for students' learning.
-
-In this case, the temperature is likely to reach 37 degrees Celsius (98.6 degrees Fahrenheit) in the next three days in the capital of the Philippines.
-
-The temperature that is perceived in the human body is expected to rise to a fatal level of 45 degrees Celsius.
-
-Meanwhile, the second week of May is expected to increase to the warning level.
-
-In early April, 13 power plants were closed due to the drought caused by severe heat.
-
-The heat wave has caused difficulty in the supply of electricity to the Luconi Island, which plays three -quarters of the Philippines economic production.
-
-Passengers were inconvenienced as two of the six cooling towers were parked on Sunday at the airport in the capital Manila.
-
-◼️
-
-[Data](articles/73355fbf.json)
-
-[Extended Data](ext_articles/73355fbf.ext.json)
-
----
-
-### Japanese Foreign Minister to visit Sri Lanka
-
-*2024-04-29 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japanese-Foreign-Minister-to-visit-Sri-Lanka/108-281566) · `en`
-
-Colombo, April 29 (Daily Mirror) - Minister of Foreign Affairs of Japan Yoko Kamikawa is scheduled to undertake an official visit to Sri Lanka from 04-05 May 2024.
-
-During this visit, the Japanese Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The Japanese Foreign Minister and her delegation will also have official discussions with the Foreign Minister Ali Sabry during the visit.
-
-The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Japan.
-
-◼️
-
-[Data](articles/932886d6.json)
-
-[Extended Data](ext_articles/932886d6.ext.json)
-
----
-
-### Fetition from Wijayadasa against censorship
-
-*2024-04-29 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196088) · `si`
-
-Wijayadasa Rajapakse, SLFP Minister, petitioned the Court of Appeal against censorship, acting as chairman.
-
-🟩
-
-The Court of Appeal was ordered to be summoned by the SLFP Minister Wijayadasa Rajapakse as the acting chairman of the SLFP.
-
-The petition was presented by the Minister Wijayadasa Rajapaksa.
-
-◼️
-
-[Data](articles/617c0533.json)
-
-[Extended Data](ext_articles/617c0533.ext.json)
 
 ---

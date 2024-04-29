@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 18:34:28**
+As of **2024-04-29 18:52:39**
 
 ## Newspaper Stats
 
-*Scraped **21,638** Articles*
+*Scraped **21,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,811
 tamilmirrorlk | 2,518
-adaderanalk | 2,571
+adaderanalk | 2,572
 virakesarilk | 3,255
 dailymirrorlk | 3,367
 adaderanasinhalalk | 3,507
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,635 (100.0%) of 21,638 articles have been extended.
+21,638 (100.0%) of 21,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### இடி விழுந்ததில் ஒருவர் பலி
+### Thunderbolt
 
 *2024-04-29 18:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடி-விழுந்ததில்-ஒருவர்-பலி/175-336517) · `ta`
 
-முல்லைத்தீவு மாவட்டம் ஐயங்கன்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஜயங்கன்குளம் பகுதியில், திங்கட்கிழமை (29) மாலை   மின்னல் தாக்கி இடி விழுந்ததில் குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் ஒருவர் படுகாயமடைந்துள்ளனர்
+A lightning strike on Monday evening killed Kalimuthu Shanmugarajah, 49, and injured Mahendran Prabhakaran, 26, both from Jayankankulam. The incident occurred during a thunderstorm.
 
-மழை பெய்து கொண்டிருந்த சந்தர்ப்பத்தில் மரத்தின் கீழே நின்றிருந்தவர்கள் மீதே இடி விழுந்துள்ளதாக பொலிஸார் தெரிவித்தனர்
+🟩
 
-சம்பவத்தில் ஜயங்கன்குளம் பகுதியை சேர்ந்த முன்னாள் போராளியான மூன்று பிள்ளைகளின் தந்தையான காளிமுத்து சண்முகராஜா (49) என்ற குடும்பஸ்தர் உயிரிழந்துள்ளதுடன் ,ஜயங்கன்குளம் புத்துவெட்டுவான் பகுதியை சேர்ந்த மகேந்திரன் பிரபாகரன் (26) என்ற இளைஞர்
+A family member was killed and another injured in a lightning strike on Monday evening (29) evening
 
-படுகாயமடைந்த நிலையில் மல்லாவ ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்
+Police said the thunderstorm was on the bottom of the tree when it was raining
+
+Kalimuthu Shanmugarajah (49), the father of three children from Jayankankulam, died and Mahendran Prabhakaran (26) from Jayankankulam Puthupettuwan area.
+
+Mallawa has been admitted to the source hospital after being injured
 
 ◼️
 
 [Data](articles/3648f666.json)
+
+[Extended Data](ext_articles/3648f666.ext.json)
+
+---
+
+### Two women arrested at BIA for attempt to send teen to UK with fake documents
+
+*2024-04-29 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98920/two-women-arrested-at-bia-for-attempt-to-send-teen-to-uk-with-fake-documents-) · `en`
+
+The Immigration and Emigration Department officers at the Bandaranaike International Airport (BIA) in Katunayake have apprehended two women over their alleged involvement in an attempt to send a Sri Lankan teenage boy to London using forged documents.
+
+One of the suspected women had attempted to take the teenager with her to London on Friday (26), using forged documents bearing the details of a Sri Lankan mother currently residing in UK along with her son.
+
+The teenager in question has been identified as a 17-year-old boy, Ada Derana reporter said.
+
+The woman, who is a resident of the Mullaitivu area, had arrived at the BIA at around 1.30 p.m. on Friday, with intentions to board a SriLankan Airlines flight bound for London accompanied by the boy in question.
+
+...
+
+[Data](articles/f9350dce.json)
 
 ---
 
@@ -65,6 +89,8 @@ On a previous occasion, the defence counsel informed court that his client had r
 ...
 
 [Data](articles/9caf11c4.json)
+
+[Extended Data](ext_articles/9caf11c4.ext.json)
 
 ---
 
@@ -1502,29 +1528,35 @@ Japan's Foreign Minister Yogo Kamika is to make an official visit to Sri Lanka. 
 
 ---
 
-### මැයි දිනය : ජනපති සටනට ශක්තිය පෙන්වමින් මැයි ප්‍රධාන මැයි රැලි කොළඹ දී
+### May Day: May of May Rally in Colombo
 
 *2024-04-29 12:24:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpegdg1nwq8o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ප්‍රධාන මැයි රැලි සහ පෙළපාලි පැවැත්වෙන ස්ථාන ඔබ දන්නවා ද?
+The May Day Rally in Colombo, organized by the May Day Ransay and teams, showcases future presidential election power. It features events in Colombo, Jaffna, Matara, and Anuradhapura, with the UNP, Sri Lanka General Front, and Maithri Party (SLFP) participating.
 
-මැයි දිනය : ජනපති සටනට ශක්තිය පෙන්වමින් මැයි ප්‍රධාන මැයි රැලි කොළඹ දී
+🟩
 
-ඉදිරියේ දී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ජන බලය ප්‍රදර්ශනය කරමින් මෙවර මැයි දින රැලි සහ පෙළපාලි සංවිධානය කිරීමට ප්‍රධාන දේශපාලන පක්ෂ හා කණ්ඩායම් කටයුතු කරමි සිටී.
+Doesn't you contain any of the uses.
 
-ජනාධිපති රනිල් වික්‍රමසිංහගේ ප්‍රධානත්වයෙන් එක්සත් ජාතික පක්ෂයේ මැයි රැලිය කොළඹ, මාළිගාවත්ත පොලීසිය ඉදිරිපිට දී පැවැත්වීමට නියමිතව ඇත.
+May Day: May of May Rally in Colombo
 
-ජාතික ජන බලවේගය කොළඹ, යාපනය, මාතර සහ අනුරාධපුරයේ දී මැයි රැලි හතරක් සංවිධානය කරනු ලැබේ.
+The May Day Ransay and teams have been organized to organize the May Day Rally this year, displaying the power to the presidential election in the future.
 
-කොළඹ චැතම් වීදියේ සහ වතුකරයේ මැයි රැලි දෙකක් පැවැත්වීමට සමගි ජන බලවේගය සුදානම් වේ.
+The UNP May Day Rally will be held in front of the Maligawatta Police, headed by President Ranil Wickremesinghe.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ බොරැල්ල, කැම්බල් පිටියේ දී මැයි රැලිය පැවැත්වීමට නියමිතව ඇත.
+Four May will be organized in Colombo, Jaffna, Matara and Anuradhapura.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශවය ගම්පහ දී මැයි රැලිය පවත්වන බවට පවසා තිබේ.
+The reconciliation force is prepared to hold two May Day in Chatham Street and estate sector in Colombo.
+
+The Sri Lanka General Front is due to be held at the Campbell Ground, Borella.
+
+The Maithri Party (SLFP) Maithree is held in Gampaha.
 
 ◼️
 
 [Data](articles/82557aed.json)
+
+[Extended Data](ext_articles/82557aed.ext.json)
 
 ---
 
@@ -2405,27 +2437,5 @@ The border was placed in the accident and was placed in the border of the Matara
 [Data](articles/d69b446f.json)
 
 [Extended Data](ext_articles/d69b446f.ext.json)
-
----
-
-### When I see the fifty percent, I come to vote
-
-*2024-04-29 10:08:12* · [`adalk`](https://www.ada.lk/breaking_news/සියයට-පනස්-එක-දකින-වෙලාවට-මම-ඡන්දයට-එනවා/11-409315) · `si`
-
-Dhammika Perera, founder of ITCMampu, emphasizes the importance of education in improving the economy and the need for a strong foundation in every university. He highlights his efforts to enhance Pirivena education and create a group of monks who preach Dhamma in various languages. Perera also discusses his plans for a new IT campus in Matara, aiming to provide 17,000 students with IT education.
-
-🟩
-
-"To make the economy of the country, we need to feed children from education.. It was not started in 2012.Clear business and DP St. Educiation ITCMampu founder Dhammika Perera said in Matara.
-
-A ceremony for students who studied under the project was held at Mahinda Wijesekera Ven.
-
-"Needed at least three years in every university in the world, come to a level where a course is going to work. But I learned from this university and come out of a year to get a good job. Tell 100 projects of our 100 million course of course. Our history of 2,500 years of history with the temple of the village. The temple is a place where you can do everything.
-
-...
-
-[Data](articles/022169a8.json)
-
-[Extended Data](ext_articles/022169a8.ext.json)
 
 ---

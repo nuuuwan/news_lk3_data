@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 22:34:20**
+As of **2024-04-29 22:51:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,673 (100.0%) of 21,677 articles have been extended.
+21,677 (100.0%) of 21,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ President Ranil Wickremesinghe, alongside President of the World Association of 
 
 [Data](articles/847be937.json)
 
+[Extended Data](ext_articles/847be937.ext.json)
+
 ---
 
 ### Special traffic plans for May Day parades, rallies
@@ -63,6 +65,8 @@ The Police Media Division has accordingly released detailed maps outlining road 
 ◼️
 
 [Data](articles/6a3f39c8.json)
+
+[Extended Data](ext_articles/6a3f39c8.ext.json)
 
 ---
 
@@ -123,6 +127,8 @@ Therefore, respect must be given to all parties who shoulder the task of making 
 ◼️
 
 [Data](articles/d22fe874.json)
+
+[Extended Data](ext_articles/d22fe874.ext.json)
 
 ---
 
@@ -478,17 +484,25 @@ Following the argument in the barbed wire, the facts revealed that the defendant
 
 ---
 
-### සාපෙළ  අවසන් වූ වහා උසස්පෙළ පන්ති ආරම්භ වේ
+### The eldest classes will start soon
 
 *2024-04-29 18:27:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ--අවසන්-වූ-වහා-උසස්පෙළ-පන්ති-ආරම්භ-වේ/11-409330) · `si`
 
-පසුගිය කොවිඩ් ව්‍යසන සමයේ පාසල් වසා තැබීම නිසා අතපසු වූ අධ්‍යයන කටයුතු හා පාසල් විභාග කාලසටහන යථාවත් කිරීමේ වැඩපිළිවෙළ අනුව මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටින සිසුන්ට එම විභාගය අවසන් වූ වහා ම අපොස උසස් පෙළ පන්ති ආරම්භ කිරීමට සිදු වන බවත් අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Dr. Susil Premajayantha, Minister of Education, announced that students who missed the O/L exams due to school closures during the COVID-19 pandemic have been able to take the GCE Ordinary Level examination. He emphasized the need for commitment and recruited 3,000 new teachers this week. The aim is to restore academic normalcy, addressing years of delay and university issues, with everyone's support.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ ජාතික අධ්‍යාපන ආයතනයේ නිල අන්තර්ජාල ගුවන් විදුලි නාලිකාව (NIE Visual Radio) ආරම්භ කිරීමේ වැඩසටහනට ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි වෙමින් මහරගම ජාතික අධ්‍යාපන ආයතනයේ දී ය.
+🟩
+
+Minister of Education Dr. Susil Premajayantha says that students who stand up to the O / L examination due to the closure of schools during the past covid season and the students have been able to sit the GCE Ordinary Level examination..
+
+The Minister made this observation at the National Education Institute of Commencement of the Official Educational Radio (NIA VISUAL RADIO).
+
+Speaking further (Minister) said the minister said he needed a severe commitment to carry out this challenging work. The Minister has already taken up 3,000 new teachers to recruit them in this week and have already been completed this week.It is said that the resolution of a question that is an admission to another school to study the text.. The aim of taking such actions, the school children claimed to restore the academic at last covard over the years, with the delay of university delays, and the support and commitment of everyone to make it successful.Is.
 
 ...
 
 [Data](articles/82af75c6.json)
+
+[Extended Data](ext_articles/82af75c6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 15:03:41**
+As of **2024-04-29 15:18:36**
 
 ## Newspaper Stats
 
-*Scraped **21,590** Articles*
+*Scraped **21,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,806
-tamilmirrorlk | 2,509
+tamilmirrorlk | 2,510
 adaderanalk | 2,567
 virakesarilk | 3,247
-dailymirrorlk | 3,356
+dailymirrorlk | 3,357
 adaderanasinhalalk | 3,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,587 (100.0%) of 21,590 articles have been extended.
+21,590 (100.0%) of 21,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Deadline for accepting donations for Gaza Fund extended till May 31
+
+*2024-04-29 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deadline-for-accepting-donations-for-Gaza-Fund-extended-till-May-31/108-281568) · `en`
+
+Colombo, April 29 (Daily Mirror)- The deadline for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to aid those affected by conflicts in Gaza, has now been extended till May 31, 2024, the President’s Media Division (PMD) said.
+
+Originally scheduled to conclude on April 30, 2024, the extension follows a widespread appeal from across the island.
+
+Irrespective of their backgrounds, citizens have rallied behind the President's call to support this cause, the PMD said.
+
+In the initial phase, on behalf of the government, President Ranil Wickremesinghe handed over USD 01 million to the Palestinian government through the United Nations from the allocations set aside by Ministries and government institutions to hold this year's Iftar celebration. Subsequent donations will also be formally transferred to the Palestinian government.
+
+...
+
+[Data](articles/98dc28d5.json)
+
+---
+
+### தங்கத்தின் விலை சடுதியாக குறைந்தது
+
+*2024-04-29 14:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்கத்தின்-விலை-சடுதியாக-குறைந்தது/175-336507) · `ta`
+
+இன்றைய தினம் திங்கட்கிழமை (29) ஒரு அவுன்ஸ் தங்கத்தின் விலை ரூ. 690,898 ஆக குறைவடைந்துள்ளது.
+
+இதன்படி, 24 கரட் 1 கிராம் தங்கம் 24,380 ரூபாவாகவும்,24 கரட் 1 பவுண் தங்கம் (8 கிராம்) 195,000 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+இதேவேளை,22 கரட் 1 கிராம் தங்கம்  22,350 ரூபாவாகவும்,22 கரட் 8 கிராம் தங்கம் 178,800 ரூபாவாகவும்,21 கரட் 1 கிராம் தங்கம் 21,340 ரூபாவாகவும்,21 கரட் 1 பவுண் தங்கம் 170,700 ரூபாவாகவும் குறைவடைந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8e7ba1eb.json)
+
+---
 
 ### Japanese Foreign Minister to visit Sri Lanka next week
 
@@ -47,6 +81,8 @@ The Foreign Minister will be accompanied by senior officials of the Ministry of 
 ◼️
 
 [Data](articles/333c39be.json)
+
+[Extended Data](ext_articles/333c39be.ext.json)
 
 ---
 
@@ -69,6 +105,8 @@ The Colombo District Judge issued these injunctions after considering a plaint s
 ...
 
 [Data](articles/a39628d9.json)
+
+[Extended Data](ext_articles/a39628d9.ext.json)
 
 ---
 
@@ -1768,6 +1806,8 @@ Police say the suspect is the case with the ice drugs and he is currently questi
 
 [Data](articles/8c61ece3.json)
 
+[Extended Data](ext_articles/8c61ece3.ext.json)
+
 ---
 
 ### Success after failure;The recovery of the Chennai team
@@ -2405,55 +2445,5 @@ The incident was handed over to the police, MPR in charge of the Pudukkudiyirupp
 [Data](articles/aebf90a6.json)
 
 [Extended Data](ext_articles/aebf90a6.ext.json)
-
----
-
-### Officials of the Intelligence Unit have not contacted Sahran on the phone - Tran Ales
-
-*2024-04-29 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182186) · `ta`
-
-Tran Ales, Public Security Minister, denied Intelligence Unit officials contacted terrorist Sahran by phone. The FBI, CID, and Presidential Investigation Department inquiries were not reported. Sahran, a Sri Lankan social media accountant in Qatar, was reported to the International Investigation Agency on 11.02.2019. The Intelligence Unit monitored Sahran's activities, including his visit to Sri Lanka on 16.04.2019, and his alleged connection to IS.
-
-🟩
-
-International inquiries including the FBI, the Criminal Investigation Department and the Investigations of the Criminal Investigation Department, and the Commission's inquiries were not mentioned that the officials of the Intelligence Unit were telephoning the terrorist Sahran.. Public Security Minister Tran Ales said that everyone should avoid referring to false views.
-
-He mentioned questions posed by members of the opposition parties on the bombings during the adjournment debate in Parliament last week on the Sunday bombings.
-
-The IP of the FBI as the intelligence officer of the person who has telephoned the terrorist Sahran. The notion that it has been confirmed through the address is socialized.
-
-The Criminal Investigation Department (CID) has submitted a report on the matter and submitted a report to the court based on the report.
-
-...
-
-[Data](articles/c653dd6b.json)
-
-[Extended Data](ext_articles/c653dd6b.ext.json)
-
----
-
-### Ravikaran, who has filed a case with the Department of Wildlife in Mullaitivu
-
-*2024-04-29 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182185) · `ta`
-
-Durairasa Ravikaran, a former Northern Provincial Council Member, discussed with the Wildlife Department about the Sundikulam National Park's launch and land use, leading to a case filed in Mullaitivu Court on 07.12.2023. The case involves land cleaning since 1908, plant release, land release, and road use, affecting farming on 610 acres and 370 acres of agricultural lands.
-
-🟩
-
-Former Northern Provincial Council Member Durairasa Ravikaran held a discussion with the Department of Wildlife Department on Sunday (28).
-
-Following the cleaning of the lands in the area since 1908, the Wildlife Department filed a land in the Mullaitivu Court last year (07.12.2023).
-
-The case has been registered against the reasons for the launch of the Sundikulam National Park, the release of plants, the release of land, the laundry, and the use of roads.
-
-People are farming on 610 acres of land. In addition, 370 acres of agricultural lands have grown in small quantities.. There are more than 4 generations of agricultural operations on nearly 1000 acres of agricultural land.
-
-The case (07.12.2023) was taken to the Mullaitivu District Court that day.
-
-◼️
-
-[Data](articles/b3b32ba3.json)
-
-[Extended Data](ext_articles/b3b32ba3.ext.json)
 
 ---

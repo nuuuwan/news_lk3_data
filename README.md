@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 07:18:31**
+As of **2024-04-29 07:43:04**
 
 ## Newspaper Stats
 
-*Scraped **21,478** Articles*
+*Scraped **21,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,107 @@ islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,792
-tamilmirrorlk | 2,484
+tamilmirrorlk | 2,487
 adaderanalk | 2,557
 virakesarilk | 3,230
-dailymirrorlk | 3,340
+dailymirrorlk | 3,346
 adaderanasinhalalk | 3,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,477 (100.0%) of 21,478 articles have been extended.
+21,478 (100.0%) of 21,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### පළාත් කිහිපයකට අදත් තද වැසි
+### Political tremors expected on May Day: Ruwan
+
+*2024-04-29 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Political-tremors-expected-on-May-Day-Ruwan/108-281541) · `en`
+
+Colombo, April 28 (Daily Mirror) - Political tremors are expected on May Day (Wednesday) as members of a few political parties are expected to appear at the UNP May Day rally, UNP Deputy Leader Ruwan Wijewardene said over the weekend.
+
+"Members of a few political parties are expected to appear at a UNP May Day rally and thus there may be political tremors on that day," Mr. Wijewardene told party activists at a meeting held in Niyagama in the Biyagama electorate.
+
+"The UNP May Day rally should be one which sends a signal for a future political turnaround," he said.
+
+He also said two Indian singers will also perform together with local artistes at the UNP May Day rally this year. Mr. Wijewardene recalled that late Indian queen of music Latha Mangeshkar had performed at a UNP May Day rally in the past.
+
+...
+
+[Data](articles/a2ab83bf.json)
+
+---
+
+### Heavy rains today
 
 *2024-04-29 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196067) · `si`
 
-අන්තර් නිවර්තන අභිසාරී කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ ගෝලයේ සිට පැමිණෙන සුළං අභිසාරී වන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් කරමින් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains today with showers in Western, Sabaragamuwa, Southern, and Northwestern provinces, and thundershowers in Eastern and Southern provinces. Public advised to prepare for strong winds and lightning. Temperature in several areas to rise, affecting human comfort in North, North-Central, Eastern, and Northwestern provinces.
 
-ඒ අනුව , දිවයිනේ බොහෝ පළාත්වල තැනින් තැන පස්වරු 1න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+🟩
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+The Department of Meteorology states that the weather in the island is influenced by the island.
 
-නැගෙනහිර සහ දකුණු පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+Thus, there will be showers at several places in the area of about 1 overs.
 
-සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+Some locations in the Western, Sabaragamuwa, Southern and Northwestern provinces are mm mm.. Heavy showers have been reported that heavy rains can be over 100.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the Eastern and Southern provinces and in the morning.
 
-මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (29) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+In some places in Sabaragamuwa and Central provinces, you can remain misty.
+
+The Department requests the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
+
+Meanwhile, the Department of Meteorology says that the temperature of several areas in the country will continue to pay attention to the level today (29).
+
+The heat of the Moneragala and Hambantota District will increase the heat of the human body in the North, North-Central, Eastern, and Northwestern provinces.
 
 ...
 
 [Data](articles/4ba8aa39.json)
+
+[Extended Data](ext_articles/4ba8aa39.ext.json)
+
+---
+
+### SLFP faction distances from Maithri’s claims
+
+*2024-04-29 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLFP-faction-distances-from-Maithris-claims/155-281540) · `en`
+
+Colombo, April 29 (Daily Mirror) - In an effort to nip any discord with India in the bud, Sri Lanka Freedom Party (SLFP) faction led by Nimal Siripala de Silva as acting chairman called on Indian High Commissioner Santosh Jha and disassociated itself from remarks by its former Chairman Maithripala Sirisena implicating alleged Indian involvement in orchestrating the Easter Sunday attacks, an informed source said.
+
+Earlier, there were media reports about Mr. Sirisena implicating India in the attack in his statement to the Criminal Investigation Department (CID).
+
+Last week, Public Security Minister Tiran Alles said in Parliament that Mr. Sirisena had not mentioned the name of any Sri Lankan or Sri Lankan organization in the statement to the CID. The SLFP is currently divided and Mr. Sirisena is facing an enjoiningorder which prevents him from functioning as the party chairman.
+
+...
+
+[Data](articles/3b4635ad.json)
+
+---
+
+### Apparel sector revenue totals US$ 1.17 bn in 1Q24
+
+*2024-04-29 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apparel-sector-revenue-totals-US-1-17-bn-in-1Q24/108-281537) · `en`
+
+Sri Lanka’s apparel industry saw its revenue cross the US$ 1 billion mark in the first quarter (1Q24) with exports expanding by 7.7 percent in March.
+
+Apparel exports fetched revenue of US$ 418 million in March, with an improved performance seen in Europe (EU) and the United Kingdom.
+
+Data shared by the Joint Apparel Association Forum (JAAF) showed that while exports to the United States (US) decreased by 2.81 percent, exports to the EU (excluding exports to UK) have grown by 5.62 percent, and exports to the UK have increased by 11.93 percent.
+
+Exports to other countries have recorded an increase by 34.26 percent Year-on-Year (YoY).
+
+Meanwhile, total exports during the three months from January to March 2024 contracted by 0.69 percent YoY to US$ 1.174 billion.
+
+Overall exports to the US decreased by 5.11 percent while exports to the EU (excluding exports to UK) also decreased by 1.52 percent over the same period.
+
+...
+
+[Data](articles/87892ce1.json)
 
 ---
 
@@ -214,6 +278,28 @@ Iptikar Ahmad lost the match with 6 runs and followed him with 43 runs.
 
 ---
 
+### CB optimistic of stability amidst ongoing economic reforms
+
+*2024-04-29 02:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-optimistic-of-stability-amidst-ongoing-economic-reforms/108-281538) · `en`
+
+Says economy expected to continue to recover and reach its potential in coming years
+
+Inflation expected to stabilise around the target over the medium term
+
+Signs of economic recovery observed in 2H23 expected to translate into a broad-based recovery across all sectors
+
+Overall outlook of the Sri Lankan economy in the medium to long term will be conditional on the continuation of the IMF-EFF programme, among others
+
+The Central Bank of Sri Lanka sounded optimistic about Sri Lanka witnessing stability on multiple fronts, provided that the ongoing ambitious reforms and economic adjustments underpinned by the Extended Fund Facility (EFF) programme of the International Monetary Fund (IMF) continue without any interruptions.
+
+The financial sector regulator in its Annual Economic Review 2023 released last week said that the Sri Lankan economy is expected to continue to recover and reach its potential in the coming years, bolstered by the return of greater macroeconomic stability.
+
+...
+
+[Data](articles/de1399dc.json)
+
+---
+
 ### Mujibur blames Govt. for failing to address Opposition’s fresh poser on Easter attacks
 
 *2024-04-29 01:46:49* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-blames-Govt-for-failing-to-address-Opposition-s-fresh-poser-on-Easter-attacks/56-761155) · `en`
@@ -254,6 +340,24 @@ During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the
 
 ---
 
+### புத்தாண்டு நிகழ்வில் ஜனாதிபதி பங்கேற்பு
+
+*2024-04-29 01:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டு-நிகழ்வில்-ஜனாதிபதி-பங்கேற்பு/175-336465) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் கொழும்பு மாநகர சபையின் முன்னாள் உறுப்பினர் கித்சிறி ராஜபக்‌ஷ, மருதானை – சுதுவெல்ல விளையாட்டுக் கழகத்துடன் இணைந்து நேற்று முன்தினம் நடத்திய புத்தாண்டு நிகழ்வுகள் டீன்ஸ் வீதி சுற்றுவட்டாரத்தில் நடைபெற்றன.
+
+இதன் போதான பரிசளிப்பு நிகழ்வு நேற்று முன்தினம் மாலை ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமையில் நடைபெற்றததோடு, முதல் மூன்று இடங்களை பெற்றுக்கொண்ட புத்தாண்டு அழகிகளுக்கு ஜனாதிபதியினால் மகுடம் அணிவிக்கப்பட்டது.
+
+அகில இலங்கை உடல் கட்டழகு போட்டியில் முதல் மூன்று இடங்களைப் பெற்றுக்கொண்டவர்களுக்கும் சைக்கிளோட்ட போட்டியில் வெற்றி பெற்றவர்களுக்கும் ஜனாதிபதி பரிசுகளை வழங்கினார்.
+
+கித்சிறி ராஜபக்‌ஷவினால் இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு நினைவு பரிசு வழங்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/5b70a752.json)
+
+---
+
 ### US research ship granted entry to SL waters for replenishment
 
 *2024-04-29 01:42:33* · [`dailyftlk`](https://www.ft.lk/news/US-research-ship-granted-entry-to-SL-waters-for-replenishment/56-761153) · `en`
@@ -271,6 +375,20 @@ In December of last year, Sri Lanka suspended the entry of foreign research vess
 [Data](articles/08443a72.json)
 
 [Extended Data](ext_articles/08443a72.ext.json)
+
+---
+
+### அபிவிருத்தி உத்தியோகத்தர்கள் பணிப்புறக்கணிப்பு
+
+*2024-04-29 01:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபிவிருத்தி-உத்தியோகத்தர்கள்-பணிப்புறக்கணிப்பு/175-336464) · `ta`
+
+நாடளாவிய ரீதியில் அபிவிருத்தி உத்தியோகத்தர்கள் இன்று சுகவீன விடுமுறையை அறிவித்து பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளனர்.
+
+தமக்கு போக்குவரத்து மற்றும் காகிதாதிகள் உள்ளிட்டவற்றை வழங்காமைக்கான உரிய தீர்வை பெற்றுத்தருமாறு கோரி அவர்கள் பணிப்புறக்கணிப்பில் ஈடுபடவுள்ளனர் என அதன் தலைவர் அனுராத செனவிரத்ன தெரிவித்துள்ளார்.  (a)
+
+◼️
+
+[Data](articles/8a6b4afd.json)
 
 ---
 
@@ -575,6 +693,22 @@ This is the success of the government and this is a success for its members. Inv
 [Data](articles/f530be05.json)
 
 [Extended Data](ext_articles/f530be05.ext.json)
+
+---
+
+### இன்றைய தினம் குறித்து விடுக்கப்பட்ட எச்சரிக்கை
+
+*2024-04-28 22:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-தினம்-குறித்து-விடுக்கப்பட்ட-எச்சரிக்கை/175-336461) · `ta`
+
+நாடளாவிய ரீதியில் இன்று (29) பல பகுதிகளில் வெப்பநிலையானது அவதானம் செலுத்த வேண்டிய மட்டத்திற்கு அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+வடக்கு, வடமத்திய, சப்ரகமுவ, கிழக்கு, மற்றும் வடமேல் மாகாணங்களிலும் மொனராகலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களில் மனித உடலால் உணரப்படும் அளவிற்கு வெப்பம் அதிகரிக்கக்கூடும்.
+
+இதன்போது போதிய அளவு நீர் அருந்துதல், முடிந்தவரை நிழலான இடங்களில் ஓய்வெடுத்தல், வெட்ட வெளியில் நடமாடுவதைக் கட்டுப்படுத்துதல் போன்ற சுகாதார ஆலோசனைகளைப் பின்பற்றுமாறு  வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/4b83500d.json)
 
 ---
 
@@ -2131,151 +2265,5 @@ People are urged to verify the identities of such persons from Senior Assistant 
 [Data](articles/9d3e7abc.json)
 
 [Extended Data](ext_articles/9d3e7abc.ext.json)
-
----
-
-### Public warned over individuals misleading investors, job seekers, visa applicants
-
-*2024-04-28 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-warned-over-individuals-misleading-investors-job-seekers-visa-applicants/155-281504) · `en`
-
-Colombo, April 28 (Daily Mirror)- The public are urged to exercise caution over certain individuals who are misleading investors, job seekers and visa applicants while claiming to hold positions within the Presidential Secretariat.
-
-The President's Media Division (PMD) said reports have been received that certain individuals are misleading investors, job seekers and visa applicants and are fraudulently obtaining money by submitting forged documents while claiming to hold positions within the Presidential Secretariat.
-
-People are urged to verify the identities of such persons from Senior Assistant Secretary Prasad Senarath on telephone number 0715308032.
-
-◼️
-
-[Data](articles/b5edb97a.json)
-
-[Extended Data](ext_articles/b5edb97a.ext.json)
-
----
-
-### A controversial video from Hamas
-
-*2024-04-28 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196051) · `si`
-
-Hamas released a video showing two from the Oct 7 attack, identifying them as Omry Mirian and Seagal. The video's recording date is unspecified but recent. Protests in Israel demand the release of 129 hostages, with 34 deaths reported.
-
-🟩
-
-Hamas, Gaza, has issued a video of two people from the October 7 attack.
-
-They point out for 47-year-old Omry Mirian and American Origin as 64-year-old Seagal.
-
-It is reported that although the video was recorded was not specified, it was recorded in recent years.
-
-The Israeli people have begun protests, demanding the Israeli government to release the hostage of a hostage.
-
-There are still 129 Israeli hostages still in Hamas and 34 have died.
-
-◼️
-
-[Data](articles/67352db2.json)
-
-[Extended Data](ext_articles/67352db2.ext.json)
-
----
-
-### World Economic Forum gets underway in Saudi Arabia
-
-*2024-04-28 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Economic-Forum-gets-underway-in-Saudi-Arabia/108-281503) · `en`
-
-Saudi Arabia is hosting the first-ever special meeting of the World Economic Forum in the capital, Riyadh, which will discuss many important issues such as international cooperation, growth, and energy during the period 28th -29th April 2024,  Saudi Ambassador Khalid Hamoud Alkahtani said .
-
-Issuing a statement, he said the  event is one of the outcomes of the cooperation agreement between the Kingdom of Saudi Arabia and the World Economic Forum.
-
-The Riyadh meeting will host more than 1000 participants, including international experts, opinion leaders, and thinkers, from international organizations, government sectors, academic institutions, and the business sector, to discuss current global challenges in the areas of development, within fruitful dialogues that enhance global cooperation and stimulate joint international efforts to innovate sustainable solutions.
-
-...
-
-[Data](articles/b3a9bb38.json)
-
-[Extended Data](ext_articles/b3a9bb38.ext.json)
-
----
-
-### Sri Lanka increases death
-
-*2024-04-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196050) · `si`
-
-Sri Lanka's annual childbirths declined from 325,000 to 280,000 in 2020, while annual deaths rose from 140,000 to 180,000, impacting population growth negatively.
-
-🟩
-
-The Registrar General of the Registrar Lakshika Ganepola said that the number of annual childbirths of the country will be demonstrated in 2020.
-
-The number of annual births that were about 325,000 pre-20s before the year 2020 had declined to 280,000.
-
-It is reported that annual death has been increased from 140,000 to 180,000.
-
-The Registrar General's Department points out that this situation will adversely influence population growth.
-
-◼️
-
-[Data](articles/418128e5.json)
-
-[Extended Data](ext_articles/418128e5.ext.json)
-
----
-
-### Happy Life...
-
-*2024-04-28 13:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Happy-Life/110-281502) · `en`
-
-The 'City Pet Animal Hospital', Pelawatta branch, celebrated their third anniversary of compassionate care and dedication to pets under the theme 'Happy Life'. Several programms such as the rabies vaccination programme, the cats and dogs fashion show and live photo printing, were held to mark the event. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/371be10a.json)
-
-[Extended Data](ext_articles/371be10a.ext.json)
-
----
-
-### ‘Economy has stabilized, growth is now emerging’ - Semasinghe
-
-*2024-04-28 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98894/economy-has-stabilized-growth-is-now-emerging-semasinghe) · `en`
-
-State Minister of Finance Shehan Semasinghe says that Sri Lanka’s economy has been stabilized with the continuous appreciation of Sri Lankan Rupee, and the growth is now emerging.
-
-Posting on ‘X’ (formerly Twitter), Semasinghe expressed that the strengthening of the Sri Lankan Rupee will make the purchasing of goods and services cheaper over time.
-
-This will lead to increased purchasing power, helping to alleviate inflationary pressures and contribute to price stability and financial system stability, he added.
-
-Furthermore, the State Minister stated that after a contraction of 7.8% in 2022, the GDP returned to growth in the 3rd and 4th quarters of 2023, with Q4 GDP growth reaching 4.5%.
-
-Recognizing the progress in macroeconomic reforms, the measures to stabilize the economy has thus far been successful, Semasinghe said, adding that the government is now in the process of transitioning the economy to a new growth path.
-
-◼️
-
-[Data](articles/a6af5c6c.json)
-
-[Extended Data](ext_articles/a6af5c6c.ext.json)
-
----
-
-### Shutdown police arrested for constable
-
-*2024-04-28 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182143) · `ta`
-
-A police constable sacked for narcotics sale was arrested with drugs. He was caught by the Criminal Investigation Department at Divulapitiya Ulugade junction. The suspect, sacked in 2022, was involved in a murder case in Gampaha.
-
-🟩
-
-The Western Province Northern Criminal Investigation Department said that a police constable who was sacked for sale of narcotics was arrested with drugs.
-
-The suspect was arrested by the Criminal Investigation Department on the suspicion of the identity card showed by the suspect at the Divulapitiya Ulugade junction.
-
-During a further inquiry into the arrested suspect, police said that he was sacked at the Pettah police station in 2022.
-
-Investigations have revealed that he has helped to replace and hide parts of a car involved in the murder in Gampaha.
-
-◼️
-
-[Data](articles/89b93521.json)
-
-[Extended Data](ext_articles/89b93521.ext.json)
 
 ---

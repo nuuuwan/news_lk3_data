@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 16:04:20**
+As of **2024-04-29 16:18:36**
 
 ## Newspaper Stats
 
-*Scraped **21,610** Articles*
+*Scraped **21,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,85 @@ tamilmirrorlk | 2,512
 adaderanalk | 2,568
 virakesarilk | 3,255
 dailymirrorlk | 3,359
-adaderanasinhalalk | 3,501
+adaderanasinhalalk | 3,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,597 (99.9%) of 21,610 articles have been extended.
+21,610 (100.0%) of 21,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### பாசிக்குடா கடலில் காணாமல் போன நபர் சடலமாக மீட்பு!
+### දකුණේ අපරාධ මැඩලිමට විශේෂ පොලිස් කණ්ඩායම් 30ක්
+
+*2024-04-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196097) · `si`
+
+දකුණු පළාතේ පාතාල ක්‍රියාකරම් හා අපරාධ මැඩලීම සඳහා විශේෂ පුහුණුව සහිත පොලිස් කණ්ඩායම් 30ක් යෙදවීමට කටයුතු කර තිබේ.
+
+මත්ද්‍රව්‍ය ජාවාරම් සිදුවන විට හා අපරාධයක් සිදුවූ විට ක්ෂණිකව ක්‍රියාත්මක විය හැකි වන පරිදි මිරිස්ස ප්‍රදේශයේ පිහිටුවා තිබූ මාතර අපරාධ කොට්ඨාසයේ මෙහෙයුම් කටයුතු මාතර ඉසදින් නගරයේ අද ස්ථාපනය කළේය.
+
+සහකාර පොලිස් අධිකාරිවරයෙකුගේ අධීක්ෂණය යටතේ මෙම විශේෂ පොලිස් ඒකකය පිහිටුවා ඇති අතර ඒ සඳහා පොලිස් නිල සුනඛ ඒකකයක්ද, විශේෂ පුහුණුව ලත් ප්‍රහාරක පොලිස් ඒකකයක් අනුයුක්තව තිබිම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/435d1964.json)
+
+---
+
+### Recovery of missing person in Pasikuda Sea
 
 *2024-04-29 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/182246) · `ta`
 
-கல்குடா - பாசிக்குடா கடலில் குளித்துக் கொண்டிருந்த நபர் இன்று திங்கட்கிழமை (29) சடலமாக மீட்கப்பட்டுள்ளார்.
+A man missing in Pasikuda Sea was recovered after a 3-hour search by Calcutta divers on Monday, 29th. He was part of a group from Batticaloa town who went bathing on Sunday, 28th. The police are investigating the incident.
 
-மட்டக்களப்பு நகரைச் சேர்ந்த குழுவினர் ஒன்று சேர்ந்து ஞாயிற்றுக்கிழமை (28) குளித்துக் கொண்டிருந்த போதே அதில் ஒருவர் காணாமல் போனார்.
+🟩
 
-இவ்வாறு காணாமல் போன நபரை கல்குடா டைவர்ஸ் அணியினர் நேற்று 3 மணிநேரம் தேடியும் அந்நபர் கிடைக்கவில்லை.
+A man who was bathing in the Kalkuda - Pasikuda Sea has been recovered on Monday (29).
 
-இந்நிலையில்,  இன்று தீவிர தேடுதலின் பின்னர் நீரில் மூழ்கிய நபர் சடலமாக மீட்கப்பட்டுள்ளார்.
+One of them disappeared while a group of Batticaloa town was bathed on Sunday (28).
 
-இந்த சம்பவம் தொடர்பில் கல்குடா பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதுடன், பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Calcutta divers team searched for the missing person for 3 hours yesterday.
+
+In this case, the man who drowned after a serious search today has been recovered.
+
+A complaint has been lodged at the Calcutta Police Station and the police are conducting investigations.
 
 ◼️
 
 [Data](articles/a9231aeb.json)
 
+[Extended Data](ext_articles/a9231aeb.ext.json)
+
 ---
 
-### පොලීසියට එරෙහිව පොලීසියෙන් ශ්‍රේෂ්ඨාධිකරණයට ආ පෙත්සම්
+### Petitions to the Supreme Court against police
 
 *2024-04-29 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196096) · `si`
 
-අරගලය පැවති සමයේ මැති ඇමතිවරුන්ගේ නිවාස ගිනිතැබීමේ සිද්ධීන් වළක්වාලීමට කටයුතු නොකළේ යැයි ස්ථාන මාරු කර සිටි පොලිස් ස්ථානාධිපතිවරු පස්දෙනෙකුට මීට පෙර අධිකරණය හමුවේ ඇතිකරගත් එකඟතාවය පරිදි සුදුසු පොලිස් ස්ථාන ලබාදීමට කටයුතුකර ඇති බව පොලිස්පතිවරයා අද (29) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+Five OICs of the IGP petition the Supreme Court, claiming the IGP failed to prevent ministers' houses during protests. The IGP's AG, Viraj Dayaratne, defends that suitable police stations will be provided. Three OICs agree to the proposed stations, but two reject them, leading to a May 29 hearing for the latter.
 
-පොලිස් ස්ථානාධිපති පස්දෙනෙකු විසින් ගොනුකර තිබූ පෙත්සම් අද අගවිනිසුරු ජයන්ත ජයසූරිය, ගාමිණී අමරසේකර සහ ඒ.එච්.එම්.ඩී. නවාස් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී පොලිස්පතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විරාජ් දයාරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මීට පෙර අධිකරණය හමුවේ ඇතිකරගත් එකඟතාවය පරිදි පෙත්සම්කරුවන්ට සුදුසු පොලිස් ස්ථාන ලබාදීමට පොලිස්පතිවරයා කටයුතු කර ඇති බව සඳහන් කළේය.
+Five OIC of the Inspector General of Police (IGP) has informed the Supreme Court today that five OIC had not taken measures to prevent the houses of ministers during the struggle.
 
-ඒ අනුව පෙත්සම්කාර පොලිස් ස්ථානාධිපති තුන්දෙනෙකු එම පොලිස් ස්ථාන බාරගැනීමට එකඟතාවය පළකිරීමත් සමගම ඔවුන් විසින් ඉදිරිපත් කළ පෙත්සම් පිළිබඳ විභාගය අවසන් කිරීමට විනිසුරු මඩුල්ල තීන්දු කර තිබුණි.
+Petitions filed by five OICs Chief Justice Jayantara Jayasuriya and Gamini Amarasekera and AHMD. The three-member judges with Nawaz were summoned before the Supreme Court Bench.
 
-...
+Additional Solicitor General Viraj Dayaratne appearing on behalf of the IGP, said that the Inspector General of Police (IGP) has taken place to provide suitable police stations to the petitioners.
+
+According to the agreement with three OIC of the petitioner police stations, the panel of judges had decided to finish the examination of the petitions filed by them.
+
+However, two petitioners have not agreed to accept police stations proposed by the IGP.
+
+Accordingly, the panel of judges were ordered to be summoned to the petitions of the two OICs of the petitioners on May 29.
+
+◼️
 
 [Data](articles/1bc291cd.json)
+
+[Extended Data](ext_articles/1bc291cd.ext.json)
 
 ---
 
@@ -86,23 +118,31 @@ Consequently, the Ella Divisional Secretariat, Ella Pradeshiya Sabha, along with
 
 [Data](articles/b380f8a1.json)
 
+[Extended Data](ext_articles/b380f8a1.ext.json)
+
 ---
 
-### முன்னாள் பாராளுமன்ற உறுப்பினர் ஈழவேந்தன் காலமானார்..!
+### Former Parliamentarian Eelavendan passed away ..!
 
 *2024-04-29 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182238) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஈழவேந்தன் தனது 91 ஆவது வயதில் காலமானார்.
+Eelavendan, a former TNA parliamentarian, died at 91. Elected in 2004, he lost his seat in 2007 due to absence from parliament.
 
-கனடா – டொராண்டோவிலுள்ள  வைத்தியசாலையில் உடல்நலக் குறைவால் அனுமதிக்கப்பட்டிருந்த நிலையில் அவர் உயிரிழந்துள்ளார்.
+🟩
 
-2004 ஆம் ஆண்டு பாராளுமன்றத் தேர்தலில் தமிழ்த் தேசியக் கூட்டமைப்பின் தேசியப் பட்டியல் உறுப்பினராக ஈழவேந்தன் தனது 72ஆவது வயதிலேயே பாராளுமன்றத்திற்கு தெரிவுசெய்யப்பட்டிருந்தார்.
+Former Tamil National Alliance (TNA) parliamentarian Eelavendan passed away at the age of 91.
 
-இந்நிலையில், தொடர்ந்து மூன்று மாதங்களுக்கு மேலாக நாடாளுமன்றத்துக்குச் செல்லாத காரணத்தினால் அவரது நாடாளுமன்ற உறுப்பினர் பதவி 2007 நவம்பரில் பறிபோயிருந்தது.
+He died after being admitted to a hospital in Canada - Toronto.
+
+In the 2004 parliamentary election, Eelamavendan was elected to parliament at the age of 72 as a member of the National List of the Tamil National Alliance.
+
+In November 2007, his parliamentary position was lost in November 2007 as he did not go to parliament for more than three months.
 
 ◼️
 
 [Data](articles/a8cf5214.json)
+
+[Extended Data](ext_articles/a8cf5214.ext.json)
 
 ---
 
@@ -122,55 +162,81 @@ Under interrogation in camera, the boy revealed that the woman who accompanied h
 
 [Data](articles/f9300e3e.json)
 
+[Extended Data](ext_articles/f9300e3e.ext.json)
+
 ---
 
-### காஸா போர் நிறுத்தம் : இஸ்ரேலின் புதிய முன்மொழிவுகளை ஹமாஸ் ஆராய்கிறது
+### Gaza Ceylon: Hamas examines Israel's new proposals
 
 *2024-04-29 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182239) · `ta`
 
-காஸா போர் நிறுத்தம் மற்றும் கைதிகள் பரி­மாற்றம் தொடர்­பான தமது முன்­மொ­ழி­வு­க­ளுக்கு இஸ்­ரேலின் பதில் முன்மொழிவு அறிக்கை தமக்கு கிடைத்­துள்­ள­தா­கவும், இதை தாம் ஆராய்ந்­து ­வ­ரு­வ­தா­கவும் ஹமாஸ் இயக்கம்   தெரி­வித்­துள்­ளது.
+Hamas is reviewing Israel's new ceasefire and prisoner exchange proposals. Israel's response has been sent to Hamas, with Egyptian mediators facilitating talks. Despite a ceasefire, Israel's airstrikes continue, and the Gaza Health Ministry reports 34,388 deaths and 77,437 injuries since October 7. Israel claims 129 abducted people remain, and during the last ceasefire, 81 Israelis and 24 foreigners were released, along with 240 Palestinians. Two Palestinians were killed by Israeli soldiers near Jenin, and an Israeli attack in Lebanon resulted in the death of three, including two Hizbullah members.
 
-ஹமாஸ் அர­சியல் பிரிவின் பிரதித் தலைவர் கலீல் அல்-­ஹேயா சனிக்கிழமை (27) விடுத்த அறிக்­கை­யொன்றில், 'ஹமாஸ் இயக்­கத்தின் நிலைப்­பாடு தொடர்பில் எகிப்து மற்றும் கட்டார் மத்­தி­யஸ்­தர்­க­ளுக்கு ஏப்ரல் 13 ஆம் திகதி அனுப்­பிய முன்­மொ­ழி­வுக்கு ஸியோ­னிச ஆக்­கி­ர­மிப்­பா­ளர்­களின் உத்­தி­யோ­க­பூர்வ பதில் முன்­மொ­ழிவு இன்று இந்த இயக்­கத்­துக்கு கிடைத்­துள்­ளது. இந்த முன்­மொ­ழிவை ஹமாஸ் ஆரா­ய­வுள்­ளது. அதன் பின்னர் அது தனது பதிலை கைய­ளிக்கும்' எனத் தெரி­வித்­துள்ளார்.
+🟩
 
-காஸா போர்­நி­றுத்தம் தொடர்­பான புதிய சுற்று பேச்­சு­வார்த்­தை­க­ளுக்­காக எகிப்­திய மத்­தி­யஸ்­தர்கள் வெள்­ளிக்­கி­ழமை இஸ்­ரேலை சென்­ற­டைந்த நிலையில், இஸ்­ரேலின் பதில் யோச­னைகள் ஹமா­ஸுக்கு அனுப்­பப்­பட்­டுள்­ளன.
+The Hamas Movement has stated that Israel's reply to its proposals on the Gaza ceasefire and the exchange of prisoners has received the proposal report.
+
+In a statement issued by the Deputy Chairman of the Hamas Political Division on Saturday (27), the official response of the Zionist occupants was issued to the proposal to the Egyptian and Qatar mediators on April 13 on the position of the Hamas movement.. Hamas will explore this proposal. Then it will hand over its answer. ”
+
+Israel's response ideas have been sent to Hamas as the Egyptian mediators reached Israel on Friday for new round of talks on the Gaza ceasefire.
+
+Al -Kahera, allegedly involved in the Egyptian intelligence service, said that there has been a significant improvement in reducing the gaps of the Egyptian and Israeli representatives.
+
+There have been new expectations on the ceasefire as Israel's airstrike continued on Saturday night on Gaza's Rafa city.
 
 ...
 
 [Data](articles/5c7571f3.json)
 
+[Extended Data](ext_articles/5c7571f3.ext.json)
+
 ---
 
-### ஈஸ்டர் தாக்குதலில் பாதிக்கப்பட்ட 223 குடும்பங்களுக்கு அரசாங்கம் வீடுகளை நிர்மாணித்துக் கொடுத்துள்ளது - பிரசன்ன ரணதுங்க
+### The government has built houses for 223 families affected by the Easter attack - Prasanna Ranatunga
 
 *2024-04-29 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182244) · `ta`
 
-ஈஸ்டர் தாக்குதலில் பாதிக்கப்பட்ட 223 குடும்பங்களுக்கு வீடுகள் அமைக்கப்பட்டு  வழங்கப்பட்டுள்ளது என்று  நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார். மேலும் 11 வீடுகளின் நிர்மாணப் பணிகள் ஆரம்பிக்கப்பட்டுள்ளன.
+The government has built houses for 223 families affected by the Easter attack, spending 139 million rupees. 11 more houses are under construction. The Gampaha Katuwapitiya church received houses for 144 families, costing 90.855 million rupees. The Kochchikadai church in Batticaloa district received houses for 70 families. The second phase of the project, costing over 5 million rupees, includes 11 houses. The government also built a Sunday moral school for the Kattuvapitti church, costing over 13 crores, with 14 classrooms on 2 floors.
 
-223 குடும்பங்களுக்கான வீடுகளை நிர்மாணிப்பதற்காக அரசாங்கம் 139 மில்லியன் ரூபாவை செலவிட்டுள்ளது.  காணியுடன் கூடிய புதிய வீடு கட்டுதல், புதிய வீடுகள் கட்டுதல், வீடுகளை புனரமைப்பு செய்தல் போன்ற பணிகள் இதன் கீழ் மேற்கொள்ளப்பட்டுள்ளன.
+🟩
 
-இத்திட்டத்தின் கீழ் கம்பஹா கட்டுவாப்பிட்டிய தேவாலயத்தை அண்மித்த பகுதிகளில் அதிகளவான குடும்பங்களுக்கு வீடுகள் வழங்கப்பட்டுள்ளன. கட்டுவாபிட்டிய தேவாலயத்துடன் தொடர்புடைய 144 குடும்பங்களுக்கு இந்த வீட்டுத்திட்டத்தின் கீழ் நிவாரணம் வழங்கப்பட்டுள்ளது. அந்த தேவாலயங்கள் தொடர்பான வீடமைப்பு திட்டத்திற்காக மாத்திரம் 90.855 மில்லியன் ரூபா செலவிடப்பட்டுள்ளது.
+Minister of Urban Development and Housing Prasanna Ranatunga said that 223 families affected by the Easter attack. The construction of 11 more houses has been started.
+
+The government has spent 139 million rupees to build houses for 223 families.The construction of a new home, the construction of new houses and the reconstruction of houses has been carried out.
+
+Under this scheme, the Gampaha Katuwapitiya church has been provided with houses for more families in the area nearby.. 144 families related to the Kattuvapitiya church have been provided under this housing scheme. 90.855 million has been spent on the housing project on those churches.
+
+Nine families affected by the Easter attack on the Kochchikadai church have been constructed for 70 families affected by the Easter attack in the Batticaloa district.
 
 ...
 
 [Data](articles/26fed55d.json)
 
+[Extended Data](ext_articles/26fed55d.ext.json)
+
 ---
 
-### මේක අනතුරු ඇඟවීමක් - ප්‍රවේසම්වන්න
+### This is a warning - careful
 
 *2024-04-29 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196095) · `si`
 
-ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් අද (29) කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Warning: Strong lightning expected in Western, Southern, Sabaragamuwa, Uva, and North-central areas, with thundershowers in Mannar. Temporary winds may occur. Take precautions to minimize lightning damage.
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, මධ්‍යම, දකුණු, සබරගමුව, ඌව, වයඹ සහ උතුරු-මැද පළාත්වලත් මන්නාරම දිස්ත්‍රික්කයේත් සවස් කලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි ඇතිවන විට එම ප්‍රදේශවල තාවකාලික තද සුළං ඇතිවිය හැකි බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology has issued an announcement announcement on a strong lightning today (29).
 
-අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The announcement shows that the Western, Southern, Southern, Southern, Sabaragamuwa, Uva, Uva and North-central areas and thundershowers at the Mannar District.
+
+The Met Department forecasts temporary winds in these areas when thundershowers.
+
+The Department of Meteorology urges the public to take necessary steps to minimize the damages caused by lightning.
 
 ◼️
 
 [Data](articles/46f74c34.json)
+
+[Extended Data](ext_articles/46f74c34.ext.json)
 
 ---
 
@@ -198,17 +264,25 @@ The body of the infant has been sent to the Ragama Hospital for examination and 
 
 ---
 
-### மக்கள் காங்கிரஸ் தலைவர் ரிஷாட் பதியுதீன் - இந்திய உயர்ஸ்தானிகர் சந்திப்பு
+### People's Congress President Rishad Bathiudeen - Indian High Commissioner Meeting
 
 *2024-04-29 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182242) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸ் தலைவரும் பாராளுமன்ற உறுப்பினருமான ரிஷாட் பதியுதீன் மற்றும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோருக்கு இடையில் விசேட சந்திப்பொன்று கடந்த வியாழக்கிழமை (25) இந்திய உயர்ஸ்தானிகராலயத்தில் இடம்பெற்றது.
+Rishad Bathiudeen, People's Congress leader, met with Indian High Commissioner Santosh Ja, expressing gratitude for India's support during Sri Lanka's economic crisis. They discussed addressing challenges for fishermen in the East, sustainable livelihoods for war-affected in the North, and strengthening ties between Sri Lanka and India.
 
-இக்கலந்துரையாடலின் போது, பொருளாதார நெருக்கடியில் இலங்கை மூழ்கியிருந்த காலகட்டத்தில், இந்தியா வழங்கிய விலைமதிப்பற்ற ஆதரவிற்கு மக்கள் காங்கிரஸ் தலைவர் ரிஷாட் மனமார்ந்த நன்றிகளைத் தெரிவித்ததுடன், வடக்கு மற்றும் கிழக்கு பிராந்தியங்களில், போரினால் பாதிக்கப்பட்ட மக்களுக்கு 50,000 வீடுகளை வழங்கியமைக்காகவும் அவர் தனது பாராட்டுக்களை தெரிவித்தார்.
+🟩
+
+A special meeting was held at the Indian High Commission on Thursday (25) between All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen and Indian High Commissioner to Sri Lanka Santosh Ja.
+
+During the meeting, he expressed his heartfelt thanksgiving People's Congress leader Rishad for his precious support for India's precious support during the economic crisis and he congratulated the war -affected people in the North and East.
+
+In addition, in the Eastern Province, especially Nintavur, Oluvil, Karadivu, Mallikaikkadu, Pandaruppu, Maruthamunai and Kalmunai areas, the need to immediately address the challenges faced by the affected fishermen, and the High Commissioner to visit the East in the coming days.He appealed to the Government of India to provide the necessary assistance to control the seas in these areas and to protect the livelihood of the fishermen.
 
 ...
 
 [Data](articles/73608dc9.json)
+
+[Extended Data](ext_articles/73608dc9.ext.json)
 
 ---
 
@@ -230,23 +304,31 @@ In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhen
 
 ---
 
-### வடக்கு கல்வி ஊழல்வாதிகளால் சீரழிந்துள்ளது - தேசிய மக்கள் சக்தியின் யாழ். மாவட்ட அமைப்பாளர்
+### Northern education is degraded by corrupt - National People's Power. District organizer
 
 *2024-04-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182235) · `ta`
 
-வட மாகாணத்தில் கல்வியில் தகுதியற்றவர்களுக்கும், குற்றச்சாட்டு உள்ளவர்களுக்கும் உயர் பதவியை வழங்கி வடக்கு கல்வியை அழிக்கும் முயற்சிகள் இடம்பெற்று வருவதாக தேசிய மக்கள் சக்தியின் யாழ்ப்பாண மாவட்ட அமைப்பாளர் இராமலிங்கம் சந்திரசேகரன் குற்றம் சாட்டியுள்ளார்.
+Jaffna District Organizer Ramalingam Chandrasekaran accuses Northern Province of corruption in education, criticizing lack of qualified secretaries and administrative issues. He suggests the Northern Governor should address these issues.
 
-வடக்கு கல்வியில் ஊழல் மலிந்து காணப்படுகிறது. குற்றச்சாட்டுக்கு உள்ளாக்கப்படும் அதிகாரிகளுக்கு தண்டனை வழங்கப்படாமல் பதவி உயர்வு வழங்கும் நடைமுறை வடக்கில் காணப்படுவது வடக்கு கல்வியை அழித்துவிடும் செயற்பாடாகவே பார்க்கிறேன்.
+🟩
 
-வடக்கில் காணப்படும் நான்கு அமைச்சுகளில் தகுதியான செயலாளர்கள் இல்லாத காரணத்தினால் நிர்வாக ரீதியான முடிவுகள் எடுப்பதில் பிரச்சனைகள் காணப்படுகிறது.
+Jaffna District Organizer of the National People's Power Ramalingam Chandrasekaran has accused the Northern Province of the Northern Province of the Northern Province of the Northern Province.
 
-தகுதியானவர்களை நியமிக்க வாய்ப்புகள் கிடைத்தும் அவர்களை ஒதுக்கி தமக்குத் தேவையான அலிபாபா திருடர்களை பதவியில் வைத்திருப்பதற்கு சிலர் முயற்சி செய்கின்றனர்.
+Corruption is found in northern education. I see the procedure in the North as a destruction of Northern education, without being punished for the accused officers.
 
-வடக்கு ஆளுநர் இத்தகைய செயல்பாடுகள் இடம்பெறுவதை கண்டும் காணாமல் இருக்கிறாரா அல்லது அவரும் இத்தகைய செயல்பாடுகளின் பின்னணியில் உள்ளாரா என சந்தேகம் எழுகிறது.
+There are no qualified secretaries in the four ministries in the North and there are problems in making administrative decisions.
 
-...
+Some are trying to put them aside and have the opportunity to hire eligible people.
+
+It is doubtful whether the Northern Governor is overlooking such activities or whether he is behind such activities.
+
+Therefore, the Northern Province Governor should take appropriate action as the Northern Education Corruption is deteriorating.
+
+◼️
 
 [Data](articles/e585c959.json)
+
+[Extended Data](ext_articles/e585c959.ext.json)
 
 ---
 
@@ -272,19 +354,31 @@ The bus was reported that the bus was infectioning on the highway.
 
 ---
 
-### டிரான் அலஸை  பொதுமக்கள் பாதுகாப்பு அமைச்சர் பதவியிலிருந்து உடனடியாக ஜனாதிபதி நீக்கவேண்டும் - இலங்கை சட்டத்தரணிகள் சங்கம் வேண்டுகோள்
+### The President should immediately remove Tran Ales from the post of Minister of Public Safety
 
 *2024-04-29 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182236) · `ta`
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் சமீபத்தில் விசேட அதிரடிப்படையினரின் முகமொன்றில் இடம்பெற்ற நிகழ்வில் தெரிவித்த கருத்துக்களை இலங்கை சட்டத்தரணிகள் சங்கம் தனது சமீபத்தைய பேரவை கூட்டத்தில் கண்டித்துள்ளது.
+The Sri Lanka Lawyers Association criticizes the government's actions, including the removal of Tran Ales from the Minister of Public Safety post, and the Special Task Force's involvement. They argue that expelling perpetrators is not a crime and that the judiciary's actions are justified. The association also claims that the judiciary's punishment and the deaths of law enforcement officers are increasing, leading to demands for the Minister to withdraw his claims and for the President to be removed for promoting impunity and ignoring the law.
 
-குற்றவாளிகளை நாட்டிலிருந்து வெளியேற்றுவது குற்றமில்லை சரியான விடயத்திற்காக உங்கள் கரங்களில் உள்ள ஆயுதங்களை பயன்படுத்த தயங்கவேண்டாம் நாங்கள் உங்களிற்கு ஆதரவாகயிருப்போம் என அமைச்சர் தெரிவித்திருந்தார்.
+🟩
 
-இந்த கருத்து குறித்து ஆழ்ந்த கரிசனையை  இலங்கை சட்டத்தரணிகள் சங்கம் இது இலங்கையின் அரசமைப்பில் தெரிவிக்கப்பட்டுள்ள அடிப்படை கொள்கைகளிற்கும் குற்றவியல் நீதி அமைப்புமுறையை வழிநடத்தும் ஏற்றுக்கொள்ளப்பட்ட நடைமுறைகளுக்கும்  முரணாணது எனவும் தெரிவித்துள்ளது.
+The Sri Lanka Lawyers Association has condemned its recent meeting at a meeting held at a face of the Special Task Force.
+
+It is not a crime to expel the perpetrators from the country.
+
+The Sri Lanka Lawyers Association has said that it is contrary to the fundamental policies stated in the constitution of Sri Lanka and the procedures of the Criminal Justice System.
+
+The Sri Lanka Lawyers Association has said that the provision of justice, including fines for those who fail, has said that the judiciary is completely under justification of the judiciary.
+
+The Sri Lankan lawyers' union has said that the deaths of the judiciary and the judicial judicial punishment of the judicial judicial judicial and the judicial judiciary are creating the claim that the deaths of the law enforcement sect have increased.
+
+The Minister of Sri Lanka's Lawyers Association said that the minister continued to make a need to repay them in a state of indiscriminate and misconceptions.
 
 ...
 
 [Data](articles/0605ec35.json)
+
+[Extended Data](ext_articles/0605ec35.ext.json)
 
 ---
 
@@ -662,25 +756,33 @@ Meanwhile, 41 people in the Vavuniya district and 28 in the Mullaitivu district 
 
 ---
 
-### பிலிப்பைன்ஸில் கடும் வெப்பம் ; பாடசாலைகளுக்கு விடுமுறை ;  கற்றலுக்கு இணையவழி கல்வி முறை
+### Heat in the Philippines;Holidays for schools;Egline education system for learning
 
 *2024-04-29 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/182227) · `ta`
 
-பிலிப்பைன்ஸ் நாட்டில் கடும் வெப்பம் நிலவி வருவதால் 2 நாட்கள் அனைத்து அரசாங்க  பாடசாலைகளுக்கு விடுமுறை அளிக்கப்பட்டுள்ளது. மாணவர்களின் கற்றலுக்கான மாற்று ஏற்பாடாக இணையவழி கல்வியை மேற்கொள்ள அந்நாட்டு கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+Due to extreme heat in the Philippines, all government schools are closed for 2 days. The Ministry of Education is arranging alternative learning methods. Temperatures are expected to reach 37°C (98.6°F) in the capital, with a perceived human body temperature of 45°C. This heat wave has led to the closure of 13 power plants and electricity supply issues on Luzon Island, affecting economic production.
 
-இந்நிலையில், பிலிப்பைன்ஸின் தலைநகர் பகுதியில் அடுத்த மூன்று நாட்களில் வெப்பநிலை 37 டிகிரி செல்சியஸை (98.6 டிகிரி பாரன்ஹீட்) எட்டக்கூடும் என கணிக்கப்பட்டுள்ளது.
+🟩
 
-மனித உடலில் உணரப்படும் வெப்பநிலையான வெப்பக் குறியீடு 45 டிகிரி செல்சியஸ் என்ற அபாயகரமான மட்டத்திற்கு உயரும் என எதிர்பார்க்கப்படுகிறது.
+All government schools have been granted 2 days due to heavy heat in the Philippines. The Ministry of Education has taken steps to carry out educational education as an alternative arrangement for students' learning.
 
-இதேவேளை, மே மாதம் இரண்டாவது வாரம் வெப்பக் குறியீடு  ‘எச்சரிக்கை நிலை’ வரை அதிகரிக்கும் என தெரிவிக்கப்பட்டுள்ளது.
+In this case, the temperature is likely to reach 37 degrees Celsius (98.6 degrees Fahrenheit) in the next three days in the capital of the Philippines.
 
-கடும் வெப்பத்தினால் ஏற்பட்ட வரட்சியினால் ஏப்ரல் மாதம் ஆரம்பத்தில் 13 மின் உற்பத்தி நிலையங்கள் மூடப்பட்டுள்ளது.
+The temperature that is perceived in the human body is expected to rise to a fatal level of 45 degrees Celsius.
 
-பிலிப்பைன்ஸ் பொருளாதார உற்பத்தியில் முக்கால்வாசி பங்கு வகிக்கும் லூசோனி தீவிற்கு மின்சாரத்தை விநியோகத்தில் வெப்ப அலை சிரமத்தை ஏற்படுத்தியுள்ளது.
+Meanwhile, the second week of May is expected to increase to the warning level.
 
-...
+In early April, 13 power plants were closed due to the drought caused by severe heat.
+
+The heat wave has caused difficulty in the supply of electricity to the Luconi Island, which plays three -quarters of the Philippines economic production.
+
+Passengers were inconvenienced as two of the six cooling towers were parked on Sunday at the airport in the capital Manila.
+
+◼️
 
 [Data](articles/73355fbf.json)
+
+[Extended Data](ext_articles/73355fbf.ext.json)
 
 ---
 
@@ -2349,27 +2451,5 @@ Super fast bowler Visitor Pathirana took 02 wickets in yesterday's day.
 [Data](articles/66a29f25.json)
 
 [Extended Data](ext_articles/66a29f25.ext.json)
-
----
-
-### Mullaitivu man claims to be tallest in Sri Lanka
-
-*2024-04-29 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mullaitivu-man-claims-to-be-tallest-in-Sri-Lanka/108-281544) · `en`
-
-Colombo, April 28 (Daily Mirror) - A man in Mullaitivu District claimed to be the tallest person in Sri Lanka.
-
-According to BBC Sinhala Service, Gunasingham Kasenthiran, a former cadre of the proscribed Liberation Tigers of Tamil Eelam (LTTE) who lives in Kaiveli, Puthukudiruppu is seven feet two inches tall.
-
-He laments that he has to face numerous problems due to his abnormal height. Nowhere in Sri Lanka could he find footwear that matches the length of his feet and he has been forced to get them from foreign countries, he states.
-
-Kasenthiran who is the father of two children says that he cannot travel in a bus unless he gets a seat in it and he is forced to make a prior booking for a seat if he travels in a long distance bus.
-
-A trishaw driver by profession, Kasenthiran has to drive his vehicle bending his neck.
-
-◼️
-
-[Data](articles/bed464bb.json)
-
-[Extended Data](ext_articles/bed464bb.ext.json)
 
 ---

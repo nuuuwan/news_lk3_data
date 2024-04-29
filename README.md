@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 13:18:31**
+As of **2024-04-29 13:34:31**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,563 (100.0%) of 21,568 articles have been extended.
+21,568 (100.0%) of 21,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### වාරණයට එරෙහිව විජයදාසගෙන් පෙත්සමක්
+### Fetition from Wijayadasa against censorship
 
 *2024-04-29 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196088) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් ඉකුත් දා කොළඹ දිසා අධිකරණය විසින් නිකුත් කළ වාරණ නියෝගය අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සම සලකා බැලීම සඳහා මැයි මස 02 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+Wijayadasa Rajapakse, SLFP Minister, petitioned the Court of Appeal against censorship, acting as chairman.
 
-අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
+
+The Court of Appeal was ordered to be summoned by the SLFP Minister Wijayadasa Rajapakse as the acting chairman of the SLFP.
+
+The petition was presented by the Minister Wijayadasa Rajapaksa.
 
 ◼️
 
 [Data](articles/617c0533.json)
+
+[Extended Data](ext_articles/617c0533.ext.json)
 
 ---
 
@@ -90,6 +96,8 @@ Investigations have been launched to ascertain whether the hospital staff was un
 
 [Data](articles/9313d098.json)
 
+[Extended Data](ext_articles/9313d098.ext.json)
+
 ---
 
 ### The teenagers arrested in Sydney were ready to kill and die - Australian police
@@ -124,17 +132,23 @@ They used the name of Allah's Veterans.
 
 ---
 
-### Children of Gaza Fund கால எல்லை நீடிப்பு
+### Gaza Fund term border extension of Children
 
 *2024-04-29 12:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Children-of-Gaza-Fund-கால-எல்லை-நீடிப்பு/175-336498) · `ta`
 
-காஸா  மோதல்களினால் பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்குவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில் ஆரம்பிக்கப்பட்ட காஸா சிறுவர் நிதியத்திற்கு (Children of Gaza Fund)  பங்களிப்புச் செய்வதற்கான காலஎல்லை 2024 மே 31 வரை நீடிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe extended the term of the Children of Gaza Fund, launched on May 31, 2024, to aid Gaza conflict victims. Donations can be made to Bank of Tabroban Branch (747) 7040016, with receipts sent to 077-9730396 via WhatsApp.
 
-இதற்குப் பங்களிக்க விரும்பும் நன்கொடையாளர்களுக்கு குறித்த திகதிக்கு முன்னர் தமது அன்பளிப்பை இலங்கை வங்கி தப்ரோபன் கிளையில் (747)   7040016 எனும் வங்கிக் கணக்கில்    வைப்பு செய்து பற்றுச்சீட்டை  077-9730396 என்ற எண்ணுக்கு WhatsApp  ஊடாக அனுப்புமாறு ஜனாதிபதி அலுவலகம் தெரிவித்துள்ளது.
+🟩
+
+President Ranil Wickremesinghe has been extended to the Children of Gaza Fund, which has been launched on May 31, 2024 to provide relief to the victims of the Gaza conflict.
+
+The President's Office has informed the donors who wish to contribute to the Donation of the Bank of Tabroban Branch (747) 7040016 and send the receipt to 077-9730396 via WhatsApp.
 
 ◼️
 
 [Data](articles/bf3ecb60.json)
+
+[Extended Data](ext_articles/bf3ecb60.ext.json)
 
 ---
 
@@ -178,17 +192,25 @@ He said the SJB May Day procession is to begin from Gunasinhapura by 1 pm.
 
 [Data](articles/662f0ae7.json)
 
+[Extended Data](ext_articles/662f0ae7.ext.json)
+
 ---
 
-### அமைச்சர் யோகோ கமிகாவா வருகிறார்
+### Minister Yogo Kamika is coming
 
 *2024-04-29 12:27:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்-யோகோ-கமிகாவா-வருகிறார்/175-336497) · `ta`
 
-ஜப்பானின் வெளிவிவகார அமைச்சர் யோகோ கமிகாவா இலங்கைக்கு  உத்தியோகபூர்வ  விஜயமொன்றை  மேற்கொள்ள உள்ளார். மே 04-05 வரை இரு நாட்களும் இலங்கையில் தங்கியிருப்பார்.
+Japan's Foreign Minister Yogo Kamika visits Sri Lanka May 4-5.
+
+🟩
+
+Japan's Foreign Minister Yogo Kamika is to make an official visit to Sri Lanka. He will stay in Sri Lanka for two days from May 04-05.
 
 ◼️
 
 [Data](articles/4628f70e.json)
+
+[Extended Data](ext_articles/4628f70e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 08:18:39**
+As of **2024-04-29 08:34:09**
 
 ## Newspaper Stats
 
-*Scraped **21,492** Articles*
+*Scraped **21,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,793
-tamilmirrorlk | 2,487
-adaderanalk | 2,558
+tamilmirrorlk | 2,488
+adaderanalk | 2,559
 virakesarilk | 3,230
-dailymirrorlk | 3,346
-adaderanasinhalalk | 3,478
+dailymirrorlk | 3,347
+adaderanasinhalalk | 3,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,492 (100.0%) of 21,492 articles have been extended.
+21,493 (100.0%) of 21,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### උපාධිධාරී ගුරු බඳවාගැනීම් ගැන නිවේදනයක්
+
+*2024-04-29 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196072) · `si`
+
+ජාතික පාසල්වල පවතින සිංහල, දෙමළ හා ඉංග‍්‍රීසි මාධ්‍ය ගුරු පුරප්පාඩු සඳහා උපාධිධාරීන් බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ අද (29) දිනයේ සිට ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+ජාතික පාසල්හි පවතින ගුරු පුරප්පාඩු සඳහා පසුගිය මස 02 දා පැවැති ලද තරග විභාගයේ ප‍්‍රතිඵල අනුව බඳවා ගැනිමේ කටයුතු සිදුකිරීමට නියමිත බව සඳහන්ය.
+
+ඒ අනුව ඔවුන් ශ‍්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට බඳවා ගැනීමට නියමිතය.
+
+අදාළ සම්මුඛ පරීක්ෂණ ලබන මැයි මස 09 වන දා දක්වා ඉසුරුපාය අධ්‍යාපන අමාත්‍යාංශයේදී පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+
+මේ අතර ආර්ථික අර්බුදය හේතුවෙන් කඩා වැටී ඇති දරුවන්ගේ අධ්‍යාපනය නැවත නඟාසිටුවීම සඳහා ආණ්ඩුව විසින් අනුගමනය කරනු ලබන  ක්‍රියාමර්ග ප්‍රමාණවත් නොවන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි.
+
+◼️
+
+[Data](articles/38523fdc.json)
+
+---
+
+### Oklahoma tornadoes kill 4; state of emergency issued amid damage
+
+*2024-04-29 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98907/oklahoma-tornadoes-kill-4-state-of-emergency-issued-amid-damage) · `en`
+
+Tornadoes killed four people in Oklahoma, including an infant, and left thousands without power Sunday after a destructive outbreak of severe weather flattened buildings in the heart of one rural town and injured at least 100 people across the state.
+
+More than 20,000 people were still without electricity hours after tornadoes began late Saturday night. The destruction was extensive in Sulphur, a town of about 5,000 people, where a tornado crumpled many downtown buildings, tossed cars and buses and sheared the roofs off houses across a 15-block radius.
+
+“You just can’t believe the destruction,” Oklahoma Gov. Kevin Stitt said during a visit to the hard-hit town. “It seems like every business downtown has been destroyed.”
+
+...
+
+[Data](articles/3f9f3166.json)
+
+[Extended Data](ext_articles/3f9f3166.ext.json)
+
+---
 
 ### A group of wound injured in hospital
 
@@ -87,6 +125,24 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/75aea62b.json)
 
 [Extended Data](ext_articles/75aea62b.ext.json)
+
+---
+
+### Sri Lanka settles 35 out of 250 million dollars owed to Iran
+
+*2024-04-29 07:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-settles-35-out-of-250-million-dollars-owed-to-Iran/108-281543) · `en`
+
+Colombo, April 28 (Daily Mirror) - Sri Lanka had settled US $ 35 million out of US$ 250 million owed to Iran for oil purchased in 2012, an official said.
+
+Sri Lanka could not make payment because of sanctions on Iran. Later, the government decided to settle the dues bartering tea for oil.
+
+An official who is familiar with the transactions said the country had settled US $ 35 million by the end of February and another US$ 10 million was to be settled soon.
+
+The tea-for-oil deal was agreed upon in December 2021, but exports were delayed by the economic crisis.
+
+◼️
+
+[Data](articles/48a590f4.json)
 
 ---
 
@@ -461,6 +517,24 @@ During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the
 [Data](articles/89b8d71b.json)
 
 [Extended Data](ext_articles/89b8d71b.ext.json)
+
+---
+
+### 21055 டெங்கு நோயாளர்கள் பதிவு
+
+*2024-04-29 01:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21055-டெங்கு-நோயாளர்கள்-பதிவு/175-336466) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 21 ஆயிரத்து 55 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+கொழும்பு மாவட்டத்திலேயே அதிகளவான டெங்கு நோயாளர்கள் பதிவு செய்யப்பட்டுள்ளனர் என அந்த பிரிவு குறிப்பிட்டுள்ளது.
+
+இதன்படி, கொழும்பு மாவட்டத்தில் 4 ஆயிரத்து 532 டெங்கு நோயாளர்களும், கம்பஹா மாவட்டத்தில் 1,936 டெங்கு நோயாளர்களும் பதிவாகியுள்ளனர்.
+
+நிலவும் மழையுடனான காலநிலையினால் டெங்கு நோயினால் பாதிக்கப்படுபவர்களின் எண்ணிக்கை அதிகரிக்கும் சாத்தியம் நிலவுவதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/deb4a31c.json)
 
 ---
 
@@ -2243,95 +2317,5 @@ The President's Office has asked the public to contact the President of Senior A
 [Data](articles/ee164dc0.json)
 
 [Extended Data](ext_articles/ee164dc0.ext.json)
-
----
-
-### Sri Lanka expects 8.5-pct credit growth, $20bn imports in 2024
-
-*2024-04-28 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-8-5-pct-credit-growth-20bn-imports-in-2024-160327/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank is projecting 3.0 percent economic growth and a recovery in private credit to 8.5 percent in 2024 from a 0.6 percent contraction in 2023, in an outlook for the next year.
-
-Exports are projected at 12.9 billion US dollars from 11.9 billion dollars.
-
-Imports are expected to recover to 20 billion dollars in 2024 from 16.8 billion in 2023.
-
-Sri Lanka earns foreign exchange from remittances and also tourism to pay for imports and also repay debt or build reserves as long as the central bank does not cut rates with inflationary open market operations and easy standing facilities to trigger balance of payments crises.
-
-Sri Lanka does not have a penalty rate for standing liquidity facilities.
-
-The central bank is projecting 3.4 months of gross official reserves or about 5.6 billion dollars based on the 20 billion in imports.
-
-...
-
-[Data](articles/9fa5965a.json)
-
-[Extended Data](ext_articles/9fa5965a.ext.json)
-
----
-
-### Bidan, who tried to commit suicide on the bridge
-
-*2024-04-28 14:26:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாலத்தின்-மீதேறி-தற்கொலைக்கு-முயன்ற-பைடன்/50-336445) · `ta`
-
-Joe Biden, the current US chancellor, revealed in an interview that he attempted suicide by climbing a bridge while intoxicated, but changed his mind due to his children. The US presidential election, with Biden and Donald Trump as candidates, is the most anticipated globally.
-
-🟩
-
-The presidential election in the United States is approaching. There are serious campaigns for this. In that respect, Joe Biden, the current chancellor, attended an interview. Speaking at the time, he has spoken that he tried to commit suicide.
-
-America is the most important country in the world powers. The presidential election will be held every four years. This time, Joe Bidan and Donald Trump are contesting on behalf of the Democratic Party.
-
-Joe Bidan is currently ruled on behalf of the Democratic Party. It is noteworthy that Donald Trump was in office in the previous regime. The US presidential election takes place in November. The US presidential election has been the most focused election worldwide.
-
-...
-
-[Data](articles/44456de0.json)
-
-[Extended Data](ext_articles/44456de0.ext.json)
-
----
-
-### The flight caused to Sri Lanka
-
-*2024-04-28 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196052) · `si`
-
-A video at Sydney Airport reportedly shows a person causing a heating issue on a Sri Lanka-bound flight. The suspect, arrested by security, is suspected to have a mental disorder.
-
-🟩
-
-There is a videos in the Sydney Airport at Sydney Airport, Australia, has reportedly reported astrology.
-
-The heating was caused by the entry of a person who was to take the goods on a plane that was to come to Sri Lanka.
-
-The suspect had been arrested by the security forces and the police suspect that he is suffering from a mental disorder.
-
-◼️
-
-[Data](articles/ef939c2c.json)
-
-[Extended Data](ext_articles/ef939c2c.ext.json)
-
----
-
-### One killed in vehicle accident
-
-*2024-04-28 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182148) · `ta`
-
-A 43-year-old man died, and one was seriously injured in a Pandalakama accident involving a private bus and motorcycle on A-12 road.
-
-🟩
-
-Anuradhapura headquarters headquarters police said that a motorcycle was killed and one person was seriously injured in a vehicle accident in Pandalakama area on A -12 road in Puttalam - Anuradhapura.
-
-Saminda Lal, a 43 -year -old man from Pandulagama area, died in the incident, police said.
-
-The incident took place when a private bus and motorcycle collided.
-
-◼️
-
-[Data](articles/4dd89e64.json)
-
-[Extended Data](ext_articles/4dd89e64.ext.json)
 
 ---

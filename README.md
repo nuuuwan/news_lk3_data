@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 14:18:35**
+As of **2024-04-29 14:34:22**
 
 ## Newspaper Stats
 
-*Scraped **21,583** Articles*
+*Scraped **21,585** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 185
 bbccomsinhala | 225
-dbsjeyarajcom | 228
+dbsjeyarajcom | 229
 newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,805
+adalk | 1,806
 tamilmirrorlk | 2,508
 adaderanalk | 2,565
 virakesarilk | 3,247
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,579 (100.0%) of 21,583 articles have been extended.
+21,583 (100.0%) of 21,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### ජපන් විදේශ අමාත්‍යවරිය ශ්‍රී ලංකාවේ සංචාරයක
+### Japanese Foreign Minister visits Sri Lanka
 
 *2024-04-29 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196093) · `si`
 
-ජපන් විදේශ කටයුතු අමාත්‍ය යෝකෝ කමිකාවා මහත්මිය 2024 මැයි 04 වැනි දින සිට 05 වැනි දා දක්වා ශ්‍රී ලංකාවේ නිල සංචාරයක නිරතවීමට නියමිතය.
+Japanese Foreign Minister Yoko Kikawa visits Sri Lanka from May 4, 2024, meeting President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and External Affairs Minister Ali Sabri.
 
-මෙම සංචාරය අතරතුරදී ඇය, ජනාධිපති රනිල් වික්‍රමසිංහ සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන හමුවී සාකච්ඡා පැවැත්වීමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-ජපන් විදේශ කටයුතු අමාත්‍යවරිය ප්‍රමුඛ දූත පිරිස විදේශ කටයුතු අමාත්‍ය අලි සබ්රි මහතා සමඟද නිල සාකච්ඡා පැවැත්වීමට නියමිතව තිබේ.
+Japanese Minister of External Affairs Yoko Kikawa is scheduled to visit Sri Lanka from 4 May 3, 2024.
 
-ජපන් විදේශ කටයුතු අමාත්‍යවරිය සමඟ එරට විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යෙෂ්ඨ නිලධාරීහු පිරිසක්ද මෙම නිල සංචාරයට එක් වෙති.
+During his visit, she is to be held in meeting President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+The official discussions are scheduled to hold official discussions with the External Affairs Minister of External Affairs Minister Ali Sabri.
+
+A group of senior officials of the Ministry of External Affairs along with Japan External Affairs
 
 ◼️
 
 [Data](articles/07879e31.json)
+
+[Extended Data](ext_articles/07879e31.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ The Attorney General had prosecuted the relevant convicts over attacking a perso
 ◼️
 
 [Data](articles/3945fcfa.json)
+
+[Extended Data](ext_articles/3945fcfa.ext.json)
 
 ---
 
@@ -137,6 +145,26 @@ Two prison officers took him to the room and attacked him asking if he had a cel
 [Data](articles/dc25836c.json)
 
 [Extended Data](ext_articles/dc25836c.ext.json)
+
+---
+
+### මුුහුණුපොත හරහා සංවධානය කල පාසල් සිසු සිසුවියන් 110 ක් සහභාගීවූ සාදය
+
+*2024-04-29 13:47:03* · [`adalk`](https://www.ada.lk/breaking_news/මුුහුණුපොත-හරහා-සංවධානය-කල-පාසල්-සිසු-සිසුවියන්-110-ක්-සහභාගීවූ-සාදය/11-409323) · `si`
+
+අවුරුදු උත්සවයක් පවත්වාගෙන යන මුවාවෙන් පාසල් නොගොස් උසස් පෙළ සිසු,සිසුවියන් මුහුණු පොතෙන් සංවිධානය කොට අද(29) අම්බලන්ගොඩ දෙල්දූව පදේශයේ හෝටලයක පැවැත්වීමට තිබූ මිතුරු සාදයක් විසුරුවා හැරීමට පියවර ගත් බව අම්බලන්ගොඩ පොලීසිය කියයි.
+
+සිය පොලිස් ස්තානයේ නිලධාරීන් එම ස්ථානයට  අද(29) උදෑසන යනවිටත් එම හෝටලයට අවුරුදු දහනවකක් පමන වන මෙවර උසස් පෙළ විභාගයට පෙනී සිටින සිසු,සිසුවියන් විශාල පිරිසක් පැමිණ සිටිය බව ද පොලීසිය කියයි.
+
+පාසල් නොගොස් මිතුරු සාදයට බහුල වශයෙන්ම පේම සම්බන්ධතා පවත්වාගෙන යන සිසු,සිසුවියන් ඇතුලු 110ක් සහභාගිවීමට නියමිතව තිබූ බවත් පොලීසිය කියයි.
+
+මේ අවස්ථාවට සහභාගී වන එක් අයෙකුගෙන් රුපියල් දහස බැගින් එකතු කර ඇති බව අනාවරණයවූ බව ද පොලීසිය කියයි.
+
+අවුරුදු උත්සවයක් පැවැත්විය යුත්තේ කීඩාංගණයක බවත් මේ තරුණ ,තරුණියන් හෝටලයක් මේ සදහා තෝරාගෙන තිබුණේ අවුරුදු උත්සවයේ නමින් මිතුරු සාදයක් පැවැත්වීමට බවද අනාවරණයවූ බවද පොලීසිය කියයි.
+
+...
+
+[Data](articles/2e16f762.json)
 
 ---
 
@@ -1080,23 +1108,33 @@ According to an official release, ATS Superintendent of Police KK Patel received
 
 ---
 
-### අරගලය වෙලාවෙ ගෙවල් වලට කඩා වැදුණු පිරිස් මුලින්ම කඩල තිබුණේ ටොයිලට්
+### The struggle was first that fell to the homes, toilets
 
 *2024-04-29 10:26:43* · [`adalk`](https://www.ada.lk/breaking_news/අරගලය-වෙලාවෙ-ගෙවල්-වලට-කඩා-වැදුණු-පිරිස්-මුලින්ම-කඩල-තිබුණේ-ටොයිලට්/11-409318) · `si`
 
-“අරගලය වෙලාවෙ පොලිසිය දුන්න රිපෝට් එකක් තියෙනවා ගෙවල් වලට කඩා වැදුණු පිරිස් මුලින්ම කඩල තිබුණේ ටොයිලට් අද වන විට පාසැල් පද්ධතිය තුල ගල් දාලා හිර කරලා කඩල බිඳල දාන්නේත් ටොයිලට් ලංකාවෙ විමධ්‍යගත අරමුදල් වලින් පාරවල් වලට අමතරව වැඩිපුරම හදන්නේ ටොයිලට්.
+MP Madura Vithanage discusses school toilet issues in Sri Lanka, highlighting the need for environmental-friendly solutions and the impact of student behavior. He criticizes the lack of cleanliness and the absence of toilets, suggesting that decentralized funding could address these problems.
 
-කොට්ඨාශ අධ්‍යාපන අධ්‍යක්ෂකතුමියනි දරුවන්ට උගන්වන්න වැසිකිලියක් පාවිච්චි කරන ආකාරය පිළිබඳව ඒවගේම කසළ හතර වටේ දාන්නේ නැතුව ඩස්පින්න එකට දාන විදිය ගැන යැයි” කොළඹ දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි මධුර විතානගේ මහතා පැවසීය.
+🟩
 
-මන්ත්‍රීවරයා මෙම අදහස් පළ කළේ අප්‍රේල් මාසය සඳහා  පැවැතිය ශ්‍රි ජයවර්ධනපුර කෝට්ටේ සම්බන්ධීකරණය කමිටු රැස්වීම  පැවති අවස්ථාවේදීය.
+"The police were in the middle of the police, and the toilets were stone and the toilets were thrown into the sphere of roads in the school system.
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් වැසිකිළි කඩා දැමීම අරගලය අවස්ථාවේ දක්නට ලැබුනු සිතා බැලිය යුතු තත්වයක් බව ඔහු පැවසීය.
+The divisional Director of Education is the 'Colombo District MP Madura Vithanage', Colombo, MP Madura Vithanage said.
 
-සිලබස් කවර් කර දරුවන්ගේ අධ්‍යාපනය හැදීම මෙන්ම ඔලුවද පරිසර හිතකාමී ලෙස හැදිය යුතු බව එහිදී මන්ත්‍රීවරයා පැවසීය.
+The MP had made these comments when the committee meeting was held in Sri Jayewardenepura Police.
+
+Speaking further he said he should think about the struggle.
+
+The MP said that it should raise the Silebas and set aside as environmental friendly, as well as his head.
+
+In some schools in 2022, the MP said that the toilet systems were destroyed by the students.
+
+When he went to schools, he said that some schools were found in some schools, Smart classrooms, the Smart classrooms, to protect the attitude of their children to protect their children's attitudes.
 
 ...
 
 [Data](articles/cb9cb82e.json)
+
+[Extended Data](ext_articles/cb9cb82e.ext.json)
 
 ---
 
@@ -2220,6 +2258,20 @@ Overall exports to the US decreased by 5.11 percent while exports to the EU (exc
 
 ---
 
+### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
+
+*2024-04-29 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
+
+In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
+
+...
+
+[Data](articles/e7ce8fc0.json)
+
+[Extended Data](ext_articles/e7ce8fc0.ext.json)
+
+---
+
 ### I have no enemies;220 million people are my friends -Sajith Premadasa
 
 *2024-04-29 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182188) · `ta`
@@ -2419,51 +2471,5 @@ During a press briefing yesterday, Rahman highlighted that court proceedings hav
 [Data](articles/8a32ca6e.json)
 
 [Extended Data](ext_articles/8a32ca6e.ext.json)
-
----
-
-### Semasinghe highlights positives of strengthening Rupee
-
-*2024-04-29 01:44:30* · [`dailyftlk`](https://www.ft.lk/news/Semasinghe-highlights-positives-of-strengthening-Rupee/56-761154) · `en`
-
-Rupee has appreciated against US$ by 9% so far this year on top 12% gain in 2023
-
-State Minister of Finance Shehan Semasinghe highlighted the positive impact of the strengthening rupee on the economy, noting its implications for debt repayment, inflation and financial stability.
-
-He underscored that the strengthening of the rupee will gradually benefit the public, attributing exchange rate fluctuations to market demand and supply dynamics.
-
-The State Minister pointed out the importance of reducing the debt repayment burden amidst the rupee’s appreciation, leading to increased purchasing power, decreased inflationary pressure and preserved financial stability.
-
-During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the US Dollar by 9%, according to Central Bank data. In 2023 the Sri Lanka rupee appreciated against the US Dollar by 12%.
-
-...
-
-[Data](articles/89b8d71b.json)
-
-[Extended Data](ext_articles/89b8d71b.ext.json)
-
----
-
-### 21055 Dengue patients registered
-
-*2024-04-29 01:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21055-டெங்கு-நோயாளர்கள்-பதிவு/175-336466) · `ta`
-
-21,055 dengue patients reported this year, with Colombo district leading at 4,532 cases, followed by Gampaha with 1,936. Increase expected due to rainy weather.
-
-🟩
-
-According to the National Dengue Control Division, 21 thousand 55 dengue patients have been reported so far this year.
-
-The unit noted that most dengue patients have been registered in the Colombo district.
-
-Accordingly, 4 thousand 532 dengue patients in the Colombo district and 1,936 dengue patients in Gampaha district.
-
-The National Dengue Control Division has said that the number of people suffering from dengue is likely to increase due to prevailing rainy weather.. (A)
-
-◼️
-
-[Data](articles/deb4a31c.json)
-
-[Extended Data](ext_articles/deb4a31c.ext.json)
 
 ---

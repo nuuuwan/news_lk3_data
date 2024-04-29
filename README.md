@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 08:34:09**
+As of **2024-04-29 08:52:44**
 
 ## Newspaper Stats
 
-*Scraped **21,496** Articles*
+*Scraped **21,500** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 185
-bbccomsinhala | 224
+bbccomsinhala | 225
 dbsjeyarajcom | 228
 newsfirstlk | 363
 islandlk | 1,173
@@ -19,36 +19,98 @@ adalk | 1,793
 tamilmirrorlk | 2,488
 adaderanalk | 2,559
 virakesarilk | 3,230
-dailymirrorlk | 3,347
-adaderanasinhalalk | 3,479
+dailymirrorlk | 3,348
+adaderanasinhalalk | 3,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,493 (100.0%) of 21,496 articles have been extended.
+21,496 (100.0%) of 21,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### උපාධිධාරී ගුරු බඳවාගැනීම් ගැන නිවේදනයක්
+### හමුදා පොදු සමාව ගැන ඉල්ලීමක්
+
+*2024-04-29 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196074) · `si`
+
+ත්‍රිවිධ හමුදාව සඳහා රජය ලබා දී ඇති පොදු සමා කාලය වෛද්‍ය අංශයේ නිරත රණවිරුවන් සඳහා ද ලබාදීමට කටයුතු කළ යුතු බව එක්සත් රණවිරු ප්‍රජාව පවසයි.
+
+එම සංගමයේ කැඳවුම්කරු අසේල ධර්මසිංහ මහතා පැවසුවේ, වෛද්‍ය අංශයේ සේවයේ නිරත රණවිරුවෙකුගේ මාසික වැටුප කිසිසේත් ප්‍රමාණවත් නොවන බවය.
+
+"යුද හමුදා රණවිරුවන්ට පොදු සමාව ලබාදෙමින් සිටිය දී ඊට දින දෙකකට පස්සේ, ත්‍රිවිධ හමුදාපතිවරු ලියුමක් ගහනවා වෛද්‍ය හා දන්ත වෛද්‍යවරුන්ට මේ වරප්‍රසාදය ලබාදෙන්න එපා කියලා. මේ සියලු රණවිරුවන් උසස් පෙළ ජීව විද්‍යාව අංශයෙන් ඉගෙන ගත්ත ළමයි. පාබල රෙජිමේන්තුවක ඉන්න සෙබළෙක් සහ වෛද්‍ය අංශවල වැඩකරන රණවිරුවෙක්ගේ වෙනස රුපියල් 425යි. මේ අය විශ්වවිද්‍යාල යන්න හිටිය ළමයි. මේ වෙද්දි මේ අය සේවය අතහැරලා ගිහින් තියෙන්නේ. විශේෂයෙන් අවධාරණය කරනවා මේ රණවිරුවන්ටත් මේ වරප්‍රසාදය ලබාදෙන්න. රණවිරු රෝහල් රැකගන්න අවශ්‍ය නම්, නිසි වැටුපක් දෙන්න."
+
+මේ අතර, නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයින් 7,000කට අධික පිරිසක් පොදු සමා කාලයේ පළමු සතිය තුළ ඉවත් කර තිබේ.
+
+...
+
+[Data](articles/09be26b8.json)
+
+---
+
+### මතීෂට කඩුලු දෙකක් එක්කර දෙමින් චෙන්නායි කණ්ඩායමට තවත් ජයක්
+
+*2024-04-29 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196073) · `si`
+
+ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතර පැවති තරගයෙන් ලකුණු 78ක ජයක් වාර්තා කිරීමට චෙන්නායි සුපර් කින්ග්ස් කණ්ඩායම සමත්ව තිබේ.
+
+තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් චෙන්නායි සුපර් කින්ග්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 03ක් දැවී ලකුණු 212ක් ලබා ගත්තේය.
+
+පිළිතුරු ඉනිම සඳහා පන්දුවට පහරදුන් සන්රයිසස් හයිද්‍රබාද් කණ්ඩායමට පන්දුවාර 18යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී ලබා ගත හැකිවුයේ ලකණු 134ක් පමණයි.
+
+පන්දු යැවීමේ දී සුපිරි වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ ඊයේ (28) දිනයේ දීත් කඩුලු 02ක් බිඳහෙළීමට සමත් වුණි.
+
+◼️
+
+[Data](articles/66a29f25.json)
+
+---
+
+### Mullaitivu man claims to be tallest in Sri Lanka
+
+*2024-04-29 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mullaitivu-man-claims-to-be-tallest-in-Sri-Lanka/108-281544) · `en`
+
+Colombo, April 28 (Daily Mirror) - A man in Mullaitivu District claimed to be the tallest person in Sri Lanka.
+
+According to BBC Sinhala Service, Gunasingham Kasenthiran, a former cadre of the proscribed Liberation Tigers of Tamil Eelam (LTTE) who lives in Kaiveli, Puthukudiruppu is seven feet two inches tall.
+
+He laments that he has to face numerous problems due to his abnormal height. Nowhere in Sri Lanka could he find footwear that matches the length of his feet and he has been forced to get them from foreign countries, he states.
+
+Kasenthiran who is the father of two children says that he cannot travel in a bus unless he gets a seat in it and he is forced to make a prior booking for a seat if he travels in a long distance bus.
+
+A trishaw driver by profession, Kasenthiran has to drive his vehicle bending his neck.
+
+◼️
+
+[Data](articles/bed464bb.json)
+
+---
+
+### Announcement of Graduate Teacher Recruitment
 
 *2024-04-29 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196072) · `si`
 
-ජාතික පාසල්වල පවතින සිංහල, දෙමළ හා ඉංග‍්‍රීසි මාධ්‍ය ගුරු පුරප්පාඩු සඳහා උපාධිධාරීන් බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ අද (29) දිනයේ සිට ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Ministry of Education announces interviews for Sinhala, Tamil, and English teachers in national schools, starting May 9th, based on competitive exam results. Graduates will be recruited to Grade 3-1(a) of the Sri Lanka Teachers' Service. Ceylon Teachers Union Joseph Stalin criticizes the government for the economic crisis.
 
-ජාතික පාසල්හි පවතින ගුරු පුරප්පාඩු සඳහා පසුගිය මස 02 දා පැවැති ලද තරග විභාගයේ ප‍්‍රතිඵල අනුව බඳවා ගැනිමේ කටයුතු සිදුකිරීමට නියමිත බව සඳහන්ය.
+🟩
 
-ඒ අනුව ඔවුන් ශ‍්‍රී ලංකා ගුරු සේවයේ 3-1 (අ) ශ්‍රේණියට බඳවා ගැනීමට නියමිතය.
+The Ministry of Education states that interviews to recruit graduates will commence from today (29) for Sinhala, Tamil and English teachers in national schools.
 
-අදාළ සම්මුඛ පරීක්ෂණ ලබන මැයි මස 09 වන දා දක්වා ඉසුරුපාය අධ්‍යාපන අමාත්‍යාංශයේදී පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+It is said that the recruitment of the competitive examination held for the vacancies existing in national schools on the basis of the results of the competitive examination held.
 
-මේ අතර ආර්ථික අර්බුදය හේතුවෙන් කඩා වැටී ඇති දරුවන්ගේ අධ්‍යාපනය නැවත නඟාසිටුවීම සඳහා ආණ්ඩුව විසින් අනුගමනය කරනු ලබන  ක්‍රියාමර්ග ප්‍රමාණවත් නොවන බව ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පවසයි.
+Accordingly, they will be recruited to Grade 3-1 (a) of Sri Lanka Teachers' Service.
+
+The Interviews will be held in the Ministry of Education, from the Ministry of Education, from 09th May.
+
+Meanwhile, the Ceylon Teachers Union Joseph Stalin says that the government is adequate due to the economic crisis due to the economic crisis.
 
 ◼️
 
 [Data](articles/38523fdc.json)
+
+[Extended Data](ext_articles/38523fdc.ext.json)
 
 ---
 
@@ -143,6 +205,8 @@ The tea-for-oil deal was agreed upon in December 2021, but exports were delayed 
 ◼️
 
 [Data](articles/48a590f4.json)
+
+[Extended Data](ext_articles/48a590f4.ext.json)
 
 ---
 
@@ -422,6 +486,24 @@ The case (07.12.2023) was taken to the Mullaitivu District Court that day.
 
 ---
 
+### 'අපේ නිෂ්පාදන මහපොළවට එකතු වුණහම ගස් පැළ වෙනවා.'
+
+*2024-04-29 02:43:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c19dw10ex7go) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, නිලුකා ප්‍රියදර්ශනී සිය දියණියන් දෙදෙනා සමග එක්ව පරිසර හිතකාමී නිෂ්පාදන වෙළඳපොළට සපයන්නීය.
+
+පරිසර හිතකාමී නිෂ්පාදන කෙරෙහි කාන්තාවන්ට වැඩි අවධානයක් යොමු කිරීම තුළින් ආර්ථික වාසියක් ලබා ගැනීමට මෙන්ම පරිසර සංරක්ෂණයට දායක වීමට හැකි බව නිලුකා ප්‍රියදර්ශනී පවසන්නීය.
+
+සැමියාගේ වියෝවෙන් පසු ඇය සිය දියණියන් දෙදෙනා සමග එක්ව පරිසර හිතකාමී නිෂ්පාදන වෙළඳපොළට සපයන්නීය.
+
+''අපේ නිෂ්පාදන මහපොළවට එකතු වුණහම ගස් පැළ වෙනවා. ඉවත දමන දේවල්වලට අගය එකතු කරලා නැවත වෙළඳපොළට නිකුත් කරන එක තමයි අපි කරන්නේ. මං වගේම අසරණ වෙච්ච කාන්තාවෝ මේ සමාජයේ ගොඩක් ඉන්නවා. ඔයාලා අසරණයි කියලා හිතන්න එපා.'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+
+◼️
+
+[Data](articles/fe991245.json)
+
+---
+
 ### Babar Azam, Shaheen Shah Apparidi Excellent Energy Explosions;Pakistan balances the T20 series with New Zealand
 
 *2024-04-29 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182184) · `ta`
@@ -520,21 +602,27 @@ During the year up to 26 April 2024, the Sri Lanka rupee appreciated against the
 
 ---
 
-### 21055 டெங்கு நோயாளர்கள் பதிவு
+### 21055 Dengue patients registered
 
 *2024-04-29 01:44:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21055-டெங்கு-நோயாளர்கள்-பதிவு/175-336466) · `ta`
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 21 ஆயிரத்து 55 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+21,055 dengue patients reported this year, with Colombo district leading at 4,532 cases, followed by Gampaha with 1,936. Increase expected due to rainy weather.
 
-கொழும்பு மாவட்டத்திலேயே அதிகளவான டெங்கு நோயாளர்கள் பதிவு செய்யப்பட்டுள்ளனர் என அந்த பிரிவு குறிப்பிட்டுள்ளது.
+🟩
 
-இதன்படி, கொழும்பு மாவட்டத்தில் 4 ஆயிரத்து 532 டெங்கு நோயாளர்களும், கம்பஹா மாவட்டத்தில் 1,936 டெங்கு நோயாளர்களும் பதிவாகியுள்ளனர்.
+According to the National Dengue Control Division, 21 thousand 55 dengue patients have been reported so far this year.
 
-நிலவும் மழையுடனான காலநிலையினால் டெங்கு நோயினால் பாதிக்கப்படுபவர்களின் எண்ணிக்கை அதிகரிக்கும் சாத்தியம் நிலவுவதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது. (a)
+The unit noted that most dengue patients have been registered in the Colombo district.
+
+Accordingly, 4 thousand 532 dengue patients in the Colombo district and 1,936 dengue patients in Gampaha district.
+
+The National Dengue Control Division has said that the number of people suffering from dengue is likely to increase due to prevailing rainy weather.. (A)
 
 ◼️
 
 [Data](articles/deb4a31c.json)
+
+[Extended Data](ext_articles/deb4a31c.ext.json)
 
 ---
 
@@ -2229,93 +2317,5 @@ The public is also requested to take necessary measures to reduce temporary stro
 [Data](articles/93f62614.json)
 
 [Extended Data](ext_articles/93f62614.ext.json)
-
----
-
-### Heavy showers of above 100mm expected tomorrow
-
-*2024-04-28 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98896/heavy-showers-of-above-100mm-expected-tomorrow) · `en`
-
-The Department of Meteorology says that the Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather conditions.
-
-In its latest weather forecast, issued for tomorrow (29), the department states that showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western, Uva and North-central provinces and in Ampara district after 1.00 p.m.
-
-Showers or thundershowers may occur at a few places elsewhere in the evening or night, it added.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Southern and North-western provinces, the Met. Department warned.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1f6e3708.json)
-
-[Extended Data](ext_articles/1f6e3708.ext.json)
-
----
-
-### Juvenile girl dies after 14 days
-
-*2024-04-28 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182151) · `ta`
-
-A 17-year-old girl, seriously injured in a New Year's Day shooting in Minneriya Girithala, died 14 days after treatment at Polonnaruwa General Hospital, then transferred to Anuradhapura Hospital.
-
-🟩
-
-A 17 -year -old girl who was seriously injured in the shooting on the 14th of the New Year's celebration in the Minneriya Girithala area has died after receiving treatment at the hospital after receiving treatment at the hospital 14 days after receiving treatment.
-
-He was admitted to the Polonnaruwa General Hospital and later transferred to the Anuradhapura Hospital.
-
-◼️
-
-[Data](articles/c02521b6.json)
-
-[Extended Data](ext_articles/c02521b6.ext.json)
-
----
-
-### An actor arrested for financial fraud
-
-*2024-04-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196053) · `si`
-
-Sahal Khan, an Indian actor, was arrested for financial fraud via a betting app "Mahadeva," following a 40-hour operation by Mumbai security forces.
-
-🟩
-
-The Indian Popular actor, Sahal Khan, has been arrested by the police.
-
-Foreign media reports, he was arrested for charges of financial fraud through a betting app.
-
-Foreign media added that he has also appeared to promote the applicant betting application called "Mahadeva".
-
-Foreign media reports that the suspect actor has been arrested by the security forces from Mumbai and arrested him after a 40 hour operation.
-
-◼️
-
-[Data](articles/724df992.json)
-
-[Extended Data](ext_articles/724df992.ext.json)
-
----
-
-### Prosecution
-
-*2024-04-28 14:41:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விழிப்பாக-இருக்குமாறு-அறிவுறுத்தல்/175-336446) · `ta`
-
-The President's Office is investigating fraudulent activities involving fake documents for financial gain, job applications, and visa applications. Suspects are urged to contact Senior Assistant Secretary Prasad Senarath at +94 71 530 8032.
-
-🟩
-
-There have been incidents of money being reported by submitting fake documents to the presidential office, investors, youth seeking jobs and attempts to obtain visa for various countries.
-
-The President's Office has asked the public to contact the President of Senior Assistant Secretary Prasad Senarath, +94 71 530 8032, if there is suspicion of such persons to be concerned about such fraudsters.
-
-◼️
-
-[Data](articles/ee164dc0.json)
-
-[Extended Data](ext_articles/ee164dc0.ext.json)
 
 ---

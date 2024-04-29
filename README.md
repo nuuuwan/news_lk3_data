@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 17:18:48**
+As of **2024-04-29 17:34:46**
 
 ## Newspaper Stats
 
-*Scraped **21,621** Articles*
+*Scraped **21,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,809
-tamilmirrorlk | 2,514
+tamilmirrorlk | 2,515
 adaderanalk | 2,571
 virakesarilk | 3,255
 dailymirrorlk | 3,361
-adaderanasinhalalk | 3,503
+adaderanasinhalalk | 3,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,615 (100.0%) of 21,621 articles have been extended.
+21,621 (100.0%) of 21,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### பஸ் விபத்தில்  18 பேர் உயிரிழப்பு ,  32 பேர் காயம்
+
+*2024-04-29 17:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-விபத்தில்-18-பேர்-உயிரிழப்பு-32-பேர்-காயம்/50-336514) · `ta`
+
+மெக்சிகோ சிட்டியின் தலைநகரம் பகுதியில் திங்கட்கிழமை (29) இடம்பெற்ற  பஸ் விபத்தில் 18 பேர் உயிரிழந்துள்ளதுடன்  மேலும் 32 பேர் காயமடைந்துள்ளதாக மெக்சிகோவின் சிவில் பாதுகாப்பு நிறுவனம் தெரிவித்துள்ளது.
+
+மத்திய மெக்சிகோவில் உள்ள குவானாஜுவாடோ மாநிலத்தில் உள்ள சான் லூயிஸ் டி லா பாஸில் இருந்து மெக்சிகோ நகருக்கு தெற்கே உள்ள சால்மா சரணாலயத்திற்கு பயணித்துக்கொண்டிருந்த பேருந்து ஒன்றே  இவ்வாறு நெடுஞ்சாலையில் கவிழ்ந்து விபத்துக்குள்ளானது.
+
+இவ் விபத்தில் 14 பேர் ஸ்தலத்திலேயே உயிரிழந்துள்ளதுடன் 4 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாகவும் ,  மேலும்  32 பேர் காயமடைந்த நிலையில் சிகிச்சைபெற்று வருவதாகவும் தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/b871afe5.json)
+
+---
 
 ### Scotland’s Humza Yousaf resigns as country’s leader
 
@@ -50,21 +66,51 @@ The SNP’s fortunes have faltered over a funding scandal and the resignation of
 
 [Data](articles/d28c015d.json)
 
+[Extended Data](ext_articles/d28c015d.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சரின் விசேட அவதானம்
+### කටුනායකදී කොටුවූ කාන්තාවන් දෙදෙනා
+
+*2024-04-29 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196099) · `si`
+
+නීතිවිරෝධී ලෙස පිරිමි ළමයෙකු එංගලන්තය වෙත රැගෙන යාමට ගත් උත්සාහයක් ව්‍යර්ථ කිරීමට කටුනායක ගුවන්තොටුපොළේ ආගමන විගමන නිලධාරීන් සමත්ව තිබේ.
+
+මෙම ජාවාරම සම්බන්ධයෙන් කාන්තාවන් දෙදෙනෙකු කටුනායක ගුවන්තොටුපොළේදී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+දැනට එංගලන්තයේ වාසය කරන ශ්‍රී ලාංකික මවකගේ සහ ඇයගේ පුතුගේ තොරතුරු භාවිත කර ව්‍යාජ ලියකියවිලි සකස් කර වෙනත් කාන්තාවක යොදාගනිමින් එම පිරිමි දරුවා පසුගිය 26 වනදා මෙලෙස එංගලන්තය වෙත රැගෙන යාමට උත්සාහ ගෙන තිබේ.
+
+ගුවන්තොටුපොළ අද දෙරණ වාර්තාකරු පැවසුවේ මෙම පිරිමි ළමයා 17 හැවිරිදි වියේ පසුවන අතර ඔහු ද්‍රවිඩ ජාතිකයෙකු බවය.
+
+මුලතිව් ප්‍රදේශයේ පදිංචි කාන්තාවක් මෙලෙස එම පිරිමි දරුවාද රැගෙන එදින දහවල් 1.30ට ශ්‍රීලන්කන් ගුවන් යානයකින් ලන්ඩන් බලා යෑමට කටුනායකට පැමිණ තිබුණි.
+
+එහිදී ගුවන් සේවා කවුළු නිලධාරිනියකට අදාළ ලියකියවිලි සම්බන්ධයෙන් ඇතිවූ සැකය මත මොවුන් දෙදෙනා ගුවන්තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් වෙත භාර දී තිබේ.
+
+...
+
+[Data](articles/172cd6f9.json)
+
+---
+
+### Special Observation of the Minister of State
 
 *2024-04-29 16:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரின்-விசேட-அவதானம்/175-336513) · `ta`
 
-பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் (21) ஆம் திகதி பதுளை மாவட்டத்தின் கரந்தகொல்ல பிரதேசத்தில் எல்ல வெல்லவாய வீதிக்கு அருகில் ஏற்பட்ட மண்சரிவு குறித்து விசேட அவதானம் செலுத்தியதுடன், மேலும் குறித்த சம்பவ இடத்தை மீண்டும் ஆய்வு செய்து விரிவான அறிக்கையை விரைவில் சமர்ப்பிக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு உத்தரவிட்டார்.
+Defense Minister Bandara Tennakoon ordered a re-examination of a landslide near Ellawaya Road in Badulla, instructing authorities to submit a detailed report. He also directed the National Building Research Institute and Risk Management Center to prevent future risks. Recommendations were provided by relevant experts on May 1st.
 
-மேலும், எதிர்காலத்தில் குறித்த பகுதியில் ஏற்படும் மன்சறிவு அபாயங்களை தடுப்பதற்கான தேவையான உடனடி நடவடிக்கைகளை எடுப்பதற்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் மற்றும் இடர் முகாமைத்துவ நிலைய அதிகாரிகளுக்கு தேவையான அறிவுறுத்தல்களை இராஜாங்க அமைச்சர் வழங்கினார்.
+🟩
 
-அமைச்சரின் அறிவுறுத்தல்களுக்கு அமைவாக, இடர் முகாமைத்துவ நிலையத்தின் பணிப்பாளர் நாயகம், தேசிய கட்டிட ஆராய்ச்சி நிலையத்தின் பணிப்பாளர் நாயகம் மற்றும் புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகத்தின் விஞ்ஞானிகள் அடங்கிய நிபுணர் குழு மே மாதம் 01)ஆம் திகதி  குறித்த நிலப்பகுதி குறித்து கள ஆய்வு செய்து தேவையான பரிந்துரைகளை வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது குறிப்பிடத்தக்கதாகும்.
+Defense Minister of State for Defense Bandara Tennakoon (21) paid special attention to the landslide near Ellawaya Road in Karandakolla area of Badulla district and ordered the relevant authorities to re -examine the incident and submit a detailed report.
+
+In addition, the Minister of State has provided the instructions to the National Building Research Institute and the Risk Management Center to take immediate steps to prevent the risk of humanity in the future.
+
+In accordance with the instructions of the Minister, the Director General of the Risk Management Center, the Director General of the National Building Research Center and the Expert Panel of Experts of the Geological Survey and Mining Bureau have taken steps to provide the necessary recommendations on the land area on May 01).
 
 ◼️
 
 [Data](articles/26f65eba.json)
+
+[Extended Data](ext_articles/26f65eba.ext.json)
 
 ---
 
@@ -84,6 +130,8 @@ The prisoner told police that two prison officers had taken him to a room and as
 
 [Data](articles/bc761091.json)
 
+[Extended Data](ext_articles/bc761091.ext.json)
+
 ---
 
 ### No sports skills considered for school admissions
@@ -99,6 +147,8 @@ The Ministry has issued necessary instructions to principals in this regard.
 ◼️
 
 [Data](articles/a1bf6265.json)
+
+[Extended Data](ext_articles/a1bf6265.ext.json)
 
 ---
 
@@ -864,21 +914,29 @@ It says that "the Governing Body of the Central Bank has been given to the Emplo
 
 ---
 
-### පිරිමි දරුවෙක් එංගලන්තයට ගෙන යාමේ තැත වරදියි
+### The attempt to move a boy to England
 
 *2024-04-29 13:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පිරිමි-දරුවෙක්-එංගලන්තයට-ගෙන-යාමේ-තැත-වරදියි/11-409322) · `si`
 
-දැනට එංගලන්තයේ වාසය කරන ශ්‍රී ලාංකික මවකගේ සහ ඇයගේ පුතාගේ තොරතුරු අනුසාරයෙන් ව්‍යාජ ලියකියවිලි සකස් කර වෙනත් කාන්තාවක යොදා ගෙන 17 හැවිරිදි ද්‍රවිඩ ජාතික පිරිමි ළමයෙකු එරටට රැගෙන යාමට ගත් උත්සාහයක් ව්‍යයර්ථ කර මෙම ජාවාරමට සම්බන්ධ කාන්තාවන් දෙදෙනෙකු 04/26 දින කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+Two-year-old Tamil boys, with a Sri Lankan mother, were arrested for attempting to smuggle a 17-year-old Tamil boy to England. The boy's mother was interrogated, and the case is under investigation.
 
-මුලතිව් ප්‍රදේශයේ පදිංචි කාන්තාවක් , පිරිමි දරුවෙකු ද සමග  04/26 දින දහවල් 01.30 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 503 දරන ගුවන් යානයෙන් එංගලන්තයේ ලන්ඩන් නුවර බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-සිය ගුවන් සේවා නිශ්කාශන කටයුතු සිදු කර ගැනීම සදහා ශ්‍රී ලන්කන් ගුවන් සේවා කවුළුව වෙත පැමිණ සිටියදී , එම ගුවන් සේවා නිලධාරිනියන්ට මෙම ලියකියවිලි පිළිබඳව ඇති වූ සැකය මත මොවුන් දෙදෙනා ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් වෙත භාර දී තිබේ .
+Two-year-old Tamil national boys have been prepared to take a 17-year-old Tamil boy with a Sri Lankan mother and her son's information, which is located in England and has a 17-year-old Tamil boy.Officers of the Survey Unit have been arrested.
 
-එහිදී සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම් වල දී මෙම ලියකියවිලි කූඨ ලෙස සකස් කළ ඒවා බව තහවුරු වී තිබේ .
+A woman residing in Mullaittivu at 04/26 days after a boy, SriLankan Airlines had reached the Katunayake Airport on the 503-owned aircraft.
+
+While returning to the Sri Lankan Aviation Window to carry out its aviation clearance, the two airline officers have been handed over to the Department of Immigration and Emigration Department for the Institute of Immigration and Emigration Department on suspicion of these documents.
+
+These documents were confirmed in technical tests where they were made.
+
+Immigration and Emigration Department officials had taken steps to take the boy aside and inquire into the matter..
 
 ...
 
 [Data](articles/5a9c6037.json)
+
+[Extended Data](ext_articles/5a9c6037.ext.json)
 
 ---
 
@@ -1672,23 +1730,31 @@ One of the men was found in a tree hanging in a tree.
 
 ---
 
-### අහසට පොලොව වගේ තිබෙන දඹුල්ලේ එළවළු සිල්ලර හා තොග මිල
+### Vegetables and Wholesale Price of Dambulla
 
 *2024-04-29 10:59:14* · [`adalk`](https://www.ada.lk/picture_story/අහසට-පොලොව-වගේ-තිබෙන-දඹුල්ලේ-එළවළු-සිල්ලර-හා-තොග-මිල/10-409320) · `si`
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග මිල සීඝ්‍රයෙන් පහත වැටෙද්දී  දෙහි සහ අමු ඉඟුරු කිලෝවක තොග මිල ශීඝ්‍රයෙන් ඉහළ ගොස් ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළඳ ව්‍යාපාරිකයෝ පෙන්වා දෙති.
+Dambulla Economic Center's vegetable stocks, especially lime and ginger, have surged. Vendors' arrests have reduced their numbers, leading to higher prices. Despite this, vegetables are priced similarly to those in neighboring areas. Farmers report losses due to low prices, affecting crops like chillies, eggplant, and tomatoes.
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානට මේ දිනවල වැඩි වශයෙන් එළවලු තොග ලැබුනද ඒවා මිලදී ගැනීම සඳහා පිටස්තර වෙළෙන්දන්ගේ පැමිණීම අඩු වී තිබෙන බවත් වෙළෙන්දන්ගේ පැමිණීම අඩුවී ඇත්තේ එළවලු  පරිභෝජනය කරන ප්‍රමාණය සීඝ්‍රයෙන් පහළ යෑම හේතුවෙන් බවද ඔවුහු පෙන්වා දෙති.
+🟩
 
-එහෙත් දඹුල්ල ආර්ථික මධ්‍යස්ථානයට යාබදව පිහිටා ඇති එළවළු  සිල්ලර අලෙවි කරන වෙළදසැල් වල ඉහළ මිල ගණන් යටතේ අලෙවි වන බව පාරිභෝගික ජනතාව පෙන්වා දෙති.
+When the vegetables of the Dambulla Economic Center is rapidly declined, the stock of consumes of lime and raw ginger has increased rapidly.
 
-සිල්ලර වෙළෙන්දන් කියා සිටින්නේ එළවලු අලවි නොවී දිනගණන් තිබී විනාශ වන නිසා මිල ඉහළ ඉහල යන බවය.
+They say that the vendor of the merchants have declined due to the arrest of the vendors that the dealers' arms have been reduced due to the Dambulla Economic Center.
 
-අමු මිරිස් ,වම්බටු , තක්කාලි ,කැකිරි ආදී එළවලු  වර්ග බොහොමයක් රුපියල් දහයත් හතළිහත් අතර  මිල ගණන්  යටතේ අලවි වන බවත් බොහෝ දුරට අලවි  නොවී  දිනක් පසුවීමත් සමග විනාශ වන බව ගොවීන් පෙන්වා දෙති.
+However, consumers point out that the vegetables are sold at the top prices of vegetables adjoining the Dambulla Economic Center.
 
-...
+The retailers say that the price increases the rise of the vegetables.
+
+Farmers point out that many vegetables such as raw chillies, eggplant, tomatoes, tomatoes, Kekiri are destroyed between ten rupees and forty vegetables.
+
+We have found about prices of a kilogram of vegetables at the Dambulla Economic Center.
+
+◼️
 
 [Data](articles/f5f4c918.json)
+
+[Extended Data](ext_articles/f5f4c918.ext.json)
 
 ---
 
@@ -2369,57 +2435,5 @@ The victim was a 30 year old resident of the area.
 [Data](articles/2f9eea64.json)
 
 [Extended Data](ext_articles/2f9eea64.ext.json)
-
----
-
-### Cashew industrialists register
-
-*2024-04-29 09:24:41* · [`adalk`](https://www.ada.lk/breaking_news/කජු-කර්මාන්තකරුවන්-ලියාපදිංචි-කරයි/11-409313) · `si`
-
-The Cashew Corporation is registering cashew industry entrepreneurs nationwide, aiming to provide accurate information for government policy planning and other organizations. This registration is crucial for the cashew industry's development and prioritizes entrepreneurs. Cashew growers, plantations, calcar, machiners, and importers must register by May 31st.
-
-🟩
-
-The Cashew Corporation has decided to register entrepreneurs in the cashew industry throughout the country.
-
-The Cashew Corporation says it is expected to provide accurate information to various institutions in providing various organizations for the field of government policy planning and various organizations.
-
-The Cashew Corporation said that this registration is essential for the implementation of the cashew industry and to give priority to those entrepreneurs.
-
-Accordingly, cashew growers, cashew growers, cashew plantations, cashew calculars, cashew machiners and importers, and importers should register in the Cashew Corporation before May 31st.
-
-◼️
-
-[Data](articles/6d4c3f62.json)
-
-[Extended Data](ext_articles/6d4c3f62.ext.json)
-
----
-
-### Navy Ruwan arrested
-
-*2024-04-29 09:21:35* · [`adalk`](https://www.ada.lk/breaking_news/නේවි-රුවන්-අල්ලයි/11-409312) · `si`
-
-Navy Ruwan, an organized criminal, was arrested with 6,000 milligrams of ice narcotics. Officers from the Criminal Investigation Department (CID) conducted a secret investigation. The suspect was detained and questioned about the ice drugs case.
-
-🟩
-
-Navy Ruwan alias, organized criminal investigacy, says that organized criminal criminal is an organized criminal criminal of many murders.
-
-The suspect was arrested along with 6,000 milligns of ice narcotics.
-
-A group of officers of the Criminiy Criminal Investigation Department (CID) was conducting a secret information to the Inspector General of Police while participating in the investigation duty.
-
-The suspect has been arrested and arrested the house to the suspect and hid the suspect in the area and hiding in a house where the suspect is hiding in a house in the area.
-
-The suspects were made in charge of the suspect in charge of the Avissawella High Court, Embilipitiya and Matara High Courts in the Matara High Court.
-
-Police say the suspect is the case with the ice drugs and he is currently questioning the uncovered criminals who have already committed.
-
-◼️
-
-[Data](articles/00ead02d.json)
-
-[Extended Data](ext_articles/00ead02d.ext.json)
 
 ---

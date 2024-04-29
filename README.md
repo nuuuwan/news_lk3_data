@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 01:18:43**
+As of **2024-04-30 01:34:07**
 
 ## Newspaper Stats
 
-*Scraped **21,722** Articles*
+*Scraped **21,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,817
 tamilmirrorlk | 2,521
 adaderanalk | 2,578
 virakesarilk | 3,270
-dailymirrorlk | 3,382
+dailymirrorlk | 3,383
 adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,717 (100.0%) of 21,722 articles have been extended.
+21,722 (100.0%) of 21,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Parties should publicize their election manifestos well in advance: PAFFREL
+
+*2024-04-30 01:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-should-publicize-their-election-manifestos-well-in-advance-PAFFREL/108-281621) · `en`
+
+Colombo, April 29 (Daily Mirror) - The political parties should publicize their election manifestos well in advance of any election, be it a Presidential or Parliamentary poll, to create a better and responsible political culture in the country, the Peoples' Action for Free and Fair Elections (PAFFREL) said.
+
+What is actually happening in Sri Lanka right now is that the political parties present their policy statements merely a month or so in advance of an election. Thus, the public will get no chance to build a fruitful discussion on them, the polls observer said.
+
+Executive Director PAFFREL Rohana Hettiarachchi made these remarks while addressing a programme held in Colombo to raise awareness on creating a responsible political culture by encouraging political parties to present responsible and timely policy statements.
+
+...
+
+[Data](articles/5aac4dbc.json)
+
+---
 
 ### Kabir urges Gota to withdraw allegations of conspiracy by minorities
 
@@ -422,6 +438,8 @@ When employers are permitted to collectively represent their interests, it is an
 
 [Data](articles/0f4a8005.json)
 
+[Extended Data](ext_articles/0f4a8005.ext.json)
+
 ---
 
 ### BASL calls for removal of Minister Tiran Alles over controversial remarks
@@ -454,6 +472,8 @@ On 4 May 1886, workers in Chicago staged a protest in the Haymarket Square, figh
 
 [Data](articles/620b0813.json)
 
+[Extended Data](ext_articles/620b0813.ext.json)
+
 ---
 
 ### Call to end corporal punishment against children in Sri Lanka: Vision for a fear-free childhood
@@ -467,6 +487,8 @@ A study on the perceptions of Sri Lankan parents on the use of corporal punishme
 ...
 
 [Data](articles/a277375f.json)
+
+[Extended Data](ext_articles/a277375f.ext.json)
 
 ---
 
@@ -484,6 +506,8 @@ In statements delivered at the World Bank (WB) and International Monetary Fund (
 
 [Data](articles/e7fcb2d6.json)
 
+[Extended Data](ext_articles/e7fcb2d6.ext.json)
+
 ---
 
 ### What’s Ranil’s secret?
@@ -497,6 +521,8 @@ Well, for starters, Ranil is one tough cookie. The man knows how to survive in t
 ...
 
 [Data](articles/b099b662.json)
+
+[Extended Data](ext_articles/b099b662.ext.json)
 
 ---
 
@@ -2163,25 +2189,5 @@ In November 2007, his parliamentary position was lost in November 2007 as he did
 [Data](articles/a8cf5214.json)
 
 [Extended Data](ext_articles/a8cf5214.ext.json)
-
----
-
-### Attempt to send 17 year-old-boy to London on forged documents foiled
-
-*2024-04-29 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Attempt-to-send-17-year-old-boy-to-London-on-forged-documents-foiled/108-281573) · `en`
-
-Colombo, April 29 (Daily Mirror) - An attempt to send a 17-year-old boy abroad on forged travel documents was foiled and two women suspected of their involvement in the racket were arrested by the Border Surveillance Unit of the Department of Immigration and Emigration at the Bandaranaike International Airport.
-
-One of the suspect woman from Mullativu had planned to fly to London with the boy and when they called over at the departure lounge, the officials, on suspicion of some irregularity in their travel documents referred them to the Border Surveillance Unit for further scrutiny.
-
-After a technological checkup, the BSU found the travel documents had been forged.
-
-Under interrogation in camera, the boy revealed that the woman who accompanied him was not his mother and that his mother was still waiting at the departure terminal.
-
-...
-
-[Data](articles/f9300e3e.json)
-
-[Extended Data](ext_articles/f9300e3e.ext.json)
 
 ---

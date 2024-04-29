@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 00:49:21**
+As of **2024-04-30 01:03:55**
 
 ## Newspaper Stats
 
-*Scraped **21,706** Articles*
+*Scraped **21,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 226
 dbsjeyarajcom | 231
 newsfirstlk | 363
 islandlk | 1,175
-dailyftlk | 1,212
+dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,817
 tamilmirrorlk | 2,521
@@ -26,11 +26,191 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,706 (100.0%) of 21,706 articles have been extended.
+21,706 (99.9%) of 21,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Kabir urges Gota to withdraw allegations of conspiracy by minorities
+
+*2024-04-30 00:36:19* · [`dailyftlk`](https://www.ft.lk/news/Kabir-urges-Gota-to-withdraw-allegations-of-conspiracy-by-minorities/56-761193) · `en`
+
+Emphasises historical loyalty of Muslims in Sri Lanka to country’s rulers
+
+Warns that Gota’s claims could distort historical facts and create false impressions for future generations
+
+Asserts that Gota’s claim of minority groups including Muslims of conspiring against him are baseless
+
+Samagi Jana Balawegaya (SJB) MP Kabir Hashim in Parliament last week called on former President Gotabaya Rajapaksa to withdraw the allegation made in his book “The Conspiracy”, where he accused minority groups in the country, including Muslims, Tamils, and Catholics, of plotting to force him out of office.
+
+Hashim said Rajapaksa must foremostly study history. He said Muslims in Sri Lanka have never betrayed Sinhala Buddhist Kings or rulers of the past and have always worked to protect them.
+
+...
+
+[Data](articles/b844f715.json)
+
+---
+
+### BASL declines SJB invite to coordinate SJB – NPP debate
+
+*2024-04-30 00:35:34* · [`dailyftlk`](https://www.ft.lk/news/BASL-declines-SJB-invite-to-coordinate-SJB-NPP-debate/56-761192) · `en`
+
+The Sri Lanka Bar Association of Sri Lanka (BASL) has unanimously decided to decline the invitation extended by the Samagi Jana Balawegaya (SJB) to serve as a mediator and coordinator in the planned debate between SJB leader Sajith Premadasa and National People’s Power (NPP) leader Anura Kumara Dissanayake.
+
+According to reports the decision to decline the invitation was made during a general meeting of the association held recently.  On 26 April, in a letter to the Bar Association of Sri Lanka (BASL) SJB MP Nalin Bandara invited it to act as an independent party to coordinate two planned debates between the rival parties.
+
+BASL President Kaushalya Nawaratne PC had accepted the letter and informed Bandara that a decision would be reached after presenting it for consideration at a BASL general meeting.
+
+...
+
+[Data](articles/f08987e1.json)
+
+---
+
+### State Minister for Defence urges immediate action on potential landslide threat near Ella-Wellawaya road
+
+*2024-04-30 00:35:24* · [`dailyftlk`](https://www.ft.lk/news/State-Minister-for-Defence-urges-immediate-action-on-potential-landslide-threat-near-Ella-Wellawaya-road/56-761191) · `en`
+
+State Minister for Defence Pramitha Bandara Thennakoon has directed the attention to a pre-symptom condition of a potential landslide near the Ella-Wellawaya road in the Karandagolla area of the Badulla district.
+
+The move was in response to recent indications of landslip susceptibility in Malittagolla, a sloping region of around two acres in the Ella area of Karandagolla. Concerns have been expressed by the community residing in the area, who blames the condition on possible effects from the Uma Oya project. Urging immediate action, he has instructed the National Building Research Organisation (NBRO) and Disaster Management authorities to inspect the site and provide a comprehensive report.
+
+...
+
+[Data](articles/4dd4b468.json)
+
+---
+
+### Samson Rubber Products celebrates 30-year anniversary
+
+*2024-04-30 00:31:01* · [`dailyftlk`](https://www.ft.lk/business/Samson-Rubber-Products-celebrates-30-year-anniversary/34-761190) · `en`
+
+As part of the 30th anniversary celebrations this April, Samson Rubber Products Ltd., (SRP)  has organised a grand series of events.
+
+On 27 April, SRP hosted a traditional Pirith chanting ceremony and a special event to honour its long-standing employees, reflecting SRP’s deep rooted cultural values and commitment to its workforce. The evening will conclude with a spectacular fireworks display, lighting up the skies of Galle in celebration of three decades of success.
+
+Since the inception in 1994, the entrepreneurial spirit of Samson Rubber Products Ltd. Founder Ranatunga Rajapaksa and present Managing Director Sajith Rajapaksa embodies the sustainable journey of SRP through investing in cutting-edge technology, green lean manufacturing, continuous improvement, integrated supply chain solutions, R&D innovations, world class management best practices.
+
+...
+
+[Data](articles/ceb3948d.json)
+
+---
+
+### Japan bestows “The Order of the Rising Sun” on Kosala Wickramanayake and Athulla Edirisinghe
+
+*2024-04-30 00:30:05* · [`dailyftlk`](https://www.ft.lk/business/Japan-bestows-The-Order-of-the-Rising-Sun-on-Kosala-Wickramanayake-and-Athulla-Edirisinghe/34-761189) · `en`
+
+Yesterday, the recipients of “The Order of the Rising Sun” were announced by the Government of Japan. For the Spring Conferment this year, two highly acclaimed individuals from Sri Lanka have been honoured with this esteemed decoration in recognition of their distinguished contributions to enhancing the Japan-Sri Lanka relationship.
+
+Kosala Rohana Wickramanayake: The Order of the Rising Sun, Gold Rays with Rosette
+
+Former President of the Lanka Japan Friendship Society, Former President of the Federation of Chambers of Commerce and Industry of Sri Lanka.
+
+Contributed to promoting friendly relations and mutual understanding and economic exchange between Japan and Sri Lanka
+
+Kosala Rohana Wickramanayake has been a great supporter of Japan and, as a member of the Lanka Japan Friendship Society, has contributed to deepening friendly relations and promoting mutual understanding between Japan and Sri Lanka, particularly during his tenure as President of the Society in 2011-2012.
+
+...
+
+[Data](articles/950ab378.json)
+
+---
+
+### Tokyo Cement salutes top performers at 2024 Annual Gala Dealer Convention
+
+*2024-04-30 00:28:38* · [`dailyftlk`](https://www.ft.lk/business/Tokyo-Cement-salutes-top-performers-at-2024-Annual-Gala-Dealer-Convention/34-761188) · `en`
+
+Top Category Winners of the Tokyo Cement Annual Dealer Convention 2024 with the Managing Director, Group COO and Group General Manager –Marketing of the Tokyo Cement Group
+
+Tokyo Cement Group recently hosted their top-performing dealers to the prestigious Annual Dealer Convention 2024, held at the Cinnamon Grand Colombo. The star-studded awards night, befitting the outstanding performance of the channel sales partners, recognised over 140 top performers from across the island, who walked away with grand prizes.
+
+City Hardware & Stores – Jaffna, Ancheneyer Cement & Hardware Dealer – Batticaloa, National Trading Stores – Kurunegala, Shanmugam Stores – Kilinochchi, Emerald Hardware – Uduppiddy and Hansika Transport – Katuneriya were crowned best among the best of 2024 at the annual awards ceremony organised by the cement giant.
+
+...
+
+[Data](articles/ef41f763.json)
+
+---
+
+### SL, Egypt discuss measures to boost trade
+
+*2024-04-30 00:27:53* · [`dailyftlk`](https://www.ft.lk/business/SL-Egypt-discuss-measures-to-boost-trade/34-761187) · `en`
+
+Trade Minister Nalin Fernando on Friday met the Egyptian Ambassador Maged Mosleh to discuss measures to boost bilateral ties.
+
+The Ambassador said that the Sri Lanka- Egypt Joint Commission on Trade and Economic Cooperation (JCTEC) would be an excellent platform to enhance bilateral economic ties between the two countries. The Minister said that Sri Lanka is considering convening the next session of the JCTEC in June this year.
+
+The Ambassador said that Africa is a potential and fast-growing and highly potential market and Sri Lankan exporters can exploit this potential by investing in Egypt. And Sri Lanka has an additional advantage through relatively relaxed rules of origin under a free trade agreement.
+
+During the meeting, the Minister explored the opportunity to import big onions from Egypt, and the Ambassador expressed willingness to assist with such imports.
+
+...
+
+[Data](articles/f288b2bc.json)
+
+---
+
+### KPMG’s technology openings; UK’s overcrowded prisons, reoffending rates, and new lifelines
+
+*2024-04-30 00:19:51* · [`dailyftlk`](https://www.ft.lk/columns/KPMG-s-technology-openings-UK-s-overcrowded-prisons-reoffending-rates-and-new-lifelines/4-761181) · `en`
+
+It provides a source of income, a new livelihood, a motivation to reform and an overall drop in reoffending rates
+
+This news item of the UK Telegraph is not simply interesting, but also provokes progressive thoughts, when you read the words of a current KPMG employee, a former offender. I have reproduced those words here.
+
+New thinking for GOSL, Prisons, our Ministry of Justice and forensics in our accounting profession?
+
+Rather than leave the thought behind, I am putting pen to paper and sharing this, such that it may trigger new thinking in our country, our profession, our corporate community. Thus this article today, in my now not so regular “Thought Leadership Forum” column.
+
+...
+
+[Data](articles/7a1373bf.json)
+
+---
+
+### 2019 Easter Sunday tragedy: National Peace Council says intl. role in ascertaining truth remains relevant
+
+*2024-04-30 00:18:11* · [`dailyftlk`](https://www.ft.lk/opinion/2019-Easter-Sunday-tragedy-National-Peace-Council-says-intl-role-in-ascertaining-truth-remains-relevant/14-761180) · `en`
+
+The National Peace Council (NPC) in a statement said yesterday that the international role in ascertaining the truth of the 2019 Easter Sunday tragedy remains relevant even today.
+
+On April 21, the country marked the fifth anniversary of the tragic Easter Sunday bombing that claimed the lives of approximately 300 persons and left more than 500 others injured and maimed. The enduring consequences of the Easter Sunday bombing need to be kept in mind. The economic repercussions, stemming from the decline in foreign investments and tourism, continue to haunt the country, contributing to the economic challenges faced today. The National Peace Council is particularly concerned that the erosion of trust in Government leadership, exacerbated by perceived failures in accountability and transparency, remains a pressing concern for all citizens. Unfortunately, this leads to frustration and loss of faith in the system, which can also lead to further injustices.
+
+...
+
+[Data](articles/ca42c0ba.json)
+
+---
+
+### Rotary International District 3220 Conference creates hope for Sri Lanka
+
+*2024-04-30 00:16:44* · [`dailyftlk`](https://www.ft.lk/news/Rotary-International-District-3220-Conference-creates-hope-for-Sri-Lanka/56-761178) · `en`
+
+Rotary International District 3220 Conference Creates Hope for Sri Lanka
+
+Rotary International is a worldwide network comprising 1.2 million corporate leaders in over 200 countries, dedicated to causes that improve the quality of lives and create a better world. Rotary educates and equips communities to stop the spread of life-threatening diseases like polio, HIV/AIDS, and malaria, whilst also improving and expanding access to low-cost and free health care in developing areas around the world and is the only service organisation in the world to be afforded a permanent seat in the United Nations for its role in promoting peace and goodwill among nations.
+
+...
+
+[Data](articles/aa48a847.json)
+
+---
+
+### Pakistan’s National Day reception held in Colombo
+
+*2024-04-30 00:14:49* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-s-National-Day-reception-held-in-Colombo/56-761177) · `en`
+
+The High Commission of the Islamic Republic of Pakistan hosted a National Day reception at BMICH, Colombo on 25 April 2024, which was attended by a large number of participants including Sri Lankan political leadership, diplomatic corps, Senior Defence Officials, Government representatives, prominent business personalities and Pakistani diaspora.
+
+The High Commissioner of Pakistan Faheem Ul Aziz HI (M) in his message on the occasion said that Pakistan and Sri Lanka continue to maintain their traditionally close and mutually beneficial relations, based on mutual respect and trust. He said that the strength of the Pakistan – Sri Lanka relationship lies in diversified engagement in many fields such as trade, defence, science, culture, and education. He also extended sincere greetings and best wishes on behalf of the government and people of Pakistan to the government and people of Sri Lanka.
+
+...
+
+[Data](articles/b89cacaa.json)
+
+---
 
 ### A call to end  ‘Corporal Punishment’  and create a fear-free childhood
 
@@ -208,6 +388,20 @@ While addressing an event organized in Ratnapura to distribute smart agriculture
 
 ---
 
+### May Day, May Day! Collective Rights versus Individual Rights
+
+*2024-04-29 22:45:07* · [`dailyftlk`](https://www.ft.lk/opinion/May-Day-May-Day-Collective-Rights-versus-Individual-Rights/14-761173) · `en`
+
+Weakening labour rights and a race to the bottom is never a recipe for inclusive, equitable and sustainable development
+
+When employers are permitted to collectively represent their interests, it is an implicit acknowledgement that there is unity in strength. If so, why should workers, weakly placed in the labour contract, evidenced by the fact that they do not earn a living wage, currently in a poverty trap and earning poverty wages, be curtailed from union representation? The few unions in the apparel sector do have to change their officer constituency and make them more representative of their workers. We are aware that unions need change, but that does not mean we throw the baby out with the bathwater
+
+...
+
+[Data](articles/0f4a8005.json)
+
+---
+
 ### BASL calls for removal of Minister Tiran Alles over controversial remarks
 
 *2024-04-29 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98926/basl-calls-for-removal-of-minister-tiran-alles-over-controversial-remarks) · `en`
@@ -223,6 +417,64 @@ Issuing a statement today (29), the BASL expressed grave concern over the aforem
 [Data](articles/456b10c2.json)
 
 [Extended Data](ext_articles/456b10c2.ext.json)
+
+---
+
+### A working peoples’ pledge on May Day 2024
+
+*2024-04-29 22:44:15* · [`dailyftlk`](https://www.ft.lk/opinion/A-working-peoples-pledge-on-May-Day-2024/14-761172) · `en`
+
+Following is a statement by UNITE – (a coalition of trade unions and mass movements) on May Day, pledging to fight against the inequalities which exist amongst us, and forging a struggle against the neoliberal State and international world order, which dispossess the working people
+
+On 4 May 1886, workers in Chicago staged a protest in the Haymarket Square, fighting for an eight-hour workday. Workers withstood brutal attacks by the police and sacrificed their lives and bodies to make the eight-hour workday a reality. All of us in Sri Lanka enjoy an eight-hour work day, which became one of our fundamental rights as working people as a result of the struggles and sacrifices of our predecessors. Today, we have come full circle where our Government and employers are drafting a new labour law shredding sanctified labour rights, including the eight-hour workday, under the guise of a single Employment Act.
+
+...
+
+[Data](articles/620b0813.json)
+
+---
+
+### Call to end corporal punishment against children in Sri Lanka: Vision for a fear-free childhood
+
+*2024-04-29 22:42:55* · [`dailyftlk`](https://www.ft.lk/columns/Call-to-end-corporal-punishment-against-children-in-Sri-Lanka-Vision-for-a-fear-free-childhood/4-761171) · `en`
+
+Today, I stand at the intersection of corporate leadership and social responsibility, deeply reflecting on the vital role we play in shaping a society that cherishes and protects its most vulnerable members—our children. Today, 30 April, is the International Day to End Corporal Punishment and I invite you to join me on a journey of reflection, action and commitment towards eradicating this deep-rooted societal ill.
+
+A study on the perceptions of Sri Lankan parents on the use of corporal punishment (2012) found that 74% of parents resort to corporal punishment and believed it to be a necessary means of disciplining children. Meanwhile, a National Child Protection Authority (2017) study on disciplinary methods practiced in Sri Lankan schools found that 8 out of 10 students have experienced at least one episode of corporal punishment in the school setting.
+
+...
+
+[Data](articles/a277375f.json)
+
+---
+
+### Greater social justice is cornerstone of more sustained recovery, ILO tells World Bank and IMF
+
+*2024-04-29 22:40:21* · [`dailyftlk`](https://www.ft.lk/opinion/Greater-social-justice-is-cornerstone-of-more-sustained-recovery-ILO-tells-World-Bank-and-IMF/14-761170) · `en`
+
+In statements to the World Bank and International Monetary Fund Spring Meetings in Washington DC, the ILO’s Director-General Gilbert F. Houngbo underlined “the crucial need for concerted, coordinated action at all levels” in the face of converging global crises
+
+International Labour Organization (ILO) Director-General Gilbert F. Houngbo has called for reinforced multilateralism and a focus on social justice for a sustained global recovery, highlighting the need to bolster investment in social policies, institutions, and dialogue.
+
+In statements delivered at the World Bank (WB) and International Monetary Fund (IMF) Spring Meetings in Washington DC, Houngbo invited relevant parties to join the recently established Global Coalition for Social Justice, which already includes more than 200 partners.
+
+...
+
+[Data](articles/e7fcb2d6.json)
+
+---
+
+### What’s Ranil’s secret?
+
+*2024-04-29 22:39:25* · [`dailyftlk`](https://www.ft.lk/columns/What-s-Ranil-s-secret/4-761169) · `en`
+
+Out of all the Lankan politicians, the most baffling case for me is Ranil Wickremesinghe. I mean, what leadership theory can explain his behaviour? What management theory can predict his actions? How can the same man ruin his party beyond repair and still become the president of a country? Who would even believe this stuff? It simply doesn’t add up, which makes it an interesting topic for research. Let’s try to analyse this anomaly, this outlier.
+
+Well, for starters, Ranil is one tough cookie. The man knows how to survive in the treacherous hellhole of politics. He’ll climb over dead bodies or lie under dead bodies, depending on the situation, just to live another day. I mean, think about all the UNP leaders who died along the way. But Ranil survived. Maybe that’s it. The whole of RW phenomena can be defined with just that simple explanation. But I think it’s more complicated than that.
+
+...
+
+[Data](articles/b099b662.json)
 
 ---
 
@@ -1909,361 +2161,5 @@ Under interrogation in camera, the boy revealed that the woman who accompanied h
 [Data](articles/f9300e3e.json)
 
 [Extended Data](ext_articles/f9300e3e.ext.json)
-
----
-
-### To the Sea of Ambalangoda Fisheries Harbor
-
-*2024-04-29 15:37:26* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-ධීවර-වරාය-මුහුදු-කෑමට/11-409324) · `si`
-
-"Fishermen in Ambalangoda Harbor report sea waves breaking into ports, causing seawater to flood the harbor, disrupting fishery operations."
-
-🟩
-
-Fishing said that the sea waves in the Portalangoda Fisheries Harbor today
-
-The fishermen say that the fishery harbors are breaking into the fishery ports.
-
-The seawater filled in the fisheries harbor, seawater has begun to lay down the flow of sea water.
-
-◼️
-
-[Data](articles/f91e440d.json)
-
-[Extended Data](ext_articles/f91e440d.ext.json)
-
----
-
-### Gaza Ceylon: Hamas examines Israel's new proposals
-
-*2024-04-29 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182239) · `ta`
-
-Hamas is reviewing Israel's new ceasefire and prisoner exchange proposals. Israel's response has been sent to Hamas, with Egyptian mediators facilitating talks. Despite a ceasefire, Israel's airstrikes continue, and the Gaza Health Ministry reports 34,388 deaths and 77,437 injuries since October 7. Israel claims 129 abducted people remain, and during the last ceasefire, 81 Israelis and 24 foreigners were released, along with 240 Palestinians. Two Palestinians were killed by Israeli soldiers near Jenin, and an Israeli attack in Lebanon resulted in the death of three, including two Hizbullah members.
-
-🟩
-
-The Hamas Movement has stated that Israel's reply to its proposals on the Gaza ceasefire and the exchange of prisoners has received the proposal report.
-
-In a statement issued by the Deputy Chairman of the Hamas Political Division on Saturday (27), the official response of the Zionist occupants was issued to the proposal to the Egyptian and Qatar mediators on April 13 on the position of the Hamas movement.. Hamas will explore this proposal. Then it will hand over its answer. ”
-
-Israel's response ideas have been sent to Hamas as the Egyptian mediators reached Israel on Friday for new round of talks on the Gaza ceasefire.
-
-Al -Kahera, allegedly involved in the Egyptian intelligence service, said that there has been a significant improvement in reducing the gaps of the Egyptian and Israeli representatives.
-
-There have been new expectations on the ceasefire as Israel's airstrike continued on Saturday night on Gaza's Rafa city.
-
-...
-
-[Data](articles/5c7571f3.json)
-
-[Extended Data](ext_articles/5c7571f3.ext.json)
-
----
-
-### Sri Lanka Bar calls for police minister to be replaced
-
-*2024-04-29 15:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-bar-calls-for-police-minister-to-be-replaced-160498/) · `en`
-
-ECONOMYNEXT – The Bar Association of Sri Lanka has called for Minister of Public Security Tiran Alles to be replaced and for recent remarks on encouraging Police to shoot suspects to be withdrawn.
-
-Justice has to be dispensed by court after a fair trial and the minister’s remarks are against the constitutional rights of the public, BASL said in a statement.
-
-According to media reports, the Minister asserted, ‘Eliminating criminals from the country is not a sin. Don’t be afraid to use the weapon in your hand for the right thing, and we stand by you.’
-
-“The Minister’s statement perpetuates a dangerous misconception that justice, sentencing, and punishment lie beyond the purview of the judiciary and can be administered arbitrarily, without adherence to due process,” BASL said.
-
-Resolution passed by Bar Council calling for the Minister of Public Security to retract recent statement: and requesting his excellency the President to reassign the portfolio of Public Security
-
-...
-
-[Data](articles/74ba7e90.json)
-
-[Extended Data](ext_articles/74ba7e90.ext.json)
-
----
-
-### Lourdes Aurudu Udawa 2024
-
-*2024-04-29 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lourdes-Aurudu-Udawa-2024/110-281572) · `en`
-
-'Lourdes Aurudu Udawa 2024' was held recently at the Basilica Church in Tewatte, Ragama. The event was organised by the Church Sunday school. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/1dfc71a3.json)
-
-[Extended Data](ext_articles/1dfc71a3.ext.json)
-
----
-
-### The government has built houses for 223 families affected by the Easter attack - Prasanna Ranatunga
-
-*2024-04-29 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182244) · `ta`
-
-The government has built houses for 223 families affected by the Easter attack, spending 139 million rupees. 11 more houses are under construction. The Gampaha Katuwapitiya church received houses for 144 families, costing 90.855 million rupees. The Kochchikadai church in Batticaloa district received houses for 70 families. The second phase of the project, costing over 5 million rupees, includes 11 houses. The government also built a Sunday moral school for the Kattuvapitti church, costing over 13 crores, with 14 classrooms on 2 floors.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga said that 223 families affected by the Easter attack. The construction of 11 more houses has been started.
-
-The government has spent 139 million rupees to build houses for 223 families.The construction of a new home, the construction of new houses and the reconstruction of houses has been carried out.
-
-Under this scheme, the Gampaha Katuwapitiya church has been provided with houses for more families in the area nearby.. 144 families related to the Kattuvapitiya church have been provided under this housing scheme. 90.855 million has been spent on the housing project on those churches.
-
-Nine families affected by the Easter attack on the Kochchikadai church have been constructed for 70 families affected by the Easter attack in the Batticaloa district.
-
-...
-
-[Data](articles/26fed55d.json)
-
-[Extended Data](ext_articles/26fed55d.ext.json)
-
----
-
-### This is a warning - careful
-
-*2024-04-29 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196095) · `si`
-
-Warning: Strong lightning expected in Western, Southern, Sabaragamuwa, Uva, and North-central areas, with thundershowers in Mannar. Temporary winds may occur. Take precautions to minimize lightning damage.
-
-🟩
-
-The Department of Meteorology has issued an announcement announcement on a strong lightning today (29).
-
-The announcement shows that the Western, Southern, Southern, Southern, Sabaragamuwa, Uva, Uva and North-central areas and thundershowers at the Mannar District.
-
-The Met Department forecasts temporary winds in these areas when thundershowers.
-
-The Department of Meteorology urges the public to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/46f74c34.json)
-
-[Extended Data](ext_articles/46f74c34.ext.json)
-
----
-
-### Mother who throws the 9 -month fetus into the well
-
-*2024-04-29 15:23:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாத-சிசுவை-கிணற்றில்-வீசிய-தாய்/175-336508) · `ta`
-
-A 9-month-old fetus was found in a well in Mahabhag, Ragama, and Hallanduruwa. The mother, Sisuh, threw the baby into the well. The infant's body was sent to Ragama Hospital for examination, and police are investigating.
-
-🟩
-
-The body of a 9 -month -old fetus has been recovered on Sunday (28) after floating in a well from a well in Mahabhag, Ragama and Hallanduruwa area.
-
-Police said that the Sisuh, the youngest daughter of Ghee Nushari Osman, a native of Halanduruwa Ragama, was rescued.
-
-According to information received by the police that the infant was missing, it was revealed that the mother lifted her baby and throw it into the well.
-
-The body of the infant has been sent to the Ragama Hospital for examination and further investigations are being carried out by Mahabhake Police.
-
-◼️
-
-[Data](articles/646b19c9.json)
-
-[Extended Data](ext_articles/646b19c9.ext.json)
-
----
-
-### People's Congress President Rishad Bathiudeen - Indian High Commissioner Meeting
-
-*2024-04-29 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182242) · `ta`
-
-Rishad Bathiudeen, People's Congress leader, met with Indian High Commissioner Santosh Ja, expressing gratitude for India's support during Sri Lanka's economic crisis. They discussed addressing challenges for fishermen in the East, sustainable livelihoods for war-affected in the North, and strengthening ties between Sri Lanka and India.
-
-🟩
-
-A special meeting was held at the Indian High Commission on Thursday (25) between All Ceylon People's Congress leader and parliamentarian Rishad Bathiudeen and Indian High Commissioner to Sri Lanka Santosh Ja.
-
-During the meeting, he expressed his heartfelt thanksgiving People's Congress leader Rishad for his precious support for India's precious support during the economic crisis and he congratulated the war -affected people in the North and East.
-
-In addition, in the Eastern Province, especially Nintavur, Oluvil, Karadivu, Mallikaikkadu, Pandaruppu, Maruthamunai and Kalmunai areas, the need to immediately address the challenges faced by the affected fishermen, and the High Commissioner to visit the East in the coming days.He appealed to the Government of India to provide the necessary assistance to control the seas in these areas and to protect the livelihood of the fishermen.
-
-...
-
-[Data](articles/73608dc9.json)
-
-[Extended Data](ext_articles/73608dc9.ext.json)
-
----
-
-### BASL urges President to remove Minister Alles
-
-*2024-04-29 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/BASL-urges-President-to-remove-Minister-Alles/155-281570) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Bar Association of Sri Lanka (BASL) has expressed serious concern over recent remarks made by Minister Tiran Alles, and urging President Ranil Wickremesinghe to remove him from the portfolio of Public Security.
-
-During its council meeting, the BASL condemned Minister Alles's statement at the passing out parade of the Katukurunda STF training camp, where he stated, "Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing, and we stand by you."
-
-In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhena expressed grave concern, noting that such remarks contradict fundamental principles enshrined in the Constitution and established criminal justice procedures.
-
-...
-
-[Data](articles/37329723.json)
-
-[Extended Data](ext_articles/37329723.ext.json)
-
----
-
-### BASL urges President to remove Minister Alles
-
-*2024-04-29 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BASL-urges-President-to-remove-Minister-Alles/108-281570) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Bar Association of Sri Lanka (BASL) has expressed serious concern over recent remarks made by Minister Tiran Alles, and urging President Ranil Wickremesinghe to remove him from the portfolio of Public Security.
-
-During its council meeting, the BASL condemned Minister Alles's statement at the passing out parade of the Katukurunda STF training camp, where he stated, "Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing, and we stand by you."
-
-In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhena expressed grave concern, noting that such remarks contradict fundamental principles enshrined in the Constitution and established criminal justice procedures.
-
-...
-
-[Data](articles/52d05ae7.json)
-
-[Extended Data](ext_articles/52d05ae7.ext.json)
-
----
-
-### Northern education is degraded by corrupt - National People's Power. District organizer
-
-*2024-04-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182235) · `ta`
-
-Jaffna District Organizer Ramalingam Chandrasekaran accuses Northern Province of corruption in education, criticizing lack of qualified secretaries and administrative issues. He suggests the Northern Governor should address these issues.
-
-🟩
-
-Jaffna District Organizer of the National People's Power Ramalingam Chandrasekaran has accused the Northern Province of the Northern Province of the Northern Province of the Northern Province.
-
-Corruption is found in northern education. I see the procedure in the North as a destruction of Northern education, without being punished for the accused officers.
-
-There are no qualified secretaries in the four ministries in the North and there are problems in making administrative decisions.
-
-Some are trying to put them aside and have the opportunity to hire eligible people.
-
-It is doubtful whether the Northern Governor is overlooking such activities or whether he is behind such activities.
-
-Therefore, the Northern Province Governor should take appropriate action as the Northern Education Corruption is deteriorating.
-
-◼️
-
-[Data](articles/e585c959.json)
-
-[Extended Data](ext_articles/e585c959.ext.json)
-
----
-
-### In Mexico's terrible bus accident
-
-*2024-04-29 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196094) · `si`
-
-In Mexico, a bus accident on the way to Chalma Sanctuary from San Luis de la Paz resulted in 18 deaths and 32 injuries.
-
-🟩
-
-18 people were killed and 32 others were injured in a bus accident in Mexico.
-
-A bus traveling from the SAN LUIS DA PAZ has been traveling to the Chalma Sanctuary.
-
-The bus was reported that the bus was infectioning on the highway.
-
-◼️
-
-[Data](articles/dbb79bfc.json)
-
-[Extended Data](ext_articles/dbb79bfc.ext.json)
-
----
-
-### Sri Lanka’s Sarvodaya DF gets 3mn loan from EU for agriculture
-
-*2024-04-29 15:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-sarvodaya-df-gets-3mn-loan-from-eu-for-agriculture-160489/) · `en`
-
-ECONOMYNEXT – Sarvodaya Development Finance Plc will receive a loan facility of 3 million dollars from EDFI Management Company, which is funded through the European Union.
-
-“This loan facility aims at supporting the Company’s Agriculture Portfolio, especially the agricultural leasing product enabling farmers to access agricultural machinery such as tractors and harvesters at affordable rates and become owners via leasing scheme,” the company said in a stock exchange filing.
-
-The company was responding to a story published in the Daily Mirror.
-
-“As considered by EDFI, this investment rolls out the principle of the Global Gateway in Sri Lanka, which is Europe’s Strategy to better connect the world and to create the proper conditions for attractive investment opportunities.”
-
-SDF shares were trading up at 14.00 on Monday. (Colombo/Apr29/2024)
-
-◼️
-
-[Data](articles/5a003ea0.json)
-
-[Extended Data](ext_articles/5a003ea0.ext.json)
-
----
-
-### The President should immediately remove Tran Ales from the post of Minister of Public Safety
-
-*2024-04-29 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182236) · `ta`
-
-The Sri Lanka Lawyers Association criticizes the government's actions, including the removal of Tran Ales from the Minister of Public Safety post, and the Special Task Force's involvement. They argue that expelling perpetrators is not a crime and that the judiciary's actions are justified. The association also claims that the judiciary's punishment and the deaths of law enforcement officers are increasing, leading to demands for the Minister to withdraw his claims and for the President to be removed for promoting impunity and ignoring the law.
-
-🟩
-
-The Sri Lanka Lawyers Association has condemned its recent meeting at a meeting held at a face of the Special Task Force.
-
-It is not a crime to expel the perpetrators from the country.
-
-The Sri Lanka Lawyers Association has said that it is contrary to the fundamental policies stated in the constitution of Sri Lanka and the procedures of the Criminal Justice System.
-
-The Sri Lanka Lawyers Association has said that the provision of justice, including fines for those who fail, has said that the judiciary is completely under justification of the judiciary.
-
-The Sri Lankan lawyers' union has said that the deaths of the judiciary and the judicial judicial punishment of the judicial judicial judicial and the judicial judiciary are creating the claim that the deaths of the law enforcement sect have increased.
-
-The Minister of Sri Lanka's Lawyers Association said that the minister continued to make a need to repay them in a state of indiscriminate and misconceptions.
-
-...
-
-[Data](articles/0605ec35.json)
-
-[Extended Data](ext_articles/0605ec35.ext.json)
-
----
-
-### Deadline for accepting donations for Gaza Fund extended till May 31
-
-*2024-04-29 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Deadline-for-accepting-donations-for-Gaza-Fund-extended-till-May-31/108-281568) · `en`
-
-Colombo, April 29 (Daily Mirror)- The deadline for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to aid those affected by conflicts in Gaza, has now been extended till May 31, 2024, the President’s Media Division (PMD) said.
-
-Originally scheduled to conclude on April 30, 2024, the extension follows a widespread appeal from across the island.
-
-Irrespective of their backgrounds, citizens have rallied behind the President's call to support this cause, the PMD said.
-
-In the initial phase, on behalf of the government, President Ranil Wickremesinghe handed over USD 01 million to the Palestinian government through the United Nations from the allocations set aside by Ministries and government institutions to hold this year's Iftar celebration. Subsequent donations will also be formally transferred to the Palestinian government.
-
-...
-
-[Data](articles/98dc28d5.json)
-
-[Extended Data](ext_articles/98dc28d5.ext.json)
-
----
-
-### The price of gold is mutilated
-
-*2024-04-29 14:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்கத்தின்-விலை-சடுதியாக-குறைந்தது/175-336507) · `ta`
-
-Gold prices vary: 1 oz at Rs. 690,898, 1 gram at Rs. 24,380, 1 pound at Rs. 195,000; 22 grams at Rs. 22,350, 8 grams at Rs. 178,800, 21 grams at Rs. 21,340, 21 pounds at Rs. 170,700.
-
-🟩
-
-Today is Monday (29) the price of an ounce of gold at Rs.. 690,898
-
-Accordingly, 24 carat 1 grams of gold has been recorded at 24,380 rupees and 24 carat 1 pound gold (8 grams) 195,000 rupees.
-
-Meanwhile, 22 grams of gold has fallen to 22,350 rupees, 22 grams 8 grams of gold at 178,800 rupees, 21 grams 1 gram gold 21,340 rupees and 21 pounds of gold have declined to 170,700 rupees.
-
-◼️
-
-[Data](articles/8e7ba1eb.json)
-
-[Extended Data](ext_articles/8e7ba1eb.ext.json)
 
 ---

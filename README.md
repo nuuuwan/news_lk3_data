@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 17:03:50**
+As of **2024-04-29 17:18:48**
 
 ## Newspaper Stats
 
-*Scraped **21,615** Articles*
+*Scraped **21,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,807
-tamilmirrorlk | 2,513
-adaderanalk | 2,570
+adalk | 1,809
+tamilmirrorlk | 2,514
+adaderanalk | 2,571
 virakesarilk | 3,255
-dailymirrorlk | 3,359
+dailymirrorlk | 3,361
 adaderanasinhalalk | 3,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,615 (100.0%) of 21,615 articles have been extended.
+21,615 (100.0%) of 21,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Scotland’s Humza Yousaf resigns as country’s leader
+
+*2024-04-29 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98919/scotlands-humza-yousaf-resigns-as-countrys-leader) · `en`
+
+Scotland’s leader Humza Yousaf resigned on Monday, further opening the door to the UK opposition Labour Party to regain ground in its former Scottish heartlands in a national election expected later this year.
+
+Yousaf quit as head of the pro-independence Scottish National Party (SNP) after a week of chaos triggered by his scrapping of a coalition agreement with Scotland’s Greens.
+
+He then failed to secure enough support to survive votes of no confidence against him expected later this week.
+
+Resigning little over a year after he replaced Nicola Sturgeon as first minister and SNP leader, Yousaf said it was time for someone else to lead Scotland’s devolved government.
+
+The SNP’s fortunes have faltered over a funding scandal and the resignation of Sturgeon as party leader last year. There has also been infighting over how progressive its pitch should be as it seeks to woo back voters.
+
+...
+
+[Data](articles/d28c015d.json)
+
+---
+
+### இராஜாங்க அமைச்சரின் விசேட அவதானம்
+
+*2024-04-29 16:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரின்-விசேட-அவதானம்/175-336513) · `ta`
+
+பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் (21) ஆம் திகதி பதுளை மாவட்டத்தின் கரந்தகொல்ல பிரதேசத்தில் எல்ல வெல்லவாய வீதிக்கு அருகில் ஏற்பட்ட மண்சரிவு குறித்து விசேட அவதானம் செலுத்தியதுடன், மேலும் குறித்த சம்பவ இடத்தை மீண்டும் ஆய்வு செய்து விரிவான அறிக்கையை விரைவில் சமர்ப்பிக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு உத்தரவிட்டார்.
+
+மேலும், எதிர்காலத்தில் குறித்த பகுதியில் ஏற்படும் மன்சறிவு அபாயங்களை தடுப்பதற்கான தேவையான உடனடி நடவடிக்கைகளை எடுப்பதற்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் மற்றும் இடர் முகாமைத்துவ நிலைய அதிகாரிகளுக்கு தேவையான அறிவுறுத்தல்களை இராஜாங்க அமைச்சர் வழங்கினார்.
+
+அமைச்சரின் அறிவுறுத்தல்களுக்கு அமைவாக, இடர் முகாமைத்துவ நிலையத்தின் பணிப்பாளர் நாயகம், தேசிய கட்டிட ஆராய்ச்சி நிலையத்தின் பணிப்பாளர் நாயகம் மற்றும் புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகத்தின் விஞ்ஞானிகள் அடங்கிய நிபுணர் குழு மே மாதம் 01)ஆம் திகதி  குறித்த நிலப்பகுதி குறித்து கள ஆய்வு செய்து தேவையான பரிந்துரைகளை வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/26f65eba.json)
+
+---
+
+### Prisoner swallows fluorescent light, hospitalised
+
+*2024-04-29 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prisoner-swallows-fluorescent-light-hospitalised/108-281575) · `en`
+
+An inmate of the Dumbara prisons who swallowed a fluorescent light bulb was admitted to the Kandy National Hospital.
+
+The 42 year old prisoner from Gampola had been fround guilty of robbery and sentenced to five years imprisonment in 2022.
+
+A spokesman for the hospital said the prisoner had developed inflammation in his stomach and he would undergo a scan.
+
+The prisoner told police that two prison officers had taken him to a room and assaulted him while questioning whether he had a mobile phone with him and that he pulled down a fluorescent tube light in the room and had swallowed it in pieces.
+
+◼️
+
+[Data](articles/bc761091.json)
+
+---
+
+### No sports skills considered for school admissions
+
+*2024-04-29 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-sports-skills-considered-for-school-admissions/108-281574) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Education Ministry has announced that government schools and government-approved private schools will no longer admit students to intermediate grades based on sports skills.
+
+They said the admission will strictly adhere to instructions outlined in the relevant circular.
+
+The Ministry has issued necessary instructions to principals in this regard.
+
+◼️
+
+[Data](articles/a1bf6265.json)
+
+---
 
 ### A tragedy of Kenya
 
@@ -791,6 +861,24 @@ It says that "the Governing Body of the Central Bank has been given to the Emplo
 [Data](articles/c271772e.json)
 
 [Extended Data](ext_articles/c271772e.ext.json)
+
+---
+
+### පිරිමි දරුවෙක් එංගලන්තයට ගෙන යාමේ තැත වරදියි
+
+*2024-04-29 13:39:30* · [`adalk`](https://www.ada.lk/breaking_news/පිරිමි-දරුවෙක්-එංගලන්තයට-ගෙන-යාමේ-තැත-වරදියි/11-409322) · `si`
+
+දැනට එංගලන්තයේ වාසය කරන ශ්‍රී ලාංකික මවකගේ සහ ඇයගේ පුතාගේ තොරතුරු අනුසාරයෙන් ව්‍යාජ ලියකියවිලි සකස් කර වෙනත් කාන්තාවක යොදා ගෙන 17 හැවිරිදි ද්‍රවිඩ ජාතික පිරිමි ළමයෙකු එරටට රැගෙන යාමට ගත් උත්සාහයක් ව්‍යයර්ථ කර මෙම ජාවාරමට සම්බන්ධ කාන්තාවන් දෙදෙනෙකු 04/26 දින කටුනායක ගුවන් තොටුපොළේ දී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+මුලතිව් ප්‍රදේශයේ පදිංචි කාන්තාවක් , පිරිමි දරුවෙකු ද සමග  04/26 දින දහවල් 01.30 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 503 දරන ගුවන් යානයෙන් එංගලන්තයේ ලන්ඩන් නුවර බලා පිටත්ව යාම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+සිය ගුවන් සේවා නිශ්කාශන කටයුතු සිදු කර ගැනීම සදහා ශ්‍රී ලන්කන් ගුවන් සේවා කවුළුව වෙත පැමිණ සිටියදී , එම ගුවන් සේවා නිලධාරිනියන්ට මෙම ලියකියවිලි පිළිබඳව ඇති වූ සැකය මත මොවුන් දෙදෙනා ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් වෙත භාර දී තිබේ .
+
+එහිදී සිදු කළ තාක්ෂණික පරීක්ෂා කිරීම් වල දී මෙම ලියකියවිලි කූඨ ලෙස සකස් කළ ඒවා බව තහවුරු වී තිබේ .
+
+...
+
+[Data](articles/5a9c6037.json)
 
 ---
 
@@ -1584,6 +1672,26 @@ One of the men was found in a tree hanging in a tree.
 
 ---
 
+### අහසට පොලොව වගේ තිබෙන දඹුල්ලේ එළවළු සිල්ලර හා තොග මිල
+
+*2024-04-29 10:59:14* · [`adalk`](https://www.ada.lk/picture_story/අහසට-පොලොව-වගේ-තිබෙන-දඹුල්ලේ-එළවළු-සිල්ලර-හා-තොග-මිල/10-409320) · `si`
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග මිල සීඝ්‍රයෙන් පහත වැටෙද්දී  දෙහි සහ අමු ඉඟුරු කිලෝවක තොග මිල ශීඝ්‍රයෙන් ඉහළ ගොස් ඇතැයි ආර්ථික මධ්‍යස්ථාන වෙළඳ ව්‍යාපාරිකයෝ පෙන්වා දෙති.
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානට මේ දිනවල වැඩි වශයෙන් එළවලු තොග ලැබුනද ඒවා මිලදී ගැනීම සඳහා පිටස්තර වෙළෙන්දන්ගේ පැමිණීම අඩු වී තිබෙන බවත් වෙළෙන්දන්ගේ පැමිණීම අඩුවී ඇත්තේ එළවලු  පරිභෝජනය කරන ප්‍රමාණය සීඝ්‍රයෙන් පහළ යෑම හේතුවෙන් බවද ඔවුහු පෙන්වා දෙති.
+
+එහෙත් දඹුල්ල ආර්ථික මධ්‍යස්ථානයට යාබදව පිහිටා ඇති එළවළු  සිල්ලර අලෙවි කරන වෙළදසැල් වල ඉහළ මිල ගණන් යටතේ අලෙවි වන බව පාරිභෝගික ජනතාව පෙන්වා දෙති.
+
+සිල්ලර වෙළෙන්දන් කියා සිටින්නේ එළවලු අලවි නොවී දිනගණන් තිබී විනාශ වන නිසා මිල ඉහළ ඉහල යන බවය.
+
+අමු මිරිස් ,වම්බටු , තක්කාලි ,කැකිරි ආදී එළවලු  වර්ග බොහොමයක් රුපියල් දහයත් හතළිහත් අතර  මිල ගණන්  යටතේ අලවි වන බවත් බොහෝ දුරට අලවි  නොවී  දිනක් පසුවීමත් සමග විනාශ වන බව ගොවීන් පෙන්වා දෙති.
+
+...
+
+[Data](articles/f5f4c918.json)
+
+---
+
 ### Notice issued to former Minister Fowzie
 
 *2024-04-29 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196081) · `si`
@@ -2313,139 +2421,5 @@ Police say the suspect is the case with the ice drugs and he is currently questi
 [Data](articles/00ead02d.json)
 
 [Extended Data](ext_articles/00ead02d.ext.json)
-
----
-
-### Classical Erudition Of SWRD Bandaranaike
-
-*2024-04-29 09:18:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/classical-erudition-of-swrd-bandaranaike/) · `en`
-
-...
-
-[Data](articles/8c61ece3.json)
-
-[Extended Data](ext_articles/8c61ece3.ext.json)
-
----
-
-### Success after failure;The recovery of the Chennai team
-
-*2024-04-29 09:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தோல்விக்கு-பிறகு-வெற்றி-மீண்டு-வந்த-சென்னை-அணி/44-336482) · `ta`
-
-Chennai Super Kings, led by Rutraj, bounced back from losses by defeating Hyderabad in the 46th IPL match, setting a target of 213 and bowling out Hyderabad for 134, winning by 78 runs. Key players were Rutraj Kaikwad (98 runs) and Dial Mitchell (52 runs). Dusar Daspande took 4 wickets, with Mustafizur Rahman and Badra each taking 2.
-
-🟩
-
-The Chennai Super Kings team, led by Rutraj, who suffered a bad defeat in the next two matches, faced Hyderabad in the 46th match of the current IPL.
-
-The Chennai team first batted at the Chepakkam Ground in Chennai yesterday and set a target of 213 runs for Hyderabad.
-
-Rutraj Kaikwad scored 98 runs and Dial Mitchell scored 52 runs.
-
-The Chennai Super Kings, who bowled well, took the wicket of all the major players in the Hyderabad team and controlled it to 134 runs.
-
-The Chennai Super Kings team, which won by 78 runs, advanced to the third place in the current series.
-
-Dusar Daspande took 4 wickets for the Chennai Super Kings team in bowling, while Mustafizur Rahman and Badra each took 2 wickets each.
-
-◼️
-
-[Data](articles/b4377240.json)
-
-[Extended Data](ext_articles/b4377240.ext.json)
-
----
-
-### Alarm about the temperature
-
-*2024-04-29 09:09:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்பநிலை-குறித்து-எச்சரிக்கை/175-336481) · `ta`
-
-The Department of Meteorology warns of a temperature rise today (29°C) across many parts of the country, especially in the North, North Central, Sabaragamuwa, Eastern, and North Western provinces. Moneragala and Hambantota districts are also affected. Advised measures include adequate watering, staying in the shade, and reducing outdoor activities.
-
-🟩
-
-The Department of Meteorology has said that the temperature will increase to the level of observation today (29) in many parts of the country.
-
-The department said that the human body could increase in the North, North Central, Sabaragamuwa, Eastern and North Western provinces.
-
-Meanwhile, the situation will increase in Moneragala and Hambantota districts and some places.
-
-People have been advised to adopt measures such as adequate watering, relaxing in shadow and reducing the outside.
-
-◼️
-
-[Data](articles/647370e0.json)
-
-[Extended Data](ext_articles/647370e0.ext.json)
-
----
-
-### Mother killed baby in well due to family dispute
-
-*2024-04-29 09:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/182193) · `ta`
-
-A mother from Ragama killed her 9-month-old child in a well due to a family dispute. The police arrested Mahabhake.
-
-🟩
-
-Police said that a nine -month -old child was thrown into a well and killed by a mother.
-
-Subsequently, the child was accused of murdering the child into a well. Mother Mahabhake police have arrested.
-
-A 30 -year -old mother from Ragama area has been arrested, police said.
-
-Police say they suspect the child may have been killed in a well near the house due to a family dispute.
-
-◼️
-
-[Data](articles/db6edeb5.json)
-
-[Extended Data](ext_articles/db6edeb5.ext.json)
-
----
-
-### Hurricane 4 killed in Oklahoma, USAState of emergency
-
-*2024-04-29 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/182192) · `ta`
-
-Hurricane 4 in Oklahoma killed 4, including a child, and caused a state of emergency. Buildings in Salfur were destroyed, affecting 5,000 people. The White House declared an emergency.
-
-🟩
-
-Four people, including a child, were killed in a tornado on Sunday in Oklahoma, USA.
-
-Also, buildings have been grounded in the center of a rural city due to heavy weather.
-
-The city has melted out in Salfur, where about 5,000 people live.. Cars and buses have been thrown.
-
-White House officials said that Oklahoma emergency has been declared.
-
-◼️
-
-[Data](articles/ab8bf6c3.json)
-
-[Extended Data](ext_articles/ab8bf6c3.ext.json)
-
----
-
-### Showers of 100 mm after 1 p.m. today
-
-*2024-04-29 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-of-100-mm-after-1-p-m-today/108-281545) · `en`
-
-Colombo, April 29 (Daily Mirror) - Due to the effect of the Intertropical Convergence Zone, heavy showers above 100 mm will occur in most provinces of the island after 1 p.m., the forecasting division of the National Meteorological Centre said.
-
-The Intertropical Convergence Zone is where winds from the Northern Hemisphere and Southern Hemisphere converge.
-
-They said heavy showers of 100mm are likely at some places in the Western, Sabaragamuwa, Southern and North-Western Provinces.
-
-Meanwhile, showers may occur at several places in the coastal areas of the Eastern and Southern Provinces and in the Mullaitivu district during the morning.
-
-However, misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces during the morning.
-
-◼️
-
-[Data](articles/87b14251.json)
-
-[Extended Data](ext_articles/87b14251.ext.json)
 
 ---

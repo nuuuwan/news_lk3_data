@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 06:18:50**
+As of **2024-04-29 06:57:34**
 
 ## Newspaper Stats
 
-*Scraped **21,468** Articles*
+*Scraped **21,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 185
 bbccomsinhala | 224
 dbsjeyarajcom | 228
 newsfirstlk | 363
-islandlk | 1,164
+islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,792
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,468 (100.0%) of 21,468 articles have been extended.
+21,468 (100.0%) of 21,477 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -865,6 +865,82 @@ Hundreds of farmers participated in the event as the general public.
 [Data](articles/d8527b23.json)
 
 [Extended Data](ext_articles/d8527b23.ext.json)
+
+---
+
+### govi.ai captures industry attention at Future Harvest Expo 2024
+
+*2024-04-28 20:52:00* · [`islandlk`](http://island.lk/govi-ai-captures-industry-attention-at-future-harvest-expo-2024/) · `en`
+
+govi.ai, a leading innovator in agricultural IoT solutions, presented a successful program at the recent Future Harvest Exhibition held at the Bandaranayake Memorial International Conference Hall (BMICH) from March 29 to 31.  The govi.ai team showcased their innovative agri tech solutions in a live demo station, catered to empowering farmers (from smallholder to commercial) to adopt a data-driven approach to farming.
+
+Dr.Harsha de Silva, M.P. was one of the many visitors to the govi.ai demo station, commenting, “As a modern farmer myself, I found the tech innovations by govi.ai most appropriate in moving the needle in improving the efficiency of farmers. Agri tech is an absolute essential element in pushing up farmer productivity, and I hope govi.ai will success in getting the rather tech-averse farmers to see the benefits of this technology.”
+
+...
+
+[Data](articles/f941bc73.json)
+
+---
+
+### Kaspersky extends business footprint to Sri Lanka
+
+*2024-04-28 20:51:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka-2/) · `en`
+
+Kaspersky, the global cybersecurity and digital privacy company, announced its expansion into new territories in Asia Pacific (APAC), including Sri Lanka, Cambodia, and Bangladesh. This strategic move marks a significant milestone in the company’s mission to fortify digital infrastructure across the developing economies in the region, particularly on the enterprise cybersecurity market.
+
+As cyber threats continue to evolve and proliferate worldwide, Kaspersky recognizes the imperative of extending its holistic suite of cybersecurity solutions services to emerging markets in APAC. With its proven track record of delivering innovative solutions and expertise, the company is poised to address the escalating cybersecurity challenges faced by individuals, governments, and private organizations in Cambodia, Sri Lanka, and Bangladesh.
+
+...
+
+[Data](articles/aafab2a6.json)
+
+---
+
+### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
+
+*2024-04-28 20:48:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023-3/) · `en`
+
+Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
+
+The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
+
+Sustainability has always been a core pillar of SLT-MOBITEL’s corporate strategy. The recognition reaffirms SLT-MOBITEL’s position as a champion of sustainable development in Sri Lanka amidst continuous efforts to minimize its environmental footprint.
+
+The ‘Best Corporate Citizen Sustainability Award’ celebrates organizations that have implemented comprehensive sustainability initiatives spanning Environmental, Social and Governance (ESG) aspects.
+
+...
+
+[Data](articles/58b41f09.json)
+
+---
+
+### ComBank breaks new ground in Sri Lanka enabling Alipay QR payments for merchants
+
+*2024-04-28 20:46:00* · [`islandlk`](http://island.lk/combank-breaks-new-ground-in-sri-lanka-enabling-alipay-qr-payments-for-merchants/) · `en`
+
+The Commercial Bank of Ceylon has opened up a world of new opportunities for Sri Lankan businesses, by becoming the first bank in Sri Lanka to enable Alipay QR Code payments under unified Lanka QR.
+
+Alipay e-wallet holders, currently numbering over 1 billion, can now scan the Commercial Bank LankaPay unified QR code issued to Sri Lankan merchants to make payments from anywhere in the world, as a result of this latest development.
+
+The Bank said more than 50,000 of the Bank’s merchants will be enabled to accept the Alipay QR when the Bank completes the deployment of the new QR across its network, facilitating access to a vast new customer segment. Around 28,000 merchants who have POS devices can already accept Alipay QR payments via POS devices after enabling the service by calling the bank.
+
+...
+
+[Data](articles/bcd501a8.json)
+
+---
+
+### Colombo International Tea Convention to drive global dialogue on tea as a lifestyle and a livelihood
+
+*2024-04-28 20:41:00* · [`islandlk`](http://island.lk/colombo-international-tea-convention-to-drive-global-dialogue-on-tea-as-a-lifestyle-and-a-livelihood/) · `en`
+
+The Colombo International Tea Convention will be held from the 24th to the 26th July 2024, bringing together the biggest leaders and disruptors of the tea industry to inspire insightful conversation, hard hitting dialogue and fresh perspectives that will shape the future of Tea.
+
+The convention, freshly rebranded under the timely theme Tea: A Lifestyle and A Livelihood, will shine the spotlight on Tea in all its forms, as an integral part of cultures and lifestyles across the world, and provoke meaningful dialogue and action on globally applicable, sustainable solutions to uplift diverse tea communities and tea growing environments across the world.
+
+...
+
+[Data](articles/54a60a96.json)
 
 ---
 
@@ -2189,131 +2265,5 @@ Police say the deceased is 50 years old and has not been identified yet. The bod
 [Data](articles/30f35f0d.json)
 
 [Extended Data](ext_articles/30f35f0d.ext.json)
-
----
-
-### Sri Lanka coconut prices tumble for third week at auction
-
-*2024-04-28 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-tumble-for-third-week-at-auction-160324/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices fell to 63,231 per 1,000 nuts at an auction on April 2024 from 64,094.03 a week earlier, data from the Coconut Development Authority shows.
-
-The highest price was 72,200 rupees for 1,000 nuts down from 72,100 rupees a week ago, while the lowest remained at 60,000.
-
-A total of 811,217 coconuts were offered at the auction and only 360,531 nuts were sold as prices fell for the third week in a row.
-
-Coconut prices are down 16 percent from the last auction in December 2023.
-
-Wholesale prices were 95 to 100 rupees for large nuts and 85 to 90 rupees per small nut in the week to April 4, 2024.
-
-Farmgate prices in Kurunegala was 72,000- 75,000 per 1000 nuts.
-
-Coconut shells were 32,000 – 34,000 rupees per metric ton. (Colombo/Apr29/2024)
-
-◼️
-
-[Data](articles/dce85d05.json)
-
-[Extended Data](ext_articles/dce85d05.ext.json)
-
----
-
-### Two women and men arrested on suspicion
-
-*2024-04-28 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196049) · `si`
-
-A man and two women were arrested in Kilinochchi for suspicion, linked to a 41-year-old from Vavuniya and a 30-year-old from Dharmapuram. The police found over 4 kilos of doubt, leading to their arrest. The STF received information leading to their arrest. Further investigations are ongoing.
-
-🟩
-
-A man was arrested by police with two women with pseudo bodies in Kilinochchi area.
-
-The man has been arrested for a 41 year old resident of Vavuniya, a 41-year-old resident of Dharmapuram, 30 and 32 years old.
-
-Police said that the police grew by more than 4 kilos of doubt that the police have found.
-
-The group was arrested in connection with the information received by the STF in the Police Special Task Force.
-
-The suspects have been handed over to the Kilinochchi Police for further investigations.
-
-◼️
-
-[Data](articles/247def43.json)
-
-[Extended Data](ext_articles/247def43.ext.json)
-
----
-
-### Removal of university non -academic staff
-
-*2024-04-28 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182136) · `ta`
-
-The Cabinet will report on eliminating salary conflicts for non-academic university staff, addressing professional issues unresolved since 2016.
-
-🟩
-
-It has been decided to submit a Cabinet report to the Cabinet Subcommittee on the elimination of salary conflicts and payments of non -academic staff.
-
-It has been reported that there are massive professional problems in the state university organization due to lack of successful measures to find a solution to the problem since 2016.
-
-The Ministry of Education has said that the Cabinet reports on this issue will be submitted to the Cabinet Subcommittee on the 8th.
-
-◼️
-
-[Data](articles/f6497d96.json)
-
-[Extended Data](ext_articles/f6497d96.ext.json)
-
----
-
-### Govt. Going on Trade and went to the President of Ranil
-
-*2024-04-28 12:02:06* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-පෙරලුවෙත්-කෝච්චියෙන්-ගිහින්-රනිල්-ජනපති-කරන්නෙත්-කෝච්චියෙන්-ගිහින්/11-409299) · `si`
-
-UNP Chairman Vajira Abeywardena met President Mahinda Rajapaksa, announcing UNP's participation in May Day events in Colombo and Ambalangoda. He claimed to have 100,000 supporters and declared his independence from the party, aiming to challenge President Ranil Wickremesinghe.
-
-🟩
-
-UNP Chairman Vajira Abeywardena told the UNP Chairman Vajira Abeywardena to go to train and went to the president of the government.
-
-He said that this time the UNP south was traveling to Colombo for May Day in Colombo and Ambalangoda.
-
-He said his supporters would participate in 100,000 people to date by President Mahinda Rajapaksa this year.
-
-Mr. Vajira Abevolution said that President fight Ranil is coming from a party this year, he is independent.
-
-The May Day is gone to the May Day for the first stage of making Ranil to the President.
-
-◼️
-
-[Data](articles/c0253a9b.json)
-
-[Extended Data](ext_articles/c0253a9b.ext.json)
-
----
-
-### Freedom Party also a candidate
-
-*2024-04-28 11:56:56* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයෙනුත්-ජනපති-අපේක්ෂකයෙක්/11-409298) · `si`
-
-Dissantha Mithrapala, SLFP MP, announced a potential presidential candidate and participated in the SLFP May Day rally with trade unions, including the Free Employee Union.
-
-🟩
-
-Member of the Sri Lanka Freedom Party (SLFP Executive and Political Bureau) MP Dissanihantha Mithrpala said that if a candidate from the SLFP was announced if a presidential election was presented.
-
-When the SLFP May Day rally, including the Free Employee Union and the trade union organizations, the Municipal Council said so when he came to the field.
-
-He said that the May Day rally could participate in the May Day rally, and he said.
-
-Dissantha Mithrapala said that the Sri Lanka Freedom Party Day Day Day rally will be held with the trade union organizations, including the Free Employee Union.
-
-Former Parliamentarian Sachinwas Gunawardena, including the SLFP Gampaha District organizers, were also present.
-
-◼️
-
-[Data](articles/c12c8c5e.json)
-
-[Extended Data](ext_articles/c12c8c5e.ext.json)
 
 ---

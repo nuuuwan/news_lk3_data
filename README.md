@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 18:52:39**
+As of **2024-04-29 19:03:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,638 (100.0%) of 21,639 articles have been extended.
+21,639 (100.0%) of 21,639 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ The woman, who is a resident of the Mullaitivu area, had arrived at the BIA at a
 ...
 
 [Data](articles/f9350dce.json)
+
+[Extended Data](ext_articles/f9350dce.ext.json)
 
 ---
 

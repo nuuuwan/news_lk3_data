@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 06:57:34**
+As of **2024-04-29 07:18:31**
 
 ## Newspaper Stats
 
-*Scraped **21,477** Articles*
+*Scraped **21,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 2,484
 adaderanalk | 2,557
 virakesarilk | 3,230
 dailymirrorlk | 3,340
-adaderanasinhalalk | 3,474
+adaderanasinhalalk | 3,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,468 (100.0%) of 21,477 articles have been extended.
+21,477 (100.0%) of 21,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### පළාත් කිහිපයකට අදත් තද වැසි
+
+*2024-04-29 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196067) · `si`
+
+අන්තර් නිවර්තන අභිසාරී කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ ගෝලයේ සිට පැමිණෙන සුළං අභිසාරී වන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් කරමින් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව , දිවයිනේ බොහෝ පළාත්වල තැනින් තැන පස්වරු 1න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+නැගෙනහිර සහ දකුණු පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (29) දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+...
+
+[Data](articles/4ba8aa39.json)
+
+---
 
 ### Sarigamaba Season 4 Music Competition
 
@@ -880,6 +904,8 @@ Dr.Harsha de Silva, M.P. was one of the many visitors to the govi.ai demo statio
 
 [Data](articles/f941bc73.json)
 
+[Extended Data](ext_articles/f941bc73.ext.json)
+
 ---
 
 ### Kaspersky extends business footprint to Sri Lanka
@@ -893,6 +919,8 @@ As cyber threats continue to evolve and proliferate worldwide, Kaspersky recogni
 ...
 
 [Data](articles/aafab2a6.json)
+
+[Extended Data](ext_articles/aafab2a6.ext.json)
 
 ---
 
@@ -912,6 +940,8 @@ The ‘Best Corporate Citizen Sustainability Award’ celebrates organizations t
 
 [Data](articles/58b41f09.json)
 
+[Extended Data](ext_articles/58b41f09.ext.json)
+
 ---
 
 ### ComBank breaks new ground in Sri Lanka enabling Alipay QR payments for merchants
@@ -928,6 +958,8 @@ The Bank said more than 50,000 of the Bank’s merchants will be enabled to acce
 
 [Data](articles/bcd501a8.json)
 
+[Extended Data](ext_articles/bcd501a8.ext.json)
+
 ---
 
 ### Colombo International Tea Convention to drive global dialogue on tea as a lifestyle and a livelihood
@@ -941,6 +973,8 @@ The convention, freshly rebranded under the timely theme Tea: A Lifestyle and A 
 ...
 
 [Data](articles/54a60a96.json)
+
+[Extended Data](ext_articles/54a60a96.ext.json)
 
 ---
 
@@ -2243,27 +2277,5 @@ Investigations have revealed that he has helped to replace and hide parts of a c
 [Data](articles/89b93521.json)
 
 [Extended Data](ext_articles/89b93521.ext.json)
-
----
-
-### The corpse is floating
-
-*2024-04-28 13:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலமொன்று-மிதக்கிறது/175-336443) · `ta`
-
-A 50-year-old unidentified body was found floating in the Kelani-Avissawella river, placed in the Avissawella Hospital's funeral room.
-
-🟩
-
-Police said that the body was floating in the river and kept in the funeral room at the hospital.
-
-Avissawella headquarters headquarters police said that a body was floating in the northern part of the Kelani-Avissawella.
-
-Police say the deceased is 50 years old and has not been identified yet. The body is placed in the funeral room of the Avissawella Hospital.
-
-◼️
-
-[Data](articles/30f35f0d.json)
-
-[Extended Data](ext_articles/30f35f0d.ext.json)
 
 ---

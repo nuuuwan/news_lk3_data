@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 19:03:42**
+As of **2024-04-29 19:18:33**
 
 ## Newspaper Stats
 
-*Scraped **21,639** Articles*
+*Scraped **21,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,811
-tamilmirrorlk | 2,518
+adalk | 1,812
+tamilmirrorlk | 2,519
 adaderanalk | 2,572
 virakesarilk | 3,255
 dailymirrorlk | 3,367
-adaderanasinhalalk | 3,507
+adaderanasinhalalk | 3,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,639 (100.0%) of 21,639 articles have been extended.
+21,639 (100.0%) of 21,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### පාසලක ගින්නක්
+
+*2024-04-29 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196103) · `si`
+
+එම විද්‍යාලයේ නේවාසිකාගාරය පිහිටි සිව්මහල් ගොඩනැගිල්ලක තෙවන මහලේ මෙම ගින්න හටගෙන ඇත.
+
+පසුගිය මාර්තු මස 03 වනදා ද මෙම පෞද්ගලික කාන්තා විද්‍යාලයේ ගින්නක් හටගෙන තිබීම විශේෂත්යකි.
+
+ආරංචි මාර්ග සඳහන් කරන්නේ මාතර ගිනි නිවීමේ ඒකකය, වැලිගම පොලීසිය සහ ප්‍රදේශවාසීන් එක්ව ගින්න මැඩපැවැත්වීමට පියවර ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/b5592cbe.json)
+
+---
+
+### சலூனில் வெட்டிக்கொலை: இருவருக்கு மரண தண்டனை
+
+*2024-04-29 19:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலூனில்-வெட்டிக்கொலை-இருவருக்கு-மரண-தண்டனை/175-336520) · `ta`
+
+முடிதிருத்தும் கடையொன்றில் (சலூன்) ஏற்பட்ட வாக்குவாதத்தினால் நபர் ஒருவரை வெட்டிக் கொன்ற குற்றச்சாட்டின் பேரில் பிரதிவாதிகள் இருவருக்கு மரண தண்டனை விதித்த கொழும்பு மேல் நீதிமன்ற நீதிபதி அமல் ரணராஜா, வழக்கின் ஏனைய பிரதிவாதிகள் இருவரையும் விடுதலை செய்தார்.
+
+குற்றச்சாட்டின் பேரில் வீரசாமி அழகேஸ்வர விஸ்வநாதன் மற்றும் துவான் அஜீஸ் ராமநாதன் ஆகியோருக்கு மரண தண்டனை விதித்த நீதிபதி, முகமது நஜீம் மற்றும் கொலின் வீரன் ஆகியோரை அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுவித்தார்.
+
+2022 ஓகஸ்ட் 05 ஆம் திகதி அல்லது அதற்கு அடுத்த நாள் புறக்கோட்டை, ஐந்துலாம்பு சந்தி பகுதியில்  சிக்கையா நடேஷனைக் கொன்றதற்காக நான்கு பிரதிவாதிகளுக்கு எதிராக சட்டமா அதிபர் வழக்குத் தாக்கல் செய்துள்ளார்.
+
+முடிதிருத்தும் இடத்தில் ஏற்பட்ட வாக்குவாதத்திற்குப் பிறகு, பிரதிவாதிகள் நடேசனை கத்தியால் வெட்டிக் கொன்றனர் என்ற உண்மைகள் வெளிவந்தன.
+
+◼️
+
+[Data](articles/4ca2e7de.json)
+
+---
 
 ### Thunderbolt
 
@@ -407,6 +441,22 @@ The Ministry has issued necessary instructions to principals in this regard.
 [Data](articles/a1bf6265.json)
 
 [Extended Data](ext_articles/a1bf6265.ext.json)
+
+---
+
+### තම සුරතලා මරා දැමීමේ නඩුවෙන් නිදහස්
+
+*2024-04-29 16:33:41* · [`adalk`](https://www.ada.lk/breaking_news/තම-සුරතලා-මරා-දැමීමේ-නඩුවෙන්-නිදහස්/11-409325) · `si`
+
+ප්‍රමාණවත් සාක්ෂි නොමැතිව තවදුරටත් නඩුව පවත්වාගෙන යාමට නොහැකිබවට නීතිපතිවරයා වසින් ලබාදුන් උපදෙස්මත ඉකුත් කොවිඩ් සමයේදී සුරතලයට නිවසක ඇතිකළ සුනඛයෙකු වෙඩිතබා මරාදැමූ බවට චෝදනා ලැබූ විශ්‍රාමික පොලිස් අධිකාරිවරයෙකුට  එරෙහිව  පවරා තිබු නඩුවෙන්  විත්තිකරු නිදොස්කොට මුදාහැරීමට මිගමුව ප්‍රධාන මහේස්ත්‍රාත් රඛිත අබේසිංහ මහතා අද 29 දින නියෝග කළේය.
+
+2020 මැයිමස 07 වෙසක් පොහෝදින සැකකරු පදිංචිව සිටින මිගමුව ප්‍රදේශයේදී තමා සුරතලයට ඇතිකළ මැක්ස් නමැති සුනඛයා වෙඩිතබාමරා දමා ඇතිබවට  චෝදනා කරමින්සිදුකල  පැමිණිල්ලකට අනුව විමර්ශන පවත්වා  මිගමුව මුලස්ථාන පොලිසිය විසින් විත්තිකරුට එරෙහිව නඩුපවරා තිබිණි.
+
+මිගමුව පොලිසිය පැමිණිල්ල මෙහෙයවූ අතර විත්තිකරු වෙනුවෙන් චමරි සදුනිකා මහත්මිය සමග ජ්‍යෙෂ්ඨ නීතිඥ නෙල්සන් කුමාරනායක මහතා පෙනිසිටියේය .
+
+◼️
+
+[Data](articles/83451af6.json)
 
 ---
 
@@ -2353,91 +2403,5 @@ Dr. Heiyanthuduwa expressed that the increase in diabetes among the population i
 [Data](articles/e6ef3433.json)
 
 [Extended Data](ext_articles/e6ef3433.ext.json)
-
----
-
-### Under-20 Asian Athletics Tierkens
-
-*2024-04-29 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196078) · `si`
-
-Sri Lanka secured 5 medals at the 200 Asian Athletics Championships, including 2 silver and 3 bronze, with Neenikaka Madushani winning a silver medal. The team faced challenges like climate and track conditions but maintained a good mental state.
-
-🟩
-
-The 200 Asian Athletics Championships were the end of the 20th Asian Athletics Championship recently.
-
-The Sri Lanka team returned to the island early this morning (29).
-
-Sri Lanka won 5 overall medals including two silver medals and three bronze medals.
-
-Neenikaka Madushani in Sri Lanka won a silver medal from the first medal for Sri Lanka.
-
-Meanwhile, the Sri Lankan team was also able to win a silver medal from the events of running 400 MP3 × 4 meters.
-
-Sri Lanka won the silver medal in the running 100m support event.
-
-The Sri Lankan team was able to win bronze medals in the 400m support of the women's 400 meters.
-
-"We really worked with a good group feeling. There was a big challenge. Most proud to make a victory like this. "
-
-"There were several challenges in this tournament. One is the climate, the status of track. We faced anything in the competition. It is the reason why we face a good mental state. "
-
-◼️
-
-[Data](articles/e61406f3.json)
-
-[Extended Data](ext_articles/e61406f3.ext.json)
-
----
-
-### What's going on today
-
-*2024-04-29 10:17:57* · [`adalk`](https://www.ada.lk/breaking_news/අද--කාලගුණය-මොකද-වෙන්නේ/11-409317) · `si`
-
-Today, showers and thundershowers will affect many parts of the country. Heavy rains and thunderstorms are expected in Western, Sabaragamuwa, Southern, and North Western provinces. The Met Department advises taking precautions for strong winds and lightning. Temperatures will remain stable, with increased heat in Moneragala and Hambantota Districts.
-
-🟩
-
-Showers or thundershowers will occur at several places in many parts of the country today, the Met Department said.
-
-Accordingly, in some places in the Western, Sabaragamuwa, Southern and North Western provinces. Heavy rains can occur at more than 100 showers that there will be showers in the Eastern and Southern provinces and several places in the area and thunders.
-
-The Department requests the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-The Meteorology Department says that the temperature of several parts of the island will continue to focus on the level today.
-
-The heat of the Moneragala and Hambantota District will increase the heat of the human body in the North, North-Central, Eastern, and Northwestern provinces.
-
-In the case of sufficient drinking water, the rest of the shade, the restraint, should be followed by the department.
-
-◼️
-
-[Data](articles/cefc2f39.json)
-
-[Extended Data](ext_articles/cefc2f39.ext.json)
-
----
-
-### Sub-inspection dies in an accident
-
-*2024-04-29 10:13:29* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-උප-පොලිස්-පරික්ෂක-මරුට/11-409316) · `si`
-
-A 58-year-old resident died in a motorcycle accident near Matara Hospital yesterday. The injured person was admitted for treatment.
-
-🟩
-
-Motorcyclist has died in the road to the Galle Matara Matara to Galle yesterday (28), police said.
-
-The injured person was admitted to the Matara Hospital for treatment.
-
-The deceased has been identified as 58 year old residents of the Matara Police Station.
-
-The border was placed in the accident and was placed in the border of the Matara hospital.
-
-◼️
-
-[Data](articles/d69b446f.json)
-
-[Extended Data](ext_articles/d69b446f.ext.json)
 
 ---

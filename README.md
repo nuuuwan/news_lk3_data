@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 01:03:55**
+As of **2024-04-30 01:18:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,706 (99.9%) of 21,722 articles have been extended.
+21,717 (100.0%) of 21,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Hashim said Rajapaksa must foremostly study history. He said Muslims in Sri Lank
 
 [Data](articles/b844f715.json)
 
+[Extended Data](ext_articles/b844f715.ext.json)
+
 ---
 
 ### BASL declines SJB invite to coordinate SJB – NPP debate
@@ -66,6 +68,8 @@ BASL President Kaushalya Nawaratne PC had accepted the letter and informed Banda
 
 [Data](articles/f08987e1.json)
 
+[Extended Data](ext_articles/f08987e1.ext.json)
+
 ---
 
 ### State Minister for Defence urges immediate action on potential landslide threat near Ella-Wellawaya road
@@ -79,6 +83,8 @@ The move was in response to recent indications of landslip susceptibility in Mal
 ...
 
 [Data](articles/4dd4b468.json)
+
+[Extended Data](ext_articles/4dd4b468.ext.json)
 
 ---
 
@@ -95,6 +101,8 @@ Since the inception in 1994, the entrepreneurial spirit of Samson Rubber Product
 ...
 
 [Data](articles/ceb3948d.json)
+
+[Extended Data](ext_articles/ceb3948d.ext.json)
 
 ---
 
@@ -116,6 +124,8 @@ Kosala Rohana Wickramanayake has been a great supporter of Japan and, as a membe
 
 [Data](articles/950ab378.json)
 
+[Extended Data](ext_articles/950ab378.ext.json)
+
 ---
 
 ### Tokyo Cement salutes top performers at 2024 Annual Gala Dealer Convention
@@ -131,6 +141,8 @@ City Hardware & Stores – Jaffna, Ancheneyer Cement & Hardware Dealer – Batti
 ...
 
 [Data](articles/ef41f763.json)
+
+[Extended Data](ext_articles/ef41f763.ext.json)
 
 ---
 
@@ -150,6 +162,8 @@ During the meeting, the Minister explored the opportunity to import big onions f
 
 [Data](articles/f288b2bc.json)
 
+[Extended Data](ext_articles/f288b2bc.ext.json)
+
 ---
 
 ### KPMG’s technology openings; UK’s overcrowded prisons, reoffending rates, and new lifelines
@@ -168,6 +182,8 @@ Rather than leave the thought behind, I am putting pen to paper and sharing this
 
 [Data](articles/7a1373bf.json)
 
+[Extended Data](ext_articles/7a1373bf.ext.json)
+
 ---
 
 ### 2019 Easter Sunday tragedy: National Peace Council says intl. role in ascertaining truth remains relevant
@@ -181,6 +197,8 @@ On April 21, the country marked the fifth anniversary of the tragic Easter Sunda
 ...
 
 [Data](articles/ca42c0ba.json)
+
+[Extended Data](ext_articles/ca42c0ba.ext.json)
 
 ---
 
@@ -196,6 +214,8 @@ Rotary International is a worldwide network comprising 1.2 million corporate lea
 
 [Data](articles/aa48a847.json)
 
+[Extended Data](ext_articles/aa48a847.ext.json)
+
 ---
 
 ### Pakistan’s National Day reception held in Colombo
@@ -209,6 +229,8 @@ The High Commissioner of Pakistan Faheem Ul Aziz HI (M) in his message on the oc
 ...
 
 [Data](articles/b89cacaa.json)
+
+[Extended Data](ext_articles/b89cacaa.ext.json)
 
 ---
 

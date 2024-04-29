@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 15:18:36**
+As of **2024-04-29 15:34:03**
 
 ## Newspaper Stats
 
-*Scraped **21,592** Articles*
+*Scraped **21,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,510
 adaderanalk | 2,567
 virakesarilk | 3,247
 dailymirrorlk | 3,357
-adaderanasinhalalk | 3,498
+adaderanasinhalalk | 3,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,590 (100.0%) of 21,592 articles have been extended.
+21,592 (100.0%) of 21,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### මෙක්සිකෝවේ බිහිසුණු බස් අනතුරක්
+
+*2024-04-29 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196094) · `si`
+
+මෙක්සිකෝවේ සිදුවූ බස් රථ අනතුරකින් 18 දෙනෙක් මියගොස් තවත් පුද්ගලයින් 32ක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+
+San Luis de la Paz නම් ප්‍රදේශයේ සිට Chalma අභයභූමිය බලා ධාවනය වෙමින් තිබූ බස් රථයක් එසේ අනතුරට ලක්ව තිබේ.
+
+එම බසය අධිවේගී මාර්ගයේ පෙරළි යාමෙන් අනතුර සිදුව ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/dbb79bfc.json)
+
+---
 
 ### Deadline for accepting donations for Gaza Fund extended till May 31
 
@@ -48,21 +64,29 @@ In the initial phase, on behalf of the government, President Ranil Wickremesingh
 
 [Data](articles/98dc28d5.json)
 
+[Extended Data](ext_articles/98dc28d5.ext.json)
+
 ---
 
-### தங்கத்தின் விலை சடுதியாக குறைந்தது
+### The price of gold is mutilated
 
 *2024-04-29 14:53:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்கத்தின்-விலை-சடுதியாக-குறைந்தது/175-336507) · `ta`
 
-இன்றைய தினம் திங்கட்கிழமை (29) ஒரு அவுன்ஸ் தங்கத்தின் விலை ரூ. 690,898 ஆக குறைவடைந்துள்ளது.
+Gold prices vary: 1 oz at Rs. 690,898, 1 gram at Rs. 24,380, 1 pound at Rs. 195,000; 22 grams at Rs. 22,350, 8 grams at Rs. 178,800, 21 grams at Rs. 21,340, 21 pounds at Rs. 170,700.
 
-இதன்படி, 24 கரட் 1 கிராம் தங்கம் 24,380 ரூபாவாகவும்,24 கரட் 1 பவுண் தங்கம் (8 கிராம்) 195,000 ரூபாவாகவும் பதிவாகியுள்ளது.
+🟩
 
-இதேவேளை,22 கரட் 1 கிராம் தங்கம்  22,350 ரூபாவாகவும்,22 கரட் 8 கிராம் தங்கம் 178,800 ரூபாவாகவும்,21 கரட் 1 கிராம் தங்கம் 21,340 ரூபாவாகவும்,21 கரட் 1 பவுண் தங்கம் 170,700 ரூபாவாகவும் குறைவடைந்துள்ளமை குறிப்பிடத்தக்கது.
+Today is Monday (29) the price of an ounce of gold at Rs.. 690,898
+
+Accordingly, 24 carat 1 grams of gold has been recorded at 24,380 rupees and 24 carat 1 pound gold (8 grams) 195,000 rupees.
+
+Meanwhile, 22 grams of gold has fallen to 22,350 rupees, 22 grams 8 grams of gold at 178,800 rupees, 21 grams 1 gram gold 21,340 rupees and 21 pounds of gold have declined to 170,700 rupees.
 
 ◼️
 
 [Data](articles/8e7ba1eb.json)
+
+[Extended Data](ext_articles/8e7ba1eb.ext.json)
 
 ---
 
@@ -2417,33 +2441,5 @@ It was the time when the false extremist politics was burned to school, universi
 [Data](articles/c05c1f8c.json)
 
 [Extended Data](ext_articles/c05c1f8c.ext.json)
-
----
-
-### Woodwill owner attack in PudukkudiyiruppuSuspect arrested.
-
-*2024-04-29 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182187) · `ta`
-
-A man was attacked by an employee in Sivanagar, Iranaipalai, and the suspect was arrested in Chilawatte. The victim, Velupillai Varadhakumar, was admitted to Jaffna Hospital.
-
-🟩
-
-A man who was working on a wooden bar at a wooded man this morning was attacked by a man who was attacked by a tree in the Sivanagar area of Iranaipalai.
-
-The owner of the Mullaitivu Pudukkudiyiruppu police division has been attacked by an employee at the Sivanagar area in Sivanagar area at around 2 am today (28.04.2024).
-
-Velupillai Varadhakumar (35 years old), the owner of the Mallikaikai, who was attacked, has been admitted to the Jaffna Hospital.
-
-As soon as the incident was revealed, the young man was asked to work at night (27).. The young man said he could not work. The owner has sent the young man to go out.
-
-The young man then escaped after saying that I would take the owner of the hospital to attack the owner and attack the owner.
-
-The incident was handed over to the police, MPR in charge of the Pudukkudiyiruppu police station. Herath led by Criminal Investigation Officer Tennakoon
-
-...
-
-[Data](articles/aebf90a6.json)
-
-[Extended Data](ext_articles/aebf90a6.ext.json)
 
 ---

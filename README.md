@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 13:53:33**
+As of **2024-04-29 14:05:13**
 
 ## Newspaper Stats
 
-*Scraped **21,571** Articles*
+*Scraped **21,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,167 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,803
-tamilmirrorlk | 2,505
-adaderanalk | 2,563
+tamilmirrorlk | 2,508
+adaderanalk | 2,564
 virakesarilk | 3,247
-dailymirrorlk | 3,355
-adaderanasinhalalk | 3,494
+dailymirrorlk | 3,356
+adaderanasinhalalk | 3,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,568 (100.0%) of 21,571 articles have been extended.
+21,571 (100.0%) of 21,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### නිදහස් පක්ෂ ඉබි යතුරු ඇරෙයි
+### පාඨලීව CIDයට කැඳවයි
+
+*2024-04-29 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196092) · `si`
+
+එක්සත් ජනරජ පෙරමුණේ නායක, පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතාව හෙට (30) උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා තිබේ.
+
+ඒ රත්නපුර ප්‍රදේශයේ පැවැති පක්ෂ රැස්වීමක දී සිදුකරන ලදැයි කියන කතාවක් සම්බන්ධයෙන් ප්‍රකාශයක් ලබාගැනීම සඳහාය.
+
+◼️
+
+[Data](articles/f651d635.json)
+
+---
+
+### இளைஞனை கடத்த முயன்ற இரு பெண்கள் கைது
+
+*2024-04-29 13:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனை-கடத்த-முயன்ற-இரு-பெண்கள்-கைது/175-336504) · `ta`
+
+இங்கிலாந்தில் வசிக்கும் இலங்கைத் தாய் மற்றும் அவரது மகனின் தகவல்களை பயன்படுத்தி போலி ஆவணங்களை தயாரித்து,  17 வயதுடைய இளைஞனை இங்கிலாந்திற்கு அழைத்து செல்ல முயன்ற இரண்டு பெண்களை கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்துள்ள  சம்பவம்  வெள்ளிக்கிழமை (26) இடம்பெற்றுள்ளது .
+
+முல்லைத்தீவு பகுதியைச் சேர்ந்த பெண் ணொருவர் ,  ஒரு சிறுவனுடன் இங்கிலாந்துக்கு செல்வதற்காக கட்டுநாயக்க விமான நிலையத்திற்கு வந்துள்ளார்.
+
+அவர்கள்  கருமபீடத்துக்கு  வந்தபோது, ​​அவர்களின் ஆவணங்கள் தொடர்பில் அதிகாரிகளுக்கு  ஏற்பட்ட   சந்தேகத்தினால்  அவர்களை விமான நிலையத்தில் உள்ள குடிவரவுத் திணைக்களத்தின் எல்லைக் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகளிடம் ஒப்படைத்துள்ளனர்.
+
+அங்கு மேற்கொள்ளப்பட்ட தொழில்நுட்ப சோதனையின் போது அவர்கள்  சமர்ப்பித்த  ஆவணங்கள் போலியானவை என உறுதி செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/558fb303.json)
+
+---
+
+### டியூப் லைட்டை கடித்து விழுங்கிய கைதி
+
+*2024-04-29 13:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டியூப்-லைட்டை-கடித்து-விழுங்கிய-கைதி/76-336503) · `ta`
+
+ஐந்து வருட கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டு, தும்பர சிறைச்சாலையில் தடுத்துவைக்கப்பட்டிருந்த கைதி ஒருவர்   ட்யூப் லைட்டை விழுங்கியதன் காரணமாக கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பல திருட்டுச் சம்பவங்கள் தொடர்பில் குற்றஞ்சாட்டப்பட்டிருந்த கம்பளை பிரதேசத்தில் வசிக்கும் 42 வயதுடைய ஒருவர் மீதான குற்றம் நிரூபிக்கப்பட்டு 2022 ஆம் ஆண்டு அவருக்கு  ஐந்து வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+வயிற்றில் ஏற்பட்ட வீக்கம் மற்றும் வலி காரணமாக குறித்த கைதி கண்டி தேசிய வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளதாகவும்  அவரது வயிற்றின் ஸ்கேன் பரிசோதனை மேற்கொள்ளப்பட உள்ளதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+தன்னிடம் கைத்தொலைபேசி இருக்கிறதா எனக் கேட்டு இரண்டு சிறை அதிகாரிகள் தன்னை அறைக்கு அழைத்துச் சென்று தாக்கியதாகவும். அதனையடுத்தே ​அந்த அறையில் இருந்த டியூப் லைட்டை கழற்றி கடித்து விழுங்கியதாகவும் பொலிஸாரிடம் கைதி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/dc25836c.json)
+
+---
+
+### කරඳගොල්ලේ නායයෑමේ අවදානම අඩුකරන්න විකල්පයක්
+
+*2024-04-29 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196091) · `si`
+
+උමා ඔය ව්‍යාපෘතියට කිලෝමීටර් දෙකහමාරක් පමණ දුරින් පිහිටි කරඳගොල්ල ප්‍රදේශයේ සක්‍රිය වූ නායයාමේ අවදානම සම්බන්ධයෙන් ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥයින් පිරිසක් අද (29) විශේෂ නිරීක්ෂණයක් ආරම්භ කර තිබිණි.
+
+බදුල්ල දිස්ත්‍රික් ලේකම්වරයා පැවසුවේ, නාය අවදානම අවම කිරීම සඳහා කඳුකර භූමියේ ඉහළ රැඳී ඇති ජලය කෙටි කාලීන ක්‍රම ඔස්සේ පහළට ගෙන ඒමට අවශ්‍ය කටයුතු මේ වනවිට සිදුකරමින් පවතින බවය.
+
+ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ අක්කර දෙකක පමණ භූමි ප්‍රමාණයක මලිත්තගොල්ල නම් වූ බෑවුම් සහිත කොටසෙහි දින කිහිපයකට පෙර සිට නාය අවදානමක ලක්ෂණ පෙන්නුම් කෙරේ.
+
+ප්‍රදේශවාසීන් සැක පළ කළේ, එය උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ ඇතිවූ තත්ත්වයක් බවටය.
+
+ඒ අනුව ඇල්ල ප්‍රාදේශීය ලේකම් කාර්යාලය, ඇල්ල ප්‍රාදේශීය සභාව සහ යුද හමුදාව හා පොලීසිය සමග එක්ව එම නාය අවදානමට හේතු වී ඇති ජල මාර්ග වෙනත් දිශාවකට යොමු කරවීමේ කටයුතු සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/75dc14ef.json)
+
+---
+
+### EPF පොලිය ගැන මහ බැංකුවෙන් පැහැදිලි කිරීමක්
+
+*2024-04-29 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196090) · `si`
+
+සේවක අර්ථ සාධක අරමුදල සඳහා පොලිය වැඩිකිරීම සම්බන්ධයෙන්, ශ්‍රී ලංකා මහ බැංකුවේ පාලක මණ්ඩලය විසින් නව තීරණයක් ගෙන තිබේ.
+
+එහි දැක්වෙන්නේ, "2023.12.31 වන දිනට පවතින සේවක අර්ථසාධක අරමුදලේ ශේෂය සඳහා සියයට 13ක පොලී අනුපාතයක් ගෙවීමට ශ්‍රී ලංකා මහ බැංකුවේ පාලක මණ්ඩලය අනුමැතිය" ලබා දුන් බවය.
+
+◼️
+
+[Data](articles/c271772e.json)
+
+---
+
+### Independence parties operates the keys
 
 *2024-04-29 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196089) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය අද (29) පෙරවරුවේ පොලිස් ස්ථානීය පරික්ෂණ නිලධාරීන් විසින් විමර්ශන කටයුතු සඳහා විවෘත කරනු ලැබීය.
+The Sri Lanka Freedom Party's headquarters was opened by police after misplaced files prevented entry on April 6. Investigations are ongoing.
 
-වැදගත් ලිපිගොනු කිහිපයක් අස්ථානගතවීම හේතුවෙන් පොලීසිය විසින් පසුගිය අප්‍රේල් 06 වැනිදා කිසිවෙකුට ඇතුළුවීමට නොහැකිවන සේ එම කාර්යාලය ඉබියතුරු දමා තිබිණි.
+🟩
 
-ඒ අනුව පොලිස් ස්ථානීය විමර්ශන නිලධාරීන් අද (29) පැමිණ මූලස්ථාන ගොඩනැගිල්ලේ පරීක්ෂණයක් ආරම්භ කළේය.
+The Sri Lanka Freedom Party Headquarters was opened by Police Visitors today (29).
+
+The office had been launched by the police as a result of misplacement of important files and could not enter anyone on April 6.
+
+Accordingly, the Police Station Investigation Officers held an investigation in the Headquarters building this morning.
 
 ◼️
 
 [Data](articles/3b459936.json)
 
+[Extended Data](ext_articles/3b459936.ext.json)
+
 ---
 
-### கிளியில் 77 பேர் உயிர்களை மாய்த்துள்ளனர்
+### 77 people in the parrot have lost their lives
 
 *2024-04-29 13:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளியில்-77-பேர்-உயிர்களை-மாய்த்துள்ளனர்/175-336501) · `ta`
 
-கிளிநொச்சி மாவட்டத்தில் 2023 ஆம்  ஆண்டு 45 ஆண்களும் 32 பெண்களும் தவறான முடிவெடுத்து தங்களது உயிரைகளை  மாய்த்துக் கொண்டுள்ளனர்.
+In 2023, Kilinochchi district saw 45 men and 32 women lose their lives due to wrong decisions, impacted by unemployment, drug use, stress, and family violence. Vavuniya and Mullaitivu districts also reported similar issues.
 
-கிளிநொச்சி மாவட்டத்தின் தற்போது தவறான முடிவெடுத்து உயிரை மாய்த்துக் கொள்பவர்கள் எண்ணிக்கை அதிகரித்து காணப்படுகிறது.
+🟩
 
-குறிப்பாக தொழில் வாய்ப்பின்மை, போதை பொருள் பாவனை, மன அழுத்தம் மற்றும் குடும்ப வன்முறை என பல்வேறு காரணங்களால் தங்கள் உயிர்களை மாய்த்துக்கொண்டுள்ளனர்.
+In the Kilinochchi district, in 2023, 45 men and 32 women have made a wrong decision and their lives.
 
-கிளிநொச்சி பொலிஸ்  பிராந்தியத்திற்குட்பட்ட பகுதிகளில் கடந்த ஆண்டில் 45 ஆண்களும் 32 பெண்களும் தவறான முடிவெடுத்து தங்கள் உயிர்களை மாய்த்து கொண்டுள்ளனர்.
+Kilinochchi district is currently in the wrong decision and the number of people who make a mistake.
 
-இதேவேளை,  வவுனியா  மாவட்டத்தில் 41 பேரும் முல்லைத்தீவு மாவட்டத்தில் 28 பேரும் இவ்வாறு கடந்த ஆண்டில் தவறான முடிவு எடுத்து தங்களுடைய உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸ் திணைக்களத்தின் தகவல் மூலம் அறிய முடிகின்றது.
+In particular, they have been living their lives for various reasons, such as unemployment, drug use, stress and family violence.
+
+In the Kilinochchi police region, 45 men and 32 females have been wronged in the last year.
+
+Meanwhile, 41 people in the Vavuniya district and 28 in the Mullaitivu district have made a mistake last year, according to the police department.
 
 ◼️
 
 [Data](articles/04f8d4d4.json)
+
+[Extended Data](ext_articles/04f8d4d4.ext.json)
+
+---
+
+### Japanese Foreign Minister to visit Sri Lanka
+
+*2024-04-29 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japanese-Foreign-Minister-to-visit-Sri-Lanka/108-281566) · `en`
+
+Colombo, April 29 (Daily Mirror) - Minister of Foreign Affairs of Japan Yoko Kamikawa is scheduled to undertake an official visit to Sri Lanka from 04-05 May 2024.
+
+During this visit, the Japanese Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. The Japanese Foreign Minister and her delegation will also have official discussions with the Foreign Minister Ali Sabry during the visit.
+
+The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Japan.
+
+◼️
+
+[Data](articles/932886d6.json)
 
 ---
 
@@ -926,6 +1038,24 @@ Jamiel, who failed to detonate a bomb at the TajSamudra Hotel, has said that the
 
 ---
 
+### 10% of Sri Lanka’s population afflicted with Chronic Kidney Disease - report
+
+*2024-04-29 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98908/10-of-sri-lankas-population-afflicted-with-chronic-kidney-disease-report) · `en`
+
+Around 10% of Sri Lanka’s population is afflicted with Chronic Kidney Disease, the Chief Patron of All-island Kidney Patients’ Association Nephrologist Sanjaya Heiyanthuduwa says.
+
+Dr. Heiyanthuduwa expressed that the increase in diabetes among the population is the major cause of the increased figures of kidney patients.
+
+“Especially, diabetes is the main factor affecting kidney damage in Sri Lanka. Better diabetes control should be done to prevent kidney disease in these patients,” he said.
+
+“Additionally, adherence to medical advice and proper attendance at clinics are very important. The intake of excessive salt, sugar, and oil in food should be reduced. A healthy person should consume around three and a half liters of water per day in order to avoid this disease,” Dr. Heiyanthuduwa added.
+
+...
+
+[Data](articles/7dd5538e.json)
+
+---
+
 ### 10% of Sri Lanka’s population diagnosed with Chronic Kidney Disease - report
 
 *2024-04-29 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98908/10-of-sri-lankas-population-diagnosed-with-chronic-kidney-disease-report) · `en`
@@ -1032,17 +1162,25 @@ The border was placed in the accident and was placed in the border of the Matara
 
 ---
 
-### සියයට පනස් එක දකින වෙලාවට මම ඡන්දයට එනවා
+### When I see the fifty percent, I come to vote
 
 *2024-04-29 10:08:12* · [`adalk`](https://www.ada.lk/breaking_news/සියයට-පනස්-එක-දකින-වෙලාවට-මම-ඡන්දයට-එනවා/11-409315) · `si`
 
-“රටේ ආර්ථිකය පොහොසත් කරන්න නම් අපි අධ්‍යාපනයෙන් දරුවන් පෝෂණය කල යුතුයි.රජයකටවත් කරනන අපහසුයි.දරුවන් පරිගනක දැනුමින් පෝෂණය කිරීම.හැබැයි මම ඒක කරලා පෙන්නුවා. ඒක 2012 ආරම්භ කලේ ඡන්දය බලාපොරොත්තුවෙන් නොවේ.ඒත් සියයට පනස් එක තියනවා කියලා දකින වෙලාවට අනිවාර්යෙන්ම මා ඡන්දයට ඉදිරිපත් වෙනවා.” යැයි ප්‍රකට ව්‍යාපාරික හා ඩී පී එඩියුකේෂන් අයි.ටී.කැම්පස් නිර්මාතෘ ධම්මික පෙරේරා මහතා මාතර දී පැවසීය.
+Dhammika Perera, founder of ITCMampu, emphasizes the importance of education in improving the economy and the need for a strong foundation in every university. He highlights his efforts to enhance Pirivena education and create a group of monks who preach Dhamma in various languages. Perera also discusses his plans for a new IT campus in Matara, aiming to provide 17,000 students with IT education.
 
-එම ව්‍යාපෘතිය යටතේ අධ්‍යාපනය හැදෑරූ සිසුන් සඳහා සහතික පත්‍ර ප්‍රදානය කිරීමේ උත්සවයක් පෙරේදා (28) මාතර මහින්ද විජේසේකර ක්‍රීඩාංගනයේදී පාලටුව බෞද්ධ  පිරිවෙන්  විහාරාධිපති, ශාස්ත්‍රවේදී පූජ්‍ය ගැටමාන්නේ ගුණානන්ද නායක ස්වාමීන් වහන්සේගේ අනුශාසකත්වයෙන් පැවැත්විණි.
+🟩
+
+"To make the economy of the country, we need to feed children from education.. It was not started in 2012.Clear business and DP St. Educiation ITCMampu founder Dhammika Perera said in Matara.
+
+A ceremony for students who studied under the project was held at Mahinda Wijesekera Ven.
+
+"Needed at least three years in every university in the world, come to a level where a course is going to work. But I learned from this university and come out of a year to get a good job. Tell 100 projects of our 100 million course of course. Our history of 2,500 years of history with the temple of the village. The temple is a place where you can do everything.
 
 ...
 
 [Data](articles/022169a8.json)
+
+[Extended Data](ext_articles/022169a8.ext.json)
 
 ---
 
@@ -1111,6 +1249,26 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.33 perc
 [Data](articles/ec4bcad6.json)
 
 [Extended Data](ext_articles/ec4bcad6.ext.json)
+
+---
+
+### மெனிக்ஹின்னவில் பதற்றம்: பொலிஸார் குவிப்பு
+
+*2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மெனிக்ஹின்னவில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
+
+கண்டி மெனிக்ஹின்ன வைத்தியசாலை வளாகத்தில் நேற்று (28) இரவு ஏற்பட்ட பதற்ற நிலை காரணமாக வைத்தியசாலை ஊழியர்கள் உட்பட 07 பேர் காயமடைந்துள்ளனர்.
+
+மெனிக்ஹின்ன பிரதேசத்தில் இடம்பெற்ற புத்தாண்டு விழாவின் போது காயமடைந்த நபரொருவர் சிகிச்சைக்காக வைத்தியசாலைக்கு கொண்டு வரப்பட்டுள்ள நிலையில், மருத்துவமனையின் பணிக்குழாமினரும் புத்தாண்டு விழாவில் பங்கேற்றிருந்ததால் அவருக்கு சிகிச்சை அளிக்க காலதாமதமாகியுள்ளது.
+
+இதையடுத்து, மருத்துவமனை ஊழியர்களுக்கும் காயமடைந்த தரப்பினருக்கும் இடையே காரசாரமான வார்த்தைப் பிரயோகம் இடம்பெற்று பின்னர் இது மோதலாக உருவெடுத்துள்ளதுடன், இரு தரப்பையும் சேர்ந்த 07 பேர் காயமடைந்து கண்டி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இரு தரப்பினரையும் அழைத்து வாக்குமூலம் பதிவு செய்யப்பட்டதை அடுத்து, அவர்கள் கலைந்து சென்றனர்.
+
+எவ்வாறாயினும், வைத்தியசாலை வளாகத்தின் பாதுகாப்பிற்காக பொலிஸ் உத்தியோகத்தர்களை பாதுகாப்பு பணியில் ஈடுபடுத்தவும் மெனிக்ஹின்ன பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/166f80eb.json)
 
 ---
 
@@ -2271,169 +2429,5 @@ Its leader Anuradha Seneviratne said that they will be engaged in the workplace 
 [Data](articles/8a6b4afd.json)
 
 [Extended Data](ext_articles/8a6b4afd.ext.json)
-
----
-
-### The passenger shipping service restarts
-
-*2024-04-29 00:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணிகள்-கப்பல்-சேவை-மீண்டும்-ஆரம்பம்/175-336463) · `ta`
-
-The passenger shipping service between Sri Lanka's Kankesanthurai and India's Nagapattinam, using the 'Sivaganga' ship, resumes on May 13. Passengers can carry 60 kg of goods, with a maximum of 20 kg per package.
-
-🟩
-
-The passenger shipping service between Sri Lanka's Kankesanthurai and India's Nagapattinam is scheduled to be resumed on May 13.
-
-The Indian media has reported that the ship 'Sivaganga' will be used for this service.
-
-The ship, which has 150 passengers, is scheduled to be charged a two -way fee for a two -way fee.
-
-The passenger on the ship will also be given the opportunity to carry 60 kilograms of goods.
-
-However, it has been announced that the weight of a package should be subject to 20 kilograms. (A)
-
-◼️
-
-[Data](articles/188cd7a3.json)
-
-[Extended Data](ext_articles/188cd7a3.ext.json)
-
----
-
-### Rutraj's bowling and Deshpande bowling;Hyderabad was bowed to Chennai
-
-*2024-04-29 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182183) · `ta`
-
-Chennai Super Kings won against Sunrisers Hyderabad by 78 runs in the 46th IPL match. Rutraj Gai Kaikwad and Tryl Michil scored 107 runs, while Tushar Deshpande took 4 wickets. Sunrisers Hyderabad lost all wickets in 18.5 overs, with Dushar Deshpande taking 3 wickets.
-
-🟩
-
-Chennai Chepakkam MA. Sunrisers Hyderabad won by 78 runs in the 46th match of the 17th Indian Premier League chapter held at Chidambaram Stadium on Sunday night (28).
-
-Half a century accumulated by Ruthuraj Gaygwad and Terill Michelle, Shivam Tube's way of action, 4 wickets pile of Tushar Deshpande and the accurate bowling of Madhisha Pathirana made Chennai Super Kings.
-
-Overall, Chennai Super Kings played well in all the fields.
-
-With this victory, Chennai Super Kings advanced to 3rd place and Sunrisers Hyderabad behind 4th place.
-
-Chennai Super Kings, who were first invited to bat first, scored 212 runs for the loss of only 3 wickets in 20 overs.
-
-The initial player Ajinkia Rahane failed to shine in the bats. He lost the game with 9 runs in the 3rd over.
-
-However, team captain and other opening player, Rutraj Gai Kaikwad and Tryl Michil, shared 107 runs off 52 balls in the 2nd wicket.
-
-...
-
-[Data](articles/6dc37395.json)
-
-[Extended Data](ext_articles/6dc37395.ext.json)
-
----
-
-### If you don’t like to say genocide, think of it as mass murder
-
-*2024-04-29 00:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/If-you-dont-like-to-say-genocide-think-of-it-as-mass-murder/172-281514) · `en`
-
-In November, the UN Secretary- General called Israel’s retaliation  (including cutting off food, aid and water supply to Gaza) a genocidal  action, and  was heavily condemned by Israel and pro-Israeli lobbies  across Europe and the US.
-
-When Israel launched a massive bombardment of the Gaza Strip in retaliation to the Hamas cross-border attack on Oct 7, 2023, I had divided sympathies, especially in view of the atrocities committed by Hamas fighters inside Israel that day.
-
-These divided sympathies stemmed from the fact that I began my journalism career in Amman, Jordan, a step away from Jerusalem, the West Bank and Israel. The Israeli invasion of Lebanon to drive out Yasser Arafat’s Palestine Liberation Organisation (PLO) began when I was a young reporter and sub-editor at the Jordan Times. I quite understand what the Palestinians have been going through ever since the formation of Israel as a Jewish State in 1948.
-
-...
-
-[Data](articles/213649d7.json)
-
-[Extended Data](ext_articles/213649d7.ext.json)
-
----
-
-### May Day and the plight of Lankan workers - EDITORIAL
-
-*2024-04-29 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-Day-and-the-plight-of-Lankan-workers-EDITORIAL/172-281513) · `en`
-
-This Wednesday is May Day, a day set apart to commemorate the struggles and gains made by workers and labour movements the world over. Very sadly, in our country, workers’ day has been usurped by political parties and gains lost to economic woes.
-
-Today, workers dance and parade the streets, not to regain their lost rights of the past four to five years. They will carry forward campaigns of diverse political parties hoping to grab power at the yet undeclared elections expected to be held later this year.
-
-The average monthly household income of the poorest 20% of our population is Rs. 17,572, raised from a meager Rs. 12,500 in March this year. But multiple energy price increases and sales tax hikes in January raised the cost of living and hit wage earners hard.
-
-...
-
-[Data](articles/13f93437.json)
-
-[Extended Data](ext_articles/13f93437.ext.json)
-
----
-
-### Dishonouring May day’s Haymarket Mayhem Heroes on May 1
-
-*2024-04-29 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dishonouring-May-days-Haymarket-Mayhem-Heroes-on-May-1/172-281512) · `en`
-
-The Haymarket affair, which occurred in Chicago 138 years ago, marked a significant moment where labour protests advocating for an eight-hour workday turned violent, resulting in the deaths of several workers and police officers. This event is closely associated with the origins of International Workers’ Day, observed on May 1st.
-
-...
-
-[Data](articles/7ac522e8.json)
-
-[Extended Data](ext_articles/7ac522e8.ext.json)
-
----
-
-### Sri Lanka hosts ISGF ASPAC meeting: An initiative to inspire the next generation of youth
-
-*2024-04-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-hosts-ISGF-ASPAC-meeting-An-initiative-to-inspire-the-next-generation-of-youth/172-281515) · `en`
-
-A Scouts’ event held during the ASPAC meeting held earlier this year
-
-The International Scout and Guide Fellowship (ISGF) is an organisation that helps maintain the values learned in youth movements in order to provide a service within their communities. Recently, Sri Lanka hosted the Asia-Pacific regional committee meeting with the presence of Mariyam Shakeela, Chairman, Asia-Pacific Region Committee for the International Scout and Guide Fellowship and its Treasurer, Greg Davies.
-
-“Each year we try to meet in fellowship around one of the countries in the Asia-Pacific region,” said Shakeela in an interview with the Daily Mirror. With 11 member countries onboard, the Committee visits other countries which have not yet become members.
-
-“At this year’s meeting there were 15-16 members from nine other countries to discuss how we are going to each country individually and how we can help and foster relations within the Asia-Pacific region moving forward,” she said.
-
-...
-
-[Data](articles/7f52317b.json)
-
-[Extended Data](ext_articles/7f52317b.ext.json)
-
----
-
-### Sri Lanka: A preferred haven for European senior citizens seeking serenity
-
-*2024-04-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lanka-A-preferred-haven-for-European-senior-citizens-seeking-serenity/172-281511) · `en`
-
-With the baby boomer generation poised to reshape the landscape of  retirement, Sri Lanka stands at the cusp of a transformative journey—one  that promises adventure, serenity, and boundless exploration
-
-While the concept of permanent tourism may seem novel, its implications for countries like Sri Lanka are profound. Unlike traditional short-term visitors, permanent tourists often seek extended stays, immersing themselves deeply in the cultural tapestry of their chosen destination. For many European seniors, this shift signifies a departure from mundane routines, embracing newfound freedom in the twilight years of their lives.
-
-...
-
-[Data](articles/de678766.json)
-
-[Extended Data](ext_articles/de678766.ext.json)
-
----
-
-### 2024-04-28 (Sunday)
-
-### Ceylon Chamber Sri Lanka Climate Summit 2024 on 7-9 May
-
-*2024-04-28 23:33:46* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-Sri-Lanka-Climate-Summit-2024-on-7-9-May/34-761129) · `en`
-
-From left: Kira Consulting International Sustainability and Environmental Consultant Dr. Kiran Dhanapala, Advisor, Presidential Secretariat Dr. Ananda Mallawatantri, Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa, Dilmah Ceylon Tea Company Chairman Dilhan Fernando, and Innosolve Lanka Founder Sheran Fernando
-
-‘Code Red: Climate risks and opportunities for Sri Lankan businesses’
-
-The Ceylon Chamber of Commerce has announced the inaugural Sri Lanka Climate Summit 2024, themed “Code Red: Climate Risks and Opportunities for Sri Lankan Businesses,” from 7 to 9 May at the Shangri-La Hotel, Colombo.
-
-As scientists warn of the potentially devastating consequences of accelerating climate change, the summit will serve as a platform for a national dialogue on the impending risks of climate change, and the opportunities presented to Sri Lankan businesses.
-
-...
-
-[Data](articles/46ed4047.json)
-
-[Extended Data](ext_articles/46ed4047.ext.json)
 
 ---

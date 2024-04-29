@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 23:03:41**
+As of **2024-04-29 23:18:50**
 
 ## Newspaper Stats
 
-*Scraped **21,678** Articles*
+*Scraped **21,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ colombotelegraphcom | 186
 bbccomsinhala | 226
 dbsjeyarajcom | 231
 newsfirstlk | 363
-islandlk | 1,174
+islandlk | 1,175
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,817
 tamilmirrorlk | 2,520
 adaderanalk | 2,578
 virakesarilk | 3,265
-dailymirrorlk | 3,376
+dailymirrorlk | 3,377
 adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,677 (100.0%) of 21,678 articles have been extended.
+21,678 (100.0%) of 21,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,28 @@ Issuing a statement today (29), the BASL expressed grave concern over the aforem
 ...
 
 [Data](articles/456b10c2.json)
+
+[Extended Data](ext_articles/456b10c2.ext.json)
+
+---
+
+### Ranil invited me to take up position in the government: CBK
+
+*2024-04-29 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-invited-me-to-take-up-position-in-the-government-CBK/108-281614) · `en`
+
+Colombo, April 29 (Daily Mirror)- Former President Chandrika Bandaranaike Kumaratunga said today President Ranil Wickremesinghe invited her on several occasions to take up a position and support the government.
+
+Ms Kumaratunga told reporters that she refused the invitation, claiming that she could not take up any position until thieves were there in politics.
+
+She said she was invited to take up the chairmanship of the Sri Lanka Freedom Party (SLFP) and that she refused it too.
+
+“I don't like to do politics with current politicians. I will not take up any key position in the party. But, I may take up some responsibility. I will support the party behind the scenes. The SLFP is gradually coming to the correct path,” she said.
+
+Ms Kumaratunga said there was no truth in the reports that she was supporting the UNP and added that she had no intention of supporting any party.
+
+...
+
+[Data](articles/226be54a.json)
 
 ---
 
@@ -2253,37 +2275,5 @@ Investigations have been launched to ascertain whether the hospital staff was un
 [Data](articles/9313d098.json)
 
 [Extended Data](ext_articles/9313d098.ext.json)
-
----
-
-### The teenagers arrested in Sydney were ready to kill and die - Australian police
-
-*2024-04-29 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182224) · `ta`
-
-Australian police arrest teenagers in Sydney for a terrorist attack following the Sydney church attack, with six being colleagues of a man shouting at the Sydney Devalaya. They allegedly planned the attack, expressed enthusiasm for killing and dying, and used the name of Allah's Veterans.
-
-🟩
-
-Australian police have said that the recently arrested teenagers in Sydney have carried out a terrorist attack after the Sydney church attack and killed many people.
-
-Six of them were the colleagues of a young man who had been shouting at the Sydney Devalaya, police said.
-
-The police have made several allegations against them, including the plan for the terrorist attack.
-
-A few days after the four -year -old church knife in the arrested teenagers, they spoke with the Signal Signal Signal.
-
-I want to die and I want to kill. I am very enthusiastic, ”they said.
-
-Another young man has questioned whether his plan is alive or died.
-
-We are going to be planning to escape our plan but whatever happens, it is the strength of Allah.
-
-They used the name of Allah's Veterans.
-
-◼️
-
-[Data](articles/89c0dbad.json)
-
-[Extended Data](ext_articles/89c0dbad.ext.json)
 
 ---

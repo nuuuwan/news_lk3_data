@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 10:34:07**
+As of **2024-04-29 10:52:54**
 
 ## Newspaper Stats
 
-*Scraped **21,516** Articles*
+*Scraped **21,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,96 @@ adalk | 1,798
 tamilmirrorlk | 2,494
 adaderanalk | 2,559
 virakesarilk | 3,230
-dailymirrorlk | 3,349
+dailymirrorlk | 3,351
 adaderanasinhalalk | 3,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,511 (100.0%) of 21,516 articles have been extended.
+21,516 (100.0%) of 21,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### 20න් පහළ ආසියානු මලල ක්‍රීඩා දක්ෂයින් දිවයිනට
+### Under-20 Asian Athletics Tierkens
 
 *2024-04-29 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196078) · `si`
 
-වසය අවුරුදු 20න් පහළ ආසියානු මලල ක්‍රීඩා තරගාවලිය පසුගියදා ඩුබායිහි දී අතිඋත්කර්ෂවත් ලෙස අවසන් වුණි.
+Sri Lanka secured 5 medals at the 200 Asian Athletics Championships, including 2 silver and 3 bronze, with Neenikaka Madushani winning a silver medal. The team faced challenges like climate and track conditions but maintained a good mental state.
 
-ආසියානු කුසලාන මලල ක්‍රීඩා තරගාවලියට සහභාගි වු ශ්‍රී ලංකා කණ්ඩායම අද (29) අලුයම නැවත දිවයිනට පැමිණියහ.
+🟩
 
-ආසියානු කුසලාන මලල ක්‍රීඩා තරගාවලියේදී ශ්‍රී ලංකා කණ්ඩායම රිදි පදක්කම් 2ක් සහ ලෝකඩ පදක්කම් 3ක් ඇතුළුව සමස්ත පදක්කම් 05ක් දිනා ගැනීමට සමත් වුණි.
+The 200 Asian Athletics Championships were the end of the 20th Asian Athletics Championship recently.
 
-එහිදි ශ්‍රී ලංකාව වෙනුවෙන් පළමු පදක්කම කාන්තා තුන්පිම්ම ඉසව්වෙන් රිදී පදක්කමක් හිමිකර ගැනීමට ශ්‍රී ලංකාවේ නෙත්මිකා මධුෂානි සමත්වුණි.
+The Sri Lanka team returned to the island early this morning (29).
 
-මේ අතර මීටර් 400 ×4 මිශ්‍ර සහාය දිවීමේ ඉසව්වෙන්ද රිදී පදක්කමක් දිනා ගැනීමට ද ශ්‍රී ලංකා කණ්ඩායමට හැකිවුණි.
+Sri Lanka won 5 overall medals including two silver medals and three bronze medals.
 
-පිරිමි මීටර් 100 සහාය දිවීම ඉසව්වේ රිදි පදක්කම දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
+Neenikaka Madushani in Sri Lanka won a silver medal from the first medal for Sri Lanka.
 
-කාන්තා මීටර් 400 සහාය දිවීමේ ඉසව්වේ සහ පිරිමි මීටර් 400 සහාය දිවීමේ ඉසව්වේ ලෝකඩ පදක්කම් දිනා ගැනීමටද ශ්‍රී ලංකා කණ්ඩායමට හැකිවුණි.
+Meanwhile, the Sri Lankan team was also able to win a silver medal from the events of running 400 MP3 × 4 meters.
 
-"ඇත්තටම අපි හොඳ කණ්ඩායම් හැඟීමකින් වැඩ කළා. ලොකු අභියෝගයක් හම්බවුණා. ගොඩක් ආඩම්බරයි මේ වගේ ජයග්‍රහණයක් ගත්ත එකට."
+Sri Lanka won the silver medal in the running 100m support event.
 
-...
+The Sri Lankan team was able to win bronze medals in the 400m support of the women's 400 meters.
+
+"We really worked with a good group feeling. There was a big challenge. Most proud to make a victory like this. "
+
+"There were several challenges in this tournament. One is the climate, the status of track. We faced anything in the competition. It is the reason why we face a good mental state. "
+
+◼️
 
 [Data](articles/e61406f3.json)
 
+[Extended Data](ext_articles/e61406f3.ext.json)
+
 ---
 
-### අද  කාලගුණය මොකද වෙන්නේ
+### What's going on today
 
 *2024-04-29 10:17:57* · [`adalk`](https://www.ada.lk/breaking_news/අද--කාලගුණය-මොකද-වෙන්නේ/11-409317) · `si`
 
-අද දිවයිනේ බොහෝ පළාත්වල තැනින් තැන පස්වරු 1න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today, showers and thundershowers will affect many parts of the country. Heavy rains and thunderstorms are expected in Western, Sabaragamuwa, Southern, and North Western provinces. The Met Department advises taking precautions for strong winds and lightning. Temperatures will remain stable, with increased heat in Moneragala and Hambantota Districts.
 
-ඒ අනුව , බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වල ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බවත් දෑසන කාලයේ නැගෙනහිර සහ දකුණු පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයේත් වෙරළබඩ ප්‍රදේශවල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in many parts of the country today, the Met Department said.
 
-දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද 29 දිනයේදී අවධානය යොමුකළ යුතු මට්ටම දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Accordingly, in some places in the Western, Sabaragamuwa, Southern and North Western provinces. Heavy rains can occur at more than 100 showers that there will be showers in the Eastern and Southern provinces and several places in the area and thunders.
 
-උතුරු, උතුරු-මැද, සබරගමුව, නැගෙනහිර, සහ වයඹ පළාත්වලත් මොනරාගල සහ හම්බන්තොට දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් මිනිස් සිරුරට දැනෙන උණුසුම එලෙස ඉහළ යනු ඇත.
+The Department requests the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
+
+The Meteorology Department says that the temperature of several parts of the island will continue to focus on the level today.
+
+The heat of the Moneragala and Hambantota District will increase the heat of the human body in the North, North-Central, Eastern, and Northwestern provinces.
+
+In the case of sufficient drinking water, the rest of the shade, the restraint, should be followed by the department.
+
+◼️
+
+[Data](articles/cefc2f39.json)
+
+[Extended Data](ext_articles/cefc2f39.ext.json)
+
+---
+
+### New Zealand name T20 World Cup 2024 squad
+
+*2024-04-29 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Zealand-name-T20-World-Cup-2024-squad/108-281548) · `en`
+
+(ICC) - Experienced batter Kane Williamson has been named captain as New Zealand became the first team to announce their squad for June's ICC Men's T20 World Cup.
+
+The Kiwis named their 15-player squad for the ninth edition of the 20-over showcase on Monday, with the Black Caps opting for an experienced squad that includes Williamson and fast bowling duo Tim Southee and Trent Boult.
+
+It will be the sixth appearance for Williamson at a T20 World Cup and fourth as skipper, with Southee set for his seventh appearance at the tournament and Boult his fifth as the Kiwis seek a first title in the shortest international format of the game.
+
+There were no major surprises in New Zealand's squad, with key pacer Kyle Jamieson (back) and all-rounder Adam Milne (ankle) ruled out of the event through injury and the likes of Will O'Rourke, Tom Latham, Tim Seifert and Will Young missing out on selection despite some recent good form against the white-ball.
 
 ...
 
-[Data](articles/cefc2f39.json)
+[Data](articles/36a68212.json)
 
 ---
 
@@ -126,6 +160,28 @@ Specialist medical Dr. Sanjaya Heiyanthuduwa stated that diabetes can lead to th
 
 ---
 
+### Airport facial recognition leads to arrest of Angoda Lokka’s associate
+
+*2024-04-29 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Airport-facial-recognition-leads-to-arrest-of-Angoda-Lokkas-associate/108-281547) · `en`
+
+BIA, April 29 (Daily Mirror) - An associate of organized criminal Maddumage Lasantha Chandana Perera alias 'Angoda Lokka', was arrested at the Bandaranaike International Airport, Katunayake.
+
+Police said the 47-year-old Ellawalage Sarath Kumara alias 'Chitee', was arrested while he was attempting to leave for overseas with a forged passport.
+
+The suspect was arrested after being identified by the Automated Facial Recognition System (AFRS) installed at the airport departure terminal.
+
+During further investigations, it has been revealed that the suspect is a main associate of Angoda Lokka and also wanted by the Mulleriya police for smuggling ICE drugs.
+
+Also, it was revealed that the suspect has been involved in several other crimes such as shooting and killing a person in the Wellampitiya police area in 2011.
+
+The suspect has been handed over to the Mulleriyawa Police for further investigations.
+
+◼️
+
+[Data](articles/cc690c7c.json)
+
+---
+
 ### 19 year old youth is killed
 
 *2024-04-29 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196076) · `si`
@@ -174,21 +230,31 @@ The victim was a 30 year old resident of the area.
 
 ---
 
-### නේවි රුවන් අල්ලයි
+### Navy Ruwan arrested
 
 *2024-04-29 09:21:35* · [`adalk`](https://www.ada.lk/breaking_news/නේවි-රුවන්-අල්ලයි/11-409312) · `si`
 
-මනුෂ්‍ය ඝාතන රැසකට සම්බන්ධ සංවිධානාත්මක අපරාධකරුවෙකු වන නේවි රුවන් නොහොත් ලෝකල් රුවන් නැමැත්තා  අත්අඩංගුවට ගත් බව මනුෂ්‍ය ඝාතන සංවිධානාත්මක  අපරාධ විමර්ශන අංශය කියයි.
+Navy Ruwan, an organized criminal, was arrested with 6,000 milligrams of ice narcotics. Officers from the Criminal Investigation Department (CID) conducted a secret investigation. The suspect was detained and questioned about the ice drugs case.
 
-ජුලම්පිටිය ගල්වාඩිය තණකොළ දෙණිය පාරේ නිවසක සැඟව සිටියදී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 6000 ක් සමග සැකකරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සංවිධානාත්මක අපරාධ විමර්ශන අංශයේ නිලධාරීන් කණ්ඩායමක් විසින් මිද්දෙණිය පොලිස් වසමට ගොස් විමර්ශන රාජකාරියගේ යෙදී සිටියදී පොලිස් පරීක්ෂක ගයන්ත නිලධාරියා වෙත ලද රහසිගත තොරතුරකට  වැටලීම සිදු කර ඇත.
+Navy Ruwan alias, organized criminal investigacy, says that organized criminal criminal is an organized criminal criminal of many murders.
 
-සැකකරු එම ප්‍රදේශයේ නිවසක සැඟව සිටිමින් මත්ද්‍රව්‍ය  ජාවාරම සිදුකරන බවත් ඔහු සතුව පිස්තෝල වර්ගයේ ගිනි අවියක් ඇති බවට හා ඔහු සැඟවී සිටින නිවසට විවිධ අවස්ථාවලදී අපරාධකරුවන් පැමිණ සැඟවී සිටින බවට ලද තොරතුරු අනුව එම නිවස වටලා පරික්ෂා කර සැකකරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+The suspect was arrested along with 6,000 milligns of ice narcotics.
 
-...
+A group of officers of the Criminiy Criminal Investigation Department (CID) was conducting a secret information to the Inspector General of Police while participating in the investigation duty.
+
+The suspect has been arrested and arrested the house to the suspect and hid the suspect in the area and hiding in a house where the suspect is hiding in a house in the area.
+
+The suspects were made in charge of the suspect in charge of the Avissawella High Court, Embilipitiya and Matara High Courts in the Matara High Court.
+
+Police say the suspect is the case with the ice drugs and he is currently questioning the uncovered criminals who have already committed.
+
+◼️
 
 [Data](articles/00ead02d.json)
+
+[Extended Data](ext_articles/00ead02d.ext.json)
 
 ---
 
@@ -1890,7 +1956,7 @@ He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flig
 
 *2024-04-28 19:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Interest-rate-on-EPF-to-be-increased-to-13-Siyambalapitiya/108-281507) · `en`
 
-Yatiyantota, April 28 (Daily Mirror)- Steps would be taken to increase the interest rate of the Employee’s Provident Fund (EPF) from the existing 9 percent to 13 percent with effect from 2013, State Minister of Finance Ranjith Siyambalapitiya said.
+Yatiyantota, April 28 (Daily Mirror)- Steps would be taken to increase the interest rate of the Employee’s Provident Fund (EPF) from the existing 9 percent to 13 percent with effect from 2023, State Minister of Finance Ranjith Siyambalapitiya said.
 
 He told reporters in Yatiyantota that the EPF is the largest fund in the country with 2.7 million members.
 
@@ -2052,17 +2118,25 @@ The cause of death will be revealed only after the autopsy. Achchuveli police ar
 
 ---
 
-### මැයි 01 සිට දෙසැම්බර් 31 දා තෙක් ගෙවන්න තියෙන දේශීය ණය රු. බි.  3732යි
+### Local loan to be paid until August 1 to December 31. B. 3732
 
 *2024-04-28 18:56:45* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-01-සිට-දෙසැම්බර්-31-දා-තෙක්-ගෙවන්න-තියෙන-දේශීය-ණය-රු--බි---3732යි/11-409309) · `si`
 
-2024 වර්ෂයේ මැයි 01 වන දා සිට දෙසැම්බර් 31 දක්වා කාල සීමාව තුළ ගෙවිය යුතු දේශීය මුලු ණය රුපියල් බිලියන 3732ක් පමණ වෙන බව 2024 අප්‍රේල් මස 28 වන දින ප්‍රකාශයට පත් කොට ඇති මධ්‍යම බැංකු වාර්තාව උපුටා දක්වමින් මහාචාර්ය වසන්ත අතුකෝරාළ මහතා පවසයි.
+The central bank report on April 28, 2024, states that local debt for this year is nearly Rs 3732 billion, with Treasury bills maturing for Rs 2977 billion and Treasury Bonds for Rs 12506 billion, totaling Rs 16,399 billion. Professor Wasantha Athukorala suggests the government should take a local loan to cover this.
 
-එම වාර්තාවෙහි ඇති පරිදි මේ වසර අවසන් වීමට පෙර පියවීමට ඇති දේශීය ණය ප්‍රමාණය රුපියල් බිලියන 3732 කට ආසන්න අගයක් දක්වයි. මෙසේ භාණ්ඩාගාර බිල්පත්වලින් ලබා ගෙන ඇති ණයවලින් රුපියල් බිලියන  2977ක් පමණ මේ වසර තුළ දී කල් පිරෙන අතර භාණ්ඩාගාර බැඳුම්කරවලින් ගත් ණයවලින් රුපියල් බිලියන  755 ක් කල් පිරෙනු ඇත. දැනට ලබා ගෙන ඇති භාණ්ඩාගාර  බැඳුම්කරවලින් ලබා ගත් ණය 2045 වර්ෂයේ මාර්තු මාසය දක්වා කාලයක් තුළ ගෙවීමට ඉදිරියේ දී ගෙවීමට පවතී.
+🟩
 
-...
+According to April 1 to December 1 to December 1 to December 31, a central bank report, announced on April 28, 2024, quoted the central bank report.
+
+Local debt to cover this year before the end of this year is close to Rs 3732 billion. Treasury bills are maturing over 2977 billion rupees from Rs. 2977 billion and Rs.. Loans from the Treasury Bonds currently available are available in front of paying Rs.
+
+The total cost of the total Treasury Bonds to be paid at the time is Rs. 12506 billion. Treasury bills amounted to Rs. 3894 billion. Accordingly, the sum of both (Treasury bills are 3894 billion. Treasury bonds are 12506 billion rupees) Rs. 16,399 billion. Professor Wasantha Athukorala, the Central Bank report issued on April 28, points out that the current government should take this local loan.
+
+◼️
 
 [Data](articles/8907bdab.json)
+
+[Extended Data](ext_articles/8907bdab.ext.json)
 
 ---
 
@@ -2088,19 +2162,25 @@ The announcement issued by the department, including adequate water, relating to
 
 ---
 
-### බාල සහල් දීම ගැන පරීක්ෂණයක්
+### Inquiry into substandard rice
 
 *2024-04-28 18:34:32* · [`adalk`](https://www.ada.lk/breaking_news/බාල-සහල්-දීම-ගැන-පරීක්ෂණයක්/11-409308) · `si`
 
-රජය නොමිලේ ලබා දෙන සහල්  තත්ත්වයෙන් බාල සහ මුදලට ලබා දීම් සම්බන්ධයෙන් එල්ලවන චෝදනා ගැන කඩිනම් පරීක්ෂණයක් සිදුකරන ලෙසට  රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු,පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම් ප්‍රදීප් යසරත්න මහතා අදාළ දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබා දී තිබෙන බව එම අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Home Administration has ordered immediate investigations into allegations of substandard rice distribution in the Badulla District, involving Prime Minister Dinesh Gunawardena.
 
-මේ සම්බන්ධයෙන් කඩිනම් පරීක්ෂණ සිදුකොට ඊට අදාළ වාර්තාව සතියක් තුළ තමන් වෙත ලබා දෙන ලෙස රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු,පළාත් සභා හා පළාත් පාලන අමාත්‍යාංශ ලේකම් ප්‍රදීප් යසරත්න මහතා දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් ලබා දි තිබෙන බවද අමාත්‍යාංශය පෙන්වා දෙයි.
+🟩
 
-පවතින ආර්ථික තත්ත්වය හමුවේ පීඩාවට පත්ව ඇති ජන කණ්ඩායම් ඉලක්ක කොට ඔවුන් සඳහා සහල් සහනාධාරයක් ලබා දීමට රජය පසුගියදා තීරණය කරණු ලැබූ බවත්, ඒ අනුව කාණ්ඩ කීපයක් යටතේ මෙම සහනාධාරය ලබා දීම මේ වන විට දිවයින පුරා සාර්ථක ලෙස ක්‍රියාත්මක වෙන බවත් එම අමාත්‍යාංශයේ මාධ්‍ය ඒකකය ඊයේ(28දා) මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කළේය.
+The Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils, Provincial Administration, Provincial Councils and Local Government has instructed the relevant District Secretaries to conduct an immediate investigation into the allegations of the government free of charge.
+
+Secretary, Ministry of Home Administration, Home Affairs, Provincial Councils, Ministry of Home Administration, Commissioners, Provincial Councils, Ministry of Home Administration, Home Affairs, Provincial Councils and Local Government (TID) have instructed the District Secretaries, Provincial Councils and Local Government to provide immediate investigations into the report.
+
+The government's subsidy has been determined to provide a rice subsidy for the existing economic situation.) In a press release, he said.
 
 ...
 
 [Data](articles/796cd1ec.json)
+
+[Extended Data](ext_articles/796cd1ec.ext.json)
 
 ---
 
@@ -2257,57 +2337,5 @@ It has also revealed that the passport used by the businessman before the passpo
 [Data](articles/0b84cd5e.json)
 
 [Extended Data](ext_articles/0b84cd5e.ext.json)
-
----
-
-### Security breach at Sydney Airport as man runs onto tarmac and tries to board Sri Lanka-bound flight
-
-*2024-04-28 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98900/security-breach-at-sydney-airport-as-man-runs-onto-tarmac-and-tries-to-board-sri-lanka-bound-flight) · `en`
-
-A brazen intruder was captured walking across a jet bridge and onto a busy tarmac before he tried to board a nearby plane at an Australian airport.
-
-The unidentified 30-year-old man allegedly bolted through the screening area to breach security at the Sydney International Airport on Friday, 9 News reported.
-
-The Australian Federal Police say they were able to stop the man as he was moseying his way toward the tarmac.
-
-“AFP officers arrested a man, 30, who allegedly ran through the main screening area and gained access to restricted areas, including the apron,” said in a statement to the outlet.
-
-An apron connects the terminal buildings with the airfield, where baggage and passengers board a plane.
-
-Witnesses claimed they saw the man run through the airport’s immigration control area and onto the airport’s apron, the Daily Telegraph reported.
-
-He had allegedly tried to jump on board the cargo hold of a Sri Lanka-bound flight but was thwarted by baggage handlers.
-
-...
-
-[Data](articles/4e5c06a5.json)
-
-[Extended Data](ext_articles/4e5c06a5.ext.json)
-
----
-
-### Businessman arrested in Katunayake
-
-*2024-04-28 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196059) · `si`
-
-A 64-year-old businessman from Colombo was arrested at Katunayake International Airport for attempting to leave for Thailand with a fake passport. He was caught by the Criminal Investigation Department and charged with preparing documents to send someone to Italy.
-
-🟩
-
-A businessman who was banning a foreign travel ban has been arrested by the police at the Katunayake International Airport.
-
-The suspect businessman was arrested when he tried to leave for Thailand with a fake passport.
-
-The arrested resident is a 64 year old businessman from Colombo.
-
-Derana Airport Specialty said Thai Airlines Thai Airlines this morning. - When returning to the Katunayake airport, the businessman had arrested the relevant businessman.
-
-The businessman was arrested by the Criminal Investigation Department and was produced before the Minuwangoda Magistrate's Court on an attempt to prepare the documents and send a person to Italy.
-
-◼️
-
-[Data](articles/ad48548b.json)
-
-[Extended Data](ext_articles/ad48548b.ext.json)
 
 ---

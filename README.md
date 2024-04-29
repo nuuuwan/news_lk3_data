@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 17:34:46**
+As of **2024-04-29 17:54:45**
 
 ## Newspaper Stats
 
-*Scraped **21,623** Articles*
+*Scraped **21,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,162 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,809
-tamilmirrorlk | 2,515
+adalk | 1,810
+tamilmirrorlk | 2,517
 adaderanalk | 2,571
 virakesarilk | 3,255
-dailymirrorlk | 3,361
-adaderanasinhalalk | 3,504
+dailymirrorlk | 3,363
+adaderanasinhalalk | 3,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,621 (100.0%) of 21,623 articles have been extended.
+21,623 (100.0%) of 21,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### பஸ் விபத்தில்  18 பேர் உயிரிழப்பு ,  32 பேர் காயம்
+### හෙරොයින් සමග තාත්තයි පුතයි පොලීසියට කොටුවෙයි
+
+*2024-04-29 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196101) · `si`
+
+හෙරොයින් ජාවාරමේ නිරතවූ පියා සහ පුත්‍රයා කොළඹ කොට්ඨාසයේ බස්නාහිර පළාත් දූෂණ මර්ධන ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම ඒකකය වෙත ලද තොරතුරකට අනුව සිදුකළ වැටලීමකදී බොරැල්ල ප්‍රදේශයේ ඔවුන්ගේ නිවසේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ "මාළු සමන්ත" නොහොත් බෙන්ජමින් සමන් සහ ඔහුගේ පුත්‍රයා වන බෙන්ජමින් හර්ෂ නොහොත් "චෝලේ" නමැති ජාවාරම්කරුවන් දෙදෙනෙකි.
+
+පොලීසිය විසින් ඔවුන් සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 50යි මිලිග්‍රෑම් 630ක් මෙහිදී සොයාගෙන ඇත.
+
+සැකකරුවන් වැඩිදුරටත් පොලීසිය වෙත අනාවරණය කර ඇත්තේ ඩුබායි රාජ්‍යයේ සිට මත්ද්‍රව්‍ය ජාවාරමේ නිරතවන කවිෂ්ක මධුශාන් නොහොත් "චතූ මල්ලී" නැමැත්තා විසින් ඔවුන්ට මත්ද්‍රව්‍ය සපයන බවය.
+
+සැකකරුවන් මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව රැඳවුම් නියෝග ලබාගෙන ඉදිරි විමර්ශන කටයුතු ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/e3bfa745.json)
+
+---
+
+### மதுபான அனுமதி பத்திரத்தை விற்ற தமிழ் எம்.பி
+
+*2024-04-29 17:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதி-பத்திரத்தை-விற்ற-தமிழ்-எம்-பி/175-336516) · `ta`
+
+மத்திய மாகாணத்தைச் எதிர்க்கட்சியின் தமிழ் பாராளுமன்ற உறுப்பினர் ஒருவர் இரண்டு கோடி ரூபாவிற்கும் அதிகமான பெறுமதியான இரண்டு மதுபான அனுமதிப்பத்திரங்களைப் பெற்றுள்ளதாக செய்திகள் வெளியாகியுள்ளன.
+
+அந்த இரண்டு மதுபான அனுமதிப்பத்திரங்களையும் திகன பிரதேசத்தில் வர்த்தகர்கள் இருவருக்கு விற்பனை செய்ததாகக் கூறப்படுகின்றது.
+
+அரசாங்கத்தில் இணைவதாக உறுதியளித்து இந்த இரண்டு மதுபான அனுமதிப்பத்திரங்களையும் அவர் பெற்றுள்ளார் என தெரியவந்துள்ளது.
+
+இது தொடர்பில் தகவல் வெளியானதையடுத்து, திகன பிரதேசத்தில் உள்ள விகாரை ஒன்றின் விகாரதிபதி, மதுபான அனுமதிப்பத்திரம் பெற்ற வர்த்தகர்கள் இருவரையும் அழைத்து இது தொடர்பில் கேட்டதற்கு, மேற்படி இரு அனுமதிப்பத்திரங்களும் மேற்படி பாராளுமன்ற அங்கத்தவரே வழங்கியதாக அவர்கள் தெரிவித்ததாக கூறப்படுகிறது.
+
+பின்னர் இந்த சம்பவம் தொடர்பில் எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாசவிடம் விகாரதிபதி முறைப்பாடு செய்தார்.
+
+தேர்தலில் ஆதரவைப் பெறுவதற்காக, எம்.பி.,க்கள் குழுவிற்கு, 200 மதுபான உரிமங்களை, அரசாங்கம் வழங்கியுள்ளதாக சமீபத்தில் பரபரப்பாக பேசப்பட்டது.
+
+...
+
+[Data](articles/d290ab33.json)
+
+---
+
+### பௌசிக்கு நோட்டீஸ்
+
+*2024-04-29 17:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌசிக்கு-நோட்டீஸ்/175-336515) · `ta`
+
+அரசாங்கத்திற்கு 10 இலட்சம் ரூபாய்க்கும் அதிகமான நஷ்டம் ஏற்படுத்தியதாக குற்றம் சுமத்தப்பட்டுள்ள முன்னாள் இராஜாங்க அமைச்சர் ஏ.எச்.எம்.பௌசியை  மே மாதம் 22 ஆம் திகதி நீதிமன்றில் ஆஜராகுமாறு கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க, திங்கட்கிழமை (29) நோட்டீஸ் அனுப்பியுள்ளார்.
+
+2005 ஆம் ஆண்டு முதல் 2010 ஆம் ஆண்டு வரையான காலப்பகுதியில் நெதர்லாந்தில் இருந்து வழங்கப்பட்ட Land Cruiser வாகனத்தை மோசடி செய்து அரசாங்கத்திற்கு 10 இலட்சம் ரூபாவிற்கும் அதிகமான நஷ்டம் ஏற்படுத்தியதாக முன்னாள் இராஜாங்க அமைச்சர்  ஏ.எச்.எம்.பௌசிக்கு எதிராக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு தெரிவித்துள்ளது.
+
+வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது, ​​குற்றம் சாட்டப்பட்ட  ஏ.எச்.எம்.பௌசி நீதிமன்றத்தில் ஆஜராகவில்லை. பிரதிவாதி நீதிமன்றத்தில் ஆஜராகாததால் நீதிபதி இந்த உத்தரவை பிறப்பித்தார்
+
+◼️
+
+[Data](articles/b1538df9.json)
+
+---
+
+### අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරීම ගැන නිවේදනයක්
+
+*2024-04-29 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196100) · `si`
+
+සියලු රජයේ පාසල් සහ රජයේ අනුමත පෞද්ගලික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කරගැනීම සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ සියලු පෞද්ගලික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කරගැනීමේදී කුසලතා පදනම් සිසුන් ඇතුළත් කිරීම සිදුනොකරන බවය.
+
+එසේම අදාළ චක්‍රලේඛයේ සඳහන් උපදෙස් පමණක් සැලකිල්ලට ගනිමින් අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කරන බව එහි සඳහන් වෙයි.
+
+එසේම මේ සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශය විසින් විදුහල්පතිවරුන්ට අවශ්‍ය උපදෙස් නිකුත් කර ඇති බවද එම නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/47605552.json)
+
+---
+
+### O/L exam students to begin A/L classes immediately
+
+*2024-04-29 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/OL-exam-students-to-begin-AL-classes-immediately/108-281578) · `en`
+
+Colombo, April 29 (Daily Mirror) - Students sitting for the GCE Ordinary Level (O/L) Examination will start the GCE Advanced Level (A/L) classes immediately after their exams, Education Minister Susil Premajyantha said.
+
+While participating as the chief guest at the launch of the official internet radio channel of the National Institute of Education (NIE Visual Radio) at the Maharagama National Institute of Education, the Minister said the decision was taken due to the closure of schools during the last Covid pandemic and according to the programme to cover up missed studies and school examination schedules.
+
+The aim of action is to prevent undue delays, such as possible delays for schoolchildren to enter the university, and to restore the studies that were missed during the last Covid period.
+
+The Minister said that therefore everyone's support and dedication are essential to make this successful.
+
+◼️
+
+[Data](articles/a6c93e07.json)
+
+---
+
+### Over 500 overseas players registered for LPL 2024
+
+*2024-04-29 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-500-overseas-players-registered-for-LPL-2024/108-281577) · `en`
+
+(SLC) - The fifth edition of the Lanka Premier League (LPL) 2024 has seen interest from over 500 players from overseas, ready to take the field in the upcoming edition.
+
+The 5th edition of the LPL 2024, which is Sri Lanka’s top-most domestic T20 Tournament with an international flavour will be held from July 1 to 21.
+
+Players from 24 cricket-playing nations, including the ones from all the ICC Full Member
+
+Nations, have registered for the upcoming player auction and are vying to get picked into one of the five teams in the LPL 2024.
+
+Among the key players registered are Tamim Iqbal, Tim Southee, Rassie Van Der Dussen,
+
+Jimmy Neesham, Mushfiqur Rahim, Reeza Hendricks, Rilee Rossouw, Shai Hope, Taskin
+
+Ahmed, Lungi Ngidi, Naseem Shah, Rahmanullah Gurbaz, Najmul Hossain Shanto, Colin Munro, Ish Sodhi, Mark Chapman, Jason Behrendorff, Andre Fletcher, Oshane Thomas, Keemo Paul and Fabian Allen.
+
+...
+
+[Data](articles/763e77eb.json)
+
+---
+
+### 18 killed in bus accident, 32 injured
 
 *2024-04-29 17:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-விபத்தில்-18-பேர்-உயிரிழப்பு-32-பேர்-காயம்/50-336514) · `ta`
 
-மெக்சிகோ சிட்டியின் தலைநகரம் பகுதியில் திங்கட்கிழமை (29) இடம்பெற்ற  பஸ் விபத்தில் 18 பேர் உயிரிழந்துள்ளதுடன்  மேலும் 32 பேர் காயமடைந்துள்ளதாக மெக்சிகோவின் சிவில் பாதுகாப்பு நிறுவனம் தெரிவித்துள்ளது.
+A bus accident in Mexico City killed 18 and injured 32. The bus, traveling from Kuanjuado to Salma Sanctuary, crashed on the highway.
 
-மத்திய மெக்சிகோவில் உள்ள குவானாஜுவாடோ மாநிலத்தில் உள்ள சான் லூயிஸ் டி லா பாஸில் இருந்து மெக்சிகோ நகருக்கு தெற்கே உள்ள சால்மா சரணாலயத்திற்கு பயணித்துக்கொண்டிருந்த பேருந்து ஒன்றே  இவ்வாறு நெடுஞ்சாலையில் கவிழ்ந்து விபத்துக்குள்ளானது.
+🟩
 
-இவ் விபத்தில் 14 பேர் ஸ்தலத்திலேயே உயிரிழந்துள்ளதுடன் 4 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாகவும் ,  மேலும்  32 பேர் காயமடைந்த நிலையில் சிகிச்சைபெற்று வருவதாகவும் தெரியவந்துள்ளது .
+At least 18 people were killed and 32 others were injured in a bus accident on Monday (29) in the capital city of Mexico City, according to Mexico's civil security agency.
+
+A bus traveling from San Louis de La Bas in the state of Kuanjuado, Central Mexico, to the Salma Sanctuary south to Mexico, crashed on the highway.
+
+Fourteen people were killed in the accident and 4 people were admitted to the hospital and 32 others were injured.
 
 ◼️
 
 [Data](articles/b871afe5.json)
+
+[Extended Data](ext_articles/b871afe5.ext.json)
 
 ---
 
@@ -70,25 +196,35 @@ The SNP’s fortunes have faltered over a funding scandal and the resignation of
 
 ---
 
-### කටුනායකදී කොටුවූ කාන්තාවන් දෙදෙනා
+### Two women trapped in Katunayake
 
 *2024-04-29 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196099) · `si`
 
-නීතිවිරෝධී ලෙස පිරිමි ළමයෙකු එංගලන්තය වෙත රැගෙන යාමට ගත් උත්සාහයක් ව්‍යර්ථ කිරීමට කටුනායක ගුවන්තොටුපොළේ ආගමන විගමන නිලධාරීන් සමත්ව තිබේ.
+Two women, including an Immigration Officer, were arrested at Katunayake Airport for attempting to smuggle a 17-year-old Tamil boy to England using false documents. The boy's true mother was also detained.
 
-මෙම ජාවාරම සම්බන්ධයෙන් කාන්තාවන් දෙදෙනෙකු කටුනායක ගුවන්තොටුපොළේදී ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-දැනට එංගලන්තයේ වාසය කරන ශ්‍රී ලාංකික මවකගේ සහ ඇයගේ පුතුගේ තොරතුරු භාවිත කර ව්‍යාජ ලියකියවිලි සකස් කර වෙනත් කාන්තාවක යොදාගනිමින් එම පිරිමි දරුවා පසුගිය 26 වනදා මෙලෙස එංගලන්තය වෙත රැගෙන යාමට උත්සාහ ගෙන තිබේ.
+Immigration and Emigration Officer at the Katunayake Airport has been able to perform an attempt to take a boy to England.
 
-ගුවන්තොටුපොළ අද දෙරණ වාර්තාකරු පැවසුවේ මෙම පිරිමි ළමයා 17 හැවිරිදි වියේ පසුවන අතර ඔහු ද්‍රවිඩ ජාතිකයෙකු බවය.
+The Department of Immigration and Emigration Department of Immigration and Emigration Department has been arrested at the Katunayake airport at the Katunayake airport.
 
-මුලතිව් ප්‍රදේශයේ පදිංචි කාන්තාවක් මෙලෙස එම පිරිමි දරුවාද රැගෙන එදින දහවල් 1.30ට ශ්‍රීලන්කන් ගුවන් යානයකින් ලන්ඩන් බලා යෑමට කටුනායකට පැමිණ තිබුණි.
+The boy was trying to take the boy to England to take the same boy on the 26th and using false documents using a Sri Lankan mother and son in England.
 
-එහිදී ගුවන් සේවා කවුළු නිලධාරිනියකට අදාළ ලියකියවිලි සම්බන්ධයෙන් ඇතිවූ සැකය මත මොවුන් දෙදෙනා ගුවන්තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් වෙත භාර දී තිබේ.
+The airport said Ada Derana reporter said the boy was 17 years old and he was a Tamil.
+
+A woman who a residents of Mullaittivu has arrived in London to visit London at 1.30 pm on the day.
+
+The two have been handed over to the officers of the Department of Immigration and Emigration Unit on suspicion of the documents related to a Aviation Window officer.
+
+In technical inspections, these documents were confirmed that these documents were prepared.
+
+The documents then taken to another location revealed that the documents were fake.
 
 ...
 
 [Data](articles/172cd6f9.json)
+
+[Extended Data](ext_articles/172cd6f9.ext.json)
 
 ---
 
@@ -369,6 +505,22 @@ Under interrogation in camera, the boy revealed that the woman who accompanied h
 [Data](articles/f9300e3e.json)
 
 [Extended Data](ext_articles/f9300e3e.ext.json)
+
+---
+
+### අම්බලන්ගොඩ ධීවර වරාය මුහුදු කෑමට
+
+*2024-04-29 15:37:26* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-ධීවර-වරාය-මුහුදු-කෑමට/11-409324) · `si`
+
+අම්බලන්ගොඩ ධීවර වරායේ ගල් වැටි උඩින් මුහුදු රළ අද(29) පස්වරුවේ වරාය තුළට හදිසියේ කඩා වැටීමත් සමග ගාල් කර ඇති ධීවර යාතා දැඩි අනතුරකට මුහුණදී ඇතැයි ධීවරෝ කියති.
+
+මේ තත්ත්වය හමුවේ  ධිවර වරාය කඩා වදින ලොකු රළ පහර සිය ධ්වර යතාවල වදිනුයේ ඒව පෙරලෙන් ළෙසය.තවද මේ නිසා ධීවර වරාය තුළ් ධීවර යාත එකිනෙක ගැටී ඒවාට අලාභහානි සිදුවන බවද ධීවරයෝ කියති.
+
+ධීවර වරාය තුළ මුහුදු ජලය පිරී දැන් ඒවා ගොඩබිම දෙසට ගලායාමෙන් ගොඩ බිමද මුහුදු ජලයෙන් යටවීමට ද පටන් ගෙන තිබේ.
+
+◼️
+
+[Data](articles/f91e440d.json)
 
 ---
 
@@ -2263,177 +2415,5 @@ However, Menikhinna police have taken steps to deploy police officers for the sa
 [Data](articles/d0fef524.json)
 
 [Extended Data](ext_articles/d0fef524.ext.json)
-
----
-
-### Tension in Kandy: Police accumulation
-
-*2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
-
-Tension in Kandy's Menikhinna Hospital led to injuries among hospital staff and patients during New Year's Eve. Police intervened, and both sides admitted to clashes, resulting in seven injuries. The hospital's operations were delayed, and police ensured safety.
-
-🟩
-
-Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
-
-The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's Eve.
-
-Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
-
-Following the confession of the two sides, they dispersed.
-
-However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
-
-◼️
-
-[Data](articles/fb4305eb.json)
-
-[Extended Data](ext_articles/fb4305eb.ext.json)
-
----
-
-### The production of headlines in Jaffna;Gateway doors in Nagercoil
-
-*2024-04-29 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182197) · `ta`
-
-In East Nagercoil, Jaffna, a wooden project aimed at improving livelihoods for the poor has faced issues, including a broken gateway door. Despite its benefits, such as wood cashews in two years, the project has been marred by increased crimes like leakage and robbery.
-
-🟩
-
-Visamis have visited the general entrance doors of the wooden progress project in East Nagercoil, Vadamarachchi, Jaffna yesterday (28).
-
-The Western J/424 Grama Niladhari Division in Nagercoil was a wooden training program to improve the livelihood of the people under the poverty line five years ago.
-
-As part of the project, thirty acres of land were reproduced and the fence was set up with pillars and barbed wire, and thirty wells were built.
-
-To maintain this, the project was implemented through the District Secretariat of the Divisional Secretariat through the District Secretariat of the Norwegian Finance and the Woodworks Corporation.
-
-The project has been seen as a project and has benefited from wood cashews in two years.
-
-The gateway door was broken last night, with a gateway to connect the streets for the project.
-
-Meanwhile, the people in Nagercoil have demanded that the crimes in the Nagercoil area have increased in Nagercoil area, such as leakage, and robbery.
-
-◼️
-
-[Data](articles/269eebf1.json)
-
-[Extended Data](ext_articles/269eebf1.ext.json)
-
----
-
-### 10 percent of Sri Lankans kidney disease
-
-*2024-04-29 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196077) · `si`
-
-Dr. Sanjaya Heiyanthuduwa reports that 10% of Sri Lankans suffer from kidney disease, primarily due to diabetes. Proper diabetes management and daily water intake can help prevent kidney disease.
-
-🟩
-
-Dr. Sanjaya Heiyhethri, Chief Sanja Heiyanthuduwa, Chief Sanjaya Welimantu says that about 10 percent of the country's population is suffering from kidney patients.
-
-Specialist medical Dr. Sanjaya Heiyanthuduwa stated that diabetes can lead to the increase in the number of kidney patients in the country.
-
-"There is only 10% of our country in our country or a kidney disease. Really affecting the various factors. You have to refer to prevent these diseases. Especially diabetes is the mainstream factor that affects the kidney spoil of our country. Good diabetes control he should do these patients to escape the kidney disease. In addition, following medical advice, properly participating in the clinics, very important. Delivery of about three and a half liters of water a day and drinking about three and a half liters of water a day will be able to break free from the disease. "
-
-◼️
-
-[Data](articles/2918f729.json)
-
-[Extended Data](ext_articles/2918f729.ext.json)
-
----
-
-### Airport facial recognition leads to arrest of Angoda Lokka’s associate
-
-*2024-04-29 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Airport-facial-recognition-leads-to-arrest-of-Angoda-Lokkas-associate/108-281547) · `en`
-
-BIA, April 29 (Daily Mirror) - An associate of organized criminal Maddumage Lasantha Chandana Perera alias 'Angoda Lokka', was arrested at the Bandaranaike International Airport, Katunayake.
-
-Police said the 47-year-old Ellawalage Sarath Kumara alias 'Chitee', was arrested while he was attempting to leave for overseas with a forged passport.
-
-The suspect was arrested after being identified by the Automated Facial Recognition System (AFRS) installed at the airport departure terminal.
-
-During further investigations, it has been revealed that the suspect is a main associate of Angoda Lokka and also wanted by the Mulleriya police for smuggling ICE drugs.
-
-Also, it was revealed that the suspect has been involved in several other crimes such as shooting and killing a person in the Wellampitiya police area in 2011.
-
-The suspect has been handed over to the Mulleriyawa Police for further investigations.
-
-◼️
-
-[Data](articles/cc690c7c.json)
-
-[Extended Data](ext_articles/cc690c7c.ext.json)
-
----
-
-### 19 year old youth is killed
-
-*2024-04-29 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196076) · `si`
-
-A 19-year-old was killed in a dispute between two brothers in Kuruwita. The younger brother, 17, seriously injured the elder brother, who was admitted to Ratnapura Hospital. The younger brother was arrested for murder.
-
-🟩
-
-A dispute between two brothers from the Kuruwita area in Kuruwita was far away.
-
-The younger brother said that the younger brother had seriously injured the elder brother and was later injured and admitted to the Ratnapura Hospital.
-
-The body has been placed at the Ratnapura hospital morgue and the 17-year-old younger brother arrested for the murder.
-
-◼️
-
-[Data](articles/bc52d3ea.json)
-
-[Extended Data](ext_articles/bc52d3ea.ext.json)
-
----
-
-### The magic of the Pasikuda Sea;Searching is intensity!
-
-*2024-04-29 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182195) · `ta`
-
-A person vanished in Pasikuda Sea while swimming in Batticaloa. Calcutta Divers searched for 3 hours, and police are investigating after a complaint.
-
-🟩
-
-One of them disappeared while a group of Batticaloa town was swimming.
-
-The Missing Person Search for 3 hours yesterday by the Calcutta Divers.
-
-A complaint has been lodged at the Calcutta Police Station and the police are conducting investigations.
-
-◼️
-
-[Data](articles/6ed8d1af.json)
-
-[Extended Data](ext_articles/6ed8d1af.ext.json)
-
----
-
-### 9 MONEY LIKE
-
-*2024-04-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196075) · `si`
-
-A 9-month-old infant was found murdered in Ragama, with the police revealing the mother had thrown the baby into a well. The father reported the incident.
-
-🟩
-
-A nine months of murdered a 9-month infant residing in Hallanduru Road, Ragama, Halanduru Road, Ragama.
-
-The police said that the father of the infant complained yesterday (28).
-
-The body of a bullet was built in a well near the resident of the resident.
-
-The investigation was revealed that the mother had put the infant into the well.
-
-The victim was a 30 year old resident of the area.
-
-◼️
-
-[Data](articles/2f9eea64.json)
-
-[Extended Data](ext_articles/2f9eea64.ext.json)
 
 ---

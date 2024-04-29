@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 18:11:13**
+As of **2024-04-29 18:22:43**
 
 ## Newspaper Stats
 
-*Scraped **21,631** Articles*
+*Scraped **21,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,811
 tamilmirrorlk | 2,517
 adaderanalk | 2,571
 virakesarilk | 3,255
-dailymirrorlk | 3,363
-adaderanasinhalalk | 3,506
+dailymirrorlk | 3,366
+adaderanasinhalalk | 3,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,630 (100.0%) of 21,631 articles have been extended.
+21,631 (100.0%) of 21,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### සාමාන්‍ය පෙළ අවසන් වූ සැණින් උසස් පෙළ පන්ති ඇරඹෙයි
+
+*2024-04-29 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196102) · `si`
+
+මෙවර සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහාම විභාගයට පෙනී සිටි සිසුන් සඳහා පාසල්වල උසස් පෙළ පන්ති ආරම්භ කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+ජාතික අධ්‍යාපන ආයතනයේ නිල අන්තර්ජාල ගුවන් විදුලි නාලිකාව ආරම්භ කිරීම අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ පසුගිය කොවිඩ් ව්‍යසන සමයේ පාසල් වසා තැබීම නිසා අතපසු වූ අධ්‍යයන කටයුතු හා පාසල් විභාග කාලසටහන යථාවත් කිරීමේ වැඩපිළිවෙළ අනුව මෙම තීරණය ගෙන ඇති බවය.
+
+මෙම අභියෝගාත්මක කාර්යය සිදුකිරීම සඳහා ගුරුභවතුන්ගේ ද දැඩි කැපවීමක් අවශ්‍ය බවද අමාත්‍යවරයා එහිදී පෙන්වාදුන්නේය.
+
+ඒ සඳහා මේ වන විටත් උසස් පෙළ විද්‍යා, ගණිත, තාක්ෂණවේදය හා විදේශ භාෂා විෂය ධාරා ඉගැන්වීමට අලු‍තෙන් ගුරුවරුන් 3000ක් බඳවා ගන්නා බවත් අමාත්‍යවරයා සඳහන් කළේය.
+
+මේ සතිය තුළ ඔවුන් බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ පවත්වා අවසන් වන බවත් මෙහිදී අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/001cae4c.json)
+
+---
 
 ### Dad and son, son, caught with heroin
 
@@ -682,6 +704,22 @@ In addition, in the Eastern Province, especially Nintavur, Oluvil, Karadivu, Mal
 
 ### BASL urges President to remove Minister Alles
 
+*2024-04-29 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/BASL-urges-President-to-remove-Minister-Alles/155-281570) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Bar Association of Sri Lanka (BASL) has expressed serious concern over recent remarks made by Minister Tiran Alles, and urging President Ranil Wickremesinghe to remove him from the portfolio of Public Security.
+
+During its council meeting, the BASL condemned Minister Alles's statement at the passing out parade of the Katukurunda STF training camp, where he stated, "Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing, and we stand by you."
+
+In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhena expressed grave concern, noting that such remarks contradict fundamental principles enshrined in the Constitution and established criminal justice procedures.
+
+...
+
+[Data](articles/37329723.json)
+
+---
+
+### BASL urges President to remove Minister Alles
+
 *2024-04-29 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BASL-urges-President-to-remove-Minister-Alles/108-281570) · `en`
 
 Colombo, April 29 (Daily Mirror) - The Bar Association of Sri Lanka (BASL) has expressed serious concern over recent remarks made by Minister Tiran Alles, and urging President Ranil Wickremesinghe to remove him from the portfolio of Public Security.
@@ -835,6 +873,18 @@ The Foreign Minister will be accompanied by senior officials of the Ministry of 
 [Data](articles/333c39be.json)
 
 [Extended Data](ext_articles/333c39be.ext.json)
+
+---
+
+### Protest against Maithri's statement...
+
+*2024-04-29 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Maithri-s-statement/110-281567) · `en`
+
+Citizens of People's Struggle staged a protest outside the Criminal Investigation Department (CID) calling for a proper investigation into the statement made by former President Maithripala Sirisena over the Easter Sunday bomb attacks. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/fb2fa445.json)
 
 ---
 
@@ -2308,19 +2358,29 @@ A ceremony for students who studied under the project was held at Mahinda Wijese
 
 ---
 
-### එකට බද්ද වූ වකුගඩු දෙකක ගල් ඉවත් කළ සුවිශේෂි සැත්කම
+### Exclusive surgery that leased two kidneys leased together
 
 *2024-04-29 10:02:00* · [`adalk`](https://www.ada.lk/breaking_news/එකට-බද්ද-වූ-වකුගඩු-දෙකක-ගල්-ඉවත්-කළ-සුවිශේෂි-සැත්කම/11-409314) · `si`
 
-පුද්ගලයන් 500 කින් එක් අයෙකුට පමණක් පිහිටන විරල තත්වයක්  වන වකුගඩු දෙක යටින් එකට බද්ධ වූ පුද්ගලයෙකුගේ වකුගඩු දෙකේම හටගත් ගල් නවතම තාක්‍ෂණය  යටතේ ඉවත්කිරීමේ සුවිශේෂී සැත්කමක් පසුගියදා කළුතර නාගොඩ ශික්‍ෂණ රෝහලේදී සිදුකෙරිණි.
+A rare surgery at Nagoda Teaching Hospital in Kalutara removed two kidneys, using advanced technology. The operation, performed by specialist surgeons, involved the removal of stones from the kidneys using a high-end laser and Disposable Flexible Yuritroscopy. This minimally invasive procedure allows patients to resume normal activities within days.
 
-කළුතර නාගොඩ ශික්‍ෂණ රෝහලේ වකුගඩු හා මෞත්‍රලිංගික ශල්‍ය වෛද්‍ය ඒකකයේ විශේෂඥ ශල්‍ය වෛද්‍ය කලණ පරණ පල්ලියගුරුගේ මහතා ඇතුළු කණ්ඩායමක් විසින් මෙම සුවිශේෂී ශල්‍යකර්මය සිදුකල අතර එම ශල්‍යකර්මය කළුතර නාගොඩ ශික්‍ෂණ රෝහලේ වකුගඩු හා මෞත්‍රලිංගික ශල්‍ය වෛද්‍ය ඒකකය සිදුකල 150 වැනි වකුගඩු ගල් ඉවත්කිරීමේ ශල්‍යකර්මය වීමද විශේෂත්වයකි.
+🟩
 
-මෙම සුවිශේෂී ශල්‍යකර්මය පිළිබඳව කළුතර නාගොඩ ශික්‍ෂණ රෝහලේ වකුගඩු හා මෞත්‍රලිංගික ශල්‍ය වෛද්‍ය ඒකකයේ විශේෂඥ ශල්‍ය වෛද්‍ය කලණ පරණ පල්ලියගුරුගේ මහතා මෙසේ පැවසීය.
+A special surgery to be removed under the latest two kidneys, which are rare to one of the two kidneys, which are exacerbated in 500 people, was taken under the latest technology under the latest technology.
+
+The special operation was held by the Kidney and Holding Hospital in the Nagoda Teaching Hospital in Kalutara.
+
+Specialist Surgeons of the Kidney and the Holy Surgeon Surgeons at the Kakuna and Holy Surgery Surgeon of the Nagoda Teaching Hospital, Kalutara General Surgeons.
+
+A special day for the kidneys and morally surgical unit of the Nagoda Teaching Hospital in Kalutara today. The removal of stones of the 150th kidneys in our sector today. This surgery is special. This surgery, we do to remove the rocks of two kidneys, which were connected to two kidneys, on two kidneys.
+
+Two kidneys in a horse firm. But this is not a wictory. A 38-year-old male was held at this surgery today. Another highlight of this surgery was the most modern equipment we used in this surgery.
 
 ...
 
 [Data](articles/6e4a42d0.json)
+
+[Extended Data](ext_articles/6e4a42d0.ext.json)
 
 ---
 
@@ -2369,77 +2429,5 @@ There were no major surprises in New Zealand's squad, with key pacer Kyle Jamies
 [Data](articles/36a68212.json)
 
 [Extended Data](ext_articles/36a68212.ext.json)
-
----
-
-### Sri Lanka rupee opens at 296.20/40 to US dollar
-
-*2024-04-29 09:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-296-20-40-to-us-dollar-160387/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 296.20/40 to the US dollar on Monday after closing at 296.00/30 on Friday, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 11.10/20 percent from 11.15/20 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 11.80/90 percent from 11.90/12.00 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.33 percent at 12,241, while the S&P SL20 was up 0.50 percent at 3,652. (Colombo/Apr29/2024)
-
-◼️
-
-[Data](articles/ec4bcad6.json)
-
-[Extended Data](ext_articles/ec4bcad6.ext.json)
-
----
-
-### Tension in Menikhinna: Police accumulate
-
-*2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மெனிக்ஹின்னவில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
-
-Tension at Kandy Menikhinna Hospital led to injuries for seven people, including staff, during New Year's Eve. A clash between hospital staff and injured parties resulted in further injuries. Police have been deployed for safety.
-
-🟩
-
-Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
-
-The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's Eve.
-
-Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
-
-Following the confession of the two sides, they dispersed.
-
-However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
-
-◼️
-
-[Data](articles/166f80eb.json)
-
-[Extended Data](ext_articles/166f80eb.ext.json)
-
----
-
-### Tension at Kandy Hospital
-
-*2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-வைத்தியசாலையில்-பதற்றம்-பொலிஸார்-குவிப்பு/175-336484) · `ta`
-
-Tension at Kandy Menikhinna Hospital led to injuries for seven people, including staff, during New Year's Eve. A clash between hospital staff and the injured parties resulted in further injuries. Both sides later dispersed, but police were deployed for safety.
-
-🟩
-
-Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
-
-The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's Eve.
-
-Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
-
-Following the confession of the two sides, they dispersed.
-
-However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
-
-◼️
-
-[Data](articles/3fabdc35.json)
-
-[Extended Data](ext_articles/3fabdc35.ext.json)
 
 ---

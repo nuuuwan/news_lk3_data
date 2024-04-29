@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 14:52:38**
+As of **2024-04-29 15:03:41**
 
 ## Newspaper Stats
 
-*Scraped **21,587** Articles*
+*Scraped **21,590** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 185
+colombotelegraphcom | 186
 bbccomsinhala | 225
 dbsjeyarajcom | 230
 newsfirstlk | 363
@@ -17,7 +17,7 @@ dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,806
 tamilmirrorlk | 2,509
-adaderanalk | 2,565
+adaderanalk | 2,567
 virakesarilk | 3,247
 dailymirrorlk | 3,356
 adaderanasinhalalk | 3,498
@@ -26,27 +26,73 @@ adaderanasinhalalk | 3,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,585 (100.0%) of 21,587 articles have been extended.
+21,587 (100.0%) of 21,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### ஐக்கிய மக்கள் சக்தி இரு பேரணிகளை நடாத்தவுள்ளது
+### Japanese Foreign Minister to visit Sri Lanka next week
+
+*2024-04-29 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98915/japanese-foreign-minister-to-visit-sri-lanka-next-week) · `en`
+
+Minister of Foreign Affairs of Japan Yoko Kamikawa is scheduled to undertake an official visit to Sri Lanka from 04 to 05 May 2024, the Ministry of Foreign Affairs said.
+
+Issuing a statement, the Foreign Ministry mentioned that during this visit, the Japanese Foreign Minister is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+The Japanese Foreign Minister and her delegation will have official discussions with the Foreign Minister Ali Sabry during the visit.
+
+The Foreign Minister will be accompanied by senior officials of the Ministry of Foreign Affairs of Japan, it added.
+
+◼️
+
+[Data](articles/333c39be.json)
+
+---
+
+### Wijeyadasa’s petition against enjoining order fixed for consideration
+
+*2024-04-29 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98914/wijeyadasas-petition-against-enjoining-order-fixed-for-consideration) · `en`
+
+The Court of Appeals ordered a petition filed seeking to invalidate the recent order issued by the Colombo District Court preventing Minister Wijeyadasa Rajapakshe from functioning as the Acting Chairman of Sri Lanka Freedom Party (SLFP), to be taken up for consideration on May 02.
+
+This petition was filed by Minister of Justice Wijeyadasa Rajapakshe.
+
+On Wednesday (24), the Colombo District Court issued an injunction order preventing the appointment of Minister Wijeyadasa as the Acting Chairman of the SLFP.
+
+The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
+
+Meanwhile, the court issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
+
+The Colombo District Judge issued these injunctions after considering a plaint submitted by Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Member of Parliament Duminda Dissanayake.
+
+...
+
+[Data](articles/a39628d9.json)
+
+---
+
+### The United People's Power will hold two rallies
 
 *2024-04-29 14:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்தி-இரு-பேரணிகளை-நடாத்தவுள்ளது/175-336505) · `ta`
 
-ஐக்கிய மக்கள் சக்தி (SJB) இந்த ஆண்டு கொழும்பிலும் நுவரெலியாவிலுமாக இரண்டு மே தின பேரணிகளை நடத்த உள்ளது.
+The United People's Power (SJB) will hold two May Day rallies in Colombo and Nuwara Eliya, with the main event in Colombo and participation by TPA in Nuwara Eliya. SJB leader Tissa Attanayake will attend both.
 
-பிரதான பேரணி கொழும்பு சத்தம் வீதியிலும் மற்றைய பேரணி நுவரெலியாவிலும் நடைபெறவுள்ளதாக SJB தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+🟩
 
-"நுவரெலியாவில் நடைபெறும் பேரணியை தமிழ் முற்போக்குக் கூட்டணி (TPA) ஏற்பாடு செய்ய உள்ளது, ஆனால் SJB தலைவர் இரண்டு பேரணிகளிலும் பங்கேற்பார்" என அத்தநாயக்க கூறினார்.
+The United People's Power (SJB) is scheduled to hold two May Day rallies in Colombo and Nuwara Eliya this year.
 
-SJB மே தின ஊர்வலம் குணசிங்காபுரத்தில் இருந்து மதியம் 1 மணிக்கு தொடங்கும் என அவர் மேலும் தெரிவித்தார்.
+SJB National Organizer Tissa Attanayake said the main rally would be held in Colombo noise road and the other rally in Nuwara Eliya.
+
+"The rally in Nuwara Eliya is to be organized by the Tamil Progressive Alliance (TPA), but the SJB leader will participate in both rallies," said Attanayake.
+
+He added that the SJB May Day procession will start from Gunasingapuram at 1 pm.
 
 ◼️
 
 [Data](articles/15d485bf.json)
+
+[Extended Data](ext_articles/15d485bf.ext.json)
 
 ---
 
@@ -1714,6 +1760,16 @@ Police say the suspect is the case with the ice drugs and he is currently questi
 
 ---
 
+### Classical Erudition Of SWRD Bandaranaike
+
+*2024-04-29 09:18:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/classical-erudition-of-swrd-bandaranaike/) · `en`
+
+...
+
+[Data](articles/8c61ece3.json)
+
+---
+
 ### Success after failure;The recovery of the Chennai team
 
 *2024-04-29 09:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தோல்விக்கு-பிறகு-வெற்றி-மீண்டு-வந்த-சென்னை-அணி/44-336482) · `ta`
@@ -2399,87 +2455,5 @@ The case (07.12.2023) was taken to the Mullaitivu District Court that day.
 [Data](articles/b3b32ba3.json)
 
 [Extended Data](ext_articles/b3b32ba3.ext.json)
-
----
-
-### 'When our products join the Mahapola, the trees grow.'
-
-*2024-04-29 02:43:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c19dw10ex7go) · `si`
-
-"Eco-friendly products contribute to economic and environmental benefits, as highlighted by Naka Priyadarshani, who runs the business with her daughters post-husband's death. Their products' inclusion in Mahapola initiatives symbolizes growth and value creation, emphasizing the potential of women in society."
-
-🟩
-
-None contains none of this.
-
-Naka Priyadarshani says that focusing on eco-friendly products can lead to an economic advantage and contribute to environmental advantage.
-
-After her husband's death, she supplies eco-friendly products with his two daughters.
-
-"When our products join the Mahapola, the trees sprout. We do what we are doing to the value of disposable and re-imitate the market. Like me and helpless women have a lot of this society. Don't think that you are helpless. She told the BBC Sinhala.
-
-◼️
-
-[Data](articles/fe991245.json)
-
-[Extended Data](ext_articles/fe991245.ext.json)
-
----
-
-### Babar Azam, Shaheen Shah Apparidi Excellent Energy Explosions;Pakistan balances the T20 series with New Zealand
-
-*2024-04-29 02:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182184) · `ta`
-
-Pakistan balanced the T20 series with New Zealand 2-2, winning the decider by 9 runs. Key performances included Babar Azam's 69, Bakar Saman's batting, and Shaheen Shah Abridi's 4/30. Pakistan scored 178, New Zealand 169.
-
-🟩
-
-The five -match international R20 cricket series between New Zealand and Pakistan ended in a balance based on 2 - 2.
-
-Pakistan won the series by 9 runs in the 5th and last international T20 cricket match held at the Gaddafi Stadium in Lahore on Sunday (28).
-
-In the match, team captain Babar Assam's half -century, Bakar Saman's excellent batting and Shaheen Shah Abridi's accurate bowling played a key role in Pakistan's victory.
-
-The first match was abandoned by rain and Pakistan won the 2nd match. New Zealand won the next two matches and were based on 2 - 1.
-
-Pakistan scored 178 runs for the loss of 5 wickets in 20 overs.
-
-Although the opening player Sym Ayub lost the game with a run, the others were effectively bowled out and strengthened the total number of the team.
-
-Babar Azam and Usman Khan shared 73 runs in the 2nd wicket.
-
-Babar Azam, who shared 42 runs in the 3rd wicket with Bakar Zaman, scored 69 off 44 balls.
-
-Iptikar Ahmad lost the match with 6 runs and followed him with 43 runs.
-
-...
-
-[Data](articles/f86b342c.json)
-
-[Extended Data](ext_articles/f86b342c.ext.json)
-
----
-
-### CB optimistic of stability amidst ongoing economic reforms
-
-*2024-04-29 02:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-optimistic-of-stability-amidst-ongoing-economic-reforms/108-281538) · `en`
-
-Says economy expected to continue to recover and reach its potential in coming years
-
-Inflation expected to stabilise around the target over the medium term
-
-Signs of economic recovery observed in 2H23 expected to translate into a broad-based recovery across all sectors
-
-Overall outlook of the Sri Lankan economy in the medium to long term will be conditional on the continuation of the IMF-EFF programme, among others
-
-The Central Bank of Sri Lanka sounded optimistic about Sri Lanka witnessing stability on multiple fronts, provided that the ongoing ambitious reforms and economic adjustments underpinned by the Extended Fund Facility (EFF) programme of the International Monetary Fund (IMF) continue without any interruptions.
-
-The financial sector regulator in its Annual Economic Review 2023 released last week said that the Sri Lankan economy is expected to continue to recover and reach its potential in the coming years, bolstered by the return of greater macroeconomic stability.
-
-...
-
-[Data](articles/de1399dc.json)
-
-[Extended Data](ext_articles/de1399dc.ext.json)
 
 ---

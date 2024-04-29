@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 16:35:13**
+As of **2024-04-29 16:50:22**
 
 ## Newspaper Stats
 
-*Scraped **21,612** Articles*
+*Scraped **21,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,807
-tamilmirrorlk | 2,512
-adaderanalk | 2,569
+tamilmirrorlk | 2,513
+adaderanalk | 2,570
 virakesarilk | 3,255
 dailymirrorlk | 3,359
-adaderanasinhalalk | 3,502
+adaderanasinhalalk | 3,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,611 (100.0%) of 21,612 articles have been extended.
+21,612 (100.0%) of 21,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### කෙන්යාවේ ඛේදවාචකයක්
+
+*2024-04-29 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196098) · `si`
+
+අධික වර්ෂාව නිසා ඇතිවූ ගං වතුර හේතුවෙන් කෙන්යාවේ වේල්ලක් කැඩී යාමෙන් 40 දෙනෙක් පමණ මියගොස් ඇති බව වාර්තා වෙයි.
+
+බටහිර කෙන්යාවේ කමුචිරි ගම්මානය ආසන්නයේ තිබූ වේල්ලක් ඒ හේතුවෙන් කැඩී ගොස් තිබූ අතර එහිදී නිවාස විශාල ගණනක් විනාශ වී තිබුණි.
+
+පසුගිය මාසයේදී කෙන්යාවේ ඇතිවූ හදිසි ගං වතුර හේතුවෙන් 100කට වැඩි පිරිසක් ජීවිතක්ෂයට පත්ව තිබුණි.
+
+◼️
+
+[Data](articles/a6f5c712.json)
+
+---
+
+### Advisory issued for severe lightning in parts of the island
+
+*2024-04-29 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98918/advisory-issued-for-severe-lightning-in-parts-of-the-island) · `en`
+
+The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Southern, Sabaragamuwa, Uva, North-western and North-central provinces and in and Mannar district.
+
+There may be temporary localized strong winds during thundershowers, the Met. Department said.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/24ebe63b.json)
+
+---
+
+### நீங்கள் 2007 இல் பிறந்தீர்களா?
+
+*2024-04-29 16:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீங்கள்-2007-இல்-பிறந்தீர்களா/175-336512) · `ta`
+
+2007.01.31 ஆம் திகதிக்கு முன்னர் பிறந்துள்ள பிரஜைகளின் பெயர்கள், வாக்காளர் இடாப்பில் உள்ளதாவென கிராம அலுவலர்களிடம் உடனடியாக விசாரித்துக்கொள்ளுமாறு தேர்தல்கள் ஆணைக்குழு அறிவுறுத்தல் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/97019318.json)
+
+---
 
 ### Deadline for accepting donations to Gaza Children’s Fund extended
 
@@ -45,6 +93,8 @@ In the initial phase, on behalf of the government, President Ranil Wickremesingh
 ...
 
 [Data](articles/ee962340.json)
+
+[Extended Data](ext_articles/ee962340.ext.json)
 
 ---
 
@@ -2383,71 +2433,5 @@ However, misty conditions can be expected at some places in the Sabaragamuwa and
 [Data](articles/87b14251.json)
 
 [Extended Data](ext_articles/87b14251.ext.json)
-
----
-
-### Thundershowers in some areas today
-
-*2024-04-29 08:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை/175-336480) · `ta`
-
-"Thundershowers predicted in top, northwestern, central, sabaragamuwa provinces, Galle, Matara districts, Uva Province, and Anuradhapura district this afternoon or night."
-
-🟩
-
-The Department of Meteorology has predicted rain or thunderstorms in some parts of the country today.
-
-According to the Department of Meteorology, rain or thunderstorms are likely to occur in the top, northwestern, central and sabaragamuwa provinces and some parts of the Galle and Matara districts.
-
-Rainfall or thunderstorms are expected in the Uva Province and some parts of the Anuradhapura district this afternoon or night.. Remble
-
-◼️
-
-[Data](articles/4442bf51.json)
-
-[Extended Data](ext_articles/4442bf51.ext.json)
-
----
-
-### Happy notice of vehicle imports
-
-*2024-04-29 08:39:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-336479) · `ta`
-
-The Ministry of Finance plans to re-import vehicles by the end of this year or next, with discussions already underway, according to a senior spokesman and Finance Minister Shehan Semasinghe.
-
-🟩
-
-A senior spokesman for the Ministry of Finance has stated that it is expected to re -import vehicles from the end of this year or next year.
-
-Meanwhile, Finance Minister Shehan Semasinghe has said that discussions on importing vehicles have already begun.. Remble
-
-◼️
-
-[Data](articles/c4dfaed0.json)
-
-[Extended Data](ext_articles/c4dfaed0.ext.json)
-
----
-
-### Request for military general pardon
-
-*2024-04-29 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196074) · `si`
-
-The United War Heroes Community demands a public season pardon for war heroes, emphasizing insufficient pay for medical unit soldiers. Over 7,000 soldiers have been removed in the first week, with 7,156 army soldiers withdrawn from public schools.
-
-🟩
-
-The United War Heroes Community says that the government has provided with the public season with the government should also be given to war heroes who have been given to the three armed forces.
-
-The convener of the union said that the monthly salary of a war heroes in the Medical Unit is not enough.
-
-"Two days later, the Armed Forces Commandments do not give this privilege for the armed forces. All these warriors learned from the A / L Biology. 425 is the difference in a soldier in an infantry regiment and a war hero working in medical sectors. These people were kids who were universities. These people have left the ministry. Especially emphasize this privilege to these war heroes. If you want to save the war heroes hospitals, give a proper pay. "
-
-Meanwhile, more than 7,000 soldiers have been removed during the first week during the first week.
-
-...
-
-[Data](articles/09be26b8.json)
-
-[Extended Data](ext_articles/09be26b8.ext.json)
 
 ---

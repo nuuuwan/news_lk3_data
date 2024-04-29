@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 15:34:03**
+As of **2024-04-29 15:52:36**
 
 ## Newspaper Stats
 
-*Scraped **21,593** Articles*
+*Scraped **21,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,76 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,806
-tamilmirrorlk | 2,510
+adalk | 1,807
+tamilmirrorlk | 2,512
 adaderanalk | 2,567
 virakesarilk | 3,247
-dailymirrorlk | 3,357
+dailymirrorlk | 3,358
 adaderanasinhalalk | 3,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,592 (100.0%) of 21,593 articles have been extended.
+21,593 (100.0%) of 21,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### මෙක්සිකෝවේ බිහිසුණු බස් අනතුරක්
+### 9 மாத சிசுவை கிணற்றில் வீசிய தாய்
+
+*2024-04-29 15:23:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாத-சிசுவை-கிணற்றில்-வீசிய-தாய்/175-336508) · `ta`
+
+மஹாபாகே ,  ராகம ,  ஹல்லந்துருவ பிரதேசத்தில் உள்ள  கிணறொன்றில்  இருந்து  நீரில் மிதந்த நிலையில் 9 மாத 9 மாத சிசுவின் சடலம்  ஞாயிற்றுக்கிழமை  (28)  மீட்கப்பட்டுள்ளது.
+
+ஹலந்துருவ ராகம பகுதியைச் சேர்ந்த நெய் நுஷாரி ஒஸ்மான் என்பவரின் இளைய மகளான அகிதா மாஹிர் என்ற சிசுவே இவ்வாறு மீட்கப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர் .
+
+குறித்த  சிசு காணாமல் போயுள்ளதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற  தகவலுக்கமைய  பொலிஸார் மேற்கொண்ட  விசாரணையின் போது  ,  தாயே  தன் சிசுவை தூக்கி சென்று  கிணறில் வீசுவது  அருகிலிருந்த  சிசிடிவி கேமராவில் பதிவாகியுள்ளமை  தெரியவந்துள்ளது .
+
+மேலும்  சிசுவின் சடலம் பரிசோதனைக்காக ராகம வைத்தியசாலைக்கு அனுப்பிவைக்கப்பட்டுள்ளதுடன் இது தொடர்பிலான  மேலதிக விசாரணைகளை  மஹாபாகே  பொலிஸார் மேற்கொண்டுவருகின்றனர்
+
+◼️
+
+[Data](articles/646b19c9.json)
+
+---
+
+### BASL urges President to remove Minister Alles
+
+*2024-04-29 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BASL-urges-President-to-remove-Minister-Alles/108-281570) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Bar Association of Sri Lanka (BASL) has expressed serious concern over recent remarks made by Minister Tiran Alles, and urging President Ranil Wickremesinghe to remove him from the portfolio of Public Security.
+
+During its council meeting, the BASL condemned Minister Alles's statement at the passing out parade of the Katukurunda STF training camp, where he stated, "Eliminating criminals from the country is not a sin. Don't be afraid to use the weapon in your hand for the right thing, and we stand by you."
+
+In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhena expressed grave concern, noting that such remarks contradict fundamental principles enshrined in the Constitution and established criminal justice procedures.
+
+...
+
+[Data](articles/52d05ae7.json)
+
+---
+
+### In Mexico's terrible bus accident
 
 *2024-04-29 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196094) · `si`
 
-මෙක්සිකෝවේ සිදුවූ බස් රථ අනතුරකින් 18 දෙනෙක් මියගොස් තවත් පුද්ගලයින් 32ක් තුවාල ලබා ඇති බව වාර්තා වෙයි.
+In Mexico, a bus accident on the way to Chalma Sanctuary from San Luis de la Paz resulted in 18 deaths and 32 injuries.
 
-San Luis de la Paz නම් ප්‍රදේශයේ සිට Chalma අභයභූමිය බලා ධාවනය වෙමින් තිබූ බස් රථයක් එසේ අනතුරට ලක්ව තිබේ.
+🟩
 
-එම බසය අධිවේගී මාර්ගයේ පෙරළි යාමෙන් අනතුර සිදුව ඇති බව සඳහන් ය.
+18 people were killed and 32 others were injured in a bus accident in Mexico.
+
+A bus traveling from the SAN LUIS DA PAZ has been traveling to the Chalma Sanctuary.
+
+The bus was reported that the bus was infectioning on the highway.
 
 ◼️
 
 [Data](articles/dbb79bfc.json)
+
+[Extended Data](ext_articles/dbb79bfc.ext.json)
 
 ---
 
@@ -155,6 +195,24 @@ He added that the SJB May Day procession will start from Gunasingapuram at 1 pm.
 [Data](articles/15d485bf.json)
 
 [Extended Data](ext_articles/15d485bf.ext.json)
+
+---
+
+### இரு பேரணிகளை நடாத்தவுள்ள ஐ.ம.ச
+
+*2024-04-29 14:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-பேரணிகளை-நடாத்தவுள்ள-ஐ-ம-ச/175-336505) · `ta`
+
+ஐக்கிய மக்கள் சக்தி (SJB) இந்த ஆண்டு கொழும்பிலும் நுவரெலியாவிலுமாக இரண்டு மே தின பேரணிகளை நடத்த உள்ளது.
+
+பிரதான பேரணி கொழும்பு சத்தம் வீதியிலும் மற்றைய பேரணி நுவரெலியாவிலும் நடைபெறவுள்ளதாக SJB தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+"நுவரெலியாவில் நடைபெறும் பேரணியை தமிழ் முற்போக்குக் கூட்டணி (TPA) ஏற்பாடு செய்ய உள்ளது, ஆனால் SJB தலைவர் இரண்டு பேரணிகளிலும் பங்கேற்பார்" என அத்தநாயக்க கூறினார்.
+
+SJB மே தின ஊர்வலம் குணசிங்காபுரத்தில் இருந்து மதியம் 1 மணிக்கு தொடங்கும் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/99555825.json)
 
 ---
 
@@ -595,6 +653,20 @@ Japan's Foreign Minister Yogo Kamika is to make an official visit to Sri Lanka. 
 [Data](articles/4628f70e.json)
 
 [Extended Data](ext_articles/4628f70e.ext.json)
+
+---
+
+### යුක්තියෙන් ඇල්ලූ බස් දෙකක් ලංගමට
+
+*2024-04-29 12:23:24* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියෙන්-ඇල්ලූ-බස්-දෙකක්-ලංගමට/11-409321) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ බෙම්මුල්ල පොලීසිය මගින් අත් අඩංගුවට ගෙන ඇති මත් ද්‍රව්‍ය ජාවාරම්කරුවෙකුට අයත් දේපල බව කියන බස් රථ දෙකක් , ගම්පහ ලංගම ඩිපෝවට බාර දෙන ලෙසට ගම්පහ අධිකරණය මගින් නියෝග කිරීම මත එම බස්රථ ඩිපෝවට බාරදීමට පියවර ගෙන ඇත.
+
+එම බස්රථ දෙක මේ වනවිට ගම්පහ ඩිපෝවට රැගෙන විත් ඇති අතර ඩිපෝ අධිකාරී එම්.ඩබ්ලිව්. කමලසිරි මහතා සදහන් කර සිටියේ ,  ලංකා ගමනා ගමන මණ්ඩලය විසින් ලබාදෙන උපදෙස් අනුව බස්රථ මගී ප්‍රවාහනය සදහා යෙදවීමට කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/dd9a04e9.json)
 
 ---
 
@@ -2361,85 +2433,5 @@ Earlier, this music effort of Indrajit, who has gone to India from the hill coun
 [Data](articles/a438a1f8.json)
 
 [Extended Data](ext_articles/a438a1f8.ext.json)
-
----
-
-### SLFP faction distances from Maithri’s claims
-
-*2024-04-29 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLFP-faction-distances-from-Maithris-claims/155-281540) · `en`
-
-Colombo, April 29 (Daily Mirror) - In an effort to nip any discord with India in the bud, Sri Lanka Freedom Party (SLFP) faction led by Nimal Siripala de Silva as acting chairman called on Indian High Commissioner Santosh Jha and disassociated itself from remarks by its former Chairman Maithripala Sirisena implicating alleged Indian involvement in orchestrating the Easter Sunday attacks, an informed source said.
-
-Earlier, there were media reports about Mr. Sirisena implicating India in the attack in his statement to the Criminal Investigation Department (CID).
-
-Last week, Public Security Minister Tiran Alles said in Parliament that Mr. Sirisena had not mentioned the name of any Sri Lankan or Sri Lankan organization in the statement to the CID. The SLFP is currently divided and Mr. Sirisena is facing an enjoiningorder which prevents him from functioning as the party chairman.
-
-...
-
-[Data](articles/3b4635ad.json)
-
-[Extended Data](ext_articles/3b4635ad.ext.json)
-
----
-
-### Apparel sector revenue totals US$ 1.17 bn in 1Q24
-
-*2024-04-29 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apparel-sector-revenue-totals-US-1-17-bn-in-1Q24/108-281537) · `en`
-
-Sri Lanka’s apparel industry saw its revenue cross the US$ 1 billion mark in the first quarter (1Q24) with exports expanding by 7.7 percent in March.
-
-Apparel exports fetched revenue of US$ 418 million in March, with an improved performance seen in Europe (EU) and the United Kingdom.
-
-Data shared by the Joint Apparel Association Forum (JAAF) showed that while exports to the United States (US) decreased by 2.81 percent, exports to the EU (excluding exports to UK) have grown by 5.62 percent, and exports to the UK have increased by 11.93 percent.
-
-Exports to other countries have recorded an increase by 34.26 percent Year-on-Year (YoY).
-
-Meanwhile, total exports during the three months from January to March 2024 contracted by 0.69 percent YoY to US$ 1.174 billion.
-
-Overall exports to the US decreased by 5.11 percent while exports to the EU (excluding exports to UK) also decreased by 1.52 percent over the same period.
-
-...
-
-[Data](articles/87892ce1.json)
-
-[Extended Data](ext_articles/87892ce1.ext.json)
-
----
-
-### UNP Kalutara Ex-MP Palitha Thewarapperuma was  Called a “Hitha Honda Chandiya”(Good Hearted Strongman/Thug)
-
-*2024-04-29 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83951) · `en`
-
-In life, he was a controversial character who was mostly in the news for the wrong reasons.. He was a Parliamentarian who brandished a knife against a fellow MP  during a brawl in the House. He had a notorious reputation for getting things done in the way he wanted by engaging in pressure tactics often resorting to fisticuffs. He  even attempted suicide once by hanging himself on a ceiling fan. Generally  people outside his home district perceived him as a thug and bully who tried to browbeat others.
-
-...
-
-[Data](articles/e7ce8fc0.json)
-
-[Extended Data](ext_articles/e7ce8fc0.ext.json)
-
----
-
-### I have no enemies;220 million people are my friends -Sajith Premadasa
-
-*2024-04-29 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182188) · `ta`
-
-Sajith Premadasa emphasized unity, declaring 220 million people as friends, regardless of differences. He highlighted the importance of extending friendship and sustainable education through school programs. Critics have questioned the "awakening as friends" initiative. Premadasa also discussed the Universal Information Technology Program and donated funds to support it. He urged against lies and expressed hope for a future without extremism.
-
-🟩
-
-I woke up as friends at a school event. These students are not even enemies, friends. The hand of friendship is extended, the program is being carried out in schools to extend the help of children's sustainable education. Some have also criticized the awakening as friends. Opposition leader Sajith Premadasa said that 220 million people, regardless of race, religion, class, party and caste, are my friends.
-
-Under the Universal Information Technology Program, Smart Classroom Equipment worth Rs.. He said this while addressing the event. At the event, he donated Rs.
-
-In order to roll the votes. The Opposition Leader said the lies should not be cheated.
-
-It was the time when the false extremist politics was burned to school, universities and libraries. Opposition leader said that we don't need such a time again.
-
-◼️
-
-[Data](articles/c05c1f8c.json)
-
-[Extended Data](ext_articles/c05c1f8c.ext.json)
 
 ---

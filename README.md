@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 22:51:15**
+As of **2024-04-29 23:03:41**
 
 ## Newspaper Stats
 
-*Scraped **21,677** Articles*
+*Scraped **21,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,817
 tamilmirrorlk | 2,520
-adaderanalk | 2,577
+adaderanalk | 2,578
 virakesarilk | 3,265
 dailymirrorlk | 3,376
 adaderanasinhalalk | 3,513
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,677 (100.0%) of 21,677 articles have been extended.
+21,677 (100.0%) of 21,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### BASL calls for removal of Minister Tiran Alles over controversial remarks
+
+*2024-04-29 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98926/basl-calls-for-removal-of-minister-tiran-alles-over-controversial-remarks) · `en`
+
+The Bar Association of Sri Lanka (BASL) has denounced the recent statement issued by the Minister of Public Security Tiran Alles at the Katukurunda STF training camp’s passing out parade, which garnered widespread attention across various media platforms.
+
+According to media reports, the Minister asserted, “Eliminating criminals from the country is not a sin. Don’t be afraid to use the weapon in your hand for the right thing, and we stand by you.”
+
+Issuing a statement today (29), the BASL expressed grave concern over the aforementioned statement, deeming it in direct contradiction to the fundamental principles enshrined in the Constitution and the established procedures governing the criminal justice system.
+
+...
+
+[Data](articles/456b10c2.json)
+
+---
 
 ### President reveals plans to expand cinnamon cultivation under agri modernization program
 
@@ -2269,25 +2285,5 @@ They used the name of Allah's Veterans.
 [Data](articles/89c0dbad.json)
 
 [Extended Data](ext_articles/89c0dbad.ext.json)
-
----
-
-### Gaza Fund term border extension of Children
-
-*2024-04-29 12:42:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Children-of-Gaza-Fund-கால-எல்லை-நீடிப்பு/175-336498) · `ta`
-
-President Ranil Wickremesinghe extended the term of the Children of Gaza Fund, launched on May 31, 2024, to aid Gaza conflict victims. Donations can be made to Bank of Tabroban Branch (747) 7040016, with receipts sent to 077-9730396 via WhatsApp.
-
-🟩
-
-President Ranil Wickremesinghe has been extended to the Children of Gaza Fund, which has been launched on May 31, 2024 to provide relief to the victims of the Gaza conflict.
-
-The President's Office has informed the donors who wish to contribute to the Donation of the Bank of Tabroban Branch (747) 7040016 and send the receipt to 077-9730396 via WhatsApp.
-
-◼️
-
-[Data](articles/bf3ecb60.json)
-
-[Extended Data](ext_articles/bf3ecb60.ext.json)
 
 ---

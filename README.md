@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 09:03:48**
+As of **2024-04-29 09:18:31**
 
 ## Newspaper Stats
 
-*Scraped **21,500** Articles*
+*Scraped **21,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,173
 dailyftlk | 1,212
 economynextcom | 1,215
-adalk | 1,793
-tamilmirrorlk | 2,488
+adalk | 1,794
+tamilmirrorlk | 2,490
 adaderanalk | 2,559
 virakesarilk | 3,230
 dailymirrorlk | 3,348
@@ -26,11 +26,41 @@ adaderanasinhalalk | 3,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,500 (100.0%) of 21,500 articles have been extended.
+21,500 (100.0%) of 21,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### இன்று சில பகுதிகளில் இடியுடன் கூடிய மழை
+
+*2024-04-29 08:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-சில-பகுதிகளில்-இடியுடன்-கூடிய-மழை/175-336480) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி மேல், வடமேல், மத்திய மற்றும் சபரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+ஊவா மாகாணத்திலும், அனுராதபுரம் மாவட்டத்தின் சில இடங்களிலும் இன்று பிற்பகல் அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் குறித்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/4442bf51.json)
+
+---
+
+### வாகன இறக்குமதி குறித்து மகிழ்ச்சியான அறிவிப்பு
+
+*2024-04-29 08:39:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-336479) · `ta`
+
+இந்த வருடத்தின் இறுதியில் அல்லது அடுத்த வருடத்தின் முற்பகுதியிலிருந்து கட்டுப்பாடுகளுக்கு உட்பட்டு மீண்டும் வாகனங்களை இறக்குமதி செய்வதற்கு எதிர்பார்ப்பதாக நிதி அமைச்சின் சிரேஷ்ட பேச்சாளர் ஒருவர் குறிப்பிட்டுள்ளார்.
+
+இதேவேளை, வாகனங்களை இறக்குமதி செய்வது தொடர்பான கலந்துரையாடல்கள் ஏற்கனவே ஆரம்பிக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/c4dfaed0.json)
+
+---
 
 ### Request for military general pardon
 
@@ -1798,6 +1828,24 @@ People's leaders are the ones who find the needs of the people and serve the ser
 
 ---
 
+### සේවක අර්ථසාධක අරමුදලේ පොලිය සියයට 13 දක්වා ඉහළට
+
+*2024-04-28 18:22:38* · [`adalk`](https://www.ada.lk/breaking_news/සේවක-අර්ථසාධක-අරමුදලේ-පොලිය-සියයට-13-දක්වා-ඉහළට/11-409307) · `si`
+
+සේවක අර්ථසාධක අරමුදලේ මෙතෙක් පැවති 9%ක පොලී අනුපාතය13%ක් දක්වා ඉහළ නැංවීමට රජය පියවර ගෙන ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+කෑගල්ල දිස්ත්‍රික්කයේ යටියන්තොට පැවැති හමුවකදී අමාත්‍යවරයා මේ පිළිබඳව අදහස් පළ කර තිබේ. ඒ අනුව 2023 වර්ෂය සඳහා පාර්ලිමේන්තුවේ සම්මතව පැවැති පොලී අනුපාතයද ඉක්මවමින් එය 9% - 13% දක්වා ඉහළ  නැංවීමට රජය තීරණය කර ඇති බව අමාත්‍යවරයා වැඩිදුරටත් පැහැදිලි කර ඇත.
+
+පසුගිය කාලවකවානුව තුළ සේවක අර්ථසාධක අරමුදල විනාශ වෙමින් යන බවට ඇතැම් පාර්ශ්වකරුවන් විසින් නැගූ චෝදනාව අර්ථ විරහිත බවත් අමාත්‍යවරයා පවසයි. රටේ ඇති දැවැන්තම අරමුදල සේවක අර්ථසාධක අරමුදල බවත්, මේ වන විට ක්‍රියාකාරී සාමාජිකයින් ලක්ෂ විසි හතක පිරිසක් එහි සිටින බවත් අමාත්‍යවරයා මෙහිදී පවසා තිබේ.
+
+එසේම ණය ප්‍රතිව්‍යුහගතකරණයේදී විශාලතම අභියෝගය එල්ල වූයේ සේවක අර්ථසාධක අරමුදලත් සමග පැවති ණය සම්බන්ධව බවත්, එම ණය ප්‍රතිව්‍යුහගතකරණයේදී සේවක අර්ථසාධක අරමුදලට විශාල අලාභයක් සිදුවන බවත් සඳහන් කරමින් පාර්ලිමේන්තුවේ මෙන්ම මාධ්‍ය හරහාද සමාජයේද බොහෝ චෝදනා එල්ල වූ බවත් අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/340631b4.json)
+
+---
+
 ### Sri Lankans abroad should be supported by the people of the National People's Power this year - Anuragumara Dissanayake in Sweden
 
 *2024-04-28 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182167) · `ta`
@@ -2259,83 +2307,5 @@ Further investigations have been taken in court, the police said that the police
 [Data](articles/946aeb20.json)
 
 [Extended Data](ext_articles/946aeb20.ext.json)
-
----
-
-### Police arrest scores of pro-Palestinian protesters on US university campuses
-
-*2024-04-28 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98897/police-arrest-scores-of-pro-palestinian-protesters-on-us-university-campuses) · `en`
-
-Pro-Palestinian protesters were arrested on a handful of U.S. university campuses on Saturday, as activists vowed to keep up the movement seeking a ceasefire in Israel’s war with Hamas among other demands.
-
-The Indiana University police department in Bloomington said in an emailed statement that 23 protesters were arrested there.
-
-Indiana State Police along with Indiana University police told demonstrators they could not pitch tents and camp on campus. When the tents were not removed, police arrested and transported protesters to the Monroe County Justice Center on charges of criminal trespass and resisting arrest.
-
-“The Indiana University Police Department continues to support peaceful protests on campus that follow university policy,” the police statement read.
-
-Pro-Palestinian protests have spread to college campuses across the U.S., stoked by the mass arrest of over 100 people on Columbia University’s campus last week.
-
-...
-
-[Data](articles/22838f52.json)
-
-[Extended Data](ext_articles/22838f52.ext.json)
-
----
-
-### Sri Lanka to Sri Lanka Big Onions
-
-*2024-04-28 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196055) · `si`
-
-Sri Lanka resumes importing big onions from Pakistan, with prices rising. India lifts ban on big onion exports.
-
-🟩
-
-Sri Lanka has resumed the importation of big onions from Pakistan.
-
-Essential Food Materials Association stated that steps have been taken to import big onions with the lifting of big onions export by Pakistan.
-
-Accordingly, the big onion market imported from Pakistan will be released to the market imported.
-
-The prices of big onion prices have already rose in the market and a kilogram of big onions imported from China is in the market between Rs.
-
-Meanwhile, India recently agreed to export the ban on the big onion export and agreed to export big onions metric tonnes.
-
-Minister Nalin Fernando said that he will be imported to the country through the Ministry of Trade from the Ministry of Trade.
-
-◼️
-
-[Data](articles/981bc491.json)
-
-[Extended Data](ext_articles/981bc491.ext.json)
-
----
-
-### Tomorrow is a big rain
-
-*2024-04-28 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196054) · `si`
-
-Tomorrow, heavy rain with thunderstorms expected in Western, Sabaragamuwa, Central, Southern, North Western, Uva, and North-Central provinces. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-In some places in the Western, Sabaragamuwa, Southern and North Western Provinces tomorrow (29). Heavy showers that have more than 100 can occur.
-
-In a statement, the Department says that the interim convergence zone (from the northern hemisphere and the south hemisphere) is influenced by the island.
-
-Accordingly, the Western, Sabaragamuwa, Central, Southern, Southern, North Western, Uva and North-Central provinces. Showers or thundershowers will occur at several places around 1.00.
-
-Showers or thundershowers will occur at night in the evening or night in other areas.
-
-Meanwhile, the Department has informed that in some places in Sabaragamuwa and Central provinces, the Department has said.
-
-The public is also requested to take necessary measures to reduce temporary strong winds and lightning activities possible with thunderstorms.
-
-◼️
-
-[Data](articles/93f62614.json)
-
-[Extended Data](ext_articles/93f62614.ext.json)
 
 ---

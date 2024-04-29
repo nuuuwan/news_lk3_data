@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 00:34:10**
+As of **2024-04-30 00:49:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,702 (100.0%) of 21,706 articles have been extended.
+21,706 (100.0%) of 21,706 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The alternatives are rooted in communication, understanding, and mutual respect
 
 [Data](articles/11ff1820.json)
 
+[Extended Data](ext_articles/11ff1820.ext.json)
+
 ---
 
 ### Law reforms stagnate in Lanka while world marks global Day to End Corporal Punishment
@@ -63,6 +65,8 @@ The only group against whom assault is decriminalized is the 25% of citizens, 5.
 ...
 
 [Data](articles/2c4423ae.json)
+
+[Extended Data](ext_articles/2c4423ae.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ In his paper in the Journal of the International Association of Buddhist Studies
 
 [Data](articles/8d239fc6.json)
 
+[Extended Data](ext_articles/8d239fc6.ext.json)
+
 ---
 
 ### What’s wrong in having private medical education?
@@ -95,6 +101,8 @@ He stated that the new faculty will enroll 500 local and foreign students annual
 ...
 
 [Data](articles/933951d4.json)
+
+[Extended Data](ext_articles/933951d4.ext.json)
 
 ---
 

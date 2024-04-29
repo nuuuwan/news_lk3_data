@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 20:52:48**
+As of **2024-04-29 21:03:44**
 
 ## Newspaper Stats
 
-*Scraped **21,662** Articles*
+*Scraped **21,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,814
 tamilmirrorlk | 2,520
 adaderanalk | 2,574
 virakesarilk | 3,265
-dailymirrorlk | 3,371
-adaderanasinhalalk | 3,509
+dailymirrorlk | 3,372
+adaderanasinhalalk | 3,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,660 (100.0%) of 21,662 articles have been extended.
+21,662 (100.0%) of 21,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### ප්‍රේමදාස මුදුන්කොටුව අභාවප්‍රාප්ත වෙයි
+
+*2024-04-29 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196107) · `si`
+
+ප්‍රවීණ ගායන ශිල්පී සමිතා මුදුන්කොටුව මහත්මියගේ පියා වන ආචාර්ය ප්‍රේමදාස මුදුන්කොටුව අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/34886224.json)
+
+---
+
+### Booze banned at May Day rally venues
+
+*2024-04-29 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Booze-banned-at-May-Day-rally-venues/108-281585) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Excise Department of Sri Lanka has prohibited the sale of all kinds of alcoholic beverages in Divisional Secretariat areas in the country where May Day rallies and processions are held on Wednesday, May 1.
+
+Excise Department spokesman cum Commissioner - Law Enforcement Channa Weerakkody, issuing a notice today stated that all retail liquor selling points including wine stores, bars, restaurants and taverns will be ordered to remain closed from the regular closing hours of Tuesday, April 30 till the regular opening hours on Thursday, May 02.
+
+However, all hotels and boutique villas registered under the Sri Lanka Tourism Development Authority (SLTDA) bearing Excise License (FL 07, 08) are exempt from this order.
+
+The Department vows strict legal action against those who violate the Excise law during the stipulated period.
+
+◼️
+
+[Data](articles/b66437c4.json)
+
+---
+
+### ගාලුපාරේ යන රියදුරන්ට විශේෂ දැනුම්දීමක්
+
+*2024-04-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196105) · `si`
+
+ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත දක්වා කොටසේ මුහුදු රළ ගොඩගැලීම හේතුවෙන් වැලි තැන්පත්ව ඇත.
+
+මේ හේතුවෙන් අනතුරු සිදුවිය හැකි බැවින් යතුරුපැදි සහ ත්‍රිරෝද රථ එම ප්‍රදේශයෙන් පරීක්ෂාකාරීව ගමන්කළ යුතුවෙයි.
+
+එසේම ඒ ආශ්‍රිත ප්‍රදේශයේ විටින් විට මුහුදු රළ ගොඩගැලීම හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන් සැලකිලිමත්ව රිය ධාවනය කළයුතු වෙයි.
+
+◼️
+
+[Data](articles/fbe50dee.json)
+
+---
 
 ### Asia Rugby Division 1 Championship begins tomorrow
 
@@ -49,6 +95,8 @@ These initial matches will set the tone for the tournament, as teams seek early 
 ...
 
 [Data](articles/d05a0106.json)
+
+[Extended Data](ext_articles/d05a0106.ext.json)
 
 ---
 
@@ -378,17 +426,25 @@ The Minister added that the interviews of recruiting interviews will be taken up
 
 ---
 
-### ලංකාවේ උපත් අඩුවෙලා මරණ වැඩිවෙලා
+### Sri Lanka's births were reduced and death
 
 *2024-04-29 17:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-උපත්-අඩුවෙලා-මරණ-වැඩිවෙලා/11-409327) · `si`
 
-මෙවර මැයි රැළිය ආණ්ඩු පෙරළියට පෙර පැවැත්වෙන එකම මැයි රැළිය බව උත්තර ලංකා සභාගයේ නියෝජ්‍ය සභාපති, පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.04.29) පැවති උත්තර ලංකා සභාගයේ මාධ්‍ය හමුවකට එක් වෙමිනි. පිවිතුරු හෙළ උරුමයේ නායකයා මෙහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+Sri Lanka's birth rate dropped, and deaths increased. The May Day rally is significant, demanding power for the people. The country faces debt issues, with no solutions proposed by political leaders. The population is shrinking, with a 0.6% reduction in 2023. The youth are leaving, and the elderly are impacted.
 
-"මෙවර මැයි දින රැළිය  ආණ්ඩු පෙරළියට පෙර පැවැත්වෙන එකම මැයි රැළිය. ආණ්ඩු බලය ඉල්ලන බලවේග අද ජනතාව ඉදිරියට ඇවිල්ලාම මොනවද කියන්නේ. ජනතාවට ණයට කාලා සැපට ඉන්න හොඳටම ණය අරන් දෙන්න පුළුවන් අපටයි කියලයි මේ හැමෝම ජනතාව ඉදිරියට ඇවිල්ලා කියන්නේ.
+🟩
+
+Leader of the Leader of the Purger Gammanpila says that the May Day rally is the only May Day rally before governance. He was speaking at a media briefing in the North Lanka coalition today (2024.04.29). The leader of the Plandani Hela Urumaya said:
+
+"This year's May Day rally is the only May Day rally before governments. What is the demand forces asking for power to come to the people?. All these people will come forward to the people that we can borrow and borrow their debts.
+
+One says "IMF and World Bank with me. I can't borrow, or you don't borrow. ". One person came and says: "I can speak English with good relief conditions,". Third and says: "Not like in the past, the international is very little with us. So it's okay if we cannot pay the debt, dude, dude, put a layer. If we come to power, there are plenty of people to give you the dollars. "That is what they are proud.
 
 ...
 
 [Data](articles/9a64718c.json)
+
+[Extended Data](ext_articles/9a64718c.ext.json)
 
 ---
 
@@ -2263,89 +2319,5 @@ When she told her girlfriend what had happened, the girlfriend informed her an e
 [Data](articles/dafa8471.json)
 
 [Extended Data](ext_articles/dafa8471.ext.json)
-
----
-
-### The Examination Department issued the announcement!
-
-*2024-04-29 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182213) · `ta`
-
-The Examination Department announced that additional classes and seminars for the GCE Ordinary Level Examination, starting May 6, are prohibited from midnight until the end of the exam. During this period, lessons, lectures, classes, seminars, poster exhibitions, manuals, and printed manuals are banned.
-
-🟩
-
-Additional classes and seminars on the GCE Ordinary Level Examination, which begins on May 6, will be banned from tomorrow (30) from midnight to the end of the exam, the Department of Examinations said.
-
-During the exam period, the Department of Examinations has said that it has been banned from conducting lessons references, text lectures, classes and seminars.
-
-The Department of Examinations has said that the exhibition of posters, the provision of manuals and the provision of printed manuals has been banned.
-
-◼️
-
-[Data](articles/c17df89a.json)
-
-[Extended Data](ext_articles/c17df89a.ext.json)
-
----
-
-### Three killed in a village
-
-*2024-04-29 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196085) · `si`
-
-Three people died in Kalutara-Warakaragoda due to illegal drinking. One was found dead in a house, another died after taking medication, and the third was treated at Horana Hospital. Four others are in treatment. The police arrested a suspect but are unsure of their involvement. Two deaths were heart attacks, one was accidental.
-
-🟩
-
-Three persons were suddenly dies of the Kalutara - Warakaragoda, Kalutara - Warakaragoda.
-
-Residents allege that they have been illegal drinking and has died later.
-
-The deceased has been identified as between 68 and 43 years old, Karagoda and the surrounding.
-
-Their relatives say that all three have suffered illegal alcohol at the night.
-
-One of them was killed in a house yesterday morning and another had obtained medications with a private place. However, he was returning to the hospital due to the sickness.
-
-The other person has been identified as he was treated at the Horana Hospital.
-
-Residents say there were symptoms such as the end of the eyes, the vomiting.
-
-Four more than four others are receiving treatment at Kalubowila, Horana and Jayawardenapura hospitals.
-
-The Ven. Warakaragoda Police are conducting further investigations.
-
-The police have been arrested by the police on the information of the villagers that the illegal liquor was sold in the area.
-
-...
-
-[Data](articles/cdbd04e2.json)
-
-[Extended Data](ext_articles/cdbd04e2.ext.json)
-
----
-
-### Attack on prisoners
-
-*2024-04-29 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182214) · `ta`
-
-Two detainees at Jaffna Prison were attacked by officers for allegedly possessing a beedi. The incident led to their transfer to Jaffna Bodhana Hospital for treatment, with a magistrate's order and medical certificate.
-
-🟩
-
-Two detainees have been admitted to the Jaffna Bodhana Hospital for allegedly attacking Jaffna Prison Officers.
-
-When his mother went to visit a man who was detained in a court order in the Jaffna Prison, he was given a beedi.
-
-While keeping it inside the prison, the prison officers found and tried to snatch them and attacked the prisoner.. At the same time, the other person in the jail has been attacked by the other person who has not provided the beedi information.
-
-In the meantime, the two men who were attacked to the Jaffna Magistrate's Court for a case were reported in the forum.
-
-Subsequently, the magistrate ordered the two men to be admitted to the Jaffna Hospital for treatment, in the presence of a legal officer and obtained a medical certificate.
-
-◼️
-
-[Data](articles/91a4de7d.json)
-
-[Extended Data](ext_articles/91a4de7d.ext.json)
 
 ---

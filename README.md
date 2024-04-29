@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 10:52:54**
+As of **2024-04-29 11:04:48**
 
 ## Newspaper Stats
 
-*Scraped **21,518** Articles*
+*Scraped **21,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ dailyftlk | 1,212
 economynextcom | 1,215
 adalk | 1,798
 tamilmirrorlk | 2,494
-adaderanalk | 2,559
+adaderanalk | 2,561
 virakesarilk | 3,230
 dailymirrorlk | 3,351
-adaderanasinhalalk | 3,485
+adaderanasinhalalk | 3,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,516 (100.0%) of 21,518 articles have been extended.
+21,518 (100.0%) of 21,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### අංගොඩ ලොක්කාගේ ගෝලයා ගැන තවත් තොරතුරු එළියට
+
+*2024-04-29 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196080) · `si`
+
+ව්‍යාජ විදේශ ගමන් බලපත්‍රයක් භාවිතා කරමින් විදේශගත වීමට උත්සාහ කිරීමේ දී අත්අඩංගුවට පත්වූ පුද්ගලයා සම්බන්ධයෙන් තවත් තොරතුරු රැසක් අනාවරණය වී තිබේ.
+
+අත්අඩංගුවට පත්වූ පුද්ගලයා මෙරට ප්‍රධාන පෙළේ පාතාල කල්ලි සාමාජිකයෙකුව සිටි 'අංගොඩ ලොක්කා'ගේ ප්‍රධාන ගෝලයෙකු බව වාර්තා වේ.
+
+අපරාධකරුවන් හඳුනාගැනීම සඳහා ගුවන් තොටුපළේ මෑතක දී සවිකරන ලද ස්වයංක්‍රීය හඳුනාගැනීමේ යන්ත්‍රය මඟින් මෙම සැකකරුව හඳුනාගෙන අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දුව මහතා සඳහන් කළේය.
+
+සැකකරු අංගොඩ ප්‍රදේශයේ පදිංචි 47 හැවිරිදි 'චිටී' නැමති අනුවර්ථ නාමයෙන් හැඳින්වූ පුද්ගලයෙකු බවට අනාවරණය වී තිබේ.
+
+මොහු අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 10ක් මෙරටට රැගෙන ඒම සහ ජාවාරම් කිරීමට අදාළව මුල්ලේරියාව පොලිස් ස්ථානයට අවශ්‍යව සිටි සැකකරුවෙකු බව වාර්තා වේ.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේ සැකකරු සතුව තිබී ව්‍යාජ නමකින් සකස් කළ විදෙස් ගමන් බලපත්‍රයක්, ජාතික හැඳුනුම්පතක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 මිලිග්‍රෑම් 500ක් පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/bb0df58f.json)
+
+---
+
+### Indian Coast Guard seize 86kg drugs from Pakistani boat on way to Sri Lanka
+
+*2024-04-29 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98909/indian-coast-guard-seize-86kg-drugs-from-pakistani-boat-on-way-to-sri-lanka) · `en`
+
+The Indian Coast Guard (ICG) seized 86 kg of suspected heroin worth INR 6.02 billion from a Pakistani boat, which was on its way to Sri Lanka via Tamil Nadu, off the Porbandar coast in Gujarat and arrested 14 crew members on Sunday.
+
+The drugs were seized during a joint ICG operation with the Anti-Terrorist Squad (ATS) and the Narcotics Control Bureau (NCB) during which the Indian side opened fire injuring one of the crew members.
+
+According to an official release, ATS Superintendent of Police KK Patel received information that Haji Aslam alias Babu Balock, a drug operative from Pakistan, would be sending a boat named ‘Alraza’ from the Karachi harbour to deliver narcotic substances like heroin and methamphetamine in the intervening night of April 25 and 26 near the International Maritime Boundary Line (IMBL) off Porbandar. “The said contraband would be delivered to a dhow from Tamil Nadu to be further delivered to Sri Lanka-based drug operatives,” the release stated.
+
+...
+
+[Data](articles/4f1c96a5.json)
+
+---
+
+### 10% of Sri Lanka’s population diagnosed with Chronic Kidney Disease - report
+
+*2024-04-29 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98908/10-of-sri-lankas-population-diagnosed-with-chronic-kidney-disease-report) · `en`
+
+Around 10% of Sri Lanka’s population is afflicted with Chronic Kidney Disease, the Chief Patron of All-island Kidney Patients’ Association Nephrologist Sanjaya Heiyanthuduwa says.
+
+Dr. Heiyanthuduwa expressed that the increase in diabetes among the population is the major cause of the increased figures of kidney patients.
+
+“Especially, diabetes is the main factor affecting kidney damage in Sri Lanka. Better diabetes control should be done to prevent kidney disease in these patients,” he said.
+
+“Additionally, adherence to medical advice and proper attendance at clinics are very important. The intake of excessive salt, sugar, and oil in food should be reduced. A healthy person should consume around three and a half liters of water per day in order to avoid this disease,” Dr. Heiyanthuduwa added.
+
+...
+
+[Data](articles/e6ef3433.json)
+
+---
 
 ### Under-20 Asian Athletics Tierkens
 
@@ -110,6 +166,8 @@ There were no major surprises in New Zealand's squad, with key pacer Kyle Jamies
 
 [Data](articles/36a68212.json)
 
+[Extended Data](ext_articles/36a68212.ext.json)
+
 ---
 
 ### Tension at Kandy Hospital
@@ -179,6 +237,8 @@ The suspect has been handed over to the Mulleriyawa Police for further investiga
 ◼️
 
 [Data](articles/cc690c7c.json)
+
+[Extended Data](ext_articles/cc690c7c.ext.json)
 
 ---
 
@@ -2257,85 +2317,5 @@ He said that in the upcoming elections, Sri Lankans abroad will be the most impo
 [Data](articles/6cd7a168.json)
 
 [Extended Data](ext_articles/6cd7a168.ext.json)
-
----
-
-### Ella Karawadolla landslides are still active
-
-*2024-04-28 17:59:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරඳගොල්ල-නාය-යාම-තවමත්-සක්‍රීයයි/11-409306) · `si`
-
-Ella Karawadolla landslides are active, posing a main risk to Wellawaya. The landslide began in 2019, affecting Malagolla. Resettlement activities are underway, with the National Building Research Institute investigating and providing technical guidance. The landslide has increased significantly in the past four days, impacting areas like Kadattolla and Maluththagolla, affecting tourism.
-
-🟩
-
-The Kataragolla 10 pointing of the landslide in Malagolla, Badulla District Secretary Prabhath Abeywardena said.
-
-Therefore, the Ella is emerging at the main risk of the Wellawaya, he said.
-
-Taragolla posts began in 2019 and the landslide in the Malthagollon.In the intervention of resettlement of resettlement activities, the Ella Divisional Secretary is also conducted on the intervention of the Ella Divisional Secretary, Isa Badulla District Secretary Prabhate Abeywardena.
-
-The District Secretary said that the people's opinion is that the landslide of the Uma Oya tunnels is to fill the landslide in the Maligolla area.
-
-The National Building Research Institute is conducting a widespread investigation into the matter and the landslide, it is revealed that it can be provided with the necessary technical guidance.
-
-The National Building Research Institute joined their geological riots, and after providing a detailed test to the Maluththagolla village, the District Secretary Prabhat Abeywardena said.
-
-...
-
-[Data](articles/6ceb452b.json)
-
-[Extended Data](ext_articles/6ceb452b.ext.json)
-
----
-
-### Investigations in Batticaloa by the Office of Missing Persons
-
-*2024-04-28 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182168) · `ta`
-
-The Office of Missing Persons in Batticaloa is investigating 34 missing persons, including a son who disappeared in 2003. The mother of the missing son has expressed concern over the lack of response and compensation.
-
-🟩
-
-The mother has asked the government to worry that she has no hope that her missing son will return to life.
-
-My son disappeared in Karadiyanaru in 2003. Until today has not received the appropriate answer. He has no confidence that he will return. The mother of a disappeared son has expressed his concern that his son was alive that he could be able to live with a livelihood by helping the government to help me with loss of compensation.
-
-Investigations were carried out by relatives of 34 missing persons under the Manmunai North and Valaichenai Divisional Secretariat of the Batticaloa District on Saturday (27) by the Office of the Disappeared.
-
-Officials of the Office of Missing Persons from Colombo were conducting investigations to the Regional Branch of the Office of the Missing Persons of Batticaloa.
-
-Investigations were carried out on the missing persons and compensation to their families.
-
-◼️
-
-[Data](articles/dce18a8a.json)
-
-[Extended Data](ext_articles/dce18a8a.ext.json)
-
----
-
-### A businessman banned from exit from the country
-
-*2024-04-28 17:48:02* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටවීම-තහනම්-කළ-ව්‍යාපාරියෙක්-රටින්-යන්න-ගිහින්-අල්ලයි/11-409305) · `si`
-
-A 64-year-old businessman from Colombo was arrested by immigration officers for attempting to leave Thailand on Thai Airlines on 04/27. He was suspected of using a fake passport and had previously been banned from leaving Sri Lanka.
-
-🟩
-
-A group of officers of the Immigration and Emigration Department (Immigration) of the Immigration and Emigration Department have been arrested by the Department of Immigration and Emigration.
-
-He is a 64 year old businessman from Colombo. The Thai Airlines to leave Thailand on 04/27 on 04/27 at Thai Airlines, Thai Airlines, to leave Thailand.
-
-The businessman who arrived in the airport clearance, the business officer who was working to the Emigration Division of the airport, the Immigration Officer who was involved in the airports was directed to the Chief Immigration Officer on suspicion.
-
-The businessman had been handed over to the officers of the Department of Immigration and Emigration and the Technical Testing of the Department of Immigration and the Technical Testing.They have been confirmed.
-
-It has also revealed that the passport used by the businessman before the passport also was also used as a small.
-
-...
-
-[Data](articles/0b84cd5e.json)
-
-[Extended Data](ext_articles/0b84cd5e.ext.json)
 
 ---

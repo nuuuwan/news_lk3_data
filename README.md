@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 12:05:20**
+As of **2024-04-29 12:18:41**
 
 ## Newspaper Stats
 
-*Scraped **21,540** Articles*
+*Scraped **21,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,157 @@ colombotelegraphcom | 185
 bbccomsinhala | 225
 dbsjeyarajcom | 228
 newsfirstlk | 363
-islandlk | 1,173
+islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,800
-tamilmirrorlk | 2,494
-adaderanalk | 2,561
+tamilmirrorlk | 2,500
+adaderanalk | 2,562
 virakesarilk | 3,242
-dailymirrorlk | 3,351
-adaderanasinhalalk | 3,489
+dailymirrorlk | 3,352
+adaderanasinhalalk | 3,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,540 (100.0%) of 21,540 articles have been extended.
+21,547 (100.0%) of 21,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Software Engineer arrested with drugs worth Rs. 5 mn smuggled from Italy
+
+*2024-04-29 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98910/software-engineer-arrested-with-drugs-worth-rs-5-mn-smuggled-from-italy-) · `en`
+
+Police have arrested a Software Engineer along with several types of drugs including Hash and Kush Cannabis which have been smuggled to Sri Lanka from Italy.
+
+The Western Province – South Crimes Unit said that the stock of drugs which is estimated to be worth around Rs. 5 million were seized in the Wijerama Junction of Nugegoda, along with the suspect, based on a tip-off received by the officers of Sri Lanka Army Intelligence Division.
+
+Accordingly, police have taken custody of 1 kilogram and 238 grams of Hash, 90 grams of Kush Cannabis, Rs.100,000 in cash, two iPhones and a motorcycle, which was used in drug trafficking activities.
+
+The preliminary investigations have revealed that the stock of drugs was smuggled to Sri Lanka from Italy, the police said.
+
+The arrested suspect has been identified to be a Software Engineering degree-holder who was expecting to migrate to Australia for employment.
+
+...
+
+[Data](articles/240e9739.json)
+
+---
+
+### 5 பொலிஸாருக்கு ஆயுள் தண்டனை;26 வருடங்களின் பின் தீர்ப்பு
+
+*2024-04-29 11:58:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பொலிஸாருக்கு-ஆயுள்-தண்டனை-26-வருடங்களின்-பின்-தீர்ப்பு/175-336494) · `ta`
+
+சம்பவம் நடந்து சுமார் 26 வருடங்களின் பின்னர் ஆயுதக் குழுவினால் பிரதேசவாசிகள் 8 பேர் கொல்லப்பட்டமை தொடர்பில் கந்தளே பரதிபுரம் பொலிஸ் நிலையத்தைச் சேர்ந்த ஐந்து பொலிஸ் உத்தியோகத்தர்களுக்கு ஆயுள் தண்டனை விதிக்கப்பட்டுள்ளது.
+
+குறித்த ஐந்து அதிகாரிகளும் பாதிக்கப்பட்டவர்களை கைது செய்து பொலிஸ் நிலையத்திற்கு அழைத்து வந்துள்ளனர்.
+
+தடுப்புக் காவலின் போது, ​​1998 ஆம் ஆண்டு பொலிஸ் அதிகாரிகள் முன்னிலையில் ஆயுதமேந்திய குழுவொன்று பொலிஸ் நிலையத்தில் பாதிக்கப்பட்டவர்களைக் கொன்றதாகத் தெரிவிக்கப்படுகிறது.
+
+அநுராதபுரம் மேல் நீதிமன்ற நீதிபதி மனோஜ் தல்கொடபிட்டிய, பாரதிபுரம் பொலிஸ் நிலைய பொறுப்பதிகாரி உட்பட 5 பொலிஸ் உத்தியோகத்தர்களுக்கு கடூழிய ஆயுள் தண்டனை விதித்து கடந்த வெள்ளிக்கிழமை தீர்ப்பளித்தார்.
+
+கொலை செய்யும் நோக்கத்துடன் சட்டவிரோதமாக ஒன்றுகூடியதாக ஐந்து பொலிஸ் அதிகாரிகள் மீது குற்றம் சாட்டப்பட்டது.
+
+ஆனால், குற்றம் சாட்டப்பட்ட இரண்டு பொலிஸ் அதிகாரிகளை மட்டும் வழக்கில் இருந்து விடுவித்து நீதிமன்றம் உத்தரவிட்டது.
+
+◼️
+
+[Data](articles/8444c14a.json)
+
+---
+
+### 3 girls abuse: father, teenager, lover arrested
+
+*2024-04-29 11:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-சிறுமிகள்-துஷ்பிரயோகம்-தந்தை-இளைஞன்-காதலன்-கைது/175-336493) · `ta`
+
+Three men, including a father and a boyfriend, were arrested for allegedly raping three girls in different incidents in the Moneragala district. The father was detained for sexually abusing his 12-year-old daughter. A 47-year-old man was arrested for raping a 12-year-old girl after an emergency call. A 22-year-old youth was arrested for sexually assaulting an 11-year-old girl, and a 13-year-old girl was arrested for allegedly raping a 11-month-old girl.
+
+🟩
+
+Father, youth and boyfriend have been arrested in connection with three different incidents, under the allegations that three girls were raped.
+
+These incidents have taken place under three different police officers in the Moneragala district.
+
+The father of a girl who was arrested on May 26) has been kept in detention until the seventh of May on charges of sexually abusing her 12 -year -old daughter from the Medagoda area of the Wellawaya Police Division.
+
+A 47 -year -old man, a father of three children arrested on charges of raping a 12 -year -old girl on the basis of an emergency phone call from 119, was arrested by the Wellawaya police and produced in court.. .
+
+When there was no one in the house, the suspect's father took his daughter, the girl, and raped her.
+
+When she told her girlfriend what had happened, the girlfriend informed her an emergency phone call 119.
+
+...
+
+[Data](articles/dafa8471.json)
+
+[Extended Data](ext_articles/dafa8471.ext.json)
+
+---
+
+### Three killed in a village
+
+*2024-04-29 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196085) · `si`
+
+Three people died in Kalutara-Warakaragoda due to illegal drinking. One was found dead in a house, another died after taking medication, and the third was treated at Horana Hospital. Four others are in treatment. The police arrested a suspect but are unsure of their involvement. Two deaths were heart attacks, one was accidental.
+
+🟩
+
+Three persons were suddenly dies of the Kalutara - Warakaragoda, Kalutara - Warakaragoda.
+
+Residents allege that they have been illegal drinking and has died later.
+
+The deceased has been identified as between 68 and 43 years old, Karagoda and the surrounding.
+
+Their relatives say that all three have suffered illegal alcohol at the night.
+
+One of them was killed in a house yesterday morning and another had obtained medications with a private place. However, he was returning to the hospital due to the sickness.
+
+The other person has been identified as he was treated at the Horana Hospital.
+
+Residents say there were symptoms such as the end of the eyes, the vomiting.
+
+Four more than four others are receiving treatment at Kalubowila, Horana and Jayawardenapura hospitals.
+
+The Ven. Warakaragoda Police are conducting further investigations.
+
+The police have been arrested by the police on the information of the villagers that the illegal liquor was sold in the area.
+
+...
+
+[Data](articles/cdbd04e2.json)
+
+[Extended Data](ext_articles/cdbd04e2.ext.json)
+
+---
+
+### Sri Lanka's tallest person
+
+*2024-04-29 11:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-மிக-உயரமான-நபர்/175-336492) · `ta`
+
+Gunasingham Katendran, a 7ft 2in tall man from Mullaitivu, is Sri Lanka's tallest. He faces challenges with his height, including finding footwear and traveling.
+
+🟩
+
+A man from Mullaitivu district has been identified as the tallest person in Sri Lanka.
+
+According to the BBC Sinhala Service, Gunasingham Katendran, a former militant of the banned LTTE (LTTE), who lives in Pudukkudiyiruppu Kaveli, is a seven -foot -tall two -inch tall.
+
+He reports that he may face countless problems with his abnormal height. He noted that there was no footwear in Sri Lanka anywhere in Sri Lanka and that they were forced to get them from abroad.
+
+Kajendran, the father of two children, says that he cannot travel until the bus is not available and that he is forced to booking the seat if he travels in a long -haul bus.
+
+The three -wheeler driver Kasendran has also said that he should drive his vehicle.
+
+◼️
+
+[Data](articles/a7f7df1d.json)
+
+[Extended Data](ext_articles/a7f7df1d.ext.json)
+
+---
 
 ### Police boss hearing the verdict falls in the foundation cage
 
@@ -55,6 +187,54 @@ The OIC had fallen into the site due to a heart attack on the OIC of the Open Co
 [Data](articles/f6759078.json)
 
 [Extended Data](ext_articles/f6759078.ext.json)
+
+---
+
+### A friend arrested for Angoda Loka'a's friend
+
+*2024-04-29 11:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கொட-லொக்கா-வின்-நண்பர்-கைது/175-336491) · `ta`
+
+Angoda Loka's friend, Ellalalake Sarath Kumara, arrested at Bandaranaike International Airport with a fake passport. He's a key figure in Angoda Loka's operations, involved in smuggling and a 2011 shooting.
+
+🟩
+
+A friend of Angoda Loka, a 'Angoda Loka' friend, has been arrested at the Bandaranaike International Airport.
+
+The 47 -year -old Ellalalake Sarath Kumara, also known as 'City', was arrested while attempting to go abroad with a fake passport, police said.
+
+The suspect has been arrested after he was identified by the AFRS (AFRS) mounted on the airport departure terminal.
+
+During further investigations, it was revealed that the suspect was the main partner of Angoda Loka and was searched by the Mulleriya police for smuggling ice.
+
+It has also been reported that the suspect has been involved in a number of crimes such as the shooting of a person in the Wellampitiya Police Division in 2011.
+
+◼️
+
+[Data](articles/7a44636a.json)
+
+[Extended Data](ext_articles/7a44636a.ext.json)
+
+---
+
+### Achievement in a distinct surgery
+
+*2024-04-29 11:26:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனித்துவமான-அறுவை-சிகிச்சையில்-சாதனை/175-336490) · `ta`
+
+Kalutara Teaching Hospital successfully performed a unique kidney stone removal surgery using a Disposable Flexible Yuritroscope, with the patient reportedly in good health.
+
+🟩
+
+For the first time, the Kalutara Teaching Hospital has undergone a unique surgery that removes stones in both kidneys.
+
+The operation is carried out through a small hole using the device called Disposable Flexible Yuritroscope.
+
+It is noteworthy that doctors who underwent surgery have reported that the patient is currently in good health.
+
+◼️
+
+[Data](articles/b2972a95.json)
+
+[Extended Data](ext_articles/b2972a95.ext.json)
 
 ---
 
@@ -567,6 +747,32 @@ However, Menikhinna police have taken steps to deploy police officers for the sa
 [Data](articles/3fabdc35.json)
 
 [Extended Data](ext_articles/3fabdc35.ext.json)
+
+---
+
+### Tension at Kandy Hospital
+
+*2024-04-29 09:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-வைத்தியசாலையில்-பதற்றம்-பொலிஸார்-குவிப்பு/76-336484) · `ta`
+
+Tension at Kandy Menikhinna Hospital led to injuries for seven people, including staff, during New Year's Eve celebrations. A clash between hospital staff and the injured parties resulted in further injuries. Both sides later dispersed, but police were deployed for safety.
+
+🟩
+
+Seven people, including hospital staff, were injured due to tension at the Kandy Menikhinna Hospital premises last night.
+
+The injured person has been brought to the hospital for treatment during the New Year's Eve in Menikhinna, and the hospital's workplaces have also been delayed to treat the New Year's celebration.
+
+Subsequently, it has been a clash between hospital staff and the injured sides and has been later confronted and seven people from both sides have been injured and admitted to the Kandy Hospital.
+
+Following the confession of the two sides, they dispersed.
+
+However, Menikhinna police have taken steps to deploy police officers for the safety of the hospital premises.. Remble
+
+◼️
+
+[Data](articles/d0fef524.json)
+
+[Extended Data](ext_articles/d0fef524.ext.json)
 
 ---
 
@@ -2195,171 +2401,5 @@ Discussions were held on various topics including anti -terror efforts, internet
 [Data](articles/312015ca.json)
 
 [Extended Data](ext_articles/312015ca.ext.json)
-
----
-
-### Sri Lanka to pay 13.0-pct return to EPF holders for 2023: Minister
-
-*2024-04-28 20:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-13-0-pct-return-to-epf-holders-for-2023-minister-160367/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-managed Employees Provident Fund will pay a 13 percent return to its member in 2023, State Minister for Finance Ranjith Siyambalapitiya has said.
-
-The government has decided to pay the return from the earnings the fund made in 2023, he said.
-
-It was higher than the 9.0 percent return the EPF had paid in recent years, Minister Siyambalapitiya said.
-
-Sri Lanka re-structured the debt of the EPF, extending maturities and initially raising the coupon the 12 percent, after the central bank busted the currency from 200 to 370 destroying its real value and pushing inflation to 70 percent.
-
-However, over the past year, the central bank has appreciated the currency, recouping the fund some of its losses.
-
-According the Central Bank, the inflation generating state enterprise that manages the fund, liability to members went up by 12.9 percent to 3,817.9 billion rupees in 2023, while the total value of the fund went up 11.5 percent to 3,857.4 billion rupees.
-
-...
-
-[Data](articles/a5712eba.json)
-
-[Extended Data](ext_articles/a5712eba.ext.json)
-
----
-
-### 7,000 Common Pardon
-
-*2024-04-28 20:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196062) · `si`
-
-During the first week, over 7,000 soldiers were removed. From April 20, legally resigning officials and ranks not reported for leave were published. A total of 7,156 army soldiers were withdrawn publicly, with 7,143 temporarily removed from their centers. Thirteen soldiers were dismissed for not being taken to work without leave.
-
-🟩
-
-More than 7,000 soldiers have been removed during the first week during the first week.
-
-From April 20, the officials and other ranks that are not reported to the service without leave without leave is published legally resignation.
-
-Accordingly, 7,156 army soldiers have been withdrawn during the public period.
-
-It is also reported that 7,143 soldiers have been temporarily removed from their regiment centers.
-
-Thirteen soldiers who have not been taken to work without leave and have been taken to dismissal from the military service.
-
-◼️
-
-[Data](articles/274103ee.json)
-
-[Extended Data](ext_articles/274103ee.ext.json)
-
----
-
-### Indian Coast Guard seizes narcotics bound for Sri Lanka, 14 held
-
-*2024-04-28 20:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-Coast-Guard-seizes-narcotics-bound-for-Sri-Lanka-14-held/108-281509) · `en`
-
-New Delhi [India], April 28 (ANI): The Indian Coast Guard carried out an intelligence-based anti-narcotics operation and seized narcotics worth Rs 600 crore from a Pakistani boat named 'Al-Raza' and apprehended 14 crew members who belonged to Balochistan.
-
-The Pakistani boat along with its 14 crew members have been apprehended and is being brought to Porbandar, Gujarat for further investigations, the Indian Coast Guard said in a statement.
-
-The narcotics weighed around 86 kg and amounted to around Rs 600 crore.
-
-Ahmedabad DGP Gujarat Vikas Sahay said that the consignment was not for India but Sri Lanka and all 14 crew members were residents of Balochistan, Pakistan.
-
-...
-
-[Data](articles/5b47de56.json)
-
-[Extended Data](ext_articles/5b47de56.ext.json)
-
----
-
-### Do not sell land to foreign countries!People's struggle in pearl city
-
-*2024-04-28 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/182180) · `ta`
-
-Protest in Muthu Nagar against selling agricultural lands to foreigners. Revealed in 1984 by Lalith Atulathi Mudali, the resettlement of the Sri Lanka Sector Facial Authority led to threats and no compensation for 200 families.
-
-🟩
-
-A protest march was held on Sunday (28) demanding not to sell agricultural lands to foreign countries in the Muthu Nagar area under the Divisional Secretariat Division of Trincomalee.
-
-The resettlement of the Sri Lanka Sector Facial Authority in 1984 was revealed by the Lalith Atulathi Mudali, who was the Minister of the United National Party (UNP) in 1984 by the Lalit Atulathi Mudali, who was the then Deputy Minister of the Srimavo Bandaranaike.The protesters say that they were not provided and that the Department of Facilities continued to threaten themselves.
-
-There are about 788 agricultural lands. There are about 788 agricultural lands. People from 200 families depend on their daily jurvana agriculture.
-
-Do not sell land, do not sell land, redeem agricultural lands, the country's backbone agriculture, the departmental faculty, do not extort agricultural lands, and since 1972.
-
-Hundreds of farmers participated in the event as the general public.
-
-◼️
-
-[Data](articles/d8527b23.json)
-
-[Extended Data](ext_articles/d8527b23.ext.json)
-
----
-
-### govi.ai captures industry attention at Future Harvest Expo 2024
-
-*2024-04-28 20:52:00* · [`islandlk`](http://island.lk/govi-ai-captures-industry-attention-at-future-harvest-expo-2024/) · `en`
-
-govi.ai, a leading innovator in agricultural IoT solutions, presented a successful program at the recent Future Harvest Exhibition held at the Bandaranayake Memorial International Conference Hall (BMICH) from March 29 to 31.  The govi.ai team showcased their innovative agri tech solutions in a live demo station, catered to empowering farmers (from smallholder to commercial) to adopt a data-driven approach to farming.
-
-Dr.Harsha de Silva, M.P. was one of the many visitors to the govi.ai demo station, commenting, “As a modern farmer myself, I found the tech innovations by govi.ai most appropriate in moving the needle in improving the efficiency of farmers. Agri tech is an absolute essential element in pushing up farmer productivity, and I hope govi.ai will success in getting the rather tech-averse farmers to see the benefits of this technology.”
-
-...
-
-[Data](articles/f941bc73.json)
-
-[Extended Data](ext_articles/f941bc73.ext.json)
-
----
-
-### Kaspersky extends business footprint to Sri Lanka
-
-*2024-04-28 20:51:00* · [`islandlk`](http://island.lk/kaspersky-extends-business-footprint-to-sri-lanka-2/) · `en`
-
-Kaspersky, the global cybersecurity and digital privacy company, announced its expansion into new territories in Asia Pacific (APAC), including Sri Lanka, Cambodia, and Bangladesh. This strategic move marks a significant milestone in the company’s mission to fortify digital infrastructure across the developing economies in the region, particularly on the enterprise cybersecurity market.
-
-As cyber threats continue to evolve and proliferate worldwide, Kaspersky recognizes the imperative of extending its holistic suite of cybersecurity solutions services to emerging markets in APAC. With its proven track record of delivering innovative solutions and expertise, the company is poised to address the escalating cybersecurity challenges faced by individuals, governments, and private organizations in Cambodia, Sri Lanka, and Bangladesh.
-
-...
-
-[Data](articles/aafab2a6.json)
-
-[Extended Data](ext_articles/aafab2a6.ext.json)
-
----
-
-### SLT-MOBITEL crowned ‘Best Corporate Citizen Sustainability Award 2023’
-
-*2024-04-28 20:48:00* · [`islandlk`](http://island.lk/slt-mobitel-crowned-best-corporate-citizen-sustainability-award-2023-3/) · `en`
-
-Recognized for its exceptional commitment to sustainable business practices, Sri Lanka Telecom PLC (SLT) secured the esteemed ‘Best Corporate Citizen Sustainability Award 2023’ in the ‘Other’ category at a recent event. The award was granted following a rigorous evaluation process, during which SLT competed against 33 leading corporations.
-
-The annual awards are organized by the Ceylon Chamber of Commerce, Sri Lanka’s premier business chamber, to felicitate organizations committed to sustainability across various sectors.
-
-Sustainability has always been a core pillar of SLT-MOBITEL’s corporate strategy. The recognition reaffirms SLT-MOBITEL’s position as a champion of sustainable development in Sri Lanka amidst continuous efforts to minimize its environmental footprint.
-
-The ‘Best Corporate Citizen Sustainability Award’ celebrates organizations that have implemented comprehensive sustainability initiatives spanning Environmental, Social and Governance (ESG) aspects.
-
-...
-
-[Data](articles/58b41f09.json)
-
-[Extended Data](ext_articles/58b41f09.ext.json)
-
----
-
-### ComBank breaks new ground in Sri Lanka enabling Alipay QR payments for merchants
-
-*2024-04-28 20:46:00* · [`islandlk`](http://island.lk/combank-breaks-new-ground-in-sri-lanka-enabling-alipay-qr-payments-for-merchants/) · `en`
-
-The Commercial Bank of Ceylon has opened up a world of new opportunities for Sri Lankan businesses, by becoming the first bank in Sri Lanka to enable Alipay QR Code payments under unified Lanka QR.
-
-Alipay e-wallet holders, currently numbering over 1 billion, can now scan the Commercial Bank LankaPay unified QR code issued to Sri Lankan merchants to make payments from anywhere in the world, as a result of this latest development.
-
-The Bank said more than 50,000 of the Bank’s merchants will be enabled to accept the Alipay QR when the Bank completes the deployment of the new QR across its network, facilitating access to a vast new customer segment. Around 28,000 merchants who have POS devices can already accept Alipay QR payments via POS devices after enabling the service by calling the bank.
-
-...
-
-[Data](articles/bcd501a8.json)
-
-[Extended Data](ext_articles/bcd501a8.ext.json)
 
 ---

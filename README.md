@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 08:52:44**
+As of **2024-04-29 09:03:48**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 3,481
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,496 (100.0%) of 21,500 articles have been extended.
+21,500 (100.0%) of 21,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### හමුදා පොදු සමාව ගැන ඉල්ලීමක්
+### Request for military general pardon
 
 *2024-04-29 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196074) · `si`
 
-ත්‍රිවිධ හමුදාව සඳහා රජය ලබා දී ඇති පොදු සමා කාලය වෛද්‍ය අංශයේ නිරත රණවිරුවන් සඳහා ද ලබාදීමට කටයුතු කළ යුතු බව එක්සත් රණවිරු ප්‍රජාව පවසයි.
+The United War Heroes Community demands a public season pardon for war heroes, emphasizing insufficient pay for medical unit soldiers. Over 7,000 soldiers have been removed in the first week, with 7,156 army soldiers withdrawn from public schools.
 
-එම සංගමයේ කැඳවුම්කරු අසේල ධර්මසිංහ මහතා පැවසුවේ, වෛද්‍ය අංශයේ සේවයේ නිරත රණවිරුවෙකුගේ මාසික වැටුප කිසිසේත් ප්‍රමාණවත් නොවන බවය.
+🟩
 
-"යුද හමුදා රණවිරුවන්ට පොදු සමාව ලබාදෙමින් සිටිය දී ඊට දින දෙකකට පස්සේ, ත්‍රිවිධ හමුදාපතිවරු ලියුමක් ගහනවා වෛද්‍ය හා දන්ත වෛද්‍යවරුන්ට මේ වරප්‍රසාදය ලබාදෙන්න එපා කියලා. මේ සියලු රණවිරුවන් උසස් පෙළ ජීව විද්‍යාව අංශයෙන් ඉගෙන ගත්ත ළමයි. පාබල රෙජිමේන්තුවක ඉන්න සෙබළෙක් සහ වෛද්‍ය අංශවල වැඩකරන රණවිරුවෙක්ගේ වෙනස රුපියල් 425යි. මේ අය විශ්වවිද්‍යාල යන්න හිටිය ළමයි. මේ වෙද්දි මේ අය සේවය අතහැරලා ගිහින් තියෙන්නේ. විශේෂයෙන් අවධාරණය කරනවා මේ රණවිරුවන්ටත් මේ වරප්‍රසාදය ලබාදෙන්න. රණවිරු රෝහල් රැකගන්න අවශ්‍ය නම්, නිසි වැටුපක් දෙන්න."
+The United War Heroes Community says that the government has provided with the public season with the government should also be given to war heroes who have been given to the three armed forces.
 
-මේ අතර, නිවාඩු ලබා නොගෙන සේවයට වාර්තා නොකර සිටින යුද හමුදා සාමාජිකයින් 7,000කට අධික පිරිසක් පොදු සමා කාලයේ පළමු සතිය තුළ ඉවත් කර තිබේ.
+The convener of the union said that the monthly salary of a war heroes in the Medical Unit is not enough.
+
+"Two days later, the Armed Forces Commandments do not give this privilege for the armed forces. All these warriors learned from the A / L Biology. 425 is the difference in a soldier in an infantry regiment and a war hero working in medical sectors. These people were kids who were universities. These people have left the ministry. Especially emphasize this privilege to these war heroes. If you want to save the war heroes hospitals, give a proper pay. "
+
+Meanwhile, more than 7,000 soldiers have been removed during the first week during the first week.
 
 ...
 
 [Data](articles/09be26b8.json)
 
+[Extended Data](ext_articles/09be26b8.ext.json)
+
 ---
 
-### මතීෂට කඩුලු දෙකක් එක්කර දෙමින් චෙන්නායි කණ්ඩායමට තවත් ජයක්
+### Chennai team wins two wickets
 
 *2024-04-29 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196073) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතර පැවති තරගයෙන් ලකුණු 78ක ජයක් වාර්තා කිරීමට චෙන්නායි සුපර් කින්ග්ස් කණ්ඩායම සමත්ව තිබේ.
+Chennai Super Kings beat Sunrises Hyderabad in IPL, scoring 212/3. Sunrises were bowled out for 18 in 13 balls, with Visitor Pathirana taking 2 wickets.
 
-තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් චෙන්නායි සුපර් කින්ග්ස් කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 03ක් දැවී ලකුණු 212ක් ලබා ගත්තේය.
+🟩
 
-පිළිතුරු ඉනිම සඳහා පන්දුවට පහරදුන් සන්රයිසස් හයිද්‍රබාද් කණ්ඩායමට පන්දුවාර 18යි පන්දු 5ක් අවසානයේ සියලුදෙනා දැවී ලබා ගත හැකිවුයේ ලකණු 134ක් පමණයි.
+Chennai Super Kings won the match between the Sunrises Hyderabad team in the Indian Premier League.
 
-පන්දු යැවීමේ දී සුපිරි වේගපන්දු යවන ක්‍රීඩක මතීෂ පතිරණ ඊයේ (28) දිනයේ දීත් කඩුලු 02ක් බිඳහෙළීමට සමත් වුණි.
+Channai Super Kings scored 212 runs for the loss of 03 wickets at the end of the match.
+
+Batting to batland, Sunrises Hyderabad was bowled out for 18 balls at the end of 13 balls.
+
+Super fast bowler Visitor Pathirana took 02 wickets in yesterday's day.
 
 ◼️
 
 [Data](articles/66a29f25.json)
+
+[Extended Data](ext_articles/66a29f25.ext.json)
 
 ---
 
@@ -85,6 +97,8 @@ A trishaw driver by profession, Kasenthiran has to drive his vehicle bending his
 ◼️
 
 [Data](articles/bed464bb.json)
+
+[Extended Data](ext_articles/bed464bb.ext.json)
 
 ---
 
@@ -486,21 +500,27 @@ The case (07.12.2023) was taken to the Mullaitivu District Court that day.
 
 ---
 
-### 'අපේ නිෂ්පාදන මහපොළවට එකතු වුණහම ගස් පැළ වෙනවා.'
+### 'When our products join the Mahapola, the trees grow.'
 
 *2024-04-29 02:43:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c19dw10ex7go) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, නිලුකා ප්‍රියදර්ශනී සිය දියණියන් දෙදෙනා සමග එක්ව පරිසර හිතකාමී නිෂ්පාදන වෙළඳපොළට සපයන්නීය.
+"Eco-friendly products contribute to economic and environmental benefits, as highlighted by Naka Priyadarshani, who runs the business with her daughters post-husband's death. Their products' inclusion in Mahapola initiatives symbolizes growth and value creation, emphasizing the potential of women in society."
 
-පරිසර හිතකාමී නිෂ්පාදන කෙරෙහි කාන්තාවන්ට වැඩි අවධානයක් යොමු කිරීම තුළින් ආර්ථික වාසියක් ලබා ගැනීමට මෙන්ම පරිසර සංරක්ෂණයට දායක වීමට හැකි බව නිලුකා ප්‍රියදර්ශනී පවසන්නීය.
+🟩
 
-සැමියාගේ වියෝවෙන් පසු ඇය සිය දියණියන් දෙදෙනා සමග එක්ව පරිසර හිතකාමී නිෂ්පාදන වෙළඳපොළට සපයන්නීය.
+None contains none of this.
 
-''අපේ නිෂ්පාදන මහපොළවට එකතු වුණහම ගස් පැළ වෙනවා. ඉවත දමන දේවල්වලට අගය එකතු කරලා නැවත වෙළඳපොළට නිකුත් කරන එක තමයි අපි කරන්නේ. මං වගේම අසරණ වෙච්ච කාන්තාවෝ මේ සමාජයේ ගොඩක් ඉන්නවා. ඔයාලා අසරණයි කියලා හිතන්න එපා.'' යනුවෙන් ඇය BBC සිංහල සේවයට පැවසුවාය.
+Naka Priyadarshani says that focusing on eco-friendly products can lead to an economic advantage and contribute to environmental advantage.
+
+After her husband's death, she supplies eco-friendly products with his two daughters.
+
+"When our products join the Mahapola, the trees sprout. We do what we are doing to the value of disposable and re-imitate the market. Like me and helpless women have a lot of this society. Don't think that you are helpless. She told the BBC Sinhala.
 
 ◼️
 
 [Data](articles/fe991245.json)
+
+[Extended Data](ext_articles/fe991245.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 20:34:23**
+As of **2024-04-29 20:52:48**
 
 ## Newspaper Stats
 
-*Scraped **21,660** Articles*
+*Scraped **21,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
-adalk | 1,813
+adalk | 1,814
 tamilmirrorlk | 2,520
 adaderanalk | 2,574
 virakesarilk | 3,265
-dailymirrorlk | 3,370
+dailymirrorlk | 3,371
 adaderanasinhalalk | 3,509
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,658 (100.0%) of 21,660 articles have been extended.
+21,660 (100.0%) of 21,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
+
+### Asia Rugby Division 1 Championship begins tomorrow
+
+*2024-04-29 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asia-Rugby-Division-1-Championship-begins-tomorrow/108-281584) · `en`
+
+Apr. 29 (Daily Mirror) - Colombo is set to witness an exhilarating clash of talents as the Asia Rugby (AR) Division 1 Championship will kick-off at the Racecourse Grounds tomorrow.
+
+This prestigious event, hosted by Sri Lanka Rugby (SLR), promises to show the best of the regions rugby power, as teams battle it out for the ultimate prize - promotion to the AR Top 4 in 2025.
+
+Two exciting matches are scheduled to kick-off the championship on the opening day where Qatar will go head-to-head with a physical, Kazakhstan side in what promises to be a closely contested encounter.
+
+On the same day under lights, Sri Lanka will take on the formidable opponents from India.
+
+These initial matches will set the tone for the tournament, as teams seek early victories to gain the momentum. Sri Lanka are ranked at 44 compared to India’s 87 at present.
+
+...
+
+[Data](articles/d05a0106.json)
+
+---
 
 ### Fire reported at girls’ college hostel in Weligama
 
@@ -47,6 +67,8 @@ The damage caused by the fire has not been revealed so far and another similar i
 ◼️
 
 [Data](articles/c600a5e0.json)
+
+[Extended Data](ext_articles/c600a5e0.ext.json)
 
 ---
 
@@ -353,6 +375,20 @@ The Minister added that the interviews of recruiting interviews will be taken up
 [Data](articles/001cae4c.json)
 
 [Extended Data](ext_articles/001cae4c.ext.json)
+
+---
+
+### ලංකාවේ උපත් අඩුවෙලා මරණ වැඩිවෙලා
+
+*2024-04-29 17:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-උපත්-අඩුවෙලා-මරණ-වැඩිවෙලා/11-409327) · `si`
+
+මෙවර මැයි රැළිය ආණ්ඩු පෙරළියට පෙර පැවැත්වෙන එකම මැයි රැළිය බව උත්තර ලංකා සභාගයේ නියෝජ්‍ය සභාපති, පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.04.29) පැවති උත්තර ලංකා සභාගයේ මාධ්‍ය හමුවකට එක් වෙමිනි. පිවිතුරු හෙළ උරුමයේ නායකයා මෙහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+
+"මෙවර මැයි දින රැළිය  ආණ්ඩු පෙරළියට පෙර පැවැත්වෙන එකම මැයි රැළිය. ආණ්ඩු බලය ඉල්ලන බලවේග අද ජනතාව ඉදිරියට ඇවිල්ලාම මොනවද කියන්නේ. ජනතාවට ණයට කාලා සැපට ඉන්න හොඳටම ණය අරන් දෙන්න පුළුවන් අපටයි කියලයි මේ හැමෝම ජනතාව ඉදිරියට ඇවිල්ලා කියන්නේ.
+
+...
+
+[Data](articles/9a64718c.json)
 
 ---
 
@@ -1141,6 +1177,8 @@ There have been new expectations on the ceasefire as Israel's airstrike continue
 ◼️
 
 [Data](articles/1dfc71a3.json)
+
+[Extended Data](ext_articles/1dfc71a3.ext.json)
 
 ---
 
@@ -2309,57 +2347,5 @@ Subsequently, the magistrate ordered the two men to be admitted to the Jaffna Ho
 [Data](articles/91a4de7d.json)
 
 [Extended Data](ext_articles/91a4de7d.ext.json)
-
----
-
-### Sri Lanka's tallest person
-
-*2024-04-29 11:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-மிக-உயரமான-நபர்/175-336492) · `ta`
-
-Gunasingham Katendran, a 7ft 2in tall man from Mullaitivu, is Sri Lanka's tallest. He faces challenges with his height, including finding footwear and traveling.
-
-🟩
-
-A man from Mullaitivu district has been identified as the tallest person in Sri Lanka.
-
-According to the BBC Sinhala Service, Gunasingham Katendran, a former militant of the banned LTTE (LTTE), who lives in Pudukkudiyiruppu Kaveli, is a seven -foot -tall two -inch tall.
-
-He reports that he may face countless problems with his abnormal height. He noted that there was no footwear in Sri Lanka anywhere in Sri Lanka and that they were forced to get them from abroad.
-
-Kajendran, the father of two children, says that he cannot travel until the bus is not available and that he is forced to booking the seat if he travels in a long -haul bus.
-
-The three -wheeler driver Kasendran has also said that he should drive his vehicle.
-
-◼️
-
-[Data](articles/a7f7df1d.json)
-
-[Extended Data](ext_articles/a7f7df1d.ext.json)
-
----
-
-### Police boss hearing the verdict falls in the foundation cage
-
-*2024-04-29 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196084) · `si`
-
-A police chief was convicted 26 years ago by a former High Court Judge for murder. The OIC of the North Central Province and Kuliyapitiya High Court sentenced the Superintendent of Police and others to death. The OIC collapsed in court due to a heart attack.
-
-🟩
-
-The courts have also been convicted of the OIC of the Police OIC, 26 years ago, police said.
-
-Former High Court Judge Manoj Talgodapitiya, the OIC of the North Central Province and Kuliyapitiya High Court judged the Superintendent of Police and the Superintendent of Police.
-
-The police were sentenced to death in danger of the Kantale Police Division, police inspector. M. Ranaraja Bandara, Sub Inspector G.L. Somaratne, Police Sergeant Chandraratne Bandara, K. M. Nihal Premathylake and R. R. Somaratne Bandara, Mediwela, Pharisees.
-
-The Attorney General has been committed to the Trincomalee High Court that the offense was committed to the Trincomalee High Court in the intention of conducting a murder.
-
-The OIC had fallen into the site due to a heart attack on the OIC of the Open Court and the police, and he later took him at the Anuradhapura hospital.
-
-◼️
-
-[Data](articles/f6759078.json)
-
-[Extended Data](ext_articles/f6759078.ext.json)
 
 ---

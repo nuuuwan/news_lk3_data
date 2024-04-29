@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 08:06:32**
+As of **2024-04-29 08:18:39**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 3,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,487 (100.0%) of 21,492 articles have been extended.
+21,492 (100.0%) of 21,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### රෝහලේ ගුටි කෙළියෙන් පිරිසකට තුවාල
+### A group of wound injured in hospital
 
 *2024-04-29 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196071) · `si`
 
-මහනුවර මැණික්හින්න රෝහල් පරිශ්‍රය තුළ හටගත් නොසන්සුන්කාරී තත්ත්වයක් හේතුවෙන් රෝහල් කාර්ය මණ්ඩලය ඇතුළු පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා තිබේ.
+In Menikhinna Hospital, a tense situation led to injuries for seven people, including staff. The incident escalated from a previous conflict. The injured were taken to the hospital for treatment. A heated exchange occurred between the hospital staff and an injured party. Five of the injured were hospital staff. The Menikhinna police intervened to resolve the conflict and deployed officers at the hospital.
 
-ඊයේ (28) රාත්‍රී මෙම නොසන්සුන්කාරී තත්ත්වය හටගෙන ඇති අතර එය පාලනය කිරීම සඳහා විශේෂ පොලිස් කණ්ඩායමක් ද කැඳවීමට පියවර ගෙන තිබිණි.
+🟩
 
-මැණික්හින්න ප්‍රදේශයේ පැවති අවුරුදු උත්සවයක් අතරවාරයේ තුවාල ලැබු පුද්ගලයෙකු ප්‍රතිකාර සඳහා රෝහල වෙත රැගෙනවිත් ඇති අතර එහිදී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් ද අවුරුදු උත්සවයකට සහභාගීවී තිබීම හේතුවෙන් ප්‍රතිකාර කිරීමට ප්‍රමාද වී ඇති බව සඳහන්ය.
+Seven persons including hospital staff were injured due to a tense situation in the Menikhinna Hospital premises.
 
-මේ සම්බන්ධවෙන් විමසීමේ දී රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් සහ තුවාල ලැබු පාර්ශ්වය අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබේ.
+The tense situation has been caused by this tense situation yesterday (28) and steps have been taken to be taken up to control it.
 
-මෙය ගැටුමක් දක්වා වර්ධනය වී ඇති අතර එහිදී දෙපාර්ශ්වයේ ම පුද්ගලයින් 07 දෙනෙකු තුවාල ලබා මහනුවර රෝහලට ඇතුළත් කර ඇති බව වාර්තා වේ.
+A person who was injured in the Menikhinna area was taken to the hospital for treatment at the Menikhinna area.
 
-තුවාල ලැබුවන්ගෙන් 05 දෙනෙකු මැණික්හින්න රෝහල් කාර්ය මණ්ඩල සාමාජිකයින් බව ද පොලීසිය සඳහන් කළේය.
+Inquiry, a heated exchange of words has taken place between the hospital staff and the injured party.
 
-කෙසේවෙතත් මැණික්හින්න පොලීසිය මැදිහත් වීමෙන් ගැටුම සමතයකට පත් කිරීමට පියවර ගෙන තිබේ.
+Seven persons were injured and rushed to the Kandy hospital with their injuries.
 
-...
+The police said that five injured staff members were members of the Manikhinna Hospital.
+
+However, steps have been taken to settle the conflict by intervention by the Menikhinna police.
+
+It has been reported that these personnel have been scattered after the summoned sides have been summoned.
+
+However, the Menikhinna police have also taken steps to deploy several police officers in the hospital premises.
+
+◼️
 
 [Data](articles/cb1542aa.json)
+
+[Extended Data](ext_articles/cb1542aa.ext.json)
 
 ---
 
@@ -76,51 +86,65 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/75aea62b.json)
 
+[Extended Data](ext_articles/75aea62b.ext.json)
+
 ---
 
-### පාකිස්තානයෙන් ආ යාත්‍රාවේ කෝටි ගාණනක මත්ද්‍රව්‍ය
+### Drugs in Pakistan's crore
 
 *2024-04-29 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196070) · `si`
 
-පාකිස්තානයේ සිට මෙරටට ප්‍රවාහනය කරමින් තිබු රුපියල් කෝටි 600ක වටිනාකමින් යුත් මත්ද්‍රව්‍ය තොගයක් ඉන්දීය වෙරළාරක්ෂක බුද්ධි අංශ මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Indian Coast Guard arrests 14 Balochistan residents for drug smuggling on the "Al Raza" vessel, seizing 86 kg of drugs worth over Rs. 600 crores. Suspected to be transporting to Sri Lanka, they are taken to Gujarat for investigation.
 
-"අල් රාසා" නැමති යාත්‍රාවකින් ප්‍රවාහනය කරමින් තිබු මෙම මත්ද්‍රව්‍ය තොගය සමග කාර්ය මණ්ඩල සාමාජිකයින් 14 දෙනෙකු අත්අඩංගුවට ගත් බව ඉන්දීය වෙරළාරක්ෂක බළකාය සඳහන් කර ඇත.
+🟩
 
-මෙම මත්ද්‍රව්‍ය තොගයේ බර කිලෝග්‍රෑම් 86ක් පමණ වන අතර එහි වටිනාකම රුපියල් කෝටි 600කට අධික බව ද වෙරළාරක්ෂක බළකාය පැවසීය.
+Indian Coast Guard, Indian Coast Guard have been arrested by Indian Coast Guard.
 
-අත්අඩංගුවට ගත් කාර්ය මණ්ඩල සාමාජිකයින් 14දෙනාම බලුකිස්තානයේ පදිංචිකරුවන් බව ද සඳහන්ය.
+The Indian Coast Guard (Indian Coast Guard) has been arrested along with the drug transporting the "Al Raza" vessel.
 
-ඒ අනුව ඔවුන් වැඩිදුර පරීක්ෂණ සඳහා ගුජරාටයේ පොර්බන්ඩර් වෙත රැගෙන විත් තිබේ.
+The coast Guard said that the stock of drugs weigh about 86 kilograms and the value of over Rs. 600 crores.
 
-ඔවුන් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් අහමදාබාද් නියෝජ්‍ය පොලිස්පතිවරයා පවසා ඇත්තේ, මෙම මත්ද්‍රව්‍ය තොගය ඉන්දියාව වෙත ප්‍රවාහනය කරමින් තිබු බව ප්‍රථමයෙන් සැක පළ කළ ද පසුව ඒවා ශ්‍රී ලංකාව වෙත ප්‍රවාහනය කරමින් තිබෙන බවට තොරතුරු අනාවරණය කර ගෙන ඇති බවය.
+All 14 staff members are residents of Balochistan.
 
-මෙවැනි මත්ද්‍රව්‍ය තොගයක් අත්අඩංගුවට ගැනීම සම්බන්ධයෙන් සතුටට පත්වන බව ද අහමදාබාද් නියෝජ්‍ය පොලිස්පතිවරයා ඉන්දීය මාධ්‍යට පවසා තිබේ.
+Accordingly, they have been taken to Pobander in Gujarat for further investigations.
+
+The DIG has said that the drug was transported to India, but it was later suspected that it was later transporting them to Sri Lanka.
+
+DIG of Ahmaadabad has told the Indian media that he is happy to arrest a large haul of drugs.
 
 ◼️
 
 [Data](articles/6558f144.json)
 
+[Extended Data](ext_articles/6558f144.ext.json)
+
 ---
 
-### ශ්‍රම බළකාය පහළ ගොස් ඇති බවට අනාවරණයක්
+### Revealed that the workforce is down
 
 *2024-04-29 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196069) · `si`
 
-පසුගිය වසරේ දී මෙරට ශ්‍රම බළකාය පහත ගොස් ඇති බව ශ්‍රී ලංකා මහ බැංකුව නිකුත්කළ නවතම වාර්තාවකින් පෙන්නුම් කර තිබේ.
+The Central Bank of Sri Lanka reports a slight decrease in the workforce from 8.54 million in 2022 to 8.40 million in 2023, with a slight drop in labor force participation and employment rate. Unemployment remains unchanged at 0.399 million.
 
-ඒ අනුව 2022 වසරේ දී මිලියන 8.54ක් වූ ආර්ථික වශයෙන් සක්‍රීය ජනගහනය පසුගිය වසරේ දී වසරේ දී මිලියන 8.40ක් දක්වා පහත වැටී ඇති බව එම වාර්තාවේ සඳහන් වේ.
+🟩
 
-ශ්‍රම බළකාය සහ කුටුම්බ ජනගහනය අතර අනුපාතය වන ශ්‍රම බළකා සහභාගීත්ව අනුපාතිකය ද 2022 වසරේ දී වාර්තා වූ සියයට 49.8 සිට 2023 වසර වන විට සියයට 48.6ක් දක්වා පහත වැටී තිබේ.
+Last year, the Central Bank of Sri Lanka has shown that the Sri Lankan workforce has gone down last year.
 
-සේවා වියුක්ත ජනගහනය මෙන්ම ශ්‍රම බළකාය පහත වැටීමෙහි ඒකාබද්ධ බලපෑම හේතුවෙන් සේවා වියුක්ති අනුපාතිකය ද පෙර වසර හා සැසඳීමේ දී 2023 වසරේ දී සියයට 4.7ක අගයෙහි නොවෙනස්ව පැවතී ඇති බව සඳහන්ය.
+According to the report, the economically active population of 8.54 million in 2022 has fallen to 8.40 million in the year last year.
 
-සේවා වියුක්ත ජනගහනය 2022 දී වාර්තා වූ මිලියන 0.399 සිට 2023 වන විට මිලියන 0.39ක් දක්වා සුළු වශයෙන් පහත වැටී ඇති බව එම වාර්තාවේ සඳහන් වේ.
+The labor force participatory ratio of the labor force and the chamber of household population, 49.8 percent in 2022 to 48.6 percent.
 
-එසේම, සේවා නියුක්ත ජනගහනය ද 2022 වසරේ දී වාර්තා වූ මිලියන 8.14 සිට පසුගිය වසර වන විට මිලියන 8.01ක් දක්වා පහත වැටී තිබේ.
+The cost of the employment rate was unchanged in 2023 due to the previous year, as the consolidated influence of the employed population as well as the joint influence of the workplace.
+
+The report states that the unemployed population has fallen to 0.399 million from 0.399 million to 2023.
+
+The employees of the employees have fallen from 8.14 million to 8.01 million from the year.
 
 ◼️
 
 [Data](articles/9af16cf4.json)
+
+[Extended Data](ext_articles/9af16cf4.ext.json)
 
 ---
 
@@ -1674,19 +1698,29 @@ Investigations were carried out on the missing persons and compensation to their
 
 ---
 
-### රටින් පිටවීම තහනම් කළ ව්‍යාපාරියෙක් රටින් යන්න ගිහින් අල්ලයි
+### A businessman banned from exit from the country
 
 *2024-04-28 17:48:02* · [`adalk`](https://www.ada.lk/breaking_news/රටින්-පිටවීම-තහනම්-කළ-ව්‍යාපාරියෙක්-රටින්-යන්න-ගිහින්-අල්ලයි/11-409305) · `si`
 
-මිනුවන්ගොඩ මහේස්ත්‍රාත් අධිකරණය මගින් රටින් පිටවීම තහනම් කළ ව්‍යාපාරිකයෙකු, කූඨ ලෙස සකස් කළ ගමන් බලපත්‍රයක් භාවිතා කරමින් තායිලන්තය වෙත පළා යාමට 04/27 දින  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී ආගමන විගමන දෙපාර්තමේන්තුවේ දේශසීමා ආවේක්ෂණ ඒකකයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A 64-year-old businessman from Colombo was arrested by immigration officers for attempting to leave Thailand on Thai Airlines on 04/27. He was suspected of using a fake passport and had previously been banned from leaving Sri Lanka.
 
-මොහු කොළඹ ප්‍රදේශයේ පදිංචි 64 හැවිරිදි ව්‍යාපාරිකයෙකි. මොහු ඉකුත් 04/27 දින අලුයම 01.08 ට තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව යෑමට නියමිත තායි ගුවන් සේවයේ ටී.ජී.- 308 දරන ගුවන් යානයට පිවිසීම සදහා කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+🟩
 
-එසේ පැමිණි මෙම ව්‍යාපාරිකයා සිය ගුවන් යානා නිශ්කාශන කටයුතු නිම කර , ගුවන් තොටුපොළ  විගමන අංශය වෙත පැමිණ සිටියදී , එහි රාජකාරී කටයුතු වල නිරත වී සිටි ආගමන විගමන නිලධාරීවරයා මොහුගේ ලියකියවිලි පරීක්ෂා කර බලා , ඇති වූ සැකය මත ප්‍රධාන ආගමන විගමන නිලධාරීවරයා වෙත යොමු කර තිබේ .
+A group of officers of the Immigration and Emigration Department (Immigration) of the Immigration and Emigration Department have been arrested by the Department of Immigration and Emigration.
+
+He is a 64 year old businessman from Colombo. The Thai Airlines to leave Thailand on 04/27 on 04/27 at Thai Airlines, Thai Airlines, to leave Thailand.
+
+The businessman who arrived in the airport clearance, the business officer who was working to the Emigration Division of the airport, the Immigration Officer who was involved in the airports was directed to the Chief Immigration Officer on suspicion.
+
+The businessman had been handed over to the officers of the Department of Immigration and Emigration and the Technical Testing of the Department of Immigration and the Technical Testing.They have been confirmed.
+
+It has also revealed that the passport used by the businessman before the passport also was also used as a small.
 
 ...
 
 [Data](articles/0b84cd5e.json)
+
+[Extended Data](ext_articles/0b84cd5e.ext.json)
 
 ---
 

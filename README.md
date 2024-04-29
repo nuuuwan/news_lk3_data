@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 22:05:21**
+As of **2024-04-29 22:18:47**
 
 ## Newspaper Stats
 
-*Scraped **21,671** Articles*
+*Scraped **21,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 2,520
 adaderanalk | 2,576
 virakesarilk | 3,265
 dailymirrorlk | 3,374
-adaderanasinhalalk | 3,511
+adaderanasinhalalk | 3,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,667 (100.0%) of 21,671 articles have been extended.
+21,671 (100.0%) of 21,673 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,46 @@ Police Spokesman DIG Nihal Thalduwa says that the use of drone cameras is prohib
 ◼️
 
 [Data](articles/ee652322.json)
+
+[Extended Data](ext_articles/ee652322.ext.json)
+
+---
+
+### ඇමති ටිරාන්ට එරෙහිව නීතිඥ සංගමය ජනපතිගෙන් කළ ඉල්ලීම
+
+*2024-04-29 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196109) · `si`
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා එම ධුරයෙන් ඉවත් කරන ලෙස ශ්‍රී ලංකා නීතිඥ සංගමය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් ඉල්ලීමක් කර තිබේ.
+
+අපරාධකරුවන් මර්දනය සඳහා ගිනිඅවි භාවිත කිරීමට පසුබට නොවන්නැයි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පසුගියදා කළ ප්‍රකාශයක් පදනම් කරගනිමින් නීතිඥ සංගමය මෙම ඉල්ලීම සිදුකර ඇත.
+
+නිවේදනයක් නිකුත් කරමින් අද (29) එම සංගමය සඳහන් කළේ ඊට අදාළව සිය සංගමයේ මහ සභාවේදී යෝජනාවක්ද සම්මත කරගත් බවය.
+
+අපරාධ කල්ලි මර්දනයට ගිනි අවි භාවිත කිරීමට පසුබට නොවන ලෙස පසුගියදා මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස් නිලධාරීන් අමතමින් සදහන් කළේ ක්ෂණික විහිදුම් යතුරුපැදි බලකායේ නිලධාරීන් විසිර යාමේ උත්සවයේදීය.
+
+උක්ත ප්‍රකාශය සම්බන්ධයෙන් දැඩි කණස්සල්ල පළකරන ශ්‍රී ලංකා නීතිඥ සංගමය අධිකරණ ක්‍රියාමාර්ගවලින් තොර අත්තනෝමතික දණ්ඩනය දිරිගන්වන ප්‍රකාශයක් සිදුකළ බවට චෝදනා කරමින් මහජන ආරක්ෂක අමාත්‍යවරයාට එරෙහි යෝජනාවක් එහි මහ සභා රැස්වීමේදී සම්මත කරගෙන තිබේ.
+
+ඒ පිළිබඳ නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා නීතිඥ සංගමය පවසන්නේ  ටිරාන් අලස් මහතා එම ප්‍රකාශය වහාම ඉල්ලා අස්කරගත යුතු බවය.
+
+...
+
+[Data](articles/53ddd179.json)
+
+---
+
+### ඩ්‍රෝන යානා භාවිතය ගැන පොලීසියෙන් දැනුම්දීමක්
+
+*2024-04-29 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196108) · `si`
+
+අවසරයකික් තොරව මැයි රැළි ආවරණය කිරීම සඳහා ඩ්‍රෝන යානා භාවිත කිරීම තහනම් බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ, එලෙස ඩ්‍රෝන යානා භාවිත කිරීමට අවශ්‍ය නම් ඒ සඳහා පූර්ව අවසරයක් ලබාගතයුතු බවය.
+
+මෙම නීතිය දිවයින පුරා පැවැත්වෙන සියලුම මැයි රැළි සඳහා අදාළ වනු ඇත.
+
+◼️
+
+[Data](articles/f7fb6222.json)
 
 ---
 
@@ -57,6 +97,8 @@ Addressing the media Senior DIG Traffic Administration and Road Safety, Indika H
 ...
 
 [Data](articles/26a14fbb.json)
+
+[Extended Data](ext_articles/26a14fbb.ext.json)
 
 ---
 
@@ -438,23 +480,31 @@ The woman, who is a resident of the Mullaitivu area, had arrived at the BIA at a
 
 ---
 
-### ස්පා අධීක්ෂණය කිරීමට යාන්ත්‍රණයක්
+### A mechanism to supervise the spa
 
 *2024-04-29 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ස්පා-අධීක්ෂණය-කිරීමට-යාන්ත්‍රණයක්/11-409329) · `si`
 
-සංචාරක කර්මාන්තයේ දියුණුව සඳහා තවත් සංචාරක ගමනාන්ත 49ක් හඳුනා ගෙන ඒවා සංචාරක කලාප ලෙස නම් කර මාසයක් ඇතුළත ගැසට් පත්‍රයේ පළ කිරීමට කටයුතු කරන බව සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය පැවසීය.
+Minister Diana Gamage aims to develop tourism by identifying 49 new destinations and appointing a committee to combat corruption. She addresses complaints about harassment, high ticket prices, and illegal activities, emphasizing the importance of online ticket purchases and the need for a separate committee to supervise frauds. The focus is on health and safety, with discussions on regulating spas and promoting Sri Lanka.
 
-සංචාරක කර්මාන්තයේ සිදුවන වංචා දූෂණ වැළැක්වීමට සහ අධීක්ෂණයට වෙනම කමිටුවක් පත් කිරීමට සැළසුම් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරිය සඳහන් කළාය.
+🟩
 
-සංචාරක රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (29) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Tourism Dianey Gamage said that he will identify 49 other tourism destinations to develop the tourism industry and published in the Gazette within a month.
 
-එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරිය මෙසේද සඳහන් කළාය,
+A separate committee has been appointed to prevent and supervise corruption in tourism.
 
-මෙරට සංචාරකයින්ට සිදුවන හිරිහැර සම්බන්ධයෙන් විවිධ පැමිණිලි ලැබෙනවා. මම පසුගිය කාලයේ මේ ගැන හඬ නැගුවා.
+The Minister of Tourism Diana Gamage was addressing a press conference held at the Presidential Media Center today (29) at the Presidential Media Center.
+
+Speaking further, State Ministers said:
+
+Various complaints receives various complaints regarding harassment. I have loud up on this recently.
+
+Various complaints have been received by a tourist, selling railway tickets at higher prices, tourist destinations and a broadcasting videos that promote Sri Lanka, especially Sri Lanka.. We take steps to prevent this work. A few mistakes should not allow our country's reputation.
 
 ...
 
 [Data](articles/3e10517f.json)
+
+[Extended Data](ext_articles/3e10517f.ext.json)
 
 ---
 
@@ -1049,6 +1099,8 @@ Lanka Exhibition and Conference Services (LECS) today announced the return of Sr
 ◼️
 
 [Data](articles/24d3506f.json)
+
+[Extended Data](ext_articles/24d3506f.ext.json)
 
 ---
 
@@ -2239,43 +2291,5 @@ The Maithri Party (SLFP) Maithree is held in Gampaha.
 [Data](articles/82557aed.json)
 
 [Extended Data](ext_articles/82557aed.ext.json)
-
----
-
-### SLTB for two buses to be justified
-
-*2024-04-29 12:23:24* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියෙන්-ඇල්ලූ-බස්-දෙකක්-ලංගමට/11-409321) · `si`
-
-Two buses seized from a drug dealer by Bemmulla Police, now under Colombo DPOP, are transferred to Gampaha depot for passenger transport, following instructions from the Ceylon Transport Board.
-
-🟩
-
-Two buses belonging to a drug dealer who has been arrested by the Bemmulla Police under the operation of Bmmini Police have handed over to the bus depot on ordering the Colombo DPOP to be handed over to Gampaha.
-
-The two buses have been taken to the Gampaha depot and depot superintendent MW. Mr. Kamalasiri stated that the buses will be deployed to transport passengers according to the instructions provided by the Ceylon Transport Board.
-
-◼️
-
-[Data](articles/dd9a04e9.json)
-
-[Extended Data](ext_articles/dd9a04e9.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-29 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182221) · `ta`
-
-On April 29, the US purchasing price was Rs 291.524, and the sales price was Rs 300.9597, according to the Central Bank's currency exchange rate.
-
-🟩
-
-The US purchasing price was Rs 291.524 and the sales price were 300.9597 based on the Central Bank's currency exchange rate on Monday (April 29).
-
-◼️
-
-[Data](articles/6d46b026.json)
-
-[Extended Data](ext_articles/6d46b026.ext.json)
 
 ---

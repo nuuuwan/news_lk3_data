@@ -1,56 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-29 18:22:43**
+As of **2024-04-29 18:34:28**
 
 ## Newspaper Stats
 
-*Scraped **21,635** Articles*
+*Scraped **21,638** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 186
-bbccomsinhala | 225
+bbccomsinhala | 226
 dbsjeyarajcom | 231
 newsfirstlk | 363
 islandlk | 1,174
 dailyftlk | 1,212
 economynextcom | 1,217
 adalk | 1,811
-tamilmirrorlk | 2,517
+tamilmirrorlk | 2,518
 adaderanalk | 2,571
 virakesarilk | 3,255
-dailymirrorlk | 3,366
+dailymirrorlk | 3,367
 adaderanasinhalalk | 3,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,631 (100.0%) of 21,635 articles have been extended.
+21,635 (100.0%) of 21,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-29 (Monday)
 
-### සාමාන්‍ය පෙළ අවසන් වූ සැණින් උසස් පෙළ පන්ති ඇරඹෙයි
+### இடி விழுந்ததில் ஒருவர் பலி
+
+*2024-04-29 18:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடி-விழுந்ததில்-ஒருவர்-பலி/175-336517) · `ta`
+
+முல்லைத்தீவு மாவட்டம் ஐயங்கன்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஜயங்கன்குளம் பகுதியில், திங்கட்கிழமை (29) மாலை   மின்னல் தாக்கி இடி விழுந்ததில் குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் ஒருவர் படுகாயமடைந்துள்ளனர்
+
+மழை பெய்து கொண்டிருந்த சந்தர்ப்பத்தில் மரத்தின் கீழே நின்றிருந்தவர்கள் மீதே இடி விழுந்துள்ளதாக பொலிஸார் தெரிவித்தனர்
+
+சம்பவத்தில் ஜயங்கன்குளம் பகுதியை சேர்ந்த முன்னாள் போராளியான மூன்று பிள்ளைகளின் தந்தையான காளிமுத்து சண்முகராஜா (49) என்ற குடும்பஸ்தர் உயிரிழந்துள்ளதுடன் ,ஜயங்கன்குளம் புத்துவெட்டுவான் பகுதியை சேர்ந்த மகேந்திரன் பிரபாகரன் (26) என்ற இளைஞர்
+
+படுகாயமடைந்த நிலையில் மல்லாவ ஆதார வைத்திய சாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்
+
+◼️
+
+[Data](articles/3648f666.json)
+
+---
+
+### Fowzie noticed to appear before court over corruption case
+
+*2024-04-29 18:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fowzie-noticed-to-appear-before-court-over-corruption-case/108-281579) · `en`
+
+Colombo, April 29 (Daily Mirror) - The Colombo High Court issued a notice today directing Samagi Jana Balawegaya (SJB) parliamentarian A.H.M. Fowzie to appear before Court on May 22 over the indictment filed against him on corruption charges.
+
+The Bribery Commission filed this corruption case against A.H.M. Fowzie for allegedly causing a Rs.1.07 million unlawful loss to the government by misusing a vehicle belonging to the Disaster Management Centre between 2010 and 2015.
+
+When the matter was called before Colombo High Court Judge Navaratne Marasinghe, parliamentarian A.H.M. Fowzie was not present in court. Court was informed that he was suffering from an illness. Accordingly, the case was fixed for May 22.
+
+On a previous occasion, the defence counsel informed court that his client had requested the Bribery Commission to withdraw the indictment considering the maintainability of the indictment.
+
+...
+
+[Data](articles/9caf11c4.json)
+
+---
+
+### A / Lines begin with the end of the Ordinary Level
 
 *2024-04-29 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196102) · `si`
 
-මෙවර සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහාම විභාගයට පෙනී සිටි සිසුන් සඳහා පාසල්වල උසස් පෙළ පන්ති ආරම්භ කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Education Minister Susil Premajayantha announced plans to start Advanced Level classes for students who took the GCE O/L examination, due to school closures during the COVID-19 pandemic. Recruitment for A/L science, math, tech, and foreign language teachers is underway, with interviews this week.
 
-ජාතික අධ්‍යාපන ආයතනයේ නිල අන්තර්ජාල ගුවන් විදුලි නාලිකාව ආරම්භ කිරීම අවස්ථාවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍යවරයා සඳහන් කළේ පසුගිය කොවිඩ් ව්‍යසන සමයේ පාසල් වසා තැබීම නිසා අතපසු වූ අධ්‍යයන කටයුතු හා පාසල් විභාග කාලසටහන යථාවත් කිරීමේ වැඩපිළිවෙළ අනුව මෙම තීරණය ගෙන ඇති බවය.
+Minister of Education Susil Premajayantha says that steps will be taken to start Advanced Level Classes for students who sat the examination as soon as the GCE O / L examination.
 
-මෙම අභියෝගාත්මක කාර්යය සිදුකිරීම සඳහා ගුරුභවතුන්ගේ ද දැඩි කැපවීමක් අවශ්‍ය බවද අමාත්‍යවරයා එහිදී පෙන්වාදුන්නේය.
+The Minister was speaking at the opening of the official internet radio channel of the National Institute of Education.
 
-ඒ සඳහා මේ වන විටත් උසස් පෙළ විද්‍යා, ගණිත, තාක්ෂණවේදය හා විදේශ භාෂා විෂය ධාරා ඉගැන්වීමට අලු‍තෙන් ගුරුවරුන් 3000ක් බඳවා ගන්නා බවත් අමාත්‍යවරයා සඳහන් කළේය.
+Speaking further the Minister said that the decision was taken by the decision to recover due to the closure of schools during the course of the past covod disaster.
 
-මේ සතිය තුළ ඔවුන් බඳවා ගැනීමේ සම්මුඛ පරීක්ෂණ පවත්වා අවසන් වන බවත් මෙහිදී අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+The Minister also pointed out that a severe commitment to the teacher is also necessary to perform this challenging task.
+
+The Minister said that it is currently being recruited to the A / L science, mathematics, technology and foreign language subjects.
+
+The Minister added that the interviews of recruiting interviews will be taken up this week.
 
 ...
 
 [Data](articles/001cae4c.json)
+
+[Extended Data](ext_articles/001cae4c.ext.json)
 
 ---
 
@@ -716,6 +758,8 @@ In response, BASL President Kaushalya Navaratne and Secretary Chathura A. Galhen
 
 [Data](articles/37329723.json)
 
+[Extended Data](ext_articles/37329723.ext.json)
+
 ---
 
 ### BASL urges President to remove Minister Alles
@@ -885,6 +929,8 @@ Citizens of People's Struggle staged a protest outside the Criminal Investigatio
 ◼️
 
 [Data](articles/fb2fa445.json)
+
+[Extended Data](ext_articles/fb2fa445.ext.json)
 
 ---
 
@@ -1453,6 +1499,32 @@ Japan's Foreign Minister Yogo Kamika is to make an official visit to Sri Lanka. 
 [Data](articles/4628f70e.json)
 
 [Extended Data](ext_articles/4628f70e.ext.json)
+
+---
+
+### මැයි දිනය : ජනපති සටනට ශක්තිය පෙන්වමින් මැයි ප්‍රධාන මැයි රැලි කොළඹ දී
+
+*2024-04-29 12:24:58* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpegdg1nwq8o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ප්‍රධාන මැයි රැලි සහ පෙළපාලි පැවැත්වෙන ස්ථාන ඔබ දන්නවා ද?
+
+මැයි දිනය : ජනපති සටනට ශක්තිය පෙන්වමින් මැයි ප්‍රධාන මැයි රැලි කොළඹ දී
+
+ඉදිරියේ දී පැවැත්වීමට නියමිත ජනාධිපතිවරණය සඳහා ජන බලය ප්‍රදර්ශනය කරමින් මෙවර මැයි දින රැලි සහ පෙළපාලි සංවිධානය කිරීමට ප්‍රධාන දේශපාලන පක්ෂ හා කණ්ඩායම් කටයුතු කරමි සිටී.
+
+ජනාධිපති රනිල් වික්‍රමසිංහගේ ප්‍රධානත්වයෙන් එක්සත් ජාතික පක්ෂයේ මැයි රැලිය කොළඹ, මාළිගාවත්ත පොලීසිය ඉදිරිපිට දී පැවැත්වීමට නියමිතව ඇත.
+
+ජාතික ජන බලවේගය කොළඹ, යාපනය, මාතර සහ අනුරාධපුරයේ දී මැයි රැලි හතරක් සංවිධානය කරනු ලැබේ.
+
+කොළඹ චැතම් වීදියේ සහ වතුකරයේ මැයි රැලි දෙකක් පැවැත්වීමට සමගි ජන බලවේගය සුදානම් වේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ බොරැල්ල, කැම්බල් පිටියේ දී මැයි රැලිය පැවැත්වීමට නියමිතව ඇත.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මෛත්‍රී පාර්ශවය ගම්පහ දී මැයි රැලිය පවත්වන බවට පවසා තිබේ.
+
+◼️
+
+[Data](articles/82557aed.json)
 
 ---
 
@@ -2355,79 +2427,5 @@ A ceremony for students who studied under the project was held at Mahinda Wijese
 [Data](articles/022169a8.json)
 
 [Extended Data](ext_articles/022169a8.ext.json)
-
----
-
-### Exclusive surgery that leased two kidneys leased together
-
-*2024-04-29 10:02:00* · [`adalk`](https://www.ada.lk/breaking_news/එකට-බද්ද-වූ-වකුගඩු-දෙකක-ගල්-ඉවත්-කළ-සුවිශේෂි-සැත්කම/11-409314) · `si`
-
-A rare surgery at Nagoda Teaching Hospital in Kalutara removed two kidneys, using advanced technology. The operation, performed by specialist surgeons, involved the removal of stones from the kidneys using a high-end laser and Disposable Flexible Yuritroscopy. This minimally invasive procedure allows patients to resume normal activities within days.
-
-🟩
-
-A special surgery to be removed under the latest two kidneys, which are rare to one of the two kidneys, which are exacerbated in 500 people, was taken under the latest technology under the latest technology.
-
-The special operation was held by the Kidney and Holding Hospital in the Nagoda Teaching Hospital in Kalutara.
-
-Specialist Surgeons of the Kidney and the Holy Surgeon Surgeons at the Kakuna and Holy Surgery Surgeon of the Nagoda Teaching Hospital, Kalutara General Surgeons.
-
-A special day for the kidneys and morally surgical unit of the Nagoda Teaching Hospital in Kalutara today. The removal of stones of the 150th kidneys in our sector today. This surgery is special. This surgery, we do to remove the rocks of two kidneys, which were connected to two kidneys, on two kidneys.
-
-Two kidneys in a horse firm. But this is not a wictory. A 38-year-old male was held at this surgery today. Another highlight of this surgery was the most modern equipment we used in this surgery.
-
-...
-
-[Data](articles/6e4a42d0.json)
-
-[Extended Data](ext_articles/6e4a42d0.ext.json)
-
----
-
-### 37th Memorial of the Massacre!
-
-*2024-04-29 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182196) · `ta`
-
-In Pattittal village, 17 members of a Christian family were murdered in 1987. Despite 37 years, no justice or relief for the victims' families. The incident occurred amidst a military conflict, with survivors claiming soldiers shot at them upon entering their home.
-
-🟩
-
-Relatives of the victims say that there have been no justice and relief for the relations that have been killed in the massacre in the Pattittal area.
-
-At the time of the massacre in Pattittal village, 17 people from the same family were murdered.
-
-37 years have been completed with the last 26th. However, members of the affected families say that there have been no justice and relief for the affected relations so far.
-
-At the Muttur Divisional Secretariat Division, 17.04.1987, 17 members of Christianity were murdered in the village of Pattittal.
-
-It includes three infants and schoolchildren and students. Only Konan Lokanathan and Mary Ganesapillai survived the house.
-
-On the day of the murder, some soldiers were killed in a mines attack on the Trincomalee -Batticaloa main road in the area near Pattititta.
-
-...
-
-[Data](articles/aed855b5.json)
-
-[Extended Data](ext_articles/aed855b5.ext.json)
-
----
-
-### New Zealand name T20 World Cup 2024 squad
-
-*2024-04-29 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Zealand-name-T20-World-Cup-2024-squad/108-281548) · `en`
-
-(ICC) - Experienced batter Kane Williamson has been named captain as New Zealand became the first team to announce their squad for June's ICC Men's T20 World Cup.
-
-The Kiwis named their 15-player squad for the ninth edition of the 20-over showcase on Monday, with the Black Caps opting for an experienced squad that includes Williamson and fast bowling duo Tim Southee and Trent Boult.
-
-It will be the sixth appearance for Williamson at a T20 World Cup and fourth as skipper, with Southee set for his seventh appearance at the tournament and Boult his fifth as the Kiwis seek a first title in the shortest international format of the game.
-
-There were no major surprises in New Zealand's squad, with key pacer Kyle Jamieson (back) and all-rounder Adam Milne (ankle) ruled out of the event through injury and the likes of Will O'Rourke, Tom Latham, Tim Seifert and Will Young missing out on selection despite some recent good form against the white-ball.
-
-...
-
-[Data](articles/36a68212.json)
-
-[Extended Data](ext_articles/36a68212.ext.json)
 
 ---

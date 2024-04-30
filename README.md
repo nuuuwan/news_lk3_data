@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 09:03:57**
+As of **2024-04-30 09:18:26**
 
 ## Newspaper Stats
 
@@ -26,51 +26,71 @@ adaderanasinhalalk | 3,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,758 (100.0%) of 21,761 articles have been extended.
+21,761 (100.0%) of 21,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### உடலியல் ரீதியான தண்டனையை முடிவுக்குக்கொண்டுவருவதற்கான சர்வதேச தினம் இன்று
+### International Day to end the physiological punishment today
 
 *2024-04-30 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/182281) · `ta`
 
-உடலியல் ரீதியான தண்டனையை முடிவுக்குக்கொண்டுவருவதற்கான சர்வதேச தினம் இன்றாகும். உலகளாவிய ரீதியில் வருடாந்தம் 1.3 பில்லியன் சிறுவர்கள் உடலியல் ரீதியான தண்டனைகளால் பல்வேறு விதங்களிலும் பாதிப்புக்களுக்கு உள்ளாவதாக தரவுகள் கூறுகின்றன. இலங்கையில் பாடசாலைகளில் மாணவர்களுக்கு உடலியல் ரீதியான தண்டனைகள் வழங்கப்படுவதை முடிவுக்குக்கொண்டுவருவதற்குரிய நடவடிக்கைகள் அவ்வப்போது முன்னெடுக்கப்பட்ட போதிலும், அவை எதிர்பார்க்கப்பட்ட பலனைத் தரவில்லை.
+Today marks the International Day to end physiological punishment. In Sri Lanka, organizations like STOP Cruelty Trust and SEP are fighting against this practice, especially in schools. A social campaign, Noguti 2.0, aims to pressure the government to amend the Penal Code to ban physiological punishment. A survey shows 80% of students were subjected to it, impacting their physical and psychological health.
+
+🟩
+
+Today is the International Day to end the physiological punishment. According to data, 1.3 billion children are affected by physiological punishment annually in the world.. Despite the occasional measures to end the physiological punishment for students in schools in Sri Lanka, they have not been expected.
+
+Therefore, in Sri Lanka, especially in schools, the STOP Child Cruelty Trust (STOP Cruelty Trust), the 19 Child Protection Alliance (SEP), which coordinates the 19 -year -old Child Protection Alliance, which is aimed at ending the course of physiological punishment in schools, in order to end the tendency of the physiological punishment in the school.Noguti 2.0 - Sinhala, which gives the meaning of 'no feet' in Tamil), is launching a social networking campaign from the 1st to 30 days from today (30) today (30).. The campaign was already launched on social networks and beyond the name of Noguti in 2022.
 
 ...
 
 [Data](articles/bc4ea302.json)
 
+[Extended Data](ext_articles/bc4ea302.ext.json)
+
 ---
 
-### ධෝනි, ෂර්මා සහ කෝලි ගැන  නොදන්න කතාවක් කුසල් හෙළිකරයි
+### Kusal reveals a story not know about the louder, Sharma and Coly
 
 *2024-04-30 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196119) · `si`
 
-2017 වසරේ දී එංගලන්තයේදී පැවැති ICC ශූරයින්ගේ කුසලාන තරගාවලියේ දී ඉන්දියාවට එරෙහි තරගය තමා ක්‍රීඩා කළ හොඳම ඉනිම බව ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් පවසයි.
+Kusal Mendis recalls his best ODI innings against India in the 2017 ICC Champions Trophy, highlighting a memorable match with Dhanushka Gunatilleke. They faced a challenging 320 run chase, with Mendis scoring 100 and 150 in tests and ODIs, respectively.
 
-දෙරණ 360 සංවාද වැඩසටහනට ඊයේ (29) එක් වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් කුසල් මෙන්ඩිස් පවසා සිටියේ, එම තරගයේ දී තමා සහ ධනුෂ්ක ගුණතිලක පන්දුවට පහර දෙන අවස්ථාවේදී ඉන්දීය ක්‍රිකට් ක්‍රිඩකයින් වන මහේන්ද්‍ර සිං ධෝනි, රෝහිත් ෂර්මා, විරාත් කෝලි සිනා වූ අයුරු අමතක නොවන සිදුවීමක් බවය.
+Sri Lanka ODI Kusal Mendis says that he was the best innings against India at the Trophy of the ICC Champion Championship in England in 2017.
+
+He was speaking at the Adawra 360 conversation program yesterday (29).
+
+Speaking further Kusal Mendis said that he and Dhanushka Gunatilleke batting in the match were a memorable incident.
 
 ...
 
 [Data](articles/2d8811f7.json)
 
+[Extended Data](ext_articles/2d8811f7.ext.json)
+
 ---
 
-### விகாராதிபதியினால் ஆக்கிரமிக்கப்பட்டுள்ள தமது விவசாயக் காணிகளை பெற்றுத்தருமாறு விவசாயிகள் கோரிக்கை
+### Farmers demand that they get their agricultural land occupied by the Vikramadi
 
 *2024-04-30 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182280) · `ta`
 
-குச்சவெளி – திரியாய் கிராம சேவகர் பிரிவுக்குட்பட்ட ஆத்திக்காட்டுவெளி பகுதியில் உள்ள தமிழ் மக்களின் பாரம்பரிய விவசாயக் காணிகளில் பௌத்த பிக்கு ஒருவர் விவசாயம் மேற்கொண்டு வருவதாகவும் இதனால் தமது வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளதாகவும் அவற்றை தமது வாழ்வாதாரத்திற்காக மீட்டுத் தருமாறு விவசாயிகள் கோரிக்கை விடுக்கின்றனர்.
+Farmers are demanding that a Buddhist monk cultivate in the traditional agricultural lands of the Tamil people in the Athikattuveli area of ​​the Kuchchaveli - Thiriyai Grama Niladhari Division, and that their livelihood has been affected.
 
-ஆத்திக்காடு பகுதியில் உள்ள 88 ஏக்கர் காணி பானாமுரே திலகவங்ச நாயக்க தேரர் என்ற பௌத்த பிக்கு ஒருவரின் பெயரில் தற்காலிக இடாப்பு பதிவு மேற்கொள்ளப்பட்டு கிட்டத்தட்ட 3 வருடங்களாக சிறுபோக நெற்செய்கை மேற்கொள்ளப்பட்டு வருவதாகவும், இதற்காக அரசாங்கத்திடம் இருந்து 20 சிங்கள மக்களின் பெயரில் மானியப் பசளை பெற்று வருவதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
+Farmers say that 88 acres of land in the Attikkadu area has been in the name of a Buddhist monk named Buddhist monk in the name of a Buddhist monk for nearly 3 years.
+
+Farmers say that the people of Kuchchaveli have been engaged in farming in the land of the hereditary lands before 1984, and that when the situation was displaced due to the war situation, large numbers of agrarian lands, including the confirmation of the area and the pamid lands in the area, were acquired by the Forest Resource Protection Department.
+
+In 2021, 88 acres and more land in the area was occupied by the Sapbhata Forest Senasuna Viharakarakam in the area.
 
 ...
 
 [Data](articles/1ce000fc.json)
+
+[Extended Data](ext_articles/1ce000fc.ext.json)
 
 ---
 

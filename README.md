@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 13:03:51**
+As of **2024-04-30 13:18:36**
 
 ## Newspaper Stats
 
-*Scraped **21,821** Articles*
+*Scraped **21,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,828
 tamilmirrorlk | 2,534
-adaderanalk | 2,585
+adaderanalk | 2,586
 virakesarilk | 3,284
 dailymirrorlk | 3,401
 adaderanasinhalalk | 3,532
@@ -26,17 +26,39 @@ adaderanasinhalalk | 3,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,818 (100.0%) of 21,821 articles have been extended.
+21,821 (100.0%) of 21,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
+### Ukraine’s ‘Harry Potter Castle’ hit in Russian missile strike, at least 4 killed
+
+*2024-04-30 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98935/ukraines-harry-potter-castle-hit-in-russian-missile-strike-at-least-4-killed) · `en`
+
+At least four people have been killed in a Russian missile strike that hit a Gothic-style building in the southern Ukrainian city of Odesa.
+
+Known to locals as the “Harry Potter Castle”, its turrets were still burning at nightfall and emergency services graded the blaze severe.
+
+Residents reportedly did not have enough time to take shelter as air raid alerts only happened a few minutes before the strike.
+
+“The type of missile is currently being checked; forensic specialists are carrying out the appropriate evaluations to this end,” said a spokesperson for Ukraine’s Southern Defense Forces, Dmytro Pletenchuk.
+
+“All services, including the State Emergency Service, are currently working to eliminate the consequences of the missile strike - yet another war crime.”
+
+Visiting the capital Kyiv earlier on Monday, NATO Secretary General Jens Stoltenberg said the alliance’s members had failed to deliver what they promised to Ukraine in good time, allowing Russia to exploit battlefield advantages.
+
+...
+
+[Data](articles/0d44cf30.json)
+
+---
+
 ### UK Policeman spared jail after assault on innocent Sri Lankan
 
 *2024-04-30 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-Policeman-spared-jail-after-assault-on-innocent-Sri-Lankan/108-281651) · `en`
 
-UK, April 30 (Independent) - A serving UK Metropolitan Police officer who assaulted an innocent Sri Lankan after mistaking him for a criminal has been spared jail.
+UK, April 30 (The Independent) - A serving UK Metropolitan Police officer who assaulted an innocent Sri Lankan after mistaking him for a criminal has been spared jail.
 
 PC Jonathan Marsh, 34, had been called out to Atlanta Boulevard in Romford, east London, on 13 November 2022 after a medical worker reported someone was damaging a sign outside and making threats to kill.
 
@@ -51,6 +73,8 @@ After the incident, he complained to the Met Police and the force referred the c
 ...
 
 [Data](articles/0a2e1c8f.json)
+
+[Extended Data](ext_articles/0a2e1c8f.ext.json)
 
 ---
 
@@ -68,23 +92,31 @@ The airman was arrested by the Sri Lanka Air Force. The Katunayake Airport Polic
 
 [Data](articles/200177ea.json)
 
+[Extended Data](ext_articles/200177ea.ext.json)
+
 ---
 
-### வழக்கில் இருந்து மஹிந்தானந்த விடுதலை
+### Mahindananda release from the case
 
 *2024-04-30 12:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கில்-இருந்து-மஹிந்தானந்த-விடுதலை/175-336550) · `ta`
 
-முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கில் இருந்து அவர் விடுவிக்கப்பட்டுள்ளார்.
+Mahindananda Aluthgamage, a former minister, has been acquitted from a case filed under the Prevention of Money Laundering Act for allegedly buying a luxury house on Kinzi Road in Colombo. The Colombo High Court ordered his release.
 
-அவர் அமைச்சராக இருந்த காலப்பகுதியில்  சட்டவிரேதமான முறையில் கொழும்பில் கின்சி வீதியில் சொகுசு வீடொன்றை கொள்வனவு  செய்ததாக பணமோசடி தடுப்பு சட்டத்தின் கீழ் வழக்கு தொடரப்பட்டது.
+🟩
 
-இந்த வழக்கில் இருந்து  முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவை விடுதலை செய்ய கொழும்பு மேல் நீதிமன்றம் இன்று(30) உத்தரவிட்டுள்ளது.
+He has been acquitted from a case filed against former minister Mahindananda Aluthgamage.
 
-கடந்த நல்லாட்சி அரசாங்கத்தின் போது முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவுக்கு எதிராக சட்டமா அதிபால் இந்த வழக்கு தாக்கல் செய்யப்பட்டிருந்தது.
+During his tenure as a minister, a case was filed under the Prevention of Money Laundering Act for allegedly buying a luxury house on Kinzi Road in Colombo.
+
+The Colombo High Court today (30) ordered the release of former Minister Mahindananda Aluthgamage from the case.
+
+During the last good governance government, the case was filed by the Attorney General against former Minister Mahindananda Aluthgamage.
 
 ◼️
 
 [Data](articles/285f0992.json)
+
+[Extended Data](ext_articles/285f0992.ext.json)
 
 ---
 
@@ -2221,29 +2253,5 @@ While addressing an event organized in Ratnapura to distribute smart agriculture
 [Data](articles/72fd9d83.json)
 
 [Extended Data](ext_articles/72fd9d83.ext.json)
-
----
-
-### Fahmy doing it…his way
-
-*2024-04-29 22:53:00* · [`islandlk`](http://island.lk/fahmy-doing-ithis-way/) · `en`
-
-Fahmy Nazick will be seen in action at the Anchorman’s 20th Anniversary Gala Dinner Dance, on 31st, May, in Canada, and he is eagerly looking forward to entertaining the large crowd expected with his style of music.
-
-Says Fahmy: “Lots of events are taking place but not my style of music. I have nothing against oriental music but that seems to be the trend now.
-
-“In fact, Binara, from Binara and the Clan, reached out to me recently and is keen to organise a dance and have me doing all my style of music because he says that some of the audience may not even know what western music is like.
-
-Fahmy is a classy singer whose style of singing covers the Elvis Presley/Jim Reeves era.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/2dc67170.json)
-
-[Extended Data](ext_articles/2dc67170.ext.json)
 
 ---

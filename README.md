@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 07:17:51**
+As of **2024-04-30 07:41:47**
 
 ## Newspaper Stats
 
-*Scraped **21,745** Articles*
+*Scraped **21,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,817
-tamilmirrorlk | 2,522
+tamilmirrorlk | 2,523
 adaderanalk | 2,578
 virakesarilk | 3,270
 dailymirrorlk | 3,389
@@ -26,27 +26,33 @@ adaderanasinhalalk | 3,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,737 (100.0%) of 21,745 articles have been extended.
+21,745 (100.0%) of 21,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### එකම පවුලේ දරු දෙදෙනාට අකුණු සැර වැදිලා
+### Lightning strikes the two children of the same family
 
 *2024-04-30 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196112) · `si`
 
-රත්තොට, වැල්ගාලයාය ප්‍රදේශයේ නිවසක සිටි සහෝදරයෙකුට හා සහෝදරියකට අකුණු සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+Lightning struck two children in Rattota, Velgala, killing a 12-year-old. The bodies are at Rattota hospital, and police are investigating.
 
-ඊයේ (29) සවස් කාලයේදී ඇති වූ වර්ෂාව සමග අකුණු සැර වැදී ඇති බව පොලීසිය පවසයි.
+🟩
 
-අකුණු සැර වැදී මියගොස් ඇත්තේ, වැල්ගාලයාය, රත්තොට ප්‍රදේශයේ පදිංචි 12 හැවිරිදි කුඩා දැරියක් හා 23 හැවිරිදි තරුණයෙකි.
+A brother and sister who was in a house in the Velaladuaya area in Rattota has died.
 
-මෘත ශරීර රත්තොට රෝහලේ තැන්පත් කර ඇති අතර රත්තොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+Lightning was hit with rain in the evening yesterday (29), police said.
+
+The victim was a 12 year old, a 12 year old resident of Rattota, Velgala, Velgala.
+
+The bodies were placed at the Rattota hospital and Rattota Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/80a8ffc2.json)
+
+[Extended Data](ext_articles/80a8ffc2.ext.json)
 
 ---
 
@@ -64,6 +70,8 @@ Speaking to the media, he said that Sri Lanka hosted the Asia Pacific Region II 
 
 [Data](articles/4f582876.json)
 
+[Extended Data](ext_articles/4f582876.ext.json)
+
 ---
 
 ### Heavy taxes for public, duty free vehicles for MPs, senior officials?
@@ -80,6 +88,8 @@ The MPs who served in the previous Parliaments received such permits. However, t
 
 [Data](articles/52595439.json)
 
+[Extended Data](ext_articles/52595439.ext.json)
+
 ---
 
 ### Lankan students return after showcasing robotic skills
@@ -91,6 +101,8 @@ Sri Lankan students from the Burhani Serendib School in Colombo who participated
 ◼️
 
 [Data](articles/670e55d4.json)
+
+[Extended Data](ext_articles/670e55d4.ext.json)
 
 ---
 
@@ -140,6 +152,8 @@ The payments of other taxes such as Value Added Tax, Social Security Contributio
 
 [Data](articles/f14f076b.json)
 
+[Extended Data](ext_articles/f14f076b.ext.json)
+
 ---
 
 ### NPP accepts Daily Mirror invitation for political debate, Sajith’s confirmation awaited
@@ -157,6 +171,8 @@ The official invitation to President Ranil Wickremesinghe will be handed over so
 ...
 
 [Data](articles/19ab1f0a.json)
+
+[Extended Data](ext_articles/19ab1f0a.ext.json)
 
 ---
 
@@ -179,6 +195,8 @@ Financial behaviour refers to the way a person manages his or her money, makes f
 ...
 
 [Data](articles/89bcfdad.json)
+
+[Extended Data](ext_articles/89bcfdad.ext.json)
 
 ---
 
@@ -512,19 +530,41 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 
 ---
 
-### மாமியாரைக் கொலை செய்த மருமகன் கைது
+### பஸ்களை கோரியுள்ள அரசியல் கட்சிகள்
+
+*2024-04-29 23:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களை-கோரியுள்ள-அரசியல்-கட்சிகள்/175-336536) · `ta`
+
+இம்முறை மே தின பேரணியை முன்னிட்டு பல அரசியல் கட்சிகளும் பஸ்களை கோரி விண்ணப்பித்துள்ளன என இலங்கை போக்குவரத்து சபை தெரிவித்துள்ளது.
+
+இந்த கோரிக்கைகளுக்கு அமைவாக கட்சிகளுக்கு தேவையான பஸ்களை வழங்குமாறு அனைத்து டிப்போக்களுக்கும் அறிவிக்கப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபை கூறியுள்ளது.
+
+இதனிடையே, இம்முறையும் பல அரசியல் கட்சிகளால் மே தினக் கூட்டங்களுக்காக பஸ்களை வழங்குமாறு கோரிக்கை விடுக்கப்பட்டுள்ளதாக இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.  (a)
+
+◼️
+
+[Data](articles/a7c41632.json)
+
+---
+
+### Nephew arrested for murdering mother -in -law
 
 *2024-04-29 23:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரைக்-கொலை-செய்த-மருமகன்-கைது/175-336535) · `ta`
 
-மொனராகலை நக்கல பலம ஹந்திய பிரதேசத்தில் வீடொன்றில் ஏற்பட்ட வாக்குவாதத்தின் போது மருமகன் கத்தியால் தாக்கியதில் மாமியார் உயிரிழந்துள்ளார். மனைவியும் காயமடைந்துள்ளார் என மொனராகலை பொலிஸார் தெரிவித்துள்ளனர்.
+A nephew was arrested for murdering his mother-in-law in Nakkala, Moneragala, during a family dispute. The mother-in-law, Pushpa Kumari, 44, was killed, and her wife was injured.
 
-நக்கல பகுதியைச் சேர்ந்த சேர்ந்த புஷ்பா குமாரி (வயது 44) என்ற பெண்ணே உயிரிழந்துள்ளார்.
+🟩
 
-குடும்பப் பிணக்குக் காரணமாக ஏற்பட்ட தகராறில் இந்தக் கத்திக்குத்துச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The mother -in -law was killed when a son -in -law was hit by a knife in a house in Nakkala, Moneragala. Moneragala police said the wife was also injured.
+
+Pushpa Kumari (44 years old) from Nakkala has died.
+
+Police said that the knife incident took place in a dispute caused by a family dispute.
 
 ◼️
 
 [Data](articles/2877431a.json)
+
+[Extended Data](ext_articles/2877431a.ext.json)
 
 ---
 
@@ -2107,31 +2147,5 @@ Justice Minister Vijayadasa Rajapaksa, who has joined Maithripala Sirisena, who 
 [Data](articles/e0f9b641.json)
 
 [Extended Data](ext_articles/e0f9b641.ext.json)
-
----
-
-### Today in history
-
-*2024-04-29 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182251) · `ta`
-
-In 1974, K. Abou. Devanayagam, a Calcutta MP, urged the Tamil Alliance Action Committee to abandon a separate path, sparking controversy. Amirthalingam retorted, questioning the national parties' integrity.
-
-🟩
-
-Together with the Tamil parties, a Tamil general candidate is being held in the presidential election.
-
-Many people are exploring different and contradictory comments on the day of the presidential election.
-
-In 1974, the Calcutta MP. K. Abou. Devanayagam had told the Tamil Alliance Action Committee.
-
-In the Weerakesari magazine, published on April 29, 1974, "the Tamil coalition should abandon a separate way: Calcutta MP at the Action Committee meeting. Emphasize "in a message with an editorial.
-
-Against this comment, "Don't you know the story of a deceitful story with the national parties?"Amirthalingam replied the same day.
-
-◼️
-
-[Data](articles/cab48081.json)
-
-[Extended Data](ext_articles/cab48081.ext.json)
 
 ---

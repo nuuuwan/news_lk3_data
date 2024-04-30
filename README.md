@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 01:34:30**
+As of **2024-05-01 01:51:53**
 
 ## Newspaper Stats
 
-*Scraped **21,941** Articles*
+*Scraped **21,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,545
+tamilmirrorlk | 2,546
 adaderanalk | 2,597
 virakesarilk | 3,309
 dailymirrorlk | 3,425
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,941 (100.0%) of 21,941 articles have been extended.
+21,941 (100.0%) of 21,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,22 @@ In other words we have a huge gap between the number of candidates attempting to
 ---
 
 ### 2024-04-30 (Tuesday)
+
+### பொது வேட்பாளரை நிறுத்த தீர்மானம்
+
+*2024-04-30 23:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளரை-நிறுத்த-தீர்மானம்/175-336579) · `ta`
+
+ஜனாதிபதி தேர்தலில் பொது வேட்பாளரை நிறுத்துவதற்கு சிவில் சமூக செயற்பாட்டாளர்கள், மதத் தலைவர்கள்   தீர்மானித்துள்ளனர்
+
+குறித்த ஒன்று கூடல் அரசியல்  ஆய்வாளர் நிலாந்தன் தலைமையில்   வவுனியா புகையிரத வீதியில் அமைந்துள்ள RH விருந்தினர் விடுதியில், செவ்வாய்க்கிழமை (30) நடைபெற்றது.
+
+இதில் உரையாடலை அகத்தியர் அடிகளார், திருகோணமலை வண. ஆயர் நொயல் இமானுவேல்  வேலன் சுவாமிகள் உட்பட 48  சிவில் சமூக செயற்பாட்டாளர்கள்ஈ மத தலைவர்கள் என கலந்து  கொண்டிருந்தனர். இதன்போதே, ஜனாதிபதி தேர்தலில் பொது வேட்பாளரை நிறுத்த தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/17d6f268.json)
+
+---
 
 ### Sri Lanka qualified for the Asia Rugby 1st final
 
@@ -2239,29 +2255,5 @@ The UNP will hold a May Day rally running in Colombo Fort and hold a May Day ral
 [Data](articles/a93dd811.json)
 
 [Extended Data](ext_articles/a93dd811.ext.json)
-
----
-
-### Special notice from the police
-
-*2024-04-30 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196130) · `si`
-
-Police urge drivers not to give money to beggars near road signs. DIG Indika Hapugoda emphasized that without financial support, beggars will not gather in these areas.
-
-🟩
-
-The police call on drivers to prevent money from paying money to the beggars on the road to the Road Signals.
-
-Speaking at a press conference held at the Government Information Department, DIG Indika Hapugoda said that.
-
-DIG Indika Hapugoda added that if money is not allowed to pay for people's money, they will not come to the places.
-
-DIG Indika Hapugoda watching this regard by the video of the above video ...
-
-◼️
-
-[Data](articles/94f624ec.json)
-
-[Extended Data](ext_articles/94f624ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 13:34:42**
+As of **2024-04-30 13:53:15**
 
 ## Newspaper Stats
 
-*Scraped **21,827** Articles*
+*Scraped **21,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,828
-tamilmirrorlk | 2,534
+tamilmirrorlk | 2,535
 adaderanalk | 2,586
 virakesarilk | 3,287
 dailymirrorlk | 3,401
@@ -26,47 +26,81 @@ adaderanasinhalalk | 3,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,822 (100.0%) of 21,827 articles have been extended.
+21,827 (100.0%) of 21,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### පොලීසියෙන් විශේෂ දැනුම්දීමක්
+### Special notice from the police
 
 *2024-04-30 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196130) · `si`
 
-මාර්ග සංඥා අසළ මාර්ගයේ සිඟමනේ යෙදෙන යාචකයින්ට මුදල් දීමෙන් වළකින ලෙස රියදුරන්ගෙන් පොලීසිය ඉල්ලා සිටී.
+Police urge drivers not to give money to beggars near road signs. DIG Indika Hapugoda emphasized that without financial support, beggars will not gather in these areas.
 
-රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා ඒ බව සඳහන් කළේය.
+🟩
 
-සිඟමන් යදින පිරිස් සඳහා මුදල් ලබාදීමෙන් වැළැකී සිටියහොත් ඔවුන් එම ස්ථානයන් වෙත නොපැමිණෙන බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා වැඩිදුරටත් පැවසීය.
+The police call on drivers to prevent money from paying money to the beggars on the road to the Road Signals.
 
-නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ සම්බන්ධයෙන් වැඩිදුරටත් දැක්වූ අදහස් ඉහත වීඩියෝවෙන් නරඹන්න...
+Speaking at a press conference held at the Government Information Department, DIG Indika Hapugoda said that.
+
+DIG Indika Hapugoda added that if money is not allowed to pay for people's money, they will not come to the places.
+
+DIG Indika Hapugoda watching this regard by the video of the above video ...
 
 ◼️
 
 [Data](articles/94f624ec.json)
 
+[Extended Data](ext_articles/94f624ec.ext.json)
+
 ---
 
-### இலங்கையில் ரணில் அரசியல் அதிசயத்தை நிகழ்த்தியுள்ளார் - எரிக்சொல்ஹெய்ம்
+### விமான நிலையத்தில் துப்பாக்கி வெடித்தது
+
+*2024-04-30 13:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-துப்பாக்கி-வெடித்தது/175-336552) · `ta`
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் விசேட பிரமுகர்கள் பயன்படுத்தும் முனையத்தில் கடமையில் ஈடுபட்டிருந்த இலங்கை விமானப்படையின் விமானப்படை வீரர் ஒருவரின் துப்பாக்கி செவ்வாய்க்கிழமை (04) காலை தீடிரென வெடித்ததில் முனையத்தின் கூரை சேதமடைந்துள்ளது.
+
+சிறிலங்கா விமானப்படையின் தலைமை விமானப்படையைச் சேர்ந்தவரிடம்  இருந்த T-56 ரக துப்பாக்கி தவறுதலாக காலை 10.30 மணியளவில் வெடித்துள்ளது என்றும் இதனால்,  உயிர் சேதம் ஏற்படவில்லை எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+கட்டுநாயக்க விமான நிலையத்தில், பணம் செலுத்தி வசதிகளைப் பெறும் சிறப்பு விசேட விருந்தினர்கள் மற்றும் உலகின் முன்னணி வர்த்தகர்கள் இந்த முனையத்தின் ஊடாக அடிக்கடி பயணங்களை மேற்கொள்கின்றனர்.
+
+கடமையில் இருந்த விமானப்பட வீரர் கைது செய்யப்பட்டுள்ளார்.  இது தொடர்பான மேலதிக விசாரணைகளை கட்டுநாயக்க விமான நிலைய பொலிஸார் மற்றும் இலங்கை விமானப்படையினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/35fbbb63.json)
+
+---
+
+### Ranil has performed political miracle in Sri Lanka - Eriksolheim
 
 *2024-04-30 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182317) · `ta`
 
-இலங்கையில் ஜனாதிபதி ரணில்விக்கிரமசிங்க அரசியல் அதிசயத்தை நிகழ்த்தியுள்ளார் என நோர்வேயின் இலங்கைக்கான முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் தெரிவித்துள்ளார்..
+Eriksolheim praises Ranil Wickremesinghe for a political miracle in Sri Lanka, overcoming a severe crisis with low inflation and stability, despite life remaining difficult for many.
 
-நெருக்கடியின் போது அச்சமடைந்து ஓடாதவர் என்ற தனது சமூக ஊடக பதிவில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-18 மாதங்களிற்கு முன்னர் நாடு முன்னொருபோதும் இல்லாத மிக மோசமான நெருக்கடி நிலையில் சிக்குண்டிருந்தது என அவர் தெரிவித்துள்ளார்.
+Norway's former peace ambassador to Sri Lanka, Eriksolheim, has said that President Ranil Wickremesinghe has carried out a political miracle in Sri Lanka.
 
-தொடர்ச்சியாக மின்சார துண்டிப்பு காணப்பட்டது எரிபொருளிற்காக நீண்ட வரிசைகள் காணப்பட்டன -பணவீக்கம் மிகவேகமாக அதிகரித்துக்கொண்டிருந்தது அனேக வர்த்தகங்கள் வீழ்ச்சியடையும் நிலையில் காணப்பட்டன என தெரிவித்துள்ள அவர் மக்கள் ஜனாதிபதியை வீழ்த்தினார்கள் எனவும் குறிப்பிட்டுள்ளார்.
+He made this statement in his social media post that he was not afraid of the crisis.
 
-இலங்கையில் தற்போது ஸ்திரதன்மை மீண்டும் ஏற்படுத்தப்பட்டுள்ளது பணவீக்கம் மிகவும் குறைவாக காணப்படுகின்றது மின்துண்டிப்பும எரிபொருளுக்கான வரிசைகளும் கடந்தகால விடயங்களாகிவிட்டன எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He said the country was in a state of worst crisis 18 months ago.
 
-...
+The continuous power outage was seen by long queues for fuel -and the rapid rise of money was on the rise, he said.
+
+He added that the current stability in Sri Lanka has been repeated. Inflation is very low.
+
+Ericksolheim has posted that life is still difficult for many Sri Lankans.
+
+The person who did not flee the crisis was President Ranil Wickremesinghe and said that my longtime friends Ranilwickramasinghe in Sri Lanka, Ranilwickramasinghe, has said that it is very good to have a delicious dinner with his wife Maithri.
+
+◼️
 
 [Data](articles/01ad8fd5.json)
+
+[Extended Data](ext_articles/01ad8fd5.ext.json)
 
 ---
 
@@ -160,23 +194,29 @@ During the last good governance government, the case was filed by the Attorney G
 
 ---
 
-### அமெரிக்காவில் துப்பாக்கிச்சூடு : 3 பொலிஸார் பலி ; 4 பேர் காயம்
+### Firing in the United States: 3 police killed;4 people injured
 
 *2024-04-30 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182314) · `ta`
 
-அமெரிக்காவின் வடக்கு கரோலினா மாகாணம் சார்லொடி நகரில் உள்ள குடியிருப்பில் இடம்பெற்ற துப்பாக்கிச்சூட்டில் 3 பொலிஸார் உயிரிழந்துள்ளதுடன், 4 பேர் காயமடைந்துள்ளனர்.
+In Charloti, NC, 3 police were killed and 4 injured in a shootout at an apartment. The incident began when police, acting on confidential information, raided a house suspected of harboring weapons. The occupants opened fire, leading to the police retaliation. One suspect was killed, and one escaped.
 
-இந்த குடியிருப்பு பகுதியில்  சிலர் ஆயுதங்களுடன் இருப்பதாக பொலிஸாருக்கு ரகசிய தகவல் கிடைத்தது.
+🟩
 
-இதையடுத்து, குடியிருப்பு பகுதிக்கு சென்ற  பொலிஸார்  ஒரு வீட்டில் சோதனை செய்தனர்.  அப்போது, அந்த வீட்டில் பதுங்கி இருந்த நபர்கள் பொலிஸார் மீது சரமாரியாக துப்பாக்கிச்சூடு நடத்தினர்.  உடனடியாக சுதாரித்துக்கொண்ட பொலிஸார்  பதிலடி தாக்குதல் நடத்தினர்.
+Three policemen were killed and four others were injured in a shooting at an apartment in Charloti, North Carolina, USA.
 
-அதில் 3 பொலிஸார் உயிரிழந்துள்ளதோடு,  4 பொலிஸார்  படுகாயமடைந்தனர். துப்பாக்கிச்சூடு தாக்குதல் நடத்திய ஒரு நபர் உயிரிழந்தார்.
+Police received confidential information that some people were weapons in the residential area.
 
-மேலும் ஒருவர் தப்பியோடினார். இதையடுத்து, தப்பியோடிய நபரை பொலிஸார்  தீவிரமாக தேடி வருகின்றனர்.
+Subsequently, the police went to the residential area and raided a house.At the time, the men lurking in the house opened fire on the police.Immediately, the police retaliated and attacked.
+
+Three of them were killed and 4 policemen were injured. A man who was shot dead died.
+
+And one more escaped. Following this, the police are actively searching for the man who fled.
 
 ◼️
 
 [Data](articles/3ded3758.json)
+
+[Extended Data](ext_articles/3ded3758.ext.json)
 
 ---
 
@@ -200,21 +240,29 @@ He has gone there at a call by the Criminal Investigation Department to file a s
 
 ---
 
-### மட்டக்களப்பு சென்ற பிரித்தானிய உயர்ஸ்தானிகர் சாணக்கியனை சந்தித்து பேச்சு !
+### British High Commissioner to meet Batticaloa
 
 *2024-04-30 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182302) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட பாரளுமன்ற உறுப்பினர் இரா. சாணக்கியனுக்கும் பிரித்தானிய உயர்ஸ்தானிகருக்கம் இடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
+British High Commissioner meets Batticaloa MP, discussing issues like farming, environmental concerns, and land grabbing. Highlights include agricultural allowances and the need for power sharing to improve the region.
 
-பிரித்தானிய உயர்ஸ்தானிகர் சிறப்பு விஜயம் ஒன்றை மேற்கொண்டு மட்டக்களப்பு மாவட்டத்திற்கு நேற்று திங்கட்கிழமை (29) சென்றிருந்தார்.
+🟩
 
-மட்டக்களப்பை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர் என்னும் வகையில் சாணக்கியனுக்கும் பிரித்தானிய உயர்ஸ்தானிகருக்குமிடையில் தனிப்பட்ட சந்திப்பொன்று இடபெற்றது.
+Batticaloa District Parliamentarian of the Tamil National Alliance. There is a meeting between Chanakyan and the British High Commission.
 
-குறிப்பாக மட்டக்களப்பு மாவட்ட மக்கள் நேரடியாக முகம் கொடுக்கும் பிரச்சினைகளான மயிலத்தமடு மாதவனை பண்ணையாளர்களின் பிரச்சனை, கனிய வளங்களான இல்மனைட் அகழ்வு, இறால் வளர்ப்பு திட்டம் சம்பந்தமான சமூக மற்றும் சுற்றுச்சூழல் ரீதியிலான பிரச்சனைகள் மற்றும் சட்டவிரோத காணி அபகரிப்பு, சட்ட விரோதமான மீன்பிடி தொடர்பான பிரச்சனைகள் தொடர்பாக இதன்போது கலந்தாலோசிக்கப்பட்டது.
+The British High Commission had visited the Batticaloa district on Monday (29).
+
+As a Member of Parliament representing Batticaloa, a personal meeting was held between Chanakya and the British High Commission.
+
+The problems of the people of the Batticaloa district, especially in the Batticaloa district, were discussed on the problem of farmers, peanuts such as the Ilmanite excavation, social and environmental issues, and illegal land grabbing and illegal fishing issues.
+
+The agricultural primary allowance given to the farmers of the Batticaloa is given here on the place of Polonnaruwa.. Many times they are paying the money as they can. This is the same as the allowance for fertilizer.Chanakyan also urged the British High Commissioner that all three of our strategic livelihood agriculture and fishing veterinary are facing massive problems here.
 
 ...
 
 [Data](articles/27d5bebe.json)
+
+[Extended Data](ext_articles/27d5bebe.ext.json)
 
 ---
 
@@ -1544,6 +1592,8 @@ The criminal charges he been indicted on are for obstructing a free transfer of 
 
 [Data](articles/565d68ff.json)
 
+[Extended Data](ext_articles/565d68ff.ext.json)
+
 ---
 
 ### CID has arrested a group of bribes in a ruth
@@ -2209,31 +2259,5 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 [Data](articles/999610aa.json)
 
 [Extended Data](ext_articles/999610aa.ext.json)
-
----
-
-### Plan to contribute more to agriculture
-
-*2024-04-29 23:26:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்திற்கு-அதிக-பங்களிப்பை-வழங்க-திட்டம்/175-336537) · `ta`
-
-President Ranil Wickremesinghe announced a government plan to significantly boost agriculture, aiming to enhance the economy. This was highlighted at the launch of the Dilma Sinaman Business Name, which has expanded domestic exports and entered the Sri Lankan Cinnamon industry. The Tilma Business Name, known for bringing 'Ceylon Tea' to the international market, has introduced high-quality cinnamon products. The President emphasized the importance of cinnamon in the country's history and economy.
-
-🟩
-
-President Ranil Wickremesinghe said the government is planning to make maximum contribution to agriculture to improve the country's economy.
-
-The President said this while attending the launch of the Dilma Sinaman Business Name at the Colombo Hotel yesterday.
-
-The Tilma Business Name, which took the name 'Ceylon Tea' to the international market, has expanded the domestic exports through its company and enters the Sri Lankan Cinnamon industry and introduced the high -quality cinnamon products under the name of the Tilma business.
-
-President Ranil Wickremesinghe and World Recipes Association President Master Chef Thomas Kugler released Tilma Cinnah products. The President further addresses
-
-Cinnamon crop agriculture was the main crop of our country at that time. After the collapse of the Kingdom of Polonnaruwa, when our kingdoms were displaced to the Southwest Iravalaya, the cigarette industry was the one who brought the country's economy.
-
-...
-
-[Data](articles/c4b8b3f8.json)
-
-[Extended Data](ext_articles/c4b8b3f8.ext.json)
 
 ---

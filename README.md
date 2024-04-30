@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 08:05:56**
+As of **2024-04-30 08:18:30**
 
 ## Newspaper Stats
 
-*Scraped **21,750** Articles*
+*Scraped **21,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
-adalk | 1,817
+adalk | 1,818
 tamilmirrorlk | 2,523
-adaderanalk | 2,578
-virakesarilk | 3,270
+adaderanalk | 2,580
+virakesarilk | 3,272
 dailymirrorlk | 3,389
-adaderanasinhalalk | 3,519
+adaderanasinhalalk | 3,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,750 (100.0%) of 21,750 articles have been extended.
+21,750 (100.0%) of 21,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Fairly heavy showers expected in several provinces
+
+*2024-04-30 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98928/fairly-heavy-showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 1.00 p.m.
+
+Showers or thundershowers may occur at a few places elsewhere in the evening or night, it said.
+
+Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa and Uva provinces.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/73fad274.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - ජීවිත 4ක් බිලිගනී
+
+*2024-04-30 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196117) · `si`
+
+සෙවනගල හන්දිය, ගිනිගල්පැලැස්ස ප්‍රදේශයේදී සිදුවූ යතුරුපැදි අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (29) රාත්‍රී කාලයේදී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+සෙවනගල හන්දිය දෙස සිට ගිනිගල්ලපැලැස් දෙසට ධාවනය වූ යතුරුපැදික ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී එම අනතුර සිදුව තිබිණි.
+
+එලෙස මියගොස් ඇත්තේ, සෙවනගල ප්‍රදේශයේ පදිංචි 35 හැවිරිදි හා 46 හැවිරිදි පුද්ගලයින් දෙදෙනෙකි.
+
+මේ අතර අවිස්සාවේල්ල - කොළඹ මාර්ගයේ රක්ෂපාන හන්දිය අසලදී මෝටර් රථයක් යතුරුපැදියක මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් 34 හැවිරිදි පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව ඇත.
+
+මේ අතර යාපනය - මහනුවර ප්‍රධාන මාර්ගයේ කවුඩුපැලැල්ල ප්‍රදේශයේදී සිදුවූ රිය අනතුරුකින් 40 හැවිරිදි කාන්තාවක් මියගොස් තිබේ.
+
+ඊයේ උදෑසන බස් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී එම අනතුර සිදුව ඇත.
+
+◼️
+
+[Data](articles/5a9a922f.json)
+
+---
+
+### Four arrested for impersonating CID officers and soliciting Rs.10M bribe
+
+*2024-04-30 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98927/four-arrested-for-impersonating-cid-officers-and-soliciting-rs10m-bribe) · `en`
+
+Four persons were taken into custody in Kollupitiya while impersonating Criminal Investigation Department (CID) officers and demanding Rs. 10 million in cash, the Bribery Commission says.
+
+It said the suspects were arrested at around 3.30 p.m. last evening (29)in the Kollupitiya area based on a complaint filed by a resident of Dehiwala.
+
+They are expected to be produced before the Colombo Chief Magistrates Court later today (30).
+
+◼️
+
+[Data](articles/c34bb6cf.json)
+
+---
 
 ### CID has arrested a group of bribes in a ruth
 
@@ -279,6 +339,22 @@ The official invitation to President Ranil Wickremesinghe will be handed over so
 [Data](articles/19ab1f0a.json)
 
 [Extended Data](ext_articles/19ab1f0a.ext.json)
+
+---
+
+### வவுனியா ஏ9 வீதியில் மது போதையில் தனியார் பேருந்தை செலுத்திய சாரதி கைது
+
+*2024-04-30 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182277) · `ta`
+
+வவுனியா, ஏ9 வீதியில் மது போதையில் தனியார் பேருந்தை செலுத்திய சாரதி ஒருவர் ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக வவுனியா, போக்குவரத்து பொலிசார் தெரிவித்தனர்.
+
+வவுனியா தலைமைப் பொலிஸ் பிரிவுக்குட்ட பகுதியில் போக்குவரத்து பொலிசார் விசேட சோதனை நடவடிக்கைகளை முன்னெடுத்த போது ஏ9 வீதியில் பயணித்த தனியார் பேருந்து ஒன்றின் சாரதி மது போதையில் பேருந்தை செலுத்தியமை கண்டு பிடிக்கப்பட்டது.
+
+இதனையடுத்து பேருந்து சாரதி கைது செய்யப்பட்டுள்ளதுடன், பேருந்தும் வவுனியா பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளின் பின் சாரதியை நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3f7dfca4.json)
 
 ---
 
@@ -1250,6 +1326,24 @@ Dr. Premadasa, Dr. Premadasa, the father of Mrs. Veteran singer Samaika Mudungot
 
 ---
 
+### சனிக்கிழமையன்று இலங்கை வருகிறார் ஜப்பான் வெளிவிவகார அமைச்சர்
+
+*2024-04-29 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182266) · `ta`
+
+ஜப்பான் வெளிவிவகார அமைச்சர் யொகோ கமிகவா இருநாள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு எதிர்வரும் 4 ஆம் திகதி இலங்கைக்கு வருகைதரவிருப்பதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+நாட்டில் 4 - 5 ஆம் திகதிவரை தங்கியிருப்பதற்கு உத்தேசித்துள்ள அவர், இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் பிரதமர் தினேஷ் குணவர்தன ஆகியோரை மரியாதை நிமித்தம் சந்திக்கவுள்ளார்.
+
+அதனைத்தொடர்ந்து ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவா தலைமையிலான குழுவினர் வெளிவிவகார அமைச்சர் அலி சப்ரியுடன் இருதரப்பு கலந்துரையாடல்களில் ஈடுபடவுள்ளனர்.
+
+இதன்போது இலங்கையின் பொருளாதார மீட்சிக்கான உதவிகள், கடன்மறுசீரமைப்பு செயன்முறையில் ஜப்பானின் ஒத்துழைப்பு, இருதரப்பு நல்லுறவை மேலும் வலுப்படுத்தல் உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் விரிவாக ஆராயப்படுமென எதிர்பார்க்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/7556629f.json)
+
+---
+
 ### Booze banned at May Day rally venues
 
 *2024-04-29 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Booze-banned-at-May-Day-rally-venues/108-281585) · `en`
@@ -1505,6 +1599,24 @@ Accordingly, the Police Media Division has released detailed maps of road closur
 [Data](articles/f6f885a9.json)
 
 [Extended Data](ext_articles/f6f885a9.ext.json)
+
+---
+
+### අධිකරණ ඇමතිගෙන් අධිකරණයට පෙත්සමක්
+
+*2024-04-29 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිගෙන්-අධිකරණයට-පෙත්සමක්/11-409332) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළකාලමින් කොළඹ දිසා අධිකරණය නිකුත්කර ඇති වාරණ නියෝගය විසුරුවා හරින්නැයි ඉල්ලා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගොනු කළ ප්‍රතිශෝධන පෙත්සම ලබන 02 වැනිදා කැඳවීමට අභියාචනාධිකරණය අද (29) නියම කළේය.
+
+දිසා අධිකරණයෙන් තමන්ට එරෙහිව ලබාගත් තහනම් නියෝගය පිළිබඳව මෙතෙක් කිසිදු දැනුම් දීමක් කර නොමැති බවත් ඒ පිළිබඳව තමන් දැනගත්තේ මාධ්‍ය තුළින් බවත් කියමින් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ඉදිරිපත් කළ කරුණු සළකා බැලීමෙන් අනතුරුව එලෙස නියයම කළේය.
+
+අභියාචනාධිකරණ විනිසුරු ඩී.එම් සමරකෝන් මහතා මෙම ප්‍රතිශෝධන පෙත්සම සලකා බැලීණි.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන සභාපති අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභිකයන් වන ලසන්ත අලගියවන්න, මහින්ද අමරවීර, පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක නමැත්තන් නම් කර ඇත.
+
+...
+
+[Data](articles/6003db28.json)
 
 ---
 
@@ -2009,157 +2121,5 @@ The Minister said that therefore everyone's support and dedication are essential
 [Data](articles/a6c93e07.json)
 
 [Extended Data](ext_articles/a6c93e07.ext.json)
-
----
-
-### Over 500 overseas players registered for LPL 2024
-
-*2024-04-29 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-500-overseas-players-registered-for-LPL-2024/108-281577) · `en`
-
-(SLC) - The fifth edition of the Lanka Premier League (LPL) 2024 has seen interest from over 500 players from overseas, ready to take the field in the upcoming edition.
-
-The 5th edition of the LPL 2024, which is Sri Lanka’s top-most domestic T20 Tournament with an international flavour will be held from July 1 to 21.
-
-Players from 24 cricket-playing nations, including the ones from all the ICC Full Member
-
-Nations, have registered for the upcoming player auction and are vying to get picked into one of the five teams in the LPL 2024.
-
-Among the key players registered are Tamim Iqbal, Tim Southee, Rassie Van Der Dussen,
-
-Jimmy Neesham, Mushfiqur Rahim, Reeza Hendricks, Rilee Rossouw, Shai Hope, Taskin
-
-Ahmed, Lungi Ngidi, Naseem Shah, Rahmanullah Gurbaz, Najmul Hossain Shanto, Colin Munro, Ish Sodhi, Mark Chapman, Jason Behrendorff, Andre Fletcher, Oshane Thomas, Keemo Paul and Fabian Allen.
-
-...
-
-[Data](articles/763e77eb.json)
-
-[Extended Data](ext_articles/763e77eb.ext.json)
-
----
-
-### Ratnam - Review
-
-*2024-04-29 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182259) · `ta`
-
-"Ratnam" stars Vishal, Priya Bhavani Shankar, and others. It's a sequel to "Tamirapparani" and "Pooja," featuring a coalition between Hari and Vishal. The story revolves around Ratnam, who loses his mother early, becomes a legislator, and falls in love with Mallika, facing enemies who threaten her. The film lacks the usual Hari's stressful and strong sentimental scenes, and Vishal's pronunciation in emotional scenes is criticized. Despite this, performances by Samudrakani and Priya Bhavani Shankar stand out. The film includes political satire and a renewed comedy track, but lacks novelty in its scenes. Cinematographer Sukumar and composer Devi Sri Prasad contribute positively.
-
-🟩
-
-Actors: Vishal, Priya Bhavani Shankar, Murali Sharma, Harish Peradi, Samudrakani, Yogi Babu, Gautam Vasudev Menon and many others.
-
-Hari-Vishal coalition, which joins the third film 'Ratnam' after two hit films 'Tamirapparani' and 'Pooja', guaranteed the excitement for fans?Or not?We will continue to see.
-
-Ratnam (Vishal) loses her mother at an early age.Giving refuge in the market, he goes to jail after killing the wealthy Paneer for the wealth of the warrior.
-
-After the punishment, Pannirselvam becomes a legislator in the Vellore constituency and becomes a trusted servant who works under him.In this case, the enemies are harassing Mallika (Priya Bhavani Shankar), who are coming to Vellore for the admission to medical studies.
-
-Ratnam shows love after seeing Mallika. As well as beating the enemies that harass him. He becomes a full -time defender without standing. Why is Ratnam's last affection for Mallika?Why is the villains trying to chase Mallika?The story of the film is to describe this.
-
-...
-
-[Data](articles/1e714055.json)
-
-[Extended Data](ext_articles/1e714055.ext.json)
-
----
-
-### 18 killed in bus accident, 32 injured
-
-*2024-04-29 17:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பஸ்-விபத்தில்-18-பேர்-உயிரிழப்பு-32-பேர்-காயம்/50-336514) · `ta`
-
-A bus accident in Mexico City killed 18 and injured 32. The bus, traveling from Kuanjuado to Salma Sanctuary, crashed on the highway.
-
-🟩
-
-At least 18 people were killed and 32 others were injured in a bus accident on Monday (29) in the capital city of Mexico City, according to Mexico's civil security agency.
-
-A bus traveling from San Louis de La Bas in the state of Kuanjuado, Central Mexico, to the Salma Sanctuary south to Mexico, crashed on the highway.
-
-Fourteen people were killed in the accident and 4 people were admitted to the hospital and 32 others were injured.
-
-◼️
-
-[Data](articles/b871afe5.json)
-
-[Extended Data](ext_articles/b871afe5.ext.json)
-
----
-
-### World Man Kamal Haasan's villain 'Kalki 2898 AD'
-
-*2024-04-29 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/182256) · `ta`
-
-"Kalki 2898 AD," starring Kamal Haasan, Amitabh Bachchan, Prabhas, Deepika Padukone, and Disha Patani, is a science fiction film directed by Nag Ashwin. It's the first film without Haasan's photo, surprising fans. The film, produced by Vaijayanthi Movies, will release on June 27 in multiple languages. The poster features only three stars, excluding Haasan, sparking controversy."
-
-🟩
-
-The release date of the film 'Kalki 2898 A' has been officially announced not only in the Tamil film industry but also the leading star of the Indian film industry.
-
-In the special poster released for this, the lack of 'Lok Sabha' Kamal Haasan has shocked his fans and Tamil filmmakers.. It is the first time that the filmmakers are surprised that this is the first time the film has been announced without his photo in a movie starring Kamal Haasan.
-
-They have also said that the film's producers are Telugu and that they are not the only emphasis on the Telugu and Hindi film industry.
-
-Directed by Director Nag Ashwin, the upcoming film 'Kalki 2898 AD' stars Bollywood Super Star Amitabh Bachchan, World Man Kamal Haasan, Rebel Star Prabhas, Bollywood actresses Deepika Padukone and Disha Patani and many others.. The film, which is being prepared as a science fiction story, has been produced by Vaijayanthi Movies at a huge cost.
-
-...
-
-[Data](articles/7350cb14.json)
-
-[Extended Data](ext_articles/7350cb14.ext.json)
-
----
-
-### Scotland’s Humza Yousaf resigns as country’s leader
-
-*2024-04-29 16:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98919/scotlands-humza-yousaf-resigns-as-countrys-leader) · `en`
-
-Scotland’s leader Humza Yousaf resigned on Monday, further opening the door to the UK opposition Labour Party to regain ground in its former Scottish heartlands in a national election expected later this year.
-
-Yousaf quit as head of the pro-independence Scottish National Party (SNP) after a week of chaos triggered by his scrapping of a coalition agreement with Scotland’s Greens.
-
-He then failed to secure enough support to survive votes of no confidence against him expected later this week.
-
-Resigning little over a year after he replaced Nicola Sturgeon as first minister and SNP leader, Yousaf said it was time for someone else to lead Scotland’s devolved government.
-
-The SNP’s fortunes have faltered over a funding scandal and the resignation of Sturgeon as party leader last year. There has also been infighting over how progressive its pitch should be as it seeks to woo back voters.
-
-...
-
-[Data](articles/d28c015d.json)
-
-[Extended Data](ext_articles/d28c015d.ext.json)
-
----
-
-### Two women trapped in Katunayake
-
-*2024-04-29 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196099) · `si`
-
-Two women, including an Immigration Officer, were arrested at Katunayake Airport for attempting to smuggle a 17-year-old Tamil boy to England using false documents. The boy's true mother was also detained.
-
-🟩
-
-Immigration and Emigration Officer at the Katunayake Airport has been able to perform an attempt to take a boy to England.
-
-The Department of Immigration and Emigration Department of Immigration and Emigration Department has been arrested at the Katunayake airport at the Katunayake airport.
-
-The boy was trying to take the boy to England to take the same boy on the 26th and using false documents using a Sri Lankan mother and son in England.
-
-The airport said Ada Derana reporter said the boy was 17 years old and he was a Tamil.
-
-A woman who a residents of Mullaittivu has arrived in London to visit London at 1.30 pm on the day.
-
-The two have been handed over to the officers of the Department of Immigration and Emigration Unit on suspicion of the documents related to a Aviation Window officer.
-
-In technical inspections, these documents were confirmed that these documents were prepared.
-
-The documents then taken to another location revealed that the documents were fake.
-
-...
-
-[Data](articles/172cd6f9.json)
-
-[Extended Data](ext_articles/172cd6f9.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 13:18:36**
+As of **2024-04-30 13:34:42**
 
 ## Newspaper Stats
 
-*Scraped **21,822** Articles*
+*Scraped **21,827** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 186
+colombotelegraphcom | 187
 bbccomsinhala | 226
 dbsjeyarajcom | 232
 newsfirstlk | 363
@@ -18,19 +18,57 @@ economynextcom | 1,233
 adalk | 1,828
 tamilmirrorlk | 2,534
 adaderanalk | 2,586
-virakesarilk | 3,284
+virakesarilk | 3,287
 dailymirrorlk | 3,401
-adaderanasinhalalk | 3,532
+adaderanasinhalalk | 3,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,821 (100.0%) of 21,822 articles have been extended.
+21,822 (100.0%) of 21,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### පොලීසියෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-30 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196130) · `si`
+
+මාර්ග සංඥා අසළ මාර්ගයේ සිඟමනේ යෙදෙන යාචකයින්ට මුදල් දීමෙන් වළකින ලෙස රියදුරන්ගෙන් පොලීසිය ඉල්ලා සිටී.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා ඒ බව සඳහන් කළේය.
+
+සිඟමන් යදින පිරිස් සඳහා මුදල් ලබාදීමෙන් වැළැකී සිටියහොත් ඔවුන් එම ස්ථානයන් වෙත නොපැමිණෙන බව නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා වැඩිදුරටත් පැවසීය.
+
+නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ සම්බන්ධයෙන් වැඩිදුරටත් දැක්වූ අදහස් ඉහත වීඩියෝවෙන් නරඹන්න...
+
+◼️
+
+[Data](articles/94f624ec.json)
+
+---
+
+### இலங்கையில் ரணில் அரசியல் அதிசயத்தை நிகழ்த்தியுள்ளார் - எரிக்சொல்ஹெய்ம்
+
+*2024-04-30 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182317) · `ta`
+
+இலங்கையில் ஜனாதிபதி ரணில்விக்கிரமசிங்க அரசியல் அதிசயத்தை நிகழ்த்தியுள்ளார் என நோர்வேயின் இலங்கைக்கான முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் தெரிவித்துள்ளார்..
+
+நெருக்கடியின் போது அச்சமடைந்து ஓடாதவர் என்ற தனது சமூக ஊடக பதிவில் அவர் இதனை தெரிவித்துள்ளார்.
+
+18 மாதங்களிற்கு முன்னர் நாடு முன்னொருபோதும் இல்லாத மிக மோசமான நெருக்கடி நிலையில் சிக்குண்டிருந்தது என அவர் தெரிவித்துள்ளார்.
+
+தொடர்ச்சியாக மின்சார துண்டிப்பு காணப்பட்டது எரிபொருளிற்காக நீண்ட வரிசைகள் காணப்பட்டன -பணவீக்கம் மிகவேகமாக அதிகரித்துக்கொண்டிருந்தது அனேக வர்த்தகங்கள் வீழ்ச்சியடையும் நிலையில் காணப்பட்டன என தெரிவித்துள்ள அவர் மக்கள் ஜனாதிபதியை வீழ்த்தினார்கள் எனவும் குறிப்பிட்டுள்ளார்.
+
+இலங்கையில் தற்போது ஸ்திரதன்மை மீண்டும் ஏற்படுத்தப்பட்டுள்ளது பணவீக்கம் மிகவும் குறைவாக காணப்படுகின்றது மின்துண்டிப்பும எரிபொருளுக்கான வரிசைகளும் கடந்தகால விடயங்களாகிவிட்டன எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/01ad8fd5.json)
+
+---
 
 ### Ukraine’s ‘Harry Potter Castle’ hit in Russian missile strike, at least 4 killed
 
@@ -51,6 +89,8 @@ Visiting the capital Kyiv earlier on Monday, NATO Secretary General Jens Stolten
 ...
 
 [Data](articles/0d44cf30.json)
+
+[Extended Data](ext_articles/0d44cf30.ext.json)
 
 ---
 
@@ -120,6 +160,26 @@ During the last good governance government, the case was filed by the Attorney G
 
 ---
 
+### அமெரிக்காவில் துப்பாக்கிச்சூடு : 3 பொலிஸார் பலி ; 4 பேர் காயம்
+
+*2024-04-30 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182314) · `ta`
+
+அமெரிக்காவின் வடக்கு கரோலினா மாகாணம் சார்லொடி நகரில் உள்ள குடியிருப்பில் இடம்பெற்ற துப்பாக்கிச்சூட்டில் 3 பொலிஸார் உயிரிழந்துள்ளதுடன், 4 பேர் காயமடைந்துள்ளனர்.
+
+இந்த குடியிருப்பு பகுதியில்  சிலர் ஆயுதங்களுடன் இருப்பதாக பொலிஸாருக்கு ரகசிய தகவல் கிடைத்தது.
+
+இதையடுத்து, குடியிருப்பு பகுதிக்கு சென்ற  பொலிஸார்  ஒரு வீட்டில் சோதனை செய்தனர்.  அப்போது, அந்த வீட்டில் பதுங்கி இருந்த நபர்கள் பொலிஸார் மீது சரமாரியாக துப்பாக்கிச்சூடு நடத்தினர்.  உடனடியாக சுதாரித்துக்கொண்ட பொலிஸார்  பதிலடி தாக்குதல் நடத்தினர்.
+
+அதில் 3 பொலிஸார் உயிரிழந்துள்ளதோடு,  4 பொலிஸார்  படுகாயமடைந்தனர். துப்பாக்கிச்சூடு தாக்குதல் நடத்திய ஒரு நபர் உயிரிழந்தார்.
+
+மேலும் ஒருவர் தப்பியோடினார். இதையடுத்து, தப்பியோடிய நபரை பொலிஸார்  தீவிரமாக தேடி வருகின்றனர்.
+
+◼️
+
+[Data](articles/3ded3758.json)
+
+---
+
 ### Patali appeared in CIT
 
 *2024-04-30 12:21:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-ஆஜரானார்-பாட்டலி/175-336549) · `ta`
@@ -137,6 +197,24 @@ He has gone there at a call by the Criminal Investigation Department to file a s
 [Data](articles/0a4db31d.json)
 
 [Extended Data](ext_articles/0a4db31d.ext.json)
+
+---
+
+### மட்டக்களப்பு சென்ற பிரித்தானிய உயர்ஸ்தானிகர் சாணக்கியனை சந்தித்து பேச்சு !
+
+*2024-04-30 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182302) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட பாரளுமன்ற உறுப்பினர் இரா. சாணக்கியனுக்கும் பிரித்தானிய உயர்ஸ்தானிகருக்கம் இடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+பிரித்தானிய உயர்ஸ்தானிகர் சிறப்பு விஜயம் ஒன்றை மேற்கொண்டு மட்டக்களப்பு மாவட்டத்திற்கு நேற்று திங்கட்கிழமை (29) சென்றிருந்தார்.
+
+மட்டக்களப்பை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர் என்னும் வகையில் சாணக்கியனுக்கும் பிரித்தானிய உயர்ஸ்தானிகருக்குமிடையில் தனிப்பட்ட சந்திப்பொன்று இடபெற்றது.
+
+குறிப்பாக மட்டக்களப்பு மாவட்ட மக்கள் நேரடியாக முகம் கொடுக்கும் பிரச்சினைகளான மயிலத்தமடு மாதவனை பண்ணையாளர்களின் பிரச்சனை, கனிய வளங்களான இல்மனைட் அகழ்வு, இறால் வளர்ப்பு திட்டம் சம்பந்தமான சமூக மற்றும் சுற்றுச்சூழல் ரீதியிலான பிரச்சனைகள் மற்றும் சட்டவிரோத காணி அபகரிப்பு, சட்ட விரோதமான மீன்பிடி தொடர்பான பிரச்சனைகள் தொடர்பாக இதன்போது கலந்தாலோசிக்கப்பட்டது.
+
+...
+
+[Data](articles/27d5bebe.json)
 
 ---
 
@@ -1454,6 +1532,20 @@ They are expected to be produced before the Colombo Chief Magistrates Court late
 
 ---
 
+### Lessons From America
+
+*2024-04-30 07:42:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lessons-from-america/) · `en`
+
+Former US President Donald Trump has been charged with over 90 federal and state crimes,  While Trump who is now the presumptive presidential candidate of the Republican party has been using high powered lawyers to delay the cases, one jury trial on criminal charges has just commenced last Monday in New York. This is a historical even in American annals because this is the very first time a former US president is standing a criminal trial ever.
+
+The criminal charges he been indicted on are for obstructing a free transfer of power of a US presidency, hiding white house classified documents in his Florida mansion and campaign funding violation in Ney York state. All these charges, if convicted potentially can send Trump to jail, again a first in the history of the USA.
+
+...
+
+[Data](articles/565d68ff.json)
+
+---
+
 ### CID has arrested a group of bribes in a ruth
 
 *2024-04-30 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196116) · `si`
@@ -2143,115 +2235,5 @@ Cinnamon crop agriculture was the main crop of our country at that time. After t
 [Data](articles/c4b8b3f8.json)
 
 [Extended Data](ext_articles/c4b8b3f8.ext.json)
-
----
-
-### Political parties that have demanded buses
-
-*2024-04-29 23:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களை-கோரியுள்ள-அரசியல்-கட்சிகள்/175-336536) · `ta`
-
-SLTB informed depots to provide buses for political parties ahead of May Day rally. Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association, also mentioned the demand for buses for May Day meetings.
-
-🟩
-
-Many political parties have applied for buses ahead of the May Day rally, the Sri Lanka Transport Board said.
-
-The Sri Lanka Transport Board (SLTB) has said that all depots have been informed to provide buses to the parties in accordance with these demands.
-
-Meanwhile, this time, many political parties have been asked to provide buses for May Day meetings, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.(a)
-
-◼️
-
-[Data](articles/a7c41632.json)
-
-[Extended Data](ext_articles/a7c41632.ext.json)
-
----
-
-### Nephew arrested for murdering mother -in -law
-
-*2024-04-29 23:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரைக்-கொலை-செய்த-மருமகன்-கைது/175-336535) · `ta`
-
-A nephew was arrested for murdering his mother-in-law in Nakkala, Moneragala, during a family dispute. The mother-in-law, Pushpa Kumari, 44, was killed, and her wife was injured.
-
-🟩
-
-The mother -in -law was killed when a son -in -law was hit by a knife in a house in Nakkala, Moneragala. Moneragala police said the wife was also injured.
-
-Pushpa Kumari (44 years old) from Nakkala has died.
-
-Police said that the knife incident took place in a dispute caused by a family dispute.
-
-◼️
-
-[Data](articles/2877431a.json)
-
-[Extended Data](ext_articles/2877431a.ext.json)
-
----
-
-### Sri Lanka - Egypt's Compliance to Initimate the Palestinian issue
-
-*2024-04-29 23:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182275) · `ta`
-
-Sri Lanka and Egypt agreed to work on the Palestinian issue. Ali Sabri, Sri Lanka's External Affairs Minister, met with Egypt's Samay Haqi and Saudi Arabia's Faisal bin Farhan, discussing economic cooperation, investment, and employment for Sri Lankan workers.
-
-🟩
-
-During a meeting between External Affairs Minister Ali Sabri and Egypt's Foreign Minister Samay Haqi, they have agreed to take up the resolution of the two states in the Palestinian issue.
-
-External Affairs Minister Ali Sabri Riyadh went to Sri Lanka to attend a special meeting on Global Cooperation, Development and Development of Global Cooperation, Development and Development in Riyadh, Saudi Arabia.
-
-Minister Ali Sabri met with Saudi Arabian Foreign Minister Faisal bin Farhan as the side of the World Economic Forum, and discussed the bilateral relationship between the two countries.. In addition, the compliance between the two ministers has been reached on economic cooperation and promoting investments, providing employment opportunities for skilled Sri Lankan workers and strengthening inter -national relations.
-
-...
-
-[Data](articles/c4ba6f82.json)
-
-[Extended Data](ext_articles/c4ba6f82.ext.json)
-
----
-
-### Fire at private school
-
-*2024-04-29 23:10:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-பாடசாலையில்-தீ-விபத்து/175-336534) · `ta`
-
-A fire at a private women's school in Weligama, on the third floor, has been extinguished by the Matara Fire Division, Weligama Police, and residents.
-
-🟩
-
-A fire broke out today (29) at a private women's school in Weligama.
-
-The fire broke out on the third floor of the four -storey building where the school's hostel is located.
-
-Matara Fire Division, Weligama Police and Residents have taken steps to control the fire. (A)
-
-◼️
-
-[Data](articles/60ad336a.json)
-
-[Extended Data](ext_articles/60ad336a.ext.json)
-
----
-
-### President’s next revolution is to uplift agriculture through modern technology: Pavithra
-
-*2024-04-29 23:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-next-revolution-is-to-uplift-agriculture-through-modern-technology-Pavithra/108-281586) · `en`
-
-Colombo, April 29 (Daily Mirror) - President Ranil Wickremesinghe's next revolution is to prepare the farmers for the upliftment of agriculture based on modern technology, Wildlife and Forest Resources Conservation and Irrigation Minister Pavithra Wanniarachchi said.
-
-She pointed out that outdated agriculture practices should be stopped, and that the time has come to introduce smart agriculture systems to the farmer community in the country.
-
-She also said that the Asian Development Bank (ADB) has agreed to grant USD 10 million to uplift the livelihoods of the farmers through smart agriculture activities.
-
-The bank reached this agreement following her request, she added.
-
-While addressing an event organized in Ratnapura to distribute smart agriculture equipment for farmers in the area, she said that it is important not to subsidize the upliftment of the people but to provide them the strength to stand up independently.
-
-...
-
-[Data](articles/72fd9d83.json)
-
-[Extended Data](ext_articles/72fd9d83.ext.json)
 
 ---

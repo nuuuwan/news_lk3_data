@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 22:06:04**
+As of **2024-04-30 22:18:47**
 
 ## Newspaper Stats
 
-*Scraped **21,923** Articles*
+*Scraped **21,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,228
 economynextcom | 1,242
 adalk | 1,840
 tamilmirrorlk | 2,543
-adaderanalk | 2,595
+adaderanalk | 2,596
 virakesarilk | 3,305
 dailymirrorlk | 3,423
 adaderanasinhalalk | 3,548
@@ -26,25 +26,43 @@ adaderanasinhalalk | 3,548
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,920 (100.0%) of 21,923 articles have been extended.
+21,923 (100.0%) of 21,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### දරුවන්ට ශාරීරික දඬුවම් නීතියෙන් වරදක්
+### The law of children is guilty of physical punishment
 
 *2024-04-30 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196145) · `si`
 
-දරුවන්ට පහරදීම් ඇතුළු ශාරිරික දඬුවම් පැමිණවීම තහනම් කිරීම සඳහා වන දණ්ඩ නීති සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහය පනත සංශෝධනය කිරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+The law now criminalizes physical punishment of children. The Cabinet approved amendments to the Criminal Code, emphasizing the importance of protecting children from harm and ensuring their rights are upheld.
 
-ඒ අනුව මින් ඉදිරියට වැඩිහිටියෙකු හෝ ගුරුවරයෙකු දරුවෙකුට ශාරිරික දඬුවම් කරන්නේ නම් එය වරදක් බව කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද (30) කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී පැවසීය.
+🟩
 
-"දරුවන්ගේ කන්වලට පහරදීමෙන් කන් ඇසීම නැති වෙච්ච අවස්ථා වාර්තා වෙනවා. හොඳම දේ ලබාදිය යුත්තේ දරුවන්ට නම්... දරුවන්ට සිදුවන නරකම දේ වැළැක්විය යුතුයි. මේක ජනපතිගේ පූර්ණ අවධානය යොමුවූ කරුණක්. ඒ අනුව ශාරීරික දඬුවම් පැමිණවීම තහනම් කිරීමට දණ්ඩ නීතී සංග්‍රහය, අපරාධ නඩු විධාන සංග්‍රහය පනත සංශෝධනයට අවශ්‍ය කැබිනට් අනුමැතිය ලබාදුන්නා. ඒ අනුව දරුවන්ට වැඩිහිටියන් විසින් හෝ ගුරුවරුන් විසින් ශාරීරික වශයෙන් කිසිම දඬුවමක් කිරීම නීතිය අනුව වරදකරුවන් වෙන ආකාරයට මෙම පනත් සංශෝධනය කෙරෙනවා."
+The Cabinet approval has been approved to amend the Code of Code of Code of Criminal Code and the Criminal Code of Criminal Code.
+
+Cabinet Spokesperson Bandula Gunawardena said that if an adult or teacher punishing a child, it was a mistake.
+
+"There is also the number of times when children 'ears are not heard. The best things should be given to children.. The worst of children should be prevented. President's full attention focused. Accordingly, the Penal Leader, Criminal Procedure Code Act, was approved by the Criminal Code of Code of Code. Accordingly, the children physically punishment by adults or physically punishment will be amended to convict the law. "
 
 ◼️
 
 [Data](articles/c9cb6b83.json)
+
+[Extended Data](ext_articles/c9cb6b83.ext.json)
+
+---
+
+### Fuel prices reduced
+
+*2024-04-30 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98944/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) has reduced its fuel prices to be in effect from midnight today (30).
+
+◼️
+
+[Data](articles/534e3d33.json)
 
 ---
 
@@ -338,17 +356,25 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 
 ---
 
-### මැයි රැළිවලට ලංගම බස් දෙන්නේ මුදල් ගෙව්වොත් විතරයි
+### SLTB buses will be paid to May's waves
 
 *2024-04-30 18:03:48* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ලංගම-බස්-දෙන්නේ-මුදල්-ගෙව්වොත්-විතරයි/11-409353) · `si`
 
-හෙට පැවැත්වෙන මැයි රැළි සඳහා බස් රථ නිකුත් කරන්නේ මුදල් ගෙව්වොත් පමණක් බවත්, කිසිම ආයතනයකට හෝ සංවිධානයකට මුදල් ගෙවීමකින් තොරව බස්රථ නිකුත් නොකරන බව කැබිනට් ප්‍රකාශක, ප්‍රවාහන මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය. මේ සම්බන්ධයෙන් තමා ලංකා ගමනා ගමන මණ්ඩලයේ සභාපතිවරයාට උපදෙස් ලබා දී ඇතැයිද හෙතෙම පැවසීය.
+Transport Minister Dr. Bandula Gunawardena announced that SLTB buses will be paid by May, following instructions from the Chairman of the Sri Lanka Transport Board.
 
-අද(30) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ සාකච්ඡාවේදී  මැයි රැළිය සඳහා විවිධ පක්ෂ වලට බස්රථ ලබා දීම සම්බන්ධයෙන්  මාධ්‍යවේදියෙකු නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
 
-...
+Cabinet Publisher, Transport Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media said that the buses are being issued tomorrow.. He added that he has instructed the Chairman of the Sri Lanka Transport Board in this regard, he added.
+
+The Minister was responding to a question raised by a journalist at various UNP rally at various party parties today (30) at the Cabinet Decisions in the Government Information Department.
+
+Mass Media and Transport Minister Dr. Bandula Gunawardena added that the SLTB has instructed the SLTB and the Chairperson's Chairman and other hand after paying the money after paying the general transportation.. The Minister further stated that the SLTB buses are not released without paying for any agency or organization.
+
+◼️
 
 [Data](articles/950c1995.json)
+
+[Extended Data](ext_articles/950c1995.ext.json)
 
 ---
 
@@ -681,6 +707,8 @@ The petitioner filed this petition naming the members of the Constitutional Coun
 ...
 
 [Data](articles/005c28f4.json)
+
+[Extended Data](ext_articles/005c28f4.ext.json)
 
 ---
 
@@ -2221,39 +2249,5 @@ The leader of the Airman has already been arrested by the SLAF and the Katunayak
 [Data](articles/ce33ca74.json)
 
 [Extended Data](ext_articles/ce33ca74.ext.json)
-
----
-
-### Sri Lankans who were involved in pornography with women by telephone in Australia - two years imprisonment
-
-*2024-04-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182308) · `ta`
-
-A Sri Lankan man, an officer of a TV channel, was sentenced to two years in prison for engaging in pornographic phone conversations with 18 people in Australia from 2018 to 2022. He contacted victims pretending to be from Channel 7, but the channel denied any connection.
-
-🟩
-
-A Sri Lankan man has been sentenced to two years in prison for telephone conversations in Australia.
-
-It is reported that he was an officer of a television channel.
-
-The man who telephoned a mother, threatened to cut her daughter into sexuality.
-
-From January 2018 to January 22, 2022, he talked to 18 people on the phone.
-
-The victims said he had contacted themselves as a person looking for Channel 7 TV talented.
-
-However, Channel 7 has said that he and this person have nothing to do with it.
-
-Meanwhile, the victims said that Vamadevan, who had telephoned themselves, said that he had been involved in a bad sexual conversation.
-
-The woman said that Vamadevan contacted her using her telephone number in the profile she had produced for her daughter.
-
-From September 2020 to January 2021, Vamadevan telephoned the woman and used her daughter's first name to engage in pornographic conversations, the woman said.
-
-◼️
-
-[Data](articles/c53dd358.json)
-
-[Extended Data](ext_articles/c53dd358.ext.json)
 
 ---

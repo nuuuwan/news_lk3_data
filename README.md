@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 23:34:22**
+As of **2024-04-30 23:53:43**
 
 ## Newspaper Stats
 
-*Scraped **21,931** Articles*
+*Scraped **21,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,190
 dailyftlk | 1,228
-economynextcom | 1,242
+economynextcom | 1,247
 adalk | 1,840
 tamilmirrorlk | 2,544
-adaderanalk | 2,596
+adaderanalk | 2,597
 virakesarilk | 3,308
 dailymirrorlk | 3,423
 adaderanasinhalalk | 3,550
@@ -26,31 +26,61 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,928 (100.0%) of 21,931 articles have been extended.
+21,931 (100.0%) of 21,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ஆசிய றக்பி முதலாம் பிரிவு அரை இறுதியில் கஸக்ஸ்தானுக்கு இறுக்கமான வெற்றி
+### Luxury cruise ship calls at Hambantota Port
+
+*2024-04-30 23:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98945/luxury-cruise-ship-calls-at-hambantota-port) · `en`
+
+Cruise ship ‘Serenade of the Seas’ made her maiden call at the Hambantota International Port (HIP) on Monday (29).
+
+The luxury liner, which carried a total of 1,950 passengers and 890 crew members was the tenth cruise ship to call at the Hambantota port for the year 2024.
+
+‘Serenade of the Seas’ launched in 2003 is one of the Radiance Class vessels built by the global shipping company Royal Caribbean International to travel to far flung exotic destinations.
+
+The port welcomed the ship with a plaque presentation held on board. Officials of the Hambantota International Port Group (HIPG) and the HIP, along with representatives from the local vessel agents attended the event.
+
+◼️
+
+[Data](articles/df3e5612.json)
+
+---
+
+### Asian Rugby First Division Half -Tight Win Kazakhstan
 
 *2024-04-30 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182365) · `ta`
 
-கொழும்பு குதிரைப் பந்தயத் திடலில் செவ்வாய்க்கிழமை (30) மாலை நடைபெற்ற ஆசிய றப்பி முதலாம் பிரிவு அரை இறுதிப் போட்டியில் கத்தாரிடம் கடும் சவாலை எதிர்கொண்ட கஸக்ஸ்தான் 33 (5 ட்ரைகள், 4 கொன்வேர்ஷன்கள்) - 31 (3 ட்ரைகள், ஒரு பெனல்டி ட்ரை, 3 கொன்வேர்ஷன்கள்) என்ற புள்ளிகள் வித்தியாசத்தில் மிகவும் இறுக்கமான வெற்றியை ஈட்டியது.
+Kazakhstan won the Asian Rugby First Division Half by 2 points (33-31) against Qatar in the Asian First Seven Secondary Finals, despite a challenging start due to heavy rain.
 
-இடி முழக்கத்துடன் கடும் மழை பெய்ததால் பிற்பகல் 4.00 மணிக்கு ஆரம்பமாக வேண்டிய போட்டி சுமார் ஒரு மணி நேரம் கழித்தே ஆரம்பமானது.
+🟩
 
-மழை காரணமாக மைதானம் வழுக்கும் தன்மையைக் கொண்டிருந்ததுடன் ஆங்காங்கே சகதியாக இருந்ததால் இரண்டு அணியினரும் கடும் சிரமத்திற்கு மத்தியிலேயே விளையாடினர்.
+Kasakstan 33 (5 TROs, 4 Conversions) - 31 (3 trucks, one penalty tri, 3 conventions), faced with a tough challenge in the Asian First Seven Secondary Finals held at the Colombo Horse Racing Tuesday evening (30)..
 
-எனினும் போட்டி ஆரம்பித்து சொற்ப நேரத்தில் கத்தார் முதலாவது புள்ளிகளைப் பெற கஸக்ஸ்தான் உடனடியாகவே பதிலடி கொடுத்தது.
+The competition, which began at 4.00 pm, began about an hour after heavy rains.
 
-கஸக்ஸ்தான் வீரர் ஒருவர் விதிகளுக்கு முரணாக விளையாடியதால் கத்தாருக்கு மத்தியஸ்தரினால் பெனல்டி கோல் வழங்கப்பட்டது.
+The stadium was slippery due to the rain and the two teams played amidst great difficulty.
 
-தொடர்ந்து சிறப்பாக விளையாடிய கத்தார் இடைவேளையின்போது 21 - 14 என்ற புள்ளிகள் வித்தியாசத்தில் முன்னிலையில் இருந்தது.
+However, Kazakhstan immediately retaliated to Qatar's first points in a short time.
+
+Qatar was awarded a penalty goal as a Kazakhstan player played contrary to the rules.
+
+The Qatar break, which continued to play well, was 21 - 14.
+
+After the break, Qatar continued to play efficiently and was 28 - 19 in the 56th minute.
+
+After 8 minutes, Qatar made the status of the points by a penalty to 31 - 19.
+
+However, Kasakstan, who received 2 trucks in the next two minutes, won 33 - 31, and won by 2 points.
 
 ...
 
 [Data](articles/45ae92c7.json)
+
+[Extended Data](ext_articles/45ae92c7.ext.json)
 
 ---
 
@@ -96,23 +126,29 @@ The Ceylon Petroleum Corporation had taken steps to amend fuel prices today (30)
 
 ---
 
-### இன்று நள்ளிரவு முதல் எரிபொருள் விலை குறைப்பு!
+### Fuel prices cut from midnight today!
 
 *2024-04-30 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182364) · `ta`
 
-இலங்கை பெற்றோலிய கூட்டுத்தாபனம் செவ்வாய்க்கிழமை (30) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலைகளில் திருத்தம் செய்யப்பட்டுள்ளதாக எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
+"Fuel prices in Ceylon reduced from midnight. Octane 92 now 368 rupees, 95 420 rupees, diesel 333 rupees, super diesel 215 rupees."
 
-அதன்படி ஒக்டேன் 92 பெற்றோலின் விலை லிட்டருக்கு 3 ரூபாவினால் குறைக்கப்பட்டு 368 ரூபாவாக குறைந்துள்ளது. ஒக்டேன் 95 பெற்றோல் 20 ரூபாவினால் குறைக்கப்பட்டு 420 ரூபாவாகும்.
+🟩
 
-அதேபோல், ஒரு லீற்றர் லங்கா டீசலின் விலை 30 ரூபாவால் குறைக்கப்பட்டவுள்ள நிலையில் அதன் புதிய விலை 333 ரூபாவாக குறைவடையவுள்ளது.
+The Ministry of Energy has announced that the Ceylon Petroleum Corporation has been amended on Tuesday (30) at midnight.
 
-சூப்பர் டீசல் ஒரு லீற்றரின் விலை 9 ரூபாவால் குறைக்கப்படவுள்ள நிலையில் அதன் புதிய விலை 377 ரூபாவாகும்.
+Accordingly, the price of the Octane 92 has been reduced by 3 rupees per liter to 368 rupees.. Octane 95 petrol was reduced by 20 rupees and 420 rupees.
+
+Similarly, the price of a liter of Lanka diesel is reduced by 30 rupees and its new price will be reduced to 333 rupees.
+
+Super diesel is expected to reduce the price of a liter by 9 rupees.
 
 மேலும், மண்ணெண்ணெய் லீற்றர் ஒன்றின் விலை 20 ரூபாவால் குறைக்கப்படவுள்ள நிலையில் அதன் புதிய விலை 215 ரூபாய் என இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/2b0fc2c8.json)
+
+[Extended Data](ext_articles/2b0fc2c8.ext.json)
 
 ---
 
@@ -178,19 +214,27 @@ A litre of Lanka Kerosene (Rs. 245) has been reduced by Rs. 30 and its new retai
 
 ---
 
-### இலங்கையில் நீதி, பொறுப்புக்கூறல், நல்லிணக்கத்துக்கு வழிவகுக்கக்கூடிய அர்த்தமுள்ள நடவடிக்கைகளுக்கு ஆதரவு - கனேடிய உயர்ஸ்தானிகராலயம்
+### Support for meaningful actions that can lead to justice, accountability and reconciliation in Sri Lanka - the Canadian High Commission
 
 *2024-04-30 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182363) · `ta`
 
-இலங்கையில் நீதி, பொறுப்புக்கூறல், சமாதானம் மற்றும் நல்லிணக்கம் ஆகியவற்றுக்கு வழிவகுக்கக்கூடிய அர்த்தமுள்ள நடவடிக்கைகளுக்கு ஆதரவளிக்கத் தயாராக இருப்பதாக கொழும்பிலுள்ள கனேடிய உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+The Canadian High Commission in Colombo supports justice, accountability, and reconciliation in Sri Lanka, despite the government's summons. A meeting between the Canadian High Commissioner and the Ministry of External Affairs Secretary is confirmed.
 
-கனடாவிலுள்ள ப்ரம்டன் நகரில் இலங்கையில் இடம்பெற்றதாகக் கூறப்படும் தமிழினப்படுகொலையில் கொல்லப்பட்டவர்களை நினைவுகூரும் வகையிலான சின்னமொன்றை நிர்மாணிப்பதற்கு உத்தேசிக்கப்பட்டுள்ள நிலையில், இதுகுறித்து இலங்கை அரசாங்கம் கொழும்பிலுள்ள கனேடிய உயர்ஸ்தானிகரை வரவழைத்து கலந்துரையாடியதாகத் தகவல்கள் வெளியாகியிருந்தன.
+🟩
 
-அதன்படி இந்நினைவுச்சின்னம் தொடர்பில் கலந்துரையாடும் நோக்கிலான சந்திப்பொன்று கனேடிய உயர்ஸ்தானிகர் எரிக் வோல்ஷுக்கும், வெளிவிவகார அமைச்சின் செயலாளர் அருணி விஜேவர்தனவுக்கும் இடையில் இடம்பெற்றதாக கொழும்பிலுள்ள கனேடிய உயர்ஸ்தானிகராலயம் மின்னஞ்சல் ஊடாக தமக்கு உறுதிப்படுத்தியதாக 'தமிழ் கார்டியன்' செய்தி வெளியிட்டுள்ளது.
+The Canadian High Commission in Colombo has said that it is ready to support meaningful measures that can lead to justice, accountability, peace and reconciliation in Sri Lanka.
 
-...
+It has been reported that the Sri Lankan government has summoned the Canadian High Commissioner in Colombo as it is intended to construct a symbol to commemorate those killed in the alleged Tamil massacre in Sri Lanka in Sri Lanka.
+
+According to the 'Tamil Guardian' report, the Canadian High Commission in Colombo has confirmed that he has confirmed a meeting between Canadian High Commissioner Eric Wolsh and Secretary of the Ministry of External Affairs Aruni Wijewardene.
+
+The Tamil Guardian has stated in its email reply that the Provincial and Local Government governments can function freely from the central government under the federal structure of Canada and that they have separate administrative powers.
+
+◼️
 
 [Data](articles/9d69fe91.json)
+
+[Extended Data](ext_articles/9d69fe91.ext.json)
 
 ---
 
@@ -460,6 +504,24 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 
 ---
 
+### Sri Lanka Treasuries yields fall across maturities
+
+*2024-04-30 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-160697/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Tuesday’s auction with the 3-month yield moving down 29 basis points to 9.61 percent, data from the state debt office showed.
+
+The debt office sold all 25 billion rupees of 3-month bills offered.
+
+The 6-month yield fell 19 basis points to 9.89 percent, with 65 billion rupees offered and 57.08 billion rupees sold.
+
+The 12-month yield dropped 22 basis points to 9.99 percent with 47.91 billion rupees of bills sold after offering 40 billion rupees. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/735ea179.json)
+
+---
+
 ### SLTB buses will be paid to May's waves
 
 *2024-04-30 18:03:48* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ලංගම-බස්-දෙන්නේ-මුදල්-ගෙව්වොත්-විතරයි/11-409353) · `si`
@@ -527,6 +589,30 @@ The country has lost nearly $ 200 billion due to the delay in the Uma Oya Multip
 [Data](articles/6c06eb55.json)
 
 [Extended Data](ext_articles/6c06eb55.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 297.50/298.50 to US dollar
+
+*2024-04-30 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-297-50-298-50-to-us-dollar-160693/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed almost flat at 297.50/298.50 to the US dollar on Tuesday from 297.80/298.50 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.80/85 percent from 10.95/11.05 percent.
+
+A bond maturing on 15.09.2027 closed down at 11.15/25 percent from 11.40/55 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.55/70 percent from 11.60/70 percent.
+
+A bond maturing on 15.09.2029 closed down at 11.75/12.10 percent from 11.80/12.10 percent.
+
+A bond maturing on 15.05.2030 closed down at 12.10/20 percent from 12.25/40 percent.
+
+A bond maturing on 01.10.2032 closed down at 12.35/40 percent from 12.40/55 percent. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/0b1cd748.json)
 
 ---
 
@@ -647,6 +733,26 @@ On a year-on-year basis, the inflation of food group dropped to 2.9% in April 20
 [Data](articles/d513ba9f.json)
 
 [Extended Data](ext_articles/d513ba9f.ext.json)
+
+---
+
+### Sri Lanka consumer prices up 3.1-pct over 19-months, food down 4.6-pct
+
+*2024-04-30 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-prices-up-3-1-pct-over-19-months-food-down-4-6-pct-160688/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation was 1.5 percent in the 12-months to April 2024, measured by the widely watched Colombo Consumer Price Index, data from the state debt office showed.
+
+The CCPI Index fell 0.8 percent, to 195.2 points in the month of April after falling 1.9 percent in March.
+
+Sri Lanka’s central bank has been operating largely deflationary policy, since September 2022, except perhaps in December 2024, and also allowed the rupee to appreciate in the balance of payments surplus it created.
+
+Since September 2022, when deflationary policy started to show up in the balance of payments, the index has grown only 3.1 percent over the past 19 months.
+
+The food price index fell 4.6 percent over the past 19 months. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/0789c98c.json)
 
 ---
 
@@ -1113,6 +1219,26 @@ Major positive contributors to the ASPI included Central Finance Company Plc (up
 [Data](articles/eb31cdbf.json)
 
 [Extended Data](ext_articles/eb31cdbf.ext.json)
+
+---
+
+### Sri Lanka Freedom Party majority will back president in broad alliance: state minister
+
+*2024-04-30 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-majority-will-back-president-in-broad-alliance-state-minister-160669/) · `en`
+
+ECONOMYNEXT — A majority of the Sri Lanka Freedom Party (SLFP) will join President Ranil Wickremesinghe in a broad alliance in support of his development agenda, State Minister of Foreign Affairs Tharaka Balasuriya said.
+
+Speaking to reporters, Balasuriya said members of the SLFP including Aviation Minister Nimal Siripala de Silva come on board the president’s ongoing development agenda.
+
+“This is not a programme built on fairy tales. It president is following an agenda that is sustainable in the long term. I think development activities will happen rapidly this year. We can expedite development activities after debt restructuring has been completed,” said Balasuriya.
+
+The SLFP is currently embroiled in an unprecedented crisis, with the party fractured into several factions.
+
+However, at least one of the factions has planned a Labour Day rally for Wednesday May 01.
+
+...
+
+[Data](articles/0c4650f4.json)
 
 ---
 
@@ -2123,119 +2249,5 @@ The Institute for Health Policy (IHP) which carried out the two surveys for Marc
 [Data](articles/9dff98f9.json)
 
 [Extended Data](ext_articles/9dff98f9.ext.json)
-
----
-
-### UK Policeman spared jail after assault on innocent Sri Lankan
-
-*2024-04-30 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-Policeman-spared-jail-after-assault-on-innocent-Sri-Lankan/108-281651) · `en`
-
-UK, April 30 (The Independent) - A serving UK Metropolitan Police officer who assaulted an innocent Sri Lankan after mistaking him for a criminal has been spared jail.
-
-PC Jonathan Marsh, 34, had been called out to Atlanta Boulevard in Romford, east London, on 13 November 2022 after a medical worker reported someone was damaging a sign outside and making threats to kill.
-
-Marsh mistook Rasike Attanayake, who had called 999, for the suspect and bundled him to the ground before punching him in the back of the head.
-
-Mr Attanayake was arrested and put in the back of a police car until officers realised their mistake and he was de-arrested.
-
-Police-worn bodycam footage played to the court showed Marsh pulling Mr Attanayake to the floor, swearing at him and punching him in the back of the head.
-
-After the incident, he complained to the Met Police and the force referred the case to the Independent Office for Police Conduct (IOPC) for them to investigate.
-
-...
-
-[Data](articles/0a2e1c8f.json)
-
-[Extended Data](ext_articles/0a2e1c8f.ext.json)
-
----
-
-### Misfire at airport VIP lounge damages roof
-
-*2024-04-30 12:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Misfire-at-airport-VIP-lounge-damages-roof/108-281650) · `en`
-
-Katunayaka, (April 30 (Daily Mirror) - The VIP lounge terminal roof of the Bandaranaike International Airport was damaged this morning following a misfire from a T-56 type firearm belonging to an airman of the Sri Lanka Air Force.
-
-The incident occurred at around 10.25 a.m. and damaged the roof of the terminal, but no one was hurt.
-
-The airman was arrested by the Sri Lanka Air Force. The Katunayake Airport Police and the Sri Lanka Air Force are conducting further investigations.
-
-◼️
-
-[Data](articles/200177ea.json)
-
-[Extended Data](ext_articles/200177ea.ext.json)
-
----
-
-### Mahindananda release from the case
-
-*2024-04-30 12:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கில்-இருந்து-மஹிந்தானந்த-விடுதலை/175-336550) · `ta`
-
-Mahindananda Aluthgamage, a former minister, has been acquitted from a case filed under the Prevention of Money Laundering Act for allegedly buying a luxury house on Kinzi Road in Colombo. The Colombo High Court ordered his release.
-
-🟩
-
-He has been acquitted from a case filed against former minister Mahindananda Aluthgamage.
-
-During his tenure as a minister, a case was filed under the Prevention of Money Laundering Act for allegedly buying a luxury house on Kinzi Road in Colombo.
-
-The Colombo High Court today (30) ordered the release of former Minister Mahindananda Aluthgamage from the case.
-
-During the last good governance government, the case was filed by the Attorney General against former Minister Mahindananda Aluthgamage.
-
-◼️
-
-[Data](articles/285f0992.json)
-
-[Extended Data](ext_articles/285f0992.ext.json)
-
----
-
-### Sri Lanka’s Mirissa to be named blue flag beach, maritime reserve
-
-*2024-04-30 12:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-mirissa-to-be-named-blue-flag-beach-maritime-reserve-160615/) · `en`
-
-ECONOMYNEXT – Sri Lanka is working to get Blue Flag certification for its southern Mirissa beach, cabinet spokesman Minister Bandula Gunawardena said.
-
-“The cabinet approved the proposal to make the Mirissa marine zone a Blue Flag coastal zone and a marine wildlife sanctuary conforming to international standards,” Gunawardena told reporters on Tuesday.
-
-“This will increase by fivefold the southern province’s tourism-based economy.”
-
-A blue flag denotes a beach, marina, or sustainable boating tourism operator meets the standards of the Foundation for Environmental Education (FEE).
-
-FEE is a not-for-profit non-governmental organisation consisting of 65 organisations in 77 member countries. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/a2ef0eec.json)
-
-[Extended Data](ext_articles/a2ef0eec.ext.json)
-
----
-
-### Firing in the United States: 3 police killed;4 people injured
-
-*2024-04-30 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182314) · `ta`
-
-In Charloti, NC, 3 police were killed and 4 injured in a shootout at an apartment. The incident began when police, acting on confidential information, raided a house suspected of harboring weapons. The occupants opened fire, leading to the police retaliation. One suspect was killed, and one escaped.
-
-🟩
-
-Three policemen were killed and four others were injured in a shooting at an apartment in Charloti, North Carolina, USA.
-
-Police received confidential information that some people were weapons in the residential area.
-
-Subsequently, the police went to the residential area and raided a house.At the time, the men lurking in the house opened fire on the police.Immediately, the police retaliated and attacked.
-
-Three of them were killed and 4 policemen were injured. A man who was shot dead died.
-
-And one more escaped. Following this, the police are actively searching for the man who fled.
-
-◼️
-
-[Data](articles/3ded3758.json)
-
-[Extended Data](ext_articles/3ded3758.ext.json)
 
 ---

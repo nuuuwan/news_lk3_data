@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 07:41:47**
+As of **2024-04-30 07:54:23**
 
 ## Newspaper Stats
 
-*Scraped **21,746** Articles*
+*Scraped **21,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,99 @@ tamilmirrorlk | 2,523
 adaderanalk | 2,578
 virakesarilk | 3,270
 dailymirrorlk | 3,389
-adaderanasinhalalk | 3,515
+adaderanasinhalalk | 3,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,745 (100.0%) of 21,746 articles have been extended.
+21,746 (100.0%) of 21,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### CID නිලධාරීන් ලෙස පෙනී සිට රු කෝටියක අල්ලස් ගත් පිරිසක් අත්අඩංගුවට
+
+*2024-04-30 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196116) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් ලෙස පෙනී සිටිමින් රුපියල් කෝටියක මුදලක් අල්ලස් ලෙස ලබාගත් පුද්ගලයින් සිව්දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+දෙහිවල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් සිදුකළ පැමිණිල්ලක් මත අදාළ සැකකරුවන්ව ඊයේ (29) සවස 3.30ට පමණ කොල්ලුපිටියේ දී අත්අඩංගුවට ගත් බව අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව පවසයි.
+
+සැකකරුවන් අද (30) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/4f59ab74.json)
+
+---
+
+### ජීවිතයක් අහිමි කළ පවුල් ආරවුල
+
+*2024-04-30 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196115) · `si`
+
+ප්‍රදේශ දෙකකින් මනුෂ්‍ය ඝාතන දෙකක් වාර්තා වී ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය පවසයි.
+
+ඊයේ (29) එම ඝාතන වාර්තා වී ඇත්තේ,  මොනරාගල සහ කටුගස්තොට පොලිස් වසම්වලිනි.
+
+මොනරාගල, නක්කල ප්‍රදේහයේදී කාන්තාවන් දෙදෙනෙකුට තියුණු ආයුධයකින් පහරදීම හේතුවෙන් එක් කාන්තාවක් මියගොස් තිබේ.
+
+එසේ මියගොස් ඇත්තේ, නක්කල, මොනරාගල ප්‍රදේශයේ පදිංචි 44 හැවිරිදි කාන්තාවකි.
+
+පවුල් ආරවුලක් හේතුවෙන් මරණකාරියගේ බෑනා විසින් එලෙස තියුණු ආයුධයකින් පහරදී ඝාතනය සිදුකර ඇති බවට පොලිස් විමර්ශනයේදී අනාවරණය වී ඇත.
+
+සැකකරුගේ බිරිඳ කැපුම් තුවාල ලබා ප්‍රතිකාර සඳහා සිරිගල රෝහලට ඇතුළත් කර තිබේ.
+
+මේ අතර කටුගස්තොට, ගොහාගොඩ ප්‍රදේශයේදී පුද්ගලයෙකු විසින් තම මිතුරාට තියුණු ආයුධයකින් පහර දී ඝාතනය කර තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, පල්ලේමුල්ල, හල්ඔලුව ප්‍රදේශයේ පදිංචි 50 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/54858536.json)
+
+---
+
+### හෙට කොළඹ එන අයට විශේෂ දැනුම්දීමක්
+
+*2024-04-30 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196114) · `si`
+
+හෙට ට (01) යෙදී ඇති ජාත්‍යන්තර කම්කරු දිනය නිමිත්තෙන් කොළඹ නගරය ආශ්‍රිතව පැවැත්වෙන රැළි සහ පෙළපාලි හේතුවෙන් විශේෂ රථ වාහන සැලැස්මක් පොලීසිය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා ප්‍රකාශ කළේ, මැයි දින සැමරුම වෙනුවෙන් හෙට දිනයේ රැළි සහ පෙළපාලි 40ක් දිවයින පුරා සංවිධානය කර ඇති බවය.
+
+මැයි දින සැමරුම් උත්සව 19ක් ද පැවැත්වෙන බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+මේ අතර අවසරයකික් තොරව මැයි රැළි ආවරණය කිරීම සඳහා ඩ්‍රෝන යානා භාවිත කිරීම තහනම් බව පොලීසිය පවසයි.
+
+ජාත්‍යන්තර කම්කරු දිනය නිමිත්තෙන් කොළඹ නගරය ආශ්‍රිතව පැවැත්වෙන රැළි සහ පෙළපාලි හේතුවෙන් ක්‍රියාත්මක විශේෂ රථවාහන සැලැස්ම පොලීසිය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+◼️
+
+[Data](articles/7276d83b.json)
+
+---
+
+### මාස 4ට ලාංකිකයින් 2,000ක් කොරියාවට
+
+*2024-04-30 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196113) · `si`
+
+මේ වසරේ පළමු මාස 04 තුළ පමණක් ශ්‍රී ලාංකිකයින් 2,000කට වැඩි පිරිසක් කොරියානු රැකියා සඳහා පිටත්ව ගොස් ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යංශය පවසයි.
+
+එම කාර්යංශය පෙන්වා දෙන්නේ, පුද්ගලයින් 2,064 දෙනෙකු ගත වූ මාස 04 තුළ දකුණු කොරියානු රැකියා සඳහා පිටත්ව ගොස් ඇති බවය.
+
+ඒ අනුව නිෂ්පාදන ක්ෂේත්‍රයට අදාළ රැකියා සඳහා 1708 දෙනෙකු, ධීවර ක්ෂේත්‍රය සඳහා 351 දෙනෙකු, ඉදිකිරීම් ක්ෂේත්‍රය සඳහා 5 දෙනෙකු ද දකුණු කොරියාව වෙත ගොස් තිබේ.
+
+ඔවුන්ගෙන් 1,892 දෙනෙකු පළමු වරට දකුණු කොරියාවේ රැකියා සඳහා පිටත්ව ගොස් ඇති බව වාර්තා වේ.
+
+මෙම කාල සීමාව තරුණියන් 41 දෙනෙකු ද දකුණු කොරියාවේ රැකියා සඳහා පිටව ගොස් ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ba8c0f3d.json)
+
+---
 
 ### Lightning strikes the two children of the same family
 
@@ -530,19 +612,25 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 
 ---
 
-### பஸ்களை கோரியுள்ள அரசியல் கட்சிகள்
+### Political parties that have demanded buses
 
 *2024-04-29 23:19:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்களை-கோரியுள்ள-அரசியல்-கட்சிகள்/175-336536) · `ta`
 
-இம்முறை மே தின பேரணியை முன்னிட்டு பல அரசியல் கட்சிகளும் பஸ்களை கோரி விண்ணப்பித்துள்ளன என இலங்கை போக்குவரத்து சபை தெரிவித்துள்ளது.
+SLTB informed depots to provide buses for political parties ahead of May Day rally. Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association, also mentioned the demand for buses for May Day meetings.
 
-இந்த கோரிக்கைகளுக்கு அமைவாக கட்சிகளுக்கு தேவையான பஸ்களை வழங்குமாறு அனைத்து டிப்போக்களுக்கும் அறிவிக்கப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபை கூறியுள்ளது.
+🟩
 
-இதனிடையே, இம்முறையும் பல அரசியல் கட்சிகளால் மே தினக் கூட்டங்களுக்காக பஸ்களை வழங்குமாறு கோரிக்கை விடுக்கப்பட்டுள்ளதாக இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.  (a)
+Many political parties have applied for buses ahead of the May Day rally, the Sri Lanka Transport Board said.
+
+The Sri Lanka Transport Board (SLTB) has said that all depots have been informed to provide buses to the parties in accordance with these demands.
+
+Meanwhile, this time, many political parties have been asked to provide buses for May Day meetings, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.(a)
 
 ◼️
 
 [Data](articles/a7c41632.json)
+
+[Extended Data](ext_articles/a7c41632.ext.json)
 
 ---
 
@@ -2049,103 +2137,5 @@ The documents then taken to another location revealed that the documents were fa
 [Data](articles/172cd6f9.json)
 
 [Extended Data](ext_articles/172cd6f9.ext.json)
-
----
-
-### Special Observation of the Minister of State
-
-*2024-04-29 16:56:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரின்-விசேட-அவதானம்/175-336513) · `ta`
-
-Defense Minister Bandara Tennakoon ordered a re-examination of a landslide near Ellawaya Road in Badulla, instructing authorities to submit a detailed report. He also directed the National Building Research Institute and Risk Management Center to prevent future risks. Recommendations were provided by relevant experts on May 1st.
-
-🟩
-
-Defense Minister of State for Defense Bandara Tennakoon (21) paid special attention to the landslide near Ellawaya Road in Karandakolla area of Badulla district and ordered the relevant authorities to re -examine the incident and submit a detailed report.
-
-In addition, the Minister of State has provided the instructions to the National Building Research Institute and the Risk Management Center to take immediate steps to prevent the risk of humanity in the future.
-
-In accordance with the instructions of the Minister, the Director General of the Risk Management Center, the Director General of the National Building Research Center and the Expert Panel of Experts of the Geological Survey and Mining Bureau have taken steps to provide the necessary recommendations on the land area on May 01).
-
-◼️
-
-[Data](articles/26f65eba.json)
-
-[Extended Data](ext_articles/26f65eba.ext.json)
-
----
-
-### Samantha, who is incarnate as producer
-
-*2024-04-29 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182250) · `ta`
-
-Samantha, a Tamil film star, married Naga Chaitanya, a Telugu star, and after a break, she's back as a filmmaker. She's the heroine of "Mai Inti Bangaram," produced by Tralala Movie Pictures, and is expected to make films like Nayanthara's.
-
-🟩
-
-Actress Samantha, who has made her debut as a leading star in the Tamil film industry, has rose up as a leading star, and has taken up the hand of Telugu star Naga Chaitanya, who has been married for four years, followed by a breakdown in the film industry.. After a short break, he is incarnate as a filmmaker on his birthday. He has also issued an official announcement.
-
-Samantha is the leading star actress and the hero of the story after the wedding.
-
-At this moment, he is physically ill and continues to treat it.
-
-In this case, Samantha, who has not agreed to act in any film for the past year, has released the name of the film, which is the hero of the story and the name of the film production company that is on his own.
-
-And for this, the film also tells that the film may be the hero of the story, as he has been in a special poster in his special poster.The film is titled Mai Inti Bangaram (our family's Bangaram).
-
-...
-
-[Data](articles/b5f2bf0c.json)
-
-[Extended Data](ext_articles/b5f2bf0c.ext.json)
-
----
-
-### Prisoner swallows fluorescent light, hospitalised
-
-*2024-04-29 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prisoner-swallows-fluorescent-light-hospitalised/108-281575) · `en`
-
-An inmate of the Dumbara prisons who swallowed a fluorescent light bulb was admitted to the Kandy National Hospital.
-
-The 42 year old prisoner from Gampola had been fround guilty of robbery and sentenced to five years imprisonment in 2022.
-
-A spokesman for the hospital said the prisoner had developed inflammation in his stomach and he would undergo a scan.
-
-The prisoner told police that two prison officers had taken him to a room and assaulted him while questioning whether he had a mobile phone with him and that he pulled down a fluorescent tube light in the room and had swallowed it in pieces.
-
-◼️
-
-[Data](articles/bc761091.json)
-
-[Extended Data](ext_articles/bc761091.ext.json)
-
----
-
-### Vijayadasa's appointment is completely hostile to the party: Chandrika
-
-*2024-04-29 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182248) · `ta`
-
-Chandrika criticizes Vijayadasa's appointment as hostile to the Freedom Party, advising against damaging his reputation with Maithripala.
-
-🟩
-
-The appointment of Justice Minister Vijayadasa Rajapaksa as the respondent of the Freedom Party is completely hostile to the party.
-
-Former President Chandrika Bandaranaike Kumaratunga has said that Vijayadasa should not dismantle his reputation with Maithripala.
-
-He made this statement during a media briefing held at the Sri Lanka Forum College in Colombo on Monday (29).
-
-The appointment of Justice Minister Vijayadasa Rajapaksa as the party's response to the party's issues is completely hostile to the Freedom Party.
-
-Vijayadasa Rajapakse, who has been a member of many political parties, has visited the Independence Party to contest the presidential candidate.
-
-Maithripala Sirisena has taken the people on the road and seated them in the Executive Council.
-
-Justice Minister Vijayadasa Rajapaksa, who has joined Maithripala Sirisena, who has degraded the Independence Party, said that he would not want to abolish his reputation.
-
-◼️
-
-[Data](articles/e0f9b641.json)
-
-[Extended Data](ext_articles/e0f9b641.ext.json)
 
 ---

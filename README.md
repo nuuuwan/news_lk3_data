@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 19:51:54**
+As of **2024-04-30 20:04:24**
 
 ## Newspaper Stats
 
-*Scraped **21,906** Articles*
+*Scraped **21,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ newsfirstlk | 363
 islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,837
-tamilmirrorlk | 2,542
+adalk | 1,838
+tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,302
-dailymirrorlk | 3,416
+dailymirrorlk | 3,418
 adaderanasinhalalk | 3,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,906 (100.0%) of 21,906 articles have been extended.
+21,906 (100.0%) of 21,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Over 2,400 new private companies incorporated in March 2024
+
+*2024-04-30 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2-400-new-private-companies-incorporated-in-March-2024/108-281669) · `en`
+
+A total of 2,440 new private limited companies have been incorporated between 1 to 31 March, according to the Department of the Registrar of Companies.
+
+As per a notice published, the companies have been incorporated under Section 05(01) relevant to the incorporation of companies under Companies Act No. 07 of 2007.
+
+The figure represents a 18% growth compared to the number of registrations recorded in January 2024.
+
+Last month, President Ranil Wickremesinghe said that the Registrar Department recorded a total of 1,995 new company registrations in January.
+
+Under the Companies Act No. 07 of 2007, a company is a body corporate identified by the name by which it has been registered.
+
+Subject to certain provisions of the act, these companies can carry on or undertake any business or activity, do any act or enter into any transaction within or outside Sri Lanka.
+
+...
+
+[Data](articles/30b6eb73.json)
+
+---
+
+### Kazakhstan edge Qatar in Racecourse thriller
+
+*2024-04-30 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kazakhstan-edge-Qatar-in-Racecourse-thriller/108-281668) · `en`
+
+Apr. 30 (Daily Mirror) - Kazakhstan had a great start to the Asia Rugby Division 1 Championship opening encounter when they edged out a spirited Qatar outfit by 33 points (five tries and four conversions) to 31 points (one penalty try, three tries, three conversions and one penalty) in a thriller at the Racecourse Grounds in Colombo.
+
+At half time Qatar led 21-14. It was not a fluent game but was too tight in the end. Qatar outfit’s line-out really put them on the wrong side of the book in the end.
+
+They lost two certain try scoring opportunities within the 10-metre mark of the opposition when they failed to win the line-out ball.
+
+Kazakhstan too had number of errors but they never gave up and fought till the end. Physically, they played a better game being yards faster at breakdowns.
+
+Qatar opened scoring through a penalty try in the second minute of the game but the lead was short lived as Kazakhstan hit back through Grigory Litvinov and was converted by Abdrakhman Nazhbayev.
+
+...
+
+[Data](articles/e8d206e4.json)
+
+---
+
+### மின்னல் தாக்கம் குறித்து சிவப்பு எச்சரிக்கை விடுக்கப்பட்டது
+
+*2024-04-30 19:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுக்கப்பட்டது/175-336563) · `ta`
+
+நாட்டின் பல பகுதிகளில் மின்னல் தாக்கம் ஏற்படக்கூடிய சாத்தியம் நிலவுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், மத்திய மற்றும் சபரகமுவ மாகாணங்களுக்கும் காலி, மாத்தறை மற்றும் புத்தளம் ஆகிய மாவட்டங்களுக்கும் மின்னல் தாக்கம் தொடர்பான சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் சந்தர்ப்பங்களில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/6c3dc239.json)
+
+---
 
 ### Four arrested for impersonating CID officers remanded
 
@@ -141,6 +199,22 @@ The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
 [Data](articles/30b1e6ae.json)
 
 [Extended Data](ext_articles/30b1e6ae.ext.json)
+
+---
+
+### දරුවන්ට ශාරීරික දඩුවම් පැමිණවීම තහනම් කිරීමට නව නීතියක්
+
+*2024-04-30 17:33:17* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-ශාරීරික-දඩුවම්-පැමිණවීම-තහනම්-කිරීමට-නව-නීතියක්/11-409351) · `si`
+
+සියලුම ක්ෂේත්‍රවල ශාරීරික දඩුවම් පැනවීම තහනම් කිරීම සඳහා වන විටිවිධාන ඇතුළත් කරමින් දණ්ඩ නීති සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහ පනත සංශෝධනය කිරීම සඳහා අවශ්‍ය පියවර ගැනීම පිණිස  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  සහ අධිකරණ බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා  ඉදිරිපත් කරන ලද ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි වූ බව කැබිනට් ප්‍රකාශක  ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කලේ අද (30) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී ය.
+
+හොඳම දේ ලබා දිය යුත්තේ දරුවන්ට නම් නරකම දේ ලබා දීම ද වැළක්විය යුතුය යන්න පිළිබඳව ,ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අවධානය යොමුව තිබෙන බවත් ඒ අනුව සියලුම ක්ෂේත්‍රවල ශාරීරික දඩුවම් පැනවීම තහනම් කිරීම සඳහා දණ්ඩ නීති  සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහ පනත සංශෝධනය කිරීම සඳහා  ජනාධිපතිවරයා විසින් මෙම යෝජනාව ඉදිරිපත් කර තිබේ.
+
+...
+
+[Data](articles/44b297af.json)
 
 ---
 
@@ -2197,99 +2271,5 @@ The case was filed against the Attorney General Mahindananda Aluthgamage, the At
 [Data](articles/8dce6f2d.json)
 
 [Extended Data](ext_articles/8dce6f2d.ext.json)
-
----
-
-### Lock for liquor schools in areas where May Day rallies are held
-
-*2024-04-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182284) · `ta`
-
-Sri Lanka's Excise Department bans liquor sales in Divisional Secretariat areas on May 1st and special events on Wednesday, closing retailers from Tuesday to Thursday, except hotels registered with SLTDA. Strict legal action will be taken against violators.
-
-🟩
-
-The Sri Lanka Excise Department has banned the sale of liquor in the Divisional Secretariat areas of May 1st and special events on Wednesday.
-
-All retailers, including restaurants and restaurants, will be closed from time to time on Tuesday (30) from time to Thursday (02).
-
-However, all hotels and guest hotels registered obtained under the Sri Lanka Tourism Development Authority (SLTDA) are exempted from this order.
-
-It is noteworthy that the department has warned that strict legal action will be taken against those who violate the Excise Act.
-
-◼️
-
-[Data](articles/0bb5e198.json)
-
-[Extended Data](ext_articles/0bb5e198.ext.json)
-
----
-
-### If May the Dronds are used in May
-
-*2024-04-30 11:16:37* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ඩ්‍රෝන-භාවිත-කරනවානම්-අවසර-ගන්න/11-409339) · `si`
-
-Police Headquarters confirms the use of drones for May Day events, including parades and waves, and notes their relevance across the island.
-
-🟩
-
-Police Headquarters say that if the drones are used to cover May Day waves and parades, police headquarters said.
-
-Police Headquarters says that the use of drones is the use of drones, according to the police headquarters.
-
-The program is also relevant for May wrinkles island wide, police headquarters.
-
-◼️
-
-[Data](articles/cfddef79.json)
-
-[Extended Data](ext_articles/cfddef79.ext.json)
-
----
-
-### AstraZeneca admits for first time its Covid vaccine CAN cause rare side effect
-
-*2024-04-30 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AstraZeneca-admits-for-first-time-its-Covid-vaccine-CAN-cause-rare-side-effect/108-281639) · `en`
-
-April 30 (Daily Mail) - AstraZeneca has admitted in court for the first time that its Covid jab can cause a deadly blood clotting side effect.
-
-The exceedingly rare reaction is at the heart of a multi million-pound class action by dozens of families who allege they, or their loved ones, were maimed or killed by the pharmaceutical titan's 'defective' vaccine.
-
-Lawyers representing the claimants believe some of the cases could be worth up to £20m in compensation.
-
-Cambridge-based AstraZeneca, which is contesting the claims, acknowledged in a legal document submitted to the High Court in February that its vaccine 'can, in very rare cases, cause TTS'.
-
-TTS is short for thrombosis with thrombocytopenia syndrome – a medical condition where a person suffers blood clots along with a low platelet count. Platelets typically help the blood to clot.
-
-The complication – listed as a potential side effect of the jab – has previously been called vaccine-induced immune thrombotic thrombocytopenia (VITT).
-
-...
-
-[Data](articles/0c49c61a.json)
-
-[Extended Data](ext_articles/0c49c61a.ext.json)
-
----
-
-### AstraZeneca admits for first time its COVID vaccine can cause rare side effect
-
-*2024-04-30 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/AstraZeneca-admits-for-first-time-its-COVID-vaccine-can-cause-rare-side-effect/107-281639) · `en`
-
-April 30 (Daily Mail) - AstraZeneca has admitted in court for the first time that its COVID  jab can cause a deadly blood clotting side effect.
-
-The exceedingly rare reaction is at the heart of a multi million-pound class action by dozens of families who allege they, or their loved ones, were maimed or killed by the pharmaceutical titan's 'defective' vaccine.
-
-Lawyers representing the claimants believe some of the cases could be worth up to £20m in compensation.
-
-Cambridge-based AstraZeneca, which is contesting the claims, acknowledged in a legal document submitted to the High Court in February that its vaccine 'can, in very rare cases, cause TTS'.
-
-TTS is short for thrombosis with thrombocytopenia syndrome – a medical condition where a person suffers blood clots along with a low platelet count. Platelets typically help the blood to clot.
-
-The complication – listed as a potential side effect of the jab – has previously been called vaccine-induced immune thrombotic thrombocytopenia (VITT).
-
-...
-
-[Data](articles/7dfbf67f.json)
-
-[Extended Data](ext_articles/7dfbf67f.ext.json)
 
 ---

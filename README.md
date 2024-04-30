@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 18:34:13**
+As of **2024-04-30 18:51:39**
 
 ## Newspaper Stats
 
-*Scraped **21,900** Articles*
+*Scraped **21,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,228
 economynextcom | 1,242
 adalk | 1,836
 tamilmirrorlk | 2,542
-adaderanalk | 2,593
+adaderanalk | 2,594
 virakesarilk | 3,302
 dailymirrorlk | 3,415
 adaderanasinhalalk | 3,544
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,899 (100.0%) of 21,900 articles have been extended.
+21,900 (100.0%) of 21,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### President to attend two May Day rallies tomorrow
+
+*2024-04-30 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98942/president-to-attend-two-may-day-rallies-tomorrow) · `en`
+
+President Ranil Wickremesinghe is scheduled to participate in two May Day rallies tomorrow (01) in lieu of International Labour Day.
+
+The May Day Rally organized by the Ceylon Workers’ Congress (CWC) to commemorate International Labour Day will commence at 10:00 am at the Kotagala Public Grounds.
+
+According to the President’s Media Division (PMD), Wickremesinghe is scheduled to participate in this event, responding to the invitation extended by the Ceylon Workers’ Congress.
+
+The rally and parade are expected to draw a significant number of upcountry plantation workers. Notably, the Ceylon Workers’ Congress, stands as the largest trade union and political party representing the upcountry community.
+
+Subsequently, in the afternoon of the same day, President Wickremesinghe is slated to lead the United National Party’s (UNP) May Day Rally from opposite the Maligawatta Police in Colombo.
+
+◼️
+
+[Data](articles/5fdaf639.json)
+
+---
 
 ### Woman arrested for bribes
 
@@ -183,6 +203,8 @@ Speaking to the media, he noted that previously, political parties held their Ma
 ...
 
 [Data](articles/2cdc57fb.json)
+
+[Extended Data](ext_articles/2cdc57fb.ext.json)
 
 ---
 
@@ -2269,27 +2291,5 @@ It has been reported that four people, including a woman who went to a house in 
 [Data](articles/2f3098a3.json)
 
 [Extended Data](ext_articles/2f3098a3.ext.json)
-
----
-
-### Minister of Defense Special Observation on the risk of landslides in Karandagolla area in Badulla
-
-*2024-04-30 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182294) · `ta`
-
-Defense Minister Bandara Tennakoon visited Karandagolla, Badulla, to assess landslide risks, ordering a detailed report. Authorities, including the National Building Research Institute and Risk Management Center, were instructed to prevent future risks. A review of the land area is planned for May 1st.
-
-🟩
-
-Defense Minister of State for Defense Bandara Tennakoon on April 21 paid special attention to the landslide near the Ellawaya road in the Karandakolla area of the Badulla district and ordered the relevant authorities to re -examine the location and submit a detailed report.
-
-In addition, the Minister of State has provided the instructions to the National Building Research Institute and the Risk Management Center to take immediate steps to prevent the risk of humanity in the future.
-
-In addition to the instructions of the Minister of State, the Director General of the Risk Management Center, the Director of the National Building Research Institute and the Scientists of the Geological Survey and the Mining Bureau of the Ministry of Ministry have taken steps to review the land area on the 01st of May.
-
-◼️
-
-[Data](articles/21ef5f65.json)
-
-[Extended Data](ext_articles/21ef5f65.ext.json)
 
 ---

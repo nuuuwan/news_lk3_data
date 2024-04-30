@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 09:18:26**
+As of **2024-04-30 09:35:01**
 
 ## Newspaper Stats
 
-*Scraped **21,761** Articles*
+*Scraped **21,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,819
-tamilmirrorlk | 2,523
+tamilmirrorlk | 2,525
 adaderanalk | 2,580
 virakesarilk | 3,274
-dailymirrorlk | 3,389
+dailymirrorlk | 3,391
 adaderanasinhalalk | 3,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,761 (100.0%) of 21,761 articles have been extended.
+21,761 (100.0%) of 21,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Four arrested for impersonating CID officers and extorting Rs. 10 Mn bribe
+
+*2024-04-30 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-arrested-for-impersonating-CID-officers-and-extorting-Rs-10-Mn-bribe/108-281630) · `en`
+
+Colombo, April 30 (Daily Mirror) - Four persons were arrested for impersonating officers of the Criminal Investigation Department and demanding a bribe of Rs. 10 million.
+
+The Bribery or Corruption Investigation Commission said that the suspects were apprehended yesterday (29) in Kollupitiya based on a complaint by a resident of Dehiwala.
+
+They said that a search was carried out in a house located in Kollupitiya and Rs. 12 million in cash and 3,500 US dollars belonging to the complainant were taken by the suspects, claiming that there was an investigation against the complainant.
+
+Later, the suspects visited the house and confiscated the passport of an Indian who was working there.
+
+Later, the suspects contacted the complainant by phone and had demanded a bribe of Rs. 40 million to assist in the investigation against him and return the confiscated passport.
+
+Subsequently, the amount was reduced to Rs. 35 million, with an initial demand of Rs. 10 million.
+
+...
+
+[Data](articles/37a8f341.json)
+
+---
 
 ### International Day to end the physiological punishment today
 
@@ -49,6 +71,22 @@ Therefore, in Sri Lanka, especially in schools, the STOP Child Cruelty Trust (ST
 [Data](articles/bc4ea302.json)
 
 [Extended Data](ext_articles/bc4ea302.ext.json)
+
+---
+
+### Four underage girls raped in Moneragala District
+
+*2024-04-30 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-underage-girls-raped-in-Moneragala-District/108-281628) · `en`
+
+Four incidents of rape involving underage girls have been reported today from the Buttala, Wedekumbura, Kudaoya and Wellawaya police areas in the Moneragala district.
+
+A 13 year old school girl of Katugahagalge in Buttala had been abducted and raped by a young man and the suspect was arrested on April 27 during investigations of her mother’s complaint that she had gone missing after she went to school on April 19.
+
+Investigations revealed that she had been in love with her elder sister’s lover and had eloped with him. The 25 year old young man had taken her to a lodge in Wellwaya area and raped her for about a week and later at a lodge in the Awissawella area. Buttala police are conducting further investigations.
+
+...
+
+[Data](articles/b984411a.json)
 
 ---
 
@@ -77,6 +115,10 @@ Speaking further Kusal Mendis said that he and Dhanushka Gunatilleke batting in 
 ### Farmers demand that they get their agricultural land occupied by the Vikramadi
 
 *2024-04-30 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182280) · `ta`
+
+Farmers in Athikattuveli demand that a Buddhist monk, Vikramadi, cultivate their traditional agricultural lands, which have been affected by the monk's occupation of 88 acres for 3 years. The land, previously farmed by the Kuchchaveli community, was acquired by the Forest Resource Protection Department after displacement due to war. In 2021, the Sapbhata Forest Senasuna Viharakarakam occupied the land, with a 30-year lease from 2023. A Divisional Secretariat letter advises the Attorney General.
+
+🟩
 
 Farmers are demanding that a Buddhist monk cultivate in the traditional agricultural lands of the Tamil people in the Athikattuveli area of ​​the Kuchchaveli - Thiriyai Grama Niladhari Division, and that their livelihood has been affected.
 
@@ -778,6 +820,26 @@ He stated that the new faculty will enroll 500 local and foreign students annual
 
 ### 2024-04-29 (Monday)
 
+### ’49 சுற்றுலாத் தலங்களை அறிவிக்க நடவடிக்கை’
+
+*2024-04-29 23:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-சுற்றுலாத்-தலங்களை-அறிவிக்க-நடவடிக்கை/175-336538) · `ta`
+
+சுற்றுலாத் துறையின் மேம்பாட்டுக்காக மேலும் 49 சுற்றுலாத் தலங்களை இனங்கண்டுள்ளதாகவும்  இன்னும் ஒரு மாத காலத்திற்குள் அவற்றை சுற்றுலா வலயங்களாக வர்த்தமானியில் வெளியிட நடவடிக்கை எடுத்து வருவதாகவும் சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+சுற்றுலாத் துறையின் மேம்பாட்டுக்காக மேலும் 49 சுற்றுலாத் தலங்களை இனங்கண்டுள்ளோம். இன்னும் ஒரு மாத காலத்திற்குள் அவற்றை சுற்றுலா வலயங்களாக வர்த்தமானியில் வெளியிடவும் நடவடிக்கை எடுத்து வருகின்றோம். இதன் ஊடாக எமது நாட்டுக்கு வருகை தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கையை அதிகரிக்க எதிர்பார்த்துள்ளோம்.
+
+இந்த நாட்டில் இயங்கும் SPA மையங்கள் தொடர்பில் அண்மைக் காலங்களில் பல்வேறு விமர்சனங்கள் எழுந்துள்ளன.
+
+இவை உண்மையில் ஏனைய நாடுகளில் ஆரோக்கிய மையங்களாகவே இயங்குகின்றன. மக்களின் ஆரோக்கியத்தில் கவனம் செலுத்துவையாக அவை இருக்க வேண்டும். ஆனால் இந்த நாட்டில் அவ்வாறான இடங்களில் இடம்பெறுபவை பற்றி நான் குறிப்பிடத் தேவையில்லை என்றார். (a)
+
+◼️
+
+[Data](articles/047114b9.json)
+
+---
+
 ### The easiest victory for Kolkata in all sectors
 
 *2024-04-29 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182276) · `ta`
@@ -809,6 +871,24 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 [Data](articles/999610aa.json)
 
 [Extended Data](ext_articles/999610aa.ext.json)
+
+---
+
+### ’விவசாயத்திற்கு அதிக பங்களிப்பை வழங்க திட்டம்’
+
+*2024-04-29 23:26:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்திற்கு-அதிக-பங்களிப்பை-வழங்க-திட்டம்/175-336537) · `ta`
+
+நாட்டின் பொருளாதாரத்தை முன்னேற்றுவதற்கு விவசாயத்திற்கு அதிகபட்ச பங்களிப்பை வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பு கோல்பேஸ் ஹோட்டலில் நேற்று முன்தினம் இடம்பெற்ற டில்மா சினமன் வர்த்தக நாமத்தை அறிமுகப்படுத்தும் நிகழ்வில் கலந்து கொண்ட போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+'சிலோன் டீ' என்ற பெயரை சர்வதேச சந்தைக்கு கொண்டு சென்ற டில்மா வர்த்தக நாமம்,  தனது நிறுவனத்தின் ஊடாக மேற்கொள்ளப்படும் உள்நாட்டு ஏற்றுமதியை மேலும் விரிவுபடுத்தி இலங்கையின் கறுவா தொழிற்துறையில் பிரவேசித்து டில்மா வர்த்தக நாமத்தின் கீழ் உயர்தர கறுவா உற்பத்திகளை சர்வதேச சந்தைக்கு அறிமுகப்படுத்த நடவடிக்கை எடுத்துள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் உலக சமையல் கலைஞர்கள் சங்கத்தின் தலைவர் மாஸ்டர் செஃப் தோமஸ் குக்லர் ஆகியோர் டில்மா கறுவா தயாரிப்புகளை அடையாள ரீதியில் வெளியிட்டனர். இதன்போது ஜனாதிபதி மேலும் உரையாற்றுகையில்,
+
+...
+
+[Data](articles/c4b8b3f8.json)
 
 ---
 
@@ -2049,107 +2129,5 @@ One says "IMF and World Bank with me. I can't borrow, or you don't borrow. ". On
 [Data](articles/9a64718c.json)
 
 [Extended Data](ext_articles/9a64718c.ext.json)
-
----
-
-### Fitch affirms Sri Lanka’s UB Finance rating at ‘BB(lka)’
-
-*2024-04-29 17:54:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-ub-finance-rating-at-bblka-160531/) · `en`
-
-ECONOMYNEXT – Fitch affirmed licensed non-bank lender UB Finance Company Ltd’s national long-term rating at ‘BB(lka)’. The outlook is stable.
-
-The rating is driven by Fitch’s expectation of extraordinary support from Union Bank of Colombo PLC, which owns 89.9 percent of UB Finance.
-
-“UBF’s rating is constrained by our view that any support required may be more of a burden relative to UB’s modest balance sheet size, compared with other Fitch-rated financial leasing companies owned by larger banks,” Fitch said in its assessment.
-
-The rating agency expects the proposed rights issue to bridge UBF’s regulatory capital shortfall. “However, the capital buffer could be thin against the regulatory minimum capital of LKR2.5 billion and may fall below the regulatory requirement should there be any unforeseen losses.”
-
-Fitch Ratings – Colombo – 26 Apr 2024: Fitch Ratings has affirmed UB Finance PLC’s (UBF) National Long-Term Rating at ‘BB(lka)’. The Outlook is Stable.
-
-...
-
-[Data](articles/66f39edd.json)
-
-[Extended Data](ext_articles/66f39edd.ext.json)
-
----
-
-### The squad exceeds $ 5 billion
-
-*2024-04-29 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඩොලර්-බිලියන-5-ඉක්මවයි/11-409326) · `si`
-
-Sri Lanka's foreign reserves surpass $5 billion, with tourism reaching 757,000 by April 25, contributing to the increase. The economy is expected to improve for the next three months.
-
-🟩
-
-Sri Lanka's foreign reserves have exceeded $ 5 billion, State Minister Shehan Semasinghe
-
-Speaking at a program in Colombo, he added that Sri Lanka had reached 757,000 tourists by April 25 this year, he had become a reason for the increase in the foreign reserves in Sri Lanka.
-
-The State Minister pointed out that the Sri Lankan economy will be further good for the next three months.
-
-◼️
-
-[Data](articles/adc2ad87.json)
-
-[Extended Data](ext_articles/adc2ad87.ext.json)
-
----
-
-### Dad and son, son, caught with heroin
-
-*2024-04-29 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196101) · `si`
-
-Father and son, part of the Western Province Corruption Unit, arrested for heroin possession. Found 50g and 630mg of heroin in their home. Accused revealed the drug was from Dubai.
-
-🟩
-
-The father and son of the Western Province Corruption Unit of the Colombo Division have been arrested by the father of heroin racket.
-
-The suspects have been arrested in their home in Borella during a raid conducted by the unit.
-
-"Fish Samantha" or Benjamin Saman and his son Benjamin Harsha, or two racketeers named 'Cholai'.
-
-Police found 50 grams and 630 milligrams of heroin in their possession.
-
-The suspects have revealed that the police had revealed the drug from Dubai, Kavashka Madushan, or "Mome-Malli".
-
-The suspects were produced before the Maligakanda Magistrate's Court and commenced further investigations.
-
-◼️
-
-[Data](articles/e3bfa745.json)
-
-[Extended Data](ext_articles/e3bfa745.ext.json)
-
----
-
-### Tamil MP
-
-*2024-04-29 17:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபான-அனுமதி-பத்திரத்தை-விற்ற-தமிழ்-எம்-பி/175-336516) · `ta`
-
-A Tamil MP received two liquor licenses worth Rs 2 crore, allegedly in exchange for joining the government. This led to a complaint by the Vikaradi of Digana to the opposition leader, Sajith Premadasa, and questions in Parliament about 200 liquor licenses issued to MPs for election support.
-
-🟩
-
-It has been reported that a Tamil MP of the Opposition of the Central Province has received two liquor licenses worth more than Rs 2 crore.
-
-It is said that two traders were sold to two liquor permits in Digana.
-
-It has been revealed that he has received these two liquor permits, promising to join the government.
-
-Following the information, they reported that the Vikaradi of a Vikarai in Digana area summoned two traders who had been licensed by the liquor licensed traders.
-
-Later, the Vikramadi lodged a complaint with opposition leader Sajith Premadasa regarding the incident.
-
-Recently, it was widely rumored that the government had granted 200 liquor licenses to the MPs to get support in the election.
-
-A group of MPs, including the Leader of the Opposition, have questioned the government in Parliament for the past few days. It is also noteworthy that the opposition leader has said that all the liquor licenses issued will be revoked when he comes to power.
-
-◼️
-
-[Data](articles/d290ab33.json)
-
-[Extended Data](ext_articles/d290ab33.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 01:51:53**
+As of **2024-05-01 02:03:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,941 (100.0%) of 21,942 articles have been extended.
+21,942 (100.0%) of 21,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,19 +70,25 @@ In other words we have a huge gap between the number of candidates attempting to
 
 ### 2024-04-30 (Tuesday)
 
-### பொது வேட்பாளரை நிறுத்த தீர்மானம்
+### Resolution
 
 *2024-04-30 23:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளரை-நிறுத்த-தீர்மானம்/175-336579) · `ta`
 
-ஜனாதிபதி தேர்தலில் பொது வேட்பாளரை நிறுத்துவதற்கு சிவில் சமூக செயற்பாட்டாளர்கள், மதத் தலைவர்கள்   தீர்மானித்துள்ளனர்
+Civil and religious leaders in Agathiyar Adikallar, Trincomalee, agreed to unite behind a single presidential candidate, marking a significant event held at the RH Guest House in Vavuniya Railway Road.
 
-குறித்த ஒன்று கூடல் அரசியல்  ஆய்வாளர் நிலாந்தன் தலைமையில்   வவுனியா புகையிரத வீதியில் அமைந்துள்ள RH விருந்தினர் விடுதியில், செவ்வாய்க்கிழமை (30) நடைபெற்றது.
+🟩
 
-இதில் உரையாடலை அகத்தியர் அடிகளார், திருகோணமலை வண. ஆயர் நொயல் இமானுவேல்  வேலன் சுவாமிகள் உட்பட 48  சிவில் சமூக செயற்பாட்டாளர்கள்ஈ மத தலைவர்கள் என கலந்து  கொண்டிருந்தனர். இதன்போதே, ஜனாதிபதி தேர்தலில் பொது வேட்பாளரை நிறுத்த தீர்மானிக்கப்பட்டுள்ளது.
+Civil social activists and religious leaders have decided to field a common candidate in the presidential election
+
+The event was held on Tuesday (30) at the RH Guest House in Vavuniya Railway Road under the leadership of Koodal Political Inspector Nilanthan.
+
+Agathiyar Adikallar, Trincomalee. 48 civil society activists, including pastor Noyal Emanuel Velan Swamis, were present as religious leaders. Meanwhile, it has been decided to field a common candidate in the presidential election.
 
 ◼️
 
 [Data](articles/17d6f268.json)
+
+[Extended Data](ext_articles/17d6f268.ext.json)
 
 ---
 

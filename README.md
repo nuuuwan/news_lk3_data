@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 00:48:48**
+As of **2024-05-01 01:03:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,938 (100.0%) of 21,941 articles have been extended.
+21,941 (100.0%) of 21,941 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Consider today, Ranil Wickremesinghe, Sajith Premadasa and a horde of Ministers 
 ...
 
 [Data](articles/3d5e0d49.json)
+
+[Extended Data](ext_articles/3d5e0d49.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ In other words we have a huge gap between the number of candidates attempting to
 ...
 
 [Data](articles/b38b3eba.json)
+
+[Extended Data](ext_articles/b38b3eba.ext.json)
 
 ---
 
@@ -102,19 +106,29 @@ Akash Madushank then placed his second truck in the 73rd minute and a Ratwatta t
 
 ---
 
-### போலி முகநூல் பதிவுக்கு எதிராக வழக்கு
+### Case against fake Facebook Record
 
 *2024-04-30 23:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-முகநூல்-பதிவுக்கு-எதிராக-வழக்கு/175-336578) · `ta`
 
-போலி முகநூல் பதிவொன்றுக்கு எதிராக திருகோணமலை மாவட்ட நீதிமன்றில் செவ்வாய்க்கிழமை (30) வழக்கொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+A case against a fake Facebook record was filed in Trincomalee District Court. Senior Attorney Ramalingam submitted the petition, seeking details on the identity behind the account and related events. The Criminal Investigation Department was ordered to take action. This is the first such case in the district.
 
-நிகழ்நிலைக் காப்புச் சட்டத்தின்கீழ் மனுவை சட்டத்தரணி நாகராஜா மோகன் தாக்கல் செய்திருந்தார். குறித்த மனுவை ஆதரித்து சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமாரநாதன் மன்றில் சமர்ப்பணம் செய்திருந்தார்.
+🟩
 
-மெய்யுறுதிப்படுத்தப்படாத முகநூல் நிகழ்நிலைக் கணக்கினை பயன்படுத்துபவரது ஆள் அடையாளம் உறுதிப்படுத்தப்படல் வேண்டும், குறித்த முகநூல் கணக்கு பயன்படுத்தப்படும் அமைவிடம் அவற்றோடு தொடர்புடைய ஏனைய நிகழ்வுகள் பற்றிய விடயங்கள் உறுதிப்படுத்தப்படல் வேண்டும், போன்ற விண்ணப்பங்களை முன்வைக்கப்பட்டது.
+A case has been filed in the Trincomalee District Court on Tuesday (30).
 
-...
+Attorney -at -Law. Senior Attorney Ramalingam had submitted the petition to the Thirukumaranathan Hall in support of the petition.
+
+Applications have been made, such as the identity of the person who uses the non -conscious face -to -face, and to ensure other events related to the facial account used by the Facebook account.
+
+The Director of the Social Media Department of the Criminal Investigation Department of the Criminal Investigation Department (Criminal Investigation), Colombo 01, was ordered to take the necessary and necessary action on the immediate obtaining details of the above mention and events and events from the Dialog and the Dialog Company.
+
+District Magistrate, Ganesharaja, has issued the order to suit the applications. This is the first time that such a case has been filed in the Trincomalee District Court.
+
+◼️
 
 [Data](articles/1e496fd6.json)
+
+[Extended Data](ext_articles/1e496fd6.ext.json)
 
 ---
 

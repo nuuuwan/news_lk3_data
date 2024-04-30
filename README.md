@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 18:51:39**
+As of **2024-04-30 19:03:43**
 
 ## Newspaper Stats
 
-*Scraped **21,901** Articles*
+*Scraped **21,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,836
 tamilmirrorlk | 2,542
 adaderanalk | 2,594
 virakesarilk | 3,302
-dailymirrorlk | 3,415
-adaderanasinhalalk | 3,544
+dailymirrorlk | 3,416
+adaderanasinhalalk | 3,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,900 (100.0%) of 21,901 articles have been extended.
+21,901 (100.0%) of 21,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### CID ලෙස පෙනී සිටි 4දෙනා රිමාන්ඩ්
+
+*2024-04-30 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196142) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් ලෙස පෙනී සිටිමින් කොල්ලුපිටියේදී රුපියල් කෝටියක අල්ලසක් ලබාගැනීමට උත්සාහ කිරීමේ සිද්ධියේ සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මගින් එලෙස අත්අඩංගුවට ගෙන තිබුණේ කාන්තාවක් ඇතුළු පුද්ගලයන් සිව්දෙනෙකි.
+
+සැකකරුවන් අද (30) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන 14 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
+
+◼️
+
+[Data](articles/5f4343bb.json)
+
+---
+
+### Geologists team to visit Uma Oya area to assess reports on cracks: Minister
+
+*2024-04-30 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Geologists-team-to-visit-Uma-Oya-area-to-assess-reports-on-cracks-Minister/108-281667) · `en`
+
+Colombo, April 30 (Daily Mirror)- Claiming that there have been no reported landslides or other issues since the Uma Oya Project was opened, State Minister of Power and Energy Indika Anuruddha said a team of geologists will embark on an inspection tour of the Uma Oya region tomorrow to assess and document any reported cracks and floods in the area.
+
+He cautioned against misleading representations, noting that some individuals are attempting to mislead the public by showcasing small waterfalls resulting from rainfall.
+
+The Minister said this during a media briefing at the Presidential Media Centre (PMC) today (30) under the theme “Collective Path to a Stable Country”.
+
+"The country has suffered a loss of nearly USD 200 billion due to the nine-year delay in completing the Uma Oya Multipurpose Development Project. Consequently, the loss over the past nine years is estimated at USD 587 million.
+
+...
+
+[Data](articles/18ae5137.json)
+
+---
 
 ### President to attend two May Day rallies tomorrow
 
@@ -49,6 +83,8 @@ Subsequently, in the afternoon of the same day, President Wickremesinghe is slat
 ◼️
 
 [Data](articles/5fdaf639.json)
+
+[Extended Data](ext_articles/5fdaf639.ext.json)
 
 ---
 
@@ -2249,47 +2285,5 @@ A 30 year old resident of Cheinkladi, who had been possessed with 11 Gesamutans,
 [Data](articles/b514845a.json)
 
 [Extended Data](ext_articles/b514845a.ext.json)
-
----
-
-### Appeals Court defers decision on Keheliya’s petition against remand order
-
-*2024-04-30 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98932/appeals-court-defers-decision-on-keheliyas-petition-against-remand-order) · `en`
-
-The Appeals Court has deferred its decision on the writ application filed by former Health Minister Keheliya Rambukwella challenging the remand order issued by the Maligakanda Magistrate.
-
-The decision, which was scheduled to be delivered today (30), is now expected to be communicated on 07 May.
-
-The writ application was called before Appeals Court Judge D.N. Samarakoon this morning.
-
-The former health minister had put forward the relevant petition, seeking a court order invalidating the order issued by the Maligakanda Magistrate under the Public Property Act to remand him until the completion of the trial on substandard human immunoglobulin procurement.
-
-◼️
-
-[Data](articles/b5e315c3.json)
-
-[Extended Data](ext_articles/b5e315c3.ext.json)
-
----
-
-### Bribery arrested for alleged criminal intelligence officials
-
-*2024-04-30 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/182298) · `ta`
-
-Bribery commission officials arrested four, including a woman, for allegedly receiving $20,000 from CID officials.
-
-🟩
-
-An incident has been reported to have been bribed by Rs.
-
-Four people, including a woman suspect, have been arrested by the bribery commission officials.
-
-It has been reported that four people, including a woman who went to a house in Kaluppitti, claimed to have received $ 20,000 from the Criminal Investigation Department officials.
-
-◼️
-
-[Data](articles/2f3098a3.json)
-
-[Extended Data](ext_articles/2f3098a3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 15:34:04**
+As of **2024-04-30 15:52:36**
 
 ## Newspaper Stats
 
-*Scraped **21,858** Articles*
+*Scraped **21,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,107 @@ tamilmirrorlk | 2,539
 adaderanalk | 2,589
 virakesarilk | 3,293
 dailymirrorlk | 3,409
-adaderanasinhalalk | 3,539
+adaderanasinhalalk | 3,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,849 (100.0%) of 21,858 articles have been extended.
+21,858 (100.0%) of 21,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### உமா ஓயா திட்டம் தொடர்பில் எந்தப் பிரச்சனையும் இல்லை : பொய்யான கூற்றுகளுக்கு ஏமாறாதீர்கள் - இந்திக அனுருத்த
+### ගුවන්තොටුපොළේදී වැරදීමකින් පිටවූ වෙඩිල්ල
+
+*2024-04-30 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196137) · `si`
+
+කටුනායක ගුවන්තොටුපොළ ප්‍රභූ පර්යන්තය ආසන්නයේ සේවයේ යෙදී සිටි ගුවන් භටයෙකුගේ ගිනි අවිය අත්වැරදීමකින් ක්‍රියාත්මක වීම සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පවසයි.
+
+අද (30) උදෑසන 10ත් 11ත් අතර කාලයේදී සිදුවූ එම සිදුවීමෙන් කිසිවෙකුත් තුවාල ලබා නොමැති බව ඔහු පැවසීය.
+
+"එම ගුවන් භටයා විවේක ගන්නා ස්ථානයකට ගොස් වතුර බොන අවස්ථාවේදී ඔහුගේ ගිනි අවිය බිම වැටිලා උණ්ඩයක් පිටවුණා කියන එක තමයි ඔහු කියන්නේ."
+
+එම අවස්ථාවේදී පිටවූ උණ්ඩය අසල ගොඩනැගිල්ලක ඉහළ ස්ථානයක වැදී තිබුණි.
+
+◼️
+
+[Data](articles/e873d000.json)
+
+---
+
+### There is no problem with the Uma Oya project: Don't be fooled for false claims - Indika Anurutha
 
 *2024-04-30 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182337) · `ta`
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டம் மக்களிடம் கையளிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புபட்டதாக மண்சரிவுகளோ அல்லது வேறு பிரச்சினைக்குரிய சூழ்நிலைகளோ இதுவரை பதிவாகவில்லை. மழையுடன் ஏற்படும் சிறிய நீரூற்றுக்களை காண்பித்து மக்களை தவறாக வழிநடத்த சிலர் முயற்சிப்பதாக மின்சக்தி மற்றும் வல சக்தி இராஜாங்க அமைச்சர் இந்திக அனுருத்த ஹேரத் தெரிவித்தார்.
+Indika Anurutha Herath, Minister of Electricity and Power, refutes claims of landslides and other issues with the Uma Oya project, attributing them to misinformation. He also mentions a visit by geopolitists to investigate alleged cracks and water leaks. Despite delays, the project's inability to produce electricity and its exclusion from the national structure have led to significant losses. The government aims for 70% renewable power generation, with wind and solar power playing key roles. Efforts are underway to accelerate power plant projects and increase renewable energy capacity.
 
-உமா ஓயா பிரதேசத்தில் ஏற்பட்டதாக கூறப்படும் விரிசல்கள் மற்றும் நீர்க் கசிவுகள் தொடர்பில் ஆராய்ந்து அறிக்கை சமர்பிப்பதற்காக பூகற்பவியலாளர்கள் குழுவொன்று நாளை (01) அப்பகுதிக்கு கண்காணிப்பு விஜயத்தை மேற்கொள்ளவுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (30) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் இந்திக அனுருத்த இதனைத் தெரிவித்தார்.
+After the Uma Oya Multi -Purpose Development Program was handed over to the people, there are no landslides or other problems that have been related to it.. Minister of Electricity and Wala Shakti, Indika Anurutha Herath, said that some people are trying to mislead the people by showing the small springs in the rain.
+
+The Minister of State also stated that a group of earthquakes will make a visit to the area tomorrow (01) to submit a report on alleged cracks and water leaks in the Uma Oya area.
+
+Minister of Electricity and Power and Energy Indic Anurutha said this at a media briefing held at the Presidential Media Center today.
+
+The country has suffered a huge loss due to the delay in completing the Umoya Multipurpose Development Program. Accordingly, the loss of the last nine years is estimated at $ 587 million. The initial estimate of the project was recorded at $ 529 million.
 
 ...
 
 [Data](articles/dc44ee78.json)
 
+[Extended Data](ext_articles/dc44ee78.ext.json)
+
 ---
 
-### பொதுத்தேர்தல் குறித்த கருத்துக்கணிப்பு - முன்னிலையில் ஐக்கிய மக்கள் சக்தி
+### Poll on General Elections - United People's Power
 
 *2024-04-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182335) · `ta`
 
-பொதுத்தேர்தலில் வாக்களிப்பது குறித்த மக்களின் நோக்கங்களை அறிவதற்கான கருத்துக்கணிப்பில் தேசிய மக்கள் சக்தியை விட ஐக்கிய மக்கள் சக்திக்கு  அதிகளவானவர்கள் ஆதரவு வெளியிட்டுள்ளனர் என சுகாதார கொள்கைகளிற்கான நிறுவகம்  தெரிவித்துள்ளது.
+In a poll on general elections, United People's Power (UPP) gained 4% support, surpassing National People's Power (NPP) with 38% vs. 35%. Sri Lanka PA United National Party (UNP) maintains support for Sri Lanka Freedom Party (SLFP). Ravi Ravi Rannan, HP director, noted increased April poll numbers.
 
-ஐக்கிய மக்கள் சக்திக்கு கருத்துக்கணிப்பில் கலந்துகொண்டவர்களில் 38 வீதமானவர்களும் தேசிய மக்கள் சக்திக்கு 35வீதமானவர்களும் ஆதரவு வெளியிட்டுள்ளனர்.
+🟩
 
-2022 ம் ஆண்டின் பின்னர் முதல்தடவையாக ஐக்கிய மக்கள் சக்தி முதலாம் இடத்தில் காணப்படுகின்றது அந்த கட்சிக்கான ஆதரவு நான்கு வீதமாக அதிகரித்துள்ளது என  சுகாதார கொள்கைகளிற்கான நிறுவகம் தெரிவித்துள்ளது.
+The Institute for Health Policy has said that in a poll to know the purpose of voting in the general election, the United People's Power has supported the United People's Power than the National People's Power.
 
-ஸ்ரீலங்கா பொதுஜனபெரமுன ஐக்கிய தேசிய கட்சி ஸ்ரீலங்கா சுதந்திர கட்சிக்களுக்கான ஆதரவுகளில் மாற்றங்கள் ஏற்படவில்லை என கருத்துக்கணிப்பை மேற்கொண்ட அமைப்பு தெரிவித்துள்ளது.
+38 percent of those who participated in the United People's Power and 35 percent of the national people's power.
 
-...
+For the first time since 2022, the United People's Power has increased to four percent.
+
+The Sri Lanka PA United National Party (UNP) has not changed the support of the Sri Lanka Freedom Party (SLFP).
+
+Commenting on the aim of voting in the general election, Ravi Ravi Rannan, director of the HP, pointed out that the polls in April Eliya have increased in the polls earlier in the month of April.
+
+◼️
 
 [Data](articles/09fbd11a.json)
 
+[Extended Data](ext_articles/09fbd11a.ext.json)
+
 ---
 
-### கட்டுநாயக்க விமான நிலையத்தில் தங்க நகைக்கடை ; அமைச்சரவை அங்கீகாரம்
+### Gold jewelery at Katunayake airport;Cabinet authorization
 
 *2024-04-30 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182332) · `ta`
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் புறப்படும் இடம் அல்லது நடமாடும் வலயத்தில் தங்க நகைக்கடை அமைப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved a gold jewelry shop at Katunayake Airport, aiming to introduce a new business opportunity in the departure zone. This decision follows a proposal by the Airport and Airlines (Sri Lanka) Company, addressing the lack of access to departure areas.
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் புறப்படும் இடம் அல்லது நடமாடும் வலயத்தில் புதிய வர்த்தக வாய்ப்பாக தங்கநகை விற்பனை வியாபாரத்தை அறிமுகப்படுத்துவது பொருத்தமானதெனக் கருதப்படுகிறது. அதுதொடர்பான முன்மொழிவை வரையறுக்கப்பட்ட விமான நிலைய மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி சமர்ப்பித்துள்ளது.
+🟩
 
-தற்போது பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் இவ்வசதிகள் இன்மையால், அதன் புறப்படும் இடம்/நடமாடும் வலயத்தில் தங்க நகைக் கடையை அமைப்பதற்கு வரையறுக்கப்பட்ட விமான நிலைய மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி திட்டமிட்டுள்ளது.
+The Cabinet has approved the construction of a gold jewelery shop in the departure of the Katunayake Bandaranaike International Airport.
 
-...
+It is considered appropriate to introduce the golden sales business as a new business opportunity in the Katunayake Bandaranaike International Airport's departure or mobile zone.. The proposal has been submitted by the Airport and Airlines (Sri Lanka) (Private) Company.
+
+At present, the Airport and Airlines (Sri Lanka) (Private) Company is planning to set up a gold jewelery shop in the Bandaranaike International Airport due to its lack of access to its departure.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Ports, Shipping and Airlines to comply with the International Competitive Price System to select a suitable director to set up a gold jewelery shop at the Katunayake Bandaranaike International Airport.
+
+◼️
 
 [Data](articles/290dd7d4.json)
+
+[Extended Data](ext_articles/290dd7d4.ext.json)
 
 ---
 
@@ -127,6 +169,8 @@ Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrif
 ...
 
 [Data](articles/3a91c730.json)
+
+[Extended Data](ext_articles/3a91c730.ext.json)
 
 ---
 
@@ -178,23 +222,31 @@ Special examination centres have been set up for prison inmates, with an examina
 
 [Data](articles/ae826d5a.json)
 
+[Extended Data](ext_articles/ae826d5a.ext.json)
+
 ---
 
-### பணமோசடி வழக்கில் இருந்து மஹிந்தானந்த விடுதலை
+### Mahindananda's release from the case of money laundering
 
 *2024-04-30 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/182326) · `ta`
 
-முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவிற்கு எதிராக தாக்கல் செய்யப்பட்ட பண மோசடி வழக்கில் இருந்து அவரை விடுவிப்பதாக கொழும்பு  மேல் நீதிமன்றம் வெள்ளிக்கிழமை (30)  உத்தரவிட்டது.
+Mahindananda Aluthgamage, a former minister, was released from a money laundering case by the Colombo High Court. He was accused of not disclosing funds for luxury house purchases on Kinzi Road, Borele. The case was filed under the 2017 Cash Bureau of Investigation.
 
-இந்த வழக்கு கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு வந்தது.
+🟩
 
-மஹிந்தானந்த  அளுத்கமகே  அமைச்சராக இருந்த காலத்தில் பொரளையில் கின்ஸி வீதியிலுள்ள சுமார் 27 மில்லியன் பெறுமதியான சொகுசு வீட்டை கொள்வனவு செய்வதற்கு பயன்படுத்தப்பட்ட நிதி தொடர்பிலான ஆதாரத்தை வெளியிடத் தவறியதாக அவர் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+The Colombo High Court on Friday (30) ordered that he would release him from a money laundering case filed against former minister Mahindananda Aluthgamage.
 
-2017ஆம் ஆண்டு பணமோசடி தடுப்புச் சட்டத்தின் கீழ் சட்டமா அதிபர் முன்னாள் அமைச்சருக்கு எதிராக  குற்றப்பத்திரிகை தாக்கல் செய்திருந்தமை குறிப்பிடத்தக்கது.
+The case came up for hearing before Colombo High Court Judge Nawaratne Marasinghe.
+
+He was accused of failing to disclose the funds used for the purchase of about 27 million worth of luxury houses on the Kinzi Road in Borele.
+
+It is noteworthy that the Attorney General had filed a charge sheet against the former minister under the 2017 Cash Bureau of Investigation.
 
 ◼️
 
 [Data](articles/336aa401.json)
+
+[Extended Data](ext_articles/336aa401.ext.json)
 
 ---
 
@@ -359,6 +411,8 @@ A Supreme Court decision relevant to a fundamental rights petition filed by a st
 ...
 
 [Data](articles/fee196f7.json)
+
+[Extended Data](ext_articles/fee196f7.ext.json)
 
 ---
 
@@ -2293,31 +2347,5 @@ Police have announced the special traffic plan in Colombo to mark the Internatio
 [Data](articles/7276d83b.json)
 
 [Extended Data](ext_articles/7276d83b.ext.json)
-
----
-
-### 2,000 Sri Lankans in 4 months to Korea
-
-*2024-04-30 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196113) · `si`
-
-In 4 months, over 2,000 Sri Lankans left jobs in Korea, with 1,892 newcomers. Industry and construction sectors saw significant departures, including 41 young women.
-
-🟩
-
-More than 2,000 Sri Lankans have left Korean jobs in the first four months of this year alone, Sri Lanka Foreign Employment Bureau says.
-
-The work point out that 2,064 persons have left South Korean jobs within four months.
-
-Accordingly, 1708 persons have gone to South Korea for the industry, 351, for the construction industry.
-
-1,892 of them have left for the first time in South Korea.
-
-The Sri Lanka Foreign Employment Bureau stated that 41 young women have left for South Korea.
-
-◼️
-
-[Data](articles/ba8c0f3d.json)
-
-[Extended Data](ext_articles/ba8c0f3d.ext.json)
 
 ---

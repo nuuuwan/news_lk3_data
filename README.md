@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 08:52:26**
+As of **2024-04-30 09:03:57**
 
 ## Newspaper Stats
 
-*Scraped **21,758** Articles*
+*Scraped **21,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,81 @@ economynextcom | 1,232
 adalk | 1,819
 tamilmirrorlk | 2,523
 adaderanalk | 2,580
-virakesarilk | 3,272
+virakesarilk | 3,274
 dailymirrorlk | 3,389
-adaderanasinhalalk | 3,521
+adaderanasinhalalk | 3,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,756 (100.0%) of 21,758 articles have been extended.
+21,758 (100.0%) of 21,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### මැතිවරණ කොමිසමෙන් ජනතාවට දැනුම්දීමක්
+### உடலியல் ரீதியான தண்டனையை முடிவுக்குக்கொண்டுவருவதற்கான சர்வதேச தினம் இன்று
+
+*2024-04-30 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/182281) · `ta`
+
+உடலியல் ரீதியான தண்டனையை முடிவுக்குக்கொண்டுவருவதற்கான சர்வதேச தினம் இன்றாகும். உலகளாவிய ரீதியில் வருடாந்தம் 1.3 பில்லியன் சிறுவர்கள் உடலியல் ரீதியான தண்டனைகளால் பல்வேறு விதங்களிலும் பாதிப்புக்களுக்கு உள்ளாவதாக தரவுகள் கூறுகின்றன. இலங்கையில் பாடசாலைகளில் மாணவர்களுக்கு உடலியல் ரீதியான தண்டனைகள் வழங்கப்படுவதை முடிவுக்குக்கொண்டுவருவதற்குரிய நடவடிக்கைகள் அவ்வப்போது முன்னெடுக்கப்பட்ட போதிலும், அவை எதிர்பார்க்கப்பட்ட பலனைத் தரவில்லை.
+
+...
+
+[Data](articles/bc4ea302.json)
+
+---
+
+### ධෝනි, ෂර්මා සහ කෝලි ගැන  නොදන්න කතාවක් කුසල් හෙළිකරයි
+
+*2024-04-30 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196119) · `si`
+
+2017 වසරේ දී එංගලන්තයේදී පැවැති ICC ශූරයින්ගේ කුසලාන තරගාවලියේ දී ඉන්දියාවට එරෙහි තරගය තමා ක්‍රීඩා කළ හොඳම ඉනිම බව ශ්‍රී ලංකා එක්දින නායක කුසල් මෙන්ඩිස් පවසයි.
+
+දෙරණ 360 සංවාද වැඩසටහනට ඊයේ (29) එක් වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් කුසල් මෙන්ඩිස් පවසා සිටියේ, එම තරගයේ දී තමා සහ ධනුෂ්ක ගුණතිලක පන්දුවට පහර දෙන අවස්ථාවේදී ඉන්දීය ක්‍රිකට් ක්‍රිඩකයින් වන මහේන්ද්‍ර සිං ධෝනි, රෝහිත් ෂර්මා, විරාත් කෝලි සිනා වූ අයුරු අමතක නොවන සිදුවීමක් බවය.
+
+...
+
+[Data](articles/2d8811f7.json)
+
+---
+
+### விகாராதிபதியினால் ஆக்கிரமிக்கப்பட்டுள்ள தமது விவசாயக் காணிகளை பெற்றுத்தருமாறு விவசாயிகள் கோரிக்கை
+
+*2024-04-30 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182280) · `ta`
+
+குச்சவெளி – திரியாய் கிராம சேவகர் பிரிவுக்குட்பட்ட ஆத்திக்காட்டுவெளி பகுதியில் உள்ள தமிழ் மக்களின் பாரம்பரிய விவசாயக் காணிகளில் பௌத்த பிக்கு ஒருவர் விவசாயம் மேற்கொண்டு வருவதாகவும் இதனால் தமது வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளதாகவும் அவற்றை தமது வாழ்வாதாரத்திற்காக மீட்டுத் தருமாறு விவசாயிகள் கோரிக்கை விடுக்கின்றனர்.
+
+ஆத்திக்காடு பகுதியில் உள்ள 88 ஏக்கர் காணி பானாமுரே திலகவங்ச நாயக்க தேரர் என்ற பௌத்த பிக்கு ஒருவரின் பெயரில் தற்காலிக இடாப்பு பதிவு மேற்கொள்ளப்பட்டு கிட்டத்தட்ட 3 வருடங்களாக சிறுபோக நெற்செய்கை மேற்கொள்ளப்பட்டு வருவதாகவும், இதற்காக அரசாங்கத்திடம் இருந்து 20 சிங்கள மக்களின் பெயரில் மானியப் பசளை பெற்று வருவதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/1ce000fc.json)
+
+---
+
+### Notice to the people by Election Commission
 
 *2024-04-30 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196118) · `si`
 
-ඡන්ද හිමි ලියාපදිංචි විස්තර සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Election Commission notices: Grama Niladhari must verify name on vote list or check at http://ec.lk/vrd.
 
-ඒ අනුව 2007.01.31 දිනට පෙර උපන් පුරවැසියන්, ඡන්ද ලැයිස්තුවේ තමාගේ නම ඇත්දැයි වහාම ග්‍රාම නිලධාරීවරයාගෙන් විමසීමක් කරන ලෙස දැනුම් දී ඇත.
+🟩
 
-එසේ නොමැති නම්  http://ec.lk/vrd යන වෙබ් අඩවියට පිවිස තමාගේ විස්තර නිවැරදිව ඇත්දැයි පරීක්ෂා කළ හැකිය.
+The Elections Commission has issued a special announcement on registration details.
+
+Accordingly, the Grama Niladhari on 31.01.2007 has been asked to inquire to the Grama Niladhari, whether his name is the name of the vote list.
+
+Otherwise, you can visit http://ec.lk/vrd and check to see if his details correctly.
 
 ◼️
 
 [Data](articles/a1193b77.json)
+
+[Extended Data](ext_articles/a1193b77.ext.json)
 
 ---
 
@@ -1686,17 +1734,23 @@ Police have announced the special traffic plan in Colombo to mark the Internatio
 
 ---
 
-### රතුපස්වල නඩුවේ තීන්දුව අද
+### Rathupaswala case verdict today
 
 *2024-04-29 19:04:34* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-අද/11-409331) · `si`
 
-පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බි්‍රගේඩියර්වරයකුට සහ හමුදා සෙබ|ළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල  හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද (30) ප්‍රකාශයට පත් කෙරේ.
+Today's Rathupaswala case verdict involves an Army Brigadier and a three-member High Court Judge. The case, executed in 2011, has been in the spotlight for three years.
 
-මීට වසර 11කට පෙර රතුපස්වල ප්‍රදේශයේදී පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් නීතීපතිවරයා විසින් පවරා ඇති නඩුව දීර්ඝ වශයෙන් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කිරීම සඳහා මෙලෙස දින නියම කර ඇත.
+🟩
+
+Army Brigadier and the army of the Army was announced in the case of the three-member High Court Judge and the Benching of the three-member High Courts in the Bridge.
+
+Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years ago, the case was executed and the case was executed.
 
 ◼️
 
 [Data](articles/250c1018.json)
+
+[Extended Data](ext_articles/250c1018.ext.json)
 
 ---
 
@@ -2077,67 +2131,5 @@ A group of MPs, including the Leader of the Opposition, have questioned the gove
 [Data](articles/d290ab33.json)
 
 [Extended Data](ext_articles/d290ab33.ext.json)
-
----
-
-### Young Sri Lankan innovators showcase new ideas, creations at DreamCraft
-
-*2024-04-29 17:31:00* · [`economynextcom`](https://economynext.com/young-sri-lankan-innovators-showcase-new-ideas-creations-at-dreamcraft-160533/) · `en`
-
-ECONOMYNEXT – Young Sri Lankan school innovators showcased their creative products at DreamCraft exhibition in Colombo on the International Innovation and Creativity Day this month, illustrating the importance of educational initiatives in entrepreneurial success.
-
-The exhibition showcased the talents on young innovators who demonstrated practical skills in handling latest technology like 3D printing and start ups by young kids which are likely to spark economic opportunities in the future.
-
-“The DreamCraft exhibition is more than a celebration of youthful creativity—it is a catalyst for economic growth,” the Exhibition organizers IgniterSpace and TRACE said in a statement on the exhibition held on April 21.
-
-...
-
-[Data](articles/84998aa6.json)
-
-[Extended Data](ext_articles/84998aa6.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 297.80/298.50 to US dollar
-
-*2024-04-29 17:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-297-80-298-50-to-us-dollar-160527/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 297.80/298.50 to the US dollar on Monday from 296.00/30 the previous week, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 10.95/11.05 percent from 11.15/20 percent.
-
-A bond maturing on 15.09.2027 closed down at 11.40/55 percent from 11.55/65 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.60/70 percent from 11.90/12.00 percent.
-
-A bond maturing on 01.10.2032 closed at 12.40/55 percent from 12.40/50 percent. (Colombo/Apr29/2024)
-
-◼️
-
-[Data](articles/1ba416b7.json)
-
-[Extended Data](ext_articles/1ba416b7.ext.json)
-
----
-
-### Notice for Bouzi
-
-*2024-04-29 17:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌசிக்கு-நோட்டீஸ்/175-336515) · `ta`
-
-Judge Nawaratne Marasinghe issued a notice to AHM Bouzi, accused of losing Rs 10 lakh to the government. The case involves a Land Cruiser vehicle from 2005-2010, allegedly defrauded by the government. Bouzi failed to appear in court, leading to the judge's order.
-
-🟩
-
-Colombo High Court Judge Nawaratne Marasinghe on Monday (Monday) issued a notice on Monday (29) to appear before the former State Minister AHM Bouzi, who has been accused of incuring a loss of Rs 10 lakh to the government.
-
-The Commission to investigate bribery or corruption against former Secretary of State AHM Pouzi has said that the Land Cruiser vehicle from the Netherlands from 2005 to 2010 has been defrauded by the government.
-
-When the case was taken up for hearing, the accused did not appear in court. The judge issued the order as the defendant did not appear in court
-
-◼️
-
-[Data](articles/b1538df9.json)
-
-[Extended Data](ext_articles/b1538df9.ext.json)
 
 ---

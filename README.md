@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 16:18:35**
+As of **2024-04-30 16:34:03**
 
 ## Newspaper Stats
 
-*Scraped **21,876** Articles*
+*Scraped **21,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,831
+adalk | 1,832
 tamilmirrorlk | 2,540
 adaderanalk | 2,591
 virakesarilk | 3,296
 dailymirrorlk | 3,410
-adaderanasinhalalk | 3,540
+adaderanasinhalalk | 3,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,863 (99.9%) of 21,876 articles have been extended.
+21,876 (100.0%) of 21,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ශ්‍රේෂ්ඨාධිකරණයෙන් ජනපතිට සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවට අතුරු තහනම් නියෝගයක්
+
+*2024-04-30 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196138) · `si`
+
+අගවිනිසුරු තනතුර හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා නම් නිර්දේශ කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් ජනාධිපතිවරයාට සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව වෙත අතුරු නියෝගයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/b31150c4.json)
+
+---
 
 ### India announce squad for T20 World Cup
 
@@ -47,6 +59,8 @@ Reserves – Shubman Gill, Rinku Singh, Khaleel Ahmed and Avesh Khan
 ◼️
 
 [Data](articles/b1428381.json)
+
+[Extended Data](ext_articles/b1428381.ext.json)
 
 ---
 
@@ -69,6 +83,8 @@ Major positive contributors to the ASPI included Central Finance Company Plc (up
 ◼️
 
 [Data](articles/eb31cdbf.json)
+
+[Extended Data](ext_articles/eb31cdbf.ext.json)
 
 ---
 
@@ -110,6 +126,8 @@ However, at least one of the factions has planned a Labour Day rally for Wednesd
 
 [Data](articles/ee32a96d.json)
 
+[Extended Data](ext_articles/ee32a96d.ext.json)
+
 ---
 
 ### Weather advisory issued for severe lightning
@@ -125,6 +143,8 @@ There may be temporary localized strong winds during thundershowers. The general
 ◼️
 
 [Data](articles/56153b8c.json)
+
+[Extended Data](ext_articles/56153b8c.ext.json)
 
 ---
 
@@ -143,6 +163,8 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 ◼️
 
 [Data](articles/56ba24d4.json)
+
+[Extended Data](ext_articles/56ba24d4.ext.json)
 
 ---
 
@@ -494,6 +516,8 @@ The Welfare Benefits Board has issued a circular to all district secretaries and
 
 [Data](articles/2e178262.json)
 
+[Extended Data](ext_articles/2e178262.ext.json)
+
 ---
 
 ### Prasanna's appeal petition petition post
@@ -756,6 +780,8 @@ Neither the UNP nor the SLPP will be holding a May Day march.
 
 [Data](articles/6eab36e5.json)
 
+[Extended Data](ext_articles/6eab36e5.ext.json)
+
 ---
 
 ### For May Day, Indian singers arrived
@@ -841,6 +867,8 @@ Such losses in the past have led the government to borrow more before an unprece
 ...
 
 [Data](articles/04abe9b8.json)
+
+[Extended Data](ext_articles/04abe9b8.ext.json)
 
 ---
 
@@ -1038,6 +1066,8 @@ The Institute for Health Policy (IHP) which carried out the two surveys for Marc
 
 [Data](articles/9dff98f9.json)
 
+[Extended Data](ext_articles/9dff98f9.ext.json)
+
 ---
 
 ### UK Policeman spared jail after assault on innocent Sri Lankan
@@ -1124,6 +1154,8 @@ FEE is a not-for-profit non-governmental organisation consisting of 65 organisat
 
 [Data](articles/a2ef0eec.json)
 
+[Extended Data](ext_articles/a2ef0eec.ext.json)
+
 ---
 
 ### Firing in the United States: 3 police killed;4 people injured
@@ -1195,6 +1227,26 @@ The agricultural primary allowance given to the farmers of the Batticaloa is giv
 [Data](articles/27d5bebe.json)
 
 [Extended Data](ext_articles/27d5bebe.ext.json)
+
+---
+
+### කෝටි 19 මත්ද්‍රව්‍ය සමග ඇල්ලූ තරුණයාගේ වාහන පොලිස් භාරයට
+
+*2024-04-30 12:18:49* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-19-මත්ද්‍රව්‍ය-සමග-ඇල්ලූ-තරුණයාගේ-වාහන-පොලිස්-භාරයට/11-409344) · `si`
+
+ඩුබායි රටට වී සිටින මත්කුඩු ජාවාරම්කරුවෙකු එවන ලද කියන රුපියල් කෝටි දහ නවයකට ආසන්න
+
+වටිනාකමින් යුත් අයිස්,  හෑෂ් හා  හෙරොයින් කිලෝ 30 කට වැඩි පුමාණයක් සමග බියගම ප්‍රදේශයේදී  අත් අඩංගුවට ගත්  තරුණයාගේ තොරතුරු මත පැජරෝ  රථයක් හා ස්කුටි වර්ගයේ  යතුරු පැදි තුනක් බියගම පොලිසිය මගින් ඊයේ ( 29 වැනිදා ) පස්වරුවේ සොයා  ගෙන ඇත..
+
+මේ වනවිට  අත් අඩංගුවට ගෙන රැඳවුම් නියෝග මත  රැඳවුම් භාරයේ සිටින එම තරුණයාගේ කඩුවෙල  , බෝමිරිය ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේ තිබි එම පැජරෝ රථය හා යතුරු පැදි තුන පොලිස් භාරයට  ගැනිණි.
+
+මේ පැජරෝ රථය හා යතුරු පැදි තුන එම තරුණයාට ලබා දී තිබෙන්නේ ඔහුට එම මත්ද්‍රව්‍ය ලබා දුන් බව කියන දැනට ඩුබායි වල සැඟවී සිටින මත්කුඩු ජාවාරම්කරු විසින් බවට අනාවරණයවිය.
+
+මේ අතර රැඳවුම් නියෝග මත සිටින එම තරුණයාගෙන් තවදුරටත් ප්‍රශ්න කර ගෙන යයි.
+
+◼️
+
+[Data](articles/abc9226a.json)
 
 ---
 
@@ -1337,6 +1389,8 @@ However, this has long been considered as a violation of human rights with artic
 ◼️
 
 [Data](articles/8760c073.json)
+
+[Extended Data](ext_articles/8760c073.ext.json)
 
 ---
 
@@ -1533,6 +1587,8 @@ Sri Lanka’s inbound tour operators have said minimum rates were hurting their 
 ◼️
 
 [Data](articles/7294de9d.json)
+
+[Extended Data](ext_articles/7294de9d.ext.json)
 
 ---
 
@@ -2267,45 +2323,5 @@ The man suddenly fell unconscious and died. A sudden death investigation officer
 [Data](articles/2887cbc9.json)
 
 [Extended Data](ext_articles/2887cbc9.ext.json)
-
----
-
-### Four U.S. law enforcement officers shot dead, four injured while serving warrant
-
-*2024-04-30 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98930/four-us-law-enforcement-officers-shot-dead-four-injured-while-serving-warrant) · `en`
-
-Four officers were fatally shot as a U.S. marshals task force was serving a warrant at a home Monday in Charlotte, North Carolina, officials said. A suspected shooter was also dead.
-
-A marshal and two local officers working with the fugitive task force were killed in the gunfire around 1:30 p.m. Gov. Roy Cooper said that ‘two state Department of Adult Correction officers’ had died.
-
-The city’s police chief announced Monday night that a Charlotte-Mecklenburg police officer who had been wounded, Joshua Eyer, had also died.
-
-‘It was just last month I was in this very room congratulating Officer Eyer for becoming officer of the month in April,’ Police Chief Johnny Jennings said. ‘And he certainly dedicated his life and gave his life to serve our citizens.’
-
-The secretary of the state Adult Corrections Department identified two of the other people killed as Samuel Poloche and William ‘Alden’ Elliott, both of whom had been with the department for 14 years and were on the marshals task force.
-
-...
-
-[Data](articles/15a819ae.json)
-
-[Extended Data](ext_articles/15a819ae.ext.json)
-
----
-
-### මහින්දානන්ද අලුත්ගමගේ නිදොස් කොට නිදහස් වුයේ කෙසේ ද?
-
-*2024-04-30 09:38:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1q42nzvd7o) · `si`
-
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයථා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ, කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම  තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් කළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ එම චෝදනා වලින් නිදොස් කොට නිදහස් කිරීමට කොළඹ මහාධිකරණය අද (අප්‍රේල් 30) වැනිදා නියෝග කළේය.
-
-තීන්දුව ලබා දෙනු ලැබුවේ කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ විසිනි.
-
-තීන්දුව ප්‍රකාශයට පත් කරමින් මහාධිකරණ විනිසුරුවරයා සඳහන් කළේ ප්‍රශ්නගත නිවස මිලදී ගැනීම සඳහා යෙදවූ රුපියල් මිලියන 27ක මුදල  විත්තිකරුට අයත් වාහන බලපත්‍රයක් විකිණීමෙන් ලබාගත් රුපියල් මිලියන 26ක මුදලින් සහ බැංකු ණයක් වශයෙන් ලබාගත් රුපියල් මිලියන 10ක  මුදලක් යොදා ගෙන ඇති බවත් සාක්ෂි මඟින් අනාවරණය වී ඇති බව ය.
-
-විත්තිකරු විත්ති කූඩුවේ සිට කරන ලද ප්‍රකාශය තුළින්ද මෙම කරුණ අනාවරණය කර තිබේ.
-
-...
-
-[Data](articles/5da0645a.json)
 
 ---

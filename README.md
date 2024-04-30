@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 12:34:19**
+As of **2024-04-30 12:51:16**
 
 ## Newspaper Stats
 
-*Scraped **21,815** Articles*
+*Scraped **21,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,72 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
-adalk | 1,827
-tamilmirrorlk | 2,532
+adalk | 1,828
+tamilmirrorlk | 2,533
 adaderanalk | 2,585
 virakesarilk | 3,284
-dailymirrorlk | 3,398
+dailymirrorlk | 3,399
 adaderanasinhalalk | 3,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,813 (100.0%) of 21,815 articles have been extended.
+21,815 (100.0%) of 21,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### අකුණු සැරෙන් තිදෙනෙක් මරුට
+### சிஐடியில் ஆஜரானார் பாட்டலி
+
+*2024-04-30 12:21:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-ஆஜரானார்-பாட்டலி/175-336549) · `ta`
+
+வாக்குமூலம் வழங்குவதற்காக  பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க குற்றப் புலனாய்வுத் திணைக்களத்திற்கு இன்று(30) வருகை தந்துள்ளார்.
+
+இரத்தினபுரியில் அவர் தெரிவித்த கருத்துக்கள் தொடர்பில் வாக்குமூலமொன்றை பதிவு செய்வதற்கு வருமாறு குற்றப் புலனாய்வுப் பிரிவினர் விடுத்த அழைப்பின் பேரில் அவர் அங்கு சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/0a4db31d.json)
+
+---
+
+### Mahindananda acquitted, released from Money Laundering case
+
+*2024-04-30 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mahindananda-acquitted-released-from-Money-Laundering-case/108-281649) · `en`
+
+Colombo, April 30 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Mahindananda  Aluthgamage was today acquitted and released from the money laundering case by the Colombo High Court.
+
+The Attorney General had filed this case against Aluthgamage for allegedly purchasing a house worth Rs. 27 million at Kynsey Road, Colombo 7 over a complaint that he had allegedly purchased properties through illegally acquired money for committing a predicate offence coming under the Bribery Act.
+
+Colombo High Court Judge   Navaratne Marasinghe held that the prosecution has failed to prove the accused' guilt beyond reasonable doubts.
+
+◼️
+
+[Data](articles/422a1f11.json)
+
+---
+
+### Three killed in Lightning
 
 *2024-04-30 12:11:22* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැරෙන්-තිදෙනෙක්-මරුට/11-409343) · `si`
 
-අකුණු සැර වැදීමෙන් මාතලේ  සහ මුලතිව් ප්‍රදේශ වල තිදෙනෙක් ජීවිතක්ශයට පත්වී ඇති බව වාර්තාවේ.
+Three killed by lightning in Matale and Mullaitivu. Dankadgala Velgalaaya, his sister, and students died. A 49-year-old father, Jason Gyneanganankulam, also perished.
 
-මාතලේ රත්තොට දන්කන්ද වැල්ගාලායාය ප්‍රදේශයේ නිවෙසකට අකුණු සැර වැදීමේන්  මිය ගොස් ඇත්තේ  වයස අවුරුදු 23 තරුණයකු හා සහ ඔහුගේ බාල සහෝදරිය අවුරුදු 12ක (8) ශ්‍රේණියේ ඉගෙනුම ලබන පාසල් සිසුවියක් වන අතර ඔවුන් අනතුර සිදුවීමත් සමග අසල්වාසීන් එක්ව රත්තොට මහ රෝහල වෙත ඇතුළත් කරන විටත් අදාළ තරුණයා හා දැරිය මරණයට පත්වී ඇති බව රත්තොට රෝහල සඳහන් කරයි.
+🟩
 
-එමෙන්ම මුලතිව් ජයන්ගන්කුලම්හි  පදිංචි වයස අවුරුදු 49 හැවිරිදි තිදරු පියෙකු  අකුණු සැර වැදී මරණයට පත්ව තවත් පුද්ගලයෙකු අසාධ්‍ය තත්වයෙන් මල්ලාවි රෝහලට සදහා ඇතුලත් කර  ඇත.
+It is reported that three persons have been living in the area in Matale and Mullaitivu by lightning.
+
+Dankadgala Velgalaaya, Matale, Matale has died, and his younger sister, and his younger sister, and his younger students, and their younger hospital with the accident.Rattota Hospital said he was killed.
+
+A 49-year-old father of Jason Gyneanganankulam is also deceased and killed by lightning.
 
 ◼️
 
 [Data](articles/2c4e332c.json)
+
+[Extended Data](ext_articles/2c4e332c.ext.json)
 
 ---
 
@@ -125,6 +161,20 @@ The house has been used as the Law College of Odeza, former Ukrainian lawyer.
 [Data](articles/62e597bf.json)
 
 [Extended Data](ext_articles/62e597bf.ext.json)
+
+---
+
+### මැණික්හින්න රෝහලේ ගැටුම ගැන පරික්ෂණයක්
+
+*2024-04-30 11:51:17* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්හින්න-රෝහලේ-ගැටුම-ගැන-පරික්ෂණයක්/11-409340) · `si`
+
+මහනුවර මැණික්හින්න රෝහලට හදිසි රෝගියකු ඇතුළත් කළ බව කියන අවස්ථාවේදි රෝහල් කාර්ය මණ්ඩලය සහ රෝගියා ඇතුළත් කිරිමට පැමිණි පිරිස අතර ඇතිවු ගැටුම සම්බන්ධයෙන් අපක්ෂපාති පරික්ෂණයක් සිදු කරන ලෙස මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු ගමගේ මහතා අදාළ බලධාරින්ට දැනුම් දුන්නේය.
+
+මෙම සිද්ධීය සම්බන්ධයෙන් පොලිසිය සහ සෞඛ්‍ය නිලධාරින්වෙත උපදෙස් ලබා දෙමින් කියා සිටියේ කඩිනම්ව සිද්ධීය සම්බන්ධයෙන් පරික්ෂණයක් සිදු කර තමන් වෙත වහාම වාර්තාවක් ලබා දෙන ලෙසය.
+
+◼️
+
+[Data](articles/07b5a8ab.json)
 
 ---
 
@@ -2185,55 +2235,5 @@ Issuing a statement today (29), the BASL expressed grave concern over the aforem
 [Data](articles/456b10c2.json)
 
 [Extended Data](ext_articles/456b10c2.ext.json)
-
----
-
-### A working peoples’ pledge on May Day 2024
-
-*2024-04-29 22:44:15* · [`dailyftlk`](https://www.ft.lk/opinion/A-working-peoples-pledge-on-May-Day-2024/14-761172) · `en`
-
-Following is a statement by UNITE – (a coalition of trade unions and mass movements) on May Day, pledging to fight against the inequalities which exist amongst us, and forging a struggle against the neoliberal State and international world order, which dispossess the working people
-
-On 4 May 1886, workers in Chicago staged a protest in the Haymarket Square, fighting for an eight-hour workday. Workers withstood brutal attacks by the police and sacrificed their lives and bodies to make the eight-hour workday a reality. All of us in Sri Lanka enjoy an eight-hour work day, which became one of our fundamental rights as working people as a result of the struggles and sacrifices of our predecessors. Today, we have come full circle where our Government and employers are drafting a new labour law shredding sanctified labour rights, including the eight-hour workday, under the guise of a single Employment Act.
-
-...
-
-[Data](articles/620b0813.json)
-
-[Extended Data](ext_articles/620b0813.ext.json)
-
----
-
-### Call to end corporal punishment against children in Sri Lanka: Vision for a fear-free childhood
-
-*2024-04-29 22:42:55* · [`dailyftlk`](https://www.ft.lk/columns/Call-to-end-corporal-punishment-against-children-in-Sri-Lanka-Vision-for-a-fear-free-childhood/4-761171) · `en`
-
-Today, I stand at the intersection of corporate leadership and social responsibility, deeply reflecting on the vital role we play in shaping a society that cherishes and protects its most vulnerable members—our children. Today, 30 April, is the International Day to End Corporal Punishment and I invite you to join me on a journey of reflection, action and commitment towards eradicating this deep-rooted societal ill.
-
-A study on the perceptions of Sri Lankan parents on the use of corporal punishment (2012) found that 74% of parents resort to corporal punishment and believed it to be a necessary means of disciplining children. Meanwhile, a National Child Protection Authority (2017) study on disciplinary methods practiced in Sri Lankan schools found that 8 out of 10 students have experienced at least one episode of corporal punishment in the school setting.
-
-...
-
-[Data](articles/a277375f.json)
-
-[Extended Data](ext_articles/a277375f.ext.json)
-
----
-
-### Greater social justice is cornerstone of more sustained recovery, ILO tells World Bank and IMF
-
-*2024-04-29 22:40:21* · [`dailyftlk`](https://www.ft.lk/opinion/Greater-social-justice-is-cornerstone-of-more-sustained-recovery-ILO-tells-World-Bank-and-IMF/14-761170) · `en`
-
-In statements to the World Bank and International Monetary Fund Spring Meetings in Washington DC, the ILO’s Director-General Gilbert F. Houngbo underlined “the crucial need for concerted, coordinated action at all levels” in the face of converging global crises
-
-International Labour Organization (ILO) Director-General Gilbert F. Houngbo has called for reinforced multilateralism and a focus on social justice for a sustained global recovery, highlighting the need to bolster investment in social policies, institutions, and dialogue.
-
-In statements delivered at the World Bank (WB) and International Monetary Fund (IMF) Spring Meetings in Washington DC, Houngbo invited relevant parties to join the recently established Global Coalition for Social Justice, which already includes more than 200 partners.
-
-...
-
-[Data](articles/e7fcb2d6.json)
-
-[Extended Data](ext_articles/e7fcb2d6.ext.json)
 
 ---

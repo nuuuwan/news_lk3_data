@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 14:04:13**
+As of **2024-04-30 14:18:57**
 
 ## Newspaper Stats
 
-*Scraped **21,830** Articles*
+*Scraped **21,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,109 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,828
-tamilmirrorlk | 2,535
+tamilmirrorlk | 2,536
 adaderanalk | 2,586
 virakesarilk | 3,287
 dailymirrorlk | 3,401
-adaderanasinhalalk | 3,535
+adaderanasinhalalk | 3,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,828 (100.0%) of 21,830 articles have been extended.
+21,830 (100.0%) of 21,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### හූති කැරළිකරුවන් නැවතත් ත්‍රාසය පතුරුවයි
+### 20යි 20 ලෝක කුසලානයට යන දකුණු අප්‍රිකානු සංචිතය
+
+*2024-04-30 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196133) · `si`
+
+ලබන මස අමෙරිකාවේ දී සහ බටහිර ඉන්දීය කොදෙව් දූපත් හිදී පැවැත්වෙන 20යි 20 ලෝක කුසලාන තරගාවලිය සඳහා දකුණු අප්‍රිකානු සංචිතය නම්කර තිබේ.
+
+15 දෙනෙකුගෙන් සමන්විත එම සංචිතයේ නායකත්වය සඳහා ඒඩ්න් මාක්‍රම් නම්කර තිබුණි.
+
+ඒඩ්න් මාක්‍රම් (නායක), ඔටිනෙල් බාර්ට්මාන්, ජෙරල්ඩ් කොඑට්සී, ක්වින්ටන් ඩි කොක්, බ්ජෝර්න් ෆොර්ට්යුඉන්, රීසා හෙන්ද්‍රික්ස්, මාර්කෝ යන්සන්, හෙන්ද්‍රික් ක්ලාසන්, කේශාව් මහරාජ්, ඩේවිඩ් මිලර්, ඇන්ඩ්‍රික් නෝකියා, කැගීසෝ රබාඩා, රයන් රිකෙල්ටන්, තබ්‍රෙයිස් ශම්සි, ට්‍රිස්ටන් ස්ටබ්ස්
+
+◼️
+
+[Data](articles/c9413783.json)
+
+---
+
+### மே தின பேரணிக்கு, இந்தியாவிலிருந்து பாடகர்கள்
+
+*2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தின-பேரணிக்கு-இந்தியாவிலிருந்து-பாடகர்கள்/175-336553) · `ta`
+
+அரசாங்கத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள தேசிய மே தின  பேரணியுடன் இணைந்து ஏற்பாடு  செய்யப்பட்ட   இசை நிகழ்ச்சியில் பாடுவதற்காக இந்தியாவிலிருந்து பாடகர்கள் குழுவொன்று செவ்வாய்க்கிழமை  (30) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தது.
+
+விஜய் பாலகிருஷ்ணன், ரம்யா நாகர்கோவில், டேனியல் ஜெயராம், ரேஷ்மா சுந்தரம் ஆகிய பாடகர்களே  இவ்வாறு  வருகை தந்துள்ளனர்.
+
+இந்த இசை நிகழ்ச்சி  மாளிகாவத்தை,  பி.டி .சிரிசேன விளையாட்டு மைதானத்தில் மே 01 ஆம்  திகதி  நடைபெறவுள்ளது .
+
+மேலும் , இந்திய இசைக்கலைஞர்களான சத்ய பிரகாஷ் தர்மர் மற்றும் நூராணி வஷர் ஆகியோரும்  இந்த  இசை நிகழ்ச்சியில் கலந்துக்கொள்வதற்காக இலங்கைக்கு வர உள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b0cd5c14.json)
+
+---
+
+### Houthi commemorators spreads again
 
 *2024-04-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196132) · `si`
 
-ඉන්දීය සාගරයේ සහ රතු මුහුදේ යාත්‍රා කරමින් තිබූ නෞකා හතරකට යේමනයේ හූති කැරළිකරුවන් විසින් ප්‍රහාර එල්ලකොට ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Houthi commemorators attacked by four vessels in the Indian Ocean and Red Sea, including a drone transport ship owned by Zodiac Maritime, in response to Israel's attacks on Palestine.
 
-ඉන්දීය සාගරයේ යාත්‍රා කරමින් තිබූ MSC Orion නම් බහාලුම් ප්‍රවාහන නෞකාවකට ඩ්‍රෝන ප්‍රහාරයක් එල්ලකර තිබුණි.
+🟩
 
-හූති කැරළිකරුවන් පවසන්නේ ඊශ්‍රායලය පලස්තීනයට එල්ල කරන ප්‍රහාර සඳහා ප්‍රතිචාර ලෙස ඊශ්‍රායලය හා සම්බන්ධතා ඇති යාත්‍රා සඳහා ඔවුන් ප්‍රහාර එල්ල කරන බවයි.
+International media reports that four vessels in the Indian Ocean and Red Sea have attacked the attack on Yemen's rebels.
 
-එම යාත්‍රාවේ ලියාපදිංචි හිමිකරු වන්නේ  Zodiac Maritime නම් සමාගමකි. Eyal Ofer නම් ඊශ්‍රායල ව්‍යාපාරිකයාට එහි කොටස් හිමි ය.
+The names of the Indian Ocean was launched a drone transport ship.
 
-රතු මුහුදේ යාත්‍රා කරමින් තිබූ Cyclades නම් වෙළෙඳ නැවකට සහ අමෙරිකානු නාවික හමුදා යාත්‍රා දෙකකට ප්‍රහාර එල්ලකළ බව හූති කැරළිකරුවන් අද පැවසීය.
+Houthi Relters Says Israel tells that Israel and relationships are attacked in response to the attacks on Palestinia.
+
+The registered owner of that vessel is a company if zodiac maritime. Israeli Israeli businessman receives its parts.
+
+The demonstrators were attacked by a ship's ship and two navy vessels in the Red Sea.
 
 ◼️
 
 [Data](articles/a9280983.json)
 
+[Extended Data](ext_articles/a9280983.ext.json)
+
 ---
 
-### මැයි දින සැමරුමට  සුදානම - ආරක්ෂාවත් තර කෙරේ
+### Prepared for May Day
 
 *2024-04-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196131) · `si`
 
-වැඩකරන ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් නම් කෙරුණු ජාත්‍යන්තර කම්කරු දිනය හෙටයි.
+Sri Lanka's political parties and organizations are preparing for May Day, a day dedicated to workers' rights. UNP, Sri Lanka Front, National Front Battlefield, National Front League, and Frontline Socialist Party will participate. UNP's rally is at Sirisena Stadium, while the Sri Lanka General Front will hold theirs at Borella Campbell Ground. The UNP also plans a rally in Colombo Fort, starting from Havelock Road and ending at Lipton Roundabout. The Sri Lanka Freedom Party (SLFP) will hold their rally in Gampaha. Over 6,000 police officers and army soldiers are deployed for security.
 
-ඒ වෙනුවෙන් මෙරට දේශපාලන පක්ෂ හා විවිධ සංවිධාන මැයි දින සැමරුම් සහ පෙළපාළි රැසක් කොළඹ ඇතුළු ප්‍රදේශ කිහිපයක සංවිධාන කර තිබේ.
+🟩
 
-හෙටට යෙදී ඇති ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් දේශපාලන පක්ෂ හා විවිධ සංවිධාන රට පුරා පවත්වන මැයි දින රැළි හා පෙළපාළි ගණන 40කි.
+The International Labor Day, nominated for the rights of working people tomorrow.
 
-ඒ අනුව, එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, සමගි ජන බලවේගය, ජාතික ජන බලවේගය, පෙරටුගාමී සමාජවාදී පක්ෂය යන පක්ෂ ඇතුළු සිවිල් සංවිධාන කිහිපයක්  කොළඹ නගරයේදී සිය මැයි දින රැළි, පෙළපාලි හා සැමරුම් උත්සවවලට එක්වනු ඇත.
+Sri Lanka's political parties and various organizations have been organized in several areas including Colombo including Colombo including Colombo.
 
-එක්සත් ජාතික පක්ෂය මෙවර මැයි දින පෙළපාළියක් නොපවත්වන අතර සිය රැළිය පවත්වන්නේ, පී.ඩී. සිරිසේන ක්‍රීඩාංගණය ඉදිරිපිට නව ප්‍රදීපා මාවත පරිශ්‍රයේදීය.
+The political parties and various organizations will be held on the country's political parties and 40 May Day waves and rallies across the country.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ද මෙවර මැයි දින පෙළපාලියක් නොපත්වන අතර බොරැල්ල කැම්බල් පිටියේදී සිය පක්ෂයේ රැළිය පැවැත්වීමට සැලසුම් කර තිබේ.
+Accordingly, the United National Party (UNP), the Sri Lanka Front, the National Front Battlefield, the National Front Liague and the Frontline Socialist Party and the Frontline Socialist Party will join the city.
 
-සමගි ජන බලවේගය පක්ෂය කොළඹ කොටුව ආශ්‍රීත මාර්ග කිහිපයකින් දිවෙන මැයි දින පෙළපාලියක් පවත්වා පහළ චැතම් වීදිය ප්‍රදේශයේදී සිය මැයි රැළිය පැවැත්වීමට නියමිතය.
+The United National Party (UNP) does not appear to be a May Day rally and holds their rally, PD. At the premises in front of Sirisena Stadium.
+
+The Sri Lanka General Front is not a May Day rally this year, planning to hold his party rally at the Borella Campbell Ground.
+
+The UNP will hold a May Day rally running in Colombo Fort and hold a May Day rally running in Colombo Fort.
 
 ...
 
 [Data](articles/a93dd811.json)
+
+[Extended Data](ext_articles/a93dd811.ext.json)
 
 ---
 
@@ -2211,41 +2257,5 @@ The only group against whom assault is decriminalized is the 25% of citizens, 5.
 [Data](articles/2c4423ae.json)
 
 [Extended Data](ext_articles/2c4423ae.ext.json)
-
----
-
-### Early Buddhism’s links with urbanisation and commerce
-
-*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Early-Buddhisms-links-with-urbanisation-and-commerce/172-281590) · `en`
-
-When land-based feudalism replaced urbanism and trade, Buddhism waned in India, says Indian scholar Balkrishna Govind Gokhale
-
-In sixth century BC, Buddhism thrived in the Gangetic Plain in North India due to urbanisation and the development of trade. According to the renowned scholar of Buddhism in India, Balkrishna Govind Gokhale, Buddhism began to decline in India when urbanisation and trade yielded place to feudalism.
-
-In his paper in the Journal of the International Association of Buddhist Studies (Vol Number 2, 1982, University of Wisconsin Madison), Gokhale says that the use of iron tools, beginning from the seventh century BC, increased agricultural productivity, which in turn led to larger commodity surpluses, which became available for exchange through trade.
-
-...
-
-[Data](articles/8d239fc6.json)
-
-[Extended Data](ext_articles/8d239fc6.ext.json)
-
----
-
-### What’s wrong in having private medical education?
-
-*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Whats-wrong-in-having-private-medical-education/172-281588) · `en`
-
-The government made two important decisions recently on medical education in the country. One was to establish a medical faculty at the National School of Business Management (NSBM) in Homagama and the other was to enroll local students at the General Sir John Kotelawala Defence University to pursue medical degrees.
-
-Cabinet spokesman Bandula Gunawardena said on March 12 that the proposed medical faculty would come under the direct supervision and regulation of the Ministry of Education, the Ministry of Health and the Sri Lanka Medical Council (SLMC).
-
-He stated that the new faculty will enroll 500 local and foreign students annually and the Homagama Base Hospital will be upgraded to teaching hospital status, like the Kalubowila Hospital, for the NSBM undergraduates’ clinical training. The NSBM has agreed to provide funds for the development of the Homagama Base Hospital in accordance with the standards of medical education published by the SLMC, he said.
-
-...
-
-[Data](articles/933951d4.json)
-
-[Extended Data](ext_articles/933951d4.ext.json)
 
 ---

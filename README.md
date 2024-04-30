@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 20:33:56**
+As of **2024-04-30 20:50:00**
 
 ## Newspaper Stats
 
-*Scraped **21,911** Articles*
+*Scraped **21,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,838
 tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,302
-dailymirrorlk | 3,418
+dailymirrorlk | 3,419
 adaderanasinhalalk | 3,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,911 (100.0%) of 21,911 articles have been extended.
+21,911 (100.0%) of 21,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Media felicitated for preserving Jathika Namal Uyana
+
+*2024-04-30 20:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Media-felicitated-for-preserving-Jathika-Namal-Uyana/110-281672) · `en`
+
+The electronic and print media in Sri Lanka were felicitated for their efforts in conserving the Jathika Namal Uyana at an event hosted by Prime Minister Dinesh Gunawardane at Temple Trees.
+
+The event coincided with the 33rd anniversary celebration of the conservation and preservation of the Jathika Namal Uyana. Former Editor-in-Chief of the Lankadeepa Siri Ranasinghe, Divaina newspaper’s founding Editor Edmond Ranasinghe and several others were specially recognized. Publications of the Wijeya Newspapers, Lake House, Upali Newspapers, Liberty Publishers and Ceylon Newspapers were also felicitated.  Ven. Wanawasi Rahula Thera, Minister Bandula Gunawardane and MP Duminda Dissanayake were also in attendance. Pix by Jayamal Chandrasiri
+
+◼️
+
+[Data](articles/30ecea2d.json)
+
+---
 
 ### Indian T20 squad named
 
@@ -2263,29 +2277,5 @@ The former Minister is challenging the orders by the  Maligakanda Magistrate on
 [Data](articles/0268ffed.json)
 
 [Extended Data](ext_articles/0268ffed.ext.json)
-
----
-
-### Sri Lanka may have to reconsider room rate: State Minister
-
-*2024-04-30 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-have-to-reconsider-room-rate-state-minister-160600/) · `en`
-
-ECONOMYNEXT – Sri Lanka will have to reconsider a minimum room rate for hotel rooms after a number of complaints, but there was also a demand for price floors from the section of the industry, State Minister of Tourism, Diana Gamage said.
-
-Tour operators have opposed the price controls, saying it amounts to illegal price-fixing in other markets.
-
-“…[B]ecause of the issues that are happening at the moment, the complaints we are getting from the hotel industry and things we will have to reconsider,” Gamage said at a press conference on Monday.
-
-Gamage said there was support for the minimum room rate from some hoteliers.
-
-“There are hoteliers who are agreeing with us,” Gamage said. “There should be some minimum room rate.”
-
-Sri Lanka’s inbound tour operators have said minimum rates were hurting their ability to compete with East Asia especially for large groups including those coming for incentive travel and conventions. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/7294de9d.json)
-
-[Extended Data](ext_articles/7294de9d.ext.json)
 
 ---

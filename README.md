@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 19:03:43**
+As of **2024-04-30 19:18:40**
 
 ## Newspaper Stats
 
-*Scraped **21,903** Articles*
+*Scraped **21,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,836
+adalk | 1,837
 tamilmirrorlk | 2,542
-adaderanalk | 2,594
+adaderanalk | 2,595
 virakesarilk | 3,302
 dailymirrorlk | 3,416
 adaderanasinhalalk | 3,545
@@ -26,25 +26,49 @@ adaderanasinhalalk | 3,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,901 (100.0%) of 21,903 articles have been extended.
+21,903 (100.0%) of 21,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### CID ලෙස පෙනී සිටි 4දෙනා රිමාන්ඩ්
+### Four arrested for impersonating CID officers remanded
+
+*2024-04-30 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98943/four-arrested-for-impersonating-cid-officers-remanded) · `en`
+
+The four persons arrested at Kollupitiya for impersonating CID officers and demanding Rs. 10 million in cash from a person have been remanded until May 14 by the Colombo Chief Magistrate’s Court.
+
+The Bribery Commission officers had arrested the suspects while impersonating Criminal Investigation Department (CID) officers and demanding Rs. 10 million in cash.
+
+It said the suspects including one female were arrested at around 3.30 p.m. last evening (29)in the Kollupitiya area based on a complaint filed by a resident of Dehiwala.
+
+They were subsequently produced before the Colombo Chief Magistrates today (30).
+
+◼️
+
+[Data](articles/8dccba25.json)
+
+---
+
+### Forers remanded for CID
 
 *2024-04-30 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196142) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් ලෙස පෙනී සිටිමින් කොල්ලුපිටියේදී රුපියල් කෝටියක අල්ලසක් ලබාගැනීමට උත්සාහ කිරීමේ සිද්ධියේ සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Forers arrested for bribery attempt. Commission arrested four, including a woman, and remanded them until afternoon.
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසම මගින් එලෙස අත්අඩංගුවට ගෙන තිබුණේ කාන්තාවක් ඇතුළු පුද්ගලයන් සිව්දෙනෙකි.
+🟩
 
-සැකකරුවන් අද (30) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු එළැඹෙන 14 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
+The suspects have been remanded in the attempt to obtain a bribe of Rs.
+
+The Commission had arrested four persons including a woman.
+
+The suspects were produced before the Colombo Chief Magistrate's Court today (30) and remanded until the afternoon.
 
 ◼️
 
 [Data](articles/5f4343bb.json)
+
+[Extended Data](ext_articles/5f4343bb.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ The Minister said this during a media briefing at the Presidential Media Centre 
 ...
 
 [Data](articles/18ae5137.json)
+
+[Extended Data](ext_articles/18ae5137.ext.json)
 
 ---
 
@@ -113,6 +139,24 @@ The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
 [Data](articles/30b1e6ae.json)
 
 [Extended Data](ext_articles/30b1e6ae.ext.json)
+
+---
+
+### ඉන්දුනීසියාව සමග වරණීය වෙළඳ ගිවිසුමක්
+
+*2024-04-30 17:26:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාව-සමග-වරණීය-වෙළඳ-ගිවිසුමක්/11-409350) · `si`
+
+ඉන්දුනීසියාව සමග වරණීය වෙළඳ ගිවිසුමක් අත්සන් කිරීම සම්බන්ධයෙන් රජයේ අවධානය යොමුව තිබේ. එම වරණීය වෙළඳ  ගිවිසුමට එළැඹීම සම්බන්ධයෙන් සාකච්ඡා ආරම්භ කිරීම සඳහා 2023/07/10 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබේ.
+
+ඒ පිළිබඳව නිල සාකච්ඡා 2024/03/14 දින විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා හා ඉන්දුනීසියාවේ වෙළඳ නියෝජ්‍ය අමාත්‍යවරයා අතර පවත්වා තිබේ.වෙළඳ සාකච්ඡා කමිටුවේ පළමු රැස්වීම මාර්ග ගත ක්‍රමය ඔස්සේ 2024/04/03 හා 04 යන දෙදින තුළ පවත්වා තිබේ.
+
+එම සාකච්ඡා කමිටුවේදී සාකච්ඡා ක්‍රම වේදය, අදාළ දත්ත හුවමාරු කර ගැනීමේ කාල රාමුව, විෂයපථය හා ආවරණය යන ක්ෂේත්‍ර පිළිබඳව දෙපාර්ශවය අතර අදහස් හුවමාරු කර ගනු ලැබ තිබේ.
+
+එම කමිටුවේ 02 වැනි රැස්වීම 2024/06/19 හා 20 යන දිනවලදී කොළඹීදී පැවැත්වීමට දෙපාර්ශ්වය එකඟ වී ඇත.
+
+◼️
+
+[Data](articles/27ca53b5.json)
 
 ---
 
@@ -2239,51 +2283,5 @@ The complication – listed as a potential side effect of the jab – has previo
 [Data](articles/7dfbf67f.json)
 
 [Extended Data](ext_articles/7dfbf67f.ext.json)
-
----
-
-### Sri Lanka rupee trades at 297.50/298.50 to US dollar
-
-*2024-04-30 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-297-50-298-50-to-us-dollar-160589/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 297.50/298.50 to the US dollar on Tuesday from 297.80/298.50 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 10.80/85 percent from 10.95/11.05 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 11.15/20 percent from 11.40/55 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 11.55/60 percent from 11.60/70 percent.
-
-The Colombo Stock Exchange was trading down; The All Share Price Index was down 0.33 percent at 12,292, the S&P SL20 was down 0.43 percent 3,669. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/796d65cb.json)
-
-[Extended Data](ext_articles/796d65cb.ext.json)
-
----
-
-### Gajamuthu and Manjussa Rs. 2 billion
-
-*2024-04-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196126) · `si`
-
-Gajamuthu and Manjussa, worth over Rs. 2 billion, were arrested by the STF in Batticaloa. A 30-year-old from Cheinkladi, with 11 Gesamutans, was also arrested.
-
-🟩
-
-The STF has been arrested by the STF in the Batticaloa district in the Batticaloa area.
-
-The Gajamuthu and Silver Manjussa, who have met, is worth over Rs.
-
-The Special Task Force had a raid in front of the Puliinvin Gandhi Children's Park yesterday (29).
-
-A 30 year old resident of Cheinkladi, who had been possessed with 11 Gesamutans, has been arrested and handed over to the Batticaloa Police for further investigations.
-
-◼️
-
-[Data](articles/b514845a.json)
-
-[Extended Data](ext_articles/b514845a.ext.json)
 
 ---

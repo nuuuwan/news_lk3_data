@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 17:54:31**
+As of **2024-04-30 18:11:06**
 
 ## Newspaper Stats
 
-*Scraped **21,896** Articles*
+*Scraped **21,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,833
+adalk | 1,835
 tamilmirrorlk | 2,542
 adaderanalk | 2,593
 virakesarilk | 3,302
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,895 (100.0%) of 21,896 articles have been extended.
+21,896 (100.0%) of 21,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### පොලීසියට අල්ලස් දෙන්න ගිය කාන්තාවක් අත්අඩංගුවට
+### Woman arrested for bribes
 
 *2024-04-30 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196141) · `si`
 
-හෙරොයින් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගත් තම සැමියා මුදාගැනීමට කළුතර දකුණ දූෂණ මර්දන අංශ ස්ථානාධිපතිවරයට අල්ලස් ලබාදීමට තැත් කළ කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+A woman was arrested for attempting to bribe the OIC of the Kalutara South Corruption Division to help her husband, who was arrested with heroin. The suspect allegedly tried to bribe the OIC with a shirt, which led to her arrest.
 
-කළුතර දකුණ මූලස්ථාන පොලීසිය සඳහන් කළේ සැකකාරිය විසින් රුපියල් ලක්ෂ 03ක අල්ලස් මුදලක් ලබාදීමට තැත් කර ඇති බවය.
+🟩
 
-කළුතර දකුණ දූෂණ මර්ධන අංශ ස්ථානාධිපති උප පොලිස් පරීක්ෂක ටී ශ්‍රී රංගා විසින් ඇයගේ සැමියාව හෙරොයින් මත්ද්‍රව්‍ය සමග අත්අඩංගුවට ගෙන  කළුතර දකුණ පොලීසියට රැගෙන විත් තිබුණි.
+A woman was arrested for attempting bribery to the OIC of the Kalutara South Corruption Division to rescue her husband who was arrested with heroin.
 
-සැකකරු කමිසයක් ගෙන්වා ගැනීම සඳහා බිරිඳට දුරකථන ඇමතුමක් ලබාගෙන ඇති අතර, විනාඩි 20කට පමණ පසුව බිරිඳ පොලීසියට පැමිණ ඇතැයිද පොලීසිය කීය.
+Kalutara South Police Headquarters said that the suspect had been attempted to provide a bribe of Rs.
 
-එහිදී ඇය, පොලීසියේ දූෂණ මර්දන අංශයේදී එහි ස්ථානාධිපතිවරයාට රුපියල් ලක්ෂ 03ක මුදලක් ලබාදී හෙරොයින් නඩුවෙන් සැකකරුව නිදහස් කරදෙන ලෙස ඉල්ලීමක් කර ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+The OIC Sub Inspector General of the Kalutara South Corporate T Sri Ranga had been arrested with heroin with heroin and brought to the South Police.
 
-එහිදී දූෂණ මර්දන අංශ ස්ථානාධිපතිවරයා මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාව දැනුවත් කිරීමෙන් අනතුරුව සැකකාරියව අත්අඩංගුවට ගෙන තිබුණි.
+The suspect had telephoned his wife to get a shirt and the wife had come to the police for about 20 minutes, police said.
+
+A senior police officer said that she had requested the OIC at the Chief Prevention Unit of the police currency department.
+
+The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
 
 ◼️
 
 [Data](articles/30b1e6ae.json)
+
+[Extended Data](ext_articles/30b1e6ae.ext.json)
 
 ---
 
@@ -86,7 +92,7 @@ As a Sri Lanka PA, we are urging other parties to strengthen their position and 
 
 The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year (y-o-y) basis increased to 1.5% in April 2024, the Department of Census & Statistics (DCS) says.
 
-This is an increase of 0.9% compared to the CCPI-based inflation calculated in March 2024, according to the latest figures published by the DCS.
+Last month, the CCPI-based inflation was calculated at 0.9%, according to the latest figures published by the DCS.
 
 On a year-on-year basis, the inflation of food group dropped to 2.9% in April 2024 from 3.8% in March 2024 while the inflation of the non-food group climbed to 0.9% in April from -0.5% in March 2024.
 
@@ -1754,6 +1760,26 @@ From September 2020 to January 2021, Vamadevan telephoned the woman and used her
 
 ---
 
+### සජිත්ට ඇති කැමැත්ත ඉහළ යද්දි අනුරට ඇති කැමැත්ත පහළට
+
+*2024-04-30 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-ඇති-කැමැත්ත-ඉහළ-යද්දි-අනුරට-ඇති-කැමැත්ත-පහළට/11-409341) · `si`
+
+ශ්‍රි ලංකාවේ ජනපතිවරණ ඡන්ද ප්‍රකාශ කිරිමේ අභිප්‍රාය අනුව මාර්තු මාසයේදි විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ඇති ජනතා හිතකරත්ව සියයට 2කින් ඉහළ ගොස් තිබේ.
+
+කෙසේ වෙතත් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාට ඇති හිතකරත්වය සියයට 2කින් අඩුවි තිබිම කැපි පෙනෙන සාධකයකි.
+
+කෙසේ වෙතත් මාර්තු මාසය වන විට අනුර කුමාර මහතාට ජනතාවගෙන් සියයට 44ක ප්‍රතිශතකයක් කැමැත්ත ප්‍රකාශ කර ඇති අතර සජිත් ප්‍රේමදාස මහතාට සියයට 41ක ප්‍රතිශතකයක කැමැත්ත හිමිව තිබේ.
+
+වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතාට ජනතාවගෙන් සියයට 8ක කැමැත්ත ප්‍රකාශ වි ඇති අතර ශ්‍රි ලංකා පොදුජන පෙරමුණෙනි අපේක්ෂකයෙක් ඉදිරිපත් කරන්නේ නම් ඔහුට හෝ ඇයට සියයට 7ක කැමැත්තක් ප්‍රකාශ කර තිබේ.
+
+සෞඛ්‍ය ප්‍රතිපත්ති අධ්‍යන ආයතනය විසින් මෙම සමික්ෂණ ප්‍රතිඵල නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/9870c7b1.json)
+
+---
+
 ### People are missing without bus service in Nainadivu!
 
 *2024-04-30 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182305) · `ta`
@@ -2044,6 +2070,22 @@ It is noteworthy that the department has warned that strict legal action will be
 
 ---
 
+### මැයි රැළිවලට ඩ්‍රෝන භාවිත කරනවානම් අවසර ගන්න
+
+*2024-04-30 11:16:37* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ඩ්‍රෝන-භාවිත-කරනවානම්-අවසර-ගන්න/11-409339) · `si`
+
+මැයි දින රැළි හා පෙළපාලි ආවරණය කිරිමට ඩ්‍රෝන යානා භාවිත කරන්නේ නම් ඒ ස﻿ඳහා නිසි අවසර ලබා ගත යුතු බව පොලිස් මූලස්ථානය කියයි.
+
+අනවසරයෙන් ඩ්‍රෝන යානා භාවිත කිරිම නිති විරෝධි බවත් ඒ අනුව එසේ සිදුකරන තැනැන්තන් අත්අඩංගුවට ගන්නා බවත් පොලිස් මූලස්ථානය පවසයි.
+
+එසේම දිවයින පුරා පැවැත්වෙන මැයි රැළි වෙනුවෙන් මෙම ක්‍රියාමාර්ගය අදාළ බවද පොලිස් මූලස්ථානය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/cfddef79.json)
+
+---
+
 ### AstraZeneca admits for first time its Covid vaccine CAN cause rare side effect
 
 *2024-04-30 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AstraZeneca-admits-for-first-time-its-Covid-vaccine-CAN-cause-rare-side-effect/108-281639) · `en`
@@ -2239,45 +2281,5 @@ A sum of Rs. 88 grams of Ashes and 238 grams of Ashes, 90 grams of Kash drugs an
 [Data](articles/33e0a7bb.json)
 
 [Extended Data](ext_articles/33e0a7bb.ext.json)
-
----
-
-### Patali arrives at CID to record a statement
-
-*2024-04-30 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98931/patali-arrives-at-cid-to-record-a-statement) · `en`
-
-MP Patali Champika Ranawaka arrived at the Criminal Investigation Department (CID) on Tuesday morning (30).
-
-The leader of United Republic Front (‘Eksath Janaraja Peramuna’) was summoned to record a statement regarding the comments he had made at a public meeting in Ratnapura.
-
-◼️
-
-[Data](articles/ffecd209.json)
-
-[Extended Data](ext_articles/ffecd209.ext.json)
-
----
-
-### 3 presidential candidates and live debate live
-
-*2024-04-30 10:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஜனாதிபதி-வேட்பாளர்களும்-நேரலையில்-விவாதம்/175-336545) · `ta`
-
-The National People's Power (NPP) has accepted an invitation for a live debate with three major presidential candidates, excluding Sajith Premadasa, who has not confirmed his participation. Dilvin Silva accepted the invitation on behalf of NPP leader Anura Kumara Dissanayake. The debate will focus on economic and political policies for the upcoming presidential election in October.
-
-🟩
-
-The National People's Power (NPP) yesterday accepted the official invitation of our fraternity media, Daily Mirror and Lanka, with three major presidential candidates, as United People's Power Leader Sajith Premadasa has not yet confirmed his participation.
-
-Dilvin Silva accepted the Daily Mirror invitation, saying that NPP leader Anura Kumara Dissanayake is ready for debate and will attend.
-
-The Daily Mirror handed over an official invitation at the Opposition Leader's office in Colombo and the committee is looking forward to the responsibility of participating.
-
-The office of Premadasa, who confirmed that Sajith Premadasa had received a letter of invitation, sent it to MP Nalin Bandara, who was dealing with debates.
-
-...
-
-[Data](articles/3f041ca3.json)
-
-[Extended Data](ext_articles/3f041ca3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 19:18:40**
+As of **2024-04-30 19:34:34**
 
 ## Newspaper Stats
 
-*Scraped **21,905** Articles*
+*Scraped **21,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 187
 bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
-islandlk | 1,189
+islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,242
 adalk | 1,837
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,903 (100.0%) of 21,905 articles have been extended.
+21,905 (100.0%) of 21,906 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ They were subsequently produced before the Colombo Chief Magistrates today (30).
 ◼️
 
 [Data](articles/8dccba25.json)
+
+[Extended Data](ext_articles/8dccba25.ext.json)
 
 ---
 
@@ -142,21 +144,27 @@ The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
 
 ---
 
-### ඉන්දුනීසියාව සමග වරණීය වෙළඳ ගිවිසුමක්
+### Selever trade agreement with Indonesia
 
 *2024-04-30 17:26:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාව-සමග-වරණීය-වෙළඳ-ගිවිසුමක්/11-409350) · `si`
 
-ඉන්දුනීසියාව සමග වරණීය වෙළඳ ගිවිසුමක් අත්සන් කිරීම සම්බන්ධයෙන් රජයේ අවධානය යොමුව තිබේ. එම වරණීය වෙළඳ  ගිවිසුමට එළැඹීම සම්බන්ධයෙන් සාකච්ඡා ආරම්භ කිරීම සඳහා 2023/07/10 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබේ.
+The government is negotiating a preferential trade agreement with Indonesia, with discussions held on 4/03/20/2012 between the Minister of Foreign Affairs and the Deputy Minister of Foreign Affairs. The two sides agreed to a 2nd meeting on 2024/06/19 and 20.
 
-ඒ පිළිබඳව නිල සාකච්ඡා 2024/03/14 දින විදේශ කටයුතු රාජ්‍ය අමාත්‍යවරයා හා ඉන්දුනීසියාවේ වෙළඳ නියෝජ්‍ය අමාත්‍යවරයා අතර පවත්වා තිබේ.වෙළඳ සාකච්ඡා කමිටුවේ පළමු රැස්වීම මාර්ග ගත ක්‍රමය ඔස්සේ 2024/04/03 හා 04 යන දෙදින තුළ පවත්වා තිබේ.
+🟩
 
-එම සාකච්ඡා කමිටුවේදී සාකච්ඡා ක්‍රම වේදය, අදාළ දත්ත හුවමාරු කර ගැනීමේ කාල රාමුව, විෂයපථය හා ආවරණය යන ක්ෂේත්‍ර පිළිබඳව දෙපාර්ශවය අතර අදහස් හුවමාරු කර ගනු ලැබ තිබේ.
+The government is focused on signing a preferential trade agreement with Indonesia. The Cabinet Meeting was approved by the Cabinet Meeting held for the commencement of the preferential trade agreement.
 
-එම කමිටුවේ 02 වැනි රැස්වීම 2024/06/19 හා 20 යන දිනවලදී කොළඹීදී පැවැත්වීමට දෙපාර්ශ්වය එකඟ වී ඇත.
+Official discussions were held between the Minister of Foreign Affairs and the Deputy Minister of Foreign Affairs on 4/03/20/2012.
+
+During the discussion committee, discussion system and discussions have been exchanged between the two parties and coverage areas.
+
+The two sides have agreed to hold the 2nd Meeting of the Committee on 2024/06/19 and 20.
 
 ◼️
 
 [Data](articles/27ca53b5.json)
+
+[Extended Data](ext_articles/27ca53b5.ext.json)
 
 ---
 

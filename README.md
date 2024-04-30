@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 09:35:01**
+As of **2024-04-30 09:53:00**
 
 ## Newspaper Stats
 
-*Scraped **21,765** Articles*
+*Scraped **21,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,819
-tamilmirrorlk | 2,525
+tamilmirrorlk | 2,527
 adaderanalk | 2,580
 virakesarilk | 3,274
 dailymirrorlk | 3,391
-adaderanasinhalalk | 3,522
+adaderanasinhalalk | 3,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,761 (100.0%) of 21,765 articles have been extended.
+21,765 (100.0%) of 21,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### විදෙස් ශ්‍රමිකයන්ට ලබාදුන් වාහන ආනයන අවසරය දීර්ඝ කිරීමට විරෝධයක්
+
+*2024-04-30 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196120) · `si`
+
+විදෙස් රැකියාවල නියුතු ශ්‍රී ලාංකිකයන් හට පූර්ණ විද්‍යුත් වාහන බලපත්‍ර ලබා දීමේ යෝජනා ක්‍රමයේ කිසිදු විනිවිඳභාවයක් නොමැති බව මුදල් පිළිබඳ කාරක සභාව පවසයි.
+
+ඒ සම්බන්ධයෙන් පූර්ණ විශ්ලේෂණයක් සිදුකර සති දෙකක් තුළ වාර්තාවක් ලබාදෙන ලෙස රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති හර්ෂ ද සිල්වා මහතා අදාළ නිලධාරීන්ට උපදෙස් දී තිබේ.
+
+එම විශ්ලේෂණය ලැබෙන තුරු බලපත්‍ර ලබාදීමේ කාලය දීර්ඝ කරන අදාළ ගැසට්පත්‍රයට අනුමැතිය ලබා දීමට හැකියාවක් නොමැති බව ද කාරක සභා සභාපතිවරයා සඳහන් කළේය.
+
+මෙම ක්‍රියාවලිය ආරම්භයේ සිට වාහන ගෙන්වන ලද පුද්ගලයන් ඇතුළු අදාළ සියලු තොරතුරු ලබා දෙන ලෙස කාරක සභාව ඉල්ලීම් කර තිබුණ ද නීතිපතිවරයාගෙන් විමසීමකින් තොරව එම තොරතුරු ලබාදිය නොහැකි බවට මුදල් අමාත්‍යංශය දැනුම් දී ඇති බව වාර්තා වේ.
+
+මෙම බදු සහනය මඟින් රුපියල් මිලියන100 සිට වාහන ගෙන්වා ඇති බවට අනාවරණය වී තිබේ.
+
+එමෙන්ම බොහෝ සාමාන්‍ය රැකියාවල නිරත ශ්‍රමිකයන් මෙතරම් වටිනාකමක් සහිත වාහන ගෙන්වා ඇත්දැයි සැකයක් මතුවන බවත් කාරක සභාවේදී සාකච්ඡා වූ බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+
+...
+
+[Data](articles/8ea799f3.json)
+
+---
+
+### மின்னல் தாக்கி இருவர் உயிரிழப்பு
+
+*2024-04-30 09:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-இருவர்-உயிரிழப்பு/175-336541) · `ta`
+
+நேற்று (29) மாலை பெய்த கடும் மழையின் போது மின்னல் தாக்கியதில் வீட்டுக்குள் இருந்த சகோதரனும் சகோதரியும் பாதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7259f2fc.json)
+
+---
+
+### சி.ஐ.டி அதிகாரிகளைப் போல் நடித்து இலஞ்சம் கேட்ட கும்பல் கைது
+
+*2024-04-30 09:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டி-அதிகாரிகளைப்-போல்-நடித்து-இலஞ்சம்-கேட்ட-கும்பல்-கைது/175-336540) · `ta`
+
+குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் போல் காட்டிக்கொண்டு ஒரு கோடி ரூபாய இலஞ்சம் பெற்ற நான்கு பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+தெஹிவளை பிரதேசத்தைச் சேர்ந்த ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேக நபர்கள் நேற்று (29) பிற்பகல் 3.30 மணியளவில் கொள்ளுப்பிட்டியில் வைத்து கைது செய்யப்பட்டதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/767c2d64.json)
+
+---
 
 ### Four arrested for impersonating CID officers and extorting Rs. 10 Mn bribe
 
@@ -51,6 +99,8 @@ Subsequently, the amount was reduced to Rs. 35 million, with an initial demand o
 ...
 
 [Data](articles/37a8f341.json)
+
+[Extended Data](ext_articles/37a8f341.ext.json)
 
 ---
 
@@ -87,6 +137,8 @@ Investigations revealed that she had been in love with her elder sister’s love
 ...
 
 [Data](articles/b984411a.json)
+
+[Extended Data](ext_articles/b984411a.ext.json)
 
 ---
 
@@ -820,23 +872,29 @@ He stated that the new faculty will enroll 500 local and foreign students annual
 
 ### 2024-04-29 (Monday)
 
-### ’49 சுற்றுலாத் தலங்களை அறிவிக்க நடவடிக்கை’
+### Steps to declare Tourist places
 
 *2024-04-29 23:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-சுற்றுலாத்-தலங்களை-அறிவிக்க-நடவடிக்கை/175-336538) · `ta`
 
-சுற்றுலாத் துறையின் மேம்பாட்டுக்காக மேலும் 49 சுற்றுலாத் தலங்களை இனங்கண்டுள்ளதாகவும்  இன்னும் ஒரு மாத காலத்திற்குள் அவற்றை சுற்றுலா வலயங்களாக வர்த்தமானியில் வெளியிட நடவடிக்கை எடுத்து வருவதாகவும் சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயனா கமகே தெரிவித்தார்.
+Tourism Minister Diana Kamage announced the identification of 49 new tourist destinations for development, aiming to publish them as tourist zones within a month. This move is part of efforts to boost tourism. Criticisms of SPA centers, which operate as health centers in other countries, were also addressed, emphasizing their focus on health.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சுற்றுலாத் துறையின் மேம்பாட்டுக்காக மேலும் 49 சுற்றுலாத் தலங்களை இனங்கண்டுள்ளோம். இன்னும் ஒரு மாத காலத்திற்குள் அவற்றை சுற்றுலா வலயங்களாக வர்த்தமானியில் வெளியிடவும் நடவடிக்கை எடுத்து வருகின்றோம். இதன் ஊடாக எமது நாட்டுக்கு வருகை தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கையை அதிகரிக்க எதிர்பார்த்துள்ளோம்.
+Tourism Minister Diana Kamage said that 49 more tourist destinations have been identified for the development of the tourism industry and that within a month, steps are being taken to publish them as tourist zones in the Gazette.
 
-இந்த நாட்டில் இயங்கும் SPA மையங்கள் தொடர்பில் அண்மைக் காலங்களில் பல்வேறு விமர்சனங்கள் எழுந்துள்ளன.
+He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
 
-இவை உண்மையில் ஏனைய நாடுகளில் ஆரோக்கிய மையங்களாகவே இயங்குகின்றன. மக்களின் ஆரோக்கியத்தில் கவனம் செலுத்துவையாக அவை இருக்க வேண்டும். ஆனால் இந்த நாட்டில் அவ்வாறான இடங்களில் இடம்பெறுபவை பற்றி நான் குறிப்பிடத் தேவையில்லை என்றார். (a)
+We have identified 49 more tourist destinations for the development of tourism. We are also taking steps to publish them as tourist zones within a month. Through this we are looking forward to increase the number of tourists visiting our country.
+
+There has been various criticisms in recent times over the SPA centers operating in this country.
+
+These actually operate as health centers in other countries. They should be focused on the health of the people. But I should not mention what happens in such places in this country. (A)
 
 ◼️
 
 [Data](articles/047114b9.json)
+
+[Extended Data](ext_articles/047114b9.ext.json)
 
 ---
 
@@ -874,21 +932,29 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 
 ---
 
-### ’விவசாயத்திற்கு அதிக பங்களிப்பை வழங்க திட்டம்’
+### Plan to contribute more to agriculture
 
 *2024-04-29 23:26:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயத்திற்கு-அதிக-பங்களிப்பை-வழங்க-திட்டம்/175-336537) · `ta`
 
-நாட்டின் பொருளாதாரத்தை முன்னேற்றுவதற்கு விவசாயத்திற்கு அதிகபட்ச பங்களிப்பை வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a government plan to significantly boost agriculture, aiming to enhance the economy. This was highlighted at the launch of the Dilma Sinaman Business Name, which has expanded domestic exports and entered the Sri Lankan Cinnamon industry. The Tilma Business Name, known for bringing 'Ceylon Tea' to the international market, has introduced high-quality cinnamon products. The President emphasized the importance of cinnamon in the country's history and economy.
 
-கொழும்பு கோல்பேஸ் ஹோட்டலில் நேற்று முன்தினம் இடம்பெற்ற டில்மா சினமன் வர்த்தக நாமத்தை அறிமுகப்படுத்தும் நிகழ்வில் கலந்து கொண்ட போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-'சிலோன் டீ' என்ற பெயரை சர்வதேச சந்தைக்கு கொண்டு சென்ற டில்மா வர்த்தக நாமம்,  தனது நிறுவனத்தின் ஊடாக மேற்கொள்ளப்படும் உள்நாட்டு ஏற்றுமதியை மேலும் விரிவுபடுத்தி இலங்கையின் கறுவா தொழிற்துறையில் பிரவேசித்து டில்மா வர்த்தக நாமத்தின் கீழ் உயர்தர கறுவா உற்பத்திகளை சர்வதேச சந்தைக்கு அறிமுகப்படுத்த நடவடிக்கை எடுத்துள்ளது.
+President Ranil Wickremesinghe said the government is planning to make maximum contribution to agriculture to improve the country's economy.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் உலக சமையல் கலைஞர்கள் சங்கத்தின் தலைவர் மாஸ்டர் செஃப் தோமஸ் குக்லர் ஆகியோர் டில்மா கறுவா தயாரிப்புகளை அடையாள ரீதியில் வெளியிட்டனர். இதன்போது ஜனாதிபதி மேலும் உரையாற்றுகையில்,
+The President said this while attending the launch of the Dilma Sinaman Business Name at the Colombo Hotel yesterday.
+
+The Tilma Business Name, which took the name 'Ceylon Tea' to the international market, has expanded the domestic exports through its company and enters the Sri Lankan Cinnamon industry and introduced the high -quality cinnamon products under the name of the Tilma business.
+
+President Ranil Wickremesinghe and World Recipes Association President Master Chef Thomas Kugler released Tilma Cinnah products. The President further addresses
+
+Cinnamon crop agriculture was the main crop of our country at that time. After the collapse of the Kingdom of Polonnaruwa, when our kingdoms were displaced to the Southwest Iravalaya, the cigarette industry was the one who brought the country's economy.
 
 ...
 
 [Data](articles/c4b8b3f8.json)
+
+[Extended Data](ext_articles/c4b8b3f8.ext.json)
 
 ---
 
@@ -2051,83 +2117,5 @@ On a previous occasion, the defence counsel informed court that his client had r
 [Data](articles/9caf11c4.json)
 
 [Extended Data](ext_articles/9caf11c4.ext.json)
-
----
-
-### Drainage system to remove water in Ella Aquiries
-
-*2024-04-29 18:09:13* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ල-කරදගොල්ල-ජලය-ක්‍රමවත්ව-ඉවත්-කිරීමට-කාණු-පද්ධතියක්/11-409328) · `si`
-
-In Ella Aquiries, a drainage system is being implemented to remove water. Landslides have been active since the 25th, affecting about 15 acres of houses. The Disaster Management Center (DMC) and Army are involved in response efforts. Residents are concerned about the Uma Oya Oya tunnel and the impact on the Ella Wellawaya road.
-
-🟩
-
-The deputy Director of the Disaster Management Center, EM L Udaya Kumara said that the removal of water on the surface of the territory of the Kanagolla laid on the surface.
-
-Badulla District Secretary Prabhath Abeywardena stated that special groups have been observed in the Salaithagolla area, Ella Karaithagolla.
-
-The landslide has emerged on the 25th and the landslide has been increasingly more active and that the landslides have become more active.
-
-The Army is currently in Ella Divisional Secretariat, Water Supply Council, Pradeshiya Sabha, Road Development Authority and Disaster Management Center.Deputy Director of the Center EM L Udaya Kumara said.
-
-The people living in the area have now protested that the situation could be affecting the tunnel of Uma Oya Oya tunnel.
-
-Residents said that the houses have been affected by the landscape about a fifteen acreage of the houses at present.
-
-...
-
-[Data](articles/28df5ab0.json)
-
-[Extended Data](ext_articles/28df5ab0.ext.json)
-
----
-
-### A / Lines begin with the end of the Ordinary Level
-
-*2024-04-29 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196102) · `si`
-
-Education Minister Susil Premajayantha announced plans to start Advanced Level classes for students who took the GCE O/L examination, due to school closures during the COVID-19 pandemic. Recruitment for A/L science, math, tech, and foreign language teachers is underway, with interviews this week.
-
-🟩
-
-Minister of Education Susil Premajayantha says that steps will be taken to start Advanced Level Classes for students who sat the examination as soon as the GCE O / L examination.
-
-The Minister was speaking at the opening of the official internet radio channel of the National Institute of Education.
-
-Speaking further the Minister said that the decision was taken by the decision to recover due to the closure of schools during the course of the past covod disaster.
-
-The Minister also pointed out that a severe commitment to the teacher is also necessary to perform this challenging task.
-
-The Minister said that it is currently being recruited to the A / L science, mathematics, technology and foreign language subjects.
-
-The Minister added that the interviews of recruiting interviews will be taken up this week.
-
-...
-
-[Data](articles/001cae4c.json)
-
-[Extended Data](ext_articles/001cae4c.ext.json)
-
----
-
-### Sri Lanka's births were reduced and death
-
-*2024-04-29 17:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-උපත්-අඩුවෙලා-මරණ-වැඩිවෙලා/11-409327) · `si`
-
-Sri Lanka's birth rate dropped, and deaths increased. The May Day rally is significant, demanding power for the people. The country faces debt issues, with no solutions proposed by political leaders. The population is shrinking, with a 0.6% reduction in 2023. The youth are leaving, and the elderly are impacted.
-
-🟩
-
-Leader of the Leader of the Purger Gammanpila says that the May Day rally is the only May Day rally before governance. He was speaking at a media briefing in the North Lanka coalition today (2024.04.29). The leader of the Plandani Hela Urumaya said:
-
-"This year's May Day rally is the only May Day rally before governments. What is the demand forces asking for power to come to the people?. All these people will come forward to the people that we can borrow and borrow their debts.
-
-One says "IMF and World Bank with me. I can't borrow, or you don't borrow. ". One person came and says: "I can speak English with good relief conditions,". Third and says: "Not like in the past, the international is very little with us. So it's okay if we cannot pay the debt, dude, dude, put a layer. If we come to power, there are plenty of people to give you the dollars. "That is what they are proud.
-
-...
-
-[Data](articles/9a64718c.json)
-
-[Extended Data](ext_articles/9a64718c.ext.json)
 
 ---

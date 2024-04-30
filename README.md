@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 11:03:38**
+As of **2024-04-30 11:18:44**
 
 ## Newspaper Stats
 
-*Scraped **21,791** Articles*
+*Scraped **21,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,825
-tamilmirrorlk | 2,531
-adaderanalk | 2,583
+tamilmirrorlk | 2,532
+adaderanalk | 2,584
 virakesarilk | 3,278
 dailymirrorlk | 3,392
-adaderanasinhalalk | 3,527
+adaderanasinhalalk | 3,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,790 (100.0%) of 21,791 articles have been extended.
+21,791 (100.0%) of 21,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Appeals Court defers decision on Keheliya’s petition against remand order
+
+*2024-04-30 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98932/appeals-court-defers-decision-on-keheliyas-petition-against-remand-order) · `en`
+
+The Appeals Court has deferred its decision on the writ application filed by former Health Minister Keheliya Rambukwella challenging the remand order issued by the Maligakanda Magistrate.
+
+The decision, which was scheduled to be delivered today (30), is now expected to be communicated on 07 May.
+
+The writ application was called before Appeals Court Judge D.N. Samarakoon this morning.
+
+The former health minister had put forward the relevant petition, seeking a court order invalidating the order issued by the Maligakanda Magistrate under the Public Property Act to remand him until the completion of the trial on substandard human immunoglobulin procurement.
+
+◼️
+
+[Data](articles/b5e315c3.json)
+
+---
+
+### කෙහෙළියගේ පෙත්සමේ තීන්දුව කල්යයි
+
+*2024-04-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196125) · `si`
+
+මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට දුන් නියෝගය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙන්නේද? නැද්ද? යන නියෝගය ප්‍රකාශ කිරීම මැයි මස 07 වන දක්වා කල්තැබීමට අභියාචනාධිකරණය නියෝග කළේය.
+
+එහෙත් එය ප්‍රකාශ කිරීම මැයි මස 07 වන දා දක්වා කල්තබන බව අභියාචනාධිකරණ විනිසුරු ඩී.එන්. සමරකෝන් මහතා නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/292a6837.json)
+
+---
 
 ### Patali arrives at CID to record a statement
 
@@ -45,6 +77,24 @@ The leader of United Republic Front (‘Eksath Janaraja Peramuna’) was summone
 [Data](articles/ffecd209.json)
 
 [Extended Data](ext_articles/ffecd209.ext.json)
+
+---
+
+### 3 ஜனாதிபதி வேட்பாளர்களும் நேரலையில் விவாதம்
+
+*2024-04-30 10:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஜனாதிபதி-வேட்பாளர்களும்-நேரலையில்-விவாதம்/175-336545) · `ta`
+
+ஐக்கிய மக்கள் சக்தி தலைவர் சஜித் பிரேமதாச இன்னும் தனது பங்கேற்பை உறுதிப்படுத்தாத நிலையில், மூன்று பிரதான ஜனாதிபதி வேட்பாளர்களுடன் எமது சகோதர ஊடகங்களான டெய்லி மிரர் மற்றும் லங்காதீப நடத்தும் அரசியல் விவாதத்திற்கான உத்தியோகபூர்வ அழைப்பை தேசிய மக்கள் சக்தி (NPP) நேற்று ஏற்றுக்கொண்டது.
+
+டெய்லி மிரர் அழைப்பிதழை NPPயின் பொதுச் செயலாளர் டில்வின் சில்வா ஏற்றுக்கொண்டார், NPP தலைவர் அனுரகுமார திஸாநாயக்க விவாதத்திற்குத் தயாராக இருப்பதாகவும் அதில் கலந்துகொள்வார் என்றும் தெரிவித்தார்.
+
+கொழும்பில் உள்ள எதிர்க்கட்சித் தலைவரின் அலுவலகத்தில் டெய்லி மிரர் உத்தியோகபூர்வ அழைப்பிதழை கையளித்ததுடன் பங்கேற்பதற்கான மறுமொழஜயைப் பெற குழு எதிர்பார்த்துள்ளது.
+
+சஜித் பிரேமதாசவுக்கு அழைப்புக் கடிதம் கிடைத்துள்ளதை எனினும் நேற்று மாலை உறுதிசெய்த பிரேமதாசவின் அலுவலகம், விவாதங்கள் தொடர்பான விவகாரங்களைக் கையாளும் பாராளுமன்ற உறுப்பினர் நளின் பண்டாரவுக்கு அதனை அனுப்பி வைத்துள்ளது.
+
+...
+
+[Data](articles/3f041ca3.json)
 
 ---
 
@@ -90,25 +140,31 @@ The government headed by President Gotabhaya Rajapakse in March 2020 believed th
 
 ---
 
-### රනිල් ගෙනාවේ අපි නෙමෙයි - පොහොට්ටුවේ නායකයින්
+### Not we brought Ranil - Leaders in Potion
 
 *2024-04-30 10:32:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-ගෙනාවේ-අපි-නෙමෙයි---පොහොට්ටුවේ-නායකයින්/11-409337) · `si`
 
-ගෝඨාභය ජනාධිපතිවරණයට ඉදිරිපත් කිරීමට තීරණය කරනකොට මම ඒකට විරුද්ධ වුණා - පොහොට්ටුව ඇහුවේ නෑ....
+Prasanna Ranatunga, Minister of Urban Development and Housing, announced the party's intention to nominate Gotabhaya Rajapaksa for the presidential election. He emphasized the party's support for Ranil Wickremesinghe, highlighting the leadership's role in overcoming the country's crises, including the JVP rebellion, the 1988/89 election violence, the Tsunami, and the Covid-19 pandemic.
 
-රට අද මුහුණ පා සිටින අර්බුදයෙන් ගොඩගත හැක්කේ අත්දැකීම් ඇති පරිණත නායකයෙකුට පමණක් බැවින් අත්දැකීම් නොමැති අලුත් අයට රට භාර දෙන්න හිතන්නවත් එපා යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ජනතාවගෙන් ඉල්ලයි.
+🟩
 
-ගෝඨාභය රාජපක්ෂ මහතා ජනාධිපතිවරණයට ඉදිරිපත් කිරීමට පක්ෂය සුදානම් වනවිට තමන් ඊට විරුද්ධ වූ බවත් එහෙත් පොහොට්ටුව ඊට කන්නොදුන් බවත් රණතුංග මහතා පෙන්වා දෙයි.
+When I decided to submit Gotabhaya to presidential election - I didn't ask ...
 
-රනිල් ජනාධිපති කළේ පොහොට්ටුවේ නායකයින් මිස තමන් ඇතුළු පොහොට්ටුවේ මන්ත්‍රීවරුන් නොවන බව පෙන්වා දුන් ඇමතිවරයා තමන් ඇතුළු පොහොට්ටුවේ මන්ත්‍රීවරුන් කළේ ඊට සහාය ලබා දීම බවද කියයි.
+Minister of Urban Development and Housing Prasanna Ranatunga asks the public noticeable to those who have experienced today in the crisis today.
 
-තමන් රනිල්ට කඩේ නොයන බවත් තමන් කඩේ යන්නේ මේ රටේ ජනතාවට පමණක් බවද ඇමතිවරයා වැඩිදුරටත් අවධාරණය කරයි.
+Mr. Ranatunga pointed out that the party was preparing to submit Gotabhaya Rajapaksa to preside to the presidential election.
 
-උඩුගම්පලදී අද (30) පැවැති රැස්වීමකට සහභාගී වෙමින් ඇමතිවරයා මේ බව සඳහන් කලේය. පවතින දේශපාලන තත්ත්වය පැහැදිලි කිරීම සඳහා රැස්වීම කැඳවා තිබිණි.
+The Minister said that the Ranil pointed out that the leader was the rise and the MPs in the poigning herself, MPs were also supporting them.
+
+The Minister further emphasizes that he does not go to Ranil to Ranil and the people of this country are the only people.
+
+Minister was speaking at a meeting held at Udugampah today (30).. The meeting was called to explain the existing political situation.
 
 ...
 
 [Data](articles/b34969dc.json)
+
+[Extended Data](ext_articles/b34969dc.ext.json)
 
 ---
 
@@ -2103,69 +2159,5 @@ It is expected that the assistance of Sri Lanka's economic recovery, Japan's coo
 [Data](articles/7556629f.json)
 
 [Extended Data](ext_articles/7556629f.ext.json)
-
----
-
-### Booze banned at May Day rally venues
-
-*2024-04-29 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Booze-banned-at-May-Day-rally-venues/108-281585) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Excise Department of Sri Lanka has prohibited the sale of all kinds of alcoholic beverages in Divisional Secretariat areas in the country where May Day rallies and processions are held on Wednesday, May 1.
-
-Excise Department spokesman cum Commissioner - Law Enforcement Channa Weerakkody, issuing a notice today stated that all retail liquor selling points including wine stores, bars, restaurants and taverns will be ordered to remain closed from the regular closing hours of Tuesday, April 30 till the regular opening hours on Thursday, May 02.
-
-However, all hotels and boutique villas registered under the Sri Lanka Tourism Development Authority (SLTDA) bearing Excise License (FL 07, 08) are exempt from this order.
-
-The Department vows strict legal action against those who violate the Excise law during the stipulated period.
-
-◼️
-
-[Data](articles/b66437c4.json)
-
-[Extended Data](ext_articles/b66437c4.ext.json)
-
----
-
-### Special notice to the drivers on Galle Road
-
-*2024-04-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196105) · `si`
-
-Drivers on Galle Road: Due to sea waves from Kahawa Junction, motorbikes and three-wheelers must navigate through sand. Construction of sea waves requires careful driving.
-
-🟩
-
-The sand is deposited due to sea waves from Kahawa Junction on the Colombo-Colombo main road.
-
-Due to this, motorbikes and three-wheelers must be traveled through the area.
-
-Due to the construction of sea waves, drivers to use the road should be taken care of the road.
-
-◼️
-
-[Data](articles/fbe50dee.json)
-
-[Extended Data](ext_articles/fbe50dee.ext.json)
-
----
-
-### Asia Rugby Division 1 Championship begins tomorrow
-
-*2024-04-29 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asia-Rugby-Division-1-Championship-begins-tomorrow/108-281584) · `en`
-
-Apr. 29 (Daily Mirror) - Colombo is set to witness an exhilarating clash of talents as the Asia Rugby (AR) Division 1 Championship will kick-off at the Racecourse Grounds tomorrow.
-
-This prestigious event, hosted by Sri Lanka Rugby (SLR), promises to show the best of the regions rugby power, as teams battle it out for the ultimate prize - promotion to the AR Top 4 in 2025.
-
-Two exciting matches are scheduled to kick-off the championship on the opening day where Qatar will go head-to-head with a physical, Kazakhstan side in what promises to be a closely contested encounter.
-
-On the same day under lights, Sri Lanka will take on the formidable opponents from India.
-
-These initial matches will set the tone for the tournament, as teams seek early victories to gain the momentum. Sri Lanka are ranked at 44 compared to India’s 87 at present.
-
-...
-
-[Data](articles/d05a0106.json)
-
-[Extended Data](ext_articles/d05a0106.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 03:51:41**
+As of **2024-05-01 04:03:43**
 
 ## Newspaper Stats
 
-*Scraped **21,952** Articles*
+*Scraped **21,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,550
+tamilmirrorlk | 2,551
 adaderanalk | 2,597
-virakesarilk | 3,315
+virakesarilk | 3,316
 dailymirrorlk | 3,425
 adaderanasinhalalk | 3,550
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,951 (100.0%) of 21,952 articles have been extended.
+21,952 (100.0%) of 21,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### மலையகத்தில் ஏட்டிக்கு போட்டியாக ரணில் - சஜித்தின் மே தினக் கூட்டங்கள் பெருந்தோட்டத் தொழிலாளர்களுக்கு காத்திருக்கும் ஜனாதிபதியின் விசேட அறிவிப்பு
+
+*2024-05-01 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/182373) · `ta`
+
+சர்வதேச தொழிலாளர் தினமான இன்று நாட்டின் பல பகுதிகளிலும் அரசியல் கட்சிகள், தொழிற்சங்கங்களினால் பாரிய மே தினக் கூட்டங்கள் ஏற்பாடு செய்யப்பட்டுள்ளன. இம்முறை ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச ஆகிய இருவரும் மலையகத்தில் இடம்பெறும் மே தினக் கூட்டங்களில் பங்கேற்கவுள்ளமை விசேட அம்சமாகும்.
+
+அந்த வகையில் இலங்கை தொழிலாளர் காங்ரஸ் கொட்டகலை மைதானத்தில் ஏற்பாடு செய்துள்ள மே தினக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதம அதிதியாகக் கலந்து கொள்ளவுள்ளார். முற்பகல் 10 மணிக்கு ஆரம்பமாகவுள்ள இக்கூட்டத்துக்கு நாடளாவிய ரீதியிலிருந்து பேரூந்துகள் மூலம் மக்கள் அழைத்து வரப்படவுள்ளனர். இதன் போது தற்போது பேசுபொருளாகியுள்ள பெருந்தோட்டத் தொழிலாளர்களின் சம்பள பிரச்சினை குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட அறிவிப்பொன்றை வெளியிடவுள்ளார்.
+
+...
+
+[Data](articles/9e311c49.json)
+
+---
 
 ### It is not the government's intention to keep working people as poor - the President in Labor Day news
 
@@ -194,6 +208,24 @@ The highlight is that this day has been declared an official holiday in many cou
 
 ---
 
+### ரத்துபஸ்வல தீர்ப்பு ஒத்திவைப்பு
+
+*2024-05-01 00:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்துபஸ்வல-தீர்ப்பு-ஒத்திவைப்பு/175-336584) · `ta`
+
+சுத்தமான குடிநீருக்காக ஆர்ப்பாட்டத்தில் ஈடுபட்ட ரத்துபஸ்வல பிரதேசவாசிகள் மீது துப்பாக்கிச் சூடு நடத்தி 3 பேர் கொல்லப்பட்டதுடன் 45 பேர் காயமடைந்த சம்பவம் தொடர்பிலான தீர்ப்பு ஒத்திவைக்கப்பட்டுள்ளது.
+
+சம்பவத்தில், குற்றம் சுமத்தப்பட்ட இராணுவ பிரிகேடியர் உள்ளிட்ட மூவருக்கு எதிரான தீர்ப்பை எதிர்வரும் 17 ஆம் திகதி அறிவிக்க கம்பஹா விசேட மூவரடங்கிய மேல் நீதிமன்ற அமர்வு செவ்வாய்க்கிழமை (30)  தீர்மானித்துள்ளது.
+
+குறித்த வழக்கு   செவ்வாய்க்கிழமை (30)  எடுத்துக்கொள்ளப்பட்ட வேளை, வழக்கின் தீர்ப்பு எதிர்வரும் 17ஆம் திகதி அறிவிக்கப்படுமென  கம்பஹா மேல் நீதிமன்ற நீதிபதி  சஹான் மாபா பண்டார அறிவித்தார்.
+
+இதன்படி, குற்றஞ்சாட்டப்பட்ட இராணுவ பிரிகேடியர் மற்றும் நீதிமன்றத்தில் ஆஜராகியிருந்த மூன்று இராணுவத்தினரையும் அன்றைய தினம் நீதிமன்றத்தில் ஆஜராகுமாறு நீதிபதி கட்டளையிட்டார்.
+
+...
+
+[Data](articles/a9a13f5e.json)
+
+---
+
 ### May Day: Not capitalism, but dogmatism has almost killed trade union movement
 
 *2024-05-01 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-Day-Not-capitalism-but-dogmatism-has-almost-killed-trade-union-movement/172-281677) · `en`
@@ -230,21 +262,29 @@ In other words we have a huge gap between the number of candidates attempting to
 
 ---
 
-### ’கோட்டாபயவை நியமித்ததை கடுமையாக எதிர்த்தேன்’
+### I strongly opposed the appointment of Gotabhaya
 
 *2024-05-01 00:00:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாபயவை-நியமித்ததை-கடுமையாக-எதிர்த்தேன்/175-336583) · `ta`
 
-நாடு இன்று எதிர்நோக்கும் நெருக்கடியிலிருந்து அனுபவம் வாய்ந்த முதிர்ந்த தலைவரால் மட்டுமே மீட்டெடுக்க முடியும் என்பதால், அனுபவமற்ற புதியவர்களிடம் நாட்டை ஒப்படைக்க நினைக்கவேண்டாம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க மக்களிடம் வேண்டுகோள் விடுத்துள்ளார்.
+Prasanna Ranatunga criticizes the appointment of Gotabhaya Rajapakse, emphasizing the importance of experienced leadership and the role of the Mottu Party in supporting Wickremesinghe.
 
-கோட்டாபய ராஜபக்ஷவை ஜனாதிபதித் தேர்தலுக்கு முன்னிறுத்துவதற்கு கட்சி தயாராக இருந்த போது, அதற்கு அவர் எதிர்ப்புத் தெரிவித்த போதிலும், அதனை மொட்டுக் கட்சி கேட்கவில்லை என ரணதுங்க சுட்டிக்காட்டினார்.
+🟩
 
-ரணிலை ஜனாதிபதியாக்கியது மொட்டுக் கட்சியின் தலைவர்களே அன்றி தானும் மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர்களும் அல்ல என சுட்டிக்காட்டிய அமைச்சர், அதற்கு தானும் மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர்களும் ஆதரவளித்தோம் என்றார்.
+Urban Development and Housing Minister Prasanna Ranatunga has appealed to the people not to think that the country should be restored only by the experienced mature leader of the country today.
 
-தாம் ரணிலின் தேவைக்காக கடைக்குப் போகவில்லை என்றும், இந்த நாட்டு மக்களுக்காகத் தான் கடைக்குப் போவதாகவும் அமைச்சர் மேலும் வலியுறுத்தினார்.
+Ranatunga pointed out that when the party was ready to present Gotabhaya Rajapakse to the presidential election, he protested, but he did not ask for it.
+
+The minister pointed out that Ranil became president, but not the leaders of the Mottu Party, but also the parliamentarians of the party, "he said.
+
+The Minister further stressed that he did not go to the shop for Ranil and that he would go to the shop for the people of this country.
+
+The Minister made these comments while attending a meeting held at Udugambala area on Tuesday (30).. The meeting has been held to explain the current political situation.
 
 ...
 
 [Data](articles/dc24f4bf.json)
+
+[Extended Data](ext_articles/dc24f4bf.ext.json)
 
 ---
 
@@ -2225,59 +2265,5 @@ Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years 
 [Data](articles/761ecd8f.json)
 
 [Extended Data](ext_articles/761ecd8f.ext.json)
-
----
-
-### Rathupaswala case verdict posts 17 to time
-
-*2024-04-30 14:15:07* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-දීම-17-දාට-කල්-යයි/11-409346) · `si`
-
-The Rathupaswala case, involving the shooting of three soldiers demanding clean water, was delayed until the 17th before a three-member High Court declared the verdict.
-
-🟩
-
-Three member High Courts decided to declare the verdict in the three-member highlights of three soldiers and three soldiers who were shot dead in Rathupaswala, who was demanding clean water..
-
-Although the verdict is to be announced today. It was procrastinated until the 17th.
-
-Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years ago, the case was executed and the case was executed.
-
-◼️
-
-[Data](articles/cfec433c.json)
-
-[Extended Data](ext_articles/cfec433c.ext.json)
-
----
-
-### Platinum and Gold Awards for Sri Lankan students who showcase robot technical skills
-
-*2024-04-30 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182319) · `ta`
-
-Six Sri Lankan students won the Titanium Award in the "2024 International Creativity and Innovation Awards" for their robot technology skills. They competed against 1,000 students from 441 teams globally. Three students won the Platinum Award for a fire alert machine, and three others won the Gold Award for an Ocean Sweeper. This marks Sri Lanka's first global robot technology competition.
-
-🟩
-
-Six students who participated in the robot technology competition in Thailand "2024 International Creativity and Innovation Awards" arrived at the Katunayake International Airport on Monday (29).
-
-They won the Titanium Award (the second highest) of the Robot technology industry in the finals of the Robot technology industry on Sunday (28).
-
-In the international competition, 1,000 students representing 441 teams from four continents participated.
-
-Three students in the tournament have won the Platinum Award by preparing a fire alert machine to find the wildfire.
-
-In addition, three people have the opportunity to study 100 % free at the Paragon International University in Cambodia.
-
-In addition, three students have gone to sea and have won the gold award by producing the Ocean Sweepper.
-
-The most interesting solution of this design has also won the Most Interesting Solution.
-
-This is the first time Sri Lanka contested its robot technology at such a global event.
-
-◼️
-
-[Data](articles/8a4ee972.json)
-
-[Extended Data](ext_articles/8a4ee972.ext.json)
 
 ---

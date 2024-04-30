@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 08:34:23**
+As of **2024-04-30 08:52:26**
 
 ## Newspaper Stats
 
-*Scraped **21,756** Articles*
+*Scraped **21,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
-adalk | 1,818
+adalk | 1,819
 tamilmirrorlk | 2,523
 adaderanalk | 2,580
 virakesarilk | 3,272
 dailymirrorlk | 3,389
-adaderanasinhalalk | 3,520
+adaderanasinhalalk | 3,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,756 (100.0%) of 21,756 articles have been extended.
+21,756 (100.0%) of 21,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### මැතිවරණ කොමිසමෙන් ජනතාවට දැනුම්දීමක්
+
+*2024-04-30 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196118) · `si`
+
+ඡන්ද හිමි ලියාපදිංචි විස්තර සම්බන්ධයෙන් මැතිවරණ කොමිෂන් සභාව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව 2007.01.31 දිනට පෙර උපන් පුරවැසියන්, ඡන්ද ලැයිස්තුවේ තමාගේ නම ඇත්දැයි වහාම ග්‍රාම නිලධාරීවරයාගෙන් විමසීමක් කරන ලෙස දැනුම් දී ඇත.
+
+එසේ නොමැති නම්  http://ec.lk/vrd යන වෙබ් අඩවියට පිවිස තමාගේ විස්තර නිවැරදිව ඇත්දැයි පරීක්ෂා කළ හැකිය.
+
+◼️
+
+[Data](articles/a1193b77.json)
+
+---
 
 ### Fairly heavy showers expected in several provinces
 
@@ -1670,6 +1686,20 @@ Police have announced the special traffic plan in Colombo to mark the Internatio
 
 ---
 
+### රතුපස්වල නඩුවේ තීන්දුව අද
+
+*2024-04-29 19:04:34* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-අද/11-409331) · `si`
+
+පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බි්‍රගේඩියර්වරයකුට සහ හමුදා සෙබ|ළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල  හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද (30) ප්‍රකාශයට පත් කෙරේ.
+
+මීට වසර 11කට පෙර රතුපස්වල ප්‍රදේශයේදී පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් නීතීපතිවරයා විසින් පවරා ඇති නඩුව දීර්ඝ වශයෙන් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කිරීම සඳහා මෙලෙස දින නියම කර ඇත.
+
+◼️
+
+[Data](articles/250c1018.json)
+
+---
+
 ### A fire in a school
 
 *2024-04-29 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196103) · `si`
@@ -2109,49 +2139,5 @@ When the case was taken up for hearing, the accused did not appear in court. The
 [Data](articles/b1538df9.json)
 
 [Extended Data](ext_articles/b1538df9.ext.json)
-
----
-
-### An announcement about admission of students for intermediaries
-
-*2024-04-29 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196100) · `si`
-
-The Ministry of Education announces admission for students to intermediate series in public and government-approved private schools, excluding skills-based students in private schools. Instructions are based on a circular and have been communicated to principals.
-
-🟩
-
-The Ministry of Education has issued an announcement to admit students to intermediate series of public schools and government approved private schools.
-
-It states that it does not include skills-based students when they are included in the intermediate series of all private schools.
-
-It also states that students will be included in the intermediate grades, considering the instructions of the circular.
-
-The Ministry of Education has also issued the instructions to the principals in this regard.
-
-◼️
-
-[Data](articles/47605552.json)
-
-[Extended Data](ext_articles/47605552.ext.json)
-
----
-
-### O/L exam students to begin A/L classes immediately
-
-*2024-04-29 17:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/OL-exam-students-to-begin-AL-classes-immediately/108-281578) · `en`
-
-Colombo, April 29 (Daily Mirror) - Students sitting for the GCE Ordinary Level (O/L) Examination will start the GCE Advanced Level (A/L) classes immediately after their exams, Education Minister Susil Premajyantha said.
-
-While participating as the chief guest at the launch of the official internet radio channel of the National Institute of Education (NIE Visual Radio) at the Maharagama National Institute of Education, the Minister said the decision was taken due to the closure of schools during the last Covid pandemic and according to the programme to cover up missed studies and school examination schedules.
-
-The aim of action is to prevent undue delays, such as possible delays for schoolchildren to enter the university, and to restore the studies that were missed during the last Covid period.
-
-The Minister said that therefore everyone's support and dedication are essential to make this successful.
-
-◼️
-
-[Data](articles/a6c93e07.json)
-
-[Extended Data](ext_articles/a6c93e07.ext.json)
 
 ---

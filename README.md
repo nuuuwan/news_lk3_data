@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 03:33:55**
+As of **2024-05-01 03:51:41**
 
 ## Newspaper Stats
 
-*Scraped **21,951** Articles*
+*Scraped **21,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,549
+tamilmirrorlk | 2,550
 adaderanalk | 2,597
 virakesarilk | 3,315
 dailymirrorlk | 3,425
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,951 (100.0%) of 21,951 articles have been extended.
+21,951 (100.0%) of 21,952 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -227,6 +227,24 @@ In other words we have a huge gap between the number of candidates attempting to
 [Data](articles/b38b3eba.json)
 
 [Extended Data](ext_articles/b38b3eba.ext.json)
+
+---
+
+### ’கோட்டாபயவை நியமித்ததை கடுமையாக எதிர்த்தேன்’
+
+*2024-05-01 00:00:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாபயவை-நியமித்ததை-கடுமையாக-எதிர்த்தேன்/175-336583) · `ta`
+
+நாடு இன்று எதிர்நோக்கும் நெருக்கடியிலிருந்து அனுபவம் வாய்ந்த முதிர்ந்த தலைவரால் மட்டுமே மீட்டெடுக்க முடியும் என்பதால், அனுபவமற்ற புதியவர்களிடம் நாட்டை ஒப்படைக்க நினைக்கவேண்டாம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க மக்களிடம் வேண்டுகோள் விடுத்துள்ளார்.
+
+கோட்டாபய ராஜபக்ஷவை ஜனாதிபதித் தேர்தலுக்கு முன்னிறுத்துவதற்கு கட்சி தயாராக இருந்த போது, அதற்கு அவர் எதிர்ப்புத் தெரிவித்த போதிலும், அதனை மொட்டுக் கட்சி கேட்கவில்லை என ரணதுங்க சுட்டிக்காட்டினார்.
+
+ரணிலை ஜனாதிபதியாக்கியது மொட்டுக் கட்சியின் தலைவர்களே அன்றி தானும் மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர்களும் அல்ல என சுட்டிக்காட்டிய அமைச்சர், அதற்கு தானும் மொட்டுக் கட்சியின் பாராளுமன்ற உறுப்பினர்களும் ஆதரவளித்தோம் என்றார்.
+
+தாம் ரணிலின் தேவைக்காக கடைக்குப் போகவில்லை என்றும், இந்த நாட்டு மக்களுக்காகத் தான் கடைக்குப் போவதாகவும் அமைச்சர் மேலும் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/dc24f4bf.json)
 
 ---
 
@@ -2261,25 +2279,5 @@ This is the first time Sri Lanka contested its robot technology at such a global
 [Data](articles/8a4ee972.json)
 
 [Extended Data](ext_articles/8a4ee972.ext.json)
-
----
-
-### Sri Lanka to designate 40 more destinations as tourist zones
-
-*2024-04-30 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98936/sri-lanka-to-designate-40-more-destinations-as-tourist-zones-) · `en`
-
-The government plans to designate 49 more destinations as official tourist zones, says State Minister Diana Gamage.
-
-Addressing a press conference on Monday (29), the State Minister for Tourism revealed that these locations would be published in a gazette notification within a month as part of the ongoing efforts to boost tourism.
-
-Speaking further, she announced that plans are underway to establish a dedicated committee tasked with preventing and monitoring fraud and corruption within the tourism sector.
-
-“We have received numerous complaints regarding tourist harassment in our country. I”ve spoken out about this issue before. Complaints range from overcharging for food to inflated prices for train tickets to tourist spots, and even instances of sexual harassment against a tourist promoting Sri Lanka. We are implementing measures to combat these activities. We cannot afford to let the reputation of our country suffer due to the actions of a few individuals who make mistakes.
-
-...
-
-[Data](articles/36e8f9ff.json)
-
-[Extended Data](ext_articles/36e8f9ff.ext.json)
 
 ---

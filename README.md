@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 12:51:16**
+As of **2024-04-30 13:03:51**
 
 ## Newspaper Stats
 
-*Scraped **21,818** Articles*
+*Scraped **21,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,95 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,828
-tamilmirrorlk | 2,533
+tamilmirrorlk | 2,534
 adaderanalk | 2,585
 virakesarilk | 3,284
-dailymirrorlk | 3,399
+dailymirrorlk | 3,401
 adaderanasinhalalk | 3,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,815 (100.0%) of 21,818 articles have been extended.
+21,818 (100.0%) of 21,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### சிஐடியில் ஆஜரானார் பாட்டலி
+### UK Policeman spared jail after assault on innocent Sri Lankan
+
+*2024-04-30 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-Policeman-spared-jail-after-assault-on-innocent-Sri-Lankan/108-281651) · `en`
+
+UK, April 30 (Independent) - A serving UK Metropolitan Police officer who assaulted an innocent Sri Lankan after mistaking him for a criminal has been spared jail.
+
+PC Jonathan Marsh, 34, had been called out to Atlanta Boulevard in Romford, east London, on 13 November 2022 after a medical worker reported someone was damaging a sign outside and making threats to kill.
+
+Marsh mistook Rasike Attanayake, who had called 999, for the suspect and bundled him to the ground before punching him in the back of the head.
+
+Mr Attanayake was arrested and put in the back of a police car until officers realised their mistake and he was de-arrested.
+
+Police-worn bodycam footage played to the court showed Marsh pulling Mr Attanayake to the floor, swearing at him and punching him in the back of the head.
+
+After the incident, he complained to the Met Police and the force referred the case to the Independent Office for Police Conduct (IOPC) for them to investigate.
+
+...
+
+[Data](articles/0a2e1c8f.json)
+
+---
+
+### Misfire at airport VIP lounge damages roof
+
+*2024-04-30 12:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Misfire-at-airport-VIP-lounge-damages-roof/108-281650) · `en`
+
+Katunayaka, (April 30 (Daily Mirror) - The VIP lounge terminal roof of the Bandaranaike International Airport was damaged this morning following a misfire from a T-56 type firearm belonging to an airman of the Sri Lanka Air Force.
+
+The incident occurred at around 10.25 a.m. and damaged the roof of the terminal, but no one was hurt.
+
+The airman was arrested by the Sri Lanka Air Force. The Katunayake Airport Police and the Sri Lanka Air Force are conducting further investigations.
+
+◼️
+
+[Data](articles/200177ea.json)
+
+---
+
+### வழக்கில் இருந்து மஹிந்தானந்த விடுதலை
+
+*2024-04-30 12:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கில்-இருந்து-மஹிந்தானந்த-விடுதலை/175-336550) · `ta`
+
+முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவுக்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கில் இருந்து அவர் விடுவிக்கப்பட்டுள்ளார்.
+
+அவர் அமைச்சராக இருந்த காலப்பகுதியில்  சட்டவிரேதமான முறையில் கொழும்பில் கின்சி வீதியில் சொகுசு வீடொன்றை கொள்வனவு  செய்ததாக பணமோசடி தடுப்பு சட்டத்தின் கீழ் வழக்கு தொடரப்பட்டது.
+
+இந்த வழக்கில் இருந்து  முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவை விடுதலை செய்ய கொழும்பு மேல் நீதிமன்றம் இன்று(30) உத்தரவிட்டுள்ளது.
+
+கடந்த நல்லாட்சி அரசாங்கத்தின் போது முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவுக்கு எதிராக சட்டமா அதிபால் இந்த வழக்கு தாக்கல் செய்யப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/285f0992.json)
+
+---
+
+### Patali appeared in CIT
 
 *2024-04-30 12:21:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-ஆஜரானார்-பாட்டலி/175-336549) · `ta`
 
-வாக்குமூலம் வழங்குவதற்காக  பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க குற்றப் புலனாய்வுத் திணைக்களத்திற்கு இன்று(30) வருகை தந்துள்ளார்.
+Patali Champika Ranawaka visited the Criminal Investigation Department to file a statement regarding his comments in Ratnapura.
 
-இரத்தினபுரியில் அவர் தெரிவித்த கருத்துக்கள் தொடர்பில் வாக்குமூலமொன்றை பதிவு செய்வதற்கு வருமாறு குற்றப் புலனாய்வுப் பிரிவினர் விடுத்த அழைப்பின் பேரில் அவர் அங்கு சென்றுள்ளார்.
+🟩
+
+Parliamentarian Patali Champika Ranawaka has visited the Criminal Investigation Department today (30).
+
+He has gone there at a call by the Criminal Investigation Department to file a statement on his comments in Ratnapura.
 
 ◼️
 
 [Data](articles/0a4db31d.json)
+
+[Extended Data](ext_articles/0a4db31d.ext.json)
 
 ---
 
@@ -59,6 +121,8 @@ Colombo High Court Judge   Navaratne Marasinghe held that the prosecution has 
 ◼️
 
 [Data](articles/422a1f11.json)
+
+[Extended Data](ext_articles/422a1f11.ext.json)
 
 ---
 
@@ -164,17 +228,23 @@ The house has been used as the Law College of Odeza, former Ukrainian lawyer.
 
 ---
 
-### මැණික්හින්න රෝහලේ ගැටුම ගැන පරික්ෂණයක්
+### Inspection of conflict conflict in Menikhinna Hospital
 
 *2024-04-30 11:51:17* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්හින්න-රෝහලේ-ගැටුම-ගැන-පරික්ෂණයක්/11-409340) · `si`
 
-මහනුවර මැණික්හින්න රෝහලට හදිසි රෝගියකු ඇතුළත් කළ බව කියන අවස්ථාවේදි රෝහල් කාර්ය මණ්ඩලය සහ රෝගියා ඇතුළත් කිරිමට පැමිණි පිරිස අතර ඇතිවු ගැටුම සම්බන්ධයෙන් අපක්ෂපාති පරික්ෂණයක් සිදු කරන ලෙස මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු ගමගේ මහතා අදාළ බලධාරින්ට දැනුම් දුන්නේය.
+Governor Lalith U Gamage ordered an investigation into a conflict at Menikhinna Hospital in Kandy, involving admitted patients. Police and health officials were urged to promptly investigate the incident.
 
-මෙම සිද්ධීය සම්බන්ධයෙන් පොලිසිය සහ සෞඛ්‍ය නිලධාරින්වෙත උපදෙස් ලබා දෙමින් කියා සිටියේ කඩිනම්ව සිද්ධීය සම්බන්ධයෙන් පරික්ෂණයක් සිදු කර තමන් වෙත වහාම වාර්තාවක් ලබා දෙන ලෙසය.
+🟩
+
+Governor Lalith U Gamage, the Governor of the Central Province informed the authorities to conduct an impetus for the conflict between the people who were admitted to the Menikhinna Hospital in Kandy.
+
+The police and health officials advised the police and health officials to promptly investigate the accelerated incident.
 
 ◼️
 
 [Data](articles/07b5a8ab.json)
+
+[Extended Data](ext_articles/07b5a8ab.ext.json)
 
 ---
 
@@ -2175,65 +2245,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/2dc67170.json)
 
 [Extended Data](ext_articles/2dc67170.ext.json)
-
----
-
-### Redeemers…big scene this year as well
-
-*2024-04-29 22:53:00* · [`islandlk`](http://island.lk/redeemersbig-scene-this-year-as-well/) · `en`
-
-The year 2023 was a happening scene for the band Redeemers, especially their tour of Australia in July/August.
-
-The Sri Lankans, in that part of the world, went ga-ga over their music and there were lots of positive comments, on social media, about their performance, Down Under.
-
-They were also seen in action, in Bahrain, in November of last year.
-
-According to a spokesman for the band, the Redeemers have got some foreign assignments coming up this year, as well.
-
-“There are about four-plus countries that we are negotiating with and, hopefully, 2024 will be another good year for the band where overseas trips are concerned”.
-
-Locally, Redeemers shared the stage with the American band All-4-One when they performed in Colombo, in December 2023, in a concert organised by Gold FM.
-
-In December, last year, the band also took over the entire production and successfully put together a New Year’s Eve dance 2023 at a five star venue, in Colombo.
-
-...
-
-[Data](articles/c0478591.json)
-
-[Extended Data](ext_articles/c0478591.ext.json)
-
----
-
-### May Day, May Day! Collective Rights versus Individual Rights
-
-*2024-04-29 22:45:07* · [`dailyftlk`](https://www.ft.lk/opinion/May-Day-May-Day-Collective-Rights-versus-Individual-Rights/14-761173) · `en`
-
-Weakening labour rights and a race to the bottom is never a recipe for inclusive, equitable and sustainable development
-
-When employers are permitted to collectively represent their interests, it is an implicit acknowledgement that there is unity in strength. If so, why should workers, weakly placed in the labour contract, evidenced by the fact that they do not earn a living wage, currently in a poverty trap and earning poverty wages, be curtailed from union representation? The few unions in the apparel sector do have to change their officer constituency and make them more representative of their workers. We are aware that unions need change, but that does not mean we throw the baby out with the bathwater
-
-...
-
-[Data](articles/0f4a8005.json)
-
-[Extended Data](ext_articles/0f4a8005.ext.json)
-
----
-
-### BASL calls for removal of Minister Tiran Alles over controversial remarks
-
-*2024-04-29 22:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98926/basl-calls-for-removal-of-minister-tiran-alles-over-controversial-remarks) · `en`
-
-The Bar Association of Sri Lanka (BASL) has denounced the recent statement issued by the Minister of Public Security Tiran Alles at the Katukurunda STF training camp’s passing out parade, which garnered widespread attention across various media platforms.
-
-According to media reports, the Minister asserted, “Eliminating criminals from the country is not a sin. Don’t be afraid to use the weapon in your hand for the right thing, and we stand by you.”
-
-Issuing a statement today (29), the BASL expressed grave concern over the aforementioned statement, deeming it in direct contradiction to the fundamental principles enshrined in the Constitution and the established procedures governing the criminal justice system.
-
-...
-
-[Data](articles/456b10c2.json)
-
-[Extended Data](ext_articles/456b10c2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 06:17:44**
+As of **2024-04-30 06:56:29**
 
 ## Newspaper Stats
 
-*Scraped **21,734** Articles*
+*Scraped **21,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 186
 bbccomsinhala | 226
 dbsjeyarajcom | 231
 newsfirstlk | 363
-islandlk | 1,186
+islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,817
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,521
 adaderanalk | 2,578
 virakesarilk | 3,270
 dailymirrorlk | 3,383
-adaderanasinhalalk | 3,513
+adaderanasinhalalk | 3,514
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,723 (99.9%) of 21,734 articles have been extended.
+21,733 (100.0%) of 21,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2024-04-30 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196110) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වල අද (30) ප.ව. 1න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+එමෙන්ම බස්නාහිර, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවේ.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/39b3196a.json)
+
+---
 
 ### Parties should publicize their election manifestos well in advance: PAFFREL
 
@@ -448,6 +468,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/2dc67170.json)
 
+[Extended Data](ext_articles/2dc67170.ext.json)
+
 ---
 
 ### Redeemers…big scene this year as well
@@ -471,6 +493,8 @@ In December, last year, the band also took over the entire production and succes
 ...
 
 [Data](articles/c0478591.json)
+
+[Extended Data](ext_articles/c0478591.ext.json)
 
 ---
 
@@ -586,6 +610,8 @@ With Phase I of the project nearly sold out, the company is now launching Phase 
 
 [Data](articles/2a6be5e2.json)
 
+[Extended Data](ext_articles/2a6be5e2.ext.json)
+
 ---
 
 ### Virtusa celebrates groundbreaking success of first LinkedIn community event in Sri Lanka
@@ -600,6 +626,8 @@ Bringing together over 200 industry leaders and mid to senior-level executives, 
 
 [Data](articles/0e870a90.json)
 
+[Extended Data](ext_articles/0e870a90.ext.json)
+
 ---
 
 ### Sri Lanka Veterinary Association celebrates World Veterinary Day
@@ -613,6 +641,8 @@ The Sri Lanka Veterinary Association (SLVA) marked World Veterinary Day on April
 ...
 
 [Data](articles/21535d0d.json)
+
+[Extended Data](ext_articles/21535d0d.ext.json)
 
 ---
 
@@ -654,6 +684,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/6de31c71.json)
 
+[Extended Data](ext_articles/6de31c71.ext.json)
+
 ---
 
 ### CSE exudes bullish exuberance with turnover of Rs. 4 billion and 12 crossings
@@ -667,6 +699,8 @@ Consequently, crossings dominated the market with the active participation of bo
 ...
 
 [Data](articles/2c3b9ea8.json)
+
+[Extended Data](ext_articles/2c3b9ea8.ext.json)
 
 ---
 
@@ -727,6 +761,8 @@ President Ranil Wickremesinghe, together with  President of the World Associati
 ...
 
 [Data](articles/9365fd34.json)
+
+[Extended Data](ext_articles/9365fd34.ext.json)
 
 ---
 
@@ -2123,23 +2159,5 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/24ebe63b.json)
 
 [Extended Data](ext_articles/24ebe63b.ext.json)
-
----
-
-### Did you born in 2007?
-
-*2024-04-29 16:20:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீங்கள்-2007-இல்-பிறந்தீர்களா/175-336512) · `ta`
-
-The Elections Commission asks village officials to identify citizens born before January 31, 2007.
-
-🟩
-
-The Elections Commission has instructed the village officials to immediately inquire about the names of the citizens born before 31.01.2007.
-
-◼️
-
-[Data](articles/97019318.json)
-
-[Extended Data](ext_articles/97019318.ext.json)
 
 ---

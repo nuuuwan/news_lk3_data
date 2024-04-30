@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 02:03:36**
+As of **2024-05-01 02:18:48**
 
 ## Newspaper Stats
 
-*Scraped **21,942** Articles*
+*Scraped **21,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,546
+tamilmirrorlk | 2,547
 adaderanalk | 2,597
 virakesarilk | 3,309
 dailymirrorlk | 3,425
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,942 (100.0%) of 21,942 articles have been extended.
+21,942 (100.0%) of 21,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,20 @@ In other words we have a huge gap between the number of candidates attempting to
 ---
 
 ### 2024-04-30 (Tuesday)
+
+### பிக்கு அபகரித்த காணியை மீட்க கோரிக்கை
+
+*2024-04-30 23:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-அபகரித்த-காணியை-மீட்க-கோரிக்கை/175-336580) · `ta`
+
+திருகோணமலை குச்சவெளி – திரியாய் கிராம சேவகர் பிரிவுக்குட்பட்ட ஆத்திக்காட்டுவெளி பகுதியில் உள்ள தமிழ் மக்களின் பாரம்பரிய விவசாயக் காணிகளில் பௌத்த பிக்கு ஒருவர் விவசாயம் மேற்கொண்டு வருவதாகவும் இதனால் தமது வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளதாகவும் அவற்றை தமது வாழ்வாதாரத்திற்காக மீட்டுத் தருமாறு விவசாயிகள் கோரிக்கை விடுக்கின்றனர்.
+
+ஆத்திக்காடு பகுதியில் உள்ள 88 ஏக்கர் காணி பானாமுரே திலகவங்ச நாயக்க தேரர் என்ற பௌத்த பிக்கு ஒருவரின் பெயரில் தற்காலிக இடாப்பு பதிவு மேற்கொள்ளப்பட்டு கிட்டத்தட்ட 3 வருடங்களாக சிறுபோக நெற்செய்கை மேற்கொள்ளப்பட்டு வருவதாகவும், இதற்காக அரசாங்கத்திடம் இருந்து 20 சிங்கள மக்களின் பெயரில் மானியப் பசளை பெற்று வருவதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/d1aee920.json)
+
+---
 
 ### Resolution
 
@@ -2231,35 +2245,5 @@ The demonstrators were attacked by a ship's ship and two navy vessels in the Red
 [Data](articles/a9280983.json)
 
 [Extended Data](ext_articles/a9280983.ext.json)
-
----
-
-### Prepared for May Day
-
-*2024-04-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196131) · `si`
-
-Sri Lanka's political parties and organizations are preparing for May Day, a day dedicated to workers' rights. UNP, Sri Lanka Front, National Front Battlefield, National Front League, and Frontline Socialist Party will participate. UNP's rally is at Sirisena Stadium, while the Sri Lanka General Front will hold theirs at Borella Campbell Ground. The UNP also plans a rally in Colombo Fort, starting from Havelock Road and ending at Lipton Roundabout. The Sri Lanka Freedom Party (SLFP) will hold their rally in Gampaha. Over 6,000 police officers and army soldiers are deployed for security.
-
-🟩
-
-The International Labor Day, nominated for the rights of working people tomorrow.
-
-Sri Lanka's political parties and various organizations have been organized in several areas including Colombo including Colombo including Colombo.
-
-The political parties and various organizations will be held on the country's political parties and 40 May Day waves and rallies across the country.
-
-Accordingly, the United National Party (UNP), the Sri Lanka Front, the National Front Battlefield, the National Front Liague and the Frontline Socialist Party and the Frontline Socialist Party will join the city.
-
-The United National Party (UNP) does not appear to be a May Day rally and holds their rally, PD. At the premises in front of Sirisena Stadium.
-
-The Sri Lanka General Front is not a May Day rally this year, planning to hold his party rally at the Borella Campbell Ground.
-
-The UNP will hold a May Day rally running in Colombo Fort and hold a May Day rally running in Colombo Fort.
-
-...
-
-[Data](articles/a93dd811.json)
-
-[Extended Data](ext_articles/a93dd811.ext.json)
 
 ---

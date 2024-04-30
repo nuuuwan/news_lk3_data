@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 23:53:43**
+As of **2024-05-01 00:05:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,931 (100.0%) of 21,937 articles have been extended.
+21,937 (100.0%) of 21,937 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The port welcomed the ship with a plaque presentation held on board. Officials o
 ◼️
 
 [Data](articles/df3e5612.json)
+
+[Extended Data](ext_articles/df3e5612.ext.json)
 
 ---
 
@@ -520,6 +522,8 @@ The 12-month yield dropped 22 basis points to 9.99 percent with 47.91 billion ru
 
 [Data](articles/735ea179.json)
 
+[Extended Data](ext_articles/735ea179.ext.json)
+
 ---
 
 ### SLTB buses will be paid to May's waves
@@ -613,6 +617,8 @@ A bond maturing on 01.10.2032 closed down at 12.35/40 percent from 12.40/55 perc
 ◼️
 
 [Data](articles/0b1cd748.json)
+
+[Extended Data](ext_articles/0b1cd748.ext.json)
 
 ---
 
@@ -753,6 +759,8 @@ The food price index fell 4.6 percent over the past 19 months. (Colombo/Apr30/20
 ◼️
 
 [Data](articles/0789c98c.json)
+
+[Extended Data](ext_articles/0789c98c.ext.json)
 
 ---
 
@@ -1239,6 +1247,8 @@ However, at least one of the factions has planned a Labour Day rally for Wednesd
 ...
 
 [Data](articles/0c4650f4.json)
+
+[Extended Data](ext_articles/0c4650f4.ext.json)
 
 ---
 

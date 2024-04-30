@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 22:34:01**
+As of **2024-04-30 22:51:22**
 
 ## Newspaper Stats
 
-*Scraped **21,924** Articles*
+*Scraped **21,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,242
 adalk | 1,840
-tamilmirrorlk | 2,543
+tamilmirrorlk | 2,544
 adaderanalk | 2,596
 virakesarilk | 3,305
 dailymirrorlk | 3,423
-adaderanasinhalalk | 3,548
+adaderanasinhalalk | 3,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,924 (100.0%) of 21,924 articles have been extended.
+21,924 (100.0%) of 21,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ජනතාව බය කළ කල්ලියේ සැකකරුවෙක් කොටුවෙයි
+
+*2024-04-30 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196147) · `si`
+
+බස්නාහිර පළාතේ මාර්ගවල ගමන් කරන කාන්තාවන් සහ පිරිමි පුද්ගලයින්ට මන්නා පෙන්වා දණ ගස්වා, කොල්ලකෑම් සිදුකරන යතුරුපැදි කල්ලියේ පැදිකරු හෙරොයින් සමග මොරටුව පොලීසිය අද (30) අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ, මෙම කල්ලියේ ප්‍රධාන සැකකරු වන "මන්නා සමන්ත" නමැති අපරාධකරු ප්‍රදේශයෙන් පළාගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/23eef5bf.json)
+
+---
+
+### ලංකා IOC ඉන්ධන මිලත් පහළට
+
+*2024-04-30 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196146) · `si`
+
+ලංකා IOC සමාගම ද සිය ඉන්ධන මිල ගණන් සම්බන්ධයෙන් දැනුම්දීමක් සිදුකර තිබේ.
+
+ඒ අනුව සිපෙට්කෝ ඉන්ධන මිල ගණන් අනුව ලංකා IOC ඉන්ධන මිල ගණන් ද පහළ දමන බව දැනුම්දෙයි.
+
+අද (30) දින මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/6b0f58b4.json)
+
+---
 
 ### The law of children is guilty of physical punishment
 
@@ -729,6 +759,20 @@ The petitioner filed this petition naming the members of the Constitutional Coun
 [Data](articles/86b17713.json)
 
 [Extended Data](ext_articles/86b17713.ext.json)
+
+---
+
+### ஜனாதிபதிக்கு உயர்நீதிமன்றம் பிறப்பித்த தடையுத்தரவு
+
+*2024-04-30 16:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-உயர்நீதிமன்றம்-பிறப்பித்த-தடையுத்தரவு/175-336559) · `ta`
+
+ஜனாதிபதி மற்றும் அரசியலமைப்புச் சபைக்கு உயர் நீதிமன்றம் இடைக்கால தடைஉத்தரவு ஒன்றை பிறப்பித்துள்ளது.
+
+இதன்படி, தலைமை நீதிபதி பதவியைத் தவிர ஏனைய உயர் நீதிமன்ற நீதிபதிகளின் பெயர்களை பரிந்துரைக்க இவ்வாறு தடை உத்தரவு விதிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/b6e08fd3.json)
 
 ---
 
@@ -2187,69 +2231,5 @@ Meanwhile, the young man on detention orders continues.
 [Data](articles/abc9226a.json)
 
 [Extended Data](ext_articles/abc9226a.ext.json)
-
----
-
-### Mahindananda acquitted, released from Money Laundering case
-
-*2024-04-30 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mahindananda-acquitted-released-from-Money-Laundering-case/108-281649) · `en`
-
-Colombo, April 30 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Mahindananda  Aluthgamage was today acquitted and released from the money laundering case by the Colombo High Court.
-
-The Attorney General had filed this case against Aluthgamage for allegedly purchasing a house worth Rs. 27 million at Kynsey Road, Colombo 7 over a complaint that he had allegedly purchased properties through illegally acquired money for committing a predicate offence coming under the Bribery Act.
-
-Colombo High Court Judge   Navaratne Marasinghe held that the prosecution has failed to prove the accused' guilt beyond reasonable doubts.
-
-◼️
-
-[Data](articles/422a1f11.json)
-
-[Extended Data](ext_articles/422a1f11.ext.json)
-
----
-
-### Three killed in Lightning
-
-*2024-04-30 12:11:22* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැරෙන්-තිදෙනෙක්-මරුට/11-409343) · `si`
-
-Three killed by lightning in Matale and Mullaitivu. Dankadgala Velgalaaya, his sister, and students died. A 49-year-old father, Jason Gyneanganankulam, also perished.
-
-🟩
-
-It is reported that three persons have been living in the area in Matale and Mullaitivu by lightning.
-
-Dankadgala Velgalaaya, Matale, Matale has died, and his younger sister, and his younger sister, and his younger students, and their younger hospital with the accident.Rattota Hospital said he was killed.
-
-A 49-year-old father of Jason Gyneanganankulam is also deceased and killed by lightning.
-
-◼️
-
-[Data](articles/2c4e332c.json)
-
-[Extended Data](ext_articles/2c4e332c.ext.json)
-
----
-
-### Leader of the leader of the VIP terminal mistaken fails
-
-*2024-04-30 12:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-පර්යන්තයේ-සේවය-කළ-නායක-ගුවන්-භටයාගේ-රාජකාරි-ගිනි-අවිය-වැරදිමකින්-පත්තුවෙයි/11-409342) · `si`
-
-The Sri Lanka Air Force's (SLAF) VIP terminal leader's firearm was mistakenly damaged by an elite VIP. The incident occurred at the Katunayake airport, involving a 56 rifle firearm. The Airman leader has been arrested by the SLAF and Katunayake Airport Police for further investigation.
-
-🟩
-
-The firearm of the Sri Lanka Air Force leader of the Sri Lanka Air Force (SLAF) has been damaged by the Sri Lanka Air Force (SLAF)'s VIP's VIP's VIP's VIP's elite.
-
-According to the Sri Lankan Air Force, the captain of the Sri Lanka Air Force on 04/30 am, the 56 rifle firearm was mistaken.
-
-The world's leading businesses are frequently engaged through the world's leading businessmen from the area with special elite visitors and money at the Katunayake airport.
-
-The leader of the Airman has already been arrested by the SLAF and the Katunayake Airport Police and the Sri Lanka Air Force are conducting further investigations.
-
-◼️
-
-[Data](articles/ce33ca74.json)
-
-[Extended Data](ext_articles/ce33ca74.ext.json)
 
 ---

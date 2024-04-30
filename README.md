@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 11:18:44**
+As of **2024-04-30 11:34:16**
 
 ## Newspaper Stats
 
-*Scraped **21,794** Articles*
+*Scraped **21,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 2,532
 adaderanalk | 2,584
 virakesarilk | 3,278
 dailymirrorlk | 3,392
-adaderanasinhalalk | 3,528
+adaderanasinhalalk | 3,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,791 (100.0%) of 21,794 articles have been extended.
+21,794 (100.0%) of 21,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### රුපියල් කෝටි 2 1/2ක ගජමුතු සහ මංජුසාවක්
+
+*2024-04-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196126) · `si`
+
+ගජමුතු තොගයක් සහ රිදී මංජුසාවක් ජාවාරම් කිරීම සඳහා සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකුව මඩකලපුව ප්‍රදේශයේදී විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+හමුවූ ගජමුතු සහ රිදී මංජුසාව රුපියල් කෝටි දෙකහමාරකට අධික වටිනාකමකින් යුතු බව සඳහන් ය.
+
+විශේෂ කාර්ය බළකාය කල්මුණ කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (29) මඩකලපුව පොලිස් වසමේ, පුලියන්තිව් ගාන්ධි ළමා උද්‍යානය ඉදිරිපිට දී වැටලීමක් සිදුකර තිබුණි.
+
+එහිදී ගජමුතු 11ක් සමග රිදී මංජුසාවක් සන්තකයේ තබාගෙන සිටි චෙංකලඩි ප්‍රදේශයේ පදිංචි වයස අවුරුදු 30ක් වන පුද්ගලයෙකුව අත්අඩංගුවට ගෙන වැඩිදුර විමර්ශන කටයුතු සදහා මඩකලපුව පොලිස් ස්ථානය වෙත භාර දී තිබේ.
+
+◼️
+
+[Data](articles/b514845a.json)
+
+---
 
 ### Appeals Court defers decision on Keheliya’s petition against remand order
 
@@ -48,19 +66,27 @@ The former health minister had put forward the relevant petition, seeking a cour
 
 [Data](articles/b5e315c3.json)
 
+[Extended Data](ext_articles/b5e315c3.ext.json)
+
 ---
 
-### කෙහෙළියගේ පෙත්සමේ තීන්දුව කල්යයි
+### Keheliya's petition decision postponed
 
 *2024-04-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196125) · `si`
 
-මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් තමන්ව නඩු විභාගය අවසන් වන තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට දුන් නියෝගය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙන්නේද? නැද්ද? යන නියෝගය ප්‍රකාශ කිරීම මැයි මස 07 වන දක්වා කල්තැබීමට අභියාචනාධිකරණය නියෝග කළේය.
+Keheliya's petition decision postponed to May 7th. Court of Appeal's decision delayed.
 
-එහෙත් එය ප්‍රකාශ කිරීම මැයි මස 07 වන දා දක්වා කල්තබන බව අභියාචනාධිකරණ විනිසුරු ඩී.එන්. සමරකෝන් මහතා නිවේදනය කළේය.
+🟩
+
+Is the Paradise made by Hon.Not?The Court of Appeal ordered the declaration of the order until 07th May.
+
+However, the Court of Appeal will be postponed until May 07th. Mr. Samarakoon announced.
 
 ◼️
 
 [Data](articles/292a6837.json)
+
+[Extended Data](ext_articles/292a6837.ext.json)
 
 ---
 
@@ -80,21 +106,27 @@ The leader of United Republic Front (‘Eksath Janaraja Peramuna’) was summone
 
 ---
 
-### 3 ஜனாதிபதி வேட்பாளர்களும் நேரலையில் விவாதம்
+### 3 presidential candidates and live debate live
 
 *2024-04-30 10:35:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-ஜனாதிபதி-வேட்பாளர்களும்-நேரலையில்-விவாதம்/175-336545) · `ta`
 
-ஐக்கிய மக்கள் சக்தி தலைவர் சஜித் பிரேமதாச இன்னும் தனது பங்கேற்பை உறுதிப்படுத்தாத நிலையில், மூன்று பிரதான ஜனாதிபதி வேட்பாளர்களுடன் எமது சகோதர ஊடகங்களான டெய்லி மிரர் மற்றும் லங்காதீப நடத்தும் அரசியல் விவாதத்திற்கான உத்தியோகபூர்வ அழைப்பை தேசிய மக்கள் சக்தி (NPP) நேற்று ஏற்றுக்கொண்டது.
+The National People's Power (NPP) has accepted an invitation for a live debate with three major presidential candidates, excluding Sajith Premadasa, who has not confirmed his participation. Dilvin Silva accepted the invitation on behalf of NPP leader Anura Kumara Dissanayake. The debate will focus on economic and political policies for the upcoming presidential election in October.
 
-டெய்லி மிரர் அழைப்பிதழை NPPயின் பொதுச் செயலாளர் டில்வின் சில்வா ஏற்றுக்கொண்டார், NPP தலைவர் அனுரகுமார திஸாநாயக்க விவாதத்திற்குத் தயாராக இருப்பதாகவும் அதில் கலந்துகொள்வார் என்றும் தெரிவித்தார்.
+🟩
 
-கொழும்பில் உள்ள எதிர்க்கட்சித் தலைவரின் அலுவலகத்தில் டெய்லி மிரர் உத்தியோகபூர்வ அழைப்பிதழை கையளித்ததுடன் பங்கேற்பதற்கான மறுமொழஜயைப் பெற குழு எதிர்பார்த்துள்ளது.
+The National People's Power (NPP) yesterday accepted the official invitation of our fraternity media, Daily Mirror and Lanka, with three major presidential candidates, as United People's Power Leader Sajith Premadasa has not yet confirmed his participation.
 
-சஜித் பிரேமதாசவுக்கு அழைப்புக் கடிதம் கிடைத்துள்ளதை எனினும் நேற்று மாலை உறுதிசெய்த பிரேமதாசவின் அலுவலகம், விவாதங்கள் தொடர்பான விவகாரங்களைக் கையாளும் பாராளுமன்ற உறுப்பினர் நளின் பண்டாரவுக்கு அதனை அனுப்பி வைத்துள்ளது.
+Dilvin Silva accepted the Daily Mirror invitation, saying that NPP leader Anura Kumara Dissanayake is ready for debate and will attend.
+
+The Daily Mirror handed over an official invitation at the Opposition Leader's office in Colombo and the committee is looking forward to the responsibility of participating.
+
+The office of Premadasa, who confirmed that Sajith Premadasa had received a letter of invitation, sent it to MP Nalin Bandara, who was dealing with debates.
 
 ...
 
 [Data](articles/3f041ca3.json)
+
+[Extended Data](ext_articles/3f041ca3.ext.json)
 
 ---
 
@@ -2135,29 +2167,5 @@ Dr. Premadasa, Dr. Premadasa, the father of Mrs. Veteran singer Samaika Mudungot
 [Data](articles/34886224.json)
 
 [Extended Data](ext_articles/34886224.ext.json)
-
----
-
-### Japan's Foreign Minister arrives in Sri Lanka on Saturday
-
-*2024-04-29 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182266) · `ta`
-
-Japan's Foreign Minister Yogo Kamikawa visited Sri Lanka from 4th to 5th, meeting President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. Discussions focused on Sri Lanka's economic recovery, Japan's debt assistance, and strengthening bilateral relations.
-
-🟩
-
-Japan's Foreign Minister Yogo Kamikawa has made a two -day official visit to Sri Lanka on the 4th of this month.
-
-He intends to stay in the country from 4 to 5 and will meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena for honor.
-
-Subsequently, a delegation led by Japanese Foreign Minister Yogo Kamikawa will engage in bilateral discussions with Foreign Minister Ali Sabri.
-
-It is expected that the assistance of Sri Lanka's economic recovery, Japan's cooperation in the debt processing process, and the further strengthening of bilateral harmony are expected.
-
-◼️
-
-[Data](articles/7556629f.json)
-
-[Extended Data](ext_articles/7556629f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 21:18:40**
+As of **2024-04-30 21:34:22**
 
 ## Newspaper Stats
 
-*Scraped **21,917** Articles*
+*Scraped **21,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,305
 dailymirrorlk | 3,420
-adaderanasinhalalk | 3,546
+adaderanasinhalalk | 3,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,914 (100.0%) of 21,917 articles have been extended.
+21,917 (100.0%) of 21,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ඉන්ධන මිල වෙනස් වෙයි
+
+*2024-04-30 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196144) · `si`
+
+අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+◼️
+
+[Data](articles/7c2764bc.json)
+
+---
 
 ### Sri Lanka, Saudi Arabia ink MoU on investment promotion
 
@@ -216,29 +228,47 @@ The Minister said this during a media briefing at the Presidential Media Centre 
 
 ---
 
-### 2022 ஆம் ஆண்டைவிட 2023 ஆண்டில் அரசுக்குச் சொந்தமான கட்டமைப்புக்களில் பெரும் முன்னேற்றம் - நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க
+### Great improvement in state-owned structures than 2022- Finance Minister Shehan Semasinghe
 
 *2024-04-30 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182361) · `ta`
 
-2022 ஆம் ஆண்டு 743 பில்லியன் ரூபா நட்டத்தைப் பதிவுசெய்திருந்த அரசுக்குச் சொந்தமான கட்டமைப்புக்கள், 2023 ஆம் ஆண்டில் 456 பில்லியன் ரூபா இலாபத்தைப் பதிவுசெய்திருப்பதாகவும், இது மிகமுக்கிய அடைவு எனவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க சுட்டிக்காட்டியுள்ளார்.
+Finance Minister Shehan Semasinghe reports a significant turnaround for state-owned structures, transitioning from a 743 billion rupee loss in 2022 to a 456 billion rupee profit in 2023. This success is attributed to partnerships with domestic and foreign private companies, aimed at economic recovery. The sale of state-owned assets to the private sector is seen as a means to enhance private sector contribution, allowing the government to focus on public service investments. This strategy is expected to foster a more efficient, competitive, and sustainable economy in Sri Lanka.
 
-பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுக்கும் நோக்கில் அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுவரும் மறுசீரமைப்புக்களின் ஓரங்கமாக நட்டத்தில் இயங்கிவரும் அரசுக்குச் சொந்தமான கட்டமைப்புக்கள் முழுமையாக அல்லது அவற்றின் குறிப்பிடத்தக்களவான பங்குகள் உள்நாட்டு மற்றும் வெளிநாட்டு தனியார் நிறுவனங்களுக்கு வழங்கப்பட்டுவருகின்றன.
+🟩
+
+Finance Minister Shehan Semasinghe has pointed out that the state -owned structures, which have registered a loss of 743 billion rupees in 2022, have registered a profit of 456 billion rupees by 2023.
+
+State -owned structures, which are inherent in the reorganization of the government, have been provided with domestic and foreign private companies, which are aimed at restoring the country from the economic crisis.
+
+As a result, Minister Shehan Semasinghe, who pointed out that the state -owned structures were working on 456 billion rupees last year, said that the continued process of selling some state -owned selective structures or their shares to the private sector was to expand the contribution of the private sector.
 
 ...
 
 [Data](articles/e01a7b33.json)
 
+[Extended Data](ext_articles/e01a7b33.ext.json)
+
 ---
 
-### உடலியல் ரீதியான தண்டனைகளைத் தடைசெய்வதற்குரிய அமைச்சரவைத் தீர்மானம் : ஐ.நா, யுனிசெப் என்பன வரவேற்பு
+### Cabinet Resolution to Prohibit Physical Punishments: UN and UNICEF welcome
 
 *2024-04-30 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182360) · `ta`
 
-சகல விதங்களிலுமான உடலியல் ரீதியான தண்டனைகளைத் தடைசெய்வதற்கு அமைச்சரவையினால் மேற்கொள்ளப்பட்டுள்ள தீர்மானம் சிறுவர் உரிமைகள் பாதுகாப்பை முன்னிறுத்திய மிகமுக்கிய நடவடிக்கையாக அமையும் என பாராட்டு வெளியிட்டுள்ள ஐக்கிய நாடுகள் சபை மற்றும் யுனிசெப் அமைப்பின் இலங்கை கிளை அலுவலகங்கள், இத்தீர்மானத்தை வெகுவிரைவில் நடைமுறைப்படுத்துவதற்குரிய நடவடிக்கைகளை ஜனாதிபதி முன்னெடுப்பார் என எதிர்பார்ப்பதாகத் தெரிவித்துள்ளன.
+The UN and UNICEF applaud Sri Lanka's Cabinet's resolution to ban physical punishments, a crucial step in protecting child rights. The amendment, led by Dr. Dush Vikramanayake, is expected to be submitted promptly. President Ranil Wickremesinghe emphasized the importance of this move, aiming to ensure children are free from physical and psychological violence.
+
+🟩
+
+The United Nations and UNICEF's Sri Lanka Branch Offices, which have praised the resolution of the Cabinet to prohibit the physiological punishment of all ways, will be the most important measure of child rights protection, and expect the President to take steps to implement the resolution quickly.
+
+Tuesday (30) is the International Day to end the physiological punishment. In the wake of this, the Cabinet of Ceylon, which is under the leadership of Dr. Dush Vikramanayaka, is aimed at submitting the amendment to the Cabinet without delay in the presence of the Cabinet. The Confederation of Security(Noguti 2.0-Sinhala, which gives the meaning of 'no foot' in Tamil, from April 1 to Tuesday (30) to 30 days.Patched.
+
+President Ranil Wickremesinghe, who was promoted to his official X site at 11.00 pm on Tuesday (30), on Tuesday (30). .
 
 ...
 
 [Data](articles/21af0a81.json)
+
+[Extended Data](ext_articles/21af0a81.ext.json)
 
 ---
 
@@ -944,21 +974,29 @@ At that time the exit was hit in a high place in a building near the exit.
 
 ---
 
-### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் விசாரணை : கத்தோலிக்க சபைக்கு மாத்திரமல்ல நாட்டு மக்களுக்கும் நம்பிக்கையில்லை - டிலான் பெரேரா
+### Livelihood Sunday Bombing
 
 *2024-04-30 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182330) · `ta`
 
-உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் சம்பவம் தொடர்பில் முன்வைத்த கேள்விகளுக்கு அரசாங்கம் முறையாக பதிலளிக்கவில்லை. விசாரணைகள் தொடர்பில் கத்தோலிக்க சபைக்கு மட்டுமல்ல நாட்டு மக்களுக்கும் நம்பிக்கையில்லை என பாராளுமன்ற உறுப்பினர் டிலான் பெரேரா தெரிவித்தார்.
+The government has not responded to questions about the Sunday bomb blasts. Parliamentarian Dylan Perera and others have criticized the government's handling of the issue. Gotabhaya Rajapakse, who contested the 2029 Presidential election, promised to investigate the bombings and provide justice, but his government has failed to fulfill this promise. The Catholic Church has questioned the government's actions, highlighting the use of bombings for political purposes in the 2019 and 2020 elections.
 
-உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல்கள் தொடர்பில் கடந்த வாரம் பாராளுமன்றத்தில் இடம்பெற்ற மூன்று நாள் சபை ஒத்திவைப்பு விவாதத்தின் போது எழுப்பப்பட்ட கேள்விகளுக்கு அரசாங்கம் முறையாக பதிலளிக்கவில்லை.குண்டுத்தாக்குதலில் உயிரிழந்தவர்களின் மொத்த எண்ணிக்கை தொடர்பில் பாரிய சந்தேகம் காணப்படுகிறது.
+🟩
 
-நீதியரசர் விஜித் மலல்கொட தலைமையிலான ஜனாதிபதி விசாரணை ஆணைக்குழு அறிக்கையில் குண்டுத்தாக்குதல்களில் உயிரிழந்தவர்களின் ஒரு விதமாகவும்,பாராளுமன்ற தெரிவுக்குழுவில் பிறிதொரு எண்ணிக்கை குறிப்பிடப்பட்டுள்ளது.
+The government did not formally respond to questions posed in connection with the lifeblood Sunday bomb blast. Parliamentarian Dylan Perera said that the Catholic Council is not only confident but also the people of the country.
 
-பேராயர் கர்தினால் மெல்கம்  ரஞ்சித் ஆண்டகை தொடர்பில் ஆளும் தரப்பினர் முறையற்ற கருத்துக்களை குறிப்பிடுகிறார்கள்.
+The government did not formally respond to questions raised during the three -day adjournment debate in Parliament last week on the Sunday bomb blasts.
+
+Another number in the Parliamentary Select Committee has been referred to as a man who died in bombings in the Presidential Commission of Inquiry headed by Justice Vijith Malkoda.
+
+Archbishop Cardinal Malcolm Ranjit is referring to improper views on the ruling parties.
+
+Gotabhaya Rajapakse, who contested the Presidential election in 2029, promised to the Catholic Church to make the truth of the resurrection Sunday bomb blast and provide justice to the victims.. Similarly, the PA made the same promise in the 2020 general election.
 
 ...
 
 [Data](articles/3e3c5c82.json)
+
+[Extended Data](ext_articles/3e3c5c82.ext.json)
 
 ---
 
@@ -2235,21 +2273,5 @@ The police and health officials advised the police and health officials to promp
 [Data](articles/07b5a8ab.json)
 
 [Extended Data](ext_articles/07b5a8ab.ext.json)
-
----
-
-### Patali arrives at CID
-
-*2024-04-30 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patali-arrives-at-CID/108-281644) · `en`
-
-Colombo, April 30 (Daily Mirror) - The leader of the Eksath Janaraja Peramuna and MP Patali Champika Ranawaka, arrived at the Criminal Investigation Department (CID) to provide a statement.
-
-Earlier, the CID had informed Ranawaka to report to their office today to record a statement regarding comments he made in Ratnapura.
-
-◼️
-
-[Data](articles/b53bb239.json)
-
-[Extended Data](ext_articles/b53bb239.ext.json)
 
 ---

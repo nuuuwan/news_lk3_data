@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 14:53:13**
+As of **2024-04-30 15:03:44**
 
 ## Newspaper Stats
 
-*Scraped **21,842** Articles*
+*Scraped **21,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,101 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,831
-tamilmirrorlk | 2,537
+tamilmirrorlk | 2,538
 adaderanalk | 2,587
-virakesarilk | 3,287
-dailymirrorlk | 3,404
+virakesarilk | 3,289
+dailymirrorlk | 3,405
 adaderanasinhalalk | 3,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,833 (100.0%) of 21,842 articles have been extended.
+21,842 (100.0%) of 21,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ප්‍රසන්නගේ අභියාචනා පෙත්සමේ විභාගය කල්තැබේ
+### Archer named in England’s T20 World Cup squad
 
-*2024-04-30 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196135) · `si`
+*2024-04-30 14:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Archer-named-in-Englands-T20-World-Cup-squad/108-281656) · `en`
 
-අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉදිරිපත් කර ඇති අභියාචනා පෙත්සමක විභාගය මැයි මස 22 වනදා දක්වා කල්තැබීමට අභියාචනාධිකරණය අද (30) නියම කළේය.
+Apr. 30 (BBC) - Jofra Archer has been recalled to the England squad for their defence of the T20 World Cup in the Caribbean and United States in June.
 
-කොලොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩකිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටුකරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකුගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළේ යැයි චෝදනා එල්ලවූ රණතුංග මහතා ඉන් අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටියි.
+Fast bowler Archer, 29, will make his latest comeback from a long-standing elbow injury that has prevented him from playing for England since March 2023.
 
-මෙම අභියාචනා පෙත්සම විභාගකරන පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු පී. කුමාරන් රත්නම් මහතා අද දින නඩු විභාගයට සහභාගි නොවීම හේතුවෙන් මෙම පෙත්සම් විභාගය කල්තැබීමට නියම කෙරුණි.
+Fellow fast bowler Chris Jordan also earns a recall, but there is no place for Chris Woakes, a World Cup winner in both limited-overs formats.
 
-අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා ප්‍රමුඛ පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලන් ඉදිරියේ මෙම පෙත්සම විභාගයට නියම කර තිබේ.
+Uncapped left-arm spinner Tom Hartley is included in a 15-man provisional squad, captained by Jos Buttler.
 
-...
+England T20 World Cup squad: Jos Buttler (capt, wk), Moeen Ali, Jofra Archer, Jonny Bairstow, Harry Brook, Sam Curran, Ben Duckett, Tom Hartley, Will Jacks, Chris Jordan, Liam Livingstone, Adil Rashid, Phil Salt, Reece Topley, Mark Wood.
 
-[Data](articles/59161744.json)
+◼️
+
+[Data](articles/5b2bc468.json)
 
 ---
 
-### නැගෙනහිර ලන්ඩනයේ හදිසි තත්ත්වයක්
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-04-30 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182328) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 30) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.4489  ஆகவும் விற்பனை விலை ரூபா 302.7600 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/593ccf28.json)
+
+---
+
+### Prasanna's appeal petition petition post
+
+*2024-04-30 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196135) · `si`
+
+Prasanna Ranatunga's appeal petition postponed due to Kumaran Ratnam's absence. Sentenced to Rs. and fined Rs. 25 million. Colombo High Court contradicts law, acquitting Ranatunga.
+
+🟩
+
+The Court of Appeal (30) prescribed the appearance of an appeal petition filed by Minister Prasanna Ranatunga.
+
+Ranatunga has been sentenced to a reconciliation of Rs.
+
+Member Member Judge P. Bench Member Justice. The petition hearing was postponed due to Kumaran Ratnam's not participating in the trial today.
+
+Court of Appeal Judge D. N. The petition is prescribed before the aftermath of the five judges of the five judicial judiciary, Samarakoon.
+
+Minister Prasanna Ranatunga was sentenced to a sum of Rs.Determined to suspend.
+
+In addition, the court was fined Rs. 25 million.
+
+The Colombo High Court has contradicted the law and that the Prasanna Ranatunga, Minister Prasanna Ranatunga, appearing on the charges to acquit himself and releases them.
+
+◼️
+
+[Data](articles/59161744.json)
+
+[Extended Data](ext_articles/59161744.ext.json)
+
+---
+
+### Eastern London
 
 *2024-04-30 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196134) · `si`
 
-කඩුවකින් සිදුකළ පහරදීමක් හේතුවෙන් නැගෙනහිර ලන්ඩනයේ කිහිපදෙනෙක් තුවාල ලබා ඇති බව බී බී සී පුවත් සේවය වාර්තා කරයි.
+In East London, a sword assault injured four people, with one suspect arrested.
 
-ඉන් සිව් දෙනෙක් තුවාල ලබා ඇති බවත් එක් සැකකරුවෙක් අත්අඩංගුවට ගෙන ඇති බවත් සඳහන් ය.
+🟩
+
+The BBC reports that several people in East London were injured due to an assault caused by a sword.
+
+Four of them were injured and one suspect has been arrested.
 
 ◼️
 
 [Data](articles/17ce3767.json)
+
+[Extended Data](ext_articles/17ce3767.ext.json)
 
 ---
 
@@ -78,13 +128,15 @@ A Supreme Court decision relevant to a fundamental rights petition filed by a st
 
 [Data](articles/2a548107.json)
 
+[Extended Data](ext_articles/2a548107.ext.json)
+
 ---
 
 ### South Africa announce T20 World Cup 2024 squad
 
 *2024-04-30 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Africa-announce-T20-World-Cup-2024-squad/108-281653) · `en`
 
-(ICC) - South Africa named their 15-man squad for the ICC Men's T20 World Cup 2024 on Tuesday, 30 April.
+Apr. 30 (ICC) - South Africa named their 15-man squad for the ICC Men's T20 World Cup 2024 on Tuesday, 30 April.
 
 Aiden Markram will lead South Africa's charge for the first time in an ICC event after being named the T20I skipper as the Proteas have named their squad for the ICC Men's T20 World Cup 2024 in the USA and West Indies.
 
@@ -94,33 +146,69 @@ Among the notable inclusions are Anrich Nortje and Quinton de Kock, who were rec
 
 [Data](articles/e5d984fb.json)
 
+[Extended Data](ext_articles/e5d984fb.ext.json)
+
 ---
 
-### மூடப்படும் ஆனால் மூடப்படாது
+### Will be closed but not closed
 
 *2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
 
-உலக தொழிலாளர் தினமான மே (01)  மதுபானசாலைகள் சில மூடப்படவுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+The Excise Department has announced that liquor stores in Divisional Secretariat Divisions will close on World Labor Day, May 1st, but those elsewhere will remain open.
 
-மே தின பேரணிகள் இடம்பெறும் பிரதேச செயலகப் பிரிவுகளில் இயங்கும் அனைத்து உரிமம் பெற்ற சில்லறை மதுபான விற்பனை நிலையங்களும் மூடப்படும். ஏனைய இடங்களில் இயங்கும் மதுபானசாலைகள் மூடப்படாது. வழமை போலவே திறந்திருக்கும்.
+🟩
+
+The Excise Department has announced that some of the liquor stores will be closed, the World Labor Day, May 01.
+
+All licensed retail liquor stalls will be closed in the Divisional Secretariat Divisions where May Day rallies are held.. The liquor stores running elsewhere will not be closed. Are open as usual.
 
 ◼️
 
 [Data](articles/a01bc13f.json)
 
+[Extended Data](ext_articles/a01bc13f.ext.json)
+
 ---
 
-### රතුපස්වල නඩුවේ තීන්දුව අද
+### Rathupaswala case verdict today
 
 *2024-04-30 14:15:07* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-අද/11-409346) · `si`
 
-පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි  තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල  කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර් වරයකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රි පුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල  හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද 30 ප්‍රකාශයට පත් කෙරෙනි.
+Trincomalee High Court today ruled in the Rathupaswala case, convicting three army soldiers for injuring 35 people and killing three more in 2011.
 
-මීට වසර 11කට පෙර රතුපස්වල ප්‍රදේශයේදී පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් නීතීපතිවරයා විසින් පවරා ඇති නඩුව දීර්ඝ වශයෙන් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කිරීම සඳහා මෙලෙස දින නියම කර ඇත.
+🟩
+
+The verdict was assigned to the Trincomalee High Court Judge and three army soldiers was accused of injuring 35 persons and three army soldiers who were shot dead in Rathupaswala who was demanding clean water.
+
+Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years ago, the case was executed and the case was executed.
 
 ◼️
 
 [Data](articles/761ecd8f.json)
+
+[Extended Data](ext_articles/761ecd8f.ext.json)
+
+---
+
+### ரோபோ தொழில்நுட்ப  திறன்களை வெளிப்படுத்திய இலங்கை மாணவர்களுக்கு பிளாட்டினம் மற்றும் தங்க விருதுகள்
+
+*2024-04-30 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182319) · `ta`
+
+தாய்லாந்தில் இடம்பெற்ற “2024 சர்வதேச படைப்பாற்றல் மற்றும் புதுமை விருதுகள்” என்ற ரோபோ தொழில்நுட்ப போட்டியில் பங்குபற்றிய 6 மாணவர்கள் நேற்று திங்கட்கிழமை (29) கட்டுநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்தனர்.
+
+இவர்கள்  ஞாயிற்றுக்கிழமை (28) நடைபெற்ற இறுதிப்போட்டியில் 25 நாடுகளுடன் போட்டியிட்டு  ரோபோ தொழில்நுட்ப  துறையில் அசாதாரணமான திறன்களை வெளிப்படுத்தி டைட்டானியம் விருதை (இரண்டாவது மிக உயர்ந்த) வென்றனர்.
+
+சர்வதேச போட்டியில் நான்கு கண்டங்களைச் சேர்ந்த 441 அணிகளை பிரதிநிதித்துவப்படுத்தி 1,000 மாணவர்கள் கலந்து கொண்டனர்.
+
+இப்போட்டியில் மூன்று மாணவர்கள், காட்டுத்தீயைக் கண்டறிந்து இடத்தை உடனடியாகத் தெரிவிக்கும் தீ விபத்து எச்சரிக்கை இயந்திரத்தை தயாரித்து பிளாட்டினம் விருதை வென்றுள்ளனர்.
+
+மேலும், மூன்று மாவணவர்கள் கம்போடியாவில் உள்ள பாராகான் சர்வதேச பல்கலைக்கழகத்தில் 100 சதவீதம் இலவசமாக கல்வி கற்கும் வாய்ப்பை பெற்றுள்ளனர்.
+
+அத்தோடு, மூன்று மாணவர்கள் கடலுக்குச் சென்று அங்கிருந்த கழிவுகளை அடையாளம் காணும் இயந்திரத்தை (ஓஷன் ஸ்வீப்பர்)  தயாரித்து தங்க விருதை வென்றுள்ளனர்.
+
+...
+
+[Data](articles/8a4ee972.json)
 
 ---
 
@@ -166,6 +254,24 @@ Aidn Makram (Leader), Otinelle Bartman, Ginrik Kuc, Bjourns, Andreick Kuzon, Rya
 
 ---
 
+### மே தினக்கு, இந்திய பாடகர்கள் வந்தனர்
+
+*2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தினக்கு-இந்திய-பாடகர்கள்-வந்தனர்/175-336553) · `ta`
+
+அரசாங்கத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள தேசிய மே தின  கூட்டத்துடன் இணைந்து ஏற்பாடு  செய்யப்பட்ட   இசை நிகழ்ச்சியில் பாடுவதற்காக இந்தியாவிலிருந்து பாடகர்கள் குழுவொன்று செவ்வாய்க்கிழமை  (30) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தது.
+
+விஜய் பாலகிருஷ்ணன், ரம்யா நாகர்கோவில், டேனியல் ஜெயராம், ரேஷ்மா சுந்தரம் ஆகிய பாடகர்களே  இவ்வாறு  வருகை தந்துள்ளனர்.
+
+இந்த இசை நிகழ்ச்சி  மாளிகாவத்தை,  பி.டி .சிரிசேன விளையாட்டு மைதானத்தில் மே 01 ஆம்  திகதி  நடைபெறவுள்ளது .
+
+மேலும் , இந்திய இசைக்கலைஞர்களான சத்ய பிரகாஷ் தர்மர் மற்றும் நூராணி வஷர் ஆகியோரும்  இந்த  இசை நிகழ்ச்சியில் கலந்துக்கொள்வதற்காக இலங்கைக்கு வர உள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7ef571e2.json)
+
+---
+
 ### For May Day rally, singers from India
 
 *2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தின-பேரணிக்கு-இந்தியாவிலிருந்து-பாடகர்கள்/175-336553) · `ta`
@@ -190,17 +296,23 @@ In addition, Indian musicians Satya Prakash Dharmar and Nurani Vashar are also r
 
 ---
 
-### මහින්දානන්ද  නිදොස්කොට නිදහස්
+### Mahindansanda acquisition
 
 *2024-04-30 13:59:45* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද--නිදොස්කොට-නිදහස්/11-409345) · `si`
 
-අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතා නිදොස් කොට නිදහස් කරන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා නියෝග කර කළේය.
+Mahindananda Marasinghe, Colombo High Minister, orders the acquittal of Mahindananda Aluthgamage, former Minister, for a luxury house involved in money laundering.
 
-මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+🟩
+
+Colombo High Minister Mahindananda Marasinghe has ordered the acquitting house of former Minister Mahindananda Aluthgamage to acquit a luxury house of the Money Laundering.
+
+The case was filed against the Attorney General Mahindananda Aluthgamage, the Attorney General of the Government of the Government of the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/2c1840d7.json)
+
+[Extended Data](ext_articles/2c1840d7.ext.json)
 
 ---
 
@@ -221,6 +333,8 @@ Meanwhile, Bandara expressed his uncertainty on the participation of SJB Chairma
 ◼️
 
 [Data](articles/6127f466.json)
+
+[Extended Data](ext_articles/6127f466.ext.json)
 
 ---
 
@@ -560,21 +674,27 @@ A 49-year-old father of Jason Gyneanganankulam is also deceased and killed by li
 
 ---
 
-### ප්‍රභූ පර්යන්තයේ සේවය කළ නායක ගුවන් භටයාගේ රාජකාරි ගිනි අවිය වැරදිමකින් පත්තුවෙයි
+### Leader of the leader of the VIP terminal mistaken fails
 
 *2024-04-30 12:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-පර්යන්තයේ-සේවය-කළ-නායක-ගුවන්-භටයාගේ-රාජකාරි-ගිනි-අවිය-වැරදිමකින්-පත්තුවෙයි/11-409342) · `si`
 
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ ප්‍රභූ පර්යන්තය තුළ රාජකාරියේ නිරත වී සිටි ශ්‍රී ලංකා ගුවන් හමුදාවේ නායක ගුවන් භටයෙකු සතු ගිනි අවිය 04/30 දින උදෑසන පත්තු වීමෙන් එම පර්යන්තයේ වහළයට හානි සිදු වී තිබේ .
+The Sri Lanka Air Force's (SLAF) VIP terminal leader's firearm was mistakenly damaged by an elite VIP. The incident occurred at the Katunayake airport, involving a 56 rifle firearm. The Airman leader has been arrested by the SLAF and Katunayake Airport Police for further investigation.
 
-04/30 දින උදෑසන 10.25 ට පමණ ශ්‍රී ලංකා ගුවන් හමුවේ නායක ගුවන් භටයා සතුව තිබූ ටී.- 56 වර්ගයේ ගිනි අවිය එසේ වැරදීමකින් පත්තු වී තිබූ අතර කිසිදු ජීවිත හානියක් එයින් සිදු වී නොමැති බව ද වාර්තා වේ.
+🟩
 
-කටුනායක ගුවන් තොටුපොළ තුළ විශේෂ ප්‍රභූ  අමුත්තන් සහ මුදල් ගෙවා මෙම පහසුකම් ගුවන් තොටුපොළෙන් ලබා ගන්නා ලෝකයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයන් මෙම පර්යන්තය හරහා නිරත නිතර ගමන් ගැනීම සිදු කරති .
+The firearm of the Sri Lanka Air Force leader of the Sri Lanka Air Force (SLAF) has been damaged by the Sri Lanka Air Force (SLAF)'s VIP's VIP's VIP's VIP's elite.
 
-මේ වනවිට මෙම නායක ගුවන් භටයා ශ්‍රී ලංකා ගුවන් හමුදාව විසින් අත් අඩංගුවට ගෙන ඇති අතර  කටුනායක ගුවන් තොටුපොළ පොලිසිය හා ශ්‍රී ලංකා ගුවන් හමුදාව  එක්ව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
+According to the Sri Lankan Air Force, the captain of the Sri Lanka Air Force on 04/30 am, the 56 rifle firearm was mistaken.
+
+The world's leading businesses are frequently engaged through the world's leading businessmen from the area with special elite visitors and money at the Katunayake airport.
+
+The leader of the Airman has already been arrested by the SLAF and the Katunayake Airport Police and the Sri Lanka Air Force are conducting further investigations.
 
 ◼️
 
 [Data](articles/ce33ca74.json)
+
+[Extended Data](ext_articles/ce33ca74.ext.json)
 
 ---
 
@@ -2179,79 +2299,5 @@ Executive Director PAFFREL Rohana Hettiarachchi made these remarks while address
 [Data](articles/5aac4dbc.json)
 
 [Extended Data](ext_articles/5aac4dbc.ext.json)
-
----
-
-### Kabir urges Gota to withdraw allegations of conspiracy by minorities
-
-*2024-04-30 00:36:19* · [`dailyftlk`](https://www.ft.lk/news/Kabir-urges-Gota-to-withdraw-allegations-of-conspiracy-by-minorities/56-761193) · `en`
-
-Emphasises historical loyalty of Muslims in Sri Lanka to country’s rulers
-
-Warns that Gota’s claims could distort historical facts and create false impressions for future generations
-
-Asserts that Gota’s claim of minority groups including Muslims of conspiring against him are baseless
-
-Samagi Jana Balawegaya (SJB) MP Kabir Hashim in Parliament last week called on former President Gotabaya Rajapaksa to withdraw the allegation made in his book “The Conspiracy”, where he accused minority groups in the country, including Muslims, Tamils, and Catholics, of plotting to force him out of office.
-
-Hashim said Rajapaksa must foremostly study history. He said Muslims in Sri Lanka have never betrayed Sinhala Buddhist Kings or rulers of the past and have always worked to protect them.
-
-...
-
-[Data](articles/b844f715.json)
-
-[Extended Data](ext_articles/b844f715.ext.json)
-
----
-
-### BASL declines SJB invite to coordinate SJB – NPP debate
-
-*2024-04-30 00:35:34* · [`dailyftlk`](https://www.ft.lk/news/BASL-declines-SJB-invite-to-coordinate-SJB-NPP-debate/56-761192) · `en`
-
-The Sri Lanka Bar Association of Sri Lanka (BASL) has unanimously decided to decline the invitation extended by the Samagi Jana Balawegaya (SJB) to serve as a mediator and coordinator in the planned debate between SJB leader Sajith Premadasa and National People’s Power (NPP) leader Anura Kumara Dissanayake.
-
-According to reports the decision to decline the invitation was made during a general meeting of the association held recently.  On 26 April, in a letter to the Bar Association of Sri Lanka (BASL) SJB MP Nalin Bandara invited it to act as an independent party to coordinate two planned debates between the rival parties.
-
-BASL President Kaushalya Nawaratne PC had accepted the letter and informed Bandara that a decision would be reached after presenting it for consideration at a BASL general meeting.
-
-...
-
-[Data](articles/f08987e1.json)
-
-[Extended Data](ext_articles/f08987e1.ext.json)
-
----
-
-### State Minister for Defence urges immediate action on potential landslide threat near Ella-Wellawaya road
-
-*2024-04-30 00:35:24* · [`dailyftlk`](https://www.ft.lk/news/State-Minister-for-Defence-urges-immediate-action-on-potential-landslide-threat-near-Ella-Wellawaya-road/56-761191) · `en`
-
-State Minister for Defence Pramitha Bandara Thennakoon has directed the attention to a pre-symptom condition of a potential landslide near the Ella-Wellawaya road in the Karandagolla area of the Badulla district.
-
-The move was in response to recent indications of landslip susceptibility in Malittagolla, a sloping region of around two acres in the Ella area of Karandagolla. Concerns have been expressed by the community residing in the area, who blames the condition on possible effects from the Uma Oya project. Urging immediate action, he has instructed the National Building Research Organisation (NBRO) and Disaster Management authorities to inspect the site and provide a comprehensive report.
-
-...
-
-[Data](articles/4dd4b468.json)
-
-[Extended Data](ext_articles/4dd4b468.ext.json)
-
----
-
-### Samson Rubber Products celebrates 30-year anniversary
-
-*2024-04-30 00:31:01* · [`dailyftlk`](https://www.ft.lk/business/Samson-Rubber-Products-celebrates-30-year-anniversary/34-761190) · `en`
-
-As part of the 30th anniversary celebrations this April, Samson Rubber Products Ltd., (SRP)  has organised a grand series of events.
-
-On 27 April, SRP hosted a traditional Pirith chanting ceremony and a special event to honour its long-standing employees, reflecting SRP’s deep rooted cultural values and commitment to its workforce. The evening will conclude with a spectacular fireworks display, lighting up the skies of Galle in celebration of three decades of success.
-
-Since the inception in 1994, the entrepreneurial spirit of Samson Rubber Products Ltd. Founder Ranatunga Rajapaksa and present Managing Director Sajith Rajapaksa embodies the sustainable journey of SRP through investing in cutting-edge technology, green lean manufacturing, continuous improvement, integrated supply chain solutions, R&D innovations, world class management best practices.
-
-...
-
-[Data](articles/ceb3948d.json)
-
-[Extended Data](ext_articles/ceb3948d.ext.json)
 
 ---

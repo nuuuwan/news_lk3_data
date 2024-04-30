@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 14:34:10**
+As of **2024-04-30 14:53:13**
 
 ## Newspaper Stats
 
-*Scraped **21,833** Articles*
+*Scraped **21,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,114 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
-adalk | 1,828
-tamilmirrorlk | 2,536
+adalk | 1,831
+tamilmirrorlk | 2,537
 adaderanalk | 2,587
 virakesarilk | 3,287
-dailymirrorlk | 3,401
-adaderanasinhalalk | 3,536
+dailymirrorlk | 3,404
+adaderanasinhalalk | 3,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,832 (100.0%) of 21,833 articles have been extended.
+21,833 (100.0%) of 21,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ප්‍රසන්නගේ අභියාචනා පෙත්සමේ විභාගය කල්තැබේ
+
+*2024-04-30 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196135) · `si`
+
+අමාත්‍ය ප්‍රසන්න රණතුංග මහතා ඉදිරිපත් කර ඇති අභියාචනා පෙත්සමක විභාගය මැයි මස 22 වනදා දක්වා කල්තැබීමට අභියාචනාධිකරණය අද (30) නියම කළේය.
+
+කොලොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩකිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටුකරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකුගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළේ යැයි චෝදනා එල්ලවූ රණතුංග මහතා ඉන් අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටියි.
+
+මෙම අභියාචනා පෙත්සම විභාගකරන පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු පී. කුමාරන් රත්නම් මහතා අද දින නඩු විභාගයට සහභාගි නොවීම හේතුවෙන් මෙම පෙත්සම් විභාගය කල්තැබීමට නියම කෙරුණි.
+
+අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා ප්‍රමුඛ පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලන් ඉදිරියේ මෙම පෙත්සම විභාගයට නියම කර තිබේ.
+
+...
+
+[Data](articles/59161744.json)
+
+---
+
+### නැගෙනහිර ලන්ඩනයේ හදිසි තත්ත්වයක්
+
+*2024-04-30 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196134) · `si`
+
+කඩුවකින් සිදුකළ පහරදීමක් හේතුවෙන් නැගෙනහිර ලන්ඩනයේ කිහිපදෙනෙක් තුවාල ලබා ඇති බව බී බී සී පුවත් සේවය වාර්තා කරයි.
+
+ඉන් සිව් දෙනෙක් තුවාල ලබා ඇති බවත් එක් සැකකරුවෙක් අත්අඩංගුවට ගෙන ඇති බවත් සඳහන් ය.
+
+◼️
+
+[Data](articles/17ce3767.json)
+
+---
+
+### Government aapproves amendment to ban physical punishment
+
+*2024-04-30 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-aapproves-amendment-to-ban-physical-punishment/108-281655) · `en`
+
+Colombo, April 30 (Daily Mirror) - The government today approved the amendment to the Penal Code and the Criminal Procedure Code for the banning of all corporal or physical punishments in all sectors.
+
+A recent study conducted in relation to the Sri Lankan context by the United Nations' Committee on Child Rights revealed that a large number of children are prone to physical punishments, abuses and violence due to the lack of legal provisions prevailing at home, within remedial protection backgrounds, within institutions for penalty order implementation, and in schools.
+
+A Supreme Court decision relevant to a fundamental rights petition filed by a student who experienced hearing discrepancies following an assault by a teacher has held the relevant teacher and the government responsible for violating the 11th statute of the Constitution.
+
+...
+
+[Data](articles/2a548107.json)
+
+---
+
+### South Africa announce T20 World Cup 2024 squad
+
+*2024-04-30 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Africa-announce-T20-World-Cup-2024-squad/108-281653) · `en`
+
+(ICC) - South Africa named their 15-man squad for the ICC Men's T20 World Cup 2024 on Tuesday, 30 April.
+
+Aiden Markram will lead South Africa's charge for the first time in an ICC event after being named the T20I skipper as the Proteas have named their squad for the ICC Men's T20 World Cup 2024 in the USA and West Indies.
+
+Among the notable inclusions are Anrich Nortje and Quinton de Kock, who were recently excluded from Cricket South Africa's central contract list. Nortje has been sidelined from international action since September 2023 due to a back injury, while De Kock announced his retirement from ODIs after the 2023 Cricket World Cup, having already bid farewell to Test cricket in 2022.
+
+...
+
+[Data](articles/e5d984fb.json)
+
+---
+
+### மூடப்படும் ஆனால் மூடப்படாது
+
+*2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
+
+உலக தொழிலாளர் தினமான மே (01)  மதுபானசாலைகள் சில மூடப்படவுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+
+மே தின பேரணிகள் இடம்பெறும் பிரதேச செயலகப் பிரிவுகளில் இயங்கும் அனைத்து உரிமம் பெற்ற சில்லறை மதுபான விற்பனை நிலையங்களும் மூடப்படும். ஏனைய இடங்களில் இயங்கும் மதுபானசாலைகள் மூடப்படாது. வழமை போலவே திறந்திருக்கும்.
+
+◼️
+
+[Data](articles/a01bc13f.json)
+
+---
+
+### රතුපස්වල නඩුවේ තීන්දුව අද
+
+*2024-04-30 14:15:07* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-අද/11-409346) · `si`
+
+පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි  තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල  කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර් වරයකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව විශේෂ ත්‍රි පුද්ගල මහාධිකරණ විනිසුරු මඩුල්ල  හමුවේ පවරා ඇති නඩුවේ තීන්දුව අද 30 ප්‍රකාශයට පත් කෙරෙනි.
+
+මීට වසර 11කට පෙර රතුපස්වල ප්‍රදේශයේදී පිරිසිදු ජලය ඉල්ලා උද්ඝොෂණය කළ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කොට තවත් 45 දෙනෙකුට තුවාල කිරීම සම්බන්ධයෙන් නීතීපතිවරයා විසින් පවරා ඇති නඩුව දීර්ඝ වශයෙන් විභාග කිරීමෙන් අනතුරුව එහි තීන්දුව ප්‍රකාශයට පත් කිරීම සඳහා මෙලෙස දින නියම කර ඇත.
+
+◼️
+
+[Data](articles/761ecd8f.json)
+
+---
 
 ### Sri Lanka to designate 40 more destinations as tourist zones
 
@@ -47,6 +139,8 @@ Speaking further, she announced that plans are underway to establish a dedicated
 ...
 
 [Data](articles/36e8f9ff.json)
+
+[Extended Data](ext_articles/36e8f9ff.ext.json)
 
 ---
 
@@ -93,6 +187,40 @@ In addition, Indian musicians Satya Prakash Dharmar and Nurani Vashar are also r
 [Data](articles/b0cd5c14.json)
 
 [Extended Data](ext_articles/b0cd5c14.ext.json)
+
+---
+
+### මහින්දානන්ද  නිදොස්කොට නිදහස්
+
+*2024-04-30 13:59:45* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද--නිදොස්කොට-නිදහස්/11-409345) · `si`
+
+අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතා නිදොස් කොට නිදහස් කරන ලෙස කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා නියෝග කර කළේය.
+
+මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+
+◼️
+
+[Data](articles/2c1840d7.json)
+
+---
+
+### SJB General Secretary slams dissident
+
+*2024-04-30 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-General-Secretary-slams-dissident/108-281654) · `en`
+
+Colombo, April 30 (Daily Mirror) - Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara today hit out at the party's Organizer Gamini Vijith Vijithamuni Soysa who has been critical of the party leadership lately.
+
+Former MP Soysa was reported to have complained that he has been sidelined by the SJB leadership.
+
+“Soysa was given the Katana organider’s post but he has proven to be a failure. He has been a failure in Moneragala as well,” he added.
+
+Meanwhile, Bandara expressed his uncertainty on the participation of SJB Chairman Sarath Fonseka at its May Day rally tomorrow.
+
+“Field Marshal Fonseka might participate in our rally and the procession. However, don’t talk about him now,” he told journalists.
+
+◼️
+
+[Data](articles/6127f466.json)
 
 ---
 
@@ -429,6 +557,24 @@ A 49-year-old father of Jason Gyneanganankulam is also deceased and killed by li
 [Data](articles/2c4e332c.json)
 
 [Extended Data](ext_articles/2c4e332c.ext.json)
+
+---
+
+### ප්‍රභූ පර්යන්තයේ සේවය කළ නායක ගුවන් භටයාගේ රාජකාරි ගිනි අවිය වැරදිමකින් පත්තුවෙයි
+
+*2024-04-30 12:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-පර්යන්තයේ-සේවය-කළ-නායක-ගුවන්-භටයාගේ-රාජකාරි-ගිනි-අවිය-වැරදිමකින්-පත්තුවෙයි/11-409342) · `si`
+
+කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ ප්‍රභූ පර්යන්තය තුළ රාජකාරියේ නිරත වී සිටි ශ්‍රී ලංකා ගුවන් හමුදාවේ නායක ගුවන් භටයෙකු සතු ගිනි අවිය 04/30 දින උදෑසන පත්තු වීමෙන් එම පර්යන්තයේ වහළයට හානි සිදු වී තිබේ .
+
+04/30 දින උදෑසන 10.25 ට පමණ ශ්‍රී ලංකා ගුවන් හමුවේ නායක ගුවන් භටයා සතුව තිබූ ටී.- 56 වර්ගයේ ගිනි අවිය එසේ වැරදීමකින් පත්තු වී තිබූ අතර කිසිදු ජීවිත හානියක් එයින් සිදු වී නොමැති බව ද වාර්තා වේ.
+
+කටුනායක ගුවන් තොටුපොළ තුළ විශේෂ ප්‍රභූ  අමුත්තන් සහ මුදල් ගෙවා මෙම පහසුකම් ගුවන් තොටුපොළෙන් ලබා ගන්නා ලෝකයේ ප්‍රමුඛ පෙළේ ව්‍යාපාරිකයන් මෙම පර්යන්තය හරහා නිරත නිතර ගමන් ගැනීම සිදු කරති .
+
+මේ වනවිට මෙම නායක ගුවන් භටයා ශ්‍රී ලංකා ගුවන් හමුදාව විසින් අත් අඩංගුවට ගෙන ඇති අතර  කටුනායක ගුවන් තොටුපොළ පොලිසිය හා ශ්‍රී ලංකා ගුවන් හමුදාව  එක්ව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති .
+
+◼️
+
+[Data](articles/ce33ca74.json)
 
 ---
 
@@ -2107,167 +2253,5 @@ Since the inception in 1994, the entrepreneurial spirit of Samson Rubber Product
 [Data](articles/ceb3948d.json)
 
 [Extended Data](ext_articles/ceb3948d.ext.json)
-
----
-
-### Japan bestows “The Order of the Rising Sun” on Kosala Wickramanayake and Athulla Edirisinghe
-
-*2024-04-30 00:30:05* · [`dailyftlk`](https://www.ft.lk/business/Japan-bestows-The-Order-of-the-Rising-Sun-on-Kosala-Wickramanayake-and-Athulla-Edirisinghe/34-761189) · `en`
-
-Yesterday, the recipients of “The Order of the Rising Sun” were announced by the Government of Japan. For the Spring Conferment this year, two highly acclaimed individuals from Sri Lanka have been honoured with this esteemed decoration in recognition of their distinguished contributions to enhancing the Japan-Sri Lanka relationship.
-
-Kosala Rohana Wickramanayake: The Order of the Rising Sun, Gold Rays with Rosette
-
-Former President of the Lanka Japan Friendship Society, Former President of the Federation of Chambers of Commerce and Industry of Sri Lanka.
-
-Contributed to promoting friendly relations and mutual understanding and economic exchange between Japan and Sri Lanka
-
-Kosala Rohana Wickramanayake has been a great supporter of Japan and, as a member of the Lanka Japan Friendship Society, has contributed to deepening friendly relations and promoting mutual understanding between Japan and Sri Lanka, particularly during his tenure as President of the Society in 2011-2012.
-
-...
-
-[Data](articles/950ab378.json)
-
-[Extended Data](ext_articles/950ab378.ext.json)
-
----
-
-### Tokyo Cement salutes top performers at 2024 Annual Gala Dealer Convention
-
-*2024-04-30 00:28:38* · [`dailyftlk`](https://www.ft.lk/business/Tokyo-Cement-salutes-top-performers-at-2024-Annual-Gala-Dealer-Convention/34-761188) · `en`
-
-Top Category Winners of the Tokyo Cement Annual Dealer Convention 2024 with the Managing Director, Group COO and Group General Manager –Marketing of the Tokyo Cement Group
-
-Tokyo Cement Group recently hosted their top-performing dealers to the prestigious Annual Dealer Convention 2024, held at the Cinnamon Grand Colombo. The star-studded awards night, befitting the outstanding performance of the channel sales partners, recognised over 140 top performers from across the island, who walked away with grand prizes.
-
-City Hardware & Stores – Jaffna, Ancheneyer Cement & Hardware Dealer – Batticaloa, National Trading Stores – Kurunegala, Shanmugam Stores – Kilinochchi, Emerald Hardware – Uduppiddy and Hansika Transport – Katuneriya were crowned best among the best of 2024 at the annual awards ceremony organised by the cement giant.
-
-...
-
-[Data](articles/ef41f763.json)
-
-[Extended Data](ext_articles/ef41f763.ext.json)
-
----
-
-### SL, Egypt discuss measures to boost trade
-
-*2024-04-30 00:27:53* · [`dailyftlk`](https://www.ft.lk/business/SL-Egypt-discuss-measures-to-boost-trade/34-761187) · `en`
-
-Trade Minister Nalin Fernando on Friday met the Egyptian Ambassador Maged Mosleh to discuss measures to boost bilateral ties.
-
-The Ambassador said that the Sri Lanka- Egypt Joint Commission on Trade and Economic Cooperation (JCTEC) would be an excellent platform to enhance bilateral economic ties between the two countries. The Minister said that Sri Lanka is considering convening the next session of the JCTEC in June this year.
-
-The Ambassador said that Africa is a potential and fast-growing and highly potential market and Sri Lankan exporters can exploit this potential by investing in Egypt. And Sri Lanka has an additional advantage through relatively relaxed rules of origin under a free trade agreement.
-
-During the meeting, the Minister explored the opportunity to import big onions from Egypt, and the Ambassador expressed willingness to assist with such imports.
-
-...
-
-[Data](articles/f288b2bc.json)
-
-[Extended Data](ext_articles/f288b2bc.ext.json)
-
----
-
-### KPMG’s technology openings; UK’s overcrowded prisons, reoffending rates, and new lifelines
-
-*2024-04-30 00:19:51* · [`dailyftlk`](https://www.ft.lk/columns/KPMG-s-technology-openings-UK-s-overcrowded-prisons-reoffending-rates-and-new-lifelines/4-761181) · `en`
-
-It provides a source of income, a new livelihood, a motivation to reform and an overall drop in reoffending rates
-
-This news item of the UK Telegraph is not simply interesting, but also provokes progressive thoughts, when you read the words of a current KPMG employee, a former offender. I have reproduced those words here.
-
-New thinking for GOSL, Prisons, our Ministry of Justice and forensics in our accounting profession?
-
-Rather than leave the thought behind, I am putting pen to paper and sharing this, such that it may trigger new thinking in our country, our profession, our corporate community. Thus this article today, in my now not so regular “Thought Leadership Forum” column.
-
-...
-
-[Data](articles/7a1373bf.json)
-
-[Extended Data](ext_articles/7a1373bf.ext.json)
-
----
-
-### 2019 Easter Sunday tragedy: National Peace Council says intl. role in ascertaining truth remains relevant
-
-*2024-04-30 00:18:11* · [`dailyftlk`](https://www.ft.lk/opinion/2019-Easter-Sunday-tragedy-National-Peace-Council-says-intl-role-in-ascertaining-truth-remains-relevant/14-761180) · `en`
-
-The National Peace Council (NPC) in a statement said yesterday that the international role in ascertaining the truth of the 2019 Easter Sunday tragedy remains relevant even today.
-
-On April 21, the country marked the fifth anniversary of the tragic Easter Sunday bombing that claimed the lives of approximately 300 persons and left more than 500 others injured and maimed. The enduring consequences of the Easter Sunday bombing need to be kept in mind. The economic repercussions, stemming from the decline in foreign investments and tourism, continue to haunt the country, contributing to the economic challenges faced today. The National Peace Council is particularly concerned that the erosion of trust in Government leadership, exacerbated by perceived failures in accountability and transparency, remains a pressing concern for all citizens. Unfortunately, this leads to frustration and loss of faith in the system, which can also lead to further injustices.
-
-...
-
-[Data](articles/ca42c0ba.json)
-
-[Extended Data](ext_articles/ca42c0ba.ext.json)
-
----
-
-### Rotary International District 3220 Conference creates hope for Sri Lanka
-
-*2024-04-30 00:16:44* · [`dailyftlk`](https://www.ft.lk/news/Rotary-International-District-3220-Conference-creates-hope-for-Sri-Lanka/56-761178) · `en`
-
-Rotary International District 3220 Conference Creates Hope for Sri Lanka
-
-Rotary International is a worldwide network comprising 1.2 million corporate leaders in over 200 countries, dedicated to causes that improve the quality of lives and create a better world. Rotary educates and equips communities to stop the spread of life-threatening diseases like polio, HIV/AIDS, and malaria, whilst also improving and expanding access to low-cost and free health care in developing areas around the world and is the only service organisation in the world to be afforded a permanent seat in the United Nations for its role in promoting peace and goodwill among nations.
-
-...
-
-[Data](articles/aa48a847.json)
-
-[Extended Data](ext_articles/aa48a847.ext.json)
-
----
-
-### Pakistan’s National Day reception held in Colombo
-
-*2024-04-30 00:14:49* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-s-National-Day-reception-held-in-Colombo/56-761177) · `en`
-
-The High Commission of the Islamic Republic of Pakistan hosted a National Day reception at BMICH, Colombo on 25 April 2024, which was attended by a large number of participants including Sri Lankan political leadership, diplomatic corps, Senior Defence Officials, Government representatives, prominent business personalities and Pakistani diaspora.
-
-The High Commissioner of Pakistan Faheem Ul Aziz HI (M) in his message on the occasion said that Pakistan and Sri Lanka continue to maintain their traditionally close and mutually beneficial relations, based on mutual respect and trust. He said that the strength of the Pakistan – Sri Lanka relationship lies in diversified engagement in many fields such as trade, defence, science, culture, and education. He also extended sincere greetings and best wishes on behalf of the government and people of Pakistan to the government and people of Sri Lanka.
-
-...
-
-[Data](articles/b89cacaa.json)
-
-[Extended Data](ext_articles/b89cacaa.ext.json)
-
----
-
-### Ranil Plans to Contest 2024 Presidential Election as an  independent  non -party common candidate (Nirpakshika Podu Apekshaya) backed by a group of parties, organizations and key individuals
-
-*2024-04-30 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83964) · `en`
-
-The first part of this article published in the “Daily Mirror”of 20 April 2024 under the heading “Ranil Wickremesinghe caravan moves on despite barking dogs” has evoked a lot of reader responses. In a climate of Ranil-bashing many seem to be happy  that  Wickremesinghe’s courageous decision to accept the challenge of leading the country on the road to economic recovery and  the limited yet commendable progress achieved by his Govt has been acknowledged. As mentioned in the concluding paragraph of last week’s article,  this second part of the article  would be focusing on the strategy being devised by Ranil Wickremesinghe to win the 2024 presidential stakes.
-
-...
-
-[Data](articles/a70c6369.json)
-
-[Extended Data](ext_articles/a70c6369.ext.json)
-
----
-
-### A call to end  ‘Corporal Punishment’  and create a fear-free childhood
-
-*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/A-call-to-end-Corporal-Punishment-and-create-a-fear-free-childhood/172-281587) · `en`
-
-School and home are the places where children spend most of the time of the day; hence corporal punishment should be absent in both places and they should feel safe in such environments
-
-Research unequivocally shows that corporal punishment is linked to adverse outcomes, including increased aggression, poorer mental health, and diminished cognitive development, which could result in long-term psychological issues and social dysfunctions, ultimately contributing to a cycle of violence that affects the broader society and future generations
-
-A study on the perceptions of Sri Lankan parents on the use of corporal punishment (2012) found that 74 per cent of parents resort to corporal punishment
-
-The alternatives are rooted in communication, understanding, and mutual respect
-
-...
-
-[Data](articles/11ff1820.json)
-
-[Extended Data](ext_articles/11ff1820.ext.json)
 
 ---

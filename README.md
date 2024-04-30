@@ -1,64 +1,170 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 16:04:17**
+As of **2024-04-30 16:18:35**
 
 ## Newspaper Stats
 
-*Scraped **21,863** Articles*
+*Scraped **21,876** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 187
-bbccomsinhala | 226
+bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
-economynextcom | 1,233
+economynextcom | 1,242
 adalk | 1,831
 tamilmirrorlk | 2,540
-adaderanalk | 2,589
+adaderanalk | 2,591
 virakesarilk | 3,296
-dailymirrorlk | 3,409
+dailymirrorlk | 3,410
 adaderanasinhalalk | 3,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,859 (100.0%) of 21,863 articles have been extended.
+21,863 (99.9%) of 21,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### கடும் இடி, மின்னல் தாக்கம் குறித்து பொதுமக்கள் அவதானமாக இருக்கவும் !
+### India announce squad for T20 World Cup
+
+*2024-04-30 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-announce-squad-for-T20-World-Cup/108-281661) · `en`
+
+(BCCI) - The Senior Selection Committee on Tuesday picked India’s 15-member squad for the upcoming ICC Men’s T20 World Cup 2024, which will be hosted in the West Indies and USA.
+
+India will begin their World Cup campaign against Ireland on June 05, 2024 at the Nassau County International Cricket Stadium, New York, followed by the marquee clash against Pakistan on June 09, 2024 at the same venue. India will then play USA and Canada on June 12 and 15 respectively.
+
+Squad: Rohit Sharma (Captain), Hardik Pandya (Vice Captain), Yashasvi Jaiswal, Virat Kohli, Suryakumar Yadav, Rishabh Pant (WK), Sanju Samson (WK), Shivam Dube, Ravindra Jadeja, Axar Patel, Kuldeep Yadav, Yuzvendra Chahal, Arshdeep Singh, Jasprit Bumrah, Mohd. Siraj.
+
+Reserves – Shubman Gill, Rinku Singh, Khaleel Ahmed and Avesh Khan
+
+◼️
+
+[Data](articles/b1428381.json)
+
+---
+
+### Sri Lanka stocks close up, capital goods drive turnover
+
+*2024-04-30 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-capital-goods-drive-turnover-160670/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.42 percent, or 52.00 points, at 12,362; while the S&P SL20 Index closed up 0.16 percent, or 5.89 points, at 3,691.
+
+Turnover was at 3.8 billion. 1.2 of this came from the capital goods sector.
+
+Royal Ceramics Lanka Plc saw the most active trading volumes (Rs222mn) in the day, and the share closed up at 33.60.
+
+Janashakthi Insurance Plc, which announced a cash dividend, also saw interest, and the share closed up at 53.20.
+
+Major positive contributors to the ASPI included Central Finance Company Plc (up at 122.75), Lion Brewery (Ceylon) Plc (up at 1,200.00), Browns Investments Plc (up at 6.60), Ceylon Tobacco Company Plc (up at 1,289.25), and John Keells Holdings Plc (up at 209.50). (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/eb31cdbf.json)
+
+---
+
+### Be careful with the impact of heavy thunder and lightning!
 
 *2024-04-30 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182344) · `ta`
 
-இன்று மாலை புத்தளம், காலி, மாத்தறை ஆகிய மாவட்டங்களிலும் மேல்மாகாணம், மத்திய மாகாணம் மற்றும் சப்ரகமுவ மாகாணங்களிலும் அதிகளவான இடி மின்னல் தாக்கம் ஏற்படக்கூடுமென வளிமண்டல திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology warns of heavy thunderstorms impacting Puttalam, Galle, Matara, Western, Central, and Sabaragamuwa provinces. Two children were killed by lightning yesterday.
 
-இந்நிலையில், நேற்று பலத்த இடி மற்றும் மின்னல் தாக்கம் காரணமாக ஒரே வீட்டுனுள் இரு பிள்ளைகள் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Department of Meteorology has warned that the most thunderstorms will be impact on the districts of Puttalam, Galle and Matara, the Western, Central Province and Sabaragamuwa provinces.
+
+It is noteworthy that two children were killed in the same house due to heavy thunder and lightning yesterday.
 
 ◼️
 
 [Data](articles/ac72ade9.json)
 
+[Extended Data](ext_articles/ac72ade9.ext.json)
+
 ---
 
-### இலங்கை - கசகஸ்தானுக்கிடையில் இருதரப்பு விமான சேவைகள் ஒப்பந்தம்
+### Sri Lanka Freedom Party majority will back president in broad alliance: state miniser
+
+*2024-04-30 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-majority-will-back-president-in-broad-alliance-state-miniser-160669/) · `en`
+
+ECONOMYNEXT — A majority of the Sri Lanka Freedom Party (SLFP) will join President Ranil Wickremesinghe in a broad alliance in support of his development agenda, State Minister of Foreign Affairs Tharaka Balasuriya said.
+
+Speaking to reporters, Balasuriya said members of the SLFP including Aviation Minister Nimal Siripala de Silva come on board the president’s ongoing development agenda.
+
+“This is not a programme built on fairy tales. It president is following an agenda that is sustainable in the long term. I think development activities will happen rapidly this year. We can expedite development activities after debt restructuring has been completed,” said Balasuriya.
+
+The SLFP is currently embroiled in an unprecedented crisis, with the party fractured into several factions.
+
+However, at least one of the factions has planned a Labour Day rally for Wednesday May 01.
+
+...
+
+[Data](articles/ee32a96d.json)
+
+---
+
+### Weather advisory issued for severe lightning
+
+*2024-04-30 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98939/weather-advisory-issued-for-severe-lightning) · `en`
+
+The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Sabaragamuwa provinces and in and Galle, Matara and Puttalam districts, it said.
+
+There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/56153b8c.json)
+
+---
+
+### Court defers verdict in Rathupaswala shooting case
+
+*2024-04-30 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98938/court-defers-verdict-in-rathupaswala-shooting-case) · `en`
+
+The Gampaha High Court the Trial-at-Bar has deferred delivering the verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army over the shooting to death of three persons and injuring several others during a protest by villagers demanding clean drinking water at Rathupaswala, Gampaha.
+
+The court was scheduled to deliver its verdict today (30), however when the case was taken up the Trial-at-Bar announced that the verdict will be delivered on May 17, 2024.
+
+On the 1st of August in 2013, army personnel opened fire at unarmed locals at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
+
+In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
+
+◼️
+
+[Data](articles/56ba24d4.json)
+
+---
+
+### Sri Lanka - Bilateral Airline Services Agreement between Kazakhstan
 
 *2024-04-30 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182340) · `ta`
 
-இலங்கைக்கும் கசகஸ்தானுக்கும் இடையிலான இருதரப்பு விமான சேவைகளை மேம்படுத்துவதற்காக இருநாடுகளின் விமானப் போக்குவரத்து அதிகாரசபைகளுக்கும் இடையிலான விமான சேவைகள் தொடர்பான ஒப்பந்தமொன்றில் கையொப்பமிடுவதற்காக 2015.05.13 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அனுமதி வழங்கப்பட்டுள்ளது.
+Sri Lanka and Kazakhstan agreed on a bilateral airline service agreement in 2015, aiming for weekly flights to Kazakhstan's Estana and Al-Almed. Despite approval, the contract hasn't been signed yet.
 
-ஆயினும், இதுவரை குறித்த விமான சேவைகள் ஒப்பந்தத்தில் கையொப்பமிடுவதற்கு இயலுமை கிட்டவில்லை. உத்தேச விமான சேவைகள் ஒப்பந்தத்தின் கீழ் இலங்கையின் எந்தவொரு இடத்திலிருந்தும் கசகஸ்தானின் எஸ்டானா மற்றும்ஃஅல்லது அல்மெட் வரைக்கும் திட்டவட்டமான விமான வழிப்பயணத்தினூடாக வாரத்திற்கு 7 தடவைகள் விமான சேவைகளை மேற்கொள்வதற்கு எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-அதற்கமைய, இருதரப்பினரும் உடன்பாடு எட்டப்பட்டுள்ள விமான சேவைகள் ஒப்பந்தத்தில் கையொப்பமிடுவதற்காக துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சர் சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+Permission has been granted at a Cabinet meeting held on 13.05.2015 to sign a contract between the two countries and the Air Transport Authority of Sri Lanka to promote bilateral airlines between Sri Lanka and Kazakhstan.
+
+However, so far, the airline has not been able to sign the contract. Under the proposed Airline Services Agreement, it is expected to carry out flights 7 times a week through a definite airline till Kazakhstan's Estana and Al -Almed.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of Ports, Shipping and Airlines to sign the Airline Services Agreement which has been reached by both sides.
 
 ◼️
 
 [Data](articles/b0e3303f.json)
+
+[Extended Data](ext_articles/b0e3303f.ext.json)
 
 ---
 
@@ -86,17 +192,25 @@ At that time the exit was hit in a high place in a building near the exit.
 
 ---
 
-### சிவகார்த்திகேயன் வெளியிட்ட 'ராபர்' பட ஃபர்ஸ்ட் லுக்
+### Sivakarthikeyan's 'Robor' film First Look
 
 *2024-04-30 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182336) · `ta`
 
-'மெட்ரோ' படத்தின் மூலம் ரசிகர்களுக்கு அறிமுகமான நடிகர் சத்யா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ராபர்' எனும் திரைப்படத்தின்  ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை நடிகர் சிவகார்த்திகேயன் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்தார்.
+"Sivakarthikeyan's 'Robor' film unveils its first look, featuring Satya, Danny Pope, and others. Directed by Ananda Krishnan, it tells the story of a Tamil Nadu villager in Chennai, who becomes a thief. Expected release by end of May."
 
-அறிமுக இயக்குநர் எஸ். எம். பாண்டி இயக்கத்தில் உருவாகி இருக்கும் 'ராபர்' படத்தின் சத்யா, டேனி போப், தீபா ஷங்கர், ஜெயபிரகாஷ், சென்றாயன், நிஷாந்த், 'ராஜா ராணி' பாண்டியன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். என். எஸ். உதயகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜோஹன் ஷிவனேஷ் இசையமைத்திருக்கிறார். பொது வெளிகளில் நடைபெறும் நகை திருட்டை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை இம்ப்ரஸ் ஃபிலிம் புரொடக்ஷன்ஸ் மற்றும் மெட்ரோ புரொடக்ஷன்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் எஸ். கவிதா மற்றும் ஆனந்த கிருஷ்ணன் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+The first look of 'Robor' has been released as the hero of the actor Satya's story, which is the hero of the film 'Metro'.. Actor Sivakarthikeyan released this and congratulated the film crew.
+
+அறிமுக இயக்குநர் எஸ். எம். Sathya, Danny Pope, Deepa Shankar, Jayaprakash, Gondayan, Nishant, 'Raja Rani' Pandiyan have starred in the Pandi movement.. My. S.. Johann Shivanesh has composed the film, which has been recorded by Udayakumar. Producer SS on behalf of Impress Film Productions and Metro Productions. Kavitha and Ananda Krishnan have co -produced.
+
+The shooting of the film is completed and the final phase of work is going on. In this case, the first look of the film has been released. Expectations about the film have been made by fans as the hero, which hides his face, has been designed to be a jewelry of St. Snatch, and Ananda Krishnan, director of 'Metro', has written the story, screenplay and dialogue.
 
 ...
 
 [Data](articles/31b24248.json)
+
+[Extended Data](ext_articles/31b24248.ext.json)
 
 ---
 
@@ -362,6 +476,26 @@ Tuesday (April 30), the US purchasing price of the United States has reported at
 
 ---
 
+### Sri Lanka investigates wrong “Aswesuma” benefit recipients
+
+*2024-04-30 14:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-investigates-wrong-aswesuma-benefit-recipients-160659/) · `en`
+
+ECONIOMYNEXT – Sri Lanka’s Welfare Benefits Board, which is responsible to disburse Aswesuma social welfare and poverty alleviation programme has started probe into recipients who had got the benefits through providing false information, Finance Ministry said.
+
+The World Bank-funded ambitious project is expected to reach 2.4 million households under four categories including people under extreme poverty.
+
+The government has started the disbursement after initial due diligence of applicants. However, there had been complaints over recipients who are receiving the benefits after submitting false information.
+
+The Finance Ministry said the Welfare Benefits Board has implemented a special program to enforce the law against people who receive Aswesuma benefits after giving false information.
+
+The Welfare Benefits Board has issued a circular to all district secretaries and divisional secretaries to find on false information, the Finance Ministry said in a statement.
+
+...
+
+[Data](articles/2e178262.json)
+
+---
+
 ### Prasanna's appeal petition petition post
 
 *2024-04-30 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196135) · `si`
@@ -486,17 +620,23 @@ All licensed retail liquor stalls will be closed in the Divisional Secretariat D
 
 ---
 
-### பூட்டப்படும் ஆனால் மூடப்படாது
+### Locked but not closed
 
 *2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
 
-உலக தொழிலாளர் தினமான மே (01)  மதுபானசாலைகள் சில மூடப்படவுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+The Excise Department has announced that liquor stores in Divisional Secretariat Divisions will be closed on World Labor Day, May 1, but those elsewhere will remain open.
 
-மே தின பேரணிகள் இடம்பெறும் பிரதேச செயலகப் பிரிவுகளில் இயங்கும் அனைத்து உரிமம் பெற்ற சில்லறை மதுபான விற்பனை நிலையங்களும் மூடப்படும். ஏனைய இடங்களில் இயங்கும் மதுபானசாலைகள் மூடப்படாது. வழமை போலவே திறந்திருக்கும்.
+🟩
+
+The Excise Department has announced that some of the liquor stores will be closed, the World Labor Day, May 01.
+
+All licensed retail liquor stalls will be closed in the Divisional Secretariat Divisions where May Day rallies are held.. The liquor stores running elsewhere will not be closed. Are open as usual.
 
 ◼️
 
 [Data](articles/f7b8f27c.json)
+
+[Extended Data](ext_articles/f7b8f27c.ext.json)
 
 ---
 
@@ -594,6 +734,30 @@ Aidn Makram (Leader), Otinelle Bartman, Ginrik Kuc, Bjourns, Andreick Kuzon, Rya
 
 ---
 
+### Parties in Sri Lanka to hold 40 Labour Day events on May 01
+
+*2024-04-30 14:04:00* · [`economynextcom`](https://economynext.com/parties-in-sri-lanka-to-hold-40-labour-day-events-on-may-01-160655/) · `en`
+
+ECONOMYNEXT — Sri Lanka gears up for May Day celebrations with 40 rallies and marches planned islandwide for May 01 by all mainstream political parties.
+
+President Ranil Wickremesinghe’s United National Party (UNP) will hold its May Day rally on Wednesday at the P D Sirisena grounds in Colombo, UNP MP Vajira Abeywardena told the media.
+
+Party supporters will be transported from the south of the country by bus and train for the rally, he said.
+
+“This is becoming an event to show gratitude to President Wickremesinghe, the national leader who salvaged the country,” he added.
+
+The ruling Sri Lanka Podujana Peramuna plans to hold its May Day rally at the Campbell Park grounds in Borella, MP Namal Rajapaksa told reporters.
+
+“We plan to hold the most successful May Day rally,” he said, adding that his party was able to fill the Galle Face Green as promised at a previous event and numbers for tomorrow will not be revealed yet.
+
+Neither the UNP nor the SLPP will be holding a May Day march.
+
+...
+
+[Data](articles/6eab36e5.json)
+
+---
+
 ### For May Day, Indian singers arrived
 
 *2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தினக்கு-இந்திய-பாடகர்கள்-வந்தனர்/175-336553) · `ta`
@@ -659,6 +823,24 @@ The case was filed against the Attorney General Mahindananda Aluthgamage, the At
 [Data](articles/2c1840d7.json)
 
 [Extended Data](ext_articles/2c1840d7.ext.json)
+
+---
+
+### Sri Lanka’s SOE losses reverse trend; likely to post Rs. 456 bln profit in 2023: State FinMin
+
+*2024-04-30 13:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-soe-losses-reverse-trend-likely-to-post-rs-456-bln-profit-in-2023-state-finmin-160656/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s key state-owned enterprises (SOEs) have reversed its 2022 losses and made profits in 2023, State Finance Minister Shehan Semasinghe said after the government was forced to remove all the subsidies on energy following an International Monetary Fund deal.
+
+Sri Lanka’s state-owned enterprises in 2022 made big losses as currency depreciation hit dollar loans, posting a loss of 743 billion rupees in 2022. Semasinghe said the same SOEs will report a profit of 456 billion rupees in 2023.
+
+Such losses in the past have led the government to borrow more before an unprecedented economic crisis in 022.
+
+“The Minister stated that the reason for recording this profit was the setting of cost-based prices at institutions such as the Ceylon Electricity Board (CEB) and the Ceylon Petroleum Corporation (CPC),” the Finance Ministry said in a statement.
+
+...
+
+[Data](articles/04abe9b8.json)
 
 ---
 
@@ -842,6 +1024,22 @@ Visiting the capital Kyiv earlier on Monday, NATO Secretary General Jens Stolten
 
 ---
 
+### SJB catches up with NPP in Sri Lanka general, presidential election surveys
+
+*2024-04-30 12:47:00* · [`economynextcom`](https://economynext.com/sjb-catches-up-with-npp-in-sri-lanka-general-presidential-election-surveys-160629/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) has overtaken the leftist National People’s Power (NPP) in a voting intent poll for a future parliamentary election while SJB leader Sajith Premadasa has closed a gap with NPP leader Anura Kumara Dissanayake for this year’s presidential election.
+
+The Institute for Health Policy (IHP) which carried out the two surveys for March 2024 found that its revised SLOTS MRP model, confirm an increasing trend in support for the SJB at the expense of the NPP.
+
+“The SJB on 38 percent (+4) took the lead with all voters for the first time since 2022, ahead of the NPP/JVP on 35 percent (-2), the SLPP at 8 percent (unchanged) and President Ranil Wickremesinghe’s United National Party (UNP) at 5 percent (unchanged). The March estimates are provisional and are associated with a margin of error of 1–3% for the four leading parties,” the IHP said in a statement
+
+...
+
+[Data](articles/9dff98f9.json)
+
+---
+
 ### UK Policeman spared jail after assault on innocent Sri Lankan
 
 *2024-04-30 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-Policeman-spared-jail-after-assault-on-innocent-Sri-Lankan/108-281651) · `en`
@@ -905,6 +1103,26 @@ During the last good governance government, the case was filed by the Attorney G
 [Data](articles/285f0992.json)
 
 [Extended Data](ext_articles/285f0992.ext.json)
+
+---
+
+### Sri Lanka’s Mirissa to be named blue flag beach, maritime reserve
+
+*2024-04-30 12:26:00* · [`economynextcom`](https://economynext.com/sri-lankas-mirissa-to-be-named-blue-flag-beach-maritime-reserve-160615/) · `en`
+
+ECONOMYNEXT – Sri Lanka is working to get Blue Flag certification for its southern Mirissa beach, cabinet spokesman Minister Bandula Gunawardena said.
+
+“The cabinet approved the proposal to make the Mirissa marine zone a Blue Flag coastal zone and a marine wildlife sanctuary conforming to international standards,” Gunawardena told reporters on Tuesday.
+
+“This will increase by fivefold the southern province’s tourism-based economy.”
+
+A blue flag denotes a beach, marina, or sustainable boating tourism operator meets the standards of the Foundation for Environmental Education (FEE).
+
+FEE is a not-for-profit non-governmental organisation consisting of 65 organisations in 77 member countries. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/a2ef0eec.json)
 
 ---
 
@@ -1102,6 +1320,26 @@ Therefore, they have demanded that steps be taken to start the bus service.
 
 ---
 
+### Sri Lanka bans corporal punishment for children
+
+*2024-04-30 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bans-corporal-punishment-for-children-160605/) · `en`
+
+ECONOMYNEXT – Sri Lanka will ban corporal punishment in all spheres, President Ranil Wickremesinghe has said.
+
+“The Cabinet approved amendments to the Penal Code and Criminal Procedure Code to prohibit corporal punishment in all spheres,” Wickremesinghe said on X.
+
+This “Paves the way for legal protections to ensure that no child in Sri Lanka suffers physical or mental violence, aligning with our commitment to safeguard the rights and well-being of every child.”
+
+Sri Lanka allows corporal punishment under section 341 of the Penal Code which makes exceptions for a schoolmaster while section 82 of the Penal Code makes exceptions for an ‘act done in good faith for the benefit of a child or person of unsound mind, by or by consent of guardian.’
+
+However, this has long been considered as a violation of human rights with article 19 of the United Nations Conventions of the Rights of the Child, prohibiting all forms of violence towards children. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/8760c073.json)
+
+---
+
 ### Attack on Harry Potter House
 
 *2024-04-30 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196129) · `si`
@@ -1273,6 +1511,28 @@ The former Minister is challenging the orders by the  Maligakanda Magistrate on
 [Data](articles/0268ffed.json)
 
 [Extended Data](ext_articles/0268ffed.ext.json)
+
+---
+
+### Sri Lanka may have to reconsider room rate: State Minister
+
+*2024-04-30 11:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-have-to-reconsider-room-rate-state-minister-160600/) · `en`
+
+ECONOMYNEXT – Sri Lanka will have to reconsider a minimum room rate for hotel rooms after a number of complaints, but there was also a demand for price floors from the section of the industry, State Minister of Tourism, Diana Gamage said.
+
+Tour operators have opposed the price controls, saying it amounts to illegal price-fixing in other markets.
+
+“…[B]ecause of the issues that are happening at the moment, the complaints we are getting from the hotel industry and things we will have to reconsider,” Gamage said at a press conference on Monday.
+
+Gamage said there was support for the minimum room rate from some hoteliers.
+
+“There are hoteliers who are agreeing with us,” Gamage said. “There should be some minimum room rate.”
+
+Sri Lanka’s inbound tour operators have said minimum rates were hurting their ability to compete with East Asia especially for large groups including those coming for incentive travel and conventions. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/7294de9d.json)
 
 ---
 
@@ -2032,288 +2292,20 @@ The secretary of the state Adult Corrections Department identified two of the ot
 
 ---
 
-### Protest against extension of vehicle import permission given to foreign workers
+### මහින්දානන්ද අලුත්ගමගේ නිදොස් කොට නිදහස් වුයේ කෙසේ ද?
 
-*2024-04-30 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196120) · `si`
+*2024-04-30 09:38:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1q42nzvd7o) · `si`
 
-The Committee on Finance Committees criticized the lack of briefing on a full electric vehicle permit scheme for foreign employment abroad. The Chairman of the Committee on Public Finance ordered officials to report within two weeks. The prolonged gazette extending the licensing period hinders approval. The Ministry of Finance did not provide information to the Attorney General. Tax concessions on imported vehicles were revealed, with Rs. 100 million and US $ 109.8 million received for 1,019 permits, totaling $46 million. The Chairman emphasized this is the only time for such imports.
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයථා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ, කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම  තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් කළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ එම චෝදනා වලින් නිදොස් කොට නිදහස් කිරීමට කොළඹ මහාධිකරණය අද (අප්‍රේල් 30) වැනිදා නියෝග කළේය.
 
-🟩
+තීන්දුව ලබා දෙනු ලැබුවේ කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ විසිනි.
 
-The Committee on Finance Committees said there was no briefing in the provision of full electric vehicle permit scheme for foreign employment abroad.
+තීන්දුව ප්‍රකාශයට පත් කරමින් මහාධිකරණ විනිසුරුවරයා සඳහන් කළේ ප්‍රශ්නගත නිවස මිලදී ගැනීම සඳහා යෙදවූ රුපියල් මිලියන 27ක මුදල  විත්තිකරුට අයත් වාහන බලපත්‍රයක් විකිණීමෙන් ලබාගත් රුපියල් මිලියන 26ක මුදලින් සහ බැංකු ණයක් වශයෙන් ලබාගත් රුපියල් මිලියන 10ක  මුදලක් යොදා ගෙන ඇති බවත් සාක්ෂි මඟින් අනාවරණය වී ඇති බව ය.
 
-Chairman of the Committee on Public Finance (Committee) has instructed the relevant officials to grant a report within two weeks.
-
-The Chairman said that the prolonged gazette that extends the licensing period until that analysis is not possible to approve.
-
-The Ministry of Finance has not been asked that the information could not be given to the Attorney General, but the Committee cannot be given to the Attorney General, but the Committee cannot be given to the Attorney General.
-
-It has been revealed that the tax concession has been imported from Rs. 100 million.
-
-The committee communications Department said that there was no doubt that many working workers were importing such value vehicles.
-
-It has also been revealed that US $ 109.8 million has been received by US $ 109.8 million has been received by 1,019 permits.
+විත්තිකරු විත්ති කූඩුවේ සිට කරන ලද ප්‍රකාශය තුළින්ද මෙම කරුණ අනාවරණය කර තිබේ.
 
 ...
 
-[Data](articles/8ea799f3.json)
-
-[Extended Data](ext_articles/8ea799f3.ext.json)
-
----
-
-### Lightning strikes
-
-*2024-04-30 09:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-இருவர்-உயிரிழப்பு/175-336541) · `ta`
-
-During heavy rains, lightning struck a house, affecting a brother and sister.
-
-🟩
-
-The brother and sister of the house were affected by lightning struck during heavy rains yesterday evening (29), police said.
-
-◼️
-
-[Data](articles/7259f2fc.json)
-
-[Extended Data](ext_articles/7259f2fc.ext.json)
-
----
-
-### Special notice to voters regarding electoral register
-
-*2024-04-30 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98929/special-notice-to-voters-regarding-electoral-register) · `en`
-
-The Election Commission calls on the members of the public to ensure that their names are listed in the electoral register.
-
-Accordingly, the citizens who were born before 31 January 2007 are urged to immediately enquire their respective Grama Niladhari officers if their names are in the electoral register.
-
-The public can also view the electoral register from the official website of the Election Commission (http://ec.lk/vrd).
-
-◼️
-
-[Data](articles/a0ee6557.json)
-
-[Extended Data](ext_articles/a0ee6557.ext.json)
-
----
-
-### A gang arrested for bribery acting like CIT officials
-
-*2024-04-30 09:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டி-அதிகாரிகளைப்-போல்-நடித்து-இலஞ்சம்-கேட்ட-கும்பல்-கைது/175-336540) · `ta`
-
-Four arrested for bribery, pretending to be CIT officials.
-
-🟩
-
-Four persons have been arrested for bribing Rs.
-
-According to a complaint lodged by a person from Dehiwala, the suspects were arrested at Kalupitiya at 3.30 pm yesterday (29), the Bribery Commission said.
-
-◼️
-
-[Data](articles/767c2d64.json)
-
-[Extended Data](ext_articles/767c2d64.ext.json)
-
----
-
-### Four arrested for impersonating CID officers and extorting Rs. 10 Mn bribe
-
-*2024-04-30 08:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-arrested-for-impersonating-CID-officers-and-extorting-Rs-10-Mn-bribe/108-281630) · `en`
-
-Colombo, April 30 (Daily Mirror) - Four persons were arrested for impersonating officers of the Criminal Investigation Department and demanding a bribe of Rs. 10 million.
-
-The Bribery or Corruption Investigation Commission said that the suspects were apprehended yesterday (29) in Kollupitiya based on a complaint by a resident of Dehiwala.
-
-They said that a search was carried out in a house located in Kollupitiya and Rs. 12 million in cash and 3,500 US dollars belonging to the complainant were taken by the suspects, claiming that there was an investigation against the complainant.
-
-Later, the suspects visited the house and confiscated the passport of an Indian who was working there.
-
-Later, the suspects contacted the complainant by phone and had demanded a bribe of Rs. 40 million to assist in the investigation against him and return the confiscated passport.
-
-Subsequently, the amount was reduced to Rs. 35 million, with an initial demand of Rs. 10 million.
-
-...
-
-[Data](articles/37a8f341.json)
-
-[Extended Data](ext_articles/37a8f341.ext.json)
-
----
-
-### International Day to end the physiological punishment today
-
-*2024-04-30 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/182281) · `ta`
-
-Today marks the International Day to end physiological punishment. In Sri Lanka, organizations like STOP Cruelty Trust and SEP are fighting against this practice, especially in schools. A social campaign, Noguti 2.0, aims to pressure the government to amend the Penal Code to ban physiological punishment. A survey shows 80% of students were subjected to it, impacting their physical and psychological health.
-
-🟩
-
-Today is the International Day to end the physiological punishment. According to data, 1.3 billion children are affected by physiological punishment annually in the world.. Despite the occasional measures to end the physiological punishment for students in schools in Sri Lanka, they have not been expected.
-
-Therefore, in Sri Lanka, especially in schools, the STOP Child Cruelty Trust (STOP Cruelty Trust), the 19 Child Protection Alliance (SEP), which coordinates the 19 -year -old Child Protection Alliance, which is aimed at ending the course of physiological punishment in schools, in order to end the tendency of the physiological punishment in the school.Noguti 2.0 - Sinhala, which gives the meaning of 'no feet' in Tamil), is launching a social networking campaign from the 1st to 30 days from today (30) today (30).. The campaign was already launched on social networks and beyond the name of Noguti in 2022.
-
-...
-
-[Data](articles/bc4ea302.json)
-
-[Extended Data](ext_articles/bc4ea302.ext.json)
-
----
-
-### Four underage girls raped in Moneragala District
-
-*2024-04-30 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-underage-girls-raped-in-Moneragala-District/108-281628) · `en`
-
-Four incidents of rape involving underage girls have been reported today from the Buttala, Wedekumbura, Kudaoya and Wellawaya police areas in the Moneragala district.
-
-A 13 year old school girl of Katugahagalge in Buttala had been abducted and raped by a young man and the suspect was arrested on April 27 during investigations of her mother’s complaint that she had gone missing after she went to school on April 19.
-
-Investigations revealed that she had been in love with her elder sister’s lover and had eloped with him. The 25 year old young man had taken her to a lodge in Wellwaya area and raped her for about a week and later at a lodge in the Awissawella area. Buttala police are conducting further investigations.
-
-...
-
-[Data](articles/b984411a.json)
-
-[Extended Data](ext_articles/b984411a.ext.json)
-
----
-
-### Kusal reveals a story not know about the louder, Sharma and Coly
-
-*2024-04-30 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196119) · `si`
-
-Kusal Mendis recalls his best ODI innings against India in the 2017 ICC Champions Trophy, highlighting a memorable match with Dhanushka Gunatilleke. They faced a challenging 320 run chase, with Mendis scoring 100 and 150 in tests and ODIs, respectively.
-
-🟩
-
-Sri Lanka ODI Kusal Mendis says that he was the best innings against India at the Trophy of the ICC Champion Championship in England in 2017.
-
-He was speaking at the Adawra 360 conversation program yesterday (29).
-
-Speaking further Kusal Mendis said that he and Dhanushka Gunatilleke batting in the match were a memorable incident.
-
-...
-
-[Data](articles/2d8811f7.json)
-
-[Extended Data](ext_articles/2d8811f7.ext.json)
-
----
-
-### Farmers demand that they get their agricultural land occupied by the Vikramadi
-
-*2024-04-30 08:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182280) · `ta`
-
-Farmers in Athikattuveli demand that a Buddhist monk, Vikramadi, cultivate their traditional agricultural lands, which have been affected by the monk's occupation of 88 acres for 3 years. The land, previously farmed by the Kuchchaveli community, was acquired by the Forest Resource Protection Department after displacement due to war. In 2021, the Sapbhata Forest Senasuna Viharakarakam occupied the land, with a 30-year lease from 2023. A Divisional Secretariat letter advises the Attorney General.
-
-🟩
-
-Farmers are demanding that a Buddhist monk cultivate in the traditional agricultural lands of the Tamil people in the Athikattuveli area of ​​the Kuchchaveli - Thiriyai Grama Niladhari Division, and that their livelihood has been affected.
-
-Farmers say that 88 acres of land in the Attikkadu area has been in the name of a Buddhist monk named Buddhist monk in the name of a Buddhist monk for nearly 3 years.
-
-Farmers say that the people of Kuchchaveli have been engaged in farming in the land of the hereditary lands before 1984, and that when the situation was displaced due to the war situation, large numbers of agrarian lands, including the confirmation of the area and the pamid lands in the area, were acquired by the Forest Resource Protection Department.
-
-In 2021, 88 acres and more land in the area was occupied by the Sapbhata Forest Senasuna Viharakarakam in the area.
-
-...
-
-[Data](articles/1ce000fc.json)
-
-[Extended Data](ext_articles/1ce000fc.ext.json)
-
----
-
-### Notice to the people by Election Commission
-
-*2024-04-30 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196118) · `si`
-
-Election Commission notices: Grama Niladhari must verify name on vote list or check at http://ec.lk/vrd.
-
-🟩
-
-The Elections Commission has issued a special announcement on registration details.
-
-Accordingly, the Grama Niladhari on 31.01.2007 has been asked to inquire to the Grama Niladhari, whether his name is the name of the vote list.
-
-Otherwise, you can visit http://ec.lk/vrd and check to see if his details correctly.
-
-◼️
-
-[Data](articles/a1193b77.json)
-
-[Extended Data](ext_articles/a1193b77.ext.json)
-
----
-
-### Fairly heavy showers expected in several provinces
-
-*2024-04-30 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98928/fairly-heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-western and Uva provinces after 1.00 p.m.
-
-Showers or thundershowers may occur at a few places elsewhere in the evening or night, it said.
-
-Fairly heavy showers above 50 mm are likely at some places in Western, Sabaragamuwa and Uva provinces.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/73fad274.json)
-
-[Extended Data](ext_articles/73fad274.ext.json)
-
----
-
-### Several fatal accidents - 4 lives kills
-
-*2024-04-30 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196117) · `si`
-
-Four lives lost in Sevanagala Junction motorcycle accident. Two identified as 29 and 35, residents of Senewagala. Another accident near Avissawella-Colombo road, and a 40-year-old woman in Jaffna-Kandy main road.
-
-🟩
-
-Two persons were killed in a motorcycle accident in the Sevanagala Junction, Sevanagala Junction.
-
-ඊයේ (29) රාත්‍රී කාලයේදී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
-
-The accident had occurred at the Sevanagala Junction to a motorcycle who was traveling from the Sevanagala Junction to Ginigallawawalaas.
-
-The deceased have been identified as 35 year old and 46 year old residents of Senewagala.
-
-Meanwhile, a car has died near a motorcycle near the face of a motorcycle near the Avissawella-Colombo-Colombo-Colombo-Colombo road.
-
-Meanwhile, a 40-year-old woman was killed in a road accident in Jaffna-Kandy main road.
-
-The accident occurred last morning a motorcycle on the opposite of the bus.
-
-◼️
-
-[Data](articles/5a9a922f.json)
-
-[Extended Data](ext_articles/5a9a922f.ext.json)
-
----
-
-### Four arrested for impersonating CID officers and soliciting Rs.10M bribe
-
-*2024-04-30 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98927/four-arrested-for-impersonating-cid-officers-and-soliciting-rs10m-bribe) · `en`
-
-Four persons were taken into custody in Kollupitiya while impersonating Criminal Investigation Department (CID) officers and demanding Rs. 10 million in cash, the Bribery Commission says.
-
-It said the suspects were arrested at around 3.30 p.m. last evening (29)in the Kollupitiya area based on a complaint filed by a resident of Dehiwala.
-
-They are expected to be produced before the Colombo Chief Magistrates Court later today (30).
-
-◼️
-
-[Data](articles/c34bb6cf.json)
-
-[Extended Data](ext_articles/c34bb6cf.ext.json)
+[Data](articles/5da0645a.json)
 
 ---

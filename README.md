@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 20:18:29**
+As of **2024-04-30 20:33:56**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 3,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,910 (100.0%) of 21,911 articles have been extended.
+21,911 (100.0%) of 21,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ඉන්දීය T20 සංචිතය නම් කෙරේ
+### Indian T20 squad named
 
 *2024-04-30 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196143) · `si`
 
-විස්සයි විස්ස ලෝක කුසලානය සඳහා ක්‍රීඩා කරන ඉන්දීය සංචිතය නම් කර තිබේ.
+The Indian T20 World Cup squad is announced, excluding KL Rahul.
 
-කෙසේවෙතත් මෙම සංචිතය සඳහා ඉන්දීය සුපිරි පිතිකරු කේ එල් රාහුල් ඇතුළත් කර නොමැත.
+🟩
+
+The Indian squad played for the Twenty20 World Cup has been named.
+
+However, India's super batsman KL Rahul was not included in the squad.
 
 ◼️
 
 [Data](articles/dfa29be7.json)
+
+[Extended Data](ext_articles/dfa29be7.ext.json)
 
 ---
 

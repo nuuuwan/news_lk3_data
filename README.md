@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 22:51:22**
+As of **2024-04-30 23:03:49**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,924 (100.0%) of 21,927 articles have been extended.
+21,927 (100.0%) of 21,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ජනතාව බය කළ කල්ලියේ සැකකරුවෙක් කොටුවෙයි
+### Suspect arrested in the gang which scared people
 
 *2024-04-30 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196147) · `si`
 
-බස්නාහිර පළාතේ මාර්ගවල ගමන් කරන කාන්තාවන් සහ පිරිමි පුද්ගලයින්ට මන්නා පෙන්වා දණ ගස්වා, කොල්ලකෑම් සිදුකරන යතුරුපැදි කල්ලියේ පැදිකරු හෙරොයින් සමග මොරටුව පොලීසිය අද (30) අත්අඩංගුවට ගෙන තිබේ.
+Moratuwa Police arrested motorcycle gangs causing fear in the Western Province. Main suspect, Manna Samantha, fled.
 
-පොලීසිය පැවසුවේ, මෙම කල්ලියේ ප්‍රධාන සැකකරු වන "මන්නා සමන්ත" නමැති අපරාධකරු ප්‍රදේශයෙන් පළාගොස් ඇති බවය.
+🟩
+
+Moratuwa Police have arrested the motorcycle gangs and the motorcycle motorcycle motorcycle cargo parking on the roads in the Western Province.
+
+According to the police, the main suspect of the gang, "Manna Samantha" has fled the area.
 
 ◼️
 
 [Data](articles/23eef5bf.json)
 
+[Extended Data](ext_articles/23eef5bf.ext.json)
+
 ---
 
-### ලංකා IOC ඉන්ධන මිලත් පහළට
+### Lanka IOC fuel prices down
 
 *2024-04-30 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196146) · `si`
 
-ලංකා IOC සමාගම ද සිය ඉන්ධන මිල ගණන් සම්බන්ධයෙන් දැනුම්දීමක් සිදුකර තිබේ.
+Lanka IOC reduces fuel prices. Sri Lanka IOC follows suit. Ceylon Petroleum Corporation adjusts prices on 30th.
 
-ඒ අනුව සිපෙට්කෝ ඉන්ධන මිල ගණන් අනුව ලංකා IOC ඉන්ධන මිල ගණන් ද පහළ දමන බව දැනුම්දෙයි.
+🟩
 
-අද (30) දින මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබුණි.
+Lanka IOC has also been announced in his fuel prices.
+
+Accordingly, Sri Lanka IOC fuel prices will also decrease in the fuel prices.
+
+The Ceylon Petroleum Corporation had taken steps to amend fuel prices today (30).
 
 ◼️
 
 [Data](articles/6b0f58b4.json)
+
+[Extended Data](ext_articles/6b0f58b4.ext.json)
 
 ---
 
@@ -89,6 +101,8 @@ Cabinet Spokesperson Bandula Gunawardena said that if an adult or teacher punish
 *2024-04-30 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98944/fuel-prices-reduced) · `en`
 
 The Ceylon Petroleum Corporation (Ceypetco) has reduced its fuel prices to be in effect from midnight today (30).
+
+UPDATE: Against this backdrop, Lanka Indian Oil Corporation (LIOC) too has decided to drop its prices, mirroring the state-owned oil company’s move.
 
 ◼️
 
@@ -762,17 +776,23 @@ The petitioner filed this petition naming the members of the Constitutional Coun
 
 ---
 
-### ஜனாதிபதிக்கு உயர்நீதிமன்றம் பிறப்பித்த தடையுத்தரவு
+### The ban issued by the Supreme Court to the president
 
 *2024-04-30 16:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-உயர்நீதிமன்றம்-பிறப்பித்த-தடையுத்தரவு/175-336559) · `ta`
 
-ஜனாதிபதி மற்றும் அரசியலமைப்புச் சபைக்கு உயர் நீதிமன்றம் இடைக்கால தடைஉத்தரவு ஒன்றை பிறப்பித்துள்ளது.
+The Supreme Court issued an interim injunction to the President and the Constitutional Council, recommending names for High Court judges except for the Chief Justice post.
 
-இதன்படி, தலைமை நீதிபதி பதவியைத் தவிர ஏனைய உயர் நீதிமன்ற நீதிபதிகளின் பெயர்களை பரிந்துரைக்க இவ்வாறு தடை உத்தரவு விதிக்கப்பட்டுள்ளது. R
+🟩
+
+The Supreme Court has issued an interim injunction to the President and the Constitutional Council.
+
+Accordingly, the ban has been issued to recommend the names of the High Court judges other than the post of Chief Justice.. Remble
 
 ◼️
 
 [Data](articles/b6e08fd3.json)
+
+[Extended Data](ext_articles/b6e08fd3.ext.json)
 
 ---
 

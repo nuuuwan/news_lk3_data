@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 20:04:24**
+As of **2024-04-30 20:18:29**
 
 ## Newspaper Stats
 
-*Scraped **21,910** Articles*
+*Scraped **21,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,302
 dailymirrorlk | 3,418
-adaderanasinhalalk | 3,545
+adaderanasinhalalk | 3,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,906 (100.0%) of 21,910 articles have been extended.
+21,910 (100.0%) of 21,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### ඉන්දීය T20 සංචිතය නම් කෙරේ
+
+*2024-04-30 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196143) · `si`
+
+විස්සයි විස්ස ලෝක කුසලානය සඳහා ක්‍රීඩා කරන ඉන්දීය සංචිතය නම් කර තිබේ.
+
+කෙසේවෙතත් මෙම සංචිතය සඳහා ඉන්දීය සුපිරි පිතිකරු කේ එල් රාහුල් ඇතුළත් කර නොමැත.
+
+◼️
+
+[Data](articles/dfa29be7.json)
+
+---
 
 ### Over 2,400 new private companies incorporated in March 2024
 
@@ -52,6 +66,8 @@ Subject to certain provisions of the act, these companies can carry on or undert
 
 [Data](articles/30b6eb73.json)
 
+[Extended Data](ext_articles/30b6eb73.ext.json)
+
 ---
 
 ### Kazakhstan edge Qatar in Racecourse thriller
@@ -72,21 +88,29 @@ Qatar opened scoring through a penalty try in the second minute of the game but 
 
 [Data](articles/e8d206e4.json)
 
+[Extended Data](ext_articles/e8d206e4.ext.json)
+
 ---
 
-### மின்னல் தாக்கம் குறித்து சிவப்பு எச்சரிக்கை விடுக்கப்பட்டது
+### Red warned about the impact of lightning
 
 *2024-04-30 19:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுக்கப்பட்டது/175-336563) · `ta`
 
-நாட்டின் பல பகுதிகளில் மின்னல் தாக்கம் ஏற்படக்கூடிய சாத்தியம் நிலவுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology issued a red warning for lightning impacts in Western, Central, and Sabaragamuwa Provinces, and Galle, Matara, and Puttalam districts. It also warned of temporary winds during thunderstorms.
 
-மேல், மத்திய மற்றும் சபரகமுவ மாகாணங்களுக்கும் காலி, மாத்தறை மற்றும் புத்தளம் ஆகிய மாவட்டங்களுக்கும் மின்னல் தாக்கம் தொடர்பான சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-இடியுடன் கூடிய மழை பெய்யும் சந்தர்ப்பங்களில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
+The Department of Meteorology has predicted that there is a possibility of lightning in many parts of the country.
+
+A red warning has been issued on the impact of lightning on the Western, Central and Sabaragamuwa Provinces and Galle, Matara and Puttalam districts.
+
+The Department of Meteorology has also advised that there is a temporary wind blowing in cases of thunderstorms.
 
 ◼️
 
 [Data](articles/6c3dc239.json)
+
+[Extended Data](ext_articles/6c3dc239.ext.json)
 
 ---
 
@@ -202,19 +226,27 @@ The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
 
 ---
 
-### දරුවන්ට ශාරීරික දඩුවම් පැමිණවීම තහනම් කිරීමට නව නීතියක්
+### A new law to prohibit the children 'punishment
 
 *2024-04-30 17:33:17* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-ශාරීරික-දඩුවම්-පැමිණවීම-තහනම්-කිරීමට-නව-නීතියක්/11-409351) · `si`
 
-සියලුම ක්ෂේත්‍රවල ශාරීරික දඩුවම් පැනවීම තහනම් කිරීම සඳහා වන විටිවිධාන ඇතුළත් කරමින් දණ්ඩ නීති සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහ පනත සංශෝධනය කිරීම සඳහා අවශ්‍ය පියවර ගැනීම පිණිස  ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  සහ අධිකරණ බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතා  ඉදිරිපත් කරන ලද ඒකාබද්ධ යෝජනාවට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි වූ බව කැබිනට් ප්‍රකාශක  ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කළේය.
+Sri Lanka's Cabinet, led by President Ranil Wickremesinghe, has approved amendments to the Penal Code and Criminal Procedure Code Act to protect children's rights and combat violence. This move follows years of concern over children's inhumane treatment. The amendments aim to prevent physical punishment and promote peace across all sectors.
 
-ඒ මහතා මේ බව ප්‍රකාශ කලේ අද (30) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී ය.
+🟩
 
-හොඳම දේ ලබා දිය යුත්තේ දරුවන්ට නම් නරකම දේ ලබා දීම ද වැළක්විය යුතුය යන්න පිළිබඳව ,ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ අවධානය යොමුව තිබෙන බවත් ඒ අනුව සියලුම ක්ෂේත්‍රවල ශාරීරික දඩුවම් පැනවීම තහනම් කිරීම සඳහා දණ්ඩ නීති  සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහ පනත සංශෝධනය කිරීම සඳහා  ජනාධිපතිවරයා විසින් මෙම යෝජනාව ඉදිරිපත් කර තිබේ.
+President Ranil Wickremesinghe and the Criminal Procedure Minister DB Wijedasa Rajapakse and the Honorable Procedure Minister DB Wijedasa Rajapakse, Minister of Justice and the Constitutional Reforms of Hon.Cabinet Spokesperson Minister of Transport and Highways Dr. Bandula Gunawardena said that the Cabinet approved by the Cabinet of Ministers.
+
+He was speaking at a press conference to inform the Cabinet decisions held in the Government Information Department today.
+
+The best thing should be given to President Ranil Wickremesinghe's attention to the children and to prevent the worst of the worst.The proposal is presented.
+
+Accordingly, the Cabinet approved to amend the Penal Code and Criminal Procedure Code Act to promote the rights of children in Sri Lanka and to promote the violence in all sectors.
 
 ...
 
 [Data](articles/44b297af.json)
+
+[Extended Data](ext_articles/44b297af.ext.json)
 
 ---
 
@@ -2249,27 +2281,5 @@ Sri Lanka’s inbound tour operators have said minimum rates were hurting their 
 [Data](articles/7294de9d.json)
 
 [Extended Data](ext_articles/7294de9d.ext.json)
-
----
-
-### Mahindananda also acquitted
-
-*2024-04-30 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196127) · `si`
-
-Mahindananda Aluthgamage, former Minister, acquitted by Colombo High Court for alleged cash purchase of a luxury house.
-
-🟩
-
-The Colombo High Court ordered the acquitted of former Minister Mahindananda Aluthgamage that has been accused of purchasing a luxury house on the Cash Baszy Sunday.
-
-The decision was made by Colombo High Court Judge Navasinghe.
-
-The case was filed against the Attorney General Mahindananda Aluthgamage, the Attorney General of the Government of the Government of the Government of Sri Lanka.
-
-◼️
-
-[Data](articles/8dce6f2d.json)
-
-[Extended Data](ext_articles/8dce6f2d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 06:56:29**
+As of **2024-04-30 07:17:51**
 
 ## Newspaper Stats
 
-*Scraped **21,737** Articles*
+*Scraped **21,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,169 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,817
-tamilmirrorlk | 2,521
+tamilmirrorlk | 2,522
 adaderanalk | 2,578
 virakesarilk | 3,270
-dailymirrorlk | 3,383
-adaderanasinhalalk | 3,514
+dailymirrorlk | 3,389
+adaderanasinhalalk | 3,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,733 (100.0%) of 21,737 articles have been extended.
+21,737 (100.0%) of 21,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+### එකම පවුලේ දරු දෙදෙනාට අකුණු සැර වැදිලා
+
+*2024-04-30 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196112) · `si`
+
+රත්තොට, වැල්ගාලයාය ප්‍රදේශයේ නිවසක සිටි සහෝදරයෙකුට හා සහෝදරියකට අකුණු සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (29) සවස් කාලයේදී ඇති වූ වර්ෂාව සමග අකුණු සැර වැදී ඇති බව පොලීසිය පවසයි.
+
+අකුණු සැර වැදී මියගොස් ඇත්තේ, වැල්ගාලයාය, රත්තොට ප්‍රදේශයේ පදිංචි 12 හැවිරිදි කුඩා දැරියක් හා 23 හැවිරිදි තරුණයෙකි.
+
+මෘත ශරීර රත්තොට රෝහලේ තැන්පත් කර ඇති අතර රත්තොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/80a8ffc2.json)
+
+---
+
+### An Int’l summit avoids Sri Lanka due to beggar menace in Colombo
+
+*2024-04-30 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/An-Intl-summit-avoids-Sri-Lanka-due-to-beggar-menace-in-Colombo/108-281625) · `en`
+
+Colombo, April 30 (Daily Mirror) - The decision to not hold the annual SMMT International Automotive Summit in Sri Lanka for 2025 was influenced by the prevalence of beggar menace at traffic lights in Colombo, Sri Lanka Automobile Association Secretary Devapriya Hettiarachchi yesterday said.
+
+Speaking to the media, he said that Sri Lanka hosted the Asia Pacific Region II meeting associated with the SMMT International Automotive Summit conference in Colombo in 2015, with 150 delegates in attendance. He further noted that a General Meeting took place in Rwanda, where Sri Lanka submitted a bid to host the SMMT International Automotive Summit conference in 2025..
+
+"The delegates who attended the meeting observed beggars soliciting at traffic lights within Colombo city limits, causing unpleasant experiences and significant traffic disruptions as they traveled to various locations in Colombo," he said.
+
+...
+
+[Data](articles/4f582876.json)
+
+---
+
+### Heavy taxes for public, duty free vehicles for MPs, senior officials?
+
+*2024-04-30 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Heavy-taxes-for-public-duty-free-vehicles-for-MPs-senior-officials/155-281624) · `en`
+
+Colmbo, April 30 (Daily Mirror) - Despite the public being heaped with tax burdens and a soaring cost of living, parliamentarians, along with public servants in the executive category, are set to get concessionary vehicle permits soon, the Daily Mirror learns.
+
+As many as 102 MPs out of the total 225 in the House had placed their signatures by yesterday on a letter submitted to Speaker Mahinda Yapa Abeywardena asking for permits to import vehicles under duty-free conditions. Many more are planning to join the request in the days to come.
+
+The MPs who served in the previous Parliaments received such permits. However, the MPs who were elected to the House at the 2020 General Election did not receive this benefit because of the economic crisis.
+
+...
+
+[Data](articles/52595439.json)
+
+---
+
+### Lankan students return after showcasing robotic skills
+
+*2024-04-30 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankan-students-return-after-showcasing-robotic-skills/110-281622) · `en`
+
+Sri Lankan students from the Burhani Serendib School in Colombo who participated in the International Creativity and Innovation Awards 2024 in Thailand arrived at the Bandaranaike International Airport (BIA) last night. These students won the Titanium Award (second highest) for their exceptional display in the field of robotics, at the finals held yesterday (28) while competing with 25 countries. Over 1,000 students representing 441 teams from four continents participated in the International competition. This is the first time Sri Lanka has competed in such a global event displaying their robotic skills. Pix by T.K.G. Kapila
+
+◼️
+
+[Data](articles/670e55d4.json)
+
+---
+
+### Heavy rains in several areas
 
 *2024-04-30 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196110) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වල අද (30) ප.ව. 1න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, Southern, North Western, and Uva provinces. Showers to occur at night or evening. Heavy rains (>50mm) in some areas. Public advised to take precautions against wind and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, සෙසු ප්‍රදේශවල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-එමෙන්ම බස්නාහිර, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවේ.
+Today, the Western, Sabaragamuwa, Central, Southern, Southern, North Western and Uva provinces today. Showers or thundershowers will occur at several places, about 1.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The department states that showers or thundershowers will occur at night or night in the evening.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Also in some places in the Western, Sabaragamuwa and Uva provinces. Heavy rains experience more than 50.
+
+The Department of Meteorology announces that in some places in the Central, Sabaragamuwa and Uva provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/39b3196a.json)
+
+[Extended Data](ext_articles/39b3196a.ext.json)
+
+---
+
+### Income tax payment methods limited
+
+*2024-04-30 05:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Income-tax-payment-methods-limited/108-281618) · `en`
+
+As per the recently issued gazette notification, the income tax payments can only be made using three methods.
+
+The methods are by depositing cash, depositing pay order or bank draft or by the use of Online Tax Payment Platform (OTPP).
+
+While previously tax payments may have been made by cheque, the recent gazette notification does not identify payments via this avenue as an accepted method.
+
+Accordingly, the income tax payments, including payment of taxes administrated under the Inland Revenue Department, will not be allowed to be made by cheque.
+
+However, the payment methods highlighted in the April 4 gazette only apply to the tax payments under the provisions of Inland Revenue Act No. 24 of 2017. That is for Corporate Income Tax, Personal Income Tax, Withholding Tax, Advance Personal Income Tax and Capital Gain Tax.
+
+The payments of other taxes such as Value Added Tax, Social Security Contribution Levy, Stamp Duty and others can continue to be paid by cheque.
+
+◼️
+
+[Data](articles/f14f076b.json)
+
+---
+
+### NPP accepts Daily Mirror invitation for political debate, Sajith’s confirmation awaited
+
+*2024-04-30 04:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-accepts-Daily-Mirror-invitation-for-political-debate-Sajiths-confirmation-awaited/108-281623) · `en`
+
+The National People's Power (NPP) yesterday accepted the official invitation for the political debate to be held by the Daily Mirror and Lankadeepa, with the three main presidential candidates while the Samagi Jana Balawegaya leader Sajith Premadasa is yet to confirm his participation.
+
+The Daily Mirror invitation was accepted by NPP General Secretary Tilvin Silva, who said that NPP leader Anura Kumara Dissanayake is ready for the debate and will attend.
+
+The Daily Mirror handed over the official invitation to the Opposition leader's office in Colombo and the team is still to receive his confirmation of participation. However by last evening, Premadasa’s office confirmed that Sajith Premadasa had received the invitation letter and had directed it to MP Nalin Bandara who is handling the affairs regarding the debates.
+
+The official invitation to President Ranil Wickremesinghe will be handed over soon.
+
+...
+
+[Data](articles/19ab1f0a.json)
+
+---
+
+### Sri Lankans rich in financial knowledge but poor in practice: CB
+
+*2024-04-30 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-rich-in-financial-knowledge-but-poor-in-practice-CB/108-281619) · `en`
+
+Stresses poor financial behaviour intensifies vulnerability of individuals to economic shocks
+
+Develops first-ever Financial Literacy Roadmap (2024-2028) to help improve financial behaviour
+
+But says, “Path ahead is fraught with challenges albeit promising opportunities awaiting to be optimised”
+
+The financial knowledge of Sri Lankans is at satisfactory levels when compared with the other countries but the island nation is lagging behind financial behaviour, the financial sector regulator, the Central Bank said.
+
+With the results of the Financial Literacy Survey highlighting more is to be done in improving financial behaviour in the country, the Central Bank asserted that this demands the “careful consideration” of the policymakers.
+
+Financial behaviour refers to the way a person manages his or her money, makes financial decisions and deals with financial issues.
+
+...
+
+[Data](articles/89bcfdad.json)
 
 ---
 
@@ -379,6 +509,22 @@ Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
 [Data](articles/999610aa.json)
 
 [Extended Data](ext_articles/999610aa.ext.json)
+
+---
+
+### மாமியாரைக் கொலை செய்த மருமகன் கைது
+
+*2024-04-29 23:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரைக்-கொலை-செய்த-மருமகன்-கைது/175-336535) · `ta`
+
+மொனராகலை நக்கல பலம ஹந்திய பிரதேசத்தில் வீடொன்றில் ஏற்பட்ட வாக்குவாதத்தின் போது மருமகன் கத்தியால் தாக்கியதில் மாமியார் உயிரிழந்துள்ளார். மனைவியும் காயமடைந்துள்ளார் என மொனராகலை பொலிஸார் தெரிவித்துள்ளனர்.
+
+நக்கல பகுதியைச் சேர்ந்த சேர்ந்த புஷ்பா குமாரி (வயது 44) என்ற பெண்ணே உயிரிழந்துள்ளார்.
+
+குடும்பப் பிணக்குக் காரணமாக ஏற்பட்ட தகராறில் இந்தக் கத்திக்குத்துச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/2877431a.json)
 
 ---
 
@@ -1987,177 +2133,5 @@ Against this comment, "Don't you know the story of a deceitful story with the na
 [Data](articles/cab48081.json)
 
 [Extended Data](ext_articles/cab48081.ext.json)
-
----
-
-### Arrested person with drugs released on bail
-
-*2024-04-29 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/182228) · `ta`
-
-A person arrested with heroin in Rambukkanai was released on bail for a 2022 shooting case. Special Action Soldiers were also arrested for 2017 and 2019 robberies.
-
-🟩
-
-A person who was released on bail has been arrested with heroin in the Makollawatte junction of Rambukkanai, police Special Task Force said.
-
-The 42 -year -old man from Rambukanai area has been arrested, police said.
-
-He was arrested and released on bail in connection with the shooting of two persons near the hotel in Ahungalla area in 2022.
-
-Meanwhile, Special Action Soldiers have been arrested on suspicion of robbing a van of the Kodakawela area in Embilipitiya in 2017 and the robbery of a vote of gemstone stones in the Ragama area and robbed a van worth Rs 78 lakh.
-
-In addition, 820 milligrams of heroin has been seized from the suspect and the Special Task Force has handed over the suspect to the Rambukkanai police for further investigations.
-
-◼️
-
-[Data](articles/99dd6ee4.json)
-
-[Extended Data](ext_articles/99dd6ee4.ext.json)
-
----
-
-### No sports skills considered for school admissions
-
-*2024-04-29 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-sports-skills-considered-for-school-admissions/108-281574) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Education Ministry has announced that government schools and government-approved private schools will no longer admit students to intermediate grades based on sports skills.
-
-They said the admission will strictly adhere to instructions outlined in the relevant circular.
-
-The Ministry has issued necessary instructions to principals in this regard.
-
-◼️
-
-[Data](articles/a1bf6265.json)
-
-[Extended Data](ext_articles/a1bf6265.ext.json)
-
----
-
-### The highest man of Sri Lanka is in Mullaitivu
-
-*2024-04-29 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/182252) · `ta`
-
-Gunasingham Gajendran, 7'2", lives in Mullaitivu, Sri Lanka. His height challenges include finding shoes locally, difficulty in three-wheelers, and long-distance travel.
-
-🟩
-
-Gunasingham Gajendran lives as the tallest man in Sri Lanka in Pudukkudiyiruppu, Mullaitivu.
-
-The tallest man lives in Sri Lanka. He is currently the tallest man in Sri Lanka because he is 7 feet 2 inches.
-
-The 45 -year -old father of two children is a three -wheeler driver. It is even difficult to sit in the three -wheeler because he is high.
-
-He has been forced to get countless problems due to his extraordinary height and that Sri Lanka has not been able to take the footwear in Sri Lanka, and they have been forced to get them from abroad.
-
-He said that if the bus was not available, it would be difficult to travel and that it was obliged to booking the seat if he was traveling long distances.
-
-◼️
-
-[Data](articles/258dc679.json)
-
-[Extended Data](ext_articles/258dc679.ext.json)
-
----
-
-### More steps need to improve Sri Lanka’s night economic activities to woo tourists: State Minister
-
-*2024-04-29 16:34:00* · [`economynextcom`](https://economynext.com/more-steps-need-to-improve-sri-lankas-night-economic-activities-to-woo-tourists-state-minister-160518/) · `en`
-
-ECONOMYNEXT – Sri Lanka has seen some improvements in night time economic activities, but more steps need to taken to attract tourists, State Tourism Minister Diana Gamage said.
-
-Gamage, since became the State Tourism Minister, has promoting night time economic activities to create more options for foreign visitors into the island nation.
-
-“Well I think so far I have achieved when it comes to the night time tourism,” Gamage told reporters at a media briefing on Monday (29) in Colombo.
-
-“It means street foods, bars which are being kept opened because now wine stores are opened till 10 o clock in the night instead of 9 o clock. Restaurant bars are allowed to be opened till 2 in the morning specially in the five-star hotels. But previously everybody had to shut at 11 o clock all the bars everywhere.”
-
-The idea is to improve the tax revenue through night time dining and entertainment, particularly from excise duties.
-
-...
-
-[Data](articles/913cb8cd.json)
-
-[Extended Data](ext_articles/913cb8cd.ext.json)
-
----
-
-### Free from the case of killing her pet
-
-*2024-04-29 16:33:41* · [`adalk`](https://www.ada.lk/breaking_news/තම-සුරතලා-මරා-දැමීමේ-නඩුවෙන්-නිදහස්/11-409325) · `si`
-
-The Attorney General advised the accused against defending a house in Migamuwa Kotiya, where a retired venture was allegedly killed. Senior Attorney General Nelstiyanayake led the defense.
-
-🟩
-
-The Attorney General's advice was the advice that the Attorpies had been given to the accused against a retired venture to defend a house in the covard that was allegedly assumed to be released against a retired venture.
-
-2020 Maeease 77 MIMOSED Available in the Migamuwa Kotiya, the Vesak Polaya area, was reported to the Suraratha and had a complaint that the Migamuwa Kotte had had been shot dead.
-
-Senior Attorney General Nelstiyanayake has led the Neelsi Kumarataka on behalf of the accused.
-
-◼️
-
-[Data](articles/83451af6.json)
-
-[Extended Data](ext_articles/83451af6.ext.json)
-
----
-
-### LECS unveils Construction Power and Energy Expo 2024
-
-*2024-04-29 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/LECS-unveils-Construction-Power-and-Energy-Expo-2024/110-281580) · `en`
-
-Lanka Exhibition and Conference Services (LECS) today announced the return of Sri Lanka's most focused construction, interior products, lighting, power and energy exhibition - the 'Construction Power and Energy Expo 2024'. The Exhibition is scheduled to be held from July 5 to 7 at the BMICH, Colombo. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/24d3506f.json)
-
-[Extended Data](ext_articles/24d3506f.ext.json)
-
----
-
-### A tragedy of Kenya
-
-*2024-04-29 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196098) · `si`
-
-In West Kenya, heavy rains caused a dam to break near Kampachiri village, leading to floods that killed about 40 people and destroyed many houses. Over the past month, more than 100 people have died due to emergency water issues in Kenya.
-
-🟩
-
-It is reported that about 40 people have died due to floods caused by heavy rains.
-
-A dam had broken near the Kampachiri village in West Kenya, where many houses had been destroyed.
-
-In the past month, more than 100 people have been killed due to the emergency water in Kenya.
-
-◼️
-
-[Data](articles/a6f5c712.json)
-
-[Extended Data](ext_articles/a6f5c712.ext.json)
-
----
-
-### Advisory issued for severe lightning in parts of the island
-
-*2024-04-29 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98918/advisory-issued-for-severe-lightning-in-parts-of-the-island) · `en`
-
-The Meteorology Department warns that thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Southern, Sabaragamuwa, Uva, North-western and North-central provinces and in and Mannar district.
-
-There may be temporary localized strong winds during thundershowers, the Met. Department said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/24ebe63b.json)
-
-[Extended Data](ext_articles/24ebe63b.ext.json)
 
 ---

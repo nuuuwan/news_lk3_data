@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 08:18:30**
+As of **2024-04-30 08:34:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,520
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,750 (100.0%) of 21,756 articles have been extended.
+21,756 (100.0%) of 21,756 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,29 +50,37 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/73fad274.json)
 
+[Extended Data](ext_articles/73fad274.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයක් - ජීවිත 4ක් බිලිගනී
+### Several fatal accidents - 4 lives kills
 
 *2024-04-30 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196117) · `si`
 
-සෙවනගල හන්දිය, ගිනිගල්පැලැස්ස ප්‍රදේශයේදී සිදුවූ යතුරුපැදි අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+Four lives lost in Sevanagala Junction motorcycle accident. Two identified as 29 and 35, residents of Senewagala. Another accident near Avissawella-Colombo road, and a 40-year-old woman in Jaffna-Kandy main road.
+
+🟩
+
+Two persons were killed in a motorcycle accident in the Sevanagala Junction, Sevanagala Junction.
 
 ඊයේ (29) රාත්‍රී කාලයේදී එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
 
-සෙවනගල හන්දිය දෙස සිට ගිනිගල්ලපැලැස් දෙසට ධාවනය වූ යතුරුපැදික ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී එම අනතුර සිදුව තිබිණි.
+The accident had occurred at the Sevanagala Junction to a motorcycle who was traveling from the Sevanagala Junction to Ginigallawawalaas.
 
-එලෙස මියගොස් ඇත්තේ, සෙවනගල ප්‍රදේශයේ පදිංචි 35 හැවිරිදි හා 46 හැවිරිදි පුද්ගලයින් දෙදෙනෙකි.
+The deceased have been identified as 35 year old and 46 year old residents of Senewagala.
 
-මේ අතර අවිස්සාවේල්ල - කොළඹ මාර්ගයේ රක්ෂපාන හන්දිය අසලදී මෝටර් රථයක් යතුරුපැදියක මුහුණට මුහුණ ගැටී සිදුවූ අනතුරකින් 34 හැවිරිදි පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව ඇත.
+Meanwhile, a car has died near a motorcycle near the face of a motorcycle near the Avissawella-Colombo-Colombo-Colombo-Colombo road.
 
-මේ අතර යාපනය - මහනුවර ප්‍රධාන මාර්ගයේ කවුඩුපැලැල්ල ප්‍රදේශයේදී සිදුවූ රිය අනතුරුකින් 40 හැවිරිදි කාන්තාවක් මියගොස් තිබේ.
+Meanwhile, a 40-year-old woman was killed in a road accident in Jaffna-Kandy main road.
 
-ඊයේ උදෑසන බස් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි යතුරුපැදියක ගැටී එම අනතුර සිදුව ඇත.
+The accident occurred last morning a motorcycle on the opposite of the bus.
 
 ◼️
 
 [Data](articles/5a9a922f.json)
+
+[Extended Data](ext_articles/5a9a922f.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ They are expected to be produced before the Colombo Chief Magistrates Court late
 ◼️
 
 [Data](articles/c34bb6cf.json)
+
+[Extended Data](ext_articles/c34bb6cf.ext.json)
 
 ---
 
@@ -342,19 +352,25 @@ The official invitation to President Ranil Wickremesinghe will be handed over so
 
 ---
 
-### வவுனியா ஏ9 வீதியில் மது போதையில் தனியார் பேருந்தை செலுத்திய சாரதி கைது
+### Driver arrested for driving a private bus while intoxicating on A9 road in Vavuniya
 
 *2024-04-30 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182277) · `ta`
 
-வவுனியா, ஏ9 வீதியில் மது போதையில் தனியார் பேருந்தை செலுத்திய சாரதி ஒருவர் ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக வவுனியா, போக்குவரத்து பொலிசார் தெரிவித்தனர்.
+A driver on the A9 road in Vavuniya was arrested for driving a private bus while intoxicated. The bus was detained at the Vavuniya Police Station, and the driver is scheduled to appear in court.
 
-வவுனியா தலைமைப் பொலிஸ் பிரிவுக்குட்ட பகுதியில் போக்குவரத்து பொலிசார் விசேட சோதனை நடவடிக்கைகளை முன்னெடுத்த போது ஏ9 வீதியில் பயணித்த தனியார் பேருந்து ஒன்றின் சாரதி மது போதையில் பேருந்தை செலுத்தியமை கண்டு பிடிக்கப்பட்டது.
+🟩
 
-இதனையடுத்து பேருந்து சாரதி கைது செய்யப்பட்டுள்ளதுடன், பேருந்தும் வவுனியா பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளது. மேலதிக விசாரணைகளின் பின் சாரதியை நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிசார் தெரிவித்தனர்.
+A driver who was driving a private bus on the A9 road in Vavuniya, has been arrested on Sunday (29), Vavuniya and Traffic Police said.
+
+A driver of a private bus traveling on the A9 road was found to be driving a bus when traffic police carried out special raids in the Vavuniya Chief Police Division.
+
+The bus driver has been arrested and the bus has been detained at the Vavuniya Police Station. Police said that after further investigations, the driver had taken steps to appear in court.
 
 ◼️
 
 [Data](articles/3f7dfca4.json)
+
+[Extended Data](ext_articles/3f7dfca4.ext.json)
 
 ---
 
@@ -1326,21 +1342,27 @@ Dr. Premadasa, Dr. Premadasa, the father of Mrs. Veteran singer Samaika Mudungot
 
 ---
 
-### சனிக்கிழமையன்று இலங்கை வருகிறார் ஜப்பான் வெளிவிவகார அமைச்சர்
+### Japan's Foreign Minister arrives in Sri Lanka on Saturday
 
 *2024-04-29 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182266) · `ta`
 
-ஜப்பான் வெளிவிவகார அமைச்சர் யொகோ கமிகவா இருநாள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு எதிர்வரும் 4 ஆம் திகதி இலங்கைக்கு வருகைதரவிருப்பதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Japan's Foreign Minister Yogo Kamikawa visited Sri Lanka from 4th to 5th, meeting President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena. Discussions focused on Sri Lanka's economic recovery, Japan's debt assistance, and strengthening bilateral relations.
 
-நாட்டில் 4 - 5 ஆம் திகதிவரை தங்கியிருப்பதற்கு உத்தேசித்துள்ள அவர், இதன்போது ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் பிரதமர் தினேஷ் குணவர்தன ஆகியோரை மரியாதை நிமித்தம் சந்திக்கவுள்ளார்.
+🟩
 
-அதனைத்தொடர்ந்து ஜப்பானிய வெளிவிவகார அமைச்சர் யொகோ கமிகவா தலைமையிலான குழுவினர் வெளிவிவகார அமைச்சர் அலி சப்ரியுடன் இருதரப்பு கலந்துரையாடல்களில் ஈடுபடவுள்ளனர்.
+Japan's Foreign Minister Yogo Kamikawa has made a two -day official visit to Sri Lanka on the 4th of this month.
 
-இதன்போது இலங்கையின் பொருளாதார மீட்சிக்கான உதவிகள், கடன்மறுசீரமைப்பு செயன்முறையில் ஜப்பானின் ஒத்துழைப்பு, இருதரப்பு நல்லுறவை மேலும் வலுப்படுத்தல் உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் விரிவாக ஆராயப்படுமென எதிர்பார்க்கப்படுகின்றது.
+He intends to stay in the country from 4 to 5 and will meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena for honor.
+
+Subsequently, a delegation led by Japanese Foreign Minister Yogo Kamikawa will engage in bilateral discussions with Foreign Minister Ali Sabri.
+
+It is expected that the assistance of Sri Lanka's economic recovery, Japan's cooperation in the debt processing process, and the further strengthening of bilateral harmony are expected.
 
 ◼️
 
 [Data](articles/7556629f.json)
+
+[Extended Data](ext_articles/7556629f.ext.json)
 
 ---
 
@@ -1602,21 +1624,31 @@ Accordingly, the Police Media Division has released detailed maps of road closur
 
 ---
 
-### අධිකරණ ඇමතිගෙන් අධිකරණයට පෙත්සමක්
+### Minister of Justice Petroleum Court
 
 *2024-04-29 19:16:25* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඇමතිගෙන්-අධිකරණයට-පෙත්සමක්/11-409332) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළකාලමින් කොළඹ දිසා අධිකරණය නිකුත්කර ඇති වාරණ නියෝගය විසුරුවා හරින්නැයි ඉල්ලා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගොනු කළ ප්‍රතිශෝධන පෙත්සම ලබන 02 වැනිදා කැඳවීමට අභියාචනාධිකරණය අද (29) නියම කළේය.
+The Court of Appeal in Sri Lanka, led by Judge DM Samarakoon, reviewed a Memorial Petition. Wijayadasa Rajapakse, Minister of Justice, argued he had been notified of a District Court injunction. The petition was filed against Sri Lanka Freedom Chairman Lasantha Alagiyawanna and Wijayadasa Rajapaksa, with respondents including Mahinda Amaraweera and MP Duminda Dissanayake. Dr. Romesh de Silva, representing the petitioner, claimed ignorance of the injunction. The court ordered a hearing on May 2.
 
-දිසා අධිකරණයෙන් තමන්ට එරෙහිව ලබාගත් තහනම් නියෝගය පිළිබඳව මෙතෙක් කිසිදු දැනුම් දීමක් කර නොමැති බවත් ඒ පිළිබඳව තමන් දැනගත්තේ මාධ්‍ය තුළින් බවත් කියමින් අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ඉදිරිපත් කළ කරුණු සළකා බැලීමෙන් අනතුරුව එලෙස නියයම කළේය.
+🟩
 
-අභියාචනාධිකරණ විනිසුරු ඩී.එම් සමරකෝන් මහතා මෙම ප්‍රතිශෝධන පෙත්සම සලකා බැලීණි.
+The Court of Appeal was appointed to summoned the Memorial Petition to the Hon.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩ බලන සභාපති අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකරුවන් ලෙස ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභිකයන් වන ලසන්ත අලගියවන්න, මහින්ද අමරවීර, පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක නමැත්තන් නම් කර ඇත.
+After considering the proceedings of the Justice of Justice, Wijayadasa Rajapakse made the right to consider that he had notified the injunction of the District Court.
 
-...
+Court of Appeal Judge DM Samarakoon was considered the review of the revision.
+
+Sri Lanka Freedom Chairman Lasantha Alagiyawanna, Minister of Sri Lanka Freedom Chairman Wijayadasa Rajapaksa, has been named as respondents, Mr. Mahinda Amaraweera and MP Duminda Dissanayake.
+
+When considering the petition, Dr. Romesh de Silva, who appeared on behalf of the petitioner, said that he learned of this injunction and none of the documents.
+
+Considering the facts, the court sentenced to be called on May 2 to ensure the petition.
+
+◼️
 
 [Data](articles/6003db28.json)
+
+[Extended Data](ext_articles/6003db28.ext.json)
 
 ---
 

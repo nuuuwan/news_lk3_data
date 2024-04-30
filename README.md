@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 18:11:06**
+As of **2024-04-30 18:23:03**
 
 ## Newspaper Stats
 
-*Scraped **21,898** Articles*
+*Scraped **21,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,835
+adalk | 1,836
 tamilmirrorlk | 2,542
 adaderanalk | 2,593
 virakesarilk | 3,302
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,896 (100.0%) of 21,898 articles have been extended.
+21,898 (100.0%) of 21,899 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -341,6 +341,20 @@ Also, did the girl automatically consume pills that reduce blood pressure?Or did
 [Data](articles/244a4ae6.json)
 
 [Extended Data](ext_articles/244a4ae6.ext.json)
+
+---
+
+### ගජ මුතු 05 රුපියල් කෝටි 7යි ලක්ෂ 20 කට
+
+*2024-04-30 16:14:13* · [`adalk`](https://www.ada.lk/breaking_news/ගජ-මුතු-05-රුපියල්-කෝටි-7යි-ලක්ෂ-20-කට/11-409347) · `si`
+
+නිධානයක් හාරා ලබා ගත්  මිල කළ නොහැකි අති දුර්ලභ වර්ගයේ ගජ මුතු 05 රුපියල් මිලියන 72 කට අලෙවි කිරීම ට සූදානම් වු පුද්ගලයන් 4 දෙනකු අත් අඩංගුවට ගත් බව ජාඇල පොලීසිය පවසයි.
+
+ඉකුත් 29 දින ජාඇල පොලිස් විශේෂ කාර්යාංශයට ගජ මුතු තොගයක් විකිණීමට කන්ඩායම ක් සුදානම් වන බවට ලද තොරතුරක් මත ජාඇල කෝට්ටාශ බුද්ධි අංශයේ නිලධාරියකු උපාය දූතයකු ලෙස පෙනී සිටිමින් තුඩැල්ල රුක්මණී දේවී ස්මාරකය අසලදී ගජ මුතු රැගෙන පැමිණි පුද්ගලයන් 04 දෙනකු සමඟ ග්‍රෑම් 91 මිලි ග්‍රෑම් 690 ක් බර ගජ මුතු 05 අත් අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/ed3f122e.json)
 
 ---
 
@@ -1760,23 +1774,29 @@ From September 2020 to January 2021, Vamadevan telephoned the woman and used her
 
 ---
 
-### සජිත්ට ඇති කැමැත්ත ඉහළ යද්දි අනුරට ඇති කැමැත්ත පහළට
+### The whatever the willingness to the Sajith's willing will go down
 
 *2024-04-30 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-ඇති-කැමැත්ත-ඉහළ-යද්දි-අනුරට-ඇති-කැමැත්ත-පහළට/11-409341) · `si`
 
-ශ්‍රි ලංකාවේ ජනපතිවරණ ඡන්ද ප්‍රකාශ කිරිමේ අභිප්‍රාය අනුව මාර්තු මාසයේදි විපක්ෂනායක සජිත් ප්‍රේමදාස මහතාට ඇති ජනතා හිතකරත්ව සියයට 2කින් ඉහළ ගොස් තිබේ.
+Sajith Premadasa's support for the Sri Lankan Presidential election has decreased by 2%, while Anura Kumara Dissanayake's national power promotion has been credited. By March, 44% of people supported Sajith, with Ranil Wickremesinghe's support at 7%.
 
-කෙසේ වෙතත් ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතාට ඇති හිතකරත්වය සියයට 2කින් අඩුවි තිබිම කැපි පෙනෙන සාධකයකි.
+🟩
 
-කෙසේ වෙතත් මාර්තු මාසය වන විට අනුර කුමාර මහතාට ජනතාවගෙන් සියයට 44ක ප්‍රතිශතකයක් කැමැත්ත ප්‍රකාශ කර ඇති අතර සජිත් ප්‍රේමදාස මහතාට සියයට 41ක ප්‍රතිශතකයක කැමැත්ත හිමිව තිබේ.
+Opposition Leader Sajith Premadasa has increased by 2 percent in March according to the intention of Presidential election vote in Sri Lanka.
 
-වත්මන් ජනපති රනිල් වික්‍රමසිංහ මහතාට ජනතාවගෙන් සියයට 8ක කැමැත්ත ප්‍රකාශ වි ඇති අතර ශ්‍රි ලංකා පොදුජන පෙරමුණෙනි අපේක්ෂකයෙක් ඉදිරිපත් කරන්නේ නම් ඔහුට හෝ ඇයට සියයට 7ක කැමැත්තක් ප්‍රකාශ කර තිබේ.
+However, the favorable to leader of the national promote national power Anura Kumara Dissanayake is a credited factor.
 
-සෞඛ්‍ය ප්‍රතිපත්ති අධ්‍යන ආයතනය විසින් මෙම සමික්ෂණ ප්‍රතිඵල නිකුත් කර තිබේ.
+However, by March, 44 percent of the people have consented a percentage of the people and Sajith Premadasa has won 41 percent.
+
+Ranil Wickremesinghe has paid the will of the present President and the Sri Lankan General Front Candidate has expressed his will for 7 percent.
+
+The results have been released by the Health Policy Study of Health.
 
 ◼️
 
 [Data](articles/9870c7b1.json)
+
+[Extended Data](ext_articles/9870c7b1.ext.json)
 
 ---
 
@@ -2070,19 +2090,25 @@ It is noteworthy that the department has warned that strict legal action will be
 
 ---
 
-### මැයි රැළිවලට ඩ්‍රෝන භාවිත කරනවානම් අවසර ගන්න
+### If May the Dronds are used in May
 
 *2024-04-30 11:16:37* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ඩ්‍රෝන-භාවිත-කරනවානම්-අවසර-ගන්න/11-409339) · `si`
 
-මැයි දින රැළි හා පෙළපාලි ආවරණය කිරිමට ඩ්‍රෝන යානා භාවිත කරන්නේ නම් ඒ ස﻿ඳහා නිසි අවසර ලබා ගත යුතු බව පොලිස් මූලස්ථානය කියයි.
+Police Headquarters confirms the use of drones for May Day events, including parades and waves, and notes their relevance across the island.
 
-අනවසරයෙන් ඩ්‍රෝන යානා භාවිත කිරිම නිති විරෝධි බවත් ඒ අනුව එසේ සිදුකරන තැනැන්තන් අත්අඩංගුවට ගන්නා බවත් පොලිස් මූලස්ථානය පවසයි.
+🟩
 
-එසේම දිවයින පුරා පැවැත්වෙන මැයි රැළි වෙනුවෙන් මෙම ක්‍රියාමාර්ගය අදාළ බවද පොලිස් මූලස්ථානය වැඩිදුරටත් පවසයි.
+Police Headquarters say that if the drones are used to cover May Day waves and parades, police headquarters said.
+
+Police Headquarters says that the use of drones is the use of drones, according to the police headquarters.
+
+The program is also relevant for May wrinkles island wide, police headquarters.
 
 ◼️
 
 [Data](articles/cfddef79.json)
+
+[Extended Data](ext_articles/cfddef79.ext.json)
 
 ---
 
@@ -2261,25 +2287,5 @@ However, the Court of Appeal will be postponed until May 07th. Mr. Samarakoon an
 [Data](articles/292a6837.json)
 
 [Extended Data](ext_articles/292a6837.ext.json)
-
----
-
-### Software Engineering graduate arrested with Asshish and Kush drug
-
-*2024-04-30 10:36:59* · [`adalk`](https://www.ada.lk/breaking_news/අෂීෂ්-හා-කුෂ්-මත්ද්‍රව්‍ය-සමග-මෘදුකාංග-ඉංජිනේරු-උපාධිධාරියෙකු-අත්අඩංගුවට/11-409338) · `si`
-
-A 25-year-old software engineering graduate from Maharagama was arrested by the Army Intelligence in Colombo South for drug trafficking, with 88g of Ashes, 238g of Ashes, and 90g of Kash drugs found.
-
-🟩
-
-According to a raid of the Army Intelligence, the Colombo South Crimes Division was transported to a 25 year old software engineering, Maharagama, Maharagama and Razhey.
-
-A sum of Rs. 88 grams of Ashes and 238 grams of Ashes, 90 grams of Kash drugs and the drug trafficking were recovered from the Colombo South Crimes Division.
-
-◼️
-
-[Data](articles/33e0a7bb.json)
-
-[Extended Data](ext_articles/33e0a7bb.ext.json)
 
 ---

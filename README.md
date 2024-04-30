@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 04:03:43**
+As of **2024-05-01 04:18:34**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,952 (100.0%) of 21,954 articles have been extended.
+21,954 (100.0%) of 21,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### மலையகத்தில் ஏட்டிக்கு போட்டியாக ரணில் - சஜித்தின் மே தினக் கூட்டங்கள் பெருந்தோட்டத் தொழிலாளர்களுக்கு காத்திருக்கும் ஜனாதிபதியின் விசேட அறிவிப்பு
+### Ranil - Sajith's May Day meetings to compete in the hill country
 
 *2024-05-01 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/182373) · `ta`
 
-சர்வதேச தொழிலாளர் தினமான இன்று நாட்டின் பல பகுதிகளிலும் அரசியல் கட்சிகள், தொழிற்சங்கங்களினால் பாரிய மே தினக் கூட்டங்கள் ஏற்பாடு செய்யப்பட்டுள்ளன. இம்முறை ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச ஆகிய இருவரும் மலையகத்தில் இடம்பெறும் மே தினக் கூட்டங்களில் பங்கேற்கவுள்ளமை விசேட அம்சமாகும்.
+"May Day meetings across Sri Lanka feature political leaders, including President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa, addressing pay issues and future plans for plantation workers. Major parties hold events in Colombo and hill country, with announcements expected on elections and presidential candidates."
 
-அந்த வகையில் இலங்கை தொழிலாளர் காங்ரஸ் கொட்டகலை மைதானத்தில் ஏற்பாடு செய்துள்ள மே தினக் கூட்டத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதம அதிதியாகக் கலந்து கொள்ளவுள்ளார். முற்பகல் 10 மணிக்கு ஆரம்பமாகவுள்ள இக்கூட்டத்துக்கு நாடளாவிய ரீதியிலிருந்து பேரூந்துகள் மூலம் மக்கள் அழைத்து வரப்படவுள்ளனர். இதன் போது தற்போது பேசுபொருளாகியுள்ள பெருந்தோட்டத் தொழிலாளர்களின் சம்பள பிரச்சினை குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட அறிவிப்பொன்றை வெளியிடவுள்ளார்.
+🟩
+
+International Labor Day Today, massive May Day meetings have been organized by political parties and trade unions in many parts of the country. This time, President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa will attend the May Day meetings in the hill country.
+
+President Ranil Wickremesinghe will be the chief guest at the May Day meeting organized by the Ceylon Workers' Kangras Kotagala Ground.. The meeting, which begins at 10 am, is to be brought from the country to the bus.. President Ranil Wickremesinghe will issue a special announcement on the pay issue of plantation workers who are currently speaking.
+
+Opposition leader Sajith Premadasa will attend the May Day meeting organized by the Tamil Progressive Alliance in Talawakelle. Opposition Leader Sajith Premadasa will announce his future plan for plantation workers at the meeting, which will be held with the participation of supporters of the Tamil Progressive Alliance in Nuwara Eliya district.
 
 ...
 
 [Data](articles/9e311c49.json)
+
+[Extended Data](ext_articles/9e311c49.ext.json)
 
 ---
 
@@ -208,21 +216,29 @@ The highlight is that this day has been declared an official holiday in many cou
 
 ---
 
-### ரத்துபஸ்வல தீர்ப்பு ஒத்திவைப்பு
+### Adjournment
 
 *2024-05-01 00:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்துபஸ்வல-தீர்ப்பு-ஒத்திவைப்பு/175-336584) · `ta`
 
-சுத்தமான குடிநீருக்காக ஆர்ப்பாட்டத்தில் ஈடுபட்ட ரத்துபஸ்வல பிரதேசவாசிகள் மீது துப்பாக்கிச் சூடு நடத்தி 3 பேர் கொல்லப்பட்டதுடன் 45 பேர் காயமடைந்த சம்பவம் தொடர்பிலான தீர்ப்பு ஒத்திவைக்கப்பட்டுள்ளது.
+The Gampaha Special High Court postponed the verdict for a case involving an army brigadier and three soldiers accused of killing three people and injuring 45, due to a demonstration for clean drinking water on August 1, 2013, where security forces fired on protesters.
 
-சம்பவத்தில், குற்றம் சுமத்தப்பட்ட இராணுவ பிரிகேடியர் உள்ளிட்ட மூவருக்கு எதிரான தீர்ப்பை எதிர்வரும் 17 ஆம் திகதி அறிவிக்க கம்பஹா விசேட மூவரடங்கிய மேல் நீதிமன்ற அமர்வு செவ்வாய்க்கிழமை (30)  தீர்மானித்துள்ளது.
+🟩
 
-குறித்த வழக்கு   செவ்வாய்க்கிழமை (30)  எடுத்துக்கொள்ளப்பட்ட வேளை, வழக்கின் தீர்ப்பு எதிர்வரும் 17ஆம் திகதி அறிவிக்கப்படுமென  கம்பஹா மேல் நீதிமன்ற நீதிபதி  சஹான் மாபா பண்டார அறிவித்தார்.
+Three people were killed and 45 injured have been postponed.
 
-இதன்படி, குற்றஞ்சாட்டப்பட்ட இராணுவ பிரிகேடியர் மற்றும் நீதிமன்றத்தில் ஆஜராகியிருந்த மூன்று இராணுவத்தினரையும் அன்றைய தினம் நீதிமன்றத்தில் ஆஜராகுமாறு நீதிபதி கட்டளையிட்டார்.
+The Gampaha Special High Court on Tuesday (30) decided to announce the verdict against the trio, including the army brigadier who was accused of the alleged military Brigadier.
 
-...
+Gampaha High Court Judge Sahan Maba Bandara announced that the case was taken up on Tuesday (30).
+
+Accordingly, the judge ordered the accused Army Brigadier and the three soldiers who were present in court.
+
+People from the Weliweriya Rathupaswala village landed on the streets of Rathupaswala village on August 1, 2013 to take steps to provide clean drinking water.. On the demonstration, the security forces were fired.
+
+◼️
 
 [Data](articles/a9a13f5e.json)
+
+[Extended Data](ext_articles/a9a13f5e.ext.json)
 
 ---
 

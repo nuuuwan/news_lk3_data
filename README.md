@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 21:34:22**
+As of **2024-04-30 21:53:28**
 
 ## Newspaper Stats
 
-*Scraped **21,918** Articles*
+*Scraped **21,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,74 @@ adalk | 1,839
 tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,305
-dailymirrorlk | 3,420
+dailymirrorlk | 3,422
 adaderanasinhalalk | 3,547
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,917 (100.0%) of 21,918 articles have been extended.
+21,918 (100.0%) of 21,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ඉන්ධන මිල වෙනස් වෙයි
+### Fuel prices reduced from tonight
+
+*2024-04-30 21:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-reduced-from-tonight/108-281674) · `en`
+
+Colombo, April 30 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to reduce its fuel prices with effect from tonight.
+
+Accordingly, a litre of Lanka Petrol 92 Octane Euro 4 (Rs. 371) has been reduce by Rs. 3, and its new retail price will be Rs. 368.
+
+A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 440) has been reduce by Rs. 20, and its new retail price will be Rs. 420.
+
+A litre of Lanka Auto Diesel (Rs.363) has been reduce by Rs.30, and its new retail price will be Rs.333.
+
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 386) has been reduced by Rs. 9, and its new retail price will be Rs. 377.
+
+A litre of Lanka Kerosene (Rs. 245) has been reduced by Rs. 30 and its new retail price will be Rs. 215.
+
+◼️
+
+[Data](articles/1d4ba062.json)
+
+---
+
+### Vehicle imports can ease before elections for political gain: Merinchige
+
+*2024-04-30 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-imports-can-ease-before-elections-for-political-gain-Merinchige/108-281671) · `en`
+
+Colombo, April 30 (Daily Mirror) - Vehicle imports may be relaxed either before January next year or before the elections, potentially for political gain during the upcoming election period, Vehicle Importers Association of Lanka (VIAL) President Indika Sampath Merinchige said.
+
+Addressing the media, he said the vehicle imports are for the process of gaining political advantages.
+
+"When making decisions regarding the resumption of vehicle imports, all responsible individuals must convene around a single table to discuss the matter. Therefore, the government, instead of unilaterally taking decisions, should involve other responsible parties and consider their input," Merinchige said.
+
+"The Finance Ministry, Sri Lanka Customs, Motor Traffic Department, government vehicle importers, private importer associations, the Attorney General's Department and the Minister responsible should convene at a single table to discuss the issues," he said.
+
+...
+
+[Data](articles/e989db83.json)
+
+---
+
+### Fuel prices vary
 
 *2024-04-30 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196144) · `si`
 
-අද (30) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Fuel prices revised from midnight today (30).
+
+🟩
+
+Fuel prices have been revised from midnight today (30).
 
 ◼️
 
 [Data](articles/7c2764bc.json)
+
+[Extended Data](ext_articles/7c2764bc.ext.json)
 
 ---
 
@@ -2231,47 +2277,5 @@ However, this has long been considered as a violation of human rights with artic
 [Data](articles/8760c073.json)
 
 [Extended Data](ext_articles/8760c073.ext.json)
-
----
-
-### Attack on Harry Potter House
-
-*2024-04-30 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196129) · `si`
-
-Russian attack on 'Harry Phil' House in Ukraine damaged, killing 4 and injuring 32. House was Law College of Odeza.
-
-🟩
-
-Russian attack on a mansion in Oddress, as well known as the 'Harry Phil' House 'in Ukraine, has been severely damaged.
-
-Four persons were killed and 32 others suffered injuries.
-
-The house has been used as the Law College of Odeza, former Ukrainian lawyer.
-
-◼️
-
-[Data](articles/62e597bf.json)
-
-[Extended Data](ext_articles/62e597bf.ext.json)
-
----
-
-### Inspection of conflict conflict in Menikhinna Hospital
-
-*2024-04-30 11:51:17* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්හින්න-රෝහලේ-ගැටුම-ගැන-පරික්ෂණයක්/11-409340) · `si`
-
-Governor Lalith U Gamage ordered an investigation into a conflict at Menikhinna Hospital in Kandy, involving admitted patients. Police and health officials were urged to promptly investigate the incident.
-
-🟩
-
-Governor Lalith U Gamage, the Governor of the Central Province informed the authorities to conduct an impetus for the conflict between the people who were admitted to the Menikhinna Hospital in Kandy.
-
-The police and health officials advised the police and health officials to promptly investigate the accelerated incident.
-
-◼️
-
-[Data](articles/07b5a8ab.json)
-
-[Extended Data](ext_articles/07b5a8ab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 02:51:38**
+As of **2024-05-01 03:03:43**
 
 ## Newspaper Stats
 
-*Scraped **21,943** Articles*
+*Scraped **21,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,547
+tamilmirrorlk | 2,549
 adaderanalk | 2,597
 virakesarilk | 3,309
 dailymirrorlk | 3,425
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,943 (100.0%) of 21,943 articles have been extended.
+21,943 (100.0%) of 21,945 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,40 @@ In other words we have a huge gap between the number of candidates attempting to
 ---
 
 ### 2024-04-30 (Tuesday)
+
+### தொழுநோயாளர்கள் நால்வர் சிக்கினர்
+
+*2024-04-30 23:56:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழுநோயாளர்கள்-நால்வர்-சிக்கினர்/175-336582) · `ta`
+
+காரைதீவு சுகாதார வைத்திய அதிகாரி பிரிவின் கீழ் வெட்டு வாய்க்கால் பகுதியில்  தொழுநோய் கள ஆய்வு செவ்வாய்க்கிழமை (30)  நடாத்தப்பட்டது.
+
+காரைதீவு சுகாதார உணவு அதிகாரி டாக்டர் தஸ்லிமா பஷீர் தலைமையிலான சுகாதார குழுவினர்  அப்பகுதியில் வீடு வீடாக விஜயம் செய்து ஆய்வு செய்தனர். இதில், பொதுச் சுகாதார பரிசோதகர்கள், தொழுநோய் கட்டுப்பாட்டு கள உத்தியோகத்தர்கள் கலந்து கொண்டனர்.
+
+இதன் போது ஏலவே இனங்காணப்பட்ட நான்கு தொழுநோயாளர்களுக்கு உரிய சிகிச்சை வழங்குவதற்கான  நடவடிக்கையும் ஆலோசனையும் மேற்கொள்ளப்பட்டது. அவர்கள் உரிய சிகிச்சை பெறாமல் இருந்து வந்தமை அவதானிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/6e6e24a2.json)
+
+---
+
+### தேசிக்காய் விலை எகிறியது
+
+*2024-04-30 23:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிக்காய்-விலை-எகிறியது/175-336581) · `ta`
+
+தம்புள்ளை பொருளாதார மத்திய நிலையத்திற்கு கிடைத்த மரக்கறிகளின் மொத்த விலை வீழ்ச்சியடைந்த போதிலும், தேசிக்காய் மற்றும் பச்சை இஞ்சியின் மொத்த விலை வேகமாக அதிகரித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதன்படி, ஒரு கிலோ கிராம் தேசிக்காய் 1,000 ரூபாய் முதல் 1,200 ரூபாய் வரையில் விற்பனை செய்யப்படுவதாக அங்குள்ள வர்த்தகர்கள் சுட்டிக்காட்டுகின்றனர்.
+
+மேலும், ஒரு கிலோ கிராம் பச்சை இஞ்சி தற்போது 3,000 ரூபாய் முதல் 3,200 ரூபாய் வரை அதிக விலைக்கு விற்பனை செய்யப்படுதாக தெரிவிக்கப்படுகின்றன.
+
+எவ்வாறாயினும், தம்புள்ளை பொருளாதார மத்திய நிலையத்திற்கு அதிகளவு மரக்கறிகள் கையிருப்பில் உள்ள போதிலும் நுகர்வோர் அவற்றை கொள்வனவு செய்வதற்கு அங்கு வராத நிலை காணப்படுவதாக பொருளாதார நிலையத்தின் வர்த்தகர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/260fc51d.json)
+
+---
 
 ### Request to recover the landed land
 
@@ -2209,53 +2243,5 @@ Such losses in the past have led the government to borrow more before an unprece
 [Data](articles/04abe9b8.json)
 
 [Extended Data](ext_articles/04abe9b8.ext.json)
-
----
-
-### SJB General Secretary slams dissident
-
-*2024-04-30 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-General-Secretary-slams-dissident/108-281654) · `en`
-
-Colombo, April 30 (Daily Mirror) - Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara today hit out at the party's Organizer Gamini Vijith Vijithamuni Soysa who has been critical of the party leadership lately.
-
-Former MP Soysa was reported to have complained that he has been sidelined by the SJB leadership.
-
-“Soysa was given the Katana organider’s post but he has proven to be a failure. He has been a failure in Moneragala as well,” he added.
-
-Meanwhile, Bandara expressed his uncertainty on the participation of SJB Chairman Sarath Fonseka at its May Day rally tomorrow.
-
-“Field Marshal Fonseka might participate in our rally and the procession. However, don’t talk about him now,” he told journalists.
-
-◼️
-
-[Data](articles/6127f466.json)
-
-[Extended Data](ext_articles/6127f466.ext.json)
-
----
-
-### Houthi commemorators spreads again
-
-*2024-04-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196132) · `si`
-
-Houthi commemorators attacked by four vessels in the Indian Ocean and Red Sea, including a drone transport ship owned by Zodiac Maritime, in response to Israel's attacks on Palestine.
-
-🟩
-
-International media reports that four vessels in the Indian Ocean and Red Sea have attacked the attack on Yemen's rebels.
-
-The names of the Indian Ocean was launched a drone transport ship.
-
-Houthi Relters Says Israel tells that Israel and relationships are attacked in response to the attacks on Palestinia.
-
-The registered owner of that vessel is a company if zodiac maritime. Israeli Israeli businessman receives its parts.
-
-The demonstrators were attacked by a ship's ship and two navy vessels in the Red Sea.
-
-◼️
-
-[Data](articles/a9280983.json)
-
-[Extended Data](ext_articles/a9280983.ext.json)
 
 ---

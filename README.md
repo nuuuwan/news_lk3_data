@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 11:34:16**
+As of **2024-04-30 11:53:45**
 
 ## Newspaper Stats
 
-*Scraped **21,795** Articles*
+*Scraped **21,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,101 @@ dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,188
 dailyftlk | 1,228
-economynextcom | 1,232
+economynextcom | 1,233
 adalk | 1,825
 tamilmirrorlk | 2,532
 adaderanalk | 2,584
 virakesarilk | 3,278
-dailymirrorlk | 3,392
+dailymirrorlk | 3,394
 adaderanasinhalalk | 3,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,794 (100.0%) of 21,795 articles have been extended.
+21,795 (100.0%) of 21,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### රුපියල් කෝටි 2 1/2ක ගජමුතු සහ මංජුසාවක්
+### Order on Keheliya’s writ petition postponed for May 7
+
+*2024-04-30 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Order-on-Keheliyas-writ-petition-postponed-for-May-7/108-281640) · `en`
+
+Colombo, April 30 (Daily Mirror) - The Court of Appeal's decision whether or not to consider the writ petition filed by former Health Minister Keheliya Rambukwella seeking an order directing the Maligakanda Magistrate to release him on bail was today postponed for May 7.
+
+The former Minister is challenging the orders by the  Maligakanda Magistrate on February 3, February 15, February 29 and March 29, consistently refusing to release him on bail and placing him in remand custody till the conclusion of the trial.
+
+◼️
+
+[Data](articles/0268ffed.json)
+
+---
+
+### AstraZeneca admits for first time its Covid vaccine CAN cause rare side effect
+
+*2024-04-30 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AstraZeneca-admits-for-first-time-its-Covid-vaccine-CAN-cause-rare-side-effect/108-281639) · `en`
+
+April 30 (Daily Mail) - AstraZeneca has admitted in court for the first time that its Covid jab can cause a deadly blood clotting side effect.
+
+The exceedingly rare reaction is at the heart of a multi million-pound class action by dozens of families who allege they, or their loved ones, were maimed or killed by the pharmaceutical titan's 'defective' vaccine.
+
+Lawyers representing the claimants believe some of the cases could be worth up to £20m in compensation.
+
+Cambridge-based AstraZeneca, which is contesting the claims, acknowledged in a legal document submitted to the High Court in February that its vaccine 'can, in very rare cases, cause TTS'.
+
+TTS is short for thrombosis with thrombocytopenia syndrome – a medical condition where a person suffers blood clots along with a low platelet count. Platelets typically help the blood to clot.
+
+The complication – listed as a potential side effect of the jab – has previously been called vaccine-induced immune thrombotic thrombocytopenia (VITT).
+
+...
+
+[Data](articles/0c49c61a.json)
+
+---
+
+### Sri Lanka rupee trades at 297.50/298.50 to US dollar
+
+*2024-04-30 11:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-at-297-50-298-50-to-us-dollar-160589/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 297.50/298.50 to the US dollar on Tuesday from 297.80/298.50 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 was quoted down at 10.80/85 percent from 10.95/11.05 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 11.15/20 percent from 11.40/55 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 11.55/60 percent from 11.60/70 percent.
+
+The Colombo Stock Exchange was trading down; The All Share Price Index was down 0.33 percent at 12,292, the S&P SL20 was down 0.43 percent 3,669. (Colombo/Apr30/2024)
+
+◼️
+
+[Data](articles/796d65cb.json)
+
+---
+
+### Gajamuthu and Manjussa Rs. 2 billion
 
 *2024-04-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196126) · `si`
 
-ගජමුතු තොගයක් සහ රිදී මංජුසාවක් ජාවාරම් කිරීම සඳහා සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකුව මඩකලපුව ප්‍රදේශයේදී විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Gajamuthu and Manjussa, worth over Rs. 2 billion, were arrested by the STF in Batticaloa. A 30-year-old from Cheinkladi, with 11 Gesamutans, was also arrested.
 
-හමුවූ ගජමුතු සහ රිදී මංජුසාව රුපියල් කෝටි දෙකහමාරකට අධික වටිනාකමකින් යුතු බව සඳහන් ය.
+🟩
 
-විශේෂ කාර්ය බළකාය කල්මුණ කඳවුරේ නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (29) මඩකලපුව පොලිස් වසමේ, පුලියන්තිව් ගාන්ධි ළමා උද්‍යානය ඉදිරිපිට දී වැටලීමක් සිදුකර තිබුණි.
+The STF has been arrested by the STF in the Batticaloa district in the Batticaloa area.
 
-එහිදී ගජමුතු 11ක් සමග රිදී මංජුසාවක් සන්තකයේ තබාගෙන සිටි චෙංකලඩි ප්‍රදේශයේ පදිංචි වයස අවුරුදු 30ක් වන පුද්ගලයෙකුව අත්අඩංගුවට ගෙන වැඩිදුර විමර්ශන කටයුතු සදහා මඩකලපුව පොලිස් ස්ථානය වෙත භාර දී තිබේ.
+The Gajamuthu and Silver Manjussa, who have met, is worth over Rs.
+
+The Special Task Force had a raid in front of the Puliinvin Gandhi Children's Park yesterday (29).
+
+A 30 year old resident of Cheinkladi, who had been possessed with 11 Gesamutans, has been arrested and handed over to the Batticaloa Police for further investigations.
 
 ◼️
 
 [Data](articles/b514845a.json)
+
+[Extended Data](ext_articles/b514845a.ext.json)
 
 ---
 
@@ -2101,71 +2163,5 @@ Addressing the media Senior DIG Traffic Administration and Road Safety, Indika H
 [Data](articles/26a14fbb.json)
 
 [Extended Data](ext_articles/26a14fbb.ext.json)
-
----
-
-### The Electricity Board Reorganization Bill will push the electrification system to the dark era - Electrical Engineers Association
-
-*2024-04-29 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182273) · `ta`
-
-The Electricity Board Reorganization Bill, submitted to Parliament, aims to privatize the Electricity Board, redefine its role, and set up a commission for power supply. The government plans to proceed by November or October, with a presidential election in September or October. The Electricity Engineers Association opposes this, vowing to challenge the bill in court.
-
-🟩
-
-The proposed Electricity Board Reorganization Bill has been submitted to Parliament to push the country's electricity system to Parliament.
-
-He made this statement during a media briefing held at the office of the Electricity Board Electricity Engineers Association on Monday (29).
-
-The government has only carried out activities to rehabilitate state institutions that are referring to the loss of state institutions.
-
-It is proposed to set up the Electricity Board to 12 and pay its license to private companies.
-
-It is also proposed to define the role of the Sri Lanka Public Use the Commission on the power supply and to define the role of the Commission.
-
-The government has decided to carry out the proceedings of the country by November or October. The presidential election will be held in September or October.
-
-We will challenge the proposed Electricity Board Reorganization Bill in court.
-
-◼️
-
-[Data](articles/c6daf3e9.json)
-
-[Extended Data](ext_articles/c6daf3e9.ext.json)
-
----
-
-### Veteran musician Dr. Premadasa Mudunkotuwa passes away
-
-*2024-04-29 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98923/veteran-musician-dr-premadasa-mudunkotuwa-passes-away) · `en`
-
-Veteran musician Dr. Premadasa Mudunkotuwa has passed away on Monday at the age of 91, family members confirmed.
-
-He is the father of popular Sri Lankan singer Samitha Mudunkotuwa, 51, and is the husband of the late Kumari Bothota, a folk singer at the Sri Lanka Broadcasting Corporation (SLBC).
-
-Dr. Mudunkotuwa is the first Masters holder from Bhathkanda Music College, India and was the ‘Guru’ of many celebrated singers of today.
-
-◼️
-
-[Data](articles/457f64d8.json)
-
-[Extended Data](ext_articles/457f64d8.ext.json)
-
----
-
-### Death of Premadasa passes away
-
-*2024-04-29 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196107) · `si`
-
-Dr. Premadasa, father of singer Samaika Mudungotuwa, has passed away.
-
-🟩
-
-Dr. Premadasa, Dr. Premadasa, the father of Mrs. Veteran singer Samaika Mudungotuwa has passed away.
-
-◼️
-
-[Data](articles/34886224.json)
-
-[Extended Data](ext_articles/34886224.ext.json)
 
 ---

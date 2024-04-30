@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 04:51:08**
+As of **2024-05-01 05:04:19**
 
 ## Newspaper Stats
 
-*Scraped **21,954** Articles*
+*Scraped **21,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,190
-dailyftlk | 1,228
+dailyftlk | 1,231
 economynextcom | 1,247
 adalk | 1,840
 tamilmirrorlk | 2,551
@@ -26,11 +26,67 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,954 (100.0%) of 21,954 articles have been extended.
+21,954 (100.0%) of 21,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Court defers verdict in Weliveriya shooting case
+
+*2024-05-01 04:51:04* · [`dailyftlk`](https://www.ft.lk/news/Court-defers-verdict-in-Weliveriya-shooting-case/56-761229) · `en`
+
+The Gampaha High Court the Trial-at-Bar has deferred delivering the verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army over the shooting to death of three persons and injuring several others during a protest by villagers demanding clean drinking water at Weliweriya Gampaha.
+
+The court was scheduled to deliver its verdict yesterday, however when the case was taken up the Trial-at-Bar announced that the verdict will be delivered on 17 May 2024.
+
+On 1 August in 2013, army personnel opened fire at unarmed locals at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
+
+In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
+
+◼️
+
+[Data](articles/4b3c2a1b.json)
+
+---
+
+### Court clears Mahindananda of money laundering charges
+
+*2024-05-01 04:50:37* · [`dailyftlk`](https://www.ft.lk/news/Court-clears-Mahindananda-of-money-laundering-charges/56-761228) · `en`
+
+The Colombo High Court yesterday acquitted and released former Minister Mahindananda Aluthgamage from the money laundering case filed against him.
+
+The case was called before Colombo High Court Judge Nawarathne Marasinghe.
+
+Aluthgamage had been charged for allegedly failing to declare the source of funds used to purchase a luxury house worth approximately Rs. 27 million at Kynsey Road in Borella during his tenure as a Minister.
+
+The Attorney General had filed indictments against the former minister under the Prevention of Money Laundering Act in 2017.
+
+◼️
+
+[Data](articles/4c6b91a9.json)
+
+---
+
+### Cabinet clears visa exemption pact between Rwanda and Sri Lanka
+
+*2024-05-01 04:49:07* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-visa-exemption-pact-between-Rwanda-and-Sri-Lanka/56-761227) · `en`
+
+Aims to exempt citizens holding diplomatic, duty, service passports needing visas for up to 30 days
+
+The Cabinet of Ministers at its meeting on Monday cleared the signing of the Memorandum of Understanding (MoU) between Rwanda and Sri Lanka to exempt citizens holding diplomatic duty or service passports from obtaining visas for a period not exceeding 30 days as agreed between the two parties.
+
+“The decision aims to improve bilateral relations between the two countries,” Cabinet Co-Sokesman and Minister Bandula Gunawardena said yesterday at the post-Cabinet meeting media briefing.
+
+Originally approved on 7 May 2019, the proposal sought to establish an understanding to waive visa requirements for holders of specific passports from both countries, but the signing of the MoU has faced delays.
+
+The proposal to this effect submitted by Public Security Minister Tiran Alles was approved by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/5e473906.json)
+
+---
 
 ### Ranil - Sajith's May Day meetings to compete in the hill country
 
@@ -2221,65 +2277,5 @@ A Supreme Court decision relevant to a fundamental rights petition filed by a st
 [Data](articles/fee196f7.json)
 
 [Extended Data](ext_articles/fee196f7.ext.json)
-
----
-
-### Will be closed but not closed
-
-*2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
-
-The Excise Department has announced that liquor stores in Divisional Secretariat Divisions will close on World Labor Day, May 1st, but those elsewhere will remain open.
-
-🟩
-
-The Excise Department has announced that some of the liquor stores will be closed, the World Labor Day, May 01.
-
-All licensed retail liquor stalls will be closed in the Divisional Secretariat Divisions where May Day rallies are held.. The liquor stores running elsewhere will not be closed. Are open as usual.
-
-◼️
-
-[Data](articles/a01bc13f.json)
-
-[Extended Data](ext_articles/a01bc13f.ext.json)
-
----
-
-### Locked but not closed
-
-*2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
-
-The Excise Department has announced that liquor stores in Divisional Secretariat Divisions will be closed on World Labor Day, May 1, but those elsewhere will remain open.
-
-🟩
-
-The Excise Department has announced that some of the liquor stores will be closed, the World Labor Day, May 01.
-
-All licensed retail liquor stalls will be closed in the Divisional Secretariat Divisions where May Day rallies are held.. The liquor stores running elsewhere will not be closed. Are open as usual.
-
-◼️
-
-[Data](articles/f7b8f27c.json)
-
-[Extended Data](ext_articles/f7b8f27c.ext.json)
-
----
-
-### Rathupaswala case verdict today
-
-*2024-04-30 14:15:07* · [`adalk`](https://www.ada.lk/breaking_news/රතුපස්වල-නඩුවේ-තීන්දුව-අද/11-409346) · `si`
-
-Trincomalee High Court today ruled in the Rathupaswala case, convicting three army soldiers for injuring 35 people and killing three more in 2011.
-
-🟩
-
-The verdict was assigned to the Trincomalee High Court Judge and three army soldiers was accused of injuring 35 persons and three army soldiers who were shot dead in Rathupaswala who was demanding clean water.
-
-Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years ago, the case was executed and the case was executed.
-
-◼️
-
-[Data](articles/761ecd8f.json)
-
-[Extended Data](ext_articles/761ecd8f.ext.json)
 
 ---

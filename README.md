@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 15:18:43**
+As of **2024-04-30 15:34:04**
 
 ## Newspaper Stats
 
-*Scraped **21,849** Articles*
+*Scraped **21,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,116 @@ dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,831
 tamilmirrorlk | 2,539
-adaderanalk | 2,588
-virakesarilk | 3,289
-dailymirrorlk | 3,405
+adaderanalk | 2,589
+virakesarilk | 3,293
+dailymirrorlk | 3,409
 adaderanasinhalalk | 3,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,846 (100.0%) of 21,849 articles have been extended.
+21,849 (100.0%) of 21,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### රතුපස්වල තීන්දුව කල් යයි
+### உமா ஓயா திட்டம் தொடர்பில் எந்தப் பிரச்சனையும் இல்லை : பொய்யான கூற்றுகளுக்கு ஏமாறாதீர்கள் - இந்திக அனுருத்த
+
+*2024-04-30 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182337) · `ta`
+
+உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டம் மக்களிடம் கையளிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புபட்டதாக மண்சரிவுகளோ அல்லது வேறு பிரச்சினைக்குரிய சூழ்நிலைகளோ இதுவரை பதிவாகவில்லை. மழையுடன் ஏற்படும் சிறிய நீரூற்றுக்களை காண்பித்து மக்களை தவறாக வழிநடத்த சிலர் முயற்சிப்பதாக மின்சக்தி மற்றும் வல சக்தி இராஜாங்க அமைச்சர் இந்திக அனுருத்த ஹேரத் தெரிவித்தார்.
+
+உமா ஓயா பிரதேசத்தில் ஏற்பட்டதாக கூறப்படும் விரிசல்கள் மற்றும் நீர்க் கசிவுகள் தொடர்பில் ஆராய்ந்து அறிக்கை சமர்பிப்பதற்காக பூகற்பவியலாளர்கள் குழுவொன்று நாளை (01) அப்பகுதிக்கு கண்காணிப்பு விஜயத்தை மேற்கொள்ளவுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (30) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மின்சக்தி மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் இந்திக அனுருத்த இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/dc44ee78.json)
+
+---
+
+### பொதுத்தேர்தல் குறித்த கருத்துக்கணிப்பு - முன்னிலையில் ஐக்கிய மக்கள் சக்தி
+
+*2024-04-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182335) · `ta`
+
+பொதுத்தேர்தலில் வாக்களிப்பது குறித்த மக்களின் நோக்கங்களை அறிவதற்கான கருத்துக்கணிப்பில் தேசிய மக்கள் சக்தியை விட ஐக்கிய மக்கள் சக்திக்கு  அதிகளவானவர்கள் ஆதரவு வெளியிட்டுள்ளனர் என சுகாதார கொள்கைகளிற்கான நிறுவகம்  தெரிவித்துள்ளது.
+
+ஐக்கிய மக்கள் சக்திக்கு கருத்துக்கணிப்பில் கலந்துகொண்டவர்களில் 38 வீதமானவர்களும் தேசிய மக்கள் சக்திக்கு 35வீதமானவர்களும் ஆதரவு வெளியிட்டுள்ளனர்.
+
+2022 ம் ஆண்டின் பின்னர் முதல்தடவையாக ஐக்கிய மக்கள் சக்தி முதலாம் இடத்தில் காணப்படுகின்றது அந்த கட்சிக்கான ஆதரவு நான்கு வீதமாக அதிகரித்துள்ளது என  சுகாதார கொள்கைகளிற்கான நிறுவகம் தெரிவித்துள்ளது.
+
+ஸ்ரீலங்கா பொதுஜனபெரமுன ஐக்கிய தேசிய கட்சி ஸ்ரீலங்கா சுதந்திர கட்சிக்களுக்கான ஆதரவுகளில் மாற்றங்கள் ஏற்படவில்லை என கருத்துக்கணிப்பை மேற்கொண்ட அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/09fbd11a.json)
+
+---
+
+### கட்டுநாயக்க விமான நிலையத்தில் தங்க நகைக்கடை ; அமைச்சரவை அங்கீகாரம்
+
+*2024-04-30 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182332) · `ta`
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் புறப்படும் இடம் அல்லது நடமாடும் வலயத்தில் தங்க நகைக்கடை அமைப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் புறப்படும் இடம் அல்லது நடமாடும் வலயத்தில் புதிய வர்த்தக வாய்ப்பாக தங்கநகை விற்பனை வியாபாரத்தை அறிமுகப்படுத்துவது பொருத்தமானதெனக் கருதப்படுகிறது. அதுதொடர்பான முன்மொழிவை வரையறுக்கப்பட்ட விமான நிலைய மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி சமர்ப்பித்துள்ளது.
+
+தற்போது பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் இவ்வசதிகள் இன்மையால், அதன் புறப்படும் இடம்/நடமாடும் வலயத்தில் தங்க நகைக் கடையை அமைப்பதற்கு வரையறுக்கப்பட்ட விமான நிலைய மற்றும் விமான சேவைகள் (இலங்கை) (தனியார்) கம்பனி திட்டமிட்டுள்ளது.
+
+...
+
+[Data](articles/290dd7d4.json)
+
+---
+
+### Rathupaswala ruling postponed
 
 *2024-04-30 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196136) · `si`
 
-පිරිසිදු ජලය ඉල්ලා උද්ඝෝෂණය කළ ගම්පහ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් පිරිසකට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර්වරයෙකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව ගොනු කළ නඩුවේ තීන්දුව ප්‍රකාශ කිරීම මැයි 17 වනදා දක්වා කල් තැබුණි.
+Rathupaswala ruling postponed. Court's decision against residents and army soldiers adjourned.
 
-අදාළ නඩුවේ තීන්දුව අද ප්‍රකාශයට පත්කිරීමට නියමිතය තිබූ අතර එය මෙලෙස කල් තැබුණි.
+🟩
+
+Adjournment of the court's decision against the residents of Rathupaswala, Gampaha and three army soldiers was killed and three army soldiers.
+
+The verdict in the case was due to be announced today and adjourned.
 
 ◼️
 
 [Data](articles/779a93ec.json)
+
+[Extended Data](ext_articles/779a93ec.ext.json)
+
+---
+
+### Sword-wielding man arrested in London after reports of stabbing
+
+*2024-04-30 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98937/sword-wielding-man-arrested-in-london-after-reports-of-stabbing) · `en`
+
+A “man with a sword” has been arrested after reports several people have been stabbed, including two police officers, near a Tube station.
+
+The Met Police received reports of a vehicle being driven into a house in Hainault and “there were reports people have been stabbed”.
+
+“We understand the suspect went on to attack other members of the public and two police officers,” the force said.
+
+Footage shared on social media showed a man with a long knife in Laing Close.
+
+A 36-year-old man was arrested at the scene and is in custody after the vehicle was driven into a property in the Thurlow Gardens area, police said.
+
+“We are awaiting an update on the condition of those injured,” the force added.
+
+Hainault London Underground station is closed, Transport for London (TfL) says, and local buses are being diverted.
+
+Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrifying incident for those concerned.
+
+“I know the wider community will be feeling shock and alarm.”
+
+...
+
+[Data](articles/3a91c730.json)
 
 ---
 
@@ -72,21 +156,67 @@ Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrif
 
 [Data](articles/3faaab27.json)
 
+[Extended Data](ext_articles/3faaab27.ext.json)
+
 ---
 
-### பாட்டி பருகவேண்டியதை பருகிய பேத்தி மரணம்
+### GCE O/L tuition classes banned from tonight: Exams Dept
+
+*2024-04-30 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-tuition-classes-banned-from-tonight-Exams-Dept/108-281659) · `en`
+
+Colombo, April 30 (Daily Mirror) - Conducting coaching or tuition classes aimed at the 2023 (2024) G.C.E. Ordinary Level (O/L) Examination aspirants will be prohibited from tonight till the exams are concluded, the Department of Examinations said.
+
+Commissioner General of Examinations H.J.M.C. Amith Jayasundara said all arrangements have been completed to conduct the examinations from May 6 to May 15.
+
+The examinations will be held at 3,527 examination centres around the country.
+
+A total of 452,679 candidates, including 387,648 school applicants and 65,331 private applicants have submitted applications for the examinations.
+
+Special examination centres have been set up for prison inmates, with an examination centre being established in the Welikada Prison, and another centre for patients receiving residential treatment at the Apeksha Hospital in Maharagama.
+
+...
+
+[Data](articles/ae826d5a.json)
+
+---
+
+### பணமோசடி வழக்கில் இருந்து மஹிந்தானந்த விடுதலை
+
+*2024-04-30 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/182326) · `ta`
+
+முன்னாள் அமைச்சர் மஹிந்தானந்த அளுத்கமகேவிற்கு எதிராக தாக்கல் செய்யப்பட்ட பண மோசடி வழக்கில் இருந்து அவரை விடுவிப்பதாக கொழும்பு  மேல் நீதிமன்றம் வெள்ளிக்கிழமை (30)  உத்தரவிட்டது.
+
+இந்த வழக்கு கொழும்பு மேல் நீதிமன்ற நீதிபதி நவரத்ன மாரசிங்க முன்னிலையில் விசாரணைக்கு வந்தது.
+
+மஹிந்தானந்த  அளுத்கமகே  அமைச்சராக இருந்த காலத்தில் பொரளையில் கின்ஸி வீதியிலுள்ள சுமார் 27 மில்லியன் பெறுமதியான சொகுசு வீட்டை கொள்வனவு செய்வதற்கு பயன்படுத்தப்பட்ட நிதி தொடர்பிலான ஆதாரத்தை வெளியிடத் தவறியதாக அவர் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+
+2017ஆம் ஆண்டு பணமோசடி தடுப்புச் சட்டத்தின் கீழ் சட்டமா அதிபர் முன்னாள் அமைச்சருக்கு எதிராக  குற்றப்பத்திரிகை தாக்கல் செய்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/336aa401.json)
+
+---
+
+### Grandmother's granddaughter death
 
 *2024-04-30 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாட்டி-பருகவேண்டியதை-பருகிய-பேத்தி-மரணம்/76-336556) · `ta`
 
-பாட்டி பருகவேண்டிய இரத்த அழுத்தத்தை கட்டுக்குள் வைத்திருக்கும் மாத்திரைகளை பருகிய பேத்தி, மரணமடைந்த சம்பவமொன்று நுவரெலியாவில் இடம்பெற்றுள்ளது. நுவரெலியா ஸ்கிராப் தோட்டத்தில்  வசிக்கும்15 வயதான பாடசாலை மாணவி ஒருவரே இவ்வாறு மரணமடைந்துள்ளார்.
+A 15-year-old girl from Nuwara Eliya died after her grandmother, who was treated for high blood pressure, passed away. The girl's father, who lives separately, received her body.
 
-கடந்த (25) ஆம் திகதி பாட்டி வீட்டில் இல்லாத நேரத்தில் பாட்டியின் மாத்திரைகளை அதிகளவில் உட்கொண்டு மயக்கம் உற்ற நிலையில் அயலவர்களின் உதவியுடன் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டார். எனினும், சிகிச்சை பலனின்றி (27) உயிரிழந்துள்ளார்.
+🟩
 
-இதேவேளை, குறித்த சிறுமியின் தந்தை வேறொரு பெண்ணை திருமணம் செய்து நானுஓயா பிரதேசத்தில் தனியாக வாழ்ந்து வந்துள்ளார்.  நுவரெலியா பொலிஸாரின் உதவியுடன் சிறுமியின் சடலம் (29) தந்தையிடம் ஒப்படைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Grandmother, who died of pills that control the grandmother's blood pressure, took place in Nuwara Eliya. A 15 -year -old schoolgirl who lives in the Nuwara Eliya Scrap estate has died.
+
+When the grandmother was not at home, she was admitted to the Nuwara Eliya District General Hospital with the help of neighbors.. However, he died without treatment (27).
+
+Meanwhile, the girl's father is married to another woman and lives alone in Nanuoya area. The body of the girl (29) has been handed over to her father with the help of the Nuwara Eliya police.
 
 ◼️
 
 [Data](articles/9064dd9f.json)
+
+[Extended Data](ext_articles/9064dd9f.ext.json)
 
 ---
 
@@ -213,6 +343,22 @@ Among the notable inclusions are Anrich Nortje and Quinton de Kock, who were rec
 [Data](articles/e5d984fb.json)
 
 [Extended Data](ext_articles/e5d984fb.ext.json)
+
+---
+
+### Government approves amendment to ban physical punishment
+
+*2024-04-30 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-amendment-to-ban-physical-punishment/108-281658) · `en`
+
+Colombo, April 30 (Daily Mirror) - The government today approved the amendment to the Penal Code and the Criminal Procedure Code for the banning of all corporal or physical punishments in all sectors.
+
+A recent study conducted in relation to the Sri Lankan context by the United Nations' Committee on Child Rights revealed that a large number of children are prone to physical punishments, abuses and violence due to the lack of legal provisions prevailing at home, within remedial protection backgrounds, within institutions for penalty order implementation, and in schools.
+
+A Supreme Court decision relevant to a fundamental rights petition filed by a student who experienced hearing discrepancies following an assault by a teacher has held the relevant teacher and the government responsible for violating the 11th statute of the Constitution.
+
+...
+
+[Data](articles/fee196f7.json)
 
 ---
 
@@ -2173,149 +2319,5 @@ The Sri Lanka Foreign Employment Bureau stated that 41 young women have left for
 [Data](articles/ba8c0f3d.json)
 
 [Extended Data](ext_articles/ba8c0f3d.ext.json)
-
----
-
-### Lightning strikes the two children of the same family
-
-*2024-04-30 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196112) · `si`
-
-Lightning struck two children in Rattota, Velgala, killing a 12-year-old. The bodies are at Rattota hospital, and police are investigating.
-
-🟩
-
-A brother and sister who was in a house in the Velaladuaya area in Rattota has died.
-
-Lightning was hit with rain in the evening yesterday (29), police said.
-
-The victim was a 12 year old, a 12 year old resident of Rattota, Velgala, Velgala.
-
-The bodies were placed at the Rattota hospital and Rattota Police are conducting further investigations.
-
-◼️
-
-[Data](articles/80a8ffc2.json)
-
-[Extended Data](ext_articles/80a8ffc2.ext.json)
-
----
-
-### An Int’l summit avoids Sri Lanka due to beggar menace in Colombo
-
-*2024-04-30 06:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/An-Intl-summit-avoids-Sri-Lanka-due-to-beggar-menace-in-Colombo/108-281625) · `en`
-
-Colombo, April 30 (Daily Mirror) - The decision to not hold the annual SMMT International Automotive Summit in Sri Lanka for 2025 was influenced by the prevalence of beggar menace at traffic lights in Colombo, Sri Lanka Automobile Association Secretary Devapriya Hettiarachchi yesterday said.
-
-Speaking to the media, he said that Sri Lanka hosted the Asia Pacific Region II meeting associated with the SMMT International Automotive Summit conference in Colombo in 2015, with 150 delegates in attendance. He further noted that a General Meeting took place in Rwanda, where Sri Lanka submitted a bid to host the SMMT International Automotive Summit conference in 2025..
-
-"The delegates who attended the meeting observed beggars soliciting at traffic lights within Colombo city limits, causing unpleasant experiences and significant traffic disruptions as they traveled to various locations in Colombo," he said.
-
-...
-
-[Data](articles/4f582876.json)
-
-[Extended Data](ext_articles/4f582876.ext.json)
-
----
-
-### Heavy taxes for public, duty free vehicles for MPs, senior officials?
-
-*2024-04-30 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Heavy-taxes-for-public-duty-free-vehicles-for-MPs-senior-officials/155-281624) · `en`
-
-Colmbo, April 30 (Daily Mirror) - Despite the public being heaped with tax burdens and a soaring cost of living, parliamentarians, along with public servants in the executive category, are set to get concessionary vehicle permits soon, the Daily Mirror learns.
-
-As many as 102 MPs out of the total 225 in the House had placed their signatures by yesterday on a letter submitted to Speaker Mahinda Yapa Abeywardena asking for permits to import vehicles under duty-free conditions. Many more are planning to join the request in the days to come.
-
-The MPs who served in the previous Parliaments received such permits. However, the MPs who were elected to the House at the 2020 General Election did not receive this benefit because of the economic crisis.
-
-...
-
-[Data](articles/52595439.json)
-
-[Extended Data](ext_articles/52595439.ext.json)
-
----
-
-### Lankan students return after showcasing robotic skills
-
-*2024-04-30 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankan-students-return-after-showcasing-robotic-skills/110-281622) · `en`
-
-Sri Lankan students from the Burhani Serendib School in Colombo who participated in the International Creativity and Innovation Awards 2024 in Thailand arrived at the Bandaranaike International Airport (BIA) last night. These students won the Titanium Award (second highest) for their exceptional display in the field of robotics, at the finals held yesterday (28) while competing with 25 countries. Over 1,000 students representing 441 teams from four continents participated in the International competition. This is the first time Sri Lanka has competed in such a global event displaying their robotic skills. Pix by T.K.G. Kapila
-
-◼️
-
-[Data](articles/670e55d4.json)
-
-[Extended Data](ext_articles/670e55d4.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-04-30 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196110) · `si`
-
-Heavy rains and thundershowers expected in Western, Sabaragamuwa, Central, Southern, North Western, and Uva provinces. Showers to occur at night or evening. Heavy rains (>50mm) in some areas. Public advised to take precautions against wind and lightning.
-
-🟩
-
-Today, the Western, Sabaragamuwa, Central, Southern, Southern, North Western and Uva provinces today. Showers or thundershowers will occur at several places, about 1.
-
-The department states that showers or thundershowers will occur at night or night in the evening.
-
-Also in some places in the Western, Sabaragamuwa and Uva provinces. Heavy rains experience more than 50.
-
-The Department of Meteorology announces that in some places in the Central, Sabaragamuwa and Uva provinces.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/39b3196a.json)
-
-[Extended Data](ext_articles/39b3196a.ext.json)
-
----
-
-### Income tax payment methods limited
-
-*2024-04-30 05:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Income-tax-payment-methods-limited/108-281618) · `en`
-
-As per the recently issued gazette notification, the income tax payments can only be made using three methods.
-
-The methods are by depositing cash, depositing pay order or bank draft or by the use of Online Tax Payment Platform (OTPP).
-
-While previously tax payments may have been made by cheque, the recent gazette notification does not identify payments via this avenue as an accepted method.
-
-Accordingly, the income tax payments, including payment of taxes administrated under the Inland Revenue Department, will not be allowed to be made by cheque.
-
-However, the payment methods highlighted in the April 4 gazette only apply to the tax payments under the provisions of Inland Revenue Act No. 24 of 2017. That is for Corporate Income Tax, Personal Income Tax, Withholding Tax, Advance Personal Income Tax and Capital Gain Tax.
-
-The payments of other taxes such as Value Added Tax, Social Security Contribution Levy, Stamp Duty and others can continue to be paid by cheque.
-
-◼️
-
-[Data](articles/f14f076b.json)
-
-[Extended Data](ext_articles/f14f076b.ext.json)
-
----
-
-### NPP accepts Daily Mirror invitation for political debate, Sajith’s confirmation awaited
-
-*2024-04-30 04:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-accepts-Daily-Mirror-invitation-for-political-debate-Sajiths-confirmation-awaited/108-281623) · `en`
-
-The National People's Power (NPP) yesterday accepted the official invitation for the political debate to be held by the Daily Mirror and Lankadeepa, with the three main presidential candidates while the Samagi Jana Balawegaya leader Sajith Premadasa is yet to confirm his participation.
-
-The Daily Mirror invitation was accepted by NPP General Secretary Tilvin Silva, who said that NPP leader Anura Kumara Dissanayake is ready for the debate and will attend.
-
-The Daily Mirror handed over the official invitation to the Opposition leader's office in Colombo and the team is still to receive his confirmation of participation. However by last evening, Premadasa’s office confirmed that Sajith Premadasa had received the invitation letter and had directed it to MP Nalin Bandara who is handling the affairs regarding the debates.
-
-The official invitation to President Ranil Wickremesinghe will be handed over soon.
-
-...
-
-[Data](articles/19ab1f0a.json)
-
-[Extended Data](ext_articles/19ab1f0a.ext.json)
 
 ---

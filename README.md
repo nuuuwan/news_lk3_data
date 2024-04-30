@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 21:53:28**
+As of **2024-04-30 22:06:04**
 
 ## Newspaper Stats
 
-*Scraped **21,920** Articles*
+*Scraped **21,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,28 +15,44 @@ newsfirstlk | 363
 islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,839
+adalk | 1,840
 tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,305
-dailymirrorlk | 3,422
-adaderanasinhalalk | 3,547
+dailymirrorlk | 3,423
+adaderanasinhalalk | 3,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,918 (100.0%) of 21,920 articles have been extended.
+21,920 (100.0%) of 21,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
+### දරුවන්ට ශාරීරික දඬුවම් නීතියෙන් වරදක්
+
+*2024-04-30 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196145) · `si`
+
+දරුවන්ට පහරදීම් ඇතුළු ශාරිරික දඬුවම් පැමිණවීම තහනම් කිරීම සඳහා වන දණ්ඩ නීති සංග්‍රහය සහ අපරාධ නඩු විධාන සංග්‍රහය පනත සංශෝධනය කිරීමට කැබිනට් අනුමැතිය හිමිවී තිබේ.
+
+ඒ අනුව මින් ඉදිරියට වැඩිහිටියෙකු හෝ ගුරුවරයෙකු දරුවෙකුට ශාරිරික දඬුවම් කරන්නේ නම් එය වරදක් බව කැබිනට් ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා අද (30) කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී පැවසීය.
+
+"දරුවන්ගේ කන්වලට පහරදීමෙන් කන් ඇසීම නැති වෙච්ච අවස්ථා වාර්තා වෙනවා. හොඳම දේ ලබාදිය යුත්තේ දරුවන්ට නම්... දරුවන්ට සිදුවන නරකම දේ වැළැක්විය යුතුයි. මේක ජනපතිගේ පූර්ණ අවධානය යොමුවූ කරුණක්. ඒ අනුව ශාරීරික දඬුවම් පැමිණවීම තහනම් කිරීමට දණ්ඩ නීතී සංග්‍රහය, අපරාධ නඩු විධාන සංග්‍රහය පනත සංශෝධනයට අවශ්‍ය කැබිනට් අනුමැතිය ලබාදුන්නා. ඒ අනුව දරුවන්ට වැඩිහිටියන් විසින් හෝ ගුරුවරුන් විසින් ශාරීරික වශයෙන් කිසිම දඬුවමක් කිරීම නීතිය අනුව වරදකරුවන් වෙන ආකාරයට මෙම පනත් සංශෝධනය කෙරෙනවා."
+
+◼️
+
+[Data](articles/c9cb6b83.json)
+
+---
+
 ### Fuel prices reduced from tonight
 
 *2024-04-30 21:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-reduced-from-tonight/108-281674) · `en`
 
-Colombo, April 30 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has decided to reduce its fuel prices with effect from tonight.
+Colombo, April 30 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has reduced its fuel prices with effect from tonight.
 
 Accordingly, a litre of Lanka Petrol 92 Octane Euro 4 (Rs. 371) has been reduce by Rs. 3, and its new retail price will be Rs. 368.
 
@@ -51,6 +67,8 @@ A litre of Lanka Kerosene (Rs. 245) has been reduced by Rs. 30 and its new retai
 ◼️
 
 [Data](articles/1d4ba062.json)
+
+[Extended Data](ext_articles/1d4ba062.ext.json)
 
 ---
 
@@ -69,6 +87,8 @@ Addressing the media, he said the vehicle imports are for the process of gaining
 ...
 
 [Data](articles/e989db83.json)
+
+[Extended Data](ext_articles/e989db83.ext.json)
 
 ---
 
@@ -315,6 +335,20 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 [Data](articles/21af0a81.json)
 
 [Extended Data](ext_articles/21af0a81.ext.json)
+
+---
+
+### මැයි රැළිවලට ලංගම බස් දෙන්නේ මුදල් ගෙව්වොත් විතරයි
+
+*2024-04-30 18:03:48* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ලංගම-බස්-දෙන්නේ-මුදල්-ගෙව්වොත්-විතරයි/11-409353) · `si`
+
+හෙට පැවැත්වෙන මැයි රැළි සඳහා බස් රථ නිකුත් කරන්නේ මුදල් ගෙව්වොත් පමණක් බවත්, කිසිම ආයතනයකට හෝ සංවිධානයකට මුදල් ගෙවීමකින් තොරව බස්රථ නිකුත් නොකරන බව කැබිනට් ප්‍රකාශක, ප්‍රවාහන මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය. මේ සම්බන්ධයෙන් තමා ලංකා ගමනා ගමන මණ්ඩලයේ සභාපතිවරයාට උපදෙස් ලබා දී ඇතැයිද හෙතෙම පැවසීය.
+
+අද(30) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ සාකච්ඡාවේදී  මැයි රැළිය සඳහා විවිධ පක්ෂ වලට බස්රථ ලබා දීම සම්බන්ධයෙන්  මාධ්‍යවේදියෙකු නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+...
+
+[Data](articles/950c1995.json)
 
 ---
 
@@ -631,6 +665,22 @@ The suspects will be produced at the Batticaloa Court, Kattankudy police said.
 [Data](articles/e73877ad.json)
 
 [Extended Data](ext_articles/e73877ad.ext.json)
+
+---
+
+### SC restricts President from nominating judges to SC, other than Chief Justice
+
+*2024-04-30 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-restricts-President-from-nominating-judges-to-SC-other-than-Chief-Justice/155-281664) · `en`
+
+Colombo, April 30 (Daily Mirror)- The Supreme Court today issued an interim order preventing the President from nominating judges to the Supreme Court, other than the Chief Justice. This order will be effective till October 4.
+
+The Supreme Court made this order consequent to a Fundamental Rights petition filed by a lawyer.  The petitioner Sarith Maheeputhra Pathirathne, an Attorney-at-Law by profession, filed this petition seeking an order directing the Constitutional Council to approve the recommendation by the President to appoint incumbent President of the Court of Appeal Nissanka Bandula Karunaratne as a Supreme Court judge.
+
+The petitioner filed this petition naming the members of the Constitutional Council including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, Nimal Siripala de Silva, Sagara Kariyawasam and several others as respondents.
+
+...
+
+[Data](articles/005c28f4.json)
 
 ---
 
@@ -2205,77 +2255,5 @@ From September 2020 to January 2021, Vamadevan telephoned the woman and used her
 [Data](articles/c53dd358.json)
 
 [Extended Data](ext_articles/c53dd358.ext.json)
-
----
-
-### The whatever the willingness to the Sajith's willing will go down
-
-*2024-04-30 12:01:12* · [`adalk`](https://www.ada.lk/breaking_news/සජිත්ට-ඇති-කැමැත්ත-ඉහළ-යද්දි-අනුරට-ඇති-කැමැත්ත-පහළට/11-409341) · `si`
-
-Sajith Premadasa's support for the Sri Lankan Presidential election has decreased by 2%, while Anura Kumara Dissanayake's national power promotion has been credited. By March, 44% of people supported Sajith, with Ranil Wickremesinghe's support at 7%.
-
-🟩
-
-Opposition Leader Sajith Premadasa has increased by 2 percent in March according to the intention of Presidential election vote in Sri Lanka.
-
-However, the favorable to leader of the national promote national power Anura Kumara Dissanayake is a credited factor.
-
-However, by March, 44 percent of the people have consented a percentage of the people and Sajith Premadasa has won 41 percent.
-
-Ranil Wickremesinghe has paid the will of the present President and the Sri Lankan General Front Candidate has expressed his will for 7 percent.
-
-The results have been released by the Health Policy Study of Health.
-
-◼️
-
-[Data](articles/9870c7b1.json)
-
-[Extended Data](ext_articles/9870c7b1.ext.json)
-
----
-
-### People are missing without bus service in Nainadivu!
-
-*2024-04-30 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182305) · `ta`
-
-In Nainadivu, Sri Lanka, a bus service crucial for locals, tourists, and residents has been disrupted, leaving many without transportation. The bus, operated by the SLTB, was damaged, prompting demands for its restoration.
-
-🟩
-
-The bus belonging to the Sri Lanka Transport Board (SLTB), which has been working in Nainadivu, has been hit by many people without bus services.
-
-A bus in Nainadivu has been involved in the island's transport service so far. Many people who work for Nainadivu, tourists and area residents have used the bus service for their transportation on the island.
-
-In this case, the bus that has been involved in the service has been damaged, and many people have to continue their journey without a bus service.
-
-Therefore, they have demanded that steps be taken to start the bus service.
-
-◼️
-
-[Data](articles/b15d1b65.json)
-
-[Extended Data](ext_articles/b15d1b65.ext.json)
-
----
-
-### Sri Lanka bans corporal punishment for children
-
-*2024-04-30 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-bans-corporal-punishment-for-children-160605/) · `en`
-
-ECONOMYNEXT – Sri Lanka will ban corporal punishment in all spheres, President Ranil Wickremesinghe has said.
-
-“The Cabinet approved amendments to the Penal Code and Criminal Procedure Code to prohibit corporal punishment in all spheres,” Wickremesinghe said on X.
-
-This “Paves the way for legal protections to ensure that no child in Sri Lanka suffers physical or mental violence, aligning with our commitment to safeguard the rights and well-being of every child.”
-
-Sri Lanka allows corporal punishment under section 341 of the Penal Code which makes exceptions for a schoolmaster while section 82 of the Penal Code makes exceptions for an ‘act done in good faith for the benefit of a child or person of unsound mind, by or by consent of guardian.’
-
-However, this has long been considered as a violation of human rights with article 19 of the United Nations Conventions of the Rights of the Child, prohibiting all forms of violence towards children. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/8760c073.json)
-
-[Extended Data](ext_articles/8760c073.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 00:33:59**
+As of **2024-05-01 00:48:48**
 
 ## Newspaper Stats
 
-*Scraped **21,938** Articles*
+*Scraped **21,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,105 @@ islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,544
+tamilmirrorlk | 2,545
 adaderanalk | 2,597
 virakesarilk | 3,309
-dailymirrorlk | 3,423
+dailymirrorlk | 3,425
 adaderanasinhalalk | 3,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,937 (100.0%) of 21,938 articles have been extended.
+21,938 (100.0%) of 21,941 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-01 (Wednesday)
+
+### May Day: Not capitalism, but dogmatism has almost killed trade union movement
+
+*2024-05-01 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-Day-Not-capitalism-but-dogmatism-has-almost-killed-trade-union-movement/172-281677) · `en`
+
+Rarely any other time,  save the campaign rallies, would the politicians speak so passionately about labour rights as they would today, the International Workers’ Day. But, in this quirky interest reeking of opportunism, there is a sense of irrelevance of what May Day was supposed to be.
+
+Consider today, Ranil Wickremesinghe, Sajith Premadasa and a horde of Ministers who would ride their Pajeros to the podium while the party members who are bused from four corners of the country march under the scorching sun to mark the historic gains of the labour movement born out of a campaign for eight- hour work day.
+
+...
+
+[Data](articles/3d5e0d49.json)
+
+---
+
+### Are doctors’ unions making threats again? - EDITORIAL
+
+*2024-05-01 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Are-doctors-unions-making-threats-again-EDITORIAL/172-281676) · `en`
+
+The doctors in our country seem to be girding up their loin cloths for a possible fight with the government in the aftermath of a government decision to set up a medical faculty at the ‘National School of Business Management (NSBM) and at the General Sir John Kotelawala Defence University (KDU).
+
+A study by ‘The National Library of Medicine’ shows currently around 1,450 doctors enter the health system annually and the national doctor-to-patient ratio is 1:671 to 1,000 patients. Not surprisingly there is a shortage of doctors in the country.
+
+According to the 2019 GCE (A/L) Examinations Analysis Book 20,287 students sat for the biology science (medical stream). In 2023, 40,329 students took the Bio Science stream. Of this number only 23,178 were able to gain entry to the available facilities in the country.
+
+In other words we have a huge gap between the number of candidates attempting to enter the medical faculties of the university in the country and the numbers they are able to absorb.
+
+...
+
+[Data](articles/b38b3eba.json)
+
+---
+
 ### 2024-04-30 (Tuesday)
 
-### இந்தியாவை வீழ்த்தி ஆசிய றக்பி 1ஆம் பிரிவு இறுதிப் போட்டிக்கு தகுதிபெற்றது இலங்கை
+### Sri Lanka qualified for the Asia Rugby 1st final
 
 *2024-04-30 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182366) · `ta`
 
-கொழும்பு குதிரைப் பந்தயத் திடலில் செவ்வாய்க்கிழமை (30) இரவு மின்னொளியில் நடைபெற்ற இரண்டாவது அரை இறுதிப் போட்டியில் இந்தியாவை 45 (7 ட்ரைகள், 5 கொன்வேர்ஷன்கள்) - 10 (ஒரு ட்ரை, ஒரு கொன்வேர்ஷன், ஒரு பெனல்டி) என்ற புள்ளிகள் வித்தியாசத்தில் அமோக வெற்றிகொண்ட இலங்கை, ஆசிய றக்பி முதலாம் பிரிவு இறுதிப் போட்டியில் கஸக்ஸ்தானை எதிர்த்தாட தகுதிபெற்றது.
+Sri Lanka won the Asia Rugby 1st final, defeating India 45-10 in a thrilling match. Sri Lanka led 21-3 at halftime, with key points scored by Ratwatte and Sudaraka Tikumbura. India's only points came from a penalty by Kumar. Sri Lanka's victory sets up a final against Kazakhstan for the Asian Rugby main division.
 
-இடைவேளையின்போது இலங்கை 21 - 3 என்ற புள்ளிகள் அடிப்படையில் முன்னிலை வகித்தது.
+🟩
 
-போட்டியின் 3ஆவது நிமிடத்தில் கிடைத்த பெனல்டியை தீப்பக் குமார் நேர்த்தியாக உதைத்து இந்தியாவை 3 - 0 என முன்னிலையில் இட்டார்.
+In the second semi -final of the Colombo Horse Racing Tuesday night, India 45 (7 trucks, 5 converges) - 10 (one Tri, a Convention, a penalty)Eligible to oppose.
 
-ஆனால், அதன் பின்னர் ஆதிக்கம் செலுத்திய இலங்கை சார்பாக 15ஆவது நிமிடத்தில் புலஸ்தி தசநாயக்கவும் 16ஆவது நிமிடத்தில் சுதாரக்க டிக்கும்புரவும் டரைகள் வைக்க அவற்றுக்கான மேலதிப் புள்ளிகளை தரிந்த ரத்வத்த பெற்றுக்கொடுத்தார்.
+During the break, Sri Lanka led a 21 - 3 score.
 
-32ஆவது நிமிடத்தில் சுதாரக்க டிக்கும்புர தனது 2ஆவது ட்ரையை வைத்ததுடன் அதற்கான  மேலதிப்   புள்ளிகளையும் தரிந்த ரத்வத்த பெற்றுக்கொடுத்தார். (21 - 3)
+In the 3rd minute of the competition, the penalty, Kumar, kicked India with elegance and put India in 3 - 0.
+
+However, Ratwatte gave the top points to place the tanks on behalf of Sri Lanka in the 15th minute and the Sudharaka Tikumbura in the 16th minute.
+
+In the 32nd minute, Sudaraka Tikumbura put his 2nd truck and gave the top points for it.. (௨௧ - ௩)
+
+In the 44th minute after the break, there was no additional points to place his second truck.
+
+Ratwatte, who gave the honeymoon points for the honeycomb, 8 minutes later.
+
+In the 61st minute of Sri Lanka's domination, Akash Madushana put a wonderful tri.
+
+Pradip Tanwar Tri put India in India. Narich gave the highest points.
+
+Akash Madushank then placed his second truck in the 73rd minute and a Ratwatta tri, who was dressed in the 75th minute.
 
 ...
 
 [Data](articles/7a53ed06.json)
+
+[Extended Data](ext_articles/7a53ed06.ext.json)
+
+---
+
+### போலி முகநூல் பதிவுக்கு எதிராக வழக்கு
+
+*2024-04-30 23:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-முகநூல்-பதிவுக்கு-எதிராக-வழக்கு/175-336578) · `ta`
+
+போலி முகநூல் பதிவொன்றுக்கு எதிராக திருகோணமலை மாவட்ட நீதிமன்றில் செவ்வாய்க்கிழமை (30) வழக்கொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+
+நிகழ்நிலைக் காப்புச் சட்டத்தின்கீழ் மனுவை சட்டத்தரணி நாகராஜா மோகன் தாக்கல் செய்திருந்தார். குறித்த மனுவை ஆதரித்து சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமாரநாதன் மன்றில் சமர்ப்பணம் செய்திருந்தார்.
+
+மெய்யுறுதிப்படுத்தப்படாத முகநூல் நிகழ்நிலைக் கணக்கினை பயன்படுத்துபவரது ஆள் அடையாளம் உறுதிப்படுத்தப்படல் வேண்டும், குறித்த முகநூல் கணக்கு பயன்படுத்தப்படும் அமைவிடம் அவற்றோடு தொடர்புடைய ஏனைய நிகழ்வுகள் பற்றிய விடயங்கள் உறுதிப்படுத்தப்படல் வேண்டும், போன்ற விண்ணப்பங்களை முன்வைக்கப்பட்டது.
+
+...
+
+[Data](articles/1e496fd6.json)
 
 ---
 
@@ -2183,83 +2249,5 @@ DIG Indika Hapugoda watching this regard by the video of the above video ...
 [Data](articles/94f624ec.json)
 
 [Extended Data](ext_articles/94f624ec.ext.json)
-
----
-
-### The gun exploded at the airport
-
-*2024-04-30 13:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-துப்பாக்கி-வெடித்தது/175-336552) · `ta`
-
-A fireman's explosive at Katunayake airport damaged the terminal's roof on Tuesday morning, while a T-56 rifle belonging to the Sri Lanka Air Force Chief Air Force malfunctioned at 10.30 am, causing no casualties. An Air Force soldier was arrested. Investigations are ongoing by the Katunayake Airport Police and the Sri Lanka Air Force.
-
-🟩
-
-The roof of the terminal has been damaged when a fireman exploded on Tuesday morning (04) morning (04).
-
-The T-56 rifle, which belongs to the Sri Lanka Air Force Chief Air Force, eroded at 10.30 am, causing no casualties.
-
-At the Katunayake airport, special guests and the world's leading traders are frequently traveling through this terminal.
-
-Air Force soldier on duty has been arrested. Further investigations are being carried out by the Katunayake Airport Police and the Sri Lanka Air Force.
-
-◼️
-
-[Data](articles/35fbbb63.json)
-
-[Extended Data](ext_articles/35fbbb63.ext.json)
-
----
-
-### Ranil has performed political miracle in Sri Lanka - Eriksolheim
-
-*2024-04-30 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/182317) · `ta`
-
-Eriksolheim praises Ranil Wickremesinghe for a political miracle in Sri Lanka, overcoming a severe crisis with low inflation and stability, despite life remaining difficult for many.
-
-🟩
-
-Norway's former peace ambassador to Sri Lanka, Eriksolheim, has said that President Ranil Wickremesinghe has carried out a political miracle in Sri Lanka.
-
-He made this statement in his social media post that he was not afraid of the crisis.
-
-He said the country was in a state of worst crisis 18 months ago.
-
-The continuous power outage was seen by long queues for fuel -and the rapid rise of money was on the rise, he said.
-
-He added that the current stability in Sri Lanka has been repeated. Inflation is very low.
-
-Ericksolheim has posted that life is still difficult for many Sri Lankans.
-
-The person who did not flee the crisis was President Ranil Wickremesinghe and said that my longtime friends Ranilwickramasinghe in Sri Lanka, Ranilwickramasinghe, has said that it is very good to have a delicious dinner with his wife Maithri.
-
-◼️
-
-[Data](articles/01ad8fd5.json)
-
-[Extended Data](ext_articles/01ad8fd5.ext.json)
-
----
-
-### Ukraine’s ‘Harry Potter Castle’ hit in Russian missile strike, at least 4 killed
-
-*2024-04-30 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98935/ukraines-harry-potter-castle-hit-in-russian-missile-strike-at-least-4-killed) · `en`
-
-At least four people have been killed in a Russian missile strike that hit a Gothic-style building in the southern Ukrainian city of Odesa.
-
-Known to locals as the “Harry Potter Castle”, its turrets were still burning at nightfall and emergency services graded the blaze severe.
-
-Residents reportedly did not have enough time to take shelter as air raid alerts only happened a few minutes before the strike.
-
-“The type of missile is currently being checked; forensic specialists are carrying out the appropriate evaluations to this end,” said a spokesperson for Ukraine’s Southern Defense Forces, Dmytro Pletenchuk.
-
-“All services, including the State Emergency Service, are currently working to eliminate the consequences of the missile strike - yet another war crime.”
-
-Visiting the capital Kyiv earlier on Monday, NATO Secretary General Jens Stoltenberg said the alliance’s members had failed to deliver what they promised to Ukraine in good time, allowing Russia to exploit battlefield advantages.
-
-...
-
-[Data](articles/0d44cf30.json)
-
-[Extended Data](ext_articles/0d44cf30.ext.json)
 
 ---

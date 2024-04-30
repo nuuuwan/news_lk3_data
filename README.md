@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 13:53:15**
+As of **2024-04-30 14:04:13**
 
 ## Newspaper Stats
 
-*Scraped **21,828** Articles*
+*Scraped **21,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ tamilmirrorlk | 2,535
 adaderanalk | 2,586
 virakesarilk | 3,287
 dailymirrorlk | 3,401
-adaderanasinhalalk | 3,533
+adaderanasinhalalk | 3,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,827 (100.0%) of 21,828 articles have been extended.
+21,828 (100.0%) of 21,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### හූති කැරළිකරුවන් නැවතත් ත්‍රාසය පතුරුවයි
+
+*2024-04-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196132) · `si`
+
+ඉන්දීය සාගරයේ සහ රතු මුහුදේ යාත්‍රා කරමින් තිබූ නෞකා හතරකට යේමනයේ හූති කැරළිකරුවන් විසින් ප්‍රහාර එල්ලකොට ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඉන්දීය සාගරයේ යාත්‍රා කරමින් තිබූ MSC Orion නම් බහාලුම් ප්‍රවාහන නෞකාවකට ඩ්‍රෝන ප්‍රහාරයක් එල්ලකර තිබුණි.
+
+හූති කැරළිකරුවන් පවසන්නේ ඊශ්‍රායලය පලස්තීනයට එල්ල කරන ප්‍රහාර සඳහා ප්‍රතිචාර ලෙස ඊශ්‍රායලය හා සම්බන්ධතා ඇති යාත්‍රා සඳහා ඔවුන් ප්‍රහාර එල්ල කරන බවයි.
+
+එම යාත්‍රාවේ ලියාපදිංචි හිමිකරු වන්නේ  Zodiac Maritime නම් සමාගමකි. Eyal Ofer නම් ඊශ්‍රායල ව්‍යාපාරිකයාට එහි කොටස් හිමි ය.
+
+රතු මුහුදේ යාත්‍රා කරමින් තිබූ Cyclades නම් වෙළෙඳ නැවකට සහ අමෙරිකානු නාවික හමුදා යාත්‍රා දෙකකට ප්‍රහාර එල්ලකළ බව හූති කැරළිකරුවන් අද පැවසීය.
+
+◼️
+
+[Data](articles/a9280983.json)
+
+---
+
+### මැයි දින සැමරුමට  සුදානම - ආරක්ෂාවත් තර කෙරේ
+
+*2024-04-30 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196131) · `si`
+
+වැඩකරන ජනතාවගේ අයිතිවාසිකම් වෙනුවෙන් නම් කෙරුණු ජාත්‍යන්තර කම්කරු දිනය හෙටයි.
+
+ඒ වෙනුවෙන් මෙරට දේශපාලන පක්ෂ හා විවිධ සංවිධාන මැයි දින සැමරුම් සහ පෙළපාළි රැසක් කොළඹ ඇතුළු ප්‍රදේශ කිහිපයක සංවිධාන කර තිබේ.
+
+හෙටට යෙදී ඇති ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් දේශපාලන පක්ෂ හා විවිධ සංවිධාන රට පුරා පවත්වන මැයි දින රැළි හා පෙළපාළි ගණන 40කි.
+
+ඒ අනුව, එක්සත් ජාතික පක්ෂය, ශ්‍රී ලංකා පොදුජන පෙරමුණ, සමගි ජන බලවේගය, ජාතික ජන බලවේගය, පෙරටුගාමී සමාජවාදී පක්ෂය යන පක්ෂ ඇතුළු සිවිල් සංවිධාන කිහිපයක්  කොළඹ නගරයේදී සිය මැයි දින රැළි, පෙළපාලි හා සැමරුම් උත්සවවලට එක්වනු ඇත.
+
+එක්සත් ජාතික පක්ෂය මෙවර මැයි දින පෙළපාළියක් නොපවත්වන අතර සිය රැළිය පවත්වන්නේ, පී.ඩී. සිරිසේන ක්‍රීඩාංගණය ඉදිරිපිට නව ප්‍රදීපා මාවත පරිශ්‍රයේදීය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ ද මෙවර මැයි දින පෙළපාලියක් නොපත්වන අතර බොරැල්ල කැම්බල් පිටියේදී සිය පක්ෂයේ රැළිය පැවැත්වීමට සැලසුම් කර තිබේ.
+
+සමගි ජන බලවේගය පක්ෂය කොළඹ කොටුව ආශ්‍රීත මාර්ග කිහිපයකින් දිවෙන මැයි දින පෙළපාලියක් පවත්වා පහළ චැතම් වීදිය ප්‍රදේශයේදී සිය මැයි රැළිය පැවැත්වීමට නියමිතය.
+
+...
+
+[Data](articles/a93dd811.json)
+
+---
 
 ### Special notice from the police
 
@@ -56,21 +100,27 @@ DIG Indika Hapugoda watching this regard by the video of the above video ...
 
 ---
 
-### விமான நிலையத்தில் துப்பாக்கி வெடித்தது
+### The gun exploded at the airport
 
 *2024-04-30 13:03:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-துப்பாக்கி-வெடித்தது/175-336552) · `ta`
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் விசேட பிரமுகர்கள் பயன்படுத்தும் முனையத்தில் கடமையில் ஈடுபட்டிருந்த இலங்கை விமானப்படையின் விமானப்படை வீரர் ஒருவரின் துப்பாக்கி செவ்வாய்க்கிழமை (04) காலை தீடிரென வெடித்ததில் முனையத்தின் கூரை சேதமடைந்துள்ளது.
+A fireman's explosive at Katunayake airport damaged the terminal's roof on Tuesday morning, while a T-56 rifle belonging to the Sri Lanka Air Force Chief Air Force malfunctioned at 10.30 am, causing no casualties. An Air Force soldier was arrested. Investigations are ongoing by the Katunayake Airport Police and the Sri Lanka Air Force.
 
-சிறிலங்கா விமானப்படையின் தலைமை விமானப்படையைச் சேர்ந்தவரிடம்  இருந்த T-56 ரக துப்பாக்கி தவறுதலாக காலை 10.30 மணியளவில் வெடித்துள்ளது என்றும் இதனால்,  உயிர் சேதம் ஏற்படவில்லை எனவும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-கட்டுநாயக்க விமான நிலையத்தில், பணம் செலுத்தி வசதிகளைப் பெறும் சிறப்பு விசேட விருந்தினர்கள் மற்றும் உலகின் முன்னணி வர்த்தகர்கள் இந்த முனையத்தின் ஊடாக அடிக்கடி பயணங்களை மேற்கொள்கின்றனர்.
+The roof of the terminal has been damaged when a fireman exploded on Tuesday morning (04) morning (04).
 
-கடமையில் இருந்த விமானப்பட வீரர் கைது செய்யப்பட்டுள்ளார்.  இது தொடர்பான மேலதிக விசாரணைகளை கட்டுநாயக்க விமான நிலைய பொலிஸார் மற்றும் இலங்கை விமானப்படையினர் மேற்கொண்டு வருகின்றனர்.
+The T-56 rifle, which belongs to the Sri Lanka Air Force Chief Air Force, eroded at 10.30 am, causing no casualties.
+
+At the Katunayake airport, special guests and the world's leading traders are frequently traveling through this terminal.
+
+Air Force soldier on duty has been arrested. Further investigations are being carried out by the Katunayake Airport Police and the Sri Lanka Air Force.
 
 ◼️
 
 [Data](articles/35fbbb63.json)
+
+[Extended Data](ext_articles/35fbbb63.ext.json)
 
 ---
 
@@ -2197,67 +2247,5 @@ He stated that the new faculty will enroll 500 local and foreign students annual
 [Data](articles/933951d4.json)
 
 [Extended Data](ext_articles/933951d4.ext.json)
-
----
-
-### 2024-04-29 (Monday)
-
-### Steps to declare Tourist places
-
-*2024-04-29 23:32:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/49-சுற்றுலாத்-தலங்களை-அறிவிக்க-நடவடிக்கை/175-336538) · `ta`
-
-Tourism Minister Diana Kamage announced the identification of 49 new tourist destinations for development, aiming to publish them as tourist zones within a month. This move is part of efforts to boost tourism. Criticisms of SPA centers, which operate as health centers in other countries, were also addressed, emphasizing their focus on health.
-
-🟩
-
-Tourism Minister Diana Kamage said that 49 more tourist destinations have been identified for the development of the tourism industry and that within a month, steps are being taken to publish them as tourist zones in the Gazette.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-We have identified 49 more tourist destinations for the development of tourism. We are also taking steps to publish them as tourist zones within a month. Through this we are looking forward to increase the number of tourists visiting our country.
-
-There has been various criticisms in recent times over the SPA centers operating in this country.
-
-These actually operate as health centers in other countries. They should be focused on the health of the people. But I should not mention what happens in such places in this country. (A)
-
-◼️
-
-[Data](articles/047114b9.json)
-
-[Extended Data](ext_articles/047114b9.ext.json)
-
----
-
-### The easiest victory for Kolkata in all sectors
-
-*2024-04-29 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182276) · `ta`
-
-Kolkata Knight Riders won the 47th IPL match against Telhi Kettals by 7 wickets, thanks to strong bowling and fielding. Key players included Varun Emperor, Harshid Rana, Vaibhav Arora, and Bill Salt. Kolkata scored 157 runs in 16.3 overs, with Salt hitting 68 runs.
-
-🟩
-
-Kolkata Knight Riders easily won the Telhi Kettals by 7 wickets in the 47th match of the 17th Indian Premier League chapter held at the Eden Garden Stadium in Kolkata on Monday (29).
-
-Kolkata shone in all sectors of bowling, bowling and fielding.
-
-Varun Emperor, Harshid Rana and Vaibao Aurora, Bill Soldin's Action Half a century, and Shreyas Iyer's worse, played a major role in the victory of Kolkata Knight Riders.
-
-Kolkata Knight Riders lost 3 wickets in 16.3 overs, scoring 157 runs for a total of 154 runs.
-
-Kolkata Knight Riders scored 21 runs in the first over of Lizat Williams.
-
-Lizad Williams missed Bill Sold in the first ball of Khalil Ahmad in the next over. Bill Salt, who had scored 15 runs, sat down with 50 runs off 26 balls.
-
-Kolkata Knight Riders scored 79 runs without a wicket.
-
-Bill Salt, who scored 68 runs with 7 pounds and 5 sixes off 33 balls, lost the 2nd.
-
-Following him, another action player Rinku Singh scored 11 runs. (100 - 3 wig.)
-
-...
-
-[Data](articles/999610aa.json)
-
-[Extended Data](ext_articles/999610aa.ext.json)
 
 ---

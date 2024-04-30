@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 10:18:44**
+As of **2024-04-30 10:34:15**
 
 ## Newspaper Stats
 
-*Scraped **21,774** Articles*
+*Scraped **21,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,75 +20,135 @@ tamilmirrorlk | 2,528
 adaderanalk | 2,582
 virakesarilk | 3,276
 dailymirrorlk | 3,391
-adaderanasinhalalk | 3,523
+adaderanasinhalalk | 3,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,771 (100.0%) of 21,774 articles have been extended.
+21,774 (100.0%) of 21,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### இடியுடன் கூடிய மழை குறித்த அறிவிப்பு
+### නිවාස සංකීර්ණය යුද පිටියක් වෙයි
+
+*2024-04-30 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196122) · `si`
+
+අමෙරිකාවේ උතුරු කැරොලිනා හි චාර්ලට් හි වාසය කළ පුද්ගලයෙක්ට නොතීසියක් බාරදීමට ගිය ආරක්ෂක අංශ නිලධාරීන් පිරිසකට ප්‍රහාරයක් එල්ලකර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එම ප්‍රහාරයෙන් නිලධාරීන් සිව් දෙනෙක් මියගොස් තවත් සිව් දෙනෙක් බරපතළ තුවාල ලැබූ බව වාර්තා වෙයි.
+
+පොලිස් නිලධාරීන් සහ ප්‍රහාරකයින් අතර පැය 3ක පමණ කාලයක් වෙඩි හුවමාරුව සිදුකර ගෙන ඇති අතර ඉන් එක් සැකකරුවෙක් වෙඩි වැදී මියගොස් තිබුණි.
+
+මෙය වසර ගණනාවකින් අමෙරිකානු ආරක්ෂක අංශ ඉලක්ක කර එරටදී එල්ල කළ දරුණුතම ප්‍රහාරය ලෙස සැලකෙයි.
+
+◼️
+
+[Data](articles/d7187dd5.json)
+
+---
+
+### Notice of thunderstorms
 
 *2024-04-30 10:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-336542) · `ta`
 
-வடக்கு, வடமத்திய மற்றும்  வடமேல்  மாகாணங்களிலும் அத்துடன் கொழும்பு, ஹம்பகா, திருகோணமலை மற்றும் மட்டக்களப்பு  மாவட்டங்களிலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+"Thunderstorms expected in Northern, North Central, North Western Provinces, and Colombo, Hambaga, Trincomalee, Batticaloa districts. Showers or thunderstorms likely in Central, Sabaragamuwa, Upper, North Western, South, and Uva provinces. Heavy rains in Sabaragamuwa, Upper, and Uva provinces. Vigilance advised due to strong winds and lightning. Sea regions may experience turbulence."
 
-மத்திய, சப்ரகமுவ, மேல், வடமேல், தென் மற்றும் ஊவா மாகாணங்களின் பல இடங்களில் பிற்பகல் ஒரு  மணிக்குப் பின்னர்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+🟩
 
-ஏனைய பிரதேசங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+The Department of Meteorology has announced that there will be increased temperatures in the Northern, North Central and North Western Provinces as well as in Colombo, Hambaga, Trincomalee and Batticaloa districts today.
 
-சப்ரகமுவ, மேல் மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+Showers or thunderstorms are likely to occur in many parts of the Central, Sabaragamuwa, Upper, North Western, South and Uva provinces.
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் காலை வேளையில் பனிமூட்டம் காணப்படும்
+In some parts of other areas, there is a chance of rain or thunderstorms in the evening or night.
 
-பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர்.
+Heavy rains are expected to occur in some parts of Sabaragamuwa, Upper and Uva provinces.
 
-நாட்டை சூழ உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+In some parts of the Central, Sabaragamuwa and Uva provinces
+
+In cases where strong winds and lightning are occurring, the public is asked to act with vigilance.
+
+Showers or thunderstorms can occur in many parts of the sea regions around the country in the evening or night.
+
+In the sea regions, the wind blows from the southeast or the contrasting directions at 15 - 25 km / h.
 
 ...
 
 [Data](articles/506b3da8.json)
 
+[Extended Data](ext_articles/506b3da8.ext.json)
+
 ---
 
-### மே தினத்தை முன்னிட்டு கொழும்பில் நாளை விசேட போக்குவரத்து திட்டம்
+### නීතිඥවරිය අබිරහස් ලෙස ඝාතනය කර දේපොළත් කොල්ලකාලා
+
+*2024-04-30 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196121) · `si`
+
+නිවසක තනිව විසූ අවිවාහක කාන්තාවක් නිවසේ ඇඳ මත අබිරහස් ලෙස ඝාතනය කර දේපොළ කොල්ලකා ඇතැයි කොහුවල පොලීසිය පවසයි.
+
+එලෙස ඝාතනයට ලක්ව ඇත්තේ දෙහිවල කළුබෝවිල පාර ද සිල්වා හරස් පාර පදිංචිව සිටි 64 හැවිරිදි නීතිඥවරියෙකි.
+
+ඝාතනයට ලක් වූ බව කියන නීතිඥවරිය මෙම නිවසේ තනිව ගත කර ඇති අතර ඇයගේ සොයුරා කැනඩාවේ ජීවත් වන බව පොලීසිය සඳහන් කරයි.
+
+ඇය ඔහු සමග නිරතුරුවම දුරකථනයෙන් සබඳතා පවත්වන අතර ඉකුත් පෙබරවාරි 15 වනදා අවසන් වතාවට ඔවුන් දෙදෙනා දුරකථනයෙන් සම්බන්ධ වී ඇති පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කැනඩාවේ පදිංචි සහෝදරයාගේ මිතුරෙකු වන මිරිහාන ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු ඊයේ (29) දහවල් කොහුවල පොලීසිය වෙත පැමිණ කැනඩාවේ පදිංචි මිතුරාගේ සහෝදරිය ඔහුට පෙබරවාරි 15 වෙනි දිනයෙන් පසුව දුරකථනයෙන් සබඳතා නොපැවතීම හේතුවෙන් ඒ සම්බන්ධයෙන් කොහුවල පොලීසිය වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබිණි.
+
+ඒ අනුව, කොහුවල පොලීසියේ නිලධාරීන් කණ්ඩායමක් අදාළ නිවස වෙත ගොස් සොයා බැලීමේදී ඉදිරිපස ස්වංක්‍රීය ගේට්ටුවට යාබද ගේට්ටුව ඉබි යතුරු දමා වසා තබා තිබී ඇත.
+
+...
+
+[Data](articles/8e224a34.json)
+
+---
+
+### Special Transport Plan in Colombo Tomorrow
 
 *2024-04-30 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/182282) · `ta`
 
-சர்வதேச தொழிலாளர் தினமான மே தினத்தை முன்னிட்டு நாளை (01) கொழும்பு நகரை சுற்றி விசேட போக்குவரத்து திட்டம் முன்னெடுக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Colombo will have a special traffic project tomorrow for International Labor Day, with 40 rallies and events. Drone camera flying is banned at the May Day rally.
 
-மே தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் நாளை 40 பேரணிகள் மற்றும் விசேட நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-19ஆம் திகதி மே தினக் கொண்டாட்டங்களும் இடம்பெறவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+A special traffic project will be carried out around the city of Colombo tomorrow (01) to mark the International Labor Day, May Day, police said.
 
-இதேவேளை, மே தினப் பேரணிகளில் அனுமதியின்றி ட்ரோன் கமராவை பறக்க விடுவது தடை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that 40 rallies and special events will be organized tomorrow.
 
-கொழும்பு நகரை சுற்றி பேரணிகள் இடம்பெற்று வருவதையடுத்து இதற்காக விசேட போக்குவரத்து திட்டம் முன்னெடுக்கப்படவுள்ளது.
+The May Day celebrations will also be held on the 19th, the police media spokesman said.
+
+Meanwhile, police said that the flying of the drone camera was banned without permission at the May Day rally.
+
+A special traffic plan will be carried out for this purpose.
 
 ◼️
 
 [Data](articles/51472a13.json)
 
+[Extended Data](ext_articles/51472a13.ext.json)
+
 ---
 
-### கொழும்பில் இருந்து வந்தவர் யாழ்ப்பாணத்தில் மயங்கி விழுந்து உயிரிழப்பு!
+### Colombo man dies in Jaffna
 
 *2024-04-30 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182289) · `ta`
 
-கொழும்பில் இருந்து வந்த நபர் ஒருவர் நேற்று திங்கட்கிழமை (29) காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகாமையில் உள்ள நண்பனின் வீட்டில் மயங்கி விழுந்து உயிரிழந்துள்ளார். இதன்போது கொழும்பு கொட்டாஞ்சேனை பகுதியைச் சேர்ந்த கிறிஸ்தோபர் சுரேந்திரன் வில்சன் (வயது 65) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+Christopher Surendran Wilson, 65, from Colombo, died in a friend's house near Kankesanthurai Nadeswara College, Jaffna. The friend is abroad. Wilson fell unconscious and died. An investigation is underway.
 
-உயிரிழந்த நபரின் நண்பர் வெளிநாட்டில் வசித்து வருகின்றார். வெளிநாட்டில் வசித்து வருபவரது வீடு காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகாமையில் உள்ளது. குறித்த வீட்டில் வேலை செய்வதற்காக உயிரிழந்த நபரும் அவரது நண்பரும் வருகை தந்திருந்தனர்.
+🟩
 
-இதன்போது குறித்த நபர் திடீரென மயங்கி விழுந்து உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளுக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+A man from Colombo died in a friend's house near the Kankesanthurai Nadeswara College on Monday (29). The deceased was the death of Christopher Surendran Wilson (65) from Kottanchenai, Colombo.
+
+The friend of the deceased is living abroad. The residence of a foreigner is near the Kankesanthurai Nadeswara College. The deceased man and his friend were in attendance to work in the house.
+
+The man suddenly fell unconscious and died. A sudden death investigation officer A. Jayapalasingham. The body has been kept at the Jaffna Teaching Hospital for anatomical examination.
 
 ◼️
 
 [Data](articles/2887cbc9.json)
+
+[Extended Data](ext_articles/2887cbc9.ext.json)
 
 ---
 
@@ -918,7 +978,7 @@ The High Commissioner of Pakistan Faheem Ul Aziz HI (M) in his message on the oc
 
 ### Ranil Plans to Contest 2024 Presidential Election as an  independent  non -party common candidate (Nirpakshika Podu Apekshaya) backed by a group of parties, organizations and key individuals
 
-*2024-04-30 00:03:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83964) · `en`
+*2024-04-30 00:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83964) · `en`
 
 The first part of this article published in the “Daily Mirror”of 20 April 2024 under the heading “Ranil Wickremesinghe caravan moves on despite barking dogs” has evoked a lot of reader responses. In a climate of Ranil-bashing many seem to be happy  that  Wickremesinghe’s courageous decision to accept the challenge of leading the country on the road to economic recovery and  the limited yet commendable progress achieved by his Govt has been acknowledged. As mentioned in the concluding paragraph of last week’s article,  this second part of the article  would be focusing on the strategy being devised by Ranil Wickremesinghe to win the 2024 presidential stakes.
 
@@ -2073,47 +2133,5 @@ Sources said that the Matara Fire Floor Unit, Weligama Police and the residents 
 [Data](articles/b5592cbe.json)
 
 [Extended Data](ext_articles/b5592cbe.ext.json)
-
----
-
-### No transparency in electric vehicle scheme for migrant workers; CoPF calls for full analysis
-
-*2024-04-29 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98921/no-transparency-in-electric-vehicle-scheme-for-migrant-workers-copf-calls-for-full-analysis-) · `en`
-
-Since there is no transparency in the scheme of providing fully electric vehicle licenses to Sri Lankans working abroad and it appears that there are many issues pertaining to the matter, the Chair of the Committee on Public Finance Dr. Harsha de Silva instructed that a full analysis is needed to be carried out jointly with the Ministry of Finance, the Central Bank, Sri Lanka Customs and the Ministry of Labor and Foreign Employment.
-
-He further instructed that a report be submitted within two weeks on the said. Furthermore, until the analysis is received, it is not possible to give approval to the relevant gazette extending the period of licensing, the Chairman of the Committee said.
-
-It was also instructed to find out whether foreign remittances, which is the desired objective, have been received at a significant level through this system, or if some persons have misused this facility when preparing this analytical report, the Parliamentary Communications Department said in a statement.
-
-...
-
-[Data](articles/daee693a.json)
-
-[Extended Data](ext_articles/daee693a.ext.json)
-
----
-
-### Cutting on Saloon: Two death sentences
-
-*2024-04-29 19:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலூனில்-வெட்டிக்கொலை-இருவருக்கு-மரண-தண்டனை/175-336520) · `ta`
-
-Amal Ranarajah, a Colombo High Court Judge, released two defendants on charges of killing a person in a dispute over a barrier shop (Salon). The judge, Mohammed Najim and Colin's warrior, were sentenced to death by Veeraamy Alakeswara Viswanathan and Duan Aziz Ramanathan. The Attorney General filed a case against four defendants for killing Nadesan in Pettah on August 5, 2022, revealing the defendants had cut Nadesan with a knife.
-
-🟩
-
-Colombo High Court Judge Amal Ranarajah released the two defendants on charges of killing a person after a dispute over a barrier shop (Salon) and released the two other defendants of the case.
-
-The judge, Mohammed Najim and Colin's warrior, were sentenced to death by Veeraamy Alakeswara Viswanathan and Duan Aziz Ramanathan on all allegations.
-
-On August 5, 2022, the Attorney General has filed a case against four defendants for killing Nadesan in the five -year area of Pettah, Pettah.
-
-Following the argument in the barbed wire, the facts revealed that the defendants had cut Nadesan with a knife.
-
-◼️
-
-[Data](articles/4ca2e7de.json)
-
-[Extended Data](ext_articles/4ca2e7de.ext.json)
 
 ---

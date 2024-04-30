@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 18:23:03**
+As of **2024-04-30 18:34:13**
 
 ## Newspaper Stats
 
-*Scraped **21,899** Articles*
+*Scraped **21,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,836
 tamilmirrorlk | 2,542
 adaderanalk | 2,593
 virakesarilk | 3,302
-dailymirrorlk | 3,414
+dailymirrorlk | 3,415
 adaderanasinhalalk | 3,544
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,898 (100.0%) of 21,899 articles have been extended.
+21,899 (100.0%) of 21,900 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -167,6 +167,22 @@ They said proper permission is required for all the May Day rallies in the count
 [Data](articles/9420a7f6.json)
 
 [Extended Data](ext_articles/9420a7f6.ext.json)
+
+---
+
+### Only SLPP will conduct May Day rally at a playground: Kariyawasam
+
+*2024-04-30 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-SLPP-will-conduct-May-Day-rally-at-a-playground-Kariyawasam/108-281665) · `en`
+
+Colombo, April 30 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is the only party that will conduct its May Day rally at a playground, maintaining tradition, while other political parties have been unable to secure similar venues, SLPP General Secretary MP Sagara Kariyawasam said.
+
+Speaking to the media, he noted that previously, political parties held their May Day rallies on playgrounds, but this year, the SLPP has garnered the greatest support and trust to conduct their rally at such a venue.
+
+"Regrettably, political parties other than the SLPP were compelled to conduct their May Day rallies on the streets, indicative of their limitations. The Samagi Jana Balavegaya (SJB) and the Janatha Vimukthi Peramuna (JVP) were constrained to hold their rallies on the road, with some starting from playgrounds but concluding on the streets. This tactic often led to road closures, as they aimed to create the illusion of massive crowds," MP Kariyawasam said.
+
+...
+
+[Data](articles/2cdc57fb.json)
 
 ---
 
@@ -344,17 +360,25 @@ Also, did the girl automatically consume pills that reduce blood pressure?Or did
 
 ---
 
-### ගජ මුතු 05 රුපියල් කෝටි 7යි ලක්ෂ 20 කට
+### 3 crores for oil 05 billion
 
 *2024-04-30 16:14:13* · [`adalk`](https://www.ada.lk/breaking_news/ගජ-මුතු-05-රුපියල්-කෝටි-7යි-ලක්ෂ-20-කට/11-409347) · `si`
 
-නිධානයක් හාරා ලබා ගත්  මිල කළ නොහැකි අති දුර්ලභ වර්ගයේ ගජ මුතු 05 රුපියල් මිලියන 72 කට අලෙවි කිරීම ට සූදානම් වු පුද්ගලයන් 4 දෙනකු අත් අඩංගුවට ගත් බව ජාඇල පොලීසිය පවසයි.
+Five rural pearls worth 3 crores were being sold by four individuals, including the owner of Gamanam, a leading factory's storage controller. They were arrested for illegal activities near Kiruluka Kirindu Oya, where they had previously marked a kibula. The suspects claimed they couldn't sell the pearls at the time but were planning to sell them later.
 
-ඉකුත් 29 දින ජාඇල පොලිස් විශේෂ කාර්යාංශයට ගජ මුතු තොගයක් විකිණීමට කන්ඩායම ක් සුදානම් වන බවට ලද තොරතුරක් මත ජාඇල කෝට්ටාශ බුද්ධි අංශයේ නිලධාරියකු උපාය දූතයකු ලෙස පෙනී සිටිමින් තුඩැල්ල රුක්මණී දේවී ස්මාරකය අසලදී ගජ මුතු රැගෙන පැමිණි පුද්ගලයන් 04 දෙනකු සමඟ ග්‍රෑම් 91 මිලි ග්‍රෑම් 690 ක් බර ගජ මුතු 05 අත් අඩංගුවට ගෙන තිබේ.
+🟩
 
-...
+Four persons who were preparing for selling the five rural pearls for Rs.
+
+A stress an announcer with a tip of the Gaewala Rukle Rukle Summit in Tsdele Rukle5 pearls have been arrested.
+
+The owner of the Gamanam is a resident of Nikaweratiya and is a storage control of the main leader of the leading factory. The other three is the brokers to be the brokeors. He was revealed to the police when she was arrested from the Kiruluka Kirindu Oya, who had marked a kibula in the area several years ago.. He has told the police that it was not possible to sell these gaj pearls during that time, but he said he was impossible to decline in all the time of the house. The person who had taken the cuts of a stalks and told the guarantees that a shooting was taken back from obtaining these gajamutha.. He has said that he was arrested after being prepared for selling the 5 tunes and was prepared to marke 05 with other applications.. The suspects were to be sent to the Welisara Magistrate's Court today (30).
+
+◼️
 
 [Data](articles/ed3f122e.json)
+
+[Extended Data](ext_articles/ed3f122e.ext.json)
 
 ---
 
@@ -2267,25 +2291,5 @@ In addition to the instructions of the Minister of State, the Director General o
 [Data](articles/21ef5f65.json)
 
 [Extended Data](ext_articles/21ef5f65.ext.json)
-
----
-
-### Keheliya's petition decision postponed
-
-*2024-04-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196125) · `si`
-
-Keheliya's petition decision postponed to May 7th. Court of Appeal's decision delayed.
-
-🟩
-
-Is the Paradise made by Hon.Not?The Court of Appeal ordered the declaration of the order until 07th May.
-
-However, the Court of Appeal will be postponed until May 07th. Mr. Samarakoon announced.
-
-◼️
-
-[Data](articles/292a6837.json)
-
-[Extended Data](ext_articles/292a6837.ext.json)
 
 ---

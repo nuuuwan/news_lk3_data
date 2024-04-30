@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 05:04:19**
+As of **2024-05-01 05:18:33**
 
 ## Newspaper Stats
 
-*Scraped **21,957** Articles*
+*Scraped **21,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,190
-dailyftlk | 1,231
+dailyftlk | 1,236
 economynextcom | 1,247
 adalk | 1,840
 tamilmirrorlk | 2,551
@@ -26,11 +26,87 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,954 (100.0%) of 21,957 articles have been extended.
+21,957 (100.0%) of 21,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Pathfinder Foundation and Centre for Humanitarian Dialogue to co-host 4th Bay of Bengal Maritime Dialogue
+
+*2024-05-01 05:04:37* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Centre-for-Humanitarian-Dialogue-to-co-host-4thBay-of-Bengal-Maritime-Dialogue/56-761234) · `en`
+
+Pathfinder Foundation, in association with the Centre for Humanitarian Dialogue of Switzerland, will co-host the annual Bay of Bengal Maritime Dialogue in Colombo – the fourth in the series – on 7 and 8 May 2024.
+
+The event would see the attendance of around 50 delegates from BIMSTEC and IORA member states, besides Indonesia and Malaysia, which would bring together experts and researchers in disciplines such as maritime governance, maritime crisis management, sustainable fisheries, disaster management, and other major issues which impact on the Bay of Bengal and its diverse users, including those from outside the region. The dialogue will be held on a Track 1.5 basis.
+
+...
+
+[Data](articles/d447d2de.json)
+
+---
+
+### Ambassador Colombage presents “Sri Lanka: Land of Opportunities” at IBSE 2024
+
+*2024-05-01 05:04:08* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Colombage-presentsSri-Lanka-Land-of-Opportunities-at-IBSE-2024/56-761233) · `en`
+
+Ambassador of Sri Lanka to Indonesia and ASEAN, Admiral Prof. Jayanath Colombage, presented Sri Lanka’s trade and investment potential at the International Business Solution Expo (IBSE 2024) in Yogyakarta, Indonesia with the theme “Sri Lanka: Land of Opportunities.”
+
+The event, held from 22-24 April was organised by the Junior Chamber International (JCI) Indonesia and attracted young entrepreneurs from many countries including Indonesia, Singapore, Thailand, Malaysia, Timor Leste, Russia, Vietnam, Cambodia, and South Korea, fostering collaboration and innovation. Inaugurating the 2024 JCI, the President of Indonesia provided a platform for bilateral collaboration and discussions between the participants.
+
+...
+
+[Data](articles/a0d62b6b.json)
+
+---
+
+### 75th Foundation Day of Indian Council for Cultural Relations celebrated in Colombo
+
+*2024-05-01 05:02:35* · [`dailyftlk`](https://www.ft.lk/news/75th-Foundation-Day-of-Indian-Council-for-Cultural-Relations-celebrated-in-Colombo/56-761232) · `en`
+
+The Swami Vivekananda Cultural Centre, cultural arm of the High Commission of India, Colombo, commemorated the 75th Foundation Day of the Indian Council for Cultural Relations (ICCR) at the Viharamahadevi Park Open Air Theatre in Colombo on Monday.
+
+The event unfolded with a vibrant showcase of Indian classical dances and musical performances, painting a tapestry of cultural harmony and universality.
+
+Indian High Commissioner Santosh Jha was joined by Education Minister Dr. Susil Premajayantha as the Chief Guest and Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka as the Guest of Honour in inaugurating the event.
+
+...
+
+[Data](articles/c50306fb.json)
+
+---
+
+### Swisstek Aluminium shines for 3rd consecutive year at Best Management Practices Company Awards 2024
+
+*2024-05-01 04:58:39* · [`dailyftlk`](https://www.ft.lk/business/Swisstek-Aluminium-shines-for-3rd-consecutive-year-at-Best-Management-Practices-Company-Awards-2024/34-761231) · `en`
+
+Swisstek Aluminium team receiving honours on prestigious Best Management Practices Awards 2024 stage
+
+Swisstek Aluminium has been recognised for its exemplary management practices, receiving the Merit Award for the third consecutive year at the Best Management Practices Company Awards 2024.
+
+Hosted annually by CPM Sri Lanka, these awards honour organisations both public and private that exhibit exceptional leadership, growth, and success through their management strategies and practices.
+
+In the Construction Sector category, Swisstek Aluminium’s clinching of the Merit Award underscores its dedication to superior management practices, further solidifying its reputation as an industry trailblazer in Sri Lanka.
+
+...
+
+[Data](articles/b43ed270.json)
+
+---
+
+### CMA webinar on Management Accountants and AI tomorrow
+
+*2024-05-01 04:55:52* · [`dailyftlk`](https://www.ft.lk/business/CMA-webinar-on-Management-Accountants-and-AI-tomorrow/34-761230) · `en`
+
+The Institute of Certified Management Accountants of Sri Lanka (CMA) will hold a Continuing Professional Development (CPD)  webinar on “The Evolving Landscape of Management Accountants in the Age of AI” tomorrow (2 May) from 3.00 p.m. to 4.30 p.m. via online zoom platform.
+
+The objective of this webinar is to delve into the transformative era we live in - the Age of Artificial Intelligence (AI). It explores the impact of AI on management accountancy, specifically how it is reshaping the profession and existing opportunities it presents and discusses some of the risks and ethical considerations. Also discuss some cases on currently available AI technology especially with Generative AI applications like copilots, ChatGPT, Gemini and upcoming tools, concluding with future trends and outlook of AI landscape.
+
+...
+
+[Data](articles/a7254db7.json)
+
+---
 
 ### Court defers verdict in Weliveriya shooting case
 
@@ -47,6 +123,8 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 ◼️
 
 [Data](articles/4b3c2a1b.json)
+
+[Extended Data](ext_articles/4b3c2a1b.ext.json)
 
 ---
 
@@ -65,6 +143,8 @@ The Attorney General had filed indictments against the former minister under the
 ◼️
 
 [Data](articles/4c6b91a9.json)
+
+[Extended Data](ext_articles/4c6b91a9.ext.json)
 
 ---
 
@@ -85,6 +165,8 @@ The proposal to this effect submitted by Public Security Minister Tiran Alles wa
 ◼️
 
 [Data](articles/5e473906.json)
+
+[Extended Data](ext_articles/5e473906.ext.json)
 
 ---
 
@@ -2173,109 +2255,5 @@ The Welfare Benefits Board has issued a circular to all district secretaries and
 [Data](articles/2e178262.json)
 
 [Extended Data](ext_articles/2e178262.ext.json)
-
----
-
-### Prasanna's appeal petition petition post
-
-*2024-04-30 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196135) · `si`
-
-Prasanna Ranatunga's appeal petition postponed due to Kumaran Ratnam's absence. Sentenced to Rs. and fined Rs. 25 million. Colombo High Court contradicts law, acquitting Ranatunga.
-
-🟩
-
-The Court of Appeal (30) prescribed the appearance of an appeal petition filed by Minister Prasanna Ranatunga.
-
-Ranatunga has been sentenced to a reconciliation of Rs.
-
-Member Member Judge P. Bench Member Justice. The petition hearing was postponed due to Kumaran Ratnam's not participating in the trial today.
-
-Court of Appeal Judge D. N. The petition is prescribed before the aftermath of the five judges of the five judicial judiciary, Samarakoon.
-
-Minister Prasanna Ranatunga was sentenced to a sum of Rs.Determined to suspend.
-
-In addition, the court was fined Rs. 25 million.
-
-The Colombo High Court has contradicted the law and that the Prasanna Ranatunga, Minister Prasanna Ranatunga, appearing on the charges to acquit himself and releases them.
-
-◼️
-
-[Data](articles/59161744.json)
-
-[Extended Data](ext_articles/59161744.ext.json)
-
----
-
-### Eastern London
-
-*2024-04-30 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196134) · `si`
-
-In East London, a sword assault injured four people, with one suspect arrested.
-
-🟩
-
-The BBC reports that several people in East London were injured due to an assault caused by a sword.
-
-Four of them were injured and one suspect has been arrested.
-
-◼️
-
-[Data](articles/17ce3767.json)
-
-[Extended Data](ext_articles/17ce3767.ext.json)
-
----
-
-### Government aapproves amendment to ban physical punishment
-
-*2024-04-30 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-aapproves-amendment-to-ban-physical-punishment/108-281655) · `en`
-
-Colombo, April 30 (Daily Mirror) - The government today approved the amendment to the Penal Code and the Criminal Procedure Code for the banning of all corporal or physical punishments in all sectors.
-
-A recent study conducted in relation to the Sri Lankan context by the United Nations' Committee on Child Rights revealed that a large number of children are prone to physical punishments, abuses and violence due to the lack of legal provisions prevailing at home, within remedial protection backgrounds, within institutions for penalty order implementation, and in schools.
-
-A Supreme Court decision relevant to a fundamental rights petition filed by a student who experienced hearing discrepancies following an assault by a teacher has held the relevant teacher and the government responsible for violating the 11th statute of the Constitution.
-
-...
-
-[Data](articles/2a548107.json)
-
-[Extended Data](ext_articles/2a548107.ext.json)
-
----
-
-### South Africa announce T20 World Cup 2024 squad
-
-*2024-04-30 14:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/South-Africa-announce-T20-World-Cup-2024-squad/108-281653) · `en`
-
-Apr. 30 (ICC) - South Africa named their 15-man squad for the ICC Men's T20 World Cup 2024 on Tuesday, 30 April.
-
-Aiden Markram will lead South Africa's charge for the first time in an ICC event after being named the T20I skipper as the Proteas have named their squad for the ICC Men's T20 World Cup 2024 in the USA and West Indies.
-
-Among the notable inclusions are Anrich Nortje and Quinton de Kock, who were recently excluded from Cricket South Africa's central contract list. Nortje has been sidelined from international action since September 2023 due to a back injury, while De Kock announced his retirement from ODIs after the 2023 Cricket World Cup, having already bid farewell to Test cricket in 2022.
-
-...
-
-[Data](articles/e5d984fb.json)
-
-[Extended Data](ext_articles/e5d984fb.ext.json)
-
----
-
-### Government approves amendment to ban physical punishment
-
-*2024-04-30 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-amendment-to-ban-physical-punishment/108-281658) · `en`
-
-Colombo, April 30 (Daily Mirror) - The government today approved the amendment to the Penal Code and the Criminal Procedure Code for the banning of all corporal or physical punishments in all sectors.
-
-A recent study conducted in relation to the Sri Lankan context by the United Nations' Committee on Child Rights revealed that a large number of children are prone to physical punishments, abuses and violence due to the lack of legal provisions prevailing at home, within remedial protection backgrounds, within institutions for penalty order implementation, and in schools.
-
-A Supreme Court decision relevant to a fundamental rights petition filed by a student who experienced hearing discrepancies following an assault by a teacher has held the relevant teacher and the government responsible for violating the 11th statute of the Constitution.
-
-...
-
-[Data](articles/fee196f7.json)
-
-[Extended Data](ext_articles/fee196f7.ext.json)
 
 ---

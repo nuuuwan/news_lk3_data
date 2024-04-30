@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 12:05:16**
+As of **2024-04-30 12:18:33**
 
 ## Newspaper Stats
 
-*Scraped **21,806** Articles*
+*Scraped **21,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,233
-adalk | 1,825
+adalk | 1,826
 tamilmirrorlk | 2,532
 adaderanalk | 2,585
-virakesarilk | 3,278
+virakesarilk | 3,284
 dailymirrorlk | 3,398
 adaderanasinhalalk | 3,532
 
@@ -26,25 +26,73 @@ adaderanasinhalalk | 3,532
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,798 (100.0%) of 21,806 articles have been extended.
+21,806 (100.0%) of 21,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### හැරී පොටර් මන්දිරයට ප්‍රහාරයක්
+### அவுஸ்திரேலியாவில் தொலைபேசி மூலம் பெண்களுடன் ஆபாச உரையாடலில் ஈடுபட்ட இலங்கையர் - இரண்டு வருட சிறைத்தண்டனை
+
+*2024-04-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182308) · `ta`
+
+அவுஸ்திரேலியாவில் தொலைபேசி மூலம் ஆபாச உரையாடல்களில் ஈடுபட்ட  இலங்கையை சேர்ந்த நபர் ஒருவருக்கு நீதிமன்றம் இரண்டு வருட சிறைத்தண்டனை விதித்துள்ளது.
+
+இவர் தன்னை தொலைக்காட்சி ஒன்றின் அதிகாரி  என தெரிவித்துவந்தார்அது பொய் எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+தாய் ஒருவரை தொலைபேசியில் தொடர்புகொண்ட இந்த நபர் மகளை பாலியல்வன்முறைக்கு உட்படுத்தி துண்டுதுண்டாக வெட்டிக்கொள்வேன் என அச்சுறுத்தியுள்ளார்.
+
+ஜனவரி 2018 முதல் 2022 ஜனவரி 22ம் திகதி வரை இவர் 18 பேருடன் இவ்வாறு தொலைபேசியில் உரையாடியுள்ளார்.
+
+தன்னை சனல் 7 தொலைக்காட்சியின் திறமையாளிகளை தேடும் நபர் என அறிமுகப்படுத்திக்கொண்டு  தங்களை தொடர்புகொண்டார் என பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
+
+எனினும் சனல் 7 தனக்கும் இந்த நபருக்கும் எந்த தொடர்பும் இல்லை என  தெரிவித்துள்ளது.
+
+இதேவேளை பாதிக்கப்பட்ட  நபர்கள் தங்களை தொலைபேசியில் தொடர்புகொண்ட வாமதேவன் இழிவான மோசமான பாலியல் ரீதியிலான உரையாடலில் ஈடுபட்டார் என தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/c53dd358.json)
+
+---
+
+### நயினாதீவில் பேருந்து சேவை இன்றி மக்கள் தவிப்பு !
+
+*2024-04-30 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182305) · `ta`
+
+நயினாதீவில் சேவையில் ஈடுபட்டு வந்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்து பழுதடைந்துள்ளமையால் , பேருந்து சேவைகள் இன்றி பலரும் இன்னல்களை எதிர்கொண்டுள்ளனர்.
+
+நயினாதீவில் ஒரு பேருந்து , தீவினுள் போக்குவரத்து சேவையில் இதுவரை காலமும் ஈடுபட்டு வந்ததுள்ளது. நயினாதீவிற்கு வேலைக்கு செல்வோர் , சுற்றுலா செல்வோர் பிரதேசவாசிகள் என பலரும் தீவினுள் தமது போக்குவரத்திற்கு பேருந்து சேவையையே பயன்படுத்தி வந்தனர்.
+
+இந்நிலையில் சேவையில் ஈடுபட்டு வந்த பேருந்து பழுதடைந்துள்ளமையால் , பேருந்து சேவை இன்றி பலரும் கால் நடையாகவே தமது பயணத்தை தொடர வேண்டிய நிலைமை காணப்படுகிறது.
+
+எனவே விரைந்து பேருந்து சேவையை மீள ஆரம்பிக்க நடவடிக்கை எடுக்க வேண்டும் என கோரியுள்ளனர்.
+
+◼️
+
+[Data](articles/b15d1b65.json)
+
+---
+
+### Attack on Harry Potter House
 
 *2024-04-30 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196129) · `si`
 
-යුක්‍රේනයේ 'හැරී පොටර් මන්දිරය' ලෙස ප්‍රකට ඔඩෙසා හි පිහිටි මන්දිරයකට එල්ල වූ රුසියානු ප්‍රහාරයකින් ඊට දැඩි හානි සිදුව තිබේ.
+Russian attack on 'Harry Phil' House in Ukraine damaged, killing 4 and injuring 32. House was Law College of Odeza.
 
-ප්‍රහාරයෙන් පුද්ගලයින් සිව්දෙනෙක් මියගොස් තවත් 32 දෙනෙක් තුවාල ලබා ඇති බව වාර්තා වේ.
+🟩
 
-හිටපු යුක්‍රේන නීති සම්පාදකයෙකුට හිමි මෙම නිවස ඔඩෙසා හි නීති විද්‍යාලය ලෙස පසුකාලීනව භාවිත කර තිබේ.
+Russian attack on a mansion in Oddress, as well known as the 'Harry Phil' House 'in Ukraine, has been severely damaged.
+
+Four persons were killed and 32 others suffered injuries.
+
+The house has been used as the Law College of Odeza, former Ukrainian lawyer.
 
 ◼️
 
 [Data](articles/62e597bf.json)
+
+[Extended Data](ext_articles/62e597bf.ext.json)
 
 ---
 
@@ -60,21 +108,35 @@ Earlier, the CID had informed Ranawaka to report to their office today to record
 
 [Data](articles/b53bb239.json)
 
+[Extended Data](ext_articles/b53bb239.ext.json)
+
 ---
 
-### අධිකරණයේදී එළියට ආ අලුත් කතාව
+### New story out in court
 
 *2024-04-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196128) · `si`
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය මගින් සිය බාරයට ගත් මත්ද්‍රව්‍ය නැවත ජාවාරම්කරුවන්ට විකිණීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වනවිට ඇපමත මුදා හැර සිටින එම කාර්යාංශයට අනුයුක්තව සිටි සැකකාර පොලිස් නිලධාරීන් යළි සේවයේ පිහිටුවීමට පියවර ගෙන තිබෙන්නේ කෙසේදැයි ශ්‍රේෂ්ඨාධිකරණය ඊයේ (29) නීතිපතිවරයාගෙන් ප්‍රශ්න කළේය.
+The Supreme Court asked the Bureau of the Supreme Court how to restore suspects to be redeemed by the Police Narcotics and released on bail. Petitions were filed by Surasena, Shiran Gunaratne, and others. Weapons and drugs were found with suspects, who were involved in drug trafficking. The Senior State Counsel warned of a serious threat to the rule of law. The government lawyer questioned the process of taking petitioners to the Supreme Court. The court ordered the parties to file in three weeks and adjourned the verdict.
 
-එම සිද්ධිය සම්බන්ධයෙන් තමන්ව අත්අඩංගුවට ගැනීම නීතිවිරෝධී බවත් ඒ තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ සේවය කළ නිලධාරීන් පිරිසක් විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම් ඊයේ යළි විභාගයට ගත් අවස්ථාවේදී එය සලකා බැලූ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා විසින් මෙම ප්‍රශ්නය මතු කරන ලදී.
+🟩
 
-මෙම පෙත්සම්  ප්‍රීති පද්මන් සූරසේන,  ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගනු ලැබීය.
+The Supreme Court yesterday asked the Bureau of the Supreme Court yesterday (29) how to restore the suspects to be redeemed by the Police Narcota and Released on bail.
+
+Petroleum of the three-member Supreme Court Judge Benugal, President of the Supreme Court JudgeThe question was raised by Mr. Surasena.
+
+The petitions were taken to the Saran Padman Suranasena, Shiran Gunaratne and Mahinda Samun Gunaratne and Mahinda Samuna Gunaratne and Mahinda Samarawardena.
+
+Senior State Counsel Shamadasa Wickrema appeared in the court to appear in the court, said the Sergeant Ratnayake who was arrested in connection with the incident.
+
+In addition, weapons and drugs were also found in the possession of the suspects in connection with the incident.
+
+The suspects have revealed that the suspects have been revealed that the suspects have been involved in the sale, transportation, transport of drugs with large-scale drug traffickers.
 
 ...
 
 [Data](articles/d41f2be6.json)
+
+[Extended Data](ext_articles/d41f2be6.ext.json)
 
 ---
 
@@ -94,6 +156,8 @@ The Attorney General had filed indictments against the former minister under the
 
 [Data](articles/d65fa400.json)
 
+[Extended Data](ext_articles/d65fa400.ext.json)
+
 ---
 
 ### Independent three-member inquiry board appointed: SLAMS
@@ -107,6 +171,28 @@ While issuing a statement, the association said Chandana Liyanapatabendi PC will
 ◼️
 
 [Data](articles/ec12edce.json)
+
+[Extended Data](ext_articles/ec12edce.ext.json)
+
+---
+
+### பல நாட்கள் தாயை தேடியலைந்த பாலஸ்தீன பத்திரிகையாளர்- மருத்துவமனையில் சடலமாக கண்டார் - இஸ்ரேலிய இராணுவம் சுட்டுக்கொன்றதாக பொதுமக்கள் தெரிவிப்பு
+
+*2024-04-30 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182303) · `ta`
+
+பாலஸ்தீன பத்திரிகையாளர் ஒருவர் பலநாட்கள் தேடியலைந்த பின்னர் தனது தாயின் உடலை காசா மருத்துவமனையின் கண்டுபிடித்துள்ளார்.
+
+நான் தாயின் உடலை மருத்துவமனையின் தரையில் கண்டுபிடித்தேன் அவர் உறங்கிக்கொண்டிருந்த விதத்தை வைத்து அவரை கண்டுபிடித்தேன் என அந்த பத்திரிகையாளர் தெரிவித்துள்ளார்.
+
+ஊடகவியலாளரின் தாய் நைமா குரைகியா இஸ்ரேலிய படையினரால் கொல்லப்பட்டார் என அந்த சம்பவத்தை நேரில் கண்டவர்கள் தெரிவித்துள்ளனர்.
+
+இரண்டு வாரங்கள் மருத்துவமனையை முற்றுகையிட்டிருந்த இஸ்ரேலிய இராணுவம் அங்கிருந்து பின்வாங்கிய பின்னர் அவர் தனது தாயை தேட தொடங்கினார்.
+
+அம்மா எனக்கு மருந்து உணவு தண்ணீர் எதுவும் கிடைக்கவில்லை என தெரிவித்தார் நான் தரையில் உறங்கவேண்டிய நிலையில் இருக்கின்றேன் நீ எங்கு இருக்கின்றாய் என்பதே அவர் இறுதியாக என்னுடன் பேசிய விடயம் என தெரிவித்துள்ள பாலஸ்தீனிய ஊடகவியலாளர் நான் அவருடன் தொலைபேசி மூலம் தொடர்புகொண்டவேளையே அவர்இதனை தெரிவித்தார் எனவும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/41d9e7b6.json)
 
 ---
 
@@ -126,19 +212,43 @@ The former Minister is challenging the orders by the  Maligakanda Magistrate on
 
 ---
 
-### මහින්දානන්ද නිදොස් කොට නිදහස්
+### Mahindananda also acquitted
 
 *2024-04-30 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196127) · `si`
 
-අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතා නිදොස් කොට නිදහස් කරන ලෙස කොළඹ මහාධිකරණය නියෝග කළේය.
+Mahindananda Aluthgamage, former Minister, acquitted by Colombo High Court for alleged cash purchase of a luxury house.
 
-කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+🟩
 
-මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+The Colombo High Court ordered the acquitted of former Minister Mahindananda Aluthgamage that has been accused of purchasing a luxury house on the Cash Baszy Sunday.
+
+The decision was made by Colombo High Court Judge Navasinghe.
+
+The case was filed against the Attorney General Mahindananda Aluthgamage, the Attorney General of the Government of the Government of the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/8dce6f2d.json)
+
+[Extended Data](ext_articles/8dce6f2d.ext.json)
+
+---
+
+### மே தின பேரணிகள் நடைபெறும் பிரதேசங்களில் மதுபானசாலைகளுக்கு பூட்டு
+
+*2024-04-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/182284) · `ta`
+
+மே முதலாம் திகதி புதன்கிழமை மே தின ஊர்வலங்கள் மற்றும் விசேட நிகழ்வுகள் நடைபெறும் பிரதேச செயலகப் பகுதிகளில் மதுபானங்களை விற்பனை செய்வதற்கு இலங்கை கலால் திணைக்களம் தடை விதித்துள்ளது.
+
+மதுபான விற்பனை நிலையங்கள், உணவகங்கள் உள்ளிட்ட அனைத்து சில்லறை மதுபான விற்பனை நிலையங்களும் செவ்வாய்க்கிழமை (30) வழக்கமாக மூடப்படும் நேரம் முதல் வியாழக்கிழமை (02) திறக்கும் நேரம் வரை மூடப்படும் என கலால்திணைக்களத்தின் ஊடகப் பேச்சாளர் மற்றும் சட்ட அமுலாக்கல் ஆணையர் சன்ன வீரக்கொடி தெரிவித்துள்ளார்.
+
+எவ்வாறாயினும்,  இலங்கை சுற்றுலா அபிவிருத்தி அதிகார சபையின் (SLTDA) கீழ் கலால் உரிமம் (FL 07, 08) பெற்று பதிவுசெய்யப்பட்ட அனைத்து ஹோட்டல்கள் மற்றும் விருந்தினர் விடுதிகள் இந்த உத்தரவில் இருந்து விலக்களிக்கப்பட்டுள்ளது.
+
+குறிப்பிட்ட காலப்பகுதியில் கலால் சட்டத்தை மீறுபவர்களுக்கு எதிராக கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என திணைக்களம் எச்சரித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0bb5e198.json)
 
 ---
 
@@ -185,6 +295,8 @@ The complication – listed as a potential side effect of the jab – has previo
 ...
 
 [Data](articles/7dfbf67f.json)
+
+[Extended Data](ext_articles/7dfbf67f.ext.json)
 
 ---
 
@@ -254,6 +366,38 @@ The former health minister had put forward the relevant petition, seeking a cour
 
 ---
 
+### குற்றப் புலனாய்வு அதிகாரிகள் எனக்  கூறி இலஞ்சம் பெற்றவர்கள் கைது!
+
+*2024-04-30 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/182298) · `ta`
+
+குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் எனக் கூறிக் கொண்டு ஒரு கோடி ரூபா இலஞ்சம் பெறப்பட்ட சம்பவமொன்று பதிவாகியுள்ளது.
+
+ஒரு கோடி ரூபா இலஞ்சம்  பெற்றுள்ளதாக கூறப்படும் பெண் சந்தேக நபர் உள்ளிட்ட  நால்வர் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+
+கொள்ளுப்பிட்டி வீடொன்றிற்கு சென்ற பெண் உள்ளிட்ட  நால்வர், குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் எனக் கூறி அங்கிருந்து ஒரு கோடியே 20 ஆயிரம்  ரூபா  டொலர்களை பெற்றுச் சென்றுள்ளதாக முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2f3098a3.json)
+
+---
+
+### பதுளை கரந்தகொல்ல பிரதேசத்தில் நிலவும் மண்சரிவு அபாயம் குறித்து பாதுகாப்பு இராஜாங்க அமைச்சர் விசேட அவதானம்
+
+*2024-04-30 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182294) · `ta`
+
+பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் ஏப்ரல் மாதம் 21ஆம் திகதி பதுளை மாவட்டத்தின் கரந்தகொல்ல பிரதேசத்தில் எல்ல வெல்லவாய வீதிக்கு அருகில் ஏற்பட்ட மண்சரிவு குறித்து விசேட அவதானம் செலுத்தியதுடன், மேலும் குறித்த சம்பவ இடத்தை மீண்டும் ஆய்வு செய்து விரிவான அறிக்கையை விரைவில் சமர்ப்பிக்குமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு உத்தரவிட்டார்.
+
+மேலும், எதிர்காலத்தில் குறித்த பகுதியில் ஏற்படும் மன்சறிவு அபாயங்களை தடுப்பதற்கான தேவையான உடனடி நடவடிக்கைகளை எடுப்பதற்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் மற்றும் இடர் முகாமைத்துவ நிலைய அதிகாரிகளுக்கு தேவையான அறிவுறுத்தல்களை இராஜாங்க அமைச்சர் வழங்கினார்.
+
+மேலும், இராஜாங்க அமைச்சரின் அறிவுறுத்தல்களுக்கு அமைவாக, இடர் முகாமைத்துவ நிலையத்தின் பணிப்பாளர் நாயகம், தேசிய கட்டிட ஆராய்ச்சி நிலையத்தின் பணிப்பாளர் நாயகம் மற்றும் புவியியல் ஆய்வு மற்றும் சுரங்கப் பணியகத்தின் விஞ்ஞானிகள் அடங்கிய நிபுணர் குழு மே மாதம் 01ஆம் திகதி  குறித்த நிலப்பகுதி குறித்து கள ஆய்வு செய்து தேவையான பரிந்துரைகளை வழங்க நடவடிக்கை எடுக்கப்பட்டுள்ளது குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/21ef5f65.json)
+
+---
+
 ### Keheliya's petition decision postponed
 
 *2024-04-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196125) · `si`
@@ -271,6 +415,20 @@ However, the Court of Appeal will be postponed until May 07th. Mr. Samarakoon an
 [Data](articles/292a6837.json)
 
 [Extended Data](ext_articles/292a6837.ext.json)
+
+---
+
+### අෂීෂ් හා කුෂ් මත්ද්‍රව්‍ය සමග මෘදුකාංග ඉංජිනේරු උපාධිධාරියෙකු අත්අඩංගුවට
+
+*2024-04-30 10:36:59* · [`adalk`](https://www.ada.lk/breaking_news/අෂීෂ්-හා-කුෂ්-මත්ද්‍රව්‍ය-සමග-මෘදුකාංග-ඉංජිනේරු-උපාධිධාරියෙකු-අත්අඩංගුවට/11-409338) · `si`
+
+යුධ හමුදා බුද්ධි අංශයෙන් ලද තොරතුරකට අනුව කොළඹ දකුණ අපරාධ කොට්ඨාශය විසින් 28 දින මහරගම, විජේරාම ප්‍රදේශයේදී සිදු කරන ලද වැටලීමකදී මිලියන 4.6කට අධික අෂීස් හා කුෂ් නැමති මත්ද්‍රව්‍ය යතුරුපැදියකින් ප්‍රවාහනය කරමින් සිටි වයස අවුරුදු 25ක මෘදුකාංග ඉංජිනේරු උපාධිධාරියෙකු අත්අඩංගුවට ගෙන ඇත.
+
+මොහු සතුව තිබී අෂීස් කිලෝ 1යි ග්‍රෑම් 238ක්, කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 90ක් හා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගත් රුපියල් 85,000ක මුදලක් සොයාගත් අතර, මෙහි වැඩිදුර විමර්ශණ කටයුතු කොළඹ දකුණ අපරාධ කොට්ඨාශය විසින් සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/33e0a7bb.json)
 
 ---
 
@@ -573,6 +731,8 @@ The officers returned fire at an assailant in the front yard, then more shots we
 ...
 
 [Data](articles/41f67f08.json)
+
+[Extended Data](ext_articles/41f67f08.ext.json)
 
 ---
 
@@ -2019,131 +2179,5 @@ Well, for starters, Ranil is one tough cookie. The man knows how to survive in t
 [Data](articles/b099b662.json)
 
 [Extended Data](ext_articles/b099b662.ext.json)
-
----
-
-### Prime Residencies breaks ground and launches phase II of The Colombo Border
-
-*2024-04-29 22:39:00* · [`islandlk`](http://island.lk/prime-residencies-breaks-ground-and-launches-phase-ii-of-the-colombo-border/) · `en`
-
-Prime Lands Residencies PLC, Sri Lanka’s leading real estate developer, achieved a significant milestone with the ground-breaking ceremony of ‘The Colombo Border,’ a landmark project poised to redefine urban living.
-
-With Phase I of the project nearly sold out, the company is now launching Phase II, coinciding with the commencement of construction. Piling work has been undertaken by San Piling, a reputed name in the construction industry, signifying the project’s steady progress towards completion.
-
-...
-
-[Data](articles/2a6be5e2.json)
-
-[Extended Data](ext_articles/2a6be5e2.ext.json)
-
----
-
-### Virtusa celebrates groundbreaking success of first LinkedIn community event in Sri Lanka
-
-*2024-04-29 22:36:00* · [`islandlk`](http://island.lk/virtusa-celebrates-groundbreaking-success-of-first-linkedin-community-event-in-sri-lanka/) · `en`
-
-Virtusa Corporation, a global provider of digital engineering and IT services, proudly hosted the first-ever LinkedIn (LI) community event in Sri Lanka, dubbed “Connect Colombo.” The landmark event took place at the Courtyard by Marriott, marking a significant milestone in the country’s professional networking landscape.
-
-Bringing together over 200 industry leaders and mid to senior-level executives, “Connect Colombo” served as a dynamic platform for discussions on pivotal topics such as Networking and Personal Branding. The event featured three insightful sessions, headlined by renowned professionals from diverse sectors.
-
-...
-
-[Data](articles/0e870a90.json)
-
-[Extended Data](ext_articles/0e870a90.ext.json)
-
----
-
-### Sri Lanka Veterinary Association celebrates World Veterinary Day
-
-*2024-04-29 22:35:00* · [`islandlk`](http://island.lk/sri-lanka-veterinary-association-celebrates-world-veterinary-day/) · `en`
-
-The Sri Lanka Veterinary Association (SLVA) marked World Veterinary Day on April 27, 2024, with a social media campaign emphasising the critical role veterinarians play in safeguarding public health. This year’s theme, “Veterinarians are essential health workers,” underlines their diverse contributions beyond animal care.
-
-“Veterinarians are often unseen activists in safeguarding public health,” stated Dr. Mohamed Ijas, President of Sri Lanka Veterinary Association. “To mark World Veterinary Day, we aim to raise awareness of the diverse ways veterinarians contribute to the well-being of animals, humans, environment and the role in ‘’One Health’’ concept. Their crucial contribution in ensuring public health, and by promoting a deeper understanding of their diverse contributions, we can foster a healthier future for all.”
-
-...
-
-[Data](articles/21535d0d.json)
-
-[Extended Data](ext_articles/21535d0d.ext.json)
-
----
-
-### Ranil invited me to take up position in the government: CBK
-
-*2024-04-29 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-invited-me-to-take-up-position-in-the-government-CBK/108-281614) · `en`
-
-Colombo, April 29 (Daily Mirror)- Former President Chandrika Bandaranaike Kumaratunga said today President Ranil Wickremesinghe invited her on several occasions to take up a position and support the government.
-
-Ms Kumaratunga told reporters that she refused the invitation, claiming that she could not take up any position until thieves were there in politics.
-
-She said she was invited to take up the chairmanship of the Sri Lanka Freedom Party (SLFP) and that she refused it too.
-
-“I don't like to do politics with current politicians. I will not take up any key position in the party. But, I may take up some responsibility. I will support the party behind the scenes. The SLFP is gradually coming to the correct path,” she said.
-
-Ms Kumaratunga said there was no truth in the reports that she was supporting the UNP and added that she had no intention of supporting any party.
-
-...
-
-[Data](articles/226be54a.json)
-
-[Extended Data](ext_articles/226be54a.ext.json)
-
----
-
-### The Four A’s Advertising Festival set to transform Sri Lanka’s creative communications industry
-
-*2024-04-29 22:31:00* · [`islandlk`](http://island.lk/the-four-as-advertising-festival-set-to-transform-sri-lankas-creative-communications-industry/) · `en`
-
-The Four A’s Advertising Festival, powered by Unilever Sri Lanka and globally connected by SriLankan Airlines, is gearing up to be a transformative event for the advertising and creative industry this May.
-
-With Unilever Sri Lanka as its driving force and the global mileage facilitated by SriLankan Airlines, the festival promises to be a remarkable milestone for Sri Lanka, making this event highly anticipated and significant for the local advertising and creative community, as it has been a while since an international-scale learning festival of this magnitude was held in the country.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6de31c71.json)
-
-[Extended Data](ext_articles/6de31c71.ext.json)
-
----
-
-### CSE exudes bullish exuberance with turnover of Rs. 4 billion and 12 crossings
-
-*2024-04-29 22:26:00* · [`islandlk`](http://island.lk/cse-exudes-bullish-exuberance-with-turnover-of-rs-4-billion-and-12-crossings/) · `en`
-
-The CSE was extremely bullish yesterday owing to the maintenance of a dovish monetary policy or lower interest rates by the Central Bank. Besides, institutional and retail participation was vibrant, market analysts said.
-
-Consequently, crossings dominated the market with the active participation of both retail and institutional buyers. Both indices moved upwards. The All Share Price Index went up by 109.94 points while S and P SL20 rose by 54.16 points. Turnover stood at Rs 4.1 billion with twelve crossings.
-
-...
-
-[Data](articles/2c3b9ea8.json)
-
-[Extended Data](ext_articles/2c3b9ea8.ext.json)
-
----
-
-### President reveals plans to expand cinnamon cultivation under agri modernization program
-
-*2024-04-29 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98925/president-reveals-plans-to-expand-cinnamon-cultivation-under-agri-modernization-program) · `en`
-
-President Ranil Wickremesinghe reiterated the government’s commitment to maximizing the contribution of agriculture to the country’s economic advancement. He highlighted the implementation of programs aimed at popularizing cinnamon cultivation, a significant export crop in the country’s history, as part of the agricultural modernization initiative.
-
-President Ranil Wickremesinghe made these remarks while attending the “Dilmah Cinnamon” launching ceremony held yesterday (28) at the Galle Face Hotel in Colombo, the PMD reported.
-
-The “Dilmah” brand, renowned for elevating “Ceylon Tea” in the global market, has ventured into the Sri Lankan cinnamon industry by expanding its domestic exports through the company, introducing high-quality cinnamon products to the global market.
-
-President Ranil Wickremesinghe, alongside President of the World Association of Chefs’ Societies Master Chef Thomas Gugler, symbolically unveiled Dilmah Cinnamon products.
-
-...
-
-[Data](articles/847be937.json)
-
-[Extended Data](ext_articles/847be937.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 10:03:55**
+As of **2024-04-30 10:18:44**
 
 ## Newspaper Stats
 
-*Scraped **21,771** Articles*
+*Scraped **21,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,819
-tamilmirrorlk | 2,527
+tamilmirrorlk | 2,528
 adaderanalk | 2,582
-virakesarilk | 3,274
+virakesarilk | 3,276
 dailymirrorlk | 3,391
 adaderanasinhalalk | 3,523
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 3,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,768 (100.0%) of 21,771 articles have been extended.
+21,771 (100.0%) of 21,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### இடியுடன் கூடிய மழை குறித்த அறிவிப்பு
+
+*2024-04-30 10:05:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-336542) · `ta`
+
+வடக்கு, வடமத்திய மற்றும்  வடமேல்  மாகாணங்களிலும் அத்துடன் கொழும்பு, ஹம்பகா, திருகோணமலை மற்றும் மட்டக்களப்பு  மாவட்டங்களிலும் இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+மத்திய, சப்ரகமுவ, மேல், வடமேல், தென் மற்றும் ஊவா மாகாணங்களின் பல இடங்களில் பிற்பகல் ஒரு  மணிக்குப் பின்னர்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+ஏனைய பிரதேசங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+சப்ரகமுவ, மேல் மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் 50 மில்லிமீற்றரிலும் கூடிய ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா  மாகாணங்களின் சில இடங்களில் காலை வேளையில் பனிமூட்டம் காணப்படும்
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக் கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு  கேட்டுக்கொள்ளப் படுகின்றனர்.
+
+நாட்டை சூழ உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மாலை அல்லது இரவு வேளைகளில்  மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/506b3da8.json)
+
+---
+
+### மே தினத்தை முன்னிட்டு கொழும்பில் நாளை விசேட போக்குவரத்து திட்டம்
+
+*2024-04-30 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/182282) · `ta`
+
+சர்வதேச தொழிலாளர் தினமான மே தினத்தை முன்னிட்டு நாளை (01) கொழும்பு நகரை சுற்றி விசேட போக்குவரத்து திட்டம் முன்னெடுக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மே தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் நாளை 40 பேரணிகள் மற்றும் விசேட நிகழ்வுகள் ஏற்பாடு செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+19ஆம் திகதி மே தினக் கொண்டாட்டங்களும் இடம்பெறவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இதேவேளை, மே தினப் பேரணிகளில் அனுமதியின்றி ட்ரோன் கமராவை பறக்க விடுவது தடை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கொழும்பு நகரை சுற்றி பேரணிகள் இடம்பெற்று வருவதையடுத்து இதற்காக விசேட போக்குவரத்து திட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/51472a13.json)
+
+---
+
+### கொழும்பில் இருந்து வந்தவர் யாழ்ப்பாணத்தில் மயங்கி விழுந்து உயிரிழப்பு!
+
+*2024-04-30 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182289) · `ta`
+
+கொழும்பில் இருந்து வந்த நபர் ஒருவர் நேற்று திங்கட்கிழமை (29) காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகாமையில் உள்ள நண்பனின் வீட்டில் மயங்கி விழுந்து உயிரிழந்துள்ளார். இதன்போது கொழும்பு கொட்டாஞ்சேனை பகுதியைச் சேர்ந்த கிறிஸ்தோபர் சுரேந்திரன் வில்சன் (வயது 65) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+உயிரிழந்த நபரின் நண்பர் வெளிநாட்டில் வசித்து வருகின்றார். வெளிநாட்டில் வசித்து வருபவரது வீடு காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகாமையில் உள்ளது. குறித்த வீட்டில் வேலை செய்வதற்காக உயிரிழந்த நபரும் அவரது நண்பரும் வருகை தந்திருந்தனர்.
+
+இதன்போது குறித்த நபர் திடீரென மயங்கி விழுந்து உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளுக்காக சடலம் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2887cbc9.json)
+
+---
 
 ### Four U.S. law enforcement officers shot dead, four injured while serving warrant
 
@@ -49,6 +109,8 @@ The secretary of the state Adult Corrections Department identified two of the ot
 ...
 
 [Data](articles/15a819ae.json)
+
+[Extended Data](ext_articles/15a819ae.ext.json)
 
 ---
 
@@ -113,6 +175,8 @@ The public can also view the electoral register from the official website of the
 ◼️
 
 [Data](articles/a0ee6557.json)
+
+[Extended Data](ext_articles/a0ee6557.ext.json)
 
 ---
 
@@ -861,6 +925,8 @@ The first part of this article published in the “Daily Mirror”of 20 April 20
 ...
 
 [Data](articles/a70c6369.json)
+
+[Extended Data](ext_articles/a70c6369.ext.json)
 
 ---
 
@@ -2049,73 +2115,5 @@ Following the argument in the barbed wire, the facts revealed that the defendant
 [Data](articles/4ca2e7de.json)
 
 [Extended Data](ext_articles/4ca2e7de.ext.json)
-
----
-
-### The eldest classes will start soon
-
-*2024-04-29 18:27:51* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ--අවසන්-වූ-වහා-උසස්පෙළ-පන්ති-ආරම්භ-වේ/11-409330) · `si`
-
-Dr. Susil Premajayantha, Minister of Education, announced that students who missed the O/L exams due to school closures during the COVID-19 pandemic have been able to take the GCE Ordinary Level examination. He emphasized the need for commitment and recruited 3,000 new teachers this week. The aim is to restore academic normalcy, addressing years of delay and university issues, with everyone's support.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha says that students who stand up to the O / L examination due to the closure of schools during the past covid season and the students have been able to sit the GCE Ordinary Level examination..
-
-The Minister made this observation at the National Education Institute of Commencement of the Official Educational Radio (NIA VISUAL RADIO).
-
-Speaking further (Minister) said the minister said he needed a severe commitment to carry out this challenging work. The Minister has already taken up 3,000 new teachers to recruit them in this week and have already been completed this week.It is said that the resolution of a question that is an admission to another school to study the text.. The aim of taking such actions, the school children claimed to restore the academic at last covard over the years, with the delay of university delays, and the support and commitment of everyone to make it successful.Is.
-
-...
-
-[Data](articles/82af75c6.json)
-
-[Extended Data](ext_articles/82af75c6.ext.json)
-
----
-
-### Tran Ales begins to express lawyers on behalf of drug criminals
-
-*2024-04-29 18:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182269) · `ta`
-
-Tran Ales, Public Security Minister, faces lawyers' association's resolution to resign over representing drug criminals. A special campaign against lawyers defending drug traffickers begins. Tran Ales has been abroad, and there's a conflict with lawyers over the 'Yukya' project.
-
-🟩
-
-The Minister of Public Safety has stated that a special campaign for lawyers appearing on behalf of drug traffickers will begin on Tuesday (30) against the 'Yukya' project, and that the Minister of Public Security has stated that the Ministry of Public Safety is in the process of eradicating drug traffickers and underworld criminals in any case.
-
-The lawyers' association has passed a resolution that he should resign and the president should take action to remove him from the post of Public Security Minister Tran Ales last week, saying that it is not sin for drug traffickers, criminals and underworld activities.
-
-Public Security Minister Tran Allas has now been abroad and a top executive committee official of Minister Tran Ales has said that there has been a major conflict between the Minister of Public Security and some lawyers over the past few months.
-
-...
-
-[Data](articles/21e5a3d8.json)
-
-[Extended Data](ext_articles/21e5a3d8.ext.json)
-
----
-
-### Thunderbolt
-
-*2024-04-29 18:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடி-விழுந்ததில்-ஒருவர்-பலி/175-336517) · `ta`
-
-A lightning strike on Monday evening killed Kalimuthu Shanmugarajah, 49, and injured Mahendran Prabhakaran, 26, both from Jayankankulam. The incident occurred during a thunderstorm.
-
-🟩
-
-A family member was killed and another injured in a lightning strike on Monday evening (29) evening
-
-Police said the thunderstorm was on the bottom of the tree when it was raining
-
-Kalimuthu Shanmugarajah (49), the father of three children from Jayankankulam, died and Mahendran Prabhakaran (26) from Jayankankulam Puthupettuwan area.
-
-Mallawa has been admitted to the source hospital after being injured
-
-◼️
-
-[Data](articles/3648f666.json)
-
-[Extended Data](ext_articles/3648f666.ext.json)
 
 ---

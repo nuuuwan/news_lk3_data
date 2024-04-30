@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 09:53:00**
+As of **2024-04-30 10:03:55**
 
 ## Newspaper Stats
 
-*Scraped **21,768** Articles*
+*Scraped **21,771** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 186
 bbccomsinhala | 226
-dbsjeyarajcom | 231
+dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,188
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,819
 tamilmirrorlk | 2,527
-adaderanalk | 2,580
+adaderanalk | 2,582
 virakesarilk | 3,274
 dailymirrorlk | 3,391
 adaderanasinhalalk | 3,523
@@ -26,57 +26,113 @@ adaderanasinhalalk | 3,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,765 (100.0%) of 21,768 articles have been extended.
+21,768 (100.0%) of 21,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### විදෙස් ශ්‍රමිකයන්ට ලබාදුන් වාහන ආනයන අවසරය දීර්ඝ කිරීමට විරෝධයක්
+### Four U.S. law enforcement officers shot dead, four injured while serving warrant
+
+*2024-04-30 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98930/four-us-law-enforcement-officers-shot-dead-four-injured-while-serving-warrant) · `en`
+
+Four officers were fatally shot as a U.S. marshals task force was serving a warrant at a home Monday in Charlotte, North Carolina, officials said. A suspected shooter was also dead.
+
+A marshal and two local officers working with the fugitive task force were killed in the gunfire around 1:30 p.m. Gov. Roy Cooper said that ‘two state Department of Adult Correction officers’ had died.
+
+The city’s police chief announced Monday night that a Charlotte-Mecklenburg police officer who had been wounded, Joshua Eyer, had also died.
+
+‘It was just last month I was in this very room congratulating Officer Eyer for becoming officer of the month in April,’ Police Chief Johnny Jennings said. ‘And he certainly dedicated his life and gave his life to serve our citizens.’
+
+The secretary of the state Adult Corrections Department identified two of the other people killed as Samuel Poloche and William ‘Alden’ Elliott, both of whom had been with the department for 14 years and were on the marshals task force.
+
+...
+
+[Data](articles/15a819ae.json)
+
+---
+
+### Protest against extension of vehicle import permission given to foreign workers
 
 *2024-04-30 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196120) · `si`
 
-විදෙස් රැකියාවල නියුතු ශ්‍රී ලාංකිකයන් හට පූර්ණ විද්‍යුත් වාහන බලපත්‍ර ලබා දීමේ යෝජනා ක්‍රමයේ කිසිදු විනිවිඳභාවයක් නොමැති බව මුදල් පිළිබඳ කාරක සභාව පවසයි.
+The Committee on Finance Committees criticized the lack of briefing on a full electric vehicle permit scheme for foreign employment abroad. The Chairman of the Committee on Public Finance ordered officials to report within two weeks. The prolonged gazette extending the licensing period hinders approval. The Ministry of Finance did not provide information to the Attorney General. Tax concessions on imported vehicles were revealed, with Rs. 100 million and US $ 109.8 million received for 1,019 permits, totaling $46 million. The Chairman emphasized this is the only time for such imports.
 
-ඒ සම්බන්ධයෙන් පූර්ණ විශ්ලේෂණයක් සිදුකර සති දෙකක් තුළ වාර්තාවක් ලබාදෙන ලෙස රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති හර්ෂ ද සිල්වා මහතා අදාළ නිලධාරීන්ට උපදෙස් දී තිබේ.
+🟩
 
-එම විශ්ලේෂණය ලැබෙන තුරු බලපත්‍ර ලබාදීමේ කාලය දීර්ඝ කරන අදාළ ගැසට්පත්‍රයට අනුමැතිය ලබා දීමට හැකියාවක් නොමැති බව ද කාරක සභා සභාපතිවරයා සඳහන් කළේය.
+The Committee on Finance Committees said there was no briefing in the provision of full electric vehicle permit scheme for foreign employment abroad.
 
-මෙම ක්‍රියාවලිය ආරම්භයේ සිට වාහන ගෙන්වන ලද පුද්ගලයන් ඇතුළු අදාළ සියලු තොරතුරු ලබා දෙන ලෙස කාරක සභාව ඉල්ලීම් කර තිබුණ ද නීතිපතිවරයාගෙන් විමසීමකින් තොරව එම තොරතුරු ලබාදිය නොහැකි බවට මුදල් අමාත්‍යංශය දැනුම් දී ඇති බව වාර්තා වේ.
+Chairman of the Committee on Public Finance (Committee) has instructed the relevant officials to grant a report within two weeks.
 
-මෙම බදු සහනය මඟින් රුපියල් මිලියන100 සිට වාහන ගෙන්වා ඇති බවට අනාවරණය වී තිබේ.
+The Chairman said that the prolonged gazette that extends the licensing period until that analysis is not possible to approve.
 
-එමෙන්ම බොහෝ සාමාන්‍ය රැකියාවල නිරත ශ්‍රමිකයන් මෙතරම් වටිනාකමක් සහිත වාහන ගෙන්වා ඇත්දැයි සැකයක් මතුවන බවත් කාරක සභාවේදී සාකච්ඡා වූ බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව පැවසුවේය.
+The Ministry of Finance has not been asked that the information could not be given to the Attorney General, but the Committee cannot be given to the Attorney General, but the Committee cannot be given to the Attorney General.
+
+It has been revealed that the tax concession has been imported from Rs. 100 million.
+
+The committee communications Department said that there was no doubt that many working workers were importing such value vehicles.
+
+It has also been revealed that US $ 109.8 million has been received by US $ 109.8 million has been received by 1,019 permits.
 
 ...
 
 [Data](articles/8ea799f3.json)
 
+[Extended Data](ext_articles/8ea799f3.ext.json)
+
 ---
 
-### மின்னல் தாக்கி இருவர் உயிரிழப்பு
+### Lightning strikes
 
 *2024-04-30 09:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-இருவர்-உயிரிழப்பு/175-336541) · `ta`
 
-நேற்று (29) மாலை பெய்த கடும் மழையின் போது மின்னல் தாக்கியதில் வீட்டுக்குள் இருந்த சகோதரனும் சகோதரியும் பாதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+During heavy rains, lightning struck a house, affecting a brother and sister.
+
+🟩
+
+The brother and sister of the house were affected by lightning struck during heavy rains yesterday evening (29), police said.
 
 ◼️
 
 [Data](articles/7259f2fc.json)
 
+[Extended Data](ext_articles/7259f2fc.ext.json)
+
 ---
 
-### சி.ஐ.டி அதிகாரிகளைப் போல் நடித்து இலஞ்சம் கேட்ட கும்பல் கைது
+### Special notice to voters regarding electoral register
+
+*2024-04-30 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98929/special-notice-to-voters-regarding-electoral-register) · `en`
+
+The Election Commission calls on the members of the public to ensure that their names are listed in the electoral register.
+
+Accordingly, the citizens who were born before 31 January 2007 are urged to immediately enquire their respective Grama Niladhari officers if their names are in the electoral register.
+
+The public can also view the electoral register from the official website of the Election Commission (http://ec.lk/vrd).
+
+◼️
+
+[Data](articles/a0ee6557.json)
+
+---
+
+### A gang arrested for bribery acting like CIT officials
 
 *2024-04-30 09:27:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சி-ஐ-டி-அதிகாரிகளைப்-போல்-நடித்து-இலஞ்சம்-கேட்ட-கும்பல்-கைது/175-336540) · `ta`
 
-குற்றப் புலனாய்வுத் திணைக்கள அதிகாரிகள் போல் காட்டிக்கொண்டு ஒரு கோடி ரூபாய இலஞ்சம் பெற்ற நான்கு பேர் கைது செய்யப்பட்டுள்ளனர்.
+Four arrested for bribery, pretending to be CIT officials.
 
-தெஹிவளை பிரதேசத்தைச் சேர்ந்த ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேக நபர்கள் நேற்று (29) பிற்பகல் 3.30 மணியளவில் கொள்ளுப்பிட்டியில் வைத்து கைது செய்யப்பட்டதாக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+🟩
+
+Four persons have been arrested for bribing Rs.
+
+According to a complaint lodged by a person from Dehiwala, the suspects were arrested at Kalupitiya at 3.30 pm yesterday (29), the Bribery Commission said.
 
 ◼️
 
 [Data](articles/767c2d64.json)
+
+[Extended Data](ext_articles/767c2d64.ext.json)
 
 ---
 
@@ -793,6 +849,18 @@ The High Commissioner of Pakistan Faheem Ul Aziz HI (M) in his message on the oc
 [Data](articles/b89cacaa.json)
 
 [Extended Data](ext_articles/b89cacaa.ext.json)
+
+---
+
+### Ranil Plans to Contest 2024 Presidential Election as an  independent  non -party common candidate (Nirpakshika Podu Apekshaya) backed by a group of parties, organizations and key individuals
+
+*2024-04-30 00:03:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83964) · `en`
+
+The first part of this article published in the “Daily Mirror”of 20 April 2024 under the heading “Ranil Wickremesinghe caravan moves on despite barking dogs” has evoked a lot of reader responses. In a climate of Ranil-bashing many seem to be happy  that  Wickremesinghe’s courageous decision to accept the challenge of leading the country on the road to economic recovery and  the limited yet commendable progress achieved by his Govt has been acknowledged. As mentioned in the concluding paragraph of last week’s article,  this second part of the article  would be focusing on the strategy being devised by Ranil Wickremesinghe to win the 2024 presidential stakes.
+
+...
+
+[Data](articles/a70c6369.json)
 
 ---
 
@@ -2049,73 +2117,5 @@ Mallawa has been admitted to the source hospital after being injured
 [Data](articles/3648f666.json)
 
 [Extended Data](ext_articles/3648f666.ext.json)
-
----
-
-### Two women arrested at BIA for attempt to send teen to UK with fake documents
-
-*2024-04-29 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98920/two-women-arrested-at-bia-for-attempt-to-send-teen-to-uk-with-fake-documents-) · `en`
-
-The Immigration and Emigration Department officers at the Bandaranaike International Airport (BIA) in Katunayake have apprehended two women over their alleged involvement in an attempt to send a Sri Lankan teenage boy to London using forged documents.
-
-One of the suspected women had attempted to take the teenager with her to London on Friday (26), using forged documents bearing the details of a Sri Lankan mother currently residing in UK along with her son.
-
-The teenager in question has been identified as a 17-year-old boy, Ada Derana reporter said.
-
-The woman, who is a resident of the Mullaitivu area, had arrived at the BIA at around 1.30 p.m. on Friday, with intentions to board a SriLankan Airlines flight bound for London accompanied by the boy in question.
-
-...
-
-[Data](articles/f9350dce.json)
-
-[Extended Data](ext_articles/f9350dce.ext.json)
-
----
-
-### A mechanism to supervise the spa
-
-*2024-04-29 18:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ස්පා-අධීක්ෂණය-කිරීමට-යාන්ත්‍රණයක්/11-409329) · `si`
-
-Minister Diana Gamage aims to develop tourism by identifying 49 new destinations and appointing a committee to combat corruption. She addresses complaints about harassment, high ticket prices, and illegal activities, emphasizing the importance of online ticket purchases and the need for a separate committee to supervise frauds. The focus is on health and safety, with discussions on regulating spas and promoting Sri Lanka.
-
-🟩
-
-Minister of Tourism Dianey Gamage said that he will identify 49 other tourism destinations to develop the tourism industry and published in the Gazette within a month.
-
-A separate committee has been appointed to prevent and supervise corruption in tourism.
-
-The Minister of Tourism Diana Gamage was addressing a press conference held at the Presidential Media Center today (29) at the Presidential Media Center.
-
-Speaking further, State Ministers said:
-
-Various complaints receives various complaints regarding harassment. I have loud up on this recently.
-
-Various complaints have been received by a tourist, selling railway tickets at higher prices, tourist destinations and a broadcasting videos that promote Sri Lanka, especially Sri Lanka.. We take steps to prevent this work. A few mistakes should not allow our country's reputation.
-
-...
-
-[Data](articles/3e10517f.json)
-
-[Extended Data](ext_articles/3e10517f.ext.json)
-
----
-
-### Fowzie noticed to appear before court over corruption case
-
-*2024-04-29 18:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fowzie-noticed-to-appear-before-court-over-corruption-case/108-281579) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Colombo High Court issued a notice today directing Samagi Jana Balawegaya (SJB) parliamentarian A.H.M. Fowzie to appear before Court on May 22 over the indictment filed against him on corruption charges.
-
-The Bribery Commission filed this corruption case against A.H.M. Fowzie for allegedly causing a Rs.1.07 million unlawful loss to the government by misusing a vehicle belonging to the Disaster Management Centre between 2010 and 2015.
-
-When the matter was called before Colombo High Court Judge Navaratne Marasinghe, parliamentarian A.H.M. Fowzie was not present in court. Court was informed that he was suffering from an illness. Accordingly, the case was fixed for May 22.
-
-On a previous occasion, the defence counsel informed court that his client had requested the Bribery Commission to withdraw the indictment considering the maintainability of the indictment.
-
-...
-
-[Data](articles/9caf11c4.json)
-
-[Extended Data](ext_articles/9caf11c4.ext.json)
 
 ---

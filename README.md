@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 02:18:48**
+As of **2024-05-01 02:34:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,942 (100.0%) of 21,943 articles have been extended.
+21,943 (100.0%) of 21,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,17 +70,29 @@ In other words we have a huge gap between the number of candidates attempting to
 
 ### 2024-04-30 (Tuesday)
 
-### பிக்கு அபகரித்த காணியை மீட்க கோரிக்கை
+### Request to recover the landed land
 
 *2024-04-30 23:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-அபகரித்த-காணியை-மீட்க-கோரிக்கை/175-336580) · `ta`
 
-திருகோணமலை குச்சவெளி – திரியாய் கிராம சேவகர் பிரிவுக்குட்பட்ட ஆத்திக்காட்டுவெளி பகுதியில் உள்ள தமிழ் மக்களின் பாரம்பரிய விவசாயக் காணிகளில் பௌத்த பிக்கு ஒருவர் விவசாயம் மேற்கொண்டு வருவதாகவும் இதனால் தமது வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளதாகவும் அவற்றை தமது வாழ்வாதாரத்திற்காக மீட்டுத் தருமாறு விவசாயிகள் கோரிக்கை விடுக்கின்றனர்.
+Farmers in Athikattuveli, Trincomalee, demand a Buddhist monk cultivate traditional lands, which have been under monk's name for 3 years. Land, previously farmed by Kuchchaveli people, was acquired by Forest Resource Protection Department post-war. In 2021, Sapbhata Forest Senasuna Viharakarakam occupied the land. Pooja Grand leased 20.2343 hectares. A letter from Divisional Secretariat to Attorney General has been sent.
 
-ஆத்திக்காடு பகுதியில் உள்ள 88 ஏக்கர் காணி பானாமுரே திலகவங்ச நாயக்க தேரர் என்ற பௌத்த பிக்கு ஒருவரின் பெயரில் தற்காலிக இடாப்பு பதிவு மேற்கொள்ளப்பட்டு கிட்டத்தட்ட 3 வருடங்களாக சிறுபோக நெற்செய்கை மேற்கொள்ளப்பட்டு வருவதாகவும், இதற்காக அரசாங்கத்திடம் இருந்து 20 சிங்கள மக்களின் பெயரில் மானியப் பசளை பெற்று வருவதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
+🟩
+
+Farmers are demanding that a Buddhist monk cultivate in the traditional agricultural lands of the Tamil people in the Athikattuveli area of the Kuchchaveli - Thiriyai Grama Niladhari Division, Trincomalee.
+
+Farmers say that 88 acres of land in the Attikkadu area has been in the name of a Buddhist monk named Buddhist monk in the name of a Buddhist monk for nearly 3 years.
+
+Farmers say that the people of Kuchchaveli have been engaged in farming in the land of the hereditary lands before 1984, and that when the situation was displaced due to the war situation, large numbers of agrarian lands, including the confirmation of the area and the pamid lands in the area, were acquired by the Forest Resource Protection Department.
+
+In 2021, 88 acres and more land in the area was occupied by the Sapbhata Forest Senasuna Viharakarakam in the area.
+
+Pooja Grand has been given a lease of 20.2343 hectares of land from 26.05.05.05.05.05.05.05.
 
 ...
 
 [Data](articles/d1aee920.json)
+
+[Extended Data](ext_articles/d1aee920.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 05:38:16**
+As of **2024-04-30 05:56:57**
 
 ## Newspaper Stats
 
-*Scraped **21,723** Articles*
+*Scraped **21,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 186
 bbccomsinhala | 226
 dbsjeyarajcom | 231
 newsfirstlk | 363
-islandlk | 1,175
+islandlk | 1,186
 dailyftlk | 1,228
 economynextcom | 1,232
 adalk | 1,817
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,723 (100.0%) of 21,723 articles have been extended.
+21,723 (99.9%) of 21,734 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -428,6 +428,52 @@ While addressing an event organized in Ratnapura to distribute smart agriculture
 
 ---
 
+### Fahmy doing it…his way
+
+*2024-04-29 22:53:00* · [`islandlk`](http://island.lk/fahmy-doing-ithis-way/) · `en`
+
+Fahmy Nazick will be seen in action at the Anchorman’s 20th Anniversary Gala Dinner Dance, on 31st, May, in Canada, and he is eagerly looking forward to entertaining the large crowd expected with his style of music.
+
+Says Fahmy: “Lots of events are taking place but not my style of music. I have nothing against oriental music but that seems to be the trend now.
+
+“In fact, Binara, from Binara and the Clan, reached out to me recently and is keen to organise a dance and have me doing all my style of music because he says that some of the audience may not even know what western music is like.
+
+Fahmy is a classy singer whose style of singing covers the Elvis Presley/Jim Reeves era.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/2dc67170.json)
+
+---
+
+### Redeemers…big scene this year as well
+
+*2024-04-29 22:53:00* · [`islandlk`](http://island.lk/redeemersbig-scene-this-year-as-well/) · `en`
+
+The year 2023 was a happening scene for the band Redeemers, especially their tour of Australia in July/August.
+
+The Sri Lankans, in that part of the world, went ga-ga over their music and there were lots of positive comments, on social media, about their performance, Down Under.
+
+They were also seen in action, in Bahrain, in November of last year.
+
+According to a spokesman for the band, the Redeemers have got some foreign assignments coming up this year, as well.
+
+“There are about four-plus countries that we are negotiating with and, hopefully, 2024 will be another good year for the band where overseas trips are concerned”.
+
+Locally, Redeemers shared the stage with the American band All-4-One when they performed in Colombo, in December 2023, in a concert organised by Gold FM.
+
+In December, last year, the band also took over the entire production and successfully put together a New Year’s Eve dance 2023 at a five star venue, in Colombo.
+
+...
+
+[Data](articles/c0478591.json)
+
+---
+
 ### May Day, May Day! Collective Rights versus Individual Rights
 
 *2024-04-29 22:45:07* · [`dailyftlk`](https://www.ft.lk/opinion/May-Day-May-Day-Collective-Rights-versus-Individual-Rights/14-761173) · `en`
@@ -528,6 +574,48 @@ Well, for starters, Ranil is one tough cookie. The man knows how to survive in t
 
 ---
 
+### Prime Residencies breaks ground and launches phase II of The Colombo Border
+
+*2024-04-29 22:39:00* · [`islandlk`](http://island.lk/prime-residencies-breaks-ground-and-launches-phase-ii-of-the-colombo-border/) · `en`
+
+Prime Lands Residencies PLC, Sri Lanka’s leading real estate developer, achieved a significant milestone with the ground-breaking ceremony of ‘The Colombo Border,’ a landmark project poised to redefine urban living.
+
+With Phase I of the project nearly sold out, the company is now launching Phase II, coinciding with the commencement of construction. Piling work has been undertaken by San Piling, a reputed name in the construction industry, signifying the project’s steady progress towards completion.
+
+...
+
+[Data](articles/2a6be5e2.json)
+
+---
+
+### Virtusa celebrates groundbreaking success of first LinkedIn community event in Sri Lanka
+
+*2024-04-29 22:36:00* · [`islandlk`](http://island.lk/virtusa-celebrates-groundbreaking-success-of-first-linkedin-community-event-in-sri-lanka/) · `en`
+
+Virtusa Corporation, a global provider of digital engineering and IT services, proudly hosted the first-ever LinkedIn (LI) community event in Sri Lanka, dubbed “Connect Colombo.” The landmark event took place at the Courtyard by Marriott, marking a significant milestone in the country’s professional networking landscape.
+
+Bringing together over 200 industry leaders and mid to senior-level executives, “Connect Colombo” served as a dynamic platform for discussions on pivotal topics such as Networking and Personal Branding. The event featured three insightful sessions, headlined by renowned professionals from diverse sectors.
+
+...
+
+[Data](articles/0e870a90.json)
+
+---
+
+### Sri Lanka Veterinary Association celebrates World Veterinary Day
+
+*2024-04-29 22:35:00* · [`islandlk`](http://island.lk/sri-lanka-veterinary-association-celebrates-world-veterinary-day/) · `en`
+
+The Sri Lanka Veterinary Association (SLVA) marked World Veterinary Day on April 27, 2024, with a social media campaign emphasising the critical role veterinarians play in safeguarding public health. This year’s theme, “Veterinarians are essential health workers,” underlines their diverse contributions beyond animal care.
+
+“Veterinarians are often unseen activists in safeguarding public health,” stated Dr. Mohamed Ijas, President of Sri Lanka Veterinary Association. “To mark World Veterinary Day, we aim to raise awareness of the diverse ways veterinarians contribute to the well-being of animals, humans, environment and the role in ‘’One Health’’ concept. Their crucial contribution in ensuring public health, and by promoting a deeper understanding of their diverse contributions, we can foster a healthier future for all.”
+
+...
+
+[Data](articles/21535d0d.json)
+
+---
+
 ### Ranil invited me to take up position in the government: CBK
 
 *2024-04-29 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-invited-me-to-take-up-position-in-the-government-CBK/108-281614) · `en`
@@ -547,6 +635,38 @@ Ms Kumaratunga said there was no truth in the reports that she was supporting th
 [Data](articles/226be54a.json)
 
 [Extended Data](ext_articles/226be54a.ext.json)
+
+---
+
+### The Four A’s Advertising Festival set to transform Sri Lanka’s creative communications industry
+
+*2024-04-29 22:31:00* · [`islandlk`](http://island.lk/the-four-as-advertising-festival-set-to-transform-sri-lankas-creative-communications-industry/) · `en`
+
+The Four A’s Advertising Festival, powered by Unilever Sri Lanka and globally connected by SriLankan Airlines, is gearing up to be a transformative event for the advertising and creative industry this May.
+
+With Unilever Sri Lanka as its driving force and the global mileage facilitated by SriLankan Airlines, the festival promises to be a remarkable milestone for Sri Lanka, making this event highly anticipated and significant for the local advertising and creative community, as it has been a while since an international-scale learning festival of this magnitude was held in the country.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6de31c71.json)
+
+---
+
+### CSE exudes bullish exuberance with turnover of Rs. 4 billion and 12 crossings
+
+*2024-04-29 22:26:00* · [`islandlk`](http://island.lk/cse-exudes-bullish-exuberance-with-turnover-of-rs-4-billion-and-12-crossings/) · `en`
+
+The CSE was extremely bullish yesterday owing to the maintenance of a dovish monetary policy or lower interest rates by the Central Bank. Besides, institutional and retail participation was vibrant, market analysts said.
+
+Consequently, crossings dominated the market with the active participation of both retail and institutional buyers. Both indices moved upwards. The All Share Price Index went up by 109.94 points while S and P SL20 rose by 54.16 points. Turnover stood at Rs 4.1 billion with twelve crossings.
+
+...
+
+[Data](articles/2c3b9ea8.json)
 
 ---
 
@@ -589,6 +709,24 @@ The law applies to all the May Day rally which is held nationwide, police said.
 [Data](articles/a7cd1dda.json)
 
 [Extended Data](ext_articles/a7cd1dda.ext.json)
+
+---
+
+### Cinnamon cultivation will be expanded  under Agricultural Modernization program –  President
+
+*2024-04-29 22:10:00* · [`islandlk`](http://island.lk/cinnamon-cultivation-will-be-expanded-under-agricultural-modernization-program-president/) · `en`
+
+President Ranil Wickremesinghe reiterated the government’s commitment to maximizing the contribution of agriculture to the country’s economic advancement. He highlighted the implementation of programs aimed at popularizing cinnamon cultivation, a significant export crop in the country’s history, as part of the agricultural modernization initiative.
+
+President Ranil Wickremesinghe made these remarks while attending the launch of  “Dilmah Cinnamon”  held on Sunday (28) at the Galle Face Hotel in Colombo.
+
+The “Dilmah” brand, renowned for elevating “Ceylon Tea” in the global market, has ventured into the Sri Lankan cinnamon industry by expanding its domestic exports through the company, introducing high-quality cinnamon products to the global market.
+
+President Ranil Wickremesinghe, together with  President of the World Association of Chefs’ Societies Master Chef Thomas Gugler, symbolically unveiled the Dilmah Cinnamon products.
+
+...
+
+[Data](articles/9365fd34.json)
 
 ---
 
@@ -2003,193 +2141,5 @@ The Elections Commission has instructed the village officials to immediately inq
 [Data](articles/97019318.json)
 
 [Extended Data](ext_articles/97019318.ext.json)
-
----
-
-### Teaser release of Samudrakani starrer 'Ramam Raghavam'
-
-*2024-04-29 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/182247) · `ta`
-
-"Samudrakani's directorial debut 'Ramam Raghavam' teaser released, featuring Bala, Tanaraj Koranani, and others. The film explores father-son relationships, produced by Prithvi Polwarapu."
-
-🟩
-
-The teaser of the film 'Ramam Ragavam', which has made her debut as a director in Tamil cinema, is the actor of South Indian cinema today and is the hero of the story.. Director Bala, the branded creator of Tamil cinema, participated in the special ceremony.
-
-Samudrakani, Tanraj Koranani, Harish Uthaman, Satya, Moksha Sen Gupta, Pramodhini, Srinivas Reddy, directed by director Tanaraj Koranani.. The film, which has been recorded by Durga Prasad, has composed the film. Prithvi Polwarapu is produced by Prithvi Polwarapu on behalf of Silat Pencil Stories. Prabhakar Arifaka presents this film.
-
-The teaser of the film was released in Chennai. The National Award -winning director Bala, director Pandiraj, actors Suri, Bobi Simha and many others were present as special guests.
-
-The verses featured in the preview of the film are the relationship between the father and the son and the father's effort for the development of the son.. Fans have been very welcome as it is emotionally displayed.
-
-◼️
-
-[Data](articles/1746eb56.json)
-
-[Extended Data](ext_articles/1746eb56.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover tops 4bn for a second day
-
-*2024-04-29 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-4bn-for-a-second-day-160513/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.90 percent, or 109.94 points, at 12,310; while the S&P SL20 Index closed up 1.40 percent, or 51.04 points, at 3,685.
-
-Turnover was at 4.1 billion. 1.2 of this came from the capital goods sector.
-
-Ceylon Cold Stores Plc saw the most active trading volumes (Rs338mn), the share closed up at 62.50.
-
-Both Royal Ceramics Lanka Plc (up at 33.30) and Dipped Products Plc (up at 31.00) also saw investor interest.
-
-PGP Glass Ceylon Plc, which saw a trading halt imposed and later lifted on Friday, as well as board changes, saw selling pressure (Rs153mn), and the share closed down at 28.80.
-
-Major positive contributors to the ASPI included Hayleys Plc (up at 90.00), Sampath Bank Plc (up at 82.10), Hatton National Bank Plc (up at 204.75), Commercial Bank of Ceylon Plc (up at 116.25), and Melstacorp (up at 91.80).
-
-...
-
-[Data](articles/c0618fa1.json)
-
-[Extended Data](ext_articles/c0618fa1.ext.json)
-
----
-
-### Deadline for accepting donations to Gaza Children’s Fund extended
-
-*2024-04-29 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98917/deadline-for-accepting-donations-to-gaza-childrens-fund-extended) · `en`
-
-The deadline for the Children of Gaza Fund, initiated by President Ranil Wickremesinghe to aid those affected by conflicts in Gaza, has now been extended until May 31, 2024.
-
-Originally scheduled to conclude on April 30, 2024, the extension follows a widespread appeal from across the island. Irrespective of background, citizens have rallied behind the President’s call to support this cause, the President’s Media Division (PMD) said.
-
-In the initial phase, on behalf of the government, President Ranil Wickremesinghe handed over US$ 01 million to the Palestinian government through the United Nations from the allocations set aside by ministries and government institutions to hold this year’s Iftar celebration. Subsequent donations will also be formally transferred to the Palestinian government.
-
-...
-
-[Data](articles/ee962340.json)
-
-[Extended Data](ext_articles/ee962340.ext.json)
-
----
-
-### 30 special police teams to criminate crimes in the South
-
-*2024-04-29 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196097) · `si`
-
-30 special police teams, trained to combat crimes in the South, have been deployed in Mirissa, under the Matara Crimes Division, established by an Assistant Superintendent of Police.
-
-🟩
-
-Troops of 30 police teams with special training have been deployed to suppress underworld activities and crimes in the Southern Province.
-
-The operation of the Matara Crimes Division established in Mirissa today, the Matara Crimes Division established in Mirissa today, which was established in Mirissa.
-
-The special police unit was established under the supervision of an Assistant Superintendent of Police.
-
-◼️
-
-[Data](articles/435d1964.json)
-
-[Extended Data](ext_articles/435d1964.ext.json)
-
----
-
-### Recovery of missing person in Pasikuda Sea
-
-*2024-04-29 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/182246) · `ta`
-
-A man missing in Pasikuda Sea was recovered after a 3-hour search by Calcutta divers on Monday, 29th. He was part of a group from Batticaloa town who went bathing on Sunday, 28th. The police are investigating the incident.
-
-🟩
-
-A man who was bathing in the Kalkuda - Pasikuda Sea has been recovered on Monday (29).
-
-One of them disappeared while a group of Batticaloa town was bathed on Sunday (28).
-
-Calcutta divers team searched for the missing person for 3 hours yesterday.
-
-In this case, the man who drowned after a serious search today has been recovered.
-
-A complaint has been lodged at the Calcutta Police Station and the police are conducting investigations.
-
-◼️
-
-[Data](articles/a9231aeb.json)
-
-[Extended Data](ext_articles/a9231aeb.ext.json)
-
----
-
-### Petitions to the Supreme Court against police
-
-*2024-04-29 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196096) · `si`
-
-Five OICs of the IGP petition the Supreme Court, claiming the IGP failed to prevent ministers' houses during protests. The IGP's AG, Viraj Dayaratne, defends that suitable police stations will be provided. Three OICs agree to the proposed stations, but two reject them, leading to a May 29 hearing for the latter.
-
-🟩
-
-Five OIC of the Inspector General of Police (IGP) has informed the Supreme Court today that five OIC had not taken measures to prevent the houses of ministers during the struggle.
-
-Petitions filed by five OICs Chief Justice Jayantara Jayasuriya and Gamini Amarasekera and AHMD. The three-member judges with Nawaz were summoned before the Supreme Court Bench.
-
-Additional Solicitor General Viraj Dayaratne appearing on behalf of the IGP, said that the Inspector General of Police (IGP) has taken place to provide suitable police stations to the petitioners.
-
-According to the agreement with three OIC of the petitioner police stations, the panel of judges had decided to finish the examination of the petitions filed by them.
-
-However, two petitioners have not agreed to accept police stations proposed by the IGP.
-
-Accordingly, the panel of judges were ordered to be summoned to the petitions of the two OICs of the petitioners on May 29.
-
-◼️
-
-[Data](articles/1bc291cd.json)
-
-[Extended Data](ext_articles/1bc291cd.ext.json)
-
----
-
-### Geologists assess landslide-prone area near Uma Oya Project in Karandagolla
-
-*2024-04-29 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98916/geologists-assess-landslide-prone-area-near-uma-oya-project-in-karandagolla) · `en`
-
-A team of senior geologists from the National Building Research Organization (NBRO) engaged in a special observation of the reactivated landslide-prone area near the Uma Oya Project in Karandagolla today (29).
-
-The Badulla District Secretary has confirmed that efforts are underway to reduce water levels in the hilly terrain through short-term methods to mitigate landslide risks.
-
-The sloping terrain extending around two acres known as Malittagolla in the Karandagolla area of Ella has displayed signs of landslide susceptibility recently. Local residents have raised concerns, attributing the situation to potential impact from the Uma Oya project.
-
-Consequently, the Ella Divisional Secretariat, Ella Pradeshiya Sabha, along with the Sri Lanka Army and the police, are collaborating to redirect waterways contributing to landslide risks in the short term.
-
-◼️
-
-[Data](articles/b380f8a1.json)
-
-[Extended Data](ext_articles/b380f8a1.ext.json)
-
----
-
-### Former Parliamentarian Eelavendan passed away ..!
-
-*2024-04-29 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182238) · `ta`
-
-Eelavendan, a former TNA parliamentarian, died at 91. Elected in 2004, he lost his seat in 2007 due to absence from parliament.
-
-🟩
-
-Former Tamil National Alliance (TNA) parliamentarian Eelavendan passed away at the age of 91.
-
-He died after being admitted to a hospital in Canada - Toronto.
-
-In the 2004 parliamentary election, Eelamavendan was elected to parliament at the age of 72 as a member of the National List of the Tamil National Alliance.
-
-In November 2007, his parliamentary position was lost in November 2007 as he did not go to parliament for more than three months.
-
-◼️
-
-[Data](articles/a8cf5214.json)
-
-[Extended Data](ext_articles/a8cf5214.ext.json)
 
 ---

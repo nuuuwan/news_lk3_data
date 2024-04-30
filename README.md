@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 16:34:03**
+As of **2024-04-30 16:51:11**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,541
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,876 (100.0%) of 21,878 articles have been extended.
+21,878 (100.0%) of 21,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ශ්‍රේෂ්ඨාධිකරණයෙන් ජනපතිට සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවට අතුරු තහනම් නියෝගයක්
+### Interim injury to the President and the Constitutional Council
 
 *2024-04-30 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196138) · `si`
 
-අගවිනිසුරු තනතුර හැර ශ්‍රේෂ්ඨාධිකරණයේ සෙසු විනිසුරු ධුර සඳහා නම් නිර්දේශ කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් ජනාධිපතිවරයාට සහ ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව වෙත අතුරු නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court issued an interim order to the President and the Constitution, preventing the recommendation from extending if the Chief Justice supports the Chief Justice's remand.
+
+🟩
+
+The Supreme Court has issued an interim order to the President and the Constitution to prevent the recommendation of the Supreme Court excending if the Chief Justice is for the remand of the Chief Justice.
 
 ◼️
 
 [Data](articles/b31150c4.json)
+
+[Extended Data](ext_articles/b31150c4.ext.json)
 
 ---
 
@@ -48,7 +54,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-04-30 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-announce-squad-for-T20-World-Cup/108-281661) · `en`
 
-(BCCI) - The Senior Selection Committee on Tuesday picked India’s 15-member squad for the upcoming ICC Men’s T20 World Cup 2024, which will be hosted in the West Indies and USA.
+Apr. 30 (BCCI) - The Senior Selection Committee on Tuesday picked India’s 15-member squad for the upcoming ICC Men’s T20 World Cup 2024, which will be hosted in the West Indies and USA.
 
 India will begin their World Cup campaign against Ireland on June 05, 2024 at the Nassau County International Cricket Stadium, New York, followed by the marquee clash against Pakistan on June 09, 2024 at the same venue. India will then play USA and Canada on June 12 and 15 respectively.
 
@@ -1230,23 +1236,29 @@ The agricultural primary allowance given to the farmers of the Batticaloa is giv
 
 ---
 
-### කෝටි 19 මත්ද්‍රව්‍ය සමග ඇල්ලූ තරුණයාගේ වාහන පොලිස් භාරයට
+### 19 crores arrested
 
 *2024-04-30 12:18:49* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-19-මත්ද්‍රව්‍ය-සමග-ඇල්ලූ-තරුණයාගේ-වාහන-පොලිස්-භාරයට/11-409344) · `si`
 
-ඩුබායි රටට වී සිටින මත්කුඩු ජාවාරම්කරුවෙකු එවන ලද කියන රුපියල් කෝටි දහ නවයකට ආසන්න
+19 crores arrested. Nearly 10 crore drug dealer sent to Dubai. Biyagama Police recovered Pjara and three Saki motorcycles, seized in detention orders. Young man linked to drug dealer in Dubai.
 
-වටිනාකමින් යුත් අයිස්,  හෑෂ් හා  හෙරොයින් කිලෝ 30 කට වැඩි පුමාණයක් සමග බියගම ප්‍රදේශයේදී  අත් අඩංගුවට ගත්  තරුණයාගේ තොරතුරු මත පැජරෝ  රථයක් හා ස්කුටි වර්ගයේ  යතුරු පැදි තුනක් බියගම පොලිසිය මගින් ඊයේ ( 29 වැනිදා ) පස්වරුවේ සොයා  ගෙන ඇත..
+🟩
 
-මේ වනවිට  අත් අඩංගුවට ගෙන රැඳවුම් නියෝග මත  රැඳවුම් භාරයේ සිටින එම තරුණයාගේ කඩුවෙල  , බෝමිරිය ප්‍රදේශයේ පිහිටි ඔහුගේ නිවසේ තිබි එම පැජරෝ රථය හා යතුරු පැදි තුන පොලිස් භාරයට  ගැනිණි.
+Nearly 10 crore, alleged drug dealer sent to Dubai
 
-මේ පැජරෝ රථය හා යතුරු පැදි තුන එම තරුණයාට ලබා දී තිබෙන්නේ ඔහුට එම මත්ද්‍රව්‍ය ලබා දුන් බව කියන දැනට ඩුබායි වල සැඟවී සිටින මත්කුඩු ජාවාරම්කරු විසින් බවට අනාවරණයවිය.
+The Biyagama Police have recovered a Pjara and three Saki motorcycles on the information he was arrested in the Biyagama area with more than 30 kilograms of ice, hush and heroin.
 
-මේ අතර රැඳවුම් නියෝග මත සිටින එම තරුණයාගෙන් තවදුරටත් ප්‍රශ්න කර ගෙන යයි.
+The Pajararo and three motorcycles were taken into custody in Bamiriya, Bamiriya, Kaduwela, Kaduwela, Kaduwela, in detacking the youth in detention orders.
+
+The young man and the three motorcycles have been given to the young man by the drug dealer who is hiding in Dubai, who has said that he was given the drug.
+
+Meanwhile, the young man on detention orders continues.
 
 ◼️
 
 [Data](articles/abc9226a.json)
+
+[Extended Data](ext_articles/abc9226a.ext.json)
 
 ---
 

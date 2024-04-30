@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 20:50:00**
+As of **2024-04-30 21:03:36**
 
 ## Newspaper Stats
 
-*Scraped **21,912** Articles*
+*Scraped **21,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,190
 dailyftlk | 1,228
 economynextcom | 1,242
-adalk | 1,838
+adalk | 1,839
 tamilmirrorlk | 2,543
 adaderanalk | 2,595
 virakesarilk | 3,302
-dailymirrorlk | 3,419
+dailymirrorlk | 3,420
 adaderanasinhalalk | 3,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,911 (100.0%) of 21,912 articles have been extended.
+21,912 (100.0%) of 21,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### Sri Lanka, Saudi Arabia ink MoU on investment promotion
+
+*2024-04-30 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Saudi-Arabia-ink-MoU-on-investment-promotion/108-281673) · `en`
+
+Colombo, April 30(Daily Mirror)-Sri Lanka and Saudi Arabia inked a Memorandum of Understanding (MoU) to promote investments, Foreign Minister Ali Sabry said.
+
+He said he and Saudi Minister of Investment Khalid Al Falih signed the MoU on investment promotion between the countries.
+
+“This instrument, a long felt need, will immensely help promote investment opportunities in our countries,” he said.
+
+◼️
+
+[Data](articles/f1c0895c.json)
+
+---
 
 ### Media felicitated for preserving Jathika Namal Uyana
 
@@ -43,6 +59,8 @@ The event coincided with the 33rd anniversary celebration of the conservation an
 ◼️
 
 [Data](articles/30ecea2d.json)
+
+[Extended Data](ext_articles/30ecea2d.ext.json)
 
 ---
 
@@ -215,6 +233,24 @@ Subsequently, in the afternoon of the same day, President Wickremesinghe is slat
 [Data](articles/5fdaf639.json)
 
 [Extended Data](ext_articles/5fdaf639.ext.json)
+
+---
+
+### උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආශ්‍රිතව කිසිදු ගැටළුකාරී තත්ත්වයක් වාර්තා වී නැහැ
+
+*2024-04-30 17:44:07* · [`adalk`](https://www.ada.lk/breaking_news/උමා-ඔය-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ආශ්‍රිතව-කිසිදු-ගැටළුකාරී-තත්ත්වයක්-වාර්තා-වී-නැහැ/11-409352) · `si`
+
+උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පත් කිරීමෙන් අනතුරුව ඒ ආශ්‍රිත නායයාමක් හෝ වෙනත් ගැටළුකාරී තත්ත්වයක් මෙතෙක් වාර්තා වී නොමැති බවත් වර්ෂාපතනය සමඟ ඇති වන කුඩා දිය ඇලි පෙන්වමින් ඇතැමුන් ජනතාව නොමඟ යැවීමට උත්සාහ දරණ බවත් විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ හේරත් මහතා පැවසීය.
+
+උමා ඔය ප්‍රදේශය ආශ්‍රිතව සිදුව ඇතැයි පැවසෙන ඉරිතැලීම් සහ ජල ගැලීම් සම්බන්ධයෙන් සොයා බලා වාර්තා කිරීම සඳහා භූ විද්‍යාඥයින් කණ්ඩායමක් හෙට දින (01) අදාළ ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (30) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා මෙසේද සඳහන් කළේය,
+
+...
+
+[Data](articles/6c06eb55.json)
 
 ---
 
@@ -2225,57 +2261,5 @@ While issuing a statement, the association said Chandana Liyanapatabendi PC will
 [Data](articles/ec12edce.json)
 
 [Extended Data](ext_articles/ec12edce.ext.json)
-
----
-
-### Palestinian journalist who searched his mother for several days
-
-*2024-04-30 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182303) · `ta`
-
-A Palestinian journalist found his mother's body in a hospital after searching for several days. Eyewitnesses reported her death by Israeli soldiers. The journalist, Mohammed, said his mother, Naima Voice, was killed while he was sleeping at home. He expressed his grief and the only thing left to him was his mother's clothes.
-
-🟩
-
-A Palestinian journalist has found her mother's body after searched for several days.
-
-I found the mother's body on the hospital on the floor of the hospital.
-
-Eyewitnesses have reported that the journalist's mother, Naima Voice, was killed by Israeli soldiers.
-
-He began searching for his mother after the Israeli army retreated from there for two weeks.
-
-Mother said that I had no medicine water. I was in a position to sleep on the ground. He was finally talking to me.
-
-Mohammed said that I was his only son. I was always with him and I was with him for the rest of my life.
-
-The Palestinian journalist who said that I was asleep at home. I went to sleep at home.
-
-He said that he would have seen him when he was looking for me. If I had seen him, I would have hugged him.
-
-Naima has also refused to leave since he decided to remain in Gaza to record the plight of Gaza.
-
-The journalist said that this is my mother's clothes.
-
-...
-
-[Data](articles/41d9e7b6.json)
-
-[Extended Data](ext_articles/41d9e7b6.ext.json)
-
----
-
-### Order on Keheliya’s writ petition postponed for May 7
-
-*2024-04-30 11:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Order-on-Keheliyas-writ-petition-postponed-for-May-7/108-281640) · `en`
-
-Colombo, April 30 (Daily Mirror) - The Court of Appeal's decision whether or not to consider the writ petition filed by former Health Minister Keheliya Rambukwella seeking an order directing the Maligakanda Magistrate to release him on bail was today postponed for May 7.
-
-The former Minister is challenging the orders by the  Maligakanda Magistrate on February 3, February 15, February 29 and March 29, consistently refusing to release him on bail and placing him in remand custody till the conclusion of the trial.
-
-◼️
-
-[Data](articles/0268ffed.json)
-
-[Extended Data](ext_articles/0268ffed.ext.json)
 
 ---

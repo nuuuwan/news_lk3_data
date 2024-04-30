@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 15:52:36**
+As of **2024-04-30 16:04:17**
 
 ## Newspaper Stats
 
-*Scraped **21,859** Articles*
+*Scraped **21,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,831
-tamilmirrorlk | 2,539
+tamilmirrorlk | 2,540
 adaderanalk | 2,589
-virakesarilk | 3,293
+virakesarilk | 3,296
 dailymirrorlk | 3,409
 adaderanasinhalalk | 3,540
 
@@ -26,27 +26,103 @@ adaderanasinhalalk | 3,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,858 (100.0%) of 21,859 articles have been extended.
+21,859 (100.0%) of 21,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### ගුවන්තොටුපොළේදී වැරදීමකින් පිටවූ වෙඩිල්ල
+### கடும் இடி, மின்னல் தாக்கம் குறித்து பொதுமக்கள் அவதானமாக இருக்கவும் !
+
+*2024-04-30 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182344) · `ta`
+
+இன்று மாலை புத்தளம், காலி, மாத்தறை ஆகிய மாவட்டங்களிலும் மேல்மாகாணம், மத்திய மாகாணம் மற்றும் சப்ரகமுவ மாகாணங்களிலும் அதிகளவான இடி மின்னல் தாக்கம் ஏற்படக்கூடுமென வளிமண்டல திணைக்களம் எச்சரிக்கை விடுத்துள்ளது.
+
+இந்நிலையில், நேற்று பலத்த இடி மற்றும் மின்னல் தாக்கம் காரணமாக ஒரே வீட்டுனுள் இரு பிள்ளைகள் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ac72ade9.json)
+
+---
+
+### இலங்கை - கசகஸ்தானுக்கிடையில் இருதரப்பு விமான சேவைகள் ஒப்பந்தம்
+
+*2024-04-30 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182340) · `ta`
+
+இலங்கைக்கும் கசகஸ்தானுக்கும் இடையிலான இருதரப்பு விமான சேவைகளை மேம்படுத்துவதற்காக இருநாடுகளின் விமானப் போக்குவரத்து அதிகாரசபைகளுக்கும் இடையிலான விமான சேவைகள் தொடர்பான ஒப்பந்தமொன்றில் கையொப்பமிடுவதற்காக 2015.05.13 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அனுமதி வழங்கப்பட்டுள்ளது.
+
+ஆயினும், இதுவரை குறித்த விமான சேவைகள் ஒப்பந்தத்தில் கையொப்பமிடுவதற்கு இயலுமை கிட்டவில்லை. உத்தேச விமான சேவைகள் ஒப்பந்தத்தின் கீழ் இலங்கையின் எந்தவொரு இடத்திலிருந்தும் கசகஸ்தானின் எஸ்டானா மற்றும்ஃஅல்லது அல்மெட் வரைக்கும் திட்டவட்டமான விமான வழிப்பயணத்தினூடாக வாரத்திற்கு 7 தடவைகள் விமான சேவைகளை மேற்கொள்வதற்கு எதிர்பார்க்கப்படுகின்றது.
+
+அதற்கமைய, இருதரப்பினரும் உடன்பாடு எட்டப்பட்டுள்ள விமான சேவைகள் ஒப்பந்தத்தில் கையொப்பமிடுவதற்காக துறைமுகங்கள், கப்பல்துறை மற்றும் விமான சேவைகள் அமைச்சர் சமர்ப்பித்துள்ள யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/b0e3303f.json)
+
+---
+
+### The shore left by mistake at the airport
 
 *2024-04-30 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196137) · `si`
 
-කටුනායක ගුවන්තොටුපොළ ප්‍රභූ පර්යන්තය ආසන්නයේ සේවයේ යෙදී සිටි ගුවන් භටයෙකුගේ ගිනි අවිය අත්වැරදීමකින් ක්‍රියාත්මක වීම සම්බන්ධයෙන් පරීක්ෂණයක් ආරම්භ කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පවසයි.
+An inquiry into an Airman's operation near Katunayake airport has been launched after a firearm was accidentally left at the airport. No injuries were reported.
 
-අද (30) උදෑසන 10ත් 11ත් අතර කාලයේදී සිදුවූ එම සිදුවීමෙන් කිසිවෙකුත් තුවාල ලබා නොමැති බව ඔහු පැවසීය.
+🟩
 
-"එම ගුවන් භටයා විවේක ගන්නා ස්ථානයකට ගොස් වතුර බොන අවස්ථාවේදී ඔහුගේ ගිනි අවිය බිම වැටිලා උණ්ඩයක් පිටවුණා කියන එක තමයි ඔහු කියන්නේ."
+Police Media Spokesperson DIG, Attorney-at-Law Nihal Thameda says an inquiry has been launched to implement an an investigation into the operation of an Airman to work near Katunayake airport.
 
-එම අවස්ථාවේදී පිටවූ උණ්ඩය අසල ගොඩනැගිල්ලක ඉහළ ස්ථානයක වැදී තිබුණි.
+He said that no one was injured in the incident between 10 and 11 this morning.
+
+"He says that the aircraft went to a rest location and to drink his firearm at the ground."
+
+At that time the exit was hit in a high place in a building near the exit.
 
 ◼️
 
 [Data](articles/e873d000.json)
+
+[Extended Data](ext_articles/e873d000.ext.json)
+
+---
+
+### சிவகார்த்திகேயன் வெளியிட்ட 'ராபர்' பட ஃபர்ஸ்ட் லுக்
+
+*2024-04-30 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182336) · `ta`
+
+'மெட்ரோ' படத்தின் மூலம் ரசிகர்களுக்கு அறிமுகமான நடிகர் சத்யா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ராபர்' எனும் திரைப்படத்தின்  ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை நடிகர் சிவகார்த்திகேயன் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்தார்.
+
+அறிமுக இயக்குநர் எஸ். எம். பாண்டி இயக்கத்தில் உருவாகி இருக்கும் 'ராபர்' படத்தின் சத்யா, டேனி போப், தீபா ஷங்கர், ஜெயபிரகாஷ், சென்றாயன், நிஷாந்த், 'ராஜா ராணி' பாண்டியன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். என். எஸ். உதயகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜோஹன் ஷிவனேஷ் இசையமைத்திருக்கிறார். பொது வெளிகளில் நடைபெறும் நகை திருட்டை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை இம்ப்ரஸ் ஃபிலிம் புரொடக்ஷன்ஸ் மற்றும் மெட்ரோ புரொடக்ஷன்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் எஸ். கவிதா மற்றும் ஆனந்த கிருஷ்ணன் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/31b24248.json)
+
+---
+
+### Poll on General Elections - United People's Power
+
+*2024-04-30 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182335) · `ta`
+
+In a poll on general elections, United People's Power (UPP) gained 4% support, surpassing National People's Power (NPP) with 38% vs. 35%. Sri Lanka PA United National Party (UNP) maintains support for Sri Lanka Freedom Party (SLFP). Ravi Ravi Rannan, HP director, noted increased April poll numbers.
+
+🟩
+
+The Institute for Health Policy has said that in a poll to know the purpose of voting in the general election, the United People's Power has supported the United People's Power than the National People's Power.
+
+38 percent of those who participated in the United People's Power and 35 percent of the national people's power.
+
+For the first time since 2022, the United People's Power has increased to four percent.
+
+The Sri Lanka PA United National Party (UNP) has not changed the support of the Sri Lanka Freedom Party (SLFP).
+
+Commenting on the aim of voting in the general election, Ravi Ravi Rannan, director of the HP, pointed out that the polls in April Eliya have increased in the polls earlier in the month of April.
+
+◼️
+
+[Data](articles/09fbd11a.json)
+
+[Extended Data](ext_articles/09fbd11a.ext.json)
 
 ---
 
@@ -71,32 +147,6 @@ The country has suffered a huge loss due to the delay in completing the Umoya Mu
 [Data](articles/dc44ee78.json)
 
 [Extended Data](ext_articles/dc44ee78.ext.json)
-
----
-
-### Poll on General Elections - United People's Power
-
-*2024-04-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/182335) · `ta`
-
-In a poll on general elections, United People's Power (UPP) gained 4% support, surpassing National People's Power (NPP) with 38% vs. 35%. Sri Lanka PA United National Party (UNP) maintains support for Sri Lanka Freedom Party (SLFP). Ravi Ravi Rannan, HP director, noted increased April poll numbers.
-
-🟩
-
-The Institute for Health Policy has said that in a poll to know the purpose of voting in the general election, the United People's Power has supported the United People's Power than the National People's Power.
-
-38 percent of those who participated in the United People's Power and 35 percent of the national people's power.
-
-For the first time since 2022, the United People's Power has increased to four percent.
-
-The Sri Lanka PA United National Party (UNP) has not changed the support of the Sri Lanka Freedom Party (SLFP).
-
-Commenting on the aim of voting in the general election, Ravi Ravi Rannan, director of the HP, pointed out that the polls in April Eliya have increased in the polls earlier in the month of April.
-
-◼️
-
-[Data](articles/09fbd11a.json)
-
-[Extended Data](ext_articles/09fbd11a.ext.json)
 
 ---
 
@@ -433,6 +483,20 @@ All licensed retail liquor stalls will be closed in the Divisional Secretariat D
 [Data](articles/a01bc13f.json)
 
 [Extended Data](ext_articles/a01bc13f.ext.json)
+
+---
+
+### பூட்டப்படும் ஆனால் மூடப்படாது
+
+*2024-04-30 14:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூட்டப்படும்-ஆனால்-மூடப்படாது/175-336554) · `ta`
+
+உலக தொழிலாளர் தினமான மே (01)  மதுபானசாலைகள் சில மூடப்படவுள்ளதாக கலால் திணைக்களம் அறிவித்துள்ளது.
+
+மே தின பேரணிகள் இடம்பெறும் பிரதேச செயலகப் பிரிவுகளில் இயங்கும் அனைத்து உரிமம் பெற்ற சில்லறை மதுபான விற்பனை நிலையங்களும் மூடப்படும். ஏனைய இடங்களில் இயங்கும் மதுபானசாலைகள் மூடப்படாது. வழமை போலவே திறந்திருக்கும்.
+
+◼️
+
+[Data](articles/f7b8f27c.json)
 
 ---
 
@@ -2251,101 +2315,5 @@ They are expected to be produced before the Colombo Chief Magistrates Court late
 [Data](articles/c34bb6cf.json)
 
 [Extended Data](ext_articles/c34bb6cf.ext.json)
-
----
-
-### Lessons From America
-
-*2024-04-30 07:42:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lessons-from-america/) · `en`
-
-Former US President Donald Trump has been charged with over 90 federal and state crimes,  While Trump who is now the presumptive presidential candidate of the Republican party has been using high powered lawyers to delay the cases, one jury trial on criminal charges has just commenced last Monday in New York. This is a historical even in American annals because this is the very first time a former US president is standing a criminal trial ever.
-
-The criminal charges he been indicted on are for obstructing a free transfer of power of a US presidency, hiding white house classified documents in his Florida mansion and campaign funding violation in Ney York state. All these charges, if convicted potentially can send Trump to jail, again a first in the history of the USA.
-
-...
-
-[Data](articles/565d68ff.json)
-
-[Extended Data](ext_articles/565d68ff.ext.json)
-
----
-
-### CID has arrested a group of bribes in a ruth
-
-*2024-04-30 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196116) · `si`
-
-CID arrests four for impersonating officials, accused of bribery. Suspects taken into custody at Kollupitiya yesterday, to be produced before Colombo Chief Magistrate today.
-
-🟩
-
-Four people have been arrested for appearing as the Criminal Investigation Department officials.
-
-Bribery or Corruption Commission states that the suspects were taken into custody at Kollupitiya at around 3.30 pm yesterday.
-
-The suspects are to be produced before the Colombo Chief Magistrate today (30).
-
-◼️
-
-[Data](articles/4f59ab74.json)
-
-[Extended Data](ext_articles/4f59ab74.ext.json)
-
----
-
-### Family dispute that lost a life
-
-*2024-04-30 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196115) · `si`
-
-Two murders reported in Moneragala and Katugastota. A woman in Nakkala killed by two women, and a man in Gahahagoda attacked. The Nakkala victim's son assaulted by the deceased's son-in-law.
-
-🟩
-
-Two murders have been reported from two areas, police said the police media division.
-
-The killings were reported yesterday (29), along with Moneragala and Katugastota Police Divisions.
-
-One woman was killed by a two woman with a sharp weapon at the Nakkala area.
-
-The deceased has been identified as a 44 year old resident of Moneragala, Nakkala.
-
-Police investigations have revealed that the son of the deceased has been assaulted by the son-in-law of the dead.
-
-The suspect's wife has been admitted to the Sirigala Hospital for treatment of cutting injuries.
-
-Meanwhile, a person has been attacked with a sharp weapon in the Gahahagoda area in Katugastota.
-
-The deceased has been identified as 50 year old resident of Halula, Halumulla.
-
-◼️
-
-[Data](articles/54858536.json)
-
-[Extended Data](ext_articles/54858536.ext.json)
-
----
-
-### Special notice to Colombo tomorrow
-
-*2024-04-30 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196114) · `si`
-
-Police in Colombo have declared a special traffic plan for tomorrow due to waves and marches marking International Labor Day. 40 waves are organized island-wide, and drones are forbidden to cover these events without permission.
-
-🟩
-
-Police have declared a special traffic plan due to waves and marches in Colombo to mark the international labor day of the international labor day in Colombo.
-
-Police Media Spokesperson DIG's Pressalus Attorney Nihal Talduuwa, said that 40 waves and 40 waves and 40 waves and 40 waves and 40 waves and 40 waves and 40 waves and 40 waves and 40 waves and 40 waves were organized island wide.
-
-The Police Media Spokesperson stated that 19 May Day celebrations will be held.
-
-According to police, the use of drones is forbidden to cover May waves without permission.
-
-Police have announced the special traffic plan in Colombo to mark the International Labor Day to mark the International Labor Day.
-
-◼️
-
-[Data](articles/7276d83b.json)
-
-[Extended Data](ext_articles/7276d83b.ext.json)
 
 ---

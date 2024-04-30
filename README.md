@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 14:18:57**
+As of **2024-04-30 14:34:10**
 
 ## Newspaper Stats
 
-*Scraped **21,832** Articles*
+*Scraped **21,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,828
 tamilmirrorlk | 2,536
-adaderanalk | 2,586
+adaderanalk | 2,587
 virakesarilk | 3,287
 dailymirrorlk | 3,401
 adaderanasinhalalk | 3,536
@@ -26,43 +26,73 @@ adaderanasinhalalk | 3,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,830 (100.0%) of 21,832 articles have been extended.
+21,832 (100.0%) of 21,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
 
-### 20යි 20 ලෝක කුසලානයට යන දකුණු අප්‍රිකානු සංචිතය
+### Sri Lanka to designate 40 more destinations as tourist zones
+
+*2024-04-30 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98936/sri-lanka-to-designate-40-more-destinations-as-tourist-zones-) · `en`
+
+The government plans to designate 49 more destinations as official tourist zones, says State Minister Diana Gamage.
+
+Addressing a press conference on Monday (29), the State Minister for Tourism revealed that these locations would be published in a gazette notification within a month as part of the ongoing efforts to boost tourism.
+
+Speaking further, she announced that plans are underway to establish a dedicated committee tasked with preventing and monitoring fraud and corruption within the tourism sector.
+
+“We have received numerous complaints regarding tourist harassment in our country. I”ve spoken out about this issue before. Complaints range from overcharging for food to inflated prices for train tickets to tourist spots, and even instances of sexual harassment against a tourist promoting Sri Lanka. We are implementing measures to combat these activities. We cannot afford to let the reputation of our country suffer due to the actions of a few individuals who make mistakes.
+
+...
+
+[Data](articles/36e8f9ff.json)
+
+---
+
+### 20 and South African squad going to World Cup
 
 *2024-04-30 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196133) · `si`
 
-ලබන මස අමෙරිකාවේ දී සහ බටහිර ඉන්දීය කොදෙව් දූපත් හිදී පැවැත්වෙන 20යි 20 ලෝක කුසලාන තරගාවලිය සඳහා දකුණු අප්‍රිකානු සංචිතය නම්කර තිබේ.
+The South African squad for the 20th World Cup, featuring Aidn Makram as leader, includes Otinelle Bartman, Ginrik Kuc, Bjourns, Andreick Kuzon, Ryan Rikelton, and Tristhon Stubs.
 
-15 දෙනෙකුගෙන් සමන්විත එම සංචිතයේ නායකත්වය සඳහා ඒඩ්න් මාක්‍රම් නම්කර තිබුණි.
+🟩
 
-ඒඩ්න් මාක්‍රම් (නායක), ඔටිනෙල් බාර්ට්මාන්, ජෙරල්ඩ් කොඑට්සී, ක්වින්ටන් ඩි කොක්, බ්ජෝර්න් ෆොර්ට්යුඉන්, රීසා හෙන්ද්‍රික්ස්, මාර්කෝ යන්සන්, හෙන්ද්‍රික් ක්ලාසන්, කේශාව් මහරාජ්, ඩේවිඩ් මිලර්, ඇන්ඩ්‍රික් නෝකියා, කැගීසෝ රබාඩා, රයන් රිකෙල්ටන්, තබ්‍රෙයිස් ශම්සි, ට්‍රිස්ටන් ස්ටබ්ස්
+The South African squad has been named for the 20th World Cup at the United States and the West Indies.
+
+Aidn Makram had been named for the leadership of the 15 people.
+
+Aidn Makram (Leader), Otinelle Bartman, Ginrik Kuc, Bjourns, Andreick Kuzon, Ryan Rikelton, Tristhon Stubs
 
 ◼️
 
 [Data](articles/c9413783.json)
 
+[Extended Data](ext_articles/c9413783.ext.json)
+
 ---
 
-### மே தின பேரணிக்கு, இந்தியாவிலிருந்து பாடகர்கள்
+### For May Day rally, singers from India
 
 *2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தின-பேரணிக்கு-இந்தியாவிலிருந்து-பாடகர்கள்/175-336553) · `ta`
 
-அரசாங்கத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள தேசிய மே தின  பேரணியுடன் இணைந்து ஏற்பாடு  செய்யப்பட்ட   இசை நிகழ்ச்சியில் பாடுவதற்காக இந்தியாவிலிருந்து பாடகர்கள் குழுவொன்று செவ்வாய்க்கிழமை  (30) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தது.
+Indian singers Vijay Balakrishnan, Ramya Nagercoil, Daniel Jayaram, and Reshma Sundaram, along with musicians Satya Prakash Dharmar and Nurani Vashar, are set to perform at a May Day concert in Sri Lanka.
 
-விஜய் பாலகிருஷ்ணன், ரம்யா நாகர்கோவில், டேனியல் ஜெயராம், ரேஷ்மா சுந்தரம் ஆகிய பாடகர்களே  இவ்வாறு  வருகை தந்துள்ளனர்.
+🟩
 
-இந்த இசை நிகழ்ச்சி  மாளிகாவத்தை,  பி.டி .சிரிசேன விளையாட்டு மைதானத்தில் மே 01 ஆம்  திகதி  நடைபெறவுள்ளது .
+A group of singers from India arrived at the Katunayake airport on Tuesday afternoon to sing at a concert organized by the government organized by the government.
 
-மேலும் , இந்திய இசைக்கலைஞர்களான சத்ய பிரகாஷ் தர்மர் மற்றும் நூராணி வஷர் ஆகியோரும்  இந்த  இசை நிகழ்ச்சியில் கலந்துக்கொள்வதற்காக இலங்கைக்கு வர உள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+Vijay Balakrishnan, Ramya Nagercoil, Daniel Jayaram and Reshma Sundaram have been present.
+
+The concert will be held on May 01 at the PT Sirisena Playground, Malikawatte.
+
+In addition, Indian musicians Satya Prakash Dharmar and Nurani Vashar are also reportedly coming to Sri Lanka to attend the concert.
 
 ◼️
 
 [Data](articles/b0cd5c14.json)
+
+[Extended Data](ext_articles/b0cd5c14.ext.json)
 
 ---
 
@@ -2239,23 +2269,5 @@ The alternatives are rooted in communication, understanding, and mutual respect
 [Data](articles/11ff1820.json)
 
 [Extended Data](ext_articles/11ff1820.ext.json)
-
----
-
-### Law reforms stagnate in Lanka while world marks global Day to End Corporal Punishment
-
-*2024-04-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Law-reforms-stagnate-in-Lanka-while-world-marks-global-Day-to-End-Corporal-Punishment/172-281591) · `en`
-
-Corporal punishment affects over 1.3 billion children worldwide and is the most common form of child abuse globally and in Sri Lanka, where complaints of cruelty against children have increased by three-fold in the past ten years.    As the world celebrates and respective governments pledge to do more to abolish a heinous crime against children on International Day to End Corporal Punishment on April 30th, neither the Government of Sri Lanka nor the National Child Protection Authority (NCPA), the most powerful institution maintained by public funds to protect and promote children’s rights is recognizing the only day dedicated to a specific type of child abuse.
-
-What are the proposed legal reforms to ban corporal punishment?
-
-The only group against whom assault is decriminalized is the 25% of citizens, 5.2 million children in Sri Lanka.
-
-...
-
-[Data](articles/2c4423ae.json)
-
-[Extended Data](ext_articles/2c4423ae.ext.json)
 
 ---

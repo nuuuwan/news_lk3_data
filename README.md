@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 00:18:44**
+As of **2024-05-01 00:33:59**
 
 ## Newspaper Stats
 
-*Scraped **21,937** Articles*
+*Scraped **21,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,247
 adalk | 1,840
 tamilmirrorlk | 2,544
 adaderanalk | 2,597
-virakesarilk | 3,308
+virakesarilk | 3,309
 dailymirrorlk | 3,423
 adaderanasinhalalk | 3,550
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,937 (100.0%) of 21,937 articles have been extended.
+21,937 (100.0%) of 21,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### இந்தியாவை வீழ்த்தி ஆசிய றக்பி 1ஆம் பிரிவு இறுதிப் போட்டிக்கு தகுதிபெற்றது இலங்கை
+
+*2024-04-30 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182366) · `ta`
+
+கொழும்பு குதிரைப் பந்தயத் திடலில் செவ்வாய்க்கிழமை (30) இரவு மின்னொளியில் நடைபெற்ற இரண்டாவது அரை இறுதிப் போட்டியில் இந்தியாவை 45 (7 ட்ரைகள், 5 கொன்வேர்ஷன்கள்) - 10 (ஒரு ட்ரை, ஒரு கொன்வேர்ஷன், ஒரு பெனல்டி) என்ற புள்ளிகள் வித்தியாசத்தில் அமோக வெற்றிகொண்ட இலங்கை, ஆசிய றக்பி முதலாம் பிரிவு இறுதிப் போட்டியில் கஸக்ஸ்தானை எதிர்த்தாட தகுதிபெற்றது.
+
+இடைவேளையின்போது இலங்கை 21 - 3 என்ற புள்ளிகள் அடிப்படையில் முன்னிலை வகித்தது.
+
+போட்டியின் 3ஆவது நிமிடத்தில் கிடைத்த பெனல்டியை தீப்பக் குமார் நேர்த்தியாக உதைத்து இந்தியாவை 3 - 0 என முன்னிலையில் இட்டார்.
+
+ஆனால், அதன் பின்னர் ஆதிக்கம் செலுத்திய இலங்கை சார்பாக 15ஆவது நிமிடத்தில் புலஸ்தி தசநாயக்கவும் 16ஆவது நிமிடத்தில் சுதாரக்க டிக்கும்புரவும் டரைகள் வைக்க அவற்றுக்கான மேலதிப் புள்ளிகளை தரிந்த ரத்வத்த பெற்றுக்கொடுத்தார்.
+
+32ஆவது நிமிடத்தில் சுதாரக்க டிக்கும்புர தனது 2ஆவது ட்ரையை வைத்ததுடன் அதற்கான  மேலதிப்   புள்ளிகளையும் தரிந்த ரத்வத்த பெற்றுக்கொடுத்தார். (21 - 3)
+
+...
+
+[Data](articles/7a53ed06.json)
+
+---
 
 ### Luxury cruise ship calls at Hambantota Port
 
@@ -2241,23 +2261,5 @@ Visiting the capital Kyiv earlier on Monday, NATO Secretary General Jens Stolten
 [Data](articles/0d44cf30.json)
 
 [Extended Data](ext_articles/0d44cf30.ext.json)
-
----
-
-### SJB catches up with NPP in Sri Lanka general, presidential election surveys
-
-*2024-04-30 12:47:00* · [`economynextcom`](https://economynext.com/sjb-catches-up-with-npp-in-sri-lanka-general-presidential-election-surveys-160629/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition the Samagi Jana Balawegaya (SJB) has overtaken the leftist National People’s Power (NPP) in a voting intent poll for a future parliamentary election while SJB leader Sajith Premadasa has closed a gap with NPP leader Anura Kumara Dissanayake for this year’s presidential election.
-
-The Institute for Health Policy (IHP) which carried out the two surveys for March 2024 found that its revised SLOTS MRP model, confirm an increasing trend in support for the SJB at the expense of the NPP.
-
-“The SJB on 38 percent (+4) took the lead with all voters for the first time since 2022, ahead of the NPP/JVP on 35 percent (-2), the SLPP at 8 percent (unchanged) and President Ranil Wickremesinghe’s United National Party (UNP) at 5 percent (unchanged). The March estimates are provisional and are associated with a margin of error of 1–3% for the four leading parties,” the IHP said in a statement
-
-...
-
-[Data](articles/9dff98f9.json)
-
-[Extended Data](ext_articles/9dff98f9.ext.json)
 
 ---

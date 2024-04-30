@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 11:53:45**
+As of **2024-04-30 12:05:16**
 
 ## Newspaper Stats
 
-*Scraped **21,798** Articles*
+*Scraped **21,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,825
 tamilmirrorlk | 2,532
-adaderanalk | 2,584
+adaderanalk | 2,585
 virakesarilk | 3,278
-dailymirrorlk | 3,394
-adaderanasinhalalk | 3,529
+dailymirrorlk | 3,398
+adaderanasinhalalk | 3,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,795 (100.0%) of 21,798 articles have been extended.
+21,798 (100.0%) of 21,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### හැරී පොටර් මන්දිරයට ප්‍රහාරයක්
+
+*2024-04-30 11:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196129) · `si`
+
+යුක්‍රේනයේ 'හැරී පොටර් මන්දිරය' ලෙස ප්‍රකට ඔඩෙසා හි පිහිටි මන්දිරයකට එල්ල වූ රුසියානු ප්‍රහාරයකින් ඊට දැඩි හානි සිදුව තිබේ.
+
+ප්‍රහාරයෙන් පුද්ගලයින් සිව්දෙනෙක් මියගොස් තවත් 32 දෙනෙක් තුවාල ලබා ඇති බව වාර්තා වේ.
+
+හිටපු යුක්‍රේන නීති සම්පාදකයෙකුට හිමි මෙම නිවස ඔඩෙසා හි නීති විද්‍යාලය ලෙස පසුකාලීනව භාවිත කර තිබේ.
+
+◼️
+
+[Data](articles/62e597bf.json)
+
+---
+
+### Patali arrives at CID
+
+*2024-04-30 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patali-arrives-at-CID/108-281644) · `en`
+
+Colombo, April 30 (Daily Mirror) - The leader of the Eksath Janaraja Peramuna and MP Patali Champika Ranawaka, arrived at the Criminal Investigation Department (CID) to provide a statement.
+
+Earlier, the CID had informed Ranawaka to report to their office today to record a statement regarding comments he made in Ratnapura.
+
+◼️
+
+[Data](articles/b53bb239.json)
+
+---
+
+### අධිකරණයේදී එළියට ආ අලුත් කතාව
+
+*2024-04-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196128) · `si`
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය මගින් සිය බාරයට ගත් මත්ද්‍රව්‍ය නැවත ජාවාරම්කරුවන්ට විකිණීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වනවිට ඇපමත මුදා හැර සිටින එම කාර්යාංශයට අනුයුක්තව සිටි සැකකාර පොලිස් නිලධාරීන් යළි සේවයේ පිහිටුවීමට පියවර ගෙන තිබෙන්නේ කෙසේදැයි ශ්‍රේෂ්ඨාධිකරණය ඊයේ (29) නීතිපතිවරයාගෙන් ප්‍රශ්න කළේය.
+
+එම සිද්ධිය සම්බන්ධයෙන් තමන්ව අත්අඩංගුවට ගැනීම නීතිවිරෝධී බවත් ඒ තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙසත් ඉල්ලා පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ සේවය කළ නිලධාරීන් පිරිසක් විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම් ඊයේ යළි විභාගයට ගත් අවස්ථාවේදී එය සලකා බැලූ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා විසින් මෙම ප්‍රශ්නය මතු කරන ලදී.
+
+මෙම පෙත්සම්  ප්‍රීති පද්මන් සූරසේන,  ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ විභාගයට ගනු ලැබීය.
+
+...
+
+[Data](articles/d41f2be6.json)
+
+---
+
+### Mahindananda acquitted and released from money laundering case
+
+*2024-04-30 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98933/mahindananda-acquitted-and-released-from-money-laundering-case) · `en`
+
+The Colombo High Court on Friday (30) acquitted and released former minister Mahindananda Aluthgamage from the money laundering case filed against him.
+
+The case was called before Colombo High Court Judge Nawarathne Marasinghe.
+
+Aluthgamage had been charged for allegedly failing to declare the source of funds used to purchase a luxury house worth approximately Rs. 27 million at Kynsey Road in Borella during his tenure as a minister.
+
+The Attorney General had filed indictments against the former minister under the Prevention of Money Laundering Act in the year 2017.
+
+◼️
+
+[Data](articles/d65fa400.json)
+
+---
+
+### Independent three-member inquiry board appointed: SLAMS
+
+*2024-04-30 11:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Independent-three-member-inquiry-board-appointed-SLAMS/108-281641) · `en`
+
+Colombo, April 30 (Daily Mirror) - The Sri Lanka Automobile Sports (SLAMS) today appointed a three-member independent board of inquiry to investigate into the tragedy at the Fox Hill Supercross Motor Racing Event on April 21.
+
+While issuing a statement, the association said Chandana Liyanapatabendi PC will be heading the panel of inquiry appointed by the sports body to study the facts and circumstances of the incident, especially to inspect the surroundings and track. He will be with two other eminent personalities, Sanjaya Gamage, former secretary of the Bar Association and former Deputy Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) and Vijaya Gamage, former banker, lawyer and former president of the Colombo Law Society.
+
+◼️
+
+[Data](articles/ec12edce.json)
+
+---
 
 ### Order on Keheliya’s writ petition postponed for May 7
 
@@ -43,6 +121,24 @@ The former Minister is challenging the orders by the  Maligakanda Magistrate on
 ◼️
 
 [Data](articles/0268ffed.json)
+
+[Extended Data](ext_articles/0268ffed.ext.json)
+
+---
+
+### මහින්දානන්ද නිදොස් කොට නිදහස්
+
+*2024-04-30 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196127) · `si`
+
+අමාත්‍යවරයෙකු වශයෙන් කටයුතු කරමින් අයතා ලෙස උපයාගත් රුපියල් මිලියන 27කට අධික මුදලක් වැය කොට කොළඹ කින්සි පාරේ සුඛෝපභෝගී නිවසක් මිලදී ගැනීම තුළින් මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ වරදක් සිදුකළේ යැයි චෝදනා ලබා සිටි හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතා නිදොස් කොට නිදහස් කරන ලෙස කොළඹ මහාධිකරණය නියෝග කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+මෙම චෝදනාව සම්බන්ධයෙන් ඉකුත් යහපාලන රජය සමයේ නීතිපතිවරයා විසින් හිටපු අමාත්‍ය මහින්දානන්ද අලුත්ගමගේ මහතාට එරෙහිව මෙම නඩුව ගොනුකර තිබිණි.
+
+◼️
+
+[Data](articles/8dce6f2d.json)
 
 ---
 
@@ -66,6 +162,30 @@ The complication – listed as a potential side effect of the jab – has previo
 
 [Data](articles/0c49c61a.json)
 
+[Extended Data](ext_articles/0c49c61a.ext.json)
+
+---
+
+### AstraZeneca admits for first time its COVID vaccine can cause rare side effect
+
+*2024-04-30 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/AstraZeneca-admits-for-first-time-its-COVID-vaccine-can-cause-rare-side-effect/107-281639) · `en`
+
+April 30 (Daily Mail) - AstraZeneca has admitted in court for the first time that its COVID  jab can cause a deadly blood clotting side effect.
+
+The exceedingly rare reaction is at the heart of a multi million-pound class action by dozens of families who allege they, or their loved ones, were maimed or killed by the pharmaceutical titan's 'defective' vaccine.
+
+Lawyers representing the claimants believe some of the cases could be worth up to £20m in compensation.
+
+Cambridge-based AstraZeneca, which is contesting the claims, acknowledged in a legal document submitted to the High Court in February that its vaccine 'can, in very rare cases, cause TTS'.
+
+TTS is short for thrombosis with thrombocytopenia syndrome – a medical condition where a person suffers blood clots along with a low platelet count. Platelets typically help the blood to clot.
+
+The complication – listed as a potential side effect of the jab – has previously been called vaccine-induced immune thrombotic thrombocytopenia (VITT).
+
+...
+
+[Data](articles/7dfbf67f.json)
+
 ---
 
 ### Sri Lanka rupee trades at 297.50/298.50 to US dollar
@@ -85,6 +205,8 @@ The Colombo Stock Exchange was trading down; The All Share Price Index was down 
 ◼️
 
 [Data](articles/796d65cb.json)
+
+[Extended Data](ext_articles/796d65cb.ext.json)
 
 ---
 
@@ -429,6 +551,28 @@ Accordingly, the Police Media Unit has issued detailed maps on the closure of th
 [Data](articles/858ad15c.json)
 
 [Extended Data](ext_articles/858ad15c.ext.json)
+
+---
+
+### Four officers shot dead, four wounded, in North Carolina home siege
+
+*2024-04-30 10:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Four-officers-shot-dead-four-wounded-in-North-Carolina-home-siege/107-281631) · `en`
+
+Carloina, April 30 (BBC) - Four law enforcement officers have been fatally shot and four others were wounded while serving a warrant in Charlotte, North Carolina, officials say.
+
+At least one suspected attacker was found dead in the front yard of a barricaded home after a standoff that lasted three hours, police said.
+
+It is one of the deadliest assaults on US law enforcement in decades.
+
+The officers were part of a US Marshals Service-led task force who were attempting to serve a warrant on Monday against a felon wanted for illegally possessing a firearm when gunfire erupted on the suburban street.
+
+The officers returned fire at an assailant in the front yard, then more shots were fired at them from inside the home, Charlotte-Mecklenburg Police Chief Johnny Jennings told a news conference. A high-powered rifle was found inside the property, he added.
+
+"Today we lost some heroes who were out simply trying to keep our community safe," the police chief told reporters.
+
+...
+
+[Data](articles/41f67f08.json)
 
 ---
 
@@ -2001,167 +2145,5 @@ President Ranil Wickremesinghe, alongside President of the World Association of 
 [Data](articles/847be937.json)
 
 [Extended Data](ext_articles/847be937.ext.json)
-
----
-
-### Trones blocked: police announcement!
-
-*2024-04-29 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182274) · `ta`
-
-Police prohibited drones for video recording May Day celebrations without permission. Drones must be obtained before use. Law applies nationwide.
-
-🟩
-
-Police said the use of drones was prohibited for video recording of May Day celebrations without permission.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Taluta said that if it is necessary to use the drones, it should be obtained before.
-
-The law applies to all the May Day rally which is held nationwide, police said.
-
-◼️
-
-[Data](articles/a7cd1dda.json)
-
-[Extended Data](ext_articles/a7cd1dda.ext.json)
-
----
-
-### Cinnamon cultivation will be expanded  under Agricultural Modernization program –  President
-
-*2024-04-29 22:10:00* · [`islandlk`](http://island.lk/cinnamon-cultivation-will-be-expanded-under-agricultural-modernization-program-president/) · `en`
-
-President Ranil Wickremesinghe reiterated the government’s commitment to maximizing the contribution of agriculture to the country’s economic advancement. He highlighted the implementation of programs aimed at popularizing cinnamon cultivation, a significant export crop in the country’s history, as part of the agricultural modernization initiative.
-
-President Ranil Wickremesinghe made these remarks while attending the launch of  “Dilmah Cinnamon”  held on Sunday (28) at the Galle Face Hotel in Colombo.
-
-The “Dilmah” brand, renowned for elevating “Ceylon Tea” in the global market, has ventured into the Sri Lankan cinnamon industry by expanding its domestic exports through the company, introducing high-quality cinnamon products to the global market.
-
-President Ranil Wickremesinghe, together with  President of the World Association of Chefs’ Societies Master Chef Thomas Gugler, symbolically unveiled the Dilmah Cinnamon products.
-
-...
-
-[Data](articles/9365fd34.json)
-
-[Extended Data](ext_articles/9365fd34.ext.json)
-
----
-
-### Special traffic plans for May Day parades, rallies
-
-*2024-04-29 21:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-traffic-plans-for-May-Day-parades-rallies/108-281594) · `en`
-
-Colombo, April 29 (Daily Mirror) - Sri Lanka Police have announced the implementation of a special traffic plan in the vicinity of May Day parades and rallies scheduled for Wednesday (May 01).
-
-According to the police, nearly 2,100 police personnel have been assigned security duties for the May Day rallies, with an additional 1,300 personnel deployed for traffic management during this period.
-
-The Police Media Division has accordingly released detailed maps outlining road closures in Colombo, along with suggested alternative routes.
-
-◼️
-
-[Data](articles/6a3f39c8.json)
-
-[Extended Data](ext_articles/6a3f39c8.ext.json)
-
----
-
-### Drone cameras prohibited near May Day rally locations
-
-*2024-04-29 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98924/drone-cameras-prohibited-near-may-day-rally-locations) · `en`
-
-Police Spokesman DIG Nihal Thalduwa says that the use of drone cameras is prohibited at May Day rally locations country-wide, without obtaining prior permission.
-
-◼️
-
-[Data](articles/ee652322.json)
-
-[Extended Data](ext_articles/ee652322.ext.json)
-
----
-
-### Attorneys' Association requesting the President's Court
-
-*2024-04-29 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196109) · `si`
-
-The Sri Lanka Bar Association has requested President Ranil Wickremesinghe to remove Public Defense Minister Tiran Alles, citing his aggressive stance against crime and allegations of corruption.
-
-🟩
-
-President Ranil Wickremesinghe has requested President Ranil Wickremesinghe to remove Mr. Public Defense Minister Tiran Alles from post.
-
-The request has been made based on a statement made by Hon.
-
-The association was released today (29).
-
-The Minister of Defense Tiran Alles addressing the police as he was not hesitant to use firearms to repress crime gangs.
-
-The Sri Lanka Bar Association has been adopted by the Sri Lanka Bar Association with an arbitrary punishment that encourages a judicial attempt to promote court procedures.
-
-The Sri Lanka Bar Association (BASL) of the Sri Lanka Bar Association says that Mr. Tiran Alles should be immediately withdrawn.
-
-It shows that the President has immediately requested the President to remove his association from the public defense ministry as he is not inadequate by the reckless minister.
-
-...
-
-[Data](articles/53ddd179.json)
-
-[Extended Data](ext_articles/53ddd179.ext.json)
-
----
-
-### All doubts over Sri Lanka’s ability to overcome economic crisis vanish: Semasinghe
-
-*2024-04-29 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-doubts-over-Sri-Lankas-ability-to-overcome-economic-crisis-vanish-Semasinghe/108-281582) · `en`
-
-Colombo, April 29 (Daily Mirror) - The doubts that existed among all parties on whether Sri Lanka will be able to overcome the economic crisis have disappeared, Finance State Minister Shehan Semasinghe said.
-
-He pointed out that this confidence among the business community will have a positive effect on the running of their activities.
-
-Therefore, respect must be given to all parties who shoulder the task of making the country enter the right path by making internationally accepted changes, the State Minister said.
-
-◼️
-
-[Data](articles/d22fe874.json)
-
-[Extended Data](ext_articles/d22fe874.ext.json)
-
----
-
-### Police notice of drones
-
-*2024-04-29 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196108) · `si`
-
-Police on May Island prohibit drone use for covering wrinkles without permission. Drones must be authorized for use.
-
-🟩
-
-Police say the use of drones is forbidden to cover May wrinkles without permission.
-
-Police Media Spokesperson DIG'sary DIG at Law, Nihal Talduuwa said that if such to use the drones, the use of drones must be obtained for permission.
-
-This law will apply for all May island wide.
-
-◼️
-
-[Data](articles/f7fb6222.json)
-
-[Extended Data](ext_articles/f7fb6222.ext.json)
-
----
-
-### Police clamp down on Traffic light beggars, warn public against donations
-
-*2024-04-29 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-clamp-down-on-Traffic-light-beggars-warn-public-against-donations/108-281589) · `en`
-
-Colombo, April 29 (Daily Mirror) - The Police Department today urged people not to give money to those begging from them in vehicles stuck at traffic lights within the Colombo city limits.
-
-Addressing the media Senior DIG Traffic Administration and Road Safety, Indika Hapugoda, mentioned that police officers from the 45 police divisions and 607 police stations have been instructed, through a circular signed by senior officers, to remove beggars causing disturbances to vehicular traffic.
-
-"During the mission, 94 beggars who violated the circular were arrested last week and presented before the courts. However, due to current conditions, these beggars cannot be detained for extended periods. Given the lack of facilities, they are released on bail after being fined," he said.
-
-...
-
-[Data](articles/26a14fbb.json)
-
-[Extended Data](ext_articles/26a14fbb.ext.json)
 
 ---

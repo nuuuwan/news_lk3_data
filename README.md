@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 21:03:36**
+As of **2024-04-30 21:18:40**
 
 ## Newspaper Stats
 
-*Scraped **21,914** Articles*
+*Scraped **21,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,242
 adalk | 1,839
 tamilmirrorlk | 2,543
 adaderanalk | 2,595
-virakesarilk | 3,302
+virakesarilk | 3,305
 dailymirrorlk | 3,420
 adaderanasinhalalk | 3,546
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,912 (100.0%) of 21,914 articles have been extended.
+21,914 (100.0%) of 21,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ He said he and Saudi Minister of Investment Khalid Al Falih signed the MoU on in
 ◼️
 
 [Data](articles/f1c0895c.json)
+
+[Extended Data](ext_articles/f1c0895c.ext.json)
 
 ---
 
@@ -214,6 +216,32 @@ The Minister said this during a media briefing at the Presidential Media Centre 
 
 ---
 
+### 2022 ஆம் ஆண்டைவிட 2023 ஆண்டில் அரசுக்குச் சொந்தமான கட்டமைப்புக்களில் பெரும் முன்னேற்றம் - நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க
+
+*2024-04-30 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182361) · `ta`
+
+2022 ஆம் ஆண்டு 743 பில்லியன் ரூபா நட்டத்தைப் பதிவுசெய்திருந்த அரசுக்குச் சொந்தமான கட்டமைப்புக்கள், 2023 ஆம் ஆண்டில் 456 பில்லியன் ரூபா இலாபத்தைப் பதிவுசெய்திருப்பதாகவும், இது மிகமுக்கிய அடைவு எனவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க சுட்டிக்காட்டியுள்ளார்.
+
+பொருளாதார நெருக்கடியிலிருந்து நாட்டை மீட்டெடுக்கும் நோக்கில் அரசாங்கத்தினால் நடைமுறைப்படுத்தப்பட்டுவரும் மறுசீரமைப்புக்களின் ஓரங்கமாக நட்டத்தில் இயங்கிவரும் அரசுக்குச் சொந்தமான கட்டமைப்புக்கள் முழுமையாக அல்லது அவற்றின் குறிப்பிடத்தக்களவான பங்குகள் உள்நாட்டு மற்றும் வெளிநாட்டு தனியார் நிறுவனங்களுக்கு வழங்கப்பட்டுவருகின்றன.
+
+...
+
+[Data](articles/e01a7b33.json)
+
+---
+
+### உடலியல் ரீதியான தண்டனைகளைத் தடைசெய்வதற்குரிய அமைச்சரவைத் தீர்மானம் : ஐ.நா, யுனிசெப் என்பன வரவேற்பு
+
+*2024-04-30 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182360) · `ta`
+
+சகல விதங்களிலுமான உடலியல் ரீதியான தண்டனைகளைத் தடைசெய்வதற்கு அமைச்சரவையினால் மேற்கொள்ளப்பட்டுள்ள தீர்மானம் சிறுவர் உரிமைகள் பாதுகாப்பை முன்னிறுத்திய மிகமுக்கிய நடவடிக்கையாக அமையும் என பாராட்டு வெளியிட்டுள்ள ஐக்கிய நாடுகள் சபை மற்றும் யுனிசெப் அமைப்பின் இலங்கை கிளை அலுவலகங்கள், இத்தீர்மானத்தை வெகுவிரைவில் நடைமுறைப்படுத்துவதற்குரிய நடவடிக்கைகளை ஜனாதிபதி முன்னெடுப்பார் என எதிர்பார்ப்பதாகத் தெரிவித்துள்ளன.
+
+...
+
+[Data](articles/21af0a81.json)
+
+---
+
 ### President to attend two May Day rallies tomorrow
 
 *2024-04-30 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98942/president-to-attend-two-may-day-rallies-tomorrow) · `en`
@@ -236,21 +264,29 @@ Subsequently, in the afternoon of the same day, President Wickremesinghe is slat
 
 ---
 
-### උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ආශ්‍රිතව කිසිදු ගැටළුකාරී තත්ත්වයක් වාර්තා වී නැහැ
+### Uma Oya Multipurpose Development Project has not been reported
 
 *2024-04-30 17:44:07* · [`adalk`](https://www.ada.lk/breaking_news/උමා-ඔය-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ආශ්‍රිතව-කිසිදු-ගැටළුකාරී-තත්ත්වයක්-වාර්තා-වී-නැහැ/11-409352) · `si`
 
-උමා ඔය බහුකාර්ය සංවර්ධන ව්‍යාපෘතිය ජනතා අයිතියට පත් කිරීමෙන් අනතුරුව ඒ ආශ්‍රිත නායයාමක් හෝ වෙනත් ගැටළුකාරී තත්ත්වයක් මෙතෙක් වාර්තා වී නොමැති බවත් වර්ෂාපතනය සමඟ ඇති වන කුඩා දිය ඇලි පෙන්වමින් ඇතැමුන් ජනතාව නොමඟ යැවීමට උත්සාහ දරණ බවත් විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ හේරත් මහතා පැවසීය.
+The Uma Oya Multipurpose Development Project has not been reported to the public, and there's no misleading information about rainfall. The project has lost nearly $200 billion due to delays, with an estimated loss of $587 million over the last 9 years. Despite being connected to the national grid, there have been claims of disruption and misleading media reports. A group of geologists will inspect the area for cracks and floods tomorrow. The country has lost many development projects due to disruptive practices and public misinformation. A policy decision has been made to achieve 70% renewable energy in power production, with new programs to expedite power plants and increase renewable energy capacity.
 
-උමා ඔය ප්‍රදේශය ආශ්‍රිතව සිදුව ඇතැයි පැවසෙන ඉරිතැලීම් සහ ජල ගැලීම් සම්බන්ධයෙන් සොයා බලා වාර්තා කිරීම සඳහා භූ විද්‍යාඥයින් කණ්ඩායමක් හෙට දින (01) අදාළ ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍ය ඉන්දික අනුරුද්ධ හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (30) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Uma Oya Multipurpose Development Project has not been vested with the public, it has not been reported so far, and the public is not reported to mislead the people of rainfall, said Indika Anuruddha Herath.
 
-එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා මෙසේද සඳහන් කළේය,
+According to the public, a group of geologists to look into the river and floods in the Uma Oya area inspection of the rivers and floods will visit the area tomorrow (01).
+
+Power and Energy State Minister Indika Anuruddha Herath made this statement participating at a press conference held at the Presidential Media Center today (30).
+
+The State Minister further stated:
+
+The country has lost nearly $ 200 billion due to the delay in the Uma Oya Multipurpose Development Project. Accordingly, the loss for the last 9 years has been estimated to be $ 587 million. The basic estimation of this project was $ 529 million. But due to the unable to get the power generation of the Uma Oya project in the nine years, the project had to be lost equal to the estimated amount.
 
 ...
 
 [Data](articles/6c06eb55.json)
+
+[Extended Data](ext_articles/6c06eb55.ext.json)
 
 ---
 
@@ -905,6 +941,24 @@ At that time the exit was hit in a high place in a building near the exit.
 [Data](articles/e873d000.json)
 
 [Extended Data](ext_articles/e873d000.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் விசாரணை : கத்தோலிக்க சபைக்கு மாத்திரமல்ல நாட்டு மக்களுக்கும் நம்பிக்கையில்லை - டிலான் பெரேரா
+
+*2024-04-30 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182330) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் சம்பவம் தொடர்பில் முன்வைத்த கேள்விகளுக்கு அரசாங்கம் முறையாக பதிலளிக்கவில்லை. விசாரணைகள் தொடர்பில் கத்தோலிக்க சபைக்கு மட்டுமல்ல நாட்டு மக்களுக்கும் நம்பிக்கையில்லை என பாராளுமன்ற உறுப்பினர் டிலான் பெரேரா தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல்கள் தொடர்பில் கடந்த வாரம் பாராளுமன்றத்தில் இடம்பெற்ற மூன்று நாள் சபை ஒத்திவைப்பு விவாதத்தின் போது எழுப்பப்பட்ட கேள்விகளுக்கு அரசாங்கம் முறையாக பதிலளிக்கவில்லை.குண்டுத்தாக்குதலில் உயிரிழந்தவர்களின் மொத்த எண்ணிக்கை தொடர்பில் பாரிய சந்தேகம் காணப்படுகிறது.
+
+நீதியரசர் விஜித் மலல்கொட தலைமையிலான ஜனாதிபதி விசாரணை ஆணைக்குழு அறிக்கையில் குண்டுத்தாக்குதல்களில் உயிரிழந்தவர்களின் ஒரு விதமாகவும்,பாராளுமன்ற தெரிவுக்குழுவில் பிறிதொரு எண்ணிக்கை குறிப்பிடப்பட்டுள்ளது.
+
+பேராயர் கர்தினால் மெல்கம்  ரஞ்சித் ஆண்டகை தொடர்பில் ஆளும் தரப்பினர் முறையற்ற கருத்துக்களை குறிப்பிடுகிறார்கள்.
+
+...
+
+[Data](articles/3e3c5c82.json)
 
 ---
 
@@ -2197,69 +2251,5 @@ Earlier, the CID had informed Ranawaka to report to their office today to record
 [Data](articles/b53bb239.json)
 
 [Extended Data](ext_articles/b53bb239.ext.json)
-
----
-
-### New story out in court
-
-*2024-04-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196128) · `si`
-
-The Supreme Court asked the Bureau of the Supreme Court how to restore suspects to be redeemed by the Police Narcotics and released on bail. Petitions were filed by Surasena, Shiran Gunaratne, and others. Weapons and drugs were found with suspects, who were involved in drug trafficking. The Senior State Counsel warned of a serious threat to the rule of law. The government lawyer questioned the process of taking petitioners to the Supreme Court. The court ordered the parties to file in three weeks and adjourned the verdict.
-
-🟩
-
-The Supreme Court yesterday asked the Bureau of the Supreme Court yesterday (29) how to restore the suspects to be redeemed by the Police Narcota and Released on bail.
-
-Petroleum of the three-member Supreme Court Judge Benugal, President of the Supreme Court JudgeThe question was raised by Mr. Surasena.
-
-The petitions were taken to the Saran Padman Suranasena, Shiran Gunaratne and Mahinda Samun Gunaratne and Mahinda Samuna Gunaratne and Mahinda Samarawardena.
-
-Senior State Counsel Shamadasa Wickrema appeared in the court to appear in the court, said the Sergeant Ratnayake who was arrested in connection with the incident.
-
-In addition, weapons and drugs were also found in the possession of the suspects in connection with the incident.
-
-The suspects have revealed that the suspects have been revealed that the suspects have been involved in the sale, transportation, transport of drugs with large-scale drug traffickers.
-
-...
-
-[Data](articles/d41f2be6.json)
-
-[Extended Data](ext_articles/d41f2be6.ext.json)
-
----
-
-### Mahindananda acquitted and released from money laundering case
-
-*2024-04-30 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98933/mahindananda-acquitted-and-released-from-money-laundering-case) · `en`
-
-The Colombo High Court on Friday (30) acquitted and released former minister Mahindananda Aluthgamage from the money laundering case filed against him.
-
-The case was called before Colombo High Court Judge Nawarathne Marasinghe.
-
-Aluthgamage had been charged for allegedly failing to declare the source of funds used to purchase a luxury house worth approximately Rs. 27 million at Kynsey Road in Borella during his tenure as a minister.
-
-The Attorney General had filed indictments against the former minister under the Prevention of Money Laundering Act in the year 2017.
-
-◼️
-
-[Data](articles/d65fa400.json)
-
-[Extended Data](ext_articles/d65fa400.ext.json)
-
----
-
-### Independent three-member inquiry board appointed: SLAMS
-
-*2024-04-30 11:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Independent-three-member-inquiry-board-appointed-SLAMS/108-281641) · `en`
-
-Colombo, April 30 (Daily Mirror) - The Sri Lanka Automobile Sports (SLAMS) today appointed a three-member independent board of inquiry to investigate into the tragedy at the Fox Hill Supercross Motor Racing Event on April 21.
-
-While issuing a statement, the association said Chandana Liyanapatabendi PC will be heading the panel of inquiry appointed by the sports body to study the facts and circumstances of the incident, especially to inspect the surroundings and track. He will be with two other eminent personalities, Sanjaya Gamage, former secretary of the Bar Association and former Deputy Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) and Vijaya Gamage, former banker, lawyer and former president of the Colombo Law Society.
-
-◼️
-
-[Data](articles/ec12edce.json)
-
-[Extended Data](ext_articles/ec12edce.ext.json)
 
 ---

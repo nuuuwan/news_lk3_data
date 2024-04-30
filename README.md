@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 22:18:47**
+As of **2024-04-30 22:34:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,548
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,923 (100.0%) of 21,924 articles have been extended.
+21,924 (100.0%) of 21,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,8 @@ The Ceylon Petroleum Corporation (Ceypetco) has reduced its fuel prices to be in
 ◼️
 
 [Data](articles/534e3d33.json)
+
+[Extended Data](ext_articles/534e3d33.ext.json)
 
 ---
 

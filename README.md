@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-30 15:03:44**
+As of **2024-04-30 15:18:43**
 
 ## Newspaper Stats
 
-*Scraped **21,846** Articles*
+*Scraped **21,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,189
 dailyftlk | 1,228
 economynextcom | 1,233
 adalk | 1,831
-tamilmirrorlk | 2,538
-adaderanalk | 2,587
+tamilmirrorlk | 2,539
+adaderanalk | 2,588
 virakesarilk | 3,289
 dailymirrorlk | 3,405
-adaderanasinhalalk | 3,538
+adaderanasinhalalk | 3,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,842 (100.0%) of 21,846 articles have been extended.
+21,846 (100.0%) of 21,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-30 (Tuesday)
+
+### රතුපස්වල තීන්දුව කල් යයි
+
+*2024-04-30 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196136) · `si`
+
+පිරිසිදු ජලය ඉල්ලා උද්ඝෝෂණය කළ ගම්පහ රතුපස්වල ප්‍රදේශවාසීන්ට වෙඩි තබා පුද්ගලයින් තිදෙනෙකු ඝාතනය කර තවත් පිරිසකට තුවාල කිරීම සම්බන්ධයෙන් යුද හමුදා බ්‍රිගේඩියර්වරයෙකුට සහ හමුදා සෙබළුන් තිදෙනෙකුට එරෙහිව ගොනු කළ නඩුවේ තීන්දුව ප්‍රකාශ කිරීම මැයි 17 වනදා දක්වා කල් තැබුණි.
+
+අදාළ නඩුවේ තීන්දුව අද ප්‍රකාශයට පත්කිරීමට නියමිතය තිබූ අතර එය මෙලෙස කල් තැබුණි.
+
+◼️
+
+[Data](articles/779a93ec.json)
+
+---
+
+### Sword-wielding man goes on rampage in London; several people injured
+
+*2024-04-30 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98937/sword-wielding-man-goes-on-rampage-in-london-several-people-injured) · `en`
+
+A “man with a sword” has been arrested after reports several people have been stabbed, including two police officers, near a Tube station.
+
+The Met Police received reports of a vehicle being driven into a house in Hainault and “there were reports people have been stabbed”.
+
+“We understand the suspect went on to attack other members of the public and two police officers,” the force said.
+
+Footage shared on social media showed a man with a long knife in Laing Close.
+
+A 36-year-old man was arrested at the scene and is in custody after the vehicle was driven into a property in the Thurlow Gardens area, police said.
+
+“We are awaiting an update on the condition of those injured,” the force added.
+
+Hainault London Underground station is closed, Transport for London (TfL) says, and local buses are being diverted.
+
+Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrifying incident for those concerned.
+
+“I know the wider community will be feeling shock and alarm.”
+
+...
+
+[Data](articles/3faaab27.json)
+
+---
+
+### பாட்டி பருகவேண்டியதை பருகிய பேத்தி மரணம்
+
+*2024-04-30 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாட்டி-பருகவேண்டியதை-பருகிய-பேத்தி-மரணம்/76-336556) · `ta`
+
+பாட்டி பருகவேண்டிய இரத்த அழுத்தத்தை கட்டுக்குள் வைத்திருக்கும் மாத்திரைகளை பருகிய பேத்தி, மரணமடைந்த சம்பவமொன்று நுவரெலியாவில் இடம்பெற்றுள்ளது. நுவரெலியா ஸ்கிராப் தோட்டத்தில்  வசிக்கும்15 வயதான பாடசாலை மாணவி ஒருவரே இவ்வாறு மரணமடைந்துள்ளார்.
+
+கடந்த (25) ஆம் திகதி பாட்டி வீட்டில் இல்லாத நேரத்தில் பாட்டியின் மாத்திரைகளை அதிகளவில் உட்கொண்டு மயக்கம் உற்ற நிலையில் அயலவர்களின் உதவியுடன் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டார். எனினும், சிகிச்சை பலனின்றி (27) உயிரிழந்துள்ளார்.
+
+இதேவேளை, குறித்த சிறுமியின் தந்தை வேறொரு பெண்ணை திருமணம் செய்து நானுஓயா பிரதேசத்தில் தனியாக வாழ்ந்து வந்துள்ளார்.  நுவரெலியா பொலிஸாரின் உதவியுடன் சிறுமியின் சடலம் (29) தந்தையிடம் ஒப்படைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9064dd9f.json)
+
+---
 
 ### Archer named in England’s T20 World Cup squad
 
@@ -50,17 +108,25 @@ England T20 World Cup squad: Jos Buttler (capt, wk), Moeen Ali, Jofra Archer, Jo
 
 [Data](articles/5b2bc468.json)
 
+[Extended Data](ext_articles/5b2bc468.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-04-30 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182328) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஏப்ரல் 30) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 293.4489  ஆகவும் விற்பனை விலை ரூபா 302.7600 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's currency exchange rate: US to Rs.
+
+🟩
+
+Tuesday (April 30), the US purchasing price of the United States has reported at Rs.
 
 ◼️
 
 [Data](articles/593ccf28.json)
+
+[Extended Data](ext_articles/593ccf28.ext.json)
 
 ---
 
@@ -190,25 +256,35 @@ Three years ago, the case was executed at Rathupaswala in Rathupaswala 11 years 
 
 ---
 
-### ரோபோ தொழில்நுட்ப  திறன்களை வெளிப்படுத்திய இலங்கை மாணவர்களுக்கு பிளாட்டினம் மற்றும் தங்க விருதுகள்
+### Platinum and Gold Awards for Sri Lankan students who showcase robot technical skills
 
 *2024-04-30 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182319) · `ta`
 
-தாய்லாந்தில் இடம்பெற்ற “2024 சர்வதேச படைப்பாற்றல் மற்றும் புதுமை விருதுகள்” என்ற ரோபோ தொழில்நுட்ப போட்டியில் பங்குபற்றிய 6 மாணவர்கள் நேற்று திங்கட்கிழமை (29) கட்டுநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்தனர்.
+Six Sri Lankan students won the Titanium Award in the "2024 International Creativity and Innovation Awards" for their robot technology skills. They competed against 1,000 students from 441 teams globally. Three students won the Platinum Award for a fire alert machine, and three others won the Gold Award for an Ocean Sweeper. This marks Sri Lanka's first global robot technology competition.
 
-இவர்கள்  ஞாயிற்றுக்கிழமை (28) நடைபெற்ற இறுதிப்போட்டியில் 25 நாடுகளுடன் போட்டியிட்டு  ரோபோ தொழில்நுட்ப  துறையில் அசாதாரணமான திறன்களை வெளிப்படுத்தி டைட்டானியம் விருதை (இரண்டாவது மிக உயர்ந்த) வென்றனர்.
+🟩
 
-சர்வதேச போட்டியில் நான்கு கண்டங்களைச் சேர்ந்த 441 அணிகளை பிரதிநிதித்துவப்படுத்தி 1,000 மாணவர்கள் கலந்து கொண்டனர்.
+Six students who participated in the robot technology competition in Thailand "2024 International Creativity and Innovation Awards" arrived at the Katunayake International Airport on Monday (29).
 
-இப்போட்டியில் மூன்று மாணவர்கள், காட்டுத்தீயைக் கண்டறிந்து இடத்தை உடனடியாகத் தெரிவிக்கும் தீ விபத்து எச்சரிக்கை இயந்திரத்தை தயாரித்து பிளாட்டினம் விருதை வென்றுள்ளனர்.
+They won the Titanium Award (the second highest) of the Robot technology industry in the finals of the Robot technology industry on Sunday (28).
 
-மேலும், மூன்று மாவணவர்கள் கம்போடியாவில் உள்ள பாராகான் சர்வதேச பல்கலைக்கழகத்தில் 100 சதவீதம் இலவசமாக கல்வி கற்கும் வாய்ப்பை பெற்றுள்ளனர்.
+In the international competition, 1,000 students representing 441 teams from four continents participated.
 
-அத்தோடு, மூன்று மாணவர்கள் கடலுக்குச் சென்று அங்கிருந்த கழிவுகளை அடையாளம் காணும் இயந்திரத்தை (ஓஷன் ஸ்வீப்பர்)  தயாரித்து தங்க விருதை வென்றுள்ளனர்.
+Three students in the tournament have won the Platinum Award by preparing a fire alert machine to find the wildfire.
 
-...
+In addition, three people have the opportunity to study 100 % free at the Paragon International University in Cambodia.
+
+In addition, three students have gone to sea and have won the gold award by producing the Ocean Sweepper.
+
+The most interesting solution of this design has also won the Most Interesting Solution.
+
+This is the first time Sri Lanka contested its robot technology at such a global event.
+
+◼️
 
 [Data](articles/8a4ee972.json)
+
+[Extended Data](ext_articles/8a4ee972.ext.json)
 
 ---
 
@@ -254,21 +330,27 @@ Aidn Makram (Leader), Otinelle Bartman, Ginrik Kuc, Bjourns, Andreick Kuzon, Rya
 
 ---
 
-### மே தினக்கு, இந்திய பாடகர்கள் வந்தனர்
+### For May Day, Indian singers arrived
 
 *2024-04-30 14:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மே-தினக்கு-இந்திய-பாடகர்கள்-வந்தனர்/175-336553) · `ta`
 
-அரசாங்கத்தினால் ஏற்பாடு செய்யப்பட்டுள்ள தேசிய மே தின  கூட்டத்துடன் இணைந்து ஏற்பாடு  செய்யப்பட்ட   இசை நிகழ்ச்சியில் பாடுவதற்காக இந்தியாவிலிருந்து பாடகர்கள் குழுவொன்று செவ்வாய்க்கிழமை  (30) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தது.
+Indian singers Vijay Balakrishnan, Ramya Nagercoil, Daniel Jayaram, and Reshma Sundaram, along with musicians Satya Prakash Dharmar and Nurani Vashar, are set to perform at a concert in Sri Lanka on May 1st at the PT Sirisena Playground, Maligawatte.
 
-விஜய் பாலகிருஷ்ணன், ரம்யா நாகர்கோவில், டேனியல் ஜெயராம், ரேஷ்மா சுந்தரம் ஆகிய பாடகர்களே  இவ்வாறு  வருகை தந்துள்ளனர்.
+🟩
 
-இந்த இசை நிகழ்ச்சி  மாளிகாவத்தை,  பி.டி .சிரிசேன விளையாட்டு மைதானத்தில் மே 01 ஆம்  திகதி  நடைபெறவுள்ளது .
+A group of singers from India arrived at the Katunayake airport on Tuesday afternoon to sing a concert organized by the government organized by the government.
 
-மேலும் , இந்திய இசைக்கலைஞர்களான சத்ய பிரகாஷ் தர்மர் மற்றும் நூராணி வஷர் ஆகியோரும்  இந்த  இசை நிகழ்ச்சியில் கலந்துக்கொள்வதற்காக இலங்கைக்கு வர உள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+Vijay Balakrishnan, Ramya Nagercoil, Daniel Jayaram and Reshma Sundaram have been present.
+
+The concert will be held on May 01 at the PT Sirisena Playground, Maligawatte.
+
+In addition, Indian musicians Satya Prakash Dharmar and Nurani Vashar are also reportedly coming to Sri Lanka to attend the concert.
 
 ◼️
 
 [Data](articles/7ef571e2.json)
+
+[Extended Data](ext_articles/7ef571e2.ext.json)
 
 ---
 
@@ -2235,69 +2317,5 @@ The official invitation to President Ranil Wickremesinghe will be handed over so
 [Data](articles/19ab1f0a.json)
 
 [Extended Data](ext_articles/19ab1f0a.ext.json)
-
----
-
-### Driver arrested for driving a private bus while intoxicating on A9 road in Vavuniya
-
-*2024-04-30 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182277) · `ta`
-
-A driver on the A9 road in Vavuniya was arrested for driving a private bus while intoxicated. The bus was detained at the Vavuniya Police Station, and the driver is scheduled to appear in court.
-
-🟩
-
-A driver who was driving a private bus on the A9 road in Vavuniya, has been arrested on Sunday (29), Vavuniya and Traffic Police said.
-
-A driver of a private bus traveling on the A9 road was found to be driving a bus when traffic police carried out special raids in the Vavuniya Chief Police Division.
-
-The bus driver has been arrested and the bus has been detained at the Vavuniya Police Station. Police said that after further investigations, the driver had taken steps to appear in court.
-
-◼️
-
-[Data](articles/3f7dfca4.json)
-
-[Extended Data](ext_articles/3f7dfca4.ext.json)
-
----
-
-### Sri Lankans rich in financial knowledge but poor in practice: CB
-
-*2024-04-30 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-rich-in-financial-knowledge-but-poor-in-practice-CB/108-281619) · `en`
-
-Stresses poor financial behaviour intensifies vulnerability of individuals to economic shocks
-
-Develops first-ever Financial Literacy Roadmap (2024-2028) to help improve financial behaviour
-
-But says, “Path ahead is fraught with challenges albeit promising opportunities awaiting to be optimised”
-
-The financial knowledge of Sri Lankans is at satisfactory levels when compared with the other countries but the island nation is lagging behind financial behaviour, the financial sector regulator, the Central Bank said.
-
-With the results of the Financial Literacy Survey highlighting more is to be done in improving financial behaviour in the country, the Central Bank asserted that this demands the “careful consideration” of the policymakers.
-
-Financial behaviour refers to the way a person manages his or her money, makes financial decisions and deals with financial issues.
-
-...
-
-[Data](articles/89bcfdad.json)
-
-[Extended Data](ext_articles/89bcfdad.ext.json)
-
----
-
-### Parties should publicize their election manifestos well in advance: PAFFREL
-
-*2024-04-30 01:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-should-publicize-their-election-manifestos-well-in-advance-PAFFREL/108-281621) · `en`
-
-Colombo, April 29 (Daily Mirror) - The political parties should publicize their election manifestos well in advance of any election, be it a Presidential or Parliamentary poll, to create a better and responsible political culture in the country, the Peoples' Action for Free and Fair Elections (PAFFREL) said.
-
-What is actually happening in Sri Lanka right now is that the political parties present their policy statements merely a month or so in advance of an election. Thus, the public will get no chance to build a fruitful discussion on them, the polls observer said.
-
-Executive Director PAFFREL Rohana Hettiarachchi made these remarks while addressing a programme held in Colombo to raise awareness on creating a responsible political culture by encouraging political parties to present responsible and timely policy statements.
-
-...
-
-[Data](articles/5aac4dbc.json)
-
-[Extended Data](ext_articles/5aac4dbc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 06:21:01**
+As of **2024-05-01 06:59:52**
 
 ## Newspaper Stats
 
-*Scraped **21,966** Articles*
+*Scraped **21,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 2,551
 adaderanalk | 2,597
 virakesarilk | 3,316
 dailymirrorlk | 3,425
-adaderanasinhalalk | 3,550
+adaderanasinhalalk | 3,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,962 (100.0%) of 21,966 articles have been extended.
+21,966 (100.0%) of 21,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### අද රට පුරා කාලගුණය වෙනස්වෙන්නේ මෙහෙමයි
+
+*2024-05-01 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196148) · `si`
+
+අද පස්වරුවේත් ප්‍රදේශ කිහිපයකට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව අද (01) දිනට අදාළ කාලගුණ නිවේදනය නිවේදනය නිකුත් කරමින් මේ බව සඳහන් කරයි.
+
+ඒ අනුව බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මේ අතර මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එහි සඳහන්.
+
+වයඹ පළාතේ සහ මන්නාරම දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මේ අතර කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටින්නේ ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගීන් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසටය.
+
+◼️
+
+[Data](articles/68fd6586.json)
+
+---
 
 ### On the NPP-SJB debate: the real question at stake
 
@@ -43,6 +65,8 @@ One of the significant themes recurring in this attack is frequent references ma
 ...
 
 [Data](articles/84ae5ac6.json)
+
+[Extended Data](ext_articles/84ae5ac6.ext.json)
 
 ---
 
@@ -57,6 +81,8 @@ This world needs an immediate halt to all armed conflicts right across the plane
 ...
 
 [Data](articles/15275b77.json)
+
+[Extended Data](ext_articles/15275b77.ext.json)
 
 ---
 
@@ -74,6 +100,8 @@ Sri Lanka as Co-Chair underscored the importance of collective response in addre
 
 [Data](articles/4b2ec891.json)
 
+[Extended Data](ext_articles/4b2ec891.ext.json)
+
 ---
 
 ### LMSV, Rotary Honda Purudu Champions Season 3 celebrates unity and good ethics
@@ -87,6 +115,8 @@ Over 4,000 children from around the country participated in the competition and 
 ...
 
 [Data](articles/3cb2b595.json)
+
+[Extended Data](ext_articles/3cb2b595.ext.json)
 
 ---
 
@@ -2215,29 +2245,5 @@ Special examination centres have been set up for prison inmates, with an examina
 [Data](articles/ae826d5a.json)
 
 [Extended Data](ext_articles/ae826d5a.ext.json)
-
----
-
-### Mahindananda's release from the case of money laundering
-
-*2024-04-30 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/182326) · `ta`
-
-Mahindananda Aluthgamage, a former minister, was released from a money laundering case by the Colombo High Court. He was accused of not disclosing funds for luxury house purchases on Kinzi Road, Borele. The case was filed under the 2017 Cash Bureau of Investigation.
-
-🟩
-
-The Colombo High Court on Friday (30) ordered that he would release him from a money laundering case filed against former minister Mahindananda Aluthgamage.
-
-The case came up for hearing before Colombo High Court Judge Nawaratne Marasinghe.
-
-He was accused of failing to disclose the funds used for the purchase of about 27 million worth of luxury houses on the Kinzi Road in Borele.
-
-It is noteworthy that the Attorney General had filed a charge sheet against the former minister under the 2017 Cash Bureau of Investigation.
-
-◼️
-
-[Data](articles/336aa401.json)
-
-[Extended Data](ext_articles/336aa401.ext.json)
 
 ---

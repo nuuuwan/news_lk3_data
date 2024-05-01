@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 15:18:37**
+As of **2024-05-01 15:34:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,565
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,063 (100.0%) of 22,069 articles have been extended.
+22,069 (100.0%) of 22,069 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Foreign Minister Ali Sabry is visiting Saudi Arabia to attend the World Economic
 
 [Data](articles/523b479b.json)
 
+[Extended Data](ext_articles/523b479b.ext.json)
+
 ---
 
 ### Debate aside, let’s reassure Sinhalese: No self-determination for North, East
@@ -66,6 +68,8 @@ Addressing the media, he said certain political parties attempting to violate th
 
 [Data](articles/efa33d44.json)
 
+[Extended Data](ext_articles/efa33d44.ext.json)
+
 ---
 
 ### President at Kotagala May Day rally
@@ -77,6 +81,8 @@ President Ranil Wickremesinghe participated in the Ceylon Workers’ Congress Ma
 ◼️
 
 [Data](articles/7b601a8a.json)
+
+[Extended Data](ext_articles/7b601a8a.ext.json)
 
 ---
 
@@ -202,6 +208,8 @@ Sirisena said he has previously served as President and pledged not to contest f
 
 [Data](articles/97b8497b.json)
 
+[Extended Data](ext_articles/97b8497b.ext.json)
+
 ---
 
 ### Special trains bring UNP supporters for May Day rally
@@ -213,6 +221,8 @@ United National Party (UNP) supporters paticipating in the May Day rally today w
 ◼️
 
 [Data](articles/f3f9a9e1.json)
+
+[Extended Data](ext_articles/f3f9a9e1.ext.json)
 
 ---
 
@@ -465,6 +475,8 @@ The New Labour People's Organization today staged a protest in front of the Fort
 ◼️
 
 [Data](articles/161d2cc3.json)
+
+[Extended Data](ext_articles/161d2cc3.ext.json)
 
 ---
 

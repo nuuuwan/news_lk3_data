@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 09:03:55**
+As of **2024-05-01 09:19:00**
 
 ## Newspaper Stats
 
-*Scraped **21,993** Articles*
+*Scraped **21,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,841
-tamilmirrorlk | 2,553
-adaderanalk | 2,597
-virakesarilk | 3,316
+adalk | 1,842
+tamilmirrorlk | 2,554
+adaderanalk | 2,598
+virakesarilk | 3,317
 dailymirrorlk | 3,432
 adaderanasinhalalk | 3,556
 
@@ -26,29 +26,69 @@ adaderanasinhalalk | 3,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,991 (100.0%) of 21,993 articles have been extended.
+21,993 (100.0%) of 21,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### බිහිසුණු ප්‍රහාරයකින් "Harry Potter castle" වැනසෙයි
+### சாரதிகளிடம் விடுக்கப்பட்ட கோரிக்கை
+
+*2024-05-01 09:03:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிகளிடம்-விடுக்கப்பட்ட-கோரிக்கை/175-336587) · `ta`
+
+வீதி சமிக்ஞை விளக்குகளுக்கு அருகில் யாசகத்தில் ஈடுபடுவோருக்கு பணம் வழங்குவதை தவிர்க்குமாறு வாகன சாரதிகளிடம் பிரதி பொலிஸ்மா அதிபர் இந்திக்க ஹப்புகொட கோரிக்கை விடுத்துள்ளார்.
+
+போக்குவரத்துக்கு இடையூறு ஏற்படும் வகையில் செயற்படும் யாசகர்களை அப்புறப்படுத்துவதற்கான நடவடிக்கைகள் தற்போது முன்னெடுக்கப்படுகின்றன.
+
+எனவே, சுற்றுவட்டங்கள் மற்றும் சமிக்ஞை விளக்குகளுக்கு அருகில் யாசகம் பெறுவோருக்கு பணம் வழங்குவதனை தவிர்ப்பதால், அவர்கள் அந்த இடங்களுக்கு பிரவேசிப்பதை தவிர்க்க முடியும் என இந்திக்க ஹபுகொட தெரிவித்துள்ளார்.  R
+
+◼️
+
+[Data](articles/213f31fb.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-05-01 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98946/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in North-western province and in Mannar district during the afternoon or night.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7f4d7404.json)
+
+---
+
+### "Harry Potter Castle" in a terrible attack
 
 *2024-05-01 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196154) · `si`
 
-කළු මුහුදේ වරාය නගරයක් වන ඔඩෙසා වෙත එල්ල වූ රුසියානු මිසයිල ප්‍රහාරයකින් පුද්ගලයින් පස්දෙනෙකු මියගොස් තවත් 30 කට වැඩි පිරිසක් තුවාල ලබා ඇති බව යුක්‍රේනය පවසයි.
+"Harry Potter Castle" was attacked by Russian missiles, killing 5 and injuring many. A Russian missile strike destroyed an educational institution named Harry Pachel, using balistic missiles and cluster bombs. Two children and a pregnant woman were injured, with nearly 20 residential buildings damaged.
 
-විදෙස් වාර්තා සඳහන් කළේ මෙම ප්‍රහාරයෙන් "හැරී පොටර් කාසල්" නමින් හඳුන්වන අධ්‍යාපන ආයතනයක්ද ගිනිගෙන විනාශ වී ඇති බවය.
+🟩
 
-රුසියාව මෙම ප්‍රහාරය සිදුකිරීම සඳහා බැලිස්ටික් මිසයිලයක් සහ පොකුරු බෝම්බ යොදා ගෙන ඇති බව යුක්‍රේනය පවසයි.
+Five persons were killed and more injured in a Russian missile strike was killed and more injured in a Russian missile attack.
 
-ප්‍රහාරයෙන් තුවාල ලැබූ 30 දෙනා අතර ළමුන් දෙදෙනෙකු සහ ගැබිණි කාන්තාවක් ද වන බව සඳහන් වෙයි.
+According to foreign reports, an educational institution called a Harry Pachel "has also been destroyed.
 
-ප්‍රහාරයෙන් නේවාසික ගොඩනැගිලි 20 කට ආසන්න ප්‍රමාණයකට ද හානි සිදුව ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+Ukraine says Russia has used a balistic missile and cluster bombs to carry out this attack.
+
+There are two children and a pregnant woman who was injured in the attack.
+
+Nearly 20 resident buildings have been damaged in the attack.
 
 ◼️
 
 [Data](articles/668f35a0.json)
+
+[Extended Data](ext_articles/668f35a0.ext.json)
 
 ---
 
@@ -63,6 +103,24 @@ Though it is May Day or workers' day today, people still struggle to earn their 
 [Data](articles/80ab50e9.json)
 
 [Extended Data](ext_articles/80ab50e9.ext.json)
+
+---
+
+### எந்த கட்சிக்கும் எனது ஆதரவை வெளியிடவில்லை- உயிர்த்த ஞாயிறு தாக்குதலுக்கு   நீதியை வழங்கும் திட்டத்தை முன்வைத்துள்ள எந்த கட்சிக்கும் வாக்களிக்குமாறு மக்களை  கேட்டுக்கொள்வேன்- மல்கம் ரஞ்சித்
+
+*2024-05-01 08:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/182376) · `ta`
+
+கர்தினால் மல்கம் ரஞ்சித் தான் எந்தவொரு அரசியல்கட்சிக்கும் ஆதரவை வெளிப்படுத்தவில்லை என குறிப்பிட்டுள்ளார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் குறிதது சமீபத்தில் இடம்பெற்ற நாடாளுமன்ற விவாதத்தின்போது கர்தினால் மல்கம் ரஞ்சித் எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுமக்கள் குறிப்பிட்ட ஒரு அரசியல் கட்சிக்கு வாக்களிக்கவேண்டும் என தெரிவிக்கும் வகையில் செயற்படுகின்றார் என குற்றச்சாட்டுகள் வெளியாகியிருந்த நிலையில் கர்தினால் அதனை நிராகரித்துள்ளார்.
+
+எதிர்வரும் ஜனாதிபதி தேர்தலில் குறிப்பிட்ட ஒரு கட்சிக்கு ஆதரவை தெரிவிக்கும் விதத்தில் அல்லது பொதுமக்களின் ஆதரவை பெற்றுக்கொடுக்கும் விதத்தில் நான் கருத்து தெரிவிக்கவில்லை என குறிப்பிட்டுள்ள கர்தினால் மல்கம் ரஞ்சித்  அரசியல்வாதிகள் வெளியிட்டுள்ள அறிக்கைகளை கண்டித்துள்ளார்.
+
+அரசியல்வாதிகளின் இவ்வாறான அறிக்கைகள் மக்களை தவறாக வழிநடத்தலாம் என தெரிவித்துள்ள அவர் நாடாளுமன்ற உறுப்பினர்கள் இவ்வாறான ஆதாரமற்ற அறிக்கைகளை தவிர்த்துக்கொள்ளவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+
+...
+
+[Data](articles/ba98725f.json)
 
 ---
 
@@ -116,6 +174,20 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
+### සියලුම ඉන්ධන වර්ගවල මිල පහළට
+
+*2024-05-01 08:01:26* · [`adalk`](https://www.ada.lk/breaking_news/සියලුම-ඉන්ධන-වර්ගවල-මිල-පහළට/11-409357) · `si`
+
+සියලුම ඉන්ධන වර්ග  වල මිල ගණන් අඩු කිරිමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ. මේ අනුව ලංකා පෙට්‍රල් (92) රුපියල් තුනකින් සහ ලංකා සුදු ඩීසල් රුපියල් තිහකින් ඊයේ මධ්‍යම රාත්‍රියේ සිට අඩු කර ඇත.
+
+එසේම පෙට්‍රල්ඔක්ටේන් 95 රුපියල් විස්සකි හා සුපිරි ඩීසල් රුපියල් 9කින්ද අඩුකර ඇත.
+
+◼️
+
+[Data](articles/b5feeb34.json)
+
+---
+
 ### UNWRA thanks Sri Lanka for Gaza funds
 
 *2024-05-01 08:00:00* · [`economynextcom`](https://economynext.com/unwra-thanks-sri-lanka-for-gaza-funds-160676/) · `en`
@@ -129,6 +201,8 @@ Philippe Lazzarini, head of UNRWA, in a letter addressed to President Ranil Wick
 ...
 
 [Data](articles/bb38d2ec.json)
+
+[Extended Data](ext_articles/bb38d2ec.ext.json)
 
 ---
 
@@ -2133,95 +2207,5 @@ This is stated in a new report issued by the Department of Census and Statistics
 [Data](articles/f401b0e1.json)
 
 [Extended Data](ext_articles/f401b0e1.ext.json)
-
----
-
-### No one except tourism is allowed to import vehicle - government
-
-*2024-04-30 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182350) · `ta`
-
-The government restricts vehicle imports to tourism only, with no permission granted to other parties. This decision is based on careful review of foreign exchange. The practice, usually without customs duty, has been suspended due to forex crises. Only 1,000 vehicles are allowed for tourism.
-
-🟩
-
-No permission has been granted to import vehicle to any parties other than tourism. Cabinet spokesman Minister Bandula Gunawardena said that the decisions will be taken on the basis of this.
-
-He said this when a journalist questioned the Speaker to ask the Speaker to request the President to import the vehicle together when a press conference was held on Tuesday (30).
-
-Not only parliamentarians but also government officials without customs duty is a long -standing process.. However, this practice has been suspended by forex crises in the past.
-
-However, only 1,000 vehicles are allowed for tourism. The permission was granted only after reviewing the foreign exchange with great care. However, I did not know whether the Speaker had informed the President about the request.
-
-◼️
-
-[Data](articles/84dc2e0c.json)
-
-[Extended Data](ext_articles/84dc2e0c.ext.json)
-
----
-
-### Be careful with the impact of heavy thunder and lightning!
-
-*2024-04-30 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182344) · `ta`
-
-The Department of Meteorology warns of heavy thunderstorms impacting Puttalam, Galle, Matara, Western, Central, and Sabaragamuwa provinces. Two children were killed by lightning yesterday.
-
-🟩
-
-The Department of Meteorology has warned that the most thunderstorms will be impact on the districts of Puttalam, Galle and Matara, the Western, Central Province and Sabaragamuwa provinces.
-
-It is noteworthy that two children were killed in the same house due to heavy thunder and lightning yesterday.
-
-◼️
-
-[Data](articles/ac72ade9.json)
-
-[Extended Data](ext_articles/ac72ade9.ext.json)
-
----
-
-### A schoolgirl killed in Nuwara Eliya
-
-*2024-04-30 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182349) · `ta`
-
-A 15-year-old girl in Nuwara Eliya died from overdosing on blood pressure pills. Her grandmother was away, and neighbors found her. The girl's mother, who lives alone, was unaware of her death. The father was informed by police after an autopsy. Investigations are ongoing.
-
-🟩
-
-A 15 -year -old schoolgirl who lived in the full warmth of the grandmother at the Nuwara Eliya Scrap estate has been reported to have died of taking too much blood pressure pills.
-
-When the grandmother was not at home, she died on Saturday (27) with the help of neighbors at the Nuwara Eliya District General Hospital with the help of neighbors.
-
-The mother of the girl died at an early age and married another woman in secret and lives alone in the Nanuoya area.. However, the death of the girl was not known to her father, with the help of the Nuwara Eliya police, after an autopsy, the body of the body was handed over to the father.
-
-Also, did the girl automatically consume pills that reduce blood pressure?Or did anyone else give him more pills without knowing him?Nuwara Eliya Police are conducting further investigations from several angles.
-
-◼️
-
-[Data](articles/244a4ae6.json)
-
-[Extended Data](ext_articles/244a4ae6.ext.json)
-
----
-
-### 3 crores for oil 05 billion
-
-*2024-04-30 16:14:13* · [`adalk`](https://www.ada.lk/breaking_news/ගජ-මුතු-05-රුපියල්-කෝටි-7යි-ලක්ෂ-20-කට/11-409347) · `si`
-
-Five rural pearls worth 3 crores were being sold by four individuals, including the owner of Gamanam, a leading factory's storage controller. They were arrested for illegal activities near Kiruluka Kirindu Oya, where they had previously marked a kibula. The suspects claimed they couldn't sell the pearls at the time but were planning to sell them later.
-
-🟩
-
-Four persons who were preparing for selling the five rural pearls for Rs.
-
-A stress an announcer with a tip of the Gaewala Rukle Rukle Summit in Tsdele Rukle5 pearls have been arrested.
-
-The owner of the Gamanam is a resident of Nikaweratiya and is a storage control of the main leader of the leading factory. The other three is the brokers to be the brokeors. He was revealed to the police when she was arrested from the Kiruluka Kirindu Oya, who had marked a kibula in the area several years ago.. He has told the police that it was not possible to sell these gaj pearls during that time, but he said he was impossible to decline in all the time of the house. The person who had taken the cuts of a stalks and told the guarantees that a shooting was taken back from obtaining these gajamutha.. He has said that he was arrested after being prepared for selling the 5 tunes and was prepared to marke 05 with other applications.. The suspects were to be sent to the Welisara Magistrate's Court today (30).
-
-◼️
-
-[Data](articles/ed3f122e.json)
-
-[Extended Data](ext_articles/ed3f122e.ext.json)
 
 ---

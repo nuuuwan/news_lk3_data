@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 16:18:39**
+As of **2024-05-01 16:33:57**
 
 ## Newspaper Stats
 
-*Scraped **22,080** Articles*
+*Scraped **22,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,83 @@ economynextcom | 1,248
 adalk | 1,849
 tamilmirrorlk | 2,577
 adaderanalk | 2,607
-virakesarilk | 3,329
-dailymirrorlk | 3,453
-adaderanasinhalalk | 3,567
+virakesarilk | 3,334
+dailymirrorlk | 3,454
+adaderanasinhalalk | 3,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,078 (100.0%) of 22,080 articles have been extended.
+22,080 (100.0%) of 22,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### සජිත්ගේ වේදිකාවට අර්ජුනත් එයි
+### අනුරගේ ටිකට් එක සජබ වේදිකාවේදී රටටම පෙන්වයි
+
+*2024-05-01 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196168) · `si`
+
+ජාතික ජන බලවේගය මැයි දිනයේ වියදම අහිංසක කම්කරුවා මත පටවා ඇති බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉඳුනිල් මහතා අද (01) චෝදනා කළේය.
+
+සමගි ජන බලවේගයේ මැයි දින රැලිය කොළඹ, චැතම් වීදීයේ පැවැත්වෙන අතර එහිදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+"මට මේ ටිකට් එක දුන්නේ අලව්ව සෙන්ටල් එකේ ගුරුවරයෙක්. කයිවාරු ගහන අනුර දිසානායක මහතාගේ බලවේගය. මේ මගේ අතේ තියෙන්නේ ටිකට් එකක්. ගමක් ගමක් ගානේ කම්කරුවන් ගාවට ගිහින් මැයි දිනය සමරන්න ආධාර කොලයක් ගහලා."
+
+"ඈ යකෝ මෙහෙම හිඟා කාලා මැයි දින කරන එවුන් කොහොමද රටක් හදන්නේ. දැන් පක්ෂ අරමුදලේ තිබෙන රුපියල් කෝටි 900 කෝ. ඒවා සාක්කුවට ද?"
+
+◼️
+
+[Data](articles/a14f92e1.json)
+
+---
+
+### Arjuna comes to Sajith's stage
 
 *2024-05-01 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196167) · `si`
 
-සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් මැයි දින සැමරුම් උත්සවයක් තලවාකැළේ ප්‍රදේශයේදී අද (01) පැවැත්වුණි.
+Arjuna Ranatunga, former cricket captain, joined Sajith Premadasa's stage for Roshan Ranasinghe's promotion.
 
-පසුගියදා රොෂාන් රණසිංහ මහතාගේ දූෂණ විරෝධී සභාගය හා එක්වුණු හිටපු ක්‍රිකට් නායක අර්ජුන රණතුංග මහතා අද එහිදී සමගි ජන බලවේගයේ වේදිකාවට එක්වීමද විශේෂත්වයකි.
+🟩
+
+Leader of the Leader Sajith Premadasa, leader Sajith Premadasa, was chaired by the leader of Sajith Premadasa today (01).
+
+The former cricket captain Arjuna Ranatunga has been joining the stage of the promotion of Roshan Ranasinghe.
 
 ◼️
 
 [Data](articles/b3cfaf42.json)
+
+[Extended Data](ext_articles/b3cfaf42.ext.json)
+
+---
+
+### Eight people arrested, including two men tried to escape from India from India to Sri Lanka
+
+*2024-05-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182407) · `ta`
+
+Thangachimadam police arrested 8, including two Sri Lankan couples, for attempting to escape to Sri Lanka by boat. The operation involved local men and police.
+
+🟩
+
+The Thangachimadam police have arrested 8 people, including two Sri Lankan couples who were trying to escape to Sri Lanka by boat by boat in India.
+
+Four people, including Saibullah Naveed, Imran, Naina Mohammed and Raghuman from Vedalai, Ramanathapuram district, were standing at the Thangachi Madam bus stand last night.
+
+The four -year -old police, who were on the night patrol, were arrested by the four men who were illegally sending the Sri Lankan men to Sri Lanka.
+
+Shanti and Rajeswaran, who were from Vavuniya in Sri Lanka, arrived in Chennai in 2017 and returned to Sri Lanka as they were staying in Chennai.
+
+Vinod Kumar and Ganesan Lingam from Chennai Pullam have been asked to illegally send it to Sri Lanka by boat by Dhanushkodi.
+
+Following this, Ganesalingam and Vinod Kumar, who had received the money from Rajeswaran, had contacted Naveed Imran of Vedala and sent them to Sri Lanka.
+
+...
+
+[Data](articles/0291155e.json)
+
+[Extended Data](ext_articles/0291155e.ext.json)
 
 ---
 
@@ -77,6 +129,24 @@ Former SJB MP Mujibur Rahman said that if the presidential election is adjourned
 [Data](articles/4136d5d0.json)
 
 [Extended Data](ext_articles/4136d5d0.ext.json)
+
+---
+
+### தோட்டத் தொழிலாளர்கள் சம்பள உயர்வுக்கு ஜனாதிபதி, தொழில் அமைச்சருக்கு செந்தில் தொண்டமான் நன்றி தெரிவிப்பு
+
+*2024-05-01 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182422) · `ta`
+
+இலங்கைத் தொழிலாளர் காங்கிரஸ் சொல்வதைதான் செய்யும் என்பதுடன், செய்வதைதான் சொல்லும். கடுமையான போராட்டங்களின் ஊடாக தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபா சம்பள உயர்வை பெற்றுக்கொடுத்துள்ளோம். குறுகிய காலத்தில் இந்த செயல்பாட்டை வெற்றிகரமாக்க ஒத்துழைத்த ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் தொழில் அமைச்சர் மனுச நாணயக்காரவுக்கு நன்றிகளை தெரிவித்துக் கொள்கிறேன் என இ.தொ.காவின் தலைவரும் கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமான் தெரிவித்தார்.
+
+கொட்டகலை பொது மைதானத்தில் இடம்பெற்ற இ.தொ.காவின் பிரமாண்ட மேதினக் கூட்டத்திலேயே இவ்வாறு கூறினார்.
+
+இந்த மே தின நிகழ்வில் தொடர்ந்து உரையாற்றிய இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான்,
+
+“இலங்கைத் தொழிலாளர் காங்கிரஸ் சொல்வதை மட்டும்தான் செய்யும் என்பதுடன் செய்வதை மட்டும்தான் சொல்லும். இ.தொ.கா.வின் மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான் மற்றும் ஆறுமுகன் தொண்டமான் ஆகியோர் எமக்கு கற்பித்ததும் அதுதான்.
+
+...
+
+[Data](articles/3b2cbc25.json)
 
 ---
 
@@ -127,6 +197,22 @@ Government Executives have already left all the District and Regional Coordinati
 [Data](articles/04002990.json)
 
 [Extended Data](ext_articles/04002990.ext.json)
+
+---
+
+### கீர்த்தி சுரேஷ் நடிக்கும் 'ரிவால்வர் ரீட்டா' படத்தின் படப்பிடிப்பு நிறைவு
+
+*2024-05-01 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182419) · `ta`
+
+' நடிகையர் திலகம்' எனும் படத்தில் சிறப்பான நடிப்பை வெளிப்படுத்தியதற்காக தேசிய விருதை வென்ற நடிகை கீர்த்தி சுரேஷ் கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தின் படப்பிடிப்பு முழுமையாக நிறைவடைந்தது என படக் குழுவினர் பிரத்யேக காணொளி மற்றும் புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் பகிர்ந்துள்ளனர்.
+
+இயக்குநர் கே. சந்துரு இயக்கத்தில் உருவாகி வரும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ் முதன்மையான வேடத்தில் நடிக்கிறார்.
+
+இவருடன் ராதிகா சரத்குமார், ரெடின் கிங்ஸ்லீ, ரவி காளே, ஜான் விஜய், சென்ராயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தினேஷ் கிருஷ்ணன் ஒளிப்பதிவு செய்துள்ள இந்த திரைப்படத்தின் படத்தொகுப்பு பணிகளை கே. எல். பிரவீண் மேற்கொள்கிறார். திரில்லர் ஜேனரில்  தயாராகி இருக்கும் இந்த திரைப்படத்தை ஃபேஷன் ஸ்டுடியோஸ் மற்றும் தி ரூட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம் மற்றும் ஜெகதீஷ் பழனிச்சாமி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/9e49814f.json)
 
 ---
 
@@ -219,6 +305,60 @@ Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh�
 [Data](articles/22dcae5c.json)
 
 [Extended Data](ext_articles/22dcae5c.ext.json)
+
+---
+
+### சாய் தன்ஷிகா நடிக்கும் 'தி ஃப்ரூப்' படத்தின் இசை வெளியீடு
+
+*2024-05-01 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/182416) · `ta`
+
+'கபாலி' படத்தில் நடித்ததன் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமானவர் நடிகை சாய் தன்ஷிகா. இப்படத்திற்குப் பிறகு கதையின் நாயகிக்கு முக்கியத்துவம் உள்ள படங்களை தெரிவு செய்து நடித்து வரும் இவர், கதையின் நாயகியாக நடித்திருக்கும் 'தி ஃப்ரூப்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் நடைபெற்றது.
+
+நடன இயக்குநராக பணியாற்றி இயக்குநராக உயர்ந்திருக்கும் ராதிகா இயக்கத்தில் உருவாகி இருக்கும் ' தி ஃப்ரூப்' எனும் திரைப்படத்தில் சாய் தன்ஷிகா, அசோக், ருதுவீர் வர்தன், இந்திரஜா, மைம் கோபி, ராஜசிம்மன், அஸ்மிதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஜேசன் வில்லியம்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆர். பி. தீபக் இசையமைத்திருக்கிறார். பெண்களின் பாதுகாப்பை வலியுறுத்தும் வகையில் தயாராகி இருக்கும் இந்த திரைப்படத்தை கோல்டன் ஸ்டுடியோஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் கோமதி தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/a07d2cba.json)
+
+---
+
+### Request to implement a proper program for vehicle imports
+
+*2024-05-01 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182411) · `ta`
+
+The Sri Lanka Vehicle Importers Association calls for a government-appointed committee to manage vehicle imports, emphasizing the importance of considering public preferences.
+
+🟩
+
+The Sri Lanka Vehicle Importers Association has said that a proper program to import vehicles to Sri Lanka should be implemented.
+
+Association President Indika Sampath Sampath Merinjike said a committee should be appointed by the government to make decisions relating to vehicle imports.
+
+He also said that the people should be given importance to what they wanted before importing vehicles.
+
+◼️
+
+[Data](articles/784d108c.json)
+
+[Extended Data](ext_articles/784d108c.ext.json)
+
+---
+
+### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக அமைச்சர் விஜேதாச ராஜபக்ஷ : மைத்திரி தெரிவிப்பு
+
+*2024-05-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182400) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக அமைச்சர் விஜயதாச ராஜபக்ச முன்னிலைபடுத்தப்படுவார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+தொழிற்சங்க தலைவர் டி.பி.இளங்கரத்னவின் நினைவேந்தல் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+"விஜயதாச ராஜபக்சவுக்கு கட்சியின் பெரும்பான்மை விருப்பம் உள்ளது. நான் ஒருமித்த கருத்தை ஏற்படுத்தினேன். அதை செய்வேன் என்று ஒருமுறை  குறிப்பிட்டுள்ளேன். அத்தோடு ஜனாதிபதியாக சத்தியப் பிரமாணம் செய்யும் போது மீண்டும் போட்டியிட மாட்டேன் என்று உறுதியளித்தேன். விஜயதாச விரும்பினால் நாங்கள் முழு ஆதரவையும் வழங்குவோம் என்றார்.
+
+◼️
+
+[Data](articles/4279b6df.json)
 
 ---
 
@@ -358,6 +498,24 @@ A close symbol of the subject of the Maha Sangha from the Gangarama Viharaya in 
 
 ---
 
+### தமிழ் தேசியக் கூட்டமைப்பின் மே தினக் கூட்டத்தில் நிறைவேற்றப்பட்ட தீர்மானங்கள்
+
+*2024-05-01 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182414) · `ta`
+
+அரசின் அனைத்து அடக்குமுறைகளுக்கு எதிராக அணிதிரள்வோம் உழைக்கும் மக்கள் அனைவரது உரிமைகளையும் நிலைநிறுத்துவோம் தீர்மானங்கள் தமிழ் தேசிய கூட்டமைப்பின் 2024ஆம் ஆண்டு மேதினத்தில் பின்வரும் தீர்மானங்கள் நிறைவேற்றப்பட்டுள்ளன.
+
+நாட்டின் பொருளாதார வங்குரோத்துக்குக் காரணமாக அமைந்த தேசிய இனப்பிரச்சினைக்குத் தீர்வுகாண தவறியமையும் அநாவசியமாக பல்லாண்டுகாலமாக ஒரு யுத்தததை நடத்தியமையும் அந்த யுத்தத்தை நடாத்துவதற்கு அரசாங்கம் உருவாக்கிய பயங்கரவாத தடைச்சட்டம் யுத்தம் முடிவடைந்து பதினைந்து ஆண்டுகள் கழிந்த பின்னரும் இன்னமும் நடைமுறையில் இருப்பதானது மக்களின் அடிப்படை உரிமைகளை தொடர்ந்தும் மீறும் ஒரு செயற்பாடாகும்.
+
+அதேபோல், யுத்தத்தின் காரணமாக காணாமல் ஆக்கப்பட்ட பல்லாயிரக்கணக்கான பொதுமக்கள் தொடர்பாக அரசாங்கம் எந்தவித காத்திரமான நடவடிக்கைகளை எடுக்காமையானதும் மிகுந்த விசனத்தை ஏற்படுத்துவதுடன் அரசாங்கத்தின் தமிழர் விரோத போக்கையும் வெளிக்காட்டி நிற்கின்றது.
+
+அரசாங்கத்தின் இந்த நடவடிக்கைகளை ஜனநாயக தமிழ் தேசிய கூட்டணி வன்மையாகக் கண்டிப்பதுடன் இவற்றிற்கு உரிய தீர்வினைக் காணவேண்டும் என்றும் அரசாங்கத்தை வலியுறுத்துகிறது.
+
+...
+
+[Data](articles/bbcb8e1e.json)
+
+---
+
 ### Indonesia’s Ruang volcano erupts, more than 12,000 people evacuated
 
 *2024-05-01 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98953/indonesias-ruang-volcano-erupts-more-than-12000-people-evacuated) · `en`
@@ -402,6 +560,26 @@ Sirisena said he has previously served as President and pledged not to contest f
 
 ---
 
+### SLFP selects Wijeyadasa Rajapakshe as Presidential candidate
+
+*2024-05-01 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLFP-selects-Wijeyadasa-Rajapakshe-as-Presidential-candidate/155-281720) · `en`
+
+Colombo, May 1 (Daily Mirror) - Former President Maithripala Sirisena said today that Justice Minister Dr. Wijeyadasa Rajapakshe will be the Presidential candidate representing the Sri Lanka Freedom Party (SLFP).
+
+He made this revelation during the commemoration ceremony of the late T.B. Ilangaratne.
+
+The former President said that Wijeyadasa Rajapakshe has the support of the majority of party members.
+
+Sirisena said he has previously served as President and pledged not to contest for the Presidency again.
+
+"Wijayadasa Rajapakshe will run for the upcoming Presidential election and we will offer him our full support," he said.
+
+◼️
+
+[Data](articles/b958550d.json)
+
+---
+
 ### Special trains bring UNP supporters for May Day rally
 
 *2024-05-01 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-trains-bring-UNP-supporters-for-May-Day-rally/110-281719) · `en`
@@ -413,28 +591,6 @@ United National Party (UNP) supporters paticipating in the May Day rally today w
 [Data](articles/f3f9a9e1.json)
 
 [Extended Data](ext_articles/f3f9a9e1.ext.json)
-
----
-
-### Request to implement a proper program for vehicle imports
-
-*2024-05-01 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182411) · `ta`
-
-The Sri Lanka Vehicle Importers Association calls for a government-appointed committee to manage vehicle imports, emphasizing the importance of considering public preferences.
-
-🟩
-
-The Sri Lanka Vehicle Importers Association has said that a proper program to import vehicles to Sri Lanka should be implemented.
-
-Association President Indika Sampath Sampath Merinjike said a committee should be appointed by the government to make decisions relating to vehicle imports.
-
-He also said that the people should be given importance to what they wanted before importing vehicles.
-
-◼️
-
-[Data](articles/784d108c.json)
-
-[Extended Data](ext_articles/784d108c.ext.json)
 
 ---
 
@@ -506,19 +662,29 @@ John Keells Holdings asserted it bears no responsibility for any losses or damag
 
 ---
 
-### සරසවි සිසුන් අතර හෝටලයක ඇති වූ ගැටුමකින් හෝටල් සේවකයෙකුට බරපතලයි
+### Hotel worker in conflict between university students
 
 *2024-05-01 13:07:57* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුන්-අතර-හෝටලයක-ඇති-වූ-ගැටුමකින්-හෝටල්-සේවකයෙකුට-බරපතලයි/11-409362) · `si`
 
-හෝමාගම ප්‍රදේශයේ සරසවියක සිසු සිසුවියන් පිරිසකගේ සහභාගීත්වයෙන් පැවති මත්පැන් සාදයක් අතරතුරදී හෝටල් සේවකයින් හා සරසවි සිසුන් අතර ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් දෙපාර්ශ්වය අතර ගුටි බැට හුවමාරුවක් සිදුව ඇති අතර එහිදී තුවාල ලැබූ  පුද්ගලයෙකු රෝහල් ගත කොට කාන්තාවක ඇතුළු දොළොස් දෙනෙකු (30) දා රාත්‍රී අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+A conflict between university students and hotel workers at a party in Homagama led to injuries and arrests. A woman was seriously hurt and a man was critically injured by a van. Police are investigating.
 
-එම සරසවියේ දැනට අධ්‍යාපනය ලබන හා ආදි සිසුන් පිරිසක් අතර  හෝමාගම සුවපුබුදුගම ප්‍රදේශයේ හෝටලයක ඉකුත් 30 දා සවස සිට මත්පැන් සාදයක් පවත්වා තිබේ.
+🟩
 
-මේ සඳහා  සරසවියේ සිසුන් හා ආදි සිසුන් පිරිසක් සමග  ඔවුන්ගේ හිතවතුන් පිරිසක් සහභාගී වී සිට තිබේ. එහිදි සිසුන් අතර  බහින්බස්වීමක් සිදුව ඇති අතර එය දුර දිග යාමෙන් සුළු ගැටුමක් දක්වා වර්ධනය වී තිබේ. එහිදී එම ගැටුම පාලනය කිරීම සඳහා හෝටල් සේවකයන් මැදිහත්වීමත් සමඟ සාදය සඳහා සහභාගී වූවන් හෝටල් සේවකයින් අතර ආරවුලක් හටගෙන දෙපාර්ශ්වය විසින් එකිනෙකා අතර ගුටිබැට හුවමාරුවක් සිදුව තිබේ.
+During a liquor partner of a university party in Homagama, hotel workers and university students have been associated with the two parties, a suspicion between the two parties and two (30), a woman, who was injured in the hospital and was arrested by a woman and twelve (30).Police say.
+
+Among the university was present at a hotel in the Healthbuduwa area in Kirapedu, a hotel in the Healthbuduwa area.
+
+A group of students of university students and a group of alumni have participated in this event. There was an argument between the students and had grown to a slight conflict with distance. With the intervention of hotel workers to control the clash, a dispute between the participants had a dispute and exchanged exchanges.
+
+A conflict once again had a conflict between the two sides. Preliminary investigations have revealed that the two sides had been assaulted again.
+
+Later, the 119 emergency call number was informed and the police were there before the police arrived
 
 ...
 
 [Data](articles/97a804c7.json)
+
+[Extended Data](ext_articles/97a804c7.ext.json)
 
 ---
 
@@ -575,34 +741,6 @@ Since he was a nurse, he decided to see himself. For this, he enters the bathroo
 [Data](articles/5cfdb5c6.json)
 
 [Extended Data](ext_articles/5cfdb5c6.ext.json)
-
----
-
-### Eight people arrested, including two men tried to escape from India from India to Sri Lanka
-
-*2024-05-01 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182407) · `ta`
-
-Thangachimadam police arrested 8, including two Sri Lankan couples, for attempting to escape to Sri Lanka by boat. The operation involved local men and police.
-
-🟩
-
-The Thangachimadam police have arrested 8 people, including two Sri Lankan couples who were trying to escape to Sri Lanka by boat by boat in India.
-
-Four people, including Saibullah Naveed, Imran, Naina Mohammed and Raghuman from Vedalai, Ramanathapuram district, were standing at the Thangachi Madam bus stand last night.
-
-The four -year -old police, who were on the night patrol, were arrested by the four men who were illegally sending the Sri Lankan men to Sri Lanka.
-
-Shanti and Rajeswaran, who were from Vavuniya in Sri Lanka, arrived in Chennai in 2017 and returned to Sri Lanka as they were staying in Chennai.
-
-Vinod Kumar and Ganesan Lingam from Chennai Pullam have been asked to illegally send it to Sri Lanka by boat by Dhanushkodi.
-
-Following this, Ganesalingam and Vinod Kumar, who had received the money from Rajeswaran, had contacted Naveed Imran of Vedala and sent them to Sri Lanka.
-
-...
-
-[Data](articles/0291155e.json)
-
-[Extended Data](ext_articles/0291155e.ext.json)
 
 ---
 
@@ -2059,139 +2197,5 @@ The President will join the May Day rally to organize the Ceylon Workers Congres
 [Data](articles/71469872.json)
 
 [Extended Data](ext_articles/71469872.ext.json)
-
----
-
-### Sajith surprises all, wants to play mediatory role in Indo-China conflict
-
-*2024-05-01 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sajith-surprises-all-wants-to-play-mediatory-role-in-Indo-China-conflict/155-281703) · `en`
-
-Colombo, May 1 (Daily Mirror) - In a surprising move, Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, in a meeting with a delegation of the Communist Party of China (CPC), has offered to play a mediatory role between two Asian giants implying India and China, the Daily Mirror learns.
-
-A source familiar with the meeting told Daily Mirror that Premadasa made such an offer during the discussion between his party and the CPC delegation that visited Sri Lanka recently.
-
-However, the CPC is reported to have said that Sri Lanka should not attach special status to any country in its foreign relations.
-
-The CPC delegation headed by Deputy Minister of the International Affairs Department Sun Haiyan called on Premadasa and a few other MPs as part of engagements with the Sri Lankan political parties.
-
-At the meeting, Premadasa, apparently in reference to Indo-China conflict, said he, as a political leader, was ready for a mediatory role between the two Asian giants.
-
-...
-
-[Data](articles/45d14247.json)
-
-[Extended Data](ext_articles/45d14247.ext.json)
-
----
-
-### Parties gear up for usual political showpieces
-
-*2024-05-01 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-gear-up-for-usual-political-showpieces/108-281701) · `en`
-
-Colombo, May 1 (Daily Mirror) - Political parties are gearing up for the usual political showpieces on May Day with no exception this year as well with more than 22 rallies being organized across the country today.
-
-These include rallies of both political parties and various organizations according to police.
-
-SLPP will hold its rally at Campbell Park in Borella while the UNP will hold its rally in front of P. D. Sirisena Ground in Maradana. Samagi Jana Balawegaya (SJB) is to hold two rallies this year.
-
-...
-
-[Data](articles/c419a864.json)
-
-[Extended Data](ext_articles/c419a864.ext.json)
-
----
-
-### The weather is on the way today
-
-*2024-05-01 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196148) · `si`
-
-Today's weather includes showers/thundershowers in Western, Sabaragamuwa, Central provinces, Galle, Matara districts, and parts of Central, Sabaragamuwa, Uva provinces, North Western, Mannar District. Temporary winds and lightning passports advised.
-
-🟩
-
-Showers or thundershowers will occur at several places this afternoon, the Met Department said.
-
-The Department issued announcement today (01).
-
-Accordingly, in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts. Showers or thundershowers will occur at several places about 2.00.
-
-Meanwhile, in some places in the Central, Sabaragamuwa and Uva provinces may have been around the morning.
-
-Showers or thundershowers will occur at several places in the North Western and Mannar District at the evening or night.
-
-Meanwhile, the Department of Meteorologies further demands further action to reduce temporary winds and lightning passports.
-
-◼️
-
-[Data](articles/68fd6586.json)
-
-[Extended Data](ext_articles/68fd6586.ext.json)
-
----
-
-### On the NPP-SJB debate: the real question at stake
-
-*2024-05-01 05:33:07* · [`dailyftlk`](https://www.ft.lk/columns/On-the-NPP-SJB-debate-the-real-question-at-stake/4-761244) · `en`
-
-As Sri Lanka gets closer to the elections that are supposed to be held at the end of this year, a fierce contest seems to have occurred between the two main opposition parties, the Samaji Jana Balawegaya (SJB) and Jathika Jana Balawegaya (NPP). Representatives of the SJB Economic Policy Committee, such as Eran Wickramaratne and Harsha de Silva, seem to have launched a strong attack on the NPP questioning the latter on economic policy matters.
-
-One of the significant themes recurring in this attack is frequent references made to terms such as Socialism and Marxism. Addressing a press conference last week, MP Harsha de Silva stated that if the NPP Economic Council is not willing to come for a debate, the SJB economic committee trio would like to have the debate at the Galle Face Green, with cutouts of Marx, Engels, and Lenin in the opposing side.
-
-...
-
-[Data](articles/84ae5ac6.json)
-
-[Extended Data](ext_articles/84ae5ac6.ext.json)
-
----
-
-### UN Security Council needs restructuring for a world without “refugees and poverty”
-
-*2024-05-01 05:24:08* · [`dailyftlk`](https://www.ft.lk/columns/UN-Security-Council-needs-restructuring-for-a-world-without-refugees-and-poverty/4-761243) · `en`
-
-This world needs an immediate halt to all armed conflicts right across the planet earth
-
-“World military expenditure rose for the ninth consecutive year to an all-time high of $2,443 billion. For the first time since 2009, military expenditure went up in all five of the geographical regions defined by SIPRI, with particularly large increases recorded in Europe, Asia and Oceania and the Middle East” (Media release by Stockholm International Peace Research Institute/22 April 2024)
-
-...
-
-[Data](articles/15275b77.json)
-
-[Extended Data](ext_articles/15275b77.ext.json)
-
----
-
-### Sri Lanka co-chairs 22nd ASEAN Regional Forum Inter-Sessional Meeting on Disaster Relief
-
-*2024-05-01 05:10:55* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-co-chairs-22nd-ASEAN-Regional-Forum-Inter-Sessional-Meeting-on-Disaster-Relief/56-761236) · `en`
-
-Foreign Affairs Ministry’s South East Asia Division Director General Sashikala Premawardhane
-
-The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually on 22 April, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
-
-Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management. Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
-
-...
-
-[Data](articles/4b2ec891.json)
-
-[Extended Data](ext_articles/4b2ec891.ext.json)
-
----
-
-### LMSV, Rotary Honda Purudu Champions Season 3 celebrates unity and good ethics
-
-*2024-05-01 05:09:10* · [`dailyftlk`](https://www.ft.lk/news/LMSV-Rotary-Honda-Purudu-Champions-Season-3-celebrates-unity-and-good-ethics/56-761235) · `en`
-
-The Little Minds Strong Values (LMSV), Rotary Honda Purudu Championship Season 03 finals were held last Sunday, 28 April at Galadari Hotel and broadcast on Facebook live.
-
-Over 4,000 children from around the country participated in the competition and 125 children participated in the finals.
-
-...
-
-[Data](articles/3cb2b595.json)
-
-[Extended Data](ext_articles/3cb2b595.ext.json)
 
 ---

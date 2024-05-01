@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 17:04:03**
+As of **2024-05-01 17:18:49**
 
 ## Newspaper Stats
 
-*Scraped **22,092** Articles*
+*Scraped **22,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,849
+adalk | 1,851
 tamilmirrorlk | 2,578
-adaderanalk | 2,609
+adaderanalk | 2,610
 virakesarilk | 3,334
-dailymirrorlk | 3,455
+dailymirrorlk | 3,457
 adaderanasinhalalk | 3,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,091 (100.0%) of 22,092 articles have been extended.
+22,092 (100.0%) of 22,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### SLPP MP joins UNP May Day rally in Colombo
+
+*2024-05-01 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98957/slpp-mp-joins-unp-may-day-rally-in-colombo) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Dr. Gayashan Nawananda has reportedly joined the May Day rally of the United National Party (UNP) in Colombo.
+
+The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in Maligawatte under the patronage of party leader President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/7b22e529.json)
+
+---
+
+### වතු කම්කරුවෙකුගේ දිනක වැටුප රු. 1700ක් කරනවා
+
+*2024-05-01 16:58:19* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවෙකුගේ-දිනක-වැටුප-රු--1700ක්-කරනවා/11-409365) · `si`
+
+ජනාධිපතිවරයා ලෙස මා යටතේ වතු කම්කරු ජනතාවගේ අයිතිවාසිකම් තහවුරු කරනවා.
+
+ලයින් කාමර නීතියෙන්ම ගම්මාන බවට පත් කරමින් පහසුකම් ලබා දෙනවා.
+
+වතුකරයේ දරුවන්ගේ අධ්‍යාපනයත්, වෘත්තීය අධ්‍යාපනයත් දියුණු කිරීමට විශේෂ අවධානයක් යොමු කරනවා.
+
+රටේ ආර්ථිකය යළි පණ ගැන්වීමට වතු ජනතාව ලබාදුන් දායකත්වයට ස්තූතියි – ලංකා කම්කරු කොංග්‍රසයේ මැයි දින රැළිය අමතමින් ජනපති පවසයි.
+
+වතු කම්කරුවෙකුගේ දෛනික වැටුප රුපියල් 1700ක් දක්වා ඉහළ නංවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+වතුකරයේ ජනතාවගේ ගැටළු තමා කිසිවිටෙකත් අමතක කර නොමැති බවත්, ජනාධිපතිවරයා ලෙස තමා යටතේ ඉදිරියේදී ඔවුන්ගේ අයිතිවාසිකම් දිනා දෙන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (01) පෙරවරුවේ කොටගල මහජන ක්‍රීඩාංගණයේ පැවති ලංකා කම්කරු කොංග්‍රසයේ මැයි දින රැළිය අමතමිනි.
+
+ලංකා කම්කරු කොංග්‍රසයේ ආරාධනය පරිදි ජනාධිපතිවරයා ඊට එක්වූ අතර ක්‍රීඩාංගණය වෙත පැමිණි ජනාධිපතිවරයාව ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් සහ අමාත්‍ය ජීවන් තොණ්ඩමන් යන මහත්වරු ඇතුළු පිරිස විසින් පිළිගනු ලැබීය.
+
+...
+
+[Data](articles/e54333c8.json)
+
+---
 
 ### Arjuna Ranatunga joins SJB’s May Day rally
 
@@ -42,11 +82,27 @@ Ranatunga had recently joined the Anti-Corruption Coalition led by former Minist
 
 One of the two main May Day rallies of SJB was held in the Thalawakele area this morning under the patronage of the Leader of the Opposition Sajith Premadasa this morning.
 
-Meanwhile, another rally of the SJB is currently being held in Chatham Street, Colombo.
+Meanwhile, the other public rally of the SJB is currently being held at Chatham Street, Colombo.
 
 ◼️
 
 [Data](articles/d517b430.json)
+
+[Extended Data](ext_articles/d517b430.ext.json)
+
+---
+
+### SF makes early exit from SJB May Day rally
+
+*2024-05-01 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-makes-early-exit-from-SJB-May-Day-rally/108-281728) · `en`
+
+SJB Chairman Field Marshal Sarath Fonseka made an early exit from the party's May Day Rally in Fort, a shortwhile ago.
+
+Fonseka was seen greeting MPs and Buddhist clergy before he left the rally.
+
+◼️
+
+[Data](articles/118545fd.json)
 
 ---
 
@@ -425,6 +481,38 @@ Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh�
 [Data](articles/22dcae5c.json)
 
 [Extended Data](ext_articles/22dcae5c.ext.json)
+
+---
+
+### එජාපයට මන්ත්‍රී ගයාෂාන් එළිපිටම එයි
+
+*2024-05-01 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයට-මන්ත්‍රී-ගයාෂාන්-එළිපිටම-එයි/11-409363) · `si`
+
+ශ්‍රී ලංකා පොදු ජන  පෙරමුණේ මොනරාගල දිස්ත්‍රික් පාර්ලලිමේන්තු මන්ත්‍රී වෛද්‍ය ගයාශාන් නවනන්දන මහතා එක්සත් ජාතික පක්ෂය සමග අද එක්වී ඇත. ඔහු අද එක්සත් ජාතික පක්ෂයේ මැයි රැලියටද සහභාගිවීමට නියමිතය.
+
+◼️
+
+[Data](articles/6609c2c1.json)
+
+---
+
+### Around 1,500 workers assigned to clean Colombo after May Day rallies
+
+*2024-05-01 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Around-1-500-workers-assigned-to-clean-Colombo-after-May-Day-rallies/108-281727) · `en`
+
+Colombo, May 1 (Daily Mirror) - A total of 1,500 workers have been assigned for cleaning and garbage collection purposes in Colombo city after the May Day rallies, Colombo Municipal Council Solid Waste Management Division Director Engineering Eng. Shahina M. Mysan said.
+
+She told the Daily Mirror that 1,000 workers were assigned for cleaning purposes in the city, and another 500 workers were assigned for the collection of garbage after the May Day rally.
+
+She also said the workers have been tasked with cleaning the entire city by tomorrow.
+
+On ordinary days, 500 workers are assigned for day shifts, and another 500 are assigned for night shifts. As a requirement of the service, the CMC has decided to assign all janitorial staffers today to clean the town.
+
+Ms. Mysan requested the party leaders advise their members to clean the areas where they hold their May Day rallies. That will help to save the taxes collected from the people living within the CMC limits, she said.
+
+...
+
+[Data](articles/f65f08d3.json)
 
 ---
 
@@ -2103,119 +2191,5 @@ Thus, March 2024, merchandise has earned $ 1139 million from oust. The growth of
 [Data](articles/5ce7558a.json)
 
 [Extended Data](ext_articles/5ce7558a.ext.json)
-
----
-
-### Working to earn their living
-
-*2024-05-01 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-to-earn-their-living/110-281663) · `en`
-
-Though it is May Day or workers' day today, people still struggle to earn their living at Colombo Fort. This makes it obvious that everyone who works must do so to make ends meet. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/80ab50e9.json)
-
-[Extended Data](ext_articles/80ab50e9.ext.json)
-
----
-
-### I have not expressed my support for any party- I will ask the people to vote for any party that has put forward a plan to provide justice for the survival Sunday attack- Malcolm Ranjith
-
-*2024-05-01 08:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/182376) · `ta`
-
-Cardinal Malcolm Ranjit denies supporting any political party, rejects allegations of bias, and criticizes politicians for misleading the public. He emphasizes the importance of justice for the survival Sunday attack victims and calls for open investigations.
-
-🟩
-
-Cardinal Malcolm Ranjit noted that he did not express support for any political party.
-
-Cardinal Malcolm Ranjit has rejected the allegations that he is acting to vote for a political party in the upcoming presidential election during a recent parliamentary debate.
-
-Cardinal Malcolm Ranjit condemns the reports issued by Cardinal Malcolm politicians, saying that I did not comment on the support of a particular party in the upcoming presidential election or to gain public support.
-
-He said that such statements of politicians could mislead the people, and that MPs should avoid such unfounded statements.
-
-Malcam Ranji, who has not criticized me, has been disappointed by the reports of some individuals who have been protected by parliamentary privileges.
-
-He said that only the main opposition United People's Power and the opposition party, the opposition party, have submitted their ideas on how to carry out investigations into the survival Sunday attack and other parties can submit their ideas.
-
-...
-
-[Data](articles/ba98725f.json)
-
-[Extended Data](ext_articles/ba98725f.ext.json)
-
----
-
-### The fuel prices change this way
-
-*2024-05-01 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196153) · `si`
-
-Fuel prices adjusted: Octan 92 down by Rs. 365, Octan 95 by Rs. 20, Auto diesel to Rs. 333, Sinaperic Super diesel by Rs. 977.
-
-🟩
-
-Steps have been taken to download fuel prices to operate from midnight yesterday.
-
-Accordingly, the price of a liter of octan 92 petrol has been reduced by Rs. 365.
-
-A liter of octan 95 petrol has been reduced by Rs. 20 rupees.
-
-Steps have been taken to reduce Auto diesel prices by 27 rupees and its new price is Rs. 333.
-
-Steps have been taken to reduce the Sinaperic Super diesel by Rs. 977.
-
-◼️
-
-[Data](articles/bca8e462.json)
-
-[Extended Data](ext_articles/bca8e462.ext.json)
-
----
-
-### Chance for thunderstorms
-
-*2024-05-01 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-336586) · `ta`
-
-"Thunderstorms possible after 2 pm, with snowfall in Central Provinces. Advised to take precautions."
-
-🟩
-
-P.P.. After 2.00 pm, there is a possibility of rain or thunderstorms.
-
-In the North Western Province, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-In some parts of the Central, Sabaragamuwa and Central Provinces, there is a snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.R
-
-◼️
-
-[Data](articles/d538edce.json)
-
-[Extended Data](ext_articles/d538edce.ext.json)
-
----
-
-### The bus fare cannot be reduced, but the diesel
-
-*2024-05-01 08:10:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩිසල්-අඩු-වුණත්-බස්-ගාස්තු-අඩු-කළ-නොහැකියි/11-409358) · `si`
-
-Ceylon Petroleum reduced diesel prices by 30 rupees from midnight yesterday. Sri Lanka Private Bus Owners Association Chairman Gemunu Wijeratne opposes further reductions, suggesting a bus fare revision in July.
-
-🟩
-
-Ceylon Petroleum Corporation worked to reduce all fuel prices from midnight yesterday (30).
-
-The Chinese diesel has been reduced by 30 rupees.However, the Sri Lanka Private Bus Owners Association Mr. Gemunu Wijeratne, Chairman of the Lanka Private Bus Ownership, will not be reduced to the 'today' newspaper.
-
-Accordingly, a bus tariff revision can be made in July next July, he added.
-
-◼️
-
-[Data](articles/b838df50.json)
-
-[Extended Data](ext_articles/b838df50.ext.json)
 
 ---

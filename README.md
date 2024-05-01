@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 13:53:42**
+As of **2024-05-01 14:06:04**
 
 ## Newspaper Stats
 
-*Scraped **22,048** Articles*
+*Scraped **22,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ economynextcom | 1,248
 adalk | 1,848
 tamilmirrorlk | 2,565
 adaderanalk | 2,604
-virakesarilk | 3,326
-dailymirrorlk | 3,444
+virakesarilk | 3,329
+dailymirrorlk | 3,446
 adaderanasinhalalk | 3,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,048 (100.0%) of 22,048 articles have been extended.
+22,048 (100.0%) of 22,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### வாகன இறக்குமதிக்கு முறையான வேலைத்திட்டத்தை  நடைமுறைப்படுத்தப்பட கோரிக்கை
+
+*2024-05-01 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182411) · `ta`
+
+இலங்கைக்கு வாகனங்களை இறக்குமதி செய்வதற்கு முறையான வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட  வேண்டுமென இலங்கை வாகன இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+வாகன இறக்குமதி தொடர்பான தீர்மானங்களை எடுப்பதற்கு அரசாங்கத்தினால்  குழுவொன்று நியமிக்கப்பட  வேண்டும் என சங்கத்தின்  தலைவர் இந்திக்க சம்பத் மெரிஞ்சிகே தெரிவித்துள்ளார்.
+
+வாகனங்களை இறக்குமதி செய்யும் முன்பு மக்கள் விரும்பியவற்றுக்கு முக்கியத்துவம் அளிக்க வேண்டும் எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/784d108c.json)
+
+---
+
+### Strict security measures in place for May Day rallies
+
+*2024-05-01 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strict-security-measures-in-place-for-May-Day-rallies/108-281718) · `en`
+
+Colombo, May 1 (Daily Mirror) - Police have deployed nearly 10,000 officers including Special Task Force (STF) personnel and intelligence officers across the country for security and traffic management during today's May Day rallies and parades.
+
+Police Spokesman DIG Nihal Thalduwa said that tri-forces personnel are also on standby at police stations if needed. May Day rallies are planned in 35 police areas across the country with at least 14 scheduled in Colombo alone.
+
+"Nearly 5,000 police officers are deployed solely for security and traffic management in Colombo," DIG Thalduwa said.
+
+With a focus on enhancing security measures, the spokesman said only permitted drone cameras will be allowed for use during the rallies.
+
+Police urged rally attendees to refrain from littering roads with plastics and waste.
+
+DIG Thalduwa said strict action will be taken against individuals engaging in unruly behavior under the influence of alcohol, causing inconvenience to the public and traffic.
+
+...
+
+[Data](articles/dd88a3c9.json)
+
+---
+
+### JKH warns public about WhatsApp groups falsely using their name for scams
+
+*2024-05-01 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JKH-warns-public-about-WhatsApp-groups-falsely-using-their-name-for-scams/108-281717) · `en`
+
+Colombo, May 1 (Daily Mirror) - John Keells Holdings PLC has issued a cautionary notice to the public regarding WhatsApp groups falsely claiming affiliation with the company and some of its subsidiaries.
+
+The groups, reportedly numbering up to 30, are attempting to deceive individuals by asserting a connection with the organization.
+
+“John Keells Holdings PLC denies any association or affiliations with these groups and the activities stated in the messages.
+
+“Unauthorised use of our brand identity or trademarks is a violation of our intellectual property rights and detrimental to our goodwill,” John Keells Holdings said in a notice on its social media platforms.
+
+“The John Keells Group reserves the right to pursue legal action against any individuals or groups found using our identity in such a manner,” it added.
+
+John Keells Holdings asserted it bears no responsibility for any losses or damages incurred as a result of responding to or acting upon these fraudulent messages.
+
+...
+
+[Data](articles/78bcd5c5.json)
+
+---
+
+### இந்தியாவிலிருந்து இலங்கைக்கு கடல் வழியாக படகில் தப்பி வர முயன்ற இருவர் உட்பட 8 பேர் கைது
+
+*2024-05-01 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182407) · `ta`
+
+இந்தியாவில் தனுஷ்கோடி கடல் வழியாக படகில் சட்டவிரோதமாக இலங்கைக்கு  தப்பி வர முயன்ற இலங்கை தம்பதி இருவர் மற்றும்  தப்பி வர உதவிய ஆறு பேர் என 8 பேரை தங்கச்சிமடம் பொலிஸார் கைது செய்துள்ளனர்.
+
+ராமநாதபுரம் மாவட்டம் வேதாளை பகுதியைச் சேர்ந்த சைபுல்லா நவீத், இம்ரான், நைனா முகமது, ரகுமான் உள்ளிட்ட நான்கு பேர் நேற்று (30)  இரவு தங்கச்சி மடம் பேருந்து நிலையத்தில் நின்று பேசிக் கொண்டிருந்துள்ளனர்.
+
+அவர்கள் நால்வர் மீதும் முன்னதாக இலங்கைக்கு ஆட்களை சட்டவிரோதமாக அனுப்பி வைத்த வழக்கு நிலுவையில் உள்ள நிலையில் சந்தேகமடைந்த இரவு ரோந்து பணியில் ஈடுபட்டிருந்த தங்கச்சிமடம் பொலிஸார் நால்வரையும் பிடித்து விசாரித்தனர்.
+
+அப்போது இலங்கை வவுனியா பகுதியைச் சேர்ந்த தம்பதிகளான சாந்தி மற்றும் ராஜேஸ்வரன் ஆகிய இருவரும்  கடந்த 2017 ஆம் ஆண்டு விமானம் மூலம் சென்னை வந்ததாகவும், சென்னையில் தங்கி இருந்த நிலையில் மீண்டும் இலங்கைக்கு திரும்பிச் செல்ல
+
+...
+
+[Data](articles/0291155e.json)
+
+---
 
 ### Reduced diesel price not sufficient for bus fare revision: Gemunu
 
@@ -137,6 +215,26 @@ President of the association Indika Sampath Merinchige emphasized the need for t
 [Data](articles/59cf92f5.json)
 
 [Extended Data](ext_articles/59cf92f5.ext.json)
+
+---
+
+### அவுஸ்திரேலியாவின் பாதுகாப்பு தொடர்பான இரகசிய தகவல்களை திருட முயன்ற இரண்டு இந்திய உளவாளிகள் 2020 இல் வெளியேற்றப்பட்டனர்-சர்வதேச ஊடகங்களின் தகவலால் அதிர்ச்சி
+
+*2024-05-01 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182405) · `ta`
+
+2020 ம் ஆண்டு அவுஸ்திரேலியா இந்தியாவின் ரோ புலனாய்வுபிரிவை சேர்ந்த  இருவரை தனது நாட்டிலிருந்து வெளியேற்றியது என வோசிங்டன் போஸ்ட் செய்தி வெளியிட்டுள்ளது.
+
+இந்தியாவின் ரோவிற்கும் மேற்குலகின் உள்நாட்டு பாதுகாப்பு சேவைகளை சேர்ந்தவர்களிற்கும் இடையிலான மோதல்களில் இதுவும் ஒன்று என வோசிங்டன் போஸ்ட் செய்தி வெளியிட்டுள்ளது.
+
+இதேவேளை இரகசியதகவல்களை திருடுவதற்கான முயற்சியில் ஈடுபட்ட இந்தியாவின் புலனாய்வு அமைப்பை சேர்ந்த இருவர் வெளியேற்றப்பட்டனர் என 2020இல் வெளியேற்றப்பட்டனர் என அவுஸ்திரேலிய ஊடகங்களும் செய்தி வெளியிட்டுள்ளன.
+
+இருவர் வெளியேற்றப்பட்டனர் என த அவுஸ்திரேலியனும் சிட்னி மோர்னிங் ஹெரால்ட்டும் தெரிவித்துள்ள அதேவேளை இந்தியாவின் புலனாய்வு பிரிவை சேர்ந்தவர்களின் நடவடிக்கை குறித்து செய்தி வெளியிட்டுள்ள ஏபிசி எனினும் எத்தனை பேர் வெளியேற்றப்பட்டனர் என்பதை தெரிவிக்கவில்லை.
+
+மிகவும் இரகசியமான பாதுகாப்பு திட்டங்கள் மற்றும் விமானநிலைய பாதுகாப்பு அவுஸ்திரேலியாவின் வர்த்தக உறவுகள் தொடர்பான இரகசிய விபரங்களை திருட முயன்ற இந்தியாவின் புலனாய்வு பிரிவை சேர்ந்த இருவர் வெளியேற்றப்பட்டனர் என ஏபிசி தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/8dfa72ea.json)
 
 ---
 
@@ -2105,135 +2203,5 @@ However, the traders of the Economic Center said that although the Dambulla Econ
 [Data](articles/260fc51d.json)
 
 [Extended Data](ext_articles/260fc51d.ext.json)
-
----
-
-### Request to recover the landed land
-
-*2024-04-30 23:51:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-அபகரித்த-காணியை-மீட்க-கோரிக்கை/175-336580) · `ta`
-
-Farmers in Athikattuveli, Trincomalee, demand a Buddhist monk cultivate traditional lands, which have been under monk's name for 3 years. Land, previously farmed by Kuchchaveli people, was acquired by Forest Resource Protection Department post-war. In 2021, Sapbhata Forest Senasuna Viharakarakam occupied the land. Pooja Grand leased 20.2343 hectares. A letter from Divisional Secretariat to Attorney General has been sent.
-
-🟩
-
-Farmers are demanding that a Buddhist monk cultivate in the traditional agricultural lands of the Tamil people in the Athikattuveli area of the Kuchchaveli - Thiriyai Grama Niladhari Division, Trincomalee.
-
-Farmers say that 88 acres of land in the Attikkadu area has been in the name of a Buddhist monk named Buddhist monk in the name of a Buddhist monk for nearly 3 years.
-
-Farmers say that the people of Kuchchaveli have been engaged in farming in the land of the hereditary lands before 1984, and that when the situation was displaced due to the war situation, large numbers of agrarian lands, including the confirmation of the area and the pamid lands in the area, were acquired by the Forest Resource Protection Department.
-
-In 2021, 88 acres and more land in the area was occupied by the Sapbhata Forest Senasuna Viharakarakam in the area.
-
-Pooja Grand has been given a lease of 20.2343 hectares of land from 26.05.05.05.05.05.05.05.
-
-...
-
-[Data](articles/d1aee920.json)
-
-[Extended Data](ext_articles/d1aee920.ext.json)
-
----
-
-### Resolution
-
-*2024-04-30 23:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளரை-நிறுத்த-தீர்மானம்/175-336579) · `ta`
-
-Civil and religious leaders in Agathiyar Adikallar, Trincomalee, agreed to unite behind a single presidential candidate, marking a significant event held at the RH Guest House in Vavuniya Railway Road.
-
-🟩
-
-Civil social activists and religious leaders have decided to field a common candidate in the presidential election
-
-The event was held on Tuesday (30) at the RH Guest House in Vavuniya Railway Road under the leadership of Koodal Political Inspector Nilanthan.
-
-Agathiyar Adikallar, Trincomalee. 48 civil society activists, including pastor Noyal Emanuel Velan Swamis, were present as religious leaders. Meanwhile, it has been decided to field a common candidate in the presidential election.
-
-◼️
-
-[Data](articles/17d6f268.json)
-
-[Extended Data](ext_articles/17d6f268.ext.json)
-
----
-
-### Sri Lanka qualified for the Asia Rugby 1st final
-
-*2024-04-30 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/182366) · `ta`
-
-Sri Lanka won the Asia Rugby 1st final, defeating India 45-10 in a thrilling match. Sri Lanka led 21-3 at halftime, with key points scored by Ratwatte and Sudaraka Tikumbura. India's only points came from a penalty by Kumar. Sri Lanka's victory sets up a final against Kazakhstan for the Asian Rugby main division.
-
-🟩
-
-In the second semi -final of the Colombo Horse Racing Tuesday night, India 45 (7 trucks, 5 converges) - 10 (one Tri, a Convention, a penalty)Eligible to oppose.
-
-During the break, Sri Lanka led a 21 - 3 score.
-
-In the 3rd minute of the competition, the penalty, Kumar, kicked India with elegance and put India in 3 - 0.
-
-However, Ratwatte gave the top points to place the tanks on behalf of Sri Lanka in the 15th minute and the Sudharaka Tikumbura in the 16th minute.
-
-In the 32nd minute, Sudaraka Tikumbura put his 2nd truck and gave the top points for it.. (௨௧ - ௩)
-
-In the 44th minute after the break, there was no additional points to place his second truck.
-
-Ratwatte, who gave the honeymoon points for the honeycomb, 8 minutes later.
-
-In the 61st minute of Sri Lanka's domination, Akash Madushana put a wonderful tri.
-
-Pradip Tanwar Tri put India in India. Narich gave the highest points.
-
-Akash Madushank then placed his second truck in the 73rd minute and a Ratwatta tri, who was dressed in the 75th minute.
-
-...
-
-[Data](articles/7a53ed06.json)
-
-[Extended Data](ext_articles/7a53ed06.ext.json)
-
----
-
-### Case against fake Facebook Record
-
-*2024-04-30 23:37:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-முகநூல்-பதிவுக்கு-எதிராக-வழக்கு/175-336578) · `ta`
-
-A case against a fake Facebook record was filed in Trincomalee District Court. Senior Attorney Ramalingam submitted the petition, seeking details on the identity behind the account and related events. The Criminal Investigation Department was ordered to take action. This is the first such case in the district.
-
-🟩
-
-A case has been filed in the Trincomalee District Court on Tuesday (30).
-
-Attorney -at -Law. Senior Attorney Ramalingam had submitted the petition to the Thirukumaranathan Hall in support of the petition.
-
-Applications have been made, such as the identity of the person who uses the non -conscious face -to -face, and to ensure other events related to the facial account used by the Facebook account.
-
-The Director of the Social Media Department of the Criminal Investigation Department of the Criminal Investigation Department (Criminal Investigation), Colombo 01, was ordered to take the necessary and necessary action on the immediate obtaining details of the above mention and events and events from the Dialog and the Dialog Company.
-
-District Magistrate, Ganesharaja, has issued the order to suit the applications. This is the first time that such a case has been filed in the Trincomalee District Court.
-
-◼️
-
-[Data](articles/1e496fd6.json)
-
-[Extended Data](ext_articles/1e496fd6.ext.json)
-
----
-
-### Luxury cruise ship calls at Hambantota Port
-
-*2024-04-30 23:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98945/luxury-cruise-ship-calls-at-hambantota-port) · `en`
-
-Cruise ship ‘Serenade of the Seas’ made her maiden call at the Hambantota International Port (HIP) on Monday (29).
-
-The luxury liner, which carried a total of 1,950 passengers and 890 crew members was the tenth cruise ship to call at the Hambantota port for the year 2024.
-
-‘Serenade of the Seas’ launched in 2003 is one of the Radiance Class vessels built by the global shipping company Royal Caribbean International to travel to far flung exotic destinations.
-
-The port welcomed the ship with a plaque presentation held on board. Officials of the Hambantota International Port Group (HIPG) and the HIP, along with representatives from the local vessel agents attended the event.
-
-◼️
-
-[Data](articles/df3e5612.json)
-
-[Extended Data](ext_articles/df3e5612.ext.json)
 
 ---

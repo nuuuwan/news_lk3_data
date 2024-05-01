@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 17:34:58**
+As of **2024-05-01 17:54:44**
 
 ## Newspaper Stats
 
-*Scraped **22,101** Articles*
+*Scraped **22,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,851
+adalk | 1,855
 tamilmirrorlk | 2,578
 adaderanalk | 2,613
 virakesarilk | 3,334
 dailymirrorlk | 3,458
-adaderanasinhalalk | 3,569
+adaderanasinhalalk | 3,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,097 (100.0%) of 22,101 articles have been extended.
+22,101 (100.0%) of 22,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### අසාම් අමීන් ව බීබීසීයෙන් ඉවත් කිරීම ගැන කම්කරු විනිශ්චය සභාව දුන් තීන්දුව
+
+*2024-05-01 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196170) · `si`
+
+බීබීසී පුවත් සේවයේ මෙරට මාධ්‍යවේදියෙකු ලෙස කටයුතු කළ අසාම් අමීන්ගේ කොන්ත්‍රාත්තුව නියමිත කාලයට පෙර අවසන් කිරීමට බ්‍රිතාන්‍ය ගුවන්විදුලි සංස්ථාව (බීබීසී) ගත් තීරණය ‘අසාධාරණ සහ යුක්ති සහගත නොවන’ බව ශ්‍රී ලංකා කම්කරු විනිශ්චය සභාව තීන්දු කර තිබේ.
+
+අප්‍රේල් 26 වනදා අදාළ නියෝගය ප්‍රකාශයට පත්කරමින් කම්කරු විනිශ්චය සභාව පෙන්වා දුන්නේ බීබීසී පුවත් සේවයේ, විශේෂයෙන් බීබීසී නියෝජිත ඉයන් හැඩෝ විසින් අත්තනෝමතිකව සහ සිය තනතුරේ බලය භාවිත කරමින් ක්‍රියා කර ඇති බවය.
+
+මෙරට ප්‍රකට දේශපාලකයෙකු සහ රංගන ශිල්පියෙකු වන රන්ජන් රාමනායක සමග පැවැත්වූ බව කියන දුරකථන සංවාදයක විකෘති කරන ලද හඬපටයක් ප්‍රසිද්ධියට පත්වීම හමුවේ මාධ්‍යවේදී අසාම් අමීන්ගේ කොන්ත්‍රාත්තුව අවසන් කිරීමට බීබීසීය ගත් තීරණය සම්බන්ධයෙන් ගොනු කර ඇති නඩුවට අදාළව කම්කරු විනිශ්චය සභාව විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරන ලදී.
+
+...
+
+[Data](articles/e24f46a7.json)
+
+---
+
+### ජාතික නාමල් උයන රැකිගැනීමට  දායක වූ මාධ්‍යයට ඇගයීම්
+
+*2024-05-01 17:17:06* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-නාමල්-උයන-රැකිගැනීමට--දායක-වූ-මාධ්‍යයට-ඇගයීම්/11-409369) · `si`
+
+ජාතික නාමල් උයන මතු පරපුර සඳහා රැකගැනීමට සහය වූ මුද්‍රිත  හා විද්‍යුත් මාධ්‍ය ආයතන හා මාධ්‍යවේදීන් ඇගයීමේ උළෙලක් ඊයේ 30 දින ආග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙන් කොළඹ අරලියගහ මන්දිරයේදී සිදුකෙරිණි. එම උත්සවයේදී ලංකාදීප කර්තෘමණ්ඩල අධ්‍යක්ෂ සිරි රණසිංහ මහතාට හිමි සම්මානය අග්‍රාමාත්‍යවරයා අතින් පිරිනැමුණු අවස්ථාව ඡායාරූපයේ  දැක්වෙයි.
+
+නාමල් උයන ජාතියට දායාද කර වසර 33ක් සපිරීම නිමිති කරගෙන මෙම වැඩසටහන පැවැත්විණි. විජය පුවත්පත් සමාගමේ ඉරිදා ලංකාදීප,ලංකාදීප,අද,සන්ඩේ ටයිම්ස්,ඩේලි මිරර් හා විජය යන පුවත්පත්ද ඇගයීමට ලක්කෙරිණි.
+
+◼️
+
+[Data](articles/43f81fef.json)
+
+---
+
+### බිමත්ව සිටි කොස්තාපල්ට පහරදිමක්
+
+*2024-05-01 17:10:27* · [`adalk`](https://www.ada.lk/breaking_news/බිමත්ව-සිටි-කොස්තාපල්ට-පහරදිමක්/11-409367) · `si`
+
+ගාලු මෝදර පිටියේදී පිරිසකගේ පහර කෑමට ලක්ව සිටි පොලිස් කොස්තාපල්වරයෙකු   රෝහල් ගත කළ බව කොටුව පොලිසිය කියයි.
+
+මෙලෙස රෝහල් ගත කර ඇත්තේ කොළඹ ප්‍රදේශයට විශේෂ රාජකාරී සඳහා පැමිණ සිටි වැලිමඩ පොලිස් ස්ථානයට අනුයුක්ත ආධුනික පොලිස් කොස්තාපල්වරයෙකි.
+
+ගාලුමුවදොර මාර්ගය අසල පිරිසක් පුද්ගලයකු වට කරගෙන සිටින අයුරු දුටු කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපතිවරයා විසින්  එම ස්ථානයට ගොස් පරික්ෂා කිරීමේදී කොස්තාපල්වරයා දැක ඔහුව රැගෙන විත් කොටුව පොලිසියට බාර දී තිබිණි
+
+කොස්තාපල්වරයා කනිෂ්ඨ නිලධාරීන්ගේ භෝජනාගාරයෙන් මත්පැන් පානය කර ගාලු මෝදර පිටියට ගිය අවස්ථාවේදී පිරිසක් විසින් පහර දුන් බවට ප්‍රකාශයක් ලබාදී ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි
+
+කොස්තාපල්වරයා කොළඹ ජාතික රෝහල වෙත ඇතුලත් කර ඇත. කොටුව පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/214d0aea.json)
+
+---
 
 ### Wasim Akram to conduct training program for national players
 
@@ -51,6 +101,8 @@ Three teams, namely Yellow, Green, and Red, will take part in the preparation to
 ...
 
 [Data](articles/0a38d00f.json)
+
+[Extended Data](ext_articles/0a38d00f.ext.json)
 
 ---
 
@@ -76,6 +128,26 @@ The city’s Fire Services said they sent fire engines to the schools but found 
 
 [Data](articles/72bc8960.json)
 
+[Extended Data](ext_articles/72bc8960.ext.json)
+
+---
+
+### වතු කම්කරුවන්ට රු 1700 ක් දෙන්න බැරි බව වතු සමාගම් කියයි
+
+*2024-05-01 17:05:14* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-රු-1700-ක්-දෙන්න-බැරි-බව-වතු-සමාගම්-කියයි/11-409366) · `si`
+
+තේ කිලෝවක් නිෂ්පාදනය කිරිම සදහා වැය වන ඉහල පිරිවැය හමුවේ වතු කම්කරුවන්ගේ දෛනික වැටුප රු 1700 දක්වා වැඩි කිරිමට නොහැකි බව වතු හාම්පුතුන්ගේ සංගමය පවසයි.
+
+එම සංගමයේ උසස් නිලධාරියෙකු කියා සිටියේ වතු කම්කරුවන්ගේ වැටුප (30) දින රාත්‍රියේ සිට රු 1700 දක්වා ඉහල දැමු බවට ගැසට් නිවේදනයක්ද නිකුත් කර ඇති බවයි.
+
+තේ වතු සමාගම් සමග කිසිදු සාකච්ඡාවක් නොකර එම ගැසට් පත්‍රය නිකුත් කර ඇති බවත්, එම ගැසට් පත්‍රය අවලංගු කිරිමට වතු සමාගම් අධිකරණය හමුවට යාමට පියවර ගෙන ඇති බවද එම නිලධාරියා පැවසිය.
+
+මේ පිලිබදව තේ වතු සමාගම් වල උසස් නිලධාරින් සමග විශේෂ සාකච්ඡාවක් (02) දින කොළඹදි පවත්වන බවත්, එම සාකච්ඡාවෙන් අනතුරුව අධිකරණ හමුවට යාමට කටයුතු කරන බවද එම නිලධාරියා වැඩිදුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/1379f15d.json)
+
 ---
 
 ### BBC ordered to pay compensation to Sri Lankan journalist
@@ -94,6 +166,8 @@ The ruling comes in connection to the case filed by Azzam Ameen on the BBC’s d
 
 [Data](articles/e71daa4b.json)
 
+[Extended Data](ext_articles/e71daa4b.ext.json)
+
 ---
 
 ### SLPP MP attends UNP May Day rally in Colombo
@@ -107,6 +181,8 @@ The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in M
 ◼️
 
 [Data](articles/22599099.json)
+
+[Extended Data](ext_articles/22599099.ext.json)
 
 ---
 
@@ -162,6 +238,8 @@ President Ranil Wickremesinghe made this statement addressing the May Day rally 
 
 Former Sri Lankan cricket captain and former minister Arjuna Ranatunga joined the May Day rally of the Samagi Jana Balavegaya (SJB) which was held in the Thalawakele area this morning (May 01).
 
+Speaking during the event, the 1996 World Cup-winning captain said he was invited to attend the May Day rally by former Minister Palani Thigambaram and that he gladly accepted the invitation.
+
 Ranatunga had recently joined the Anti-Corruption Coalition led by former Minister of Sports Roshan Ranasinghe.
 
 One of the two main May Day rallies of SJB was held in the Thalawakele area this morning under the patronage of the Leader of the Opposition Sajith Premadasa this morning.
@@ -173,6 +251,20 @@ Meanwhile, the other public rally of the SJB is currently being held at Chatham 
 [Data](articles/d517b430.json)
 
 [Extended Data](ext_articles/d517b430.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ ජනපති අපේක්ෂකයා විජේදාස රාජපක්ෂ
+
+*2024-05-01 16:48:20* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-ජනපති-අපේක්ෂකයා-විජේදාස-රාජපක්ෂ/11-409364) · `si`
+
+නිදහස් පක්ෂයේ ජනපති අපේක්ෂකයා ලෙස අමාත්‍ය විජේදාස රාජපක්ෂ මහතා ඉදිරිපත් කරන බවත් ඔහුට පක්ෂයේ සහාය ලබාදෙන හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පැවැසිය.
+
+විජේදාස රාජපක්ෂ මහතාට දැන් ඇමතිකම ගැන ගැටලුවක් නොමැති බවද ඔහු පැවැසිය. එසේම තමන් නැවතවරක් ජනපතිධුරයට තරග නොකරන බවද හිටපු ජනපතිවරයා පැවැසිය.
+
+◼️
+
+[Data](articles/dc19fbe1.json)
 
 ---
 
@@ -2095,107 +2187,5 @@ Selection chair George Bailey believes Australia have a well-balanced squad and 
 [Data](articles/753fe7bb.json)
 
 [Extended Data](ext_articles/753fe7bb.ext.json)
-
----
-
-### Cement price
-
-*2024-05-01 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/சீமெந்து-விலை-குறைப்பு/47-336589) · `ta`
-
-Cement industry reduces price of 50kg bag to Rs 2400, aiming to boost construction industry.
-
-🟩
-
-Cement industry agencies have announced that the price of 50 kilograms of cement bag has been reduced by Rs.. Accordingly, the new high retail price of the 50 kilogram cement package will be Rs 2400. Cement industry companies have announced that they expect the construction industry to be encouraged with this price cut.
-
-◼️
-
-[Data](articles/cd065598.json)
-
-[Extended Data](ext_articles/cd065598.ext.json)
-
----
-
-### A change of cement prices
-
-*2024-05-01 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196155) · `si`
-
-Cement companies reduce prices: 50kg bag now Rs. 2,400, down from Rs. 2,450.
-
-🟩
-
-Cement companies have decided to reduce the prices of cement as operated today (01).
-
-Accordingly, the price of 50 kilogram has been decided to reduce the price of a 50kg cement bag by Rs. 50.
-
-The new price frame adds that the price of a cement bag will be Rs. 2,400.
-
-◼️
-
-[Data](articles/aab1c4db.json)
-
-[Extended Data](ext_articles/aab1c4db.ext.json)
-
----
-
-### President's International Climate Advisor Eric Solheim meets with the Governor of the Northern Province
-
-*2024-05-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182377) · `ta`
-
-Eric Solheim, President's International Climate Advisor, met with Northern Province Governor Charles on Tuesday to discuss the province's status, resettlement progress, future development, and environmental management.
-
-🟩
-
-President Ranil Wickremesinghe's International Climate Advisor and former Norwegian Foreign Minister Eric Solheim (MR. Erik Solheim) Governor of the Northern Province. S.. M.. Charles met on Tuesday and discussed.
-
-The current status of the Northern Province, the progress of the resettlement, future development activities, environmental and disaster management activities were discussed.
-
-◼️
-
-[Data](articles/54599fa2.json)
-
-[Extended Data](ext_articles/54599fa2.ext.json)
-
----
-
-### Travelers who arrive at Hambantota port
-
-*2024-05-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182378) · `ta`
-
-"The 'Sea Serenade' arrived at Hambantota port with 1,950 passengers and 890 crew, marking the tenth ship in 2024. Royal Caribbean's 'Seyrison of the Cheese' began its journey in 2003."
-
-🟩
-
-The serenade of the Seas, the first time at the Hambantota port, arrived on Monday.
-
-The ship has 1,950 passengers and 890 employees visited. It was the tenth ship that arrived at the Hambantota port in 2024.
-
-International Royal Caribbean has created the 'Seyrison of the Cheese', which started the first sea in 2003.
-
-◼️
-
-[Data](articles/5f335ecf.json)
-
-[Extended Data](ext_articles/5f335ecf.ext.json)
-
----
-
-### President extends invitation to all political parties in Labour Day Message
-
-*2024-05-01 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98947/president-extends-invitation-to-all-political-parties-in-labour-day-message) · `en`
-
-In his Labour Day Message, President Ranil Wickremesinghe extended an invitation to all political parties to join hands in charting a path towards a prosperous future for the nation.
-
-“Instead of a conventional May Day celebration, let us seize this opportunity to forge consensus, acknowledging contemporary trends and challenges,” he said.
-
-On the 138th observance of World Labour Day, born from a historic struggle for rights, our nation stands at a pivotal moment. Regardless of political affiliations, it falls upon each of us to shoulder the unshakable duty of fortifying our economy and propelling our nation onward.
-
-During the recent economic downturn, our working class bore the brunt of the hardship. I extend heartfelt appreciation to all who laboured diligently, driving the engine of our economy forward amidst adversity.
-
-...
-
-[Data](articles/1d63b1ae.json)
-
-[Extended Data](ext_articles/1d63b1ae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 06:59:52**
+As of **2024-05-01 07:22:47**
 
 ## Newspaper Stats
 
-*Scraped **21,967** Articles*
+*Scraped **21,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,104 @@ adalk | 1,840
 tamilmirrorlk | 2,551
 adaderanalk | 2,597
 virakesarilk | 3,316
-dailymirrorlk | 3,425
-adaderanasinhalalk | 3,551
+dailymirrorlk | 3,428
+adaderanasinhalalk | 3,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,966 (100.0%) of 21,967 articles have been extended.
+21,967 (100.0%) of 21,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### අද රට පුරා කාලගුණය වෙනස්වෙන්නේ මෙහෙමයි
+### කම්කරු දිනය අදයි - ප්‍රධාන පක්ෂ මැයි රැළි පවත්වන්නේ මෙහෙමයි
+
+*2024-05-01 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196150) · `si`
+
+1886 වසරේ මැයි මස 01 වන දින අමෙරිකාවේ චිකාගෝ නුවරට රැස්ව තමන්ට පැය 08ක සේවා මුරයක් ලබාදෙන ලෙස ඉල්ලමින් දින කිහිපයක් පුරා විරෝධතාවල නිරත වු කම්කරුවන් ඉලක්කරකරමින් එල්ල වූ ප්‍රහාරයෙන් විශාල පිරිසක් මියයෑම සිහිපත් කරමින් ජාත්‍යන්තර කම්කරු දිනය සැමරීම සිදුකරයි.
+
+කම්කරුවන්ගේ එම අරගලය ආරම්භ වූ 1889 වසරේදී මැයි මස පළමුවන දින ජාත්‍යන්තර කම්කරු සංවිධානය විසින් ලෝක කම්කරු දිනය ලෙස ප්‍රකාශයට පත් කළේය.
+
+ඒ අනුව ලොව සෑම රටක්ම මැයි මස පළමු වන දින කම්කරු දිනය සැමරීම සඳහා පෙළපාලි, රැළි ආදිය සංවිධාන කරයි.
+
+මෙවරත් කම්කරු දිනය සැමරීම සඳහා ශ්‍රී ලංකාවේ දේශපාලන පක්ෂ සහ සංවිධාන මැයි දින පෙළපාලි රැස්වීම් අද දිනයේ සංවිධානය කර තිබේ.
+
+ඒ අනුව දිවයින පුරා රැළි සහ පෙළපාලි 40ක් දේශපාලන පක්ෂ සහ වෘත්තීය සමිති විසින් සංවිධානය කර ඇත.
+
+එමෙන්ම මැයි දින සැමරුම් උත්සව 19ක් ද මෙවර ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් පැවැත්වීමට නියමිතය.
+
+එක්සත් ජාතික පක්ෂ මැයි දින රැළිය අද පස්වරු 2.00ට කොළඹ මාළිගාවත්ත පොලීසිය ඉදිරිපිට දි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආරම්භවීමට නියමිතය.
+
+...
+
+[Data](articles/71469872.json)
+
+---
+
+### Sajith surprises all, wants to play mediatory role in Indo-China conflict
+
+*2024-05-01 06:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sajith-surprises-all-wants-to-play-mediatory-role-in-Indo-China-conflict/155-281703) · `en`
+
+Colombo, May 1 (Daily Mirror) - In a surprising move, Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, in a meeting with a delegation of the Communist Party of China (CPC), has offered to play a mediatory role between two Asian giants implying India and China, the Daily Mirror learns.
+
+A source familiar with the meeting told Daily Mirror that Premadasa made such an offer during the discussion between his party and the CPC delegation that visited Sri Lanka recently.
+
+However, the CPC is reported to have said that Sri Lanka should not attach special status to any country in its foreign relations.
+
+The CPC delegation headed by Deputy Minister of the International Affairs Department Sun Haiyan called on Premadasa and a few other MPs as part of engagements with the Sri Lankan political parties.
+
+At the meeting, Premadasa, apparently in reference to Indo-China conflict, said he, as a political leader, was ready for a mediatory role between the two Asian giants.
+
+...
+
+[Data](articles/45d14247.json)
+
+---
+
+### Parties gear up for usual political showpieces
+
+*2024-05-01 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parties-gear-up-for-usual-political-showpieces/108-281701) · `en`
+
+Colombo, May 1 (Daily Mirror) - Political parties are gearing up for the usual political showpieces on May Day with no exception this year as well with more than 22 rallies being organized across the country today.
+
+These include rallies of both political parties and various organizations according to police.
+
+SLPP will hold its rally at Campbell Park in Borella while the UNP will hold its rally in front of P. D. Sirisena Ground in Maradana. Samagi Jana Balawegaya (SJB) is to hold two rallies this year.
+
+...
+
+[Data](articles/c419a864.json)
+
+---
+
+### The weather is on the way today
 
 *2024-05-01 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196148) · `si`
 
-අද පස්වරුවේත් ප්‍රදේශ කිහිපයකට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today's weather includes showers/thundershowers in Western, Sabaragamuwa, Central provinces, Galle, Matara districts, and parts of Central, Sabaragamuwa, Uva provinces, North Western, Mannar District. Temporary winds and lightning passports advised.
 
-එම දෙපාර්තමේන්තුව අද (01) දිනට අදාළ කාලගුණ නිවේදනය නිවේදනය නිකුත් කරමින් මේ බව සඳහන් කරයි.
+🟩
 
-ඒ අනුව බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at several places this afternoon, the Met Department said.
 
-මේ අතර මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එහි සඳහන්.
+The Department issued announcement today (01).
 
-වයඹ පළාතේ සහ මන්නාරම දිස්ත්‍රික්කයේ සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Accordingly, in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts. Showers or thundershowers will occur at several places about 2.00.
 
-මේ අතර කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් ඉල්ලා සිටින්නේ ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගීන් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසටය.
+Meanwhile, in some places in the Central, Sabaragamuwa and Uva provinces may have been around the morning.
+
+Showers or thundershowers will occur at several places in the North Western and Mannar District at the evening or night.
+
+Meanwhile, the Department of Meteorologies further demands further action to reduce temporary winds and lightning passports.
 
 ◼️
 
 [Data](articles/68fd6586.json)
+
+[Extended Data](ext_articles/68fd6586.ext.json)
 
 ---
 
@@ -203,6 +269,22 @@ The objective of this webinar is to delve into the transformative era we live in
 [Data](articles/a7254db7.json)
 
 [Extended Data](ext_articles/a7254db7.ext.json)
+
+---
+
+### Over 1,100 HQIs, OICs permanently reside in their assigned divisions: Study
+
+*2024-05-01 04:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1-100-HQIs-OICs-permanently-reside-in-their-assigned-divisions-Study/108-281702) · `en`
+
+Colombo, May 1 (Daily Mirror) - It has been revealed that out of the 5,308 Headquarters Police Inspectors (HQIs), Station Officer In-charges (OICs), and sectional OICs (Crimes, Administration, etc.), a total of 1,106 officers permanently reside within the police division where they are stationed, accounting for 7.2% of the total.
+
+This was revealed in a latest study conducted by the Senior DIG of the North Central Province Priyantha Weerasuriya on the instruction of the IGP Deshabandu Tennakoon. The report was handed over to the IGP yesterday.
+
+According to the report, the highest number of police officers in the Mannar Police Division perform their duties in the same area where they permanently reside. Similarly, officers residing in areas like Anuradhapura and Matara also contribute to this trend.
+
+...
+
+[Data](articles/e8b13c68.json)
 
 ---
 
@@ -2143,107 +2225,5 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/290dd7d4.json)
 
 [Extended Data](ext_articles/290dd7d4.ext.json)
-
----
-
-### Rathupaswala ruling postponed
-
-*2024-04-30 15:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196136) · `si`
-
-Rathupaswala ruling postponed. Court's decision against residents and army soldiers adjourned.
-
-🟩
-
-Adjournment of the court's decision against the residents of Rathupaswala, Gampaha and three army soldiers was killed and three army soldiers.
-
-The verdict in the case was due to be announced today and adjourned.
-
-◼️
-
-[Data](articles/779a93ec.json)
-
-[Extended Data](ext_articles/779a93ec.ext.json)
-
----
-
-### Sword-wielding man arrested in London after reports of stabbing
-
-*2024-04-30 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98937/sword-wielding-man-arrested-in-london-after-reports-of-stabbing) · `en`
-
-A “man with a sword” has been arrested after reports several people have been stabbed, including two police officers, near a Tube station.
-
-The Met Police received reports of a vehicle being driven into a house in Hainault and “there were reports people have been stabbed”.
-
-“We understand the suspect went on to attack other members of the public and two police officers,” the force said.
-
-Footage shared on social media showed a man with a long knife in Laing Close.
-
-A 36-year-old man was arrested at the scene and is in custody after the vehicle was driven into a property in the Thurlow Gardens area, police said.
-
-“We are awaiting an update on the condition of those injured,” the force added.
-
-Hainault London Underground station is closed, Transport for London (TfL) says, and local buses are being diverted.
-
-Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrifying incident for those concerned.
-
-“I know the wider community will be feeling shock and alarm.”
-
-...
-
-[Data](articles/3a91c730.json)
-
-[Extended Data](ext_articles/3a91c730.ext.json)
-
----
-
-### Sword-wielding man goes on rampage in London; several people injured
-
-*2024-04-30 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98937/sword-wielding-man-goes-on-rampage-in-london-several-people-injured) · `en`
-
-A “man with a sword” has been arrested after reports several people have been stabbed, including two police officers, near a Tube station.
-
-The Met Police received reports of a vehicle being driven into a house in Hainault and “there were reports people have been stabbed”.
-
-“We understand the suspect went on to attack other members of the public and two police officers,” the force said.
-
-Footage shared on social media showed a man with a long knife in Laing Close.
-
-A 36-year-old man was arrested at the scene and is in custody after the vehicle was driven into a property in the Thurlow Gardens area, police said.
-
-“We are awaiting an update on the condition of those injured,” the force added.
-
-Hainault London Underground station is closed, Transport for London (TfL) says, and local buses are being diverted.
-
-Deputy Assistant Commissioner Ade Adelekan said: “This must have been a terrifying incident for those concerned.
-
-“I know the wider community will be feeling shock and alarm.”
-
-...
-
-[Data](articles/3faaab27.json)
-
-[Extended Data](ext_articles/3faaab27.ext.json)
-
----
-
-### GCE O/L tuition classes banned from tonight: Exams Dept
-
-*2024-04-30 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-tuition-classes-banned-from-tonight-Exams-Dept/108-281659) · `en`
-
-Colombo, April 30 (Daily Mirror) - Conducting coaching or tuition classes aimed at the 2023 (2024) G.C.E. Ordinary Level (O/L) Examination aspirants will be prohibited from tonight till the exams are concluded, the Department of Examinations said.
-
-Commissioner General of Examinations H.J.M.C. Amith Jayasundara said all arrangements have been completed to conduct the examinations from May 6 to May 15.
-
-The examinations will be held at 3,527 examination centres around the country.
-
-A total of 452,679 candidates, including 387,648 school applicants and 65,331 private applicants have submitted applications for the examinations.
-
-Special examination centres have been set up for prison inmates, with an examination centre being established in the Welikada Prison, and another centre for patients receiving residential treatment at the Apeksha Hospital in Maharagama.
-
-...
-
-[Data](articles/ae826d5a.json)
-
-[Extended Data](ext_articles/ae826d5a.ext.json)
 
 ---

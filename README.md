@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 13:18:24**
+As of **2024-05-01 13:34:55**
 
 ## Newspaper Stats
 
-*Scraped **22,047** Articles*
+*Scraped **22,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,847
+adalk | 1,848
 tamilmirrorlk | 2,565
 adaderanalk | 2,604
 virakesarilk | 3,326
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,044 (100.0%) of 22,047 articles have been extended.
+22,047 (100.0%) of 22,048 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Accordingly, the Ceylon Petroleum Corporation (CPC) reduced the retail price of 
 ...
 
 [Data](articles/20aaf3ed.json)
+
+[Extended Data](ext_articles/20aaf3ed.ext.json)
 
 ---
 
@@ -92,6 +94,8 @@ Youngster Nangyal Kharoti, who made his international debut for Afghanistan in M
 
 [Data](articles/c8ba970f.json)
 
+[Extended Data](ext_articles/c8ba970f.ext.json)
+
 ---
 
 ### Indo-Lanka passenger ferry service to resume on May 13
@@ -111,6 +115,8 @@ Previously, Minister of Ports, Shipping and Aviation, Nimal Siripala de Silva we
 ...
 
 [Data](articles/f1303167.json)
+
+[Extended Data](ext_articles/f1303167.ext.json)
 
 ---
 
@@ -1129,6 +1135,20 @@ Nearly 20 resident buildings have been damaged in the attack.
 [Data](articles/668f35a0.json)
 
 [Extended Data](ext_articles/668f35a0.ext.json)
+
+---
+
+### 2022 වසරෙන් පසුව වෙළඳ භාණ්ඩ අපනයෙන් වැඩිම ආදායම 2024 මාර්තු මාසයේදි
+
+*2024-05-01 08:27:02* · [`adalk`](https://www.ada.lk/breaking_news/2022-වසරෙන්-පසුව-වෙළඳ-භාණ්ඩ-අපනයෙන්-වැඩිම-ආදායම-2024-මාර්තු-මාසයේදි/11-409359) · `si`
+
+2022 වසරේ අගෝස්තු මාසයෙන් පසුව වෙළඳ භාණ්ඩ අපනයෙන් උපයා ගත් වැඩිම ආදායම 2024 මාර්තු මාසයේදි වාර්තා වන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+මේ අනුව 2024 මාර්තු මාසයේදි වෙළඳ භාණ්ඩ අපනයෙන් ඩොලර් මිලියන 1139 උපයාගෙන තිබේ. අපනයනය වර්ධනය විම හේතුවෙන් වෙළඳ ශේෂ හිඟයද තවදුරටත් අඩුවි තිබේ.
+
+◼️
+
+[Data](articles/5ce7558a.json)
 
 ---
 
@@ -2209,21 +2229,5 @@ The port welcomed the ship with a plaque presentation held on board. Officials o
 [Data](articles/df3e5612.json)
 
 [Extended Data](ext_articles/df3e5612.ext.json)
-
----
-
-### INSEE Ecocycle marks 21 years of environmental excellence with a city cleaning program in Anuradhapura
-
-*2024-04-30 22:39:00* · [`islandlk`](http://island.lk/insee-ecocycle-marks-21-years-of-environmental-excellence-with-a-city-cleaning-program-in-anuradhapura/) · `en`
-
-INSEE Ecocycle, the pioneer in industrial waste management in Sri Lanka, proudly celebrated its 21st anniversary on March 21st, 2024, commemorating a rich history of dedicated sustainable waste management service towards creating a cleaner and greener Sri Lanka. In honor of this significant milestone, the INSEE Ecocycle team organized a city cleaning program in the historic Anuradhapura city, collaborating with the Anuradhapura Municipal Council, School Children, Red Cross, and many other government institutions.
-
-The event was complemented by an e-waste collection program at the municipal council and some awareness programs for school children on sustainable waste management. This initiative, part of the INSEE Ecocycle’s Corporate Social Responsibility (CSR) program, marks the third consecutive year of collaboration for the Anuradhapura ancient city cleaning program and underscores the company’s commitment to community engagement and environmental stewardship.
-
-...
-
-[Data](articles/14dc8207.json)
-
-[Extended Data](ext_articles/14dc8207.ext.json)
 
 ---

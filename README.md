@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 18:52:27**
+As of **2024-05-01 19:03:46**
 
 ## Newspaper Stats
 
-*Scraped **22,118** Articles*
+*Scraped **22,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,855
 tamilmirrorlk | 2,579
 adaderanalk | 2,615
 virakesarilk | 3,337
-dailymirrorlk | 3,460
+dailymirrorlk | 3,462
 adaderanasinhalalk | 3,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,117 (100.0%) of 22,118 articles have been extended.
+22,118 (100.0%) of 22,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### SLPP MP Gayashan joins UNP
+
+*2024-05-01 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MP-Gayashan-joins-UNP/108-281733) · `en`
+
+Colombo, May 1 (Daily Mirror)- Sri Lanka Podujana Peramuna (SJB) Moneragala District MP Dr. Gayashan Nawanandana has joined United National Party (UNP).
+
+◼️
+
+[Data](articles/e8d8091d.json)
+
+---
 
 ### SJB govt will amend Sri Lanka’s IMF agreement - Sajith
 
@@ -49,6 +61,22 @@ He also said that they will implement a ‘National Youth Project’ that will g
 ◼️
 
 [Data](articles/fcf6e4db.json)
+
+[Extended Data](ext_articles/fcf6e4db.ext.json)
+
+---
+
+### Only NPP can create law abiding, disciplined society to develop the country: Anura
+
+*2024-05-01 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-NPP-can-create-law-abiding-disciplined-society-to-develop-the-country-Anura/108-281732) · `en`
+
+Matara, May 1 (Daily Mirror)- Claiming that proper organizational power and law abiding society were needed to develop the country, the National People's Power (NPP) leader Anura kumara Dissanayake said only the NPP has the best organizational power and discipline to develop this country.
+
+Speaking at the NPP Matara District May Day rally, he said neither Ranil Wickremesinghe nor Sajith Premadasa could create a disciplined and law abiding society.
+
+...
+
+[Data](articles/5f6d2baa.json)
 
 ---
 
@@ -2185,45 +2213,5 @@ A liter of Otto diesel Rs.. 27 has been reduced and the current price is Rs.. Is
 [Data](articles/bd861dd2.json)
 
 [Extended Data](ext_articles/bd861dd2.ext.json)
-
----
-
-### The latest news about the import of vehicles
-
-*2024-05-01 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196158) · `si`
-
-The Ceylon Vehicle Importers Association calls for a regulatory program for vehicle imports. Indika Sampath Merriyinage's chairman suggests a government committee for vehicle decisions. Past years show 15% of imports by new importers, with 85% from Japan. The association warns of a decline if public preferences aren't met, emphasizing the need for a policy before elections.
-
-🟩
-
-The Ceylon Vehicle Importers Association says that a formal regulatory program should be prepared to import vehicles.
-
-The Chairman of the Indika Sampath Merriyinage said that the government should appoint a committee to make decisions regarding vehicles.
-
-"To import vehicles in Sri Lanka in the past few years, it is published in 2017, 2019, 2019, 2019. 15% brought by new vehicle importers. That 85% of the 85% of the Japanese country. If the vehicles imported in the future, the public wants to do. If the people go to the agents of agents without what they want, they will have a decline. A green light has come. Do the votes before the election, do this, this is not a policy in principle that vehicles are given to vehicles. The government asks for a committee to get us. This is right now. "
-
-◼️
-
-[Data](articles/9e979e90.json)
-
-[Extended Data](ext_articles/9e979e90.ext.json)
-
----
-
-### Cement price further reduced
-
-*2024-05-01 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98948/cement-price-further-reduced-) · `en`
-
-The maximum retail price of a 50kg bag of cement has been reduced by Rs. 50 to Rs. 2,400 with effect from today (May 01).
-
-The industry media announcement stated that cement at the new Maximum Retail Price will be available in the market from today onwards.
-
-The price revision reportedly aims to boost the local construction industry by passing on the cost benefit to consumers.
-
-◼️
-
-[Data](articles/82f24bcf.json)
-
-[Extended Data](ext_articles/82f24bcf.ext.json)
 
 ---

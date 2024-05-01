@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 18:34:40**
+As of **2024-05-01 18:52:27**
 
 ## Newspaper Stats
 
-*Scraped **22,117** Articles*
+*Scraped **22,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,855
 tamilmirrorlk | 2,579
-adaderanalk | 2,614
+adaderanalk | 2,615
 virakesarilk | 3,337
 dailymirrorlk | 3,460
 adaderanasinhalalk | 3,572
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,112 (100.0%) of 22,117 articles have been extended.
+22,117 (100.0%) of 22,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### SJB govt will amend Sri Lanka’s IMF agreement - Sajith
+
+*2024-05-01 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98961/sjb-govt-will-amend-sri-lankas-imf-agreement-sajith) · `en`
+
+Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has reiterated that Sri Lanka’s debt agreement with the International Monetary Fund (IMF) would be amended under an SJB government in the future.
+
+“We will definitely work to create a new, amended IMF agreement that is populist, philanthropic, people-friendly and that would guide the country on the correct path,” he said.
+
+The Opposition Leader made this pledge while addressing the SJB’s May Day rally at Chatham Street, Colombo on Wednesday (01).
+
+Premadasa also vowed to bring everyone who is behind the Easter Sunday terror attacks before the law and to ensure maximum punishment is meted out to those involved as well as those who tried to cover it up.
+
+He also said that they will implement a ‘National Youth Project’ that will give prominence to the youth and will also introduce an entrenched clause to establish new independent agencies to help eradicate corruption in the country.
+
+◼️
+
+[Data](articles/fcf6e4db.json)
+
+---
 
 ### President calls on opposition to help safeguard Sri Lanka’s agreement with IMF
 
@@ -46,21 +66,29 @@ Addressing the United National Party’s (UNP) May Day rally held in Colombo, Wi
 
 [Data](articles/7a42a4f6.json)
 
+[Extended Data](ext_articles/7a42a4f6.ext.json)
+
 ---
 
-### මේ නැකැත් දෙක මතක තියාගන්න - ජනපති
+### Remember these two
 
 *2024-05-01 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196172) · `si`
 
-ශ්‍රී ලංකාවේ හොඳම නැකැත් ඇත්තේ රටට සහ එක්සත් ජාතික පක්ෂයට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe praised Sri Lanka and the UNP, highlighting their role in overcoming the country's challenges.
 
-එක්සත් ජාතික පක්ෂයේ මැයි දින රැලිය අමතමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-"ශ්‍රී ලංකාවේ හොඳම නැකැත් තියෙන්නේ රටටයි එක්සත් ජාතික පක්ෂයටයි. ඒකයි මේ වැටුණු රට අපිට උස්සන්න පුළුවන් වුණේ. රට වැටුණු වෙලාවේ විපක්ෂ නායක විතරක් නෙමෙයි... හැම පක්ෂයම දුවලා ලංකාව ගිනස් වාර්තාවක් තිබ්බා.  අන්තිමට මට ගන්න වුණා. මං කවුද?.. තනි මන්ත්‍රීවරයෙක් ඉන්න පක්ෂයක නායකයෙක්. අපි අභියෝග හමුවේ දුවන්නේ නැහැ."
+President Ranil Wickremesinghe said that Sri Lanka's best auspicious was the country and the UNP.
+
+Addressing the May Day Rally addressing the President, the President said.
+
+"Sri Lanka's best wounds to the country and the UNP. That's why we were able to lift the country. It is not the Leader of the Opposition when the country falls.. Sri Lanka had a Guinness Guinness. Finally I got to get. Who am I. A leader of a party to be a single member. We do not run over the challenges. "
 
 ◼️
 
 [Data](articles/8b1beb77.json)
+
+[Extended Data](ext_articles/8b1beb77.ext.json)
 
 ---
 
@@ -79,6 +107,8 @@ He said the country will benefit even further in terms of power grid and pipelin
 ◼️
 
 [Data](articles/4b89d7a6.json)
+
+[Extended Data](ext_articles/4b89d7a6.ext.json)
 
 ---
 
@@ -118,19 +148,27 @@ Minister of Justice Wijeyadasa Rajapakshe took the stage alongside former Presid
 
 [Data](articles/96551443.json)
 
+[Extended Data](ext_articles/96551443.ext.json)
+
 ---
 
-### ரூ. 1,700 க்கான வர்த்தமானி வெளியானது
+### Rs.. Gazette for 1,700
 
 *2024-05-01 17:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ-1-700-க்கான-வர்த்தமானி-வெளியானது/76-336616) · `ta`
 
-நாளாந்த சம்பளம் 1,350 ரூபாயாகும். நாளாந்த விசேட படி 350 ரூபாயாகும். அதனடிப்படையில் மொத்தமாக 1,700 ரூபாய் வழங்கப்படும் என்று அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது.
+The Gazette specifies a daily salary of 1,350 rupees and a special step of 350 rupees, totaling 1,700 rupees. Each kg of tea is paid 80 rupees.
 
-மேலதிகமாக பறிக்கப்படும் ஒவ்வொரு கிலோ கிராம் தேயிலைக்கும் 80 ரூபாய் வழங்கப்படும் என்றும் வர்த்தமானியில் குறிப்பிட்டுள்ளது.
+🟩
+
+The daily salary is 1,350 rupees. The daily special step is 350 rupees. Accordingly, a total of Rs 1,700 will be issued.
+
+Each kg of tea will be paid 80 rupees, according to the Gazette.
 
 ◼️
 
 [Data](articles/5ddc0b0c.json)
+
+[Extended Data](ext_articles/5ddc0b0c.ext.json)
 
 ---
 
@@ -2187,25 +2225,5 @@ The price revision reportedly aims to boost the local construction industry by p
 [Data](articles/82f24bcf.json)
 
 [Extended Data](ext_articles/82f24bcf.ext.json)
-
----
-
-### Cement also changes
-
-*2024-05-01 10:22:01* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-මිලත්-වෙනසක්-වෙයි/11-409361) · `si`
-
-Cement companies reduce 50kg bag price by 50 rupees to Rs. 2,400, effective today.
-
-🟩
-
-Cement companies have decided to reduce the price of 50kg cement bag by 50 rupees. Accordingly, the prices of cement has been decided to be implemented from today.
-
-According to this price revision, the new price of a cement bag will be Rs. 2,400.
-
-◼️
-
-[Data](articles/0808713a.json)
-
-[Extended Data](ext_articles/0808713a.ext.json)
 
 ---

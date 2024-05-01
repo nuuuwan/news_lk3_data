@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 05:38:50**
+As of **2024-05-01 06:01:04**
 
 ## Newspaper Stats
 
-*Scraped **21,962** Articles*
+*Scraped **21,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,190
-dailyftlk | 1,236
+dailyftlk | 1,240
 economynextcom | 1,247
 adalk | 1,840
 tamilmirrorlk | 2,551
@@ -26,11 +26,69 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,962 (100.0%) of 21,962 articles have been extended.
+21,962 (100.0%) of 21,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### On the NPP-SJB debate: the real question at stake
+
+*2024-05-01 05:33:07* · [`dailyftlk`](https://www.ft.lk/columns/On-the-NPP-SJB-debate-the-real-question-at-stake/4-761244) · `en`
+
+As Sri Lanka gets closer to the elections that are supposed to be held at the end of this year, a fierce contest seems to have occurred between the two main opposition parties, the Samaji Jana Balawegaya (SJB) and Jathika Jana Balawegaya (NPP). Representatives of the SJB Economic Policy Committee, such as Eran Wickramaratne and Harsha de Silva, seem to have launched a strong attack on the NPP questioning the latter on economic policy matters.
+
+One of the significant themes recurring in this attack is frequent references made to terms such as Socialism and Marxism. Addressing a press conference last week, MP Harsha de Silva stated that if the NPP Economic Council is not willing to come for a debate, the SJB economic committee trio would like to have the debate at the Galle Face Green, with cutouts of Marx, Engels, and Lenin in the opposing side.
+
+...
+
+[Data](articles/84ae5ac6.json)
+
+---
+
+### UN Security Council needs restructuring for a world without “refugees and poverty”
+
+*2024-05-01 05:24:08* · [`dailyftlk`](https://www.ft.lk/columns/UN-Security-Council-needs-restructuring-for-a-world-without-refugees-and-poverty/4-761243) · `en`
+
+This world needs an immediate halt to all armed conflicts right across the planet earth
+
+“World military expenditure rose for the ninth consecutive year to an all-time high of $2,443 billion. For the first time since 2009, military expenditure went up in all five of the geographical regions defined by SIPRI, with particularly large increases recorded in Europe, Asia and Oceania and the Middle East” (Media release by Stockholm International Peace Research Institute/22 April 2024)
+
+...
+
+[Data](articles/15275b77.json)
+
+---
+
+### Sri Lanka co-chairs 22nd ASEAN Regional Forum Inter-Sessional Meeting on Disaster Relief
+
+*2024-05-01 05:10:55* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-co-chairs-22nd-ASEAN-Regional-Forum-Inter-Sessional-Meeting-on-Disaster-Relief/56-761236) · `en`
+
+Foreign Affairs Ministry’s South East Asia Division Director General Sashikala Premawardhane
+
+The 22nd ASEAN Regional Forum (ARF) Inter-Sessional Meeting on Disaster Relief was held virtually on 22 April, hosted by Vietnam and co-chaired by Bangladesh, Sri Lanka and Vietnam, and attended by 55 participants from ARF member countries.
+
+Sri Lanka as Co-Chair underscored the importance of collective response in addressing challenges posed by natural disasters and the importance of the ARF process in exploring synergies between climate change adaptation, climate mitigation and disaster risk management. Referring to Sri Lanka’s own experience as a nation that has experienced first-hand the devastating impact of natural disasters, the importance of preparedness, response and recovery efforts were highlighted.
+
+...
+
+[Data](articles/4b2ec891.json)
+
+---
+
+### LMSV, Rotary Honda Purudu Champions Season 3 celebrates unity and good ethics
+
+*2024-05-01 05:09:10* · [`dailyftlk`](https://www.ft.lk/news/LMSV-Rotary-Honda-Purudu-Champions-Season-3-celebrates-unity-and-good-ethics/56-761235) · `en`
+
+The Little Minds Strong Values (LMSV), Rotary Honda Purudu Championship Season 03 finals were held last Sunday, 28 April at Galadari Hotel and broadcast on Facebook live.
+
+Over 4,000 children from around the country participated in the competition and 125 children participated in the finals.
+
+...
+
+[Data](articles/3cb2b595.json)
+
+---
 
 ### Pathfinder Foundation and Centre for Humanitarian Dialogue to co-host 4th Bay of Bengal Maritime Dialogue
 
@@ -2181,89 +2239,5 @@ It is noteworthy that the Attorney General had filed a charge sheet against the 
 [Data](articles/336aa401.json)
 
 [Extended Data](ext_articles/336aa401.ext.json)
-
----
-
-### Grandmother's granddaughter death
-
-*2024-04-30 14:54:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாட்டி-பருகவேண்டியதை-பருகிய-பேத்தி-மரணம்/76-336556) · `ta`
-
-A 15-year-old girl from Nuwara Eliya died after her grandmother, who was treated for high blood pressure, passed away. The girl's father, who lives separately, received her body.
-
-🟩
-
-Grandmother, who died of pills that control the grandmother's blood pressure, took place in Nuwara Eliya. A 15 -year -old schoolgirl who lives in the Nuwara Eliya Scrap estate has died.
-
-When the grandmother was not at home, she was admitted to the Nuwara Eliya District General Hospital with the help of neighbors.. However, he died without treatment (27).
-
-Meanwhile, the girl's father is married to another woman and lives alone in Nanuoya area. The body of the girl (29) has been handed over to her father with the help of the Nuwara Eliya police.
-
-◼️
-
-[Data](articles/9064dd9f.json)
-
-[Extended Data](ext_articles/9064dd9f.ext.json)
-
----
-
-### Archer named in England’s T20 World Cup squad
-
-*2024-04-30 14:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Archer-named-in-Englands-T20-World-Cup-squad/108-281656) · `en`
-
-Apr. 30 (BBC) - Jofra Archer has been recalled to the England squad for their defence of the T20 World Cup in the Caribbean and United States in June.
-
-Fast bowler Archer, 29, will make his latest comeback from a long-standing elbow injury that has prevented him from playing for England since March 2023.
-
-Fellow fast bowler Chris Jordan also earns a recall, but there is no place for Chris Woakes, a World Cup winner in both limited-overs formats.
-
-Uncapped left-arm spinner Tom Hartley is included in a 15-man provisional squad, captained by Jos Buttler.
-
-England T20 World Cup squad: Jos Buttler (capt, wk), Moeen Ali, Jofra Archer, Jonny Bairstow, Harry Brook, Sam Curran, Ben Duckett, Tom Hartley, Will Jacks, Chris Jordan, Liam Livingstone, Adil Rashid, Phil Salt, Reece Topley, Mark Wood.
-
-◼️
-
-[Data](articles/5b2bc468.json)
-
-[Extended Data](ext_articles/5b2bc468.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-30 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182328) · `ta`
-
-Today's currency exchange rate: US to Rs.
-
-🟩
-
-Tuesday (April 30), the US purchasing price of the United States has reported at Rs.
-
-◼️
-
-[Data](articles/593ccf28.json)
-
-[Extended Data](ext_articles/593ccf28.ext.json)
-
----
-
-### Sri Lanka investigates wrong “Aswesuma” benefit recipients
-
-*2024-04-30 14:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-investigates-wrong-aswesuma-benefit-recipients-160659/) · `en`
-
-ECONIOMYNEXT – Sri Lanka’s Welfare Benefits Board, which is responsible to disburse Aswesuma social welfare and poverty alleviation programme has started probe into recipients who had got the benefits through providing false information, Finance Ministry said.
-
-The World Bank-funded ambitious project is expected to reach 2.4 million households under four categories including people under extreme poverty.
-
-The government has started the disbursement after initial due diligence of applicants. However, there had been complaints over recipients who are receiving the benefits after submitting false information.
-
-The Finance Ministry said the Welfare Benefits Board has implemented a special program to enforce the law against people who receive Aswesuma benefits after giving false information.
-
-The Welfare Benefits Board has issued a circular to all district secretaries and divisional secretaries to find on false information, the Finance Ministry said in a statement.
-
-...
-
-[Data](articles/2e178262.json)
-
-[Extended Data](ext_articles/2e178262.ext.json)
 
 ---

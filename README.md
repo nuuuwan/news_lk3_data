@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 13:03:39**
+As of **2024-05-01 13:18:24**
 
 ## Newspaper Stats
 
-*Scraped **22,044** Articles*
+*Scraped **22,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,98 @@ adalk | 1,847
 tamilmirrorlk | 2,565
 adaderanalk | 2,604
 virakesarilk | 3,326
-dailymirrorlk | 3,441
+dailymirrorlk | 3,444
 adaderanasinhalalk | 3,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,043 (100.0%) of 22,044 articles have been extended.
+22,044 (100.0%) of 22,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### සියලුම මැයි රැළි සජීවී විකාශය අද දෙරණ වෙතින්
+### Reduced diesel price not sufficient for bus fare revision: Gemunu
+
+*2024-05-01 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduced-diesel-price-not-sufficient-for-bus-fare-revision-Gemunu/108-281716) · `en`
+
+Colombo, May 1 (Daily Mirror) - Following the price reduction of Lanka auto diesel from last night, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said today that this fuel price revision is insufficient for a bus fare revision at this time.
+
+Addressing the media he said that according to the National Bus Fare Policy, the recent amount of the fuel price revision cannot be calculated.
+
+Accordingly, the Ceylon Petroleum Corporation (CPC) reduced the retail price of a litre of Lanka auto diesel by Rs. 30 with effect from last night.
+
+"During the past months, we provided the service while incurring a loss of Rs. 27 per litre of diesel. Even after the previous fuel price revision the association had taken a decision not to go for a fuel price revision as it was not even 4% of the minimum fare hike needed for a fare revision.
+
+"According to the policy calculation, only Rs. 3 will be reduced from the bus fare, but it is not more than the minimum calculation of 4%.
+
+...
+
+[Data](articles/20aaf3ed.json)
+
+---
+
+### Live broadcast from Derana
 
 *2024-05-01 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196161) · `si`
 
-මැයි දිනය වෙනුවෙන් කොළඹ සහ දිවයිනපුරා පැවැත්වෙන සියලුම මැයි දින පෙළපාළි සහ රැළිවල තොරතුරු ඇතුළත් විශේෂ සජීවී විකාශයක් ඔබ වෙත ගෙන ඒමට අප සූදානම්.
+Derana's live broadcast covers May Day rallies in Colombo and the island, airing at 1:30 pm today on Derana 24 and available on Derana Tube and Facebook.
 
-ඒ අනුව අද පස්වරු 1:30සිට අද දෙරණ 24 නාලිකාව ඔස්සේ එම සජීවී විකාශය සමග ඔබට එක්වීමට හැකියාව පවතී.
+🟩
 
-එමෙන්ම අපගේ සමාජ මාධ්‍ය ප්‍රවේශයන් වන අද දෙරණ YOU TUBE නාලිකාව සහ FACE BOOK පිටුව ඔස්සේද ඔබට මෙම සජීවී විකාශය නැරඹිය හැකිය.
+We are ready to bring you a special live broadcast with all May Day rallies and flocks in Colombo and island for May Day.
+
+Accordingly, today 1:30 pm today, with the live broadcast on Derana 24 pm today.
+
+We can also view this live broadcast today, Derana Tube channel and the face booklet, today.
 
 ◼️
 
 [Data](articles/b08631dd.json)
+
+[Extended Data](ext_articles/b08631dd.ext.json)
+
+---
+
+### Afghanistan announce T20 World Cup 2024 squad
+
+*2024-05-01 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-announce-T20-World-Cup-2024-squad/108-281715) · `en`
+
+May 1 (ICC) - Afghanistan have named their 15-player squad for the ICC Men’s T20 World Cup 2024
+
+Afghanistan named their 15-member squad for the upcoming ICC Men’s T20 World Cup 2024 in the West Indies and the USA in June this year, with Rashid Khan set to lead the side.
+
+Afghanistan have made a few additions to their squad compared to the 2022 edition, with Karim Janat, Mohammad Ishaq, and Noor Ahmad all named in the side.
+
+However, Hashmatullah Shahidi, who led Afghanistan in last year's ICC Men's Cricket World Cup 2023, wasn't part of the side, his last T20I appearance coming in 2022.
+
+Youngster Nangyal Kharoti, who made his international debut for Afghanistan in March this year against Ireland, also finds a place in the squad. The 20-year-old impressed in that series with five wickets in three matches with an economy of just 5.90.
+
+...
+
+[Data](articles/c8ba970f.json)
+
+---
+
+### Indo-Lanka passenger ferry service to resume on May 13
+
+*2024-05-01 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indo-Lanka-passenger-ferry-service-to-resume-on-May-13/108-281710) · `en`
+
+Colombo. May 1 (Daily Mirror) - The passenger ferry service between India’s Nagapattinam and Kankesanthurai (KKS) in Jaffna is scheduled to resume on May 13, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
+
+Addressing the media, he said several attempts to resume the ferry service between the countries were cancelled due to unfavourable conditions of the sea.
+
+Rough seas had caused the cancellation of the service during earlier instances.
+
+However, the passenger ferry finally commenced as the ‘Cheriyapani’ passenger ferry arrived at the Kankesanthurai port on October 14, 2023, at 11:30 a.m., after a 40-year hiatus.
+
+Previously, Minister of Ports, Shipping and Aviation, Nimal Siripala de Silva welcomed about 50 passengers and the vessel’s crew. The inaugural voyage of the ‘Cheriyapani’ passenger ferry was commemorated with an exchange of plaques.
+
+...
+
+[Data](articles/f1303167.json)
 
 ---
 
@@ -2159,53 +2225,5 @@ The event was complemented by an e-waste collection program at the municipal cou
 [Data](articles/14dc8207.json)
 
 [Extended Data](ext_articles/14dc8207.ext.json)
-
----
-
-### Power World Gyms Welisara branch moves to new location
-
-*2024-04-30 22:38:00* · [`islandlk`](http://island.lk/power-world-gyms-welisara-branch-moves-to-new-location/) · `en`
-
-Power World Gyms, a leading name in Sri Lanka’s fitness industry, announces the relocation of its Welisara branch to No. 621 Negombo Road, Magammana. With a focus on enhancing convenience for its members, the gym is now situated in a more spacious and accessible location. The new Power World gym offers a comfortable and motivating environment with ample space and air conditioning, for individuals pursuing their fitness goals.
-
-The gym is fully equipped with a wide range of top-quality machines, including state-of-the-art cardio equipment and a variety of strength training tools. This ensures that members have access to effective workout options tailored to their specific needs. Whether you’re looking to improve cardiovascular health, build strength, or achieve overall wellness, Power World Gym provides the resources and environment to support your fitness journey.
-
-...
-
-[Data](articles/2a2c5a36.json)
-
-[Extended Data](ext_articles/2a2c5a36.ext.json)
-
----
-
-### ‘Rotary International District 3220 Conference creates hope for Sri Lanka’
-
-*2024-04-30 22:37:00* · [`islandlk`](http://island.lk/rotary-international-district-3220-conference-creates-hope-for-sri-lanka/) · `en`
-
-Rotary International is a worldwide network comprising 1.2 million corporate leaders in over 200 countries, dedicated to causes that improve the quality of lives and create a better world. Rotary educates and equips communities to stop the spread of life-threatening diseases like polio, HIV/AIDS, and malaria, whilst also improving and expanding access to low-cost and free health care in developing areas around the world and is the only service organization in the world to be afforded a permanent seat in the United Nations for its role in promoting peace and goodwill among nations.
-
-...
-
-[Data](articles/3e47ea84.json)
-
-[Extended Data](ext_articles/3e47ea84.ext.json)
-
----
-
-### Spell-binding presentation on climate by 14-year-old Lankan
-
-*2024-04-30 22:37:00* · [`islandlk`](http://island.lk/spell-binding-presentation-on-climate-by-14-year-old-lankan/) · `en`
-
-In a remarkable display of knowledge of and enthusiasm for the environment, 14-year-old student Akira Alagiyawanna from Wycherley International School, Colombo, delivered a captivating video address on climate phenomena at the University of California in Los Angeles – UCLA, during an Earth Day event on April 20.
-
-The event, hosted by the America-Sri Lanka Photographic Art Society in Los Angeles, provided a platform for Akira to share his insights with viewers, even from a distance.
-
-During his video address, Akira focused on explaining two important weather patterns: El Niño and La Niña. Using straightforward language and relatable examples, he made these complex topics easy to understand for viewers of all ages. He emphasized the significance of these natural occurrences in shaping global weather patterns, helping viewers grasp their importance in the broader context of climate change.
-
-...
-
-[Data](articles/82754ae3.json)
-
-[Extended Data](ext_articles/82754ae3.ext.json)
 
 ---

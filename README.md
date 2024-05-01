@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 19:03:46**
+As of **2024-05-01 19:18:45**
 
 ## Newspaper Stats
 
-*Scraped **22,120** Articles*
+*Scraped **22,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,855
 tamilmirrorlk | 2,579
 adaderanalk | 2,615
 virakesarilk | 3,337
-dailymirrorlk | 3,462
+dailymirrorlk | 3,463
 adaderanasinhalalk | 3,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,118 (100.0%) of 22,120 articles have been extended.
+22,120 (100.0%) of 22,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Large crowds at Anuradhapura NPP rally
+
+*2024-05-01 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Large-crowds-at-Anuradhapura-NPP-rally/110-281734) · `en`
+
+Thousands of supporters gathered for the National People’s Power May Day rally held at the Salgado Grounds in Anuradhapura this afternoon. The NPP procession, which commenced from the Walisinghe Harishchandra Ground, Anuradhapura proceeded to the Salgado Ground where the rally was held. Pix by B.G. Chathuranga
+
+◼️
+
+[Data](articles/03d242ac.json)
+
+---
 
 ### SLPP MP Gayashan joins UNP
 
@@ -41,6 +53,8 @@ Colombo, May 1 (Daily Mirror)- Sri Lanka Podujana Peramuna (SJB) Moneragala Dist
 ◼️
 
 [Data](articles/e8d8091d.json)
+
+[Extended Data](ext_articles/e8d8091d.ext.json)
 
 ---
 
@@ -77,6 +91,8 @@ Speaking at the NPP Matara District May Day rally, he said neither Ranil Wickrem
 ...
 
 [Data](articles/5f6d2baa.json)
+
+[Extended Data](ext_articles/5f6d2baa.ext.json)
 
 ---
 
@@ -2191,27 +2207,5 @@ Following the price revision, the new retail price of a 50 kg bag of cement will
 [Data](articles/560813ae.json)
 
 [Extended Data](ext_articles/560813ae.ext.json)
-
----
-
-### Sinophek reduced fuel prices
-
-*2024-05-01 10:45:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சினோபெக்கும்-எரிபொருள்-விலைகளைக்-குறைத்தது/175-336590) · `ta`
-
-Sinopac Energy Lanka reduced fuel prices: 92 octane petrol to Rs. 365, 95 octane to Rs. 420, Otto diesel to Rs. 333, and Super Diesel to Rs. 377.
-
-🟩
-
-Sinopac Energy Lanka has announced its amendment with the Ceylon Petroleum Corporation last night.
-
-Accordingly, the price of 92 octane petrol has been reduced by 3 rupees and its new retail price is Rs.. Is 365. 95 Octtane Petrol is reduced by 20 rupees and new retail price Rs.. 420.
-
-A liter of Otto diesel Rs.. 27 has been reduced and the current price is Rs.. Is 333. Meanwhile, Super Diesel has been reduced by a liter of 9 rupees and its new retail price is Rs.. 377.
-
-◼️
-
-[Data](articles/bd861dd2.json)
-
-[Extended Data](ext_articles/bd861dd2.ext.json)
 
 ---

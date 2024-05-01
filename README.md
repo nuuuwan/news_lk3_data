@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 08:53:19**
+As of **2024-05-01 09:03:55**
 
 ## Newspaper Stats
 
-*Scraped **21,991** Articles*
+*Scraped **21,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ dbsjeyarajcom | 232
 newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
-economynextcom | 1,247
+economynextcom | 1,248
 adalk | 1,841
 tamilmirrorlk | 2,553
 adaderanalk | 2,597
 virakesarilk | 3,316
 dailymirrorlk | 3,432
-adaderanasinhalalk | 3,555
+adaderanasinhalalk | 3,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,989 (100.0%) of 21,991 articles have been extended.
+21,991 (100.0%) of 21,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### බිහිසුණු ප්‍රහාරයකින් "Harry Potter castle" වැනසෙයි
+
+*2024-05-01 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196154) · `si`
+
+කළු මුහුදේ වරාය නගරයක් වන ඔඩෙසා වෙත එල්ල වූ රුසියානු මිසයිල ප්‍රහාරයකින් පුද්ගලයින් පස්දෙනෙකු මියගොස් තවත් 30 කට වැඩි පිරිසක් තුවාල ලබා ඇති බව යුක්‍රේනය පවසයි.
+
+විදෙස් වාර්තා සඳහන් කළේ මෙම ප්‍රහාරයෙන් "හැරී පොටර් කාසල්" නමින් හඳුන්වන අධ්‍යාපන ආයතනයක්ද ගිනිගෙන විනාශ වී ඇති බවය.
+
+රුසියාව මෙම ප්‍රහාරය සිදුකිරීම සඳහා බැලිස්ටික් මිසයිලයක් සහ පොකුරු බෝම්බ යොදා ගෙන ඇති බව යුක්‍රේනය පවසයි.
+
+ප්‍රහාරයෙන් තුවාල ලැබූ 30 දෙනා අතර ළමුන් දෙදෙනෙකු සහ ගැබිණි කාන්තාවක් ද වන බව සඳහන් වෙයි.
+
+ප්‍රහාරයෙන් නේවාසික ගොඩනැගිලි 20 කට ආසන්න ප්‍රමාණයකට ද හානි සිදුව ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/668f35a0.json)
+
+---
 
 ### Working to earn their living
 
@@ -41,6 +61,8 @@ Though it is May Day or workers' day today, people still struggle to earn their 
 ◼️
 
 [Data](articles/80ab50e9.json)
+
+[Extended Data](ext_articles/80ab50e9.ext.json)
 
 ---
 
@@ -70,21 +92,43 @@ Steps have been taken to reduce the Sinaperic Super diesel by Rs. 977.
 
 ---
 
-### இடியுடன் கூடிய மழைக்கு வாய்ப்பு
+### Chance for thunderstorms
 
 *2024-05-01 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-336586) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+"Thunderstorms possible after 2 pm, with snowfall in Central Provinces. Advised to take precautions."
 
-வடமேல் மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய, சப்ரகமுவ மற்றும் மத்திய மாகாணங்களில் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+P.P.. After 2.00 pm, there is a possibility of rain or thunderstorms.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.  R
+In the North Western Province, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+In some parts of the Central, Sabaragamuwa and Central Provinces, there is a snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.R
 
 ◼️
 
 [Data](articles/d538edce.json)
+
+[Extended Data](ext_articles/d538edce.ext.json)
+
+---
+
+### UNWRA thanks Sri Lanka for Gaza funds
+
+*2024-05-01 08:00:00* · [`economynextcom`](https://economynext.com/unwra-thanks-sri-lanka-for-gaza-funds-160676/) · `en`
+
+ECONOMYNEXT – The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) has thanked Sri Lanka for its financial contribution to address the humanitarian crisis in Gaza.
+
+Philippe Lazzarini, head of UNRWA, in a letter addressed to President Ranil Wickremesinghe, “expressed sincere appreciation for Sri Lanka’s substantial financial contribution towards addressing the humanitarian crisis in the Gaza Strip,” a statement by the president’s media division said.
+
+“Lazzarini emphasized the dire situation faced by over two million Palestinians in Gaza, particularly the majority who are Palestine Refugees under UNRWA’s mandate. Despite formidable challenges, UNRWA staff remain steadfast in delivering essential aid, advocating for adherence to international humanitarian law, and ensuring continuous humanitarian support across Gaza.”
+
+...
+
+[Data](articles/bb38d2ec.json)
 
 ---
 
@@ -1842,7 +1886,7 @@ On a year-on-year basis, the inflation of food group dropped to 2.9% in April 20
 
 ---
 
-### Sri Lanka consumer prices up 3.1-pct over 19-months, food down 4.6-pct
+### Sri Lanka inflation up 3.1-pct over 19-months, food down 4.6-pct
 
 *2024-04-30 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-prices-up-3-1-pct-over-19-months-food-down-4-6-pct-160688/) · `en`
 
@@ -2179,47 +2223,5 @@ The owner of the Gamanam is a resident of Nikaweratiya and is a storage control 
 [Data](articles/ed3f122e.json)
 
 [Extended Data](ext_articles/ed3f122e.ext.json)
-
----
-
-### Interim injury to the President and the Constitutional Council
-
-*2024-04-30 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196138) · `si`
-
-The Supreme Court issued an interim order to the President and the Constitution, preventing the recommendation from extending if the Chief Justice supports the Chief Justice's remand.
-
-🟩
-
-The Supreme Court has issued an interim order to the President and the Constitution to prevent the recommendation of the Supreme Court excending if the Chief Justice is for the remand of the Chief Justice.
-
-◼️
-
-[Data](articles/b31150c4.json)
-
-[Extended Data](ext_articles/b31150c4.ext.json)
-
----
-
-### Special cabinet deed submission by president to prohibit physiological punishment
-
-*2024-04-30 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/182348) · `ta`
-
-President Ranil Wickremesinghe submitted a special cabinet paper to amend the Penal Code and Criminal Case, aiming to prohibit physiological punishment nationwide. This move aligns with Sri Lanka's commitment to the Children's Convention, ensuring children's rights to safety and protection from violence. The United Nations and a high court ruling highlight the urgency of this amendment, given the detrimental effects of physiological punishment on children. The Cabinet has approved the proposal to amend laws to prohibit such punishment.
-
-🟩
-
-A special cabinet paper has been submitted by President Ranil Wickremesinghe to amend the Penal Code and Criminal Case to prohibit physiological punishment in all sectors of the country.
-
-The Children's Convention, signed by Sri Lanka as a member of the country, is included in the civil, political, economic, social and cultural rights of a child.
-
-A child under the safety of parents, legal guardians or other persons, including sexual abuse, and all kinds of physiological or psychological violence, etc.In Article 19 (1) of the society on child rights, it is indicated.
-
-The United Nations Committee on Child Rights has recently pointed out that the legal arrangements that are currently underway to implement physiological punishments in institutions and schools that are being implemented at home, in the backdrop of the home and alternative security, are inadequate, and that children are increasingly prevalent in children, including punishment and violence in the body.
-
-...
-
-[Data](articles/c81d2e88.json)
-
-[Extended Data](ext_articles/c81d2e88.ext.json)
 
 ---

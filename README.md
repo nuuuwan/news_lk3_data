@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 15:03:57**
+As of **2024-05-01 15:18:37**
 
 ## Newspaper Stats
 
-*Scraped **22,063** Articles*
+*Scraped **22,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,118 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,848
 tamilmirrorlk | 2,572
-adaderanalk | 2,605
+adaderanalk | 2,606
 virakesarilk | 3,329
-dailymirrorlk | 3,446
+dailymirrorlk | 3,451
 adaderanasinhalalk | 3,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,061 (100.0%) of 22,063 articles have been extended.
+22,063 (100.0%) of 22,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### ඇල්ලේ නායයෑම් අවදානම පිළිබඳ පරීක්ෂණය ඇරඹෙයි
+### Sri Lanka signs MoU with Saudi Arabia on investment promotion
+
+*2024-05-01 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98954/sri-lanka-signs-mou-with-saudi-arabia-on-investment-promotion) · `en`
+
+Sri Lanka’s Foreign Minister Ali Sabry and Saudi Arabia’s Minister of Investment Khalid Al Falih have signed a Memorandum of Understanding (MoU) on Investment Promotion between the two countries.
+
+This instrument, a long-felt need, will immensely help to promote investment opportunities in each other’s countries, the Embassy of Sri Lanka in Riyadh said.
+
+Meanwhile, Foreign Minister Sabry has also had a productive meeting with Faisal Alibrahim, Minister of Economy and Planning of the Kingdom of Saudi Arabia, during which both ministers discussed enhancement of economic cooperation including early finalization of a road map for greater economic cooperation.
+
+Both ministers also discussed regional and international issues of mutual interest, the statement added.
+
+Foreign Minister Ali Sabry is visiting Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development held in Riyadh, Saudi Arabia from 28-29 April 2024.
+
+◼️
+
+[Data](articles/523b479b.json)
+
+---
+
+### Debate aside, let’s reassure Sinhalese: No self-determination for North, East
+
+*2024-05-01 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debate-aside-lets-reassure-Sinhalese-No-self-determination-for-North-East/108-281722) · `en`
+
+Colombo, May 1 (Daily Mirror) - Apart from organizing a debate between Opposition Leader Sajith Premadasa and NPP Leader Anura Kumara Dissanayake, let us publicly reassure the Sinhalese people, perhaps in a solemn ceremony, that they will not allow the Northern and Eastern regions to gain the right to self-determination, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne urged today.
+
+Addressing the media, he said certain political parties attempting to violate the sovereignty of the country, but that the association has an issue with the President for not revealing this to the country.
+
+"The way the government and the Ministers are heading to is not correct. No decision was taken during the past one-and-a-half years by the subject Minister for the development of the public transport sector of the country. The President too does not interfere with the development of the transport sector.
+
+...
+
+[Data](articles/efa33d44.json)
+
+---
+
+### President at Kotagala May Day rally
+
+*2024-05-01 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-at-Kotagala-May-Day-rally/110-281721) · `en`
+
+President Ranil Wickremesinghe participated in the Ceylon Workers’ Congress May Day rally in Kotagala where he announced that the daily wage of plantation workers has been increased to Rs. 1,700. Pix by Ranjith Rajapakse
+
+◼️
+
+[Data](articles/7b601a8a.json)
+
+---
+
+### Ella landslide risk begins
 
 *2024-05-01 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196163) · `si`
 
-ඇල්ල, කරඳගොල්ල ප්‍රදේශයේ සක්‍රීය වෙමින් පවතින නායයෑම් තත්ත්වය පිළිබඳව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ භූ විද්‍යාඥයින් පිරිසක් අද (01) එහි පරීක්ෂණ කටයුතු ආරම්භ කළේය.
+Geologists from the National Building Research Organization (NBRO) began investigating landslide risks in the Ella area, including the Maligamuwa and Karandolla regions, after residents reported water issues related to the Uma Oya project.
 
-ආපදා කළමණාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා සහ බදුල්ල දිස්ත්‍රික් ලේකම්වරයා සහ ඇල්ල ප්‍රාදේශීය ලේකම්වරයාද මෙම කණ්ඩායම සමග එක්වී ඇත.
+🟩
 
-ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ මලිත්තගොල්ල නම් බෑවුම් සහිත ප්‍රදේශයේ නාය අවදානමක ලක්ෂණ දක්නට ලැබුණේ මීට දින කිහිපයකට පෙර සිටය.
+Geologists of the National Building Research Organization commenced investigations into the active landslide situation in the Karalanda area in Ella today.
 
-උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ මෙම තත්ත්වය ඇතිවූ බවට ප්‍රදේශවාසීන් චෝදනා කෙරූ අතර මේ පිළිබඳව කරුණු සොයාබැලීම සඳහා පසුගියදා ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ බදුල්ල දිස්ත්‍රික් නිලධාරීන් පිරිසක් එම ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වුණි.
+The Director General of the Disaster Management Department and the Badulla District Secretary and the Ella Divisional Secretary also joined the team.
 
-එහිදී තත්ත්වය පරීක්ෂා කර බැලූ ඔවුන් නාය අවදානමට හේතු වී ඇති ජල මාර්ග වෙනත් දිශාවකට යොමු කිරීමටද පියවර ගනු ලැබීය.
+The names of the names of the names of the names of the names of the names of the names of Maligamuwa, Ella - Karandolla area were signs a few days ago.
 
-ඒ අනුව අද එම ප්‍රදේශයට පැමිණි ජාතික ගොඩනැගිලි පරීක්ෂණ සංවිධානයේ භූ විද්‍යාඥයින් එහි පරීක්ෂණ ආරම්භ කළේය.
+Residents accused the area of ​​water with the filling of water with water to the Uma Oya project and recently visited the area.
+
+The situation, they were taken to direct the water risk of the landslides in another direction.
+
+Accordingly, the geologists of the National Building Investigation (NBRO) commenced investigations into the area.
 
 ◼️
 
 [Data](articles/a5a8dc66.json)
 
+[Extended Data](ext_articles/a5a8dc66.ext.json)
+
 ---
 
-### சடங்கு இல்லாத திருமணம் செல்லுபடியாகாது
+### Marriage without ritual is valid
 
 *2024-05-01 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடங்கு-இல்லாத-திருமணம்-செல்லுபடியாகாது/175-336608) · `ta`
 
-ஒவ்வொரு மதங்களுக்கும் மத சடங்குகள்  முக்கியமானவை. திருமணத்தின் போது, இந்த சடங்குகள் முக்கியமாக கடைப்பிடிக்கப்படும். சிலர், சடங்குகளைச் செய்யாது, பதிவு திருமணத்துடன் நிறைவு செய்துகொள்கின்றனர். எனினும், சமய சடங்குகள் செய்யப்படாத திருமணம் செல்லுப்படியாகாது என்று நீதிமன்றம் உத்தரவிட்டுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+A Uttar Pradesh couple challenged their marriage's validity in the Supreme Court, arguing it lacked Hindu rituals. The court emphasized the importance of rituals in Hindu marriages, stating that without them, the marriage is not valid under Hindu law. The Supreme Court also highlighted the significance of marriage in creating a family relationship.
 
-இந்தியாவின் உத்திரப் பிரதேச மாநிலத்தை சேர்ந்த தம்பதியினர் அவர்களது திருமணம் செல்லாது என அறிவிக்க வேண்டி உச்சநீதிமன்றத்தில் வழக்கு தொடர்ந்தனர்.இந்து முறைப்படி திருமண சடங்குகள் எதுவும் நடைபெறவில்லை எனவும் திருமண சான்றிதழ் பெற வேண்டி சிறிய விழா ஏற்பாடு செய்து உத்திரப் பிரதேச சட்டப்படி சான்றிதழ் பெற்றோம் எனவும் நீதிமன்றத்தில் தெரிவித்துள்ளனர்.
+🟩
 
-இதன்படி,  இந்து திருமண சட்டங்களின் படி நடத்தப்படாத திருமணங்கள் குறித்தும், அதனை ஒழுங்குபடுத்த கோரியும் உச்சநீதிமன்றத்தில் ஏற்கனவே பொதுநல மனுக்களும் தாக்கல் செய்யப்பட்டு இருந்தன.
+Religious rituals are important for each religion. During the wedding, these rituals are mainly observed. Some people do not perform rituals, and complete with registration marriage. However, there is an incident that the court has ordered that religious rituals are not valid.
+
+The couple from the Uttar Pradesh state of India have filed a case in the Supreme Court seeking to declare that their marriage is not valid. There have been no formal wedding rituals.
+
+Accordingly, welfare petitions have already been filed in the Supreme Court demanding the regulation of marriages that are not held in accordance with the Hindu marriage laws.
+
+The Supreme Court Judge has issued a series of order on these cases.. The marriage of Agni in Hindu marriage should be held with the rituals that are practiced and that the marriage ceremony should be held in accordance with Section 5 of the Hindu Marriage Act.
 
 ...
 
 [Data](articles/5e629088.json)
+
+[Extended Data](ext_articles/5e629088.ext.json)
 
 ---
 
@@ -119,6 +181,38 @@ Indonesia’s disaster mitigation agency (BNPB) said that all 843 residents livi
 [Data](articles/b8ac65ce.json)
 
 [Extended Data](ext_articles/b8ac65ce.ext.json)
+
+---
+
+### SLFP selects Wijeyadasa Rajapakshe as Presidential candidate
+
+*2024-05-01 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-selects-Wijeyadasa-Rajapakshe-as-Presidential-candidate/108-281720) · `en`
+
+Colombo, May 1 (Daily Mirror) - Former President Maithripala Sirisena said today that Justice Minister Dr. Wijeyadasa Rajapakshe will be the Presidential candidate representing the Sri Lanka Freedom Party (SLFP).
+
+He made this revelation during the commemoration ceremony of the late T.B. Ilangaratne.
+
+The former President said that Wijeyadasa Rajapakshe has the support of the majority of party members.
+
+Sirisena said he has previously served as President and pledged not to contest for the Presidency again.
+
+"Wijayadasa Rajapakshe will run for the upcoming Presidential election and we will offer him our full support," he said.
+
+◼️
+
+[Data](articles/97b8497b.json)
+
+---
+
+### Special trains bring UNP supporters for May Day rally
+
+*2024-05-01 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-trains-bring-UNP-supporters-for-May-Day-rally/110-281719) · `en`
+
+United National Party (UNP) supporters paticipating in the May Day rally today were transported to Colombo by special trains. UNP chairman and former Minister Vajira Abeywardene joined then from Ahangama. Two more special trains operate, one from Beliatta and another from Galle, to provide trainsport to the participants of the rally. Pix by D.G. Sugathapala
+
+◼️
+
+[Data](articles/f3f9a9e1.json)
 
 ---
 
@@ -359,6 +453,18 @@ Youngster Nangyal Kharoti, who made his international debut for Afghanistan in M
 [Data](articles/c8ba970f.json)
 
 [Extended Data](ext_articles/c8ba970f.ext.json)
+
+---
+
+### Do not politicise May Day rallies
+
+*2024-05-01 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Do-not-politicise-May-Day-rallies/110-281714) · `en`
+
+The New Labour People's Organization today staged a protest in front of the Fort Railway Station, demanding the government not politicise the May Day rallies. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/161d2cc3.json)
 
 ---
 
@@ -2081,157 +2187,5 @@ We can find out the benefits of that infinite commitment that we are all togethe
 [Data](articles/2a0a431b.json)
 
 [Extended Data](ext_articles/2a0a431b.ext.json)
-
----
-
-### Opposition Leader Sajith Premadasa
-
-*2024-05-01 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/182371) · `ta`
-
-Sajith Premadasa, opposition leader, emphasizes the need for a government that supports all citizens, especially the working class, amidst rising costs and unemployment. He criticizes the current government for failing to address these issues and calls for unity across ethnic, religious, and caste lines to protect workers' rights.
-
-🟩
-
-Opposition Leader Sajith Premadasa has said that this time in the election year, we should fulfill the responsibility of building a government that is responsible for the entire people of the country to stand on their own feet.
-
-He said this in a statement on International Labor Day.
-
-For many years, the people of our country have been celebrating May Day. Without any change in this terrible misery, this year is celebrated by the entire population of our country's workers.. Through the bogus wave, the country put an incompetent president in office.
-
-The rest is being carried out by the shadow of the people who lost the people's decree. In this case, even when May Day is celebrated this year, our working people face huge challenges.
-
-...
-
-[Data](articles/dfe61dd2.json)
-
-[Extended Data](ext_articles/dfe61dd2.ext.json)
-
----
-
-### May Day News of National People's Power
-
-*2024-05-01 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182370) · `ta`
-
-"International Labor Day 2024 highlights the struggle for workers' rights amidst global crises. The text emphasizes the need for a new socioeconomic system, criticizing the current regime for its corruption and destruction of the economy. It calls for the establishment of a new people's rule, focusing on a fair, multi-faceted economy based on production, and the eradication of corruption. The message is a call to action for a profound societal, economic, and political change."
-
-🟩
-
-At this moment, celebrating 2024 International Labor Day, the national people's power joins hands with the general public, including working people around the world.
-
-International Labor Day is one of the most loud voice of the working people who are martyred by the working rights of the working class for the rights of the ruling class when the ruling class suppresses the struggle for 8 hours of work.
-
-The general public, including working people around the world, celebrates International Labor Day amidst the greatest crises and pressure of history.
-
-The imperialist regime, the bankruptcy, and the unjust neo -liberal regime and the people of the working people, have been a tradition and a state of distress and disaster.
-
-Although the world is traveling in the 21st century, the majority of the world's population has been transformed into poor people.
-
-The number of people who die all over the world is hungry and the number of people who die. Children are expelled from education around the world.
-
-...
-
-[Data](articles/e42e1ab5.json)
-
-[Extended Data](ext_articles/e42e1ab5.ext.json)
-
----
-
-### Tourism Minister to fix new visa system issues by May 7
-
-*2024-05-01 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-Minister-to-fix-new-visa-system-issues-by-May-7/108-281700) · `en`
-
-Tourism Minister Harin Fernando has pledged to address technical issues  of the new visa system by May 7. This comes amid concerns of potential losses of 230,000 tourist arrivals and US$ 425 million in tourism earnings for the year.
-
-Sri Lanka shifted to a platform operated by IVS-GBS and VFS Global mid this month from the electronic travel authorisation system operated by Department of Immigration & Emigration. Under the new platform, a multiple entry visa was introduced at a cost of US$ 75, with each stay limited to maximum of 60-days.  However, single entry visa which was earlier offered by ETA was not among the options.
-
-An additional US$ 18.5 fee also charged as a service fee to the operator.
-
-“We do have a slight problem since we changed the visa system. We are clearly feeling the heat. On a personal level, I am very disappointed that this happened, but I have a collective responsibility as a cabinet minister,” he said.
-
-...
-
-[Data](articles/a88d9202.json)
-
-[Extended Data](ext_articles/a88d9202.ext.json)
-
----
-
-### Lucknow won Mumbai in the last over
-
-*2024-05-01 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182369) · `ta`
-
-Lucknow Super Giants beat Mumbai Indians by 4 wickets in IPL, with Mumbai's low total of 144. Key Mumbai performances included Ishahan Kishan and Nehhal Vadera's 53-run partnership.
-
-🟩
-
-Lucknov Super Giants won Mumbai Indians by 4 wickets in the Indian Premier League cricket match, which had a low total number on Tuesday (30) at the Lucknov Econna Stadium.
-
-In the 48th match of the 17th Indian Premier League chapter, Lucknov Super Giants lost 145 runs in 19.2 overs with a target of 145 runs by Mumbai Indians.
-
-The Mumbai Indians, which are 5 times, have failed in the IPL, and its final round is swinging.
-
-Arshin Kulkarni (0) lost the game in the first over. However KL. Rahul and Maccus Stoinis shared 58 runs in the 2nd wicket.
-
-However, Macass Stoinis was efficiently bowled out and shared 40 runs in the 3rd wicket with Sinna Hooda and gave the team a little hope.
-
-However, Both the Fire Hooda (18) and Macass Stoinis lost 16 runs.
-
-Macass Stoinis faced 45 balls and scored 62 runs with 7 pounds and 2 sixes.
-
-Following him, Ehtan Darner left with 6 runs. (133 - 6 wig.)
-
-However, Nicholas Poran (14 AE) and Grunal Pandya (1) have confirmed that Lucknow Super Giants won.
-
-...
-
-[Data](articles/d2657078.json)
-
-[Extended Data](ext_articles/d2657078.ext.json)
-
----
-
-### Colombo Consumer Price Index dips 0.8% in April despite festive demand
-
-*2024-05-01 01:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Consumer-Price-Index-dips-0-8-in-April-despite-festive-demand/108-281693) · `en`
-
-Colombo district prices have declined by 0.8 percent in April from a month ago. This was helped by the drop in both food and non-food prices in the month, in what appeared to be an idiosyncrasy as typically prices get a bump up during the festive month.
-
-Inflation measured by the Colombo Consumer Price Index (CCPI) fell after declining 1.9 percent in March, but the prices measured annually recorded a 1.5 percent increase.
-
-The inflation measured annually declined to 0.9 percent in March due to both lower prices and higher base effects last year.
-
-As a result, there were expectations for slightly higher prices in April from the level recorded in March.
-
-Food prices rose by 2.9 percent in April from a year ago, cooler than 3.8 percent in March while non-food prices rose by 0.9 percent, after declining by 0.5 percent a month ago.
-
-However, measured on a monthly basis, food prices have been on a deflation for the third month in a row. In April food prices fell by 1.0 percent.
-
-...
-
-[Data](articles/fff55fc2.json)
-
-[Extended Data](ext_articles/fff55fc2.ext.json)
-
----
-
-### UNP's Media Meeting in Colombo
-
-*2024-05-01 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/182368) · `ta`
-
-UNP's May Day event in Colombo, led by Akila Viraj Kariyawasam, highlights the party's gratitude to workers for rebuilding the nation, contrasting with other parties' focus on power. Ranil Wickremesinghe's leadership is credited with preventing the country's fall. UNP emphasizes its steadfast policy and cooperation with Wickremesinghe, aiming to support his efforts for economic and social development.
-
-🟩
-
-The party's deputy leader Akila Viraj Kariyawasam said that the United National Party (UNP) has organized the May Day on the theme of being a decent country that has not re -thanks to the working people who have helped the working people to build the fallen country, as other political parties are celebrating the foundation for power.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (30).
-
-It is not normal to build a falling country. Ranil Wickremesinghe, however, protected this country from falling. That is why all parties have created an environment where massive May Day meetings can be organized. Similarly, the development of a country is a huge matter.
-
-...
-
-[Data](articles/c4222099.json)
-
-[Extended Data](ext_articles/c4222099.ext.json)
 
 ---

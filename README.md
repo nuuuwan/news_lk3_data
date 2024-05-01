@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 16:49:30**
+As of **2024-05-01 17:04:03**
 
 ## Newspaper Stats
 
-*Scraped **22,091** Articles*
+*Scraped **22,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,849
 tamilmirrorlk | 2,578
-adaderanalk | 2,608
+adaderanalk | 2,609
 virakesarilk | 3,334
 dailymirrorlk | 3,455
 adaderanasinhalalk | 3,569
@@ -26,25 +26,51 @@ adaderanasinhalalk | 3,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,087 (100.0%) of 22,091 articles have been extended.
+22,091 (100.0%) of 22,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### இ .தொ .கா.  மே தினத்தில்  ஜனாதிபதி
+### Arjuna Ranatunga joins SJB’s May Day rally
+
+*2024-05-01 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98956/arjuna-ranatunga-joins-sjbs-may-day-rally) · `en`
+
+Former Sri Lankan cricket captain and former minister Arjuna Ranatunga joined the May Day rally of the Samagi Jana Balavegaya (SJB) which was held in the Thalawakele area this morning (May 01).
+
+Ranatunga had recently joined the Anti-Corruption Coalition led by former Minister of Sports Roshan Ranasinghe.
+
+One of the two main May Day rallies of SJB was held in the Thalawakele area this morning under the patronage of the Leader of the Opposition Sajith Premadasa this morning.
+
+Meanwhile, another rally of the SJB is currently being held in Chatham Street, Colombo.
+
+◼️
+
+[Data](articles/d517b430.json)
+
+---
+
+### E .a .a. President on May Day
 
 *2024-05-01 16:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-கா-மே-தினத்தில்-ஜனாதிபதி/175-336615) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாடு செய்த மே தின கொண்டாட்ட நிகழ்வுகள் கொட்டகலை பிரதேச சபை  பொது விளையாட்டு மைதானத்தில் புதன்கிழமை (01)  நடைபெற்றது.
+President Ranil Wickremesinghe addressed the May Day celebration, promising to tackle the country's decline, support the economy, and improve plantation workers' lives. He highlighted government efforts like the Aswesuma Project, salary increases, and strengthening the rupee. The event also focused on rural development, education, and the rights of hill country people, with a reminder of past efforts like plantation schools and citizens' rights.
 
-இதில்  ஜனாதிபதி ரணில் விக்கிரமசிங்க கலந்து கொண்டுள்ளதுடன் அவர் உரையாற்றுகையில்,  வீழ்ச்சியடைந்த நாட்டை பொறுப்பேற்கும் பொறுப்பு வழங்கப்பட்டது. ஸ்தீரமான பொருளாதாரத்தை கட்டுயெழுப்ப அமைச்சரவை பக்கபலமாக இருந்தது. அதேபோல் நாடு வீழ்ச்சியடைந்த காலப்பகுதியில் கூடுதலாக பாதிக்கப்பட்ட தோட்டத்தொழிலாளர்கள் நாட்டுக்கு அந்நிய செலாவணியை 2023 ஆம் ஆண்டில் கொண்டுவர காரணமாக அமைந்தார்கள் என்றார்.
+🟩
 
-தோட்டத்தொழிலாளர்களின் பிரச்சினைகளை தாம் ஒருபோதும் மறக்கப்போவதில்லை அவ்வாறு மறந்தாலும் ஜீவன் தொண்டமான் விடப்போவதில்லை என்று இதன்போது ஜனாதிபதி தெரிவித்தார்.
+The May Day celebration organized by the Ceylon Workers Congress was held on Wednesday (01) at the Kotagala Pradeshiya Sabha Public Playground.
+
+President Ranil Wickremesinghe addressed the gathering and was given the responsibility of taking responsibility for the declined country.. The cabinet supported the stupid economy. Similarly, during the decline of the country, additional plantation workers said that the country was responsible for bringing foreign exchange to the country by 2023.
+
+The President said that he would never forget the problems of plantation workers, even if he had forgotten that Jeevan Thondaman would not leave.
+
+Government officials have been paid a salary increase of Rs 10,000. The Aswesuma Project, the distribution of rice is being implemented. Tourism income is also increasing. The rupee has now been strengthened. Focus on the upcountry Rural Development and Education Development. I will try to get the rights of the people of the hill country.
 
 ...
 
 [Data](articles/df0447aa.json)
+
+[Extended Data](ext_articles/df0447aa.ext.json)
 
 ---
 
@@ -62,19 +88,27 @@ Another feature is the prominence given to MPs    G. L Peiris and Dilan Perera
 
 [Data](articles/8023e306.json)
 
+[Extended Data](ext_articles/8023e306.ext.json)
+
 ---
 
-### පොහොට්ටුවේ මන්ත්‍රී එජාප වේදිකාවට ගොඩවෙයි
+### Member of Poinse is on the UNP stage
 
 *2024-05-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196169) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගයාෂාන් නවනන්ද මහතා එක්සත් ජාතික පක්ෂ මැයි දින රැලියට සහභාගී වී තිබේ.
+Poinse member attended UNP rally led by Colombo May Palai, with a planned event at Sirisena Stadium.
 
-එක්සත් ජාතික පක්ෂ මැයි දින රලිය ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් කොළඹ මාළිගාවත්ත පී.ඩී. සිරිසේන ක්‍රීඩාංගණය ඉදිරිපිටදී පැවැත්වෙන අතර එහිදී මේ බව නිවේදනය කෙරුණි.
+🟩
+
+Mr. Gayashan Navananda and MP Gayashan Navananda has attended the rally of the UNP.
+
+UNP leader Colombo May Palai Colombo Maligawatta PD. The Sirisena stadium will be held in front of the stadium and this was announced.
 
 ◼️
 
 [Data](articles/74b25886.json)
+
+[Extended Data](ext_articles/74b25886.ext.json)
 
 ---
 
@@ -161,6 +195,8 @@ On October 14 last year, Indian Prime Minister Narendra Modi virtually flagged o
 ...
 
 [Data](articles/dc81645d.json)
+
+[Extended Data](ext_articles/dc81645d.ext.json)
 
 ---
 
@@ -2181,25 +2217,5 @@ Accordingly, a bus tariff revision can be made in July next July, he added.
 [Data](articles/b838df50.json)
 
 [Extended Data](ext_articles/b838df50.ext.json)
-
----
-
-### The price of all fuel types down
-
-*2024-05-01 08:01:26* · [`adalk`](https://www.ada.lk/breaking_news/සියලුම-ඉන්ධන-වර්ගවල-මිල-පහළට/11-409357) · `si`
-
-Ceylon Petroleum Corporation has reduced prices of all fuel types. Ceylon Petrol (92) is now 9 rupees, Lanka White Diesel 20 rupees, and Petrol Overtine 95 rupees.
-
-🟩
-
-Ceylon Petroleum Corporation has taken steps to reduce the prices of all fuel types. Accordingly, the Ceylon Petrol (92) Petrol (92) has been reduced from three rupees and Lanka white diesel from 30 rupees.
-
-Petrol Overtine 95 rupees twenty Rs. 9 rupees.
-
-◼️
-
-[Data](articles/b5feeb34.json)
-
-[Extended Data](ext_articles/b5feeb34.ext.json)
 
 ---

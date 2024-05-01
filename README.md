@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 12:05:26**
+As of **2024-05-01 12:18:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,020 (100.0%) of 22,027 articles have been extended.
+22,027 (100.0%) of 22,027 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,51 +50,75 @@ Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made
 
 ---
 
-### වතු සේවක වැටුප ඉහළට
+### Estate employee salary up
 
 *2024-05-01 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196159) · `si`
 
-වතු සේවකයින්ගේ වැටුප රුපියල් 1700කට වැඩිකර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced a Rs 1,700 increase in estate workers' salaries during Labor Day celebrations in Kotagala.
 
-කොටගල පැවති කම්කරු දින සැමරුම් උත්සවයකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+🟩
+
+President Ranil Wickremesinghe says that the salary of the estate workers has been increased by Rs 1,700.
+
+The President was speaking at a Labor Day celebrations held in Kotagala.
 
 ◼️
 
 [Data](articles/ebda4ba3.json)
 
+[Extended Data](ext_articles/ebda4ba3.ext.json)
+
 ---
 
-### விமான நிலையத்தில் நகைக் கடைக்கு அனுமதி
+### Permission to the jewelry shop at the airport
 
 *2024-05-01 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-நகைக்-கடைக்கு-அனுமதி/175-336595) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்தின் வெளியேறும் பகுதியில் நகைக் கடை நடாத்துவதற்கான ஒப்பந்தகாரர்களை அழைப்பதற்கான முன்மொழிவுக்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளது.
+The Cabinet has approved a proposal to invite contractors to operate a jewelry shop at the exit of Katunayake airport, following the International Competitive Purchase System.
 
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் புதிய வர்த்தக வாய்ப்பாக தங்க வணிகம் ஒன்றை அமைப்பது குறித்து பரிசீலிக்கப்பட்டு, இது தொடர்பான முன்மொழிவுகள் விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை (தனியார்)) நிறுவனத்தால் சமர்ப்பிக்கப்பட்டுள்ளது.
+🟩
 
-தற்போது இந்த வசதி கட்டுநாயக்க விமான நிலையத்தில் இல்லை எனவே புறப்படும்/போக்குவரத்து பகுதியில் தங்கக் கடையை அமைக்க AASL  திட்டமிட்டுள்ளது.
+The Cabinet has approved the proposal to invite contractors to run the jewelery shop in the exit of the Katunayake airport.
 
-அந்தவகையில், சர்வதேச போட்டி கொள்வனவு முறையைப் பின்பற்றி இதற்கான பொருத்தமான செயற்பாட்டாளரைத் தெரிவு செய்வதற்கு, ஒப்பந்தம் கோருவதற்கு, சர்வதேச போட்டிக் கொள்வனவு முறையைப் பின்பற்றி ஒப்பந்தகாரர்களை அழைப்பதற்கு துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+It has been considering the establishment of a gold business at the Katunayake Bandaranaike International Airport, and the proposals have been submitted by airports and airports (Sri Lanka (private)).
+
+The AASL is currently planning to set up a gold shop in the departure/transport area.
+
+In that respect, the Cabinet has approved the proposal put forward by the Minister of Ports, Shipping and Aviation to invite contractors following the International Competitive Purchase System, following the International Competitive Procurement System.
 
 ◼️
 
 [Data](articles/3b19a211.json)
 
+[Extended Data](ext_articles/3b19a211.ext.json)
+
 ---
 
-### இலங்கை தம்பதி உட்பட 8 பேர் கைது
+### 8 arrested including Sri Lankan couple
 
 *2024-05-01 11:21:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தம்பதி-உட்பட-8-பேர்-கைது/175-336594) · `ta`
 
-தனுஷ்கோடி கடல் வழியாக படகில் சட்டவிரோதமாக இலங்கைக்கு  தப்பிச் செல்ல முயன்ற இலங்கை தம்பதி இருவர் மற்றும் இலங்கைக்கு  தப்பிச் செல்ல உதவிய ஆறு பேர் என  8 பேரை கைது செய்த தங்கச்சிமடம் பொலிஸார் தீவிரமாக விசாரணை நடத்தி வருகின்றனர்.
+Eight, including a Sri Lankan couple, arrested for illegal boat escape. Thangachimadam police investigate, linking Chennai residents to Vavuniya smugglers.
 
-ராமநாதபுரம் மாவட்டம் வேதாளை பகுதியைச் சேர்ந்த சைபுல்லா நவீத், இம்ரான், நைனா முகமது, ரகுமான் உள்ளிட்ட நான்கு பேர் செவ்வாய்க்கிழமை (30)  இரவு தங்கச்சி மடம் பேருந்து நிலையத்தில் நின்று பேசிக் கொண்டிருந்தனர்.
+🟩
 
-அவர்கள் நால்வர் மீதும் முன்னதாக இலங்கைக்கு ஆட்களை சட்டவிரோதமாக அனுப்பி வைத்த வழக்கு நிலுவையில் உள்ள நிலையில் சந்தேகமடைந்த  இரவு ரோந்து பணியில் ஈடுபட்டிருந்த தங்கச்சிமடம் பொலிஸார் நால்வரையும் பிடித்து விசாரித்தனர்.
+The Thangachimadam police are actively investigating the arrest of two Sri Lankan couples who were trying to escape to Sri Lanka by boat by a boat by a boat.
+
+Four people, including Saibullah Naveed, Imran, Naina Mohammed and Raghuman from Vedalai, Ramanathapuram district, were standing at the Thangachi Math bus stand on Tuesday night.
+
+The four -year -old police, who were on the night patrol, were arrested by the four men who were illegally sending the Sri Lankan men to Sri Lanka.
+
+Vinod Kumar and Ganesan Lingam from Chennai have been illegally sent to Sri Lanka by boat to Sri Lanka by the couple, Shanti and Rajeswaran, who were from Vavuniya in Vavuniya.
+
+Following this, Ganesalingam and Vinod Kumar, who had received the money from Rajeswaran, had contacted Naveed Imran of Vedala and sent them to Sri Lanka.
+
+Rajeswaran, Shanti, Ganesalingam and Vinod Kumar were then from Chennai two days ago. Rameshwaram departed and stayed at a resort next to the gold medal.
 
 ...
 
 [Data](articles/53891b6d.json)
+
+[Extended Data](ext_articles/53891b6d.ext.json)
 
 ---
 
@@ -118,19 +142,25 @@ Joining the commemoration ceremony of the late T.B. Ilangaratne, Sirsena assured
 
 ---
 
-### பஸ் கட்டணங்கள் குறையாது ஆனால் குறைப்போம்
+### Bus charges will not be reduced but we will reduce
 
 *2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறையாது-ஆனால்-குறைப்போம்/175-336593) · `ta`
 
-டீசல் விலை குறைக்கப்பட்டாலும் பஸ் கட்டணத்தை குறைக்க இயலாது என பஸ் உரிமையாளர்கள்  சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+Despite diesel price drop, bus fare remains unchanged. Gemunu Wijeratne, Sri Lanka Private Bus Owners Association president, suggests bus fares might decrease in July.
 
-இதேவேளை, ஜூலை மாதத்திலேயே பஸ் கட்டணங்களை குறைக்க முடியும் என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+🟩
 
-நேற்று(30) நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Bus Owners Association President Gemunu Wijeratne said that the bus fare was not reduced even if the diesel prices were reduced.
+
+Meanwhile, bus fares can be reduced in July, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.
+
+It is noteworthy that the prices of fuel have been reduced from midnight yesterday (30). Remble
 
 ◼️
 
 [Data](articles/2aab467f.json)
+
+[Extended Data](ext_articles/2aab467f.ext.json)
 
 ---
 
@@ -173,6 +203,8 @@ Therefore, the public is requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/a5c3acc9.json)
+
+[Extended Data](ext_articles/a5c3acc9.ext.json)
 
 ---
 
@@ -247,6 +279,8 @@ Following the price revision, the new retail price of a 50 kg bag of cement will
 ◼️
 
 [Data](articles/560813ae.json)
+
+[Extended Data](ext_articles/560813ae.ext.json)
 
 ---
 

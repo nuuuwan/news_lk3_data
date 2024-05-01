@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 07:45:49**
+As of **2024-05-01 08:09:27**
 
 ## Newspaper Stats
 
-*Scraped **21,982** Articles*
+*Scraped **21,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ tamilmirrorlk | 2,552
 adaderanalk | 2,597
 virakesarilk | 3,316
 dailymirrorlk | 3,428
-adaderanasinhalalk | 3,552
+adaderanasinhalalk | 3,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,971 (99.9%) of 21,982 articles have been extended.
+21,981 (100.0%) of 21,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### කොළඹ ආරක්ෂාව ගැන පොලීසිය කළ දැනුම්දීම
+
+*2024-05-01 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196152) · `si`
+
+මැයි දින රැළි සහ පෙළපාළි හේතුවෙන් කොළඹ නගරය තුළ විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කර ඇති බව පොලීසිය පවසයි.
+
+එසේම ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් දසදහසක් යොදවා ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+මේ අතර පෙළපාළි සඳහා ජනතාව රැගෙන එන විනය විරෝධී බස්රථ රියදුරන් සම්බන්ධයෙන් දැඩිව නීතිය ක්‍රියාත්මක කරන බව නිහාල් තල්දූව මහතා වැඩිදුරටත් පැවසීය.
+
+එසේම කටුනායක ගුවන්තොටුපොළ වෙත ගමන්කරන වාහන සහ ගිලන් රථ, රෝහල් වෙත රෝගීන් රැගෙන යන රථ සඳහා මාර්ගයේ ගමන්කිරීම සඳහා පහසුකම් සපයා ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+එසේම, ත්‍රිවිධ හමුදා ප්‍රධානීන් ඒකාබද්ධව 1,600 කට ආසන්න භට සංඛ්‍යාවක් අදාළ කදවුරුවල පොරොත්තු සේවයේ තැබීමටත් සියලු කටයුතු සුදානම් කර ඇත.
+
+◼️
+
+[Data](articles/293a8dd3.json)
+
+---
+
+### ශ්‍රී ලංකාව තීරණාත්මක සන්ධිස්ථානයක - ජනපති
+
+*2024-05-01 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196151) · `si`
+
+ඉල්ලීම්, අයිතිවාසිකම් වෙනුවෙන් කළ සටනක ප්‍රතිඵලයක් ලෙස ආරම්භ වූ ලෝක කම්කරු දිනයේ 138 වන සැමරුම වනවිට ශ්‍රී ලංකාව තීරණාත්මක සන්ධිස්ථානයකට පැමිණ ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+සිය කම්කරු දින පණිවිඩයෙන් ඔහු පෙන්වා දෙන්නේ රටේ ආර්ථිකය ශක්තිමත් කරමින් ඉදිරියට ගෙනයෑමේ වගකීම සියලුදෙනාටම පැවරෙන බවය.
+
+සමූහිකත්වයෙන් යුතුව වැඩකිරීම මගින් එය ජයගැනීමේ හැකියාව පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය කම්කරු දින පණිවිඩයේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+ආර්ථික අර්බුදය හමුවේ මෙරට කම්කරු ජනතාව එය නොසැළී විඳදරාගැනීම ප්‍රසංශනීය බව එම පණිවිඩයේ දැක්වෙයි.
+
+කම්කරු ජනතාව තවදුරටත් දිළිඳු ජනතාවක් ලෙස රඳවා ගැනිම රජයේ අරමුණ නොවන බැවින් අරගලයකින් තොරව ඔවුනගේ අයිතිවාසිකම් දිනාදීම වෙනුවෙන් කැපවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කම්කරු දින පණිවිඩයේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+මේ අතර වැඩකරන ජනතාව ලෙයින් දහදියෙන් ජීවිත පරිත්‍යාගයෙන් ගමන් කළා වූ ඉතිහාස සටහන් මත අප 138 වන වරට ලෝක කම්කරු දිනය සමරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+
+...
+
+[Data](articles/7da41339.json)
+
+---
 
 ### Labor Day - Chief Party Party May Day Radies
 
@@ -548,19 +590,27 @@ The highlight is that this day has been declared an official holiday in many cou
 
 ---
 
-### ’உமா ஓயா திட்டம் தொடர்பில் பிரச்சினை இல்லை’
+### No problem with Uma Oya project
 
 *2024-05-01 00:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-திட்டம்-தொடர்பில்-பிரச்சினை-இல்லை/175-336585) · `ta`
 
-உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டம் மக்கள் பாவனைக்காக கையளிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புடையதாக மண்சரிவுகளோ வேறு பிரச்சினைக்குரிய நிகழ்வுகளோ இதுவரை பதிவாகவில்லை என  மின்சக்தி இராஜாங்க அமைச்சர் அனுருத்த ஹேரத் தெரிவித்துள்ளார்.
+Anurutha Herath, Minister of Power and Electricity, stated that the Uma Oya Multi-Purpose Development Program, now public, has no landslides or issues. Despite a $587 million loss over nine years, the project failed to generate power or integrate into the national structure. Critics claim misleading media about landslides, but no confirmed incidents have been reported. Geographers will survey the area for cracks and waterproofing issues.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  குறிப்பிட்டுள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-உமாஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை நிறைவு செய்வதில் 09 வருடங்கள் தாமதம் ஏற்பட்டதன் காரணமாக நாட்டுக்கு பாரிய நஷ்டம் ஏற்பட்டுள்ளது. இதன்படி, கடந்த 09 ஆண்டுகளில் ஏற்பட்ட இழப்பு 587 மில்லியன் டொலர்கள் என மதிப்பிடப்பட்டுள்ளது. இந்த திட்டத்தின் ஆரம்ப மதிப்பீடு 529 மில்லியன் டொலர்களாக பதிவு செய்யப்பட்டது.
+The Minister of Power and Electricity, Anurutha Herath, said that after the Uma Oya Multi -Purpose Development Program was handed over to the public, there were no landslides or other problems.
+
+He made this statement at a press conference held at the Presidential Media Center yesterday. He further stated that
+
+The country has suffered a huge loss due to the delay in completing the Umoya Multipurpose Development Program. Accordingly, the loss in the last nine years is estimated at $ 587 million. The initial estimate of the project was recorded at $ 529 million.
+
+However, in the last nine years, the Uma Oya project was unable to produce power generation through the project and was unable to be included in the national structure.. In addition, the Uma Oya project seems to be conducting media programs that have been misleading people claiming that the project has caused landslides as the project has been added to the national structure.
 
 ...
 
 [Data](articles/5bed73c7.json)
+
+[Extended Data](ext_articles/5bed73c7.ext.json)
 
 ---
 
@@ -842,6 +892,8 @@ The event was complemented by an e-waste collection program at the municipal cou
 
 [Data](articles/14dc8207.json)
 
+[Extended Data](ext_articles/14dc8207.ext.json)
+
 ---
 
 ### Power World Gyms Welisara branch moves to new location
@@ -856,6 +908,8 @@ The gym is fully equipped with a wide range of top-quality machines, including s
 
 [Data](articles/2a2c5a36.json)
 
+[Extended Data](ext_articles/2a2c5a36.ext.json)
+
 ---
 
 ### ‘Rotary International District 3220 Conference creates hope for Sri Lanka’
@@ -867,6 +921,8 @@ Rotary International is a worldwide network comprising 1.2 million corporate lea
 ...
 
 [Data](articles/3e47ea84.json)
+
+[Extended Data](ext_articles/3e47ea84.ext.json)
 
 ---
 
@@ -883,6 +939,8 @@ During his video address, Akira focused on explaining two important weather patt
 ...
 
 [Data](articles/82754ae3.json)
+
+[Extended Data](ext_articles/82754ae3.ext.json)
 
 ---
 
@@ -903,6 +961,8 @@ The All Share Price Index went up by 57.56 points, while the S and P SL 20 rose 
 ...
 
 [Data](articles/e0d8d095.json)
+
+[Extended Data](ext_articles/e0d8d095.ext.json)
 
 ---
 
@@ -1275,6 +1335,8 @@ Bonza’s eight planes – a Boeing 737 Max fleet – were repossessed by credit
 ...
 
 [Data](articles/9584df44.json)
+
+[Extended Data](ext_articles/9584df44.ext.json)
 
 ---
 
@@ -2149,43 +2211,5 @@ However, at least one of the factions has planned a Labour Day rally for Wednesd
 [Data](articles/ee32a96d.json)
 
 [Extended Data](ext_articles/ee32a96d.ext.json)
-
----
-
-### Weather advisory issued for severe lightning
-
-*2024-04-30 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98939/weather-advisory-issued-for-severe-lightning) · `en`
-
-The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Sabaragamuwa provinces and in and Galle, Matara and Puttalam districts, it said.
-
-There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/56153b8c.json)
-
-[Extended Data](ext_articles/56153b8c.ext.json)
-
----
-
-### Court defers verdict in Rathupaswala shooting case
-
-*2024-04-30 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98938/court-defers-verdict-in-rathupaswala-shooting-case) · `en`
-
-The Gampaha High Court the Trial-at-Bar has deferred delivering the verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army over the shooting to death of three persons and injuring several others during a protest by villagers demanding clean drinking water at Rathupaswala, Gampaha.
-
-The court was scheduled to deliver its verdict today (30), however when the case was taken up the Trial-at-Bar announced that the verdict will be delivered on May 17, 2024.
-
-On the 1st of August in 2013, army personnel opened fire at unarmed locals at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
-
-In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
-
-◼️
-
-[Data](articles/56ba24d4.json)
-
-[Extended Data](ext_articles/56ba24d4.ext.json)
 
 ---

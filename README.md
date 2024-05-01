@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 08:09:27**
+As of **2024-05-01 08:18:30**
 
 ## Newspaper Stats
 
-*Scraped **21,984** Articles*
+*Scraped **21,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,72 @@ adalk | 1,840
 tamilmirrorlk | 2,552
 adaderanalk | 2,597
 virakesarilk | 3,316
-dailymirrorlk | 3,428
+dailymirrorlk | 3,431
 adaderanasinhalalk | 3,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,981 (100.0%) of 21,984 articles have been extended.
+21,984 (100.0%) of 21,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### කොළඹ ආරක්ෂාව ගැන පොලීසිය කළ දැනුම්දීම
+### Notice of Colombo Security
 
 *2024-05-01 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196152) · `si`
 
-මැයි දින රැළි සහ පෙළපාළි හේතුවෙන් කොළඹ නගරය තුළ විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කර ඇති බව පොලීසිය පවසයි.
+Colombo's May Day security plan involves 10,000 police officers, road clearances for emergency services, and 1,600 troops with the Armed Forces Chiefs.
 
-එසේම ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් දසදහසක් යොදවා ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+🟩
 
-මේ අතර පෙළපාළි සඳහා ජනතාව රැගෙන එන විනය විරෝධී බස්රථ රියදුරන් සම්බන්ධයෙන් දැඩිව නීතිය ක්‍රියාත්මක කරන බව නිහාල් තල්දූව මහතා වැඩිදුරටත් පැවසීය.
+A special traffic plan has been implemented in Colombo due to May Day waves and rallies, police said.
 
-එසේම කටුනායක ගුවන්තොටුපොළ වෙත ගමන්කරන වාහන සහ ගිලන් රථ, රෝහල් වෙත රෝගීන් රැගෙන යන රථ සඳහා මාර්ගයේ ගමන්කිරීම සඳහා පහසුකම් සපයා ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+Attorney at Law Nihal Talduuwa said that 10,000 police officers have been deployed for security.
 
-එසේම, ත්‍රිවිධ හමුදා ප්‍රධානීන් ඒකාබද්ධව 1,600 කට ආසන්න භට සංඛ්‍යාවක් අදාළ කදවුරුවල පොරොත්තු සේවයේ තැබීමටත් සියලු කටයුතු සුදානම් කර ඇත.
+Meanwhile, Nihal Talduuwa added that the law is being implemented in connection with anti-disciplinary bus drivers carrying the people for parades.
+
+The Police Media Spokesperson (SLMC) has also facilitated the road to the Katunayake airport and the road to the ambulances and hospital vehicles.
+
+Also, all arrangements have been prepared to set up nearly 1,600 troops in conjunction with the Chiefs of the Armed Forces.
 
 ◼️
 
 [Data](articles/293a8dd3.json)
 
+[Extended Data](ext_articles/293a8dd3.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව තීරණාත්මක සන්ධිස්ථානයක - ජනපති
+### Sri Lanka is crucial turning point - President
 
 *2024-05-01 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196151) · `si`
 
-ඉල්ලීම්, අයිතිවාසිකම් වෙනුවෙන් කළ සටනක ප්‍රතිඵලයක් ලෙස ආරම්භ වූ ලෝක කම්කරු දිනයේ 138 වන සැමරුම වනවිට ශ්‍රී ලංකාව තීරණාත්මක සන්ධිස්ථානයකට පැමිණ ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlights Sri Lanka's crucial turning point, emphasizing the role of labor in the economy and the resilience of the public during economic challenges. Prime Minister Dinesh Gunawardena acknowledges the sacrifices of workers and the importance of Labor Day in appreciating their contributions to the economy.
 
-සිය කම්කරු දින පණිවිඩයෙන් ඔහු පෙන්වා දෙන්නේ රටේ ආර්ථිකය ශක්තිමත් කරමින් ඉදිරියට ගෙනයෑමේ වගකීම සියලුදෙනාටම පැවරෙන බවය.
+🟩
 
-සමූහිකත්වයෙන් යුතුව වැඩකිරීම මගින් එය ජයගැනීමේ හැකියාව පවතින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය කම්කරු දින පණිවිඩයේ වැඩිදුරටත් සඳහන් කර ඇත.
+President Ranil Wickremesinghe says Sri Lanka has reached a crucial turning point at the 138th Celebration of the World Labor Day, which began as a result of demands and rights.
 
-ආර්ථික අර්බුදය හමුවේ මෙරට කම්කරු ජනතාව එය නොසැළී විඳදරාගැනීම ප්‍රසංශනීය බව එම පණිවිඩයේ දැක්වෙයි.
+By the message of the Labor Day, he points out that it is responsible for all to bring about the country's economy.
 
-කම්කරු ජනතාව තවදුරටත් දිළිඳු ජනතාවක් ලෙස රඳවා ගැනිම රජයේ අරමුණ නොවන බැවින් අරගලයකින් තොරව ඔවුනගේ අයිතිවාසිකම් දිනාදීම වෙනුවෙන් කැපවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කම්කරු දින පණිවිඩයේ වැඩිදුරටත් සඳහන් කර ඇත.
+President Ranil Wickremesinghe has further stated that it is the potential to win the crowd.
 
-මේ අතර වැඩකරන ජනතාව ලෙයින් දහදියෙන් ජීවිත පරිත්‍යාගයෙන් ගමන් කළා වූ ඉතිහාස සටහන් මත අප 138 වන වරට ලෝක කම්කරු දිනය සමරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+In the face of the economic crisis, the public is commending the endurance of it.
+
+According to the Labor Day Message, President Ranil Wickremesinghe's Labor Day is further stated that they are not a poor people to be devoted as poor.
+
+Meanwhile, Prime Minister Dinesh Gunawardena says that the World Labor Day will celebrate the World Labor Day for the history of the working notes that the working people have sacrificed their lives in blood.
+
+The post-he-stakeholder pointed out that the workplace was also critical of the workplace this time.
 
 ...
 
 [Data](articles/7da41339.json)
+
+[Extended Data](ext_articles/7da41339.ext.json)
 
 ---
 
@@ -504,6 +518,24 @@ The number of people who die all over the world is hungry and the number of peop
 
 ---
 
+### Tourism Minister to fix new visa system issues by May 7
+
+*2024-05-01 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-Minister-to-fix-new-visa-system-issues-by-May-7/108-281700) · `en`
+
+Tourism Minister Harin Fernando has pledged to address technical issues  of the new visa system by May 7. This comes amid concerns of potential losses of 230,000 tourist arrivals and US$ 425 million in tourism earnings for the year.
+
+Sri Lanka shifted to a platform operated by IVS-GBS and VFS Global mid this month from the electronic travel authorisation system operated by Department of Immigration & Emigration. Under the new platform, a multiple entry visa was introduced at a cost of US$ 75, with each stay limited to maximum of 60-days.  However, single entry visa which was earlier offered by ETA was not among the options.
+
+An additional US$ 18.5 fee also charged as a service fee to the operator.
+
+“We do have a slight problem since we changed the visa system. We are clearly feeling the heat. On a personal level, I am very disappointed that this happened, but I have a collective responsibility as a cabinet minister,” he said.
+
+...
+
+[Data](articles/a88d9202.json)
+
+---
+
 ### Lucknow won Mumbai in the last over
 
 *2024-05-01 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/182369) · `ta`
@@ -535,6 +567,28 @@ However, Nicholas Poran (14 AE) and Grunal Pandya (1) have confirmed that Luckno
 [Data](articles/d2657078.json)
 
 [Extended Data](ext_articles/d2657078.ext.json)
+
+---
+
+### Colombo Consumer Price Index dips 0.8% in April despite festive demand
+
+*2024-05-01 01:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Consumer-Price-Index-dips-0-8-in-April-despite-festive-demand/108-281693) · `en`
+
+Colombo district prices have declined by 0.8 percent in April from a month ago. This was helped by the drop in both food and non-food prices in the month, in what appeared to be an idiosyncrasy as typically prices get a bump up during the festive month.
+
+Inflation measured by the Colombo Consumer Price Index (CCPI) fell after declining 1.9 percent in March, but the prices measured annually recorded a 1.5 percent increase.
+
+The inflation measured annually declined to 0.9 percent in March due to both lower prices and higher base effects last year.
+
+As a result, there were expectations for slightly higher prices in April from the level recorded in March.
+
+Food prices rose by 2.9 percent in April from a year ago, cooler than 3.8 percent in March while non-food prices rose by 0.9 percent, after declining by 0.5 percent a month ago.
+
+However, measured on a monthly basis, food prices have been on a deflation for the third month in a row. In April food prices fell by 1.0 percent.
+
+...
+
+[Data](articles/fff55fc2.json)
 
 ---
 
@@ -587,6 +641,26 @@ The highlight is that this day has been declared an official holiday in many cou
 [Data](articles/847ec31c.json)
 
 [Extended Data](ext_articles/847ec31c.ext.json)
+
+---
+
+### ‘Serenade of the Seas’ makes maiden call at H’tota port
+
+*2024-05-01 00:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Serenade-of-the-Seas-makes-maiden-call-at-Htota-port/108-281698) · `en`
+
+Cruise ship ‘Serenade of the Seas’ made her maiden call at the Hambantota International Port (HIP) this Monday (29).
+
+HIP CEO, Captain Ravi Jayawickreme presenting Captain Kjell Nordmo with a plaque to mark the maiden call
+
+The luxury liner, which carried 1,950 passengers and 890 crew members, was the 10th cruise ship to call at HIP for the year 2024.
+
+The ‘Serenade of the Seas’ launched in 2003 is one of global cruise shipping company, Royal Caribbean International’s Radiance Class vessels built to travel to far flung exotic destinations.
+
+The port welcomed the ship with a plaque presentation held on board. Officials of HIPG & HIPS along with representatives from the local vessel agents, Prudential Shipping, attended the event. The liner’s next call is the Colombo Port.
+
+◼️
+
+[Data](articles/0471e568.json)
 
 ---
 
@@ -2143,73 +2217,5 @@ Reserves – Shubman Gill, Rinku Singh, Khaleel Ahmed and Avesh Khan
 [Data](articles/b1428381.json)
 
 [Extended Data](ext_articles/b1428381.ext.json)
-
----
-
-### Sri Lanka stocks close up, capital goods drive turnover
-
-*2024-04-30 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-capital-goods-drive-turnover-160670/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.42 percent, or 52.00 points, at 12,362; while the S&P SL20 Index closed up 0.16 percent, or 5.89 points, at 3,691.
-
-Turnover was at 3.8 billion. 1.2 of this came from the capital goods sector.
-
-Royal Ceramics Lanka Plc saw the most active trading volumes (Rs222mn) in the day, and the share closed up at 33.60.
-
-Janashakthi Insurance Plc, which announced a cash dividend, also saw interest, and the share closed up at 53.20.
-
-Major positive contributors to the ASPI included Central Finance Company Plc (up at 122.75), Lion Brewery (Ceylon) Plc (up at 1,200.00), Browns Investments Plc (up at 6.60), Ceylon Tobacco Company Plc (up at 1,289.25), and John Keells Holdings Plc (up at 209.50). (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/eb31cdbf.json)
-
-[Extended Data](ext_articles/eb31cdbf.ext.json)
-
----
-
-### Sri Lanka Freedom Party majority will back president in broad alliance: state minister
-
-*2024-04-30 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-majority-will-back-president-in-broad-alliance-state-minister-160669/) · `en`
-
-ECONOMYNEXT — A majority of the Sri Lanka Freedom Party (SLFP) will join President Ranil Wickremesinghe in a broad alliance in support of his development agenda, State Minister of Foreign Affairs Tharaka Balasuriya said.
-
-Speaking to reporters, Balasuriya said members of the SLFP including Aviation Minister Nimal Siripala de Silva come on board the president’s ongoing development agenda.
-
-“This is not a programme built on fairy tales. It president is following an agenda that is sustainable in the long term. I think development activities will happen rapidly this year. We can expedite development activities after debt restructuring has been completed,” said Balasuriya.
-
-The SLFP is currently embroiled in an unprecedented crisis, with the party fractured into several factions.
-
-However, at least one of the factions has planned a Labour Day rally for Wednesday May 01.
-
-...
-
-[Data](articles/0c4650f4.json)
-
-[Extended Data](ext_articles/0c4650f4.ext.json)
-
----
-
-### Sri Lanka Freedom Party majority will back president in broad alliance: state minister
-
-*2024-04-30 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-majority-will-back-president-in-broad-alliance-state-miniser-160669/) · `en`
-
-ECONOMYNEXT — A majority of the Sri Lanka Freedom Party (SLFP) will join President Ranil Wickremesinghe in a broad alliance in support of his development agenda, State Minister of Foreign Affairs Tharaka Balasuriya said.
-
-Speaking to reporters, Balasuriya said members of the SLFP including Aviation Minister Nimal Siripala de Silva come on board the president’s ongoing development agenda.
-
-“This is not a programme built on fairy tales. It president is following an agenda that is sustainable in the long term. I think development activities will happen rapidly this year. We can expedite development activities after debt restructuring has been completed,” said Balasuriya.
-
-The SLFP is currently embroiled in an unprecedented crisis, with the party fractured into several factions.
-
-However, at least one of the factions has planned a Labour Day rally for Wednesday May 01.
-
-...
-
-[Data](articles/ee32a96d.json)
-
-[Extended Data](ext_articles/ee32a96d.ext.json)
 
 ---

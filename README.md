@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 09:52:53**
+As of **2024-05-01 10:04:24**
 
 ## Newspaper Stats
 
-*Scraped **22,003** Articles*
+*Scraped **22,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ economynextcom | 1,248
 adalk | 1,842
 tamilmirrorlk | 2,555
 adaderanalk | 2,599
-virakesarilk | 3,319
-dailymirrorlk | 3,433
-adaderanasinhalalk | 3,557
+virakesarilk | 3,320
+dailymirrorlk | 3,434
+adaderanasinhalalk | 3,558
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,998 (100.0%) of 22,003 articles have been extended.
+22,003 (100.0%) of 22,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Minister of Defense Special Observation on the risk of landslides in Karandagolla area in Badulla
+
+*2024-05-01 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182294) · `ta`
+
+Defense Minister Bandara Tennakoon visited Karandagolla, Badulla, to assess landslide risks, ordering a detailed report. Authorities, including the National Building Research Institute and Risk Management Center, were instructed to prevent future risks. A review of the land area is planned for May 1st.
+
+🟩
+
+Defense Minister of State for Defense Bandara Tennakoon on April 21 paid special attention to the landslide near the Ellawaya road in the Karandakolla area of the Badulla district and ordered the relevant authorities to re -examine the location and submit a detailed report.
+
+In addition, the Minister of State has provided the instructions to the National Building Research Institute and the Risk Management Center to take immediate steps to prevent the risk of humanity in the future.
+
+In addition to the instructions of the Minister of State, the Director General of the Risk Management Center, the Director of the National Building Research Institute and the Scientists of the Geological Survey and the Mining Bureau of the Ministry of Ministry have taken steps to review the land area on the 01st of May.
+
+◼️
+
+[Data](articles/21ef5f65.json)
+
+[Extended Data](ext_articles/21ef5f65.ext.json)
+
+---
+
+### පොලීසිය මහජන සහාය ඉල්ලයි
+
+*2024-05-01 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196156) · `si`
+
+පුද්ගලයෙකු පැහැරගෙනගොස් ඇති බවට සැකපළකරන වෑන් රථයක් සහ ඊට අදාළ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහන් පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+
+පසුගිය අප්‍රේල් මස 22 වනදා කුලියාපිටිය වෙරළුගම ප්‍රදේශයේදී අදාළ පුද්ගලයා පැහැරගෙන ගොස් ඇති බව පොලීසිය පවසයි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ මෙලෙස පැහැරගෙන ගොස් ඇත්තේ එම ප්‍රදේශයේ පදිංචි 31 හැවිරිදි පුද්ගලයෙකු බවය.
+
+ඒ අනුව පොලිස් මාධ්‍ය කොට්ඨාශය විසින් NW PK -0125 දරණ සිල්වර් වර්ණයෙන් යුතු කුඩා වෑන් රථයක ඡායාරූපයක් නිකුත් කරමින් ඉල්ලා සිටින්නේ එම රථය දුටුවොත් කඩිනමින් දැනුම්දෙන ලෙසටය.
+
+◼️
+
+[Data](articles/01130c04.json)
+
+---
+
+### இரு மாணவர்கள் மோதல்: கிரிக்கெட் மட்டையால் தாக்கப்பட்டு ஒருவர் கொலை!
+
+*2024-05-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182380) · `ta`
+
+நாவலப்பிட்டியில் பாடசாலை மாணவர்கள் இருவருக்கிடையில் ஏற்பட்ட முரண்பாட்டில் மாணவரொருவர்  கிரிக்கெட் மட்டையால் தாக்கப்பட்டு  உயிரிழந்துள்ளார்.
+
+இவ்வாறு, கிரிக்கெட் மட்டையால் தாக்கி  கொலை செய்ததாக கூறப்படும் மாணவனை நாவலப்பிட்டி பொலிஸார் கைது செய்துள்ளனர்.
+
+இரு மாணவர்களும் பாடசாலை நண்பர்கள் எனவும், இருவரும் கடந்த ஏப்ரல் மாதம்  23ஆம் திகதி  கிரிக்கெட் விளையாடச் சென்ற போது, கிரிக்கெட் மட்டைக்காக  ஏற்பட்ட முரண்பாட்டில் இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த சம்பவத்தில் கடும் காயங்களுக்குள்ளான  மாணவன் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று செவ்வாய்க்கிழமை  (29) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/59901f82.json)
+
+---
+
+### Rusty Sri Lanka subdue gritty India
+
+*2024-05-01 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rusty-Sri-Lanka-subdue-gritty-India/108-281705) · `en`
+
+Colombo, May 1 (Daily Mirror) - Sri Lanka put up a brave effort in two weeks of training as a XV a side outfit to outclass India by 45 points (7 tries, 5 conversions) to 10 points (1 try, 1 conversion, 1 penalty) at the Racecourse ground in Colombo last night.
+
+Sri Lanka made their intention very clear of running the three quarter line and spread the ball wide with the speedy threes. Though the first 10 minutes, Indians stood out with some good defense, hosts Sri Lanka scored three unanswered first half tries, which put the Indians on the backfoot.  India spoiled many Sri Lankan moves but the lead the hosts created with very good foundation in the first half was too much for a catch up game.
+
+Tarinda Ratwatte, Sohiru Anthony, Adeesha Weerathunga and Mursheed Doray were omnipresent. In fact Tarinda played a major role in the initial half as Centre and then moved to fill in Thenuka Nanayakkara’s fly half berth.
+
+...
+
+[Data](articles/d7341ddf.json)
+
+---
 
 ### Big names miss out as Australia reveal squad for T20 World Cup
 
@@ -50,63 +124,89 @@ Selection chair George Bailey believes Australia have a well-balanced squad and 
 
 [Data](articles/753fe7bb.json)
 
+[Extended Data](ext_articles/753fe7bb.ext.json)
+
 ---
 
-### சீமெந்து விலை குறைப்பு
+### Cement price
 
 *2024-05-01 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/சீமெந்து-விலை-குறைப்பு/47-336589) · `ta`
 
-மே மாதம் 1ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில் 50 கிலோகிராம் சீமெந்து பையின் விலை 50 ரூபாயினால் குறைக்கப்பட்டுள்ளதாக சீமெந்து தொழிற்துறை நிறுவனங்கள் அறிவித்துள்ளன. அதன் பிரகாரம், 50 கிலோகிராம் சீமெந்து பொதியின் புதிய அதி உயர் சில்லறை விலை 2400 ரூபாயாக அமைந்திருக்கும். இந்த விலைக் குறைப்புடன் நிர்மாணத் தொழிற்துறை ஊக்கம் பெறும் என தாம் எதிர்பார்ப்பதாக சீமெந்து தொழிற்துறை நிறுவனங்கள் நிறுவனங்கள் அறிவித்துள்ளன.
+Cement industry reduces price of 50kg bag to Rs 2400, aiming to boost construction industry.
+
+🟩
+
+Cement industry agencies have announced that the price of 50 kilograms of cement bag has been reduced by Rs.. Accordingly, the new high retail price of the 50 kilogram cement package will be Rs 2400. Cement industry companies have announced that they expect the construction industry to be encouraged with this price cut.
 
 ◼️
 
 [Data](articles/cd065598.json)
 
+[Extended Data](ext_articles/cd065598.ext.json)
+
 ---
 
-### සිමෙන්ති මිලේ වෙනසක්
+### A change of cement prices
 
 *2024-05-01 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196155) · `si`
 
-අද (01) සිට ක්‍රියාත්මක වන පරිදි සිමෙන්ති මිල පහළ දැමීමට සිමෙන්ති සමාගම් තීරණය කර තිබේ.
+Cement companies reduce prices: 50kg bag now Rs. 2,400, down from Rs. 2,450.
 
-ඒ අනුව කිලෝග්‍රෑම් 50 සිමෙන්ති බෑගයක මිල රුපියල් 50කින් පහළ දැමීමට තීරණය කර තිබේ.
+🟩
 
-එම සමාගම් වැඩිදුරටත් සඳහන් කරන්නේ මෙම නව මිල සංශෝධනය අනුව සිමෙන්ති බෑගයක මිල රුපියල් 2,400 වනු ඇති බවය.
+Cement companies have decided to reduce the prices of cement as operated today (01).
+
+Accordingly, the price of 50 kilogram has been decided to reduce the price of a 50kg cement bag by Rs. 50.
+
+The new price frame adds that the price of a cement bag will be Rs. 2,400.
 
 ◼️
 
 [Data](articles/aab1c4db.json)
 
+[Extended Data](ext_articles/aab1c4db.ext.json)
+
 ---
 
-### ஜனாதிபதியின் சர்வதேச காலநிலை ஆலோசகர் எரிக் சொல்ஹெய்ம் வடக்கு மாகாண ஆளுநருடன் சந்திப்பு
+### President's International Climate Advisor Eric Solheim meets with the Governor of the Northern Province
 
 *2024-05-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182377) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் சர்வதேச காலநிலை ஆலோசகரும், முன்னாள் நோர்வே வெளிவிவகார அமைச்சருமான எரிக் சொல்ஹெய்ம் (Mr. Erik Solheim) வடக்கு மாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ்  செவ்வாய்க்கிழமை  சந்தித்து கலந்துரையாடினார்.
+Eric Solheim, President's International Climate Advisor, met with Northern Province Governor Charles on Tuesday to discuss the province's status, resettlement progress, future development, and environmental management.
 
-வடக்கு மாகாணத்தின்  தற்போதைய நிலை, மீள்குடியேற்ற நடவடிக்கையின் முன்னேற்றம்,  எதிர்கால அபிவிருத்தி செயற்பாடுகள், சுற்றாடல் மற்றும் அனர்த்த முகாமைத்துவ நடவடிக்கைகள்  உள்ளிட்ட பல விடயங்கள் தொடர்பில் இதன்போது  கலந்துரையாடப்பட்டது.
+🟩
+
+President Ranil Wickremesinghe's International Climate Advisor and former Norwegian Foreign Minister Eric Solheim (MR. Erik Solheim) Governor of the Northern Province. S.. M.. Charles met on Tuesday and discussed.
+
+The current status of the Northern Province, the progress of the resettlement, future development activities, environmental and disaster management activities were discussed.
 
 ◼️
 
 [Data](articles/54599fa2.json)
 
+[Extended Data](ext_articles/54599fa2.ext.json)
+
 ---
 
-### அம்பாந்தோட்டை துறைமுகத்திற்கு வந்துள்ள பயணிகள் சொகுசு கப்பல்!
+### Travelers who arrive at Hambantota port
 
 *2024-05-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182378) · `ta`
 
-அம்பாந்தோட்டை துறைமுகத்திற்கு முதல் முறையாக 'Serenade of the Seas' எனும் உல்லாசக் கப்பல் திங்கட்கிழமை வருகை தந்துள்ளது.
+"The 'Sea Serenade' arrived at Hambantota port with 1,950 passengers and 890 crew, marking the tenth ship in 2024. Royal Caribbean's 'Seyrison of the Cheese' began its journey in 2003."
 
-இந்த கப்பலில் 1,950 பயணிகள் மற்றும் 890 பணியாளர்கள் வருகை தந்துள்ளனர். 2024 ஆம் ஆண்டு அம்பாந்தோட்டை துறைமுகத்திற்கு வந்த பத்தாவது கப்பல் இதுவாகும்.
+🟩
 
-2003 ஆம் ஆண்டு முதன் முதலில் கடல்  பயணத்தை ஆரம்பித்த 'செரினேட் ஒப் தி சீஸ்'  கப்பலை சர்வதேச ரோயல்  கரீபியன் நிறுவனம் உருவாக்கியுள்ளது.
+The serenade of the Seas, the first time at the Hambantota port, arrived on Monday.
+
+The ship has 1,950 passengers and 890 employees visited. It was the tenth ship that arrived at the Hambantota port in 2024.
+
+International Royal Caribbean has created the 'Seyrison of the Cheese', which started the first sea in 2003.
 
 ◼️
 
 [Data](articles/5f335ecf.json)
+
+[Extended Data](ext_articles/5f335ecf.ext.json)
 
 ---
 
@@ -2127,81 +2227,5 @@ As of June 1, the closing day of the exams, the lesson lectures, seminars or cla
 [Data](articles/6527ebd1.json)
 
 [Extended Data](ext_articles/6527ebd1.ext.json)
-
----
-
-### A Notification from Cardinal
-
-*2024-04-30 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196140) · `si`
-
-"Archbishop Malcolm Cardinal Ranjith released a statement, criticizing MPs' comments on the Passover attack. He urges citizens to vote for any party."
-
-🟩
-
-The Archbishop of Colombo, the Archbishop Malcolm Cardinal Ranjith has been released on a statement.
-
-Cadinal Thera points out the statements made by some MPs on a parliamentary debate recently.
-
-"We have since requested that the Passover attack on the Passover attack today. I would like to encourage all citizens of the country to vote for any party that is provided. "
-
-◼️
-
-[Data](articles/04f0768c.json)
-
-[Extended Data](ext_articles/04f0768c.ext.json)
-
----
-
-### Using drone cameras to cover May Day rallies without permission prohibited
-
-*2024-04-30 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Using-drone-cameras-to-cover-May-Day-rallies-without-permission-prohibited/108-281666) · `en`
-
-Colombo, April 30 (Daily Mirror)- Police request people to obtain proper permission if drone cameras are to be used to take photographs or video recordings of the May Day rallies and processions tomorrow.
-
-Police said in a statement that using drone cameras to cover May Day rallies and processions without permission is prohibited.
-
-They said proper permission is required for all the May Day rallies in the country and that legal action will be taken against those who use drone cameras without permission.
-
-◼️
-
-[Data](articles/9420a7f6.json)
-
-[Extended Data](ext_articles/9420a7f6.ext.json)
-
----
-
-### Only SLPP will conduct May Day rally at a playground: Kariyawasam
-
-*2024-04-30 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-SLPP-will-conduct-May-Day-rally-at-a-playground-Kariyawasam/108-281665) · `en`
-
-Colombo, April 30 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) is the only party that will conduct its May Day rally at a playground, maintaining tradition, while other political parties have been unable to secure similar venues, SLPP General Secretary MP Sagara Kariyawasam said.
-
-Speaking to the media, he noted that previously, political parties held their May Day rallies on playgrounds, but this year, the SLPP has garnered the greatest support and trust to conduct their rally at such a venue.
-
-"Regrettably, political parties other than the SLPP were compelled to conduct their May Day rallies on the streets, indicative of their limitations. The Samagi Jana Balavegaya (SJB) and the Janatha Vimukthi Peramuna (JVP) were constrained to hold their rallies on the road, with some starting from playgrounds but concluding on the streets. This tactic often led to road closures, as they aimed to create the illusion of massive crowds," MP Kariyawasam said.
-
-...
-
-[Data](articles/2cdc57fb.json)
-
-[Extended Data](ext_articles/2cdc57fb.ext.json)
-
----
-
-### SLPP to hold its sole May Day rally on a playground: Kariyawasam
-
-*2024-04-30 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-to-hold-its-sole-May-Day-rally-on-a-playground-Kariyawasam/108-281665) · `en`
-
-Colombo, April 30 (Daily Mirror) - The Sri Lanka Podujana Peramuna (SLPP) has become the sole party to host its May Day rally on a play ground, while others have been unable to secure similar venues, SLPP General Secretary MP Sagara Kariyawasam said.
-
-Speaking to the media, he noted that previously, political parties held their May Day rallies on playgrounds. However, among all the political parties, the SLPP has garnered the greatest support and trust to conduct their rally on such a venue.
-
-"Regrettably, political parties other than the SLPP were compelled to conduct their May Day rallies on the streets, indicative of their limitations. The Samagi Jana Balavegaya (SJB) and the Janatha Vimukthi Peramuna (JVP) were constrained to hold their rallies on the road, with some starting from playgrounds but concluding on the streets. This tactic often led to road closures, as they aimed to create the illusion of massive crowds," MP Kariyawasam said.
-
-...
-
-[Data](articles/c5153ca9.json)
-
-[Extended Data](ext_articles/c5153ca9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 13:34:55**
+As of **2024-05-01 13:53:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,047 (100.0%) of 22,048 articles have been extended.
+22,048 (100.0%) of 22,048 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1138,17 +1138,23 @@ Nearly 20 resident buildings have been damaged in the attack.
 
 ---
 
-### 2022 වසරෙන් පසුව වෙළඳ භාණ්ඩ අපනයෙන් වැඩිම ආදායම 2024 මාර්තු මාසයේදි
+### In March 2024, the highest income of commodities after 2022
 
 *2024-05-01 08:27:02* · [`adalk`](https://www.ada.lk/breaking_news/2022-වසරෙන්-පසුව-වෙළඳ-භාණ්ඩ-අපනයෙන්-වැඩිම-ආදායම-2024-මාර්තු-මාසයේදි/11-409359) · `si`
 
-2022 වසරේ අගෝස්තු මාසයෙන් පසුව වෙළඳ භාණ්ඩ අපනයෙන් උපයා ගත් වැඩිම ආදායම 2024 මාර්තු මාසයේදි වාර්තා වන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+In March 2024, commodities earned $1139M from oust, highest since August 2022, but exports growth reduced by trade deficit.
 
-මේ අනුව 2024 මාර්තු මාසයේදි වෙළඳ භාණ්ඩ අපනයෙන් ඩොලර් මිලියන 1139 උපයාගෙන තිබේ. අපනයනය වර්ධනය විම හේතුවෙන් වෙළඳ ශේෂ හිඟයද තවදුරටත් අඩුවි තිබේ.
+🟩
+
+The highest income earned by the commodities after August 2022, the highest income earned from overthrow was recorded in March 2024, the Central Bank of Sri Lanka.
+
+Thus, March 2024, merchandise has earned $ 1139 million from oust. The growth of exports is further reduced by the trade deficit.
 
 ◼️
 
 [Data](articles/5ce7558a.json)
+
+[Extended Data](ext_articles/5ce7558a.ext.json)
 
 ---
 

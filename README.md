@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 16:05:45**
+As of **2024-05-01 16:18:39**
 
 ## Newspaper Stats
 
-*Scraped **22,078** Articles*
+*Scraped **22,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,848
+adalk | 1,849
 tamilmirrorlk | 2,577
 adaderanalk | 2,607
 virakesarilk | 3,329
 dailymirrorlk | 3,453
-adaderanasinhalalk | 3,566
+adaderanasinhalalk | 3,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,073 (100.0%) of 22,078 articles have been extended.
+22,078 (100.0%) of 22,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### සජිත්ගේ වේදිකාවට අර්ජුනත් එයි
+
+*2024-05-01 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196167) · `si`
+
+සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් මැයි දින සැමරුම් උත්සවයක් තලවාකැළේ ප්‍රදේශයේදී අද (01) පැවැත්වුණි.
+
+පසුගියදා රොෂාන් රණසිංහ මහතාගේ දූෂණ විරෝධී සභාගය හා එක්වුණු හිටපු ක්‍රිකට් නායක අර්ජුන රණතුංග මහතා අද එහිදී සමගි ජන බලවේගයේ වේදිකාවට එක්වීමද විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/b3cfaf42.json)
+
+---
 
 ### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
 
@@ -44,53 +58,75 @@ On October 14 last year, Prime Minister Narendra Modi virtually flagged off the 
 
 [Data](articles/fb4f6af9.json)
 
+[Extended Data](ext_articles/fb4f6af9.ext.json)
+
 ---
 
-### ”இரண்டாவது அரகலயவை  ஐ.ம.ச வழிநடத்தும் ”
+### “The second Arakalaya will lead the IMC”
 
 *2024-05-01 15:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-அரகலயவை-ஐ-ம-ச-வழிநடத்தும்/175-336614) · `ta`
 
-இந்த ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் ஒத்திவைக்கப்பட்டால் இரண்டாவது அரகலயவை (அரசாங்கத்திற்கெதிரான போராட்டம்) ஐக்கிய மக்கள் சக்தி (SJB) வழிநடத்தும் என SJB முன்னாள் எம்.பி முஜிபுர் ரஹ்மான் கோட்டையில் நடைபெற்ற கட்சியின் மே தினக் கூட்டத்தை ஆரம்பித்த போது தெரிவித்தார்.
+"Mujibur Rahman predicts SJB's second Arakalaya will lead UPP if presidential election is postponed."
+
+🟩
+
+Former SJB MP Mujibur Rahman said that if the presidential election is adjourned this year, the second Arakalaya (SJB) will lead the United People's Power (SJB).
 
 ◼️
 
 [Data](articles/4136d5d0.json)
 
+[Extended Data](ext_articles/4136d5d0.ext.json)
+
 ---
 
-### இலங்கை அரசியல் கட்சிகளுக்கு பாஜக அழைப்பு
+### BJP invitation to Sri Lankan political parties
 
 *2024-05-01 15:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசியல்-கட்சிகளுக்கு-பாஜக-அழைப்பு/175-336613) · `ta`
 
-இந்தியாவில் லோக்சபா தேர்தல் பிரச்சாரம் சூடுபிடித்துள்ள நிலையில், ஆளும் கட்சியான பாரதிய ஜனதா கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) மற்றும் ஐக்கிய தேசியக் கட்சியின் (UNP) பிரதிநிதிகளை அங்கு தேர்தல் நடைமுறைகள் குறித்து விழிப்புணர்வை பெற அழைப்பு விடுத்துள்ளதாக த ஹிந்து செய்தி வெளியிட்டுள்ளது.
+BJP invites Sri Lankan political parties to India's election campaign, promising to share election strategies with foreign leaders. Participants include Australia's Liberal Party, Vietnam's Communist Party, Bangladesh's Awami League, Israel's Ligood Party, Uganda's National Movement, Tanzania's Sama Cha Mabindusi, Russia's United Russia, and Mauritian and Nepalese parties.
 
-அயல்நாட்டுத் தலைவர்களுக்கு கட்சியின் தேர்தல் பிரச்சாரம் பற்றிய நுண்ணறிவு வழங்கப்படும் என்றும், அதன் உபாயங்கள் மற்றும் ஒட்டுமொத்த தேர்தல் செயல்முறை குறித்தும் அவர்களுக்குத் தெளிவுபடுத்தப்படும் என்றும் பா.ஜ.க தெரிவித்துள்ளது.
+🟩
 
-அவுஸ்திரேலியாவின் லிபரல் கட்சி, வியட்நாமின் வியட்நாம் கம்யூனிஸ்ட் கட்சி, பங்களாதேஷின் அவாமி லீக், இஸ்ரேலின் லிகுட் கட்சி, உகாண்டாவின் தேசிய எதிர்ப்பு இயக்கம், தான்சானியாவின் சாமா சா மபிந்துசி மற்றும் ரஷ்யாவின் யுனைடெட் ரஷ்யா கட்சி ஆகியவை இந்தியாவுக்கு வருகை தரும் அரசியல் கட்சிகளில் அடங்கும்.
+As the Lok Sabha election campaign in India has been heated, the Hindu has reported that the ruling party, the Bharatiya Janata Party (SLPP) and the United National Party (UNP) representatives, have called for awareness on election processes.
 
-...
+The BJP said that foreign leaders would be given the intelligence of the party's election campaign and that it would clarify its tricks and the entire election process.
+
+Australia's Liberal Party, Vietnam's Vietnam Communist Party, Bangladesh's Awami League, Israel's Ligood Party, Uganda's National Movement, Tanzania's Sama Cha Mabindusi and Russia's United Russia's United Russia Party include political parties.
+
+The Mauritius Labor Party, the Mauritius Militant Movement and the Mauritius Party are the Mauritian Social Democratic Party, and the Nepali Congress, the Nepal Party, the Communist Party of the Communist Party (Integrated Marxist-Leninist), the Communist Party of Nepal (Maoist) and the Rashtriya Freedom Party from Nepal.
+
+◼️
 
 [Data](articles/65910f17.json)
 
+[Extended Data](ext_articles/65910f17.ext.json)
+
 ---
 
-### රජයේ විධායක නිලධාරීන් හෙට වෘත්තීය ක්‍රියාමාර්ගයක
+### Government Executives tomorrow in a trade union action
 
 *2024-05-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196166) · `si`
 
-හෙට (02) සහ අනිද්දා (03) යන දෙදින තුළ අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වීමට රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුව තීරණය කර තිබේ.
+The Joint Committee of Government Executives plans a professional procedure to report sick leave tomorrow, protesting against occupational issues like salary anomalies. They criticize the government for not addressing these issues, affecting 18,000 officers. The protest is scheduled for tomorrow, and the association has boycotted district and regional coordinating activities and meetings called by politicians.
 
-ඒ, වැටුප් විෂමතා ඇතුළු වෘත්තීය ගැටලුවලට විසඳුම් ලබානොදීමට විරෝධය පළ කරමිනි.
+🟩
 
-ඊට සමගාමීව හෙට දිනයේ කොළඹ දී උද්ඝෝෂණ ව්‍යාපාරයක් පැවැත්වෙන බව එම සංගමය පවසයි.
+The Joint Committee of Government Executives has decided to engage in a professional procedure to report sick leave tomorrow (02) and tomorrow.
 
-රජයේ දීපව්‍යාප්ත සේවාවලට සහ සමාන්තර දෙපාර්තමේන්තු ගත සේවාවලට අයත් 18,000ක් පමණ වන විධායක නිලධාරීන් හට බලපා ඇති වෘත්තීය ගැටලුවලට විසඳුම් ලබාදීම සඳහා රජය මෙතෙක් කටයුතු කර නොමැති බව රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුව පෙන්වාදෙයි.
+It protests not to solve the occupational problems, including salary anomalies.
 
-මේ වන විටත් සියලුම දිස්ත්‍රික් හා ප්‍රාදේශීය සම්බන්ධිකරණ කටයුතුවලින් රජයේ විධායක නිලධාරීන් මේ වනවිට ඉවත් වී ඇති අතර දේශපාලඥයින් විසින් කැඳවනු ලබන රැස්වීම් ද වර්ජනය කර ඇති බව එම සංගමය පවසයි.
+The Association says that a protest will be held tomorrow tomorrow.
+
+The integrated committee of government pointed out that the government has not taken measures to solve the professional issues of the Government islandwide and 18,000 executive officers affected.
+
+Government Executives have already left all the District and Regional Coordinating activities and the meetings called by politicians has also boycotted the same association.
 
 ◼️
 
 [Data](articles/04002990.json)
+
+[Extended Data](ext_articles/04002990.ext.json)
 
 ---
 
@@ -118,15 +154,21 @@ The student who was seriously injured in the hospital, who was receiving treatme
 
 ---
 
-### தொ.தே.ச மே தின நிகழ்வில் ரணதுங்க
+### Ranatunga at the Celebration
 
 *2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொ-தே-ச-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
 
-தொழிலாளர் தேசிய சங்க ​மே தினக் கூட்டம் தலவாக்கலையில் பழனி திகாம்பரம் தலைமையில் நடைபெற்றது.  இந்த மே தினக் கூட்டத்தில் முன்னாள் இலங்கை கிரிக்கெட் அணித் தலைவரும் ஐக்கிய தேசியக் கட்சிய்ன முன்னாள் அமைச்சருமான அர்ஜுன ரணதுங்க கலந்து கொண்டார். எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இந்நிகழ்வில் பிரதம அதிதியாக கலந்துகொண்டார்.
+Arjuna Ranatunga attended the National Union May Day meeting at Talawakelle, with Sajith Premadasa as the chief guest.
+
+🟩
+
+The National Union May Day meeting was held at Talawakelle under the patronage of Palani Thikambaram.Former Sri Lankan cricket captain and former UNP minister Arjuna Ranatunga attended the May Day meeting.. Opposition Leader Sajith Premadasa was the chief guest at the event.
 
 ◼️
 
 [Data](articles/c6958339.json)
+
+[Extended Data](ext_articles/c6958339.ext.json)
 
 ---
 
@@ -461,6 +503,22 @@ John Keells Holdings asserted it bears no responsibility for any losses or damag
 [Data](articles/78bcd5c5.json)
 
 [Extended Data](ext_articles/78bcd5c5.ext.json)
+
+---
+
+### සරසවි සිසුන් අතර හෝටලයක ඇති වූ ගැටුමකින් හෝටල් සේවකයෙකුට බරපතලයි
+
+*2024-05-01 13:07:57* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුන්-අතර-හෝටලයක-ඇති-වූ-ගැටුමකින්-හෝටල්-සේවකයෙකුට-බරපතලයි/11-409362) · `si`
+
+හෝමාගම ප්‍රදේශයේ සරසවියක සිසු සිසුවියන් පිරිසකගේ සහභාගීත්වයෙන් පැවති මත්පැන් සාදයක් අතරතුරදී හෝටල් සේවකයින් හා සරසවි සිසුන් අතර ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් දෙපාර්ශ්වය අතර ගුටි බැට හුවමාරුවක් සිදුව ඇති අතර එහිදී තුවාල ලැබූ  පුද්ගලයෙකු රෝහල් ගත කොට කාන්තාවක ඇතුළු දොළොස් දෙනෙකු (30) දා රාත්‍රී අත්අඩංගුවට ගත් බව හෝමාගම මූලස්ථාන පොලිසිය පවසයි.
+
+එම සරසවියේ දැනට අධ්‍යාපනය ලබන හා ආදි සිසුන් පිරිසක් අතර  හෝමාගම සුවපුබුදුගම ප්‍රදේශයේ හෝටලයක ඉකුත් 30 දා සවස සිට මත්පැන් සාදයක් පවත්වා තිබේ.
+
+මේ සඳහා  සරසවියේ සිසුන් හා ආදි සිසුන් පිරිසක් සමග  ඔවුන්ගේ හිතවතුන් පිරිසක් සහභාගී වී සිට තිබේ. එහිදි සිසුන් අතර  බහින්බස්වීමක් සිදුව ඇති අතර එය දුර දිග යාමෙන් සුළු ගැටුමක් දක්වා වර්ධනය වී තිබේ. එහිදී එම ගැටුම පාලනය කිරීම සඳහා හෝටල් සේවකයන් මැදිහත්වීමත් සමඟ සාදය සඳහා සහභාගී වූවන් හෝටල් සේවකයින් අතර ආරවුලක් හටගෙන දෙපාර්ශ්වය විසින් එකිනෙකා අතර ගුටිබැට හුවමාරුවක් සිදුව තිබේ.
+
+...
+
+[Data](articles/97a804c7.json)
 
 ---
 
@@ -2135,37 +2193,5 @@ Over 4,000 children from around the country participated in the competition and 
 [Data](articles/3cb2b595.json)
 
 [Extended Data](ext_articles/3cb2b595.ext.json)
-
----
-
-### Pathfinder Foundation and Centre for Humanitarian Dialogue to co-host 4th Bay of Bengal Maritime Dialogue
-
-*2024-05-01 05:04:37* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-and-Centre-for-Humanitarian-Dialogue-to-co-host-4thBay-of-Bengal-Maritime-Dialogue/56-761234) · `en`
-
-Pathfinder Foundation, in association with the Centre for Humanitarian Dialogue of Switzerland, will co-host the annual Bay of Bengal Maritime Dialogue in Colombo – the fourth in the series – on 7 and 8 May 2024.
-
-The event would see the attendance of around 50 delegates from BIMSTEC and IORA member states, besides Indonesia and Malaysia, which would bring together experts and researchers in disciplines such as maritime governance, maritime crisis management, sustainable fisheries, disaster management, and other major issues which impact on the Bay of Bengal and its diverse users, including those from outside the region. The dialogue will be held on a Track 1.5 basis.
-
-...
-
-[Data](articles/d447d2de.json)
-
-[Extended Data](ext_articles/d447d2de.ext.json)
-
----
-
-### Ambassador Colombage presents “Sri Lanka: Land of Opportunities” at IBSE 2024
-
-*2024-05-01 05:04:08* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Colombage-presentsSri-Lanka-Land-of-Opportunities-at-IBSE-2024/56-761233) · `en`
-
-Ambassador of Sri Lanka to Indonesia and ASEAN, Admiral Prof. Jayanath Colombage, presented Sri Lanka’s trade and investment potential at the International Business Solution Expo (IBSE 2024) in Yogyakarta, Indonesia with the theme “Sri Lanka: Land of Opportunities.”
-
-The event, held from 22-24 April was organised by the Junior Chamber International (JCI) Indonesia and attracted young entrepreneurs from many countries including Indonesia, Singapore, Thailand, Malaysia, Timor Leste, Russia, Vietnam, Cambodia, and South Korea, fostering collaboration and innovation. Inaugurating the 2024 JCI, the President of Indonesia provided a platform for bilateral collaboration and discussions between the participants.
-
-...
-
-[Data](articles/a0d62b6b.json)
-
-[Extended Data](ext_articles/a0d62b6b.ext.json)
 
 ---

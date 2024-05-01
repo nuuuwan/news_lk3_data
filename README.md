@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 12:52:45**
+As of **2024-05-01 13:03:39**
 
 ## Newspaper Stats
 
-*Scraped **22,043** Articles*
+*Scraped **22,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 2,565
 adaderanalk | 2,604
 virakesarilk | 3,326
 dailymirrorlk | 3,441
-adaderanasinhalalk | 3,562
+adaderanasinhalalk | 3,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,039 (100.0%) of 22,043 articles have been extended.
+22,043 (100.0%) of 22,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### සියලුම මැයි රැළි සජීවී විකාශය අද දෙරණ වෙතින්
+
+*2024-05-01 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196161) · `si`
+
+මැයි දිනය වෙනුවෙන් කොළඹ සහ දිවයිනපුරා පැවැත්වෙන සියලුම මැයි දින පෙළපාළි සහ රැළිවල තොරතුරු ඇතුළත් විශේෂ සජීවී විකාශයක් ඔබ වෙත ගෙන ඒමට අප සූදානම්.
+
+ඒ අනුව අද පස්වරු 1:30සිට අද දෙරණ 24 නාලිකාව ඔස්සේ එම සජීවී විකාශය සමග ඔබට එක්වීමට හැකියාව පවතී.
+
+එමෙන්ම අපගේ සමාජ මාධ්‍ය ප්‍රවේශයන් වන අද දෙරණ YOU TUBE නාලිකාව සහ FACE BOOK පිටුව ඔස්සේද ඔබට මෙම සජීවී විකාශය නැරඹිය හැකිය.
+
+◼️
+
+[Data](articles/b08631dd.json)
+
+---
 
 ### Vehicle importers demand proper regulatory framework for vehicle imports
 
@@ -47,6 +63,8 @@ President of the association Indika Sampath Merinchige emphasized the need for t
 ◼️
 
 [Data](articles/59cf92f5.json)
+
+[Extended Data](ext_articles/59cf92f5.ext.json)
 
 ---
 
@@ -156,6 +174,8 @@ As one who had the opportunity to serve as the Chairman and Director General of 
 
 [Data](articles/98745c5d.json)
 
+[Extended Data](ext_articles/98745c5d.ext.json)
+
 ---
 
 ### Australian pool named to World Cup
@@ -199,6 +219,8 @@ Meanwhile, President Ranil Wickremesinghe announced the increase in the daily wa
 ◼️
 
 [Data](articles/b0a0be79.json)
+
+[Extended Data](ext_articles/b0a0be79.ext.json)
 
 ---
 
@@ -251,6 +273,8 @@ The 31st memorial ceremony of former President late Ranasinghe Premadasa was hel
 ◼️
 
 [Data](articles/76895583.json)
+
+[Extended Data](ext_articles/76895583.ext.json)
 
 ---
 
@@ -2183,27 +2207,5 @@ During his video address, Akira focused on explaining two important weather patt
 [Data](articles/82754ae3.json)
 
 [Extended Data](ext_articles/82754ae3.ext.json)
-
----
-
-### State Minister’s comment injects bounce into bourse
-
-*2024-04-30 22:34:00* · [`islandlk`](http://island.lk/state-ministers-comment-injects-bounce-into-bourse/) · `en`
-
-State Minister of Finance Shehan Semasinghe’s announcement at the Cabinet meeting yesterday to the effect that dollar bondholders/external debt holders have shown a positive response to the debt restructuring exercise had an invigorating impact on the CSE.
-
-‘The comment gave an impetus to trading activities on the CSE floor and indicated profit- takings. Towards the latter part of the day the market transformed into a recovery stance, bourse sources said.
-
-Further, the Central Bank revealed that this year’s GDP growth would be more than 3 percent, which too resulted in the market turning positive, market analysts said.
-
-Due to these developments the stock market recorded the highest Index rate of 12368 points in two years.
-
-The All Share Price Index went up by 57.56 points, while the S and P SL 20 rose by 5.89 points. Turnover stood at Rs 3.8 billion with seven crossings.
-
-...
-
-[Data](articles/e0d8d095.json)
-
-[Extended Data](ext_articles/e0d8d095.ext.json)
 
 ---

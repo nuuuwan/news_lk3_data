@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 15:34:21**
+As of **2024-05-01 15:53:09**
 
 ## Newspaper Stats
 
-*Scraped **22,069** Articles*
+*Scraped **22,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,848
-tamilmirrorlk | 2,572
+tamilmirrorlk | 2,574
 adaderanalk | 2,606
 virakesarilk | 3,329
-dailymirrorlk | 3,451
+dailymirrorlk | 3,453
 adaderanasinhalalk | 3,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,069 (100.0%) of 22,069 articles have been extended.
+22,069 (100.0%) of 22,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### கிரிக்கெட் மட்டையால் அடித்து மாணவன் படுகொலை
+
+*2024-05-01 15:23:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரிக்கெட்-மட்டையால்-அடித்து-மாணவன்-படுகொலை/76-336612) · `ta`
+
+கிரிக்கெட் திடல் தொடர்பில் பாடசாலை மாணவர்கள் இருவருக்கு இ​டையில் ஏற்பட்ட வாக்குவாதம் முற்றியதில், மாணவர் ஒருவர் கிரிக்கெட் மட்டையால் அடித்து கொலை செய்யப்பட்டார். இந்த சம்பவத்துடன் தொடர்புடையவர் என்றக் குற்றச்சாட்டின் கீழ் மற்றுமொரு மாணவனை நாவலப்பிட்டி பொலிஸார் கைது செய்துள்ளனர்.
+
+நாவலப்பிட்டி மொன்டி கிறிஸ்டோ தோட்டத்தின் கீழ் பகுதியைச் சேர்ந்த ஸ்டேன்லி ஸ்டெப்பில் (வயது 13) என்ற பாடசாலை மாணவனே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இரு மாணவர்களும் பாடசாலை நண்பர்கள் எனவும், இருவரும் கடந்த 23ஆம் திகதி தோட்டத்தில் கிரிக்கெட் விளையாடச் சென்ற போது, ​​கிரிக்கெட் திடல் தொடர்பில் ஏற்பட்ட வாக்குவாதம் முற்றியுள்ளது. இதில், மற்றைய மாணவர் கிரிக்கெட் மட்டையால் தாக்கியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இதில் பலத்த காயமடைந்த மாணவன் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த மாணவன், திங்கட்கிழமை (29) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/f8d41c4a.json)
+
+---
+
+### தொ.தே.ச மே தின நிகழ்வில் ரணதுங்க
+
+*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
+
+தொழிலாளர் தேசிய சங்க ​மே தினக் கூட்டம் தலவாக்கலையில் பழனி திகாம்பரம் தலைமையில் நடைபெற்றது.  இந்த மே தினக் கூட்டத்தில் முன்னாள் இலங்கை கிரிக்கெட் அணித் தலைவரும் ஐக்கிய தேசியக் கட்சிய்ன முன்னாள் அமைச்சருமான அர்ஜுன ரணதுங்க கலந்து கொண்டார். எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இந்நிகழ்வில் பிரதம அதிதியாக கலந்துகொண்டார்.
+
+◼️
+
+[Data](articles/f3af274e.json)
+
+---
+
+### SJB will lead a second Aragalaya if Presidential election is postponed
+
+*2024-05-01 15:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-lead-a-second-Aragalaya-if-Presidential-election-is-postponed/108-281724) · `en`
+
+Colombo, May 1 (Daily Mirror)- Samagi Jana Balawegaya (SJB) will lead a second Aragalaya if this year's Presidential election is postponed, SJB Former MP Mujibur Rahman said as the party's May Day rally kicked off in Fort.
+
+◼️
+
+[Data](articles/0340b7c7.json)
+
+---
+
+### BJP invites SLPP, UNP to study its election campaign
+
+*2024-05-01 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BJP-invites-SLPP-UNP-to-study-its-election-campaign/108-281723) · `en`
+
+As the Lok Shaba elections campaign heats up in India, the ruling Bharatiya Janatha Party (BJP) has invited representatives from Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) to gain awareness on the electoral process there, The Hindu newspaper reported.
+
+The BJP said the foreign leaders will  be given insights into the party’s election campaign and will be briefed about its strategies and the overall electoral process, according to The Hindu.
+
+Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh’s Awami League, Israel’s Likud Party, Uganda’s National Resistance Movement, Tanzania’s Chama Cha Mapinduzi, and Russia’s United Russia Party are among the political parties whose representatives are visiting India.
+
+...
+
+[Data](articles/22dcae5c.json)
+
+---
 
 ### Sri Lanka signs MoU with Saudi Arabia on investment promotion
 
@@ -2111,93 +2169,5 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 [Data](articles/4b3c2a1b.json)
 
 [Extended Data](ext_articles/4b3c2a1b.ext.json)
-
----
-
-### Court clears Mahindananda of money laundering charges
-
-*2024-05-01 04:50:37* · [`dailyftlk`](https://www.ft.lk/news/Court-clears-Mahindananda-of-money-laundering-charges/56-761228) · `en`
-
-The Colombo High Court yesterday acquitted and released former Minister Mahindananda Aluthgamage from the money laundering case filed against him.
-
-The case was called before Colombo High Court Judge Nawarathne Marasinghe.
-
-Aluthgamage had been charged for allegedly failing to declare the source of funds used to purchase a luxury house worth approximately Rs. 27 million at Kynsey Road in Borella during his tenure as a Minister.
-
-The Attorney General had filed indictments against the former minister under the Prevention of Money Laundering Act in 2017.
-
-◼️
-
-[Data](articles/4c6b91a9.json)
-
-[Extended Data](ext_articles/4c6b91a9.ext.json)
-
----
-
-### Cabinet clears visa exemption pact between Rwanda and Sri Lanka
-
-*2024-05-01 04:49:07* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-clears-visa-exemption-pact-between-Rwanda-and-Sri-Lanka/56-761227) · `en`
-
-Aims to exempt citizens holding diplomatic, duty, service passports needing visas for up to 30 days
-
-The Cabinet of Ministers at its meeting on Monday cleared the signing of the Memorandum of Understanding (MoU) between Rwanda and Sri Lanka to exempt citizens holding diplomatic duty or service passports from obtaining visas for a period not exceeding 30 days as agreed between the two parties.
-
-“The decision aims to improve bilateral relations between the two countries,” Cabinet Co-Sokesman and Minister Bandula Gunawardena said yesterday at the post-Cabinet meeting media briefing.
-
-Originally approved on 7 May 2019, the proposal sought to establish an understanding to waive visa requirements for holders of specific passports from both countries, but the signing of the MoU has faced delays.
-
-The proposal to this effect submitted by Public Security Minister Tiran Alles was approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/5e473906.json)
-
-[Extended Data](ext_articles/5e473906.ext.json)
-
----
-
-### Ranil - Sajith's May Day meetings to compete in the hill country
-
-*2024-05-01 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/182373) · `ta`
-
-"May Day meetings across Sri Lanka feature political leaders, including President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa, addressing pay issues and future plans for plantation workers. Major parties hold events in Colombo and hill country, with announcements expected on elections and presidential candidates."
-
-🟩
-
-International Labor Day Today, massive May Day meetings have been organized by political parties and trade unions in many parts of the country. This time, President Ranil Wickremesinghe and Opposition Leader Sajith Premadasa will attend the May Day meetings in the hill country.
-
-President Ranil Wickremesinghe will be the chief guest at the May Day meeting organized by the Ceylon Workers' Kangras Kotagala Ground.. The meeting, which begins at 10 am, is to be brought from the country to the bus.. President Ranil Wickremesinghe will issue a special announcement on the pay issue of plantation workers who are currently speaking.
-
-Opposition leader Sajith Premadasa will attend the May Day meeting organized by the Tamil Progressive Alliance in Talawakelle. Opposition Leader Sajith Premadasa will announce his future plan for plantation workers at the meeting, which will be held with the participation of supporters of the Tamil Progressive Alliance in Nuwara Eliya district.
-
-...
-
-[Data](articles/9e311c49.json)
-
-[Extended Data](ext_articles/9e311c49.ext.json)
-
----
-
-### It is not the government's intention to keep working people as poor - the President in Labor Day news
-
-*2024-05-01 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182372) · `ta`
-
-President Ranil Wickremesinghe emphasized the government's commitment to improving workers' conditions, acknowledging their crucial role in the economy's growth. He highlighted the success of projects like 'Azwasuma' and 'Urumaya' in securing workers' rights, increased government employee salaries, and the private sector's contributions. He called for political consensus to address modern challenges, celebrating World Labor Day with a focus on protecting workers' rights.
-
-🟩
-
-President Ranil Wickremesinghe said in his Labor Day news that we have reached an important stage as a country during the 138th anniversary of World Labor Day, which began as a result of the struggle for rights and demands.
-
-All of us have an inevitable responsibility to strengthen the country's economy and bring forward the challenge. For that, you have to work together for the proper planning.
-
-The working people of this country faced more challenges during the last economic downturn. I would like to express my gratitude to all working people who play an important role in strengthening the country's economy with diligence.
-
-We can find out the benefits of that infinite commitment that we are all together.It is a success for the government that the economy of Sri Lanka is currently growing and the inflation is significantly reduced and strengthening the rupee.
-
-...
-
-[Data](articles/2a0a431b.json)
-
-[Extended Data](ext_articles/2a0a431b.ext.json)
 
 ---

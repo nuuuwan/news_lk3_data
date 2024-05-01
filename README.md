@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 12:34:18**
+As of **2024-05-01 12:52:45**
 
 ## Newspaper Stats
 
-*Scraped **22,039** Articles*
+*Scraped **22,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,70 +17,108 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,847
 tamilmirrorlk | 2,565
-adaderanalk | 2,603
+adaderanalk | 2,604
 virakesarilk | 3,326
-dailymirrorlk | 3,438
+dailymirrorlk | 3,441
 adaderanasinhalalk | 3,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,027 (99.9%) of 22,039 articles have been extended.
+22,039 (100.0%) of 22,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### ஜனாதிபதி வேட்பாளர் விஜயதாச: அறிவித்தார் மைத்திரி
+### Vehicle importers demand proper regulatory framework for vehicle imports
+
+*2024-05-01 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98952/vehicle-importers-demand-proper-regulatory-framework-for-vehicle-imports) · `en`
+
+The Vehicle Importers’ Association insists on the necessity of a proper regulatory framework for vehicle imports in Sri Lanka.
+
+President of the association Indika Sampath Merinchige emphasized the need for the government to establish a committee inclusive of their association’s representatives to make decisions on this matter.
+
+“When importing vehicles to Sri Lanka in the past few years, specifically in 2017, 2018, and 2019, 85% of the vehicles imported were used vehicles with only 15% new vehicles were imported. Out of that, 95% of the vehicles were sourced from Japan”, he added.
+
+“In the future, it is imperative to prioritize the preferences of the people when importing vehicles. If the agents prioritize matters that are not aligned with the requirements of the people, there will likely be a decline in demand”, Merinchige said.
+
+◼️
+
+[Data](articles/59cf92f5.json)
+
+---
+
+### Presidential candidate Vijayadasa:
 
 *2024-05-01 12:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-விஜயதாச-அறிவித்தார்-மைத்திரி/175-336602) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக  விஜயதாச ராஜபக்ஷ முன் நிறுத்தப்படுவார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, புதன்கிழமை (01) தெரிவித்தார்.
+Maithripala Sirisena announced Vijayadasa Rajapaksa as the Sri Lanka Freedom Party's presidential candidate, highlighting his support and past presidency.
 
-ஒன்றிய தலைவர் ஓ.இ. இளங்கரத்னவின் நினைவேந்தல் நிகழ்வில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இதனைத் தெரிவித்தார்.
+🟩
 
-அரசாங்கத்தின் அமைச்சர் ஒருவர் ஸ்ரீலங்கா சுதந்திரக் கட்சியில் இணைந்துகொண்டார் என தெரிவித்த  மைத்திரிபால, தான் விரும்பும் பதவியில் தமக்கு ஆசை இல்லை எனவும் குறிப்பிட்டுள்ளார்.
+Former President Maithripala Sirisena said on Wednesday (01) that Vijayadasa Rajapaksa would be presented as the Sri Lanka Freedom Party's presidential candidate.
 
-விஜயதாச ராஜபக்சவுக்கு கட்சியின் பெரும்பான்மை ஆதரவு இருப்பதாகவும், தான் ஒருமுறை ஜனாதிபதியாக பதவி வகித்ததாகவும், பதவிப் பிரமாணம் செய்யும் போது மீண்டும் போட்டியிடப் போவதில்லை என அறிவித்ததாகவும் அவர் கூறினார்.
+Union President. Former President Maithripala Sirisena said this at the commemoration event of Ilangaratne.
+
+Maithripala said that a minister of the government had joined the Sri Lanka Freedom Party (SLFP) and that he had no desire for his post.
+
+He said that Vijayadasa Rajapaksa had a majority of support and that he had once held office as president and would not contest again during his swearing -in.
 
 ◼️
 
 [Data](articles/378a7760.json)
 
+[Extended Data](ext_articles/378a7760.ext.json)
+
 ---
 
-### ’’கோவிஷீல்டு பக்கவிளைவுகளை தரலாம்’’: நீதிமன்றில் ஒப்புதல்
+### Govishield side effects can be paid
 
 *2024-05-01 12:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோவிஷீல்டு-பக்கவிளைவுகளை-தரலாம்-நீதிமன்றில்-ஒப்புதல்/50-336601) · `ta`
 
-கொவிட் தடுப்பூசியான கோவிஷீல்டு சில நேரங்களில் ஏதேனும் ஒரு சிலருக்கு பக்கவிளைவுகளை தரலாம் என இந்த ஊசியை தயாரித்த நிறுவனம் லண்டன்  நீதிமன்றத்தில் ஒப்புக்கொண்டுள்ளது.
+Govishield vaccine, compulsory for 90% of people, has side effects, including rare blood clotting and DTS, despite pharmaceutical companies' denial. London court suits alleged health issues, with Ashtrajnega and the University of Oxford acknowledging the impact.
 
-உலகையே உலுக்கிய கொவிட் தொற்றால் லட்சக்கணக்கானோர் மாண்டனர். உலக பொருளாதாரமே சீர்குலைந்தது. கொவிட்டை தடுக்க தடுப்பு மருந்து வராதா என்ற ஏக்கத்தில் இருந்தபோது கோவாக்ஸின் , கோவிஷீல்டு கண்டுபிடிக்கப்பட்டது. இந்த தடுப்பு மருந்து கட்டாயமாக்கப்பட்டது. 90 சதவீத மக்கள் இந்த ஊசியை போட்டு கொண்டனர். இந்த ஊசியால் உயிருக்கு அச்சுறுத்தல் வருமா என்ற கேள்வி எழுந்த போது, மருந்து தயாரிப்பு நிறுவனங்கள் மறுத்தன.
+🟩
 
-இந்நிலையில் கோவிஷீல்டு காரணமாக பலர் உடல்நலம் பாதிக்கப்படுவதாக லண்டன் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. வழக்கின் விசாரணையில் , கோவிஷீல்டு தயாரித்த ஆக்ஸ்போர்டு பல்கலைக்கழகத்துடன் இணைந்து அஷ்ட்ராஜெனேகா நிறுவனம் நீதிமன்றத்தில் பாதிப்பு குறித்து ஒப்புக்கொண்டுள்ளது.
+The injection company has agreed to the London court that Kovit vaccine, Govishield, can sometimes give side effects to some people.
 
-...
+Millions of people have died in the world that rocked the world. The world's economy was disrupted. Kovaxin, Kovishield was found when he was in a longing for a prevention for prevention. This vaccine has been made compulsory. 90 percent of people put this injection. When the question arose as to whether the needle threatens life, pharmaceutical companies refused.
+
+In this case, many people were sued in the London court for alleged health. At the hearing of the case, Ashtrajnega has agreed to the court's impact on the court, along with the University of Oxford produced by Govishield.
+
+'It is a rare thing that some people are like this. Blood can cause clotting, DTS (thrombocytopenia syndrome) may be affected. It does not come to everyone, so rarely can happen '. Has been stated.
+
+◼️
 
 [Data](articles/aca0dc61.json)
 
+[Extended Data](ext_articles/aca0dc61.ext.json)
+
 ---
 
-### கத்தாரில் நடைபெற்ற மாபெரும் சித்திரை திருநாள் கொண்டாட நிகழ்வு
+### The Great Celebration of Qatar
 
 *2024-05-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182396) · `ta`
 
-கத்தார் தமிழர் சங்கம் பெருமையுடன் வழங்கிய சித்திரை திருநாள் இசை மேடைக் கொண்டாட்ட நிகழ்வுகள் கடந்த 25ம் திகதி மாலை 6 மணிக்கு கத்தார் தேசிய மாநாட்டு மையத்தில் மிகச் சிறப்பாக இடம் பெற்றது.
+The Qatar Tamil Sangam hosted a grand event at the Qatar National Convention Center, featuring Indian artists like Sri Nisha and Priya Jerson, attracting over 2500 attendees, including top Qatari leaders and Tamil community members.
 
-இந் நிகழ்வில் பிரதம அதிதியாக கத்தாருக்கான இந்திய தூதுவர் விபுல் , சிறப்பு அதிதிகளாக கத்தார் நாட்டின் உயர் அதிகாரிகள், கத்தாரில் உள்ள முக்கியஸ்தர்கள், கத்தாரில் உள்ள தமிழ் அமைப்புகளின் உறுப்பினர்கள் என பலறும் கலந்து சிறப்பித்தனர்.
+🟩
 
-நிகழ்வை சிறப்பிக்கும் வகையில் இந்திய நாட்டின் பிரபல கலைஞர்களான விஜய் டிவி சூப்பர் சிங்கர்ஸ் ஸ்ரீ நிஷா, பிரியா ஜெர்சன், திவாகர், ஸ்ரீதர் சேனா, மணி அண்ட் பேண்ட் குழுவினர், கலக்கப் போவது யாரு பாலா, கார்த்திக் தேவராஜன், வினோத், விக்னேஷ் நிகழ்ச்சி தொகுப்பாளராக பல் குரல் கலைஞர் ஆதவன் ஆகியோர் கலந்து கொண்டு சித்திரை திருநாள் கொண்டாட்டத்தினை வழங்கினர்.
+The Qatar Tamil Sangam proudly presented at the Qatar National Convention Center at 6 pm on the 25th of this month.
 
-மேலும் இந்நிகழ்ச்சியை பார்வையிட ஏராளமான இந்திய மற்றும் இலங்கை தமிழ் மக்கள் என 2500க்கும் மேற்பட்டவர்கள் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+The chief guest at the event was Vipul, the Indian Ambassador to Qatar, the top guests of Qatar, the leaders of the Qatar and members of the Tamil organizations in Qatar.
+
+Indian famous artists Vijay TV Super Singers Sri Nisha, Priya Jerson, Divakar, Sridhar Sena, Mani and Band TeamProvided.
+
+More than 2500 people attended the event as a large number of Indian and Sri Lankan Tamil people.
 
 ◼️
 
 [Data](articles/5dfcf97d.json)
+
+[Extended Data](ext_articles/5dfcf97d.ext.json)
 
 ---
 
@@ -102,53 +140,117 @@ While 60 police officers and 115 civilians were injured. Those who died due to t
 
 [Data](articles/eb30b0e9.json)
 
+[Extended Data](ext_articles/eb30b0e9.ext.json)
+
 ---
 
-### ලෝක කුසලානයට ඔස්ට්‍රේලියානු සංචිතය නම්කරයි
+### Implement Premadasa’s policies to overcome current economic crisis
+
+*2024-05-01 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Implement-Premadasas-policies-to-overcome-current-economic-crisis/172-281675) · `en`
+
+The dynamic policies of President Premadasa came to an abrupt halt 31 years ago
+
+As one who had the opportunity to serve as the Chairman and Director General of the Greater Colombo Economic Commission and later converted to the Board of Investment from 1991 to 1993 and prior to that as the Chairman of the People’s Bank during the period of President Premadasa, it will be appropriate for me to write about the importance to implement the economic policies of the Premadasa period to overcome the current economic crisis and achieve sustainable economic recovery on the 31st Death Anniversary of late President Premadasa. Although giving free handouts was the order of the day, Premadasa policies were able to change this concept by pushing economic development to the provinces. He did this by inviting the private sector businessmen to set up garment factories in the rural areas which provided employment and brought in the much needed foreign exchange.
+
+...
+
+[Data](articles/98745c5d.json)
+
+---
+
+### Australian pool named to World Cup
 
 *2024-05-01 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196160) · `si`
 
-‍පන්දුවාර විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වන ඔස්ට්‍රේලියානු සංචිතය නම්කර තිබේ.
+Australia's Twenty20 World Cup squad, excluding Steven Smith and Jake Ferzer, includes Michelle Marsh. Other teams: New Zealand, South Africa, India, England, Afghanistan.
 
-15 දෙනෙකුගෙන් සමන්විත සංචිතයට සුපිරි පිතිකරු ස්ටීවන් ස්මිත් ඇතුළත් නොවීම විශේෂත්වයකි.
+🟩
 
-එමෙන්ම මෙවර ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ දී පිතිකරුවෙකු ලෙස විශිෂ්ට දස්කම් දැක්වු ජේක් ෆ්‍රාසර් ද ඕස්ට්‍රේලියානු විස්සයි විස්ස සංචිතයට ඇතුළත් කර නොමැත.
+The Australian squad of the Twenty20 World Cup has been named.
 
-මිෂෙල් මාෂ්ගේ නායකත්වයෙන් යුත් ලෝක කුසලානයට නම් කළ ඕස්ට්‍රේලියානු විස්සයි විස්ස සංචිතය පහතින්,
+It is noteworthy that the super batsman does not include Steven Smith.
 
-මේ වනවිට නවසීලන්තය, දකුණු අප්‍රිකාව, ඉන්දියාව, එංගලන්තය සහ ඇෆ්ගනිස්ථානය යන රටවල් ද විස්සයි විස්ස ලෝක කුසලානයට සහභාගී වන සංචිත ප්‍රකාශයට පත් කර තිබේ.
+The Jake Ferzer of the Indian Premier League is not included in the Australian T20 pool.
+
+Below is the Australian Twenty20 pool of Australia, named Michelle Marsh's World Cup,
+
+New Zealand, South Africa, India, England and Afghanistan have been published in the Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/09fc1f74.json)
 
+[Extended Data](ext_articles/09fc1f74.ext.json)
+
 ---
 
-### நாளாந்த சம்பளம்  1700  ரூபாயாக உயர்வு: ஜனாதிபதி
+### Daily wage for plantation workers increased
+
+*2024-05-01 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-wage-for-plantation-workers-increased/108-281712) · `en`
+
+Colombo, May 1 (Daily Mirror) - A gazette notification has been issued announcing the increase in the minimum daily wage of tea plantation workers to Rs. 1,700.
+
+The gazette was issued by Labour Commissioner General H.K.K. Jayasundara following an order by the Labour Minister, the Commissioner General of Labour said.
+
+It was also mentioned that public and state objections regarding the decision should be submitted before noon on May 15.
+
+Meanwhile, President Ranil Wickremesinghe announced the increase in the daily wage for plantation workers while attending the Ceylon Workers Congress (CWC) May Day rally at the Kotagala Public Grounds this morning.
+
+◼️
+
+[Data](articles/b0a0be79.json)
+
+---
+
+### Daily salary rises to 1700 rupees: President
 
 *2024-05-01 11:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாளாந்த-சம்பளம்-1700-ரூபாயாக-உயர்வு-ஜனாதிபதி/76-336599) · `ta`
 
-தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளம் 1700 ரூபாவாக அதிகரிக்கப்படும் என,  கொட்டகலை பொது விளையாட்டரங்கில் புதன்கிழமை  (01) முற்பகல்நடைபெற்ற இலங்கைத் தொழிலாளர் காங்கிரஸின் மே தினக் கூட்டத்தில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க  தெரிவித்தார்.
+President Ranil Wickremesinghe announced a daily salary increase for plantation workers to 1700 rupees at the Ceylon Workers Congress May Day meeting.
+
+🟩
+
+President Ranil Wickremesinghe, who attended the May Day meeting of the Ceylon Workers Congress, said that the daily salary of a plantation worker will be increased to 1700 rupees.
 
 ◼️
 
 [Data](articles/60716aa8.json)
 
+[Extended Data](ext_articles/60716aa8.ext.json)
+
 ---
 
-### தேயிலை, இறப்பர் தோட்டத்தொழிலாளர்களின் நாளாந்த ஊதியத்தை அதிகரிப்பது தொடர்பான அரசவர்த்தமானி வெளியானது
+### Tea and rubber plantation workers' daily wages
 
 *2024-05-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/182393) · `ta`
 
-குறித்த வர்த்தமானியில், தேயிலை, இறப்பர் தோட்டத் தொழிலாளர்களின்  குறைந்தபட்ச நாளாந்த ஊதியம்  1,700 ரூபாவாக நிர்ணயிக்கப்பட்டுள்ளது.
+Tea and rubber plantation workers' minimum daily wage is Rs 1,700, with Rs 1,350 for salary and Rs 350 as additional allowance.
 
-அதன்படி, நாளாந்த ஊதியம் 1350 ரூபாவாகவும், நாளாந்த மேலதிக கொடுப்பனவு 350 ரூபாவாகவும் வழங்கப்படும்.
+🟩
 
-இந்நிலையில், மொத்தமாக நாளாந்த ஊதியம் 1700 ரூபாய் வழங்கப்படும் என வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+In the gazette, the minimum daily wage of tea and rubber plantation workers has been fixed at Rs 1,700.
+
+Accordingly, the daily salary will be paid at 1350 rupees and the daily additional allowance will be Rs 350.
+
+In this case, the total daily salary will be paid by the Gazette.
 
 ◼️
 
 [Data](articles/8f44c2be.json)
+
+[Extended Data](ext_articles/8f44c2be.ext.json)
+
+---
+
+### Late President Premadasa commemorated
+
+*2024-05-01 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Late-President-Premadasa-commemorated/110-281711) · `en`
+
+The 31st memorial ceremony of former President late Ranasinghe Premadasa was held today at Aluthkade near his statue. Religious leaders, all family members, Members of Parliament led by Sajith Premadasa, paid their tributes. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/76895583.json)
 
 ---
 
@@ -170,19 +272,25 @@ Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made
 
 ---
 
-### வரலாற்றில் இன்று : 1993 மே தின ஊர்வலம் : முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் உயிரைப் பறித்த குண்டுவெடிப்பு !
+### Today in History: May 1993 May Day procession
 
 *2024-05-01 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/182394) · `ta`
 
-இன்று உலகளாவிய ரீதியில் சர்வதேச தொழிலாளர்கள் தினம் (மே 01) கடைபிடிக்கப்பட்டு வருகிறது. இலங்கையில் இன்றைய தினம் அனேக இடங்களில் ஏற்பாடு செய்யப்பட்டுள்ள மே தின கூட்டங்கள் மற்றும் ஊர்வலங்களில் பல்வேறு தரப்பினர் கலந்துகொள்கின்றனர்.
+"May 1993: International Workers' Day marked by May Day processions in Sri Lanka, tragically marred by the death of former President Ranasinghe Premadasa in a bomb blast."
 
-1993இல், இதே நாளில், மே தின ஊர்வலத்தின்போது இடம்பெற்ற குண்டுவெடிப்பில் பேரணியில் பங்கேற்ற முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாச உயிரிழந்தார்.
+🟩
 
-முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாச மறைந்த செய்தி 1993 மே 2ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையில் "ஐ.தே.க. மே தின ஊர்வலத்தில் குண்டுவெடிப்பு : ஜனாதிபதி படுகொலை : பதில் ஜனாதிபதியாக பிரதமர்" என்ற தலையங்கத்துடன் பிரசுரிக்கப்பட்டிருந்தது.
+International Workers' Day (May 01) is being observed worldwide today. Various parties are participating in the May Day meetings and processions organized today in Sri Lanka.
+
+On the same day, on the same day, former President Ranasinghe Premadasa died in a bomb blast during the May Day procession.
+
+Former President Ranasinghe Premadasa's latest news in the Weerakesari magazine on May 2, 1993, “The UNP. Bomb blast at May Day rally: President's assassination
 
 ◼️
 
 [Data](articles/f73db7ae.json)
+
+[Extended Data](ext_articles/f73db7ae.ext.json)
 
 ---
 
@@ -258,55 +366,73 @@ Rajeswaran, Shanti, Ganesalingam and Vinod Kumar were then from Chennai two days
 
 ---
 
-### முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் 31 ஆவது நினைவு தினத்தை முன்னிட்டு தருமபோதனை
+### Testing on the 31st commemoration of former President Ranasinghe Premadasa
 
 *2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182390) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் 31 ஆவது சிரார்த்த தினத்தை முன்னிட்டு தருமபோதனை இடம் பெற்றுள்ளது.
+On the 31st commemoration of former President Ranasinghe Premadasa, Dharma Teaching was held at Sri Sukaridha Mandi by Akalakada Sirisumana Thera, a Sinhala Studies professor. Mrs. Hema Premadasa, Sajith Premadasa, and family members attended.
 
-நேற்று செவ்வாய்க்கிழமை (30 ) ஆம் திகதி மாலை மொரட்டுவ, லுனாவ, ஸ்ரீ போதிராஜாராம விகாராதிபதியும், கொழும்பு பல்கலைக்கழகத்தின் சிங்கள கற்கைகள் துறைப் பேராசிரியருமான சங்கைக்குரிய அகலகட சிரிசுமண தேரரினால் ஶ்ரீ சுச்சரித மண்டத்தில் தர்ம போதனை நிகழ்த்தப்பட்டது.
+🟩
 
-முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் பாரியார் திருமதி ஹேமா பிரேமதாச, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, குடும்ப உறுப்பினர்கள் உள்ளிட்டோர் இதில் கலந்து கொண்டனர்.
+Former President Ranasinghe Premadasa's 31st Day
+
+On the evening of Tuesday (30th), the Dharma Teaching was performed at the Sri Sukaridha Mandi by the Akalakada Sirisumana Thera, a professor of Sinhala Studies of the University of Colombo and the Sinhala Studies Department of the University of Colombo.
+
+Mrs. Hema Premadasa, the former President Ranasinghe Premadasa, opposition leader Sajith Premadasa and family members were present.
 
 ◼️
 
 [Data](articles/405ce547.json)
 
+[Extended Data](ext_articles/405ce547.ext.json)
+
 ---
 
-### அமெரிக்காவின் கொலம்பிய பல்கலைகழகத்தில் பதற்றம் - 100க்கும் மேற்பட்ட பாலஸ்தீன ஆதரவு மாணவர்கள் கைது
+### Tension at Colombian University of the United States - More than 100 Palestinian students arrested
 
 *2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182392) · `ta`
 
-அமெரிக்காவின் கொலம்பிய பல்கலைகழத்தின் வளாகத்திலிருந்து பாலஸ்தீன ஆதரவாளர்களான மாணவர்கள் பலர் கைதுசெய்யப்பட்டு வெளியேற்றப்பட்டதை தொடர்ந்து அங்கு பெரும் பரபரப்பு ஏற்பட்டுள்ளது.
+Over 100 Palestinian students at the Colombian University in the US were arrested after occupying the campus for 24 hours, despite police eviction. The university administration allowed police to remove students who refused to leave. This incident follows protests across US universities demanding severing ties with Israel.
 
-பல்கலைகழகத்தின் கட்டிடத்தை பாலஸ்தீன ஆதரவு மாணவர்கள் ஆக்கிரமித்து 24 மணிநேரத்தின் பின்னர் அவர்கள் அங்கிருந்து பலவந்தமாக வெளியேற்றப்படுகின்றனர்.
+🟩
 
-இரண்டு வாரங்களாக பல்கலைகழகத்தை சுற்றி முகாமிட்டிருந்த  பாலஸ்தீன ஆதரவு மாணவர்களையும்  பல்கலைகழக கட்டிடத்திற்குள் நுழைந்தவர்களையும் அங்கிருந்து அகற்றியுள்ளதாக காவல்துறையினர் தெரிவித்துள்ளனர்.
+There has been a stir in the aftermath of the arrest and evacuation of many Palestinian supporters from the campus of the United States Colombian University.
 
-பல்கலைகழகத்திலிருந்து வெளியேறுவதற்கு பல்கலைகழக நிர்வாகம் விடுத்த வேண்டுகோளை பாலஸ்தீன ஆதரவு மாணவர்கள் ஏற்றுக்கொள்ளாததை தொடர்ந்து மாணவர்களை வெளியேற்றுவதற்கு பொலிஸாருக்கு பல்கலைகழக நிர்வாகம் அனுமதி வழங்கியிருந்தது.
+Palestinian -backed students occupy the university building after 24 hours after they are forcibly evacuated.
 
-இஸ்ரேலுடனான உறவுகளை துண்டிக்கவேண்டும் என கோரி அமெரிக்காவின் பல பல்கலைகழங்களில் மாணவர்கள் ஆர்ப்பாட்டங்களில் ஈடுபட்டுள்ளனர்.
+Police said that the Palestinian -backed students who had been camping around the university for two weeks and those entered the university building had been removed.
+
+The university administration has given permission to the police to evict students after the Palestinian -backed students did not accept the request of the university administration to leave the university.
+
+Students in many universities in the United States have staged protests demanding the cutting of ties with Israel.
 
 ◼️
 
 [Data](articles/6320094f.json)
 
+[Extended Data](ext_articles/6320094f.ext.json)
+
 ---
 
-### சீமெந்தின் விலை குறைப்பு
+### Cement's price reduction
 
 *2024-05-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/182383) · `ta`
 
-50 கிலோ கிராம் நிறையுடைய சீமெந்து பையின் விலையை இன்று புதன்கிழமை (1) முதல் 50 ரூபாவால் குறைக்க தீர்மானிக்கப்பட்டுள்ளதாக சீமெந்து தொழிற்சாலை நிறுவனங்கள் அறிவித்துள்ளது.
+Cement factory agencies have reduced the price of a 50 kg cement bag to Rs 2,400 by Wednesday, aiming to boost the local building industry.
 
-அதன்படி 50 கிலோ கிராம் நிறையுடைய சீமெந்து பையின் புதிய விற்பனை விலை 2,400 ரூபாவாக இருக்கும்.
+🟩
 
-இந்த விலைக் குறைப்பானது உள்ளூர் கட்டிட தொழிலை ஊக்குவிக்க உதவும் என எதிர்பார்க்கப்படுவதாக சீமெந்து தொழிற்சாலை நிறுவனங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Cement factory agencies have announced that the price of the cement bag with 50 kg of cement has been reduced by Wednesday (1).
+
+Accordingly, the new sales price of 50 kg of cement bag will be Rs 2,400.
+
+Cement factory companies have said that the price cut is expected to help promote the local building industry.
 
 ◼️
 
 [Data](articles/45c5d36f.json)
+
+[Extended Data](ext_articles/45c5d36f.ext.json)
 
 ---
 
@@ -1008,19 +1134,25 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### ඩිසල් අඩු වුණත් බස් ගාස්තු අඩු කළ නොහැකියි
+### The bus fare cannot be reduced, but the diesel
 
 *2024-05-01 08:10:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩිසල්-අඩු-වුණත්-බස්-ගාස්තු-අඩු-කළ-නොහැකියි/11-409358) · `si`
 
-සියලුම ඉන්ධන මිල ගණන් ඊයේ (30දා) මධ්‍යම රාත්‍රියේ සිට අඩු කිරීමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව කටයුතු කරනු ලැබිණි.
+Ceylon Petroleum reduced diesel prices by 30 rupees from midnight yesterday. Sri Lanka Private Bus Owners Association Chairman Gemunu Wijeratne opposes further reductions, suggesting a bus fare revision in July.
 
-එහිදී ලංකා සුදු ඩීසල් රුපියල් 30කින් අඩු කිරීමට කටයුතු කර ඇත. කෙසේ වෙත්තත් වර්තමානයේ රුපියල් 27ක පාඩුවකඅ විඳදරා ගනිමින් බස් රථ ධාවනය කරන බවත්, ඒ අනුව බස් ගාස්තු පිළිබඳ ජාතික ප්‍රතිපත්තියේ මිල සූත්‍රය අනුව මෙම ඉන්ධන මිල අඩුවීමත් සමඟ බස් ගාස්තු අඩු කළ නොහැකි බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා 'අද' පුවත්පතට පැවසීය.
+🟩
 
-ඒ අනුව බස් ගාස්තු සංශෝධනයක් සිදු කළ හැකි වන්නේ ලබන ජූලි මාසයේදී බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+Ceylon Petroleum Corporation worked to reduce all fuel prices from midnight yesterday (30).
+
+The Chinese diesel has been reduced by 30 rupees.However, the Sri Lanka Private Bus Owners Association Mr. Gemunu Wijeratne, Chairman of the Lanka Private Bus Ownership, will not be reduced to the 'today' newspaper.
+
+Accordingly, a bus tariff revision can be made in July next July, he added.
 
 ◼️
 
 [Data](articles/b838df50.json)
+
+[Extended Data](ext_articles/b838df50.ext.json)
 
 ---
 
@@ -2073,107 +2205,5 @@ The All Share Price Index went up by 57.56 points, while the S and P SL 20 rose 
 [Data](articles/e0d8d095.json)
 
 [Extended Data](ext_articles/e0d8d095.ext.json)
-
----
-
-### Asian Rugby First Division Half -Tight Win Kazakhstan
-
-*2024-04-30 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/182365) · `ta`
-
-Kazakhstan won the Asian Rugby First Division Half by 2 points (33-31) against Qatar in the Asian First Seven Secondary Finals, despite a challenging start due to heavy rain.
-
-🟩
-
-Kasakstan 33 (5 TROs, 4 Conversions) - 31 (3 trucks, one penalty tri, 3 conventions), faced with a tough challenge in the Asian First Seven Secondary Finals held at the Colombo Horse Racing Tuesday evening (30)..
-
-The competition, which began at 4.00 pm, began about an hour after heavy rains.
-
-The stadium was slippery due to the rain and the two teams played amidst great difficulty.
-
-However, Kazakhstan immediately retaliated to Qatar's first points in a short time.
-
-Qatar was awarded a penalty goal as a Kazakhstan player played contrary to the rules.
-
-The Qatar break, which continued to play well, was 21 - 14.
-
-After the break, Qatar continued to play efficiently and was 28 - 19 in the 56th minute.
-
-After 8 minutes, Qatar made the status of the points by a penalty to 31 - 19.
-
-However, Kasakstan, who received 2 trucks in the next two minutes, won 33 - 31, and won by 2 points.
-
-...
-
-[Data](articles/45ae92c7.json)
-
-[Extended Data](ext_articles/45ae92c7.ext.json)
-
----
-
-### Suspect arrested in the gang which scared people
-
-*2024-04-30 22:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196147) · `si`
-
-Moratuwa Police arrested motorcycle gangs causing fear in the Western Province. Main suspect, Manna Samantha, fled.
-
-🟩
-
-Moratuwa Police have arrested the motorcycle gangs and the motorcycle motorcycle motorcycle cargo parking on the roads in the Western Province.
-
-According to the police, the main suspect of the gang, "Manna Samantha" has fled the area.
-
-◼️
-
-[Data](articles/23eef5bf.json)
-
-[Extended Data](ext_articles/23eef5bf.ext.json)
-
----
-
-### Lanka IOC fuel prices down
-
-*2024-04-30 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196146) · `si`
-
-Lanka IOC reduces fuel prices. Sri Lanka IOC follows suit. Ceylon Petroleum Corporation adjusts prices on 30th.
-
-🟩
-
-Lanka IOC has also been announced in his fuel prices.
-
-Accordingly, Sri Lanka IOC fuel prices will also decrease in the fuel prices.
-
-The Ceylon Petroleum Corporation had taken steps to amend fuel prices today (30).
-
-◼️
-
-[Data](articles/6b0f58b4.json)
-
-[Extended Data](ext_articles/6b0f58b4.ext.json)
-
----
-
-### Fuel prices cut from midnight today!
-
-*2024-04-30 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182364) · `ta`
-
-"Fuel prices in Ceylon reduced from midnight. Octane 92 now 368 rupees, 95 420 rupees, diesel 333 rupees, super diesel 215 rupees."
-
-🟩
-
-The Ministry of Energy has announced that the Ceylon Petroleum Corporation has been amended on Tuesday (30) at midnight.
-
-Accordingly, the price of the Octane 92 has been reduced by 3 rupees per liter to 368 rupees.. Octane 95 petrol was reduced by 20 rupees and 420 rupees.
-
-Similarly, the price of a liter of Lanka diesel is reduced by 30 rupees and its new price will be reduced to 333 rupees.
-
-Super diesel is expected to reduce the price of a liter by 9 rupees.
-
-மேலும், மண்ணெண்ணெய் லீற்றர் ஒன்றின் விலை 20 ரூபாவால் குறைக்கப்படவுள்ள நிலையில் அதன் புதிய விலை 215 ரூபாய் என இலங்கை பெற்றோலிய கூட்டுத்தாபனம் அறிவித்துள்ளது.
-
-◼️
-
-[Data](articles/2b0fc2c8.json)
-
-[Extended Data](ext_articles/2b0fc2c8.ext.json)
 
 ---

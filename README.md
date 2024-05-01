@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 09:19:00**
+As of **2024-05-01 09:34:17**
 
 ## Newspaper Stats
 
-*Scraped **21,997** Articles*
+*Scraped **21,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,842
 tamilmirrorlk | 2,554
-adaderanalk | 2,598
+adaderanalk | 2,599
 virakesarilk | 3,317
 dailymirrorlk | 3,432
 adaderanasinhalalk | 3,556
@@ -26,25 +26,49 @@ adaderanasinhalalk | 3,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,993 (100.0%) of 21,997 articles have been extended.
+21,997 (100.0%) of 21,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### சாரதிகளிடம் விடுக்கப்பட்ட கோரிக்கை
+### President extends invitation to all political parties in Labour Day Message
+
+*2024-05-01 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98947/president-extends-invitation-to-all-political-parties-in-labour-day-message) · `en`
+
+In his Labour Day Message, President Ranil Wickremesinghe extended an invitation to all political parties to join hands in charting a path towards a prosperous future for the nation.
+
+“Instead of a conventional May Day celebration, let us seize this opportunity to forge consensus, acknowledging contemporary trends and challenges,” he said.
+
+On the 138th observance of World Labour Day, born from a historic struggle for rights, our nation stands at a pivotal moment. Regardless of political affiliations, it falls upon each of us to shoulder the unshakable duty of fortifying our economy and propelling our nation onward.
+
+During the recent economic downturn, our working class bore the brunt of the hardship. I extend heartfelt appreciation to all who laboured diligently, driving the engine of our economy forward amidst adversity.
+
+...
+
+[Data](articles/1d63b1ae.json)
+
+---
+
+### Demand
 
 *2024-05-01 09:03:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிகளிடம்-விடுக்கப்பட்ட-கோரிக்கை/175-336587) · `ta`
 
-வீதி சமிக்ஞை விளக்குகளுக்கு அருகில் யாசகத்தில் ஈடுபடுவோருக்கு பணம் வழங்குவதை தவிர்க்குமாறு வாகன சாரதிகளிடம் பிரதி பொலிஸ்மா அதிபர் இந்திக்க ஹப்புகொட கோரிக்கை விடுத்துள்ளார்.
+Deputy Inspector General Indika Hapugoda advises drivers to avoid paying for roadside activities near street signal lights, as steps are being taken to remove disruptive Yasakas.
 
-போக்குவரத்துக்கு இடையூறு ஏற்படும் வகையில் செயற்படும் யாசகர்களை அப்புறப்படுத்துவதற்கான நடவடிக்கைகள் தற்போது முன்னெடுக்கப்படுகின்றன.
+🟩
 
-எனவே, சுற்றுவட்டங்கள் மற்றும் சமிக்ஞை விளக்குகளுக்கு அருகில் யாசகம் பெறுவோருக்கு பணம் வழங்குவதனை தவிர்ப்பதால், அவர்கள் அந்த இடங்களுக்கு பிரவேசிப்பதை தவிர்க்க முடியும் என இந்திக்க ஹபுகொட தெரிவித்துள்ளார்.  R
+Deputy Inspector General of Police Indika Hapugoda has asked the drivers to avoid paying money to those who engage in the road near the street signal lights.
+
+Steps are being taken to remove the Yasakas who are acting in disruption to traffic.
+
+Therefore, Indika Habukoda said that they can avoid entering those places as they avoid paying for those who get the surroundings and signal lights.R
 
 ◼️
 
 [Data](articles/213f31fb.json)
+
+[Extended Data](ext_articles/213f31fb.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/7f4d7404.json)
+
+[Extended Data](ext_articles/7f4d7404.ext.json)
 
 ---
 
@@ -106,21 +132,31 @@ Though it is May Day or workers' day today, people still struggle to earn their 
 
 ---
 
-### எந்த கட்சிக்கும் எனது ஆதரவை வெளியிடவில்லை- உயிர்த்த ஞாயிறு தாக்குதலுக்கு   நீதியை வழங்கும் திட்டத்தை முன்வைத்துள்ள எந்த கட்சிக்கும் வாக்களிக்குமாறு மக்களை  கேட்டுக்கொள்வேன்- மல்கம் ரஞ்சித்
+### I have not expressed my support for any party- I will ask the people to vote for any party that has put forward a plan to provide justice for the survival Sunday attack- Malcolm Ranjith
 
 *2024-05-01 08:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/182376) · `ta`
 
-கர்தினால் மல்கம் ரஞ்சித் தான் எந்தவொரு அரசியல்கட்சிக்கும் ஆதரவை வெளிப்படுத்தவில்லை என குறிப்பிட்டுள்ளார்.
+Cardinal Malcolm Ranjit denies supporting any political party, rejects allegations of bias, and criticizes politicians for misleading the public. He emphasizes the importance of justice for the survival Sunday attack victims and calls for open investigations.
 
-உயிர்த்த ஞாயிறு தாக்குதல் குறிதது சமீபத்தில் இடம்பெற்ற நாடாளுமன்ற விவாதத்தின்போது கர்தினால் மல்கம் ரஞ்சித் எதிர்வரும் ஜனாதிபதி தேர்தலில் பொதுமக்கள் குறிப்பிட்ட ஒரு அரசியல் கட்சிக்கு வாக்களிக்கவேண்டும் என தெரிவிக்கும் வகையில் செயற்படுகின்றார் என குற்றச்சாட்டுகள் வெளியாகியிருந்த நிலையில் கர்தினால் அதனை நிராகரித்துள்ளார்.
+🟩
 
-எதிர்வரும் ஜனாதிபதி தேர்தலில் குறிப்பிட்ட ஒரு கட்சிக்கு ஆதரவை தெரிவிக்கும் விதத்தில் அல்லது பொதுமக்களின் ஆதரவை பெற்றுக்கொடுக்கும் விதத்தில் நான் கருத்து தெரிவிக்கவில்லை என குறிப்பிட்டுள்ள கர்தினால் மல்கம் ரஞ்சித்  அரசியல்வாதிகள் வெளியிட்டுள்ள அறிக்கைகளை கண்டித்துள்ளார்.
+Cardinal Malcolm Ranjit noted that he did not express support for any political party.
 
-அரசியல்வாதிகளின் இவ்வாறான அறிக்கைகள் மக்களை தவறாக வழிநடத்தலாம் என தெரிவித்துள்ள அவர் நாடாளுமன்ற உறுப்பினர்கள் இவ்வாறான ஆதாரமற்ற அறிக்கைகளை தவிர்த்துக்கொள்ளவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளார்.
+Cardinal Malcolm Ranjit has rejected the allegations that he is acting to vote for a political party in the upcoming presidential election during a recent parliamentary debate.
+
+Cardinal Malcolm Ranjit condemns the reports issued by Cardinal Malcolm politicians, saying that I did not comment on the support of a particular party in the upcoming presidential election or to gain public support.
+
+He said that such statements of politicians could mislead the people, and that MPs should avoid such unfounded statements.
+
+Malcam Ranji, who has not criticized me, has been disappointed by the reports of some individuals who have been protected by parliamentary privileges.
+
+He said that only the main opposition United People's Power and the opposition party, the opposition party, have submitted their ideas on how to carry out investigations into the survival Sunday attack and other parties can submit their ideas.
 
 ...
 
 [Data](articles/ba98725f.json)
+
+[Extended Data](ext_articles/ba98725f.ext.json)
 
 ---
 
@@ -174,17 +210,23 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### සියලුම ඉන්ධන වර්ගවල මිල පහළට
+### The price of all fuel types down
 
 *2024-05-01 08:01:26* · [`adalk`](https://www.ada.lk/breaking_news/සියලුම-ඉන්ධන-වර්ගවල-මිල-පහළට/11-409357) · `si`
 
-සියලුම ඉන්ධන වර්ග  වල මිල ගණන් අඩු කිරිමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ. මේ අනුව ලංකා පෙට්‍රල් (92) රුපියල් තුනකින් සහ ලංකා සුදු ඩීසල් රුපියල් තිහකින් ඊයේ මධ්‍යම රාත්‍රියේ සිට අඩු කර ඇත.
+Ceylon Petroleum Corporation has reduced prices of all fuel types. Ceylon Petrol (92) is now 9 rupees, Lanka White Diesel 20 rupees, and Petrol Overtine 95 rupees.
 
-එසේම පෙට්‍රල්ඔක්ටේන් 95 රුපියල් විස්සකි හා සුපිරි ඩීසල් රුපියල් 9කින්ද අඩුකර ඇත.
+🟩
+
+Ceylon Petroleum Corporation has taken steps to reduce the prices of all fuel types. Accordingly, the Ceylon Petrol (92) Petrol (92) has been reduced from three rupees and Lanka white diesel from 30 rupees.
+
+Petrol Overtine 95 rupees twenty Rs. 9 rupees.
 
 ◼️
 
 [Data](articles/b5feeb34.json)
+
+[Extended Data](ext_articles/b5feeb34.ext.json)
 
 ---
 
@@ -2183,29 +2225,5 @@ Accordingly, the ban has been issued to recommend the names of the High Court ju
 [Data](articles/b6e08fd3.json)
 
 [Extended Data](ext_articles/b6e08fd3.ext.json)
-
----
-
-### Colombo inflation increased
-
-*2024-04-30 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196139) · `si`
-
-Colombo's annual point inflation rose to 1.5% from 0.5% in March 2024. Food inflation fell to 2.9% from 3.8%, while non-food inflation increased to 0.9% in April 2024.
-
-🟩
-
-The annual point inflation, measured by the annual point difference in the Colombo Consumer Price Index has increased to 1.5% from 0.5 percent in March 2024.
-
-The food group inflation has been reduced to 2.9% from 3.8% to 2.9% in March, 2024.
-
-The non-food category has increased to 0.9 percent in April 2024 compared to the annual point inflation recorded in March 2024.
-
-This is stated in a new report issued by the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/f401b0e1.json)
-
-[Extended Data](ext_articles/f401b0e1.ext.json)
 
 ---

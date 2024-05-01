@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 18:22:51**
+As of **2024-05-01 18:34:40**
 
 ## Newspaper Stats
 
-*Scraped **22,112** Articles*
+*Scraped **22,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,202
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,855
-tamilmirrorlk | 2,578
-adaderanalk | 2,613
+tamilmirrorlk | 2,579
+adaderanalk | 2,614
 virakesarilk | 3,337
-dailymirrorlk | 3,458
-adaderanasinhalalk | 3,571
+dailymirrorlk | 3,460
+adaderanasinhalalk | 3,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,110 (100.0%) of 22,112 articles have been extended.
+22,112 (100.0%) of 22,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### President calls on opposition to help safeguard Sri Lanka’s agreement with IMF
+
+*2024-05-01 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98960/president-calls-on-opposition-to-help-safeguard-sri-lankas-agreement-with-imf-) · `en`
+
+President Ranil Wickremesinghe called upon the Janatha Vimukthi Peramuna (JVP), the Samagi Jana Balavegaya (SJB) and other political parties to extend their support to the government in safeguarding the agreements forged with the International Monetary Fund (IMF).
+
+Addressing the United National Party’s (UNP) May Day rally held in Colombo, Wickremesinghe revealed that he will table in the parliament a law which is inclusive of the agreements that the government has reached with the IMF. Thus, he requested all the parties to support in passing the law in order to continue to safeguard the current stable situation that the country has acquired.
+
+“I will table in the parliament a law which is inclusive of the agreements we’ve reached with the IMF. I request everyone to support me in that”, the President said.
+
+...
+
+[Data](articles/7a42a4f6.json)
+
+---
+
+### මේ නැකැත් දෙක මතක තියාගන්න - ජනපති
+
+*2024-05-01 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196172) · `si`
+
+ශ්‍රී ලංකාවේ හොඳම නැකැත් ඇත්තේ රටට සහ එක්සත් ජාතික පක්ෂයට බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එක්සත් ජාතික පක්ෂයේ මැයි දින රැලිය අමතමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+"ශ්‍රී ලංකාවේ හොඳම නැකැත් තියෙන්නේ රටටයි එක්සත් ජාතික පක්ෂයටයි. ඒකයි මේ වැටුණු රට අපිට උස්සන්න පුළුවන් වුණේ. රට වැටුණු වෙලාවේ විපක්ෂ නායක විතරක් නෙමෙයි... හැම පක්ෂයම දුවලා ලංකාව ගිනස් වාර්තාවක් තිබ්බා.  අන්තිමට මට ගන්න වුණා. මං කවුද?.. තනි මන්ත්‍රීවරයෙක් ඉන්න පක්ෂයක නායකයෙක්. අපි අභියෝග හමුවේ දුවන්නේ නැහැ."
+
+◼️
+
+[Data](articles/8b1beb77.json)
+
+---
+
+### Land bridge with India to bring mutual benefits: Sagala
+
+*2024-05-01 17:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Land-bridge-with-India-to-bring-mutual-benefits-Sagala/108-281731) · `en`
+
+Colombo, May 1 (Daily Mirror)- Chief of Staff of the President, Sagala Ratnayake said the proposed land bridge with India will benefit both countries.
+
+Making his remarks at the UNP May Day rally, he said it is economical for India to use the Sri Lankan ports to unload India-bound containers and then transport them by road to their destinations.
+
+“It will reduce their costs. More than that, Sri Lanka will benefit in the whole economic process,” he said.
+
+He said the country will benefit even further in terms of power grid and pipeline connectivities.
+
+◼️
+
+[Data](articles/4b89d7a6.json)
+
+---
 
 ### Anura Saggim asks for a day
 
@@ -55,6 +105,32 @@ He said the May Day rally was the final May Day rally held under the corrupt rul
 [Data](articles/33d9d845.json)
 
 [Extended Data](ext_articles/33d9d845.ext.json)
+
+---
+
+### Maithri out, Wijeyadasa in...
+
+*2024-05-01 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Maithri-out-Wijeyadasa-in/110-281730) · `en`
+
+Minister of Justice Wijeyadasa Rajapakshe took the stage alongside former President Maithripala Sirisena at the Sri Lanka Freedom Party May Day rally in Gampaha today. Rajapakshe, who retains his membership with the Sri Lanka Podujana Peramuna (SLPP) through which he entered Parliament in 2020, was named as the SLFP's Presidential candidate for the upcoming elections earlier today.
+
+◼️
+
+[Data](articles/96551443.json)
+
+---
+
+### ரூ. 1,700 க்கான வர்த்தமானி வெளியானது
+
+*2024-05-01 17:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ-1-700-க்கான-வர்த்தமானி-வெளியானது/76-336616) · `ta`
+
+நாளாந்த சம்பளம் 1,350 ரூபாயாகும். நாளாந்த விசேட படி 350 ரூபாயாகும். அதனடிப்படையில் மொத்தமாக 1,700 ரூபாய் வழங்கப்படும் என்று அறிவித்தலில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலதிகமாக பறிக்கப்படும் ஒவ்வொரு கிலோ கிராம் தேயிலைக்கும் 80 ரூபாய் வழங்கப்படும் என்றும் வர்த்தமானியில் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/5ddc0b0c.json)
 
 ---
 
@@ -2131,109 +2207,5 @@ According to this price revision, the new price of a cement bag will be Rs. 2,40
 [Data](articles/0808713a.json)
 
 [Extended Data](ext_articles/0808713a.ext.json)
-
----
-
-### SLFP President's candidate Wijayadasa - Maithri
-
-*2024-05-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196157) · `si`
-
-"SLFP's Wijayadasa Rajapaksa, supported by former President Sirisena, is the new candidate. Sirisena emphasizes Rajapaksa's consent and support from the party, highlighting his transition from minister to candidate."
-
-🟩
-
-Former President Maithripala Sirisena says that Wijayadasa Rajapaksa will be presented as the Sri Lanka Freedom Party (SLFP) candidate.
-
-He was speaking at a ceremony of the trade union leader T.B Ilangaratne.
-
-"Wijayadasa Rajapaksa's consent is the consent of most of the party. I've been trying to. I said I would do at one time. When I was sworn in, I said I wouldn't contest again. Mr. Wijayadasa is asking for, we fully support. We took a minister of the government. Now he's our. There is no love for the portfolio. "
-
-◼️
-
-[Data](articles/30df9599.json)
-
-[Extended Data](ext_articles/30df9599.ext.json)
-
----
-
-### Sinopec also reduces fuel prices
-
-*2024-05-01 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinopec-also-reduces-fuel-prices/108-281707) · `en`
-
-Colombo, May 1 (Daily Mirror) - In conjunction with the fuel price revision that took place last night by the Ceylon Petroleum Corporation (CPC), Sinopec Energy Lanka today announced its price revision with effect from today.
-
-Accordingly, a litre of 92 Octane Petrol has been reduced by Rs. 3, and the new retail price will be Rs. 365. A litre of 95 Octane Petrol has been reduced by Rs. 20, and the new retail price will be Rs. 420.
-
-A litre of auto-diesel reduced by Rs. 27, and the current price is Rs. 333. Meanwhile, a litre of Super Diesel has been reduced by Rs. 9, and the new retail price will be Rs. 377.
-
-◼️
-
-[Data](articles/7ccfcfc2.json)
-
-[Extended Data](ext_articles/7ccfcfc2.ext.json)
-
----
-
-### Singers arrive from India for National May Day rally
-
-*2024-05-01 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Singers-arrive-from-India-for-National-May-Day-rally/110-281706) · `en`
-
-A group of singers from India arrived at the Bandaranaike International Airport (BIA) yesterday (April 30) to perform in the music concert organized in conjunction with the National May Day rally of the government. Vijay Balakrishnan, Ramya Nagercovil, Daniel Jayaram and Reshma Sundaram are among several other Indian musicians, such as Dharmar Satya Prakash and Nurani Varsha, also scheduled to visit the country today for the concert. Pix by T.K.G. Kapila
-
-◼️
-
-[Data](articles/67dfc182.json)
-
-[Extended Data](ext_articles/67dfc182.ext.json)
-
----
-
-### May rallies are the power of political party
-
-*2024-05-01 10:06:23* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-පක්ෂ-බලය--උරගා-බලන-මැයි-රැලි-අදයි/11-409360) · `si`
-
-Political parties in Sri Lanka plan May Day rallies and parades across the country, with significant police deployment for safety and traffic management.
-
-🟩
-
-The main political parties have planned to hold a number of May Day waves and parades outside the Colombo City and outside the World Labor Day.. Nearly 10,000 police officers and three hundred police officers have been deployed throughout the island to handle the safety and traffic in celebrations and traffic.
-
-Police are also planned to be called for army soldiers and the police are also asking for the premises of May Day waves and parades.
-
-The UNP's May Day rally is being held in front of PD Sirisena playing, and there is no May Day rally.
-
-The May Day rally of the Sri Lanka General Secretary (May rally is held at the Colombo Campbell Ground, and there is no parade.
-
-The May Day rally in the low chatham will be held in the Pahanam field and a parade is held from the Sunders Place.
-
-The National Crocutor will be held in front of the May Day rally in Colombo and the May Day rally in Colombo will be held in front of Kannangara Mawatha.
-
-...
-
-[Data](articles/76ea18c3.json)
-
-[Extended Data](ext_articles/76ea18c3.ext.json)
-
----
-
-### Minister of Defense Special Observation on the risk of landslides in Karandagolla area in Badulla
-
-*2024-05-01 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182294) · `ta`
-
-Defense Minister Bandara Tennakoon visited Karandagolla, Badulla, to assess landslide risks, ordering a detailed report. Authorities, including the National Building Research Institute and Risk Management Center, were instructed to prevent future risks. A review of the land area is planned for May 1st.
-
-🟩
-
-Defense Minister of State for Defense Bandara Tennakoon on April 21 paid special attention to the landslide near the Ellawaya road in the Karandakolla area of the Badulla district and ordered the relevant authorities to re -examine the location and submit a detailed report.
-
-In addition, the Minister of State has provided the instructions to the National Building Research Institute and the Risk Management Center to take immediate steps to prevent the risk of humanity in the future.
-
-In addition to the instructions of the Minister of State, the Director General of the Risk Management Center, the Director of the National Building Research Institute and the Scientists of the Geological Survey and the Mining Bureau of the Ministry of Ministry have taken steps to review the land area on the 01st of May.
-
-◼️
-
-[Data](articles/21ef5f65.json)
-
-[Extended Data](ext_articles/21ef5f65.ext.json)
 
 ---

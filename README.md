@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 08:34:15**
+As of **2024-05-01 08:53:19**
 
 ## Newspaper Stats
 
-*Scraped **21,989** Articles*
+*Scraped **21,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,75 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,247
 adalk | 1,841
-tamilmirrorlk | 2,552
+tamilmirrorlk | 2,553
 adaderanalk | 2,597
 virakesarilk | 3,316
-dailymirrorlk | 3,431
+dailymirrorlk | 3,432
 adaderanasinhalalk | 3,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,987 (100.0%) of 21,989 articles have been extended.
+21,989 (100.0%) of 21,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### සයිනොපෙක් ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+### Working to earn their living
+
+*2024-05-01 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-to-earn-their-living/110-281663) · `en`
+
+Though it is May Day or workers' day today, people still struggle to earn their living at Colombo Fort. This makes it obvious that everyone who works must do so to make ends meet. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/80ab50e9.json)
+
+---
+
+### The fuel prices change this way
 
 *2024-05-01 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196153) · `si`
 
-ඊයේ මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් ඉන්ධන මිල ගණන් පහළ දැමීමට පියවර ගෙන තිබේ.
+Fuel prices adjusted: Octan 92 down by Rs. 365, Octan 95 by Rs. 20, Auto diesel to Rs. 333, Sinaperic Super diesel by Rs. 977.
 
-ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 3කින් පහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල රුපියල් 365කි.
+🟩
 
-ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල් 20කින් පහළ දමා ඇති අතර එහි නව රුපියල් 420කි.
+Steps have been taken to download fuel prices to operate from midnight yesterday.
 
-එසේම රුපියල් 27කින් ඔටෝ ඩීසල් මිල පහළ දැමීමට පියවර ගෙන ඇති අතර එහි නව මිල රුපියල් 333කි.
+Accordingly, the price of a liter of octan 92 petrol has been reduced by Rs. 365.
 
-සයිනොපෙක් සුපර් ඩීසල් මිල ද රුපියල් 9කින් පහළ දැමීමට පියවර ගෙන ඇති අතර එහි නව මිල රුපියල් 377කි.
+A liter of octan 95 petrol has been reduced by Rs. 20 rupees.
+
+Steps have been taken to reduce Auto diesel prices by 27 rupees and its new price is Rs. 333.
+
+Steps have been taken to reduce the Sinaperic Super diesel by Rs. 977.
 
 ◼️
 
 [Data](articles/bca8e462.json)
+
+[Extended Data](ext_articles/bca8e462.ext.json)
+
+---
+
+### இடியுடன் கூடிய மழைக்கு வாய்ப்பு
+
+*2024-05-01 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-336586) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடமேல் மாகாணத்தில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும் மத்திய மாகாணங்களில் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள்.  R
+
+◼️
+
+[Data](articles/d538edce.json)
 
 ---
 
@@ -1546,21 +1582,27 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 
 ---
 
-### ජනපති හෙට මැයි රැළි දෙකකට එක්වෙයි
+### President leaves two May wrinkles
 
 *2024-04-30 18:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-මැයි-රැළි-දෙකකට-එක්වෙයි/11-409354) · `si`
 
-ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෙට (01) මැයි දින රැළි දෙකකට එක්වීමට නියමිතය.
+President Ranil Wickremesinghe will attend the International Labor Day rally tomorrow, organized by the Ceylon Workers Congress at Kotagala Public Stadium. The UNP will hold its rally at Colombo Maligawatta Police at 2.00 pm.
 
-ලංකා කම්කරු කොංග්‍රසය සංවිධානය කරන මැයි දින රැළිය හෙට (01) පෙ.ව 10.00ට කොටගල මහජන ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිත අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රථමයෙන් ඊට එක්වීමට නියමිතය.
+🟩
 
-ලංකා කම්කරු කොංග්‍රසයේ ආරාධනය පරිදි ජනාධිපතිවරයා මේ සඳහා එක්වන අතර වතුකරයේ ජනතාව විශාල පිරිසකගේ සහභාගීත්වයෙන් එම මැයි දින රැළිය සහ පෙළපාලිය පැවැත්වෙනු ඇත. කඳුකර ප්‍රජාව නියෝජනය කරන විශාලතම වෘත්තීය සමිතිය සහ දේශපාලන පක්ෂය වනුයේ ද ‍ලංකා කම්කරු කොංග්‍රසයයි.
+President Ranil Wickremesinghe will join the International Labor Day tomorrow (01).
 
-මේ අතර එක්සත් ජාතික පක්ෂ මැයි දින රැළිය හෙට (01) ප.ව 2.00ට කොළඹ මාළිගාවත්ත පොලිසිය ඉදිරිපිට දි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආරම්භ වෙයි.
+The May Day rally, which is organized by the Ceylon Workers Congress, will commence at the Kotagala Public Stadium tomorrow (01).
+
+The President will join the invitation of the Ceylon Workers Congress and the President will hold the May Day rally with the participation of a large number of people in the plantation people. The largest union and the political party representing the mountain community is the Ceylon Workers Congress.
+
+Meanwhile, the UNP's May Day rally will commence from the front of the Colombo Maligawatta Police tomorrow at 2.00 pm.
 
 ◼️
 
 [Data](articles/a31175da.json)
+
+[Extended Data](ext_articles/a31175da.ext.json)
 
 ---
 
@@ -2179,45 +2221,5 @@ The United Nations Committee on Child Rights has recently pointed out that the l
 [Data](articles/c81d2e88.json)
 
 [Extended Data](ext_articles/c81d2e88.ext.json)
-
----
-
-### Parties gear up for May Day rallies...
-
-*2024-04-30 16:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Parties-gear-up-for-May-Day-rallies/110-281662) · `en`
-
-Main parties such as the United National Party (UNP), Samagi Jana Balawegaya (SJB) and National People's Power (NPP) preparing for their respective May Day rallies to be held in Colombo tomorrow. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/5e745484.json)
-
-[Extended Data](ext_articles/5e745484.ext.json)
-
----
-
-### Vijayakumar's 'Elkson' will be released in May
-
-*2024-04-30 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182333) · `ta`
-
-"Vijayakumar's 'Elkson', featuring Preity Azrani and Richa Joshi, will release on May 17 at Film House. The film, based on local election politics, has a song that's garnered over a million views online. The release is timed with the Lok Sabha elections vote count on June 4."
-
-🟩
-
-The task of counting the votes cast in the Lok Sabha elections in India will take place on the fourth of June.
-
-Only then will the election results be released. In this backdrop, the film 'Elkson' will be released on May 17 at the film House.
-
-Vijay Kumar, Preity Azrani, Richa Joshi, Dileepan, Powell Navadekithan, George Mariam. Govind Vasantha has composed the film, which has been recorded by Mahendran Jayaraju. The film, which is based on local election politics, has produced the producer Aditya on behalf of Reel Good Films.
-
-A song featured in the film has been released on the Internet and has been visited by more than a million visitors.. In this case, the film crew has released new information on the release of the film. The film will be released at the film mansion on May 17.
-
-The film crew has been excited that the songs, lyrical video, trailer and sneak peak will continue to be released to provoke fans' interest in 'Elkson'.
-
-◼️
-
-[Data](articles/4c4ed8b1.json)
-
-[Extended Data](ext_articles/4c4ed8b1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 10:33:55**
+As of **2024-05-01 10:51:50**
 
 ## Newspaper Stats
 
-*Scraped **22,009** Articles*
+*Scraped **22,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,842
+adalk | 1,845
 tamilmirrorlk | 2,555
-adaderanalk | 2,599
+adaderanalk | 2,600
 virakesarilk | 3,320
 dailymirrorlk | 3,436
 adaderanasinhalalk | 3,559
@@ -26,25 +26,61 @@ adaderanasinhalalk | 3,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,006 (100.0%) of 22,009 articles have been extended.
+22,009 (100.0%) of 22,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනපති අපේක්ෂකයා විජයදාස - මෛත්‍රී
+### Cement price further reduced
+
+*2024-05-01 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98948/cement-price-further-reduced-) · `en`
+
+The maximum retail price of a 50kg bag of cement has been reduced by Rs. 50 to Rs. 2,400 with effect from today (May 01).
+
+The industry media announcement stated that cement at the new Maximum Retail Price will be available in the market from today onwards.
+
+The price revision reportedly aims to boost the local construction industry by passing on the cost benefit to consumers.
+
+◼️
+
+[Data](articles/82f24bcf.json)
+
+---
+
+### සිමෙන්ති මිලත් වෙනසක් වෙයි
+
+*2024-05-01 10:22:01* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-මිලත්-වෙනසක්-වෙයි/11-409361) · `si`
+
+කිලෝග්‍රෑම් 50 සිමෙන්ති බෑගයක මිල රුපියල් 50කින් පහළ දැමීමට සිමෙන්ති සමාගම්  තීරණය කර තිබේ. ඒ අනුව අද 01දා සිට ක්‍රියාත්මක වන පරිදි සිමෙන්ති මිල පහළ දැමීමට තීරණය කර තිබේ.
+
+මෙම මිල සංශෝධනය අනුව සිමෙන්ති බෑගයක නව මිල රුපියල් 2,400ක්  වනු ඇති බව එම සමාගම් නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/0808713a.json)
+
+---
+
+### SLFP President's candidate Wijayadasa - Maithri
 
 *2024-05-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196157) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස විජයදාස රාජපක්ෂ මහතා ඉදිරිපත් වනු ඇති බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+"SLFP's Wijayadasa Rajapaksa, supported by former President Sirisena, is the new candidate. Sirisena emphasizes Rajapaksa's consent and support from the party, highlighting his transition from minister to candidate."
 
-ඒ මහතා මෙම අදහස් පළකළේ වෘත්තීය වෘත්තීය සමිති නායක T.B ඉලංගරත්න මහතාගේ ගුණසමරු උත්සවයට එක්වෙමිනි.
+🟩
 
-"විජයදාස රාජපක්ෂ මැතිතුමාට තමයි පක්ෂයේ වැඩිදෙනෙකුගේ කැමැත්ත තියෙන්නේ. මම එකගමනක් කළා. මම එක සැරයක් කරන්නේ කියලා කිව්වා. ඒ සැරේ දිවුරුම් දෙන වෙලාවේම මම කිව්වා මම ආයෙමත් තරගකරන්නේ නෑ කියලා. විජයදාස මහත්මයා තමයි ඉල්ලන්නේ, අපි සම්පූර්ණ සහාය දෙනවා. ආණ්ඩුවේ ඇමතිවරයෙක් අපි ගත්තා. දැන් එයා අපේ. ඇමතිකම ගැන දැන් කිසිම කැමැත්තක් නෑ."
+Former President Maithripala Sirisena says that Wijayadasa Rajapaksa will be presented as the Sri Lanka Freedom Party (SLFP) candidate.
+
+He was speaking at a ceremony of the trade union leader T.B Ilangaratne.
+
+"Wijayadasa Rajapaksa's consent is the consent of most of the party. I've been trying to. I said I would do at one time. When I was sworn in, I said I wouldn't contest again. Mr. Wijayadasa is asking for, we fully support. We took a minister of the government. Now he's our. There is no love for the portfolio. "
 
 ◼️
 
 [Data](articles/30df9599.json)
+
+[Extended Data](ext_articles/30df9599.ext.json)
 
 ---
 
@@ -62,6 +98,8 @@ A litre of auto-diesel reduced by Rs. 27, and the current price is Rs. 333. Mean
 
 [Data](articles/7ccfcfc2.json)
 
+[Extended Data](ext_articles/7ccfcfc2.ext.json)
+
 ---
 
 ### Singers arrive from India for National May Day rally
@@ -73,6 +111,28 @@ A group of singers from India arrived at the Bandaranaike International Airport 
 ◼️
 
 [Data](articles/67dfc182.json)
+
+[Extended Data](ext_articles/67dfc182.ext.json)
+
+---
+
+### දේශපාලන පක්ෂ බලය  උරගා බලන මැයි රැලි අදයි
+
+*2024-05-01 10:06:23* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-පක්ෂ-බලය--උරගා-බලන-මැයි-රැලි-අදයි/11-409360) · `si`
+
+ලෝක කම්කරු දිනය මූලික කර ගනිමින් ප්‍රධාන දේශපාලන පක්ෂ තම බල උරගා බැලීම සඳහා කොළඹ නගරය තුළ හා කොළඹින් පිටත ප්‍රදේශවල මැයි දින රැළි හා පෙළපාළි රැසක් පැවැත්වීමට සැලසුම් කර තිබේ. මැයි දින රැළි හා පෙළපාළි සැමරුම් උත්සවල ආරක්ෂාවට හා රථවාහන හැසිරවීම සඳහා දිවයින පුරා පොලිස් නිලධාරීන් දසදහසකට ආසන්න ප්‍රමාණයක් හා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් තුන්සියයක් පමණ යොදවා සිටියි.
+
+මීට අමතරව අවශ්‍ය වුවහොත්, යුද හමුදා සාමාජිකයන්ද කැඳවීමට පොලීසිය සැලසුම් කර තිබෙන අතර, අද දිනයේදී මැයි දින රැළි හා පෙළපාළි පැවැත්වෙන ස්ථාන මූලික කර ගනිමින් මාර්ග වැසීම සිදුවන නිසා විකල්ප මාර්ග භාවිත කරන ලෙසද පොලීසිය ඉල්ලා සිටියි.
+
+එක්සත් ජාතික පක්ෂයේ මැයි රැළිය කොළඹ පී.ඩී  සිරිසේන ක්‍රිඩාංගණය ඉදිරිපිට පැවැත්වෙන අතර, මැයි දින පෙළපාළියක් නොමැත.
+
+ශ්‍රි ලංකා පොදුජන පෙරමුණේ මැයි දින රැළිය කොළඹ කැම්බල් පිටියේදී පැවැත්වෙන අතර, පෙළපාළියක් නොමැත.
+
+සමගි ජනබලවේගයේ මැයි රැළිය පහල චැතම් විදියේදී පැවැත්වෙන අතර, සොන්ඩර්ස් පෙදෙසේ සිට මෙම ස්ථානය දක්වා පෙළපාළියක් පැවැත්වේ.
+
+...
+
+[Data](articles/76ea18c3.json)
 
 ---
 
@@ -1760,6 +1820,22 @@ The event coincided with the 33rd anniversary celebration of the conservation an
 
 ---
 
+### පක්ෂ විපක්ෂ මන්ත්‍රීවරු 100ක් තීරු බදු රහිත වාහන බලපත්‍ර ඉල්ලති
+
+*2024-04-30 20:02:50* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ-විපක්ෂ-මන්ත්‍රීවරු-100ක්-තීරු-බදු-රහිත-වාහන-බලපත්‍ර-ඉල්ලති/11-409356) · `si`
+
+පක්ෂ විපක්ෂ මන්ත්‍රීවරුන් 100ට වැඩි පිරිසක් තීරු බදු රහිත වාහන ගෙන්වීමට අවසර ලබා දෙන ලෙස තමාට ඉල්ලීම් ඉදිරිපත් කර ඇති බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා 'අද' පුවත්පතට පැවසීය.
+
+වර්තමානයේ එම මන්ත්‍රීවරුන් භාවිතා කරනු ලබන වාහන පැරණි වීම හේතුවෙන් මෙම ඉල්ලීම තමා වෙත ඉදිරිපත් කළ බව කථානායකවරයා සඳහන් කළේය.
+
+ඒ අනුව මෙම ඉල්ලීම් සම්බන්ධයෙන් ඉදිරියේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැනුවත් කිරීමට කටයුතු කරන බවද කථානායක මහින්ද යාපා අබේවර්ධන මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/09e39160.json)
+
+---
+
 ### Indian T20 squad named
 
 *2024-04-30 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196143) · `si`
@@ -2117,107 +2193,5 @@ A bond maturing on 01.10.2032 closed down at 12.35/40 percent from 12.40/55 perc
 [Data](articles/0b1cd748.json)
 
 [Extended Data](ext_articles/0b1cd748.ext.json)
-
----
-
-### Woman arrested for bribes
-
-*2024-04-30 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196141) · `si`
-
-A woman was arrested for attempting to bribe the OIC of the Kalutara South Corruption Division to help her husband, who was arrested with heroin. The suspect allegedly tried to bribe the OIC with a shirt, which led to her arrest.
-
-🟩
-
-A woman was arrested for attempting bribery to the OIC of the Kalutara South Corruption Division to rescue her husband who was arrested with heroin.
-
-Kalutara South Police Headquarters said that the suspect had been attempted to provide a bribe of Rs.
-
-The OIC Sub Inspector General of the Kalutara South Corporate T Sri Ranga had been arrested with heroin with heroin and brought to the South Police.
-
-The suspect had telephoned his wife to get a shirt and the wife had come to the police for about 20 minutes, police said.
-
-A senior police officer said that she had requested the OIC at the Chief Prevention Unit of the police currency department.
-
-The OIC was arrested by the OIC of the Anti-Corruption Sector Ruwan Wijesinghe.
-
-◼️
-
-[Data](articles/30b1e6ae.json)
-
-[Extended Data](ext_articles/30b1e6ae.ext.json)
-
----
-
-### A new law to prohibit the children 'punishment
-
-*2024-04-30 17:33:17* · [`adalk`](https://www.ada.lk/breaking_news/දරුවන්ට-ශාරීරික-දඩුවම්-පැමිණවීම-තහනම්-කිරීමට-නව-නීතියක්/11-409351) · `si`
-
-Sri Lanka's Cabinet, led by President Ranil Wickremesinghe, has approved amendments to the Penal Code and Criminal Procedure Code Act to protect children's rights and combat violence. This move follows years of concern over children's inhumane treatment. The amendments aim to prevent physical punishment and promote peace across all sectors.
-
-🟩
-
-President Ranil Wickremesinghe and the Criminal Procedure Minister DB Wijedasa Rajapakse and the Honorable Procedure Minister DB Wijedasa Rajapakse, Minister of Justice and the Constitutional Reforms of Hon.Cabinet Spokesperson Minister of Transport and Highways Dr. Bandula Gunawardena said that the Cabinet approved by the Cabinet of Ministers.
-
-He was speaking at a press conference to inform the Cabinet decisions held in the Government Information Department today.
-
-The best thing should be given to President Ranil Wickremesinghe's attention to the children and to prevent the worst of the worst.The proposal is presented.
-
-Accordingly, the Cabinet approved to amend the Penal Code and Criminal Procedure Code Act to promote the rights of children in Sri Lanka and to promote the violence in all sectors.
-
-...
-
-[Data](articles/44b297af.json)
-
-[Extended Data](ext_articles/44b297af.ext.json)
-
----
-
-### Selever trade agreement with Indonesia
-
-*2024-04-30 17:26:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාව-සමග-වරණීය-වෙළඳ-ගිවිසුමක්/11-409350) · `si`
-
-The government is negotiating a preferential trade agreement with Indonesia, with discussions held on 4/03/20/2012 between the Minister of Foreign Affairs and the Deputy Minister of Foreign Affairs. The two sides agreed to a 2nd meeting on 2024/06/19 and 20.
-
-🟩
-
-The government is focused on signing a preferential trade agreement with Indonesia. The Cabinet Meeting was approved by the Cabinet Meeting held for the commencement of the preferential trade agreement.
-
-Official discussions were held between the Minister of Foreign Affairs and the Deputy Minister of Foreign Affairs on 4/03/20/2012.
-
-During the discussion committee, discussion system and discussions have been exchanged between the two parties and coverage areas.
-
-The two sides have agreed to hold the 2nd Meeting of the Committee on 2024/06/19 and 20.
-
-◼️
-
-[Data](articles/27ca53b5.json)
-
-[Extended Data](ext_articles/27ca53b5.ext.json)
-
----
-
-### Mottin rally will only be held at the stadium
-
-*2024-04-30 17:22:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டின்-பேரணி-மட்டுமே-மைதானத்தில்-நடைபெறும்/175-336561) · `ta`
-
-SLPP's Sakara Kariyawasam highlighted the party's unique privilege to hold its May Day rally at a playground, unlike other parties forced to use streets. He criticized the closure of streets due to large crowds and urged other parties to secure playgrounds for their events.
-
-🟩
-
-SLPP General Secretary Parliamentarian Sakara Kariyawasam said that the Sri Lanka PA had become a unique party to hold its May Day meeting at the playground and could not get similar places to others.
-
-Commenting on the media, he said that the political parties had previously held their May Day rally at the playgrounds.. However, among all political parties, the SLPP has gained great support and confidence to hold their rally in such a place.
-
-Sadly, other political parties other than the SLPP were forced to hold May Day rallies on the streets, pointing their limits. The United People's Power (SJB) and the People's Liberation Front (JVP) were forced to hold rallies on the street.
-
-Starting from some playgrounds but ending the streets. This tactic will often lead to the closure of the streets as it aims to create illusion as a massive crowd, ”MP Kariyawasam said.
-
-As a Sri Lanka PA, we are urging other parties to strengthen their position and hold May Day meetings at least at least playgrounds.
-
-...
-
-[Data](articles/1824b3dc.json)
-
-[Extended Data](ext_articles/1824b3dc.ext.json)
 
 ---

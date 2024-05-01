@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 19:18:45**
+As of **2024-05-01 19:34:22**
 
 ## Newspaper Stats
 
-*Scraped **22,121** Articles*
+*Scraped **22,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ economynextcom | 1,248
 adalk | 1,855
 tamilmirrorlk | 2,579
 adaderanalk | 2,615
-virakesarilk | 3,337
+virakesarilk | 3,338
 dailymirrorlk | 3,463
 adaderanasinhalalk | 3,572
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,120 (100.0%) of 22,121 articles have been extended.
+22,121 (100.0%) of 22,122 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ Thousands of supporters gathered for the National People’s Power May Day rally
 ◼️
 
 [Data](articles/03d242ac.json)
+
+[Extended Data](ext_articles/03d242ac.ext.json)
 
 ---
 
@@ -133,6 +135,22 @@ Addressing the May Day Rally addressing the President, the President said.
 [Data](articles/8b1beb77.json)
 
 [Extended Data](ext_articles/8b1beb77.ext.json)
+
+---
+
+### வடகிழக்கில் இடம்பெறும் நில அபகரிப்புக்கு எதிராக தமிழ் மக்களின் பிரதிநிதிகள் ஒன்றிணைந்து குரல் கொடுக்க வேண்டும் - சிவராசா மோகன்
+
+*2024-05-01 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182434) · `ta`
+
+இந்த நாட்டிலே தமிழ் மக்களின் பிரச்சினைக்கு சட்டரீதியாகவும் அரசியல் அமைப்பு ரீதியாகவும் முன்வைக்கப்பட்ட 13 ஆம் திருத்த சட்டம் அமுல்படுத்த வேண்டும் அதேவேளை வடகிழக்கில் தமிழர் பகுதியில் இடம்பெறும் நில அபகரிப்பு போன்ற பல பிரச்சினைகளுக்கு எதிராக தமிழ் பேசும் மக்களின் பிரதிநிதிகளாக செயற்படும் அனைவருமே ஒன்றிணைந்து குரல் கொடுக்கவேண்டும் அதற்கு நாங்களும்  இணைந்து செயற்பட தயாராக இருப்பதாக தமிழர் சமூக ஜனநாயக கட்சி தேசிய அமைப்பாளர் சிவராசா மோகன் தெரிவித்தார்.
+
+மட்டக்களப்பு புதூரில் அமைந்துள்ள ஈ.பி.ஆர்.எல்.எப். முன்னாள் வடகிழக்கு முதலமைச்சர் வரதராஜ பெருமாள் அணியின் தமிழர் சமூக ஜனநாயக கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (30) இடம்பெற்ற ஊடக சந்திப்பில் அவர் இவ்வாறு தெரிவித்தார்
+
+தமிழர் சமூக ஜனநாயக் கட்சியின் காங்கிரஸ் மாநாடு கடந்த 21,22 ஆம் திகதிகளில் யாழ். தந்தை செல்வா அரங்கில் இடம்பெற்றது அதில் 17 பேர் கொண்ட மத்தியகுழு நியமிக்கப்பட்டு அதன் முதலாவது கூட்டம் கடந்த 28 ஆம் திகதி  இடம்பெற்றது அதில் பல தீர்மானங்கள் எடுக்கப்பட்டது.
+
+...
+
+[Data](articles/5b920a32.json)
 
 ---
 
@@ -2189,23 +2207,5 @@ It is said that Sri Lanka should always be equal in contacts with all countries 
 [Data](articles/6ac6f247.json)
 
 [Extended Data](ext_articles/6ac6f247.ext.json)
-
----
-
-### Cement price reduced by Rs. 50
-
-*2024-05-01 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cement-price-reduced-by-Rs-50/108-281708) · `en`
-
-Colombo, May 1 (Daily Mirror) - Resulting from the fuel price revision from last night, the cement manufacturing companies have decided to reduce the retail price of a 50 kg bag of cement.
-
-Accordingly, the price of a 50 kg bag of cement has been reduced by Rs. 50.
-
-Following the price revision, the new retail price of a 50 kg bag of cement will be Rs. 2,400, the companies said.
-
-◼️
-
-[Data](articles/560813ae.json)
-
-[Extended Data](ext_articles/560813ae.ext.json)
 
 ---

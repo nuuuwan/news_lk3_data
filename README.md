@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 10:18:32**
+As of **2024-05-01 10:33:55**
 
 ## Newspaper Stats
 
-*Scraped **22,006** Articles*
+*Scraped **22,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 1,842
 tamilmirrorlk | 2,555
 adaderanalk | 2,599
 virakesarilk | 3,320
-dailymirrorlk | 3,434
-adaderanasinhalalk | 3,558
+dailymirrorlk | 3,436
+adaderanasinhalalk | 3,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,006 (100.0%) of 22,006 articles have been extended.
+22,006 (100.0%) of 22,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනපති අපේක්ෂකයා විජයදාස - මෛත්‍රී
+
+*2024-05-01 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196157) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජනාධිපතිවරණ අපේක්ෂකයා ලෙස විජයදාස රාජපක්ෂ මහතා ඉදිරිපත් වනු ඇති බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+ඒ මහතා මෙම අදහස් පළකළේ වෘත්තීය වෘත්තීය සමිති නායක T.B ඉලංගරත්න මහතාගේ ගුණසමරු උත්සවයට එක්වෙමිනි.
+
+"විජයදාස රාජපක්ෂ මැතිතුමාට තමයි පක්ෂයේ වැඩිදෙනෙකුගේ කැමැත්ත තියෙන්නේ. මම එකගමනක් කළා. මම එක සැරයක් කරන්නේ කියලා කිව්වා. ඒ සැරේ දිවුරුම් දෙන වෙලාවේම මම කිව්වා මම ආයෙමත් තරගකරන්නේ නෑ කියලා. විජයදාස මහත්මයා තමයි ඉල්ලන්නේ, අපි සම්පූර්ණ සහාය දෙනවා. ආණ්ඩුවේ ඇමතිවරයෙක් අපි ගත්තා. දැන් එයා අපේ. ඇමතිකම ගැන දැන් කිසිම කැමැත්තක් නෑ."
+
+◼️
+
+[Data](articles/30df9599.json)
+
+---
+
+### Sinopec also reduces fuel prices
+
+*2024-05-01 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinopec-also-reduces-fuel-prices/108-281707) · `en`
+
+Colombo, May 1 (Daily Mirror) - In conjunction with the fuel price revision that took place last night by the Ceylon Petroleum Corporation (CPC), Sinopec Energy Lanka today announced its price revision with effect from today.
+
+Accordingly, a litre of 92 Octane Petrol has been reduced by Rs. 3, and the new retail price will be Rs. 365. A litre of 95 Octane Petrol has been reduced by Rs. 20, and the new retail price will be Rs. 420.
+
+A litre of auto-diesel reduced by Rs. 27, and the current price is Rs. 333. Meanwhile, a litre of Super Diesel has been reduced by Rs. 9, and the new retail price will be Rs. 377.
+
+◼️
+
+[Data](articles/7ccfcfc2.json)
+
+---
+
+### Singers arrive from India for National May Day rally
+
+*2024-05-01 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Singers-arrive-from-India-for-National-May-Day-rally/110-281706) · `en`
+
+A group of singers from India arrived at the Bandaranaike International Airport (BIA) yesterday (April 30) to perform in the music concert organized in conjunction with the National May Day rally of the government. Vijay Balakrishnan, Ramya Nagercovil, Daniel Jayaram and Reshma Sundaram are among several other Indian musicians, such as Dharmar Satya Prakash and Nurani Varsha, also scheduled to visit the country today for the concert. Pix by T.K.G. Kapila
+
+◼️
+
+[Data](articles/67dfc182.json)
+
+---
 
 ### Minister of Defense Special Observation on the risk of landslides in Karandagolla area in Badulla
 
@@ -2175,71 +2219,5 @@ As a Sri Lanka PA, we are urging other parties to strengthen their position and 
 [Data](articles/1824b3dc.json)
 
 [Extended Data](ext_articles/1824b3dc.ext.json)
-
----
-
-### Colombo consumer price inflation climbs to 1.5% in April
-
-*2024-04-30 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98941/colombo-consumer-price-inflation-climbs-to-15-in-april) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year (y-o-y) basis increased to 1.5% in April 2024, the Department of Census & Statistics (DCS) says.
-
-Last month, the CCPI-based inflation was calculated at 0.9%, according to the latest figures published by the DCS.
-
-On a year-on-year basis, the inflation of food group dropped to 2.9% in April 2024 from 3.8% in March 2024 while the inflation of the non-food group climbed to 0.9% in April from -0.5% in March 2024.
-
-...
-
-[Data](articles/d513ba9f.json)
-
-[Extended Data](ext_articles/d513ba9f.ext.json)
-
----
-
-### Sri Lanka inflation up 3.1-pct over 19-months, food down 4.6-pct
-
-*2024-04-30 17:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-prices-up-3-1-pct-over-19-months-food-down-4-6-pct-160688/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation was 1.5 percent in the 12-months to April 2024, measured by the widely watched Colombo Consumer Price Index, data from the state debt office showed.
-
-The CCPI Index fell 0.8 percent, to 195.2 points in the month of April after falling 1.9 percent in March.
-
-Sri Lanka’s central bank has been operating largely deflationary policy, since September 2022, except perhaps in December 2024, and also allowed the rupee to appreciate in the balance of payments surplus it created.
-
-Since September 2022, when deflationary policy started to show up in the balance of payments, the index has grown only 3.1 percent over the past 19 months.
-
-The food price index fell 4.6 percent over the past 19 months. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/0789c98c.json)
-
-[Extended Data](ext_articles/0789c98c.ext.json)
-
----
-
-### Banning for S/The Additional Classes
-
-*2024-04-30 17:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-மேலதிக-வகுப்புகளுக்கு-தடை/175-336560) · `ta`
-
-The Department of Examinations has banned private classes or training courses for the GCE Ordinary Level (S/T) examination from May 6 to May 15. 452,679 candidates have applied, including 387,648 school and 65,331 private applicants. Special centers for patients at Abeksha Hospital have been set up. From June 1, lectures, seminars, classes, and advertising are prohibited. The Department has prepared exam centers and trained employees. Violators can be reported to the police, selection department, or specific officers.
-
-🟩
-
-2023 (2024) The Department of Examinations has said that the GCE Ordinary Level (S/T) examination has been banned from conducting a private class or training course from the examination tonight.
-
-The Commissioner General of Examinations HJMC Amit Jayasundara said that all arrangements have been made to conduct the exams from May 6 to May 15.
-
-A total of 452,679 candidates, including 387,648 school applicants and 65,331 private applicants, have submitted applications for the exams.
-
-Special examination centers have been set up with a examination station for patients who live in the Abeksha Hospital in Maharagama Abeksha Hospital.
-
-As of June 1, the closing day of the exams, the lesson lectures, seminars or classes, printing of selection -related sheets, and advertising by electronic media, posters and banners have been banned.
-
-...
-
-[Data](articles/6527ebd1.json)
-
-[Extended Data](ext_articles/6527ebd1.ext.json)
 
 ---

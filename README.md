@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 09:34:17**
+As of **2024-05-01 09:52:53**
 
 ## Newspaper Stats
 
-*Scraped **21,998** Articles*
+*Scraped **22,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,842
-tamilmirrorlk | 2,554
+tamilmirrorlk | 2,555
 adaderanalk | 2,599
-virakesarilk | 3,317
-dailymirrorlk | 3,432
-adaderanasinhalalk | 3,556
+virakesarilk | 3,319
+dailymirrorlk | 3,433
+adaderanasinhalalk | 3,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,997 (100.0%) of 21,998 articles have been extended.
+21,998 (100.0%) of 22,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Big names miss out as Australia reveal squad for T20 World Cup
+
+*2024-05-01 09:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-names-miss-out-as-Australia-reveal-squad-for-T20-World-Cup/108-281704) · `en`
+
+Australia, May 1 (ICC) - A host of big names have missed selection as Australia announced their 15-player group for next month's ICC Men's T20 World Cup.
+
+Veteran batter Steve Smith, young gun Jake Fraser-McGurk, experienced seamer Jason Behrendorff and all-rounder Matt Short all miss the cut as the 2021 T20 World Cup champions sprung some surprises when revealing their squad for the four-week tournament in the West Indies and the USA.
+
+Left-arm spinner Ashton Agar wins a recall despite not having played a T20I since the last T20 World Cup on Australian soil in 2022, while Marcus Stoinis, Tim David and Cameron Green join Glenn Maxwell in the final squad as all-rounder options.
+
+Mitchell Marsh will captain the side, with his promotion to full-time T20I confirmed by Australia alongside the squad announcement.
+
+Selection chair George Bailey believes Australia have a well-balanced squad and is confident of a strong showing in the ninth edition of the T20 World Cup.
+
+...
+
+[Data](articles/753fe7bb.json)
+
+---
+
+### சீமெந்து விலை குறைப்பு
+
+*2024-05-01 09:34:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/சீமெந்து-விலை-குறைப்பு/47-336589) · `ta`
+
+மே மாதம் 1ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில் 50 கிலோகிராம் சீமெந்து பையின் விலை 50 ரூபாயினால் குறைக்கப்பட்டுள்ளதாக சீமெந்து தொழிற்துறை நிறுவனங்கள் அறிவித்துள்ளன. அதன் பிரகாரம், 50 கிலோகிராம் சீமெந்து பொதியின் புதிய அதி உயர் சில்லறை விலை 2400 ரூபாயாக அமைந்திருக்கும். இந்த விலைக் குறைப்புடன் நிர்மாணத் தொழிற்துறை ஊக்கம் பெறும் என தாம் எதிர்பார்ப்பதாக சீமெந்து தொழிற்துறை நிறுவனங்கள் நிறுவனங்கள் அறிவித்துள்ளன.
+
+◼️
+
+[Data](articles/cd065598.json)
+
+---
+
+### සිමෙන්ති මිලේ වෙනසක්
+
+*2024-05-01 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196155) · `si`
+
+අද (01) සිට ක්‍රියාත්මක වන පරිදි සිමෙන්ති මිල පහළ දැමීමට සිමෙන්ති සමාගම් තීරණය කර තිබේ.
+
+ඒ අනුව කිලෝග්‍රෑම් 50 සිමෙන්ති බෑගයක මිල රුපියල් 50කින් පහළ දැමීමට තීරණය කර තිබේ.
+
+එම සමාගම් වැඩිදුරටත් සඳහන් කරන්නේ මෙම නව මිල සංශෝධනය අනුව සිමෙන්ති බෑගයක මිල රුපියල් 2,400 වනු ඇති බවය.
+
+◼️
+
+[Data](articles/aab1c4db.json)
+
+---
+
+### ஜனாதிபதியின் சர்வதேச காலநிலை ஆலோசகர் எரிக் சொல்ஹெய்ம் வடக்கு மாகாண ஆளுநருடன் சந்திப்பு
+
+*2024-05-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182377) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் சர்வதேச காலநிலை ஆலோசகரும், முன்னாள் நோர்வே வெளிவிவகார அமைச்சருமான எரிக் சொல்ஹெய்ம் (Mr. Erik Solheim) வடக்கு மாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ்  செவ்வாய்க்கிழமை  சந்தித்து கலந்துரையாடினார்.
+
+வடக்கு மாகாணத்தின்  தற்போதைய நிலை, மீள்குடியேற்ற நடவடிக்கையின் முன்னேற்றம்,  எதிர்கால அபிவிருத்தி செயற்பாடுகள், சுற்றாடல் மற்றும் அனர்த்த முகாமைத்துவ நடவடிக்கைகள்  உள்ளிட்ட பல விடயங்கள் தொடர்பில் இதன்போது  கலந்துரையாடப்பட்டது.
+
+◼️
+
+[Data](articles/54599fa2.json)
+
+---
+
+### அம்பாந்தோட்டை துறைமுகத்திற்கு வந்துள்ள பயணிகள் சொகுசு கப்பல்!
+
+*2024-05-01 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182378) · `ta`
+
+அம்பாந்தோட்டை துறைமுகத்திற்கு முதல் முறையாக 'Serenade of the Seas' எனும் உல்லாசக் கப்பல் திங்கட்கிழமை வருகை தந்துள்ளது.
+
+இந்த கப்பலில் 1,950 பயணிகள் மற்றும் 890 பணியாளர்கள் வருகை தந்துள்ளனர். 2024 ஆம் ஆண்டு அம்பாந்தோட்டை துறைமுகத்திற்கு வந்த பத்தாவது கப்பல் இதுவாகும்.
+
+2003 ஆம் ஆண்டு முதன் முதலில் கடல்  பயணத்தை ஆரம்பித்த 'செரினேட் ஒப் தி சீஸ்'  கப்பலை சர்வதேச ரோயல்  கரீபியன் நிறுவனம் உருவாக்கியுள்ளது.
+
+◼️
+
+[Data](articles/5f335ecf.json)
+
+---
 
 ### President extends invitation to all political parties in Labour Day Message
 
@@ -47,6 +125,8 @@ During the recent economic downturn, our working class bore the brunt of the har
 ...
 
 [Data](articles/1d63b1ae.json)
+
+[Extended Data](ext_articles/1d63b1ae.ext.json)
 
 ---
 
@@ -2123,107 +2203,5 @@ Speaking to the media, he noted that previously, political parties held their Ma
 [Data](articles/c5153ca9.json)
 
 [Extended Data](ext_articles/c5153ca9.ext.json)
-
----
-
-### Interim order issued preventing President and CC from nominating judges to SC
-
-*2024-04-30 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98940/interim-order-issued-preventing-president-and-cc-from-nominating-judges-to-sc) · `en`
-
-The Supreme Court has issued an interim stay order on the President and the Constitutional Council, preventing them from nominating judges to the Supreme Court, except as Chief Justice.
-
-The Supreme Court has issued this interim order while allowing the hearing of a petition submitted by a lawyer against the decision taken by the Constituent Council to reject the nomination submitted by the President for the appointment of the incumbent President of the Court of Appeal, Justice Nissanka Bandula Karunaratne as a Supreme Court Judge.
-
-The hearing of the petition was fixed for the 4th of October, 2024.
-
-◼️
-
-[Data](articles/50502b3a.json)
-
-[Extended Data](ext_articles/50502b3a.ext.json)
-
----
-
-### Two people arrested with 14 grams of ice drugs in Kattankudi
-
-*2024-04-30 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182352) · `ta`
-
-Two individuals arrested in Kattankudi with 14 grams of ice drugs. Arrested based on confidential information from Batticaloa District Criminal Investigation Division. One of the suspects is an agent of a popular software company.
-
-🟩
-
-Gattankudy Police Station Officer Gattankudy Police Station. Said Gajanayake.
-
-They were arrested at around 5 am on Tuesday (30) following confidential information received by the Batticaloa District Criminal Investigation Division.
-
-In the Kattankudi area, the persons have been arrested for being hidden on the bottom of the motorcycle.
-
-The arrested persons from Kattankudy Centaiyadi Road and Kattankudy Sixth Tarichi areas have been arrested.. It is also worth noting that one of the arrested is the Kattankudi area agent of a popular software.
-
-Ice drugs have been recovered from the arrested and a motorcycle used for smuggling.
-
-The suspects will be produced at the Batticaloa Court, Kattankudy police said.
-
-◼️
-
-[Data](articles/e73877ad.json)
-
-[Extended Data](ext_articles/e73877ad.ext.json)
-
----
-
-### SC restricts President from nominating judges to SC, other than Chief Justice
-
-*2024-04-30 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-restricts-President-from-nominating-judges-to-SC-other-than-Chief-Justice/155-281664) · `en`
-
-Colombo, April 30 (Daily Mirror)- The Supreme Court today issued an interim order preventing the President from nominating judges to the Supreme Court, other than the Chief Justice. This order will be effective till October 4.
-
-The Supreme Court made this order consequent to a Fundamental Rights petition filed by a lawyer.  The petitioner Sarith Maheeputhra Pathirathne, an Attorney-at-Law by profession, filed this petition seeking an order directing the Constitutional Council to approve the recommendation by the President to appoint incumbent President of the Court of Appeal Nissanka Bandula Karunaratne as a Supreme Court judge.
-
-The petitioner filed this petition naming the members of the Constitutional Council including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, Nimal Siripala de Silva, Sagara Kariyawasam and several others as respondents.
-
-...
-
-[Data](articles/005c28f4.json)
-
-[Extended Data](ext_articles/005c28f4.ext.json)
-
----
-
-### SC restricts President from nominating judges to SC, other than Chief Justice
-
-*2024-04-30 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-restricts-President-from-nominating-judges-to-SC-other-than-Chief-Justice/108-281664) · `en`
-
-Colombo, April 30 (Daily Mirror)- The Supreme Court today issued an interim order preventing the President from nominating judges to the Supreme Court, other than the Chief Justice. This order will be effective till October 4.
-
-The Supreme Court made this order consequent to a Fundamental Rights petition filed by a lawyer.  The petitioner Sarith Maheeputhra Pathirathne, an Attorney-at-Law by profession, filed this petition seeking an order directing the Constitutional Council to approve the recommendation by the President to appoint incumbent President of the Court of Appeal Nissanka Bandula Karunaratne as a Supreme Court judge.
-
-The petitioner filed this petition naming the members of the Constitutional Council including Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, Nimal Siripala de Silva, Sagara Kariyawasam and several others as respondents.
-
-...
-
-[Data](articles/86b17713.json)
-
-[Extended Data](ext_articles/86b17713.ext.json)
-
----
-
-### The ban issued by the Supreme Court to the president
-
-*2024-04-30 16:46:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-உயர்நீதிமன்றம்-பிறப்பித்த-தடையுத்தரவு/175-336559) · `ta`
-
-The Supreme Court issued an interim injunction to the President and the Constitutional Council, recommending names for High Court judges except for the Chief Justice post.
-
-🟩
-
-The Supreme Court has issued an interim injunction to the President and the Constitutional Council.
-
-Accordingly, the ban has been issued to recommend the names of the High Court judges other than the post of Chief Justice.. Remble
-
-◼️
-
-[Data](articles/b6e08fd3.json)
-
-[Extended Data](ext_articles/b6e08fd3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 16:33:57**
+As of **2024-05-01 16:49:30**
 
 ## Newspaper Stats
 
-*Scraped **22,087** Articles*
+*Scraped **22,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,89 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,849
-tamilmirrorlk | 2,577
-adaderanalk | 2,607
+tamilmirrorlk | 2,578
+adaderanalk | 2,608
 virakesarilk | 3,334
-dailymirrorlk | 3,454
-adaderanasinhalalk | 3,568
+dailymirrorlk | 3,455
+adaderanasinhalalk | 3,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,080 (100.0%) of 22,087 articles have been extended.
+22,087 (100.0%) of 22,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### අනුරගේ ටිකට් එක සජබ වේදිකාවේදී රටටම පෙන්වයි
+### இ .தொ .கா.  மே தினத்தில்  ஜனாதிபதி
+
+*2024-05-01 16:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-கா-மே-தினத்தில்-ஜனாதிபதி/175-336615) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸ் ஏற்பாடு செய்த மே தின கொண்டாட்ட நிகழ்வுகள் கொட்டகலை பிரதேச சபை  பொது விளையாட்டு மைதானத்தில் புதன்கிழமை (01)  நடைபெற்றது.
+
+இதில்  ஜனாதிபதி ரணில் விக்கிரமசிங்க கலந்து கொண்டுள்ளதுடன் அவர் உரையாற்றுகையில்,  வீழ்ச்சியடைந்த நாட்டை பொறுப்பேற்கும் பொறுப்பு வழங்கப்பட்டது. ஸ்தீரமான பொருளாதாரத்தை கட்டுயெழுப்ப அமைச்சரவை பக்கபலமாக இருந்தது. அதேபோல் நாடு வீழ்ச்சியடைந்த காலப்பகுதியில் கூடுதலாக பாதிக்கப்பட்ட தோட்டத்தொழிலாளர்கள் நாட்டுக்கு அந்நிய செலாவணியை 2023 ஆம் ஆண்டில் கொண்டுவர காரணமாக அமைந்தார்கள் என்றார்.
+
+தோட்டத்தொழிலாளர்களின் பிரச்சினைகளை தாம் ஒருபோதும் மறக்கப்போவதில்லை அவ்வாறு மறந்தாலும் ஜீவன் தொண்டமான் விடப்போவதில்லை என்று இதன்போது ஜனாதிபதி தெரிவித்தார்.
+
+...
+
+[Data](articles/df0447aa.json)
+
+---
+
+### Talatha, Rajitha missing in SJB May Day rally
+
+*2024-05-01 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talatha-Rajitha-missing-in-SJB-May-Day-rally/108-281726) · `en`
+
+Colombo, May 1 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MPs Rajitha Senaratne and Tatha Athukorala were notable abesentees at party's May Day Rally in Fort today.
+
+All Ceylon Makalal Kachchi Leader SJB alley Rishath Bathiudeen, was another abesentee.
+
+Another feature is the prominence given to MPs    G. L Peiris and Dilan Perera. They were given front seats.
+
+◼️
+
+[Data](articles/8023e306.json)
+
+---
+
+### පොහොට්ටුවේ මන්ත්‍රී එජාප වේදිකාවට ගොඩවෙයි
+
+*2024-05-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196169) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී ගයාෂාන් නවනන්ද මහතා එක්සත් ජාතික පක්ෂ මැයි දින රැලියට සහභාගී වී තිබේ.
+
+එක්සත් ජාතික පක්ෂ මැයි දින රලිය ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් කොළඹ මාළිගාවත්ත පී.ඩී. සිරිසේන ක්‍රීඩාංගණය ඉදිරිපිටදී පැවැත්වෙන අතර එහිදී මේ බව නිවේදනය කෙරුණි.
+
+◼️
+
+[Data](articles/74b25886.json)
+
+---
+
+### Anura's ticket shows the country at the platform
 
 *2024-05-01 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196168) · `si`
 
-ජාතික ජන බලවේගය මැයි දිනයේ වියදම අහිංසක කම්කරුවා මත පටවා ඇති බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉඳුනිල් මහතා අද (01) චෝදනා කළේය.
+Thushara Indutan accuses National Folk Force of exploiting workers. May Day Rally in Colombo led by Samagiens, with Anura Dissanayake's ticket showing country. Indutan questions party fund use, suggesting corruption.
 
-සමගි ජන බලවේගයේ මැයි දින රැලිය කොළඹ, චැතම් වීදීයේ පැවැත්වෙන අතර එහිදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-"මට මේ ටිකට් එක දුන්නේ අලව්ව සෙන්ටල් එකේ ගුරුවරයෙක්. කයිවාරු ගහන අනුර දිසානායක මහතාගේ බලවේගය. මේ මගේ අතේ තියෙන්නේ ටිකට් එකක්. ගමක් ගමක් ගානේ කම්කරුවන් ගාවට ගිහින් මැයි දිනය සමරන්න ආධාර කොලයක් ගහලා."
+Member of Parliament, Thushara Indutan, has accused the National Folk Force has been imposed on the innocent worker.
 
-"ඈ යකෝ මෙහෙම හිඟා කාලා මැයි දින කරන එවුන් කොහොමද රටක් හදන්නේ. දැන් පක්ෂ අරමුදලේ තිබෙන රුපියල් කෝටි 900 කෝ. ඒවා සාක්කුවට ද?"
+The May Day Rally of the Samagiens Rally is being held in Colombo and Chatham Street, where he said.
+
+"I gave this ticket a teacher in alaw. Mrs. Anura Dissanayake's power. This is in my hand a ticket. A village is a village to go to the workers and hit a donation to celebrate May Day. "
+
+"She's how to embark on this way, how is the country builds a country. Now there are now Rs. 900 crores in the party fund. Are they pocket? "
 
 ◼️
 
 [Data](articles/a14f92e1.json)
+
+[Extended Data](ext_articles/a14f92e1.ext.json)
 
 ---
 
@@ -100,6 +152,20 @@ Following this, Ganesalingam and Vinod Kumar, who had received the money from Ra
 
 ### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
 
+*2024-05-01 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98955/passenger-ferry-service-between-tamil-nadu-and-sri-lanka-to-resume-on-may-13) · `en`
+
+The passenger ferry service between Nagapattinam and Kankesanthurai in Sri Lanka, which resumed in October 2023 after almost 40 years only to be stopped days later, is set to recommence on May 13. Online ticket sale for the service, which will be handled by a new operator, will go live on Monday.
+
+On October 14 last year, Indian Prime Minister Narendra Modi virtually flagged off the service between Nagapattinam and Kankesanthurai. The HSC Cheriyapani operated by the Shipping Corporation of India under KPVS Private Limited, however, stopped service after about a week allegedly due to monsoon. After a gap of six months, the service is set to resume. This time though, a Chennai-based travel operator, IndSri Ferry Services Private Limited, would handle the international service through the ship, ‘Sivagangai’.
+
+...
+
+[Data](articles/dc81645d.json)
+
+---
+
+### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
+
 *2024-05-01 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98955/passenger-ferry-service-between-tamil-nadu-and-sl-to-resume-on-may-13) · `en`
 
 The passenger ferry service between Nagapattinam and Kankesanthurai in Sri Lanka, which resumed in October 2023 after almost 40 years only to be stopped days later, is set to recommence on May 13. Online ticket sale for the service, which will be handled by a new operator, will go live on Monday.
@@ -132,21 +198,29 @@ Former SJB MP Mujibur Rahman said that if the presidential election is adjourned
 
 ---
 
-### தோட்டத் தொழிலாளர்கள் சம்பள உயர்வுக்கு ஜனாதிபதி, தொழில் அமைச்சருக்கு செந்தில் தொண்டமான் நன்றி தெரிவிப்பு
+### Senthil Thondaman thanks to President and Labor Minister for plantation workers' salary increases
 
 *2024-05-01 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182422) · `ta`
 
-இலங்கைத் தொழிலாளர் காங்கிரஸ் சொல்வதைதான் செய்யும் என்பதுடன், செய்வதைதான் சொல்லும். கடுமையான போராட்டங்களின் ஊடாக தோட்டத் தொழிலாளர்களுக்கு 1,700 ரூபா சம்பள உயர்வை பெற்றுக்கொடுத்துள்ளோம். குறுகிய காலத்தில் இந்த செயல்பாட்டை வெற்றிகரமாக்க ஒத்துழைத்த ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் தொழில் அமைச்சர் மனுச நாணயக்காரவுக்கு நன்றிகளை தெரிவித்துக் கொள்கிறேன் என இ.தொ.காவின் தலைவரும் கிழக்கு மாகாண ஆளுநருமான செந்தில் தொண்டமான் தெரிவித்தார்.
+Senthil Thondaman, Ceylon Workers Congress president, thanks President Ranil Wickremesinghe and Labor Minister Manusha Nanayakkara for a 1,700 rupee salary increase for plantation workers. He emphasizes the CWC's commitment to its principles and criticizes Congress for not supporting workers' rights.
 
-கொட்டகலை பொது மைதானத்தில் இடம்பெற்ற இ.தொ.காவின் பிரமாண்ட மேதினக் கூட்டத்திலேயே இவ்வாறு கூறினார்.
+🟩
 
-இந்த மே தின நிகழ்வில் தொடர்ந்து உரையாற்றிய இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான்,
+The Ceylon Workers Congress will do what it says and what to do. Through fierce struggles, we have paid a salary increase of 1,700 rupees to plantation workers. President Ranil Wickremesinghe and Labor Minister Manusha Nanayakkara, who cooperated in the short term, said, "CWC leader and Eastern Provincial Governor Senthil Thondaman said.
 
-“இலங்கைத் தொழிலாளர் காங்கிரஸ் சொல்வதை மட்டும்தான் செய்யும் என்பதுடன் செய்வதை மட்டும்தான் சொல்லும். இ.தொ.கா.வின் மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான் மற்றும் ஆறுமுகன் தொண்டமான் ஆகியோர் எமக்கு கற்பித்ததும் அதுதான்.
+He said this at a massive meeting of the CWC held at the Kotagala Public Ground.
+
+Senthil Thondaman, president of the CWC, continued to address this May Day event.
+
+“The Ceylon Workers Congress will only do what it says and what to do. This is what the CWC's late leaders, Chaumiyamoorthy Thondaman and Arumugan Thondaman taught us.
+
+In the future, the CWC will only do what it says and what is done. Question what the Congress did. We tell them that Congress is the right to give you the right to question.
 
 ...
 
 [Data](articles/3b2cbc25.json)
+
+[Extended Data](ext_articles/3b2cbc25.ext.json)
 
 ---
 
@@ -200,19 +274,29 @@ Government Executives have already left all the District and Regional Coordinati
 
 ---
 
-### கீர்த்தி சுரேஷ் நடிக்கும் 'ரிவால்வர் ரீட்டா' படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of Keerthi Suresh starrer 'Rivolver Rita' is completed
 
 *2024-05-01 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182419) · `ta`
 
-' நடிகையர் திலகம்' எனும் படத்தில் சிறப்பான நடிப்பை வெளிப்படுத்தியதற்காக தேசிய விருதை வென்ற நடிகை கீர்த்தி சுரேஷ் கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தின் படப்பிடிப்பு முழுமையாக நிறைவடைந்தது என படக் குழுவினர் பிரத்யேக காணொளி மற்றும் புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் பகிர்ந்துள்ளனர்.
+"Keerthi Suresh's 'Rivolver Rita' shooting completed. She stars as heroine, directed by K. Keerthi Suresh. Features Radhika Sarathkumar, Redin Kingsley, Ravi Khale, John Vijay, Senrayan. Cinematography by Dinesh Krishnan, music by L. Praveen. Produced by Sudan Sundaram and Jagadish Palanisamy. Final phase begins soon. Keerthi Suresh's 'Siren' was a hit, and 'Raghu Grandpa' upcoming."
 
-இயக்குநர் கே. சந்துரு இயக்கத்தில் உருவாகி வரும் 'ரிவால்வர் ரீட்டா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ் முதன்மையான வேடத்தில் நடிக்கிறார்.
+🟩
 
-இவருடன் ராதிகா சரத்குமார், ரெடின் கிங்ஸ்லீ, ரவி காளே, ஜான் விஜய், சென்ராயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். தினேஷ் கிருஷ்ணன் ஒளிப்பதிவு செய்துள்ள இந்த திரைப்படத்தின் படத்தொகுப்பு பணிகளை கே. எல். பிரவீண் மேற்கொள்கிறார். திரில்லர் ஜேனரில்  தயாராகி இருக்கும் இந்த திரைப்படத்தை ஃபேஷன் ஸ்டுடியோஸ் மற்றும் தி ரூட் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுதன் சுந்தரம் மற்றும் ஜெகதீஷ் பழனிச்சாமி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Actress Keerthi Suresh, who won the national award for his performance in the film 'Tilakam', has been shot in the film 'Rivolver Rita' as the hero of the story.
 
-...
+Director K. Keerthi Suresh is playing the lead role in the upcoming film 'Rivolver Rita' in Chandru.
+
+He has starred in Radhika Sarathkumar, Redin Kingsley, Ravi Khale, John Vijay, Senrayan and many others.. Dinesh Krishnan's cinematography. L. Praveen carries. The film is being produced in the thriller Janer and produced by producers Sudan Sundaram and Jagadish Palanisamy on behalf of Fashion Studios and The Root.
+
+The shooting of the film has been completed and the film crew has released a special video and photo.. Following this, the final phase of the film will begin soon, the film crew said.
+
+Meanwhile, actress Keerthi Suresh's upcoming film 'Siren' was a commercial and critically successful success and her starring 'Raghu Grandpa' will soon be released.
+
+◼️
 
 [Data](articles/9e49814f.json)
+
+[Extended Data](ext_articles/9e49814f.ext.json)
 
 ---
 
@@ -308,19 +392,29 @@ Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh�
 
 ---
 
-### சாய் தன்ஷிகா நடிக்கும் 'தி ஃப்ரூப்' படத்தின் இசை வெளியீடு
+### The music release of 'The Frup' starring Sai Tanashika
 
 *2024-05-01 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/182416) · `ta`
 
-'கபாலி' படத்தில் நடித்ததன் மூலம் தமிழ் ரசிகர்களிடத்தில் பிரபலமானவர் நடிகை சாய் தன்ஷிகா. இப்படத்திற்குப் பிறகு கதையின் நாயகிக்கு முக்கியத்துவம் உள்ள படங்களை தெரிவு செய்து நடித்து வரும் இவர், கதையின் நாயகியாக நடித்திருக்கும் 'தி ஃப்ரூப்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் நடைபெற்றது.
+"The music release of 'The Fropp' starring Sai Tansika, featuring music by B. Deepak, was held in Chennai. Sai Tansika acted due to her friendship with director Radhika, who also choreographed and developed the story. The film emphasizes women's safety and has garnered over a million views for its single track and trailer."
 
-நடன இயக்குநராக பணியாற்றி இயக்குநராக உயர்ந்திருக்கும் ராதிகா இயக்கத்தில் உருவாகி இருக்கும் ' தி ஃப்ரூப்' எனும் திரைப்படத்தில் சாய் தன்ஷிகா, அசோக், ருதுவீர் வர்தன், இந்திரஜா, மைம் கோபி, ராஜசிம்மன், அஸ்மிதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-ஜேசன் வில்லியம்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆர். பி. தீபக் இசையமைத்திருக்கிறார். பெண்களின் பாதுகாப்பை வலியுறுத்தும் வகையில் தயாராகி இருக்கும் இந்த திரைப்படத்தை கோல்டன் ஸ்டுடியோஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் கோமதி தயாரித்திருக்கிறார்.
+Actress Sai Tansika. After the film, she has selected films that are important to the heroine of the story and the music release of the film 'The Fropp', which is playing the heroine of the story, was released in Chennai.
+
+Sai Tansika, Ashok, Rudhuveer Vardhan, Indiraja, Mime Gopi, Rajasimman, Azmita, etc.
+
+Jason Williams has recorded the film. B.. Deepak has composed the music. The film, which is ready to emphasize the safety of women, has produced the producer Gomati on behalf of the Golden Studios.
+
+The film's single track and trailer have been released by more than a million spectators.. In this case, the introductory composer R. B.. The music release of the film was held in Chennai.. Udayakumar, Yuki Sethu, Producer K. Several filmmakers, including Rajan and songwriter Snegan, participated as a special guest.
+
+Speaking at the event, actress Sai Tansika said, “I agreed to act on the basis of friendship with director Radhika in the film.
 
 ...
 
 [Data](articles/a07d2cba.json)
+
+[Extended Data](ext_articles/a07d2cba.ext.json)
 
 ---
 
@@ -346,19 +440,25 @@ He also said that the people should be given importance to what they wanted befo
 
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக அமைச்சர் விஜேதாச ராஜபக்ஷ : மைத்திரி தெரிவிப்பு
+### Minister Wijeyadasa Rajapaksa: Maithri
 
 *2024-05-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182400) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக அமைச்சர் விஜயதாச ராஜபக்ச முன்னிலைபடுத்தப்படுவார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+Maithripala Sirisena announces Vijayadasa Rajapaksa as the Sri Lanka Freedom Party's presidential candidate, promising full support.
 
-தொழிற்சங்க தலைவர் டி.பி.இளங்கரத்னவின் நினைவேந்தல் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-"விஜயதாச ராஜபக்சவுக்கு கட்சியின் பெரும்பான்மை விருப்பம் உள்ளது. நான் ஒருமித்த கருத்தை ஏற்படுத்தினேன். அதை செய்வேன் என்று ஒருமுறை  குறிப்பிட்டுள்ளேன். அத்தோடு ஜனாதிபதியாக சத்தியப் பிரமாணம் செய்யும் போது மீண்டும் போட்டியிட மாட்டேன் என்று உறுதியளித்தேன். விஜயதாச விரும்பினால் நாங்கள் முழு ஆதரவையும் வழங்குவோம் என்றார்.
+Former President Maithripala Sirisena has said that Minister Vijayadasa Rajapaksa will be promoted as the presidential candidate of the Sri Lanka Freedom Party.
+
+He was speaking at the commemoration ceremony of union leader DP Ilangaratne.
+
+“Vijayadasa Rajapaksa has a majority option. I made a consensus. I once mentioned that I would do it. And I promised not to contest again when he was sworn in as president. If Vijayadasa wants, we will give you full support.
 
 ◼️
 
 [Data](articles/4279b6df.json)
+
+[Extended Data](ext_articles/4279b6df.ext.json)
 
 ---
 
@@ -498,21 +598,29 @@ A close symbol of the subject of the Maha Sangha from the Gangarama Viharaya in 
 
 ---
 
-### தமிழ் தேசியக் கூட்டமைப்பின் மே தினக் கூட்டத்தில் நிறைவேற்றப்பட்ட தீர்மானங்கள்
+### Resolutions passed at May Day meeting of the TNA
 
 *2024-05-01 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182414) · `ta`
 
-அரசின் அனைத்து அடக்குமுறைகளுக்கு எதிராக அணிதிரள்வோம் உழைக்கும் மக்கள் அனைவரது உரிமைகளையும் நிலைநிறுத்துவோம் தீர்மானங்கள் தமிழ் தேசிய கூட்டமைப்பின் 2024ஆம் ஆண்டு மேதினத்தில் பின்வரும் தீர்மானங்கள் நிறைவேற்றப்பட்டுள்ளன.
+The TNA passed resolutions in 2024 condemning the government's handling of ethnic issues, war, and the disappearance of civilians. It criticized the government's actions against Tamil Nadu fishermen and the economic struggles of farmers and working women. The TNA also highlighted the impact of economic downturn, inflation, and repressive laws on the poor and workers. It called for relief for the poor, abolition of repressive laws, and protection of the media.
 
-நாட்டின் பொருளாதார வங்குரோத்துக்குக் காரணமாக அமைந்த தேசிய இனப்பிரச்சினைக்குத் தீர்வுகாண தவறியமையும் அநாவசியமாக பல்லாண்டுகாலமாக ஒரு யுத்தததை நடத்தியமையும் அந்த யுத்தத்தை நடாத்துவதற்கு அரசாங்கம் உருவாக்கிய பயங்கரவாத தடைச்சட்டம் யுத்தம் முடிவடைந்து பதினைந்து ஆண்டுகள் கழிந்த பின்னரும் இன்னமும் நடைமுறையில் இருப்பதானது மக்களின் அடிப்படை உரிமைகளை தொடர்ந்தும் மீறும் ஒரு செயற்பாடாகும்.
+🟩
 
-அதேபோல், யுத்தத்தின் காரணமாக காணாமல் ஆக்கப்பட்ட பல்லாயிரக்கணக்கான பொதுமக்கள் தொடர்பாக அரசாங்கம் எந்தவித காத்திரமான நடவடிக்கைகளை எடுக்காமையானதும் மிகுந்த விசனத்தை ஏற்படுத்துவதுடன் அரசாங்கத்தின் தமிழர் விரோத போக்கையும் வெளிக்காட்டி நிற்கின்றது.
+The following resolutions have been passed in 2024 of the Tamil National Alliance (TNA).
 
-அரசாங்கத்தின் இந்த நடவடிக்கைகளை ஜனநாயக தமிழ் தேசிய கூட்டணி வன்மையாகக் கண்டிப்பதுடன் இவற்றிற்கு உரிய தீர்வினைக் காணவேண்டும் என்றும் அரசாங்கத்தை வலியுறுத்துகிறது.
+The failure to resolve the national ethnic problem in the country and the unnecessary war on the country, and the government's terrorist ban on the war, and fifteen years after the war, the end of the war is still a process that continues to violate the fundamental rights of the people.
+
+Similarly, the government has not taken any serious action on tens of thousands of civilians who have disappeared due to the war, and the anti -Tamil tendency of the government.
+
+The Democratic Tamil National Alliance (TNA) strongly condemns these actions of the government and urges the government to find a solution.
+
+There is a series of controversies over fishing between Tamil Nadu fishermen and Eelam Vadapula fishermen in the North Sea and the Gulf of Mannar.
 
 ...
 
 [Data](articles/bbcb8e1e.json)
+
+[Extended Data](ext_articles/bbcb8e1e.ext.json)
 
 ---
 
@@ -577,6 +685,8 @@ Sirisena said he has previously served as President and pledged not to contest f
 ◼️
 
 [Data](articles/b958550d.json)
+
+[Extended Data](ext_articles/b958550d.ext.json)
 
 ---
 
@@ -2091,111 +2201,5 @@ Petrol Overtine 95 rupees twenty Rs. 9 rupees.
 [Data](articles/b5feeb34.json)
 
 [Extended Data](ext_articles/b5feeb34.ext.json)
-
----
-
-### UNWRA thanks Sri Lanka for Gaza funds
-
-*2024-05-01 08:00:00* · [`economynextcom`](https://economynext.com/unwra-thanks-sri-lanka-for-gaza-funds-160676/) · `en`
-
-ECONOMYNEXT – The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) has thanked Sri Lanka for its financial contribution to address the humanitarian crisis in Gaza.
-
-Philippe Lazzarini, head of UNRWA, in a letter addressed to President Ranil Wickremesinghe, “expressed sincere appreciation for Sri Lanka’s substantial financial contribution towards addressing the humanitarian crisis in the Gaza Strip,” a statement by the president’s media division said.
-
-“Lazzarini emphasized the dire situation faced by over two million Palestinians in Gaza, particularly the majority who are Palestine Refugees under UNRWA’s mandate. Despite formidable challenges, UNRWA staff remain steadfast in delivering essential aid, advocating for adherence to international humanitarian law, and ensuring continuous humanitarian support across Gaza.”
-
-...
-
-[Data](articles/bb38d2ec.json)
-
-[Extended Data](ext_articles/bb38d2ec.ext.json)
-
----
-
-### Notice of Colombo Security
-
-*2024-05-01 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196152) · `si`
-
-Colombo's May Day security plan involves 10,000 police officers, road clearances for emergency services, and 1,600 troops with the Armed Forces Chiefs.
-
-🟩
-
-A special traffic plan has been implemented in Colombo due to May Day waves and rallies, police said.
-
-Attorney at Law Nihal Talduuwa said that 10,000 police officers have been deployed for security.
-
-Meanwhile, Nihal Talduuwa added that the law is being implemented in connection with anti-disciplinary bus drivers carrying the people for parades.
-
-The Police Media Spokesperson (SLMC) has also facilitated the road to the Katunayake airport and the road to the ambulances and hospital vehicles.
-
-Also, all arrangements have been prepared to set up nearly 1,600 troops in conjunction with the Chiefs of the Armed Forces.
-
-◼️
-
-[Data](articles/293a8dd3.json)
-
-[Extended Data](ext_articles/293a8dd3.ext.json)
-
----
-
-### Sri Lanka is crucial turning point - President
-
-*2024-05-01 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196151) · `si`
-
-President Ranil Wickremesinghe highlights Sri Lanka's crucial turning point, emphasizing the role of labor in the economy and the resilience of the public during economic challenges. Prime Minister Dinesh Gunawardena acknowledges the sacrifices of workers and the importance of Labor Day in appreciating their contributions to the economy.
-
-🟩
-
-President Ranil Wickremesinghe says Sri Lanka has reached a crucial turning point at the 138th Celebration of the World Labor Day, which began as a result of demands and rights.
-
-By the message of the Labor Day, he points out that it is responsible for all to bring about the country's economy.
-
-President Ranil Wickremesinghe has further stated that it is the potential to win the crowd.
-
-In the face of the economic crisis, the public is commending the endurance of it.
-
-According to the Labor Day Message, President Ranil Wickremesinghe's Labor Day is further stated that they are not a poor people to be devoted as poor.
-
-Meanwhile, Prime Minister Dinesh Gunawardena says that the World Labor Day will celebrate the World Labor Day for the history of the working notes that the working people have sacrificed their lives in blood.
-
-The post-he-stakeholder pointed out that the workplace was also critical of the workplace this time.
-
-...
-
-[Data](articles/7da41339.json)
-
-[Extended Data](ext_articles/7da41339.ext.json)
-
----
-
-### Labor Day - Chief Party Party May Day Radies
-
-*2024-05-01 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196150) · `si`
-
-May Day, celebrated on May 1, marks the death of protests in the US and the start of the International Labor Day. Sri Lanka's political parties and trade unions organize Labor Day events, including rallies in Colombo, Jaffna, Matara, and Anuradhapura, led by President Ranil Wickremesinghe.
-
-🟩
-
-On May 1, 1886, the International Labor Day celebrates the death of a large number of protests in the celebrations of the US.
-
-In 1889, the International Labor Organization declared as World Labor Day in 1889, which began the struggle of workers.
-
-Accordingly, every country in the world is rally, waves, and waves to celebrate Labor Day on the first day of May.
-
-Sri Lanka's political parties and organizations in Sri Lanka have been organized today to commemorate Labor Day.
-
-Accordingly, the political parties and trade unions have been organized by political parties and trade unions across the country.
-
-There are 19 May Day celebrations will be held for the International Labor Day.
-
-The UNP will commence the May Day rally by President Ranil Wickremesinghe in front of Colombo Maligawatta Police today.
-
-The President will join the May Day rally to organize the Ceylon Workers Congress today this morning, the Presidential Media Unit said.
-
-...
-
-[Data](articles/71469872.json)
-
-[Extended Data](ext_articles/71469872.ext.json)
 
 ---

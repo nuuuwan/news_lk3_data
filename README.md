@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 08:18:30**
+As of **2024-05-01 08:34:15**
 
 ## Newspaper Stats
 
-*Scraped **21,987** Articles*
+*Scraped **21,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,247
-adalk | 1,840
+adalk | 1,841
 tamilmirrorlk | 2,552
 adaderanalk | 2,597
 virakesarilk | 3,316
 dailymirrorlk | 3,431
-adaderanasinhalalk | 3,554
+adaderanasinhalalk | 3,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,984 (100.0%) of 21,987 articles have been extended.
+21,987 (100.0%) of 21,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### සයිනොපෙක් ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+
+*2024-05-01 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196153) · `si`
+
+ඊයේ මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සයිනොපෙක් ඉන්ධන මිල ගණන් පහළ දැමීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 3කින් පහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල රුපියල් 365කි.
+
+ඔක්ටේන් 95 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල් 20කින් පහළ දමා ඇති අතර එහි නව රුපියල් 420කි.
+
+එසේම රුපියල් 27කින් ඔටෝ ඩීසල් මිල පහළ දැමීමට පියවර ගෙන ඇති අතර එහි නව මිල රුපියල් 333කි.
+
+සයිනොපෙක් සුපර් ඩීසල් මිල ද රුපියල් 9කින් පහළ දැමීමට පියවර ගෙන ඇති අතර එහි නව මිල රුපියල් 377කි.
+
+◼️
+
+[Data](articles/bca8e462.json)
+
+---
 
 ### Notice of Colombo Security
 
@@ -534,6 +554,8 @@ An additional US$ 18.5 fee also charged as a service fee to the operator.
 
 [Data](articles/a88d9202.json)
 
+[Extended Data](ext_articles/a88d9202.ext.json)
+
 ---
 
 ### Lucknow won Mumbai in the last over
@@ -589,6 +611,8 @@ However, measured on a monthly basis, food prices have been on a deflation for t
 ...
 
 [Data](articles/fff55fc2.json)
+
+[Extended Data](ext_articles/fff55fc2.ext.json)
 
 ---
 
@@ -661,6 +685,8 @@ The port welcomed the ship with a plaque presentation held on board. Officials o
 ◼️
 
 [Data](articles/0471e568.json)
+
+[Extended Data](ext_articles/0471e568.ext.json)
 
 ---
 
@@ -1520,6 +1546,24 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 
 ---
 
+### ජනපති හෙට මැයි රැළි දෙකකට එක්වෙයි
+
+*2024-04-30 18:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-මැයි-රැළි-දෙකකට-එක්වෙයි/11-409354) · `si`
+
+ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෙට (01) මැයි දින රැළි දෙකකට එක්වීමට නියමිතය.
+
+ලංකා කම්කරු කොංග්‍රසය සංවිධානය කරන මැයි දින රැළිය හෙට (01) පෙ.ව 10.00ට කොටගල මහජන ක්‍රීඩාංගණයේ දී ආරම්භ වීමට නියමිත අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රථමයෙන් ඊට එක්වීමට නියමිතය.
+
+ලංකා කම්කරු කොංග්‍රසයේ ආරාධනය පරිදි ජනාධිපතිවරයා මේ සඳහා එක්වන අතර වතුකරයේ ජනතාව විශාල පිරිසකගේ සහභාගීත්වයෙන් එම මැයි දින රැළිය සහ පෙළපාලිය පැවැත්වෙනු ඇත. කඳුකර ප්‍රජාව නියෝජනය කරන විශාලතම වෘත්තීය සමිතිය සහ දේශපාලන පක්ෂය වනුයේ ද ‍ලංකා කම්කරු කොංග්‍රසයයි.
+
+මේ අතර එක්සත් ජාතික පක්ෂ මැයි දින රැළිය හෙට (01) ප.ව 2.00ට කොළඹ මාළිගාවත්ත පොලිසිය ඉදිරිපිට දි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආරම්භ වෙයි.
+
+◼️
+
+[Data](articles/a31175da.json)
+
+---
+
 ### Sri Lanka Treasuries yields fall across maturities
 
 *2024-04-30 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-160697/) · `en`
@@ -2175,47 +2219,5 @@ The film crew has been excited that the songs, lyrical video, trailer and sneak 
 [Data](articles/4c4ed8b1.json)
 
 [Extended Data](ext_articles/4c4ed8b1.ext.json)
-
----
-
-### 'Festive War' talks about a boy who is a record in chess
-
-*2024-04-30 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182339) · `ta`
-
-"Festive War" explores a chess prodigy's journey, highlighting social inequalities and the struggle for recognition in sports. The film "Quadranga Battle" delves into the challenges of a chess Grand Master, reflecting on India's caste system and the lack of technological advancement.
-
-🟩
-
-Everyone knows that the chess game has black pods and white pods. A film is prepared in Tamil under the name of 'Format War' in Tamil, comparing these two colored pods to the elite and subordinates, and talking about the existing unequal social justice and that the people who are trying to achieve in the field of sports are causing such disturbances and obstacles.
-
-In this regard, Sri Victory debut with the film 'quadranga Battle', said, “The 'Quarrama' Janer is being produced in the Sports Drama Janener to describe the challenges of how a man is a Grand Master in a Chess Games and the Challenges he faces for it..
-
-Though technologies have grown to the level of rocket to Mars, the human stool is still continuing in India today. The problem is that it does not want to create a technology for this, or to import a technology from abroad.
-
-...
-
-[Data](articles/5cb58165.json)
-
-[Extended Data](ext_articles/5cb58165.ext.json)
-
----
-
-### India announce squad for T20 World Cup
-
-*2024-04-30 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-announce-squad-for-T20-World-Cup/108-281661) · `en`
-
-Apr. 30 (BCCI) - The Senior Selection Committee on Tuesday picked India’s 15-member squad for the upcoming ICC Men’s T20 World Cup 2024, which will be hosted in the West Indies and USA.
-
-India will begin their World Cup campaign against Ireland on June 05, 2024 at the Nassau County International Cricket Stadium, New York, followed by the marquee clash against Pakistan on June 09, 2024 at the same venue. India will then play USA and Canada on June 12 and 15 respectively.
-
-Squad: Rohit Sharma (Captain), Hardik Pandya (Vice Captain), Yashasvi Jaiswal, Virat Kohli, Suryakumar Yadav, Rishabh Pant (WK), Sanju Samson (WK), Shivam Dube, Ravindra Jadeja, Axar Patel, Kuldeep Yadav, Yuzvendra Chahal, Arshdeep Singh, Jasprit Bumrah, Mohd. Siraj.
-
-Reserves – Shubman Gill, Rinku Singh, Khaleel Ahmed and Avesh Khan
-
-◼️
-
-[Data](articles/b1428381.json)
-
-[Extended Data](ext_articles/b1428381.ext.json)
 
 ---

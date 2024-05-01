@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 11:18:39**
+As of **2024-05-01 11:34:12**
 
 ## Newspaper Stats
 
-*Scraped **22,017** Articles*
+*Scraped **22,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,845
-tamilmirrorlk | 2,558
-adaderanalk | 2,600
+tamilmirrorlk | 2,559
+adaderanalk | 2,601
 virakesarilk | 3,320
 dailymirrorlk | 3,436
 adaderanasinhalalk | 3,560
@@ -26,67 +26,123 @@ adaderanasinhalalk | 3,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,014 (100.0%) of 22,017 articles have been extended.
+22,017 (100.0%) of 22,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### காத்தான்குடியில் சிறுமி துஷ்பிரயோகம்: குடும்பஸ்தர் கைது
+### Ex-president Maithripala reveals SLFP’s presidential candidate
 
-*2024-05-01 11:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடியில்-சிறுமி-துஷ்பிரயோகம்-குடும்பஸ்தர்-கைது/175-336592) · `ta`
+*2024-05-01 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98949/ex-president-maithripala-reveals-slfps-presidential-candidate) · `en`
 
-14 வயது சிறுமியை பாலியல் வல்லுறவுகுட்படுத்திய 25 வயது குடும்பஸ்தர் ஒருவரை காத்தான்குடி பொலிஸார் கைது செய்துள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்க தெரிவித்தார்
+The censured Chairman of Sri Lanka Freedom Party (SLFP) former President Maithripala Sirisena says that Minister Wijayadasa Rajapakshe will be the SLFP’s presidential candidate in the upcoming election.
 
-காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட கர்பலா கிராமத்தில் புர்கான் பள்ளிவாயலுக்கு அருகில் மேற்படி சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்
+Joining the commemoration ceremony of the late T.B. Ilangaratne, Sirsena assured that Wijeyadasa Rajapakshe has the support of the majority of the party members.
 
-அயல் வீட்டில் வசித்து வரும் தூரத்து உறவினரான மேற்படி சிறுமியை தனது வீட்டுக்கு அழைத்து பாலியல் வல்லுறவில் ஈடுபட்டுள்ளதாக அவரது குடும்பத்தினர் காத்தான்குடி பொலிஸில் முறைப்பாடு செய்துள்ளனர்
+“I have previously served as President and pledged not to contest for the presidency again. Mr. Wijayadasa will run in the upcoming presidential election, and we will offer him our full support”, he said.
 
-25 வயதுடைய ஒரு பிள்ளையின் தந்தையான குறித்த  சந்தேக நபரின் மனைவி வெளிநாட்டில் வசித்து வருகிறார் என்பது குறிப்பிடத்தக்கது
+“We took a minister from the ruling party, who is now aligned with us. He no longer desires the ministerial position”, the former President added.
 
-கைதான சந்தேக நபர் பல்வேறு குற்றச்சாட்டுகளில் நீதிமன்ற உத்தரவின் பேரில் பிடியாணை பிறப்பிக்கப்பட்டு பொலிஸாரால் தேடப்பட்டு வந்த நிலையிலேயே கைது செய்யப்பட்டுள்ளார்.
+◼️
 
-சந்தேக நபரின் உடலில் காயங்கள் காணப்படுவதால் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிறைச்சாலை காவலர்களின் கண்காணிப்பில் சிகிச்சை பெற்று வருகிறார்.
-
-...
-
-[Data](articles/c75ed864.json)
+[Data](articles/207d46dd.json)
 
 ---
 
-### அதிர்ச்சியளித்தார் சஜித்
+### பஸ் கட்டணங்கள் குறைக்கப்படாது ; ஆனால்...
+
+*2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறைக்கப்படாது-ஆனால்/175-336593) · `ta`
+
+டீசல் விலை குறைக்கப்பட்டாலும் பஸ் கட்டணத்தை குறைக்க இயலாது என பஸ் உரிமையாளர்கள்  சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+இதேவேளை, ஜூலை மாதத்திலேயே பஸ் கட்டணங்களை குறைக்க முடியும் என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+நேற்று(30) நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/38cd674f.json)
+
+---
+
+### Kattankudy girl abuse:
+
+*2024-05-01 11:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடியில்-சிறுமி-துஷ்பிரயோகம்-குடும்பஸ்தர்-கைது/175-336592) · `ta`
+
+Kattankudy police arrested a 25-year-old relative who sexually assaulted a 14-year-old girl near Burgan School in Karbala village. The suspect, who lives with his wife abroad, was detained on court orders and hospitalized for injuries. He's held for 14 days under interrogation.
+
+🟩
+
+Kattankudy Police have arrested a 25 -year -old family member who raped a 14 -year -old girl
+
+The incident took place near the Burgan School in Karbala village belonging to the Kattankudy police division, police said that the incident took place.
+
+The family has lodged a complaint with the Kattankudy police that the girl who lives in a neighboring house has been raped by her home.
+
+It is noteworthy that the wife of a 25 -year -old child lives abroad
+
+The arrested suspect has been arrested on various charges on a court order and has been arrested by the police.
+
+He is admitted to the Batticaloa Teaching Hospital due to injuries to the suspect's body.
+
+Eravur Tourism Court Judge and Batticaloa Response Justice A. Darshini ordered to be kept in the interrogation for 14 days.
+
+◼️
+
+[Data](articles/c75ed864.json)
+
+[Extended Data](ext_articles/c75ed864.ext.json)
+
+---
+
+### Shocked Sajith
 
 *2024-05-01 11:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ச்சியளித்தார்-சஜித்/175-336591) · `ta`
 
-ஒரு அதிர்ச்சிக்குரிய செயலாக, ஐக்கிய மக்கள் சக்தி (SJB) தலைவர் சஜித் பிரேமதாச, சீனக் கம்யூனிஸ்ட் கட்சியின் (CPC) குழுவுடனான சந்திப்பில், ஆசியாவின் இரு பெரும் சக்திகளான இந்தியா சீனாவுக்குடையில் மத்தியஸ்தம் வகிக்க முன்வந்துள்ளார்.
+Sajith Premadasa, leader of the United People's Power, offered to mediate between India and China, sparking controversy. The Chinese Communist Party (CPC) opposes giving any country special status in Sri Lanka's foreign relations.
 
-அண்மையில் இலங்கைக்கு விஜயம் செய்த CPC தூதுக்குழுவினருக்கும் அவரது கட்சிக்கும் இடையிலான கலந்துரையாடலின் போது பிரேமதாச இவ்வாறான ஒரு வாய்ப்பை வழங்கியதாக இந்த சந்திப்பை நன்கு அறிந்த ஒரு வட்டாரம் டெய்லி மிரருக்கு தெரிவித்தது.
+🟩
 
-எவ்வாறாயினும், இலங்கை தனது அந்நிய உறவுகளில் எந்தவொரு நாட்டிற்கும் சிறப்பு அந்தஸ்தை வழங்கக் கூடாது என்று CPC கூறியுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+As a shocking act, United People's Power (SJB) leader Sajith Premadasa has offered to meditate on the two major powers of Asia, India, in a meeting with the Chinese Communist Party (CPC) group.
 
-இலங்கை அரசியல் கட்சிகளுடனான ஈடுபாட்டின் ஒரு பகுதியாக சர்வதேச விவகார திணைக்களத்தின் பிரதியமைச்சர் சன் ஹையன் தலைமையிலான CPC குழு பிரேமதாசவையும் இன்னும் சில பாராளுமன்ற உறுப்பினர்களையும் சந்தித்தது.
+Daily Mirror told the Daily Mirror that Premadasa gave such an opportunity during a discussion between the CPC delegation and his party who recently visited Sri Lanka.
 
-கூட்டத்தில், சஜித், வெளிப்படையாக இந்திய-சீனா மோதலைக் குறிப்பிடுகையில், ஒரு அரசியல் தலைவர் என்ற வகையில், இரண்டு ஆசிய ஜாம்பவான்களுக்கு இடையில் ஒரு மத்தியஸ்த பாத்திரத்திற்குத் தயாராக இருப்பதாகக் கூறினார்.
+However, the CPC has said that Sri Lanka should not give special status to any country in its foreign relations.
+
+As part of the involvement of the Sri Lankan political parties, the CPC team led by the Deputy Minister of the International Affairs Department Sun Hyan met with Premadasa and a few more MPs.
+
+At the meeting, Sajith, openly referring to the Indo-China conflict, said that as a political leader, he was ready for a medieval role between the two Asian zombies.
+
+It is said that Sri Lanka should always be equal in contacts with all countries and that no country should be given special status.
 
 ...
 
 [Data](articles/6ac6f247.json)
 
+[Extended Data](ext_articles/6ac6f247.ext.json)
+
 ---
 
-### சினோபெக்கும் எரிபொருள் விலைகளைக் குறைத்தது
+### Sinophek reduced fuel prices
 
 *2024-05-01 10:45:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சினோபெக்கும்-எரிபொருள்-விலைகளைக்-குறைத்தது/175-336590) · `ta`
 
-இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தினால் நேற்று இரவு மேற்கொள்ளப்பட்ட எரிபொருள் விலைத் திருத்தத்துடன் இணைந்து, சினோபெக் எனர்ஜி லங்கா இன்று முதல் அமுலுக்கு வரும் வகையில் தனது விலை திருத்தத்தை அறிவித்துள்ளது.
+Sinopac Energy Lanka reduced fuel prices: 92 octane petrol to Rs. 365, 95 octane to Rs. 420, Otto diesel to Rs. 333, and Super Diesel to Rs. 377.
 
-இதன்படி, 92 ஒக்டேன் பெற்றோல் லீற்றர் ஒன்றின் விலை 3 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய சில்லறை விலை ரூ. 365 ஆகும். 95 ஒக்டேன் பெற்றோல் ஒரு லீற்றர் 20 ரூபாவால் குறைக்கப்பட்டு புதிய சில்லறை விலை ரூ. 420 ஆகவுள்ளது.
+🟩
 
-ஒரு லிட்டர் ஒட்டோ டீசல் ரூ. 27 இனால் குறைக்கப்பட்டுள்ளதுடன், தற்போதைய விலை ரூ. 333 ஆகும். இதேவேளை, சுப்பர் டீசல் ஒரு லீற்றர் 9 ரூபாவால் குறைக்கப்பட்டு அதன் புதிய சில்லறை விலை ரூ. 377 ஆகவுள்ளது.
+Sinopac Energy Lanka has announced its amendment with the Ceylon Petroleum Corporation last night.
+
+Accordingly, the price of 92 octane petrol has been reduced by 3 rupees and its new retail price is Rs.. Is 365. 95 Octtane Petrol is reduced by 20 rupees and new retail price Rs.. 420.
+
+A liter of Otto diesel Rs.. 27 has been reduced and the current price is Rs.. Is 333. Meanwhile, Super Diesel has been reduced by a liter of 9 rupees and its new retail price is Rs.. 377.
 
 ◼️
 
 [Data](articles/bd861dd2.json)
+
+[Extended Data](ext_articles/bd861dd2.ext.json)
 
 ---
 
@@ -2155,49 +2211,5 @@ President Ranil Wickremesinghe, who was promoted to his official X site at 11.00
 [Data](articles/21af0a81.json)
 
 [Extended Data](ext_articles/21af0a81.ext.json)
-
----
-
-### President leaves two May wrinkles
-
-*2024-04-30 18:15:38* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-මැයි-රැළි-දෙකකට-එක්වෙයි/11-409354) · `si`
-
-President Ranil Wickremesinghe will attend the International Labor Day rally tomorrow, organized by the Ceylon Workers Congress at Kotagala Public Stadium. The UNP will hold its rally at Colombo Maligawatta Police at 2.00 pm.
-
-🟩
-
-President Ranil Wickremesinghe will join the International Labor Day tomorrow (01).
-
-The May Day rally, which is organized by the Ceylon Workers Congress, will commence at the Kotagala Public Stadium tomorrow (01).
-
-The President will join the invitation of the Ceylon Workers Congress and the President will hold the May Day rally with the participation of a large number of people in the plantation people. The largest union and the political party representing the mountain community is the Ceylon Workers Congress.
-
-Meanwhile, the UNP's May Day rally will commence from the front of the Colombo Maligawatta Police tomorrow at 2.00 pm.
-
-◼️
-
-[Data](articles/a31175da.json)
-
-[Extended Data](ext_articles/a31175da.ext.json)
-
----
-
-### Sri Lanka Treasuries yields fall across maturities
-
-*2024-04-30 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-160697/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Tuesday’s auction with the 3-month yield moving down 29 basis points to 9.61 percent, data from the state debt office showed.
-
-The debt office sold all 25 billion rupees of 3-month bills offered.
-
-The 6-month yield fell 19 basis points to 9.89 percent, with 65 billion rupees offered and 57.08 billion rupees sold.
-
-The 12-month yield dropped 22 basis points to 9.99 percent with 47.91 billion rupees of bills sold after offering 40 billion rupees. (Colombo/Apr30/2024)
-
-◼️
-
-[Data](articles/735ea179.json)
-
-[Extended Data](ext_articles/735ea179.ext.json)
 
 ---

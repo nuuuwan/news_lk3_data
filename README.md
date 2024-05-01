@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 14:34:09**
+As of **2024-05-01 14:52:51**
 
 ## Newspaper Stats
 
-*Scraped **22,059** Articles*
+*Scraped **22,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,848
 tamilmirrorlk | 2,571
-adaderanalk | 2,604
+adaderanalk | 2,605
 virakesarilk | 3,329
 dailymirrorlk | 3,446
-adaderanasinhalalk | 3,563
+adaderanasinhalalk | 3,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,058 (100.0%) of 22,059 articles have been extended.
+22,059 (100.0%) of 22,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### රණසිංහ ප්‍රේමදාස ගුණ සැමරුම අද
+
+*2024-05-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196162) · `si`
+
+මෙරට දෙවැනි විධායක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ 31වන ගුණ සැමරුම අදට (01) යෙදී තිබේ.
+
+ඒ වෙනුවෙන් වූ සැමරුම් උත්සවය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ කොළඹ අලුත්කඩේ උසාවිය අසල ශ්‍රීමත් රණසිංහ ප්‍රේමදාස පිළිරුව අභියසදී පැවැත්වුණි.
+
+1993 වසරේ මැයි 01 වනදා එක්සත් ජාතික පක්ෂය විසින් සංවිධානකර තිබූ මැයි දින ‍පෙළපාළියට එවක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාද එක්වී සිටියේය.
+
+පෙළපාලිය කොළඹ ආමර්වීදිය වෙත පැමිණි අවස්ථාවේ දී LTTE මරාගෙන මැරෙන බෝම්බකරුවෙකු පුපුරවාගත් බෝම්බයකින් රණසිංහ ප්‍රේමදාස මහතා ඇතුළු 23 දෙනෙකුට දිවි අහිමිවූ අතර තවත් පුද්ගලයින් 60කට ආසන්න පිරිසකට තුවාල සිදුවිය.
+
+ශ්‍රී ලංකාවේ දෙවැනි විධායක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතා එලෙස ඝාතනයට ලක්වී අදට වසර 31කි.
+
+ඒ මහතා සිහිකරමින් ඊයේ පස්වරුවේ ශ්‍රී සුචරිත ශාලාවේදී ධර්ම දේශනයක් සංවිධාන කර තිබුණි.
+
+අද උදෑසන  කොළඹ හුණුපිටිය ගංගාරාම විහාරවාසී මහා සංඝරත්නය විෂයෙහි සපිරිකර සහිත සංඝගත දක්ෂිණාවක්ද සිදුකෙරුණි.
+
+◼️
+
+[Data](articles/78223af4.json)
+
+---
+
+### Indonesia’s Ruang volcano erupts, more than 12,000 people evacuated
+
+*2024-05-01 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98953/indonesias-ruang-volcano-erupts-more-than-12000-people-evacuated) · `en`
+
+Indonesia’s Ruang volcano erupted on Tuesday, spewing lava as lightning flashes lit up its crater, prompting authorities to raise the alert status and evacuate more than 12,000 people living on a nearby island.
+
+The Center for Volcanology and Geological Hazard Mitigation (PVMBG) had warned the residents of Tagulandang island that a tsunami could be triggered by volcanic material collapsing into the ocean.
+
+The warning, issued on Tuesday morning, remained in placed as of the afternoon.
+
+The agency raised the alert status of Ruang to the highest level following the early morning eruption, urging residents not to go near the volcano.
+
+Indonesia’s disaster mitigation agency (BNPB) said that all 843 residents living in Ruang island, where the volcano is located, have been moved to Manado, the capital of North Sulawesi province. Residents of Tagulandang island are being relocated to Siau island to the north.
+
+...
+
+[Data](articles/b8ac65ce.json)
+
+---
 
 ### Request to implement a proper program for vehicle imports
 
@@ -390,19 +434,27 @@ In this case, many people were sued in the London court for alleged health. At t
 
 ---
 
-### ’’கோவிஷீல்டு பக்கவிளைவு  தரலாம்’’: நீதிமன்றில் ஒப்புதல்
+### Govishield side effect
 
 *2024-05-01 12:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோவிஷீல்டு-பக்கவிளைவு-தரலாம்-நீதிமன்றில்-ஒப்புதல்/50-336601) · `ta`
 
-கொவிட் தடுப்பூசியான கோவிஷீல்டு சில நேரங்களில் ஏதேனும் ஒரு சிலருக்கு பக்கவிளைவுகளை தரலாம் என இந்த ஊசியை தயாரித்த நிறுவனம் லண்டன்  நீதிமன்றத்தில் ஒப்புக்கொண்டுள்ளது.
+Govishield vaccine, compulsory for 90% of people, has side effects like blood clotting and DTS, affecting a rare minority. Pharmaceutical companies denied threats to life. London court suits alleged health issues, with Ashtrajnega and the University of Oxford acknowledging the side effects.
 
-உலகையே உலுக்கிய கொவிட் தொற்றால் லட்சக்கணக்கானோர் மாண்டனர். உலக பொருளாதாரமே சீர்குலைந்தது. கொவிட்டை தடுக்க தடுப்பு மருந்து வராதா என்ற ஏக்கத்தில் இருந்தபோது கோவாக்ஸின் , கோவிஷீல்டு கண்டுபிடிக்கப்பட்டது. இந்த தடுப்பு மருந்து கட்டாயமாக்கப்பட்டது. 90 சதவீத மக்கள் இந்த ஊசியை போட்டு கொண்டனர். இந்த ஊசியால் உயிருக்கு அச்சுறுத்தல் வருமா என்ற கேள்வி எழுந்த போது, மருந்து தயாரிப்பு நிறுவனங்கள் மறுத்தன.
+🟩
 
-இந்நிலையில் கோவிஷீல்டு காரணமாக பலர் உடல்நலம் பாதிக்கப்படுவதாக லண்டன் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. வழக்கின் விசாரணையில் , கோவிஷீல்டு தயாரித்த ஆக்ஸ்போர்டு பல்கலைக்கழகத்துடன் இணைந்து அஷ்ட்ராஜெனேகா நிறுவனம் நீதிமன்றத்தில் பாதிப்பு குறித்து ஒப்புக்கொண்டுள்ளது.
+The injection company has agreed to the London court that Kovit vaccine, Govishield, can sometimes give side effects to some people.
 
-...
+Millions of people have died in the world that rocked the world. The world's economy was disrupted. Kovaxin, Kovishield was found when he was in a longing for a prevention for prevention. This vaccine has been made compulsory. 90 percent of people put this injection. When the question arose as to whether the needle threatens life, pharmaceutical companies refused.
+
+In this case, many people were sued in the London court for alleged health. At the hearing of the case, Ashtrajnega has agreed to the court's impact on the court, along with the University of Oxford produced by Govishield.
+
+'It is a rare thing that some people are like this. Blood can cause clotting, DTS (thrombocytopenia syndrome) may be affected. It does not come to everyone, so rarely can happen '. Has been stated.
+
+◼️
 
 [Data](articles/f9504bae.json)
+
+[Extended Data](ext_articles/f9504bae.ext.json)
 
 ---
 
@@ -2187,55 +2239,5 @@ The port welcomed the ship with a plaque presentation held on board. Officials o
 [Data](articles/0471e568.json)
 
 [Extended Data](ext_articles/0471e568.ext.json)
-
----
-
-### No problem with Uma Oya project
-
-*2024-05-01 00:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-திட்டம்-தொடர்பில்-பிரச்சினை-இல்லை/175-336585) · `ta`
-
-Anurutha Herath, Minister of Power and Electricity, stated that the Uma Oya Multi-Purpose Development Program, now public, has no landslides or issues. Despite a $587 million loss over nine years, the project failed to generate power or integrate into the national structure. Critics claim misleading media about landslides, but no confirmed incidents have been reported. Geographers will survey the area for cracks and waterproofing issues.
-
-🟩
-
-The Minister of Power and Electricity, Anurutha Herath, said that after the Uma Oya Multi -Purpose Development Program was handed over to the public, there were no landslides or other problems.
-
-He made this statement at a press conference held at the Presidential Media Center yesterday. He further stated that
-
-The country has suffered a huge loss due to the delay in completing the Umoya Multipurpose Development Program. Accordingly, the loss in the last nine years is estimated at $ 587 million. The initial estimate of the project was recorded at $ 529 million.
-
-However, in the last nine years, the Uma Oya project was unable to produce power generation through the project and was unable to be included in the national structure.. In addition, the Uma Oya project seems to be conducting media programs that have been misleading people claiming that the project has caused landslides as the project has been added to the national structure.
-
-...
-
-[Data](articles/5bed73c7.json)
-
-[Extended Data](ext_articles/5bed73c7.ext.json)
-
----
-
-### Adjournment
-
-*2024-05-01 00:03:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரத்துபஸ்வல-தீர்ப்பு-ஒத்திவைப்பு/175-336584) · `ta`
-
-The Gampaha Special High Court postponed the verdict for a case involving an army brigadier and three soldiers accused of killing three people and injuring 45, due to a demonstration for clean drinking water on August 1, 2013, where security forces fired on protesters.
-
-🟩
-
-Three people were killed and 45 injured have been postponed.
-
-The Gampaha Special High Court on Tuesday (30) decided to announce the verdict against the trio, including the army brigadier who was accused of the alleged military Brigadier.
-
-Gampaha High Court Judge Sahan Maba Bandara announced that the case was taken up on Tuesday (30).
-
-Accordingly, the judge ordered the accused Army Brigadier and the three soldiers who were present in court.
-
-People from the Weliweriya Rathupaswala village landed on the streets of Rathupaswala village on August 1, 2013 to take steps to provide clean drinking water.. On the demonstration, the security forces were fired.
-
-◼️
-
-[Data](articles/a9a13f5e.json)
-
-[Extended Data](ext_articles/a9a13f5e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 12:18:31**
+As of **2024-05-01 12:34:18**
 
 ## Newspaper Stats
 
-*Scraped **22,027** Articles*
+*Scraped **22,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,142 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,846
-tamilmirrorlk | 2,562
-adaderanalk | 2,602
-virakesarilk | 3,320
+adalk | 1,847
+tamilmirrorlk | 2,565
+adaderanalk | 2,603
+virakesarilk | 3,326
 dailymirrorlk | 3,438
-adaderanasinhalalk | 3,561
+adaderanasinhalalk | 3,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,027 (100.0%) of 22,027 articles have been extended.
+22,027 (99.9%) of 22,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### ஜனாதிபதி வேட்பாளர் விஜயதாச: அறிவித்தார் மைத்திரி
+
+*2024-05-01 12:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-விஜயதாச-அறிவித்தார்-மைத்திரி/175-336602) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் ஜனாதிபதி வேட்பாளராக  விஜயதாச ராஜபக்ஷ முன் நிறுத்தப்படுவார் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, புதன்கிழமை (01) தெரிவித்தார்.
+
+ஒன்றிய தலைவர் ஓ.இ. இளங்கரத்னவின் நினைவேந்தல் நிகழ்வில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இதனைத் தெரிவித்தார்.
+
+அரசாங்கத்தின் அமைச்சர் ஒருவர் ஸ்ரீலங்கா சுதந்திரக் கட்சியில் இணைந்துகொண்டார் என தெரிவித்த  மைத்திரிபால, தான் விரும்பும் பதவியில் தமக்கு ஆசை இல்லை எனவும் குறிப்பிட்டுள்ளார்.
+
+விஜயதாச ராஜபக்சவுக்கு கட்சியின் பெரும்பான்மை ஆதரவு இருப்பதாகவும், தான் ஒருமுறை ஜனாதிபதியாக பதவி வகித்ததாகவும், பதவிப் பிரமாணம் செய்யும் போது மீண்டும் போட்டியிடப் போவதில்லை என அறிவித்ததாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/378a7760.json)
+
+---
+
+### ’’கோவிஷீல்டு பக்கவிளைவுகளை தரலாம்’’: நீதிமன்றில் ஒப்புதல்
+
+*2024-05-01 12:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோவிஷீல்டு-பக்கவிளைவுகளை-தரலாம்-நீதிமன்றில்-ஒப்புதல்/50-336601) · `ta`
+
+கொவிட் தடுப்பூசியான கோவிஷீல்டு சில நேரங்களில் ஏதேனும் ஒரு சிலருக்கு பக்கவிளைவுகளை தரலாம் என இந்த ஊசியை தயாரித்த நிறுவனம் லண்டன்  நீதிமன்றத்தில் ஒப்புக்கொண்டுள்ளது.
+
+உலகையே உலுக்கிய கொவிட் தொற்றால் லட்சக்கணக்கானோர் மாண்டனர். உலக பொருளாதாரமே சீர்குலைந்தது. கொவிட்டை தடுக்க தடுப்பு மருந்து வராதா என்ற ஏக்கத்தில் இருந்தபோது கோவாக்ஸின் , கோவிஷீல்டு கண்டுபிடிக்கப்பட்டது. இந்த தடுப்பு மருந்து கட்டாயமாக்கப்பட்டது. 90 சதவீத மக்கள் இந்த ஊசியை போட்டு கொண்டனர். இந்த ஊசியால் உயிருக்கு அச்சுறுத்தல் வருமா என்ற கேள்வி எழுந்த போது, மருந்து தயாரிப்பு நிறுவனங்கள் மறுத்தன.
+
+இந்நிலையில் கோவிஷீல்டு காரணமாக பலர் உடல்நலம் பாதிக்கப்படுவதாக லண்டன் நீதிமன்றத்தில் வழக்கு தொடரப்பட்டது. வழக்கின் விசாரணையில் , கோவிஷீல்டு தயாரித்த ஆக்ஸ்போர்டு பல்கலைக்கழகத்துடன் இணைந்து அஷ்ட்ராஜெனேகா நிறுவனம் நீதிமன்றத்தில் பாதிப்பு குறித்து ஒப்புக்கொண்டுள்ளது.
+
+...
+
+[Data](articles/aca0dc61.json)
+
+---
+
+### கத்தாரில் நடைபெற்ற மாபெரும் சித்திரை திருநாள் கொண்டாட நிகழ்வு
+
+*2024-05-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182396) · `ta`
+
+கத்தார் தமிழர் சங்கம் பெருமையுடன் வழங்கிய சித்திரை திருநாள் இசை மேடைக் கொண்டாட்ட நிகழ்வுகள் கடந்த 25ம் திகதி மாலை 6 மணிக்கு கத்தார் தேசிய மாநாட்டு மையத்தில் மிகச் சிறப்பாக இடம் பெற்றது.
+
+இந் நிகழ்வில் பிரதம அதிதியாக கத்தாருக்கான இந்திய தூதுவர் விபுல் , சிறப்பு அதிதிகளாக கத்தார் நாட்டின் உயர் அதிகாரிகள், கத்தாரில் உள்ள முக்கியஸ்தர்கள், கத்தாரில் உள்ள தமிழ் அமைப்புகளின் உறுப்பினர்கள் என பலறும் கலந்து சிறப்பித்தனர்.
+
+நிகழ்வை சிறப்பிக்கும் வகையில் இந்திய நாட்டின் பிரபல கலைஞர்களான விஜய் டிவி சூப்பர் சிங்கர்ஸ் ஸ்ரீ நிஷா, பிரியா ஜெர்சன், திவாகர், ஸ்ரீதர் சேனா, மணி அண்ட் பேண்ட் குழுவினர், கலக்கப் போவது யாரு பாலா, கார்த்திக் தேவராஜன், வினோத், விக்னேஷ் நிகழ்ச்சி தொகுப்பாளராக பல் குரல் கலைஞர் ஆதவன் ஆகியோர் கலந்து கொண்டு சித்திரை திருநாள் கொண்டாட்டத்தினை வழங்கினர்.
+
+மேலும் இந்நிகழ்ச்சியை பார்வையிட ஏராளமான இந்திய மற்றும் இலங்கை தமிழ் மக்கள் என 2500க்கும் மேற்பட்டவர்கள் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5dfcf97d.json)
+
+---
+
+### May Day rallies across Sri Lanka: Special security measures underway
+
+*2024-05-01 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98951/may-day-rallies-across-sri-lanka-special-security-measures-underway) · `en`
+
+Today is International Workers’ Day, also known as Labour Day, which is observed annually on May 1 in Sri Lanka and the world at large.
+
+The day, which has its origins in the labour union movement, specifically the eight-hour day movement, is a celebration of labourers and the working classes that is promoted by the international labour movement.
+
+May 1 is observed as an ancient northern hemisphere spring festival, however, it became associated with the labour movement in the late 19th century after trade unions and socialist groups designated it as a day in support of workers.
+
+The date was chosen to be International Workers’ Day to commemorate the 1886 Haymarket affair in Chicago in the US, in which a peaceful rally in support of workers led to a violent clash with the police, leading to the deaths of at least 38 civilians and 7 police officers.
+
+While 60 police officers and 115 civilians were injured. Those who died due to the clash were hailed as “Haymarket Martyrs”.
+
+...
+
+[Data](articles/eb30b0e9.json)
+
+---
+
+### ලෝක කුසලානයට ඔස්ට්‍රේලියානු සංචිතය නම්කරයි
+
+*2024-05-01 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196160) · `si`
+
+‍පන්දුවාර විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වන ඔස්ට්‍රේලියානු සංචිතය නම්කර තිබේ.
+
+15 දෙනෙකුගෙන් සමන්විත සංචිතයට සුපිරි පිතිකරු ස්ටීවන් ස්මිත් ඇතුළත් නොවීම විශේෂත්වයකි.
+
+එමෙන්ම මෙවර ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ දී පිතිකරුවෙකු ලෙස විශිෂ්ට දස්කම් දැක්වු ජේක් ෆ්‍රාසර් ද ඕස්ට්‍රේලියානු විස්සයි විස්ස සංචිතයට ඇතුළත් කර නොමැත.
+
+මිෂෙල් මාෂ්ගේ නායකත්වයෙන් යුත් ලෝක කුසලානයට නම් කළ ඕස්ට්‍රේලියානු විස්සයි විස්ස සංචිතය පහතින්,
+
+මේ වනවිට නවසීලන්තය, දකුණු අප්‍රිකාව, ඉන්දියාව, එංගලන්තය සහ ඇෆ්ගනිස්ථානය යන රටවල් ද විස්සයි විස්ස ලෝක කුසලානයට සහභාගී වන සංචිත ප්‍රකාශයට පත් කර තිබේ.
+
+◼️
+
+[Data](articles/09fc1f74.json)
+
+---
+
+### நாளாந்த சம்பளம்  1700  ரூபாயாக உயர்வு: ஜனாதிபதி
+
+*2024-05-01 11:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாளாந்த-சம்பளம்-1700-ரூபாயாக-உயர்வு-ஜனாதிபதி/76-336599) · `ta`
+
+தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளம் 1700 ரூபாவாக அதிகரிக்கப்படும் என,  கொட்டகலை பொது விளையாட்டரங்கில் புதன்கிழமை  (01) முற்பகல்நடைபெற்ற இலங்கைத் தொழிலாளர் காங்கிரஸின் மே தினக் கூட்டத்தில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/60716aa8.json)
+
+---
+
+### தேயிலை, இறப்பர் தோட்டத்தொழிலாளர்களின் நாளாந்த ஊதியத்தை அதிகரிப்பது தொடர்பான அரசவர்த்தமானி வெளியானது
+
+*2024-05-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/182393) · `ta`
+
+குறித்த வர்த்தமானியில், தேயிலை, இறப்பர் தோட்டத் தொழிலாளர்களின்  குறைந்தபட்ச நாளாந்த ஊதியம்  1,700 ரூபாவாக நிர்ணயிக்கப்பட்டுள்ளது.
+
+அதன்படி, நாளாந்த ஊதியம் 1350 ரூபாவாகவும், நாளாந்த மேலதிக கொடுப்பனவு 350 ரூபாவாகவும் வழங்கப்படும்.
+
+இந்நிலையில், மொத்தமாக நாளாந்த ஊதியம் 1700 ரூபாய் வழங்கப்படும் என வர்த்தமானியில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8f44c2be.json)
+
+---
 
 ### Minimum daily wage of plantation workers increased to Rs. 1,700
 
@@ -47,6 +167,22 @@ Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made
 [Data](articles/7b7517e0.json)
 
 [Extended Data](ext_articles/7b7517e0.ext.json)
+
+---
+
+### வரலாற்றில் இன்று : 1993 மே தின ஊர்வலம் : முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் உயிரைப் பறித்த குண்டுவெடிப்பு !
+
+*2024-05-01 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/182394) · `ta`
+
+இன்று உலகளாவிய ரீதியில் சர்வதேச தொழிலாளர்கள் தினம் (மே 01) கடைபிடிக்கப்பட்டு வருகிறது. இலங்கையில் இன்றைய தினம் அனேக இடங்களில் ஏற்பாடு செய்யப்பட்டுள்ள மே தின கூட்டங்கள் மற்றும் ஊர்வலங்களில் பல்வேறு தரப்பினர் கலந்துகொள்கின்றனர்.
+
+1993இல், இதே நாளில், மே தின ஊர்வலத்தின்போது இடம்பெற்ற குண்டுவெடிப்பில் பேரணியில் பங்கேற்ற முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாச உயிரிழந்தார்.
+
+முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாச மறைந்த செய்தி 1993 மே 2ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையில் "ஐ.தே.க. மே தின ஊர்வலத்தில் குண்டுவெடிப்பு : ஜனாதிபதி படுகொலை : பதில் ஜனாதிபதியாக பிரதமர்" என்ற தலையங்கத்துடன் பிரசுரிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/f73db7ae.json)
 
 ---
 
@@ -119,6 +255,58 @@ Rajeswaran, Shanti, Ganesalingam and Vinod Kumar were then from Chennai two days
 [Data](articles/53891b6d.json)
 
 [Extended Data](ext_articles/53891b6d.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் 31 ஆவது நினைவு தினத்தை முன்னிட்டு தருமபோதனை
+
+*2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182390) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் 31 ஆவது சிரார்த்த தினத்தை முன்னிட்டு தருமபோதனை இடம் பெற்றுள்ளது.
+
+நேற்று செவ்வாய்க்கிழமை (30 ) ஆம் திகதி மாலை மொரட்டுவ, லுனாவ, ஸ்ரீ போதிராஜாராம விகாராதிபதியும், கொழும்பு பல்கலைக்கழகத்தின் சிங்கள கற்கைகள் துறைப் பேராசிரியருமான சங்கைக்குரிய அகலகட சிரிசுமண தேரரினால் ஶ்ரீ சுச்சரித மண்டத்தில் தர்ம போதனை நிகழ்த்தப்பட்டது.
+
+முன்னாள் ஜனாதிபதி ரணசிங்க பிரேமதாசவின் பாரியார் திருமதி ஹேமா பிரேமதாச, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச, குடும்ப உறுப்பினர்கள் உள்ளிட்டோர் இதில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/405ce547.json)
+
+---
+
+### அமெரிக்காவின் கொலம்பிய பல்கலைகழகத்தில் பதற்றம் - 100க்கும் மேற்பட்ட பாலஸ்தீன ஆதரவு மாணவர்கள் கைது
+
+*2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182392) · `ta`
+
+அமெரிக்காவின் கொலம்பிய பல்கலைகழத்தின் வளாகத்திலிருந்து பாலஸ்தீன ஆதரவாளர்களான மாணவர்கள் பலர் கைதுசெய்யப்பட்டு வெளியேற்றப்பட்டதை தொடர்ந்து அங்கு பெரும் பரபரப்பு ஏற்பட்டுள்ளது.
+
+பல்கலைகழகத்தின் கட்டிடத்தை பாலஸ்தீன ஆதரவு மாணவர்கள் ஆக்கிரமித்து 24 மணிநேரத்தின் பின்னர் அவர்கள் அங்கிருந்து பலவந்தமாக வெளியேற்றப்படுகின்றனர்.
+
+இரண்டு வாரங்களாக பல்கலைகழகத்தை சுற்றி முகாமிட்டிருந்த  பாலஸ்தீன ஆதரவு மாணவர்களையும்  பல்கலைகழக கட்டிடத்திற்குள் நுழைந்தவர்களையும் அங்கிருந்து அகற்றியுள்ளதாக காவல்துறையினர் தெரிவித்துள்ளனர்.
+
+பல்கலைகழகத்திலிருந்து வெளியேறுவதற்கு பல்கலைகழக நிர்வாகம் விடுத்த வேண்டுகோளை பாலஸ்தீன ஆதரவு மாணவர்கள் ஏற்றுக்கொள்ளாததை தொடர்ந்து மாணவர்களை வெளியேற்றுவதற்கு பொலிஸாருக்கு பல்கலைகழக நிர்வாகம் அனுமதி வழங்கியிருந்தது.
+
+இஸ்ரேலுடனான உறவுகளை துண்டிக்கவேண்டும் என கோரி அமெரிக்காவின் பல பல்கலைகழங்களில் மாணவர்கள் ஆர்ப்பாட்டங்களில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6320094f.json)
+
+---
+
+### சீமெந்தின் விலை குறைப்பு
+
+*2024-05-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/182383) · `ta`
+
+50 கிலோ கிராம் நிறையுடைய சீமெந்து பையின் விலையை இன்று புதன்கிழமை (1) முதல் 50 ரூபாவால் குறைக்க தீர்மானிக்கப்பட்டுள்ளதாக சீமெந்து தொழிற்சாலை நிறுவனங்கள் அறிவித்துள்ளது.
+
+அதன்படி 50 கிலோ கிராம் நிறையுடைய சீமெந்து பையின் புதிய விற்பனை விலை 2,400 ரூபாவாக இருக்கும்.
+
+இந்த விலைக் குறைப்பானது உள்ளூர் கட்டிட தொழிலை ஊக்குவிக்க உதவும் என எதிர்பார்க்கப்படுவதாக சீமெந்து தொழிற்சாலை நிறுவனங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/45c5d36f.json)
 
 ---
 
@@ -817,6 +1005,22 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/d538edce.json)
 
 [Extended Data](ext_articles/d538edce.ext.json)
+
+---
+
+### ඩිසල් අඩු වුණත් බස් ගාස්තු අඩු කළ නොහැකියි
+
+*2024-05-01 08:10:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩිසල්-අඩු-වුණත්-බස්-ගාස්තු-අඩු-කළ-නොහැකියි/11-409358) · `si`
+
+සියලුම ඉන්ධන මිල ගණන් ඊයේ (30දා) මධ්‍යම රාත්‍රියේ සිට අඩු කිරීමට ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව කටයුතු කරනු ලැබිණි.
+
+එහිදී ලංකා සුදු ඩීසල් රුපියල් 30කින් අඩු කිරීමට කටයුතු කර ඇත. කෙසේ වෙත්තත් වර්තමානයේ රුපියල් 27ක පාඩුවකඅ විඳදරා ගනිමින් බස් රථ ධාවනය කරන බවත්, ඒ අනුව බස් ගාස්තු පිළිබඳ ජාතික ප්‍රතිපත්තියේ මිල සූත්‍රය අනුව මෙම ඉන්ධන මිල අඩුවීමත් සමඟ බස් ගාස්තු අඩු කළ නොහැකි බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා 'අද' පුවත්පතට පැවසීය.
+
+ඒ අනුව බස් ගාස්තු සංශෝධනයක් සිදු කළ හැකි වන්නේ ලබන ජූලි මාසයේදී බවද ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b838df50.json)
 
 ---
 
@@ -1971,251 +2175,5 @@ Super diesel is expected to reduce the price of a liter by 9 rupees.
 [Data](articles/2b0fc2c8.json)
 
 [Extended Data](ext_articles/2b0fc2c8.ext.json)
-
----
-
-### The law of children is guilty of physical punishment
-
-*2024-04-30 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196145) · `si`
-
-The law now criminalizes physical punishment of children. The Cabinet approved amendments to the Criminal Code, emphasizing the importance of protecting children from harm and ensuring their rights are upheld.
-
-🟩
-
-The Cabinet approval has been approved to amend the Code of Code of Code of Criminal Code and the Criminal Code of Criminal Code.
-
-Cabinet Spokesperson Bandula Gunawardena said that if an adult or teacher punishing a child, it was a mistake.
-
-"There is also the number of times when children 'ears are not heard. The best things should be given to children.. The worst of children should be prevented. President's full attention focused. Accordingly, the Penal Leader, Criminal Procedure Code Act, was approved by the Criminal Code of Code of Code. Accordingly, the children physically punishment by adults or physically punishment will be amended to convict the law. "
-
-◼️
-
-[Data](articles/c9cb6b83.json)
-
-[Extended Data](ext_articles/c9cb6b83.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2024-04-30 21:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98944/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) has reduced its fuel prices to be in effect from midnight today (30).
-
-UPDATE: Against this backdrop, Lanka Indian Oil Corporation (LIOC) too has decided to drop its prices, mirroring the state-owned oil company’s move.
-
-◼️
-
-[Data](articles/534e3d33.json)
-
-[Extended Data](ext_articles/534e3d33.ext.json)
-
----
-
-### Fuel prices reduced from tonight
-
-*2024-04-30 21:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-reduced-from-tonight/108-281674) · `en`
-
-Colombo, April 30 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has reduced its fuel prices with effect from tonight.
-
-Accordingly, a litre of Lanka Petrol 92 Octane Euro 4 (Rs. 371) has been reduce by Rs. 3, and its new retail price will be Rs. 368.
-
-A litre of Lanka Petrol 95 Octane Euro 4 (Rs. 440) has been reduce by Rs. 20, and its new retail price will be Rs. 420.
-
-A litre of Lanka Auto Diesel (Rs.363) has been reduce by Rs.30, and its new retail price will be Rs.333.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 386) has been reduced by Rs. 9, and its new retail price will be Rs. 377.
-
-A litre of Lanka Kerosene (Rs. 245) has been reduced by Rs. 30 and its new retail price will be Rs. 215.
-
-◼️
-
-[Data](articles/1d4ba062.json)
-
-[Extended Data](ext_articles/1d4ba062.ext.json)
-
----
-
-### Support for meaningful actions that can lead to justice, accountability and reconciliation in Sri Lanka - the Canadian High Commission
-
-*2024-04-30 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182363) · `ta`
-
-The Canadian High Commission in Colombo supports justice, accountability, and reconciliation in Sri Lanka, despite the government's summons. A meeting between the Canadian High Commissioner and the Ministry of External Affairs Secretary is confirmed.
-
-🟩
-
-The Canadian High Commission in Colombo has said that it is ready to support meaningful measures that can lead to justice, accountability, peace and reconciliation in Sri Lanka.
-
-It has been reported that the Sri Lankan government has summoned the Canadian High Commissioner in Colombo as it is intended to construct a symbol to commemorate those killed in the alleged Tamil massacre in Sri Lanka in Sri Lanka.
-
-According to the 'Tamil Guardian' report, the Canadian High Commission in Colombo has confirmed that he has confirmed a meeting between Canadian High Commissioner Eric Wolsh and Secretary of the Ministry of External Affairs Aruni Wijewardene.
-
-The Tamil Guardian has stated in its email reply that the Provincial and Local Government governments can function freely from the central government under the federal structure of Canada and that they have separate administrative powers.
-
-◼️
-
-[Data](articles/9d69fe91.json)
-
-[Extended Data](ext_articles/9d69fe91.ext.json)
-
----
-
-### Vehicle imports can ease before elections for political gain: Merinchige
-
-*2024-04-30 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-imports-can-ease-before-elections-for-political-gain-Merinchige/108-281671) · `en`
-
-Colombo, April 30 (Daily Mirror) - Vehicle imports may be relaxed either before January next year or before the elections, potentially for political gain during the upcoming election period, Vehicle Importers Association of Lanka (VIAL) President Indika Sampath Merinchige said.
-
-Addressing the media, he said the vehicle imports are for the process of gaining political advantages.
-
-"When making decisions regarding the resumption of vehicle imports, all responsible individuals must convene around a single table to discuss the matter. Therefore, the government, instead of unilaterally taking decisions, should involve other responsible parties and consider their input," Merinchige said.
-
-"The Finance Ministry, Sri Lanka Customs, Motor Traffic Department, government vehicle importers, private importer associations, the Attorney General's Department and the Minister responsible should convene at a single table to discuss the issues," he said.
-
-...
-
-[Data](articles/e989db83.json)
-
-[Extended Data](ext_articles/e989db83.ext.json)
-
----
-
-### Fuel prices vary
-
-*2024-04-30 21:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196144) · `si`
-
-Fuel prices revised from midnight today (30).
-
-🟩
-
-Fuel prices have been revised from midnight today (30).
-
-◼️
-
-[Data](articles/7c2764bc.json)
-
-[Extended Data](ext_articles/7c2764bc.ext.json)
-
----
-
-### Sri Lanka, Saudi Arabia ink MoU on investment promotion
-
-*2024-04-30 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Saudi-Arabia-ink-MoU-on-investment-promotion/108-281673) · `en`
-
-Colombo, April 30(Daily Mirror)-Sri Lanka and Saudi Arabia inked a Memorandum of Understanding (MoU) to promote investments, Foreign Minister Ali Sabry said.
-
-He said he and Saudi Minister of Investment Khalid Al Falih signed the MoU on investment promotion between the countries.
-
-“This instrument, a long felt need, will immensely help promote investment opportunities in our countries,” he said.
-
-◼️
-
-[Data](articles/f1c0895c.json)
-
-[Extended Data](ext_articles/f1c0895c.ext.json)
-
----
-
-### Media felicitated for preserving Jathika Namal Uyana
-
-*2024-04-30 20:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Media-felicitated-for-preserving-Jathika-Namal-Uyana/110-281672) · `en`
-
-The electronic and print media in Sri Lanka were felicitated for their efforts in conserving the Jathika Namal Uyana at an event hosted by Prime Minister Dinesh Gunawardane at Temple Trees.
-
-The event coincided with the 33rd anniversary celebration of the conservation and preservation of the Jathika Namal Uyana. Former Editor-in-Chief of the Lankadeepa Siri Ranasinghe, Divaina newspaper’s founding Editor Edmond Ranasinghe and several others were specially recognized. Publications of the Wijeya Newspapers, Lake House, Upali Newspapers, Liberty Publishers and Ceylon Newspapers were also felicitated.  Ven. Wanawasi Rahula Thera, Minister Bandula Gunawardane and MP Duminda Dissanayake were also in attendance. Pix by Jayamal Chandrasiri
-
-◼️
-
-[Data](articles/30ecea2d.json)
-
-[Extended Data](ext_articles/30ecea2d.ext.json)
-
----
-
-### 100 Opposition MPs demand duty free vehicle license
-
-*2024-04-30 20:02:50* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ-විපක්ෂ-මන්ත්‍රීවරු-100ක්-තීරු-බදු-රහිත-වාහන-බලපත්‍ර-ඉල්ලති/11-409356) · `si`
-
-100 Opposition MPs demand duty-free vehicle licenses. Speaker Mahinda Yapa Abeywardena permits import tariffs, citing older vehicles. President Mahinda Yapa Abeywardena will inform President Ranil Wickremesinghe.
-
-🟩
-
-The Speaker Mahinda Yapa Abeywardena told the 'Today' to allow him to give them permission to import tariffs.
-
-The Speaker said that due to the older vehicles used by those MPs today, the request was presented to him.
-
-Accordingly, President Mahinda Yapa Abeywardena said that he will inform the President Ranil Wickremesinghe in the future.
-
-◼️
-
-[Data](articles/09e39160.json)
-
-[Extended Data](ext_articles/09e39160.ext.json)
-
----
-
-### Indian T20 squad named
-
-*2024-04-30 20:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196143) · `si`
-
-The Indian T20 World Cup squad is announced, excluding KL Rahul.
-
-🟩
-
-The Indian squad played for the Twenty20 World Cup has been named.
-
-However, India's super batsman KL Rahul was not included in the squad.
-
-◼️
-
-[Data](articles/dfa29be7.json)
-
-[Extended Data](ext_articles/dfa29be7.ext.json)
-
----
-
-### Over 2,400 new private companies incorporated in March 2024
-
-*2024-04-30 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2-400-new-private-companies-incorporated-in-March-2024/108-281669) · `en`
-
-A total of 2,440 new private limited companies have been incorporated between 1 to 31 March, according to the Department of the Registrar of Companies.
-
-As per a notice published, the companies have been incorporated under Section 05(01) relevant to the incorporation of companies under Companies Act No. 07 of 2007.
-
-The figure represents a 18% growth compared to the number of registrations recorded in January 2024.
-
-Last month, President Ranil Wickremesinghe said that the Registrar Department recorded a total of 1,995 new company registrations in January.
-
-Under the Companies Act No. 07 of 2007, a company is a body corporate identified by the name by which it has been registered.
-
-Subject to certain provisions of the act, these companies can carry on or undertake any business or activity, do any act or enter into any transaction within or outside Sri Lanka.
-
-...
-
-[Data](articles/30b6eb73.json)
-
-[Extended Data](ext_articles/30b6eb73.ext.json)
-
----
-
-### Kazakhstan edge Qatar in Racecourse thriller
-
-*2024-04-30 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kazakhstan-edge-Qatar-in-Racecourse-thriller/108-281668) · `en`
-
-Apr. 30 (Daily Mirror) - Kazakhstan had a great start to the Asia Rugby Division 1 Championship opening encounter when they edged out a spirited Qatar outfit by 33 points (five tries and four conversions) to 31 points (one penalty try, three tries, three conversions and one penalty) in a thriller at the Racecourse Grounds in Colombo.
-
-At half time Qatar led 21-14. It was not a fluent game but was too tight in the end. Qatar outfit’s line-out really put them on the wrong side of the book in the end.
-
-They lost two certain try scoring opportunities within the 10-metre mark of the opposition when they failed to win the line-out ball.
-
-Kazakhstan too had number of errors but they never gave up and fought till the end. Physically, they played a better game being yards faster at breakdowns.
-
-Qatar opened scoring through a penalty try in the second minute of the game but the lead was short lived as Kazakhstan hit back through Grigory Litvinov and was converted by Abdrakhman Nazhbayev.
-
-...
-
-[Data](articles/e8d206e4.json)
-
-[Extended Data](ext_articles/e8d206e4.ext.json)
 
 ---

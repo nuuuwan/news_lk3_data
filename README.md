@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 11:53:46**
+As of **2024-05-01 12:05:26**
 
 ## Newspaper Stats
 
-*Scraped **22,020** Articles*
+*Scraped **22,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
-adalk | 1,845
-tamilmirrorlk | 2,559
+adalk | 1,846
+tamilmirrorlk | 2,562
 adaderanalk | 2,602
 virakesarilk | 3,320
-dailymirrorlk | 3,436
-adaderanasinhalalk | 3,560
+dailymirrorlk | 3,438
+adaderanasinhalalk | 3,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,019 (100.0%) of 22,020 articles have been extended.
+22,020 (100.0%) of 22,027 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,56 @@ Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made
 ◼️
 
 [Data](articles/7b7517e0.json)
+
+[Extended Data](ext_articles/7b7517e0.ext.json)
+
+---
+
+### වතු සේවක වැටුප ඉහළට
+
+*2024-05-01 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196159) · `si`
+
+වතු සේවකයින්ගේ වැටුප රුපියල් 1700කට වැඩිකර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+කොටගල පැවති කම්කරු දින සැමරුම් උත්සවයකට එක්වෙමින් ජනාධිපතිවරයා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/ebda4ba3.json)
+
+---
+
+### விமான நிலையத்தில் நகைக் கடைக்கு அனுமதி
+
+*2024-05-01 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-நகைக்-கடைக்கு-அனுமதி/175-336595) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தின் வெளியேறும் பகுதியில் நகைக் கடை நடாத்துவதற்கான ஒப்பந்தகாரர்களை அழைப்பதற்கான முன்மொழிவுக்கு அமைச்சரவை அங்கீகாரம் கிடைத்துள்ளது.
+
+கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் புதிய வர்த்தக வாய்ப்பாக தங்க வணிகம் ஒன்றை அமைப்பது குறித்து பரிசீலிக்கப்பட்டு, இது தொடர்பான முன்மொழிவுகள் விமான நிலையங்கள் மற்றும் விமான சேவைகள் (இலங்கை (தனியார்)) நிறுவனத்தால் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+தற்போது இந்த வசதி கட்டுநாயக்க விமான நிலையத்தில் இல்லை எனவே புறப்படும்/போக்குவரத்து பகுதியில் தங்கக் கடையை அமைக்க AASL  திட்டமிட்டுள்ளது.
+
+அந்தவகையில், சர்வதேச போட்டி கொள்வனவு முறையைப் பின்பற்றி இதற்கான பொருத்தமான செயற்பாட்டாளரைத் தெரிவு செய்வதற்கு, ஒப்பந்தம் கோருவதற்கு, சர்வதேச போட்டிக் கொள்வனவு முறையைப் பின்பற்றி ஒப்பந்தகாரர்களை அழைப்பதற்கு துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சர் முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/3b19a211.json)
+
+---
+
+### இலங்கை தம்பதி உட்பட 8 பேர் கைது
+
+*2024-05-01 11:21:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தம்பதி-உட்பட-8-பேர்-கைது/175-336594) · `ta`
+
+தனுஷ்கோடி கடல் வழியாக படகில் சட்டவிரோதமாக இலங்கைக்கு  தப்பிச் செல்ல முயன்ற இலங்கை தம்பதி இருவர் மற்றும் இலங்கைக்கு  தப்பிச் செல்ல உதவிய ஆறு பேர் என  8 பேரை கைது செய்த தங்கச்சிமடம் பொலிஸார் தீவிரமாக விசாரணை நடத்தி வருகின்றனர்.
+
+ராமநாதபுரம் மாவட்டம் வேதாளை பகுதியைச் சேர்ந்த சைபுல்லா நவீத், இம்ரான், நைனா முகமது, ரகுமான் உள்ளிட்ட நான்கு பேர் செவ்வாய்க்கிழமை (30)  இரவு தங்கச்சி மடம் பேருந்து நிலையத்தில் நின்று பேசிக் கொண்டிருந்தனர்.
+
+அவர்கள் நால்வர் மீதும் முன்னதாக இலங்கைக்கு ஆட்களை சட்டவிரோதமாக அனுப்பி வைத்த வழக்கு நிலுவையில் உள்ள நிலையில் சந்தேகமடைந்த  இரவு ரோந்து பணியில் ஈடுபட்டிருந்த தங்கச்சிமடம் பொலிஸார் நால்வரையும் பிடித்து விசாரித்தனர்.
+
+...
+
+[Data](articles/53891b6d.json)
 
 ---
 
@@ -68,6 +118,22 @@ Joining the commemoration ceremony of the late T.B. Ilangaratne, Sirsena assured
 
 ---
 
+### பஸ் கட்டணங்கள் குறையாது ஆனால் குறைப்போம்
+
+*2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறையாது-ஆனால்-குறைப்போம்/175-336593) · `ta`
+
+டீசல் விலை குறைக்கப்பட்டாலும் பஸ் கட்டணத்தை குறைக்க இயலாது என பஸ் உரிமையாளர்கள்  சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+இதேவேளை, ஜூலை மாதத்திலேயே பஸ் கட்டணங்களை குறைக்க முடியும் என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+நேற்று(30) நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/2aab467f.json)
+
+---
+
 ### Bus charges will not be reduced;But...
 
 *2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறைக்கப்படாது-ஆனால்/175-336593) · `ta`
@@ -87,6 +153,26 @@ It is noteworthy that the prices of fuel have been reduced from midnight yesterd
 [Data](articles/38cd674f.json)
 
 [Extended Data](ext_articles/38cd674f.ext.json)
+
+---
+
+### Weather today: Rain after 2 p.m in several areas
+
+*2024-05-01 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weather-today-Rain-after-2-p-m-in-several-areas/108-281709) · `en`
+
+Colombo, May 1 (Daily Mirror) - Thundershowers will occur at several places in the Western, Sabaragamuwa and Central Provinces and in the Galle and Matara districts after 2.00 p.m, the Meterology Department said.
+
+Misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva Provinces during the morning.
+
+The sea areas off the coast, extending from Balapitiya to Pottuvil via Galle and Hambantota can be fairly rough at times. The other sea areas around the island will be slight but strong gusty winds and very rough seas can be expected during thundershowers.
+
+Winds will be south-westerly or variable and speed of 30 kmph, which may increase up to 45 kmph at times in the sea areas off the coasts extending from Puttalam to Trincomalee via Mannar and Kankesanthurai.
+
+Therefore, the public is requested to take adequate precautions to minimize damages caused by temporary, localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/a5c3acc9.json)
 
 ---
 
@@ -145,6 +231,22 @@ It is said that Sri Lanka should always be equal in contacts with all countries 
 [Data](articles/6ac6f247.json)
 
 [Extended Data](ext_articles/6ac6f247.ext.json)
+
+---
+
+### Cement price reduced by Rs. 50
+
+*2024-05-01 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cement-price-reduced-by-Rs-50/108-281708) · `en`
+
+Colombo, May 1 (Daily Mirror) - Resulting from the fuel price revision from last night, the cement manufacturing companies have decided to reduce the retail price of a 50 kg bag of cement.
+
+Accordingly, the price of a 50 kg bag of cement has been reduced by Rs. 50.
+
+Following the price revision, the new retail price of a 50 kg bag of cement will be Rs. 2,400, the companies said.
+
+◼️
+
+[Data](articles/560813ae.json)
 
 ---
 
@@ -2081,137 +2183,5 @@ Qatar opened scoring through a penalty try in the second minute of the game but 
 [Data](articles/e8d206e4.json)
 
 [Extended Data](ext_articles/e8d206e4.ext.json)
-
----
-
-### Red warned about the impact of lightning
-
-*2024-04-30 19:21:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-குறித்து-சிவப்பு-எச்சரிக்கை-விடுக்கப்பட்டது/175-336563) · `ta`
-
-The Department of Meteorology issued a red warning for lightning impacts in Western, Central, and Sabaragamuwa Provinces, and Galle, Matara, and Puttalam districts. It also warned of temporary winds during thunderstorms.
-
-🟩
-
-The Department of Meteorology has predicted that there is a possibility of lightning in many parts of the country.
-
-A red warning has been issued on the impact of lightning on the Western, Central and Sabaragamuwa Provinces and Galle, Matara and Puttalam districts.
-
-The Department of Meteorology has also advised that there is a temporary wind blowing in cases of thunderstorms.
-
-◼️
-
-[Data](articles/6c3dc239.json)
-
-[Extended Data](ext_articles/6c3dc239.ext.json)
-
----
-
-### Passengers stranded as Australian airline enters administration
-
-*2024-04-30 19:16:00* · [`islandlk`](http://island.lk/passengers-stranded-as-australian-airline-enters-administration/) · `en`
-
-Australia’s newest budget airline has gone into voluntary administration, after abruptly cancelling all of its flights on Tuesday.
-
-Bonza’s financial woes have left thousands of passengers stranded around the country.
-
-Operating since last year, the carrier had been the first to launch in Australia since 2007.
-
-Aviation remains one of the nation’s most concentrated industries, dominated by Qantas and Virgin Australia.
-
-“We apologise to our customers who are impacted by this and we’re working as quickly as possible to determine a way forward that ensures there is ongoing competition in the Australian aviation market,” Bonza said in a statement.
-
-The company has appointed Hall Chadwick as voluntary administrators for its operating and holding company, according to documents filed with Australia’s corporate regulator.
-
-Bonza’s eight planes – a Boeing 737 Max fleet – were repossessed by creditors on Tuesday, according to local media. The airline has not confirmed the claim.
-
-...
-
-[Data](articles/9584df44.json)
-
-[Extended Data](ext_articles/9584df44.ext.json)
-
----
-
-### Four arrested for impersonating CID officers remanded
-
-*2024-04-30 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98943/four-arrested-for-impersonating-cid-officers-remanded) · `en`
-
-The four persons arrested at Kollupitiya for impersonating CID officers and demanding Rs. 10 million in cash from a person have been remanded until May 14 by the Colombo Chief Magistrate’s Court.
-
-The Bribery Commission officers had arrested the suspects while impersonating Criminal Investigation Department (CID) officers and demanding Rs. 10 million in cash.
-
-It said the suspects including one female were arrested at around 3.30 p.m. last evening (29)in the Kollupitiya area based on a complaint filed by a resident of Dehiwala.
-
-They were subsequently produced before the Colombo Chief Magistrates today (30).
-
-◼️
-
-[Data](articles/8dccba25.json)
-
-[Extended Data](ext_articles/8dccba25.ext.json)
-
----
-
-### Forers remanded for CID
-
-*2024-04-30 18:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196142) · `si`
-
-Forers arrested for bribery attempt. Commission arrested four, including a woman, and remanded them until afternoon.
-
-🟩
-
-The suspects have been remanded in the attempt to obtain a bribe of Rs.
-
-The Commission had arrested four persons including a woman.
-
-The suspects were produced before the Colombo Chief Magistrate's Court today (30) and remanded until the afternoon.
-
-◼️
-
-[Data](articles/5f4343bb.json)
-
-[Extended Data](ext_articles/5f4343bb.ext.json)
-
----
-
-### Geologists team to visit Uma Oya area to assess reports on cracks: Minister
-
-*2024-04-30 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Geologists-team-to-visit-Uma-Oya-area-to-assess-reports-on-cracks-Minister/108-281667) · `en`
-
-Colombo, April 30 (Daily Mirror)- Claiming that there have been no reported landslides or other issues since the Uma Oya Project was opened, State Minister of Power and Energy Indika Anuruddha said a team of geologists will embark on an inspection tour of the Uma Oya region tomorrow to assess and document any reported cracks and floods in the area.
-
-He cautioned against misleading representations, noting that some individuals are attempting to mislead the public by showcasing small waterfalls resulting from rainfall.
-
-The Minister said this during a media briefing at the Presidential Media Centre (PMC) today (30) under the theme “Collective Path to a Stable Country”.
-
-"The country has suffered a loss of nearly USD 200 billion due to the nine-year delay in completing the Uma Oya Multipurpose Development Project. Consequently, the loss over the past nine years is estimated at USD 587 million.
-
-...
-
-[Data](articles/18ae5137.json)
-
-[Extended Data](ext_articles/18ae5137.ext.json)
-
----
-
-### Great improvement in state-owned structures than 2022- Finance Minister Shehan Semasinghe
-
-*2024-04-30 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182361) · `ta`
-
-Finance Minister Shehan Semasinghe reports a significant turnaround for state-owned structures, transitioning from a 743 billion rupee loss in 2022 to a 456 billion rupee profit in 2023. This success is attributed to partnerships with domestic and foreign private companies, aimed at economic recovery. The sale of state-owned assets to the private sector is seen as a means to enhance private sector contribution, allowing the government to focus on public service investments. This strategy is expected to foster a more efficient, competitive, and sustainable economy in Sri Lanka.
-
-🟩
-
-Finance Minister Shehan Semasinghe has pointed out that the state -owned structures, which have registered a loss of 743 billion rupees in 2022, have registered a profit of 456 billion rupees by 2023.
-
-State -owned structures, which are inherent in the reorganization of the government, have been provided with domestic and foreign private companies, which are aimed at restoring the country from the economic crisis.
-
-As a result, Minister Shehan Semasinghe, who pointed out that the state -owned structures were working on 456 billion rupees last year, said that the continued process of selling some state -owned selective structures or their shares to the private sector was to expand the contribution of the private sector.
-
-...
-
-[Data](articles/e01a7b33.json)
-
-[Extended Data](ext_articles/e01a7b33.ext.json)
 
 ---

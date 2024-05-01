@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 14:52:51**
+As of **2024-05-01 15:03:57**
 
 ## Newspaper Stats
 
-*Scraped **22,061** Articles*
+*Scraped **22,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,87 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,848
-tamilmirrorlk | 2,571
+tamilmirrorlk | 2,572
 adaderanalk | 2,605
 virakesarilk | 3,329
 dailymirrorlk | 3,446
-adaderanasinhalalk | 3,564
+adaderanasinhalalk | 3,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,059 (100.0%) of 22,061 articles have been extended.
+22,061 (100.0%) of 22,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### රණසිංහ ප්‍රේමදාස ගුණ සැමරුම අද
+### ඇල්ලේ නායයෑම් අවදානම පිළිබඳ පරීක්ෂණය ඇරඹෙයි
+
+*2024-05-01 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196163) · `si`
+
+ඇල්ල, කරඳගොල්ල ප්‍රදේශයේ සක්‍රීය වෙමින් පවතින නායයෑම් තත්ත්වය පිළිබඳව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ භූ විද්‍යාඥයින් පිරිසක් අද (01) එහි පරීක්ෂණ කටයුතු ආරම්භ කළේය.
+
+ආපදා කළමණාකරණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා සහ බදුල්ල දිස්ත්‍රික් ලේකම්වරයා සහ ඇල්ල ප්‍රාදේශීය ලේකම්වරයාද මෙම කණ්ඩායම සමග එක්වී ඇත.
+
+ඇල්ල - කරඳගොල්ල ප්‍රදේශයේ මලිත්තගොල්ල නම් බෑවුම් සහිත ප්‍රදේශයේ නාය අවදානමක ලක්ෂණ දක්නට ලැබුණේ මීට දින කිහිපයකට පෙර සිටය.
+
+උමා ඔය ව්‍යාපෘතියේ උමං මාර්ගයට ජලය පිරවීමත් සමඟ මෙම තත්ත්වය ඇතිවූ බවට ප්‍රදේශවාසීන් චෝදනා කෙරූ අතර මේ පිළිබඳව කරුණු සොයාබැලීම සඳහා පසුගියදා ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ බදුල්ල දිස්ත්‍රික් නිලධාරීන් පිරිසක් එම ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වුණි.
+
+එහිදී තත්ත්වය පරීක්ෂා කර බැලූ ඔවුන් නාය අවදානමට හේතු වී ඇති ජල මාර්ග වෙනත් දිශාවකට යොමු කිරීමටද පියවර ගනු ලැබීය.
+
+ඒ අනුව අද එම ප්‍රදේශයට පැමිණි ජාතික ගොඩනැගිලි පරීක්ෂණ සංවිධානයේ භූ විද්‍යාඥයින් එහි පරීක්ෂණ ආරම්භ කළේය.
+
+◼️
+
+[Data](articles/a5a8dc66.json)
+
+---
+
+### சடங்கு இல்லாத திருமணம் செல்லுபடியாகாது
+
+*2024-05-01 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடங்கு-இல்லாத-திருமணம்-செல்லுபடியாகாது/175-336608) · `ta`
+
+ஒவ்வொரு மதங்களுக்கும் மத சடங்குகள்  முக்கியமானவை. திருமணத்தின் போது, இந்த சடங்குகள் முக்கியமாக கடைப்பிடிக்கப்படும். சிலர், சடங்குகளைச் செய்யாது, பதிவு திருமணத்துடன் நிறைவு செய்துகொள்கின்றனர். எனினும், சமய சடங்குகள் செய்யப்படாத திருமணம் செல்லுப்படியாகாது என்று நீதிமன்றம் உத்தரவிட்டுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+இந்தியாவின் உத்திரப் பிரதேச மாநிலத்தை சேர்ந்த தம்பதியினர் அவர்களது திருமணம் செல்லாது என அறிவிக்க வேண்டி உச்சநீதிமன்றத்தில் வழக்கு தொடர்ந்தனர்.இந்து முறைப்படி திருமண சடங்குகள் எதுவும் நடைபெறவில்லை எனவும் திருமண சான்றிதழ் பெற வேண்டி சிறிய விழா ஏற்பாடு செய்து உத்திரப் பிரதேச சட்டப்படி சான்றிதழ் பெற்றோம் எனவும் நீதிமன்றத்தில் தெரிவித்துள்ளனர்.
+
+இதன்படி,  இந்து திருமண சட்டங்களின் படி நடத்தப்படாத திருமணங்கள் குறித்தும், அதனை ஒழுங்குபடுத்த கோரியும் உச்சநீதிமன்றத்தில் ஏற்கனவே பொதுநல மனுக்களும் தாக்கல் செய்யப்பட்டு இருந்தன.
+
+...
+
+[Data](articles/5e629088.json)
+
+---
+
+### Ranasinghe Premadasa commemoration today
 
 *2024-05-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196162) · `si`
 
-මෙරට දෙවැනි විධායක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාගේ 31වන ගුණ සැමරුම අදට (01) යෙදී තිබේ.
+Today marks the commemoration of the 31st Executive President of Sri Lanka, Ranasinghe Premadasa, who was assassinated 31 years ago. His legacy continues through his son, Sajith Premadasa, who is now a prominent figure in Sri Lankan politics.
 
-ඒ වෙනුවෙන් වූ සැමරුම් උත්සවය විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ කොළඹ අලුත්කඩේ උසාවිය අසල ශ්‍රීමත් රණසිංහ ප්‍රේමදාස පිළිරුව අභියසදී පැවැත්වුණි.
+🟩
 
-1993 වසරේ මැයි 01 වනදා එක්සත් ජාතික පක්ෂය විසින් සංවිධානකර තිබූ මැයි දින ‍පෙළපාළියට එවක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතාද එක්වී සිටියේය.
+The 31st of the 31st Executive President Ranasinghe Premadasa, the second Executive President Ranasinghe Premadasa has been commemorated today (01).
 
-පෙළපාලිය කොළඹ ආමර්වීදිය වෙත පැමිණි අවස්ථාවේ දී LTTE මරාගෙන මැරෙන බෝම්බකරුවෙකු පුපුරවාගත් බෝම්බයකින් රණසිංහ ප්‍රේමදාස මහතා ඇතුළු 23 දෙනෙකුට දිවි අහිමිවූ අතර තවත් පුද්ගලයින් 60කට ආසන්න පිරිසකට තුවාල සිදුවිය.
+Sir Ranasinghe Premadasa Premadasa Premadasa Premadasa Premadasa has also launched the commerce leader Sajith Premadasa.
 
-ශ්‍රී ලංකාවේ දෙවැනි විධායක ජනාධිපති රණසිංහ ප්‍රේමදාස මහතා එලෙස ඝාතනයට ලක්වී අදට වසර 31කි.
+President Ranasingha Premadasa was also present on May 1, 1993.
 
-ඒ මහතා සිහිකරමින් ඊයේ පස්වරුවේ ශ්‍රී සුචරිත ශාලාවේදී ධර්ම දේශනයක් සංවිධාන කර තිබුණි.
+When the procession arrived at the Armorwest of Colombo, 23 persons including the LTTE blow injuries and 23 others were injured.
 
-අද උදෑසන  කොළඹ හුණුපිටිය ගංගාරාම විහාරවාසී මහා සංඝරත්නය විෂයෙහි සපිරිකර සහිත සංඝගත දක්ෂිණාවක්ද සිදුකෙරුණි.
+Sri Lanka's second Executive President Ranasinghe Premadasa has been killed in 31 years.
+
+He was organized by a Dhamma speech at the Sri Vericate Hall yesterday afternoon.
+
+A close symbol of the subject of the Maha Sangha from the Gangarama Viharaya in Hunupitiya, Colombo.
 
 ◼️
 
 [Data](articles/78223af4.json)
+
+[Extended Data](ext_articles/78223af4.ext.json)
 
 ---
 
@@ -73,6 +117,8 @@ Indonesia’s disaster mitigation agency (BNPB) said that all 843 residents livi
 ...
 
 [Data](articles/b8ac65ce.json)
+
+[Extended Data](ext_articles/b8ac65ce.ext.json)
 
 ---
 
@@ -2187,57 +2233,5 @@ It is not normal to build a falling country. Ranil Wickremesinghe, however, prot
 [Data](articles/c4222099.json)
 
 [Extended Data](ext_articles/c4222099.ext.json)
-
----
-
-### Labor Day today!
-
-*2024-05-01 00:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182367) · `ta`
-
-Labor Day, celebrated on May 1st, marks the unity and determination of workers worldwide. It honors the eight-hour workday and salary recognition, symbolizing the struggle for workers' rights. Carl Marx introduced the concept, emphasizing the importance of the working class in society. Today, May Day is celebrated globally, with different names in various countries, highlighting its significance.
-
-🟩
-
-World Workers' Day celebrates the first day of May every year.
-
-It was on the same day that their slave chain was broken on the same day that the forehead was shedding sweat on the ground and introduced to the world of workers who were working for the progress of the nation they live in.
-
-This day, celebrated as honoring the workers, is an important day for all the workers in the world.
-
-It was on this day that expressed the unity and determination of the laborers, the eight -hour work and the salary of the working workers were legally recognized on the world stage.
-
-On May 1886, May Day is celebrated all over the world today, a symbol of the massive strike action that thousands of workers gathered in Chicago and demanded eight hours of work.
-
-This day is celebrated by different names by different countries of the world.
-
-The highlight is that this day has been declared an official holiday in many countries.
-
-...
-
-[Data](articles/847ec31c.json)
-
-[Extended Data](ext_articles/847ec31c.ext.json)
-
----
-
-### ‘Serenade of the Seas’ makes maiden call at H’tota port
-
-*2024-05-01 00:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Serenade-of-the-Seas-makes-maiden-call-at-Htota-port/108-281698) · `en`
-
-Cruise ship ‘Serenade of the Seas’ made her maiden call at the Hambantota International Port (HIP) this Monday (29).
-
-HIP CEO, Captain Ravi Jayawickreme presenting Captain Kjell Nordmo with a plaque to mark the maiden call
-
-The luxury liner, which carried 1,950 passengers and 890 crew members, was the 10th cruise ship to call at HIP for the year 2024.
-
-The ‘Serenade of the Seas’ launched in 2003 is one of global cruise shipping company, Royal Caribbean International’s Radiance Class vessels built to travel to far flung exotic destinations.
-
-The port welcomed the ship with a plaque presentation held on board. Officials of HIPG & HIPS along with representatives from the local vessel agents, Prudential Shipping, attended the event. The liner’s next call is the Colombo Port.
-
-◼️
-
-[Data](articles/0471e568.json)
-
-[Extended Data](ext_articles/0471e568.ext.json)
 
 ---

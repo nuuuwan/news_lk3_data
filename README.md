@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 11:03:40**
+As of **2024-05-01 11:18:39**
 
 ## Newspaper Stats
 
-*Scraped **22,014** Articles*
+*Scraped **22,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,845
-tamilmirrorlk | 2,555
+tamilmirrorlk | 2,558
 adaderanalk | 2,600
 virakesarilk | 3,320
 dailymirrorlk | 3,436
@@ -26,25 +26,89 @@ adaderanasinhalalk | 3,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,013 (100.0%) of 22,014 articles have been extended.
+22,014 (100.0%) of 22,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### වාහන ආනයනය ගැන ඇහෙන අලුත්ම ආරංචිය
+### காத்தான்குடியில் சிறுமி துஷ்பிரயோகம்: குடும்பஸ்தர் கைது
+
+*2024-05-01 11:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடியில்-சிறுமி-துஷ்பிரயோகம்-குடும்பஸ்தர்-கைது/175-336592) · `ta`
+
+14 வயது சிறுமியை பாலியல் வல்லுறவுகுட்படுத்திய 25 வயது குடும்பஸ்தர் ஒருவரை காத்தான்குடி பொலிஸார் கைது செய்துள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்க தெரிவித்தார்
+
+காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட கர்பலா கிராமத்தில் புர்கான் பள்ளிவாயலுக்கு அருகில் மேற்படி சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்
+
+அயல் வீட்டில் வசித்து வரும் தூரத்து உறவினரான மேற்படி சிறுமியை தனது வீட்டுக்கு அழைத்து பாலியல் வல்லுறவில் ஈடுபட்டுள்ளதாக அவரது குடும்பத்தினர் காத்தான்குடி பொலிஸில் முறைப்பாடு செய்துள்ளனர்
+
+25 வயதுடைய ஒரு பிள்ளையின் தந்தையான குறித்த  சந்தேக நபரின் மனைவி வெளிநாட்டில் வசித்து வருகிறார் என்பது குறிப்பிடத்தக்கது
+
+கைதான சந்தேக நபர் பல்வேறு குற்றச்சாட்டுகளில் நீதிமன்ற உத்தரவின் பேரில் பிடியாணை பிறப்பிக்கப்பட்டு பொலிஸாரால் தேடப்பட்டு வந்த நிலையிலேயே கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரின் உடலில் காயங்கள் காணப்படுவதால் மட்டக்களப்பு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிறைச்சாலை காவலர்களின் கண்காணிப்பில் சிகிச்சை பெற்று வருகிறார்.
+
+...
+
+[Data](articles/c75ed864.json)
+
+---
+
+### அதிர்ச்சியளித்தார் சஜித்
+
+*2024-05-01 11:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ச்சியளித்தார்-சஜித்/175-336591) · `ta`
+
+ஒரு அதிர்ச்சிக்குரிய செயலாக, ஐக்கிய மக்கள் சக்தி (SJB) தலைவர் சஜித் பிரேமதாச, சீனக் கம்யூனிஸ்ட் கட்சியின் (CPC) குழுவுடனான சந்திப்பில், ஆசியாவின் இரு பெரும் சக்திகளான இந்தியா சீனாவுக்குடையில் மத்தியஸ்தம் வகிக்க முன்வந்துள்ளார்.
+
+அண்மையில் இலங்கைக்கு விஜயம் செய்த CPC தூதுக்குழுவினருக்கும் அவரது கட்சிக்கும் இடையிலான கலந்துரையாடலின் போது பிரேமதாச இவ்வாறான ஒரு வாய்ப்பை வழங்கியதாக இந்த சந்திப்பை நன்கு அறிந்த ஒரு வட்டாரம் டெய்லி மிரருக்கு தெரிவித்தது.
+
+எவ்வாறாயினும், இலங்கை தனது அந்நிய உறவுகளில் எந்தவொரு நாட்டிற்கும் சிறப்பு அந்தஸ்தை வழங்கக் கூடாது என்று CPC கூறியுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+இலங்கை அரசியல் கட்சிகளுடனான ஈடுபாட்டின் ஒரு பகுதியாக சர்வதேச விவகார திணைக்களத்தின் பிரதியமைச்சர் சன் ஹையன் தலைமையிலான CPC குழு பிரேமதாசவையும் இன்னும் சில பாராளுமன்ற உறுப்பினர்களையும் சந்தித்தது.
+
+கூட்டத்தில், சஜித், வெளிப்படையாக இந்திய-சீனா மோதலைக் குறிப்பிடுகையில், ஒரு அரசியல் தலைவர் என்ற வகையில், இரண்டு ஆசிய ஜாம்பவான்களுக்கு இடையில் ஒரு மத்தியஸ்த பாத்திரத்திற்குத் தயாராக இருப்பதாகக் கூறினார்.
+
+...
+
+[Data](articles/6ac6f247.json)
+
+---
+
+### சினோபெக்கும் எரிபொருள் விலைகளைக் குறைத்தது
+
+*2024-05-01 10:45:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சினோபெக்கும்-எரிபொருள்-விலைகளைக்-குறைத்தது/175-336590) · `ta`
+
+இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தினால் நேற்று இரவு மேற்கொள்ளப்பட்ட எரிபொருள் விலைத் திருத்தத்துடன் இணைந்து, சினோபெக் எனர்ஜி லங்கா இன்று முதல் அமுலுக்கு வரும் வகையில் தனது விலை திருத்தத்தை அறிவித்துள்ளது.
+
+இதன்படி, 92 ஒக்டேன் பெற்றோல் லீற்றர் ஒன்றின் விலை 3 ரூபாவால் குறைக்கப்பட்டுள்ளதுடன் அதன் புதிய சில்லறை விலை ரூ. 365 ஆகும். 95 ஒக்டேன் பெற்றோல் ஒரு லீற்றர் 20 ரூபாவால் குறைக்கப்பட்டு புதிய சில்லறை விலை ரூ. 420 ஆகவுள்ளது.
+
+ஒரு லிட்டர் ஒட்டோ டீசல் ரூ. 27 இனால் குறைக்கப்பட்டுள்ளதுடன், தற்போதைய விலை ரூ. 333 ஆகும். இதேவேளை, சுப்பர் டீசல் ஒரு லீற்றர் 9 ரூபாவால் குறைக்கப்பட்டு அதன் புதிய சில்லறை விலை ரூ. 377 ஆகவுள்ளது.
+
+◼️
+
+[Data](articles/bd861dd2.json)
+
+---
+
+### The latest news about the import of vehicles
 
 *2024-05-01 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196158) · `si`
 
-මෙරටට වාහන ආනයනය කිරීම සඳහා විධිමත් නියාමන වැඩපිළිවෙලක් සකස් කළ යුතු බව ලංකා වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+The Ceylon Vehicle Importers Association calls for a regulatory program for vehicle imports. Indika Sampath Merriyinage's chairman suggests a government committee for vehicle decisions. Past years show 15% of imports by new importers, with 85% from Japan. The association warns of a decline if public preferences aren't met, emphasizing the need for a policy before elections.
 
-එහි සභාපති ඉන්දික සම්පත් මෙරිංචිගේ මහතා සඳහන් කළේ ආණ්ඩුව වාහන ආනයනය පිළිබඳ තීරණ ගැනීමට කමිටුවක් පත්කළ යුතු බවය.
+🟩
 
-"පසුගිය වසර කිහිපයේදී ලංකාවට වාහන ආනයනය කිරීමේදී ඒ කියන්නේ 2017, 2018, 2019 වසරවලදී 85%ක් ගෙන්නලා තියෙන්නේ පාවිච්චි කරපු වාහන. 15% අලුත් වාහන ආනයනකරුවන් විසින් ගෙන්නලා තියෙන්නේ. ඒ 85%නුත් 95%ක් ගෙන්නලා තියෙන්නේ ජපන් රටෙන්.  ඉදිරියේදී වාහන ආනයනය කරනවානම් ප්‍රමුඛත්වය දෙන්න ඕනේ ජනතාව කැමති දෙයට. ජනතාව කැමති දේ නැතුව ඒජන්තවරුගේ අවශ්‍යතාවයට කටයුතු කරලා රටට අවශ්‍ය නැති දේවල් කරන්න ගියොත් පරිහානියක් ඇති වෙනවා. කොළ එළියක් ඇවිත් තියෙනවා වාහන ගෙන්න.  ඡන්දයට කලින් වාහන ගෙන්නවද, ලබන අවුරුද්දේ මුල ඉදන් ගෙන්නවද, නෑ මේක රජය ප්‍රතිපත්තිමය වශයෙන් තීරණයකට එනවා වාහන ගෙන්නන් දෙනවා කියලා. රජයෙන් ඉල්ලන්නේ අපිව ගෙන්නලා කමිටුවක් හදන්න. මේක දැන් ඉඳන් පිළිවෙල කරන්න."
+The Ceylon Vehicle Importers Association says that a formal regulatory program should be prepared to import vehicles.
+
+The Chairman of the Indika Sampath Merriyinage said that the government should appoint a committee to make decisions regarding vehicles.
+
+"To import vehicles in Sri Lanka in the past few years, it is published in 2017, 2019, 2019, 2019. 15% brought by new vehicle importers. That 85% of the 85% of the Japanese country. If the vehicles imported in the future, the public wants to do. If the people go to the agents of agents without what they want, they will have a decline. A green light has come. Do the votes before the election, do this, this is not a policy in principle that vehicles are given to vehicles. The government asks for a committee to get us. This is right now. "
 
 ◼️
 
 [Data](articles/9e979e90.json)
+
+[Extended Data](ext_articles/9e979e90.ext.json)
 
 ---
 
@@ -2135,75 +2199,5 @@ The 12-month yield dropped 22 basis points to 9.99 percent with 47.91 billion ru
 [Data](articles/735ea179.json)
 
 [Extended Data](ext_articles/735ea179.ext.json)
-
----
-
-### SLTB buses will be paid to May's waves
-
-*2024-04-30 18:03:48* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-රැළිවලට-ලංගම-බස්-දෙන්නේ-මුදල්-ගෙව්වොත්-විතරයි/11-409353) · `si`
-
-Transport Minister Dr. Bandula Gunawardena announced that SLTB buses will be paid by May, following instructions from the Chairman of the Sri Lanka Transport Board.
-
-🟩
-
-Cabinet Publisher, Transport Minister of Transport and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media said that the buses are being issued tomorrow.. He added that he has instructed the Chairman of the Sri Lanka Transport Board in this regard, he added.
-
-The Minister was responding to a question raised by a journalist at various UNP rally at various party parties today (30) at the Cabinet Decisions in the Government Information Department.
-
-Mass Media and Transport Minister Dr. Bandula Gunawardena added that the SLTB has instructed the SLTB and the Chairperson's Chairman and other hand after paying the money after paying the general transportation.. The Minister further stated that the SLTB buses are not released without paying for any agency or organization.
-
-◼️
-
-[Data](articles/950c1995.json)
-
-[Extended Data](ext_articles/950c1995.ext.json)
-
----
-
-### President to attend two May Day rallies tomorrow
-
-*2024-04-30 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98942/president-to-attend-two-may-day-rallies-tomorrow) · `en`
-
-President Ranil Wickremesinghe is scheduled to participate in two May Day rallies tomorrow (01) in lieu of International Labour Day.
-
-The May Day Rally organized by the Ceylon Workers’ Congress (CWC) to commemorate International Labour Day will commence at 10:00 am at the Kotagala Public Grounds.
-
-According to the President’s Media Division (PMD), Wickremesinghe is scheduled to participate in this event, responding to the invitation extended by the Ceylon Workers’ Congress.
-
-The rally and parade are expected to draw a significant number of upcountry plantation workers. Notably, the Ceylon Workers’ Congress, stands as the largest trade union and political party representing the upcountry community.
-
-Subsequently, in the afternoon of the same day, President Wickremesinghe is slated to lead the United National Party’s (UNP) May Day Rally from opposite the Maligawatta Police in Colombo.
-
-◼️
-
-[Data](articles/5fdaf639.json)
-
-[Extended Data](ext_articles/5fdaf639.ext.json)
-
----
-
-### Uma Oya Multipurpose Development Project has not been reported
-
-*2024-04-30 17:44:07* · [`adalk`](https://www.ada.lk/breaking_news/උමා-ඔය-බහුකාර්ය-සංවර්ධන-ව්‍යාපෘතිය-ආශ්‍රිතව-කිසිදු-ගැටළුකාරී-තත්ත්වයක්-වාර්තා-වී-නැහැ/11-409352) · `si`
-
-The Uma Oya Multipurpose Development Project has not been reported to the public, and there's no misleading information about rainfall. The project has lost nearly $200 billion due to delays, with an estimated loss of $587 million over the last 9 years. Despite being connected to the national grid, there have been claims of disruption and misleading media reports. A group of geologists will inspect the area for cracks and floods tomorrow. The country has lost many development projects due to disruptive practices and public misinformation. A policy decision has been made to achieve 70% renewable energy in power production, with new programs to expedite power plants and increase renewable energy capacity.
-
-🟩
-
-The Uma Oya Multipurpose Development Project has not been vested with the public, it has not been reported so far, and the public is not reported to mislead the people of rainfall, said Indika Anuruddha Herath.
-
-According to the public, a group of geologists to look into the river and floods in the Uma Oya area inspection of the rivers and floods will visit the area tomorrow (01).
-
-Power and Energy State Minister Indika Anuruddha Herath made this statement participating at a press conference held at the Presidential Media Center today (30).
-
-The State Minister further stated:
-
-The country has lost nearly $ 200 billion due to the delay in the Uma Oya Multipurpose Development Project. Accordingly, the loss for the last 9 years has been estimated to be $ 587 million. The basic estimation of this project was $ 529 million. But due to the unable to get the power generation of the Uma Oya project in the nine years, the project had to be lost equal to the estimated amount.
-
-...
-
-[Data](articles/6c06eb55.json)
-
-[Extended Data](ext_articles/6c06eb55.ext.json)
 
 ---

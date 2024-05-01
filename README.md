@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 05:18:33**
+As of **2024-05-01 05:38:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,957 (100.0%) of 21,962 articles have been extended.
+21,962 (100.0%) of 21,962 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The event would see the attendance of around 50 delegates from BIMSTEC and IORA 
 
 [Data](articles/d447d2de.json)
 
+[Extended Data](ext_articles/d447d2de.ext.json)
+
 ---
 
 ### Ambassador Colombage presents “Sri Lanka: Land of Opportunities” at IBSE 2024
@@ -57,6 +59,8 @@ The event, held from 22-24 April was organised by the Junior Chamber Internation
 ...
 
 [Data](articles/a0d62b6b.json)
+
+[Extended Data](ext_articles/a0d62b6b.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ Indian High Commissioner Santosh Jha was joined by Education Minister Dr. Susil 
 ...
 
 [Data](articles/c50306fb.json)
+
+[Extended Data](ext_articles/c50306fb.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ In the Construction Sector category, Swisstek Aluminium’s clinching of the Mer
 
 [Data](articles/b43ed270.json)
 
+[Extended Data](ext_articles/b43ed270.ext.json)
+
 ---
 
 ### CMA webinar on Management Accountants and AI tomorrow
@@ -105,6 +113,8 @@ The objective of this webinar is to delve into the transformative era we live in
 ...
 
 [Data](articles/a7254db7.json)
+
+[Extended Data](ext_articles/a7254db7.ext.json)
 
 ---
 

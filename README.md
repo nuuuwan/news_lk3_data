@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 11:34:12**
+As of **2024-05-01 11:53:46**
 
 ## Newspaper Stats
 
-*Scraped **22,019** Articles*
+*Scraped **22,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,845
 tamilmirrorlk | 2,559
-adaderanalk | 2,601
+adaderanalk | 2,602
 virakesarilk | 3,320
 dailymirrorlk | 3,436
 adaderanasinhalalk | 3,560
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,017 (100.0%) of 22,019 articles have been extended.
+22,019 (100.0%) of 22,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Minimum daily wage of plantation workers increased to Rs. 1,700
+
+*2024-05-01 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98950/minimum-daily-wage-of-plantation-workers-increased-to-rs-1700) · `en`
+
+The minimum daily wage in respect of the workers engaged in Tea Growing and Manufacturing Trade has been increased to Rs. 1,700.
+
+A gazette extraordinary has been issued in this regard in pursuance of the powers conferred on the Commissioner General of Labour, by an order made by the Minister of Labour under section 33(1) (a) the Wages Boards Ordinance (Chapter 136).
+
+Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made this announcement and said this wage increment will come into effect from today (May 01).
+
+◼️
+
+[Data](articles/7b7517e0.json)
+
+---
 
 ### Ex-president Maithripala reveals SLFP’s presidential candidate
 
@@ -48,21 +64,29 @@ Joining the commemoration ceremony of the late T.B. Ilangaratne, Sirsena assured
 
 [Data](articles/207d46dd.json)
 
+[Extended Data](ext_articles/207d46dd.ext.json)
+
 ---
 
-### பஸ் கட்டணங்கள் குறைக்கப்படாது ; ஆனால்...
+### Bus charges will not be reduced;But...
 
 *2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறைக்கப்படாது-ஆனால்/175-336593) · `ta`
 
-டீசல் விலை குறைக்கப்பட்டாலும் பஸ் கட்டணத்தை குறைக்க இயலாது என பஸ் உரிமையாளர்கள்  சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+Despite diesel price drop, bus fare remains unchanged. Gemunu Wijeratne, Sri Lanka Private Bus Owners Association president, suggests bus fares might decrease in July.
 
-இதேவேளை, ஜூலை மாதத்திலேயே பஸ் கட்டணங்களை குறைக்க முடியும் என இலங்கை தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+🟩
 
-நேற்று(30) நள்ளிரவு முதல் அமுலாகும் வகையில் எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Bus Owners Association President Gemunu Wijeratne said that the bus fare was not reduced even if the diesel prices were reduced.
+
+Meanwhile, bus fares can be reduced in July, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.
+
+It is noteworthy that the prices of fuel have been reduced from midnight yesterday (30). Remble
 
 ◼️
 
 [Data](articles/38cd674f.json)
+
+[Extended Data](ext_articles/38cd674f.ext.json)
 
 ---
 
@@ -2189,27 +2213,5 @@ As a result, Minister Shehan Semasinghe, who pointed out that the state -owned s
 [Data](articles/e01a7b33.json)
 
 [Extended Data](ext_articles/e01a7b33.ext.json)
-
----
-
-### Cabinet Resolution to Prohibit Physical Punishments: UN and UNICEF welcome
-
-*2024-04-30 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182360) · `ta`
-
-The UN and UNICEF applaud Sri Lanka's Cabinet's resolution to ban physical punishments, a crucial step in protecting child rights. The amendment, led by Dr. Dush Vikramanayake, is expected to be submitted promptly. President Ranil Wickremesinghe emphasized the importance of this move, aiming to ensure children are free from physical and psychological violence.
-
-🟩
-
-The United Nations and UNICEF's Sri Lanka Branch Offices, which have praised the resolution of the Cabinet to prohibit the physiological punishment of all ways, will be the most important measure of child rights protection, and expect the President to take steps to implement the resolution quickly.
-
-Tuesday (30) is the International Day to end the physiological punishment. In the wake of this, the Cabinet of Ceylon, which is under the leadership of Dr. Dush Vikramanayaka, is aimed at submitting the amendment to the Cabinet without delay in the presence of the Cabinet. The Confederation of Security(Noguti 2.0-Sinhala, which gives the meaning of 'no foot' in Tamil, from April 1 to Tuesday (30) to 30 days.Patched.
-
-President Ranil Wickremesinghe, who was promoted to his official X site at 11.00 pm on Tuesday (30), on Tuesday (30). .
-
-...
-
-[Data](articles/21af0a81.json)
-
-[Extended Data](ext_articles/21af0a81.ext.json)
 
 ---

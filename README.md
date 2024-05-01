@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 15:53:09**
+As of **2024-05-01 16:05:45**
 
 ## Newspaper Stats
 
-*Scraped **22,073** Articles*
+*Scraped **22,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,135 @@ islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,848
-tamilmirrorlk | 2,574
-adaderanalk | 2,606
+tamilmirrorlk | 2,577
+adaderanalk | 2,607
 virakesarilk | 3,329
 dailymirrorlk | 3,453
-adaderanasinhalalk | 3,565
+adaderanasinhalalk | 3,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,069 (100.0%) of 22,073 articles have been extended.
+22,073 (100.0%) of 22,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### கிரிக்கெட் மட்டையால் அடித்து மாணவன் படுகொலை
+### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
+
+*2024-05-01 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98955/passenger-ferry-service-between-tamil-nadu-and-sl-to-resume-on-may-13) · `en`
+
+The passenger ferry service between Nagapattinam and Kankesanthurai in Sri Lanka, which resumed in October 2023 after almost 40 years only to be stopped days later, is set to recommence on May 13. Online ticket sale for the service, which will be handled by a new operator, will go live on Monday.
+
+On October 14 last year, Prime Minister Narendra Modi virtually flagged off the service between Nagapattinam and Kankesanthurai. The HSC Cheriyapani operated by the Shipping Corporation of India under KPVS Private Limited, however, stopped service after about a week allegedly due to monsoon. After a gap of six months, the service is set to resume. This time though, a Chennai-based travel operator, IndSri Ferry Services Private Limited, would handle the international service through the ship, ‘Sivagangai’.
+
+...
+
+[Data](articles/fb4f6af9.json)
+
+---
+
+### ”இரண்டாவது அரகலயவை  ஐ.ம.ச வழிநடத்தும் ”
+
+*2024-05-01 15:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-அரகலயவை-ஐ-ம-ச-வழிநடத்தும்/175-336614) · `ta`
+
+இந்த ஆண்டு நடைபெறவுள்ள ஜனாதிபதித் தேர்தல் ஒத்திவைக்கப்பட்டால் இரண்டாவது அரகலயவை (அரசாங்கத்திற்கெதிரான போராட்டம்) ஐக்கிய மக்கள் சக்தி (SJB) வழிநடத்தும் என SJB முன்னாள் எம்.பி முஜிபுர் ரஹ்மான் கோட்டையில் நடைபெற்ற கட்சியின் மே தினக் கூட்டத்தை ஆரம்பித்த போது தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4136d5d0.json)
+
+---
+
+### இலங்கை அரசியல் கட்சிகளுக்கு பாஜக அழைப்பு
+
+*2024-05-01 15:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசியல்-கட்சிகளுக்கு-பாஜக-அழைப்பு/175-336613) · `ta`
+
+இந்தியாவில் லோக்சபா தேர்தல் பிரச்சாரம் சூடுபிடித்துள்ள நிலையில், ஆளும் கட்சியான பாரதிய ஜனதா கட்சி, ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) மற்றும் ஐக்கிய தேசியக் கட்சியின் (UNP) பிரதிநிதிகளை அங்கு தேர்தல் நடைமுறைகள் குறித்து விழிப்புணர்வை பெற அழைப்பு விடுத்துள்ளதாக த ஹிந்து செய்தி வெளியிட்டுள்ளது.
+
+அயல்நாட்டுத் தலைவர்களுக்கு கட்சியின் தேர்தல் பிரச்சாரம் பற்றிய நுண்ணறிவு வழங்கப்படும் என்றும், அதன் உபாயங்கள் மற்றும் ஒட்டுமொத்த தேர்தல் செயல்முறை குறித்தும் அவர்களுக்குத் தெளிவுபடுத்தப்படும் என்றும் பா.ஜ.க தெரிவித்துள்ளது.
+
+அவுஸ்திரேலியாவின் லிபரல் கட்சி, வியட்நாமின் வியட்நாம் கம்யூனிஸ்ட் கட்சி, பங்களாதேஷின் அவாமி லீக், இஸ்ரேலின் லிகுட் கட்சி, உகாண்டாவின் தேசிய எதிர்ப்பு இயக்கம், தான்சானியாவின் சாமா சா மபிந்துசி மற்றும் ரஷ்யாவின் யுனைடெட் ரஷ்யா கட்சி ஆகியவை இந்தியாவுக்கு வருகை தரும் அரசியல் கட்சிகளில் அடங்கும்.
+
+...
+
+[Data](articles/65910f17.json)
+
+---
+
+### රජයේ විධායක නිලධාරීන් හෙට වෘත්තීය ක්‍රියාමාර්ගයක
+
+*2024-05-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196166) · `si`
+
+හෙට (02) සහ අනිද්දා (03) යන දෙදින තුළ අසනීප නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වීමට රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුව තීරණය කර තිබේ.
+
+ඒ, වැටුප් විෂමතා ඇතුළු වෘත්තීය ගැටලුවලට විසඳුම් ලබානොදීමට විරෝධය පළ කරමිනි.
+
+ඊට සමගාමීව හෙට දිනයේ කොළඹ දී උද්ඝෝෂණ ව්‍යාපාරයක් පැවැත්වෙන බව එම සංගමය පවසයි.
+
+රජයේ දීපව්‍යාප්ත සේවාවලට සහ සමාන්තර දෙපාර්තමේන්තු ගත සේවාවලට අයත් 18,000ක් පමණ වන විධායක නිලධාරීන් හට බලපා ඇති වෘත්තීය ගැටලුවලට විසඳුම් ලබාදීම සඳහා රජය මෙතෙක් කටයුතු කර නොමැති බව රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුව පෙන්වාදෙයි.
+
+මේ වන විටත් සියලුම දිස්ත්‍රික් හා ප්‍රාදේශීය සම්බන්ධිකරණ කටයුතුවලින් රජයේ විධායක නිලධාරීන් මේ වනවිට ඉවත් වී ඇති අතර දේශපාලඥයින් විසින් කැඳවනු ලබන රැස්වීම් ද වර්ජනය කර ඇති බව එම සංගමය පවසයි.
+
+◼️
+
+[Data](articles/04002990.json)
+
+---
+
+### Student assassination
 
 *2024-05-01 15:23:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரிக்கெட்-மட்டையால்-அடித்து-மாணவன்-படுகொலை/76-336612) · `ta`
 
-கிரிக்கெட் திடல் தொடர்பில் பாடசாலை மாணவர்கள் இருவருக்கு இ​டையில் ஏற்பட்ட வாக்குவாதம் முற்றியதில், மாணவர் ஒருவர் கிரிக்கெட் மட்டையால் அடித்து கொலை செய்யப்பட்டார். இந்த சம்பவத்துடன் தொடர்புடையவர் என்றக் குற்றச்சாட்டின் கீழ் மற்றுமொரு மாணவனை நாவலப்பிட்டி பொலிஸார் கைது செய்துள்ளனர்.
+A 13-year-old girl, Stanley Stepp, was beaten to death with a cricket bat in Nawalapitiya, Sri Lanka. A dispute over a cricket tank led to the attack. Another student was arrested.
 
-நாவலப்பிட்டி மொன்டி கிறிஸ்டோ தோட்டத்தின் கீழ் பகுதியைச் சேர்ந்த ஸ்டேன்லி ஸ்டெப்பில் (வயது 13) என்ற பாடசாலை மாணவனே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-இரு மாணவர்களும் பாடசாலை நண்பர்கள் எனவும், இருவரும் கடந்த 23ஆம் திகதி தோட்டத்தில் கிரிக்கெட் விளையாடச் சென்ற போது, ​​கிரிக்கெட் திடல் தொடர்பில் ஏற்பட்ட வாக்குவாதம் முற்றியுள்ளது. இதில், மற்றைய மாணவர் கிரிக்கெட் மட்டையால் தாக்கியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A student was beaten to death by a cricket bat. Another student has been arrested by Nawalapitiya police on charges of involvement in the incident.
 
-இதில் பலத்த காயமடைந்த மாணவன் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த மாணவன், திங்கட்கிழமை (29) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Stanley Stepp (age 13), a schoolgirl from the lower part of the Nawalapitiya Monty Christo estate, has died.
+
+When the two students went to play cricket in the garden on the 23rd of last month, there was a dispute over the cricket tank.. The other student has been attacked by cricket, police said.
+
+The student who was seriously injured in the hospital, who was receiving treatment at the hospital, died on Monday (29), police said.
 
 ◼️
 
 [Data](articles/f8d41c4a.json)
 
+[Extended Data](ext_articles/f8d41c4a.ext.json)
+
 ---
 
 ### தொ.தே.ச மே தின நிகழ்வில் ரணதுங்க
 
-*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
+*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொ-தே-ச-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
 
 தொழிலாளர் தேசிய சங்க ​மே தினக் கூட்டம் தலவாக்கலையில் பழனி திகாம்பரம் தலைமையில் நடைபெற்றது.  இந்த மே தினக் கூட்டத்தில் முன்னாள் இலங்கை கிரிக்கெட் அணித் தலைவரும் ஐக்கிய தேசியக் கட்சிய்ன முன்னாள் அமைச்சருமான அர்ஜுன ரணதுங்க கலந்து கொண்டார். எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இந்நிகழ்வில் பிரதம அதிதியாக கலந்துகொண்டார்.
 
 ◼️
 
+[Data](articles/c6958339.json)
+
+---
+
+### Ranatunga at the Celebration
+
+*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
+
+Arjuna Ranatunga attended the National Union May Day meeting at Talawakelle, with Sajith Premadasa as the chief guest.
+
+🟩
+
+The National Union May Day meeting was held at Talawakelle under the patronage of Palani Thikambaram.Former Sri Lankan cricket captain and former UNP minister Arjuna Ranatunga attended the May Day meeting.. Opposition Leader Sajith Premadasa was the chief guest at the event.
+
+◼️
+
 [Data](articles/f3af274e.json)
+
+[Extended Data](ext_articles/f3af274e.ext.json)
 
 ---
 
@@ -71,6 +157,8 @@ Colombo, May 1 (Daily Mirror)- Samagi Jana Balawegaya (SJB) will lead a second A
 ◼️
 
 [Data](articles/0340b7c7.json)
+
+[Extended Data](ext_articles/0340b7c7.ext.json)
 
 ---
 
@@ -87,6 +175,8 @@ Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh�
 ...
 
 [Data](articles/22dcae5c.json)
+
+[Extended Data](ext_articles/22dcae5c.ext.json)
 
 ---
 
@@ -2077,97 +2167,5 @@ The event, held from 22-24 April was organised by the Junior Chamber Internation
 [Data](articles/a0d62b6b.json)
 
 [Extended Data](ext_articles/a0d62b6b.ext.json)
-
----
-
-### 75th Foundation Day of Indian Council for Cultural Relations celebrated in Colombo
-
-*2024-05-01 05:02:35* · [`dailyftlk`](https://www.ft.lk/news/75th-Foundation-Day-of-Indian-Council-for-Cultural-Relations-celebrated-in-Colombo/56-761232) · `en`
-
-The Swami Vivekananda Cultural Centre, cultural arm of the High Commission of India, Colombo, commemorated the 75th Foundation Day of the Indian Council for Cultural Relations (ICCR) at the Viharamahadevi Park Open Air Theatre in Colombo on Monday.
-
-The event unfolded with a vibrant showcase of Indian classical dances and musical performances, painting a tapestry of cultural harmony and universality.
-
-Indian High Commissioner Santosh Jha was joined by Education Minister Dr. Susil Premajayantha as the Chief Guest and Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickramanayaka as the Guest of Honour in inaugurating the event.
-
-...
-
-[Data](articles/c50306fb.json)
-
-[Extended Data](ext_articles/c50306fb.ext.json)
-
----
-
-### Swisstek Aluminium shines for 3rd consecutive year at Best Management Practices Company Awards 2024
-
-*2024-05-01 04:58:39* · [`dailyftlk`](https://www.ft.lk/business/Swisstek-Aluminium-shines-for-3rd-consecutive-year-at-Best-Management-Practices-Company-Awards-2024/34-761231) · `en`
-
-Swisstek Aluminium team receiving honours on prestigious Best Management Practices Awards 2024 stage
-
-Swisstek Aluminium has been recognised for its exemplary management practices, receiving the Merit Award for the third consecutive year at the Best Management Practices Company Awards 2024.
-
-Hosted annually by CPM Sri Lanka, these awards honour organisations both public and private that exhibit exceptional leadership, growth, and success through their management strategies and practices.
-
-In the Construction Sector category, Swisstek Aluminium’s clinching of the Merit Award underscores its dedication to superior management practices, further solidifying its reputation as an industry trailblazer in Sri Lanka.
-
-...
-
-[Data](articles/b43ed270.json)
-
-[Extended Data](ext_articles/b43ed270.ext.json)
-
----
-
-### CMA webinar on Management Accountants and AI tomorrow
-
-*2024-05-01 04:55:52* · [`dailyftlk`](https://www.ft.lk/business/CMA-webinar-on-Management-Accountants-and-AI-tomorrow/34-761230) · `en`
-
-The Institute of Certified Management Accountants of Sri Lanka (CMA) will hold a Continuing Professional Development (CPD)  webinar on “The Evolving Landscape of Management Accountants in the Age of AI” tomorrow (2 May) from 3.00 p.m. to 4.30 p.m. via online zoom platform.
-
-The objective of this webinar is to delve into the transformative era we live in - the Age of Artificial Intelligence (AI). It explores the impact of AI on management accountancy, specifically how it is reshaping the profession and existing opportunities it presents and discusses some of the risks and ethical considerations. Also discuss some cases on currently available AI technology especially with Generative AI applications like copilots, ChatGPT, Gemini and upcoming tools, concluding with future trends and outlook of AI landscape.
-
-...
-
-[Data](articles/a7254db7.json)
-
-[Extended Data](ext_articles/a7254db7.ext.json)
-
----
-
-### Over 1,100 HQIs, OICs permanently reside in their assigned divisions: Study
-
-*2024-05-01 04:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1-100-HQIs-OICs-permanently-reside-in-their-assigned-divisions-Study/108-281702) · `en`
-
-Colombo, May 1 (Daily Mirror) - It has been revealed that out of the 5,308 Headquarters Police Inspectors (HQIs), Station Officer In-charges (OICs), and sectional OICs (Crimes, Administration, etc.), a total of 1,106 officers permanently reside within the police division where they are stationed, accounting for 7.2% of the total.
-
-This was revealed in a latest study conducted by the Senior DIG of the North Central Province Priyantha Weerasuriya on the instruction of the IGP Deshabandu Tennakoon. The report was handed over to the IGP yesterday.
-
-According to the report, the highest number of police officers in the Mannar Police Division perform their duties in the same area where they permanently reside. Similarly, officers residing in areas like Anuradhapura and Matara also contribute to this trend.
-
-...
-
-[Data](articles/e8b13c68.json)
-
-[Extended Data](ext_articles/e8b13c68.ext.json)
-
----
-
-### Court defers verdict in Weliveriya shooting case
-
-*2024-05-01 04:51:04* · [`dailyftlk`](https://www.ft.lk/news/Court-defers-verdict-in-Weliveriya-shooting-case/56-761229) · `en`
-
-The Gampaha High Court the Trial-at-Bar has deferred delivering the verdict in the case against a Brigadier and three soldiers of the Sri Lanka Army over the shooting to death of three persons and injuring several others during a protest by villagers demanding clean drinking water at Weliweriya Gampaha.
-
-The court was scheduled to deliver its verdict yesterday, however when the case was taken up the Trial-at-Bar announced that the verdict will be delivered on 17 May 2024.
-
-On 1 August in 2013, army personnel opened fire at unarmed locals at Weliweriya, killing three and injuring several others, as they protested against a factory which they said polluted their groundwater and demanded clean drinking water.
-
-In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consisting of High Court Judges Menaka Wijesundara (President), Nimal Ranaweera and Nishantha Hapuarachchi to hear the Rathupaswala case, after considering the Attorney General’s request.
-
-◼️
-
-[Data](articles/4b3c2a1b.json)
-
-[Extended Data](ext_articles/4b3c2a1b.ext.json)
 
 ---

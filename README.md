@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 18:11:30**
+As of **2024-05-01 18:22:51**
 
 ## Newspaper Stats
 
-*Scraped **22,110** Articles*
+*Scraped **22,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 188
 bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
-islandlk | 1,200
+islandlk | 1,202
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,855
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,106 (100.0%) of 22,110 articles have been extended.
+22,110 (100.0%) of 22,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### අනුර සජිගෙන් දිනයක් ඉල්ලයි
+### Anura Saggim asks for a day
 
 *2024-05-01 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196171) · `si`
 
-විවාදය සඳහා මැයි 20ට පෙර දිනයක් ලබාදෙන ලෙස ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අද (01) මැයි රැලිය අමතමින් සමගි ජන බලවේගයට පැවසීය.
+Anura Saggim requests a specific day from Anura Kumara Dissanayake, who states the May Day rally was the last under corrupt leaders. Dissanayake mentions the national folk force's current activities and a dispute in Sajob City, emphasizing readiness for a day before May 20th. He also expresses willingness to join the Monaragala side and support scholarship kids, likening their situation to a boat without a home.
 
-ඔහු සඳහන් කළේ මෙම මැයි රැලිය දූෂිත පාලකයන් යටතේ ජාතික ජන බලවේගය පවත්වන අවසන් මැයි රැලිය බවය.
+🟩
 
-"මේ රට විනාශයට පත්කරන ලද අපරාධකරුවන් යටතේ පවත්වනු ලබන අවසන් මැයි රැලිය තමයි ජාතික ජන බලවේගය අද මේ පවත්වන්නේ."
+Leader of the National Power Anura Kumara Dissanayake addressing the June rally today (01) to give a date before May 20th.
 
-"අර සජබෙ ඇඬියාව...මළ කරදරයක් නේ. විවාදයකට එන්නලු. අපි දින 4ක් දුන්නා. දින 4ම එයාට වැඩ ලු. රෑත් වැඩ. ඊට පස්සේ අපි කිව්වා මැයි 20ට කලින් අපිට දිනයක් දෙන්න කියලා. ඒ ඕන දිනයකට අපි ලෑස්තියි. මොකද මේ ඇඬියාව ඉවර කරන්න ඕනේ."
+He said the May Day rally was the final May Day rally held under the corrupt rulers.
 
-"මොනරාගල පැත්තේ ගිහින් ශිෂ්‍යත්වේ ළමයි එකතු කරගෙන මම බය නැහැ විවාදෙට. නිවටයෝ වගේ පැනලා යන්නේ නැහැ....කියනවා."
+"The national folk force is currently being held today.
+
+"That Sajob City ... Dues trouble. Come on a debate. We gave 4 days. 4 days he works. Work at night. Then we said to give us a date before May 20. We're ready for the day. Because you have to finish this cry. "
+
+"I am not afraid to join the Monaragala side and joining the scholarship kids. There is no boat like a home .... says. "
 
 ◼️
 
 [Data](articles/33d9d845.json)
+
+[Extended Data](ext_articles/33d9d845.ext.json)
 
 ---
 
@@ -198,25 +204,33 @@ The official added that a special discussion with the highest officials of the t
 
 ---
 
-### இந்திய - இலங்கை கப்பல் சேவை இம்மாதம் மீண்டும் ஆரம்பம்
+### Indo -Sri Lanka Shipping Service resumes this month
 
 *2024-05-01 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182418) · `ta`
 
-இந்தியாவின் நாகப்பட்டினம் மற்றும் இலங்கையின் காங்கேசன்துறை இடையேயான கப்பல் சேவையானது இம்மாதம் 13 ஆம் திகதி மீள ஆரம்பிக்கப்படவுள்ளதாக குடிவரவு மற்றும் குடியகல்வு கட்டுப்பாட்டாளர் நாயகம் ஐ.எஸ்.எச்.ஜே. இலுக்பிட்டிய தெரிவித்தார்.
+Indo-Sri Lanka shipping service resumes on 13th after cancellations due to maritime conditions. Launched in 2021, it carries 150 passengers on a 4-hour journey from Nagapattinam to Kankesanturai for Rs 26,750/person.
 
-இந்திய - இலங்கை கப்பல் சேவையை  மீண்டும் ஆரம்பிப்பதற்கான பல முயற்சிகள் சீரற்ற கடல் நிலை காரணமாக இரத்து செய்யப்பட்டது.
+🟩
 
-வட கிழக்கு பருவ மழையின் காரணமாக, குறித்த கப்பல் சேவையை ஒக்டோபர் 20 ஆம் திகதியுடன் தற்காலிகமாக நிறுத்தப்பட்டது என தெரிவித்துள்ளார்.
+The shipping service between India's Nagapattinam and the Kankesanthurai of Sri Lanka will be resumed on the 13th of this month. Said Ilukpitiya.
 
-4 தசாப்தங்களின் பின்னர் இந்தியா மற்றும்  இலங்கை இடையேயான பயணிகள் கப்பல் சேவை கடந்த வருடம் ஒக்டோபர் மாதம் 14 ஆம் திகதி ஆரம்பித்து வைக்கப்பட்டது.
+Several attempts to resume the Indo -Sri Lanka Shipping Service have been canceled due to inclement maritime.
 
-இந்நிலையில், ‘செரியாபாணி’ எனப்படும் பயணிகள் கப்பல் சேவையின் முதல் பயணத்தில்  கிட்டத்தட்ட 50 பயணிகள் வருகை தந்தனர்.
+Due to the North -East monsoon rains, the shipping service was suspended by October 20.
 
-ஷிப்பிங் கோர்ப்பரேஷன் ஓப் இந்தியாவுக்கு (எஸ்.சி.ஐ.) சொந்தமான 35 மீட்டர் நீளமும், 9.6 மீட்டர் அகலமும் கொண்ட ‘செரியாபாணி’ என்ற அதிவேகக் கப்பல் 150 பயணிகளை ஏற்றிச் செல்லும் திறன் கொண்டது.
+Four decades later, passenger shipping service between India and Sri Lanka was launched on October 14 last year.
 
-...
+In this case, nearly 50 passengers arrived in the first trip of the passenger shipping service called Seriyapani.
+
+The Shipping Corporation Op India (SCI) is capable of carrying 150 passengers, a 35 -meter long and 9.6 meter wide, a high -speed ship.
+
+The ship will travel from Nagapattinam to Kankesan for up to four hours for a tour of Sri Lanka for Rs 26,750 and 53,500 for two tourists.
+
+◼️
 
 [Data](articles/4b577d3d.json)
+
+[Extended Data](ext_articles/4b577d3d.ext.json)
 
 ---
 
@@ -302,17 +316,23 @@ President Ranil Wickremesinghe made this statement addressing the May Day rally 
 
 ---
 
-### சோனியா அகர்வால் வில்லியாக மிரட்டும் 'தண்டுபாளையம்' படத்தின் இசை வெளியீடு
+### Sonia Agarwal's music release 'Dandupalayam'
 
 *2024-05-01 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182421) · `ta`
 
-தனித்துவமான நடிப்புத் திறன் பெற்று நடிகை சோனியா அகர்வால் வில்லியாக மிரட்டும் 'தண்டுபாளையம்' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் நடைபெற்றது. இதன் போது இயக்குநர் அரவிந்தராஜ் சிறப்பு அதிதியாக பங்கு பற்றி படக்குழுவினருக்கு வாழ்த்து தெரிவித்தார்.
+Sonia Agarwal's music release 'Dandupalayam' in Chennai, directed by Tiger Venkat, features music by Jithin K.. Roshan. The film, produced by Venkat Movies, has three parts in Telugu, a Kannada release, and is adapting for Tamil with screenplay changes.
 
-இயக்குநர் டைகர் வெங்கட் இயக்கத்தில் உருவாகி இருக்கும் 'தண்டுபாளையம்' எனும் திரைப்படத்தில் சோனியா அகர்வால், வனிதா விஜயகுமார், முமைத்கான், ரவி காளே, சூப்பர் குட் சுப்பிரமணி, ஆலி, பிர்லா போஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. இளங்கோவன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜித்தின் கே. ரோஷன் இசையமைத்திருக்கிறார். உண்மை சம்பவங்களை தழுவி க்ரைம் திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை வெங்கட் மூவிஸ் எனும் பட நிறுவனம் சார்பில் இயக்குநர் டைகர் வெங்கட் தயாரித்திருக்கிறார்.
+🟩
+
+The music release of the movie 'Dandupalayam' was held in Chennai. Director Aravindaraj congratulated the film crew on the participation of a special guest.
+
+Directed by director Tiger Venkat, Sonia Agarwal, Vanitha Vijayakumar, Mummad Khan, Ravi Khale, Super Good Subramani, Ali, Birla Bose. B.. Jithin K.. Roshan has composed music. The film is being produced by Venkat Movies, director Tiger Venkat.
 
 ...
 
 [Data](articles/63c06ef6.json)
+
+[Extended Data](ext_articles/63c06ef6.ext.json)
 
 ---
 
@@ -374,19 +394,29 @@ Fonseka was seen greeting MPs and Buddhist clergy before he left the rally.
 
 ---
 
-### சிவகார்த்திகேயன் வழங்கும் 'குரங்கு பெடல்'
+### Sivakarthikeyan's 'Monkey Pedal'
 
 *2024-05-01 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/182423) · `ta`
 
-தமிழ் சினிமாவில் குழந்தைகளை மையமாக வைத்து படமெடுத்திருக்கிறார்கள். அதேபோல் குழந்தைகள் மட்டுமே பார்த்து ரசிக்கக்கூடிய படங்களையும் உருவாக்கி இருக்கிறார்கள்.
+"Monkey Pedal" is a Tamil film centered on children, directed by Kamalakannan, featuring Kali Venkat and five child stars. It explores the psychology of childhood, focusing on the bicycle as a symbol of freedom and youth. The film, composed by Jibran, has been acclaimed at international film festivals and is set for worldwide release on May 3rd. Sivakarthikeyan, who has seen the movie, has helped release it. The film's theme, inspired by a short story by Rasi Alagappan, resonates with the universal experience of childhood and the nostalgia of riding a bicycle.
 
-ஆனால் அண்மைக்காலமாக குழந்தைகளை வைத்து, குழந்தைகளும் பார்க்கக் கூடிய படங்கள் வெளியாவது அரிதாகி விட்டது. கள்ளம் கபடமற்ற சிறார்கள் உலகம் அழகியல் பூர்வமானது. அர்த்தப்பூர்வமானது. அவர்களின் உலகத்தில் பெற்றோர்களே சிம்ம சொப்பனம்.
+🟩
 
-பெற்றோர்களே நட்புக்குரியவர்கள். பெற்றோர்களே வழிகாட்டிகள். ஆனால் நண்பர்கள் இல்லாமல் இருக்க மாட்டார்கள். இந்த உளவியலை மையப்படுத்தி எண்பதுகளில் குழந்தைகளின் உலகத்தை அர்த்தப்பூர்வமாகவும், அழகியல் பூர்வமாகவும், உணர்வுபூர்வமான படைப்பாகவும் உருவாகி இருப்பது தான் 'குரங்கு பெடல்'. ‌ பல சர்வதேச திரைப்பட விழாக்களில் திரையிடப்பட்டு பாராட்டுகளை பெற்ற இந்த திரைப்படத்தை பார்த்த சிவகார்த்திகேயன் திரைப்படத்தை வெளியிடுவதற்கு உதவிகளை செய்ததுடன், இப்படத்தை வாங்கி வெளியிடுகிறார்.‌
+In Tamil cinema, children are centered around. Similarly, only children have also created films that can be enjoyed.
+
+However. The world is aesthetic for children who are not false. Is meaningful. Parents in their world are the dream.
+
+Parents are friendly. Parents are guides. But not to be without friends. The 'Monkey Pedal' is a meaningful, aesthetic, and emotional creation of children in the eighties focusing on this psychology, focusing on this psychology.. Sivakarthikeyan, who has seen the movie, has been screened and acclaimed at several international film festivals and has helped to release the film.
+
+Kali Venkat is playing the lead role in 'Monkey Pedal' directed by director Kamalakannan. Five children have made their debut as child stars.The film, composed by Jibran, will be released worldwide on May third.
+
+In this case, the event was held in Chennai. Sivakarthikeyan spoke on the video via video. Following this, the film crew talked to journalists.
 
 ...
 
 [Data](articles/387a8861.json)
+
+[Extended Data](ext_articles/387a8861.ext.json)
 
 ---
 

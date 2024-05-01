@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 17:18:49**
+As of **2024-05-01 17:34:58**
 
 ## Newspaper Stats
 
-*Scraped **22,097** Articles*
+*Scraped **22,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,851
 tamilmirrorlk | 2,578
-adaderanalk | 2,610
+adaderanalk | 2,613
 virakesarilk | 3,334
-dailymirrorlk | 3,457
+dailymirrorlk | 3,458
 adaderanasinhalalk | 3,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,092 (100.0%) of 22,097 articles have been extended.
+22,097 (100.0%) of 22,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Wasim Akram to conduct training program for national players
+
+*2024-05-01 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wasim-Akram-to-conduct-training-program-for-national-players/108-281729) · `en`
+
+May 1 (Daily Mirror) - Former Pakistani legend Wasim Akram will conduct a two-day training program for national players, SLC High Performance Coaches, and the coaches of the major clubs, the Sri Lanka Cricket said.
+
+The SLC said that Akram arrived in Sri Lanka this morning and will conduct five sessions, covering the SLC pace academy, HPC, and major club coaches.
+
+He will also observe Sri Lanka’s national players’ preparation for the upcoming ICC Men’s T20 World Cup.
+
+The program marks Sri Lanka Cricket’s initiative to bring in the required expertise to enhance the coaching strength of the SLC High Performance Center and the Major Club system in the country.
+
+Meanwhile, Sri Lanka Cricket will start a 3-team T20 practice tournament tomorrow (2nd May) in order to prepare the national team for the upcoming ICC Men's T20 World Cup.
+
+Three teams, namely Yellow, Green, and Red, will take part in the preparation tournament.
+
+...
+
+[Data](articles/0a38d00f.json)
+
+---
+
+### Fake bomb threats shut nearly 100 schools in Indian capital
+
+*2024-05-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98959/fake-bomb-threats-shut-nearly-100-schools-in-indian-capital) · `en`
+
+Thousands of students have been evacuated from nearly 100 schools in and around India’s capital Delhi after fake bomb threats were emailed to them.
+
+Authorities say the threats appear to be a hoax. Nothing was found during a search of the schools, they add.
+
+Police say they have traced the origin of the threat emails and an investigation is under way.
+
+The federal home ministry and Delhi Police have asked people to stay calm.
+
+Delhi’s Lieutenant Governor VK Saxena, the constitutional head of the state, said schools in Delhi and neighbouring suburbs that received the bomb threat have been cordoned off as search operations are being carried out.
+
+The city’s Fire Services said they sent fire engines to the schools but found nothing during their search.
+
+“Dog squads, and bomb disposal units are also working,” Mr Saxena told local media. “I want to assure the people of Delhi that Delhi Police is fully prepared and we will try to prevent any untoward incident from happening.”
+
+...
+
+[Data](articles/72bc8960.json)
+
+---
+
+### BBC ordered to pay compensation to Sri Lankan journalist
+
+*2024-05-01 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98958/bbc-ordered-to-pay-compensation-to-sri-lankan-journalist) · `en`
+
+Labour Tribunal of Kalutara, Sri Lanka has ruled that the British Broadcasting Corporation’s (BBC) decision to prematurely terminate the contract of top journalist Azzam Ameen was ‘unreasonable and unjustifiable’.
+
+Having delivered the Order on 26th April, 2024, the Labour Tribunal also found that the actions of the BBC, particularly of the BBC’s representative Iain Haddow, were arbitrary and high-handed.
+
+Ruling against the BBC, the Labour tribunal also ordered the British media house to pay compensation to journalist Azzam Ameen, which amounts to the equivalent of 10 months of the salary drawn by the journalist at the time of his termination of contract.
+
+The ruling comes in connection to the case filed by Azzam Ameen on the BBC’s decision to terminate his contract over a leaked, distorted voice recording, alleged to have been a phone call with politician Ranjan Ramanayake.
+
+...
+
+[Data](articles/e71daa4b.json)
+
+---
+
+### SLPP MP attends UNP May Day rally in Colombo
+
+*2024-05-01 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98957/slpp-mp-attends-unp-may-day-rally-in-colombo) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Dr. Gayashan Nawananda has reportedly joined the May Day rally of the United National Party (UNP) in Colombo.
+
+The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in Maligawatte under the patronage of party leader President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/22599099.json)
+
+---
 
 ### SLPP MP joins UNP May Day rally in Colombo
 
@@ -44,31 +122,37 @@ The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in M
 
 [Data](articles/7b22e529.json)
 
+[Extended Data](ext_articles/7b22e529.ext.json)
+
 ---
 
-### වතු කම්කරුවෙකුගේ දිනක වැටුප රු. 1700ක් කරනවා
+### Salary of an estate worker is Rs.. 1700 doing
 
 *2024-05-01 16:58:19* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවෙකුගේ-දිනක-වැටුප-රු--1700ක්-කරනවා/11-409365) · `si`
 
-ජනාධිපතිවරයා ලෙස මා යටතේ වතු කම්කරු ජනතාවගේ අයිතිවාසිකම් තහවුරු කරනවා.
+President Ranil Wickremesinghe addresses the May Day rally, confirming rights of plantation workers, promising wage increase to Rs. 1700, and emphasizing development of villages, education, and vocational training. He thanks plantation workers for national economy support, acknowledges challenges, and outlines government efforts to stabilize economy, increase salaries, and improve education.
 
-ලයින් කාමර නීතියෙන්ම ගම්මාන බවට පත් කරමින් පහසුකම් ලබා දෙනවා.
+🟩
 
-වතුකරයේ දරුවන්ගේ අධ්‍යාපනයත්, වෘත්තීය අධ්‍යාපනයත් දියුණු කිරීමට විශේෂ අවධානයක් යොමු කරනවා.
+As the president, I confirm the rights of the plantation workers under me.
 
-රටේ ආර්ථිකය යළි පණ ගැන්වීමට වතු ජනතාව ලබාදුන් දායකත්වයට ස්තූතියි – ලංකා කම්කරු කොංග්‍රසයේ මැයි දින රැළිය අමතමින් ජනපති පවසයි.
+Line rooms will provide facilities to make villages.
 
-වතු කම්කරුවෙකුගේ දෛනික වැටුප රුපියල් 1700ක් දක්වා ඉහළ නංවන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In the estate, children pay special attention to the development of their children and vocational education.
 
-වතුකරයේ ජනතාවගේ ගැටළු තමා කිසිවිටෙකත් අමතක කර නොමැති බවත්, ජනාධිපතිවරයා ලෙස තමා යටතේ ඉදිරියේදී ඔවුන්ගේ අයිතිවාසිකම් දිනා දෙන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+Thank you for the contribution of the plantation people to revive the economy of the country - President Mahinda Rajapaksa addressing the May Day rally of the Ceylon Workers Congress -
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (01) පෙරවරුවේ කොටගල මහජන ක්‍රීඩාංගණයේ පැවති ලංකා කම්කරු කොංග්‍රසයේ මැයි දින රැළිය අමතමිනි.
+President Ranil Wickremesinghe said that the daily wage of a plantation worker would increase to Rs.
 
-ලංකා කම්කරු කොංග්‍රසයේ ආරාධනය පරිදි ජනාධිපතිවරයා ඊට එක්වූ අතර ක්‍රීඩාංගණය වෙත පැමිණි ජනාධිපතිවරයාව ලංකා කම්කරු කොංග්‍රසයේ නායක සෙන්දිල් තොණ්ඩමන් සහ අමාත්‍ය ජීවන් තොණ්ඩමන් යන මහත්වරු ඇතුළු පිරිස විසින් පිළිගනු ලැබීය.
+The President emphasized that he had never forgotten the issues of the plantation sector and that their rights would be won under him as the president.
+
+President Ranil Wickremesinghe made this statement addressing the May Day rally at Kotagala Public Stadium this morning.
 
 ...
 
 [Data](articles/e54333c8.json)
+
+[Extended Data](ext_articles/e54333c8.ext.json)
 
 ---
 
@@ -103,6 +187,8 @@ Fonseka was seen greeting MPs and Buddhist clergy before he left the rally.
 ◼️
 
 [Data](articles/118545fd.json)
+
+[Extended Data](ext_articles/118545fd.ext.json)
 
 ---
 
@@ -484,15 +570,21 @@ Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh�
 
 ---
 
-### එජාපයට මන්ත්‍රී ගයාෂාන් එළිපිටම එයි
+### UNP Gayashan opens
 
 *2024-05-01 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයට-මන්ත්‍රී-ගයාෂාන්-එළිපිටම-එයි/11-409363) · `si`
 
-ශ්‍රී ලංකා පොදු ජන  පෙරමුණේ මොනරාගල දිස්ත්‍රික් පාර්ලලිමේන්තු මන්ත්‍රී වෛද්‍ය ගයාශාන් නවනන්දන මහතා එක්සත් ජාතික පක්ෂය සමග අද එක්වී ඇත. ඔහු අද එක්සත් ජාතික පක්ෂයේ මැයි රැලියටද සහභාගිවීමට නියමිතය.
+UNP Gayashan opens; Jayzan Navan Nawannane joins UNP, attends May Day rally.
+
+🟩
+
+Jayzan Navan Nawannane has joined the UNP today. He is also expected to attend the May Day rally today.
 
 ◼️
 
 [Data](articles/6609c2c1.json)
+
+[Extended Data](ext_articles/6609c2c1.ext.json)
 
 ---
 
@@ -513,6 +605,8 @@ Ms. Mysan requested the party leaders advise their members to clean the areas wh
 ...
 
 [Data](articles/f65f08d3.json)
+
+[Extended Data](ext_articles/f65f08d3.ext.json)
 
 ---
 
@@ -2103,93 +2197,5 @@ During the recent economic downturn, our working class bore the brunt of the har
 [Data](articles/1d63b1ae.json)
 
 [Extended Data](ext_articles/1d63b1ae.ext.json)
-
----
-
-### Demand
-
-*2024-05-01 09:03:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிகளிடம்-விடுக்கப்பட்ட-கோரிக்கை/175-336587) · `ta`
-
-Deputy Inspector General Indika Hapugoda advises drivers to avoid paying for roadside activities near street signal lights, as steps are being taken to remove disruptive Yasakas.
-
-🟩
-
-Deputy Inspector General of Police Indika Hapugoda has asked the drivers to avoid paying money to those who engage in the road near the street signal lights.
-
-Steps are being taken to remove the Yasakas who are acting in disruption to traffic.
-
-Therefore, Indika Habukoda said that they can avoid entering those places as they avoid paying for those who get the surroundings and signal lights.R
-
-◼️
-
-[Data](articles/213f31fb.json)
-
-[Extended Data](ext_articles/213f31fb.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-05-01 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98946/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in North-western province and in Mannar district during the afternoon or night.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7f4d7404.json)
-
-[Extended Data](ext_articles/7f4d7404.ext.json)
-
----
-
-### "Harry Potter Castle" in a terrible attack
-
-*2024-05-01 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196154) · `si`
-
-"Harry Potter Castle" was attacked by Russian missiles, killing 5 and injuring many. A Russian missile strike destroyed an educational institution named Harry Pachel, using balistic missiles and cluster bombs. Two children and a pregnant woman were injured, with nearly 20 residential buildings damaged.
-
-🟩
-
-Five persons were killed and more injured in a Russian missile strike was killed and more injured in a Russian missile attack.
-
-According to foreign reports, an educational institution called a Harry Pachel "has also been destroyed.
-
-Ukraine says Russia has used a balistic missile and cluster bombs to carry out this attack.
-
-There are two children and a pregnant woman who was injured in the attack.
-
-Nearly 20 resident buildings have been damaged in the attack.
-
-◼️
-
-[Data](articles/668f35a0.json)
-
-[Extended Data](ext_articles/668f35a0.ext.json)
-
----
-
-### In March 2024, the highest income of commodities after 2022
-
-*2024-05-01 08:27:02* · [`adalk`](https://www.ada.lk/breaking_news/2022-වසරෙන්-පසුව-වෙළඳ-භාණ්ඩ-අපනයෙන්-වැඩිම-ආදායම-2024-මාර්තු-මාසයේදි/11-409359) · `si`
-
-In March 2024, commodities earned $1139M from oust, highest since August 2022, but exports growth reduced by trade deficit.
-
-🟩
-
-The highest income earned by the commodities after August 2022, the highest income earned from overthrow was recorded in March 2024, the Central Bank of Sri Lanka.
-
-Thus, March 2024, merchandise has earned $ 1139 million from oust. The growth of exports is further reduced by the trade deficit.
-
-◼️
-
-[Data](articles/5ce7558a.json)
-
-[Extended Data](ext_articles/5ce7558a.ext.json)
 
 ---

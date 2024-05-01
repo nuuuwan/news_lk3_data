@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 10:04:24**
+As of **2024-05-01 10:18:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,558
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,003 (100.0%) of 22,006 articles have been extended.
+22,006 (100.0%) of 22,006 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,39 +54,51 @@ In addition to the instructions of the Minister of State, the Director General o
 
 ---
 
-### පොලීසිය මහජන සහාය ඉල්ලයි
+### Police call for public assistance
 
 *2024-05-01 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196156) · `si`
 
-පුද්ගලයෙකු පැහැරගෙනගොස් ඇති බවට සැකපළකරන වෑන් රථයක් සහ ඊට අදාළ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහන් පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+Police seek public help in finding a van involved in an abduction in Veallookagama on April 22. The victim, a 31-year-old resident, is missing. The police, who arrested suspects, are asking for a photo of a small van, NW PK-0125.
 
-පසුගිය අප්‍රේල් මස 22 වනදා කුලියාපිටිය වෙරළුගම ප්‍රදේශයේදී අදාළ පුද්ගලයා පැහැරගෙන ගොස් ඇති බව පොලීසිය පවසයි.
+🟩
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ මෙලෙස පැහැරගෙන ගොස් ඇත්තේ එම ප්‍රදේශයේ පදිංචි 31 හැවිරිදි පුද්ගලයෙකු බවය.
+A van and the police that a person has been abducted and the police who are arrested in the arrest of the suspects are asking for public assistance.
 
-ඒ අනුව පොලිස් මාධ්‍ය කොට්ඨාශය විසින් NW PK -0125 දරණ සිල්වර් වර්ණයෙන් යුතු කුඩා වෑන් රථයක ඡායාරූපයක් නිකුත් කරමින් ඉල්ලා සිටින්නේ එම රථය දුටුවොත් කඩිනමින් දැනුම්දෙන ලෙසටය.
+The man was abducted in Veallookagama area on April 22.
+
+It has said that a 31 year old resident of the area.
+
+Accordingly, the Police Media Division is requesting a small van in a small van in a small van of NW PK -0125, asks a photo of a small van.
 
 ◼️
 
 [Data](articles/01130c04.json)
 
+[Extended Data](ext_articles/01130c04.ext.json)
+
 ---
 
-### இரு மாணவர்கள் மோதல்: கிரிக்கெட் மட்டையால் தாக்கப்பட்டு ஒருவர் கொலை!
+### Two students clash
 
 *2024-05-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182380) · `ta`
 
-நாவலப்பிட்டியில் பாடசாலை மாணவர்கள் இருவருக்கிடையில் ஏற்பட்ட முரண்பாட்டில் மாணவரொருவர்  கிரிக்கெட் மட்டையால் தாக்கப்பட்டு  உயிரிழந்துள்ளார்.
+In Nawalapitiya, a student died after a cricket-related conflict with another student, leading to the arrest of the accused. The incident occurred on April 23, involving school friends, with one severely injured and receiving treatment.
 
-இவ்வாறு, கிரிக்கெட் மட்டையால் தாக்கி  கொலை செய்ததாக கூறப்படும் மாணவனை நாவலப்பிட்டி பொலிஸார் கைது செய்துள்ளனர்.
+🟩
 
-இரு மாணவர்களும் பாடசாலை நண்பர்கள் எனவும், இருவரும் கடந்த ஏப்ரல் மாதம்  23ஆம் திகதி  கிரிக்கெட் விளையாடச் சென்ற போது, கிரிக்கெட் மட்டைக்காக  ஏற்பட்ட முரண்பாட்டில் இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A student has died after being attacked by cricket in a conflict between two school children in Nawalapitiya.
 
-இந்த சம்பவத்தில் கடும் காயங்களுக்குள்ளான  மாணவன் வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் நேற்று செவ்வாய்க்கிழமை  (29) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The Nawalapitiya police have arrested a student allegedly assaulted by cricket.
+
+The two students were school friends and the two went to play cricket on April 23, police said.
+
+The student who was severely injured in the incident was receiving treatment at the hospital, police said.
 
 ◼️
 
 [Data](articles/59901f82.json)
+
+[Extended Data](ext_articles/59901f82.ext.json)
 
 ---
 
@@ -103,6 +115,8 @@ Tarinda Ratwatte, Sohiru Anthony, Adeesha Weerathunga and Mursheed Doray were om
 ...
 
 [Data](articles/d7341ddf.json)
+
+[Extended Data](ext_articles/d7341ddf.ext.json)
 
 ---
 

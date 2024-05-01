@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 07:22:47**
+As of **2024-05-01 07:45:49**
 
 ## Newspaper Stats
 
-*Scraped **21,971** Articles*
+*Scraped **21,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 188
 bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
-islandlk | 1,190
+islandlk | 1,200
 dailyftlk | 1,240
 economynextcom | 1,247
 adalk | 1,840
-tamilmirrorlk | 2,551
+tamilmirrorlk | 2,552
 adaderanalk | 2,597
 virakesarilk | 3,316
 dailymirrorlk | 3,428
@@ -26,33 +26,41 @@ adaderanasinhalalk | 3,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21,967 (100.0%) of 21,971 articles have been extended.
+21,971 (99.9%) of 21,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
 
-### කම්කරු දිනය අදයි - ප්‍රධාන පක්ෂ මැයි රැළි පවත්වන්නේ මෙහෙමයි
+### Labor Day - Chief Party Party May Day Radies
 
 *2024-05-01 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196150) · `si`
 
-1886 වසරේ මැයි මස 01 වන දින අමෙරිකාවේ චිකාගෝ නුවරට රැස්ව තමන්ට පැය 08ක සේවා මුරයක් ලබාදෙන ලෙස ඉල්ලමින් දින කිහිපයක් පුරා විරෝධතාවල නිරත වු කම්කරුවන් ඉලක්කරකරමින් එල්ල වූ ප්‍රහාරයෙන් විශාල පිරිසක් මියයෑම සිහිපත් කරමින් ජාත්‍යන්තර කම්කරු දිනය සැමරීම සිදුකරයි.
+May Day, celebrated on May 1, marks the death of protests in the US and the start of the International Labor Day. Sri Lanka's political parties and trade unions organize Labor Day events, including rallies in Colombo, Jaffna, Matara, and Anuradhapura, led by President Ranil Wickremesinghe.
 
-කම්කරුවන්ගේ එම අරගලය ආරම්භ වූ 1889 වසරේදී මැයි මස පළමුවන දින ජාත්‍යන්තර කම්කරු සංවිධානය විසින් ලෝක කම්කරු දිනය ලෙස ප්‍රකාශයට පත් කළේය.
+🟩
 
-ඒ අනුව ලොව සෑම රටක්ම මැයි මස පළමු වන දින කම්කරු දිනය සැමරීම සඳහා පෙළපාලි, රැළි ආදිය සංවිධාන කරයි.
+On May 1, 1886, the International Labor Day celebrates the death of a large number of protests in the celebrations of the US.
 
-මෙවරත් කම්කරු දිනය සැමරීම සඳහා ශ්‍රී ලංකාවේ දේශපාලන පක්ෂ සහ සංවිධාන මැයි දින පෙළපාලි රැස්වීම් අද දිනයේ සංවිධානය කර තිබේ.
+In 1889, the International Labor Organization declared as World Labor Day in 1889, which began the struggle of workers.
 
-ඒ අනුව දිවයින පුරා රැළි සහ පෙළපාලි 40ක් දේශපාලන පක්ෂ සහ වෘත්තීය සමිති විසින් සංවිධානය කර ඇත.
+Accordingly, every country in the world is rally, waves, and waves to celebrate Labor Day on the first day of May.
 
-එමෙන්ම මැයි දින සැමරුම් උත්සව 19ක් ද මෙවර ජාත්‍යන්තර කම්කරු දිනය වෙනුවෙන් පැවැත්වීමට නියමිතය.
+Sri Lanka's political parties and organizations in Sri Lanka have been organized today to commemorate Labor Day.
 
-එක්සත් ජාතික පක්ෂ මැයි දින රැළිය අද පස්වරු 2.00ට කොළඹ මාළිගාවත්ත පොලීසිය ඉදිරිපිට දි ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආරම්භවීමට නියමිතය.
+Accordingly, the political parties and trade unions have been organized by political parties and trade unions across the country.
+
+There are 19 May Day celebrations will be held for the International Labor Day.
+
+The UNP will commence the May Day rally by President Ranil Wickremesinghe in front of Colombo Maligawatta Police today.
+
+The President will join the May Day rally to organize the Ceylon Workers Congress today this morning, the Presidential Media Unit said.
 
 ...
 
 [Data](articles/71469872.json)
+
+[Extended Data](ext_articles/71469872.ext.json)
 
 ---
 
@@ -74,6 +82,8 @@ At the meeting, Premadasa, apparently in reference to Indo-China conflict, said 
 
 [Data](articles/45d14247.json)
 
+[Extended Data](ext_articles/45d14247.ext.json)
+
 ---
 
 ### Parties gear up for usual political showpieces
@@ -89,6 +99,8 @@ SLPP will hold its rally at Campbell Park in Borella while the UNP will hold its
 ...
 
 [Data](articles/c419a864.json)
+
+[Extended Data](ext_articles/c419a864.ext.json)
 
 ---
 
@@ -285,6 +297,8 @@ According to the report, the highest number of police officers in the Mannar Pol
 ...
 
 [Data](articles/e8b13c68.json)
+
+[Extended Data](ext_articles/e8b13c68.ext.json)
 
 ---
 
@@ -531,6 +545,22 @@ The highlight is that this day has been declared an official holiday in many cou
 [Data](articles/847ec31c.json)
 
 [Extended Data](ext_articles/847ec31c.ext.json)
+
+---
+
+### ’உமா ஓயா திட்டம் தொடர்பில் பிரச்சினை இல்லை’
+
+*2024-05-01 00:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உமா-ஓயா-திட்டம்-தொடர்பில்-பிரச்சினை-இல்லை/175-336585) · `ta`
+
+உமா ஓயா பல்நோக்கு அபிவிருத்தித் திட்டம் மக்கள் பாவனைக்காக கையளிக்கப்பட்டதன் பின்னர், அதனுடன் தொடர்புடையதாக மண்சரிவுகளோ வேறு பிரச்சினைக்குரிய நிகழ்வுகளோ இதுவரை பதிவாகவில்லை என  மின்சக்தி இராஜாங்க அமைச்சர் அனுருத்த ஹேரத் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  குறிப்பிட்டுள்ளார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+உமாஓயா பல்நோக்கு அபிவிருத்தித் திட்டத்தை நிறைவு செய்வதில் 09 வருடங்கள் தாமதம் ஏற்பட்டதன் காரணமாக நாட்டுக்கு பாரிய நஷ்டம் ஏற்பட்டுள்ளது. இதன்படி, கடந்த 09 ஆண்டுகளில் ஏற்பட்ட இழப்பு 587 மில்லியன் டொலர்கள் என மதிப்பிடப்பட்டுள்ளது. இந்த திட்டத்தின் ஆரம்ப மதிப்பீடு 529 மில்லியன் டொலர்களாக பதிவு செய்யப்பட்டது.
+
+...
+
+[Data](articles/5bed73c7.json)
 
 ---
 
@@ -797,6 +827,82 @@ The port welcomed the ship with a plaque presentation held on board. Officials o
 [Data](articles/df3e5612.json)
 
 [Extended Data](ext_articles/df3e5612.ext.json)
+
+---
+
+### INSEE Ecocycle marks 21 years of environmental excellence with a city cleaning program in Anuradhapura
+
+*2024-04-30 22:39:00* · [`islandlk`](http://island.lk/insee-ecocycle-marks-21-years-of-environmental-excellence-with-a-city-cleaning-program-in-anuradhapura/) · `en`
+
+INSEE Ecocycle, the pioneer in industrial waste management in Sri Lanka, proudly celebrated its 21st anniversary on March 21st, 2024, commemorating a rich history of dedicated sustainable waste management service towards creating a cleaner and greener Sri Lanka. In honor of this significant milestone, the INSEE Ecocycle team organized a city cleaning program in the historic Anuradhapura city, collaborating with the Anuradhapura Municipal Council, School Children, Red Cross, and many other government institutions.
+
+The event was complemented by an e-waste collection program at the municipal council and some awareness programs for school children on sustainable waste management. This initiative, part of the INSEE Ecocycle’s Corporate Social Responsibility (CSR) program, marks the third consecutive year of collaboration for the Anuradhapura ancient city cleaning program and underscores the company’s commitment to community engagement and environmental stewardship.
+
+...
+
+[Data](articles/14dc8207.json)
+
+---
+
+### Power World Gyms Welisara branch moves to new location
+
+*2024-04-30 22:38:00* · [`islandlk`](http://island.lk/power-world-gyms-welisara-branch-moves-to-new-location/) · `en`
+
+Power World Gyms, a leading name in Sri Lanka’s fitness industry, announces the relocation of its Welisara branch to No. 621 Negombo Road, Magammana. With a focus on enhancing convenience for its members, the gym is now situated in a more spacious and accessible location. The new Power World gym offers a comfortable and motivating environment with ample space and air conditioning, for individuals pursuing their fitness goals.
+
+The gym is fully equipped with a wide range of top-quality machines, including state-of-the-art cardio equipment and a variety of strength training tools. This ensures that members have access to effective workout options tailored to their specific needs. Whether you’re looking to improve cardiovascular health, build strength, or achieve overall wellness, Power World Gym provides the resources and environment to support your fitness journey.
+
+...
+
+[Data](articles/2a2c5a36.json)
+
+---
+
+### ‘Rotary International District 3220 Conference creates hope for Sri Lanka’
+
+*2024-04-30 22:37:00* · [`islandlk`](http://island.lk/rotary-international-district-3220-conference-creates-hope-for-sri-lanka/) · `en`
+
+Rotary International is a worldwide network comprising 1.2 million corporate leaders in over 200 countries, dedicated to causes that improve the quality of lives and create a better world. Rotary educates and equips communities to stop the spread of life-threatening diseases like polio, HIV/AIDS, and malaria, whilst also improving and expanding access to low-cost and free health care in developing areas around the world and is the only service organization in the world to be afforded a permanent seat in the United Nations for its role in promoting peace and goodwill among nations.
+
+...
+
+[Data](articles/3e47ea84.json)
+
+---
+
+### Spell-binding presentation on climate by 14-year-old Lankan
+
+*2024-04-30 22:37:00* · [`islandlk`](http://island.lk/spell-binding-presentation-on-climate-by-14-year-old-lankan/) · `en`
+
+In a remarkable display of knowledge of and enthusiasm for the environment, 14-year-old student Akira Alagiyawanna from Wycherley International School, Colombo, delivered a captivating video address on climate phenomena at the University of California in Los Angeles – UCLA, during an Earth Day event on April 20.
+
+The event, hosted by the America-Sri Lanka Photographic Art Society in Los Angeles, provided a platform for Akira to share his insights with viewers, even from a distance.
+
+During his video address, Akira focused on explaining two important weather patterns: El Niño and La Niña. Using straightforward language and relatable examples, he made these complex topics easy to understand for viewers of all ages. He emphasized the significance of these natural occurrences in shaping global weather patterns, helping viewers grasp their importance in the broader context of climate change.
+
+...
+
+[Data](articles/82754ae3.json)
+
+---
+
+### State Minister’s comment injects bounce into bourse
+
+*2024-04-30 22:34:00* · [`islandlk`](http://island.lk/state-ministers-comment-injects-bounce-into-bourse/) · `en`
+
+State Minister of Finance Shehan Semasinghe’s announcement at the Cabinet meeting yesterday to the effect that dollar bondholders/external debt holders have shown a positive response to the debt restructuring exercise had an invigorating impact on the CSE.
+
+‘The comment gave an impetus to trading activities on the CSE floor and indicated profit- takings. Towards the latter part of the day the market transformed into a recovery stance, bourse sources said.
+
+Further, the Central Bank revealed that this year’s GDP growth would be more than 3 percent, which too resulted in the market turning positive, market analysts said.
+
+Due to these developments the stock market recorded the highest Index rate of 12368 points in two years.
+
+The All Share Price Index went up by 57.56 points, while the S and P SL 20 rose by 5.89 points. Turnover stood at Rs 3.8 billion with seven crossings.
+
+...
+
+[Data](articles/e0d8d095.json)
 
 ---
 
@@ -1145,6 +1251,30 @@ The Department of Meteorology has also advised that there is a temporary wind bl
 [Data](articles/6c3dc239.json)
 
 [Extended Data](ext_articles/6c3dc239.ext.json)
+
+---
+
+### Passengers stranded as Australian airline enters administration
+
+*2024-04-30 19:16:00* · [`islandlk`](http://island.lk/passengers-stranded-as-australian-airline-enters-administration/) · `en`
+
+Australia’s newest budget airline has gone into voluntary administration, after abruptly cancelling all of its flights on Tuesday.
+
+Bonza’s financial woes have left thousands of passengers stranded around the country.
+
+Operating since last year, the carrier had been the first to launch in Australia since 2007.
+
+Aviation remains one of the nation’s most concentrated industries, dominated by Qantas and Virgin Australia.
+
+“We apologise to our customers who are impacted by this and we’re working as quickly as possible to determine a way forward that ensures there is ongoing competition in the Australian aviation market,” Bonza said in a statement.
+
+The company has appointed Hall Chadwick as voluntary administrators for its operating and holding company, according to documents filed with Australia’s corporate regulator.
+
+Bonza’s eight planes – a Boeing 737 Max fleet – were repossessed by creditors on Tuesday, according to local media. The airline has not confirmed the claim.
+
+...
+
+[Data](articles/9584df44.json)
 
 ---
 
@@ -2057,173 +2187,5 @@ In 2019, then Chief Justice Jayantha Jayasuriya appointed a Trial-at-Bar consist
 [Data](articles/56ba24d4.json)
 
 [Extended Data](ext_articles/56ba24d4.ext.json)
-
----
-
-### Sri Lanka - Bilateral Airline Services Agreement between Kazakhstan
-
-*2024-04-30 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182340) · `ta`
-
-Sri Lanka and Kazakhstan agreed on a bilateral airline service agreement in 2015, aiming for weekly flights to Kazakhstan's Estana and Al-Almed. Despite approval, the contract hasn't been signed yet.
-
-🟩
-
-Permission has been granted at a Cabinet meeting held on 13.05.2015 to sign a contract between the two countries and the Air Transport Authority of Sri Lanka to promote bilateral airlines between Sri Lanka and Kazakhstan.
-
-However, so far, the airline has not been able to sign the contract. Under the proposed Airline Services Agreement, it is expected to carry out flights 7 times a week through a definite airline till Kazakhstan's Estana and Al -Almed.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Ports, Shipping and Airlines to sign the Airline Services Agreement which has been reached by both sides.
-
-◼️
-
-[Data](articles/b0e3303f.json)
-
-[Extended Data](ext_articles/b0e3303f.ext.json)
-
----
-
-### The shore left by mistake at the airport
-
-*2024-04-30 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196137) · `si`
-
-An inquiry into an Airman's operation near Katunayake airport has been launched after a firearm was accidentally left at the airport. No injuries were reported.
-
-🟩
-
-Police Media Spokesperson DIG, Attorney-at-Law Nihal Thameda says an inquiry has been launched to implement an an investigation into the operation of an Airman to work near Katunayake airport.
-
-He said that no one was injured in the incident between 10 and 11 this morning.
-
-"He says that the aircraft went to a rest location and to drink his firearm at the ground."
-
-At that time the exit was hit in a high place in a building near the exit.
-
-◼️
-
-[Data](articles/e873d000.json)
-
-[Extended Data](ext_articles/e873d000.ext.json)
-
----
-
-### Livelihood Sunday Bombing
-
-*2024-04-30 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182330) · `ta`
-
-The government has not responded to questions about the Sunday bomb blasts. Parliamentarian Dylan Perera and others have criticized the government's handling of the issue. Gotabhaya Rajapakse, who contested the 2029 Presidential election, promised to investigate the bombings and provide justice, but his government has failed to fulfill this promise. The Catholic Church has questioned the government's actions, highlighting the use of bombings for political purposes in the 2019 and 2020 elections.
-
-🟩
-
-The government did not formally respond to questions posed in connection with the lifeblood Sunday bomb blast. Parliamentarian Dylan Perera said that the Catholic Council is not only confident but also the people of the country.
-
-The government did not formally respond to questions raised during the three -day adjournment debate in Parliament last week on the Sunday bomb blasts.
-
-Another number in the Parliamentary Select Committee has been referred to as a man who died in bombings in the Presidential Commission of Inquiry headed by Justice Vijith Malkoda.
-
-Archbishop Cardinal Malcolm Ranjit is referring to improper views on the ruling parties.
-
-Gotabhaya Rajapakse, who contested the Presidential election in 2029, promised to the Catholic Church to make the truth of the resurrection Sunday bomb blast and provide justice to the victims.. Similarly, the PA made the same promise in the 2020 general election.
-
-...
-
-[Data](articles/3e3c5c82.json)
-
-[Extended Data](ext_articles/3e3c5c82.ext.json)
-
----
-
-### Sivakarthikeyan's 'Robor' film First Look
-
-*2024-04-30 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/182336) · `ta`
-
-"Sivakarthikeyan's 'Robor' film unveils its first look, featuring Satya, Danny Pope, and others. Directed by Ananda Krishnan, it tells the story of a Tamil Nadu villager in Chennai, who becomes a thief. Expected release by end of May."
-
-🟩
-
-The first look of 'Robor' has been released as the hero of the actor Satya's story, which is the hero of the film 'Metro'.. Actor Sivakarthikeyan released this and congratulated the film crew.
-
-அறிமுக இயக்குநர் எஸ். எம். Sathya, Danny Pope, Deepa Shankar, Jayaprakash, Gondayan, Nishant, 'Raja Rani' Pandiyan have starred in the Pandi movement.. My. S.. Johann Shivanesh has composed the film, which has been recorded by Udayakumar. Producer SS on behalf of Impress Film Productions and Metro Productions. Kavitha and Ananda Krishnan have co -produced.
-
-The shooting of the film is completed and the final phase of work is going on. In this case, the first look of the film has been released. Expectations about the film have been made by fans as the hero, which hides his face, has been designed to be a jewelry of St. Snatch, and Ananda Krishnan, director of 'Metro', has written the story, screenplay and dialogue.
-
-...
-
-[Data](articles/31b24248.json)
-
-[Extended Data](ext_articles/31b24248.ext.json)
-
----
-
-### Poll on General Elections - United People's Power
-
-*2024-04-30 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182335) · `ta`
-
-In a poll on general elections, United People's Power (UPP) gained 4% support, surpassing National People's Power (NPP) with 38% vs. 35%. Sri Lanka PA United National Party (UNP) maintains support for Sri Lanka Freedom Party (SLFP). Ravi Ravi Rannan, HP director, noted increased April poll numbers.
-
-🟩
-
-The Institute for Health Policy has said that in a poll to know the purpose of voting in the general election, the United People's Power has supported the United People's Power than the National People's Power.
-
-38 percent of those who participated in the United People's Power and 35 percent of the national people's power.
-
-For the first time since 2022, the United People's Power has increased to four percent.
-
-The Sri Lanka PA United National Party (UNP) has not changed the support of the Sri Lanka Freedom Party (SLFP).
-
-Commenting on the aim of voting in the general election, Ravi Ravi Rannan, director of the HP, pointed out that the polls in April Eliya have increased in the polls earlier in the month of April.
-
-◼️
-
-[Data](articles/09fbd11a.json)
-
-[Extended Data](ext_articles/09fbd11a.ext.json)
-
----
-
-### There is no problem with the Uma Oya project: Don't be fooled for false claims - Indika Anurutha
-
-*2024-04-30 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182337) · `ta`
-
-Indika Anurutha Herath, Minister of Electricity and Power, refutes claims of landslides and other issues with the Uma Oya project, attributing them to misinformation. He also mentions a visit by geopolitists to investigate alleged cracks and water leaks. Despite delays, the project's inability to produce electricity and its exclusion from the national structure have led to significant losses. The government aims for 70% renewable power generation, with wind and solar power playing key roles. Efforts are underway to accelerate power plant projects and increase renewable energy capacity.
-
-🟩
-
-After the Uma Oya Multi -Purpose Development Program was handed over to the people, there are no landslides or other problems that have been related to it.. Minister of Electricity and Wala Shakti, Indika Anurutha Herath, said that some people are trying to mislead the people by showing the small springs in the rain.
-
-The Minister of State also stated that a group of earthquakes will make a visit to the area tomorrow (01) to submit a report on alleged cracks and water leaks in the Uma Oya area.
-
-Minister of Electricity and Power and Energy Indic Anurutha said this at a media briefing held at the Presidential Media Center today.
-
-The country has suffered a huge loss due to the delay in completing the Umoya Multipurpose Development Program. Accordingly, the loss of the last nine years is estimated at $ 587 million. The initial estimate of the project was recorded at $ 529 million.
-
-...
-
-[Data](articles/dc44ee78.json)
-
-[Extended Data](ext_articles/dc44ee78.ext.json)
-
----
-
-### Gold jewelery at Katunayake airport;Cabinet authorization
-
-*2024-04-30 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182332) · `ta`
-
-The Cabinet has approved a gold jewelry shop at Katunayake Airport, aiming to introduce a new business opportunity in the departure zone. This decision follows a proposal by the Airport and Airlines (Sri Lanka) Company, addressing the lack of access to departure areas.
-
-🟩
-
-The Cabinet has approved the construction of a gold jewelery shop in the departure of the Katunayake Bandaranaike International Airport.
-
-It is considered appropriate to introduce the golden sales business as a new business opportunity in the Katunayake Bandaranaike International Airport's departure or mobile zone.. The proposal has been submitted by the Airport and Airlines (Sri Lanka) (Private) Company.
-
-At present, the Airport and Airlines (Sri Lanka) (Private) Company is planning to set up a gold jewelery shop in the Bandaranaike International Airport due to its lack of access to its departure.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Ports, Shipping and Airlines to comply with the International Competitive Price System to select a suitable director to set up a gold jewelery shop at the Katunayake Bandaranaike International Airport.
-
-◼️
-
-[Data](articles/290dd7d4.json)
-
-[Extended Data](ext_articles/290dd7d4.ext.json)
 
 ---

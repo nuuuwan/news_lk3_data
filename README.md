@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 19:33:25**
+As of **2024-05-07 19:50:35**
 
 ## Newspaper Stats
 
-*Scraped **22,535** Articles*
+*Scraped **22,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
 adalk | 1,899
-tamilmirrorlk | 2,623
+tamilmirrorlk | 2,627
 adaderanalk | 2,652
 virakesarilk | 3,371
-dailymirrorlk | 3,528
+dailymirrorlk | 3,532
 adaderanasinhalalk | 3,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,488 (99.8%) of 22,535 articles have been extended.
+22,501 (99.8%) of 22,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### 5ஆவது முறையாக ரஷ்ய அதிபராக பொறுப்பேற்ற புடின்
+
+*2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-அதிபராக-பொறுப்பேற்ற-புடின்/50-336907) · `ta`
+
+ரஷ்ய அதிபர் தேர்தலில் பெரும்பான்மை ஓட்டுகளை பெற்று வென்ற விளாடிமிர் புடின், இன்று 5வது முறையாக அதிபராக பொறுப்பேற்றார்.
+
+ரஷ்ய அதிபராக உள்ள விளாடிமிர் புடினின் பதவி காலம் நிறைவடைய உள்ள நிலையில் கடந்த சில மாதங்களுக்கு முன் அதிபர் தேர்தல் தேதி அறிவிக்கப்பட்டது.
+
+இதையடுத்து கடந்த மார்ச் மாதம் அதிபர் தேர்தல் நடைபெற்றது. இதில் புடினை எதிர்த்து கம்யூனிஸ்ட் கட்சியின் நிகோலாய் கரிடோனோவ், தேசியவாத லிபரல் டெமாக்ரடிக் கட்சியின் லியோனிட் ஸ்லட்ஸ்கி மற்றும் புதிய மக்கள் கட்சியின் விளாடிஸ்லாவ் டாவன்கோவ் ஆகியோரும் போட்டியிட்டனர்.
+
+இந்த தேர்தலில் 88 சதவீத ஓட்டுகளை பெற்று விளாடிமிர் புடின் வெற்றிப்பெற்றார். இந்த தேர்தல் முடிவுகளின்படி பிரதான எதிர்க்கட்சிகளே இல்லாத சூழல் ஏற்பட்டது.
+
+இந்த நிலையில் விளாடிமிர் புடின் 5வது முறையாக ரஷ்ய அதிபராக இன்று பொறுப்பேற்றார். இந்த தேர்தலில் வெற்றிப்பெற்றதன் மூலம் இன்னும் 6 ஆண்டுகள் அவர் அதிபராக நீடிப்பார். R
+
+◼️
+
+[Data](articles/1173581f.json)
+
+---
+
+### மாணவிகளை மிரட்டிய சிறுவர்கள் கைது
+
+*2024-05-07 19:13:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிகளை-மிரட்டிய-சிறுவர்கள்-கைது/175-336906) · `ta`
+
+17 மற்றும் 20 வயதுடைய இரு பாடசாலை மாணவிகளின் நிர்வாண புகைப்படங்களை இணையத்தில் பகிர்வதாக அச்சுறுத்திய 15 வயதுடைய பாடசாலை மாணவர்கள் இருவர் காலி மேலதிக நீதவான் லக்மினி விதானகம முன்னிலையில் ஆஜர்படுத்தப்பட்டு பின் தலா 100,000 ரூபாய் பிணையில் விடுவிக்கப்பட்டனர்.
+
+சந்தேகநபர்கள் அக்மீமன பிரதேசத்தில் உள்ள பாடசாலையொன்றின் 10ஆம் தரத்தில் கற்கும் மாணவர்கள் என்பதுடன் அக்மீமன மற்றும் நாரவல பிரதேசத்தை சேர்ந்தவர்கள் ஆவர்.
+
+சிறுமிகளிடம் இருந்து எந்தவிதமான சாதகமான பதிலும் இன்றி இரு சிறுமிகளின் புகைப்படங்களையும் ரகசியமாக பெற்ற சிறுவர்கள், , நிர்வாண புகைப்படங்களில் குறித்த பெண் பிள்ளைகளின் முகங்களை மாற்றி இணைத்து இணையத்தில் பகிர்ந்து விடுவோம் என மிரட்டியதாக விசாரணையில் தெரியவந்துள்ளது.
+
+இந்த அச்சுறுத்தலால் அச்சமடைந்த சிறுமிகள் பெரியவர்களுக்கு விடயத்தைத் தெரியப்படுத்தி அவர்கள் மூலமாக அக்கிமன பொலிஸில் முறைப்பாடு செய்துள்ளனர்.
+
+குற்றவியல் அச்சுறுத்தல் மற்றும் பாலியல் துன்புறுத்தல் ஆகிய குற்றச்சாட்டின் பேரில் அக்மீமன பொலிஸார் சிறுவர்களை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தினர்.
+
+◼️
+
+[Data](articles/dcb45e74.json)
+
+---
+
+### நாளை முதல் காலநிலையில் திடீர் மாற்றம்
+
+*2024-05-07 19:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-காலநிலையில்-திடீர்-மாற்றம்/175-336905) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் நாளை (08) முதல் கால நிலையில் மாற்றம் ஏற்படவுள்ளது. கடும் வெப்பத்திற்கு மத்தியில் சில தினங்களுக்கு மழையுடனான வானிலை அதிகரிக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதன்படி, மேல், சபரகமுவ, மத்திய மாகாணங்களிலும் மன்னார், வவுனியா, முல்லைத்தீவு, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் நாளை பிற்பகல் 2 மணிக்குப் பின்னர் மழை பெய்யக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+
+அத்துடன் வடமேல், வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் நாளை பிற்பகல் வேளையில் இடியுடன் கூடிய மழை பெய்யக்கூடும்.  R
+
+◼️
+
+[Data](articles/2a376322.json)
+
+---
+
+### ராஜபக்சவின் மனு தள்ளுபடி
+
+*2024-05-07 18:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்சவின்-மனு-தள்ளுபடி/175-336904) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் தலைவராக செயற்படுவதைத் தடுத்து கொழும்பு மாவட்ட நீதிமன்றம் பிறப்பித்த தடை உத்தரவின் சட்டபூர்வமான தன்மையை எதிர்த்து நீதியமைச்சர் விஜயதாச ராஜபக்ஷ தாக்கல் செய்த மறுசீராய்வு மனு இன்று மேல்முறையீட்டு நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டது.
+
+◼️
+
+[Data](articles/e380138f.json)
+
+---
 
 ### India should help document the arrival of Sri Lanka of Indian descendants - Kumar Nadesan, president of 'Gopio' organization
 
@@ -170,6 +238,22 @@ Relief has been given to the loans provided by the banks and defining 7 months.
 
 ---
 
+### H.M. Fowzie’s son arrested
+
+*2024-05-07 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/H-M-Fowzies-son-arrested/108-282102) · `en`
+
+Colombo, May 07 -  Son of the former Minister A.H.M. Fowzie Nauzer Fowzie has been apprehended by Kollupitiya Police on charges of assault following a vehicular incident involving his car, Police said.
+
+The incident occurred on School Lane in Kollupitiya, where former Provincial Councillor Fowzie allegedly assaulted an individual he had collided with.
+
+However, Nauzer Fowzie was subsequently released on police bail pending further investigation into the matter.
+
+◼️
+
+[Data](articles/b9ec6892.json)
+
+---
+
 ### The Central Bank can be summoned to the Cobb and the Finance Committee on the activities of the Central Bank - Susil Prema Jayantha
 
 *2024-05-07 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182917) · `ta`
@@ -194,21 +278,27 @@ Lakshman Kiriella MP, the Prime Minister of the Opposition, commented on the iss
 
 ---
 
-### සාපෙළ පළමු ප්‍රශ්නපත්‍රයට මුහුණදුන් සිසුවා නිවසට විත් ගෙළවැළලාගනියි
+### The student who faced the first quantity of question is in the house
 
 *2024-05-07 18:04:45* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-පළමු-ප්‍රශ්නපත්‍රයට-මුහුණදුන්-සිසුවා-නිවසට-විත්-ගෙළවැළලාගනියි/11-409478) · `si`
 
-මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ පළමු දින ප්‍රශ්න පත්‍රයට මුහුණ දුන් සිසුවෙකු ආපසු නිවසට විත් ගෙලවැලලාගෙන මියයාමේ සිද්ධියක් කටුගස්තොට පොලිස් වසමෙන් වාර්තාවේ .
+A student who faced a first-day question of the GCE Ordinary Level examination was found dead in Jambugahapitiya, Katugastota. The police are investigating.
 
-එසේ මිය ගොස් ඇත්තේ කටුගස්තොට පොලිස් වසමේ ජම්බුගහපිටිය ප්‍රදේශයේ 17 හැවැරිදි සිසුවෙකු වන අතර එම සිසුවා වත්තේගම අධ්‍යාපන කලාපයේ ආදර්ශ විදුහලක අධ්‍යාපනය හදාරමින් සිට ඇත .
+🟩
 
-සිසුවා ඔහු සිටි කාමරයේ බාල්කයක වයරයක් ආධාරයෙන් ගෙල වැළලාගෙන සිටියදී නිවැසියන් දැක වයරය කපා ජම්බුගහපිටිය රෝහලට රැගෙන ගියත් ඒ වන විටද ඔහු මිය ගොස් සිටි බවට අනාවරණය වී ඇති බව පොලිසිය කියයි .
+A student who faced a first-day question of the GCE Ordinary Level examination will be returned home, reports say.
 
-සිසුවා එසේ ගෙල වැලලාගෙන සියදිවිහානි කර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නැති අතර කටුගස්තොට පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ආර්.සී. රාජපක්ෂ මහතාගේ උපදෙස් පරිදි වැඩිදුර විමර්ශන සිදු කරේ.
+The deceased has been identified as a group of a cashier student in Jambugahapitiya, Katugastota Police Division.
+
+The student saw the trees while he was a bullet in a bucket in the room and took the wire to Jambugahapitiya Hospital, but he had already died.
+
+The reason why the student was conquered with so far, the Katugastota OIC Chief Inspector of Police Chief Inspector RC. Further investigations are conducted on the instructions of Rajapaksa.
 
 ◼️
 
 [Data](articles/f5e53db1.json)
+
+[Extended Data](ext_articles/f5e53db1.ext.json)
 
 ---
 
@@ -709,6 +799,24 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and the USA f
 [Data](articles/69535770.json)
 
 [Extended Data](ext_articles/69535770.ext.json)
+
+---
+
+### India’s Amul to sponsor Sri Lanka team for T20 World Cup
+
+*2024-05-07 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Indias-Amul-to-sponsor-Sri-Lanka-team-for-T20-World-Cup/155-282098) · `en`
+
+May 7 (Daily Mirror) - Sri Lanka Cricket (SLC) said that Amul, a leading Indian milk producer with international presence has been appointed as the 'Official Sponsor' of the Sri Lanka Men's Team for the duration of the ICC Men's T20 World Cup 2024.
+
+“Amul's partnership with Sri Lanka Cricket is an excellent move, as associating with an international sports brand is definitely going to help the firm gain market growth and further enhance its brand visibility among the international audience," CEO of Sri Lanka Cricket Ashley De Silva said.
+
+Sri Lanka will kick off the ICC Men's T20 World Cup 2024 campaign on June 3, 2024, facing South Africa in New York.
+
+The ICC Men’s T20 World Cup 2024 will be held in the West Indies and the USA from June 01 to 29.
+
+◼️
+
+[Data](articles/f29b2706.json)
 
 ---
 
@@ -1868,6 +1976,26 @@ The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army
 
 ---
 
+### Suspect in PHI murder nabbed at BIA
+
+*2024-05-07 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-in-PHI-murder-nabbed-at-BIA/108-282085) · `en`
+
+A member of an organized crime gang involved in the murder of the Treasurer of the Public Health Inspectors' Association was arrested at the Bandaranaike International Airport (BIA) last night.
+
+The suspect was identified as Patthini Devage Thivanka Manohara (30), a resident of Karandeniya, Elpitiya.
+
+The suspect was wanted in the police investigations over several other murders, including the death of the Public Health Inspectors' Association Treasurer.
+
+The suspect had arrived at the BIA to flee to Dubai using a fake passport prepared under a different name as Maduraduwa Dilshan Madhusankha de Silva. After being identified by the facial recognition system, the officers of the Criminal Investigation Department arrested him.
+
+The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army and had left the service.
+
+...
+
+[Data](articles/7276b171.json)
+
+---
+
 ### Health Trade Unions again on a continuous strike
 
 *2024-05-07 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196366) · `si`
@@ -2157,171 +2285,5 @@ The prices of electricity produced by the proposed project have been decided on 
 [Data](articles/b8c56294.json)
 
 [Extended Data](ext_articles/b8c56294.ext.json)
-
----
-
-### Sri Lanka to buy wind power from Adani for 8.26 US cents
-
-*2024-05-07 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-buy-wind-power-from-adani-for-8-26-us-cents-161751/) · `en`
-
-ECONOMYNEXT – Sri Lanka will purchase power from wind plants built by Adani Green Energy Limited of India at 8.26 US cents a kilo watt hour, a government statement said.
-
-The cabinet had approved the price after agreement was reached by a Cabinet Appointed Negotiations Committee.
-
-Adani will be paid in rupees at the prevailing exchange rates, Power and Energy Minister Kanchana Wijesekera confirmed on his X (twitter) page.
-
-“The negotiated tariff rate of USD 0.0826 per kWh, is to be paid in LKR on the prevailing exchange rate at the time of payment.
-
-“On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh.”
-
-The contract will be valid for 20 years. The 484 MegaWatts of plants will be built in Mannar and Pooneryn.
-
-◼️
-
-[Data](articles/4c109abf.json)
-
-[Extended Data](ext_articles/4c109abf.ext.json)
-
----
-
-### Drink water: Modi advised after voting
-
-*2024-05-07 11:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீரை-குடிக்கவும்-வாக்களித்த-பின்-மோடி-அறிவுறுத்தினார்/175-336878) · `ta`
-
-Narendra Modi, Indian PM, voted in the third phase of Lok Sabha elections, advising to drink water due to high temperatures. The phase, covering 93 constituencies, began at 7 am.
-
-🟩
-
-Indian Prime Minister Narendra Modi voted as the third phase of voting for the Lok Sabha elections is underway.
-
-Lok Sabha elections in India are held in 7 stages. In this, a two -phase voting voting was held on the 19th and 26th of last month.
-
-In the meantime, the third phase of voting is being held on Tuesday (07) in 93 constituencies, including 10 states and 2 union territories, including Uttar Pradesh, Gujarat, Bihar, Assam, Chhattisgarh, Goa, Maharashtra and Karnataka.
-
-As the voting began at 7 am, people are eagerly voting in long queues.
-
-In this case, Indian Prime Minister Narendra Modi paid his vote in the Gandhinagar constituency in Ahmedabad. At the time, Union Home Minister Amit Shah welcomed Prime Minister Modi.
-
-Prime Minister Modi later met with reporters, “The third phase of the Lok Sabha elections should be cast more votes. People must come and vote.
-
-...
-
-[Data](articles/e412cba8.json)
-
-[Extended Data](ext_articles/e412cba8.ext.json)
-
----
-
-### A change of retirement in health services including nurses
-
-*2024-05-07 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196361) · `si`
-
-Dr. Ramesh Pathiran, Minister of Health, submitted a cabinet paper to extend retirement age for nurses to 63, addressing issues with the current 61-year limit. This change aims to improve hospital management and training school operations. The minister also plans to recruit 3,000 new nurses, highlighting a shortage of 45,000 nurses.
-
-🟩
-
-Minister of Health Dr. Ramesh Pathiran says that a cabinet paper has been submitted to the Cabinet at the age of 61 years including the nursing staff.
-
-The Minister made this statement in response to a question raised by MP Gamini Walaweboda today (07).
-
-"A decision to retire to 63 years of Nurses and medical services was taken up to 63 years. It was not working. Now, as a result, the Principal of the Nurses Training School in Ratnapura and the next person, or another principal is now going to hospital. These 63 Heads of Departments No. Do not know medical director. There is no way to run the training school. "
-
-"There is a judicial activity in this regard. At that time, we were told to reach the age 61. In this regard, we made a tract to the Cabinet. There is no longer a more extending than 61 years. "
-
-Meanwhile, the said that he would recruit about 3,000 new people to the nursing service.
-
-...
-
-[Data](articles/4628719f.json)
-
-[Extended Data](ext_articles/4628719f.ext.json)
-
----
-
-### Diyawanna unidentified body found
-
-*2024-05-07 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196360) · `si`
-
-An unidentified man's body was found in Diyawanna Oya near Parliament Roundabout.
-
-🟩
-
-A dead body of a unidentified man was found in the Diyawanna Oya near the Parliament Roundabout.
-
-◼️
-
-[Data](articles/4fc6df82.json)
-
-[Extended Data](ext_articles/4fc6df82.ext.json)
-
----
-
-### BCCI breaks silence after Trinidad PM reveals terror threat to T20 World Cup, report says it’s from ISIS
-
-*2024-05-07 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BCCI-breaks-silence-after-Trinidad-PM-reveals-terror-threat-to-T20-World-Cup-report-says-its-from-ISIS/108-282084) · `en`
-
-(NDTV) - T20 World Cup in the Americas has received a terror threat, Trinidad's Prime Minister Dr Keith Rowley has revealed even as the ICC asserted that a "comprehensive and robust security plan" is in place
-
-The T20 World Cup in the Americas has received a terror threat, Trinidad's Prime Minister Dr Keith Rowley has revealed even as the ICC asserted that a "comprehensive and robust security plan" is in place to "mitigate any risks" to the showpiece beginning June 1. The tournament -- featuring 20 teams, including India -- is scattered across nine venues, six of them in the West Indies.
-
-As of now, the threat, according to media reports, is specific to the West Indies, which aside from some preliminary matches, will be hosting the entire Super 8 stage along with the semifinals and the final on June 29.
-
-...
-
-[Data](articles/50fb8770.json)
-
-[Extended Data](ext_articles/50fb8770.ext.json)
-
----
-
-### Nuwara Eliya - Lower Sleep Vinayagapuram
-
-*2024-05-07 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182865) · `ta`
-
-Lower Sleep Vinayagapuram in Nuwara Eliya faces severe inconveniences for 21 days, including students not being able to wash school uniforms and farmers affected by hot colon. The Nuwara Eliya Municipal Council Commissioner has not intervened.
-
-🟩
-
-The people of Lower Sleep Vinayagapuram, which belongs to the Nuwara Eliya Municipal Council, have been facing great inconveniences for the past 21 days.
-
-Generally, students who go to school are forced to go to school without going to school without even to wash their school uniform.
-
-Farming in Nuwara Eliya has also been affected by the fact that the hot colon is found.Women have given the face of a great Ashoka without even water to do their homework.
-
-On various occasions, the Nuwara Eliya Municipal Council Commissioner has not taken any action.
-
-◼️
-
-[Data](articles/a183db65.json)
-
-[Extended Data](ext_articles/a183db65.ext.json)
-
----
-
-### Hamas - Israel's denial of the 42 -day ceasefire hostages
-
-*2024-05-07 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182867) · `ta`
-
-Hamas agrees to a three-phase ceasefire, including prisoner release and Israeli withdrawal from Gaza, in exchange for Israel's release of Palestinian prisoners. The US mediates with Qatar.
-
-🟩
-
-The Hamas organization has announced that it will accept the idea of a three -phase ceasefire and the proposals of prisoners hostage, while Israel is unacceptable.
-
-The US, which has been involved in mediation efforts with Qatar, has reportedly explores the ideas of the Hamas organization.
-
-The Hamas, which has accepted the idea that the 42 -day ceasefire will be held, has said that Israel is ready to release the Palestinians in its prisons.
-
-For the first time, the Hamas organization has also accepted the idea that the Palestinians should be withdrawn from Tenkasa to the north from Israeli Gaza.
-
-The second phase is the signing agreement to create peace in cash after the 42 -day ceasefire.
-
-And Israeli soldiers will be completely withdrawn from Gaza - Hamas will release the Israeli soldiers who are hostile if Israeli release the Palestinian prisoners.
-
-◼️
-
-[Data](articles/4e7730e2.json)
-
-[Extended Data](ext_articles/4e7730e2.ext.json)
 
 ---

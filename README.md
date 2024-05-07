@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 21:33:33**
+As of **2024-05-07 21:52:34**
 
 ## Newspaper Stats
 
-*Scraped **22,556** Articles*
+*Scraped **22,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
 adalk | 1,902
-tamilmirrorlk | 2,627
-adaderanalk | 2,653
+tamilmirrorlk | 2,628
+adaderanalk | 2,654
 virakesarilk | 3,376
 dailymirrorlk | 3,534
 adaderanasinhalalk | 3,619
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,555 (100.0%) of 22,556 articles have been extended.
+22,556 (100.0%) of 22,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Establishment of the National Teachers’ Council
+
+*2024-05-07 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99070/establishment-of-the-national-teachers-council) · `en`
+
+Sri Lanka’s Cabinet of Ministers has approved the combined proposal presented by the President and the Minister of Education to instruct the Legal Draftsman to prepare a bill for the establishment of a National Teachers’ Council.
+
+The government said this initiative aligns with the National Education Policy Framework, aiming to enhance the professionalism and quality of teachers through continuous professional development, following international best practices.
+
+A preliminary draft has been prepared after extensive discussions with relevant stakeholders in the education sector, the statement said.
+
+◼️
+
+[Data](articles/b4bc8e6d.json)
+
+---
 
 ### Fire at a factory in Ekala
 
@@ -252,6 +268,26 @@ When I was in New York in 2004 I questioned the 'Kobio' organization for the fir
 
 ---
 
+### 5ஆவது முறையாக ரஷ்ய ஜனாதிபதியாக பொறுப்பேற்ற புட்டின்
+
+*2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-ஜனாதிபதியாக-பொறுப்பேற்ற-புட்டின்/50-336907) · `ta`
+
+ரஷ்ய ஜனாதிபதி தேர்தலில் பெரும்பான்மை ஓட்டுகளை பெற்று வென்ற விளாடிமிர் புடின், இன்று 5வது முறையாக அதிபராக பொறுப்பேற்றார்.
+
+ரஷ்ய ஜனாதிபதியாக உள்ள விளாடிமிர் புட்டினின் பதவி காலம் நிறைவடைய உள்ள நிலையில் கடந்த சில மாதங்களுக்கு முன் அதிபர் தேர்தல் தேதி அறிவிக்கப்பட்டது.
+
+இதையடுத்து கடந்த மார்ச் மாதம் அதிபர் தேர்தல் நடைபெற்றது. இதில் புடினை எதிர்த்து கம்யூனிஸ்ட் கட்சியின் நிகோலாய் கரிடோனோவ், தேசியவாத லிபரல் டெமாக்ரடிக் கட்சியின் லியோனிட் ஸ்லட்ஸ்கி மற்றும் புதிய மக்கள் கட்சியின் விளாடிஸ்லாவ் டாவன்கோவ் ஆகியோரும் போட்டியிட்டனர்.
+
+இந்த தேர்தலில் 88 சதவீத ஓட்டுகளை பெற்று விளாடிமிர் புடின் வெற்றிப்பெற்றார். இந்த தேர்தல் முடிவுகளின்படி பிரதான எதிர்க்கட்சிகளே இல்லாத சூழல் ஏற்பட்டது.
+
+இந்த நிலையில் விளாடிமிர் புடின் 5வது முறையாக ரஷ்ய அதிபராக இன்று பொறுப்பேற்றார். இந்த தேர்தலில் வெற்றிப்பெற்றதன் மூலம் இன்னும் 6 ஆண்டுகள் அவர் அதிபராக நீடிப்பார். R
+
+◼️
+
+[Data](articles/078cc6b7.json)
+
+---
+
 ### Putin took over as Russian Chancellor for the 5th time
 
 *2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-அதிபராக-பொறுப்பேற்ற-புடின்/50-336907) · `ta`
@@ -366,25 +402,33 @@ We have been waiting for this day since the new Indian High Commissioner to Sri 
 
 ---
 
-### නව වීසා ක්‍රමයෙන් විදේශිකයන්ගෙන් රු. කෝටි 1800ක් වසරකට කොල්ලකනවා
+### New visas gradually gradually from foreigners. 1800 crores robbed a year
 
 *2024-05-07 18:41:57* · [`adalk`](https://www.ada.lk/breaking_news/නව-වීසා-ක්‍රමයෙන්-විදේශිකයන්ගෙන්-රු--කෝටි-1800ක්-වසරකට-කොල්ලකනවා/11-409482) · `si`
 
-වීසා බලපත්‍ර නිකුත් කිරීමේ නව ක්‍රමවේදය හරහා ආසන්න වශයෙන් වසරකට රැපියල් කෝටි 1800ක් විදේශිකයන්ගෙන් කොල්ලකන තත්ත්වයක් තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා පැවසීය.
+MP Patali Champika Ranawaka criticized the visa issuance process, claiming it's a scam that robs around 1800 crores annually. He highlighted the issue at a parliamentary debate, emphasizing the need for transparency and investigation into the transactions.
 
-පාර්ලිමේන්තුවේ අද (07දා) පැවති විවාදයට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-ඒ අනුව මේ පිළිබඳ අදහස් පළ කරන පුද්ගලයන් මර්ධනය නොකර මෙම ක්‍රියාවලිය පිටුපස සිට ඩීල් දමන්නේ කවුරැන්ද යන්න සොයාගත යුතු බව අවධාරණය කරන බව ද මන්ත්‍රීවරයා පැවසීය.
+MP Patali Champika Ranawaka said that approximately Rs.
 
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+He was speaking at the debate in Parliament today (07).
 
-"වීසා බලපත්‍ර නිකුත් කිරීමේදී විදේශ සමාගමකට ලබා දී තිබෙන අවස්ථාව ගැන සභාවේදී කතා කළා. අපි දැක්කා වාර්තා වෙලා තිබුණා 2012දී මේක අඳුන්වා දීලා තියෙන්නේ.
+According to the MP, he emphasizes that the dealer will be found to go from behind this process without suppressing people.
 
-එහිදී මේ ඔන්ලයින් වීසා ක්‍රමය ආගමන විගමන දෙපාර්තමේන්තුව විසින් පාළනය කරන අවස්ථාවේදී සිංගප්පූරැ ගුවන් තොටුපොලේදීවත් එවැනි ක්‍රමයක් තිබුනේ නෑ. අද වන විට සිංගප්පූරැ ගුවන්තොටුපොල පියවර ගණනාවක් ඉදිරියට ගිහින් ඒ ක්‍රියාවලිය දියුණු කරලා තියෙනවා. අපි එක වතාවයි මේක දියුණු කරලා තියෙන්නේ. මේක තවදුරටත් අපිට දියුණු කරන්න පුළුවන්.
+Speaking further MP Patali Champika Ranawaka said:
+
+"Talking in the church about the opportunity given to a foreign company in issuing visa. We have seen this has been drawn from 2012.
+
+There was no such way at the Singapore Airport when the online visa system was created by the Department of Immigration and Emigration.. Today, a number of Singappara Pastestallines have proceded. We have been developed at the same time. We can improve this further.
+
+The tracts present to the Cabinet today have been referred to $ 200 million invested. But what has happened here?The old system is doing a private process. Every dollar gets $ 26 from every traveler.
 
 ...
 
 [Data](articles/8a91dab9.json)
+
+[Extended Data](ext_articles/8a91dab9.ext.json)
 
 ---
 
@@ -2239,55 +2283,5 @@ The suspects, who were already granted bail and interrogators, were produced in 
 [Data](articles/f4022d27.json)
 
 [Extended Data](ext_articles/f4022d27.ext.json)
-
----
-
-### Husband's sleeping medicine
-
-*2024-05-07 12:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவருக்கு-தூக்க-மருந்து-கள்ளக்-காதலனை-அழைத்த-பெண்ணுக்கு-விளக்கமறியல்/76-336882) · `ta`
-
-Maskeliya police arrested a woman for allegedly giving her husband a sleeping pill and bringing home a boyfriend. The woman, a health assistant at Maskeliya Hospital, was admitted for illness and transferred for further treatment. The husband, who was depressed and ill, was taken to the hospital after the wife failed to wake him up for work. The police are investigating the case further.
-
-🟩
-
-Maskeliya police arrested a woman who gave her a sleeping pill to a married husband and brought her a black boy home.
-
-When the woman was produced before the Hatton District Magistrate's Court on Monday (06), Magistrate HM Baredin ordered him to be remanded until the 15th.
-
-Nirmita Sadari, a 26 -year -old woman from Kepitipola area, has been arrested and placed in interrogation.
-
-The suspected woman (32), who is alleged to take sleep pills, has been admitted to the Maskeliya Regional Hospital due to illness, and has been transferred to the Dikoya-Klangan Resource Hospital for further treatment.
-
-The suspect is the woman and the boyfriend of the Maskeliya Divisional Hospital as health assistants.
-
-On April 1, the woman, who came home after the shift, put a sleeping pill in milk tea and gave it to her husband. He then called his illicit boyfriend on the phone and called home.
-
-...
-
-[Data](articles/e57f1da2.json)
-
-[Extended Data](ext_articles/e57f1da2.ext.json)
-
----
-
-### Suspect in Health Inspectors’ Association secretary’s murder nabbed at BIA
-
-*2024-05-07 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-in-Health-Inspectors-Association-secretarys-murder-nabbed-at-BIA/108-282085) · `en`
-
-A member of an organized crime gang involved in the murder of the Treasurer of the Public Health Inspectors' Association was arrested at the Bandaranaike International Airport (BIA) last night.
-
-The suspect was identified as Patthini Devage Thivanka Manohara (30), a resident of Karandeniya, Elpitiya.
-
-The suspect was wanted in the police investigations over several other murders, including the death of the Public Health Inspectors' Association Treasurer.
-
-The suspect had arrived at the BIA to flee to Dubai using a fake passport prepared under a different name as Maduraduwa Dilshan Madhusankha de Silva. After being identified by the facial recognition system, the officers of the Criminal Investigation Department arrested him.
-
-The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army and had left the service.
-
-...
-
-[Data](articles/4d0931d9.json)
-
-[Extended Data](ext_articles/4d0931d9.ext.json)
 
 ---

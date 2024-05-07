@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 03:51:20**
+As of **2024-05-08 04:03:26**
 
 ## Newspaper Stats
 
-*Scraped **22,614** Articles*
+*Scraped **22,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,224
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
-tamilmirrorlk | 2,630
+tamilmirrorlk | 2,631
 adaderanalk | 2,654
 virakesarilk | 3,386
 dailymirrorlk | 3,545
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,613 (100.0%) of 22,614 articles have been extended.
+22,614 (100.0%) of 22,615 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,29 @@ Training Center with foreign investment will be set up to provide an increase in
 
 ---
 
-### ஜனாதிபதியின் அறிவுறுத்தலுக்கமைய ஜனாதிபதி நிதியத்தினால் மற்றுமொரு புலைமைப் பரிசில் அறிமுகம்
+### Introduced by the President's Fund at the instructions of the President
 
 *2024-05-08 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182935) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+The President's Fund, under President Ranil Wickremesinghe, has launched two new scholarship projects. These include a program for female Bikkuni beam students and another for other students, with 5000 poor students receiving scholarships. The scholarships will be distributed in two phases, with the second phase starting in May 2024. Applications and further details can be found on the official website and Facebook page.
 
-அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+🟩
 
-நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும்,ஏனைய மாணவர்களுக்கான  822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
+
+Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
+
+The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
+
+The two-phase scholarship segments will be given to 5000 poor students who will be given 3000/- under the second phase of May 2024 to 12 months and 6,000/- under the second phase.
+
+Further details and application can be obtained on the official website www.presidesfund.gov.lk can be obtained on the official website and www.facebook.com/president.fund official Face Book page.
 
 ...
 
 [Data](articles/eea22eac.json)
+
+[Extended Data](ext_articles/eea22eac.ext.json)
 
 ---
 
@@ -375,6 +385,22 @@ The petition further argues that he does not meet all statutory requirements and
 [Data](articles/8c57202a.json)
 
 [Extended Data](ext_articles/8c57202a.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலைத் தவிர ’வேறெந்த தேர்தலும் இல்லை’
+
+*2024-05-08 00:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலைத்-தவிர-வேறெந்த-தேர்தலும்-இல்லை/175-336925) · `ta`
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலைத் தவிர வேறு எந்தத் தேர்தலும் இவ்வருடம் நடைபெறாது என அரச தரப்பின்  பிரதம கொறடாவும் அமைச்சருமான   பிரசன்ன ரணதுங்க சபையில் அறிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே  அரச தரப்பின்  பிரதம கொறடாவும் அமைச்சருமான   பிரசன்ன ரணதுங்க இந்த அறிவிப்பை  விடுத்தார்.
+
+பாராளுமன்றம்  பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ தலைமையில்   கூடியது.இதன்போது அமைச்சர் பிரசன்ன ரணதுங்கவிற்கும் சுயாதீன எதிரணி எம்.பி. யான  தயாசிறி ஜயசேகரவிற்கும் இடையில் வாதப் பிரதிவாதம்    இடம்பெற்றது.
+
+...
+
+[Data](articles/70e040f6.json)
 
 ---
 
@@ -2201,31 +2227,5 @@ This has resulted in heavy traffic congestion on all roads in the Colombo city h
 [Data](articles/cea46e50.json)
 
 [Extended Data](ext_articles/cea46e50.ext.json)
-
----
-
-### Divisional journalist arrested with drug pills in Trincomalee
-
-*2024-05-07 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/182894) · `ta`
-
-A regional journalist in Trincomalee was arrested with drug pills. Police found 30 pills during a search. The journalist, also a reporter for public and private media, was remanded until the 20th of this month.
-
-🟩
-
-Morawewa police said that a regional journalist has been arrested with drug pills in the Uva Nagar area of the Trincomalee Morawewa Police Division.
-
-The incident took place on Sunday (05) evening. The arrested person was arrested by the Age (42) of the main road, Rotawewa and Morawewa.
-
-Police said 30 drug pills were recovered during a sudden examination on the basis of confidential information available to the police.
-
-திருகோணமலையில் உள்ள மருந்தகம் ஒன்றில் கொள்வனவு செய்து விற்பனையில் ஈடுபட்டு வந்ததாகவும் ஆரம்ப கட்ட விசாரனை மூலமாக தெரியவருகிறது.அத்துடன் ஒரு தொகை போக்குவரத்து ஆவணங்களும் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-The journalist is also working as a regional reporter in public and private media. When the arrested person was produced before the Moravewa Magistrate yesterday (06), the magistrate ordered the remand to be remanded until the 20th of this month.
-
-◼️
-
-[Data](articles/39df1654.json)
-
-[Extended Data](ext_articles/39df1654.ext.json)
 
 ---

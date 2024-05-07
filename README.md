@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 04:03:26**
+As of **2024-05-08 04:18:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,614 (100.0%) of 22,615 articles have been extended.
+22,615 (100.0%) of 22,615 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -388,19 +388,27 @@ The petition further argues that he does not meet all statutory requirements and
 
 ---
 
-### ஜனாதிபதித் தேர்தலைத் தவிர ’வேறெந்த தேர்தலும் இல்லை’
+### There is no election except the presidential election
 
 *2024-05-08 00:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலைத்-தவிர-வேறெந்த-தேர்தலும்-இல்லை/175-336925) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலைத் தவிர வேறு எந்தத் தேர்தலும் இவ்வருடம் நடைபெறாது என அரச தரப்பின்  பிரதம கொறடாவும் அமைச்சருமான   பிரசன்ன ரணதுங்க சபையில் அறிவித்தார்.
+Prasanna Ranatunga announced no elections except the presidential this year, responding to MP Dayasiri Jayasekara's question. The government postponed local govt elections indefinitely due to funding issues, despite issuing a circular for development projects. Ranatunga defended the decision, stating it aligns with the constitution, which mandates only the presidential election this year.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே  அரச தரப்பின்  பிரதம கொறடாவும் அமைச்சருமான   பிரசன்ன ரணதுங்க இந்த அறிவிப்பை  விடுத்தார்.
+🟩
 
-பாராளுமன்றம்  பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ தலைமையில்   கூடியது.இதன்போது அமைச்சர் பிரசன்ன ரணதுங்கவிற்கும் சுயாதீன எதிரணி எம்.பி. யான  தயாசிறி ஜயசேகரவிற்கும் இடையில் வாதப் பிரதிவாதம்    இடம்பெற்றது.
+Prasanna Ranatunga, the Prime Minister and Minister of the state, announced in the House that there would be no election other than the presidential election this year.
+
+Responding to a question raised by MP Dayasiri Jayasekara on Tuesday (07) in Parliament, the Prime Minister and Minister of State Prasanna Ranatunga made the announcement.
+
+Parliament was chaired by Deputy Speaker Ajith Rajapaksa.. The argument was between Dayasiri Jayasekara.
+
+Independent Opposition MP Dayasiri Jayasekara presented a comment, the local government election has been postponed indefinitely. The government says that it cannot pay for it. But the government issued a circular on 2023.12.29 under the Dissemination Fund.Has been asked to complete the development projects by July 31. The one -year job has been told to complete in seven months. It is clear that this is a program targeting the presidential election.
 
 ...
 
 [Data](articles/70e040f6.json)
+
+[Extended Data](ext_articles/70e040f6.ext.json)
 
 ---
 

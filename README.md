@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-01 19:34:22**
+As of **2024-05-07 10:52:02**
 
 ## Newspaper Stats
 
-*Scraped **22,122** Articles*
+*Scraped **22,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,855
 tamilmirrorlk | 2,579
-adaderanalk | 2,615
+adaderanalk | 2,617
 virakesarilk | 3,338
 dailymirrorlk | 3,463
 adaderanasinhalalk | 3,572
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,121 (100.0%) of 22,122 articles have been extended.
+22,122 (100.0%) of 22,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-01 (Wednesday)
+
+### Wasim Akram to train Sri Lankan bowlers, coaches
+
+*2024-05-01 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98963/wasim-akram-to-train-sri-lankan-bowlers-coaches) · `en`
+
+Former Pakistani legend Wasim Akram will conduct a two-day training program for national players, SLC High Performance Coaches, and the coaches of the major clubs in the country, Sri Lanka Cricket (SLC) said.
+
+In total, Akram, who arrived in Sri Lanka this morning, will conduct five sessions, covering the SLC pace academy, HPC, and major club coaches.
+
+He will also observe Sri Lanka’s national players’ preparation for the upcoming ICC Men’s T20 World Cup, the SLC said in a statement.
+
+“The program marks Sri Lanka Cricket’s initiative to bring in the required expertise to enhance the coaching strength of the SLC High Performance Center and the Major Club system in the country.”
+
+The decision to invite Akram was taken by the Executive Committee of Sri Lanka Cricket headed by Mr. Shammi Silva, the President of Sri Lanka Cricket. His training program will commence on May 2, 2024.
+
+◼️
+
+[Data](articles/32e9fd06.json)
+
+---
+
+### Parts of India record hottest April as heatwave kills nine
+
+*2024-05-01 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98962/parts-of-india-record-hottest-april-as-heatwave-kills-nine) · `en`
+
+Eastern India experienced its hottest April on record as a heatwave scorched parts of the country amid a general election, killing at least nine people, and the weather office on Wednesday forecast above normal temperatures for May too.
+
+Searing heat has been cited by political analysts as one of the reasons for low voter turnout in the seven-phase parliamentary election that began on April 19, with results due on June 4.
+
+Heatwave conditions are, however, forecast to abate gradually in the coming days.
+
+The mean temperature in eastern India was 28.12 Celsius (82.61 Fahrenheit) in April, the warmest since records began in 1901, with experts blaming a combination of factors.
+
+“In an El Nino year, you get more heating,” said Mrutyunjay Mohapatra, chief of the India Meteorological Department, referring to a climate pattern that typically leads to hot and dry weather in Asia and heavier rains in parts of the Americas.
+
+...
+
+[Data](articles/27b4e6dc.json)
+
+---
 
 ### Large crowds at Anuradhapura NPP rally
 
@@ -138,19 +178,27 @@ Addressing the May Day Rally addressing the President, the President said.
 
 ---
 
-### வடகிழக்கில் இடம்பெறும் நில அபகரிப்புக்கு எதிராக தமிழ் மக்களின் பிரதிநிதிகள் ஒன்றிணைந்து குரல் கொடுக்க வேண்டும் - சிவராசா மோகன்
+### Representatives of the Tamil people should unite against the land grabbing in the Northeast - Sivarasa Mohan
 
 *2024-05-01 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182434) · `ta`
 
-இந்த நாட்டிலே தமிழ் மக்களின் பிரச்சினைக்கு சட்டரீதியாகவும் அரசியல் அமைப்பு ரீதியாகவும் முன்வைக்கப்பட்ட 13 ஆம் திருத்த சட்டம் அமுல்படுத்த வேண்டும் அதேவேளை வடகிழக்கில் தமிழர் பகுதியில் இடம்பெறும் நில அபகரிப்பு போன்ற பல பிரச்சினைகளுக்கு எதிராக தமிழ் பேசும் மக்களின் பிரதிநிதிகளாக செயற்படும் அனைவருமே ஒன்றிணைந்து குரல் கொடுக்கவேண்டும் அதற்கு நாங்களும்  இணைந்து செயற்பட தயாராக இருப்பதாக தமிழர் சமூக ஜனநாயக கட்சி தேசிய அமைப்பாளர் சிவராசா மோகன் தெரிவித்தார்.
+Sivarasa Mohan calls for Tamil unity against land grabbing in Northeast. The 13th Amendment is crucial for Tamil issues. Representatives must unite against land grabbing and other issues. The Tamil Social Democratic Party held a conference on the 21st and 22nd of Jaffna. The 13th Amendment Act is a solution, requiring full implementation of the Provincial Council system. Local government delays in provincial council elections are anti-democratic. Tamil representatives must voice against land occupation, fisherman's problems, and other issues to maintain unity and strength.
 
-மட்டக்களப்பு புதூரில் அமைந்துள்ள ஈ.பி.ஆர்.எல்.எப். முன்னாள் வடகிழக்கு முதலமைச்சர் வரதராஜ பெருமாள் அணியின் தமிழர் சமூக ஜனநாயக கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (30) இடம்பெற்ற ஊடக சந்திப்பில் அவர் இவ்வாறு தெரிவித்தார்
+🟩
 
-தமிழர் சமூக ஜனநாயக் கட்சியின் காங்கிரஸ் மாநாடு கடந்த 21,22 ஆம் திகதிகளில் யாழ். தந்தை செல்வா அரங்கில் இடம்பெற்றது அதில் 17 பேர் கொண்ட மத்தியகுழு நியமிக்கப்பட்டு அதன் முதலாவது கூட்டம் கடந்த 28 ஆம் திகதி  இடம்பெற்றது அதில் பல தீர்மானங்கள் எடுக்கப்பட்டது.
+The 13th Amendment to the issue of the Tamil people in this country must be enacted by the 13th Amendment, while all those who act as representatives of the Tamil speaking people should work together against many issues such as land grabbing in the Northeast.Said.
+
+EPRLF located in Budhur, Batticaloa. He was speaking at a media briefing held at the Tamil Social Democratic Party office of the former Northeastern Chief Minister Varadaraja Perumal on Tuesday (30).
+
+Tamil Social Democracy Party Congress Conference on 21st and 22nd Jaffna. The Father Selva Stadium was appointed by the 17 -member central committee and its first meeting was held on the 28th of last month.
+
+The solution to the problem of the Tamil people, the 13th Amendment Act, is in the form of the two answers, which are in the form of the Complex Provincial Council system.
 
 ...
 
 [Data](articles/5b920a32.json)
+
+[Extended Data](ext_articles/5b920a32.ext.json)
 
 ---
 
@@ -2149,63 +2197,5 @@ Therefore, the public is requested to take adequate precautions to minimize dama
 [Data](articles/a5c3acc9.json)
 
 [Extended Data](ext_articles/a5c3acc9.ext.json)
-
----
-
-### Kattankudy girl abuse:
-
-*2024-05-01 11:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்தான்குடியில்-சிறுமி-துஷ்பிரயோகம்-குடும்பஸ்தர்-கைது/175-336592) · `ta`
-
-Kattankudy police arrested a 25-year-old relative who sexually assaulted a 14-year-old girl near Burgan School in Karbala village. The suspect, who lives with his wife abroad, was detained on court orders and hospitalized for injuries. He's held for 14 days under interrogation.
-
-🟩
-
-Kattankudy Police have arrested a 25 -year -old family member who raped a 14 -year -old girl
-
-The incident took place near the Burgan School in Karbala village belonging to the Kattankudy police division, police said that the incident took place.
-
-The family has lodged a complaint with the Kattankudy police that the girl who lives in a neighboring house has been raped by her home.
-
-It is noteworthy that the wife of a 25 -year -old child lives abroad
-
-The arrested suspect has been arrested on various charges on a court order and has been arrested by the police.
-
-He is admitted to the Batticaloa Teaching Hospital due to injuries to the suspect's body.
-
-Eravur Tourism Court Judge and Batticaloa Response Justice A. Darshini ordered to be kept in the interrogation for 14 days.
-
-◼️
-
-[Data](articles/c75ed864.json)
-
-[Extended Data](ext_articles/c75ed864.ext.json)
-
----
-
-### Shocked Sajith
-
-*2024-05-01 11:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிர்ச்சியளித்தார்-சஜித்/175-336591) · `ta`
-
-Sajith Premadasa, leader of the United People's Power, offered to mediate between India and China, sparking controversy. The Chinese Communist Party (CPC) opposes giving any country special status in Sri Lanka's foreign relations.
-
-🟩
-
-As a shocking act, United People's Power (SJB) leader Sajith Premadasa has offered to meditate on the two major powers of Asia, India, in a meeting with the Chinese Communist Party (CPC) group.
-
-Daily Mirror told the Daily Mirror that Premadasa gave such an opportunity during a discussion between the CPC delegation and his party who recently visited Sri Lanka.
-
-However, the CPC has said that Sri Lanka should not give special status to any country in its foreign relations.
-
-As part of the involvement of the Sri Lankan political parties, the CPC team led by the Deputy Minister of the International Affairs Department Sun Hyan met with Premadasa and a few more MPs.
-
-At the meeting, Sajith, openly referring to the Indo-China conflict, said that as a political leader, he was ready for a medieval role between the two Asian zombies.
-
-It is said that Sri Lanka should always be equal in contacts with all countries and that no country should be given special status.
-
-...
-
-[Data](articles/6ac6f247.json)
-
-[Extended Data](ext_articles/6ac6f247.ext.json)
 
 ---

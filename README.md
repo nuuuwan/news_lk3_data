@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 18:22:08**
+As of **2024-05-07 18:33:29**
 
 ## Newspaper Stats
 
-*Scraped **22,526** Articles*
+*Scraped **22,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 2,623
 adaderanalk | 2,651
 virakesarilk | 3,367
 dailymirrorlk | 3,528
-adaderanasinhalalk | 3,614
+adaderanasinhalalk | 3,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,451 (99.7%) of 22,526 articles have been extended.
+22,451 (99.7%) of 22,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### රටම කතා වූ පනත පාර්ලිමේන්තුවේදී සම්මත වෙයි
+
+*2024-05-07 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196377) · `si`
+
+2024 දෙසැම්බර් 15 දක්වා පරාටේ නීතිය තාවකාලිකව අත්හිටුවීම සඳහා වන බැංකු මගින් ප්‍රදානය කරන ලද ණය අය කරගැනීමේ විශේෂ විධිවිධාන සංශෝධන පනත් කෙටුම්පත අද (07) සංශෝධන රහිතව පාර්ලිමේන්තුවේදි සම්මත කෙරුණි.
+
+කාරක සභා අවස්ථාවේදි විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ඊට සංශෝධන ඉදිරිපත් කළ ද ඒ සඳහා පැවති ඡන්ද විමසීමෙන් එය වැඩි ඡන්ද 25කින් පරාජයට පත් වුණි.
+
+◼️
+
+[Data](articles/9152188d.json)
+
+---
 
 ### பௌசியின் மகன் கைது
 
@@ -2261,31 +2275,5 @@ The appointments will be made with the participation of the Minister of Home Aff
 [Data](articles/2dda06e8.json)
 
 [Extended Data](ext_articles/2dda06e8.ext.json)
-
----
-
-### Judge Durairaja quit the case
-
-*2024-05-07 10:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கிலிருந்து-விலகினார்-நீதியரசர்-துரைராஜா/175-336877) · `ta`
-
-Judge Durairaja withdrew from a case involving the murder of Sivaloka Nathan Vidya, an 18-year-old girl in Jaffna. A five-member committee, including Durairaja, was appointed to hear appeals. Durairaja quit due to his past supervision of the case. The case's delay was attributed to translation issues, but the Solicitor General stated translations were completed and repairs were underway. The appeals were filed by the Jaffna High Court, seeking the release of the defendants due to dissatisfaction with the law.
-
-🟩
-
-Sivaloka Nathan Vidya, an 18 -year -old schoolgirl in Punguduthivu, Jaffna, was abducted and murdered by the Chief Justice of the Judges Committee. Durairaja withdrew from the group on Monday (06).
-
-A five -member committee was appointed by the Chief Justice to hear the appeals filed by five defendants, including Swiss Kumar, who was sentenced to death.
-
-These petitions are on Monday (06) Justice S. Durairaja, Yasantha Gothagoda, A.. HMD. Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned in the presence of a Supreme Court judges.
-
-Meanwhile, the Chief Justice of the five -member session S. Durairaja said that he had decided to quit the appeal due to the supervision of the case during his tenure at the Attorney General's Department.
-
-In addition, the panel of judges ordered the appeal to be taken up for hearing on July 30.
-
-...
-
-[Data](articles/40042f95.json)
-
-[Extended Data](ext_articles/40042f95.ext.json)
 
 ---

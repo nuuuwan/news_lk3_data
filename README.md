@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 12:33:41**
+As of **2024-05-07 12:53:01**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 3,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,199 (99.0%) of 22,430 articles have been extended.
+22,209 (99.0%) of 22,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### නැවතත් සෞඛ්‍ය වෘත්තීය සමිති අඛණ්ඩ වැඩවර්ජනයක
+### Health Trade Unions again on a continuous strike
 
 *2024-05-07 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196366) · `si`
 
-සෞඛ්‍ය වෘත්තීය සමිති නැවතත් මැයි මස 09 වෙනිදා සිට අඛණ්ඩ වර්ජනයකට යොමුවීමට තීරණය කර තිබේ.
+Health Trade Unions resume continuous strike from May 09.
+
+🟩
+
+Health Trade Unions have decided to resume a continuous strike from May 09.
 
 ◼️
 
 [Data](articles/ce03d561.json)
+
+[Extended Data](ext_articles/ce03d561.ext.json)
 
 ---
 
@@ -1306,6 +1312,8 @@ The visit served as an opportunity for Puliti to engage with key stakeholders, i
 
 [Data](articles/3a13ed5e.json)
 
+[Extended Data](ext_articles/3a13ed5e.ext.json)
+
 ---
 
 ### Good Life X unveils rebranding strategy at 6th anniversary celebration
@@ -1327,6 +1335,8 @@ The event welcomed over 100 GLX alumni, experts, scientists, academics, entrepre
 ...
 
 [Data](articles/0dd994cb.json)
+
+[Extended Data](ext_articles/0dd994cb.ext.json)
 
 ---
 
@@ -1350,6 +1360,8 @@ In 2009, Nadarasa joined Bintel in Bahrain as the Group COO overseeing mobile op
 
 [Data](articles/89724b39.json)
 
+[Extended Data](ext_articles/89724b39.ext.json)
+
 ---
 
 ### Hayleys powers Texlan Centre with landmark commercial solar installation
@@ -1364,6 +1376,8 @@ The grid-tied rooftop solar power system constructed on the rooftop of Texlan’
 
 [Data](articles/3255f085.json)
 
+[Extended Data](ext_articles/3255f085.ext.json)
+
 ---
 
 ### State Minister Amunugama leads Sri Lankan delegation to Germany’s ‘Hannover Messe’
@@ -1377,6 +1391,8 @@ This was the first time that Sri Lanka had officially participated in the Hannov
 ...
 
 [Data](articles/d1270081.json)
+
+[Extended Data](ext_articles/d1270081.ext.json)
 
 ---
 
@@ -1400,6 +1416,8 @@ In his address, Lalkantha declared that under a future NPP Government, villages 
 
 [Data](articles/0cc03ae4.json)
 
+[Extended Data](ext_articles/0cc03ae4.ext.json)
+
 ---
 
 ### Harin denies resignation rumours amid visa fee controversy in Cabinet
@@ -1417,6 +1435,8 @@ Fernando expressed discontent with the new visa processing system, particularly 
 ...
 
 [Data](articles/e098f888.json)
+
+[Extended Data](ext_articles/e098f888.ext.json)
 
 ---
 
@@ -1437,6 +1457,8 @@ His remarks come in response to recent allegations made by Opposition leader Saj
 ...
 
 [Data](articles/82abd0b5.json)
+
+[Extended Data](ext_articles/82abd0b5.ext.json)
 
 ---
 
@@ -1471,6 +1493,8 @@ The visit of Japan’s foreign minister Yoko Kamikawa to Sri Lanka is an indicat
 ...
 
 [Data](articles/a425362c.json)
+
+[Extended Data](ext_articles/a425362c.ext.json)
 
 ---
 

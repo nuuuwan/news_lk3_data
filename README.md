@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 13:33:59**
+As of **2024-05-07 13:52:53**
 
 ## Newspaper Stats
 
-*Scraped **22,463** Articles*
+*Scraped **22,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,130 @@ adalk | 1,884
 tamilmirrorlk | 2,615
 adaderanalk | 2,643
 virakesarilk | 3,359
-dailymirrorlk | 3,514
+dailymirrorlk | 3,518
 adaderanasinhalalk | 3,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,256 (99.1%) of 22,463 articles have been extended.
+22,265 (99.1%) of 22,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### ලිට්‍රෝ ලොකු වැඩකට අත ගසයි
+### Town Hall blocked due to university non-academic workers’ protest
+
+*2024-05-07 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Town-Hall-blocked-due-to-university-non-academic-workers-protest/108-282091) · `en`
+
+Roads leading to the Town Hall area have been blocked due to a protest launched by university non-academic workers in front of the University Grants Commission (UGC), police said.
+
+They said about 5,000 non-academic workers have gathered in front of the UGC over eleven main demands, including the non-rectification of salary anomalies and the non-receipt of allowances and other facilities promised by the government.
+
+◼️
+
+[Data](articles/75900485.json)
+
+---
+
+### Body found of youth who went missing while visiting girlfriend
+
+*2024-05-07 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-found-of-youth-who-went-missing-while-visiting-girlfriend/108-282092) · `en`
+
+Colombo, May 7 (Daily Mirror) - The body of a youth from Kuliyapitiya, who had gone missing a few days ago while visiting his girlfriend’s house, has been recovered in the Panirendawa area of Madampe, the police said.
+
+Police Spokesman DIG Nihal Thalduwa said the body was found in a forest in the area.
+
+On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya
+
+Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
+
+Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
+
+Accordingly, the two masons who were arrested later confessed to the police that the father of the girl had instructed them to take the youth in question to the house of a former Provincial Council member living in the area.
+
+...
+
+[Data](articles/84a90198.json)
+
+---
+
+### CB officials to be summoned before Parliament for declaring independence
+
+*2024-05-07 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-officials-to-be-summoned-before-Parliament-for-declaring-independence/108-282089) · `en`
+
+Parliament, May 07 (Daily Mirror)- Central Bank of Sri Lanka (CBSL) officials are to be summoned before Parliament for declaring itself as an independent institution, it was revealed in Parliament today.
+
+Leader of the House Susil Premajayantha said the Speaker can summon CBSL officials either before the Committee on Public Enterprises (COPE) or the Committee on Public Finance (COPF) to seek an explanation.
+
+He said this in response to an issue raised by MP Charitha Herath who said the CBSL has identified itself as an independent entity in its annual report 2023.
+
+"No Committee in the House has questioned the CBSL officials on this issue," he said.
+
+MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds belong to the government.
+
+◼️
+
+[Data](articles/c781e2e6.json)
+
+---
+
+### Litro is touching a lot of work
 
 *2024-05-07 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196367) · `si`
 
-කඩුවෙල මාබිම ප්‍රදේශයේදී හෙට (08) නව ගෑස් පිරවුම් පර්යන්තයක් විවෘත කරන බව ලිට්‍රෝ සභාපති මුදිත පීරිස් මහතා පවසයි.
+Litro opens a new gas filling terminal in Mabima, Kaduwela, to meet increasing demand. Despite opposition, the company claims no direct involvement in the sale of this movement, attributing it to a responsible committee.
 
-"නව පිරවුම් පර්යන්තයක් හෙට විවෘත කරනවා. ඉල්ලුමට සරිලන සැපයුමක් ලබාදීමට. කෙරවලපිටිය පර්යන්තය ප්‍රමාණවත් නැහැ. දිනකට සිලින්ඩර් 60,000ක් නිකුත් කරනවා. දෙසැම්බර් සිට සතියට දවස් 2ක්. පෙබරවාරි, මාර්තු, අප්‍රේල් වනවිට කෙරවලපිටිය හා මාබිම පර්යන්ත දෙකම වැඩ. කෙරලවලපිටිය නවත්වන්න ඕන වුණොත්. මාබිම සිට කාර්යක්ෂවම ගෑස් බෙදාහරින්න පුළුවන්."
+🟩
 
-ප්‍රශ්නය - ඔබතුමාලා මේ විදිහට ආයෝජනය කරලා මේ ව්‍යාපාරය පුළුල් කරනකොට විපක්ෂය චෝදනා කරනවා මේක විකුණන්න යනවා කියලා?
+Litro Chairman Muditha Peiris says that a new gas filling terminal will be opened tomorrow (08) at the Mabima area in Kaduwela.
 
-"අපේ ඍජු දායකත්වයක් නැහැ. වගකීම් පැවරුණු කමිටුවක් ඉන්නවා. ඒ අයගෙන් අහන එක තමයි සුදුසු උත්තරයක් දෙන්න අපිට දන්නේ නැහැ."
+"Opens new filling terminal tomorrow. To provide a provision of demand. The Kerawalapitiya terminal is not enough. 60,000 cylinders are issued a day. 2 days from December to week. Bodies of Kerawalapitiya and Mabima Peripheral by March, March, March. If you want to stop Kealawalapitiya. You can deliver the gas from Maize. "
+
+Q. When you invest this, the opposition accuses the sale of this movement.
+
+"There is no direct contributory. There is a responsible committee. We do not know the answer to them. "
 
 ◼️
 
 [Data](articles/f76b6adf.json)
 
+[Extended Data](ext_articles/f76b6adf.ext.json)
+
 ---
 
-### மன்னாரில் மின்னுற்பத்தி: அதானிக்கு அனுமதி
+### Town Hall blocked due to university non-academic workers’ protest
+
+*2024-05-07 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Town-Hall-blocked-due-to-university-non-academic-workers-protest/108-282090) · `en`
+
+Colombo, May 7 (Daily Mirror) - Roads leading to the Town Hall area have been blocked due to a protest launched by university non-academic workers in front of the University Grants Commission (UGC), police said.
+
+They said about 5,000 non-academic workers have gathered in front of the UGC over eleven main demands, including the non-rectification of salary anomalies and the non-receipt of allowances and other facilities promised by the government.
+
+◼️
+
+[Data](articles/d8c553e1.json)
+
+---
+
+### Electricity in Mannar: Allow Adani
 
 *2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானிக்கு-அனுமதி/175-336886) · `ta`
 
-மன்னார் பூநகரி பிரதேசத்தில் காற்றாலை மின்னுற்பத்தி நிலையங்களை அபிவிருத்தி செய்வதற்கான  புரிந்துணர்வு ஒப்பந்தத்தை இந்தியாவின் M/s Adani Green Energy Limited உடன்  மேற்கொள்வதற்கு 2022.03.07 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+In 2012, Sri Lanka's Cabinet approved a MOU with Adani Green Energy to develop wind power stations in Mannar Poonakari, valued at $8.26 per kg.
 
-குறித்த கம்பனியால் சமர்ப்பிக்கப்பட்டுள்ள கருத்திட்ட முன்மொழிவை மதிப்பீடு செய்வதற்காக அமைச்சரவையால் பேச்சுவார்த்தை உடன்பாட்டுக் குழு  நியமிக்கப்பட்டது.  குறித்த  குழுவின் விதந்துரைகளின் பிரகாரம் உத்தேசக் கருத்திட்டத்தின் கீழ் உற்பத்தி செய்யப்படும் மின்னலகொன்று கிலோவாற்று மணிக்கு 8.26 சதம் அமெரிக்க டொலர் பெறுமதி (உண்மையான வெளிநாட்டு செலாவணி சரிவிகிதத்திற்கமைய இலங்கை ரூபாயில் செலுத்துவதற்கு)  இறுதிக் கட்டணமாக அங்கீகரிப்பதற்கும், 20 வருடங்களுக்கு மின்சாரத்தைக் கொள்வனவு செய்வதற்கான விலை மனுக்கோரலை M/s Adani Green Energy Limited இற்கு வழங்குவதற்கும்,மின்சக்தி மற்றும் வலுசக்தி அமைச்சர்   சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+🟩
+
+The Cabinet meeting held on 07.03.2012 to make a Memorandum of Understanding (MOU) to develop wind power stations in Mannar Poonakari area with M/s Adani Green Energy Limited.
+
+The Cabinet has been appointed by the Cabinet to evaluate the proposal submitted by the company.According to the Committee's Vidyalaya, an electrician produced under the proposal project is worth US $ 8.26 per kg (to pay the Sri Lankan rupee in the Rupee Rupee of Real Foreign Exchange) and the cost of purchasing electricity for 20 years M/s Adani Green Energy Energy.The Cabinet has approved the proposal submitted by the Minister.
 
 ◼️
 
 [Data](articles/aca2e36c.json)
+
+[Extended Data](ext_articles/aca2e36c.ext.json)
 
 ---
 
@@ -154,6 +236,8 @@ Before the toss, Shakib was having a chat with head coach Sheikh Salahuddin and 
 
 [Data](articles/9597090a.json)
 
+[Extended Data](ext_articles/9597090a.ext.json)
+
 ---
 
 ### I killed my mother;The boy's confession
@@ -201,6 +285,8 @@ Minister Wijesekara said there was a proper procedure for power disconnections a
 ...
 
 [Data](articles/d7b1c8a0.json)
+
+[Extended Data](ext_articles/d7b1c8a0.ext.json)
 
 ---
 
@@ -301,6 +387,8 @@ The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army
 ...
 
 [Data](articles/4d0931d9.json)
+
+[Extended Data](ext_articles/4d0931d9.ext.json)
 
 ---
 
@@ -1466,27 +1554,35 @@ Minister Mahinda Amaraweera and the Minister of State Suresh Ragawan and MP Dumi
 
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පෙර වාහන පර්මිට් හිමිවූ රාජ්‍ය නිලධාරින් කවුද ?
+### Who are the government officials who have vehicles before MPs?
 
 *2024-05-07 07:00:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz8716092o) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පෙර වාහන පර්මිට් හිමිවූ රාජ්‍ය නිලධාරින් කවුද ?
+The government has granted vehicle import tariff concessions to retired public officers, provincial officials, and judicial officers, with the Speaker Mahinda Yapa Abeywardena and State Minister Ranjith Siyambalapitiya involved.
 
-විශ්‍රාමික රාජ්‍ය නිලධාරින් සඳහා තීරු බදු සහන සහිතව වාහන ආනයනය කිරීමේ බලපත්‍ර නිකුත් කිරීමට රජය තීරණය කර ඇත.
+🟩
 
-මෙලෙස තීරු බදු සහන සහිතව වාහන ගෙන්වීම සඳහා බලපත්‍ර ලබා දෙන ලෙස පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක්ද කතානායක මහින්ද යාපා අබේවර්ධනගෙන් ඉල්ලීමක් කර ඇති බව පසුගියදා වාර්තා පළ විය.
+Who are the government officials who have vehicles before MPs?
 
-මේ අතර වාහන ආනයන සීමා ඉවත් කිරීම සම්බන්ධයෙන් සොයා බැලීමට රජය විසින් කමිටුවක්ද පත් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය ප්‍රකාශ කර තිබුණි.
+The government has decided to issue vehicle importes of vehicles with tariff concessions for retired public officers.
 
-වාහන ආනයනය සීමා මුළුමනින්ම ලිහිල් කළොත් ඉක්මණින්ම වාහන මිල අඩුවේවි ද?
+It has been recent reports, Speaker Mahinda Yapa Abeywardena has requested a license to obtain permits with tariff concessions.
 
-අනිවාර්ය විශ්‍රාම ගැන්වීමේ වයස අවුරුදු 65 දක්වා දීර්ඝ කර පසුව එය අවුරුදු 60 දක්වා අඩු කිරීමත් සමග එම කාලය තුළ වයස අවුරුදු 60 සම්පූර්ණ වීමෙන් පසු විශ්‍රාම ගිය නිලධාරීන් සඳහා මෙම තීරුබදු සහනය ලබාදීමට නියමිත ය.
+Meanwhile, State Minister Ranjith Siyambalapitiya stated that the government had appointed a committee to look into the removal of vehicle import boundaries.
 
-ඒ අනුව විශ්‍රාම ගිය රාජ්‍ය නිලධාරීන්, පළාත් රාජ්‍ය නිලධාරින් සහ අධිකරණ නිලධාරීන් සඳහා තීරුබදු සහන සහිත වාහන ආනයන බලපත්‍ර ලබාදීමට රජය තීරණය කර ඇත.
+Will the importation of electrical imports completely reduce the car price quickly?
+
+The duty concession is to be given to retired officers after the 60 y
+
+Accordingly, the government has decided to grant the permits of vehicle imported vehicles with duty concessions for retired public officers, provincial government officials and judicial officers.
+
+The Secretary to the Ministry of Public Administration and Home Affairs Pradeep Yasaratne has stated in the respective circular issued.
 
 ...
 
 [Data](articles/cd036b5c.json)
+
+[Extended Data](ext_articles/cd036b5c.ext.json)
 
 ---
 
@@ -2229,97 +2325,5 @@ I urge all those involved in this issue to find a solution to the issue as soon 
 [Data](articles/76f55170.json)
 
 [Extended Data](ext_articles/76f55170.ext.json)
-
----
-
-### A 17 -year -old boy who runs Marathon dies of a heart attack
-
-*2024-05-06 23:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரதன்-ஓடிய-17-வயது-சிறுவன்-மாரடைப்பால்-மரணம்/175-336861) · `ta`
-
-A 17-year-old Marathon participant died of a heart attack after the race in Polpithigama.
-
-🟩
-
-A 17 -year -old boy who participated in the Marathon race held in Polpithigama area has died, police said.
-
-On the morning of the 4th, the boy was sitting on the floor after he was returning home after attending the Marathon race.
-
-The boy was admitted to the Kurunegala Teaching Hospital for medical examination, and the boy died of a heart attack. Remble
-
-◼️
-
-[Data](articles/0597617f.json)
-
-[Extended Data](ext_articles/0597617f.ext.json)
-
----
-
-### Classy scene…
-
-*2024-05-06 22:59:00* · [`islandlk`](http://island.lk/classy-scene/) · `en`
-
-Terry & The Big Spenders will be doing their thing at the Shangri-La, in Colombo, for the next six months.
-
-The eight-piece band is now featured on Wednesdays, Fridays, and Saturdays.
-
-Terry & The Big Spenders are probably the only outfit, with a horn section, performing on a regular basis.
-
-The music they dish out is predominantly vintage, says Viraj Perera, the leader of this versatile outfit.
-
-“It’s a lot of jazz, soul, Latin and funk and those who enjoy those classic ballads, from the ’60s to ’80s, are our big followers.”
-
-Late in the evening, at the mentioned venues, you could take the floor and dance to those classic ballads, says Viraj.
-
-And…Viraj added that Terry and the Big Spenders have always been about class.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/f4f10e6d.json)
-
-[Extended Data](ext_articles/f4f10e6d.ext.json)
-
----
-
-### UK’s Indo-Pacific Regional Director meets Anura Kumara
-
-*2024-05-06 22:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-Indo-Pacific-Regional-Director-meets-Anura-Kumara/108-282056) · `en`
-
-Colombo, May 06 (Daily Mirror)- Indo-Pacific Regional Director of the UK Foreign, Commonwealth and Development Office Ben Mellor met NPP leader Anura Kumara Dissanayake at the JVP Head Office this afternoon.
-
-Humaira Hatia, Head of Sri Lanka at UK Foreign, Commonwealth and Development Office, and Andrew Patrick, the British High Commissioner to Sri Lanka, Tom Soper, the First Secretary, and  MP Vijitha Herath attended the meeting.
-
-The current economic and political situation in Sri Lanka, regional geopolitical challenges and cooperation between the United Kingdom and Sri Lanka were discussed at length, party sources said.
-
-◼️
-
-[Data](articles/5c4d8476.json)
-
-[Extended Data](ext_articles/5c4d8476.ext.json)
-
----
-
-### Hamas agrees to a ceasefire
-
-*2024-05-06 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196346) · `si`
-
-Hamas accepts ceasefire proposal from Egypt and Qatar, as reported by foreign media.
-
-🟩
-
-Hamas has been announced that the ceasefire proposal presented by Egypt and Qatar.
-
-Foreign media has been reported from quoting the organization.
-
-The reports of the Hamas leader Ismailine have informed the Prime Minister of Qatar and the Head of the Egyptian intelligence that the proposal was accepted.
-
-◼️
-
-[Data](articles/2b53082f.json)
-
-[Extended Data](ext_articles/2b53082f.ext.json)
 
 ---

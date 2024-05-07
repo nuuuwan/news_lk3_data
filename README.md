@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 03:33:40**
+As of **2024-05-08 03:51:20**
 
 ## Newspaper Stats
 
-*Scraped **22,613** Articles*
+*Scraped **22,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,321
 adalk | 1,905
 tamilmirrorlk | 2,630
 adaderanalk | 2,654
-virakesarilk | 3,385
+virakesarilk | 3,386
 dailymirrorlk | 3,545
 adaderanasinhalalk | 3,620
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,613 (100.0%) of 22,613 articles have been extended.
+22,613 (100.0%) of 22,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
+
+*2024-05-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182928) · `ta`
+
+Anuradhapura's 15,000 families are part of a 20-25 year modern agricultural promotion scheme led by Ruwan Wijewardena. A training center with foreign investment will increase income, with $6,000 per family for solar power plants. Products like vegetables and fruits will be exported. The project aims to expand to other districts.
+
+🟩
+
+A modern agricultural promotion scheme based on 15 000 agricultural families selected in Anuradhapura. Ruwan Wijewardena, the President's Senior Advisor to the Climate, said that the project will be implemented for 20 to 25 years and is planning to expand it in other districts in the future.
+
+He further stated this at a press conference held at the Presidential Media Center on Tuesday (7).
+
+Training Center with foreign investment will be set up to provide an increase in income for 15 000 agricultural families in Anuradhapura.. For this, a foreign company called Nediva has allocated $ 6,000 to a family. Accordingly, the families will be provided with necessary items, including solar power plant.
+
+...
+
+[Data](articles/4ad41219.json)
+
+[Extended Data](ext_articles/4ad41219.ext.json)
+
+---
+
+### ஜனாதிபதியின் அறிவுறுத்தலுக்கமைய ஜனாதிபதி நிதியத்தினால் மற்றுமொரு புலைமைப் பரிசில் அறிமுகம்
+
+*2024-05-08 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182935) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+
+அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+
+நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும்,ஏனைய மாணவர்களுக்கான  822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+
+...
+
+[Data](articles/eea22eac.json)
+
+---
 
 ### US $ 100 million to modernize agriculture
 
@@ -165,28 +203,6 @@ Accordingly, in the Economic Review of 2023, the key issues indicated on the cou
 [Data](articles/3ad0b025.json)
 
 [Extended Data](ext_articles/3ad0b025.ext.json)
-
----
-
-### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
-
-*2024-05-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182928) · `ta`
-
-Anuradhapura's 15,000 families are part of a 20-25 year modern agricultural promotion scheme led by Ruwan Wijewardena. A training center with foreign investment will increase income, with $6,000 per family for solar power plants. Products like vegetables and fruits will be exported. The project aims to expand to other districts.
-
-🟩
-
-A modern agricultural promotion scheme based on 15 000 agricultural families selected in Anuradhapura. Ruwan Wijewardena, the President's Senior Advisor to the Climate, said that the project will be implemented for 20 to 25 years and is planning to expand it in other districts in the future.
-
-He further stated this at a press conference held at the Presidential Media Center on Tuesday (7).
-
-Training Center with foreign investment will be set up to provide an increase in income for 15 000 agricultural families in Anuradhapura.. For this, a foreign company called Nediva has allocated $ 6,000 to a family. Accordingly, the families will be provided with necessary items, including solar power plant.
-
-...
-
-[Data](articles/4ad41219.json)
-
-[Extended Data](ext_articles/4ad41219.ext.json)
 
 ---
 
@@ -746,7 +762,7 @@ The controversy stems from a complaint alleging that a student did not receive i
 
 *2024-05-07 21:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-rings-alarm-bell-over-changing-current-imf-agreed-economic-policies-161920/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s Central Bank Governor Nandalal Weerasinghe warned the public that the country could go back to the 2022 crisis if any future government changes the current International Monetary Fund (IMF) subscribed economic policies reforms.
+ECONOMYNEXT – Sri Lanka’s Central Bank Governor Nandalal Weerasinghe warned the public that the country could go back to the 2022 crisis if any future government changes the current International Monetary Fund (IMF) subscribed economic policies and reforms.
 
 Weerasinghe said there is hardly any space for economic policy maneuvering under the current situation, but there could be a few adjustments without changing the overall goals, which President Ranil Wickremesinghe government had agreed with the IMF.
 
@@ -2211,25 +2227,5 @@ The journalist is also working as a regional reporter in public and private medi
 [Data](articles/39df1654.json)
 
 [Extended Data](ext_articles/39df1654.ext.json)
-
----
-
-### Russia’s Vladimir Putin sworn in as president for a fifth term
-
-*2024-05-07 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russias-Vladimir-Putin-sworn-in-as-president-for-a-fifth-term/108-282099) · `en`
-
-MOSCOW, May 7 (Reuters) - President Vladimir Putin was sworn in for a new six-year term on Tuesday at a Kremlin ceremony that was boycotted by the United States and a number of other Western countries due to Russia's war in Ukraine.
-
-Putin, in power as president or prime minister since 1999, begins his new mandate more than two years after he sent tens of thousands of troops into Ukraine, where Russian forces have regained the initiative after a series of reversals and are seeking to advance further in the east.
-
-At 71, Putin dominates the domestic political landscape. On the international stage, he is locked in a confrontation with Western countries he accuses of using Ukraine as a vehicle to try to defeat and dismember Russia.
-
-"For Russia, this is the continuation of our path, this is stability – you can ask any citizen on the street," Sergei Chemezov, a close Putin ally, told Reuters before the ceremony.
-
-...
-
-[Data](articles/b4106444.json)
-
-[Extended Data](ext_articles/b4106444.ext.json)
 
 ---

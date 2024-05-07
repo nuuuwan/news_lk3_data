@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 15:33:44**
+As of **2024-05-07 15:52:22**
 
 ## Newspaper Stats
 
-*Scraped **22,497** Articles*
+*Scraped **22,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,110 @@ adalk | 1,893
 tamilmirrorlk | 2,621
 adaderanalk | 2,647
 virakesarilk | 3,360
-dailymirrorlk | 3,524
-adaderanasinhalalk | 3,609
+dailymirrorlk | 3,526
+adaderanasinhalalk | 3,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,363 (99.4%) of 22,497 articles have been extended.
+22,375 (99.4%) of 22,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### டொலர் கையிருப்பு அதிகரிப்பு
+### Russia’s Vladimir Putin sworn in as president for a fifth term
+
+*2024-05-07 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russias-Vladimir-Putin-sworn-in-as-president-for-a-fifth-term/108-282099) · `en`
+
+MOSCOW, May 7 (Reuters) - President Vladimir Putin was sworn in for a new six-year term on Tuesday at a Kremlin ceremony that was boycotted by the United States and a number of other Western countries due to Russia's war in Ukraine.
+
+Putin, in power as president or prime minister since 1999, begins his new mandate more than two years after he sent tens of thousands of troops into Ukraine, where Russian forces have regained the initiative after a series of reversals and are seeking to advance further in the east.
+
+At 71, Putin dominates the domestic political landscape. On the international stage, he is locked in a confrontation with Western countries he accuses of using Ukraine as a vehicle to try to defeat and dismember Russia.
+
+"For Russia, this is the continuation of our path, this is stability – you can ask any citizen on the street," Sergei Chemezov, a close Putin ally, told Reuters before the ceremony.
+
+...
+
+[Data](articles/b4106444.json)
+
+---
+
+### චීන රෝහලක නින්ජා ප්‍රහාරයක්
+
+*2024-05-07 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196372) · `si`
+
+නිරිතදිග චීනයේ රෝහලකදී සිදුකළ පිහි ඇනුමකින් දෙදෙනෙක් මියගොස් තවත් 21 දෙනෙක් තුවාල ලබා ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+Yunnan පළාතේ පිහිටි රෝහලකදී එම පිහි ඇනුම සිදුකර ඇති බව වාර්තා වෙයි.
+
+කළු ඇඳුමක් ඇඳගත් පුද්ගලයෙක් පිහි දෙකක් භාවිත කර එම ප්‍රහාරය සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/2a4a25ec.json)
+
+---
+
+### India’s Amul to sponsor Sri Lanka team for T20 World Cup
+
+*2024-05-07 15:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Amul-to-sponsor-Sri-Lanka-team-for-T20-World-Cup/108-282098) · `en`
+
+May 7 (Daily Mirror) - Sri Lanka Cricket (SLC) said that Amul, a leading Indian milk producer with international presence has been appointed as the 'Official Sponsor' of the Sri Lanka Men's Team for the duration of the ICC Men's T20 World Cup 2024.
+
+“Amul's partnership with Sri Lanka Cricket is an excellent move, as associating with an international sports brand is definitely going to help the firm gain market growth and further enhance its brand visibility among the international audience," CEO of Sri Lanka Cricket Ashley De Silva said.
+
+Sri Lanka will kick off the ICC Men's T20 World Cup 2024 campaign on June 3, 2024, facing South Africa in New York.
+
+The ICC Men’s T20 World Cup 2024 will be held in the West Indies and the USA from June 01 to 29.
+
+◼️
+
+[Data](articles/69535770.json)
+
+---
+
+### Increase in dollar reserves
 
 *2024-05-07 15:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/டொலர்-கையிருப்பு-அதிகரிப்பு/47-336895) · `ta`
 
-இலங்கையின் உத்தியோகபூர்வ கையிருப்பு ஏப்ரல் மாத இறுதிக்குள் 5.43 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்துள்ளது என மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க செவ்வாய்க்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+Sri Lanka's dollar reserves rose to $5.43B by April, up from $4.96B in March, a 400M increase.
 
-மார்ச் மாத இறுதிக்குள் நாட்டின் உத்தியோகபூர்வ கையிருப்பு 4.96 பில்லியன் அமெரிக்க டொலர்களாக இருந்ததாகவும், இதனால் ஏப்ரல் மாத இறுதிக்குள் நாட்டின் உத்தியோகபூர்வ கையிருப்பு சுமார் 400 மில்லியனால் அதிகரித்துள்ளதாகவும் மத்திய வங்கியின் ஆளுநர் தெரிவித்துள்ளார்.
+🟩
+
+Governor of the Central Bank Dr. Nandalal Weerasinghe said at a media briefing on Tuesday (07) that Sri Lanka's official stockpile has increased to $ 5.43 billion by the end of April.
+
+The Governor of the Central Bank said that by the end of March, the country's official stockpile was $ 4.96 billion, which has increased by about 400 million by the end of April.
 
 ◼️
 
 [Data](articles/bb271c3f.json)
 
+[Extended Data](ext_articles/bb271c3f.ext.json)
+
 ---
 
-### காதலியிடம் சென்ற காதலன் சடலமாக மீட்பு
+### Recovery of a boyfriend who went to the girlfriend
 
 *2024-05-07 15:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/காதலியிடம்-சென்ற-காதலன்-சடலமாக-மீட்பு/94-336894) · `ta`
 
-தனது காதலியின் வீட்டுக்குச் சென்று காணாமல் போன 30   வயதுடைய சுசித் ஜெயவன்ச என்ற இளைஞனின் சடலம் மாதம்பே பனிரெண்டாவ காப்புக்காட்டில் செவ்வாய்க்கிழமை (07) மீட்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+The body of 30-year-old Susit Jayawansa, missing from his girlfriend's house, was found at Banrendawa Backup. His disappearance was linked to his girlfriend's cousin, who revealed the body.
 
-குளியாப்பிட்டியவில் உள்ள தனது காதலியின் வீட்டுக்குச் சென்றிருந்த நிலையிலேயே அவர் காணாமல் போயிருந்தார்.
+🟩
 
-இந்த காணாமல் போன சம்பவம் தொடர்பில் காதலியின் உறவினர் ஒருவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே குறித்த இளைஞனின் சடலம் பற்றிய தகவல்கள் தெரியவந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+The body of a 30 -year -old man named Susit Jayawansa, who was missing at his girlfriend's house, has been recovered at the Banrendawa Backup on Tuesday (07), police said.
+
+He was missing when he went to his girlfriend's house in Kiliyapitiya.
+
+Investigations carried out by a girlfriend's cousin in connection with the disappearance of the incident have revealed the body of the youth.
 
 ◼️
 
 [Data](articles/e406e6f6.json)
+
+[Extended Data](ext_articles/e406e6f6.ext.json)
 
 ---
 
@@ -106,35 +170,53 @@ The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa 
 
 ---
 
-### මේ කාරණා 4 ගැන දැනුම්වත් නම් මේ රෝගවලින් සිද්දවෙන මරණවලින් 89%ක් වැලකෙන්න පුළුවන්
+### If these four things were notified, 89% of these diseases could be saved
 
 *2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/මේ-කාරණා-4-ගැන-දැනුම්වත්-නම්-මේ-රෝගවලින්-සිද්දවෙන-මරණවලින්-89%ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
 
-අද මෙරට මරණ වලින් සියයට 89 ක් පිළිකා, හෘද වස්තුවේ රෝග, පෙණහළු රෝග සහ දියවැඩියාව යන බෝ නොවන රෝග නිසා සිදුවන බවත්, එයිනුත් වැඩි මරණ ප්‍රමාණයක් සිදු වන්නේ හෘද වස්තුවේ රෝග සහ ආඝාතය නිසා බවත්, වසරකට 60,000 ක් පමණ ආඝාතයට ලක්ව 4000 ක් පමණ මියයන බව වෙද්‍ය පාලිත මහීපාල මහතා පවසයි. මෙම රෝග වලින් වැළැකීමේ දි කාරණා 04 ක් ගැන දැනුවත් විය යුතු බවත්, එනම් දුම්පානය, මධ්‍යසාර භාවිතය, අධික ලෙස  සීනි, ලුණු භාවිතය සහ ව්‍යායාම නොකිරිම පෙන්වා දිය හැකි බව “තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය පැවැත්වූ අද (07) දීනදී පවසා සිටියේය.
+89% of Sri Lanka's deaths are due to non-communicable diseases, with heart disease, fold disease, and diabetes affecting 60,000 people. A health promotion program aims to save lives by educating journalists. Globally, 100 million deaths are attributed to smoking, and 1.4 million people die from obesity, affecting 46% of the population. Sri Lanka's healthcare is the best in the region, with women living to 83 and primary health services contributing significantly.
 
-...
+🟩
+
+Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Mrs. Palitha Maheepala says. The first phase of the first stage of the health promotion program for Sri Lankan journalists is the inauguration of the third eye in the precious use of these diseases.In Donathi was held today (07).
+
+The world has died due to 100 million people in the world, according to the World Health Organization.. There were about 10 million people in the world due to smoking. It is said that about 1.4 million people in the world, about 46 percent of our country's weighing more than 46 percent in our country, about 46 percent of our country's weight.
+
+The country's health care is the best health service in the region, and that women have increased to 83 years and the fortified of the primary health service has contributed to all that the fortified of the primary health service has been reported..
+
+◼️
 
 [Data](articles/96cec0cc.json)
 
+[Extended Data](ext_articles/96cec0cc.ext.json)
+
 ---
 
-### போதை மாத்திரைகளுடன் ஊடகவியலாளர் கைது
+### Journalist arrested with drug pills
 
 *2024-05-07 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-ஊடகவியலாளர்-கைது/175-336892) · `ta`
 
-போதை மாத்திரைகளுடன் கைது செய்யப்பட்ட ஊடகவியலாளர், நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார். இந்த சம்பவம் திருகோணமலையில் இடம்பெற்றுள்ளது.
+A journalist in Trincomalee was arrested with 30 drug pills and traffic documents, suspected of buying and selling at a pharmacy. The 42-year-old is detained pending a court order.
 
-திருகோணமலை மொறவெவ பொலிஸ் பிரிவுக்குட்பட்ட ஔவை நகர் பகுதியில் வைத்து பிரதேச ஊடகவியலாளர் ஒருவரை போதை மாத்திரைகளுடன் கைது செய்துள்ளதாக மொறவெவ பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த சம்பவம் ஞாயிற்றுக்கிழமை (05)மாலை இடம் பெற்றுள்ளது. 42 வயதான பிரதேச ஊடகவியலாளரே இவ்வாறு கைது செய்யப்பட்டுள்ளார.
+The journalist arrested with drug pills is being kept in detention on a court order. The incident took place in Trincomalee.
 
-கிடைக்கப் பெற்ற இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட திடீர் பரிசோதனையின் போது இவரிடமிருந்து 30போதை மாத்திரைகள் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+Morawewa police said that a regional journalist has been arrested with drug pills in the Uva Nagar area of the Trincomalee Morawewa Police Division.
 
-திருகோணமலையில் உள்ள மருந்தகம் ஒன்றில் கொள்வனவு செய்து விற்பனையில் ஈடுபட்டு வந்ததாகவும் ஆரம்ப கட்ட விசாரனை மூலமாக தெரியவருகிறது. அத்துடன் ஒரு தொகை போக்குவரத்து ஆவணங்களும் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+The incident took place on Sunday (05) evening. The 42 -year -old area journalist has been arrested.
 
-...
+Police said 30 drug pills were recovered during a sudden inspection of the confidential information available.
+
+Initial inquiries revealed that they were buying and selling at a pharmacy in Trincomalee.. Police said that a large number of traffic documents were also recovered.
+
+Regional journalist arrested on suspicion is also a regional correspondent in public and private media. The magistrate was ordered to be remanded until the 20th of this month when the arrested person was produced before the Moravewa Magistrate on Monday (06).
+
+◼️
 
 [Data](articles/e19481f7.json)
+
+[Extended Data](ext_articles/e19481f7.ext.json)
 
 ---
 
@@ -158,17 +240,23 @@ He was sworn in as the first to the first time in 2000.
 
 ---
 
-### கல்விசாரா ஊழியர்களின் ஆர்ப்பாட்டத்தால் போக்குவரத்து பாதிப்பு
+### Traffic impacts by demonstration of non -academic staff
 
 *2024-05-07 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கல்விசாரா-ஊழியர்களின்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/46-336891) · `ta`
 
-பல்கலைக்கழக கல்விசாரா ஊழியர்களினால் முன்னெடுக்கப்பட்டு வரும் பணிப்புறக்கணிப்புப் போராட்டத்திற்கு அமைவாக, நாட்டிலுள்ள அனைத்துப் பல்கலைக்கழகங்களையும் பிரதிநிதித்துவப்படுத்தும் பெருமளவிலான கல்விசாரா ஊழியர்கள் தற்போது கொழும்பு 7 இல் உள்ள பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+Non-academic staff from all universities in Sri Lanka are protesting in Colombo 7, impacting city hall area roads. Approximately 5,000 people participated.
 
-இந்த ஆர்ப்பாட்டத்தில் சுமார் 5 ஆயிரம் பேர் கலந்து கொண்டனர். ஆர்ப்பாட்டம்  காரணமாக, நகர மண்டப பகுதியில் உள்ள அனைத்து வீதிகளின் போக்குவரத்தும் பாதிக்கப்பட்டுள்ளன.
+🟩
+
+A large number of non -academic staff representing all the universities in the country are currently protesting in front of the University Grants Commission in Colombo 7, in line with the university non -academic staff.
+
+About 5 thousand people participated in the demonstration. Due to the demonstration, all the roads in the city hall area have been affected.
 
 ◼️
 
 [Data](articles/073c3e12.json)
+
+[Extended Data](ext_articles/073c3e12.ext.json)
 
 ---
 
@@ -192,21 +280,31 @@ The renewable energy company got the approval in February 2023 to invest $442 mi
 
 ---
 
-### පෙම්වතිය බලන්න ගොස් සිටියදී අතුරුදන් තරුණයාගේ සිරුර හමුවෙයි
+### Youth meets the missing youth while visiting girlfriend
 
 *2024-05-07 14:19:03* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතිය-බලන්න-ගොස්-සිටියදී-අතුරුදන්-තරුණයාගේ-සිරුර-හමුවෙයි/11-409473) · `si`
 
-ඉකුත් අප්‍රේල් මස 22 වනදා අතුරුදන් වූ තරුණයා ඝාතනය කර මෘත ශරීරය පුළුස්සා මාදම්පේ ප්‍රදේශයේ කැලෑබද ස්ථානයක දමා තිබියදී අද 07දා  පෙරවරුවේ සොයා ගැනීමට හැකි වී ඇති බව පොලීසිය පවසයි ‍
+Police found the body of a missing youth on April 22nd in Madampe, revealing he visited his girlfriend's house. Investigations led to the arrest of Kalbinna, who was found with Susath's body. Singumba Fernando is suspected of the youth's disappearance.
 
-සිය පෙම්වතියගේ නිවසට ගොස් සිටියදී ඉකුත් අප්‍රේල් මස 22 වනදා අතුරුදන් වූ කුලියාපිටිය කබලෑව ප්‍රදේශයේ පදිංචිව සිටි 31 හැවිරිදි සුසිත ජයවංශ නැමැත්තා මෙසේ ඝාතනය කර ඇති බව අනාවරණය වී තිබේ.
+🟩
 
-අදාළ අතුරුදන්ව ඇති තරුණයා අවසන් වරට තම පෙම්වතියගේ නිවස වූ වස්සාවුල්ල සිඟිති නමැති අයගේ නිවසට ගොස් ඇති බව මූලික විමර්ශන මගින් හෙළිව තිබේ. මේ සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කිහිපයක් දින ගණනාවක් තිස්සේ විවිධ පැතිකඩ ඔස්සේ විමර්ශන කටයුතු අරඹා තිබේ.
+Police have found the body of the missing youth on April 22nd and was found in a jungle in the Madampe area.
 
-එසේ පරීක්‍ෂණ කටයුතු සිදුකරමින් යන අතරවාරයේ සිඟිති නමැත්තාගේ මස්සිනා අත්අඩංගුවට ගෙන තිබූ අතර, කොට්ඨාස අපරාධ විමර්ශකයින් දිගින් දිගට කළ ප්‍රශ්න කිරීම් හමුවේ සුසිත් නමැත්තාගේ දේහය පිළිබඳව අනාවරණය කරගත් තොරතුරු අනුව අද පෙරවරුවේ ඔහුගේ දේහය සොයා ගෙන තිබේ.
+It has been revealed that the 31-year-old Susitha Jayawansa, a resident of Kuliyapitiya and Kuliyapitiya, who went to his girlfriend's house on April 22, has said.
 
-...
+Investigations have revealed that the missing youth had gone to the house of the Seasuwella, the Vasagu, the Wassawulla Sidhats, the young man of her girlfriend's home. Several police teams have commenced investigations into various aspects.
+
+The body of the Kalbinna was arrested while investigating the investigation, and his body was found in the case of the body of Susath.
+
+Meanwhile, Singumba Fernando, allegedly released on suspicion of the youth's disappearance and he ordered the release of Rs.
+
+The magisterial inquiry into the investigation and the action will be taken.
+
+◼️
 
 [Data](articles/61a0b37c.json)
+
+[Extended Data](ext_articles/61a0b37c.ext.json)
 
 ---
 
@@ -522,21 +620,29 @@ MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds 
 
 ---
 
-### නියම සැමියාට නිදි පෙති පොවා අනියම් සැමියා නිවසට ගෙන්වා ගත් බිරි﻿ඳ අත්අඩංගුවට
+### Biri arrested for sleeper pills to the real husband
 
 *2024-05-07 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/නියම-සැමියාට-නිදි-පෙති-පොවා-අනියම්-සැමියා-නිවසට-ගෙන්වා-ගත්-බිරි﻿ඳ-අත්අඩංගුවට/11-409471) · `si`
 
-විවාහක සැමියාට නිඳි පෙති දී අනියම් සැමියා නිවසට ගෙන්වා ගත් කාන්තාවක් මස්කෙළිය පොලීසිය මගින් සැකපිට අත්අඩංගුවට ගෙන හැටන් දිසා හා මහේස්ත්‍රාත්  අධිකරණයට හමුවට (06) දා පැමිණවීමෙන් අනතුරුව මෙම මස (15) වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස විනිසුරු එච්.එම්.ෆරීඩ්ඩීන් මහතා විසින් නියෝග කරන ලදී.
+A woman, 32, was arrested for allegedly poisoning her husband with sleeping pills. She and her husband, both healthcare assistants, were taken into custody. The woman had previously attempted to poison her husband with milk tea. The police are investigating further.
 
-මෙසේ රක්ෂිත භාරයට පමුණුවා ඇත්තේ,කැප්පෙටිපොළගේ නිර්මිතා යසාදරී නැමති (26) හැවිරිදි කාන්තාවකි.
+🟩
 
-නිඳි පෙති පානය කළ බව කියන සැකකාර කාන්තාවගේ (32) හැවිරිදි සැමියා රෝගී තත්වයෙන් අප්‍රේල් (13) දා මස්කෙළිය ප්‍රාදේශිය රෝහලට ඇතුළත් කිරීමෙන් පසුව වැඩිදුර ප්‍රථිකාර සඳහා දික්ඔය මූලික රෝහල වෙත (14) දා මාරු කර ඇත.
+A woman who had taken the casual mum to be arrested by Maskeliya Police at the TVeliya Police and the Maskeliya Police were arrested by Maskeliya police and the Magistrate's Court.Were ordered.
 
-මෙම සැකකාර කාන්තාව හා ඇගේ සැමියා මස්කෙළිය ප්‍රාදේශිය රෝහලේ සෞඛ්‍ය කාර්ය සහායකයන් ලෙස සේවය කරමින් සිටිති. සැමියා නිඳන්ගත අපස්මාර රෝගය සඳහා ප්‍රථිකාර ලබමින් පසුවෙන අයෙකි. මොවුන් දෙදෙනා පදිංචිව සිට ඇත්තේ මස්කෙළිය ප්‍රාදේශිය රෝහලේ නිල නිවාසයකය.
+The reserves have been placed in the reserve, Keppetipola's Nirmachai Yasadari (26).
+
+The woman's (32) lack of sliced was admitted to the Maskeliya Pradeshiya Hospital in April (13).
+
+The suspect and her husband Maskeliya Divisional Hospital are serving as health care assistants. The husband is receiving treatment for incumbent epilepsy. The two have been resided in the quarters of the Maskeliya Divisional Hospital.
+
+The woman who had previously made a father's daughter's milk tea when his husband had come to the house on April 13, the woman had taken a telephone call and brought to the house to the house of the hospital and imported the house.Maskeliya Police say that there has been a confession in front of the woman's parents.
 
 ...
 
 [Data](articles/24ad0e44.json)
+
+[Extended Data](ext_articles/24ad0e44.ext.json)
 
 ---
 
@@ -2257,81 +2363,5 @@ The CID is conducting further investigations into the suspect he was brought to 
 [Data](articles/7a9fd628.json)
 
 [Extended Data](ext_articles/7a9fd628.ext.json)
-
----
-
-### Showery conditions over most parts of the island to enhance in next few days
-
-*2024-05-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99054/showery-conditions-over-most-parts-of-the-island-to-enhance-in-next-few-days) · `en`
-
-The Meteorology Department says an enhancement of showery condition over most parts of the island is expected during next few days (after May 08th).
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western, Uva and Eastern provinces and in Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places elsewhere during the afternoon or night.
-
-Showers may occur over the coastal areas of Puttalam to Hambantota via Colombo and Galle during the morning too, it said.
-
-Fairly heavy showers about 50 mm are likely at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/f6c185b5.json)
-
-[Extended Data](ext_articles/f6c185b5.ext.json)
-
----
-
-### Sri Lanka says to issue single entry tourist visa for $50 amid VFS crisis
-
-*2024-05-07 06:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-to-issue-single-entry-tourist-visa-for-50-amid-vfs-crisis-161658/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has decided to issue a single-entry visa to tourists for 50 US dollars, the President’s media office said, after visa fees were hiked to 100 dollars with a shift to a private contractor.
-
-Sri Lanka was previously issuing a double entry visa for 50 dollars allowing tourists to visit neighboring countries and return in line with the island’s logistic hub status, and also to ‘come back for more’.
-
-“Amidst the notable progress in the country’s tourism sector, numerous stakeholders within the industry have recently urged President Ranil Wickremesinghe to maintain the maximum visa fee for foreigners at US $50,” the statement said.
-
-“They have also highlighted that this decision stands as significant support for the future growth of the tourism industry.
-
-“Consequently, President Ranil Wickremesinghe reached this decision after presenting the matter during today’s Cabinet meeting.”
-
-...
-
-[Data](articles/363b541a.json)
-
-[Extended Data](ext_articles/363b541a.ext.json)
-
----
-
-### Harsha queries Sri Lanka $200mn IVS-VFS Global investment claimed to justify high fees
-
-*2024-05-07 06:17:00* · [`economynextcom`](https://economynext.com/harsha-queries-sri-lanka-200mn-ivs-vfs-global-investment-claimed-to-justify-high-fees-161670/) · `en`
-
-ECONOMYNEXT – Sri Lanka opposition legislator Harsha de Silva has queried a 200 million dollar investment claim made by a private contractor which has been used to justify high fees charged from tourists for entry visas.
-
-“Can this be real?” de Silva asked in an x.com message publishing what was believed to be a cabinet memo.
-
-” IVS-GBS Global to invest USD 200 million (tech for website and cameras?) as per Cabinet Memo justifying outsource at USD 18.50+/visa. “Where did this investment go?
-
-He also questioned whether VFS Global was added later to the consortium.
-
-According to media reports SLT-Mobitel was willing to run a system at 1 dollar per visa.
-
-Sri Lanka’s Immigration Department had a user-friendly website which had drawn praise from tourists and travel website.
-
-As part of the shift, visa fees were pushed up from 50 to 100 dollars.
-
-Sri Lanka’s cabinet has now approved a 50 dollar single entry visa after protests from the industry, according to statement issued late Monday.
-
-◼️
-
-[Data](articles/079085af.json)
-
-[Extended Data](ext_articles/079085af.ext.json)
 
 ---

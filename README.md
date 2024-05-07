@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 20:18:25**
+As of **2024-05-07 20:33:21**
 
 ## Newspaper Stats
 
-*Scraped **22,545** Articles*
+*Scraped **22,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,281
 dailyftlk | 1,307
 adalk | 1,900
 tamilmirrorlk | 2,627
-adaderanalk | 2,652
+adaderanalk | 2,653
 virakesarilk | 3,371
 dailymirrorlk | 3,532
 adaderanasinhalalk | 3,618
@@ -26,25 +26,49 @@ adaderanasinhalalk | 3,618
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,516 (99.9%) of 22,545 articles have been extended.
+22,523 (99.9%) of 22,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### ඒකල කර්මාන්තශාලාවක ගින්නක්
+### Retirement age of nurses and other healthcare staff to be increased
+
+*2024-05-07 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99069/retirement-age-of-nurses-and-other-healthcare-staff-to-be-increased-) · `en`
+
+Health Minister Dr. Ramesh Pathirana said that a Cabinet paper was submitted to the Cabinet of Ministers to increase the retirement age of certain healthcare services including nursing staff to 61 years.
+
+The minister revealed this in response to a question raised by MP Gamini Waleboda in Parliament today (07).
+
+MP Waleboda further stated that even though a decision was taken to extend the retirement age of nursing and certain healthcare services to 63 years, it was not implemented. Due to this “the principal of the Nurses’ Training School in Ratnapura has retired and is now staying in the hospital without handing over the duties to another person or the next principal.”
+
+He also claimed that even heads of departments do not know whether the retirement age of 63 years will be implemented or not. Therefore, it has been difficult to maintain the operations of the school, he said.
+
+...
+
+[Data](articles/220c67d9.json)
+
+---
+
+### Fire on a solo factory
 
 *2024-05-07 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196380) · `si`
 
-ගිනි නිවීමේ රථ 3ක් යොදවා මේ වනවිට ගින්න සම්පූර්ණයෙන්ම පාලනය කර ඇති බවද පොලීසිය පැවසීය.
+A solo factory fire was extinguished with three fire extinguishers, leaving the fire undamaged but damaging the property. The cause is under investigation by the Jaeli police.
 
-ගින්නෙන් ජීවිත හානි සිදුව නොමැති අතර කර්මාන්තශාලාවේ දේපොළවලට හානි සිදුව ඇත.
+🟩
 
-කෙසේ වෙතත් ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ජාඇළ පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+The fire has been completely controlled by the fire with three fire extinguishers.
+
+The fire has not been damaged and the property has been damaged.
+
+However, the cause of the fire is yet to be ascertained and the Jaeli police are conducting further investigations.
 
 ◼️
 
 [Data](articles/d5e8ca21.json)
+
+[Extended Data](ext_articles/d5e8ca21.ext.json)
 
 ---
 
@@ -2279,31 +2303,5 @@ Opposition leader Sajith Premadasa and Niroshan Perera were also present at the 
 [Data](articles/4300e91e.json)
 
 [Extended Data](ext_articles/4300e91e.ext.json)
-
----
-
-### Sajith met the British group
-
-*2024-05-07 11:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரித்தானிய-குழுவை-சந்தித்தார்-சஜித்/175-336879) · `ta`
-
-Sajith Premadasa met with the British group in Colombo, discussing plans to end the current government's regime and protect democratic rights.
-
-🟩
-
-A special meeting between British Foreign Affairs, Commonwealth and Development Office was held in Colombo on Tuesday (07).
-
-In this regard: Opposition Leader Sajith Premadasa said that the two sides have been discussing a long time and the plans of their group to get rid of the bankruptcy.
-
-Moreover, Opposition Leader Sajith Premadasa Office, the Commonwealth and Development Office, is to end the bad regime of the current government, to defeat the government's efforts to dismantle the democratic rights of the people and to postpone the election, and to create the people's expectation.Director Ben Meller pointed to the delegation.
-
-Humairaa Hatia, Chief of the British Foreign Affairs, Commonwealth and Development Office, and British High Commissioner to Sri Lanka, Andrew Petrick and First Secretary Dom Chopper were also present.
-
-Opposition leader Sajith Premadasa and Niroshan Perera were also present at the event.
-
-◼️
-
-[Data](articles/ead2bea0.json)
-
-[Extended Data](ext_articles/ead2bea0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 20:33:21**
+As of **2024-05-07 20:52:10**
 
 ## Newspaper Stats
 
-*Scraped **22,546** Articles*
+*Scraped **22,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
-adalk | 1,900
+adalk | 1,901
 tamilmirrorlk | 2,627
 adaderanalk | 2,653
 virakesarilk | 3,371
 dailymirrorlk | 3,532
-adaderanasinhalalk | 3,618
+adaderanasinhalalk | 3,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,523 (99.9%) of 22,546 articles have been extended.
+22,533 (99.9%) of 22,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### ඩිල්ශාන්ගේ පියා දිවියෙන් සමුගනී
+
+*2024-05-07 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196381) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ හිටපු සුපිරි ක්‍රීඩක තිලකරත්න ඩිල්ශාන්ගේ පියා අභාවප්‍රාප්ත වී තිබේ.
+
+ඒ මහතාගේ අවසන් කටයුතු කළුතර පළාතොට පොදු සුසාන භුමියේදී 09 වනදා සිදුකිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/b413496b.json)
+
+---
 
 ### Retirement age of nurses and other healthcare staff to be increased
 
@@ -47,6 +61,8 @@ He also claimed that even heads of departments do not know whether the retiremen
 ...
 
 [Data](articles/220c67d9.json)
+
+[Extended Data](ext_articles/220c67d9.ext.json)
 
 ---
 
@@ -237,6 +253,22 @@ The suspects have been handed over to the Police Narcotics Bureau for further in
 [Data](articles/0f7d756a.json)
 
 [Extended Data](ext_articles/0f7d756a.ext.json)
+
+---
+
+### ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ ප්‍රධාන අනුග්‍රාහකයා අමූල්
+
+*2024-05-07 18:28:02* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-කුසලානයේදී-ශ්‍රී-ලංකා-කණ්ඩායමේ-ප්‍රධාන-අනුග්‍රාහකයා-අමූල්/11-409480) · `si`
+
+ඇමරිකාවේ හා බටහිර ඉන්දීය කෝදෙව් දූපත්හි පැවැත්වීමට නියමිත මෙවර  2024 විස්සයි විස්ස ලෝක කුසලානයේ දි ශ්‍රී ලංකා ක්‍රිකට්  කණ්ඩායමේ   ප්‍රධාන අනුග්‍රාහකයා ලෙස ඉන්දීය අමුල් සමාගම එක් වී ඇත.
+
+ඉන්දියාවේ විශාලතම කිරි නිෂ්පාදකයා වන අමුල් සමාගම සමගින් වන මෙම නව ගිවිසුම ලංකා ක්‍රිකට් ආයතනය විසින් අද (07දා) නිවේදනය කළේය.
+
+අමුල් සමාගම මීට පෙර පසුගිය වසරේ (2023) ඉන්දියාවෙ පැවති එක්දින  ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ  අනුග්‍රාහකයෙකු ලෙස ක්‍රියා කළේය. විස්සයි විස්ස ලෝක කුසල්ය එළඹෙන ජූනි 01දා සිට 29දා දක්වා පැවැත්වේ.
+
+◼️
+
+[Data](articles/6d01d5bc.json)
 
 ---
 
@@ -2245,63 +2277,5 @@ Therefore, we have to save us from the disaster of heat.
 [Data](articles/b35d7b57.json)
 
 [Extended Data](ext_articles/b35d7b57.ext.json)
-
----
-
-### 359 Siddha medical students by Ayurvedic Department - Varnakulasingham Praveen
-
-*2024-05-07 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182868) · `ta`
-
-Varnakulasingham Praveen, representing 359 Siddha medical students, criticized the Ayurvedic Department for delaying their internal training, which is essential for doctor registration. The University Grants Commission granted permission for only 60 students, blaming government funding issues. The students demand action to address the delay, affecting their future careers.
-
-🟩
-
-"We have been affected by some of the messy measures of the Ayurvedic Department," said Varnakulasingham Praveen, the representative of Siddha medical students.
-
-Yall. He said this during a media briefing held at the Media Center on Monday (06).
-
-359 Siddha medical students across Sri Lanka have to wait for internal training.
-
-While talking about our issue, they said that the University Grants Commission had only given permission to 60 people.
-
-Internal training is the right of all students. How can the University Grants Commission grant this permission only to 60 students.
-
-The delay was due to the government's allocation of funds. If so, it is not the fault of the students, the fault of the government.
-
-This is because other departments including the Ayurvedic Department. With their actions, we are unable to complete our learning.
-
-Despite being 30 years of age, our learning has not been completed as we have not completed a long -standing internal training.
-
-...
-
-[Data](articles/f4f059f8.json)
-
-[Extended Data](ext_articles/f4f059f8.ext.json)
-
----
-
-### Meeting between the British High Committee and Sajith
-
-*2024-05-07 11:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரித்தானிய-உயர்மட்டக்-குழுவிற்கும்-சஜித்திற்குமிடையில்-சந்திப்பு/175-336879) · `ta`
-
-A meeting between British Foreign Affairs and Sajith Premadasa in Colombo discussed plans to end the current government's regime, protect democratic rights, and delay elections.
-
-🟩
-
-A special meeting between British Foreign Affairs, Commonwealth and Development Office was held in Colombo on Tuesday (07).
-
-In this regard: Opposition Leader Sajith Premadasa said that the two sides have been discussing a long time and the plans of their group to get rid of the bankruptcy.
-
-Moreover, Opposition Leader Sajith Premadasa Office, the Commonwealth and Development Office, is to end the bad regime of the current government, to defeat the government's efforts to dismantle the democratic rights of the people and to postpone the election, and to create the people's expectation.Director Ben Meller pointed to the delegation.
-
-Humairaa Hatia, Chief of the British Foreign Affairs, Commonwealth and Development Office, and British High Commissioner to Sri Lanka, Andrew Petrick and First Secretary Dom Chopper were also present at the meeting.
-
-Opposition leader Sajith Premadasa and Niroshan Perera were also present at the event.
-
-◼️
-
-[Data](articles/4300e91e.json)
-
-[Extended Data](ext_articles/4300e91e.ext.json)
 
 ---

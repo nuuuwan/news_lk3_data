@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 22:05:29**
+As of **2024-05-07 22:18:09**
 
 ## Newspaper Stats
 
-*Scraped **22,559** Articles*
+*Scraped **22,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
-adalk | 1,902
+adalk | 1,903
 tamilmirrorlk | 2,628
 adaderanalk | 2,654
 virakesarilk | 3,376
@@ -26,37 +26,43 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,558 (100.0%) of 22,559 articles have been extended.
+22,559 (100.0%) of 22,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### එපා කී විවාහය කරගත්තාට ගන්න හැදූ පළිය
+### The wake of getting married to the marriage
 
 *2024-05-07 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196382) · `si`
 
-මව්පියන්ගේ විරෝධය මැද විවාහයක් කරගත් දියණියගේ පවුලට ඇයගේ පියා විසින් දැඩිව බලපෑම් කිරීමේ සිද්ධියක් පන්නිපිටිය ප්‍රදේශයෙන් වාර්තා වෙයි.
+A young couple, influenced by their fathers, faced issues in their marriage. They moved to Dubai but returned to live with the bride's family. The CID and two officers were involved in a case where they threatened the family. The suspects were found at a hotel and handed over to the police. The suspect was released on bail.
 
-විවාහයෙන් පසුව ඔවුන් දෙදෙනා ජීවත්ව සිට තිබුණේ, පන්නිපිටිය වීරමාවතේ පිහිටි තරුණයාගේ නිවසේය.
+🟩
 
-දිගින් දිගටම එල්ල වූ මේ බලපෑම් දරාගත නොහැකිව ඔවුන් දෙපළ ඩුබායි බලා පිටත්ව ගොස් තිබුණි.
+She was strictly influenced by her father to the family of her father who was married in the face of their parents.
 
-ඔවුන් පවසන්නේ, එම රටටද පැමිණි තරුණියගේ පියා තමන්ට බලපෑම් කළ බවය.
+After marriage, they were alive at the youth of the young man at the Pannipitiya Vamarana.
 
-පසුව මෙම තරුණ යුවල යළි දිවයිනට පැමිණ වීරමාවතේ නිවසේ ජීවත්ව තිබුණි.
+They were unable to cope with the two and left for Dubai.
 
-මෙවන් පසුබිමක පසුගිය 29 වැනිදා දහවල් පන්නිපිටියේ පිහිටි තරුණයාගේ නිවසට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් බවට පවසමින් පුද්ගලයින් තිදෙනකු පැමිණි බව ඔවුන් පවසයි .
+They say, the father of the girl who had come to the country had influenced them.
 
-එම අවස්ථාවේ නිවසේ සිටි මවගේ, ජංගම දුරකථනය පරීක්ෂා කර ඇති ඔවුන් මවට තර්ජනය කරමින් තරුණයාගේ ඡායාරූප කිහිපයක් ඔවුන්ගේ දුරකථන වලට යොමුකර ගෙන ඇති බව ඔවුන් පවසයි.
+The young couple returned to the island and lived in the house of the heara.
 
-එම නිලධාරී යැයි කියූ පිරිසගේ දුරකථන අංකයකට එදින පස්වරුවේ තරුණයාගේ පියා ඇමතුමක් ලබාදී තිබුණි.
+They say that three persons have come to call the house of the CID to the youth of the Pannipitiya on the 29th of this afternoon.
 
-පසුව අදාළ දියණියගේ පියාට අයත් බවට පැවසෙන තලවතුගොඩ පිහිටි හෝටලයක ඔවුන් තිදෙනා මත්පැන් පානය කරමින් සිටියදී සොයාගෙන තිබුණි.
+They have tested the mother of the house, the mobile phone in the house, threatening the mother and sent some photos of the young man to their phones.
+
+The number of people 'father was called on a complaint.
+
+The three of them were found at a hotel in Talawatugoda, which is later called the father of the daughter's father.
 
 ...
 
 [Data](articles/b0ee5d3f.json)
+
+[Extended Data](ext_articles/b0ee5d3f.ext.json)
 
 ---
 
@@ -413,6 +419,24 @@ A review petition filed by Justice Minister Vijayadasa Rajapakse today dismissed
 [Data](articles/e380138f.json)
 
 [Extended Data](ext_articles/e380138f.ext.json)
+
+---
+
+### හෙද සේවයට අලුතින් 3000ක්
+
+*2024-05-07 18:46:27* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සේවයට-අලුතින්-3000ක්/11-409483) · `si`
+
+හෙඳ සේවය සඳහා 3,000ක් බඳවා ගැනීට සූදානම් බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+
+විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා අද (07දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+හෙඳ සේවයේ වර්තමානයේ පුරප්පාඩු 1000ට ආසන්න ප්‍රමාණයක් තිබෙන බවද සෞඛ්‍ය අමාත්‍යවරයා එහිදී පැවසීය.
+
+විපක්ෂනායක සජිත් ප්‍රේමදාස - 2019,2020 වසර වල අ.පො.ස උසස් පෙළ විභාගයට ජීව විද්‍යාව, ගණිත අංශයෙන් පෙනී සිටි සිසුන්ව හෙද සේවාවට බඳවා ගැනීම සඳහා වන ගැසට් පත්‍රය 2023.09.15 වැනිදා නිකුත් කරලා දැනට 3,100ක් බඳවා ගෙන තිබෙනවා. තවත් 3,863ක් බඳවා ගැනීමේ පොරොත්තු ලේකනයේ තිබෙනවා. ඒත් ඒ බඳවා ගැනීම සිදුවෙලා නෑ. මම ඔබතුමාගෙන් ඉල්ලීමක් කරනවා 45,000ක පමණ හෙද හිඟයක් මේ රටේ තිබෙන මොහොතක කරැණාකරලා ඉක්මනින් මේ ඉතිරි 3,100ත් බඳවා ගැනීමේ ක්‍රියාවලිය සිදු කරන්න.
+
+...
+
+[Data](articles/8e8d65a5.json)
 
 ---
 
@@ -2267,35 +2291,5 @@ Minister Wijesekara said there was a proper procedure for power disconnections a
 [Data](articles/d7b1c8a0.json)
 
 [Extended Data](ext_articles/d7b1c8a0.ext.json)
-
----
-
-### Belgium -based pilot, who worked as a SriLankan Airlines pilot, was physically insulting Sri Lankan pilots;Exposed the racism - the new controversy
-
-*2024-05-07 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182873) · `ta`
-
-A Belgium-based pilot, previously with SriLankan Airlines, faced racism and physical insults from SriLankan pilots. The incident involved seat allocation and boarding issues, leading to a controversy.
-
-🟩
-
-The Belgium flight attendant, who worked as a SriLankan Airlines pilot, has been physically humiliated by the SriLankan Airlines pilots, according to DailyMirr.
-
-In December, SriLankan Airlines leased two flights from Belgium to strengthen its airline.
-
-These flights travel from Colombo to Frankfurt Dhaka Dubai Paris Chennai Airports.
-
-On April 30, the flight from Colombo to the capital of France from Colombo has announced that Sri Lankan pilots have not allocated seats in the business class- they said they could not allocate seats as there was only one seat in the category.
-
-It is customary for pilots to allocate seats in business class as pilots travel abroad to return the aircraft.
-
-Meanwhile, SriLankan Airlines have been given a seat in the Business Class of Airbelgium without notifying air workers.
-
-SriLankan Airlines pilots, who were aware of the plane to board the plane, refused to board the plane.
-
-...
-
-[Data](articles/2c610e14.json)
-
-[Extended Data](ext_articles/2c610e14.ext.json)
 
 ---

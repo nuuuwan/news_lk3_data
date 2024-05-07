@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 17:03:37**
+As of **2024-05-07 17:18:18**
 
 ## Newspaper Stats
 
@@ -56,7 +56,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-07 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99066/fowzies-son-arrested-over-assault-incident) · `en`
 
-Former Provincial Councillor Nauzer Fowzie has been arrested for allegedly assaulting a person following a road accident involving his vehicle, police said.
+Former Provincial Councillor Nauzer Fowzie has been arrested by Kollupitiya Police for allegedly assaulting a person following an accident involving his vehicle, police said.
+
+He is accused of assaulting an individual after hitting that same person with his vehicle on School Lane in Kollupitiya.
 
 Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been released on police bail.
 
@@ -144,7 +146,15 @@ Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Min
 
 The Court of Appeal today dismissed the petition filed by Minister Wijeyadasa Rajapakshe seeking to suspend the interim injunction issued by the Colombo District Court preventing him from functioning as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
 
-◼️
+Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of SLFP during an executive committee meeting held on April 21, by the party’s faction led by former President Maithripala Sirisena.
+
+On April 24, the Colombo District Court issued an injunction order preventing Minister Wijeyadasa from functioning as the Acting Chairman of the SLFP.
+
+The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
+
+Meanwhile, the court had issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
+
+...
 
 [Data](articles/ec655f75.json)
 

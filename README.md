@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 20:52:10**
+As of **2024-05-07 21:18:27**
 
 ## Newspaper Stats
 
-*Scraped **22,548** Articles*
+*Scraped **22,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,145 @@ dailyftlk | 1,307
 adalk | 1,901
 tamilmirrorlk | 2,627
 adaderanalk | 2,653
-virakesarilk | 3,371
-dailymirrorlk | 3,532
+virakesarilk | 3,376
+dailymirrorlk | 3,534
 adaderanasinhalalk | 3,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,533 (99.9%) of 22,548 articles have been extended.
+22,547 (100.0%) of 22,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### ඩිල්ශාන්ගේ පියා දිවියෙන් සමුගනී
+### ஏகலயில் உள்ள தொழிற்சாலை ஒன்றில் தீ விபத்து!
+
+*2024-05-07 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182925) · `ta`
+
+ஏகல பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் செவ்வாய்க்கிழமை (7) பிற்பகல் தீ விபத்து ஏற்பட்டுள்ளது.
+
+இந்த தீ விபத்து செவ்வாய்க்கிழமை (7) மாலை 7 மணியளவில் ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+3 தீயணைப்பு வாகனங்கள் மூலம் தீயை முழுமையாகக் கட்டுப்படுத்தியுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+இந்த தீ விபத்தில் உயிர் சேதம் எதுவும் ஏற்படவில்லை ஆனால் தொழிற்சாலையின் உடைமைகள் சேதம் அடைந்துள்ளன.
+
+எவ்வாறாயினும், தீப்பரவலுக்கான காரணம் இதுவரை வெளியாகவில்லை என்பதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை ஜல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/aeef5e9b.json)
+
+---
+
+### Exclude Health Ministry from drug procurement to curb corruption: GMOF urges government
+
+*2024-05-07 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclude-Health-Ministry-from-drug-procurement-to-curb-corruption-GMOF-urges-government/108-282103) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) urged the government to refrain from including the Health Ministry in centralized drug procurement to reduce corruption.
+
+GMOF president Dr. Rukshan Bellana told the Daily Mirror that the existing problem of medicine shortages in the health sector fluctuates between availability. Alongside shortages, the quality of existing medicine stocks is often substandard.
+
+Corruption and centralized drug procurement are identified as the root causes of these issues, he said.
+
+...
+
+[Data](articles/0f11e45c.json)
+
+[Extended Data](ext_articles/0f11e45c.ext.json)
+
+---
+
+### Exclude Health Ministry from drug procurement: GMOF to government
+
+*2024-05-07 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclude-Health-Ministry-from-drug-procurement-GMOF-to-government/108-282103) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) urged the government to refrain from including the Health Ministry in centralized drug procurement to reduce corruption.
+
+GMOF president Dr. Rukshan Bellana told the Daily Mirror that the existing problem of medicine shortages in the health sector fluctuates between availability. Alongside shortages, the quality of existing medicine stocks is often substandard.
+
+Corruption and centralized drug procurement are identified as the root causes of these issues, he said.
+
+...
+
+[Data](articles/49670b72.json)
+
+---
+
+### 3000 தாதியர்களை புதிதாக இணைத்துக்கொள்ள நடவடிக்கை  - அமைச்சர் ரமேஷ் பத்திரண
+
+*2024-05-07 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182924) · `ta`
+
+அரசாங்க வைத்தியசாலைகளில் நிலவும் தாதியர் வெற்றிடங்களை நிரப்புவதற்காக 3000 தாதியர்களை புதிதாக இணைத்துக் கொள்வதற்கான நடவடிக்கைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சுகாதார மற்றும் கைத்தொழில் அமைச்சர் ரமேஷ் பத்திரண தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எழுப்பிய கேள்வி ஒன்றுக்குப் பதிலளிக்கும் போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+2019 மற்றும் 2020 ஆம் ஆண்டுகளில் கல்வி பொது தராதர உயர் தரத்தில் கணிதம், உயிரியல்  விஞ்ஞானம் ஆகிய பாடங்களில் தோற்றியுள்ள மாணவர்கள் தாதியர் சேவைக்கு இணைத்துக் கொள்ளப்படவுள்ளனர். அதற்கான வர்த்தமானி அறிவித்தல் கடந்த வருடம் செப்டம்பர் 15 ஆம் திகதி வெளியிடப்பட்டுள்ளது.
+
+தற்போது 3100 பேர் அதற்காக இணைத்துக் கொள்ளப்பட்டுள்ளனர். அந்த வகையில் மேலும் 3863 பேர் இந்த சேவையில் இணைத்துக் கொள்வதற்காக காத்திருப்பு பட்டியலில் காணப்படுகின்றனர் என்றார்.
+
+அத்துடன் நாட்டில் 45,000 தாதியர்கள் சேவையில் உள்ளனர். தற்போது சுமார் 1000 பேருக்கான வெற்றிடமே நிலவுகிறது. அந்த வெற்றிடங்களையும் விரைவில் நிரப்ப நடவடிக்கை எடுப்போம்.
+
+...
+
+[Data](articles/02acfde1.json)
+
+---
+
+### Dilshan's father retires
 
 *2024-05-07 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196381) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ හිටපු සුපිරි ක්‍රීඩක තිලකරත්න ඩිල්ශාන්ගේ පියා අභාවප්‍රාප්ත වී තිබේ.
+Dilshan's father, Tillakaratne Dilshan, passed away. His funeral is in Kalutara's General Cemetery.
 
-ඒ මහතාගේ අවසන් කටයුතු කළුතර පළාතොට පොදු සුසාන භුමියේදී 09 වනදා සිදුකිරීමට නියමිතව ඇත.
+🟩
+
+Former Sri Lanka Cricket Team Tillakaratne Dilshan has passed away.
+
+His funeral will be held in the General Cemetery, Kalutara area.
 
 ◼️
 
 [Data](articles/b413496b.json)
+
+[Extended Data](ext_articles/b413496b.ext.json)
+
+---
+
+### இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவுக்கு 'கோபியோ' அமைப்பினால் கௌரவம்
+
+*2024-05-07 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182923) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகராக அண்மையில் பொறுப்பேற்றுக்கொண்ட சந்தோஷ் ஜாவை கௌரவிக்கும் வகையில் 'கோபியோ' அமைப்பினால் திங்கட்கிழமை (6) கொழும்பு தாஜ்சமுத்ரா ஹோட்டலில் இரவு விருந்துபசார நிகழ்வின் போது....
+
+◼️
+
+[Data](articles/51f7551a.json)
+
+---
+
+### உக்ரைன் ஜனாதிபதியை கொல்வதற்கான ரஸ்யாவின் சதிமுயற்சி முறியடிப்பு - இருவர் கைது
+
+*2024-05-07 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182922) · `ta`
+
+உக்ரைன் ஜனாதிபதி வொலெடிமிர் ஜெலென்ஸ்கியை படுகொலை செய்வதற்கு ரஸ்யா மேற்கொண்ட முயற்சிகளை முறியடித்துள்ளதாக உக்ரைன் தெரிவித்துள்ளது.
+
+கொலைமுயற்சியுடன் தொடர்புபட்டவர்கள் என்ற சந்தேகத்தில் உக்ரைன் அரசாங்கத்தின் பாதுகாப்பு வழங்கும் பிரிவின் இரு அதிகாரிகள் கைதுசெய்யப்பட்டுள்ளனர்.
+
+ரஸ்ய பாதுகாப்பு படையினரின் முகவர்களின் ஒரு பகுதியாக இவர்கள் செயற்பட்டனர் என உக்ரைன் தெரிவித்துள்ளது.
+
+உக்ரைன் ஜனாதிபதியை கடத்தி கொலை செய்யக்கூடிய எவராவது அவரது மெய்பாதுகாவலர்கள் மத்தியில் உள்ளனரா என்பதை கண்டறிவதற்கான முயற்சியில் கைதுசெய்யப்பட்ட இருவரும் ஈடுபட்டிருந்தனர் என உக்ரைன் தெரிவித்துள்ளது.
+
+உக்ரைனின் இராணுவபுலனாய்வு பிரிவின் தலைவர் புலனாய்வு பிரிவின்  தலைவர் ஆகியோரை கொலை செய்யவும் திட்டமிடப்பட்டிருந்ததாக தகவல்கள் வெளியாகியுள்ளன.
+
+கைதுசெய்யப்பட்டவர்களில் ஒருவர் ஏற்கனவே கொலை முயற்சிக்கா ஆளில்லா விமானங்களையும் கண்ணிவெடிகளையும் கொள்வனவு செய்திருந்தார்.
+
+◼️
+
+[Data](articles/ee8cc62f.json)
 
 ---
 
@@ -85,6 +199,20 @@ However, the cause of the fire is yet to be ascertained and the Jaeli police are
 [Data](articles/d5e8ca21.json)
 
 [Extended Data](ext_articles/d5e8ca21.ext.json)
+
+---
+
+### இலங்கை உள்ளடங்கலாக உலகெங்கிலும் பரந்து வாழும் புலம்பெயர் இந்தியர்களே எமது நாட்டின் முக்கிய தூதுவர்கள் -  இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா
+
+*2024-05-07 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182921) · `ta`
+
+இலங்கை உள்ளடங்கலாக உலகெங்கிலும் பரந்துபட்டு வாழும் புலம்பெயர் இந்தியர்களே இந்திய தேசத்தின் மிகமுக்கிய தூதுவர்களாவர். இன்றளவிலே உலகளாவிய ரீதியில் இந்தியா குறித்துக் கட்டியெழுப்பப்பட்டுள்ள பிம்பமானது உங்களது (புலம்பெயர் இந்தியர்கள்) செயற்பாடுகளையே அடிப்படையாகக் கொண்டமைந்திருக்கின்றது. அதேவேளை புலம்பெயர் இந்தியர்களின் நலன்களை உறுதிப்படுத்துவதில் இந்திய அரசாங்கம் அரசியல் ரீதியான தன்முனைப்பைக் கொண்டிருக்கின்றது என இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா தெரிவித்துள்ளார்.
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகராக அண்மையில் பொறுப்பேற்றுக்கொண்ட சந்தோஷ் ஜாவை கௌரவிக்கும் வகையில் 'கோபியோ' அமைப்பினால் திங்கட்கிழமை (6) கொழும்பு தாஜ்சமுத்ரா ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த இரவு விருந்துபசார நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே உயர்ஸ்தானிகர் சந்தோஷ் ஜா மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது;
+
+...
+
+[Data](articles/f33ad117.json)
 
 ---
 
@@ -256,19 +384,25 @@ The suspects have been handed over to the Police Narcotics Bureau for further in
 
 ---
 
-### ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ ප්‍රධාන අනුග්‍රාහකයා අමූල්
+### Amal Sponsor of Sri Lankan team at World Cup
 
 *2024-05-07 18:28:02* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-කුසලානයේදී-ශ්‍රී-ලංකා-කණ්ඩායමේ-ප්‍රධාන-අනුග්‍රාහකයා-අමූල්/11-409480) · `si`
 
-ඇමරිකාවේ හා බටහිර ඉන්දීය කෝදෙව් දූපත්හි පැවැත්වීමට නියමිත මෙවර  2024 විස්සයි විස්ස ලෝක කුසලානයේ දි ශ්‍රී ලංකා ක්‍රිකට්  කණ්ඩායමේ   ප්‍රධාන අනුග්‍රාහකයා ලෙස ඉන්දීය අමුල් සමාගම එක් වී ඇත.
+Amal Sponsor of Sri Lankan team at World Cup. Indian Amul Company sponsors Sri Lankan cricket team at 2324 Twenty20 World Cup, USA and West. Announced by Ceylon Cricket with Amul, previously sponsored in 2023 ODI World Cup in India. Event runs from June 1 to 29.
 
-ඉන්දියාවේ විශාලතම කිරි නිෂ්පාදකයා වන අමුල් සමාගම සමගින් වන මෙම නව ගිවිසුම ලංකා ක්‍රිකට් ආයතනය විසින් අද (07දා) නිවේදනය කළේය.
+🟩
 
-අමුල් සමාගම මීට පෙර පසුගිය වසරේ (2023) ඉන්දියාවෙ පැවති එක්දින  ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායමේ  අනුග්‍රාහකයෙකු ලෙස ක්‍රියා කළේය. විස්සයි විස්ස ලෝක කුසල්ය එළඹෙන ජූනි 01දා සිට 29දා දක්වා පැවැත්වේ.
+Indian Munal Company has joined the Sri Lankan cricket team at the Sri Lanka Cricket team at the 2324 Twenty20 World Cup, USA and West.
+
+The New Testament was announced by the Ceylon Cricket (7)) with the largest dairy manufacturer in India.
+
+The Amul preceded last year (2023), the Sri Lankan team sponsorship at the One ODI World Cup in India. Twentyi Twenty World Kudusha is going to be held from June 1 to 29.
 
 ◼️
 
 [Data](articles/6d01d5bc.json)
+
+[Extended Data](ext_articles/6d01d5bc.ext.json)
 
 ---
 
@@ -2119,163 +2253,5 @@ The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army
 [Data](articles/7276b171.json)
 
 [Extended Data](ext_articles/7276b171.ext.json)
-
----
-
-### Health Trade Unions again on a continuous strike
-
-*2024-05-07 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196366) · `si`
-
-Health Trade Unions resume continuous strike from May 09.
-
-🟩
-
-Health Trade Unions have decided to resume a continuous strike from May 09.
-
-◼️
-
-[Data](articles/ce03d561.json)
-
-[Extended Data](ext_articles/ce03d561.ext.json)
-
----
-
-### Two prabelines intervene in Iranian nuclear crisis
-
-*2024-05-07 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196365) · `si`
-
-Chinese President Xi Jinping and French President Emmanuel Macron discussed Iranian nuclear crisis, strategic communication, and bilateral trade in Paris. They aim to ensure strategic stability and face global challenges together.
-
-🟩
-
-A discussion between the Chinese President Xi Jin French President Emmanuel Macrone has been held in Paris, foreign media reports.
-
-Si Jinping has emphasized that continuing strategic communication with France, he is expecting to ensure the strategic stability of bilateral relationship.
-
-China has also said that China is also expected to promote bilateral trade in bilateral trade in a positive and balanced trade with France.
-
-The President of the President said that the two countries will play the most important roles to face global challenges and to prevent crowd rivalry.
-
-It is reported that the two leaders have also received ideas on international and regional issues that should be considered in the Ukraine crisis and the Palestinian conflict.
-
-After the meeting, the two presidentials have issued the two presidents said that the two countries are dedicated to the Iranian nuclear crisis.
-
-◼️
-
-[Data](articles/a591bb9e.json)
-
-[Extended Data](ext_articles/a591bb9e.ext.json)
-
----
-
-### We will prohibit licenses
-
-*2024-05-07 12:07:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிமங்களை-தடை-செய்வோம்/175-336881) · `ta`
-
-The United People's Power Government plans to cancel all liquor licenses targeting elections, aiming to prevent corruption. Opposition Leader Sajith Premadasa has threatened to ban these licenses through a Parliamentary Act if the courts intervene.
-
-🟩
-
-To stop the process of issuing liquor licenses targeting elections. If people come to power with blessings by the end of this year, this will stop. All these licenses in the United People's Power Government will be canceled. Opposition Leader Sajith Premadasa told parliament on Tuesday that if the courts seek the courts, they will ban these licenses through the Parliamentary Act.
-
-I have previously brought to the notice of Parliament regarding the restaurant with a liquor license at the Wellangahawa junction of the Embilipitiya Divisional Secretariat, Ratnapura.. I am concerned about the question again. The Opposition Leader said that despite the fierce opposition of the Maha Sangam, it has been reopen.
-
-◼️
-
-[Data](articles/e77a003e.json)
-
-[Extended Data](ext_articles/e77a003e.ext.json)
-
----
-
-### "I strangled my mother's neck" - The boy arrested in Jaffna
-
-*2024-05-07 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182876) · `ta`
-
-A 16-year-old boy in Jaffna confessed to strangling his mother, leading to her death. The boy, who was depressed and addicted to mobile games, disappeared and was later arrested.
-
-🟩
-
-A 16 -year -old boy has reported in police investigations that I have strangled her mother's neck.
-
-The body of a woman who died from a house was recovered from a house last Friday (03) in Tellipalai area in Jaffna.
-
-Henatic Jasmin (age 37), a woman from Tellippalai area, has been recovered.. Her husband lives abroad as she lives with his two children.
-
-The next day the woman dies. The 16 -year -old boy, the son of a woman, disappeared from home and blood stains were found on the walls of the house.
-
-The police arrested a 16 -year -old boy who disappeared while investigating the matter.
-
-Investigations carried out by the arrested boy had confessed that he had strangled his mother's neck and murdered.
-
-At the same time, the boy's mentally retarded neighbors said. The police media spokesman on the 05th of last month said that the boy was addicted to mobile games (mobile games) and the boy was very depressed.
-
-◼️
-
-[Data](articles/062e12e7.json)
-
-[Extended Data](ext_articles/062e12e7.ext.json)
-
----
-
-### A Colombo main road is blocked due to protest
-
-*2024-05-07 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196364) · `si`
-
-A Colombo main road near the University Grants Commission is blocked by non-academic workers' protest, causing severe traffic.
-
-🟩
-
-It is reported that the road in front of the Colombo University Grants Commission has been blocked due to protest of university non-academic workers.
-
-Our correspondent said that the road was severely traffic.
-
-◼️
-
-[Data](articles/7e041e7f.json)
-
-[Extended Data](ext_articles/7e041e7f.ext.json)
-
----
-
-### Unidentified body recovered from Diyawanna Lake
-
-*2024-05-07 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99059/unidentified-body-recovered-from-diyawanna-lake) · `en`
-
-An unidentified body has been recovered by police in the Diyawanna Lake along the Parliament Road, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/79f2e344.json)
-
-[Extended Data](ext_articles/79f2e344.ext.json)
-
----
-
-### In the yarns. Hyperidosis
-
-*2024-05-07 11:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-அதிக-வெப்பத்தால்-ஐவர்-உயிரிழப்பு/71-336880) · `ta`
-
-Jaffna heat wave kills 5; high temperatures lead to "Heat Stroke," affecting kidney, heart, and respiratory systems. Prevention includes drinking cold drinks, providing water to the elderly, and consuming fruits like watermelon and cucumber.
-
-🟩
-
-Five people have died due to the high heat and heat wave in Jaffna, said General Medical Expert at the Jaffna Hospital, R. Paranandarajah.
-
-There is currently a high hot climate in Jaffna. A man's body can withstand the heat of 40.5 centigrade or 105 paranoid. When it crosses, serious impacts will occur.
-
-So that sweat, sweat, etc.. Increasing sweating, the body will reduce the amount of water and dizziness.
-
-"Heat Stroke" occurs when this situation continues. In addition, the kidney, heart, and respiratory will lose action. Meanwhile, the number of blood vessels will decrease and the body will be badly affected. There are also incidents of losing brain function.
-
-About 05 people who were receiving treatment at Jaffna Bodhana died due to "Heat Stroke". Although their deaths are due to the conditions they already have, the increased heat is the cause of the disease and the cause of their death.
-
-Therefore, we have to save us from the disaster of heat.
-
-...
-
-[Data](articles/b35d7b57.json)
-
-[Extended Data](ext_articles/b35d7b57.ext.json)
 
 ---

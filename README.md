@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 13:52:53**
+As of **2024-05-07 14:03:39**
 
 ## Newspaper Stats
 
-*Scraped **22,467** Articles*
+*Scraped **22,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,224
 economynextcom | 1,279
 dailyftlk | 1,307
 adalk | 1,884
-tamilmirrorlk | 2,615
+tamilmirrorlk | 2,616
 adaderanalk | 2,643
 virakesarilk | 3,359
-dailymirrorlk | 3,518
-adaderanasinhalalk | 3,605
+dailymirrorlk | 3,521
+adaderanasinhalalk | 3,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,265 (99.1%) of 22,467 articles have been extended.
+22,265 (99.1%) of 22,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### මන්නා රමේෂ්ව රඳවාගෙන ප්‍රශ්න කරන්න අවසර
+
+*2024-05-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196368) · `si`
+
+ඩුබායිහිදී අත්අඩංගුවටගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන රමේෂ් ප්‍රියජනක හෙවත් මන්නා රමේෂ්ව දින 14ක් රඳවාගෙන ප්‍රශ්න කිරීමට අධිකරණය අවසර ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/1c86208e.json)
+
+---
+
+### மாத்தளை பஸ்ஸில் பயணித்த பயணி மரணம்
+
+*2024-05-07 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாத்தளை-பஸ்ஸில்-பயணித்த-பயணி-மரணம்/76-336887) · `ta`
+
+கொழும்பில் இருந்து மாத்தளை நோக்கி பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பேருந்தில் பயணித்த பயணி ஒருவர் உயிரிழந்துள்ளதாக நிட்டம்புவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+தம்புள்ளை டிப்போவிற்கு சொந்தமான இந்த பஸ் நிட்டம்புவ பிரதேசத்தை செவ்வாய்க்கிழமை (07) அண்மித்த போது, ​​பின் இருக்கையில் பயணித்தவர் சுகயீனமுற்றிருப்பதை அறிந்ததும் பஸ் நிட்டம்புவ பொலிஸாருக்கு அருகில் நிறுத்தப்பட்டு அம்புலன்ஸ் வாகனத்தை கொண்டு வர நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அம்புலன்ஸில் வந்த வைத்திய அதிகாரிகளால் பரிசோதிக்கப்பட்ட போது, நோயாளி ஏற்கனவே உயிரிழந்து விட்டதாக தெரியவந்ததையடுத்து, பொலிஸார் தலையிட்டு சடலத்தை வத்துப்பிட்டிவல ஆதார வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டது.
+
+உயிரிழந்த முதியவரின் விவரம் வெளியாகவில்லை. சம்பவம் தொடர்பில் நிட்டம்புவ பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/f3fcb378.json)
+
+---
+
+### Two special teams assigned to investigate into collapse of concrete beam: RDA
+
+*2024-05-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-special-teams-assigned-to-investigate-into-collapse-of-concrete-beam-RDA/108-282094) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Road Development Authority (RDA) has assigned two special teams to carry out a comprehensive investigation into the collapse of a concrete beam in the first section of the Central Expressway project, the RDA Director General said.
+
+He said that through these inspections, these officials will quickly check the current condition of all the concrete beams constructed along the Central Expressway Project Part I and apply the necessary remedies.
+
+"This will ensure that the expressway is built to the required standards and conditions and that full supervision and follow-up are carried out on a regular basis to maintain it safely. Since this section of the highway is currently under construction, the road construction contractor has to bear the financial loss incurred for this purpose," the Director General said.
+
+...
+
+[Data](articles/09130027.json)
+
+---
+
+### Over Rs. 01 bn swindled through online scams; CB fails to take action: MP
+
+*2024-05-07 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-Rs-01-bn-swindled-through-online-scams-CB-fails-to-take-action-MP/108-282093) · `en`
+
+Parliament, May 07 (Daily Mirror)- The Central Bank of Sri Lanka (CBSL) has failed to act swiftly to stop financial scams operating online, allowing fraudsters to swindle about one billion rupees from over 1,000 account holders, Parliamentarian Gamini Waleboda said today.
+
+The MP told Parliament that on April 25 he had revealed in Parliament that a scam was being operated online to transfer money from current and savings accounts to other accounts using mobile apps and that neither the Central Bank nor the Finance Ministry had taken any steps regarding the scam so far.
+
+He said the CBSL had only issued a notice to the public on the scam yesterday.
+
+The MP said money from accounts had been transferred to a local private bank and then some of that money had been converted into crypto currency and taken out of the country.
+
+...
+
+[Data](articles/3ae2a68c.json)
+
+---
 
 ### Town Hall blocked due to university non-academic workers’ protest
 
@@ -43,6 +107,28 @@ They said about 5,000 non-academic workers have gathered in front of the UGC ove
 ◼️
 
 [Data](articles/75900485.json)
+
+---
+
+### Body of youth who went missing while visiting girlfriend found
+
+*2024-05-07 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-of-youth-who-went-missing-while-visiting-girlfriend-found/108-282092) · `en`
+
+Colombo, May 7 (Daily Mirror) - The body of a youth from Kuliyapitiya, who had gone missing a few days ago while visiting his girlfriend’s house, has been recovered in the Panirendawa area of Madampe, the police said.
+
+Police Spokesman DIG Nihal Thalduwa said the body was found in a forest in the area.
+
+On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya
+
+Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
+
+Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
+
+Accordingly, the two masons who were arrested later confessed to the police that the father of the girl had instructed them to take the youth in question to the house of a former Provincial Council member living in the area.
+
+...
+
+[Data](articles/2973c6a5.json)
 
 ---
 
@@ -2219,111 +2305,5 @@ But the definition has also drawn criticism because most of its examples of anti
 [Data](articles/06d37f57.json)
 
 [Extended Data](ext_articles/06d37f57.ext.json)
-
----
-
-### VFS gears up to promote Sri Lanka amid visa woes
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VFS-gears-up-to-promote-Sri-Lanka-amid-visa-woes/108-282063) · `en`
-
-Sri Lanka Tourism confirms no such discussion has taken place as yet
-
-VFS says SL tourism promotion will be “comprehensively carried out through new eVisa platform”
-
-VFS Global, which is currently facing a backlash, vows to boost Sri Lanka’s global image through a robust marketing plan with Sri Lanka Tourism. However, the details remain under wraps from the tourism authorities, Mirror Business learns.
-
-The objective of the promotion is to achieve growth in inbound arrivals from the source markets, utilising its global network, as per the vision of the government to achieve five million tourist arrivals in Sri Lanka, VFS Global said in a statement to the media that ran six pages, consisting of details regarding its operations and plans in the island nation.
-
-When Mirror Business reached out to the Sri Lanka Tourism Development Authority (SLTDA) for clarity in this regard, Chairman Priantha Fernando said neither the institution nor the Tourism Promotions Bureau is aware of any such plans.
-
-...
-
-[Data](articles/093129a1.json)
-
-[Extended Data](ext_articles/093129a1.ext.json)
-
----
-
-### Collective resolve of regional and international actors, a glimmer of hope for Afghans - Air Chief Marshal Bulathsinghala
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Collective-resolve-of-regional-and-international-actors-a-glimmer-of-hope-for-Afghans-Air-Chief-Marshal-Bulathsinghala/172-282040) · `en`
-
-Afghanistan has been in deep political divisions, structural governance  challenges, and economic insecurity to impede durable peace and  development progress for years. The interruption of the fragile peace  talks with the Taliban and the withdrawal of the NATO troops have  created more uncertainty for Afghanistan. The power shift made on 15th  August 2021 has complicated the matter further to a very higher  proportion
-
-The United Nations Assistance Mission in Afghanistan (UNAMA) is a  political UN mission established to assist the people of Afghanistan in  laying the foundations for sustainable peace and development. United  Nations Security Council Resolution 1401 established UNAMA on March 28,  2002. Its original mandate was to support the Bonn Agreement of December  2001
-
-...
-
-[Data](articles/2cddfcb8.json)
-
-[Extended Data](ext_articles/2cddfcb8.ext.json)
-
----
-
-### Press freedom, a boon for economic recovery
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Press-freedom-a-boon-for-economic-recovery/172-282041) · `en`
-
-Sri Lanka ranked 150 out of 180 countries in the 2024 Edition of the Press Freedom Index, published annually by Reporters Without Borders (Reporters Sans Frontiers - RSF) is a remarkable drop of 15 positions from 135 to 150 when compared to 2023.
-
-However, Sri Lanka has been ranked higher than India, Pakistan and Bangladesh. India is ranked 159th, Pakistan 152nd and Bangladesh 165th. Norway is ranked in the top position and Eritrea  in the last position. The RSF’s ranking is based on five indicators such as political context, legal framework, economic context, socio-cultural context and safety of journalists.
-
-Sri Lankan authorities might still argue that media freedom in the country is above what prevails in the neighbouring countries and also they might find gaps in the index citing the fact that one of the criteria for Sri Lanka’s ranking in the index is the unresolved issues that have occurred during the separatist war which ended 15 years ago.
-
-...
-
-[Data](articles/5b63852c.json)
-
-[Extended Data](ext_articles/5b63852c.ext.json)
-
----
-
-### 2024-05-06 (Monday)
-
-### Appointment for Grama Niladhari Tomorrow
-
-*2024-05-06 23:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-சேவையாளர்களுக்கான-நியமனம்-நாளை/175-336863) · `ta`
-
-Grama Niladhari Grade 3 appointments tomorrow, based on new recruitment list released on MOHA website. 1,942 applicants qualified for quarterly training. Appointments led by Home Affairs Minister Asoka Priyantha, President Ranil Wickremesinghe, and Prime Minister Dinesh Gunawardena at 10.30 am.
-
-🟩
-
-The new recruitment list for Grama Niladhari Grade 3 was released yesterday on the official website of the Ministry of Home Affairs.
-
-The list of 1,942 applicants who qualified for quarterly training has been released on the basis of the results of the Grama Niladhari Grade 3, Examination and Interview.
-
-The list has been released on the official website of the Ministry of Home Affairs, www.moha.gov.lk.
-
-Accordingly, these appointments will be made with the participation of Home Affairs Minister Asoka Priyantha, led by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena at 10.30 am tomorrow at 10.30 am.(a)
-
-◼️
-
-[Data](articles/7c6483f0.json)
-
-[Extended Data](ext_articles/7c6483f0.ext.json)
-
----
-
-### Instant solution to the visa issue - Sanathjayasuriya
-
-*2024-05-06 23:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-பிரச்சினைக்கு-உடனடி-தீர்வை-காண-வேண்டும்-சனத்ஜெயசூரிய/175-336862) · `ta`
-
-Sanathjayasuriya, former Sri Lankan cricket captain, calls for immediate visa issue resolution, highlighting the positive impact of tourism and the need for compassionate visa procedures.
-
-🟩
-
-Former Sri Lankan cricket captain Sanathjayasuriya has appealed for immediate solution to visa issues.
-
-“Many Sri Lankans and I have flourished the tourism industry without expecting any of the money laundering.
-
-I have noticed that tourist people have issued many compassion on new visa procedures.
-
-I urge all those involved in this issue to find a solution to the issue as soon as possible. ”. Remble
-
-◼️
-
-[Data](articles/76f55170.json)
-
-[Extended Data](ext_articles/76f55170.ext.json)
 
 ---

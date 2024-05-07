@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 14:33:34**
+As of **2024-05-07 14:52:36**
 
 ## Newspaper Stats
 
-*Scraped **22,482** Articles*
+*Scraped **22,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,279
 dailyftlk | 1,307
 adalk | 1,890
 tamilmirrorlk | 2,617
-adaderanalk | 2,645
-virakesarilk | 3,359
+adaderanalk | 2,647
+virakesarilk | 3,360
 dailymirrorlk | 3,522
 adaderanasinhalalk | 3,606
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 3,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,319 (99.3%) of 22,482 articles have been extended.
+22,331 (99.3%) of 22,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Adani Green signs 20-yr agreement for wind power stations in Sri Lanka
+
+*2024-05-07 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99063/adani-green-signs-20-yr-agreement-for-wind-power-stations-in-sri-lanka) · `en`
+
+Sri Lanka’s Cabinet of Ministers has approved a deal with Indian billionaire Gautam Adani’s renewable energy wing Adani Green to develop wind power stations in the country.
+
+Adani Green Energy will be developing wind power stations in Mannar and Poonerin in Sri Lanka. The Sri Lankan Cabinet has appointed a negotiation committee to evaluate the project proposal which was furnished by Adani Green.
+
+“Based on the recommendations of that Committee, the Cabinet of Ministers granted approval to the resolution forwarded by the Minister of Electricity and Power to accept the last price as USD $ 8.26 cents,” the government said.
+
+The renewable energy company got the approval in February 2023 to invest $442 million towards the development of the 484 megawatts wind power plants in the two areas located in Northern Sri Lanka.
+
+...
+
+[Data](articles/3cdd8844.json)
+
+---
+
+### Police obtain 72-hour detention order on ‘Manna Ramesh’
+
+*2024-05-07 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99062/police-obtain-72-hour-detention-order-on-manna-ramesh) · `en`
+
+A 72-hour detention order was obtained by police for Ramesh Priyajanaka alias ‘Manna Ramesh’ who was arrested in Dubai and brought to Sri Lanka this morning (07) by a team of CID officers, the police spokesman said.
+
+The order was issued following a request made by the Criminal Investigations Department (CID).
+
+Underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, was brought back to Sri Lanka this morning (07) from Dubai by a team of CID officers.
+
+Police spokesman DIG Nihal Thalduwa said the special team of CID officers accompanying the wanted underworld figure had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (07).
+
+On March 06, it was reported that Sri Lankan security forces had been informed that notorious underworld figure Ramesh Priyajanaka, alias ‘Manna Ramesh’, had been arrested in Dubai, UAE.
+
+...
+
+[Data](articles/1133afe7.json)
+
+---
 
 ### Electricity disconnection in MP's house
 
@@ -171,6 +209,22 @@ The MP said money from accounts had been transferred to a local private bank and
 [Data](articles/3ae2a68c.json)
 
 [Extended Data](ext_articles/3ae2a68c.ext.json)
+
+---
+
+### மீள் மின் இணைப்பை 90 நாட்களுக்குள் பெற்றுக்கொள்ளாவிடின் மின் விநியோகம் முழுமையாக துண்டிக்கப்படும் - மின்சாரத்துறை அமைச்சர்
+
+*2024-05-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182884) · `ta`
+
+மின் விநியோகம் துண்டிக்கப்பட்டு 90 நாட்களுக்குள் மீள் இணைப்பை பெற்றுக் கொள்ளாத மின்பாவனையாளர்களின்  மின்கணக்கு இரத்து செய்யப்பட்டு மின் விநியோகம் முழுமையாக துண்டிக்கப்படும். மீள் மின் இணைப்புக்காக அறவிடப்படும் கட்டணம்  தற்போது குறைக்கப்பட்டுள்ளது என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற அமர்வின் போது எதிர்க்கட்சியின் உறுப்பினரான கெவிந்து குமாரதுங்க முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2022 மே மாதம் 14 ஆம் திகதிக்கு முன்னரான காலப்பகுதியில் 70 இலட்சம் மின்பாவனையாளர்கள் மின்விநியோக கட்டமைப்பில் பாதிக்கப்பட்டிருந்தார்கள்.பல மணித்தியாலங்கள்  மின்விநியோக துண்டிப்பு அமுல்படுத்தப்பட்டன.ஆட்சிமாற்றத்தை தொடர்ந்து மின்கட்டமைப்பில் கொள்கை  ரீதியில் மாற்றம் ஏற்படுத்தப்பட்டது.
+
+...
+
+[Data](articles/1a59b7e0.json)
 
 ---
 
@@ -2289,61 +2343,5 @@ The event welcomed over 100 GLX alumni, experts, scientists, academics, entrepre
 [Data](articles/0dd994cb.json)
 
 [Extended Data](ext_articles/0dd994cb.ext.json)
-
----
-
-### Ex-Hutchison’s Thirukumar Nadarasa joins Softlogic Holdings Board
-
-*2024-05-07 04:46:59* · [`dailyftlk`](https://www.ft.lk/business/Ex-Hutchison-s-Thirukumar-Nadarasa-joins-Softlogic-Holdings-Board/34-761475) · `en`
-
-Thirukumar Nadarasa has been appointed as an Independent Non-Executive Director of Softlogic Holdings PLC.
-
-He fills the vacancy created by the resignation of Aaron Russell-Davison as Non-Independent, Non-Executive Director.
-
-Nadarasa is a seasoned telecom professional with over 33 years of CXX level operational and management experience working in a number of telecom operations in South East Asia, Middle East and Africa.
-
-He first joined Singapore Telecom (Singtel) in 1990 and was with them for 4 years including secondment to Thai operations. In 1994, he joined Hutchison Telecom International in Hong Kong, part of the Hutchison Whampoa conglomerate.
-
-He has been posted to various Asian countries including India, Indonesia, Myanmar, Thailand, Vietnam and Sri Lanka.
-
-In 2009, Nadarasa joined Bintel in Bahrain as the Group COO overseeing mobile operations in 4 West African countries.
-
-...
-
-[Data](articles/89724b39.json)
-
-[Extended Data](ext_articles/89724b39.ext.json)
-
----
-
-### Hayleys powers Texlan Centre with landmark commercial solar installation
-
-*2024-05-07 04:44:57* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-powers-Texlan-Centre-with-landmark-commercial-solar-installation/34-761474) · `en`
-
-Hayleys Solar, the renewable energy arm of Hayleys Fentons, has successfully completed an impressive 2.3 MW capacity solar power installation for Texlan Centre Ltd., a leading hosiery manufacturer and exporter in the country.
-
-The grid-tied rooftop solar power system constructed on the rooftop of Texlan’s manufacturing facility in Minuwangoda has a capacity of 2,343 kWp. This corresponds to a planned 63,539,152 kWh of clean energy generated over a 20-year span. This will cover an estimated 32% of Texlan’s energy needs, minimising the company’s reliance on conventional grid power while lowering operational costs. This will help to reduce 46,370 tons of greenhouse gas emissions over the project period.
-
-...
-
-[Data](articles/3255f085.json)
-
-[Extended Data](ext_articles/3255f085.ext.json)
-
----
-
-### State Minister Amunugama leads Sri Lankan delegation to Germany’s ‘Hannover Messe’
-
-*2024-05-07 04:42:14* · [`dailyftlk`](https://www.ft.lk/business/State-Minister-Amunugama-leads-Sri-Lankan-delegation-to-Germany-s-Hannover-Messe/34-761473) · `en`
-
-A delegation led by State Minister of Investment Promotion Dilum Amunugama participated in the ‘Hannover Messe 2024’ in Hannover, Germany from 24-26 April 2024.
-
-This was the first time that Sri Lanka had officially participated in the Hannover Messe which is considered to be the world’s leading industrial trade fair.
-
-...
-
-[Data](articles/d1270081.json)
-
-[Extended Data](ext_articles/d1270081.ext.json)
 
 ---

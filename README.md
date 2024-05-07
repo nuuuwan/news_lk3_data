@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 23:18:06**
+As of **2024-05-07 23:33:36**
 
 ## Newspaper Stats
 
-*Scraped **22,579** Articles*
+*Scraped **22,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,294
 dailyftlk | 1,307
-adalk | 1,904
-tamilmirrorlk | 2,628
+adalk | 1,905
+tamilmirrorlk | 2,630
 adaderanalk | 2,654
 virakesarilk | 3,376
-dailymirrorlk | 3,539
+dailymirrorlk | 3,540
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,579 (100.0%) of 22,579 articles have been extended.
+22,579 (100.0%) of 22,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Defence Secretary warns Sri Lankan war heroes against smugglers
+
+*2024-05-07 23:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Secretary-warns-Sri-Lankan-war-heroes-against-smugglers/108-282129) · `en`
+
+Colombo, May 7 (Daily Mirror) - Defence Secretary General Kamal Gunaratne requested Sri Lanka's war heroes not to become victims of human smugglers who are recruiting people to serve in the armed forces on the Russian-Ukrain war front.
+
+He revealed that Sri Lanka's war heroes are being lured by false promises to join the armed forces in the Russia-Ukrain conflict.
+
+"These promises include offers of land in Saint Petersburg, Russian citizenship for their families and monthly salaries exceeding Rs.1 million. However, these promises remain unfulfilled, with no compensation provided for deceased war heroes and their families. Many Sri Lankan soldiers have already been sent to the conflict zone, resulting in casualties and injuries, whose extent remains unknown.
+
+Gunaratne clarified that these soldiers were not legally recruited but rather coerced into serving as mercenaries. He urged war heroes to avoid falling prey to these human smugglers.
+
+...
+
+[Data](articles/d4134849.json)
+
+---
+
+### டில்ஷானின் தந்தை காலமானார்
+
+*2024-05-07 23:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டில்ஷானின்-தந்தை-காலமானார்/175-336922) · `ta`
+
+இலங்கை கிரிக்கெட் அணியின் முன்னாள் வீரர் திலகரத்ன டில்ஷானின் தந்தை துவான் மொஹமட் ஜுனைதீன் உயிரிழந்துள்ளார்.
+
+களுத்துறையில் உள்ள வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிக்கிச்சை பலனின்றி இன்று செவ்வாய்க்கிழமை (7) உயிரிழந்துள்ளார்.
+
+இறுதிக் கிரியைகள் எதிர்வரும் 9ஆம் திகதி வியாழக்கிழமை களுத்துறை மாகாண பொது மயானத்தில் இடம்பெறவுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/f9c9fc3e.json)
+
+---
+
+### தொழிற்சாலை ஒன்றில் பாரிய தீ விபத்து
+
+*2024-05-07 22:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சாலை-ஒன்றில்-பாரிய-தீ-விபத்து/175-336921) · `ta`
+
+ஜா-எல, ஏக்கல பிரதேசத்தில் உள்ள தொழிற்சாலை ஒன்றில் இன்று மாலை திடீர் தீ விபத்து   ஏற்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+3 தீயணைப்பு வாகனங்கள் மூலம் தீயை முழுமையாகக் கட்டுப்படுத்தியுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+இந்த தீ விபத்தில் உயிர் சேதம் எதுவும் ஏற்படவில்லை. ஆனால் தொழிற்சாலையின் உடைமைகள் சேதமடைந்துள்ளன.
+
+எவ்வாறாயினும், தீப்பரவலுக்கான காரணம் வெளியாகவில்லை என்பதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை ஜா-எல பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/853e550c.json)
+
+---
 
 ### Judgment in Diana’s citizenship case to be delivered tomorrow
 
@@ -495,6 +547,24 @@ Akmeemana police arrested the children and produced them in court on charges of 
 [Data](articles/dcb45e74.json)
 
 [Extended Data](ext_articles/dcb45e74.ext.json)
+
+---
+
+### එක් පවුලක් සඳහා එක්සත් ජනපද ඩොලර් 6000ක ආයෝජනයක්
+
+*2024-05-07 19:05:59* · [`adalk`](https://www.ada.lk/breaking_news/එක්-පවුලක්-සඳහා-එක්සත්-ජනපද-ඩොලර්-6000ක-ආයෝජනයක්/11-409485) · `si`
+
+ශ්‍රී ලංකාවේ කෘෂිකාර්මික හා වන ආරක්ෂණ ව්‍යාපෘතියක් සඳහා එක්ව කටයුතු කිරීමට අවබෝධතා ගිවිසුමක් ජනාධිපති කාර්යාලයේදී අද (07) අත්සන් තැබිණි.
+
+මේ සඳහා ශ්‍රී ලංකාවේ දේශගුණික විපර්යාස ලේකම් කාර්යාලය වෙනුවෙන් දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන, දේශගුණික අවදානම් සංසදය (CVF) වෙනුවෙන් එහි මහ ලේකම් මාලදිවයිනේ හිපටු ජනාධිපති මොහොමඩ් නෂීඩි සහ පෘතුගාලයේ Nativa Capital සමාගම වෙනුවෙන් එහි ප්‍රධාන විධායක අධ්‍යක්ෂ කාලෝස් ගෝමස් යන මහත්වරු අත්සන් තැබූහ.
+
+ගොවිපල අස්වැන්න සහ ගොවීන්ගේ ආදායම ඉහළ නැංවීමේ අරමුණින් වැඩිදියුණු කළ සහ වඩාත් තිරසාර ගොවිතැන් පිළිවෙත් හඳුන්වා දෙමින් ශ්‍රී ලංකාවේ ග්‍රාමීය ප්‍රජාවගේ ගෘහ ආශ්‍රිත ගොවිතැන වැඩිදියුණු කිරීම මෙම ගිවිසුමේ අරමුණයි. ශ්‍රී ලංකාවේ බොහෝ ගොවිපළවල් දැනට කුඩා පරිමාණයෙන් පවතින අතර, ඒ නිසාම, අඩු අස්වැන්නක් සහ අඩු ආදායම් හමුවේ පීඩාවට පත්ව තිබේ.
+
+ඒ හේතුවෙන් එක්සත් ජනපද ඩොලර් මිලියන 100ක ආයෝජනයක් සිදු කර ගොවීන් පවුල් 15,000කට අවශ්‍ය ආධාර හා තාක්ෂණය ලබාදෙන නියමු ව්‍යාපෘතියක් අනුරාධපුර දිස්ත්‍රික්කයෙන් ආරම්භ කිරීමට ද නියමිතය.
+
+...
+
+[Data](articles/92db239f.json)
 
 ---
 
@@ -2161,91 +2231,5 @@ If the power supply is cut off within 90 days after the power supply is cut off,
 [Data](articles/1a59b7e0.json)
 
 [Extended Data](ext_articles/1a59b7e0.ext.json)
-
----
-
-### Town Hall blocked due to university non-academic workers’ protest
-
-*2024-05-07 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Town-Hall-blocked-due-to-university-non-academic-workers-protest/108-282091) · `en`
-
-Roads leading to the Town Hall area have been blocked due to a protest launched by university non-academic workers in front of the University Grants Commission (UGC), police said.
-
-They said about 5,000 non-academic workers have gathered in front of the UGC over eleven main demands, including the non-rectification of salary anomalies and the non-receipt of allowances and other facilities promised by the government.
-
-◼️
-
-[Data](articles/75900485.json)
-
-[Extended Data](ext_articles/75900485.ext.json)
-
----
-
-### Body of youth who went missing while visiting girlfriend found
-
-*2024-05-07 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-of-youth-who-went-missing-while-visiting-girlfriend-found/108-282092) · `en`
-
-Colombo, May 7 (Daily Mirror) - The body of a youth from Kuliyapitiya, who had gone missing a few days ago while visiting his girlfriend’s house, has been recovered in the Panirendawa area of Madampe, the police said.
-
-Police Spokesman DIG Nihal Thalduwa said the body was found in a forest in the area.
-
-On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya
-
-Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
-
-Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
-
-Accordingly, the two masons who were arrested later confessed to the police that the father of the girl had instructed them to take the youth in question to the house of a former Provincial Council member living in the area.
-
-...
-
-[Data](articles/2973c6a5.json)
-
-[Extended Data](ext_articles/2973c6a5.ext.json)
-
----
-
-### Body found of youth who went missing while visiting girlfriend
-
-*2024-05-07 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-found-of-youth-who-went-missing-while-visiting-girlfriend/108-282092) · `en`
-
-Colombo, May 7 (Daily Mirror) - The body of a youth from Kuliyapitiya, who had gone missing a few days ago while visiting his girlfriend’s house, has been recovered in the Panirendawa area of Madampe, the police said.
-
-Police Spokesman DIG Nihal Thalduwa said the body was found in a forest in the area.
-
-On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya
-
-Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
-
-Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
-
-Accordingly, the two masons who were arrested later confessed to the police that the father of the girl had instructed them to take the youth in question to the house of a former Provincial Council member living in the area.
-
-...
-
-[Data](articles/84a90198.json)
-
-[Extended Data](ext_articles/84a90198.ext.json)
-
----
-
-### CB officials to be summoned before Parliament for declaring independence
-
-*2024-05-07 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-officials-to-be-summoned-before-Parliament-for-declaring-independence/108-282089) · `en`
-
-Parliament, May 07 (Daily Mirror)- Central Bank of Sri Lanka (CBSL) officials are to be summoned before Parliament for declaring itself as an independent institution, it was revealed in Parliament today.
-
-Leader of the House Susil Premajayantha said the Speaker can summon CBSL officials either before the Committee on Public Enterprises (COPE) or the Committee on Public Finance (COPF) to seek an explanation.
-
-He said this in response to an issue raised by MP Charitha Herath who said the CBSL has identified itself as an independent entity in its annual report 2023.
-
-"No Committee in the House has questioned the CBSL officials on this issue," he said.
-
-MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds belong to the government.
-
-◼️
-
-[Data](articles/c781e2e6.json)
-
-[Extended Data](ext_articles/c781e2e6.ext.json)
 
 ---

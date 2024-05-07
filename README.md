@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 22:33:24**
+As of **2024-05-07 22:51:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,560 (99.9%) of 22,577 articles have been extended.
+22,575 (100.0%) of 22,577 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The controversy stems from a complaint alleging that a student did not receive i
 
 [Data](articles/479f7127.json)
 
+[Extended Data](ext_articles/479f7127.ext.json)
+
 ---
 
 ### Sri Lanka central bank rings alarm bell over changing current IMF-agreed economic policies
@@ -65,6 +67,8 @@ Sri Lanka is in a recovery path after it entered into an IMF deal with some diff
 ...
 
 [Data](articles/fbdd90ba.json)
+
+[Extended Data](ext_articles/fbdd90ba.ext.json)
 
 ---
 
@@ -118,6 +122,8 @@ Addressing the media, the Thera told the MPs not to visit them to receive blessi
 
 [Data](articles/fbb8ae5f.json)
 
+[Extended Data](ext_articles/fbb8ae5f.ext.json)
+
 ---
 
 ### New legislation to protect women from discrimination based on sexual orientation
@@ -135,6 +141,8 @@ It also seeks to promote realization of, and ensure equality and justice of wome
 ...
 
 [Data](articles/4a7e72ac.json)
+
+[Extended Data](ext_articles/4a7e72ac.ext.json)
 
 ---
 
@@ -494,21 +502,27 @@ A review petition filed by Justice Minister Vijayadasa Rajapakse today dismissed
 
 ---
 
-### ජනාධිපතිවරණ අපේක්ෂකයා නම් කිරීමට කල් තිබෙනවා
+### The presidential candidate has been deceived
 
 *2024-05-07 18:55:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-අපේක්ෂකයා-නම්-කිරීමට-කල්-තිබෙනවා/11-409484) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නම්කිරීමට තව කාලය තිබෙන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Prasanna Ranatunga, Minister of Urban Development, suggests Mahinda Rajapaksa as the Presidential Electoral candidate for the Sri Lanka General Front, emphasizing the party's readiness.
 
-අමාත්‍යවරයා පවසන්නේ අපේක්ෂකයා සම්බන්ධයෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා හොඳ තීන්දුවක් ගනු ඇති බවයි.
+🟩
 
-එමෙන්ම පාක්ෂිකයාට බියකින් තොරව එළියට බැසිය හැකි මට්ටමේ වැඩපිළිවෙලක් තම පක්ෂය මේ වනවිට ක්‍රියාත්මක කරමින් සිටින බවද අමාත්‍යවරයා සඳහන් කළේය.
+Chief Government Whip Prasanna Ranatunga, Minister of Urban Development, Prasanna Ranatunga says that there is more time to name the Presidential Electoral candidate on the Sri Lanka General Front.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායමේ විශේෂ සාකච්ඡාවක්, පක්ෂ නිර්මාතෘ හිටපු අමාත්‍ යබැසිල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන්බ ත්තරමුල්ල, නෙළුම්මා වතේ පිහිටි පක්ෂ කාර්යාලයේදී අද (7) පැවැත්වුණි.
+The Minister said that former President Mahinda Rajapaksa would be a good decision on the candidate.
+
+He said his party is currently implementing a program that is able to cope with the party without fear.
+
+A special discussion of the Sri Lanka General Supreme Appointment of the Sri Lanka Civil Appointment, the party founder was held today (7) at the party office in Nelumma Clouds.
 
 ◼️
 
 [Data](articles/a49571de.json)
+
+[Extended Data](ext_articles/a49571de.ext.json)
 
 ---
 
@@ -557,6 +571,8 @@ Ekaterra is the former tea division of Unilever, which was sold to CVC Capital P
 ...
 
 [Data](articles/915a3022.json)
+
+[Extended Data](ext_articles/915a3022.ext.json)
 
 ---
 
@@ -679,6 +695,8 @@ Sri Lanka has seen banks auctioning assets after a currency crisis killed domest
 ◼️
 
 [Data](articles/c3d9751a.json)
+
+[Extended Data](ext_articles/c3d9751a.ext.json)
 
 ---
 
@@ -894,6 +912,8 @@ Demographers have been warning for years that EPF contributions would eventually
 
 [Data](articles/40a78662.json)
 
+[Extended Data](ext_articles/40a78662.ext.json)
+
 ---
 
 ### Two new scholarship programs
@@ -1020,6 +1040,8 @@ There is opposition among some academics, trade unions and leftist parties to pr
 
 [Data](articles/15c74f6e.json)
 
+[Extended Data](ext_articles/15c74f6e.ext.json)
+
 ---
 
 ### Sri Lanka's Democratic Country - Opposition Leader Sajith warns
@@ -1068,6 +1090,8 @@ A bond maturing on 01.10.2032 closed up at 12.25/35 percent from 12.20/35 percen
 
 [Data](articles/576d5c71.json)
 
+[Extended Data](ext_articles/576d5c71.ext.json)
+
 ---
 
 ### IFC says committed to Sri Lanka reforms, signs agreements with two corporations
@@ -1083,6 +1107,8 @@ A statement from the IFC said the senior IFC official had held meetings with Pre
 ...
 
 [Data](articles/28063ef7.json)
+
+[Extended Data](ext_articles/28063ef7.ext.json)
 
 ---
 
@@ -1123,6 +1149,8 @@ Sri Lanka currently faces a teacher shortage. Low salaries continue to be a prob
 ◼️
 
 [Data](articles/af3fe16e.json)
+
+[Extended Data](ext_articles/af3fe16e.ext.json)
 
 ---
 
@@ -1189,6 +1217,8 @@ A feasibility study has been conducted on the implementation of the project. Cab
 ◼️
 
 [Data](articles/5135caca.json)
+
+[Extended Data](ext_articles/5135caca.ext.json)
 
 ---
 
@@ -1300,6 +1330,8 @@ The group would earn 80 million dollars in 2031, 86 million in 2032, 92 million 
 
 [Data](articles/d806d5a9.json)
 
+[Extended Data](ext_articles/d806d5a9.ext.json)
+
 ---
 
 ### Putin sworn in as Russian president for fifth term
@@ -1355,6 +1387,8 @@ Hayleys Plc closed up at 93.10. Hayleys Fabric Plc closed up at 43.10.
 ...
 
 [Data](articles/328f0319.json)
+
+[Extended Data](ext_articles/328f0319.ext.json)
 
 ---
 

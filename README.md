@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 22:18:09**
+As of **2024-05-07 22:33:24**
 
 ## Newspaper Stats
 
-*Scraped **22,560** Articles*
+*Scraped **22,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,60 @@ bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
-economynextcom | 1,281
+economynextcom | 1,294
 dailyftlk | 1,307
-adalk | 1,903
+adalk | 1,904
 tamilmirrorlk | 2,628
 adaderanalk | 2,654
 virakesarilk | 3,376
-dailymirrorlk | 3,534
+dailymirrorlk | 3,537
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,559 (100.0%) of 22,560 articles have been extended.
+22,560 (99.9%) of 22,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### SLMC members in the dark over annulment of medical exam in Batticaloa
+
+*2024-05-07 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLMC-members-in-the-dark-over-annulment-of-medical-exam-in-Batticaloa/108-282112) · `en`
+
+Colombo, May 07 (Daily Mirror) -  The decision to annul the Surgery Long and Short Cases components of the ERPM Part B Examination, conducted at the Examinations Centre of the Eastern University in Batticaloa, has ignited a storm of controversy as the members of the Sri Lanka Medical Council (SLMC) have not been informed of the incident.
+
+In a letter addressed to the Registrar of the SLMC dated May 1, 2024, candidates expressed their grievances over the annulment of the examination and the subsequent scheduling of a re-examination in May.
+
+However, a council member told Daily Mirror that majority of Council members have not been informed of such a letter and thus, requested the SLMC chairman to convene an emergency council meeting to discuss the matter.
+
+The controversy stems from a complaint alleging that a student did not receive interpreter support during the examination.
+
+...
+
+[Data](articles/479f7127.json)
+
+---
+
+### Sri Lanka central bank rings alarm bell over changing current IMF-agreed economic policies
+
+*2024-05-07 21:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-rings-alarm-bell-over-changing-current-imf-agreed-economic-policies-161920/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Central Bank Governor Nandalal Weerasinghe warned the public that the country could go back to the 2022 crisis if any future government changes the current International Monetary Fund (IMF) subscribed economic policies reforms.
+
+Weerasinghe said there is hardly any space for economic policy maneuvering under the current situation, but there could be a few adjustments without changing the overall goals, which President Ranil Wickremesinghe government had agreed with the IMF.
+
+Sri Lanka is in a recovery path after it entered into an IMF deal with some difficult reforms including higher taxes, steep cut in expenditure on government institutions, drastic reforms in state-owned enterprises, and stable inflation-targeted monetary policy.
+
+“We need to continue the same process going forward and if there is a deviation, that would be a challenge. That’s the important message we want to give,” Weerasinghe told reporters at a media briefing in Colombo on Tuesday.
+
+...
+
+[Data](articles/fbdd90ba.json)
+
+---
 
 ### The wake of getting married to the marriage
 
@@ -63,6 +99,42 @@ The three of them were found at a hotel in Talawatugoda, which is later called t
 [Data](articles/b0ee5d3f.json)
 
 [Extended Data](ext_articles/b0ee5d3f.ext.json)
+
+---
+
+### Ven. Bengamuwe Nalaka Thera warns MPs on same-sex marriage vote
+
+*2024-05-07 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Bengamuwe-Nalaka-Thera-warns-MPs-on-same-sex-marriage-vote/108-282104) · `en`
+
+Colombo, May 7 (Daily Mirror) - Venerable Bengamuwe Nalaka Thera cautioned parliamentarians against returning to their villages to seek votes if they support the same-sex marriage bill in parliament.
+
+He urged them to refrain from political engagement if they vote for the bill and emphasized that Sinhala Buddhist national organizations, including the All Ceylon Buddhist Congress, will oppose its legalization.
+
+Addressing the media, the Thera told the MPs not to visit them to receive blessings for their election campaigns.
+
+"This bill must not be pass in parliament. If, by any chance it does, it will severely impact Sri Lankan culture and the family structure of the country. Once enacted, legalizing same-sex marriages will lead to acceptance, and legal repercussions will be taken against those who oppose them and their actions," the Thera said.
+
+...
+
+[Data](articles/fbb8ae5f.json)
+
+---
+
+### New legislation to protect women from discrimination based on sexual orientation
+
+*2024-05-07 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-legislation-to-protect-women-from-discrimination-based-on-sexual-orientation/108-282108) · `en`
+
+Sri Lanka is moving towards protecting women from discrimination based on sexual orientation.
+
+This was confirmed by the Women’s Empowerment Bill which was presented to Parliament. One of the objectives of the legislation which has been already gazetted is to protect women from all forms of discrimination based on gender and sexual orientation.
+
+The legislation further seeks to take steps to prevent discrimination, marginalization, sexual harassment and violence against women.
+
+It also seeks to promote realization of, and ensure equality and justice of women and to take measures to ensure as far as possible women’s participation in all measures and mechanisms connected with administration of justice and equal representation of women in decision making structures and positions at every level within the government.
+
+...
+
+[Data](articles/4a7e72ac.json)
 
 ---
 
@@ -422,21 +494,69 @@ A review petition filed by Justice Minister Vijayadasa Rajapakse today dismissed
 
 ---
 
-### හෙද සේවයට අලුතින් 3000ක්
+### ජනාධිපතිවරණ අපේක්ෂකයා නම් කිරීමට කල් තිබෙනවා
+
+*2024-05-07 18:55:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-අපේක්ෂකයා-නම්-කිරීමට-කල්-තිබෙනවා/11-409484) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජනාධිපතිවරණ අපේක්ෂකයා නම්කිරීමට තව කාලය තිබෙන බව ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා පවසන්නේ අපේක්ෂකයා සම්බන්ධයෙන් හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා හොඳ තීන්දුවක් ගනු ඇති බවයි.
+
+එමෙන්ම පාක්ෂිකයාට බියකින් තොරව එළියට බැසිය හැකි මට්ටමේ වැඩපිළිවෙලක් තම පක්ෂය මේ වනවිට ක්‍රියාත්මක කරමින් සිටින බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායමේ විශේෂ සාකච්ඡාවක්, පක්ෂ නිර්මාතෘ හිටපු අමාත්‍ යබැසිල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන්බ ත්තරමුල්ල, නෙළුම්මා වතේ පිහිටි පක්ෂ කාර්යාලයේදී අද (7) පැවැත්වුණි.
+
+◼️
+
+[Data](articles/a49571de.json)
+
+---
+
+### 3000 new for nurses
 
 *2024-05-07 18:46:27* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සේවයට-අලුතින්-3000ක්/11-409483) · `si`
 
-හෙඳ සේවය සඳහා 3,000ක් බඳවා ගැනීට සූදානම් බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+Dr. Ramesh Pathiran announced 3,000 new nurses recruited, with nearly 1,000 vacancies in health service. Opposition leader Sajith Premadasa criticized the recruitment process, highlighting a 45,000 nursing deficit and the release of a 2019 and 2012 Gazette for recruitment not being fully utilized.
 
-විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා අද (07දා) පාර්ලිමේන්තුවේදී යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-හෙඳ සේවයේ වර්තමානයේ පුරප්පාඩු 1000ට ආසන්න ප්‍රමාණයක් තිබෙන බවද සෞඛ්‍ය අමාත්‍යවරයා එහිදී පැවසීය.
+Health Minister Dr. Ramesh Pathiran said that 3,000 persons were recruited to the service.
 
-විපක්ෂනායක සජිත් ප්‍රේමදාස - 2019,2020 වසර වල අ.පො.ස උසස් පෙළ විභාගයට ජීව විද්‍යාව, ගණිත අංශයෙන් පෙනී සිටි සිසුන්ව හෙද සේවාවට බඳවා ගැනීම සඳහා වන ගැසට් පත්‍රය 2023.09.15 වැනිදා නිකුත් කරලා දැනට 3,100ක් බඳවා ගෙන තිබෙනවා. තවත් 3,863ක් බඳවා ගැනීමේ පොරොත්තු ලේකනයේ තිබෙනවා. ඒත් ඒ බඳවා ගැනීම සිදුවෙලා නෑ. මම ඔබතුමාගෙන් ඉල්ලීමක් කරනවා 45,000ක පමණ හෙද හිඟයක් මේ රටේ තිබෙන මොහොතක කරැණාකරලා ඉක්මනින් මේ ඉතිරි 3,100ත් බඳවා ගැනීමේ ක්‍රියාවලිය සිදු කරන්න.
+Opposition Leader Sajith Premadasa said this in response to a question referred to in Parliament today (07).
+
+The Minister of Health said that there are nearly 1,000 vacancies in the health service.
+
+Opposition Leader Sajith Premadasa - 2019 and 2012 Gazette to recruit students from Biology, Advanced Level Examination, has been released on 15.09.2013 and has been recruited on 15.09-29.. Another 3,863 is in the waiting list of blood. However, the recruitment was not recruited. I request a 45,000 nursing deficit at a moment in this country and perform the process of recruiting the remaining 3,100.
 
 ...
 
 [Data](articles/8e8d65a5.json)
+
+[Extended Data](ext_articles/8e8d65a5.ext.json)
+
+---
+
+### Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
+
+*2024-05-07 18:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-to-buy-lipton-in-kenya-tanzania-and-rwanda-161886/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Browns Investments said it had reached an agreement to buy Lipton tea companies in Kenya, Tanzania and Rwanda from their UK and Netherlands based parents.
+
+The purchase will be made through UAE-based, B Commodities ME FZE, a unit of Browns Investments.
+
+It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in a stock exchange filing.
+
+Browns Investments will buy 100 percent of Rwanda-based Lipton Teas and Infusions Rwanda Limited and 100 percent of Tanzania-based Lipton Teas and Infusions Tanzania Limited.
+
+It will buy 98.56 percent of kenya-based Lipton Teas and Infusions Kenya Plc, and 51.99 percent of Limura Tea Plc.
+
+The price will be calculated in accordance with the SPA, it said.
+
+Ekaterra is the former tea division of Unilever, which was sold to CVC Capital Partners.
+
+...
+
+[Data](articles/915a3022.json)
 
 ---
 
@@ -543,6 +663,22 @@ The suspects have been handed over to the Police Narcotics Bureau for further in
 [Data](articles/0f7d756a.json)
 
 [Extended Data](ext_articles/0f7d756a.ext.json)
+
+---
+
+### Sri Lanka parliament passes law to delay foreclosed assets
+
+*2024-05-07 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-law-to-delay-foreclosed-assets-161880/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s parliament voted to pass an amendment that will delay banks from auctioning collateral of bad loans by Board decison.
+
+The changes to the Recovery of Loans by Banks (Special Provisions) (Amendment) Bill seeks to delay so-called ‘parate execution’ till December 2024.
+
+Sri Lanka has seen banks auctioning assets after a currency crisis killed domestic demand. (Colombo/May7/2024)
+
+◼️
+
+[Data](articles/c3d9751a.json)
 
 ---
 
@@ -742,6 +878,24 @@ The Kaluppitti police are investigating the incident and arrested the son of the
 
 ---
 
+### Sri Lanka EPF net contribution turn positive again in 2024: Deputy Governor
+
+*2024-05-07 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-epf-net-contribution-turn-positive-again-in-2024-deputy-governor-161884/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Employment Provident Fund contributions had turned positive in 2024, after outflows exceeded inflows in 2023, Deputy Governor Yvette Fernando said.
+
+“In 2023 there were greater outflows,” Fernando explained. “Sometime people who retired did not immediately take out their funds. But there were more outflows last year.
+
+In 2024 some private firms have raised salaries after inflation spiked last year. Some companies have also raised executive salaries to defray an income tax hike.
+
+Demographers have been warning for years that EPF contributions would eventually turn negative, though the original deadline had passed. (Colombo/May07/2024)
+
+◼️
+
+[Data](articles/40a78662.json)
+
+---
+
 ### Two new scholarship programs
 
 *2024-05-07 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196376) · `si`
@@ -848,6 +1002,26 @@ The woman has revealed that the woman had been fraudulent to seek the assistance
 
 ---
 
+### Resolve internship issue before opening more medical faculties in Sri Lanka: GMOA
+
+*2024-05-07 17:18:00* · [`economynextcom`](https://economynext.com/resolve-internship-issue-before-opening-more-medical-faculties-in-sri-lanka-gmoa-161871/) · `en`
+
+ECONMYNEXT — Sri Lanka must not expand medial education without addressing capacity issues in internships, the Government Medical Officers Association (GMOA) said.
+
+GMOA general secretary Haritha Alutghe told reporters on Tuesday May 07 that state-owned medical faculties, which can fill nearly 2,100 students, will soon be full to capacity over the next few years, which will result in issues pertaining to internships.
+
+“The state’s medical faculties can enroll nearly 2,100 students. At present there’s 1,300 or 1,400 at those faculties. In three or four years, it will surpass 2,100. We do not have vacancies for 2,000 internships,” said Aluthge.
+
+“We have said categorically that there must not be any expanding of medical education without paying attention to the internship issue,” he said.
+
+There is opposition among some academics, trade unions and leftist parties to private participation in higher education, particularly in the field of medicine.
+
+...
+
+[Data](articles/15c74f6e.json)
+
+---
+
 ### Sri Lanka's Democratic Country - Opposition Leader Sajith warns
 
 *2024-05-07 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182903) · `ta`
@@ -874,6 +1048,44 @@ He has put forward his opinion. So it does not mean that this issue is not furth
 
 ---
 
+### Sri Lanka rupee closes weaker at 299.40/70 to US dollar
+
+*2024-05-07 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-40-70-to-us-dollar-161874/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 299.40/70 to the US dollar on Tuesday from 298.00/50 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed up at 10.65/75 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 closed up at 11.05/15 percent from 11.00/10 percent.
+
+A bond maturing on 15.03.2028 closed up at 11.40/55 percent from 11.40/50 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
+
+A bond maturing on 01.10.2032 closed up at 12.25/35 percent from 12.20/35 percent. (Colombo/May07/2024)
+
+◼️
+
+[Data](articles/576d5c71.json)
+
+---
+
+### IFC says committed to Sri Lanka reforms, signs agreements with two corporations
+
+*2024-05-07 16:50:00* · [`economynextcom`](https://economynext.com/ifc-says-committed-to-sri-lanka-reforms-signs-agreements-with-two-corporations-161855/) · `en`
+
+ECONOMYNEXT — The International Finance Corporation (IFC) of the World Bank Group is committed to supporting Sri Lanka’s ongoing reforms and growth agenda, IFC Vice President for Asia Pacific Riccardo Puliti said during a recent visit that saw the World Bank Group entity enter agreements with two high profile corporate entities in the island nation.
+
+Speaking at an event, Puliti also highlighted the importance of private sector-led development for inclusive economic growth.
+
+A statement from the IFC said the senior IFC official had held meetings with President Ranil Wickremasinghe, Minister of Power and Energy Kanchana Wijesekera, Governor of the Central Bank of Sri Lanka (CBSL) Nandalal Weerasinghe, private sector representatives, and development partners.
+
+...
+
+[Data](articles/28063ef7.json)
+
+---
+
 ### Meeting between high -level committee of British government and opposition leader Sajith
 
 *2024-05-07 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/182907) · `ta`
@@ -895,6 +1107,22 @@ British Foreign Affairs and Commonwealth Office Humairaa Hatia, British High Com
 [Data](articles/11b8b30c.json)
 
 [Extended Data](ext_articles/11b8b30c.ext.json)
+
+---
+
+### Sri Lanka to establish National Teachers Council to increase professionalism
+
+*2024-05-07 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-national-teachers-council-to-increase-professionalism-161856/) · `en`
+
+ECONOMYNEXT – Sri Lanka will establish a National Teachers Council similar to those of other professions and international best practices to enhance the professionalism of the country’s teachers through continuous professional development, a government statement said.
+
+The Cabinet adopted a joint proposal to prepare a draft bill for the establishment of a Council after discussions with relevant stakeholders in the field of education.
+
+Sri Lanka currently faces a teacher shortage. Low salaries continue to be a problem in the recruitment of teachers, especially in the English medium of instruction. (Colombo/May7/2024)
+
+◼️
+
+[Data](articles/af3fe16e.json)
 
 ---
 
@@ -941,6 +1169,26 @@ It states that these groups will be expedited to check the current quality of al
 [Data](articles/36545b2e.json)
 
 [Extended Data](ext_articles/36545b2e.ext.json)
+
+---
+
+### China to support digital classroom project in Sri Lanka
+
+*2024-05-07 16:37:00* · [`economynextcom`](https://economynext.com/china-to-support-digital-classroom-project-in-sri-lanka-161829/) · `en`
+
+ECONOMYNEXT – Sri Lanka has approved a project proposal to implement digitalization in schools, with funding from the Chinese government, a government statement said.
+
+The project is expected to provide smart boards for delivering class rooms, receiving class rooms, a data centre to monitor these activities from the Ministry of Education, and studio and conference rooms.
+
+The project will see a hybrid learning method (learning via online, electronic media and face-to-face) implemented.
+
+The sharing of resources are expected to mitigate risks associated with teacher shortages.
+
+A feasibility study has been conducted on the implementation of the project. Cabinet approved the proposal presented by the Minister of Education to implement the project based on the feasibility study report. (Colombo/May7/20204)
+
+◼️
+
+[Data](articles/5135caca.json)
 
 ---
 
@@ -1034,6 +1282,26 @@ The high-ranking a jurisdiction was charged in a jurisdictional girl after the 1
 
 ---
 
+### Sri Lanka VFS Global 12-year visa deal worth $840mn: legislator
+
+*2024-05-07 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-vfs-global-12-year-visa-deal-worth-840mn-legislator-161828/) · `en`
+
+ECONOMYNEXT – A deal struck by Sri Lanka with IVS-GBS-VFS Global, a private contractor, is worth 840 million dollars over its 12-year lifetime, opposition legislator S M Marikkar said in parliament.
+
+The firm was charging 18.5 dollars per visa and a 5 to 7 dollar ‘convenience fee’ on top of the government visa fee from tourists trying to enter Sri Lanka.
+
+Marikkar said the VFS Global was placed to earn cashflows of up to 100 million dollars a year based on tourist promotion targets of the industry, over the contract period.
+
+The firm would earn 35 million dollars in 2024, 43 million dollars in 2025, 49 million dollars, 56 million dollars in 2026, 62 in 2028, 68 in 2029, 74 in 2030, Marikkar said reading out from a document.
+
+The group would earn 80 million dollars in 2031, 86 million in 2032, 92 million in 2033, 96 million in 2034 and 100 million in 2035 million.
+
+...
+
+[Data](articles/d806d5a9.json)
+
+---
+
 ### Putin sworn in as Russian president for fifth term
 
 *2024-05-07 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99065/putin-sworn-in-as-russian-president-for-fifth-term) · `en`
@@ -1063,6 +1331,30 @@ Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Min
 [Data](articles/bb3c0f9a.json)
 
 [Extended Data](ext_articles/bb3c0f9a.ext.json)
+
+---
+
+### Sri Lanka stocks close marginally down, turnover at Rs2bn
+
+*2024-05-07 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-turnover-at-rs2bn-161823/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down an imperceptible percentage, or 0.44 points, at 12,375; while the S&P SL20 Index closed down 0.02 percent, or 0.67 points, at 3,647.
+
+Turnover was at 2 billion. Capital goods contributed 525 million of this, and the food, beverage and tobacco sector contributed 423 million.
+
+Royal Ceramics Lanka Plc saw the most active trading volumes (Rs124mn) in the day, and the share closed flat at 35.00.
+
+Browns Investments Plc also saw some interest (Rs106mn) and the share closed up at 6.70. parent company LOLC Holdings Plc closed up at 486.00.
+
+Index heavyweight John Keells Holdings Plc was down at 201.50, as was rival conglomerate Aitken Spence Plc at 131.25.
+
+Hayleys Plc closed up at 93.10. Hayleys Fabric Plc closed up at 43.10.
+
+...
+
+[Data](articles/328f0319.json)
 
 ---
 
@@ -1937,359 +2229,5 @@ Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable dise
 [Data](articles/ffb8d996.json)
 
 [Extended Data](ext_articles/ffb8d996.ext.json)
-
----
-
-### Litro is touching a lot of work
-
-*2024-05-07 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196367) · `si`
-
-Litro opens a new gas filling terminal in Mabima, Kaduwela, to meet increasing demand. Despite opposition, the company claims no direct involvement in the sale of this movement, attributing it to a responsible committee.
-
-🟩
-
-Litro Chairman Muditha Peiris says that a new gas filling terminal will be opened tomorrow (08) at the Mabima area in Kaduwela.
-
-"Opens new filling terminal tomorrow. To provide a provision of demand. The Kerawalapitiya terminal is not enough. 60,000 cylinders are issued a day. 2 days from December to week. Bodies of Kerawalapitiya and Mabima Peripheral by March, March, March. If you want to stop Kealawalapitiya. You can deliver the gas from Maize. "
-
-Q. When you invest this, the opposition accuses the sale of this movement.
-
-"There is no direct contributory. There is a responsible committee. We do not know the answer to them. "
-
-◼️
-
-[Data](articles/f76b6adf.json)
-
-[Extended Data](ext_articles/f76b6adf.ext.json)
-
----
-
-### Sister arrested for Velunious Kumara's drug berth
-
-*2024-05-07 13:09:46* · [`adalk`](https://www.ada.lk/breaking_news/රැවුල්-කුමාරගේ-කුඩු-අපුරටම-බෙදූ-හූරිගස්වැව-අක්කා-අල්ලයි/11-409469) · `si`
-
-A 36-year-old woman from Hurigaswewa was arrested in the Uwe-Prison for drug trafficking, with 250mg of heroin, smartphones, and a scale found in her possession.
-
-🟩
-
-A woman who has been detained in the Uwe-Prison in the Colombo High-Security Zone, a woman who has been detained in the Uweera jar.The Criminal Investigation Division says.
-
-The 36-year-old woman was a 36 year old resident of Hurigaswewa police division.
-
-The intelligence unit of the Anuradhapura Divisional Crimes Division said that 16 persons, including women who were distributed in the Anuradhapura District, have been arrested along with more than Rs.
-
-The woman was arrested as 'Hurigaswewa Sister Sister', 'Hurigaswewa Sister', police said.
-
-The suspects were found at least 250 milligrams of heroin, two smartphones, and a weighing electronic scale in the suspect's house at the time of this raid.
-
-The suspect is still revealed that heroin is currently working with Mr. Heroin, Thambuththegama, Rajanganaya, Rajanganaya, and Eppawala, Eppawala, and Eppawala, Eppawala and Kekawa areas.The police said.
-
-The suspect was to be produced before the Anuradhapura Magistrate's Court today (7th.
-
-◼️
-
-[Data](articles/e47b4f51.json)
-
-[Extended Data](ext_articles/e47b4f51.ext.json)
-
----
-
-### Town Hall blocked due to university non-academic workers’ protest
-
-*2024-05-07 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Town-Hall-blocked-due-to-university-non-academic-workers-protest/108-282090) · `en`
-
-Colombo, May 7 (Daily Mirror) - Roads leading to the Town Hall area have been blocked due to a protest launched by university non-academic workers in front of the University Grants Commission (UGC), police said.
-
-They said about 5,000 non-academic workers have gathered in front of the UGC over eleven main demands, including the non-rectification of salary anomalies and the non-receipt of allowances and other facilities promised by the government.
-
-◼️
-
-[Data](articles/d8c553e1.json)
-
-[Extended Data](ext_articles/d8c553e1.ext.json)
-
----
-
-### Electricity in Mannar: Allow Adani
-
-*2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானிக்கு-அனுமதி/175-336886) · `ta`
-
-In 2012, Sri Lanka's Cabinet approved a MOU with Adani Green Energy to develop wind power stations in Mannar Poonakari, valued at $8.26 per kg.
-
-🟩
-
-The Cabinet meeting held on 07.03.2012 to make a Memorandum of Understanding (MOU) to develop wind power stations in Mannar Poonakari area with M/s Adani Green Energy Limited.
-
-The Cabinet has been appointed by the Cabinet to evaluate the proposal submitted by the company.According to the Committee's Vidyalaya, an electrician produced under the proposal project is worth US $ 8.26 per kg (to pay the Sri Lankan rupee in the Rupee Rupee of Real Foreign Exchange) and the cost of purchasing electricity for 20 years M/s Adani Green Energy Energy.The Cabinet has approved the proposal submitted by the Minister.
-
-◼️
-
-[Data](articles/aca2e36c.json)
-
-[Extended Data](ext_articles/aca2e36c.ext.json)
-
----
-
-### Electricity in Mannar: Allow Adani
-
-*2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானி-நிறுவனத்துக்கு-அனுமதி/175-336886) · `ta`
-
-The Cabinet approved a MOU with Adani Green Energy for wind power in Mannar, valuing the project at $8.26/kg and a 20-year electricity purchase agreement.
-
-🟩
-
-The Cabinet meeting held on 07.03.2012 to make a Memorandum of Understanding (MOU) to develop wind power stations in Mannar Poonakari area with M/s Adani Green Energy Limited.
-
-The Cabinet has been appointed by the Cabinet to evaluate the proposal submitted by the company.According to the Committee's Vidyalaya, an electrician produced under the proposal project is worth US $ 8.26 per kg (to pay the Sri Lankan rupee in the Rupee Rupee of Real Foreign Exchange) and the cost of purchasing electricity for 20 years M/s Adani Green Energy Energy.The Cabinet has approved the proposal submitted by the Minister.
-
-◼️
-
-[Data](articles/fb26a914.json)
-
-[Extended Data](ext_articles/fb26a914.ext.json)
-
----
-
-### Yall. A gang entered the hospital
-
-*2024-05-07 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182883) · `ta`
-
-A gang of 20, claiming to be friends of a deceased patient, broke into a Jaffna hospital, causing chaos and disrupting medical services. The Jaffna police have arrested them.
-
-🟩
-
-The Jaffna police have taken steps to arrest the gang of confused gangs.
-
-Jaffna for treatment. A young man admitted to the teaching hospital has died without treatment.
-
-In the wake of the young man's death, a gang of about 20 people who identified themselves as his friends broke into the hospital and engaged in a frenzy, and conflicted with doctors, nurses and sick.
-
-A complaint has been lodged at the Jaffna Police Station by the hospital administration that he has disrupted the medical service.
-
-According to the complaint, the police have said that they have found the race and have taken steps to arrest them.
-
-◼️
-
-[Data](articles/3bf81554.json)
-
-[Extended Data](ext_articles/3bf81554.ext.json)
-
----
-
-### Inspection to disconnect electricity without informing
-
-*2024-05-07 12:50:43* · [`adalk`](https://www.ada.lk/breaking_news/දැනුම්-දිමකින්-තොරව-විදුලිය-විසන්ධි-කිරිම-ගැන-පරික්ෂණයක්/11-409468) · `si`
-
-Power and Energy Minister Kanchana Wijesekara announced an investigation into unauthorized electricity disconnections. He also acknowledged concerns about the impact on consumers unable to pay their bills. The minister defended his decisions, including contracts for electrical links and disconnections, and criticized those who make the government's job difficult. The Ceylon Electricity Board (CEB) is investigating allegations of organized groups causing disruptions.
-
-🟩
-
-Power and Energy Minister Kanchana Wijesekara said that a CEB is conducting an investigation into the power of electricity without notice.
-
-He further stated that in parliamentarian Thushara Indunil, acknowledged the question of whether the government is looking for whether a group of organizations will be inconvenienced or not.
-
-Meanwhile, it was revealed that the house of MP Jagath Kumara's at the house of Parliamentarian Kumara had also been transformed.
-
-The electricity cut of consumers who are unable to pay the electricity bill - the electricity cut to the electricity bill - the electricity cut to pay electricity bills is very good in these days. They are handed over to another private group, pay them a commission and they are using electricity.
-
-It's like the police. In the morning, a targone is not punished in the morning, but goes out of the morning tunnel. Isn't it extremely unfair to make the customer who can't pay because of too much electricity bills?
-
-...
-
-[Data](articles/8aab35ce.json)
-
-[Extended Data](ext_articles/8aab35ce.ext.json)
-
----
-
-### Heat of up to 5 people in Jaffna - medical experts
-
-*2024-05-07 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/182880) · `ta`
-
-Last week, 4-5 deaths occurred at Jaffna Teaching Hospital due to extreme heat. The situation worsens with rising temperatures, leading to heat stroke among patients. The community is urged to plant trees and stay hydrated to mitigate the heat.
-
-🟩
-
-According to doctors, four to five deaths were reported last week at a hotel at the Jaffna Teaching Hospital last week due to high heat.
-
-This was announced at a special media briefing held at the Jaffna Teaching Hospital on Monday.
-
-Further, the current temperature is likely to increase the body temperature and cause heat stroke.
-
-We have lost many patients who have been admitted to our hostels through heat stroke. Temperature is likely to increase in the future.
-
-The increase in the use of plastic and polythene and the destruction of high -level trees is currently increased by temperature. Therefore, all people should plant homemade trees and keep the environment cool.
-
-In the last two weeks, we have lost four to five patients who have been admitted to our patient hostels due to heat stroke.
-
-People who are older do not know how to thirst for water. So to provide water foods continuously. Doing so can reduce the body's heat and prevent heat stroke.
-
-◼️
-
-[Data](articles/84435978.json)
-
-[Extended Data](ext_articles/84435978.ext.json)
-
----
-
-### Shakib threatens to beat up fan over clicking selfie
-
-*2024-05-07 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-threatens-to-beat-up-fan-over-clicking-selfie/108-282087) · `en`
-
-(indiatoday) - Shakib Al Hasan did not seem happy when a fan tried to click a selfie with him before the DPL 2024 match between Sheikh Jamal Dhanmondi Club and Prime Bank Cricket Club.
-
-Bangladesh all-rounder Shakib Al Hasan threatened to beat up a fan for trying to click a selfie. Before returning to play international cricket, the veteran recently played for the Sheikh Jamal Dhanmondi Club in the Dhaka Premier League (DPL) 2024. The incident happened before SJDC’s match against Prime Bank Cricket Club on Monday, May 6 at the Khan Shaheb Osman Ali Stadium in Fatullah.
-
-Before the toss, Shakib was having a chat with head coach Sheikh Salahuddin and their spin bowling. That’s when a fan came and tried to take a selfie with Shakib. It did not go down well with Shakib, who tried to snatch the phone away from the fan and made gestures of beating him up. Thereafter, the fan returned and Shakib returned to his discussions with the coaches.
-
-...
-
-[Data](articles/9597090a.json)
-
-[Extended Data](ext_articles/9597090a.ext.json)
-
----
-
-### Suspect arrested with money with a core
-
-*2024-05-07 12:44:35* · [`adalk`](https://www.ada.lk/breaking_news/කෝටියක-වත්කම්-සමග-මුදල්-විශුද්ධිකරණය-කළ-සැකකරුවෙක්-අල්ලයි/11-409467) · `si`
-
-A person involved in illegal activities, with a history of arrests and cannabis possession, was apprehended in Hingurakgoda. The suspect, who had no other income sources, was arrested with valuable vehicles.
-
-🟩
-
-The Criminal Investigation Unit stated that a person who was earned by illegal rackets and had several valuable vehicles was arrested in the Hingurakgoda Ulpamagama area under the Hingurakgoda Hingurakgoda.
-
-OIC of the Criminal Investigation Division, OIC of the Polonnaruwa Division, Police Inspector AT. Mr. Bandara asked us.
-
-The suspect is an early nine years in the Hingurakgoda Magistrate's Court while he has a six kilogram of cannabis in the Hingurakgoda Police while he had a six kilogram of cannabis.
-
-Intelligence and Police investigations have revealed that the vehicles were obtained with a long time with a long time and had no other sources of income and there are several complaints at Minoririya and Hingurakgoda Police Stations.
-
-The OIC of the Polonnaruwa Divisional Inspector EB Bandara further stated that the arrested vehicles have been issued in the Hingurakgoda Police Station.
-
-◼️
-
-[Data](articles/b35b2a16.json)
-
-[Extended Data](ext_articles/b35b2a16.ext.json)
-
----
-
-### I killed my mother;The boy's confession
-
-*2024-05-07 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானே-அம்மாவை-கொலை-செய்தேன்-சிறுவன்-வாக்குமூலம்/175-336884) · `ta`
-
-A 16-year-old son confessed to strangling his mother, leading to her death. The boy, who was addicted to mobile games and depressed, was arrested.
-
-🟩
-
-The body of a woman has been recovered on Friday (03) from a house in Tellipallai area in Jaffna.
-
-Henatic Jasmin (age 37) of Tellippali has been recovered and her husband is living abroad as she lives with her two children.
-
-On Friday (03), only a mother and a 16 -year -old son were found dead in the next day.
-
-The woman's son was missing from the house and blood stains were found on the walls of the house.
-
-The boy, who was missing by the police, was arrested by the police on Monday (06) and the boy had confessed that the boy had confessed that "I strangled my mother's neck".
-
-In this case, the police spokesman said that the boy was mentally ill and had been addicted to mobile games (mobile games) and was severely depressed.
-
-It is noteworthy that the police are conducting further investigations.
-
-◼️
-
-[Data](articles/ff8ca56d.json)
-
-[Extended Data](ext_articles/ff8ca56d.ext.json)
-
----
-
-### 19 crores found three more than 2 vehicles worth more than 2 million vehicles
-
-*2024-05-07 12:33:46* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-19-මත්ද්‍රව්‍ය-ජාවාරම-සම්බන්ධයෙන්-තවත්-කෝටි-2-ක්-වටිනා-වාහන-තුනක්-සොයා-ගැනේ/11-409466) · `si`
-
-Police found 19 crores of vehicles worth over 2 million, including luxury buses and cars, linked to a drug racket.
-
-🟩
-
-The Biyagama Police have been able to find another 350 million vehicles worth more than three million vehicles worth Rs.
-
-The vehicles were found in a luxury bus, and two modern cars.
-
-It is revealed that the main suspect is the main suspect of the main suspect of the hygrology racket of the drug racket, which is currently hidden by these vehicles.
-
-Police also recovered two-scoo-type motorbikes and two motorcycles while being interrogated by the suspect.
-
-◼️
-
-[Data](articles/d6f9dff6.json)
-
-[Extended Data](ext_articles/d6f9dff6.ext.json)
-
----
-
-### Two persons who handed Makandura Madush's drug network
-
-*2024-05-07 12:31:55* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මධූෂ්ගේ-මත්ද්‍රව්‍ය-ජාලය-මෙහෙයවූ-දෙන්නෙක්/11-409465) · `si`
-
-The Police Special Task Force arrested Makandura Madush's drug network, seizing digital scales, phones, and cash. Two suspects were taken into custody after a raid near Kadawatha, Colombo.
-
-🟩
-
-The Police Special Task Force, who is said to be arrested with the drug network of Makandura Madushuge, who is a group of well-known criminal gang leader.
-
-Baortaranna, a Digital scale, a digital scales, five mobile phones, a cash transaction notebook and the two suspects were taken into custody.
-
-According to information received by the Special Task Force intelligence, a raid was carried out near the Extension of Police, Kadawatha - Colombo, Kerawalapitiya expressway.. A STF officer inaugurated the car with the back of the car and had fled the vehicle's rear wheel and was later arrested by the Special Task Force officials.Available.
-
-The suspect was later inspected by the car when he inspected the car at the Grandpass, Madush Lakshituwa, near the Grandpass Campaign Complex in Sri Lanka.A person who has committed close relations with Madushhs, a person who has been arrested with a person with 1 kilograms of ice drugs and 68 mm.
-
-...
-
-[Data](articles/6c4802e5.json)
-
-[Extended Data](ext_articles/6c4802e5.ext.json)
-
----
-
-### Organised group disconnecting power supplies to embarrass government: Kanchana
-
-*2024-05-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Organised-group-disconnecting-power-supplies-to-embarrass-government-Kanchana/108-282086) · `en`
-
-Parliament, May 07 (Daily Mirror)- An organised group is operating to disconnect the power supplies of electricity consumers who had defaulted in paying their bills to disrepute and embarrass the government, Power and Energy Minister Kanchana Wijesekara said today.
-
-He told Parliament that the Ceylon Electricity Board (CEB) has launched an investigation into the matter.
-
-The Minister said this while responding to a question raised by SJB MP Thushara Indunil about the power disconnections.
-
-Minister Wijesekara said there was a proper procedure for power disconnections and added that disciplinary action will be taken against officials who fail to adopt the due procedures.
-
-...
-
-[Data](articles/648aefc3.json)
-
-[Extended Data](ext_articles/648aefc3.ext.json)
-
----
-
-### Organised group disconnecting power supplies to disrepute government: Kanchana
-
-*2024-05-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Organised-group-disconnecting-power-supplies-to-disrepute-government-Kanchana/108-282086) · `en`
-
-Parliament, May 07 (Daily Mirror)- An organised group is operating to disconnect the power supplies of electricity consumers who had defaulted in paying their bills to disrepute and embarrass the government, Power and Energy Minister Kanchana Wijesekara said today.
-
-He told Parliament that the Ceylon Electricity Board (CEB) has launched an investigation into the matter.
-
-The Minister said this while responding to a question raised by SJB MP Thushara Indunil about the power disconnections.
-
-Minister Wijesekara said there was a proper procedure for power disconnections and added that disciplinary action will be taken against officials who fail to adopt the due procedures.
-
-...
-
-[Data](articles/d7b1c8a0.json)
-
-[Extended Data](ext_articles/d7b1c8a0.ext.json)
 
 ---

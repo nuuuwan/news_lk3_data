@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 11:33:46**
+As of **2024-05-07 11:53:08**
 
 ## Newspaper Stats
 
-*Scraped **22,277** Articles*
+*Scraped **22,426** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 188
-dbsjeyarajcom | 232
+colombotelegraphcom | 198
 bbccomsinhala | 235
+dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
-dailyftlk | 1,240
-economynextcom | 1,273
-adalk | 1,855
-tamilmirrorlk | 2,579
+economynextcom | 1,279
+dailyftlk | 1,307
+adalk | 1,884
+tamilmirrorlk | 2,609
 adaderanalk | 2,642
 virakesarilk | 3,338
 dailymirrorlk | 3,511
-adaderanasinhalalk | 3,597
+adaderanasinhalalk | 3,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,155 (99.5%) of 22,277 articles have been extended.
+22,169 (98.9%) of 22,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### யாழில். அதிக வெப்பத்தால் ஐவர் உயிரிழப்பு
+
+*2024-05-07 11:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-அதிக-வெப்பத்தால்-ஐவர்-உயிரிழப்பு/71-336880) · `ta`
+
+யாழ்ப்பாணத்தில் நிலவும் அதிக வெப்பம் மற்றும் வெப்ப அலை காரணமாக 05 பேர் உயிரிழந்துள்ளனர் என யாழ்.போதான வைத்தியசாலையின் பொது மருத்துவ நிபுணர் ரி.பேரானந்தராஜா தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணத்தில் தற்போது அதிக வெப்பமான காலநிலை காணப்படுகிறது. ஒரு மனிதனின் உடலானது 40.5 சென்டிகிரேட் அல்லது 105 பரனைட் வெப்பத்தையே தாங்கும். அதனை தாண்டும் போது, தீவிரமான பாதிப்புகள் ஏற்படும்.
+
+அதனால் வியர்வை அதிகரிப்பு , வியர்குருக்கள் போடுதல் , போன்றவை ஏற்படும். வியர்வை அதிகரிப்பால் , உடலில் நீரின் அளவு குறைவடைந்து , மயக்கம் ஏற்படும்.
+
+இந்நிலை தொடர்கின்ற போது "ஹீட் ஸ்ரோக்" ஏற்படும். அத்துடன் , சிறுநீரகம் , இருதயம் , சுவாசப்பை போன்றவை செயல் இழக்கும். அதேவேளை குருதி சிறுதட்டுக்களின் எண்ணிக்கை குறைவடைந்து , உடல் நிலை மிக மோசமாக பாதிக்கப்படும். மூளை செயல் இழந்து மயக்கம் ஏற்படும் சம்பவங்களும் நிகழும்.
+
+...
+
+[Data](articles/b35d7b57.json)
+
+---
+
+### பிரித்தானிய உயர்மட்டக் குழுவிற்கும் சஜித்திற்குமிடையில் சந்திப்பு
+
+*2024-05-07 11:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரித்தானிய-உயர்மட்டக்-குழுவிற்கும்-சஜித்திற்குமிடையில்-சந்திப்பு/175-336879) · `ta`
+
+பிரித்தானிய வெளிவிவகார, பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகத்தின் இந்து-பசிபிக் பிராந்திய பணிப்பாளர் பென் மேலருக்கும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையிலான விசேட சந்திப்பொன்று செவ்வாய்யக்கிழமை (07)  கொழும்பில் இடம்பெற்றது.
+
+இச்சந்திப்பில்:  இலங்கை தற்போது எதிர்நோக்கும் வங்குரோத்து நிலை குறித்து இரு தரப்பினருக்கும் இடையில் நீண்ட நேரம் கலந்துரையாடப்பட்டதுடன், இதில் இருந்து விடுபட தாம் மற்றும் தமது குழுவினர் மேற்கொள்ளும் திட்டங்கள் குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/4300e91e.json)
+
+---
+
+### පෙම්වතිය බැලීමට ගොස් අතුරුදන් වූ තරුණයාගේ සිරුර හමුවෙයි
+
+*2024-05-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196362) · `si`
+
+පෙම්වතිය බැලීමට ගොස් අතුරුදන් වූ කුලියාපිටියේ පදිංචිව සිටි තරුණයාගේ මළ සිරුර මාදම්පේ ප්‍රදේශයේ තිබී සොයාගෙන ඇතැයි පොලීසිය පවසයි.
+
+කැලෑවක තිබී අදාළ මළ සිරුර සොයාගත් බව  පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා කියා සිටියේය.
+
+◼️
+
+[Data](articles/29354e91.json)
+
+---
+
+### Sri Lanka to buy wind power from Adani for 8.26 US cents
+
+*2024-05-07 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-buy-wind-power-from-adani-for-8-26-us-cents-161751/) · `en`
+
+ECONOMYNEXT – Sri Lanka will purchase power from wind plants built by Adani Green Energy Limited of India at 8.26 US cents a kilo watt hour, a government statement said.
+
+The cabinet had approved the price after agreement was reached by a Cabinet Appointed Negotiations Committee.
+
+Adani will be paid in rupees at the prevailing exchange rates.
+
+The contract will be valid for 20 years. The 484 MegaWatts of plants will be built in Mannar and Pooneryn. (Colombo/Apr7/2024)
+
+◼️
+
+[Data](articles/4c109abf.json)
+
+---
+
+### தண்ணீரை குடிக்கவும்: வாக்களித்த பின் மோடி அறிவுறுத்தினார்
+
+*2024-05-07 11:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீரை-குடிக்கவும்-வாக்களித்த-பின்-மோடி-அறிவுறுத்தினார்/175-336878) · `ta`
+
+மக்களவை தேர்தலுக்கான மூன்றாம் கட்ட வாக்குப்பதிவு நடைபெற்று வரும் நிலையில் இந்திய பிரதமர் நரேந்திர மோடி வாக்களித்தார்.
+
+இந்தியாவில் மக்களவை தேர்தல் 7 கட்டங்களாக நடைபெறுகிறது. இதில், கடந்த மாதம் 19 -ம் திகதி மற்றும் 26-ம் திகதியில் இரண்டு கட்ட வாக்குப்பதிவு நடந்து முடிந்தது.
+
+இந்நிலையில்,  உத்தரபிரதேசம், குஜராத், பீகார், அசாம், சத்தீஸ்கர், கோவா , மகாராஷ்டிரா, கர்நாடகா உள்ளிட்ட 10 மாநிலங்கள், 2 யூனியன் பிரதேசங்கள் உட்பட்ட 93 தொகுதிகளில் மூன்றாம் கட்ட வாக்குப்பதிவு செவ்வாய்க்கிழமை (07) நடைபெற்று வருகிறது.
+
+காலை 7 மணிக்கு வாக்குப்பதிவு தொடங்கிய நிலையில் மக்கள் நீண்ட வரிசையில் நின்று ஆர்வமுடன் வாக்களித்து வருகின்றனர்.
+
+இந்நிலையில், இந்திய பிரதமர் நரேந்திர மோடி அகமதாபாத்தில் காந்திநகர் தொகுதிக்கு உட்பட்ட வாக்குசாவடியில் தனது வாக்கினை செலுத்தினார். அப்போது, பிரதமர் மோடியை மத்திய உள்துறை அமைச்சர் அமித்ஷா வரவேற்றார்.
+
+பின்னர் செய்தியாளர்களை சந்தித்த பிரதமர் மோடி, "மக்களவை தேர்தலுக்கான மூன்றாம் கட்ட தேர்தலில் அதிகமான வாக்குகள் பதிவாக வேண்டும். மக்கள் திரண்டு வந்து வாக்களிக்க வேண்டும்.
+
+...
+
+[Data](articles/e412cba8.json)
+
+---
+
+### හෙද සේවය ඇතුළු සෞඛ්‍ය සේවාවල විශ්‍රාම වයසේ වෙනසක්
+
+*2024-05-07 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196361) · `si`
+
+හෙද කාර්ය මණ්ඩලයේ ඇතුළු ඇතැම් සෞඛ්‍ය සේවාවල විශ්‍රාම යාමේ වයස අවුරුදු 61 දක්වා දිර්ඝ කරන ලෙස ඉල්ලා අමාත්‍ය මණ්ඩලයට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කළ බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+
+අද (07) පාර්ලිමේන්තුවෙදී මන්ත්‍රී ගාමිණී වලේබොඩ මහතා ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+
+"හෙද සහ ඇතැම් වෛද්‍ය සේවාවල විශ්‍රාම යෑමේ වයස 63 දක්වා දිර්ඝ කිරීමේ තීරණයක් ගත්තා. එය ක්‍රියාත්මක නොවෙන තත්ත්වයට පත්වුණා. දැන් මේකේ ප්‍රතිඵලයක් විදිහට රත්නපුරේ තිබෙන හෙද පුහුණු පාසලේ විදුහල්පති විශ්‍රාම ගිහිල්ලා ඊළඟ කෙනාට හෝ වෙන විදුහල්පති කෙනෙකුට වැඩ භාරදෙන්නේ නැතුව දැන් රෝහලට වෙලා ඉන්නවා. මේ 63 ක්‍රියාත්මක වෙනවද නැද්ද කියන එක පිළිබඳව දෙපාර්තමේන්තු ප්‍රධානීන් ඇතුළු කාණ්ඩායම් දැන්නෙත් නෑ. වෛද්‍ය අධ්‍යක්ෂ දන්නේත් නෑ. හෙද පුහුණු විදුහලේ කටයුතු පවත්වාගෙන යන්න විදිහකුත් නෑ."
+
+"මේ සම්බන්ධයෙන් අධිකරණමය කටයුත්තක් තියෙනවා. එකේදී අපට එකඟවෙන්න කියලා කිව්වේ වයස 61 දක්වා දිර්ඝ කරන්න. ඒ සම්බන්ධයෙන් අපි කැබිනට් මණ්ඩලයට පත්‍රිකාවක් ඉදිරිපත් කළා. අවුරුදු 61 වඩා දිර්ඝ කිරීමක් නැහැ."
+
+...
+
+[Data](articles/4628719f.json)
+
+---
+
+### දියවන්නාවේ නාඳුනන මළ සිරුරක්
+
+*2024-05-07 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196360) · `si`
+
+පාර්ලිමේන්තු වටරවුම අසල දියවන්නා ඔයේ තිබී නාඳුනන පිරිමි පුද්ගලයෙකුගේ මළ සිරුරක් හමුව තිබේ.
+
+◼️
+
+[Data](articles/4fc6df82.json)
+
+---
 
 ### BCCI breaks silence after Trinidad PM reveals terror threat to T20 World Cup, report says it’s from ISIS
 
@@ -46,6 +162,8 @@ As of now, the threat, according to media reports, is specific to the West Indie
 
 [Data](articles/50fb8770.json)
 
+[Extended Data](ext_articles/50fb8770.ext.json)
+
 ---
 
 ### Sri Lanka’s official reserves up to USD 5.43 bn in April
@@ -59,6 +177,32 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 ◼️
 
 [Data](articles/af86f6ef.json)
+
+[Extended Data](ext_articles/af86f6ef.ext.json)
+
+---
+
+### Sri Lanka solar power costs down 20-pct as rupee strengthens
+
+*2024-05-07 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-solar-power-costs-down-20-pct-as-rupee-strengthens-161742/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s exchange rate as well as a fall in manufacturing costs have reduced the cost of solar power systems, an industry official said.
+
+“Cost have actually come down from last year by around 20 per cent,” Accounts Manager of E.B. Creasy, Eksath De Silva said.
+
+He was speaking at an event to announce the Construction Power and Energy Conference which will held from July 05 to 07 at the Bandaranaike Memorial International Conference Hall in Colombo, which the company is supporting.
+
+Organizers are expecting over 170 exhibitors for the event and 14,000 visitors.
+
+Demand for solar power is coming back as the Return on Investment is now higher.
+
+“Returns are significantly good,” De Silva said. “There is a significant increase in demand and there is a significant increase in returns.”
+
+Solar panel prices surged worldwide as the US Fed printed money, with shipping costs also rising.
+
+...
+
+[Data](articles/33b33c5c.json)
 
 ---
 
@@ -77,6 +221,8 @@ The first session of 'Education Yalpanam' was held on March 30th and 31st, provi
 ...
 
 [Data](articles/e22346ce.json)
+
+[Extended Data](ext_articles/e22346ce.ext.json)
 
 ---
 
@@ -99,6 +245,22 @@ The Central Bank of Sri Lanka (CBSL) said that it includes US $ 1.4 billion.
 [Data](articles/642c1da1.json)
 
 [Extended Data](ext_articles/642c1da1.ext.json)
+
+---
+
+### ​බණ්ඩි පොහොර මුදල් අද සිට ගොවි ගිණුම්වලට
+
+*2024-05-07 10:34:40* · [`adalk`](https://www.ada.lk/breaking_news/​බණ්ඩි-පොහොර-මුදල්-අද-සිට-ගොවි-ගිණුම්වලට/11-409463) · `si`
+
+යල කන්නයේ පොහොර සහනාධාරය බණ්ඩි පොහොර (MOP) ඉලක්ක කර ගනිමින් ලබා දෙන අතර ඒ අනුව ඒ සඳහා වූ රුපියල් 15,000ක මුදල් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් අද (07දා) සිට ගොවි ගිණුම්වලට බැර කිරීමට නියමිතය.
+
+මේ වනවිට කුඹුරු වගා කර අවසන් කර ඇති ගොවීන් සඳහා මුල්‍ය ප්‍රතිපාදන ලබා දීමට නියමිත බව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා සඳහන් කළේය.
+
+කෘෂිකර්ම දෙපාර්තමේන්තුව සඳහන් කරන පරිදි වී වගාවට බණ්ඩි පොහොර යෙදීම පසුගිය කන්න කිහිපය තුළ ප්‍රමාණාත්මකව අවම වී තිබේ. වී කරල ශක්තිමත්වීම සඳහා මෙන්ම වී ඇට පරිපූර්ණවීම සඳහා බණ්ඩි පොහොර යෙදීම අනිවාර්ය බවට  කෘෂිකර්ම දෙපාර්තමේන්තුව අවධාරණය කර තිබුණද පසුගිය මහ කන්නයේ දී එම පොහොර භාවිතය අඩුවී තිබේ. ඒ අනුව හෙක්ටයාර් ලක්ෂ 08ක් පසුගිය මහ කන්නයේ දී වගා කර තිබුණද පොහොර අලෙවි ව ඇත්තේ මෙට්‍රික් ටොන් 11,000ක් පමණක් බව එම දෙපාර්තමේන්තුවේ වාර්තා පෙන්වා දෙයි.
+
+...
+
+[Data](articles/8ec84cbd.json)
 
 ---
 
@@ -126,6 +288,24 @@ The order on this petition was to be announced today.
 
 ---
 
+### வழக்கிலிருந்து விலகினார் நீதியரசர்  துரைராஜா
+
+*2024-05-07 10:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கிலிருந்து-விலகினார்-நீதியரசர்-துரைராஜா/175-336877) · `ta`
+
+யாழ்ப்பாணம் புங்குடுதீவு பகுதியில் 18 வயது பாடசாலை மாணவியான சிவலோக நாதன் வித்தியா  கடத்தப்பட்டு கூட்டு பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சம்பவத்தில் நீதியரசர்கள் குழாமின் தலைமை நீதியரசர் எஸ். துரைராஜா திங்கட்கிழமை (06) குறித்த குழாமில் இருந்து விலகியுள்ளார்.
+
+குறித்த சம்பவத்தில் மரண தண்டனை விதிக்கப்பட்ட ஸ்வீஸ் குமார் உள்ளிட்ட ஐந்து பிரதிவாதிகள் தாக்கல் செய்த மேன்முறையீட்டு மனுக்களை விசாரிப்பதற்காக பிரதம நீதியரசரால் ஐவரடங்கிய குழு நியமிக்கப்பட்டிருந்தது.
+
+இந்த மனுக்கள் திங்கட்கிழமை  (06)  நீதியரசர்களான  எஸ்.துரைராஜா, யசந்த கோதாகொட, ஏ. எச்.எம்.டி. நவாஸ், ஷிரான் குணரத்ன மற்றும் பிரியந்த பெர்னாண்டோ ஆகிய ஐந்து பேர் கொண்ட உயர் நீதிமன்ற நீதியரசர்கள் அமர்வு முன்னிலையில் அழைக்கப்பட்டது.
+
+இதன்போது, ஐவர் அடங்கிய அமர்வின் தலைமை நீதியரசர் எஸ்.துரைராஜா, தான் சட்டமா அதிபர் திணைக்களத்தில் கடமையாற்றிய காலத்தில் இந்த வழக்கின் விவகாரங்களை மேற்பார்வையிட்டதால் இந்த மேன்முறையீட்டு விசாரணையில் இருந்து விலக தீர்மானித்ததாக தெரிவித்தார்.
+
+...
+
+[Data](articles/40042f95.json)
+
+---
+
 ### Public warned of rise in online phishing scams targeting mobile devices
 
 *2024-05-07 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99057/public-warned-of-rise-in-online-phishing-scams-targeting-mobile-devices) · `en`
@@ -143,6 +323,24 @@ It pointed out that fraudsters use social media platforms, websites and online m
 ...
 
 [Data](articles/0c910f5b.json)
+
+[Extended Data](ext_articles/0c910f5b.ext.json)
+
+---
+
+### SLPP உறுப்பினர்கள் அனைவருக்கும் அவசர அழைப்பு
+
+*2024-05-07 10:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-உறுப்பினர்கள்-அனைவருக்கும்-அவசர-அழைப்பு/175-336875) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்கள் மற்றும் அனைத்து அமைப்பாளர்களும் கொழும்புக்கு அழைக்கப்பட்டுள்ளனர்.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஸ்தாபகரும், முன்னாள் அமைச்சர் பசில் ராஜபக்ஷ  இது தொடர்பான அழைப்பை விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இதன்படி, ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தும் அனைத்து பாராளுமன்ற உறுப்பினர்கள் மற்றும் அமைப்பாளர்கள் முற்பகல் 10.45 மணியளவில் நெலும் மாவத்தையில் உள்ள கட்சியின் தலைமையகத்திற்கு அழைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/38b14a45.json)
 
 ---
 
@@ -165,6 +363,8 @@ The wind power project will award this tender to Adani Green Energy SL Limited f
 ◼️
 
 [Data](articles/276955f4.json)
+
+[Extended Data](ext_articles/276955f4.ext.json)
 
 ---
 
@@ -209,6 +409,70 @@ The upcoming International Industry Exhibition, “Industry EXPO 2024,” is set
 ...
 
 [Data](articles/0b4b6adb.json)
+
+[Extended Data](ext_articles/0b4b6adb.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 299.50/300.50 to US dollar
+
+*2024-05-07 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-299-50-300-50-to-us-dollar-161734/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 299.50/300.50 to the US dollar on Tuesday from 298.00/50 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 10.65/70 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 11.00/10 percent.
+
+A bond maturing on 15.03.2028 was quoted down at 11.40/45 percent from 11.40/50 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
+
+A bond maturing on 01.10.2032 closed down at 12.25/35 percent from 12.20/35 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.05 percent at 12,382, and the S&P SL20 was down 0.07 percent at 3,645. (Colombo/May07/2024)
+
+◼️
+
+[Data](articles/236160e9.json)
+
+---
+
+### මන්න රමේෂ් ගෙන එද්දී කටුනායකට විශේෂ ආරක්ෂාවක්
+
+*2024-05-07 09:42:50* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-රමේෂ්-ගෙන-එද්දී-කටුනායකට-විශේෂ-ආරක්ෂාවක්/11-409462) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු මෙන්ම මිනීමැරුම් කීපයක්  සදහා චෝදනා ලබා සිටින අධිකාරම් මුදියන්සේලාගේ රමේෂ් ප්‍රියජනක නොහොත් " මන්නා රමේෂ් " නැමැති අය 05/07 දින අලුයම ඩුබායි සිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණියහ .
+
+32 හැවිරිදි වියේ පසුවන මන්නා රමේෂ් අවිස්සාවේල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි .ඔහු මීට මාස කීපයකට පෙර ඩුබායි හී දී එරට ආරක්ෂක නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබුණි .
+
+මන්නා රමේෂ් 05/07 දින අලුයම 04.43 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+
+ඔහු වෙනුවෙන් කටුනායක ගුවන් තොටුපොළ තුළ පොලිස් නිලධාරීන්ට අමතරව පොලිස් විශේෂ කාර්යය බළකායේ නිලධාරීන් විශාල පිරිසක් ද කැදවා තිබුණි .
+
+...
+
+[Data](articles/7a8c534c.json)
+
+---
+
+### මන්න රමේෂ් ලංකාවට ගෙන එයි
+
+*2024-05-07 09:37:19* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-රමේෂ්-ලංකාවට-ගෙන-එයි/11-409461) · `si`
+
+ඩුබායි පොලිසිය විසින් අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධකරුවෙක් වන රමේෂ් මිහිරංග නොහොත් ‘මන්න රමේෂ්’ සහ  ඔහුගේ සහායකයින් තිදෙනෙකු කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපළෙන් අද පෙරවරුවේ ශ්‍රී ලංකාවට රැගෙන එන ලදී.
+
+'මන්න රමේෂ්' අත්අඩංගුවට ගැනීමෙන් පසු ඔහු නැවත ශ්‍රී ලංකාවට රැගෙන ඒම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ (CID) කණ්ඩායමක් ඩුබායි බලා පිටත්ව ගියේය.
+
+අවිස්සාවේල්ල ප්‍රදේශයේ සිදුවූ ඝාතන රැසකට සම්බන්ධ මෙන්ම තවත් අපරාධ රැසකට අවශ්‍යව සිටි ‘මන්න රමේෂ්’ අත්අඩංගුවට ගැනීම සඳහා මීට පෙර ජාත්‍යන්තර පොලිසිය හරහා ශ්‍රි ලංකාව රතු නිවේදනයක් නිකුත් කර තිබුණි.
+
+මන්නා රමේෂ් මීට මාස දෙකකට පෙර ඩුබායි පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇත්තේ ඔහු සිය බිරිඳ සහ දරුවන් දෙදෙනා සමඟ මෝටර් රථයකින් ගමන් කරමින් සිටියදි බව වාර්තා වෙයි.
+
+ඔහු අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රශ්න කිරීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් රඳවා ගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/578fc88a.json)
 
 ---
 
@@ -268,6 +532,22 @@ The body of the deceased woman has been taken to the Matara hospital for postmor
 
 ---
 
+### விசா விவகாரம்: பதவி விலகுவதாக ஹரீன் எச்சரிக்கை
+
+*2024-05-07 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-விவகாரம்-பதவி-விலகுவதாக-ஹரீன்-எச்சரிக்கை/175-336874) · `ta`
+
+புதிய விசா நடைமுறை தொடர்பில் தனது பதவியை இராஜினாமா செய்யப்போவதாக சுற்றுலாத்துறை அமைச்சர் ஹரீன்பொணாண்டோ அமைச்சரவை கூட்டத்தில் எச்சரித்துள்ளார்.
+
+புதிய விசா நடைமுறைகளில் மாற்றங்களை மேற்கொள்ளாவிட்டால் பதவி விலகுவேன் என ஹரீன்பெர்ணாண்டோ தெரிவித்துள்ளார்.
+
+புதிய திட்டம் முன்வைக்கப்பட்ட வேளை வி.எவ்.எஸ் கட்டணங்கள் குறித்து எதுவும் தெரிவிக்கப்படவில்லை. ஆனால் இது குறித்து தெரியவந்ததும் நான் எனது எதிர்ப்பை வெளியிட்டேன் என ஹரீன்பெர்ணாண்டோ தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/b735317e.json)
+
+---
+
 ### Notorious criminal ’Manna Ramesh’ extradited to Sri Lanka from Dubai
 
 *2024-05-07 09:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Notorious-criminal-Manna-Ramesh-extradited-to-Sri-Lanka-from-Dubai/108-282080) · `en`
@@ -285,6 +565,8 @@ He will be detained by the CID for further questioning after being produced befo
 ◼️
 
 [Data](articles/c1b21ae3.json)
+
+[Extended Data](ext_articles/c1b21ae3.ext.json)
 
 ---
 
@@ -340,6 +622,24 @@ Responding, Judge Turai Raja said that there was a delay in the activities as th
 
 ---
 
+### மன்னா ரமேஷ் இலங்கை அழைத்து வரப்பட்டார்
+
+*2024-05-07 07:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னா-ரமேஷ்-இலங்கை-அழைத்து-வரப்பட்டார்/175-336872) · `ta`
+
+டுபாயில் கைது செய்யப்பட்ட பாதாள உலகக் கும்பலின் தலைவர் எனப்படும் மன்னா ரமேஷ் என்ற ரமேஷ் பிரியஜனக, குற்றப் புலனாய்வுப் பிரிவினரால் இன்று (07) காலை இலங்கைக்கு அழைத்து வரப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+தேடப்படும் பாதாள உலக பிரமுகருடன் வந்த குற்றப்புலனாய்வுப் பிரிவின் விசேட அதிகாரிகள் குழு இன்று (07) காலை கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தை (BIA) வந்தடைந்ததாக பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+டுபாயில் 'மன்னா ரமேஷ்' என அழைக்கப்படும் பிரபல பாதாள உலக நபரான ரமேஷ் பிரியஜனக கைது செய்யப்பட்டதாக இலங்கை பாதுகாப்புப் படையினருக்கு மார்ச் 06ஆம் திகதி தகவல் கிடைத்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, தேடப்பட்டு வந்த குற்றவாளியை இலங்கை அதிகாரிகளிடம் ஒப்படைக்குமாறு துபாய் பொலிஸாரிடம் விடுக்கப்பட்ட கோரிக்கையின் பேரில், அவரை மீண்டும் இலங்கைக்கு அழைத்துச் செல்வதற்காக பொலிஸ் அதிகாரிகள் குழுவொன்று டுபாய்க்கு அனுப்பி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/23d865ec.json)
+
+---
+
 ### Several deadly accidents
 
 *2024-05-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196352) · `si`
@@ -376,6 +676,44 @@ Meanwhile, a van in Nittambuwa maintains on the Colombo-Kandy main road was an a
 
 ---
 
+### ”மாற்றங்களை மேற்கொள்ளாவிட்டால் பதவி விலகுவேன்”
+
+*2024-05-07 07:31:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றங்களை-மேற்கொள்ளாவிட்டால்-பதவி-விலகுவேன்/175-336871) · `ta`
+
+புதிய விசா நடைமுறை சர்ச்சை தொடர்பில் கருத்து வெளியிட்ட சுற்றுலாத்துறை அமைச்சர் ஹரின்பொணாண்டோ தனது பதவியை இராஜினாமா செய்யப்போவதாக அமைச்சரவை கூட்டத்தில் தெரிவித்துள்ளார்.
+
+புதிய விசா நடைமுறைகளில் மாற்றங்களை மேற்கொள்ளாவிட்டால் பதவி விலகுவேன் என ஹரின்பெர்ணாண்டோ அமைச்சரவை கூட்டத்தில் தெரிவித்துள்ளார்.
+
+புதிய திட்டம் முன்வைக்கப்பட்ட போது VFS கட்டணங்கள் குறித்து எதுவும் தெரிவிக்கப்படவில்லை ஆனால் இது குறித்து தெரியவந்ததும் நான் எனது எதிர்ப்பை வெளியிட்டேன் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/5fb79c99.json)
+
+---
+
+### நாளை முதல் வானிலையில் மாற்றம்
+
+*2024-05-07 07:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-வானிலையில்-மாற்றம்/175-336868) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் நாளை முதல் சில தினங்களுக்கு மழையுடனான வானிலை  அதிகரித்துக் காணப்படும் என எதிர்பார்க்கப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+வடக்கு,கிழக்கு மற்றும் வடமத்திய  மாகாணங்களிலும் அத்துடன் குருநாகல் மற்றும் மொனராகலை மாவட்டங்களிலும்  இன்று மிகவும்  உச்ச அளவில் வெப்பநிலை காணப்படும்.
+
+இதேவேளை சப்ரகமுவ, மேல் மற்றும் தென் மாகாணங்களிலும் அத்துடன் புத்தளம் மற்றும்  மாத்தளை மாவட்டங்களிலும்  அதிகரித்த வெப்பநிலை காணப்படும்.
+
+மத்திய,  சப்ரகமுவ, மேல்,வடமேல், கிழக்கு மற்றும் ஊவா மாகாணங்களின் பல இடங்களிலும் அத்துடன் காலி மற்றும்  மாத்தறை  மாவட்டங்களின் பல இடங்களிலும் பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+ஏனைய பிரதேசங்களின்  சில இடங்களில் பிற்பகல் அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+ஹம்பாந்தோட்டை  தொடக்கம் காலி  ஊடாக கொழும்பு வரையான  கரையோரப் பிராந்தியங்களில் காலை வேளையிலும் மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/7704042a.json)
+
+---
+
 ### Racism, body-shaming fly high with Air Belgium crew against SriLankan staff
 
 *2024-05-07 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Racism-body-shaming-fly-high-with-Air-Belgium-crew-against-SriLankan-staff/155-282079) · `en`
@@ -398,6 +736,8 @@ UL has initiated an investigation and statements obtained from UL crew members a
 
 [Data](articles/56aeb6d9.json)
 
+[Extended Data](ext_articles/56aeb6d9.ext.json)
+
 ---
 
 ### First-ever Inter-Indian Association Cricket Tournament
@@ -409,6 +749,8 @@ The Indian Cultural Association (ICA) yesterday hosted the first-ever Inter-Indi
 ◼️
 
 [Data](articles/bc0d4a1e.json)
+
+[Extended Data](ext_articles/bc0d4a1e.ext.json)
 
 ---
 
@@ -459,6 +801,8 @@ Accordingly, a group of police officers were later dispatched to Dubai to escort
 ...
 
 [Data](articles/71f0a715.json)
+
+[Extended Data](ext_articles/71f0a715.ext.json)
 
 ---
 
@@ -512,6 +856,72 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/f6c185b5.json)
 
+[Extended Data](ext_articles/f6c185b5.ext.json)
+
+---
+
+### Sri Lanka says to issue single entry tourist visa for $50 amid VFS crisis
+
+*2024-05-07 06:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-to-issue-single-entry-tourist-visa-for-50-amid-vfs-crisis-161658/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has decided to issue a single-entry visa to tourists for 50 US dollars, the President’s media office said, after visa fees were hiked to 100 dollars with a shift to a private contractor.
+
+Sri Lanka was previously issuing a double entry visa for 50 dollars allowing tourists to visit neighboring countries and return in line with the island’s logistic hub status, and also to ‘come back for more’.
+
+“Amidst the notable progress in the country’s tourism sector, numerous stakeholders within the industry have recently urged President Ranil Wickremesinghe to maintain the maximum visa fee for foreigners at US $50,” the statement said.
+
+“They have also highlighted that this decision stands as significant support for the future growth of the tourism industry.
+
+“Consequently, President Ranil Wickremesinghe reached this decision after presenting the matter during today’s Cabinet meeting.”
+
+...
+
+[Data](articles/363b541a.json)
+
+---
+
+### Harsha queries Sri Lanka $200mn IVS-VFS Global investment claimed to justify high fees
+
+*2024-05-07 06:17:00* · [`economynextcom`](https://economynext.com/harsha-queries-sri-lanka-200mn-ivs-vfs-global-investment-claimed-to-justify-high-fees-161670/) · `en`
+
+ECONOMYNEXT – Sri Lanka opposition legislator Harsha de Silva has queried a 200 million dollar investment claim made by a private contractor which has been used to justify high fees charged from tourists for entry visas.
+
+“Can this be real?” de Silva asked in an x.com message publishing what was believed to be a cabinet memo.
+
+” IVS-GBS Global to invest USD 200 million (tech for website and cameras?) as per Cabinet Memo justifying outsource at USD 18.50+/visa. “Where did this investment go?
+
+He also questioned whether VFS Global was added later to the consortium.
+
+According to media reports SLT-Mobitel was willing to run a system at 1 dollar per visa.
+
+Sri Lanka’s Immigration Department had a user-friendly website which had drawn praise from tourists and travel website.
+
+As part of the shift, visa fees were pushed up from 50 to 100 dollars.
+
+Sri Lanka’s cabinet has now approved a 50 dollar single entry visa after protests from the industry, according to statement issued late Monday.
+
+◼️
+
+[Data](articles/079085af.json)
+
+---
+
+### Sri Lanka mobile banking users warned of phone hi-jacking scam
+
+*2024-05-07 06:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-mobile-banking-users-warned-of-phone-hi-jacking-scam-161728/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s mobile banking users have been warned of hackers who are hi-jacking their phones and taking over bank accounts.
+
+“We have been alerted regarding several incidents of financial fraud, both globally and in Sri Lanka, disguised as attractive online offers, leading to mobile device users inadvertently clicking on unknown links and downloading malicious apps and files,” a joint statement from Sri Lanka Banks Association, Lanka Pay and FinCSIRT said.
+
+“This action grants scammers complete access to the mobile device, enabling them to control it remotely.
+
+“Once the fraudsters take control of the mobile device, they have easy access to bank/payment apps that are installed on that device, leading to theft from bank accounts and payment cards accessed via the mobile device.”
+
+...
+
+[Data](articles/53c99f00.json)
+
 ---
 
 ### A change in the weather
@@ -544,6 +954,36 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### Dept. of Immigration and Emigration Chief makes public rationale for working with VFS Global
+
+*2024-05-07 05:41:51* · [`dailyftlk`](https://www.ft.lk/opinion/Dept-of-Immigration-and-Emigration-Chief-makes-public-rationale-for-working-with-VFS-Global/14-761492) · `en`
+
+Following is the full text of a statement issued by Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya yesterday on the Government’s decision to work with VFS Global for processing of visa applications for visitors to Sri Lanka
+
+The Department of Immigration and Emigration commenced in 2012 the online Electronic Travel Authorisation (ETA) Programme. To grant approval to enter to Sri Lanka for the foreigners who visit Sri Lanka and under this program, only text data was obtained from foreigners. Subsequently, there was a strong requirement to introduce a new methodology due to the fact that this program was not updated timely to meet the technical requirements of the Department. This requirement was further intensified with the introduction of a new visa methodology.
+
+...
+
+[Data](articles/bcb0778a.json)
+
+---
+
+### VFS Global statement on Sri Lanka E-Visa
+
+*2024-05-07 05:37:44* · [`dailyftlk`](https://www.ft.lk/opinion/VFS-Global-statement-on-Sri-Lanka-E-Visa/14-761491) · `en`
+
+VFS Global is a trusted partner to 67 client governments. It operates over 3,300 visa application centres in 151 countries and has processed over 285 million applications since its inception in 2001.
+
+Headquartered in Zurich and Dubai and backed by majority shareholder Blackstone, along with the Swiss-based Kuoni and Hugentobler Foundation and EQT, VFS Global is committed to creating value for all stakeholders and leading in responsible, innovative solutions making government services more effective and efficient.
+
+As the world’s leading outsourcing and technology service specialist, VFS Global embraces technological innovation including Generative AI to support governments and diplomatic missions worldwide. The company manages non-judgmental and administrative tasks related to applications for visa, passport, and consular services for its client governments, increasing productivity and enabling them to focus entirely on the critical task of assessment.
+
+...
+
+[Data](articles/f1a1ce72.json)
+
+---
+
 ### Colombo among first 9  destinations to join  Emirates’ A350 network
 
 *2024-05-07 05:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-among-first-9-destinations-to-join-Emirates-A350-network/108-282057) · `en`
@@ -557,6 +997,58 @@ With 10 new A350s expected to join the Emirates fleet by March 31, 2025, the air
 ...
 
 [Data](articles/1511a382.json)
+
+[Extended Data](ext_articles/1511a382.ext.json)
+
+---
+
+### ‘Honest politicians’: Do they exist?
+
+*2024-05-07 05:20:30* · [`dailyftlk`](https://www.ft.lk/columns/Honest-politicians-Do-they-exist/4-761486) · `en`
+
+As Sri Lanka braces itself for the Presidential Election, we, the public must vote for deeds – Pic by Shehan Gunasekara
+
+When electing our next President, vote for execution, not persona
+
+Given the contextual importance of the upcoming presidential polls which, barring the unanticipated, is scheduled to take place around end-September or early October this year, it is not surprising that the key talking points at public and private gatherings, in newspaper articles, television chat shows and social media blogs are “Who among the candidates would serve Sri Lanka and the Sri Lankan citizens best as the country’s President?” and “Who are you voting for?”
+
+...
+
+[Data](articles/4255fddf.json)
+
+---
+
+### Electricity sector: Without investment we will be in the dark again
+
+*2024-05-07 05:14:02* · [`dailyftlk`](https://www.ft.lk/columns/Electricity-sector-Without-investment-we-will-be-in-the-dark-again/4-761485) · `en`
+
+From the fact the Sri Lankan developers of wind farms source many of the needed inputs from India, it should be
+
+evident that the eco system of supportive manufacturers is well established there and not here
+
+The 13-hour power cuts two years ago should have educated us on the importance of reliable power supply. But we forget after two weeks, it is said.
+
+What is being done to ensure that will not happen again, including lessening dependence on imported fossil fuel, may not be perfect. But it is important to call out egregiously misguided criticisms. If such attacks succeed as they did 20 years ago, we will continue to suffer the consequences of a bad legal framework, resulting workarounds, and underinvestment in generation, transmission, and distribution. The blocking of new baseload plants from the 1990s served no one’s interests, other than perhaps of the so-called diesel mafia. We all paid for that. We continue to pay.
+
+...
+
+[Data](articles/bc284094.json)
+
+---
+
+### Hollow rupee: High cost of mandatory currency conversions on Sri Lanka’s ability to earn foreign exchange
+
+*2024-05-07 05:06:59* · [`dailyftlk`](https://www.ft.lk/opinion/Hollow-rupee-High-cost-of-mandatory-currency-conversions-on-Sri-Lanka-s-ability-to-earn-foreign-exchange/14-761483) · `en`
+
+The impact of these dynamics will be felt in terms of reduced export revenue, within approximately nine months – which is the typical lead time on apparel orders
+
+Politics and economics are concepts that are fundamentally intertwined. Yet the unprecedented economic crisis of 2022 highlighted the complex challenges of aligning short-term political goals with long-term economic strategies.
+
+While the sharp appreciation of the Sri Lankan rupee in recent months has been roundly welcomed by most sectors of society as a positive signal, this optimism overlooks the nuanced factors influencing our currency’s strength and the medium-long-term challenges that could arise from volatile fluctuations in the price of the rupee.
+
+...
+
+[Data](articles/52e0b960.json)
 
 ---
 
@@ -580,6 +1072,168 @@ Heat Index at ‘Extreme Caution level’ in Northern, North-central and Eastern
 
 ---
 
+### Awareness session in Bangkok on Sri Lanka-Thailand FTA and investment opportunities
+
+*2024-05-07 05:04:14* · [`dailyftlk`](https://www.ft.lk/opinion/Awareness-session-in-Bangkok-on-Sri-Lanka-Thailand-FTA-and-investment-opportunities/14-761482) · `en`
+
+The Embassy and the Permanent Mission of Sri Lanka in Bangkok in collaboration with the Board of Investment of Thailand recently organised an awareness program on the benefits of the Sri Lanka-Thailand Free Trade Agreement (SLTFTA) and investment opportunities in Sri Lanka under the theme “Sri Lanka: The Future for Investment” at the One Start One Stop Investment Centre (OSOS) of the Thailand BOI.
+
+...
+
+[Data](articles/02dbb9e6.json)
+
+---
+
+### IFC Regional VP for Asia Pacific signals support for Sri Lanka’s reforms and growth
+
+*2024-05-07 04:54:34* · [`dailyftlk`](https://www.ft.lk/business/IFC-Regional-VP-for-Asia-Pacific-signals-support-for-Sri-Lanka-s-reforms-and-growth/34-761477) · `en`
+
+IFC VP for Asia Pacific Riccardo Puliti meeting with President Ranil Wickremesinghe
+
+At the agreement signing event with Commercial Bank of Ceylon
+
+Concluding a two-day visit, IFC Vice President for Asia Pacific Riccardo Puliti signalled IFC’s commitment to supporting Sri Lanka’s ongoing reforms and growth agenda, while emphasising the importance of private sector-led development for inclusive economic growth.
+
+The visit served as an opportunity for Puliti to engage with key stakeholders, including meeting President Ranil Wickremesinghe, Power and Energy Minister Kanchana Wijesekera, Central Bank Governor Dr. Nandalal Weerasinghe, private sector representatives, and development partners.
+
+...
+
+[Data](articles/3a13ed5e.json)
+
+---
+
+### Good Life X unveils rebranding strategy at 6th anniversary celebration
+
+*2024-05-07 04:50:01* · [`dailyftlk`](https://www.ft.lk/business/Good-Life-X-unveils-rebranding-strategy-at-6th-anniversary-celebration/34-761476) · `en`
+
+Esteemed attendees of GLX event held at Barefoot Garden Café
+
+The Good Life X team, from left: Program Associate Viranja Jayawardena, Program Director Christina Gunasinghe, Communications Jedi Samith Boralessa, Admin and Finance Kamil Jayah, Program Manager Emma de Silva, Program Associate Hasna Farouk, Content Stormtrooper Hari Jashwanth, Program Manager Thushan Wickremasinghe,
+
+Chief Operating Officer Vihangun Ariyaratne, and Founder and CEO Randhula de Silva
+
+In a recent event held at the Barefoot Garden Cafe in Colombo on Good Life X Ltd., announced its rebranding initiative, coinciding with the celebration of its 6th anniversary.
+
+This strategic move not only signified a visual update but also marked a profound shift towards catalysing a regenerative future for Sri Lanka and beyond with diverse ventures kicking off under its purview.
+
+The event welcomed over 100 GLX alumni, experts, scientists, academics, entrepreneurs, investors, as well as corporate leaders.
+
+...
+
+[Data](articles/0dd994cb.json)
+
+---
+
+### Ex-Hutchison’s Thirukumar Nadarasa joins Softlogic Holdings Board
+
+*2024-05-07 04:46:59* · [`dailyftlk`](https://www.ft.lk/business/Ex-Hutchison-s-Thirukumar-Nadarasa-joins-Softlogic-Holdings-Board/34-761475) · `en`
+
+Thirukumar Nadarasa has been appointed as an Independent Non-Executive Director of Softlogic Holdings PLC.
+
+He fills the vacancy created by the resignation of Aaron Russell-Davison as Non-Independent, Non-Executive Director.
+
+Nadarasa is a seasoned telecom professional with over 33 years of CXX level operational and management experience working in a number of telecom operations in South East Asia, Middle East and Africa.
+
+He first joined Singapore Telecom (Singtel) in 1990 and was with them for 4 years including secondment to Thai operations. In 1994, he joined Hutchison Telecom International in Hong Kong, part of the Hutchison Whampoa conglomerate.
+
+He has been posted to various Asian countries including India, Indonesia, Myanmar, Thailand, Vietnam and Sri Lanka.
+
+In 2009, Nadarasa joined Bintel in Bahrain as the Group COO overseeing mobile operations in 4 West African countries.
+
+...
+
+[Data](articles/89724b39.json)
+
+---
+
+### Hayleys powers Texlan Centre with landmark commercial solar installation
+
+*2024-05-07 04:44:57* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-powers-Texlan-Centre-with-landmark-commercial-solar-installation/34-761474) · `en`
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons, has successfully completed an impressive 2.3 MW capacity solar power installation for Texlan Centre Ltd., a leading hosiery manufacturer and exporter in the country.
+
+The grid-tied rooftop solar power system constructed on the rooftop of Texlan’s manufacturing facility in Minuwangoda has a capacity of 2,343 kWp. This corresponds to a planned 63,539,152 kWh of clean energy generated over a 20-year span. This will cover an estimated 32% of Texlan’s energy needs, minimising the company’s reliance on conventional grid power while lowering operational costs. This will help to reduce 46,370 tons of greenhouse gas emissions over the project period.
+
+...
+
+[Data](articles/3255f085.json)
+
+---
+
+### State Minister Amunugama leads Sri Lankan delegation to Germany’s ‘Hannover Messe’
+
+*2024-05-07 04:42:14* · [`dailyftlk`](https://www.ft.lk/business/State-Minister-Amunugama-leads-Sri-Lankan-delegation-to-Germany-s-Hannover-Messe/34-761473) · `en`
+
+A delegation led by State Minister of Investment Promotion Dilum Amunugama participated in the ‘Hannover Messe 2024’ in Hannover, Germany from 24-26 April 2024.
+
+This was the first time that Sri Lanka had officially participated in the Hannover Messe which is considered to be the world’s leading industrial trade fair.
+
+...
+
+[Data](articles/d1270081.json)
+
+---
+
+### Lalkantha drops bombshell with village rule announcement
+
+*2024-05-07 04:39:07* · [`dailyftlk`](https://www.ft.lk/news/Lalkantha-drops-bombshell-with-village-rule-announcement/56-761472) · `en`
+
+NPP Executive Council member K.D. Lalkantha declares party will provide mechanism for public to create and enforce laws at local levels
+
+Highlights unequal application of laws, noting separate standards for public and VIPs
+
+Says NPP will take steps to introduce direct democracy in addition to representative democracy
+
+National People’s Power (NPP) party Executive Council member K.D. Lalkantha’s declaration to devolve legislative and judicial authority to local levels, has stirred significant debate within political circles. The statement  by Lalkantha, which has sparked widespread controversy, was made during the party’s May Day rally held in Anuradhapura.
+
+In his address, Lalkantha declared that under a future NPP Government, villages would be empowered with the ability to create and enforce their own laws.
+
+“We will provide the power or create a mechanism for your village to formulate laws. We will provide your village with the power to enforce these laws or judicial powers,” he said.
+
+...
+
+[Data](articles/0cc03ae4.json)
+
+---
+
+### Harin denies resignation rumours amid visa fee controversy in Cabinet
+
+*2024-05-07 04:37:48* · [`dailyftlk`](https://www.ft.lk/news/Harin-denies-resignation-rumours-amid-visa-fee-controversy-in-Cabinet/56-761471) · `en`
+
+Tourism Minister Harin Fernando last night refuted claims of his resignation dismissing a circulating letter as false.
+
+Responding to the viral resignation letter on social media, Fernando clarified that while he did express intentions in the Cabinet regarding his dissatisfaction with the decision to increase visa fees, the letter in circulation was fabricated.
+
+“Letter circulating is not true even though I mentioned my intentions in Cabinet, of not wanting to be a part of the decision to increase any visa fees. Date of the letter is also one month ago,” he noted via ‘X’.
+
+Fernando expressed discontent with the new visa processing system, particularly highlighting his objection to the $ 18.5 service fee charged by VFS Global. “It is not surprising that the Opposition leader wants to pin this on me rather than on the line ministry, which implemented this system while we were finalising the proposal for free visas for over 50 countries,” he noted.
+
+...
+
+[Data](articles/e098f888.json)
+
+---
+
+### Alles denies allegations of VFS Global’s election contribution
+
+*2024-05-07 04:36:24* · [`dailyftlk`](https://www.ft.lk/news/Alles-denies-allegations-of-VFS-Global-s-election-contribution/56-761470) · `en`
+
+Public Security Minister Tiran Alles yesterday vehemently refuted claims suggesting that VFS Global had made a $ 10 million campaign contribution for upcoming elections.
+
+Addressing reporters yesterday, Minister Alles dismissed the allegations as baseless and untrue.
+
+“I saw something that VFS had given $ 10 million for President Wickremesinghe’s election campaign,” Minister Alles stated.
+
+His remarks come in response to recent allegations made by Opposition leader Sajith Premadasa, who, through a post on ‘X’ on 4 May suggested that the only logical explanation is absolute corruption for the visa deal.
+
+“I also saw today that Sajith Premadasa had demanded money to stop talking about it. These are both wrong. Doing these things will not help the country. I am asking to tell the truth to educate the public. I do not take even 5 cents from anyone. The people in the country know that,” Alles affirmed.
+
+...
+
+[Data](articles/82abd0b5.json)
+
+---
+
 ### Concerns emerge on unauthorised players entering local lubricant sector
 
 *2024-05-07 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-emerge-on-unauthorised-players-entering-local-lubricant-sector/108-282061) · `en`
@@ -598,6 +1252,94 @@ An entity expressing concerns in this regard is Chevron Lubricants Lanka PLC.
 
 [Data](articles/85abde1a.json)
 
+[Extended Data](ext_articles/85abde1a.ext.json)
+
+---
+
+### Valuing Japan’s Moral Ethos & Economic Assistance
+
+*2024-05-07 01:30:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/valuing-japans-moral-ethos-economic-assistance/) · `en`
+
+The visit of Japan’s foreign minister Yoko Kamikawa to Sri Lanka is an indication that the relationship between the two countries is on the mend. The manner in which Japan was ousted from the special status it had once held by the previous government headed by President Gotabaya Rajapaksa would have caused much heartburn. Japan was, for several decades, Sri Lanka’s biggest economic benefactor providing both outright grants and subsidized loans for a range of infrastructure and economic development projects. The cancellation of the light rail transit project, which Japan had offered on very concessional terms, was an example of both political churlishness and economic foolhardiness for which Sri Lankans have had to pay a very heavy price.
+
+...
+
+[Data](articles/a425362c.json)
+
+---
+
+### ஜனாதிபதிக்கு கொடி அணிவிக்கப்பட்டது
+
+*2024-05-07 00:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஜனாதிபதிக்கு-கொடி-அணிவிக்கப்பட்டது/46-336867) · `ta`
+
+படைவீரர் கொண்டாட்ட மாதத்தை பிரகடனப்படுத்தும் வகையில் தேசிய படைவீரர் கொடி நேற்று ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு அணிவிக்கப்பட்டது.
+
+ரணவிரு சேவா அதிகார சபையின் தலைவர் ஓய்வுபெற்ற ஜெனரல் நிஷாந்த மானகேவினால் படைவீரர் கொடி ஜனாதிபதிக்கு அணிவிக்கப்பட்டது.
+
+மூன்று தசாப்த கால யுத்தத்தின் போது நாட்டின் ஆட்புல ஒருமைப்பாட்டிற்காக தமது உயிர்களை தியாகம் செய்த படைவீரர்களை நினைவு கூறும் வகையில் மே மாதம் ‘படைவீரர் நினைவு மாதமாக’ பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+குரூரமான பயங்கரவாதத்திற்கு எதிரான போராட்டத்தில், ஏராளமான முப்படைகளின் இராணுவ வீரர்கள் நாட்டிற்காக உயிர் தியாகம் செய்ததுடன், பெருமளவு இராணுவ வீரர்கள் காயம் அடைந்தனர். ஒவ்வொரு வருடமும் மே மாதம் முதல் வாரத்தில் முப்படைகளின் தளபதி கௌரவ ஜனாதிபதிக்கு தேசிய படைவீரர் கொடி அணிவிப்பதன் மூலம் படைவீரர்களின் மாதம் ஆரம்பமாகிறது. (a)
+
+◼️
+
+[Data](articles/d15392ef.json)
+
+---
+
+### குப்பைக் கிடங்கில் பாரிய தீ
+
+*2024-05-07 00:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பைக்-கிடங்கில்-பாரிய-தீ/175-336866) · `ta`
+
+யாழ்ப்பாணம், நல்லூர் பிரதேச சபையின் ஆளுகையில் உள்ள இணுவில் குப்பைக் கிடங்கில் நேற்று இரவு பெரும் தீப்பரவல் ஏற்பட்டது.
+
+இணுவில், காரைக்காலில் அமைந்துள்ள நல்லூர் பிரதேச சபையின் குப்பைக் கிடங்கிலேயே பாரிய தீ அனர்த்தம் ஏற்பட்டது.
+
+திடீரென ஏற்பட்ட தீயைக் கட்டுப்படுத்த யாழ்ப்பாணம் மாநகர சபையின் தீயணைப்பு வீரர்கள்  நீண்ட நேரம் முயற்சித்தனர். இருந்தபோதும் தற்போது நிலவும் வெப்பத்துடன் கூடிய காலநிலை காரணமாகப் பாரிய தீப்பரவல் ஏற்பட்டது.
+
+தீ பரவிய நேரம் முதல் பிரதேச சபை செயலாளர் ஜெலீபன் மற்றும் பிரதேச சபை ஊழியர்கள் பலரும் சம்பவ இடத்தில் நின்று அதனைக் கட்டுப்படுத்தப் பெரும் முயற்சி செய்தனர்.
+
+இதேநேரம் இந்தக் குப்பைக் கிடங்கில் இரண்டு ஆண்டுகளுக்கு முன்பும் பாரிய தீப்பரவல் ஏற்பட்டமை குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/7a6ff89c.json)
+
+---
+
+### செப்டம்பர் இறுதியில் பரீட்சை பெறுபேறுகள்
+
+*2024-05-07 00:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-இறுதியில்-பரீட்சை-பெறுபேறுகள்/175-336865) · `ta`
+
+2023 /2024 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை பெறுபேறுகள் செப்டம்பர் மாத இறுதியில் வெளியிடப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை நேற்று ஆரம்பமானது. இந்த பரீட்சை எதிர்வரும் 15 ஆம் திகதி வரை நடத்தப்படவுள்ளது.
+
+நாடு முழுவதும் அமைக்கப்பட்டுள்ள 3 ஆயிரத்து 527 பரீட்சை நிலையங்களில், 4 லட்சத்து 52 ஆயிரத்து 979 பரீட்சார்த்திகள் இம்முறை பரீட்சைக்குத் தோற்றுகின்றனர் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a97662f8.json)
+
+---
+
+### வறட்சியால் 1,542 குடும்பங்கள் பாதிப்பு
+
+*2024-05-07 00:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வறட்சியால்-1-542-குடும்பங்கள்-பாதிப்பு/175-336864) · `ta`
+
+நாட்டில் தற்போது நிலவும் வறட்சியான காலநிலை காரணமாக 3 மாவட்டங்களைச் சேர்ந்த 4 ஆயிரத்து 982 பேர் பாதிக்கப்பட்டுள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+அனர்த்த முகாமைத்துவ மத்திய நிலையம் நேற்று வெளியிட்டுள்ள அறிக்கையில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+அதன்படி கேகாலை, கிளிநொச்சி மற்றும் திருகோணமலை ஆகிய மாவட்டங்களில்  ஆயிரத்து 542 குடும்பங்களைச் சேர்ந்த 4 ஆயிரத்து 982 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+கேகாலை மாவட்டத்தில் அதிகளவான மக்கள் பாதிக்கப்பட்டுள்ளனர். வரகாபொல, ருவன்வெல்ல, யட்டியந்தோட்டை, தெரணியகல, தெஹியோவிட்ட, கலிகமுவ மற்றும் கேகாலை ஆகிய பிரிவுகளில் 646 குடும்பங்களைச் சேர்ந்த 2 ஆயிரத்து 702 பேர் பாதிக்கப்பட்டுள்ளனர்.
+
+இதேவேளை, திருகோணமலை மாவட்டத்தில் 464 குடும்பங்களும் கிளிநொச்சி மாவட்டத்தில் 432 குடும்பங்களும் வறட்சியினால் பாதிக்கப்பட்டுள்ளனர் என குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/158a6951.json)
+
 ---
 
 ### US House passes anti-Semitism curbing Bill as university students turn against Israel
@@ -615,6 +1357,8 @@ But the definition has also drawn criticism because most of its examples of anti
 ...
 
 [Data](articles/06d37f57.json)
+
+[Extended Data](ext_articles/06d37f57.ext.json)
 
 ---
 
@@ -669,6 +1413,58 @@ Sri Lankan authorities might still argue that media freedom in the country is ab
 ---
 
 ### 2024-05-06 (Monday)
+
+### கிராம சேவையாளர்களுக்கான நியமனம் நாளை
+
+*2024-05-06 23:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-சேவையாளர்களுக்கான-நியமனம்-நாளை/175-336863) · `ta`
+
+கிராம சேவையாளர் தரம் 3 இற்கான புதிய ஆட்சேர்ப்பு பட்டியல் நேற்று உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தில் வெளியிடப்பட்டுள்ளது.
+
+கிராம சேவையாளர் தரம் 3 இற்கான, பரீட்சை மற்றும் நேர்முகப் பரீட்சை முடிவுகளின் அடிப்படையில் காலாண்டு பயிற்சிக்குத் தகுதி பெற்ற 1,942 விண்ணப்பதாரர்களின் பெயர் பட்டியல் வெளியிடப்பட்டுள்ளது.
+
+உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளமான www.moha.gov.lk இல் அந்த பெயர் பட்டியல் வெளியிடப்பட்டுள்ளது.
+
+இதற்கமைய, கிராம உத்தியோகத்தர்களுக்கான புதிய நியமனப் பட்டியலில் உள்வாங்கப்பட்டுள்ள அனைவருக்கும் நாளை காலை 10.30 மணிக்கு அலரிமாளிகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பிரதமர் தினேஷ் குணவர்தன தலைமையில் உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்தவின் பங்குபற்றுதலுடன் இந்த  நியமனங்கள் வழங்கப்படவுள்ளன.  (a)
+
+◼️
+
+[Data](articles/7c6483f0.json)
+
+---
+
+### விசா பிரச்சினைக்கு உடனடி தீர்வை காண வேண்டும் - சனத்ஜெயசூரிய
+
+*2024-05-06 23:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-பிரச்சினைக்கு-உடனடி-தீர்வை-காண-வேண்டும்-சனத்ஜெயசூரிய/175-336862) · `ta`
+
+விசா பிரச்சினைகளிற்கு உடனடியாக தீர்வை காணுமாறு இலங்கை கிரிக்கெட் அணியின் முன்னாள் தலைவர் சனத்ஜெயசூரிய வேண்டுகோள் விடுத்துள்ளார்.
+
+“கடும் வியர்வை கண்ணீருடன் பணம்சார்ந்த விடயங்கள் எவற்றையும் எதிர்பார்க்காமல் பல இலங்கையர்களும் நானும் சுற்றுலாத்துறையை மீண்டும் செழித்தோங்க செய்தோம்.
+
+புதிய விசா நடைமுறைகள் குறித்து சுற்றுலாத்துறையை சார்ந்தவர்கள் பல கரிசனைகளை வெளியிட்டுள்ளதை நான் அவதானித்துள்ளேன்.
+
+இந்த விடயத்துடன் தொடர்புபட்ட அனைவரும் இந்த விவகாரத்திற்கு கூடிய விரைவில் தீர்வை காணவேண்டும் என நான் வேண்டுகோள் விடுக்கின்றேன்” என அவர்தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/76f55170.json)
+
+---
+
+### மரதன் ஓடிய 17 வயது சிறுவன் மாரடைப்பால் மரணம்
+
+*2024-05-06 23:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரதன்-ஓடிய-17-வயது-சிறுவன்-மாரடைப்பால்-மரணம்/175-336861) · `ta`
+
+பொல்பித்திகம பகுதியில் இடம்பெற்ற மரதன் ஓட்டப்போட்டியில் பங்கேற்ற 17 வயதுடைய சிறுவன், உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 4 ஆம் திகதி காலை, இடம்பெற்ற மரதன் ஓட்டப்போட்டியில் குறித்த சிறுவன் பங்கேற்ற பின் வீட்டிற்குத் திரும்பிய நிலையில் நெஞ்சைப் பிடித்துக் கொண்டு தரையில் அமர்ந்துள்ளார்.
+
+சிறுவனை வைத்திய பரிசோதனைக்காக குருணாகல் போதனா வைத்தியசாலையில் அனுமதித்த நிலையில், பரிசோதனையில் மாரடைப்பு காரணமாகச் சிறுவன் உயிரிழந்ததாக பொல்பித்திகம பொலிஸார் தெரிவித்தனர் . R
+
+◼️
+
+[Data](articles/0597617f.json)
+
+---
 
 ### Classy scene…
 
@@ -1026,6 +1822,38 @@ The two persons who claimed to be frauds were conducted in collaboration with an
 
 ---
 
+### ஒருவருக்கு பிணை - கெஹலியவுக்கு விளக்கமறியல்
+
+*2024-05-06 20:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவருக்கு-பிணை-கெஹலியவுக்கு-விளக்கமறியல்/175-336848) · `ta`
+
+தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்து இறக்குமதி சம்பவம் தொடர்பான முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட 8 சந்தேகநபர்களும் எதிர்வரும் 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+இதேவேளை, குறித்த வழக்கில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டிருந்த சுகாதார அமைச்சின் விநியோகப் பிரிவின் முன்னாள் பிரதிப் பணிப்பாளர் டொக்டர் துசித சுதர்சன பிணையில் விடுவிக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/3f1eb5d1.json)
+
+---
+
+### මැතිවරණ නීති කැඩීමක් ගැන මහින්ද කියයි
+
+*2024-05-06 20:15:05* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නීති-කැඩීමක්-ගැන-මහින්ද-කියයි/11-409460) · `si`
+
+ඡන්දයකට නාම යෝජනා කැඳවා, තව මාස කිහිපයකින් තවත් ඡන්දයක් පැවැත්වීමට නියමිතව තිබියදී කඩිමුඩියේ සංවර්ධන කටයුතු රජයේ මැදිහත්වීමෙන් සිදු කිරීම මැතිවරණ නීතිරීති දැඩි ලෙස උල්ලංඝනය කිරීමක් බව මැතිවරණ කොමිෂන් සභාවේ හිටපු සභාපති මහින්ද දේශපිය මහතා අද (06දා) අම්බලන්ගොඩ පෝරඹ සිය නිවසේ පැවති මාධ්‍ය හමුවකදී කීවේය.
+
+මේ දිනවල ආණ්ඩුවේ මැතිඇමතිවරුන් හා ඊට සම්බන්ධවූවන් සහභාගිවී කරනු ලබන සහල් බෙදාදීම දීම ඊට හොඳම නිදසුනක් බවද දේශප්‍රිය මහතා මෙහිදී කීවේය. ආණ්ඩුව    කඩිනම් සංවර්ධන යෝජනා ක්‍රම සියල්ලම ජූලි 31 කට පෙර නිමා කිරීමට දැනුම්දීමෙන්ද පෙනෙන්නේ ළඟ ළඟ එන මැතිවරණය ඉලක්ක කරමින් මේවා සිදු කෙරෙන බවද  ඒ  මහතා කීය.
+
+පළාත් පාලන සංවර්ධන වැඩකටයුතු සිදු කිරීමේ අධීක්ෂණ අනුකමිටු පත් කිරීමද ඉදිරි මැතිවරණ ඉලක්ක කරගෙන සිදු වන්නක් බවත්, එම කමිටු පත් කිරීමේ බලය ඇත්තේ ආණ්ඩුකාරවරුන්ට බවත් කී දේශප්‍රිය මහතා ආණ්ඩුකාරවරුන්ගෙන් හත් දෙනෙකුම දේශපාලනයට සෘජු සම්බන්ධයක් ඇති, ආණ්ඩුවෙන් පත් කළ අය බවත්, අනෙක් අයද ආණ්ඩුවේ මැදිහත්වීමෙන් පත්වූ අය නිසා මේ කමිටුවලට පත්වන්නේද දේශපාලන හිතවතුන් බවත්  කීවේය.
+
+...
+
+[Data](articles/70178e1e.json)
+
+---
+
 ### Sri Lanka to retain existing visa fee; Immigration Dept. to handle issuing visas
 
 *2024-05-06 20:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99051/sri-lanka-to-retain-existing-visa-fee-immigration-dept-to-handle-issuing-visas) · `en`
@@ -1044,6 +1872,18 @@ They have also highlighted that this decision stands as significant support for 
 
 ---
 
+### අධිවේගයේ කඩා වැටුණ කොන්ක්‍රීට් ආධාරකය පොලීසියේ පරීක්ෂණයට
+
+*2024-05-06 20:09:03* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-කඩා-වැටුණ-කොන්ක්‍රීට්-ආධාරකය-පොලීසියේ-පරීක්ෂණයට/11-409459) · `si`
+
+ඉදිකිරීම් ඇණහිට පැවති කොළඹ මහනුවර මධ්‍යම අධිවේගී මාර්ගයේ මගලෙගොඩ හා බෙම්මුල්ල අතර කොටසේ කණු මතින් ඉදි වෙන මාර්ගයේ  දෑවැන්ත කොන්ක්‍රීට් බාල්කයක් කඩා වැටුණේ කිසියම් කඩාකප්පල්කාරී ක්‍රියාවක් හේතුවෙන් දැයි අනාවරණය කර ගැනීම සඳහා අද (06දා) පස්වරුවේ පොලිස් අපරාධ ස්ථාන පරීක්ෂක නිලධාරීන් විශේෂ නිරීක්‍ෂණයක් කර ඇත. ඉකුත්  4දා පස්වරුවේ  මෙම මාර්ගයේ මීටර් තිහක් දිග කොන්ක්‍රීට් බාල්කයක් මැදින් කඩා වැටී තිබිණ .ඊට යාබදව පිහිටි තවත් කොන්ක්‍රීට් බාල්ක දෙකක් ඇළවී පවතින අතර ඒවා කඩා වැටීමේ තර්ජනයකට ඉඩ  ඇත්දැයි සොයා බැලීමටද නියමිතය .
+
+...
+
+[Data](articles/016de1e7.json)
+
+---
+
 ### UNFPA and Japan partner to enhance healthcare access
 
 *2024-05-06 20:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-and-Japan-partner-to-enhance-healthcare-access/108-282036) · `en`
@@ -1059,6 +1899,54 @@ Dr. Palitha Maheepala, Secretary of the Ministry of Health, emphasized the trans
 ...
 
 [Data](articles/0817cbee.json)
+
+---
+
+### පොදු සමාව දීර්ඝ කරන්නැයි ඉල්ලීමක්
+
+*2024-05-06 19:57:54* · [`adalk`](https://www.ada.lk/breaking_news/පොදු-සමාව-දීර්ඝ-කරන්නැයි-ඉල්ලීමක්/11-409458) · `si`
+
+නිවාඩු නොමැතිව සේවයට වාර්තා නොකර සිටින ත්‍රිවිධ හමුදා සාමාජිකයන් සඳහා මේ වන විට ප්‍රකාශයට පත් කොට ඇති පොදු සමා කාලය තවත් සති දෙකකින් හෝ දීර්ඝ කර දෙන ලෙස එක්සත් රණවිරු ප්‍රජාව බලධාරීන්ගෙන් ඉල්ලා සිටී .
+
+මහනුවරදී අද (06දා) පැවති මාධ්‍ය හමුවකදී එක්සත් රණවිරු ප්‍රජාවේ සභාපති හිටපු යුද හමුදා කපිතාන් අසේල ධර්මසිරි මහතා අවධාරණය කර සිටියේ යුද හමුදා සේවය අතහැර ගොස් සිටින විශාල පිරිසක් මේ වන විට විදේශ රැකියාවල නිරත වී සිටින බැවින් ඔවුන්ට මෙම ක්‍රියාවලිය සඳහා අනුගතවීමට පොදු සමා කාලය දීර්ඝ කළ යුතු බවයි .
+
+යුද හමුදාව හැර ගිය විශාල පිරිසක් මේ වනවිට වෛද්‍ය, ඉංජිනේරු, පරිගණක තාක්ෂණ කළමනාකරණ, නීතිඥ ආදි උසස් රැකියාවල නිරතව සිටින බව අවධාරණය කරන කපිතාන් අසේල ධර්මසිරි මහතා එම පිරිස්වලට විදේශ තානාපති කාර්යාලවලින් ලබා ගත යුතු අවසර මෙන්ම රැකියා ස්ථානවලින් ද අවසර ලබා ගැනීමට කාලයක් ගතවන බැවින් පොදු සමා කාලය තවත් දීර්ඝ කොට දෙන්නේ නම් ඔවුන්ට එය සහනයක් වනු ඇති බව පවසයි .
+
+...
+
+[Data](articles/0e3bbaf0.json)
+
+---
+
+### ජාතික රණවිරු සැමරුම් කොඩිය ජනපතිට පළඳවයි
+
+*2024-05-06 19:46:07* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රණවිරු-සැමරුම්-කොඩිය-ජනපතිට-පළඳවයි/11-409457) · `si`
+
+රණවිරු සැමරුම් මාසය ප්‍රකාශයට පත් කරමින් ප්‍රථම රණවිරු කොඩිය ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පැළඳවීම අද (06) ජනාධිපති කාර්යාලයේ දී සිදු විය.
+
+රණවිරු සේවා අධිකාරියේ සභාපති මේජර් ජෙනරල් නිශාන්ත මානගේ මහතා විසින් රණවිරු කොඩිය ජනාධිපතිවරයා වෙත පළඳවනු ලැබීය.
+
+දශක තුනක පමණ කාලයක් පැවති යුද්ධයේදී රටේ භෞමික අඛණ්ඩතාව වෙනුවෙන් දිවි පිදූ වීරෝදාර රණවිරුවන් අනුස්මරණය කිරීම වෙනුවෙන් සෑම වසරකම මැයි මාසය ‘රණවිරු සැමරුම් මාසය’ නමින් ප්‍රකාශයට පත් කර ඇත.
+
+කුරිරු ත්‍රස්තවාදයට එරෙහි සටනේදී ත්‍රිවිධ හමුදා රණවිරුවන් විශාල සංඛ්‍යාවක් සිය ජීවිත රට වෙනුවෙන් පූජා කළ අතර ඒ හා සමාන රණවිරුවන් සංඛ්‍යාවක් ආබාධ වලට ලක්විය. සෑම වසරකම මැයි මස මුල් සතියේ සන්නද්ධ හමුදා සේනාධිනායක ගරු ජනාධිපතිතුමා වෙත ජාතික රණවිරු කොඩිය පැළඳවීමත් සමඟ රණවිරු මාසය ආරම්භ වේ.
+
+රණවිරු කොඩියේ ආකෘති ඵලකය ද මෙහිදී රණවිරු සේවා අධිකාරියේ සභාපතිවරයා විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත පිළිගැන්වීය.
+
+...
+
+[Data](articles/632c7773.json)
+
+---
+
+### விசா விவகாரம்: அமைச்சரவை அதிரடி முடிவு
+
+*2024-05-06 19:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-விவகாரம்-அமைச்சரவை-அதிரடி-முடிவு/175-336847) · `ta`
+
+வெளிநாட்டவர்கள் இந்த நாட்டிற்கு வரும்போது 30 நாள் விசாவிற்கு ஒருவருக்கு 50 டொலர் என்ற பழைய கட்டணத்தை பேணுவதற்கும், இந்தியா, சீனா, ரஷ்யா, ஜப்பான், மலேசியா, தாய்லாந்து மற்றும் இந்தோனேசியா ஆகிய ஏழு நாடுகளுக்கு இதுவரை வழங்கப்பட்ட இலவச விசா சேவையை நடைமுறைப்படுத்துவதற்கும் தீர்மானிக்கப்பட்டுள்ளது. இன்று (6) கூடிய அமைச்சரவை கூட்டத்திலேயே இந்த முடிவு எடுக்கப்பட்டுள்ளது. ஒரு வெளிநாட்டவர் நாட்டிற்குள் நுழையும் போது தொடர்புடைய விசாக்களை வழங்குவதற்கான முழுப் பொறுப்பையும் குடிவரவுத் திணைக்களம் ஏற்கும் என்று ஜனாதிபதி செயலகம் விடுத்துள்ள செய்தி‌ குறிப்பில் தெரிவிக்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/73d718b8.json)
 
 ---
 
@@ -1107,943 +1995,5 @@ He also said that since January this year, despite various professional actions 
 ...
 
 [Data](articles/777eb8f9.json)
-
----
-
-### Main suspect in disappearance of youth in Kuliyapitiya granted bail
-
-*2024-05-06 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99050/main-suspect-in-disappearance-of-youth-in-kuliyapitiya-granted-bail) · `en`
-
-The main suspect in the disappearance of a youth residing in Kuliapitiya area has surrendered to the court today (06) through his attorneys.
-
-Kuliyapitiya Magistrate Randika Lakmal ordered the release of the suspect, Sujith Fernando who is also known as ‘Singithi’, on two personal bails of Rs. 500,000 each.
-
-Susita Jayawansha, 31, a resident of Kabalewa area in Kuliyapitiya, had been reported missing a few days ago and was last seen visiting his girlfriend’s house following a phone call received from her father.
-
-Police said that it was later uncovered that the youth had been assaulted by his girlfriend’s father, and two other individuals identified as masons.
-
-Accordingly, the two masons who were later arrested had confessed to the police that the father of the girl had said that the youth in question should be taken to the house of a former Provincial Council member living in the area.
-
-...
-
-[Data](articles/9614a491.json)
-
----
-
-### 22 arrested during protest outside NCPC building granted bail
-
-*2024-05-06 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99049/22-arrested-during-protest-outside-ncpc-building-granted-bail) · `en`
-
-All twenty-two persons who were arrested during the protest by unemployed graduates at the North Central Provincial Council building have been granted bail by the court.
-
-A tense situation was reported this afternoon (06) as a group of unemployed graduates surrounded the North Central Provincial Council (NCPC) building in protest and seeking solutions to their demands.
-
-They had also reportedly blocked the entrances to the building preventing anyone from entering or exiting the building.
-
-Police said a total of 22 persons including 11 females were arrested for unruly behaviour as police officers attempted to disperse the protesters.
-
-◼️
-
-[Data](articles/9d16592c.json)
-
----
-
-### Key players return to Scotland’s squad for T20 World Cup
-
-*2024-05-06 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-players-return-to-Scotlands-squad-for-T20-World-Cup/108-282027) · `en`
-
-May 6 (ICC) - Scotland name their 15-member squad for the ICC Men's T20 World Cup 2024.
-
-Top-order batter Michael Jones and fast bowler Brad Wheal make a return to Scotland's T20I squad for the upcoming mega event in West Indies and USA.
-
-The duo, both of whom last played in the ICC Men's T20 World Cup 2022, aren't part of the squad that will play in the upcoming T20I tri-series in the Netherlands but have been named in the T20 World Cup squad.
-
-Richie Berrington will captain the side that will hope to better their performances from 2022, when they famously registered a big win over the West Indies.
-
-“To have Michael Jones and Brad Wheal available, their experience from previous T20 World Cups is crucial for the group," head coach Doug Watson said.
-
-"I’m looking forward to meeting them both, getting to know them and seeing their skills up close. The bulk of the squad have been together for a while now and did a fantastic job last summer at both the 50-over Qualifier and the T20 Qualifier.
-
-...
-
-[Data](articles/90fe7f50.json)
-
----
-
-### Sri Lanka Minister defends VFS, new visas; accuses corrupt officials over controversy
-
-*2024-05-06 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-defends-vfs-new-visas-accuses-corrupt-officials-over-controversy-161601/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles who is also in charge of visa issuance under the Department of Immigration and Emigration defended the newly appointed visa facilitating agency VFS-led consortium, new visa system, and accused sabotage attempts by a few handful immigration officials for a recent controversy that has gone viral in social media.
-
-Sri Lanka opted for outsourcing scheme for visas which included a steep increase in fees from last month.
-
-The new visa facilitation system, which replaced a previous quick electronic travel authorization (ETA) process, ran into a fresh controversy over visa denials last week after a viral video showed an irate Sri Lanka citizen berating the private visa provider at the airport after his foreign companion was denied an entry visa.
-
-...
-
-[Data](articles/909ad56d.json)
-
----
-
-### Sri Lanka Immigration responsible for data protection under VFS deal: Immigration chief
-
-*2024-05-06 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-immigration-responsible-for-data-protection-under-vfs-deal-immigration-chief-161629/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government and Immigration will be responsible for the data under the new outsourced deal with VFS Global for visa facilitation, the island nation Immigration chief said.
-
-Sri Lanka opted for outsourcing scheme to process visa applications which included a steep increase in fees from last month.
-
-President Ranil Wickremesinghe’s government is facing strong criticism for outsourcing its visa application process to a consortium led by VFS Global amid concerns over data privacy and protection.
-
-“In the agreement, we have clearly stated the conditions on how we will be doing this,” I. S. H. J. Ilukpitiya, Controller General of the Department of. Immigration and Emigration told reporters at a media briefing responding to wide range of speculations over the new service.
-
-“Under General Data Protection Regulation (GDPR), they have given us a certificate and assurance the information would not go for the third party,” Ilukpitiya said.
-
-...
-
-[Data](articles/b09c5c99.json)
-
----
-
-### VFS Global issues statement on Sri Lanka visa deal
-
-*2024-05-06 19:07:00* · [`economynextcom`](https://economynext.com/vfs-global-issues-statement-on-sri-lanka-visa-deal-161630/) · `en`
-
-ECONOMNEXT – VFS Global, one of the companies involved in Sri Lanka’s high-priced visa deal, has issued statement saying its 18.50 dollar fee was approved by the cabinet of the island.
-
-“Payment processing charges and applicable local taxes are in addition to the service fee,” the company said.
-
-The shift of visa processing to the company has led to the doubling of Sri Lanka tourist visa to 100 dollars from 50, with the government charge going up to 75 dollars and company charging another 25 dollars plus in service fee and ‘convenience’ fees.
-
-“The government benefits from increased efficiencies and transparency in managing the complete process and improved resource utilisation,” VFS said.
-
-Sri Lanka’s Minister of Public Security said the deal was awarded without tendering and in any case nobody would have come forward to compete against VFS.
-
-Related No tender needed for Sri Lanka visa deal, nobody can compete against VFS: Minister
-
-...
-
-[Data](articles/9b0f223b.json)
-
----
-
-### Beyond the call of duty: A midwife’s 30-year legacy of compassionate service
-
-*2024-05-06 18:52:00* · [`islandlk`](http://island.lk/beyond-the-call-of-duty-a-midwifes-30-year-legacy-of-compassionate-service/) · `en`
-
-As the sun rises over the mountains surrounding the Magastota Estate in Nuwara Eliya, G.P.D. Padmakanthi, a dedicated midwife with over 35 years of experience, is making her way to visit
-
-a mother who is expecting her second baby. As a midwife, Padmakanthi has been a constant source of strength and guidance for the estate communities in Nuwara Eliya, located in the
-
-Central Province of Sri Lanka. Not only has she assisted in countless births for many, but has also been a guiding light for mothers, families, children, and youth in the estate sector facing
-
-various challenges, in accessing general services and facilities readily available for others in society.
-
-As we mark the International Day of the Midwife today (May 5th), Padmakanthi’s journey is a testament to the power of compassion, resilience, and dedication of midwives – a vital source of strength for any mother bringing new life into our world.
-
-...
-
-[Data](articles/5c08cbff.json)
-
-[Extended Data](ext_articles/5c08cbff.ext.json)
-
----
-
-### Uganda name squad for historic T20 World Cup appearance
-
-*2024-05-06 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uganda-name-squad-for-historic-T20-World-Cup-appearance/108-282026) · `en`
-
-May 6 (ICC) - Brian Masaba holds the honour of leading Uganda in their first appearance at the ICC Men’s T20 World Cup, with their 15-player squad locked in.
-
-After stunning Zimbabwe and the African field in qualifying, the Cricket Cranes look ahead to Group C play, taking on co-hosts West Indies, New Zealand, Papua New Guinea and Afghanistan.
-
-Masaba will be deputised by Riazat Ali Shah, and the skipper joins several Ugandans with over a decade’s experience in international cricket, underlined by 43-year-old Frank Nsubuga, who will be one of the oldest players in the tournament.
-
-A cult hero in emerging cricket circles, Nsubuga’s squad selection caps off a life’s devotion to the game. He first represented Uganda in ICC events as a 17-year-old in the 1997 ICC Trophy, a pathway event on the road to Cricket World Cup 1999.
-
-Fast-forward 25 years, Nsubuga made headlines, taking a sprawling catch approaching the boundary in a Cricket World Cup Challenge League match against Kenya in 2022.
-
-...
-
-[Data](articles/3bd29481.json)
-
----
-
-### Court orders Court for 22 arrested
-
-*2024-05-06 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196341) · `si`
-
-Court releases 22 unemployed graduates arrested in protest.
-
-🟩
-
-The 22 unemployed graduates arrested in protest in the North Central Provincial Council building 22 have been released on bail.
-
-◼️
-
-[Data](articles/06a841e6.json)
-
-[Extended Data](ext_articles/06a841e6.ext.json)
-
----
-
-### No tender needed for Sri Lanka visa deal, nobody can compete against VFS: Minister
-
-*2024-05-06 18:14:00* · [`economynextcom`](https://economynext.com/no-tender-needed-for-sri-lanka-visa-deal-nobody-can-compete-against-vfs-minister-161602/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s controversial visa deal which led to doubling of fees with multiple charges, was awarded without a tender and nobody could compete against the VFS company in any case, Public Security Minister Tiran Alles said.
-
-Many things are done without tender in Sri Lanka and the visa deal was a proposal, he said.
-
-“There are several [procurement] methods in Sri Lanka,” Minister Alles explained to reporters Monday, amid brewing controversy over the visa deal which had led to a doubling of visa costs to around 100 dollar per tourist.
-
-“There is no need to call tenders for this type of thing. This is a proposal. There is a method of studying proposals. Many things (orner-tharam-deval) are done that way.”
-
-The correct way to do the deal was when a company made a proposal, appoint a committee to study it and go back to cabinet, he explained.
-
-...
-
-[Data](articles/644688da.json)
-
----
-
-### ‘Mystery’ behind mindfulness: You become what you think
-
-*2024-05-06 18:06:00* · [`islandlk`](http://island.lk/mystery-behind-mindfulness-you-become-what-you-think/) · `en`
-
-Just the other day, at the University cafeteria while enjoying a cup of ginger tea, a good friend of mine happened to say, “Nowadays students are going through a lot of unnecessary turmoil and struggles due to the lack of self-awareness, and unfortunately, they attribute it to stress, anxiety and depression. And they end up swallowing pills for temporary relief. It’s true that compared to the past generations, these students are facing many challenges. But that doesn’t necessarily mean each one needs individual therapy and medication. Most of them only need an opportunity to increase their resilience”.
-
-...
-
-[Data](articles/150908db.json)
-
-[Extended Data](ext_articles/150908db.ext.json)
-
----
-
-### අද ඇරඹුණු සාමාන්‍ය පෙළ විභාග ප්‍රතිඵල නිකුත්වෙන්නේ මෙහෙමයි
-
-*2024-05-06 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196340) · `si`
-
-The GCE Ordinary Level examination started today, with 35,000 police personnel required for security. It will be held at 3,527 centers until the 15th, with 452 applicants, including 300,000 school and 65,331 private candidates.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara says that the results of the GCE Ordinary Level examination began today.
-
-විභාග කොමසාරිස් ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේ සාමාන්‍ය පෙළ විභාගය අවසන් වූ පසු පිළිතුරු පත්‍ර ඇගයීම් ක්‍රියාවලිය සඳහා පරික්ෂකවරු 35,000න් පමණ අවශ්‍ය වන බවය.
-
-The GCE Ordinary Level examination commenced today (06).
-
-The examination will be held today at 3,527 examination centers island wide until the 15th of this month.
-
-The Department of Examinations stated that 452 applicants will sit for the examination this year.
-
-It is said that 300,000 school candidates and 65,331 private candidates included.
-
-◼️
-
-[Data](articles/9b2d80c7.json)
-
-[Extended Data](ext_articles/9b2d80c7.ext.json)
-
----
-
-### Here are the places where they are
-
-*2024-05-06 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196339) · `si`
-
-The Meteorology Department highlighted warmer conditions in Northern, North Central, and Eastern provinces, with special attention to Kurunegala and Moneragala districts. It also noted warmer conditions in Western, Sabaragamuwa, Southern provinces, and Puttalam and Matale districts.
-
-🟩
-
-The Department of Meteorology was released today (05).
-
-The statement depicts the warm indexes in the Northern, North Central and Eastern provinces, that is a "more attention to the warmth of the Kurunegala and Moneragala districts.
-
-The Meteorology Department announced the "attention" in some places in the Western, Sabaragamuwa and Southern provinces and in the Puttalam and Matale Districts.
-
-◼️
-
-[Data](articles/ec4d0936.json)
-
-[Extended Data](ext_articles/ec4d0936.ext.json)
-
----
-
-### Keheliya and 7 others further remanded
-
-*2024-05-06 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99048/keheliya-and-7-others-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella and 7 others have been further remanded until 20 May by the Maligakanda Magistrate’s Court over the import of substandard human immunoglobulin vials.
-
-This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (06).
-
-Meanwhile, one of the suspects who was arrested and remanded in connection with the case was released on bail today.
-
-Accordingly, the former Deputy Director of Medical Supplies Division of the Health Ministry, Dr. Thusitha Sudarshana has been released on bail.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-...
-
-[Data](articles/f6d3be60.json)
-
----
-
-### Keheliya and eight remanded again
-
-*2024-05-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196338) · `si`
-
-Keheliya Rambukwella, former Health Minister, and two suspects remanded until May 20. Dr. Thusitha Sudarshana, former Deputy Director of Ministry of Supplies, also involved. One suspect released on bail.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and the two suspects were remanded until May 20.
-
-The order was taken to the Maligakanda Magistrate's Court.
-
-Meanwhile, one suspect had been released on bail and remanded in connection with the questionable antibodies and remanded.
-
-Former Deputy Director of the Ministry of Supplies Division of the Ministry of Health is Dr. Thusitha Sudarshana.
-
-◼️
-
-[Data](articles/c8adf65b.json)
-
-[Extended Data](ext_articles/c8adf65b.ext.json)
-
----
-
-### Sri Lanka plantation companies benefitted from weak rupee, labourers did not: Minister
-
-*2024-05-06 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantation-companies-benefitted-from-weak-rupee-labourers-did-not-minister-161593/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Regional Plantation Companies (RPCs) benefitted from the weakening of the rupee and saw export gains, but the benefits did not go to the workers, Minister of Estate Infrastructure Jeevan Thondaman has said.
-
-“Even through the economic crisis, RPCs have benefitted from the weakening of the Rupee that gave them an over 80% increase in Rupee revenue in 2023 vs 2021,” Thondaman said on X (twitter).
-
-“When the real value of daily worker wages plummeted from around 5 USD to 2.7 USD and inflation plunged over half the workers to below the poverty line, RPCs continued to reap the benefits of their hard labour.”
-
-“While export revenues grew exponentially, none of those benefits went to the workers, who are the backbone of the industry.”
-
-The minister said he was hopeful of an announcement favourable to the workers from RPCs who have said that they will be responding to the wage hike for plantation workers today (6).
-
-...
-
-[Data](articles/0e43f652.json)
-
----
-
-### Sri Lanka rupee closes weaker at 298.00/50 to US dollar
-
-*2024-05-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-298-00-50-to-us-dollar-161587/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 298.00/50 to the US dollar on Monday from 297.15/35 the previous week, dealers said.
-
-A bond maturing on 15.12.2026 closed down at 10.60/70 percent from 10.70/75 percent.
-
-A bond maturing on 15.09.2027 closed down at 11.00/10 percent from 11.00/15 percent.
-
-A bond maturing on 15.03.2028 closed down at 11.40/50 percent from 11.45/55 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
-
-A bond maturing on 01.10.2032 closed down at 12.20/35 percent from 12.30/35 percent. (Colombo/May06/2024)
-
-◼️
-
-[Data](articles/7929d659.json)
-
----
-
-### VFS Global Company announces about e-visa
-
-*2024-05-06 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196337) · `si`
-
-VFS Global announces e-Visa processing at Bandaranaike Airport, Sri Lanka, for 23 countries. Operates 6 centers in Colombo and Jaffna, employing 123. Services over 3.2 million applications since 2004. Partners with GBS Technology Services and IIS Global Fzco for administrative functions, with final decisions by Immigration and Emigration.
-
-🟩
-
-VFS Global has issued an announcement that the E-Visa processed on the Bandaranaike Airport is relevant to the implementation of the e-Visa methodology.
-
-The announcement The VFS Global shows VFS Global Company (2004) operations in Sri Lanka.
-
-In the meantime, the company is carrying out the preparation of visa applications for 23 countries including England, Australia, Australia, England, Australia, Norway, Austria, Latvia, Moalta, and Greece.
-
-It is also reported that his company is operating in 6 visa centers in Colombo and Jaffna.
-
-It states that 123 Sri Lankans are employed in the centers.
-
-The announcement has also taken steps to provide services to over 3.2 million visa applications since 2004 and have already been provided with visa application.
-
-The Department of Immigration and Emigration has entered into a tactical agreement with GBS Technology Services and IIS Global Fzco, in addition to GBS Technology Services and IIS Global Fzco.
-
-...
-
-[Data](articles/6f10d3e7.json)
-
-[Extended Data](ext_articles/6f10d3e7.ext.json)
-
----
-
-### VFS Global is here to stay for at least 12 years, says Tiran
-
-*2024-05-06 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VFS-Global-is-here-to-stay-for-at-least-12-years-says-Tiran/108-282025) · `en`
-
-Colombo, May 6 (Daily Mirror) - Despite widespread accusations of handing over the contract for on-arrival visa issuance to VFS Global, Public Security Minister Tiran Alles maintained today that VFS Global, the foreign company now responsible for handling on-arrival visas on behalf of Sri Lanka at the BIA, will continue to operate for at least 12 years.
-
-Minister Alles held a special press conference regarding the controversy surrounding the matter. He said that the proposal to transfer the new visa system to VFS Global was unanimously passed on November 23 last year without debate in Parliament following Cabinet approval.
-
-"The government had made a policy decision to introduce separate visa categories. Sri Lanka previously only had a 30-day single arrival visa category. Therefore, we introduced several other visa categories," the minister said.
-
-...
-
-[Data](articles/e9a922da.json)
-
----
-
-### 180 passports found dumped in drain in Maharagama
-
-*2024-05-06 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99047/180-passports-found-dumped-in-drain-in-maharagama) · `en`
-
-A bag containing approximately 180 passports has been discovered in a drain in the Maharagama area.
-
-Investigations have revealed that the passports in question had been obtained by a foreign employment agency which had been operating in the Mahragama area by promising employment in foreign countries.
-
-It is reported that the owner of the agency had duped a number of people seeking employment overseas and fled the area after swindling nearly Rs. 260 million.
-
-◼️
-
-[Data](articles/676afa3b.json)
-
----
-
-### Sri Lanka children bearing brunt of heatwave: Minister
-
-*2024-05-06 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-children-bearing-brunt-of-heatwave-minister-161572/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s children are suffering from the current heatwave, with some hospital admissions recorded, Minister of Health Ramesh Pathirana said.
-
-“In the mornings, in the assembly, children faint. They get exposed to the heat,” Pathirana told reporters on Monday.
-
-“There have been a few hospital admissions, mainly due to faintings, headaches and dehydration,” Pathirana said. “But thankfully there aren’t many cases as such.”
-
-Sri Lanka’s Meteorological Department has indicated that the maximum temperature in the last 24 hours was 39.1 degrees Celsius in Anuradhapura.
-
-Authorities are cautioning people to stay out of the sun, hydrate, wear light or white clothing, and restrict strenuous activity. The elderly, children and those who are ill, face higher risk in the current heatwave. (Colombo/May6/2024)
-
-◼️
-
-[Data](articles/fe40403c.json)
-
----
-
-### Sri Lanka stocks close down amidst profit taking, interest in Sunshine
-
-*2024-05-06 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-profit-taking-interest-in-sunshine-161554/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.23 percent, or 28.07 points, at 12,376; while the S&P SL20 Index closed down 0.65 percent, or 23.91 points, at 3,648.
-
-“There was a bit of profit taking seen in the market, ahead of news of the upcoming elections and the debt restructuring,” market participants said.
-
-“LOLC companies saw a bit of activity with retail interest coming in.”
-
-LOLC Holdings Plc closed up at 479.25, Browns Investments Plc closed up at 6.60, and LOLC Finance Plc closed up at 7.40.
-
-“Sunshine Holdings also saw investor interest on the back of the news of the IFC investment.”
-
-The International Finance Corporation has agreed to invest 3.7 billion rupees in Sunshine Healthcare Lanka Limited, its parent said.
-
-...
-
-[Data](articles/1ea8a072.json)
-
----
-
-### Spring Awakening...
-
-*2024-05-06 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Spring-Awakening/110-282032) · `en`
-
-IDM Nations Campus International organized a lively event titled "Spring Awakening" at the Police Park Grounds in Colombo to commemorate the Sinhala and Tamil New Year. This significant event, led by Dr. V. Janagan, Chairman of IDM Nations Campus International drew a large audience including esteemed faculty members, hundreds of students and notable guests.
-
-◼️
-
-[Data](articles/55c431c6.json)
-
----
-
-### VFS Global issues clarification on Sri Lanka E-Visa system
-
-*2024-05-06 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99046/vfs-global-issues-clarification-on-sri-lanka-e-visa-system) · `en`
-
-VFS Global, the company at the center of controversy surrounding the issuance of on arrival visa at the Bandaranaike International Airport (BIA), has issued a statement today in response to accusations and to clarify certain concerns which have been raised.
-
-VFS Global said it has been operating in Sri Lanka since 2004 and has been facilitating the visa application process for 23 governments including the UK, Australia, Canada, New Zealand, and Schengen countries such as France, Germany, Switzerland, Italy, Norway, Austria, Latvia, Hungary, Croatia, Malta, and Greece.
-
-VFS Global said it operates six visa centres located in Colombo and Jaffna and employs over 123 Sri Lankan nationals. Since 2004, VFS Global Sri Lanka has processed over 3.2 million applications, it said.
-
-...
-
-[Data](articles/a532b123.json)
-
----
-
-### Sri Lanka to fill vacancies in its Office on Missing Persons
-
-*2024-05-06 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-fill-vacancies-in-its-office-on-missing-persons-161518/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament has called for applications to fill vacancies in its Office on Missing Persons (OMP).
-
-“Applications from eligible persons have been called to fill the vacancies in the posts of member in
-
-the Office on Missing Persons (OMP),” it said in a statement.
-
-Applications should be prepared in accordance with the information available on the Parliament website and sent on or before May 27 to; ‘Secretary-General to the Constitutional Council, Constitutional Council – Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte by registered post, or by email to constitutionalcouncil@parliament.lk the statement said.
-
-Applicants should indicate ‘Appointment of Members to the OMP’ on the top left-hand corner of the envelope, or as the subject of the email.
-
-...
-
-[Data](articles/04e202e1.json)
-
----
-
-### The unhappy fate of the O / L student
-
-*2024-05-06 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196336) · `si`
-
-A school student in Balangoda, Haranaath Ranjith Kumara, died after visiting a temple for blessings, days before the O/L exams. Initial reports suggest foul play, with investigations ongoing.
-
-🟩
-
-It is reported that a school student in the Balangoda area has died after a temple to obtain blessings.
-
-The victim was a school student who was due to sit for the O / L examination today.
-
-The school student, Haranaath Ranjith Kumara, had gone to a devalaya in Marathena area in Balangoda.
-
-It is reported that the child has been admitted to the Marathena plant hospital and has been identified as the school student was killed.
-
-The post mortem will be conducted at the Balangoda Hospital and Balangoda Pinnawala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/5c6f363a.json)
-
-[Extended Data](ext_articles/5c6f363a.ext.json)
-
----
-
-### Sri Lanka denies $10mn election funding by VFS Global over visa deal
-
-*2024-05-06 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-denies-10mn-election-funding-by-vfs-global-over-visa-deal-161519/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles denied that VFS Global, a company linked to the island’s high priced visa fee controversy, had made a 10 million dollar campaign contribution for upcoming elections.
-
-“I saw something that VFS had given 10 million dollars for President Wickremesinghe’s election campaign,” Minister Alles told reporters Monday.
-
-“I also saw today that Sajith Premadasa had demanded money to stop talking about it. These are both wrong.
-
-“Doing these things will not help the country. I am asking to tell the truth to educate the public.
-
-“I do not take even 5 cents from anyone. The people in the country know that.”
-
-Premadasa in an x.com post on May 04 alleged that the “only logical explanation is absolute corruption” for the visa deal.
-
-Sri Lanka’s 50 dollar visa fee went up to 100 dollars with the shift to IVS-GBS-VFS Global, a private contractor, which is also operating a complicated online interface, seeking twitter handles of tourists.
-
-...
-
-[Data](articles/08816ce9.json)
-
----
-
-### කුලියාපිටිය තරුණයාගේ සිද්ධියේ ප්‍රධාන සැකකරුට ඇප
-
-*2024-05-06 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196335) · `si`
-
-කුලියාපිටිය ප්‍රදේශයේ පදිංචි තරුණයෙකු අතුරුදන් කිරීමේ සිද්ධියට අදාළ ප්‍රධාන සැකකරු අද (06) සිය නීතිඥයින් මාර්ගයෙන් අධිකරණය වෙත භාරවී තිබේ.
-
-එහිදී කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් මහතා නියෝගය කර ඇත්තේ සැකකරු ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
-
-මෙලෙස ඇප මත මුදාහරිනු ලැබුවේ සුජිත් ප්‍රනාන්දු නොහොත් "සිඟිති" නමැති පුද්ගලයෙකි.
-
-කුලියාපිටිය කබලෑව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි වියේ පසුවූ සුසිත ජයවංශ නමැති තරුණයා මීට දින කිහිපයකට පෙර අතුරුදන්විය.
-
-ඔහු අවසන්වරට සිය පෙම්වතියගේ පියාගෙන් ලද දුරකථන ඇමතුමකට අනුව ඇයගේ නිවසට ගොස් තිබුණි.
-
-එහිදී ඔහුට පෙම්වතියගේ පියා, පෙදරේරුවන් දෙදෙනෙකු සමග එක් වී පහරදී ඇතැයි අනාවරණ වූ බව පොලීසිය පැවසීය.
-
-ඒ අනුව අත්අඩංගුවට ගත් පෙදරේරුවන් දෙදෙනා පොලීසියට පාපෝච්චාරණය කර ඇත්තේ, අදාළ තරුණයා ප්‍රදේශයේ හිටපු පළාත් සභා මන්ත්‍රීවරයෙකුගේ නිවසට රැගෙන යා යුතු බව පෙම්වතියගේ පියා පැවසූ බවය.
-
-...
-
-[Data](articles/04902e39.json)
-
----
-
-### Youth who caused disturbance at BIA summoned by police
-
-*2024-05-06 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99045/youth-who-caused-disturbance-at-bia-summoned-by-police) · `en`
-
-A Sri Lankan youth who had behaved in an unruly manner at the Bandaranaike International Airport (BIA) in Katunayake on May 01 amidst a tense situation at the visa issuance counters, has been summoned to Airport Police today (06).
-
-According to Ada Derana reporter, a statement was recorded from the individual in question, Sandaruwan Kumarasinghe, who is a lawyer by profession, at the Airport Police at around 10.00 a.m. this morning (06).
-
-However, it is reported that another group of lawyers was also present when the youth in question had arrived at the police station.
-
-Meanwhile, it is also reported that Katunayake Police obtained statements last evening (05) from three officers of the Department of Immigration and Emigration who had allegedly recorded the recent incident.
-
-◼️
-
-[Data](articles/9bcf523d.json)
-
----
-
-### Sri Lanka to issue 30-day single entry tourist visa below 100 dollars
-
-*2024-05-06 14:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-issue-30-day-single-entry-tourist-visa-below-100-dollars-161496/) · `en`
-
-ECONOMYNEXT – Sri Lanka will issue a cheaper 30-day single entry visa for a lower cost, Public Security Minister Tiran Alles said, as the tourist sector was hit by 100 dollar visa with a shift of visa processing to a private contractor.
-
-Sri Lanka issued a multiple entry visa for 50 dollar final prices before the shift to IVS-GBS VFS Global group, when the visa went up to 100.77 with 18.50 fee and convenience fee on top of the gazette 75 dollar price.
-
-“The 30 day visa with single entry was at 50 dollars,” Minister Alles told reporters in Colombo Monday as the crisis escalated.
-
-“However, when we passed it, it was removed from the document, and subsequently from the system.”
-
-It is not clear whether the IVS-GBS VFS Global group will also charge an 18.50 fee and the convenience fee on top of the 50 dollars.
-
-Minister Alles told reporters that the cabinet was free to decided on the price of the visa, or a free visa but when the private platform was used, its service fees had to be paid.
-
-...
-
-[Data](articles/325277d3.json)
-
----
-
-### Nalanda College emerges victorious at SLASU Novices Waterpolo Championship 2024
-
-*2024-05-06 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nalanda-College-emerges-victorious-at-SLASU-Novices-Waterpolo-Championship-2024/108-282024) · `en`
-
-Colombo, May 06 (Daily Mirro)-  The Under 11 Waterpolo team from Nalanda College, Colombo emerged victorious at the SLASU Novices Waterpolo Championship 2024.
-
-The young Nalandians won all five games they played including against formidable opponents such as Royal College and S. Thomas College.
-
-The championship, organized by the Sri Lanka Aquatic Sports Union (SLASU), was held at the Royal College Swimming Complex on 05 May 2024.
-
-It saw the participation of leading schools from across the country, each vying for the top spot in this prestigious water polo event.
-
-The Nalandians not only clinched the Under 11 title but also secured the Under 09 and 15 shields. This triumphant feat marked a significant milestone in the history of school water polo, further cementing Nalanda College’s reputation as a force to be reckoned with in the sports.
-
-◼️
-
-[Data](articles/babf9e77.json)
-
----
-
-### මහරගම කාණුවක තිබී පාස්පෝට් තොගයක් හමුවෙයි
-
-*2024-05-06 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196333) · `si`
-
-මහරගම ප්‍රදේශයේ කාණුවක තිබී විදේශ ගමන් බලපත්‍ර තොගයක් දමා තිබූ බෑගයක් හමුව තිබේ.
-
-සිදුකළ පරීක්ෂණයකදී අනාවරණය වී ඇත්තේ, මහරගම ප්‍රදේශයේ පවත්වා ගෙන ගිය විදේශ රැකියා ආයතනයකින් විදේශගත කරන බව පවසා ලබාගත් විදෙස් ගමන්බලපත්‍ර 180ක් එලෙස බෑගයේ තිබූ බවය.
-
-රුපියල් කෝටි 26කට ආසන්න මුදලක් අදාළ පුද්ගලයා වංචා කර ඇති අතර ඔහු මේ වනවිට පළාගොස් තිබේ.
-
-◼️
-
-[Data](articles/f25be95f.json)
-
----
-
-### Australia’s Qantas to pay $79m over ‘ghost flights’ furore
-
-*2024-05-06 14:09:00* · [`islandlk`](http://island.lk/australias-qantas-to-pay-79m-over-ghost-flights-furore/) · `en`
-
-Australia’s flagship airline Qantas has agreed to pay $120 million Australian dollars ($79m) to settle a lawsuit over the sale of tickets for already cancelled flights.
-
-The airline will pay a fine of 100 million Australian dollars ($66m) and provide compensation of 20 million Australian dollars ($13m) to more than 86,000 customers after advertising seats for thousands of “ghost flights” in 2021 and 2022.
-
-“Qantas’ conduct was egregious and unacceptable. Many consumers will have made holiday, business and travel plans after booking on a phantom flight that had been cancelled,” said Australian Competition and Consumer Commission Chairperson Gina Cass-Gottlieb in a statement on Monday.
-
-“Importantly, it demonstrates that we take action to ensure that companies operating in Australia communicate clearly, accurately and honestly with their customers at all times,” Cass-Gottlieb added.
-
-...
-
-[Data](articles/85489a7c.json)
-
----
-
-### මහ බැංකුවේ අලාභය ගැන ගම්මන්පිලගෙන් හෙළිදරව්වක්
-
-*2024-05-06 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196332) · `si`
-
-ශ්‍රී ලංකා මහබැංකුව මෑතකදී සිය සේවකයන්ට ඉතිහාසයේ ඉහළම වැටුප් වැඩිවීම ලබාදී ඇත්තේ අඛණ්ඩව වසර 02ක් බිලියන ගණනින් පාඩු ලැබු වටපිටාවක බව පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අනාවරණය කරයි.
-
-අද (06) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී මෙම අනාවරණය කරමින් ඔහු කියා සිටියේ, මෙම කරුණු සඟවමින් වැටුප් වැඩි කරගත් මහබැංකු අධිපතිවරයා සහ පාලනාධිකාරිය ඉල්ලා අස්විය යුතු බවය.
-
-...
-
-[Data](articles/0d1277a6.json)
-
----
-
-### ARE WE BOLD ENOUGH FOR A RADICAL CHANGE?
-
-*2024-05-06 13:43:00* · [`islandlk`](http://island.lk/are-we-bold-enough-for-a-radical-change/) · `en`
-
-Mr Ranil Wickramasinghe (ex-PM, ex-MP and now President) is reported to have berated the present government authorities, for going around begging for funds to purchase the Anti-Corona Virus Vaccines from India (AstraZeneca (Oxford)) and from China (Sinovac). Yes, it is great shame that our nation has managed its finances very poorly and recklessly. Even before the “Robber Barons,” invited by RW’s uncle “Dickie” got here, the local models were well immersed in the technology of large-scale larceny. So, mendacity is not a novelty to us. In fact it possibly started somewhere in the fifties or early sixties. It has grown since, both in ubiquity and scale.
-
-...
-
-[Data](articles/9a40fed0.json)
-
----
-
-### May Day Politics: A Pregame to Presidential Election
-
-*2024-05-06 13:32:00* · [`islandlk`](http://island.lk/may-day-politics-a-pregame-to-presidential-election/) · `en`
-
-May Day this week lived up to expectations as pregame to the presidential election that is expected before the end of October. Political parties strutted their wares and prospective candidates made their pitches. Little was said that was not already known but what was said by each contender does give clues to the direction that each one’s campaign would likely take. There was one constant refrain in the editorials and commentaries before and after May Day: that the Day was all about propaganda for the presidential election, and nothing about the rights of the working people, or their plights – from unemployment to underemployment to low wages, regressive taxes and the crippling cost of living.
-
-...
-
-[Data](articles/8319915e.json)
-
----
-
-### Applications called for appointment of members to Office of Missing Persons
-
-*2024-05-06 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-called-for-appointment-of-members-to-Office-of-Missing-Persons/108-282022) · `en`
-
-Colombo, May 06 (Daily Mirror)- Applications from eligible persons are called for to fill the vacancies for the posts of members in the Office on Missing Persons (OMP), the Communications Department of Parliament said.
-
-Eligible applicants are requested to prepare the application in accordance with the information sheet which is available on the Parliament website www.parliament.lk with a quick link titled Appointment of the members to OMP.
-
-"The duly completed applications should be sent on or before 27 May 2024 to ‘The Secretary-General to the Constitutional Council, Constitutional Council – Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte, by registered post or by email to constitutionalcouncil@parliament.lk.
-
-‘Appointment of Members to the OMP’ should be indicated on the top left-hand corner of the envelope, or as the subject of the email," a statement said.
-
-◼️
-
-[Data](articles/c91bb178.json)
-
----
-
-### Action against man who caused disturbance at BIA visa counters and officers who recorded incident
-
-*2024-05-06 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99044/action-against-man-who-caused-disturbance-at-bia-visa-counters-and-officers-who-recorded-incident) · `en`
-
-Minister of Public Security Tiran Alles says that action will be taken against the person who had caused a disturbance recently in the visa issuance section at the Bandaranaike International Airport (BIA) in Katunayake.
-
-The minister said that action will also be taken against the officers who had recorded the incident in question.
-
-Minister Alles revealed this during a special press conference held today (06) in relation to the recent controversial issue concerning the issuance of On-Arrival Visas at the BIA in Katunayake.
-
-The Minister explained that the proposal regarding the new visa system was unanimously passed in Parliament without a debate on November 23, 2023.
-
-He stated that the issue of visa fees was also part of the adopted proposal, and that even though it was passed in November, it was not possible to implement the change through the Electronic Travel Authorization (ETA) system and therefore they had to wait until April 17 to implement it through the VFS system.
-
-...
-
-[Data](articles/3aa33ed3.json)
-
----
-
-### Action will be taken against man who caused disturbance: Minister
-
-*2024-05-06 12:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Action-will-be-taken-against-man-who-caused-disturbance-Minister/108-282021) · `en`
-
-Colombo, May 06 (Daily Mirror)- Action will be taken against the person who caused a disturbance at the visa issuing section at the Katunayake Airport, Public Security Minister Tiran Alles said today.
-
-He told a news conference that steps will also be taken against the officers who recorded the incident.
-
-◼️
-
-[Data](articles/cba38bd0.json)
-
----
-
-### Tense situation as unemployed graduates surround NCPC building; 22 arrested
-
-*2024-05-06 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99043/tense-situation-as-unemployed-graduates-surround-ncpc-building-22-arrested) · `en`
-
-A tense situation has been reported as a group of unemployed graduates surrounded the North Central Provincial Council building in protest and seeking solutions to their demands.
-
-Police said that a total of 22 persons including 11 females were arrested during the agitation.
-
-◼️
-
-[Data](articles/2c2cbd2b.json)
-
----
-
-### Three suspects wanted over assault arrested with firearm and ammo
-
-*2024-05-06 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99042/three-suspects-wanted-over-assault-arrested-with-firearm-and-ammo) · `en`
-
-Three suspects wanted in connection with an incident of assault and causing bodily harm have been arrested with an assault rifle and ammunition.
-
-An investigation had been launched regarding a crime of assault and wounding an individual with a sharp weapon on April 16 in the Modara police area.
-
-Accordingly, two suspects involved in the incident and one suspect who aided them were arrested by the officers of Modara Police in the Redbanawatte area in the Modara Beach yesterday (05).
-
-The arrested suspects are aged 21, 23 and 24 years while they are residents of Kimbula Ela, Bloemendhal and Wellampitiya areas.
-
-Meanwhile a total of 25 grams and 300 milligrams of heroin was found in the possession of one of the suspects arrested at the Modara Beach.
-
-...
-
-[Data](articles/c0603fa4.json)
-
----
-
-### NBRO says landslide-prone area not linked to Uma Oya project
-
-*2024-05-06 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99041/nbro-says-landslide-prone-area-not-linked-to-uma-oya-project) · `en`
-
-The National Building Research Organization (NBRO) says that the installation of related equipment to remove water trapped in the Karandagolla area in Ella has already been commenced.
-
-Accordingly, the Director General of the NBRO, Dr. Asiri Karunawardena said that it will take about 10 days to complete this work.
-
-However, he also said that all the necessary measures have been taken to ensure the stability of the land to release the water in the landslide-prone area.
-
-The Director General further said that if the current landslide situation develops further, it may also pose a risk to the Ella-Wellawaya main road, and therefore priority will be given to safeguarding it.
-
-He also mentioned that technical engineers, geologists, environmental experts and others had visited the area and conducted surveys and analyzed aerial photographs and maps while it was found that this area was previously a landslide-prone area.
-
-...
-
-[Data](articles/27e8c043.json)
-
----
-
-### Man who spoke out on visa issue at BIA summoned to record statement
-
-*2024-05-06 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-spoke-out-on-visa-issue-at-BIA-summoned-to-record-statement/108-282020) · `en`
-
-Katunayake, May 06 (Daily Mirror)- The man who spoke out at the Bandaranaike International Airport (BIA) recently against the takeover of the on-arrival visa issuance process by an Indian company has been summoned to the Katunayake Airport Police to record a statement.
-
-The man, who identified himself as Sandaru Kumarasinghe,  told reporters that he had been summoned by the Airport Police to record a statement regarding the incident where he spoke out against the on-arrival visa issuance process being handed over to an Indian Company.
-
-He said that the people must determine whether the statement should be recorded from him, who represented the people, or from those who decided to outsource the visa issuance to a foreign company.
-
-He said people must have the right to raise their voices when national assets are sold out.
-
-...
-
-[Data](articles/1b5b46d8.json)
-
----
-
-### Sri Lanka expressway SOE to help pay off Rs860bn in debt: Minister
-
-*2024-05-06 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-expressway-soe-to-help-pay-off-rs860bn-in-debt-minister-161370/) · `en`
-
-ECONOMYNEXT – Sahasya Investments, a new state enterprise which will manage expressways, is part of efforts to pay off 860 billion rupees of debt linked to their construction, Transport and Highways Minister Bandula Gunawardena said.
-
-“There is a dire need for more optimal management of commercially productive assets in order to pay off the outstanding debt of over 860 billion for the expressway system,” the Gunawardena said on his Meta (Facebook) page after opening the Sahasya Investment head office at Battaramulla.
-
-“Since it is difficult to fulfill that requirement in the traditional government organization structure, this organization will operate as a government company that can make decisions more effectively.
-
-“By doing so, it will be possible to maintain a highway system that will not be a burden to the country.”
-
-It is not clear how much of the 860 billion in debt will be transferred to the special purpose vehicle.
-
-...
-
-[Data](articles/ef671a89.json)
-
----
-
-### O/L exam begins...
-
-*2024-05-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/OL-exam-begins/110-282017) · `en`
-
-The GCE Ordinary Level (O/L) examinations began this morning across the country. Candidates were seen arriving at examination centres in the Colombo district. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/971212ae.json)
-
----
-
-### Two children taken hostage by father rescued after nine-hour operation
-
-*2024-05-06 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-children-taken-hostage-by-father-rescued-after-nine-hour-operation/108-282016) · `en`
-
-Hanwella, May 06 (Daily Mirror)- Two children who were taken hostage by a father in Jalthara, Hanwella were rescued by the STF after a nine-hour operation.
-
-The suspect had come with a hand grenade to kill his wife who was living at the Government Servant's Housing Complex in Jalthara last evening and took the children hostage.
-
-The two children were admitted to the Homagama Hospital as the man had injected something to them.
-
-Police had handed over the hand grenade to the Bomb Disposal Unit for disposal.
-
-◼️
-
-[Data](articles/8de814a2.json)
-
----
-
-### Grama Niladhari officers to report sick for two days
-
-*2024-05-06 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99040/grama-niladhari-officers-to-report-sick-for-two-days) · `en`
-
-Grama Niladhari officers are engaged in trade union action by reporting sick leave today (06) and tomorrow (07), based on several demands.
-
-The All-Island Grama Niladhari Officers’ Association stated that the trade union action has been launched covering the entire country and that they will be withdrawing from duties and reporting sick leave.
-
-Commenting further in this regard, the General Secretary of the association Mr. Jagath Chandralal said that all the unions representing the Grama Niladhari Officers have support this.
-
-He also said that strict measures will be taken if the government does not pay proper attention to their problems in the Cabinet meeting.
-
-◼️
-
-[Data](articles/9997b2b0.json)
-
----
-
-### Panama’s Mulino wins presidency with support from convicted former leader
-
-*2024-05-06 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99039/panamas-mulino-wins-presidency-with-support-from-convicted-former-leader) · `en`
-
-(Reuters) - Panama’s former security minister Jose Raul Mulino on Sunday stormed to victory in a presidential poll dominated by his old boss, the popular ex-leader Ricardo Martinelli, who buttressed his campaign despite being holed up in Nicaragua’s embassy.
-
-Mulino, 64, was one of the favorites for the presidency after he stepped in to replace Martinelli on the ballot when the former president was barred from running due to a money laundering conviction.
-
-“Mission accomplished, damn it,” Mulino told his supporters to loud cheers and applause. “To Ricardo Martinelli, friend, mission accomplished as well.”
-
-Mulino said his government would be pro-investment and pro-business and said the Central American country would honor its debts, but also vowed to not forget the poor.
-
-“I promise to the country at this time to put together, to establish, a government of unity as soon as possible,” Mulino told electoral officials earlier as they video called him to confirm he had won the presidency.
-
-...
-
-[Data](articles/6b08f9e6.json)
-
----
-
-### Sri Lanka rupee opens weaker at 297.20/40 to US dollar
-
-*2024-05-06 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-297-20-40-to-us-dollar-161358/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 297.20/40 to the US dollar on Monday from 297.15/35 the previous week, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 10.62/67 percent from 10.70/75 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 11.40/50 percent from 11.45/55 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.16 percent at 12,424, and the S&P SL20 was down 0.15 percent at 3,666. (Colombo/May06/2024)
-
-◼️
-
-[Data](articles/781c0eea.json)
 
 ---

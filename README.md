@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 11:03:37**
+As of **2024-05-07 11:19:07**
 
 ## Newspaper Stats
 
-*Scraped **22,146** Articles*
+*Scraped **22,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,247 @@ tamilmirrorlk | 2,579
 adaderanalk | 2,617
 virakesarilk | 3,338
 dailymirrorlk | 3,463
-adaderanasinhalalk | 3,572
+adaderanasinhalalk | 3,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,124 (99.9%) of 22,146 articles have been extended.
+22,133 (99.8%) of 22,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### මහ බැංකුවෙන් සුබ ආරංචියක්
+
+*2024-05-07 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196359) · `si`
+
+ශ්‍රී ලංකාවේ නිල සංචිත වත්කම් 2024 අප්‍රේල් මාසයේදී 9.6%කින් වර්ධනය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ඒ අනුව 2024 මාර්තු මාසයේ ඩොලර් බිලියන 4.96ක් ව පැවති නිල සංචිත වත්කම්වල අගය 2024 අප්‍රේල් මාසයේදී ඩොලර් බිලියන 5.43ක් දක්වා වැඩිවී තිබේ.
+
+මූල්‍ය හුවමාරු එකඟතාවක් යටතේ චීනය විසින් සපයා ඇති ඩොලර් බිලියන 1.4ද ඊට ඇතුළත් බව ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+
+◼️
+
+[Data](articles/642c1da1.json)
+
+---
+
+### කෙහෙළියගේ පෙත්සමේ තීරණය කල්යයි
+
+*2024-05-07 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196358) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින තමන්ව අප මත මුදා හරින ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ අතුරු ඉල්ලීම පිළිබඳ තීන්දුව ප්‍රකාශ නොකිරීමට අභියාචනාධකරණය අද (07) තීන්දු කළේය.
+
+තමා ඉදිරි දිනවල විශ්‍රාම යාමට නියමිත හෙයින් මෙම නඩුවට අදාළ නියෝගය සකස් කිරීමට තමන්ට ප්‍රමාණවත් කාලයක් නොමැති හෙයින් සුදුසු තීරණයක් ගැනීම සඳහා එය අභියාචනාදීකරණයේ සභාපති විනිසුරුවරයා වෙත යොමු කරන බවත් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා නියෝග කළේය.
+
+ඒ අනුව අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා ඉදිරියේ අදාළ පෙත්සමක් ලබන 14 වන දා කැඳවීමටද දින නියම වුණි.
+
+මෙම පෙත්සමේ අතුරු ඉල්ලීම පිළිබඳ නියෝගය අද දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+
+◼️
+
+[Data](articles/3c4ac2c3.json)
+
+---
+
+### අධ්‍යාපනයේ අලුත්ම යෝජනාවට චීන රජයේ එකඟත්වය
+
+*2024-05-07 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196357) · `si`
+
+ශ්‍රී ලංකාවේ සාමාන්‍ය අධ්‍යාපනය ඩිජිටල් පරිවර්තනයකට ලක්කිරීමේ යෝජනාවක් අනුව ආධාර ලබාදීමට චීන රජය එකඟත්වය පළ කර තිබේ.
+
+එම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළව ශක්‍යතා අධ්‍යයනයක් ද මේ වනවිට සිදුකර ඇත.
+
+යෝජිත ව්‍යාපෘතිය මඟින් පාසල් සඳහා සම්ප්‍රේෂණ සුහුරු පුවරු සහිත පන්ති කාමර (Delivering Class Room), ප්‍රතිග්‍රාහක සුහුරු පුවරු සහිත පන්ති කාමර (Receiving Class Room) සහ එම කටයුතු මෙහෙයවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය තුළ ජාල මෙහෙයුම් ඒකකයක් (Data Center), චිත්‍රාගාරයක් (Studio Room), සම්ප්‍රේෂණ කාමරයක් (Conference Room) ලබා දීමට අපේක්ෂිතය.
+
+මිශ්‍ර ඉගෙනුම් ක්‍රමවේදය විධිමත්ව සිදුකිරීම, සම්පත් බෙදාගැනීම, විශේෂ කුසලතා ඇති ගුරුවරුන්ගේ දැනුම අවශ්‍ය අවස්ථාවන්හිදී සිසුන්ට ලබාදීම, ගුරුවරු හිඟ අවස්ථාවන්හිදී ප්‍රතිසංස්කරණ සඳහා පහසුකම් සැලසීම යන කාර්යයන් ඵලදායීව හා කාර්යක්ෂමව ඉටු කිරීම සඳහා එම උපාංග මඟින් සහාය ලබාගැනීමට හැකි වේ.
+
+ඒ අනුව ශක්‍යතා අධ්‍යයන වාර්තාව මත පදනම්ව යෝජිත ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා අධ්‍යාපන අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/080c9ade.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-05-07 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196356) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ වී තිබේ.
+
+පරාටේ නීතිය තාවකාලිකව අත්හිටුවන, බැංකු මඟින් ප්‍රදානය කරන ලද, ණය අයකර ගැනීමේ විශේෂ විධිවිධාන සංශෝධන පනත් කෙටුම්පත පිළිබද විවාදය අද (07) පැවැත්වීමට නියමිතව තිබේ.
+
+එහිදී බෙදුම් නඩු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ පරාටේ නීතිය තාවකාලිකව අත්හිටුවන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්විමට නියමිතය.
+
+මේ අතර මෙම සතිය තුළ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව හමුවට ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලය සහ සුනිත්‍ය බලශක්ති අධිකාරිය කැඳවීමට නියමිතව තිබේ.
+
+ලබන බ්‍රහස්පතින්දා දිනයේ ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයේ නිලධාරීන් කෝප් කමිටුව හමුවට කැඳවා ඇති අතර සුනිත්‍ය බලශක්ති අධිකාරියේ නිලධාරීන් සිකුරාදා දිනයේ කැඳවා ඇති බව වාර්තා වේ.
+
+ඊට අමතරව අද දිනයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවට සංචාරක අමාත්‍යංශය කැඳවා ඇති අතර හෙට (08) දිනයේ බුද්ධ ශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යංශය කැඳවා තිබේ.
+
+මුදල්, ආර්ථික ස්ථායිකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යංශය ලබන බ්‍රහස්පතින්දා දිනයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවට කැඳවා ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/66cf1e36.json)
+
+---
+
+### තවත් අබිරහස් කාන්තා මරණයක්
+
+*2024-05-07 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196355) · `si`
+
+වැලිගම පොලිස් වසමේ, රාජගල, වැලිගම ප්‍රදේශයේ පිහිටි නිවසක් තුළ කාන්තාවක් අබිරහස් ලෙස ඝාතනය කර ඇතැයි වාර්තා වේ.
+
+ඊයේ  (06) රාත්‍රී 11.30ට පමණ මියගිය කාන්තාව රැඳී සිටි නිවසට නාඳුනන පුද්ගලයින් කිහිපදෙනෙක් ඇතුළු වී ඇති අතර, නිවසේ තිබූ වටිනා දේ මංකොල්ල කා ඇතැයි අනාවරණය වී තිබේ.
+
+පසුව අදාළ කාන්තාවගේ අත්පා ගැට ගසා නිවස තුළ ඝාතනය කර අතර, එලෙස මියගොස් ඇත්තේ 78 හැවිරිදි කාන්තාවක් බව පොලීසිය පවසයි.
+
+මියගිය කාන්තාව සිය සහෝදරිය හා ස්වාමිපුරුෂයා සමග ජීවත් වන අතර මොවුන් දෙදෙනා රාත්‍රී කාලයේ දි ප්‍රතිකාර ලබාගැනීම සඳහා වැලිගම නගරයට ගොස් නැවත නිවසට පැමිණෙන අතරතුර මෙම ඝාතනය සිදුව ඇත.
+
+මියගිය කාන්තාවගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා මාතර රෝහලට රැගෙන ගොස් තිබේ.
+
+◼️
+
+[Data](articles/d8c299f9.json)
+
+---
+
+### අල්ලස් කොමිසමේ නව අධ්‍යක්ෂ ජනරාල්වරයා පත්කිරීමට එරෙහිව පෙත්සම් 3ක්
+
+*2024-05-07 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196354) · `si`
+
+අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ නව අධ්‍යක්ෂ ජෙනරාල් වරයා ලෙස ඩබ්ලිව්. කේ. ඩී. විජේරත්න මහතා පත්කිරීම සහ එම ධුරයේ කටයුතු කිරීම වළක්වාලන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් 03 ක් ගොනුකර තිබේ.
+
+බලශක්ති ක්ෂේත්‍රයේ විශේෂඥයෙකු වන විදුර රැළපනාව, මාධ්‍යවේදීනී රුවනි ෆොන්සේකා සහ ට්‍රාන්ස්පේරන්සි ඉන්ටර්නැෂනල් ශ්‍රී ලංකා සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
+
+එහි වගඋත්තරකරුවන් ලෙස අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපතිවරයා ඇතුළු සාමාජිකයින්, එහි නව අධ්‍යක්ෂ ජනරාල්වරයා ලෙස පත්කරනු ලැබූ ඩබ්ලිව්. කේ. ඩී. විජේරත්න ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින්, නීතිපතිවරයා ඇතුළු පිරිසක් නම් කරනු ලැබ සිටී.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ, දූෂණ විරෝධී පනතේ 19 වන වගන්තිය යටතේ අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා වශයෙන් පත්කරනු ලබන පුද්ගලයා නීතිඥයෙකු විය යුතු අතර ඔහුට අපරාධ නඩු කටයුතු මෙහෙයවීම පිළිබඳව වසර 15ක පලපුරුද්දක් තිබිය යුතු බවය.
+
+...
+
+[Data](articles/f76003d0.json)
+
+---
+
+### විද්‍යා ඝාතන නඩුවේ අභියාචනා පෙත්සම් විභාගයෙන් සභාපති විනිසුරු ඉවත් වෙයි
+
+*2024-05-07 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196353) · `si`
+
+2015 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනයෙන් සිවලෝගනාදන් විද්‍යා නමැති පාසල් දැරියක් පැහැරගෙන ගොස් සමුහ දුෂණයට ලක් කොට මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටින ස්වීස් කුමාර් ඇතුළු විත්තිකරුවන් පස්දෙනෙකු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සම් විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් පත් කළ පංච ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු එස්. තුරෙයි රාජා මහතා ඊයේ (06) ඉවත් වුණි.
+
+මෙම අභියාචනා ඊයේ එස්.තුරෙයි රාජා, යසන්ත කෝදාගොඩ, ඒ. එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවන ලදී.
+
+එහිදී  පංච පුද්ගල විනිසුරු මඩුල්ලේ සභාපති විනිසුරු එස්.තුරෙයි රාජා මහතා සඳහන් කළේ, තමා නීතිපති දෙපාර්තමේන්තුවේ රාජකාරී කළ සමයේ මෙම නඩුවේ කටයුතු අධීක්ෂණය කර තිබෙන හෙයින් තමා මෙම අභියාචනා විභාගයෙන් ඉවත්වීමට තීරණය කළ බවය.
+
+ඉන් අනතුරුව අදාළ අභියාචනා ජූලි මස 30 වනදා කැඳවන ලෙසත් විනිසුරු මඩුල්ල නියෝග කළේය.
+
+...
+
+[Data](articles/e800d974.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක්
+
+*2024-05-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196352) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළ සිදුවූ රිය අනතුර කිහිපයකින් කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ ඊයේ (06) එම අනතුරු සිදුව තිබුණේ නිට්ටඹුව, වලපනේ, කිලිනොච්චිය සහ මත්තේගොඩ යන පොලිස් වසම්වල බවය.
+
+වලපනේ, නිල්දණ්ඩාහින්න, කලගන්නවත්ත පටු වංගු සහ බෑවුම් සහිත මාර්ගයේ මාලිගාතැන්න ගල්පොත්ත ප්‍රදේශයේ සිදුවූ අනතුරකින් 31 හැවිරිදි පුද්ගලයෙකු ජීවිත්ෂයට පත්ව ඇත.
+
+බෑකෝ යන්ත්‍රයක් රියදුරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් මීටර් 09ක් පමණ ප්‍රපාතයකට පෙරළී ගොස් එම අනතුර සිදුව තිබිණි.
+
+මේ අතර මහනුවර - යාපනය ඒ 9 මාර්ගයේ පරන්තන් ප්‍රදේශයේදී බස් රථයක් මාර්ගයේ වම් පසින් ගමන් කළ පදික පුද්ගලයෙකු ගැටී අනතුරක් සිදුව තිබිණි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පදික පුද්ගලයා කිලිනොච්චිය රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, නෙලුම්කුලම්, වව්නියාව ප්‍රදේශයේ පදිංචිව සිටි 27 හැවිරිදි තරුණයෙකි.
+
+මේ අතර මත්තේගොඩ, කිරිගම්පමුණුව, සල්ගස් හන්දිය ප්‍රධාන මාර්ගයේ මත්තේගොඩ නගරය ප්‍රදේශයේ සිදුවූ අනතුරකින් 69 හැවිරිදි කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇත.
+
+...
+
+[Data](articles/58c0a514.json)
+
+---
+
+### පොහොට්ටුවේ සියලු මන්ත්‍රීවරුන්ට හා සංවිධායකවරුන්ට කැඳවීමක්
+
+*2024-05-07 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196350) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ සියලු සංවිධායකවරුන් කොළඹට කැඳවා තිබේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා විසින් අදාළ කැඳවීම සිදුකර ඇති බව වාර්තා වේ.
+
+ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන සියලු පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ සංවිධායකවරුන් නෙළුම් මාවතේ පිහිටි පක්ෂ මූලස්ථානය වෙත පෙරවරු 10.45ට කැඳවා ඇති බව සඳහන්ය.
+
+ඉදිරි දේශපාලන තත්ත්වය සම්බන්ධයෙන් සාකච්ඡා කිරීම මෙම හමුවේ අරමුණ වී ඇති බව වාර්තා වේ.
+
+මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා අතර පසුගියදා පැවති සාකච්ඡාවේ දී ගනුලැබු තීන්දු තීරණ පිළිබඳව ද මෙහිදී සාකච්ඡා කිරීමට නියමිතව තිබේ.
+
+ජනාධිපතිවරයා සහ බැසිල් රාජපක්ෂ මහතා අතර පවතින දේශපාලන තත්ත්වය සම්බන්ධයෙන් පසුගිය සෙනසුරාදා පස්වරුවේ අදාළ  සාකච්ඡාව පවත්වා ඇති බව සඳහන්ය.
+
+මේ අතර වසර 05කට පසුව ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය වෙත හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සාකච්ඡාවක් සඳහා පැමිණ තිබේ.
+
+...
+
+[Data](articles/3f0fe884.json)
+
+---
+
+### මන්නා රමේෂ්ව දිවයිනට රැගෙන එයි
+
+*2024-05-07 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196348) · `si`
+
+ඩුබායිහිදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන රමේෂ් ප්‍රියජනක හෙවත් 'මන්නා රමේෂ්' දිවයිනට රැගෙනවිත් තිබේ.
+
+අද (07) අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ පොලිස් කණ්ඩායමක් විසින් සැකකරු ඩුබායිහි සිට දිවයිනට රැගෙන ආ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+ජාත්‍යන්තර පොලීසිය හරහා රතු වරෙන්තු නිකුත් කර තිබූ මන්නා රමේෂ් නැමැත්තාව පසුගියදා ඩුබායි පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+මනුෂ්‍ය ඝාතන, මත්ද්‍රව්‍ය ජාවාරම් සහ කප්පම් ගැනීම් ඇතුළු අපරාධ රැසකට මන්නා රමේෂ්ට එරෙහිව චෝදනා එල්ල වී තිබේ.
+
+අවිස්සාවේල්ල ප්‍රදේශය මුලික කරගෙන ව්‍යාපාරිකයින්ගෙන් කප්පම් ගැනීමේ සිදුවීම් රැසක් සම්බන්ධයෙන් සැකකරුට එරෙහිව චෝදනා එල්ල වී ඇති අතර පසුගිය කාලයේ සිදුවූ ඝාතන කිහිපයක්ම ඔහුගේ මෙහෙයවීම මත සිදුව ඇති බව අනාවරණය වී තිබේ.
+
+දිවයිනට රැගෙන ආ සැකකරු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7a9fd628.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-05-07 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196347) · `si`
+
+ඉදිරි දිනවලදී හෙටින් (08) පසු දිවයිනේ බොහෝ ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාරත්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 පමණ තරමක තද වැසි ඇතිවේ.
+
+මධ්‍යම සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/307e198e.json)
+
+---
 
 ### Industry EXPO 2024: International Industry Exhibition Set for June 19th -23rd at BMICH –
 
@@ -47,6 +277,8 @@ Heat Index at ‘Extreme Caution level’ in Northern, North-central and Eastern
 ...
 
 [Data](articles/681ac116.json)
+
+[Extended Data](ext_articles/681ac116.ext.json)
 
 ---
 
@@ -78,6 +310,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/f4f10e6d.json)
 
+[Extended Data](ext_articles/f4f10e6d.ext.json)
+
+---
+
+### හමාස් සටන් විරාමයකට එකඟවෙයි
+
+*2024-05-06 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196346) · `si`
+
+ඊජිප්තුව සහ කටාර් රාජ්‍යයෙන් ඉදිරිපත් කරන ලද සටන් විරාම යෝජනාව පිළිගත් බව හමාස් සංවිධානය ප්‍රකාශයට පත්කර තිබේ.
+
+එම සංවිධානය උපුටා දක්වමින් විදෙස් මාධ්‍ය මේ බව වාර්තා කර ඇත.
+
+හමාස් නායක ඉස්මයිල් හනියේ, මෙම යෝජනාව පිළිගත් බවට කටාර් අග්‍රාමාත්‍යවරයා සහ ඊජිප්තු බුද්ධි අංශ ප්‍රධානියා වෙත දැනුම්දී ඇති බවද එම වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/2b53082f.json)
+
 ---
 
 ### Samson Rubber Products marks 30 years of innovation and excellence in solid tyre business
@@ -92,6 +342,8 @@ Founded in 1994 by entrepreneur Ranatunga Rajapaksa, and now led by Managing Dir
 
 [Data](articles/5ba5bb11.json)
 
+[Extended Data](ext_articles/5ba5bb11.ext.json)
+
 ---
 
 ### Pan Asia Bank and Janashakthi Life partner, forging an era of financial empowerment
@@ -105,6 +357,20 @@ Sharing a few words on the new partnership, Naleen Edirisinghe, CEO of Pan Asia 
 ...
 
 [Data](articles/00440409.json)
+
+[Extended Data](ext_articles/00440409.ext.json)
+
+---
+
+### අනුර එක්වන 360 සජීවී විකාශය
+
+*2024-05-06 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196345) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා එක්වන දෙරණ 360 සජීවී විකාශය.
+
+◼️
+
+[Data](articles/6e7d6ef1.json)
 
 ---
 
@@ -124,6 +390,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/34c99b9c.json)
 
+[Extended Data](ext_articles/34c99b9c.ext.json)
+
 ---
 
 ### Chinese support for Sri Lanka’s agricultural and industrial development
@@ -140,6 +408,8 @@ The delegation, representing the China Association of Small and Medium-Scale Com
 
 [Data](articles/2cb65311.json)
 
+[Extended Data](ext_articles/2cb65311.ext.json)
+
 ---
 
 ### SL’s debt-restructuring problems cast shadow on share-trading; indices dip
@@ -155,6 +425,72 @@ All Share Price Index went down by 28.07 points, while S and P SL20 declined by 
 ...
 
 [Data](articles/574b9cb4.json)
+
+[Extended Data](ext_articles/574b9cb4.ext.json)
+
+---
+
+### ක්‍රිකට් පන්දුව වැදුණු දරුවෙකුට අත්වූ ඉරණම
+
+*2024-05-06 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196344) · `si`
+
+ක්‍රිකට් ක්‍රීඩා කරමින් සිටි කුඩා දරුවෙකුගේ රහස් ප්‍රදේශයේ පන්දුව වැදීමෙන් එම දරුවා එම ස්ථානයේදීම මියගිය පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 11 හැවිරිදි වියේ පසුවූ Shaurya Khadwe නමැති කුඩා දරුවෙකි.
+
+මෙම අවාසනාවන්ත සිදුවීම වාර්තාවන්නේ ඉන්දියාවේ මහාරාෂ්ට්‍ර ප්‍රාන්තයේ පූනේ ප්‍රදේශයෙන් බව එම වාර්තා වැඩිදුරටත් පෙන්වා දී තිබේ.
+
+එහිදී සිය මිතුරන් සමග ක්‍රීඩා කරමින් සිටි Shaurya Khadwe යොමුකළ පන්දුවකට පන්දුවට පහරදෙමින් සිටි මිතුරා එල්ලකළ පහර ඔහුගේ රහස් ප්‍රදේශයට වැදී ඇති බව එම වාර්තා සඳහන් කරයි.
+
+මෙහිදී දරුවා එම ස්ථානයේ සිහිසුන්ව සිටි දරුවා රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව අවාසනාවන්ත ලෙස මියගොස් ඇත.
+
+එම අවස්ථාව දැක්වෙන වීඩියෝ පටයක් ද මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+
+◼️
+
+[Data](articles/d6e59eb3.json)
+
+---
+
+### හමුදාවේ හිටපු සැරයන්වරයෙකු පහරදී ඝාතනය කරයි
+
+*2024-05-06 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196343) · `si`
+
+තෙඹුවන බේගමුව ප්‍රදේශයේදී හිටපු යුද හමුදා සාමාජිකයෙකු පැහැරගෙන ගොස් පොලුවලින් පහර දී ඝාතනය කර ඇත.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ එම ප්‍රදේශයේම පදිංචිව සිටි 51 හැවිරිදි වියේ පසුවූ හිටපු යුද හමුදා සැරයන්වරයෙකි.
+
+පුද්ගලයින් දෙදෙනෙකු විදෙස්ගතකරන බවට පොරොන්දුවී රුපියල් ලක්ෂ 8ක මුදලක් වංචා කළ බව කියන සිද්ධියක් මත මෙම ඝාතනය සිදුව ඇති බවට සැකපළ කරයි.
+
+සිද්ධිය සම්බන්ධයෙන් මේ වනවිට එක් සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ වංචාවට හසුවූ බව කියන පුද්ගලයින් දෙදෙනා තවත් අයෙක් හා එක්ව මෙම ඝාතනය සිදුකර ඇති බවට සැකපළ කරයි.
+
+◼️
+
+[Data](articles/f9393ce6.json)
+
+---
+
+### වීසා ගාස්තුව ගැන රජයෙන් විශේෂ තීරණයක්
+
+*2024-05-06 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196342) · `si`
+
+විදේශිකයන් මෙරටට පැමිණිමේදී එක් පුද්ගලයෙකුට දින 30ක වීසා බලපත්‍රයක් සඳහා අය කළ ඩොලර් 50ක පැරණි ගාස්තුව එලෙසම පවත්වා ගෙන යාමට අද (06) පැවති අමාත්‍ය මණ්ඩල හමුවේදී තීරණය කර තිබේ.
+
+ජනාධිපති මාධ්‍ය ඒකකය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+එමෙන්ම ඉන්දියාව, චීනය, රුසියාව, ජපානය, මැලේසියාව, තායිලන්තය, ඉන්දුනීසියාව යන රටවල් හතට මෙතෙක් නොමිලේ සැපයූ වීසා සේවාව එසේම ක්‍රියාත්මක වෙයි.
+
+මෙරටට විදේශිකයෙකු ඇතුල්වීමේදී අදාළ වීසා නිකුත්කිරීමේ පූර්ණ වගකීම ආගමන විගමන දෙපාර්තමේන්තුව සතු බව ද රජය අවධාරණය කර ඇත.
+
+සංචාරක කර්මාන්තයේ සාර්ථක ප්‍රගතියක් මේ වනවිට රට තුළ ඇති වී තිබෙන බැවින්, විදේශිකයෙකු මෙරටට පැමිණිමේදී නිකුත් කරන වීසා බලපත්‍රයක උපරිම ගාස්තුව ඩොලර් 50ක සීමාවේ පවත්වාගෙන යන ලෙස සංචාරක ක්ෂේත්‍රයේ නියුතු පාර්ශ්ව රැසක් ද පසුගිය දින කිහිපය තුළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙතින් ඉල්ලා ඇති බව එහි දැක්වෙයි.
+
+එමෙන්ම එය සංචාරක කර්මාන්තයේ ඉදිරි අභිවෘද්ධියට විශාල පිටිවහලක් වන බවද ඔවුන් වැඩිදුරටත් පෙන්වා දී ඇත.
+
+...
+
+[Data](articles/043a94e5.json)
 
 ---
 
@@ -176,6 +512,20 @@ As we mark the International Day of the Midwife today (May 5th), Padmakanthi’s
 
 [Data](articles/5c08cbff.json)
 
+[Extended Data](ext_articles/5c08cbff.ext.json)
+
+---
+
+### අත්අඩංගුවට ගත් 22කට අධිකරණය දුන් නියෝගය
+
+*2024-05-06 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196341) · `si`
+
+උතුරුමැද පළාත් සභා ගොඩනැගිල්ලේ පැවති විරෝධතාවයේදී අත්අඩංගුවට ගත් රැකියා විරහිත උපාධිධාරීන් 22 ඇප මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/06a841e6.json)
+
 ---
 
 ### ‘Mystery’ behind mindfulness: You become what you think
@@ -187,6 +537,146 @@ Just the other day, at the University cafeteria while enjoying a cup of ginger t
 ...
 
 [Data](articles/150908db.json)
+
+[Extended Data](ext_articles/150908db.ext.json)
+
+---
+
+### අද ඇරඹුණු සාමාන්‍ය පෙළ විභාග ප්‍රතිඵල නිකුත්වෙන්නේ මෙහෙමයි
+
+*2024-05-06 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196340) · `si`
+
+අද ඇරඹුණු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල සැප්තැම්බර් මාසය වනවිට ලබාදීමට බලාපොරොත්තු වන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+
+විභාග කොමසාරිස් ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේ සාමාන්‍ය පෙළ විභාගය අවසන් වූ පසු පිළිතුරු පත්‍ර ඇගයීම් ක්‍රියාවලිය සඳහා පරික්ෂකවරු 35,000න් පමණ අවශ්‍ය වන බවය.
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය අද (06) ආරම්භවිය.
+
+විභාගය අද සිට ලබන 15 වනදා දක්වා දිවයින පුරා විභාග මධ්‍යස්ථාන 3,527 කදී පැවැත්වීමට නියමිතය.
+
+මෙවර විභාගය සඳහා අයදුම්කරුවන් 452, 979 දෙනෙකු පෙනී සිටීමට නියමිත බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඊට පාසල් අයදුම්කරුවන් තුන් ලක්ෂ 87, 648ක් සහ පෞද්ගලික අයදුම්කරුවන් 65,331 දෙනෙකු ඇතුළත් වන බව සඳහන්ය.
+
+◼️
+
+[Data](articles/9b2d80c7.json)
+
+---
+
+### හෙටත් රත්වෙන තැන් මෙන්න
+
+*2024-05-06 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196339) · `si`
+
+හෙට (06) දිනයේ උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් අද (05) කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කළේය.
+
+එම නිවේදනයේ දැක්වෙන්නේ හෙට දිනයේ උතුරු, උතුරුමැද සහ නැගෙනහිර පළාත්වලත් කුරුණෑගල සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකයේ, එනම් මිනිස් සිරුරට දැනෙන උණුුසුම "වැඩි අවධානය" යොමුකළයුතු මට්ටමක පවතින බවය.
+
+එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් පුත්තලම සහ මාතලේ දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකය "අවධානය" යොමුකළයුතු මට්ටමක පවතී යැයි අපේක්ෂා කරන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/ec4d0936.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 8ක් යළි රිමාන්ඩ්
+
+*2024-05-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196338) · `si`
+
+ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් නඩුවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 8 දෙනා එළැඹෙන මැයි මස 20 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+ඊට අදාළ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබාදුන්නේය.
+
+මේ අතර ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් නඩුවට අදාළව අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරතකර සිටි එක් සැකකරුවෙකු අද ඇප මත මුදාහැර තිබුණි.
+
+මෙලෙස ඇප මත නිදහස් කර ඇත්තේ සෞඛ්‍ය අමාත්‍යාංශයේ සැපයුම් අංශයේ හිටපු නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතාය.
+
+◼️
+
+[Data](articles/c8adf65b.json)
+
+---
+
+### E-Visa ක්‍රමවේදය ගැන VFS Global සමාගමෙන් නිවේදනයක්
+
+*2024-05-06 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196337) · `si`
+
+බණ්ඩාරනායක ගුවන්තොටුපොළේ  E-Visa ක්‍රමවේදය ක්‍රියාත්මක කිරීමත් සමග ඇතිවී තිබෙන කතාබහ සම්බන්ධයෙන් ඊට අදාළ බව සඳහන් කෙරුණු VFS Global සමාගම විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+අදාළ නිවේදනය මගින් VFS Global සමාගම පෙන්වාදෙන්නේ 2004 සිට සිය සමාගම ශ්‍රී ලංකාවේ මෙහෙයුම් ක්‍රියාත්මක කරන බවය.
+
+මේ අතර තම සමාගම එංගලන්තය, ඔස්ට්‍රේලියාව, කැනඩාව නවසීලන්තය ප්‍රංශය ජර්මනිය ඉතාලිය ස්විට්සර්ලන්තය, නෝර්වේ, ඔස්ට්‍රියා, ලැට්වියා, හංගේරියාව, ක්‍රොඒෂියාව, මෝල්ටාව සහ ග්‍රීසිය ඇතුළු රටවල් 23කට අදාළ වීසා අයදුම්පත් සකස් කිරීමේ කාර්යය සිදුකරන බවද පවසයි.
+
+එසේම තම සමාගම ශ්‍රී ලංකාවේ කොළඹ සහ යාපනයේ ක්‍රියාත්මක කෙරෙන වීසා මධ්‍යස්ථාන 6ක මෙහෙයුම් කටයුතු පවත්වාගෙන යන බවද එම නිවේදනයේ දැක්වෙයි.
+
+එහි වැඩිදුරටත් සඳහන් වන්නේ එම මධ්‍යස්ථාන තුළ ශ්‍රී ලාංකිකයින් 123ක් සේවයේ නිරතව සිටින බවය.
+
+එසේම 2004 වසරේ සිට සිය මෙහෙයුම් ආරම්භ කර මේ වනවිට වීසා අයදුම්පත්‍ර මිලියන 3.2කට අධික ප්‍රමාණයක් සඳහා සේවා සැපයීමේ කටයුතු ඔවුන් සිදුකර ඇති බවද එම නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/6f10d3e7.json)
+
+---
+
+### සාමාන්‍ය පෙළ සිසුවාට අත්වූ අවාසනාවන්ත ඉරණම
+
+*2024-05-06 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196336) · `si`
+
+ආශිර්වාද ලබාගැනීම සඳහා දේවාලයක් වෙත ගිය බළන්ගොඩ ප්‍රදේශයේ පාසල් ශිෂ්‍යයෙකු එක්වරම ඇදවැටී මියගොස් ඇති බවට වාර්තා වෙයි.
+
+මෙලෙස මියගොස් ඇත්තේ අද දිනයේ සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිතව සිටි පාසල් ශිෂ්‍යයෙකි.
+
+හරනාත් රංජිත් කුමාර නමැති එම පාසල් සිසුවා බළන්ගොඩ මාරතැන්න ප්‍රදේශයේ පිහිටි දේවාලයක් වෙත අද උදෑසන ගොස් තිබුණි.
+
+එහිදී ක්ලාන්ත වී ඇදවැටුණු දරුවා මාරතැන්න වතු රෝහලට ඇතුළත් කර ඇති අතර ඒ වනවිටත් පාසල් සිසුවා මියගොස් ඇති බවට වාර්තාවෙයි.
+
+පශ්චාත් මරණ පරීක්ෂණය බළන්ගොඩ රෝහලේදී සිදුකිරීමට නියමිත අතර බළන්ගොඩ පින්නවල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/5c6f363a.json)
+
+---
+
+### කුලියාපිටිය තරුණයාගේ සිද්ධියේ ප්‍රධාන සැකකරුට ඇප
+
+*2024-05-06 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196335) · `si`
+
+කුලියාපිටිය ප්‍රදේශයේ පදිංචි තරුණයෙකු අතුරුදන් කිරීමේ සිද්ධියට අදාළ ප්‍රධාන සැකකරු අද (06) සිය නීතිඥයින් මාර්ගයෙන් අධිකරණය වෙත භාරවී තිබේ.
+
+එහිදී කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් මහතා නියෝගය කර ඇත්තේ සැකකරු ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහරින ලෙසටය.
+
+මෙලෙස ඇප මත මුදාහරිනු ලැබුවේ සුජිත් ප්‍රනාන්දු නොහොත් "සිඟිති" නමැති පුද්ගලයෙකි.
+
+කුලියාපිටිය කබලෑව ප්‍රදේශයේ පදිංචි 31 හැවිරිදි වියේ පසුවූ සුසිත ජයවංශ නමැති තරුණයා මීට දින කිහිපයකට පෙර අතුරුදන්විය.
+
+ඔහු අවසන්වරට සිය පෙම්වතියගේ පියාගෙන් ලද දුරකථන ඇමතුමකට අනුව ඇයගේ නිවසට ගොස් තිබුණි.
+
+එහිදී ඔහුට පෙම්වතියගේ පියා, පෙදරේරුවන් දෙදෙනෙකු සමග එක් වී පහරදී ඇතැයි අනාවරණ වූ බව පොලීසිය පැවසීය.
+
+ඒ අනුව අත්අඩංගුවට ගත් පෙදරේරුවන් දෙදෙනා පොලීසියට පාපෝච්චාරණය කර ඇත්තේ, අදාළ තරුණයා ප්‍රදේශයේ හිටපු පළාත් සභා මන්ත්‍රීවරයෙකුගේ නිවසට රැගෙන යා යුතු බව පෙම්වතියගේ පියා පැවසූ බවය.
+
+...
+
+[Data](articles/04902e39.json)
+
+---
+
+### මහරගම කාණුවක තිබී පාස්පෝට් තොගයක් හමුවෙයි
+
+*2024-05-06 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196333) · `si`
+
+මහරගම ප්‍රදේශයේ කාණුවක තිබී විදේශ ගමන් බලපත්‍ර තොගයක් දමා තිබූ බෑගයක් හමුව තිබේ.
+
+සිදුකළ පරීක්ෂණයකදී අනාවරණය වී ඇත්තේ, මහරගම ප්‍රදේශයේ පවත්වා ගෙන ගිය විදේශ රැකියා ආයතනයකින් විදේශගත කරන බව පවසා ලබාගත් විදෙස් ගමන්බලපත්‍ර 180ක් එලෙස බෑගයේ තිබූ බවය.
+
+රුපියල් කෝටි 26කට ආසන්න මුදලක් අදාළ පුද්ගලයා වංචා කර ඇති අතර ඔහු මේ වනවිට පළාගොස් තිබේ.
+
+◼️
+
+[Data](articles/f25be95f.json)
 
 ---
 
@@ -205,6 +695,20 @@ The airline will pay a fine of 100 million Australian dollars ($66m) and provide
 ...
 
 [Data](articles/85489a7c.json)
+
+---
+
+### මහ බැංකුවේ අලාභය ගැන ගම්මන්පිලගෙන් හෙළිදරව්වක්
+
+*2024-05-06 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196332) · `si`
+
+ශ්‍රී ලංකා මහබැංකුව මෑතකදී සිය සේවකයන්ට ඉතිහාසයේ ඉහළම වැටුප් වැඩිවීම ලබාදී ඇත්තේ අඛණ්ඩව වසර 02ක් බිලියන ගණනින් පාඩු ලැබු වටපිටාවක බව පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල මහතා අනාවරණය කරයි.
+
+අද (06) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී මෙම අනාවරණය කරමින් ඔහු කියා සිටියේ, මෙම කරුණු සඟවමින් වැටුප් වැඩි කරගත් මහබැංකු අධිපතිවරයා සහ පාලනාධිකාරිය ඉල්ලා අස්විය යුතු බවය.
+
+...
+
+[Data](articles/0d1277a6.json)
 
 ---
 
@@ -1531,575 +2035,5 @@ The Supreme Court Judge has issued a series of order on these cases.. The marria
 [Data](articles/5e629088.json)
 
 [Extended Data](ext_articles/5e629088.ext.json)
-
----
-
-### Ranasinghe Premadasa commemoration today
-
-*2024-05-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196162) · `si`
-
-Today marks the commemoration of the 31st Executive President of Sri Lanka, Ranasinghe Premadasa, who was assassinated 31 years ago. His legacy continues through his son, Sajith Premadasa, who is now a prominent figure in Sri Lankan politics.
-
-🟩
-
-The 31st of the 31st Executive President Ranasinghe Premadasa, the second Executive President Ranasinghe Premadasa has been commemorated today (01).
-
-Sir Ranasinghe Premadasa Premadasa Premadasa Premadasa Premadasa has also launched the commerce leader Sajith Premadasa.
-
-President Ranasingha Premadasa was also present on May 1, 1993.
-
-When the procession arrived at the Armorwest of Colombo, 23 persons including the LTTE blow injuries and 23 others were injured.
-
-Sri Lanka's second Executive President Ranasinghe Premadasa has been killed in 31 years.
-
-He was organized by a Dhamma speech at the Sri Vericate Hall yesterday afternoon.
-
-A close symbol of the subject of the Maha Sangha from the Gangarama Viharaya in Hunupitiya, Colombo.
-
-◼️
-
-[Data](articles/78223af4.json)
-
-[Extended Data](ext_articles/78223af4.ext.json)
-
----
-
-### Resolutions passed at May Day meeting of the TNA
-
-*2024-05-01 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/182414) · `ta`
-
-The TNA passed resolutions in 2024 condemning the government's handling of ethnic issues, war, and the disappearance of civilians. It criticized the government's actions against Tamil Nadu fishermen and the economic struggles of farmers and working women. The TNA also highlighted the impact of economic downturn, inflation, and repressive laws on the poor and workers. It called for relief for the poor, abolition of repressive laws, and protection of the media.
-
-🟩
-
-The following resolutions have been passed in 2024 of the Tamil National Alliance (TNA).
-
-The failure to resolve the national ethnic problem in the country and the unnecessary war on the country, and the government's terrorist ban on the war, and fifteen years after the war, the end of the war is still a process that continues to violate the fundamental rights of the people.
-
-Similarly, the government has not taken any serious action on tens of thousands of civilians who have disappeared due to the war, and the anti -Tamil tendency of the government.
-
-The Democratic Tamil National Alliance (TNA) strongly condemns these actions of the government and urges the government to find a solution.
-
-There is a series of controversies over fishing between Tamil Nadu fishermen and Eelam Vadapula fishermen in the North Sea and the Gulf of Mannar.
-
-...
-
-[Data](articles/bbcb8e1e.json)
-
-[Extended Data](ext_articles/bbcb8e1e.ext.json)
-
----
-
-### Indonesia’s Ruang volcano erupts, more than 12,000 people evacuated
-
-*2024-05-01 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98953/indonesias-ruang-volcano-erupts-more-than-12000-people-evacuated) · `en`
-
-Indonesia’s Ruang volcano erupted on Tuesday, spewing lava as lightning flashes lit up its crater, prompting authorities to raise the alert status and evacuate more than 12,000 people living on a nearby island.
-
-The Center for Volcanology and Geological Hazard Mitigation (PVMBG) had warned the residents of Tagulandang island that a tsunami could be triggered by volcanic material collapsing into the ocean.
-
-The warning, issued on Tuesday morning, remained in placed as of the afternoon.
-
-The agency raised the alert status of Ruang to the highest level following the early morning eruption, urging residents not to go near the volcano.
-
-Indonesia’s disaster mitigation agency (BNPB) said that all 843 residents living in Ruang island, where the volcano is located, have been moved to Manado, the capital of North Sulawesi province. Residents of Tagulandang island are being relocated to Siau island to the north.
-
-...
-
-[Data](articles/b8ac65ce.json)
-
-[Extended Data](ext_articles/b8ac65ce.ext.json)
-
----
-
-### SLFP selects Wijeyadasa Rajapakshe as Presidential candidate
-
-*2024-05-01 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFP-selects-Wijeyadasa-Rajapakshe-as-Presidential-candidate/108-281720) · `en`
-
-Colombo, May 1 (Daily Mirror) - Former President Maithripala Sirisena said today that Justice Minister Dr. Wijeyadasa Rajapakshe will be the Presidential candidate representing the Sri Lanka Freedom Party (SLFP).
-
-He made this revelation during the commemoration ceremony of the late T.B. Ilangaratne.
-
-The former President said that Wijeyadasa Rajapakshe has the support of the majority of party members.
-
-Sirisena said he has previously served as President and pledged not to contest for the Presidency again.
-
-"Wijayadasa Rajapakshe will run for the upcoming Presidential election and we will offer him our full support," he said.
-
-◼️
-
-[Data](articles/97b8497b.json)
-
-[Extended Data](ext_articles/97b8497b.ext.json)
-
----
-
-### SLFP selects Wijeyadasa Rajapakshe as Presidential candidate
-
-*2024-05-01 14:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLFP-selects-Wijeyadasa-Rajapakshe-as-Presidential-candidate/155-281720) · `en`
-
-Colombo, May 1 (Daily Mirror) - Former President Maithripala Sirisena said today that Justice Minister Dr. Wijeyadasa Rajapakshe will be the Presidential candidate representing the Sri Lanka Freedom Party (SLFP).
-
-He made this revelation during the commemoration ceremony of the late T.B. Ilangaratne.
-
-The former President said that Wijeyadasa Rajapakshe has the support of the majority of party members.
-
-Sirisena said he has previously served as President and pledged not to contest for the Presidency again.
-
-"Wijayadasa Rajapakshe will run for the upcoming Presidential election and we will offer him our full support," he said.
-
-◼️
-
-[Data](articles/b958550d.json)
-
-[Extended Data](ext_articles/b958550d.ext.json)
-
----
-
-### Special trains bring UNP supporters for May Day rally
-
-*2024-05-01 13:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-trains-bring-UNP-supporters-for-May-Day-rally/110-281719) · `en`
-
-United National Party (UNP) supporters paticipating in the May Day rally today were transported to Colombo by special trains. UNP chairman and former Minister Vajira Abeywardene joined then from Ahangama. Two more special trains operate, one from Beliatta and another from Galle, to provide trainsport to the participants of the rally. Pix by D.G. Sugathapala
-
-◼️
-
-[Data](articles/f3f9a9e1.json)
-
-[Extended Data](ext_articles/f3f9a9e1.ext.json)
-
----
-
-### Strict security measures in place for May Day rallies
-
-*2024-05-01 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Strict-security-measures-in-place-for-May-Day-rallies/108-281718) · `en`
-
-Colombo, May 1 (Daily Mirror) - Police have deployed nearly 10,000 officers including Special Task Force (STF) personnel and intelligence officers across the country for security and traffic management during today's May Day rallies and parades.
-
-Police Spokesman DIG Nihal Thalduwa said that tri-forces personnel are also on standby at police stations if needed. May Day rallies are planned in 35 police areas across the country with at least 14 scheduled in Colombo alone.
-
-"Nearly 5,000 police officers are deployed solely for security and traffic management in Colombo," DIG Thalduwa said.
-
-With a focus on enhancing security measures, the spokesman said only permitted drone cameras will be allowed for use during the rallies.
-
-Police urged rally attendees to refrain from littering roads with plastics and waste.
-
-DIG Thalduwa said strict action will be taken against individuals engaging in unruly behavior under the influence of alcohol, causing inconvenience to the public and traffic.
-
-...
-
-[Data](articles/dd88a3c9.json)
-
-[Extended Data](ext_articles/dd88a3c9.ext.json)
-
----
-
-### Elephant
-
-*2024-05-01 13:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானைக்கு-தாவிய-மொட்டு-எம்-பி/175-336606) · `ta`
-
-Sri Lanka PA's Elephant joins Moneragala District Parliamentarian Dr. Kayashan Navanandana, a former Health Minister, at the United National Party's meeting.
-
-🟩
-
-Sri Lanka PA has joined the Moneragala District Parliamentarian Dr. Kayashan Navanandana, the United National Party on Wednesday (01).
-
-He will also attend the United National Party's meeting. It is noteworthy that Parliamentarian Navanandana also served as Minister of Health for a while.
-
-◼️
-
-[Data](articles/942108a6.json)
-
-[Extended Data](ext_articles/942108a6.ext.json)
-
----
-
-### JKH warns public about WhatsApp groups falsely using their name for scams
-
-*2024-05-01 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JKH-warns-public-about-WhatsApp-groups-falsely-using-their-name-for-scams/108-281717) · `en`
-
-Colombo, May 1 (Daily Mirror) - John Keells Holdings PLC has issued a cautionary notice to the public regarding WhatsApp groups falsely claiming affiliation with the company and some of its subsidiaries.
-
-The groups, reportedly numbering up to 30, are attempting to deceive individuals by asserting a connection with the organization.
-
-“John Keells Holdings PLC denies any association or affiliations with these groups and the activities stated in the messages.
-
-“Unauthorised use of our brand identity or trademarks is a violation of our intellectual property rights and detrimental to our goodwill,” John Keells Holdings said in a notice on its social media platforms.
-
-“The John Keells Group reserves the right to pursue legal action against any individuals or groups found using our identity in such a manner,” it added.
-
-John Keells Holdings asserted it bears no responsibility for any losses or damages incurred as a result of responding to or acting upon these fraudulent messages.
-
-...
-
-[Data](articles/78bcd5c5.json)
-
-[Extended Data](ext_articles/78bcd5c5.ext.json)
-
----
-
-### Hotel worker in conflict between university students
-
-*2024-05-01 13:07:57* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුන්-අතර-හෝටලයක-ඇති-වූ-ගැටුමකින්-හෝටල්-සේවකයෙකුට-බරපතලයි/11-409362) · `si`
-
-A conflict between university students and hotel workers at a party in Homagama led to injuries and arrests. A woman was seriously hurt and a man was critically injured by a van. Police are investigating.
-
-🟩
-
-During a liquor partner of a university party in Homagama, hotel workers and university students have been associated with the two parties, a suspicion between the two parties and two (30), a woman, who was injured in the hospital and was arrested by a woman and twelve (30).Police say.
-
-Among the university was present at a hotel in the Healthbuduwa area in Kirapedu, a hotel in the Healthbuduwa area.
-
-A group of students of university students and a group of alumni have participated in this event. There was an argument between the students and had grown to a slight conflict with distance. With the intervention of hotel workers to control the clash, a dispute between the participants had a dispute and exchanged exchanges.
-
-A conflict once again had a conflict between the two sides. Preliminary investigations have revealed that the two sides had been assaulted again.
-
-Later, the 119 emergency call number was informed and the police were there before the police arrived
-
-...
-
-[Data](articles/97a804c7.json)
-
-[Extended Data](ext_articles/97a804c7.ext.json)
-
----
-
-### Urged to appoint a Tamil candidate
-
-*2024-05-01 13:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-வேட்பாளரை-நியமிக்க-வலியுறுத்து/175-336605) · `ta`
-
-Demonstration for disappeared relatives in Vavuniya. Call for justice, unity, and appointment of a Tamil candidate for presidential election.
-
-🟩
-
-Relatives of the disappeared on Wednesday (01) at a demonstration at the Vavuniya Old Bus Stand at the Vavuniya Old Bus Stand.
-
-Also: Tomorrow is Labor Day. We are looking for them because they have been involved in the business and abducted our relationships.
-
-We are currently in the class of the working class without the class. So we are fighting for our relationships to return our relationships.
-
-And the international is constantly deceiving us without giving us justice. Even though we need to get international justice for our relationships.
-
-Our goal is to travel in unity to get all our rights.
-
-It is noteworthy that everyone should unanimously unanimously make a proper announcement to appoint a common candidate for the presidential election.
-
-◼️
-
-[Data](articles/466e9a98.json)
-
-[Extended Data](ext_articles/466e9a98.ext.json)
-
----
-
-### Self -Empowerment
-
-*2024-05-01 13:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாத்ரூமில்-சுயமுயற்சி-கைக்குத்-தட்டுப்பட்ட-கால்/175-336604) · `ta`
-
-Vinisha, a 24-year-old nurse from Kanyakumari, fell in love with Selvamani, a 29-year-old from Madurai, and they decided to live together in Chennai. After becoming pregnant, Vinisha experienced severe pain during childbirth, leading to the death of her baby. She was unable to deliver the baby easily and, in desperation, attempted to pull the baby out, resulting in the baby's death. Vinisha is now undergoing treatment, and the police are investigating the case.
-
-🟩
-
-Both lovers, living together without marriage. It is when. The incident took place ..
-
-Vinisha hails from Kanyakumari district. The nurses have completed their studies. Is 24 years old. He has been working as a nurse for a year at a private hospital in Chennai.
-
-Vinisha fell in love with Selvamani. Selvamani belongs to Madurai Usilampatti. 29 years old.. He is now working in Chennai.
-
-Vinisha from Kanyakumari district and Selvamani from Madurai are working in Chennai, and the 2 others have become close to marry.
-
-As a result, Vinisha became pregnant. She is currently 7 months pregnant. He was able to stay in Chennai without having to go home.. In this case, Vinisha has suddenly had a childbirth.
-
-Since he was a nurse, he decided to see himself. For this, he enters the bathroom (in the bathroom) and engaged in the effort. But, he couldn't.
-
-...
-
-[Data](articles/5cfdb5c6.json)
-
-[Extended Data](ext_articles/5cfdb5c6.ext.json)
-
----
-
-### Reduced diesel price not sufficient for bus fare revision: Gemunu
-
-*2024-05-01 12:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduced-diesel-price-not-sufficient-for-bus-fare-revision-Gemunu/108-281716) · `en`
-
-Colombo, May 1 (Daily Mirror) - Following the price reduction of Lanka auto diesel from last night, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne said today that this fuel price revision is insufficient for a bus fare revision at this time.
-
-Addressing the media he said that according to the National Bus Fare Policy, the recent amount of the fuel price revision cannot be calculated.
-
-Accordingly, the Ceylon Petroleum Corporation (CPC) reduced the retail price of a litre of Lanka auto diesel by Rs. 30 with effect from last night.
-
-"During the past months, we provided the service while incurring a loss of Rs. 27 per litre of diesel. Even after the previous fuel price revision the association had taken a decision not to go for a fuel price revision as it was not even 4% of the minimum fare hike needed for a fare revision.
-
-"According to the policy calculation, only Rs. 3 will be reduced from the bus fare, but it is not more than the minimum calculation of 4%.
-
-...
-
-[Data](articles/20aaf3ed.json)
-
-[Extended Data](ext_articles/20aaf3ed.ext.json)
-
----
-
-### Live broadcast from Derana
-
-*2024-05-01 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196161) · `si`
-
-Derana's live broadcast covers May Day rallies in Colombo and the island, airing at 1:30 pm today on Derana 24 and available on Derana Tube and Facebook.
-
-🟩
-
-We are ready to bring you a special live broadcast with all May Day rallies and flocks in Colombo and island for May Day.
-
-Accordingly, today 1:30 pm today, with the live broadcast on Derana 24 pm today.
-
-We can also view this live broadcast today, Derana Tube channel and the face booklet, today.
-
-◼️
-
-[Data](articles/b08631dd.json)
-
-[Extended Data](ext_articles/b08631dd.ext.json)
-
----
-
-### Afghanistan announce T20 World Cup 2024 squad
-
-*2024-05-01 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-announce-T20-World-Cup-2024-squad/108-281715) · `en`
-
-May 1 (ICC) - Afghanistan have named their 15-player squad for the ICC Men’s T20 World Cup 2024
-
-Afghanistan named their 15-member squad for the upcoming ICC Men’s T20 World Cup 2024 in the West Indies and the USA in June this year, with Rashid Khan set to lead the side.
-
-Afghanistan have made a few additions to their squad compared to the 2022 edition, with Karim Janat, Mohammad Ishaq, and Noor Ahmad all named in the side.
-
-However, Hashmatullah Shahidi, who led Afghanistan in last year's ICC Men's Cricket World Cup 2023, wasn't part of the side, his last T20I appearance coming in 2022.
-
-Youngster Nangyal Kharoti, who made his international debut for Afghanistan in March this year against Ireland, also finds a place in the squad. The 20-year-old impressed in that series with five wickets in three matches with an economy of just 5.90.
-
-...
-
-[Data](articles/c8ba970f.json)
-
-[Extended Data](ext_articles/c8ba970f.ext.json)
-
----
-
-### Do not politicise May Day rallies
-
-*2024-05-01 12:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Do-not-politicise-May-Day-rallies/110-281714) · `en`
-
-The New Labour People's Organization today staged a protest in front of the Fort Railway Station, demanding the government not politicise the May Day rallies. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/161d2cc3.json)
-
-[Extended Data](ext_articles/161d2cc3.ext.json)
-
----
-
-### Indo-Lanka passenger ferry service to resume on May 13
-
-*2024-05-01 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indo-Lanka-passenger-ferry-service-to-resume-on-May-13/108-281710) · `en`
-
-Colombo. May 1 (Daily Mirror) - The passenger ferry service between India’s Nagapattinam and Kankesanthurai (KKS) in Jaffna is scheduled to resume on May 13, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
-
-Addressing the media, he said several attempts to resume the ferry service between the countries were cancelled due to unfavourable conditions of the sea.
-
-Rough seas had caused the cancellation of the service during earlier instances.
-
-However, the passenger ferry finally commenced as the ‘Cheriyapani’ passenger ferry arrived at the Kankesanthurai port on October 14, 2023, at 11:30 a.m., after a 40-year hiatus.
-
-Previously, Minister of Ports, Shipping and Aviation, Nimal Siripala de Silva welcomed about 50 passengers and the vessel’s crew. The inaugural voyage of the ‘Cheriyapani’ passenger ferry was commemorated with an exchange of plaques.
-
-...
-
-[Data](articles/f1303167.json)
-
-[Extended Data](ext_articles/f1303167.ext.json)
-
----
-
-### Vehicle importers demand proper regulatory framework for vehicle imports
-
-*2024-05-01 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98952/vehicle-importers-demand-proper-regulatory-framework-for-vehicle-imports) · `en`
-
-The Vehicle Importers’ Association insists on the necessity of a proper regulatory framework for vehicle imports in Sri Lanka.
-
-President of the association Indika Sampath Merinchige emphasized the need for the government to establish a committee inclusive of their association’s representatives to make decisions on this matter.
-
-“When importing vehicles to Sri Lanka in the past few years, specifically in 2017, 2018, and 2019, 85% of the vehicles imported were used vehicles with only 15% new vehicles were imported. Out of that, 95% of the vehicles were sourced from Japan”, he added.
-
-“In the future, it is imperative to prioritize the preferences of the people when importing vehicles. If the agents prioritize matters that are not aligned with the requirements of the people, there will likely be a decline in demand”, Merinchige said.
-
-◼️
-
-[Data](articles/59cf92f5.json)
-
-[Extended Data](ext_articles/59cf92f5.ext.json)
-
----
-
-### Two Indian spies were expelled in 2020-shocking by International Media
-
-*2024-05-01 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182405) · `ta`
-
-In 2020, two Indian spies were expelled from Australia, sparking international media attention. This incident was reported by The Washington Post as a clash between India's RAW and Australia's domestic security services. The Australian media, including The Sydney Morning Herald and ABC, covered the expulsion, with ABC noting the spies' attempts to steal secret details.
-
-🟩
-
-The Washington Post reports that in 2020 Australia's Row Intelligence Division out of its country.
-
-Washington Post reports that this is one of the clashes between India's Row and the West's domestic security services.
-
-Meanwhile, the Australian media has reported that two members of the India intelligence agency have been evicted in 2020, which were trying to steal the secret.
-
-The Australian and the Sydney Morning Herald have reported that the two were expelled, while the ABC, which has reported on the actions of the intelligence unit of India, did not report how many people were evicted.
-
-Two people from India's intelligence unit have been evicted, which has been evicted by the ABC, who tried to steal secret details of the most secret security programs and airport safety Australia's trade relations.
-
-The ABC said that the nests of the spies that were expelled by the National Intelligence Agency of Australia in 2020 were closely observed by the Indians in Australia.
-
-...
-
-[Data](articles/8dfa72ea.json)
-
-[Extended Data](ext_articles/8dfa72ea.ext.json)
-
----
-
-### Presidential candidate Vijayadasa:
-
-*2024-05-01 12:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்-விஜயதாச-அறிவித்தார்-மைத்திரி/175-336602) · `ta`
-
-Maithripala Sirisena announced Vijayadasa Rajapaksa as the Sri Lanka Freedom Party's presidential candidate, highlighting his support and past presidency.
-
-🟩
-
-Former President Maithripala Sirisena said on Wednesday (01) that Vijayadasa Rajapaksa would be presented as the Sri Lanka Freedom Party's presidential candidate.
-
-Union President. Former President Maithripala Sirisena said this at the commemoration event of Ilangaratne.
-
-Maithripala said that a minister of the government had joined the Sri Lanka Freedom Party (SLFP) and that he had no desire for his post.
-
-He said that Vijayadasa Rajapaksa had a majority of support and that he had once held office as president and would not contest again during his swearing -in.
-
-◼️
-
-[Data](articles/378a7760.json)
-
-[Extended Data](ext_articles/378a7760.ext.json)
-
----
-
-### Govishield side effects can be paid
-
-*2024-05-01 12:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோவிஷீல்டு-பக்கவிளைவுகளை-தரலாம்-நீதிமன்றில்-ஒப்புதல்/50-336601) · `ta`
-
-Govishield vaccine, compulsory for 90% of people, has side effects, including rare blood clotting and DTS, despite pharmaceutical companies' denial. London court suits alleged health issues, with Ashtrajnega and the University of Oxford acknowledging the impact.
-
-🟩
-
-The injection company has agreed to the London court that Kovit vaccine, Govishield, can sometimes give side effects to some people.
-
-Millions of people have died in the world that rocked the world. The world's economy was disrupted. Kovaxin, Kovishield was found when he was in a longing for a prevention for prevention. This vaccine has been made compulsory. 90 percent of people put this injection. When the question arose as to whether the needle threatens life, pharmaceutical companies refused.
-
-In this case, many people were sued in the London court for alleged health. At the hearing of the case, Ashtrajnega has agreed to the court's impact on the court, along with the University of Oxford produced by Govishield.
-
-'It is a rare thing that some people are like this. Blood can cause clotting, DTS (thrombocytopenia syndrome) may be affected. It does not come to everyone, so rarely can happen '. Has been stated.
-
-◼️
-
-[Data](articles/aca0dc61.json)
-
-[Extended Data](ext_articles/aca0dc61.ext.json)
-
----
-
-### Govishield side effect
-
-*2024-05-01 12:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கோவிஷீல்டு-பக்கவிளைவு-தரலாம்-நீதிமன்றில்-ஒப்புதல்/50-336601) · `ta`
-
-Govishield vaccine, compulsory for 90% of people, has side effects like blood clotting and DTS, affecting a rare minority. Pharmaceutical companies denied threats to life. London court suits alleged health issues, with Ashtrajnega and the University of Oxford acknowledging the side effects.
-
-🟩
-
-The injection company has agreed to the London court that Kovit vaccine, Govishield, can sometimes give side effects to some people.
-
-Millions of people have died in the world that rocked the world. The world's economy was disrupted. Kovaxin, Kovishield was found when he was in a longing for a prevention for prevention. This vaccine has been made compulsory. 90 percent of people put this injection. When the question arose as to whether the needle threatens life, pharmaceutical companies refused.
-
-In this case, many people were sued in the London court for alleged health. At the hearing of the case, Ashtrajnega has agreed to the court's impact on the court, along with the University of Oxford produced by Govishield.
-
-'It is a rare thing that some people are like this. Blood can cause clotting, DTS (thrombocytopenia syndrome) may be affected. It does not come to everyone, so rarely can happen '. Has been stated.
-
-◼️
-
-[Data](articles/f9504bae.json)
-
-[Extended Data](ext_articles/f9504bae.ext.json)
-
----
-
-### The Great Celebration of Qatar
-
-*2024-05-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182396) · `ta`
-
-The Qatar Tamil Sangam hosted a grand event at the Qatar National Convention Center, featuring Indian artists like Sri Nisha and Priya Jerson, attracting over 2500 attendees, including top Qatari leaders and Tamil community members.
-
-🟩
-
-The Qatar Tamil Sangam proudly presented at the Qatar National Convention Center at 6 pm on the 25th of this month.
-
-The chief guest at the event was Vipul, the Indian Ambassador to Qatar, the top guests of Qatar, the leaders of the Qatar and members of the Tamil organizations in Qatar.
-
-Indian famous artists Vijay TV Super Singers Sri Nisha, Priya Jerson, Divakar, Sridhar Sena, Mani and Band TeamProvided.
-
-More than 2500 people attended the event as a large number of Indian and Sri Lankan Tamil people.
-
-◼️
-
-[Data](articles/5dfcf97d.json)
-
-[Extended Data](ext_articles/5dfcf97d.ext.json)
-
----
-
-### May Day rallies across Sri Lanka: Special security measures underway
-
-*2024-05-01 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98951/may-day-rallies-across-sri-lanka-special-security-measures-underway) · `en`
-
-Today is International Workers’ Day, also known as Labour Day, which is observed annually on May 1 in Sri Lanka and the world at large.
-
-The day, which has its origins in the labour union movement, specifically the eight-hour day movement, is a celebration of labourers and the working classes that is promoted by the international labour movement.
-
-May 1 is observed as an ancient northern hemisphere spring festival, however, it became associated with the labour movement in the late 19th century after trade unions and socialist groups designated it as a day in support of workers.
-
-The date was chosen to be International Workers’ Day to commemorate the 1886 Haymarket affair in Chicago in the US, in which a peaceful rally in support of workers led to a violent clash with the police, leading to the deaths of at least 38 civilians and 7 police officers.
-
-While 60 police officers and 115 civilians were injured. Those who died due to the clash were hailed as “Haymarket Martyrs”.
-
-...
-
-[Data](articles/eb30b0e9.json)
-
-[Extended Data](ext_articles/eb30b0e9.ext.json)
-
----
-
-### Implement Premadasa’s policies to overcome current economic crisis
-
-*2024-05-01 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Implement-Premadasas-policies-to-overcome-current-economic-crisis/172-281675) · `en`
-
-The dynamic policies of President Premadasa came to an abrupt halt 31 years ago
-
-As one who had the opportunity to serve as the Chairman and Director General of the Greater Colombo Economic Commission and later converted to the Board of Investment from 1991 to 1993 and prior to that as the Chairman of the People’s Bank during the period of President Premadasa, it will be appropriate for me to write about the importance to implement the economic policies of the Premadasa period to overcome the current economic crisis and achieve sustainable economic recovery on the 31st Death Anniversary of late President Premadasa. Although giving free handouts was the order of the day, Premadasa policies were able to change this concept by pushing economic development to the provinces. He did this by inviting the private sector businessmen to set up garment factories in the rural areas which provided employment and brought in the much needed foreign exchange.
-
-...
-
-[Data](articles/98745c5d.json)
-
-[Extended Data](ext_articles/98745c5d.ext.json)
 
 ---

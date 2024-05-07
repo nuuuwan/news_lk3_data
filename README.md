@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 05:03:27**
+As of **2024-05-08 05:18:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,616 (100.0%) of 22,617 articles have been extended.
+22,617 (100.0%) of 22,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -388,21 +388,29 @@ The petition further argues that he does not meet all statutory requirements and
 
 ---
 
-### தயாசிறி கடும் குற்றச்சாட்டு
+### Dayasiri is a serious accusation
 
 *2024-05-08 00:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-கடும்-குற்றச்சாட்டு/175-336927) · `ta`
 
-தேர்தல் நடத்தப்படாமல் இருக்கும் நிலையில், கலைந்துள்ள உள்ளூராட்சி சபைகளை மீள செயற்படும் வகையில் அரசாங்கம் திட்டங்களை முன்னெடுப்பதாக சுயாதீன எதிரணி பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்துள்ளார்.
+Dayasiri accuses govt of postponing local elections indefinitely, citing lack of funds, and plans to restore dissolved bodies for presidential election. Consultation committees for local areas are set up, aiming to reopen elections.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07)  விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+🟩
 
-அரசாங்கத்தினால் நிதி வழங்க முடியாது என்பதனால் உள்ளூராட்சித் தேர்தல் காலவரையறையின்றி ஒத்தி வைக்கப்பட்டுள்ளது.
+Independent Opposition Parliamentarian Dayasiri Jayasekara has said that the government is carrying out plans to restore the dissolved local bodies as the election is not held.
 
-இவ்வாறான நிலைமையில் பண்முகப்படுத்தப்பட்ட வரவு- செலவு வேலைத்திட்டத்திற்கமைய அபிவிருத்தி வேலைத்திட்டங்களை ஜுலை 31ஆம் திகதிக்கு முன்னர் நிறைவு செய்யுமாறு சுற்றுநிருபமொன்று வெளியிடப்பட்டுள்ளது. ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டே இது செய்யப்படுகின்றது. எதிர்க்கட்சியில் இருப்பவர்களுக்கு பண்முகப்படுத்தப்பட்ட நிதி வழங்கப்படாது.
+He made this statement while addressing a special statement in Parliament on Tuesday (07).
 
-...
+Local government elections have been postponed indefinitely that the government cannot provide funds.
+
+In this case, a circular has been issued to be completed before July 31, according to the budget program.. This is done to target the presidential election. The funds will not be provided to those in the opposition.
+
+Meanwhile, consultation committees have been set up for local border border areas. Accordingly, the old local government, municipal councils and municipal councils are planning to reopen the election through the local government leaders and governments of the government.
+
+◼️
 
 [Data](articles/b6642cc0.json)
+
+[Extended Data](ext_articles/b6642cc0.ext.json)
 
 ---
 

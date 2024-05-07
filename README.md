@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 16:04:50**
+As of **2024-05-07 16:18:34**
 
 ## Newspaper Stats
 
-*Scraped **22,503** Articles*
+*Scraped **22,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,307
 adalk | 1,893
 tamilmirrorlk | 2,622
 adaderanalk | 2,649
-virakesarilk | 3,360
+virakesarilk | 3,364
 dailymirrorlk | 3,526
 adaderanasinhalalk | 3,610
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,375 (99.4%) of 22,503 articles have been extended.
+22,391 (99.5%) of 22,507 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ At the ceremony inside the gilded Grand Kremlin Palace, Putin placed his hand on
 
 [Data](articles/ab14fc36.json)
 
+[Extended Data](ext_articles/ab14fc36.ext.json)
+
 ---
 
 ### Appeals Court rejects Wijeyadasa’s petition against interim order
@@ -58,19 +60,63 @@ The Court of Appeal today dismissed the petition filed by Minister Wijeyadasa Ra
 
 [Data](articles/ec655f75.json)
 
+[Extended Data](ext_articles/ec655f75.ext.json)
+
 ---
 
-### கொழும்பு நகர மண்டபம்  பிரதேசத்தில் கடும் வாகன நெரிசல்
+### விசா சேவை கட்டண அதிகரிப்பு சட்டவிரோதமானது - லக்ஷ்மன் கிரியெல்ல
+
+*2024-05-07 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/182895) · `ta`
+
+விசா கட்டணம் அதிகரிக்க பாராளுமன்றத்தில் அனுமதிக்கப்பட்டபோதும் வீ,எப்.எஸ். சேவை கட்டணத்துக்கு பாராளுமன்றத்தின் அனுமதி இல்லை. சட்டவிரோதமான முறையிலேயே  வீ,எப்.எஸ். கட்டண அதிகரிப்பு பிரேரணை நுளைக்கப்பட்டுள்ளது. பாராளுமன்றத்தை பிழையாக வழிநடத்தப்பட்டிருப்பது தொடர்பில் நடவடிக்கை எடுக்கப்பட வேண்டும் என எதிர்க்கட்சி பிரதம கொறடா லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+வெளிநாடுகளில் இருந்து வரும் ஒருவரிடமிருந்து அறவிடப்படும் விசா கட்டணத்தை அதிகரிக்க பாராளுமன்றத்தில் அனுமதிக்கப்பட்டது. ஆனால் வீ.எப்.எஸ். என மேலதிகமாக 20, 21 டொலர் அறவிடப்படுகிறது. இதற்கு பாராளுமன்றத்தில் அனுமதி பெறப்படவில்லை. அவ்வாறு அதற்கு பாராளுமன்றத்தின் அனுமதி பெற வேண்டும் என்றால் அதனை தனியாக பாராளுமன்றத்துக்கு சமர்ப்பித்திருக்க வேண்டும்.
+
+ஆனால் விசா கட்டண அதிகரிப்புக்காக பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட பிரேரணையுடன் சட்ட விரோதமான முறையில்  இணைத்து இதனை அனுமதித்துக்கொண்டுள்ளது. அதனால் பாராளுமன்றத்தை பிழையாக வழிநடத்தியமைக்காக நிலையியற் கட்டளையின் பிரகாரம் நடவடிக்கை எடுக்க வேண்டும்.
+
+...
+
+[Data](articles/a079a246.json)
+
+---
+
+### Heavy traffic congestion in the city hall of Colombo
 
 *2024-05-07 15:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-நகர-மண்டபம்-பிரதேசத்தில்-கடும்-வாகன-நெரிசல்/175-336899) · `ta`
 
-இலங்கையில் உள்ள அனைத்து பல்கலைக்கழகங்களையும் பிரதிநிதித்துவப்படுத்தும் கல்விசாரா ஊழியர்கள் கொழும்பு 7 இல் அமைந்துள்ள பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்கு முன்பாக  வேலைநிறுத்தப் போராட்டமொன்றில் ஈடுபட்டுள்ளனர் .
+Heavy traffic in Colombo city hall due to non-academic staff strike at the University Grants Commission, affecting all roads in the area.
 
-இதனால்  கொழும்பு நகர மண்டபம்  பிரதேசத்தில் அனைத்து வீதிகளிலும் கடும் வாகன நெரிசல் ஏற்பட்டுள்ளதாக  தெரியவந்துள்ளது
+🟩
+
+Non -academic staff representing all universities in Sri Lanka are engaged in a strike in front of the University Grants Commission located in Colombo 7.
+
+This has resulted in heavy traffic congestion on all roads in the Colombo city hall area.
 
 ◼️
 
 [Data](articles/cea46e50.json)
+
+[Extended Data](ext_articles/cea46e50.ext.json)
+
+---
+
+### திருகோணமலையில் போதை மாத்திரைகளுடன் பிரதேச ஊடகவியலாளர் கைது
+
+*2024-05-07 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/182894) · `ta`
+
+திருகோணமலை மொறவெவ பொலிஸ் பிரிவுக்குட்பட்ட ஔவை நகர் பகுதியில் வைத்து பிரதேச ஊடகவியலாளர் ஒருவரை போதை மாத்திரைகளுடன் கைது செய்துள்ளதாக மொறவெவ பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சம்பவம் ஞாயிற்றுக்கிழமை (05)  மாலை இடம் பெற்றுள்ளது. இவ்வாறு கைது செய்யப்பட்டவர் பிரதான வீதி,ரொட்டவெவ,மொறவெவ எனும் முகவரியை சேர்ந்த வயது (42) பிரதேச செய்தியாளரையே    இவ்வாறு கைது செய்துள்ளனர்.
+
+பொலிஸாருக்கு கிடைக்கப் பெற்ற இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட திடீர் பரிசோதனையின் போது இவரிடமிருந்து 30 போதை மாத்திரைகள் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+திருகோணமலையில் உள்ள மருந்தகம் ஒன்றில் கொள்வனவு செய்து விற்பனையில் ஈடுபட்டு வந்ததாகவும் ஆரம்ப கட்ட விசாரனை மூலமாக தெரியவருகிறது.அத்துடன் ஒரு தொகை போக்குவரத்து ஆவணங்களும் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த ஊடகவியலாளர் அரச, தனியார் ஊடகங்களில் பிரதேச செய்தியாளராகவும் கடமையாற்றி வருகிறார். கைது செய்யப்பட்ட நபரை மொறவெவ நீதிமன்ற நீதவான் முன்னிலையில் நேற்று (06) ஆஜர்படுத்தப்பட்ட போது  எதிர்வரும் 20 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/39df1654.json)
 
 ---
 
@@ -90,21 +136,29 @@ At 71, Putin dominates the domestic political landscape. On the international st
 
 [Data](articles/b4106444.json)
 
+[Extended Data](ext_articles/b4106444.ext.json)
+
 ---
 
-### චීන රෝහලක නින්ජා ප්‍රහාරයක්
+### Ninjana attack in China hospital
 
 *2024-05-07 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196372) · `si`
 
-නිරිතදිග චීනයේ රෝහලකදී සිදුකළ පිහි ඇනුමකින් දෙදෙනෙක් මියගොස් තවත් 21 දෙනෙක් තුවාල ලබා ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+In Southwest China, a hospital attack resulted in 2 deaths and 21 injuries. The assailant, dressed in black, used two knives.
 
-Yunnan පළාතේ පිහිටි රෝහලකදී එම පිහි ඇනුම සිදුකර ඇති බව වාර්තා වෙයි.
+🟩
 
-කළු ඇඳුමක් ඇඳගත් පුද්ගලයෙක් පිහි දෙකක් භාවිත කර එම ප්‍රහාරය සිදුකර තිබුණි.
+Two others were killed and 21 others were injured in a cow in a hospital in Southwest China.
+
+It is reported that the knife has been conducted at a hospital in the Anuradhapura area.
+
+The attack was carried out using two knives using a black dress.
 
 ◼️
 
 [Data](articles/2a4a25ec.json)
+
+[Extended Data](ext_articles/2a4a25ec.ext.json)
 
 ---
 
@@ -123,6 +177,8 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and the USA f
 ◼️
 
 [Data](articles/69535770.json)
+
+[Extended Data](ext_articles/69535770.ext.json)
 
 ---
 
@@ -143,6 +199,18 @@ The Governor of the Central Bank said that by the end of March, the country's of
 [Data](articles/bb271c3f.json)
 
 [Extended Data](ext_articles/bb271c3f.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-07 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/182891) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மே 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்கடொலரின் கொள்வனவு விலை ரூபா 293.8542ஆகவும் விற்பனை விலை ரூபா 303.0127 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a3a2ed0d.json)
 
 ---
 
@@ -231,6 +299,28 @@ The country's health care is the best health service in the region, and that wom
 [Data](articles/96cec0cc.json)
 
 [Extended Data](ext_articles/96cec0cc.ext.json)
+
+---
+
+### யாழ். இணுவில் பகுதியில் குப்பைக் கிடங்கில் தீ  ; குப்பைகளை அகற்றுமாறு போராட்டம்
+
+*2024-05-07 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182890) · `ta`
+
+யாழ்ப்பாணம் - நல்லூர் பிரதேச சபைக்கு சொந்தமான இணுவில் குப்பைக் கிடங்கில் பரவிய தீ கட்டுப்பாட்டுக்குள் கொண்டு வரப்பட்டது.
+
+யாழ்.மாநகர சபை மற்றும் ஏனைய பகுதி பிரதேச சபையினரின் தீயணைப்பு படையினரின் நீண்ட நேர பிரயத்தனத்தின் பின்னர் தீ கட்டுப்பாட்டுக்குள் கொண்டு வரப்பட்டது.
+
+குறித்த இடத்தில் குப்பைகளை கொட்டுவதற்கு அப்பகுதி மக்கள் எதிர்ப்பு தெரிவித்து வருவதுடன், இதற்கு முன்பும் எதிர்ப்பு தெரிவித்த நிலையில் குப்பை மேட்டுக்கு விஷமிகள் யாராவது தீ வைத்திருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+
+தீ பரவியமைக்கான காரணம் உறுதியாக தெரியாத நிலையில் சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+இந்த குப்பைக் கிடங்கில் 2 ஆண்டுகளுக்கு முன்னரும் பாரிய தீ பரவியதாக பொலிஸார் தெரிவித்தனர்.
+
+இதேவேளை குறித்த பகுதியில் குப்பை கிடங்கை அகற்றக்கோரி அப்பகுதி இளைஞர்கள் இன்று செவ்வாய்க்கிழமை (07) காலை போராட்டமொன்றை முன்னெடுத்தனர்.
+
+◼️
+
+[Data](articles/fd73c6ec.json)
 
 ---
 
@@ -2227,107 +2317,5 @@ When the new project was put forward, there was nothing to be reported on VFS fe
 [Data](articles/5fb79c99.json)
 
 [Extended Data](ext_articles/5fb79c99.ext.json)
-
----
-
-### Change on the weather from tomorrow
-
-*2024-05-07 07:23:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-வானிலையில்-மாற்றம்/175-336868) · `ta`
-
-Expected rainfall increase in most parts of the country, high temperatures in Northern, Eastern, and North Central Provinces, and increased temperatures in Sabaragamuwa, Western, and Southern Provinces. Rainfall or thunderstorms expected after 2 PM in Central, Sabaragamuwa, Upper, North Western, Eastern, and Uva provinces, and parts of Galle and Matara districts. Heavy rains up to 50mm in some parts of Sabaragamuwa, Upper, and Uva provinces, and Galle and Matara districts. Public advised to be vigilant during thunderstorms.
-
-🟩
-
-The Department of Meteorology has said that rainfall is expected to increase in most parts of the country for the first few days.
-
-Temperatures are at high temperatures today in the Northern, Eastern and North Central Provinces as well as Kurunegala and Moneragala districts.
-
-Meanwhile, there is an increased temperature in Sabaragamuwa, Western and Southern Provinces as well as Puttalam and Matale districts.
-
-Rainfall or thunderstorms are expected after two o'clock in the afternoon, in many parts of the Central, Sabaragamuwa, Upper, North Western, Eastern and Uva provinces as well as many parts of the Galle and Matara districts.
-
-In some parts of other areas, there is a chance of rain or thunderstorms in the afternoon or night.
-
-Rainfall is expected in the morning in the coastal regions from Hambantota to Galle to Colombo.
-
-Heavy rains are expected to occur up to 50 millimeters in some parts of the Sabaragamuwa, Upper and Uva provinces, as well as some of the Galle and Matara districts.
-
-...
-
-[Data](articles/7704042a.json)
-
-[Extended Data](ext_articles/7704042a.ext.json)
-
----
-
-### Racism, body-shaming fly high with Air Belgium crew against SriLankan staff
-
-*2024-05-07 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Racism-body-shaming-fly-high-with-Air-Belgium-crew-against-SriLankan-staff/155-282079) · `en`
-
-Air Belgium (AB) planes are leased out by Sri Lankan (UL) Airlines and they are to operate with a mix of AB and UL crew to service routes covered by UL Airlines
-
-UL Pilots and crew were allegedly given only economy class seats while AB crew flew business class
-
-AB Captain Phillippe Enneken allegedly called a UL Captain an ‘Asshole’
-
-An AB Pilot allegedly body shamed an UL Pilot calling him ‘big fat captain’
-
-UL staff allege that AB crew took away drinks and bites that were to be given to Passengers
-
-UL pilots are compelled to seek other travel arrangements as they are allegedly not allowed on AB flights(though it is leased out by UL) incurring more costs to the airline
-
-UL has initiated an investigation and statements obtained from UL crew members and pilots
-
-...
-
-[Data](articles/56aeb6d9.json)
-
-[Extended Data](ext_articles/56aeb6d9.ext.json)
-
----
-
-### First-ever Inter-Indian Association Cricket Tournament
-
-*2024-05-07 07:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/First-ever-Inter-Indian-Association-Cricket-Tournament/110-282019) · `en`
-
-The Indian Cultural Association (ICA) yesterday hosted the first-ever Inter-Indian Association Cricket Tournament. The event featured matches between various Indian associations in Sri Lanka. The highlight of the day was the exhibition match between the Legends of 96, the Sri Lanka cricket team that won the ICC world cup in 1996, and the Indian Diaspora. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/bc0d4a1e.json)
-
-[Extended Data](ext_articles/bc0d4a1e.ext.json)
-
----
-
-### Calling all MPs and organizers of the pove
-
-*2024-05-07 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196350) · `si`
-
-Sri Lanka General Front and Civil Front members summoned to Colombo for political discussions. Basil Rajapaksa, founder of Civil Front, involved. Recent talks between President Wickremesinghe and Rajapaksa discussed. Chandrika Bandaranaike Kumaratunga visits SLFP after 5 years, with Amaraweera, Ragawan, and Dissanayake present.
-
-🟩
-
-Members of the Sri Lanka General Front and all organizers have been summoned to Colombo.
-
-Former minister Basil Rajapaksa, the founder of the Sri Lanka Civil Aryn Front has been identified.
-
-Accordingly, all the Members of Parliament and the organizers representing the Sri Lanka Civil Front have been summoned to the party headquarters at Nelum Mawatha, 10.45 am.
-
-It is reported that this is aimed at discussing the future political situation.
-
-Meanwhile, discussed the recent discussions between President Ranil Wickremesinghe and former Minister Basil Rajapaksa at the recent discussion.
-
-The discussion was held on Saturday afternoon regarding the political situation between the President and Basil Rajapaksa.
-
-Meanwhile, former President Chandrika Bandaranaike Kumaratunga has arrived in the SLFP headquarters after five years.
-
-Minister Mahinda Amaraweera and the Minister of State Suresh Ragawan and MP Duminda Dissanayake were also present at the discussion held at the Sri Lanka Freedom Party (06).
-
-◼️
-
-[Data](articles/3f0fe884.json)
-
-[Extended Data](ext_articles/3f0fe884.ext.json)
 
 ---

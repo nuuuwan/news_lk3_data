@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 19:50:35**
+As of **2024-05-07 20:03:28**
 
 ## Newspaper Stats
 
-*Scraped **22,543** Articles*
+*Scraped **22,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
-adalk | 1,899
+adalk | 1,900
 tamilmirrorlk | 2,627
 adaderanalk | 2,652
 virakesarilk | 3,371
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,501 (99.8%) of 22,543 articles have been extended.
+22,501 (99.8%) of 22,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -187,6 +187,24 @@ The Recovery of Loans by Banks (Special Provisions) (Amendment) Bill, which was 
 [Data](articles/e084a7c5.json)
 
 [Extended Data](ext_articles/e084a7c5.ext.json)
+
+---
+
+### ෆවුසිගේ පුතා අත්අඩංගුවට
+
+*2024-05-07 18:20:55* · [`adalk`](https://www.ada.lk/breaking_news/ෆවුසිගේ-පුතා-අත්අඩංගුවට/11-409479) · `si`
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී ඒ එච්. ෆවුසි මහතාගේ පුත්‍රයාව අත්අඩංගුවට ගත් බව කොල්ලුපිටිය පොලිසිය කියයි.
+
+මීට දින කීපයකට ඉහතදී  කොල්ලුපිටිය පාසල් මාවතේදී  මාර්ගයේ ගමන් කරමින් සිටි පුද්ගලයකු අනතුරට ලක් වීමෙන් අනතුරුව එම පුද්ගලයාට පහර දීම සම්බන්ධයෙන් ඔහුට චෝදනා එල්ල වී තිබිණි.
+
+ඒ අනුව සැකකාර ෆවුසි මන්ත්‍රීවරයාගේ පුත්‍රයා පොලිසිය වෙත භාර වීමෙන් අනතුරුව පොලිස් ඇප මත මුදා හැරිය බව  උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+කොල්ලූපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත පරීක්ෂණ පැවැත්වේ.
+
+◼️
+
+[Data](articles/fcceb38c.json)
 
 ---
 
@@ -2255,35 +2273,5 @@ Police Media Spokesperson DIG Talduuwa said that the body was found in a jungle.
 [Data](articles/29354e91.json)
 
 [Extended Data](ext_articles/29354e91.ext.json)
-
----
-
-### 20 years Agreement to purchase electricity from Rajapakse
-
-*2024-05-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196363) · `si`
-
-The Cabinet approved a 20-year agreement with Rajapakse Green Energy to purchase electricity for airports in Mannar and Pooneryn, with a proposed price of $8.6/hour. The project, approved on March 7, 2022, aims to enhance wind power in these areas.
-
-🟩
-
-The tender to purchase the electricity to the airports generated in the Mannar and Poonerytas, which will be installed in Mannar and Poonery plants, have been approved by the Cabinet.
-
-The tender was presented by Rajapakse Green Energy and the electricity produced under the project for 20 years.
-
-Minister of Power and Energy Kanchana Wijesekara was reportedly handed over to the proposal.
-
-It has also proposed to accept the value of US $ 8.6 cents per hour (subt) of US $ 4 cents per hour) in the project.
-
-On March 7, 2022, the Cabinet approved to enhance the wind power plants in Mannar and Pooneryn areas.
-
-The Cabinet appointed a "discussion convention committee" to evaluate the project report presented by the company.
-
-The prices of electricity produced by the proposed project have been decided on the recommendations of the committee.
-
-◼️
-
-[Data](articles/b8c56294.json)
-
-[Extended Data](ext_articles/b8c56294.ext.json)
 
 ---

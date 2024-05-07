@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 00:04:44**
+As of **2024-05-08 00:18:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,583 (100.0%) of 22,587 articles have been extended.
+22,587 (100.0%) of 22,587 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The mentioned drugs identified as Diazepam, Tramadol, Pregabalin and Gabapentin 
 ...
 
 [Data](articles/c21a9d1a.json)
+
+[Extended Data](ext_articles/c21a9d1a.ext.json)
 
 ---
 
@@ -132,31 +134,43 @@ This judgment pertains to an appeal petition filed by social activist Oshala Her
 
 ---
 
-### யாழில் மரம் வெட்டிக் கொண்டு இருந்தவர் தவறி விழுந்து உயிரிழப்பு!
+### The man who was cut off in Jaffna falls and dies!
 
 *2024-05-07 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/182927) · `ta`
 
-யாழ்ப்பாணம் புத்தூரில் உள்ள ஆலய சூழலில் மரம் வெட்டிக் கொண்டு இருந்தவர் தவறி விழுந்து உயிரிழந்துள்ளார்.
+Muthu Sivalingam, a 61-year-old retired university officer from Jaffna, died after falling while cutting down a temple in Budhur.
 
-திருநெல்வேலி கலாசாலை வீதியில் வசிக்கும் 61 வயதான ஓய்வுபெற்ற பல்கலைக்கழக உத்தியோகத்தரான முத்து சிவலிங்கம் என்பவரே உயிரிழந்துள்ளார்.
+🟩
+
+The man who was cutting down the temple in the temple environment in Budhur, Jaffna has fallen and died.
+
+The deceased is Muthu Sivalingam, a 61 -year -old retired university officer who lives on Tirunelveli Kalasalai road.
 
 ◼️
 
 [Data](articles/af20529c.json)
 
+[Extended Data](ext_articles/af20529c.ext.json)
+
 ---
 
-### கிரிக்கெட் வீரர் டிஎம் டில்ஷானின் தந்தை காலமானார்
+### The father of cricketer TM Dilshan has passed away
 
 *2024-05-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182926) · `ta`
 
-முன்னாள் இலங்கை கிரிக்கெட் வீரர் திலகரத்ன டில்ஷானின் தந்தை துவான் மொஹமட் ஜுனைதீன் களுத்துறையில் உள்ள வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிக்கிச்சை பலனின்றி இன்று செவ்வாய்க்கிழமை (7) உயிரிழந்துள்ளார்.
+TM Dilshan's father, Duan Mohamed Junaidin, passed away after hospital treatment in Kalutara. Funeral at Kalutara Provincial Cemetery on 9th.
 
-இறுதிக் கிரியைகள் எதிர்வரும் 9ஆம் திகதி வியாழக்கிழமை களுத்துறை மாகாண பொது மயானத்தில் இடம்பெறவுள்ளது.
+🟩
+
+Former Sri Lankan cricketer Tilakaratne Dilshan's father Duan Mohamed Junaidin died on Tuesday (7) after being treated at a hospital in Kalutara.
+
+The funeral will be held at the Kalutara Provincial Cemetery on Thursday 9th.
 
 ◼️
 
 [Data](articles/99d14480.json)
+
+[Extended Data](ext_articles/99d14480.ext.json)
 
 ---
 

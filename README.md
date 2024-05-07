@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 17:18:18**
+As of **2024-05-07 17:54:09**
 
 ## Newspaper Stats
 
-*Scraped **22,514** Articles*
+*Scraped **22,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,117 @@ dailyftlk | 1,307
 adalk | 1,895
 tamilmirrorlk | 2,622
 adaderanalk | 2,650
-virakesarilk | 3,364
-dailymirrorlk | 3,527
-adaderanasinhalalk | 3,612
+virakesarilk | 3,367
+dailymirrorlk | 3,528
+adaderanasinhalalk | 3,613
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,424 (99.6%) of 22,514 articles have been extended.
+22,437 (99.6%) of 22,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### මධ්‍යම අධිවේගී මාර්ගය ගැන විශේෂ නිවේදනයක්
+### 17 and 20 year old girls sexually harassed
+
+*2024-05-07 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/17-and-20-year-old-girls-sexually-harassed/108-282101) · `en`
+
+Two 15-year-old schoolboys who had threatned to share on the internet the manipulated nude photos of two schoolgirls of 17 and 20 years of age were produced before Galle Additional Magistrate Lakmini Vidanagama and released on personal bail in Rs. 100,000 with two sureties each.
+
+The magistrate called for a probation report on the two boys.
+
+The suspects are Year 10 students of a school in Akmeemana and residents of Narawala in Akmeemana.
+
+Investigations revealed that the two boys who had  wooed the two grils without any positive response from them had taken their photos secretly and threatned to swap their faces on nude photos and share them on the internet.
+
+The girls who were frightened of this threat had complained to the Akeemana police through elders.
+
+Akmeemana police arrested and produced the boys before court on suspicion of criminal intimidation and sexual harassment.
+
+◼️
+
+[Data](articles/11780cec.json)
+
+---
+
+### වැලිකඩ සිට කාන්තාවක් කළ නීතිවිරෝධී වැඩේ එළියට
+
+*2024-05-07 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196375) · `si`
+
+මූල්‍ය වංචාවක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටින කාන්තාවක් වැලිකඩ බන්ධනාගාරයේ සිට ඇයට එරෙහිව විභාග වන නඩුවේ සාක්ෂිකරුවන් වෙත බලපෑම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මේ වනවිට පොලීසිය තොරතුරු අනාවරණය කරගෙන තිබේ.
+
+ඊට අදාළ නඩුව කැස්බෑව අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී ත්‍රස්ත මර්දන විමර්ශන කොට්ඨාශයේ නිලධාරීන් විසින් මේ බව අධිකරණය වෙත දැනුම්දී තිබේ.
+
+එහිදී අධිකරණය නියෝග කර ඇත්තේ සැකකාර කාන්තාව මැයි මස 20 වනදා දක්වා යළි රිමාන්ඩ් බන්ධනාගාරගතකර කරන ලෙසටය.
+
+අසභ්‍ය දර්ශන අන්තර්ජාලයට එක්කිරීමේ සිද්ධීන්ට අදාළව අත්අඩංගුවට ගැනීම වැළැක්වීමට බව පවසා ඊට අදාළ චෝදනා එල්ලවූ පුද්ගලයින්ගෙන් මුදල් ගැනීමේ චෝදනාව සම්බන්ධයෙන් සැකකාර කාන්තාව රිමාන්ඩ් බන්ධනාගාරගත කර තිබුණි.
+
+මෙහිදී සැකකාර කාන්තාව විසින් රුපියල් ලක්ෂ 22කට ආසන්න මුදලක් වංචාසහගත ලෙස ලබාගෙන ඇති බවට අනාවරණය වී තිබුණි.
+
+මෙලෙස අත්අඩංගුවට ගෙන තිබුණේ මොරටුව කොරලවැල්ල ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවකි.
+
+ඇය අප්‍රේල් මස 20 වනදා පිළියන්දල මඩපාත ප්‍රදේශයේ ඇයගේ තාවකාලික නිවහන තුළදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/5348db6c.json)
+
+---
+
+### பிரித்தானிய அரசாங்கத்தின் உயர்மட்டக் குழுவிற்கும் எதிர்க்கட்சித் தலைவர் சஜித்திற்கும் இடையில் சந்திப்பு
+
+*2024-05-07 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/182907) · `ta`
+
+பிரித்தானிய வெளிவிவகார, பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகத்தின் இந்து-பசிபிக் பிராந்திய பணிப்பாளர் பென் மேலருக்கும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையிலான விசேட சந்திப்பொன்று இன்று செவ்வாய்க்கிழமை (07) கொழும்பில் இடம்பெற்றது.
+
+இச்சந்திப்பில் இலங்கை தற்போது எதிர்நோக்கும் வங்குரோத்து நிலை குறித்து இரு தரப்பினருக்கும் இடையில் நீண்ட நேரம் கலந்துரையாடப்பட்டதுடன், இதில் இருந்து விடுபட தாம் மற்றும் தமது குழுவினர் மேற்கொள்ளும் திட்டங்கள் குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விளக்கினார்.
+
+...
+
+[Data](articles/11b8b30c.json)
+
+---
+
+### சம்பளத்தை காரணம் காட்டி தோட்டங்களை கையளித்து விட்டு கம்பனிகளை போக சொல்ல வேண்டாம் - மனோ கணேசன்
+
+*2024-05-07 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182906) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மே தின மேடையில் அறிவித்த சம்பள தொகையை அவரால் பெற்று கொடுக்க முடிய வில்லை என்றால், அதற்கான மாற்று நடவடிக்கையை அரச தலைவராக அவர் எடுக்க வேண்டும். வர்த்தமானி பிரகடனம் செய்த தொழில் அமைச்சர் மனுஷ நாணயக்கார நடவடிக்கை எடுக்க வேண்டும். அரசில் உள்ள இதொகா நண்பர்கள் உணர்ச்சி வசப்பட்டு மேடையில் பொங்குவது, பட்டாசு வெடித்து பொங்கல் சோறு பொங்குவது ஆகிய சிறு விளையாட்டுகளை நிறுத்தி விட்டு நிதானமாக நடந்து கொள்ள வேண்டும். இது தொடர்பில் எமது ஒத்துழைப்பையும் கேட்டால் நாம் சாதகமாக பரிசீலிப்போம்.
+
+ஆனால் மாற்று நடவடிக்கை என்று “தோட்டங்களை அரசாங்கத்திடம்  கையளித்து விட்டு  கம்பனிகளை போக வேண்டும்” என்ற கோஷத்தை முன்வைக்க வேண்டாம் என அரசில் உள்ள மலையக நண்பர்களுக்கு அன்புடன் சொல்கிறேன். கம்பனி போய், காணிகளை அரசாங்கம் பொறுப்பு ஏற்றால் அவை அவர்களது  ஆதரவாளர்களுக்கு பிரித்து கொடுக்க பட்டு விடும். இப்படிதான் இன்று அரசிடம் உள்ள ஜனவசம, எல்கடுவ ஆகிய அரசாங்க கம்பனி காணிகள்  கேட்பாரின்றி வழங்கப்பட்டு, அங்கே வாழ்ந்த நமது மக்கள் நடுத்தெருவில் இருக்கிறார்கள்.
+
+...
+
+[Data](articles/874151f4.json)
+
+---
+
+### Special announcement of the Central Expressway
 
 *2024-05-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196374) · `si`
 
-මධ්‍යම අධිවේගී මාර්ගයේ බෙම්මුල්ල ප්‍රදේශයේ කණු මතින් ඉදිකර ඇති කොටසක කොන්ක්‍රීට් කදම්භයක් කඩා වැටීම හේතුවෙන් ඒ සම්බන්ධයෙන් පුළුල් වශයෙන් සොයා බැලීමට තීරණය කළ බව නිවේදනයක් නිකුත් කරමින් මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+The Road Development Authority (DMC) announced a concrete beam on the Central Expressway collapsed on May 4, damaging two more beams. The incident occurred after a previously declined concrete beam was installed in November 2021. DMC has deployed teams to inspect the expressway, ensuring quality and condition are maintained. The contractor responsible will bear the financial harm.
 
-පසුගිය මැයි 4 වනදා එම කොටස කඩා වැටුණු අතර කොන්ක්‍රීට් කණු අතර කොන්ක්‍රීට් කදම්භ ස්ථානගත කිරීමේදී රබර් බෙයාරින් පෑඩ් මත ස්ථානගත කරන බවත් එම කොන්ක්‍රීට් කදම්භය ඉන් ඉවත්ව පෙරළී කඩා වැටී තිබුණි.
+🟩
 
-ඒ හේතුවෙන් තවත් බාල්ක දෙකකට ද හානී සිදුවී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පැවසීය. එම කොන්ක්‍රීට් කදම්භය 2021 වසරේ නොවැම්බර් මාසයේදී ස්ථානගත කර ඇති බව සඳහන් ය.
+The Road Development Authority (DMC) says that a concrete beilla has been developed to be expanded due to a concrete beilla declined due to a concrete beam of the Central Expressway.
 
-එබැවින් මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතිය 01 කොටසේ ඒ සම්බන්ධයෙන් පුළුල් ලෙස පරික්ෂා කර බැලීම සඳහා මාර්ග සංවර්ධන අධිකාරිය විසින් කණ්ඩායම් දෙකක් මේ වනවිට යොදවා ඇති බව බවද එම නිවේදනයේ සඳහන් වෙයි.
+On May 4, the same part collapsed on May 4 and the concrete bear place was placed on the rubber backing pads while the concrete beam was placed on the concrete beam.
 
-එම කණ්ඩායම් මගින් ඉදිකර ඇති සියලු කොන්ක්‍රීට් ආධාරකවල වර්ථමාන තත්ත්ව ගැන පරික්ෂා කිරීමට සහ අවශ්‍ය ප්‍රතිකර්ම යෙදීමට එම කණ්ඩායම් කඩිනමින් කටයුතු කරනු ඇති බව එහි දැක්වෙයි.
+The Road Development Authority (Road Development Authority) stated that two more beams have been damaged due to this incident. It is said that the concrete beam was placed in November 2021.
+
+The statement states that the Road Development Authority has already deployed two teams to widely inspect the Central Expressway Project.
+
+It states that these groups will be expedited to check the current quality of all concrete supports and the current quality of all concrete supports.
 
 ...
 
 [Data](articles/36545b2e.json)
+
+[Extended Data](ext_articles/36545b2e.ext.json)
 
 ---
 
@@ -67,6 +147,22 @@ Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been release
 [Data](articles/27566df3.json)
 
 [Extended Data](ext_articles/27566df3.ext.json)
+
+---
+
+### மட்டக்களப்பில் 3 இலட்சம் ரூபா கப்பம்கோரி கொலை அச்சுறுத்தல் விடுத்த இராணுவ மேஜருக்கு எதிராக பொலிஸில் முறைப்பாடு
+
+*2024-05-07 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182900) · `ta`
+
+கல்முனை இராணுவ முகாமைச் சேர்ந்த இராணுவ மேஜர் ஒருவர்  3 இலட்சம் ரூபாய் பணம் தருமாறு அச்சுறுத்தி மிரட்டிவருவதாக மட்டக்களப்பைச் சேர்ந்த நபரொருவர் நேற்று திங்கட்கிழமை (6) முறைப்பாடு செய்துள்ளதாக மட்டு. தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+மட்டக்களப்பைச் சேர்ந்த ரங்கன் என அழைக்கப்படும் சாமித்தம்பி வேலாயுதம் என்பவர் வெளிநாட்டுக்கு அனுப்பும் இடை தரகராக  கல்முனையைச் சோந்த ஒருவரிடம் 5 இலச்சத்து 70 ஆயிரம் ரூபாவையும் அதனுடன் 5 பேரிடம் பணத்தை வாங்கி  அதனை வெளிநாட்டு வேலை வாய்ப்பு முகவர் ஒருவருக்கு வழங்கியுள்ளார்.
+
+இந்நிலையில் குறித்த வெளிநாட்டு வேலைவாய்ப்பு முகவர் ஏமாற்றி வந்த நிலையில் அவருக்கு எதிராக  இடைதரகர் கல்முனையைச் சேர்ந்த நபரின் சாட்சியுடன் மாவட்ட விசேட குற்றப் புலனாய்வு பிரிவிடம் முறைப்பாடு செய்துள்ளார்.  இதனையடுத்து  வேலைவாய்ப்பு முகவரை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தி விளக்கமறியலில் வைக்கப்பட்டு வழக்கு தொடர்ந்து இடம்பெற்று வருகின்றது.
+
+...
+
+[Data](articles/19314d60.json)
 
 ---
 
@@ -94,17 +190,25 @@ Kollupitiya Police are conducting further investigations and arrested the son of
 
 ---
 
-### දොළොස්  හැවිරිදි පාසල් සිසුවියක් අපයෝජනය කල අයට ලැබුණු ඳඩුවම
+### Craudy to those who abuse twelve-year-old schoolgirl
 
 *2024-05-07 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/දොළොස්--හැවිරිදි-පාසල්-සිසුවියක්-අපයෝජනය-කල-අයට-ලැබුණු-ඳඩුවම/11-409477) · `si`
 
-දොළොස්  හැවිරිදි බාල වයස්කාර  පසල් සිසුවියක්  අපයෝජනය කළේ යයි වැරදිකරුවකුවූ විසිපස් හැවිරිදි විවාහකයකුට  වසර විස්සක  බරපතල වැඩ සහිත සිර දඩුවමක් වින්දිත  දැරියට රුපියල් ලක්ෂ දහයක වන්දි මුදලක් සහ රුපියල් විසිපන්දහසක දඩ මුදලක් ගෙවන ලෙස බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා අද(07) නියෝග කළේය.
+A 25-year-old couple was fined for abusing a 12-year-old girl. The man was charged with imprisonment, compensation, and penalties. The victim's father was abroad during the incident. After a 13-year trial, the accused was sentenced to jail and fined Rs. 25,000, with an additional Rs. 25,000 in compensation if not paid.
 
-මෙසේ සිර දඩුවම්,වන්දි මුදල් සහ දඩ මුදල් ගෙවීමට නියම කෙරුණේ ඌරගස්මංහන්දිය කුඩා ඌරගහ  පදිංචි පුද්ගලයකුටයි.  වින්දිත දැරිය පියාට භාරදී මව විදෙස්ගතව සිටි බවත් පියාගේ මිතුරකුවූ අසල්වැසියකුවූ  චූදිත මේ නිවසට නිතර ආගිය කෙනෙකු බවත් එසේ පැමිණි අවස්ථාවලදී දැරියගේ පියා නැති අවස්ථාවලදී 2011ජනවාරි මස 01 සිට 2011 අගෝස්තු 31දක්වා කාලය තුල චූදිත මේ දැරිය විටින් විට අපයෝජනය කොට ඇති බව ඌරගස්මන්හංදිය පොලීසිය ගොනු කළ පැමිණෙල්ලේ සදහන්ය.
+🟩
 
-...
+A 25-year-old married couple who was involved in a serious imprisonment of twelve-year-old student student, was ordered to pay a fine of Rs.
+
+A man residing in the Uragasmanhandiya Mini Piggaha, punished, compensation and penalties.The Uragasmatiya Police filed the alleged man that the victim had been abroad and the father of the victim had been abroad from 1st January 2011 to the end of the victim and the father of a father's neighbor in the event.
+
+The high-ranking a jurisdiction was charged in a jurisdictional girl after the 13 year long trial, the accused of malfunctional jail and twenty-five Rs.If it was not paid to pay compensation of Rs.
+
+◼️
 
 [Data](articles/289e3ee0.json)
+
+[Extended Data](ext_articles/289e3ee0.ext.json)
 
 ---
 
@@ -586,21 +690,27 @@ On March 06, it was reported that Sri Lankan security forces had been informed t
 
 ---
 
-### මේ වසරේදි ජනපතිවරණය  පමණයි
+### This year is just the presidential election
 
 *2024-05-07 14:09:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-ජනපතිවරණය--පමණයි/11-409472) · `si`
 
-ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය මිස මේ වසරේ වෙනත් මැතිවරණයක් නොමැති බව ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+Minister Prasanna Ranatunga denies a presidential election this year, claiming it's a local government election. Despite government circulars for decentralized funds, development projects are delayed, targeting the presidential election. The government refuses to allocate funds for MPs' development, causing confusion.
 
-නමුත් විපක්ෂය පළාත් පාලන මැතිවරණය පවත්වන ලෙසට රජයට බලකරමින් මේ මොහොතේදී රජයේ සංවර්ධන කටයුතු පිළිබඳවත් රටට වැරදි මතයක් ඉදිරිපත්කරන බවද අමාත්‍යවරයා කීවේය.
+🟩
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා මතුකළ ප්‍රශ්නයද ( 7) පාර්ලිමේන්තුවේදී පිලිතුරු දෙමිනි.
+The Chief Government organizer, Minister Prasanna Ranatunga says there is no election this year, but this year's election.
 
-කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා (ශ්‍රී.පො.පෙ) - පළාත් පාලන මැතිවරණය දින නියමයක් නැතුව කල් දමලා. ඒකට මුදල් දෙන්න බැහැ කියල ආණ්ඩුව කියනවා. හැබැයි විමධ්‍යගත අරමුදල් යටතේ 2023.12.29 දින ආණ්ඩුව චක්‍රලේඛයක් නිකුත් කරල තියෙනවා. එහි 8.3 වගන්තිය අනුව මේ සංවර්ධන ව්‍යාපෘති ජුලි 31 වැනිදා වෙනකොට අවසන් කරන්න කියලා දාලා තියෙනවා.
+However, the Minister said that the government demands the government to hold the government to the local government election and the country will present a misconception to the country.
+
+Chief Government Whip, Minister Prasanna Ranatunga was responding as a matter of parliamentary MP Dayasiri Jayasekara.
+
+Kurunegala District Parliamentarian Dayasiri Jayasekara (The Sri PC) - Local government elections postponed. The government says he cannot give money. However, the government has issued a circular on 29.21.2012 under decentralized funds. According to Section 8.3, these development projects have been placed on July 31st.
 
 ...
 
 [Data](articles/631c54ac.json)
+
+[Extended Data](ext_articles/631c54ac.ext.json)
 
 ---
 
@@ -2173,135 +2283,5 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.05 perc
 [Data](articles/236160e9.json)
 
 [Extended Data](ext_articles/236160e9.ext.json)
-
----
-
-### Katunayaya special security in Ramesh
-
-*2024-05-07 09:42:50* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-රමේෂ්-ගෙන-එද්දී-කටුනායකට-විශේෂ-ආරක්ෂාවක්/11-409462) · `si`
-
-Katunayaya security arrested Agrarian Mudiyanselage Ramesh Priyra, a Dubai-based organized crime leader, on 05/07. He was charged with several murders.
-
-🟩
-
-A group of authorities named Agrarian Mudiyanselage Ramesh Priyra, or "Manna Ramesala's Rameshu Priyra", who was charged from Dubai on 05/07 on 05/07 days of an organized crime leader and several murders.
-
-A 32-year-old manna resident a resident of Avissawella, a few months ago .He had been arrested by a group of security personnel in Dubai.
-
-මන්නා රමේෂ් 05/07 දින අලුයම 04.43 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
-
-He had also called a large number of Police Special Task Force officials in addition to the police officers at the Bandaranaike International Airport.
-
-Manna Ramesh to be taken to the Katunayake AirportHappened.
-
-◼️
-
-[Data](articles/7a8c534c.json)
-
-[Extended Data](ext_articles/7a8c534c.ext.json)
-
----
-
-### Ramesh brings to Sri Lanka
-
-*2024-05-07 09:37:19* · [`adalk`](https://www.ada.lk/breaking_news/මන්න-රමේෂ්-ලංකාවට-ගෙන-එයි/11-409461) · `si`
-
-Ramesh Mihhirang, a criminal arrested by Dubai Police, was brought to Sri Lanka. Sri Lanka issued a red alert for international police to arrest him for murders in Avissawella. Dubai Police arrested him two months ago while traveling with his family.
-
-🟩
-
-Ramesh Mihhirang, an organized criminal, who was arrested by Dubai Police, was brought to Sri Lanka at the Bandaranaike International Airport this morning.
-
-'මන්න රමේෂ්' අත්අඩංගුවට ගැනීමෙන් පසු ඔහු නැවත ශ්‍රී ලංකාවට රැගෙන ඒම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ (CID) කණ්ඩායමක් ඩුබායි බලා පිටත්ව ගියේය.
-
-Sri Lanka has issued a red announcement across the international police to arrest a number of murders in Avissawella and more crimes.
-
-Dubai Police arrested two months before he was traveling with his wife and two children in a car.
-
-The Criminal Investigations Department will be retained by the Department of Criminal Investigations after being produced in court.
-
-◼️
-
-[Data](articles/578fc88a.json)
-
-[Extended Data](ext_articles/578fc88a.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-07 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196356) · `si`
-
-The Parliamentary Council has begun, with the Deputy Speaker chairing. The Sri Lanka Parliament has convened a special session on the Second Reading Community Bill. The Sri Lanka Transport Board and COPE are summoned to the COP Committee. The Ministry of Tourism and Ministry of Finance are also called to committees.
-
-🟩
-
-The Deputy Speaker has commenced chaired by Parliament.
-
-පරාටේ නීතිය තාවකාලිකව අත්හිටුවන, බැංකු මඟින් ප්‍රදානය කරන ලද, ණය අයකර ගැනීමේ විශේෂ විධිවිධාන සංශෝධන පනත් කෙටුම්පත පිළිබද විවාදය අද (07) පැවැත්වීමට නියමිතව තිබේ.
-
-The Second Reading Debate the Second Reading Debate is due to be held the Second Reading Community Bill at the Second Reading and Temporary Certificate of the Division.
-
-Meanwhile, the Sri Lanka Transport Board and the Sustainable Energy Authority (COPE) has been summoned to the Committee on Public Enterprises or COP Committee this week.
-
-Sri Lanka Transport Officers on Thursday
-
-In addition, the Ministry of Tourism has been summoned to the Committee on Public Accounts today and tomorrow (08), the Buddha Sasana, Religious and Cultural Affairs.
-
-It is reported that the Ministry of Finance, Economic Stabilities and National Policies have been called to the Committee on Public Accounts on Thursday.
-
-◼️
-
-[Data](articles/66cf1e36.json)
-
-[Extended Data](ext_articles/66cf1e36.ext.json)
-
----
-
-### Another mysterious women's death
-
-*2024-05-07 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196355) · `si`
-
-A woman was found dead in Weligama, Rajagala, after a robbery. The 78-year-old victim was killed while her sister and brother-in-law were away. The body is at Matara hospital for examination.
-
-🟩
-
-It is reported that a woman has been killed in a house in Weligama Police, Rajagala, Weligama.
-
-Several people have entered the house where the woman who was dead at around 11.30 pm yesterday and had robbed the value of the house.
-
-A 78-year-old woman has been identified as a 78-year-old woman was killed.
-
-The deceased woman lives with his sister and her husband, and the murder had taken place while the two had gone back to Weligama town to take treatment at night.
-
-The body of the deceased woman has been taken to the Matara hospital for postmortem examination.
-
-◼️
-
-[Data](articles/d8c299f9.json)
-
-[Extended Data](ext_articles/d8c299f9.ext.json)
-
----
-
-### Visa affair: Harin warns resign
-
-*2024-05-07 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-விவகாரம்-பதவி-விலகுவதாக-ஹரீன்-எச்சரிக்கை/175-336874) · `ta`
-
-Tourism Minister Harinponando warns of resignation over new visa procedures, citing opposition to unreported charges.
-
-🟩
-
-Tourism Minister Harinponando has warned at the Cabinet meeting that he will resign from his post on the new visa procedure.
-
-Harinbernando said he would resign if there were no changes in new visa procedures.
-
-Nothing has been reported on VVS charges when the new plan is proposed. But when it is revealed, I have expressed my opposition, ”Harinbernando said. Remble
-
-◼️
-
-[Data](articles/b735317e.json)
-
-[Extended Data](ext_articles/b735317e.ext.json)
 
 ---

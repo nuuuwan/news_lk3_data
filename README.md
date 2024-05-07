@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 00:18:20**
+As of **2024-05-08 00:33:42**
 
 ## Newspaper Stats
 
-*Scraped **22,587** Articles*
+*Scraped **22,591** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 198
+colombotelegraphcom | 199
 bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
@@ -19,16 +19,70 @@ adalk | 1,905
 tamilmirrorlk | 2,630
 adaderanalk | 2,654
 virakesarilk | 3,378
-dailymirrorlk | 3,541
+dailymirrorlk | 3,544
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,587 (100.0%) of 22,587 articles have been extended.
+22,587 (100.0%) of 22,591 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-08 (Wednesday)
+
+### Religious misrepresentation and Israeli bloodlust in Rafah
+
+*2024-05-08 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Religious-misrepresentation-and-Israeli-bloodlust-in-Rafah/172-282113) · `en`
+
+Israeli Finance Minister Bezalel Smotrich has called for the obliteration of Rafah, Deir al-Balah, and Nuseirat.
+
+In the dark ages one could, to an extent excuse bloodlust and calls for the eradication of an entire race of a particular people. People of that day and age were primitive. Bloodthirsty men of the cloth called for the eradication of particular peoples whom they saw as their enemies. They used God’s name as a cover for their hatred.
+
+The fear of so-called ‘Holy men’ who had private discourses with the deities led them to follow the dictates of those crazed characters.
+
+So it is quite surprising, to hear modern-day rulers of Israel spout blood-thirsty calls for the killing of an entire people -in today’s context the Palestinians- because of what some misguided old men called for in bygone ages.
+
+Israel’s Finance Minister was referencing passages in Israel’s ‘Holy  Book’ where early religious leaders called for the total destruction of  the Amalek people.
+
+...
+
+[Data](articles/efed892a.json)
+
+---
+
+### Lady picking pockets-symptoms of wider social malaise - EDITORIAL
+
+*2024-05-08 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lady-picking-pockets-symptoms-of-wider-social-malaise-EDITORIAL/172-282110) · `en`
+
+Two days ago this newspaper highlighted the story of a Woman Police Constable (WPC) being arrested for picking the handbag of a shopper in Kandy. Not many of us citizens were shocked or dumbfounded. After all, this was ‘merely’ a case of a so-called ‘law keeper’ breaking a law.
+
+We as a nation know how our country’s leaders brought our people and the nation to a position of bankruptcy through corrupt practices. The political leaders of this country are not much different from political leaders in even the richest country in the world.
+
+During the era of prohibition in the United States, the infamous US criminal Al Capone rose to success on the back of the Temperance Movement. On January 16, 1919 prohibition was passed by both the Senate and the House of Representatives.
+
+...
+
+[Data](articles/01fc0778.json)
+
+---
+
+### How wheeler-dealing over visa  could  kill tourism’s golden goose
+
+*2024-05-08 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-wheeler-dealing-over-visa-could-kill-tourisms-golden-goose/172-282109) · `en`
+
+If the Government of Sri Lanka desires to streamline the inefficient and corruption-laden immigration and emigration authorities, one can’t find fault.
+
+The Immigration Department is infested with crooks that have fought against even the most innocuous measures of oversight and accountability. CCTV cameras purchased to install in its head-office are still stored in the warehouses for six years, the Parliamentary Committee on Public Accounts (CoP) found recently.
+
+But, a controversial and unsolicited tender that awarded the monopoly of visa processing to a private contractor, VSF Global -- which overnight doubled the on-arrival visa fees, unleashed chaos and confusion at the airport, and risked the future of the tourism industry in the country--smack of a scam far extraordinary or grand incompetence, and most likely both.
+
+...
+
+[Data](articles/b199c354.json)
+
+---
 
 ### 2024-05-07 (Tuesday)
 
@@ -885,6 +939,18 @@ Sri Lanka has seen banks auctioning assets after a currency crisis killed domest
 [Data](articles/c3d9751a.json)
 
 [Extended Data](ext_articles/c3d9751a.ext.json)
+
+---
+
+### Reporting On UNHRC Matters: An Open Letter To Sinha Ratnatunga Editor Of The Sunday Times
+
+*2024-05-07 18:30:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reporting-on-unhrc-matters-an-open-letter-to-sinha-ratnatunga-editor-of-the-sunday-times/) · `en`
+
+The 57th session of the Human Rights Council is to be held from 9 September 2024 to 9 October 2024. Under the provisions of resolution 51/1 which was passed against Sri Lanka in October 2022, the UN Human Rights Commissioner is due to present a written update on the situation of human rights in Sri Lanka and a comprehensive report ‘that includes further options for advancing accountability’ and both are to be discussed in an interactive dialogue at the 57th session of the UNHRC. The 57th session will coincide with the Presidential election which under the provisions of Article 31(3) of Sri Lanka’s Constitution, has to be held between the 17th September and 17th October 2024. Hence we are faced with a situation where the President and the government in power in Sri Lanka when the 57th session of the UNHRC begins, may no longer be in power by the time the session ends.
+
+...
+
+[Data](articles/ad4cbe79.json)
 
 ---
 
@@ -2169,79 +2235,5 @@ Ramesh Priyat, or Manna, is considered as a group of organized crime leader in D
 [Data](articles/1c86208e.json)
 
 [Extended Data](ext_articles/1c86208e.ext.json)
-
----
-
-### 45-year-old murdered by son-in-law with garden hoe
-
-*2024-05-07 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99061/45-year-old-murdered-by-son-in-law-with-garden-hoe) · `en`
-
-A 45-year-old resident of Sithamparapuram in Vavuniya, has been attacked to death with a garden hoe allegedly by his son-in-law after a dispute between then had escalated last evening (06), according to the police.
-
-The deceased, who had been living by himself after separating from his wife, had succumbed to his critical injuries after being attacked with a garden hoe by his son-in-law while the latter’s friend had also attacked the victim with a helmet.
-
-The victim’s body has been placed at the Vavuniya Hospital’s Mortuary, while the two suspects, aged 22 and 24, have been apprehended in connection with the incident, police said.
-
-◼️
-
-[Data](articles/3d93f6d8.json)
-
-[Extended Data](ext_articles/3d93f6d8.ext.json)
-
----
-
-### The passenger who was traveling on the bus on Matale
-
-*2024-05-07 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாத்தளை-பஸ்ஸில்-பயணித்த-பயணி-மரணம்/76-336887) · `ta`
-
-A passenger from a Sri Lanka Transport Board bus traveling from Colombo to Matale died near Nittambuwa. The bus stopped for medical attention, but the passenger was already deceased. The body was taken to Watupitivala Base Hospital for further investigation.
-
-🟩
-
-Nitambuwa police say that a passenger from a bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Colombo to Matale has died.
-
-The bus, which belongs to the Dambulla Depot, was near Nittambuwa on Tuesday (07), when the bus stopped near the Nittambuwa police, when the passenger was sick in the back seat.
-
-When the medical officers who arrived in the ambulance were inspected, the patient was reportedly already dead and the body was intervened and the body was taken to the Watupitivala Base Hospital.
-
-Details of the dead old man have not been released. Nitambuwa police are investigating the incident.
-
-◼️
-
-[Data](articles/f3fcb378.json)
-
-[Extended Data](ext_articles/f3fcb378.ext.json)
-
----
-
-### University non-academic workers protest in front of UGC
-
-*2024-05-07 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-non-academic-workers-protest-in-front-of-UGC/110-282095) · `en`
-
-University non-academic workers protested outside the University Grants Commission (UGC) today, highlighting eleven key demands. These include unresolved salary anomalies and unfulfilled government promises regarding allowances and other facilities. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/6af7a14a.json)
-
-[Extended Data](ext_articles/6af7a14a.ext.json)
-
----
-
-### Two special teams assigned to investigate into collapse of concrete beam: RDA
-
-*2024-05-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-special-teams-assigned-to-investigate-into-collapse-of-concrete-beam-RDA/108-282094) · `en`
-
-Colombo, May 7 (Daily Mirror) - The Road Development Authority (RDA) has assigned two special teams to carry out a comprehensive investigation into the collapse of a concrete beam in the first section of the Central Expressway project, the RDA Director General said.
-
-He said that through these inspections, these officials will quickly check the current condition of all the concrete beams constructed along the Central Expressway Project Part I and apply the necessary remedies.
-
-"This will ensure that the expressway is built to the required standards and conditions and that full supervision and follow-up are carried out on a regular basis to maintain it safely. Since this section of the highway is currently under construction, the road construction contractor has to bear the financial loss incurred for this purpose," the Director General said.
-
-...
-
-[Data](articles/09130027.json)
-
-[Extended Data](ext_articles/09130027.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 19:03:05**
+As of **2024-05-07 19:18:12**
 
 ## Newspaper Stats
 
@@ -26,37 +26,51 @@ adaderanasinhalalk | 3,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,479 (99.8%) of 22,534 articles have been extended.
+22,487 (99.8%) of 22,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### இந்திய வம்சாளியினரின் இலங்கை வருகையை ஆவணப்படுத்துவதற்கு இந்தியா உதவவேண்டும் - 'கோபியோ' அமைப்பின் தலைவர் குமார் நடேசன்
+### India should help document the arrival of Sri Lanka of Indian descendants - Kumar Nadesan, president of 'Gopio' organization
 
 *2024-05-07 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182920) · `ta`
 
-இந்திய வம்சாவளியினர் இலங்கை உள்ளடங்கலாக உலகநாடுகள் எங்கிலும் பல உயர் பதவிகளை வகிப்பதாக சுட்டிக்காட்டியிருக்கும் 'கோபியோ' அமைப்பின் தலைவர் குமார் நடேசன், சுமார் 250 வருடங்களுக்கு முன்னர் இந்தியர்கள் தொழில் வல்லுனர்களாகவோ, வர்த்தகர்களாகவோ, வங்கியாளர்கவோ, தேயிலைத்தோட்டத் தொழிலாளர்களாகவோ இலங்கையை வந்தடைந்தமை தொடர்பான வரலாற்று ஆவணமொன்றை எதிர்வருங்காலத்தில் உருவாக்குவதற்கு இந்தியா உதவவேண்டுமெனக் கோரிக்கைவிடுத்துள்ளார்.
+Kumar Nadesan, president of 'Gopio', calls for a historical document on the arrival of Indian descendants in Sri Lanka, including traders, bankers, and tea workers, about 250 years ago. He highlights India's global successes and contributions, emphasizing the need for recognition of Indian origin's significant roles in Sri Lanka's development.
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகராக அண்மையில் பொறுப்பேற்றுக்கொண்ட சந்தோஷ் ஜாவை கௌரவிக்கும் வகையில் 'கோபியோ' அமைப்பினால் நேற்று முன்தினம் திங்கட்கிழமை கொழும்பு தாஜ்சமுத்ரா ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த இரவு விருந்துபசார நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே 'கோபியோ' அமைப்பின் தலைவர் குமார் நடேசன் மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+🟩
+
+Kumar Nadesan, president of the 'Gopio' organization, has pointed out that Indian origin has held many top positions all over the world, including Sri Lanka, and has called for a historical document on the arrival of Indians, traders, bankers, tea workers, about 250 years ago.
+
+Kumar Nadesan, president of the Gopio Organization, said this while attending a dinner party organized by the 'Kopio' organization at the TajSamudra Hotel in Colombo on Monday to honor Santosh Ja, who recently assumed office as Indian High Commissioner to Sri Lanka.. There he added:
+
+We have been waiting for this day since the new Indian High Commissioner to Sri Lanka took over. While celebrating the vibrant goodwill between Sri Lanka and India and the image of India on the world stage, we are here to introduce us to the High Commissioner and share our views with him.
 
 ...
 
 [Data](articles/2ac01fa2.json)
 
+[Extended Data](ext_articles/2ac01fa2.ext.json)
+
 ---
 
-### බෙල්ජියන් එයාර් සිද්ධිය ගැන ශ්‍රීලන්කන් ප්‍රතිචාර දක්වයි
+### SriLankan responds to Belgian Air incident
 
 *2024-05-07 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196379) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සමාගම විසින් බදු පදනම මත සේවයට යොදවා ඇති ගුවන්යානයක සිදුවී ඇති බවට මාධ්‍ය ඔස්සේ පළවූ සිද්ධිය සම්බන්ධයෙන් ශ්‍රීලන්කන් ගුවන් සමාගම ප්‍රතිචාර දක්වා තිබේ.
+SriLankan Airlines responds to a tax incident, confirming an investigation is underway.
 
-එහි දැක්වෙන්නේ එවැනි සිද්ධියක් සිදුවී ඇති බවත් ඒ සම්බන්ධයෙන් මේ වනවිට පරීක්ෂණයක් සිදුකෙරෙන බවත් ය.
+🟩
+
+The SriLankan Airlines has responded in the media that SriLankan Airlines had taken place on a plane that had been deployed on a tax on tax.
+
+It states that a case has occurred and an investigation will be conducted.
 
 ◼️
 
 [Data](articles/75cf5379.json)
+
+[Extended Data](ext_articles/75cf5379.ext.json)
 
 ---
 
@@ -128,37 +142,55 @@ Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, made the
 
 ---
 
-### பிரஜைகளின் பேச்சுரிமைக்கு எதிராக செயற்பட்டால் பாரிய விளைவுகளை அரசாங்கம் எதிர்கொள்ள நேரிடும் - விஜித ஹேரத்
+### The government will face huge consequences if he acts against the rights of citizens - Vijitha Herath
 
 *2024-05-07 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182919) · `ta`
 
-தவறுகளை அரசாங்கம் திருத்திக் கொள்ள வேண்டும் அதனை விடுத்து இந்த இளைஞனுக்கு நெருக்கடிகளை ஏற்படுத்தினால் அரசாங்கம் மீண்டும் பாரிய நெருக்கடிகளுக்கு முகம் கொடுக்க நேரிடும்.
+Vijitha Herath warns of severe consequences for the government if it infringes on citizens' rights. He also mentions the united front of attorneys and the public against the government's economic policies and corruption, highlighting the impact on small and medium enterprises. The government claims to have taken steps for economic recovery, including loan relief, but a youth has exposed massive visa fraud, using their constitutional right to speak out.
 
-சட்டத்தரணிகளும், நாட்டு மக்களும் ஒன்றிணைவார்கள்  என தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற  பிரிவிடல் (திருத்தச்) சட்டமூலம் மற்றும்  வங்கிகளால் வழங்கப்பட்ட  கடன்கள் அறவிடல் (விசேட ஏற்பாடுகள்)திருத்தச்  சட்டமூலம் (பராட்டே) என்பன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+If the government has to correct the mistakes, the government will again face huge crises if this young man has crises.
 
-நாட்டின் தேசிய பொருளாதாரத்தில் சிறு மற்றும் நடுத்தர கைத்தொழில் முயற்சியாளர்கள்  52  சதவீதமளவில் பங்களிப்பு  செய்கிறார்கள்.தற்போதைய பொருளாதார நெருக்கடிக்கு தொழில் முயற்சியாளர்கள் பொறுப்புக் கூற வேண்டிய தேவை  கிடையாது.ஆனால் அவர்கள் மீதே பொருளாதார நெருக்கடி சுமத்தப்பட்டுள்ளது. அரசாங்கத்தின் தவறான பொருளாதார கொள்கைகளினாலும்,ஊழல் மோசடியாலும் நாடு வங்குரோத்து நிலையடைந்தது.
+Attorneys and the people of the country will unite, said the National People's Power MP Vijitha Herath.
+
+Speaking at a debate on the Amendment Bill (Amendment) Bill (Amendment) Bill (Amendment) in Parliament on Tuesday (7), he said in a debate on the Amendment Bill (Parate) Bill (Parate) Bill.
+
+Small and medium enterprises contribute to 52 percent of the country's national economy.. The country has become bankrupt by the government's false economic policies and corruption.
+
+The government notes that the economy was affected by the Govt.. The government states that it has taken steps to the economic recovery.
+
+Relief has been given to the loans provided by the banks and defining 7 months.
 
 ...
 
 [Data](articles/3ecf9c57.json)
 
+[Extended Data](ext_articles/3ecf9c57.ext.json)
+
 ---
 
-### மத்திய வங்கியின் செயற்பாடுகள் தொடர்பில் உரிய அதிகாரிகளை கோப் மற்றும் நிதி குழுவுக்கு அழைத்து விசாரிக்க முடியும் - சுசில் பிரேம ஜயந்த
+### The Central Bank can be summoned to the Cobb and the Finance Committee on the activities of the Central Bank - Susil Prema Jayantha
 
 *2024-05-07 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182917) · `ta`
 
-மத்திய வங்கியின் செயற்பாடுகள் தொடர்பில் பாராளுமன்றத்தின் நிதி குழுவுக்கும் கோப் குழுவுக்கும் அந்த அதிகாரிகளை அழைத்து விசாரணைகளை நடத்த முடியும் என சபை முதல்வரும் அமைச்சருமான சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+Susil Prema Jayantha, the Chief Minister and Minister, mentioned that the Central Bank's Finance Committee and the COPE Committee can be summoned by officials. He responded to Opposition MPs' questions in Parliament, stating the Central Bank and the Government are unrelated to the coalition of Professor Herath MP. Lakshman Kiriella MP criticized the Central Bank for a 70% salary increase, questioning fairness. Wimal Weerawansa MP argued the Central Bank is not a government agency, suggesting the government should focus on its independence.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) அது தொடர்பில் எதிர்க்கட்சி எம்பிக்கள் எழுப்பிய கேள்விகளுக்குப் பதிலளிக்கும் போதே அமைச்சர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) பேராசிரியர் சரித்த ஹேரத் எம்பி கூட்டொன்றை முன்வைத்து குறிப்பிடுகையில், மத்திய வங்கிக்கும் அரசாங்கத்திற்கும் எந்தவித தொடர்பும் இல்லை என்ற நிலைப்பாட்டில் அந்த வங்கி செயற்படுகிறது அந்த செயற்பாடுகள் பாரதூரமானவை. அந்த அதிகாரிகளை பாராளுமன்றத்திற்கு அழைத்து விசாரணை நடத்த வேண்டும் என்றும் கேட்டுக் கொண்டார்.
+Council Chief Minister and Minister Susil Prema Jayantha said that the Central Bank's Finance Committee and the COPE Committee can be summoned by the officials.
+
+The Minister said this while responding to questions raised by the Opposition MPs in Parliament on Tuesday (7).
+
+The Bank is acting in the position that the Central Bank and the Government have nothing to do with the coalition of Professor Herath MP in Parliament on Tuesday (07).. He also called for the officials to be summoned to parliament.
+
+Lakshman Kiriella MP, the Prime Minister of the Opposition, commented on the issue, according to the new report, the Central Bank has recovered a thousand million rupees last year.. However, the central bank officials are carrying out a 70 percent salary increase through their activities. In what way is this fair?said.
 
 ...
 
 [Data](articles/f68c7e0b.json)
+
+[Extended Data](ext_articles/f68c7e0b.ext.json)
 
 ---
 
@@ -290,23 +322,29 @@ The woman has revealed that the woman had been fraudulent to seek the assistance
 
 ---
 
-### இலங்கையில் நடப்பது பொலிஸ் இராஜ்ஜியமல்ல : இலங்கை ஜனநாயக நாடு - எதிர்க்கட்சித் தலைவர் சஜித் எச்சரிக்கை
+### Sri Lanka's Democratic Country - Opposition Leader Sajith warns
 
 *2024-05-07 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182903) · `ta`
 
-கருத்து தெரிவித்தமைக்காக விசாரணைக்கு அழைப்பதற்கு இலங்கையில் நடப்பது பொலிஸ் இராஜ்ஜியமல்ல. இலங்கை ஜனநாயக நாடு என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sri Lanka's democratic leader Sajith Premadasa defends freedom of speech, criticizing police for summoning Sandaru Kumarasinghe over airport comments.
 
-விசா பிரச்சினை குறித்து அண்மையில் விமான நிலையத்தில் கருத்துத் தெரிவித்த சந்தரு குமாரசிங்கவை பொலிஸுக்கு  அழைத்து அது குறித்து வாக்குமூலம் பெறப்பட்டது. இது பொலிஸ் இராஜ்ஜியமல்ல, இது ஏகாதிபத்திய நாடல்ல, இது ஜனநாயக நாடு. பேச்சுச் சுதந்திரம் அவருக்கு இருப்பதால் அவருக்கு இடையூறு விளைவிக்க முடியாது, அவரை தொந்தரவு படுத்த வேண்டாம்.
+🟩
 
-சந்தரு குமாரசிங்க அண்மையில் விமான நிலையத்தில் விடயமொன்று தொடர்பில் தனது கருத்தை முன்வைத்ததை சமூக ஊடகங்கள் மூலம் காண முடிந்தது.
+It is not the Kingdom of Police in Sri Lanka to invite the investigation into the comment. Opposition leader Sajith Premadasa said Sri Lanka was a democratic country.
 
-இந்நாட்டின் அரசியலமைப்பின் பிரகாரம் அவருக்கு பேச்சுச் சுதந்திரமும் கருத்துச் சுதந்திரம் உள்ளது. இதற்கு இடையூறு ஏற்படுத்த முடியாது.
+Sandaru Kumarasinghe, who recently commented at the airport on the issue of visa, was summoned to the police.. This is not the Kingdom of the Police, this is not the imperialist nation, which is a democratic country. Since he is freedom of speech, he cannot interrupt him and do not disturb him.
 
-அவர் அவரது கருத்தை முன்வைத்துள்ளார். அதனால் இந்த விடயத்தை  மேலும்  கொண்டு செல்வதில் அர்த்தமில்லை என்பதால் இந்த விடயத்தை இநத நிலையில் முடிவுக்கு  கொண்டு வருமாறு பிரதமரிடம் கோருகின்றேன் என்றார்.
+Social media has seen his views on the recent airport at Santaru Kumarasinghe.
+
+According to the constitution of the country, he has freedom of speech and freedom of expression. This cannot be disrupted.
+
+He has put forward his opinion. So it does not mean that this issue is not further, and I ask the Prime Minister to end this matter.
 
 ◼️
 
 [Data](articles/aaea0824.json)
+
+[Extended Data](ext_articles/aaea0824.ext.json)
 
 ---
 

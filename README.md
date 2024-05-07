@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 18:22:08**
+As of **2024-05-07 18:51:26**
 
 ## Newspaper Stats
 
-*Scraped **22,526** Articles*
+*Scraped **22,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,94 @@ economynextcom | 1,281
 dailyftlk | 1,307
 adalk | 1,898
 tamilmirrorlk | 2,623
-adaderanalk | 2,651
+adaderanalk | 2,652
 virakesarilk | 3,367
 dailymirrorlk | 3,528
-adaderanasinhalalk | 3,614
+adaderanasinhalalk | 3,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,451 (99.7%) of 22,526 articles have been extended.
+22,467 (99.7%) of 22,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### பௌசியின் மகன் கைது
+### මදුෂ්ගේ සෙල්ලම් දිගටම කළ අයෙකු කොටුවෙයි
+
+*2024-05-07 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196378) · `si`
+
+කෙරවලපිටිය අධිවේගී පිවිසුම අසළදී විශේෂ කාර්ය බළකා නිලධාරියෙකු අනතුරට ලක්කර පළායෑමට උත්සාහ කළ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන්ට ලද තොරතුරක් මත මෝටර් රථයක් පරීක්ෂා කිරීමට යාමේදී එහි සිටි සැකකරු විශේෂකාර්ය බළකා නිලධාරියෙකු ද අනතුරට ලක්කර මෝටර් රථයෙන් පළායාමට උත්සාහ කර ඇති බව සඳහන් වෙයි.
+
+කෙසේවෙතත් අදාළ මෝටර් රථයේ ටයරයක ඇතිවූ දෝෂයක් හේතුවෙන් සැකකරු හට මෝටර් රථය ධාවනය කරවීමට නොහැකිව තිබේ.
+
+එහිදී සැකකරු මෝටර් රථයෙන් බැස පළායාමට උත්සාහ කිරීමේදී පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් ඔහු අත්අඩංගුවට ගෙන ඇති බව වාර්තාවෙයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මියගිය පාතාල නායක මාකදුරේ මදුෂ්ගේ අපරාධ ජාලය තවදුරටත් මෙහෙයවීමේ නිරතවූ ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන වතුපිටිය පතිරණගේ දමිත් ප්‍රභාසිත අත්තනායක හෙවත් මාකොළ සුද්දා නැමති අයෙකු බව සඳහන් වෙයි.
+
+සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේ දී අදාළ මෝටර් රථයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 10 යි මිලිග්‍රෑම් 650ක් පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/0f7d756a.json)
+
+---
+
+### Bill related suspension of Parate Law passed in parliament
+
+*2024-05-07 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99068/bill-related-suspension-of-parate-law-passed-in-parliament) · `en`
+
+The Recovery of Loans by Banks (Special Provisions) (Amendment) Bill, which was amended to facilitate legal provisions for the suspension of Parate Law until December 15, 2024, was passed in Parliament without amendments on Tuesday (07).
+
+◼️
+
+[Data](articles/e084a7c5.json)
+
+---
+
+### The bill is passed in Parliament
+
+*2024-05-07 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196377) · `si`
+
+The bill passed in Parliament, with amendments by Opposition Leader Sajith Premadasa defeated by 25 votes.
+
+🟩
+
+The Special Provisions for the Temporary Board of Loans for December 15
+
+Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, made the amendments, was defeated by a majority of 25 votes.
+
+◼️
+
+[Data](articles/9152188d.json)
+
+[Extended Data](ext_articles/9152188d.ext.json)
+
+---
+
+### Bouzi's son arrested
 
 *2024-05-07 17:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌசியின்-மகன்-கைது/175-336903) · `ta`
 
-முன்னாள் அமைச்சர் ஏ.எச்.எம். பௌசியின் மகன் முன்னாள் மாகாணசபை உறுப்பினர் நௌசர் பௌசி கொள்ளுபிட்டி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Nouser Bouzi Kalupitiya, former Minister and Provincial Council member, arrested for assault. His son, Remble, also arrested. Accused in an accident in Kaluppitti.
 
-கொள்ளுப்பிட்டி பாடசாலை மாவத்தை பகுதியில் இடம்பெற்ற விபத்தின் பின்னர் பாதிக்கப்பட்ட நபரை தாக்கியதாக அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+🟩
 
-சம்பவம் தொடர்பில் கொள்ளுப்பிட்டி பொலிஸார் விசாரணைகளை மேற்கொண்டதுடன், சந்தேகநபரான ஏ.எச்.எம்.பௌசியின் மகனைக் கைது செய்து பொலிஸ் பிணையில் விடுவித்துள்ளனர். R
+Former Minister AHM. Former Provincial Council member Nouser Bouzi Kalupitiya has been arrested by the police.
+
+He has been accused of assaulting the victim after an accident in the Kaluppitti school Mawatha area.
+
+The Kaluppitti police are investigating the incident and arrested the son of the suspect. Remble
 
 ◼️
 
 [Data](articles/75e55566.json)
+
+[Extended Data](ext_articles/75e55566.ext.json)
 
 ---
 
@@ -604,15 +664,25 @@ The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa 
 
 ---
 
-### කාරණා 4 ක් දන්වනම් මරණවලින් සියයට 89ක් වැලකෙන්න පුළුවන්
+### There may be 89 percent of the deaths to inform 4 things
 
 *2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-4-ක්-දන්වනම්-මරණවලින්-සියයට-89ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
 
-අද මෙරට මරණ වලින් සියයට 89 ක් පිළිකා, හෘද වස්තුවේ රෝග, පෙණහළු රෝග සහ දියවැඩියාව යන බෝ නොවන රෝග නිසා සිදුවන බවත්, එයිනුත් වැඩි මරණ ප්‍රමාණයක් සිදු වන්නේ හෘද වස්තුවේ රෝග සහ ආඝාතය නිසා බවත්, වසරකට 60,000 ක් පමණ ආඝාතයට ලක්ව 4000 ක් පමණ මියයන බව වෙද්‍ය පාලිත මහීපාල මහතා පවසයි. මෙම රෝග වලින් වැළැකීමේ දි කාරණා 04 ක් ගැන දැනුවත් විය යුතු බවත්, එනම් දුම්පානය, මධ්‍යසාර භාවිතය, අධික ලෙස  සීනි, ලුණු භාවිතය සහ ව්‍යායාම නොකිරිම පෙන්වා දිය හැකි බව “තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය පැවැත්වූ අද (07) දීනදී පවසා සිටියේය.
+89% of Sri Lanka's deaths are due to non-communicable diseases like heart disease, stroke, and diabetes, affecting 60,000 people. A health promotion program for journalists aims to raise awareness. Globally, 100 million deaths are attributed to smoking, and 1.4 million to obesity. Sri Lanka's healthcare is top-notch, with life expectancy at 83 years.
 
-...
+🟩
+
+Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Mrs. Palitha Maheepala says. The first phase of the first stage of the health promotion program for Sri Lankan journalists is the inauguration of the third eye in the precious use of these diseases.In Donathi was held today (07).
+
+The world has died due to 100 million people in the world, according to the World Health Organization.. There were about 10 million people in the world due to smoking. It is said that about 1.4 million people in the world, about 46 percent of our country's weighing more than 46 percent in our country, about 46 percent of our country's weight.
+
+The country's health care is the best health service in the region, and that women have increased to 83 years and the fortified of the primary health service has contributed to all that the fortified of the primary health service has been reported..
+
+◼️
 
 [Data](articles/38ef130f.json)
+
+[Extended Data](ext_articles/38ef130f.ext.json)
 
 ---
 
@@ -734,17 +804,23 @@ About 5 thousand people participated in the demonstration. Due to the demonstrat
 
 ---
 
-### විදෙස් සංචිතය තවත් ඉහළට
+### Foreign squad goes up
 
 *2024-05-07 14:25:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-සංචිතය-තවත්-ඉහළට/11-409474) · `si`
 
-ශ්‍රී ලංකාවේ නිල සංචිත වත්කම් 2024 අප්‍රේල් මාසයේදී 9.6%කින් වර්ධනය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Sri Lanka's official reserves rose by 9.6% in April 2024, from $4.96B to $5.43B.
 
-ඒ අනුව 2024 මාර්තු මාසයේ ඩොලර් බිලියන 4.96ක් ව පැවති නිල සංචිත වත්කම්වල අගය 2024 අප්‍රේල් මාසයේදී ඩොලර් බිලියන 5.43ක් දක්වා වැඩිවී තිබේ.
+🟩
+
+The official reserves in Sri Lanka increased by 9.6% in April 2024, the Central Bank of Sri Lanka said.
+
+Accordingly, the official reserve assets of $ 4.96 billion in March 2024 increased to $ 5.43 billion in April 2024.
 
 ◼️
 
 [Data](articles/66e48037.json)
+
+[Extended Data](ext_articles/66e48037.ext.json)
 
 ---
 
@@ -1158,19 +1234,29 @@ The woman who had previously made a father's daughter's milk tea when his husban
 
 ---
 
-### ලංකාවේ කාන්තාවන්ගේ ආයු කාලය අවු. 83ක් දක්වා ඉහළට
+### Life of women in Sri Lanka every year. Up to 83
 
 *2024-05-07 13:14:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කාන්තාවන්ගේ-ආයු-කාලය-අවු--83ක්-දක්වා-ඉහළට/11-409470) · `si`
 
-මෙරට කාන්තාවන්ගෙන් 46 % ක්  සහ  පාසල් යන දරුවන්ගෙන් සියයට 10 % ක්  බර වැඩි බවත්,  කාන්තාවන්ගේ ආයු කාලය අවුරුදු 83 දක්වා වැඩි වී ඇති බවත් සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+Health Secretary Palitha Mahipala announced a new program to combat non-communicable diseases, citing a 46% obesity rate among women and a 10% increase in life expectancy to 83 years. The program aims to address the leading causes of death in Sri Lanka, including heart disease and diabetes, which account for 60,000 deaths annually.
 
-“තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය අද (07) සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා ජාතික රුපවාහීනි සංස්ථා පරිශ්‍රයේ දී එහි කාර්ය මණ්ඩලය මුලික කර ගනිමින් ආරම්භ කරන්නට යෙදුනි.
+🟩
 
-සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් සහ සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ සංකල්පයකට අනුව ආරම්භ කරන ලද මෙම ජංගම සෞඛ්‍ය සායන වැඩසටහනේ සංවිධාන කටයුතු සෞඛ්‍ය අමාත්‍යාංශය, සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය සහ ප්‍රාථමික සෞඛ්‍ය සේවා සවිබලගැන්වීමේ ව්‍යාපෘතිය විසින් සිදු කරනු ලැබීය.
+Health Secretary Palitha Mahipala says that 46% of women in Sri Lanka and 10% of school children have grown to over 10% and the life span of women has increased to 83 years.
+
+The first phase of Health Secretary Palitha Mahipi Palitha Mahipi, the inauguration of the Health Secretary Palitha Maheepala, the inauguration of the Health Secretary Palitha Maheepala, was headed by the Director General of Health Secretary Palitha Maheepala today (07).
+
+The Hon.
+
+Speaking at the inauguration ceremony held, Health Secretary Palitha Mahipala said that this new program commenced today would be implemented in all media institutions.
+
+Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Also said. It is said that there should be 4 things to be aware of 4 matters in preventiveness.
 
 ...
 
 [Data](articles/ffb8d996.json)
+
+[Extended Data](ext_articles/ffb8d996.ext.json)
 
 ---
 
@@ -2213,79 +2299,5 @@ Minister of Agriculture Mahinda Amaraweera said that the funds have been funded 
 [Data](articles/8ec84cbd.json)
 
 [Extended Data](ext_articles/8ec84cbd.ext.json)
-
----
-
-### Keheliya's petition deferred
-
-*2024-05-07 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196358) · `si`
-
-The Court of Appeal deferred Keheliya Rambukwella's petition, referring it to the president of the Appeal due to insufficient time for preparation. The petition will be heard on the 14th.
-
-🟩
-
-The Court of Appeal today (07) today, the Court of Appeal yesterday decided not to claim the interim request made by the Minister of Health Keheliya Rambukwella as demanded that he was released.
-
-The Court of Appeal is to be referred to the president of the Appeal, as he does not have enough time to prepare the order pertaining to this case.. N. Mr. Samarakoon ordered.
-
-Accordingly, a petition to be summoned before the Court of Appeal on the 14th.
-
-The order on this petition was to be announced today.
-
-◼️
-
-[Data](articles/3c4ac2c3.json)
-
-[Extended Data](ext_articles/3c4ac2c3.ext.json)
-
----
-
-### List of Appointment List for New Grama Niladhari
-
-*2024-05-07 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182861) · `ta`
-
-The Ministry of Home Affairs released the recruitment list for Grama Niladhari Grade 3 on Monday, featuring 1,942 successful applicants. Appointments will be made by Minister Asoka Priyantha, President Ranil Wickremesinghe, and Prime Minister Dinesh Gunawardena on Wednesday, May 8, at 10.30 am.
-
-🟩
-
-The new recruitment list for Grama Niladhari Grade 3 has been released on Monday (06) on the official website of the Ministry of Home Affairs.
-
-The list of 1,942 applicants who qualified for quarterly training has been published based on the results of the Grama Niladhari Recruitment of Recruitment.
-
-The name list has been released on the official website of the Ministry of Home Affairs, www.moha.gov.lk.
-
-The appointments will be made with the participation of the Minister of Home Affairs Asoka Priyantha, headed by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena at the Allaimakalika at 10.30 am on Wednesday, May 8.
-
-◼️
-
-[Data](articles/2dda06e8.json)
-
-[Extended Data](ext_articles/2dda06e8.ext.json)
-
----
-
-### Judge Durairaja quit the case
-
-*2024-05-07 10:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கிலிருந்து-விலகினார்-நீதியரசர்-துரைராஜா/175-336877) · `ta`
-
-Judge Durairaja withdrew from a case involving the murder of Sivaloka Nathan Vidya, an 18-year-old girl in Jaffna. A five-member committee, including Durairaja, was appointed to hear appeals. Durairaja quit due to his past supervision of the case. The case's delay was attributed to translation issues, but the Solicitor General stated translations were completed and repairs were underway. The appeals were filed by the Jaffna High Court, seeking the release of the defendants due to dissatisfaction with the law.
-
-🟩
-
-Sivaloka Nathan Vidya, an 18 -year -old schoolgirl in Punguduthivu, Jaffna, was abducted and murdered by the Chief Justice of the Judges Committee. Durairaja withdrew from the group on Monday (06).
-
-A five -member committee was appointed by the Chief Justice to hear the appeals filed by five defendants, including Swiss Kumar, who was sentenced to death.
-
-These petitions are on Monday (06) Justice S. Durairaja, Yasantha Gothagoda, A.. HMD. Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned in the presence of a Supreme Court judges.
-
-Meanwhile, the Chief Justice of the five -member session S. Durairaja said that he had decided to quit the appeal due to the supervision of the case during his tenure at the Attorney General's Department.
-
-In addition, the panel of judges ordered the appeal to be taken up for hearing on July 30.
-
-...
-
-[Data](articles/40042f95.json)
-
-[Extended Data](ext_articles/40042f95.ext.json)
 
 ---

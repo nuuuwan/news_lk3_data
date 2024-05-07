@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 00:33:42**
+As of **2024-05-08 00:49:39**
 
 ## Newspaper Stats
 
-*Scraped **22,591** Articles*
+*Scraped **22,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,295
-dailyftlk | 1,307
+dailyftlk | 1,314
 adalk | 1,905
 tamilmirrorlk | 2,630
 adaderanalk | 2,654
@@ -26,11 +26,63 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,587 (100.0%) of 22,591 articles have been extended.
+22,587 (100.0%) of 22,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### TISL challenges appointment of CIABOC Director General in Supreme Court
+
+*2024-05-08 00:34:21* · [`dailyftlk`](https://www.ft.lk/news/TISL-challenges-appointment-of-CIABOC-Director-General-in-Supreme-Court/56-761532) · `en`
+
+Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Petition (SC FR 110/2024) in the Supreme Court, challenging the appointment of W. Kanishka D. Wijeratne as the Director General (DG) of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Wijeratne, who had previously served as the DG of CIABOC since January 2020, was reappointed to the same position on 2 April 2024, following the enactment of the new Anti-Corruption Act.
+
+TISL’s petition contends that Wijeratne’s appointment violates provisions of the Anti-Corruption Act, and lacks procedural integrity and transparency. TISL requests the Supreme Court to nullify the appointment or alternatively direct the authorities to remove Wijeratne and appoint a new DG in accordance with the law.
+
+The petition further argues that he does not meet all statutory requirements and criteria for the DG role.
+
+...
+
+[Data](articles/8c57202a.json)
+
+---
+
+### Measuring the pulse of pulses: Improving food security in Sri Lanka
+
+*2024-05-08 00:22:25* · [`dailyftlk`](https://www.ft.lk/opinion/Measuring-the-pulse-of-pulses-Improving-food-security-in-Sri-Lanka/14-761523) · `en`
+
+the Sri Lankans who are recovering from the economic crisis has been severely affected by their food coping strategies
+
+Pulses, which are high in the quality and quantity of protein, make up only 8% of the nation’s protein intake
+
+Sri Lanka depends significantly on pulse imports, yet there is a sizeable gap in the total pulse supply to meet the dietary needs of the population
+
+Given the current level of pulse production in Sri Lanka, the immediate goal should be to improve local production gradually while filling gaps in supply to achieve dietary requirements through imports
+
+Long-term strategies must focus on coordinated efforts involving policy support, research and extension, and market and demand considerations
+
+By Dr. Kiruthika Natarajan, Dr. Manoj Thibbotuwawa, and Dr. Suresh Babu
+
+...
+
+[Data](articles/8577918c.json)
+
+---
+
+### True value of Ceylon Cinnamon
+
+*2024-05-08 00:18:44* · [`dailyftlk`](https://www.ft.lk/columns/True-value-of-Ceylon-Cinnamon/4-761522) · `en`
+
+Everything needs to have a reason, framed in its purpose. Without reason and purpose, life and everything that is part of living decays into meaninglessness. Mark Twain brilliantly explained, “The two most important days in life are the day you were born and the day you find out why.” That truth applies as much to life as to business. There was a time – when it was thought private enterprise – businesses pursuing their own interests – would contribute to a better outcome for society as a whole. It was thought that individuals in pursuit of profit would inadvertently contribute to the economic well-being of society as a whole.
+
+...
+
+[Data](articles/09f58c28.json)
+
+---
 
 ### Religious misrepresentation and Israeli bloodlust in Rafah
 
@@ -85,6 +137,44 @@ But, a controversial and unsolicited tender that awarded the monopoly of visa pr
 ---
 
 ### 2024-05-07 (Tuesday)
+
+### Singapore’s ICA experts to visit Sri Lanka to study immigration operations
+
+*2024-05-07 23:49:33* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-ICA-experts-to-visit-Sri-Lanka-to-study-immigration-operations/34-761521) · `en`
+
+Minister Alles says visiting team plans to spend a week, analysing existing systems and procedures
+
+Highlights Singapore’s renowned efficiency in airport operations, opines potential benefits of adopting best practices
+
+Opines this as a first step towards gradual improvement in airport and immigration operations as sophisticated systems are costly
+
+Public Security Minister Tiran Alles on Monday announced that a delegation comprising five representatives from Singapore’s Immigration and Checkpoints Authority (ICA) is scheduled to visit Sri Lanka on 27 May to conduct a comprehensive study of the operations at Bandaranaike International Airport (BIA) and its immigration system.
+
+Speaking to journalists he revealed that he had made a request to the Government of Singapore six months ago, aiming to boost Sri Lanka’s airport and immigration operational efficiency.
+
+“The visiting team is expected to spend a week in the country, examining the existing systems and procedures,” he said.
+
+...
+
+[Data](articles/2500fc18.json)
+
+---
+
+### China to support digital education transformation
+
+*2024-05-07 23:48:12* · [`dailyftlk`](https://www.ft.lk/business/China-to-support-digital-education-transformation/34-761520) · `en`
+
+The Cabinet of Ministers on Monday has approved implementing the digital transformation of general education aided by the Chinese Government.
+
+“The Chinese Government has agreed to provide for the project in accordance with a project proposal for the digital transformation of general education in Sri Lanka. A feasibility study has also been conducted in relation to the implementation of the project,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
+
+The proposed project is expected to provide Delivering Class Rooms, Receiving Class Rooms, Data Centre and tables for schools, within the Education Ministry to facilitate these activities, a Studio Room and a Conference Room.
+
+...
+
+[Data](articles/06e30f59.json)
+
+---
 
 ### NMRA trains police to sniff out psychoactive pharmaceutical drugs
 
@@ -145,6 +235,40 @@ The funeral will be held at the Kalutara Provincial Cemetery on Thursday 9th.. R
 [Data](articles/f9c9fc3e.json)
 
 [Extended Data](ext_articles/f9c9fc3e.ext.json)
+
+---
+
+### Suicide, again?
+
+*2024-05-07 23:06:32* · [`dailyftlk`](https://www.ft.lk/opinion/Suicide-again/14-761509) · `en`
+
+President Ranil Wickremesinghe expects Lankan rupee to appreciate further and reach 280 per dollar by June. Namal Karunaratna, a leading light of the NPP/JVP, states that rupee will start sliding soon, reaching 400-500 per dollar. He dismisses the rupee’s strong performance as a fluke caused by a recent spate of dollar loans.
+
+Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom in tourism and influx of foreign remittances. As some independent analysts have pointed out, the value of the rupee could fall in the second half of the year if vehicle imports are allowed. But the rupee would plunge to the depths of Karunaratne’s expectations only if the Wickremesinghe administration makes a Gotabaya-style error.
+
+...
+
+[Data](articles/9ac4c319.json)
+
+---
+
+### Fleas dream of buying a new dog
+
+*2024-05-07 23:00:43* · [`dailyftlk`](https://www.ft.lk/columns/Fleas-dream-of-buying-a-new-dog/4-761508) · `en`
+
+Up to this day, we are nowhere near a “broad social dialogue” or a “listening campaign for an inclusive economic recovery”
+
+In the unfolding saga of our sovereign default, three ‘economists’ who aren’t even faintly associated with power politics have made candid assessments of our debt predicament.
+
+In their own inimitable fashion, they have implored that we abandon ‘reckless fantasy’ and come to grips with real, brutal truth.
+
+Quite early on, Professor Premachandra Athukorala of the Australian National University produced a study “Sovereign Debt Crisis of Sri Lanka” – its causes, policy responses and prospects with Swarnim Wagle of the UNDP regional office Asia Pacific.
+
+“Sri Lanka is in the midst of an unfolding economic crisis, the depth of which is yet to be seen,” he prophesied in August 2022.
+
+...
+
+[Data](articles/57f6be6c.json)
 
 ---
 
@@ -2081,159 +2205,5 @@ Accordingly, the official reserve assets of $ 4.96 billion in March 2024 increas
 [Data](articles/66e48037.json)
 
 [Extended Data](ext_articles/66e48037.ext.json)
-
----
-
-### Adani Green signs 20-yr agreement for wind power stations in Sri Lanka
-
-*2024-05-07 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99063/adani-green-signs-20-yr-agreement-for-wind-power-stations-in-sri-lanka) · `en`
-
-Sri Lanka’s Cabinet of Ministers has approved a deal with Indian billionaire Gautam Adani’s renewable energy wing Adani Green to develop wind power stations in the country.
-
-Adani Green Energy will be developing wind power stations in Mannar and Poonerin in Sri Lanka. The Sri Lankan Cabinet has appointed a negotiation committee to evaluate the project proposal which was furnished by Adani Green.
-
-“Based on the recommendations of that Committee, the Cabinet of Ministers granted approval to the resolution forwarded by the Minister of Electricity and Power to accept the last price as USD $ 8.26 cents,” the government said.
-
-The renewable energy company got the approval in February 2023 to invest $442 million towards the development of the 484 megawatts wind power plants in the two areas located in Northern Sri Lanka.
-
-...
-
-[Data](articles/3cdd8844.json)
-
-[Extended Data](ext_articles/3cdd8844.ext.json)
-
----
-
-### Youth meets the missing youth while visiting girlfriend
-
-*2024-05-07 14:19:03* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතිය-බලන්න-ගොස්-සිටියදී-අතුරුදන්-තරුණයාගේ-සිරුර-හමුවෙයි/11-409473) · `si`
-
-Police found the body of a missing youth on April 22nd in Madampe, revealing he visited his girlfriend's house. Investigations led to the arrest of Kalbinna, who was found with Susath's body. Singumba Fernando is suspected of the youth's disappearance.
-
-🟩
-
-Police have found the body of the missing youth on April 22nd and was found in a jungle in the Madampe area.
-
-It has been revealed that the 31-year-old Susitha Jayawansa, a resident of Kuliyapitiya and Kuliyapitiya, who went to his girlfriend's house on April 22, has said.
-
-Investigations have revealed that the missing youth had gone to the house of the Seasuwella, the Vasagu, the Wassawulla Sidhats, the young man of her girlfriend's home. Several police teams have commenced investigations into various aspects.
-
-The body of the Kalbinna was arrested while investigating the investigation, and his body was found in the case of the body of Susath.
-
-Meanwhile, Singumba Fernando, allegedly released on suspicion of the youth's disappearance and he ordered the release of Rs.
-
-The magisterial inquiry into the investigation and the action will be taken.
-
-◼️
-
-[Data](articles/61a0b37c.json)
-
-[Extended Data](ext_articles/61a0b37c.ext.json)
-
----
-
-### Police obtain 72-hour detention order on ‘Manna Ramesh’
-
-*2024-05-07 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99062/police-obtain-72-hour-detention-order-on-manna-ramesh) · `en`
-
-A 72-hour detention order was obtained by police for Ramesh Priyajanaka alias ‘Manna Ramesh’ who was arrested in Dubai and brought to Sri Lanka this morning (07) by a team of CID officers, the police spokesman said.
-
-The order was issued following a request made by the Criminal Investigations Department (CID).
-
-Underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, was brought back to Sri Lanka this morning (07) from Dubai by a team of CID officers.
-
-Police spokesman DIG Nihal Thalduwa said the special team of CID officers accompanying the wanted underworld figure had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (07).
-
-On March 06, it was reported that Sri Lankan security forces had been informed that notorious underworld figure Ramesh Priyajanaka, alias ‘Manna Ramesh’, had been arrested in Dubai, UAE.
-
-...
-
-[Data](articles/1133afe7.json)
-
-[Extended Data](ext_articles/1133afe7.ext.json)
-
----
-
-### This year is just the presidential election
-
-*2024-05-07 14:09:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-ජනපතිවරණය--පමණයි/11-409472) · `si`
-
-Minister Prasanna Ranatunga denies a presidential election this year, claiming it's a local government election. Despite government circulars for decentralized funds, development projects are delayed, targeting the presidential election. The government refuses to allocate funds for MPs' development, causing confusion.
-
-🟩
-
-The Chief Government organizer, Minister Prasanna Ranatunga says there is no election this year, but this year's election.
-
-However, the Minister said that the government demands the government to hold the government to the local government election and the country will present a misconception to the country.
-
-Chief Government Whip, Minister Prasanna Ranatunga was responding as a matter of parliamentary MP Dayasiri Jayasekara.
-
-Kurunegala District Parliamentarian Dayasiri Jayasekara (The Sri PC) - Local government elections postponed. The government says he cannot give money. However, the government has issued a circular on 29.21.2012 under decentralized funds. According to Section 8.3, these development projects have been placed on July 31st.
-
-...
-
-[Data](articles/631c54ac.json)
-
-[Extended Data](ext_articles/631c54ac.ext.json)
-
----
-
-### Israeli military takes control of vital Rafah crossing from Gaza into Egypt
-
-*2024-05-07 14:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Israeli-military-takes-control-of-vital-Rafah-crossing-from-Gaza-into-Egypt/107-282097) · `en`
-
-RAFAH, Gaza Strip/CAIRO, May 7 - The Israeli military took control of the vital Rafah border crossing between Gaza and Egypt on Tuesday, pushing into the southern Gazan town after a night of air strikes and as prospects for a ceasefire deal hung in the balance.
-
-The Palestinian militant group Hamas said late on Monday it had agreed to a ceasefire proposal from mediators seven months into the war that has pushed more than a million Gazans into the south of the enclave.
-
-Israel said the terms did not meet its demands and launched a military operation in Rafah.
-
-Israeli tanks and planes pounded several areas and houses in Rafah overnight, killing 20 Palestinians and wounding several others in strikes that hit at least four houses, Palestinian health officials said.
-
-...
-
-[Data](articles/72de0953.json)
-
-[Extended Data](ext_articles/72de0953.ext.json)
-
----
-
-### Electricity disconnection in MP's house
-
-*2024-05-07 13:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-வீட்டில்-மின்சாரம்-துண்டிப்பு/175-336888) · `ta`
-
-Jagath Kumara Sumitrarachchi, a Colombo district member, reported in Parliament that his home's electricity was cut off without notice. He mentioned the need for 12 million rupees to restore power, but it's unclear how the power outage occurred. The Minister of Power and the Chief Electrical Inspector have been notified.
-
-🟩
-
-Colombo district member Jagath Kumara Sumitrarachchi said in Parliament on Tuesday (07) that the power supply was cut off at his home without any notice.
-
-12 ஆயிரம் ரூபாய் கட்டணத்தை வேண்டும் என்று கூறிய அவர், பாராளுமன்ற உறுப்பினர் வீட்டில் முன்னறிவிப்பின்றி  மின்சாரம் துண்டிக்கப்பட்டால், சாமானியர்களின் வீடுகளில் எப்படி மின்சாரம் துண்டிக்கப்படும் என்பதை நினைத்துப் பார்க்க முடியவில்லை என்றார்.
-
-இதன்போது பதிலளித்த மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர   அதற்காக வருந்துவதாக தெரிவித்துள்ளார்
-
-◼️
-
-[Data](articles/8267625d.json)
-
-[Extended Data](ext_articles/8267625d.ext.json)
-
----
-
-### Manna retains and interrogate
-
-*2024-05-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196368) · `si`
-
-Manna, a Dubai crime leader, has been detained for 14 days.
-
-🟩
-
-Ramesh Priyat, or Manna, is considered as a group of organized crime leader in Dubai, has retained 14 days.
-
-◼️
-
-[Data](articles/1c86208e.json)
-
-[Extended Data](ext_articles/1c86208e.ext.json)
 
 ---

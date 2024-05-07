@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 13:52:53**
+As of **2024-05-07 14:18:10**
 
 ## Newspaper Stats
 
-*Scraped **22,467** Articles*
+*Scraped **22,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,154 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,279
 dailyftlk | 1,307
-adalk | 1,884
-tamilmirrorlk | 2,615
-adaderanalk | 2,643
+adalk | 1,890
+tamilmirrorlk | 2,617
+adaderanalk | 2,645
 virakesarilk | 3,359
-dailymirrorlk | 3,518
-adaderanasinhalalk | 3,605
+dailymirrorlk | 3,522
+adaderanasinhalalk | 3,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,265 (99.1%) of 22,467 articles have been extended.
+22,301 (99.2%) of 22,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### எம்.பியின் வீட்டில் மின்சாரம் துண்டிப்பு
+
+*2024-05-07 13:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-வீட்டில்-மின்சாரம்-துண்டிப்பு/175-336888) · `ta`
+
+எவ்வித அறிவிப்பும் இன்றி தனது வீட்டில் மின்சாரம் துண்டிக்கப்பட்டதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கொழும்பு மாவட்ட உறுப்பினர்  ஜகத் குமார சுமித்ராராச்சி பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) தெரிவித்தார்.
+
+12 ஆயிரம் ரூபாய் கட்டணத்தை வேண்டும் என்று கூறிய அவர், பாராளுமன்ற உறுப்பினர் வீட்டில் முன்னறிவிப்பின்றி  மின்சாரம் துண்டிக்கப்பட்டால், சாமானியர்களின் வீடுகளில் எப்படி மின்சாரம் துண்டிக்கப்படும் என்பதை நினைத்துப் பார்க்க முடியவில்லை என்றார்.
+
+இதன்போது பதிலளித்த மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர   அதற்காக வருந்துவதாக தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/8267625d.json)
+
+---
+
+### Manna retains and interrogate
+
+*2024-05-07 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196368) · `si`
+
+Manna, a Dubai crime leader, has been detained for 14 days.
+
+🟩
+
+Ramesh Priyat, or Manna, is considered as a group of organized crime leader in Dubai, has retained 14 days.
+
+◼️
+
+[Data](articles/1c86208e.json)
+
+[Extended Data](ext_articles/1c86208e.ext.json)
+
+---
+
+### 45-year-old murdered by son-in-law with garden hoe
+
+*2024-05-07 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99061/45-year-old-murdered-by-son-in-law-with-garden-hoe) · `en`
+
+A 45-year-old resident of Sithamparapuram in Vavuniya, has been attacked to death with a garden hoe allegedly by his son-in-law after a dispute between then had escalated last evening (06), according to the police.
+
+The deceased, who had been living by himself after separating from his wife, had succumbed to his critical injuries after being attacked with a garden hoe by his son-in-law while the latter’s friend had also attacked the victim with a helmet.
+
+The victim’s body has been placed at the Vavuniya Hospital’s Mortuary, while the two suspects, aged 22 and 24, have been apprehended in connection with the incident, police said.
+
+◼️
+
+[Data](articles/3d93f6d8.json)
+
+---
+
+### The passenger who was traveling on the bus on Matale
+
+*2024-05-07 13:51:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாத்தளை-பஸ்ஸில்-பயணித்த-பயணி-மரணம்/76-336887) · `ta`
+
+A passenger from a Sri Lanka Transport Board bus traveling from Colombo to Matale died near Nittambuwa. The bus stopped for medical attention, but the passenger was already deceased. The body was taken to Watupitivala Base Hospital for further investigation.
+
+🟩
+
+Nitambuwa police say that a passenger from a bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Colombo to Matale has died.
+
+The bus, which belongs to the Dambulla Depot, was near Nittambuwa on Tuesday (07), when the bus stopped near the Nittambuwa police, when the passenger was sick in the back seat.
+
+When the medical officers who arrived in the ambulance were inspected, the patient was reportedly already dead and the body was intervened and the body was taken to the Watupitivala Base Hospital.
+
+Details of the dead old man have not been released. Nitambuwa police are investigating the incident.
+
+◼️
+
+[Data](articles/f3fcb378.json)
+
+[Extended Data](ext_articles/f3fcb378.ext.json)
+
+---
+
+### Two special teams assigned to investigate into collapse of concrete beam: RDA
+
+*2024-05-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-special-teams-assigned-to-investigate-into-collapse-of-concrete-beam-RDA/108-282094) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Road Development Authority (RDA) has assigned two special teams to carry out a comprehensive investigation into the collapse of a concrete beam in the first section of the Central Expressway project, the RDA Director General said.
+
+He said that through these inspections, these officials will quickly check the current condition of all the concrete beams constructed along the Central Expressway Project Part I and apply the necessary remedies.
+
+"This will ensure that the expressway is built to the required standards and conditions and that full supervision and follow-up are carried out on a regular basis to maintain it safely. Since this section of the highway is currently under construction, the road construction contractor has to bear the financial loss incurred for this purpose," the Director General said.
+
+...
+
+[Data](articles/09130027.json)
+
+[Extended Data](ext_articles/09130027.ext.json)
+
+---
+
+### Body of missing youth from Kuliyapitiya found in Madampe
+
+*2024-05-07 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99060/body-of-missing-youth-from-kuliyapitiya-found-in-madampe) · `en`
+
+Police said the body of the youth from Kuliyapitiya who went missing on April 22 after visiting the home of his girlfriend, has been discovered in the Madampe area.
+
+The body of the youth has been found torched and dumped in a forest area in Madampe this morning (07), police said. It has been confirmed that the youth had been murdered.
+
+Police had launched an investigation after the disappearance of the youth, Susitha Jayawansa, 31, a resident of Kabalewa area in Kuliyapitiya, was reported on April 22 and he was last seen visiting his girlfriend’s house following a phone call received from her father.
+
+Police said that it was later uncovered that the youth had been assaulted by his girlfriend’s father, and two other individuals identified as masons.
+
+Accordingly, the two masons who were later arrested had confessed to the police that the father of the girl had said that the youth in question should be taken to the house of a former Provincial Council member living in the area.
+
+...
+
+[Data](articles/1de31b59.json)
+
+---
+
+### Over Rs. 01 bn swindled through online scams; CB fails to take action: MP
+
+*2024-05-07 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-Rs-01-bn-swindled-through-online-scams-CB-fails-to-take-action-MP/108-282093) · `en`
+
+Parliament, May 07 (Daily Mirror)- The Central Bank of Sri Lanka (CBSL) has failed to act swiftly to stop financial scams operating online, allowing fraudsters to swindle about one billion rupees from over 1,000 account holders, Parliamentarian Gamini Waleboda said today.
+
+The MP told Parliament that on April 25 he had revealed in Parliament that a scam was being operated online to transfer money from current and savings accounts to other accounts using mobile apps and that neither the Central Bank nor the Finance Ministry had taken any steps regarding the scam so far.
+
+He said the CBSL had only issued a notice to the public on the scam yesterday.
+
+The MP said money from accounts had been transferred to a local private bank and then some of that money had been converted into crypto currency and taken out of the country.
+
+...
+
+[Data](articles/3ae2a68c.json)
+
+[Extended Data](ext_articles/3ae2a68c.ext.json)
+
+---
 
 ### Town Hall blocked due to university non-academic workers’ protest
 
@@ -43,6 +175,32 @@ They said about 5,000 non-academic workers have gathered in front of the UGC ove
 ◼️
 
 [Data](articles/75900485.json)
+
+[Extended Data](ext_articles/75900485.ext.json)
+
+---
+
+### Body of youth who went missing while visiting girlfriend found
+
+*2024-05-07 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Body-of-youth-who-went-missing-while-visiting-girlfriend-found/108-282092) · `en`
+
+Colombo, May 7 (Daily Mirror) - The body of a youth from Kuliyapitiya, who had gone missing a few days ago while visiting his girlfriend’s house, has been recovered in the Panirendawa area of Madampe, the police said.
+
+Police Spokesman DIG Nihal Thalduwa said the body was found in a forest in the area.
+
+On April 22, police launched investigations based on information that the youth had gone missing in the Ilukhena area in Kuliyapitiya
+
+Susita Jayawansha, a resident of the Kaballewa area in Kuliyapitiya, was last seen visiting his girlfriend’s house following a phone call from her father.
+
+Police revealed that it was later discovered that the youth had been assaulted by his girlfriend’s father and two other individuals identified as masons.
+
+Accordingly, the two masons who were arrested later confessed to the police that the father of the girl had instructed them to take the youth in question to the house of a former Provincial Council member living in the area.
+
+...
+
+[Data](articles/2973c6a5.json)
+
+[Extended Data](ext_articles/2973c6a5.ext.json)
 
 ---
 
@@ -66,6 +224,8 @@ Accordingly, the two masons who were arrested later confessed to the police that
 
 [Data](articles/84a90198.json)
 
+[Extended Data](ext_articles/84a90198.ext.json)
+
 ---
 
 ### CB officials to be summoned before Parliament for declaring independence
@@ -85,6 +245,8 @@ MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds 
 ◼️
 
 [Data](articles/c781e2e6.json)
+
+[Extended Data](ext_articles/c781e2e6.ext.json)
 
 ---
 
@@ -112,6 +274,24 @@ Q. When you invest this, the opposition accuses the sale of this movement.
 
 ---
 
+### රැවුල් කුමාරගේ කුඩු අපුරටම බෙදූ හූරිගස්වැව අක්කා අල්ලයි
+
+*2024-05-07 13:09:46* · [`adalk`](https://www.ada.lk/breaking_news/රැවුල්-කුමාරගේ-කුඩු-අපුරටම-බෙදූ-හූරිගස්වැව-අක්කා-අල්ලයි/11-409469) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන, දැනට බූස්ස බන්ධනාගාරයේ අධි ආරක්ෂිත කලාපයේ සිර කුටියක රදවා සිටින, "රැවුල් කුමාර" නැමැත්තාගේ මත් කුඩු අනුරාධපුර දිස්ත්‍රික්කය තුල තොග වශයෙන් බෙදා හරිමින් සිටි කාන්තාවක්, රුපියල් කෝටියකට ආසන්න හෙරොයින්  මත්කුඩු තොගයක් සමග ඊයේ (7දා) අත්අඩංගුවට ගත් බව අනුරාධපුර කොට්ඨාස අපරාධ විමර්ශන අංශය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ හුරිගස්වැව  පොලිස් වසමේ පදිංචි 36 හැවිරිදි  කාන්තාවකි.
+
+පසුගිය වසරක පමණ කාලය තුල මෙම රැවුල් කුමාර නැමැති සැකකරුගේ මත්කුඩු අනුරාධපුර දිස්ත්‍රික්කයේ බෙදා හරිමින් සිටි කාන්තාවන් ඇතුළුව පුද්ගලයන් 16 දෙනෙකු  රුපියල් කෝටි දෙකකට වැඩි හෙරොයින් මත්කුඩු සහ අයිස් මත්ද්‍රව්‍ය සමග මේ දක්වා කාලය තුල අත්අඩංගුවට ගෙන ඇති බවද අනුරාධපුර කොට්ඨාස අපරාධ අංශයේ  බුද්ධි ඒකකය  සඳහන් කළේය.
+
+මත්ද්‍රව්‍ය චෝදනා සම්බන්ධයෙන් මීට දින කිහිපයකට පෙර අත්අඩංගුවට ගත් පුද්ගලයෙකු අධිකරණයට  ඉදිරිපත් කර රැඳවුම් නියෝග ලබා ගෙන රම සැකකරුගෙන්  සිදු කල වැඩි දුර ප්‍රශ්න කිරීම් වලදී "හුරිගස්වැව අක්කා" නමින් ප්‍රචලිත මෙම කාන්තාව අත්අඩංගුවට ගත් බව පොලිසිය පවසයි.
+
+...
+
+[Data](articles/e47b4f51.json)
+
+---
+
 ### Town Hall blocked due to university non-academic workers’ protest
 
 *2024-05-07 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Town-Hall-blocked-due-to-university-non-academic-workers-protest/108-282090) · `en`
@@ -123,6 +303,8 @@ They said about 5,000 non-academic workers have gathered in front of the UGC ove
 ◼️
 
 [Data](articles/d8c553e1.json)
+
+[Extended Data](ext_articles/d8c553e1.ext.json)
 
 ---
 
@@ -192,6 +374,24 @@ According to the complaint, the police have said that they have found the race a
 
 ---
 
+### දැනුම් දිමකින් තොරව විදුලිය විසන්ධි කිරිම ගැන පරික්ෂණයක්
+
+*2024-05-07 12:50:43* · [`adalk`](https://www.ada.lk/breaking_news/දැනුම්-දිමකින්-තොරව-විදුලිය-විසන්ධි-කිරිම-ගැන-පරික්ෂණයක්/11-409468) · `si`
+
+දැනුම්දීමකින් තොරව විදුලිය විසන්ධි කිරීම සම්බන්ධයෙන් විදුලිබල මණ්ඩලය පරීක්ෂණයක් පවත්වන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+එහිදී රජය අපහසුතාවට පත් කිරීමට සංවිධානාත්මකව පිරිසක් කටයුතු කරන්නේද නැද්ද යන්න පිළිබඳ සොයා බලන බව අද (07දා) පාර්ලිමේන්තුවේදී වාචික පිළිතුරැ අපේක්ෂාවෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉදුනිල් මහතා යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම සඳහන් කළේය.
+
+මේ අතර දැනුම්දීමකින් තොරව පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර මහතාගේ නිවසේ ද විදුලිය විසන්දි කිරීමට කටයුතු කර ඇති බවද මෙහිදී අනාවරණය විය.
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉදුනිල් - විදුලි බිල ගෙවා ගැනීමට අපහසු පාරිභෝගිකයින්ගේ විදුලිය කප්පාදුවක් මේ දින වල ඉතාමත් යහමින් සිදු වෙනවා. වෙනත් පෞද්ගලික කණ්ඩායමකට භාර දීලා, ඔවුන්ට කොමිස් මුදලක් ගෙවලා ඔවුන් විදුලිය විසන්ඳි කරගෙන යනවා.
+
+...
+
+[Data](articles/8aab35ce.json)
+
+---
+
 ### Heat of up to 5 people in Jaffna - medical experts
 
 *2024-05-07 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/182880) · `ta`
@@ -240,6 +440,22 @@ Before the toss, Shakib was having a chat with head coach Sheikh Salahuddin and 
 
 ---
 
+### කෝටියක වත්කම් සමග මුදල් විශුද්ධිකරණය කළ සැකකරුවෙක් අල්ලයි
+
+*2024-05-07 12:44:35* · [`adalk`](https://www.ada.lk/breaking_news/කෝටියක-වත්කම්-සමග-මුදල්-විශුද්ධිකරණය-කළ-සැකකරුවෙක්-අල්ලයි/11-409467) · `si`
+
+නීති විරෝධී ජාවාරම්වලින් උපයා ගත්, මුදලින් ලබාගත් රුපියල් ලක්ෂ සීයක් වටිනා වාහන කීපයක් ළඟ තබාගෙන සිටි පුද්ගලයකු මුදල් විශුද්ධිකරණය පනත යටතේ හිඟුරක්ගොඩ උල්පත්ගම ප්‍රදේශයේදී 06 වෙනිදා අත්අඩංගුවට ගත් බව පොළොන්නරුව කොට්ඨාශ අපරාධ විමර්ශන අංශය සඳහන් කරයි.
+
+සැකකරු සතුව තිබූ අධි සුඛෝපභෝගී වෑන් රථයක්, ත්‍රීරෝද රථයක් සහ යතුරුපැදි කිහිපයක් අත්අඩංගුවට ගැනීමට හැකියාව ලැබුණු බව පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක ඒ.ටී. බණ්ඩාර මහතා අප කල විමසීයකදී සඳහන් කළේය.
+
+මෙම සැකකරු හිඟුරක්ගොඩ උල්පත්ගම ප්‍රදේශයේ පදිංචි අවුරුදු තිස්න නමයක් වයසක අයකුවන අතර ඔහු සතුව ගංජා කිලෝග්‍රෑම් 01 ග්‍රෑම් 50 ළඟ තබාගෙන සිටියදී හිඟුරක්ගොඩ පොලිසිය මගින් අත්අඩංගෙන හිඟුරක්ගොඩ මහේස්ත්‍රාත් අධිකරණයේ නඩුවක් පැවරූ අයකු බවද ඒ පිළිබඳ පරීක්ෂණ කරන කොට්ඨාශ අපරාධ විමර්ශන අංශය පවසයි.
+
+...
+
+[Data](articles/b35b2a16.json)
+
+---
+
 ### I killed my mother;The boy's confession
 
 *2024-05-07 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானே-அம்மாவை-கொலை-செய்தேன்-சிறுவன்-வாக்குமூலம்/175-336884) · `ta`
@@ -267,6 +483,56 @@ It is noteworthy that the police are conducting further investigations.
 [Data](articles/ff8ca56d.json)
 
 [Extended Data](ext_articles/ff8ca56d.ext.json)
+
+---
+
+### කෝටි 19 මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් තවත් කෝටි 2 ක් වටිනා වාහන තුනක් සොයා ගැනේ
+
+*2024-05-07 12:33:46* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-19-මත්ද්‍රව්‍ය-ජාවාරම-සම්බන්ධයෙන්-තවත්-කෝටි-2-ක්-වටිනා-වාහන-තුනක්-සොයා-ගැනේ/11-409466) · `si`
+
+කඩුවෙල බෝමිරිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් රුපියල් කෝටි 19 ක පමණ වටිනාකමකින් යුත් මත්ද්‍රව්‍ය  ජාවාරම සම්බන්ධයෙන් රැදවුම් නියෝග මත සිටි සැකකරු ගෙන් වැඩිදුර ප්‍රශ්න කිරීමේදී රුපියල් කෝටි දෙකක් පමණ වටිනා තවත් වාහන තුනක් සෙනසුරාදා (04)සොයා ගැනීමට බියගම පොලීසියට හැකිවී ඇත.
+
+මෙලෙස සොයා ගෙන තිබුණේ සුඛෝපභෝගී බස්රථයක්, හා නවීන පන්නයේ මෝටර් රථ දෙකකි.මෙම වාහන ගනේමුල්ල ප්‍රදේශයේ කුලී ගමන් සදහා වාහන සපයන ආයතනයකට සේවා කටයුතු සදහා යොදවා තිබියදී පොලිසිය සොයාගෙන ඇත.
+
+මෙම වාහන දැනට සැගවී සිටින කෝටි 19 මත්ජාද්‍රව්‍ය ජාවාරමේ ප්‍රධාන සැකකරු වන දැනට සැගවී සිටින මත්ද්‍රව්‍ය ජාවාරම්කරු ගේ බිරිඳට අයත් බවට තොරතුරු අනාවරණය වීඇත.
+
+අත්අඩංගුවට ගෙන රැදවුම් නියෝග මත සිටි සැකකරු ගෙන් ප්‍රශ්න කිරීමේදී මින් පෙරද පෙජරෝ වර්ගයේ ජීප් රථයක් හා ස්කූටි වර්ගයේ යතුරු පැදි දෙකක් ද පොලීසිය සොයා ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/d6f9dff6.json)
+
+---
+
+### මාකඳුරේ මධූෂ්ගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවූ දෙන්නෙක්
+
+*2024-05-07 12:31:55* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මධූෂ්ගේ-මත්ද්‍රව්‍ය-ජාලය-මෙහෙයවූ-දෙන්නෙක්/11-409465) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන මියගිය මාකඳුරේ මධුෂ්ගේ මත්ද්‍රව්‍ය ජාලය මෙරට මෙහෙයවන බව පැවසෙන වතුපිටිය පතිරනගේ දමිත් ප්‍රභාෂිත අත්තනායක හෙවත් මාකොළ සුද්දා ඇතුළු දෙදෙනෙකු එක්කොටි හතලිස් ලක්ෂයක අයිස් මත් ද්‍රව්‍ය තොගයක් සමග අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය පවසයි.
+
+ඒ සමග මත්ද්‍රව්‍ය ජාවාරමේන් උපයා ගත් බවට් සැක ජෙරෙන රුපියල් 8,400.00 , ඩිජිටල් තරාදියක්, ජංගම දුරකථන 05 , මුදල් ගනුදෙණු සටහන් පොතක්ද ,හා සැකකරුවන් දෙදෙනා සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ එකයි ග්‍රෑම් 22 මිලිග්‍රෑම් 650 පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/6c4802e5.json)
+
+---
+
+### Organised group disconnecting power supplies to embarrass government: Kanchana
+
+*2024-05-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Organised-group-disconnecting-power-supplies-to-embarrass-government-Kanchana/108-282086) · `en`
+
+Parliament, May 07 (Daily Mirror)- An organised group is operating to disconnect the power supplies of electricity consumers who had defaulted in paying their bills to disrepute and embarrass the government, Power and Energy Minister Kanchana Wijesekara said today.
+
+He told Parliament that the Ceylon Electricity Board (CEB) has launched an investigation into the matter.
+
+The Minister said this while responding to a question raised by SJB MP Thushara Indunil about the power disconnections.
+
+Minister Wijesekara said there was a proper procedure for power disconnections and added that disciplinary action will be taken against officials who fail to adopt the due procedures.
+
+...
+
+[Data](articles/648aefc3.json)
 
 ---
 
@@ -859,6 +1125,22 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 [Data](articles/af86f6ef.json)
 
 [Extended Data](ext_articles/af86f6ef.ext.json)
+
+---
+
+### මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරි වෙඩි තබා මරා දැමීම සදහා ඔත්තු බැලූ අයෙක් අත්අඩංගුවට
+
+*2024-05-07 11:01:35* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-පරීක්ෂකවරුන්ගේ-සංගමයේ-භාණ්ඩාගාරි-වෙඩි-තබා-මරා-දැමීම-සදහා-ඔත්තු-බැලූ-අයෙක්-අත්අඩංගුවට/11-409464) · `si`
+
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා වෙඩි තබා මරා දැමීම ඇතුළු තවත් මිනීමැරුම් ගනනාවක් සදහා පොලිස් විමර්ශන සදහා  අවශ්‍යව  සිටි ඇල්පිටිය ප්‍රදේශයේ පදිංචිකරුවෙකු වෙනත් නමකින් කූඨ ලෙස  සකස් කර ගත් ව්‍යාජ ගමන් බලපත්‍රයක් උපයෝගී කර ගනිමින් ඩුබායි බලා පළා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී , ස්වයංක්‍රීය මුහුණු හදුනා ගැනීමේ පද්ධතිය  ( Facial Recognition System ) මගින් හදුනා ගැනීමෙන් පසුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් 05/06 දින රාත්‍රී  අත් අඩංගුවට ගෙන තිබේ .
+
+ඔහු ඇල්පිටිය , කරන්දෙණිය ප්‍රදේශයේ පදිංචි 30 හැවිරිදි පුද්ගලයෙකි. ඔහු කළක් ශ්‍රී ලංකා යුධ හමුදාවේ කොමාන්ඩෝ රෙජිමේන්තුවේ සේවය කර , එය හැර ගිය අයෙකි .
+
+මොහු මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා වෙඩි තබා මරා දැමීම සදහා ඔත්තු බැලූ බවට පොලිසිය විසින් කරුණු අනාවරණය කර ගෙන තිබේ . (IJ)
+
+◼️
+
+[Data](articles/5ad19122.json)
 
 ---
 
@@ -1999,331 +2281,5 @@ This was the first time that Sri Lanka had officially participated in the Hannov
 [Data](articles/d1270081.json)
 
 [Extended Data](ext_articles/d1270081.ext.json)
-
----
-
-### Lalkantha drops bombshell with village rule announcement
-
-*2024-05-07 04:39:07* · [`dailyftlk`](https://www.ft.lk/news/Lalkantha-drops-bombshell-with-village-rule-announcement/56-761472) · `en`
-
-NPP Executive Council member K.D. Lalkantha declares party will provide mechanism for public to create and enforce laws at local levels
-
-Highlights unequal application of laws, noting separate standards for public and VIPs
-
-Says NPP will take steps to introduce direct democracy in addition to representative democracy
-
-National People’s Power (NPP) party Executive Council member K.D. Lalkantha’s declaration to devolve legislative and judicial authority to local levels, has stirred significant debate within political circles. The statement  by Lalkantha, which has sparked widespread controversy, was made during the party’s May Day rally held in Anuradhapura.
-
-In his address, Lalkantha declared that under a future NPP Government, villages would be empowered with the ability to create and enforce their own laws.
-
-“We will provide the power or create a mechanism for your village to formulate laws. We will provide your village with the power to enforce these laws or judicial powers,” he said.
-
-...
-
-[Data](articles/0cc03ae4.json)
-
-[Extended Data](ext_articles/0cc03ae4.ext.json)
-
----
-
-### Harin denies resignation rumours amid visa fee controversy in Cabinet
-
-*2024-05-07 04:37:48* · [`dailyftlk`](https://www.ft.lk/news/Harin-denies-resignation-rumours-amid-visa-fee-controversy-in-Cabinet/56-761471) · `en`
-
-Tourism Minister Harin Fernando last night refuted claims of his resignation dismissing a circulating letter as false.
-
-Responding to the viral resignation letter on social media, Fernando clarified that while he did express intentions in the Cabinet regarding his dissatisfaction with the decision to increase visa fees, the letter in circulation was fabricated.
-
-“Letter circulating is not true even though I mentioned my intentions in Cabinet, of not wanting to be a part of the decision to increase any visa fees. Date of the letter is also one month ago,” he noted via ‘X’.
-
-Fernando expressed discontent with the new visa processing system, particularly highlighting his objection to the $ 18.5 service fee charged by VFS Global. “It is not surprising that the Opposition leader wants to pin this on me rather than on the line ministry, which implemented this system while we were finalising the proposal for free visas for over 50 countries,” he noted.
-
-...
-
-[Data](articles/e098f888.json)
-
-[Extended Data](ext_articles/e098f888.ext.json)
-
----
-
-### Alles denies allegations of VFS Global’s election contribution
-
-*2024-05-07 04:36:24* · [`dailyftlk`](https://www.ft.lk/news/Alles-denies-allegations-of-VFS-Global-s-election-contribution/56-761470) · `en`
-
-Public Security Minister Tiran Alles yesterday vehemently refuted claims suggesting that VFS Global had made a $ 10 million campaign contribution for upcoming elections.
-
-Addressing reporters yesterday, Minister Alles dismissed the allegations as baseless and untrue.
-
-“I saw something that VFS had given $ 10 million for President Wickremesinghe’s election campaign,” Minister Alles stated.
-
-His remarks come in response to recent allegations made by Opposition leader Sajith Premadasa, who, through a post on ‘X’ on 4 May suggested that the only logical explanation is absolute corruption for the visa deal.
-
-“I also saw today that Sajith Premadasa had demanded money to stop talking about it. These are both wrong. Doing these things will not help the country. I am asking to tell the truth to educate the public. I do not take even 5 cents from anyone. The people in the country know that,” Alles affirmed.
-
-...
-
-[Data](articles/82abd0b5.json)
-
-[Extended Data](ext_articles/82abd0b5.ext.json)
-
----
-
-### Concerns emerge on unauthorised players entering local lubricant sector
-
-*2024-05-07 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-emerge-on-unauthorised-players-entering-local-lubricant-sector/108-282061) · `en`
-
-While Sri Lanka’s petroleum industry awaits the establishment of a new regulator, concerns are being raised about the potential for unauthorised players to enter the market, particularly in the lubricant sector.
-
-The previous regulatory body, the Public Utilities Commission of Sri Lanka (PUCSL), ceased its activities in market monitoring, consumer and trade education, import inspection and action against unauthorised operators and product adulterators.
-
-As per the Energy Ministry directive, the lubricant licence fees that were previously paid to the PUCSL are now to be paid directly to the ministry.
-
-An entity expressing concerns in this regard is Chevron Lubricants Lanka PLC.
-
-“With this development, there is a risk that the vacuum could result in a proliferation of unauthorised players and product adulterators, which would be detrimental to the licensed players, consumers and government, in terms of loss of revenue,” said its MD/CEO Bertram Paul in the company’s annual report.
-
-...
-
-[Data](articles/85abde1a.json)
-
-[Extended Data](ext_articles/85abde1a.ext.json)
-
----
-
-### Valuing Japan’s Moral Ethos & Economic Assistance
-
-*2024-05-07 01:30:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/valuing-japans-moral-ethos-economic-assistance/) · `en`
-
-The visit of Japan’s foreign minister Yoko Kamikawa to Sri Lanka is an indication that the relationship between the two countries is on the mend. The manner in which Japan was ousted from the special status it had once held by the previous government headed by President Gotabaya Rajapaksa would have caused much heartburn. Japan was, for several decades, Sri Lanka’s biggest economic benefactor providing both outright grants and subsidized loans for a range of infrastructure and economic development projects. The cancellation of the light rail transit project, which Japan had offered on very concessional terms, was an example of both political churlishness and economic foolhardiness for which Sri Lankans have had to pay a very heavy price.
-
-...
-
-[Data](articles/a425362c.json)
-
-[Extended Data](ext_articles/a425362c.ext.json)
-
----
-
-### The flag was worn for the president
-
-*2024-05-07 00:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஜனாதிபதிக்கு-கொடி-அணிவிக்கப்பட்டது/46-336867) · `ta`
-
-The National Veterans Flag was presented to the President by the Ranaviru Seva Authority Chairman, Nishantha Manage, to mark May as a Veterans' commemoration month. This honors soldiers who sacrificed their lives for the country's integrity and against terrorism.
-
-🟩
-
-The National Veterans Flag was held yesterday at the President's Office at the Presidential Office to declare the month of the Veterans celebration.
-
-The Ranaviru Seva Authority Chairman of the Retired General Nishantha Manage was wore to the President of the Veterans Flag.
-
-During the three decades of war, May was declared as a commemoration month for the soldiers who sacrificed their lives for the integrity of the country.
-
-In the fight against brutal terrorism, a large number of soldiers of the armed forces sacrificed their lives for the country and a large number of soldiers were injured. In the first week of May every year, the commander of the Armed Forces begins with the National Veterans Flag to the Hon.. (A)
-
-◼️
-
-[Data](articles/d15392ef.json)
-
-[Extended Data](ext_articles/d15392ef.ext.json)
-
----
-
-### Massive fire in the garbage warehouse
-
-*2024-05-07 00:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குப்பைக்-கிடங்கில்-பாரிய-தீ/175-336866) · `ta`
-
-A massive fire broke out in the Nallur Pradeshiya Sabha's garbage warehouse in Jaffna, causing significant damage. Firefighters from the Jaffna Municipal Council are struggling to control the blaze.
-
-🟩
-
-A fire broke out last night in the garbage warehouse in the ruling of the Nallur Pradeshiya Sabha in Jaffna.
-
-A massive fire broke out in the garbage warehouse of the Nallur Pradeshiya Sabha located in Karaikal.
-
-Firefighters of the Jaffna Municipal Council have long tried to control the sudden fire. Nevertheless, a massive fire caused a heavy fire due to the prevailing heat.
-
-From the time the fire spread, the Secretary of the Pradeshiya Sabha, Jelipan and many of the Pradeshiya Sabha staff stood at the scene and tried to control it.
-
-Meanwhile, a massive fire broke out in the garbage warehouse two years ago. (A)
-
-◼️
-
-[Data](articles/7a6ff89c.json)
-
-[Extended Data](ext_articles/7a6ff89c.ext.json)
-
----
-
-### Exam results at the end of September
-
-*2024-05-07 00:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செப்டம்பர்-இறுதியில்-பரீட்சை-பெறுபேறுகள்/175-336865) · `ta`
-
-The GCE Ordinary Level Examination for 2023/2024 results will be released at the end of September. The exam began yesterday and will continue until the 15th. Out of 3,527 centers, 405,297 candidates are participating this year.
-
-🟩
-
-The GCE Ordinary Level Examination for 2023/2024 will be released at the end of September.
-
-The GCE Ordinary Level Examination for 2023 began yesterday. The exam will be held until the 15th of this month.
-
-Of the 3 thousand 527 exam centers set up across the country, 4 lakhs 52 thousand 979 candidates are looking for the exam this year.. (A)
-
-◼️
-
-[Data](articles/a97662f8.json)
-
-[Extended Data](ext_articles/a97662f8.ext.json)
-
----
-
-### 1,542 families affected by drought
-
-*2024-05-07 00:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வறட்சியால்-1-542-குடும்பங்கள்-பாதிப்பு/175-336864) · `ta`
-
-Drought affects 1,542 families, impacting 4,982 people across Kegalle, Kilinochchi, and Trincomalee districts. Kegalle is most affected, with 2,702 people from 646 families impacted.
-
-🟩
-
-Four thousand 982 people from 3 districts have been affected due to the prevailing drought in the country, the Disaster Management Center said.
-
-This was stated in a statement issued yesterday by the Disaster Management Center.
-
-Accordingly, 4 thousand 982 people from 542 families have been affected in Kegalle, Kilinochchi and Trincomalee districts.
-
-Most people in Kegalle district have been affected. Two thousand 702 people from 646 families have been affected in the sections of Varakapola, Ruwanwella, Yattiyantottai, Teraniyagala, Tehiyovitta, Kaligamuwa and Kegalle.
-
-Meanwhile, 464 families in Trincomalee district and 432 families in Kilinochchi district have been affected by the drought.. (A)
-
-◼️
-
-[Data](articles/158a6951.json)
-
-[Extended Data](ext_articles/158a6951.ext.json)
-
----
-
-### US House passes anti-Semitism curbing Bill as university students turn against Israel
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/US-House-passes-anti-Semitism-curbing-Bill-as-university-students-turn-against-Israel/172-282042) · `en`
-
-The United States House of Representatives has overwhelmingly passed a Bill that would expand the definition of anti-Semitism (anti-Jew). The Bill was passed when university students across the US had risen to condemn Israel’s genocide in Gaza. It now goes to the Senate for consideration.
-
-When it becomes law, the “Anti-Semitism Awareness Bill” would allow the US Federal Department of Education to restrict funding and other resources to campuses perceived as tolerating anti-Semitism.
-
-The law would mandate government civil rights offices to adopt the International Holocaust Remembrance Alliance’s (IHRA’s) definition of anti-Semitism.
-
-But the definition has also drawn criticism because most of its examples of anti-Semitism involve criticism of Israel, including calling it a “racist endeavour or a racist project.”
-
-...
-
-[Data](articles/06d37f57.json)
-
-[Extended Data](ext_articles/06d37f57.ext.json)
-
----
-
-### VFS gears up to promote Sri Lanka amid visa woes
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VFS-gears-up-to-promote-Sri-Lanka-amid-visa-woes/108-282063) · `en`
-
-Sri Lanka Tourism confirms no such discussion has taken place as yet
-
-VFS says SL tourism promotion will be “comprehensively carried out through new eVisa platform”
-
-VFS Global, which is currently facing a backlash, vows to boost Sri Lanka’s global image through a robust marketing plan with Sri Lanka Tourism. However, the details remain under wraps from the tourism authorities, Mirror Business learns.
-
-The objective of the promotion is to achieve growth in inbound arrivals from the source markets, utilising its global network, as per the vision of the government to achieve five million tourist arrivals in Sri Lanka, VFS Global said in a statement to the media that ran six pages, consisting of details regarding its operations and plans in the island nation.
-
-When Mirror Business reached out to the Sri Lanka Tourism Development Authority (SLTDA) for clarity in this regard, Chairman Priantha Fernando said neither the institution nor the Tourism Promotions Bureau is aware of any such plans.
-
-...
-
-[Data](articles/093129a1.json)
-
-[Extended Data](ext_articles/093129a1.ext.json)
-
----
-
-### Collective resolve of regional and international actors, a glimmer of hope for Afghans - Air Chief Marshal Bulathsinghala
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Collective-resolve-of-regional-and-international-actors-a-glimmer-of-hope-for-Afghans-Air-Chief-Marshal-Bulathsinghala/172-282040) · `en`
-
-Afghanistan has been in deep political divisions, structural governance  challenges, and economic insecurity to impede durable peace and  development progress for years. The interruption of the fragile peace  talks with the Taliban and the withdrawal of the NATO troops have  created more uncertainty for Afghanistan. The power shift made on 15th  August 2021 has complicated the matter further to a very higher  proportion
-
-The United Nations Assistance Mission in Afghanistan (UNAMA) is a  political UN mission established to assist the people of Afghanistan in  laying the foundations for sustainable peace and development. United  Nations Security Council Resolution 1401 established UNAMA on March 28,  2002. Its original mandate was to support the Bonn Agreement of December  2001
-
-...
-
-[Data](articles/2cddfcb8.json)
-
-[Extended Data](ext_articles/2cddfcb8.ext.json)
-
----
-
-### Press freedom, a boon for economic recovery
-
-*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Press-freedom-a-boon-for-economic-recovery/172-282041) · `en`
-
-Sri Lanka ranked 150 out of 180 countries in the 2024 Edition of the Press Freedom Index, published annually by Reporters Without Borders (Reporters Sans Frontiers - RSF) is a remarkable drop of 15 positions from 135 to 150 when compared to 2023.
-
-However, Sri Lanka has been ranked higher than India, Pakistan and Bangladesh. India is ranked 159th, Pakistan 152nd and Bangladesh 165th. Norway is ranked in the top position and Eritrea  in the last position. The RSF’s ranking is based on five indicators such as political context, legal framework, economic context, socio-cultural context and safety of journalists.
-
-Sri Lankan authorities might still argue that media freedom in the country is above what prevails in the neighbouring countries and also they might find gaps in the index citing the fact that one of the criteria for Sri Lanka’s ranking in the index is the unresolved issues that have occurred during the separatist war which ended 15 years ago.
-
-...
-
-[Data](articles/5b63852c.json)
-
-[Extended Data](ext_articles/5b63852c.ext.json)
-
----
-
-### 2024-05-06 (Monday)
-
-### Appointment for Grama Niladhari Tomorrow
-
-*2024-05-06 23:45:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-சேவையாளர்களுக்கான-நியமனம்-நாளை/175-336863) · `ta`
-
-Grama Niladhari Grade 3 appointments tomorrow, based on new recruitment list released on MOHA website. 1,942 applicants qualified for quarterly training. Appointments led by Home Affairs Minister Asoka Priyantha, President Ranil Wickremesinghe, and Prime Minister Dinesh Gunawardena at 10.30 am.
-
-🟩
-
-The new recruitment list for Grama Niladhari Grade 3 was released yesterday on the official website of the Ministry of Home Affairs.
-
-The list of 1,942 applicants who qualified for quarterly training has been released on the basis of the results of the Grama Niladhari Grade 3, Examination and Interview.
-
-The list has been released on the official website of the Ministry of Home Affairs, www.moha.gov.lk.
-
-Accordingly, these appointments will be made with the participation of Home Affairs Minister Asoka Priyantha, led by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena at 10.30 am tomorrow at 10.30 am.(a)
-
-◼️
-
-[Data](articles/7c6483f0.json)
-
-[Extended Data](ext_articles/7c6483f0.ext.json)
-
----
-
-### Instant solution to the visa issue - Sanathjayasuriya
-
-*2024-05-06 23:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-பிரச்சினைக்கு-உடனடி-தீர்வை-காண-வேண்டும்-சனத்ஜெயசூரிய/175-336862) · `ta`
-
-Sanathjayasuriya, former Sri Lankan cricket captain, calls for immediate visa issue resolution, highlighting the positive impact of tourism and the need for compassionate visa procedures.
-
-🟩
-
-Former Sri Lankan cricket captain Sanathjayasuriya has appealed for immediate solution to visa issues.
-
-“Many Sri Lankans and I have flourished the tourism industry without expecting any of the money laundering.
-
-I have noticed that tourist people have issued many compassion on new visa procedures.
-
-I urge all those involved in this issue to find a solution to the issue as soon as possible. ”. Remble
-
-◼️
-
-[Data](articles/76f55170.json)
-
-[Extended Data](ext_articles/76f55170.ext.json)
 
 ---

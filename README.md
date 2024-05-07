@@ -1,40 +1,58 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 13:18:09**
+As of **2024-05-07 13:33:59**
 
 ## Newspaper Stats
 
-*Scraped **22,457** Articles*
+*Scraped **22,463** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 198
-bbccomsinhala | 235
+bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,279
 dailyftlk | 1,307
 adalk | 1,884
-tamilmirrorlk | 2,614
+tamilmirrorlk | 2,615
 adaderanalk | 2,643
 virakesarilk | 3,359
-dailymirrorlk | 3,511
-adaderanasinhalalk | 3,604
+dailymirrorlk | 3,514
+adaderanasinhalalk | 3,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,237 (99.0%) of 22,457 articles have been extended.
+22,256 (99.1%) of 22,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
+### ලිට්‍රෝ ලොකු වැඩකට අත ගසයි
+
+*2024-05-07 13:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196367) · `si`
+
+කඩුවෙල මාබිම ප්‍රදේශයේදී හෙට (08) නව ගෑස් පිරවුම් පර්යන්තයක් විවෘත කරන බව ලිට්‍රෝ සභාපති මුදිත පීරිස් මහතා පවසයි.
+
+"නව පිරවුම් පර්යන්තයක් හෙට විවෘත කරනවා. ඉල්ලුමට සරිලන සැපයුමක් ලබාදීමට. කෙරවලපිටිය පර්යන්තය ප්‍රමාණවත් නැහැ. දිනකට සිලින්ඩර් 60,000ක් නිකුත් කරනවා. දෙසැම්බර් සිට සතියට දවස් 2ක්. පෙබරවාරි, මාර්තු, අප්‍රේල් වනවිට කෙරවලපිටිය හා මාබිම පර්යන්ත දෙකම වැඩ. කෙරලවලපිටිය නවත්වන්න ඕන වුණොත්. මාබිම සිට කාර්යක්ෂවම ගෑස් බෙදාහරින්න පුළුවන්."
+
+ප්‍රශ්නය - ඔබතුමාලා මේ විදිහට ආයෝජනය කරලා මේ ව්‍යාපාරය පුළුල් කරනකොට විපක්ෂය චෝදනා කරනවා මේක විකුණන්න යනවා කියලා?
+
+"අපේ ඍජු දායකත්වයක් නැහැ. වගකීම් පැවරුණු කමිටුවක් ඉන්නවා. ඒ අයගෙන් අහන එක තමයි සුදුසු උත්තරයක් දෙන්න අපිට දන්නේ නැහැ."
+
+◼️
+
+[Data](articles/f76b6adf.json)
+
+---
+
 ### மன்னாரில் மின்னுற்பத்தி: அதானிக்கு அனுமதி
 
-*2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானி-நிறுவனத்துக்கு-அனுமதி/175-336886) · `ta`
+*2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானிக்கு-அனுமதி/175-336886) · `ta`
 
 மன்னார் பூநகரி பிரதேசத்தில் காற்றாலை மின்னுற்பத்தி நிலையங்களை அபிவிருத்தி செய்வதற்கான  புரிந்துணர்வு ஒப்பந்தத்தை இந்தியாவின் M/s Adani Green Energy Limited உடன்  மேற்கொள்வதற்கு 2022.03.07 அன்று இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டுள்ளது.
 
@@ -42,121 +60,247 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/fb26a914.json)
+[Data](articles/aca2e36c.json)
 
 ---
 
-### யாழ். வைத்தியசாலைக்குள் அத்துமீறி நுழைந்து கும்பல் ஒன்று அடாவடி
+### Electricity in Mannar: Allow Adani
+
+*2024-05-07 12:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரில்-மின்னுற்பத்தி-அதானி-நிறுவனத்துக்கு-அனுமதி/175-336886) · `ta`
+
+The Cabinet approved a MOU with Adani Green Energy for wind power in Mannar, valuing the project at $8.26/kg and a 20-year electricity purchase agreement.
+
+🟩
+
+The Cabinet meeting held on 07.03.2012 to make a Memorandum of Understanding (MOU) to develop wind power stations in Mannar Poonakari area with M/s Adani Green Energy Limited.
+
+The Cabinet has been appointed by the Cabinet to evaluate the proposal submitted by the company.According to the Committee's Vidyalaya, an electrician produced under the proposal project is worth US $ 8.26 per kg (to pay the Sri Lankan rupee in the Rupee Rupee of Real Foreign Exchange) and the cost of purchasing electricity for 20 years M/s Adani Green Energy Energy.The Cabinet has approved the proposal submitted by the Minister.
+
+◼️
+
+[Data](articles/fb26a914.json)
+
+[Extended Data](ext_articles/fb26a914.ext.json)
+
+---
+
+### Yall. A gang entered the hospital
 
 *2024-05-07 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182883) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குள் அத்துமீறி நுழைந்து குழப்பத்தில் ஈடுபட்ட கும்பலை கைது செய்வதற்கு யாழ்ப்பாண பொலிஸார் நடவடிக்கைகளை முன்னெடுத்துள்ளனர்.
+A gang of 20, claiming to be friends of a deceased patient, broke into a Jaffna hospital, causing chaos and disrupting medical services. The Jaffna police have arrested them.
 
-விபத்தில் படுகாயமடைந்த நிலையில் சிகிச்சைக்காக யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்ட இளைஞன் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+🟩
 
-இளைஞனின் உயிரிழப்பை அடுத்து , அவரின் நண்பர்கள் என தம்மை அடையாளப்படுத்திக்கொண்ட சுமார் 20 பேர் கொண்ட கும்பல் ஒன்று வைத்தியசாலைக்குள் அத்துமீறி நுழைந்து அடாவடியில் ஈடுபட்டதுடன், மருத்துவர்கள், தாதியர்கள், நோயாளிகளுடன் முரண்பட்டனர்.
+The Jaffna police have taken steps to arrest the gang of confused gangs.
 
-அது தொடர்பில் மருத்துவ சேவைக்கு இடையூறு ஏற்படுத்தினார் என வைத்தியசாலை நிர்வாகத்தினரால், யாழ்.பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+Jaffna for treatment. A young man admitted to the teaching hospital has died without treatment.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்துள்ள பொலிஸார் அடாவடியில் ஈடுபட்டவர்களை இனம் கண்டுள்ளதாகவும், அவர்களை கைது செய்ய நடவடிக்கை எடுத்து உள்ளதாகவும் தெரிவித்துள்ளனர்.
+In the wake of the young man's death, a gang of about 20 people who identified themselves as his friends broke into the hospital and engaged in a frenzy, and conflicted with doctors, nurses and sick.
+
+A complaint has been lodged at the Jaffna Police Station by the hospital administration that he has disrupted the medical service.
+
+According to the complaint, the police have said that they have found the race and have taken steps to arrest them.
 
 ◼️
 
 [Data](articles/3bf81554.json)
 
+[Extended Data](ext_articles/3bf81554.ext.json)
+
 ---
 
-### யாழில் வெப்பத்தால் 5 பேர் வரை உயிரிழப்பு - வைத்திய நிபுணர்கள்
+### Heat of up to 5 people in Jaffna - medical experts
 
 *2024-05-07 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/182880) · `ta`
 
-அதிக வெப்பத்தினால் ஏற்பட்ட வெப்ப பக்கவாதம் (Heat stoke) நோய் காரணமாக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் ஒரு விடுதியில் கடந்த வாரத்தில் மாத்திரம் நான்கு முதல் ஐந்து வரையான இறப்புக்கள் பதிவாகியுள்ளதென வைத்திய நிபுணர்கள் தெரிவித்துள்ளனர்.
+Last week, 4-5 deaths occurred at Jaffna Teaching Hospital due to extreme heat. The situation worsens with rising temperatures, leading to heat stroke among patients. The community is urged to plant trees and stay hydrated to mitigate the heat.
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் திங்கட்கிழமை இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் இவ்விடயம் தெரிவிக்கப்பட்டது.
+🟩
 
-இது தொடர்பில் மேலும் தெரிவிக்கையில், தற்பொழுது அதிகரித்துள்ள வெப்பநிலை காரணமாக உடலின் வெப்பநிலை அதிகரித்து வெப்ப பக்கவாதம் ஏற்படக்கூடிய வாய்ப்புஉள்ளது.
+According to doctors, four to five deaths were reported last week at a hotel at the Jaffna Teaching Hospital last week due to high heat.
 
-வெப்ப பக்கவாதம் மூலம் எமது விடுதிகளில் அனுமதிக்கப்பட்டிருந்த பல நோயாளிகளை இழந்து இருக்கின்றோம். இனிவரும் காலங்களிலும் வெப்பநிலை அதிகரித்துச் செல்லக்கூடிய வாய்ப்பு காணப்படுகின்றது.
+This was announced at a special media briefing held at the Jaffna Teaching Hospital on Monday.
 
-பிளாஸ்டிக் மற்றும் பொலித்தீன் பாவனைகளின் அதிகரிப்பு மற்றும் அதிகளவிலான மரங்கள் அழிப்பு என்பனவற்றின் மூலம் தான் தற்பொழுது வெப்பநிலை அதிகரித்து காணப்படுகிறது. எனவே மக்கள் அனைவரும் வீட்டுக்குவீடு மரங்களை நட்டு சுற்றாடலை குளிர்மையாக வைத்திருக்கவேண்டும்.
+Further, the current temperature is likely to increase the body temperature and cause heat stroke.
 
-...
+We have lost many patients who have been admitted to our hostels through heat stroke. Temperature is likely to increase in the future.
+
+The increase in the use of plastic and polythene and the destruction of high -level trees is currently increased by temperature. Therefore, all people should plant homemade trees and keep the environment cool.
+
+In the last two weeks, we have lost four to five patients who have been admitted to our patient hostels due to heat stroke.
+
+People who are older do not know how to thirst for water. So to provide water foods continuously. Doing so can reduce the body's heat and prevent heat stroke.
+
+◼️
 
 [Data](articles/84435978.json)
 
+[Extended Data](ext_articles/84435978.ext.json)
+
 ---
 
-### ’’ நானே அம்மாவை  கொலை செய்தேன் ’’  ;  சிறுவன் வாக்குமூலம்
+### Shakib threatens to beat up fan over clicking selfie
 
-*2024-05-07 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானே-அம்மாவை-கொலை-செய்தேன்-சிறுவன்-வாக்குமூலம்/175-336884) · `ta`
+*2024-05-07 12:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-threatens-to-beat-up-fan-over-clicking-selfie/108-282087) · `en`
 
-யாழ்ப்பாணம், தெல்லிப்பழை பகுதியில் வீடொன்றில் இருந்து சந்தேகத்திற்கிடமான முறையில்  பெண் ஒருவரின் சடலம் வெள்ளிக்கிழமை (03)  மீட்கப்பட்டுள்ளது.
+(indiatoday) - Shakib Al Hasan did not seem happy when a fan tried to click a selfie with him before the DPL 2024 match between Sheikh Jamal Dhanmondi Club and Prime Bank Cricket Club.
 
-தெல்லிப்பழை பகுதியை சேர்ந்த ஹெனடிக் ஜஸ்மின் (வயது 37) எனும் பெண்ணே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளதுடன் அவர் தனது  இரு பிள்ளைகளுடன் வசித்து வந்த நிலையில் அவரது கணவர் வெளிநாட்டில் வசித்து வருகின்றார் என தெரியவந்துள்ளது.
+Bangladesh all-rounder Shakib Al Hasan threatened to beat up a fan for trying to click a selfie. Before returning to play international cricket, the veteran recently played for the Sheikh Jamal Dhanmondi Club in the Dhaka Premier League (DPL) 2024. The incident happened before SJDC’s match against Prime Bank Cricket Club on Monday, May 6 at the Khan Shaheb Osman Ali Stadium in Fatullah.
 
-கடந்த வெள்ளிக்கிழமை (03)  அன்று  வீட்டில் தாயும்  16 வயதுடைய  மகனும் மட்டுமே இருந்துள்ள நிலையில் மறுநாள் பெண் உயிரிழந்து சடலமாக காணப்பட்டுள்ளார்.
-
-இதன்போது பெண்ணின்  மகன் வீட்டில் இருந்து காணாமல் போயிருந்ததுடன், வீட்டின் சுவர்களில் இரத்த கறைகளும் காணப்பட்டுள்ளது .
-
-இது தொடர்பில் பொலிஸார் விசாரணைகளை மேற்கொண்டு வந்த நிலையில் காணாமல் போன சிறுவன் , பொலிஸாரால் திங்கட்கிழமை (06)  கைது செய்யப்பட்டு அவரிடம்  மேற்கொண்ட விசாரணையின் பொது "நானே தாயின் கழுத்தை நெரித்து கொலை செய்தேன்" என குறித்த சிறுவன் வாக்குமூலம் அளித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Before the toss, Shakib was having a chat with head coach Sheikh Salahuddin and their spin bowling. That’s when a fan came and tried to take a selfie with Shakib. It did not go down well with Shakib, who tried to snatch the phone away from the fan and made gestures of beating him up. Thereafter, the fan returned and Shakib returned to his discussions with the coaches.
 
 ...
 
-[Data](articles/ff8ca56d.json)
+[Data](articles/9597090a.json)
 
 ---
 
-### ஸ்ரீலங்கன் எயர்லைன்ஸ் விமானியாக பணிபுரிந்த பெல்ஜியத்தைச் சேர்ந்த விமானி இலங்கை விமானிகளை உடல்ரீதியாக அவமானப்படுத்தினார் ; இனப்பாரபட்சத்தை வெளிப்படுத்தினார் - வெடித்தது புதிய சர்ச்சை
+### I killed my mother;The boy's confession
+
+*2024-05-07 12:33:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நானே-அம்மாவை-கொலை-செய்தேன்-சிறுவன்-வாக்குமூலம்/175-336884) · `ta`
+
+A 16-year-old son confessed to strangling his mother, leading to her death. The boy, who was addicted to mobile games and depressed, was arrested.
+
+🟩
+
+The body of a woman has been recovered on Friday (03) from a house in Tellipallai area in Jaffna.
+
+Henatic Jasmin (age 37) of Tellippali has been recovered and her husband is living abroad as she lives with her two children.
+
+On Friday (03), only a mother and a 16 -year -old son were found dead in the next day.
+
+The woman's son was missing from the house and blood stains were found on the walls of the house.
+
+The boy, who was missing by the police, was arrested by the police on Monday (06) and the boy had confessed that the boy had confessed that "I strangled my mother's neck".
+
+In this case, the police spokesman said that the boy was mentally ill and had been addicted to mobile games (mobile games) and was severely depressed.
+
+It is noteworthy that the police are conducting further investigations.
+
+◼️
+
+[Data](articles/ff8ca56d.json)
+
+[Extended Data](ext_articles/ff8ca56d.ext.json)
+
+---
+
+### Organised group disconnecting power supplies to disrepute government: Kanchana
+
+*2024-05-07 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Organised-group-disconnecting-power-supplies-to-disrepute-government-Kanchana/108-282086) · `en`
+
+Parliament, May 07 (Daily Mirror)- An organised group is operating to disconnect the power supplies of electricity consumers who had defaulted in paying their bills to disrepute and embarrass the government, Power and Energy Minister Kanchana Wijesekara said today.
+
+He told Parliament that the Ceylon Electricity Board (CEB) has launched an investigation into the matter.
+
+The Minister said this while responding to a question raised by SJB MP Thushara Indunil about the power disconnections.
+
+Minister Wijesekara said there was a proper procedure for power disconnections and added that disciplinary action will be taken against officials who fail to adopt the due procedures.
+
+...
+
+[Data](articles/d7b1c8a0.json)
+
+---
+
+### Belgium -based pilot, who worked as a SriLankan Airlines pilot, was physically insulting Sri Lankan pilots;Exposed the racism - the new controversy
 
 *2024-05-07 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182873) · `ta`
 
-ஸ்ரீலங்கன் எயர்லைன்ஸ் விமானியாக பணிபுரிந்த பெல்ஜியம் விமானயும்  விமான பணியாளரும்  தங்களை உடல்ரீதியாக அவமானப்படுத்தினார்கள் இனப்பாரபட்சத்தை வெளிப்படுத்தினார்கள் என ஸ்ரீலங்கன் எயர்லைன்ஸ் விமானிகளும் பணியாளர்கள் முறைப்பாடு செய்துள்ளதை தொடர்ந்து பாரிய இனவெறி மோசடி வெளிச்சத்திற்கு வந்துள்ளது என டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+A Belgium-based pilot, previously with SriLankan Airlines, faced racism and physical insults from SriLankan pilots. The incident involved seat allocation and boarding issues, leading to a controversy.
 
-பலத்த நஷ்டத்தில் இயங்கும் ஸ்ரீலங்கன் எயர்லைன்ஸ் தனது விமானசேவையை வலுப்படுத்துவதற்காக டிசம்பரில் பெல்ஜியத்திடமிருந்து இரண்டு விமானங்களை குத்தகைக்கு பெற்றுக்கொண்டது.
+🟩
 
-இந்த விமானங்கள் கொழும்பிலிருந்து பிராங்பேர்ட் டாக்கா துபாய் பாரிஸ் சென்னை விமானநிலையங்களிற்கு  பயணிக்கின்றன.
+The Belgium flight attendant, who worked as a SriLankan Airlines pilot, has been physically humiliated by the SriLankan Airlines pilots, according to DailyMirr.
 
-ஏப்பிரல் 30 திகதி குறிப்பிட்ட விமானம் கொழும்பிலிருந்து பிரான்ஸ் தலைநகருக்கு செல்வதற்காக  கொழும்பு விமானநிலையத்தில் தயாராகயிருந்தவேளை இலங்கையை சேர்ந்த விமானிகளிற்கு பிசினஸ் கிளாசில் ஆசனங்களை ஒதுக்கவில்லை என அறிவித்துள்ளனர்- அந்த பிரிவில் ஒரு ஆசனம் மாத்திரம் உள்ளதால் ஆசனங்களை ஒதுக்க முடியவில்லை என தெரிவித்துள்ளனர்.
+In December, SriLankan Airlines leased two flights from Belgium to strengthen its airline.
+
+These flights travel from Colombo to Frankfurt Dhaka Dubai Paris Chennai Airports.
+
+On April 30, the flight from Colombo to the capital of France from Colombo has announced that Sri Lankan pilots have not allocated seats in the business class- they said they could not allocate seats as there was only one seat in the category.
+
+It is customary for pilots to allocate seats in business class as pilots travel abroad to return the aircraft.
+
+Meanwhile, SriLankan Airlines have been given a seat in the Business Class of Airbelgium without notifying air workers.
+
+SriLankan Airlines pilots, who were aware of the plane to board the plane, refused to board the plane.
 
 ...
 
 [Data](articles/2c610e14.json)
 
+[Extended Data](ext_articles/2c610e14.ext.json)
+
 ---
 
-### காத்தான்குடியில் குற்றச் செயல்கள் போதைவஸ்துடன் தொடர்புபட்ட 67 பேர் ஒரு வாரத்தில் கைது
+### 67 persons arrested in Kattankudy in a week
 
 *2024-05-07 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/182878) · `ta`
 
-குற்றச்செயல்கள், போதை பொருள் பாவனை மற்றும்  போதைப்பொருள் விற்பனை போன்றவற்றுடன் தொடர்புபட்ட 67 பேர் கடந்த ஒரு வார காலத்தில் காத்தான்குடி பொலிஸ் பிரிவில் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி.கஜநாயக்க தெரிவித்தார்.
+67 arrested in Kattankudy for crimes including drug sales, theft, and illegal alcohol sales.
 
-திருட்டுச் சம்பவங்கள் மற்றும் கசிப்பு விற்பனை,கசிப்பு உற்பத்தி, சட்ட விரோத சாராயம் விற்பனை, ஐஸ் போதை பொருள், ஹெரோயின், கேரள கஞ்சா, மற்றும் போதைப்பொருட்களுடன் தொடர்பு பட்டவர்களே இவ்வாறு கைது செய்யப்பட்டவர்களாவர்.
+🟩
 
-ஏற்கனவே பிணை வழங்கப்பட்டவர்கள் மற்றும் விளக்க மறியலில் வைக்கப்பட்டவர்கள் அடங்கலாக கைது செய்யப்பட்ட சந்தேக நபர்கள் இன்று நீதிமன்றத்தில் ஆஜர் படுத்தப்பட்டனர்.
+67 persons involved in crime, drug use and drug sales have been arrested in the Kattankudy Police Division over the last one week, said Gajanayake, Superintendent of Kattankudy Police.
+
+The arrested were involved in theft and leak sales, leakage production, illegal alcohol sales, ice drugs, heroin, Kerala cannabis, and drugs.
+
+The suspects, who were already granted bail and interrogators, were produced in court today.
 
 ◼️
 
 [Data](articles/f4022d27.json)
 
+[Extended Data](ext_articles/f4022d27.ext.json)
+
 ---
 
-### கணவருக்கு தூக்க மருந்து: கள்ளக் காதலனை அழைத்த பெண்ணுக்கு விளக்கமறியல்
+### Husband's sleeping medicine
 
 *2024-05-07 12:12:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கணவருக்கு-தூக்க-மருந்து-கள்ளக்-காதலனை-அழைத்த-பெண்ணுக்கு-விளக்கமறியல்/76-336882) · `ta`
 
-திருமணமான கணவருக்கு தூக்க மாத்திரை கொடுத்து, கள்ளக் காதலனை  வீட்டுக்கு அழைத்து வந்த பெண்ணை மஸ்கெலியா பொலிஸார் சந்தேகத்தின் பேரில் கைது செய்தனர்.
+Maskeliya police arrested a woman for allegedly giving her husband a sleeping pill and bringing home a boyfriend. The woman, a health assistant at Maskeliya Hospital, was admitted for illness and transferred for further treatment. The husband, who was depressed and ill, was taken to the hospital after the wife failed to wake him up for work. The police are investigating the case further.
 
-அந்த பெண்ணை ஹட்டன் மாவட்ட நீதவான் நீதிமன்றில் திங்கட்கிழமை (06) ஆஜர்படுத்திய போது, அவரை  15 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் எச்.எம்.பரீதீன் உத்தரவிட்டார்.
+🟩
 
-கெப்பிட்டிபொல பிரதேசத்தைச் சேர்ந்த நிர்மிதா சதாரி என்ற 26 வயதுடைய பெண்ணே இவ்வாறு கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Maskeliya police arrested a woman who gave her a sleeping pill to a married husband and brought her a black boy home.
 
-தூக்க மாத்திரைகளை உட்கொண்டதாகக் கூறப்படும் சந்தேகத்திற்கிடமான பெண்ணின் (32) வயதுடைய கணவர் சுகவீனம் காரணமாக ஏப்ரல் (13) மஸ்கெலியா பிராந்திய வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக ​டிக்கோயா-கிளங்கன் ஆதார வைத்தியசாலைக்கு ஏப்ரல் (14) மாற்றப்பட்டுள்ளார்.
+When the woman was produced before the Hatton District Magistrate's Court on Monday (06), Magistrate HM Baredin ordered him to be remanded until the 15th.
 
-இந்த சந்தேக நபராக பெண்ணும் கள்ளக் காதலனும்  மஸ்கெலியா பிரதேச வைத்தியசாலையில் சுகாதார உதவியாளர்களாக கடமையாற்றி வருகின்றனர்.
+Nirmita Sadari, a 26 -year -old woman from Kepitipola area, has been arrested and placed in interrogation.
+
+The suspected woman (32), who is alleged to take sleep pills, has been admitted to the Maskeliya Regional Hospital due to illness, and has been transferred to the Dikoya-Klangan Resource Hospital for further treatment.
+
+The suspect is the woman and the boyfriend of the Maskeliya Divisional Hospital as health assistants.
+
+On April 1, the woman, who came home after the shift, put a sleeping pill in milk tea and gave it to her husband. He then called his illicit boyfriend on the phone and called home.
 
 ...
 
 [Data](articles/e57f1da2.json)
+
+[Extended Data](ext_articles/e57f1da2.ext.json)
+
+---
+
+### Suspect in Health Inspectors’ Association secretary’s murder nabbed at BIA
+
+*2024-05-07 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-in-Health-Inspectors-Association-secretarys-murder-nabbed-at-BIA/108-282085) · `en`
+
+A member of an organized crime gang involved in the murder of the Treasurer of the Public Health Inspectors' Association was arrested at the Bandaranaike International Airport (BIA) last night.
+
+The suspect was identified as Patthini Devage Thivanka Manohara (30), a resident of Karandeniya, Elpitiya.
+
+The suspect was wanted in the police investigations over several other murders, including the death of the Public Health Inspectors' Association Treasurer.
+
+The suspect had arrived at the BIA to flee to Dubai using a fake passport prepared under a different name as Maduraduwa Dilshan Madhusankha de Silva. After being identified by the facial recognition system, the officers of the Criminal Investigation Department arrested him.
+
+The suspect had reportedly served in the Commando Regiment of the Sri Lanka Army and had left the service.
+
+...
+
+[Data](articles/4d0931d9.json)
 
 ---
 
@@ -206,39 +350,53 @@ After the meeting, the two presidentials have issued the two presidents said tha
 
 ---
 
-### உரிமங்களை தடை செய்வோம்
+### We will prohibit licenses
 
 *2024-05-07 12:07:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உரிமங்களை-தடை-செய்வோம்/175-336881) · `ta`
 
-தேர்தலை இலக்காக வைத்து மதுபான உரிம பத்திரங்களை வழங்கும் நடைமுறையை நிறுத்த வேண்டும். இந்த ஆண்டு இறுதிக்குள் மக்கள் ஆசிர்வாதத்துடன் ஆட்சிக்கு வந்தால் இது கட்டாயம் நிறுத்தப்படும். ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் இந்த உரிமங்கள் அனைத்தும் இரத்துச் செய்யப்படும். இது தொடர்பாக நீதிமன்றங்களை நாடினால், பாராளுமன்ற சட்டத்தின் மூலமாக இந்த உரிமங்களை தடை செய்வோம் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச செவ்வாய்க்கிழமை (07)  பாராளுமன்றத்தில் தெரிவித்தார்.
+The United People's Power Government plans to cancel all liquor licenses targeting elections, aiming to prevent corruption. Opposition Leader Sajith Premadasa has threatened to ban these licenses through a Parliamentary Act if the courts intervene.
 
-இரத்தினபுரி, எம்பிலிபிட்டிய பிரதேச செயலகத்தின், வெலங்கஹவல சந்தியில் மதுபான அனுமதிப்பத்திரத்துடன் கூடிய உணவகம் தொடர்பில் தான் இதற்கு முன்னர் பாராளுமன்றத்தின் கவனத்திற்கு கொண்டு வந்துள்ளேன். இது குறித்து மீண்டும் கேள்வி எழுப்புவது குறித்து கவலை தெரிவிக்கிறேன். மகா சங்கத்தினரின் கடும் எதிர்ப்புக்கு மத்தியிலும் மீண்டும் இது மீள திறக்கப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
+
+To stop the process of issuing liquor licenses targeting elections. If people come to power with blessings by the end of this year, this will stop. All these licenses in the United People's Power Government will be canceled. Opposition Leader Sajith Premadasa told parliament on Tuesday that if the courts seek the courts, they will ban these licenses through the Parliamentary Act.
+
+I have previously brought to the notice of Parliament regarding the restaurant with a liquor license at the Wellangahawa junction of the Embilipitiya Divisional Secretariat, Ratnapura.. I am concerned about the question again. The Opposition Leader said that despite the fierce opposition of the Maha Sangam, it has been reopen.
 
 ◼️
 
 [Data](articles/e77a003e.json)
 
+[Extended Data](ext_articles/e77a003e.ext.json)
+
 ---
 
-### "அம்மாவின் கழுத்தை நானே நெரித்து கொன்றேன்" - யாழில் கைதான சிறுவன் வாக்குமூலம்
+### "I strangled my mother's neck" - The boy arrested in Jaffna
 
 *2024-05-07 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182876) · `ta`
 
-அம்மாவின் கழுத்தை நானே நெரித்து கொலை செய்தேன் என 16 வயது சிறுவன் பொலிஸ் விசாரணைகளில் தெரிவித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 16-year-old boy in Jaffna confessed to strangling his mother, leading to her death. The boy, who was depressed and addicted to mobile games, disappeared and was later arrested.
 
-யாழ்ப்பாணம் தெல்லிப்பழை பகுதியில், கடந்த வெள்ளிக்கிழமை (03) வீடொன்றில் இருந்து சந்தேகத்திற்கு இடமான முறையில் உயிரிழந்த பெண்ணின் சடலம் மீட்கப்பட்டது.
+🟩
 
-தெல்லிப்பழை பகுதியைச் சேர்ந்த ஹெனடிக் ஜஸ்மின் (வயது 37) எனும் பெண்ணே சடலமாக மீட்கப்பட்டுள்ளார். அவர் தனது  இரு பிள்ளைகளுடன் வசித்து வந்த நிலையில் அவரது கணவன் வெளிநாட்டில் வசித்து வருகின்றார்.
+A 16 -year -old boy has reported in police investigations that I have strangled her mother's neck.
 
-மறுநாள் பெண் உயிரிழந்த நிலையில் சடலமாக காணப்பட்டுள்ளார். பெண்ணின் மகனான 16 வயதுடைய சிறுவன் வீட்டில் இருந்து காணாமல் போயிருந்ததுடன், வீட்டின் சுவர்களில் இரத்த கறைகளும் காணப்பட்டன.
+The body of a woman who died from a house was recovered from a house last Friday (03) in Tellipalai area in Jaffna.
 
-அது தொடர்பில் பொலிஸார் விசாரணைகளை முன்னெடுத்து வந்த வேளை காணாமல் போன 16 வயது சிறுவனை நேற்று திங்கட்கிழமை (06) பொலிஸார் கைது செய்திருந்தனர்.
+Henatic Jasmin (age 37), a woman from Tellippalai area, has been recovered.. Her husband lives abroad as she lives with his two children.
 
-கைது செய்யப்பட்ட சிறுவனிடம் முன்னெடுக்கப்பட்ட விசாரணையில், தானே தாயின் கழுத்தை நெரித்து கொலை செய்தேன் என வாக்குமூலம் அளித்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The next day the woman dies. The 16 -year -old boy, the son of a woman, disappeared from home and blood stains were found on the walls of the house.
 
-...
+The police arrested a 16 -year -old boy who disappeared while investigating the matter.
+
+Investigations carried out by the arrested boy had confessed that he had strangled his mother's neck and murdered.
+
+At the same time, the boy's mentally retarded neighbors said. The police media spokesman on the 05th of last month said that the boy was addicted to mobile games (mobile games) and the boy was very depressed.
+
+◼️
 
 [Data](articles/062e12e7.json)
+
+[Extended Data](ext_articles/062e12e7.ext.json)
 
 ---
 
@@ -304,27 +462,35 @@ Therefore, we have to save us from the disaster of heat.
 
 ---
 
-### ஆயுர்வேதத் திணைக்களத்தால் 359 சித்த மருத்துவ மாணவர்கள் பாதிப்பு - வர்ணகுலசிங்கம் பிரவீன்
+### 359 Siddha medical students by Ayurvedic Department - Varnakulasingham Praveen
 
 *2024-05-07 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/182868) · `ta`
 
-ஆயுர்வேதத் திணைக்களத்தின் குளறுபடியான சில நடவடிக்கைகள் மூலம் நாம் பாதிக்கப்பட்டுள்ளோம் என சித்த மருத்துவ மாணவர்களின் பிரநிதியான வர்ணகுலசிங்கம் பிரவீன் தெரிவித்துள்ளார்.
+Varnakulasingham Praveen, representing 359 Siddha medical students, criticized the Ayurvedic Department for delaying their internal training, which is essential for doctor registration. The University Grants Commission granted permission for only 60 students, blaming government funding issues. The students demand action to address the delay, affecting their future careers.
 
-யாழ். ஊடக அமையத்தில் திங்கட்கிழமை (06) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-இலங்கை பூராகவும் 359 சித்த மருத்துவ மாணவர்கள் உள்ளக பயிற்சிக்காக காத்திருக்க வேண்டிய அவல நிலை ஏற்பட்டுள்ளது.
+"We have been affected by some of the messy measures of the Ayurvedic Department," said Varnakulasingham Praveen, the representative of Siddha medical students.
 
-எங்களுடைய பிரச்சினை தொடர்பில் பேசியிருந்த போது, பல்கலைக்கழக மானிய ஆணைக்குழு 60 பேருக்கு மாத்திரம் அனுமதி வழங்கி இருப்பதாக அவர்கள் தெரிவித்தனர்.
+Yall. He said this during a media briefing held at the Media Center on Monday (06).
 
-உள்ளக பயிற்சி என்பது அனைத்து மாணவர்களுக்குமான உரிமையாகும். எவ்வாறு 60 மாணவர்களுக்கு மாத்திரம் இந்த அனுமதியினை பல்கலைக்கழக மானிய ஆணைக்குழு வழங்க முடியும்.
+359 Siddha medical students across Sri Lanka have to wait for internal training.
 
-அரசாங்கத்தின் நிதி ஒதுக்கீடு காரணமாகவே இந்த தாமதம் ஏற்பட்டுள்ளதாக குறிப்பிட்டுள்ளது. அவ்வாறாயின் அது அரசாங்கத்தின் தவறு ஒழிய மாணவர்களுடைய தவறல்ல.
+While talking about our issue, they said that the University Grants Commission had only given permission to 60 people.
 
-இதற்குக் காரணம் ஆயுர்வேத திணைக்களம் உள்ளிட்ட ஏனைய திணைக்களங்கள். இவர்களுடைய இவ்வாறான நடவடிக்கைகள் மூலம் நமது கற்க நெறியை பூரணமாக நிறைவு செய்ய முடியாத நிலையில் இருக்கின்றோம்.
+Internal training is the right of all students. How can the University Grants Commission grant this permission only to 60 students.
+
+The delay was due to the government's allocation of funds. If so, it is not the fault of the students, the fault of the government.
+
+This is because other departments including the Ayurvedic Department. With their actions, we are unable to complete our learning.
+
+Despite being 30 years of age, our learning has not been completed as we have not completed a long -standing internal training.
 
 ...
 
 [Data](articles/f4f059f8.json)
+
+[Extended Data](ext_articles/f4f059f8.ext.json)
 
 ---
 
@@ -354,17 +520,29 @@ Opposition leader Sajith Premadasa and Niroshan Perera were also present at the 
 
 ---
 
-### பிரித்தானிய குழுவை சந்தித்தார் சஜித்
+### Sajith met the British group
 
 *2024-05-07 11:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரித்தானிய-குழுவை-சந்தித்தார்-சஜித்/175-336879) · `ta`
 
-பிரித்தானிய வெளிவிவகார, பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகத்தின் இந்து-பசிபிக் பிராந்திய பணிப்பாளர் பென் மேலருக்கும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையிலான விசேட சந்திப்பொன்று செவ்வாய்க்கிழமை (07)  கொழும்பில் இடம்பெற்றது.
+Sajith Premadasa met with the British group in Colombo, discussing plans to end the current government's regime and protect democratic rights.
 
-இச்சந்திப்பில்:  இலங்கை தற்போது எதிர்நோக்கும் வங்குரோத்து நிலை குறித்து இரு தரப்பினருக்கும் இடையில் நீண்ட நேரம் கலந்துரையாடப்பட்டதுடன், இதில் இருந்து விடுபட தாம் மற்றும் தமது குழுவினர் மேற்கொள்ளும் திட்டங்கள் குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+🟩
 
-...
+A special meeting between British Foreign Affairs, Commonwealth and Development Office was held in Colombo on Tuesday (07).
+
+In this regard: Opposition Leader Sajith Premadasa said that the two sides have been discussing a long time and the plans of their group to get rid of the bankruptcy.
+
+Moreover, Opposition Leader Sajith Premadasa Office, the Commonwealth and Development Office, is to end the bad regime of the current government, to defeat the government's efforts to dismantle the democratic rights of the people and to postpone the election, and to create the people's expectation.Director Ben Meller pointed to the delegation.
+
+Humairaa Hatia, Chief of the British Foreign Affairs, Commonwealth and Development Office, and British High Commissioner to Sri Lanka, Andrew Petrick and First Secretary Dom Chopper were also present.
+
+Opposition leader Sajith Premadasa and Niroshan Perera were also present at the event.
+
+◼️
 
 [Data](articles/ead2bea0.json)
+
+[Extended Data](ext_articles/ead2bea0.ext.json)
 
 ---
 
@@ -388,27 +566,33 @@ Police Media Spokesperson DIG Talduuwa said that the body was found in a jungle.
 
 ---
 
-### අදානි ගෙන් විදුලිය මිලදීගැනීමට වසර 20ක ගිවිසුමක්
+### 20 years Agreement to purchase electricity from Rajapakse
 
 *2024-05-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196363) · `si`
 
-අදානි ග්‍රීන් එනර්ජි සමාගම විසින් මන්නාරම සහ පුනරින් ප්‍රදේශවල ස්ථාපනය කෙරෙන සුළං විදුලි බලාගාරවලින් ජනනය කෙරෙන විදුලිය මිලදී ගැනීම සඳහා වූ ටෙන්ඩරයට කැබිනට් මණ්ඩලය අනුමැතිය ලබාදී තිබේ.
+The Cabinet approved a 20-year agreement with Rajapakse Green Energy to purchase electricity for airports in Mannar and Pooneryn, with a proposed price of $8.6/hour. The project, approved on March 7, 2022, aims to enhance wind power in these areas.
 
-අදාළ ටෙන්ඩරය අදානි ග්‍රීන් එනර්ජි සමාගම විසින් ඉදිරිපත්කර තිබූ අතර ඒ අනුව වසර 20ක් සඳහා ඔවුන්ගෙන් එම ව්‍යාපෘතිය යටතේ නිපදවෙන විදුලිය මිලදී ගැනෙයි.
+🟩
 
-විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා විසින් එම කැබිනට් යෝජනාව ගෙන ආ බව වාර්තා විය.
+The tender to purchase the electricity to the airports generated in the Mannar and Poonerytas, which will be installed in Mannar and Poonery plants, have been approved by the Cabinet.
 
-එම ව්‍යාපෘතිය යටතේ නිපදවන විදුලිය සඳහා කිලෝ වොට් පැයකට අමෙරිකානු ඩොලර් ශත 8.26ක අගය (සැබෑ විනිමය අනුපාතය ශ්‍රී ලංකා රුපියල් වලින් ගෙවීමට යටත්ව) අවසන් ගාස්තුව වශයෙන් පිළිගැනීමටත් එහිදී යෝජනා කර තිබේ.
+The tender was presented by Rajapakse Green Energy and the electricity produced under the project for 20 years.
 
-මන්නාරම සහ පුනරින් ප්‍රදේශවල සුළං විදුලි බලාගාර ස්ථාපනය සඳහා අදානි ග්‍රීන් එනර්ජි සමාගම සමග අවබෝධතා ගිවිසුමකට එළැඹීමට 2022 මාර්තු 07 වනදා කැබිනට් අනුමැතිය ලැබුණි.
+Minister of Power and Energy Kanchana Wijesekara was reportedly handed over to the proposal.
 
-එම සමාගම විසින් ඉදිරිපත් කළ ව්‍යාපෘති වාර්තාව ඇගයීම පිණිස අමාත්‍ය මණ්ඩලය විසින් "සාකච්ඡා සම්මුති කමිටුවක්" පත්කළේය.
+It has also proposed to accept the value of US $ 8.6 cents per hour (subt) of US $ 4 cents per hour) in the project.
 
-යෝජිත් ව්‍යාපෘතිය මගින් නිපදවන විදුලිය සඳහා මිල තීරණය කර ඇත්තේ එම කමිටුවේ නිර්දේශ මතය.
+On March 7, 2022, the Cabinet approved to enhance the wind power plants in Mannar and Pooneryn areas.
+
+The Cabinet appointed a "discussion convention committee" to evaluate the project report presented by the company.
+
+The prices of electricity produced by the proposed project have been decided on the recommendations of the committee.
 
 ◼️
 
 [Data](articles/b8c56294.json)
+
+[Extended Data](ext_articles/b8c56294.ext.json)
 
 ---
 
@@ -522,41 +706,55 @@ As of now, the threat, according to media reports, is specific to the West Indie
 
 ---
 
-### 21 நாட்களாக நீரின்றி தவிக்கும் நுவரெலியா - லவர்ஸ்லீப்  விநாயகபுரம் மக்கள்
+### Nuwara Eliya - Lower Sleep Vinayagapuram
 
 *2024-05-07 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/182865) · `ta`
 
-நுவரெலியா மாநகர சபைக்கு உட்பட்ட லவர்ஸ்லீப் விநாயகபுரம் மக்கள் கடந்த 21 நாட்களாக  நீரின்றி பெரும் அசௌகரியங்களுக்கு முகங் கொடுத்துள்ளனர்.
+Lower Sleep Vinayagapuram in Nuwara Eliya faces severe inconveniences for 21 days, including students not being able to wash school uniforms and farmers affected by hot colon. The Nuwara Eliya Municipal Council Commissioner has not intervened.
 
-பொதுவாக பாடசாலை செல்லக்கூடிய மாணவர்கள் தமது பாடசாலை சீருடைய கழுவுவதற்கு கூட  நீரின்றி பாடசாலைக்கு செல்லாமல்  நீர் தேடி அலையும் ஒரு  துர்பாக்கிய நிலைக்கு தள்ளப்பட்டுள்ளனர்.
+🟩
 
-தொடர்ச்சியாக நுவரெலியாவில் கடும் வெப்பமான காலனிலை காணப்படுவதால் விவசாய நடவடிக்கையும் பாதிப்படைந்துள்ளது.  பெண்கள் தமது வீட்டு வேலைகளை செய்வதற்கு கூட தண்ணீர் இன்றி பெரும் அசோகரின் முகங் கொடுத்துள்ளனர்.
+The people of Lower Sleep Vinayagapuram, which belongs to the Nuwara Eliya Municipal Council, have been facing great inconveniences for the past 21 days.
 
-இது தொடர்பாக பல்வேறு சந்தர்ப்பங்களில் நுவரெலியா மாநகர சபை ஆணையாளருக்கு தெரிவித்திருந்த பொழுதும் இதுவரை அதற்கான நடவடிக்கையில் எடுக்கவில்லை என இம்மக்கள் விசனம் தெரிவிக்கின்றனர்.
+Generally, students who go to school are forced to go to school without going to school without even to wash their school uniform.
+
+Farming in Nuwara Eliya has also been affected by the fact that the hot colon is found.Women have given the face of a great Ashoka without even water to do their homework.
+
+On various occasions, the Nuwara Eliya Municipal Council Commissioner has not taken any action.
 
 ◼️
 
 [Data](articles/a183db65.json)
 
+[Extended Data](ext_articles/a183db65.ext.json)
+
 ---
 
-### 42 நாள் யுத்த நிறுத்தம் பணயக்கைதிகள் கைதிகள் பரிமாற்றம்-யுத்த நிறுத்தம் தொடர்பான யோசனையை ஏற்றுக்கொண்டது ஹமாஸ் - இஸ்ரேல் மறுப்பு
+### Hamas - Israel's denial of the 42 -day ceasefire hostages
 
 *2024-05-07 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182867) · `ta`
 
-ஹமாஸ் அமைப்பு  மூன்று கட்ட யுத்த நிறுத்தம் தொடர்பான யோசனைகளையும் கைதிகள் பணயக்கைதிகள் பரிமாற்றம் தொடர்பான யோசனைகளையும் ஏற்றுக்கொள்வதாக அறிவித்துள்ள அதேவேளை இஸ்ரேல் இதனை ஏற்றுக்கொள்ள முடியாது என குறிப்பிட்டுள்ளது.
+Hamas agrees to a three-phase ceasefire, including prisoner release and Israeli withdrawal from Gaza, in exchange for Israel's release of Palestinian prisoners. The US mediates with Qatar.
 
-கத்தார் எகிப்துடன் இணைந்து மத்தியஸ்த முயற்சிகளில் ஈடுபட்ட அமெரிக்கா ஹமாஸ் அமைப்பின் யோசனைகளை ஆராய்ந்து வருவதாக தெரிவித்துள்ளது.
+🟩
 
-முதல்கட்டமாக 42 நாட்கள் யுத்த நிறுத்தம் கடைப்பிடிக்கப்படும் என்ற யோசனையை ஏற்றுக்கொண்டுள்ள ஹமாஸ் அமைப்பு இஸ்ரேல் தனது சிறைகளில் உள்ள பாலஸ்தீனியர்களை விடுதலை செய்தால் 33 இஸ்ரேலிய பணயக்கைதிகளை விடுதலை செய்ய தயார் எனவும் தெரிவித்துள்ளது.
+The Hamas organization has announced that it will accept the idea of a three -phase ceasefire and the proposals of prisoners hostage, while Israel is unacceptable.
 
-முதற்கட்டமாக இஸ்ரேல் காசாவிலிருந்து அரைவாசிக்கும் மேற்பட்ட படையினரை விலக்கிக்கொள்ளவேண்டும் தென்காசாவிலிருந்து பாலஸ்தீனியர்கள் வடக்கிற்கு செல்ல அனுமதிக்கவேண்டும் என்ற யோசனையையும் ஹமாஸ் அமைப்பு ஏற்றுக்கொண்டுள்ளது.
+The US, which has been involved in mediation efforts with Qatar, has reportedly explores the ideas of the Hamas organization.
 
-இரண்டாம் கட்டமாக 42 நாட்கள் யுத்த நிறுத்தத்தின் பின்னர் காசவில் நீடிக்ககூடிய அமைதியை உருவாக்குவதற்கான உடன்படிக்கை கைச்சாத்தாகும்.
+The Hamas, which has accepted the idea that the 42 -day ceasefire will be held, has said that Israel is ready to release the Palestinians in its prisons.
 
-...
+For the first time, the Hamas organization has also accepted the idea that the Palestinians should be withdrawn from Tenkasa to the north from Israeli Gaza.
+
+The second phase is the signing agreement to create peace in cash after the 42 -day ceasefire.
+
+And Israeli soldiers will be completely withdrawn from Gaza - Hamas will release the Israeli soldiers who are hostile if Israeli release the Palestinian prisoners.
+
+◼️
 
 [Data](articles/4e7730e2.json)
+
+[Extended Data](ext_articles/4e7730e2.ext.json)
 
 ---
 
@@ -690,21 +888,27 @@ The order on this petition was to be announced today.
 
 ---
 
-### புதிய கிராம உத்தியோகத்தர்களுக்கான நியமனப் பட்டியல் வெளியீடு
+### List of Appointment List for New Grama Niladhari
 
 *2024-05-07 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/182861) · `ta`
 
-கிராம சேவையாளர் தரம் 3 இற்கான புதிய ஆட்சேர்ப்பு பட்டியல் திங்கட்கிழமை (06) உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தில் வெளியிடப்பட்டுள்ளது.
+The Ministry of Home Affairs released the recruitment list for Grama Niladhari Grade 3 on Monday, featuring 1,942 successful applicants. Appointments will be made by Minister Asoka Priyantha, President Ranil Wickremesinghe, and Prime Minister Dinesh Gunawardena on Wednesday, May 8, at 10.30 am.
 
-3 ஆம் தர கிராம அதிகாரி ஆட்சேர்ப்புக்கான பரீட்சை மற்றும் நேர்முக பரீட்சை முடிவுகளின் அடிப்படையில் காலாண்டு பயிற்சிக்குத் தகுதி பெற்ற 1,942 விண்ணப்பதாரர்களின் பெயர் பட்டியல் வெளியிடப்பட்டுள்ளதாக தெரிக்கப்படுகின்றது.
+🟩
 
-உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளமான www.moha.gov.lk இல் குறித்த பெயர் பட்டியல் வெளியிடப்பட்டுள்ளது.
+The new recruitment list for Grama Niladhari Grade 3 has been released on Monday (06) on the official website of the Ministry of Home Affairs.
 
-கிராம உத்தியோகத்தர்களுக்கான புதிய நியமனப் பட்டியலில் உள்ளவர்கள் அனைவரும் மே மாதம் 8 ஆம் திகதி புதன்கிழமை காலை 10.30 மணிக்கு அலரிமாளிகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் பிரதமர் தினேஷ் குணவர்தன தலைமையில் உள்நாட்டலுவல்கள் இராஜாங்க அமைச்சர் அசோக பிரியந்தவின் பங்குபற்றுதலுடன் இந்த நியமனங்கள் வழங்கப்படவுள்ளன.
+The list of 1,942 applicants who qualified for quarterly training has been published based on the results of the Grama Niladhari Recruitment of Recruitment.
+
+The name list has been released on the official website of the Ministry of Home Affairs, www.moha.gov.lk.
+
+The appointments will be made with the participation of the Minister of Home Affairs Asoka Priyantha, headed by President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena at the Allaimakalika at 10.30 am on Wednesday, May 8.
 
 ◼️
 
 [Data](articles/2dda06e8.json)
+
+[Extended Data](ext_articles/2dda06e8.ext.json)
 
 ---
 
@@ -1259,6 +1463,30 @@ Minister Mahinda Amaraweera and the Minister of State Suresh Ragawan and MP Dumi
 [Data](articles/3f0fe884.json)
 
 [Extended Data](ext_articles/3f0fe884.ext.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පෙර වාහන පර්මිට් හිමිවූ රාජ්‍ය නිලධාරින් කවුද ?
+
+*2024-05-07 07:00:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz8716092o) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට පෙර වාහන පර්මිට් හිමිවූ රාජ්‍ය නිලධාරින් කවුද ?
+
+විශ්‍රාමික රාජ්‍ය නිලධාරින් සඳහා තීරු බදු සහන සහිතව වාහන ආනයනය කිරීමේ බලපත්‍ර නිකුත් කිරීමට රජය තීරණය කර ඇත.
+
+මෙලෙස තීරු බදු සහන සහිතව වාහන ගෙන්වීම සඳහා බලපත්‍ර ලබා දෙන ලෙස පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක්ද කතානායක මහින්ද යාපා අබේවර්ධනගෙන් ඉල්ලීමක් කර ඇති බව පසුගියදා වාර්තා පළ විය.
+
+මේ අතර වාහන ආනයන සීමා ඉවත් කිරීම සම්බන්ධයෙන් සොයා බැලීමට රජය විසින් කමිටුවක්ද පත් කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය ප්‍රකාශ කර තිබුණි.
+
+වාහන ආනයනය සීමා මුළුමනින්ම ලිහිල් කළොත් ඉක්මණින්ම වාහන මිල අඩුවේවි ද?
+
+අනිවාර්ය විශ්‍රාම ගැන්වීමේ වයස අවුරුදු 65 දක්වා දීර්ඝ කර පසුව එය අවුරුදු 60 දක්වා අඩු කිරීමත් සමග එම කාලය තුළ වයස අවුරුදු 60 සම්පූර්ණ වීමෙන් පසු විශ්‍රාම ගිය නිලධාරීන් සඳහා මෙම තීරුබදු සහනය ලබාදීමට නියමිත ය.
+
+ඒ අනුව විශ්‍රාම ගිය රාජ්‍ය නිලධාරීන්, පළාත් රාජ්‍ය නිලධාරින් සහ අධිකරණ නිලධාරීන් සඳහා තීරුබදු සහන සහිත වාහන ආනයන බලපත්‍ර ලබාදීමට රජය තීරණය කර ඇත.
+
+...
+
+[Data](articles/cd036b5c.json)
 
 ---
 
@@ -2093,115 +2321,5 @@ The reports of the Hamas leader Ismailine have informed the Prime Minister of Qa
 [Data](articles/2b53082f.json)
 
 [Extended Data](ext_articles/2b53082f.ext.json)
-
----
-
-### Samson Rubber Products marks 30 years of innovation and excellence in solid tyre business
-
-*2024-05-06 22:43:00* · [`islandlk`](http://island.lk/samson-rubber-products-marks-30-years-of-innovation-and-excellence-in-solid-tyre-business/) · `en`
-
-This past April, Samson Rubber Products Pvt Ltd (SRP) commemorated its 30th anniversary with a grand celebration reflective of its deep-rooted cultural values and steadfast commitment to its workforce. The milestone event, held on April 27th, began with a traditional Pirith Chanting Ceremony, followed by a special recognition event for long-standing employees. The festivities culminated in a spectacular fireworks display, illuminating the Galle skies and celebrating three decades of success.
-
-Founded in 1994 by entrepreneur Ranatunga Rajapaksa, and now led by Managing Director Sajith Rajapaksa, SRP has been at the forefront of the industry through continuous innovation in technology, green manufacturing processes, and integrated supply chain solutions. These efforts underscore SRP’s commitment to sustainable business practices and world-class management.
-
-...
-
-[Data](articles/5ba5bb11.json)
-
-[Extended Data](ext_articles/5ba5bb11.ext.json)
-
----
-
-### Pan Asia Bank and Janashakthi Life partner, forging an era of financial empowerment
-
-*2024-05-06 22:40:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-janashakthi-life-partner-forging-an-era-of-financial-empowerment/) · `en`
-
-As a testament to its continuous devotion to its customers’ satisfaction, Pan Asia Bank, the Truly Sri Lankan Bank, has established a strategic partnership with Janashakthi Life. Through this agreement, a comprehensive insurance package will be offered, tailored to the ever-changing demands of the bank’s valued customers.
-
-Sharing a few words on the new partnership, Naleen Edirisinghe, CEO of Pan Asia Bank said, “We are delighted to announce our strategic partnership with Janashakthi Life, who is a longstanding partner of the bank, is another milestone in our mission towards offering comprehensive financial services to our esteemed clients. This partnership highlights our commitment to meeting the needs of our customers through our holistic services. Pan Asia Bank has always been an institution that values long-term relationships with customers and works hard to help them in reaching their financial goals with confidence and peace of mind.”
-
-...
-
-[Data](articles/00440409.json)
-
-[Extended Data](ext_articles/00440409.ext.json)
-
----
-
-### 170 live broadcast joins Anura
-
-*2024-05-06 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196345) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power, joins 360 live broadcasts.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake joins 360 live broadcasts.
-
-◼️
-
-[Data](articles/6e7d6ef1.json)
-
-[Extended Data](ext_articles/6e7d6ef1.ext.json)
-
----
-
-### Japan’s Foreign Minister visits Vijitha Yapa Bookshop
-
-*2024-05-06 22:37:00* · [`islandlk`](http://island.lk/japans-foreign-minister-visits-vijitha-yapa-bookshop/) · `en`
-
-Japan’s Foreign Minister Yoko Kamikawa visited the Vijitha Yapa Bookshop at Flower Road (Pittala Handiya) on Saturday night. Vijitha Yapa Bookshop is a publisher of books promoting the Japanese language. The Foreign Minister and the Japanese Ambassador were particularly interested in books on Sri Lanka and the books for children.
-
-The Foreign Minister was given a gift of the book ‘The Complete Illustrated History of Sri Lanka’ by Sri Lanka born author Dr Anton Sebastian, and she was interested to hear that though he retired as a medical practitioner in London, Dr Sebastian returned to the hospital he had been serving to help deal with the Covid 19 pandemic and unfortunately became a victim of the disease.
-
-Related Topics:Japan's Foreign Minister Yoko KamikawaJapan's Foreign Minister Yoko Kamikawa visited the Vijitha Yapa Bookshop at Flower Road
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/34c99b9c.json)
-
-[Extended Data](ext_articles/34c99b9c.ext.json)
-
----
-
-### Sri Lanka, Scotland gear up for big final that decides Women’s T20 World Cup groups
-
-*2024-05-06 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Scotland-gear-up-for-big-final-that-decides-Womens-T20-World-Cup-groups/108-282052) · `en`
-
-May 6 (ICC) - Sri Lanka and Scotland will battle it out in the final of the ICC Women's T20 World Cup Qualifier 2024 at the Sheikh Zayed Stadium in Abu Dhabi
-
-After confirming their spots in the ICC Women's T20 World Cup 2024 in Bangladesh later this year, Sri Lanka and Scotland will face each other in the final of the tournament in Abu Dhabi on Tuesday, 7 May.
-
-The match also decides which groups the two teams will fall into at the big event later this year.
-
-Australia, India, New Zealand and Pakistan are in Group A while South Africa, England, West Indies, and hosts Bangladesh form Group B, as revealed in the fixtures announcement earlier this week.
-
-The winner of the Qualifier final will slot into Group A as Qualifier 1 while the runners-up will be in Group B as Qualifier 2.
-
-...
-
-[Data](articles/ff0d40a2.json)
-
-[Extended Data](ext_articles/ff0d40a2.ext.json)
-
----
-
-### Chinese support for Sri Lanka’s agricultural and industrial development
-
-*2024-05-06 22:34:00* · [`islandlk`](http://island.lk/chinese-support-for-sri-lankas-agricultural-and-industrial-development/) · `en`
-
-A prominent Chinese delegation is actively engaging in studies and discussions with various stakeholders, particularly in Sri Lanka’s agricultural and industrial sectors. It has pledged its support to bolster Sri Lanka’s economy, a senior Sri Lankan state official said.
-
-According to this official who spoke to The Island Financial Review, while some members have concluded their crucial discussions and departed, others remain, eager to forge additional business ties with the island nation.
-
-The delegation, representing the China Association of Small and Medium-Scale Commercial Enterprises, also held discussions with Minister of Agriculture and Plantation Industries Mahinda Amraweera.
-
-...
-
-[Data](articles/2cb65311.json)
-
-[Extended Data](ext_articles/2cb65311.ext.json)
 
 ---

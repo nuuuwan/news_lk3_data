@@ -1,264 +1,562 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 11:19:07**
+As of **2024-05-07 11:33:46**
 
 ## Newspaper Stats
 
-*Scraped **22,171** Articles*
+*Scraped **22,277** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 188
-bbccomsinhala | 227
 dbsjeyarajcom | 232
+bbccomsinhala | 235
 newsfirstlk | 363
 islandlk | 1,224
 dailyftlk | 1,240
-economynextcom | 1,248
+economynextcom | 1,273
 adalk | 1,855
 tamilmirrorlk | 2,579
-adaderanalk | 2,617
+adaderanalk | 2,642
 virakesarilk | 3,338
-dailymirrorlk | 3,463
+dailymirrorlk | 3,511
 adaderanasinhalalk | 3,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,133 (99.8%) of 22,171 articles have been extended.
+22,155 (99.5%) of 22,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### මහ බැංකුවෙන් සුබ ආරංචියක්
+### BCCI breaks silence after Trinidad PM reveals terror threat to T20 World Cup, report says it’s from ISIS
+
+*2024-05-07 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BCCI-breaks-silence-after-Trinidad-PM-reveals-terror-threat-to-T20-World-Cup-report-says-its-from-ISIS/108-282084) · `en`
+
+(NDTV) - T20 World Cup in the Americas has received a terror threat, Trinidad's Prime Minister Dr Keith Rowley has revealed even as the ICC asserted that a "comprehensive and robust security plan" is in place
+
+The T20 World Cup in the Americas has received a terror threat, Trinidad's Prime Minister Dr Keith Rowley has revealed even as the ICC asserted that a "comprehensive and robust security plan" is in place to "mitigate any risks" to the showpiece beginning June 1. The tournament -- featuring 20 teams, including India -- is scattered across nine venues, six of them in the West Indies.
+
+As of now, the threat, according to media reports, is specific to the West Indies, which aside from some preliminary matches, will be hosting the entire Super 8 stage along with the semifinals and the final on June 29.
+
+...
+
+[Data](articles/50fb8770.json)
+
+---
+
+### Sri Lanka’s official reserves up to USD 5.43 bn in April
+
+*2024-05-07 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99058/sri-lankas-official-reserves-up-to-usd-543-bn-in-april) · `en`
+
+Sri Lanka’s official reserve assets increased by 9.6% to USD 5.43 billion in April 2024, compared to USD 4.96 billion in March 2024, according to the Central Bank of Sri Lanka (CBSL).
+
+However, this includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
+
+◼️
+
+[Data](articles/af86f6ef.json)
+
+---
+
+### ICFS to host ’Education Yalpanam’ for students eyeing higher education in 7 countries
+
+*2024-05-07 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-to-host-Education-Yalpanam-for-students-eyeing-higher-education-in-7-countries/108-282083) · `en`
+
+Colombo, May 7 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) is set to host the second session of 'Education Yalpanam' on May 11th and 12th at the Jaffna Public Library from 9 am to 5 pm. The event aims to provide aspiring students in the Northern Province with insights into higher education opportunities abroad.
+
+During the session, the ICFS will showcase study options in Australia, New Zealand, the UK, Canada, the Netherlands, Germany, and Malta. Emphasizing its commitment to accessibility, ICFS clarified that there are no entrance fees or consultation charges.
+
+"Education Yalpanam" aims to democratize educational opportunities beyond the capital and its suburbs, ensuring deserving students in the North can explore their options," the ICFS said.
+
+The first session of 'Education Yalpanam' was held on March 30th and 31st, providing opportunities in Canada, the UK, and Germany for the September 2024 intake.
+
+...
+
+[Data](articles/e22346ce.json)
+
+---
+
+### Good news from the Central Bank
 
 *2024-05-07 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196359) · `si`
 
-ශ්‍රී ලංකාවේ නිල සංචිත වත්කම් 2024 අප්‍රේල් මාසයේදී 9.6%කින් වර්ධනය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Sri Lanka's official reserves rose 9.6% in April 2024, from $4.96B to $5.43B, including $1.4B US.
 
-ඒ අනුව 2024 මාර්තු මාසයේ ඩොලර් බිලියන 4.96ක් ව පැවති නිල සංචිත වත්කම්වල අගය 2024 අප්‍රේල් මාසයේදී ඩොලර් බිලියන 5.43ක් දක්වා වැඩිවී තිබේ.
+🟩
 
-මූල්‍ය හුවමාරු එකඟතාවක් යටතේ චීනය විසින් සපයා ඇති ඩොලර් බිලියන 1.4ද ඊට ඇතුළත් බව ශ්‍රී ලංකා මහ බැංකුව පැවසීය.
+The official reserves in Sri Lanka increased by 9.6% in April 2024, the Central Bank of Sri Lanka said.
+
+Accordingly, the official reserve assets of $ 4.96 billion in March 2024 increased to $ 5.43 billion in April 2024.
+
+The Central Bank of Sri Lanka (CBSL) said that it includes US $ 1.4 billion.
 
 ◼️
 
 [Data](articles/642c1da1.json)
 
+[Extended Data](ext_articles/642c1da1.ext.json)
+
 ---
 
-### කෙහෙළියගේ පෙත්සමේ තීරණය කල්යයි
+### Keheliya's petition deferred
 
 *2024-05-07 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196358) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින තමන්ව අප මත මුදා හරින ලෙස ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල මහතා විසින් ඉදිරිපත් කළ අතුරු ඉල්ලීම පිළිබඳ තීන්දුව ප්‍රකාශ නොකිරීමට අභියාචනාධකරණය අද (07) තීන්දු කළේය.
+The Court of Appeal deferred Keheliya Rambukwella's petition, referring it to the president of the Appeal due to insufficient time for preparation. The petition will be heard on the 14th.
 
-තමා ඉදිරි දිනවල විශ්‍රාම යාමට නියමිත හෙයින් මෙම නඩුවට අදාළ නියෝගය සකස් කිරීමට තමන්ට ප්‍රමාණවත් කාලයක් නොමැති හෙයින් සුදුසු තීරණයක් ගැනීම සඳහා එය අභියාචනාදීකරණයේ සභාපති විනිසුරුවරයා වෙත යොමු කරන බවත් අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා නියෝග කළේය.
+🟩
 
-ඒ අනුව අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා ඉදිරියේ අදාළ පෙත්සමක් ලබන 14 වන දා කැඳවීමටද දින නියම වුණි.
+The Court of Appeal today (07) today, the Court of Appeal yesterday decided not to claim the interim request made by the Minister of Health Keheliya Rambukwella as demanded that he was released.
 
-මෙම පෙත්සමේ අතුරු ඉල්ලීම පිළිබඳ නියෝගය අද දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබිණි.
+The Court of Appeal is to be referred to the president of the Appeal, as he does not have enough time to prepare the order pertaining to this case.. N. Mr. Samarakoon ordered.
+
+Accordingly, a petition to be summoned before the Court of Appeal on the 14th.
+
+The order on this petition was to be announced today.
 
 ◼️
 
 [Data](articles/3c4ac2c3.json)
 
+[Extended Data](ext_articles/3c4ac2c3.ext.json)
+
 ---
 
-### අධ්‍යාපනයේ අලුත්ම යෝජනාවට චීන රජයේ එකඟත්වය
+### Public warned of rise in online phishing scams targeting mobile devices
+
+*2024-05-07 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99057/public-warned-of-rise-in-online-phishing-scams-targeting-mobile-devices) · `en`
+
+Sri Lanka Banks’ Association, LankaPay and FinCSIRT says they have been alerted regarding several incidents of financial fraud, both globally and in Sri Lanka, disguised as attractive online offers, leading to mobile device users inadvertently clicking on unknown links and downloading malicious apps and files.
+
+This action grants scammers complete access to the mobile device, enabling them to control it remotely.
+
+Once the fraudsters take control of the mobile device, they have easy access to bank/payment apps that are installed on that device, leading to theft from bank accounts and payment cards accessed via the mobile device.
+
+“We wish to advise the general public to be more vigilant in order to avoid falling prey to such scams,” they said issuing a joint statement.
+
+It pointed out that fraudsters use social media platforms, websites and online messaging platforms to carry out such fraudulent activities.
+
+...
+
+[Data](articles/0c910f5b.json)
+
+---
+
+### Government approves 484 MW wind power project with Adani Green Energy
+
+*2024-05-07 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-484-MW-wind-power-project-with-Adani-Green-Energy/108-282082) · `en`
+
+Colombo, May 7 (Daily Mirror) - The government has given the green light for the development of 484 Mega Watt wind power stations in Mannar and Pooneryn.
+
+This initiative comes as a memorandum of understanding (MoU) signed with Adani Green Energy Limited of India.
+
+In line with this decision, the Cabinet appointed a negotiation committee tasked with evaluating the project proposal submitted by the company.
+
+Following the recommendations of the committee, the Cabinet has approved the resolution presented by the Minister of Power and Energy.
+
+This resolution accepts the final price of USD 8 and 26 cents per KW for the electricity generated under the proposed project, subject to payment in Sri Lankan Rupees based on the actual foreign exchange rate.
+
+The wind power project will award this tender to Adani Green Energy SL Limited for a duration of 20 years.
+
+◼️
+
+[Data](articles/276955f4.json)
+
+---
+
+### The Chinese government's agreement to the latest proposal of education
 
 *2024-05-07 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196357) · `si`
 
-ශ්‍රී ලංකාවේ සාමාන්‍ය අධ්‍යාපනය ඩිජිටල් පරිවර්තනයකට ලක්කිරීමේ යෝජනාවක් අනුව ආධාර ලබාදීමට චීන රජය එකඟත්වය පළ කර තිබේ.
+The Chinese government has agreed to support a digital education project in Sri Lanka, including a network operating unit and a studio for pastiging classrooms, aiming to facilitate reforms and teacher work efficiency.
 
-එම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළව ශක්‍යතා අධ්‍යයනයක් ද මේ වනවිට සිදුකර ඇත.
+🟩
 
-යෝජිත ව්‍යාපෘතිය මඟින් පාසල් සඳහා සම්ප්‍රේෂණ සුහුරු පුවරු සහිත පන්ති කාමර (Delivering Class Room), ප්‍රතිග්‍රාහක සුහුරු පුවරු සහිත පන්ති කාමර (Receiving Class Room) සහ එම කටයුතු මෙහෙයවීම සඳහා අධ්‍යාපන අමාත්‍යාංශය තුළ ජාල මෙහෙයුම් ඒකකයක් (Data Center), චිත්‍රාගාරයක් (Studio Room), සම්ප්‍රේෂණ කාමරයක් (Conference Room) ලබා දීමට අපේක්ෂිතය.
+The Chinese government has agreed to provide assistance to a proposal to be a solution to a digital education in Sri Lanka.
 
-මිශ්‍ර ඉගෙනුම් ක්‍රමවේදය විධිමත්ව සිදුකිරීම, සම්පත් බෙදාගැනීම, විශේෂ කුසලතා ඇති ගුරුවරුන්ගේ දැනුම අවශ්‍ය අවස්ථාවන්හිදී සිසුන්ට ලබාදීම, ගුරුවරු හිඟ අවස්ථාවන්හිදී ප්‍රතිසංස්කරණ සඳහා පහසුකම් සැලසීම යන කාර්යයන් ඵලදායීව හා කාර්යක්ෂමව ඉටු කිරීම සඳහා එම උපාංග මඟින් සහාය ලබාගැනීමට හැකි වේ.
+A feasibility study has also been carried out regarding the implementation of the project.
 
-ඒ අනුව ශක්‍යතා අධ්‍යයන වාර්තාව මත පදනම්ව යෝජිත ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම සඳහා අධ්‍යාපන අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The proposed project is a network operating unit (Receiving Class Room) and a network unit of education, studio (pastiging classroom) and a network unit of education with receptors.Expected to give a transmissions room (conferency room).
+
+The instructions can be supported in effective and efficiently to facilitate the reforms, facilitating the work of teachers, and efficiently facilitate reforms in the event of a mixed learning methodology.
+
+The proposal presented by the Minister of Education has been approved by the Minister of Education to implement the proposed project based on the feasibility study report.
 
 ◼️
 
 [Data](articles/080c9ade.json)
 
+[Extended Data](ext_articles/080c9ade.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### ‘Industry EXPO 2024’ set to take place from June 19-23 at BMICH
+
+*2024-05-07 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99056/industry-expo-2024-set-to-take-place-from-june-19-23-at-bmich) · `en`
+
+Minister of Industries and Health, Dr. Ramesh Pathirana, announced that the forthcoming “Industry EXPO 2024” will grace the Bandaranaike Memorial International Conference Hall (BMICH) from June 19th to 23rd, under the patronage of President Ranil Wickremesinghe.
+
+Additionally, the minister highlighted the debut of the inaugural international conference alongside the prestigious “Industry Green Awards” ceremony, aimed at fostering a culture of sustainable practices within the industry.
+
+Minister Ramesh Pathirana made these remarks while addressing a media briefing at the Presidential Media Centre (PMC) held on Monday (06) under the theme “Collective Path to a Stable Country”.
+
+The upcoming International Industry Exhibition, “Industry EXPO 2024,” is set to take place from June 19th to 23rd at the BMICH, with the esteemed presence of President Ranil Wickremesinghe at its opening ceremony.
+
+...
+
+[Data](articles/0b4b6adb.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-05-07 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196356) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ වී තිබේ.
+The Parliamentary Council has begun, with the Deputy Speaker chairing. The Sri Lanka Parliament has convened a special session on the Second Reading Community Bill. The Sri Lanka Transport Board and COPE are summoned to the COP Committee. The Ministry of Tourism and Ministry of Finance are also called to committees.
+
+🟩
+
+The Deputy Speaker has commenced chaired by Parliament.
 
 පරාටේ නීතිය තාවකාලිකව අත්හිටුවන, බැංකු මඟින් ප්‍රදානය කරන ලද, ණය අයකර ගැනීමේ විශේෂ විධිවිධාන සංශෝධන පනත් කෙටුම්පත පිළිබද විවාදය අද (07) පැවැත්වීමට නියමිතව තිබේ.
 
-එහිදී බෙදුම් නඩු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීම සහ පරාටේ නීතිය තාවකාලිකව අත්හිටුවන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්විමට නියමිතය.
+The Second Reading Debate the Second Reading Debate is due to be held the Second Reading Community Bill at the Second Reading and Temporary Certificate of the Division.
 
-මේ අතර මෙම සතිය තුළ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව හමුවට ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලය සහ සුනිත්‍ය බලශක්ති අධිකාරිය කැඳවීමට නියමිතව තිබේ.
+Meanwhile, the Sri Lanka Transport Board and the Sustainable Energy Authority (COPE) has been summoned to the Committee on Public Enterprises or COP Committee this week.
 
-ලබන බ්‍රහස්පතින්දා දිනයේ ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයේ නිලධාරීන් කෝප් කමිටුව හමුවට කැඳවා ඇති අතර සුනිත්‍ය බලශක්ති අධිකාරියේ නිලධාරීන් සිකුරාදා දිනයේ කැඳවා ඇති බව වාර්තා වේ.
+Sri Lanka Transport Officers on Thursday
 
-ඊට අමතරව අද දිනයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවට සංචාරක අමාත්‍යංශය කැඳවා ඇති අතර හෙට (08) දිනයේ බුද්ධ ශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යංශය කැඳවා තිබේ.
+In addition, the Ministry of Tourism has been summoned to the Committee on Public Accounts today and tomorrow (08), the Buddha Sasana, Religious and Cultural Affairs.
 
-මුදල්, ආර්ථික ස්ථායිකරණ හා ජාතික ප්‍රතිපත්ති අමාත්‍යංශය ලබන බ්‍රහස්පතින්දා දිනයේ රජයේ ගිණුම් පිළිබඳ කාරක සභාවට කැඳවා ඇති බව වාර්තා වේ.
+It is reported that the Ministry of Finance, Economic Stabilities and National Policies have been called to the Committee on Public Accounts on Thursday.
 
 ◼️
 
 [Data](articles/66cf1e36.json)
 
+[Extended Data](ext_articles/66cf1e36.ext.json)
+
 ---
 
-### තවත් අබිරහස් කාන්තා මරණයක්
+### Another mysterious women's death
 
 *2024-05-07 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196355) · `si`
 
-වැලිගම පොලිස් වසමේ, රාජගල, වැලිගම ප්‍රදේශයේ පිහිටි නිවසක් තුළ කාන්තාවක් අබිරහස් ලෙස ඝාතනය කර ඇතැයි වාර්තා වේ.
+A woman was found dead in Weligama, Rajagala, after a robbery. The 78-year-old victim was killed while her sister and brother-in-law were away. The body is at Matara hospital for examination.
 
-ඊයේ  (06) රාත්‍රී 11.30ට පමණ මියගිය කාන්තාව රැඳී සිටි නිවසට නාඳුනන පුද්ගලයින් කිහිපදෙනෙක් ඇතුළු වී ඇති අතර, නිවසේ තිබූ වටිනා දේ මංකොල්ල කා ඇතැයි අනාවරණය වී තිබේ.
+🟩
 
-පසුව අදාළ කාන්තාවගේ අත්පා ගැට ගසා නිවස තුළ ඝාතනය කර අතර, එලෙස මියගොස් ඇත්තේ 78 හැවිරිදි කාන්තාවක් බව පොලීසිය පවසයි.
+It is reported that a woman has been killed in a house in Weligama Police, Rajagala, Weligama.
 
-මියගිය කාන්තාව සිය සහෝදරිය හා ස්වාමිපුරුෂයා සමග ජීවත් වන අතර මොවුන් දෙදෙනා රාත්‍රී කාලයේ දි ප්‍රතිකාර ලබාගැනීම සඳහා වැලිගම නගරයට ගොස් නැවත නිවසට පැමිණෙන අතරතුර මෙම ඝාතනය සිදුව ඇත.
+Several people have entered the house where the woman who was dead at around 11.30 pm yesterday and had robbed the value of the house.
 
-මියගිය කාන්තාවගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණ කටයුතු සඳහා මාතර රෝහලට රැගෙන ගොස් තිබේ.
+A 78-year-old woman has been identified as a 78-year-old woman was killed.
+
+The deceased woman lives with his sister and her husband, and the murder had taken place while the two had gone back to Weligama town to take treatment at night.
+
+The body of the deceased woman has been taken to the Matara hospital for postmortem examination.
 
 ◼️
 
 [Data](articles/d8c299f9.json)
 
+[Extended Data](ext_articles/d8c299f9.ext.json)
+
 ---
 
-### අල්ලස් කොමිසමේ නව අධ්‍යක්ෂ ජනරාල්වරයා පත්කිරීමට එරෙහිව පෙත්සම් 3ක්
+### Notorious criminal ’Manna Ramesh’ extradited to Sri Lanka from Dubai
+
+*2024-05-07 09:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Notorious-criminal-Manna-Ramesh-extradited-to-Sri-Lanka-from-Dubai/108-282080) · `en`
+
+Colombo, May 7 (Daily Mirror) - Notorious criminal Ramesh Mihiranga, alias ‘Manna Ramesh’, who was arrested by the Dubai Police, was brought to Sri Lanka from the Bandaranaike International Airport, Katunayake this morning.
+
+A team from the Criminal Investigation Department (CID) left for Dubai to escort 'Manna Ramesh’ back to Sri Lanka following his arrest.
+
+Earlier, an Interpol Red Notice was issued for the arrest of ‘Manna Ramesh’, who was wanted for a host of crimes, including multiple murders in the Avissawella area.
+
+It was reported that Manna Ramesh was arrested by the Dubai Police two months ago while he was travelling in a car with his wife and two children.
+
+He will be detained by the CID for further questioning after being produced before court.
+
+◼️
+
+[Data](articles/c1b21ae3.json)
+
+---
+
+### 3 petitions against appointing new Director General of Bribery Commission
 
 *2024-05-07 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196354) · `si`
 
-අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ නව අධ්‍යක්ෂ ජෙනරාල් වරයා ලෙස ඩබ්ලිව්. කේ. ඩී. විජේරත්න මහතා පත්කිරීම සහ එම ධුරයේ කටයුතු කිරීම වළක්වාලන නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සම් 03 ක් ගොනුකර තිබේ.
+Three petitions against appointing K. D. as Director General of Bribery Commission, filed by an energy sector expert, journalist Fonseka, and Transparency International Sri Lanka. They argue K. D. lacks 15 years of criminal proceedings experience, violating the Constitution.
 
-බලශක්ති ක්ෂේත්‍රයේ විශේෂඥයෙකු වන විදුර රැළපනාව, මාධ්‍යවේදීනී රුවනි ෆොන්සේකා සහ ට්‍රාන්ස්පේරන්සි ඉන්ටර්නැෂනල් ශ්‍රී ලංකා සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබේ.
+🟩
 
-එහි වගඋත්තරකරුවන් ලෙස අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ සභාපතිවරයා ඇතුළු සාමාජිකයින්, එහි නව අධ්‍යක්ෂ ජනරාල්වරයා ලෙස පත්කරනු ලැබූ ඩබ්ලිව්. කේ. ඩී. විජේරත්න ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාවේ සාමාජිකයින්, නීතිපතිවරයා ඇතුළු පිරිසක් නම් කරනු ලැබ සිටී.
+Writing as the new Director General of Bribery or Corruption Commission as the new Director General of Investigation Commission. K. D. Three fundamental rights petitions have been filed before the Supreme Court demanding the appointment of Wijeratne and to issue a decree.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ, දූෂණ විරෝධී පනතේ 19 වන වගන්තිය යටතේ අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජනරාල්වරයා වශයෙන් පත්කරනු ලබන පුද්ගලයා නීතිඥයෙකු විය යුතු අතර ඔහුට අපරාධ නඩු කටයුතු මෙහෙයවීම පිළිබඳව වසර 15ක පලපුරුද්දක් තිබිය යුතු බවය.
+The petitions have been submitted by a specialist in the energy sector, journalist Fonseka and Transparency International Sri Lanka.
+
+Members of the Commission of Investigation Commission as its respondents and the Chairman of the Commission of Investigation Commission, who was appointed as its new Director General, as its new Director General. K. D. The members of the Constitutional Council are nominated by the Attorney General and several others.
+
+The petitioners claim that the person appointed as the Director General of the Bribery Commission under Section 19, and he should have 15 years of experience on criminal proceedings.
 
 ...
 
 [Data](articles/f76003d0.json)
 
+[Extended Data](ext_articles/f76003d0.ext.json)
+
 ---
 
-### විද්‍යා ඝාතන නඩුවේ අභියාචනා පෙත්සම් විභාගයෙන් සභාපති විනිසුරු ඉවත් වෙයි
+### Chairman's Judge Resigns Courtesy Petitions on Science's Murder case
 
 *2024-05-07 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196353) · `si`
 
-2015 වසරේ මහත් ආන්දෝලනයකට තුඩු දුන් යාපනයෙන් සිවලෝගනාදන් විද්‍යා නමැති පාසල් දැරියක් පැහැරගෙන ගොස් සමුහ දුෂණයට ලක් කොට මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටින ස්වීස් කුමාර් ඇතුළු විත්තිකරුවන් පස්දෙනෙකු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සම් විභාග කිරීම සඳහා අගවිනිසුරුවරයා විසින් පත් කළ පංච ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ සභාපති විනිසුරු එස්. තුරෙයි රාජා මහතා ඊයේ (06) ඉවත් වුණි.
+Supreme Court Judge S. Turai Raja resigns, citing delays in translating the Science's Murder case. Five judges, including Nawaz, Shiran Gunaratne, and Priyantha Fernando, summoned. Attorneys argue for six-year delay due to translation issues. Judge Turai Raja acknowledges translation deficit. Solicitor General Aimesha Jinasena states case correction is complete. Jaffna High Court sentences to death for abduction and murder.
 
-මෙම අභියාචනා ඊයේ එස්.තුරෙයි රාජා, යසන්ත කෝදාගොඩ, ඒ. එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවන ලදී.
+🟩
 
-එහිදී  පංච පුද්ගල විනිසුරු මඩුල්ලේ සභාපති විනිසුරු එස්.තුරෙයි රාජා මහතා සඳහන් කළේ, තමා නීතිපති දෙපාර්තමේන්තුවේ රාජකාරී කළ සමයේ මෙම නඩුවේ කටයුතු අධීක්ෂණය කර තිබෙන හෙයින් තමා මෙම අභියාචනා විභාගයෙන් ඉවත්වීමට තීරණය කළ බවය.
+President of the Title Supreme Court Judge of the Chief Justice to be abducted by the Chief Justice of a school girl in Jaffna, which had been abducted and executed by the Chief Justice in Jaffna and the execution of Swim Kumar.S. Mr. Turai Raja lifted yesterday (06).
 
-ඉන් අනතුරුව අදාළ අභියාචනා ජූලි මස 30 වනදා කැඳවන ලෙසත් විනිසුරු මඩුල්ල නියෝග කළේය.
+This appeal yesterday was Swasanti Raja, Yasantha Kodagoda, A. HMD. A five-member Supreme Court judge with Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned.
+
+The five judges Bench Paradam Chairman Judge S. Sewatai Raja said that he decided to leave the appearance of the Attorney General's Department.
+
+The judges were ordered to be summoned on July 30.
+
+Attorneys who appeared for the appellant defendants stated that the examination was delayed for about six years due to the lack of translations of the case.
+
+Responding, Judge Turai Raja said that there was a delay in the activities as there is a deficit from the translator.
 
 ...
 
 [Data](articles/e800d974.json)
 
+[Extended Data](ext_articles/e800d974.ext.json)
+
 ---
 
-### මාරක අනතුරු කිහිපයක්
+### Several deadly accidents
 
 *2024-05-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196352) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළ සිදුවූ රිය අනතුර කිහිපයකින් කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Four women died in accidents across Nittambuwa, Walapane, Kilinochchi, and Mattegoda. A 31-year-old man survived an accident in Galpotutena. A bag fell into a precipice, a bus hit a pavement on the Kandy-Jaffna A-9 road, and a 69-year-old woman died in Mattegoda. A van accident in Nittambuwa killed a 70-year-old woman, who was rushed to Vathupitiwala Hospital.
 
-පොලීසිය පැවසුවේ ඊයේ (06) එම අනතුරු සිදුව තිබුණේ නිට්ටඹුව, වලපනේ, කිලිනොච්චිය සහ මත්තේගොඩ යන පොලිස් වසම්වල බවය.
+🟩
 
-වලපනේ, නිල්දණ්ඩාහින්න, කලගන්නවත්ත පටු වංගු සහ බෑවුම් සහිත මාර්ගයේ මාලිගාතැන්න ගල්පොත්ත ප්‍රදේශයේ සිදුවූ අනතුරකින් 31 හැවිරිදි පුද්ගලයෙකු ජීවිත්ෂයට පත්ව ඇත.
+Four women, including two women, have died in a 24 hour accident.
 
-බෑකෝ යන්ත්‍රයක් රියදුරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට ලිස්සා ගොස් මීටර් 09ක් පමණ ප්‍රපාතයකට පෙරළී ගොස් එම අනතුර සිදුව තිබිණි.
+Police said that the accident had been reported in Nittambuwa, Walapane, Kilinochchi, Kilinochchi and Mattegoda Police Divisions.
 
-මේ අතර මහනුවර - යාපනය ඒ 9 මාර්ගයේ පරන්තන් ප්‍රදේශයේදී බස් රථයක් මාර්ගයේ වම් පසින් ගමන් කළ පදික පුද්ගලයෙකු ගැටී අනතුරක් සිදුව තිබිණි.
+A 31-year-old man has become a group of students from an accident in the Galpotutena area of Walapane, Nilindana, Kalageda.
 
-අනතුරින් බරපතළ තුවාල ලැබූ පදික පුද්ගලයා කිලිනොච්චිය රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් ඇත.
+A bag slipped away from the driver, slipped away from the road, and fell into a precipice.
 
-එලෙස මියගොස් ඇත්තේ, නෙලුම්කුලම්, වව්නියාව ප්‍රදේශයේ පදිංචිව සිටි 27 හැවිරිදි තරුණයෙකි.
+Meanwhile, a bus collided with a pavement that was traveling along the Paranthan area on the Kandy-Jaffna A-9 road.
 
-මේ අතර මත්තේගොඩ, කිරිගම්පමුණුව, සල්ගස් හන්දිය ප්‍රධාන මාර්ගයේ මත්තේගොඩ නගරය ප්‍රදේශයේ සිදුවූ අනතුරකින් 69 හැවිරිදි කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇත.
+The victim was admitted to the Kilinochchi hospital.
+
+The victim was a 27 year old resident of Nelumkulam, Vavuniya Vavuniya.
+
+Meanwhile, a 69-year-old woman died in an accident in Mattegoda, Mattegoda, Kirimpamunuwa, Salugampamunaya main road.
+
+The accident had occurred when a car traveling along the road, police said.
+
+Meanwhile, a van in Nittambuwa maintains on the Colombo-Kandy main road was an accident with a woman traveled through the paved shift.
 
 ...
 
 [Data](articles/58c0a514.json)
 
+[Extended Data](ext_articles/58c0a514.ext.json)
+
 ---
 
-### පොහොට්ටුවේ සියලු මන්ත්‍රීවරුන්ට හා සංවිධායකවරුන්ට කැඳවීමක්
+### Racism, body-shaming fly high with Air Belgium crew against SriLankan staff
 
-*2024-05-07 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196350) · `si`
+*2024-05-07 07:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Racism-body-shaming-fly-high-with-Air-Belgium-crew-against-SriLankan-staff/155-282079) · `en`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ සියලු සංවිධායකවරුන් කොළඹට කැඳවා තිබේ.
+Air Belgium (AB) planes are leased out by Sri Lankan (UL) Airlines and they are to operate with a mix of AB and UL crew to service routes covered by UL Airlines
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නිර්මාතෘ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා විසින් අදාළ කැඳවීම සිදුකර ඇති බව වාර්තා වේ.
+UL Pilots and crew were allegedly given only economy class seats while AB crew flew business class
 
-ඒ අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණ නියෝජනය කරන සියලු පාර්ලිමේන්තු මන්ත්‍රීවරුන් සහ සංවිධායකවරුන් නෙළුම් මාවතේ පිහිටි පක්ෂ මූලස්ථානය වෙත පෙරවරු 10.45ට කැඳවා ඇති බව සඳහන්ය.
+AB Captain Phillippe Enneken allegedly called a UL Captain an ‘Asshole’
 
-ඉදිරි දේශපාලන තත්ත්වය සම්බන්ධයෙන් සාකච්ඡා කිරීම මෙම හමුවේ අරමුණ වී ඇති බව වාර්තා වේ.
+An AB Pilot allegedly body shamed an UL Pilot calling him ‘big fat captain’
 
-මේ අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා අතර පසුගියදා පැවති සාකච්ඡාවේ දී ගනුලැබු තීන්දු තීරණ පිළිබඳව ද මෙහිදී සාකච්ඡා කිරීමට නියමිතව තිබේ.
+UL staff allege that AB crew took away drinks and bites that were to be given to Passengers
 
-ජනාධිපතිවරයා සහ බැසිල් රාජපක්ෂ මහතා අතර පවතින දේශපාලන තත්ත්වය සම්බන්ධයෙන් පසුගිය සෙනසුරාදා පස්වරුවේ අදාළ  සාකච්ඡාව පවත්වා ඇති බව සඳහන්ය.
+UL pilots are compelled to seek other travel arrangements as they are allegedly not allowed on AB flights(though it is leased out by UL) incurring more costs to the airline
 
-මේ අතර වසර 05කට පසුව ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය වෙත හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සාකච්ඡාවක් සඳහා පැමිණ තිබේ.
+UL has initiated an investigation and statements obtained from UL crew members and pilots
 
 ...
 
-[Data](articles/3f0fe884.json)
+[Data](articles/56aeb6d9.json)
 
 ---
 
-### මන්නා රමේෂ්ව දිවයිනට රැගෙන එයි
+### First-ever Inter-Indian Association Cricket Tournament
+
+*2024-05-07 07:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/First-ever-Inter-Indian-Association-Cricket-Tournament/110-282019) · `en`
+
+The Indian Cultural Association (ICA) yesterday hosted the first-ever Inter-Indian Association Cricket Tournament. The event featured matches between various Indian associations in Sri Lanka. The highlight of the day was the exhibition match between the Legends of 96, the Sri Lanka cricket team that won the ICC world cup in 1996, and the Indian Diaspora. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/bc0d4a1e.json)
+
+---
+
+### Calling all MPs and organizers of the pove
+
+*2024-05-07 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196350) · `si`
+
+Sri Lanka General Front and Civil Front members summoned to Colombo for political discussions. Basil Rajapaksa, founder of Civil Front, involved. Recent talks between President Wickremesinghe and Rajapaksa discussed. Chandrika Bandaranaike Kumaratunga visits SLFP after 5 years, with Amaraweera, Ragawan, and Dissanayake present.
+
+🟩
+
+Members of the Sri Lanka General Front and all organizers have been summoned to Colombo.
+
+Former minister Basil Rajapaksa, the founder of the Sri Lanka Civil Aryn Front has been identified.
+
+Accordingly, all the Members of Parliament and the organizers representing the Sri Lanka Civil Front have been summoned to the party headquarters at Nelum Mawatha, 10.45 am.
+
+It is reported that this is aimed at discussing the future political situation.
+
+Meanwhile, discussed the recent discussions between President Ranil Wickremesinghe and former Minister Basil Rajapaksa at the recent discussion.
+
+The discussion was held on Saturday afternoon regarding the political situation between the President and Basil Rajapaksa.
+
+Meanwhile, former President Chandrika Bandaranaike Kumaratunga has arrived in the SLFP headquarters after five years.
+
+Minister Mahinda Amaraweera and the Minister of State Suresh Ragawan and MP Duminda Dissanayake were also present at the discussion held at the Sri Lanka Freedom Party (06).
+
+◼️
+
+[Data](articles/3f0fe884.json)
+
+[Extended Data](ext_articles/3f0fe884.ext.json)
+
+---
+
+### ‘Manna Ramesh’ repatriated to Sri Lanka from Dubai
+
+*2024-05-07 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99055/manna-ramesh-repatriated-to-sri-lanka-from-dubai) · `en`
+
+Underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, who was arrested in Dubai has been brought back to Sri Lanka this morning (07) by a team of CID officers, the Police Spokesman said.
+
+DIG Nihal Thalduwa said the special team of CID officers accompanying the wanted underworld figure had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (07).
+
+On March 06, it was reported that Sri Lankan security forces had been informed that notorious underworld figure Ramesh Priyajanaka, alias ‘Manna Ramesh’, had been arrested in Dubai, UAE.
+
+Accordingly, a group of police officers were later dispatched to Dubai to escort the wanted criminal back to Sri Lanka, upon a request made to the Dubai Police that he be handed over to Sri Lankan authorities.
+
+...
+
+[Data](articles/71f0a715.json)
+
+---
+
+### Manna brought Ramesh to the island
 
 *2024-05-07 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196348) · `si`
 
-ඩුබායිහිදී අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු ලෙස සැලකෙන රමේෂ් ප්‍රියජනක හෙවත් 'මන්නා රමේෂ්' දිවයිනට රැගෙනවිත් තිබේ.
+Ramesh Priyro, a Dubai crime leader, was arrested and brought to Manna Ramesh Island for murder, drug trafficking, and extortion charges. Dubai Police released a red warrant for his arrest.
 
-අද (07) අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ පොලිස් කණ්ඩායමක් විසින් සැකකරු ඩුබායිහි සිට දිවයිනට රැගෙන ආ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+🟩
 
-ජාත්‍යන්තර පොලීසිය හරහා රතු වරෙන්තු නිකුත් කර තිබූ මන්නා රමේෂ් නැමැත්තාව පසුගියදා ඩුබායි පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+Ramesh Priyro, who is considered a group of organized crime leader in Dubai, has been taken to the island of Manna Ramesh.
 
-මනුෂ්‍ය ඝාතන, මත්ද්‍රව්‍ය ජාවාරම් සහ කප්පම් ගැනීම් ඇතුළු අපරාධ රැසකට මන්නා රමේෂ්ට එරෙහිව චෝදනා එල්ල වී තිබේ.
+Police Media Spokesperson DIG Talkinga said that the suspect was brought to the island from Dubai this morning (07).
 
-අවිස්සාවේල්ල ප්‍රදේශය මුලික කරගෙන ව්‍යාපාරිකයින්ගෙන් කප්පම් ගැනීමේ සිදුවීම් රැසක් සම්බන්ධයෙන් සැකකරුට එරෙහිව චෝදනා එල්ල වී ඇති අතර පසුගිය කාලයේ සිදුවූ ඝාතන කිහිපයක්ම ඔහුගේ මෙහෙයවීම මත සිදුව ඇති බව අනාවරණය වී තිබේ.
+Dubai Police recently released the red warrant through the International Police, Dubai Police recently arrested.
 
-දිවයිනට රැගෙන ආ සැකකරු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වැඩිදුර විමර්ශන සිදුකරයි.
+Manna Ramesh has been accused of murder, drug trafficking and extortion.
+
+The suspect has been accused of extortion in the business and extorting businesses in the past.
+
+The CID is conducting further investigations into the suspect he was brought to the island.
 
 ◼️
 
 [Data](articles/7a9fd628.json)
 
+[Extended Data](ext_articles/7a9fd628.ext.json)
+
 ---
 
-### කාලගුණයේ වෙනසක්
+### Showery conditions over most parts of the island to enhance in next few days
+
+*2024-05-07 06:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99054/showery-conditions-over-most-parts-of-the-island-to-enhance-in-next-few-days) · `en`
+
+The Meteorology Department says an enhancement of showery condition over most parts of the island is expected during next few days (after May 08th).
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, North-western, Uva and Eastern provinces and in Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places elsewhere during the afternoon or night.
+
+Showers may occur over the coastal areas of Puttalam to Hambantota via Colombo and Galle during the morning too, it said.
+
+Fairly heavy showers about 50 mm are likely at some places in Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/f6c185b5.json)
+
+---
+
+### A change in the weather
 
 *2024-05-07 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196347) · `si`
 
-ඉදිරි දිනවලදී හෙටින් (08) පසු දිවයිනේ බොහෝ ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology forecasts increased rainfall in many parts of the island after tomorrow, with showers or thundershowers expected in several areas. Coastal areas from Puttalam to Hambantota, including Colombo and Galle, will experience showers. Strong showers are predicted in some locations, with the department advising the public to take precautions against winds and lightning.
 
-එම දෙපාරත්මේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, ඌව සහ නැගෙනහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (07) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+🟩
 
-සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Department of Meteorology states that a rainy increase in many parts of the island will be increased in many parts of the island after tomorrow (08).
 
-පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The department referencies in the Western, Sabaragamuwa, Central, North Western, Uva and Eastern Provinces today (07). Showers or thundershowers will occur at several places around 2.
 
-බස්නාහිර, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 50 පමණ තරමක තද වැසි ඇතිවේ.
+Showers or thundershowers will occur at a few places in the evening or night in the other areas.
 
-මධ්‍යම සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Met Department forecasts showers in the coastal areas from Puttalam to Hambantota via Colombo and Galle.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some locations in the Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts. Strong showers around 50.
+
+The Meteorology Department states that in some places in the Central and Sabaragamuwa provinces, the Met Department said.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/307e198e.json)
+
+[Extended Data](ext_articles/307e198e.ext.json)
+
+---
+
+### Colombo among first 9  destinations to join  Emirates’ A350 network
+
+*2024-05-07 05:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-among-first-9-destinations-to-join-Emirates-A350-network/108-282057) · `en`
+
+Colombo will be among the first set of destinations to be served by Emirates’ A350 aircraft entering service in September 2024, the airline announced yesterday.
+
+Emirates’ fourth daily service to Colombo, EK654/655, will be served by A350 from January 1, 2025.
+
+With 10 new A350s expected to join the Emirates fleet by March 31, 2025, the airline plans to deploy its latest aircraft type to nine destinations in the coming months, offering the customers its latest signature cabin experiences.
+
+...
+
+[Data](articles/1511a382.json)
 
 ---
 
@@ -279,6 +577,94 @@ Heat Index at ‘Extreme Caution level’ in Northern, North-central and Eastern
 [Data](articles/681ac116.json)
 
 [Extended Data](ext_articles/681ac116.ext.json)
+
+---
+
+### Concerns emerge on unauthorised players entering local lubricant sector
+
+*2024-05-07 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-emerge-on-unauthorised-players-entering-local-lubricant-sector/108-282061) · `en`
+
+While Sri Lanka’s petroleum industry awaits the establishment of a new regulator, concerns are being raised about the potential for unauthorised players to enter the market, particularly in the lubricant sector.
+
+The previous regulatory body, the Public Utilities Commission of Sri Lanka (PUCSL), ceased its activities in market monitoring, consumer and trade education, import inspection and action against unauthorised operators and product adulterators.
+
+As per the Energy Ministry directive, the lubricant licence fees that were previously paid to the PUCSL are now to be paid directly to the ministry.
+
+An entity expressing concerns in this regard is Chevron Lubricants Lanka PLC.
+
+“With this development, there is a risk that the vacuum could result in a proliferation of unauthorised players and product adulterators, which would be detrimental to the licensed players, consumers and government, in terms of loss of revenue,” said its MD/CEO Bertram Paul in the company’s annual report.
+
+...
+
+[Data](articles/85abde1a.json)
+
+---
+
+### US House passes anti-Semitism curbing Bill as university students turn against Israel
+
+*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/US-House-passes-anti-Semitism-curbing-Bill-as-university-students-turn-against-Israel/172-282042) · `en`
+
+The United States House of Representatives has overwhelmingly passed a Bill that would expand the definition of anti-Semitism (anti-Jew). The Bill was passed when university students across the US had risen to condemn Israel’s genocide in Gaza. It now goes to the Senate for consideration.
+
+When it becomes law, the “Anti-Semitism Awareness Bill” would allow the US Federal Department of Education to restrict funding and other resources to campuses perceived as tolerating anti-Semitism.
+
+The law would mandate government civil rights offices to adopt the International Holocaust Remembrance Alliance’s (IHRA’s) definition of anti-Semitism.
+
+But the definition has also drawn criticism because most of its examples of anti-Semitism involve criticism of Israel, including calling it a “racist endeavour or a racist project.”
+
+...
+
+[Data](articles/06d37f57.json)
+
+---
+
+### VFS gears up to promote Sri Lanka amid visa woes
+
+*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VFS-gears-up-to-promote-Sri-Lanka-amid-visa-woes/108-282063) · `en`
+
+Sri Lanka Tourism confirms no such discussion has taken place as yet
+
+VFS says SL tourism promotion will be “comprehensively carried out through new eVisa platform”
+
+VFS Global, which is currently facing a backlash, vows to boost Sri Lanka’s global image through a robust marketing plan with Sri Lanka Tourism. However, the details remain under wraps from the tourism authorities, Mirror Business learns.
+
+The objective of the promotion is to achieve growth in inbound arrivals from the source markets, utilising its global network, as per the vision of the government to achieve five million tourist arrivals in Sri Lanka, VFS Global said in a statement to the media that ran six pages, consisting of details regarding its operations and plans in the island nation.
+
+When Mirror Business reached out to the Sri Lanka Tourism Development Authority (SLTDA) for clarity in this regard, Chairman Priantha Fernando said neither the institution nor the Tourism Promotions Bureau is aware of any such plans.
+
+...
+
+[Data](articles/093129a1.json)
+
+---
+
+### Collective resolve of regional and international actors, a glimmer of hope for Afghans - Air Chief Marshal Bulathsinghala
+
+*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Collective-resolve-of-regional-and-international-actors-a-glimmer-of-hope-for-Afghans-Air-Chief-Marshal-Bulathsinghala/172-282040) · `en`
+
+Afghanistan has been in deep political divisions, structural governance  challenges, and economic insecurity to impede durable peace and  development progress for years. The interruption of the fragile peace  talks with the Taliban and the withdrawal of the NATO troops have  created more uncertainty for Afghanistan. The power shift made on 15th  August 2021 has complicated the matter further to a very higher  proportion
+
+The United Nations Assistance Mission in Afghanistan (UNAMA) is a  political UN mission established to assist the people of Afghanistan in  laying the foundations for sustainable peace and development. United  Nations Security Council Resolution 1401 established UNAMA on March 28,  2002. Its original mandate was to support the Bonn Agreement of December  2001
+
+...
+
+[Data](articles/2cddfcb8.json)
+
+---
+
+### Press freedom, a boon for economic recovery
+
+*2024-05-07 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Press-freedom-a-boon-for-economic-recovery/172-282041) · `en`
+
+Sri Lanka ranked 150 out of 180 countries in the 2024 Edition of the Press Freedom Index, published annually by Reporters Without Borders (Reporters Sans Frontiers - RSF) is a remarkable drop of 15 positions from 135 to 150 when compared to 2023.
+
+However, Sri Lanka has been ranked higher than India, Pakistan and Bangladesh. India is ranked 159th, Pakistan 152nd and Bangladesh 165th. Norway is ranked in the top position and Eritrea  in the last position. The RSF’s ranking is based on five indicators such as political context, legal framework, economic context, socio-cultural context and safety of journalists.
+
+Sri Lankan authorities might still argue that media freedom in the country is above what prevails in the neighbouring countries and also they might find gaps in the index citing the fact that one of the criteria for Sri Lanka’s ranking in the index is the unresolved issues that have occurred during the separatist war which ended 15 years ago.
+
+...
+
+[Data](articles/5b63852c.json)
 
 ---
 
@@ -314,19 +700,41 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
-### හමාස් සටන් විරාමයකට එකඟවෙයි
+### UK’s Indo-Pacific Regional Director meets Anura Kumara
+
+*2024-05-06 22:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UKs-Indo-Pacific-Regional-Director-meets-Anura-Kumara/108-282056) · `en`
+
+Colombo, May 06 (Daily Mirror)- Indo-Pacific Regional Director of the UK Foreign, Commonwealth and Development Office Ben Mellor met NPP leader Anura Kumara Dissanayake at the JVP Head Office this afternoon.
+
+Humaira Hatia, Head of Sri Lanka at UK Foreign, Commonwealth and Development Office, and Andrew Patrick, the British High Commissioner to Sri Lanka, Tom Soper, the First Secretary, and  MP Vijitha Herath attended the meeting.
+
+The current economic and political situation in Sri Lanka, regional geopolitical challenges and cooperation between the United Kingdom and Sri Lanka were discussed at length, party sources said.
+
+◼️
+
+[Data](articles/5c4d8476.json)
+
+---
+
+### Hamas agrees to a ceasefire
 
 *2024-05-06 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196346) · `si`
 
-ඊජිප්තුව සහ කටාර් රාජ්‍යයෙන් ඉදිරිපත් කරන ලද සටන් විරාම යෝජනාව පිළිගත් බව හමාස් සංවිධානය ප්‍රකාශයට පත්කර තිබේ.
+Hamas accepts ceasefire proposal from Egypt and Qatar, as reported by foreign media.
 
-එම සංවිධානය උපුටා දක්වමින් විදෙස් මාධ්‍ය මේ බව වාර්තා කර ඇත.
+🟩
 
-හමාස් නායක ඉස්මයිල් හනියේ, මෙම යෝජනාව පිළිගත් බවට කටාර් අග්‍රාමාත්‍යවරයා සහ ඊජිප්තු බුද්ධි අංශ ප්‍රධානියා වෙත දැනුම්දී ඇති බවද එම වාර්තා සඳහන් කරයි.
+Hamas has been announced that the ceasefire proposal presented by Egypt and Qatar.
+
+Foreign media has been reported from quoting the organization.
+
+The reports of the Hamas leader Ismailine have informed the Prime Minister of Qatar and the Head of the Egyptian intelligence that the proposal was accepted.
 
 ◼️
 
 [Data](articles/2b53082f.json)
+
+[Extended Data](ext_articles/2b53082f.ext.json)
 
 ---
 
@@ -362,15 +770,21 @@ Sharing a few words on the new partnership, Naleen Edirisinghe, CEO of Pan Asia 
 
 ---
 
-### අනුර එක්වන 360 සජීවී විකාශය
+### 170 live broadcast joins Anura
 
 *2024-05-06 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196345) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා එක්වන දෙරණ 360 සජීවී විකාශය.
+Anura Kumara Dissanayake, leader of the National Power, joins 360 live broadcasts.
+
+🟩
+
+Leader of the National Power Anura Kumara Dissanayake joins 360 live broadcasts.
 
 ◼️
 
 [Data](articles/6e7d6ef1.json)
+
+[Extended Data](ext_articles/6e7d6ef1.ext.json)
 
 ---
 
@@ -391,6 +805,26 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/34c99b9c.json)
 
 [Extended Data](ext_articles/34c99b9c.ext.json)
+
+---
+
+### Sri Lanka, Scotland gear up for big final that decides Women’s T20 World Cup groups
+
+*2024-05-06 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Scotland-gear-up-for-big-final-that-decides-Womens-T20-World-Cup-groups/108-282052) · `en`
+
+May 6 (ICC) - Sri Lanka and Scotland will battle it out in the final of the ICC Women's T20 World Cup Qualifier 2024 at the Sheikh Zayed Stadium in Abu Dhabi
+
+After confirming their spots in the ICC Women's T20 World Cup 2024 in Bangladesh later this year, Sri Lanka and Scotland will face each other in the final of the tournament in Abu Dhabi on Tuesday, 7 May.
+
+The match also decides which groups the two teams will fall into at the big event later this year.
+
+Australia, India, New Zealand and Pakistan are in Group A while South Africa, England, West Indies, and hosts Bangladesh form Group B, as revealed in the fixtures announcement earlier this week.
+
+The winner of the Qualifier final will slot into Group A as Qualifier 1 while the runners-up will be in Group B as Qualifier 2.
+
+...
+
+[Data](articles/ff0d40a2.json)
 
 ---
 
@@ -430,67 +864,367 @@ All Share Price Index went down by 28.07 points, while S and P SL20 declined by 
 
 ---
 
-### ක්‍රිකට් පන්දුව වැදුණු දරුවෙකුට අත්වූ ඉරණම
+### Sri Lanka tourism minister opposes VFS Global linked visa fees in cabinet
+
+*2024-05-06 21:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-minister-opposes-vfs-global-linked-visa-fees-in-cabinet-161651/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Tourism Minister Harin Fernando said he has objected to fees charged from foreign tourists by VFS Global, a private company, though he has not resigned from cabinet.
+
+“When the new proposal was introduced, VFS charges were not mentioned,” Fernando said in an X.com post.
+
+2. When the new proposal was introduced, VFS charges were not mentioned. Since it came to light, I have objected to the proposal. @sajithpremadasa
+
+Sri Lanka’s tourist visa went from 50 to 100 dollars as an online portal was shifted to IVF-GBS, VFS Global, a private contractor, following an unsolicited proposal.
+
+Sri Lanka’s tourism minister has introduced ‘free’ visas to seven countries to boost visitors but the private companies are collecting 18.50 and another 7 dollar fee from visitors from those countries as well.
+
+A purported resignation letter that was circulating was not genuine, Minister Fernando said, told cabinet he did not want “to be a part of the decision to increase any visa fees.”
+
+◼️
+
+[Data](articles/2f091cfe.json)
+
+---
+
+### IFC Regional Vice President signals support for Sri Lanka’s reforms and growth agenda
+
+*2024-05-06 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99053/ifc-regional-vice-president-signals-support-for-sri-lankas-reforms-and-growth-agenda-) · `en`
+
+Concluding a two-day visit, IFC’s Vice President for Asia Pacific, Riccardo Puliti, signaled IFC’s commitment to supporting Sri Lanka’s ongoing reforms and growth agenda, while emphasizing the importance of private sector-led development for inclusive economic growth.
+
+The visit served as an opportunity for Puliti to engage with key stakeholders, including meeting the President of Sri Lanka, Ranil Wickremasinghe, Minister of Power and Energy, Kanchana Wijesekera, Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, private sector representatives, and development partners.
+
+...
+
+[Data](articles/898d735d.json)
+
+---
+
+### Singapore to send team to study Sri Lanka’s airport and immigration systems
+
+*2024-05-06 21:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singapore-to-send-team-to-study-Sri-Lankas-airport-and-immigration-systems/108-282043) · `en`
+
+Colombo, May 6 (Daily Mirror) - Public Security Minister Tiran Alles said today that the Singapore government has agreed to send a five-member team to Sri Lanka to conduct a comprehensive study of the country's airport and immigration systems.
+
+Expressing the need for Sri Lanka's immigration services to evolve, the Minister said he has requested the Singapore government to assess and provide recommendations for enhancing Sri Lanka's airport and immigration systems to match Singapore's standards.
+
+The Singapore government has agreed to send a team to Sri Lanka on May 27, he said.
+
+"The team will assess our systems and submit a detailed report to us," Minister Alles said.
+
+"We all know that Singapore has the best technology compared to Europe. We may not be able to implement those levels into our system immediately due to economic challenges. However, based on the report, we can adapt some technology that we can afford," the Minister told reporters in Colombo.
+
+◼️
+
+[Data](articles/754afce0.json)
+
+---
+
+### Gammanpila calls for Central Bank governor’s resignation
+
+*2024-05-06 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99052/gammanpila-calls-for-central-bank-governors-resignation) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader MP Udaya Gammanpila claims that the Central Bank of Sri Lanka (CBSL) had increased the salaries of its employees by the biggest margin in its history, despite having recorded losses of billions of rupees for two consecutive years.
+
+“The net loss of Central Bank of Sri Lanka in 2023 is Rs. 114 billion. In 2022, the net loss is Rs. 374 billion. If a certain institute incurs losses continuously, the privileges of the institution, bonuses and salary increments will be limited and suspended,” he said, speaking to reports in Colombo today (06).
+
+However, the former minister charged that despite having continuously incurred great losses for several years, the Central Bank is giving its employees the highest salary hikes. “Even if it’s profitable, it’s still public money.”
+
+...
+
+[Data](articles/2f973256.json)
+
+---
+
+### The fate of a child of cricket
 
 *2024-05-06 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196344) · `si`
 
-ක්‍රිකට් ක්‍රීඩා කරමින් සිටි කුඩා දරුවෙකුගේ රහස් ප්‍රදේශයේ පන්දුව වැදීමෙන් එම දරුවා එම ස්ථානයේදීම මියගිය පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+In Pune, India, an 11-year-old boy, Shaurya Khadwe, was tragically hit in the groin by a cricket ball, leading to his death. The incident, reportedly involving a child playing cricket, has sparked outrage and is being widely shared on social media.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 11 හැවිරිදි වියේ පසුවූ Shaurya Khadwe නමැති කුඩා දරුවෙකි.
+🟩
 
-මෙම අවාසනාවන්ත සිදුවීම වාර්තාවන්නේ ඉන්දියාවේ මහාරාෂ්ට්‍ර ප්‍රාන්තයේ පූනේ ප්‍රදේශයෙන් බව එම වාර්තා වැඩිදුරටත් පෙන්වා දී තිබේ.
+The child has reportedly targeted the child in the secret area of a small child who was playing cricket.
 
-එහිදී සිය මිතුරන් සමග ක්‍රීඩා කරමින් සිටි Shaurya Khadwe යොමුකළ පන්දුවකට පන්දුවට පහරදෙමින් සිටි මිතුරා එල්ලකළ පහර ඔහුගේ රහස් ප්‍රදේශයට වැදී ඇති බව එම වාර්තා සඳහන් කරයි.
+The victim was a small child named Shaurya Khadwe, 11 year old.
 
-මෙහිදී දරුවා එම ස්ථානයේ සිහිසුන්ව සිටි දරුවා රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව අවාසනාවන්ත ලෙස මියගොස් ඇත.
+The unfortunate incident has been reported from the area in Pune, India.
 
-එම අවස්ථාව දැක්වෙන වීඩියෝ පටයක් ද මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+The friend who was attacked by a brand who was attacked by a ball, which was playing with his friends, had hit his secret area.
+
+The child had died of admission to the hospital where the child was unconscious.
+
+A video showing that is already being exchanged through social media.
 
 ◼️
 
 [Data](articles/d6e59eb3.json)
 
+[Extended Data](ext_articles/d6e59eb3.ext.json)
+
 ---
 
-### හමුදාවේ හිටපු සැරයන්වරයෙකු පහරදී ඝාතනය කරයි
+### Heat index forecast warns of extreme caution levels for 12 districts
+
+*2024-05-06 21:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-index-forecast-warns-of-extreme-caution-levels-for-12-districts/108-282035) · `en`
+
+Colombo, May 6 (Daily Mirror) - While issuing a heat index forecast until tomorrow evening, it has been indicated today that the temperature experienced by the human body is forecast to rise to the extreme caution level, the Natural Hazards Early Warning Centre of the Meteorology Department said.
+
+As per the latest report, 12 districts, including those in the Northern, North-Central and Eastern Provinces, as well as the Kurunegala and Moneragala districts, have been identified as areas experiencing extreme heat caution levels.
+
+It is projected that the temperature, reaching caution levels, will rise in 10 districts, including the Western, Sabaragamuwa, and Southern Provinces, as well as the Puttalam and Matale districts.
+
+However, the districts of Kandy, Nuwara Eliya and Badulla are reported to have normal temperatures ranging between 27 and 38 degrees Celsius.
+
+...
+
+[Data](articles/5a8232bf.json)
+
+---
+
+### Sri Lanka to retain existing visa fee
+
+*2024-05-06 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-retain-existing-visa-fee/108-282037) · `en`
+
+Colombo, May 06 (Daily Mirror) - The Cabinet decided to uphold the existing visa fee of USD 50 for a 30-day visa for foreign visitors to Sri Lanka, the President’s Media Division announced today.
+
+The Cabinet also reaffirmed the provision of free visa services to citizens of seven countries, including India, China and Japan, among others.
+
+The Department of Immigration and Emigration will continue to oversee the issuing of relevant visas upon entry into the country for foreigners.
+
+The decision comes in response to calls from various stakeholders within the tourism industry, who advocated for maintaining the current visa fee to sustain the sector's growth momentum.
+
+◼️
+
+[Data](articles/823f65c7.json)
+
+---
+
+### An army sergeant assaulted
 
 *2024-05-06 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196343) · `si`
 
-තෙඹුවන බේගමුව ප්‍රදේශයේදී හිටපු යුද හමුදා සාමාජිකයෙකු පැහැරගෙන ගොස් පොලුවලින් පහර දී ඝාතනය කර ඇත.
+A former soldier was killed by a former Army personnel in Tembuwana Bagamuwa, allegedly over a cheating incident involving 2 lakhs of Rs. The suspect has been arrested.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ එම ප්‍රදේශයේම පදිංචිව සිටි 51 හැවිරිදි වියේ පසුවූ හිටපු යුද හමුදා සැරයන්වරයෙකි.
+🟩
 
-පුද්ගලයින් දෙදෙනෙකු විදෙස්ගතකරන බවට පොරොන්දුවී රුපියල් ලක්ෂ 8ක මුදලක් වංචා කළ බව කියන සිද්ධියක් මත මෙම ඝාතනය සිදුව ඇති බවට සැකපළ කරයි.
+A former soldier was abducted and killed by a former Army personnel in the Tembuwana Bagamuwa area.
 
-සිද්ධිය සම්බන්ධයෙන් මේ වනවිට එක් සැකකරුවෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The victim was a 51-year-old ex-Army sergeant who was residing in the same area.
 
-අදාළ වංචාවට හසුවූ බව කියන පුද්ගලයින් දෙදෙනා තවත් අයෙක් හා එක්ව මෙම ඝාතනය සිදුකර ඇති බවට සැකපළ කරයි.
+The murder is being held on an incident that he had cheated on two lakhs of Rs.
+
+Police have arrested the suspect in connection with the incident.
+
+The two persons who claimed to be frauds were conducted in collaboration with another.
 
 ◼️
 
 [Data](articles/f9393ce6.json)
 
+[Extended Data](ext_articles/f9393ce6.ext.json)
+
 ---
 
-### වීසා ගාස්තුව ගැන රජයෙන් විශේෂ තීරණයක්
+### Sri Lanka to retain existing visa fee; Immigration Dept. to handle issuing visas
 
-*2024-05-06 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196342) · `si`
+*2024-05-06 20:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99051/sri-lanka-to-retain-existing-visa-fee-immigration-dept-to-handle-issuing-visas) · `en`
 
-විදේශිකයන් මෙරටට පැමිණිමේදී එක් පුද්ගලයෙකුට දින 30ක වීසා බලපත්‍රයක් සඳහා අය කළ ඩොලර් 50ක පැරණි ගාස්තුව එලෙසම පවත්වා ගෙන යාමට අද (06) පැවති අමාත්‍ය මණ්ඩල හමුවේදී තීරණය කර තිබේ.
+It was decided at the Cabinet meeting held today (06) to maintain the existing US $50 fee for a 30-day visa for foreigners visiting Sri Lanka, the President’s Media Division reported.
 
-ජනාධිපති මාධ්‍ය ඒකකය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+Furthermore, it was confirmed that the free visa service currently offered to citizens of seven countries, namely India, China, Russia, Japan, Malaysia, Thailand and Indonesia, will continue while the Government also emphasizes that the Department of Immigration and Emigration assumes full responsibility for issuing relevant visas upon entry into the country for foreigners.
 
-එමෙන්ම ඉන්දියාව, චීනය, රුසියාව, ජපානය, මැලේසියාව, තායිලන්තය, ඉන්දුනීසියාව යන රටවල් හතට මෙතෙක් නොමිලේ සැපයූ වීසා සේවාව එසේම ක්‍රියාත්මක වෙයි.
+Amidst the notable progress in the country’s tourism sector, numerous stakeholders within the industry have recently urged President Ranil Wickremesinghe to maintain the maximum visa fee for foreigners at US $50, the statement said.
 
-මෙරටට විදේශිකයෙකු ඇතුල්වීමේදී අදාළ වීසා නිකුත්කිරීමේ පූර්ණ වගකීම ආගමන විගමන දෙපාර්තමේන්තුව සතු බව ද රජය අවධාරණය කර ඇත.
-
-සංචාරක කර්මාන්තයේ සාර්ථක ප්‍රගතියක් මේ වනවිට රට තුළ ඇති වී තිබෙන බැවින්, විදේශිකයෙකු මෙරටට පැමිණිමේදී නිකුත් කරන වීසා බලපත්‍රයක උපරිම ගාස්තුව ඩොලර් 50ක සීමාවේ පවත්වාගෙන යන ලෙස සංචාරක ක්ෂේත්‍රයේ නියුතු පාර්ශ්ව රැසක් ද පසුගිය දින කිහිපය තුළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙතින් ඉල්ලා ඇති බව එහි දැක්වෙයි.
-
-එමෙන්ම එය සංචාරක කර්මාන්තයේ ඉදිරි අභිවෘද්ධියට විශාල පිටිවහලක් වන බවද ඔවුන් වැඩිදුරටත් පෙන්වා දී ඇත.
+They have also highlighted that this decision stands as significant support for the future growth of the tourism industry.
 
 ...
 
+[Data](articles/b7d89026.json)
+
+---
+
+### UNFPA and Japan partner to enhance healthcare access
+
+*2024-05-06 20:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNFPA-and-Japan-partner-to-enhance-healthcare-access/108-282036) · `en`
+
+Colombo, May 06 - In a collaborative effort to bolster healthcare accessibility, UNFPA Sri Lanka, with financial backing from the Government of Japan, orchestrated the official handover of three "Health on Wheels" trucks to the Ministry of Health.
+
+The ceremony, presided over by H.E. MIZUKOSHI, Ambassador of Japan, signifies a significant stride towards ensuring uninterrupted maternal and sexual and reproductive health (SRH) services for at-risk communities in the Uva, Central, and Southern provinces.
+
+These mobile health units, valued at USD 380,000, are equipped with cutting-edge facilities and designed to traverse challenging terrains, addressing the critical need for healthcare access in remote regions.
+
+Dr. Palitha Maheepala, Secretary of the Ministry of Health, emphasized the transformative impact of this initiative, highlighting its role in bridging the gap between healthcare and underserved populations.
+
+...
+
+[Data](articles/0817cbee.json)
+
+---
+
+### Government is a special decision on visa fee
+
+*2024-05-06 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196342) · `si`
+
+The government has decided to introduce a 30-day visa fee, affecting countries like India, China, Russia, Japan, Malaysia, Thailand, and Indonesia. The Presidential Media Unit and the Department of Immigration and Emigration have emphasized the importance of this decision for tourism and foreigner entry.
+
+🟩
+
+It has been decided at the Meeting held at the Cabinet Meeting held in the Cabinet fee for a 30-day visa for a 30-day visa at the time of the country.
+
+The Presidential Media Unit has issued a statement.
+
+Also, the free visa service so far has already been implemented in India, China, Russia, Japan, Malaysia, Thailand, Indonesia.
+
+The Department of Immigration and Emigration has emphasized the fullest responsible for issuing a foreigner in the entry.
+
+The tourism industry has also requested the tourist party in the last few days as a foreigner has created a successful progress in tourism.
+
+They have also said that it will also be a big alignetry to the future advancement of the tourism industry.
+
+Accordingly, the decision was taken up after President Ranil Wickremesinghe was presented to the Cabinet.
+
+◼️
+
 [Data](articles/043a94e5.json)
+
+[Extended Data](ext_articles/043a94e5.ext.json)
+
+---
+
+### University system heading for a standstill
+
+*2024-05-06 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-system-heading-for-a-standstill/108-282031) · `en`
+
+Colombo, May 6 (Daily Mirror) - The university system's administration is on the brink of a standstill due to trade union actions initiated by the Joint Committee of University Trade Unions and the University Executive Officers' Association (UEOA), UEOA President M. W. Vanninayake said.
+
+He told the media that they have launched their trade union action on May 3.
+
+In parallel with this ongoing strike, the UEOA has decided to hold a protest in front of the University Grants Commission (UGC) in Colombo on Wednesday (8) from 10.00 am over eleven main demands including non-rectification of salary anomalies and non-receipt of allowances and other facilities promised by the government are the reasons for this strike, Vanninayake said.
+
+He also said that since January this year, despite various professional actions including symbolic strikes to obtain demands, the authorities did not fulfil their promises, he had to go on a continuous strike.
+
+...
+
+[Data](articles/777eb8f9.json)
+
+---
+
+### Main suspect in disappearance of youth in Kuliyapitiya granted bail
+
+*2024-05-06 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99050/main-suspect-in-disappearance-of-youth-in-kuliyapitiya-granted-bail) · `en`
+
+The main suspect in the disappearance of a youth residing in Kuliapitiya area has surrendered to the court today (06) through his attorneys.
+
+Kuliyapitiya Magistrate Randika Lakmal ordered the release of the suspect, Sujith Fernando who is also known as ‘Singithi’, on two personal bails of Rs. 500,000 each.
+
+Susita Jayawansha, 31, a resident of Kabalewa area in Kuliyapitiya, had been reported missing a few days ago and was last seen visiting his girlfriend’s house following a phone call received from her father.
+
+Police said that it was later uncovered that the youth had been assaulted by his girlfriend’s father, and two other individuals identified as masons.
+
+Accordingly, the two masons who were later arrested had confessed to the police that the father of the girl had said that the youth in question should be taken to the house of a former Provincial Council member living in the area.
+
+...
+
+[Data](articles/9614a491.json)
+
+---
+
+### 22 arrested during protest outside NCPC building granted bail
+
+*2024-05-06 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99049/22-arrested-during-protest-outside-ncpc-building-granted-bail) · `en`
+
+All twenty-two persons who were arrested during the protest by unemployed graduates at the North Central Provincial Council building have been granted bail by the court.
+
+A tense situation was reported this afternoon (06) as a group of unemployed graduates surrounded the North Central Provincial Council (NCPC) building in protest and seeking solutions to their demands.
+
+They had also reportedly blocked the entrances to the building preventing anyone from entering or exiting the building.
+
+Police said a total of 22 persons including 11 females were arrested for unruly behaviour as police officers attempted to disperse the protesters.
+
+◼️
+
+[Data](articles/9d16592c.json)
+
+---
+
+### Key players return to Scotland’s squad for T20 World Cup
+
+*2024-05-06 19:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-players-return-to-Scotlands-squad-for-T20-World-Cup/108-282027) · `en`
+
+May 6 (ICC) - Scotland name their 15-member squad for the ICC Men's T20 World Cup 2024.
+
+Top-order batter Michael Jones and fast bowler Brad Wheal make a return to Scotland's T20I squad for the upcoming mega event in West Indies and USA.
+
+The duo, both of whom last played in the ICC Men's T20 World Cup 2022, aren't part of the squad that will play in the upcoming T20I tri-series in the Netherlands but have been named in the T20 World Cup squad.
+
+Richie Berrington will captain the side that will hope to better their performances from 2022, when they famously registered a big win over the West Indies.
+
+“To have Michael Jones and Brad Wheal available, their experience from previous T20 World Cups is crucial for the group," head coach Doug Watson said.
+
+"I’m looking forward to meeting them both, getting to know them and seeing their skills up close. The bulk of the squad have been together for a while now and did a fantastic job last summer at both the 50-over Qualifier and the T20 Qualifier.
+
+...
+
+[Data](articles/90fe7f50.json)
+
+---
+
+### Sri Lanka Minister defends VFS, new visas; accuses corrupt officials over controversy
+
+*2024-05-06 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-defends-vfs-new-visas-accuses-corrupt-officials-over-controversy-161601/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles who is also in charge of visa issuance under the Department of Immigration and Emigration defended the newly appointed visa facilitating agency VFS-led consortium, new visa system, and accused sabotage attempts by a few handful immigration officials for a recent controversy that has gone viral in social media.
+
+Sri Lanka opted for outsourcing scheme for visas which included a steep increase in fees from last month.
+
+The new visa facilitation system, which replaced a previous quick electronic travel authorization (ETA) process, ran into a fresh controversy over visa denials last week after a viral video showed an irate Sri Lanka citizen berating the private visa provider at the airport after his foreign companion was denied an entry visa.
+
+...
+
+[Data](articles/909ad56d.json)
+
+---
+
+### Sri Lanka Immigration responsible for data protection under VFS deal: Immigration chief
+
+*2024-05-06 19:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-immigration-responsible-for-data-protection-under-vfs-deal-immigration-chief-161629/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government and Immigration will be responsible for the data under the new outsourced deal with VFS Global for visa facilitation, the island nation Immigration chief said.
+
+Sri Lanka opted for outsourcing scheme to process visa applications which included a steep increase in fees from last month.
+
+President Ranil Wickremesinghe’s government is facing strong criticism for outsourcing its visa application process to a consortium led by VFS Global amid concerns over data privacy and protection.
+
+“In the agreement, we have clearly stated the conditions on how we will be doing this,” I. S. H. J. Ilukpitiya, Controller General of the Department of. Immigration and Emigration told reporters at a media briefing responding to wide range of speculations over the new service.
+
+“Under General Data Protection Regulation (GDPR), they have given us a certificate and assurance the information would not go for the third party,” Ilukpitiya said.
+
+...
+
+[Data](articles/b09c5c99.json)
+
+---
+
+### VFS Global issues statement on Sri Lanka visa deal
+
+*2024-05-06 19:07:00* · [`economynextcom`](https://economynext.com/vfs-global-issues-statement-on-sri-lanka-visa-deal-161630/) · `en`
+
+ECONOMNEXT – VFS Global, one of the companies involved in Sri Lanka’s high-priced visa deal, has issued statement saying its 18.50 dollar fee was approved by the cabinet of the island.
+
+“Payment processing charges and applicable local taxes are in addition to the service fee,” the company said.
+
+The shift of visa processing to the company has led to the doubling of Sri Lanka tourist visa to 100 dollars from 50, with the government charge going up to 75 dollars and company charging another 25 dollars plus in service fee and ‘convenience’ fees.
+
+“The government benefits from increased efficiencies and transparency in managing the complete process and improved resource utilisation,” VFS said.
+
+Sri Lanka’s Minister of Public Security said the deal was awarded without tendering and in any case nobody would have come forward to compete against VFS.
+
+Related No tender needed for Sri Lanka visa deal, nobody can compete against VFS: Minister
+
+...
+
+[Data](articles/9b0f223b.json)
 
 ---
 
@@ -516,15 +1250,61 @@ As we mark the International Day of the Midwife today (May 5th), Padmakanthi’s
 
 ---
 
-### අත්අඩංගුවට ගත් 22කට අධිකරණය දුන් නියෝගය
+### Uganda name squad for historic T20 World Cup appearance
+
+*2024-05-06 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uganda-name-squad-for-historic-T20-World-Cup-appearance/108-282026) · `en`
+
+May 6 (ICC) - Brian Masaba holds the honour of leading Uganda in their first appearance at the ICC Men’s T20 World Cup, with their 15-player squad locked in.
+
+After stunning Zimbabwe and the African field in qualifying, the Cricket Cranes look ahead to Group C play, taking on co-hosts West Indies, New Zealand, Papua New Guinea and Afghanistan.
+
+Masaba will be deputised by Riazat Ali Shah, and the skipper joins several Ugandans with over a decade’s experience in international cricket, underlined by 43-year-old Frank Nsubuga, who will be one of the oldest players in the tournament.
+
+A cult hero in emerging cricket circles, Nsubuga’s squad selection caps off a life’s devotion to the game. He first represented Uganda in ICC events as a 17-year-old in the 1997 ICC Trophy, a pathway event on the road to Cricket World Cup 1999.
+
+Fast-forward 25 years, Nsubuga made headlines, taking a sprawling catch approaching the boundary in a Cricket World Cup Challenge League match against Kenya in 2022.
+
+...
+
+[Data](articles/3bd29481.json)
+
+---
+
+### Court orders Court for 22 arrested
 
 *2024-05-06 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196341) · `si`
 
-උතුරුමැද පළාත් සභා ගොඩනැගිල්ලේ පැවති විරෝධතාවයේදී අත්අඩංගුවට ගත් රැකියා විරහිත උපාධිධාරීන් 22 ඇප මත මුදාහැර තිබේ.
+Court releases 22 unemployed graduates arrested in protest.
+
+🟩
+
+The 22 unemployed graduates arrested in protest in the North Central Provincial Council building 22 have been released on bail.
 
 ◼️
 
 [Data](articles/06a841e6.json)
+
+[Extended Data](ext_articles/06a841e6.ext.json)
+
+---
+
+### No tender needed for Sri Lanka visa deal, nobody can compete against VFS: Minister
+
+*2024-05-06 18:14:00* · [`economynextcom`](https://economynext.com/no-tender-needed-for-sri-lanka-visa-deal-nobody-can-compete-against-vfs-minister-161602/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s controversial visa deal which led to doubling of fees with multiple charges, was awarded without a tender and nobody could compete against the VFS company in any case, Public Security Minister Tiran Alles said.
+
+Many things are done without tender in Sri Lanka and the visa deal was a proposal, he said.
+
+“There are several [procurement] methods in Sri Lanka,” Minister Alles explained to reporters Monday, amid brewing controversy over the visa deal which had led to a doubling of visa costs to around 100 dollar per tourist.
+
+“There is no need to call tenders for this type of thing. This is a proposal. There is a method of studying proposals. Many things (orner-tharam-deval) are done that way.”
+
+The correct way to do the deal was when a company made a proposal, appoint a committee to study it and go back to cabinet, he explained.
+
+...
+
+[Data](articles/644688da.json)
 
 ---
 
@@ -546,97 +1326,339 @@ Just the other day, at the University cafeteria while enjoying a cup of ginger t
 
 *2024-05-06 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196340) · `si`
 
-අද ඇරඹුණු අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵල සැප්තැම්බර් මාසය වනවිට ලබාදීමට බලාපොරොත්තු වන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
+The GCE Ordinary Level examination started today, with 35,000 police personnel required for security. It will be held at 3,527 centers until the 15th, with 452 applicants, including 300,000 school and 65,331 private candidates.
+
+🟩
+
+Commissioner General of Examinations Amit Jayasundara says that the results of the GCE Ordinary Level examination began today.
 
 විභාග කොමසාරිස් ජනරාල්වරයා වැඩිදුරටත් සඳහන් කළේ සාමාන්‍ය පෙළ විභාගය අවසන් වූ පසු පිළිතුරු පත්‍ර ඇගයීම් ක්‍රියාවලිය සඳහා පරික්ෂකවරු 35,000න් පමණ අවශ්‍ය වන බවය.
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය අද (06) ආරම්භවිය.
+The GCE Ordinary Level examination commenced today (06).
 
-විභාගය අද සිට ලබන 15 වනදා දක්වා දිවයින පුරා විභාග මධ්‍යස්ථාන 3,527 කදී පැවැත්වීමට නියමිතය.
+The examination will be held today at 3,527 examination centers island wide until the 15th of this month.
 
-මෙවර විභාගය සඳහා අයදුම්කරුවන් 452, 979 දෙනෙකු පෙනී සිටීමට නියමිත බව විභාග දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Department of Examinations stated that 452 applicants will sit for the examination this year.
 
-ඊට පාසල් අයදුම්කරුවන් තුන් ලක්ෂ 87, 648ක් සහ පෞද්ගලික අයදුම්කරුවන් 65,331 දෙනෙකු ඇතුළත් වන බව සඳහන්ය.
+It is said that 300,000 school candidates and 65,331 private candidates included.
 
 ◼️
 
 [Data](articles/9b2d80c7.json)
 
+[Extended Data](ext_articles/9b2d80c7.ext.json)
+
 ---
 
-### හෙටත් රත්වෙන තැන් මෙන්න
+### Here are the places where they are
 
 *2024-05-06 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196339) · `si`
 
-හෙට (06) දිනයේ උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් අද (05) කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කළේය.
+The Meteorology Department highlighted warmer conditions in Northern, North Central, and Eastern provinces, with special attention to Kurunegala and Moneragala districts. It also noted warmer conditions in Western, Sabaragamuwa, Southern provinces, and Puttalam and Matale districts.
 
-එම නිවේදනයේ දැක්වෙන්නේ හෙට දිනයේ උතුරු, උතුරුමැද සහ නැගෙනහිර පළාත්වලත් කුරුණෑගල සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකයේ, එනම් මිනිස් සිරුරට දැනෙන උණුුසුම "වැඩි අවධානය" යොමුකළයුතු මට්ටමක පවතින බවය.
+🟩
 
-එමෙන්ම බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් පුත්තලම සහ මාතලේ දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකය "අවධානය" යොමුකළයුතු මට්ටමක පවතී යැයි අපේක්ෂා කරන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේය.
+The Department of Meteorology was released today (05).
+
+The statement depicts the warm indexes in the Northern, North Central and Eastern provinces, that is a "more attention to the warmth of the Kurunegala and Moneragala districts.
+
+The Meteorology Department announced the "attention" in some places in the Western, Sabaragamuwa and Southern provinces and in the Puttalam and Matale Districts.
 
 ◼️
 
 [Data](articles/ec4d0936.json)
 
+[Extended Data](ext_articles/ec4d0936.ext.json)
+
 ---
 
-### කෙහෙළිය ඇතුළු 8ක් යළි රිමාන්ඩ්
+### Keheliya and 7 others further remanded
+
+*2024-05-06 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99048/keheliya-and-7-others-further-remanded) · `en`
+
+Former Health Minister Keheliya Rambukwella and 7 others have been further remanded until 20 May by the Maligakanda Magistrate’s Court over the import of substandard human immunoglobulin vials.
+
+This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (06).
+
+Meanwhile, one of the suspects who was arrested and remanded in connection with the case was released on bail today.
+
+Accordingly, the former Deputy Director of Medical Supplies Division of the Health Ministry, Dr. Thusitha Sudarshana has been released on bail.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+...
+
+[Data](articles/f6d3be60.json)
+
+---
+
+### Keheliya and eight remanded again
 
 *2024-05-06 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196338) · `si`
 
-ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් නඩුවට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 8 දෙනා එළැඹෙන මැයි මස 20 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+Keheliya Rambukwella, former Health Minister, and two suspects remanded until May 20. Dr. Thusitha Sudarshana, former Deputy Director of Ministry of Supplies, also involved. One suspect released on bail.
 
-ඊට අදාළ නඩුව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම නියෝගය ලබාදුන්නේය.
+🟩
 
-මේ අතර ප්‍රශ්නගත ප්‍රතිදේහ එන්නත් නඩුවට අදාළව අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරතකර සිටි එක් සැකකරුවෙකු අද ඇප මත මුදාහැර තිබුණි.
+Former Health Minister Keheliya Rambukwella and the two suspects were remanded until May 20.
 
-මෙලෙස ඇප මත නිදහස් කර ඇත්තේ සෞඛ්‍ය අමාත්‍යාංශයේ සැපයුම් අංශයේ හිටපු නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය තුසිත සුදර්ශන මහතාය.
+The order was taken to the Maligakanda Magistrate's Court.
+
+Meanwhile, one suspect had been released on bail and remanded in connection with the questionable antibodies and remanded.
+
+Former Deputy Director of the Ministry of Supplies Division of the Ministry of Health is Dr. Thusitha Sudarshana.
 
 ◼️
 
 [Data](articles/c8adf65b.json)
 
+[Extended Data](ext_articles/c8adf65b.ext.json)
+
 ---
 
-### E-Visa ක්‍රමවේදය ගැන VFS Global සමාගමෙන් නිවේදනයක්
+### Sri Lanka plantation companies benefitted from weak rupee, labourers did not: Minister
+
+*2024-05-06 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantation-companies-benefitted-from-weak-rupee-labourers-did-not-minister-161593/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Regional Plantation Companies (RPCs) benefitted from the weakening of the rupee and saw export gains, but the benefits did not go to the workers, Minister of Estate Infrastructure Jeevan Thondaman has said.
+
+“Even through the economic crisis, RPCs have benefitted from the weakening of the Rupee that gave them an over 80% increase in Rupee revenue in 2023 vs 2021,” Thondaman said on X (twitter).
+
+“When the real value of daily worker wages plummeted from around 5 USD to 2.7 USD and inflation plunged over half the workers to below the poverty line, RPCs continued to reap the benefits of their hard labour.”
+
+“While export revenues grew exponentially, none of those benefits went to the workers, who are the backbone of the industry.”
+
+The minister said he was hopeful of an announcement favourable to the workers from RPCs who have said that they will be responding to the wage hike for plantation workers today (6).
+
+...
+
+[Data](articles/0e43f652.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 298.00/50 to US dollar
+
+*2024-05-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-298-00-50-to-us-dollar-161587/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.00/50 to the US dollar on Monday from 297.15/35 the previous week, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.60/70 percent from 10.70/75 percent.
+
+A bond maturing on 15.09.2027 closed down at 11.00/10 percent from 11.00/15 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.40/50 percent from 11.45/55 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
+
+A bond maturing on 01.10.2032 closed down at 12.20/35 percent from 12.30/35 percent. (Colombo/May06/2024)
+
+◼️
+
+[Data](articles/7929d659.json)
+
+---
+
+### VFS Global Company announces about e-visa
 
 *2024-05-06 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196337) · `si`
 
-බණ්ඩාරනායක ගුවන්තොටුපොළේ  E-Visa ක්‍රමවේදය ක්‍රියාත්මක කිරීමත් සමග ඇතිවී තිබෙන කතාබහ සම්බන්ධයෙන් ඊට අදාළ බව සඳහන් කෙරුණු VFS Global සමාගම විසින් නිවේදනයක් නිකුත් කර තිබේ.
+VFS Global announces e-Visa processing at Bandaranaike Airport, Sri Lanka, for 23 countries. Operates 6 centers in Colombo and Jaffna, employing 123. Services over 3.2 million applications since 2004. Partners with GBS Technology Services and IIS Global Fzco for administrative functions, with final decisions by Immigration and Emigration.
 
-අදාළ නිවේදනය මගින් VFS Global සමාගම පෙන්වාදෙන්නේ 2004 සිට සිය සමාගම ශ්‍රී ලංකාවේ මෙහෙයුම් ක්‍රියාත්මක කරන බවය.
+🟩
 
-මේ අතර තම සමාගම එංගලන්තය, ඔස්ට්‍රේලියාව, කැනඩාව නවසීලන්තය ප්‍රංශය ජර්මනිය ඉතාලිය ස්විට්සර්ලන්තය, නෝර්වේ, ඔස්ට්‍රියා, ලැට්වියා, හංගේරියාව, ක්‍රොඒෂියාව, මෝල්ටාව සහ ග්‍රීසිය ඇතුළු රටවල් 23කට අදාළ වීසා අයදුම්පත් සකස් කිරීමේ කාර්යය සිදුකරන බවද පවසයි.
+VFS Global has issued an announcement that the E-Visa processed on the Bandaranaike Airport is relevant to the implementation of the e-Visa methodology.
 
-එසේම තම සමාගම ශ්‍රී ලංකාවේ කොළඹ සහ යාපනයේ ක්‍රියාත්මක කෙරෙන වීසා මධ්‍යස්ථාන 6ක මෙහෙයුම් කටයුතු පවත්වාගෙන යන බවද එම නිවේදනයේ දැක්වෙයි.
+The announcement The VFS Global shows VFS Global Company (2004) operations in Sri Lanka.
 
-එහි වැඩිදුරටත් සඳහන් වන්නේ එම මධ්‍යස්ථාන තුළ ශ්‍රී ලාංකිකයින් 123ක් සේවයේ නිරතව සිටින බවය.
+In the meantime, the company is carrying out the preparation of visa applications for 23 countries including England, Australia, Australia, England, Australia, Norway, Austria, Latvia, Moalta, and Greece.
 
-එසේම 2004 වසරේ සිට සිය මෙහෙයුම් ආරම්භ කර මේ වනවිට වීසා අයදුම්පත්‍ර මිලියන 3.2කට අධික ප්‍රමාණයක් සඳහා සේවා සැපයීමේ කටයුතු ඔවුන් සිදුකර ඇති බවද එම නිවේදනයේ දැක්වෙයි.
+It is also reported that his company is operating in 6 visa centers in Colombo and Jaffna.
+
+It states that 123 Sri Lankans are employed in the centers.
+
+The announcement has also taken steps to provide services to over 3.2 million visa applications since 2004 and have already been provided with visa application.
+
+The Department of Immigration and Emigration has entered into a tactical agreement with GBS Technology Services and IIS Global Fzco, in addition to GBS Technology Services and IIS Global Fzco.
 
 ...
 
 [Data](articles/6f10d3e7.json)
 
+[Extended Data](ext_articles/6f10d3e7.ext.json)
+
 ---
 
-### සාමාන්‍ය පෙළ සිසුවාට අත්වූ අවාසනාවන්ත ඉරණම
+### VFS Global is here to stay for at least 12 years, says Tiran
+
+*2024-05-06 17:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/VFS-Global-is-here-to-stay-for-at-least-12-years-says-Tiran/108-282025) · `en`
+
+Colombo, May 6 (Daily Mirror) - Despite widespread accusations of handing over the contract for on-arrival visa issuance to VFS Global, Public Security Minister Tiran Alles maintained today that VFS Global, the foreign company now responsible for handling on-arrival visas on behalf of Sri Lanka at the BIA, will continue to operate for at least 12 years.
+
+Minister Alles held a special press conference regarding the controversy surrounding the matter. He said that the proposal to transfer the new visa system to VFS Global was unanimously passed on November 23 last year without debate in Parliament following Cabinet approval.
+
+"The government had made a policy decision to introduce separate visa categories. Sri Lanka previously only had a 30-day single arrival visa category. Therefore, we introduced several other visa categories," the minister said.
+
+...
+
+[Data](articles/e9a922da.json)
+
+---
+
+### 180 passports found dumped in drain in Maharagama
+
+*2024-05-06 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99047/180-passports-found-dumped-in-drain-in-maharagama) · `en`
+
+A bag containing approximately 180 passports has been discovered in a drain in the Maharagama area.
+
+Investigations have revealed that the passports in question had been obtained by a foreign employment agency which had been operating in the Mahragama area by promising employment in foreign countries.
+
+It is reported that the owner of the agency had duped a number of people seeking employment overseas and fled the area after swindling nearly Rs. 260 million.
+
+◼️
+
+[Data](articles/676afa3b.json)
+
+---
+
+### Sri Lanka children bearing brunt of heatwave: Minister
+
+*2024-05-06 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-children-bearing-brunt-of-heatwave-minister-161572/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s children are suffering from the current heatwave, with some hospital admissions recorded, Minister of Health Ramesh Pathirana said.
+
+“In the mornings, in the assembly, children faint. They get exposed to the heat,” Pathirana told reporters on Monday.
+
+“There have been a few hospital admissions, mainly due to faintings, headaches and dehydration,” Pathirana said. “But thankfully there aren’t many cases as such.”
+
+Sri Lanka’s Meteorological Department has indicated that the maximum temperature in the last 24 hours was 39.1 degrees Celsius in Anuradhapura.
+
+Authorities are cautioning people to stay out of the sun, hydrate, wear light or white clothing, and restrict strenuous activity. The elderly, children and those who are ill, face higher risk in the current heatwave. (Colombo/May6/2024)
+
+◼️
+
+[Data](articles/fe40403c.json)
+
+---
+
+### Sri Lanka stocks close down amidst profit taking, interest in Sunshine
+
+*2024-05-06 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-profit-taking-interest-in-sunshine-161554/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.23 percent, or 28.07 points, at 12,376; while the S&P SL20 Index closed down 0.65 percent, or 23.91 points, at 3,648.
+
+“There was a bit of profit taking seen in the market, ahead of news of the upcoming elections and the debt restructuring,” market participants said.
+
+“LOLC companies saw a bit of activity with retail interest coming in.”
+
+LOLC Holdings Plc closed up at 479.25, Browns Investments Plc closed up at 6.60, and LOLC Finance Plc closed up at 7.40.
+
+“Sunshine Holdings also saw investor interest on the back of the news of the IFC investment.”
+
+The International Finance Corporation has agreed to invest 3.7 billion rupees in Sunshine Healthcare Lanka Limited, its parent said.
+
+...
+
+[Data](articles/1ea8a072.json)
+
+---
+
+### Spring Awakening...
+
+*2024-05-06 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Spring-Awakening/110-282032) · `en`
+
+IDM Nations Campus International organized a lively event titled "Spring Awakening" at the Police Park Grounds in Colombo to commemorate the Sinhala and Tamil New Year. This significant event, led by Dr. V. Janagan, Chairman of IDM Nations Campus International drew a large audience including esteemed faculty members, hundreds of students and notable guests.
+
+◼️
+
+[Data](articles/55c431c6.json)
+
+---
+
+### VFS Global issues clarification on Sri Lanka E-Visa system
+
+*2024-05-06 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99046/vfs-global-issues-clarification-on-sri-lanka-e-visa-system) · `en`
+
+VFS Global, the company at the center of controversy surrounding the issuance of on arrival visa at the Bandaranaike International Airport (BIA), has issued a statement today in response to accusations and to clarify certain concerns which have been raised.
+
+VFS Global said it has been operating in Sri Lanka since 2004 and has been facilitating the visa application process for 23 governments including the UK, Australia, Canada, New Zealand, and Schengen countries such as France, Germany, Switzerland, Italy, Norway, Austria, Latvia, Hungary, Croatia, Malta, and Greece.
+
+VFS Global said it operates six visa centres located in Colombo and Jaffna and employs over 123 Sri Lankan nationals. Since 2004, VFS Global Sri Lanka has processed over 3.2 million applications, it said.
+
+...
+
+[Data](articles/a532b123.json)
+
+---
+
+### Sri Lanka to fill vacancies in its Office on Missing Persons
+
+*2024-05-06 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-fill-vacancies-in-its-office-on-missing-persons-161518/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament has called for applications to fill vacancies in its Office on Missing Persons (OMP).
+
+“Applications from eligible persons have been called to fill the vacancies in the posts of member in
+
+the Office on Missing Persons (OMP),” it said in a statement.
+
+Applications should be prepared in accordance with the information available on the Parliament website and sent on or before May 27 to; ‘Secretary-General to the Constitutional Council, Constitutional Council – Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte by registered post, or by email to constitutionalcouncil@parliament.lk the statement said.
+
+Applicants should indicate ‘Appointment of Members to the OMP’ on the top left-hand corner of the envelope, or as the subject of the email.
+
+...
+
+[Data](articles/04e202e1.json)
+
+---
+
+### The unhappy fate of the O / L student
 
 *2024-05-06 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196336) · `si`
 
-ආශිර්වාද ලබාගැනීම සඳහා දේවාලයක් වෙත ගිය බළන්ගොඩ ප්‍රදේශයේ පාසල් ශිෂ්‍යයෙකු එක්වරම ඇදවැටී මියගොස් ඇති බවට වාර්තා වෙයි.
+A school student in Balangoda, Haranaath Ranjith Kumara, died after visiting a temple for blessings, days before the O/L exams. Initial reports suggest foul play, with investigations ongoing.
 
-මෙලෙස මියගොස් ඇත්තේ අද දිනයේ සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිතව සිටි පාසල් ශිෂ්‍යයෙකි.
+🟩
 
-හරනාත් රංජිත් කුමාර නමැති එම පාසල් සිසුවා බළන්ගොඩ මාරතැන්න ප්‍රදේශයේ පිහිටි දේවාලයක් වෙත අද උදෑසන ගොස් තිබුණි.
+It is reported that a school student in the Balangoda area has died after a temple to obtain blessings.
 
-එහිදී ක්ලාන්ත වී ඇදවැටුණු දරුවා මාරතැන්න වතු රෝහලට ඇතුළත් කර ඇති අතර ඒ වනවිටත් පාසල් සිසුවා මියගොස් ඇති බවට වාර්තාවෙයි.
+The victim was a school student who was due to sit for the O / L examination today.
 
-පශ්චාත් මරණ පරීක්ෂණය බළන්ගොඩ රෝහලේදී සිදුකිරීමට නියමිත අතර බළන්ගොඩ පින්නවල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+The school student, Haranaath Ranjith Kumara, had gone to a devalaya in Marathena area in Balangoda.
+
+It is reported that the child has been admitted to the Marathena plant hospital and has been identified as the school student was killed.
+
+The post mortem will be conducted at the Balangoda Hospital and Balangoda Pinnawala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5c6f363a.json)
+
+[Extended Data](ext_articles/5c6f363a.ext.json)
+
+---
+
+### Sri Lanka denies $10mn election funding by VFS Global over visa deal
+
+*2024-05-06 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-denies-10mn-election-funding-by-vfs-global-over-visa-deal-161519/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles denied that VFS Global, a company linked to the island’s high priced visa fee controversy, had made a 10 million dollar campaign contribution for upcoming elections.
+
+“I saw something that VFS had given 10 million dollars for President Wickremesinghe’s election campaign,” Minister Alles told reporters Monday.
+
+“I also saw today that Sajith Premadasa had demanded money to stop talking about it. These are both wrong.
+
+“Doing these things will not help the country. I am asking to tell the truth to educate the public.
+
+“I do not take even 5 cents from anyone. The people in the country know that.”
+
+Premadasa in an x.com post on May 04 alleged that the “only logical explanation is absolute corruption” for the visa deal.
+
+Sri Lanka’s 50 dollar visa fee went up to 100 dollars with the shift to IVS-GBS-VFS Global, a private contractor, which is also operating a complicated online interface, seeking twitter handles of tourists.
+
+...
+
+[Data](articles/08816ce9.json)
 
 ---
 
@@ -661,6 +1683,66 @@ Just the other day, at the University cafeteria while enjoying a cup of ginger t
 ...
 
 [Data](articles/04902e39.json)
+
+---
+
+### Youth who caused disturbance at BIA summoned by police
+
+*2024-05-06 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99045/youth-who-caused-disturbance-at-bia-summoned-by-police) · `en`
+
+A Sri Lankan youth who had behaved in an unruly manner at the Bandaranaike International Airport (BIA) in Katunayake on May 01 amidst a tense situation at the visa issuance counters, has been summoned to Airport Police today (06).
+
+According to Ada Derana reporter, a statement was recorded from the individual in question, Sandaruwan Kumarasinghe, who is a lawyer by profession, at the Airport Police at around 10.00 a.m. this morning (06).
+
+However, it is reported that another group of lawyers was also present when the youth in question had arrived at the police station.
+
+Meanwhile, it is also reported that Katunayake Police obtained statements last evening (05) from three officers of the Department of Immigration and Emigration who had allegedly recorded the recent incident.
+
+◼️
+
+[Data](articles/9bcf523d.json)
+
+---
+
+### Sri Lanka to issue 30-day single entry tourist visa below 100 dollars
+
+*2024-05-06 14:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-issue-30-day-single-entry-tourist-visa-below-100-dollars-161496/) · `en`
+
+ECONOMYNEXT – Sri Lanka will issue a cheaper 30-day single entry visa for a lower cost, Public Security Minister Tiran Alles said, as the tourist sector was hit by 100 dollar visa with a shift of visa processing to a private contractor.
+
+Sri Lanka issued a multiple entry visa for 50 dollar final prices before the shift to IVS-GBS VFS Global group, when the visa went up to 100.77 with 18.50 fee and convenience fee on top of the gazette 75 dollar price.
+
+“The 30 day visa with single entry was at 50 dollars,” Minister Alles told reporters in Colombo Monday as the crisis escalated.
+
+“However, when we passed it, it was removed from the document, and subsequently from the system.”
+
+It is not clear whether the IVS-GBS VFS Global group will also charge an 18.50 fee and the convenience fee on top of the 50 dollars.
+
+Minister Alles told reporters that the cabinet was free to decided on the price of the visa, or a free visa but when the private platform was used, its service fees had to be paid.
+
+...
+
+[Data](articles/325277d3.json)
+
+---
+
+### Nalanda College emerges victorious at SLASU Novices Waterpolo Championship 2024
+
+*2024-05-06 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nalanda-College-emerges-victorious-at-SLASU-Novices-Waterpolo-Championship-2024/108-282024) · `en`
+
+Colombo, May 06 (Daily Mirro)-  The Under 11 Waterpolo team from Nalanda College, Colombo emerged victorious at the SLASU Novices Waterpolo Championship 2024.
+
+The young Nalandians won all five games they played including against formidable opponents such as Royal College and S. Thomas College.
+
+The championship, organized by the Sri Lanka Aquatic Sports Union (SLASU), was held at the Royal College Swimming Complex on 05 May 2024.
+
+It saw the participation of leading schools from across the country, each vying for the top spot in this prestigious water polo event.
+
+The Nalandians not only clinched the Under 11 title but also secured the Under 09 and 15 shields. This triumphant feat marked a significant milestone in the history of school water polo, further cementing Nalanda College’s reputation as a force to be reckoned with in the sports.
+
+◼️
+
+[Data](articles/babf9e77.json)
 
 ---
 
@@ -736,1304 +1818,232 @@ May Day this week lived up to expectations as pregame to the presidential electi
 
 ---
 
-### ‘Charting a Sustainable Path: Navigating Challenges and Opportunities in Sri Lanka’s Plantation Sector – 2024’
+### Applications called for appointment of members to Office of Missing Persons
 
-*2024-05-06 03:40:00* · [`islandlk`](http://island.lk/charting-a-sustainable-path-navigating-challenges-and-opportunities-in-sri-lankas-plantation-sector-2024/) · `en`
+*2024-05-06 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-called-for-appointment-of-members-to-Office-of-Missing-Persons/108-282022) · `en`
 
-The recent wage increase for plantation workers has stirred significant discussion and debate within the industry, prompting a closer examination of the underlying factors at play. Several crucial points come to the forefront, shedding light on overlooked aspects that have contributed to the current predicament.
+Colombo, May 06 (Daily Mirror)- Applications from eligible persons are called for to fill the vacancies for the posts of members in the Office on Missing Persons (OMP), the Communications Department of Parliament said.
 
-Firstly, the absence of a comprehensive job evaluation and analysis prior to implementing the wage increase is notable. Such an evaluation is essential for understanding the relative value of manual jobs on plantations. Without this foundational understanding, determining appropriate wage structures becomes challenging and can lead to unintended consequences.
+Eligible applicants are requested to prepare the application in accordance with the information sheet which is available on the Parliament website www.parliament.lk with a quick link titled Appointment of the members to OMP.
 
-Furthermore, there is a critical oversight in discerning whether the actual need is for higher daily wages or a livable wage. While the former may address immediate concerns, the latter ensures sustainable livelihoods for workers in the long term. Unfortunately, this distinction was overlooked in the decision-making process.
+"The duly completed applications should be sent on or before 27 May 2024 to ‘The Secretary-General to the Constitutional Council, Constitutional Council – Office, Parliament of Sri Lanka, Sri Jayewardenepura Kotte, by registered post or by email to constitutionalcouncil@parliament.lk.
+
+‘Appointment of Members to the OMP’ should be indicated on the top left-hand corner of the envelope, or as the subject of the email," a statement said.
+
+◼️
+
+[Data](articles/c91bb178.json)
+
+---
+
+### Action against man who caused disturbance at BIA visa counters and officers who recorded incident
+
+*2024-05-06 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99044/action-against-man-who-caused-disturbance-at-bia-visa-counters-and-officers-who-recorded-incident) · `en`
+
+Minister of Public Security Tiran Alles says that action will be taken against the person who had caused a disturbance recently in the visa issuance section at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The minister said that action will also be taken against the officers who had recorded the incident in question.
+
+Minister Alles revealed this during a special press conference held today (06) in relation to the recent controversial issue concerning the issuance of On-Arrival Visas at the BIA in Katunayake.
+
+The Minister explained that the proposal regarding the new visa system was unanimously passed in Parliament without a debate on November 23, 2023.
+
+He stated that the issue of visa fees was also part of the adopted proposal, and that even though it was passed in November, it was not possible to implement the change through the Electronic Travel Authorization (ETA) system and therefore they had to wait until April 17 to implement it through the VFS system.
 
 ...
 
-[Data](articles/eb8e661a.json)
+[Data](articles/3aa33ed3.json)
 
 ---
 
-### 2024-05-05 (Sunday)
+### Action will be taken against man who caused disturbance: Minister
 
-### Deplorable Debt: Is Sri Lanka caught between IMF and IIF?
+*2024-05-06 12:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Action-will-be-taken-against-man-who-caused-disturbance-Minister/108-282021) · `en`
 
-*2024-05-05 23:29:00* · [`islandlk`](http://island.lk/deplorable-debt-is-sri-lanka-caught-between-imf-and-iif/) · `en`
+Colombo, May 06 (Daily Mirror)- Action will be taken against the person who caused a disturbance at the visa issuing section at the Katunayake Airport, Public Security Minister Tiran Alles said today.
 
-The greatest challenges confronting the nation-states in the current era revolve around; deplorable debt, depleted natural resources, and degraded environment. Economic growth and future prosperity for all living beings are stalled due to the varying degrees of the 3D problems emerging out of ill-conceived policy divergences propelling the linear economic activities for centuries in many countries.
+He told a news conference that steps will also be taken against the officers who recorded the incident.
+
+◼️
+
+[Data](articles/cba38bd0.json)
+
+---
+
+### Tense situation as unemployed graduates surround NCPC building; 22 arrested
+
+*2024-05-06 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99043/tense-situation-as-unemployed-graduates-surround-ncpc-building-22-arrested) · `en`
+
+A tense situation has been reported as a group of unemployed graduates surrounded the North Central Provincial Council building in protest and seeking solutions to their demands.
+
+Police said that a total of 22 persons including 11 females were arrested during the agitation.
+
+◼️
+
+[Data](articles/2c2cbd2b.json)
+
+---
+
+### Three suspects wanted over assault arrested with firearm and ammo
+
+*2024-05-06 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99042/three-suspects-wanted-over-assault-arrested-with-firearm-and-ammo) · `en`
+
+Three suspects wanted in connection with an incident of assault and causing bodily harm have been arrested with an assault rifle and ammunition.
+
+An investigation had been launched regarding a crime of assault and wounding an individual with a sharp weapon on April 16 in the Modara police area.
+
+Accordingly, two suspects involved in the incident and one suspect who aided them were arrested by the officers of Modara Police in the Redbanawatte area in the Modara Beach yesterday (05).
+
+The arrested suspects are aged 21, 23 and 24 years while they are residents of Kimbula Ela, Bloemendhal and Wellampitiya areas.
+
+Meanwhile a total of 25 grams and 300 milligrams of heroin was found in the possession of one of the suspects arrested at the Modara Beach.
 
 ...
 
-[Data](articles/2f7ab700.json)
+[Data](articles/c0603fa4.json)
 
 ---
 
-### Can we quantify research performance and rank scientists?
+### NBRO says landslide-prone area not linked to Uma Oya project
 
-*2024-05-05 22:41:00* · [`islandlk`](http://island.lk/can-we-quantify-research-performance-and-rank-scientists/) · `en`
+*2024-05-06 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99041/nbro-says-landslide-prone-area-not-linked-to-uma-oya-project) · `en`
 
-The greatest danger of promoting the H-index as the sole criterion of one’s academic competence is that it discourages undertaking time consuming and challenging investigations, taking years and decades to yield publishable results. One groundbreaking discovery after a decade of work might produce only one paper! Today, in universities and research institutions, the H-index is often considered a factor in deciding recruitments, promotions and base evaluations. This procedure compels the staff of academic and research institutions to take up less stimulating projects having the potential to obtain immediate results.
+The National Building Research Organization (NBRO) says that the installation of related equipment to remove water trapped in the Karandagolla area in Ella has already been commenced.
+
+Accordingly, the Director General of the NBRO, Dr. Asiri Karunawardena said that it will take about 10 days to complete this work.
+
+However, he also said that all the necessary measures have been taken to ensure the stability of the land to release the water in the landslide-prone area.
+
+The Director General further said that if the current landslide situation develops further, it may also pose a risk to the Ella-Wellawaya main road, and therefore priority will be given to safeguarding it.
+
+He also mentioned that technical engineers, geologists, environmental experts and others had visited the area and conducted surveys and analyzed aerial photographs and maps while it was found that this area was previously a landslide-prone area.
 
 ...
 
-[Data](articles/4e0e302b.json)
+[Data](articles/27e8c043.json)
 
 ---
 
-### 2024-05-03 (Friday)
+### Man who spoke out on visa issue at BIA summoned to record statement
 
-### Chaos at BIA
+*2024-05-06 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-spoke-out-on-visa-issue-at-BIA-summoned-to-record-statement/108-282020) · `en`
 
-*2024-05-03 20:03:00* · [`islandlk`](http://island.lk/chaos-at-bia/) · `en`
+Katunayake, May 06 (Daily Mirror)- The man who spoke out at the Bandaranaike International Airport (BIA) recently against the takeover of the on-arrival visa issuance process by an Indian company has been summoned to the Katunayake Airport Police to record a statement.
 
-The Bandaranaike International Airport (BIA) has always been a metaphor for chaos. It has earned notoriety for flight delays, lethargy, lack of facilities, inefficiency and various irregularities. It should be given a radical shake-up. But instead of making an effort to bring order out of chaos there, the government has rendered BIA even more chaotic by involving a foreign company in the issuance of on-arrival visas.
+The man, who identified himself as Sandaru Kumarasinghe,  told reporters that he had been summoned by the Airport Police to record a statement regarding the incident where he spoke out against the on-arrival visa issuance process being handed over to an Indian Company.
 
-On Wednesday night, the personnel of the foreign company withdrew from the on-arrival visa counters after failing to handle the task they had undertaken to perform for a fee. The Immigration and Emigration officials had to step in to man the counters.
+He said that the people must determine whether the statement should be recorded from him, who represented the people, or from those who decided to outsource the visa issuance to a foreign company.
 
-The Department of Immigration and Emigration has been handling the on-arrival visa section itself all these years, and there was absolutely no need for that task to be outsourced. Visitors to Sri Lanka now have to pay the foreign company as well, and on-line visa costs have increased, as a result.
+He said people must have the right to raise their voices when national assets are sold out.
 
 ...
 
-[Data](articles/79f1ac1b.json)
+[Data](articles/1b5b46d8.json)
 
 ---
 
-### 2024-05-02 (Thursday)
+### Sri Lanka expressway SOE to help pay off Rs860bn in debt: Minister
 
-### Cocky candidates
+*2024-05-06 11:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-expressway-soe-to-help-pay-off-rs860bn-in-debt-minister-161370/) · `en`
 
-*2024-05-02 23:25:00* · [`islandlk`](http://island.lk/cocky-candidates/) · `en`
+ECONOMYNEXT – Sahasya Investments, a new state enterprise which will manage expressways, is part of efforts to pay off 860 billion rupees of debt linked to their construction, Transport and Highways Minister Bandula Gunawardena said.
 
-Much is being spoken these days in Sri Lanka about voting intention surveys. Their findings are flaunted by some presidential aspirants in a bid to bolster their claims and counterclaims. But even those with a nodding acquaintance with psephology will see that it is too early to gauge popular support for any presidential candidate, much less make predictions about elections, with the help of opinion survey results.
+“There is a dire need for more optimal management of commercially productive assets in order to pay off the outstanding debt of over 860 billion for the expressway system,” the Gunawardena said on his Meta (Facebook) page after opening the Sahasya Investment head office at Battaramulla.
 
-Public opinion and perceptions do not readily lend themselves to quantification. Hence there could be many inaccuracies in opinion survey results. There have been numerous instances where predictions based on the findings of public opinion surveys, etc., went wrong.
+“Since it is difficult to fulfill that requirement in the traditional government organization structure, this organization will operate as a government company that can make decisions more effectively.
+
+“By doing so, it will be possible to maintain a highway system that will not be a burden to the country.”
+
+It is not clear how much of the 860 billion in debt will be transferred to the special purpose vehicle.
 
 ...
 
-[Data](articles/32a9b7c8.json)
+[Data](articles/ef671a89.json)
 
 ---
 
-### Beggars at crossways
+### O/L exam begins...
 
-*2024-05-02 00:23:00* · [`islandlk`](http://island.lk/beggars-at-crossways/) · `en`
+*2024-05-06 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/OL-exam-begins/110-282017) · `en`
 
-The police have embarked on a campaign, parallel to their war on drugs, to clear busy intersections of beggars who solicit alms near traffic lights, causing much inconvenience to motorists. Scores of beggars have already been arrested and hauled up before courts for doing so, we are told.
+The GCE Ordinary Level (O/L) examinations began this morning across the country. Candidates were seen arriving at examination centres in the Colombo district. Pix by Kithsiri De Mel
 
-Sri Lankans drive and ride like bats out of hell, and champ at the bit at intersections to zing. Amber, for them, means ‘go’. So, the beggars at traffic lights not only become a nuisance to motorists but also run the risk of ending up as mere statistics in road fatality records. Police action to stop begging at crossways has therefore met with public approval, according to media reports.
+◼️
+
+[Data](articles/971212ae.json)
+
+---
+
+### Two children taken hostage by father rescued after nine-hour operation
+
+*2024-05-06 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-children-taken-hostage-by-father-rescued-after-nine-hour-operation/108-282016) · `en`
+
+Hanwella, May 06 (Daily Mirror)- Two children who were taken hostage by a father in Jalthara, Hanwella were rescued by the STF after a nine-hour operation.
+
+The suspect had come with a hand grenade to kill his wife who was living at the Government Servant's Housing Complex in Jalthara last evening and took the children hostage.
+
+The two children were admitted to the Homagama Hospital as the man had injected something to them.
+
+Police had handed over the hand grenade to the Bomb Disposal Unit for disposal.
+
+◼️
+
+[Data](articles/8de814a2.json)
+
+---
+
+### Grama Niladhari officers to report sick for two days
+
+*2024-05-06 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99040/grama-niladhari-officers-to-report-sick-for-two-days) · `en`
+
+Grama Niladhari officers are engaged in trade union action by reporting sick leave today (06) and tomorrow (07), based on several demands.
+
+The All-Island Grama Niladhari Officers’ Association stated that the trade union action has been launched covering the entire country and that they will be withdrawing from duties and reporting sick leave.
+
+Commenting further in this regard, the General Secretary of the association Mr. Jagath Chandralal said that all the unions representing the Grama Niladhari Officers have support this.
+
+He also said that strict measures will be taken if the government does not pay proper attention to their problems in the Cabinet meeting.
+
+◼️
+
+[Data](articles/9997b2b0.json)
+
+---
+
+### Panama’s Mulino wins presidency with support from convicted former leader
+
+*2024-05-06 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99039/panamas-mulino-wins-presidency-with-support-from-convicted-former-leader) · `en`
+
+(Reuters) - Panama’s former security minister Jose Raul Mulino on Sunday stormed to victory in a presidential poll dominated by his old boss, the popular ex-leader Ricardo Martinelli, who buttressed his campaign despite being holed up in Nicaragua’s embassy.
+
+Mulino, 64, was one of the favorites for the presidency after he stepped in to replace Martinelli on the ballot when the former president was barred from running due to a money laundering conviction.
+
+“Mission accomplished, damn it,” Mulino told his supporters to loud cheers and applause. “To Ricardo Martinelli, friend, mission accomplished as well.”
+
+Mulino said his government would be pro-investment and pro-business and said the Central American country would honor its debts, but also vowed to not forget the poor.
+
+“I promise to the country at this time to put together, to establish, a government of unity as soon as possible,” Mulino told electoral officials earlier as they video called him to confirm he had won the presidency.
 
 ...
 
-[Data](articles/ee9333e4.json)
+[Data](articles/6b08f9e6.json)
 
 ---
 
-### 2024-05-01 (Wednesday)
+### Sri Lanka rupee opens weaker at 297.20/40 to US dollar
 
-### Wasim Akram to train Sri Lankan bowlers, coaches
+*2024-05-06 09:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-297-20-40-to-us-dollar-161358/) · `en`
 
-*2024-05-01 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98963/wasim-akram-to-train-sri-lankan-bowlers-coaches) · `en`
+ECONOMYNEXT – Sri Lanka’s rupee opened at 297.20/40 to the US dollar on Monday from 297.15/35 the previous week, dealers said.
 
-Former Pakistani legend Wasim Akram will conduct a two-day training program for national players, SLC High Performance Coaches, and the coaches of the major clubs in the country, Sri Lanka Cricket (SLC) said.
+A bond maturing on 15.12.2026 was quoted down at 10.62/67 percent from 10.70/75 percent.
 
-In total, Akram, who arrived in Sri Lanka this morning, will conduct five sessions, covering the SLC pace academy, HPC, and major club coaches.
+A bond maturing on 15.03.2028 was quoted down at 11.40/50 percent from 11.45/55 percent.
 
-He will also observe Sri Lanka’s national players’ preparation for the upcoming ICC Men’s T20 World Cup, the SLC said in a statement.
-
-“The program marks Sri Lanka Cricket’s initiative to bring in the required expertise to enhance the coaching strength of the SLC High Performance Center and the Major Club system in the country.”
-
-The decision to invite Akram was taken by the Executive Committee of Sri Lanka Cricket headed by Mr. Shammi Silva, the President of Sri Lanka Cricket. His training program will commence on May 2, 2024.
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.16 percent at 12,424, and the S&P SL20 was down 0.15 percent at 3,666. (Colombo/May06/2024)
 
 ◼️
 
-[Data](articles/32e9fd06.json)
-
-[Extended Data](ext_articles/32e9fd06.ext.json)
-
----
-
-### Parts of India record hottest April as heatwave kills nine
-
-*2024-05-01 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98962/parts-of-india-record-hottest-april-as-heatwave-kills-nine) · `en`
-
-Eastern India experienced its hottest April on record as a heatwave scorched parts of the country amid a general election, killing at least nine people, and the weather office on Wednesday forecast above normal temperatures for May too.
-
-Searing heat has been cited by political analysts as one of the reasons for low voter turnout in the seven-phase parliamentary election that began on April 19, with results due on June 4.
-
-Heatwave conditions are, however, forecast to abate gradually in the coming days.
-
-The mean temperature in eastern India was 28.12 Celsius (82.61 Fahrenheit) in April, the warmest since records began in 1901, with experts blaming a combination of factors.
-
-“In an El Nino year, you get more heating,” said Mrutyunjay Mohapatra, chief of the India Meteorological Department, referring to a climate pattern that typically leads to hot and dry weather in Asia and heavier rains in parts of the Americas.
-
-...
-
-[Data](articles/27b4e6dc.json)
-
-[Extended Data](ext_articles/27b4e6dc.ext.json)
-
----
-
-### Large crowds at Anuradhapura NPP rally
-
-*2024-05-01 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Large-crowds-at-Anuradhapura-NPP-rally/110-281734) · `en`
-
-Thousands of supporters gathered for the National People’s Power May Day rally held at the Salgado Grounds in Anuradhapura this afternoon. The NPP procession, which commenced from the Walisinghe Harishchandra Ground, Anuradhapura proceeded to the Salgado Ground where the rally was held. Pix by B.G. Chathuranga
-
-◼️
-
-[Data](articles/03d242ac.json)
-
-[Extended Data](ext_articles/03d242ac.ext.json)
-
----
-
-### SLPP MP Gayashan joins UNP
-
-*2024-05-01 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-MP-Gayashan-joins-UNP/108-281733) · `en`
-
-Colombo, May 1 (Daily Mirror)- Sri Lanka Podujana Peramuna (SJB) Moneragala District MP Dr. Gayashan Nawanandana has joined United National Party (UNP).
-
-◼️
-
-[Data](articles/e8d8091d.json)
-
-[Extended Data](ext_articles/e8d8091d.ext.json)
-
----
-
-### SJB govt will amend Sri Lanka’s IMF agreement - Sajith
-
-*2024-05-01 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98961/sjb-govt-will-amend-sri-lankas-imf-agreement-sajith) · `en`
-
-Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has reiterated that Sri Lanka’s debt agreement with the International Monetary Fund (IMF) would be amended under an SJB government in the future.
-
-“We will definitely work to create a new, amended IMF agreement that is populist, philanthropic, people-friendly and that would guide the country on the correct path,” he said.
-
-The Opposition Leader made this pledge while addressing the SJB’s May Day rally at Chatham Street, Colombo on Wednesday (01).
-
-Premadasa also vowed to bring everyone who is behind the Easter Sunday terror attacks before the law and to ensure maximum punishment is meted out to those involved as well as those who tried to cover it up.
-
-He also said that they will implement a ‘National Youth Project’ that will give prominence to the youth and will also introduce an entrenched clause to establish new independent agencies to help eradicate corruption in the country.
-
-◼️
-
-[Data](articles/fcf6e4db.json)
-
-[Extended Data](ext_articles/fcf6e4db.ext.json)
-
----
-
-### Only NPP can create law abiding, disciplined society to develop the country: Anura
-
-*2024-05-01 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Only-NPP-can-create-law-abiding-disciplined-society-to-develop-the-country-Anura/108-281732) · `en`
-
-Matara, May 1 (Daily Mirror)- Claiming that proper organizational power and law abiding society were needed to develop the country, the National People's Power (NPP) leader Anura kumara Dissanayake said only the NPP has the best organizational power and discipline to develop this country.
-
-Speaking at the NPP Matara District May Day rally, he said neither Ranil Wickremesinghe nor Sajith Premadasa could create a disciplined and law abiding society.
-
-...
-
-[Data](articles/5f6d2baa.json)
-
-[Extended Data](ext_articles/5f6d2baa.ext.json)
-
----
-
-### President calls on opposition to help safeguard Sri Lanka’s agreement with IMF
-
-*2024-05-01 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98960/president-calls-on-opposition-to-help-safeguard-sri-lankas-agreement-with-imf-) · `en`
-
-President Ranil Wickremesinghe called upon the Janatha Vimukthi Peramuna (JVP), the Samagi Jana Balavegaya (SJB) and other political parties to extend their support to the government in safeguarding the agreements forged with the International Monetary Fund (IMF).
-
-Addressing the United National Party’s (UNP) May Day rally held in Colombo, Wickremesinghe revealed that he will table in the parliament a law which is inclusive of the agreements that the government has reached with the IMF. Thus, he requested all the parties to support in passing the law in order to continue to safeguard the current stable situation that the country has acquired.
-
-“I will table in the parliament a law which is inclusive of the agreements we’ve reached with the IMF. I request everyone to support me in that”, the President said.
-
-...
-
-[Data](articles/7a42a4f6.json)
-
-[Extended Data](ext_articles/7a42a4f6.ext.json)
-
----
-
-### Remember these two
-
-*2024-05-01 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196172) · `si`
-
-President Ranil Wickremesinghe praised Sri Lanka and the UNP, highlighting their role in overcoming the country's challenges.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka's best auspicious was the country and the UNP.
-
-Addressing the May Day Rally addressing the President, the President said.
-
-"Sri Lanka's best wounds to the country and the UNP. That's why we were able to lift the country. It is not the Leader of the Opposition when the country falls.. Sri Lanka had a Guinness Guinness. Finally I got to get. Who am I. A leader of a party to be a single member. We do not run over the challenges. "
-
-◼️
-
-[Data](articles/8b1beb77.json)
-
-[Extended Data](ext_articles/8b1beb77.ext.json)
-
----
-
-### Representatives of the Tamil people should unite against the land grabbing in the Northeast - Sivarasa Mohan
-
-*2024-05-01 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182434) · `ta`
-
-Sivarasa Mohan calls for Tamil unity against land grabbing in Northeast. The 13th Amendment is crucial for Tamil issues. Representatives must unite against land grabbing and other issues. The Tamil Social Democratic Party held a conference on the 21st and 22nd of Jaffna. The 13th Amendment Act is a solution, requiring full implementation of the Provincial Council system. Local government delays in provincial council elections are anti-democratic. Tamil representatives must voice against land occupation, fisherman's problems, and other issues to maintain unity and strength.
-
-🟩
-
-The 13th Amendment to the issue of the Tamil people in this country must be enacted by the 13th Amendment, while all those who act as representatives of the Tamil speaking people should work together against many issues such as land grabbing in the Northeast.Said.
-
-EPRLF located in Budhur, Batticaloa. He was speaking at a media briefing held at the Tamil Social Democratic Party office of the former Northeastern Chief Minister Varadaraja Perumal on Tuesday (30).
-
-Tamil Social Democracy Party Congress Conference on 21st and 22nd Jaffna. The Father Selva Stadium was appointed by the 17 -member central committee and its first meeting was held on the 28th of last month.
-
-The solution to the problem of the Tamil people, the 13th Amendment Act, is in the form of the two answers, which are in the form of the Complex Provincial Council system.
-
-...
-
-[Data](articles/5b920a32.json)
-
-[Extended Data](ext_articles/5b920a32.ext.json)
-
----
-
-### Land bridge with India to bring mutual benefits: Sagala
-
-*2024-05-01 17:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Land-bridge-with-India-to-bring-mutual-benefits-Sagala/108-281731) · `en`
-
-Colombo, May 1 (Daily Mirror)- Chief of Staff of the President, Sagala Ratnayake said the proposed land bridge with India will benefit both countries.
-
-Making his remarks at the UNP May Day rally, he said it is economical for India to use the Sri Lankan ports to unload India-bound containers and then transport them by road to their destinations.
-
-“It will reduce their costs. More than that, Sri Lanka will benefit in the whole economic process,” he said.
-
-He said the country will benefit even further in terms of power grid and pipeline connectivities.
-
-◼️
-
-[Data](articles/4b89d7a6.json)
-
-[Extended Data](ext_articles/4b89d7a6.ext.json)
-
----
-
-### Anura Saggim asks for a day
-
-*2024-05-01 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196171) · `si`
-
-Anura Saggim requests a specific day from Anura Kumara Dissanayake, who states the May Day rally was the last under corrupt leaders. Dissanayake mentions the national folk force's current activities and a dispute in Sajob City, emphasizing readiness for a day before May 20th. He also expresses willingness to join the Monaragala side and support scholarship kids, likening their situation to a boat without a home.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake addressing the June rally today (01) to give a date before May 20th.
-
-He said the May Day rally was the final May Day rally held under the corrupt rulers.
-
-"The national folk force is currently being held today.
-
-"That Sajob City ... Dues trouble. Come on a debate. We gave 4 days. 4 days he works. Work at night. Then we said to give us a date before May 20. We're ready for the day. Because you have to finish this cry. "
-
-"I am not afraid to join the Monaragala side and joining the scholarship kids. There is no boat like a home .... says. "
-
-◼️
-
-[Data](articles/33d9d845.json)
-
-[Extended Data](ext_articles/33d9d845.ext.json)
-
----
-
-### Maithri out, Wijeyadasa in...
-
-*2024-05-01 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Maithri-out-Wijeyadasa-in/110-281730) · `en`
-
-Minister of Justice Wijeyadasa Rajapakshe took the stage alongside former President Maithripala Sirisena at the Sri Lanka Freedom Party May Day rally in Gampaha today. Rajapakshe, who retains his membership with the Sri Lanka Podujana Peramuna (SLPP) through which he entered Parliament in 2020, was named as the SLFP's Presidential candidate for the upcoming elections earlier today.
-
-◼️
-
-[Data](articles/96551443.json)
-
-[Extended Data](ext_articles/96551443.ext.json)
-
----
-
-### Rs.. Gazette for 1,700
-
-*2024-05-01 17:33:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரூ-1-700-க்கான-வர்த்தமானி-வெளியானது/76-336616) · `ta`
-
-The Gazette specifies a daily salary of 1,350 rupees and a special step of 350 rupees, totaling 1,700 rupees. Each kg of tea is paid 80 rupees.
-
-🟩
-
-The daily salary is 1,350 rupees. The daily special step is 350 rupees. Accordingly, a total of Rs 1,700 will be issued.
-
-Each kg of tea will be paid 80 rupees, according to the Gazette.
-
-◼️
-
-[Data](articles/5ddc0b0c.json)
-
-[Extended Data](ext_articles/5ddc0b0c.ext.json)
-
----
-
-### The verdict of the Labor Tribunal about Asam Amin's removal from the BBC
-
-*2024-05-01 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196170) · `si`
-
-The Sri Lanka Labor Tribunal found the BBC's decision to remove Asam Amin from the BBC news 'unfair and unreasonable'. The tribunal highlighted the BBC's decision was published by BBC Ian Harry and BBC Ian Dhonius. The President of the Kalutara Labor Troops expressed his verdict, stating that Assam Amin had not violated BBC guidelines. The tribunal re-employed Asam Amin as a journalist, compensating him for unfair dismissal from 2010 to 2020.
-
-🟩
-
-The Sri Lanka Labor Tribunal has decided that the British Broadcasting Corporation (BBC's decision) as a journalist in the BBC news was 'unfair and unreasonable'.
-
-The Labor Tribunal pointed out that the Labor Tribunal was published by the BBC news, especially BBC Ian Harry in the BBC news, especially BBC Ian Dhonius.
-
-The verdict was published by the Labor Tribunal in connection with the decision filed by the BBC Assajan's decision to end the decision of the BBC's decision.
-
-The President of the Kalutara Labor Troops expressing their verdict was said to have been assigned to the judiciary in the courts during the past ten years after the past ten years.
-
-The President's Chairperson has also stated that he has seen that he has been deployed by the journalist Assa Ama to give him a chance to do not give him a chance to make a chance to make a chance to make or appointment of the allegations of the institution.
-
-...
-
-[Data](articles/e24f46a7.json)
-
-[Extended Data](ext_articles/e24f46a7.ext.json)
-
----
-
-### Assessments to the recreation media that contributed to the recreation of the National Namal Uyana
-
-*2024-05-01 17:17:06* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-නාමල්-උයන-රැකිගැනීමට--දායක-වූ-මාධ්‍යයට-ඇගයීම්/11-409369) · `si`
-
-Lankadeepa honors print and electronic media for preserving National Namal Uyana, led by Pvthaya Dinesh Gunawardena.
-
-🟩
-
-A print and electronic media institutions and journalists who supported the preservation of the National Namal Uyana have been appointed as Leader of Pvthaya Dinesh Gunawardena on the 30th.. The photograph shows the opportunity to receive the Director of Lankadeepa Editor of Lankadeepa Award.
-
-This program was held to the Namal Uyana nation and the program was held.. The Sunday Lankadeepa, Lankadeepa, today Lankadeepa, today Lankadeepa, today, Lankadeepa, today Lankadeepa, today Lankadeepa, today Lankadeepa, today, Lankadeepa, today Lankadeepa.
-
-◼️
-
-[Data](articles/43f81fef.json)
-
-[Extended Data](ext_articles/43f81fef.ext.json)
-
----
-
-### A assault on the constable of coping
-
-*2024-05-01 17:10:27* · [`adalk`](https://www.ada.lk/breaking_news/බිමත්ව-සිටි-කොස්තාපල්ට-පහරදිමක්/11-409367) · `si`
-
-A police constable was assaulted by a group of people in the dining room of junior officials at Galle Modera, Colombo. The constable, from Welimada, was hospitalized at Colombo National Hospital. Fort police are investigating.
-
-🟩
-
-Fort police said that a police constable was hospitalized at the Galle Modara Ground.
-
-The Colombo area was an amateur police constable attached to the Welimada police station.
-
-The OIC of the Kollupitiya Police OIC saw a group surrounded by a group surrounded by a group surrounded by a group of people and took him to the Constable and handed him over to the Fort Police
-
-According to police sources, the constable has been assaulted by a group of alcohol at the dining room of the junior officials and attacked the Galle Modera.
-
-The constable has been admitted to the Colombo National Hospital. Fort police are conducting further investigations.
-
-◼️
-
-[Data](articles/214d0aea.json)
-
-[Extended Data](ext_articles/214d0aea.ext.json)
-
----
-
-### Wasim Akram to conduct training program for national players
-
-*2024-05-01 17:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wasim-Akram-to-conduct-training-program-for-national-players/108-281729) · `en`
-
-May 1 (Daily Mirror) - Former Pakistani legend Wasim Akram will conduct a two-day training program for national players, SLC High Performance Coaches, and the coaches of the major clubs, the Sri Lanka Cricket said.
-
-The SLC said that Akram arrived in Sri Lanka this morning and will conduct five sessions, covering the SLC pace academy, HPC, and major club coaches.
-
-He will also observe Sri Lanka’s national players’ preparation for the upcoming ICC Men’s T20 World Cup.
-
-The program marks Sri Lanka Cricket’s initiative to bring in the required expertise to enhance the coaching strength of the SLC High Performance Center and the Major Club system in the country.
-
-Meanwhile, Sri Lanka Cricket will start a 3-team T20 practice tournament tomorrow (2nd May) in order to prepare the national team for the upcoming ICC Men's T20 World Cup.
-
-Three teams, namely Yellow, Green, and Red, will take part in the preparation tournament.
-
-...
-
-[Data](articles/0a38d00f.json)
-
-[Extended Data](ext_articles/0a38d00f.ext.json)
-
----
-
-### Fake bomb threats shut nearly 100 schools in Indian capital
-
-*2024-05-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98959/fake-bomb-threats-shut-nearly-100-schools-in-indian-capital) · `en`
-
-Thousands of students have been evacuated from nearly 100 schools in and around India’s capital Delhi after fake bomb threats were emailed to them.
-
-Authorities say the threats appear to be a hoax. Nothing was found during a search of the schools, they add.
-
-Police say they have traced the origin of the threat emails and an investigation is under way.
-
-The federal home ministry and Delhi Police have asked people to stay calm.
-
-Delhi’s Lieutenant Governor VK Saxena, the constitutional head of the state, said schools in Delhi and neighbouring suburbs that received the bomb threat have been cordoned off as search operations are being carried out.
-
-The city’s Fire Services said they sent fire engines to the schools but found nothing during their search.
-
-“Dog squads, and bomb disposal units are also working,” Mr Saxena told local media. “I want to assure the people of Delhi that Delhi Police is fully prepared and we will try to prevent any untoward incident from happening.”
-
-...
-
-[Data](articles/72bc8960.json)
-
-[Extended Data](ext_articles/72bc8960.ext.json)
-
----
-
-### Estate workers can't give Rs. 1700
-
-*2024-05-01 17:05:14* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවන්ට-රු-1700-ක්-දෙන්න-බැරි-බව-වතු-සමාගම්-කියයි/11-409366) · `si`
-
-Estate workers' daily wage cannot increase to Rs. 1700, despite a gazette notification, without consulting tea plantation companies. A special discussion with company officials is planned.
-
-🟩
-
-The estate employers' association says that the daily wage of plantation workers cannot increase to Rs.
-
-A senior official of the association said that a gazette notification has been issued to the increase from night from night to Rs 1700 to Rs.
-
-The official said that the Gazette has been issued without discussing any discussions with the tea plantation companies.
-
-The official added that a special discussion with the highest officials of the tea plantation companies will be held on the day and after the discussion.
-
-◼️
-
-[Data](articles/1379f15d.json)
-
-[Extended Data](ext_articles/1379f15d.ext.json)
-
----
-
-### Indo -Sri Lanka Shipping Service resumes this month
-
-*2024-05-01 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/182418) · `ta`
-
-Indo-Sri Lanka shipping service resumes on 13th after cancellations due to maritime conditions. Launched in 2021, it carries 150 passengers on a 4-hour journey from Nagapattinam to Kankesanturai for Rs 26,750/person.
-
-🟩
-
-The shipping service between India's Nagapattinam and the Kankesanthurai of Sri Lanka will be resumed on the 13th of this month. Said Ilukpitiya.
-
-Several attempts to resume the Indo -Sri Lanka Shipping Service have been canceled due to inclement maritime.
-
-Due to the North -East monsoon rains, the shipping service was suspended by October 20.
-
-Four decades later, passenger shipping service between India and Sri Lanka was launched on October 14 last year.
-
-In this case, nearly 50 passengers arrived in the first trip of the passenger shipping service called Seriyapani.
-
-The Shipping Corporation Op India (SCI) is capable of carrying 150 passengers, a 35 -meter long and 9.6 meter wide, a high -speed ship.
-
-The ship will travel from Nagapattinam to Kankesan for up to four hours for a tour of Sri Lanka for Rs 26,750 and 53,500 for two tourists.
-
-◼️
-
-[Data](articles/4b577d3d.json)
-
-[Extended Data](ext_articles/4b577d3d.ext.json)
-
----
-
-### BBC ordered to pay compensation to Sri Lankan journalist
-
-*2024-05-01 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98958/bbc-ordered-to-pay-compensation-to-sri-lankan-journalist) · `en`
-
-Labour Tribunal of Kalutara, Sri Lanka has ruled that the British Broadcasting Corporation’s (BBC) decision to prematurely terminate the contract of top journalist Azzam Ameen was ‘unreasonable and unjustifiable’.
-
-Having delivered the Order on 26th April, 2024, the Labour Tribunal also found that the actions of the BBC, particularly of the BBC’s representative Iain Haddow, were arbitrary and high-handed.
-
-Ruling against the BBC, the Labour tribunal also ordered the British media house to pay compensation to journalist Azzam Ameen, which amounts to the equivalent of 10 months of the salary drawn by the journalist at the time of his termination of contract.
-
-The ruling comes in connection to the case filed by Azzam Ameen on the BBC’s decision to terminate his contract over a leaked, distorted voice recording, alleged to have been a phone call with politician Ranjan Ramanayake.
-
-...
-
-[Data](articles/e71daa4b.json)
-
-[Extended Data](ext_articles/e71daa4b.ext.json)
-
----
-
-### SLPP MP attends UNP May Day rally in Colombo
-
-*2024-05-01 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98957/slpp-mp-attends-unp-may-day-rally-in-colombo) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Dr. Gayashan Nawananda has reportedly joined the May Day rally of the United National Party (UNP) in Colombo.
-
-The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in Maligawatte under the patronage of party leader President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/22599099.json)
-
-[Extended Data](ext_articles/22599099.ext.json)
-
----
-
-### SLPP MP joins UNP May Day rally in Colombo
-
-*2024-05-01 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98957/slpp-mp-joins-unp-may-day-rally-in-colombo) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Dr. Gayashan Nawananda has reportedly joined the May Day rally of the United National Party (UNP) in Colombo.
-
-The UNP’s May Day rally is currently underway at the P.D. Sirisena Ground in Maligawatte under the patronage of party leader President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/7b22e529.json)
-
-[Extended Data](ext_articles/7b22e529.ext.json)
-
----
-
-### Salary of an estate worker is Rs.. 1700 doing
-
-*2024-05-01 16:58:19* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරුවෙකුගේ-දිනක-වැටුප-රු--1700ක්-කරනවා/11-409365) · `si`
-
-President Ranil Wickremesinghe addresses the May Day rally, confirming rights of plantation workers, promising wage increase to Rs. 1700, and emphasizing development of villages, education, and vocational training. He thanks plantation workers for national economy support, acknowledges challenges, and outlines government efforts to stabilize economy, increase salaries, and improve education.
-
-🟩
-
-As the president, I confirm the rights of the plantation workers under me.
-
-Line rooms will provide facilities to make villages.
-
-In the estate, children pay special attention to the development of their children and vocational education.
-
-Thank you for the contribution of the plantation people to revive the economy of the country - President Mahinda Rajapaksa addressing the May Day rally of the Ceylon Workers Congress -
-
-President Ranil Wickremesinghe said that the daily wage of a plantation worker would increase to Rs.
-
-The President emphasized that he had never forgotten the issues of the plantation sector and that their rights would be won under him as the president.
-
-President Ranil Wickremesinghe made this statement addressing the May Day rally at Kotagala Public Stadium this morning.
-
-...
-
-[Data](articles/e54333c8.json)
-
-[Extended Data](ext_articles/e54333c8.ext.json)
-
----
-
-### Sonia Agarwal's music release 'Dandupalayam'
-
-*2024-05-01 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182421) · `ta`
-
-Sonia Agarwal's music release 'Dandupalayam' in Chennai, directed by Tiger Venkat, features music by Jithin K.. Roshan. The film, produced by Venkat Movies, has three parts in Telugu, a Kannada release, and is adapting for Tamil with screenplay changes.
-
-🟩
-
-The music release of the movie 'Dandupalayam' was held in Chennai. Director Aravindaraj congratulated the film crew on the participation of a special guest.
-
-Directed by director Tiger Venkat, Sonia Agarwal, Vanitha Vijayakumar, Mummad Khan, Ravi Khale, Super Good Subramani, Ali, Birla Bose. B.. Jithin K.. Roshan has composed music. The film is being produced by Venkat Movies, director Tiger Venkat.
-
-...
-
-[Data](articles/63c06ef6.json)
-
-[Extended Data](ext_articles/63c06ef6.ext.json)
-
----
-
-### Arjuna Ranatunga joins SJB’s May Day rally
-
-*2024-05-01 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98956/arjuna-ranatunga-joins-sjbs-may-day-rally) · `en`
-
-Former Sri Lankan cricket captain and former minister Arjuna Ranatunga joined the May Day rally of the Samagi Jana Balavegaya (SJB) which was held in the Thalawakele area this morning (May 01).
-
-Speaking during the event, the 1996 World Cup-winning captain said he was invited to attend the May Day rally by former Minister Palani Thigambaram and that he gladly accepted the invitation.
-
-Ranatunga had recently joined the Anti-Corruption Coalition led by former Minister of Sports Roshan Ranasinghe.
-
-One of the two main May Day rallies of SJB was held in the Thalawakele area this morning under the patronage of the Leader of the Opposition Sajith Premadasa this morning.
-
-Meanwhile, the other public rally of the SJB is currently being held at Chatham Street, Colombo.
-
-◼️
-
-[Data](articles/d517b430.json)
-
-[Extended Data](ext_articles/d517b430.ext.json)
-
----
-
-### Wijedasa Rajapakse's presidential candidate
-
-*2024-05-01 16:48:20* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-ජනපති-අපේක්ෂකයා-විජේදාස-රාජපක්ෂ/11-409364) · `si`
-
-Wijedasa Rajapakse, supported by Minister Maithripala Sirisena, is the Freedom Party's presidential candidate. Sirisena criticizes Rajapakse's portfolio issues and announces no presidential run.
-
-🟩
-
-Minister Wijedasa Rajapakse was presented as the Freedom Party President and Minister Maithripala Sirisena, former President's support.
-
-He also said that Wijedasa Rajapakse is now a problem with the portfolio. The former president said he would not contest again to the President.
-
-◼️
-
-[Data](articles/dc19fbe1.json)
-
-[Extended Data](ext_articles/dc19fbe1.ext.json)
-
----
-
-### SF makes early exit from SJB May Day rally
-
-*2024-05-01 16:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-makes-early-exit-from-SJB-May-Day-rally/108-281728) · `en`
-
-SJB Chairman Field Marshal Sarath Fonseka made an early exit from the party's May Day Rally in Fort, a shortwhile ago.
-
-Fonseka was seen greeting MPs and Buddhist clergy before he left the rally.
-
-◼️
-
-[Data](articles/118545fd.json)
-
-[Extended Data](ext_articles/118545fd.ext.json)
-
----
-
-### Sivakarthikeyan's 'Monkey Pedal'
-
-*2024-05-01 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/182423) · `ta`
-
-"Monkey Pedal" is a Tamil film centered on children, directed by Kamalakannan, featuring Kali Venkat and five child stars. It explores the psychology of childhood, focusing on the bicycle as a symbol of freedom and youth. The film, composed by Jibran, has been acclaimed at international film festivals and is set for worldwide release on May 3rd. Sivakarthikeyan, who has seen the movie, has helped release it. The film's theme, inspired by a short story by Rasi Alagappan, resonates with the universal experience of childhood and the nostalgia of riding a bicycle.
-
-🟩
-
-In Tamil cinema, children are centered around. Similarly, only children have also created films that can be enjoyed.
-
-However. The world is aesthetic for children who are not false. Is meaningful. Parents in their world are the dream.
-
-Parents are friendly. Parents are guides. But not to be without friends. The 'Monkey Pedal' is a meaningful, aesthetic, and emotional creation of children in the eighties focusing on this psychology, focusing on this psychology.. Sivakarthikeyan, who has seen the movie, has been screened and acclaimed at several international film festivals and has helped to release the film.
-
-Kali Venkat is playing the lead role in 'Monkey Pedal' directed by director Kamalakannan. Five children have made their debut as child stars.The film, composed by Jibran, will be released worldwide on May third.
-
-In this case, the event was held in Chennai. Sivakarthikeyan spoke on the video via video. Following this, the film crew talked to journalists.
-
-...
-
-[Data](articles/387a8861.json)
-
-[Extended Data](ext_articles/387a8861.ext.json)
-
----
-
-### E .a .a. President on May Day
-
-*2024-05-01 16:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-கா-மே-தினத்தில்-ஜனாதிபதி/175-336615) · `ta`
-
-President Ranil Wickremesinghe addressed the May Day celebration, promising to tackle the country's decline, support the economy, and improve plantation workers' lives. He highlighted government efforts like the Aswesuma Project, salary increases, and strengthening the rupee. The event also focused on rural development, education, and the rights of hill country people, with a reminder of past efforts like plantation schools and citizens' rights.
-
-🟩
-
-The May Day celebration organized by the Ceylon Workers Congress was held on Wednesday (01) at the Kotagala Pradeshiya Sabha Public Playground.
-
-President Ranil Wickremesinghe addressed the gathering and was given the responsibility of taking responsibility for the declined country.. The cabinet supported the stupid economy. Similarly, during the decline of the country, additional plantation workers said that the country was responsible for bringing foreign exchange to the country by 2023.
-
-The President said that he would never forget the problems of plantation workers, even if he had forgotten that Jeevan Thondaman would not leave.
-
-Government officials have been paid a salary increase of Rs 10,000. The Aswesuma Project, the distribution of rice is being implemented. Tourism income is also increasing. The rupee has now been strengthened. Focus on the upcountry Rural Development and Education Development. I will try to get the rights of the people of the hill country.
-
-...
-
-[Data](articles/df0447aa.json)
-
-[Extended Data](ext_articles/df0447aa.ext.json)
-
----
-
-### Talatha, Rajitha missing in SJB May Day rally
-
-*2024-05-01 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Talatha-Rajitha-missing-in-SJB-May-Day-rally/108-281726) · `en`
-
-Colombo, May 1 (Daily Mirror) - Samagi Jana Balawegaya (SJB) MPs Rajitha Senaratne and Tatha Athukorala were notable abesentees at party's May Day Rally in Fort today.
-
-All Ceylon Makalal Kachchi Leader SJB alley Rishath Bathiudeen, was another abesentee.
-
-Another feature is the prominence given to MPs    G. L Peiris and Dilan Perera. They were given front seats.
-
-◼️
-
-[Data](articles/8023e306.json)
-
-[Extended Data](ext_articles/8023e306.ext.json)
-
----
-
-### Member of Poinse is on the UNP stage
-
-*2024-05-01 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196169) · `si`
-
-Poinse member attended UNP rally led by Colombo May Palai, with a planned event at Sirisena Stadium.
-
-🟩
-
-Mr. Gayashan Navananda and MP Gayashan Navananda has attended the rally of the UNP.
-
-UNP leader Colombo May Palai Colombo Maligawatta PD. The Sirisena stadium will be held in front of the stadium and this was announced.
-
-◼️
-
-[Data](articles/74b25886.json)
-
-[Extended Data](ext_articles/74b25886.ext.json)
-
----
-
-### Anura's ticket shows the country at the platform
-
-*2024-05-01 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196168) · `si`
-
-Thushara Indutan accuses National Folk Force of exploiting workers. May Day Rally in Colombo led by Samagiens, with Anura Dissanayake's ticket showing country. Indutan questions party fund use, suggesting corruption.
-
-🟩
-
-Member of Parliament, Thushara Indutan, has accused the National Folk Force has been imposed on the innocent worker.
-
-The May Day Rally of the Samagiens Rally is being held in Colombo and Chatham Street, where he said.
-
-"I gave this ticket a teacher in alaw. Mrs. Anura Dissanayake's power. This is in my hand a ticket. A village is a village to go to the workers and hit a donation to celebrate May Day. "
-
-"She's how to embark on this way, how is the country builds a country. Now there are now Rs. 900 crores in the party fund. Are they pocket? "
-
-◼️
-
-[Data](articles/a14f92e1.json)
-
-[Extended Data](ext_articles/a14f92e1.ext.json)
-
----
-
-### Arjuna comes to Sajith's stage
-
-*2024-05-01 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196167) · `si`
-
-Arjuna Ranatunga, former cricket captain, joined Sajith Premadasa's stage for Roshan Ranasinghe's promotion.
-
-🟩
-
-Leader of the Leader Sajith Premadasa, leader Sajith Premadasa, was chaired by the leader of Sajith Premadasa today (01).
-
-The former cricket captain Arjuna Ranatunga has been joining the stage of the promotion of Roshan Ranasinghe.
-
-◼️
-
-[Data](articles/b3cfaf42.json)
-
-[Extended Data](ext_articles/b3cfaf42.ext.json)
-
----
-
-### Eight people arrested, including two men tried to escape from India from India to Sri Lanka
-
-*2024-05-01 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182407) · `ta`
-
-Thangachimadam police arrested 8, including two Sri Lankan couples, for attempting to escape to Sri Lanka by boat. The operation involved local men and police.
-
-🟩
-
-The Thangachimadam police have arrested 8 people, including two Sri Lankan couples who were trying to escape to Sri Lanka by boat by boat in India.
-
-Four people, including Saibullah Naveed, Imran, Naina Mohammed and Raghuman from Vedalai, Ramanathapuram district, were standing at the Thangachi Madam bus stand last night.
-
-The four -year -old police, who were on the night patrol, were arrested by the four men who were illegally sending the Sri Lankan men to Sri Lanka.
-
-Shanti and Rajeswaran, who were from Vavuniya in Sri Lanka, arrived in Chennai in 2017 and returned to Sri Lanka as they were staying in Chennai.
-
-Vinod Kumar and Ganesan Lingam from Chennai Pullam have been asked to illegally send it to Sri Lanka by boat by Dhanushkodi.
-
-Following this, Ganesalingam and Vinod Kumar, who had received the money from Rajeswaran, had contacted Naveed Imran of Vedala and sent them to Sri Lanka.
-
-...
-
-[Data](articles/0291155e.json)
-
-[Extended Data](ext_articles/0291155e.ext.json)
-
----
-
-### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
-
-*2024-05-01 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98955/passenger-ferry-service-between-tamil-nadu-and-sri-lanka-to-resume-on-may-13) · `en`
-
-The passenger ferry service between Nagapattinam and Kankesanthurai in Sri Lanka, which resumed in October 2023 after almost 40 years only to be stopped days later, is set to recommence on May 13. Online ticket sale for the service, which will be handled by a new operator, will go live on Monday.
-
-On October 14 last year, Indian Prime Minister Narendra Modi virtually flagged off the service between Nagapattinam and Kankesanthurai. The HSC Cheriyapani operated by the Shipping Corporation of India under KPVS Private Limited, however, stopped service after about a week allegedly due to monsoon. After a gap of six months, the service is set to resume. This time though, a Chennai-based travel operator, IndSri Ferry Services Private Limited, would handle the international service through the ship, ‘Sivagangai’.
-
-...
-
-[Data](articles/dc81645d.json)
-
-[Extended Data](ext_articles/dc81645d.ext.json)
-
----
-
-### Passenger ferry service between Tamil Nadu and Sri Lanka to resume on May 13
-
-*2024-05-01 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98955/passenger-ferry-service-between-tamil-nadu-and-sl-to-resume-on-may-13) · `en`
-
-The passenger ferry service between Nagapattinam and Kankesanthurai in Sri Lanka, which resumed in October 2023 after almost 40 years only to be stopped days later, is set to recommence on May 13. Online ticket sale for the service, which will be handled by a new operator, will go live on Monday.
-
-On October 14 last year, Prime Minister Narendra Modi virtually flagged off the service between Nagapattinam and Kankesanthurai. The HSC Cheriyapani operated by the Shipping Corporation of India under KPVS Private Limited, however, stopped service after about a week allegedly due to monsoon. After a gap of six months, the service is set to resume. This time though, a Chennai-based travel operator, IndSri Ferry Services Private Limited, would handle the international service through the ship, ‘Sivagangai’.
-
-...
-
-[Data](articles/fb4f6af9.json)
-
-[Extended Data](ext_articles/fb4f6af9.ext.json)
-
----
-
-### “The second Arakalaya will lead the IMC”
-
-*2024-05-01 15:50:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-அரகலயவை-ஐ-ம-ச-வழிநடத்தும்/175-336614) · `ta`
-
-"Mujibur Rahman predicts SJB's second Arakalaya will lead UPP if presidential election is postponed."
-
-🟩
-
-Former SJB MP Mujibur Rahman said that if the presidential election is adjourned this year, the second Arakalaya (SJB) will lead the United People's Power (SJB).
-
-◼️
-
-[Data](articles/4136d5d0.json)
-
-[Extended Data](ext_articles/4136d5d0.ext.json)
-
----
-
-### Senthil Thondaman thanks to President and Labor Minister for plantation workers' salary increases
-
-*2024-05-01 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/182422) · `ta`
-
-Senthil Thondaman, Ceylon Workers Congress president, thanks President Ranil Wickremesinghe and Labor Minister Manusha Nanayakkara for a 1,700 rupee salary increase for plantation workers. He emphasizes the CWC's commitment to its principles and criticizes Congress for not supporting workers' rights.
-
-🟩
-
-The Ceylon Workers Congress will do what it says and what to do. Through fierce struggles, we have paid a salary increase of 1,700 rupees to plantation workers. President Ranil Wickremesinghe and Labor Minister Manusha Nanayakkara, who cooperated in the short term, said, "CWC leader and Eastern Provincial Governor Senthil Thondaman said.
-
-He said this at a massive meeting of the CWC held at the Kotagala Public Ground.
-
-Senthil Thondaman, president of the CWC, continued to address this May Day event.
-
-“The Ceylon Workers Congress will only do what it says and what to do. This is what the CWC's late leaders, Chaumiyamoorthy Thondaman and Arumugan Thondaman taught us.
-
-In the future, the CWC will only do what it says and what is done. Question what the Congress did. We tell them that Congress is the right to give you the right to question.
-
-...
-
-[Data](articles/3b2cbc25.json)
-
-[Extended Data](ext_articles/3b2cbc25.ext.json)
-
----
-
-### BJP invitation to Sri Lankan political parties
-
-*2024-05-01 15:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-அரசியல்-கட்சிகளுக்கு-பாஜக-அழைப்பு/175-336613) · `ta`
-
-BJP invites Sri Lankan political parties to India's election campaign, promising to share election strategies with foreign leaders. Participants include Australia's Liberal Party, Vietnam's Communist Party, Bangladesh's Awami League, Israel's Ligood Party, Uganda's National Movement, Tanzania's Sama Cha Mabindusi, Russia's United Russia, and Mauritian and Nepalese parties.
-
-🟩
-
-As the Lok Sabha election campaign in India has been heated, the Hindu has reported that the ruling party, the Bharatiya Janata Party (SLPP) and the United National Party (UNP) representatives, have called for awareness on election processes.
-
-The BJP said that foreign leaders would be given the intelligence of the party's election campaign and that it would clarify its tricks and the entire election process.
-
-Australia's Liberal Party, Vietnam's Vietnam Communist Party, Bangladesh's Awami League, Israel's Ligood Party, Uganda's National Movement, Tanzania's Sama Cha Mabindusi and Russia's United Russia's United Russia Party include political parties.
-
-The Mauritius Labor Party, the Mauritius Militant Movement and the Mauritius Party are the Mauritian Social Democratic Party, and the Nepali Congress, the Nepal Party, the Communist Party of the Communist Party (Integrated Marxist-Leninist), the Communist Party of Nepal (Maoist) and the Rashtriya Freedom Party from Nepal.
-
-◼️
-
-[Data](articles/65910f17.json)
-
-[Extended Data](ext_articles/65910f17.ext.json)
-
----
-
-### Government Executives tomorrow in a trade union action
-
-*2024-05-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196166) · `si`
-
-The Joint Committee of Government Executives plans a professional procedure to report sick leave tomorrow, protesting against occupational issues like salary anomalies. They criticize the government for not addressing these issues, affecting 18,000 officers. The protest is scheduled for tomorrow, and the association has boycotted district and regional coordinating activities and meetings called by politicians.
-
-🟩
-
-The Joint Committee of Government Executives has decided to engage in a professional procedure to report sick leave tomorrow (02) and tomorrow.
-
-It protests not to solve the occupational problems, including salary anomalies.
-
-The Association says that a protest will be held tomorrow tomorrow.
-
-The integrated committee of government pointed out that the government has not taken measures to solve the professional issues of the Government islandwide and 18,000 executive officers affected.
-
-Government Executives have already left all the District and Regional Coordinating activities and the meetings called by politicians has also boycotted the same association.
-
-◼️
-
-[Data](articles/04002990.json)
-
-[Extended Data](ext_articles/04002990.ext.json)
-
----
-
-### The shooting of Keerthi Suresh starrer 'Rivolver Rita' is completed
-
-*2024-05-01 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182419) · `ta`
-
-"Keerthi Suresh's 'Rivolver Rita' shooting completed. She stars as heroine, directed by K. Keerthi Suresh. Features Radhika Sarathkumar, Redin Kingsley, Ravi Khale, John Vijay, Senrayan. Cinematography by Dinesh Krishnan, music by L. Praveen. Produced by Sudan Sundaram and Jagadish Palanisamy. Final phase begins soon. Keerthi Suresh's 'Siren' was a hit, and 'Raghu Grandpa' upcoming."
-
-🟩
-
-Actress Keerthi Suresh, who won the national award for his performance in the film 'Tilakam', has been shot in the film 'Rivolver Rita' as the hero of the story.
-
-Director K. Keerthi Suresh is playing the lead role in the upcoming film 'Rivolver Rita' in Chandru.
-
-He has starred in Radhika Sarathkumar, Redin Kingsley, Ravi Khale, John Vijay, Senrayan and many others.. Dinesh Krishnan's cinematography. L. Praveen carries. The film is being produced in the thriller Janer and produced by producers Sudan Sundaram and Jagadish Palanisamy on behalf of Fashion Studios and The Root.
-
-The shooting of the film has been completed and the film crew has released a special video and photo.. Following this, the final phase of the film will begin soon, the film crew said.
-
-Meanwhile, actress Keerthi Suresh's upcoming film 'Siren' was a commercial and critically successful success and her starring 'Raghu Grandpa' will soon be released.
-
-◼️
-
-[Data](articles/9e49814f.json)
-
-[Extended Data](ext_articles/9e49814f.ext.json)
-
----
-
-### Student assassination
-
-*2024-05-01 15:23:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கிரிக்கெட்-மட்டையால்-அடித்து-மாணவன்-படுகொலை/76-336612) · `ta`
-
-A 13-year-old girl, Stanley Stepp, was beaten to death with a cricket bat in Nawalapitiya, Sri Lanka. A dispute over a cricket tank led to the attack. Another student was arrested.
-
-🟩
-
-A student was beaten to death by a cricket bat. Another student has been arrested by Nawalapitiya police on charges of involvement in the incident.
-
-Stanley Stepp (age 13), a schoolgirl from the lower part of the Nawalapitiya Monty Christo estate, has died.
-
-When the two students went to play cricket in the garden on the 23rd of last month, there was a dispute over the cricket tank.. The other student has been attacked by cricket, police said.
-
-The student who was seriously injured in the hospital, who was receiving treatment at the hospital, died on Monday (29), police said.
-
-◼️
-
-[Data](articles/f8d41c4a.json)
-
-[Extended Data](ext_articles/f8d41c4a.ext.json)
-
----
-
-### Ranatunga at the Celebration
-
-*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொ-தே-ச-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
-
-Arjuna Ranatunga attended the National Union May Day meeting at Talawakelle, with Sajith Premadasa as the chief guest.
-
-🟩
-
-The National Union May Day meeting was held at Talawakelle under the patronage of Palani Thikambaram.Former Sri Lankan cricket captain and former UNP minister Arjuna Ranatunga attended the May Day meeting.. Opposition Leader Sajith Premadasa was the chief guest at the event.
-
-◼️
-
-[Data](articles/c6958339.json)
-
-[Extended Data](ext_articles/c6958339.ext.json)
-
----
-
-### Ranatunga at the Celebration
-
-*2024-05-01 15:23:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-மே-தின-நிகழ்வில்-ரணதுங்க/175-336611) · `ta`
-
-Arjuna Ranatunga attended the National Union May Day meeting at Talawakelle, with Sajith Premadasa as the chief guest.
-
-🟩
-
-The National Union May Day meeting was held at Talawakelle under the patronage of Palani Thikambaram.Former Sri Lankan cricket captain and former UNP minister Arjuna Ranatunga attended the May Day meeting.. Opposition Leader Sajith Premadasa was the chief guest at the event.
-
-◼️
-
-[Data](articles/f3af274e.json)
-
-[Extended Data](ext_articles/f3af274e.ext.json)
-
----
-
-### SJB will lead a second Aragalaya if Presidential election is postponed
-
-*2024-05-01 15:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-lead-a-second-Aragalaya-if-Presidential-election-is-postponed/108-281724) · `en`
-
-Colombo, May 1 (Daily Mirror)- Samagi Jana Balawegaya (SJB) will lead a second Aragalaya if this year's Presidential election is postponed, SJB Former MP Mujibur Rahman said as the party's May Day rally kicked off in Fort.
-
-◼️
-
-[Data](articles/0340b7c7.json)
-
-[Extended Data](ext_articles/0340b7c7.ext.json)
-
----
-
-### BJP invites SLPP, UNP to study its election campaign
-
-*2024-05-01 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BJP-invites-SLPP-UNP-to-study-its-election-campaign/108-281723) · `en`
-
-As the Lok Shaba elections campaign heats up in India, the ruling Bharatiya Janatha Party (BJP) has invited representatives from Sri Lanka Podujana Peramuna (SLPP) and the United National Party (UNP) to gain awareness on the electoral process there, The Hindu newspaper reported.
-
-The BJP said the foreign leaders will  be given insights into the party’s election campaign and will be briefed about its strategies and the overall electoral process, according to The Hindu.
-
-Australia’s Liberal Party, Vietnam’s Communist Party of Vietnam, Bangladesh’s Awami League, Israel’s Likud Party, Uganda’s National Resistance Movement, Tanzania’s Chama Cha Mapinduzi, and Russia’s United Russia Party are among the political parties whose representatives are visiting India.
-
-...
-
-[Data](articles/22dcae5c.json)
-
-[Extended Data](ext_articles/22dcae5c.ext.json)
-
----
-
-### UNP Gayashan opens
-
-*2024-05-01 15:19:10* · [`adalk`](https://www.ada.lk/breaking_news/එජාපයට-මන්ත්‍රී-ගයාෂාන්-එළිපිටම-එයි/11-409363) · `si`
-
-UNP Gayashan opens; Jayzan Navan Nawannane joins UNP, attends May Day rally.
-
-🟩
-
-Jayzan Navan Nawannane has joined the UNP today. He is also expected to attend the May Day rally today.
-
-◼️
-
-[Data](articles/6609c2c1.json)
-
-[Extended Data](ext_articles/6609c2c1.ext.json)
-
----
-
-### Around 1,500 workers assigned to clean Colombo after May Day rallies
-
-*2024-05-01 15:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Around-1-500-workers-assigned-to-clean-Colombo-after-May-Day-rallies/108-281727) · `en`
-
-Colombo, May 1 (Daily Mirror) - A total of 1,500 workers have been assigned for cleaning and garbage collection purposes in Colombo city after the May Day rallies, Colombo Municipal Council Solid Waste Management Division Director Engineering Eng. Shahina M. Mysan said.
-
-She told the Daily Mirror that 1,000 workers were assigned for cleaning purposes in the city, and another 500 workers were assigned for the collection of garbage after the May Day rally.
-
-She also said the workers have been tasked with cleaning the entire city by tomorrow.
-
-On ordinary days, 500 workers are assigned for day shifts, and another 500 are assigned for night shifts. As a requirement of the service, the CMC has decided to assign all janitorial staffers today to clean the town.
-
-Ms. Mysan requested the party leaders advise their members to clean the areas where they hold their May Day rallies. That will help to save the taxes collected from the people living within the CMC limits, she said.
-
-...
-
-[Data](articles/f65f08d3.json)
-
-[Extended Data](ext_articles/f65f08d3.ext.json)
-
----
-
-### The music release of 'The Frup' starring Sai Tanashika
-
-*2024-05-01 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/182416) · `ta`
-
-"The music release of 'The Fropp' starring Sai Tansika, featuring music by B. Deepak, was held in Chennai. Sai Tansika acted due to her friendship with director Radhika, who also choreographed and developed the story. The film emphasizes women's safety and has garnered over a million views for its single track and trailer."
-
-🟩
-
-Actress Sai Tansika. After the film, she has selected films that are important to the heroine of the story and the music release of the film 'The Fropp', which is playing the heroine of the story, was released in Chennai.
-
-Sai Tansika, Ashok, Rudhuveer Vardhan, Indiraja, Mime Gopi, Rajasimman, Azmita, etc.
-
-Jason Williams has recorded the film. B.. Deepak has composed the music. The film, which is ready to emphasize the safety of women, has produced the producer Gomati on behalf of the Golden Studios.
-
-The film's single track and trailer have been released by more than a million spectators.. In this case, the introductory composer R. B.. The music release of the film was held in Chennai.. Udayakumar, Yuki Sethu, Producer K. Several filmmakers, including Rajan and songwriter Snegan, participated as a special guest.
-
-Speaking at the event, actress Sai Tansika said, “I agreed to act on the basis of friendship with director Radhika in the film.
-
-...
-
-[Data](articles/a07d2cba.json)
-
-[Extended Data](ext_articles/a07d2cba.ext.json)
-
----
-
-### Request to implement a proper program for vehicle imports
-
-*2024-05-01 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182411) · `ta`
-
-The Sri Lanka Vehicle Importers Association calls for a government-appointed committee to manage vehicle imports, emphasizing the importance of considering public preferences.
-
-🟩
-
-The Sri Lanka Vehicle Importers Association has said that a proper program to import vehicles to Sri Lanka should be implemented.
-
-Association President Indika Sampath Sampath Merinjike said a committee should be appointed by the government to make decisions relating to vehicle imports.
-
-He also said that the people should be given importance to what they wanted before importing vehicles.
-
-◼️
-
-[Data](articles/784d108c.json)
-
-[Extended Data](ext_articles/784d108c.ext.json)
-
----
-
-### Minister Wijeyadasa Rajapaksa: Maithri
-
-*2024-05-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182400) · `ta`
-
-Maithripala Sirisena announces Vijayadasa Rajapaksa as the Sri Lanka Freedom Party's presidential candidate, promising full support.
-
-🟩
-
-Former President Maithripala Sirisena has said that Minister Vijayadasa Rajapaksa will be promoted as the presidential candidate of the Sri Lanka Freedom Party.
-
-He was speaking at the commemoration ceremony of union leader DP Ilangaratne.
-
-“Vijayadasa Rajapaksa has a majority option. I made a consensus. I once mentioned that I would do it. And I promised not to contest again when he was sworn in as president. If Vijayadasa wants, we will give you full support.
-
-◼️
-
-[Data](articles/4279b6df.json)
-
-[Extended Data](ext_articles/4279b6df.ext.json)
-
----
-
-### Sri Lanka signs MoU with Saudi Arabia on investment promotion
-
-*2024-05-01 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98954/sri-lanka-signs-mou-with-saudi-arabia-on-investment-promotion) · `en`
-
-Sri Lanka’s Foreign Minister Ali Sabry and Saudi Arabia’s Minister of Investment Khalid Al Falih have signed a Memorandum of Understanding (MoU) on Investment Promotion between the two countries.
-
-This instrument, a long-felt need, will immensely help to promote investment opportunities in each other’s countries, the Embassy of Sri Lanka in Riyadh said.
-
-Meanwhile, Foreign Minister Sabry has also had a productive meeting with Faisal Alibrahim, Minister of Economy and Planning of the Kingdom of Saudi Arabia, during which both ministers discussed enhancement of economic cooperation including early finalization of a road map for greater economic cooperation.
-
-Both ministers also discussed regional and international issues of mutual interest, the statement added.
-
-Foreign Minister Ali Sabry is visiting Saudi Arabia to attend the World Economic Forum’s Special Meeting on Global Cooperation, Growth and Energy for Development held in Riyadh, Saudi Arabia from 28-29 April 2024.
-
-◼️
-
-[Data](articles/523b479b.json)
-
-[Extended Data](ext_articles/523b479b.ext.json)
-
----
-
-### Debate aside, let’s reassure Sinhalese: No self-determination for North, East
-
-*2024-05-01 14:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Debate-aside-lets-reassure-Sinhalese-No-self-determination-for-North-East/108-281722) · `en`
-
-Colombo, May 1 (Daily Mirror) - Apart from organizing a debate between Opposition Leader Sajith Premadasa and NPP Leader Anura Kumara Dissanayake, let us publicly reassure the Sinhalese people, perhaps in a solemn ceremony, that they will not allow the Northern and Eastern regions to gain the right to self-determination, Lanka Private Bus Owners' Association (LPBOA) Chairman Gemunu Wijerathne urged today.
-
-Addressing the media, he said certain political parties attempting to violate the sovereignty of the country, but that the association has an issue with the President for not revealing this to the country.
-
-"The way the government and the Ministers are heading to is not correct. No decision was taken during the past one-and-a-half years by the subject Minister for the development of the public transport sector of the country. The President too does not interfere with the development of the transport sector.
-
-...
-
-[Data](articles/efa33d44.json)
-
-[Extended Data](ext_articles/efa33d44.ext.json)
-
----
-
-### President at Kotagala May Day rally
-
-*2024-05-01 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/President-at-Kotagala-May-Day-rally/110-281721) · `en`
-
-President Ranil Wickremesinghe participated in the Ceylon Workers’ Congress May Day rally in Kotagala where he announced that the daily wage of plantation workers has been increased to Rs. 1,700. Pix by Ranjith Rajapakse
-
-◼️
-
-[Data](articles/7b601a8a.json)
-
-[Extended Data](ext_articles/7b601a8a.ext.json)
-
----
-
-### Ella landslide risk begins
-
-*2024-05-01 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196163) · `si`
-
-Geologists from the National Building Research Organization (NBRO) began investigating landslide risks in the Ella area, including the Maligamuwa and Karandolla regions, after residents reported water issues related to the Uma Oya project.
-
-🟩
-
-Geologists of the National Building Research Organization commenced investigations into the active landslide situation in the Karalanda area in Ella today.
-
-The Director General of the Disaster Management Department and the Badulla District Secretary and the Ella Divisional Secretary also joined the team.
-
-The names of the names of the names of the names of the names of the names of the names of Maligamuwa, Ella - Karandolla area were signs a few days ago.
-
-Residents accused the area of ​​water with the filling of water with water to the Uma Oya project and recently visited the area.
-
-The situation, they were taken to direct the water risk of the landslides in another direction.
-
-Accordingly, the geologists of the National Building Investigation (NBRO) commenced investigations into the area.
-
-◼️
-
-[Data](articles/a5a8dc66.json)
-
-[Extended Data](ext_articles/a5a8dc66.ext.json)
-
----
-
-### Marriage without ritual is valid
-
-*2024-05-01 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடங்கு-இல்லாத-திருமணம்-செல்லுபடியாகாது/175-336608) · `ta`
-
-A Uttar Pradesh couple challenged their marriage's validity in the Supreme Court, arguing it lacked Hindu rituals. The court emphasized the importance of rituals in Hindu marriages, stating that without them, the marriage is not valid under Hindu law. The Supreme Court also highlighted the significance of marriage in creating a family relationship.
-
-🟩
-
-Religious rituals are important for each religion. During the wedding, these rituals are mainly observed. Some people do not perform rituals, and complete with registration marriage. However, there is an incident that the court has ordered that religious rituals are not valid.
-
-The couple from the Uttar Pradesh state of India have filed a case in the Supreme Court seeking to declare that their marriage is not valid. There have been no formal wedding rituals.
-
-Accordingly, welfare petitions have already been filed in the Supreme Court demanding the regulation of marriages that are not held in accordance with the Hindu marriage laws.
-
-The Supreme Court Judge has issued a series of order on these cases.. The marriage of Agni in Hindu marriage should be held with the rituals that are practiced and that the marriage ceremony should be held in accordance with Section 5 of the Hindu Marriage Act.
-
-...
-
-[Data](articles/5e629088.json)
-
-[Extended Data](ext_articles/5e629088.ext.json)
+[Data](articles/781c0eea.json)
 
 ---

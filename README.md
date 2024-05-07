@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 23:03:24**
+As of **2024-05-07 23:18:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,577 (100.0%) of 22,579 articles have been extended.
+22,579 (100.0%) of 22,579 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ This judgment pertains to an appeal petition filed by social activist Oshala Her
 ◼️
 
 [Data](articles/baac1ad4.json)
+
+[Extended Data](ext_articles/baac1ad4.ext.json)
 
 ---
 
@@ -81,6 +83,8 @@ The controversy stems from a complaint alleging that a student did not receive i
 ...
 
 [Data](articles/caacb2b4.json)
+
+[Extended Data](ext_articles/caacb2b4.ext.json)
 
 ---
 

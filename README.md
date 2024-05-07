@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 18:10:34**
+As of **2024-05-07 18:22:08**
 
 ## Newspaper Stats
 
-*Scraped **22,521** Articles*
+*Scraped **22,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
-economynextcom | 1,280
+economynextcom | 1,281
 dailyftlk | 1,307
-adalk | 1,895
-tamilmirrorlk | 2,622
+adalk | 1,898
+tamilmirrorlk | 2,623
 adaderanalk | 2,651
 virakesarilk | 3,367
 dailymirrorlk | 3,528
@@ -26,29 +26,55 @@ adaderanasinhalalk | 3,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,444 (99.7%) of 22,521 articles have been extended.
+22,451 (99.7%) of 22,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### අලුත් ශිෂ්‍යත්ව වැඩසටහන් දෙකක්
+### பௌசியின் மகன் கைது
+
+*2024-05-07 17:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌசியின்-மகன்-கைது/175-336903) · `ta`
+
+முன்னாள் அமைச்சர் ஏ.எச்.எம். பௌசியின் மகன் முன்னாள் மாகாணசபை உறுப்பினர் நௌசர் பௌசி கொள்ளுபிட்டி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கொள்ளுப்பிட்டி பாடசாலை மாவத்தை பகுதியில் இடம்பெற்ற விபத்தின் பின்னர் பாதிக்கப்பட்ட நபரை தாக்கியதாக அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+
+சம்பவம் தொடர்பில் கொள்ளுப்பிட்டி பொலிஸார் விசாரணைகளை மேற்கொண்டதுடன், சந்தேகநபரான ஏ.எச்.எம்.பௌசியின் மகனைக் கைது செய்து பொலிஸ் பிணையில் விடுவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/75e55566.json)
+
+---
+
+### Two new scholarship programs
 
 *2024-05-07 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196376) · `si`
 
-ජනාධිපති අරමුදල විසින් දැනට ක්‍රියාත්මක කරනු ලබන ශිෂ්‍යත්ව වැඩසටහන්වලට අමතරව තවත් ශිෂ්‍යත්ව වැඩසටහන් දෙකක් ආරම්භ කිරීමට කටයුතු කර තිබේ.
+Two new scholarship programs launched by President Ranil Wickremesinghe for students in Pirivenas and Silateta institutions, covering GCE (A/L) students. Scholarships awarded for 12 months from May 2024. More details on www.presidentsfund.gov.lk and www.pacebook.com/president.fund.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි මෙම නව ශිෂ්‍යත්ව වැඩසටහන් ආරම්භ කර ඇත.
+🟩
 
-ඒ අනුව පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා, සීලමාතාවන් හා ගිහි ශිෂ්‍ය ශිෂ්‍යාවන් වෙනුවෙන් මෙන්ම අ.පො.ස (උසස් පෙළ) තොරතුරු හා සන්නිවේදන තාක්ෂණ විෂයය විෂයයක් ලෙස හදාරනු ලබන ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා ද 2024 මැයි මස සිට ක්‍රියාත්මක වන පරිදි ශිෂ්‍යත්ව ප්‍රදානය කිරීමට නියමිතය.
+Two more scholarships have been launched in addition to scholarship programs implemented by the Presidential Fund.
 
-පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා, සීලමාතාවන් හා ගිහි ශිෂ්‍ය ශිෂ්‍යාවන් වෙනුවෙන් ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහනක් ක්‍රියාත්මක වන්නේ මෙරට ඉතිහාසයේ පළමු වරට වීම විශේෂත්වයක් වන අතර දිවයින පුරා පිහිටි පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතන 822 ආවරණය වන පරිදි මෙය ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+The new scholarship programs have been launched on the instructions of President Ranil Wickremesinghe.
 
-මේ යටතේ එක් පිරිවෙනකට/ සීලමාතා අධ්‍යාපන ආයතනයකට පිරිනැමෙන උපරිම ශිෂ්‍යත්ව සංඛ්‍යාව 06කි.
+Accordingly, students who are studying in Pirivenas and Silateta educational institutions and scholarships from May 2024 for students who are studying as a subject as a subject as well as the GCE (A / L) students study as well as the GCE (A / L) students.Will be awarded.
+
+The first is the first time in the history of student monks, Scholarships and Leah students studying in Pirivena and Silanda educational institutions.
+
+Under this, the maximum number of scholarships will be awarded to one / Sealamaha educational institute.
+
+Accordingly, the Commissioner of the Puraway and the Institute should be selected for his Pirivena / Salamaatha Educational Institute.
+
+The scholarships will be awarded under two categories and are expected to provide scholarships for 5,000 laye clergy.
 
 ...
 
 [Data](articles/940418de.json)
+
+[Extended Data](ext_articles/940418de.ext.json)
 
 ---
 
@@ -89,6 +115,8 @@ The scholarship distribution will cover all 822 Piriven and Seelamatha Education
 ...
 
 [Data](articles/23a74d2e.json)
+
+[Extended Data](ext_articles/23a74d2e.ext.json)
 
 ---
 
@@ -576,6 +604,18 @@ The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa 
 
 ---
 
+### කාරණා 4 ක් දන්වනම් මරණවලින් සියයට 89ක් වැලකෙන්න පුළුවන්
+
+*2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-4-ක්-දන්වනම්-මරණවලින්-සියයට-89ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
+
+අද මෙරට මරණ වලින් සියයට 89 ක් පිළිකා, හෘද වස්තුවේ රෝග, පෙණහළු රෝග සහ දියවැඩියාව යන බෝ නොවන රෝග නිසා සිදුවන බවත්, එයිනුත් වැඩි මරණ ප්‍රමාණයක් සිදු වන්නේ හෘද වස්තුවේ රෝග සහ ආඝාතය නිසා බවත්, වසරකට 60,000 ක් පමණ ආඝාතයට ලක්ව 4000 ක් පමණ මියයන බව වෙද්‍ය පාලිත මහීපාල මහතා පවසයි. මෙම රෝග වලින් වැළැකීමේ දි කාරණා 04 ක් ගැන දැනුවත් විය යුතු බවත්, එනම් දුම්පානය, මධ්‍යසාර භාවිතය, අධික ලෙස  සීනි, ලුණු භාවිතය සහ ව්‍යායාම නොකිරිම පෙන්වා දිය හැකි බව “තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය පැවැත්වූ අද (07) දීනදී පවසා සිටියේය.
+
+...
+
+[Data](articles/38ef130f.json)
+
+---
+
 ### If these four things were notified, 89% of these diseases could be saved
 
 *2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/මේ-කාරණා-4-ගැන-දැනුම්වත්-නම්-මේ-රෝගවලින්-සිද්දවෙන-මරණවලින්-89%ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
@@ -691,6 +731,20 @@ About 5 thousand people participated in the demonstration. Due to the demonstrat
 [Data](articles/073c3e12.json)
 
 [Extended Data](ext_articles/073c3e12.ext.json)
+
+---
+
+### විදෙස් සංචිතය තවත් ඉහළට
+
+*2024-05-07 14:25:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-සංචිතය-තවත්-ඉහළට/11-409474) · `si`
+
+ශ්‍රී ලංකාවේ නිල සංචිත වත්කම් 2024 අප්‍රේල් මාසයේදී 9.6%කින් වර්ධනය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+ඒ අනුව 2024 මාර්තු මාසයේ ඩොලර් බිලියන 4.96ක් ව පැවති නිල සංචිත වත්කම්වල අගය 2024 අප්‍රේල් මාසයේදී ඩොලර් බිලියන 5.43ක් දක්වා වැඩිවී තිබේ.
+
+◼️
+
+[Data](articles/66e48037.json)
 
 ---
 
@@ -1101,6 +1155,22 @@ The woman who had previously made a father's daughter's milk tea when his husban
 [Data](articles/24ad0e44.json)
 
 [Extended Data](ext_articles/24ad0e44.ext.json)
+
+---
+
+### ලංකාවේ කාන්තාවන්ගේ ආයු කාලය අවු. 83ක් දක්වා ඉහළට
+
+*2024-05-07 13:14:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කාන්තාවන්ගේ-ආයු-කාලය-අවු--83ක්-දක්වා-ඉහළට/11-409470) · `si`
+
+මෙරට කාන්තාවන්ගෙන් 46 % ක්  සහ  පාසල් යන දරුවන්ගෙන් සියයට 10 % ක්  බර වැඩි බවත්,  කාන්තාවන්ගේ ආයු කාලය අවුරුදු 83 දක්වා වැඩි වී ඇති බවත් සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+
+“තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය අද (07) සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී ලංකා ජාතික රුපවාහීනි සංස්ථා පරිශ්‍රයේ දී එහි කාර්ය මණ්ඩලය මුලික කර ගනිමින් ආරම්භ කරන්නට යෙදුනි.
+
+සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතාගේ උපදෙස් සහ සෞඛ්‍ය ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතාගේ සංකල්පයකට අනුව ආරම්භ කරන ලද මෙම ජංගම සෞඛ්‍ය සායන වැඩසටහනේ සංවිධාන කටයුතු සෞඛ්‍ය අමාත්‍යාංශය, සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය සහ ප්‍රාථමික සෞඛ්‍ය සේවා සවිබලගැන්වීමේ ව්‍යාපෘතිය විසින් සිදු කරනු ලැබීය.
+
+...
+
+[Data](articles/ffb8d996.json)
 
 ---
 
@@ -2217,99 +2287,5 @@ In addition, the panel of judges ordered the appeal to be taken up for hearing o
 [Data](articles/40042f95.json)
 
 [Extended Data](ext_articles/40042f95.ext.json)
-
----
-
-### Public warned of rise in online phishing scams targeting mobile devices
-
-*2024-05-07 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99057/public-warned-of-rise-in-online-phishing-scams-targeting-mobile-devices) · `en`
-
-Sri Lanka Banks’ Association, LankaPay and FinCSIRT says they have been alerted regarding several incidents of financial fraud, both globally and in Sri Lanka, disguised as attractive online offers, leading to mobile device users inadvertently clicking on unknown links and downloading malicious apps and files.
-
-This action grants scammers complete access to the mobile device, enabling them to control it remotely.
-
-Once the fraudsters take control of the mobile device, they have easy access to bank/payment apps that are installed on that device, leading to theft from bank accounts and payment cards accessed via the mobile device.
-
-“We wish to advise the general public to be more vigilant in order to avoid falling prey to such scams,” they said issuing a joint statement.
-
-It pointed out that fraudsters use social media platforms, websites and online messaging platforms to carry out such fraudulent activities.
-
-...
-
-[Data](articles/0c910f5b.json)
-
-[Extended Data](ext_articles/0c910f5b.ext.json)
-
----
-
-### Emergency call to all members of SLPP
-
-*2024-05-07 10:11:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-உறுப்பினர்கள்-அனைவருக்கும்-அவசர-அழைப்பு/175-336875) · `ta`
-
-SLPP members, including MPs and organizers, invited to Colombo by Basil Rajapaksa. All to attend a meeting at Nelum Mawatha at 10.45 am.
-
-🟩
-
-Members of Parliament and all organizers representing the Sri Lanka PA have been invited to Colombo.
-
-It is reported that the founder of the Sri Lanka PA and former Minister Basil Rajapaksa has issued an invitation.
-
-Accordingly, all parliamentarians and organizers representing the Sri Lanka PA have been invited to the party headquarters in Nelum Mawatha at 10.45 am.. Remble
-
-◼️
-
-[Data](articles/38b14a45.json)
-
-[Extended Data](ext_articles/38b14a45.ext.json)
-
----
-
-### Government approves 484 MW wind power project with Adani Green Energy
-
-*2024-05-07 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-484-MW-wind-power-project-with-Adani-Green-Energy/108-282082) · `en`
-
-Colombo, May 7 (Daily Mirror) - The government has given the green light for the development of 484 Mega Watt wind power stations in Mannar and Pooneryn.
-
-This initiative comes as a memorandum of understanding (MoU) signed with Adani Green Energy Limited of India.
-
-In line with this decision, the Cabinet appointed a negotiation committee tasked with evaluating the project proposal submitted by the company.
-
-Following the recommendations of the committee, the Cabinet has approved the resolution presented by the Minister of Power and Energy.
-
-This resolution accepts the final price of USD 8 and 26 cents per KW for the electricity generated under the proposed project, subject to payment in Sri Lankan Rupees based on the actual foreign exchange rate.
-
-The wind power project will award this tender to Adani Green Energy SL Limited for a duration of 20 years.
-
-◼️
-
-[Data](articles/276955f4.json)
-
-[Extended Data](ext_articles/276955f4.ext.json)
-
----
-
-### The Chinese government's agreement to the latest proposal of education
-
-*2024-05-07 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196357) · `si`
-
-The Chinese government has agreed to support a digital education project in Sri Lanka, including a network operating unit and a studio for pastiging classrooms, aiming to facilitate reforms and teacher work efficiency.
-
-🟩
-
-The Chinese government has agreed to provide assistance to a proposal to be a solution to a digital education in Sri Lanka.
-
-A feasibility study has also been carried out regarding the implementation of the project.
-
-The proposed project is a network operating unit (Receiving Class Room) and a network unit of education, studio (pastiging classroom) and a network unit of education with receptors.Expected to give a transmissions room (conferency room).
-
-The instructions can be supported in effective and efficiently to facilitate the reforms, facilitating the work of teachers, and efficiently facilitate reforms in the event of a mixed learning methodology.
-
-The proposal presented by the Minister of Education has been approved by the Minister of Education to implement the proposed project based on the feasibility study report.
-
-◼️
-
-[Data](articles/080c9ade.json)
-
-[Extended Data](ext_articles/080c9ade.ext.json)
 
 ---

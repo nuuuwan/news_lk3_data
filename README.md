@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 17:54:09**
+As of **2024-05-07 18:10:34**
 
 ## Newspaper Stats
 
-*Scraped **22,519** Articles*
+*Scraped **22,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,280
 dailyftlk | 1,307
 adalk | 1,895
 tamilmirrorlk | 2,622
-adaderanalk | 2,650
+adaderanalk | 2,651
 virakesarilk | 3,367
 dailymirrorlk | 3,528
-adaderanasinhalalk | 3,613
+adaderanasinhalalk | 3,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,437 (99.6%) of 22,519 articles have been extended.
+22,444 (99.7%) of 22,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### අලුත් ශිෂ්‍යත්ව වැඩසටහන් දෙකක්
+
+*2024-05-07 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196376) · `si`
+
+ජනාධිපති අරමුදල විසින් දැනට ක්‍රියාත්මක කරනු ලබන ශිෂ්‍යත්ව වැඩසටහන්වලට අමතරව තවත් ශිෂ්‍යත්ව වැඩසටහන් දෙකක් ආරම්භ කිරීමට කටයුතු කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් පරිදි මෙම නව ශිෂ්‍යත්ව වැඩසටහන් ආරම්භ කර ඇත.
+
+ඒ අනුව පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා, සීලමාතාවන් හා ගිහි ශිෂ්‍ය ශිෂ්‍යාවන් වෙනුවෙන් මෙන්ම අ.පො.ස (උසස් පෙළ) තොරතුරු හා සන්නිවේදන තාක්ෂණ විෂයය විෂයයක් ලෙස හදාරනු ලබන ශිෂ්‍ය ශිෂ්‍යාවන් සඳහා ද 2024 මැයි මස සිට ක්‍රියාත්මක වන පරිදි ශිෂ්‍යත්ව ප්‍රදානය කිරීමට නියමිතය.
+
+පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතනවල ඉගෙනුම ලබන ශිෂ්‍ය භික්ෂුන් වහන්සේලා, සීලමාතාවන් හා ගිහි ශිෂ්‍ය ශිෂ්‍යාවන් වෙනුවෙන් ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහනක් ක්‍රියාත්මක වන්නේ මෙරට ඉතිහාසයේ පළමු වරට වීම විශේෂත්වයක් වන අතර දිවයින පුරා පිහිටි පිරිවෙන් හා සීලමාතා අධ්‍යාපන ආයතන 822 ආවරණය වන පරිදි මෙය ක්‍රියාත්මක කිරීමට සැලසුම් කර තිබේ.
+
+මේ යටතේ එක් පිරිවෙනකට/ සීලමාතා අධ්‍යාපන ආයතනයකට පිරිනැමෙන උපරිම ශිෂ්‍යත්ව සංඛ්‍යාව 06කි.
+
+...
+
+[Data](articles/940418de.json)
+
+---
 
 ### 17 and 20 year old girls sexually harassed
 
@@ -52,57 +72,101 @@ Akmeemana police arrested and produced the boys before court on suspicion of cri
 
 [Data](articles/11780cec.json)
 
+[Extended Data](ext_articles/11780cec.ext.json)
+
 ---
 
-### වැලිකඩ සිට කාන්තාවක් කළ නීතිවිරෝධී වැඩේ එළියට
+### President’s Fund initiates two new scholarship programs
+
+*2024-05-07 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99067/presidents-fund-initiates-two-new-scholarship-programs) · `en`
+
+As per the instructions of President Ranil Wickremesinghe, the President’s Fund has initiated two additional scholarship programs alongside the on-going scholarship initiatives, the President’s Media Division reported today.
+
+These scholarships will be extended to monks, nuns, and lay students enrolled in Piriven and Seelamatha Educational Institutions, as well as those pursuing Information and Communication Technology (ICT) at G.C.E. (Advanced Level), effective from May 2024.
+
+The scholarship distribution will cover all 822 Piriven and Seelamatha Educational Institutions across the country. A total of 06 scholarships will be granted to each institution. The selection of scholarship recipients from the respective departments/Seelamatha Educational Institutions will be the responsibility of the Parivenadhipathi Thero/Institution Director.
+
+...
+
+[Data](articles/23a74d2e.json)
+
+---
+
+### Illegal work has been out of Welikada to a woman
 
 *2024-05-07 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196375) · `si`
 
-මූල්‍ය වංචාවක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටින කාන්තාවක් වැලිකඩ බන්ධනාගාරයේ සිට ඇයට එරෙහිව විභාග වන නඩුවේ සාක්ෂිකරුවන් වෙත බලපෑම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මේ වනවිට පොලීසිය තොරතුරු අනාවරණය කරගෙන තිබේ.
+A woman from Koralawella, Moratuwa, was arrested on April 20th for allegedly receiving Rs. 22 lakhs in exchange for pornography over the internet. She was remanded in Welikada Prison until May 20th. The case was taken up by the Kesbewa court, and the Terrorist Investigation Division informed the officials. The Criminal Investigation Department submitted the case to the Computer Criminal Investigation Division for further investigation.
 
-ඊට අදාළ නඩුව කැස්බෑව අධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී ත්‍රස්ත මර්දන විමර්ශන කොට්ඨාශයේ නිලධාරීන් විසින් මේ බව අධිකරණය වෙත දැනුම්දී තිබේ.
+🟩
 
-එහිදී අධිකරණය නියෝග කර ඇත්තේ සැකකාර කාන්තාව මැයි මස 20 වනදා දක්වා යළි රිමාන්ඩ් බන්ධනාගාරගතකර කරන ලෙසටය.
+The police have revealed that a woman was arrested and remanded in the Welikada Prison to her in the case of the case against her.
 
-අසභ්‍ය දර්ශන අන්තර්ජාලයට එක්කිරීමේ සිද්ධීන්ට අදාළව අත්අඩංගුවට ගැනීම වැළැක්වීමට බව පවසා ඊට අදාළ චෝදනා එල්ලවූ පුද්ගලයින්ගෙන් මුදල් ගැනීමේ චෝදනාව සම්බන්ධයෙන් සැකකාර කාන්තාව රිමාන්ඩ් බන්ධනාගාරගත කර තිබුණි.
+The official was informed by the officials of the Terrorist Investigation Division when the case was taken up before the Kesbewa court.
 
-මෙහිදී සැකකාර කාන්තාව විසින් රුපියල් ලක්ෂ 22කට ආසන්න මුදලක් වංචාසහගත ලෙස ලබාගෙන ඇති බවට අනාවරණය වී තිබුණි.
+The court ordered to be remanded again until May 20.
 
-මෙලෙස අත්අඩංගුවට ගෙන තිබුණේ මොරටුව කොරලවැල්ල ප්‍රදේශයේ පදිංචිව සිටි කාන්තාවකි.
+The suspect had been remanded for the alleged woman who had paid money from the allegations against the allegations of the alleged allegations that pornography is to be arrested in connection with the Internet.
 
-ඇය අප්‍රේල් මස 20 වනදා පිළියන්දල මඩපාත ප්‍රදේශයේ ඇයගේ තාවකාලික නිවහන තුළදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබුණි.
+It was revealed that the suspect had received nearly Rs. 22 lakhs.
 
-...
+The arrested was a woman living in Koralawella, Moratuwa.
+
+She was arrested by the police on the 20th of April.
+
+The Criminal Investigation Department has submitted the suspects to the law of Naked Photos and other youths by the Computer Criminal Investigation Division.
+
+The woman has revealed that the woman had been fraudulent to seek the assistance of the police to stop the suspects to stop the suspects.
+
+◼️
 
 [Data](articles/5348db6c.json)
 
+[Extended Data](ext_articles/5348db6c.ext.json)
+
 ---
 
-### பிரித்தானிய அரசாங்கத்தின் உயர்மட்டக் குழுவிற்கும் எதிர்க்கட்சித் தலைவர் சஜித்திற்கும் இடையில் சந்திப்பு
+### Meeting between high -level committee of British government and opposition leader Sajith
 
 *2024-05-07 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/182907) · `ta`
 
-பிரித்தானிய வெளிவிவகார, பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகத்தின் இந்து-பசிபிக் பிராந்திய பணிப்பாளர் பென் மேலருக்கும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கும் இடையிலான விசேட சந்திப்பொன்று இன்று செவ்வாய்க்கிழமை (07) கொழும்பில் இடம்பெற்றது.
+A high-level meeting between the British government and Sri Lanka's opposition leader Sajith Premadasa was held in Colombo. Discussions focused on Sri Lanka's bankruptcy and the opposition's efforts to protect democratic rights.
 
-இச்சந்திப்பில் இலங்கை தற்போது எதிர்நோக்கும் வங்குரோத்து நிலை குறித்து இரு தரப்பினருக்கும் இடையில் நீண்ட நேரம் கலந்துரையாடப்பட்டதுடன், இதில் இருந்து விடுபட தாம் மற்றும் தமது குழுவினர் மேற்கொள்ளும் திட்டங்கள் குறித்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விளக்கினார்.
+🟩
 
-...
+A special meeting between British Foreign Affairs, Commonwealth and Development Office was held in Colombo on Tuesday (07).
+
+Opposition Leader Sajith Premadasa explained that Sri Lanka is currently discussing the bankruptcy facing Sri Lanka at the meeting and a long discussion between the two sides.
+
+Similarly, Opposition Leader Sajith Premadasa is the objective of his and his group's intention to defeat the government's efforts to end the election of the people, the people of the people, the democratic rights of the people, the democratic rights of the people, and the people's expectation of the people's expected regime is the purpose of the British and Commonwealth Office of the British and Commonwealth Office.Ben Meller pointed to the delegation, including.
+
+British Foreign Affairs and Commonwealth Office Humairaa Hatia, British High Commissioner to Sri Lanka and British High Commissioner to Sri Lanka. Opposition leader Sajith Premadasa and Niroshan Perera were also present at the event.
+
+◼️
 
 [Data](articles/11b8b30c.json)
 
+[Extended Data](ext_articles/11b8b30c.ext.json)
+
 ---
 
-### சம்பளத்தை காரணம் காட்டி தோட்டங்களை கையளித்து விட்டு கம்பனிகளை போக சொல்ல வேண்டாம் - மனோ கணேசன்
+### Do not tell the companies to leave the gardens because of the salary - Mano Ganesan
 
 *2024-05-07 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182906) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மே தின மேடையில் அறிவித்த சம்பள தொகையை அவரால் பெற்று கொடுக்க முடிய வில்லை என்றால், அதற்கான மாற்று நடவடிக்கையை அரச தலைவராக அவர் எடுக்க வேண்டும். வர்த்தமானி பிரகடனம் செய்த தொழில் அமைச்சர் மனுஷ நாணயக்கார நடவடிக்கை எடுக்க வேண்டும். அரசில் உள்ள இதொகா நண்பர்கள் உணர்ச்சி வசப்பட்டு மேடையில் பொங்குவது, பட்டாசு வெடித்து பொங்கல் சோறு பொங்குவது ஆகிய சிறு விளையாட்டுகளை நிறுத்தி விட்டு நிதானமாக நடந்து கொள்ள வேண்டும். இது தொடர்பில் எமது ஒத்துழைப்பையும் கேட்டால் நாம் சாதகமாக பரிசீலிப்போம்.
+Mano Ganesan advises against companies taking over gardens due to unpaid salaries, emphasizing alternative actions by the government and the Minister of Labor. He warns against dividing supporters by handing over gardens to companies, advocating for land rights and making people small plantation entrepreneurs. He references Sajith Premadasa's 2019 election manifesto, which aimed to turn plantation workers into small estate owners, ensuring their livelihoods and protecting gardens until a government solution is found.
 
-ஆனால் மாற்று நடவடிக்கை என்று “தோட்டங்களை அரசாங்கத்திடம்  கையளித்து விட்டு  கம்பனிகளை போக வேண்டும்” என்ற கோஷத்தை முன்வைக்க வேண்டாம் என அரசில் உள்ள மலையக நண்பர்களுக்கு அன்புடன் சொல்கிறேன். கம்பனி போய், காணிகளை அரசாங்கம் பொறுப்பு ஏற்றால் அவை அவர்களது  ஆதரவாளர்களுக்கு பிரித்து கொடுக்க பட்டு விடும். இப்படிதான் இன்று அரசிடம் உள்ள ஜனவசம, எல்கடுவ ஆகிய அரசாங்க கம்பனி காணிகள்  கேட்பாரின்றி வழங்கப்பட்டு, அங்கே வாழ்ந்த நமது மக்கள் நடுத்தெருவில் இருக்கிறார்கள்.
+🟩
+
+If President Ranil Wickremesinghe has not been able to pay the salary announced on the May Day platform, he must take an alternative action as the head of state.. The Minister of Labor, who declared the Gazette, should take action. The government in the state should stop the sports of friends in the state, the fireworks exploding and the pongal rice.. If we ask for our cooperation in this regard, we will consider it positively.
+
+But I warmly tell the mountain friends in the state not to present the slogan, "Gardens should be handed over to the government and go to the companies". If the company goes to the company and the government takes responsibility for the land, they will be divided to their supporters. This is how the people of the government and the government of the government today have been issued without listening and our people who lived there are in the middle of the country.
 
 ...
 
 [Data](articles/874151f4.json)
+
+[Extended Data](ext_articles/874151f4.ext.json)
 
 ---
 
@@ -150,19 +214,29 @@ Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been release
 
 ---
 
-### மட்டக்களப்பில் 3 இலட்சம் ரூபா கப்பம்கோரி கொலை அச்சுறுத்தல் விடுத்த இராணுவ மேஜருக்கு எதிராக பொலிஸில் முறைப்பாடு
+### A complaint against the army Major who threatened the murder of Rs 3 lakh in Batticaloa
 
 *2024-05-07 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182900) · `ta`
 
-கல்முனை இராணுவ முகாமைச் சேர்ந்த இராணுவ மேஜர் ஒருவர்  3 இலட்சம் ரூபாய் பணம் தருமாறு அச்சுறுத்தி மிரட்டிவருவதாக மட்டக்களப்பைச் சேர்ந்த நபரொருவர் நேற்று திங்கட்கிழமை (6) முறைப்பாடு செய்துள்ளதாக மட்டு. தலைமையக பொலிஸார் தெரிவித்தனர்.
+A man in Batticaloa accused an army Major of threatening to pay Rs 3 lakh if he didn't cooperate. The Major allegedly involved a foreign broker in a scam, which led to the arrest of the employment agency. The Major's intermediary, Rangan, threatened the victim, leading to a complaint lodged with the Human Rights Commission.
 
-மட்டக்களப்பைச் சேர்ந்த ரங்கன் என அழைக்கப்படும் சாமித்தம்பி வேலாயுதம் என்பவர் வெளிநாட்டுக்கு அனுப்பும் இடை தரகராக  கல்முனையைச் சோந்த ஒருவரிடம் 5 இலச்சத்து 70 ஆயிரம் ரூபாவையும் அதனுடன் 5 பேரிடம் பணத்தை வாங்கி  அதனை வெளிநாட்டு வேலை வாய்ப்பு முகவர் ஒருவருக்கு வழங்கியுள்ளார்.
+🟩
 
-இந்நிலையில் குறித்த வெளிநாட்டு வேலைவாய்ப்பு முகவர் ஏமாற்றி வந்த நிலையில் அவருக்கு எதிராக  இடைதரகர் கல்முனையைச் சேர்ந்த நபரின் சாட்சியுடன் மாவட்ட விசேட குற்றப் புலனாய்வு பிரிவிடம் முறைப்பாடு செய்துள்ளார்.  இதனையடுத்து  வேலைவாய்ப்பு முகவரை கைது செய்து நீதிமன்றத்தில் ஆஜர்படுத்தி விளக்கமறியலில் வைக்கப்பட்டு வழக்கு தொடர்ந்து இடம்பெற்று வருகின்றது.
+A man from Batticaloa has lodged a complaint yesterday (6) alleging that an army Major from the Kalmunai Army Camp threatens to pay Rs 3 lakhs.. Headquarters police said.
+
+Samithambi Velayutham, known as Rangan, from Batticaloa, has been sending a foreign broker to a man who has been sent abroad and has bought 5 rupees 70 thousand rupees and 5 people with it to a foreign employment agent.
+
+In this case, the foreign employment agency has lodged a complaint with the District Special Criminal Investigation Division with the testimony of a man from Kalmunai.Subsequently, the Employment Agency has been arrested and produced in court and is being held in court.
+
+Against this backdrop, Kalmunai Army Camp Major's intermediary Rangan has been asked to give him money to the person in Kalmani and give him Rs 3 lakhs to his bank account.He threatened not to play the background.
+
+Subsequently, Rangan, the intermediary of the bank account sent by the army Major, has sent Rs.
 
 ...
 
 [Data](articles/19314d60.json)
+
+[Extended Data](ext_articles/19314d60.ext.json)
 
 ---
 
@@ -2237,51 +2311,5 @@ The proposal presented by the Minister of Education has been approved by the Min
 [Data](articles/080c9ade.json)
 
 [Extended Data](ext_articles/080c9ade.ext.json)
-
----
-
-### ‘Industry EXPO 2024’ set to take place from June 19-23 at BMICH
-
-*2024-05-07 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99056/industry-expo-2024-set-to-take-place-from-june-19-23-at-bmich) · `en`
-
-Minister of Industries and Health, Dr. Ramesh Pathirana, announced that the forthcoming “Industry EXPO 2024” will grace the Bandaranaike Memorial International Conference Hall (BMICH) from June 19th to 23rd, under the patronage of President Ranil Wickremesinghe.
-
-Additionally, the minister highlighted the debut of the inaugural international conference alongside the prestigious “Industry Green Awards” ceremony, aimed at fostering a culture of sustainable practices within the industry.
-
-Minister Ramesh Pathirana made these remarks while addressing a media briefing at the Presidential Media Centre (PMC) held on Monday (06) under the theme “Collective Path to a Stable Country”.
-
-The upcoming International Industry Exhibition, “Industry EXPO 2024,” is set to take place from June 19th to 23rd at the BMICH, with the esteemed presence of President Ranil Wickremesinghe at its opening ceremony.
-
-...
-
-[Data](articles/0b4b6adb.json)
-
-[Extended Data](ext_articles/0b4b6adb.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 299.50/300.50 to US dollar
-
-*2024-05-07 09:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-299-50-300-50-to-us-dollar-161734/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 299.50/300.50 to the US dollar on Tuesday from 298.00/50 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 10.65/70 percent from 10.60/70 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 11.00/10 percent.
-
-A bond maturing on 15.03.2028 was quoted down at 11.40/45 percent from 11.40/50 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
-
-A bond maturing on 01.10.2032 closed down at 12.25/35 percent from 12.20/35 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.05 percent at 12,382, and the S&P SL20 was down 0.07 percent at 3,645. (Colombo/May07/2024)
-
-◼️
-
-[Data](articles/236160e9.json)
-
-[Extended Data](ext_articles/236160e9.ext.json)
 
 ---

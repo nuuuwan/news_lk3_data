@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 15:18:13**
+As of **2024-05-07 15:33:44**
 
 ## Newspaper Stats
 
-*Scraped **22,490** Articles*
+*Scraped **22,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,279
 dailyftlk | 1,307
-adalk | 1,890
-tamilmirrorlk | 2,617
+adalk | 1,893
+tamilmirrorlk | 2,621
 adaderanalk | 2,647
 virakesarilk | 3,360
 dailymirrorlk | 3,524
@@ -26,55 +26,149 @@ adaderanasinhalalk | 3,609
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,353 (99.4%) of 22,490 articles have been extended.
+22,363 (99.4%) of 22,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### අධිකරණ ඇමතිගේ පෙත්සමට ලැබුණු නියෝගය
+### டொலர் கையிருப்பு அதிகரிப்பு
+
+*2024-05-07 15:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/டொலர்-கையிருப்பு-அதிகரிப்பு/47-336895) · `ta`
+
+இலங்கையின் உத்தியோகபூர்வ கையிருப்பு ஏப்ரல் மாத இறுதிக்குள் 5.43 பில்லியன் அமெரிக்க டொலர்களாக அதிகரித்துள்ளது என மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க செவ்வாய்க்கிழமை (07) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+மார்ச் மாத இறுதிக்குள் நாட்டின் உத்தியோகபூர்வ கையிருப்பு 4.96 பில்லியன் அமெரிக்க டொலர்களாக இருந்ததாகவும், இதனால் ஏப்ரல் மாத இறுதிக்குள் நாட்டின் உத்தியோகபூர்வ கையிருப்பு சுமார் 400 மில்லியனால் அதிகரித்துள்ளதாகவும் மத்திய வங்கியின் ஆளுநர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/bb271c3f.json)
+
+---
+
+### காதலியிடம் சென்ற காதலன் சடலமாக மீட்பு
+
+*2024-05-07 15:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/காதலியிடம்-சென்ற-காதலன்-சடலமாக-மீட்பு/94-336894) · `ta`
+
+தனது காதலியின் வீட்டுக்குச் சென்று காணாமல் போன 30   வயதுடைய சுசித் ஜெயவன்ச என்ற இளைஞனின் சடலம் மாதம்பே பனிரெண்டாவ காப்புக்காட்டில் செவ்வாய்க்கிழமை (07) மீட்கப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+குளியாப்பிட்டியவில் உள்ள தனது காதலியின் வீட்டுக்குச் சென்றிருந்த நிலையிலேயே அவர் காணாமல் போயிருந்தார்.
+
+இந்த காணாமல் போன சம்பவம் தொடர்பில் காதலியின் உறவினர் ஒருவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே குறித்த இளைஞனின் சடலம் பற்றிய தகவல்கள் தெரியவந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/e406e6f6.json)
+
+---
+
+### Court order to the Minister of Justice
 
 *2024-05-07 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196371) · `si`
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් ගොනුකරනු ලැබූ පෙත්සමක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට අභියාචනාධිකරණය අද නියම කළේය.
+The Court of Appeal today decided not to examine a petition by Hon. Minister Wijayadasa Rajapaksa, who sought an interim injunction released by the Colombo District Court.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා වශයෙන් තමන් කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් ඉකුත්දා නිකුත් කළ වාරණ නියෝගය ක්‍රියාත්මකවීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ගොනුකර තිබුණි.
+🟩
 
-විජයදාස රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+The Court of Appeal today, the Court of Appeal today (TRUNCH) has decided not to examine a petition filed by the Hon. Minister Wijayadasa Rajapaksa.
+
+The petition was filed by Mr. Wijayadasa Rajapakse to issue an interim injunction that was released by the Colombo District Court.
+
+The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa Rajapaksa.
 
 ◼️
 
 [Data](articles/1caf477f.json)
 
+[Extended Data](ext_articles/1caf477f.ext.json)
+
 ---
 
-### අධිකරණ ඇමතිගේ පෙත්සමට ලැබුණු නියෝගය
+### Court order to the Minister of Justice
 
 *2024-05-07 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196370) · `si`
 
-අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් ගොනුකරනු ලැබූ පෙත්සමක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට අභියාචනාධිකරණය අද නියම කළේය.
+The Court of Appeal today dismissed Hon. Minister Wijayadasa Rajapaksa's petition for an interim injunction, allowing him to continue acting as the SLFP Court.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් තමන් වෙත කොළඹ දිසා අධිකරණය විසින් ඉකුත්දා නිකුත් කළ වාරණ නියෝගය ක්‍රියාත්මකවීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ගොනුකර තිබුණි.
+🟩
 
-විජයදාස රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+The Court of Appeal today, the Court of Appeal today (TRUNCH) has decided not to examine a petition filed by the Hon. Minister Wijayadasa Rajapaksa.
+
+The petition was filed by Mr. Wijayadasa Rajapakse demanding an interim injunction which was released by the Colombo District Court from working as acting of the SLFP Court.
+
+The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa Rajapaksa.
 
 ◼️
 
 [Data](articles/426ac275.json)
 
+[Extended Data](ext_articles/426ac275.ext.json)
+
 ---
 
-### ව්ලැදිමීර් පුටින් දිවුරුම් දෙයි
+### මේ කාරණා 4 ගැන දැනුම්වත් නම් මේ රෝගවලින් සිද්දවෙන මරණවලින් 89%ක් වැලකෙන්න පුළුවන්
+
+*2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/මේ-කාරණා-4-ගැන-දැනුම්වත්-නම්-මේ-රෝගවලින්-සිද්දවෙන-මරණවලින්-89%ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
+
+අද මෙරට මරණ වලින් සියයට 89 ක් පිළිකා, හෘද වස්තුවේ රෝග, පෙණහළු රෝග සහ දියවැඩියාව යන බෝ නොවන රෝග නිසා සිදුවන බවත්, එයිනුත් වැඩි මරණ ප්‍රමාණයක් සිදු වන්නේ හෘද වස්තුවේ රෝග සහ ආඝාතය නිසා බවත්, වසරකට 60,000 ක් පමණ ආඝාතයට ලක්ව 4000 ක් පමණ මියයන බව වෙද්‍ය පාලිත මහීපාල මහතා පවසයි. මෙම රෝග වලින් වැළැකීමේ දි කාරණා 04 ක් ගැන දැනුවත් විය යුතු බවත්, එනම් දුම්පානය, මධ්‍යසාර භාවිතය, අධික ලෙස  සීනි, ලුණු භාවිතය සහ ව්‍යායාම නොකිරිම පෙන්වා දිය හැකි බව “තෙවන ඇසට සුවය සදමු” ශ්‍රී ලාංකීය මාධ්‍යවේදීන් උදෙසා පිදෙන සෞඛ්‍ය ප්‍රවර්ධන වැඩසටහනේ පළමු අදියරේ සමාරම්භය පැවැත්වූ අද (07) දීනදී පවසා සිටියේය.
+
+...
+
+[Data](articles/96cec0cc.json)
+
+---
+
+### போதை மாத்திரைகளுடன் ஊடகவியலாளர் கைது
+
+*2024-05-07 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-ஊடகவியலாளர்-கைது/175-336892) · `ta`
+
+போதை மாத்திரைகளுடன் கைது செய்யப்பட்ட ஊடகவியலாளர், நீதிமன்ற உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார். இந்த சம்பவம் திருகோணமலையில் இடம்பெற்றுள்ளது.
+
+திருகோணமலை மொறவெவ பொலிஸ் பிரிவுக்குட்பட்ட ஔவை நகர் பகுதியில் வைத்து பிரதேச ஊடகவியலாளர் ஒருவரை போதை மாத்திரைகளுடன் கைது செய்துள்ளதாக மொறவெவ பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சம்பவம் ஞாயிற்றுக்கிழமை (05)மாலை இடம் பெற்றுள்ளது. 42 வயதான பிரதேச ஊடகவியலாளரே இவ்வாறு கைது செய்யப்பட்டுள்ளார.
+
+கிடைக்கப் பெற்ற இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட திடீர் பரிசோதனையின் போது இவரிடமிருந்து 30போதை மாத்திரைகள் மீட்கப்பட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+திருகோணமலையில் உள்ள மருந்தகம் ஒன்றில் கொள்வனவு செய்து விற்பனையில் ஈடுபட்டு வந்ததாகவும் ஆரம்ப கட்ட விசாரனை மூலமாக தெரியவருகிறது. அத்துடன் ஒரு தொகை போக்குவரத்து ஆவணங்களும் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/e19481f7.json)
+
+---
+
+### Vladimir Putin sworn in
 
 *2024-05-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196369) · `si`
 
-සිය පස්වැනි ධුර කාලය සඳහා රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් දිවුරුම් දී තිබේ.
+Vladimir Putin, Russian President, sworn in for his fifth term, first elected in 2000.
 
-ඔහු පළමුවරට රුසියාවේ ජනපති ලෙස දිවුරුම් ලබා දුන්නේ 2000 වසරේදී ය.
+🟩
+
+Russian President Vladimir Putin was sworn in for his fifth term.
+
+He was sworn in as the first to the first time in 2000.
 
 ◼️
 
 [Data](articles/8220cdb0.json)
+
+[Extended Data](ext_articles/8220cdb0.ext.json)
+
+---
+
+### கல்விசாரா ஊழியர்களின் ஆர்ப்பாட்டத்தால் போக்குவரத்து பாதிப்பு
+
+*2024-05-07 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கல்விசாரா-ஊழியர்களின்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/46-336891) · `ta`
+
+பல்கலைக்கழக கல்விசாரா ஊழியர்களினால் முன்னெடுக்கப்பட்டு வரும் பணிப்புறக்கணிப்புப் போராட்டத்திற்கு அமைவாக, நாட்டிலுள்ள அனைத்துப் பல்கலைக்கழகங்களையும் பிரதிநிதித்துவப்படுத்தும் பெருமளவிலான கல்விசாரா ஊழியர்கள் தற்போது கொழும்பு 7 இல் உள்ள பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+இந்த ஆர்ப்பாட்டத்தில் சுமார் 5 ஆயிரம் பேர் கலந்து கொண்டனர். ஆர்ப்பாட்டம்  காரணமாக, நகர மண்டப பகுதியில் உள்ள அனைத்து வீதிகளின் போக்குவரத்தும் பாதிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/073c3e12.json)
 
 ---
 
@@ -95,6 +189,24 @@ The renewable energy company got the approval in February 2023 to invest $442 mi
 [Data](articles/3cdd8844.json)
 
 [Extended Data](ext_articles/3cdd8844.ext.json)
+
+---
+
+### පෙම්වතිය බලන්න ගොස් සිටියදී අතුරුදන් තරුණයාගේ සිරුර හමුවෙයි
+
+*2024-05-07 14:19:03* · [`adalk`](https://www.ada.lk/breaking_news/පෙම්වතිය-බලන්න-ගොස්-සිටියදී-අතුරුදන්-තරුණයාගේ-සිරුර-හමුවෙයි/11-409473) · `si`
+
+ඉකුත් අප්‍රේල් මස 22 වනදා අතුරුදන් වූ තරුණයා ඝාතනය කර මෘත ශරීරය පුළුස්සා මාදම්පේ ප්‍රදේශයේ කැලෑබද ස්ථානයක දමා තිබියදී අද 07දා  පෙරවරුවේ සොයා ගැනීමට හැකි වී ඇති බව පොලීසිය පවසයි ‍
+
+සිය පෙම්වතියගේ නිවසට ගොස් සිටියදී ඉකුත් අප්‍රේල් මස 22 වනදා අතුරුදන් වූ කුලියාපිටිය කබලෑව ප්‍රදේශයේ පදිංචිව සිටි 31 හැවිරිදි සුසිත ජයවංශ නැමැත්තා මෙසේ ඝාතනය කර ඇති බව අනාවරණය වී තිබේ.
+
+අදාළ අතුරුදන්ව ඇති තරුණයා අවසන් වරට තම පෙම්වතියගේ නිවස වූ වස්සාවුල්ල සිඟිති නමැති අයගේ නිවසට ගොස් ඇති බව මූලික විමර්ශන මගින් හෙළිව තිබේ. මේ සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කිහිපයක් දින ගණනාවක් තිස්සේ විවිධ පැතිකඩ ඔස්සේ විමර්ශන කටයුතු අරඹා තිබේ.
+
+එසේ පරීක්‍ෂණ කටයුතු සිදුකරමින් යන අතරවාරයේ සිඟිති නමැත්තාගේ මස්සිනා අත්අඩංගුවට ගෙන තිබූ අතර, කොට්ඨාස අපරාධ විමර්ශකයින් දිගින් දිගට කළ ප්‍රශ්න කිරීම් හමුවේ සුසිත් නමැත්තාගේ දේහය පිළිබඳව අනාවරණය කරගත් තොරතුරු අනුව අද පෙරවරුවේ ඔහුගේ දේහය සොයා ගෙන තිබේ.
+
+...
+
+[Data](articles/61a0b37c.json)
 
 ---
 
@@ -135,6 +247,8 @@ Israeli tanks and planes pounded several areas and houses in Rafah overnight, ki
 ...
 
 [Data](articles/72de0953.json)
+
+[Extended Data](ext_articles/72de0953.ext.json)
 
 ---
 
@@ -229,6 +343,8 @@ University non-academic workers protested outside the University Grants Commissi
 ◼️
 
 [Data](articles/6af7a14a.json)
+
+[Extended Data](ext_articles/6af7a14a.ext.json)
 
 ---
 
@@ -403,6 +519,24 @@ MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds 
 [Data](articles/c781e2e6.json)
 
 [Extended Data](ext_articles/c781e2e6.ext.json)
+
+---
+
+### නියම සැමියාට නිදි පෙති පොවා අනියම් සැමියා නිවසට ගෙන්වා ගත් බිරි﻿ඳ අත්අඩංගුවට
+
+*2024-05-07 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/නියම-සැමියාට-නිදි-පෙති-පොවා-අනියම්-සැමියා-නිවසට-ගෙන්වා-ගත්-බිරි﻿ඳ-අත්අඩංගුවට/11-409471) · `si`
+
+විවාහක සැමියාට නිඳි පෙති දී අනියම් සැමියා නිවසට ගෙන්වා ගත් කාන්තාවක් මස්කෙළිය පොලීසිය මගින් සැකපිට අත්අඩංගුවට ගෙන හැටන් දිසා හා මහේස්ත්‍රාත්  අධිකරණයට හමුවට (06) දා පැමිණවීමෙන් අනතුරුව මෙම මස (15) වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස විනිසුරු එච්.එම්.ෆරීඩ්ඩීන් මහතා විසින් නියෝග කරන ලදී.
+
+මෙසේ රක්ෂිත භාරයට පමුණුවා ඇත්තේ,කැප්පෙටිපොළගේ නිර්මිතා යසාදරී නැමති (26) හැවිරිදි කාන්තාවකි.
+
+නිඳි පෙති පානය කළ බව කියන සැකකාර කාන්තාවගේ (32) හැවිරිදි සැමියා රෝගී තත්වයෙන් අප්‍රේල් (13) දා මස්කෙළිය ප්‍රාදේශිය රෝහලට ඇතුළත් කිරීමෙන් පසුව වැඩිදුර ප්‍රථිකාර සඳහා දික්ඔය මූලික රෝහල වෙත (14) දා මාරු කර ඇත.
+
+මෙම සැකකාර කාන්තාව හා ඇගේ සැමියා මස්කෙළිය ප්‍රාදේශිය රෝහලේ සෞඛ්‍ය කාර්ය සහායකයන් ලෙස සේවය කරමින් සිටිති. සැමියා නිඳන්ගත අපස්මාර රෝගය සඳහා ප්‍රථිකාර ලබමින් පසුවෙන අයෙකි. මොවුන් දෙදෙනා පදිංචිව සිට ඇත්තේ මස්කෙළිය ප්‍රාදේශිය රෝහලේ නිල නිවාසයකය.
+
+...
+
+[Data](articles/24ad0e44.json)
 
 ---
 
@@ -2199,145 +2333,5 @@ Sri Lanka’s cabinet has now approved a 50 dollar single entry visa after prote
 [Data](articles/079085af.json)
 
 [Extended Data](ext_articles/079085af.ext.json)
-
----
-
-### Sri Lanka mobile banking users warned of phone hi-jacking scam
-
-*2024-05-07 06:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-mobile-banking-users-warned-of-phone-hi-jacking-scam-161728/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s mobile banking users have been warned of hackers who are hi-jacking their phones and taking over bank accounts.
-
-“We have been alerted regarding several incidents of financial fraud, both globally and in Sri Lanka, disguised as attractive online offers, leading to mobile device users inadvertently clicking on unknown links and downloading malicious apps and files,” a joint statement from Sri Lanka Banks Association, Lanka Pay and FinCSIRT said.
-
-“This action grants scammers complete access to the mobile device, enabling them to control it remotely.
-
-“Once the fraudsters take control of the mobile device, they have easy access to bank/payment apps that are installed on that device, leading to theft from bank accounts and payment cards accessed via the mobile device.”
-
-...
-
-[Data](articles/53c99f00.json)
-
-[Extended Data](ext_articles/53c99f00.ext.json)
-
----
-
-### A change in the weather
-
-*2024-05-07 06:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196347) · `si`
-
-The Department of Meteorology forecasts increased rainfall in many parts of the island after tomorrow, with showers or thundershowers expected in several areas. Coastal areas from Puttalam to Hambantota, including Colombo and Galle, will experience showers. Strong showers are predicted in some locations, with the department advising the public to take precautions against winds and lightning.
-
-🟩
-
-The Department of Meteorology states that a rainy increase in many parts of the island will be increased in many parts of the island after tomorrow (08).
-
-The department referencies in the Western, Sabaragamuwa, Central, North Western, Uva and Eastern Provinces today (07). Showers or thundershowers will occur at several places around 2.
-
-Showers or thundershowers will occur at a few places in the evening or night in the other areas.
-
-The Met Department forecasts showers in the coastal areas from Puttalam to Hambantota via Colombo and Galle.
-
-Some locations in the Western, Sabaragamuwa and Uva provinces and in Galle and Matara districts. Strong showers around 50.
-
-The Meteorology Department states that in some places in the Central and Sabaragamuwa provinces, the Met Department said.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/307e198e.json)
-
-[Extended Data](ext_articles/307e198e.ext.json)
-
----
-
-### Dept. of Immigration and Emigration Chief makes public rationale for working with VFS Global
-
-*2024-05-07 05:41:51* · [`dailyftlk`](https://www.ft.lk/opinion/Dept-of-Immigration-and-Emigration-Chief-makes-public-rationale-for-working-with-VFS-Global/14-761492) · `en`
-
-Following is the full text of a statement issued by Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya yesterday on the Government’s decision to work with VFS Global for processing of visa applications for visitors to Sri Lanka
-
-The Department of Immigration and Emigration commenced in 2012 the online Electronic Travel Authorisation (ETA) Programme. To grant approval to enter to Sri Lanka for the foreigners who visit Sri Lanka and under this program, only text data was obtained from foreigners. Subsequently, there was a strong requirement to introduce a new methodology due to the fact that this program was not updated timely to meet the technical requirements of the Department. This requirement was further intensified with the introduction of a new visa methodology.
-
-...
-
-[Data](articles/bcb0778a.json)
-
-[Extended Data](ext_articles/bcb0778a.ext.json)
-
----
-
-### VFS Global statement on Sri Lanka E-Visa
-
-*2024-05-07 05:37:44* · [`dailyftlk`](https://www.ft.lk/opinion/VFS-Global-statement-on-Sri-Lanka-E-Visa/14-761491) · `en`
-
-VFS Global is a trusted partner to 67 client governments. It operates over 3,300 visa application centres in 151 countries and has processed over 285 million applications since its inception in 2001.
-
-Headquartered in Zurich and Dubai and backed by majority shareholder Blackstone, along with the Swiss-based Kuoni and Hugentobler Foundation and EQT, VFS Global is committed to creating value for all stakeholders and leading in responsible, innovative solutions making government services more effective and efficient.
-
-As the world’s leading outsourcing and technology service specialist, VFS Global embraces technological innovation including Generative AI to support governments and diplomatic missions worldwide. The company manages non-judgmental and administrative tasks related to applications for visa, passport, and consular services for its client governments, increasing productivity and enabling them to focus entirely on the critical task of assessment.
-
-...
-
-[Data](articles/f1a1ce72.json)
-
-[Extended Data](ext_articles/f1a1ce72.ext.json)
-
----
-
-### Colombo among first 9  destinations to join  Emirates’ A350 network
-
-*2024-05-07 05:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-among-first-9-destinations-to-join-Emirates-A350-network/108-282057) · `en`
-
-Colombo will be among the first set of destinations to be served by Emirates’ A350 aircraft entering service in September 2024, the airline announced yesterday.
-
-Emirates’ fourth daily service to Colombo, EK654/655, will be served by A350 from January 1, 2025.
-
-With 10 new A350s expected to join the Emirates fleet by March 31, 2025, the airline plans to deploy its latest aircraft type to nine destinations in the coming months, offering the customers its latest signature cabin experiences.
-
-...
-
-[Data](articles/1511a382.json)
-
-[Extended Data](ext_articles/1511a382.ext.json)
-
----
-
-### ‘Honest politicians’: Do they exist?
-
-*2024-05-07 05:20:30* · [`dailyftlk`](https://www.ft.lk/columns/Honest-politicians-Do-they-exist/4-761486) · `en`
-
-As Sri Lanka braces itself for the Presidential Election, we, the public must vote for deeds – Pic by Shehan Gunasekara
-
-When electing our next President, vote for execution, not persona
-
-Given the contextual importance of the upcoming presidential polls which, barring the unanticipated, is scheduled to take place around end-September or early October this year, it is not surprising that the key talking points at public and private gatherings, in newspaper articles, television chat shows and social media blogs are “Who among the candidates would serve Sri Lanka and the Sri Lankan citizens best as the country’s President?” and “Who are you voting for?”
-
-...
-
-[Data](articles/4255fddf.json)
-
-[Extended Data](ext_articles/4255fddf.ext.json)
-
----
-
-### Electricity sector: Without investment we will be in the dark again
-
-*2024-05-07 05:14:02* · [`dailyftlk`](https://www.ft.lk/columns/Electricity-sector-Without-investment-we-will-be-in-the-dark-again/4-761485) · `en`
-
-From the fact the Sri Lankan developers of wind farms source many of the needed inputs from India, it should be
-
-evident that the eco system of supportive manufacturers is well established there and not here
-
-The 13-hour power cuts two years ago should have educated us on the importance of reliable power supply. But we forget after two weeks, it is said.
-
-What is being done to ensure that will not happen again, including lessening dependence on imported fossil fuel, may not be perfect. But it is important to call out egregiously misguided criticisms. If such attacks succeed as they did 20 years ago, we will continue to suffer the consequences of a bad legal framework, resulting workarounds, and underinvestment in generation, transmission, and distribution. The blocking of new baseload plants from the 1990s served no one’s interests, other than perhaps of the so-called diesel mafia. We all paid for that. We continue to pay.
-
-...
-
-[Data](articles/bc284094.json)
-
-[Extended Data](ext_articles/bc284094.ext.json)
 
 ---

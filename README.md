@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 04:50:02**
+As of **2024-05-08 05:03:27**
 
 ## Newspaper Stats
 
-*Scraped **22,616** Articles*
+*Scraped **22,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,224
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
-tamilmirrorlk | 2,632
+tamilmirrorlk | 2,633
 adaderanalk | 2,654
 virakesarilk | 3,386
 dailymirrorlk | 3,545
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,616 (100.0%) of 22,616 articles have been extended.
+22,616 (100.0%) of 22,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -385,6 +385,24 @@ The petition further argues that he does not meet all statutory requirements and
 [Data](articles/8c57202a.json)
 
 [Extended Data](ext_articles/8c57202a.ext.json)
+
+---
+
+### தயாசிறி கடும் குற்றச்சாட்டு
+
+*2024-05-08 00:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-கடும்-குற்றச்சாட்டு/175-336927) · `ta`
+
+தேர்தல் நடத்தப்படாமல் இருக்கும் நிலையில், கலைந்துள்ள உள்ளூராட்சி சபைகளை மீள செயற்படும் வகையில் அரசாங்கம் திட்டங்களை முன்னெடுப்பதாக சுயாதீன எதிரணி பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07)  விசேட கூற்றை முன்வைத்து உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+
+அரசாங்கத்தினால் நிதி வழங்க முடியாது என்பதனால் உள்ளூராட்சித் தேர்தல் காலவரையறையின்றி ஒத்தி வைக்கப்பட்டுள்ளது.
+
+இவ்வாறான நிலைமையில் பண்முகப்படுத்தப்பட்ட வரவு- செலவு வேலைத்திட்டத்திற்கமைய அபிவிருத்தி வேலைத்திட்டங்களை ஜுலை 31ஆம் திகதிக்கு முன்னர் நிறைவு செய்யுமாறு சுற்றுநிருபமொன்று வெளியிடப்பட்டுள்ளது. ஜனாதிபதித் தேர்தலை இலக்காகக் கொண்டே இது செய்யப்படுகின்றது. எதிர்க்கட்சியில் இருப்பவர்களுக்கு பண்முகப்படுத்தப்பட்ட நிதி வழங்கப்படாது.
+
+...
+
+[Data](articles/b6642cc0.json)
 
 ---
 
@@ -2215,29 +2233,5 @@ Meanwhile, the court had issued another injunction preventing the implementation
 [Data](articles/ec655f75.json)
 
 [Extended Data](ext_articles/ec655f75.ext.json)
-
----
-
-### Visa Service Fee Increase illegal - Lakshman Kiriella
-
-*2024-05-07 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/182895) · `ta`
-
-Opposition leader Lakshman Kiriella criticizes the illegal increase in visa service fees, arguing that the Parliament should not have approved the fee hike without proper authorization. He also questions the allocation of VFS fees to a company instead of the government, suggesting a potential misuse of funds for political gain.
-
-🟩
-
-Wi, FS. Parliament is not allowed for service fee. Wi, FS in the illegal manner. The payment increase is the proposal. Opposition Prime Minister Lakshman Kiriella said action should be taken on the misdeed of Parliament.
-
-Parliament was allowed to increase visa fee charged from someone from abroad. But the WEFS. As of $ 20, $ 21. This has not been approved in Parliament for this. If the permission of Parliament should be obtained, it must have been submitted to Parliament alone.
-
-But it has been illegally attached to the proposal submitted to Parliament for a Visa Terror increase.. Therefore, action should be taken in accordance with the Standing Ordinance to mislead the Parliament.
-
-At the same time, it is wrong to say that the Cabinet has decided to increase the service fee and that it does not need to be allowed in Parliament.. The existence of financial power is for parliament. Therefore, the permission of Parliament must be obtained to increase the service fee.
-
-...
-
-[Data](articles/a079a246.json)
-
-[Extended Data](ext_articles/a079a246.ext.json)
 
 ---

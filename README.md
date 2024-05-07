@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 22:51:03**
+As of **2024-05-07 23:03:24**
 
 ## Newspaper Stats
 
-*Scraped **22,577** Articles*
+*Scraped **22,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,904
 tamilmirrorlk | 2,628
 adaderanalk | 2,654
 virakesarilk | 3,376
-dailymirrorlk | 3,537
+dailymirrorlk | 3,539
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,575 (100.0%) of 22,577 articles have been extended.
+22,577 (100.0%) of 22,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Judgment in Diana’s citizenship case to be delivered tomorrow
+
+*2024-05-07 22:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-in-Dianas-citizenship-case-to-be-delivered-tomorrow/108-282105) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Supreme Court is to deliver tomorrow (8) its judgment over an appeal application filed on State Minister Diana Gamage’s parliamentary seat.
+
+This judgment pertains to an appeal petition filed by social activist Oshala Herath challenging the Court of Appeal decision to dismiss a writ petition which challenged the legality of State Minister Diana Gamage’s parliamentary seat.
+
+◼️
+
+[Data](articles/baac1ad4.json)
+
+---
 
 ### SLMC members in the dark over annulment of medical exam in Batticaloa
 
@@ -49,6 +63,24 @@ The controversy stems from a complaint alleging that a student did not receive i
 [Data](articles/479f7127.json)
 
 [Extended Data](ext_articles/479f7127.ext.json)
+
+---
+
+### SLMC members in the dark OVER ERPM students’ appeal
+
+*2024-05-07 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLMC-members-in-the-dark-OVER-ERPM-students-appeal/108-282112) · `en`
+
+Colombo, May 07 (Daily Mirror) -  The decision to annul the Surgery Long and Short Cases components of the ERPM Part B Examination, conducted at the Examinations Centre of the Eastern University in Batticaloa, has ignited a storm of controversy as the members of the Sri Lanka Medical Council (SLMC) have not been informed of the appeal sent by the group of affected students.
+
+In a letter addressed to the Registrar of the SLMC dated May 1, 2024, candidates expressed their grievances over the annulment of the examination and the subsequent scheduling of a re-examination in May.
+
+However, a council member told Daily Mirror that majority of Council members have not been informed of such a letter and thus, requested the SLMC chairman to convene an emergency council meeting to discuss the matter.
+
+The controversy stems from a complaint alleging that a student did not receive interpreter support during the examination.
+
+...
+
+[Data](articles/caacb2b4.json)
 
 ---
 
@@ -2211,57 +2243,5 @@ MP Wimal Weerawansa said the CBSL has no say on the funds it holds as all funds 
 [Data](articles/c781e2e6.json)
 
 [Extended Data](ext_articles/c781e2e6.ext.json)
-
----
-
-### Biri arrested for sleeper pills to the real husband
-
-*2024-05-07 13:21:00* · [`adalk`](https://www.ada.lk/breaking_news/නියම-සැමියාට-නිදි-පෙති-පොවා-අනියම්-සැමියා-නිවසට-ගෙන්වා-ගත්-බිරි﻿ඳ-අත්අඩංගුවට/11-409471) · `si`
-
-A woman, 32, was arrested for allegedly poisoning her husband with sleeping pills. She and her husband, both healthcare assistants, were taken into custody. The woman had previously attempted to poison her husband with milk tea. The police are investigating further.
-
-🟩
-
-A woman who had taken the casual mum to be arrested by Maskeliya Police at the TVeliya Police and the Maskeliya Police were arrested by Maskeliya police and the Magistrate's Court.Were ordered.
-
-The reserves have been placed in the reserve, Keppetipola's Nirmachai Yasadari (26).
-
-The woman's (32) lack of sliced was admitted to the Maskeliya Pradeshiya Hospital in April (13).
-
-The suspect and her husband Maskeliya Divisional Hospital are serving as health care assistants. The husband is receiving treatment for incumbent epilepsy. The two have been resided in the quarters of the Maskeliya Divisional Hospital.
-
-The woman who had previously made a father's daughter's milk tea when his husband had come to the house on April 13, the woman had taken a telephone call and brought to the house to the house of the hospital and imported the house.Maskeliya Police say that there has been a confession in front of the woman's parents.
-
-...
-
-[Data](articles/24ad0e44.json)
-
-[Extended Data](ext_articles/24ad0e44.ext.json)
-
----
-
-### Life of women in Sri Lanka every year. Up to 83
-
-*2024-05-07 13:14:24* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කාන්තාවන්ගේ-ආයු-කාලය-අවු--83ක්-දක්වා-ඉහළට/11-409470) · `si`
-
-Health Secretary Palitha Mahipala announced a new program to combat non-communicable diseases, citing a 46% obesity rate among women and a 10% increase in life expectancy to 83 years. The program aims to address the leading causes of death in Sri Lanka, including heart disease and diabetes, which account for 60,000 deaths annually.
-
-🟩
-
-Health Secretary Palitha Mahipala says that 46% of women in Sri Lanka and 10% of school children have grown to over 10% and the life span of women has increased to 83 years.
-
-The first phase of Health Secretary Palitha Mahipi Palitha Mahipi, the inauguration of the Health Secretary Palitha Maheepala, the inauguration of the Health Secretary Palitha Maheepala, was headed by the Director General of Health Secretary Palitha Maheepala today (07).
-
-The Hon.
-
-Speaking at the inauguration ceremony held, Health Secretary Palitha Mahipala said that this new program commenced today would be implemented in all media institutions.
-
-Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Also said. It is said that there should be 4 things to be aware of 4 matters in preventiveness.
-
-...
-
-[Data](articles/ffb8d996.json)
-
-[Extended Data](ext_articles/ffb8d996.ext.json)
 
 ---

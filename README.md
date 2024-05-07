@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 17:34:05**
+As of **2024-05-07 17:18:18**
 
 ## Newspaper Stats
 
@@ -26,35 +26,29 @@ adaderanasinhalalk | 3,612
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,433 (99.6%) of 22,514 articles have been extended.
+22,424 (99.6%) of 22,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### Special announcement of the Central Expressway
+### මධ්‍යම අධිවේගී මාර්ගය ගැන විශේෂ නිවේදනයක්
 
 *2024-05-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196374) · `si`
 
-The Road Development Authority (DMC) announced a concrete beam failure on the Central Expressway, leading to a collapse on May 4. Two more beams were damaged, and the incident occurred after a beam was installed in November 2021. DMC has deployed teams to inspect the expressway, focusing on concrete supports. The authority will ensure continuous maintenance to maintain quality and condition, and the contractor responsible will bear the financial harm.
+මධ්‍යම අධිවේගී මාර්ගයේ බෙම්මුල්ල ප්‍රදේශයේ කණු මතින් ඉදිකර ඇති කොටසක කොන්ක්‍රීට් කදම්භයක් කඩා වැටීම හේතුවෙන් ඒ සම්බන්ධයෙන් පුළුල් වශයෙන් සොයා බැලීමට තීරණය කළ බව නිවේදනයක් නිකුත් කරමින් මාර්ග සංවර්ධන අධිකාරිය පවසයි.
 
-🟩
+පසුගිය මැයි 4 වනදා එම කොටස කඩා වැටුණු අතර කොන්ක්‍රීට් කණු අතර කොන්ක්‍රීට් කදම්භ ස්ථානගත කිරීමේදී රබර් බෙයාරින් පෑඩ් මත ස්ථානගත කරන බවත් එම කොන්ක්‍රීට් කදම්භය ඉන් ඉවත්ව පෙරළී කඩා වැටී තිබුණි.
 
-The Road Development Authority (DMC) says that a concrete beilla has been developed to be expanded due to a concrete beilla declined due to a concrete beam of the Central Expressway.
+ඒ හේතුවෙන් තවත් බාල්ක දෙකකට ද හානී සිදුවී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පැවසීය. එම කොන්ක්‍රීට් කදම්භය 2021 වසරේ නොවැම්බර් මාසයේදී ස්ථානගත කර ඇති බව සඳහන් ය.
 
-On May 4, the same part collapsed on May 4 and the concrete bear place was placed on the rubber backing pads while the concrete beam was placed on the concrete beam.
+එබැවින් මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතිය 01 කොටසේ ඒ සම්බන්ධයෙන් පුළුල් ලෙස පරික්ෂා කර බැලීම සඳහා මාර්ග සංවර්ධන අධිකාරිය විසින් කණ්ඩායම් දෙකක් මේ වනවිට යොදවා ඇති බව බවද එම නිවේදනයේ සඳහන් වෙයි.
 
-The Road Development Authority (Road Development Authority) stated that two more beams have been damaged due to this incident. It is said that the concrete beam was placed in November 2021.
-
-The statement states that the Road Development Authority has already deployed two teams to widely inspect the Central Expressway Project.
-
-It states that these groups will be expedited to check the current quality of all concrete supports and the current quality of all concrete supports.
+එම කණ්ඩායම් මගින් ඉදිකර ඇති සියලු කොන්ක්‍රීට් ආධාරකවල වර්ථමාන තත්ත්ව ගැන පරික්ෂා කිරීමට සහ අවශ්‍ය ප්‍රතිකර්ම යෙදීමට එම කණ්ඩායම් කඩිනමින් කටයුතු කරනු ඇති බව එහි දැක්වෙයි.
 
 ...
 
 [Data](articles/36545b2e.json)
-
-[Extended Data](ext_articles/36545b2e.ext.json)
 
 ---
 
@@ -100,25 +94,17 @@ Kollupitiya Police are conducting further investigations and arrested the son of
 
 ---
 
-### Craudy to those who abuse twelve-year-old schoolgirl
+### දොළොස්  හැවිරිදි පාසල් සිසුවියක් අපයෝජනය කල අයට ලැබුණු ඳඩුවම
 
 *2024-05-07 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/දොළොස්--හැවිරිදි-පාසල්-සිසුවියක්-අපයෝජනය-කල-අයට-ලැබුණු-ඳඩුවම/11-409477) · `si`
 
-A 25-year-old couple was fined for abusing a 12-year-old girl. The man was charged with malfunctional jail and fined Rs. 25,000, with an additional Rs. 10,000 if not paid.
+දොළොස්  හැවිරිදි බාල වයස්කාර  පසල් සිසුවියක්  අපයෝජනය කළේ යයි වැරදිකරුවකුවූ විසිපස් හැවිරිදි විවාහකයකුට  වසර විස්සක  බරපතල වැඩ සහිත සිර දඩුවමක් වින්දිත  දැරියට රුපියල් ලක්ෂ දහයක වන්දි මුදලක් සහ රුපියල් විසිපන්දහසක දඩ මුදලක් ගෙවන ලෙස බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා අද(07) නියෝග කළේය.
 
-🟩
+මෙසේ සිර දඩුවම්,වන්දි මුදල් සහ දඩ මුදල් ගෙවීමට නියම කෙරුණේ ඌරගස්මංහන්දිය කුඩා ඌරගහ  පදිංචි පුද්ගලයකුටයි.  වින්දිත දැරිය පියාට භාරදී මව විදෙස්ගතව සිටි බවත් පියාගේ මිතුරකුවූ අසල්වැසියකුවූ  චූදිත මේ නිවසට නිතර ආගිය කෙනෙකු බවත් එසේ පැමිණි අවස්ථාවලදී දැරියගේ පියා නැති අවස්ථාවලදී 2011ජනවාරි මස 01 සිට 2011 අගෝස්තු 31දක්වා කාලය තුල චූදිත මේ දැරිය විටින් විට අපයෝජනය කොට ඇති බව ඌරගස්මන්හංදිය පොලීසිය ගොනු කළ පැමිණෙල්ලේ සදහන්ය.
 
-A 25-year-old married couple who was involved in a serious imprisonment of twelve-year-old student student, was ordered to pay a fine of Rs.
-
-A man residing in the Uragasmanhandiya Mini Piggaha, punished, compensation and penalties.The Uragasmatiya Police filed the alleged man that the victim had been abroad and the father of the victim had been abroad from 1st January 2011 to the end of the victim and the father of a father's neighbor in the event.
-
-The high-ranking a jurisdiction was charged in a jurisdictional girl after the 13 year long trial, the accused of malfunctional jail and twenty-five Rs.If it was not paid to pay compensation of Rs.
-
-◼️
+...
 
 [Data](articles/289e3ee0.json)
-
-[Extended Data](ext_articles/289e3ee0.ext.json)
 
 ---
 
@@ -600,27 +586,21 @@ On March 06, it was reported that Sri Lankan security forces had been informed t
 
 ---
 
-### This year is just the presidential election
+### මේ වසරේදි ජනපතිවරණය  පමණයි
 
 *2024-05-07 14:09:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-ජනපතිවරණය--පමණයි/11-409472) · `si`
 
-Minister Prasanna Ranatunga denies there's an election this year, but local government elections are postponed. The government claims it can't fund them, despite issuing a circular for decentralized funds. This is seen as a strategy to delay the presidential election.
+ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය මිස මේ වසරේ වෙනත් මැතිවරණයක් නොමැති බව ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
 
-🟩
+නමුත් විපක්ෂය පළාත් පාලන මැතිවරණය පවත්වන ලෙසට රජයට බලකරමින් මේ මොහොතේදී රජයේ සංවර්ධන කටයුතු පිළිබඳවත් රටට වැරදි මතයක් ඉදිරිපත්කරන බවද අමාත්‍යවරයා කීවේය.
 
-The Chief Government organizer, Minister Prasanna Ranatunga says there is no election this year, but this year's election.
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා මතුකළ ප්‍රශ්නයද ( 7) පාර්ලිමේන්තුවේදී පිලිතුරු දෙමිනි.
 
-However, the Minister said that the government demands the government to hold the government to the local government election and the country will present a misconception to the country.
-
-Chief Government Whip, Minister Prasanna Ranatunga was responding as a matter of parliamentary MP Dayasiri Jayasekara.
-
-Kurunegala District Parliamentarian Dayasiri Jayasekara (The Sri PC) - Local government elections postponed. The government says he cannot give money. However, the government has issued a circular on 29.21.2012 under decentralized funds. According to Section 8.3, these development projects have been placed on July 31st.
+කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා (ශ්‍රී.පො.පෙ) - පළාත් පාලන මැතිවරණය දින නියමයක් නැතුව කල් දමලා. ඒකට මුදල් දෙන්න බැහැ කියල ආණ්ඩුව කියනවා. හැබැයි විමධ්‍යගත අරමුදල් යටතේ 2023.12.29 දින ආණ්ඩුව චක්‍රලේඛයක් නිකුත් කරල තියෙනවා. එහි 8.3 වගන්තිය අනුව මේ සංවර්ධන ව්‍යාපෘති ජුලි 31 වැනිදා වෙනකොට අවසන් කරන්න කියලා දාලා තියෙනවා.
 
 ...
 
 [Data](articles/631c54ac.json)
-
-[Extended Data](ext_articles/631c54ac.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 00:49:39**
+As of **2024-05-08 01:03:20**
 
 ## Newspaper Stats
 
-*Scraped **22,598** Articles*
+*Scraped **22,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,295
-dailyftlk | 1,314
+dailyftlk | 1,321
 adalk | 1,905
 tamilmirrorlk | 2,630
 adaderanalk | 2,654
@@ -26,11 +26,149 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,587 (100.0%) of 22,598 articles have been extended.
+22,597 (100.0%) of 22,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Govt. visa processing handover to private firm illegal claims  G.L
+
+*2024-05-08 00:40:36* · [`dailyftlk`](https://www.ft.lk/business/Govt-visa-processing-handover-to-private-firm-illegal-claims-G-L/34-761539) · `en`
+
+Says Govt. has no authority to delegate processing of visas to a third party according to Immigration Act
+
+Claims any such handover will necessitate amendments to be made to the relevant legislation
+
+Likens Sri Lanka’s on-arrival visa processing fiasco to the Central Bank scam
+
+Questions if process was handed over to third party to secure funds for upcoming polls
+
+Freedom People’s Congress (FPC) member MP Prof. G.L Peiris asserted yesterday that entrusting Sri Lanka›s visa-issuing process to a foreign entity is entirely illegal.
+
+Addressing a press conference, Peiris likened the situation to the Central Bank scam. He declared it the second Central Bank scam to take place in the country.
+
+...
+
+[Data](articles/4f8b736e.json)
+
+---
+
+### Charitha raises concerns over CBSL’s perceived independence from State
+
+*2024-05-08 00:39:55* · [`dailyftlk`](https://www.ft.lk/business/Charitha-raises-concerns-over-CBSL-s-perceived-independence-from-State/34-761538) · `en`
+
+Says overall summary of CBSL annual report suggests a clear distinction between CBSL and the State
+
+Expresses concern that certain CBSL officials seem to believe it is no longer a part of the State following passing of new CBSL Act
+
+Urges Speaker to present report to CoPF or a Sectoral Oversight Committee to be investigated
+
+MP Wimal Weerawansa urges all top officials of CBSL to be summoned to parliament to explain report’s contents
+
+Freedom People’s Congress (FPC) member MP Prof. Charitha Herath yesterday highlighted several serious concerns regarding the contents of the Central Bank of Sri Lanka (CBSL) annual report for the year 2023.
+
+During his address in parliament, MP Prof. Charitha Herath remarked that the overall summary of the report suggests a clear distinction between the Central Bank of Sri Lanka (CBSL) and the State, implying they are perceived by the CBSL as two distinct entities.
+
+...
+
+[Data](articles/7cb45f71.json)
+
+---
+
+### CEAT Kelani says not fined by Customs Department
+
+*2024-05-08 00:38:58* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-says-not-fined-by-Customs-Department/34-761537) · `en`
+
+CEAT Kelani International Tyres Ltd., yesterday assured customers, stakeholders and the general public that the Company has no dispute over Customs Duties with the Customs Department and is not subject to any inquiry or penalty by the Department in relation to Customs Duties.
+
+Responding to media reports that a leading tyre manufacturer is facing legal action and a fine for non-payment of Customs Duties on imported raw materials, CEAT Kelani International Tyres has issued the following statement to the media.
+
+CEAT Kelani International Tyres categorically states that it is not the company that has allegedly defaulted on the payment of fines imposed by the Department of Customs as a penalty for non-payment of Customs Duties due on the import of raw materials.
+
+We would also like to assure our valued customers, all other stakeholders and the public that CEAT Kelani complies with all legal and regulatory requirements in the conduct of its business, including the timely payment of dues.
+
+...
+
+[Data](articles/d906d0e0.json)
+
+---
+
+### Suresh de Mel appointed as Chairman of Citrus Leisure Group companies
+
+*2024-05-08 00:38:47* · [`dailyftlk`](https://www.ft.lk/business/Suresh-de-Mel-appointed-as-Chairman-of-Citrus-Leisure-Group-companies/34-761536) · `en`
+
+Business leader Suresh de Mel has been appointed as the Chairman of Citrus Leisure Group of Companies.
+
+The move follows the demise of former Chairman the tourism industry icon Prema Cooray recently.
+
+The respective companies are Citrus Leisure Plc, Hikkaduwa Beach Resort Plc, and Waskaduwa Beach Resort Plc.
+
+Suresh is an entrepreneur, investor, exporter and tourism service provider. He has served on the Board of Citrus Leisure PLC since 2010. Having completed University and an Engineering career in the United States of America spanning over a period of ten years,
+
+...
+
+[Data](articles/a9a07829.json)
+
+---
+
+### People’s Bank and Hayleys Solar partner to accelerate Sri Lanka’s shift towards sustainable energy
+
+*2024-05-08 00:37:37* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-Hayleys-Solar-partner-to-accelerate-Sri-Lanka-s-shift-towards-sustainable-energy/34-761535) · `en`
+
+In an alignment geared towards promoting sustainable energy adoption, People’s Bank and Hayleys Solar, the renewable energy arm of Hayleys Fentons Ltd., recently signed a Memorandum of Understanding (MoU).
+
+It aims to catalyse the widespread adoption of solar energy by facilitating access to better financing options.
+
+People’s Bank will provide loans to customers seeking to invest in rooftop solar power for their homes or businesses. These loans will empower individuals and enterprises to embrace solar power, thereby reducing their carbon footprint and contributing to a cleaner environment.
+
+...
+
+[Data](articles/0aa599cf.json)
+
+---
+
+### Mithila Wegapitiya new CEO at Laugfs Power Plc.
+
+*2024-05-08 00:37:06* · [`dailyftlk`](https://www.ft.lk/business/Mithila-Wegapitiya-new-CEO-at-Laugfs-Power-Plc/34-761534) · `en`
+
+Mithila Wegapitiya has been appointed as the new CEO of Laugfs Power Plc.
+
+He holds a Bachelor of Science (BSc) in Business Management from Aston University in UK in the year 2014 and a MBA from Post Graduate Institute of Management 2018.
+
+He has served in the capacity of Executive Director LAUGFS Holdings Ltd., for the past 15 months. He is also the youngest Board Member of CERT Sri Lanka and an Industry Council member of the University of Rajarata.
+
+He is a Co-founder and a Non-Executive Board Member of Potenza, a global technology consulting company working with tier 1 Customers in USA, Australia, Canada and South East Asia in the areas of SAP Consulting, Data and Analytics, Software Robotics and AI.
+
+He also has experience serving in prominent Global Organizations such as Warner Bros Interactive Entertainment, Ve Interactive and Virtusa Corporation.
+
+◼️
+
+[Data](articles/4ae47fff.json)
+
+---
+
+### SLFP leadership legal battle continues as CoA rejects Wijeydasa’s petition
+
+*2024-05-08 00:35:35* · [`dailyftlk`](https://www.ft.lk/news/SLFP-leadership-legal-battle-continues-as-CoA-rejects-Wijeydasa-s-petition/56-761533) · `en`
+
+The Court of Appeal yesterday rejected the petition submitted by Justice Minister Wijeyadasa Rajapakshe, which aimed to overturn the interim injunction issued by the Colombo District Court which barred him from fulfilling his duties as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
+
+Rajapakshe filed the petition on 29 April after the courts issued the interim injunction against him on 24 April.
+
+Justice D.N.Samarakoon considering the petition said the relevant orders in this regard should be obtained from the district court.
+
+A similar injunction was also issued against the SLFP Acting General Secretary Sarathi Dushmantha Mithrapala.
+
+The injunctions, in effect until 8 May, were granted considering a case filed by SLFP office bearers Lasantha Alagiyawanna, Duminda Dissanayake, and Mahinda Amaraweera.
+
+Chandaka Jayasundara PC representing the plaintiffs told the courts that it is illegal and against the party’s constitution for the defendants to hold the positions.
+
+...
+
+[Data](articles/bc298e69.json)
+
+---
 
 ### TISL challenges appointment of CIABOC Director General in Supreme Court
 
@@ -47,6 +185,8 @@ The petition further argues that he does not meet all statutory requirements and
 ...
 
 [Data](articles/8c57202a.json)
+
+[Extended Data](ext_articles/8c57202a.ext.json)
 
 ---
 
@@ -70,6 +210,8 @@ By Dr. Kiruthika Natarajan, Dr. Manoj Thibbotuwawa, and Dr. Suresh Babu
 
 [Data](articles/8577918c.json)
 
+[Extended Data](ext_articles/8577918c.ext.json)
+
 ---
 
 ### True value of Ceylon Cinnamon
@@ -81,6 +223,8 @@ Everything needs to have a reason, framed in its purpose. Without reason and pur
 ...
 
 [Data](articles/09f58c28.json)
+
+[Extended Data](ext_articles/09f58c28.ext.json)
 
 ---
 
@@ -102,6 +246,8 @@ Israel’s Finance Minister was referencing passages in Israel’s ‘Holy  Boo
 
 [Data](articles/efed892a.json)
 
+[Extended Data](ext_articles/efed892a.ext.json)
+
 ---
 
 ### Lady picking pockets-symptoms of wider social malaise - EDITORIAL
@@ -118,6 +264,8 @@ During the era of prohibition in the United States, the infamous US criminal Al 
 
 [Data](articles/01fc0778.json)
 
+[Extended Data](ext_articles/01fc0778.ext.json)
+
 ---
 
 ### How wheeler-dealing over visa  could  kill tourism’s golden goose
@@ -133,6 +281,8 @@ But, a controversial and unsolicited tender that awarded the monopoly of visa pr
 ...
 
 [Data](articles/b199c354.json)
+
+[Extended Data](ext_articles/b199c354.ext.json)
 
 ---
 
@@ -158,6 +308,8 @@ Speaking to journalists he revealed that he had made a request to the Government
 
 [Data](articles/2500fc18.json)
 
+[Extended Data](ext_articles/2500fc18.ext.json)
+
 ---
 
 ### China to support digital education transformation
@@ -173,6 +325,8 @@ The proposed project is expected to provide Delivering Class Rooms, Receiving Cl
 ...
 
 [Data](articles/06e30f59.json)
+
+[Extended Data](ext_articles/06e30f59.ext.json)
 
 ---
 
@@ -249,6 +403,8 @@ Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom i
 ...
 
 [Data](articles/9ac4c319.json)
+
+[Extended Data](ext_articles/9ac4c319.ext.json)
 
 ---
 
@@ -1075,6 +1231,8 @@ The 57th session of the Human Rights Council is to be held from 9 September 2024
 ...
 
 [Data](articles/ad4cbe79.json)
+
+[Extended Data](ext_articles/ad4cbe79.ext.json)
 
 ---
 
@@ -2045,165 +2203,5 @@ The Court of Appeal issued the order after the petition filed by Mr. Wijayadasa 
 [Data](articles/426ac275.json)
 
 [Extended Data](ext_articles/426ac275.ext.json)
-
----
-
-### There may be 89 percent of the deaths to inform 4 things
-
-*2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/කාරණා-4-ක්-දන්වනම්-මරණවලින්-සියයට-89ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
-
-89% of Sri Lanka's deaths are due to non-communicable diseases like heart disease, stroke, and diabetes, affecting 60,000 people. A health promotion program for journalists aims to raise awareness. Globally, 100 million deaths are attributed to smoking, and 1.4 million to obesity. Sri Lanka's healthcare is top-notch, with life expectancy at 83 years.
-
-🟩
-
-Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Mrs. Palitha Maheepala says. The first phase of the first stage of the health promotion program for Sri Lankan journalists is the inauguration of the third eye in the precious use of these diseases.In Donathi was held today (07).
-
-The world has died due to 100 million people in the world, according to the World Health Organization.. There were about 10 million people in the world due to smoking. It is said that about 1.4 million people in the world, about 46 percent of our country's weighing more than 46 percent in our country, about 46 percent of our country's weight.
-
-The country's health care is the best health service in the region, and that women have increased to 83 years and the fortified of the primary health service has contributed to all that the fortified of the primary health service has been reported..
-
-◼️
-
-[Data](articles/38ef130f.json)
-
-[Extended Data](ext_articles/38ef130f.ext.json)
-
----
-
-### If these four things were notified, 89% of these diseases could be saved
-
-*2024-05-07 14:53:18* · [`adalk`](https://www.ada.lk/breaking_news/මේ-කාරණා-4-ගැන-දැනුම්වත්-නම්-මේ-රෝගවලින්-සිද්දවෙන-මරණවලින්-89%ක්-වැලකෙන්න-පුළුවන්/11-409476) · `si`
-
-89% of Sri Lanka's deaths are due to non-communicable diseases, with heart disease, fold disease, and diabetes affecting 60,000 people. A health promotion program aims to save lives by educating journalists. Globally, 100 million deaths are attributed to smoking, and 1.4 million people die from obesity, affecting 46% of the population. Sri Lanka's healthcare is the best in the region, with women living to 83 and primary health services contributing significantly.
-
-🟩
-
-Today, 89 percent of the deaths of Sri Lanka are caused by non-communicable diseases, heart disease, fold disease and diabetes is caused by around 60,000 people.Mrs. Palitha Maheepala says. The first phase of the first stage of the health promotion program for Sri Lankan journalists is the inauguration of the third eye in the precious use of these diseases.In Donathi was held today (07).
-
-The world has died due to 100 million people in the world, according to the World Health Organization.. There were about 10 million people in the world due to smoking. It is said that about 1.4 million people in the world, about 46 percent of our country's weighing more than 46 percent in our country, about 46 percent of our country's weight.
-
-The country's health care is the best health service in the region, and that women have increased to 83 years and the fortified of the primary health service has contributed to all that the fortified of the primary health service has been reported..
-
-◼️
-
-[Data](articles/96cec0cc.json)
-
-[Extended Data](ext_articles/96cec0cc.ext.json)
-
----
-
-### Yall. Fire in the garbage warehouse in the area;Struggle to remove the garbage
-
-*2024-05-07 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182890) · `ta`
-
-A fire broke out in a garbage warehouse in Jaffna, brought under control by the Jaffna Municipal Council and Pradeshiya Sabha. Protests against garbage dumping and suspicions of arson have led to investigations. A similar fire occurred two years ago.
-
-🟩
-
-The fire was brought under control of the Jaffna -Nallur Pradeshiya Sabha belonging to the Garbage Warehouse.
-
-The fire was brought under control of the Jaffna Municipal Council and other areas of the Pradeshiya Sabha.
-
-The people of the area have protested against the dumping of garbage and the police have expressed suspicion that someone may have set fire to the garbage can.
-
-Investigations into the incident have been launched as the cause of the fire is not sure.
-
-Police said a massive fire broke out in the garbage warehouse two years ago.
-
-Meanwhile, the youth of the area staged a protest on Tuesday morning to remove the garbage warehouse in the area.
-
-◼️
-
-[Data](articles/fd73c6ec.json)
-
-[Extended Data](ext_articles/fd73c6ec.ext.json)
-
----
-
-### Journalist arrested with drug pills
-
-*2024-05-07 14:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மாத்திரைகளுடன்-ஊடகவியலாளர்-கைது/175-336892) · `ta`
-
-A journalist in Trincomalee was arrested with 30 drug pills and traffic documents, suspected of buying and selling at a pharmacy. The 42-year-old is detained pending a court order.
-
-🟩
-
-The journalist arrested with drug pills is being kept in detention on a court order. The incident took place in Trincomalee.
-
-Morawewa police said that a regional journalist has been arrested with drug pills in the Uva Nagar area of the Trincomalee Morawewa Police Division.
-
-The incident took place on Sunday (05) evening. The 42 -year -old area journalist has been arrested.
-
-Police said 30 drug pills were recovered during a sudden inspection of the confidential information available.
-
-Initial inquiries revealed that they were buying and selling at a pharmacy in Trincomalee.. Police said that a large number of traffic documents were also recovered.
-
-Regional journalist arrested on suspicion is also a regional correspondent in public and private media. The magistrate was ordered to be remanded until the 20th of this month when the arrested person was produced before the Moravewa Magistrate on Monday (06).
-
-◼️
-
-[Data](articles/e19481f7.json)
-
-[Extended Data](ext_articles/e19481f7.ext.json)
-
----
-
-### Vladimir Putin sworn in
-
-*2024-05-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196369) · `si`
-
-Vladimir Putin, Russian President, sworn in for his fifth term, first elected in 2000.
-
-🟩
-
-Russian President Vladimir Putin was sworn in for his fifth term.
-
-He was sworn in as the first to the first time in 2000.
-
-◼️
-
-[Data](articles/8220cdb0.json)
-
-[Extended Data](ext_articles/8220cdb0.ext.json)
-
----
-
-### Traffic impacts by demonstration of non -academic staff
-
-*2024-05-07 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கல்விசாரா-ஊழியர்களின்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/46-336891) · `ta`
-
-Non-academic staff from all universities in Sri Lanka are protesting in Colombo 7, impacting city hall area roads. Approximately 5,000 people participated.
-
-🟩
-
-A large number of non -academic staff representing all the universities in the country are currently protesting in front of the University Grants Commission in Colombo 7, in line with the university non -academic staff.
-
-About 5 thousand people participated in the demonstration. Due to the demonstration, all the roads in the city hall area have been affected.
-
-◼️
-
-[Data](articles/073c3e12.json)
-
-[Extended Data](ext_articles/073c3e12.ext.json)
-
----
-
-### Foreign squad goes up
-
-*2024-05-07 14:25:17* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-සංචිතය-තවත්-ඉහළට/11-409474) · `si`
-
-Sri Lanka's official reserves rose by 9.6% in April 2024, from $4.96B to $5.43B.
-
-🟩
-
-The official reserves in Sri Lanka increased by 9.6% in April 2024, the Central Bank of Sri Lanka said.
-
-Accordingly, the official reserve assets of $ 4.96 billion in March 2024 increased to $ 5.43 billion in April 2024.
-
-◼️
-
-[Data](articles/66e48037.json)
-
-[Extended Data](ext_articles/66e48037.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 19:18:12**
+As of **2024-05-07 19:33:25**
 
 ## Newspaper Stats
 
-*Scraped **22,534** Articles*
+*Scraped **22,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,224
 economynextcom | 1,281
 dailyftlk | 1,307
-adalk | 1,898
+adalk | 1,899
 tamilmirrorlk | 2,623
 adaderanalk | 2,652
 virakesarilk | 3,371
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,487 (99.8%) of 22,534 articles have been extended.
+22,488 (99.8%) of 22,535 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,24 @@ Lakshman Kiriella MP, the Prime Minister of the Opposition, commented on the iss
 [Data](articles/f68c7e0b.json)
 
 [Extended Data](ext_articles/f68c7e0b.ext.json)
+
+---
+
+### සාපෙළ පළමු ප්‍රශ්නපත්‍රයට මුහුණදුන් සිසුවා නිවසට විත් ගෙළවැළලාගනියි
+
+*2024-05-07 18:04:45* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-පළමු-ප්‍රශ්නපත්‍රයට-මුහුණදුන්-සිසුවා-නිවසට-විත්-ගෙළවැළලාගනියි/11-409478) · `si`
+
+මෙවර අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ පළමු දින ප්‍රශ්න පත්‍රයට මුහුණ දුන් සිසුවෙකු ආපසු නිවසට විත් ගෙලවැලලාගෙන මියයාමේ සිද්ධියක් කටුගස්තොට පොලිස් වසමෙන් වාර්තාවේ .
+
+එසේ මිය ගොස් ඇත්තේ කටුගස්තොට පොලිස් වසමේ ජම්බුගහපිටිය ප්‍රදේශයේ 17 හැවැරිදි සිසුවෙකු වන අතර එම සිසුවා වත්තේගම අධ්‍යාපන කලාපයේ ආදර්ශ විදුහලක අධ්‍යාපනය හදාරමින් සිට ඇත .
+
+සිසුවා ඔහු සිටි කාමරයේ බාල්කයක වයරයක් ආධාරයෙන් ගෙල වැළලාගෙන සිටියදී නිවැසියන් දැක වයරය කපා ජම්බුගහපිටිය රෝහලට රැගෙන ගියත් ඒ වන විටද ඔහු මිය ගොස් සිටි බවට අනාවරණය වී ඇති බව පොලිසිය කියයි .
+
+සිසුවා එසේ ගෙල වැලලාගෙන සියදිවිහානි කර ගැනීමට හේතුව මෙතෙක් අනාවරණය වී නැති අතර කටුගස්තොට පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ආර්.සී. රාජපක්ෂ මහතාගේ උපදෙස් පරිදි වැඩිදුර විමර්ශන සිදු කරේ.
+
+◼️
+
+[Data](articles/f5e53db1.json)
 
 ---
 
@@ -2305,21 +2323,5 @@ And Israeli soldiers will be completely withdrawn from Gaza - Hamas will release
 [Data](articles/4e7730e2.json)
 
 [Extended Data](ext_articles/4e7730e2.ext.json)
-
----
-
-### Sri Lanka’s official reserves up to USD 5.43 bn in April
-
-*2024-05-07 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99058/sri-lankas-official-reserves-up-to-usd-543-bn-in-april) · `en`
-
-Sri Lanka’s official reserve assets increased by 9.6% to USD 5.43 billion in April 2024, compared to USD 4.96 billion in March 2024, according to the Central Bank of Sri Lanka (CBSL).
-
-However, this includes proceeds from the swap with People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
-
-◼️
-
-[Data](articles/af86f6ef.json)
-
-[Extended Data](ext_articles/af86f6ef.ext.json)
 
 ---

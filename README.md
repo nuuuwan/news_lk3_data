@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 16:50:38**
+As of **2024-05-07 17:03:37**
 
 ## Newspaper Stats
 
-*Scraped **22,510** Articles*
+*Scraped **22,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
-economynextcom | 1,279
+economynextcom | 1,280
 dailyftlk | 1,307
-adalk | 1,893
+adalk | 1,895
 tamilmirrorlk | 2,622
 adaderanalk | 2,650
 virakesarilk | 3,364
 dailymirrorlk | 3,527
-adaderanasinhalalk | 3,611
+adaderanasinhalalk | 3,612
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,417 (99.6%) of 22,510 articles have been extended.
+22,424 (99.6%) of 22,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### මධ්‍යම අධිවේගී මාර්ගය ගැන විශේෂ නිවේදනයක්
+
+*2024-05-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196374) · `si`
+
+මධ්‍යම අධිවේගී මාර්ගයේ බෙම්මුල්ල ප්‍රදේශයේ කණු මතින් ඉදිකර ඇති කොටසක කොන්ක්‍රීට් කදම්භයක් කඩා වැටීම හේතුවෙන් ඒ සම්බන්ධයෙන් පුළුල් වශයෙන් සොයා බැලීමට තීරණය කළ බව නිවේදනයක් නිකුත් කරමින් මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+
+පසුගිය මැයි 4 වනදා එම කොටස කඩා වැටුණු අතර කොන්ක්‍රීට් කණු අතර කොන්ක්‍රීට් කදම්භ ස්ථානගත කිරීමේදී රබර් බෙයාරින් පෑඩ් මත ස්ථානගත කරන බවත් එම කොන්ක්‍රීට් කදම්භය ඉන් ඉවත්ව පෙරළී කඩා වැටී තිබුණි.
+
+ඒ හේතුවෙන් තවත් බාල්ක දෙකකට ද හානී සිදුවී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පැවසීය. එම කොන්ක්‍රීට් කදම්භය 2021 වසරේ නොවැම්බර් මාසයේදී ස්ථානගත කර ඇති බව සඳහන් ය.
+
+එබැවින් මධ්‍යම අධිවේගී මාර්ග ව්‍යාපෘතිය 01 කොටසේ ඒ සම්බන්ධයෙන් පුළුල් ලෙස පරික්ෂා කර බැලීම සඳහා මාර්ග සංවර්ධන අධිකාරිය විසින් කණ්ඩායම් දෙකක් මේ වනවිට යොදවා ඇති බව බවද එම නිවේදනයේ සඳහන් වෙයි.
+
+එම කණ්ඩායම් මගින් ඉදිකර ඇති සියලු කොන්ක්‍රීට් ආධාරකවල වර්ථමාන තත්ත්ව ගැන පරික්ෂා කිරීමට සහ අවශ්‍ය ප්‍රතිකර්ම යෙදීමට එම කණ්ඩායම් කඩිනමින් කටයුතු කරනු ඇති බව එහි දැක්වෙයි.
+
+...
+
+[Data](articles/36545b2e.json)
+
+---
 
 ### Fowzie’s son arrested over assault incident
 
@@ -44,23 +64,45 @@ Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been release
 
 [Data](articles/27566df3.json)
 
+[Extended Data](ext_articles/27566df3.ext.json)
+
 ---
 
-### ෆවුසිගේ පුත්‍රයා අත්අඩංගුවට
+### Fowzie's son arrested
 
 *2024-05-07 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196373) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඒඑච්එම් ෆවුසි මහතාගේ පුත්‍රයාව කොල්ලුපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Kollupitiya Police arrested AHM Fowzi's son for assaulting a victim in a road accident. Further investigations are ongoing.
 
-ඒ රිය අනතුරක් සිදුකර අනතුරට ලක්වූ මාර්ගයේ ගමන්කළ පුද්ගලයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙනි.
+🟩
 
-කොල්ලුපිටිය පාසල් මාවත ප්‍රදේශයේදී මාර්ගයේ ගමන්කරමින් සිටි අයෙකු අනතුරට ලක්වීමෙන් අනතුරුව අනතුරට ලක්වූ පුද්ගලයාට පහරදීම සම්බන්ධයෙන් ඔහුට එරෙහිව චෝදනා එල්ලවී ඇත.
+Kollupitiya Police have arrested the son of MP AHM Fowzi.
 
-සිද්ධිය සම්බන්ධයෙන් කොල්ලුපිටිය පොලීසිය පරීක්ෂණ සිදුකර සැකකාර ඒඑච්එම් ෆවුසි මහතාගේ පුත්‍රයාව අත්අඩංගුවට ගෙන අනතුරුව පොලිස් ඇප මත මුදාහැර තිබේ.
+It is in connection with a person who was involved in the road accident.
+
+A person who was traveling on the road in general area Kollupitiya has been accused of assaulting the victim.
+
+Kollupitiya Police are conducting further investigations and arrested the son of Meeting AHM Fowzi and released on police bail.
 
 ◼️
 
 [Data](articles/de01f79e.json)
+
+[Extended Data](ext_articles/de01f79e.ext.json)
+
+---
+
+### දොළොස්  හැවිරිදි පාසල් සිසුවියක් අපයෝජනය කල අයට ලැබුණු ඳඩුවම
+
+*2024-05-07 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/දොළොස්--හැවිරිදි-පාසල්-සිසුවියක්-අපයෝජනය-කල-අයට-ලැබුණු-ඳඩුවම/11-409477) · `si`
+
+දොළොස්  හැවිරිදි බාල වයස්කාර  පසල් සිසුවියක්  අපයෝජනය කළේ යයි වැරදිකරුවකුවූ විසිපස් හැවිරිදි විවාහකයකුට  වසර විස්සක  බරපතල වැඩ සහිත සිර දඩුවමක් වින්දිත  දැරියට රුපියල් ලක්ෂ දහයක වන්දි මුදලක් සහ රුපියල් විසිපන්දහසක දඩ මුදලක් ගෙවන ලෙස බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා අද(07) නියෝග කළේය.
+
+මෙසේ සිර දඩුවම්,වන්දි මුදල් සහ දඩ මුදල් ගෙවීමට නියම කෙරුණේ ඌරගස්මංහන්දිය කුඩා ඌරගහ  පදිංචි පුද්ගලයකුටයි.  වින්දිත දැරිය පියාට භාරදී මව විදෙස්ගතව සිටි බවත් පියාගේ මිතුරකුවූ අසල්වැසියකුවූ  චූදිත මේ නිවසට නිතර ආගිය කෙනෙකු බවත් එසේ පැමිණි අවස්ථාවලදී දැරියගේ පියා නැති අවස්ථාවලදී 2011ජනවාරි මස 01 සිට 2011 අගෝස්තු 31දක්වා කාලය තුල චූදිත මේ දැරිය විටින් විට අපයෝජනය කොට ඇති බව ඌරගස්මන්හංදිය පොලීසිය ගොනු කළ පැමිණෙල්ලේ සදහන්ය.
+
+...
+
+[Data](articles/289e3ee0.json)
 
 ---
 
@@ -91,6 +133,8 @@ Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Min
 ◼️
 
 [Data](articles/bb3c0f9a.json)
+
+[Extended Data](ext_articles/bb3c0f9a.ext.json)
 
 ---
 
@@ -529,6 +573,24 @@ On March 06, it was reported that Sri Lankan security forces had been informed t
 [Data](articles/1133afe7.json)
 
 [Extended Data](ext_articles/1133afe7.ext.json)
+
+---
+
+### මේ වසරේදි ජනපතිවරණය  පමණයි
+
+*2024-05-07 14:09:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-ජනපතිවරණය--පමණයි/11-409472) · `si`
+
+ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය මිස මේ වසරේ වෙනත් මැතිවරණයක් නොමැති බව ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+නමුත් විපක්ෂය පළාත් පාලන මැතිවරණය පවත්වන ලෙසට රජයට බලකරමින් මේ මොහොතේදී රජයේ සංවර්ධන කටයුතු පිළිබඳවත් රටට වැරදි මතයක් ඉදිරිපත්කරන බවද අමාත්‍යවරයා කීවේය.
+
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක, අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා මතුකළ ප්‍රශ්නයද ( 7) පාර්ලිමේන්තුවේදී පිලිතුරු දෙමිනි.
+
+කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා (ශ්‍රී.පො.පෙ) - පළාත් පාලන මැතිවරණය දින නියමයක් නැතුව කල් දමලා. ඒකට මුදල් දෙන්න බැහැ කියල ආණ්ඩුව කියනවා. හැබැයි විමධ්‍යගත අරමුදල් යටතේ 2023.12.29 දින ආණ්ඩුව චක්‍රලේඛයක් නිකුත් කරල තියෙනවා. එහි 8.3 වගන්තිය අනුව මේ සංවර්ධන ව්‍යාපෘති ජුලි 31 වැනිදා වෙනකොට අවසන් කරන්න කියලා දාලා තියෙනවා.
+
+...
+
+[Data](articles/631c54ac.json)
 
 ---
 
@@ -2231,79 +2293,5 @@ Nothing has been reported on VVS charges when the new plan is proposed. But when
 [Data](articles/b735317e.json)
 
 [Extended Data](ext_articles/b735317e.ext.json)
-
----
-
-### Notorious criminal ’Manna Ramesh’ extradited to Sri Lanka from Dubai
-
-*2024-05-07 09:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Notorious-criminal-Manna-Ramesh-extradited-to-Sri-Lanka-from-Dubai/108-282080) · `en`
-
-Colombo, May 7 (Daily Mirror) - Notorious criminal Ramesh Mihiranga, alias ‘Manna Ramesh’, who was arrested by the Dubai Police, was brought to Sri Lanka from the Bandaranaike International Airport, Katunayake this morning.
-
-A team from the Criminal Investigation Department (CID) left for Dubai to escort 'Manna Ramesh’ back to Sri Lanka following his arrest.
-
-Earlier, an Interpol Red Notice was issued for the arrest of ‘Manna Ramesh’, who was wanted for a host of crimes, including multiple murders in the Avissawella area.
-
-It was reported that Manna Ramesh was arrested by the Dubai Police two months ago while he was travelling in a car with his wife and two children.
-
-He will be detained by the CID for further questioning after being produced before court.
-
-◼️
-
-[Data](articles/c1b21ae3.json)
-
-[Extended Data](ext_articles/c1b21ae3.ext.json)
-
----
-
-### 3 petitions against appointing new Director General of Bribery Commission
-
-*2024-05-07 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196354) · `si`
-
-Three petitions against appointing K. D. as Director General of Bribery Commission, filed by an energy sector expert, journalist Fonseka, and Transparency International Sri Lanka. They argue K. D. lacks 15 years of criminal proceedings experience, violating the Constitution.
-
-🟩
-
-Writing as the new Director General of Bribery or Corruption Commission as the new Director General of Investigation Commission. K. D. Three fundamental rights petitions have been filed before the Supreme Court demanding the appointment of Wijeratne and to issue a decree.
-
-The petitions have been submitted by a specialist in the energy sector, journalist Fonseka and Transparency International Sri Lanka.
-
-Members of the Commission of Investigation Commission as its respondents and the Chairman of the Commission of Investigation Commission, who was appointed as its new Director General, as its new Director General. K. D. The members of the Constitutional Council are nominated by the Attorney General and several others.
-
-The petitioners claim that the person appointed as the Director General of the Bribery Commission under Section 19, and he should have 15 years of experience on criminal proceedings.
-
-...
-
-[Data](articles/f76003d0.json)
-
-[Extended Data](ext_articles/f76003d0.ext.json)
-
----
-
-### Chairman's Judge Resigns Courtesy Petitions on Science's Murder case
-
-*2024-05-07 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196353) · `si`
-
-Supreme Court Judge S. Turai Raja resigns, citing delays in translating the Science's Murder case. Five judges, including Nawaz, Shiran Gunaratne, and Priyantha Fernando, summoned. Attorneys argue for six-year delay due to translation issues. Judge Turai Raja acknowledges translation deficit. Solicitor General Aimesha Jinasena states case correction is complete. Jaffna High Court sentences to death for abduction and murder.
-
-🟩
-
-President of the Title Supreme Court Judge of the Chief Justice to be abducted by the Chief Justice of a school girl in Jaffna, which had been abducted and executed by the Chief Justice in Jaffna and the execution of Swim Kumar.S. Mr. Turai Raja lifted yesterday (06).
-
-This appeal yesterday was Swasanti Raja, Yasantha Kodagoda, A. HMD. A five-member Supreme Court judge with Nawaz, Shiran Gunaratne and Priyantha Fernando were summoned.
-
-The five judges Bench Paradam Chairman Judge S. Sewatai Raja said that he decided to leave the appearance of the Attorney General's Department.
-
-The judges were ordered to be summoned on July 30.
-
-Attorneys who appeared for the appellant defendants stated that the examination was delayed for about six years due to the lack of translations of the case.
-
-Responding, Judge Turai Raja said that there was a delay in the activities as there is a deficit from the translator.
-
-...
-
-[Data](articles/e800d974.json)
-
-[Extended Data](ext_articles/e800d974.ext.json)
 
 ---

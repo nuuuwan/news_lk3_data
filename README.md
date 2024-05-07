@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 15:03:13**
+As of **2024-05-07 15:18:13**
 
 ## Newspaper Stats
 
-*Scraped **22,485** Articles*
+*Scraped **22,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,890
 tamilmirrorlk | 2,617
 adaderanalk | 2,647
 virakesarilk | 3,360
-dailymirrorlk | 3,522
-adaderanasinhalalk | 3,606
+dailymirrorlk | 3,524
+adaderanasinhalalk | 3,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,331 (99.3%) of 22,485 articles have been extended.
+22,353 (99.4%) of 22,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### අධිකරණ ඇමතිගේ පෙත්සමට ලැබුණු නියෝගය
+
+*2024-05-07 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196371) · `si`
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් ගොනුකරනු ලැබූ පෙත්සමක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට අභියාචනාධිකරණය අද නියම කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා වශයෙන් තමන් කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් ඉකුත්දා නිකුත් කළ වාරණ නියෝගය ක්‍රියාත්මකවීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ගොනුකර තිබුණි.
+
+විජයදාස රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/1caf477f.json)
+
+---
+
+### අධිකරණ ඇමතිගේ පෙත්සමට ලැබුණු නියෝගය
+
+*2024-05-07 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196370) · `si`
+
+අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් ගොනුකරනු ලැබූ පෙත්සමක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට අභියාචනාධිකරණය අද නියම කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් තමන් වෙත කොළඹ දිසා අධිකරණය විසින් ඉකුත්දා නිකුත් කළ වාරණ නියෝගය ක්‍රියාත්මකවීම අත්හිටුවන අතුරු තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා විජයදාස රාජපක්ෂ මහතා විසින් මෙම පෙත්සම ගොනුකර තිබුණි.
+
+විජයදාස රාජපක්ෂ මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/426ac275.json)
+
+---
+
+### ව්ලැදිමීර් පුටින් දිවුරුම් දෙයි
+
+*2024-05-07 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196369) · `si`
+
+සිය පස්වැනි ධුර කාලය සඳහා රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් දිවුරුම් දී තිබේ.
+
+ඔහු පළමුවරට රුසියාවේ ජනපති ලෙස දිවුරුම් ලබා දුන්නේ 2000 වසරේදී ය.
+
+◼️
+
+[Data](articles/8220cdb0.json)
+
+---
 
 ### Adani Green signs 20-yr agreement for wind power stations in Sri Lanka
 
@@ -47,6 +93,8 @@ The renewable energy company got the approval in February 2023 to invest $442 mi
 ...
 
 [Data](articles/3cdd8844.json)
+
+[Extended Data](ext_articles/3cdd8844.ext.json)
 
 ---
 
@@ -67,6 +115,26 @@ On March 06, it was reported that Sri Lankan security forces had been informed t
 ...
 
 [Data](articles/1133afe7.json)
+
+[Extended Data](ext_articles/1133afe7.ext.json)
+
+---
+
+### Israeli military takes control of vital Rafah crossing from Gaza into Egypt
+
+*2024-05-07 14:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Israeli-military-takes-control-of-vital-Rafah-crossing-from-Gaza-into-Egypt/107-282097) · `en`
+
+RAFAH, Gaza Strip/CAIRO, May 7 - The Israeli military took control of the vital Rafah border crossing between Gaza and Egypt on Tuesday, pushing into the southern Gazan town after a night of air strikes and as prospects for a ceasefire deal hung in the balance.
+
+The Palestinian militant group Hamas said late on Monday it had agreed to a ceasefire proposal from mediators seven months into the war that has pushed more than a million Gazans into the south of the enclave.
+
+Israel said the terms did not meet its demands and launched a military operation in Rafah.
+
+Israeli tanks and planes pounded several areas and houses in Rafah overnight, killing 20 Palestinians and wounding several others in strikes that hit at least four houses, Palestinian health officials said.
+
+...
+
+[Data](articles/72de0953.json)
 
 ---
 
@@ -152,6 +220,18 @@ Details of the dead old man have not been released. Nitambuwa police are investi
 
 ---
 
+### University non-academic workers protest in front of UGC
+
+*2024-05-07 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-non-academic-workers-protest-in-front-of-UGC/110-282095) · `en`
+
+University non-academic workers protested outside the University Grants Commission (UGC) today, highlighting eleven key demands. These include unresolved salary anomalies and unfulfilled government promises regarding allowances and other facilities. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/6af7a14a.json)
+
+---
+
 ### Two special teams assigned to investigate into collapse of concrete beam: RDA
 
 *2024-05-07 13:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-special-teams-assigned-to-investigate-into-collapse-of-concrete-beam-RDA/108-282094) · `en`
@@ -212,19 +292,31 @@ The MP said money from accounts had been transferred to a local private bank and
 
 ---
 
-### மீள் மின் இணைப்பை 90 நாட்களுக்குள் பெற்றுக்கொள்ளாவிடின் மின் விநியோகம் முழுமையாக துண்டிக்கப்படும் - மின்சாரத்துறை அமைச்சர்
+### If the power supply is not received within 90 days, the power supply will be completely cut off - Minister of Electricity
 
 *2024-05-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182884) · `ta`
 
-மின் விநியோகம் துண்டிக்கப்பட்டு 90 நாட்களுக்குள் மீள் இணைப்பை பெற்றுக் கொள்ளாத மின்பாவனையாளர்களின்  மின்கணக்கு இரத்து செய்யப்பட்டு மின் விநியோகம் முழுமையாக துண்டிக்கப்படும். மீள் மின் இணைப்புக்காக அறவிடப்படும் கட்டணம்  தற்போது குறைக்கப்பட்டுள்ளது என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+Minister Kanjana Wijesekera announced a reduction in the re-electricity fee and that power supply will be completely cut off if not paid within 90 days. This follows a policy change to improve electricity supply, with talks on further fee reductions.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற அமர்வின் போது எதிர்க்கட்சியின் உறுப்பினரான கெவிந்து குமாரதுங்க முன்வைத்த கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-2022 மே மாதம் 14 ஆம் திகதிக்கு முன்னரான காலப்பகுதியில் 70 இலட்சம் மின்பாவனையாளர்கள் மின்விநியோக கட்டமைப்பில் பாதிக்கப்பட்டிருந்தார்கள்.பல மணித்தியாலங்கள்  மின்விநியோக துண்டிப்பு அமுல்படுத்தப்பட்டன.ஆட்சிமாற்றத்தை தொடர்ந்து மின்கட்டமைப்பில் கொள்கை  ரீதியில் மாற்றம் ஏற்படுத்தப்பட்டது.
+Within 90 days after the power supply is cut off. Minister of Electricity and Power and Energy Kanjana Wijesekera said that the fee charged for re -electricity has now been reduced.
+
+In response to questions posed by Opposition member Kevindu Kumaratunga during a session in Parliament on Tuesday (7).
+
+Prior to the 14th of May, 2022, 70 lakhs of electricians were affected by the power supply structure.
+
+The policy of the power supply has been amended due to a massive improvement. The electricity has been corrected. We are in talks with the Sri Lanka Public Use Commission on the idea that the fee can continue to be reduced.
+
+The red warning fee has been distributed and the power supply for about 10 lakh minbanists who do not pay the outstanding fee have been cut off.
+
+If the power supply is cut off within 90 days after the power supply is cut off, the power supply will be completely cut off and the calculation of the electricity will be canceled.
 
 ...
 
 [Data](articles/1a59b7e0.json)
+
+[Extended Data](ext_articles/1a59b7e0.ext.json)
 
 ---
 
@@ -2247,101 +2339,5 @@ What is being done to ensure that will not happen again, including lessening dep
 [Data](articles/bc284094.json)
 
 [Extended Data](ext_articles/bc284094.ext.json)
-
----
-
-### Hollow rupee: High cost of mandatory currency conversions on Sri Lanka’s ability to earn foreign exchange
-
-*2024-05-07 05:06:59* · [`dailyftlk`](https://www.ft.lk/opinion/Hollow-rupee-High-cost-of-mandatory-currency-conversions-on-Sri-Lanka-s-ability-to-earn-foreign-exchange/14-761483) · `en`
-
-The impact of these dynamics will be felt in terms of reduced export revenue, within approximately nine months – which is the typical lead time on apparel orders
-
-Politics and economics are concepts that are fundamentally intertwined. Yet the unprecedented economic crisis of 2022 highlighted the complex challenges of aligning short-term political goals with long-term economic strategies.
-
-While the sharp appreciation of the Sri Lankan rupee in recent months has been roundly welcomed by most sectors of society as a positive signal, this optimism overlooks the nuanced factors influencing our currency’s strength and the medium-long-term challenges that could arise from volatile fluctuations in the price of the rupee.
-
-...
-
-[Data](articles/52e0b960.json)
-
-[Extended Data](ext_articles/52e0b960.ext.json)
-
----
-
-### Industry EXPO 2024: International Industry Exhibition Set for June 19th -23rd at BMICH –
-
-*2024-05-07 05:05:00* · [`islandlk`](http://island.lk/industry-expo-2024-international-industry-exhibition-set-for-june-19th-23rd-at-bmich/) · `en`
-
-Minister of Industries and Health, Dr. Ramesh Pathirana, announced that the forthcoming “Industry EXPO 2024” will be held at the Bandaranaike Memorial International Conference Hall (BMICH) from June 19th to 23rd, under the patronage of President Ranil Wickremesinghe. Additionally, the minister highlighted the debut of the inaugural international conference alongside the prestigious “Industry Green Awards” ceremony, aimed at fostering a culture of sustainable practices within the industry.
-
-Minister Pathirana made these remarks while addressing a media briefing at the Presidential Media Centre (PMC) held on Monday (06) under the theme “Collective Path to a Stable Country”.
-
-Related Topics:“Industry EXPO 2024”“Industry Green Awards”Bandaranaike Memorial International Conference Hall (BMICH)Collective path to a stable country
-
-Heat Index at ‘Extreme Caution level’ in Northern, North-central and Eastern provinces and in Kurunegala and Monaragala districts
-
-...
-
-[Data](articles/681ac116.json)
-
-[Extended Data](ext_articles/681ac116.ext.json)
-
----
-
-### Awareness session in Bangkok on Sri Lanka-Thailand FTA and investment opportunities
-
-*2024-05-07 05:04:14* · [`dailyftlk`](https://www.ft.lk/opinion/Awareness-session-in-Bangkok-on-Sri-Lanka-Thailand-FTA-and-investment-opportunities/14-761482) · `en`
-
-The Embassy and the Permanent Mission of Sri Lanka in Bangkok in collaboration with the Board of Investment of Thailand recently organised an awareness program on the benefits of the Sri Lanka-Thailand Free Trade Agreement (SLTFTA) and investment opportunities in Sri Lanka under the theme “Sri Lanka: The Future for Investment” at the One Start One Stop Investment Centre (OSOS) of the Thailand BOI.
-
-...
-
-[Data](articles/02dbb9e6.json)
-
-[Extended Data](ext_articles/02dbb9e6.ext.json)
-
----
-
-### IFC Regional VP for Asia Pacific signals support for Sri Lanka’s reforms and growth
-
-*2024-05-07 04:54:34* · [`dailyftlk`](https://www.ft.lk/business/IFC-Regional-VP-for-Asia-Pacific-signals-support-for-Sri-Lanka-s-reforms-and-growth/34-761477) · `en`
-
-IFC VP for Asia Pacific Riccardo Puliti meeting with President Ranil Wickremesinghe
-
-At the agreement signing event with Commercial Bank of Ceylon
-
-Concluding a two-day visit, IFC Vice President for Asia Pacific Riccardo Puliti signalled IFC’s commitment to supporting Sri Lanka’s ongoing reforms and growth agenda, while emphasising the importance of private sector-led development for inclusive economic growth.
-
-The visit served as an opportunity for Puliti to engage with key stakeholders, including meeting President Ranil Wickremesinghe, Power and Energy Minister Kanchana Wijesekera, Central Bank Governor Dr. Nandalal Weerasinghe, private sector representatives, and development partners.
-
-...
-
-[Data](articles/3a13ed5e.json)
-
-[Extended Data](ext_articles/3a13ed5e.ext.json)
-
----
-
-### Good Life X unveils rebranding strategy at 6th anniversary celebration
-
-*2024-05-07 04:50:01* · [`dailyftlk`](https://www.ft.lk/business/Good-Life-X-unveils-rebranding-strategy-at-6th-anniversary-celebration/34-761476) · `en`
-
-Esteemed attendees of GLX event held at Barefoot Garden Café
-
-The Good Life X team, from left: Program Associate Viranja Jayawardena, Program Director Christina Gunasinghe, Communications Jedi Samith Boralessa, Admin and Finance Kamil Jayah, Program Manager Emma de Silva, Program Associate Hasna Farouk, Content Stormtrooper Hari Jashwanth, Program Manager Thushan Wickremasinghe,
-
-Chief Operating Officer Vihangun Ariyaratne, and Founder and CEO Randhula de Silva
-
-In a recent event held at the Barefoot Garden Cafe in Colombo on Good Life X Ltd., announced its rebranding initiative, coinciding with the celebration of its 6th anniversary.
-
-This strategic move not only signified a visual update but also marked a profound shift towards catalysing a regenerative future for Sri Lanka and beyond with diverse ventures kicking off under its purview.
-
-The event welcomed over 100 GLX alumni, experts, scientists, academics, entrepreneurs, investors, as well as corporate leaders.
-
-...
-
-[Data](articles/0dd994cb.json)
-
-[Extended Data](ext_articles/0dd994cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 15:52:22**
+As of **2024-05-07 16:04:50**
 
 ## Newspaper Stats
 
-*Scraped **22,500** Articles*
+*Scraped **22,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,224
 economynextcom | 1,279
 dailyftlk | 1,307
 adalk | 1,893
-tamilmirrorlk | 2,621
-adaderanalk | 2,647
+tamilmirrorlk | 2,622
+adaderanalk | 2,649
 virakesarilk | 3,360
 dailymirrorlk | 3,526
 adaderanasinhalalk | 3,610
@@ -26,11 +26,53 @@ adaderanasinhalalk | 3,610
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,375 (99.4%) of 22,500 articles have been extended.
+22,375 (99.4%) of 22,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Putin sworn in as Russian president for fifth term
+
+*2024-05-07 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99065/putin-sworn-in-as-russian-president-for-fifth-term) · `en`
+
+Vladimir Putin began his fifth term Tuesday as Russian leader at a glittering Kremlin inauguration, setting out on another six years in office after destroying his political opponents, launching a devastating war in Ukraine and concentrating all power in his hands.
+
+Already in office for nearly a quarter-century and the longest-serving Kremlin leader since Josef Stalin, Putin’s new term doesn’t expire until 2030, when he will be constitutionally eligible to run again.
+
+At the ceremony inside the gilded Grand Kremlin Palace, Putin placed his hand on the Russian Constitution and vowed to defend it as a crowd of hand-picked dignitaries looked on.
+
+...
+
+[Data](articles/ab14fc36.json)
+
+---
+
+### Appeals Court rejects Wijeyadasa’s petition against interim order
+
+*2024-05-07 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99064/appeals-court-rejects-wijeyadasas-petition-against-interim-order) · `en`
+
+The Court of Appeal today dismissed the petition filed by Minister Wijeyadasa Rajapakshe seeking to suspend the interim injunction issued by the Colombo District Court preventing him from functioning as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
+
+◼️
+
+[Data](articles/ec655f75.json)
+
+---
+
+### கொழும்பு நகர மண்டபம்  பிரதேசத்தில் கடும் வாகன நெரிசல்
+
+*2024-05-07 15:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-நகர-மண்டபம்-பிரதேசத்தில்-கடும்-வாகன-நெரிசல்/175-336899) · `ta`
+
+இலங்கையில் உள்ள அனைத்து பல்கலைக்கழகங்களையும் பிரதிநிதித்துவப்படுத்தும் கல்விசாரா ஊழியர்கள் கொழும்பு 7 இல் அமைந்துள்ள பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்கு முன்பாக  வேலைநிறுத்தப் போராட்டமொன்றில் ஈடுபட்டுள்ளனர் .
+
+இதனால்  கொழும்பு நகர மண்டபம்  பிரதேசத்தில் அனைத்து வீதிகளிலும் கடும் வாகன நெரிசல் ஏற்பட்டுள்ளதாக  தெரியவந்துள்ளது
+
+◼️
+
+[Data](articles/cea46e50.json)
+
+---
 
 ### Russia’s Vladimir Putin sworn in as president for a fifth term
 
@@ -1402,9 +1444,13 @@ ECONOMYNEXT – Sri Lanka will purchase power from wind plants built by Adani Gr
 
 The cabinet had approved the price after agreement was reached by a Cabinet Appointed Negotiations Committee.
 
-Adani will be paid in rupees at the prevailing exchange rates.
+Adani will be paid in rupees at the prevailing exchange rates, Power and Energy Minister Kanchana Wijesekera confirmed on his X (twitter) page.
 
-The contract will be valid for 20 years. The 484 MegaWatts of plants will be built in Mannar and Pooneryn. (Colombo/Apr7/2024)
+“The negotiated tariff rate of USD 0.0826 per kWh, is to be paid in LKR on the prevailing exchange rate at the time of payment.
+
+“On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh.”
+
+The contract will be valid for 20 years. The 484 MegaWatts of plants will be built in Mannar and Pooneryn.
 
 ◼️
 
@@ -2283,85 +2329,5 @@ Minister Mahinda Amaraweera and the Minister of State Suresh Ragawan and MP Dumi
 [Data](articles/3f0fe884.json)
 
 [Extended Data](ext_articles/3f0fe884.ext.json)
-
----
-
-### Who are the government officials who have vehicles before MPs?
-
-*2024-05-07 07:00:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8vz8716092o) · `si`
-
-The government has granted vehicle import tariff concessions to retired public officers, provincial officials, and judicial officers, with the Speaker Mahinda Yapa Abeywardena and State Minister Ranjith Siyambalapitiya involved.
-
-🟩
-
-Who are the government officials who have vehicles before MPs?
-
-The government has decided to issue vehicle importes of vehicles with tariff concessions for retired public officers.
-
-It has been recent reports, Speaker Mahinda Yapa Abeywardena has requested a license to obtain permits with tariff concessions.
-
-Meanwhile, State Minister Ranjith Siyambalapitiya stated that the government had appointed a committee to look into the removal of vehicle import boundaries.
-
-Will the importation of electrical imports completely reduce the car price quickly?
-
-The duty concession is to be given to retired officers after the 60 y
-
-Accordingly, the government has decided to grant the permits of vehicle imported vehicles with duty concessions for retired public officers, provincial government officials and judicial officers.
-
-The Secretary to the Ministry of Public Administration and Home Affairs Pradeep Yasaratne has stated in the respective circular issued.
-
-...
-
-[Data](articles/cd036b5c.json)
-
-[Extended Data](ext_articles/cd036b5c.ext.json)
-
----
-
-### ‘Manna Ramesh’ repatriated to Sri Lanka from Dubai
-
-*2024-05-07 06:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99055/manna-ramesh-repatriated-to-sri-lanka-from-dubai) · `en`
-
-Underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, who was arrested in Dubai has been brought back to Sri Lanka this morning (07) by a team of CID officers, the Police Spokesman said.
-
-DIG Nihal Thalduwa said the special team of CID officers accompanying the wanted underworld figure had reached the Bandaranaike International Airport (BIA) in Katunayake this morning (07).
-
-On March 06, it was reported that Sri Lankan security forces had been informed that notorious underworld figure Ramesh Priyajanaka, alias ‘Manna Ramesh’, had been arrested in Dubai, UAE.
-
-Accordingly, a group of police officers were later dispatched to Dubai to escort the wanted criminal back to Sri Lanka, upon a request made to the Dubai Police that he be handed over to Sri Lankan authorities.
-
-...
-
-[Data](articles/71f0a715.json)
-
-[Extended Data](ext_articles/71f0a715.ext.json)
-
----
-
-### Manna brought Ramesh to the island
-
-*2024-05-07 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196348) · `si`
-
-Ramesh Priyro, a Dubai crime leader, was arrested and brought to Manna Ramesh Island for murder, drug trafficking, and extortion charges. Dubai Police released a red warrant for his arrest.
-
-🟩
-
-Ramesh Priyro, who is considered a group of organized crime leader in Dubai, has been taken to the island of Manna Ramesh.
-
-Police Media Spokesperson DIG Talkinga said that the suspect was brought to the island from Dubai this morning (07).
-
-Dubai Police recently released the red warrant through the International Police, Dubai Police recently arrested.
-
-Manna Ramesh has been accused of murder, drug trafficking and extortion.
-
-The suspect has been accused of extortion in the business and extorting businesses in the past.
-
-The CID is conducting further investigations into the suspect he was brought to the island.
-
-◼️
-
-[Data](articles/7a9fd628.json)
-
-[Extended Data](ext_articles/7a9fd628.ext.json)
 
 ---

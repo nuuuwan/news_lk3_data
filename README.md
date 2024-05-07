@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 14:18:10**
+As of **2024-05-07 14:33:34**
 
 ## Newspaper Stats
 
@@ -26,17 +26,21 @@ adaderanasinhalalk | 3,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,301 (99.2%) of 22,482 articles have been extended.
+22,319 (99.3%) of 22,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
 
-### எம்.பியின் வீட்டில் மின்சாரம் துண்டிப்பு
+### Electricity disconnection in MP's house
 
 *2024-05-07 13:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பியின்-வீட்டில்-மின்சாரம்-துண்டிப்பு/175-336888) · `ta`
 
-எவ்வித அறிவிப்பும் இன்றி தனது வீட்டில் மின்சாரம் துண்டிக்கப்பட்டதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கொழும்பு மாவட்ட உறுப்பினர்  ஜகத் குமார சுமித்ராராச்சி பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) தெரிவித்தார்.
+Jagath Kumara Sumitrarachchi, a Colombo district member, reported in Parliament that his home's electricity was cut off without notice. He mentioned the need for 12 million rupees to restore power, but it's unclear how the power outage occurred. The Minister of Power and the Chief Electrical Inspector have been notified.
+
+🟩
+
+Colombo district member Jagath Kumara Sumitrarachchi said in Parliament on Tuesday (07) that the power supply was cut off at his home without any notice.
 
 12 ஆயிரம் ரூபாய் கட்டணத்தை வேண்டும் என்று கூறிய அவர், பாராளுமன்ற உறுப்பினர் வீட்டில் முன்னறிவிப்பின்றி  மின்சாரம் துண்டிக்கப்பட்டால், சாமானியர்களின் வீடுகளில் எப்படி மின்சாரம் துண்டிக்கப்படும் என்பதை நினைத்துப் பார்க்க முடியவில்லை என்றார்.
 
@@ -45,6 +49,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8267625d.json)
+
+[Extended Data](ext_articles/8267625d.ext.json)
 
 ---
 
@@ -79,6 +85,8 @@ The victim’s body has been placed at the Vavuniya Hospital’s Mortuary, while
 ◼️
 
 [Data](articles/3d93f6d8.json)
+
+[Extended Data](ext_articles/3d93f6d8.ext.json)
 
 ---
 
@@ -141,6 +149,8 @@ Accordingly, the two masons who were later arrested had confessed to the police 
 ...
 
 [Data](articles/1de31b59.json)
+
+[Extended Data](ext_articles/1de31b59.ext.json)
 
 ---
 
@@ -274,21 +284,33 @@ Q. When you invest this, the opposition accuses the sale of this movement.
 
 ---
 
-### රැවුල් කුමාරගේ කුඩු අපුරටම බෙදූ හූරිගස්වැව අක්කා අල්ලයි
+### Sister arrested for Velunious Kumara's drug berth
 
 *2024-05-07 13:09:46* · [`adalk`](https://www.ada.lk/breaking_news/රැවුල්-කුමාරගේ-කුඩු-අපුරටම-බෙදූ-හූරිගස්වැව-අක්කා-අල්ලයි/11-409469) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු වන, දැනට බූස්ස බන්ධනාගාරයේ අධි ආරක්ෂිත කලාපයේ සිර කුටියක රදවා සිටින, "රැවුල් කුමාර" නැමැත්තාගේ මත් කුඩු අනුරාධපුර දිස්ත්‍රික්කය තුල තොග වශයෙන් බෙදා හරිමින් සිටි කාන්තාවක්, රුපියල් කෝටියකට ආසන්න හෙරොයින්  මත්කුඩු තොගයක් සමග ඊයේ (7දා) අත්අඩංගුවට ගත් බව අනුරාධපුර කොට්ඨාස අපරාධ විමර්ශන අංශය පවසයි.
+A 36-year-old woman from Hurigaswewa was arrested in the Uwe-Prison for drug trafficking, with 250mg of heroin, smartphones, and a scale found in her possession.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ හුරිගස්වැව  පොලිස් වසමේ පදිංචි 36 හැවිරිදි  කාන්තාවකි.
+🟩
 
-පසුගිය වසරක පමණ කාලය තුල මෙම රැවුල් කුමාර නැමැති සැකකරුගේ මත්කුඩු අනුරාධපුර දිස්ත්‍රික්කයේ බෙදා හරිමින් සිටි කාන්තාවන් ඇතුළුව පුද්ගලයන් 16 දෙනෙකු  රුපියල් කෝටි දෙකකට වැඩි හෙරොයින් මත්කුඩු සහ අයිස් මත්ද්‍රව්‍ය සමග මේ දක්වා කාලය තුල අත්අඩංගුවට ගෙන ඇති බවද අනුරාධපුර කොට්ඨාස අපරාධ අංශයේ  බුද්ධි ඒකකය  සඳහන් කළේය.
+A woman who has been detained in the Uwe-Prison in the Colombo High-Security Zone, a woman who has been detained in the Uweera jar.The Criminal Investigation Division says.
 
-මත්ද්‍රව්‍ය චෝදනා සම්බන්ධයෙන් මීට දින කිහිපයකට පෙර අත්අඩංගුවට ගත් පුද්ගලයෙකු අධිකරණයට  ඉදිරිපත් කර රැඳවුම් නියෝග ලබා ගෙන රම සැකකරුගෙන්  සිදු කල වැඩි දුර ප්‍රශ්න කිරීම් වලදී "හුරිගස්වැව අක්කා" නමින් ප්‍රචලිත මෙම කාන්තාව අත්අඩංගුවට ගත් බව පොලිසිය පවසයි.
+The 36-year-old woman was a 36 year old resident of Hurigaswewa police division.
 
-...
+The intelligence unit of the Anuradhapura Divisional Crimes Division said that 16 persons, including women who were distributed in the Anuradhapura District, have been arrested along with more than Rs.
+
+The woman was arrested as 'Hurigaswewa Sister Sister', 'Hurigaswewa Sister', police said.
+
+The suspects were found at least 250 milligrams of heroin, two smartphones, and a weighing electronic scale in the suspect's house at the time of this raid.
+
+The suspect is still revealed that heroin is currently working with Mr. Heroin, Thambuththegama, Rajanganaya, Rajanganaya, and Eppawala, Eppawala, and Eppawala, Eppawala and Kekawa areas.The police said.
+
+The suspect was to be produced before the Anuradhapura Magistrate's Court today (7th.
+
+◼️
 
 [Data](articles/e47b4f51.json)
+
+[Extended Data](ext_articles/e47b4f51.ext.json)
 
 ---
 
@@ -374,21 +396,29 @@ According to the complaint, the police have said that they have found the race a
 
 ---
 
-### දැනුම් දිමකින් තොරව විදුලිය විසන්ධි කිරිම ගැන පරික්ෂණයක්
+### Inspection to disconnect electricity without informing
 
 *2024-05-07 12:50:43* · [`adalk`](https://www.ada.lk/breaking_news/දැනුම්-දිමකින්-තොරව-විදුලිය-විසන්ධි-කිරිම-ගැන-පරික්ෂණයක්/11-409468) · `si`
 
-දැනුම්දීමකින් තොරව විදුලිය විසන්ධි කිරීම සම්බන්ධයෙන් විදුලිබල මණ්ඩලය පරීක්ෂණයක් පවත්වන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+Power and Energy Minister Kanchana Wijesekara announced an investigation into unauthorized electricity disconnections. He also acknowledged concerns about the impact on consumers unable to pay their bills. The minister defended his decisions, including contracts for electrical links and disconnections, and criticized those who make the government's job difficult. The Ceylon Electricity Board (CEB) is investigating allegations of organized groups causing disruptions.
 
-එහිදී රජය අපහසුතාවට පත් කිරීමට සංවිධානාත්මකව පිරිසක් කටයුතු කරන්නේද නැද්ද යන්න පිළිබඳ සොයා බලන බව අද (07දා) පාර්ලිමේන්තුවේදී වාචික පිළිතුරැ අපේක්ෂාවෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉදුනිල් මහතා යොමු කළ ප්‍රශ්නයකට පිළිතුරැ ලබා දෙමින් හෙතෙම සඳහන් කළේය.
+🟩
 
-මේ අතර දැනුම්දීමකින් තොරව පාර්ලිමේන්තු මන්ත්‍රී ජගත් කුමාර මහතාගේ නිවසේ ද විදුලිය විසන්දි කිරීමට කටයුතු කර ඇති බවද මෙහිදී අනාවරණය විය.
+Power and Energy Minister Kanchana Wijesekara said that a CEB is conducting an investigation into the power of electricity without notice.
 
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තුෂාර ඉදුනිල් - විදුලි බිල ගෙවා ගැනීමට අපහසු පාරිභෝගිකයින්ගේ විදුලිය කප්පාදුවක් මේ දින වල ඉතාමත් යහමින් සිදු වෙනවා. වෙනත් පෞද්ගලික කණ්ඩායමකට භාර දීලා, ඔවුන්ට කොමිස් මුදලක් ගෙවලා ඔවුන් විදුලිය විසන්ඳි කරගෙන යනවා.
+He further stated that in parliamentarian Thushara Indunil, acknowledged the question of whether the government is looking for whether a group of organizations will be inconvenienced or not.
+
+Meanwhile, it was revealed that the house of MP Jagath Kumara's at the house of Parliamentarian Kumara had also been transformed.
+
+The electricity cut of consumers who are unable to pay the electricity bill - the electricity cut to the electricity bill - the electricity cut to pay electricity bills is very good in these days. They are handed over to another private group, pay them a commission and they are using electricity.
+
+It's like the police. In the morning, a targone is not punished in the morning, but goes out of the morning tunnel. Isn't it extremely unfair to make the customer who can't pay because of too much electricity bills?
 
 ...
 
 [Data](articles/8aab35ce.json)
+
+[Extended Data](ext_articles/8aab35ce.ext.json)
 
 ---
 
@@ -440,19 +470,29 @@ Before the toss, Shakib was having a chat with head coach Sheikh Salahuddin and 
 
 ---
 
-### කෝටියක වත්කම් සමග මුදල් විශුද්ධිකරණය කළ සැකකරුවෙක් අල්ලයි
+### Suspect arrested with money with a core
 
 *2024-05-07 12:44:35* · [`adalk`](https://www.ada.lk/breaking_news/කෝටියක-වත්කම්-සමග-මුදල්-විශුද්ධිකරණය-කළ-සැකකරුවෙක්-අල්ලයි/11-409467) · `si`
 
-නීති විරෝධී ජාවාරම්වලින් උපයා ගත්, මුදලින් ලබාගත් රුපියල් ලක්ෂ සීයක් වටිනා වාහන කීපයක් ළඟ තබාගෙන සිටි පුද්ගලයකු මුදල් විශුද්ධිකරණය පනත යටතේ හිඟුරක්ගොඩ උල්පත්ගම ප්‍රදේශයේදී 06 වෙනිදා අත්අඩංගුවට ගත් බව පොළොන්නරුව කොට්ඨාශ අපරාධ විමර්ශන අංශය සඳහන් කරයි.
+A person involved in illegal activities, with a history of arrests and cannabis possession, was apprehended in Hingurakgoda. The suspect, who had no other income sources, was arrested with valuable vehicles.
 
-සැකකරු සතුව තිබූ අධි සුඛෝපභෝගී වෑන් රථයක්, ත්‍රීරෝද රථයක් සහ යතුරුපැදි කිහිපයක් අත්අඩංගුවට ගැනීමට හැකියාව ලැබුණු බව පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක ඒ.ටී. බණ්ඩාර මහතා අප කල විමසීයකදී සඳහන් කළේය.
+🟩
 
-මෙම සැකකරු හිඟුරක්ගොඩ උල්පත්ගම ප්‍රදේශයේ පදිංචි අවුරුදු තිස්න නමයක් වයසක අයකුවන අතර ඔහු සතුව ගංජා කිලෝග්‍රෑම් 01 ග්‍රෑම් 50 ළඟ තබාගෙන සිටියදී හිඟුරක්ගොඩ පොලිසිය මගින් අත්අඩංගෙන හිඟුරක්ගොඩ මහේස්ත්‍රාත් අධිකරණයේ නඩුවක් පැවරූ අයකු බවද ඒ පිළිබඳ පරීක්ෂණ කරන කොට්ඨාශ අපරාධ විමර්ශන අංශය පවසයි.
+The Criminal Investigation Unit stated that a person who was earned by illegal rackets and had several valuable vehicles was arrested in the Hingurakgoda Ulpamagama area under the Hingurakgoda Hingurakgoda.
 
-...
+OIC of the Criminal Investigation Division, OIC of the Polonnaruwa Division, Police Inspector AT. Mr. Bandara asked us.
+
+The suspect is an early nine years in the Hingurakgoda Magistrate's Court while he has a six kilogram of cannabis in the Hingurakgoda Police while he had a six kilogram of cannabis.
+
+Intelligence and Police investigations have revealed that the vehicles were obtained with a long time with a long time and had no other sources of income and there are several complaints at Minoririya and Hingurakgoda Police Stations.
+
+The OIC of the Polonnaruwa Divisional Inspector EB Bandara further stated that the arrested vehicles have been issued in the Hingurakgoda Police Station.
+
+◼️
 
 [Data](articles/b35b2a16.json)
+
+[Extended Data](ext_articles/b35b2a16.ext.json)
 
 ---
 
@@ -486,35 +526,51 @@ It is noteworthy that the police are conducting further investigations.
 
 ---
 
-### කෝටි 19 මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් තවත් කෝටි 2 ක් වටිනා වාහන තුනක් සොයා ගැනේ
+### 19 crores found three more than 2 vehicles worth more than 2 million vehicles
 
 *2024-05-07 12:33:46* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-19-මත්ද්‍රව්‍ය-ජාවාරම-සම්බන්ධයෙන්-තවත්-කෝටි-2-ක්-වටිනා-වාහන-තුනක්-සොයා-ගැනේ/11-409466) · `si`
 
-කඩුවෙල බෝමිරිය ප්‍රදේශයේදී අත්අඩංගුවට ගත් රුපියල් කෝටි 19 ක පමණ වටිනාකමකින් යුත් මත්ද්‍රව්‍ය  ජාවාරම සම්බන්ධයෙන් රැදවුම් නියෝග මත සිටි සැකකරු ගෙන් වැඩිදුර ප්‍රශ්න කිරීමේදී රුපියල් කෝටි දෙකක් පමණ වටිනා තවත් වාහන තුනක් සෙනසුරාදා (04)සොයා ගැනීමට බියගම පොලීසියට හැකිවී ඇත.
+Police found 19 crores of vehicles worth over 2 million, including luxury buses and cars, linked to a drug racket.
 
-මෙලෙස සොයා ගෙන තිබුණේ සුඛෝපභෝගී බස්රථයක්, හා නවීන පන්නයේ මෝටර් රථ දෙකකි.මෙම වාහන ගනේමුල්ල ප්‍රදේශයේ කුලී ගමන් සදහා වාහන සපයන ආයතනයකට සේවා කටයුතු සදහා යොදවා තිබියදී පොලිසිය සොයාගෙන ඇත.
+🟩
 
-මෙම වාහන දැනට සැගවී සිටින කෝටි 19 මත්ජාද්‍රව්‍ය ජාවාරමේ ප්‍රධාන සැකකරු වන දැනට සැගවී සිටින මත්ද්‍රව්‍ය ජාවාරම්කරු ගේ බිරිඳට අයත් බවට තොරතුරු අනාවරණය වීඇත.
+The Biyagama Police have been able to find another 350 million vehicles worth more than three million vehicles worth Rs.
 
-අත්අඩංගුවට ගෙන රැදවුම් නියෝග මත සිටි සැකකරු ගෙන් ප්‍රශ්න කිරීමේදී මින් පෙරද පෙජරෝ වර්ගයේ ජීප් රථයක් හා ස්කූටි වර්ගයේ යතුරු පැදි දෙකක් ද පොලීසිය සොයා ගෙන තිබුණි.
+The vehicles were found in a luxury bus, and two modern cars.
+
+It is revealed that the main suspect is the main suspect of the main suspect of the hygrology racket of the drug racket, which is currently hidden by these vehicles.
+
+Police also recovered two-scoo-type motorbikes and two motorcycles while being interrogated by the suspect.
 
 ◼️
 
 [Data](articles/d6f9dff6.json)
 
+[Extended Data](ext_articles/d6f9dff6.ext.json)
+
 ---
 
-### මාකඳුරේ මධූෂ්ගේ මත්ද්‍රව්‍ය ජාලය මෙහෙයවූ දෙන්නෙක්
+### Two persons who handed Makandura Madush's drug network
 
 *2024-05-07 12:31:55* · [`adalk`](https://www.ada.lk/breaking_news/මාකඳුරේ-මධූෂ්ගේ-මත්ද්‍රව්‍ය-ජාලය-මෙහෙයවූ-දෙන්නෙක්/11-409465) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු වන මියගිය මාකඳුරේ මධුෂ්ගේ මත්ද්‍රව්‍ය ජාලය මෙරට මෙහෙයවන බව පැවසෙන වතුපිටිය පතිරනගේ දමිත් ප්‍රභාෂිත අත්තනායක හෙවත් මාකොළ සුද්දා ඇතුළු දෙදෙනෙකු එක්කොටි හතලිස් ලක්ෂයක අයිස් මත් ද්‍රව්‍ය තොගයක් සමග අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය පවසයි.
+The Police Special Task Force arrested Makandura Madush's drug network, seizing digital scales, phones, and cash. Two suspects were taken into custody after a raid near Kadawatha, Colombo.
 
-ඒ සමග මත්ද්‍රව්‍ය ජාවාරමේන් උපයා ගත් බවට් සැක ජෙරෙන රුපියල් 8,400.00 , ඩිජිටල් තරාදියක්, ජංගම දුරකථන 05 , මුදල් ගනුදෙණු සටහන් පොතක්ද ,හා සැකකරුවන් දෙදෙනා සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ එකයි ග්‍රෑම් 22 මිලිග්‍රෑම් 650 පොලිස් භාරයට ගෙන තිබේ.
+🟩
+
+The Police Special Task Force, who is said to be arrested with the drug network of Makandura Madushuge, who is a group of well-known criminal gang leader.
+
+Baortaranna, a Digital scale, a digital scales, five mobile phones, a cash transaction notebook and the two suspects were taken into custody.
+
+According to information received by the Special Task Force intelligence, a raid was carried out near the Extension of Police, Kadawatha - Colombo, Kerawalapitiya expressway.. A STF officer inaugurated the car with the back of the car and had fled the vehicle's rear wheel and was later arrested by the Special Task Force officials.Available.
+
+The suspect was later inspected by the car when he inspected the car at the Grandpass, Madush Lakshituwa, near the Grandpass Campaign Complex in Sri Lanka.A person who has committed close relations with Madushhs, a person who has been arrested with a person with 1 kilograms of ice drugs and 68 mm.
 
 ...
 
 [Data](articles/6c4802e5.json)
+
+[Extended Data](ext_articles/6c4802e5.ext.json)
 
 ---
 
@@ -533,6 +589,8 @@ Minister Wijesekara said there was a proper procedure for power disconnections a
 ...
 
 [Data](articles/648aefc3.json)
+
+[Extended Data](ext_articles/648aefc3.ext.json)
 
 ---
 
@@ -1128,19 +1186,25 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 
 ---
 
-### මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරි වෙඩි තබා මරා දැමීම සදහා ඔත්තු බැලූ අයෙක් අත්අඩංගුවට
+### Suspect arrested for shooting the Treasury of the Public Health Inspectors Association
 
 *2024-05-07 11:01:35* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-සෞඛ්‍ය-පරීක්ෂකවරුන්ගේ-සංගමයේ-භාණ්ඩාගාරි-වෙඩි-තබා-මරා-දැමීම-සදහා-ඔත්තු-බැලූ-අයෙක්-අත්අඩංගුවට/11-409464) · `si`
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා වෙඩි තබා මරා දැමීම ඇතුළු තවත් මිනීමැරුම් ගනනාවක් සදහා පොලිස් විමර්ශන සදහා  අවශ්‍යව  සිටි ඇල්පිටිය ප්‍රදේශයේ පදිංචිකරුවෙකු වෙනත් නමකින් කූඨ ලෙස  සකස් කර ගත් ව්‍යාජ ගමන් බලපත්‍රයක් උපයෝගී කර ගනිමින් ඩුබායි බලා පළා යාමට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියදී , ස්වයංක්‍රීය මුහුණු හදුනා ගැනීමේ පද්ධතිය  ( Facial Recognition System ) මගින් හදුනා ගැනීමෙන් පසුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් 05/06 දින රාත්‍රී  අත් අඩංගුවට ගෙන තිබේ .
+A 30-year-old from Elpitiya, a former Sri Lanka Army Commando, was arrested for shooting and killing the Treasurer of the Sri Lanka Public Health Inspectors Association.
 
-ඔහු ඇල්පිටිය , කරන්දෙණිය ප්‍රදේශයේ පදිංචි 30 හැවිරිදි පුද්ගලයෙකි. ඔහු කළක් ශ්‍රී ලංකා යුධ හමුදාවේ කොමාන්ඩෝ රෙජිමේන්තුවේ සේවය කර , එය හැර ගිය අයෙකි .
+🟩
 
-මොහු මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරිකවරයා වෙඩි තබා මරා දැමීම සදහා ඔත්තු බැලූ බවට පොලිසිය විසින් කරුණු අනාවරණය කර ගෙන තිබේ . (IJ)
+When a resident of Elpitiya, which was required to shoot and killing the Treasurer of the Sri Lanka Public Health Inspectors Association, an automatic facesThe Criminal Investigations Department officials have been arrested by the Criminal Investigation Department on 26/06 after the identification system was identified.
+
+He is a 30 year old resident of Karandeniya area in Elpitiya. He was a man of the Sri Lanka Army's Commando Regiment, and he was left.
+
+Police have revealed that the Treasurer of the Public Health Inspectors Association was disclosed to kill. (Ij)
 
 ◼️
 
 [Data](articles/5ad19122.json)
+
+[Extended Data](ext_articles/5ad19122.ext.json)
 
 ---
 

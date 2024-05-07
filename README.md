@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 02:49:54**
+As of **2024-05-08 03:03:16**
 
 ## Newspaper Stats
 
@@ -26,115 +26,167 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,605 (100.0%) of 22,613 articles have been extended.
+22,613 (100.0%) of 22,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### விவசாயத்துறையை நவீனமயப்படுத்துவதற்காக 100 மில்லியன் அமெரிக்க டொலர் முதலீடு - ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன
+### US $ 100 million to modernize agriculture
 
 *2024-05-08 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182934) · `ta`
 
-இலங்கையில் விவசாய மற்றும் வனப் பாதுகாப்புத் திட்டமொன்றில் இணைந்து செயற்படுவதற்கான புரிந்துணர்வு ஒப்பந்தம் செவ்வாய்க்கிழமை (07) ஜனாதிபதி அலுவலகத்தில் கைச்சாத்திடப்பட்டது.
+A $100M MoU signed for modernizing agriculture in Sri Lanka, aiming to increase yields and incomes. The project, backed by the Climate Risk Forum and NATIVA Capital, will benefit 15,000 farmers in Anuradhapura.
 
-இலங்கையின் காலநிலை மாற்ற செயலகம் சார்பாக காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன, காலநிலை இடர் மன்றம் (CVF) சார்பாக அதன் பொதுச் செயலாளர் முன்னாள் மாலைதீவு ஜனாதிபதி மொஹமட் நஷிட் மற்றும் போர்த்துக்கலின் Nativa Capital நிறுவனம் சார்பில் அதன் பிரதம நிறைவேற்று அதிகாரி கார்லோஸ் கோமஸ் ஆகியோர்  இந்த ஒப்பந்தத்தில் கைச்சாத்திட்டனர்.
+🟩
 
-விவசாய விளைச்சல் மற்றும் விவசாயிகளின் வருமானத்தை அதிகரிக்கும் நோக்கத்துடன் மேம்படுத்தப்பட்ட மற்றும் நிலைபேறான விவசாய முறைகளை அறிமுகப்படுத்துவதன் மூலம் இலங்கையில் உள்ள கிராமப்புற சமூகங்களின் வீட்டு விவசாயத்தை மேம்படுத்துவதை இந்த ஒப்பந்தம் நோக்கமாகக் கொண்டுள்ளது. இலங்கையில் உள்ள பல விவசாய நிலங்கள் தற்போது சிறிய அளவில் உள்ளன. எனவே, குறைந்த விளைச்சல் மற்றும் குறைந்த வருமானம் ஆகியவற்றால் இவர்கள் பாதிக்கப்படுகின்றனர்.
+A Memorandum of Understanding (MoU) to work in an agrarian and forest protection program in Sri Lanka was signed on Tuesday (07).
+
+President's Senior Advisor to Climate Change Secretariat, Ruwan Wijewardena on Climate Change, Carlos Gomas on behalf of its General Secretary Mohamed Nasit on behalf of the Climate Risk Forum (CVF) and its Chief Executive Officer on behalf of the NATIVA Capital Institute of Portugal.
+
+The agreement is aimed at improving the agricultural farming of rural communities in Sri Lanka by introducing upgraded and sustainable agricultural systems with the aim of increasing agricultural yields and farmers' incomes.. Many agricultural lands in Sri Lanka are currently small. Therefore, they suffer from low yield and low income.
 
 ...
 
 [Data](articles/3da1190b.json)
 
+[Extended Data](ext_articles/3da1190b.ext.json)
+
 ---
 
-### பராடே சட்டத்தை இரண்டு வருடங்களுக்கு இடை நிறுத்த எதிர்க்கட்சி தலைவரின் திருத்தம் சபையில் 25 மேலதிக வாக்குகளால் தோற்கடிப்பு
+### Opposition Leader Amendment to suspend Parade Act for two years
 
 *2024-05-08 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182933) · `ta`
 
-வங்கிகளால் வழங்கப்பட்ட கடன்கள் அறவிடுதல்(விசேட ஏற்பாடுகள்) (திருத்தச்) சட்டமூலத்துக்கு எதிர்க்கட்சித் தலைவர் முன்வைத்த திருத்தம் 25 மேலதிக வாக்குகளால் சபையில் தோற்கடிக்கப்பட்டது.
+Opposition Leader Sajith Premadasa's amendment to suspend the Parade Act for two years was defeated in Parliament, despite proposing to extend the suspension until December 15, 2026. The amendment, aimed at halting legal action against small and medium businesses for loan repayments, was rejected by 25 votes.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) வங்கிகளால் வழங்கப்பட்ட கடன்கள் அறவிடுதல்(விசேட ஏற்பாடுகள்) (திருத்தச்) சட்டமூலம் மீதான விவாதம் இடம்பெற்றது. குறித்த சட்டமூல திருத்தத்துக்கு ஆளும், எதிர்க்கட்சி உறுப்பினர்கள் ஆதரவாக உரையாற்றினர்.
+🟩
 
-குறிப்பாக சிறிய மற்றும் நடுத்தர தொழிலாளர்கள் பராடே சட்டத்தின் கீழ் பெற்றுக்கொண்ட கடனை மீள செலுத்த தவறும் பட்சத்தில் வங்கி, அது தொடர்பில் எடுக்க முடியுமான சட்ட நடவடிக்கையை  எதிர்வரும் டிசம்பர் 15ஆம் திகதிவரை தற்காலிகமாக இடை நிறுத்துவதற்கு இதன் மூலம் நடவடிக்கை எடுக்கப்பட்டிருந்தது.
+The amendment by the Opposition Leader of the Opposition to the Amendment Bill (Special arrangements) (Special Provisions) Bill was defeated in the House with 25 additional votes.
 
-குழுநிலையில் சட்டமூலத்தில் திருத்தம் மேற்கொள்ள சபைக்கு தலைமை தாங்கிய பிரதி சபாநாயகரின் தலைமையில் கூடியபோது,
+The debate on the Bill (Amendment) Bill was held in Parliament on Tuesday (7). The ruling and opposition members addressed the amendment.
+
+In particular, the bank has taken steps to suspend the legal action that small and medium workers fails to repay the loan received under the Parade Act until December 15.
+
+When the Deputy Speaker, who chaired the council to amend the bill in the committee, was chaired by the Speaker of the House,
+
+Opposition Leader Sajith Premadasa proposed amendments to the amendment to the amendment until December 15, 2026.. However, the amendment can be accepted in the present legislation, but the amendment can be made in the future, ”said the Chief Minister of the Council Susil Premajayantha.
 
 ...
 
 [Data](articles/e56ff2bd.json)
 
+[Extended Data](ext_articles/e56ff2bd.ext.json)
+
 ---
 
-### 20 ஓட்டங்கள் வித்தியாசத்தில் ராஜஸ்தான் ராயல்ஸை வீழ்த்திய டெல்லி கேபிடல்ஸ் அணி
+### Delhi Capitals team beat Rajasthan Royals by 20 runs
 
 *2024-05-08 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182932) · `ta`
 
-ஐபிஎல் தொடரின் 56வது லீக் போட்டியில் டெல்லி கேபிடல்ஸ் - ராஜஸ்தான் ராயல்ஸ் அணிகள் மோதின.
+Delhi Capitals beat Rajasthan Royals by 20 runs in the 56th IPL match. Delhi lost 221 runs, with Jack Brazer scoring 50. Rajasthan scored 222 runs, with Sanju Samson's 86 being the highlight.
 
-இந்த போட்டியில் நாணய சுழற்சியில் வெற்றி பெற்ற ராஜஸ்தான் அணி முதலில் பந்துவீச்சைத் தேர்வு செய்தது.
+🟩
 
-இதையடுத்து டெல்லி அணியின் முன்வரிசை வீரர்களான களம் இறங்கிய வீரர் ஜேக் பிரேசர் 20 பந்துகளில் 50 ஓட்டங்கள் குவித்து ஆட்டமிழந்தார். அபிஷேக் போரல் 36 பந்துகளில் 65 ஓட்டங்கள் குவித்தார். டிரிஸ்டன் ஸ்டப்ஸ் கடைசி நேரத்தில் 20 பந்துகளில் 41 ஓட்டங்கள் சேர்த்தார். குலாபுதீன் 15 பந்துகளில் 19 ஓட்டங்கள் எடுத்தார். 20 ஓவர்கள் முடிவில் 8 விக்கெட்டுகளை இழந்த டெல்லி அணி 221 ஓட்டங்களை எடுத்துள்ளது.
+Delhi Capitals - Rajasthan Royals clash in the 56th league match of the IPL.
 
-...
+The Rajasthan team won the match in this match first and elected to bowl first.
+
+Jack Brazer, who was the leading player of the Delhi team, was bowled out for 50 off 20 balls.. Abhishek Barrel scored 65 runs off 36 balls. Triston Stubs added 41 runs off 20 balls last time. Gulabuddin scored 19 runs off 15 balls. Delhi lost 221 runs to lost 8 wickets at the end of 20 overs.
+
+Rajasthan Royals then scored 222 runs to win 222 runs.. Sanju Samson, the next team captain, played brilliantly. Ryan Barack scored 27 runs off 22 balls. Next, Subham Dubey formed an alliance with Audi Sanju Samsan. Sanju Samson, who scored 50 runs, scored 86 off 46 balls.
+
+Accordingly, Rajasthan Royals scored only 201 runs for the loss of 8 wickets in 20 overs. Delhi Capitals won by 20 runs.
+
+◼️
 
 [Data](articles/d65b1e21.json)
 
+[Extended Data](ext_articles/d65b1e21.ext.json)
+
 ---
 
-### நீதிமன்றத்தை அவமதிக்கும் கருத்து தொடர்பில் விசாரணை செய்யுங்கள் - ஆளும், எதிர்தரப்பு நீதியமைச்சரிடம் கோரிக்கை
+### Investigate comment on contempt of court
 
 *2024-05-08 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182931) · `ta`
+
+Finance Minister Sehan Semasinghe criticizes JVP member Harini Amarasuriya for allegedly promising party members control over police and courts. Justice Minister requested to investigate. Senior LTTE member allegedly gave court powers in their regime. People must decide if they trust those seeking state power. Current generation may not understand the implications.
+
+🟩
 
 ...
 
 [Data](articles/499fe13b.json)
 
+[Extended Data](ext_articles/499fe13b.ext.json)
+
 ---
 
-### சுற்றுலாப் பயணிகளிடம் அறவிடப்படும் விசா சேவை கட்டண அறவீடு மத்திய வங்கி மோசடியை விட பல மடங்கு அதிகம் - ரவூப் ஹக்கீம்
+### Visa Service Payment Charges to Tourists Many times More than Central Bank Fraud
 
 *2024-05-08 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182930) · `ta`
 
-சுற்றுலாப் பயணிகளுக்கு விசா சேவை வழங்கும் தனியார் நிறுவனத்துக் கிடைக்கும் நிதி, மத்திய வங்கி மோசடியைவிடப் பல மடங்கு அதிகமாகும். அதனால் இது தொடர்பில் விசேட விசாரணை மேற்கொள்ள வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் தெரிவித்தார்.
+Visa service charges to tourists are significantly higher than central bank fraud, with funds allocated for visa services being 18.6 times more than allocated for other allowances. Sri Lanka Muslim Congress leader Rauf Hakeem calls for a special inquiry into the massive fraud on visa issuance for foreigners.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற வங்கிகளால் வழங்கப்பட்ட கடன்கள் அறவிடுதல் (விசேட ஏற்பாடுகள்) (திருத்தச்) சட்டமூலம் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் ஊழல் மோசடிகள் தொடர்பில் சர்வதேச நாணய நிதியம் எமது நாட்டுக்கு புதிய முறைமை ஒன்றை அறிமுகப்படுத்தியுள்ள நிலையில், நாட்டுக்குள் வரும் வெளிநாட்டவர்களுக்கான விசா வழங்குவதில் பாரிய மோசடி இடம்பெற்று வருவது தொடர்பில் கடந்த சில தினங்களாக ஊடகங்களில் தலைப்புச் செய்திகளாக வெளியிடப்பட்டு வருகிறது. ஆனால் அரசாங்கம் இது தொடர்பில் என்ன நடவடிக்கை எடுத்திருக்கிறது.? சுற்றுலாப் பயணிகளிடமிருந்து மேலதிகமாக 25 டொலர்களை அறவிட நடவடிக்கை எடுத்திருக்கிறது. இந்த வருடத்தில் 2.5 மில்லியன் சுற்றுலாப் பயணிகள் வருகை தர இருப்பதாக எதிர்வு கூறப்பட்டிருக்கிறது.
+Funds available for a visa service for tourists are many times higher than the central bank fraud. Sri Lanka Muslim Congress leader Rauf Hakeem said a special inquiry should be made.
+
+He said this while addressing the debate on the Bill of Parliament on Tuesday (7).
+
+As the International Monetary Fund has introduced a new system to our country on corruption scandals, the media has been publishing headlines in the media over the past few days regarding a massive fraud on issuing visa for foreigners in the country.. But what action has the government taken in this regard?Steps have been taken to accommodate $ 25 from tourists. It is expected that 2.5 million tourists will visit this year.
 
 ...
 
 [Data](articles/4de7ef89.json)
 
+[Extended Data](ext_articles/4de7ef89.ext.json)
+
 ---
 
-### மறுசீரமைப்புக்களில் ஏற்படக்கூடிய தடைகள் பொருளாதார மீட்சியில் பாரிய பின்னடைவை ஏற்படுத்துமென எச்சரிக்கிறது மத்திய வங்கி
+### The Central Bank warns that the obstacles in reorganization will cause massive setbacks in the economic recovery
 
 *2024-05-08 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/182929) · `ta`
 
-நாட்டின் பொருளாதாரம் இவ்வாண்டு இறுதியில் மொத்த உள்நாட்டு உற்பத்தி வளர்ச்சி 3 சதவீதமாகவும், ஆண்டுக்கான சராசரி பணவீக்கம் 5 சதவீதமாகவும் பதிவாகும் என எதிர்வுகூறியிருக்கும் இலங்கை மத்திய வங்கி, இருப்பினும் தற்போது முன்னெடுக்கப்பட்டுவரும் மறுசீரமைப்பு செயன்முறைகளில் ஏற்படக்கூடிய தடைகள் பொருளாதார மீட்சி மற்றும் வளர்ச்சியில் பாரிய பின்னடைவை ஏற்படுத்துமென எச்சரித்துள்ளது.
+The Central Bank of Sri Lanka warns that obstacles to economic recovery will cause setbacks. Despite significant recovery from the economic crisis, challenges remain. Inflation has decreased, but economic growth ended in the second half of 2023. The economy's performance varied across sectors, with agriculture, industrial, and service sectors showing different impacts. For 2024, real GDP growth is predicted at 3%, average inflation at 5%, and foreign office quotas at 3.4%. The Central Bank emphasizes maintaining prices and ensuring economic growth through reorganization, including projects by the IMF.
 
-அதேபோன்று கடந்த ஆண்டு ஊழியர் சேமலாப நிதிய மீதியில் ஏற்பட்ட வீழ்ச்சிக்கு பலரும் தமக்குரிய நிதியை மீளப்பெற்றுக்கொண்டமையே காரணமாக அமைந்ததாக சுட்டிக்காட்டியிருக்கும் மத்திய வங்கி, இவ்வருடம் அந்நிதியத்துக்கான பங்களிப்பு மீண்டும் உயர்வடைந்திருப்பதாகத் தெரிவித்துள்ளது.
+🟩
+
+The Central Bank of Sri Lanka, which has announced that the country's economy will be recorded at 3 per cent and the average inflation of the year by 3 per cent this year, has warned that the barriers to the ongoing restoration process will cause a massive setback in economic recovery and growth.
+
+Similarly, the Central Bank, pointing out that many people have retrieved their funds last year, have been re -contributed to the contribution of the Fund.
+
+Article 80 of the Central Bank Act of Sri Lanka, Article 80 of the Central Bank Act of 2023, and the Central Bank's financial claims for the year 2023 and the Central Bank's financial claims for the last year were published two weeks ago, a media briefing to explain its content on Tuesday (7)Organized in the auditorium.
+
+Accordingly, in the Economic Review of 2023, the key issues indicated on the country's economic situation are:
 
 ...
 
 [Data](articles/3ad0b025.json)
 
+[Extended Data](ext_articles/3ad0b025.ext.json)
+
 ---
 
-### அநுராதபுரத்தில்  15 000 குடும்பங்களை அடிப்படையாகக்கொண்டு நவீன விவசாய ஊக்குவிப்பு திட்டம் - ருவான் விஜேவர்தன
+### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
 
 *2024-05-08 00:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/182928) · `ta`
 
-சர்வதேச மற்றும் உள்நாட்டு நிறுவனங்களின் கூட்டு முதலீட்டில் அநுராதபுரத்தில் தேர்ந்தெடுக்கப்பட்ட 15 000 விவசாய குடும்பங்களை அடிப்படையாகக் கொண்ட நவீன விவசாய ஊக்குவிப்பு திட்டம் நடைமுறைப்படுத்தப்படவுள்ளது. 20 - 25 ஆண்டுகளுக்கு இத்திட்டம் நடைமுறைப்படுத்தப்படவுள்ளதோடு, எதிர்காலத்தில் ஏனைய மாவட்டங்களிலும் இதனை விரிவுபடுத்தத் திட்டமிடப்பட்டுள்ளதாகக் காலநிலை தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவான் விஜேவர்தன தெரிவித்தார்.
+Anuradhapura's 15,000 families are part of a 20-25 year modern agricultural promotion scheme led by Ruwan Wijewardena. A training center with foreign investment will increase income, with $6,000 per family for solar power plants. Products like vegetables and fruits will be exported. The project aims to expand to other districts.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-அநுராதபுரத்தில் 15 000 விவசாய குடும்பங்களுக்கு வருமானத்தை அதிகரிப்பதற்கான அறிவினை வழங்குவதற்காக வெளிநாட்டு முதலீட்டுடன் பயிற்சி நிலையம் ஸ்தாபிக்கப்படவுள்ளது. இதற்கு நெடீவா என்ற குறித்த வெளிநாட்டு நிறுவனம் குடும்பமொன்றுக்கு 6000 டொலர்களை ஒதுக்கியுள்ளது. அதற்கமைய அந்த குடும்பங்களுக்கு சூரிய மின் உற்பத்தி களம் உள்ளிட்ட தேவையான பொருட்கள் வழங்கப்படும்.
+A modern agricultural promotion scheme based on 15 000 agricultural families selected in Anuradhapura. Ruwan Wijewardena, the President's Senior Advisor to the Climate, said that the project will be implemented for 20 to 25 years and is planning to expand it in other districts in the future.
+
+He further stated this at a press conference held at the Presidential Media Center on Tuesday (7).
+
+Training Center with foreign investment will be set up to provide an increase in income for 15 000 agricultural families in Anuradhapura.. For this, a foreign company called Nediva has allocated $ 6,000 to a family. Accordingly, the families will be provided with necessary items, including solar power plant.
 
 ...
 
 [Data](articles/4ad41219.json)
+
+[Extended Data](ext_articles/4ad41219.ext.json)
 
 ---
 
@@ -685,6 +737,8 @@ The controversy stems from a complaint alleging that a student did not receive i
 ...
 
 [Data](articles/d9693006.json)
+
+[Extended Data](ext_articles/d9693006.ext.json)
 
 ---
 

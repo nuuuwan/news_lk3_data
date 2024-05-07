@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 16:33:44**
+As of **2024-05-07 16:50:38**
 
 ## Newspaper Stats
 
-*Scraped **22,507** Articles*
+*Scraped **22,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,279
 dailyftlk | 1,307
 adalk | 1,893
 tamilmirrorlk | 2,622
-adaderanalk | 2,649
+adaderanalk | 2,650
 virakesarilk | 3,364
-dailymirrorlk | 3,526
-adaderanasinhalalk | 3,610
+dailymirrorlk | 3,527
+adaderanasinhalalk | 3,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,397 (99.5%) of 22,507 articles have been extended.
+22,417 (99.6%) of 22,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Fowzie’s son arrested over assault incident
+
+*2024-05-07 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99066/fowzies-son-arrested-over-assault-incident) · `en`
+
+Former Provincial Councillor Nauzer Fowzie has been arrested for allegedly assaulting a person following a road accident involving his vehicle, police said.
+
+Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been released on police bail.
+
+◼️
+
+[Data](articles/27566df3.json)
+
+---
+
+### ෆවුසිගේ පුත්‍රයා අත්අඩංගුවට
+
+*2024-05-07 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196373) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඒඑච්එම් ෆවුසි මහතාගේ පුත්‍රයාව කොල්ලුපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ රිය අනතුරක් සිදුකර අනතුරට ලක්වූ මාර්ගයේ ගමන්කළ පුද්ගලයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+කොල්ලුපිටිය පාසල් මාවත ප්‍රදේශයේදී මාර්ගයේ ගමන්කරමින් සිටි අයෙකු අනතුරට ලක්වීමෙන් අනතුරුව අනතුරට ලක්වූ පුද්ගලයාට පහරදීම සම්බන්ධයෙන් ඔහුට එරෙහිව චෝදනා එල්ලවී ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් කොල්ලුපිටිය පොලීසිය පරීක්ෂණ සිදුකර සැකකාර ඒඑච්එම් ෆවුසි මහතාගේ පුත්‍රයාව අත්අඩංගුවට ගෙන අනතුරුව පොලිස් ඇප මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/de01f79e.json)
+
+---
 
 ### Putin sworn in as Russian president for fifth term
 
@@ -47,6 +79,18 @@ At the ceremony inside the gilded Grand Kremlin Palace, Putin placed his hand on
 [Data](articles/ab14fc36.json)
 
 [Extended Data](ext_articles/ab14fc36.ext.json)
+
+---
+
+### Legal battle on SLFP positions: Wijeyadasa’s application dismissed
+
+*2024-05-07 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-battle-on-SLFP-positions-Wijeyadasas-application-dismissed/108-282100) · `en`
+
+Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Minister Wijeyadasa Rajapakshe challenging the legality of the enjoining order issued by the Colombo District Court preventing him from functioning as the acting chairman of the Sri Lanka Freedom Party (SLFP) was today dismissed by the Court of Appeal.
+
+◼️
+
+[Data](articles/bb3c0f9a.json)
 
 ---
 
@@ -2261,87 +2305,5 @@ Responding, Judge Turai Raja said that there was a delay in the activities as th
 [Data](articles/e800d974.json)
 
 [Extended Data](ext_articles/e800d974.ext.json)
-
----
-
-### Manna Ramesh was brought to Sri Lanka
-
-*2024-05-07 07:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னா-ரமேஷ்-இலங்கை-அழைத்து-வரப்பட்டார்/175-336872) · `ta`
-
-Manna Ramesh, leader of an underworld gang, was arrested in Dubai and brought to Sri Lanka by the CID. He's suspected of planning crimes in Dubai and is sought by Sri Lankan police for crimes including killings in Avissawella.
-
-🟩
-
-Ramesh Priyanaka, the leader of the underworld gang, who was arrested in Dubai, was brought to Sri Lanka by the Criminal Investigation Department (CID), the police media spokesman said.
-
-Deputy Inspector General of Police Nihal Talduwa said that a team of special officials of the Criminal Investigation Division (CID) arrived at the Katunayake Bandaranaike International Airport (BIA) this morning (07).
-
-Sri Lankan security forces have reportedly received information on March 6 that Ramesh Priyanaka, a famous underworld man, known as 'Manna Ramesh' in Dubai, has been arrested.
-
-Accordingly, a team of police officers was sent to Dubai to take him back to Sri Lanka at a request to the Dubai police to hand over the culprit to the Sri Lankan authorities.
-
-...
-
-[Data](articles/23d865ec.json)
-
-[Extended Data](ext_articles/23d865ec.ext.json)
-
----
-
-### Several deadly accidents
-
-*2024-05-07 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196352) · `si`
-
-Four women died in accidents across Nittambuwa, Walapane, Kilinochchi, and Mattegoda. A 31-year-old man survived an accident in Galpotutena. A bag fell into a precipice, a bus hit a pavement on the Kandy-Jaffna A-9 road, and a 69-year-old woman died in Mattegoda. A van accident in Nittambuwa killed a 70-year-old woman, who was rushed to Vathupitiwala Hospital.
-
-🟩
-
-Four women, including two women, have died in a 24 hour accident.
-
-Police said that the accident had been reported in Nittambuwa, Walapane, Kilinochchi, Kilinochchi and Mattegoda Police Divisions.
-
-A 31-year-old man has become a group of students from an accident in the Galpotutena area of Walapane, Nilindana, Kalageda.
-
-A bag slipped away from the driver, slipped away from the road, and fell into a precipice.
-
-Meanwhile, a bus collided with a pavement that was traveling along the Paranthan area on the Kandy-Jaffna A-9 road.
-
-The victim was admitted to the Kilinochchi hospital.
-
-The victim was a 27 year old resident of Nelumkulam, Vavuniya Vavuniya.
-
-Meanwhile, a 69-year-old woman died in an accident in Mattegoda, Mattegoda, Kirimpamunuwa, Salugampamunaya main road.
-
-The accident had occurred when a car traveling along the road, police said.
-
-Meanwhile, a van in Nittambuwa maintains on the Colombo-Kandy main road was an accident with a woman traveled through the paved shift.
-
-...
-
-[Data](articles/58c0a514.json)
-
-[Extended Data](ext_articles/58c0a514.ext.json)
-
----
-
-### “If you do not make changes, I will resign”
-
-*2024-05-07 07:31:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றங்களை-மேற்கொள்ளாவிட்டால்-பதவி-விலகுவேன்/175-336871) · `ta`
-
-Tourism Minister Harinbonando threatens resignation over new visa procedures, citing opposition to VFS fees.
-
-🟩
-
-Commenting on the new Visa Procedure Controversy, Tourism Minister Harinbonando said he would resign from his post.
-
-Harinndo said at a cabinet meeting that he would resign if there were no changes in new visa procedures.
-
-When the new project was put forward, there was nothing to be reported on VFS fees but I had expressed my opposition when it was revealed.
-
-◼️
-
-[Data](articles/5fb79c99.json)
-
-[Extended Data](ext_articles/5fb79c99.ext.json)
 
 ---

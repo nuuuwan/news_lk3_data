@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 10:52:02**
+As of **2024-05-07 11:03:37**
 
 ## Newspaper Stats
 
-*Scraped **22,124** Articles*
+*Scraped **22,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 188
 bbccomsinhala | 227
 dbsjeyarajcom | 232
 newsfirstlk | 363
-islandlk | 1,202
+islandlk | 1,224
 dailyftlk | 1,240
 economynextcom | 1,248
 adalk | 1,855
@@ -26,9 +26,301 @@ adaderanasinhalalk | 3,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,122 (100.0%) of 22,124 articles have been extended.
+22,124 (99.9%) of 22,146 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-07 (Tuesday)
+
+### Industry EXPO 2024: International Industry Exhibition Set for June 19th -23rd at BMICH –
+
+*2024-05-07 05:05:00* · [`islandlk`](http://island.lk/industry-expo-2024-international-industry-exhibition-set-for-june-19th-23rd-at-bmich/) · `en`
+
+Minister of Industries and Health, Dr. Ramesh Pathirana, announced that the forthcoming “Industry EXPO 2024” will be held at the Bandaranaike Memorial International Conference Hall (BMICH) from June 19th to 23rd, under the patronage of President Ranil Wickremesinghe. Additionally, the minister highlighted the debut of the inaugural international conference alongside the prestigious “Industry Green Awards” ceremony, aimed at fostering a culture of sustainable practices within the industry.
+
+Minister Pathirana made these remarks while addressing a media briefing at the Presidential Media Centre (PMC) held on Monday (06) under the theme “Collective Path to a Stable Country”.
+
+Related Topics:“Industry EXPO 2024”“Industry Green Awards”Bandaranaike Memorial International Conference Hall (BMICH)Collective path to a stable country
+
+Heat Index at ‘Extreme Caution level’ in Northern, North-central and Eastern provinces and in Kurunegala and Monaragala districts
+
+...
+
+[Data](articles/681ac116.json)
+
+---
+
+### 2024-05-06 (Monday)
+
+### Classy scene…
+
+*2024-05-06 22:59:00* · [`islandlk`](http://island.lk/classy-scene/) · `en`
+
+Terry & The Big Spenders will be doing their thing at the Shangri-La, in Colombo, for the next six months.
+
+The eight-piece band is now featured on Wednesdays, Fridays, and Saturdays.
+
+Terry & The Big Spenders are probably the only outfit, with a horn section, performing on a regular basis.
+
+The music they dish out is predominantly vintage, says Viraj Perera, the leader of this versatile outfit.
+
+“It’s a lot of jazz, soul, Latin and funk and those who enjoy those classic ballads, from the ’60s to ’80s, are our big followers.”
+
+Late in the evening, at the mentioned venues, you could take the floor and dance to those classic ballads, says Viraj.
+
+And…Viraj added that Terry and the Big Spenders have always been about class.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f4f10e6d.json)
+
+---
+
+### Samson Rubber Products marks 30 years of innovation and excellence in solid tyre business
+
+*2024-05-06 22:43:00* · [`islandlk`](http://island.lk/samson-rubber-products-marks-30-years-of-innovation-and-excellence-in-solid-tyre-business/) · `en`
+
+This past April, Samson Rubber Products Pvt Ltd (SRP) commemorated its 30th anniversary with a grand celebration reflective of its deep-rooted cultural values and steadfast commitment to its workforce. The milestone event, held on April 27th, began with a traditional Pirith Chanting Ceremony, followed by a special recognition event for long-standing employees. The festivities culminated in a spectacular fireworks display, illuminating the Galle skies and celebrating three decades of success.
+
+Founded in 1994 by entrepreneur Ranatunga Rajapaksa, and now led by Managing Director Sajith Rajapaksa, SRP has been at the forefront of the industry through continuous innovation in technology, green manufacturing processes, and integrated supply chain solutions. These efforts underscore SRP’s commitment to sustainable business practices and world-class management.
+
+...
+
+[Data](articles/5ba5bb11.json)
+
+---
+
+### Pan Asia Bank and Janashakthi Life partner, forging an era of financial empowerment
+
+*2024-05-06 22:40:00* · [`islandlk`](http://island.lk/pan-asia-bank-and-janashakthi-life-partner-forging-an-era-of-financial-empowerment/) · `en`
+
+As a testament to its continuous devotion to its customers’ satisfaction, Pan Asia Bank, the Truly Sri Lankan Bank, has established a strategic partnership with Janashakthi Life. Through this agreement, a comprehensive insurance package will be offered, tailored to the ever-changing demands of the bank’s valued customers.
+
+Sharing a few words on the new partnership, Naleen Edirisinghe, CEO of Pan Asia Bank said, “We are delighted to announce our strategic partnership with Janashakthi Life, who is a longstanding partner of the bank, is another milestone in our mission towards offering comprehensive financial services to our esteemed clients. This partnership highlights our commitment to meeting the needs of our customers through our holistic services. Pan Asia Bank has always been an institution that values long-term relationships with customers and works hard to help them in reaching their financial goals with confidence and peace of mind.”
+
+...
+
+[Data](articles/00440409.json)
+
+---
+
+### Japan’s Foreign Minister visits Vijitha Yapa Bookshop
+
+*2024-05-06 22:37:00* · [`islandlk`](http://island.lk/japans-foreign-minister-visits-vijitha-yapa-bookshop/) · `en`
+
+Japan’s Foreign Minister Yoko Kamikawa visited the Vijitha Yapa Bookshop at Flower Road (Pittala Handiya) on Saturday night. Vijitha Yapa Bookshop is a publisher of books promoting the Japanese language. The Foreign Minister and the Japanese Ambassador were particularly interested in books on Sri Lanka and the books for children.
+
+The Foreign Minister was given a gift of the book ‘The Complete Illustrated History of Sri Lanka’ by Sri Lanka born author Dr Anton Sebastian, and she was interested to hear that though he retired as a medical practitioner in London, Dr Sebastian returned to the hospital he had been serving to help deal with the Covid 19 pandemic and unfortunately became a victim of the disease.
+
+Related Topics:Japan's Foreign Minister Yoko KamikawaJapan's Foreign Minister Yoko Kamikawa visited the Vijitha Yapa Bookshop at Flower Road
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/34c99b9c.json)
+
+---
+
+### Chinese support for Sri Lanka’s agricultural and industrial development
+
+*2024-05-06 22:34:00* · [`islandlk`](http://island.lk/chinese-support-for-sri-lankas-agricultural-and-industrial-development/) · `en`
+
+A prominent Chinese delegation is actively engaging in studies and discussions with various stakeholders, particularly in Sri Lanka’s agricultural and industrial sectors. It has pledged its support to bolster Sri Lanka’s economy, a senior Sri Lankan state official said.
+
+According to this official who spoke to The Island Financial Review, while some members have concluded their crucial discussions and departed, others remain, eager to forge additional business ties with the island nation.
+
+The delegation, representing the China Association of Small and Medium-Scale Commercial Enterprises, also held discussions with Minister of Agriculture and Plantation Industries Mahinda Amraweera.
+
+...
+
+[Data](articles/2cb65311.json)
+
+---
+
+### SL’s debt-restructuring problems cast shadow on share-trading; indices dip
+
+*2024-05-06 22:34:00* · [`islandlk`](http://island.lk/sls-debt-restructuring-problems-cast-shadow-on-share-trading-indices-dip/) · `en`
+
+The stock market yesterday witnessed some profit- taking by some share investors mainly due to delays in the external debt restructuring exercise. Sri Lanka expects to implement a debt restructuring framework in June this year but this will likely be delayed further, market analysts said.
+
+Sri Lanka has failed to strike an agreement with international bondholders on restructuring more than US $12 billion in debt, a mandatory requirement set out by the IMF. This essentially accounts for the relevant delays.
+
+All Share Price Index went down by 28.07 points, while S and P SL20 declined by 23.12 points. Turnover stood at Rs 2.1 billion with five crossings.
+
+...
+
+[Data](articles/574b9cb4.json)
+
+---
+
+### Beyond the call of duty: A midwife’s 30-year legacy of compassionate service
+
+*2024-05-06 18:52:00* · [`islandlk`](http://island.lk/beyond-the-call-of-duty-a-midwifes-30-year-legacy-of-compassionate-service/) · `en`
+
+As the sun rises over the mountains surrounding the Magastota Estate in Nuwara Eliya, G.P.D. Padmakanthi, a dedicated midwife with over 35 years of experience, is making her way to visit
+
+a mother who is expecting her second baby. As a midwife, Padmakanthi has been a constant source of strength and guidance for the estate communities in Nuwara Eliya, located in the
+
+Central Province of Sri Lanka. Not only has she assisted in countless births for many, but has also been a guiding light for mothers, families, children, and youth in the estate sector facing
+
+various challenges, in accessing general services and facilities readily available for others in society.
+
+As we mark the International Day of the Midwife today (May 5th), Padmakanthi’s journey is a testament to the power of compassion, resilience, and dedication of midwives – a vital source of strength for any mother bringing new life into our world.
+
+...
+
+[Data](articles/5c08cbff.json)
+
+---
+
+### ‘Mystery’ behind mindfulness: You become what you think
+
+*2024-05-06 18:06:00* · [`islandlk`](http://island.lk/mystery-behind-mindfulness-you-become-what-you-think/) · `en`
+
+Just the other day, at the University cafeteria while enjoying a cup of ginger tea, a good friend of mine happened to say, “Nowadays students are going through a lot of unnecessary turmoil and struggles due to the lack of self-awareness, and unfortunately, they attribute it to stress, anxiety and depression. And they end up swallowing pills for temporary relief. It’s true that compared to the past generations, these students are facing many challenges. But that doesn’t necessarily mean each one needs individual therapy and medication. Most of them only need an opportunity to increase their resilience”.
+
+...
+
+[Data](articles/150908db.json)
+
+---
+
+### Australia’s Qantas to pay $79m over ‘ghost flights’ furore
+
+*2024-05-06 14:09:00* · [`islandlk`](http://island.lk/australias-qantas-to-pay-79m-over-ghost-flights-furore/) · `en`
+
+Australia’s flagship airline Qantas has agreed to pay $120 million Australian dollars ($79m) to settle a lawsuit over the sale of tickets for already cancelled flights.
+
+The airline will pay a fine of 100 million Australian dollars ($66m) and provide compensation of 20 million Australian dollars ($13m) to more than 86,000 customers after advertising seats for thousands of “ghost flights” in 2021 and 2022.
+
+“Qantas’ conduct was egregious and unacceptable. Many consumers will have made holiday, business and travel plans after booking on a phantom flight that had been cancelled,” said Australian Competition and Consumer Commission Chairperson Gina Cass-Gottlieb in a statement on Monday.
+
+“Importantly, it demonstrates that we take action to ensure that companies operating in Australia communicate clearly, accurately and honestly with their customers at all times,” Cass-Gottlieb added.
+
+...
+
+[Data](articles/85489a7c.json)
+
+---
+
+### ARE WE BOLD ENOUGH FOR A RADICAL CHANGE?
+
+*2024-05-06 13:43:00* · [`islandlk`](http://island.lk/are-we-bold-enough-for-a-radical-change/) · `en`
+
+Mr Ranil Wickramasinghe (ex-PM, ex-MP and now President) is reported to have berated the present government authorities, for going around begging for funds to purchase the Anti-Corona Virus Vaccines from India (AstraZeneca (Oxford)) and from China (Sinovac). Yes, it is great shame that our nation has managed its finances very poorly and recklessly. Even before the “Robber Barons,” invited by RW’s uncle “Dickie” got here, the local models were well immersed in the technology of large-scale larceny. So, mendacity is not a novelty to us. In fact it possibly started somewhere in the fifties or early sixties. It has grown since, both in ubiquity and scale.
+
+...
+
+[Data](articles/9a40fed0.json)
+
+---
+
+### May Day Politics: A Pregame to Presidential Election
+
+*2024-05-06 13:32:00* · [`islandlk`](http://island.lk/may-day-politics-a-pregame-to-presidential-election/) · `en`
+
+May Day this week lived up to expectations as pregame to the presidential election that is expected before the end of October. Political parties strutted their wares and prospective candidates made their pitches. Little was said that was not already known but what was said by each contender does give clues to the direction that each one’s campaign would likely take. There was one constant refrain in the editorials and commentaries before and after May Day: that the Day was all about propaganda for the presidential election, and nothing about the rights of the working people, or their plights – from unemployment to underemployment to low wages, regressive taxes and the crippling cost of living.
+
+...
+
+[Data](articles/8319915e.json)
+
+---
+
+### ‘Charting a Sustainable Path: Navigating Challenges and Opportunities in Sri Lanka’s Plantation Sector – 2024’
+
+*2024-05-06 03:40:00* · [`islandlk`](http://island.lk/charting-a-sustainable-path-navigating-challenges-and-opportunities-in-sri-lankas-plantation-sector-2024/) · `en`
+
+The recent wage increase for plantation workers has stirred significant discussion and debate within the industry, prompting a closer examination of the underlying factors at play. Several crucial points come to the forefront, shedding light on overlooked aspects that have contributed to the current predicament.
+
+Firstly, the absence of a comprehensive job evaluation and analysis prior to implementing the wage increase is notable. Such an evaluation is essential for understanding the relative value of manual jobs on plantations. Without this foundational understanding, determining appropriate wage structures becomes challenging and can lead to unintended consequences.
+
+Furthermore, there is a critical oversight in discerning whether the actual need is for higher daily wages or a livable wage. While the former may address immediate concerns, the latter ensures sustainable livelihoods for workers in the long term. Unfortunately, this distinction was overlooked in the decision-making process.
+
+...
+
+[Data](articles/eb8e661a.json)
+
+---
+
+### 2024-05-05 (Sunday)
+
+### Deplorable Debt: Is Sri Lanka caught between IMF and IIF?
+
+*2024-05-05 23:29:00* · [`islandlk`](http://island.lk/deplorable-debt-is-sri-lanka-caught-between-imf-and-iif/) · `en`
+
+The greatest challenges confronting the nation-states in the current era revolve around; deplorable debt, depleted natural resources, and degraded environment. Economic growth and future prosperity for all living beings are stalled due to the varying degrees of the 3D problems emerging out of ill-conceived policy divergences propelling the linear economic activities for centuries in many countries.
+
+...
+
+[Data](articles/2f7ab700.json)
+
+---
+
+### Can we quantify research performance and rank scientists?
+
+*2024-05-05 22:41:00* · [`islandlk`](http://island.lk/can-we-quantify-research-performance-and-rank-scientists/) · `en`
+
+The greatest danger of promoting the H-index as the sole criterion of one’s academic competence is that it discourages undertaking time consuming and challenging investigations, taking years and decades to yield publishable results. One groundbreaking discovery after a decade of work might produce only one paper! Today, in universities and research institutions, the H-index is often considered a factor in deciding recruitments, promotions and base evaluations. This procedure compels the staff of academic and research institutions to take up less stimulating projects having the potential to obtain immediate results.
+
+...
+
+[Data](articles/4e0e302b.json)
+
+---
+
+### 2024-05-03 (Friday)
+
+### Chaos at BIA
+
+*2024-05-03 20:03:00* · [`islandlk`](http://island.lk/chaos-at-bia/) · `en`
+
+The Bandaranaike International Airport (BIA) has always been a metaphor for chaos. It has earned notoriety for flight delays, lethargy, lack of facilities, inefficiency and various irregularities. It should be given a radical shake-up. But instead of making an effort to bring order out of chaos there, the government has rendered BIA even more chaotic by involving a foreign company in the issuance of on-arrival visas.
+
+On Wednesday night, the personnel of the foreign company withdrew from the on-arrival visa counters after failing to handle the task they had undertaken to perform for a fee. The Immigration and Emigration officials had to step in to man the counters.
+
+The Department of Immigration and Emigration has been handling the on-arrival visa section itself all these years, and there was absolutely no need for that task to be outsourced. Visitors to Sri Lanka now have to pay the foreign company as well, and on-line visa costs have increased, as a result.
+
+...
+
+[Data](articles/79f1ac1b.json)
+
+---
+
+### 2024-05-02 (Thursday)
+
+### Cocky candidates
+
+*2024-05-02 23:25:00* · [`islandlk`](http://island.lk/cocky-candidates/) · `en`
+
+Much is being spoken these days in Sri Lanka about voting intention surveys. Their findings are flaunted by some presidential aspirants in a bid to bolster their claims and counterclaims. But even those with a nodding acquaintance with psephology will see that it is too early to gauge popular support for any presidential candidate, much less make predictions about elections, with the help of opinion survey results.
+
+Public opinion and perceptions do not readily lend themselves to quantification. Hence there could be many inaccuracies in opinion survey results. There have been numerous instances where predictions based on the findings of public opinion surveys, etc., went wrong.
+
+...
+
+[Data](articles/32a9b7c8.json)
+
+---
+
+### Beggars at crossways
+
+*2024-05-02 00:23:00* · [`islandlk`](http://island.lk/beggars-at-crossways/) · `en`
+
+The police have embarked on a campaign, parallel to their war on drugs, to clear busy intersections of beggars who solicit alms near traffic lights, causing much inconvenience to motorists. Scores of beggars have already been arrested and hauled up before courts for doing so, we are told.
+
+Sri Lankans drive and ride like bats out of hell, and champ at the bit at intersections to zing. Amber, for them, means ‘go’. So, the beggars at traffic lights not only become a nuisance to motorists but also run the risk of ending up as mere statistics in road fatality records. Police action to stop begging at crossways has therefore met with public approval, according to media reports.
+
+...
+
+[Data](articles/ee9333e4.json)
+
+---
 
 ### 2024-05-01 (Wednesday)
 
@@ -50,6 +342,8 @@ The decision to invite Akram was taken by the Executive Committee of Sri Lanka C
 
 [Data](articles/32e9fd06.json)
 
+[Extended Data](ext_articles/32e9fd06.ext.json)
+
 ---
 
 ### Parts of India record hottest April as heatwave kills nine
@@ -69,6 +363,8 @@ The mean temperature in eastern India was 28.12 Celsius (82.61 Fahrenheit) in Ap
 ...
 
 [Data](articles/27b4e6dc.json)
+
+[Extended Data](ext_articles/27b4e6dc.ext.json)
 
 ---
 
@@ -1805,397 +2101,5 @@ As one who had the opportunity to serve as the Chairman and Director General of 
 [Data](articles/98745c5d.json)
 
 [Extended Data](ext_articles/98745c5d.ext.json)
-
----
-
-### Australian pool named to World Cup
-
-*2024-05-01 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196160) · `si`
-
-Australia's Twenty20 World Cup squad, excluding Steven Smith and Jake Ferzer, includes Michelle Marsh. Other teams: New Zealand, South Africa, India, England, Afghanistan.
-
-🟩
-
-The Australian squad of the Twenty20 World Cup has been named.
-
-It is noteworthy that the super batsman does not include Steven Smith.
-
-The Jake Ferzer of the Indian Premier League is not included in the Australian T20 pool.
-
-Below is the Australian Twenty20 pool of Australia, named Michelle Marsh's World Cup,
-
-New Zealand, South Africa, India, England and Afghanistan have been published in the Twenty20 World Cup.
-
-◼️
-
-[Data](articles/09fc1f74.json)
-
-[Extended Data](ext_articles/09fc1f74.ext.json)
-
----
-
-### Daily wage for plantation workers increased
-
-*2024-05-01 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-wage-for-plantation-workers-increased/108-281712) · `en`
-
-Colombo, May 1 (Daily Mirror) - A gazette notification has been issued announcing the increase in the minimum daily wage of tea plantation workers to Rs. 1,700.
-
-The gazette was issued by Labour Commissioner General H.K.K. Jayasundara following an order by the Labour Minister, the Commissioner General of Labour said.
-
-It was also mentioned that public and state objections regarding the decision should be submitted before noon on May 15.
-
-Meanwhile, President Ranil Wickremesinghe announced the increase in the daily wage for plantation workers while attending the Ceylon Workers Congress (CWC) May Day rally at the Kotagala Public Grounds this morning.
-
-◼️
-
-[Data](articles/b0a0be79.json)
-
-[Extended Data](ext_articles/b0a0be79.ext.json)
-
----
-
-### Daily salary rises to 1700 rupees: President
-
-*2024-05-01 11:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாளாந்த-சம்பளம்-1700-ரூபாயாக-உயர்வு-ஜனாதிபதி/76-336599) · `ta`
-
-President Ranil Wickremesinghe announced a daily salary increase for plantation workers to 1700 rupees at the Ceylon Workers Congress May Day meeting.
-
-🟩
-
-President Ranil Wickremesinghe, who attended the May Day meeting of the Ceylon Workers Congress, said that the daily salary of a plantation worker will be increased to 1700 rupees.
-
-◼️
-
-[Data](articles/60716aa8.json)
-
-[Extended Data](ext_articles/60716aa8.ext.json)
-
----
-
-### Daily salary increases to Rs 1,700: President (Full Details Link)
-
-*2024-05-01 11:55:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாளாந்த-சம்பளம்-1-700-ரூபாயாக-உயர்வு-ஜனாதிபதி-முழு-விபரம்-இணைப்பு/76-336599) · `ta`
-
-President Ranil Wickremesinghe announced a daily salary increase for plantation workers to Rs 1,700, highlighting government efforts to support the economy, including salary increases for officials, the Aswesuma Project, and focus on rural development and education.
-
-🟩
-
-President Ranil Wickremesinghe, who attended the May Day meeting of the Ceylon Workers Congress, said that the daily salary of a plantation worker will be increased to 1700 rupees.
-
-President Ranil Wickremesinghe continued to address the responsibility of the falling country.. The cabinet supported the stupid economy. Similarly, during the decline of the country, additional plantation workers said that the country was responsible for bringing foreign exchange to the country by 2023.
-
-The President said that he would never forget the problems of plantation workers, even if he had forgotten that Jeevan Thondaman would not leave.
-
-Government officials have been paid a salary increase of Rs 10,000. The Aswesuma Project, the distribution of rice is being implemented. Tourism income is also increasing. The rupee has now been strengthened. The focus will be on the upcountry Rural Development and Education Development. I will try to get the rights of the people of the hill country.
-
-...
-
-[Data](articles/a69b7324.json)
-
-[Extended Data](ext_articles/a69b7324.ext.json)
-
----
-
-### Tea and rubber plantation workers' daily wages
-
-*2024-05-01 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/182393) · `ta`
-
-Tea and rubber plantation workers' minimum daily wage is Rs 1,700, with Rs 1,350 for salary and Rs 350 as additional allowance.
-
-🟩
-
-In the gazette, the minimum daily wage of tea and rubber plantation workers has been fixed at Rs 1,700.
-
-Accordingly, the daily salary will be paid at 1350 rupees and the daily additional allowance will be Rs 350.
-
-In this case, the total daily salary will be paid by the Gazette.
-
-◼️
-
-[Data](articles/8f44c2be.json)
-
-[Extended Data](ext_articles/8f44c2be.ext.json)
-
----
-
-### Late President Premadasa commemorated
-
-*2024-05-01 11:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Late-President-Premadasa-commemorated/110-281711) · `en`
-
-The 31st memorial ceremony of former President late Ranasinghe Premadasa was held today at Aluthkade near his statue. Religious leaders, all family members, Members of Parliament led by Sajith Premadasa, paid their tributes. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/76895583.json)
-
-[Extended Data](ext_articles/76895583.ext.json)
-
----
-
-### Minimum daily wage of plantation workers increased to Rs. 1,700
-
-*2024-05-01 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98950/minimum-daily-wage-of-plantation-workers-increased-to-rs-1700) · `en`
-
-The minimum daily wage in respect of the workers engaged in Tea Growing and Manufacturing Trade has been increased to Rs. 1,700.
-
-A gazette extraordinary has been issued in this regard in pursuance of the powers conferred on the Commissioner General of Labour, by an order made by the Minister of Labour under section 33(1) (a) the Wages Boards Ordinance (Chapter 136).
-
-Addressing a May Day rally held in Kotagala, President Ranil Wickremesinghe made this announcement and said this wage increment will come into effect from today (May 01).
-
-◼️
-
-[Data](articles/7b7517e0.json)
-
-[Extended Data](ext_articles/7b7517e0.ext.json)
-
----
-
-### Today in History: May 1993 May Day procession
-
-*2024-05-01 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/182394) · `ta`
-
-"May 1993: International Workers' Day marked by May Day processions in Sri Lanka, tragically marred by the death of former President Ranasinghe Premadasa in a bomb blast."
-
-🟩
-
-International Workers' Day (May 01) is being observed worldwide today. Various parties are participating in the May Day meetings and processions organized today in Sri Lanka.
-
-On the same day, on the same day, former President Ranasinghe Premadasa died in a bomb blast during the May Day procession.
-
-Former President Ranasinghe Premadasa's latest news in the Weerakesari magazine on May 2, 1993, “The UNP. Bomb blast at May Day rally: President's assassination
-
-◼️
-
-[Data](articles/f73db7ae.json)
-
-[Extended Data](ext_articles/f73db7ae.ext.json)
-
----
-
-### Estate employee salary up
-
-*2024-05-01 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196159) · `si`
-
-President Ranil Wickremesinghe announced a Rs 1,700 increase in estate workers' salaries during Labor Day celebrations in Kotagala.
-
-🟩
-
-President Ranil Wickremesinghe says that the salary of the estate workers has been increased by Rs 1,700.
-
-The President was speaking at a Labor Day celebrations held in Kotagala.
-
-◼️
-
-[Data](articles/ebda4ba3.json)
-
-[Extended Data](ext_articles/ebda4ba3.ext.json)
-
----
-
-### Permission to the jewelry shop at the airport
-
-*2024-05-01 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-நகைக்-கடைக்கு-அனுமதி/175-336595) · `ta`
-
-The Cabinet has approved a proposal to invite contractors to operate a jewelry shop at the exit of Katunayake airport, following the International Competitive Purchase System.
-
-🟩
-
-The Cabinet has approved the proposal to invite contractors to run the jewelery shop in the exit of the Katunayake airport.
-
-It has been considering the establishment of a gold business at the Katunayake Bandaranaike International Airport, and the proposals have been submitted by airports and airports (Sri Lanka (private)).
-
-The AASL is currently planning to set up a gold shop in the departure/transport area.
-
-In that respect, the Cabinet has approved the proposal put forward by the Minister of Ports, Shipping and Aviation to invite contractors following the International Competitive Purchase System, following the International Competitive Procurement System.
-
-◼️
-
-[Data](articles/3b19a211.json)
-
-[Extended Data](ext_articles/3b19a211.ext.json)
-
----
-
-### 8 arrested including Sri Lankan couple
-
-*2024-05-01 11:21:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தம்பதி-உட்பட-8-பேர்-கைது/175-336594) · `ta`
-
-Eight, including a Sri Lankan couple, arrested for illegal boat escape. Thangachimadam police investigate, linking Chennai residents to Vavuniya smugglers.
-
-🟩
-
-The Thangachimadam police are actively investigating the arrest of two Sri Lankan couples who were trying to escape to Sri Lanka by boat by a boat by a boat.
-
-Four people, including Saibullah Naveed, Imran, Naina Mohammed and Raghuman from Vedalai, Ramanathapuram district, were standing at the Thangachi Math bus stand on Tuesday night.
-
-The four -year -old police, who were on the night patrol, were arrested by the four men who were illegally sending the Sri Lankan men to Sri Lanka.
-
-Vinod Kumar and Ganesan Lingam from Chennai have been illegally sent to Sri Lanka by boat to Sri Lanka by the couple, Shanti and Rajeswaran, who were from Vavuniya in Vavuniya.
-
-Following this, Ganesalingam and Vinod Kumar, who had received the money from Rajeswaran, had contacted Naveed Imran of Vedala and sent them to Sri Lanka.
-
-Rajeswaran, Shanti, Ganesalingam and Vinod Kumar were then from Chennai two days ago. Rameshwaram departed and stayed at a resort next to the gold medal.
-
-...
-
-[Data](articles/53891b6d.json)
-
-[Extended Data](ext_articles/53891b6d.ext.json)
-
----
-
-### Testing on the 31st commemoration of former President Ranasinghe Premadasa
-
-*2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182390) · `ta`
-
-On the 31st commemoration of former President Ranasinghe Premadasa, Dharma Teaching was held at Sri Sukaridha Mandi by Akalakada Sirisumana Thera, a Sinhala Studies professor. Mrs. Hema Premadasa, Sajith Premadasa, and family members attended.
-
-🟩
-
-Former President Ranasinghe Premadasa's 31st Day
-
-On the evening of Tuesday (30th), the Dharma Teaching was performed at the Sri Sukaridha Mandi by the Akalakada Sirisumana Thera, a professor of Sinhala Studies of the University of Colombo and the Sinhala Studies Department of the University of Colombo.
-
-Mrs. Hema Premadasa, the former President Ranasinghe Premadasa, opposition leader Sajith Premadasa and family members were present.
-
-◼️
-
-[Data](articles/405ce547.json)
-
-[Extended Data](ext_articles/405ce547.ext.json)
-
----
-
-### Tension at Colombian University of the United States - More than 100 Palestinian students arrested
-
-*2024-05-01 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182392) · `ta`
-
-Over 100 Palestinian students at the Colombian University in the US were arrested after occupying the campus for 24 hours, despite police eviction. The university administration allowed police to remove students who refused to leave. This incident follows protests across US universities demanding severing ties with Israel.
-
-🟩
-
-There has been a stir in the aftermath of the arrest and evacuation of many Palestinian supporters from the campus of the United States Colombian University.
-
-Palestinian -backed students occupy the university building after 24 hours after they are forcibly evacuated.
-
-Police said that the Palestinian -backed students who had been camping around the university for two weeks and those entered the university building had been removed.
-
-The university administration has given permission to the police to evict students after the Palestinian -backed students did not accept the request of the university administration to leave the university.
-
-Students in many universities in the United States have staged protests demanding the cutting of ties with Israel.
-
-◼️
-
-[Data](articles/6320094f.json)
-
-[Extended Data](ext_articles/6320094f.ext.json)
-
----
-
-### Cement's price reduction
-
-*2024-05-01 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/182383) · `ta`
-
-Cement factory agencies have reduced the price of a 50 kg cement bag to Rs 2,400 by Wednesday, aiming to boost the local building industry.
-
-🟩
-
-Cement factory agencies have announced that the price of the cement bag with 50 kg of cement has been reduced by Wednesday (1).
-
-Accordingly, the new sales price of 50 kg of cement bag will be Rs 2,400.
-
-Cement factory companies have said that the price cut is expected to help promote the local building industry.
-
-◼️
-
-[Data](articles/45c5d36f.json)
-
-[Extended Data](ext_articles/45c5d36f.ext.json)
-
----
-
-### Ex-president Maithripala reveals SLFP’s presidential candidate
-
-*2024-05-01 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98949/ex-president-maithripala-reveals-slfps-presidential-candidate) · `en`
-
-The censured Chairman of Sri Lanka Freedom Party (SLFP) former President Maithripala Sirisena says that Minister Wijayadasa Rajapakshe will be the SLFP’s presidential candidate in the upcoming election.
-
-Joining the commemoration ceremony of the late T.B. Ilangaratne, Sirsena assured that Wijeyadasa Rajapakshe has the support of the majority of the party members.
-
-“I have previously served as President and pledged not to contest for the presidency again. Mr. Wijayadasa will run in the upcoming presidential election, and we will offer him our full support”, he said.
-
-“We took a minister from the ruling party, who is now aligned with us. He no longer desires the ministerial position”, the former President added.
-
-◼️
-
-[Data](articles/207d46dd.json)
-
-[Extended Data](ext_articles/207d46dd.ext.json)
-
----
-
-### Bus charges will not be reduced but we will reduce
-
-*2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறையாது-ஆனால்-குறைப்போம்/175-336593) · `ta`
-
-Despite diesel price drop, bus fare remains unchanged. Gemunu Wijeratne, Sri Lanka Private Bus Owners Association president, suggests bus fares might decrease in July.
-
-🟩
-
-Bus Owners Association President Gemunu Wijeratne said that the bus fare was not reduced even if the diesel prices were reduced.
-
-Meanwhile, bus fares can be reduced in July, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.
-
-It is noteworthy that the prices of fuel have been reduced from midnight yesterday (30). Remble
-
-◼️
-
-[Data](articles/2aab467f.json)
-
-[Extended Data](ext_articles/2aab467f.ext.json)
-
----
-
-### Bus charges will not be reduced;But...
-
-*2024-05-01 11:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணங்கள்-குறைக்கப்படாது-ஆனால்/175-336593) · `ta`
-
-Despite diesel price drop, bus fare remains unchanged. Gemunu Wijeratne, Sri Lanka Private Bus Owners Association president, suggests bus fares might decrease in July.
-
-🟩
-
-Bus Owners Association President Gemunu Wijeratne said that the bus fare was not reduced even if the diesel prices were reduced.
-
-Meanwhile, bus fares can be reduced in July, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association.
-
-It is noteworthy that the prices of fuel have been reduced from midnight yesterday (30). Remble
-
-◼️
-
-[Data](articles/38cd674f.json)
-
-[Extended Data](ext_articles/38cd674f.ext.json)
-
----
-
-### Weather today: Rain after 2 p.m in several areas
-
-*2024-05-01 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Weather-today-Rain-after-2-p-m-in-several-areas/108-281709) · `en`
-
-Colombo, May 1 (Daily Mirror) - Thundershowers will occur at several places in the Western, Sabaragamuwa and Central Provinces and in the Galle and Matara districts after 2.00 p.m, the Meterology Department said.
-
-Misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva Provinces during the morning.
-
-The sea areas off the coast, extending from Balapitiya to Pottuvil via Galle and Hambantota can be fairly rough at times. The other sea areas around the island will be slight but strong gusty winds and very rough seas can be expected during thundershowers.
-
-Winds will be south-westerly or variable and speed of 30 kmph, which may increase up to 45 kmph at times in the sea areas off the coasts extending from Puttalam to Trincomalee via Mannar and Kankesanthurai.
-
-Therefore, the public is requested to take adequate precautions to minimize damages caused by temporary, localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/a5c3acc9.json)
-
-[Extended Data](ext_articles/a5c3acc9.ext.json)
 
 ---

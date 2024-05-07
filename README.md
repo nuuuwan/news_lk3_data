@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 01:03:20**
+As of **2024-05-08 01:18:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,597 (100.0%) of 22,605 articles have been extended.
+22,605 (100.0%) of 22,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Addressing a press conference, Peiris likened the situation to the Central Bank 
 
 [Data](articles/4f8b736e.json)
 
+[Extended Data](ext_articles/4f8b736e.ext.json)
+
 ---
 
 ### Charitha raises concerns over CBSL’s perceived independence from State
@@ -74,6 +76,8 @@ During his address in parliament, MP Prof. Charitha Herath remarked that the ove
 
 [Data](articles/7cb45f71.json)
 
+[Extended Data](ext_articles/7cb45f71.ext.json)
+
 ---
 
 ### CEAT Kelani says not fined by Customs Department
@@ -91,6 +95,8 @@ We would also like to assure our valued customers, all other stakeholders and th
 ...
 
 [Data](articles/d906d0e0.json)
+
+[Extended Data](ext_articles/d906d0e0.ext.json)
 
 ---
 
@@ -110,6 +116,8 @@ Suresh is an entrepreneur, investor, exporter and tourism service provider. He h
 
 [Data](articles/a9a07829.json)
 
+[Extended Data](ext_articles/a9a07829.ext.json)
+
 ---
 
 ### People’s Bank and Hayleys Solar partner to accelerate Sri Lanka’s shift towards sustainable energy
@@ -125,6 +133,8 @@ People’s Bank will provide loans to customers seeking to invest in rooftop sol
 ...
 
 [Data](articles/0aa599cf.json)
+
+[Extended Data](ext_articles/0aa599cf.ext.json)
 
 ---
 
@@ -145,6 +155,8 @@ He also has experience serving in prominent Global Organizations such as Warner 
 ◼️
 
 [Data](articles/4ae47fff.json)
+
+[Extended Data](ext_articles/4ae47fff.ext.json)
 
 ---
 
@@ -167,6 +179,8 @@ Chandaka Jayasundara PC representing the plaintiffs told the courts that it is i
 ...
 
 [Data](articles/bc298e69.json)
+
+[Extended Data](ext_articles/bc298e69.ext.json)
 
 ---
 
@@ -425,6 +439,8 @@ Quite early on, Professor Premachandra Athukorala of the Australian National Uni
 ...
 
 [Data](articles/57f6be6c.json)
+
+[Extended Data](ext_articles/57f6be6c.ext.json)
 
 ---
 

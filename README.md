@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 23:52:56**
+As of **2024-05-08 00:04:44**
 
 ## Newspaper Stats
 
-*Scraped **22,583** Articles*
+*Scraped **22,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,224
-economynextcom | 1,294
+economynextcom | 1,295
 dailyftlk | 1,307
 adalk | 1,905
 tamilmirrorlk | 2,630
 adaderanalk | 2,654
-virakesarilk | 3,376
-dailymirrorlk | 3,540
+virakesarilk | 3,378
+dailymirrorlk | 3,541
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,583 (100.0%) of 22,583 articles have been extended.
+22,583 (100.0%) of 22,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### NMRA trains police to sniff out psychoactive pharmaceutical drugs
+
+*2024-05-07 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-trains-police-to-sniff-out-psychoactive-pharmaceutical-drugs/108-282111) · `en`
+
+Colombo, May 07 (Daily Mirror) -  In a bid to mitigate the pharmaceutical drugs abuse menace, the National Medicines Regulatory Authority (NMRA) will back police and excise officials to identify and crackdown the trends of misusing psychoactive medicines.
+
+In a move to make the law enforcement officials aware, the NMRA organized a special programme last week to educate the psychoactive substances, which are prescribed as medicinal drugs for various ailments.
+
+A senior NMRA official told the Daily Mirror that under the National Dangerous Drugs Control Board (NDDCB) four pharmaceutical drugs were included in its act through Poisons, Opium and Dangerous Drug Act (Amendment) No 41 of 2022.
+
+The mentioned drugs identified as Diazepam, Tramadol, Pregabalin and Gabapentin are regularly used to treat anxiety, seizures, epilepsy, alcohol withdrawals and neuropathic pains.
+
+...
+
+[Data](articles/c21a9d1a.json)
+
+---
 
 ### Defence Secretary warns Sri Lankan war heroes against smugglers
 
@@ -111,6 +129,34 @@ This judgment pertains to an appeal petition filed by social activist Oshala Her
 [Data](articles/baac1ad4.json)
 
 [Extended Data](ext_articles/baac1ad4.ext.json)
+
+---
+
+### யாழில் மரம் வெட்டிக் கொண்டு இருந்தவர் தவறி விழுந்து உயிரிழப்பு!
+
+*2024-05-07 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/182927) · `ta`
+
+யாழ்ப்பாணம் புத்தூரில் உள்ள ஆலய சூழலில் மரம் வெட்டிக் கொண்டு இருந்தவர் தவறி விழுந்து உயிரிழந்துள்ளார்.
+
+திருநெல்வேலி கலாசாலை வீதியில் வசிக்கும் 61 வயதான ஓய்வுபெற்ற பல்கலைக்கழக உத்தியோகத்தரான முத்து சிவலிங்கம் என்பவரே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/af20529c.json)
+
+---
+
+### கிரிக்கெட் வீரர் டிஎம் டில்ஷானின் தந்தை காலமானார்
+
+*2024-05-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182926) · `ta`
+
+முன்னாள் இலங்கை கிரிக்கெட் வீரர் திலகரத்ன டில்ஷானின் தந்தை துவான் மொஹமட் ஜுனைதீன் களுத்துறையில் உள்ள வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிக்கிச்சை பலனின்றி இன்று செவ்வாய்க்கிழமை (7) உயிரிழந்துள்ளார்.
+
+இறுதிக் கிரியைகள் எதிர்வரும் 9ஆம் திகதி வியாழக்கிழமை களுத்துறை மாகாண பொது மயானத்தில் இடம்பெறவுள்ளது.
+
+◼️
+
+[Data](articles/99d14480.json)
 
 ---
 
@@ -248,27 +294,9 @@ It also seeks to promote realization of, and ensure equality and justice of wome
 
 ---
 
-### Establishment of the National Teachers’ Council
-
-*2024-05-07 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99070/establishment-of-the-national-teachers-council) · `en`
-
-Sri Lanka’s Cabinet of Ministers has approved the combined proposal presented by the President and the Minister of Education to instruct the Legal Draftsman to prepare a bill for the establishment of a National Teachers’ Council.
-
-The government said this initiative aligns with the National Education Policy Framework, aiming to enhance the professionalism and quality of teachers through continuous professional development, following international best practices.
-
-A preliminary draft has been prepared after extensive discussions with relevant stakeholders in the education sector, the statement said.
-
-◼️
-
-[Data](articles/b4bc8e6d.json)
-
-[Extended Data](ext_articles/b4bc8e6d.ext.json)
-
----
-
 ### Fire at a factory in Ekala
 
-*2024-05-07 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182925) · `ta`
+*2024-05-07 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182925) · `ta`
 
 A fire at a factory in Ekala Pradesh on Tuesday afternoon was extinguished by 3 fire trucks, with no casualties but damage to the factory's possessions. The cause is under investigation.
 
@@ -289,6 +317,24 @@ However, the cause of the fire has not yet been released and further investigati
 [Data](articles/aeef5e9b.json)
 
 [Extended Data](ext_articles/aeef5e9b.ext.json)
+
+---
+
+### Establishment of the National Teachers’ Council
+
+*2024-05-07 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99070/establishment-of-the-national-teachers-council) · `en`
+
+Sri Lanka’s Cabinet of Ministers has approved the combined proposal presented by the President and the Minister of Education to instruct the Legal Draftsman to prepare a bill for the establishment of a National Teachers’ Council.
+
+The government said this initiative aligns with the National Education Policy Framework, aiming to enhance the professionalism and quality of teachers through continuous professional development, following international best practices.
+
+A preliminary draft has been prepared after extensive discussions with relevant stakeholders in the education sector, the statement said.
+
+◼️
+
+[Data](articles/b4bc8e6d.json)
+
+[Extended Data](ext_articles/b4bc8e6d.ext.json)
 
 ---
 
@@ -654,6 +700,28 @@ A special discussion of the Sri Lanka General Supreme Appointment of the Sri Lan
 
 ---
 
+### India should help document the arrival of Sri Lanka of Indian descendants - Kumar Nadesan, president of 'Gopio' organization
+
+*2024-05-07 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182920) · `ta`
+
+Kumar Nadesan, president of 'Gopio', calls for a historical document on the arrival of Indian descendants in Sri Lanka, including traders, bankers, and tea workers, about 250 years ago. He highlights India's global successes and contributions, emphasizing the need for recognition of Indian origin's significant roles in Sri Lanka's development.
+
+🟩
+
+Kumar Nadesan, president of the 'Gopio' organization, has pointed out that Indian origin has held many top positions all over the world, including Sri Lanka, and has called for a historical document on the arrival of Indians, traders, bankers, tea workers, about 250 years ago.
+
+Kumar Nadesan, president of the Gopio Organization, said this while attending a dinner party organized by the 'Kopio' organization at the TajSamudra Hotel in Colombo on Monday to honor Santosh Ja, who recently assumed office as Indian High Commissioner to Sri Lanka.. There he added:
+
+We have been waiting for this day since the new Indian High Commissioner to Sri Lanka took over. While celebrating the vibrant goodwill between Sri Lanka and India and the image of India on the world stage, we are here to introduce us to the High Commissioner and share our views with him.
+
+...
+
+[Data](articles/2ac01fa2.json)
+
+[Extended Data](ext_articles/2ac01fa2.ext.json)
+
+---
+
 ### 3000 new for nurses
 
 *2024-05-07 18:46:27* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සේවයට-අලුතින්-3000ක්/11-409483) · `si`
@@ -701,28 +769,6 @@ Ekaterra is the former tea division of Unilever, which was sold to CVC Capital P
 [Data](articles/915a3022.json)
 
 [Extended Data](ext_articles/915a3022.ext.json)
-
----
-
-### India should help document the arrival of Sri Lanka of Indian descendants - Kumar Nadesan, president of 'Gopio' organization
-
-*2024-05-07 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/182920) · `ta`
-
-Kumar Nadesan, president of 'Gopio', calls for a historical document on the arrival of Indian descendants in Sri Lanka, including traders, bankers, and tea workers, about 250 years ago. He highlights India's global successes and contributions, emphasizing the need for recognition of Indian origin's significant roles in Sri Lanka's development.
-
-🟩
-
-Kumar Nadesan, president of the 'Gopio' organization, has pointed out that Indian origin has held many top positions all over the world, including Sri Lanka, and has called for a historical document on the arrival of Indians, traders, bankers, tea workers, about 250 years ago.
-
-Kumar Nadesan, president of the Gopio Organization, said this while attending a dinner party organized by the 'Kopio' organization at the TajSamudra Hotel in Colombo on Monday to honor Santosh Ja, who recently assumed office as Indian High Commissioner to Sri Lanka.. There he added:
-
-We have been waiting for this day since the new Indian High Commissioner to Sri Lanka took over. While celebrating the vibrant goodwill between Sri Lanka and India and the image of India on the world stage, we are here to introduce us to the High Commissioner and share our views with him.
-
-...
-
-[Data](articles/2ac01fa2.json)
-
-[Extended Data](ext_articles/2ac01fa2.ext.json)
 
 ---
 
@@ -2183,75 +2229,5 @@ He said that through these inspections, these officials will quickly check the c
 [Data](articles/09130027.json)
 
 [Extended Data](ext_articles/09130027.ext.json)
-
----
-
-### Body of missing youth from Kuliyapitiya found in Madampe
-
-*2024-05-07 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99060/body-of-missing-youth-from-kuliyapitiya-found-in-madampe) · `en`
-
-Police said the body of the youth from Kuliyapitiya who went missing on April 22 after visiting the home of his girlfriend, has been discovered in the Madampe area.
-
-The body of the youth has been found torched and dumped in a forest area in Madampe this morning (07), police said. It has been confirmed that the youth had been murdered.
-
-Police had launched an investigation after the disappearance of the youth, Susitha Jayawansa, 31, a resident of Kabalewa area in Kuliyapitiya, was reported on April 22 and he was last seen visiting his girlfriend’s house following a phone call received from her father.
-
-Police said that it was later uncovered that the youth had been assaulted by his girlfriend’s father, and two other individuals identified as masons.
-
-Accordingly, the two masons who were later arrested had confessed to the police that the father of the girl had said that the youth in question should be taken to the house of a former Provincial Council member living in the area.
-
-...
-
-[Data](articles/1de31b59.json)
-
-[Extended Data](ext_articles/1de31b59.ext.json)
-
----
-
-### Over Rs. 01 bn swindled through online scams; CB fails to take action: MP
-
-*2024-05-07 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-Rs-01-bn-swindled-through-online-scams-CB-fails-to-take-action-MP/108-282093) · `en`
-
-Parliament, May 07 (Daily Mirror)- The Central Bank of Sri Lanka (CBSL) has failed to act swiftly to stop financial scams operating online, allowing fraudsters to swindle about one billion rupees from over 1,000 account holders, Parliamentarian Gamini Waleboda said today.
-
-The MP told Parliament that on April 25 he had revealed in Parliament that a scam was being operated online to transfer money from current and savings accounts to other accounts using mobile apps and that neither the Central Bank nor the Finance Ministry had taken any steps regarding the scam so far.
-
-He said the CBSL had only issued a notice to the public on the scam yesterday.
-
-The MP said money from accounts had been transferred to a local private bank and then some of that money had been converted into crypto currency and taken out of the country.
-
-...
-
-[Data](articles/3ae2a68c.json)
-
-[Extended Data](ext_articles/3ae2a68c.ext.json)
-
----
-
-### If the power supply is not received within 90 days, the power supply will be completely cut off - Minister of Electricity
-
-*2024-05-07 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/182884) · `ta`
-
-Minister Kanjana Wijesekera announced a reduction in the re-electricity fee and that power supply will be completely cut off if not paid within 90 days. This follows a policy change to improve electricity supply, with talks on further fee reductions.
-
-🟩
-
-Within 90 days after the power supply is cut off. Minister of Electricity and Power and Energy Kanjana Wijesekera said that the fee charged for re -electricity has now been reduced.
-
-In response to questions posed by Opposition member Kevindu Kumaratunga during a session in Parliament on Tuesday (7).
-
-Prior to the 14th of May, 2022, 70 lakhs of electricians were affected by the power supply structure.
-
-The policy of the power supply has been amended due to a massive improvement. The electricity has been corrected. We are in talks with the Sri Lanka Public Use Commission on the idea that the fee can continue to be reduced.
-
-The red warning fee has been distributed and the power supply for about 10 lakh minbanists who do not pay the outstanding fee have been cut off.
-
-If the power supply is cut off within 90 days after the power supply is cut off, the power supply will be completely cut off and the calculation of the electricity will be canceled.
-
-...
-
-[Data](articles/1a59b7e0.json)
-
-[Extended Data](ext_articles/1a59b7e0.ext.json)
 
 ---

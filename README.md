@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-07 20:52:10**
+As of **2024-05-07 21:03:25**
 
 ## Newspaper Stats
 
-*Scraped **22,548** Articles*
+*Scraped **22,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,901
 tamilmirrorlk | 2,627
 adaderanalk | 2,653
 virakesarilk | 3,371
-dailymirrorlk | 3,532
+dailymirrorlk | 3,533
 adaderanasinhalalk | 3,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,533 (99.9%) of 22,548 articles have been extended.
+22,533 (99.9%) of 22,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-07 (Tuesday)
+
+### Exclude Health Ministry from drug procurement to curb corruption: GMOF urges government
+
+*2024-05-07 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclude-Health-Ministry-from-drug-procurement-to-curb-corruption-GMOF-urges-government/108-282103) · `en`
+
+Colombo, May 7 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) urged the government to refrain from including the Health Ministry in centralized drug procurement to reduce corruption.
+
+GMOF president Dr. Rukshan Bellana told the Daily Mirror that the existing problem of medicine shortages in the health sector fluctuates between availability. Alongside shortages, the quality of existing medicine stocks is often substandard.
+
+Corruption and centralized drug procurement are identified as the root causes of these issues, he said.
+
+...
+
+[Data](articles/0f11e45c.json)
+
+---
 
 ### ඩිල්ශාන්ගේ පියා දිවියෙන් සමුගනී
 
@@ -2249,33 +2265,5 @@ An unidentified body has been recovered by police in the Diyawanna Lake along th
 [Data](articles/79f2e344.json)
 
 [Extended Data](ext_articles/79f2e344.ext.json)
-
----
-
-### In the yarns. Hyperidosis
-
-*2024-05-07 11:39:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-அதிக-வெப்பத்தால்-ஐவர்-உயிரிழப்பு/71-336880) · `ta`
-
-Jaffna heat wave kills 5; high temperatures lead to "Heat Stroke," affecting kidney, heart, and respiratory systems. Prevention includes drinking cold drinks, providing water to the elderly, and consuming fruits like watermelon and cucumber.
-
-🟩
-
-Five people have died due to the high heat and heat wave in Jaffna, said General Medical Expert at the Jaffna Hospital, R. Paranandarajah.
-
-There is currently a high hot climate in Jaffna. A man's body can withstand the heat of 40.5 centigrade or 105 paranoid. When it crosses, serious impacts will occur.
-
-So that sweat, sweat, etc.. Increasing sweating, the body will reduce the amount of water and dizziness.
-
-"Heat Stroke" occurs when this situation continues. In addition, the kidney, heart, and respiratory will lose action. Meanwhile, the number of blood vessels will decrease and the body will be badly affected. There are also incidents of losing brain function.
-
-About 05 people who were receiving treatment at Jaffna Bodhana died due to "Heat Stroke". Although their deaths are due to the conditions they already have, the increased heat is the cause of the disease and the cause of their death.
-
-Therefore, we have to save us from the disaster of heat.
-
-...
-
-[Data](articles/b35d7b57.json)
-
-[Extended Data](ext_articles/b35d7b57.ext.json)
 
 ---

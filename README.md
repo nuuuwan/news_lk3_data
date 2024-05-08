@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 22:18:20**
+As of **2024-05-08 22:33:28**
 
 ## Newspaper Stats
 
-*Scraped **22,791** Articles*
+*Scraped **22,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 2,662
 adaderanalk | 2,676
 virakesarilk | 3,390
 dailymirrorlk | 3,579
-adaderanasinhalalk | 3,648
+adaderanasinhalalk | 3,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,787 (100.0%) of 22,791 articles have been extended.
+22,791 (100.0%) of 22,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### මහ රෑ දකුණ රත්කළ වෙඩිප්‍රහාරය ගැන තවත් තොරතුරු
+
+*2024-05-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196413) · `si`
+
+මෙලෙස ජීවිතක්ෂයට පත්වූයේ කීර්ති සේනා අබ්‍රේව් නැමති 56 හැවිරිදි පුද්ගලයෙකි.
+
+අහුංගල්ල බෝගහපිටිය ප්‍රදේශයේ සිය නිවසේ සිටියදී ඔහුට මෙම වෙඩි ප්‍රහාරය එල්ලවී තිබුණි.
+
+අද රාත්‍රි 7.45ට පමණ නාදුනන පුද්ගලයින් දෙදෙනෙක් යතුරු පැදියකින් පැමිණ මෙම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය පවසයි.
+
+වෙඩි ප්‍රහාරයෙන් හිසට සිදුවූ බරපතළ තුවාල සහිතව ඔහුව බලපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+වෙඩි තැබීමට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/8ca8bb14.json)
+
+---
+
+### පොලිස්  නිලධාරීන් දෙදෙනෙකු ඇතුළු 3ක් අත්අඩංගුවට
+
+*2024-05-08 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196412) · `si`
+
+කොට්ටාව පොලිස් ස්ථානයට අනුයුක්ත නිලධාරීන් දෙදෙනෙකු ඇතුළු තිදෙනෙකු අල්ලස් හෝ දූෂණ විමර්ශන කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+රුපියල් ලක්ෂ 2ක අල්ලස් මුදලක් ලබාගැනීමේ චෝදනාව යටතේ මොවුන් අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය පවසන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොට්ටාව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරියේ නිරතව සිටි සැරයන්වරයෙකු සහ කොස්තාපල්වරයෙකු බවය.
+
+◼️
+
+[Data](articles/33656d56.json)
+
+---
 
 ### Three including Police Constable, Sergeant arrested on bribery charges
 
@@ -41,6 +77,8 @@ Three persons including a Police Constable, and a Sergeant attached to the Kotta
 ◼️
 
 [Data](articles/9ab26118.json)
+
+[Extended Data](ext_articles/9ab26118.ext.json)
 
 ---
 
@@ -53,6 +91,8 @@ A Major General and a Sergeant, both retired, have been arrested by the Criminal
 ◼️
 
 [Data](articles/30a83971.json)
+
+[Extended Data](ext_articles/30a83971.ext.json)
 
 ---
 
@@ -109,6 +149,8 @@ Dr. Gunasekara was apprehended by the CID in connection with the procurement of 
 ◼️
 
 [Data](articles/b8a76f5c.json)
+
+[Extended Data](ext_articles/b8a76f5c.ext.json)
 
 ---
 
@@ -213,6 +255,8 @@ The motive behind the shooting was not immediately clear, according to the polic
 ◼️
 
 [Data](articles/b6f4d4a9.json)
+
+[Extended Data](ext_articles/b6f4d4a9.ext.json)
 
 ---
 
@@ -2209,53 +2253,5 @@ He said that the hospital kept the victims alive as the kidney was lost.
 [Data](articles/bb70b323.json)
 
 [Extended Data](ext_articles/bb70b323.ext.json)
-
----
-
-### Another obstacle to students who go to Australia
-
-*2024-05-08 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196395) · `si`
-
-Australia's visa requirements for international students have increased, affecting savings accounts. Investigations are underway to address false information claims. The savance amount has risen from $21,041 to $24,505, impacting transit numbers.
-
-🟩
-
-International students who come to learn in Australia have reapped the "Savance Amount" to get their visas.
-
-They also say that investigations are being taken to reveal that false information regarding savings accounts.
-
-International Media This decision has taken this decision to reduce the number of transit.
-
-According to this Friday (10), an international student should ensure that the Australian Visa has Australian Visa.
-
-In October last October, the amount increased to Australian $ 21,041 to 24,505.
-
-In 2022/23, their income was reached $ 36.6 billion Australian $ 36.6 billion.
-
-◼️
-
-[Data](articles/394dbec4.json)
-
-[Extended Data](ext_articles/394dbec4.ext.json)
-
----
-
-### Diana's MP cancels
-
-*2024-05-08 11:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-எம்-பி-பதவி-இரத்து/175-336948) · `ta`
-
-The Supreme Court has issued a verdict on Diana Kamage's appeal, rejecting an appeal by social activist Osala Herath against the Court of Appeal's decision to uphold the legitimacy of Kamage's parliamentary seat.
-
-🟩
-
-The Supreme Court has issued a verdict on the appeal filed against the post of Parliament of the State Minister Diana Kamage.
-
-Social activist Osala Herath has filed an appeal against the verdict of the Court of Appeal, which rejected the writ petition, challenging the legitimate character of the Parliamentary seat of the State Minister Diana Kamage.
-
-◼️
-
-[Data](articles/bf664818.json)
-
-[Extended Data](ext_articles/bf664818.ext.json)
 
 ---

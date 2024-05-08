@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 00:04:37**
+As of **2024-05-09 00:18:16**
 
 ## Newspaper Stats
 
-*Scraped **22,803** Articles*
+*Scraped **22,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,40 @@ adalk | 1,930
 tamilmirrorlk | 2,664
 adaderanalk | 2,678
 virakesarilk | 3,391
-dailymirrorlk | 3,581
+dailymirrorlk | 3,582
 adaderanasinhalalk | 3,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,802 (100.0%) of 22,803 articles have been extended.
+22,803 (100.0%) of 22,804 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-09 (Thursday)
+
+### The political ‘animals’  we choose
+
+*2024-05-09 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-political-animals-we-choose/172-282189) · `en`
+
+This seller of plastic balls at Galle Face Green is sure to know how customers make choices regarding his products, but he might find it difficult to choose which candidate to back during an election
+
+Voters can quickly spot the political animal who is canvassing for votes–thanks to education; but people must be careful about the politician who can conceal the ‘animal’ within
+
+The confidence Wickremesinghe gives people about the economy can be eclipsed by the love AKD is winning from the people
+
+There is a school of thought that a debate between Sajith and AKD might not be the ideal at this juncture in politics; this is because both are working on winning the love of the people
+
+We cannot change the political landscape of this country as long as we go to the polling booth and look for a candidate who is the best ‘choice’ in our search among those who are the least corrupt
+
+How does the manifesto of each party or alliance defer from the Constitution of the country?
+
+...
+
+[Data](articles/8713901e.json)
+
+---
 
 ### 2024-05-08 (Wednesday)
 
@@ -47,6 +71,8 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 ...
 
 [Data](articles/e3d10ae3.json)
+
+[Extended Data](ext_articles/e3d10ae3.ext.json)
 
 ---
 
@@ -2211,37 +2237,5 @@ The tournament was organized by the Ministry of Sports, Sri Lanka Army Motor Spo
 [Data](articles/1903e03d.json)
 
 [Extended Data](ext_articles/1903e03d.ext.json)
-
----
-
-### Two detainees killed in bus parcel with pork
-
-*2024-05-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196396) · `si`
-
-Two detainees died after consuming pork in a parcel. Their bodies are under investigation at the Colombo Medical Research Institute. Two people from Borella and Dehiwala were arrested for smuggling pork into the Magazine Prison. The incident is under investigation by the Department of Prisons.
-
-🟩
-
-The Judicial Medical Officer has given an open decision regarding the death inspection of the two prison inmates.
-
-Accordingly, their body parts have been made to refer to the Colombo Medical Research Institute for further investigations.
-
-Two people living in Borella and Dehiwala areas were arrested and detained in the Magazine Prison.
-
-Relatives were taken by relatives with pork parks with pork prepared at the home of this inmate.
-
-The rice parcel has eaten about 15 inmates and three inmates have been admitted to the Colombo National Hospital due to an alleged.
-
-Two detainees were killed and another inmate is already receiving treatment at the Colombo National Hospital.
-
-The deceased has been carried out yesterday (07) and this decision was issued.
-
-However, an inquiry will be conducted at the Department of Prisons regarding the incident.
-
-◼️
-
-[Data](articles/b0148004.json)
-
-[Extended Data](ext_articles/b0148004.ext.json)
 
 ---

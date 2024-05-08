@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 17:18:22**
+As of **2024-05-08 17:33:45**
 
 ## Newspaper Stats
 
-*Scraped **22,742** Articles*
+*Scraped **22,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,921
 tamilmirrorlk | 2,659
-adaderanalk | 2,669
+adaderanalk | 2,670
 virakesarilk | 3,388
 dailymirrorlk | 3,572
 adaderanasinhalalk | 3,641
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,742 (100.0%) of 22,742 articles have been extended.
+22,742 (100.0%) of 22,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### President says his task to restore Sri Lanka’s economy is nearing its end
+
+*2024-05-08 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99087/president-says-his-task-to-restore-sri-lankas-economy-is-nearing-its-end) · `en`
+
+President Ranil Wickremesinghe says that his task to restore the country’s economy is nearing its end and that they have to now focus on the next step.
+
+“My task as president has been to restore the economy. In other words, to stabilize the economy. That task is nearing an end and we have to now focus on the next step,” he said.
+
+“We can’t carry on with this economic model, which certainly hasn’t worked,” he said, adding that Sri Lanka has transformed itself into an export-oriented economy and a highly competitive economy.
+
+For this purpose, Wickremesinghe stated that the government will be introducing legislation in parliament, which will ensure that all government policies focus on the transformation to a highly competitive export-oriented economy. He said the bill will most probably be gazetted next week.
+
+The President revealed that one of the items in the bill, in carrying out this transformation, is to ensure that Sri Lanka achieves net-zero emissions by 2050.
+
+...
+
+[Data](articles/da95cbf3.json)
+
+---
 
 ### Appointments to 2100 new Grama Niladhari
 
@@ -64,7 +84,7 @@ The President has educated new Grama Niladhari, including the Government and her
 
 *2024-05-08 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99086/youth-killed-in-motorcycle-accident-in-kahawatta) · `en`
 
-A teenager has been killed in an accident involving a motorcycle near the 8th mile post on the Bemmulle Gedara Road in Kahawatta, in the Pothuhera police area.
+A teenager has been killed in an accident involving a motorcycle near the 8th mile post on the Bemmulle Gedara Road in Kahawatte Ela, in the Pothuhera police area.
 
 The accident had occurred as the motorcyclist, who was traveling from Bemmulle Gedara towards Kahawatta, had lost control of the motorcycle, causing it to veer off the road and fall into the Ginneriya Bridge.
 
@@ -2303,27 +2323,5 @@ May  1st 2024 saw   –   according to some newspapers –   41 May Day related 
 [Data](articles/5fbb9b96.json)
 
 [Extended Data](ext_articles/5fbb9b96.ext.json)
-
----
-
-### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
-
-*2024-05-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182928) · `ta`
-
-Anuradhapura's 15,000 families are part of a 20-25 year modern agricultural promotion scheme led by Ruwan Wijewardena. A training center with foreign investment will increase income, with $6,000 per family for solar power plants. Products like vegetables and fruits will be exported. The project aims to expand to other districts.
-
-🟩
-
-A modern agricultural promotion scheme based on 15 000 agricultural families selected in Anuradhapura. Ruwan Wijewardena, the President's Senior Advisor to the Climate, said that the project will be implemented for 20 to 25 years and is planning to expand it in other districts in the future.
-
-He further stated this at a press conference held at the Presidential Media Center on Tuesday (7).
-
-Training Center with foreign investment will be set up to provide an increase in income for 15 000 agricultural families in Anuradhapura.. For this, a foreign company called Nediva has allocated $ 6,000 to a family. Accordingly, the families will be provided with necessary items, including solar power plant.
-
-...
-
-[Data](articles/4ad41219.json)
-
-[Extended Data](ext_articles/4ad41219.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 19:33:33**
+As of **2024-05-08 19:51:12**
 
 ## Newspaper Stats
 
-*Scraped **22,770** Articles*
+*Scraped **22,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,54 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,924
-tamilmirrorlk | 2,660
+adalk | 1,925
+tamilmirrorlk | 2,661
 adaderanalk | 2,671
 virakesarilk | 3,390
-dailymirrorlk | 3,574
+dailymirrorlk | 3,575
 adaderanasinhalalk | 3,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,770 (100.0%) of 22,770 articles have been extended.
+22,770 (100.0%) of 22,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### ஹிருணிகாவுக்கு கால அவகாசம் வழங்கிய நீதிமன்றம்
+
+*2024-05-08 19:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-கால-அவகாசம்-வழங்கிய-நீதிமன்றம்/175-336979) · `ta`
+
+ஹிருணிகா பிரேமச்சந்திரவுக்கு எதிராக தாக்கல் செய்யப்பட்ட முறைப்பாட்டை எதிர்வரும் ஜூன் மாதம் 14ஆம் திகதி அழைக்குமாறு மேன்முறையீட்டு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+மேலும், இந்த வழக்கு தொடர்பான ஆட்சேபனைகளை இரண்டு வாரங்களுக்குள் தாக்கல் செய்ய நடவடிக்கை எடுக்குமாறு ஹிருணிகா பிரேமச்சந்திரவின் சட்டத்தரணிகளுக்கு நீதிமன்றம் காலவகாசம் வழங்கியுள்ளது.
+
+ஊவா மாகாண ஆளுநர் மொஹமட் முஸம்மிலின் மகன் தாக்கல் செய்த முறைப்பாட்டின் பிரகாரம் இந்த வழக்கு விசாரணை நடைபெற்று வருகிறமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/38b5e16e.json)
+
+---
+
+### Immigration head, Ministry secretary summoned before CoPF
+
+*2024-05-08 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-head-Ministry-secretary-summoned-before-CoPF/108-282181) · `en`
+
+Colombo, May 08 (Daily Mirro)- Secretary to the Ministry of Public Security along with Controller General of the Department of Immigration and Emigration have been summoned before the Committee on Public Finance tomorrow, CoPF Chairman Dr. Harsha De Silva said today.
+
+He said they were summoned for a balanced inquiry into the ongoing visa fiasco.
+
+In a post on X, he said although it is customary for all public finance related legislations to be routed through the COPE, the visa matter was not referred to the CoPF.
+
+◼️
+
+[Data](articles/f96dc6b0.json)
+
+---
 
 ### Mystery surrounds inmate deaths at Magazine Prison
 
@@ -157,6 +189,20 @@ The summit aims to assess potential disruptions to critical sectors of the econo
 [Data](articles/c3bdd394.json)
 
 [Extended Data](ext_articles/c3bdd394.ext.json)
+
+---
+
+### විවාදයකට එන්නැයි උදයගෙන් මහබැංකු අධිපතිට අභියෝගයක්
+
+*2024-05-08 18:13:15* · [`adalk`](https://www.ada.lk/breaking_news/විවාදයකට-එන්නැයි-උදයගෙන්-මහබැංකු-අධිපතිට-අභියෝගයක්/11-409505) · `si`
+
+හැකිනම් තමන් සමග විවාදයකට එන්නැයි පාර්ලිමේන්තු මන්තී උදය ගම්මන්පිල මහතා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතාට අභියෝග කළේය. ගම්මන්පිල මහතා මෙම අභියෝගය කළේ අද (08්) පාර්ලිමේන්තුවේ පැවති ඛණිජතෙල් නිෂ්පාදන (විධිවිධාන) පනත් කෙටුම්පත පිළිබද විවිාදයට එක් වෙමිනි.
+
+"පසුගිය අවුරුද්දේ ආණ්ඩුව මහ බැංකුව ස්වාධීන කළ යුතුයි කියලා පනතක් ගෙනාවා.  මහ බැංකුව මහජනතාවට වෙනුවට ජාත්‍යන්තරයට වග කියන ආයතනයක් වෙන බව අපි දැක්ක නිසා අපි ඒකට විරුද්ධ වුණා.  නමුත් විපක්ෂයේ බහුතරය ඒකට හුරේ දැම්මා.  මේක පාර්ලිමේන්තුවේ බේරා ගන්න බැරි බව තේරුණු නිසා අපි අධිකරණයට ගිහිල්ලා සංශෝධන 72ක් නිර්දේශ කර ගත්තා.  ඒ සංශෝධනත් කර ගත්තේ නැතිනම් මහ බැංකුව නූල කැඩුණු සරුංගලයක් වෙන්න තිබුණා.  හැමෝම මහ උජාරුවට කතා කරන ස්වාධීනත්වය ලබා දුන්නාම ඒ අය මොකද කලේ? ලංකාවේ කිසිම ආයතනයක නොකළ ආකාරයකට ලක්ෂ ගණනින් වැටුප් වැඩි කර ගත්තා.
+
+...
+
+[Data](articles/e5147b8f.json)
 
 ---
 
@@ -2239,79 +2285,5 @@ He also stated that as members of the Armed Forces of Sri Lanka, “we are bound
 [Data](articles/0dffcf89.json)
 
 [Extended Data](ext_articles/0dffcf89.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 298.40/60 to US dollar
-
-*2024-05-08 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-40-60-to-us-dollar-162019/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/60 to the US dollar on Tuesday from 299.40/70 the previous day, dealers said.
-
-The rupee is not seen to be volatile in the future based on data available at the moment, Central Bank Governor Nandalal Weerasinghe has said.
-
-“When we look at foreign incomes and payments due in the future I do not see the exchange rate will move up and down a lot,” Governor Weerasinghe told reporters Tuesday, speaking in Sinhalese.
-
-Sri Lanka rupee not seen to be volatile in future: CB Governor
-
-A bond maturing on 15.12.2026 was quoted down at 10.62/65 percent from 10.65/75 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.00/05 percent down from 11.05/15 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.35/45 percent down from 11.40/55 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.25 percent at 12,406, and the S&P SL20 was up 0.26 percent at 3,650. (Colombo/May08/2024)
-
-◼️
-
-[Data](articles/3ec1b3e7.json)
-
-[Extended Data](ext_articles/3ec1b3e7.ext.json)
-
----
-
-### The budget party leaders call to Colombo
-
-*2024-05-08 09:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-முக்கியஸ்தர்கள்-கொழும்புக்கு-அழைப்பு/175-336938) · `ta`
-
-Sri Lanka PA leaders meet in Colombo to discuss election campaign. Basil Rajapaksa leads the meeting. A Parliamentary Committee meeting with Rajapaksa was held yesterday. The party's election campaign strategy is set to be decided at the village level from the end of this month.
-
-🟩
-
-The organizers and parties of the Sri Lanka PA have been invited to Colombo today (08).
-
-They are said to have been invited to discuss issues relating to the party's election campaign.
-
-The meeting will be held at the party office in Nelum Mawatha, headed by party founder Basil Rajapaksa.
-
-Meanwhile, a discussion was held yesterday between the Parliamentary Committee of the Sri Lanka Peoples Alliance and Basil Rajapaksa.
-
-It is reported that the party's election campaign has been decided at the village level from the end of this month.
-
-◼️
-
-[Data](articles/cc8a3ba5.json)
-
-[Extended Data](ext_articles/cc8a3ba5.ext.json)
-
----
-
-### Man dies after falling into bathtub
-
-*2024-05-08 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196391) · `si`
-
-A hotel employee in Rambukkana died after falling into a bathtub. Police investigations have begun.
-
-🟩
-
-An employee of a hotel in the Rambukkana Police Division was killed and killed in a hotel in the bath.
-
-The police say that investigations were started on a message received by the Rambukkana Police.
-
-◼️
-
-[Data](articles/4a8bad4b.json)
-
-[Extended Data](ext_articles/4a8bad4b.ext.json)
 
 ---

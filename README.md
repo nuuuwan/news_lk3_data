@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 08:34:47**
+As of **2024-05-08 08:52:19**
 
 ## Newspaper Stats
 
-*Scraped **22,645** Articles*
+*Scraped **22,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,321
 adalk | 1,906
-tamilmirrorlk | 2,637
+tamilmirrorlk | 2,640
 adaderanalk | 2,656
 virakesarilk | 3,386
 dailymirrorlk | 3,554
-adaderanasinhalalk | 3,623
+adaderanasinhalalk | 3,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,645 (100.0%) of 22,645 articles have been extended.
+22,645 (100.0%) of 22,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### இந்திய வெங்காயம் உள்ளது; சீன வெங்காயம் வேண்டாம்
+
+*2024-05-08 08:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெங்காயம்-உள்ளது-சீன-வெங்காயம்-வேண்டாம்/175-336934) · `ta`
+
+இந்தியாவில் இருந்து அதிக அளவில் வெங்காயம் இறக்குமதி செய்யப்படுவதால், சீன வெங்காயத்தின் தேவை குறைந்துள்ளதால், அவற்றை கையிருப்பில் இருந்து நீக்க வேண்டியுள்ளதாக வியாபாரிகள் தெரிவிக்கின்றனர்.
+
+கடந்த நாட்களில் ஒரு கிலோ சீன வெங்காயம் 300 ரூபாய்க்கு விற்கப்பட்டதாகவும், தற்போது ஒரு கிலோ சீன வெங்காயம் 100 ரூபாய்க்கு கூட விற்க முடியாத நிலை ஏற்பட்டுள்ளதாகவும் தெரிவிக்கின்றனர்.
+
+மேலும், ஒரு கிலோ இந்திய வெங்காயத்தின் விலை 150 - 250 ரூபாய் வரை குறைந்துள்ளது. R
+
+◼️
+
+[Data](articles/e560f1ff.json)
+
+---
+
+### பன்றி இறைச்சி சாப்பிட்ட கைதிகள் திடீர் மரணம்
+
+*2024-05-08 08:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-சாப்பிட்ட-கைதிகள்-திடீர்-மரணம்/175-336933) · `ta`
+
+பன்றி இறைச்சி சாப்பிட்ட மகசின் சிறைக் கைதிகளில் இருவர் உயிரிழந்துள்ளதுடன், மற்றுமொரு கைதி ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பொரளை மற்றும் தெஹிவளை பிரதேசங்களைச் சேர்ந்த இருவரே உயிரிழந்துள்ளதாகவும், ஐஸ் போதைப்பொருள் வைத்திருந்த குற்றத்திற்காக இவர்கள் கைது செய்யப்பட்டிருந்ததாகவும் பொரளை பொலிஸார் தெரிவித்தனர்.
+
+பொரளை பொலிஸாரினால் கைது செய்யப்பட்ட சந்தேகநபர் ஒருவர் மெகசின் சிறைச்சாலையில் தடுத்து வைக்கப்பட்ட நிலையில், குறித்த கைதியின் வீட்டிலிருந்து பன்றி இறைச்சியுடன் சோறு பொதி கொண்டுவரப்பட்டுள்ளது.
+
+இதை 15 கைதிகளுடன் சேர்த்து சாப்பிட்டனர், அதன் பிறகு மூன்று கைதிகள் நோய்வாய்ப்பட்டு சிறைச்சாலை மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இவர்களில் இரண்டு கைதிகள் உயிரிழந்துள்ளதுடன் ஒருவர் ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+எவ்வாறாயினும், பன்றி இறைச்சி கறியை உண்பதால் ஏற்பட்ட ஒவ்வாமையா என்பது தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பி திஸாநாயக்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/2c07dc31.json)
+
+---
+
+### යුක්‍රේන යුද්ධයට ශ්‍රී ලංකිකයින් යවන ජාවාරම්කරුවන් අත්අඩංගුවට ගැනීමේ විශේෂ මෙහෙයුමක්
+
+*2024-05-08 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196388) · `si`
+
+රුසියාවේ සහ යුක්‍රේනයේ හමුදා කඳවුරුවලට මෙරට හිටපු හමුදා භටයන් යොමු කිරීමේ ජාවාරමට සම්බන්ධ පුද්ගලයින් අත්අඩංගුවට ගැනීම සඳහා මෙහෙයුමක් ආරම්භ කර ඇති බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
+
+ආරක්ෂක ලේකම් විශ්‍රාමික ජෙනරාල් කමල් ගුණරත්න මහතා සඳහන් කළේ, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ බුද්ධි අංශ ඒකාබද්ව මෙම මෙහෙයුමක් ආරම්භ කර ඇති බවය.
+
+...
+
+[Data](articles/049e30b2.json)
+
+---
+
+### අභියාචනා පෙත්සමක් සලකා බැලීමෙන් විනිසුරුවරයෙකු ඉවත් වෙයි
+
+*2024-05-08 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196387) · `si`
+
+කොළඹ වරාය මුහුදු සීමාවේදී එක්ස්ප්‍රස් පර්ල් නෞකාව ගිනිගැනීමේ සිද්ධිය සම්බන්ධයෙන් විභාගය අත්හිටුවීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර තිබෙන අභියාචනා පෙත්සම සලකා බැලීමේ කටයුතුවලින් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු එස්. තුරෙයි රාජා මහතා ඉවත්ව තිබේ.
+
+අදාළ නෞකාවේ කපිතාන්වරයා සහ එම නෞකාවේ දේශීය නියෝජිත සමාගමේ අධ්‍යක්ෂවරුන්ට එරෙහිව කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබෙන අපරාධ නඩුවක විභාගය අත්හිටුවීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර ඇති අභියාචනා පෙත්සම් සලකා බැලීමේ මෙම විනිසුරුවරයා ඉවත්ව ඇති බව සඳහන්ය.
+
+මහාධිකරණය හමුවේ පැවැත්වෙන නඩු විභාගය අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අදාළ නෞකාවේ දේශීය නියෝජිත සමාගම වූ සී කොන්සෝටියම් ලංකා පුද්ගලික  සමාගමේ අධ්‍යක්ෂවරු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් ඊයේ (07) කැඳවනු ලැබීය.
+
+එස්.තුරෙයි රාජා, ජනක් ද සිල්වා සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම කැඳවීම සිදු වූ බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/3a2586cb.json)
+
+---
 
 ### Sri Lanka thrash Scotland to win Women’s T20 World Cup qualifiers
 
@@ -411,6 +479,22 @@ Accordingly, in the Economic Review of 2023, the key issues indicated on the cou
 [Data](articles/3ad0b025.json)
 
 [Extended Data](ext_articles/3ad0b025.ext.json)
+
+---
+
+### 100 மில்லியன் அமெரிக்க டொலர் முதலீடு
+
+*2024-05-08 00:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லியன்-அமெரிக்க-டொலர்-முதலீடு/175-336932) · `ta`
+
+இலங்கையில் விவசாய மற்றும் வனப் பாதுகாப்புத் திட்டமொன்றில் இணைந்து செயற்படுவதற்கான புரிந்துணர்வு ஒப்பந்தம் நேற்று ஜனாதிபதி அலுவலகத்தில் கைச்சாத்திடப்பட்டது.
+
+இலங்கையின் காலநிலை மாற்ற செயலகம் சார்பாக காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன, காலநிலை இடர் மன்றம்  சார்பாக அதன் பொதுச் செயலாளர் முன்னாள் மாலைதீவு ஜனாதிபதி மொஹமட் நஷிட் மற்றும் போர்த்துக்கலின் Nativa Capital நிறுவனம் சார்பில் அதன் பிரதம நிறைவேற்று அதிகாரி கார்லோஸ் கோமஸ் ஆகியோர் இந்த ஒப்பந்தத்தில் கைச்சாத்திட்டனர்.
+
+விவசாய விளைச்சல் மற்றும் விவசாயிகளின் வருமானத்தை அதிகரிக்கும் நோக்கத்துடன் மேம்படுத்தப்பட்ட மற்றும் நிலைபேறான விவசாய முறைகளை அறிமுகப்படுத்துவதன் மூலம் இலங்கையில் உள்ள கிராமப்புற சமூகங்களின் வீட்டு விவசாயத்தை மேம்படுத்துவதை இந்த ஒப்பந்தம் நோக்கமாகக் கொண்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a51ff5af.json)
 
 ---
 
@@ -2113,119 +2197,5 @@ The reason why the student was conquered with so far, the Katugastota OIC Chief 
 [Data](articles/f5e53db1.json)
 
 [Extended Data](ext_articles/f5e53db1.ext.json)
-
----
-
-### Bouzi's son arrested
-
-*2024-05-07 17:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌசியின்-மகன்-கைது/175-336903) · `ta`
-
-Nouser Bouzi Kalupitiya, former Minister and Provincial Council member, arrested for assault. His son, Remble, also arrested. Accused in an accident in Kaluppitti.
-
-🟩
-
-Former Minister AHM. Former Provincial Council member Nouser Bouzi Kalupitiya has been arrested by the police.
-
-He has been accused of assaulting the victim after an accident in the Kaluppitti school Mawatha area.
-
-The Kaluppitti police are investigating the incident and arrested the son of the suspect. Remble
-
-◼️
-
-[Data](articles/75e55566.json)
-
-[Extended Data](ext_articles/75e55566.ext.json)
-
----
-
-### Sri Lanka EPF net contribution turn positive again in 2024: Deputy Governor
-
-*2024-05-07 17:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-epf-net-contribution-turn-positive-again-in-2024-deputy-governor-161884/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Employment Provident Fund contributions had turned positive in 2024, after outflows exceeded inflows in 2023, Deputy Governor Yvette Fernando said.
-
-“In 2023 there were greater outflows,” Fernando explained. “Sometime people who retired did not immediately take out their funds. But there were more outflows last year.
-
-In 2024 some private firms have raised salaries after inflation spiked last year. Some companies have also raised executive salaries to defray an income tax hike.
-
-Demographers have been warning for years that EPF contributions would eventually turn negative, though the original deadline had passed. (Colombo/May07/2024)
-
-◼️
-
-[Data](articles/40a78662.json)
-
-[Extended Data](ext_articles/40a78662.ext.json)
-
----
-
-### Two new scholarship programs
-
-*2024-05-07 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196376) · `si`
-
-Two new scholarship programs launched by President Ranil Wickremesinghe for students in Pirivenas and Silateta institutions, covering GCE (A/L) students. Scholarships awarded for 12 months from May 2024. More details on www.presidentsfund.gov.lk and www.pacebook.com/president.fund.
-
-🟩
-
-Two more scholarships have been launched in addition to scholarship programs implemented by the Presidential Fund.
-
-The new scholarship programs have been launched on the instructions of President Ranil Wickremesinghe.
-
-Accordingly, students who are studying in Pirivenas and Silateta educational institutions and scholarships from May 2024 for students who are studying as a subject as a subject as well as the GCE (A / L) students study as well as the GCE (A / L) students.Will be awarded.
-
-The first is the first time in the history of student monks, Scholarships and Leah students studying in Pirivena and Silanda educational institutions.
-
-Under this, the maximum number of scholarships will be awarded to one / Sealamaha educational institute.
-
-Accordingly, the Commissioner of the Puraway and the Institute should be selected for his Pirivena / Salamaatha Educational Institute.
-
-The scholarships will be awarded under two categories and are expected to provide scholarships for 5,000 laye clergy.
-
-...
-
-[Data](articles/940418de.json)
-
-[Extended Data](ext_articles/940418de.ext.json)
-
----
-
-### 17 and 20 year old girls sexually harassed
-
-*2024-05-07 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/17-and-20-year-old-girls-sexually-harassed/108-282101) · `en`
-
-Two 15-year-old schoolboys who had threatned to share on the internet the manipulated nude photos of two schoolgirls of 17 and 20 years of age were produced before Galle Additional Magistrate Lakmini Vidanagama and released on personal bail in Rs. 100,000 with two sureties each.
-
-The magistrate called for a probation report on the two boys.
-
-The suspects are Year 10 students of a school in Akmeemana and residents of Narawala in Akmeemana.
-
-Investigations revealed that the two boys who had  wooed the two grils without any positive response from them had taken their photos secretly and threatned to swap their faces on nude photos and share them on the internet.
-
-The girls who were frightened of this threat had complained to the Akeemana police through elders.
-
-Akmeemana police arrested and produced the boys before court on suspicion of criminal intimidation and sexual harassment.
-
-◼️
-
-[Data](articles/11780cec.json)
-
-[Extended Data](ext_articles/11780cec.ext.json)
-
----
-
-### President’s Fund initiates two new scholarship programs
-
-*2024-05-07 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99067/presidents-fund-initiates-two-new-scholarship-programs) · `en`
-
-As per the instructions of President Ranil Wickremesinghe, the President’s Fund has initiated two additional scholarship programs alongside the on-going scholarship initiatives, the President’s Media Division reported today.
-
-These scholarships will be extended to monks, nuns, and lay students enrolled in Piriven and Seelamatha Educational Institutions, as well as those pursuing Information and Communication Technology (ICT) at G.C.E. (Advanced Level), effective from May 2024.
-
-The scholarship distribution will cover all 822 Piriven and Seelamatha Educational Institutions across the country. A total of 06 scholarships will be granted to each institution. The selection of scholarship recipients from the respective departments/Seelamatha Educational Institutions will be the responsibility of the Parivenadhipathi Thero/Institution Director.
-
-...
-
-[Data](articles/23a74d2e.json)
-
-[Extended Data](ext_articles/23a74d2e.ext.json)
 
 ---

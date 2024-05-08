@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 00:49:14**
+As of **2024-05-09 01:03:22**
 
 ## Newspaper Stats
 
-*Scraped **22,805** Articles*
+*Scraped **22,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,316
-dailyftlk | 1,322
+dailyftlk | 1,323
 adalk | 1,930
 tamilmirrorlk | 2,664
 adaderanalk | 2,678
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,805 (100.0%) of 22,805 articles have been extended.
+22,805 (100.0%) of 22,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Post-May Day political balance and scenarios
+
+*2024-05-09 00:45:10* · [`dailyftlk`](https://www.ft.lk/columns/Post-May-Day-political-balance-and-scenarios/4-761552) · `en`
+
+Tyrannical Tiran Alles is about to learn a lesson in politics that his distinguished, respected father would have taught him had he been around. The worst time to play tough guy is in an election year with six months max to go to vote. Citizens (including officials) are impatient to vote, and are unintimidated because they know they have the power to bring the whole power structure down soon, if they so wish.
+
+The Minister concerned is an unelected parliamentarian whose name has figured in disclosures by whistleblowing international journalists. He is attempting a witch-hunt against an articulate, courageous, mediagenic young man. He has antagonised the socially confident, sophisticated travel industry. Whatever his power (and cross-party connections), he is on a very slippery slope and may start the rockslide that takes the administration down with him.
+
+...
+
+[Data](articles/e400241b.json)
+
+---
 
 ### The political ‘animals’  we choose
 
@@ -2223,29 +2237,5 @@ MP Nalin Bandara who informed Parliament on the judgment thanked the Supreme Cou
 [Data](articles/19dcee6f.json)
 
 [Extended Data](ext_articles/19dcee6f.ext.json)
-
----
-
-### A plan of Ukrainian President Mahinda Rajapaksa reveals
-
-*2024-05-08 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196397) · `si`
-
-Ukrainian President Mahinda Rajapaksa's plan reveals Russia attempted to assassinate President Vlodimir Selenski. The Ukrainian government arrested two commanders of the protection unit involved in the conspiracy, alleging they served in Russia. A secret operation was also revealed to identify among Celenceky's bodyguards.
-
-🟩
-
-Ukrainian defense service has accused Russia has attempted to assassinate President Vlodimir Selenski.
-
-The Ukrainian government has arrested two commands of the protection unit of protecting the relevant conspiracy.
-
-They allege that those people have served as men in Russia.
-
-They have also revealed a secret operation to find out among the Celenceky's bodyguards.
-
-◼️
-
-[Data](articles/7bba8db9.json)
-
-[Extended Data](ext_articles/7bba8db9.ext.json)
 
 ---

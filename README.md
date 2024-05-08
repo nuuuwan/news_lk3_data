@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 20:03:25**
+As of **2024-05-08 20:18:25**
 
 ## Newspaper Stats
 
-*Scraped **22,773** Articles*
+*Scraped **22,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,925
 tamilmirrorlk | 2,661
 adaderanalk | 2,671
 virakesarilk | 3,390
-dailymirrorlk | 3,575
+dailymirrorlk | 3,576
 adaderanasinhalalk | 3,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,773 (100.0%) of 22,773 articles have been extended.
+22,773 (100.0%) of 22,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Viyaskanth debuts in IPL with Sunrisers
+
+*2024-05-08 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyaskanth-debuts-in-IPL-with-Sunrisers/108-282182) · `en`
+
+Leg-spinner Viyaskanth Vijayakanth was handed his Indian Premier League debut today after he was named in the Sunrisers Hyderabad playing XI against the Lucknow Super Giants.
+
+Vijayakanth was drafted into the Sunrisers squad after Sri Lankan all-rounder Wanindu Hasaranga was ruled out of the tournament due to injury.
+
+◼️
+
+[Data](articles/4f711873.json)
+
+---
 
 ### The court that gave Hirunika time time
 
@@ -2283,23 +2297,5 @@ Ms. Amarasuriya said Lalkantha never mentioned that judicial powers will be devo
 [Data](articles/d10ff073.json)
 
 [Extended Data](ext_articles/d10ff073.ext.json)
-
----
-
-### Shavendra advises Sri Lankan veterans to avoid mercenary service abroad
-
-*2024-05-08 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-advises-Sri-Lankan-veterans-to-avoid-mercenary-service-abroad/108-282143) · `en`
-
-Colombo, May 8 (Daily Mirror) - In light of emerging reports detailing the involvement of Sri Lankan veterans in foreign mercenary forces, Chief of Defence Staff (CDS) General Shavendra Silva has issued a heartfelt plea to his fellow veterans, urging them to resist the allure of mercenary service.
-
-“These veterans, once the pride of our nation, have succumbed to the seductive promises of riches and adventure, forsaking the values that define us as warriors and patriots,” General Silva said in a statement yesterday.
-
-He also stated that as members of the Armed Forces of Sri Lanka, “we are bound by duty, honour, and a deep sense of loyalty to our motherland. We have stood valiantly in the face of adversity, sacrificing for the greater good of our nation. Yet, there are whispers of temptation, enticing some of our comrades to forsake their loyalty for the allure of easy money and transient glory.”
-
-...
-
-[Data](articles/0dffcf89.json)
-
-[Extended Data](ext_articles/0dffcf89.ext.json)
 
 ---

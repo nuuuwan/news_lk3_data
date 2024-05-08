@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 10:03:17**
+As of **2024-05-08 10:18:20**
 
 ## Newspaper Stats
 
-*Scraped **22,662** Articles*
+*Scraped **22,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,645
 adaderanalk | 2,656
 virakesarilk | 3,386
 dailymirrorlk | 3,557
-adaderanasinhalalk | 3,626
+adaderanasinhalalk | 3,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,654 (100.0%) of 22,662 articles have been extended.
+22,662 (100.0%) of 22,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### තවත් සැකකටයුතු කාන්තා මරණයක්
+
+*2024-05-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196392) · `si`
+
+ඌරගස්මංහන්දිය පොලිස් වසමේ, කළුවලගොඩ ප්‍රදේශයේ නිවසක තිබී කාන්තා මළ සිරුරක් සොයාගෙන තිබේ.
+
+මේ පිළිබඳව ඌරගස්මංහන්දිය පොලීසියට ලද පණිවිඩයක් මත විමර්ශනයක් ද ආරම්භ කර ඇත.
+
+මෘත ශරීරය නිවසේ ඇඳක් මත තිබී ඇති අතර, දින කිහිපයකට පෙර මියගොස් ඇති බව නිරීක්ෂණය වී ඇත.
+
+මෙම කාන්තාව පමණක් නිවසේ සිට ඇති අතර, ඇගේ ස්වාමිපුරුෂයා රැකියා කටයුතු සඳහා නිවසින් බැහැරව ගොස් සිට ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේත
+
+මෘත ශරීරය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇල්පිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, ඌරගස්මංහන්දිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/86abc46c.json)
+
+---
 
 ### Lalkantha’s remark triggers showdown in Parliament
 
@@ -48,6 +68,8 @@ Ms. Amarasuriya said Lalkantha never mentioned that judicial powers will be devo
 
 [Data](articles/d10ff073.json)
 
+[Extended Data](ext_articles/d10ff073.ext.json)
+
 ---
 
 ### Shavendra advises Sri Lankan veterans to avoid mercenary service abroad
@@ -64,61 +86,105 @@ He also stated that as members of the Armed Forces of Sri Lanka, “we are bound
 
 [Data](articles/0dffcf89.json)
 
+[Extended Data](ext_articles/0dffcf89.ext.json)
+
 ---
 
-### மொட்டு கட்சியின்  முக்கியஸ்தர்கள் கொழும்புக்கு அழைப்பு
+### The budget party leaders call to Colombo
 
 *2024-05-08 09:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-முக்கியஸ்தர்கள்-கொழும்புக்கு-அழைப்பு/175-336938) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர்கள் மற்றும் கட்சியினர் இன்று (08) கொழும்புக்கு அழைக்கப்பட்டுள்ளனர்.
+Sri Lanka PA leaders meet in Colombo to discuss election campaign. Basil Rajapaksa leads the meeting. A Parliamentary Committee meeting with Rajapaksa was held yesterday. The party's election campaign strategy is set to be decided at the village level from the end of this month.
 
-அக்கட்சியின் தேர்தல் பிரசாரம் தொடர்பான விடயங்கள் குறித்து கலந்துரையாடுவதற்காக அவர்கள் அழைக்கப்பட்டுள்ளதாக கூறப்படுகின்றது.
+🟩
 
-கட்சியின் ஸ்தாபகர் பசில் ராஜபக்ஷ தலைமையில் நெலும் மாவத்தையில் உள்ள கட்சி அலுவலகத்தில் இந்த சந்திப்பு இடம்பெறவுள்ளது.
+The organizers and parties of the Sri Lanka PA have been invited to Colombo today (08).
 
-இதேவேளை, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்றக் குழுவிற்கும், பசில் ராஜபக்ஷவுக்கும் இடையில் நேற்று கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+They are said to have been invited to discuss issues relating to the party's election campaign.
 
-இதன்போது, இம்மாத இறுதியிலிருந்து கிராம மட்டத்தில் கட்சியின் தேர்தல் பிரசாரத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
+The meeting will be held at the party office in Nelum Mawatha, headed by party founder Basil Rajapaksa.
+
+Meanwhile, a discussion was held yesterday between the Parliamentary Committee of the Sri Lanka Peoples Alliance and Basil Rajapaksa.
+
+It is reported that the party's election campaign has been decided at the village level from the end of this month.
 
 ◼️
 
 [Data](articles/cc8a3ba5.json)
 
+[Extended Data](ext_articles/cc8a3ba5.ext.json)
+
 ---
 
-### லிட்ரோ நிறுவனத்தின் புதிய எரிவாயு முனையம்
+### නාන තටාකයට වැටී පුද්ගලයෙක් මරුට
+
+*2024-05-08 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196391) · `si`
+
+රඹුක්කන පොලිස් වසමේ කඩිගමුව ලබුගොල්ලවත්ත ප්‍රදේශයේ පිහිටි හෝටලයක සේවකයෙකු එහි නාන තටාකයට වැටී ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඒ පිළිබඳ රඹුක්කන පොලීසියට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කළ බව ද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/4a8bad4b.json)
+
+---
+
+### Litro's new gas terminal
 
 *2024-05-08 09:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்தின்-புதிய-எரிவாயு-முனையம்/175-336937) · `ta`
 
-கடுவளை - மாபிம பகுதியில் லிட்ரோ நிறுவனத்தின் புதிய எரிவாயு முனையமொன்று இன்று(08)  திறந்துவைக்கப்படவுள்ளது.
+Litro's new gas terminal opens today, aiming to distribute 60,000 cylinders daily, addressing the shortfall of the Garavalapitiya terminal.
 
-இதன் ஊடாக தினமும் 60,000 எரிவாயு சிலிண்டர்களை சந்தைக்கு விநியோகிக்க முடியும் என அவர் கூறியுள்ளார்.
+🟩
 
-கெரவலப்பிட்டிய எரிவாயு முனையத்தின் ஊடாக நாளாந்தம் ஒரு இலட்சம் சிலிண்டர்கள் சந்தைக்கு விநியோகிக்கப்படுகின்றன.
+Litro's new gas terminal will be opened today (08).
 
-எனினும், நாளாந்த தேவையைப் பூர்த்தி செய்வதற்கு கெரவலப்பிட்டிய முனையம் மாத்திரம் போதாது என்பதனால், புதிய முனையத்தை நிர்மாணிக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+Through this, 60,000 gas cylinders can be distributed daily, he said.
+
+One million cylinders are distributed daily to the market through the Garavalapitiya gas terminal.
+
+However, he noted that the new terminal has been constructed as the Karavalapitiya terminal is not enough to meet the daily demand.
 
 ◼️
 
 [Data](articles/2d90d80f.json)
 
+[Extended Data](ext_articles/2d90d80f.ext.json)
+
 ---
 
-### வேலை நிறுத்தம் குறித்து இன்று தீர்மானம்
+### Resolution today on strike
 
 *2024-05-08 09:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-நிறுத்தம்-குறித்து-இன்று-தீர்மானம்/175-336936) · `ta`
 
-இன்று (08) நடைபெறும் கலந்துரையாடலில் தமது பிரச்சினைகளுக்கு நிரந்தர தீர்வு கிடைக்காவிட்டால், தற்போதைய தொழிற்சங்க நடவடிக்கைகளை மேலும் தீவிரப்படுத்த வேண்டியுள்ளதாக பல்கலைக்கழக நிறைவேற்று அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+The University Executive Officers Association threatens to escalate strikes if salary issues aren't resolved in today's discussions. They've been on strike since March 3rd over salary concerns. Today's talks focus on a Cabinet paper for a salary hike, with a demonstration planned.
 
-சம்பள பிரச்சினை காரணமாக கடந்த 03 ஆம் திகதி முதல் பல்கலைக்கழக நிறைவேற்று அதிகாரிகள் ஒன்றியம் தொழிற்சங்க நடவடிக்கையில் ஈடுபட்டு வருகின்றது.
+🟩
 
-இன்றைய கலந்துரையாடலில் தமது சம்பள உயர்வு குறித்த அமைச்சரவை பத்திரம் தொடர்பில் கலந்துரையாடப்பட்டு அதில் தீர்வு வழங்கப்படும் என எதிர்ப்பார்க்கப்படுவதாக  சங்கத்தின் ஆலோசகர் சம்பத் உதயங்க தெரிவித்துள்ளார்.
+The University Executive Officers Association has said that if there is no permanent solution to their problems in today's discussion, the current trade union actions have to be intensified.
 
-அத்துடன், வேலை நிறுத்தத்துடன் இணைந்து இன்று ஆர்ப்பாட்டம் ஒன்றும் நடத்தப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+The university executive union has been engaged in trade union action since the 3rd of this month due to the salary issue.
+
+The Association's adviser Sampath Udayanga said that today's discussion is expected to be discussed and resolved on the Cabinet paper on their salary hike.
+
+He also said that a demonstration will be held today in collaboration with the strike.
 
 ◼️
 
 [Data](articles/eb9c1a1b.json)
+
+[Extended Data](ext_articles/eb9c1a1b.ext.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-05-08 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196390) · `si`
+
+◼️
+
+[Data](articles/cbb13f2f.json)
 
 ---
 
@@ -724,19 +790,27 @@ The scholarship will be given in two phases and will be given to 5000 poor stude
 
 ---
 
-### ஜனாதிபதி நிதியத்தினால் புதிய புலமைப் பரிசில்
+### In the new scholarship by the President's Fund
 
 *2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலமைப்-பரிசில்/175-336931) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+The President's Fund has initiated two new scholarship programs under President Ranil Wickremesinghe's guidance. These include a scholarship for female Bikkuni beam students and another for other students. The scholarships will be awarded based on recommendations from company leaders, with 06 scholarships for the female Bikkuni beam program and 822 for other students. The scholarships will be distributed in two phases, with the first phase offering 3000 rupees for 12 months and the second phase offering 6,000 rupees.
 
-அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+🟩
 
-நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும், ஏனைய மாணவர்களுக்கான 822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
 
-...
+Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
+
+The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
+
+The scholarship will be given in two phases and will be given to 5000 poor students who are learning, and under the first phase of May 2024 to 12 months, 3000 rupees for 12 months and 6,000 rupees under the second stage.. (A)
+
+◼️
 
 [Data](articles/cec91deb.json)
+
+[Extended Data](ext_articles/cec91deb.ext.json)
 
 ---
 
@@ -1275,6 +1349,8 @@ Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom i
 ...
 
 [Data](articles/22c706ea.json)
+
+[Extended Data](ext_articles/22c706ea.ext.json)
 
 ---
 
@@ -1880,19 +1956,25 @@ When I was in New York in 2004 I questioned the 'Kobio' organization for the fir
 
 ---
 
-### ලුණු සංස්ථාව එක්කෝටියක මුදලක් චක්‍ර ලේඛවලට පටහැනිව ගෙවලා
+### Salt Corporation offers a sum of money to circulars
 
 *2024-05-07 19:40:59* · [`adalk`](https://www.ada.lk/breaking_news/ලුණු-සංස්ථාව-එක්කෝටියක-මුදලක්-චක්‍ර-ලේඛවලට-පටහැනිව-ගෙවලා/11-409488) · `si`
 
-සීමාසහිත ජාතික ලුණු සංස්ථාව විසින් චක්රාලේඛන විධි විධානවලට පටහැණිව එම සමාගමේ සේවය කරන නිලධාරීන් 111දෙනෙකු සඳහා 2023 ජනවාරි 01වන දින සිට එම වර්ෂයේ ජූලි මස 30දක්වා කාලසීමාව තුළදී දෛනිකව අර්බුද දීමනාව වශයෙන් රුපියල් එක්කෝටි තිස්දෙදහස් අනූඅටක මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය මගින් මැයි 04වන දින නිකුත් කරන ලද විගණන වාර්තාවක සඳහන් වේ.
+Salt Corporation paid Rs. to circulars, with an additional Rs. 30 issued by the National Audit Office. The audit found the payment was a daily allowance, recommending it be continued.
 
-ලුණු සාමාගම විසින් 2022 වර්ෂයේ ජූලි මස 01වන දින සිට 2022දෙසැම්බර් 31 දක්වා කාලසීමාව තුළ සියලුම නිලධාරීන් සඳහා රුපියල් පන්දාහක දීමනාවක් ගෙවා තිබුණි.
+🟩
 
-එම දීමනාව නවතා ඉකුත් වර්ෂයේ මුළු මාස 06 දක්වා නිලධාරීන්ගේ තනතුරු මත රුපියල් පන්සියය සහ රුපියල් අටසියපනහ අතර දෛනිකව අර්බුද දීමනාවක් වශයෙන් මෙකී මුදල් ගෙවා ඇති බවද විගණනය මගින් අනාවරණය කර ඇත. චක්රනලේඛ ප්රවකාරව දීමනා ගෙවීම් කටයුතු  කළ යුතු බවද විගණනය මගින් නිර්දේශ කර ඇත.
+The National Audit Office has issued an additional sum of Rs. 30 to Rs.Audit report states.
+
+Salt Salt Salvation was paid Rs.
+
+The audit has revealed that this money has been paid a daily allowance between Rs.. The audit recommended by the audit: Payment of Circulars should be taken.
 
 ◼️
 
 [Data](articles/cb072cdd.json)
+
+[Extended Data](ext_articles/cb072cdd.ext.json)
 
 ---
 
@@ -2133,85 +2215,5 @@ We have been waiting for this day since the new Indian High Commissioner to Sri 
 [Data](articles/2ac01fa2.json)
 
 [Extended Data](ext_articles/2ac01fa2.ext.json)
-
----
-
-### 3000 new for nurses
-
-*2024-05-07 18:46:27* · [`adalk`](https://www.ada.lk/breaking_news/හෙද-සේවයට-අලුතින්-3000ක්/11-409483) · `si`
-
-Dr. Ramesh Pathiran announced 3,000 new nurses recruited, with nearly 1,000 vacancies in health service. Opposition leader Sajith Premadasa criticized the recruitment process, highlighting a 45,000 nursing deficit and the release of a 2019 and 2012 Gazette for recruitment not being fully utilized.
-
-🟩
-
-Health Minister Dr. Ramesh Pathiran said that 3,000 persons were recruited to the service.
-
-Opposition Leader Sajith Premadasa said this in response to a question referred to in Parliament today (07).
-
-The Minister of Health said that there are nearly 1,000 vacancies in the health service.
-
-Opposition Leader Sajith Premadasa - 2019 and 2012 Gazette to recruit students from Biology, Advanced Level Examination, has been released on 15.09.2013 and has been recruited on 15.09-29.. Another 3,863 is in the waiting list of blood. However, the recruitment was not recruited. I request a 45,000 nursing deficit at a moment in this country and perform the process of recruiting the remaining 3,100.
-
-...
-
-[Data](articles/8e8d65a5.json)
-
-[Extended Data](ext_articles/8e8d65a5.ext.json)
-
----
-
-### Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
-
-*2024-05-07 18:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-to-buy-lipton-in-kenya-tanzania-and-rwanda-161886/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Browns Investments said it had reached an agreement to buy Lipton tea companies in Kenya, Tanzania and Rwanda from their UK and Netherlands based parents.
-
-The purchase will be made through UAE-based, B Commodities ME FZE, a unit of Browns Investments.
-
-It had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, Browns said in a stock exchange filing.
-
-Browns Investments will buy 100 percent of Rwanda-based Lipton Teas and Infusions Rwanda Limited and 100 percent of Tanzania-based Lipton Teas and Infusions Tanzania Limited.
-
-It will buy 98.56 percent of kenya-based Lipton Teas and Infusions Kenya Plc, and 51.99 percent of Limura Tea Plc.
-
-The price will be calculated in accordance with the SPA, it said.
-
-Ekaterra is the former tea division of Unilever, which was sold to CVC Capital Partners.
-
-...
-
-[Data](articles/915a3022.json)
-
-[Extended Data](ext_articles/915a3022.ext.json)
-
----
-
-### New visas gradually gradually from foreigners. 1800 crores robbed a year
-
-*2024-05-07 18:41:57* · [`adalk`](https://www.ada.lk/breaking_news/නව-වීසා-ක්‍රමයෙන්-විදේශිකයන්ගෙන්-රු--කෝටි-1800ක්-වසරකට-කොල්ලකනවා/11-409482) · `si`
-
-MP Patali Champika Ranawaka criticized the visa issuance process, claiming it's a scam that robs around 1800 crores annually. He highlighted the issue at a parliamentary debate, emphasizing the need for transparency and investigation into the transactions.
-
-🟩
-
-MP Patali Champika Ranawaka said that approximately Rs.
-
-He was speaking at the debate in Parliament today (07).
-
-According to the MP, he emphasizes that the dealer will be found to go from behind this process without suppressing people.
-
-Speaking further MP Patali Champika Ranawaka said:
-
-"Talking in the church about the opportunity given to a foreign company in issuing visa. We have seen this has been drawn from 2012.
-
-There was no such way at the Singapore Airport when the online visa system was created by the Department of Immigration and Emigration.. Today, a number of Singappara Pastestallines have proceded. We have been developed at the same time. We can improve this further.
-
-The tracts present to the Cabinet today have been referred to $ 200 million invested. But what has happened here?The old system is doing a private process. Every dollar gets $ 26 from every traveler.
-
-...
-
-[Data](articles/8a91dab9.json)
-
-[Extended Data](ext_articles/8a91dab9.ext.json)
 
 ---

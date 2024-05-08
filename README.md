@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 18:36:01**
+As of **2024-05-08 18:52:42**
 
 ## Newspaper Stats
 
-*Scraped **22,750** Articles*
+*Scraped **22,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 238
 dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
-economynextcom | 1,301
+economynextcom | 1,315
 dailyftlk | 1,322
 adalk | 1,923
 tamilmirrorlk | 2,659
@@ -26,11 +26,51 @@ adaderanasinhalalk | 3,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,748 (100.0%) of 22,750 articles have been extended.
+22,750 (99.9%) of 22,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Sri Lanka drafting laws that will address climate change: President
+
+*2024-05-08 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafting-laws-that-will-address-climate-change-president-162133/) · `en`
+
+ECONOMYNEXT – Sri Lanka needs a green economy, and the government is drafting new legislation which will deal with the environment and climate change, President Ranil Wickremesinghe has said.
+
+“We are already drafting a new law, which will deal with the environment and climate change.”
+
+“How we can adapt to climate change, how we can combat climate change, is certainly a matter of importance for all of us. You know what it has been like in the last few days, walking around in the city. And this is just a sign of things to come.
+
+Wickremesinghe was speaking at the inaugural session of the Sri Lanka Climate Summit, hosted by the Ceylon Chamber of Commerce, on the theme “Climate Action for our Nation and the Planet.”
+
+The summit aims to assess potential disruptions to critical sectors of the economy and deliberate on policy reforms necessary for transitioning towards a low-emission, climate-resilient economic framework.
+
+...
+
+[Data](articles/c3bdd394.json)
+
+---
+
+### Tourists in fix as Sri Lanka visa validity halved after VFS Global deal
+
+*2024-05-08 17:59:00* · [`economynextcom`](https://economynext.com/tourists-in-fix-as-sri-lanka-visa-validity-halved-after-vfs-global-deal-162135/) · `en`
+
+ECONOMYNEXT – Tourists who were sold visas by VFS Global which has been given an e-visa monopoly by Sri Lanka, are in a fix after the validity period was halved and the price doubled, according to posts on a global travel forum.
+
+Sri Lanka was widely acknowledged on travel forums to have the best or one of the best e-visas in the world due to a user-friendly website which did not ask for unnecessary details, and charged only 50 dollars for double entry and gave six months validity for first entry.
+
+A British tourist applied though the new VFS Global portal said she sold two visas by VFS Global for 170 sterling pounds (about 200 dollars), based on their arrival dates.
+
+“I put our arrival dates as 23rd September 2024 and departure of 4th October,” the tourist, Jodie wrote on Tripadvisor.com
+
+“The approval notice stated we must travel to Sri Lanka by the 3rd August 24 or the visa then expires. Which is something we cannot do.”
+
+...
+
+[Data](articles/8b00708b.json)
+
+---
 
 ### Our two's visa rigic
 
@@ -60,6 +100,26 @@ Sources further say that the visa of a group assistant's visa has been rejected.
 
 ---
 
+### Sri Lanka in discussion with Saudi-based ACWA Power for renewable energy project
+
+*2024-05-08 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-discussion-with-saudi-based-acwa-power-for-renewable-energy-project-162131/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in discussion with Saudi Arabia-based ACWA Power for renewable energy project with an aim to attract foreign investment, Foreign Ministry Ali Sabry said.
+
+Sabry met Saudi Arabian Economy, Investment, and Foreign Ministers when he visited Riyadh last week to participate in the World Economic Forum.
+
+“Saudi Arabia has agreed to invest in Sri Lanka. We expect a huge investment from Saudi Arabia. They are in the process of diversifying their oil-based economy. Accordingly, they are now investing in other countries,” Sabry told reporters at a media briefing in Colombo on Wednesday (08).
+
+“We are in discussion with them for projects at least one or two big projects. We hope to finish negotiations by end of this year. When we get one or two projects, others from that country will follow,” he said.
+
+“They are mainly interested in renewable energy, specially solar power, wind power, and green hydrogen,”
+
+...
+
+[Data](articles/a025812d.json)
+
+---
+
 ### Over 2,000 Grama Niladharis appointed today
 
 *2024-05-08 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2-000-Grama-Niladharis-appointed-today/108-282179) · `en`
@@ -77,6 +137,54 @@ The President informed the new village officials about the programmes such as 'A
 [Data](articles/d4f11295.json)
 
 [Extended Data](ext_articles/d4f11295.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 298.75/85 to US dollar
+
+*2024-05-08 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-298-75-85-to-us-dollar-162119/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.75/85 to the US dollar on Tuesday from 299.40/70 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 closed down at 10.60/70 percent from 10.65/75 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.95/11.00 percent from 11.05/15 percent.
+
+A bond maturing on 15.03.2028 closed down at 11.35/45 percent from 11.40/55 percent.
+
+A bond maturing on 15.05.2030 closed down at 12.05/15 percent from 12.10/20 percent.
+
+A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May08/2024)
+
+◼️
+
+[Data](articles/b9d29c09.json)
+
+---
+
+### Sri Lanka stocks close down, selling on diversified financials
+
+*2024-05-08 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-on-diversified-financials-162115/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, for a third consecutive day, data on its site showed.
+
+The broader All Share Index closed down 0.18 percent, or 22.25 points, at 12,353; while the S&P SL20 Index closed down 0.01 percent, or 0.39 points, at 3,640.
+
+“This was mostly due to some selling pressure on the diversified financials sector,” market participants said.
+
+Browns Investments Plc saw the most active trading volumes (Rs297mn) in the day, after yesterday’s announcement that the company was acquiring Lipton tea properties in Kenya, Rwanda and Tanzania, and the share closed down at 6.60.
+
+LOLC Holdings, the parent company, was down at 485.25, LOLC Finance Pls was down at 7.10.
+
+Pan Asia Banking Corporation Plc also saw some interest (Rs159mn) and the share closed down at 22.60.
+
+Prime Lands Residencies Plc also saw some interest (Rs117mn) and the share closed up at 9.90.
+
+Index heavyweight John Keells Holdings Plc was up at 204.75.
+
+...
+
+[Data](articles/e57526b5.json)
 
 ---
 
@@ -197,6 +305,24 @@ However, the magistrate, who refused the lawyer’s request, further remanded th
 [Data](articles/5f203030.json)
 
 [Extended Data](ext_articles/5f203030.ext.json)
+
+---
+
+### Sri Lanka 3-month T-bill yield down 18bp
+
+*2024-05-08 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-3-month-t-bill-yield-down-18bp-162109/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 3-month Treasury bill yield fell 18 basis points to 9.43 percent at Wednesday’s auction, while others were marginally down, data from the state debt office showed.
+
+The 3-month fell 18 basis points from 9.61 percent to 14.96 percent, with 30 billion rupees in securities offered and all 30 billion rupees sold.
+
+The 6-month yield fell 13 basis points from 9.89 percent to 9.76 percent, with 60 billion rupees in securities offered and 92.54 billion rupees sold.
+
+The 12-month yield fell 9 basis points from 9.99 percent to 9.90 percent, with 65 billion rupees in securities offered and only 32.45 billion sold. (Colombo/May8/2024)
+
+◼️
+
+[Data](articles/0033188f.json)
 
 ---
 
@@ -540,21 +666,27 @@ Inquiry on the reasons for reducing the use of alcohol, 71.5% of the participant
 
 ---
 
-### බාස්මති සඳහා අදේශක වි ප්‍රභේද දෙකක් සොයා ගනියි
+### Basmati finds two varieties of failure
 
 *2024-05-08 14:16:56* · [`adalk`](https://www.ada.lk/breaking_news/බාස්මති-සඳහා-අදේශක-වි-ප්‍රභේද-දෙකක්-සොයා-ගනියි/11-409501) · `si`
 
-බාස්මතී සහල් සඳහා වන ආදේශක වී ප්‍රභේද දෙකක් හඳුනා ගැනීමට හැකියාව ලැබී ඇතැයි බතලගොඩ වී පර්යේෂණ හා පුහුණු ආයතනය පවසයි.
+Research successfully identified two Basmati rice substitutes, 306 and AT 309, recommended for Sri Lanka. Despite challenges, these varieties are now popular in Sri Lanka, thanks to the Batalagoda Paduwa Research and Training Institute.
 
-මේ සම්බන්ධයෙන්  සිදු කරන ලද පර්යේෂණ ඉතාමත් සාර්ථක වී ඇති බවත්, තවත් මාස කීපයක් තුළ බෝග නිදහස් කිරීමේ කමිටු නිර්දේශ යටතේ මෙම බාස්මතී ආදේශක වී ප්‍රභේද දෙක මෙරට වගාව සඳහා නිදහස් කිරීමට හැකි බව එම ආයතනය කියයි.
+🟩
 
-බාස්මතී සහල් නිෂ්පාදනය කිරීම සඳහා මෙරට වගා කළ හැකි වී ප්‍රභේදයක් හඳුන්වාදීමට කාලයක සිට විවිධ පර්යේෂණ සිදු කළ ද බාස්මතී සහල්වලට ආදේශකයක් ලෙස යොදා ගත හැකි සාර්ථක වී ප්‍රභේදයක් නිපදවීමට නොහැකි වී තිබු බවද එම ආයතන පවසයි.
+Two substitutes for Basmati rice have been identified to identify two varieties of rice and identified.
 
-මේ වනවිට ඒටී 306 හා ඒටී 309 යන වී ප්‍රභේද දෙක බාස්මතී සහල් හා සමාන දිගටි වී ප්‍රභේද දෙකක් ලෙස හඳුන්වා දී  ඇති බවත්, එම වී වර්ගද මෙරට ජනප්‍රිය වී ඇතැයි බතලගොඩ වී පර්යේෂණ හා පුහුණු ආයතනය වැඩිදුරටත් සඳහන් කරයි.
+The research carried out in this regard has been successful and the two Basmati substituted paddy varieties can be released for Sri Lanka under the recommendations of the crop release committees.
+
+According to the institute, it was not possible to build a variety of research to produce a variety of research to produce Basmati rice, but it was not possible to produce a variety of successful research.
+
+The two varieties have already introduced two varieties of paddy in 306 and AT 309 as two varieties of Basmathi rice, and the varieties of paddy have been popular in the Batalagoda Paduwa Research and Training Institute.
 
 ◼️
 
 [Data](articles/c059edff.json)
+
+[Extended Data](ext_articles/c059edff.ext.json)
 
 ---
 
@@ -607,6 +739,26 @@ Dimbulla-Pathana police arrested the driver of the three-wheeler on suspicion an
 [Data](articles/bf4e5aa4.json)
 
 [Extended Data](ext_articles/bf4e5aa4.ext.json)
+
+---
+
+### Sri Lanka to lose 20-pct from $50 tourist visa to VFS Global: legislator
+
+*2024-05-08 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-lose-20-pct-from-50-tourist-visa-to-vfs-global-legislator-162100/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government will no longer earn 50 dollars from a tourist visa but 20 percent would to VFS Global, a private contractor hired without tender to run an electronic visa website, opposition legislator S M Marikkar charged.
+
+Sri Lanka jacked up the price of a standard visa, which was double entry, to 75 dollars from 50 dollars with the advent of the VFS deal, and the firm’s own charges pushed up the cost to 100.77 dollars shocking tourists.
+
+Following intervention by Tourism Minister Harin Fernando, a new single-entry visa was promised for 50 collars.
+
+But an opposition legislator alleged that Sri Lanka would lose 10 dollars out of 50 dollars to VFS Global group and the contract was still in place.
+
+“The government has thrown sand on the face of the people (mooneter weli gahala), trying to convince everyone that things are back to normal now that a 50 dollar visa is now available,” Marikkar charged in pithy Sinhalese.
+
+...
+
+[Data](articles/959c1e01.json)
 
 ---
 
@@ -764,6 +916,42 @@ He said a small country like Sri Lanka is not in a position to maintain an airli
 
 ---
 
+### Sri Lanka Freedom Party anti-Sirisena faction says its appointments are legal
+
+*2024-05-08 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-anti-sirisena-faction-says-its-appointments-are-legal-162086/) · `en`
+
+ECONOMYNEXT — The faction of the Sri Lanka Freedom Party (SLFP) that’s opposed to former president Maithripala Sirisena has said its appointments to the party hierarchy are now legal in light of a fresh verdict by the Court of Appeal.
+
+“So our appointments are legal, is what we say,” SLFP acting chairman and Aviation Minister Nimal Siripala de Silva said speaking to reporters.
+
+He made this remark after the Court of Appeal reportedly rejected a petition filed by Minister of Justice Wijeyadasa Rajapakshe challenging an injunction order by the Colombo District Court preventing him from functioning as the SLFP’s acting chairman.
+
+According to media reports, the Court of Appeal had said the relevant orders in that regard should be obtained from the District Court.
+
+...
+
+[Data](articles/ec8c6aeb.json)
+
+---
+
+### Sri Lanka to sit-out COP if there is no agreement, climate funding: President
+
+*2024-05-08 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sit-out-cop-if-there-is-no-agreement-climate-funding-president-162047/) · `en`
+
+ECONOMYNEXT – Sri Lanka will sit out the international climate summit, Conference of Parties, in future if there continues to be a lack of cohesion in solutions to tackle climate change among world leaders, President Ranil Wickremesinghe said.
+
+“The global community has still not been able to come together on an agreement of how we are to deal with the challenges. From COP meeting to COP meeting we have gone there, and there is a lot of talk. But unfortunately, there has been no agreement,” Wickremesinghe said at Code Red climate summit organized by the Ceylon Chamber of Commerce.
+
+“I don’t think we can go on and on meeting like this. In the next two meetings either we must come to some agreement or give this up. That’s what Sri Lanka plans to tell the COP.”
+
+The President said that the funding that Sri Lanka was awaiting from the Conference of Parties held in Glasgow in 2021, was not received.
+
+...
+
+[Data](articles/3ae83915.json)
+
+---
+
 ### More than two million money and property is missing in a French national couple
 
 *2024-05-08 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශ-ජාතික-යුවළක්-සතුව-තිබී-ලක්ෂ-දෙකකට-වැඩි-මුදල්-හා-දේපල-අස්ථානගතවෙලා/11-409497) · `si`
@@ -836,25 +1024,31 @@ Thereafter, the interval of the Secretary to the Ministry of Defense is due to b
 
 ---
 
-### අවුරුදු 20කට අදානි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් අනුමැතිය: මීළඟට සිදුවන්නේ කුමක් ද?
+### Cabinet approval to purchase electricity from Eviani for 20 years: What happens next?
 
 *2024-05-08 12:37:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gqypk0rlgo) · `si`
 
-අවුරුදු 20කට අදානි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් අනුමැතිය: මීළඟට සිදුවන්නේ කුමක් ද?
+The Cabinet approved a 20-year electricity purchase from Eviani, aiming for 70% renewable energy by 2030. Environmental concerns raised by birds' migration were addressed, with a specialist committee assessing the impact.
 
-වසර 20ක කාලය සදහා ඉන්දීය අදානි ග්‍රීන් එනර්ජි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් මණ්ඩලය අනුමැතිය ලබාදී තිබේ. අනුමැතිය හිමිව ඇත්තේ මන්නාරම සහ පුනරින් ප්‍රදේශවල ස්ථාපනය කෙරෙන අදානි සමාගමට අයත් සුළං විදුලි බලාගාරවලින් ජනනය කෙරෙන විදුලිය මිලදී ගැනීම සඳහාය
+🟩
 
-මන්නාරම සහ පුනරින් ප්‍රදේශවල ස්ථාපනය කෙරෙන සුළං විදුලි බලාගාරවලින් ජනනය කෙරෙන විදුලිය මිලදී ගැනීම සඳහා අදානි ග්‍රීන් එනර්ජි සමාගම විසින් ඉදිරිපත් කරන ලද ටෙන්ඩරයට කැබිනට් මණ්ඩලය ( මැයි මස 07 වෙනිදා) අනුමැතිය ලබා දෙනු ලැබීය.
+Cabinet approval to purchase electricity from Eviani for 20 years: What happens next?
 
-විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර විසින් එම කැබිනට් යෝජනාව ඉදිරිපත් කරන ලදී.
+The Cabinet has approved the purchase of the electricity from Indian Green Energy for the 20 years. Installation of approval is for the purchase of electricity generated by the Visiotic Power Plants of the Visitors
 
-මන්නාරම සහ පුනරින් ප්‍රදේශවල සුළං විදුලි බලාගාර ස්ථාපනය සඳහා අදානි ග්‍රීන් එනර්ජි සමාගම සමග අවබෝධතා ගිවිසුමකට එළැඹීමට 2022 මාර්තු 07 වනදා කැබිනට් අනුමැතිය හිමිවිය.
+The cabinet (May 07) approval was given to the tender to purchase electricity to power plants generated in Mannar and Pooneryn areas.
 
-2030 වසර වන විට මෙරට සමස්ත විදුලිබල උත්පාදනයෙන් 70%ක් පුනර්ජනනීය විදුලියෙන් උත්පාදනය කිරීම ශ්‍රී ලංකාවේ ඉලක්කය වී තිබේ.
+The Cabinet resolution was presented by the Minister of Power and Energy Minister Kanchana Wijesekera.
+
+On March 7, 2022, the Cabinet approved to enhance the wind power stations in Mannar and Pooneryn areas.
+
+By 2030, 70% of the total electricity generation of electricity generation in the country's entire electricity generation is to generate 70% of the renewable electricity.
 
 ...
 
 [Data](articles/8a80ac38.json)
+
+[Extended Data](ext_articles/8a80ac38.ext.json)
 
 ---
 
@@ -970,6 +1164,28 @@ The Supreme Court has ruled that State Minister Diana Gamage does not meet the l
 
 ---
 
+### Sri Lanka ‘free’ visa costs US$21.61 under VFS Global deal: legislator
+
+*2024-05-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-visa-costs-us21-61-under-vfs-global-deal-legislator-162082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ‘free’ visas issued to several countries are being charged 21 US dollars by VFS Global, a private contractor hired without competitive tender, opposition legislator Nalin Bandara said.
+
+“Visa cost is zero. Then here is a service free of 18.50 for a free visa,” Bandara told parliament Wednesday. “There is another charge for 3.11 dollars.
+
+“So they are taking 21.65 dollars for a gratis visa when a tourist comes to Sri Lanka. When we go to Singapore we get a free visa. So nothing is charged from us. Not a single dollar is charged as a service fee.”
+
+Bandara claimed companies have been incorporated in the UAE to do the deal with Sri Lanka.
+
+Bandara questioned why the deal was given to VFS Global when Mobitel had offered to do the system for 1 dollar.
+
+“A massive game is being played,” Bandara said. “This government has a life of 4 months. Are they going to collect money in their death?”
+
+...
+
+[Data](articles/dc8b1d32.json)
+
+---
+
 ### What happened in the hotel room with Trump?: The pornography actress who said nothing: 'Enough'
 
 *2024-05-08 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182959) · `ta`
@@ -1023,6 +1239,18 @@ The army commander who filed his case has asked the court to send a notice to th
 [Data](articles/9936e47f.json)
 
 [Extended Data](ext_articles/9936e47f.ext.json)
+
+---
+
+### Sri Lanka consumes only half the recommended quantity of pulses: IPS
+
+*2024-05-08 12:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumes-only-half-the-recommended-quantity-of-pulses-ips-162072/) · `en`
+
+ECONOMYNEXT – Pulses comprise only 8 percent of Sri Lanka’s per capita protein supply, and the per capita availability of pulses for consumption through local production and imports is just over half the recommended quantity for a balanced diet, the Institute of Policy Studies (IPS) said, calling for short-term and long-term strategies to revive production.
+
+...
+
+[Data](articles/5f802527.json)
 
 ---
 
@@ -1161,6 +1389,64 @@ However, an inquiry will be conducted at the Department of Prisons regarding the
 [Data](articles/b0148004.json)
 
 [Extended Data](ext_articles/b0148004.ext.json)
+
+---
+
+### Diana Gamage becomes 12th MP to be out of 2020-elected parliament
+
+*2024-05-08 11:45:00* · [`economynextcom`](https://economynext.com/diana-gamage-becomes-12th-mp-to-be-out-of-2020-elected-parliament-162053/) · `en`
+
+ECONOMYNEXT – Diana Gamage became the 12th Member of Parliament to be out of the island nation’s legislature that was elected in the 2020 general elections either due to death or resignation or legal actions, official data showed.
+
+A three-judge Supreme Court bench on Wednesday decided that State Tourism Minister Diana Gamage is not eligible to hold an MP post after a legal case challenging her eligibility over holding the MP post due to her citizenship.
+
+Gamage was accused of breaching immigration laws and hiding credentials over her citizenship.
+
+Gamage entered the parliament through the national list under the main opposition Samagi Jana Balawegaya (SJB)
+
+Sri Lanka constitution has barred duel citizens for foreign citizens holding MP post in its latest amendment.
+
+...
+
+[Data](articles/54064814.json)
+
+---
+
+### Outspoken Sri Lanka MP Diana Gamage loses seat, Harsha proposes Mujibur
+
+*2024-05-08 11:40:00* · [`economynextcom`](https://economynext.com/outspoken-sri-lanka-mp-diana-gamage-loses-seat-harsha-proposes-mujibur-162041/) · `en`
+
+ECONOMYNEXT — Outspoken parliamentarian and State Minister of Tourism stands to lose her seat in parliament following a Supreme Court verdict that she is not eligible to be an MP, according to media reports.
+
+The apex court of the country made the verdict Wednesday May 08 morning when a petition filed against Gamage was taken up for consideration.
+
+The petition was filed by civil activist Oshala Herath, in which he sought a ruling that Gamage was unqualified to serve as a Member of the Sri Lankan Parliament as she is a British citizen.
+
+Gamage entered parliament on the main opposition Samagi Jana Balawegaya (SJB) ticket as a national list MP at the 2020 parliamentary election. She subsequently crossed over to the government of then President Gotabaya Rajapaksa. Following Rajapaksa’s resignation, she has been serving as State Minister of Tourism under President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/b4262890.json)
+
+---
+
+### Sri Lanka trying to help citizens hired by Russia-Ukraine mercenary firms: Foreign Minister
+
+*2024-05-08 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-trying-to-help-citizens-hired-by-russia-ukraine-mercenary-firms-foreign-minister-162042/) · `en`
+
+ECONOMYNEXT – Sri Lanka is trying to help citizens said to be working for mercenary companies linked to Russia and Ukraine, through diplomatic and non-diplomatic means, Minister of Foreign Affairs, Ali Sabry said.
+
+“We are trying to see what we can do where ever possible,” Sabry told reporters on Wednesday. “We can deal with the government of any other country.
+
+“We are being asked to deal with a mercenary group which is not a formal government. It’s a very difficult task.”
+
+Sri Lanka’s Foreign Ministry does not have data on the number of Sri Lankans fighting as mercenaries for Russia or Ukraine.
+
+“We don’t know,” Minister Sabry told reporters. “None of them go through formal or official channels. They don’t register themselves either with the Sri Lanka Bureau of Foreign Employment or with the foreign ministry consular division or the Sri Lankan embassy.
+
+...
+
+[Data](articles/6d2ebedb.json)
 
 ---
 
@@ -1997,343 +2283,5 @@ Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the
 [Data](articles/58e3408e.json)
 
 [Extended Data](ext_articles/58e3408e.ext.json)
-
----
-
-### Decision regarding the strike of the University
-
-*2024-05-08 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196389) · `si`
-
-The University Executive Officers Association (UNP) threatens to escalate trade union actions over salary cuts unless a permanent solution is found. Colombo University's Senior Secretary General plans to discuss a Cabinet paper on the issue, with a demonstration scheduled for today.
-
-🟩
-
-According to the University Executive Officers Association, the trade union measures will be further intensified if they do not receive a permanent solution to their problems today (08).
-
-The University Executive Officers Association (UNP) is engaged in a trade union action based on a problem with salary cuts.
-
-Speaking in this regard, Senior Secretary General of Colombo University has said that the Cabinet paper will be discussed and will be discussing the cabinet paper in the future.
-
-He added that a demonstration is to be held in parallel today.
-
-Meanwhile, Collection Secretary to the Convention of the Inter University Trade Societies Kar. L. Mr. D Richman said.
-
-◼️
-
-[Data](articles/5ecf9627.json)
-
-[Extended Data](ext_articles/5ecf9627.ext.json)
-
----
-
-### It is raining in many areas today
-
-*2024-05-08 08:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-பகுதிகளில்-மழை-பெய்யும்/175-336935) · `ta`
-
-Rain and heavy snow expected in many areas, with over 75mm rainfall in some regions. Snowfall in Central and Sabaragamuwa Provinces. Advised to take precautions against heavy winds and lightning.
-
-🟩
-
-The rainy weather is likely to increase in most parts of the country for the next few days from today (08).
-
-According to the department, the department said that rainfall is expected in Mannar, Vavuniya, Mullaitivu, Galle and Matara districts at 2 pm today.
-
-Heavy rains are expected in some parts of the Central, Sabaragamuwa, North Central and Uva provinces.
-
-The Department of Meteorology said that more than 75 millimeters of rainfall is expected in the area.
-
-In some parts of the Central and Sabaragamuwa Provinces, there is a snowfall this morning.
-
-The Department of Meteorology has advised the public to take necessary steps to reduce the risks caused by heavy winds and lightning cases in cases of thunderstorms.. Remble
-
-◼️
-
-[Data](articles/7eb37886.json)
-
-[Extended Data](ext_articles/7eb37886.ext.json)
-
----
-
-### There is Indian onion;Do not have Chinese onions
-
-*2024-05-08 08:27:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெங்காயம்-உள்ளது-சீன-வெங்காயம்-வேண்டாம்/175-336934) · `ta`
-
-Indian onion prices have dropped 150-250 rupees, while Chinese onion prices have fallen from 300 to 100 rupees, reflecting reduced demand and import.
-
-🟩
-
-Merchants say that the import of onions from India and the demand for Chinese onion has been reduced.
-
-In the past days, one kilogram of Chinese onions have been sold for 300 rupees and now it has been unable to sell a kilo of Chinese onions for 100 rupees.
-
-Also, the price of one kg of Indian onion has fallen by 150 - 250 rupees. Remble
-
-◼️
-
-[Data](articles/e560f1ff.json)
-
-[Extended Data](ext_articles/e560f1ff.ext.json)
-
----
-
-### Prisoners who ate bacon sudden death
-
-*2024-05-08 08:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-சாப்பிட்ட-கைதிகள்-திடீர்-மரணம்/175-336933) · `ta`
-
-Two prisoners died after eating pork; another is critical. Police suspect allergic reaction.
-
-🟩
-
-Two of the prison prisoners who eaten pork have died and another prisoner has been admitted to the Colombo National Hospital in critical condition.
-
-Borella police said that two persons from Borella and Dehiwala areas were killed and they were arrested for allegedly having an ice drug.
-
-A suspect arrested by the Borella police was detained at the Megasin Prison, with a packet of pork from the prisoner's house.
-
-It was ate with 15 inmates, and then three inmates were taken to the prison hospital. Two of them have died and one has been transferred to the Colombo National Hospital in critical condition.
-
-However, Investigations have begun to investigate whether the pork curry is allergic to the eating of pork, said Gamini B. Dissanayake, Commissioner and Media Spokesperson.
-
-However, the other 12 people were not allergic to it, the spokesman said.
-
-...
-
-[Data](articles/2c07dc31.json)
-
-[Extended Data](ext_articles/2c07dc31.ext.json)
-
----
-
-### Prisoners who ate pork curry sudden death
-
-*2024-05-08 08:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-கறி-சாப்பிட்ட-கைதிகள்-திடீர்-மரணம்/175-336933) · `ta`
-
-Two prisoners died after eating pork curry; another is critical. Arrested for ice drug, suspect had pork curry. 15 inmates ate it; 3 hospitalized, 2 dead, 1 critical. Not allergic; Borella police investigating.
-
-🟩
-
-Two of the prison prisoners who ate pork curry have died and another inmate has been admitted to the Colombo National Hospital in critical condition.
-
-Borella police said that two persons from Borella and Dehiwala areas were killed and they were arrested for allegedly having an ice drug.
-
-A suspect arrested by the Borella police was detained at the Megasin Prison, with a packet of pork curry from the prisoner's house.
-
-It was ate with 15 inmates, and then three inmates were taken to the prison hospital. Two of them have died and one has been transferred to the Colombo National Hospital in critical condition.
-
-However, the Commissioner of Prisons and Media Spokesman Gamini B.. Dissanayake said.
-
-However, the other 12 people were not allergic to it, the spokesman said.
-
-However, preliminary investigations are being carried out by the Borella police and the autopsy of the victims took place yesterday in the police autopsy room.. Remble
-
-◼️
-
-[Data](articles/beb0d087.json)
-
-[Extended Data](ext_articles/beb0d087.ext.json)
-
----
-
-### Special operation to arrest Sri Lankans who send Sri Lankans
-
-*2024-05-08 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196388) · `si`
-
-A special operation targets Sri Lankans involved in the Russian and Ukrainian military, led by the CID and intelligence department. Retired General Kamal Gunaratne highlights fraudulent recruitment practices, lack of compensation for injuries, and the involvement of mercenaries.
-
-🟩
-
-A campaign has been launched to arrest persons involved in the army of troops of the country's troops in Russia and Ukraine.
-
-Defense Secretary Retired General Kamal Gunaratne said that this operation has been launched by the CID and intelligence department and intelligence.
-
-"The war heroes will be sent to the Ukraine war to the Front of Ukraine who is retiring with fraudulent job agents to the Front of Ukrainian war. There are many false promises here to ball the Russian army. The war will be given to Ukraine warfare land such as Petersbirg. Moreover, the families of Russia have been paid more than Rs.. But they have not given anything money. Not paid any salary. Also, if seriously injured serious injuries, no compensation. Quote our war heroes at the battlefront and a part of our war heroes. Part of the injured. You don't know about them. We make a great effort to know who they are. Because they're not bound to the law. The mercenaries have recruited them. "
-
-...
-
-[Data](articles/049e30b2.json)
-
-[Extended Data](ext_articles/049e30b2.ext.json)
-
----
-
-### A judge leaves by considering a appellate petition
-
-*2024-05-08 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196387) · `si`
-
-Supreme Court Judge SBs. Mr. Turai Raja has left the summit filed by the Captain of the Ship and the Directors of the Criminal case filed against local agencies. He also left an appeal petition by the Directors of the Industrial Company of the Cy Conshadium Lanka Pvt. The petition was called before a three-member Supreme Court Bench. Mr. Turai Raja left for private reasons, and the petition will be considered by another judge on the 21st.
-
-🟩
-
-Supreme Court Judge SBs. Mr. Turai Raja has left.
-
-The judge has left the summit filed by the Captain of the Ship and the Directors of the Criminal case filed against the local agencies of the ship.
-
-A appeal petition presented by the Directors of the Industrial Company of the Cy Conshadium Lanka Pvt.
-
-The petition was called before the three-member Supreme Court Bench comprised of the three-member Supreme Court Bench comprised of S. Sathi Raja, Janaka de Silva and Priyantha Fernando.
-
-Referee Judge Mudulla Sarage Vihara Justice. Mr. Turai Raja said he would leave this trial for private reasons.
-
-Accordingly, the judge ordered to be called on the 21st of this month to consider the petition in the face of another judge.
-
-The Director of the Indigenous Representative of the Indigenous Appeal has previously presented a report to the Court of Appeal to the Chief Appeal, claiming that the Express Pearl was filed in the Colombo High Court.
-
-...
-
-[Data](articles/3a2586cb.json)
-
-[Extended Data](ext_articles/3a2586cb.ext.json)
-
----
-
-### Sri Lanka thrash Scotland to win Women’s T20 World Cup qualifiers
-
-*2024-05-08 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99072/-sri-lanka-thrash-scotland-to-win-womens-t20-world-cup-qualifiers) · `en`
-
-Sri Lanka skipper Chamari Athapaththu hit a sensational hundred to set up a big win in the ICC Women’s T20 World Cup Qualifier final against Scotland.
-
-Sarah Bryce, standing in as skipper for her sister Kathryn Bryce who missed out due to a niggle, elected to bowl first after winning the toss in Abu Dhabi. Her decision was backed by her bowlers, with seamer Priyanaz Chatterji striking in the third over with the crucial wicket of Vishmi Gunaratne (9).
-
-Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the end of the first Powerplay to give Scotland another success. Dynamic all-rounder Kavisha Dilhari came in at number four and tried to reconstruct the innings along with skipper Athapaththu.
-
-...
-
-[Data](articles/de0a7d26.json)
-
-[Extended Data](ext_articles/de0a7d26.ext.json)
-
----
-
-### Showery conditions expected to enhance from today
-
-*2024-05-08 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99071/showery-conditions-expected-to-enhance-from-today) · `en`
-
-The Meteorology Department says an enhancement of showery condition over most parts of the island is expected during next few days from today (May 08).
-
-Showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
-
-Fairly heavy showers about 75 mm are likely at some places in North-central, Central, Sabaragamuwa and Uva provinces.
-
-A few showers may occur over the coastal areas of Puttalam to Hambantota via Colombo and Galle during the morning too, it said.
-
-Misty conditions can be expected at some places in Central and Sabaragamuwa provinces during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/0a0a2b47.json)
-
-[Extended Data](ext_articles/0a0a2b47.ext.json)
-
----
-
-### US $ 100 million in investing agriculture in Sri Lanka
-
-*2024-05-08 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196386) · `si`
-
-"US $100 million invested in agriculture in Sri Lanka through a MoU for a promotion project."
-
-🟩
-
-A Memorandum of Understanding (MoU) has signed a program to work together to work together for a promotion project in Sri Lanka.
-
-◼️
-
-[Data](articles/d948f514.json)
-
-[Extended Data](ext_articles/d948f514.ext.json)
-
----
-
-### Sri Lanka gets $100mn for eco-friendly export farming with solar pumps
-
-*2024-05-08 06:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-100mn-for-eco-friendly-export-farming-with-solar-pumps-161930/) · `en`
-
-ECONOMYNEXT – Sri Lanka will receive an investment of 100 million dollars to modernize agricultural practices in next 20 years for sustainable farming and exports, officials said.
-
-The Climate change office of Sri Lanka under President Ranil Wickremesinghe’s office, the Climate Vulnerable Forum (CVF) and Nativa Capital of Portugal signed the 100 million dollar deal Tuesday to work together on a farming and forest protection project in Sri Lanka’s Northcentral district of Anuradhapura.
-
-Each of 15,000 farming family will receive 6,000 dollars throughout the project period on a concessional loan to grow watermelon, red chilies and tomato in the first stage solar pumps and other energy projects for sustainable agriculture.
-
-The investment company Nativa will also facilitate market procurement related to these crops with an aim to export and establishments of factories in Sri Lanka in the future.
-
-...
-
-[Data](articles/2ff801f3.json)
-
-[Extended Data](ext_articles/2ff801f3.ext.json)
-
----
-
-### Increase in showers in the next few days
-
-*2024-05-08 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196385) · `si`
-
-"Rainy weather expected across the country, with showers and thundershowers in coastal areas and parts of the North Central, Central, Sabaragamuwa, and Uva provinces. The Met Department advises taking precautions against wind and lightning."
-
-🟩
-
-In many areas in the country, there is a rainy increase in many parts of the island to this day.
-
-In most parts of the island. The Met Department announced that there will be showers at several places about 2.00.
-
-In some places in the North Central, Central, Sabaragamuwa and Uva provinces. Showers may occur at about 75 times.
-
-Thundershowers will develop at several places in the coastal areas from Puttalam to Hambantota via Colombo and Galle.
-
-In some places in the central and Sabaragamuwa provinces, some places can last a murder.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/58e8b691.json)
-
-[Extended Data](ext_articles/58e8b691.ext.json)
-
----
-
-### Basil reasserts general election first, yet President braces for presidential race
-
-*2024-05-08 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-reasserts-general-election-first-yet-President-braces-for-presidential-race/108-282138) · `en`
-
-Colomo, May 8 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa reasserted yesterday that his party still believes the general election should precede the presidential elections but President Ranil Wickremesinghe has a contrasting stand, according to an informed source of the party.
-
-Mr. Rajapaksa addressed the parliamentary group of the party and spelled out his opinion in this regard. Earlier, he met with the President and held talks about the latest political developments.
-
-According to the SLPP, a fair number of its MPs stand for the conduct of the snap general election ahead of the presidential elections scheduled for October, this year in terms of the Constitution. The next parliamentary election is scheduled for 2025 only. However, the President has the constitutional authority to dissolve Parliament prematurely and declare a snap election.
-
-...
-
-[Data](articles/e915d643.json)
-
-[Extended Data](ext_articles/e915d643.ext.json)
-
----
-
-### Sri Lanka Women's Team
-
-*2024-05-08 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196383) · `si`
-
-Sri Lanka women beat Scottish women by 68 runs in an ICC 20-over match, with Sri Lanka scoring 169/5 and Scottish women losing early.
-
-🟩
-
-Sri Lanka women's group has won the match with the Scottish women's team by 68 runs for the ICC 20 overs.
-
-Scottish women's team won the toss and the tournament was first decided to boast.
-
-The Sri Lanka women's group scored 169 runs for the loss of 5 wickets at the end of 20 overs.
-
-Batting to batland scored 101 runs in the final 20 overs.
-
-Sri Lanka won the match wins by 68 runs.
-
-◼️
-
-[Data](articles/a4e03cb8.json)
-
-[Extended Data](ext_articles/a4e03cb8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 18:11:33**
+As of **2024-05-08 18:23:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,747 (100.0%) of 22,748 articles have been extended.
+22,748 (100.0%) of 22,748 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,17 +246,23 @@ According to a complaint lodged by the son of Mohammed Muzammil's son Mohamed Mu
 
 ---
 
-### வரலாற்றில் இன்று : 1945
+### Today in History: 1945
 
 *2024-05-08 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/182976) · `ta`
 
-இரண்டாம் உலக மகா யுத்தத்தின்போது ஜெர்மன் படைகள் சரணடைந்ததையடுத்து, ஐரோப்பிய வெற்றி தினம் முதல் முறையாக கொண்டாடப்பட்ட நாள் இன்றாகும்.
+"1945: German forces surrendered, marking the start of European Victory Day. Weerakesari magazines celebrated on May 8-9, 1945, globally and in Sri Lanka."
 
-1945 மே 08ஆம் திகதி ஐரோப்பிய வெற்றித் தினம் உலக நாடுகளில் மட்டுமன்றி, இலங்கையிலும் வெகு சிறப்பாக கொண்டாடப்பட்டதற்கு ஆதாரமாக, 1945 மே 8, 9 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் 'V' (Victory - வெற்றி) என்ற ஆங்கில எழுத்துக் குறியீடுகளை தாங்கிய பக்கங்களை இங்கே காணலாம்.
+🟩
+
+Today is the day when the German forces surrendered during World War II, the first day of European Victory Day.
+
+Here are pages with the English written symbols of the Weerakesari magazines published on May 8 and 9, 1945, on May 8 and 9, 1945, not only in the world but also in Sri Lanka.
 
 ◼️
 
 [Data](articles/a9439539.json)
+
+[Extended Data](ext_articles/a9439539.ext.json)
 
 ---
 

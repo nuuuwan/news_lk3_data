@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 13:34:20**
+As of **2024-05-08 13:52:28**
 
 ## Newspaper Stats
 
-*Scraped **22,710** Articles*
+*Scraped **22,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,916
+adalk | 1,917
 tamilmirrorlk | 2,654
 adaderanalk | 2,662
 virakesarilk | 3,387
 dailymirrorlk | 3,566
-adaderanasinhalalk | 3,635
+adaderanasinhalalk | 3,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,706 (100.0%) of 22,710 articles have been extended.
+22,710 (100.0%) of 22,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### ඩයනාගේ පුටුව මුජිබුර් ට
+
+*2024-05-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196400) · `si`
+
+ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු අසුන සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතාගේ නම යෝජනා කර මැතිවරණ කොමිසමට යැවීමට නියමිත බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/9a407c46.json)
+
+---
 
 ### No airline in the world making profits: Minister
 
@@ -49,6 +61,26 @@ He said a small country like Sri Lanka is not in a position to maintain an airli
 ...
 
 [Data](articles/77d23ce6.json)
+
+[Extended Data](ext_articles/77d23ce6.ext.json)
+
+---
+
+### ප්‍රංශ ජාතික යුවළක් සතුව තිබී ලක්ෂ දෙකකට වැඩි මුදල් හා දේපල අස්ථානගතවෙලා
+
+*2024-05-08 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශ-ජාතික-යුවළක්-සතුව-තිබී-ලක්ෂ-දෙකකට-වැඩි-මුදල්-හා-දේපල-අස්ථානගතවෙලා/11-409497) · `si`
+
+සංචාරයක් සඳහා  සඳහා මෙරටට පැමිණ, ලංගම බස් රථයකින්  කොළඹ සිට අනුරාධපුරයට පැමිණි  ප්‍රංශ ජාතික පෙම් යුවළක් සතුව තිබූ රුපියල් 2,25000ක් වටිනා මුදල් , දේපල සහ විදේශ ගමන් බලපත්‍ර අඩංගු පසුම්බියක් අස්තානගත වීම සම්බන්ධයෙන්  විමර්ශනයක් ආරම්භ කල බව අනුරාධපුර පොලිසිය පවසයි.
+
+එම යුවල අනුරාධපුර නගරයෙන් බැස නගරයේ සංචාරය කරන අතර තුර ඔවුන්ගේ මුදල් පසුම්බියේ තිබේ දැයි පරීක්ෂා කිරීමේදී එය නොමැති බව දැනගැනීමෙන් අනතුරුව  මෙම පැමිණිල්ල ඉදිරිපත් කර තිබූ බවද පොලිසිය කියයි.
+
+ඒ අනුව ඔවුන් සතුව තිබූ ලංකා මුදලින් රුපියල් 120,840 ක් , යූරෝ 300ක්, සහ විදේශ ගමන් බලපත්‍රයක් අස්ථානගත වූ එම පසුම්බිය තුල තිබූ බව පැමිණිල්ලේ සඳහන්වේ.
+
+සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර මූලස්ථාන පොලිසියේ නිලධාරීහු කණ්ඩායමක් සහ සංචාරක පොලීසියේ නිලධාරීහු පිරිසක් වැඩිදුර විමර්ශන සිදු කරති.
+
+◼️
+
+[Data](articles/8938220f.json)
 
 ---
 
@@ -69,6 +101,8 @@ Meanwhile, K.L.D.G. Richmond, the Co-secretary of the Inter-University Trade Uni
 ◼️
 
 [Data](articles/85f5bc82.json)
+
+[Extended Data](ext_articles/85f5bc82.ext.json)
 
 ---
 
@@ -98,17 +132,23 @@ Thereafter, the interval of the Secretary to the Ministry of Defense is due to b
 
 ---
 
-### ශ්‍රී ලංකන් ගුවන් සේවය ජනතාවට බරක් නොවීමට පියවර රැසක්
+### Steps to prevent SriLankan Airlines
 
 *2024-05-08 12:34:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-ගුවන්-සේවය-ජනතාවට-බරක්-නොවීමට-පියවර-රැසක්/11-409496) · `si`
 
-ශ්‍රී ලංකන් ගුවන් සේවය සහ ගුවන් තොටුපළ, රටේ බදු ගෙවන ජනතාවට බරක් නොවන සේ පවත්වාගෙන යාමට ක්‍රියාමාර්ග රැසක් ගෙන ඇතැයි අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී 2024.05.08 දින ප්‍රකාශ කළේය.
+Prime Minister Dinesh Gunawardena highlighted SriLankan Airlines' efforts to support the nation, including restricting procurement, limiting essential services, and implementing a restructuring process.
 
-ඔහු මේ බව පැවසුවේ, හේෂා විතානගේ මන්ත්‍රීවරයා, අග්‍රාමාත්‍යවරයාගෙන් විමසන ප්‍රශ්න යටතේ, ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි. විදේශ ගමන්/පුහුණු සීමා කිරීම, බඳවා ගැනීම් අත්‍යවශ්‍ය ඒවා සඳහා පමණක් සිමා කිරීම, අනවශ්‍ය ප්‍රසම්පාදන/මිලදී ගැනීම් සීමා කිරීම, ප්‍රතිව්‍යුහගතකරන ක්‍රියාවලියට සහාය වීම, වැටුප් සංශෝධන හා දීමනා ගෙවීම් අත්හිටුවීම් ආදී පියවර රැසක් ගෙන ඇතැයි අග්‍රාමාත්‍යවරයා අවධාරණය කළේය.
+🟩
+
+Prime Minister Dinesh Gunawardena declared that SriLankan Airlines has taken many steps to maintain the people of the country.
+
+He was responding to a question raised by Hesha Vithanage, who asked the Prime Minister.. The Prime Minister emphasized that there have been many steps that have been taken to restrict the necessary procurement / purchase, restrictive procurement / purchase, restrictive procurement / purchase, to limit the essential services / training, recruitment, limiting, limiting, limits, limits, restructuring, restructuring process.
 
 ◼️
 
 [Data](articles/66a290e4.json)
+
+[Extended Data](ext_articles/66a290e4.ext.json)
 
 ---
 
@@ -185,6 +225,8 @@ Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses 
 ◼️
 
 [Data](articles/b7a5665f.json)
+
+[Extended Data](ext_articles/b7a5665f.ext.json)
 
 ---
 
@@ -2259,49 +2301,5 @@ During the era of prohibition in the United States, the infamous US criminal Al 
 [Data](articles/01fc0778.json)
 
 [Extended Data](ext_articles/01fc0778.ext.json)
-
----
-
-### How wheeler-dealing over visa  could  kill tourism’s golden goose
-
-*2024-05-08 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-wheeler-dealing-over-visa-could-kill-tourisms-golden-goose/172-282109) · `en`
-
-If the Government of Sri Lanka desires to streamline the inefficient and corruption-laden immigration and emigration authorities, one can’t find fault.
-
-The Immigration Department is infested with crooks that have fought against even the most innocuous measures of oversight and accountability. CCTV cameras purchased to install in its head-office are still stored in the warehouses for six years, the Parliamentary Committee on Public Accounts (CoP) found recently.
-
-But, a controversial and unsolicited tender that awarded the monopoly of visa processing to a private contractor, VSF Global -- which overnight doubled the on-arrival visa fees, unleashed chaos and confusion at the airport, and risked the future of the tourism industry in the country--smack of a scam far extraordinary or grand incompetence, and most likely both.
-
-...
-
-[Data](articles/b199c354.json)
-
-[Extended Data](ext_articles/b199c354.ext.json)
-
----
-
-### 2024-05-07 (Tuesday)
-
-### Singapore’s ICA experts to visit Sri Lanka to study immigration operations
-
-*2024-05-07 23:49:33* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-ICA-experts-to-visit-Sri-Lanka-to-study-immigration-operations/34-761521) · `en`
-
-lead Public Security Minister Tiran Alles - Pic by Lasantha Kumara
-
-Minister Alles says visiting team plans to spend a week, analysing existing systems and procedures
-
-Highlights Singapore’s renowned efficiency in airport operations, opines potential benefits of adopting best practices
-
-Opines this as a first step towards gradual improvement in airport and immigration operations as sophisticated systems are costly
-
-Public Security Minister Tiran Alles on Monday announced that a delegation comprising five representatives from Singapore’s Immigration and Checkpoints Authority (ICA) is scheduled to visit Sri Lanka on 27 May to conduct a comprehensive study of the operations at Bandaranaike International Airport (BIA) and its immigration system.
-
-Speaking to journalists he revealed that he had made a request to the Government of Singapore six months ago, aiming to boost Sri Lanka’s airport and immigration operational efficiency.
-
-...
-
-[Data](articles/2500fc18.json)
-
-[Extended Data](ext_articles/2500fc18.ext.json)
 
 ---

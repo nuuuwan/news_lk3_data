@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 22:33:28**
+As of **2024-05-08 22:50:47**
 
 ## Newspaper Stats
 
-*Scraped **22,793** Articles*
+*Scraped **22,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,87 @@ islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
 adalk | 1,929
-tamilmirrorlk | 2,662
-adaderanalk | 2,676
-virakesarilk | 3,390
+tamilmirrorlk | 2,663
+adaderanalk | 2,677
+virakesarilk | 3,391
 dailymirrorlk | 3,579
-adaderanasinhalalk | 3,650
+adaderanasinhalalk | 3,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,791 (100.0%) of 22,793 articles have been extended.
+22,793 (100.0%) of 22,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### මහ රෑ දකුණ රත්කළ වෙඩිප්‍රහාරය ගැන තවත් තොරතුරු
+### දුම්වැටි තොගයක් සමග පුද්ගලයෙකු කටුනායකදී අත්අඩංගුවට
+
+*2024-05-08 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196414) · `si`
+
+නීතිවිරෝධීව මෙරටට ගෙන්වන ලද දුම්වැටි තොගයක් සමග පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+කටුනායක ගුවන්තොටුපොළේ පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ නිලධාරීන් වෙත ලද තොරතුරකට අනුව සිදුකළ සෝදිසි කිරීමකදී සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 29 හැවිරිදි වියේ පසුවන් කොළඹ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ සැකකරු විසින් ඩුබායි සිට මෙම දුම්වැටි තොගය ශ්‍රී ලංකාවට රැගෙනවිත් ඇති බවය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති දුම්වැටි තොගයේ වටිනාකම රුපියල් ලක්ෂ 5කට ආසන්න බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/b2ccbd34.json)
+
+---
+
+### More information about the night of the night
 
 *2024-05-08 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196413) · `si`
 
-මෙලෙස ජීවිතක්ෂයට පත්වූයේ කීර්ති සේනා අබ්‍රේව් නැමති 56 හැවිරිදි පුද්ගලයෙකි.
+A 56-year-old man was shot dead in his Ahungalla home by two unidentified individuals on a motorcycle around 7.45 pm. He was admitted to Balapitiya Hospital with serious injuries before his death. The cause of the shooting is under investigation.
 
-අහුංගල්ල බෝගහපිටිය ප්‍රදේශයේ සිය නිවසේ සිටියදී ඔහුට මෙම වෙඩි ප්‍රහාරය එල්ලවී තිබුණි.
+🟩
 
-අද රාත්‍රි 7.45ට පමණ නාදුනන පුද්ගලයින් දෙදෙනෙක් යතුරු පැදියකින් පැමිණ මෙම වෙඩිතැබීම සිදුකර ඇති බව පොලීසිය පවසයි.
+The deceased has been identified as 56 year old person.
 
-වෙඩි ප්‍රහාරයෙන් හිසට සිදුවූ බරපතළ තුවාල සහිතව ඔහුව බලපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+He had been shot dead while in his house in Ahungalla area in Ahungalla.
 
-වෙඩි තැබීමට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර සිද්ධිය පිළිබඳ වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
+Two unidentified persons arrived at a motorcycle at around 7.45 pm today, police said.
+
+He died admitted to the Balapitiya Hospital with serious injuries.
+
+The cause of the shooting has not been revealed yet further investigation into the incident.
 
 ◼️
 
 [Data](articles/8ca8bb14.json)
 
+[Extended Data](ext_articles/8ca8bb14.ext.json)
+
 ---
 
-### පොලිස්  නිලධාරීන් දෙදෙනෙකු ඇතුළු 3ක් අත්අඩංගුවට
+### 3 police officers arrested
 
 *2024-05-08 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196412) · `si`
 
-කොට්ටාව පොලිස් ස්ථානයට අනුයුක්ත නිලධාරීන් දෙදෙනෙකු ඇතුළු තිදෙනෙකු අල්ලස් හෝ දූෂණ විමර්ශන කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+Three police officers, including two from Kottawa Police Station, were arrested by the Bribery or Corruption Commission on bribery charges.
 
-රුපියල් ලක්ෂ 2ක අල්ලස් මුදලක් ලබාගැනීමේ චෝදනාව යටතේ මොවුන් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පොලීසිය පවසන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොට්ටාව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරියේ නිරතව සිටි සැරයන්වරයෙකු සහ කොස්තාපල්වරයෙකු බවය.
+Three officers including two officers at the Kottawa Police Station have been arrested by the Bribery or Corruption Commission.
+
+They were arrested on charges of bribery of Rs.
+
+The police said that the police said that a sergeant and a constable attached to the Kottawa Police Station.
 
 ◼️
 
 [Data](articles/33656d56.json)
+
+[Extended Data](ext_articles/33656d56.ext.json)
 
 ---
 
@@ -82,6 +114,20 @@ Three persons including a Police Constable, and a Sergeant attached to the Kotta
 
 ---
 
+### துப்பாக்கிச்சூட்டில் ஒருவர் மரணம்
+
+*2024-05-08 22:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-336981) · `ta`
+
+அஹுங்கல்ல - போகஹாபிட்டிய பகுதியில் இன்று இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும், குறித்த சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/b9af0668.json)
+
+---
+
 ### Two retired military officers arrested for illegal recruiting Sri Lankans for Russian forces
 
 *2024-05-08 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99091/two-retired-military-officers-arrested-for-illegal-recruiting-sri-lankans-for-russian-forces-) · `en`
@@ -93,6 +139,24 @@ A Major General and a Sergeant, both retired, have been arrested by the Criminal
 [Data](articles/30a83971.json)
 
 [Extended Data](ext_articles/30a83971.ext.json)
+
+---
+
+### Two retired army officers arrested for illegally  recruiting Sri Lankans for Russian forces
+
+*2024-05-08 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99091/two-retired-army-officers-arrested-for-illegally-recruiting-sri-lankans-for-russian-forces) · `en`
+
+Two retired officers of the Sri Lanka Army have been arrested for illegally recruiting Sri Lankan army soldiers to be employed in the Russian military.
+
+Accordingly, a retired Major General and a retired Sergeant were apprehended by the Criminal Investigation Department (CID) in Kurunegala on Wednesday (08).
+
+Earlier on Wednesday, the Ministry of Defence announced the launch of an operation to arrest the suspects implicated in directing retired Sri Lankan Army soldiers to join Russian or Ukrainian forces by illegal means.
+
+Defence Secretary, General (Rtd) Kamal Gunaratne had emphasized that the operation was initiated jointly with the Criminal Investigations Department (CID) and the Intelligence Units.
+
+◼️
+
+[Data](articles/38f06890.json)
 
 ---
 
@@ -257,6 +321,18 @@ The motive behind the shooting was not immediately clear, according to the polic
 [Data](articles/b6f4d4a9.json)
 
 [Extended Data](ext_articles/b6f4d4a9.ext.json)
+
+---
+
+### அஹுங்கல போகஹபிட்டிய பகுதியில் துப்பாக்கிச் சூடு
+
+*2024-05-08 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183014) · `ta`
+
+அஹுங்கல போகஹபிட்டிய பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/cf4cea4a.json)
 
 ---
 
@@ -2147,111 +2223,5 @@ The Supreme Court issued a waiver command to abolish the post of Minister Diyana
 [Data](articles/4eba041b.json)
 
 [Extended Data](ext_articles/4eba041b.ext.json)
-
----
-
-### A senior one of the Army of the United States is surprised in Sri Lanka
-
-*2024-05-08 11:22:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇමරිකාවේ-යුද-හමුදාවේ-හිටපු-ජ්‍යෙෂ්ඨ-නිලධාරිනියක්-ලංකාවේ-පාරිම්පරික-වෙදකම-ගැන-මවිත-වෙයි/11-409493) · `si`
-
-A former US Army officer, Ms. ESCERMZA, was surprised by the US Army in Sri Lanka. She was amazed by Sri Lanka's traditional medicine, which helped her recover from a disease she couldn't treat in the US. Despite her disease resurfacing, she couldn't bring the treatment back to America.
-
-🟩
-
-One of the former Army in the United States was surprised by the American Army, as he was not treated with expertise in the US and in many years.
-
-She added that he was amazed at the local traditional medicine in the country.
-
-Ms. ESCERMZA, a former Army in the United States, has a program of a resident of Chilaw, and in the e-mail and print media in Sri Lanka, Habarana Palugara Medara is to Hirewila Medara House in Hedda in Habushna.Arrivals from US and is receiving treatment.
-
-Later, when she saw that the disease was resurrected to the United States, she was returning to America, she was not able to get rid of her country in the man of the country, he was not able to take the treatment to America.Available.
-
-The former army officer from the United States said that despite the stunning of the traditional medicine in Sri Lanka despite the treatment of their disease from various countries.. She said that he could walk in the help of aid and walked when he was unable to walk when he arrived.
-
-...
-
-[Data](articles/fc017f7f.json)
-
-[Extended Data](ext_articles/fc017f7f.ext.json)
-
----
-
-### Diana's seat losses
-
-*2024-05-08 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-මන්ත්‍රී-ධූරය-අහිමිවෙයි/11-409492) · `si`
-
-The Supreme Court ruled Diana Gamage, a British citizen, ineligible to sit in Sri Lanka's Parliament.
-
-🟩
-
-The Supreme Court has issued a Reti command today that the Hon.
-
-Since Ms. Diana Gamage is a British citizenship, this petition had been submitted to give a ruling that she was not legally eligible to sit in the Parliament of Sri Lanka.
-
-◼️
-
-[Data](articles/f70f1139.json)
-
-[Extended Data](ext_articles/f70f1139.ext.json)
-
----
-
-### President responds to Dayasiri's awareness
-
-*2024-05-08 11:15:24* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගේ-දැනුම්දිමට-ජනපතිගෙන්-කඩිනම්-පිළිතුරු/11-409491) · `si`
-
-MP Dayasiri Jayasekara revealed to President Ranil Wickremesinghe that over six former troops are employed in Russia and Ukraine. The President directed the Defense Secretary to find Sri Lankans with the Russian government. Dayasiri and Gamini Walaboda met at the Defense Ministry to discuss the issue. It's reported that 15 Sri Lankans were identified, some of whom died in drones during the war, and were later paid. The government asked police for information on any captured individuals.
-
-🟩
-
-Kurunegala District MP Dayasiri Jayasekara has informed President Ranil Wickremesinghe yesterday (07) that there were more than six former troops carrying employment in Russia and Ukraine.
-
-After considering the MP's facts, President Ranil Wickremesinghe has informed the Defense Secretary to obtain Sri Lankans with the Russian government.
-
-Dayasiri Jayasekara and Gamini Walaboda were summoned at a meeting held at the Defense Ministry in Colombo to discuss the matter of the problem.
-
-Daysiri Jayasekara stated that the Sri Lankans have been sent to the country, claiming that they had to serve in the camps of Russia and Ukraine.
-
-It has been reported that after they had gone to the war, they have been found that fifteen persons have been identified.
-
-Mr. Jayasekara said that other people have died in drones during the war.
-
-He said that after the time, they had been given a whip of Rs.
-
-The government also requests the police headquarters if there are persons who have been caught.
-
-◼️
-
-[Data](articles/acfb8131.json)
-
-[Extended Data](ext_articles/acfb8131.ext.json)
-
----
-
-### Patients and doctors fleeing Rafa's hospital!- Life risk of 200 patients with kidney damage
-
-*2024-05-08 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/182947) · `ta`
-
-Patients and doctors flee Rafa's hospital in Gaza, fearing conflict. The hospital, Abuzuwal Nazar, is crucial for kidney patients. Closure risks 200 lives.
-
-🟩
-
-Doctors and patients flee from Rafa's main hospital, according to Reuters.
-
-Due to fear, patients and doctors flee the patients.
-
-Abuzuwal Nazar Hospital is found in the south of Gaza, which Israel declared as the conflict area.
-
-Dr. Marwan al -Hams Reuters told Patients and Doctors Leaving the hospital as the hospital is infected with the center of the conflict.
-
-World Health Organization spokesman Markrat Haris said that if the hospital closed, there would be a risk of 200 kidney patients.
-
-He said that the hospital kept the victims alive as the kidney was lost.
-
-◼️
-
-[Data](articles/bb70b323.json)
-
-[Extended Data](ext_articles/bb70b323.ext.json)
 
 ---

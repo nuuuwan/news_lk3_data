@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 07:25:37**
+As of **2024-05-08 07:33:49**
 
 ## Newspaper Stats
 
-*Scraped **22,635** Articles*
+*Scraped **22,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ colombotelegraphcom | 199
 bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
-islandlk | 1,230
-economynextcom | 1,295
+islandlk | 1,232
+economynextcom | 1,296
 dailyftlk | 1,321
 adalk | 1,905
-tamilmirrorlk | 2,636
+tamilmirrorlk | 2,637
 adaderanalk | 2,654
 virakesarilk | 3,386
 dailymirrorlk | 3,554
-adaderanasinhalalk | 3,620
+adaderanasinhalalk | 3,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,635 (100.0%) of 22,635 articles have been extended.
+22,635 (100.0%) of 22,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### මෙරට කෘෂිකර්මාන්තය නවීකරණයට ඩොලර් මිලියන 100ක ආයෝජනයක්
+
+*2024-05-08 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196386) · `si`
+
+ශ්‍රී ලංකාවේ කෘෂිකාර්මික හා වන ආරක්ෂණ ව්‍යාපෘතියක් සඳහා එක්ව කටයුතු කිරීමට අවබෝධතා ගිවිසුමක් අත්සන් කර තිබේ.
+
+◼️
+
+[Data](articles/d948f514.json)
+
+---
+
+### අද සිට ඉදිරි දින කිහිපයේ වැසි තත්ත්වයේ වැඩිවීමක්
+
+*2024-05-08 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196385) · `si`
+
+අද (08) සිට ඉදිරි දින කිහිපයේදී දිවයිනේ බොහෝ ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වේ.
+
+දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+උතුරුමැද, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75 පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+
+පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+
+මධ්‍යම සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/58e8b691.json)
+
+---
 
 ### Basil reasserts general election first, yet President braces for presidential race
 
@@ -47,6 +81,26 @@ According to the SLPP, a fair number of its MPs stand for the conduct of the sna
 [Data](articles/e915d643.json)
 
 [Extended Data](ext_articles/e915d643.ext.json)
+
+---
+
+### ජයග්‍රහණය ශ්‍රී ලංකා කාන්තා කණ්ඩායම ට
+
+*2024-05-08 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196383) · `si`
+
+අයි.සී.සී පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සුදුසුකම් ලැබීම සඳහා ස්කොට්ලන්ත කාන්තා කණ්ඩායම සමඟ පැවති තරගය ලකුණු 68 කින් ජය ගැනීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම සමත්ව තිබේ.
+
+තරගයේ කාසියේ වාසිය දිනූ ස්කොට්ලන්ත කාන්තා කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළහ.
+
+ඒ අනුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 169ක් ලබා ගත්තේය.
+
+පිළිතුරු ඉනිම සඳහා පන්දුවට පහරදුන් ස්කොට්ලන්ත කාන්තා කණ්ඩායමට නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 101ක් පමණයි.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 68කින් තරගයේ ජය වාර්තා කිරීමට සමත් වුණි.
+
+◼️
+
+[Data](articles/a4e03cb8.json)
 
 ---
 
@@ -297,6 +351,22 @@ Accordingly, in the Economic Review of 2023, the key issues indicated on the cou
 [Data](articles/3ad0b025.json)
 
 [Extended Data](ext_articles/3ad0b025.ext.json)
+
+---
+
+### ஜனாதிபதி நிதியத்தினால் புதிய புலைமைப் பரிசில்
+
+*2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலைமைப்-பரிசில்/175-336931) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+
+அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+
+நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும், ஏனைய மாணவர்களுக்கான 822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+
+...
+
+[Data](articles/831f7121.json)
 
 ---
 
@@ -2147,89 +2217,5 @@ He has put forward his opinion. So it does not mean that this issue is not furth
 [Data](articles/aaea0824.json)
 
 [Extended Data](ext_articles/aaea0824.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 299.40/70 to US dollar
-
-*2024-05-07 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-299-40-70-to-us-dollar-161874/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 299.40/70 to the US dollar on Tuesday from 298.00/50 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 closed up at 10.65/75 percent from 10.60/70 percent.
-
-A bond maturing on 15.09.2027 closed up at 11.05/15 percent from 11.00/10 percent.
-
-A bond maturing on 15.03.2028 closed up at 11.40/55 percent from 11.40/50 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.10/20 percent.
-
-A bond maturing on 01.10.2032 closed up at 12.25/35 percent from 12.20/35 percent. (Colombo/May07/2024)
-
-◼️
-
-[Data](articles/576d5c71.json)
-
-[Extended Data](ext_articles/576d5c71.ext.json)
-
----
-
-### IFC says committed to Sri Lanka reforms, signs agreements with two corporations
-
-*2024-05-07 16:50:00* · [`economynextcom`](https://economynext.com/ifc-says-committed-to-sri-lanka-reforms-signs-agreements-with-two-corporations-161855/) · `en`
-
-ECONOMYNEXT — The International Finance Corporation (IFC) of the World Bank Group is committed to supporting Sri Lanka’s ongoing reforms and growth agenda, IFC Vice President for Asia Pacific Riccardo Puliti said during a recent visit that saw the World Bank Group entity enter agreements with two high profile corporate entities in the island nation.
-
-Speaking at an event, Puliti also highlighted the importance of private sector-led development for inclusive economic growth.
-
-A statement from the IFC said the senior IFC official had held meetings with President Ranil Wickremasinghe, Minister of Power and Energy Kanchana Wijesekera, Governor of the Central Bank of Sri Lanka (CBSL) Nandalal Weerasinghe, private sector representatives, and development partners.
-
-...
-
-[Data](articles/28063ef7.json)
-
-[Extended Data](ext_articles/28063ef7.ext.json)
-
----
-
-### Meeting between high -level committee of British government and opposition leader Sajith
-
-*2024-05-07 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/182907) · `ta`
-
-A high-level meeting between the British government and Sri Lanka's opposition leader Sajith Premadasa was held in Colombo. Discussions focused on Sri Lanka's bankruptcy and the opposition's efforts to protect democratic rights.
-
-🟩
-
-A special meeting between British Foreign Affairs, Commonwealth and Development Office was held in Colombo on Tuesday (07).
-
-Opposition Leader Sajith Premadasa explained that Sri Lanka is currently discussing the bankruptcy facing Sri Lanka at the meeting and a long discussion between the two sides.
-
-Similarly, Opposition Leader Sajith Premadasa is the objective of his and his group's intention to defeat the government's efforts to end the election of the people, the people of the people, the democratic rights of the people, the democratic rights of the people, and the people's expectation of the people's expected regime is the purpose of the British and Commonwealth Office of the British and Commonwealth Office.Ben Meller pointed to the delegation, including.
-
-British Foreign Affairs and Commonwealth Office Humairaa Hatia, British High Commissioner to Sri Lanka and British High Commissioner to Sri Lanka. Opposition leader Sajith Premadasa and Niroshan Perera were also present at the event.
-
-◼️
-
-[Data](articles/11b8b30c.json)
-
-[Extended Data](ext_articles/11b8b30c.ext.json)
-
----
-
-### Sri Lanka to establish National Teachers Council to increase professionalism
-
-*2024-05-07 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-establish-national-teachers-council-to-increase-professionalism-161856/) · `en`
-
-ECONOMYNEXT – Sri Lanka will establish a National Teachers Council similar to those of other professions and international best practices to enhance the professionalism of the country’s teachers through continuous professional development, a government statement said.
-
-The Cabinet adopted a joint proposal to prepare a draft bill for the establishment of a Council after discussions with relevant stakeholders in the field of education.
-
-Sri Lanka currently faces a teacher shortage. Low salaries continue to be a problem in the recruitment of teachers, especially in the English medium of instruction. (Colombo/May7/2024)
-
-◼️
-
-[Data](articles/af3fe16e.json)
-
-[Extended Data](ext_articles/af3fe16e.ext.json)
 
 ---

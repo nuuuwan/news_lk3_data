@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 20:33:31**
+As of **2024-05-08 20:51:52**
 
 ## Newspaper Stats
 
-*Scraped **22,776** Articles*
+*Scraped **22,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,88 @@ economynextcom | 1,315
 dailyftlk | 1,322
 adalk | 1,926
 tamilmirrorlk | 2,662
-adaderanalk | 2,671
+adaderanalk | 2,672
 virakesarilk | 3,390
-dailymirrorlk | 3,576
-adaderanasinhalalk | 3,644
+dailymirrorlk | 3,577
+adaderanasinhalalk | 3,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,774 (100.0%) of 22,776 articles have been extended.
+22,776 (100.0%) of 22,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### ஐ.பி.எல்லில் அறிமுகமான யாழ்ப்பாணத்தின் வியாஸ்காந்த்
+### Shooting in Ahungalla leaves one person dead
+
+*2024-05-08 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99089/shooting-in-ahungalla-leaves-one-person-dead) · `en`
+
+One person was shot dead by unidentified gunmen in Bogahapitiya area of Ahungalla, the police said.
+
+◼️
+
+[Data](articles/45864c87.json)
+
+---
+
+### අහුංගල්ලේ වෙඩිතැබීමකින් පුද්ගලයෙකුට මරුට
+
+*2024-05-08 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196408) · `si`
+
+අහුංගල්ල ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා බලපිටිය රෝහල වෙත ඇතුළත් කර ඇත
+
+◼️
+
+[Data](articles/27e3f013.json)
+
+---
+
+### Sri Lankan charged with rape of ex-girlfriend in Malta
+
+*2024-05-08 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-charged-with-rape-of-ex-girlfriend-in-Malta/108-282184) · `en`
+
+Malta, May 8, (Malta Today) - A Sri Lankan has been remanded in Malta on Tuesday after being charged with the rape of his ex-girlfriend.
+
+Technician Mathihul Akmal Mohamed Jabir, 32, from Sri Lanka, was arraigned before magistrate Joseph Gatt by police inspectors John Spiteri and Sherona Buhagiar, assisted by prosecutor Cynthia Tomasuolo.
+
+The magistrate read out the charges and informed the defendant of his rights.
+
+Jabir is charged with the rape of a woman, understood to be his ex-girlfriend, holding her against her will, subjecting her to a non-consensual sexual act, harassment, causing her to fear violence, stalking her, directing insults and threats at her and misusing electronic telecommunications equipment.
+
+Inspector Spiteri told the court that the defendant had already left Malta on a flight to Sri Lanka when police officers had initially tried to arrest him. He was detained upon his return.
+
+...
+
+[Data](articles/979bf4da.json)
+
+---
+
+### Vyaskant of Jaffna, who debuted in IPL
 
 *2024-05-08 20:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்லில்-அறிமுகமான-யாழ்ப்பாணத்தின்-வியாஸ்காந்த்/44-336980) · `ta`
 
-இந்தியன் பிறீமியர் லீக்கில் (ஐ.பி.எல்) யாழ்ப்பாணத்தைச் சேர்ந்த சுழற்பந்துவீச்சாளரான விஜயகாந்த் வியாஸ்காந்த் அறிமுகத்தை மேற்கொண்டுள்ளார்.
+Vijayakanth Vyaskant, a 22-year-old Jaffna spinner, debuted in IPL with Sunrisers Hyderabad against Lucknow Super Jains. He's an alumnus of Jaffna Central College, having played in Sri Lanka Premier League, Bangladesh Premier League, and represented Sri Lanka in Asian Games and UAE Twenty-20 Series.
 
-ஹைதரபாத்தில் தற்போது நடைபெற்று வரும் லக்னோ சுப்பர் ஜையன்ட்ஸுக்கெதிரான போட்டியிலேயே சண்றைசர்ஸ் ஹைதரபாத் அணிக்காகவே 22 வயதான வியாஸ்காந்த் அறிமுகத்தை மேற்கொண்டுள்ளார்.
+🟩
 
-யாழ்ப்பாணம் மத்திய கல்லூரியின் பழைய மாணவரான வியாஸ்காந்த், 19 வயதுக்குட்பட்ட இலங்கையணியில் இடம்பெற்றதைத் தொடர்ந்து கவனம் பெற்று பின்னர் லங்கா பிறீமியர் லீக்கில் விளையாடியிருந்தார்.
+Vijayakanth Vyaskant, a Jaffna spinner in the Indian Premier League (IPL).
 
-பின்னர் பங்களாதேஷ் பிறீமியர் லீக்கில் விளையாடியதுடன் ஆசியப் போட்டிகளில் இலங்கைக்கான அறிமுகத்தை மேற்கொண்டதுடன், தொடர்ந்து ஐக்கிய அரபு அமீரக இருபதுக்கு – 20 தொடரான ஐ.எல்.டி.20-இலும் விளையாடியிருந்தார்.
+22 -year -old Vyaskant has made his debut for the Sunrisers Hyderabad in a match against Lucknow Super Jains in Hyderabad.
+
+Vyaskant, an alumni of the Jaffna Central College, has been playing in the Sri Lanka Premier League following the focus of the under -19 Sri Lankan.
+
+He then played in the Bangladesh Premier League and made his debut for Sri Lanka in Asian Games and continued to play the United Arab Emirates Twenty-20 Series.
 
 ◼️
 
 [Data](articles/515cc373.json)
+
+[Extended Data](ext_articles/515cc373.ext.json)
 
 ---
 
@@ -234,19 +286,27 @@ The summit aims to assess potential disruptions to critical sectors of the econo
 
 ---
 
-### විදෙස් රටවල හමුදාවේ රැකියා සඳහා යොමුවෙන්න එපා
+### Don't turn for jobs in foreign countries
 
 *2024-05-08 18:26:31* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-රටවල-හමුදාවේ-රැකියා-සඳහා-යොමුවෙන්න-එපා/11-409506) · `si`
 
-මිනිස් ජාවාරම්කරුවන් පිරිසක් එක්ව රුසියාවේ හමුදා සේවය සඳහා ශ්‍රි ලාංකික තරුණයින් යොමු කරවීමේ ජාවාරමක් මේ දිනවල ක්‍රියාත්මක වන බවත්, අදාල ජාවාරම සඳහා හසුනොවන ලෙසත් කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රි ලාංකිකයින්ගෙන් ඉල්ලා සිටියි.
+Minister Manusha Nanayakkara is involved in a human trafficking racket with the Sri Lankan military, aiming to recruit Sri Lankans for work in Russia. Despite warnings from the Sri Lanka Bureau of Foreign Employment, some have joined the Russian military through tourist visas, facing unpaid salaries and deployment issues.
 
-සංචාරක වීසා මගින් රැසියානු හමුදා සේවයට එක්වී විවිධ දුෂ්කරතාවයන්ට ලක්වී ඇති පිරිසකගේ ඥාතීන් පසුගියදා අමාත්‍යවරයා හමුවී ඇති අතර, අමාත්‍යවරයාගේ උපදෙස් පරිදි ඔවුන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව හමුවේ සිය පැමිණිලි ඉදිරිපත් කර ඇත.
+🟩
 
-රුසියානු හමුදාවේ ඉහළ වැටුප් සහිත රැකියා ලබාදෙන බව පවසා විශ්‍රාමික හමුදා සාමාජිකයින් මේ සඳහා බඳවා ගෙන ඇති නමුත් ඔවුන්ට සිදුව තිබුණේ වැන්ගර් කුලි හමුදාවේ සේවය සඳහා යාමටයි. එහිදි ඉදිරි ආරක්ෂක වළල්ලේ රාජකාරි සඳහා මෙම පුද්ගලයින් යොදවා ඇති බවත්, මාස ගණනකින් ඔවුන්ට හිමි වැටුප් පවා ලබා නොදී ඇති බවත් එම පුද්ගලයින් පවසා තිබේ.
+Human traffickers jointly function in Sri Lankan military service to work in Russia and Minister Manusha Nanayakkara is asking for Sri Lankans to be involved in the racket.
+
+The relatives of a group of different difficulties have joined the Russian military service by the tourist visa recently, they have found their complaints before the Minister's instructions.
+
+Retired army soldiers have been enrolled in the Russian army, but they had to go to the service Wanger Trees Army. These people have been deployed to duty for the future defense of defense and that they have not paid their salaries in months.
+
+The Minister emphasizes that no man will be sent to a foreign country without the approval of the Sri Lanka Bureau and the Government of Sri Lanka.. Minister Manusha Nanayakkara stated that although tourist visa had done not to go abroad, he had to face many difficulties and facing many difficulties.
 
 ...
 
 [Data](articles/44c9701a.json)
+
+[Extended Data](ext_articles/44c9701a.ext.json)
 
 ---
 
@@ -2209,83 +2269,5 @@ The victim is a 19 year old resident of the Disadagada area.
 [Data](articles/9392cc48.json)
 
 [Extended Data](ext_articles/9392cc48.ext.json)
-
----
-
-### Confusion in the congregation by the opinion of KD Lalgantha
-
-*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
-
-KD Lalkantha claimed NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalkantha's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya denied Lalkantha promised judicial authority to NPP members at village level. Vijayadasa Rajapakse mentioned JVP member Sumanasena's role in resolving land issues in 1989. Mahindananda Aluthgamage will be Justice Minister in future NPP government, highlighting Lalkantha's future actions. Amarasuriya dismissed discussing 1989 rebellion.
-
-🟩
-
-At a recent May Day meeting, KD Lalkantha said that the NPP government would disseminate judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
-
-The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
-
-The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
-
-Mrs. Amarasuriya said that Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
-
-Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land problems in 1989.
-
-...
-
-[Data](articles/48d3c7a5.json)
-
-[Extended Data](ext_articles/48d3c7a5.ext.json)
-
----
-
-### Confusion in Parliament by KD Lalganta's opinion
-
-*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-பாராளுமன்றத்தில்-குழப்பம்/175-336942) · `ta`
-
-KD Lalganta claimed NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalganta's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya denied Lalganta promised judicial authority to NPP members at village level. Justice Minister Vijayadasa Rajapakse mentioned JVP member Sumanasena's role in resolving land issues in 1989. MP Mahindananda Aluthgamage will be Justice Minister in future NPP government.
-
-🟩
-
-The National People's Power (NPP) KT Lalgantha commented at the recent May Day meeting that the future NPP government would spread judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
-
-The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
-
-The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
-
-Mrs. Amarasuriya said Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
-
-Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land issues in 1989.
-
-...
-
-[Data](articles/760b8da7.json)
-
-[Extended Data](ext_articles/760b8da7.ext.json)
-
----
-
-### Lalkanta's opinion is confusing in the congregation
-
-*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
-
-KD Lalkantha claimed future NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalkantha's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya disputed Lalkantha's claim, while Justice Minister Vijayadasa Rajapakse mentioned a JVP member's intervention in 1989. MP Mahindananda Aluthgamage will be Justice Minister in future NPP government, highlighting Lalkantha's future actions.
-
-🟩
-
-At a recent May Day meeting, KD Lalkantha said that the future National People's Power (NPP) government would spread judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
-
-The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
-
-The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
-
-Mrs. Amarasuriya said Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
-
-Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land issues in 1989.
-
-...
-
-[Data](articles/79e5f954.json)
-
-[Extended Data](ext_articles/79e5f954.ext.json)
 
 ---

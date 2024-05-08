@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 00:18:16**
+As of **2024-05-09 00:33:47**
 
 ## Newspaper Stats
 
-*Scraped **22,804** Articles*
+*Scraped **22,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,322
 adalk | 1,930
 tamilmirrorlk | 2,664
 adaderanalk | 2,678
-virakesarilk | 3,391
+virakesarilk | 3,392
 dailymirrorlk | 3,582
 adaderanasinhalalk | 3,651
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,803 (100.0%) of 22,804 articles have been extended.
+22,804 (100.0%) of 22,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ How does the manifesto of each party or alliance defer from the Constitution of 
 
 [Data](articles/8713901e.json)
 
+[Extended Data](ext_articles/8713901e.ext.json)
+
 ---
 
 ### 2024-05-08 (Wednesday)
@@ -73,6 +75,26 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 [Data](articles/e3d10ae3.json)
 
 [Extended Data](ext_articles/e3d10ae3.ext.json)
+
+---
+
+### லக்னோவை பந்தாடி 10 ஓவர்களுக்குள் 10 விக்கெட்களால் வென்றது சன்ரைசர்ஸ் ஹைதராபாத்
+
+*2024-05-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183015) · `ta`
+
+ஹைதராபாத் ரஜிவ் காந்தி விளையாட்டரங்கில் புதன்கிழமை (08) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 57ஆவது போட்டியில் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் பந்துவீச்சாளர்களை துவம்சம் செய்த சன்ரைசர்ஸ் ஹைதராபாத் 10 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+
+166 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய சன்ரைசர்ஸ் ஹைதராபாத் 9.4 ஓவர்களில் விக்கெட் இழப்பின்றி 167 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+இந்த வருட இண்டியன் பிறீமியர் லீக் போட்டியில் அணி ஒன்று 10 விக்கெட்களால் வெற்றிபெற்றது இதுவே முதல் தடவையாகும். அத்துடன் 10 ஓவர்களுக்குள் 45 நிமிடங்களில் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றி இலக்கை அடைந்ததும் குறிப்பிடத்தக்க அம்சமாகும்.
+
+அபிஷேக் ஷர்மா, ட்ரவிஸ் ஹெட் ஆகிய இருவரும் ஆரம்பத்திலிருந்தே அதிரடியாக ஓட்டங்களைக் குவித்து அணியின் வெற்றியை இலகுவாக்கினர்.
+
+ட்ரவிஸ் ஹெட் 30 பந்துகளை எதிர்கொண்டு 8 பவுண்டறிகள், 8 சிக்ஸ்கள் உட்பட 89 ஓட்டங்களையும் அபிஷேக் 28 பந்துகளில் 8 பவுண்டறிகள், 6 சிக்ஸ்கள் உட்பட 75 ஓட்டங்களையும் பெற்று ஆட்டம் இழக்காதிருந்தனர்.
+
+...
+
+[Data](articles/02091493.json)
 
 ---
 
@@ -2213,29 +2235,5 @@ They have also revealed a secret operation to find out among the Celenceky's bod
 [Data](articles/7bba8db9.json)
 
 [Extended Data](ext_articles/7bba8db9.ext.json)
-
----
-
-### Fox Hill Supercross Supermoto highlights
-
-*2024-05-08 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Fox-Hill-Supercross-Supermoto-highlights/110-282157) · `en`
-
-During the Fox Hill Supercross 2024 competition, Isuru Madhuranga won first place representing the Sri Lanka Army in the Supermoto 125cc to 750cc motorcycle race.
-
-Imal Manchanayake won the second place and Buddhika Senaviratne the third place.
-
-The Fox Hill Supercross 2024 was held on April 21 at the Diyatalawa Fox Hill track.
-
-Twenty-nine-year-old Isuru Madhuranga has eight years of motorcycle racing experience and has performed well in many competitions. He is a talented competitor who won consecutive first places in many tournaments held in several parts of the island recently.
-
-Founded in 1993 as the country's inaugural racing event, the Fox Hill Supercross is Sri Lanka's largest motor racing event offering an unparalleled motoring experience.
-
-The tournament was organized by the Ministry of Sports, Sri Lanka Army Motor Sports Committee and the Sri Lanka Army Academy.
-
-◼️
-
-[Data](articles/1903e03d.json)
-
-[Extended Data](ext_articles/1903e03d.ext.json)
 
 ---

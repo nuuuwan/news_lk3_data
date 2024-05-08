@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 16:50:45**
+As of **2024-05-08 17:03:36**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 3,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,739 (100.0%) of 22,742 articles have been extended.
+22,742 (100.0%) of 22,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### නව ග්‍රාම නිලධාරීන් 2100කට පත්වීම්
+### Appointments to 2100 new Grama Niladhari
 
 *2024-05-08 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196404) · `si`
 
-නව ග්‍රාම නිලධාරීන් ලෙස බඳවාගත් 2100ක් සඳහා පත්වීම් ලිපි ප්‍රදානය අද සිදුකර තිබේ.
+Appointment letters for 2100 new Grama Niladhari were presented at a function. President Ranil Wickremesinghe emphasized the importance of agriculture for the economy. The President educated the new Grama Niladhari on government and heritage programs to improve low-income areas. The President also highlighted the success of the development program in Yala and Maha seasons of 2022-2023.
 
-අද (08) පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති උත්සවයකදී මෙම පත්වීම් ලිපි ප්‍රදානය සිදුකළ බව ජනාධිපති මාධ්‍ය ඒකකය පවසයි.
+🟩
 
-විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් මස 02 වනදා පවත්වන ලද ග්‍රාම නිලධාරී විභාගයේ ප්‍රතිඵල අනුව ප්‍රාදේශීය ලේකම් කොට්ඨාස මට්ටමින් වැඩිම ලකුණු ලබාගත් අයැදුම්කරුවන් අතරින් 2100 දෙනකු වෙනුවෙන් මෙසේ ග්‍රාම නිලධාරී පත්වීම් ප්‍රදානය සිදුකෙරිණි.
+The appointment letters have been made for 2100 recruited as the new Grama Niladhari.
 
-එහිදී අදහස් දක්වමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර ඇත්තේ කෘෂිකර්මාන්තය දියුණු නොකොට ග්‍රාමීය ආර්ථිකය ශක්තිමත් කළ නොහැකි බවය.
+The appointment letters were presented at a function at Temple Trees this morning, the Presidential Media Unit said.
+
+The Department of Examinations was granted the highest marks at Divisional Secretariat by December 2, 2023, the Grama Niladhari appointments were handed over to 2100 applicants.
+
+President Ranil Wickremesinghe said that the country's economy cannot be strengthened without developing agriculture.
 
 එබැවින් රජයේ කෘෂි නවීකරණ වැඩසටහන ඇතුළු ග්‍රාමීය ආර්ථිකය දියුණු කිරීමට රජය ආරම්භ කළ සියලු වැඩසටහන් සාර්ථක කර ගැනීමට බිම් මට්ටමේ රාජ්‍ය නිලධාරීන්ගේ කැපවීම අත්‍යාවශ්‍ය බවද එහිදී ජනාධිපතිවරයා අවධාරණය කළේය.
+
+The President has educated new Grama Niladhari, including the Government and heritage programs to improve the low income people and requested the rural economy and actively joins the economy of the area.
 
 ...
 
 [Data](articles/330f4d6a.json)
+
+[Extended Data](ext_articles/330f4d6a.ext.json)
 
 ---
 
@@ -89,6 +97,8 @@ However, the magistrate, who refused the lawyer’s request, further remanded th
 ...
 
 [Data](articles/5f203030.json)
+
+[Extended Data](ext_articles/5f203030.ext.json)
 
 ---
 
@@ -386,21 +396,27 @@ In 2023, 791 employees were recruited to SriLankan Airlines, which was the large
 
 ---
 
-### ඩයනාගේ පුටුව මුජිබර්ට
+### Diana's chair to Mujiber
 
 *2024-05-08 14:09:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-පුටුව-මුජිබර්ට/11-409500) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රි ඩයනා ගමගේ මහත්මියගේ ධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් තින්දුව අනුව හිස්වූ මන්ත්‍රීධුරය ස﻿ඳහා සමගි ජන බලවේගයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් මහතා පත්කිරිමට එම පක්ෂය තිරණය කර ඇති බව වාර්තා වෙයි.
+Diana Gamage's seat is taken by Mujibar Rahman, who resigned from Parliament to run for Colombo mayor. Rahman, a former MP, is appointed to the national list.
 
-ඩයනා ගමගේ මහත්මිය ආණ්ඩුවට එක්වුවත් ඇය සමගි ජන බලවේගයේ ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරියකි.
+🟩
 
-මුජිබර් රහුමාන් මහතා මෙම පාර්ලිමේන්තුවට තේරි පත්වුවත් ඔහු කොළඹ නගරාධිපති ධුරය වෙනුවෙන් තරග කිරිමට පාර්ලමේන්තුවෙන් අස්විය.
+It is reported that the party has decided to appoint MP Mujibar Rahman, who was given the post of MP Diana Gamage, to abolish the post of Deputy Member.
 
-ඒ අනුව සජබයේ හිස්ව ඇති ජාතික ලැයිස්තු මන්ත්‍රීධුරය ස﻿ඳහා මෙසේ මුජිබර් රහුමාන් මන්ත්‍රිවරයා පත්කිරිමට නියමිතව තිබේ.
+Although Mrs. Diana Gamage joins the government, she is a member of the national list of the people's force.
+
+Although Mr. Mujibar Rahman was selected to parliament, he resigned from the Parliament to contest Colombo mayor.
+
+Accordingly, Mujibur Rahman is to be appointed to the national list of the empty.
 
 ◼️
 
 [Data](articles/fbde7d71.json)
+
+[Extended Data](ext_articles/fbde7d71.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 10:51:01**
+As of **2024-05-08 11:03:09**
 
 ## Newspaper Stats
 
-*Scraped **22,672** Articles*
+*Scraped **22,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,322
-adalk | 1,908
-tamilmirrorlk | 2,648
-adaderanalk | 2,657
+adalk | 1,909
+tamilmirrorlk | 2,651
+adaderanalk | 2,658
 virakesarilk | 3,386
-dailymirrorlk | 3,559
-adaderanasinhalalk | 3,630
+dailymirrorlk | 3,560
+adaderanasinhalalk | 3,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,668 (100.0%) of 22,672 articles have been extended.
+22,672 (100.0%) of 22,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Supreme Court rules Diana Gamage ineligible for parliamentary seat
+
+*2024-05-08 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-Diana-Gamage-ineligible-for-parliamentary-seat/108-282150) · `en`
+
+The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+
+◼️
+
+[Data](articles/77851ed5.json)
+
+---
+
+### State Minister Diana Gamage loses MP seat
+
+*2024-05-08 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99074/state-minister-diana-gamage-loses-mp-seat) · `en`
+
+The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
+
+The court had concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition against State Minister Diana Gamage’s parliamentary membership. Upon concluding the proceedings on February 13, the judge bench decided to defer its verdict indefinitely.
+
+Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
+
+Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
+
+◼️
+
+[Data](articles/952aa21c.json)
+
+---
+
+### ඩයනා ට මන්ත්‍රී ධුරය අහිමිවෙයි
+
+*2024-05-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196394) · `si`
+
+රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (08) තීන්දු කළේය.
+
+සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ප්‍රකාශයට පත් කෙරිණි.
+
+ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට  නීත්‍යානුකූල සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/c0b979ef.json)
+
+---
+
+### ”ரூபாவின் பெறுமதி எதிர்காலத்தில் நிலையற்று காணப்படாது”
+
+*2024-05-08 10:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூபாவின்-பெறுமதி-எதிர்காலத்தில்-நிலையற்று-காணப்படாது/175-336944) · `ta`
+
+தற்போது கிடைக்கப்பெறும் தரவுகளின் அடிப்படையில் இலங்கையின் ரூபாவின் பெறுமதியானது எதிர்காலத்தில் நிலையற்றதாக காணப்படாது என மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+
+"எதிர்காலத்தில் வரவேண்டிய வெளிநாட்டு வருமானங்கள் மற்றும் கொடுப்பனவுகளைப் பார்க்கும்போது, ​​நாணய மாற்று வீதம் கீழிறங்கும் என்று நான் பார்க்கவில்லை" என்று ஆளுநர் வீரசிங்க செவ்வாய்கிழமை ஊடகவியலாளர்களிடம் பேசுகையில் கூறினார்.
+
+"நிலைமாற்றம் இருந்தாலும், எங்கள் கொள்கை சந்தை செயல்பட அனுமதிக்கும், மற்றும் அதிக ஏற்ற இறக்கம் இருந்தால் தலையிடும் திறனும் எங்களிடம் உள்ளது."
+
+மத்திய வங்கி இப்போது 5.4 பில்லியன் அமெரிக்க டொலர்களைக் கொண்டுள்ளது, ஆனால் தேவைகளின் அடிப்படையில் விகிதங்களை தீர்மானிக்க மத்திய வங்கி சந்தையை அனுமதிக்கிறது, என்றார்.
+
+தற்போது கிடைக்கப்பெறும் தரவுகளின் அடிப்படையில் பாரிய ஏற்றத்தாழ்வுகள் ஏற்படும் என நான் நினைக்கவில்லை என ஆளுநர் வீரசிங்க தெரிவித்தார்.
+
+கடன் மறுசீரமைப்பை முடிக்க இலங்கை எதிர்பார்க்கிறது, இது புதிய திட்டங்களை மீண்டும் தொடங்குவதற்கு வழிவகுக்கும் என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/527f822e.json)
+
+---
 
 ### Australia raises minimum savings for student visa, warns on fake recruitment
 
@@ -48,11 +116,13 @@ English language requirements for student visas were increased in March and the 
 
 [Data](articles/5d4e3995.json)
 
+[Extended Data](ext_articles/5d4e3995.ext.json)
+
 ---
 
-### ”பொதுத் தேர்தலே முதலில் நடக்க வேண்டும் ”
+### ”பொதுத் தேர்தலையே  முதலில் நடத்தனும் ”
 
-*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலே-முதலில்-நடக்க-வேண்டும்/175-336943) · `ta`
+*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலையே-முதலில்-நடத்தனும்/175-336943) · `ta`
 
 ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பொதுத் தேர்தல் நடத்தப்பட வேண்டும் என்பதை தமது கட்சி இன்னும் நம்புவதாகவும் ஆனால் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு மாறுபட்ட நிலைப்பாடு இருப்பதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) ஸ்தாபகர் பசில் ராஜபக்ஷ நேற்று மீண்டும் வலியுறுத்தினார்.
 
@@ -62,7 +132,31 @@ SLPP இன் கூற்றுப்படி, அரசியலமைப்
 
 ...
 
+[Data](articles/0c96513e.json)
+
+---
+
+### “General election must be held first”
+
+*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலே-முதலில்-நடக்க-வேண்டும்/175-336943) · `ta`
+
+Basil Rajapaksa, SLPP founder, supports holding a general election before the presidential election, despite President Wickremesinghe's differing view. The SLPP believes in adhering to the constitution, which schedules the next parliamentary election for 2025, but acknowledges the president's power to dissolve parliament and call an election earlier. Rajapaksa advises MPs to prepare for any election, while SLPP MPs in government are expected to prioritize the presidential election.
+
+🟩
+
+The Sri Lanka PA (SLPP) founder Basil Rajapaksa yesterday reiterated that his party is still believing that the general election should be held before the presidential election but that President Ranil Wickremesinghe has a different position.
+
+Speaking to the party's parliamentary committee, Basil had earlier met with the president and recalled that he had negotiated the recent political advances.
+
+According to SLPP, there are a significant number of MPs in agreement to hold the general election ahead of the scheduled presidential election in October this year based on the constitution.. The next parliamentary election is scheduled for 2025. However, the president has the constitutional authority to dissolve parliament in advance and announce a rapid election.
+
+Mr.. Rajapakse is said to have advised MPs to hold any election, no matter what election.. MPs are said to have been asked to start political work to prepare for any election.
+
+...
+
 [Data](articles/4eb56dc8.json)
+
+[Extended Data](ext_articles/4eb56dc8.ext.json)
 
 ---
 
@@ -77,6 +171,8 @@ This endeavour not only signifies the enduring bond between Sri Lanka and India 
 ◼️
 
 [Data](articles/43f465f2.json)
+
+[Extended Data](ext_articles/43f465f2.ext.json)
 
 ---
 
@@ -126,21 +222,29 @@ The victim is a 19 year old resident of the Disadagada area.
 
 ---
 
-### கே.டி.லால்காந்தவின் கருத்தால் சபையில் குழப்பம்
+### Confusion in the congregation by the opinion of KD Lalgantha
 
 *2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
 
-எதிர்கால  தேசிய மக்கள் சக்தி (NPP)  அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில்   கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
+KD Lalkantha claimed NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalkantha's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya denied Lalkantha promised judicial authority to NPP members at village level. Vijayadasa Rajapakse mentioned JVP member Sumanasena's role in resolving land issues in 1989. Mahindananda Aluthgamage will be Justice Minister in future NPP government, highlighting Lalkantha's future actions. Amarasuriya dismissed discussing 1989 rebellion.
 
-கிராம மட்டத்தில் உள்ள தனது கட்சி உறுப்பினர்களுக்கு நீதித்துறை அதிகாரத்தை வழங்குவதாக லால்காந்த உறுதியளித்ததாக இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க கூறியதையடுத்து இந்த வெடிப்பு ஏற்பட்டது.
+🟩
 
-லால்காந்தவின் உரை அடங்கிய ஒலிப்பதிவு SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணாவால் ஒலிக்கப்பட்டது.
+At a recent May Day meeting, KD Lalkantha said that the NPP government would disseminate judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
 
-கிராம மட்டத்திலுள்ள NPP உறுப்பினர்களுக்கு நீதித்துறை அதிகாரங்கள் பகிர்ந்தளிக்கப்படும் என்று லால்காந்த ஒருபோதும் குறிப்பிடவில்லை என திருமதி அமரசூரிய கூறினார். "அனைத்து மக்களுக்கும் நீதி கிடைப்பதை மட்டுமே லால்காந்த உறுதி செய்தார்,” என்று அவர் கூறினார்.
+The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
+
+The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
+
+Mrs. Amarasuriya said that Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
+
+Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land problems in 1989.
 
 ...
 
 [Data](articles/48d3c7a5.json)
+
+[Extended Data](ext_articles/48d3c7a5.ext.json)
 
 ---
 
@@ -167,6 +271,24 @@ Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP me
 [Data](articles/760b8da7.json)
 
 [Extended Data](ext_articles/760b8da7.ext.json)
+
+---
+
+### லால்காந்தவின் கருத்தால் சபையில் குழப்பம்
+
+*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
+
+எதிர்கால  தேசிய மக்கள் சக்தி (NPP)  அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில்   கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
+
+கிராம மட்டத்தில் உள்ள தனது கட்சி உறுப்பினர்களுக்கு நீதித்துறை அதிகாரத்தை வழங்குவதாக லால்காந்த உறுதியளித்ததாக இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க கூறியதையடுத்து இந்த வெடிப்பு ஏற்பட்டது.
+
+லால்காந்தவின் உரை அடங்கிய ஒலிப்பதிவு SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணாவால் ஒலிக்கப்பட்டது.
+
+கிராம மட்டத்திலுள்ள NPP உறுப்பினர்களுக்கு நீதித்துறை அதிகாரங்கள் பகிர்ந்தளிக்கப்படும் என்று லால்காந்த ஒருபோதும் குறிப்பிடவில்லை என திருமதி அமரசூரிய கூறினார். "அனைத்து மக்களுக்கும் நீதி கிடைப்பதை மட்டுமே லால்காந்த உறுதி செய்தார்,” என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/79e5f954.json)
 
 ---
 
@@ -325,6 +447,26 @@ He also said that a demonstration will be held today in collaboration with the s
 [Data](articles/eb9c1a1b.json)
 
 [Extended Data](ext_articles/eb9c1a1b.ext.json)
+
+---
+
+### චමරිගේ ශතකයෙන් ලංකාවට ලෝක කුසලාන  සුදුසුකම් ලැබිමේ තරගාවලියේ ශූරතාව
+
+*2024-05-08 09:38:27* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-ශතකයෙන්-ලංකාවට-ලෝක-කුසලාන--සුදුසුකම්-ලැබිමේ-තරගාවලියේ-ශූරතාව/9-409489) · `si`
+
+බංග්ලාදේශයේදි ලබන ඔක්තෝබර් මස ආරම්භවිමට නියමිත කාන්තා විස්සයි20 ලෝක කුසලානය වෙනුවෙන් සුදුසුකම් ලබා ගැනිමට අදාළව ඩුබායිහි පැවැති සුදුසුකම් ලැබිමේ තරගාවලියේ ශූරතාව හිමිකර ගැනිමට ශ්‍රි ලංකා කාන්තා ක්‍රිකට් ක්‍රීඩිකාවෝ සමත්වූහ.
+
+ඒ ඊයේ පැවැති අවසන් මහ තරගයේදි ස්කොට්ලන්ත කණ්ඩායම ලකුණු 68කින් පරාජය කරමිනි.
+
+තරගයේ මුලින්ම  පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම පන්දුවාර 20 තුළදි කඩුලු 5 කට ලකුණු 169ක් රැස්කළේය.
+
+එහිදි නායක චමරි අතපත්තු විශිෂ්ඨ ඉනිමක් ක්‍රිඩා කරමින් පන්දු 63කදි ලකුණු 102ක් රැස්කිරිමට සමත්වූයේ හතරේ පහර 13ක් හා හයේ පහර 4ක් සමගිනි. ඒ අනුව ඇය තරගයේ විරවරිය ලෙසද සම්මාන ලැබුවාය.
+
+පිළිතුරු ඉනිම ක්‍රිඩා කළ ස්කොට්ලන්ත කණ්ඩායම පන්දුවාර 20දි කඩුලු 7ට ලකුණු 101ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/a91ed18f.json)
 
 ---
 
@@ -2045,167 +2187,5 @@ One of the arrested had already bought unmanned aircraft and mines.
 [Data](articles/ee8cc62f.json)
 
 [Extended Data](ext_articles/ee8cc62f.ext.json)
-
----
-
-### Retirement age of nurses and other healthcare staff to be increased
-
-*2024-05-07 20:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99069/retirement-age-of-nurses-and-other-healthcare-staff-to-be-increased-) · `en`
-
-Health Minister Dr. Ramesh Pathirana said that a Cabinet paper was submitted to the Cabinet of Ministers to increase the retirement age of certain healthcare services including nursing staff to 61 years.
-
-The minister revealed this in response to a question raised by MP Gamini Waleboda in Parliament today (07).
-
-MP Waleboda further stated that even though a decision was taken to extend the retirement age of nursing and certain healthcare services to 63 years, it was not implemented. Due to this “the principal of the Nurses’ Training School in Ratnapura has retired and is now staying in the hospital without handing over the duties to another person or the next principal.”
-
-He also claimed that even heads of departments do not know whether the retirement age of 63 years will be implemented or not. Therefore, it has been difficult to maintain the operations of the school, he said.
-
-...
-
-[Data](articles/220c67d9.json)
-
-[Extended Data](ext_articles/220c67d9.ext.json)
-
----
-
-### Fire on a solo factory
-
-*2024-05-07 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196380) · `si`
-
-A solo factory fire was extinguished with three fire extinguishers, leaving the fire undamaged but damaging the property. The cause is under investigation by the Jaeli police.
-
-🟩
-
-The fire has been completely controlled by the fire with three fire extinguishers.
-
-The fire has not been damaged and the property has been damaged.
-
-However, the cause of the fire is yet to be ascertained and the Jaeli police are conducting further investigations.
-
-◼️
-
-[Data](articles/d5e8ca21.json)
-
-[Extended Data](ext_articles/d5e8ca21.ext.json)
-
----
-
-### Migrant Indians who are spread around the world, including Sri Lanka -are the main ambassadors of our country -Indian High Commissioner Santosh Ja
-
-*2024-05-07 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/182921) · `ta`
-
-Diaspora Indians, including those in Sri Lanka, are key ambassadors of India, with the Indian High Commissioner emphasizing their role in building India's global image. The Indian government actively supports the diaspora, highlighting their importance in strengthening India's international relations.
-
-🟩
-
-The most important ambassadors of the Indian nation are the diaspora Indians around the world, including Sri Lanka. The image, which is being built globally globally, is based on your (diaspora Indians) activities.. Meanwhile, Indian High Commissioner to Sri Lanka Santosh Ja said the Indian government is politically politicized to ensure the interests of the diaspora Indians.
-
-High Commissioner Santosh Ja said this while attending a dinner party organized by the 'Kopio' organization at the TajSamudra Hotel in Colombo on Monday (6) to honor Santosh Jaa, who was recently appointed as the Indian High Commissioner to Sri Lanka.. There he added:
-
-When I was in New York in 2004 I questioned the 'Kobio' organization for the first time. However, the 'Kopio' organization was later established in Sri Lanka and now I can see its strong activities.
-
-...
-
-[Data](articles/f33ad117.json)
-
-[Extended Data](ext_articles/f33ad117.ext.json)
-
----
-
-### Salt Corporation offers a sum of money to circulars
-
-*2024-05-07 19:40:59* · [`adalk`](https://www.ada.lk/breaking_news/ලුණු-සංස්ථාව-එක්කෝටියක-මුදලක්-චක්‍ර-ලේඛවලට-පටහැනිව-ගෙවලා/11-409488) · `si`
-
-Salt Corporation paid Rs. to circulars, with an additional Rs. 30 issued by the National Audit Office. The audit found the payment was a daily allowance, recommending it be continued.
-
-🟩
-
-The National Audit Office has issued an additional sum of Rs. 30 to Rs.Audit report states.
-
-Salt Salt Salvation was paid Rs.
-
-The audit has revealed that this money has been paid a daily allowance between Rs.. The audit recommended by the audit: Payment of Circulars should be taken.
-
-◼️
-
-[Data](articles/cb072cdd.json)
-
-[Extended Data](ext_articles/cb072cdd.ext.json)
-
----
-
-### The Paradle Law Suspension Act passed
-
-*2024-05-07 19:33:06* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-පනත-සම්මතයි/11-409487) · `si`
-
-The Paradle Law Suspension Act was temporarily suspended from Dec. 15, 2024, after a vote in Parliament. The opposition's amendments were rejected, and the government's amendments also faced opposition.
-
-🟩
-
-Deputy Speaker Ajith Rajapakse also informed Parliament today (Dec. Decising) Bill (Amendment) Bill to temporarily suspended the law from December 15, 2024.
-
-Opposition Leader Sajith Premadasa and Parliamentarian Force Parliamentarian Ashok Abeysinghe, MP Ashok Abeysinghe and the government was defeated in two occasions, and the opposition was defeated in both cases.
-
-The amendment presented by the Opposition to the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of Consultation was cast in favor and 50 votes were against him and avoided the election.
-
-The amendments were then presented by Ashok Abeysinghe and 49 votes were cast against the election.
-
-◼️
-
-[Data](articles/d7eab427.json)
-
-[Extended Data](ext_articles/d7eab427.ext.json)
-
----
-
-### In 2023, Sri Lanka met 1769 counterfeit notes
-
-*2024-05-07 19:25:14* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවෙන්-හොර-නෝට්ටු-1769ක්-හමුවෙලා/11-409486) · `si`
-
-In 2023, Sri Lanka faced 1769 counterfeit notes. The Central Bank of Sri Lanka (SLTB) submitted a claim for 11 Million Courts to the Ministry of Justice. Despite encountering 1.4 counterfeit notes, SLTB issued 97 certificates under Section 57 of the Central Bank Act. The bank aims to improve cash quality through legal enforcement and education.
-
-🟩
-
-The Central Bank's Financial Statements and Operations issued on May 04
-
-The Central Bank of Sri Lanka (SLTB) has been submitted to suit in the Ministry of Justice in the Ministry of Justice for 11 Million Courts on May 2023, according to the Central Bank Financial Statement Report.Is mentioned.
-
-The Central Bank of Sri Lanka (SLTB) has shown that this is a significant lowest level of 15 counterfeit notes, as it encounters about 1.4 counterfeit notes in Sri Lanka.
-
-Under Section 57 of the Central Bank Act, the Central Bank has issued 97 certificates as decisive evidence of fake currency notes.
-
-In addition, the Central Bank of Sri Lanka to enhance the knowledge and law to enforce knowledge and law to promote the quality of money to improve the quality of cash and handle money to maintain the quality of cash.
-
-◼️
-
-[Data](articles/2f1fd649.json)
-
-[Extended Data](ext_articles/2f1fd649.ext.json)
-
----
-
-### Putin took over as Russian President for the 5th time
-
-*2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-ஜனாதிபதியாக-பொறுப்பேற்ற-புட்டின்/50-336907) · `ta`
-
-Vladimir Putin won the Russian presidential election, securing his fifth term. He won 88% of the votes, with no major opposition.
-
-🟩
-
-Vladimir Putin, who won the Russian presidential election, took over as president for the fifth time today.
-
-The presidential election date was announced a few months ago as Russian president Vladimir Putin's tenure ended.
-
-The presidential election was held last March. The Communist Party's Nikolai Garidonov, the Nationalist Liberal Democratic Party's Leonit Slotsky and the New People's Party Valadislav Davankov contested against Putin.
-
-Vladimir Putin won 88 percent of the votes in this election. According to these election results, there was no major opposition parties.
-
-Vladimir Putin took over as Russian President today for the 5th time. By winning this election, he will remain president for another six years. Remble
-
-◼️
-
-[Data](articles/078cc6b7.json)
-
-[Extended Data](ext_articles/078cc6b7.ext.json)
 
 ---

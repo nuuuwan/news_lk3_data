@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 19:51:12**
+As of **2024-05-08 20:03:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 3,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,770 (100.0%) of 22,773 articles have been extended.
+22,773 (100.0%) of 22,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### ஹிருணிகாவுக்கு கால அவகாசம் வழங்கிய நீதிமன்றம்
+### The court that gave Hirunika time time
 
 *2024-05-08 19:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-கால-அவகாசம்-வழங்கிய-நீதிமன்றம்/175-336979) · `ta`
 
-ஹிருணிகா பிரேமச்சந்திரவுக்கு எதிராக தாக்கல் செய்யப்பட்ட முறைப்பாட்டை எதிர்வரும் ஜூன் மாதம் 14ஆம் திகதி அழைக்குமாறு மேன்முறையீட்டு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Court of Appeal ordered a complaint against Hirunika Premachandra, giving her lawyers two weeks to file objections. The case, investigated by Uva Provincial Governor Mohamed Muzammil's son, is ongoing.
 
-மேலும், இந்த வழக்கு தொடர்பான ஆட்சேபனைகளை இரண்டு வாரங்களுக்குள் தாக்கல் செய்ய நடவடிக்கை எடுக்குமாறு ஹிருணிகா பிரேமச்சந்திரவின் சட்டத்தரணிகளுக்கு நீதிமன்றம் காலவகாசம் வழங்கியுள்ளது.
+🟩
 
-ஊவா மாகாண ஆளுநர் மொஹமட் முஸம்மிலின் மகன் தாக்கல் செய்த முறைப்பாட்டின் பிரகாரம் இந்த வழக்கு விசாரணை நடைபெற்று வருகிறமை குறிப்பிடத்தக்கது. R
+The Court of Appeal has ordered the call of the complaint filed against Hirunika Premachandra on June 14.
+
+Moreover, the court has given time to Hirunika Premachandra's lawyers to take steps to file objections to the case within two weeks.
+
+It is noteworthy that the case is being investigated according to the complaint filed by the son of Governor Mohamed Muzammil, Uva Provincial Governor.. Remble
 
 ◼️
 
 [Data](articles/38b5e16e.json)
+
+[Extended Data](ext_articles/38b5e16e.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ In a post on X, he said although it is customary for all public finance related 
 ◼️
 
 [Data](articles/f96dc6b0.json)
+
+[Extended Data](ext_articles/f96dc6b0.ext.json)
 
 ---
 
@@ -192,17 +200,25 @@ The summit aims to assess potential disruptions to critical sectors of the econo
 
 ---
 
-### විවාදයකට එන්නැයි උදයගෙන් මහබැංකු අධිපතිට අභියෝගයක්
+### Udaya is a challenge to the Central Bank Governor from Udaya to come to debate
 
 *2024-05-08 18:13:15* · [`adalk`](https://www.ada.lk/breaking_news/විවාදයකට-එන්නැයි-උදයගෙන්-මහබැංකු-අධිපතිට-අභියෝගයක්/11-409505) · `si`
 
-හැකිනම් තමන් සමග විවාදයකට එන්නැයි පාර්ලිමේන්තු මන්තී උදය ගම්මන්පිල මහතා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතාට අභියෝග කළේය. ගම්මන්පිල මහතා මෙම අභියෝගය කළේ අද (08්) පාර්ලිමේන්තුවේ පැවති ඛණිජතෙල් නිෂ්පාදන (විධිවිධාන) පනත් කෙටුම්පත පිළිබද විවිාදයට එක් වෙමිනි.
+MP Udaya Gammanpila challenges Central Bank Governor Weerasinghe to debate on the Central Bank's independence and salary increases, highlighting the bank's net loss and largest wage increase in history.
 
-"පසුගිය අවුරුද්දේ ආණ්ඩුව මහ බැංකුව ස්වාධීන කළ යුතුයි කියලා පනතක් ගෙනාවා.  මහ බැංකුව මහජනතාවට වෙනුවට ජාත්‍යන්තරයට වග කියන ආයතනයක් වෙන බව අපි දැක්ක නිසා අපි ඒකට විරුද්ධ වුණා.  නමුත් විපක්ෂයේ බහුතරය ඒකට හුරේ දැම්මා.  මේක පාර්ලිමේන්තුවේ බේරා ගන්න බැරි බව තේරුණු නිසා අපි අධිකරණයට ගිහිල්ලා සංශෝධන 72ක් නිර්දේශ කර ගත්තා.  ඒ සංශෝධනත් කර ගත්තේ නැතිනම් මහ බැංකුව නූල කැඩුණු සරුංගලයක් වෙන්න තිබුණා.  හැමෝම මහ උජාරුවට කතා කරන ස්වාධීනත්වය ලබා දුන්නාම ඒ අය මොකද කලේ? ලංකාවේ කිසිම ආයතනයක නොකළ ආකාරයකට ලක්ෂ ගණනින් වැටුප් වැඩි කර ගත්තා.
+🟩
+
+MP Udaya Gammanpila challenged Central Bank Governor Weerasinghe to come to debate if possible. Mr. Gammanpila made this challenge as the Petroleum Products (Provisions) in Parliament today (provisions).
+
+"The government last year had to do that the Central Bank should be independent. But the majority of the opposition was amended to the judgment.72 was recommended. What if the central bank did not make a nome, what did they do in a manner that was given to the hero?
+
+While the Central Bank of Sri Lanka continued to increase the salaries of several hundred thousand, I was informed the country on the 6th.According to the Central Bank report, the net loss in the Central Bank of Sri Lanka is Rs. 114 billion.The net loss in 2022 was 374 billion.The central bank increases the biggest wage increase in the history of Sri Lanka.
 
 ...
 
 [Data](articles/e5147b8f.json)
+
+[Extended Data](ext_articles/e5147b8f.ext.json)
 
 ---
 

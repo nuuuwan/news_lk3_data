@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 00:33:47**
+As of **2024-05-09 00:49:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,804 (100.0%) of 22,805 articles have been extended.
+22,805 (100.0%) of 22,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,23 +78,35 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 
 ---
 
-### லக்னோவை பந்தாடி 10 ஓவர்களுக்குள் 10 விக்கெட்களால் வென்றது சன்ரைசர்ஸ் ஹைதராபாத்
+### Sunrisers Hyderabad won by 10 wickets in 10 overs
 
 *2024-05-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183015) · `ta`
 
-ஹைதராபாத் ரஜிவ் காந்தி விளையாட்டரங்கில் புதன்கிழமை (08) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 57ஆவது போட்டியில் லக்னோவ் சுப்பர் ஜயன்ட்ஸ் பந்துவீச்சாளர்களை துவம்சம் செய்த சன்ரைசர்ஸ் ஹைதராபாத் 10 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+Sunrisers Hyderabad won by 10 wickets in 10 overs, their first win by this margin in the IPL. They reached the target in 45 minutes, with Abhishek Sharma and Travis Head's 148 runs, 16 wickets, and 14 sixes. Lucknow Super Giants scored 165 runs in 20 overs, with Nicholas Pooran and Aush Patoni's 99 runs off 58 balls. Bhuvneshwar Kumar took 2 wickets for 12 runs, and Vijayakanth Vyaskant made his IPL debut for Sunrisers Hyderabad, conceding 27 runs.
 
-166 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய சன்ரைசர்ஸ் ஹைதராபாத் 9.4 ஓவர்களில் விக்கெட் இழப்பின்றி 167 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+🟩
 
-இந்த வருட இண்டியன் பிறீமியர் லீக் போட்டியில் அணி ஒன்று 10 விக்கெட்களால் வெற்றிபெற்றது இதுவே முதல் தடவையாகும். அத்துடன் 10 ஓவர்களுக்குள் 45 நிமிடங்களில் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றி இலக்கை அடைந்ததும் குறிப்பிடத்தக்க அம்சமாகும்.
+Sunrisers Hyderabad won by 10 wickets in the 57th match of the 17th Indian Premier League chapter held at the Rajiv Gandhi Stadium in Hyderabad on Wednesday (08).
 
-அபிஷேக் ஷர்மா, ட்ரவிஸ் ஹெட் ஆகிய இருவரும் ஆரம்பத்திலிருந்தே அதிரடியாக ஓட்டங்களைக் குவித்து அணியின் வெற்றியை இலகுவாக்கினர்.
+Sunrisers Hyderabad won the toss and elected to bat.
 
-ட்ரவிஸ் ஹெட் 30 பந்துகளை எதிர்கொண்டு 8 பவுண்டறிகள், 8 சிக்ஸ்கள் உட்பட 89 ஓட்டங்களையும் அபிஷேக் 28 பந்துகளில் 8 பவுண்டறிகள், 6 சிக்ஸ்கள் உட்பட 75 ஓட்டங்களையும் பெற்று ஆட்டம் இழக்காதிருந்தனர்.
+This is the first time a team won by 10 wickets in this year's Indian Premier League. Significantly, Sunrisers Hyderabad reached the target in 45 minutes in 10 overs.
+
+Abhishek Sharma and Travis Head have made a brilliant run from the beginning and made the team a success.
+
+Travis Head faced 30 balls and did not lose 89 runs, including 8 pounds, 8 sixes, and Abhishek scored 75 off 28 balls, including 8 pounds and 6 sixes.
+
+The total number of Sunrisers Hyderabad was 148 runs, 16 pounds and 14 sixes.
+
+Lucknow Super Giants, who decided to bat first in the upting match, scored 165 runs for the loss of 4 wickets in 20 overs.
+
+The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped Lucknov Super Giants gain an honorable total number.
 
 ...
 
 [Data](articles/02091493.json)
+
+[Extended Data](ext_articles/02091493.ext.json)
 
 ---
 

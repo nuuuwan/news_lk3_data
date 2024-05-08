@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 01:33:31**
+As of **2024-05-09 01:51:58**
 
 ## Newspaper Stats
 
@@ -84,7 +84,7 @@ He highlighted the pivotal role of dedicated government officials at the grassro
 
 The President made these remarks during his address at the ceremony held at the Temple Trees, where a total of 2,100 new Grama Niladhari officers were handed over their letters of appointment.
 
-Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, 2100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
+Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, the 2,100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
 
 ...
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 09:51:58**
+As of **2024-05-08 10:03:17**
 
 ## Newspaper Stats
 
-*Scraped **22,654** Articles*
+*Scraped **22,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,113 @@ dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,296
-dailyftlk | 1,321
-adalk | 1,907
-tamilmirrorlk | 2,641
+dailyftlk | 1,322
+adalk | 1,908
+tamilmirrorlk | 2,645
 adaderanalk | 2,656
 virakesarilk | 3,386
-dailymirrorlk | 3,555
+dailymirrorlk | 3,557
 adaderanasinhalalk | 3,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,654 (100.0%) of 22,654 articles have been extended.
+22,654 (100.0%) of 22,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Lalkantha’s remark triggers showdown in Parliament
+
+*2024-05-08 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lalkanthas-remark-triggers-showdown-in-Parliament/108-282144) · `en`
+
+Colombo, May 8 (Daily Mirror) - The remark made by National People's Power (NPP) strongman K. D. Lalkantha at the recent May Day rally that a future NPP government will decentralize judicial powers to its cadres at village level, triggered a flare up in Parliament with both the ruling party and Samagi Jana Balawegaya (SJB) launching a verbal attack on MP Harini Amarasuriya.
+
+The flare up occurred when State Minister Shehan Semasinghe said Lalkantha had pledged to vest judicial power with his party cadres at the village level.
+
+An audio clip which comprises Lalkantha’s speech was played by SJB MP Harshana Rajakaruna.
+
+Ms. Amarasuriya said Lalkantha never mentioned that judicial powers will be devolved to NPP cadres in the village level. “Mr. Lalkantha only ensured access to justice to all people,” she said.
+
+...
+
+[Data](articles/d10ff073.json)
+
+---
+
+### Shavendra advises Sri Lankan veterans to avoid mercenary service abroad
+
+*2024-05-08 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-advises-Sri-Lankan-veterans-to-avoid-mercenary-service-abroad/108-282143) · `en`
+
+Colombo, May 8 (Daily Mirror) - In light of emerging reports detailing the involvement of Sri Lankan veterans in foreign mercenary forces, Chief of Defence Staff (CDS) General Shavendra Silva has issued a heartfelt plea to his fellow veterans, urging them to resist the allure of mercenary service.
+
+“These veterans, once the pride of our nation, have succumbed to the seductive promises of riches and adventure, forsaking the values that define us as warriors and patriots,” General Silva said in a statement yesterday.
+
+He also stated that as members of the Armed Forces of Sri Lanka, “we are bound by duty, honour, and a deep sense of loyalty to our motherland. We have stood valiantly in the face of adversity, sacrificing for the greater good of our nation. Yet, there are whispers of temptation, enticing some of our comrades to forsake their loyalty for the allure of easy money and transient glory.”
+
+...
+
+[Data](articles/0dffcf89.json)
+
+---
+
+### மொட்டு கட்சியின்  முக்கியஸ்தர்கள் கொழும்புக்கு அழைப்பு
+
+*2024-05-08 09:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-முக்கியஸ்தர்கள்-கொழும்புக்கு-அழைப்பு/175-336938) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர்கள் மற்றும் கட்சியினர் இன்று (08) கொழும்புக்கு அழைக்கப்பட்டுள்ளனர்.
+
+அக்கட்சியின் தேர்தல் பிரசாரம் தொடர்பான விடயங்கள் குறித்து கலந்துரையாடுவதற்காக அவர்கள் அழைக்கப்பட்டுள்ளதாக கூறப்படுகின்றது.
+
+கட்சியின் ஸ்தாபகர் பசில் ராஜபக்ஷ தலைமையில் நெலும் மாவத்தையில் உள்ள கட்சி அலுவலகத்தில் இந்த சந்திப்பு இடம்பெறவுள்ளது.
+
+இதேவேளை, ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்றக் குழுவிற்கும், பசில் ராஜபக்ஷவுக்கும் இடையில் நேற்று கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+
+இதன்போது, இம்மாத இறுதியிலிருந்து கிராம மட்டத்தில் கட்சியின் தேர்தல் பிரசாரத்தை ஆரம்பிக்க தீர்மானிக்கப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/cc8a3ba5.json)
+
+---
+
+### லிட்ரோ நிறுவனத்தின் புதிய எரிவாயு முனையம்
+
+*2024-05-08 09:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்தின்-புதிய-எரிவாயு-முனையம்/175-336937) · `ta`
+
+கடுவளை - மாபிம பகுதியில் லிட்ரோ நிறுவனத்தின் புதிய எரிவாயு முனையமொன்று இன்று(08)  திறந்துவைக்கப்படவுள்ளது.
+
+இதன் ஊடாக தினமும் 60,000 எரிவாயு சிலிண்டர்களை சந்தைக்கு விநியோகிக்க முடியும் என அவர் கூறியுள்ளார்.
+
+கெரவலப்பிட்டிய எரிவாயு முனையத்தின் ஊடாக நாளாந்தம் ஒரு இலட்சம் சிலிண்டர்கள் சந்தைக்கு விநியோகிக்கப்படுகின்றன.
+
+எனினும், நாளாந்த தேவையைப் பூர்த்தி செய்வதற்கு கெரவலப்பிட்டிய முனையம் மாத்திரம் போதாது என்பதனால், புதிய முனையத்தை நிர்மாணிக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2d90d80f.json)
+
+---
+
+### வேலை நிறுத்தம் குறித்து இன்று தீர்மானம்
+
+*2024-05-08 09:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-நிறுத்தம்-குறித்து-இன்று-தீர்மானம்/175-336936) · `ta`
+
+இன்று (08) நடைபெறும் கலந்துரையாடலில் தமது பிரச்சினைகளுக்கு நிரந்தர தீர்வு கிடைக்காவிட்டால், தற்போதைய தொழிற்சங்க நடவடிக்கைகளை மேலும் தீவிரப்படுத்த வேண்டியுள்ளதாக பல்கலைக்கழக நிறைவேற்று அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+சம்பள பிரச்சினை காரணமாக கடந்த 03 ஆம் திகதி முதல் பல்கலைக்கழக நிறைவேற்று அதிகாரிகள் ஒன்றியம் தொழிற்சங்க நடவடிக்கையில் ஈடுபட்டு வருகின்றது.
+
+இன்றைய கலந்துரையாடலில் தமது சம்பள உயர்வு குறித்த அமைச்சரவை பத்திரம் தொடர்பில் கலந்துரையாடப்பட்டு அதில் தீர்வு வழங்கப்படும் என எதிர்ப்பார்க்கப்படுவதாக  சங்கத்தின் ஆலோசகர் சம்பத் உதயங்க தெரிவித்துள்ளார்.
+
+அத்துடன், வேலை நிறுத்தத்துடன் இணைந்து இன்று ஆர்ப்பாட்டம் ஒன்றும் நடத்தப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/eb9c1a1b.json)
+
+---
 
 ### Athapaththu’s splendid hundred powers Sri Lanka to title win
 
@@ -634,6 +724,22 @@ The scholarship will be given in two phases and will be given to 5000 poor stude
 
 ---
 
+### ஜனாதிபதி நிதியத்தினால் புதிய புலமைப் பரிசில்
+
+*2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலமைப்-பரிசில்/175-336931) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+
+அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+
+நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும், ஏனைய மாணவர்களுக்கான 822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+
+...
+
+[Data](articles/cec91deb.json)
+
+---
+
 ### Govt. visa processing handover to private firm illegal claims  G.L
 
 *2024-05-08 00:40:36* · [`dailyftlk`](https://www.ft.lk/business/Govt-visa-processing-handover-to-private-firm-illegal-claims-G-L/34-761539) · `en`
@@ -1153,6 +1259,22 @@ The funeral will be held at the Kalutara Provincial Cemetery on Thursday 9th.. R
 [Data](articles/f9c9fc3e.json)
 
 [Extended Data](ext_articles/f9c9fc3e.ext.json)
+
+---
+
+### Suicide, again?
+
+*2024-05-07 23:06:32* · [`dailyftlk`](https://www.ft.lk/columns/Suicide-again/4-761509) · `en`
+
+​“On every side are seen the burial ground of dreams.” Faiz Ahmed Faiz (The Subject of Poetry)
+
+President Ranil Wickremesinghe expects Lankan rupee to appreciate further and reach 280 per dollar by June. Namal Karunaratna, a leading light of the NPP/JVP, states that rupee will start sliding soon, reaching 400-500 per dollar. He dismisses the rupee’s strong performance as a fluke caused by a recent spate of dollar loans.
+
+Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom in tourism and influx of foreign remittances. As some independent analysts have pointed out, the value of the rupee could fall in the second half of the year if vehicle imports are allowed. But the rupee would plunge to the depths of Karunaratne’s expectations only if the Wickremesinghe administration makes a Gotabaya-style error.
+
+...
+
+[Data](articles/22c706ea.json)
 
 ---
 
@@ -1758,6 +1880,22 @@ When I was in New York in 2004 I questioned the 'Kobio' organization for the fir
 
 ---
 
+### ලුණු සංස්ථාව එක්කෝටියක මුදලක් චක්‍ර ලේඛවලට පටහැනිව ගෙවලා
+
+*2024-05-07 19:40:59* · [`adalk`](https://www.ada.lk/breaking_news/ලුණු-සංස්ථාව-එක්කෝටියක-මුදලක්-චක්‍ර-ලේඛවලට-පටහැනිව-ගෙවලා/11-409488) · `si`
+
+සීමාසහිත ජාතික ලුණු සංස්ථාව විසින් චක්රාලේඛන විධි විධානවලට පටහැණිව එම සමාගමේ සේවය කරන නිලධාරීන් 111දෙනෙකු සඳහා 2023 ජනවාරි 01වන දින සිට එම වර්ෂයේ ජූලි මස 30දක්වා කාලසීමාව තුළදී දෛනිකව අර්බුද දීමනාව වශයෙන් රුපියල් එක්කෝටි තිස්දෙදහස් අනූඅටක මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය මගින් මැයි 04වන දින නිකුත් කරන ලද විගණන වාර්තාවක සඳහන් වේ.
+
+ලුණු සාමාගම විසින් 2022 වර්ෂයේ ජූලි මස 01වන දින සිට 2022දෙසැම්බර් 31 දක්වා කාලසීමාව තුළ සියලුම නිලධාරීන් සඳහා රුපියල් පන්දාහක දීමනාවක් ගෙවා තිබුණි.
+
+එම දීමනාව නවතා ඉකුත් වර්ෂයේ මුළු මාස 06 දක්වා නිලධාරීන්ගේ තනතුරු මත රුපියල් පන්සියය සහ රුපියල් අටසියපනහ අතර දෛනිකව අර්බුද දීමනාවක් වශයෙන් මෙකී මුදල් ගෙවා ඇති බවද විගණනය මගින් අනාවරණය කර ඇත. චක්රනලේඛ ප්රවකාරව දීමනා ගෙවීම් කටයුතු  කළ යුතු බවද විගණනය මගින් නිර්දේශ කර ඇත.
+
+◼️
+
+[Data](articles/cb072cdd.json)
+
+---
+
 ### The Paradle Law Suspension Act passed
 
 *2024-05-07 19:33:06* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-පනත-සම්මතයි/11-409487) · `si`
@@ -2075,171 +2213,5 @@ The tracts present to the Cabinet today have been referred to $ 200 million inve
 [Data](articles/8a91dab9.json)
 
 [Extended Data](ext_articles/8a91dab9.ext.json)
-
----
-
-### SriLankan responds to Belgian Air incident
-
-*2024-05-07 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196379) · `si`
-
-SriLankan Airlines responds to a tax incident, confirming an investigation is underway.
-
-🟩
-
-The SriLankan Airlines has responded in the media that SriLankan Airlines had taken place on a plane that had been deployed on a tax on tax.
-
-It states that a case has occurred and an investigation will be conducted.
-
-◼️
-
-[Data](articles/75cf5379.json)
-
-[Extended Data](ext_articles/75cf5379.ext.json)
-
----
-
-### Madash's player arrested
-
-*2024-05-07 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196378) · `si`
-
-A drug dealer, arrested by STF on Kerawalapitiya Expressway, was found with 10 grams of ice narcotics and 650 mg of car. Another 1 kg of ice drugs was found during interrogation, totaling 40 million uncolored. Handed over to Police Narcotics Bureau.
-
-🟩
-
-A drug dealer has been arrested by a STF officer in the Kerawalapitiya Expressway and was arrested.
-
-The suspect is also in danger when he is trying to inspect a car on information received by the STF.
-
-However, the suspect is not able to drive the car due to an error in the car.
-
-It is reported that he has been arrested by STF personnel in attempting to fly from the car.
-
-The arrested persons have been identified as a powerful drug dealer who was deployed in the Macadash's criminal network of Makadhura, Ven
-
-The suspect was taken into custody by 10 grams of ice narcotics and 650 milligrams of the car.
-
-The interrogation from the suspect was arrested by another 1 kg of ice drugs.
-
-It is reported that the ice drugs found in their possession were about 40 million uncolors.
-
-The suspects have been handed over to the Police Narcotics Bureau for further investigations.
-
-◼️
-
-[Data](articles/0f7d756a.json)
-
-[Extended Data](ext_articles/0f7d756a.ext.json)
-
----
-
-### Sri Lanka parliament passes law to delay foreclosed assets
-
-*2024-05-07 18:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-law-to-delay-foreclosed-assets-161880/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s parliament voted to pass an amendment that will delay banks from auctioning collateral of bad loans by Board decison.
-
-The changes to the Recovery of Loans by Banks (Special Provisions) (Amendment) Bill seeks to delay so-called ‘parate execution’ till December 2024.
-
-Sri Lanka has seen banks auctioning assets after a currency crisis killed domestic demand. (Colombo/May7/2024)
-
-◼️
-
-[Data](articles/c3d9751a.json)
-
-[Extended Data](ext_articles/c3d9751a.ext.json)
-
----
-
-### Reporting On UNHRC Matters: An Open Letter To Sinha Ratnatunga Editor Of The Sunday Times
-
-*2024-05-07 18:30:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reporting-on-unhrc-matters-an-open-letter-to-sinha-ratnatunga-editor-of-the-sunday-times/) · `en`
-
-The 57th session of the Human Rights Council is to be held from 9 September 2024 to 9 October 2024. Under the provisions of resolution 51/1 which was passed against Sri Lanka in October 2022, the UN Human Rights Commissioner is due to present a written update on the situation of human rights in Sri Lanka and a comprehensive report ‘that includes further options for advancing accountability’ and both are to be discussed in an interactive dialogue at the 57th session of the UNHRC. The 57th session will coincide with the Presidential election which under the provisions of Article 31(3) of Sri Lanka’s Constitution, has to be held between the 17th September and 17th October 2024. Hence we are faced with a situation where the President and the government in power in Sri Lanka when the 57th session of the UNHRC begins, may no longer be in power by the time the session ends.
-
-...
-
-[Data](articles/ad4cbe79.json)
-
-[Extended Data](ext_articles/ad4cbe79.ext.json)
-
----
-
-### Amal Sponsor of Sri Lankan team at World Cup
-
-*2024-05-07 18:28:02* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-කුසලානයේදී-ශ්‍රී-ලංකා-කණ්ඩායමේ-ප්‍රධාන-අනුග්‍රාහකයා-අමූල්/11-409480) · `si`
-
-Amal Sponsor of Sri Lankan team at World Cup. Indian Amul Company sponsors Sri Lankan cricket team at 2324 Twenty20 World Cup, USA and West. Announced by Ceylon Cricket with Amul, previously sponsored in 2023 ODI World Cup in India. Event runs from June 1 to 29.
-
-🟩
-
-Indian Munal Company has joined the Sri Lankan cricket team at the Sri Lanka Cricket team at the 2324 Twenty20 World Cup, USA and West.
-
-The New Testament was announced by the Ceylon Cricket (7)) with the largest dairy manufacturer in India.
-
-The Amul preceded last year (2023), the Sri Lankan team sponsorship at the One ODI World Cup in India. Twentyi Twenty World Kudusha is going to be held from June 1 to 29.
-
-◼️
-
-[Data](articles/6d01d5bc.json)
-
-[Extended Data](ext_articles/6d01d5bc.ext.json)
-
----
-
-### Bill related suspension of Parate Law passed in parliament
-
-*2024-05-07 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99068/bill-related-suspension-of-parate-law-passed-in-parliament) · `en`
-
-The Recovery of Loans by Banks (Special Provisions) (Amendment) Bill, which was amended to facilitate legal provisions for the suspension of Parate Law until December 15, 2024, was passed in Parliament without amendments on Tuesday (07).
-
-◼️
-
-[Data](articles/e084a7c5.json)
-
-[Extended Data](ext_articles/e084a7c5.ext.json)
-
----
-
-### Fowzie's son arrested
-
-*2024-05-07 18:20:55* · [`adalk`](https://www.ada.lk/breaking_news/ෆවුසිගේ-පුතා-අත්අඩංගුවට/11-409479) · `si`
-
-Fowzie's son arrested for assaulting a man on Kollupitiya road. Released after MPs surrendered. Investigation led by Chief Inspector H L Yamithan.
-
-🟩
-
-Former Parliamentarian A H. Kollupitiya Police say Fowzie's son was arrested.
-
-He was accused of assaulting the person after a man was traveling on the road at the Road Kollupitiya road a few days ago.
-
-Accordingly, the son of MP Fowzie was released on police officers following the surrender of MPs to the police.
-
-Investigations will be investigated by the Chief Inspector of Kollupitiya Police OIC Chief Inspector H L Yamithan.
-
-◼️
-
-[Data](articles/fcceb38c.json)
-
-[Extended Data](ext_articles/fcceb38c.ext.json)
-
----
-
-### The bill is passed in Parliament
-
-*2024-05-07 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196377) · `si`
-
-The bill passed in Parliament, with amendments by Opposition Leader Sajith Premadasa defeated by 25 votes.
-
-🟩
-
-The Special Provisions for the Temporary Board of Loans for December 15
-
-Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, made the amendments, was defeated by a majority of 25 votes.
-
-◼️
-
-[Data](articles/9152188d.json)
-
-[Extended Data](ext_articles/9152188d.ext.json)
 
 ---

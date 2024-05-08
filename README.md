@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 11:52:20**
+As of **2024-05-08 12:03:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,682 (100.0%) of 22,692 articles have been extended.
+22,692 (100.0%) of 22,692 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,49 +46,77 @@ Defence Secretary, General (Rtd) Kamal Gunaratne emphasized that the operation w
 
 [Data](articles/f16975e5.json)
 
+[Extended Data](ext_articles/f16975e5.ext.json)
+
 ---
 
-### ඩයනා ගමගේගේ මන්ත්‍රිධුරය අහෝසියි
+### Diana Gamage's claim is abolished
 
 *2024-05-08 11:26:23* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේගේ-මන්ත්‍රිධුරය-අහෝසියි/11-409494) · `si`
 
-රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධූරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය රීට් ආඥාවක් අද (08) නිකුත් කළේය. ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනක් ද සිල්වා මහතා ඇතුළු විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ප්‍රකාශ කළේය.
+The Supreme Court, led by Judge Janaka de Silva, abolished the post of Minister Diyanayake Gamage.
+
+🟩
+
+The Supreme Court issued a waiver command to abolish the post of Minister Diyanayake Gamage.. The decision by Supreme Court Judge Janaka de Silva, the panel of judges.
 
 ◼️
 
 [Data](articles/4eba041b.json)
 
+[Extended Data](ext_articles/4eba041b.ext.json)
+
 ---
 
-### ඩයනාගේ මන්ත්‍රී ධූරය අහිමිවෙයි
+### Diana's seat losses
 
 *2024-05-08 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-මන්ත්‍රී-ධූරය-අහිමිවෙයි/11-409492) · `si`
 
-සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (08) රීට් ආඥාවක් නිකුත් කර තිබේ.
+The Supreme Court ruled Diana Gamage, a British citizen, ineligible to sit in Sri Lanka's Parliament.
 
-ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට  නීත්‍යානුකූල සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
+
+The Supreme Court has issued a Reti command today that the Hon.
+
+Since Ms. Diana Gamage is a British citizenship, this petition had been submitted to give a ruling that she was not legally eligible to sit in the Parliament of Sri Lanka.
 
 ◼️
 
 [Data](articles/f70f1139.json)
 
+[Extended Data](ext_articles/f70f1139.ext.json)
+
 ---
 
-### දයාසිරිගේ දැනුම්දිමට ජනපතිගෙන් කඩිනම් පිළිතුරු
+### President responds to Dayasiri's awareness
 
 *2024-05-08 11:15:24* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගේ-දැනුම්දිමට-ජනපතිගෙන්-කඩිනම්-පිළිතුරු/11-409491) · `si`
 
-රුසියාවේ සහ යුක්රේනයේ යුද කඳවුරු වල රැකියා  දෙන බව පවසා එම රටවලට රැගෙන ගිය හිටපු හමුදා භටයන් හයසීයකට අධික පිරිසක් බලහත්කාරයෙන් යුද්ධයට යොමු කර ඇති බව  කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී දයාසිරි ජයසේකර මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඊයේ (07දා) දැනුම් දී තිබේ.
+MP Dayasiri Jayasekara revealed to President Ranil Wickremesinghe that over six former troops are employed in Russia and Ukraine. The President directed the Defense Secretary to find Sri Lankans with the Russian government. Dayasiri and Gamini Walaboda met at the Defense Ministry to discuss the issue. It's reported that 15 Sri Lankans were identified, some of whom died in drones during the war, and were later paid. The government asked police for information on any captured individuals.
 
-මන්ත්‍රීවරයා ඉදිරිපත් කළ කරුණු සම්බන්ධයෙන් සලකා බැලූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ සම්බන්ධයෙන් රුසියානු රජය සමඟ සාකච්ඡා කර ශ්‍රී ලාංකික පිරිස ගෙන්වා ගැනීමට කටයුතු කරන ලෙස ආරක්ෂක ලේකම්වරයාට දැනුම් දී ඇත.
+🟩
 
-අදාල  ශ්‍රමික ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා කොළඹ ආරක්ෂක අමාත්‍යංශයේදී ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පැවැති රැස්වීමකට  දයාසිරි ජයසේකර සහ ගාමිණී වලේබොඩ  යන මන්ත්‍රීවරුන් ඊයේ (07දා) කැඳවා තිබිණි.
+Kurunegala District MP Dayasiri Jayasekara has informed President Ranil Wickremesinghe yesterday (07) that there were more than six former troops carrying employment in Russia and Ukraine.
 
-රුසියාවේ සහ යුක්‍රේනයේ කඳවුරු වල සේවය කිරීමට බව පවසමින් පුවත්පත් වල දැන්වීම් පළ කර රුපියල් ලක්ෂ දහ අට බැගින් ලබාගෙන ඇති බවත්, මෙම ශ්‍රී ලාංකික පිරිස එම රටවලට යවා ඇති බවත දයාසිරි ජයසේකර මහතා සඳහන් කළේය.
+After considering the MP's facts, President Ranil Wickremesinghe has informed the Defense Secretary to obtain Sri Lankans with the Russian government.
 
-...
+Dayasiri Jayasekara and Gamini Walaboda were summoned at a meeting held at the Defense Ministry in Colombo to discuss the matter of the problem.
+
+Daysiri Jayasekara stated that the Sri Lankans have been sent to the country, claiming that they had to serve in the camps of Russia and Ukraine.
+
+It has been reported that after they had gone to the war, they have been found that fifteen persons have been identified.
+
+Mr. Jayasekara said that other people have died in drones during the war.
+
+He said that after the time, they had been given a whip of Rs.
+
+The government also requests the police headquarters if there are persons who have been caught.
+
+◼️
 
 [Data](articles/acfb8131.json)
+
+[Extended Data](ext_articles/acfb8131.ext.json)
 
 ---
 
@@ -260,23 +288,29 @@ Last year, Sri Lanka had repaid US $ 2.5 billion loan to parties, including mult
 
 ---
 
-### අභිරහස් අයුරින් මිය ගිය එක්දරු මවකගේ සිරුරක් සෝයාගනී
+### Sampath of a mother who died mysteriously
 
 *2024-05-08 10:38:04* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-අයුරින්-මිය-ගිය-එක්දරු-මවකගේ-සිරුරක්-සෝයාගනී/11-409490) · `si`
 
-ඌරගස්මංහන්දිය  කළුවලගොඩ,පදේශයේ නිවසේ කාමරය තුල ඇද මත තිබියදී ඉතා අභිරහස් අයුරින් මිය ගිය එක්දරු මවකගේ සිරුරක් ඊයේ (07)  රාත්‍රිෙය්දී  සොයා ගත් බව ඌරගස්මංහන්දිය පොලීසිය කියයි.
+A 50-year-old mother, Uragasmanhandiya Kaluwaghaduwa, died mysteriously in her home, with police investigating a dispute between her son and husband.
 
-මෙසේ සොයා ගනු ලැබූවේ ඌරගස්මංහන්දිය  කළුවලගොඩ ගාම සේවා වසමේ අංක 288/A,  ලිපිනයේ පදිංචි මුදලිගේ දෝන දිල්කා නිරෝෂණී ජයවීර  නමැති පනස් හැවිරිදි මවකගේ බවද පොලීසිය කියයි.
+🟩
 
-සොයා ගැනුනු මේ කානතා මළ සිරුරේ  ඇති ලක්ෂණ අනුව  මෙම කාන්තාව දැනට දින තුනකට පමණ ඉහතදී මියගොස් ඇති බවට නිරීක්ෂණය වන බවද පොලීසිය කියයි.
+Uragasmanhandiya Kaluwewa, the body of a mother of a mother who died in a mysterious man was found mysterious in the house of the house in the house of the house.
 
-පසුගිය 03 වන දින මියගොස් සිටින තැනැත්තියගේ පුතා සහ ස්වාමි පුරුෂයා  යන දෙදෙනා අතර ආරවුලක් ඇතිවී  මොවුන් දෙදෙනා නිවසින් පිටව ගොස් ඇති බවට දැනගැනීමට තිබෙන බවද පොලීසිය කියයි.
+According to the police, Mudalige Donu Niroshana Jayaweera, a 50-year-old mother of the Uragasmanhandiya Kaluwaghaduwa Vidyalaya, the police said.
 
-මේ  සම්බන්ධ වැඩිදුර විමර්ශන කටයුතු  ඌරගස්මංහන්දිය පොලිස් ස්ථානය  සිදු කරනු ලබයි.
+The woman is observed that this woman has died about three days following the characteristics of the clai body.
+
+The police said that they had a dispute between the son of the deceased and the husband of the victim.
+
+Uragasmanhandiya Police Station is conducting further investigations.
 
 ◼️
 
 [Data](articles/1fe2d940.json)
+
+[Extended Data](ext_articles/1fe2d940.ext.json)
 
 ---
 
@@ -576,6 +610,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.25 perc
 
 [Data](articles/3ec1b3e7.json)
 
+[Extended Data](ext_articles/3ec1b3e7.ext.json)
+
 ---
 
 ### The budget party leaders call to Colombo
@@ -733,6 +769,8 @@ Related Sri Lanka gross foreign reserves rise to 3.5 year high in April
 ...
 
 [Data](articles/82dd7863.json)
+
+[Extended Data](ext_articles/82dd7863.ext.json)
 
 ---
 
@@ -986,6 +1024,8 @@ The investment company Nativa will also facilitate market procurement related to
 
 [Data](articles/2ff801f3.json)
 
+[Extended Data](ext_articles/2ff801f3.ext.json)
+
 ---
 
 ### Increase in showers in the next few days
@@ -1078,6 +1118,8 @@ Sri Lanka’s private credit is still weak, allowing reserves to be collected an
 
 [Data](articles/9286a78c.json)
 
+[Extended Data](ext_articles/9286a78c.ext.json)
+
 ---
 
 ### Sri Lanka to overhaul visa issuance process
@@ -1119,6 +1161,8 @@ Wijerathne has functioned in the same role before, but this new appointment is u
 ...
 
 [Data](articles/3f07bc1f.json)
+
+[Extended Data](ext_articles/3f07bc1f.ext.json)
 
 ---
 

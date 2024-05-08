@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 23:18:31**
+As of **2024-05-08 23:33:51**
 
 ## Newspaper Stats
 
-*Scraped **22,797** Articles*
+*Scraped **22,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
 adalk | 1,929
-tamilmirrorlk | 2,663
+tamilmirrorlk | 2,664
 adaderanalk | 2,677
 virakesarilk | 3,391
 dailymirrorlk | 3,579
@@ -26,11 +26,25 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,797 (100.0%) of 22,797 articles have been extended.
+22,797 (100.0%) of 22,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### பொலிஸ் அதிகாரிகள் அதிரடி கைது
+
+*2024-05-08 22:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகள்-அதிரடி-கைது/175-336995) · `ta`
+
+கொட்டாவை பொலிஸ் நிலையத்தில் கடமையாற்றும் இரண்டு அதிகாரிகள் உட்பட மூவர் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் கைது செய்யப்பட்டுள்ளனர்.
+
+சுமார் 2 இலட்சம் ரூபாய் பணத்தை லஞ்சம் பெற்ற குற்றச்சாட்டின் கீழ் இவர்கள் கைது செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/d589fa82.json)
+
+---
 
 ### Person arrested in Katunayake with cigarettes
 
@@ -2225,23 +2239,5 @@ Bibile Divisional Secretary Kapila Bandara says that this is currently owned by 
 [Data](articles/53d281fa.json)
 
 [Extended Data](ext_articles/53d281fa.ext.json)
-
----
-
-### Diana Gamage's claim is abolished
-
-*2024-05-08 11:26:23* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේගේ-මන්ත්‍රිධුරය-අහෝසියි/11-409494) · `si`
-
-The Supreme Court, led by Judge Janaka de Silva, abolished the post of Minister Diyanayake Gamage.
-
-🟩
-
-The Supreme Court issued a waiver command to abolish the post of Minister Diyanayake Gamage.. The decision by Supreme Court Judge Janaka de Silva, the panel of judges.
-
-◼️
-
-[Data](articles/4eba041b.json)
-
-[Extended Data](ext_articles/4eba041b.ext.json)
 
 ---

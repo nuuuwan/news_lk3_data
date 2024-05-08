@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 15:03:24**
+As of **2024-05-08 15:18:39**
 
 ## Newspaper Stats
 
-*Scraped **22,724** Articles*
+*Scraped **22,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,78 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,918
 tamilmirrorlk | 2,659
-adaderanalk | 2,665
+adaderanalk | 2,666
 virakesarilk | 3,388
 dailymirrorlk | 3,567
-adaderanasinhalalk | 3,637
+adaderanasinhalalk | 3,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,718 (100.0%) of 22,724 articles have been extended.
+22,724 (100.0%) of 22,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### தடுப்பூசிகளை திரும்பப் பெறுகிறது அஸ்ராசெனக்கா
+### X-Press Pearl disaster: Judge recuses himself from considering appeals
+
+*2024-05-08 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99082/x-press-pearl-disaster-judge-recuses-himself-from-considering-appeals) · `en`
+
+Supreme Court Judge S. Thurairaja has recused himself from the judge bench considering the appeals petitions filed by the directors of the local agent of the ‘X-Press Pearl’ ship which caught fire in the seas off Colombo Harbour and resulted in the country’s worst maritime disaster.
+
+The relevant petitions have been filed seeking the suspending of hearing of a criminal case before the Colombo High Court in this regard.
+
+Seven petitions filed by the directors of the Sea Consortium Lanka (Pvt) Ltd., the Sri Lankan agent of the ‘X-Press Pearl’ ship operator were taken up on Tuesday (07) before the three-member Supreme Court judge bench consisting of Justices S. Thurairaja, Janak De Silva and Priyantha Fernando, Ada Derana reported said.
+
+At the time, the chair of the three-member judge panel, Justice S. Thurairaja informed the court that he was recusing him from hearing of the trial due to personal reasons.
+
+...
+
+[Data](articles/e3109fc0.json)
+
+---
+
+### මෛත්‍රී ඇතුළු පිරිසක් ගත් තීරණය ට එරෙහි වාරණය දීර්ඝ කෙරේ
+
+*2024-05-08 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196401) · `si`
+
+අමාත්‍යවරුන් වන මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ දැරූ තනතුරුවලින් ඉවත් කිරීම වළක්වාලමින් නිකුත් කළ වාරණ නියෝගය මේ මස 15 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+මෙම පැමිණිල්ල අද (08) කැඳවූ අවස්ථාවේදී ඊට අදාළ විරෝධතා ඉදිරිපත් කිරීමට අවසර දෙන ලෙස වගඋත්තරකාර පාර්ශ්වය ඉල්ලා සිටියේය.
+
+ඒ අනුවට අදාළ විරෝධතා තිබේ නම් ඒවා ගොනුකරන ලෙස නියෝග කළ අධිකරණය නඩුව නැවත ලබන 15 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+
+කිසිදු සාධාරණ පරීක්ෂණයකින් තොරව තමන් දැරූ තනතුරුවලින් ඉවත් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසක් ගනු ලැබූ තීරණය නීතිවිරෝධී බවට තීන්දු කරන ලෙස ඉල්ලා මෙම අමාත්‍යවරු පිරිස කොළඹ දිසා අධිකරණය හමුවේ නඩු පවරා තිබේ.
+
+◼️
+
+[Data](articles/f7503e4c.json)
+
+---
+
+### Azrazenaka is withdrawing vaccines
 
 *2024-05-08 14:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தடுப்பூசிகளை-திரும்பப்-பெறுகிறது-அஸ்ராசெனக்கா/50-336970) · `ta`
 
-பிரிட்டிஷ் மருந்து நிறுவனம் அஸ்ராசெனக்கா தடுப்பூசி ஏற்றுதலானது அரிதான பக்க விளைவுகளை ஏற்படுத்தும் என்று ஒப்புக்கொண்டதாக அறிவிக்கப்பட்ட சில நாட்களுக்குப் பின் அஸ்ட்ராசெனெக்கா அதன் COVID-19 தடுப்பூசியை உலகளாவிய ரீதியில் திரும்பப் பெறத் தொடங்கியுள்ளது. அஸ்ட்ராஜெனெகா மற்றும் ஒக்ஸ்போர்ட் பல்கலைக்கழகத்தால் உருவாக்கப்பட்ட இந்த தடுப்பூசி, கோவிஷீல்டாக இந்தியாவின் சீரம் இன்ஸ்டிடியூட் மூலம் தயாரிக்கப்பட்டது.
+Astrazeneca withdraws COVID-19 vaccine globally due to commercial reasons, citing abundance of renewed vaccines. The vaccine, developed by the University of Astrazeneca and Oxford, was produced by the Serum Institute of India as Govishield. Astrazeneca has voluntarily withdrawn its marketing recognition in the EU, and similar vaccines will be withdrawn in other countries.
 
-COVID-19 க்கான புதுப்பிக்கப்பட்ட தடுப்பூசிகளின் மிகுதியினால் வணிக காரணங்களுக்காக உலகளாவிய திரும்பப் பெறுதல் தொடங்கப்பட்டதாக தடுப்பூசி தயாரிப்பாளர் கூறியதாக The Telegraph  தெரிவித்துள்ளது.
+🟩
 
-குறித்த தடுப்பூசி இனிமேல் தயாரிக்கப்படப் போவதில்லை மற்றும் இனிமேல் அதனைப் பயன்படுத்த முடியாது என்பவற்றைக் காரணங்காட்டி நிறுவனம் தானாக முன்வந்து ஐரோப்பிய ஒன்றியத்தில் அதன் சந்தைப்படுத்தல் அங்கீகாரத்தை திரும்பப் பெற்றுக் கொண்டுள்ளது.
+British pharmaceutical company Asrazenaka's vaccine admitting that the Vaccination Acceptance of Rare Side Effects a few days later, Astrazenkeka has begun to withdraw its COVID-19 vaccine globally.. The vaccine, developed by the University of Astrajenka and Oxford, was produced by the Serum Institute of India as Govishield.
 
-தடுப்பூசியைப் பயன்படுத்தி வரும் பிற நாடுகளிலும் இதே போன்று தடுப்பூசிகள் திரும்பப் பெறப்படும் என்பதும் குறிப்பிடத்தக்கது.
+The Telegraph said the vaccine manufacturer had said that global withdrawal was launched for commercial reasons due to the abundance of renewed vaccines for COVID-19.
+
+The company has voluntarily withdrawn its marketing recognition in the EU, due to the fact that the vaccine is no longer prepared and can no longer be used.
+
+It is also worth noting that in other countries that use the vaccine, similar vaccines will be withdrawn.
 
 ◼️
 
 [Data](articles/bfdbe369.json)
+
+[Extended Data](ext_articles/bfdbe369.ext.json)
 
 ---
 
@@ -68,6 +110,8 @@ A group of individuals including former President Maithripala Sirisena and Actin
 
 [Data](articles/edac2057.json)
 
+[Extended Data](ext_articles/edac2057.ext.json)
+
 ---
 
 ### Ukraine says it foiled Russian plot to assassinate President Zelenskyy
@@ -84,23 +128,35 @@ It quoted the head of the State Security Service, Vasyl Maliuk, as saying the pl
 
 [Data](articles/0964d30b.json)
 
+[Extended Data](ext_articles/0964d30b.ext.json)
+
 ---
 
-### ’’உலகில் எந்த விமான நிறுவனமும் லாபம் ஈட்டவில்லை’’
+### No airline in the world is profitable
 
 *2024-05-08 14:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-எந்த-விமான-நிறுவனமும்-லாபம்-ஈட்டவில்லை/175-336969) · `ta`
 
-உலகில் எந்த ஒரு விமான நிறுவனமும் லாபம் ஈட்டவில்லை, இது அனைத்து விமான நிறுவனங்களுக்கும் இயல்பான ஒரு சூழ்நிலை என்று சிவில் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா இன்று தெரிவித்தார்.
+Civil Aviation Minister Nimal Siripala de Silva stated that no airline globally is profitable, highlighting the financial struggles of airlines like Air India, POAC, and Swiss Airlines. He mentioned the sale of Air India to Tata and the annual payments to Emirates, emphasizing Sri Lanka's challenges in maintaining airlines due to lack of funds. Despite recruiting 791 employees in 2023, SriLankan Airlines incurred a loss of Rs 609 billion.
 
-ஏர் இந்தியா, பிஓஏசி மற்றும் சுவிஸ் ஏர்லைன்ஸ் போன்ற பணக்கார நாடுகளில் உள்ள விமான நிறுவனங்கள் லாபம் ஈட்டவில்லை என்றும் சில விற்றுத் தீர்ந்துவிட்டதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
 
-SJB பாராளுமன்ற உறுப்பினர் ஹேஷா விதானகேவின் கேள்விக்கு பதிலளித்த அமைச்சர், நஷ்டம் காரணமாக எயார் இந்தியா டாட்டா நிறுவனத்திற்கு விற்றுத் தீர்ந்துவிட்டது என்றும், எமிரேட்ஸ் நிறுவனத்திற்கு ஒவ்வொரு ஆண்டும் 2 முதல் 3 பில்லியன் அமெரிக்க டொலர்கள் வரை அரசு வழங்கியதாகவும் கூறினார்.
+Civil Aviation Minister Nimal Siripala de Silva said today that no airline in the world has profit, which is a natural situation for all airlines.
 
-இலங்கை போன்ற சிறிய நாடு அந்த வகையில் விமான சேவையை பராமரிக்கும் நிலையில் இல்லை என்றார்.
+He told parliament that airlines in rich countries such as Air India, POAC and Swiss Airlines have not made profits and some have been sold.
+
+Responding to a query by SJB MP Hesha Vidhanage, the minister said that due to a loss, Air India had sold it to Tata and the government had paid $ 2 to 3 billion each year to Emirates.
+
+He said a small country like Sri Lanka was not in the process of maintaining airlines.
+
+“We don't have funds to buy a flight. Large capital cannot be invested. We take flights for leasing. We must join the group that can bring a big capital to pursue airlines to ensure the safety of 6,000 employees, ”he said.
+
+In 2023, 791 employees were recruited to SriLankan Airlines, which was the largest recruitment in the last 10 years, while it caused a loss of Rs 609 billion by the end of 2023.
 
 ...
 
 [Data](articles/13a44237.json)
+
+[Extended Data](ext_articles/13a44237.ext.json)
 
 ---
 
@@ -172,19 +228,25 @@ In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of 
 
 ---
 
-### ලංකාවේ ජනගහනය ලක්ෂ 220
+### Population of Sri Lanka
 
 *2024-05-08 13:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ජනගහනය-ලක්ෂ-220/11-409498) · `si`
 
-2023 ශ්‍රි ලංකාවේ මධ්‍ය වාර්ෂික ජනගහන ඇස්තමේන්තු අනුව ශ්‍රි ලංකාවේ සමස්ත ජනගහනය 22 037 000ක් බව අග්‍රාමාත්‍ය දිනෙෂ් ගුණවර්ධන මහතා පවසයි.
+Sri Lanka's population is 22,037,000, with 271,800 adults over 60. 73% of them lack a permanent monthly income, according to PM Dhamma Gunawardena.
 
-පාර්ලිමේන්තුවේදි අද ඔහු සඳහන් කළේ මෙම සංඛ්‍යාව අතරින් 271800ක් පමණ අවුරුදු 60 ඉක්ම වූ වැඩිහිටියන් බවයි.
+🟩
 
-එයින් සියයට 73ක්ම ස්ථිර මාසික ආදායමක් නොලබන අය බවද අග්‍රාමාත්‍යවරයා පාර්ලිමේන්තුවේදි පැවැසිය.
+The total population of Sri Lanka is 22 to $ 037 000 Sri Lanka, according to Prime Minister Prime Minister Dhamma Gunawardena, according to Prime Minister of Sri Lanka.
+
+Today, 271800 of this number is adults over 60 years.
+
+The Prime Minister was in Parliament that 73% of them do not have permanent monthly income.
 
 ◼️
 
 [Data](articles/10c755f0.json)
+
+[Extended Data](ext_articles/10c755f0.ext.json)
 
 ---
 
@@ -1554,23 +1616,33 @@ However, the other 12 people were not allergic to it, the spokesman said.
 
 ---
 
-### பன்றி இறைச்சி கறி சாப்பிட்ட கைதிகள் திடீர் மரணம்
+### Prisoners who ate pork curry sudden death
 
 *2024-05-08 08:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-கறி-சாப்பிட்ட-கைதிகள்-திடீர்-மரணம்/175-336933) · `ta`
 
-பன்றி இறைச்சி கறி சாப்பிட்ட மகசின் சிறைக் கைதிகளில் இருவர் உயிரிழந்துள்ளதுடன், மற்றுமொரு கைதி ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Two prisoners died after eating pork curry; another is critical. Arrested for ice drug, suspect had pork curry. 15 inmates ate it; 3 hospitalized, 2 dead, 1 critical. Not allergic; Borella police investigating.
 
-பொரளை மற்றும் தெஹிவளை பிரதேசங்களைச் சேர்ந்த இருவரே உயிரிழந்துள்ளதாகவும், ஐஸ் போதைப்பொருள் வைத்திருந்த குற்றத்திற்காக இவர்கள் கைது செய்யப்பட்டிருந்ததாகவும் பொரளை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-பொரளை பொலிஸாரினால் கைது செய்யப்பட்ட சந்தேகநபர் ஒருவர் மெகசின் சிறைச்சாலையில் தடுத்து வைக்கப்பட்ட நிலையில், குறித்த கைதியின் வீட்டிலிருந்து பன்றி இறைச்சி கறியுடன் சோறு பொதி கொண்டுவரப்பட்டுள்ளது.
+Two of the prison prisoners who ate pork curry have died and another inmate has been admitted to the Colombo National Hospital in critical condition.
 
-இதை 15 கைதிகளுடன் சேர்த்து சாப்பிட்டனர், அதன் பிறகு மூன்று கைதிகள் நோய்வாய்ப்பட்டு சிறைச்சாலை மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இவர்களில் இரண்டு கைதிகள் உயிரிழந்துள்ளதுடன் ஒருவர் ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+Borella police said that two persons from Borella and Dehiwala areas were killed and they were arrested for allegedly having an ice drug.
 
-எவ்வாறாயினும், பன்றி இறைச்சி கறியை உண்பதால் ஏற்பட்ட ஒவ்வாமையா என்பது தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+A suspect arrested by the Borella police was detained at the Megasin Prison, with a packet of pork curry from the prisoner's house.
 
-...
+It was ate with 15 inmates, and then three inmates were taken to the prison hospital. Two of them have died and one has been transferred to the Colombo National Hospital in critical condition.
+
+However, the Commissioner of Prisons and Media Spokesman Gamini B.. Dissanayake said.
+
+However, the other 12 people were not allergic to it, the spokesman said.
+
+However, preliminary investigations are being carried out by the Borella police and the autopsy of the victims took place yesterday in the police autopsy room.. Remble
+
+◼️
 
 [Data](articles/beb0d087.json)
+
+[Extended Data](ext_articles/beb0d087.ext.json)
 
 ---
 
@@ -2259,43 +2331,5 @@ We would also like to assure our valued customers, all other stakeholders and th
 [Data](articles/d906d0e0.json)
 
 [Extended Data](ext_articles/d906d0e0.ext.json)
-
----
-
-### Suresh de Mel appointed as Chairman of Citrus Leisure Group companies
-
-*2024-05-08 00:38:47* · [`dailyftlk`](https://www.ft.lk/business/Suresh-de-Mel-appointed-as-Chairman-of-Citrus-Leisure-Group-companies/34-761536) · `en`
-
-Business leader Suresh de Mel has been appointed as the Chairman of Citrus Leisure Group of Companies.
-
-The move follows the demise of former Chairman the tourism industry icon Prema Cooray recently.
-
-The respective companies are Citrus Leisure Plc, Hikkaduwa Beach Resort Plc, and Waskaduwa Beach Resort Plc.
-
-Suresh is an entrepreneur, investor, exporter and tourism service provider. He has served on the Board of Citrus Leisure PLC since 2010. Having completed University and an Engineering career in the United States of America spanning over a period of ten years,
-
-...
-
-[Data](articles/a9a07829.json)
-
-[Extended Data](ext_articles/a9a07829.ext.json)
-
----
-
-### People’s Bank and Hayleys Solar partner to accelerate Sri Lanka’s shift towards sustainable energy
-
-*2024-05-08 00:37:37* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-Hayleys-Solar-partner-to-accelerate-Sri-Lanka-s-shift-towards-sustainable-energy/34-761535) · `en`
-
-In an alignment geared towards promoting sustainable energy adoption, People’s Bank and Hayleys Solar, the renewable energy arm of Hayleys Fentons Ltd., recently signed a Memorandum of Understanding (MoU).
-
-It aims to catalyse the widespread adoption of solar energy by facilitating access to better financing options.
-
-People’s Bank will provide loans to customers seeking to invest in rooftop solar power for their homes or businesses. These loans will empower individuals and enterprises to embrace solar power, thereby reducing their carbon footprint and contributing to a cleaner environment.
-
-...
-
-[Data](articles/0aa599cf.json)
-
-[Extended Data](ext_articles/0aa599cf.ext.json)
 
 ---

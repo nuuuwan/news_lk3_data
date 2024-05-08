@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 14:03:23**
+As of **2024-05-08 14:18:07**
 
 ## Newspaper Stats
 
-*Scraped **22,714** Articles*
+*Scraped **22,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,917
-tamilmirrorlk | 2,654
+tamilmirrorlk | 2,656
 adaderanalk | 2,663
-virakesarilk | 3,387
-dailymirrorlk | 3,566
+virakesarilk | 3,388
+dailymirrorlk | 3,567
 adaderanasinhalalk | 3,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,712 (100.0%) of 22,714 articles have been extended.
+22,714 (100.0%) of 22,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### மஞ்சள் கோட்டில் மாணவனை பந்தாடிய ஓட்​டோ
+
+*2024-05-08 13:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஞ்சள்-கோட்டில்-மாணவனை-பந்தாடிய-ஓட்-டோ/76-336968) · `ta`
+
+அதிவேகமாக வந்த முச்சக்கர வண்டியொன்று (ஓட்டோ), பாதசாரி கடவையில் (மஞ்சள் கோட்டில்) வீதியை கடந்துச் சென்றுக்கொண்டிருந்த மாணவனை பந்தாடிய காட்சிகள் சிசிரிவி கமெராவில் பதிவாகியுள்ளது.
+
+வெலிமடையில் இருந்து ஹட்டன் நோக்கி  முச்சக்கர வண்டியுடன் மோதியதில் பலத்த காயங்களுக்குள்ளான மாணவன் கொட்டகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக கண்டி போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+ஹட்டன்- நுவரெலியா பிரதான வீதியில் கொட்டகலை தமிழ் மகா வித்தியாலயத்திற்கு முன்பாக உள்ள பாதசாரி கடவையில் செவ்வாய்க்கிழமை (07) நண்பகல் 12 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+தனியார் வகுப்பில் பங்கேற்க வந்த பாடசாலை மாணவன், வீதியை   கடக்க முற்பட்ட போது அதிவேகமாக வந்த முச்சக்கரவண்டி  பாடசாலை மாணவன் மோதியதில்  மாணவன் சில அடிகள் தூரம் தரையில் இழுத்துச் செல்லப்பட்டுள்ளார்.
+
+இதில் அந்த மாணவன் படு காயமடைந்துள்ளார் என திம்புள்ள- பத்தனை பொலிஸார் தெரிவித்தனர்.
+
+முச்சக்கரவண்டியின் சாரதியை சந்தேகத்தின் பேரில் கைது செய்த திம்புள்ள-பத்தனை பொலிஸார்  சந்தேக நபரை  ஹட்டன் நீதவான் முன்னிலையில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/bf4e5aa4.json)
+
+---
+
+### டயானாவின் இடத்துக்கு முஜிபுர் ரஹ்மான்
+
+*2024-05-08 13:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-இடத்துக்கு-முஜிபுர்-ரஹ்மான்/175-336966) · `ta`
+
+டயானா கமகே பதவி நீக்கப்பட்டதன் காரணமாக வெற்றிடமாகவுள்ள பாராளுமன்ற உறுப்பினர் பதவிக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மானின் பெயர் முன்மொழியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fed804b3.json)
+
+---
 
 ### Mujibur Rahman tipped to fill Diana Gamage’s MP seat
 
@@ -49,6 +83,8 @@ In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of 
 ◼️
 
 [Data](articles/c3557a88.json)
+
+[Extended Data](ext_articles/c3557a88.ext.json)
 
 ---
 
@@ -70,23 +106,31 @@ It is reported that Diyan Gamage is to be sent to the Election Commission for th
 
 ---
 
-### මගේ කාර්යභාරය දැන් අවසන් වෙමින් යන්නේ -ජනපති
+### My role is running out now - President
 
 *2024-05-08 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196399) · `si`
 
-මෙරට ආර්ථිකය ස්ථාවර කිරීමේ කාර්යභාරය දැන් අවසන් වෙමින් පවතින අතර දැන් අප ඊළඟ පියවර පිළිබඳ  අවධානය යොමුකළ යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe concludes his role in stabilizing Sri Lanka's economy, focusing on renewable energy, including wind and solar, and discusses potential energy sales to India.
 
-ඔහු මේ බව ප්‍රකාශ කළේ, කොළඹ පැවති ශ්‍රී ලංකා දේශගුණික සමුළුවට එක් වෙමිනි.
+🟩
 
-"ජනාධිපතිවරයා ලෙස මගේ කාර්යභාරය තමා ආර්ථිකය යළි ප්‍රතිස්ථාපනය කිරීම. තවත් ආකාරයකින් කියනවා නම් ආර්ථිකය ස්ථාවර කිරීම. එම කාර්යභාරය දැන් අවසන් වෙමින් පවතින්නේ. දැන් අප ඊළඟ පියවර ගැන අවධානය යොමුකළ යුතුයි. අපිට මේ ආර්ථික මොඩලය ඔස්සේ ඉදිරියට යා නොහැකියි. ශ්‍රී ලංකාවට නියත වශයෙන්ම පුනර්ජනනීය බලශක්තියේ විශාල හැකියාවන් පවතිනවා. ඉන් එක් අංශයක් තමයි සුළං බලශක්තිය. දැන් අපි සොයා බලනවා සුළං බලශක්ති ව්‍යාපෘති නිසා මන්නාරම දිස්ත්‍රික්කයේ පක්ෂීන්ට යම් බලපෑමක් සිදුවන්නේද යන්න.
+President Ranil Wickremesinghe says that the role of stabilization of the country's economy is concluding and now we should focus on the next step.
 
-අපිට විශ්වාසයි අපට එම පළාතේ වන ජීවින්ට තිබූ හානියක් සිදුනොකර එම බලශක්තිය උත්පාදනය කළ හැකි බව. හම්බන්තොට සූර්ය බලශක්තිය පිළිබ﻿ඳ උද්යෝගය ආරම්භ වූවා පමණයි.
+He was speaking at the Sri Lanka Climate Conference in Colombo.
 
-අප බොහෝ දුර යායුතු වුවත් මම ඉන්දීය අගමැති මෝදී සමග නිකුත් කළ ඉදිරි දැක්ම ප්‍රකාශයට අනුව ශ්‍රී ලංකාව ඉන්දියාවට බලශක්තිය විකිණීමද ඇතුළත්.
+"As the president as the President Restoring the economy. In other words, stabilizing the economy. That role is concluding now. Now we need to focus on the next step. We cannot go forward along this economic model. Sri Lanka is definitely renewable energy. One of these is the wind energy. Now we look at whether the birds of the Mannar district have an impact due to strong winds projects.
 
-...
+We are sure that we can create the same energy in that area, and that can generate the energy. The excitement of solar power in Hambantota originated only.
+
+Although we may get far away, Sri Lanka includes energy to sell energy to India on the Future to Indian Prime Minister Mogi.
+
+Now we have agreed to have the Grid connection. The first agreement with the invalidation completed before the days. "
+
+◼️
 
 [Data](articles/cb61de1d.json)
+
+[Extended Data](ext_articles/cb61de1d.ext.json)
 
 ---
 
@@ -270,6 +314,18 @@ Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses 
 
 ---
 
+### Diana unseated!
+
+*2024-05-08 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Diana-unseated/110-282172) · `en`
+
+The Supreme Court has ruled that State Minister Diana Gamage does not meet the legal qualifications necessary to hold a parliamentary seat. Counsel Hafeel Farisz with Oshala Herath who petitioned against Diana Gamage walk out of court following the judgement .Below are photographs of the before and after of the historic judgment in which the parliamentarian was unseated by a unanimous  verdict. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/9212cbc7.json)
+
+---
+
 ### Diana
 
 *2024-05-08 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Diana/110-282172) · `en`
@@ -279,6 +335,28 @@ Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses 
 [Data](articles/b7a5665f.json)
 
 [Extended Data](ext_articles/b7a5665f.ext.json)
+
+---
+
+### டிரம்புடன் ஹோட்டல் அறையில் நடந்தது என்ன? : ஒன்றையும் மறைக்காமல் சொன்ன ஆபாச பட நடிகை : 'போதும்' என நிறுத்திய நீதிபதி
+
+*2024-05-08 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182959) · `ta`
+
+அமெரிக்காவின் ஆபாச பட நடிகை ஸ்டோர்மி டெனியல்ஸ்  முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்புடன் தான் பாலியல் உறவில் ஈடுபட்டமை குறித்த விபரங்களை நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+
+முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் உண்மையை மறைப்பதற்காக ஸ்டோர்மி டெனியல்ஸிற்கு பணம் வழங்கியமை தொடர்பான வழக்கு விசாரணை தொடர்கின்ற நிலையில் ஆபாசபட நடிகை டொனால்ட் டிரம்புடன் 2006 இல் உறவுகொண்ட தருணங்களை விபரித்துள்ளார்.
+
+ஒரு பிரபலமான கோல்வ் போட்டியில் எப்படி இருவரும் சந்தித்தார்கள் டிரம்பின் லேக் தஹோ ஹோட்டல் அறைக்கு சென்றவேளை என்ன நடந்தது என்பதையும் அவர் விபரித்துள்ளார்.
+
+உள்ளாடைகளுடன்  காணப்பட்ட டிரம்ப் எப்படி தனக்காக போஸ்கொடுத்தார் என்பதையும் ஆபாசபட நடிகை நீதிமன்றில் விபரித்துள்ளார்.
+
+ஸ்டோமி டெனியல்ஸ் பலவிபரங்களை வெளிப்படயாக விபரித்ததால்  நீதிபதி அவற்றை நீக்கவேண்டிய நிலைக்கு தள்ளப்பட்டார்.
+
+டிரம்பின் ஹோட்டல் அறையில் என்ன காணப்பட்டது-டைல்கள் என்ன நிறத்தில் காணப்பட்டன எவ்வாறான மேசை காணப்பட்டது என்பதையும் அவர் விபரித்துள்ளார்.
+
+...
+
+[Data](articles/1321ba2c.json)
 
 ---
 
@@ -2227,91 +2305,5 @@ Meanwhile, consultation committees have been set up for local border border area
 [Data](articles/b6642cc0.json)
 
 [Extended Data](ext_articles/b6642cc0.ext.json)
-
----
-
-### There were kidney patients with 62, 549 kidney
-
-*2024-05-08 00:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/62-549-சிறுநீரக-நோயாளர்கள்-இருந்தனர்/175-336926) · `ta`
-
-In 2023, 62,549 kidney patients were reported, an increase from 67,706 in 2020. Health Minister Ramesh Pathena highlighted the annual rise in numbers. Rajitha Senaratne MP urged action to reduce the patient count.
-
-🟩
-
-Health Minister Ramesh Pathena said that in 2023 there were 62 549 kidney patients and the number of kidney patients is increasing annually.
-
-Rajitha Senaratne MP in Parliament on Tuesday (07) in response to a request made by the Minister of Health to take action to curb the number of kidney patients.
-
-The number of kidney patients has increased from 2015 to 2020.In 67 706 and in 2023, 62 549.
-
-He said the number of patients was increasing annually.
-
-◼️
-
-[Data](articles/a0a05581.json)
-
-[Extended Data](ext_articles/a0a05581.ext.json)
-
----
-
-### There is no election except the presidential election
-
-*2024-05-08 00:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலைத்-தவிர-வேறெந்த-தேர்தலும்-இல்லை/175-336925) · `ta`
-
-Prasanna Ranatunga announced no elections except the presidential this year, responding to MP Dayasiri Jayasekara's question. The government postponed local govt elections indefinitely due to funding issues, despite issuing a circular for development projects. Ranatunga defended the decision, stating it aligns with the constitution, which mandates only the presidential election this year.
-
-🟩
-
-Prasanna Ranatunga, the Prime Minister and Minister of the state, announced in the House that there would be no election other than the presidential election this year.
-
-Responding to a question raised by MP Dayasiri Jayasekara on Tuesday (07) in Parliament, the Prime Minister and Minister of State Prasanna Ranatunga made the announcement.
-
-Parliament was chaired by Deputy Speaker Ajith Rajapaksa.. The argument was between Dayasiri Jayasekara.
-
-Independent Opposition MP Dayasiri Jayasekara presented a comment, the local government election has been postponed indefinitely. The government says that it cannot pay for it. But the government issued a circular on 2023.12.29 under the Dissemination Fund.Has been asked to complete the development projects by July 31. The one -year job has been told to complete in seven months. It is clear that this is a program targeting the presidential election.
-
-...
-
-[Data](articles/70e040f6.json)
-
-[Extended Data](ext_articles/70e040f6.ext.json)
-
----
-
-### Measuring the pulse of pulses: Improving food security in Sri Lanka
-
-*2024-05-08 00:22:25* · [`dailyftlk`](https://www.ft.lk/opinion/Measuring-the-pulse-of-pulses-Improving-food-security-in-Sri-Lanka/14-761523) · `en`
-
-the Sri Lankans who are recovering from the economic crisis has been severely affected by their food coping strategies
-
-Pulses, which are high in the quality and quantity of protein, make up only 8% of the nation’s protein intake
-
-Sri Lanka depends significantly on pulse imports, yet there is a sizeable gap in the total pulse supply to meet the dietary needs of the population
-
-Given the current level of pulse production in Sri Lanka, the immediate goal should be to improve local production gradually while filling gaps in supply to achieve dietary requirements through imports
-
-Long-term strategies must focus on coordinated efforts involving policy support, research and extension, and market and demand considerations
-
-By Dr. Kiruthika Natarajan, Dr. Manoj Thibbotuwawa, and Dr. Suresh Babu
-
-...
-
-[Data](articles/8577918c.json)
-
-[Extended Data](ext_articles/8577918c.ext.json)
-
----
-
-### True value of Ceylon Cinnamon
-
-*2024-05-08 00:18:44* · [`dailyftlk`](https://www.ft.lk/columns/True-value-of-Ceylon-Cinnamon/4-761522) · `en`
-
-Everything needs to have a reason, framed in its purpose. Without reason and purpose, life and everything that is part of living decays into meaninglessness. Mark Twain brilliantly explained, “The two most important days in life are the day you were born and the day you find out why.” That truth applies as much to life as to business. There was a time – when it was thought private enterprise – businesses pursuing their own interests – would contribute to a better outcome for society as a whole. It was thought that individuals in pursuit of profit would inadvertently contribute to the economic well-being of society as a whole.
-
-...
-
-[Data](articles/09f58c28.json)
-
-[Extended Data](ext_articles/09f58c28.ext.json)
 
 ---

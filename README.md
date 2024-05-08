@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 21:18:36**
+As of **2024-05-08 21:33:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,780 (100.0%) of 22,782 articles have been extended.
+22,782 (100.0%) of 22,782 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,19 +196,25 @@ In a post on X, he said although it is customary for all public finance related 
 
 ---
 
-### ගම් බිත්තර නිෂ්පාදනයට ව්‍යවසායකයන් 10000ක්
+### 10000 entrepreneurs to produce village eggs
 
 *2024-05-08 19:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-බිත්තර-නිෂ්පාදනයට-ව්‍යවසායකයන්-10000ක්/11-409513) · `si`
 
-ව්‍යවසායකයන් 10,000ක් ගම් බිත්තර නිෂ්පාදනයට යොමු කර, එමගින් අඩු ආදායම්ලාභී පවුල් ලක්ෂ 12ක් සවිබල ගැන්වීමේ වැඩසටහනක් රජය ආරම්භ කර තිබේ.
+The government launched a program to create 10,000 entrepreneurs for village egg production, in partnership with the Department of Animal Production and Health and the Department of Samurdhi Development. The initiative was inaugurated at the Ministry of Sethsiripaya, Battaramulla.
 
-සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව සහ සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව එක්ව මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කරයි.
+🟩
 
-එම වැඩසටහනේ සමාරම්භක උත්සවය ඊයේ (08දා) බත්තරමුල්ල සෙත්සිරිපායේ පිහිටි එම අමාත්‍යාංශයේ දී පැවැත්විය.
+The government has launched a program to create 10,000 entrepreneurs to produce villages eg eggs.
+
+The project is being carried out with the Department of Animal Production and Health and the Department of Samurdhi Development.
+
+The inauguration ceremony of the program was held at the Ministry of Sethsiripaya, Battaramulla yesterday.
 
 ◼️
 
 [Data](articles/d568d671.json)
+
+[Extended Data](ext_articles/d568d671.ext.json)
 
 ---
 
@@ -236,23 +242,31 @@ Subsequently, two of them succumbed to the illness, while another remains in a c
 
 ---
 
-### මිනිස්සු කියන්නේ මැතිවරණ නොතියා තවත් වසරක් දෙකක් මෙහෙමම යමු කියල
+### People say that I do not leave elections two more years
 
 *2024-05-08 18:49:54* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්සු-කියන්නේ-මැතිවරණ-නොතියා-තවත්-වසරක්-දෙකක්-මෙහෙමම-යමු-කියල/11-409508) · `si`
 
-තමන් බලයට පැමිණිය හොත් තම පාක්ෂිකයන්ට යම් අධිකරණ බලයක් ලබාදෙන බවට ජනතා විමුක්ති පෙරමුණ කරනු ලබන ප්‍රකාශයෙන් තහවුරුවන්නේ කැලෑ නීතිය යලි ගම්වල ස්ථාපිත කිරීමට ඔවුන් සූදානමින් සිටින බව යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+"People say JVP won't leave elections in two years. JVP's presence in villages is seen as a threat. The Minister mentions the JVP's influence in villages. Despite opposition, the government has made progress. However, the opposition exploited a peaceful struggle, leading to tourism collapse. The government claims to have overcome development challenges and expects better outcomes in the next two years. Despite opposition, a presidential election is expected."
 
-අමාත්‍යවරයා පවස්න්නේ 88/89 යුගයේදී මිනිසුන් මරමින් ජ.වි.පේ ගම්වල කැලෑ නීතිය ක්‍රියාත්මක කළ අයුරු ජනතාවට හොඳට මතකයේ ඇති බවයි.
+🟩
+
+The statement that the JVP is being established in the villages that they will have any jurisdiction is pronounced in the villages, if they come to power if they come to power.
+
+The Minister ponds in the 88/89 period that the people have memory of the argument of the JVP villages in the JVP villages.
 
 අන්තවාදී කණ්ඩායම් වලට බලය ගියහොත් නැවත එවැනි භයංකාර යුගයක් බිහිවවු ඇති බැවින් ජනතා විමුක්ති පෙරමුණේ මෙම කතාව කිසි ලෙසකින්වත් විහිළුවට නොගත යුතු බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
 
-" අපි මිනිස්සු ගැන හිතල වැඩ කරන කොට අපේ විරුද්ධවාදීන් තමන්ගේ න්‍යාය පත්‍රය ක්‍රියාත්මක කළා. ඔවුන් විදේශවලට ගිහිල්ල කිව්වා ලංකාවට සල්ලි එවන්න එපා කියලා. සංචාරක ව්‍යාපාරය කඩා දමන්න කටයුතු කළා. විශේෂයෙන්ම සංචාරකයන් අරගල තියෙන, කෝලහාල තියෙන රටවලට එන්න කැමති නෑ.
+"When we worked about people, our opponents implemented their agenda. They went abroad to say not to send money to Sri Lanka. Stepped in the tourism. Travelers do not want to come to the struggles and the Kolaholes.
 
-ඊනියා අරගලය නිසා සංචාරක ව්‍යාපාරය සම්පූර්ණයෙන් කඩා වැටුණා. මිනිස්සු සාමකාමී අරගලයක් පටන් ගත්තා. නමුත් විපක්ෂය ඒකෙන් අයුතු ප්‍රයෝජන ගත්තා.
+Tourism collapsed due to the so-called struggle. People started a peaceful struggle. But the opposition exploited it.
+
+We were able to overcome the development of the development of the development of the development of the development of the development. The next two years will be better.
 
 ...
 
 [Data](articles/41c06120.json)
+
+[Extended Data](ext_articles/41c06120.ext.json)
 
 ---
 

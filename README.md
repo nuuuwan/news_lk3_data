@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 03:51:48**
+As of **2024-05-09 04:03:19**
 
 ## Newspaper Stats
 
-*Scraped **22,816** Articles*
+*Scraped **22,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,232
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
-tamilmirrorlk | 2,666
+tamilmirrorlk | 2,667
 adaderanalk | 2,678
 virakesarilk | 3,392
 dailymirrorlk | 3,582
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,816 (100.0%) of 22,816 articles have been extended.
+22,816 (100.0%) of 22,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -211,6 +211,22 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 [Data](articles/02091493.json)
 
 [Extended Data](ext_articles/02091493.ext.json)
+
+---
+
+### ’திறந்த, சுற்றுலா விசாவில் செல்லாதீர்கள்’
+
+*2024-05-09 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்த-சுற்றுலா-விசாவில்-செல்லாதீர்கள்/175-336998) · `ta`
+
+சட்டவிரோதமான முறையில் வெளிநாடுகளுக்கு சென்று நெருக்கடிக்கு உள்ளானால் இராஜதந்திர மட்டத்தில் ஒத்துழைப்பு வழங்க முடியாது எனத் தெரிவித்த   வெளிவிவகார அமைச்சர் அலி சப்ரி,திறந்த விசா,சுற்றுலா விசா ஊடாக வெளிநாடுகளுக்கு தொழில் வாய்ப்புகளுக்காக செல்வதை இளைஞர்கள் தவிர்த்துக் கொள்ள வேண்டும் எனவும் வலியுறுத்தினார்.
+
+பாராளுமனத்தில் புதன்கிழமை (08) இடம்பெற்ற இராஜதந்திர சிறப்புரிமை சட்டத்தின் மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வலியுறுத்தினார்.
+
+மியன்மார் மற்றும் ரஷ்யா ஆகிய நாடுகளுக்கு சென்றுள்ள இலங்கையர்கள் அங்கு பாரிய நெருக்கடிகளை எதிர்கொண்டுள்ளார்கள்.இவ்விடயம் தற்போதைய பிரதான பேசுபொருளாக காணப்படுகிறது.
+
+...
+
+[Data](articles/9c2ab395.json)
 
 ---
 
@@ -2217,25 +2233,5 @@ The body of the deceased has been placed in the mortuary of Elpitiya Hospital fo
 [Data](articles/0ddc51c7.json)
 
 [Extended Data](ext_articles/0ddc51c7.ext.json)
-
----
-
-### Australia raises minimum savings for student visa, warns on fake recruitment
-
-*2024-05-08 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Australia-raises-minimum-savings-for-student-visa-warns-on-fake-recruitment/107-282168) · `en`
-
-SYDNEY, May 8 (Reuters) - Australia said on Wednesday it would raise the amount of savings international students will need to get a visa and warned several colleges of fraudulent student recruitment practices, as part of efforts to rein in record migration.
-
-From Friday, international students must show proof of savings of at least A$29,710 ($19,576) to get their visa, the second increase in about seven months. It was raised to A$24,505 from A$21,041 in October.
-
-The moves follow a raft of actions in recent months to tighten the student visa rules as the lifting of COVID-19 restrictions in 2022 triggered a sudden influx of migrants, exacerbating pressure on an already tight rental market.
-
-English language requirements for student visas were increased in March and the government has been taking steps to end settings that allowed students to prolong their stay.
-
-...
-
-[Data](articles/31b6d5f6.json)
-
-[Extended Data](ext_articles/31b6d5f6.ext.json)
 
 ---

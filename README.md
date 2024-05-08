@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 14:51:55**
+As of **2024-05-08 15:03:24**
 
 ## Newspaper Stats
 
-*Scraped **22,718** Articles*
+*Scraped **22,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,917
-tamilmirrorlk | 2,656
-adaderanalk | 2,663
+adalk | 1,918
+tamilmirrorlk | 2,659
+adaderanalk | 2,665
 virakesarilk | 3,388
 dailymirrorlk | 3,567
 adaderanasinhalalk | 3,637
@@ -26,11 +26,83 @@ adaderanasinhalalk | 3,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,718 (100.0%) of 22,718 articles have been extended.
+22,718 (100.0%) of 22,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### தடுப்பூசிகளை திரும்பப் பெறுகிறது அஸ்ராசெனக்கா
+
+*2024-05-08 14:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தடுப்பூசிகளை-திரும்பப்-பெறுகிறது-அஸ்ராசெனக்கா/50-336970) · `ta`
+
+பிரிட்டிஷ் மருந்து நிறுவனம் அஸ்ராசெனக்கா தடுப்பூசி ஏற்றுதலானது அரிதான பக்க விளைவுகளை ஏற்படுத்தும் என்று ஒப்புக்கொண்டதாக அறிவிக்கப்பட்ட சில நாட்களுக்குப் பின் அஸ்ட்ராசெனெக்கா அதன் COVID-19 தடுப்பூசியை உலகளாவிய ரீதியில் திரும்பப் பெறத் தொடங்கியுள்ளது. அஸ்ட்ராஜெனெகா மற்றும் ஒக்ஸ்போர்ட் பல்கலைக்கழகத்தால் உருவாக்கப்பட்ட இந்த தடுப்பூசி, கோவிஷீல்டாக இந்தியாவின் சீரம் இன்ஸ்டிடியூட் மூலம் தயாரிக்கப்பட்டது.
+
+COVID-19 க்கான புதுப்பிக்கப்பட்ட தடுப்பூசிகளின் மிகுதியினால் வணிக காரணங்களுக்காக உலகளாவிய திரும்பப் பெறுதல் தொடங்கப்பட்டதாக தடுப்பூசி தயாரிப்பாளர் கூறியதாக The Telegraph  தெரிவித்துள்ளது.
+
+குறித்த தடுப்பூசி இனிமேல் தயாரிக்கப்படப் போவதில்லை மற்றும் இனிமேல் அதனைப் பயன்படுத்த முடியாது என்பவற்றைக் காரணங்காட்டி நிறுவனம் தானாக முன்வந்து ஐரோப்பிய ஒன்றியத்தில் அதன் சந்தைப்படுத்தல் அங்கீகாரத்தை திரும்பப் பெற்றுக் கொண்டுள்ளது.
+
+தடுப்பூசியைப் பயன்படுத்தி வரும் பிற நாடுகளிலும் இதே போன்று தடுப்பூசிகள் திரும்பப் பெறப்படும் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/bfdbe369.json)
+
+---
+
+### Injunction preventing removal of Amaraweera and others from SLFP posts extended
+
+*2024-05-08 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99081/injunction-preventing-removal-of-amaraweera-and-others-from-slfp-posts-extended) · `en`
+
+The court order issued preventing the Executive Committee of the Sri Lanka Freedom Party (SLFP) from removing party members Mahinda Amaraweera, Duminda Dissanayake, and Lasantha Alagiyawanna from their respective positions has been extended.
+
+Accordingly, the interim injunction will be in effect until 15 May on the orders of the Colombo District Court.
+
+The attorneys who appeared for the respondents before the court, requested for permission to file objections regarding the relevant plaint.
+
+Thus, the court, which allowed the respondents’ party to file objections related to the plaint, ordered the petition to be recalled on May 15, 2024.
+
+A group of individuals including former President Maithripala Sirisena and Acting General Secretary of SLFP Sarathi Dushmantha Mithrapala have been named as respondents of the relevant plaint, which have sought an order declaring that the decision taken by the party’s executive committee to expel them without any disciplinary investigation to be unlawful.
+
+...
+
+[Data](articles/edac2057.json)
+
+---
+
+### Ukraine says it foiled Russian plot to assassinate President Zelenskyy
+
+*2024-05-08 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99080/ukraine-says-it-foiled-russian-plot-to-assassinate-president-zelenskyy) · `en`
+
+(AP) — Ukrainian counterintelligence investigators have foiled a Russian plot to assassinate President Volodymyr Zelenskyy and other top military and political figures, Ukraine’s state security service said Tuesday.
+
+Two colonels in the State Guard of Ukraine, which protects top officials, were detained on suspicion of enacting the plan drawn up by Russia’s Federal Security Service, or FSB, a statement said. The colonels were recruited before Russia’s full-scale invasion of Ukraine in February 2022, according to the statement.
+
+It quoted the head of the State Security Service, Vasyl Maliuk, as saying the plot foresaw an attack before Russian President Vladimir Putin’s inauguration for a fifth term on Tuesday. Maliuk said that he personally oversaw the top-secret operation to track the plot.
+
+...
+
+[Data](articles/0964d30b.json)
+
+---
+
+### ’’உலகில் எந்த விமான நிறுவனமும் லாபம் ஈட்டவில்லை’’
+
+*2024-05-08 14:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-எந்த-விமான-நிறுவனமும்-லாபம்-ஈட்டவில்லை/175-336969) · `ta`
+
+உலகில் எந்த ஒரு விமான நிறுவனமும் லாபம் ஈட்டவில்லை, இது அனைத்து விமான நிறுவனங்களுக்கும் இயல்பான ஒரு சூழ்நிலை என்று சிவில் விமானப் போக்குவரத்து அமைச்சர் நிமல் சிறிபால டி சில்வா இன்று தெரிவித்தார்.
+
+ஏர் இந்தியா, பிஓஏசி மற்றும் சுவிஸ் ஏர்லைன்ஸ் போன்ற பணக்கார நாடுகளில் உள்ள விமான நிறுவனங்கள் லாபம் ஈட்டவில்லை என்றும் சில விற்றுத் தீர்ந்துவிட்டதாகவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+SJB பாராளுமன்ற உறுப்பினர் ஹேஷா விதானகேவின் கேள்விக்கு பதிலளித்த அமைச்சர், நஷ்டம் காரணமாக எயார் இந்தியா டாட்டா நிறுவனத்திற்கு விற்றுத் தீர்ந்துவிட்டது என்றும், எமிரேட்ஸ் நிறுவனத்திற்கு ஒவ்வொரு ஆண்டும் 2 முதல் 3 பில்லியன் அமெரிக்க டொலர்கள் வரை அரசு வழங்கியதாகவும் கூறினார்.
+
+இலங்கை போன்ற சிறிய நாடு அந்த வகையில் விமான சேவையை பராமரிக்கும் நிலையில் இல்லை என்றார்.
+
+...
+
+[Data](articles/13a44237.json)
+
+---
 
 ### Oat Doy
 
@@ -97,6 +169,22 @@ In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of 
 [Data](articles/c3557a88.json)
 
 [Extended Data](ext_articles/c3557a88.ext.json)
+
+---
+
+### ලංකාවේ ජනගහනය ලක්ෂ 220
+
+*2024-05-08 13:31:56* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ජනගහනය-ලක්ෂ-220/11-409498) · `si`
+
+2023 ශ්‍රි ලංකාවේ මධ්‍ය වාර්ෂික ජනගහන ඇස්තමේන්තු අනුව ශ්‍රි ලංකාවේ සමස්ත ජනගහනය 22 037 000ක් බව අග්‍රාමාත්‍ය දිනෙෂ් ගුණවර්ධන මහතා පවසයි.
+
+පාර්ලිමේන්තුවේදි අද ඔහු සඳහන් කළේ මෙම සංඛ්‍යාව අතරින් 271800ක් පමණ අවුරුදු 60 ඉක්ම වූ වැඩිහිටියන් බවයි.
+
+එයින් සියයට 73ක්ම ස්ථිර මාසික ආදායමක් නොලබන අය බවද අග්‍රාමාත්‍යවරයා පාර්ලිමේන්තුවේදි පැවැසිය.
+
+◼️
+
+[Data](articles/10c755f0.json)
 
 ---
 
@@ -1466,6 +1554,26 @@ However, the other 12 people were not allergic to it, the spokesman said.
 
 ---
 
+### பன்றி இறைச்சி கறி சாப்பிட்ட கைதிகள் திடீர் மரணம்
+
+*2024-05-08 08:22:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பன்றி-இறைச்சி-கறி-சாப்பிட்ட-கைதிகள்-திடீர்-மரணம்/175-336933) · `ta`
+
+பன்றி இறைச்சி கறி சாப்பிட்ட மகசின் சிறைக் கைதிகளில் இருவர் உயிரிழந்துள்ளதுடன், மற்றுமொரு கைதி ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பொரளை மற்றும் தெஹிவளை பிரதேசங்களைச் சேர்ந்த இருவரே உயிரிழந்துள்ளதாகவும், ஐஸ் போதைப்பொருள் வைத்திருந்த குற்றத்திற்காக இவர்கள் கைது செய்யப்பட்டிருந்ததாகவும் பொரளை பொலிஸார் தெரிவித்தனர்.
+
+பொரளை பொலிஸாரினால் கைது செய்யப்பட்ட சந்தேகநபர் ஒருவர் மெகசின் சிறைச்சாலையில் தடுத்து வைக்கப்பட்ட நிலையில், குறித்த கைதியின் வீட்டிலிருந்து பன்றி இறைச்சி கறியுடன் சோறு பொதி கொண்டுவரப்பட்டுள்ளது.
+
+இதை 15 கைதிகளுடன் சேர்த்து சாப்பிட்டனர், அதன் பிறகு மூன்று கைதிகள் நோய்வாய்ப்பட்டு சிறைச்சாலை மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இவர்களில் இரண்டு கைதிகள் உயிரிழந்துள்ளதுடன் ஒருவர் ஆபத்தான நிலையில் கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+எவ்வாறாயினும், பன்றி இறைச்சி கறியை உண்பதால் ஏற்பட்ட ஒவ்வாமையா என்பது தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக சிறைச்சாலைகள் ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/beb0d087.json)
+
+---
+
 ### Special operation to arrest Sri Lankans who send Sri Lankans
 
 *2024-05-08 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196388) · `si`
@@ -2189,145 +2297,5 @@ People’s Bank will provide loans to customers seeking to invest in rooftop sol
 [Data](articles/0aa599cf.json)
 
 [Extended Data](ext_articles/0aa599cf.ext.json)
-
----
-
-### Mithila Wegapitiya new CEO at Laugfs Power Plc.
-
-*2024-05-08 00:37:06* · [`dailyftlk`](https://www.ft.lk/business/Mithila-Wegapitiya-new-CEO-at-Laugfs-Power-Plc/34-761534) · `en`
-
-Mithila Wegapitiya has been appointed as the new CEO of Laugfs Power Plc.
-
-He holds a Bachelor of Science (BSc) in Business Management from Aston University in UK in the year 2014 and a MBA from Post Graduate Institute of Management 2018.
-
-He has served in the capacity of Executive Director LAUGFS Holdings Ltd., for the past 15 months. He is also the youngest Board Member of CERT Sri Lanka and an Industry Council member of the University of Rajarata.
-
-He is a Co-founder and a Non-Executive Board Member of Potenza, a global technology consulting company working with tier 1 Customers in USA, Australia, Canada and South East Asia in the areas of SAP Consulting, Data and Analytics, Software Robotics and AI.
-
-He also has experience serving in prominent Global Organizations such as Warner Bros Interactive Entertainment, Ve Interactive and Virtusa Corporation.
-
-◼️
-
-[Data](articles/4ae47fff.json)
-
-[Extended Data](ext_articles/4ae47fff.ext.json)
-
----
-
-### The Reconciliation Secretariat is a blindfold
-
-*2024-05-08 00:35:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்க-செயலணி-ஒரு-கண்துடைப்பு/175-336929) · `ta`
-
-MA Sumanthiran criticizes the Reconciliation Secretariat for failing to provide justice for war violations, opposing another reconciliation process, and highlighting the government's responsibility in addressing disappearances and violations.
-
-🟩
-
-The Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that this 15 years of the war that ended the war that the war violations would not get proper justice through the internal mechanism.
-
-The MA said this while addressing the debate on the Amendment Bill (Amendment) Bill (Amendment) Bill in Parliament on Tuesday (07) and the Corporation of Corporation (Special arrangements) Bill (Paratete).. Sumanthiran MP. As more and more,
-
-We oppose bringing another reconciliation process.This is an eyewitness for the upcoming Geneva session in September.
-
-We will light the world in this regard and there is no harmony without a permanent political settlement.
-
-The war ended 15 years after the end of the war.. It is essential to record some of the things I have said in this congregation.
-
-...
-
-[Data](articles/1f6d541c.json)
-
-[Extended Data](ext_articles/1f6d541c.ext.json)
-
----
-
-### SLFP leadership legal battle continues as CoA rejects Wijeydasa’s petition
-
-*2024-05-08 00:35:35* · [`dailyftlk`](https://www.ft.lk/news/SLFP-leadership-legal-battle-continues-as-CoA-rejects-Wijeydasa-s-petition/56-761533) · `en`
-
-The Court of Appeal yesterday rejected the petition submitted by Justice Minister Wijeyadasa Rajapakshe, which aimed to overturn the interim injunction issued by the Colombo District Court which barred him from fulfilling his duties as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
-
-Rajapakshe filed the petition on 29 April after the courts issued the interim injunction against him on 24 April.
-
-Justice D.N.Samarakoon considering the petition said the relevant orders in this regard should be obtained from the district court.
-
-A similar injunction was also issued against the SLFP Acting General Secretary Sarathi Dushmantha Mithrapala.
-
-The injunctions, in effect until 8 May, were granted considering a case filed by SLFP office bearers Lasantha Alagiyawanna, Duminda Dissanayake, and Mahinda Amaraweera.
-
-Chandaka Jayasundara PC representing the plaintiffs told the courts that it is illegal and against the party’s constitution for the defendants to hold the positions.
-
-...
-
-[Data](articles/bc298e69.json)
-
-[Extended Data](ext_articles/bc298e69.ext.json)
-
----
-
-### TISL challenges appointment of CIABOC Director General in Supreme Court
-
-*2024-05-08 00:34:21* · [`dailyftlk`](https://www.ft.lk/news/TISL-challenges-appointment-of-CIABOC-Director-General-in-Supreme-Court/56-761532) · `en`
-
-Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Petition (SC FR 110/2024) in the Supreme Court, challenging the appointment of W. Kanishka D. Wijeratne as the Director General (DG) of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Wijeratne, who had previously served as the DG of CIABOC since January 2020, was reappointed to the same position on 2 April 2024, following the enactment of the new Anti-Corruption Act.
-
-TISL’s petition contends that Wijeratne’s appointment violates provisions of the Anti-Corruption Act, and lacks procedural integrity and transparency. TISL requests the Supreme Court to nullify the appointment or alternatively direct the authorities to remove Wijeratne and appoint a new DG in accordance with the law.
-
-The petition further argues that he does not meet all statutory requirements and criteria for the DG role.
-
-...
-
-[Data](articles/8c57202a.json)
-
-[Extended Data](ext_articles/8c57202a.ext.json)
-
----
-
-### Sri Lanka Police
-
-*2024-05-08 00:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பொலிஸ்-இராஜ்ஜியமல்ல/175-336928) · `ta`
-
-Sri Lanka's Opposition Leader Sajith Premadasa criticized the police for summoning Sandaru Kumarasinghe over a visa comment, calling it unjustified in a democratic country.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the Sri Lankan police are not the kingdom of the Sri Lankan police to invite the comment.
-
-He further stated that when he made a special claim in Parliament on Tuesday (07)
-
-Sandaru Kumarasinghe, who recently commented at the airport on the issue of visa, was summoned to the police.. This is not the Kingdom of the Police, this is not the imperialist nation, which is a democratic country. He asked him not to disturb him because he was freedom of speech.
-
-◼️
-
-[Data](articles/4d44f1f9.json)
-
-[Extended Data](ext_articles/4d44f1f9.ext.json)
-
----
-
-### Dayasiri is a serious accusation
-
-*2024-05-08 00:27:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-கடும்-குற்றச்சாட்டு/175-336927) · `ta`
-
-Dayasiri accuses govt of postponing local elections indefinitely, citing lack of funds, and plans to restore dissolved bodies for presidential election. Consultation committees for local areas are set up, aiming to reopen elections.
-
-🟩
-
-Independent Opposition Parliamentarian Dayasiri Jayasekara has said that the government is carrying out plans to restore the dissolved local bodies as the election is not held.
-
-He made this statement while addressing a special statement in Parliament on Tuesday (07).
-
-Local government elections have been postponed indefinitely that the government cannot provide funds.
-
-In this case, a circular has been issued to be completed before July 31, according to the budget program.. This is done to target the presidential election. The funds will not be provided to those in the opposition.
-
-Meanwhile, consultation committees have been set up for local border border areas. Accordingly, the old local government, municipal councils and municipal councils are planning to reopen the election through the local government leaders and governments of the government.
-
-◼️
-
-[Data](articles/b6642cc0.json)
-
-[Extended Data](ext_articles/b6642cc0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 16:18:19**
+As of **2024-05-08 16:33:44**
 
 ## Newspaper Stats
 
-*Scraped **22,738** Articles*
+*Scraped **22,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,920
 tamilmirrorlk | 2,659
-adaderanalk | 2,668
+adaderanalk | 2,669
 virakesarilk | 3,388
 dailymirrorlk | 3,571
 adaderanasinhalalk | 3,640
@@ -26,11 +26,31 @@ adaderanasinhalalk | 3,640
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,734 (100.0%) of 22,738 articles have been extended.
+22,738 (100.0%) of 22,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Youth killed in motorcycle accident in Kahawatta
+
+*2024-05-08 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99086/youth-killed-in-motorcycle-accident-in-kahawatta) · `en`
+
+A teenager has been killed in an accident involving a motorcycle near the 8th mile post on the Bemmulle Gedara Road in Kahawatta, in the Pothuhera police area.
+
+The accident had occurred as the motorcyclist, who was traveling from Bemmulle Gedara towards Kahawatta, had lost control of the motorcycle, causing it to veer off the road and fall into the Ginneriya Bridge.
+
+Both the motorcycle rider and the pillion rider had sustained injuries in the incident and were admitted to Kurunegala Hospital.
+
+However, the pillion rider had succumbed to his injuries after admission to the hospital.
+
+The body of the deceased, a 19-year-old resident of the Wadakada area, has been placed in the Kurunegala Hospital.
+
+◼️
+
+[Data](articles/4db35aec.json)
+
+---
 
 ### Two inmates dead, one critical after ‘food poisoning’ at Magazine Prison
 
@@ -52,21 +72,29 @@ Two of the inmates have later died, while another inmate remains in critical con
 
 [Data](articles/b0e374a6.json)
 
+[Extended Data](ext_articles/b0e374a6.ext.json)
+
 ---
 
-### හිරුණිකා ට එරෙහි පැමිණිල්ල ගැන අභියාචනාධිකරණය දුන් නියෝගය
+### Court of Appeal of Hirunika
 
 *2024-05-08 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196403) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රීනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට එරෙහිව ගොනුකර ඇති පැමිණිල්ල ජූනි මස 14 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+The Court of Appeal summoned Hirunika Premachandra on June 14 for a complaint filed by Mohamed Muzmil's son. Lawyers must file protests within two weeks.
 
-එමෙන්ම මෙම නඩුකරයට අදාළ විරෝධතා තිබේ නම් ඒවා සති දෙකක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් අධිකරණය විසින් හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියගේ නීතිඥවරුන්ට නියම කළේය.
+🟩
 
-ඌව පළාත් ආණ්ඩුකාර මොහොමඩ් මුසම්මිල් මහතාගේ පුත්‍රයා විසින් ඉදිරිපත් කළ පැමිණිල්ලකට අනුව මෙම නඩු විභාගය පැවැත්වෙයි.
+The Court of Appeal was appointed as the complaint filed against Hirunika Premachandra to be summoned against him on June 14.
+
+The court also ordered the lawyers of Hirunika Premachandra to file the protesters to file the protesters within two weeks.
+
+According to a complaint lodged by the son of Mohammed Muzammil's son Mohamed Muzmil, the son of Mohamed Muzmil.
 
 ◼️
 
 [Data](articles/03934d8b.json)
+
+[Extended Data](ext_articles/03934d8b.ext.json)
 
 ---
 
@@ -92,23 +120,29 @@ Meanwhile, it is reported that police are expected to obtain 90-day detention or
 
 ---
 
-### ක්‍රිකට් ලෝව දිනන්න මග සොයන පානදුරේ බර අවිය - පුංචි මාලිංග
+### Panadura heavy weapons in Panadura - Language to win cricket
 
 *2024-05-08 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196402) · `si`
 
-ක්‍රීඩාව වෙනුවෙන් තම ජීවිතයම කැප කළ ද කැලයේ පිපී කැලයේම පරව යන හෙට රටට වටිනා තරු රැසකට වටිනාකම එක්කිරීමට අද දෙරණ සුවිශේෂී අනාවරණයන් හේතුවී තිබේ.
+Panadura's cricketing prowess, highlighted by Ada Derana, faces challenges from family opposition and societal expectations. Nilanka, a star from Panadura, seeks support to overcome these hurdles.
 
-තවත් එවැනිම රටම සරසන්න හැකියාව සහ උනන්දුව සහිත වුවද එයට මුදල හරස් වූ තරුවක් ගැන පුවතක් අපට වාර්තාවන්නේ පානදුර ප්‍රදේශයෙනි.
+🟩
 
-තමන්ට ක්‍රිකට් ක්‍රීඩාවෙන් ඉදිරියට යන්න මහත් උත්සාහයක් ගත්ත ද ඔහුට මේ වනවිට එයට විශාලතම බාධකය වී ඇත්තේ ඔවුන්ගේ පවුලේ ඇති අගහිඟතාවයයි.
+Ada Derana has delegated the value of a wake to the country, which is a wake to the country in the jungle, which is devoted to the sport.
 
-සෑම දෙයකටම මිලක් නියම වූ ලොවක නිලංකගේ බලාපොරොත්තු මල්ඵළ ගන්වන්නට ඔහුගේ මව් දෙමාපියන් දරණ වෙහෙස පිළිබඳවද වචනයෙන් කියා නිම කළ නොහැක.
+Another similar same country has the ability and interest, but we have recorded a star about a star that has been reported from Panadura.
 
-ඔහු පවසන්නේ මෙම අර්බුදයට යම්තාක්දුරකට සහනයක් දිය හැකි අයෙකු වේ නම් තමන්ගේ ඉලක්කය කරා යාමට එය විශාල පිටිවහලක් වනු ඇති බවය.
+Although he has made a lot of efforts to proceed with cricket, he is the biggest barrier of their family.
+
+In a world's motivation, Nilanka's expectations are also unable to make the world's mother-in-law.
+
+He says that if this crisis is a comfortable, it will be a big help to go to his goal.
 
 ◼️
 
 [Data](articles/c9faf253.json)
+
+[Extended Data](ext_articles/c9faf253.ext.json)
 
 ---
 
@@ -2291,31 +2325,5 @@ Opposition Leader Sajith Premadasa proposed amendments to the amendment to the a
 [Data](articles/e56ff2bd.json)
 
 [Extended Data](ext_articles/e56ff2bd.ext.json)
-
----
-
-### Delhi Capitals team beat Rajasthan Royals by 20 runs
-
-*2024-05-08 02:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182932) · `ta`
-
-Delhi Capitals beat Rajasthan Royals by 20 runs in the 56th IPL match. Delhi lost 221 runs, with Jack Brazer scoring 50. Rajasthan scored 222 runs, with Sanju Samson's 86 being the highlight.
-
-🟩
-
-Delhi Capitals - Rajasthan Royals clash in the 56th league match of the IPL.
-
-The Rajasthan team won the match in this match first and elected to bowl first.
-
-Jack Brazer, who was the leading player of the Delhi team, was bowled out for 50 off 20 balls.. Abhishek Barrel scored 65 runs off 36 balls. Triston Stubs added 41 runs off 20 balls last time. Gulabuddin scored 19 runs off 15 balls. Delhi lost 221 runs to lost 8 wickets at the end of 20 overs.
-
-Rajasthan Royals then scored 222 runs to win 222 runs.. Sanju Samson, the next team captain, played brilliantly. Ryan Barack scored 27 runs off 22 balls. Next, Subham Dubey formed an alliance with Audi Sanju Samsan. Sanju Samson, who scored 50 runs, scored 86 off 46 balls.
-
-Accordingly, Rajasthan Royals scored only 201 runs for the loss of 8 wickets in 20 overs. Delhi Capitals won by 20 runs.
-
-◼️
-
-[Data](articles/d65b1e21.json)
-
-[Extended Data](ext_articles/d65b1e21.ext.json)
 
 ---

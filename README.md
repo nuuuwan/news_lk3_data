@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 18:52:42**
+As of **2024-05-08 19:03:18**
 
 ## Newspaper Stats
 
-*Scraped **22,764** Articles*
+*Scraped **22,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,923
-tamilmirrorlk | 2,659
-adaderanalk | 2,670
-virakesarilk | 3,389
+adalk | 1,924
+tamilmirrorlk | 2,660
+adaderanalk | 2,671
+virakesarilk | 3,390
 dailymirrorlk | 3,573
-adaderanasinhalalk | 3,643
+adaderanasinhalalk | 3,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,750 (99.9%) of 22,764 articles have been extended.
+22,750 (99.9%) of 22,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### COPF summons Public Security Secretary and Immigration CG
+
+*2024-05-08 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99088/copf-summons-public-security-secretary-and-immigration-cg) · `en`
+
+The Committee on Public Finance (COPF) has summoned the Secretary to the Ministry of Public Security and the Controller General of Immigration and Emigration for an inquiry tomorrow (08), says the Chairman of COPF MP Harsha de Silva.
+
+In a post on ‘X’ (formerly Twitter), he said the COPF summoned the Secretary to Ministry of Public Security along with the Controller General of Immigration and Emigration tomorrow for a “balanced inquiry into the ongoing visa fiasco”.
+
+“While it is customary for all public finance-related legislation be routed through COPF, this strangely was not,” the committee chairman further said.
+
+◼️
+
+[Data](articles/a558bb26.json)
+
+---
+
+### ලොක්කෝ දෙන්නෙක්ට හදිසි කැඳවීමක්
+
+*2024-05-08 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196407) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුවේ ප්‍රධානියා සහ මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාව රජයේ මුදල් පිළිබඳව කාරක සභාව හමුවට කැඳවා තිබේ.
+
+එම කාරකසභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතා සිය X ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ සමාජය තුළ දැඩි කතාබහට ලක්ව ඇති වත්මන් වීසා අර්බුදය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනයකට අදාළව ඔවුන්ට මෙලෙස කැඳවීමක් සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/57fac0ac.json)
+
+---
+
+### டயனா கமகேவினால் உருவாக்கப்பட்ட ஐ.ம.சக்தி சட்டப்பூர்வமானதா? எதிரணி சிறந்த சட்டத்தரணிகளை தயார்ப்படுத்திக் கொள்ள வேண்டும் - காஞ்சன விஜேசேகர
+
+*2024-05-08 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183003) · `ta`
+
+இலங்கை பிரஜையல்லாத டயனா கமகேமவினால் உருவாக்கப்பட்ட ஐக்கிய மக்கள் சக்தி கட்சி சட்டப்பூர்வமானதா? பொதுத் தேர்தலின் போது கட்சியின் வேட்பு மனுவில் அவர் கையெழுத்திட்டிருந்தாலோ, தற்போதைய கட்சி செயலாளருடன் அவர் உடன்படிக்கையைச் செய்திருந்தாலோ அந்தக் கட்சியின் பாராளுமன்ற உறுப்பினர்கள் பிரச்சினைகளுக்கு முகங்கொடுக்க நேரிடலாம். ஆகவே சிறந்த சட்டத்தரணிகளை எதிரணியினர் தயார்ப்படுத்திக் கொள்ள வேண்டும் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (8) இடம்பெற்ற  இராஜதந்திர சிறப்புரிமை சட்டத்தின் கீழ் 2348/48ஆம் இலக்க வர்த்தமானியில் பிரசுரிக்கப்பட்ட கட்டளைகள்,பெற்றோலிய உற்பத்தி பொருட்கள் (விசேட ஏற்பாடுகள்) சட்டத்தின் கீழ் 2340/02 ஆம் இலக்க வர்த்தமானி அறிவித்தலில் பிரசுரிக்கப்பட்ட ஒழுங்கு விதிகள் என்பன மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/f7d3c41f.json)
+
+---
+
+### 2100 புதிய GS நியமனம்
+
+*2024-05-08 18:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2100-புதிய-GS-நியமனம்/175-336976) · `ta`
+
+2100 புதிய கிராம உத்தியோகத்தர்களுக்கான grama sevaka (GS) நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் அலரிமாளிகையில், புதன்கிழ​மை (08) நடைபெற்றது.
+
+பரீட்சை திணைக்களத்தினால் 2023 ஆம் ஆண்டு டிசெம்பர் மாதம் 2 ஆம் திகதி நடத்தப்பட்ட கிராம உத்தியோகபூர்வ பரீட்சையின் பெறுபேறுகளின்படி பிரதேச செயலக மட்டத்தில் அதிக புள்ளிகளைப் பெற்ற 2100 விண்ணப்பதாரர்களுக்கு கிராம உத்தியோகபூர்வ நியமனம் வழங்கப்பட்டது.
+
+◼️
+
+[Data](articles/7b470d82.json)
+
+---
 
 ### Sri Lanka drafting laws that will address climate change: President
 
@@ -235,6 +295,26 @@ The petition states that the Ceylon Electricity Board will be divided into sever
 [Data](articles/35d80d72.json)
 
 [Extended Data](ext_articles/35d80d72.ext.json)
+
+---
+
+### වායුගෝලයෙන් ජලය නිපදවීමේ යන්ත්‍රයක් නිර්මාණය කරයි
+
+*2024-05-08 16:31:18* · [`adalk`](https://www.ada.lk/breaking_news/වායුගෝලයෙන්-ජලය-නිපදවීමේ-යන්ත්‍රයක්-නිර්මාණය-කරයි/11-409504) · `si`
+
+පරිසර වායුගෝලයෙන් ජලය නිපදවීමේ යන්ත්‍රයක් නිර්මාණය කිරිමට අනුරාධපුර තඹුත්තේගම සෝලම පදිංචි තරුණයෙකු සමත්ව තිබේ. ඔහු මේ වන විට  නව නිපැයුම් 30කට වැඩි ප්‍රමාණයක් නිර්මාණය කර ඇත.
+
+මෙම යන්ත්‍රය නිපදවා ඇත්තේ ජනාධිපති සම්මානයට පවා පාත්‍ර වූ තඹුත්තේගම  ඩබ්ලිව්. එම්. හර්ෂක ප්‍රභාත් ධර්මපාල නමැති විසි හතර හැවිරිදි  තරුණයෙකි.
+
+මෙම නව නිපැයුම වූ  වාතය මගින් ජලය නිපදවීමේ නව යන්ත්‍රය මගින් පැය හතරහමාරකදී සෙල්සියස් අංශක 34 දී පමණ ජලය ලීටරයක ප්‍රමාණයක් නිපදවෙයි. මේ සඳහා කුඩා සෝලා පැනලයක්ද භාවිත කරයි.කිලෝ ග්‍රෑම් එකහමාරක් පමණ බරක් සහිත මේ නිපැයුම කොටස් තුනකට වෙන්කර තබා ගනිමින්ද භාවිත කල හැකි අතර ඕනෑම ස්ථානයකට රැගෙන යා හැකි පරිදි  මෙය නිපදවා තිබේ.
+
+සූර්ය එළිය ඇති ස්ථානවලදී ජලය එක්රැස් වන අතර රාත්‍රියේදී සෝලා පැනලය වෙනුවට විදුලිය ලබා දීමෙන්ද ජලය නිපදවිය හැකිවීමද මෙහි විශේෂත්වයකි.
+
+මේ නව නිපැයුම විශේෂයෙන්ම කාන්තාර, කැලෑවල ආරක්ෂක මෙහෙයුම්වලදී, මුහුදු ගමන් ආදී ජලය හිග අවස්ථා වලදී මහත් ප්‍රයෝජනයක් වනු ඇත. මේ නිර්මාණය සිදු කිරීමට මොහුට වසර එකහමාරක පමණ කාලයක් ගතව තිබේ.
+
+...
+
+[Data](articles/f81d63cb.json)
 
 ---
 
@@ -2175,113 +2255,5 @@ However, he noted that the new terminal has been constructed as the Karavalapiti
 [Data](articles/2d90d80f.json)
 
 [Extended Data](ext_articles/2d90d80f.ext.json)
-
----
-
-### Resolution today on strike
-
-*2024-05-08 09:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-நிறுத்தம்-குறித்து-இன்று-தீர்மானம்/175-336936) · `ta`
-
-The University Executive Officers Association threatens to escalate strikes if salary issues aren't resolved in today's discussions. They've been on strike since March 3rd over salary concerns. Today's talks focus on a Cabinet paper for a salary hike, with a demonstration planned.
-
-🟩
-
-The University Executive Officers Association has said that if there is no permanent solution to their problems in today's discussion, the current trade union actions have to be intensified.
-
-The university executive union has been engaged in trade union action since the 3rd of this month due to the salary issue.
-
-The Association's adviser Sampath Udayanga said that today's discussion is expected to be discussed and resolved on the Cabinet paper on their salary hike.
-
-He also said that a demonstration will be held today in collaboration with the strike.
-
-◼️
-
-[Data](articles/eb9c1a1b.json)
-
-[Extended Data](ext_articles/eb9c1a1b.ext.json)
-
----
-
-### Sri Lanka wins World Cup qualifying from Chamari's century
-
-*2024-05-08 09:38:27* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-ශතකයෙන්-ලංකාවට-ලෝක-කුසලාන--සුදුසුකම්-ලැබිමේ-තරගාවලියේ-ශූරතාව/9-409489) · `si`
-
-Sri Lanka women's cricket team qualifies for the Women Twenty20 World Cup in Bangladesh, thanks to Chamari Atapattu's century. They beat Scotland by 68 runs, scoring 169/5 in 20 overs, with Chamari scoring 102 runs.
-
-🟩
-
-Sri Lanka women's cricketers play the championship in Dubai to be eligible to qualify for the Women Twenty20 World Cup in Bangladesh.
-
-The Scotland team by 68 runs in the final
-
-Batting first Sri Lanka women's cricket team scored 169 runs for the loss of 5 wickets in 20 overs.
-
-Leader Chamari Atapattu scored 102 runs in 63 balls with 10 fours and four sixes. Accordingly, she was also awarded the competition.
-
-In reply, Scotland scored 101 runs for the 7 wickets.
-
-◼️
-
-[Data](articles/a91ed18f.json)
-
-[Extended Data](ext_articles/a91ed18f.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-08 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196390) · `si`
-
-Parliamentary Council commences.
-
-🟩
-
-◼️
-
-[Data](articles/cbb13f2f.json)
-
-[Extended Data](ext_articles/cbb13f2f.ext.json)
-
----
-
-### Sri Lanka rupee not seen to be volatile in future: CB Governor
-
-*2024-05-08 09:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-not-seen-to-be-volatile-in-future-cb-governor-162006/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee is not seen to be volatile in the future based on data available at the moment, Central Bank Governor Nandalal Weerasinghe said.
-
-“When we look at foreign incomes and payments due in the future I do not see the exchange rate will move up and down a lot,” Governor Weerasinghe told reporters Tuesday, speaking in Sinhalese.
-
-“Even if there is volatility, our policy to allow the market to work, and if there too much volatility we have the ability to intervene.”
-
-The central bank now had 5.4 billion US dollars to intervene but the central bank allows the market to determine the rates based on requirements, he said.
-
-Related Sri Lanka gross foreign reserves rise to 3.5 year high in April
-
-“I do not think there will be huge volatility, based on the data that is available at the moment,” Governor Weerasinghe said.
-
-...
-
-[Data](articles/82dd7863.json)
-
-[Extended Data](ext_articles/82dd7863.ext.json)
-
----
-
-### Athapaththu’s splendid hundred powers Sri Lanka to title win
-
-*2024-05-08 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththus-splendid-hundred-powers-Sri-Lanka-to-title-win/108-282141) · `en`
-
-ICC - Sri Lanka skipper Chamari Athapaththu hit a sensational hundred to set up a big win in the ICC Women’s T20 World Cup Qualifier final against Scotland.
-
-Sarah Bryce, standing in as skipper for her sister Kathryn Bryce who missed out due to a niggle, elected to bowl first after winning the toss in Abu Dhabi. Her decision was backed by her bowlers, with seamer Priyanaz Chatterji striking in the third over with the crucial wicket of Vishmi Gunaratne (9).
-
-Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the end of the first Powerplay to give Scotland another success. Dynamic all-rounder Kavisha Dilhari came in at number four and tried to reconstruct the innings along with skipper Athapaththu.
-
-...
-
-[Data](articles/58e3408e.json)
-
-[Extended Data](ext_articles/58e3408e.ext.json)
 
 ---

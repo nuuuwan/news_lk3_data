@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 07:33:49**
+As of **2024-05-08 07:52:32**
 
 ## Newspaper Stats
 
-*Scraped **22,642** Articles*
+*Scraped **22,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,321
-adalk | 1,905
+adalk | 1,906
 tamilmirrorlk | 2,637
-adaderanalk | 2,654
+adaderanalk | 2,656
 virakesarilk | 3,386
 dailymirrorlk | 3,554
 adaderanasinhalalk | 3,623
@@ -26,43 +26,97 @@ adaderanasinhalalk | 3,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,635 (100.0%) of 22,642 articles have been extended.
+22,645 (100.0%) of 22,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### මෙරට කෘෂිකර්මාන්තය නවීකරණයට ඩොලර් මිලියන 100ක ආයෝජනයක්
+### Sri Lanka thrash Scotland to win Women’s T20 World Cup qualifiers
+
+*2024-05-08 07:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99072/-sri-lanka-thrash-scotland-to-win-womens-t20-world-cup-qualifiers) · `en`
+
+Sri Lanka skipper Chamari Athapaththu hit a sensational hundred to set up a big win in the ICC Women’s T20 World Cup Qualifier final against Scotland.
+
+Sarah Bryce, standing in as skipper for her sister Kathryn Bryce who missed out due to a niggle, elected to bowl first after winning the toss in Abu Dhabi. Her decision was backed by her bowlers, with seamer Priyanaz Chatterji striking in the third over with the crucial wicket of Vishmi Gunaratne (9).
+
+Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the end of the first Powerplay to give Scotland another success. Dynamic all-rounder Kavisha Dilhari came in at number four and tried to reconstruct the innings along with skipper Athapaththu.
+
+...
+
+[Data](articles/de0a7d26.json)
+
+[Extended Data](ext_articles/de0a7d26.ext.json)
+
+---
+
+### Showery conditions expected to enhance from today
+
+*2024-05-08 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99071/showery-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says an enhancement of showery condition over most parts of the island is expected during next few days from today (May 08).
+
+Showers or thundershowers will occur at several places in most provinces of the island after 2.00 p.m.
+
+Fairly heavy showers about 75 mm are likely at some places in North-central, Central, Sabaragamuwa and Uva provinces.
+
+A few showers may occur over the coastal areas of Puttalam to Hambantota via Colombo and Galle during the morning too, it said.
+
+Misty conditions can be expected at some places in Central and Sabaragamuwa provinces during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/0a0a2b47.json)
+
+[Extended Data](ext_articles/0a0a2b47.ext.json)
+
+---
+
+### US $ 100 million in investing agriculture in Sri Lanka
 
 *2024-05-08 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196386) · `si`
 
-ශ්‍රී ලංකාවේ කෘෂිකාර්මික හා වන ආරක්ෂණ ව්‍යාපෘතියක් සඳහා එක්ව කටයුතු කිරීමට අවබෝධතා ගිවිසුමක් අත්සන් කර තිබේ.
+"US $100 million invested in agriculture in Sri Lanka through a MoU for a promotion project."
+
+🟩
+
+A Memorandum of Understanding (MoU) has signed a program to work together to work together for a promotion project in Sri Lanka.
 
 ◼️
 
 [Data](articles/d948f514.json)
 
+[Extended Data](ext_articles/d948f514.ext.json)
+
 ---
 
-### අද සිට ඉදිරි දින කිහිපයේ වැසි තත්ත්වයේ වැඩිවීමක්
+### Increase in showers in the next few days
 
 *2024-05-08 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196385) · `si`
 
-අද (08) සිට ඉදිරි දින කිහිපයේදී දිවයිනේ බොහෝ ප්‍රදේශවල වැසි තත්ත්වයේ වැඩිවීමක් බලාපොරොත්තු වේ.
+"Rainy weather expected across the country, with showers and thundershowers in coastal areas and parts of the North Central, Central, Sabaragamuwa, and Uva provinces. The Met Department advises taking precautions against wind and lightning."
 
-දිවයිනේ බොහෝ පළාත්වල ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-උතුරුමැද, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75 පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+In many areas in the country, there is a rainy increase in many parts of the island to this day.
 
-පුත්තලම සිට කොළඹ සහ ගාල්ල හරහා හම්බන්තොට දක්වා වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+In most parts of the island. The Met Department announced that there will be showers at several places about 2.00.
 
-මධ්‍යම සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+In some places in the North Central, Central, Sabaragamuwa and Uva provinces. Showers may occur at about 75 times.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Thundershowers will develop at several places in the coastal areas from Puttalam to Hambantota via Colombo and Galle.
+
+In some places in the central and Sabaragamuwa provinces, some places can last a murder.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/58e8b691.json)
+
+[Extended Data](ext_articles/58e8b691.ext.json)
 
 ---
 
@@ -84,23 +138,29 @@ According to the SLPP, a fair number of its MPs stand for the conduct of the sna
 
 ---
 
-### ජයග්‍රහණය ශ්‍රී ලංකා කාන්තා කණ්ඩායම ට
+### Sri Lanka Women's Team
 
 *2024-05-08 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196383) · `si`
 
-අයි.සී.සී පන්දුවාර 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සුදුසුකම් ලැබීම සඳහා ස්කොට්ලන්ත කාන්තා කණ්ඩායම සමඟ පැවති තරගය ලකුණු 68 කින් ජය ගැනීමට ශ්‍රී ලංකා කාන්තා කණ්ඩායම සමත්ව තිබේ.
+Sri Lanka women beat Scottish women by 68 runs in an ICC 20-over match, with Sri Lanka scoring 169/5 and Scottish women losing early.
 
-තරගයේ කාසියේ වාසිය දිනූ ස්කොට්ලන්ත කාන්තා කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළහ.
+🟩
 
-ඒ අනුව පන්දුවට පහර දුන් ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 169ක් ලබා ගත්තේය.
+Sri Lanka women's group has won the match with the Scottish women's team by 68 runs for the ICC 20 overs.
 
-පිළිතුරු ඉනිම සඳහා පන්දුවට පහරදුන් ස්කොට්ලන්ත කාන්තා කණ්ඩායමට නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 101ක් පමණයි.
+Scottish women's team won the toss and the tournament was first decided to boast.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම ලකුණු 68කින් තරගයේ ජය වාර්තා කිරීමට සමත් වුණි.
+The Sri Lanka women's group scored 169 runs for the loss of 5 wickets at the end of 20 overs.
+
+Batting to batland scored 101 runs in the final 20 overs.
+
+Sri Lanka won the match wins by 68 runs.
 
 ◼️
 
 [Data](articles/a4e03cb8.json)
+
+[Extended Data](ext_articles/a4e03cb8.ext.json)
 
 ---
 
@@ -354,19 +414,27 @@ Accordingly, in the Economic Review of 2023, the key issues indicated on the cou
 
 ---
 
-### ஜனாதிபதி நிதியத்தினால் புதிய புலைமைப் பரிசில்
+### In the New Prize Prize by the President's Fund
 
 *2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலைமைப்-பரிசில்/175-336931) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அறிவுறுத்தலுக்கமைய தற்போது வழங்கப்படும் புலமைப்பரிசில் திட்டங்களுக்கு மேலதிகமாக, மேலும் இரண்டு புலமைப்பரிசில் திட்டங்களை ஜனாதிபதி நிதியம் ஆரம்பித்துள்ளது.
+The President's Fund has initiated two new scholarship programs under President Ranil Wickremesinghe's guidance. These programs aim to support female Bikkuni beam students and other students nationwide. The scholarships, totaling 5000, will be distributed in two phases, with the first phase offering 3000 rupees for 12 months and the second phase offering 6000 rupees.
 
-அதன்படி, பிரிவெனா மற்றும் பெண் பிக்குணி கற்றை நிறுவங்களில் கற்கும் பிக்கு மற்றும் பிக்குணிகளுக்கும் ஏனைய மாணவர்களுக்கும், க.பொ.த உயர்தரத்தில் தகவல் தொழில்நுட்பம் கற்கும் மாணவர்களுக்குமான புதிய புலமைப் பரிசில் வேலைத்திட்டம் இம்மாதம் முதல் நடைமுறைப்படுத்தப்படவுள்ளது.
+🟩
 
-நாடளாவிய ரீதியில் பெண் பிக்குணி கற்றை நிறுவங்களுக்கும், ஏனைய மாணவர்களுக்கான 822 கற்கை நிறுவனங்கள் இத்திட்டத்தில் உள்வாங்கப்பட்டிருப்பதோடு, இதற்காக மேற்படி கற்கை நிறுவனமொன்றுக்கு 06 புலமைப்பரிசில்கள் என்ற அடிப்படையில் நிறுவனத் தலைவர்களின் பரிந்துரைக்கமைய பயனாளிகள் தெரிவு செய்யப்படுவர்.
+The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
 
-...
+Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
+
+The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
+
+The scholarship will be given in two phases and will be given to 5000 poor students who are learning, and under the first phase of May 2024 to 12 months, 3000 rupees for 12 months and 6,000 rupees under the second stage.. (A)
+
+◼️
 
 [Data](articles/831f7121.json)
+
+[Extended Data](ext_articles/831f7121.ext.json)
 
 ---
 
@@ -1494,6 +1562,30 @@ When I was in New York in 2004 I questioned the 'Kobio' organization for the fir
 
 ---
 
+### The Paradle Law Suspension Act passed
+
+*2024-05-07 19:33:06* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීමේ-පනත-සම්මතයි/11-409487) · `si`
+
+The Paradle Law Suspension Act was temporarily suspended from Dec. 15, 2024, after a vote in Parliament. The opposition's amendments were rejected, and the government's amendments also faced opposition.
+
+🟩
+
+Deputy Speaker Ajith Rajapakse also informed Parliament today (Dec. Decising) Bill (Amendment) Bill to temporarily suspended the law from December 15, 2024.
+
+Opposition Leader Sajith Premadasa and Parliamentarian Force Parliamentarian Ashok Abeysinghe, MP Ashok Abeysinghe and the government was defeated in two occasions, and the opposition was defeated in both cases.
+
+The amendment presented by the Opposition to the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of Consultation was cast in favor and 50 votes were against him and avoided the election.
+
+The amendments were then presented by Ashok Abeysinghe and 49 votes were cast against the election.
+
+◼️
+
+[Data](articles/d7eab427.json)
+
+[Extended Data](ext_articles/d7eab427.ext.json)
+
+---
+
 ### Putin took over as Russian President for the 5th time
 
 *2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-ஜனாதிபதியாக-பொறுப்பேற்ற-புட்டின்/50-336907) · `ta`
@@ -2135,87 +2227,5 @@ The scholarship distribution will cover all 822 Piriven and Seelamatha Education
 [Data](articles/23a74d2e.json)
 
 [Extended Data](ext_articles/23a74d2e.ext.json)
-
----
-
-### Illegal work has been out of Welikada to a woman
-
-*2024-05-07 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196375) · `si`
-
-A woman from Koralawella, Moratuwa, was arrested on April 20th for allegedly receiving Rs. 22 lakhs in exchange for pornography over the internet. She was remanded in Welikada Prison until May 20th. The case was taken up by the Kesbewa court, and the Terrorist Investigation Division informed the officials. The Criminal Investigation Department submitted the case to the Computer Criminal Investigation Division for further investigation.
-
-🟩
-
-The police have revealed that a woman was arrested and remanded in the Welikada Prison to her in the case of the case against her.
-
-The official was informed by the officials of the Terrorist Investigation Division when the case was taken up before the Kesbewa court.
-
-The court ordered to be remanded again until May 20.
-
-The suspect had been remanded for the alleged woman who had paid money from the allegations against the allegations of the alleged allegations that pornography is to be arrested in connection with the Internet.
-
-It was revealed that the suspect had received nearly Rs. 22 lakhs.
-
-The arrested was a woman living in Koralawella, Moratuwa.
-
-She was arrested by the police on the 20th of April.
-
-The Criminal Investigation Department has submitted the suspects to the law of Naked Photos and other youths by the Computer Criminal Investigation Division.
-
-The woman has revealed that the woman had been fraudulent to seek the assistance of the police to stop the suspects to stop the suspects.
-
-◼️
-
-[Data](articles/5348db6c.json)
-
-[Extended Data](ext_articles/5348db6c.ext.json)
-
----
-
-### Resolve internship issue before opening more medical faculties in Sri Lanka: GMOA
-
-*2024-05-07 17:18:00* · [`economynextcom`](https://economynext.com/resolve-internship-issue-before-opening-more-medical-faculties-in-sri-lanka-gmoa-161871/) · `en`
-
-ECONMYNEXT — Sri Lanka must not expand medial education without addressing capacity issues in internships, the Government Medical Officers Association (GMOA) said.
-
-GMOA general secretary Haritha Alutghe told reporters on Tuesday May 07 that state-owned medical faculties, which can fill nearly 2,100 students, will soon be full to capacity over the next few years, which will result in issues pertaining to internships.
-
-“The state’s medical faculties can enroll nearly 2,100 students. At present there’s 1,300 or 1,400 at those faculties. In three or four years, it will surpass 2,100. We do not have vacancies for 2,000 internships,” said Aluthge.
-
-“We have said categorically that there must not be any expanding of medical education without paying attention to the internship issue,” he said.
-
-There is opposition among some academics, trade unions and leftist parties to private participation in higher education, particularly in the field of medicine.
-
-...
-
-[Data](articles/15c74f6e.json)
-
-[Extended Data](ext_articles/15c74f6e.ext.json)
-
----
-
-### Sri Lanka's Democratic Country - Opposition Leader Sajith warns
-
-*2024-05-07 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/182903) · `ta`
-
-Sri Lanka's democratic leader Sajith Premadasa defends freedom of speech, criticizing police for summoning Sandaru Kumarasinghe over airport comments.
-
-🟩
-
-It is not the Kingdom of Police in Sri Lanka to invite the investigation into the comment. Opposition leader Sajith Premadasa said Sri Lanka was a democratic country.
-
-Sandaru Kumarasinghe, who recently commented at the airport on the issue of visa, was summoned to the police.. This is not the Kingdom of the Police, this is not the imperialist nation, which is a democratic country. Since he is freedom of speech, he cannot interrupt him and do not disturb him.
-
-Social media has seen his views on the recent airport at Santaru Kumarasinghe.
-
-According to the constitution of the country, he has freedom of speech and freedom of expression. This cannot be disrupted.
-
-He has put forward his opinion. So it does not mean that this issue is not further, and I ask the Prime Minister to end this matter.
-
-◼️
-
-[Data](articles/aaea0824.json)
-
-[Extended Data](ext_articles/aaea0824.ext.json)
 
 ---

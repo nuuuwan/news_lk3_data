@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 06:16:29**
+As of **2024-05-08 06:58:35**
 
 ## Newspaper Stats
 
-*Scraped **22,621** Articles*
+*Scraped **22,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 199
 bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
-islandlk | 1,226
+islandlk | 1,230
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,619 (100.0%) of 22,621 articles have been extended.
+22,621 (100.0%) of 22,625 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -794,6 +794,32 @@ This judgment pertains to an appeal petition filed by social activist Oshala Her
 
 ---
 
+### Spa Ceylon’s immersive Butterfly Paradise takes flight
+
+*2024-05-07 22:16:00* · [`islandlk`](http://island.lk/spa-ceylons-immersive-butterfly-paradise-takes-flight/) · `en`
+
+Spa Ceylon, proudly unveiled a groundbreaking initiative – Sri Lanka’s first-ever immersive multi-sensory experience, “Butterfly Paradise,” at One Galle Face Mall. Coinciding with the Butterfly Avurudu Gallery from April 5th to 7th, 2024, this visionary project aimed to immerse visitors in the captivating world of butterflies while championing butterfly conservation.
+
+Sri Lanka with a rich biodiversity, is home to over 248 species of exotic butterflies, with over 76 facing extinction.
+
+...
+
+[Data](articles/a7a82c1c.json)
+
+---
+
+### Singer Sri Lanka recognized as a Strategic Alliance Partner at Sony’s Annual BPC in Singapore
+
+*2024-05-07 22:14:00* · [`islandlk`](http://island.lk/singer-sri-lanka-recognized-as-a-strategic-alliance-partner-at-sonys-annual-bpc-in-singapore/) · `en`
+
+Celebrating a decade of fruitful collaboration, Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoured as a Strategic Alliance Partner at Sony’s recently held Annual Business Partner Conference (BPC) in Singapore. This recognition underscored the robust partnership between the two entities and highlights Singer’s dedication to bringing cutting-edge Sony technology to Sri Lankan consumers.
+
+...
+
+[Data](articles/18474aff.json)
+
+---
+
 ### CBSL comments on foreign reserves positively impact bourse
 
 *2024-05-07 22:12:00* · [`islandlk`](http://island.lk/cbsl-comments-on-foreign-reserves-positively-impact-bourse/) · `en`
@@ -807,6 +833,48 @@ Those crossings were reported in Royal Ceramic, which crossed 800,000 shares to 
 ...
 
 [Data](articles/59534f8f.json)
+
+[Extended Data](ext_articles/59534f8f.ext.json)
+
+---
+
+### Public Consultation on Amendments to the Finance Leasing Act, No.56 of 2000 (as amended) (FLA)
+
+*2024-05-07 22:12:00* · [`islandlk`](http://island.lk/public-consultation-on-amendments-to-the-finance-leasing-act-no-56-of-2000-as-amended-fla/) · `en`
+
+Having recognized the need for strengthening the protection of finance leasing customers and updating the FLA to be in line with the industry developments, the Central Bank of Sri Lanka (CBSL) has initiated amending the FLA.
+
+To have wider stakeholder consultation, the CBSL is inviting the general public to submit observations/ suggestions/ comments on the draft amendments. The public can access the draft amendments though the following weblink at the CBSL website;
+
+The public is invited to send their observations/ suggestions/ comments through post, fax or email on or before 31st May 2024, under the subject; “Observations/ Suggestions/ Comments on the draft amendments to the Finance Leasing Act”.
+
+Postal Address: Director, Department of Supervision of Non-Bank Financial Institutions,
+
+Central Bank of Sri Lanka, No. 30 Janadhipathi Mawatha, Colombo 01.
+
+Related Topics:CBSLPublic Consultation on Amendments to the Finance Leasing Act
+
+...
+
+[Data](articles/98f1e62b.json)
+
+---
+
+### CEAT Kelani says it is not the company fined by Customs Department
+
+*2024-05-07 22:11:00* · [`islandlk`](http://island.lk/ceat-kelani-says-it-is-not-the-company-fined-by-customs-department/) · `en`
+
+CEAT Kelani International Tyres (Pvt) Ltd. has assured customers, stakeholders and the general public that the Company has no dispute over Customs Duties with the Customs Department and is not subject to any inquiry or penalty by the Department in relation to Customs Duties.
+
+Responding to media reports that a leading tyre manufacturer is facing legal action and a fine for non-payment of Customs Duties on imported raw materials, CEAT Kelani International Tyres has issued the following statement to the media.
+
+“CEAT Kelani International Tyres categorically states that it is not the company that has allegedly defaulted on the payment of fines imposed by the Department of Customs as a penalty for non-payment of Customs Duties due on the import of raw materials.”
+
+“We would also like to assure our valued customers, all other stakeholders and the public that CEAT Kelani complies with all legal and regulatory requirements in the conduct of its business, including the timely payment of dues.”
+
+...
+
+[Data](articles/92c6f7b0.json)
 
 ---
 
@@ -2161,91 +2229,5 @@ Subsequently, Rangan, the intermediary of the bank account sent by the army Majo
 [Data](articles/19314d60.json)
 
 [Extended Data](ext_articles/19314d60.ext.json)
-
----
-
-### Fowzie's son arrested
-
-*2024-05-07 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196373) · `si`
-
-Kollupitiya Police arrested AHM Fowzi's son for assaulting a victim in a road accident. Further investigations are ongoing.
-
-🟩
-
-Kollupitiya Police have arrested the son of MP AHM Fowzi.
-
-It is in connection with a person who was involved in the road accident.
-
-A person who was traveling on the road in general area Kollupitiya has been accused of assaulting the victim.
-
-Kollupitiya Police are conducting further investigations and arrested the son of Meeting AHM Fowzi and released on police bail.
-
-◼️
-
-[Data](articles/de01f79e.json)
-
-[Extended Data](ext_articles/de01f79e.ext.json)
-
----
-
-### Craudy to those who abuse twelve-year-old schoolgirl
-
-*2024-05-07 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/දොළොස්--හැවිරිදි-පාසල්-සිසුවියක්-අපයෝජනය-කල-අයට-ලැබුණු-ඳඩුවම/11-409477) · `si`
-
-A 25-year-old couple was fined for abusing a 12-year-old girl. The man was charged with imprisonment, compensation, and penalties. The victim's father was abroad during the incident. After a 13-year trial, the accused was sentenced to jail and fined Rs. 25,000, with an additional Rs. 25,000 in compensation if not paid.
-
-🟩
-
-A 25-year-old married couple who was involved in a serious imprisonment of twelve-year-old student student, was ordered to pay a fine of Rs.
-
-A man residing in the Uragasmanhandiya Mini Piggaha, punished, compensation and penalties.The Uragasmatiya Police filed the alleged man that the victim had been abroad and the father of the victim had been abroad from 1st January 2011 to the end of the victim and the father of a father's neighbor in the event.
-
-The high-ranking a jurisdiction was charged in a jurisdictional girl after the 13 year long trial, the accused of malfunctional jail and twenty-five Rs.If it was not paid to pay compensation of Rs.
-
-◼️
-
-[Data](articles/289e3ee0.json)
-
-[Extended Data](ext_articles/289e3ee0.ext.json)
-
----
-
-### Sri Lanka VFS Global 12-year visa deal worth $840mn: legislator
-
-*2024-05-07 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-vfs-global-12-year-visa-deal-worth-840mn-legislator-161828/) · `en`
-
-ECONOMYNEXT – A deal struck by Sri Lanka with IVS-GBS-VFS Global, a private contractor, is worth 840 million dollars over its 12-year lifetime, opposition legislator S M Marikkar said in parliament.
-
-The firm was charging 18.5 dollars per visa and a 5 to 7 dollar ‘convenience fee’ on top of the government visa fee from tourists trying to enter Sri Lanka.
-
-Marikkar said the VFS Global was placed to earn cashflows of up to 100 million dollars a year based on tourist promotion targets of the industry, over the contract period.
-
-The firm would earn 35 million dollars in 2024, 43 million dollars in 2025, 49 million dollars, 56 million dollars in 2026, 62 in 2028, 68 in 2029, 74 in 2030, Marikkar said reading out from a document.
-
-The group would earn 80 million dollars in 2031, 86 million in 2032, 92 million in 2033, 96 million in 2034 and 100 million in 2035 million.
-
-...
-
-[Data](articles/d806d5a9.json)
-
-[Extended Data](ext_articles/d806d5a9.ext.json)
-
----
-
-### Putin sworn in as Russian president for fifth term
-
-*2024-05-07 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99065/putin-sworn-in-as-russian-president-for-fifth-term) · `en`
-
-Vladimir Putin began his fifth term Tuesday as Russian leader at a glittering Kremlin inauguration, setting out on another six years in office after destroying his political opponents, launching a devastating war in Ukraine and concentrating all power in his hands.
-
-Already in office for nearly a quarter-century and the longest-serving Kremlin leader since Josef Stalin, Putin’s new term doesn’t expire until 2030, when he will be constitutionally eligible to run again.
-
-At the ceremony inside the gilded Grand Kremlin Palace, Putin placed his hand on the Russian Constitution and vowed to defend it as a crowd of hand-picked dignitaries looked on.
-
-...
-
-[Data](articles/ab14fc36.json)
-
-[Extended Data](ext_articles/ab14fc36.ext.json)
 
 ---

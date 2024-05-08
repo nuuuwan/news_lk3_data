@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 21:52:58**
+As of **2024-05-08 22:06:04**
 
 ## Newspaper Stats
 
-*Scraped **22,782** Articles*
+*Scraped **22,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,928
+adalk | 1,929
 tamilmirrorlk | 2,662
 adaderanalk | 2,672
 virakesarilk | 3,390
-dailymirrorlk | 3,577
-adaderanasinhalalk | 3,646
+dailymirrorlk | 3,579
+adaderanasinhalalk | 3,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,782 (100.0%) of 22,782 articles have been extended.
+22,782 (100.0%) of 22,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Former NMRA CEO arrested
+
+*2024-05-08 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-NMRA-CEO-arrested/108-282188) · `en`
+
+The former Chief Executive Officer of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekera has been arrested.
+
+He was arrested by the Criminal Investigation Department after recording an almost 10 hour long statement with regard to the importation of substandard medicines to the country.
+
+Earlier, Dr. Vijith Gunasekera was removed from the post of CEO on a decision by the NMRA Board of Directors over the allegations on the import of substandard medicines to the country and allegedly shredding a series of confidential, sensitive NMRA official documents.
+
+◼️
+
+[Data](articles/6d092c7b.json)
+
+---
+
+### හිටපු මේජර් ජෙනරාල් සහ සැරයන් අත්අඩංගුවට
+
+*2024-05-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196411) · `si`
+
+හිටපු යුද හමුදා මේජර් ජෙනරාල්වරයෙකු සහ හිටපු යුද හමුදාවේ සැරයන්වරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ ඔවුන් කුරුණෑගල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+
+රුසියාවේ සහ යුක්‍රේනයේ කුලී හමුදා කඳවුරුවලට මෙරට හිටපු හමුදා සාමාජිකයින් යොමු කිරීමේ ජාවාරමට අදාළව ඔවුන්ව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/6da7d61c.json)
+
+---
+
+### NMRA හිටපු ලොක්කා අත්අඩංගුවට
+
+*2024-05-08 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196410) · `si`
+
+ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ඒ මහතා මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා මෙලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ අධීක්ෂණය යටතේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/8382cdc5.json)
+
+---
 
 ### Millions of women in Galle bans the assets
 
@@ -55,6 +105,24 @@ Police states that the judicial measures are to be taken regarding the property 
 [Data](articles/c51bed77.json)
 
 [Extended Data](ext_articles/c51bed77.ext.json)
+
+---
+
+### 54-year-old shot dead in Ahungalla
+
+*2024-05-08 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/54-year-old-shot-dead-in-Ahungalla/108-282187) · `en`
+
+A 54-year-old man was shot dead by two unidentified men who arrived on a motorcycle and opened fire in Bogahapitiya, Ahungalla tonight.
+
+Police said the victim was shot at while he was at his residence.
+
+The deceased has been identified as a resident of Ahungalla.
+
+Ahungalla Police are conducting an investigation to determine the cause of the shooting and identify the suspects.
+
+◼️
+
+[Data](articles/3b1ee9e1.json)
 
 ---
 
@@ -215,6 +283,26 @@ The inauguration ceremony of the program was held at the Ministry of Sethsiripay
 [Data](articles/d568d671.json)
 
 [Extended Data](ext_articles/d568d671.ext.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගත කිරීම සාර්ථක කර ගැනීමෙන් ණය බර ඩොලර් බිලියන 17කින් අඩු කර ගත හැකියි
+
+*2024-05-08 19:02:23* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-සාර්ථක-කර-ගැනීමෙන්-ණය-බර-ඩොලර්-බිලියන-17කින්-අඩු-කර-ගත-හැකියි/11-409510) · `si`
+
+විදෙස් ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය ජූනි මාසය වන විට අවසන් කර ගැනීමට රජය අපේක්ෂා කරන බවත් සමස්ත ක්‍රියාවලිය සාර්ථක කර ගැනීමෙන් ශ්‍රී ලංකාවේ ණය බර එක්සත් ජනපද ඩොලර් බිලියන 17කින් පමණ අඩු කර ගත හැකි වනු ඇති බවත් විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ දෙවන ණය වාරිකය ලැබීමත් සමඟ රටේ සංවර්ධන කටයුතුද ඉදිරියට කරගෙන යා හැකි බවද අමාත්‍යවරයා සඳහන් කළේය.
+
+විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මෙම අදහස් පළකළේ “ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (08) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+
+ශ්‍රී ලංකාව නොබැඳි විදේශ ප්‍රතිපත්තියක් අනුගමනය කරමින් හා ශ්‍රී ලංකාවේ ස්වෛරීභාවය ආරක්ෂා කර ගනිමින් සියලු ජාතීන් සමඟ සබඳතා පැවැත්වීම හේතුවෙන් මේ වන විට ජාත්‍යන්තර ප්‍රජාවෙන් සහන රැසක් හිමි වෙමින් තිබෙන බවද අමාත්‍යවරයා කියා සිටියේය.
+
+චීනය මෙන්ම ඉන්දියාව සමඟ සමීප සබඳතා පවත්වමින් මෙරට ආර්ථික සංවර්ධනයට දෙරටේ සහාය ලබා ගැනීමට රජය කටයුතු කර ඇති බවද අලි සබ්රි මහතා මෙහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/fe76512f.json)
 
 ---
 
@@ -2171,129 +2259,5 @@ Since Ms. Diana Gamage is a British citizenship, this petition had been submitte
 [Data](articles/c0b979ef.json)
 
 [Extended Data](ext_articles/c0b979ef.ext.json)
-
----
-
-### "The value of the rupee will not be unstable in the future"
-
-*2024-05-08 10:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூபாவின்-பெறுமதி-எதிர்காலத்தில்-நிலையற்று-காணப்படாது/175-336944) · `ta`
-
-Central Bank Governor Nandalal Weerasinghe predicts stable rupee value, citing foreign returns and market intervention capabilities. Despite a $5.4 billion central bank, rates are market-determined. Sri Lanka expects debt restructuring to boost new projects, repaying $2.5 billion last year.
-
-🟩
-
-Central Bank Governor Nandalal Weerasinghe says the value of Sri Lanka's rupee will not be unstable in the future based on the available data.
-
-Governor Weerasinghe told the media on Tuesday that "I do not see the currency exchange rate when looking at the foreign returns and allowances that come in the future."
-
-"Despite the change, our policy will allow the market to operate, and we have the ability to interfere if there is too much fluctuation."
-
-The central bank is now $ 5.4 billion, but the central bank allows the market to determine the rates based on requirements.
-
-Governor Weerasinghe said that I do not think that there will be massive inequalities based on the current available data.
-
-He said Sri Lanka expects to complete the debt restructuring, which would lead to the restoration of new projects.
-
-Last year, Sri Lanka had repaid US $ 2.5 billion loan to parties, including multi -level creditors.
-
-...
-
-[Data](articles/527f822e.json)
-
-[Extended Data](ext_articles/527f822e.ext.json)
-
----
-
-### Sampath of a mother who died mysteriously
-
-*2024-05-08 10:38:04* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-අයුරින්-මිය-ගිය-එක්දරු-මවකගේ-සිරුරක්-සෝයාගනී/11-409490) · `si`
-
-A 50-year-old mother, Uragasmanhandiya Kaluwaghaduwa, died mysteriously in her home, with police investigating a dispute between her son and husband.
-
-🟩
-
-Uragasmanhandiya Kaluwewa, the body of a mother of a mother who died in a mysterious man was found mysterious in the house of the house in the house of the house.
-
-According to the police, Mudalige Donu Niroshana Jayaweera, a 50-year-old mother of the Uragasmanhandiya Kaluwaghaduwa Vidyalaya, the police said.
-
-The woman is observed that this woman has died about three days following the characteristics of the clai body.
-
-The police said that they had a dispute between the son of the deceased and the husband of the victim.
-
-Uragasmanhandiya Police Station is conducting further investigations.
-
-◼️
-
-[Data](articles/1fe2d940.json)
-
-[Extended Data](ext_articles/1fe2d940.ext.json)
-
----
-
-### Australia raises minimum savings for student visa, warns on fake recruitment
-
-*2024-05-08 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99073/australia-raises-minimum-savings-for-student-visa-warns-on-fake-recruitment) · `en`
-
-Australia said on Wednesday it would raise the amount of savings international students will need to get a visa and warned several colleges of fraudulent student recruitment practices, as part of efforts to rein in record migration.
-
-From Friday, international students must show proof of savings of at least A$29,710 ($19,576) to get their visa, the second increase in about seven months. It was raised to A$24,505 from A$21,041 in October.
-
-The moves follow a raft of actions in recent months to tighten the student visa rules as the lifting of COVID-19 restrictions in 2022 triggered a sudden influx of migrants, exacerbating pressure on an already tight rental market.
-
-English language requirements for student visas were increased in March and the government has been taking steps to end settings that allowed students to prolong their stay.
-
-...
-
-[Data](articles/5d4e3995.json)
-
-[Extended Data](ext_articles/5d4e3995.ext.json)
-
----
-
-### “Conduct the general election first”
-
-*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலையே-முதலில்-நடத்தனும்/175-336943) · `ta`
-
-Basil Rajapaksa, SLPP founder, advocates for a general election before the presidential election, despite President Wickremesinghe's differing view. The SLPP supports holding the next parliamentary election in 2025, but the president can dissolve parliament for an early election. Rajapaksa advises MPs to prepare for any election, while SLPP MPs in government are expected to prioritize the presidential election.
-
-🟩
-
-The Sri Lanka PA (SLPP) founder Basil Rajapaksa yesterday reiterated that his party is still believing that the general election should be held before the presidential election but that President Ranil Wickremesinghe has a different position.
-
-Speaking to the party's parliamentary committee, Basil had earlier met with the president and recalled that he had negotiated the recent political advances.
-
-According to SLPP, there are a significant number of MPs in agreement with the constitutional elections before the scheduled presidential election in October this year.. The next parliamentary election is scheduled for 2025. However, the president has a constitutional authority to dissolve parliament in advance and announce a rapid election.
-
-Mr.. Rajapakse is said to have advised MPs to hold any election, no matter what election.. MPs are said to have been asked to start political work to prepare for any election.
-
-...
-
-[Data](articles/0c96513e.json)
-
-[Extended Data](ext_articles/0c96513e.ext.json)
-
----
-
-### “General election must be held first”
-
-*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலே-முதலில்-நடக்க-வேண்டும்/175-336943) · `ta`
-
-Basil Rajapaksa, SLPP founder, supports holding a general election before the presidential election, despite President Wickremesinghe's differing view. The SLPP believes in adhering to the constitution, which schedules the next parliamentary election for 2025, but acknowledges the president's power to dissolve parliament and call an election earlier. Rajapaksa advises MPs to prepare for any election, while SLPP MPs in government are expected to prioritize the presidential election.
-
-🟩
-
-The Sri Lanka PA (SLPP) founder Basil Rajapaksa yesterday reiterated that his party is still believing that the general election should be held before the presidential election but that President Ranil Wickremesinghe has a different position.
-
-Speaking to the party's parliamentary committee, Basil had earlier met with the president and recalled that he had negotiated the recent political advances.
-
-According to SLPP, there are a significant number of MPs in agreement to hold the general election ahead of the scheduled presidential election in October this year based on the constitution.. The next parliamentary election is scheduled for 2025. However, the president has the constitutional authority to dissolve parliament in advance and announce a rapid election.
-
-Mr.. Rajapakse is said to have advised MPs to hold any election, no matter what election.. MPs are said to have been asked to start political work to prepare for any election.
-
-...
-
-[Data](articles/4eb56dc8.json)
-
-[Extended Data](ext_articles/4eb56dc8.ext.json)
 
 ---

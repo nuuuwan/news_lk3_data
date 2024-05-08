@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 03:03:20**
+As of **2024-05-09 03:18:16**
 
 ## Newspaper Stats
 
-*Scraped **22,807** Articles*
+*Scraped **22,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,316
-dailyftlk | 1,323
+dailyftlk | 1,331
 adalk | 1,930
 tamilmirrorlk | 2,665
 adaderanalk | 2,678
@@ -26,11 +26,145 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,807 (100.0%) of 22,807 articles have been extended.
+22,807 (100.0%) of 22,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### SJB’s Mujibur to replace Diana
+
+*2024-05-09 03:06:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-Mujibur-to-replace-Diana/56-761576) · `en`
+
+SJB leader Sajith Premadasa confirms Mujibur Rahman will replace Diana Gamage in Parliament
+
+SJB MP Nalin Bandara says Gamage’s ousting is a relief to both Parliament and Speaker Mahinda Yapa Abeywardene
+
+SJB Weligama Electorate Organiser Rehan Jaawickreme calls for Gamage’s arrest for flouting immigration laws
+
+Accuses her of forging documents to obtain SJB ticket to contest
+
+Samagi Jana Balawegaya (SJB) leader Sajith Premadasa an nounced that SJB Deputy General Secretary Mujibur Rahman will replace State Minister Diana Gamage in Parliament.
+
+Shortly after the court’s decision, SJB MP Harsha de Silva also took to Twitter to suggest that former SJB MP Mujibur Rahuman is his preferred choice to replace Gamage. Rahuman had resigned last year to run in the local Government election, which has been indefinitely postponed.
+
+...
+
+[Data](articles/a94b30b3.json)
+
+---
+
+### Govt. appoints 2,100 new Grama Niladhari officials
+
+*2024-05-09 03:03:05* · [`dailyftlk`](https://www.ft.lk/news/Govt-appoints-2-100-new-Grama-Niladhari-officials/56-761575) · `en`
+
+President Ranil Wickremesinghe yesterday stressed that the enhancement of the rural economy pivots on agricultural advancement. He highlighted the pivotal role of dedicated Government officials at the grassroots level in ensuring the success of various Government initiatives aimed at rural development, notably the agricultural modernization program.
+
+The President made these remarks during his address at the ceremony held at the Temple Tress where 2,100 new Grama Niladhari officers were awarded appointment letters.
+
+Following the Grama Niladhari Service Examination held by the Department of Examinations on 2 December 2023, a total of 2,100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
+
+...
+
+[Data](articles/a539670d.json)
+
+---
+
+### Ex-NMRA chief arrested by CID, grilled for over 10 hours
+
+*2024-05-09 03:01:14* · [`dailyftlk`](https://www.ft.lk/news/Ex-NMRA-chief-arrested-by-CID-grilled-for-over-10-hours/56-761574) · `en`
+
+National Medicines Regulatory Authority’s (NMRA) former CEO Dr. Vijith Gunasekara was arrested by the Criminal Investigation Department (CID) yesterday and questioned for 10 hours. Dr. Gunasekara was apprehended by the CID in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+◼️
+
+[Data](articles/4e04b5d1.json)
+
+---
+
+### Litro commissions modern Mabima storage and bottling facility after Rs. 1 b investment
+
+*2024-05-09 03:00:09* · [`dailyftlk`](https://www.ft.lk/business/Litro-commissions-modern-Mabima-storage-and-bottling-facility-after-Rs-1-b-investment/34-761573) · `en`
+
+President’s Chief of Staff and National Security Advisor Sagala Rathnayaka and Litro Chairman and CEO Muditha Pieris officiate at the opening yesterday
+
+Litro Gas yesterday ceremonially commissioned its state-of-the-art refurbished and upgraded storage and bottling facility at Mabima, Sapugaskande.
+
+The ceremony was presided over by President’s Chief of Staff and National Security Advisor Sagala Rathnayaka.
+
+Recognised as one of the largest in the region, the Mabima facility reinforces Litro Gas’s commitment to operational excellence and national energy security.
+
+...
+
+[Data](articles/0e4f4011.json)
+
+---
+
+### TBS International: Spotlighting Sri Lankan excellence to impact global industry standards
+
+*2024-05-09 02:56:35* · [`dailyftlk`](https://www.ft.lk/business/TBS-International-Spotlighting-Sri-Lankan-excellence-to-impact-global-industry-standards/34-761572) · `en`
+
+This year’s Techtextil and Texprocess in Frankfurt, Germany, marked the 3rd consecutive year in which TBS International represented Sri Lankan excellence in the global arena. During this 4-day exhibition, they were able to showcase their commitment in the global textile landscape.
+
+TBS’s stall aimed to impress not only with their cutting-edge products and expertise in textiles but also with Sri Lanka’s signature hospitality and cultural heritage. Each visitor left the stall with the warm aftertaste of pure Ceylon tea and a souvenir to remember the occasion with a favourable impression of Sri Lanka in their hearts.
+
+...
+
+[Data](articles/94374cd1.json)
+
+---
+
+### Air India back in operation with Hayleys as new General Sales Agent
+
+*2024-05-09 02:54:56* · [`dailyftlk`](https://www.ft.lk/business/Air-India-back-in-operation-with-Hayleys-as-new-General-Sales-Agent/34-761571) · `en`
+
+Move by previous GSA Indu Sky Aviation to legally restrain Air India fails
+
+Indu Sky Aviation Ltd. has failed in multiple attempts to legally restrain Air India from transferring their General Sales Agency (GSA) to a third party, upon the expiration of the GSA with Indu Sky.
+
+Indu Sky made an application in the District Court of Colombo, seeking an enjoining order against Air India days prior to the expiration of the GSA Contract, to prevent the latter from appointing a new GSA and this enjoining order was refused on 26 March.
+
+...
+
+[Data](articles/fc76b103.json)
+
+---
+
+### President says his task to restore Sri Lanka’s economy is nearing its end
+
+*2024-05-09 02:52:15* · [`dailyftlk`](https://www.ft.lk/business/President-says-his-task-to-restore-Sri-Lanka-s-economy-is-nearing-its-end/34-761570) · `en`
+
+President Ranil Wickremesinghe on Wednesday said that his task to restore the country’s economy is nearing its end and that they have to now focus on the next step.
+
+“My task as president has been to restore the economy. In other words, to stabilize the economy. That task is nearing an end and we have to now focus on the next step,” he said.
+
+“We can’t carry on with this economic model, which certainly hasn’t worked,” he said, adding that Sri Lanka has transformed itself into an export-oriented economy and a highly competitive economy.
+
+For this purpose, Wickremesinghe stated that the government will be introducing legislation in parliament, which will ensure that all government policies focus on the transformation to a highly competitive export-oriented economy. He said the bill will most probably be gazetted next week.
+
+The President revealed that one of the items in the bill, in carrying out this transformation, is to ensure that Sri Lanka achieves net-zero emissions by 2050.
+
+...
+
+[Data](articles/90842106.json)
+
+---
+
+### The illegitimate National Education Policy Framework 2023-2033
+
+*2024-05-09 02:36:31* · [`dailyftlk`](https://www.ft.lk/columns/The-illegitimate-National-Education-Policy-Framework-2023-2033/4-761565) · `en`
+
+What was so deficient in the NEC’s proposal that required a new policy be prepared so urgently, and – more significantly – why did the President not direct these concerns back to the NEC, which is established and maintained by public funds for the explicit purpose of education policy formulation?
+
+When I went to register the birth of our son, I wasn’t asked to provide our marriage certificate – the fact that a man is willing to accept paternity by putting his name down is generally accepted as proof of legitimacy.
+
+While this patriarchal practice is discriminatory – impugning the dignity of the child, who is a human being regardless of the relationship between his or her parents – I have no qualms on employing this practice on a policy document.
+
+...
+
+[Data](articles/63b8d0c4.json)
+
+---
 
 ### Sunrisers Hyderabad won by 10 wickets in 10 overs
 
@@ -2085,161 +2219,5 @@ Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses 
 [Data](articles/8cd7379b.json)
 
 [Extended Data](ext_articles/8cd7379b.ext.json)
-
----
-
-### Diana unseated!
-
-*2024-05-08 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Diana-unseated/110-282172) · `en`
-
-The Supreme Court has ruled that State Minister Diana Gamage does not meet the legal qualifications necessary to hold a parliamentary seat. Counsel Hafeel Farisz with Oshala Herath who petitioned against Diana Gamage walk out of court following the judgement .Below are photographs of the before and after of the historic judgment in which the parliamentarian was unseated by a unanimous  verdict. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/9212cbc7.json)
-
-[Extended Data](ext_articles/9212cbc7.ext.json)
-
----
-
-### Diana
-
-*2024-05-08 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Diana/110-282172) · `en`
-
-◼️
-
-[Data](articles/b7a5665f.json)
-
-[Extended Data](ext_articles/b7a5665f.ext.json)
-
----
-
-### Sri Lanka ‘free’ visa costs US$21.61 under VFS Global deal: legislator
-
-*2024-05-08 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-free-visa-costs-us21-61-under-vfs-global-deal-legislator-162082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ‘free’ visas issued to several countries are being charged 21 US dollars by VFS Global, a private contractor hired without competitive tender, opposition legislator Nalin Bandara said.
-
-“Visa cost is zero. Then here is a service free of 18.50 for a free visa,” Bandara told parliament Wednesday. “There is another charge for 3.11 dollars.
-
-“So they are taking 21.65 dollars for a gratis visa when a tourist comes to Sri Lanka. When we go to Singapore we get a free visa. So nothing is charged from us. Not a single dollar is charged as a service fee.”
-
-Bandara claimed companies have been incorporated in the UAE to do the deal with Sri Lanka.
-
-Bandara questioned why the deal was given to VFS Global when Mobitel had offered to do the system for 1 dollar.
-
-“A massive game is being played,” Bandara said. “This government has a life of 4 months. Are they going to collect money in their death?”
-
-...
-
-[Data](articles/dc8b1d32.json)
-
-[Extended Data](ext_articles/dc8b1d32.ext.json)
-
----
-
-### What happened in the hotel room with Trump?: The pornography actress who said nothing: 'Enough'
-
-*2024-05-08 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182959) · `ta`
-
-Stormy Daniels, a porn actress, revealed her sexual relationship with Donald Trump in 2006, including details about a meeting at Trump's Lake Taho Hotel room. Trump, found with underwear, was questioned about the porn industry during dinner.
-
-🟩
-
-Stormy Deniels in the United States of America Porn Taniels has revealed the details of her sexual relationship with former President Donald Trump.
-
-Former President Donald Trump has described the moments with Donald Trump in 2006 as the trial of Stormmy Deniels has been paid to cover the truth.
-
-He also described how the two met in a popular gallow competition when he went to Trump's Lake Taho Hotel room.
-
-The porn actress has also described how Trump, who was found with underwear, posted for himself.
-
-The judge was forced to remove them as Stommy Deniels exposed the weaknesses.
-
-He also described what the table was found in Trump's hotel room.
-
-Trump questioned about the pornography industry during the dinner.
-
-When I went out to the toilet, I was shocked by the Poksar Decertun on the hotel cot.
-
-◼️
-
-[Data](articles/1321ba2c.json)
-
-[Extended Data](ext_articles/1321ba2c.ext.json)
-
----
-
-### Case law
-
-*2024-05-08 12:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலைக்-காப்புச்-சட்டத்தின்-கீழ்-வழக்குத்-தாக்கல்/175-336957) · `ta`
-
-Lt. Gen. Vi and Liyanage sued a person and two US companies, Google and YouTube, for spreading slanderous videos on social media, using the Protection Act. The case was filed on May 7th, seeking to stop the spread of these videos.
-
-🟩
-
-Sri Lankan Army Commander Lieutenant General Vi and Liyanage has filed a case at the Colombo Chief Magistrate's Court against a person and two US companies for sharing slandered videos on social media.
-
-The army commander filed a case in court on Tuesday (May 07) under the provisions of the Protection Act.
-
-Tushara Saliya Ranawaka, a Sri Lankan origin, and US multinational corporation Google and its status video sharing base, YouTube have been named as responsible.
-
-The army commander who filed his case has asked the court to send a notice to the defendants to appear in court and order the spread of slanderous videos to further spreading on social media.
-
-◼️
-
-[Data](articles/9936e47f.json)
-
-[Extended Data](ext_articles/9936e47f.ext.json)
-
----
-
-### Sri Lanka consumes only half the recommended quantity of pulses: IPS
-
-*2024-05-08 12:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumes-only-half-the-recommended-quantity-of-pulses-ips-162072/) · `en`
-
-ECONOMYNEXT – Pulses comprise only 8 percent of Sri Lanka’s per capita protein supply, and the per capita availability of pulses for consumption through local production and imports is just over half the recommended quantity for a balanced diet, the Institute of Policy Studies (IPS) said, calling for short-term and long-term strategies to revive production.
-
-...
-
-[Data](articles/5f802527.json)
-
-[Extended Data](ext_articles/5f802527.ext.json)
-
----
-
-### Emirates reaffirms strategic cooperation with SLTPB
-
-*2024-05-08 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Emirates-reaffirms-strategic-cooperation-with-SLTPB/108-282165) · `en`
-
-Underscoring Emirates’ commitment to boost tourism inflows across its network, the airline has reaffirmed its strategic cooperation with Sri Lanka Tourism Promotion Bureau.
-
-The MoU was signed by Ahmed Khoory, Emirates’ Senior Vice President, Commercial West Asia & Indian Ocean, and Chalaka Gajabahu, Chairman, Sri Lanka Tourism Promotion Bureau, in the presence of Harin Fernando, Minister of Sports and Youth Affairs of Sri Lanka and Nabil Sultan, Emirates’ Executive Vice President, Passenger Sales and Country Management.
-
-...
-
-[Data](articles/d2f22223.json)
-
-[Extended Data](ext_articles/d2f22223.ext.json)
-
----
-
-### Man found dead in hotel swimming pool
-
-*2024-05-08 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99076/man-found-dead-in-hotel-swimming-pool-) · `en`
-
-An employee of a hotel in the Labugollawatta area of Kadigamuwa in the Rambukkana police division has reportedly died after falling into the hotel’s swimming pool.
-
-Rambukkana Police have initiated an investigation upon receiving information in this regard.
-
-The deceased has been identified as a 37-year-old resident of Panwila area, according to police.
-
-The body of the deceased has been placed in the Peradeniya Hospital.
-
-◼️
-
-[Data](articles/13e0d539.json)
-
-[Extended Data](ext_articles/13e0d539.ext.json)
 
 ---

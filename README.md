@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 20:18:25**
+As of **2024-05-08 20:33:31**
 
 ## Newspaper Stats
 
-*Scraped **22,774** Articles*
+*Scraped **22,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,925
-tamilmirrorlk | 2,661
+adalk | 1,926
+tamilmirrorlk | 2,662
 adaderanalk | 2,671
 virakesarilk | 3,390
 dailymirrorlk | 3,576
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,773 (100.0%) of 22,774 articles have been extended.
+22,774 (100.0%) of 22,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### ஐ.பி.எல்லில் அறிமுகமான யாழ்ப்பாணத்தின் வியாஸ்காந்த்
+
+*2024-05-08 20:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்லில்-அறிமுகமான-யாழ்ப்பாணத்தின்-வியாஸ்காந்த்/44-336980) · `ta`
+
+இந்தியன் பிறீமியர் லீக்கில் (ஐ.பி.எல்) யாழ்ப்பாணத்தைச் சேர்ந்த சுழற்பந்துவீச்சாளரான விஜயகாந்த் வியாஸ்காந்த் அறிமுகத்தை மேற்கொண்டுள்ளார்.
+
+ஹைதரபாத்தில் தற்போது நடைபெற்று வரும் லக்னோ சுப்பர் ஜையன்ட்ஸுக்கெதிரான போட்டியிலேயே சண்றைசர்ஸ் ஹைதரபாத் அணிக்காகவே 22 வயதான வியாஸ்காந்த் அறிமுகத்தை மேற்கொண்டுள்ளார்.
+
+யாழ்ப்பாணம் மத்திய கல்லூரியின் பழைய மாணவரான வியாஸ்காந்த், 19 வயதுக்குட்பட்ட இலங்கையணியில் இடம்பெற்றதைத் தொடர்ந்து கவனம் பெற்று பின்னர் லங்கா பிறீமியர் லீக்கில் விளையாடியிருந்தார்.
+
+பின்னர் பங்களாதேஷ் பிறீமியர் லீக்கில் விளையாடியதுடன் ஆசியப் போட்டிகளில் இலங்கைக்கான அறிமுகத்தை மேற்கொண்டதுடன், தொடர்ந்து ஐக்கிய அரபு அமீரக இருபதுக்கு – 20 தொடரான ஐ.எல்.டி.20-இலும் விளையாடியிருந்தார்.
+
+◼️
+
+[Data](articles/515cc373.json)
+
+---
 
 ### Viyaskanth debuts in IPL with Sunrisers
 
@@ -43,6 +61,8 @@ Vijayakanth was drafted into the Sunrisers squad after Sri Lankan all-rounder Wa
 ◼️
 
 [Data](articles/4f711873.json)
+
+[Extended Data](ext_articles/4f711873.ext.json)
 
 ---
 
@@ -211,6 +231,22 @@ The summit aims to assess potential disruptions to critical sectors of the econo
 [Data](articles/c3bdd394.json)
 
 [Extended Data](ext_articles/c3bdd394.ext.json)
+
+---
+
+### විදෙස් රටවල හමුදාවේ රැකියා සඳහා යොමුවෙන්න එපා
+
+*2024-05-08 18:26:31* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-රටවල-හමුදාවේ-රැකියා-සඳහා-යොමුවෙන්න-එපා/11-409506) · `si`
+
+මිනිස් ජාවාරම්කරුවන් පිරිසක් එක්ව රුසියාවේ හමුදා සේවය සඳහා ශ්‍රි ලාංකික තරුණයින් යොමු කරවීමේ ජාවාරමක් මේ දිනවල ක්‍රියාත්මක වන බවත්, අදාල ජාවාරම සඳහා හසුනොවන ලෙසත් කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා ශ්‍රි ලාංකිකයින්ගෙන් ඉල්ලා සිටියි.
+
+සංචාරක වීසා මගින් රැසියානු හමුදා සේවයට එක්වී විවිධ දුෂ්කරතාවයන්ට ලක්වී ඇති පිරිසකගේ ඥාතීන් පසුගියදා අමාත්‍යවරයා හමුවී ඇති අතර, අමාත්‍යවරයාගේ උපදෙස් පරිදි ඔවුන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව හමුවේ සිය පැමිණිලි ඉදිරිපත් කර ඇත.
+
+රුසියානු හමුදාවේ ඉහළ වැටුප් සහිත රැකියා ලබාදෙන බව පවසා විශ්‍රාමික හමුදා සාමාජිකයින් මේ සඳහා බඳවා ගෙන ඇති නමුත් ඔවුන්ට සිදුව තිබුණේ වැන්ගර් කුලි හමුදාවේ සේවය සඳහා යාමටයි. එහිදි ඉදිරි ආරක්ෂක වළල්ලේ රාජකාරි සඳහා මෙම පුද්ගලයින් යොදවා ඇති බවත්, මාස ගණනකින් ඔවුන්ට හිමි වැටුප් පවා ලබා නොදී ඇති බවත් එම පුද්ගලයින් පවසා තිබේ.
+
+...
+
+[Data](articles/44c9701a.json)
 
 ---
 
@@ -2251,51 +2287,5 @@ Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP me
 [Data](articles/79e5f954.json)
 
 [Extended Data](ext_articles/79e5f954.ext.json)
-
----
-
-### Another suspicious woman death
-
-*2024-05-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196392) · `si`
-
-A woman in Kaluwaregoda, Uragasmanhandiya, found a dead body in her home. The body was discovered on a bed, indicating it had been there for a few days. The woman's husband is away for work. Uragasmanhandiya Police are investigating.
-
-🟩
-
-A woman has found a dead body of a house in Kaluwaregoda, Uragasmanhandiya police division.
-
-A message has been started on a message received by the Uragasmanhandiya Police.
-
-The body was found on a bed of the house, and it was observed that they were killed a few days ago.
-
-This woman has been home and has revealed that her husband has gone away from home for employment
-
-The Uragasmanhandiya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/86abc46c.json)
-
-[Extended Data](ext_articles/86abc46c.ext.json)
-
----
-
-### Lalkantha’s remark triggers showdown in Parliament
-
-*2024-05-08 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lalkanthas-remark-triggers-showdown-in-Parliament/108-282144) · `en`
-
-Colombo, May 8 (Daily Mirror) - The remark made by National People's Power (NPP) strongman K. D. Lalkantha at the recent May Day rally that a future NPP government will decentralize judicial powers to its cadres at village level, triggered a flare up in Parliament with both the ruling party and Samagi Jana Balawegaya (SJB) launching a verbal attack on MP Harini Amarasuriya.
-
-The flare up occurred when State Minister Shehan Semasinghe said Lalkantha had pledged to vest judicial power with his party cadres at the village level.
-
-An audio clip which comprises Lalkantha’s speech was played by SJB MP Harshana Rajakaruna.
-
-Ms. Amarasuriya said Lalkantha never mentioned that judicial powers will be devolved to NPP cadres in the village level. “Mr. Lalkantha only ensured access to justice to all people,” she said.
-
-...
-
-[Data](articles/d10ff073.json)
-
-[Extended Data](ext_articles/d10ff073.ext.json)
 
 ---

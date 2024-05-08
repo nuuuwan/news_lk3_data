@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 03:18:16**
+As of **2024-05-09 03:34:20**
 
 ## Newspaper Stats
 
-*Scraped **22,815** Articles*
+*Scraped **22,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,232
 economynextcom | 1,316
 dailyftlk | 1,331
 adalk | 1,930
-tamilmirrorlk | 2,665
+tamilmirrorlk | 2,666
 adaderanalk | 2,678
 virakesarilk | 3,392
 dailymirrorlk | 3,582
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,807 (100.0%) of 22,815 articles have been extended.
+22,815 (100.0%) of 22,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Shortly after the court’s decision, SJB MP Harsha de Silva also took to Twitte
 
 [Data](articles/a94b30b3.json)
 
+[Extended Data](ext_articles/a94b30b3.ext.json)
+
 ---
 
 ### Govt. appoints 2,100 new Grama Niladhari officials
@@ -68,6 +70,8 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 
 [Data](articles/a539670d.json)
 
+[Extended Data](ext_articles/a539670d.ext.json)
+
 ---
 
 ### Ex-NMRA chief arrested by CID, grilled for over 10 hours
@@ -79,6 +83,8 @@ National Medicines Regulatory Authority’s (NMRA) former CEO Dr. Vijith Gunasek
 ◼️
 
 [Data](articles/4e04b5d1.json)
+
+[Extended Data](ext_articles/4e04b5d1.ext.json)
 
 ---
 
@@ -98,6 +104,8 @@ Recognised as one of the largest in the region, the Mabima facility reinforces L
 
 [Data](articles/0e4f4011.json)
 
+[Extended Data](ext_articles/0e4f4011.ext.json)
+
 ---
 
 ### TBS International: Spotlighting Sri Lankan excellence to impact global industry standards
@@ -111,6 +119,8 @@ TBS’s stall aimed to impress not only with their cutting-edge products and exp
 ...
 
 [Data](articles/94374cd1.json)
+
+[Extended Data](ext_articles/94374cd1.ext.json)
 
 ---
 
@@ -127,6 +137,8 @@ Indu Sky made an application in the District Court of Colombo, seeking an enjoin
 ...
 
 [Data](articles/fc76b103.json)
+
+[Extended Data](ext_articles/fc76b103.ext.json)
 
 ---
 
@@ -148,6 +160,8 @@ The President revealed that one of the items in the bill, in carrying out this t
 
 [Data](articles/90842106.json)
 
+[Extended Data](ext_articles/90842106.ext.json)
+
 ---
 
 ### The illegitimate National Education Policy Framework 2023-2033
@@ -163,6 +177,8 @@ While this patriarchal practice is discriminatory – impugning the dignity of t
 ...
 
 [Data](articles/63b8d0c4.json)
+
+[Extended Data](ext_articles/63b8d0c4.ext.json)
 
 ---
 
@@ -195,6 +211,26 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 [Data](articles/02091493.json)
 
 [Extended Data](ext_articles/02091493.ext.json)
+
+---
+
+### டயானாவுக்கு பிறப்பித்த உத்தரவு என்ன?
+
+*2024-05-09 00:49:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்கு-பிறப்பித்த-உத்தரவு-என்ன/175-336997) · `ta`
+
+சுற்றுலாத்துறை இராஜாங்க அமைச்சர் டயானா கமகே    பாராளுமன்ற உறுப்பினராக தொடர்ந்தும் செயற்படுவதை தடுக்கும் வகையில் உயர் நீதிமன்றம் ரிட் கட்டளையை புதன்கிழமை (08)  பிறப்பித்துள்ளது.
+
+நீதியரசர்களான காமினி அமரசேகர, குமுதுனி விக்கிரமசிங்க மற்றும் ஜனக் டி சில்வா ஆகியோர் அடங்கிய நீதியரசர்கள் குழாம், இந்த வரலாற்று தீர்ப்பை வழங்கியுள்ளது.
+
+சமூக செயற்பாட்டாளரான ஓஷல லக்மால் ஹேரத், இராஜாங்க அமைச்சர் டயனா கமகேவின் பிரித்தானிய பிரஜாவுரிமை தொடர்பில் மேன்முறையீட்டு நீதிமன்றத்தில் தாக்கல் செய்த எழுத்தாணை மனு மீதான விசாரணையின் பின்னர் மூன்றில் இரண்டு பெரும்பான்மை தீர்ப்பு வழங்கப்பட்டது.
+
+அந்த தீர்ப்பை ஆட்சேபனைக்குட்படுத்தி உயர் நீதிமன்றத்தில் தாக்கல் செய்த மேன்முறையீட்டு மனு தொடர்பான விசாரணையை நிறைவு செய்த உயர் நீதிமன்றம் இந்த தீர்ப்பை புதன்கிழமை (08) வழங்கியது.
+
+மேற்படி மனுமீதான விசாரணையை பெப்ரவரி 13ஆம் திகதி  நிறைவுக்கு கொண்டுவந்த  நீதியரசர்கள் குழாம் அமர்வு அதன் தீர்ப்பை காலவரையின்றி ஒத்திவைக்க தீர்மானித்தது.
+
+...
+
+[Data](articles/248bb0fd.json)
 
 ---
 
@@ -2193,31 +2229,5 @@ English language requirements for student visas were increased in March and the 
 [Data](articles/31b6d5f6.json)
 
 [Extended Data](ext_articles/31b6d5f6.ext.json)
-
----
-
-### Change in the age of retirement of nurses
-
-*2024-05-08 12:25:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாதியர்களின்-ஓய்வு-பெறும்-வயதெல்லையில்-மாற்றம்/175-336960) · `ta`
-
-Health Minister Ramesh Pathirana announced a retirement age increase for nurses to 61, with no extension. This change is part of efforts to recruit 3,000 nurses and fill 1,000 vacancies.
-
-🟩
-
-Health Minister Ramesh Pathirana said that the retirement age of nurses and many health services will be increased to 61.
-
-Responding to a question raised by MP Gamini Valapoda, Health Minister Ramesh Pathirana made this statement in Parliament.
-
-The Health Minister said that although the retirement age has been made over the age of 61, there will be no extension.
-
-The Minister said that the Cabinet paper has been submitted to the Cabinet to increase the retirement age to 61.
-
-Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses for health services and fill 1,000 vacancies.
-
-◼️
-
-[Data](articles/8cd7379b.json)
-
-[Extended Data](ext_articles/8cd7379b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 13:52:28**
+As of **2024-05-08 14:03:23**
 
 ## Newspaper Stats
 
-*Scraped **22,712** Articles*
+*Scraped **22,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,76 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,917
 tamilmirrorlk | 2,654
-adaderanalk | 2,662
+adaderanalk | 2,663
 virakesarilk | 3,387
 dailymirrorlk | 3,566
-adaderanasinhalalk | 3,636
+adaderanasinhalalk | 3,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,710 (100.0%) of 22,712 articles have been extended.
+22,712 (100.0%) of 22,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### ඩයනාගේ පුටුව මුජිබුර් ට
+### Mujibur Rahman tipped to fill Diana Gamage’s MP seat
+
+*2024-05-08 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99079/mujibur-rahman-tipped-to-fill-diana-gamages-mp-seat-) · `en`
+
+Former Member of Parliament Mujibur Rahman of the Samagi Jana Balawegaya (SJB) is tipped to fill the vacant parliamentary seat after the Supreme Court disqualified State Minister Diana Gamage from holding an MP seat.
+
+Speaking during today’s parliamentary session, Leader of the Opposition Sajith Premadasa announced that this decision will be communicated to the Election Commission.
+
+The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
+
+Accordingly, delivering its verdict today, the three-judge Supreme Court bench decided that Gamage is not eligible to hold the position of Member of Parliament as she holds dual citizenship.
+
+In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of parliament in order to vie for the post of Mayor of Colombo in the now-postponed 2023 local government election.
+
+◼️
+
+[Data](articles/c3557a88.json)
+
+---
+
+### Diana's chair to Munibur
 
 *2024-05-08 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196400) · `si`
 
-ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුරය අහෝසි වීම හේතුවෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු අසුන සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතාගේ නම යෝජනා කර මැතිවරණ කොමිසමට යැවීමට නියමිත බව වාර්තා වේ.
+Diana Gamage nominated for Mujur Rahman's parliamentary seat by Election Commission.
+
+🟩
+
+It is reported that Diyan Gamage is to be sent to the Election Commission for the vacant parliamentarian Mujur Rahman for the vacant parliamentary seat.
 
 ◼️
 
 [Data](articles/9a407c46.json)
+
+[Extended Data](ext_articles/9a407c46.ext.json)
+
+---
+
+### මගේ කාර්යභාරය දැන් අවසන් වෙමින් යන්නේ -ජනපති
+
+*2024-05-08 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196399) · `si`
+
+මෙරට ආර්ථිකය ස්ථාවර කිරීමේ කාර්යභාරය දැන් අවසන් වෙමින් පවතින අතර දැන් අප ඊළඟ පියවර පිළිබඳ  අවධානය යොමුකළ යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ, කොළඹ පැවති ශ්‍රී ලංකා දේශගුණික සමුළුවට එක් වෙමිනි.
+
+"ජනාධිපතිවරයා ලෙස මගේ කාර්යභාරය තමා ආර්ථිකය යළි ප්‍රතිස්ථාපනය කිරීම. තවත් ආකාරයකින් කියනවා නම් ආර්ථිකය ස්ථාවර කිරීම. එම කාර්යභාරය දැන් අවසන් වෙමින් පවතින්නේ. දැන් අප ඊළඟ පියවර ගැන අවධානය යොමුකළ යුතුයි. අපිට මේ ආර්ථික මොඩලය ඔස්සේ ඉදිරියට යා නොහැකියි. ශ්‍රී ලංකාවට නියත වශයෙන්ම පුනර්ජනනීය බලශක්තියේ විශාල හැකියාවන් පවතිනවා. ඉන් එක් අංශයක් තමයි සුළං බලශක්තිය. දැන් අපි සොයා බලනවා සුළං බලශක්ති ව්‍යාපෘති නිසා මන්නාරම දිස්ත්‍රික්කයේ පක්ෂීන්ට යම් බලපෑමක් සිදුවන්නේද යන්න.
+
+අපිට විශ්වාසයි අපට එම පළාතේ වන ජීවින්ට තිබූ හානියක් සිදුනොකර එම බලශක්තිය උත්පාදනය කළ හැකි බව. හම්බන්තොට සූර්ය බලශක්තිය පිළිබ﻿ඳ උද්යෝගය ආරම්භ වූවා පමණයි.
+
+අප බොහෝ දුර යායුතු වුවත් මම ඉන්දීය අගමැති මෝදී සමග නිකුත් කළ ඉදිරි දැක්ම ප්‍රකාශයට අනුව ශ්‍රී ලංකාව ඉන්දියාවට බලශක්තිය විකිණීමද ඇතුළත්.
+
+...
+
+[Data](articles/cb61de1d.json)
 
 ---
 
@@ -66,21 +112,27 @@ He said a small country like Sri Lanka is not in a position to maintain an airli
 
 ---
 
-### ප්‍රංශ ජාතික යුවළක් සතුව තිබී ලක්ෂ දෙකකට වැඩි මුදල් හා දේපල අස්ථානගතවෙලා
+### More than two million money and property is missing in a French national couple
 
 *2024-05-08 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශ-ජාතික-යුවළක්-සතුව-තිබී-ලක්ෂ-දෙකකට-වැඩි-මුදල්-හා-දේපල-අස්ථානගතවෙලා/11-409497) · `si`
 
-සංචාරයක් සඳහා  සඳහා මෙරටට පැමිණ, ලංගම බස් රථයකින්  කොළඹ සිට අනුරාධපුරයට පැමිණි  ප්‍රංශ ජාතික පෙම් යුවළක් සතුව තිබූ රුපියල් 2,25000ක් වටිනා මුදල් , දේපල සහ විදේශ ගමන් බලපත්‍ර අඩංගු පසුම්බියක් අස්තානගත වීම සම්බන්ධයෙන්  විමර්ශනයක් ආරම්භ කල බව අනුරාධපුර පොලිසිය පවසයි.
+A French couple on a SLTB trip from Colombo to Anuradhapura reported over Rs. 2 million missing. An investigation is underway, following a complaint about their wallet being emptied.
 
-එම යුවල අනුරාධපුර නගරයෙන් බැස නගරයේ සංචාරය කරන අතර තුර ඔවුන්ගේ මුදල් පසුම්බියේ තිබේ දැයි පරීක්ෂා කිරීමේදී එය නොමැති බව දැනගැනීමෙන් අනතුරුව  මෙම පැමිණිල්ල ඉදිරිපත් කර තිබූ බවද පොලිසිය කියයි.
+🟩
 
-ඒ අනුව ඔවුන් සතුව තිබූ ලංකා මුදලින් රුපියල් 120,840 ක් , යූරෝ 300ක්, සහ විදේශ ගමන් බලපත්‍රයක් අස්ථානගත වූ එම පසුම්බිය තුල තිබූ බව පැමිණිල්ලේ සඳහන්වේ.
+A SLTB bus to visit Sri Lanka, a French couple of the SLTB from Colombo from Colombo to Colombo to Anuradhapura has launched an investigation.
 
-සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර මූලස්ථාන පොලිසියේ නිලධාරීහු කණ්ඩායමක් සහ සංචාරක පොලීසියේ නිලධාරීහු පිරිසක් වැඩිදුර විමර්ශන සිදු කරති.
+The complaint had already been lodged after he was speaking at the investigation of the couple's visit to their wallet.
+
+According to the complaint, the Ceylon Money contained a total of Rs.
+
+A team of officers and tourism police officers in the Anuradhapura headquarters are conducting further investigations.
 
 ◼️
 
 [Data](articles/8938220f.json)
+
+[Extended Data](ext_articles/8938220f.ext.json)
 
 ---
 
@@ -2261,45 +2313,5 @@ Everything needs to have a reason, framed in its purpose. Without reason and pur
 [Data](articles/09f58c28.json)
 
 [Extended Data](ext_articles/09f58c28.ext.json)
-
----
-
-### Religious misrepresentation and Israeli bloodlust in Rafah
-
-*2024-05-08 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Religious-misrepresentation-and-Israeli-bloodlust-in-Rafah/172-282113) · `en`
-
-Israeli Finance Minister Bezalel Smotrich has called for the obliteration of Rafah, Deir al-Balah, and Nuseirat.
-
-In the dark ages one could, to an extent excuse bloodlust and calls for the eradication of an entire race of a particular people. People of that day and age were primitive. Bloodthirsty men of the cloth called for the eradication of particular peoples whom they saw as their enemies. They used God’s name as a cover for their hatred.
-
-The fear of so-called ‘Holy men’ who had private discourses with the deities led them to follow the dictates of those crazed characters.
-
-So it is quite surprising, to hear modern-day rulers of Israel spout blood-thirsty calls for the killing of an entire people -in today’s context the Palestinians- because of what some misguided old men called for in bygone ages.
-
-Israel’s Finance Minister was referencing passages in Israel’s ‘Holy  Book’ where early religious leaders called for the total destruction of  the Amalek people.
-
-...
-
-[Data](articles/efed892a.json)
-
-[Extended Data](ext_articles/efed892a.ext.json)
-
----
-
-### Lady picking pockets-symptoms of wider social malaise - EDITORIAL
-
-*2024-05-08 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lady-picking-pockets-symptoms-of-wider-social-malaise-EDITORIAL/172-282110) · `en`
-
-Two days ago this newspaper highlighted the story of a Woman Police Constable (WPC) being arrested for picking the handbag of a shopper in Kandy. Not many of us citizens were shocked or dumbfounded. After all, this was ‘merely’ a case of a so-called ‘law keeper’ breaking a law.
-
-We as a nation know how our country’s leaders brought our people and the nation to a position of bankruptcy through corrupt practices. The political leaders of this country are not much different from political leaders in even the richest country in the world.
-
-During the era of prohibition in the United States, the infamous US criminal Al Capone rose to success on the back of the Temperance Movement. On January 16, 1919 prohibition was passed by both the Senate and the House of Representatives.
-
-...
-
-[Data](articles/01fc0778.json)
-
-[Extended Data](ext_articles/01fc0778.ext.json)
 
 ---

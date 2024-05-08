@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 07:13:27**
+As of **2024-05-08 07:25:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,625 (100.0%) of 22,635 articles have been extended.
+22,635 (100.0%) of 22,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ According to the SLPP, a fair number of its MPs stand for the conduct of the sna
 ...
 
 [Data](articles/e915d643.json)
+
+[Extended Data](ext_articles/e915d643.ext.json)
 
 ---
 
@@ -68,6 +70,8 @@ However, VFS Global handles the e-Visa documentation process, with final approva
 
 [Data](articles/caafd6cd.json)
 
+[Extended Data](ext_articles/caafd6cd.ext.json)
+
 ---
 
 ### Sajith plays it safe in Parliament
@@ -83,6 +87,8 @@ Mr. Premadasa earlier claimed, as reported on social media platforms, that the v
 ◼️
 
 [Data](articles/3a32b341.json)
+
+[Extended Data](ext_articles/3a32b341.ext.json)
 
 ---
 
@@ -227,6 +233,8 @@ Thereafter the country’s reserve buffer gradually weakened due to the weak for
 ...
 
 [Data](articles/d5c481e4.json)
+
+[Extended Data](ext_articles/d5c481e4.ext.json)
 
 ---
 
@@ -516,19 +524,25 @@ The petition further argues that he does not meet all statutory requirements and
 
 ---
 
-### ’இலங்கை பொலிஸ் இராஜ்ஜியமல்ல’
+### Sri Lanka Police
 
 *2024-05-08 00:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பொலிஸ்-இராஜ்ஜியமல்ல/175-336928) · `ta`
 
-கருத்து தெரிவித்தமைக்காக விசாரணைக்கு அழைப்பதற்கு இலங்கை பொலிஸ் இராஜ்ஜியமல்ல .இலங்கை ஜனநாயக நாடு என   எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sri Lanka's Opposition Leader Sajith Premadasa criticized the police for summoning Sandaru Kumarasinghe over a visa comment, calling it unjustified in a democratic country.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) விசேட கூற்றை முன்வைத்தபோதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+🟩
 
-விசா பிரச்சினை குறித்து அண்மையில் விமான நிலையத்தில் கருத்துத் தெரிவித்த சந்தரு குமாரசிங்கவை பொலிஸுக்கு  அழைத்து அது குறித்து வாக்குமூலம் பெறப்பட்டது. இது பொலிஸ் இராஜ்ஜியமல்ல, இது ஏகாதிபத்திய நாடல்ல, இது ஜனநாயக நாடு. பேச்சுச் சுதந்திரம் அவருக்கு இருப்பதால் அவருக்கு இடையூறு விளைவிக்காது, அவரை தொந்தரவு படுத்த வேண்டாம் எனக் கேட்டுக்கொண்டார்.
+Opposition Leader Sajith Premadasa said that the Sri Lankan police are not the kingdom of the Sri Lankan police to invite the comment.
+
+He further stated that when he made a special claim in Parliament on Tuesday (07)
+
+Sandaru Kumarasinghe, who recently commented at the airport on the issue of visa, was summoned to the police.. This is not the Kingdom of the Police, this is not the imperialist nation, which is a democratic country. He asked him not to disturb him because he was freedom of speech.
 
 ◼️
 
 [Data](articles/4d44f1f9.json)
+
+[Extended Data](ext_articles/4d44f1f9.ext.json)
 
 ---
 

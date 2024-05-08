@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 04:03:19**
+As of **2024-05-09 04:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,816 (100.0%) of 22,817 articles have been extended.
+22,817 (100.0%) of 22,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -214,19 +214,33 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### ’திறந்த, சுற்றுலா விசாவில் செல்லாதீர்கள்’
+### Do not go on open, tourist visa
 
 *2024-05-09 00:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்த-சுற்றுலா-விசாவில்-செல்லாதீர்கள்/175-336998) · `ta`
 
-சட்டவிரோதமான முறையில் வெளிநாடுகளுக்கு சென்று நெருக்கடிக்கு உள்ளானால் இராஜதந்திர மட்டத்தில் ஒத்துழைப்பு வழங்க முடியாது எனத் தெரிவித்த   வெளிவிவகார அமைச்சர் அலி சப்ரி,திறந்த விசா,சுற்றுலா விசா ஊடாக வெளிநாடுகளுக்கு தொழில் வாய்ப்புகளுக்காக செல்வதை இளைஞர்கள் தவிர்த்துக் கொள்ள வேண்டும் எனவும் வலியுறுத்தினார்.
+External Affairs Minister Ali Sabri advises Sri Lankan youth to avoid open and tourist visas for employment abroad, citing risks and lack of diplomatic support for those who do. He highlighted the plight of Sri Lankans in Myanmar and Russia, urging caution and legal pathways for overseas employment.
 
-பாராளுமனத்தில் புதன்கிழமை (08) இடம்பெற்ற இராஜதந்திர சிறப்புரிமை சட்டத்தின் மீதான விவாதத்தில் உரையாற்றும் போதே  இவ்வாறு வலியுறுத்தினார்.
+🟩
 
-மியன்மார் மற்றும் ரஷ்யா ஆகிய நாடுகளுக்கு சென்றுள்ள இலங்கையர்கள் அங்கு பாரிய நெருக்கடிகளை எதிர்கொண்டுள்ளார்கள்.இவ்விடயம் தற்போதைய பிரதான பேசுபொருளாக காணப்படுகிறது.
+External Affairs Minister Ali Sabri said the youth should avoid going abroad for employment opportunities through open visa and tourist visa.
+
+He emphasized this while addressing the debate on the Diplomatic Privacy Act held on Wednesday (08) at Parliament.
+
+Sri Lankans who have traveled to Myanmar and Russia are facing massive crises.
+
+Sri Lankans who went to Myanmar have been detained by mercenaries. The Miyawadi area is not under state control in Myanmar.. Three teams have been sent to Thailand border and brought to Sri Lanka from there.
+
+49 more Sri Lankans detained in Miyawadi area. We are in talks with Myanmar and Thailand to bring them to the country. .
+
+Youth and women should avoid going abroad through open visa and tourist visa for employment opportunities.
+
+When we go abroad illegally, we cannot carry out any action at the diplomatic level.
 
 ...
 
 [Data](articles/9c2ab395.json)
+
+[Extended Data](ext_articles/9c2ab395.ext.json)
 
 ---
 

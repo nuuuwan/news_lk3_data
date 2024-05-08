@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 15:52:21**
+As of **2024-05-08 16:04:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,638
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,732 (100.0%) of 22,734 articles have been extended.
+22,734 (100.0%) of 22,734 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Meanwhile, it is reported that police are expected to obtain 90-day detention or
 
 [Data](articles/e96b27d4.json)
 
+[Extended Data](ext_articles/e96b27d4.ext.json)
+
 ---
 
 ### Government MP given land at BIA to operate jet fuel storage facility: Dayasiri
@@ -67,6 +69,8 @@ Leader of the House Susil Premajayantha urged him to reveal the name of the MP a
 ...
 
 [Data](articles/49ac291f.json)
+
+[Extended Data](ext_articles/49ac291f.ext.json)
 
 ---
 

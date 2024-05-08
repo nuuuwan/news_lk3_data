@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 17:33:45**
+As of **2024-05-08 17:54:10**
 
 ## Newspaper Stats
 
-*Scraped **22,743** Articles*
+*Scraped **22,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,921
+adalk | 1,922
 tamilmirrorlk | 2,659
 adaderanalk | 2,670
 virakesarilk | 3,388
-dailymirrorlk | 3,572
-adaderanasinhalalk | 3,641
+dailymirrorlk | 3,573
+adaderanasinhalalk | 3,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,742 (100.0%) of 22,743 articles have been extended.
+22,743 (100.0%) of 22,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### අපේ දෙන්නෙකුගේ වීසා රිජෙක්ට් වෙයි
+
+*2024-05-08 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196406) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සහ අමෙරිකානු තානාපතිනී ජූලි චන්ග් ලබාගත් සෙල්ෆි ඡායාරූපය වෙත මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ විශාල කාතාබහක් ඇතිවී තිබේ.
+
+බටහිර ඉන්දීය කොදෙව් සහ අමෙරිකාවේ පැවැත්වීමට නියමිත එළැඹෙන ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වීමට නියමිත ශ්‍රී ලංකා ක්‍රිකට් සංචිතයේ සාමාජිකයින්ගේ වීසා අයදුම් කිරීමේ අවස්ථාවට එක්වීමෙන් අනතුරුව මෙම සෙල්ෆි ඡායාරූපය ලබාගෙන තිබුණි.
+
+එහිදී අමෙරිකානු තානාපතිනී ජූලි චන්ග් සහ ශ්‍රී ලංකා ජාතික කණ්ඩායම නියෝජනය කරන ක්‍රීඩකයින් අතර සුහද කතාබහක්ද සිදුවිය.
+
+කෙසේ වෙතත් මේ වනවිට නවතම ආරංචි මාර්ග සඳහන් කරන්නේ එහි සිටි දෙදෙනෙකුට අනපේක්ෂිත අත්දැකීමකට මුහුණදීමට සිදුව ඇති බවටය.
+
+ඒ ඔවුන්ගේ වීසා අමෙරිකානු තානාපති කාර්යාලය විසින් ප්‍රතික්ෂේප කිරීම හේතුවෙනි.
+
+ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ ශ්‍රී ලංකා සංචිතයේ ක්‍රීඩකයෙකුගේ සහ කණ්ඩායම සමග සංචාරයට එක්වීමට නියමිත කණ්ඩායම් සහායකයෙකුගේ වීසා මෙලෙස ප්‍රතික්ෂේප වී ඇති බවටය.
+
+◼️
+
+[Data](articles/2e148cd2.json)
+
+---
+
+### Over 2,000 Grama Niladharis appointed today
+
+*2024-05-08 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-2-000-Grama-Niladharis-appointed-today/108-282179) · `en`
+
+Colombo, May 8 (Daily Mirror) - Following the Grama Niladhari examination conducted till December 2, 2023, a total of 2,100 letters were issued to new recruits appointed to Grama Niladhari positions.
+
+The official ceremony was held at Temple Trees this morning under the patronage of President Ranil Wickremesinghe.
+
+The new Grama Niladhari appointments were made according to the results of the examination. Those who obtained the highest marks at the Divisional Secretariat level were awarded the appointment of Grama Niladhari officials.
+
+The President informed the new village officials about the programmes such as 'Aswasuma' and 'Urumaya' that the government has started to uplift the low-income earners and requested that they actively join these programmes for the development of the economy of their areas.
+
+◼️
+
+[Data](articles/d4f11295.json)
+
+---
 
 ### President says his task to restore Sri Lanka’s economy is nearing its end
 
@@ -49,6 +89,30 @@ The President revealed that one of the items in the bill, in carrying out this t
 ...
 
 [Data](articles/da95cbf3.json)
+
+[Extended Data](ext_articles/da95cbf3.ext.json)
+
+---
+
+### විදුලිබල පනත් කෙටුම්පතට එරෙහිව තවත් පෙත්සමක්
+
+*2024-05-08 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196405) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලිබල පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැණි යැයි තීන්දු කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+
+ජාතික ජන බලවේගයේ බලශක්ති කමිටුවේ සාමාජිකයින් වශයෙන් කටයුතු කරන ඉංජිනේරුවන් වන පුණ්‍යා ශ්‍රී කුමාර ජයකොඩි සහ මයුර චන්දන නෙත්තිකුමාර පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අසීමිත බලයක් පවරා දී තිබෙන බවයි.
+
+මේ නිසා විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික තීන්දු තීරණ ගැනීමට අවස්ථාව සැලසෙන අතර එය  විදුලිබල මණ්ඩලයේ පැවැත්මට යහපත් නොවන බවත් පෙත්සම්කරුවන් සඳහන් කළේය.
+
+එමෙන්ම යෝජිත පනත් කෙටුම්පත හරහා විදුලි ගාස්තු අත්තනෝමතික ආකාරයට ඉහළ නැංවීමට බලය පවරාදී ඇති බවත් එය මහජන සුබසාධනයට එතරම් යහපත් නොවන බවත් ඔවුන් පෙන්වා දෙයි.
+
+ඊට අමතරව ලංකා විදුලිබල මණ්ඩලය යෝජිත පනත යටතේ සමාගම් කිහිපයකට වෙන් කෙරෙන බවත් ඒ තුළින් සේවකයින්ගේ වෘත්තිය සුරක්ෂිතභාවය බරපතළ ලෙස අභියෝගයට ලක් කෙරෙන බවත් පෙත්සමේ සඳහන් වෙයි.
+
+...
+
+[Data](articles/35d80d72.json)
 
 ---
 
@@ -413,6 +477,24 @@ In 2023, 791 employees were recruited to SriLankan Airlines, which was the large
 [Data](articles/13a44237.json)
 
 [Extended Data](ext_articles/13a44237.ext.json)
+
+---
+
+### අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතයේ පැහැදිලි අඩුවක්
+
+*2024-05-08 14:24:28* · [`adalk`](https://www.ada.lk/breaking_news/අලුත්-අවුරුදු-උත්සව-සමයේ-මද්‍යසාර-භාවිතයේ-පැහැදිලි-අඩුවක්/11-409502) · `si`
+
+මෙවර සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතයේ පැහැදිලි අඩුවක් දක්නට ලැබෙන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පසුගිය සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතය හා ඒ හා සම්බන්ධ තොරතුරු සොයා බැලීම සදහා කළ සමීක්ෂණයකදි හෙළිව තිබේ.
+
+මෙම සමීක්ෂණයේ දී ශ්‍රී ලංකාවේ සියලු පළාත් ආවරණය වන පරිදි  පුද්ගලයන් 415 ක නියදියකින් තොරතුරු ලබාගෙන තිබේ. මෙම නියදියෙන් 46.2% ක් (192) ස්ත්‍රීන් වන අතර 53.7% ක් (223) පුරුෂයන් විය.
+
+සමීක්ෂණයට භාජනය වූවන් අතුරින් 64 %ක අදහස වූයේ පසුගිය සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයට සාපේක්ෂව මෙවර අලුත් අවුරුදු උත්සව කාලය තුළ මද්‍යසාර භාවිතය අඩු වී ඇති බවයි.
+
+මද්‍යසාර භාවිතය වෙනසක් නොවූ බව 26% ක් ප්‍රකාශ කළ අතර 10% කගේ අදහස වූයේ මද්‍යසාර භාවිතය පෙර උත්සව සමයට සාපෙක්ෂව මෙවර උත්සව සමයේ වැඩි වූ බවයි.
+
+...
+
+[Data](articles/dc4c1d0f.json)
 
 ---
 
@@ -2241,87 +2323,5 @@ However, VFS Global handles the e-Visa documentation process, with final approva
 [Data](articles/caafd6cd.json)
 
 [Extended Data](ext_articles/caafd6cd.ext.json)
-
----
-
-### TISL challenges Sri Lanka’s anti-graft chief’s appointment in Supreme Court
-
-*2024-05-08 06:08:00* · [`economynextcom`](https://economynext.com/tisl-challenges-sri-lankas-anti-graft-chiefs-appointment-in-supreme-court-161937/) · `en`
-
-ECONOMYNEXT – The Transparency International Sri Lanka (TISL) has filed a Fundamental Rights petition in the Supreme Court, challenging the appointment of Kanishka Wijeratne as the new Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) under a new Anti-Corruption Act that has given wide powers for the anti-graft body.
-
-President Ranil Wickremesinghe appointed High Court Judge Wijerathne as the Director General of the CIABOC last month under the new act.
-
-Wijerathne has functioned in the same role before, but this new appointment is under the new Act which was passed in the parliament in September last year.
-
-“TISL’s petition contends that Mr. Wijeratne’s appointment violates provisions of the Anti-Corruption Act, lacks procedural integrity and transparency,” the TISL said in a statement.
-
-...
-
-[Data](articles/3f07bc1f.json)
-
-[Extended Data](ext_articles/3f07bc1f.ext.json)
-
----
-
-### Diana Gamage: The Supreme Court is a decision abolished MP
-
-*2024-05-08 05:48:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cne9r73pgldo) · `si`
-
-The Supreme Court ruled that State Minister Diana Gamage lacks legitimate qualifications to sit in Sri Lanka's parliament due to her British citizenship and failure to prove Sri Lankan citizenship. This decision was made after a petition by social activist Ashala Herath and was based on the British passport Gamage used to enter Sri Lanka.
-
-🟩
-
-The Supreme Court today (May 8) that State Minister Diana Gamage has no legitimate qualifications to sit in the parliament.
-
-Supreme Court Judge Janakaka de Silva announced the decision of the Supreme Court Justice of Gamini Amarasekera and Kumuduni Wickremasinghe.
-
-The judge also stated that the trial was confirmed that Sri Lanka had arrived in Sri Lanka using a British passport in the Uttarakara, a British passport.
-
-She also failed to prove the Sri Lankan citizenship of Diane Gamage and stated that she failed to prove the Sri Lankan citizenship.
-
-Accordingly, the Sri Lankan citizenship is a person who has lost Sri Lankan citizenship under Article 89 of the Constitution, the judge said.
-
-Accordingly, there is no confirmation that Diana Gamage has been confirmed that there is no qualifications that she is not eligible to sit in the Parliament of Sri Lanka and said that the judge expressed his verdict.
-
-...
-
-[Data](articles/6ae614a5.json)
-
-[Extended Data](ext_articles/6ae614a5.ext.json)
-
----
-
-### Sajith plays it safe in Parliament
-
-*2024-05-08 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-plays-it-safe-in-Parliament/108-282139) · `en`
-
-Colombo, May 8 (Daily Mirror) - Leader of Opposition Sajith Premadasa yesterday raised objections to the questioning of the youth, Sandaru Kumarasinghe, who spoke out against the Visa issue at the airport but avoided debate on the visa fiasco involving a foreign consortium with VFS as technology partner.
-
-He told Parliament that the government must consider the matter involving the youth closed without dragging it. "Sandaru Kumarasinghe only expressed his opinion. In terms of the Constitution, he has a right to freedom of expression," he said.
-
-Mr. Premadasa earlier claimed, as reported on social media platforms, that the visa fiasco could be a greater swindle than the bond scam.
-
-◼️
-
-[Data](articles/3a32b341.json)
-
-[Extended Data](ext_articles/3a32b341.ext.json)
-
----
-
-### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
-
-*2024-05-08 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
-
-May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
-
-May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
-
-...
-
-[Data](articles/5fbb9b96.json)
-
-[Extended Data](ext_articles/5fbb9b96.ext.json)
 
 ---

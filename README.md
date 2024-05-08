@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 10:18:20**
+As of **2024-05-08 10:33:20**
 
 ## Newspaper Stats
 
-*Scraped **22,665** Articles*
+*Scraped **22,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,101 @@ islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,322
 adalk | 1,908
-tamilmirrorlk | 2,645
+tamilmirrorlk | 2,646
 adaderanalk | 2,656
 virakesarilk | 3,386
-dailymirrorlk | 3,557
-adaderanasinhalalk | 3,629
+dailymirrorlk | 3,558
+adaderanasinhalalk | 3,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,662 (100.0%) of 22,665 articles have been extended.
+22,665 (100.0%) of 22,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### තවත් සැකකටයුතු කාන්තා මරණයක්
+### Appointment of CIABOC Director General challenged in SC
+
+*2024-05-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Appointment-of-CIABOC-Director-General-challenged-in-SC/108-282148) · `en`
+
+Colombo, May 8 (Daily Mirror) - Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Petition in the Supreme Court, challenging the appointment of Kanishka Wijeratne as the Director General (DG) of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+Mr. Wijeratne, who had previously served as the DG of CIABOC since January 2020, was reappointed to the same position on April 2, 2024, following the enactment of the new Anti-Corruption Act.
+
+The TISL's petition contends that Kanishka Wijeratne's appointment violates provisions of the Anti-Corruption Act, lacks procedural integrity and transparency.
+
+The TISL requests the Supreme Court to nullify the appointment or alternatively direct the authorities to remove Mr. Wijeratne and appoint a new DG in accordance with the law.
+
+The petition further argues that he does not meet all statutory requirements and criteria for the
+
+◼️
+
+[Data](articles/37fd64a6.json)
+
+---
+
+### මාරක අනතුරෙන් 19 හැවිරිදි තරුණයාට දිවි අහිමිවෙයි
+
+*2024-05-08 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196393) · `si`
+
+පොතුහැර පොලිස් වසමේ කහවත්තේ, ඇළ බෙම්මුලලේ ගෙදර මාර්ගයේ 8 කණුව ආසන්නයේ දී සිදුවු රිය අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+බෙම්මුල්ලේ ගෙදර දෙස සිට කහවත්තේ ඇළ දෙසට ගමන් කළ යතුරුපැදියක් පැදිකරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන ගින්නේරිය පාලම තුළට වැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් තුවාල ලැබු පැදිකරු හා පසුපැදිකරු කුරුණෑගල රෝහලට ඇතුළුත් කිරීමේ දී පසුපැදිකරු මියගොස් තිබේ.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 19 හැවිරිදි වදාකඩ ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+
+◼️
+
+[Data](articles/9392cc48.json)
+
+---
+
+### கே.டி.லால்காந்தவின் கருத்தால் பாராளுமன்றத்தில் குழப்பம்
+
+*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-பாராளுமன்றத்தில்-குழப்பம்/175-336942) · `ta`
+
+எதிர்கால NPP அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில் தேசிய மக்கள் சக்தியின் (NPP) கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
+
+கிராம மட்டத்தில் உள்ள தனது கட்சி உறுப்பினர்களுக்கு நீதித்துறை அதிகாரத்தை வழங்குவதாக லால்காந்த உறுதியளித்ததாக இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க கூறியதையடுத்து இந்த வெடிப்பு ஏற்பட்டது.
+
+லால்காந்தவின் உரை அடங்கிய ஒலிப்பதிவு SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணாவால் ஒலிக்கப்பட்டது.
+
+கிராம மட்டத்திலுள்ள NPP உறுப்பினர்களுக்கு நீதித்துறை அதிகாரங்கள் பகிர்ந்தளிக்கப்படும் என்று லால்காந்த ஒருபோதும் குறிப்பிடவில்லை என திருமதி அமரசூரிய கூறினார். "அனைத்து மக்களுக்கும் நீதி கிடைப்பதை மட்டுமே லால்காந்த உறுதி செய்தார்,” என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/760b8da7.json)
+
+---
+
+### Another suspicious woman death
 
 *2024-05-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196392) · `si`
 
-ඌරගස්මංහන්දිය පොලිස් වසමේ, කළුවලගොඩ ප්‍රදේශයේ නිවසක තිබී කාන්තා මළ සිරුරක් සොයාගෙන තිබේ.
+A woman in Kaluwaregoda, Uragasmanhandiya, found a dead body in her home. The body was discovered on a bed, indicating it had been there for a few days. The woman's husband is away for work. Uragasmanhandiya Police are investigating.
 
-මේ පිළිබඳව ඌරගස්මංහන්දිය පොලීසියට ලද පණිවිඩයක් මත විමර්ශනයක් ද ආරම්භ කර ඇත.
+🟩
 
-මෘත ශරීරය නිවසේ ඇඳක් මත තිබී ඇති අතර, දින කිහිපයකට පෙර මියගොස් ඇති බව නිරීක්ෂණය වී ඇත.
+A woman has found a dead body of a house in Kaluwaregoda, Uragasmanhandiya police division.
 
-මෙම කාන්තාව පමණක් නිවසේ සිට ඇති අතර, ඇගේ ස්වාමිපුරුෂයා රැකියා කටයුතු සඳහා නිවසින් බැහැරව ගොස් සිට ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේත
+A message has been started on a message received by the Uragasmanhandiya Police.
 
-මෘත ශරීරය පිළිබඳ පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇල්පිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, ඌරගස්මංහන්දිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The body was found on a bed of the house, and it was observed that they were killed a few days ago.
+
+This woman has been home and has revealed that her husband has gone away from home for employment
+
+The Uragasmanhandiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/86abc46c.json)
+
+[Extended Data](ext_articles/86abc46c.ext.json)
 
 ---
 
@@ -116,17 +178,23 @@ It is reported that the party's election campaign has been decided at the villag
 
 ---
 
-### නාන තටාකයට වැටී පුද්ගලයෙක් මරුට
+### Man dies after falling into bathtub
 
 *2024-05-08 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196391) · `si`
 
-රඹුක්කන පොලිස් වසමේ කඩිගමුව ලබුගොල්ලවත්ත ප්‍රදේශයේ පිහිටි හෝටලයක සේවකයෙකු එහි නාන තටාකයට වැටී ජීවිතක්ෂයට පත්ව තිබේ.
+A hotel employee in Rambukkana died after falling into a bathtub. Police investigations have begun.
 
-ඒ පිළිබඳ රඹුක්කන පොලීසියට ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කළ බව ද පොලීසිය පවසයි.
+🟩
+
+An employee of a hotel in the Rambukkana Police Division was killed and killed in a hotel in the bath.
+
+The police say that investigations were started on a message received by the Rambukkana Police.
 
 ◼️
 
 [Data](articles/4a8bad4b.json)
+
+[Extended Data](ext_articles/4a8bad4b.ext.json)
 
 ---
 
@@ -178,13 +246,19 @@ He also said that a demonstration will be held today in collaboration with the s
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-05-08 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196390) · `si`
+
+Parliamentary Council commences.
+
+🟩
 
 ◼️
 
 [Data](articles/cbb13f2f.json)
+
+[Extended Data](ext_articles/cbb13f2f.ext.json)
 
 ---
 
@@ -1298,13 +1372,13 @@ The mentioned drugs identified as Diazepam, Tramadol, Pregabalin and Gabapentin 
 
 *2024-05-07 23:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Secretary-warns-Sri-Lankan-war-heroes-against-smugglers/108-282129) · `en`
 
-Colombo, May 7 (Daily Mirror) - Defence Secretary General Kamal Gunaratne requested Sri Lanka's war heroes not to become victims of human smugglers who are recruiting people to serve in the armed forces on the Russian-Ukrain war front.
+Colombo, May 7 (Daily Mirror) - Defence Secretary Kamal Gunaratne requested Sri Lanka's war heroes not to become victims of human smugglers who are recruiting people to serve in the armed forces on the Russian-Ukrain war front.
 
 He revealed that Sri Lanka's war heroes are being lured by false promises to join the armed forces in the Russia-Ukrain conflict.
 
 "These promises include offers of land in Saint Petersburg, Russian citizenship for their families and monthly salaries exceeding Rs.1 million. However, these promises remain unfulfilled, with no compensation provided for deceased war heroes and their families. Many Sri Lankan soldiers have already been sent to the conflict zone, resulting in casualties and injuries, whose extent remains unknown.
 
-Gunaratne clarified that these soldiers were not legally recruited but rather coerced into serving as mercenaries. He urged war heroes to avoid falling prey to these human smugglers.
+General Gunaratne clarified that these soldiers were not legally recruited but rather coerced into serving as mercenaries. He urged war heroes to avoid falling prey to these human smugglers.
 
 ...
 
@@ -2151,69 +2225,5 @@ Thundershowers will occur in some parts of the North Western, North Central and 
 [Data](articles/2a376322.json)
 
 [Extended Data](ext_articles/2a376322.ext.json)
-
----
-
-### Rajapakse's petition dismissed
-
-*2024-05-07 18:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்சவின்-மனு-தள்ளுபடி/175-336904) · `ta`
-
-Justice Minister Vijayadasa Rajapakse's review petition dismissed, upholding Colombo District Court's decision to prevent SLFP leader.
-
-🟩
-
-A review petition filed by Justice Minister Vijayadasa Rajapakse today dismissed the appeal against the legal character of the Colombo District Court to prevent the Sri Lanka Freedom Party (SLFP) leader.
-
-◼️
-
-[Data](articles/e380138f.json)
-
-[Extended Data](ext_articles/e380138f.ext.json)
-
----
-
-### The presidential candidate has been deceived
-
-*2024-05-07 18:55:44* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණ-අපේක්ෂකයා-නම්-කිරීමට-කල්-තිබෙනවා/11-409484) · `si`
-
-Prasanna Ranatunga, Minister of Urban Development, suggests Mahinda Rajapaksa as the Presidential Electoral candidate for the Sri Lanka General Front, emphasizing the party's readiness.
-
-🟩
-
-Chief Government Whip Prasanna Ranatunga, Minister of Urban Development, Prasanna Ranatunga says that there is more time to name the Presidential Electoral candidate on the Sri Lanka General Front.
-
-The Minister said that former President Mahinda Rajapaksa would be a good decision on the candidate.
-
-He said his party is currently implementing a program that is able to cope with the party without fear.
-
-A special discussion of the Sri Lanka General Supreme Appointment of the Sri Lanka Civil Appointment, the party founder was held today (7) at the party office in Nelumma Clouds.
-
-◼️
-
-[Data](articles/a49571de.json)
-
-[Extended Data](ext_articles/a49571de.ext.json)
-
----
-
-### India should help document the arrival of Sri Lanka of Indian descendants - Kumar Nadesan, president of 'Gopio' organization
-
-*2024-05-07 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/182920) · `ta`
-
-Kumar Nadesan, president of 'Gopio', calls for a historical document on the arrival of Indian descendants in Sri Lanka, including traders, bankers, and tea workers, about 250 years ago. He highlights India's global successes and contributions, emphasizing the need for recognition of Indian origin's significant roles in Sri Lanka's development.
-
-🟩
-
-Kumar Nadesan, president of the 'Gopio' organization, has pointed out that Indian origin has held many top positions all over the world, including Sri Lanka, and has called for a historical document on the arrival of Indians, traders, bankers, tea workers, about 250 years ago.
-
-Kumar Nadesan, president of the Gopio Organization, said this while attending a dinner party organized by the 'Kopio' organization at the TajSamudra Hotel in Colombo on Monday to honor Santosh Ja, who recently assumed office as Indian High Commissioner to Sri Lanka.. There he added:
-
-We have been waiting for this day since the new Indian High Commissioner to Sri Lanka took over. While celebrating the vibrant goodwill between Sri Lanka and India and the image of India on the world stage, we are here to introduce us to the High Commissioner and share our views with him.
-
-...
-
-[Data](articles/2ac01fa2.json)
-
-[Extended Data](ext_articles/2ac01fa2.ext.json)
 
 ---

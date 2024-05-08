@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 21:03:45**
+As of **2024-05-08 21:18:36**
 
 ## Newspaper Stats
 
-*Scraped **22,780** Articles*
+*Scraped **22,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,926
+adalk | 1,928
 tamilmirrorlk | 2,662
 adaderanalk | 2,672
 virakesarilk | 3,390
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,646
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,779 (100.0%) of 22,780 articles have been extended.
+22,780 (100.0%) of 22,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### ගාල්ලේ කාන්තාවකගේ මිලියන ගණනක වත්කම් තහනම් කරයි
+### Millions of women in Galle bans the assets
 
 *2024-05-08 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196409) · `si`
 
-ගාල්ල ප්‍රදේශයේ කාන්තාවක සතු මිලියන ගණනාවක් වටිනා දේපොළ තහනම් කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+The Galle Division Criminal Investigation Bureau has banned millions of persons in Galle, including a woman, due to unrevealed earnings. A four-story building and land in Galle and Akmeemana, valued at Rs. 120 million, are involved. Future judicial actions are planned.
 
-උපයාගත් ආකාරය හෙළිදරව් කිරීමට නොහැකිවීම හේතුවෙන් ගාල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් එම දේපොළ තහනම් කර ඇත.
+🟩
 
-මෙලෙස තහනමට ලක්කර ඇති දේපොළවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 120ක් පමණ වන බව පොලීසිය පවසයි.
+Police have banned millions of persons in a woman in Galle.
 
-පොලීසිය පවසන්නේ එම දේපොළ අතර ගාල්ල දඩල්ල ප්‍රදේශයේ සිව් මහල් ගොඩනැගිල්ලක් සහ අක්මීමන ප්‍රදේශයේ අක්කර එකහමාරක තේ සහ ගම්මිරිස් ඉඩමක් අයත් බව සඳහන්.
+The Galle Division Criminal Investigation Bureau has been banned due to the unability to reveal the earnings.
 
-පොලීසිය පවසන්නේ ඉදිරියේදී මෙම දේපොළ සම්බන්ධයෙන් අධිකරණමය ක්‍රියාමාර්ග ගැනීමට නියමිත බවය.
+The market value of the property has been worth around Rs. 120 million, police said.
+
+It is said that the police say that a four storied building in Dadalla, Galle belonging to the Galle Dadalla, Galle and a land and pepper land in Akmeemana.
+
+Police states that the judicial measures are to be taken regarding the property in the future.
 
 ◼️
 
 [Data](articles/c51bed77.json)
+
+[Extended Data](ext_articles/c51bed77.ext.json)
 
 ---
 
@@ -56,7 +62,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-08 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99089/shooting-in-ahungalla-leaves-one-person-dead) · `en`
 
-One person was shot dead by unidentified gunmen in Bogahapitiya area of Ahungalla, the police said.
+One person was shot dead by unidentified gunmen in Bogahapitiya area of Ahungalla on Wednesday evening (08), the police said.
+
+Reportedly, the victim has succumbed to injuries upon admission to the Balapitiya Base Hospital.
 
 ◼️
 
@@ -188,6 +196,22 @@ In a post on X, he said although it is customary for all public finance related 
 
 ---
 
+### ගම් බිත්තර නිෂ්පාදනයට ව්‍යවසායකයන් 10000ක්
+
+*2024-05-08 19:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-බිත්තර-නිෂ්පාදනයට-ව්‍යවසායකයන්-10000ක්/11-409513) · `si`
+
+ව්‍යවසායකයන් 10,000ක් ගම් බිත්තර නිෂ්පාදනයට යොමු කර, එමගින් අඩු ආදායම්ලාභී පවුල් ලක්ෂ 12ක් සවිබල ගැන්වීමේ වැඩසටහනක් රජය ආරම්භ කර තිබේ.
+
+සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව සහ සමෘද්ධි සංවර්ධන දෙපාර්තමේන්තුව එක්ව මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කරයි.
+
+එම වැඩසටහනේ සමාරම්භක උත්සවය ඊයේ (08දා) බත්තරමුල්ල සෙත්සිරිපායේ පිහිටි එම අමාත්‍යාංශයේ දී පැවැත්විය.
+
+◼️
+
+[Data](articles/d568d671.json)
+
+---
+
 ### Mystery surrounds inmate deaths at Magazine Prison
 
 *2024-05-08 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mystery-surrounds-inmate-deaths-at-Magazine-Prison/108-282180) · `en`
@@ -209,6 +233,26 @@ Subsequently, two of them succumbed to the illness, while another remains in a c
 [Data](articles/4320dab4.json)
 
 [Extended Data](ext_articles/4320dab4.ext.json)
+
+---
+
+### මිනිස්සු කියන්නේ මැතිවරණ නොතියා තවත් වසරක් දෙකක් මෙහෙමම යමු කියල
+
+*2024-05-08 18:49:54* · [`adalk`](https://www.ada.lk/breaking_news/මිනිස්සු-කියන්නේ-මැතිවරණ-නොතියා-තවත්-වසරක්-දෙකක්-මෙහෙමම-යමු-කියල/11-409508) · `si`
+
+තමන් බලයට පැමිණිය හොත් තම පාක්ෂිකයන්ට යම් අධිකරණ බලයක් ලබාදෙන බවට ජනතා විමුක්ති පෙරමුණ කරනු ලබන ප්‍රකාශයෙන් තහවුරුවන්නේ කැලෑ නීතිය යලි ගම්වල ස්ථාපිත කිරීමට ඔවුන් සූදානමින් සිටින බව යැයි නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා පවස්න්නේ 88/89 යුගයේදී මිනිසුන් මරමින් ජ.වි.පේ ගම්වල කැලෑ නීතිය ක්‍රියාත්මක කළ අයුරු ජනතාවට හොඳට මතකයේ ඇති බවයි.
+
+අන්තවාදී කණ්ඩායම් වලට බලය ගියහොත් නැවත එවැනි භයංකාර යුගයක් බිහිවවු ඇති බැවින් ජනතා විමුක්ති පෙරමුණේ මෙම කතාව කිසි ලෙසකින්වත් විහිළුවට නොගත යුතු බවද අමාත්‍යවරයා මෙහිදී අවධාරණය කළේය.
+
+" අපි මිනිස්සු ගැන හිතල වැඩ කරන කොට අපේ විරුද්ධවාදීන් තමන්ගේ න්‍යාය පත්‍රය ක්‍රියාත්මක කළා. ඔවුන් විදේශවලට ගිහිල්ල කිව්වා ලංකාවට සල්ලි එවන්න එපා කියලා. සංචාරක ව්‍යාපාරය කඩා දමන්න කටයුතු කළා. විශේෂයෙන්ම සංචාරකයන් අරගල තියෙන, කෝලහාල තියෙන රටවලට එන්න කැමති නෑ.
+
+ඊනියා අරගලය නිසා සංචාරක ව්‍යාපාරය සම්පූර්ණයෙන් කඩා වැටුණා. මිනිස්සු සාමකාමී අරගලයක් පටන් ගත්තා. නමුත් විපක්ෂය ඒකෙන් අයුතු ප්‍රයෝජන ගත්තා.
+
+...
+
+[Data](articles/41c06120.json)
 
 ---
 
@@ -2237,43 +2281,5 @@ Mr.. Rajapakse is said to have advised MPs to hold any election, no matter what 
 [Data](articles/4eb56dc8.json)
 
 [Extended Data](ext_articles/4eb56dc8.ext.json)
-
----
-
-### Programme initiated to manufacture artificial limbs
-
-*2024-05-08 10:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Programme-initiated-to-manufacture-artificial-limbs/110-282149) · `en`
-
-The Sri Lanka Army, in bilateral cooperation with the High Commission of India in Sri Lanka, yesterday initiated a programme to manufacture artificial limbs at the Ranaviru Sevana, Ragama.
-
-This endeavour not only signifies the enduring bond between Sri Lanka and India but also reflects a collective commitment to support those who have made sacrifices for the nation's security and are now confronting challenges due to disabilities.
-
-◼️
-
-[Data](articles/43f465f2.json)
-
-[Extended Data](ext_articles/43f465f2.ext.json)
-
----
-
-### Appointment of CIABOC Director General challenged in SC
-
-*2024-05-08 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Appointment-of-CIABOC-Director-General-challenged-in-SC/108-282148) · `en`
-
-Colombo, May 8 (Daily Mirror) - Transparency International Sri Lanka (TISL) has filed a Fundamental Rights Petition in the Supreme Court, challenging the appointment of Kanishka Wijeratne as the Director General (DG) of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-Mr. Wijeratne, who had previously served as the DG of CIABOC since January 2020, was reappointed to the same position on April 2, 2024, following the enactment of the new Anti-Corruption Act.
-
-The TISL's petition contends that Kanishka Wijeratne's appointment violates provisions of the Anti-Corruption Act, lacks procedural integrity and transparency.
-
-The TISL requests the Supreme Court to nullify the appointment or alternatively direct the authorities to remove Mr. Wijeratne and appoint a new DG in accordance with the law.
-
-The petition further argues that he does not meet all statutory requirements and criteria for the
-
-◼️
-
-[Data](articles/37fd64a6.json)
-
-[Extended Data](ext_articles/37fd64a6.ext.json)
 
 ---

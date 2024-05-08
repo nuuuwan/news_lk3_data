@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 12:18:17**
+As of **2024-05-08 12:33:34**
 
 ## Newspaper Stats
 
-*Scraped **22,695** Articles*
+*Scraped **22,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,913
 tamilmirrorlk | 2,652
-adaderanalk | 2,659
+adaderanalk | 2,660
 virakesarilk | 3,387
 dailymirrorlk | 3,561
 adaderanasinhalalk | 3,634
@@ -26,27 +26,51 @@ adaderanasinhalalk | 3,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,692 (100.0%) of 22,695 articles have been extended.
+22,695 (100.0%) of 22,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### යුක්‍රේන ජනපති ඝාතන සැලසුමක් හෙළිවෙයි‍
+### Man found dead in hotel swimming pool
+
+*2024-05-08 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99076/man-found-dead-in-hotel-swimming-pool-) · `en`
+
+An employee of a hotel in the Labugollawatta area of Kadigamuwa in the Rambukkana police division has reportedly died after falling into the hotel’s swimming pool.
+
+Rambukkana Police have initiated an investigation upon receiving information in this regard.
+
+The deceased has been identified as a 37-year-old resident of Panwila area, according to police.
+
+The body of the deceased has been placed in the Peradeniya Hospital.
+
+◼️
+
+[Data](articles/13e0d539.json)
+
+---
+
+### A plan of Ukrainian President Mahinda Rajapaksa reveals
 
 *2024-05-08 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196397) · `si`
 
-යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි ඝාතනය කිරීමට රුසියාව උත්සාහ කර ඇතැයි යුක්‍රේන ආරක්ෂක සේවාව චෝදනා කරයි.
+Ukrainian President Mahinda Rajapaksa's plan reveals Russia attempted to assassinate President Vlodimir Selenski. The Ukrainian government arrested two commanders of the protection unit involved in the conspiracy, alleging they served in Russia. A secret operation was also revealed to identify among Celenceky's bodyguards.
 
-අදාළ කුමන්ත්‍රණයට සම්බන්ධ බවට සැකපිට යුක්‍රේන රජය ආරක්ෂාකිරීමේ ඒකකයේ අණදෙන නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි ද සඳහන්ය.
+🟩
 
-ඔවුන් චෝදනා කරන්නේ එම පුද්ගලයින් රුසියාවේ චර පුරුෂයින් ලෙස කටයුතු කර ඇති බවය.
+Ukrainian defense service has accused Russia has attempted to assassinate President Vlodimir Selenski.
 
-එම පුද්ගලයින් සෙලෙන්ස්කිගේ ආරක්ෂකයින් අතරින් ඔහු ඝාතනය කිරීමට කැමති අයෙක් සොයා රහසිගත මෙහෙයුමක් කර ඇතැයි ද අනාවරණ කර තිබේ.
+The Ukrainian government has arrested two commands of the protection unit of protecting the relevant conspiracy.
+
+They allege that those people have served as men in Russia.
+
+They have also revealed a secret operation to find out among the Celenceky's bodyguards.
 
 ◼️
 
 [Data](articles/7bba8db9.json)
+
+[Extended Data](ext_articles/7bba8db9.ext.json)
 
 ---
 
@@ -70,29 +94,39 @@ The tournament was organized by the Ministry of Sports, Sri Lanka Army Motor Spo
 
 [Data](articles/1903e03d.json)
 
+[Extended Data](ext_articles/1903e03d.ext.json)
+
 ---
 
-### ඌරු මස් සහිත බස් පාර්සලය කෑ රැඳවියන් දෙදෙනෙකු මරුට
+### Two detainees killed in bus parcel with pork
 
 *2024-05-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196396) · `si`
 
-ඌරුමස් සහිත ව්‍යංජනයක් ආහාරයට ගැනීමෙන් මරණයට පත්වු බන්ධනාගාර රැඳවියන් දෙදෙනාගේ මරණ පරීක්ෂණය සම්බන්ධයෙන් අධිකරණ වෛද්‍ය නිලධාරීවරයා විසින් විවෘත තීන්දුවක් ලබාදී තිබේ.
+Two detainees died after consuming pork in a parcel. Their bodies are under investigation at the Colombo Medical Research Institute. Two people from Borella and Dehiwala were arrested for smuggling pork into the Magazine Prison. The incident is under investigation by the Department of Prisons.
 
-ඒ අනුව ඔවුන් දෙදෙනාගේ ශරීර කොටස් වැඩිදුර පරීක්ෂණ සඳහා කොළඹ වෛද්‍ය පර්යේෂණ ආයතනය වෙත යොමුකරන ලෙස දැනුම් දී ඇත.
+🟩
 
-බොරැල්ල හා දෙහිවල යන ප්‍රදේශවල පදිංචි පුද්ගලයින් දෙදෙනෙකු අයිස් මත්ද්‍රව්‍ය ජාවාරම් කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන මැගසින් බන්ධනාගාරයේ රඳවා තබා තිබිණි.
+The Judicial Medical Officer has given an open decision regarding the death inspection of the two prison inmates.
 
-පෙරේදා දිනයේ මෙම එක් රැඳවියෙකුගේ නිවසේ සකස් කළ ඌරුමස් සහිත බත් පාර්සලයක් ඥාතීන් විසින් රැගෙනවිත් ඇති බව සඳහන්ය.
+Accordingly, their body parts have been made to refer to the Colombo Medical Research Institute for further investigations.
 
-එම බත් පාර්සලය රැඳවියන් 15 දෙනෙකු පමණ ආහාරයට ගෙන ඇති අතර එහිදි ඇතිවු ආසාත්මිකතාවක් හේතුවෙන් රැඳවියන් තිදෙනෙකු කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+Two people living in Borella and Dehiwala areas were arrested and detained in the Magazine Prison.
 
-මෙහිදි රැඳවියන් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව ඇති අතර බරපතළ තත්ත්වයේ පසුවන තවත් රැඳවියෙකු මේ වන විටත් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව සඳහන්ය.
+Relatives were taken by relatives with pork parks with pork prepared at the home of this inmate.
 
-මියගිය පුද්ගලයින් දෙදෙනාගේ හදිසි මරණ පරීක්ෂණ කටයුතු ඊයේ (07) දිනයේ දී සිදුකර ඇති අතර එහිදි මෙම තීන්දුව ලබාදී තිබේ.
+The rice parcel has eaten about 15 inmates and three inmates have been admitted to the Colombo National Hospital due to an alleged.
 
-...
+Two detainees were killed and another inmate is already receiving treatment at the Colombo National Hospital.
+
+The deceased has been carried out yesterday (07) and this decision was issued.
+
+However, an inquiry will be conducted at the Department of Prisons regarding the incident.
+
+◼️
 
 [Data](articles/b0148004.json)
+
+[Extended Data](ext_articles/b0148004.ext.json)
 
 ---
 
@@ -2233,25 +2267,5 @@ Responding to media reports that a leading tyre manufacturer is facing legal act
 [Data](articles/92c6f7b0.json)
 
 [Extended Data](ext_articles/92c6f7b0.ext.json)
-
----
-
-### The man who was cut off in Jaffna falls and dies!
-
-*2024-05-07 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/182927) · `ta`
-
-Muthu Sivalingam, a 61-year-old retired university officer from Jaffna, died after falling while cutting down a temple in Budhur.
-
-🟩
-
-The man who was cutting down the temple in the temple environment in Budhur, Jaffna has fallen and died.
-
-The deceased is Muthu Sivalingam, a 61 -year -old retired university officer who lives on Tirunelveli Kalasalai road.
-
-◼️
-
-[Data](articles/af20529c.json)
-
-[Extended Data](ext_articles/af20529c.ext.json)
 
 ---

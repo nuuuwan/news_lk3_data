@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 01:03:22**
+As of **2024-05-09 01:18:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,805 (100.0%) of 22,806 articles have been extended.
+22,806 (100.0%) of 22,806 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Minister concerned is an unelected parliamentarian whose name has figured in
 ...
 
 [Data](articles/e400241b.json)
+
+[Extended Data](ext_articles/e400241b.ext.json)
 
 ---
 

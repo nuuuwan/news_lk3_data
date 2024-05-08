@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 16:33:44**
+As of **2024-05-08 16:50:45**
 
 ## Newspaper Stats
 
-*Scraped **22,739** Articles*
+*Scraped **22,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,920
+adalk | 1,921
 tamilmirrorlk | 2,659
 adaderanalk | 2,669
 virakesarilk | 3,388
-dailymirrorlk | 3,571
-adaderanasinhalalk | 3,640
+dailymirrorlk | 3,572
+adaderanasinhalalk | 3,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,738 (100.0%) of 22,739 articles have been extended.
+22,739 (100.0%) of 22,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### නව ග්‍රාම නිලධාරීන් 2100කට පත්වීම්
+
+*2024-05-08 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196404) · `si`
+
+නව ග්‍රාම නිලධාරීන් ලෙස බඳවාගත් 2100ක් සඳහා පත්වීම් ලිපි ප්‍රදානය අද සිදුකර තිබේ.
+
+අද (08) පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති උත්සවයකදී මෙම පත්වීම් ලිපි ප්‍රදානය සිදුකළ බව ජනාධිපති මාධ්‍ය ඒකකය පවසයි.
+
+විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් මස 02 වනදා පවත්වන ලද ග්‍රාම නිලධාරී විභාගයේ ප්‍රතිඵල අනුව ප්‍රාදේශීය ලේකම් කොට්ඨාස මට්ටමින් වැඩිම ලකුණු ලබාගත් අයැදුම්කරුවන් අතරින් 2100 දෙනකු වෙනුවෙන් මෙසේ ග්‍රාම නිලධාරී පත්වීම් ප්‍රදානය සිදුකෙරිණි.
+
+එහිදී අදහස් දක්වමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කර ඇත්තේ කෘෂිකර්මාන්තය දියුණු නොකොට ග්‍රාමීය ආර්ථිකය ශක්තිමත් කළ නොහැකි බවය.
+
+එබැවින් රජයේ කෘෂි නවීකරණ වැඩසටහන ඇතුළු ග්‍රාමීය ආර්ථිකය දියුණු කිරීමට රජය ආරම්භ කළ සියලු වැඩසටහන් සාර්ථක කර ගැනීමට බිම් මට්ටමේ රාජ්‍ය නිලධාරීන්ගේ කැපවීම අත්‍යාවශ්‍ය බවද එහිදී ජනාධිපතිවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/330f4d6a.json)
+
+---
 
 ### Youth killed in motorcycle accident in Kahawatta
 
@@ -49,6 +69,26 @@ The body of the deceased, a 19-year-old resident of the Wadakada area, has been 
 ◼️
 
 [Data](articles/4db35aec.json)
+
+[Extended Data](ext_articles/4db35aec.ext.json)
+
+---
+
+### Medawachchiya OIC remanded over lorry driver losing testicle after assault
+
+*2024-05-08 16:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Medawachchiya-OIC-remanded-over-lorry-driver-losing-testicle-after-assault/108-282178) · `en`
+
+The OIC of the Anti-Vice Unit of the Medawachchiya police, who had been arrested by the CID for allegedly assaulting a young truck driver and which resulted in a surgery to remove his testicle, was produced before the Medawachchiya Magistrate Nimesha Dharmadasa and remanded till May 15.
+
+The magistrate ordered the Anuradhapura Prison Superintendent to produce the suspect for an identification parade on that date. His counsel, Attorney-at-Law Sajeewa Gunaratne’s request to cancel the identification parade was rejected.
+
+Attorney-at-Law Bhagya Sri Herath moved for release on bail, subject to any conditions, the two sergeants Rohana Samantha Senanayaka and S. Kapila Jagath Seneviratne of the traffic branch of the Medawachchiya police who had been remanded over the same incident.
+
+However, the magistrate, who refused the lawyer’s request, further remanded them till May 15.
+
+...
+
+[Data](articles/5f203030.json)
 
 ---
 
@@ -343,6 +383,24 @@ In 2023, 791 employees were recruited to SriLankan Airlines, which was the large
 [Data](articles/13a44237.json)
 
 [Extended Data](ext_articles/13a44237.ext.json)
+
+---
+
+### ඩයනාගේ පුටුව මුජිබර්ට
+
+*2024-05-08 14:09:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-පුටුව-මුජිබර්ට/11-409500) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රි ඩයනා ගමගේ මහත්මියගේ ධුරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය ලබාදුන් තින්දුව අනුව හිස්වූ මන්ත්‍රීධුරය ස﻿ඳහා සමගි ජන බලවේගයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් මහතා පත්කිරිමට එම පක්ෂය තිරණය කර ඇති බව වාර්තා වෙයි.
+
+ඩයනා ගමගේ මහත්මිය ආණ්ඩුවට එක්වුවත් ඇය සමගි ජන බලවේගයේ ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට පිවිසි මන්ත්‍රීවරියකි.
+
+මුජිබර් රහුමාන් මහතා මෙම පාර්ලිමේන්තුවට තේරි පත්වුවත් ඔහු කොළඹ නගරාධිපති ධුරය වෙනුවෙන් තරග කිරිමට පාර්ලමේන්තුවෙන් අස්විය.
+
+ඒ අනුව සජබයේ හිස්ව ඇති ජාතික ලැයිස්තු මන්ත්‍රීධුරය ස﻿ඳහා මෙසේ මුජිබර් රහුමාන් මන්ත්‍රිවරයා පත්කිරිමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/fbde7d71.json)
 
 ---
 
@@ -2251,79 +2309,5 @@ Training Center with foreign investment will be set up to provide an increase in
 [Data](articles/4ad41219.json)
 
 [Extended Data](ext_articles/4ad41219.ext.json)
-
----
-
-### Introduced by the President's Fund at the instructions of the President
-
-*2024-05-08 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/182935) · `ta`
-
-The President's Fund, under President Ranil Wickremesinghe, has launched two new scholarship projects. These include a program for female Bikkuni beam students and another for other students, with 5000 poor students receiving scholarships. The scholarships will be distributed in two phases, with the second phase starting in May 2024. Applications and further details can be found on the official website and Facebook page.
-
-🟩
-
-The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
-
-Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
-
-The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
-
-The two-phase scholarship segments will be given to 5000 poor students who will be given 3000/- under the second phase of May 2024 to 12 months and 6,000/- under the second phase.
-
-Further details and application can be obtained on the official website www.presidesfund.gov.lk can be obtained on the official website and www.facebook.com/president.fund official Face Book page.
-
-...
-
-[Data](articles/eea22eac.json)
-
-[Extended Data](ext_articles/eea22eac.ext.json)
-
----
-
-### US $ 100 million to modernize agriculture
-
-*2024-05-08 02:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182934) · `ta`
-
-A $100M MoU signed for modernizing agriculture in Sri Lanka, aiming to increase yields and incomes. The project, backed by the Climate Risk Forum and NATIVA Capital, will benefit 15,000 farmers in Anuradhapura.
-
-🟩
-
-A Memorandum of Understanding (MoU) to work in an agrarian and forest protection program in Sri Lanka was signed on Tuesday (07).
-
-President's Senior Advisor to Climate Change Secretariat, Ruwan Wijewardena on Climate Change, Carlos Gomas on behalf of its General Secretary Mohamed Nasit on behalf of the Climate Risk Forum (CVF) and its Chief Executive Officer on behalf of the NATIVA Capital Institute of Portugal.
-
-The agreement is aimed at improving the agricultural farming of rural communities in Sri Lanka by introducing upgraded and sustainable agricultural systems with the aim of increasing agricultural yields and farmers' incomes.. Many agricultural lands in Sri Lanka are currently small. Therefore, they suffer from low yield and low income.
-
-...
-
-[Data](articles/3da1190b.json)
-
-[Extended Data](ext_articles/3da1190b.ext.json)
-
----
-
-### Opposition Leader Amendment to suspend Parade Act for two years
-
-*2024-05-08 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182933) · `ta`
-
-Opposition Leader Sajith Premadasa's amendment to suspend the Parade Act for two years was defeated in Parliament, despite proposing to extend the suspension until December 15, 2026. The amendment, aimed at halting legal action against small and medium businesses for loan repayments, was rejected by 25 votes.
-
-🟩
-
-The amendment by the Opposition Leader of the Opposition to the Amendment Bill (Special arrangements) (Special Provisions) Bill was defeated in the House with 25 additional votes.
-
-The debate on the Bill (Amendment) Bill was held in Parliament on Tuesday (7). The ruling and opposition members addressed the amendment.
-
-In particular, the bank has taken steps to suspend the legal action that small and medium workers fails to repay the loan received under the Parade Act until December 15.
-
-When the Deputy Speaker, who chaired the council to amend the bill in the committee, was chaired by the Speaker of the House,
-
-Opposition Leader Sajith Premadasa proposed amendments to the amendment to the amendment until December 15, 2026.. However, the amendment can be accepted in the present legislation, but the amendment can be made in the future, ”said the Chief Minister of the Council Susil Premajayantha.
-
-...
-
-[Data](articles/e56ff2bd.json)
-
-[Extended Data](ext_articles/e56ff2bd.ext.json)
 
 ---

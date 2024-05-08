@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 12:53:12**
+As of **2024-05-08 13:03:06**
 
 ## Newspaper Stats
 
-*Scraped **22,699** Articles*
+*Scraped **22,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,914
-tamilmirrorlk | 2,652
+adalk | 1,915
+tamilmirrorlk | 2,654
 adaderanalk | 2,661
 virakesarilk | 3,387
-dailymirrorlk | 3,561
+dailymirrorlk | 3,564
 adaderanasinhalalk | 3,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,696 (100.0%) of 22,699 articles have been extended.
+22,699 (100.0%) of 22,705 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,78 @@ The body of the deceased has been placed in the mortuary of Elpitiya Hospital fo
 
 [Data](articles/0ddc51c7.json)
 
+[Extended Data](ext_articles/0ddc51c7.ext.json)
+
+---
+
+### Australia raises minimum savings for student visa, warns on fake recruitment
+
+*2024-05-08 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Australia-raises-minimum-savings-for-student-visa-warns-on-fake-recruitment/107-282168) · `en`
+
+SYDNEY, May 8 (Reuters) - Australia said on Wednesday it would raise the amount of savings international students will need to get a visa and warned several colleges of fraudulent student recruitment practices, as part of efforts to rein in record migration.
+
+From Friday, international students must show proof of savings of at least A$29,710 ($19,576) to get their visa, the second increase in about seven months. It was raised to A$24,505 from A$21,041 in October.
+
+The moves follow a raft of actions in recent months to tighten the student visa rules as the lifting of COVID-19 restrictions in 2022 triggered a sudden influx of migrants, exacerbating pressure on an already tight rental market.
+
+English language requirements for student visas were increased in March and the government has been taking steps to end settings that allowed students to prolong their stay.
+
+...
+
+[Data](articles/31b6d5f6.json)
+
+---
+
+### தாதியர்களின் ஓய்வு பெறும் வயதெல்லையில் மாற்றம்
+
+*2024-05-08 12:25:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாதியர்களின்-ஓய்வு-பெறும்-வயதெல்லையில்-மாற்றம்/175-336960) · `ta`
+
+தாதியர் மற்றும் பல சுகாதார சேவை பணியாளர்களின் ஓய்வுபெறும் வயது 61 ஆக அதிகரிக்கப்படும் என சுகாதார அமைச்சர் ரமேஷ் பத்திரன தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர் காமினி வலேபொட எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே சுகாதார அமைச்சர் ரமேஷ் பத்திரன பாராளுமன்றத்தில் இதனைத் தெரிவித்தார்.
+
+ஓய்வுபெறும் வயதை 61 வயதிற்கு மேல் நீடிக்குமாறு கோரிக்கைகள் முன்வைக்கப்பட்ட போதிலும் அவ்வாறான நீடிப்பு வழங்கப்பட மாட்டாது என சுகாதார அமைச்சர் தெரிவித்துள்ளார்.
+
+ஓய்வுபெறும் வயதை 61 ஆக அதிகரிப்பதற்கான அமைச்சரவைப் பத்திரம் அமைச்சரவைக்கு சமர்ப்பிக்கப்பட்டுள்ளதாக அமைச்சர் பத்திரன தெரிவித்தார்.
+
+இதேவேளை, சுகாதார சேவைகளுக்கு புதிதாக 3,000 தாதியர்களை இணைத்துக் கொள்வதற்கான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும், தற்போதுள்ள 1,000 வெற்றிடங்களை நிரப்பவுள்ளதாகவும் அமைச்சர் கூறினார்.
+
+◼️
+
+[Data](articles/8cd7379b.json)
+
+---
+
+### நிகழ்நிலைக் காப்புச் சட்டத்தின் கீழ் வழக்குத் தாக்கல்
+
+*2024-05-08 12:19:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலைக்-காப்புச்-சட்டத்தின்-கீழ்-வழக்குத்-தாக்கல்/175-336957) · `ta`
+
+இலங்கை இராணுவத் தளபதி லெப்டினன்ட் ஜெனரல் விக்கும் லியனகே தமக்கு எதிராக சமூக ஊடகங்களில் அவதூறான காணொளிகளைப் பகிர்ந்தமைக்காக தனிநபர் ஒருவருக்கும் இரண்டு அமெரிக்க நிறுவனங்களுக்கும் எதிராக கொழும்பு பிரதான நீதவான் நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்துள்ளார்.
+
+நிகழ்நிலை பாதுகாப்புச் சட்டத்தின் விதிகளின் கீழ் இராணுவத் தளபதியினால் நேற்று செவ்வாய்க்கிழமை (மே 07) நீதிமன்றத்தில் வழக்குத் தாக்கல் செய்யப்பட்டது.
+
+வெளிநாட்டில் வசிக்கும் இலங்கை வம்சாவளியைச் சேர்ந்த துஷார சாலிய ரணவக்க மற்றும் அமெரிக்க பன்னாட்டு நிறுவனமான கூகுள் மற்றும் அதன் நிகழ்நிலை காணொளி பகிர்வு தளமான யூடியூப் ஆகியோர் இதற்கு பொறுப்புக்கூற வேண்டியவர்களாக பெயரிடப்பட்டுள்ளனர்.
+
+தனது வழக்கைத் தாக்கல் செய்த இராணுவத் தளபதி, பிரதிவாதிகளை நீதிமன்றத்தில் ஆஜராகுமாறு நோட்டீஸ் அனுப்புமாறும், அவதூறான வீடியோக்கள் சமூக ஊடகங்களில் மேலும் பரப்பப்படுவதைத் தடுக்க உத்தரவு பிறப்பிக்குமாறும் நீதிமன்றத்திடம் கோரியுள்ளார்.
+
+◼️
+
+[Data](articles/9936e47f.json)
+
+---
+
+### Emirates reaffirms strategic cooperation with SLTPB
+
+*2024-05-08 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Emirates-reaffirms-strategic-cooperation-with-SLTPB/108-282165) · `en`
+
+Underscoring Emirates’ commitment to boost tourism inflows across its network, the airline has reaffirmed its strategic cooperation with Sri Lanka Tourism Promotion Bureau.
+
+The MoU was signed by Ahmed Khoory, Emirates’ Senior Vice President, Commercial West Asia & Indian Ocean, and Chalaka Gajabahu, Chairman, Sri Lanka Tourism Promotion Bureau, in the presence of Harin Fernando, Minister of Sports and Youth Affairs of Sri Lanka and Nabil Sultan, Emirates’ Executive Vice President, Passenger Sales and Country Management.
+
+...
+
+[Data](articles/d2f22223.json)
+
 ---
 
 ### Man found dead in hotel swimming pool
@@ -67,6 +139,26 @@ The body of the deceased has been placed in the Peradeniya Hospital.
 [Data](articles/13e0d539.json)
 
 [Extended Data](ext_articles/13e0d539.ext.json)
+
+---
+
+### Mujibur Rahman likely to replace Diana Gamage?
+
+*2024-05-08 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-Rahman-likely-to-replace-Diana-Gamage/108-282159) · `en`
+
+Parliament, May 8, (Daily Mirror) - The Samagi Jana Balawegaya (SJB) will hold a discussion shortly to decide on who will fill the national list slot that has fallen vacant as a result of the Supreme Court decision that Diana Gamage cannot function as an MP as she is not a citizen of Sri Lanka, party General Secretary Ranjith Madduma Bandara said today.
+
+“We will meet shortly to decide on the matter,” he told the Daily Mirror.
+
+“Mujibur Rahman lost his parliamentary seat because of the decision made by us to field him as the SJB mayoral candidate for the Colombo Municipal Council at the local government polls scheduled to be held earlier. We will consider this fact when deciding on who will replace Diana Gamage,” he added.
+
+Also, he said the Supreme Court had delivered a landmark judgment with regard to State Minister Gamage.
+
+MP Nalin Bandara who informed Parliament on the judgment thanked the Supreme Court.
+
+◼️
+
+[Data](articles/19dcee6f.json)
 
 ---
 
@@ -168,25 +260,33 @@ Defence Secretary, General (Rtd) Kamal Gunaratne emphasized that the operation w
 
 ---
 
-### වසර එකසිය පණහකට වඩා ඉපැරණි තානායමට සිදුව ඇතිදේ
+### There is more than one hundred and frying
 
 *2024-05-08 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-එකසිය-පණහකට-වඩා-ඉපැරණි-තානායමට-සිදුව-ඇතිදේ/11-409495) · `si`
 
-බ්‍රිතාන්‍ය පාලකයින් විසින් මීට වසර එකසිය පණහකට පමණ ඉහතදී ඉඳිකරන ලද පෞරාණික වටිනාකමින් යුත් බිබිල නගර මධ්‍යයේ පිහිටි තානායම මේවන විට කැළෑවට යටවී විනාශවෙමින් පවතී.
+The ancient Ceylon Tourist Board building in Bibile, once a symbol of British colonial rule, is now in ruins. Despite its historical significance, it's been neglected, leading to the loss of valuable artifacts. The land, now owned by the Sri Lanka Tourist Board, remains unused.
 
-දැනට ලංකා සංචාරක මණ්ඩලයට අයත් මෙම ගොඩනැඟිල්ල කැළෑවට යටවී විනාශවෙමින් පවතින අතර ඇතැම් පුද්ගලයින් විවිධ විෂමාචාර ක්‍රියාවන්ට මෙම ගොඩනැඟිල්ල යොදාගන්නා බව නගරවාසීහු පවසති.
+🟩
 
-බ්‍රිතාන්‍ය පාලන සමයේ ආණ්ඩුකාරවරුන් ඇතුළු උසස් නිලධාරීන් වෙල්ලස්ස ප්‍රදේශයට රාජකාරි කටයුතු සඳහා පැමිණි අවස්ථා වලදී නවාතැන්ගෙන ඇත්තේ මෙම තානායමේය.
+The Religion in the heart of the ancient values that have been incurred by British rulers has been destroyed and the construct of the ancient valuable biF.
 
-1948 පසුව රජයේ පාලනයට නතුවූ මෙම තානායම ස්වදේශ කටයුතු අමාත්‍යංශය යටතේ පවත්වාගෙන ගිය අතර වරින්වර පුද්ගලික අංශයට බදු මත ලබාදී තිබිණි.
+The building belonging to the Ceylon Tourist Board is being destroyed and some people use this building for various misconduct.
 
-පුද්ගලික භාරකරුවන් තානායම් පවත්වාගෙන ගිය සමයේ එහි තිබූ වටිනා පෞරාණික භාණ්ඩ අතුරුදහන්වී තිබේ.
+The innings have been accommodated when the Governor, including the Governor of the British rule, had accommodated in the Wellassa area.
 
-බදුකරුවන් ගොඩනැඟිල්ල නඩත්තුනොකිරීම නිසා එහි කොටස් විනාශවීම නිසා මීට වසර 10 පමණ ඉහතදී එය අතහැර දමාගොස් ඇත.
+After 1948, the innings were maintained under the Ministry of Home Affairs and the private sector was given to the private sector from time to time.
 
-...
+During the season of private guardians, the precious ancient goods disappeared.
+
+Taxmen to maintain the building because of the destruction of the building have been abandoned about 10 years ago.
+
+Bibile Divisional Secretary Kapila Bandara says that this is currently owned by the Sri Lanka Tourist Board Kapila Bandara said the land was held in the heart of Bibile, but no steps have been taken to use the land for the government.. (Ij)
+
+◼️
 
 [Data](articles/53d281fa.json)
+
+[Extended Data](ext_articles/53d281fa.ext.json)
 
 ---
 
@@ -205,6 +305,22 @@ The Supreme Court issued a waiver command to abolish the post of Minister Diyana
 [Data](articles/4eba041b.json)
 
 [Extended Data](ext_articles/4eba041b.ext.json)
+
+---
+
+### ඇමරිකාවේ යුද හමුදාවේ හිටපු ජ්‍යෙෂ්ඨ නිලධාරිනියක් ලංකාවේ පාරිම්පරික වෙදකම ගැන මවිත වෙයි
+
+*2024-05-08 11:22:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇමරිකාවේ-යුද-හමුදාවේ-හිටපු-ජ්‍යෙෂ්ඨ-නිලධාරිනියක්-ලංකාවේ-පාරිම්පරික-වෙදකම-ගැන-මවිත-වෙයි/11-409493) · `si`
+
+වසර පහකට අධික කාලයක් ඇමෙරිකාවේ සහ විවිධ රටවල විශේෂඥ වෛද්‍යවරුන්ගෙන් ප්‍රතිකාර ගත්තද තම කොදු ඇට පෙළේ සහ කොන්දේ ආබාධය  සුව නොවීම නිසාවෙන් ඇමරිකාවේ යුද හමුදාවේ හිටපු ජ්‍යෙෂ්ඨ නිලධාරිනියක්  ශ්‍රී ලංකාවේ  පාපාරම්පරිකයන් හොරිවිල  වෙද මැදුරට පැමිණ ප්‍රතිකාර ලබා සුව වන අයුරු අත්විද පුදුමයට පත්ව සිටින බව පැවසුවාය .
+
+මෙරට දේශීය පාරම්පරික වෙදකම පිළිබඳව තමන් මවිතයට පත්ව සිටින බව ඇය සඳහන් කළාය.
+
+ඇමෙරිකාවේ යුද හමුදාවේ හිටපු ඉහල නිලධාරිනියක වන ESCERMZA  මහත්මිය හලාවත  ප්‍රදේශයේ පදිංචි   කාන්තාවක් සමඟින් සමීපව ඇසුරුකම් පැවැත්වීමත් සමඟින් හොරිවිල සාන්ත සෙනවිරත්නා  මහතා පිළිබඳ youtube නාලිකාවක තිබුණු වැඩසටහනක් සහ මෙරට විද්‍යුත් හා මුද්‍රිත මාධ්‍ය මගින් ඒ මහතා පිළිබඳව සිදුකරන ලද වැඩසටහන් කිහිපයක් මෙම නිලධාරිනියට පෙන්වා හබරණ පලුගස් වැව  හොරිවිල වෙද මැදුරට ඇමෙරිකාවේ සිට පැමිණ  ප්‍රතිකාර ලබා ගනිමින් සිටියි .
+
+...
+
+[Data](articles/fc017f7f.json)
 
 ---
 
@@ -1306,23 +1422,31 @@ Wijerathne has functioned in the same role before, but this new appointment is u
 
 ---
 
-### ඩයනා ගමගේ: මන්ත්‍රී ධුරය දැරීම අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+### Diana Gamage: The Supreme Court is a decision abolished MP
 
 *2024-05-08 05:48:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cne9r73pgldo) · `si`
 
-රාජ්‍ය ඇමතිනී ඩයනා ගමගේ ට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 8 වැනිද) තීන්දු කළේය.
+The Supreme Court ruled that State Minister Diana Gamage lacks legitimate qualifications to sit in Sri Lanka's parliament due to her British citizenship and failure to prove Sri Lankan citizenship. This decision was made after a petition by social activist Ashala Herath and was based on the British passport Gamage used to enter Sri Lanka.
 
-ගාමිණී අමරසේකර සහ කුමුදුනී වික්‍රමසිංහ යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව  ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනක් ද සිල්වා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරනු ලැබීය.
+🟩
 
-තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේ වග උත්තරකාර ඩයනා ගමගේ බ්‍රිතාන්‍ය විදේශ ගමන් බලපත්‍රයක් භාවිතා කරමින් ශ්‍රී ලංකාවට පැමිණ තිබෙන බව නඩු විභාගයේ ද කරුණු තහවුරු වූ  බව ය.
+The Supreme Court today (May 8) that State Minister Diana Gamage has no legitimate qualifications to sit in the parliament.
 
-එසේම ඩයනා ගමගේ ගේ ශ්‍රී ලාංකික පුරවැසිභාවය ඔප්පු කිරීමට ඇය අධිකරණය හමුවේ අසමත් වී ඇති බවත් විනිසුරුවරයා තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේය.
+Supreme Court Judge Janakaka de Silva announced the decision of the Supreme Court Justice of Gamini Amarasekera and Kumuduni Wickremasinghe.
 
-ඒ අනුව ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 89 වන වගන්තිය යටතේ ශ්‍රී  ලංකික පුරවැසිබාවය අහිමි අයෙකු මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි ක්‍රියාවක් බවත් විනිසුරුවරයා පෙන්වා දුන්නේය.
+The judge also stated that the trial was confirmed that Sri Lanka had arrived in Sri Lanka using a British passport in the Uttarakara, a British passport.
+
+She also failed to prove the Sri Lankan citizenship of Diane Gamage and stated that she failed to prove the Sri Lankan citizenship.
+
+Accordingly, the Sri Lankan citizenship is a person who has lost Sri Lankan citizenship under Article 89 of the Constitution, the judge said.
+
+Accordingly, there is no confirmation that Diana Gamage has been confirmed that there is no qualifications that she is not eligible to sit in the Parliament of Sri Lanka and said that the judge expressed his verdict.
 
 ...
 
 [Data](articles/6ae614a5.json)
+
+[Extended Data](ext_articles/6ae614a5.ext.json)
 
 ---
 
@@ -2159,113 +2283,5 @@ Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom i
 [Data](articles/22c706ea.json)
 
 [Extended Data](ext_articles/22c706ea.ext.json)
-
----
-
-### Suicide, again?
-
-*2024-05-07 23:06:32* · [`dailyftlk`](https://www.ft.lk/opinion/Suicide-again/14-761509) · `en`
-
-President Ranil Wickremesinghe expects Lankan rupee to appreciate further and reach 280 per dollar by June. Namal Karunaratna, a leading light of the NPP/JVP, states that rupee will start sliding soon, reaching 400-500 per dollar. He dismisses the rupee’s strong performance as a fluke caused by a recent spate of dollar loans.
-
-Karunaratne’s analysis is wrong. The rupee is gaining mainly due to the boom in tourism and influx of foreign remittances. As some independent analysts have pointed out, the value of the rupee could fall in the second half of the year if vehicle imports are allowed. But the rupee would plunge to the depths of Karunaratne’s expectations only if the Wickremesinghe administration makes a Gotabaya-style error.
-
-...
-
-[Data](articles/9ac4c319.json)
-
-[Extended Data](ext_articles/9ac4c319.ext.json)
-
----
-
-### Fleas dream of buying a new dog
-
-*2024-05-07 23:00:43* · [`dailyftlk`](https://www.ft.lk/columns/Fleas-dream-of-buying-a-new-dog/4-761508) · `en`
-
-Up to this day, we are nowhere near a “broad social dialogue” or a “listening campaign for an inclusive economic recovery”
-
-In the unfolding saga of our sovereign default, three ‘economists’ who aren’t even faintly associated with power politics have made candid assessments of our debt predicament.
-
-In their own inimitable fashion, they have implored that we abandon ‘reckless fantasy’ and come to grips with real, brutal truth.
-
-Quite early on, Professor Premachandra Athukorala of the Australian National University produced a study “Sovereign Debt Crisis of Sri Lanka” – its causes, policy responses and prospects with Swarnim Wagle of the UNDP regional office Asia Pacific.
-
-“Sri Lanka is in the midst of an unfolding economic crisis, the depth of which is yet to be seen,” he prophesied in August 2022.
-
-...
-
-[Data](articles/57f6be6c.json)
-
-[Extended Data](ext_articles/57f6be6c.ext.json)
-
----
-
-### Massive fire at a factory
-
-*2024-05-07 22:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிற்சாலை-ஒன்றில்-பாரிய-தீ-விபத்து/175-336921) · `ta`
-
-A massive fire at a factory in Ja-Ela and Ekala was fully extinguished by 3 fire trucks, with no casualties but significant property damage. The cause remains unknown, and police are investigating.
-
-🟩
-
-A fire broke out this evening at a factory in Ja-Ela and Ekala, police said.
-
-Police said the fire was fully controlled by 3 fire trucks.
-
-There was no casualties in this fire. But the factory's possessions have been damaged.
-
-However, the cause of the fire has not been revealed and the Ja-Ela police are conducting further investigations into the incident.. Remble
-
-◼️
-
-[Data](articles/853e550c.json)
-
-[Extended Data](ext_articles/853e550c.ext.json)
-
----
-
-### Judgment in Diana’s citizenship case to be delivered tomorrow
-
-*2024-05-07 22:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-in-Dianas-citizenship-case-to-be-delivered-tomorrow/108-282105) · `en`
-
-Colombo, May 7 (Daily Mirror) - The Supreme Court is to deliver tomorrow (8) its judgment over an appeal application filed on State Minister Diana Gamage’s parliamentary seat.
-
-This judgment pertains to an appeal petition filed by social activist Oshala Herath challenging the Court of Appeal decision to dismiss a writ petition which challenged the legality of State Minister Diana Gamage’s parliamentary seat.
-
-◼️
-
-[Data](articles/baac1ad4.json)
-
-[Extended Data](ext_articles/baac1ad4.ext.json)
-
----
-
-### Spa Ceylon’s immersive Butterfly Paradise takes flight
-
-*2024-05-07 22:16:00* · [`islandlk`](http://island.lk/spa-ceylons-immersive-butterfly-paradise-takes-flight/) · `en`
-
-Spa Ceylon, proudly unveiled a groundbreaking initiative – Sri Lanka’s first-ever immersive multi-sensory experience, “Butterfly Paradise,” at One Galle Face Mall. Coinciding with the Butterfly Avurudu Gallery from April 5th to 7th, 2024, this visionary project aimed to immerse visitors in the captivating world of butterflies while championing butterfly conservation.
-
-Sri Lanka with a rich biodiversity, is home to over 248 species of exotic butterflies, with over 76 facing extinction.
-
-...
-
-[Data](articles/a7a82c1c.json)
-
-[Extended Data](ext_articles/a7a82c1c.ext.json)
-
----
-
-### Singer Sri Lanka recognized as a Strategic Alliance Partner at Sony’s Annual BPC in Singapore
-
-*2024-05-07 22:14:00* · [`islandlk`](http://island.lk/singer-sri-lanka-recognized-as-a-strategic-alliance-partner-at-sonys-annual-bpc-in-singapore/) · `en`
-
-Celebrating a decade of fruitful collaboration, Singer, the exclusive distributor for Sony Electronics in Sri Lanka, was honoured as a Strategic Alliance Partner at Sony’s recently held Annual Business Partner Conference (BPC) in Singapore. This recognition underscored the robust partnership between the two entities and highlights Singer’s dedication to bringing cutting-edge Sony technology to Sri Lankan consumers.
-
-...
-
-[Data](articles/18474aff.json)
-
-[Extended Data](ext_articles/18474aff.ext.json)
 
 ---

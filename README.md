@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 05:03:14**
+As of **2024-05-09 05:18:31**
 
 ## Newspaper Stats
 
-*Scraped **22,819** Articles*
+*Scraped **22,820** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 199
+colombotelegraphcom | 200
 bbccomsinhala | 238
 dbsjeyarajcom | 238
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,817 (100.0%) of 22,819 articles have been extended.
+22,819 (100.0%) of 22,820 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -214,41 +214,57 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 
 ---
 
-### ’ஐ.ம.ச எம்.பிக்களுக்கு பிரச்சினை வரலாம்’
+### IMP MPs may have a problem
 
 *2024-05-09 00:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்களுக்கு-பிரச்சினை-வரலாம்/175-337000) · `ta`
 
-நாட்டின் பிரஜையல்லாத டயனா கமகேமவினால் உருவாக்கப்பட்ட ஐக்கிய மக்கள் சக்தி கட்சி சட்டப்பூர்மானதா? என்ற கேள்விகள் எழுகிறது என அமைச்சர் கஞ்சன விஜேசேகர தெரிவித்தார்.
+Minister Kanjana Wijesekera questioned the legality of the United People's Power Party, created by non-citizen Diana Kamagema, during a parliamentary debate. He warned that signing the party's nomination could lead to legal issues, especially since the party's secretary is currently facing problems. The Supreme Court's ruling on MP posts won't be challenged, but the citizenship status of the party's MP raises concerns. The minister advised caution and readiness for legal challenges, emphasizing the importance of ensuring party legality and citizenship requirements.
 
-கடந்த பொதுத் தேர்தலின் போது அக்கட்சியின் வேட்பு மனுவில் அவர் கையெழுத்திட்டிருந்தாலோ, தற்போதைய கட்சி செயலாளருடன் அவர் உடன்படிக்கையை செய்திருந்தாலோ அந்தக் கட்சியின் பாராளுமன்ற உறுப்பினர்கள் பிரச்சினைகளுக்கு முகம்கொடுக்க நேரிடலாம் என்றும் தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் புதன்கிழமை (08) நடைபெற்ற இராஜதந்திர சிறப்புரிமை மீதான விவாதத்தில் உரையாற்றுகையிலேயே அவர் இதனை கூறினார்.
+Is the United People's Power Party legal created by the country's non -citizen Diana Kamagema?Minister Kanjana Wijesekera said that the questions arise.
 
-இராஜாங்க அமைச்சர் டயனா கமகேமவின் எம்.பி பதவி தொடர்பில் உயர்நீதிமன்றத்தினால் தீர்ப்பு அறிவிக்கப்பட்டுள்ளது. அந்தத் தீர்ப்பை சவாலுக்கு உட்படுத்தப் போவதில்லை. ஆனால் இதில் பிரச்சினையொன்று உள்ளது.
+He said that if he had signed the party's nomination during the last general election, he would have to face the problems of the party if he had signed an agreement with the current party secretary.
+
+He was speaking at a debate on diplomatic privilege held in Parliament on Wednesday (08).
+
+The Supreme Court has ruled on MP's post of MP. Will not be challenging that judgment. But there is a problem.
+
+Her MP is not the citizenship of Sri Lanka. Here he is the one who registered and signed the party of many MPs in the opposition.. Is the United People's Power Legal?Problems arising. He has given the party to them. He was not a Sri Lankan citizen when he registered the party. He said that a non -belonging to this country could not register the party.
 
 ...
 
 [Data](articles/229b15a9.json)
 
+[Extended Data](ext_articles/229b15a9.ext.json)
+
 ---
 
-### ’மூன்றெழுத்து வேட்பாளர் அம்பலமானார்’
+### Exposure by a three -letter candidate
 
 *2024-05-09 00:55:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றெழுத்து-வேட்பாளர்-அம்பலமானார்/175-336999) · `ta`
 
-பாராளுமன்றத்தில் புதன்கிழமை இடம்பெற்ற விவாதத்தின் போது, ஶ்ரீலங்கா பொதுஜன பெரமுனவின் மூன்றெழுத்து ஜனாதிபதி வேட்பாளர் தொடர்பில் சுவாரசியமான சம்பாஷானை இடம்பெற்றது.
+In a Sri Lanka Parliament debate, Dayasiri Jayasekara questioned the government's fuel sale practices, accusing it of selling to private companies, including a businessman-MP, at inflated prices. He hinted at a three-letter presidential candidate's involvement, sparking a discussion about the candidate's suitability for the role.
 
-தனியார் நிறுவனங்களுக்கு எரிபொருளை கடனுக்கு விற்பனை செய்வது தொடர்பில்  அரசாங்கத்திடம் கேள்வியெழுப்பி தயாசிறி ஜயசேகர, பாராளுமன்ற உறுப்பினராக இருக்கும் வர்த்தகர் ஒருவரின் நிறுவனத்திற்கும் இவ்வாறு விற்பனை செய்யப்படுவதாக குறிப்பிட்டார்.
+🟩
 
-தனியார் நிறுவனங்களிடமிருந்து பணத்தை செலுத்தி அதிக விலைக்கு மின்சாரத்தை கொள்வனவு செய்துகொண்டு பெட்ரோலியக் கூட்டுத்தாபனத்திடம் இருந்து கடனுக்கு எரிபொருளை கொள்வனவு செய்து கடனுக்கு தனியார் நிறுவனங்களுக்கு கொடுக்கும் அரசாங்கமே இருக்கின்றது. இவ்வாறு செய்தால் நாட்டை கொண்டு செல்ல முடியுமா? வர்தகர் ஒருவர் இருக்கின்றார் அவருக்கு விமான நிலையத்தில் இடமொன்று வழங்கப்பட்டுள்ளது என்றார். .
+During the debate in Parliament on Wednesday, Sambhashan was held on the three -letter presidential candidate of the Sri Lanka PA.
 
-விமானங்களுக்கு எரிபொருளை விற்பதற்காக இடமளிக்கப்பட்டுள்ளது. அவர் பாராளுமன்ற உறுப்பினராக இருக்கும் ஒருவரே என்றார்.
+Dayasiri Jayasekara, who questioned the government about the sale of fuel to private companies, said that the company is also sold to a businessman who is a Member of Parliament.
 
-இதன்போது அவ்வாறான நபரின் பெயரை கூறுங்கள் என்று ஆளும் தரப்பில் இருந்து சிலர் கேட்டனர்.
+There is a government government to buy money from private companies and buy electricity at a higher price and buy fuel for loans from the Petroleum Corporation and give it to private companies for the loan.. Can you carry the country?There is a person who has been given a place at the airport. .
+
+Is allowed to sell fuel for aircraft. He said he was a Member of Parliament.
+
+Some people from the ruling side asked to name such a person.
+
+Dayasiri Jayasekara responded by this, you know the name. They say your presidential candidate.
 
 ...
 
 [Data](articles/b719f43d.json)
+
+[Extended Data](ext_articles/b719f43d.ext.json)
 
 ---
 
@@ -393,6 +409,18 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 [Data](articles/e3d10ae3.json)
 
 [Extended Data](ext_articles/e3d10ae3.ext.json)
+
+---
+
+### Utilizing The PIP Approach To Develop The Business Sector: A Much-Needed Policy Reform For Sri Lanka
+
+*2024-05-08 23:32:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/utilizing-the-pip-approach-to-develop-the-business-sector-a-much-needed-policy-reform-for-sri-lanka/) · `en`
+
+Throughout human civilization so far, progression has been considered one of the main aims of communities across the globe. Certainly, this will remain unchanged in the future for both advanced and progressive economies. Despite the economic model adopted, public policies play a huge role in this journey. Even though the role of the government varies among countries, the vital role of public policies remains unchanged in every nation. Therefore, public policies can be regarded as the primary tool of a government to influence all other actors in the economy.
+
+...
+
+[Data](articles/2a4cdc9b.json)
 
 ---
 
@@ -2217,33 +2245,5 @@ Thereafter, the interval of the Secretary to the Ministry of Defense is due to b
 [Data](articles/90a0375e.json)
 
 [Extended Data](ext_articles/90a0375e.ext.json)
-
----
-
-### Cabinet approval to purchase electricity from Eviani for 20 years: What happens next?
-
-*2024-05-08 12:37:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gqypk0rlgo) · `si`
-
-The Cabinet approved a 20-year electricity purchase from Eviani, aiming for 70% renewable energy by 2030. Environmental concerns raised by birds' migration were addressed, with a specialist committee assessing the impact.
-
-🟩
-
-Cabinet approval to purchase electricity from Eviani for 20 years: What happens next?
-
-The Cabinet has approved the purchase of the electricity from Indian Green Energy for the 20 years. Installation of approval is for the purchase of electricity generated by the Visiotic Power Plants of the Visitors
-
-The cabinet (May 07) approval was given to the tender to purchase electricity to power plants generated in Mannar and Pooneryn areas.
-
-The Cabinet resolution was presented by the Minister of Power and Energy Minister Kanchana Wijesekera.
-
-On March 7, 2022, the Cabinet approved to enhance the wind power stations in Mannar and Pooneryn areas.
-
-By 2030, 70% of the total electricity generation of electricity generation in the country's entire electricity generation is to generate 70% of the renewable electricity.
-
-...
-
-[Data](articles/8a80ac38.json)
-
-[Extended Data](ext_articles/8a80ac38.ext.json)
 
 ---

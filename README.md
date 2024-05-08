@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 18:52:42**
+As of **2024-05-08 19:18:42**
 
 ## Newspaper Stats
 
-*Scraped **22,764** Articles*
+*Scraped **22,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,315
 dailyftlk | 1,322
-adalk | 1,923
-tamilmirrorlk | 2,659
-adaderanalk | 2,670
-virakesarilk | 3,389
-dailymirrorlk | 3,573
-adaderanasinhalalk | 3,643
+adalk | 1,924
+tamilmirrorlk | 2,660
+adaderanalk | 2,671
+virakesarilk | 3,390
+dailymirrorlk | 3,574
+adaderanasinhalalk | 3,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,750 (99.9%) of 22,764 articles have been extended.
+22,769 (100.0%) of 22,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Mystery surrounds inmate deaths at Magazine Prison
+
+*2024-05-08 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mystery-surrounds-inmate-deaths-at-Magazine-Prison/108-282180) · `en`
+
+Colombo, May 08 (Daily Mirror)- Following the deaths of two inmates at the Magazine Prison allegedly after consuming a parcel of rice containing pork curry, the Department of Prisons has announced an internal investigation into the incident.
+
+According to sources, the Judicial Medical Officer (JMO) has issued an open verdict regarding their autopsies.
+
+However, the bodies are slated to undergo further examination at the Medical Research Institute of Sri Lanka (MRI).
+
+The deceased individuals, who were detained on charges of trafficking 'Ice' narcotics, were part of a group of approximately 15 inmates who had consumed the parcel of rice brought by relatives.
+
+This led to three inmates being hospitalized at the National Hospital, Colombo for suspected food poisoning.
+
+Subsequently, two of them succumbed to the illness, while another remains in a critical condition.
+
+...
+
+[Data](articles/4320dab4.json)
+
+---
+
+### COPF summons Public Security Secretary and Immigration CG
+
+*2024-05-08 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99088/copf-summons-public-security-secretary-and-immigration-cg) · `en`
+
+The Committee on Public Finance (COPF) has summoned the Secretary to the Ministry of Public Security and the Controller General of Immigration and Emigration for an inquiry tomorrow (08), says the Chairman of COPF MP Harsha de Silva.
+
+In a post on ‘X’ (formerly Twitter), he said the COPF summoned the Secretary to Ministry of Public Security along with the Controller General of Immigration and Emigration tomorrow for a “balanced inquiry into the ongoing visa fiasco”.
+
+“While it is customary for all public finance-related legislation be routed through COPF, this strangely was not,” the committee chairman further said.
+
+◼️
+
+[Data](articles/a558bb26.json)
+
+[Extended Data](ext_articles/a558bb26.ext.json)
+
+---
+
+### A punishment of two boss
+
+*2024-05-08 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196407) · `si`
+
+The Head of Immigration and the Secretary of Defense face government funds for their roles in the visa crisis investigation.
+
+🟩
+
+The Head of the Department of Immigration and Emigration and the Secretary of the Ministry of Defense has been summoned before the government's funds.
+
+The Chairman of the Committee Harsha de Silva has made this statement in a statement.
+
+It further states that they have been called in relation to an investigation into the current visa crisis in the society.
+
+◼️
+
+[Data](articles/57fac0ac.json)
+
+[Extended Data](ext_articles/57fac0ac.ext.json)
+
+---
+
+### Is the IM Sakthi legal created by Diana Kamage?Opposition should prepare the best lawyers - Kanchana Wijesekera
+
+*2024-05-08 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/183003) · `ta`
+
+Diana Kamage's IM Sakthi and United People's Power Party legality questioned. Kanchana Wijesekera advises preparing the best lawyers. Kamage, a non-citizen, registered the party, which is illegal. He signed the party's nomination during the general election, potentially causing issues for the party's parliamentarians.
+
+🟩
+
+Is the United People's Power Party legal created by non -citizen Diana Kamagema?If he signed the party's nomination during the general election or he made a deal with the current party secretary, the party's parliamentarians may face problems.. ஆகவே சிறந்த சட்டத்தரணிகளை எதிரணியினர் தயார்ப்படுத்திக் கொள்ள வேண்டும் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+Speaking at the debate on the Gazette, which was published in the Gazette No. 2348/48 under the Diplomatic Privacy Act in Parliament on Wednesday (8).
+
+இராஜாங்க அமைச்சர் டயனா கமகேமவின் பாராளுமன்ற உறுப்புரிமை  தொடர்பில் உயர்நீதிமன்றம் தீர்ப்பளித்துள்ளது. இந்தத் தீர்ப்பைச் சவாலுக்கு உட்படுத்தப் போவதில்லை. But now there is a new issue.
+
+...
+
+[Data](articles/f7d3c41f.json)
+
+[Extended Data](ext_articles/f7d3c41f.ext.json)
+
+---
+
+### 2100 New GS Appointment
+
+*2024-05-08 18:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2100-புதிய-GS-நியமனம்/175-336976) · `ta`
+
+2100 new Grama Sevaka appointments were held at Alimaikkal, led by President Ranil Wickremesinghe, based on the December 2, 2023, Grama Niladhari Examination results.
+
+🟩
+
+Grama Sevaka (GS) for the 2100 new Grama Niladhari Grama Niladhari (GS) appointment letters were held at Alimaikkal, headed by President Ranil Wickremesinghe.
+
+According to the results of the Grama Niladhari Examination conducted by the Department of Examinations on December 2, 2023, the Grama Niladhari has been appointed to 2100 applicants who received the highest points at the Divisional Secretariat level.
+
+◼️
+
+[Data](articles/7b470d82.json)
+
+[Extended Data](ext_articles/7b470d82.ext.json)
+
+---
 
 ### Sri Lanka drafting laws that will address climate change: President
 
@@ -49,6 +153,8 @@ The summit aims to assess potential disruptions to critical sectors of the econo
 ...
 
 [Data](articles/c3bdd394.json)
+
+[Extended Data](ext_articles/c3bdd394.ext.json)
 
 ---
 
@@ -69,6 +175,8 @@ A British tourist applied though the new VFS Global portal said she sold two vis
 ...
 
 [Data](articles/8b00708b.json)
+
+[Extended Data](ext_articles/8b00708b.ext.json)
 
 ---
 
@@ -118,6 +226,8 @@ Sabry met Saudi Arabian Economy, Investment, and Foreign Ministers when he visit
 
 [Data](articles/a025812d.json)
 
+[Extended Data](ext_articles/a025812d.ext.json)
+
 ---
 
 ### Over 2,000 Grama Niladharis appointed today
@@ -160,6 +270,8 @@ A bond maturing on 01.10.2032 closed stable at 12.25/35 percent. (Colombo/May08/
 
 [Data](articles/b9d29c09.json)
 
+[Extended Data](ext_articles/b9d29c09.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, selling on diversified financials
@@ -185,6 +297,8 @@ Index heavyweight John Keells Holdings Plc was up at 204.75.
 ...
 
 [Data](articles/e57526b5.json)
+
+[Extended Data](ext_articles/e57526b5.ext.json)
 
 ---
 
@@ -235,6 +349,34 @@ The petition states that the Ceylon Electricity Board will be divided into sever
 [Data](articles/35d80d72.json)
 
 [Extended Data](ext_articles/35d80d72.ext.json)
+
+---
+
+### Creates a water production from the atmosphere
+
+*2024-05-08 16:31:18* · [`adalk`](https://www.ada.lk/breaking_news/වායුගෝලයෙන්-ජලය-නිපදවීමේ-යන්ත්‍රයක්-නිර්මාණය-කරයි/11-409504) · `si`
+
+Thambuththegama W. M. Harshaka Prabhath Dharmapala, 24, invented a machine that produces water from the atmosphere, using solar panels. It produces 1 liter of water at 34°C, benefiting deserts and forests. He's working on a garbage collection and recycling machine.
+
+🟩
+
+A youth from Thambuththegama has been able to create a water production machine from the Environment atmosphere. He has created more than 30 inventions.
+
+Thambuththegama W.. M. Harshaka Prabhath Dharmapala is a twenty-four year old man.
+
+The new machine to produce water by air produced a liter of water in about 34 degrees Celsius. This is also used for this using a small sola pane.
+
+Water gathers in the solar light, and the supply of electricity instead of electricity instead of electricity at night is also the manufacture of water.
+
+This invention will benefit the water, especially in the desert, forest security operations, in the shortage of water. He had taken a year and a half to make this design.
+
+He is also expected to obtain the patent for this unique creation and is now working to produce a garbage collection and recycling machine that cost around Rs.
+
+◼️
+
+[Data](articles/f81d63cb.json)
+
+[Extended Data](ext_articles/f81d63cb.ext.json)
 
 ---
 
@@ -323,6 +465,8 @@ The 12-month yield fell 9 basis points from 9.99 percent to 9.90 percent, with 6
 ◼️
 
 [Data](articles/0033188f.json)
+
+[Extended Data](ext_articles/0033188f.ext.json)
 
 ---
 
@@ -760,6 +904,8 @@ But an opposition legislator alleged that Sri Lanka would lose 10 dollars out of
 
 [Data](articles/959c1e01.json)
 
+[Extended Data](ext_articles/959c1e01.ext.json)
+
 ---
 
 ### Mujibur Rahman to Diana's place
@@ -932,6 +1078,8 @@ According to media reports, the Court of Appeal had said the relevant orders in 
 
 [Data](articles/ec8c6aeb.json)
 
+[Extended Data](ext_articles/ec8c6aeb.ext.json)
+
 ---
 
 ### Sri Lanka to sit-out COP if there is no agreement, climate funding: President
@@ -949,6 +1097,8 @@ The President said that the funding that Sri Lanka was awaiting from the Confere
 ...
 
 [Data](articles/3ae83915.json)
+
+[Extended Data](ext_articles/3ae83915.ext.json)
 
 ---
 
@@ -1184,6 +1334,8 @@ Bandara questioned why the deal was given to VFS Global when Mobitel had offered
 
 [Data](articles/dc8b1d32.json)
 
+[Extended Data](ext_articles/dc8b1d32.ext.json)
+
 ---
 
 ### What happened in the hotel room with Trump?: The pornography actress who said nothing: 'Enough'
@@ -1251,6 +1403,8 @@ ECONOMYNEXT – Pulses comprise only 8 percent of Sri Lanka’s per capita prote
 ...
 
 [Data](articles/5f802527.json)
+
+[Extended Data](ext_articles/5f802527.ext.json)
 
 ---
 
@@ -1410,6 +1564,8 @@ Sri Lanka constitution has barred duel citizens for foreign citizens holding MP 
 
 [Data](articles/54064814.json)
 
+[Extended Data](ext_articles/54064814.ext.json)
+
 ---
 
 ### Outspoken Sri Lanka MP Diana Gamage loses seat, Harsha proposes Mujibur
@@ -1427,6 +1583,8 @@ Gamage entered parliament on the main opposition Samagi Jana Balawegaya (SJB) ti
 ...
 
 [Data](articles/b4262890.json)
+
+[Extended Data](ext_articles/b4262890.ext.json)
 
 ---
 
@@ -1447,6 +1605,8 @@ Sri Lanka’s Foreign Ministry does not have data on the number of Sri Lankans f
 ...
 
 [Data](articles/6d2ebedb.json)
+
+[Extended Data](ext_articles/6d2ebedb.ext.json)
 
 ---
 
@@ -2151,137 +2311,5 @@ The police say that investigations were started on a message received by the Ram
 [Data](articles/4a8bad4b.json)
 
 [Extended Data](ext_articles/4a8bad4b.ext.json)
-
----
-
-### Litro's new gas terminal
-
-*2024-05-08 09:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்தின்-புதிய-எரிவாயு-முனையம்/175-336937) · `ta`
-
-Litro's new gas terminal opens today, aiming to distribute 60,000 cylinders daily, addressing the shortfall of the Garavalapitiya terminal.
-
-🟩
-
-Litro's new gas terminal will be opened today (08).
-
-Through this, 60,000 gas cylinders can be distributed daily, he said.
-
-One million cylinders are distributed daily to the market through the Garavalapitiya gas terminal.
-
-However, he noted that the new terminal has been constructed as the Karavalapitiya terminal is not enough to meet the daily demand.
-
-◼️
-
-[Data](articles/2d90d80f.json)
-
-[Extended Data](ext_articles/2d90d80f.ext.json)
-
----
-
-### Resolution today on strike
-
-*2024-05-08 09:38:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலை-நிறுத்தம்-குறித்து-இன்று-தீர்மானம்/175-336936) · `ta`
-
-The University Executive Officers Association threatens to escalate strikes if salary issues aren't resolved in today's discussions. They've been on strike since March 3rd over salary concerns. Today's talks focus on a Cabinet paper for a salary hike, with a demonstration planned.
-
-🟩
-
-The University Executive Officers Association has said that if there is no permanent solution to their problems in today's discussion, the current trade union actions have to be intensified.
-
-The university executive union has been engaged in trade union action since the 3rd of this month due to the salary issue.
-
-The Association's adviser Sampath Udayanga said that today's discussion is expected to be discussed and resolved on the Cabinet paper on their salary hike.
-
-He also said that a demonstration will be held today in collaboration with the strike.
-
-◼️
-
-[Data](articles/eb9c1a1b.json)
-
-[Extended Data](ext_articles/eb9c1a1b.ext.json)
-
----
-
-### Sri Lanka wins World Cup qualifying from Chamari's century
-
-*2024-05-08 09:38:27* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-ශතකයෙන්-ලංකාවට-ලෝක-කුසලාන--සුදුසුකම්-ලැබිමේ-තරගාවලියේ-ශූරතාව/9-409489) · `si`
-
-Sri Lanka women's cricket team qualifies for the Women Twenty20 World Cup in Bangladesh, thanks to Chamari Atapattu's century. They beat Scotland by 68 runs, scoring 169/5 in 20 overs, with Chamari scoring 102 runs.
-
-🟩
-
-Sri Lanka women's cricketers play the championship in Dubai to be eligible to qualify for the Women Twenty20 World Cup in Bangladesh.
-
-The Scotland team by 68 runs in the final
-
-Batting first Sri Lanka women's cricket team scored 169 runs for the loss of 5 wickets in 20 overs.
-
-Leader Chamari Atapattu scored 102 runs in 63 balls with 10 fours and four sixes. Accordingly, she was also awarded the competition.
-
-In reply, Scotland scored 101 runs for the 7 wickets.
-
-◼️
-
-[Data](articles/a91ed18f.json)
-
-[Extended Data](ext_articles/a91ed18f.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-08 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196390) · `si`
-
-Parliamentary Council commences.
-
-🟩
-
-◼️
-
-[Data](articles/cbb13f2f.json)
-
-[Extended Data](ext_articles/cbb13f2f.ext.json)
-
----
-
-### Sri Lanka rupee not seen to be volatile in future: CB Governor
-
-*2024-05-08 09:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-not-seen-to-be-volatile-in-future-cb-governor-162006/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee is not seen to be volatile in the future based on data available at the moment, Central Bank Governor Nandalal Weerasinghe said.
-
-“When we look at foreign incomes and payments due in the future I do not see the exchange rate will move up and down a lot,” Governor Weerasinghe told reporters Tuesday, speaking in Sinhalese.
-
-“Even if there is volatility, our policy to allow the market to work, and if there too much volatility we have the ability to intervene.”
-
-The central bank now had 5.4 billion US dollars to intervene but the central bank allows the market to determine the rates based on requirements, he said.
-
-Related Sri Lanka gross foreign reserves rise to 3.5 year high in April
-
-“I do not think there will be huge volatility, based on the data that is available at the moment,” Governor Weerasinghe said.
-
-...
-
-[Data](articles/82dd7863.json)
-
-[Extended Data](ext_articles/82dd7863.ext.json)
-
----
-
-### Athapaththu’s splendid hundred powers Sri Lanka to title win
-
-*2024-05-08 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththus-splendid-hundred-powers-Sri-Lanka-to-title-win/108-282141) · `en`
-
-ICC - Sri Lanka skipper Chamari Athapaththu hit a sensational hundred to set up a big win in the ICC Women’s T20 World Cup Qualifier final against Scotland.
-
-Sarah Bryce, standing in as skipper for her sister Kathryn Bryce who missed out due to a niggle, elected to bowl first after winning the toss in Abu Dhabi. Her decision was backed by her bowlers, with seamer Priyanaz Chatterji striking in the third over with the crucial wicket of Vishmi Gunaratne (9).
-
-Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the end of the first Powerplay to give Scotland another success. Dynamic all-rounder Kavisha Dilhari came in at number four and tried to reconstruct the innings along with skipper Athapaththu.
-
-...
-
-[Data](articles/58e3408e.json)
-
-[Extended Data](ext_articles/58e3408e.ext.json)
 
 ---

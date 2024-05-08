@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 16:04:33**
+As of **2024-05-08 16:18:19**
 
 ## Newspaper Stats
 
-*Scraped **22,734** Articles*
+*Scraped **22,738** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 199
 bbccomsinhala | 237
-dbsjeyarajcom | 237
+dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,920
 tamilmirrorlk | 2,659
-adaderanalk | 2,667
+adaderanalk | 2,668
 virakesarilk | 3,388
 dailymirrorlk | 3,571
-adaderanasinhalalk | 3,638
+adaderanasinhalalk | 3,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,734 (100.0%) of 22,734 articles have been extended.
+22,734 (100.0%) of 22,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Two inmates dead, one critical after ‘food poisoning’ at Magazine Prison
+
+*2024-05-08 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99085/two-inmates-dead-one-critical-after-food-poisoning-at-magazine-prison) · `en`
+
+The Judicial Medical Officer (JMO) has issued an open verdict regarding the autopsy of the two prison inmates who had allegedly died after consuming a rice parcel containing pork curry.
+
+Subsequantly, their body parts are expected to be taken to the Medical Research Institute of Sri Lanka (MRI) for further tests.
+
+Two individuals, residents of Borella and Dehiwala areas, had been arrested for trafficking ‘Ice’ drugs (crystal methamphetamine) and were detained at the Magazine Prison.
+
+According to reports, relatives of one the inmates had brought a parcel of rice with pork curry prepared at home for the inmates on the day before.
+
+Approximately 15 inmates had reportedly consumed this rice parcel, leading to three of the inmates being admitted to the Colombo National Hospital due to suspected food poisoning.
+
+Two of the inmates have later died, while another inmate remains in critical condition at the hospital.
+
+...
+
+[Data](articles/b0e374a6.json)
+
+---
+
+### හිරුණිකා ට එරෙහි පැමිණිල්ල ගැන අභියාචනාධිකරණය දුන් නියෝගය
+
+*2024-05-08 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196403) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රීනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියට එරෙහිව ගොනුකර ඇති පැමිණිල්ල ජූනි මස 14 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+එමෙන්ම මෙම නඩුකරයට අදාළ විරෝධතා තිබේ නම් ඒවා සති දෙකක් තුළ ගොනු කිරීමට පියවර ගන්නා ලෙසත් අධිකරණය විසින් හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියගේ නීතිඥවරුන්ට නියම කළේය.
+
+ඌව පළාත් ආණ්ඩුකාර මොහොමඩ් මුසම්මිල් මහතාගේ පුත්‍රයා විසින් ඉදිරිපත් කළ පැමිණිල්ලකට අනුව මෙම නඩු විභාගය පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/03934d8b.json)
+
+---
 
 ### Grenade and motorcycle found as police raid Manna Ramesh’s house
 
@@ -51,6 +89,26 @@ Meanwhile, it is reported that police are expected to obtain 90-day detention or
 [Data](articles/e96b27d4.json)
 
 [Extended Data](ext_articles/e96b27d4.ext.json)
+
+---
+
+### ක්‍රිකට් ලෝව දිනන්න මග සොයන පානදුරේ බර අවිය - පුංචි මාලිංග
+
+*2024-05-08 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196402) · `si`
+
+ක්‍රීඩාව වෙනුවෙන් තම ජීවිතයම කැප කළ ද කැලයේ පිපී කැලයේම පරව යන හෙට රටට වටිනා තරු රැසකට වටිනාකම එක්කිරීමට අද දෙරණ සුවිශේෂී අනාවරණයන් හේතුවී තිබේ.
+
+තවත් එවැනිම රටම සරසන්න හැකියාව සහ උනන්දුව සහිත වුවද එයට මුදල හරස් වූ තරුවක් ගැන පුවතක් අපට වාර්තාවන්නේ පානදුර ප්‍රදේශයෙනි.
+
+තමන්ට ක්‍රිකට් ක්‍රීඩාවෙන් ඉදිරියට යන්න මහත් උත්සාහයක් ගත්ත ද ඔහුට මේ වනවිට එයට විශාලතම බාධකය වී ඇත්තේ ඔවුන්ගේ පවුලේ ඇති අගහිඟතාවයයි.
+
+සෑම දෙයකටම මිලක් නියම වූ ලොවක නිලංකගේ බලාපොරොත්තු මල්ඵළ ගන්වන්නට ඔහුගේ මව් දෙමාපියන් දරණ වෙහෙස පිළිබඳවද වචනයෙන් කියා නිම කළ නොහැක.
+
+ඔහු පවසන්නේ මෙම අර්බුදයට යම්තාක්දුරකට සහනයක් දිය හැකි අයෙකු වේ නම් තමන්ගේ ඉලක්කය කරා යාමට එය විශාල පිටිවහලක් වනු ඇති බවය.
+
+◼️
+
+[Data](articles/c9faf253.json)
 
 ---
 
@@ -2124,6 +2182,22 @@ Mr. Premadasa earlier claimed, as reported on social media platforms, that the v
 
 ---
 
+### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
+
+*2024-05-08 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
+
+May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
+
+May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
+
+...
+
+[Data](articles/5fbb9b96.json)
+
+[Extended Data](ext_articles/5fbb9b96.ext.json)
+
+---
+
 ### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
 
 *2024-05-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/182928) · `ta`
@@ -2243,91 +2317,5 @@ Accordingly, Rajasthan Royals scored only 201 runs for the loss of 8 wickets in 
 [Data](articles/d65b1e21.json)
 
 [Extended Data](ext_articles/d65b1e21.ext.json)
-
----
-
-### Gross official reserves surpass US$ 5bn mark
-
-*2024-05-08 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gross-official-reserves-surpass-US-5bn-mark/108-282135) · `en`
-
-April reserves also marked the highest from over three years in January 2021
-
-Sri Lanka’s gross official reserves have continued to increase through the end of April topping the US$ 5.0 billion level for the first time since December 2020 when the country was coming out of the second wave of the virus outbreak.
-
-While the official data is just a few days from its release to the public, the Central Bank Governor, Dr. Nandalal Weerasinghe this week disclosed the latest foreign currency levels in the country by the end of April which was at US$ 5,438 million.
-
-This was a robust US$ 487 million increase in foreign currency reserves within April.
-
-April reserves also marked the highest from over three years in January 2021 when the reserves were at US$ 4,814.6 million.
-
-Thereafter the country’s reserve buffer gradually weakened due to the weak foreign currency inflows from both tourism trade and remittances at the time.
-
-...
-
-[Data](articles/d5c481e4.json)
-
-[Extended Data](ext_articles/d5c481e4.ext.json)
-
----
-
-### Investigate comment on contempt of court
-
-*2024-05-08 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/182931) · `ta`
-
-Finance Minister Sehan Semasinghe criticizes JVP member Harini Amarasuriya for allegedly promising party members control over police and courts. Justice Minister requested to investigate. Senior LTTE member allegedly gave court powers in their regime. People must decide if they trust those seeking state power. Current generation may not understand the implications.
-
-🟩
-
-...
-
-[Data](articles/499fe13b.json)
-
-[Extended Data](ext_articles/499fe13b.ext.json)
-
----
-
-### Visa Service Payment Charges to Tourists Many times More than Central Bank Fraud
-
-*2024-05-08 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/182930) · `ta`
-
-Visa service charges to tourists are significantly higher than central bank fraud, with funds allocated for visa services being 18.6 times more than allocated for other allowances. Sri Lanka Muslim Congress leader Rauf Hakeem calls for a special inquiry into the massive fraud on visa issuance for foreigners.
-
-🟩
-
-Funds available for a visa service for tourists are many times higher than the central bank fraud. Sri Lanka Muslim Congress leader Rauf Hakeem said a special inquiry should be made.
-
-He said this while addressing the debate on the Bill of Parliament on Tuesday (7).
-
-As the International Monetary Fund has introduced a new system to our country on corruption scandals, the media has been publishing headlines in the media over the past few days regarding a massive fraud on issuing visa for foreigners in the country.. But what action has the government taken in this regard?Steps have been taken to accommodate $ 25 from tourists. It is expected that 2.5 million tourists will visit this year.
-
-...
-
-[Data](articles/4de7ef89.json)
-
-[Extended Data](ext_articles/4de7ef89.ext.json)
-
----
-
-### The Central Bank warns that the obstacles in reorganization will cause massive setbacks in the economic recovery
-
-*2024-05-08 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/182929) · `ta`
-
-The Central Bank of Sri Lanka warns that obstacles to economic recovery will cause setbacks. Despite significant recovery from the economic crisis, challenges remain. Inflation has decreased, but economic growth ended in the second half of 2023. The economy's performance varied across sectors, with agriculture, industrial, and service sectors showing different impacts. For 2024, real GDP growth is predicted at 3%, average inflation at 5%, and foreign office quotas at 3.4%. The Central Bank emphasizes maintaining prices and ensuring economic growth through reorganization, including projects by the IMF.
-
-🟩
-
-The Central Bank of Sri Lanka, which has announced that the country's economy will be recorded at 3 per cent and the average inflation of the year by 3 per cent this year, has warned that the barriers to the ongoing restoration process will cause a massive setback in economic recovery and growth.
-
-Similarly, the Central Bank, pointing out that many people have retrieved their funds last year, have been re -contributed to the contribution of the Fund.
-
-Article 80 of the Central Bank Act of Sri Lanka, Article 80 of the Central Bank Act of 2023, and the Central Bank's financial claims for the year 2023 and the Central Bank's financial claims for the last year were published two weeks ago, a media briefing to explain its content on Tuesday (7)Organized in the auditorium.
-
-Accordingly, in the Economic Review of 2023, the key issues indicated on the country's economic situation are:
-
-...
-
-[Data](articles/3ad0b025.json)
-
-[Extended Data](ext_articles/3ad0b025.ext.json)
 
 ---

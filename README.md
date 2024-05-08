@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 14:18:07**
+As of **2024-05-08 14:33:55**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 3,637
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,714 (100.0%) of 22,718 articles have been extended.
+22,718 (100.0%) of 22,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### மஞ்சள் கோட்டில் மாணவனை பந்தாடிய ஓட்​டோ
+### Oat Doy
 
 *2024-05-08 13:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஞ்சள்-கோட்டில்-மாணவனை-பந்தாடிய-ஓட்-டோ/76-336968) · `ta`
 
-அதிவேகமாக வந்த முச்சக்கர வண்டியொன்று (ஓட்டோ), பாதசாரி கடவையில் (மஞ்சள் கோட்டில்) வீதியை கடந்துச் சென்றுக்கொண்டிருந்த மாணவனை பந்தாடிய காட்சிகள் சிசிரிவி கமெராவில் பதிவாகியுள்ளது.
+A student crossing the road was hit by a high-speed three-wheeler, severely injuring them. The accident occurred at a pedestrian crossing near Kottagala Tamil Maha Vidyalaya. The driver was arrested and the victim was admitted to Kotagala District Hospital, then transferred to Kandy Teaching Hospital.
 
-வெலிமடையில் இருந்து ஹட்டன் நோக்கி  முச்சக்கர வண்டியுடன் மோதியதில் பலத்த காயங்களுக்குள்ளான மாணவன் கொட்டகலை மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக கண்டி போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+🟩
 
-ஹட்டன்- நுவரெலியா பிரதான வீதியில் கொட்டகலை தமிழ் மகா வித்தியாலயத்திற்கு முன்பாக உள்ள பாதசாரி கடவையில் செவ்வாய்க்கிழமை (07) நண்பகல் 12 மணியளவில் இந்த விபத்து இடம்பெற்றுள்ளது.
+A high -speed three -wheeler (Otto), a student who was crossing the road at the pedestrian crossing (yellow line), has been recorded on the Sisirvi camera.
 
-தனியார் வகுப்பில் பங்கேற்க வந்த பாடசாலை மாணவன், வீதியை   கடக்க முற்பட்ட போது அதிவேகமாக வந்த முச்சக்கரவண்டி  பாடசாலை மாணவன் மோதியதில்  மாணவன் சில அடிகள் தூரம் தரையில் இழுத்துச் செல்லப்பட்டுள்ளார்.
+A student who was severely injured when he was hit by a three -wheeler from Welimada has been admitted to the Kotagala District Hospital and transferred to the Kandy Teaching Hospital for further treatment.
 
-இதில் அந்த மாணவன் படு காயமடைந்துள்ளார் என திம்புள்ள- பத்தனை பொலிஸார் தெரிவித்தனர்.
+The accident took place at a pedestrian crossing in front of the Kottagala Tamil Maha Vidyalaya on the Hatton-Nuwara Eliya main road on Tuesday (07) at 12 noon.
 
-முச்சக்கரவண்டியின் சாரதியை சந்தேகத்தின் பேரில் கைது செய்த திம்புள்ள-பத்தனை பொலிஸார்  சந்தேக நபரை  ஹட்டன் நீதவான் முன்னிலையில் ஆஜர்படுத்தவுள்ளதாக தெரிவித்தனர்.
+A schoolgirl who was attending a private class, who was trying to cross the street, was dragged into a distance of a school student when a high -speed school student crashed into a distance.
+
+The student was injured.
+
+Dimbulla-Pathana police arrested the driver of the three-wheeler on suspicion and said that the suspect was to be produced before the Hatton Magistrate.
 
 ◼️
 
 [Data](articles/bf4e5aa4.json)
 
+[Extended Data](ext_articles/bf4e5aa4.ext.json)
+
 ---
 
-### டயானாவின் இடத்துக்கு முஜிபுர் ரஹ்மான்
+### Mujibur Rahman to Diana's place
 
 *2024-05-08 13:48:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-இடத்துக்கு-முஜிபுர்-ரஹ்மான்/175-336966) · `ta`
 
-டயானா கமகே பதவி நீக்கப்பட்டதன் காரணமாக வெற்றிடமாகவுள்ள பாராளுமன்ற உறுப்பினர் பதவிக்கு முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மானின் பெயர் முன்மொழியப்பட்டுள்ளது.
+Mujibur Rahman is proposed for the vacant parliamentarian post following Diana Kamage's dismissal.
+
+🟩
+
+The name of former MP Mujibur Rahman has been proposed for the vacant parliamentarian post due to the dismissal of Diana Kamage.
 
 ◼️
 
 [Data](articles/fed804b3.json)
+
+[Extended Data](ext_articles/fed804b3.ext.json)
 
 ---
 
@@ -70,7 +82,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-08 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99079/mujibur-rahman-tipped-to-fill-diana-gamages-mp-seat-) · `en`
 
-Former Member of Parliament Mujibur Rahman of the Samagi Jana Balawegaya (SJB) is tipped to fill the vacant parliamentary seat after the Supreme Court disqualified State Minister Diana Gamage from holding an MP seat.
+Former Member of Parliament Mujibur Rahman of the Samagi Jana Balawegaya (SJB) is nominated to fill the vacant parliamentary seat after the Supreme Court disqualified State Minister Diana Gamage from holding an MP seat.
 
 Speaking during today’s parliamentary session, Leader of the Opposition Sajith Premadasa announced that this decision will be communicated to the Election Commission.
 
@@ -324,6 +336,8 @@ The Supreme Court has ruled that State Minister Diana Gamage does not meet the l
 
 [Data](articles/9212cbc7.json)
 
+[Extended Data](ext_articles/9212cbc7.ext.json)
+
 ---
 
 ### Diana
@@ -338,25 +352,35 @@ The Supreme Court has ruled that State Minister Diana Gamage does not meet the l
 
 ---
 
-### டிரம்புடன் ஹோட்டல் அறையில் நடந்தது என்ன? : ஒன்றையும் மறைக்காமல் சொன்ன ஆபாச பட நடிகை : 'போதும்' என நிறுத்திய நீதிபதி
+### What happened in the hotel room with Trump?: The pornography actress who said nothing: 'Enough'
 
 *2024-05-08 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/182959) · `ta`
 
-அமெரிக்காவின் ஆபாச பட நடிகை ஸ்டோர்மி டெனியல்ஸ்  முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்புடன் தான் பாலியல் உறவில் ஈடுபட்டமை குறித்த விபரங்களை நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+Stormy Daniels, a porn actress, revealed her sexual relationship with Donald Trump in 2006, including details about a meeting at Trump's Lake Taho Hotel room. Trump, found with underwear, was questioned about the porn industry during dinner.
 
-முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் உண்மையை மறைப்பதற்காக ஸ்டோர்மி டெனியல்ஸிற்கு பணம் வழங்கியமை தொடர்பான வழக்கு விசாரணை தொடர்கின்ற நிலையில் ஆபாசபட நடிகை டொனால்ட் டிரம்புடன் 2006 இல் உறவுகொண்ட தருணங்களை விபரித்துள்ளார்.
+🟩
 
-ஒரு பிரபலமான கோல்வ் போட்டியில் எப்படி இருவரும் சந்தித்தார்கள் டிரம்பின் லேக் தஹோ ஹோட்டல் அறைக்கு சென்றவேளை என்ன நடந்தது என்பதையும் அவர் விபரித்துள்ளார்.
+Stormy Deniels in the United States of America Porn Taniels has revealed the details of her sexual relationship with former President Donald Trump.
 
-உள்ளாடைகளுடன்  காணப்பட்ட டிரம்ப் எப்படி தனக்காக போஸ்கொடுத்தார் என்பதையும் ஆபாசபட நடிகை நீதிமன்றில் விபரித்துள்ளார்.
+Former President Donald Trump has described the moments with Donald Trump in 2006 as the trial of Stormmy Deniels has been paid to cover the truth.
 
-ஸ்டோமி டெனியல்ஸ் பலவிபரங்களை வெளிப்படயாக விபரித்ததால்  நீதிபதி அவற்றை நீக்கவேண்டிய நிலைக்கு தள்ளப்பட்டார்.
+He also described how the two met in a popular gallow competition when he went to Trump's Lake Taho Hotel room.
 
-டிரம்பின் ஹோட்டல் அறையில் என்ன காணப்பட்டது-டைல்கள் என்ன நிறத்தில் காணப்பட்டன எவ்வாறான மேசை காணப்பட்டது என்பதையும் அவர் விபரித்துள்ளார்.
+The porn actress has also described how Trump, who was found with underwear, posted for himself.
 
-...
+The judge was forced to remove them as Stommy Deniels exposed the weaknesses.
+
+He also described what the table was found in Trump's hotel room.
+
+Trump questioned about the pornography industry during the dinner.
+
+When I went out to the toilet, I was shocked by the Poksar Decertun on the hotel cot.
+
+◼️
 
 [Data](articles/1321ba2c.json)
+
+[Extended Data](ext_articles/1321ba2c.ext.json)
 
 ---
 

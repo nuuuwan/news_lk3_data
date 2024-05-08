@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 02:03:21**
+As of **2024-05-09 02:18:19**
 
 ## Newspaper Stats
 
@@ -31,6 +31,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Sunrisers Hyderabad won by 10 wickets in 10 overs
+
+*2024-05-09 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/183015) · `ta`
+
+Sunrisers Hyderabad won by 10 wickets in 10 overs, their first win by this margin in the IPL. They reached the target in 45 minutes, with Abhishek Sharma and Travis Head's 148 runs, 16 wickets, and 14 sixes. Lucknow Super Giants scored 165 runs in 20 overs, with Nicholas Pooran and Aush Patoni's 99 runs off 58 balls. Bhuvneshwar Kumar took 2 wickets for 12 runs, and Vijayakanth Vyaskant made his IPL debut for Sunrisers Hyderabad, conceding 27 runs.
+
+🟩
+
+Sunrisers Hyderabad won by 10 wickets in the 57th match of the 17th Indian Premier League chapter held at the Rajiv Gandhi Stadium in Hyderabad on Wednesday (08).
+
+Sunrisers Hyderabad won the toss and elected to bat.
+
+This is the first time a team won by 10 wickets in this year's Indian Premier League. Significantly, Sunrisers Hyderabad reached the target in 45 minutes in 10 overs.
+
+Abhishek Sharma and Travis Head have made a brilliant run from the beginning and made the team a success.
+
+Travis Head faced 30 balls and did not lose 89 runs, including 8 pounds, 8 sixes, and Abhishek scored 75 off 28 balls, including 8 pounds and 6 sixes.
+
+The total number of Sunrisers Hyderabad was 148 runs, 16 pounds and 14 sixes.
+
+Lucknow Super Giants, who decided to bat first in the upting match, scored 165 runs for the loss of 4 wickets in 20 overs.
+
+The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped Lucknov Super Giants gain an honorable total number.
+
+...
+
+[Data](articles/02091493.json)
+
+[Extended Data](ext_articles/02091493.ext.json)
+
+---
 
 ### Post-May Day political balance and scenarios
 
@@ -91,38 +123,6 @@ Following the Grama Niladhari Service Examination held by the Department of Exam
 [Data](articles/e3d10ae3.json)
 
 [Extended Data](ext_articles/e3d10ae3.ext.json)
-
----
-
-### Sunrisers Hyderabad won by 10 wickets in 10 overs
-
-*2024-05-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/183015) · `ta`
-
-Sunrisers Hyderabad won by 10 wickets in 10 overs, their first win by this margin in the IPL. They reached the target in 45 minutes, with Abhishek Sharma and Travis Head's 148 runs, 16 wickets, and 14 sixes. Lucknow Super Giants scored 165 runs in 20 overs, with Nicholas Pooran and Aush Patoni's 99 runs off 58 balls. Bhuvneshwar Kumar took 2 wickets for 12 runs, and Vijayakanth Vyaskant made his IPL debut for Sunrisers Hyderabad, conceding 27 runs.
-
-🟩
-
-Sunrisers Hyderabad won by 10 wickets in the 57th match of the 17th Indian Premier League chapter held at the Rajiv Gandhi Stadium in Hyderabad on Wednesday (08).
-
-Sunrisers Hyderabad won the toss and elected to bat.
-
-This is the first time a team won by 10 wickets in this year's Indian Premier League. Significantly, Sunrisers Hyderabad reached the target in 45 minutes in 10 overs.
-
-Abhishek Sharma and Travis Head have made a brilliant run from the beginning and made the team a success.
-
-Travis Head faced 30 balls and did not lose 89 runs, including 8 pounds, 8 sixes, and Abhishek scored 75 off 28 balls, including 8 pounds and 6 sixes.
-
-The total number of Sunrisers Hyderabad was 148 runs, 16 pounds and 14 sixes.
-
-Lucknow Super Giants, who decided to bat first in the upting match, scored 165 runs for the loss of 4 wickets in 20 overs.
-
-The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped Lucknov Super Giants gain an honorable total number.
-
-...
-
-[Data](articles/02091493.json)
-
-[Extended Data](ext_articles/02091493.ext.json)
 
 ---
 

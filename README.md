@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 23:53:07**
+As of **2024-05-09 00:04:37**
 
 ## Newspaper Stats
 
-*Scraped **22,802** Articles*
+*Scraped **22,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,316
 dailyftlk | 1,322
 adalk | 1,930
 tamilmirrorlk | 2,664
-adaderanalk | 2,677
+adaderanalk | 2,678
 virakesarilk | 3,391
 dailymirrorlk | 3,581
 adaderanasinhalalk | 3,651
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,798 (100.0%) of 22,802 articles have been extended.
+22,802 (100.0%) of 22,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### More than 2,000 new Grama Niladhari officials appointed
+
+*2024-05-08 23:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99093/more-than-2000-new-grama-niladhari-officials-appointed) · `en`
+
+President Ranil Wickremesinghe on Wednesday (08) stressed that the enhancement of the rural economy pivots on agricultural advancement.
+
+He highlighted the pivotal role of dedicated government officials at the grassroots level in ensuring the success of various government initiatives aimed at rural development, notably the agricultural modernization program.
+
+The President made these remarks during his address at the ceremony held at the Temple Trees, where a total of 2,100 new Grama Niladhari officers were handed over their letters of appointment.
+
+Following the Grama Niladhari Service Examination held by the Department of Examinations on 02nd December, 2023, 2100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
+
+...
+
+[Data](articles/e3d10ae3.json)
+
+---
 
 ### Police officers arrested in action
 
@@ -70,6 +88,8 @@ During the discussion, vehicle importers suggested to the Finance State Minister
 
 [Data](articles/14026f5e.json)
 
+[Extended Data](ext_articles/14026f5e.ext.json)
+
 ---
 
 ### Ex Major General arrested for trafficking ex-military personnel to Russian-Ukrainian war front
@@ -85,6 +105,8 @@ The Ministry of Defence has also warned that a significant number of Sri Lankan 
 ...
 
 [Data](articles/ffae9548.json)
+
+[Extended Data](ext_articles/ffae9548.ext.json)
 
 ---
 
@@ -472,6 +494,8 @@ However, after the shift to the VFS Global website, the price went up to 100.77 
 
 [Data](articles/6b80c689.json)
 
+[Extended Data](ext_articles/6b80c689.ext.json)
+
 ---
 
 ### Vyaskant of Jaffna, who debuted in IPL
@@ -576,23 +600,33 @@ The inauguration ceremony of the program was held at the Ministry of Sethsiripay
 
 ---
 
-### කෘෂිකර්මාන්තය දියුණු නොකොට ගම දියුණු කරන්න බැහැ
+### The village cannot be developed without improving agriculture
 
 *2024-05-08 19:05:42* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්මාන්තය-දියුණු-නොකොට-ගම-දියුණු-කරන්න-බැහැ/11-409511) · `si`
 
-කෘෂිකර්මාන්තය දියුණු නොකොට ග්‍රාමීය ආර්ථිකය ශක්තිමත් කළ නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the importance of improving agriculture for village development, highlighting the role of Grama Niladhari in uplifting the rural economy. He also mentioned the government's efforts to modernize agriculture, increase income, and improve village life through various programs.
 
-එබැවින් රජයේ කෘෂි නවීකරණ වැඩසටහන ඇතුළු ග්‍රාමීය ආර්ථිකය දියුණු කිරීමට රජය ආරම්භ කළ සියලු වැඩසටහන් සාර්ථක කර ගැනීමට බිම් මට්ටමේ රාජ්‍ය නිලධාරීන්ගේ කැපවීම අත්‍යාවශ්‍ය බවද ජනාධිපතිවරයා අවධාරණය කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නව ග්‍රාම නිලධාරීන් ලෙස බඳවාගත් 2100කට පත්වීම් ලිපි ප්‍රදානය වෙනුවෙන් අද (08) පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති උත්සවය අමතමිනි.
+President Ranil Wickremesinghe said that agriculture cannot be strengthened without improveming agriculture.
 
-විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් මස 02 වැනිදා පවත්වන ලද ග්‍රාම නිලධාරී විභාගයේ ප්‍රතිඵල අනුව ප්‍රාදේශීය ලේකම් කොට්ඨාස මට්ටමින් වැඩිම ලකුණු ලබා ගත් අයැදුම්කරුවන් අතරින් 2100 දෙනකු වෙනුවෙන් මෙසේ ග්‍රාම නිලධාරී පත්වීම් ප්‍රදානය සිදු කෙරිණි.
+The President emphasized that the commitment of ground level state officials to improve the government to improve the rural economy, including the Government Agriculture Investigation Program, is essential.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව පත්වීම් ලිපි ප්‍රදානය කිරීමට එක් විය.
+President Ranil Wickremesinghe addressing the ceremony held at Temple Trees this morning for the appointment of appointment letters to 2100 new Grama Niladharis.
+
+The Department of Examinations were given the highest scorers on December 2, 2023, a Grama Niladhari appointments were presented to 2100 other points.
+
+President Ranil Wickremesinghe joined the symbolic appointment letters.
+
+The President made the new Grama Niladhari of the inheritance and heritage to uplift the government to uplift the government.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/a85efecb.json)
+
+[Extended Data](ext_articles/a85efecb.ext.json)
 
 ---
 
@@ -2209,27 +2243,5 @@ However, an inquiry will be conducted at the Department of Prisons regarding the
 [Data](articles/b0148004.json)
 
 [Extended Data](ext_articles/b0148004.ext.json)
-
----
-
-### Diana Gamage becomes 12th MP to be out of 2020-elected parliament
-
-*2024-05-08 11:45:00* · [`economynextcom`](https://economynext.com/diana-gamage-becomes-12th-mp-to-be-out-of-2020-elected-parliament-162053/) · `en`
-
-ECONOMYNEXT – Diana Gamage became the 12th Member of Parliament to be out of the island nation’s legislature that was elected in the 2020 general elections either due to death or resignation or legal actions, official data showed.
-
-A three-judge Supreme Court bench on Wednesday decided that State Tourism Minister Diana Gamage is not eligible to hold an MP post after a legal case challenging her eligibility over holding the MP post due to her citizenship.
-
-Gamage was accused of breaching immigration laws and hiding credentials over her citizenship.
-
-Gamage entered the parliament through the national list under the main opposition Samagi Jana Balawegaya (SJB)
-
-Sri Lanka constitution has barred duel citizens for foreign citizens holding MP post in its latest amendment.
-
-...
-
-[Data](articles/54064814.json)
-
-[Extended Data](ext_articles/54064814.ext.json)
 
 ---

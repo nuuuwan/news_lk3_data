@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 05:35:32**
+As of **2024-05-08 05:56:00**
 
 ## Newspaper Stats
 
-*Scraped **22,617** Articles*
+*Scraped **22,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,224
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
-tamilmirrorlk | 2,633
+tamilmirrorlk | 2,635
 adaderanalk | 2,654
 virakesarilk | 3,386
 dailymirrorlk | 3,545
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,617 (100.0%) of 22,617 articles have been extended.
+22,617 (100.0%) of 22,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -264,6 +264,24 @@ During his address in parliament, MP Prof. Charitha Herath remarked that the ove
 
 ---
 
+### ’இளைஞனுக்கு நெருக்கடி அரசாங்கத்துக்கே நெருக்கடி’
+
+*2024-05-08 00:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனுக்கு-நெருக்கடி-அரசாங்கத்துக்கே-நெருக்கடி/175-336930) · `ta`
+
+விசா விநியோகத்தில் இடம்பெறவிருந்த பாரிய மோசடியை தனி ஒருவனாக இளைஞர் ஒருவர்  அம்பலப்படுத்தியுள்ளார். எனவே தவறுகளை அரசாங்கம்  திருத்திக் கொள்ள வேண்டும் என ஜே .வி.பி.எம்.பியான. விஜித ஹேரத்  கேட்டுக்கொண்டார்.
+
+அதனை விடுத்து அந்த இளைஞனுக்கு நெருக்கடிகளை ஏற்படுத்தினால் அரசாங்கம் மீண்டும் பாரிய நெருக்கடிகளுக்கு முகம் கொடுக்க நேரிடும்.அரசாங்கத்துக்கு எதிராக மீண்டும் சட்டத்தரணிகளும் மக்களும் ஒன்றிணைவார்கள் எச்சரித்தார்.
+
+பாராளுமன்றத்தில்  நேற்று செவ்வாய்க்கிழமை இடம்பெற்ற  பிரிவிடல் (திருத்தச்) சட்டமூலம் மற்றும்  வங்கிகளால் வழங்கப்பட்ட  கடன்கள் அறவிடல் (விசேட ஏற்பாடுகள்)திருத்தச்  சட்டமூலம் (பராட்டே) என்பன மீதான விவாதத்தில் உரையாற்றும்  போதே இந்த எச்சரிக்கையை விடுத்த அவர் மேலும் பேசுகையில்,
+
+அரசியலமைப்பினால் வழங்கப்பட்டுள்ள பேச்சுரிமையை அந்த இளைஞர்  பயன்படுத்தியுள்ளார்.இந்த இளைஞர்  குறிப்பிட்ட விடயங்கள் சமூக வலைத்தளங்களில் வெளியாகி,அது தொடர்பில்  மக்கள் அவதானம் செலுத்தியதன் பின்னரே அமைச்சரவை பழைய முறைக்கு  விசா விநியோகிக்க தீர்மானித்துள்ளது.
+
+...
+
+[Data](articles/74c42468.json)
+
+---
+
 ### CEAT Kelani says not fined by Customs Department
 
 *2024-05-08 00:38:58* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-says-not-fined-by-Customs-Department/34-761537) · `en`
@@ -341,6 +359,22 @@ He also has experience serving in prominent Global Organizations such as Warner 
 [Data](articles/4ae47fff.json)
 
 [Extended Data](ext_articles/4ae47fff.ext.json)
+
+---
+
+### ’நல்லிணக்க செயலணி ஒரு கண்துடைப்பு’
+
+*2024-05-08 00:35:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்க-செயலணி-ஒரு-கண்துடைப்பு/175-336929) · `ta`
+
+யுத்த அத்துமீறல் குற்றச் சாட்டுக்களுக்கு உள்ளக பொறிமுறை மூலமாக   சரியான நீதி கிடைக்காது என்பதற்கு யுத்தம் முடிவடைந்த இந்த 15 வருட காலமாக எதுவுமே நடக்காமல் இருப்பதே சான்றாக உள்ளது என்று தமிழ்த் தேசியக் கூட்டணியின் பாராளுமன்ற உறுப்பினரான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (07)  இடம்பெற்ற  பிரிவிடல் (திருத்தச்) சட்டமூலம் மற்றும்  வங்கிகளால் வழங்கப்பட்ட  கடன்கள் அறவிடல் (விசேட ஏற்பாடுகள்)திருத்தச்  சட்டமூலம் (பராட்டே) என்பன மீதான விவாதத்தில் உரையாற்றும்  போதே இவ்வாறு தெரிவித்த எம்.ஏ. சுமந்திரன் எம்.பி. மேலும் பேசுகையில்,
+
+இன்னுமொரு நல்லிணக்க செயலணியை கொண்டு வருவதை நாங்கள் எதிர்க்கின்றோம்.   இது செப்டம்பரில் வரவுள்ள ஜெனிவா அமர்வுக்கு காண்பிக்கும் ஒரு கண்துடைப்பு நடவடிக்கையாகும்.
+
+...
+
+[Data](articles/1f6d541c.json)
 
 ---
 
@@ -2193,53 +2227,5 @@ Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Min
 [Data](articles/bb3c0f9a.json)
 
 [Extended Data](ext_articles/bb3c0f9a.ext.json)
-
----
-
-### Sri Lanka stocks close marginally down, turnover at Rs2bn
-
-*2024-05-07 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-marginally-down-turnover-at-rs2bn-161823/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down an imperceptible percentage, or 0.44 points, at 12,375; while the S&P SL20 Index closed down 0.02 percent, or 0.67 points, at 3,647.
-
-Turnover was at 2 billion. Capital goods contributed 525 million of this, and the food, beverage and tobacco sector contributed 423 million.
-
-Royal Ceramics Lanka Plc saw the most active trading volumes (Rs124mn) in the day, and the share closed flat at 35.00.
-
-Browns Investments Plc also saw some interest (Rs106mn) and the share closed up at 6.70. parent company LOLC Holdings Plc closed up at 486.00.
-
-Index heavyweight John Keells Holdings Plc was down at 201.50, as was rival conglomerate Aitken Spence Plc at 131.25.
-
-Hayleys Plc closed up at 93.10. Hayleys Fabric Plc closed up at 43.10.
-
-...
-
-[Data](articles/328f0319.json)
-
-[Extended Data](ext_articles/328f0319.ext.json)
-
----
-
-### Appeals Court rejects Wijeyadasa’s petition against interim order
-
-*2024-05-07 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99064/appeals-court-rejects-wijeyadasas-petition-against-interim-order) · `en`
-
-The Court of Appeal today dismissed the petition filed by Minister Wijeyadasa Rajapakshe seeking to suspend the interim injunction issued by the Colombo District Court preventing him from functioning as the Acting Chairman of the Sri Lanka Freedom Party (SLFP).
-
-Minister of Justice Wijeyadasa Rajapakshe was appointed as the Acting Chairman of SLFP during an executive committee meeting held on April 21, by the party’s faction led by former President Maithripala Sirisena.
-
-On April 24, the Colombo District Court issued an injunction order preventing Minister Wijeyadasa from functioning as the Acting Chairman of the SLFP.
-
-The court has also issued an injunction order preventing MP Sarathie Dushmantha Mithrapala from functioning as the General Secretary of SLFP.
-
-Meanwhile, the court had issued another injunction preventing the implementation of the decisions taken by the SLFP Acting General Secretary.
-
-...
-
-[Data](articles/ec655f75.json)
-
-[Extended Data](ext_articles/ec655f75.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 10:33:20**
+As of **2024-05-08 10:51:01**
 
 ## Newspaper Stats
 
-*Scraped **22,668** Articles*
+*Scraped **22,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,322
 adalk | 1,908
-tamilmirrorlk | 2,646
-adaderanalk | 2,656
+tamilmirrorlk | 2,648
+adaderanalk | 2,657
 virakesarilk | 3,386
-dailymirrorlk | 3,558
+dailymirrorlk | 3,559
 adaderanasinhalalk | 3,630
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,665 (100.0%) of 22,668 articles have been extended.
+22,668 (100.0%) of 22,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Australia raises minimum savings for student visa, warns on fake recruitment
+
+*2024-05-08 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99073/australia-raises-minimum-savings-for-student-visa-warns-on-fake-recruitment) · `en`
+
+Australia said on Wednesday it would raise the amount of savings international students will need to get a visa and warned several colleges of fraudulent student recruitment practices, as part of efforts to rein in record migration.
+
+From Friday, international students must show proof of savings of at least A$29,710 ($19,576) to get their visa, the second increase in about seven months. It was raised to A$24,505 from A$21,041 in October.
+
+The moves follow a raft of actions in recent months to tighten the student visa rules as the lifting of COVID-19 restrictions in 2022 triggered a sudden influx of migrants, exacerbating pressure on an already tight rental market.
+
+English language requirements for student visas were increased in March and the government has been taking steps to end settings that allowed students to prolong their stay.
+
+...
+
+[Data](articles/5d4e3995.json)
+
+---
+
+### ”பொதுத் தேர்தலே முதலில் நடக்க வேண்டும் ”
+
+*2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலே-முதலில்-நடக்க-வேண்டும்/175-336943) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பொதுத் தேர்தல் நடத்தப்பட வேண்டும் என்பதை தமது கட்சி இன்னும் நம்புவதாகவும் ஆனால் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு மாறுபட்ட நிலைப்பாடு இருப்பதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) ஸ்தாபகர் பசில் ராஜபக்ஷ நேற்று மீண்டும் வலியுறுத்தினார்.
+
+கட்சியின் பாராளுமன்றக் குழுவில் உரையாற்றிய பசில் முன்னதாக அவர் ஜனாதிபதியை சந்தித்து சமீபத்திய அரசியல் முன்னேற்றங்கள் குறித்து பேச்சுவார்த்தை நடத்தியதை நினைவூட்டினார்.
+
+SLPP இன் கூற்றுப்படி, அரசியலமைப்பின் அடிப்படையில் இந்த ஆண்டு ஒக்டோபரில் திட்டமிடப்பட்ட ஜனாதிபதித் தேர்தலுக்கு முன்னதாக, பொதுத் தேர்தலை நடத்துவதற்கு உடன்பட்டு கணிசமானளவு எண்ணிக்கையிலான பாராளுமன்ற உறுப்பினர்கள் உள்ளனர். அடுத்த பாராளுமன்றத் தேர்தல் 2025ஆம் ஆண்டிலேயே நடைபெற உள்ளது. எவ்வாறாயினும், பாராளுமன்றத்தை முன்கூட்டியே கலைத்து, விரைவான தேர்தலை அறிவிப்பதற்கு ஜனாதிபதிக்கு அரசியலமைப்பு அதிகாரம் உள்ளது.
+
+...
+
+[Data](articles/4eb56dc8.json)
+
+---
+
+### Programme initiated to manufacture artificial limbs
+
+*2024-05-08 10:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Programme-initiated-to-manufacture-artificial-limbs/110-282149) · `en`
+
+The Sri Lanka Army, in bilateral cooperation with the High Commission of India in Sri Lanka, yesterday initiated a programme to manufacture artificial limbs at the Ranaviru Sevana, Ragama.
+
+This endeavour not only signifies the enduring bond between Sri Lanka and India but also reflects a collective commitment to support those who have made sacrifices for the nation's security and are now confronting challenges due to disabilities.
+
+◼️
+
+[Data](articles/43f465f2.json)
+
+---
 
 ### Appointment of CIABOC Director General challenged in SC
 
@@ -50,31 +98,39 @@ The petition further argues that he does not meet all statutory requirements and
 
 [Data](articles/37fd64a6.json)
 
+[Extended Data](ext_articles/37fd64a6.ext.json)
+
 ---
 
-### මාරක අනතුරෙන් 19 හැවිරිදි තරුණයාට දිවි අහිමිවෙයි
+### 19-year-old youth will be imposed in fatal accident
 
 *2024-05-08 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196393) · `si`
 
-පොතුහැර පොලිස් වසමේ කහවත්තේ, ඇළ බෙම්මුලලේ ගෙදර මාර්ගයේ 8 කණුව ආසන්නයේ දී සිදුවු රිය අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A 19-year-old was killed in an accident near Panahawatta, Pothuhewatta, Pothuwewa. The motorcycle fell into the Kahamulla canal and the victim died at Kurunegala Hospital.
 
-බෙම්මුල්ලේ ගෙදර දෙස සිට කහවත්තේ ඇළ දෙසට ගමන් කළ යතුරුපැදියක් පැදිකරුට පාලනය කරගැනීමට නොහැකිව මාර්ගයෙන් ඉවතට පැන ගින්නේරිය පාලම තුළට වැටී අනතුරක් සිදුව ඇත.
+🟩
 
-අනතුරින් තුවාල ලැබු පැදිකරු හා පසුපැදිකරු කුරුණෑගල රෝහලට ඇතුළුත් කිරීමේ දී පසුපැදිකරු මියගොස් තිබේ.
+A young man was killed in an accident near the 8th post of Panahawatta, Pothuhewatta, Pothuwewa.
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 19 හැවිරිදි වදාකඩ ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+The motorcycle motorbike motorbike moved to the Kahamulla canal to the Kahamulla canal and fell into the Ginoriya bridge.
+
+The injured and the victim died on the Kurunegala hospital in Kurunegala Hospital.
+
+The victim is a 19 year old resident of the Disadagada area.
 
 ◼️
 
 [Data](articles/9392cc48.json)
 
+[Extended Data](ext_articles/9392cc48.ext.json)
+
 ---
 
-### கே.டி.லால்காந்தவின் கருத்தால் பாராளுமன்றத்தில் குழப்பம்
+### கே.டி.லால்காந்தவின் கருத்தால் சபையில் குழப்பம்
 
-*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-பாராளுமன்றத்தில்-குழப்பம்/175-336942) · `ta`
+*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
 
-எதிர்கால NPP அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில் தேசிய மக்கள் சக்தியின் (NPP) கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
+எதிர்கால  தேசிய மக்கள் சக்தி (NPP)  அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில்   கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
 
 கிராம மட்டத்தில் உள்ள தனது கட்சி உறுப்பினர்களுக்கு நீதித்துறை அதிகாரத்தை வழங்குவதாக லால்காந்த உறுதியளித்ததாக இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க கூறியதையடுத்து இந்த வெடிப்பு ஏற்பட்டது.
 
@@ -84,7 +140,33 @@ The petition further argues that he does not meet all statutory requirements and
 
 ...
 
+[Data](articles/48d3c7a5.json)
+
+---
+
+### Confusion in Parliament by KD Lalganta's opinion
+
+*2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கே-டி-லால்காந்தவின்-கருத்தால்-பாராளுமன்றத்தில்-குழப்பம்/175-336942) · `ta`
+
+KD Lalganta claimed NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalganta's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya denied Lalganta promised judicial authority to NPP members at village level. Justice Minister Vijayadasa Rajapakse mentioned JVP member Sumanasena's role in resolving land issues in 1989. MP Mahindananda Aluthgamage will be Justice Minister in future NPP government.
+
+🟩
+
+The National People's Power (NPP) KT Lalgantha commented at the recent May Day meeting that the future NPP government would spread judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
+
+The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
+
+The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
+
+Mrs. Amarasuriya said Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
+
+Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land issues in 1989.
+
+...
+
 [Data](articles/760b8da7.json)
+
+[Extended Data](ext_articles/760b8da7.ext.json)
 
 ---
 
@@ -2125,105 +2207,5 @@ Vladimir Putin took over as Russian President today for the 5th time. By winning
 [Data](articles/078cc6b7.json)
 
 [Extended Data](ext_articles/078cc6b7.ext.json)
-
----
-
-### Putin took over as Russian Chancellor for the 5th time
-
-*2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-அதிபராக-பொறுப்பேற்ற-புடின்/50-336907) · `ta`
-
-Vladimir Putin won the Russian presidential election, taking over as president for the 5th time, with 88% of the votes, ensuring another six years in office.
-
-🟩
-
-Vladimir Putin, who won the Russian presidential election, took over as president for the fifth time today.
-
-The presidential election date was announced a few months ago as Russian President Vladimir Putin's tenure ended.
-
-The presidential election was held last March. The Communist Party's Nikolai Garidonov, the Nationalist Liberal Democratic Party's Leonit Slotsky and the New People's Party Valadislav Davankov contested against Putin.
-
-Vladimir Putin won 88 percent of the votes in this election. According to these election results, there was no major opposition parties.
-
-Vladimir Putin took over as Russian President today for the 5th time. By winning this election, he will remain president for another six years. Remble
-
-◼️
-
-[Data](articles/1173581f.json)
-
-[Extended Data](ext_articles/1173581f.ext.json)
-
----
-
-### Children arrested for intimidating students
-
-*2024-05-07 19:13:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிகளை-மிரட்டிய-சிறுவர்கள்-கைது/175-336906) · `ta`
-
-Two 15-year-old students threatened to share naked photos of two 17 and 20-year-old girls, leading to their arrest on charges of criminal threat and sexual harassment. Released on bail, the suspects are from Akmemana and Narawala.
-
-🟩
-
-Two 15 -year -old schoolchildren who threatened to share naked photos of two schoolgirls aged 17 and 20 were produced before the Galle Magistrate Lakmini Vidanagama and were released on bail for Rs 100,000 each.
-
-The suspects are students in the 10th grade of a school in Akmemana and are from Akmemana and Narawala.
-
-Investigations have revealed that the boys who secretly received photos of the two girls secretly without any positive response from the girls were threatened to replace the faces of the girl children in naked photos and share it on the Internet.
-
-Fearing the threat, the girls have lodged a complaint with the Akimana police through them.
-
-Akmeemana police arrested the children and produced them in court on charges of criminal threat and sexual harassment.
-
-◼️
-
-[Data](articles/dcb45e74.json)
-
-[Extended Data](ext_articles/dcb45e74.ext.json)
-
----
-
-### US $ 6000 investment for one family
-
-*2024-05-07 19:05:59* · [`adalk`](https://www.ada.lk/breaking_news/එක්-පවුලක්-සඳහා-එක්සත්-ජනපද-ඩොලර්-6000ක-ආයෝජනයක්/11-409485) · `si`
-
-A $100M investment for a promotion project in Sri Lanka aims to modernize farming, benefiting 15,000 families. The project, supported by Portugal, will introduce modern technology and improve income.
-
-🟩
-
-Memorandum of Understanding (MoU) was signed this morning to deal with a promotion project in Sri Lanka.
-
-Calaswadi Wijewardene, General Secretary of the Climate Change Secretariat in Sri Lanka, the Secretary General of Carlos Gomez was signed by its General Secretary Mohammed Nasidal and the Nativa Capital Company in Portugal.
-
-The agreement is to improve the domesticated farming of rural community in Sri Lanka, introducing the farming and farmers' income to improve the income of the farmers.. Most farms in Sri Lanka are currently in a small scale, and it is suffering from low yield and low income.
-
-As a result, a pilot project for 15,000 families will be launched in the Anuradhapura District due to a US $ 100 million.
-
-The Farming and Forestry Projects included in the MoU have been identified by the Climate Prosperous Prosperity in Sri Lanka, with the assistance of Climatic Risk Forum (CVF).
-
-...
-
-[Data](articles/92db239f.json)
-
-[Extended Data](ext_articles/92db239f.ext.json)
-
----
-
-### Sudden change in the first climate tomorrow
-
-*2024-05-07 19:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-காலநிலையில்-திடீர்-மாற்றம்/175-336905) · `ta`
-
-"Tomorrow, severe heat and increased rainfall in Western, Sabaragamuwa, Central Provinces, and thundershowers in North Western, North Central, and Uva provinces are predicted."
-
-🟩
-
-In most parts of the country will change from tomorrow (08). The Department of Meteorology has predicted that the rainy weather may increase for a few days in the midst of severe heat.
-
-According to the department, the department said that rainfall will occur in the Western, Sabaragamuwa and Central Provinces in Mannar, Vavuniya, Mullaitivu, Galle and Matara districts tomorrow.
-
-Thundershowers will occur in some parts of the North Western, North Central and Uva provinces tomorrow afternoon.R
-
-◼️
-
-[Data](articles/2a376322.json)
-
-[Extended Data](ext_articles/2a376322.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 22:06:04**
+As of **2024-05-08 22:18:20**
 
 ## Newspaper Stats
 
-*Scraped **22,787** Articles*
+*Scraped **22,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,315
 dailyftlk | 1,322
 adalk | 1,929
 tamilmirrorlk | 2,662
-adaderanalk | 2,672
+adaderanalk | 2,676
 virakesarilk | 3,390
 dailymirrorlk | 3,579
 adaderanasinhalalk | 3,648
@@ -26,11 +26,35 @@ adaderanasinhalalk | 3,648
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,782 (100.0%) of 22,787 articles have been extended.
+22,787 (100.0%) of 22,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Three including Police Constable, Sergeant arrested on bribery charges
+
+*2024-05-08 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99092/three-including-police-constable-sergeant-arrested-on-bribery-charges) · `en`
+
+Three persons including a Police Constable, and a Sergeant attached to the Kottawa Police Station have been arrested by Bribery Commission officers while accepting a bribe of Rs. 200,000.
+
+◼️
+
+[Data](articles/9ab26118.json)
+
+---
+
+### Two retired military officers arrested for illegal recruiting Sri Lankans for Russian forces
+
+*2024-05-08 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99091/two-retired-military-officers-arrested-for-illegal-recruiting-sri-lankans-for-russian-forces-) · `en`
+
+A Major General and a Sergeant, both retired, have been arrested by the Criminal Investigation Department (CID) in Kurunegala for allegedly trafficking Sri Lankans to be employed in the Russian military.
+
+◼️
+
+[Data](articles/30a83971.json)
+
+---
 
 ### Former NMRA CEO arrested
 
@@ -46,39 +70,69 @@ Earlier, Dr. Vijith Gunasekera was removed from the post of CEO on a decision by
 
 [Data](articles/6d092c7b.json)
 
+[Extended Data](ext_articles/6d092c7b.ext.json)
+
 ---
 
-### හිටපු මේජර් ජෙනරාල් සහ සැරයන් අත්අඩංගුවට
+### Former Major General and Sergeant arrested
 
 *2024-05-08 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196411) · `si`
 
-හිටපු යුද හමුදා මේජර් ජෙනරාල්වරයෙකු සහ හිටපු යුද හමුදාවේ සැරයන්වරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+A former Army Major General and sergeant were arrested in Kurunegala, linked to a racket involving former army personnel in Russia and Ukraine.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ ඔවුන් කුරුණෑගල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-රුසියාවේ සහ යුක්‍රේනයේ කුලී හමුදා කඳවුරුවලට මෙරට හිටපු හමුදා සාමාජිකයින් යොමු කිරීමේ ජාවාරමට අදාළව ඔවුන්ව අත්අඩංගුවට ගෙන තිබේ.
+A former Army Major General and former Army sergeant has been arrested by the CID.
+
+Police Media Spokesperson DIG'sary DIG's Court Attorney Nihal Talduuwa said they have been arrested in the Kurunegala area.
+
+They have been arrested in connection with the racket of former army personnel in Russia and Ukraine.
 
 ◼️
 
 [Data](articles/6da7d61c.json)
 
+[Extended Data](ext_articles/6da7d61c.ext.json)
+
 ---
 
-### NMRA හිටපු ලොක්කා අත්අඩංගුවට
+### Ex-NMRA chief arrested by CID, grilled for over 10 hours
+
+*2024-05-08 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99090/ex-nmra-chief-arrested-by-cid-grilled-for-over-10-hours) · `en`
+
+Former CEO of the National Medicines Regulatory Authority (NMRA) Dr. Vijith Gunasekara, has been arrested by the Criminal Investigation Department (CID) on Wednesday (08).
+
+He has been questioned for more than 10 hours following the arrest.
+
+Dr. Gunasekara was apprehended by the CID in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
+
+◼️
+
+[Data](articles/b8a76f5c.json)
+
+---
+
+### NMRA former boss arrested
 
 *2024-05-08 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196410) · `si`
 
-ජාතික ඖෂධ නියාමන අධිකාරියේ හිටපු ප්‍රධාන විධායක නිලධාරී වෛද්‍ය විජිත් ගුණසේකර මහතාව අත්අඩංගුවට ගෙන තිබේ.
+The former CEO of the National Drug Regulatory Authority was arrested after nearly 10 hours of questioning by the Criminal Investigation Department regarding the Human Emiyanglobulubulin antibodies.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැය 10කට ආසන්න කාලයක් ප්‍රකාශයක් ලබාදීමෙන් අනතුරුව ඒ මහතා මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ප්‍රශ්නගත හියුමන් ඉමියුනෝග්ලොබියුලින් ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව ඒ මහතා මෙලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ ප්‍රකාශයක් ලබාදුන්නේය.
+The former Chief Executive Officer of the National Drug Regulatory Authority has been arrested.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ අධීක්ෂණය යටතේ සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+He was arrested following a statement for nearly 10 hours after the CID.
+
+He made a statement to the CID regarding the questionable Human Emiyanglobulubulin antibodies.
+
+The Criminal Investigation Department is further investigations into the investigation.
 
 ◼️
 
 [Data](articles/8382cdc5.json)
+
+[Extended Data](ext_articles/8382cdc5.ext.json)
 
 ---
 
@@ -124,6 +178,8 @@ Ahungalla Police are conducting an investigation to determine the cause of the s
 
 [Data](articles/3b1ee9e1.json)
 
+[Extended Data](ext_articles/3b1ee9e1.ext.json)
+
 ---
 
 ### Shooting in Ahungalla leaves one person dead
@@ -139,6 +195,24 @@ Reportedly, the victim has succumbed to injuries upon admission to the Balapitiy
 [Data](articles/45864c87.json)
 
 [Extended Data](ext_articles/45864c87.ext.json)
+
+---
+
+### Shooting in Ahungalla leaves a man dead
+
+*2024-05-08 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99089/shooting-in-ahungalla-leaves-a-man-dead) · `en`
+
+A 54-year-old man was shot dead by two gunmen in Bogahapitiya area of Ahungalla on Wednesday evening (08).
+
+The assailants, who had arrived on a motorcycle, have shot a man at his home before fleeing the scene.
+
+The victim has succumbed to injuries while being rushed to the Balapitiya Base Hospital.
+
+The motive behind the shooting was not immediately clear, according to the police.
+
+◼️
+
+[Data](articles/b6f4d4a9.json)
 
 ---
 
@@ -286,23 +360,29 @@ The inauguration ceremony of the program was held at the Ministry of Sethsiripay
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීම සාර්ථක කර ගැනීමෙන් ණය බර ඩොලර් බිලියන 17කින් අඩු කර ගත හැකියි
+### A successful restructuring can reduce debt by $ 17 billion
 
 *2024-05-08 19:02:23* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-සාර්ථක-කර-ගැනීමෙන්-ණය-බර-ඩොලර්-බිලියන-17කින්-අඩු-කර-ගත-හැකියි/11-409510) · `si`
 
-විදෙස් ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලිය ජූනි මාසය වන විට අවසන් කර ගැනීමට රජය අපේක්ෂා කරන බවත් සමස්ත ක්‍රියාවලිය සාර්ථක කර ගැනීමෙන් ශ්‍රී ලංකාවේ ණය බර එක්සත් ජනපද ඩොලර් බිලියන 17කින් පමණ අඩු කර ගත හැකි වනු ඇති බවත් විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා පැවසීය.
+Ali Sabri, Sri Lanka's External Affairs Minister, announced a potential $17 billion debt reduction through successful restructuring. The government aims to complete foreign debt with IMF's second loan installment, focusing on non-aligned foreign policy and maintaining sovereignty. Sri Lanka has close relations with China and India, aiming for economic development and investment in renewable energy.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ දෙවන ණය වාරිකය ලැබීමත් සමඟ රටේ සංවර්ධන කටයුතුද ඉදිරියට කරගෙන යා හැකි බවද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්රි මහතා මෙම අදහස් පළකළේ “ස්ථාවර රටකට සැවොම එක මඟකට” මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (08) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+External Affairs Minister Ali Sabri said the government is expected to complete the prevailing foreign debt and that Sri Lanka's debt can be reduced by US $ 17 billion by a success.
 
-ශ්‍රී ලංකාව නොබැඳි විදේශ ප්‍රතිපත්තියක් අනුගමනය කරමින් හා ශ්‍රී ලංකාවේ ස්වෛරීභාවය ආරක්ෂා කර ගනිමින් සියලු ජාතීන් සමඟ සබඳතා පැවැත්වීම හේතුවෙන් මේ වන විට ජාත්‍යන්තර ප්‍රජාවෙන් සහන රැසක් හිමි වෙමින් තිබෙන බවද අමාත්‍යවරයා කියා සිටියේය.
+The Minister said that with the second loan installment of the International Monetary Fund, the country's development can be continued.
 
-චීනය මෙන්ම ඉන්දියාව සමඟ සමීප සබඳතා පවත්වමින් මෙරට ආර්ථික සංවර්ධනයට දෙරටේ සහාය ලබා ගැනීමට රජය කටයුතු කර ඇති බවද අලි සබ්රි මහතා මෙහිදී පෙන්වා දුන්නේය.
+Minister of External Affairs Ali Sabri expressed his views at a press conference held at the press conference held today (08) at the President's Media Center today.
+
+The Minister also said that Sri Lanka is following a non-aligned foreign policy and to maintain the sovereignty of Sri Lanka and have a concessionary relief to the international community.
+
+Ali Sabri pointed out that the government has taken measures to obtain the support of the two countries to support the economic development of the country, having close relations with China as well as close relations with India.
 
 ...
 
 [Data](articles/fe76512f.json)
+
+[Extended Data](ext_articles/fe76512f.ext.json)
 
 ---
 
@@ -2177,87 +2257,5 @@ Social activist Osala Herath has filed an appeal against the verdict of the Cour
 [Data](articles/bf664818.json)
 
 [Extended Data](ext_articles/bf664818.ext.json)
-
----
-
-### Supreme Court rules Diana Gamage ineligible for parliamentary seat
-
-*2024-05-08 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-Diana-Gamage-ineligible-for-parliamentary-seat/108-282150) · `en`
-
-Colombo, May 08 - The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
-
-With this Supreme Court judgment, Diana Gamage’s disqualification will lead to the loss of her parliamentary seat.
-
-The Supreme Court three-judge-bench comprised  Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva.
-
-Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for Petitioner Oshala Herath.
-
-◼️
-
-[Data](articles/77851ed5.json)
-
-[Extended Data](ext_articles/77851ed5.ext.json)
-
----
-
-### Supreme Court rules Diana Gamage ineligible for parliamentary seat
-
-*2024-05-08 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Supreme-Court-rules-Diana-Gamage-ineligible-for-parliamentary-seat/155-282150) · `en`
-
-Colombo, May 08 - The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
-
-With this Supreme Court judgment, Diana Gamage’s disqualification will lead to the loss of her parliamentary seat.
-
-The Supreme Court three-judge-bench comprised  Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva.
-
-Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for Petitioner Oshala Herath.
-
-◼️
-
-[Data](articles/95b21654.json)
-
-[Extended Data](ext_articles/95b21654.ext.json)
-
----
-
-### State Minister Diana Gamage loses MP seat
-
-*2024-05-08 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99074/state-minister-diana-gamage-loses-mp-seat) · `en`
-
-The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
-
-Accordingly, delivering its verdict today, the three-judge Supreme Court bench decided that State Minister Diana Gamage is not eligible to hold the position of Member of Parliament.
-
-The court had concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition against State Minister Diana Gamage’s parliamentary membership. Upon concluding the proceedings on February 13, the judge bench decided to defer its verdict indefinitely.
-
-Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
-
-...
-
-[Data](articles/952aa21c.json)
-
-[Extended Data](ext_articles/952aa21c.ext.json)
-
----
-
-### Diana loses a Member of Parliament
-
-*2024-05-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196394) · `si`
-
-The Supreme Court ruled that Diana Gamage, a British citizen, is not eligible to serve in Sri Lanka's Parliament, following appeals by social activist Oshala Herath.
-
-🟩
-
-The Supreme Court today decided that Mrs. State Minister Diana Gamage is not a legitimate qualification in Parliament.
-
-The Supreme Court was announced after hearing a appet of appeals by Mr. Oshala Herath, a social activist and hearing.
-
-Since Ms. Diana Gamage is a British citizenship, this petition had been submitted to give a ruling that she was not legally eligible to sit in the Parliament of Sri Lanka.
-
-◼️
-
-[Data](articles/c0b979ef.json)
-
-[Extended Data](ext_articles/c0b979ef.ext.json)
 
 ---

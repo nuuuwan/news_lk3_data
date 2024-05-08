@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 09:33:23**
+As of **2024-05-08 09:51:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,652 (100.0%) of 22,654 articles have been extended.
+22,654 (100.0%) of 22,654 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the
 ...
 
 [Data](articles/58e3408e.json)
+
+[Extended Data](ext_articles/58e3408e.ext.json)
 
 ---
 
@@ -1780,21 +1782,29 @@ The amendments were then presented by Ashok Abeysinghe and 49 votes were cast ag
 
 ---
 
-### 2023දී ලංකාවෙන් හොර නෝට්ටු 1769ක් හමුවෙලා
+### In 2023, Sri Lanka met 1769 counterfeit notes
 
 *2024-05-07 19:25:14* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවෙන්-හොර-නෝට්ටු-1769ක්-හමුවෙලා/11-409486) · `si`
 
-2023 ජනවාරි 01වනදා සිට එම වර්ෂයේ දෙසැම්බර් 25වනදා දක්වා කාලසීමාව තුළදී ව්‍යාජ මුදල් නෝට්ටු 1,769ක් පිළිබඳව අනාවරණය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය ප්‍රකාශ සහ මෙහෙයුම් මැයි මස 04වනදා නිකුත් කරන ලද වාර්තාවේ සඳහන් වේ.
+In 2023, Sri Lanka faced 1769 counterfeit notes. The Central Bank of Sri Lanka (SLTB) submitted a claim for 11 Million Courts to the Ministry of Justice. Despite encountering 1.4 counterfeit notes, SLTB issued 97 certificates under Section 57 of the Central Bank Act. The bank aims to improve cash quality through legal enforcement and education.
 
-මෙම මහ බැංකු මූල්‍ය ප්‍රකාශන වාර්තාවෙන් පෙන්වා දෙන පරිදි 2023 වර්ෂයේදී අනාවරණය වූව්‍යාජ මුදල් නෝට්ටු 1,769 පිළිබඳව අධිකරණයෙන් නඩු කටයුතු 11ක් සඳහා මැයි සිට දෙසැම්බර් කාලය තුළදී ශ්‍රී ලංකා මහ බැංකුව අධිකරණ අමාත්‍යාංශයේ නඩු කටයුතු සඳහා ඉදිරිපත් වී ඇති බව මැයි මස 04වන දින නිකුත් කරන ලද මූල්‍ය ප්‍රකාශන වාර්තාවේ සඳහන් වේ.
+🟩
 
-ශ්‍රී ලංකාව තුළ සංසරණයේ පවතින මුදල් නෝට්ටු මිලියනයකට ව්‍යාජ මුදල් නෝට්ටු 1.4ක් පමණ ප්‍රමාණයක් හමුවන බැවින් මෙය ගෝලීය සාමාන්‍ය අනුපාතය වන නෝට්ටු මිලියනයකට ව්‍යාජ මුදල් නෝට්ටු 15කට සාපේක්ෂව සැලකිය යුතු අඩු මට්ටමක් බවද ශ්‍රී ලංකා මහ බැංකුව පෙන්වා දෙයි.
+The Central Bank's Financial Statements and Operations issued on May 04
 
-ශ්‍රී ලංකා මහ බැංකු පනතේ57වෙනි වගන්තිය යටතේ අධිකරණමය නඩු විභාග සඳහා පහසුකම් සලසමින් ව්‍යාජ මුදල් නෝට්ටු අනුකරණය සම්බන්ධ තීරණාත්මක සාක්ෂි වශයෙන් මහ බැංකුව සහතික 97ක් නිකුත් කර ඇත.
+The Central Bank of Sri Lanka (SLTB) has been submitted to suit in the Ministry of Justice in the Ministry of Justice for 11 Million Courts on May 2023, according to the Central Bank Financial Statement Report.Is mentioned.
 
-...
+The Central Bank of Sri Lanka (SLTB) has shown that this is a significant lowest level of 15 counterfeit notes, as it encounters about 1.4 counterfeit notes in Sri Lanka.
+
+Under Section 57 of the Central Bank Act, the Central Bank has issued 97 certificates as decisive evidence of fake currency notes.
+
+In addition, the Central Bank of Sri Lanka to enhance the knowledge and law to enforce knowledge and law to promote the quality of money to improve the quality of cash and handle money to maintain the quality of cash.
+
+◼️
 
 [Data](articles/2f1fd649.json)
+
+[Extended Data](ext_articles/2f1fd649.ext.json)
 
 ---
 

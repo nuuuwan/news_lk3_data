@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 20:51:52**
+As of **2024-05-08 21:03:45**
 
 ## Newspaper Stats
 
-*Scraped **22,779** Articles*
+*Scraped **22,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 2,662
 adaderanalk | 2,672
 virakesarilk | 3,390
 dailymirrorlk | 3,577
-adaderanasinhalalk | 3,645
+adaderanasinhalalk | 3,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,776 (100.0%) of 22,779 articles have been extended.
+22,779 (100.0%) of 22,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### ගාල්ලේ කාන්තාවකගේ මිලියන ගණනක වත්කම් තහනම් කරයි
+
+*2024-05-08 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196409) · `si`
+
+ගාල්ල ප්‍රදේශයේ කාන්තාවක සතු මිලියන ගණනාවක් වටිනා දේපොළ තහනම් කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+
+උපයාගත් ආකාරය හෙළිදරව් කිරීමට නොහැකිවීම හේතුවෙන් ගාල්ල කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් එම දේපොළ තහනම් කර ඇත.
+
+මෙලෙස තහනමට ලක්කර ඇති දේපොළවල වෙළෙඳපොළ වටිනාකම රුපියල් මිලියන 120ක් පමණ වන බව පොලීසිය පවසයි.
+
+පොලීසිය පවසන්නේ එම දේපොළ අතර ගාල්ල දඩල්ල ප්‍රදේශයේ සිව් මහල් ගොඩනැගිල්ලක් සහ අක්මීමන ප්‍රදේශයේ අක්කර එකහමාරක තේ සහ ගම්මිරිස් ඉඩමක් අයත් බව සඳහන්.
+
+පොලීසිය පවසන්නේ ඉදිරියේදී මෙම දේපොළ සම්බන්ධයෙන් අධිකරණමය ක්‍රියාමාර්ග ගැනීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/c51bed77.json)
+
+---
 
 ### Shooting in Ahungalla leaves one person dead
 
@@ -42,19 +62,27 @@ One person was shot dead by unidentified gunmen in Bogahapitiya area of Ahungall
 
 [Data](articles/45864c87.json)
 
+[Extended Data](ext_articles/45864c87.ext.json)
+
 ---
 
-### අහුංගල්ලේ වෙඩිතැබීමකින් පුද්ගලයෙකුට මරුට
+### A person dies after shooting at Ahungalla
 
 *2024-05-08 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196408) · `si`
 
-අහුංගල්ල ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් පුද්ගලයෙකු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+A person died and another was injured in a shooting in Ahungalla, with the victim in Balapitiya Hospital.
 
-වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා බලපිටිය රෝහල වෙත ඇතුළත් කර ඇත
+🟩
+
+One person was injured in a shooting conducted in Ahungalla area.
+
+The victim has been admitted to the Balapitiya Hospital
 
 ◼️
 
 [Data](articles/27e3f013.json)
+
+[Extended Data](ext_articles/27e3f013.ext.json)
 
 ---
 
@@ -75,6 +103,8 @@ Inspector Spiteri told the court that the defendant had already left Malta on a 
 ...
 
 [Data](articles/979bf4da.json)
+
+[Extended Data](ext_articles/979bf4da.ext.json)
 
 ---
 
@@ -2245,29 +2275,5 @@ The petition further argues that he does not meet all statutory requirements and
 [Data](articles/37fd64a6.json)
 
 [Extended Data](ext_articles/37fd64a6.ext.json)
-
----
-
-### 19-year-old youth will be imposed in fatal accident
-
-*2024-05-08 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196393) · `si`
-
-A 19-year-old was killed in an accident near Panahawatta, Pothuhewatta, Pothuwewa. The motorcycle fell into the Kahamulla canal and the victim died at Kurunegala Hospital.
-
-🟩
-
-A young man was killed in an accident near the 8th post of Panahawatta, Pothuhewatta, Pothuwewa.
-
-The motorcycle motorbike motorbike moved to the Kahamulla canal to the Kahamulla canal and fell into the Ginoriya bridge.
-
-The injured and the victim died on the Kurunegala hospital in Kurunegala Hospital.
-
-The victim is a 19 year old resident of the Disadagada area.
-
-◼️
-
-[Data](articles/9392cc48.json)
-
-[Extended Data](ext_articles/9392cc48.ext.json)
 
 ---

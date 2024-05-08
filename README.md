@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 23:33:51**
+As of **2024-05-08 23:53:07**
 
 ## Newspaper Stats
 
-*Scraped **22,798** Articles*
+*Scraped **22,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,36 +13,78 @@ bbccomsinhala | 238
 dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
-economynextcom | 1,315
+economynextcom | 1,316
 dailyftlk | 1,322
-adalk | 1,929
+adalk | 1,930
 tamilmirrorlk | 2,664
 adaderanalk | 2,677
 virakesarilk | 3,391
-dailymirrorlk | 3,579
+dailymirrorlk | 3,581
 adaderanasinhalalk | 3,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,797 (100.0%) of 22,798 articles have been extended.
+22,798 (100.0%) of 22,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### பொலிஸ் அதிகாரிகள் அதிரடி கைது
+### Police officers arrested in action
 
 *2024-05-08 22:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-அதிகாரிகள்-அதிரடி-கைது/175-336995) · `ta`
 
-கொட்டாவை பொலிஸ் நிலையத்தில் கடமையாற்றும் இரண்டு அதிகாரிகள் உட்பட மூவர் இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினால் கைது செய்யப்பட்டுள்ளனர்.
+Two Kottawa police officers and a third person were arrested by the Bribery Commission for allegedly bribing Rs. Remble.
 
-சுமார் 2 இலட்சம் ரூபாய் பணத்தை லஞ்சம் பெற்ற குற்றச்சாட்டின் கீழ் இவர்கள் கைது செய்யப்பட்டுள்ளனர். R
+🟩
+
+Three persons, including two officers on duty at the Kottawa police station, have been arrested by the Bribery Commission.
+
+They have been arrested on charges of bribing about Rs.. Remble
 
 ◼️
 
 [Data](articles/d589fa82.json)
+
+[Extended Data](ext_articles/d589fa82.ext.json)
+
+---
+
+### Government planning four-stage vehicle import resumption
+
+*2024-05-08 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-planning-four-stage-vehicle-import-resumption/108-282190) · `en`
+
+Following discussions with vehicle importers, the government is focused on resuming vehicle imports in four stages, Finance State Minister Ranjith Siyambalapitiya said.
+
+After the meeting, the State Minister claimed that vehicle importers are expected to deliver a report soon on the potential impact of lifting vehicle import restrictions.
+
+He said the report will include detailed information on the relaxation of import restrictions.
+
+Minister Siyambalapitiya pointed out the importance of the report prepared by experts in the vehicle import sector, highlighting its significant role in the decision-making process for the resumption of vehicle imports.
+
+During the discussion, vehicle importers suggested to the Finance State Minister that it would be more feasible to import vehicles under different categories instead of allowing all imports at once. They proposed categorizing vehicle imports for public transport, used vehicles and private vehicles.
+
+...
+
+[Data](articles/14026f5e.json)
+
+---
+
+### Ex Major General arrested for trafficking ex-military personnel to Russian-Ukrainian war front
+
+*2024-05-08 22:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ex-Major-General-arrested-for-trafficking-ex-military-personnel-to-Russian-Ukrainian-war-front/108-282207) · `en`
+
+Kurunegala, May 8 (Daily Mirror) - A retired Army Major General and a former Army Sergeant have been arrested by the Criminal Investigation Department on charges of trafficking ex-military personnel to conflict zones in Ukraine.
+
+The Criminal Investigation Department (CID), Police and Intelligence agencies have launched extensive operations to arrest illegal human traffickers and several people involved in a racket to send retired war veterans to the Russian-Ukrainian war front as members of mercenary groups.
+
+The Ministry of Defence has also warned that a significant number of Sri Lankan war veterans who had joined as mercenaries have died or sustained injuries at the battlefield.
+
+...
+
+[Data](articles/ffae9548.json)
 
 ---
 
@@ -412,6 +454,26 @@ Inspector Spiteri told the court that the defendant had already left Malta on a 
 
 ---
 
+### Sri Lanka COPF summons border officials over VFS Global visa crisis
+
+*2024-05-08 20:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-copf-summons-border-officials-over-vfs-global-visa-crisis-162162/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance has summoned the Secretary of the Ministry of Public Security and Controller General of Immigration over an ongoing crisis over monopoly visa deal given to VFS Global, a private company.
+
+“Summoned the Secretary to Min of Public Security along with CG of Immigration tomorrow for balanced examination in to the ongoing visa fiasco,” COPF Chief Harsha de Silva said in a twitter.com post.
+
+“While it is customary for all public finance related legislation be routed through COPF, this strangely was not.”
+
+Sri Lanka used to give a double entry visa for tourists for 50 dollars (30 dollars for South Asia) and a one dollar charge, through its ETA portal, which was quickly filled.
+
+However, after the shift to the VFS Global website, the price went up to 100.77 dollars with a 18.50 service charge and a 7.27 dollar ‘convenience fee’.
+
+...
+
+[Data](articles/6b80c689.json)
+
+---
+
 ### Vyaskant of Jaffna, who debuted in IPL
 
 *2024-05-08 20:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்லில்-அறிமுகமான-யாழ்ப்பாணத்தின்-வியாஸ்காந்த்/44-336980) · `ta`
@@ -511,6 +573,26 @@ The inauguration ceremony of the program was held at the Ministry of Sethsiripay
 [Data](articles/d568d671.json)
 
 [Extended Data](ext_articles/d568d671.ext.json)
+
+---
+
+### කෘෂිකර්මාන්තය දියුණු නොකොට ගම දියුණු කරන්න බැහැ
+
+*2024-05-08 19:05:42* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්මාන්තය-දියුණු-නොකොට-ගම-දියුණු-කරන්න-බැහැ/11-409511) · `si`
+
+කෘෂිකර්මාන්තය දියුණු නොකොට ග්‍රාමීය ආර්ථිකය ශක්තිමත් කළ නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එබැවින් රජයේ කෘෂි නවීකරණ වැඩසටහන ඇතුළු ග්‍රාමීය ආර්ථිකය දියුණු කිරීමට රජය ආරම්භ කළ සියලු වැඩසටහන් සාර්ථක කර ගැනීමට බිම් මට්ටමේ රාජ්‍ය නිලධාරීන්ගේ කැපවීම අත්‍යාවශ්‍ය බවද ජනාධිපතිවරයා අවධාරණය කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නව ග්‍රාම නිලධාරීන් ලෙස බඳවාගත් 2100කට පත්වීම් ලිපි ප්‍රදානය වෙනුවෙන් අද (08) පෙරවරුවේ අරලියගහ මන්දිරයේ පැවති උත්සවය අමතමිනි.
+
+විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් මස 02 වැනිදා පවත්වන ලද ග්‍රාම නිලධාරී විභාගයේ ප්‍රතිඵල අනුව ප්‍රාදේශීය ලේකම් කොට්ඨාස මට්ටමින් වැඩිම ලකුණු ලබා ගත් අයැදුම්කරුවන් අතරින් 2100 දෙනකු වෙනුවෙන් මෙසේ ග්‍රාම නිලධාරී පත්වීම් ප්‍රදානය සිදු කෙරිණි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව පත්වීම් ලිපි ප්‍රදානය කිරීමට එක් විය.
+
+...
+
+[Data](articles/a85efecb.json)
 
 ---
 
@@ -838,7 +920,7 @@ The President informed the new village officials about the programmes such as 'A
 
 *2024-05-08 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-298-75-85-to-us-dollar-162119/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee closed at 298.75/85 to the US dollar on Tuesday from 299.40/70 the previous day, dealers said.
+ECONOMYNEXT – Sri Lanka’s rupee closed at 298.75/85 to the US dollar on Wednesday from 299.40/70 the previous day, dealers said.
 
 A bond maturing on 15.12.2026 closed down at 10.60/70 percent from 10.65/75 percent.
 
@@ -2149,95 +2231,5 @@ Sri Lanka constitution has barred duel citizens for foreign citizens holding MP 
 [Data](articles/54064814.json)
 
 [Extended Data](ext_articles/54064814.ext.json)
-
----
-
-### Outspoken Sri Lanka MP Diana Gamage loses seat, Harsha proposes Mujibur
-
-*2024-05-08 11:40:00* · [`economynextcom`](https://economynext.com/outspoken-sri-lanka-mp-diana-gamage-loses-seat-harsha-proposes-mujibur-162041/) · `en`
-
-ECONOMYNEXT — Outspoken parliamentarian and State Minister of Tourism stands to lose her seat in parliament following a Supreme Court verdict that she is not eligible to be an MP, according to media reports.
-
-The apex court of the country made the verdict Wednesday May 08 morning when a petition filed against Gamage was taken up for consideration.
-
-The petition was filed by civil activist Oshala Herath, in which he sought a ruling that Gamage was unqualified to serve as a Member of the Sri Lankan Parliament as she is a British citizen.
-
-Gamage entered parliament on the main opposition Samagi Jana Balawegaya (SJB) ticket as a national list MP at the 2020 parliamentary election. She subsequently crossed over to the government of then President Gotabaya Rajapaksa. Following Rajapaksa’s resignation, she has been serving as State Minister of Tourism under President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/b4262890.json)
-
-[Extended Data](ext_articles/b4262890.ext.json)
-
----
-
-### Sri Lanka trying to help citizens hired by Russia-Ukraine mercenary firms: Foreign Minister
-
-*2024-05-08 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-trying-to-help-citizens-hired-by-russia-ukraine-mercenary-firms-foreign-minister-162042/) · `en`
-
-ECONOMYNEXT – Sri Lanka is trying to help citizens said to be working for mercenary companies linked to Russia and Ukraine, through diplomatic and non-diplomatic means, Minister of Foreign Affairs, Ali Sabry said.
-
-“We are trying to see what we can do where ever possible,” Sabry told reporters on Wednesday. “We can deal with the government of any other country.
-
-“We are being asked to deal with a mercenary group which is not a formal government. It’s a very difficult task.”
-
-Sri Lanka’s Foreign Ministry does not have data on the number of Sri Lankans fighting as mercenaries for Russia or Ukraine.
-
-“We don’t know,” Minister Sabry told reporters. “None of them go through formal or official channels. They don’t register themselves either with the Sri Lanka Bureau of Foreign Employment or with the foreign ministry consular division or the Sri Lankan embassy.
-
-...
-
-[Data](articles/6d2ebedb.json)
-
-[Extended Data](ext_articles/6d2ebedb.ext.json)
-
----
-
-### Operation launched to stop illegal recruitment of Sri Lankan Army veterans for Russian-Ukrainian war
-
-*2024-05-08 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99075/operation-launched-to-stop-illegal-recruitment-of-sri-lankan-army-veterans-for-russian-ukrainian-war) · `en`
-
-The Ministry of Defence states that an operation has been launched in order to arrest the individuals who are involved in directing retired Sri Lankan Army soldiers to join Russian or Ukraine forces by illegal means.
-
-Defence Secretary, General (Rtd) Kamal Gunaratne emphasized that the operation was initiated jointly with the Criminal Investigations Department (CID) and the Intelligence Units.
-
-“Illegal foreign employment agents engage in human trafficking to send retired army personnel to the Russian-Ukrainian war front. They defraud money under the pretext of providing employment in the Russian army. These suspects also promise to grant land in popular areas like Petersburg if they join the Ukrainian war. Moreover, they pledge Russian citizenship for their families and more than Rs. 1 million in cash”, Mr Gunaratne added.
-
-...
-
-[Data](articles/f16975e5.json)
-
-[Extended Data](ext_articles/f16975e5.ext.json)
-
----
-
-### There is more than one hundred and frying
-
-*2024-05-08 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-එකසිය-පණහකට-වඩා-ඉපැරණි-තානායමට-සිදුව-ඇතිදේ/11-409495) · `si`
-
-The ancient Ceylon Tourist Board building in Bibile, once a symbol of British colonial rule, is now in ruins. Despite its historical significance, it's been neglected, leading to the loss of valuable artifacts. The land, now owned by the Sri Lanka Tourist Board, remains unused.
-
-🟩
-
-The Religion in the heart of the ancient values that have been incurred by British rulers has been destroyed and the construct of the ancient valuable biF.
-
-The building belonging to the Ceylon Tourist Board is being destroyed and some people use this building for various misconduct.
-
-The innings have been accommodated when the Governor, including the Governor of the British rule, had accommodated in the Wellassa area.
-
-After 1948, the innings were maintained under the Ministry of Home Affairs and the private sector was given to the private sector from time to time.
-
-During the season of private guardians, the precious ancient goods disappeared.
-
-Taxmen to maintain the building because of the destruction of the building have been abandoned about 10 years ago.
-
-Bibile Divisional Secretary Kapila Bandara says that this is currently owned by the Sri Lanka Tourist Board Kapila Bandara said the land was held in the heart of Bibile, but no steps have been taken to use the land for the government.. (Ij)
-
-◼️
-
-[Data](articles/53d281fa.json)
-
-[Extended Data](ext_articles/53d281fa.ext.json)
 
 ---

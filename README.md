@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 17:54:10**
+As of **2024-05-08 18:11:33**
 
 ## Newspaper Stats
 
-*Scraped **22,747** Articles*
+*Scraped **22,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,322
 adalk | 1,922
 tamilmirrorlk | 2,659
 adaderanalk | 2,670
-virakesarilk | 3,388
+virakesarilk | 3,389
 dailymirrorlk | 3,573
 adaderanasinhalalk | 3,643
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 3,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,743 (100.0%) of 22,747 articles have been extended.
+22,747 (100.0%) of 22,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### අපේ දෙන්නෙකුගේ වීසා රිජෙක්ට් වෙයි
+### Our two's visa rigic
 
 *2024-05-08 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196406) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සහ අමෙරිකානු තානාපතිනී ජූලි චන්ග් ලබාගත් සෙල්ෆි ඡායාරූපය වෙත මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ විශාල කාතාබහක් ඇතිවී තිබේ.
+Sri Lanka Cricket Team's US Ambassador, July Chang, and the team faced visa rejection issues, sparking controversy on social media.
 
-බටහිර ඉන්දීය කොදෙව් සහ අමෙරිකාවේ පැවැත්වීමට නියමිත එළැඹෙන ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සහභාගී වීමට නියමිත ශ්‍රී ලංකා ක්‍රිකට් සංචිතයේ සාමාජිකයින්ගේ වීසා අයදුම් කිරීමේ අවස්ථාවට එක්වීමෙන් අනතුරුව මෙම සෙල්ෆි ඡායාරූපය ලබාගෙන තිබුණි.
+🟩
 
-එහිදී අමෙරිකානු තානාපතිනී ජූලි චන්ග් සහ ශ්‍රී ලංකා ජාතික කණ්ඩායම නියෝජනය කරන ක්‍රීඩකයින් අතර සුහද කතාබහක්ද සිදුවිය.
+Sri Lanka Cricket Team and US Ambassador to July Chang received July Chang received a large number of carbage in social media.
 
-කෙසේ වෙතත් මේ වනවිට නවතම ආරංචි මාර්ග සඳහන් කරන්නේ එහි සිටි දෙදෙනෙකුට අනපේක්ෂිත අත්දැකීමකට මුහුණදීමට සිදුව ඇති බවටය.
+The Seasi had obtained the photograph of the Members of the Sri Lanka Cricket squad that will be participated in the West Indies and the World Cup.
 
-ඒ ඔවුන්ගේ වීසා අමෙරිකානු තානාපති කාර්යාලය විසින් ප්‍රතික්ෂේප කිරීම හේතුවෙනි.
+US Ambassador to Ambassador to July Chang and Sri Lanka National Team won a friendly talk.
 
-ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරන්නේ ශ්‍රී ලංකා සංචිතයේ ක්‍රීඩකයෙකුගේ සහ කණ්ඩායම සමග සංචාරයට එක්වීමට නියමිත කණ්ඩායම් සහායකයෙකුගේ වීසා මෙලෙස ප්‍රතික්ෂේප වී ඇති බවටය.
+However, in the latest sources, however, sources say that two of them had to face an unexpected experience.
+
+It was due to rejecting their visa by the American Embassy.
+
+Sources further say that the visa of a group assistant's visa has been rejected.
 
 ◼️
 
 [Data](articles/2e148cd2.json)
+
+[Extended Data](ext_articles/2e148cd2.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ The President informed the new village officials about the programmes such as 'A
 ◼️
 
 [Data](articles/d4f11295.json)
+
+[Extended Data](ext_articles/d4f11295.ext.json)
 
 ---
 
@@ -94,25 +102,31 @@ The President revealed that one of the items in the bill, in carrying out this t
 
 ---
 
-### විදුලිබල පනත් කෙටුම්පතට එරෙහිව තවත් පෙත්සමක්
+### Another petition against the Power and Power Bill
 
 *2024-05-08 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196405) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලිබල පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැණි යැයි තීන්දු කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණයට තවත් පෙත්සමක් ඉදිරිපත් කර තිබේ.
+A petition against the Power and Power Bill has been filed to the Supreme Court, arguing it grants unlimited power to the Minister, potentially leading to arbitrary decisions and harming public welfare. The bill also threatens to divide the Ceylon Electricity Board into multiple companies, challenging employees' jobs. Petitioners demand a constitutional verdict and a referendum in Parliament.
 
-ජාතික ජන බලවේගයේ බලශක්ති කමිටුවේ සාමාජිකයින් වශයෙන් කටයුතු කරන ඉංජිනේරුවන් වන පුණ්‍යා ශ්‍රී කුමාර ජයකොඩි සහ මයුර චන්දන නෙත්තිකුමාර පෙත්සම ඉදිරිපත් කර තිබුණි.
+🟩
 
-පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පත තුළින් විෂයභාර අමාත්‍යවරයාට අසීමිත බලයක් පවරා දී තිබෙන බවයි.
+Another petition has been filed to the Supreme Court demanding the Ceylon Electricity Bill to decide as to the Constitution.
 
-මේ නිසා විෂයභාර අමාත්‍යවරයාට අත්තනෝමතික තීන්දු තීරණ ගැනීමට අවස්ථාව සැලසෙන අතර එය  විදුලිබල මණ්ඩලයේ පැවැත්මට යහපත් නොවන බවත් පෙත්සම්කරුවන් සඳහන් කළේය.
+Prutiyya Kumara Jayakody, Punya Sri Kumara Jayakody, who served as members of the Energy Committee of the Energy Committee, had presented the petition.
 
-එමෙන්ම යෝජිත පනත් කෙටුම්පත හරහා විදුලි ගාස්තු අත්තනෝමතික ආකාරයට ඉහළ නැංවීමට බලය පවරාදී ඇති බවත් එය මහජන සුබසාධනයට එතරම් යහපත් නොවන බවත් ඔවුන් පෙන්වා දෙයි.
+Petitioners say that the proposed bill has been assigned an unlimited power to the Minister.
 
-ඊට අමතරව ලංකා විදුලිබල මණ්ඩලය යෝජිත පනත යටතේ සමාගම් කිහිපයකට වෙන් කෙරෙන බවත් ඒ තුළින් සේවකයින්ගේ වෘත්තිය සුරක්ෂිතභාවය බරපතළ ලෙස අභියෝගයට ලක් කෙරෙන බවත් පෙත්සමේ සඳහන් වෙයි.
+Therefore, the petitioners noted that the Minister of Powerment will be taken to make arbitrary decisions and is not good for the existence of the CEB.
+
+They point out that electricity tariff has been authorized to increase the electricity tariffs and is not good for public welfare.
+
+The petition states that the Ceylon Electricity Board will be divided into several companies under the proposed Act and that the profession of the employees of the employees will be severely challenged.
 
 ...
 
 [Data](articles/35d80d72.json)
+
+[Extended Data](ext_articles/35d80d72.ext.json)
 
 ---
 
@@ -229,6 +243,20 @@ According to a complaint lodged by the son of Mohammed Muzammil's son Mohamed Mu
 [Data](articles/03934d8b.json)
 
 [Extended Data](ext_articles/03934d8b.ext.json)
+
+---
+
+### வரலாற்றில் இன்று : 1945
+
+*2024-05-08 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/182976) · `ta`
+
+இரண்டாம் உலக மகா யுத்தத்தின்போது ஜெர்மன் படைகள் சரணடைந்ததையடுத்து, ஐரோப்பிய வெற்றி தினம் முதல் முறையாக கொண்டாடப்பட்ட நாள் இன்றாகும்.
+
+1945 மே 08ஆம் திகதி ஐரோப்பிய வெற்றித் தினம் உலக நாடுகளில் மட்டுமன்றி, இலங்கையிலும் வெகு சிறப்பாக கொண்டாடப்பட்டதற்கு ஆதாரமாக, 1945 மே 8, 9 ஆகிய திகதிகளில் வெளியான வீரகேசரி பத்திரிகைகளின் 'V' (Victory - வெற்றி) என்ற ஆங்கில எழுத்துக் குறியீடுகளை தாங்கிய பக்கங்களை இங்கே காணலாம்.
+
+◼️
+
+[Data](articles/a9439539.json)
 
 ---
 
@@ -480,21 +508,29 @@ In 2023, 791 employees were recruited to SriLankan Airlines, which was the large
 
 ---
 
-### අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතයේ පැහැදිලි අඩුවක්
+### A clear lack of alcohol during New Year's festival
 
 *2024-05-08 14:24:28* · [`adalk`](https://www.ada.lk/breaking_news/අලුත්-අවුරුදු-උත්සව-සමයේ-මද්‍යසාර-භාවිතයේ-පැහැදිලි-අඩුවක්/11-409502) · `si`
 
-මෙවර සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතයේ පැහැදිලි අඩුවක් දක්නට ලැබෙන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පසුගිය සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයේ මද්‍යසාර භාවිතය හා ඒ හා සම්බන්ධ තොරතුරු සොයා බැලීම සදහා කළ සමීක්ෂණයකදි හෙළිව තිබේ.
+A survey of 415 Sri Lankans shows a 64% decrease in alcohol use during New Year's festivals, with 71.5% citing higher prices as the main reason. Despite a 7.8% increase in events, 21.4% reported no change. Despite a ban on alcohol ads, 71.4% saw such ads on social media.
 
-මෙම සමීක්ෂණයේ දී ශ්‍රී ලංකාවේ සියලු පළාත් ආවරණය වන පරිදි  පුද්ගලයන් 415 ක නියදියකින් තොරතුරු ලබාගෙන තිබේ. මෙම නියදියෙන් 46.2% ක් (192) ස්ත්‍රීන් වන අතර 53.7% ක් (223) පුරුෂයන් විය.
+🟩
 
-සමීක්ෂණයට භාජනය වූවන් අතුරින් 64 %ක අදහස වූයේ පසුගිය සිංහල හා දෙමළ අලුත් අවුරුදු උත්සව සමයට සාපේක්ෂව මෙවර අලුත් අවුරුදු උත්සව කාලය තුළ මද්‍යසාර භාවිතය අඩු වී ඇති බවයි.
+Alcohol and Drugs Center has revealed that the alcohol and Tamil New Year's New Year's New Year's New Year New Year's New Year Festival season.
 
-මද්‍යසාර භාවිතය වෙනසක් නොවූ බව 26% ක් ප්‍රකාශ කළ අතර 10% කගේ අදහස වූයේ මද්‍යසාර භාවිතය පෙර උත්සව සමයට සාපෙක්ෂව මෙවර උත්සව සමයේ වැඩි වූ බවයි.
+In this survey, 415 people have been obtained from a sample of 415 people covering all provinces in Sri Lanka. The women are 46.2% of this nation (192) women and 53.7% were men (223).
+
+64% of the surveillance depicting the use of alcohol during the New Year's festival compared to the Sinhala and Tamil New Year festivals.
+
+The use of alcohol was not change, and 10% said that 10% of the idea that the use of alcohol was increased during the festive season.
+
+Inquiry on the reasons for reducing the use of alcohol, 71.5% of the participants said that alcohol prices were the most powerful reason for lowing alcohol. Alcohol is prominent, the opposition of family members, health problems, and the use of alcohol has not been meaningful and the use of alcohol has declined.
 
 ...
 
 [Data](articles/dc4c1d0f.json)
+
+[Extended Data](ext_articles/dc4c1d0f.ext.json)
 
 ---
 
@@ -2299,29 +2335,5 @@ Sri Lanka’s private credit is still weak, allowing reserves to be collected an
 [Data](articles/9286a78c.json)
 
 [Extended Data](ext_articles/9286a78c.ext.json)
-
----
-
-### Sri Lanka to overhaul visa issuance process
-
-*2024-05-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-overhaul-visa-issuance-process/155-282137) · `en`
-
-In the wake of perplexities surrounding the issuance of the on-arrival visa issuance at the Bandaranaike International Airport (BIA), the Government is mulling to overhaul the visa issuance process, Daily Mirror learns.
-
-To fulfill this requirement, a cabinet paper is to be submitted at the next cabinet meeting.
-
-Meanwhile, government sources confirmed that VFS Global has temporarily ceased operations at the BIA counter.
-
-Nevertheless, there has been a request from the government of Sri Lanka to take over the on-arrival visa issuance, which VFS Global has refused.
-
-Speaking to Daily Mirror, Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya said the entire process pertaining to the issuance of on-arrival visa issuance at the BIA is solely handled by the Immigration officials.
-
-However, VFS Global handles the e-Visa documentation process, with final approval granted by immigration department officials.
-
-...
-
-[Data](articles/caafd6cd.json)
-
-[Extended Data](ext_articles/caafd6cd.ext.json)
 
 ---

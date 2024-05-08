@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 15:18:39**
+As of **2024-05-08 15:33:30**
 
 ## Newspaper Stats
 
-*Scraped **22,726** Articles*
+*Scraped **22,732** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 199
-dbsjeyarajcom | 236
 bbccomsinhala | 237
+dbsjeyarajcom | 237
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,918
+adalk | 1,920
 tamilmirrorlk | 2,659
 adaderanalk | 2,666
 virakesarilk | 3,388
-dailymirrorlk | 3,567
+dailymirrorlk | 3,570
 adaderanasinhalalk | 3,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,724 (100.0%) of 22,726 articles have been extended.
+22,726 (100.0%) of 22,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### මන්නා රමේෂ් ගේ නිවසින් අත්බෝම්බයක් සොයා ගනී
+
+*2024-05-08 15:15:59* · [`adalk`](https://www.ada.lk/breaking_news/මන්නා-රමේෂ්-ගේ-නිවසින්-අත්බෝම්බයක්-සොයා-ගනී/11-409503) · `si`
+
+ඩුබායි රාජ්‍යයේ සිට මෙරටට රැගෙන හා සංවිධානාත්මක අපරාධකරුවකු වන මන්නා රමේෂ් සැකකරුගේ අවිස්සාවේල්ල, යාලගම, නාපාවෙල නිවසේ සඟවා තිබියදී එම අත්බෝම්බය සහ යතුරුපැදිය හමුවී ඇකි බව බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය පැවසීය.
+
+අත් බෝම්බය නිවස තුළ වළ දමා තිබියදී සොයා ගෙන ඇති අතර යතුරුපැදිය සොයාගෙන ඇත්තේ නිවස පිටුපස සඟවා තිබියදීය.
+
+සැකකරු ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ පැය 72ක කාලයක්  අපරාධ කොට්ඨාසයේ රඳවාගෙන වැඩිදුර පරීක්ෂණ පැවැත්වීම සිදුකෙරෙයි.
+
+◼️
+
+[Data](articles/02458cf6.json)
+
+---
 
 ### X-Press Pearl disaster: Judge recuses himself from considering appeals
 
@@ -48,23 +64,31 @@ At the time, the chair of the three-member judge panel, Justice S. Thurairaja in
 
 [Data](articles/e3109fc0.json)
 
+[Extended Data](ext_articles/e3109fc0.ext.json)
+
 ---
 
-### මෛත්‍රී ඇතුළු පිරිසක් ගත් තීරණය ට එරෙහි වාරණය දීර්ඝ කෙරේ
+### Censoor against Maithri and a group of people
 
 *2024-05-08 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196401) · `si`
 
-අමාත්‍යවරුන් වන මහින්ද අමරවීර, ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ දැරූ තනතුරුවලින් ඉවත් කිරීම වළක්වාලමින් නිකුත් කළ වාරණ නියෝගය මේ මස 15 වනදා දක්වා දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+The Colombo District Court sentenced Ministers Mahinda Amarawewa, Lasantha Alagiyawanna, and MP Duminda Dissanayake. Former President Maithripala Sirisena filed a prosecution against a group of people, demanding their removal without investigation.
 
-මෙම පැමිණිල්ල අද (08) කැඳවූ අවස්ථාවේදී ඊට අදාළ විරෝධතා ඉදිරිපත් කිරීමට අවසර දෙන ලෙස වගඋත්තරකාර පාර්ශ්වය ඉල්ලා සිටියේය.
+🟩
 
-ඒ අනුවට අදාළ විරෝධතා තිබේ නම් ඒවා ගොනුකරන ලෙස නියෝග කළ අධිකරණය නඩුව නැවත ලබන 15 වනදා කැඳවන ලෙසත් නියෝග කළේය.
+The Colombo District Court sentenced the agreement issued by the Ministers Mahinda Amarawewa, Lasantha Alagiyawanna and MP Duminda Dissanayake.
 
-කිසිදු සාධාරණ පරීක්ෂණයකින් තොරව තමන් දැරූ තනතුරුවලින් ඉවත් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසක් ගනු ලැබූ තීරණය නීතිවිරෝධී බවට තීන්දු කරන ලෙස ඉල්ලා මෙම අමාත්‍යවරු පිරිස කොළඹ දිසා අධිකරණය හමුවේ නඩු පවරා තිබේ.
+When the complaint was taken up this matter (08), the respondent demanded the respondentation.
+
+According to the protests, the court ordered to be filed the case on the 15th.
+
+Former President Maithripala Sirisena has filed a prosecuted in the Colombo District Court demanding a group of people including his posts from their posts without any reasonable investigations.
 
 ◼️
 
 [Data](articles/f7503e4c.json)
+
+[Extended Data](ext_articles/f7503e4c.ext.json)
 
 ---
 
@@ -89,6 +113,26 @@ It is also worth noting that in other countries that use the vaccine, similar va
 [Data](articles/bfdbe369.json)
 
 [Extended Data](ext_articles/bfdbe369.ext.json)
+
+---
+
+### AstraZeneca says it will withdraw COVID-19 vaccine globally
+
+*2024-05-08 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AstraZeneca-says-it-will-withdraw-COVID-19-vaccine-globally/108-282175) · `en`
+
+May 7 (Reuters) - AstraZeneca (AZN.L), opens new tab said on Tuesday it had initiated the worldwide withdrawal of its COVID-19 vaccine due to a "surplus of available updated vaccines" since the pandemic.
+
+The company also said it would proceed to withdraw the vaccine Vaxzevria's marketing authorizations within Europe.
+
+"As multiple, variant COVID-19 vaccines have since been developed there is a surplus of available updated vaccines," the company said, adding that this had led to a decline in demand for Vaxzevria, which is no longer being manufactured or supplied.
+
+According to media, opens new tab reports, the Anglo-Swedish drugmaker has previously admitted in court documents that the vaccine causes side-effects such as blood clots and low blood platelet counts.
+
+The firm's application to withdraw the vaccine was made on March 5 and came into effect on May 7, according to the Telegraph, which first reported the development.
+
+...
+
+[Data](articles/51574674.json)
 
 ---
 
@@ -225,6 +269,24 @@ In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of 
 [Data](articles/c3557a88.json)
 
 [Extended Data](ext_articles/c3557a88.ext.json)
+
+---
+
+### ඩයනාට එරෙහි තීන්දුවෙන් පාර්ලිමේන්තුවට නිදහස ලැබුණා
+
+*2024-05-08 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහි-තීන්දුවෙන්-පාර්ලිමේන්තුවට-නිදහස-ලැබුණා/11-409499) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි කරමින් ඩයනා ගමගේ මහත්මියට ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් තීන්දුව වැදගත් තීන්දුවක් බවත්, එම තීන්දුව හරහා පාර්ලිමේන්තුවටත්, කථානායකවරයාටත් නිදහස ලැබුණු බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පැවසීය.
+
+අදාළ නඩු තීන්දුව සම්බන්ධයෙන් අද (08දා) පාර්ලිමේන්තුවේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“අද අධිකරණය වැදගත් තීන්දුවක් ලබා දීලා තියෙනවා. ඒ තමයි පුරවැසි භාවය පිළිබඳ තිබුණු නඩුවේදී පාර්ලිමේන්තුව නියෝජනය කළ ඩයනා ගමගේ මන්ත්‍රීතුමියට තීන්දුව දීලා තියෙනවා.
+
+එතුමිය අද ඉදලා පාර්ලිමේන්තු මන්ත්‍රීවරියක් නෙවෙයි. අපි ගරැ කරනවා අධිකරණයට. ඒ වගේම පාර්ලිමේන්තුවටත් කථානායකතුමාටත් විශාල නිදහසක් ලැබුණා කියන එකත් මතක් කරනවා.”
+
+◼️
+
+[Data](articles/3cbc50e4.json)
 
 ---
 
@@ -933,6 +995,24 @@ Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for
 [Data](articles/77851ed5.json)
 
 [Extended Data](ext_articles/77851ed5.ext.json)
+
+---
+
+### Supreme Court rules Diana Gamage ineligible for parliamentary seat
+
+*2024-05-08 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Supreme-Court-rules-Diana-Gamage-ineligible-for-parliamentary-seat/155-282150) · `en`
+
+Colombo, May 08 - The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+
+With this Supreme Court judgment, Diana Gamage’s disqualification will lead to the loss of her parliamentary seat.
+
+The Supreme Court three-judge-bench comprised  Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva.
+
+Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for Petitioner Oshala Herath.
+
+◼️
+
+[Data](articles/95b21654.json)
 
 ---
 
@@ -1850,6 +1930,28 @@ Sri Lanka won the match wins by 68 runs.
 
 ---
 
+### Sri Lanka to overhaul visa issuance process
+
+*2024-05-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-overhaul-visa-issuance-process/108-282137) · `en`
+
+In the wake of perplexities surrounding the issuance of the on-arrival visa issuance at the Bandaranaike International Airport (BIA), the Government is mulling to overhaul the visa issuance process, Daily Mirror learns.
+
+To fulfill this requirement, a cabinet paper is to be submitted at the next cabinet meeting.
+
+Meanwhile, government sources confirmed that VFS Global has temporarily ceased operations at the BIA counter.
+
+Nevertheless, there has been a request from the government of Sri Lanka to take over the on-arrival visa issuance, which VFS Global has refused.
+
+Speaking to Daily Mirror, Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya said the entire process pertaining to the issuance of on-arrival visa issuance at the BIA is solely handled by the Immigration officials.
+
+However, VFS Global handles the e-Visa documentation process, with final approval granted by immigration department officials.
+
+...
+
+[Data](articles/75d15e98.json)
+
+---
+
 ### Sri Lanka gross foreign reserves rise to 3.5 year high in April
 
 *2024-05-08 06:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gross-foreign-reserves-rise-to-3-5-year-high-in-april-161947/) · `en`
@@ -2213,123 +2315,5 @@ The scholarship will be given in two phases and will be given to 5000 poor stude
 [Data](articles/831f7121.json)
 
 [Extended Data](ext_articles/831f7121.ext.json)
-
----
-
-### In the new scholarship by the President's Fund
-
-*2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலமைப்-பரிசில்/175-336931) · `ta`
-
-The President's Fund has initiated two new scholarship programs under President Ranil Wickremesinghe's guidance. These include a scholarship for female Bikkuni beam students and another for other students. The scholarships will be awarded based on recommendations from company leaders, with 06 scholarships for the female Bikkuni beam program and 822 for other students. The scholarships will be distributed in two phases, with the first phase offering 3000 rupees for 12 months and the second phase offering 6,000 rupees.
-
-🟩
-
-The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
-
-Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
-
-The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
-
-The scholarship will be given in two phases and will be given to 5000 poor students who are learning, and under the first phase of May 2024 to 12 months, 3000 rupees for 12 months and 6,000 rupees under the second stage.. (A)
-
-◼️
-
-[Data](articles/cec91deb.json)
-
-[Extended Data](ext_articles/cec91deb.ext.json)
-
----
-
-### Govt. visa processing handover to private firm illegal claims  G.L
-
-*2024-05-08 00:40:36* · [`dailyftlk`](https://www.ft.lk/business/Govt-visa-processing-handover-to-private-firm-illegal-claims-G-L/34-761539) · `en`
-
-Says Govt. has no authority to delegate processing of visas to a third party according to Immigration Act
-
-Claims any such handover will necessitate amendments to be made to the relevant legislation
-
-Likens Sri Lanka’s on-arrival visa processing fiasco to the Central Bank scam
-
-Questions if process was handed over to third party to secure funds for upcoming polls
-
-Freedom People’s Congress (FPC) member MP Prof. G.L Peiris asserted yesterday that entrusting Sri Lanka›s visa-issuing process to a foreign entity is entirely illegal.
-
-Addressing a press conference, Peiris likened the situation to the Central Bank scam. He declared it the second Central Bank scam to take place in the country.
-
-...
-
-[Data](articles/4f8b736e.json)
-
-[Extended Data](ext_articles/4f8b736e.ext.json)
-
----
-
-### Charitha raises concerns over CBSL’s perceived independence from State
-
-*2024-05-08 00:39:55* · [`dailyftlk`](https://www.ft.lk/business/Charitha-raises-concerns-over-CBSL-s-perceived-independence-from-State/34-761538) · `en`
-
-Says overall summary of CBSL annual report suggests a clear distinction between CBSL and the State
-
-Expresses concern that certain CBSL officials seem to believe it is no longer a part of the State following passing of new CBSL Act
-
-Urges Speaker to present report to CoPF or a Sectoral Oversight Committee to be investigated
-
-MP Wimal Weerawansa urges all top officials of CBSL to be summoned to parliament to explain report’s contents
-
-Freedom People’s Congress (FPC) member MP Prof. Charitha Herath yesterday highlighted several serious concerns regarding the contents of the Central Bank of Sri Lanka (CBSL) annual report for the year 2023.
-
-During his address in parliament, MP Prof. Charitha Herath remarked that the overall summary of the report suggests a clear distinction between the Central Bank of Sri Lanka (CBSL) and the State, implying they are perceived by the CBSL as two distinct entities.
-
-...
-
-[Data](articles/7cb45f71.json)
-
-[Extended Data](ext_articles/7cb45f71.ext.json)
-
----
-
-### Crisis for the young man
-
-*2024-05-08 00:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனுக்கு-நெருக்கடி-அரசாங்கத்துக்கே-நெருக்கடி/175-336930) · `ta`
-
-A young man exposed visa distribution fraud, demanding government correction. Vijitha Herath warned of potential crises, highlighting the youth's role in publicizing the issue. The government is urged to rectify errors to avoid further crises, with the public and legal community supporting the young man.
-
-🟩
-
-A young man has exposed the massive fraud on the visa distribution. So the government should correct the mistakes. Vijitha Herath asked.
-
-If the young man is in crisis, the government will face major crises again.
-
-He further issued this warning while addressing the debate on the Amendment Bill and the Bank of Parliament on Tuesday's Amendment Bill and the Corporation of Corporation (Special Provisions) Amendment Bill (Paratete).
-
-The youth has used the speech given by the Constitution. The youth has decided to distribute the visa to the old system only after the youth have been published on social media and the public attention.
-
-Therefore, the government should correct the mistakes and act in a way that can cause crises for this young man, the lawyers and the people of the country will act on behalf of the young man. The government will reunite against the government.
-
-◼️
-
-[Data](articles/74c42468.json)
-
-[Extended Data](ext_articles/74c42468.ext.json)
-
----
-
-### CEAT Kelani says not fined by Customs Department
-
-*2024-05-08 00:38:58* · [`dailyftlk`](https://www.ft.lk/business/CEAT-Kelani-says-not-fined-by-Customs-Department/34-761537) · `en`
-
-CEAT Kelani International Tyres Ltd., yesterday assured customers, stakeholders and the general public that the Company has no dispute over Customs Duties with the Customs Department and is not subject to any inquiry or penalty by the Department in relation to Customs Duties.
-
-Responding to media reports that a leading tyre manufacturer is facing legal action and a fine for non-payment of Customs Duties on imported raw materials, CEAT Kelani International Tyres has issued the following statement to the media.
-
-CEAT Kelani International Tyres categorically states that it is not the company that has allegedly defaulted on the payment of fines imposed by the Department of Customs as a penalty for non-payment of Customs Duties due on the import of raw materials.
-
-We would also like to assure our valued customers, all other stakeholders and the public that CEAT Kelani complies with all legal and regulatory requirements in the conduct of its business, including the timely payment of dues.
-
-...
-
-[Data](articles/d906d0e0.json)
-
-[Extended Data](ext_articles/d906d0e0.ext.json)
 
 ---

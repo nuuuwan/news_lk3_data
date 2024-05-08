@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 12:03:39**
+As of **2024-05-08 12:18:17**
 
 ## Newspaper Stats
 
-*Scraped **22,692** Articles*
+*Scraped **22,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,82 @@ adalk | 1,913
 tamilmirrorlk | 2,652
 adaderanalk | 2,659
 virakesarilk | 3,387
-dailymirrorlk | 3,560
-adaderanasinhalalk | 3,632
+dailymirrorlk | 3,561
+adaderanasinhalalk | 3,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,692 (100.0%) of 22,692 articles have been extended.
+22,692 (100.0%) of 22,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### යුක්‍රේන ජනපති ඝාතන සැලසුමක් හෙළිවෙයි‍
+
+*2024-05-08 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196397) · `si`
+
+යුක්‍රේන ජනාධිපති ව්ලොදිමීර් සෙලෙන්ස්කි ඝාතනය කිරීමට රුසියාව උත්සාහ කර ඇතැයි යුක්‍රේන ආරක්ෂක සේවාව චෝදනා කරයි.
+
+අදාළ කුමන්ත්‍රණයට සම්බන්ධ බවට සැකපිට යුක්‍රේන රජය ආරක්ෂාකිරීමේ ඒකකයේ අණදෙන නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි ද සඳහන්ය.
+
+ඔවුන් චෝදනා කරන්නේ එම පුද්ගලයින් රුසියාවේ චර පුරුෂයින් ලෙස කටයුතු කර ඇති බවය.
+
+එම පුද්ගලයින් සෙලෙන්ස්කිගේ ආරක්ෂකයින් අතරින් ඔහු ඝාතනය කිරීමට කැමති අයෙක් සොයා රහසිගත මෙහෙයුමක් කර ඇතැයි ද අනාවරණ කර තිබේ.
+
+◼️
+
+[Data](articles/7bba8db9.json)
+
+---
+
+### Fox Hill Supercross Supermoto highlights
+
+*2024-05-08 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Fox-Hill-Supercross-Supermoto-highlights/110-282157) · `en`
+
+During the Fox Hill Supercross 2024 competition, Isuru Madhuranga won first place representing the Sri Lanka Army in the Supermoto 125cc to 750cc motorcycle race.
+
+Imal Manchanayake won the second place and Buddhika Senaviratne the third place.
+
+The Fox Hill Supercross 2024 was held on April 21 at the Diyatalawa Fox Hill track.
+
+Twenty-nine-year-old Isuru Madhuranga has eight years of motorcycle racing experience and has performed well in many competitions. He is a talented competitor who won consecutive first places in many tournaments held in several parts of the island recently.
+
+Founded in 1993 as the country's inaugural racing event, the Fox Hill Supercross is Sri Lanka's largest motor racing event offering an unparalleled motoring experience.
+
+The tournament was organized by the Ministry of Sports, Sri Lanka Army Motor Sports Committee and the Sri Lanka Army Academy.
+
+◼️
+
+[Data](articles/1903e03d.json)
+
+---
+
+### ඌරු මස් සහිත බස් පාර්සලය කෑ රැඳවියන් දෙදෙනෙකු මරුට
+
+*2024-05-08 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196396) · `si`
+
+ඌරුමස් සහිත ව්‍යංජනයක් ආහාරයට ගැනීමෙන් මරණයට පත්වු බන්ධනාගාර රැඳවියන් දෙදෙනාගේ මරණ පරීක්ෂණය සම්බන්ධයෙන් අධිකරණ වෛද්‍ය නිලධාරීවරයා විසින් විවෘත තීන්දුවක් ලබාදී තිබේ.
+
+ඒ අනුව ඔවුන් දෙදෙනාගේ ශරීර කොටස් වැඩිදුර පරීක්ෂණ සඳහා කොළඹ වෛද්‍ය පර්යේෂණ ආයතනය වෙත යොමුකරන ලෙස දැනුම් දී ඇත.
+
+බොරැල්ල හා දෙහිවල යන ප්‍රදේශවල පදිංචි පුද්ගලයින් දෙදෙනෙකු අයිස් මත්ද්‍රව්‍ය ජාවාරම් කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන මැගසින් බන්ධනාගාරයේ රඳවා තබා තිබිණි.
+
+පෙරේදා දිනයේ මෙම එක් රැඳවියෙකුගේ නිවසේ සකස් කළ ඌරුමස් සහිත බත් පාර්සලයක් ඥාතීන් විසින් රැගෙනවිත් ඇති බව සඳහන්ය.
+
+එම බත් පාර්සලය රැඳවියන් 15 දෙනෙකු පමණ ආහාරයට ගෙන ඇති අතර එහිදි ඇතිවු ආසාත්මිකතාවක් හේතුවෙන් රැඳවියන් තිදෙනෙකු කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබේ.
+
+මෙහිදි රැඳවියන් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව ඇති අතර බරපතළ තත්ත්වයේ පසුවන තවත් රැඳවියෙකු මේ වන විටත් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව සඳහන්ය.
+
+මියගිය පුද්ගලයින් දෙදෙනාගේ හදිසි මරණ පරීක්ෂණ කටයුතු ඊයේ (07) දිනයේ දී සිදුකර ඇති අතර එහිදි මෙම තීන්දුව ලබාදී තිබේ.
+
+...
+
+[Data](articles/b0148004.json)
+
+---
 
 ### Operation launched to stop illegal recruitment of Sri Lankan Army veterans for Russian-Ukrainian war
 
@@ -1172,7 +1236,7 @@ Wijerathne has functioned in the same role before, but this new appointment is u
 
 Colombo, May 8 (Daily Mirror) - Leader of Opposition Sajith Premadasa yesterday raised objections to the questioning of the youth, Sandaru Kumarasinghe, who spoke out against the Visa issue at the airport but avoided debate on the visa fiasco involving a foreign consortium with VFS as technology partner.
 
-He told Parliament that the government must consider the matter closed without dragging it. "Sandaru Kumarasinghe only expressed his opinion. In terms of the Constitution, he has a right to freedom of expression," he said.
+He told Parliament that the government must consider the matter involving the youth closed without dragging it. "Sandaru Kumarasinghe only expressed his opinion. In terms of the Constitution, he has a right to freedom of expression," he said.
 
 Mr. Premadasa earlier claimed, as reported on social media platforms, that the visa fiasco could be a greater swindle than the bond scam.
 
@@ -2189,65 +2253,5 @@ The deceased is Muthu Sivalingam, a 61 -year -old retired university officer who
 [Data](articles/af20529c.json)
 
 [Extended Data](ext_articles/af20529c.ext.json)
-
----
-
-### The father of cricketer TM Dilshan has passed away
-
-*2024-05-07 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/182926) · `ta`
-
-TM Dilshan's father, Duan Mohamed Junaidin, passed away after hospital treatment in Kalutara. Funeral at Kalutara Provincial Cemetery on 9th.
-
-🟩
-
-Former Sri Lankan cricketer Tilakaratne Dilshan's father Duan Mohamed Junaidin died on Tuesday (7) after being treated at a hospital in Kalutara.
-
-The funeral will be held at the Kalutara Provincial Cemetery on Thursday 9th.
-
-◼️
-
-[Data](articles/99d14480.json)
-
-[Extended Data](ext_articles/99d14480.ext.json)
-
----
-
-### SLMC members in the dark over annulment of medical exam in Batticaloa
-
-*2024-05-07 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLMC-members-in-the-dark-over-annulment-of-medical-exam-in-Batticaloa/108-282112) · `en`
-
-Colombo, May 07 (Daily Mirror) -  The decision to annul the Surgery Long and Short Cases components of the ERPM Part B Examination, conducted at the Examinations Centre of the Eastern University in Batticaloa, has ignited a storm of controversy as the members of the Sri Lanka Medical Council (SLMC) have not been informed of the incident.
-
-In a letter addressed to the Registrar of the SLMC dated May 1, 2024, candidates expressed their grievances over the annulment of the examination and the subsequent scheduling of a re-examination in May.
-
-However, a council member told Daily Mirror that majority of Council members have not been informed of such a letter and thus, requested the SLMC chairman to convene an emergency council meeting to discuss the matter.
-
-The controversy stems from a complaint alleging that a student did not receive interpreter support during the examination.
-
-...
-
-[Data](articles/479f7127.json)
-
-[Extended Data](ext_articles/479f7127.ext.json)
-
----
-
-### SLMC members in the dark OVER ERPM students’ appeal
-
-*2024-05-07 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLMC-members-in-the-dark-OVER-ERPM-students-appeal/108-282112) · `en`
-
-Colombo, May 07 (Daily Mirror) -  The decision to annul the Surgery Long and Short Cases components of the ERPM Part B Examination, conducted at the Examinations Centre of the Eastern University in Batticaloa, has ignited a storm of controversy as the members of the Sri Lanka Medical Council (SLMC) have not been informed of the appeal sent by the group of affected students.
-
-In a letter addressed to the Registrar of the SLMC dated May 1, 2024, candidates expressed their grievances over the annulment of the examination and the subsequent scheduling of a re-examination in May.
-
-However, a council member told Daily Mirror that majority of Council members have not been informed of such a letter and thus, requested the SLMC chairman to convene an emergency council meeting to discuss the matter.
-
-The controversy stems from a complaint alleging that a student did not receive interpreter support during the examination.
-
-...
-
-[Data](articles/caacb2b4.json)
-
-[Extended Data](ext_articles/caacb2b4.ext.json)
 
 ---

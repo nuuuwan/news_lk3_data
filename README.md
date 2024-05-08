@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 13:18:19**
+As of **2024-05-08 13:34:20**
 
 ## Newspaper Stats
 
-*Scraped **22,706** Articles*
+*Scraped **22,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,100 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,915
+adalk | 1,916
 tamilmirrorlk | 2,654
-adaderanalk | 2,661
+adaderanalk | 2,662
 virakesarilk | 3,387
-dailymirrorlk | 3,564
+dailymirrorlk | 3,566
 adaderanasinhalalk | 3,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,705 (100.0%) of 22,706 articles have been extended.
+22,706 (100.0%) of 22,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### මන්නා රමේෂ් ගේ නිවසට පොලීසිය කඩා පනී
+### No airline in the world making profits: Minister
+
+*2024-05-08 13:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-airline-in-the-world-making-profits-Minister/108-282174) · `en`
+
+Parliament, May 08 (Daily Mirror)- No airline in the world is making any profits and it is a situation inherent to all airlines, Civil Aviation Minister Nimal Siripala de Silva said today.
+
+He told Parliament that airlines even in rich countries such as Air India, BOAC and Swiss Airlines were not profit making and some were sold out.
+
+Responding to a question by SJB MP Hesha Vithanage, the Minister said Air India was sold out to Tata due to losses and added that Emirates was provided some USD 2 to 3 billion by the government every year.
+
+He said a small country like Sri Lanka is not in a position to maintain an airline in that manner.
+
+"We have no funds to purchase aircraft. We cannot invest a large capital. We take flights on lease. We need to join with a group which can bring in a large capital so as to continue the airline to ensure the job security of 6,000 employees," he said.
+
+...
+
+[Data](articles/77d23ce6.json)
+
+---
+
+### Decision on University Executive Officers’ strike
+
+*2024-05-08 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99078/decision-on-university-executive-officers-strike) · `en`
+
+The Union of University Executive Officers has signaled its intent to intensify ongoing trade union actions should no permanent solution is received for their issues during the discussions to be held today (08).
+
+The Union of University Executive Officers launched a trade union action on May 03 protesting against the salary reductions.
+
+Commenting in this regard, Senior Secretary of Colombo University and Patron of the Union of University Executive Officers Sampath Udayanga said that during today’s discussion, the cabinet paper pertaining to the their salary cuts will be reviewed and a solution is expected in the near future.
+
+He also mentioned that a protest will be held in conjunction with the strike today.
+
+Meanwhile, K.L.D.G. Richmond, the Co-secretary of the Inter-University Trade Union Federation stated that the ongoing strike of university non-academic staff continues today for the seventh consecutive day.
+
+◼️
+
+[Data](articles/85f5bc82.json)
+
+---
+
+### Police break into Manna Ramesh's house
 
 *2024-05-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196398) · `si`
 
-ඩුබායි රාජ්‍යයේ සිට මෙරටට රැගෙන හා සංවිධානාත්මක අපරාධකරුවකු වන මන්නා රමේෂ් නමැත්තාගෙන් සිදුකළ මූලික ප්‍රශ්න කිරීමේදී විදේශ රටක නිෂ්පාදිත ජීව අත් බෝම්බයක් සහ යතුරුපැදියක් සොයාගැනීමට හැකිවූ බව බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය පැවසීය.
+Police found a foreign hand grenade, a motorcycle, and a criminal in Manna Ramesh's house in Avissawella, Yalagama. The suspect was hidden in Napaviyawela. The Criminal SSP Janaka Kumara of the Western Province Criminal Division is investigating.
 
-එම සැකකරුගේ අවිස්සාවේල්ල, යාලගම, නාපාවෙල නිවසේ සඟවා තිබියදී එම අත්බෝම්බය සහ යතුරුපැදිය හමුවී තිබිණි.
+🟩
 
-අත් බෝම්බය නිවස තුළ වළ දමා තිබියදී සොයා ගෙන ඇති අතර යතුරුපැදිය සොයාගෙන ඇත්තේ නිවස පිටුපස සඟවා තිබියදීය.
+The Western Province Criminal Division, a foreign hand grenade and a motorcycle were found in the country, and a motorbike was able to find out from the state of Dubai and an organized criminal.
 
-බස්නාහිර පළාත් දකුණ දිසාව, අපරාධ කොට්ඨාසයේ සහකාර පොලිස් අධිකාරී ජනක කුමාර මහතාගේ අත්සනින් යුතුව ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ පැය 72ක කාලයක් සැකකරුව අපරාධ කොට්ඨාසයේ රඳවාගෙන වැඩිදුර පරීක්ෂණ පැවැත්වීම සිදුකෙරෙයි.
+The suspect was found hidden in the suspect's Avissawella, Yalagama, the Napavwela house in Napaviyawela.
 
-අනතුරුව ත්‍රස්තවාදය වැළැක්වීමේ පනතේ 9/1 වගන්තිය ප්‍රකාරව ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයාගේ අනුමැතිය මත දින අනුවක රැඳවුම් නියෝග ලබාගැනීමට නියමිතය.
+The hand grenade was found while buried inside the house, while the motorcycle was found hidged behind the house.
+
+Western Province Southern Province District with the signature of the Criminal SSP Janaka Kumara, the suspects will be held in the Criminal Division and conducting further investigations.
+
+Thereafter, the interval of the Secretary to the Ministry of Defense is due to be obtained on the approval of the Secretary to the Ministry of Defense.
 
 ◼️
 
 [Data](articles/90a0375e.json)
+
+[Extended Data](ext_articles/90a0375e.ext.json)
+
+---
+
+### ශ්‍රී ලංකන් ගුවන් සේවය ජනතාවට බරක් නොවීමට පියවර රැසක්
+
+*2024-05-08 12:34:09* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකන්-ගුවන්-සේවය-ජනතාවට-බරක්-නොවීමට-පියවර-රැසක්/11-409496) · `si`
+
+ශ්‍රී ලංකන් ගුවන් සේවය සහ ගුවන් තොටුපළ, රටේ බදු ගෙවන ජනතාවට බරක් නොවන සේ පවත්වාගෙන යාමට ක්‍රියාමාර්ග රැසක් ගෙන ඇතැයි අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී 2024.05.08 දින ප්‍රකාශ කළේය.
+
+ඔහු මේ බව පැවසුවේ, හේෂා විතානගේ මන්ත්‍රීවරයා, අග්‍රාමාත්‍යවරයාගෙන් විමසන ප්‍රශ්න යටතේ, ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි. විදේශ ගමන්/පුහුණු සීමා කිරීම, බඳවා ගැනීම් අත්‍යවශ්‍ය ඒවා සඳහා පමණක් සිමා කිරීම, අනවශ්‍ය ප්‍රසම්පාදන/මිලදී ගැනීම් සීමා කිරීම, ප්‍රතිව්‍යුහගතකරන ක්‍රියාවලියට සහාය වීම, වැටුප් සංශෝධන හා දීමනා ගෙවීම් අත්හිටුවීම් ආදී පියවර රැසක් ගෙන ඇතැයි අග්‍රාමාත්‍යවරයා අවධාරණය කළේය.
+
+◼️
+
+[Data](articles/66a290e4.json)
 
 ---
 
@@ -115,6 +175,16 @@ Meanwhile, the Minister said that steps are being taken to recruit 3,000 nurses 
 [Data](articles/8cd7379b.json)
 
 [Extended Data](ext_articles/8cd7379b.ext.json)
+
+---
+
+### Diana
+
+*2024-05-08 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Diana/110-282172) · `en`
+
+◼️
+
+[Data](articles/b7a5665f.json)
 
 ---
 
@@ -2233,85 +2303,5 @@ Speaking to journalists he revealed that he had made a request to the Government
 [Data](articles/2500fc18.json)
 
 [Extended Data](ext_articles/2500fc18.ext.json)
-
----
-
-### China to support digital education transformation
-
-*2024-05-07 23:48:12* · [`dailyftlk`](https://www.ft.lk/business/China-to-support-digital-education-transformation/34-761520) · `en`
-
-The Cabinet of Ministers on Monday has approved implementing the digital transformation of general education aided by the Chinese Government.
-
-“The Chinese Government has agreed to provide for the project in accordance with a project proposal for the digital transformation of general education in Sri Lanka. A feasibility study has also been conducted in relation to the implementation of the project,” the statement comprising weekly Cabinet decisions issued by the Government Information Department noted.
-
-The proposed project is expected to provide Delivering Class Rooms, Receiving Class Rooms, Data Centre and tables for schools, within the Education Ministry to facilitate these activities, a Studio Room and a Conference Room.
-
-...
-
-[Data](articles/06e30f59.json)
-
-[Extended Data](ext_articles/06e30f59.ext.json)
-
----
-
-### NMRA trains police to sniff out psychoactive pharmaceutical drugs
-
-*2024-05-07 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-trains-police-to-sniff-out-psychoactive-pharmaceutical-drugs/108-282111) · `en`
-
-Colombo, May 07 (Daily Mirror) -  In a bid to mitigate the pharmaceutical drugs abuse menace, the National Medicines Regulatory Authority (NMRA) will back police and excise officials to identify and crackdown the trends of misusing psychoactive medicines.
-
-In a move to make the law enforcement officials aware, the NMRA organized a special programme last week to educate the psychoactive substances, which are prescribed as medicinal drugs for various ailments.
-
-A senior NMRA official told the Daily Mirror that under the National Dangerous Drugs Control Board (NDDCB) four pharmaceutical drugs were included in its act through Poisons, Opium and Dangerous Drug Act (Amendment) No 41 of 2022.
-
-The mentioned drugs identified as Diazepam, Tramadol, Pregabalin and Gabapentin are regularly used to treat anxiety, seizures, epilepsy, alcohol withdrawals and neuropathic pains.
-
-...
-
-[Data](articles/c21a9d1a.json)
-
-[Extended Data](ext_articles/c21a9d1a.ext.json)
-
----
-
-### Defence Secretary warns Sri Lankan war heroes against smugglers
-
-*2024-05-07 23:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Secretary-warns-Sri-Lankan-war-heroes-against-smugglers/108-282129) · `en`
-
-Colombo, May 7 (Daily Mirror) - Defence Secretary Kamal Gunaratne requested Sri Lanka's war heroes not to become victims of human smugglers who are recruiting people to serve in the armed forces on the Russian-Ukrain war front.
-
-He revealed that Sri Lanka's war heroes are being lured by false promises to join the armed forces in the Russia-Ukrain conflict.
-
-"These promises include offers of land in Saint Petersburg, Russian citizenship for their families and monthly salaries exceeding Rs.1 million. However, these promises remain unfulfilled, with no compensation provided for deceased war heroes and their families. Many Sri Lankan soldiers have already been sent to the conflict zone, resulting in casualties and injuries, whose extent remains unknown.
-
-General Gunaratne clarified that these soldiers were not legally recruited but rather coerced into serving as mercenaries. He urged war heroes to avoid falling prey to these human smugglers.
-
-...
-
-[Data](articles/d4134849.json)
-
-[Extended Data](ext_articles/d4134849.ext.json)
-
----
-
-### Dilshan's father passed away
-
-*2024-05-07 23:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டில்ஷானின்-தந்தை-காலமானார்/175-336922) · `ta`
-
-Dilshan's father, Duan Mohamed Junaiden, passed away on Tuesday in Kalutara without hospital treatment. Funeral on Thursday at Kalutara Provincial Cemetery.
-
-🟩
-
-Tilakaratne Dilshan's father Duan Mohamed Junaiden has died.
-
-He died on Tuesday (7) without being treated at a hospital in Kalutara.
-
-The funeral will be held at the Kalutara Provincial Cemetery on Thursday 9th.. Remble
-
-◼️
-
-[Data](articles/f9c9fc3e.json)
-
-[Extended Data](ext_articles/f9c9fc3e.ext.json)
 
 ---

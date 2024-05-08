@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 05:56:00**
+As of **2024-05-08 06:16:29**
 
 ## Newspaper Stats
 
-*Scraped **22,619** Articles*
+*Scraped **22,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 199
 bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
-islandlk | 1,224
+islandlk | 1,226
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,617 (100.0%) of 22,619 articles have been extended.
+22,619 (100.0%) of 22,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -264,21 +264,29 @@ During his address in parliament, MP Prof. Charitha Herath remarked that the ove
 
 ---
 
-### ’இளைஞனுக்கு நெருக்கடி அரசாங்கத்துக்கே நெருக்கடி’
+### Crisis for the young man
 
 *2024-05-08 00:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞனுக்கு-நெருக்கடி-அரசாங்கத்துக்கே-நெருக்கடி/175-336930) · `ta`
 
-விசா விநியோகத்தில் இடம்பெறவிருந்த பாரிய மோசடியை தனி ஒருவனாக இளைஞர் ஒருவர்  அம்பலப்படுத்தியுள்ளார். எனவே தவறுகளை அரசாங்கம்  திருத்திக் கொள்ள வேண்டும் என ஜே .வி.பி.எம்.பியான. விஜித ஹேரத்  கேட்டுக்கொண்டார்.
+A young man exposed visa distribution fraud, demanding government correction. Vijitha Herath warned of potential crises, highlighting the youth's role in publicizing the issue. The government is urged to rectify errors to avoid further crises, with the public and legal community supporting the young man.
 
-அதனை விடுத்து அந்த இளைஞனுக்கு நெருக்கடிகளை ஏற்படுத்தினால் அரசாங்கம் மீண்டும் பாரிய நெருக்கடிகளுக்கு முகம் கொடுக்க நேரிடும்.அரசாங்கத்துக்கு எதிராக மீண்டும் சட்டத்தரணிகளும் மக்களும் ஒன்றிணைவார்கள் எச்சரித்தார்.
+🟩
 
-பாராளுமன்றத்தில்  நேற்று செவ்வாய்க்கிழமை இடம்பெற்ற  பிரிவிடல் (திருத்தச்) சட்டமூலம் மற்றும்  வங்கிகளால் வழங்கப்பட்ட  கடன்கள் அறவிடல் (விசேட ஏற்பாடுகள்)திருத்தச்  சட்டமூலம் (பராட்டே) என்பன மீதான விவாதத்தில் உரையாற்றும்  போதே இந்த எச்சரிக்கையை விடுத்த அவர் மேலும் பேசுகையில்,
+A young man has exposed the massive fraud on the visa distribution. So the government should correct the mistakes. Vijitha Herath asked.
 
-அரசியலமைப்பினால் வழங்கப்பட்டுள்ள பேச்சுரிமையை அந்த இளைஞர்  பயன்படுத்தியுள்ளார்.இந்த இளைஞர்  குறிப்பிட்ட விடயங்கள் சமூக வலைத்தளங்களில் வெளியாகி,அது தொடர்பில்  மக்கள் அவதானம் செலுத்தியதன் பின்னரே அமைச்சரவை பழைய முறைக்கு  விசா விநியோகிக்க தீர்மானித்துள்ளது.
+If the young man is in crisis, the government will face major crises again.
 
-...
+He further issued this warning while addressing the debate on the Amendment Bill and the Bank of Parliament on Tuesday's Amendment Bill and the Corporation of Corporation (Special Provisions) Amendment Bill (Paratete).
+
+The youth has used the speech given by the Constitution. The youth has decided to distribute the visa to the old system only after the youth have been published on social media and the public attention.
+
+Therefore, the government should correct the mistakes and act in a way that can cause crises for this young man, the lawyers and the people of the country will act on behalf of the young man. The government will reunite against the government.
+
+◼️
 
 [Data](articles/74c42468.json)
+
+[Extended Data](ext_articles/74c42468.ext.json)
 
 ---
 
@@ -362,19 +370,29 @@ He also has experience serving in prominent Global Organizations such as Warner 
 
 ---
 
-### ’நல்லிணக்க செயலணி ஒரு கண்துடைப்பு’
+### The Reconciliation Secretariat is a blindfold
 
 *2024-05-08 00:35:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நல்லிணக்க-செயலணி-ஒரு-கண்துடைப்பு/175-336929) · `ta`
 
-யுத்த அத்துமீறல் குற்றச் சாட்டுக்களுக்கு உள்ளக பொறிமுறை மூலமாக   சரியான நீதி கிடைக்காது என்பதற்கு யுத்தம் முடிவடைந்த இந்த 15 வருட காலமாக எதுவுமே நடக்காமல் இருப்பதே சான்றாக உள்ளது என்று தமிழ்த் தேசியக் கூட்டணியின் பாராளுமன்ற உறுப்பினரான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+MA Sumanthiran criticizes the Reconciliation Secretariat for failing to provide justice for war violations, opposing another reconciliation process, and highlighting the government's responsibility in addressing disappearances and violations.
 
-பாராளுமன்றத்தில்   செவ்வாய்க்கிழமை (07)  இடம்பெற்ற  பிரிவிடல் (திருத்தச்) சட்டமூலம் மற்றும்  வங்கிகளால் வழங்கப்பட்ட  கடன்கள் அறவிடல் (விசேட ஏற்பாடுகள்)திருத்தச்  சட்டமூலம் (பராட்டே) என்பன மீதான விவாதத்தில் உரையாற்றும்  போதே இவ்வாறு தெரிவித்த எம்.ஏ. சுமந்திரன் எம்.பி. மேலும் பேசுகையில்,
+🟩
 
-இன்னுமொரு நல்லிணக்க செயலணியை கொண்டு வருவதை நாங்கள் எதிர்க்கின்றோம்.   இது செப்டம்பரில் வரவுள்ள ஜெனிவா அமர்வுக்கு காண்பிக்கும் ஒரு கண்துடைப்பு நடவடிக்கையாகும்.
+The Tamil National Alliance (TNA) parliamentarian MA Sumanthiran said that this 15 years of the war that ended the war that the war violations would not get proper justice through the internal mechanism.
+
+The MA said this while addressing the debate on the Amendment Bill (Amendment) Bill (Amendment) Bill in Parliament on Tuesday (07) and the Corporation of Corporation (Special arrangements) Bill (Paratete).. Sumanthiran MP. As more and more,
+
+We oppose bringing another reconciliation process.This is an eyewitness for the upcoming Geneva session in September.
+
+We will light the world in this regard and there is no harmony without a permanent political settlement.
+
+The war ended 15 years after the end of the war.. It is essential to record some of the things I have said in this congregation.
 
 ...
 
 [Data](articles/1f6d541c.json)
+
+[Extended Data](ext_articles/1f6d541c.ext.json)
 
 ---
 
@@ -773,6 +791,22 @@ This judgment pertains to an appeal petition filed by social activist Oshala Her
 [Data](articles/baac1ad4.json)
 
 [Extended Data](ext_articles/baac1ad4.ext.json)
+
+---
+
+### CBSL comments on foreign reserves positively impact bourse
+
+*2024-05-07 22:12:00* · [`islandlk`](http://island.lk/cbsl-comments-on-foreign-reserves-positively-impact-bourse/) · `en`
+
+The market started on a dull note yesterday but later indicated some recovery following the Central Bank announcement that last month’s foreign reserves touched more than US 5.4 billion, which was a 9.6 percent increase compared to the month of March, which amounted to US 4 4.9 billion.
+
+Amid those developments both indices reported mixed reactions. All Share Price Index gained by 10.41 points while S and P SL20 declined by 0.67 points. Turnover stood at Rs 2 billion with five crossings.
+
+Those crossings were reported in Royal Ceramic, which crossed 800,000 shares to the tune of Rs 28 million and its share price traded at Rs 35, NDB 314,000 shares crossed for Rs 24.5 million; its shares traded at Rs 78, Melstacope 250,000 shares crossed for Rs 23.1 million; its shares traded at Rs 92.50, CTC 16000 shares crossed to the tune of Rs 20.8 million and its shares traded at Rs 1300 and Sunshine Holdings 350,000 shares crossed for Rs 20.1 million; its shares traded at Rs 54.10.
+
+...
+
+[Data](articles/59534f8f.json)
 
 ---
 
@@ -2213,19 +2247,5 @@ At the ceremony inside the gilded Grand Kremlin Palace, Putin placed his hand on
 [Data](articles/ab14fc36.json)
 
 [Extended Data](ext_articles/ab14fc36.ext.json)
-
----
-
-### Legal battle on SLFP positions: Wijeyadasa’s application dismissed
-
-*2024-05-07 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-battle-on-SLFP-positions-Wijeyadasas-application-dismissed/108-282100) · `en`
-
-Colombo, May 07 (Daily Mirror)  -  A revision application filed by Justice Minister Wijeyadasa Rajapakshe challenging the legality of the enjoining order issued by the Colombo District Court preventing him from functioning as the acting chairman of the Sri Lanka Freedom Party (SLFP) was today dismissed by the Court of Appeal.
-
-◼️
-
-[Data](articles/bb3c0f9a.json)
-
-[Extended Data](ext_articles/bb3c0f9a.ext.json)
 
 ---

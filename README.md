@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 12:33:34**
+As of **2024-05-08 12:53:12**
 
 ## Newspaper Stats
 
-*Scraped **22,696** Articles*
+*Scraped **22,699** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 199
-bbccomsinhala | 236
 dbsjeyarajcom | 236
+bbccomsinhala | 237
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,913
+adalk | 1,914
 tamilmirrorlk | 2,652
-adaderanalk | 2,660
+adaderanalk | 2,661
 virakesarilk | 3,387
 dailymirrorlk | 3,561
 adaderanasinhalalk | 3,634
@@ -26,11 +26,29 @@ adaderanasinhalalk | 3,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,695 (100.0%) of 22,696 articles have been extended.
+22,696 (100.0%) of 22,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Woman found dead under suspicious circumstances
+
+*2024-05-08 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99077/woman-found-dead-under-suspicious-circumstances-) · `en`
+
+The body of a woman who had died under suspicious circumstances has been found inside a house in the Kaluwalagoda area of Uragasmanhandiya.
+
+The body of the 50-year-old woman who is suspected to have died a few days ago, was found on a bed in the house, the police said.
+
+Preliminary investigations have revealed that the woman was staying alone at home and that her husband was away for work at the time of the incident.
+
+The body of the deceased has been placed in the mortuary of Elpitiya Hospital for the post-mortem examination, and Uragasmanhandiya Police are conducting further investigations regarding the death.
+
+◼️
+
+[Data](articles/0ddc51c7.json)
+
+---
 
 ### Man found dead in hotel swimming pool
 
@@ -47,6 +65,8 @@ The body of the deceased has been placed in the Peradeniya Hospital.
 ◼️
 
 [Data](articles/13e0d539.json)
+
+[Extended Data](ext_articles/13e0d539.ext.json)
 
 ---
 
@@ -145,6 +165,28 @@ Defence Secretary, General (Rtd) Kamal Gunaratne emphasized that the operation w
 [Data](articles/f16975e5.json)
 
 [Extended Data](ext_articles/f16975e5.ext.json)
+
+---
+
+### වසර එකසිය පණහකට වඩා ඉපැරණි තානායමට සිදුව ඇතිදේ
+
+*2024-05-08 11:27:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-එකසිය-පණහකට-වඩා-ඉපැරණි-තානායමට-සිදුව-ඇතිදේ/11-409495) · `si`
+
+බ්‍රිතාන්‍ය පාලකයින් විසින් මීට වසර එකසිය පණහකට පමණ ඉහතදී ඉඳිකරන ලද පෞරාණික වටිනාකමින් යුත් බිබිල නගර මධ්‍යයේ පිහිටි තානායම මේවන විට කැළෑවට යටවී විනාශවෙමින් පවතී.
+
+දැනට ලංකා සංචාරක මණ්ඩලයට අයත් මෙම ගොඩනැඟිල්ල කැළෑවට යටවී විනාශවෙමින් පවතින අතර ඇතැම් පුද්ගලයින් විවිධ විෂමාචාර ක්‍රියාවන්ට මෙම ගොඩනැඟිල්ල යොදාගන්නා බව නගරවාසීහු පවසති.
+
+බ්‍රිතාන්‍ය පාලන සමයේ ආණ්ඩුකාරවරුන් ඇතුළු උසස් නිලධාරීන් වෙල්ලස්ස ප්‍රදේශයට රාජකාරි කටයුතු සඳහා පැමිණි අවස්ථා වලදී නවාතැන්ගෙන ඇත්තේ මෙම තානායමේය.
+
+1948 පසුව රජයේ පාලනයට නතුවූ මෙම තානායම ස්වදේශ කටයුතු අමාත්‍යංශය යටතේ පවත්වාගෙන ගිය අතර වරින්වර පුද්ගලික අංශයට බදු මත ලබාදී තිබිණි.
+
+පුද්ගලික භාරකරුවන් තානායම් පවත්වාගෙන ගිය සමයේ එහි තිබූ වටිනා පෞරාණික භාණ්ඩ අතුරුදහන්වී තිබේ.
+
+බදුකරුවන් ගොඩනැඟිල්ල නඩත්තුනොකිරීම නිසා එහි කොටස් විනාශවීම නිසා මීට වසර 10 පමණ ඉහතදී එය අතහැර දමාගොස් ඇත.
+
+...
+
+[Data](articles/53d281fa.json)
 
 ---
 
@@ -1264,6 +1306,26 @@ Wijerathne has functioned in the same role before, but this new appointment is u
 
 ---
 
+### ඩයනා ගමගේ: මන්ත්‍රී ධුරය දැරීම අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණයෙන් තීන්දුවක්
+
+*2024-05-08 05:48:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cne9r73pgldo) · `si`
+
+රාජ්‍ය ඇමතිනී ඩයනා ගමගේ ට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 8 වැනිද) තීන්දු කළේය.
+
+ගාමිණී අමරසේකර සහ කුමුදුනී වික්‍රමසිංහ යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව  ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනක් ද සිල්වා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරනු ලැබීය.
+
+තීන්දුව ප්‍රකාශයට පත් කරමින් විනිසුරුවරයා සඳහන් කළේ වග උත්තරකාර ඩයනා ගමගේ බ්‍රිතාන්‍ය විදේශ ගමන් බලපත්‍රයක් භාවිතා කරමින් ශ්‍රී ලංකාවට පැමිණ තිබෙන බව නඩු විභාගයේ ද කරුණු තහවුරු වූ  බව ය.
+
+එසේම ඩයනා ගමගේ ගේ ශ්‍රී ලාංකික පුරවැසිභාවය ඔප්පු කිරීමට ඇය අධිකරණය හමුවේ අසමත් වී ඇති බවත් විනිසුරුවරයා තීන්දුව ප්‍රකාශයට පත් කරමින් සඳහන් කළේය.
+
+ඒ අනුව ආණ්ඩු ක්‍රම ව්‍යවස්ථාවේ 89 වන වගන්තිය යටතේ ශ්‍රී  ලංකික පුරවැසිබාවය අහිමි අයෙකු මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි ක්‍රියාවක් බවත් විනිසුරුවරයා පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/6ae614a5.json)
+
+---
+
 ### Sajith plays it safe in Parliament
 
 *2024-05-08 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-plays-it-safe-in-Parliament/108-282139) · `en`
@@ -2205,67 +2267,5 @@ Celebrating a decade of fruitful collaboration, Singer, the exclusive distributo
 [Data](articles/18474aff.json)
 
 [Extended Data](ext_articles/18474aff.ext.json)
-
----
-
-### CBSL comments on foreign reserves positively impact bourse
-
-*2024-05-07 22:12:00* · [`islandlk`](http://island.lk/cbsl-comments-on-foreign-reserves-positively-impact-bourse/) · `en`
-
-The market started on a dull note yesterday but later indicated some recovery following the Central Bank announcement that last month’s foreign reserves touched more than US 5.4 billion, which was a 9.6 percent increase compared to the month of March, which amounted to US 4 4.9 billion.
-
-Amid those developments both indices reported mixed reactions. All Share Price Index gained by 10.41 points while S and P SL20 declined by 0.67 points. Turnover stood at Rs 2 billion with five crossings.
-
-Those crossings were reported in Royal Ceramic, which crossed 800,000 shares to the tune of Rs 28 million and its share price traded at Rs 35, NDB 314,000 shares crossed for Rs 24.5 million; its shares traded at Rs 78, Melstacope 250,000 shares crossed for Rs 23.1 million; its shares traded at Rs 92.50, CTC 16000 shares crossed to the tune of Rs 20.8 million and its shares traded at Rs 1300 and Sunshine Holdings 350,000 shares crossed for Rs 20.1 million; its shares traded at Rs 54.10.
-
-...
-
-[Data](articles/59534f8f.json)
-
-[Extended Data](ext_articles/59534f8f.ext.json)
-
----
-
-### Public Consultation on Amendments to the Finance Leasing Act, No.56 of 2000 (as amended) (FLA)
-
-*2024-05-07 22:12:00* · [`islandlk`](http://island.lk/public-consultation-on-amendments-to-the-finance-leasing-act-no-56-of-2000-as-amended-fla/) · `en`
-
-Having recognized the need for strengthening the protection of finance leasing customers and updating the FLA to be in line with the industry developments, the Central Bank of Sri Lanka (CBSL) has initiated amending the FLA.
-
-To have wider stakeholder consultation, the CBSL is inviting the general public to submit observations/ suggestions/ comments on the draft amendments. The public can access the draft amendments though the following weblink at the CBSL website;
-
-The public is invited to send their observations/ suggestions/ comments through post, fax or email on or before 31st May 2024, under the subject; “Observations/ Suggestions/ Comments on the draft amendments to the Finance Leasing Act”.
-
-Postal Address: Director, Department of Supervision of Non-Bank Financial Institutions,
-
-Central Bank of Sri Lanka, No. 30 Janadhipathi Mawatha, Colombo 01.
-
-Related Topics:CBSLPublic Consultation on Amendments to the Finance Leasing Act
-
-...
-
-[Data](articles/98f1e62b.json)
-
-[Extended Data](ext_articles/98f1e62b.ext.json)
-
----
-
-### CEAT Kelani says it is not the company fined by Customs Department
-
-*2024-05-07 22:11:00* · [`islandlk`](http://island.lk/ceat-kelani-says-it-is-not-the-company-fined-by-customs-department/) · `en`
-
-CEAT Kelani International Tyres (Pvt) Ltd. has assured customers, stakeholders and the general public that the Company has no dispute over Customs Duties with the Customs Department and is not subject to any inquiry or penalty by the Department in relation to Customs Duties.
-
-Responding to media reports that a leading tyre manufacturer is facing legal action and a fine for non-payment of Customs Duties on imported raw materials, CEAT Kelani International Tyres has issued the following statement to the media.
-
-“CEAT Kelani International Tyres categorically states that it is not the company that has allegedly defaulted on the payment of fines imposed by the Department of Customs as a penalty for non-payment of Customs Duties due on the import of raw materials.”
-
-“We would also like to assure our valued customers, all other stakeholders and the public that CEAT Kelani complies with all legal and regulatory requirements in the conduct of its business, including the timely payment of dues.”
-
-...
-
-[Data](articles/92c6f7b0.json)
-
-[Extended Data](ext_articles/92c6f7b0.ext.json)
 
 ---

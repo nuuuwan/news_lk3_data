@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 22:50:47**
+As of **2024-05-08 23:03:17**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,793 (100.0%) of 22,797 articles have been extended.
+22,797 (100.0%) of 22,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### දුම්වැටි තොගයක් සමග පුද්ගලයෙකු කටුනායකදී අත්අඩංගුවට
+### Person arrested in Katunayake with cigarettes
 
 *2024-05-08 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196414) · `si`
 
-නීතිවිරෝධීව මෙරටට ගෙන්වන ලද දුම්වැටි තොගයක් සමග පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+A 29-year-old Colombo resident was arrested at Katunayake Airport for smuggling cigarettes, valued at nearly Rs. 500,000, from Dubai.
 
-කටුනායක ගුවන්තොටුපොළේ පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ නිලධාරීන් වෙත ලද තොරතුරකට අනුව සිදුකළ සෝදිසි කිරීමකදී සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 29 හැවිරිදි වියේ පසුවන් කොළඹ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A person has been arrested at the Katunayake Airport with cigarettes imported to Sri Lanka.
 
-වැඩිදුර විමර්ශනවලදී අනාවරණය වී ඇත්තේ සැකකරු විසින් ඩුබායි සිට මෙම දුම්වැටි තොගය ශ්‍රී ලංකාවට රැගෙනවිත් ඇති බවය.
+The suspect has been arrested in connection to the officers of the Police Narcotics Bureau at the Katunayake airport.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇති දුම්වැටි තොගයේ වටිනාකම රුපියල් ලක්ෂ 5කට ආසන්න බව පොලීසිය පවසයි.
+The arrested were a 29 year old resident of Colombo.
+
+Further investigations were revealed that the suspect had been brought to Sri Lanka from Dubai to Sri Lanka.
+
+The value of the smoking has been arrested for nearly Rs. 500,000.
 
 ◼️
 
 [Data](articles/b2ccbd34.json)
+
+[Extended Data](ext_articles/b2ccbd34.ext.json)
 
 ---
 
@@ -114,17 +120,23 @@ Three persons including a Police Constable, and a Sergeant attached to the Kotta
 
 ---
 
-### துப்பாக்கிச்சூட்டில் ஒருவர் மரணம்
+### Death in one of the shootings
 
 *2024-05-08 22:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-336981) · `ta`
 
-அஹுங்கல்ல - போகஹாபிட்டிய பகுதியில் இன்று இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A person was killed in a shooting in Ahungalla-Bogahapitiya. Police are investigating further.
 
-மேலும், குறித்த சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+🟩
+
+One person was killed in a shooting in the Ahungalla - Bogahapitiya area today, police said.
+
+In addition, police are conducting further investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/b9af0668.json)
+
+[Extended Data](ext_articles/b9af0668.ext.json)
 
 ---
 
@@ -157,6 +169,8 @@ Defence Secretary, General (Rtd) Kamal Gunaratne had emphasized that the operati
 ◼️
 
 [Data](articles/38f06890.json)
+
+[Extended Data](ext_articles/38f06890.ext.json)
 
 ---
 
@@ -324,15 +338,21 @@ The motive behind the shooting was not immediately clear, according to the polic
 
 ---
 
-### அஹுங்கல போகஹபிட்டிய பகுதியில் துப்பாக்கிச் சூடு
+### Ahungala firing in Boghabitiya area
 
 *2024-05-08 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183014) · `ta`
 
-அஹுங்கல போகஹபிட்டிய பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In Ahungala Boghapitiya, a shooting injured one person, police reported.
+
+🟩
+
+One person was injured in a shooting in the Ahungala Boghapitiya area, police said.
 
 ◼️
 
 [Data](articles/cf4cea4a.json)
+
+[Extended Data](ext_articles/cf4cea4a.ext.json)
 
 ---
 

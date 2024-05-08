@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 18:23:45**
+As of **2024-05-08 18:36:01**
 
 ## Newspaper Stats
 
-*Scraped **22,748** Articles*
+*Scraped **22,750** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 199
-bbccomsinhala | 237
+bbccomsinhala | 238
 dbsjeyarajcom | 238
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,922
+adalk | 1,923
 tamilmirrorlk | 2,659
 adaderanalk | 2,670
 virakesarilk | 3,389
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,748 (100.0%) of 22,748 articles have been extended.
+22,748 (100.0%) of 22,750 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -540,6 +540,24 @@ Inquiry on the reasons for reducing the use of alcohol, 71.5% of the participant
 
 ---
 
+### බාස්මති සඳහා අදේශක වි ප්‍රභේද දෙකක් සොයා ගනියි
+
+*2024-05-08 14:16:56* · [`adalk`](https://www.ada.lk/breaking_news/බාස්මති-සඳහා-අදේශක-වි-ප්‍රභේද-දෙකක්-සොයා-ගනියි/11-409501) · `si`
+
+බාස්මතී සහල් සඳහා වන ආදේශක වී ප්‍රභේද දෙකක් හඳුනා ගැනීමට හැකියාව ලැබී ඇතැයි බතලගොඩ වී පර්යේෂණ හා පුහුණු ආයතනය පවසයි.
+
+මේ සම්බන්ධයෙන්  සිදු කරන ලද පර්යේෂණ ඉතාමත් සාර්ථක වී ඇති බවත්, තවත් මාස කීපයක් තුළ බෝග නිදහස් කිරීමේ කමිටු නිර්දේශ යටතේ මෙම බාස්මතී ආදේශක වී ප්‍රභේද දෙක මෙරට වගාව සඳහා නිදහස් කිරීමට හැකි බව එම ආයතනය කියයි.
+
+බාස්මතී සහල් නිෂ්පාදනය කිරීම සඳහා මෙරට වගා කළ හැකි වී ප්‍රභේදයක් හඳුන්වාදීමට කාලයක සිට විවිධ පර්යේෂණ සිදු කළ ද බාස්මතී සහල්වලට ආදේශකයක් ලෙස යොදා ගත හැකි සාර්ථක වී ප්‍රභේදයක් නිපදවීමට නොහැකි වී තිබු බවද එම ආයතන පවසයි.
+
+මේ වනවිට ඒටී 306 හා ඒටී 309 යන වී ප්‍රභේද දෙක බාස්මතී සහල් හා සමාන දිගටි වී ප්‍රභේද දෙකක් ලෙස හඳුන්වා දී  ඇති බවත්, එම වී වර්ගද මෙරට ජනප්‍රිය වී ඇතැයි බතලගොඩ වී පර්යේෂණ හා පුහුණු ආයතනය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c059edff.json)
+
+---
+
 ### Diana's chair to Mujiber
 
 *2024-05-08 14:09:20* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-පුටුව-මුජිබර්ට/11-409500) · `si`
@@ -815,6 +833,28 @@ Thereafter, the interval of the Secretary to the Ministry of Defense is due to b
 [Data](articles/90a0375e.json)
 
 [Extended Data](ext_articles/90a0375e.ext.json)
+
+---
+
+### අවුරුදු 20කට අදානි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් අනුමැතිය: මීළඟට සිදුවන්නේ කුමක් ද?
+
+*2024-05-08 12:37:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gqypk0rlgo) · `si`
+
+අවුරුදු 20කට අදානි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් අනුමැතිය: මීළඟට සිදුවන්නේ කුමක් ද?
+
+වසර 20ක කාලය සදහා ඉන්දීය අදානි ග්‍රීන් එනර්ජි සමාගමෙන් විදුලිය මිලදී ගැනීමට කැබිනට් මණ්ඩලය අනුමැතිය ලබාදී තිබේ. අනුමැතිය හිමිව ඇත්තේ මන්නාරම සහ පුනරින් ප්‍රදේශවල ස්ථාපනය කෙරෙන අදානි සමාගමට අයත් සුළං විදුලි බලාගාරවලින් ජනනය කෙරෙන විදුලිය මිලදී ගැනීම සඳහාය
+
+මන්නාරම සහ පුනරින් ප්‍රදේශවල ස්ථාපනය කෙරෙන සුළං විදුලි බලාගාරවලින් ජනනය කෙරෙන විදුලිය මිලදී ගැනීම සඳහා අදානි ග්‍රීන් එනර්ජි සමාගම විසින් ඉදිරිපත් කරන ලද ටෙන්ඩරයට කැබිනට් මණ්ඩලය ( මැයි මස 07 වෙනිදා) අනුමැතිය ලබා දෙනු ලැබීය.
+
+විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර විසින් එම කැබිනට් යෝජනාව ඉදිරිපත් කරන ලදී.
+
+මන්නාරම සහ පුනරින් ප්‍රදේශවල සුළං විදුලි බලාගාර ස්ථාපනය සඳහා අදානි ග්‍රීන් එනර්ජි සමාගම සමග අවබෝධතා ගිවිසුමකට එළැඹීමට 2022 මාර්තු 07 වනදා කැබිනට් අනුමැතිය හිමිවිය.
+
+2030 වසර වන විට මෙරට සමස්ත විදුලිබල උත්පාදනයෙන් 70%ක් පුනර්ජනනීය විදුලියෙන් උත්පාදනය කිරීම ශ්‍රී ලංකාවේ ඉලක්කය වී තිබේ.
+
+...
+
+[Data](articles/8a80ac38.json)
 
 ---
 
@@ -2295,51 +2335,5 @@ Sri Lanka won the match wins by 68 runs.
 [Data](articles/a4e03cb8.json)
 
 [Extended Data](ext_articles/a4e03cb8.ext.json)
-
----
-
-### Sri Lanka to overhaul visa issuance process
-
-*2024-05-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-overhaul-visa-issuance-process/108-282137) · `en`
-
-In the wake of perplexities surrounding the issuance of the on-arrival visa issuance at the Bandaranaike International Airport (BIA), the Government is mulling to overhaul the visa issuance process, Daily Mirror learns.
-
-To fulfill this requirement, a cabinet paper is to be submitted at the next cabinet meeting.
-
-Meanwhile, government sources confirmed that VFS Global has temporarily ceased operations at the BIA counter.
-
-Nevertheless, there has been a request from the government of Sri Lanka to take over the on-arrival visa issuance, which VFS Global has refused.
-
-Speaking to Daily Mirror, Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya said the entire process pertaining to the issuance of on-arrival visa issuance at the BIA is solely handled by the Immigration officials.
-
-However, VFS Global handles the e-Visa documentation process, with final approval granted by immigration department officials.
-
-...
-
-[Data](articles/75d15e98.json)
-
-[Extended Data](ext_articles/75d15e98.ext.json)
-
----
-
-### Sri Lanka gross foreign reserves rise to 3.5 year high in April
-
-*2024-05-08 06:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gross-foreign-reserves-rise-to-3-5-year-high-in-april-161947/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross official reserves rose by 478 million US dollars in April 2024 to 5,438 million US dollars, official data shows, as the central bank continued broadly deflationary policy.
-
-Deflationary policy (net sell downs of central bank-held domestic securities) at a market-appropriate interest rate allows a balance of payments surplus to develop.
-
-The rupee sharply appreciated in March and early April, leading to importer bill delays and heavy reserve collections.
-
-Some pressure came in the latter half of the month largely due to oversold position and the central bank used moral suasion and some dollar sales to keep the exchange rate stable.
-
-Sri Lanka’s private credit is still weak, allowing reserves to be collected and the external sector to be kept stable easily.
-
-...
-
-[Data](articles/9286a78c.json)
-
-[Extended Data](ext_articles/9286a78c.ext.json)
 
 ---

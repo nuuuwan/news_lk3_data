@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 02:33:46**
+As of **2024-05-09 02:52:04**
 
 ## Newspaper Stats
 
-*Scraped **22,806** Articles*
+*Scraped **22,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,232
 economynextcom | 1,316
 dailyftlk | 1,323
 adalk | 1,930
-tamilmirrorlk | 2,664
+tamilmirrorlk | 2,665
 adaderanalk | 2,678
 virakesarilk | 3,392
 dailymirrorlk | 3,582
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,806 (100.0%) of 22,806 articles have been extended.
+22,806 (100.0%) of 22,807 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,24 @@ The best batting of both middle -liners Nicholas Pooran and Aush Patoni helped L
 [Data](articles/02091493.json)
 
 [Extended Data](ext_articles/02091493.ext.json)
+
+---
+
+### ரூ.13,347 மில்லியன் நிலுவையில் உள்ளது
+
+*2024-05-09 00:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-13-347-மில்லியன்-நிலுவையில்-உள்ளது/175-336996) · `ta`
+
+இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்துக்கு, அரச நிறுவனங்கள் உட்பட தனியார் நிறுவனம் 13,347மில்லியன் ரூபாய் நிலுவைத் தொகையை செலுத்த வேண்டியுள்ளதாக  மின்சாரத்துறை மற்றும் வலுசக்தி இராஜாங்க அமைச்சர் டி.வி.சானக தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (08) இடம்பெற்ற  வாய்மூல விடைக்கான வினாநேரத்தில் சுயாதீன எதிரணி எம்.பி.யான  தயாசிறி ஜயசேகர எழுப்பிய  கேள்விகளுக்கு பதிலளிக்கும்போதே இதனைத் தெரிவித்தார்.
+
+இலங்கை மின்சார சபை,தனியார் நிறுவனம்,புகையிரத திணைக்களம்,இராணுவம்,கடற்படை,விமானப்படை மற்றும் பொலிஸ் ஆகிய நிறுவனங்கள் பெற்றோலிய கூட்டுத்தாபனத்துக்கு  நிலுவைத் தொகை செலுத்த வேண்டியுள்ளன.
+
+மின்சார சபை 3,529 மில்லியன் ரூபாய்,தனியார் நிறுவனம் ஒன்று  39 மில்லியன் ரூபாய், புகையிரத திணைக்களம் 2,544 மில்லியன் ரூபாய்,இராணுவம் 3,149 மில்லியன் ரூபாய்,விமானப்படை 4,011 மில்லியன்  ரூபாய் மற்றும் பொலிஸ் 75 மில்லியன் ரூபாய் என்ற அடிப்படையில்  13,347 ரூபாய் நிலுவை தொகை செலுத்த வேண்டியுள்ளது  என்றார்.
+
+◼️
+
+[Data](articles/c36e1cd0.json)
 
 ---
 
@@ -2217,27 +2235,5 @@ The body of the deceased has been placed in the Peradeniya Hospital.
 [Data](articles/13e0d539.json)
 
 [Extended Data](ext_articles/13e0d539.ext.json)
-
----
-
-### Mujibur Rahman likely to replace Diana Gamage?
-
-*2024-05-08 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-Rahman-likely-to-replace-Diana-Gamage/108-282159) · `en`
-
-Parliament, May 8, (Daily Mirror) - The Samagi Jana Balawegaya (SJB) will hold a discussion shortly to decide on who will fill the national list slot that has fallen vacant as a result of the Supreme Court decision that Diana Gamage cannot function as an MP as she is not a citizen of Sri Lanka, party General Secretary Ranjith Madduma Bandara said today.
-
-“We will meet shortly to decide on the matter,” he told the Daily Mirror.
-
-“Mujibur Rahman lost his parliamentary seat because of the decision made by us to field him as the SJB mayoral candidate for the Colombo Municipal Council at the local government polls scheduled to be held earlier. We will consider this fact when deciding on who will replace Diana Gamage,” he added.
-
-Also, he said the Supreme Court had delivered a landmark judgment with regard to State Minister Gamage.
-
-MP Nalin Bandara who informed Parliament on the judgment thanked the Supreme Court.
-
-◼️
-
-[Data](articles/19dcee6f.json)
-
-[Extended Data](ext_articles/19dcee6f.ext.json)
 
 ---

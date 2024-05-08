@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 11:33:51**
+As of **2024-05-08 11:52:20**
 
 ## Newspaper Stats
 
-*Scraped **22,682** Articles*
+*Scraped **22,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 236
 dbsjeyarajcom | 236
 newsfirstlk | 363
 islandlk | 1,232
-economynextcom | 1,296
+economynextcom | 1,301
 dailyftlk | 1,322
-adalk | 1,909
+adalk | 1,913
 tamilmirrorlk | 2,652
-adaderanalk | 2,658
+adaderanalk | 2,659
 virakesarilk | 3,387
 dailymirrorlk | 3,560
 adaderanasinhalalk | 3,632
@@ -26,29 +26,97 @@ adaderanasinhalalk | 3,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,681 (100.0%) of 22,682 articles have been extended.
+22,682 (100.0%) of 22,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### ரஃபாவின் மருத்துவமனையிலிருந்து தப்பியோடும் நோயாளிகள், மருத்துவர்கள்! - சிறுநீரக பாதிப்புக்குள்ளான 200 நோயாளிகளின் உயிருக்கு ஆபத்து
+### Operation launched to stop illegal recruitment of Sri Lankan Army veterans for Russian-Ukrainian war
 
-*2024-05-08 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/182947) · `ta`
+*2024-05-08 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99075/operation-launched-to-stop-illegal-recruitment-of-sri-lankan-army-veterans-for-russian-ukrainian-war) · `en`
 
-ரஃபாவின் பிரதான மருத்துவமனையிலிருந்து மருத்துவர்களும் நோயாளிகளும் தப்பியோடுகின்றனர் என ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது.
+The Ministry of Defence states that an operation has been launched in order to arrest the individuals who are involved in directing retired Sri Lankan Army soldiers to join Russian or Ukraine forces by illegal means.
 
-அச்சம் காரணமாக நோயாளிகளும் மருத்துவர்களும் தப்பியோடுகின்றனர் நோயாளிகளை ரஃபா எல்லை  ஊடாக எகிப்திற்கு கொண்டு செல்லும் நடவடிக்கை இஸ்ரேலின் இராணுவ நடவடிக்கை காரணமாக நிறுத்தப்பட்டுள்ளதாக ரொய்ட்டர் மருத்துவர்கள் நோயாளிகளை மேற்கோள் காட்டி செய்தி வெளியிட்டுள்ளது.
+Defence Secretary, General (Rtd) Kamal Gunaratne emphasized that the operation was initiated jointly with the Criminal Investigations Department (CID) and the Intelligence Units.
 
-மோதல் பகுதி என இஸ்ரேல் அறிவித்துள்ள காசாவின் தென்பகுதியில் அபுயூசுவ்அல் நஜார் மருத்துவமனை காணப்படுகின்றது.
-
-இஸ்ரேல் இந்த மருத்துவமனையை மோதல் களத்தின் மையத்திற்குள் சிக்கவைத்துள்ளதால் அந்த மருத்துவமனை எதிர்கொள்ளும் அச்சுறுத்தல் காரணமாக நோயாளிகளும் மருத்துவர்களும் வெளியேறுகின்றனர் என வைத்தியர் மர்வான் அல் ஹம்ஸ் ரொய்ட்டருக்கு தெரிவித்துள்ளார்.
-
-இந்த மருத்துவமனை மூடப்பட்டால் சிறுநீரக நோயாளிகள் 200 பேரின் உயிருக்கு ஆபத்து ஏற்படலாம் என உலக சுகாதார ஸ்தாபனத்தின் பேச்சாளர் மார்க்கிரட் ஹரிஸ் தெரிவித்துள்ளார்.
+“Illegal foreign employment agents engage in human trafficking to send retired army personnel to the Russian-Ukrainian war front. They defraud money under the pretext of providing employment in the Russian army. These suspects also promise to grant land in popular areas like Petersburg if they join the Ukrainian war. Moreover, they pledge Russian citizenship for their families and more than Rs. 1 million in cash”, Mr Gunaratne added.
 
 ...
 
+[Data](articles/f16975e5.json)
+
+---
+
+### ඩයනා ගමගේගේ මන්ත්‍රිධුරය අහෝසියි
+
+*2024-05-08 11:26:23* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනා-ගමගේගේ-මන්ත්‍රිධුරය-අහෝසියි/11-409494) · `si`
+
+රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියගේ පාර්ලිමේන්තු මන්ත්‍රී ධූරය අහෝසි කරමින් ශ්‍රේෂ්ඨාධිකරණය රීට් ආඥාවක් අද (08) නිකුත් කළේය. ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ජනක් ද සිල්වා මහතා ඇතුළු විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/4eba041b.json)
+
+---
+
+### ඩයනාගේ මන්ත්‍රී ධූරය අහිමිවෙයි
+
+*2024-05-08 11:18:48* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාගේ-මන්ත්‍රී-ධූරය-අහිමිවෙයි/11-409492) · `si`
+
+සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (08) රීට් ආඥාවක් නිකුත් කර තිබේ.
+
+ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට  නීත්‍යානුකූල සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/f70f1139.json)
+
+---
+
+### දයාසිරිගේ දැනුම්දිමට ජනපතිගෙන් කඩිනම් පිළිතුරු
+
+*2024-05-08 11:15:24* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිගේ-දැනුම්දිමට-ජනපතිගෙන්-කඩිනම්-පිළිතුරු/11-409491) · `si`
+
+රුසියාවේ සහ යුක්රේනයේ යුද කඳවුරු වල රැකියා  දෙන බව පවසා එම රටවලට රැගෙන ගිය හිටපු හමුදා භටයන් හයසීයකට අධික පිරිසක් බලහත්කාරයෙන් යුද්ධයට යොමු කර ඇති බව  කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී දයාසිරි ජයසේකර මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ඊයේ (07දා) දැනුම් දී තිබේ.
+
+මන්ත්‍රීවරයා ඉදිරිපත් කළ කරුණු සම්බන්ධයෙන් සලකා බැලූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ සම්බන්ධයෙන් රුසියානු රජය සමඟ සාකච්ඡා කර ශ්‍රී ලාංකික පිරිස ගෙන්වා ගැනීමට කටයුතු කරන ලෙස ආරක්ෂක ලේකම්වරයාට දැනුම් දී ඇත.
+
+අදාල  ශ්‍රමික ගැටලුව සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා කොළඹ ආරක්ෂක අමාත්‍යංශයේදී ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් පැවැති රැස්වීමකට  දයාසිරි ජයසේකර සහ ගාමිණී වලේබොඩ  යන මන්ත්‍රීවරුන් ඊයේ (07දා) කැඳවා තිබිණි.
+
+රුසියාවේ සහ යුක්‍රේනයේ කඳවුරු වල සේවය කිරීමට බව පවසමින් පුවත්පත් වල දැන්වීම් පළ කර රුපියල් ලක්ෂ දහ අට බැගින් ලබාගෙන ඇති බවත්, මෙම ශ්‍රී ලාංකික පිරිස එම රටවලට යවා ඇති බවත දයාසිරි ජයසේකර මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/acfb8131.json)
+
+---
+
+### Patients and doctors fleeing Rafa's hospital!- Life risk of 200 patients with kidney damage
+
+*2024-05-08 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/182947) · `ta`
+
+Patients and doctors flee Rafa's hospital in Gaza, fearing conflict. The hospital, Abuzuwal Nazar, is crucial for kidney patients. Closure risks 200 lives.
+
+🟩
+
+Doctors and patients flee from Rafa's main hospital, according to Reuters.
+
+Due to fear, patients and doctors flee the patients.
+
+Abuzuwal Nazar Hospital is found in the south of Gaza, which Israel declared as the conflict area.
+
+Dr. Marwan al -Hams Reuters told Patients and Doctors Leaving the hospital as the hospital is infected with the center of the conflict.
+
+World Health Organization spokesman Markrat Haris said that if the hospital closed, there would be a risk of 200 kidney patients.
+
+He said that the hospital kept the victims alive as the kidney was lost.
+
+◼️
+
 [Data](articles/bb70b323.json)
+
+[Extended Data](ext_articles/bb70b323.ext.json)
 
 ---
 
@@ -126,13 +194,13 @@ Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for
 
 The Supreme Court on Wednesday (May 08) declared that State Minister Diana Gamage is not legally qualified to hold a parliamentary seat.
 
+Accordingly, delivering its verdict today, the three-judge Supreme Court bench decided that State Minister Diana Gamage is not eligible to hold the position of Member of Parliament.
+
 The court had concluded the hearing of an appeal filed challenging the Appeals Court’s dismissal of a petition against State Minister Diana Gamage’s parliamentary membership. Upon concluding the proceedings on February 13, the judge bench decided to defer its verdict indefinitely.
 
 Social activist Oshala Herath had put forward the appeals two weeks after the petition he had filed against the State Minister’s parliamentary seat and citizenship was dismissed by the Appeals Court.
 
-Naming Gamage and several others as the respondents of his appeal, Herath said he had previously filed a petition alleging that the lawmaker is unqualified to hold the position of a member of parliament in Sri Lanka, as she also holds dual citizenship.
-
-◼️
+...
 
 [Data](articles/952aa21c.json)
 
@@ -189,6 +257,26 @@ Last year, Sri Lanka had repaid US $ 2.5 billion loan to parties, including mult
 [Data](articles/527f822e.json)
 
 [Extended Data](ext_articles/527f822e.ext.json)
+
+---
+
+### අභිරහස් අයුරින් මිය ගිය එක්දරු මවකගේ සිරුරක් සෝයාගනී
+
+*2024-05-08 10:38:04* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-අයුරින්-මිය-ගිය-එක්දරු-මවකගේ-සිරුරක්-සෝයාගනී/11-409490) · `si`
+
+ඌරගස්මංහන්දිය  කළුවලගොඩ,පදේශයේ නිවසේ කාමරය තුල ඇද මත තිබියදී ඉතා අභිරහස් අයුරින් මිය ගිය එක්දරු මවකගේ සිරුරක් ඊයේ (07)  රාත්‍රිෙය්දී  සොයා ගත් බව ඌරගස්මංහන්දිය පොලීසිය කියයි.
+
+මෙසේ සොයා ගනු ලැබූවේ ඌරගස්මංහන්දිය  කළුවලගොඩ ගාම සේවා වසමේ අංක 288/A,  ලිපිනයේ පදිංචි මුදලිගේ දෝන දිල්කා නිරෝෂණී ජයවීර  නමැති පනස් හැවිරිදි මවකගේ බවද පොලීසිය කියයි.
+
+සොයා ගැනුනු මේ කානතා මළ සිරුරේ  ඇති ලක්ෂණ අනුව  මෙම කාන්තාව දැනට දින තුනකට පමණ ඉහතදී මියගොස් ඇති බවට නිරීක්ෂණය වන බවද පොලීසිය කියයි.
+
+පසුගිය 03 වන දින මියගොස් සිටින තැනැත්තියගේ පුතා සහ ස්වාමි පුරුෂයා  යන දෙදෙනා අතර ආරවුලක් ඇතිවී  මොවුන් දෙදෙනා නිවසින් පිටව ගොස් ඇති බවට දැනගැනීමට තිබෙන බවද පොලීසිය කියයි.
+
+මේ  සම්බන්ධ වැඩිදුර විමර්ශන කටයුතු  ඌරගස්මංහන්දිය පොලිස් ස්ථානය  සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/1fe2d940.json)
 
 ---
 
@@ -464,6 +552,32 @@ He also stated that as members of the Armed Forces of Sri Lanka, “we are bound
 
 ---
 
+### Sri Lanka rupee opens stronger at 298.40/60 to US dollar
+
+*2024-05-08 09:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-40-60-to-us-dollar-162019/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.40/60 to the US dollar on Tuesday from 299.40/70 the previous day, dealers said.
+
+The rupee is not seen to be volatile in the future based on data available at the moment, Central Bank Governor Nandalal Weerasinghe has said.
+
+“When we look at foreign incomes and payments due in the future I do not see the exchange rate will move up and down a lot,” Governor Weerasinghe told reporters Tuesday, speaking in Sinhalese.
+
+Sri Lanka rupee not seen to be volatile in future: CB Governor
+
+A bond maturing on 15.12.2026 was quoted down at 10.62/65 percent from 10.65/75 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.00/05 percent down from 11.05/15 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.35/45 percent down from 11.40/55 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.25 percent at 12,406, and the S&P SL20 was up 0.26 percent at 3,650. (Colombo/May08/2024)
+
+◼️
+
+[Data](articles/3ec1b3e7.json)
+
+---
+
 ### The budget party leaders call to Colombo
 
 *2024-05-08 09:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-முக்கியஸ்தர்கள்-கொழும்புக்கு-அழைப்பு/175-336938) · `ta`
@@ -597,6 +711,28 @@ Parliamentary Council commences.
 [Data](articles/cbb13f2f.json)
 
 [Extended Data](ext_articles/cbb13f2f.ext.json)
+
+---
+
+### Sri Lanka rupee not seen to be volatile in future: CB Governor
+
+*2024-05-08 09:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-not-seen-to-be-volatile-in-future-cb-governor-162006/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee is not seen to be volatile in the future based on data available at the moment, Central Bank Governor Nandalal Weerasinghe said.
+
+“When we look at foreign incomes and payments due in the future I do not see the exchange rate will move up and down a lot,” Governor Weerasinghe told reporters Tuesday, speaking in Sinhalese.
+
+“Even if there is volatility, our policy to allow the market to work, and if there too much volatility we have the ability to intervene.”
+
+The central bank now had 5.4 billion US dollars to intervene but the central bank allows the market to determine the rates based on requirements, he said.
+
+Related Sri Lanka gross foreign reserves rise to 3.5 year high in April
+
+“I do not think there will be huge volatility, based on the data that is available at the moment,” Governor Weerasinghe said.
+
+...
+
+[Data](articles/82dd7863.json)
 
 ---
 
@@ -834,6 +970,24 @@ A Memorandum of Understanding (MoU) has signed a program to work together to wor
 
 ---
 
+### Sri Lanka gets $100mn for eco-friendly export farming with solar pumps
+
+*2024-05-08 06:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-100mn-for-eco-friendly-export-farming-with-solar-pumps-161930/) · `en`
+
+ECONOMYNEXT – Sri Lanka will receive an investment of 100 million dollars to modernize agricultural practices in next 20 years for sustainable farming and exports, officials said.
+
+The Climate change office of Sri Lanka under President Ranil Wickremesinghe’s office, the Climate Vulnerable Forum (CVF) and Nativa Capital of Portugal signed the 100 million dollar deal Tuesday to work together on a farming and forest protection project in Sri Lanka’s Northcentral district of Anuradhapura.
+
+Each of 15,000 farming family will receive 6,000 dollars throughout the project period on a concessional loan to grow watermelon, red chilies and tomato in the first stage solar pumps and other energy projects for sustainable agriculture.
+
+The investment company Nativa will also facilitate market procurement related to these crops with an aim to export and establishments of factories in Sri Lanka in the future.
+
+...
+
+[Data](articles/2ff801f3.json)
+
+---
+
 ### Increase in showers in the next few days
 
 *2024-05-08 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196385) · `si`
@@ -906,6 +1060,26 @@ Sri Lanka won the match wins by 68 runs.
 
 ---
 
+### Sri Lanka gross foreign reserves rise to 3.5 year high in April
+
+*2024-05-08 06:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-gross-foreign-reserves-rise-to-3-5-year-high-in-april-161947/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross official reserves rose by 478 million US dollars in April 2024 to 5,438 million US dollars, official data shows, as the central bank continued broadly deflationary policy.
+
+Deflationary policy (net sell downs of central bank-held domestic securities) at a market-appropriate interest rate allows a balance of payments surplus to develop.
+
+The rupee sharply appreciated in March and early April, leading to importer bill delays and heavy reserve collections.
+
+Some pressure came in the latter half of the month largely due to oversold position and the central bank used moral suasion and some dollar sales to keep the exchange rate stable.
+
+Sri Lanka’s private credit is still weak, allowing reserves to be collected and the external sector to be kept stable easily.
+
+...
+
+[Data](articles/9286a78c.json)
+
+---
+
 ### Sri Lanka to overhaul visa issuance process
 
 *2024-05-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-overhaul-visa-issuance-process/155-282137) · `en`
@@ -927,6 +1101,24 @@ However, VFS Global handles the e-Visa documentation process, with final approva
 [Data](articles/caafd6cd.json)
 
 [Extended Data](ext_articles/caafd6cd.ext.json)
+
+---
+
+### TISL challenges Sri Lanka’s anti-graft chief’s appointment in Supreme Court
+
+*2024-05-08 06:08:00* · [`economynextcom`](https://economynext.com/tisl-challenges-sri-lankas-anti-graft-chiefs-appointment-in-supreme-court-161937/) · `en`
+
+ECONOMYNEXT – The Transparency International Sri Lanka (TISL) has filed a Fundamental Rights petition in the Supreme Court, challenging the appointment of Kanishka Wijeratne as the new Director General of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) under a new Anti-Corruption Act that has given wide powers for the anti-graft body.
+
+President Ranil Wickremesinghe appointed High Court Judge Wijerathne as the Director General of the CIABOC last month under the new act.
+
+Wijerathne has functioned in the same role before, but this new appointment is under the new Act which was passed in the parliament in September last year.
+
+“TISL’s petition contends that Mr. Wijeratne’s appointment violates provisions of the Anti-Corruption Act, lacks procedural integrity and transparency,” the TISL said in a statement.
+
+...
+
+[Data](articles/3f07bc1f.json)
 
 ---
 
@@ -2013,227 +2205,5 @@ The controversy stems from a complaint alleging that a student did not receive i
 [Data](articles/caacb2b4.json)
 
 [Extended Data](ext_articles/caacb2b4.ext.json)
-
----
-
-### SLMC members in the dark over ERPM students’ appeal
-
-*2024-05-07 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLMC-members-in-the-dark-over-ERPM-students-appeal/108-282112) · `en`
-
-Colombo, May 07 (Daily Mirror) -  The decision to annul the Surgery Long and Short Cases components of the ERPM Part B Examination, conducted at the Examinations Centre of the Eastern University in Batticaloa, has ignited a storm of controversy as the members of the Sri Lanka Medical Council (SLMC) have not been informed of the appeal sent by the group of affected students.
-
-In a letter addressed to the Registrar of the SLMC dated May 1, 2024, candidates expressed their grievances over the annulment of the examination and the subsequent scheduling of a re-examination in May.
-
-However, a council member told Daily Mirror that majority of Council members have not been informed of such a letter and thus, requested the SLMC chairman to convene an emergency council meeting to discuss the matter.
-
-The controversy stems from a complaint alleging that a student did not receive interpreter support during the examination.
-
-...
-
-[Data](articles/d9693006.json)
-
-[Extended Data](ext_articles/d9693006.ext.json)
-
----
-
-### Sri Lanka central bank rings alarm bell over changing current IMF-agreed economic policies
-
-*2024-05-07 21:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-rings-alarm-bell-over-changing-current-imf-agreed-economic-policies-161920/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Central Bank Governor Nandalal Weerasinghe warned the public that the country could go back to the 2022 crisis if any future government changes the current International Monetary Fund (IMF) subscribed economic policies and reforms.
-
-Weerasinghe said there is hardly any space for economic policy maneuvering under the current situation, but there could be a few adjustments without changing the overall goals, which President Ranil Wickremesinghe government had agreed with the IMF.
-
-Sri Lanka is in a recovery path after it entered into an IMF deal with some difficult reforms including higher taxes, steep cut in expenditure on government institutions, drastic reforms in state-owned enterprises, and stable inflation-targeted monetary policy.
-
-“We need to continue the same process going forward and if there is a deviation, that would be a challenge. That’s the important message we want to give,” Weerasinghe told reporters at a media briefing in Colombo on Tuesday.
-
-...
-
-[Data](articles/fbdd90ba.json)
-
-[Extended Data](ext_articles/fbdd90ba.ext.json)
-
----
-
-### The wake of getting married to the marriage
-
-*2024-05-07 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196382) · `si`
-
-A young couple, influenced by their fathers, faced issues in their marriage. They moved to Dubai but returned to live with the bride's family. The CID and two officers were involved in a case where they threatened the family. The suspects were found at a hotel and handed over to the police. The suspect was released on bail.
-
-🟩
-
-She was strictly influenced by her father to the family of her father who was married in the face of their parents.
-
-After marriage, they were alive at the youth of the young man at the Pannipitiya Vamarana.
-
-They were unable to cope with the two and left for Dubai.
-
-They say, the father of the girl who had come to the country had influenced them.
-
-The young couple returned to the island and lived in the house of the heara.
-
-They say that three persons have come to call the house of the CID to the youth of the Pannipitiya on the 29th of this afternoon.
-
-They have tested the mother of the house, the mobile phone in the house, threatening the mother and sent some photos of the young man to their phones.
-
-The number of people 'father was called on a complaint.
-
-The three of them were found at a hotel in Talawatugoda, which is later called the father of the daughter's father.
-
-...
-
-[Data](articles/b0ee5d3f.json)
-
-[Extended Data](ext_articles/b0ee5d3f.ext.json)
-
----
-
-### Ven. Bengamuwe Nalaka Thera warns MPs on same-sex marriage vote
-
-*2024-05-07 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Bengamuwe-Nalaka-Thera-warns-MPs-on-same-sex-marriage-vote/108-282104) · `en`
-
-Colombo, May 7 (Daily Mirror) - Venerable Bengamuwe Nalaka Thera cautioned parliamentarians against returning to their villages to seek votes if they support the same-sex marriage bill in parliament.
-
-He urged them to refrain from political engagement if they vote for the bill and emphasized that Sinhala Buddhist national organizations, including the All Ceylon Buddhist Congress, will oppose its legalization.
-
-Addressing the media, the Thera told the MPs not to visit them to receive blessings for their election campaigns.
-
-"This bill must not be pass in parliament. If, by any chance it does, it will severely impact Sri Lankan culture and the family structure of the country. Once enacted, legalizing same-sex marriages will lead to acceptance, and legal repercussions will be taken against those who oppose them and their actions," the Thera said.
-
-...
-
-[Data](articles/fbb8ae5f.json)
-
-[Extended Data](ext_articles/fbb8ae5f.ext.json)
-
----
-
-### New legislation to protect women from discrimination based on sexual orientation
-
-*2024-05-07 21:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-legislation-to-protect-women-from-discrimination-based-on-sexual-orientation/108-282108) · `en`
-
-Sri Lanka is moving towards protecting women from discrimination based on sexual orientation.
-
-This was confirmed by the Women’s Empowerment Bill which was presented to Parliament. One of the objectives of the legislation which has been already gazetted is to protect women from all forms of discrimination based on gender and sexual orientation.
-
-The legislation further seeks to take steps to prevent discrimination, marginalization, sexual harassment and violence against women.
-
-It also seeks to promote realization of, and ensure equality and justice of women and to take measures to ensure as far as possible women’s participation in all measures and mechanisms connected with administration of justice and equal representation of women in decision making structures and positions at every level within the government.
-
-...
-
-[Data](articles/4a7e72ac.json)
-
-[Extended Data](ext_articles/4a7e72ac.ext.json)
-
----
-
-### Fire at a factory in Ekala
-
-*2024-05-07 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/182925) · `ta`
-
-A fire at a factory in Ekala Pradesh on Tuesday afternoon was extinguished by 3 fire trucks, with no casualties but damage to the factory's possessions. The cause is under investigation.
-
-🟩
-
-A fire broke out at a factory in Ekala Pradesh on Tuesday afternoon.
-
-The fire broke out at around 7 pm on Tuesday (7), police said.
-
-Police said that the fire has been completely controlled by 3 fire trucks.
-
-There was no casualties in the fire but the factory's possessions were damaged.
-
-However, the cause of the fire has not yet been released and further investigations are being carried out by the Jala police.
-
-◼️
-
-[Data](articles/aeef5e9b.json)
-
-[Extended Data](ext_articles/aeef5e9b.ext.json)
-
----
-
-### Establishment of the National Teachers’ Council
-
-*2024-05-07 21:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99070/establishment-of-the-national-teachers-council) · `en`
-
-Sri Lanka’s Cabinet of Ministers has approved the combined proposal presented by the President and the Minister of Education to instruct the Legal Draftsman to prepare a bill for the establishment of a National Teachers’ Council.
-
-The government said this initiative aligns with the National Education Policy Framework, aiming to enhance the professionalism and quality of teachers through continuous professional development, following international best practices.
-
-A preliminary draft has been prepared after extensive discussions with relevant stakeholders in the education sector, the statement said.
-
-◼️
-
-[Data](articles/b4bc8e6d.json)
-
-[Extended Data](ext_articles/b4bc8e6d.ext.json)
-
----
-
-### Exclude Health Ministry from drug procurement to curb corruption: GMOF urges government
-
-*2024-05-07 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclude-Health-Ministry-from-drug-procurement-to-curb-corruption-GMOF-urges-government/108-282103) · `en`
-
-Colombo, May 7 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) urged the government to refrain from including the Health Ministry in centralized drug procurement to reduce corruption.
-
-GMOF president Dr. Rukshan Bellana told the Daily Mirror that the existing problem of medicine shortages in the health sector fluctuates between availability. Alongside shortages, the quality of existing medicine stocks is often substandard.
-
-Corruption and centralized drug procurement are identified as the root causes of these issues, he said.
-
-...
-
-[Data](articles/0f11e45c.json)
-
-[Extended Data](ext_articles/0f11e45c.ext.json)
-
----
-
-### Exclude Health Ministry from drug procurement: GMOF to government
-
-*2024-05-07 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exclude-Health-Ministry-from-drug-procurement-GMOF-to-government/108-282103) · `en`
-
-Colombo, May 7 (Daily Mirror) - The Government Medical Officers' Forum (GMOF) urged the government to refrain from including the Health Ministry in centralized drug procurement to reduce corruption.
-
-GMOF president Dr. Rukshan Bellana told the Daily Mirror that the existing problem of medicine shortages in the health sector fluctuates between availability. Alongside shortages, the quality of existing medicine stocks is often substandard.
-
-Corruption and centralized drug procurement are identified as the root causes of these issues, he said.
-
-...
-
-[Data](articles/49670b72.json)
-
-[Extended Data](ext_articles/49670b72.ext.json)
-
----
-
-### Action to recruit 3000 nurses - Minister Ramesh Pathirana
-
-*2024-05-07 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/182924) · `ta`
-
-Minister Ramesh Pathirana initiated recruitment of 3000 nurses to fill vacancies in government hospitals, targeting students in Mathematics and Biology from 2019 and 2020. Currently, 3100 are enrolled, with 3863 on the waiting list. Despite 45,000 nurses in the country, there's a vacuum for about 1000.
-
-🟩
-
-Minister of Health and Industry Ramesh Pathirana said that steps have been initiated to recruit 3000 nurses to fill the vacancies in government hospitals.
-
-The minister said this while responding to a question raised by opposition leader Sajith Premadasa in Parliament on Tuesday (7).
-
-Students who have appeared in the subjects of Mathematics and Biology in the 2019 and 2020 Education Public Standards will be enrolled in the Nurses Service.. The gazette notification was released on September 15 last year.
-
-At present 3100 people have been incorporated for it. He said that 3863 people were found in the waiting list to incorporate the service.
-
-As well as 45,000 nurses in the country. There is currently a vacuum for about 1000 people. We will take steps to fill those blanks soon.
-
-According to the opposition leader, 45 thousand vacancies are not found, 45 thousand people are currently in service.
-
-◼️
-
-[Data](articles/02acfde1.json)
-
-[Extended Data](ext_articles/02acfde1.ext.json)
 
 ---

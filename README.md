@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 09:03:55**
+As of **2024-05-08 09:18:18**
 
 ## Newspaper Stats
 
-*Scraped **22,651** Articles*
+*Scraped **22,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ tamilmirrorlk | 2,641
 adaderanalk | 2,656
 virakesarilk | 3,386
 dailymirrorlk | 3,554
-adaderanasinhalalk | 3,625
+adaderanasinhalalk | 3,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,650 (100.0%) of 22,651 articles have been extended.
+22,651 (100.0%) of 22,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### இன்று பல பகுதிகளில் மழை பெய்யும்
+### විශ්වවිද්‍යාල විධායක නිලධාරී වර්ජනය ගැන තීරණයක්
+
+*2024-05-08 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196389) · `si`
+
+තම ගැටලු සඳහා ස්ථිර විසඳුමක් අද (08) පැවැත්වෙන සාකච්ඡා මඟින් නොලැබුණහොත් දැනට සිදුකරන වෘත්තීය සමිති ක්‍රියාමාර්ග තව දුරටත් තීව්‍ර කිරීමට සිදුවන බව විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමය පවසයි.
+
+වැටුප් කප්පාදුව පිළිබඳව ගැටලුවක් මුල්කර ගනිමින් පසුගිය 03වන දා සිට විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමය වෘත්තීය ක්‍රියාමාර්ගයක නිරත වේ.
+
+මේ ඒ සම්බන්ධයෙන් අදහස් දක්වමින් විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමයේ අනුශාසක කොළඹ විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ ලේකකාධීකාරී සම්පත් උදයංග මහතා පවසා සිටියේ, අද පැවැත්වෙන සාකච්ඡාවේ දී වැටුප් කප්පාදුව පිළිබඳව කැබිනට් පත්‍රිකාව සාකච්ඡා කර ඉදිරියේ දී එයට විසඳුමක් ලබාදෙනු ඇතැයි අපේක්ෂා කරන බවය.
+
+අද දිනයේ දී මෙම වැඩවර්ජනයට සමගාමීව උද්ඝෝෂණයක් ද පැවැත්වීමට නියමිත බව ද ඒ මහතා පැවසීය.
+
+මේ අතර අනධ්‍යන කාර්ය මණ්ඩලය ආරම්භ කළ වර්ජනය අද හත්වන දිනටත් ක්‍රියාත්මක බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනයේ සම ලේකම් කේ. එල්. ඩී රිච්මන් මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5ecf9627.json)
+
+---
+
+### It is raining in many areas today
 
 *2024-05-08 08:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-பகுதிகளில்-மழை-பெய்யும்/175-336935) · `ta`
 
-இன்று (08) முதல் அடுத்த சில தினங்களுக்கு நாட்டின் பெரும்பாலான பகுதிகளில் மழையுடனான வானிலை அதிகரிக்கக்கூடும்.
+Rain and heavy snow expected in many areas, with over 75mm rainfall in some regions. Snowfall in Central and Sabaragamuwa Provinces. Advised to take precautions against heavy winds and lightning.
 
-அதன்படி, மேல், சபரகமுவ, மத்திய மாகாணங்களிலும் மன்னார், வவுனியா, முல்லைத்தீவு, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று பிற்பகல் 2 மணிக்குப் பின்னர் மழை பெய்யக்கூடும் என அந்த திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அத்துடன் மத்திய, சபரகமுவ, வடமத்திய மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் ஓரளவு பலத்த மழை பெய்யக்கூடும்.
+The rainy weather is likely to increase in most parts of the country for the next few days from today (08).
 
-குறித்த பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிகளவிலான மழை வீழ்ச்சி எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+According to the department, the department said that rainfall is expected in Mannar, Vavuniya, Mullaitivu, Galle and Matara districts at 2 pm today.
 
-அத்துடன் மத்திய, சபரகமுவ மாகாணங்களின் சில இடங்களில் இன்று காலை வேளையில் பனிமூட்டமான நிலை காணப்படும்.
+Heavy rains are expected in some parts of the Central, Sabaragamuwa, North Central and Uva provinces.
 
-இடியுடன் கூடிய மழை பெய்யும் சந்தர்ப்பங்களில் பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய அபாயங்களைக் குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களை அறிவுறுத்தியுள்ளது. R
+The Department of Meteorology said that more than 75 millimeters of rainfall is expected in the area.
+
+In some parts of the Central and Sabaragamuwa Provinces, there is a snowfall this morning.
+
+The Department of Meteorology has advised the public to take necessary steps to reduce the risks caused by heavy winds and lightning cases in cases of thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/7eb37886.json)
+
+[Extended Data](ext_articles/7eb37886.ext.json)
 
 ---
 
@@ -2211,29 +2237,5 @@ However, Nauzer Fowzie was subsequently released on police bail pending further 
 [Data](articles/b9ec6892.json)
 
 [Extended Data](ext_articles/b9ec6892.ext.json)
-
----
-
-### The Central Bank can be summoned to the Cobb and the Finance Committee on the activities of the Central Bank - Susil Prema Jayantha
-
-*2024-05-07 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/182917) · `ta`
-
-Susil Prema Jayantha, the Chief Minister and Minister, mentioned that the Central Bank's Finance Committee and the COPE Committee can be summoned by officials. He responded to Opposition MPs' questions in Parliament, stating the Central Bank and the Government are unrelated to the coalition of Professor Herath MP. Lakshman Kiriella MP criticized the Central Bank for a 70% salary increase, questioning fairness. Wimal Weerawansa MP argued the Central Bank is not a government agency, suggesting the government should focus on its independence.
-
-🟩
-
-Council Chief Minister and Minister Susil Prema Jayantha said that the Central Bank's Finance Committee and the COPE Committee can be summoned by the officials.
-
-The Minister said this while responding to questions raised by the Opposition MPs in Parliament on Tuesday (7).
-
-The Bank is acting in the position that the Central Bank and the Government have nothing to do with the coalition of Professor Herath MP in Parliament on Tuesday (07).. He also called for the officials to be summoned to parliament.
-
-Lakshman Kiriella MP, the Prime Minister of the Opposition, commented on the issue, according to the new report, the Central Bank has recovered a thousand million rupees last year.. However, the central bank officials are carrying out a 70 percent salary increase through their activities. In what way is this fair?said.
-
-...
-
-[Data](articles/f68c7e0b.json)
-
-[Extended Data](ext_articles/f68c7e0b.ext.json)
 
 ---

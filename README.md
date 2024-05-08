@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 11:03:09**
+As of **2024-05-08 11:18:15**
 
 ## Newspaper Stats
 
-*Scraped **22,679** Articles*
+*Scraped **22,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,75 @@ islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,322
 adalk | 1,909
-tamilmirrorlk | 2,651
+tamilmirrorlk | 2,652
 adaderanalk | 2,658
 virakesarilk | 3,386
 dailymirrorlk | 3,560
-adaderanasinhalalk | 3,631
+adaderanasinhalalk | 3,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,672 (100.0%) of 22,679 articles have been extended.
+22,679 (100.0%) of 22,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
+### ඔස්ට්‍රේලියාව ට යන්න ඉන්න සිසුන්ට තවත් බාධකයක්
+
+*2024-05-08 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196395) · `si`
+
+ඔස්ට්‍රේලියාවේ ඉගෙන ගැනීම සඳහා පැමිණෙන ජාත්‍යන්තර සිසුන් සිය වීසා ලබාගැනීමට ඔවුන් සතුව තිබිය යුතු "ඉතුරුම් මුදල" නැවතත් වැඩි කිරීමට එරට බලධාරීන් කටයුතු කර තිබේ.
+
+එසේම ඉතුරුම් ගිණුම් සම්බන්ධයෙන් ව්‍යාජ තොරතුරු ලබාදී ඇති බවට හෙළිදරව් වුවහොත් දැඩි පියවර ගන්නා බවද ඔවුන් පවසයි.
+
+ජාත්‍යන්තර මාධ්‍ය පවසන්නේ ඔස්ට්‍රේලියාව මෙම තීරණය ගෙන ඇත්තේ එරටට පැමිණෙන සංක්‍රමණයිකයින් සංඛ්‍යාව අඩු කිරීමට බවය.
+
+ඒ අනුව මෙම සිකුරාදා (10) සිට ජාත්‍යන්තර සිසුවෙක් ඔස්ට්‍රේලියානු වීසා සඳහා අයදුම් කිරීමට සිය ඉතුරුම් ගිණුමේ ඔස්ට්‍රේලියානු ඩොලර් 29,710 ($19,576)ක් ඇති බවට තහවුරු කළ යුතුය.
+
+පසුගිය ඔක්තෝබර් මාසයේදී එම මුදල ඔස්ට්‍රේලියානු ඩොලර් 21,041 සිට 24,505ක් දක්වා ඉහළ දැමීය.
+
+2022/23 වසරේදී ඒ ඔස්සේ ඔවුන් ලැබූ ආදායම ඔස්ට්‍රේලියානු ඩොලර් බිලියන 36.4කි.
+
+◼️
+
+[Data](articles/394dbec4.json)
+
+---
+
+### டயானாவின் எம்.பி பதவி இரத்து
+
+*2024-05-08 11:01:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவின்-எம்-பி-பதவி-இரத்து/175-336948) · `ta`
+
+இராஜாங்க அமைச்சர் டயானா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவிக்கு எதிராக தாக்கல் செய்யப்பட்ட மேன்முறையீட்டு மனு மீதான தீர்ப்பு உயர் நீதிமன்றத்தால் சற்றுமுன்னர் வழங்கப்பட்டது.
+
+இராஜாங்க அமைச்சர் டயானா கமகேவின் பாராளுமன்ற ஆசனத்தின் சட்டபூர்வமான தன்மையை சவாலுக்கு உட்படுத்தும் ரிட் மனுவை நிராகரித்த மேன்முறையீட்டு நீதிமன்றத்தின் தீர்ப்பை எதிர்த்து சமூக ஆர்வலர் ஓஷல ஹேரத்   மேன்முறையீட்டு மனுவை தாக்கல் செய்தார்.
+
+◼️
+
+[Data](articles/bf664818.json)
+
+---
+
 ### Supreme Court rules Diana Gamage ineligible for parliamentary seat
 
 *2024-05-08 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-Diana-Gamage-ineligible-for-parliamentary-seat/108-282150) · `en`
 
-The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+Colombo, May 08 - The Supreme Court in another landmark judgment today held that State Minister Diana Gamage is disqualified to be a Member of Parliament and is thus not entitled to hold office as a Member of Parliament, as she was not a citizen of Sri Lanka.
+
+With this Supreme Court judgment, Diana Gamage’s disqualification will lead to the loss of her parliamentary seat.
+
+The Supreme Court three-judge-bench comprised  Justices Gamini Amarasekara, Kumuduni Wickremasinghe and Janak de Silva.
+
+Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for Petitioner Oshala Herath.
 
 ◼️
 
 [Data](articles/77851ed5.json)
+
+[Extended Data](ext_articles/77851ed5.ext.json)
 
 ---
 
@@ -60,43 +104,59 @@ Naming Gamage and several others as the respondents of his appeal, Herath said h
 
 [Data](articles/952aa21c.json)
 
+[Extended Data](ext_articles/952aa21c.ext.json)
+
 ---
 
-### ඩයනා ට මන්ත්‍රී ධුරය අහිමිවෙයි
+### Diana loses a Member of Parliament
 
 *2024-05-08 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196394) · `si`
 
-රාජ්‍ය ඇමතිනී ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය අද (08) තීන්දු කළේය.
+The Supreme Court ruled that Diana Gamage, a British citizen, is not eligible to serve in Sri Lanka's Parliament, following appeals by social activist Oshala Herath.
 
-සමාජ ක්‍රියාකාරිකයකු වන ඔෂල හේරත් මහතා විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් විභාග කිරීමෙන් අනතුරුව ශ්‍රේෂ්ඨාධිකරණය මෙම තීන්දුව ප්‍රකාශයට පත් කෙරිණි.
+🟩
 
-ඩයනා ගමගේ මහත්මිය බ්‍රිතාන්‍ය පුරවැසිභාවය හිමි තැනැත්තියක් බැවින් ඇයට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට  නීත්‍යානුකූල සුදුසුකම් නොමැති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+The Supreme Court today decided that Mrs. State Minister Diana Gamage is not a legitimate qualification in Parliament.
+
+The Supreme Court was announced after hearing a appet of appeals by Mr. Oshala Herath, a social activist and hearing.
+
+Since Ms. Diana Gamage is a British citizenship, this petition had been submitted to give a ruling that she was not legally eligible to sit in the Parliament of Sri Lanka.
 
 ◼️
 
 [Data](articles/c0b979ef.json)
 
+[Extended Data](ext_articles/c0b979ef.ext.json)
+
 ---
 
-### ”ரூபாவின் பெறுமதி எதிர்காலத்தில் நிலையற்று காணப்படாது”
+### "The value of the rupee will not be unstable in the future"
 
 *2024-05-08 10:39:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூபாவின்-பெறுமதி-எதிர்காலத்தில்-நிலையற்று-காணப்படாது/175-336944) · `ta`
 
-தற்போது கிடைக்கப்பெறும் தரவுகளின் அடிப்படையில் இலங்கையின் ரூபாவின் பெறுமதியானது எதிர்காலத்தில் நிலையற்றதாக காணப்படாது என மத்திய வங்கியின் ஆளுநர் நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+Central Bank Governor Nandalal Weerasinghe predicts stable rupee value, citing foreign returns and market intervention capabilities. Despite a $5.4 billion central bank, rates are market-determined. Sri Lanka expects debt restructuring to boost new projects, repaying $2.5 billion last year.
 
-"எதிர்காலத்தில் வரவேண்டிய வெளிநாட்டு வருமானங்கள் மற்றும் கொடுப்பனவுகளைப் பார்க்கும்போது, ​​நாணய மாற்று வீதம் கீழிறங்கும் என்று நான் பார்க்கவில்லை" என்று ஆளுநர் வீரசிங்க செவ்வாய்கிழமை ஊடகவியலாளர்களிடம் பேசுகையில் கூறினார்.
+🟩
 
-"நிலைமாற்றம் இருந்தாலும், எங்கள் கொள்கை சந்தை செயல்பட அனுமதிக்கும், மற்றும் அதிக ஏற்ற இறக்கம் இருந்தால் தலையிடும் திறனும் எங்களிடம் உள்ளது."
+Central Bank Governor Nandalal Weerasinghe says the value of Sri Lanka's rupee will not be unstable in the future based on the available data.
 
-மத்திய வங்கி இப்போது 5.4 பில்லியன் அமெரிக்க டொலர்களைக் கொண்டுள்ளது, ஆனால் தேவைகளின் அடிப்படையில் விகிதங்களை தீர்மானிக்க மத்திய வங்கி சந்தையை அனுமதிக்கிறது, என்றார்.
+Governor Weerasinghe told the media on Tuesday that "I do not see the currency exchange rate when looking at the foreign returns and allowances that come in the future."
 
-தற்போது கிடைக்கப்பெறும் தரவுகளின் அடிப்படையில் பாரிய ஏற்றத்தாழ்வுகள் ஏற்படும் என நான் நினைக்கவில்லை என ஆளுநர் வீரசிங்க தெரிவித்தார்.
+"Despite the change, our policy will allow the market to operate, and we have the ability to interfere if there is too much fluctuation."
 
-கடன் மறுசீரமைப்பை முடிக்க இலங்கை எதிர்பார்க்கிறது, இது புதிய திட்டங்களை மீண்டும் தொடங்குவதற்கு வழிவகுக்கும் என்று அவர் கூறினார்.
+The central bank is now $ 5.4 billion, but the central bank allows the market to determine the rates based on requirements.
+
+Governor Weerasinghe said that I do not think that there will be massive inequalities based on the current available data.
+
+He said Sri Lanka expects to complete the debt restructuring, which would lead to the restoration of new projects.
+
+Last year, Sri Lanka had repaid US $ 2.5 billion loan to parties, including multi -level creditors.
 
 ...
 
 [Data](articles/527f822e.json)
+
+[Extended Data](ext_articles/527f822e.ext.json)
 
 ---
 
@@ -120,19 +180,27 @@ English language requirements for student visas were increased in March and the 
 
 ---
 
-### ”பொதுத் தேர்தலையே  முதலில் நடத்தனும் ”
+### “Conduct the general election first”
 
 *2024-05-08 10:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலையே-முதலில்-நடத்தனும்/175-336943) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பொதுத் தேர்தல் நடத்தப்பட வேண்டும் என்பதை தமது கட்சி இன்னும் நம்புவதாகவும் ஆனால் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு மாறுபட்ட நிலைப்பாடு இருப்பதாகவும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) ஸ்தாபகர் பசில் ராஜபக்ஷ நேற்று மீண்டும் வலியுறுத்தினார்.
+Basil Rajapaksa, SLPP founder, advocates for a general election before the presidential election, despite President Wickremesinghe's differing view. The SLPP supports holding the next parliamentary election in 2025, but the president can dissolve parliament for an early election. Rajapaksa advises MPs to prepare for any election, while SLPP MPs in government are expected to prioritize the presidential election.
 
-கட்சியின் பாராளுமன்றக் குழுவில் உரையாற்றிய பசில் முன்னதாக அவர் ஜனாதிபதியை சந்தித்து சமீபத்திய அரசியல் முன்னேற்றங்கள் குறித்து பேச்சுவார்த்தை நடத்தியதை நினைவூட்டினார்.
+🟩
 
-SLPP இன் கூற்றுப்படி, அரசியலமைப்பின் அடிப்படையில் இந்த ஆண்டு ஒக்டோபரில் திட்டமிடப்பட்ட ஜனாதிபதித் தேர்தலுக்கு முன்னதாக, பொதுத் தேர்தலை நடத்துவதற்கு உடன்பட்டு கணிசமானளவு எண்ணிக்கையிலான பாராளுமன்ற உறுப்பினர்கள் உள்ளனர். அடுத்த பாராளுமன்றத் தேர்தல் 2025ஆம் ஆண்டிலேயே நடைபெற உள்ளது. எவ்வாறாயினும், பாராளுமன்றத்தை முன்கூட்டியே கலைத்து, விரைவான தேர்தலை அறிவிப்பதற்கு ஜனாதிபதிக்கு அரசியலமைப்பு அதிகாரம் உள்ளது.
+The Sri Lanka PA (SLPP) founder Basil Rajapaksa yesterday reiterated that his party is still believing that the general election should be held before the presidential election but that President Ranil Wickremesinghe has a different position.
+
+Speaking to the party's parliamentary committee, Basil had earlier met with the president and recalled that he had negotiated the recent political advances.
+
+According to SLPP, there are a significant number of MPs in agreement with the constitutional elections before the scheduled presidential election in October this year.. The next parliamentary election is scheduled for 2025. However, the president has a constitutional authority to dissolve parliament in advance and announce a rapid election.
+
+Mr.. Rajapakse is said to have advised MPs to hold any election, no matter what election.. MPs are said to have been asked to start political work to prepare for any election.
 
 ...
 
 [Data](articles/0c96513e.json)
+
+[Extended Data](ext_articles/0c96513e.ext.json)
 
 ---
 
@@ -274,21 +342,29 @@ Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP me
 
 ---
 
-### லால்காந்தவின் கருத்தால் சபையில் குழப்பம்
+### Lalkanta's opinion is confusing in the congregation
 
 *2024-05-08 10:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லால்காந்தவின்-கருத்தால்-சபையில்-குழப்பம்/175-336942) · `ta`
 
-எதிர்கால  தேசிய மக்கள் சக்தி (NPP)  அரசாங்கம் கிராம மட்டத்தில் உள்ள தனது தொண்டர்களுக்கு நீதித்துறை அதிகாரங்களை பரவலாக்கும் என்று அண்மையில் நடைபெற்ற மே தினக் கூட்டத்தில்   கே.டி.லால்காந்த தெரிவித்த கருத்து பாராளுமன்றத்தில் பெரும் பரபரப்பை ஏற்படுத்தியது. ஆளும் கட்சி மற்றும் ஐக்கிய மக்கள் சக்தி (SJB) ஆகிய இரு கட்சிகளும் பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரியவுடன் சம்பவம் தொடர்பில் வாக்குவாதத்தில் ஈடுபட்டனர்.
+KD Lalkantha claimed future NPP would give judicial powers to volunteers at village level, sparking argument with Harini Amarasuriya. Lalkantha's speech was played by SJB MP Harshana Rajakaruna. Amarasuriya disputed Lalkantha's claim, while Justice Minister Vijayadasa Rajapakse mentioned a JVP member's intervention in 1989. MP Mahindananda Aluthgamage will be Justice Minister in future NPP government, highlighting Lalkantha's future actions.
 
-கிராம மட்டத்தில் உள்ள தனது கட்சி உறுப்பினர்களுக்கு நீதித்துறை அதிகாரத்தை வழங்குவதாக லால்காந்த உறுதியளித்ததாக இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க கூறியதையடுத்து இந்த வெடிப்பு ஏற்பட்டது.
+🟩
 
-லால்காந்தவின் உரை அடங்கிய ஒலிப்பதிவு SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷன ராஜகருணாவால் ஒலிக்கப்பட்டது.
+At a recent May Day meeting, KD Lalkantha said that the future National People's Power (NPP) government would spread judicial powers to its volunteers at the village level.. Both the ruling party and the United People's Power (SJB) parties were involved in an argument with parliamentarian Harini Amarasuriya.
 
-கிராம மட்டத்திலுள்ள NPP உறுப்பினர்களுக்கு நீதித்துறை அதிகாரங்கள் பகிர்ந்தளிக்கப்படும் என்று லால்காந்த ஒருபோதும் குறிப்பிடவில்லை என திருமதி அமரசூரிய கூறினார். "அனைத்து மக்களுக்கும் நீதி கிடைப்பதை மட்டுமே லால்காந்த உறுதி செய்தார்,” என்று அவர் கூறினார்.
+The explosion occurred following the claim that Lalkanta had promised Lalkanta to grant judicial authority to his party members at the village level.
+
+The soundtrack comprising Lalkanta's speech was sounded by SJB MP Harshana Rajakaruna.
+
+Mrs. Amarasuriya said Lalkantha never mentioned that the NPP members at the village level would be distributed to the judicial powers.. “Lalkanta only confirmed justice for all people,” he said.
+
+Responding to this, Justice Minister Vijayadasa Rajapakse recalled that a JVP member Sumanasena intervened and resolved the land issues in 1989.
 
 ...
 
 [Data](articles/79e5f954.json)
+
+[Extended Data](ext_articles/79e5f954.ext.json)
 
 ---
 
@@ -450,23 +526,29 @@ He also said that a demonstration will be held today in collaboration with the s
 
 ---
 
-### චමරිගේ ශතකයෙන් ලංකාවට ලෝක කුසලාන  සුදුසුකම් ලැබිමේ තරගාවලියේ ශූරතාව
+### Sri Lanka wins World Cup qualifying from Chamari's century
 
 *2024-05-08 09:38:27* · [`adalk`](https://www.ada.lk/sports/චමරිගේ-ශතකයෙන්-ලංකාවට-ලෝක-කුසලාන--සුදුසුකම්-ලැබිමේ-තරගාවලියේ-ශූරතාව/9-409489) · `si`
 
-බංග්ලාදේශයේදි ලබන ඔක්තෝබර් මස ආරම්භවිමට නියමිත කාන්තා විස්සයි20 ලෝක කුසලානය වෙනුවෙන් සුදුසුකම් ලබා ගැනිමට අදාළව ඩුබායිහි පැවැති සුදුසුකම් ලැබිමේ තරගාවලියේ ශූරතාව හිමිකර ගැනිමට ශ්‍රි ලංකා කාන්තා ක්‍රිකට් ක්‍රීඩිකාවෝ සමත්වූහ.
+Sri Lanka women's cricket team qualifies for the Women Twenty20 World Cup in Bangladesh, thanks to Chamari Atapattu's century. They beat Scotland by 68 runs, scoring 169/5 in 20 overs, with Chamari scoring 102 runs.
 
-ඒ ඊයේ පැවැති අවසන් මහ තරගයේදි ස්කොට්ලන්ත කණ්ඩායම ලකුණු 68කින් පරාජය කරමිනි.
+🟩
 
-තරගයේ මුලින්ම  පන්දුවට පහරදුන් ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම පන්දුවාර 20 තුළදි කඩුලු 5 කට ලකුණු 169ක් රැස්කළේය.
+Sri Lanka women's cricketers play the championship in Dubai to be eligible to qualify for the Women Twenty20 World Cup in Bangladesh.
 
-එහිදි නායක චමරි අතපත්තු විශිෂ්ඨ ඉනිමක් ක්‍රිඩා කරමින් පන්දු 63කදි ලකුණු 102ක් රැස්කිරිමට සමත්වූයේ හතරේ පහර 13ක් හා හයේ පහර 4ක් සමගිනි. ඒ අනුව ඇය තරගයේ විරවරිය ලෙසද සම්මාන ලැබුවාය.
+The Scotland team by 68 runs in the final
 
-පිළිතුරු ඉනිම ක්‍රිඩා කළ ස්කොට්ලන්ත කණ්ඩායම පන්දුවාර 20දි කඩුලු 7ට ලකුණු 101ක් රැස් කළේය.
+Batting first Sri Lanka women's cricket team scored 169 runs for the loss of 5 wickets in 20 overs.
+
+Leader Chamari Atapattu scored 102 runs in 63 balls with 10 fours and four sixes. Accordingly, she was also awarded the competition.
+
+In reply, Scotland scored 101 runs for the 7 wickets.
 
 ◼️
 
 [Data](articles/a91ed18f.json)
+
+[Extended Data](ext_articles/a91ed18f.ext.json)
 
 ---
 
@@ -1534,6 +1616,8 @@ But, a controversial and unsolicited tender that awarded the monopoly of visa pr
 
 *2024-05-07 23:49:33* · [`dailyftlk`](https://www.ft.lk/business/Singapore-s-ICA-experts-to-visit-Sri-Lanka-to-study-immigration-operations/34-761521) · `en`
 
+lead Public Security Minister Tiran Alles - Pic by Lasantha Kumara
+
 Minister Alles says visiting team plans to spend a week, analysing existing systems and procedures
 
 Highlights Singapore’s renowned efficiency in airport operations, opines potential benefits of adopting best practices
@@ -1543,8 +1627,6 @@ Opines this as a first step towards gradual improvement in airport and immigrati
 Public Security Minister Tiran Alles on Monday announced that a delegation comprising five representatives from Singapore’s Immigration and Checkpoints Authority (ICA) is scheduled to visit Sri Lanka on 27 May to conduct a comprehensive study of the operations at Bandaranaike International Airport (BIA) and its immigration system.
 
 Speaking to journalists he revealed that he had made a request to the Government of Singapore six months ago, aiming to boost Sri Lanka’s airport and immigration operational efficiency.
-
-“The visiting team is expected to spend a week in the country, examining the existing systems and procedures,” he said.
 
 ...
 
@@ -2141,51 +2223,5 @@ His funeral will be held in the General Cemetery, Kalutara area.
 [Data](articles/b413496b.json)
 
 [Extended Data](ext_articles/b413496b.ext.json)
-
----
-
-### Indian High Commissioner to Sri Lanka
-
-*2024-05-07 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/182923) · `ta`
-
-Santosh Ja, new Indian High Commissioner to Sri Lanka, honored at dinner in Colombo.
-
-🟩
-
-Santosh Ja, who recently assumed office as Indian High Commissioner to Sri Lanka, was honored at a dinner party at the Tajzamudra Hotel in Colombo on Monday (6).
-
-◼️
-
-[Data](articles/51f7551a.json)
-
-[Extended Data](ext_articles/51f7551a.ext.json)
-
----
-
-### Russia's conspiracy to kill Ukraine president - two arrested
-
-*2024-05-07 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/182922) · `ta`
-
-Russia allegedly tried to assassinate Ukraine's President Jelensky. Two Ukrainian security officers were arrested for involvement. They were suspected to be Russian agents, aiming to identify potential kidnappers. The head of Ukraine's Army Investigation Unit was also targeted. One of the arrested had purchased unmanned aircraft and mines.
-
-🟩
-
-Ukraine has said that Russia's attempts to assassinate Ukraine President Woldemir Jelensky have thwarted.
-
-Two officers of the Ukrainian government's security division have been arrested on suspicion of involvement in the murder.
-
-Ukraine said they acted as part of the agents of the Russian security forces.
-
-Ukraine said that the two arrested were involved in an attempt to find out whether anyone who could kidnap and kill the Ukraine president was among his bodyguards.
-
-It is reported that the head of the Ukraine's Army Investigation Unit was also planned to kill the head of the Intelligence Unit.
-
-One of the arrested had already bought unmanned aircraft and mines.
-
-◼️
-
-[Data](articles/ee8cc62f.json)
-
-[Extended Data](ext_articles/ee8cc62f.ext.json)
 
 ---

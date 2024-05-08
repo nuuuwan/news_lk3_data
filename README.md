@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 09:18:18**
+As of **2024-05-08 09:33:23**
 
 ## Newspaper Stats
 
-*Scraped **22,652** Articles*
+*Scraped **22,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,62 @@ newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,296
 dailyftlk | 1,321
-adalk | 1,906
+adalk | 1,907
 tamilmirrorlk | 2,641
 adaderanalk | 2,656
 virakesarilk | 3,386
-dailymirrorlk | 3,554
+dailymirrorlk | 3,555
 adaderanasinhalalk | 3,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,651 (100.0%) of 22,652 articles have been extended.
+22,652 (100.0%) of 22,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### විශ්වවිද්‍යාල විධායක නිලධාරී වර්ජනය ගැන තීරණයක්
+### Athapaththu’s splendid hundred powers Sri Lanka to title win
+
+*2024-05-08 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Athapaththus-splendid-hundred-powers-Sri-Lanka-to-title-win/108-282141) · `en`
+
+ICC - Sri Lanka skipper Chamari Athapaththu hit a sensational hundred to set up a big win in the ICC Women’s T20 World Cup Qualifier final against Scotland.
+
+Sarah Bryce, standing in as skipper for her sister Kathryn Bryce who missed out due to a niggle, elected to bowl first after winning the toss in Abu Dhabi. Her decision was backed by her bowlers, with seamer Priyanaz Chatterji striking in the third over with the crucial wicket of Vishmi Gunaratne (9).
+
+Off-spinner Katherine Fraser then trapped Harshita Samarawickrama (8) before the end of the first Powerplay to give Scotland another success. Dynamic all-rounder Kavisha Dilhari came in at number four and tried to reconstruct the innings along with skipper Athapaththu.
+
+...
+
+[Data](articles/58e3408e.json)
+
+---
+
+### Decision regarding the strike of the University
 
 *2024-05-08 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196389) · `si`
 
-තම ගැටලු සඳහා ස්ථිර විසඳුමක් අද (08) පැවැත්වෙන සාකච්ඡා මඟින් නොලැබුණහොත් දැනට සිදුකරන වෘත්තීය සමිති ක්‍රියාමාර්ග තව දුරටත් තීව්‍ර කිරීමට සිදුවන බව විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමය පවසයි.
+The University Executive Officers Association (UNP) threatens to escalate trade union actions over salary cuts unless a permanent solution is found. Colombo University's Senior Secretary General plans to discuss a Cabinet paper on the issue, with a demonstration scheduled for today.
 
-වැටුප් කප්පාදුව පිළිබඳව ගැටලුවක් මුල්කර ගනිමින් පසුගිය 03වන දා සිට විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමය වෘත්තීය ක්‍රියාමාර්ගයක නිරත වේ.
+🟩
 
-මේ ඒ සම්බන්ධයෙන් අදහස් දක්වමින් විශ්වවිද්‍යාල විධායක නිලධාරීන්ගේ සංගමයේ අනුශාසක කොළඹ විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ ලේකකාධීකාරී සම්පත් උදයංග මහතා පවසා සිටියේ, අද පැවැත්වෙන සාකච්ඡාවේ දී වැටුප් කප්පාදුව පිළිබඳව කැබිනට් පත්‍රිකාව සාකච්ඡා කර ඉදිරියේ දී එයට විසඳුමක් ලබාදෙනු ඇතැයි අපේක්ෂා කරන බවය.
+According to the University Executive Officers Association, the trade union measures will be further intensified if they do not receive a permanent solution to their problems today (08).
 
-අද දිනයේ දී මෙම වැඩවර්ජනයට සමගාමීව උද්ඝෝෂණයක් ද පැවැත්වීමට නියමිත බව ද ඒ මහතා පැවසීය.
+The University Executive Officers Association (UNP) is engaged in a trade union action based on a problem with salary cuts.
 
-මේ අතර අනධ්‍යන කාර්ය මණ්ඩලය ආරම්භ කළ වර්ජනය අද හත්වන දිනටත් ක්‍රියාත්මක බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනයේ සම ලේකම් කේ. එල්. ඩී රිච්මන් මහතා සඳහන් කළේය.
+Speaking in this regard, Senior Secretary General of Colombo University has said that the Cabinet paper will be discussed and will be discussing the cabinet paper in the future.
+
+He added that a demonstration is to be held in parallel today.
+
+Meanwhile, Collection Secretary to the Convention of the Inter University Trade Societies Kar. L. Mr. D Richman said.
 
 ◼️
 
 [Data](articles/5ecf9627.json)
+
+[Extended Data](ext_articles/5ecf9627.ext.json)
 
 ---
 
@@ -1758,6 +1780,24 @@ The amendments were then presented by Ashok Abeysinghe and 49 votes were cast ag
 
 ---
 
+### 2023දී ලංකාවෙන් හොර නෝට්ටු 1769ක් හමුවෙලා
+
+*2024-05-07 19:25:14* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ලංකාවෙන්-හොර-නෝට්ටු-1769ක්-හමුවෙලා/11-409486) · `si`
+
+2023 ජනවාරි 01වනදා සිට එම වර්ෂයේ දෙසැම්බර් 25වනදා දක්වා කාලසීමාව තුළදී ව්‍යාජ මුදල් නෝට්ටු 1,769ක් පිළිබඳව අනාවරණය වී ඇති බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය ප්‍රකාශ සහ මෙහෙයුම් මැයි මස 04වනදා නිකුත් කරන ලද වාර්තාවේ සඳහන් වේ.
+
+මෙම මහ බැංකු මූල්‍ය ප්‍රකාශන වාර්තාවෙන් පෙන්වා දෙන පරිදි 2023 වර්ෂයේදී අනාවරණය වූව්‍යාජ මුදල් නෝට්ටු 1,769 පිළිබඳව අධිකරණයෙන් නඩු කටයුතු 11ක් සඳහා මැයි සිට දෙසැම්බර් කාලය තුළදී ශ්‍රී ලංකා මහ බැංකුව අධිකරණ අමාත්‍යාංශයේ නඩු කටයුතු සඳහා ඉදිරිපත් වී ඇති බව මැයි මස 04වන දින නිකුත් කරන ලද මූල්‍ය ප්‍රකාශන වාර්තාවේ සඳහන් වේ.
+
+ශ්‍රී ලංකාව තුළ සංසරණයේ පවතින මුදල් නෝට්ටු මිලියනයකට ව්‍යාජ මුදල් නෝට්ටු 1.4ක් පමණ ප්‍රමාණයක් හමුවන බැවින් මෙය ගෝලීය සාමාන්‍ය අනුපාතය වන නෝට්ටු මිලියනයකට ව්‍යාජ මුදල් නෝට්ටු 15කට සාපේක්ෂව සැලකිය යුතු අඩු මට්ටමක් බවද ශ්‍රී ලංකා මහ බැංකුව පෙන්වා දෙයි.
+
+ශ්‍රී ලංකා මහ බැංකු පනතේ57වෙනි වගන්තිය යටතේ අධිකරණමය නඩු විභාග සඳහා පහසුකම් සලසමින් ව්‍යාජ මුදල් නෝට්ටු අනුකරණය සම්බන්ධ තීරණාත්මක සාක්ෂි වශයෙන් මහ බැංකුව සහතික 97ක් නිකුත් කර ඇත.
+
+...
+
+[Data](articles/2f1fd649.json)
+
+---
+
 ### Putin took over as Russian President for the 5th time
 
 *2024-05-07 19:24:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாக-ரஷ்ய-ஜனாதிபதியாக-பொறுப்பேற்ற-புட்டின்/50-336907) · `ta`
@@ -2191,51 +2231,5 @@ Opposition Leader Sajith Premadasa, Opposition Leader Sajith Premadasa, made the
 [Data](articles/9152188d.json)
 
 [Extended Data](ext_articles/9152188d.ext.json)
-
----
-
-### The government will face huge consequences if he acts against the rights of citizens - Vijitha Herath
-
-*2024-05-07 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/182919) · `ta`
-
-Vijitha Herath warns of severe consequences for the government if it infringes on citizens' rights. He also mentions the united front of attorneys and the public against the government's economic policies and corruption, highlighting the impact on small and medium enterprises. The government claims to have taken steps for economic recovery, including loan relief, but a youth has exposed massive visa fraud, using their constitutional right to speak out.
-
-🟩
-
-If the government has to correct the mistakes, the government will again face huge crises if this young man has crises.
-
-Attorneys and the people of the country will unite, said the National People's Power MP Vijitha Herath.
-
-Speaking at a debate on the Amendment Bill (Amendment) Bill (Amendment) Bill (Amendment) in Parliament on Tuesday (7), he said in a debate on the Amendment Bill (Parate) Bill (Parate) Bill.
-
-Small and medium enterprises contribute to 52 percent of the country's national economy.. The country has become bankrupt by the government's false economic policies and corruption.
-
-The government notes that the economy was affected by the Govt.. The government states that it has taken steps to the economic recovery.
-
-Relief has been given to the loans provided by the banks and defining 7 months.
-
-...
-
-[Data](articles/3ecf9c57.json)
-
-[Extended Data](ext_articles/3ecf9c57.ext.json)
-
----
-
-### H.M. Fowzie’s son arrested
-
-*2024-05-07 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/H-M-Fowzies-son-arrested/108-282102) · `en`
-
-Colombo, May 07 -  Son of the former Minister A.H.M. Fowzie Nauzer Fowzie has been apprehended by Kollupitiya Police on charges of assault following a vehicular incident involving his car, Police said.
-
-The incident occurred on School Lane in Kollupitiya, where former Provincial Councillor Fowzie allegedly assaulted an individual he had collided with.
-
-However, Nauzer Fowzie was subsequently released on police bail pending further investigation into the matter.
-
-◼️
-
-[Data](articles/b9ec6892.json)
-
-[Extended Data](ext_articles/b9ec6892.ext.json)
 
 ---

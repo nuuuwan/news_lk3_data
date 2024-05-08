@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 15:33:30**
+As of **2024-05-08 15:52:21**
 
 ## Newspaper Stats
 
-*Scraped **22,732** Articles*
+*Scraped **22,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,78 @@ economynextcom | 1,301
 dailyftlk | 1,322
 adalk | 1,920
 tamilmirrorlk | 2,659
-adaderanalk | 2,666
+adaderanalk | 2,667
 virakesarilk | 3,388
-dailymirrorlk | 3,570
+dailymirrorlk | 3,571
 adaderanasinhalalk | 3,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,726 (100.0%) of 22,732 articles have been extended.
+22,732 (100.0%) of 22,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
 
-### මන්නා රමේෂ් ගේ නිවසින් අත්බෝම්බයක් සොයා ගනී
+### Grenade and motorcycle found as police raid Manna Ramesh’s house
+
+*2024-05-08 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99084/grenade-and-motorcycle-found-as-police-raid-manna-rameshs-house) · `en`
+
+The Western Province (South) Crimes Division says that a foreign-manufactured hand grenade and a motorcycle were discovered following the preliminary interrogation of the underworld criminal gang leader Ramesh Priyajanaka, also known as ‘Manna Ramesh’, who was arrested in Dubai and brought to Sri Lanka yesterday.
+
+The grenade and the motorcycle were found hidden in the house allegedly belonging to the suspect located at Napawal, Yalagama, Avissawella.
+
+The hand grenade was found buried inside the house while the motorcycle, suspected to have been used to carry out various crimes, was found hidden behind the house.
+
+Police yesterday obtained a 72-hour detention order, under the Prevention of Terrorism Act (PTA), to detain ‘Manna Ramesh’ for further investigations at the Western Province (South) Crimes Division.
+
+Meanwhile, it is reported that police are expected to obtain 90-day detention orders, under section 9/1 of the PTA, subject to the approval of the Secretary of the Ministry of Defense.
+
+◼️
+
+[Data](articles/e96b27d4.json)
+
+---
+
+### Government MP given land at BIA to operate jet fuel storage facility: Dayasiri
+
+*2024-05-08 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-MP-given-land-at-BIA-to-operate-jet-fuel-storage-facility-Dayasiri/108-282177) · `en`
+
+Parliament, May 08 (Daily Mirror)- The government has provided a plot of land to a government MP at the Bandaranaike International Airport (BIA) to operate a jet fuel storage facility, Parliamentarian Dayasiri Jayasekara revealed today.
+
+He told Parliament that jet fuel supply is a main source of dollar earning to the country and questioned why the Ceylon Petroleum Corporation (CPC) was losing its monopoly.
+
+The MP said the CPC had provided permits to Cannel (Private) Limited and Fits Aviation also to supply jet fuel when a system is in place at the BIA at a cost of USD 51 million for the purpose of supplying fuel to aircraft.
+
+Leader of the House Susil Premajayantha urged him to reveal the name of the MP and then MP Jayasekara hinted that the said MP is a businessman and envisaged to be the SLPP Presidential candidate.
+
+...
+
+[Data](articles/49ac291f.json)
+
+---
+
+### Manna finds a grenade from the house of Ramesh's house
 
 *2024-05-08 15:15:59* · [`adalk`](https://www.ada.lk/breaking_news/මන්නා-රමේෂ්-ගේ-නිවසින්-අත්බෝම්බයක්-සොයා-ගනී/11-409503) · `si`
 
-ඩුබායි රාජ්‍යයේ සිට මෙරටට රැගෙන හා සංවිධානාත්මක අපරාධකරුවකු වන මන්නා රමේෂ් සැකකරුගේ අවිස්සාවේල්ල, යාලගම, නාපාවෙල නිවසේ සඟවා තිබියදී එම අත්බෝම්බය සහ යතුරුපැදිය හමුවී ඇකි බව බස්නාහිර පළාත් දකුණ අපරාධ කොට්ඨාසය පැවසීය.
+Manna discovers a grenade in Ramesh's house, linked to Dubai and organized crime. The grenade was buried, and a motorcycle was hidden behind the house. The suspect is detained for 72 hours under the Prevention of Terrorism Act for further investigation.
 
-අත් බෝම්බය නිවස තුළ වළ දමා තිබියදී සොයා ගෙන ඇති අතර යතුරුපැදිය සොයාගෙන ඇත්තේ නිවස පිටුපස සඟවා තිබියදීය.
+🟩
 
-සැකකරු ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ පැය 72ක කාලයක්  අපරාධ කොට්ඨාසයේ රඳවාගෙන වැඩිදුර පරීක්ෂණ පැවැත්වීම සිදුකෙරෙයි.
+The Western Province North provincial cadres said that the grenade and the motorcycle was found in Dubai and an organized criminal.
+
+The hand grenade was found while buried inside the house, while the motorcycle was found hidged behind the house.
+
+The suspect is held for 72 hours under the Prevention of Terrorism Act and conduct further investigations.
 
 ◼️
 
 [Data](articles/02458cf6.json)
+
+[Extended Data](ext_articles/02458cf6.ext.json)
 
 ---
 
@@ -133,6 +177,8 @@ The firm's application to withdraw the vaccine was made on March 5 and came into
 ...
 
 [Data](articles/51574674.json)
+
+[Extended Data](ext_articles/51574674.ext.json)
 
 ---
 
@@ -272,21 +318,27 @@ In January 2023, then SJB MP Mujibur Rahman decided to step down as a member of 
 
 ---
 
-### ඩයනාට එරෙහි තීන්දුවෙන් පාර්ලිමේන්තුවට නිදහස ලැබුණා
+### Parliament was released from Diana's decision
 
 *2024-05-08 13:42:11* · [`adalk`](https://www.ada.lk/breaking_news/ඩයනාට-එරෙහි-තීන්දුවෙන්-පාර්ලිමේන්තුවට-නිදහස-ලැබුණා/11-409499) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ධුරය අහෝසි කරමින් ඩයනා ගමගේ මහත්මියට ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් තීන්දුව වැදගත් තීන්දුවක් බවත්, එම තීන්දුව හරහා පාර්ලිමේන්තුවටත්, කථානායකවරයාටත් නිදහස ලැබුණු බවත් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පැවසීය.
+MP Nalin Bandara announced the Supreme Court's decision to abolish the parliamentary post, freeing the Speaker. This decision, made public on the 8th, grants parliamentary representation to citizens.
 
-අදාළ නඩු තීන්දුව සම්බන්ධයෙන් අද (08දා) පාර්ලිමේන්තුවේදී අදහස් පළ කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“අද අධිකරණය වැදගත් තීන්දුවක් ලබා දීලා තියෙනවා. ඒ තමයි පුරවැසි භාවය පිළිබඳ තිබුණු නඩුවේදී පාර්ලිමේන්තුව නියෝජනය කළ ඩයනා ගමගේ මන්ත්‍රීතුමියට තීන්දුව දීලා තියෙනවා.
+MP Nalin Bandara said that the decision given by the Supreme Court with the abolition of the post of parliamentary parliament, said the Speaker, the Speaker, and the Speaker and the Speaker were released.
 
-එතුමිය අද ඉදලා පාර්ලිමේන්තු මන්ත්‍රීවරියක් නෙවෙයි. අපි ගරැ කරනවා අධිකරණයට. ඒ වගේම පාර්ලිමේන්තුවටත් කථානායකතුමාටත් විශාල නිදහසක් ලැබුණා කියන එකත් මතක් කරනවා.”
+He was speaking in parliament today (08th) regarding the verdict.
+
+"The judiciary has been given an important decision. That is the decision to represent parliament in the case of citizenship.
+
+She is not a Member of Parliament. We are then to the court. It is also reminded that the Parliament and the Speaker were given a great freedom. "
 
 ◼️
 
 [Data](articles/3cbc50e4.json)
+
+[Extended Data](ext_articles/3cbc50e4.ext.json)
 
 ---
 
@@ -1013,6 +1065,8 @@ Counsel Hafeel Farisz with Nishika Fonseka and Shannon Thilekaratne appeared for
 ◼️
 
 [Data](articles/95b21654.json)
+
+[Extended Data](ext_articles/95b21654.ext.json)
 
 ---
 
@@ -1950,6 +2004,8 @@ However, VFS Global handles the e-Visa documentation process, with final approva
 
 [Data](articles/75d15e98.json)
 
+[Extended Data](ext_articles/75d15e98.ext.json)
+
 ---
 
 ### Sri Lanka gross foreign reserves rise to 3.5 year high in April
@@ -2269,51 +2325,5 @@ Accordingly, in the Economic Review of 2023, the key issues indicated on the cou
 [Data](articles/3ad0b025.json)
 
 [Extended Data](ext_articles/3ad0b025.ext.json)
-
----
-
-### Invest in $ 100 million
-
-*2024-05-08 00:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லியன்-அமெரிக்க-டொலர்-முதலீடு/175-336932) · `ta`
-
-A $100M investment was announced for upgrading Sri Lanka's agriculture, aiming to boost yields and incomes.
-
-🟩
-
-A Memorandum of Understanding (Memorandum of Understanding) was signed at the Presidential Office yesterday.
-
-President's Senior Advisor to Climate Change Secretariat, Ruwan Wijewardena on Climate Change, its General Secretary of the Climate Risk Council, former Maldivian President Mohamed Nashit and its Chief Executive Officer Carlos Gomas on behalf of the NATIVA Capital Institute of Portugal.
-
-The agreement is aimed at improving the agricultural farming of rural communities in Sri Lanka by introducing upgraded and sustainable agricultural systems with the aim of increasing agricultural yields and farmers' incomes.. (A)
-
-◼️
-
-[Data](articles/a51ff5af.json)
-
-[Extended Data](ext_articles/a51ff5af.ext.json)
-
----
-
-### In the New Prize Prize by the President's Fund
-
-*2024-05-08 00:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்தினால்-புதிய-புலைமைப்-பரிசில்/175-336931) · `ta`
-
-The President's Fund has initiated two new scholarship programs under President Ranil Wickremesinghe's guidance. These programs aim to support female Bikkuni beam students and other students nationwide. The scholarships, totaling 5000, will be distributed in two phases, with the first phase offering 3000 rupees for 12 months and the second phase offering 6000 rupees.
-
-🟩
-
-The President's Fund has launched two more scholarship projects in addition to the current scholarship projects on the instructions of President Ranil Wickremesinghe.
-
-Accordingly, the new scholarship program for the students and other students and other students who learn and the female Bikkuni beam installations will be implemented from this month.
-
-The country will be selected for the recommendation of the company leaders on the basis of 06 scholarships for a learning institute for the program for the establishment of the female Bikkuni beam nationwide and 822 students for other students.
-
-The scholarship will be given in two phases and will be given to 5000 poor students who are learning, and under the first phase of May 2024 to 12 months, 3000 rupees for 12 months and 6,000 rupees under the second stage.. (A)
-
-◼️
-
-[Data](articles/831f7121.json)
-
-[Extended Data](ext_articles/831f7121.ext.json)
 
 ---

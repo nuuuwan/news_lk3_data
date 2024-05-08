@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-08 06:58:35**
+As of **2024-05-08 07:13:27**
 
 ## Newspaper Stats
 
-*Scraped **22,625** Articles*
+*Scraped **22,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,230
 economynextcom | 1,295
 dailyftlk | 1,321
 adalk | 1,905
-tamilmirrorlk | 2,635
+tamilmirrorlk | 2,636
 adaderanalk | 2,654
 virakesarilk | 3,386
-dailymirrorlk | 3,545
+dailymirrorlk | 3,554
 adaderanasinhalalk | 3,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,621 (100.0%) of 22,625 articles have been extended.
+22,625 (100.0%) of 22,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-08 (Wednesday)
+
+### Basil reasserts general election first, yet President braces for presidential race
+
+*2024-05-08 06:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-reasserts-general-election-first-yet-President-braces-for-presidential-race/108-282138) · `en`
+
+Colomo, May 8 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa reasserted yesterday that his party still believes the general election should precede the presidential elections but President Ranil Wickremesinghe has a contrasting stand, according to an informed source of the party.
+
+Mr. Rajapaksa addressed the parliamentary group of the party and spelled out his opinion in this regard. Earlier, he met with the President and held talks about the latest political developments.
+
+According to the SLPP, a fair number of its MPs stand for the conduct of the snap general election ahead of the presidential elections scheduled for October, this year in terms of the Constitution. The next parliamentary election is scheduled for 2025 only. However, the President has the constitutional authority to dissolve Parliament prematurely and declare a snap election.
+
+...
+
+[Data](articles/e915d643.json)
+
+---
+
+### Sri Lanka to overhaul visa issuance process
+
+*2024-05-08 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-to-overhaul-visa-issuance-process/155-282137) · `en`
+
+In the wake of perplexities surrounding the issuance of the on-arrival visa issuance at the Bandaranaike International Airport (BIA), the Government is mulling to overhaul the visa issuance process, Daily Mirror learns.
+
+To fulfill this requirement, a cabinet paper is to be submitted at the next cabinet meeting.
+
+Meanwhile, government sources confirmed that VFS Global has temporarily ceased operations at the BIA counter.
+
+Nevertheless, there has been a request from the government of Sri Lanka to take over the on-arrival visa issuance, which VFS Global has refused.
+
+Speaking to Daily Mirror, Immigration and Emigration Department Controller General I.S.H.J. Ilukpitiya said the entire process pertaining to the issuance of on-arrival visa issuance at the BIA is solely handled by the Immigration officials.
+
+However, VFS Global handles the e-Visa documentation process, with final approval granted by immigration department officials.
+
+...
+
+[Data](articles/caafd6cd.json)
+
+---
+
+### Sajith plays it safe in Parliament
+
+*2024-05-08 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-plays-it-safe-in-Parliament/108-282139) · `en`
+
+Colombo, May 8 (Daily Mirror) - Leader of Opposition Sajith Premadasa yesterday raised objections to the questioning of the youth, Sandaru Kumarasinghe, who spoke out against the Visa issue at the airport but avoided debate on the visa fiasco involving a foreign consortium with VFS as technology partner.
+
+He told Parliament that the government must consider the matter closed without dragging it. "Sandaru Kumarasinghe only expressed his opinion. In terms of the Constitution, he has a right to freedom of expression," he said.
+
+Mr. Premadasa earlier claimed, as reported on social media platforms, that the visa fiasco could be a greater swindle than the bond scam.
+
+◼️
+
+[Data](articles/3a32b341.json)
+
+---
 
 ### Modern Agricultural Promotion Program based on 15 000 families in Anuradhapura - Ruwan Wijewardena
 
@@ -151,6 +205,28 @@ Accordingly, Rajasthan Royals scored only 201 runs for the loss of 8 wickets in 
 [Data](articles/d65b1e21.json)
 
 [Extended Data](ext_articles/d65b1e21.ext.json)
+
+---
+
+### Gross official reserves surpass US$ 5bn mark
+
+*2024-05-08 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gross-official-reserves-surpass-US-5bn-mark/108-282135) · `en`
+
+April reserves also marked the highest from over three years in January 2021
+
+Sri Lanka’s gross official reserves have continued to increase through the end of April topping the US$ 5.0 billion level for the first time since December 2020 when the country was coming out of the second wave of the virus outbreak.
+
+While the official data is just a few days from its release to the public, the Central Bank Governor, Dr. Nandalal Weerasinghe this week disclosed the latest foreign currency levels in the country by the end of April which was at US$ 5,438 million.
+
+This was a robust US$ 487 million increase in foreign currency reserves within April.
+
+April reserves also marked the highest from over three years in January 2021 when the reserves were at US$ 4,814.6 million.
+
+Thereafter the country’s reserve buffer gradually weakened due to the weak foreign currency inflows from both tourism trade and remittances at the time.
+
+...
+
+[Data](articles/d5c481e4.json)
 
 ---
 
@@ -437,6 +513,22 @@ The petition further argues that he does not meet all statutory requirements and
 [Data](articles/8c57202a.json)
 
 [Extended Data](ext_articles/8c57202a.ext.json)
+
+---
+
+### ’இலங்கை பொலிஸ் இராஜ்ஜியமல்ல’
+
+*2024-05-08 00:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பொலிஸ்-இராஜ்ஜியமல்ல/175-336928) · `ta`
+
+கருத்து தெரிவித்தமைக்காக விசாரணைக்கு அழைப்பதற்கு இலங்கை பொலிஸ் இராஜ்ஜியமல்ல .இலங்கை ஜனநாயக நாடு என   எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (07) விசேட கூற்றை முன்வைத்தபோதே இவ்வாறு தெரிவித்த அவர் மேலும் பேசுகையில்,
+
+விசா பிரச்சினை குறித்து அண்மையில் விமான நிலையத்தில் கருத்துத் தெரிவித்த சந்தரு குமாரசிங்கவை பொலிஸுக்கு  அழைத்து அது குறித்து வாக்குமூலம் பெறப்பட்டது. இது பொலிஸ் இராஜ்ஜியமல்ல, இது ஏகாதிபத்திய நாடல்ல, இது ஜனநாயக நாடு. பேச்சுச் சுதந்திரம் அவருக்கு இருப்பதால் அவருக்கு இடையூறு விளைவிக்காது, அவரை தொந்தரவு படுத்த வேண்டாம் எனக் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/4d44f1f9.json)
 
 ---
 
@@ -806,6 +898,8 @@ Sri Lanka with a rich biodiversity, is home to over 248 species of exotic butter
 
 [Data](articles/a7a82c1c.json)
 
+[Extended Data](ext_articles/a7a82c1c.ext.json)
+
 ---
 
 ### Singer Sri Lanka recognized as a Strategic Alliance Partner at Sony’s Annual BPC in Singapore
@@ -817,6 +911,8 @@ Celebrating a decade of fruitful collaboration, Singer, the exclusive distributo
 ...
 
 [Data](articles/18474aff.json)
+
+[Extended Data](ext_articles/18474aff.ext.json)
 
 ---
 
@@ -858,6 +954,8 @@ Related Topics:CBSLPublic Consultation on Amendments to the Finance Leasing Act
 
 [Data](articles/98f1e62b.json)
 
+[Extended Data](ext_articles/98f1e62b.ext.json)
+
 ---
 
 ### CEAT Kelani says it is not the company fined by Customs Department
@@ -875,6 +973,8 @@ Responding to media reports that a leading tyre manufacturer is facing legal act
 ...
 
 [Data](articles/92c6f7b0.json)
+
+[Extended Data](ext_articles/92c6f7b0.ext.json)
 
 ---
 
@@ -2117,117 +2217,5 @@ Sri Lanka currently faces a teacher shortage. Low salaries continue to be a prob
 [Data](articles/af3fe16e.json)
 
 [Extended Data](ext_articles/af3fe16e.ext.json)
-
----
-
-### Do not tell the companies to leave the gardens because of the salary - Mano Ganesan
-
-*2024-05-07 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/182906) · `ta`
-
-Mano Ganesan advises against companies taking over gardens due to unpaid salaries, emphasizing alternative actions by the government and the Minister of Labor. He warns against dividing supporters by handing over gardens to companies, advocating for land rights and making people small plantation entrepreneurs. He references Sajith Premadasa's 2019 election manifesto, which aimed to turn plantation workers into small estate owners, ensuring their livelihoods and protecting gardens until a government solution is found.
-
-🟩
-
-If President Ranil Wickremesinghe has not been able to pay the salary announced on the May Day platform, he must take an alternative action as the head of state.. The Minister of Labor, who declared the Gazette, should take action. The government in the state should stop the sports of friends in the state, the fireworks exploding and the pongal rice.. If we ask for our cooperation in this regard, we will consider it positively.
-
-But I warmly tell the mountain friends in the state not to present the slogan, "Gardens should be handed over to the government and go to the companies". If the company goes to the company and the government takes responsibility for the land, they will be divided to their supporters. This is how the people of the government and the government of the government today have been issued without listening and our people who lived there are in the middle of the country.
-
-...
-
-[Data](articles/874151f4.json)
-
-[Extended Data](ext_articles/874151f4.ext.json)
-
----
-
-### Special announcement of the Central Expressway
-
-*2024-05-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196374) · `si`
-
-The Road Development Authority (DMC) announced a concrete beam on the Central Expressway collapsed on May 4, damaging two more beams. The incident occurred after a previously declined concrete beam was installed in November 2021. DMC has deployed teams to inspect the expressway, ensuring quality and condition are maintained. The contractor responsible will bear the financial harm.
-
-🟩
-
-The Road Development Authority (DMC) says that a concrete beilla has been developed to be expanded due to a concrete beilla declined due to a concrete beam of the Central Expressway.
-
-On May 4, the same part collapsed on May 4 and the concrete bear place was placed on the rubber backing pads while the concrete beam was placed on the concrete beam.
-
-The Road Development Authority (Road Development Authority) stated that two more beams have been damaged due to this incident. It is said that the concrete beam was placed in November 2021.
-
-The statement states that the Road Development Authority has already deployed two teams to widely inspect the Central Expressway Project.
-
-It states that these groups will be expedited to check the current quality of all concrete supports and the current quality of all concrete supports.
-
-...
-
-[Data](articles/36545b2e.json)
-
-[Extended Data](ext_articles/36545b2e.ext.json)
-
----
-
-### China to support digital classroom project in Sri Lanka
-
-*2024-05-07 16:37:00* · [`economynextcom`](https://economynext.com/china-to-support-digital-classroom-project-in-sri-lanka-161829/) · `en`
-
-ECONOMYNEXT – Sri Lanka has approved a project proposal to implement digitalization in schools, with funding from the Chinese government, a government statement said.
-
-The project is expected to provide smart boards for delivering class rooms, receiving class rooms, a data centre to monitor these activities from the Ministry of Education, and studio and conference rooms.
-
-The project will see a hybrid learning method (learning via online, electronic media and face-to-face) implemented.
-
-The sharing of resources are expected to mitigate risks associated with teacher shortages.
-
-A feasibility study has been conducted on the implementation of the project. Cabinet approved the proposal presented by the Minister of Education to implement the project based on the feasibility study report. (Colombo/May7/20204)
-
-◼️
-
-[Data](articles/5135caca.json)
-
-[Extended Data](ext_articles/5135caca.ext.json)
-
----
-
-### Fowzie’s son arrested over assault incident
-
-*2024-05-07 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99066/fowzies-son-arrested-over-assault-incident) · `en`
-
-Former Provincial Councillor Nauzer Fowzie has been arrested by Kollupitiya Police for allegedly assaulting a person following an accident involving his vehicle, police said.
-
-He is accused of assaulting an individual after hitting that same person with his vehicle on School Lane in Kollupitiya.
-
-Nauzer Fowzie, who is the son of former Minister A.H.M. Fowzie, has been released on police bail.
-
-◼️
-
-[Data](articles/27566df3.json)
-
-[Extended Data](ext_articles/27566df3.ext.json)
-
----
-
-### A complaint against the army Major who threatened the murder of Rs 3 lakh in Batticaloa
-
-*2024-05-07 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/182900) · `ta`
-
-A man in Batticaloa accused an army Major of threatening to pay Rs 3 lakh if he didn't cooperate. The Major allegedly involved a foreign broker in a scam, which led to the arrest of the employment agency. The Major's intermediary, Rangan, threatened the victim, leading to a complaint lodged with the Human Rights Commission.
-
-🟩
-
-A man from Batticaloa has lodged a complaint yesterday (6) alleging that an army Major from the Kalmunai Army Camp threatens to pay Rs 3 lakhs.. Headquarters police said.
-
-Samithambi Velayutham, known as Rangan, from Batticaloa, has been sending a foreign broker to a man who has been sent abroad and has bought 5 rupees 70 thousand rupees and 5 people with it to a foreign employment agent.
-
-In this case, the foreign employment agency has lodged a complaint with the District Special Criminal Investigation Division with the testimony of a man from Kalmunai.Subsequently, the Employment Agency has been arrested and produced in court and is being held in court.
-
-Against this backdrop, Kalmunai Army Camp Major's intermediary Rangan has been asked to give him money to the person in Kalmani and give him Rs 3 lakhs to his bank account.He threatened not to play the background.
-
-Subsequently, Rangan, the intermediary of the bank account sent by the army Major, has sent Rs.
-
-...
-
-[Data](articles/19314d60.json)
-
-[Extended Data](ext_articles/19314d60.ext.json)
 
 ---

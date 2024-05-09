@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 05:18:31**
+As of **2024-05-09 05:36:08**
 
 ## Newspaper Stats
 
-*Scraped **22,820** Articles*
+*Scraped **22,827** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 200
 bbccomsinhala | 238
-dbsjeyarajcom | 238
+dbsjeyarajcom | 239
 newsfirstlk | 363
 islandlk | 1,232
 economynextcom | 1,316
@@ -18,7 +18,7 @@ dailyftlk | 1,331
 adalk | 1,930
 tamilmirrorlk | 2,669
 adaderanalk | 2,678
-virakesarilk | 3,392
+virakesarilk | 3,398
 dailymirrorlk | 3,582
 adaderanasinhalalk | 3,651
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,819 (100.0%) of 22,820 articles have been extended.
+22,820 (100.0%) of 22,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -164,6 +164,60 @@ The President revealed that one of the items in the bill, in carrying out this t
 
 ---
 
+### புதுக்குடியிருப்பில் பதுக்கி வைக்கப்பட்டிருந்த பல இலட்சம் பெறுமதியான  நூற்றுக்கு மேற்பட்ட முதிரை மரக்குற்றிகள் மீட்பு
+
+*2024-05-09 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183021) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் புதுக்குடியிருப்பு பொலிஸ் பிரிவுக்குட்பட்ட  இரணைப்பாலை பகுதியில் தனியார் காணி ஒன்றில் பதுக்கி வைக்கப்பட்டிருந்த பல இலட்சம் பெறுமதியான நூறுக்கும் மேற்பட்ட முதிரை மரக்குற்றிகள் முல்லைத்தீவு பொலிஸாரால் புதன்கிழமை (08) கைப்பற்றப்பட்ட சம்பவம் ஒன்று  இடம்பெற்றுள்ளது.
+
+புதுக்குடியிருப்பு  பகுதியில் சட்டவிரோத மரக்கடத்தல் இடம்பெற்று வருவதாக தொடர்ச்சியாக மக்கள் குற்றஞ்சாட்டி வருகின்றார்கள். வனவள திணைக்களம், பொலிஸார் உள்ளிட்ட பல்வேறு திணைக்களங்களின் ஆதரவுடனே இவ்வாறான செயற்பாடுகள் இடம்பெறுவதாகவும் இதனால் இவர்களது சட்டவிரோத செயற்பாடுகளுக்கு எதிராக யாரும் நடவடிக்கை எடுப்பதில்லை என தொடர்ச்சியாக மக்களால்  குற்றஞ்சாட்டப்பட்டு வந்தது.
+
+...
+
+[Data](articles/522bbcab.json)
+
+---
+
+### அரசியல்வாதிகள் மண்ணுக்காக வாய்திறவுங்கள் - முல்லை சிங்கள பூமியாக மாறுகிறது
+
+*2024-05-09 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183020) · `ta`
+
+தமிழ் அரசியல்வாதிகள் எமது மண்ணை காப்பாற்றவாவது பாராளுமன்றத்தில் வாய் திறந்து பேச வேண்டும் என முல்லைத்தீவு தீவு மாதர் சங்க தலைவி சு.கங்கம்மா வேண்டுகோள் விடுத்தார்.
+
+வட மாகாண ஆளுநர் செயலாளருக்கு முன்னால் புதன்கிழமை (8) இடம் பெற்ற போராட்டத்தின்போது ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், முல்லைத்தீவு மாவட்டம் மகாவலி  என்ற போர்வையில் தமிழ் மக்களின் பூர்வீக நிலங்கள் சிங்களவர்களுக்குத் தாரை வார்த்துக் கொடுக்கப்படுகிறது.
+
+கொக்கதொடுவாயில் 3 கிராமங்கள் ஆறு  கிராம சேவையாளர் பிரிவுகளைக் கொண்ட நிலையில் குறித்த பிரதேசம் பரந்துபட்ட வயல் காணிகளைக் கொண்ட பிரதேசம் 1984 ஆம் ஆண்டு சிங்கள அரசாங்கம் திட்டம் திட்டமிட்ட முறையில் அங்கு வாழ்ந்த தமிழ் மக்களை விடுதலைப் புலிகளை அழித்துவிட்டு மூன்று நாட்களில் உங்களை மீண்டும் குறித்த பகுதியில் அனுமதிக்கிறோம் என்றனர்.
+
+ஆனால் முப்பது வருடங்கள் குறித்த பகுதிக்குச் செல்வதற்காக நாம் காத்திருந்த நிலையில் விடுவிக்கப்பட்டு 14 வருடங்கள் கடந்த நிலையில் எமது காணிகள் எமக்கு ஒப்படைக்கப்படவில்லை.
+
+...
+
+[Data](articles/72b46ce9.json)
+
+---
+
+### உள்ளுர் இழுவைமடி தொழிலை நிறுத்துமாறு கோரி கடலில் இறங்கி மீனவர்களிடம் மகஜர் கையளித்த என்.வி.சுப்பிரமணியம்
+
+*2024-05-09 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/183019) · `ta`
+
+உள்ளூர் இழுவைமடி தொழிலால் சிறு மீனவர்களுடைய வாழ்வாதாரம் பாதிக்கப்படுவதாக தெரிவித்து, அந்த தொழிலை கைவிட்டு மாற்று முறை தொழிலை மேற்கொள்ளுமாறு கோரி வடக்கு மாகாண மீனவ அமைப்பின் பிரதிநிதி என்.வி.சுப்பிரமணியம் அவர்கள் புதன்கிழமை (8) கடலில் இறங்கி உள்ளூர் இழைவைமடி மீனவர்களிடம் மகஜர்களை  கையளித்தார்.
+
+அன்பிற்கும் பாசத்திற்கும் இனிய எமது தமிழக மீனவ தொப்புக்கொடி உறவுகளே, மற்றும் வடமாகாண யாழ்ப்பாண மீனவ உறவுகளே. உங்கள் அன்பின் மாதகல் N.V.சுப்பிரமணியம் ஆகிய நான் வேண்டி நிற்பது,
+
+இந்திய மற்றும் இலங்கை அரசுகள் இரண்டும் எமக்குள் செயற்கை முறையில் விரோதம், குரோதம் மற்றும் பிரிவை ஏற்படுத்தி எம்மை வைத்துப் பந்தாடுகின்றனர். இதை நாம் முதலில் புரிந்துகொள்ளுதல் வேண்டும். எமது வயிற்றுப் பசியே பந்தாக மாறி இருக்கின்றது.
+
+2) எமக்குத் தேவையான மீன்களை எடுத்துக்கொண்டு மிஞ்சுகின்ற மீன் குஞ்சுகளை சாகடித்து மீன் பெருக்கத்தையும் குறைக்கின்றோம்.
+
+4) சிறு மீனவனுடைய கடல் உபகரணங்களை ஈவு இரக்கமில்லாமல் அறுத்து நாசம் செய்து அவர்களை பட்டினிச்சாவிற்கு அழைத்துச் செல்கின்றோம்.
+
+...
+
+[Data](articles/62d1a298.json)
+
+---
+
 ### The illegitimate National Education Policy Framework 2023-2033
 
 *2024-05-09 02:36:31* · [`dailyftlk`](https://www.ft.lk/columns/The-illegitimate-National-Education-Policy-Framework-2023-2033/4-761565) · `en`
@@ -179,6 +233,56 @@ While this patriarchal practice is discriminatory – impugning the dignity of t
 [Data](articles/63b8d0c4.json)
 
 [Extended Data](ext_articles/63b8d0c4.ext.json)
+
+---
+
+### பிங்கிரிய தொழில் வலயத்தின் உட்கட்டமைப்பு அபிவிருத்திகளை இவ்வருட இறுதிக்குள் நிறைவு செய்யுங்கள் - ஜனாதிபதி பணிப்பு
+
+*2024-05-09 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/183018) · `ta`
+
+பிங்கிரிய தொழில் வலயத்தின் உட்கட்டமைப்பு அபிவிருத்தி பணிகளை இவ்வருட இறுதிக்குள் நிறைவு செய்யுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+பிங்கிரிய தொழில் வலயத்தின் உட்கட்டமைப்பு வசதிகள் உட்பட ஏனைய கட்டுமானங்களின் முன்னேற்றம் தொடர்பில் ஆராய்வதற்காக ஜனாதிபதி அலுவலகத்தில் புதன்கிழமை (08) நடைபெற்ற சந்திப்பிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு பணிப்புரை விடுத்தார்.
+
+மூன்று கட்டங்களில் கீழ் பிங்கிரிய தொழில் வலயத்தின் அபிவிருத்தி பணிகள் முன்னெடுக்கப்பட்டு வருகின்ற நிலையில், முதல்கட்டத்தின் கீழ் முன்னெடுக்கப்படும் உட்கட்டமைப்பு வசதிகள் குறிப்பிடத்தக்க அளவில் நிறைவு செய்யப்பட்டுள்ளன.
+
+அதன்படி, முன்னெடுக்கப்பட்டு வருகின்ற பணிகளை இவ்வருட இறுதிக்குள் நிறைவு செய்யுமாறு பணிப்புரை விடுத்துள்ள ஜனாதிபதி, எதிர்வரும் ஜூன் மாதம் அந்த பணிகளை மேற்பார்வைச் செய்ய எதிர்பார்த்திருப்பதாகவும் தெரிவித்தார்.
+
+...
+
+[Data](articles/c6bf2ed3.json)
+
+---
+
+### இஸ்ரேலுக்கு உதவி செய்துவரும் கம்பனிகளின் பொருட்களை முஸ்லிம்கள் புறக்கணிக்க வேண்டும் - ஹரீஸ் எம்.பி.
+
+*2024-05-09 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183017) · `ta`
+
+பலஸ்தீன் மக்களைக் கொலை செய்ய இஸ்ரேலுக்கு உதவி செய்துவரும் நாடுகளின் கம்பனிகள் இலங்கையிலும் இயங்கி வருகின்றன. அந்த நிறுவனங்களின்  பொருட்களை இலங்கை முஸ்லிம்கள் புறக்கணிக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் எச்.எம். ஹரீஸ் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (8) இடம்பெற்ற இராஜதந்திர சிறப்புரிமைச் சட்டத்தின் கீழ் கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இஸ்ரேல் பிரதமர் யதன்யாஹு என்ற கொடுங்கோலனின் தலைமையிலான இஸ்ரேலிய நவநாஜிகள் கூட்டம் பலஸ்தீன் மக்களைக் கொன்று குவித்து வரும் நிலையில், காஸா மக்கள் அகதிகளாகத் தஞ்சம் புகுந்துவரும் ரபா நகரிலும் தாக்குதல் நடத்த இஸ்ரேல் இராணுவத்தை நகர்த்திக்கொண்டிருக்கிறது. இதன் காரணமாக  அந்த மக்களுக்குப் பாதுகாப்பு வழங்க முடியாத நிலையில் ஐக்கிய நாடுகளின் பாதுகாப்புச் சபை இருந்துகொண்டிருக்கிறது.
+
+...
+
+[Data](articles/e7d9dabd.json)
+
+---
+
+### பெருந்தோட்ட தொழிலாளர்களுக்கு வர்த்தமானி மூலம் அறிவிக்கப்பட்ட சம்பள அதிகரிப்பு ஜூன் 10ஆம் திகதி வழங்கப்பட வேண்டும் - வடிவேல் சுரேஷ்
+
+*2024-05-09 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/183016) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களுக்கு வர்த்தமானி மூலம் அறிவிக்கப்பட்ட ஆயிரத்து 700ரூபா  சம்பளத்தை எதிர்வரும் ஜுன் 10ஆம் திகதி வழங்கப்பட வேண்டும். அதேவேளை உற்பத்தி ஊக்குவிப்பு என்ற பேரில்  சம்பள அதிகரிப்பை மாற்றியமைக்கத் தோட்ட கம்பனிகள் எடுத்துவரும் நடவடிக்கையை ஒருபோதும் அனுமதிக்க முடியாது என வடிவேல் சுரேஷ் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (8) இடம்பெற்ற இராஜதந்திர சிறப்புரிமைச் சட்டத்தின் கீழ் கட்டளைகள் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு கடந்த 4 வருடங்களாக இடம்பெறாத நிலையில் ஜனாதிபதி இதில் தலையிட்டு நாள் ஒன்றுக்கான சம்பளத்தை 1700 ரூபாவாக அதிகரிக்க நடவடிக்கை எடுத்து, வர்த்தமானி மூலம் அறிவிப்பு செய்தார். அதன் பிரகாரம் 1350 ரூபா அடிப்படை சம்பளமாகவும் 350 ரூபா விசேட கொடுப்பனவாகவும்  பறிக்கவேண்டிய கொழுந்துக்கு மேலதிகமாக பறிக்கும் ஒவ்வோரு கிலாேவுக்கும் 80ரூபா என்ற அடிப்படையில் அறிவிப்பு செய்யப்பட்டிருக்கிறது. இந்த அறிவிப்பை ஜனாதிபதி பெருந்தோட்ட தொழிலாளர்களை நேரில் சந்தித்து மே தினத்தில் தெரிவித்தார்.
+
+...
+
+[Data](articles/004d9e99.json)
 
 ---
 
@@ -421,6 +525,8 @@ Throughout human civilization so far, progression has been considered one of the
 ...
 
 [Data](articles/2a4cdc9b.json)
+
+[Extended Data](ext_articles/2a4cdc9b.ext.json)
 
 ---
 
@@ -1207,6 +1313,26 @@ The Minister emphasizes that no man will be sent to a foreign country without th
 [Data](articles/44c9701a.json)
 
 [Extended Data](ext_articles/44c9701a.ext.json)
+
+---
+
+### State  Minister Diana  Gamage Unseated as MP ! Supreme Court in Unanimous Ruling  States the  Samagi  Jana Balawegaya  Appointed National List MP is disqualified to be a Parliamentarian as she has no Sri Lankan Citizenship.
+
+*2024-05-08 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83996) · `en`
+
+The Supreme Court in a unanimous verdict delivered yesterday unseated State Minister Diana Gamage.
+
+The Court held that Gamage was disqualified to be a Parliamentarian as she has no Sri Lankan citizenship. As a result a new seat in Parliament opens up for Samagi Jana Balawegaya (SJB).
+
+Justice Janak De Silva reading portions of the judgment in open court said that Gamage has failed to prove her Sri Lankan citizenship before the Court.
+
+“Besides, all that the 1st Respondent needs to do is to provide the relevant declaration made by the Minister or the exemption granted to her. That may well have been the answer to the pending criminal proceedings.” he said.
+
+Commenting on the Court of Appeal judgment which dismissed the initial Petition filed against Diana Gamage, Justice De Silva said that there was an issue which has caused him “great concern.” “I am constrained to address another point relied on by the Appellant, which has caused
+
+...
+
+[Data](articles/6047b5f6.json)
 
 ---
 
@@ -2083,167 +2209,5 @@ It is reported that Diyan Gamage is to be sent to the Election Commission for th
 [Data](articles/9a407c46.json)
 
 [Extended Data](ext_articles/9a407c46.ext.json)
-
----
-
-### My role is running out now - President
-
-*2024-05-08 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196399) · `si`
-
-President Ranil Wickremesinghe concludes his role in stabilizing Sri Lanka's economy, focusing on renewable energy, including wind and solar, and discusses potential energy sales to India.
-
-🟩
-
-President Ranil Wickremesinghe says that the role of stabilization of the country's economy is concluding and now we should focus on the next step.
-
-He was speaking at the Sri Lanka Climate Conference in Colombo.
-
-"As the president as the President Restoring the economy. In other words, stabilizing the economy. That role is concluding now. Now we need to focus on the next step. We cannot go forward along this economic model. Sri Lanka is definitely renewable energy. One of these is the wind energy. Now we look at whether the birds of the Mannar district have an impact due to strong winds projects.
-
-We are sure that we can create the same energy in that area, and that can generate the energy. The excitement of solar power in Hambantota originated only.
-
-Although we may get far away, Sri Lanka includes energy to sell energy to India on the Future to Indian Prime Minister Mogi.
-
-Now we have agreed to have the Grid connection. The first agreement with the invalidation completed before the days. "
-
-◼️
-
-[Data](articles/cb61de1d.json)
-
-[Extended Data](ext_articles/cb61de1d.ext.json)
-
----
-
-### No airline in the world making profits: Minister
-
-*2024-05-08 13:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-airline-in-the-world-making-profits-Minister/108-282174) · `en`
-
-Parliament, May 08 (Daily Mirror)- No airline in the world is making any profits and it is a situation inherent to all airlines, Civil Aviation Minister Nimal Siripala de Silva said today.
-
-He told Parliament that airlines even in rich countries such as Air India, BOAC and Swiss Airlines were not profit making and some were sold out.
-
-Responding to a question by SJB MP Hesha Vithanage, the Minister said Air India was sold out to Tata due to losses and added that Emirates was provided some USD 2 to 3 billion by the government every year.
-
-He said a small country like Sri Lanka is not in a position to maintain an airline in that manner.
-
-"We have no funds to purchase aircraft. We cannot invest a large capital. We take flights on lease. We need to join with a group which can bring in a large capital so as to continue the airline to ensure the job security of 6,000 employees," he said.
-
-...
-
-[Data](articles/77d23ce6.json)
-
-[Extended Data](ext_articles/77d23ce6.ext.json)
-
----
-
-### Sri Lanka Freedom Party anti-Sirisena faction says its appointments are legal
-
-*2024-05-08 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-freedom-party-anti-sirisena-faction-says-its-appointments-are-legal-162086/) · `en`
-
-ECONOMYNEXT — The faction of the Sri Lanka Freedom Party (SLFP) that’s opposed to former president Maithripala Sirisena has said its appointments to the party hierarchy are now legal in light of a fresh verdict by the Court of Appeal.
-
-“So our appointments are legal, is what we say,” SLFP acting chairman and Aviation Minister Nimal Siripala de Silva said speaking to reporters.
-
-He made this remark after the Court of Appeal reportedly rejected a petition filed by Minister of Justice Wijeyadasa Rajapakshe challenging an injunction order by the Colombo District Court preventing him from functioning as the SLFP’s acting chairman.
-
-According to media reports, the Court of Appeal had said the relevant orders in that regard should be obtained from the District Court.
-
-...
-
-[Data](articles/ec8c6aeb.json)
-
-[Extended Data](ext_articles/ec8c6aeb.ext.json)
-
----
-
-### Sri Lanka to sit-out COP if there is no agreement, climate funding: President
-
-*2024-05-08 13:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sit-out-cop-if-there-is-no-agreement-climate-funding-president-162047/) · `en`
-
-ECONOMYNEXT – Sri Lanka will sit out the international climate summit, Conference of Parties, in future if there continues to be a lack of cohesion in solutions to tackle climate change among world leaders, President Ranil Wickremesinghe said.
-
-“The global community has still not been able to come together on an agreement of how we are to deal with the challenges. From COP meeting to COP meeting we have gone there, and there is a lot of talk. But unfortunately, there has been no agreement,” Wickremesinghe said at Code Red climate summit organized by the Ceylon Chamber of Commerce.
-
-“I don’t think we can go on and on meeting like this. In the next two meetings either we must come to some agreement or give this up. That’s what Sri Lanka plans to tell the COP.”
-
-The President said that the funding that Sri Lanka was awaiting from the Conference of Parties held in Glasgow in 2021, was not received.
-
-...
-
-[Data](articles/3ae83915.json)
-
-[Extended Data](ext_articles/3ae83915.ext.json)
-
----
-
-### More than two million money and property is missing in a French national couple
-
-*2024-05-08 13:00:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රංශ-ජාතික-යුවළක්-සතුව-තිබී-ලක්ෂ-දෙකකට-වැඩි-මුදල්-හා-දේපල-අස්ථානගතවෙලා/11-409497) · `si`
-
-A French couple on a SLTB trip from Colombo to Anuradhapura reported over Rs. 2 million missing. An investigation is underway, following a complaint about their wallet being emptied.
-
-🟩
-
-A SLTB bus to visit Sri Lanka, a French couple of the SLTB from Colombo from Colombo to Colombo to Anuradhapura has launched an investigation.
-
-The complaint had already been lodged after he was speaking at the investigation of the couple's visit to their wallet.
-
-According to the complaint, the Ceylon Money contained a total of Rs.
-
-A team of officers and tourism police officers in the Anuradhapura headquarters are conducting further investigations.
-
-◼️
-
-[Data](articles/8938220f.json)
-
-[Extended Data](ext_articles/8938220f.ext.json)
-
----
-
-### Decision on University Executive Officers’ strike
-
-*2024-05-08 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99078/decision-on-university-executive-officers-strike) · `en`
-
-The Union of University Executive Officers has signaled its intent to intensify ongoing trade union actions should no permanent solution is received for their issues during the discussions to be held today (08).
-
-The Union of University Executive Officers launched a trade union action on May 03 protesting against the salary reductions.
-
-Commenting in this regard, Senior Secretary of Colombo University and Patron of the Union of University Executive Officers Sampath Udayanga said that during today’s discussion, the cabinet paper pertaining to the their salary cuts will be reviewed and a solution is expected in the near future.
-
-He also mentioned that a protest will be held in conjunction with the strike today.
-
-Meanwhile, K.L.D.G. Richmond, the Co-secretary of the Inter-University Trade Union Federation stated that the ongoing strike of university non-academic staff continues today for the seventh consecutive day.
-
-◼️
-
-[Data](articles/85f5bc82.json)
-
-[Extended Data](ext_articles/85f5bc82.ext.json)
-
----
-
-### Police break into Manna Ramesh's house
-
-*2024-05-08 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196398) · `si`
-
-Police found a foreign hand grenade, a motorcycle, and a criminal in Manna Ramesh's house in Avissawella, Yalagama. The suspect was hidden in Napaviyawela. The Criminal SSP Janaka Kumara of the Western Province Criminal Division is investigating.
-
-🟩
-
-The Western Province Criminal Division, a foreign hand grenade and a motorcycle were found in the country, and a motorbike was able to find out from the state of Dubai and an organized criminal.
-
-The suspect was found hidden in the suspect's Avissawella, Yalagama, the Napavwela house in Napaviyawela.
-
-The hand grenade was found while buried inside the house, while the motorcycle was found hidged behind the house.
-
-Western Province Southern Province District with the signature of the Criminal SSP Janaka Kumara, the suspects will be held in the Criminal Division and conducting further investigations.
-
-Thereafter, the interval of the Secretary to the Ministry of Defense is due to be obtained on the approval of the Secretary to the Ministry of Defense.
-
-◼️
-
-[Data](articles/90a0375e.json)
-
-[Extended Data](ext_articles/90a0375e.ext.json)
 
 ---

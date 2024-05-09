@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 19:33:41**
+As of **2024-05-09 19:51:31**
 
 ## Newspaper Stats
 
-*Scraped **23,003** Articles*
+*Scraped **23,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,952
 tamilmirrorlk | 2,692
-adaderanalk | 2,698
+adaderanalk | 2,700
 virakesarilk | 3,420
 dailymirrorlk | 3,612
 adaderanasinhalalk | 3,683
@@ -26,11 +26,45 @@ adaderanasinhalalk | 3,683
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,001 (100.0%) of 23,003 articles have been extended.
+23,003 (100.0%) of 23,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Mujibur Rahman’s name gazetted as SJB MP
+
+*2024-05-09 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99116/mujibur-rahmans-name-gazetted-as-sjb-mp) · `en`
+
+A Gazette notification has been issued stating that Mujibur Rahman has been nominated by the Samagi Jana Balawegaya (SJB) to fill the vacancy in Parliament created by the disqualification of Diana Gamage as Member of Parliament by a Supreme Court verdict.
+
+Accordingly, the Election Commission, acting under section 64(5) of the Parliamentary Elections Act, No. 1 of 1981 read with provisions of the Constitution of the Democratic Socialist Republic of Sri Lanka, has announced that Mohamad Mujibur Rahman was declared elected as a Member of Parliament to fill the vacancy created due to the determination of the Supreme Court cancelling the parliamentary membership of Diana Gamage aforesaid.
+
+The Secretary-General of Parliament informed the Election Commission that a Parliamentary seat in the Ninth Parliament has become vacant from 08 May 2024, due to the cancellation of parliamentary seat of Member of Parliament Diana Gamage.
+
+...
+
+[Data](articles/3b668b92.json)
+
+---
+
+### Sri Lanka squad named for T20 World Cup 2024
+
+*2024-05-09 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99115/sri-lanka-squad-named-for-t20-world-cup-2024) · `en`
+
+The Cricket Selection Committee has selected a 15-member squad to take part in the upcoming ICC Men’s T20 World Cup, Sri Lanka Cricket (SLC) said.
+
+The squad has received approval of the Minister of Sports and Youth Affairs, Harin Fernando.
+
+Issuing a statement, Sri Lanka Cricket (SLC) said the team will depart for the World Cup on May 14, 2024.
+
+The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from June 01 to June 29, 2024.
+
+◼️
+
+[Data](articles/0960b87a.json)
+
+---
 
 ### Here is the Sri Lankan cricket squad for the Twenty20 World Cup
 
@@ -61,6 +95,8 @@ Under the captaincy of Wanindu Hasaranga, and with Charith Asalanka serving as t
 ◼️
 
 [Data](articles/4e203e7a.json)
+
+[Extended Data](ext_articles/4e203e7a.ext.json)
 
 ---
 
@@ -2257,51 +2293,5 @@ The notice has been made in terms of Section 64 (1) of the Parliament Election A
 [Data](articles/aca99959.json)
 
 [Extended Data](ext_articles/aca99959.ext.json)
-
----
-
-### Sri Lanka has stabilized under IMF deal, sustainable growth next: President
-
-*2024-05-09 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-has-stabilized-under-imf-deal-sustainable-growth-next-president-162230/) · `en`
-
-ECONOMYNEXT – Sri Lanka has seen good results under the International Monetary Fund program, but the country has to complete debt restructuring and continue on a reform path to ensure strong growth, President Ranil Wickremesinghe said.
-
-“A lot of good results (sadaneeya prathilaba resak) are coming from the IMF program,” Wickremesinghe said. “An appreciating rupee has brought down prices of imported goods, including milk powder and gas. The falling interest rates are benefiting businesses.”
-
-“Going beyond stability now we have to get on a sustainably path.”
-
-“We are not paying all debt now, we have to start paying. For that we need to increase state revenues and our foreign reserves. We have to optimise our resources.”
-
-“We have to do debt restructuring. We are drafting MoUs with official creditors including the Paris Club, the Official Creditors Committee (OCC), and China Exim Bank separately.
-
-...
-
-[Data](articles/ef9a5d2e.json)
-
-[Extended Data](ext_articles/ef9a5d2e.ext.json)
-
----
-
-### Sajith is the reason for all the problems
-
-*2024-05-09 11:04:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பிரச்சினைகளுக்கும்-சஜித்-தான்-காரணம்-ரணில்/175-337015) · `ta`
-
-President Ranil Wickremesinghe suggested that appointing Sajith Premadasa as Prime Minister could solve the country's problems, emphasizing the need for a parliamentary debate on these issues.
-
-🟩
-
-President Ranil Wickremesinghe said that the opposition leader Sajith Premadasa should be fully appointed to the problems faced by the country and said that if Premadasa was sworn in as Prime Minister on April 10, there would be no problem.
-
-Sajith Premadasa made this statement when he asked the President some explanations on the special report made in Parliament today.
-
-“I think it is better to have a debate in Parliament on these issues. There are various ideas on this.
-
-I would like to tell the opposition leader that he should fully address all these issues. If he was sworn in as Prime Minister on April 10, there was no problem. These issues are dealing with these issues to suit my ability, ”the President said.
-
-◼️
-
-[Data](articles/33c78ac3.json)
-
-[Extended Data](ext_articles/33c78ac3.ext.json)
 
 ---

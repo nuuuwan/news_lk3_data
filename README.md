@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 00:33:26**
+As of **2024-05-10 00:48:56**
 
 ## Newspaper Stats
 
-*Scraped **23,042** Articles*
+*Scraped **23,043** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 203
+colombotelegraphcom | 204
 bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,042 (100.0%) of 23,042 articles have been extended.
+23,042 (100.0%) of 23,043 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -837,6 +837,20 @@ Sri Lanka Cricket (SLC) has announced the Sri Lankan squad today (09).
 [Data](articles/a821866a.json)
 
 [Extended Data](ext_articles/a821866a.ext.json)
+
+---
+
+### From Socialism To Success: Sweden’s Economic Evolution
+
+*2024-05-09 18:58:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/from-socialism-to-success-swedens-economic-evolution/) · `en`
+
+Both Sweden and Sri Lanka profess to follow Democratic Socialism. But Sweden has seemingly produced a more successful economy. This has led to the popularly held belief that Sweden is an example of Democratic Socialism done right. In this article a brief economic history of Sweden is provided (as published in “The Power of Capitalism” by Rainer Zitelmann). The details show that this popular belief is in fact incorrect.
+
+In the early 19th century Sweden was a very poor country. This was due to the existence of guilds which hindered the freedom of trade and imposed price controls. However, in 1846 the guilds were abolished, and in 1865 complete freedom of trade resembling a free-market with low taxes was introduced. This led to 100 years of tremendous growth. This growth significantly exceeded other European countries such as Germany, Italy and France. Globally it was the second highest in per capita GDP, exceeded only by Japan, and twice as high as in the UK.
+
+...
+
+[Data](articles/a4ae0ba4.json)
 
 ---
 
@@ -2295,21 +2309,5 @@ Issuing a notice signed by its chairman R.M.A.L. Ratnayake, the Election Commiss
 [Data](articles/332c58b0.json)
 
 [Extended Data](ext_articles/332c58b0.ext.json)
-
----
-
-### Election Commission announcement on Presidential Poll date
-
-*2024-05-09 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99106/election-commission-announcement-on-presidential-poll-date) · `en`
-
-The Election Commission of Sri Lanka say it will call for the nominations to hold the presidential election within the specified timeframe in terms of the provisions of the Constitution and the Presidential Elections Act, No. 15 of 1981.
-
-Issuing an announcement today (09), the Election Commission also said that by virtue of the powers vested in the commission to fix the date for the election, it will hold the presidential election between 17th September and 16th October 2024.
-
-◼️
-
-[Data](articles/8947637a.json)
-
-[Extended Data](ext_articles/8947637a.ext.json)
 
 ---

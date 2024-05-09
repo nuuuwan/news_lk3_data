@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-10 02:33:33**
+As of **2024-05-10 02:52:07**
 
 ## Newspaper Stats
 
@@ -26,41 +26,57 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,050 (100.0%) of 23,057 articles have been extended.
+23,057 (100.0%) of 23,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-10 (Friday)
 
-### தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு அரசாங்கத்தின் நாடகம் - ஹரினி அமரசூரிய
+### Plantation workers' salary increase -Harini Amarasuriya
 
 *2024-05-10 02:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/183101) · `ta`
 
-தோட்டத் தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பான வர்த்தமானி அறிவிப்பு பெருந்தோட்ட மக்களை ஏமாற்றும் நடவடிக்கை. அவ்வாறு அவர்களுக்கு சம்பள அதிகரிப்பு மேற்கொள்ள தேவை இருக்குமாக இருந்தால் அரசாங்கம் அவர்களின் அடிப்படை சம்பளத்தில் மாற்றத்தை ஏற்படுத்தி இருக்கவேண்டும் என தேசிய மக்கள் சக்தி உறுப்பினர் ஹரினி அமரசூரிய தெரிவித்தார்.
+Harini Amarasuriya criticizes the government's plan to increase plantation workers' daily wage to 1700 rupees, arguing it's a deceptive move. She suggests changing the basic salary instead. The government's gazette notification, she claims, is a ploy to mislead workers, as plantation companies are likely to challenge it. She also criticizes an amendment aimed at protecting night-shift women workers, arguing it fails to address their real issues like transport facilities.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (9) இடம்பெற்ற  கடை,அலுவலக ஊழியர்(ஊழியத்தையும் வேதனத்தையும் ஒழுங்குப்படுத்தல்) (திருத்தச்) சட்ட மூலம் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-பெருந்தோட்ட தொழிலாளர்களின் நாளாந்த சம்பளத்தை 1700 ரூபாவாக அதிகரித்து  அரசாங்கம் வர்த்தமானி அறிவித்தல் வெளியிட்டிருக்கிறது. இது தொழிலாளர்களை ஏமாற்றும் நாடகமாகும். அரசாங்கம் பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தை அதிகரிப்பதாக இருந்தால், அவர்களின் அடிப்படை சம்பளத்தில் மாற்றம் செய்து  அதன் மூலம் அடிப்படை சம்பளத்தை 1700 ரூபாவாக மாற்றியமைத்திருக்க வேண்டும்.
+Gazette Notification on Plantation Workers' Salary Increase Action. National People's Power Member Harini Amarasuriya said the government should change their basic salary if they need to carry out a salary increase.
+
+He said this while addressing the debate on the Parliament on Thursday (9).
+
+The government has issued a gazette notification to increase the daily salary of plantation workers to 1700 rupees. This is the play that deceives workers. If the government is increasing the salaries of plantation workers, they must change their basic salary and thereby convert the base salary to 1700 rupees.
+
+On the contrary. Salary Increase is a play -labeled play by the president on May 1st. Everyone, including the President and the Minister of Labor, know that plantation companies go to court against the gazette notification. They know that this cannot be implemented.
+
+So the salary increase for plantation workers is a gazette notification to mislead the plantation workers and deceive them.
 
 ...
 
 [Data](articles/8ba60342.json)
 
+[Extended Data](ext_articles/8ba60342.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் விபச்சார வீடு முற்றுகை - நால்வர் கைது
+### Prostitution house siege in Jaffna - four arrested
 
 *2024-05-10 01:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/183100) · `ta`
 
-யாழ்ப்பாணம் கந்தர் மடப்பகுதியில் இயங்கி வந்த விபச்சார வீடு ஒன்று வியாழக்கிழமை (9) யாழ்ப்பாண சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஜெகத் நிசாந்தவின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்குக் கிடைத்த இரகசிய தகவலை அடுத்து மாவட்ட பொலிஸ் குற்றத் தடுப்பு பிரிவினரின் உதவியுடன் முற்றுகை இடப்பட்டுள்ளது.
+A prostitution house in Jaffna's Kandar monastery was raided by the District Police Crime Unit, leading to the arrest of four individuals, including women from Point Pedro and Neerveli. The operation followed a tip from Senior Superintendent Jagath Nishantha, with further investigations ongoing.
 
-குறித்த முற்றுகையில் பருத்தித்துறை மற்றும் நீர்வேலி பிரதேசங்களைச் சேர்ந்த பெண்களும் ஆண் ஒருவர் உள்ளடங்கலாக வீட்டின் உரிமையாளரான முதியோர் உட்பட நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்களிடம் பொலிசார் மேலதிக விசாரணைகளை மேற்கொண்டு வரும் நிலையில் நீதிமன்றத்தில் முற்படுத்துவதற்குரிய நடவடிக்கைகள் இடம்பெற்று வருகிறது.
+A prostitute operating in the Kandar monastery in Jaffna has been siege with the help of the District Police Crime Unit following the confidential information received by the Senior Superintendent of Police, Jagath Nishantha, Jaffna, Jegath Nishantha.
+
+Four persons, including the elderly, have been arrested, including women from Point Pedro and Neerveli areas.
+
+The police are conducting further investigations to the arrested persons.
 
 ◼️
 
 [Data](articles/e06aff42.json)
+
+[Extended Data](ext_articles/e06aff42.ext.json)
 
 ---
 
@@ -164,59 +180,83 @@ When the heat of seawater increases more than usual, corals lose their color and
 
 ---
 
-### பஞ்சாப் கிங்ஸை 60 ஓட்டங்களால் வென்றது றோயல் செலஞ்சர்ஸ்  பெங்களூரு ; துடுப்பாட்டத்தில் அசத்தும் கோஹ்லி 600 ஓட்டங்களைக் கடந்தார்
+### Royal Challengers Bangalore beat Punjab Kings by 60 runs;Kohli Kohli crossed 600 runs
 
 *2024-05-10 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183099) · `ta`
 
-தரம்சாலா, ஹிமாச்சல் ப்ரதேஷ் கிரிக்கெட் சங்க விளையாட்டரங்கில் வியாழக்கிழமை (09) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 58ஆவது போட்டியில் பஞ்சாப் கிங்ஸை 60 ஓட்டங்களால் றோயல் செலஞ்சர்ஸ்  பெங்களூரு இலகுவாக வெற்றிகொண்டது.
+In the 58th match of the 17th IPL, Royal Challengers Bangalore (RCB) defeated Punjab Kings by 60 runs. Virat Kohli, with 634 runs in 12 innings, including 5 centuries, was the standout performer, crossing the 600-run mark. RCB's batting, led by Kohli's 47 (47 balls), Rajat Patidar's 55 (23 balls), and Glenn Maxwell's 92 (46 balls), reached 241/7 in 20 overs. Punjab Kings, starting poorly with opener Prabsimran Singh out for 6, could only manage 181/10 in 17 overs, with Riley Roussev's 61 (27 balls) being their top score. Mohammad Siraj and Shahbaz Ahmed took 3 wickets each for RCB, while Punjab's bowling was led by Rahul Chahar with 3 wickets.
 
-விராத் கோஹ்லி, ரஜாத் பட்டிடார், கெமரன் க்றீன் ஆகியோரின் அதிரடிகளும் பந்துவீச்சாளர்களின் கட்டுப்பாடான பந்துவீச்சுகளும் றோயல் செலஞ்சர்ஸ் பெங்களூருவின் வெற்றியில் முக்கிய பங்காற்றின.
+🟩
 
-இன்றைய போட்டியில் அதிரடியாக ஓட்டங்களைக் குவித்த விராத் கோஹ்லி 12 இன்னிங்ஸ்களில் ஒரு சதம், 5 சதங்களுடன் மொத்தமாக 634 ஓட்டங்களைப் பெற்றுள்ளார். அவர் மாத்திரமே இவ்வருட போட்டிகளில் இதுவரை 600 ஓட்டங்களைக் கடந்த ஒரே ஒரு வீரராவார்.
+Royal Challengers Bangalore won the Punjab Kings by 60 runs in the 58th match of the 17th Indian Premier League chapter held at the Dharamsala, Himachal Pradesh Cricket Association on Thursday night (09).
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட றோயல் செலஞ்சர்ஸ் பெங்களூரு 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 241 ஓட்டங்களைக் குவித்தது.
+The actions of Virat Kohli, Rajad Patidar and Kemaran Green and the bowling of the bowlers played a key role in the success of Royal Challengers Bangalore.
 
-அதிரடி வீரர் அணித் தலைவர் பவ் டு ப்ளெசிஸ் 9 ஓட்டங்களுடனும் வில் ஜெக்ஸ் 12 ஓட்டங்களுடனும் ஆட்டம் இழக்க 5ஆவது ஓவரில் மொத்த எண்ணிக்கை 43 ஓட்டங்களாக இருந்தது.
+Virat Kohli scored a total of 634 runs in 12 innings and 5 centuries. He is the only player who has scored 600 runs in this year's matches.
+
+Royal Challengers Bangalore, who was first invited to bat first, scored 241 runs for the loss of 7 wickets in 20 overs.
+
+The total number was 43 runs in the 5th over to lose the game with 9 runs and Wil Jax 12.
+
+Virat Kohli then contributed to two valuable mergers and strengthened the total number of the team.
+
+Virat Kohli shared 76 runs off 32 balls with Rajat Patidar for the third wicket and shared 92 runs off 46 balls with Kemaran Kreen in the 4th wicket.
 
 ...
 
 [Data](articles/2b9ea770.json)
 
+[Extended Data](ext_articles/2b9ea770.ext.json)
+
 ---
 
-### ஐ.நா. வதிவிட ஒருங்கிணைப்பாளருக்கும் தேசிய மக்கள் சக்தியின் தலைவருக்கும் இடையிலான சந்திப்பு
+### The UN. Meet between resident coordinator and leader of national people's power
 
 *2024-05-10 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183098) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் இலங்கைக்கான வதிவிட ஒருங்கிணைப்பாளர்  மார்க் - ஆன்ட்ரே பிராஞ்ச்  (Marc-André Franche) அவர்களுக்கும் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்கவுக்கும் இடையிலான சந்திப்பு வியாழக்கிழமை (09) பிற்பகல் ம.வி.மு. தலைமை அலுவலகத்தில் இடம்பெற்றது.
+The UN Resident Coordinator for Sri Lanka, Mark-Andre Franche, met with National People's Power President Anura Kumara Dissanayake to discuss Sri Lanka's human rights, unity, and reconciliation. The UN team, including Patrick McCarthy and Nethmini Medawala, highlighted their observation of Sri Lanka's reconciliation process and the importance of political norms in upcoming elections. The National People's Power, emphasizing its moral political culture, pledged full cooperation with the UN's proposals.
 
-இந்தச் சந்திப்பில் ஐக்கிய நாடுகள் சபையின் சமாதானம் மற்றும் அபிவிருத்திக்கான ஆலோசகர் பெட்ரிக் மெகார்த்தி (Patrick McCarthy) அவர்கள், சமாதானம்  மற்றும் அபிவிருத்திக்கான பகுப்பாய்வாளர் நெத்மினி மெதவல அவர்கள் மற்றும் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் தோழர் விஜித ஹேரத்தும் கலந்துகொண்டிருந்தனர்.
+🟩
 
-இந்தச் சந்திப்பின்போது இலங்கையின் நடப்பு மனித உரிமைகளின் நிலைமை, ஒற்றுமை மற்றும் நல்லிணக்க செயன்முறை பற்றி இரு தரப்புக்கும் இடையில் விரிவாக கருத்துக்கள் பரிமாறப்பட்டன. குறிப்பாக இலங்கையில் நல்லிணக்க செயன்முறையை உன்னிப்பாக அவதானிப்பதாக சுட்டிக்காட்டிய ஐக்கிய நாடுகள் சபையின் பிரதிநிதிகள் எதிர்வரும் தேர்தல் செயன்முறைக்குள் அரசியல் கட்சிகளால் பின்பற்றபட வேண்டிய நெறிமுறைகள் குறித்தும் கவனம் செலுத்தினர்.
+United Nations Resident Coordinator for Sri Lanka Mark -Andre Franche and National People's Power President Anura Kumara Dissanayake on Thursday afternoon. Featured in the head office.
 
-...
+The meeting was attended by the United Nations Peace and Development Advisor Patrick McCarthy, Analyst for Peace and Development, Nethmini Medawala and Comrade Vijitha Herath of the National People's Power.
+
+During the meeting, the two sides exchanged extensive comments about the situation of Sri Lanka's current human rights, unity and reconciliation process.. The United Nations representatives, in particular, pointed out that they are closely observing the reconciliation process in Sri Lanka, focused on the norms to be followed by political parties within the upcoming election process.
+
+The National People's Power, which emphasized that its political culture was based on morality from the beginning, said it would provide its full cooperation to the proposed proposals by the United Nations representatives.
+
+◼️
 
 [Data](articles/958fda9b.json)
+
+[Extended Data](ext_articles/958fda9b.ext.json)
 
 ---
 
 ### 2024-05-09 (Thursday)
 
-### முஜிபுர் ரஹ்மானை தேசியப் பட்டியல் எம்பியாக நியமித்து வெளியானது வர்த்தமானி : நாளை சத்தியப்பிரமாணம் !
+### Mujibur Rahman was appointed as National List MP
 
 *2024-05-09 22:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183097) · `ta`
 
-இராஜாங்க அமைச்சர் டயனா கமகேவின் பாராளுமன்ற உறுப்பினர் பதவி நீக்கப்பட்ட நிலையில் வெற்றிடமாகியுள்ள பாராளுமன்ற உறுப்பினர் பதவிக்கு முஜிபுர் ரஹ்மானை நியமித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+Mujibur Rahman is appointed as a National List MP following Diana Kamage's dismissal. The Supreme Court confirmed Kamage's eligibility, and Rahman's name was proposed to the Election Commission, leading to his appointment. He will be sworn in on Friday, the 10th.
 
-இராஜாங்க அமைச்சர் டயனா கமகே பாராளுமன்ற உறுப்பினர் பதவியை வகிக்க சட்டரீதியாக தகுதியற்றவர் என உயர் நீதிமன்றம் வியாழக்கிழமை ( 08 ) அறிவித்தது.
+🟩
 
-இந்நிலையில், குறித்த வெற்றிடத்திற்கு முஜிபுர் ரஹ்மானின் பெயர் முன்மொழியப்பட்டு, தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பப்படள்ள நிலையில்,  முஜிபுர் ரஹ்மானை பாராளுமன்ற உறுப்பினராக நியமித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+The gazette notification has been issued by appointing Mujibur Rahman for a vacant parliamentary post after the dismissal of Minister of State for Minister of State Diana Kamage has been sacked.
 
-இந்நிலையில், முஜிபுர் ரஹ்மான் வெள்ளிக்கிழமை 10 ஆம் திகதி காலை பாராளுமன்றில் தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினராக சபாநாயகர் முன்னிலையில் சத்தியப்பிரமாணம் செய்யவுள்ளமை குறிப்பிடத்தக்கது.
+The Supreme Court on Thursday announced that the Minister of State Diana Kamage is legally eligible to hold the post of MP.
+
+In this case, Mujibur Rahman's name has been proposed and sent to the Election Commission, which has been issued to Mujibur Rahman as a Member of Parliament.
+
+In this case, Mujibur Rahman will be sworn in as the National List Member of Parliament on Friday the 10th of this month.
 
 ◼️
 
 [Data](articles/d0eb5be9.json)
+
+[Extended Data](ext_articles/d0eb5be9.ext.json)
 
 ---
 
@@ -238,19 +278,27 @@ The wildlife officers stated that they seized a large number of jars in which th
 
 ---
 
-### நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளதாக ஜனாதிபதி தெரிவித்தாலும் மக்களின் தோல்மீது சுமைகள் அதிகரித்துள்ளது - சஜித் பிரேமதாச
+### The President has said that the country has returned to normalcy
 
 *2024-05-09 22:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/183096) · `ta`
 
-நாடு இயல்பு நிலைக்குத் திரும்பியுள்ளதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க கூறினாலும், நாட்டின் பொருளாதாரத்தில் வளர்ச்சி ஏற்படவில்லை. பொருட்களின் விலை அதிகரித்து மக்கள் வாழ்வதற்குப் போராட வேண்டிய நிலையே இருக்கிறது என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Despite President Ranil Wickremesinghe's assertion of normalcy, the country faces economic challenges with rising commodity prices, increased poverty, and unemployment. The opposition criticizes the government's handling of the situation, highlighting the shrinking economy and the burden on citizens.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (9) ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் விசேட உரையைத் தொடர்ந்து தனது கருத்தை முன்வைத்து உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+🟩
 
-ஜனாதிபதி அடிக்கடி இந்த சபையில் தகவல்களை வெளியிட்டு கருத்துக்களை வெளியிட்டுள்ளார். அதன்போது அவர் தீப்பிடித்த நாடு மற்றும் நரகத்தை பொறுப்பேற்றதாகக் கூறியுள்ளார். சிலர் சவால்களை ஏற்றுக்கொள்ளாது நிபந்தனைகளை முன்வைக்கும் போது, தான் நிபந்தனைகள் இன்றி பொறுப்பேற்றதாகவும் கூறியுள்ளார். இந்நிலையில் நான் சில விடயங்களை முன்வைக்க வேண்டியுள்ளது.
+Although President Ranil Wickremesinghe says the country has returned to normal, the country's economy has not grown. Opposition leader Sajith Premadasa said that the price of commodities is rising and people have to fight for their lives.
+
+The Leader of the Opposition said this while addressing the special speech of President Ranil Wickremesinghe in Parliament on Thursday (9).
+
+The President has often made information in this congregation and comments. He said that he was in charge of the country and the hell of the fire. Some people have said that he is responsible for the conditions when he does not accept the challenges. In this case, I have to present some things.
+
+Whatever he says, the new normal condition has to be accepted. The economy is shrinking in this new normal state. People's lives have been affected. Poverty has increased and the unemployment has increased.
 
 ...
 
 [Data](articles/3afdea85.json)
+
+[Extended Data](ext_articles/3afdea85.ext.json)
 
 ---
 
@@ -412,23 +460,29 @@ The suspect, who is aged 25 years has come from Dubai and had arrived in the cou
 
 ---
 
-### மலேசியாவில் உயிரிழந்த மஸ்கெலியா இளைஞன்
+### Maskeliya youth died in Malaysia
 
 *2024-05-09 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/183095) · `ta`
 
-மஸ்கெலியா மொடிங்ஹேம் தோட்டத்தைச் சேர்ந்த ராஜகுமார் டேவிட்சன் என்ற 24 வயது இளைஞன் பணிக்காக மலேசியா சென்ற நிலையில் உயிரிழந்துள்ளார்.
+Rajakumar Davidson, a 24-year-old from Maskeliya, died in Malaysia after a boiler accident. He was injured on the 24th and died on the 5th without treatment. His body will be flown back to Sri Lanka on Wednesday.
 
-மலேசியா கோலாலம்பூரில் உள்ள உணவகம் ஒன்றில் பணிபுரிந்து வந்த நிலையில் கடந்த மாதம் 24 ஆம் திகதி கொதிகலன் (Boiler) குறித்த இளைஞன் மீது விழுந்ததில் படுகாயமடைந்து கோலாலம்பூரில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+🟩
 
-இந்நிலையில் கடந்த 5 ஆம் திகதி காலை சிகிச்சைப் பலனின்றி அவர் உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டிருந்த அந்நாட்டு பொலிஸார் இளைஞனின் குடும்பத்தினருக்கு அறிவித்துள்ளனர்.
+Rajakumar Davidson, a 24 -year -old youth from Maskeliya Modinghem estate, has died in Malaysia.
 
-இதையடுத்து இளைஞனின் சடலம் புதன்கிழமை (8) இரவு 11.30 மணிக்கு கட்டுநாயக்க விமான நிலையத்திற்குக் கொண்டுவரப்படவுள்ளது.
+He was admitted to a private hospital in Kuala Lumpur after being injured when a boiler was fell into a boiler on the 24th of last month.
 
-இந்நிலையில், இளைஞனின் தந்தையிடம் ஒப்படைக்கப்படவுள்ள  சடலம் அவரின் சொந்த ஊரான மஸ்கெலியா மொட்டிங்ஹேம் தோட்டத்திற்குக் கொண்டுசெல்லப்பட்டு இறுதி கிரிகைகள் இடம்பெறவுள்ளதாக அவரது தந்தை தெரிவித்தார்.
+Investigations have reported that he died without treatment on the morning of the 5th of this month.
+
+The body of the youth will be brought to the Katunayake airport at 11.30 pm on Wednesday (8).
+
+In this case, his father said that the body to be handed over to the young man's father would be taken to his hometown of Maskeliya Mottinghem.
 
 ◼️
 
 [Data](articles/cf75780c.json)
+
+[Extended Data](ext_articles/cf75780c.ext.json)
 
 ---
 

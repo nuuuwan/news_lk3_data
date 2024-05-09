@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 15:03:34**
+As of **2024-05-09 15:18:36**
 
 ## Newspaper Stats
 
-*Scraped **22,944** Articles*
+*Scraped **22,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 1,331
 adalk | 1,941
 tamilmirrorlk | 2,688
 adaderanalk | 2,692
-virakesarilk | 3,408
-dailymirrorlk | 3,604
-adaderanasinhalalk | 3,670
+virakesarilk | 3,412
+dailymirrorlk | 3,605
+adaderanasinhalalk | 3,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,942 (100.0%) of 22,944 articles have been extended.
+22,944 (100.0%) of 22,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### දකුණේ පාතාලය තවත් ජීවිතයක් බිලිගනී
+
+*2024-05-09 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196436) · `si`
+
+අහුංගල්ලේ ඊයේ (08) සිදුකළ වෙඩිතැබීමෙන් 54 හැවිරිදි කුරුඳු කර්මාන්තයේ යෙදුණු පුද්ගලයෙක් මියගොස් ඇති බව පොලීසිය පැවසීය.
+
+පොලීසිය පවසන්නේ මෙම පුද්ගලයා දකුණේ සිදුකළ ඝාතන සහ අපරාධ කිහිපයක සැකකරුවෙක් ලෙස සැලකෙන 'බබා' නමැත්තාගේ පියා බවය.
+
+දකුණේ පාතාල කල්ලි දෙකක් වන "කොස්ගොඩ සුජී" සහ "රත්ගම විදුර" පාර්ශ්ව අතර පවතින ගැටුමෙහි ප්‍රතිඵලයක් ලෙස මෙම ඝාතනය සිදුකර ඇති බවට පොලීසිය සැක පළකරයි.
+
+අහුංගල්ලේ, ලෝකන්වත්ත ප්‍රදේශයේ නිවසකට ඊයේ රාත්‍රී 7.40ට පමණ ස්කූටි වර්ගයේ යතුරුපැදියකින් තවත් පුද්ගලයෙක් සමග පැමිණි වෙඩික්කරුවෙක් විසින් මෙම වෙඩි තැබීම සිදුකළේය.
+
+වෙඩි ප්‍රහාරයෙන් හිසට දරුණු තුවාල සිදුවූ කීර්තිසේන බලපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගිය බව පොලීසිය පැවසුවේය.
+
+දියවැඩියාව රෝගයෙන් පීඩාවිඳි මරණකරු ඊයේ දිනයේදී අසනීප තත්ත්වය උත්සන්නවී වමනය දමමින් සිටියදී වෙඩික්කරු ඔහුට නිවසින් පිටතට කැඳවා වෙඩිතැබීම සිදුකරන අයුරු CCTV වීඩියෝවක දැක්වෙයි.
+
+...
+
+[Data](articles/fdea9fc5.json)
+
+---
+
+### செப்டம்பர் 17 முதல் ஒக்டோபர் 16ம் திகதிக்குள்   ஜனாதிபதி தேர்தல்
+
+*2024-05-09 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183061) · `ta`
+
+ஜனாதிபதித் தேர்தல் தொடர்பில் தேசிய தேர்தல்கள் ஆணைக்குழுவினால் விசேட அறிவித்தல் விடுக்கப்பட்டுள்ளது. அதற்கமைய, எதிர்வரும் செப்டெம்பர் 17ஆம் திகதிக்கும் ஒக்டோபர் 16ஆம் திகதிக்கும் இடையில் ஜனாதிபதித் தேர்தல் நடத்தப்படும் என தேர்தல் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+
+இன்று வியாழக்கிழமை விசேட அறிக்கையொன்றை வெளியிட்டு தேர்தல் ஆணைக்குழுவின் தவிசாளர் இதனைத் தெரிவித்திருந்தார்.
+
+◼️
+
+[Data](articles/8486980c.json)
+
+---
 
 ### Advisory issued for severe lightening: Heavy showers expected tomorrow
 
@@ -51,6 +87,36 @@ Meanwhile, the Meteorology Department stated that showers or thundershowers will
 ...
 
 [Data](articles/3823193e.json)
+
+[Extended Data](ext_articles/3823193e.ext.json)
+
+---
+
+### லேடி சுப்பர் ஸ்டார் நயன்தாரா நடிக்கும் 'மண்ணாங்கட்டி' படத்தின் படப்பிடிப்பு நிறைவு
+
+*2024-05-09 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183055) · `ta`
+
+தமிழ் திரையுலகின் லேடி சுப்பர் ஸ்டாராக திகழும் நடிகை நயன்தாரா கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'மண்ணாங்கட்டி 1960 முதல்' எனும் திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்திருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் அறிவித்திருக்கிறார்கள்.
+
+இயக்குநர் டியூட் விக்கி இயக்கத்தில் உருவாகி வரும் 'மண்ணாங்கட்டி 1960 முதல் ' எனும் திரைப்படத்தில் நயன்தாரா, யோகி பாபு, தேவதர்ஷினி, நாகேந்திர பிரசாத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். டி. ராஜசேகர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். கதையின் நாயகிக்கு முக்கியத்துவம் தரும் வகையில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பிரின்ஸ் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் லட்சுமணன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/2df7368d.json)
+
+---
+
+### முதன் முறையாக இணைந்திருக்கும் டி. இமான் - மனோ கூட்டணி
+
+*2024-05-09 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183050) · `ta`
+
+தமிழ் திரையிசையுலகில் பாடல் பெரிதா? இசை பெரிதா? எனும் விவாதம் பரபரப்பாக நடைபெற்று வரும் தருணத்தில் முதன்முறையாக இசையமைப்பாளர் டி. இமானின் இசையில் பின்னணி பாடகர் மனோ பாடல் ஒன்றை பாடியிருப்பதாக பிரத்யேக புகைப்படத்தை வெளியிட்டு 'லெவன்' படக் குழுவினர் உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+
+அறிமுக இயக்குநர் லோகேஷ் அஜில்ஸ் இயக்கத்தில் உருவாகி வரும் 'லெவன்' எனும் திரைப்படத்தில் நவீன் சந்திரா, ரியா ஹரி, அபிராமி, 'ஆடுகளம்' நரேன், திலீபன், ரித்விகா, அர்ஜெய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் அசோகன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். புலனாய்வு வகையிலான படைப்பாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ. ஆர். எண்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் அஜ்மல் கான் மற்றும் ரியா ஹரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/7301266a.json)
 
 ---
 
@@ -73,6 +139,70 @@ During the final qualifier match against Scotland, a sensational century from At
 ...
 
 [Data](articles/778dc2d7.json)
+
+[Extended Data](ext_articles/778dc2d7.ext.json)
+
+---
+
+### Popular Youtuber Will Davis exposes data breach in Sri Lanka’s visa system
+
+*2024-05-09 14:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Popular-Youtuber-Will-Davis-exposes-data-breach-in-Sri-Lankas-visa-system/108-282251) · `en`
+
+Colombo, May 9 (Daily Mirror) - Popular travel influencer Will Davis, also known as 'TrekTrendy' on YouTube, took to Instagram to raise alarm about a concerning data breach related to Sri Lanka's visa issuing system.
+
+Davis shared his distress over receiving daily emails containing tourist visas, complete with sensitive personal information such as full names, addresses and passport details.
+
+He said that despite having his visa approved a long time ago, he has been continuously receiving details of other applicants from VFS Global.
+
+“Some of you may remember the Sri Lanka visa saga a few weeks ago. Well, whilst mine has long been approved, each day I’ve been getting other tourists visas emailed to me complete with full names, address and passport info. How is this a thing?! I’ve reached out in an attempt to try and make these stop but what a massive data breach,” Will Davis posted on Instagram.
+
+...
+
+[Data](articles/b9de1a2c.json)
+
+---
+
+### யாழ் நகரில் வீதிப்பாதுகாப்பு விழிப்புணர்வு நடைபவனி
+
+*2024-05-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183048) · `ta`
+
+வீதிப்பாதுகாப்பு விழிப்புணர்வு நிகழ்ச்சித் திட்டத்தின் ஒரு பகுதியாக இன்று வியாழக்கிழமை மு.ப 8.30 மணியளவில் வேம்படிச் சந்தியிலிருந்து யாழ் போதனா வைத்தியசாலை வீதியூடாக காங்கேசன்துறை வீதி சத்திரச் சந்தி வரை வீதிப்பாதுகாப்பு விழிப்புணர்வு நடைபவனி இடம்பெற்றது.
+
+வீதியில் காணப்படும் இடர்பாடுகளுடைய இடங்களை அடையாளங்காணல், வீதிப் பாதுகாப்பு மற்றும் வாகன நடைமுறைகளைப் பின்பற்றல் பரிசோதனை போன்ற செயற்பாடுகள் நடைபெற்றன. குறித்த செயற்பாட்டை தொடர்ச்சியாக ஏனைய பகுதிகளில் நடத்தவும் தீர்மானிக்கப்பட்டுள்ளது.
+
+இந்நிகழ்வில் வடக்கு மாகாண பிரதம செயலாளர், வடக்கு மாகாண உள்ளூராட்சி அமைச்சின் செயலாளர்,யாழ்ப்பாண மாவட்ட பதில் செயலாளர், வடக்கு மாகாண மோட்டார் வாகன போக்குவரத்து திணைக்கள ஆணையாளர், மோட்டார் வாகன பரீட்சகர்கள்,  அதிகாரிகள், யாழ்ப்பாண பிரதேச செயலாளர், யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர், போக்குவரத்து பொலிஸார், வைத்தியர்கள், மாநகர சபை ஆணையாளர் உள்ளிட்ட துறைசார் அதிகாரிகள் என பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/0f220ed9.json)
+
+---
+
+### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
+
+*2024-05-09 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
+
+Over 200 Sri Lankan soldiers died in the Russian-Ukraine conflict, with hundreds more injured. A former soldier revealed that these men, recruited for foreign work, were killed on the Russian border. The conflict involved former officials and was orchestrated by an Indian citizen, Rames, with a Tamil-speaking accomplice in Russia. An Indian woman, resembling a lawyer, suggested that Sri Lankans should sign Russian documents to join the Wagner mercenary group.
+
+🟩
+
+A former soldier who fled the scene said hundreds of former soldiers who had been recruited from Sri Lanka for foreign work were killed in the murders on the Russian border.
+
+In an interview with a television, he said that more than 200 former soldiers from Sri Lanka have died and the same number are being treated in hospitals like Donetsk.
+
+He also said that the former retired former officials chose me to work at the Russian Ukraine battlefield.
+
+The Indian citizen Rames is the mastermind of the activities and said that a person who spoke in Tamil in Russia greeted us.
+
+An Indian woman who looked like a Attorney -at -Lawyer who said that Sri Lankans going to tourists should be signed in a Russian language document to be included in the Wagner mercenary for the recruitment of the Wagner mercenary.
+
+He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 days.
+
+◼️
+
+[Data](articles/36f33d98.json)
+
+[Extended Data](ext_articles/36f33d98.ext.json)
 
 ---
 
@@ -607,34 +737,6 @@ Brother Lal Kantha, our party's word mistakes are mistaken about Diana, the part
 [Data](articles/6b3cfdc0.json)
 
 [Extended Data](ext_articles/6b3cfdc0.ext.json)
-
----
-
-### More than 200 Sri Lankan soldiers have died at the Russian Ukraine war
-
-*2024-05-09 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/183043) · `ta`
-
-Over 200 Sri Lankan soldiers died in the Russian-Ukraine conflict, with hundreds more injured. A former soldier revealed that these men, recruited for foreign work, were killed on the Russian border. The conflict involved former officials and was orchestrated by an Indian citizen, Rames, with a Tamil-speaking accomplice in Russia. An Indian woman, resembling a lawyer, suggested that Sri Lankans should sign Russian documents to join the Wagner mercenary group.
-
-🟩
-
-A former soldier who fled the scene said hundreds of former soldiers who had been recruited from Sri Lanka for foreign work were killed in the murders on the Russian border.
-
-In an interview with a television, he said that more than 200 former soldiers from Sri Lanka have died and the same number are being treated in hospitals like Donetsk.
-
-He also said that the former retired former officials chose me to work at the Russian Ukraine battlefield.
-
-The Indian citizen Rames is the mastermind of the activities and said that a person who spoke in Tamil in Russia greeted us.
-
-An Indian woman who looked like a Attorney -at -Lawyer who said that Sri Lankans going to tourists should be signed in a Russian language document to be included in the Wagner mercenary for the recruitment of the Wagner mercenary.
-
-He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 days.
-
-◼️
-
-[Data](articles/36f33d98.json)
-
-[Extended Data](ext_articles/36f33d98.ext.json)
 
 ---
 
@@ -2131,115 +2233,5 @@ May  1st 2024 saw   –   according to some newspapers –   41 May Day related 
 [Data](articles/5fbb9b96.json)
 
 [Extended Data](ext_articles/5fbb9b96.ext.json)
-
----
-
-### SJB’s Mujibur to replace Diana
-
-*2024-05-09 03:06:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-s-Mujibur-to-replace-Diana/56-761576) · `en`
-
-SJB leader Sajith Premadasa confirms Mujibur Rahman will replace Diana Gamage in Parliament
-
-SJB MP Nalin Bandara says Gamage’s ousting is a relief to both Parliament and Speaker Mahinda Yapa Abeywardene
-
-SJB Weligama Electorate Organiser Rehan Jaawickreme calls for Gamage’s arrest for flouting immigration laws
-
-Accuses her of forging documents to obtain SJB ticket to contest
-
-Samagi Jana Balawegaya (SJB) leader Sajith Premadasa an nounced that SJB Deputy General Secretary Mujibur Rahman will replace State Minister Diana Gamage in Parliament.
-
-Shortly after the court’s decision, SJB MP Harsha de Silva also took to Twitter to suggest that former SJB MP Mujibur Rahuman is his preferred choice to replace Gamage. Rahuman had resigned last year to run in the local Government election, which has been indefinitely postponed.
-
-...
-
-[Data](articles/a94b30b3.json)
-
-[Extended Data](ext_articles/a94b30b3.ext.json)
-
----
-
-### Govt. appoints 2,100 new Grama Niladhari officials
-
-*2024-05-09 03:03:05* · [`dailyftlk`](https://www.ft.lk/news/Govt-appoints-2-100-new-Grama-Niladhari-officials/56-761575) · `en`
-
-President Ranil Wickremesinghe yesterday stressed that the enhancement of the rural economy pivots on agricultural advancement. He highlighted the pivotal role of dedicated Government officials at the grassroots level in ensuring the success of various Government initiatives aimed at rural development, notably the agricultural modernization program.
-
-The President made these remarks during his address at the ceremony held at the Temple Tress where 2,100 new Grama Niladhari officers were awarded appointment letters.
-
-Following the Grama Niladhari Service Examination held by the Department of Examinations on 2 December 2023, a total of 2,100 candidates with the highest scores at the Divisional Secretariat Divisional Level were granted Grama Niladhari positions.
-
-...
-
-[Data](articles/a539670d.json)
-
-[Extended Data](ext_articles/a539670d.ext.json)
-
----
-
-### Ex-NMRA chief arrested by CID, grilled for over 10 hours
-
-*2024-05-09 03:01:14* · [`dailyftlk`](https://www.ft.lk/news/Ex-NMRA-chief-arrested-by-CID-grilled-for-over-10-hours/56-761574) · `en`
-
-National Medicines Regulatory Authority’s (NMRA) former CEO Dr. Vijith Gunasekara was arrested by the Criminal Investigation Department (CID) yesterday and questioned for 10 hours. Dr. Gunasekara was apprehended by the CID in connection with the procurement of substandard human intravenous immunoglobulin (IVIG) vials.
-
-◼️
-
-[Data](articles/4e04b5d1.json)
-
-[Extended Data](ext_articles/4e04b5d1.ext.json)
-
----
-
-### Litro commissions modern Mabima storage and bottling facility after Rs. 1 b investment
-
-*2024-05-09 03:00:09* · [`dailyftlk`](https://www.ft.lk/business/Litro-commissions-modern-Mabima-storage-and-bottling-facility-after-Rs-1-b-investment/34-761573) · `en`
-
-President’s Chief of Staff and National Security Advisor Sagala Rathnayaka and Litro Chairman and CEO Muditha Pieris officiate at the opening yesterday
-
-Litro Gas yesterday ceremonially commissioned its state-of-the-art refurbished and upgraded storage and bottling facility at Mabima, Sapugaskande.
-
-The ceremony was presided over by President’s Chief of Staff and National Security Advisor Sagala Rathnayaka.
-
-Recognised as one of the largest in the region, the Mabima facility reinforces Litro Gas’s commitment to operational excellence and national energy security.
-
-...
-
-[Data](articles/0e4f4011.json)
-
-[Extended Data](ext_articles/0e4f4011.ext.json)
-
----
-
-### TBS International: Spotlighting Sri Lankan excellence to impact global industry standards
-
-*2024-05-09 02:56:35* · [`dailyftlk`](https://www.ft.lk/business/TBS-International-Spotlighting-Sri-Lankan-excellence-to-impact-global-industry-standards/34-761572) · `en`
-
-This year’s Techtextil and Texprocess in Frankfurt, Germany, marked the 3rd consecutive year in which TBS International represented Sri Lankan excellence in the global arena. During this 4-day exhibition, they were able to showcase their commitment in the global textile landscape.
-
-TBS’s stall aimed to impress not only with their cutting-edge products and expertise in textiles but also with Sri Lanka’s signature hospitality and cultural heritage. Each visitor left the stall with the warm aftertaste of pure Ceylon tea and a souvenir to remember the occasion with a favourable impression of Sri Lanka in their hearts.
-
-...
-
-[Data](articles/94374cd1.json)
-
-[Extended Data](ext_articles/94374cd1.ext.json)
-
----
-
-### Air India back in operation with Hayleys as new General Sales Agent
-
-*2024-05-09 02:54:56* · [`dailyftlk`](https://www.ft.lk/business/Air-India-back-in-operation-with-Hayleys-as-new-General-Sales-Agent/34-761571) · `en`
-
-Move by previous GSA Indu Sky Aviation to legally restrain Air India fails
-
-Indu Sky Aviation Ltd. has failed in multiple attempts to legally restrain Air India from transferring their General Sales Agency (GSA) to a third party, upon the expiration of the GSA with Indu Sky.
-
-Indu Sky made an application in the District Court of Colombo, seeking an enjoining order against Air India days prior to the expiration of the GSA Contract, to prevent the latter from appointing a new GSA and this enjoining order was refused on 26 March.
-
-...
-
-[Data](articles/fc76b103.json)
-
-[Extended Data](ext_articles/fc76b103.ext.json)
 
 ---

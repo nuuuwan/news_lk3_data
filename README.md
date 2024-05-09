@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 15:18:36**
+As of **2024-05-09 15:34:09**
 
 ## Newspaper Stats
 
-*Scraped **22,950** Articles*
+*Scraped **22,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,112 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
-adalk | 1,941
+adalk | 1,942
 tamilmirrorlk | 2,688
-adaderanalk | 2,692
+adaderanalk | 2,693
 virakesarilk | 3,412
-dailymirrorlk | 3,605
+dailymirrorlk | 3,606
 adaderanasinhalalk | 3,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,944 (100.0%) of 22,950 articles have been extended.
+22,950 (100.0%) of 22,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### දකුණේ පාතාලය තවත් ජීවිතයක් බිලිගනී
+### Reduced New Year drinking leads to less quarrels
+
+*2024-05-09 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduced-New-Year-drinking-leads-to-less-quarrels/108-282252) · `en`
+
+Colombo, May 09 (Daily Mirror) -  Cutting back on alcohol consumption during the Sinhala and Tamil New Year festival has resulted in notable dip in incidents of conflict and quarrels associated with alcohol use during the festival season.
+
+This was revealed in a survey conducted by the Alcohol and Drug Information Center (ADIC), Sri Lanka concerning alcohol consumption and related information during the season.
+
+The survey encompassed a sample size of 415 individuals across all nine provinces of Sri Lanka. Within this sample, 46.2% (n=192) were female, and 53.7% (n=223) were male.
+
+Accordingly, a majority of survey participants, which amounted to 70.8%, observed a decrease in incidents of conflict and quarrels associated with alcohol use during the festival season compared to the previous year.
+
+Furthermore, from the participants, 64% expressed the view that alcohol consumption had decreased during this year's Sinhala and Tamil New Year celebrations, compared to that of last year.
+
+...
+
+[Data](articles/26d391df.json)
+
+---
+
+### PUCSL yet to receive CEB proposals to slash electricity tariffs
+
+*2024-05-09 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99109/pucsl-yet-to-receive-ceb-proposals-to-slash-electricity-tariffs) · `en`
+
+The Ceylon Electricity Board (CEB) is yet to submit the proposals regarding the reduction of electricity tariffs to the Public Utilities Commission of Sri Lanka (PUCSL), according to PUCSL chairman Prof. Manjula Fernando.
+
+The said proposals were initially expected to be submitted to the PUCSL by the 1st of May.
+
+However, the PUCSL had granted an extension until tomorrow (May 10) in response to a request from the CEB.
+
+Consequently, the PUCSL has instructed the CEB to submit the proposals before the deadline tomorrow.
+
+Prof. Fernando said that after receiving the relevant proposals, the process to reduce the electricity tariffs will be commenced and the percentage of the reduction in the tariff could be announced in the month of July.
+
+◼️
+
+[Data](articles/49335a27.json)
+
+---
+
+### The underworld in the South kills another life
 
 *2024-05-09 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196436) · `si`
 
-අහුංගල්ලේ ඊයේ (08) සිදුකළ වෙඩිතැබීමෙන් 54 හැවිරිදි කුරුඳු කර්මාන්තයේ යෙදුණු පුද්ගලයෙක් මියගොස් ඇති බව පොලීසිය පැවසීය.
+A 54-year-old man from the cinnamon industry was shot and killed in a confrontation between two underworld gangs in Ahungalla. The suspect, the man's son, is linked to several crimes. The victim, who had no direct involvement in the cinnamon industry, was hospitalized after the incident.
 
-පොලීසිය පවසන්නේ මෙම පුද්ගලයා දකුණේ සිදුකළ ඝාතන සහ අපරාධ කිහිපයක සැකකරුවෙක් ලෙස සැලකෙන 'බබා' නමැත්තාගේ පියා බවය.
+🟩
 
-දකුණේ පාතාල කල්ලි දෙකක් වන "කොස්ගොඩ සුජී" සහ "රත්ගම විදුර" පාර්ශ්ව අතර පවතින ගැටුමෙහි ප්‍රතිඵලයක් ලෙස මෙම ඝාතනය සිදුකර ඇති බවට පොලීසිය සැක පළකරයි.
+The 54-year-old cinnamon industry has died in the shooting of the 54-year-old cinnamic industry.
 
-අහුංගල්ලේ, ලෝකන්වත්ත ප්‍රදේශයේ නිවසකට ඊයේ රාත්‍රී 7.40ට පමණ ස්කූටි වර්ගයේ යතුරුපැදියකින් තවත් පුද්ගලයෙක් සමග පැමිණි වෙඩික්කරුවෙක් විසින් මෙම වෙඩි තැබීම සිදුකළේය.
+The police states that the man was the father of 'Baby' as a suspect in several murders and crimes.
 
-වෙඩි ප්‍රහාරයෙන් හිසට දරුණු තුවාල සිදුවූ කීර්තිසේන බලපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගිය බව පොලීසිය පැවසුවේය.
+Police suspect that the murder was held as a result of the confrontation between two underworld gangs, two underworld gangs, Kosgoda Vidura.
 
-දියවැඩියාව රෝගයෙන් පීඩාවිඳි මරණකරු ඊයේ දිනයේදී අසනීප තත්ත්වය උත්සන්නවී වමනය දමමින් සිටියදී වෙඩික්කරු ඔහුට නිවසින් පිටතට කැඳවා වෙඩිතැබීම සිදුකරන අයුරු CCTV වීඩියෝවක දැක්වෙයි.
+The shooting was shot by a scoophole of a scoop for another 7.40 pm last night in Ahungalla last night.
+
+The deceased has been admitted to the Keerthisena Hospital hospitalized after the shooting heavy damaged.
+
+The deceased is the victim of the deceased yesterday when the deceased was casting out of the house yesterday.
+
+He is a cinnamon worker who has no cinnamic accusation, but his son Nadees Kumara alias Dubai, Nadeesha Kumara alias Dubai, is accused of a few killings in the South.
+
+He is a member of the Ratgama Vidura party and the police suspect that the murder had committed the murder.
 
 ...
 
 [Data](articles/fdea9fc5.json)
 
+[Extended Data](ext_articles/fdea9fc5.ext.json)
+
 ---
 
-### செப்டம்பர் 17 முதல் ஒக்டோபர் 16ம் திகதிக்குள்   ஜனாதிபதி தேர்தல்
+### The presidential election is from September 17 to October 16
 
 *2024-05-09 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/183061) · `ta`
 
-ஜனாதிபதித் தேர்தல் தொடர்பில் தேசிய தேர்தல்கள் ஆணைக்குழுவினால் விசேட அறிவித்தல் விடுக்கப்பட்டுள்ளது. அதற்கமைய, எதிர்வரும் செப்டெம்பர் 17ஆம் திகதிக்கும் ஒக்டோபர் 16ஆம் திகதிக்கும் இடையில் ஜனாதிபதித் தேர்தல் நடத்தப்படும் என தேர்தல் ஆணைக்குழுவின் தவிசாளர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+The National Elections Commission announced the presidential election will be held from September 17 to October 16, as stated by RMAL Ratnayake, the Election Commission Chairman, on Thursday.
 
-இன்று வியாழக்கிழமை விசேட அறிக்கையொன்றை வெளியிட்டு தேர்தல் ஆணைக்குழுவின் தவிசாளர் இதனைத் தெரிவித்திருந்தார்.
+🟩
+
+Special notification has been issued by the National Elections Commission regarding the presidential election. Accordingly, the Presidential Elections will be held between September 17 and October 16, said RMAL Ratnayake, Chairman of the Election Commission.
+
+The Chairman of the Election Commission made this statement on Thursday.
 
 ◼️
 
 [Data](articles/8486980c.json)
+
+[Extended Data](ext_articles/8486980c.ext.json)
 
 ---
 
@@ -92,31 +148,49 @@ Meanwhile, the Meteorology Department stated that showers or thundershowers will
 
 ---
 
-### லேடி சுப்பர் ஸ்டார் நயன்தாரா நடிக்கும் 'மண்ணாங்கட்டி' படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of 'Mannangatti' starring Lady Super Star Nayanthara
 
 *2024-05-09 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/183055) · `ta`
 
-தமிழ் திரையுலகின் லேடி சுப்பர் ஸ்டாராக திகழும் நடிகை நயன்தாரா கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'மண்ணாங்கட்டி 1960 முதல்' எனும் திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்திருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் அறிவித்திருக்கிறார்கள்.
+Nayanthara stars in 'Mannangatti', directed by Dude Vicky, with music by R. D. Shawn Roldan. The film, produced by Lakshmanan for Prince Pictures, features Yogi Babu, Devadarshini, and Nagendra Prasad. The crew celebrated the shoot, with the final work and teaser to be released soon. Nayanthara, known as the Ladies Super Star, has recently starred in 'Lord' and 'Annapoorni', both successful films.
 
-இயக்குநர் டியூட் விக்கி இயக்கத்தில் உருவாகி வரும் 'மண்ணாங்கட்டி 1960 முதல் ' எனும் திரைப்படத்தில் நயன்தாரா, யோகி பாபு, தேவதர்ஷினி, நாகேந்திர பிரசாத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். டி. ராஜசேகர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். கதையின் நாயகிக்கு முக்கியத்துவம் தரும் வகையில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பிரின்ஸ் பிக்சர்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் லட்சுமணன் தயாரித்திருக்கிறார்.
+🟩
 
-...
+Actress Nayanthara, who is the hero of the Tamil film industry, has been shot in the film 'Mannankatti since 1960'.
+
+Nayanthara, Yogi Babu, Devadarshini, Nagendra Prasad and many others have starred in the movie 'Mannankatti since 1960' directed by director Dude Vicky.. R. D. Shawn Roldan has composed the film, which has been recorded by Rajasekhar. The film, which is ready for the heroine of the story, has produced the producer Lakshmanan on behalf of Prince Pictures.
+
+The film crew has cut the cake and celebrated the shooting of the film and celebrated it with a special photo of it.. The film crew said that the final work will begin soon and the first look and teaser will be released soon.
+
+Meanwhile, actress Nayanthara is the hero of the story, 'Lord' and 'Annapoorni' released in the last year.. It is also worth noting that the film 'Mannangatti' is a commercial and critical success if he can retain the title of Ladies Super Star.
+
+◼️
 
 [Data](articles/2df7368d.json)
 
+[Extended Data](ext_articles/2df7368d.ext.json)
+
 ---
 
-### முதன் முறையாக இணைந்திருக்கும் டி. இமான் - மனோ கூட்டணி
+### For the first time D. Iman - Mano Alliance
 
 *2024-05-09 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183050) · `ta`
 
-தமிழ் திரையிசையுலகில் பாடல் பெரிதா? இசை பெரிதா? எனும் விவாதம் பரபரப்பாக நடைபெற்று வரும் தருணத்தில் முதன்முறையாக இசையமைப்பாளர் டி. இமானின் இசையில் பின்னணி பாடகர் மனோ பாடல் ஒன்றை பாடியிருப்பதாக பிரத்யேக புகைப்படத்தை வெளியிட்டு 'லெவன்' படக் குழுவினர் உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+"Debutant director Lokesh Ajils' film 'Eleven' features a song by background singer Mano, marking his first collaboration with composer D. Iman. The film, starring Naveen Chandra, Riya Hari, and others, is set to release soon in Tamil and Telugu, promising a unique experience with its intelligent screenplay."
 
-அறிமுக இயக்குநர் லோகேஷ் அஜில்ஸ் இயக்கத்தில் உருவாகி வரும் 'லெவன்' எனும் திரைப்படத்தில் நவீன் சந்திரா, ரியா ஹரி, அபிராமி, 'ஆடுகளம்' நரேன், திலீபன், ரித்விகா, அர்ஜெய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் அசோகன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். புலனாய்வு வகையிலான படைப்பாக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஏ. ஆர். எண்டர்டெயின்மென்ட் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் அஜ்மல் கான் மற்றும் ரியா ஹரி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+Is the song great in Tamil cinema?Is the music great?For the first time, the composer D.. The 'Eleven' film crew has enthusiastically revealed that the background singer Mano has sung a song in the music of Iman.
+
+Naveen Chandra, Riya Hari, Abirami, 'Aadukalam' Narain, Dileepan, Rithvika, Arjay and many others in the upcoming film 'Eleven' directed by debutant director Lokesh Ajils. Karthik Asokan has recorded the cinematography. Iman has composed the music. This movie is ready to be an intelligence.. R. Producers Ajmal Khan and Riya Hari have co -produced on behalf of Entertainment film company.
+
+The shooting of the film is completely completed and the final phase of the work is currently underway. In this case, the film crew. Background singer Mano has sung for the first time in Iman's music.
 
 ...
 
 [Data](articles/7301266a.json)
+
+[Extended Data](ext_articles/7301266a.ext.json)
 
 ---
 
@@ -160,21 +234,47 @@ He said that despite having his visa approved a long time ago, he has been conti
 
 [Data](articles/b9de1a2c.json)
 
+[Extended Data](ext_articles/b9de1a2c.ext.json)
+
 ---
 
-### யாழ் நகரில் வீதிப்பாதுகாப்பு விழிப்புணர்வு நடைபவனி
+### Road Safety Awareness Walking in Jaffna City
 
 *2024-05-09 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/183048) · `ta`
 
-வீதிப்பாதுகாப்பு விழிப்புணர்வு நிகழ்ச்சித் திட்டத்தின் ஒரு பகுதியாக இன்று வியாழக்கிழமை மு.ப 8.30 மணியளவில் வேம்படிச் சந்தியிலிருந்து யாழ் போதனா வைத்தியசாலை வீதியூடாக காங்கேசன்துறை வீதி சத்திரச் சந்தி வரை வீதிப்பாதுகாப்பு விழிப்புணர்வு நடைபவனி இடம்பெற்றது.
+The Road Safety Awareness Walk in Jaffna City, led by various officials including the Northern Provincial Chief Secretary and the Commissioner of Motor Transport Department, aimed to raise awareness about road safety and vehicle procedures. The walk, starting from the Jaffna Teaching Hospital Road to the Kankesanthurai Road Junction, highlighted the importance of road safety and its adoption in the region.
 
-வீதியில் காணப்படும் இடர்பாடுகளுடைய இடங்களை அடையாளங்காணல், வீதிப் பாதுகாப்பு மற்றும் வாகன நடைமுறைகளைப் பின்பற்றல் பரிசோதனை போன்ற செயற்பாடுகள் நடைபெற்றன. குறித்த செயற்பாட்டை தொடர்ச்சியாக ஏனைய பகுதிகளில் நடத்தவும் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-இந்நிகழ்வில் வடக்கு மாகாண பிரதம செயலாளர், வடக்கு மாகாண உள்ளூராட்சி அமைச்சின் செயலாளர்,யாழ்ப்பாண மாவட்ட பதில் செயலாளர், வடக்கு மாகாண மோட்டார் வாகன போக்குவரத்து திணைக்கள ஆணையாளர், மோட்டார் வாகன பரீட்சகர்கள்,  அதிகாரிகள், யாழ்ப்பாண பிரதேச செயலாளர், யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர், போக்குவரத்து பொலிஸார், வைத்தியர்கள், மாநகர சபை ஆணையாளர் உள்ளிட்ட துறைசார் அதிகாரிகள் என பலரும் கலந்துகொண்டனர்.
+As part of the Road Safety Awareness Program, the Road Security Awareness Walking was held at 8.30 pm on Thursday through the Jaffna Teaching Hospital Road to the Kankesanthurai Road Junction.
+
+Identifying the places of the road, the road safety and the process of adoption of vehicle procedures.. It has also been decided to continue the process in other areas.
+
+Northern Provincial Chief Secretary, Northern Provincial Ministry of Local Government Ministry, Jaffna District Response Secretary, Commissioner of Motor Transport Department, Motor Vehicle Examiners, Officers, Jaffna Divisional Secretary, Jaffna Teaching Hospital Director, Transport Police, Municipal Council CommissionerMany officials were present.
 
 ◼️
 
 [Data](articles/0f220ed9.json)
+
+[Extended Data](ext_articles/0f220ed9.ext.json)
+
+---
+
+### එළවළු දන්සලක් පන්නිපිටියේදී
+
+*2024-05-09 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-දන්සලක්-පන්නිපිටියේදී/11-409526) · `si`
+
+මහරගම පන්නිපිටිය A N  FRESS CHOICE එළවලු වෙළඳසැල් ජාලය තෙවන වරට සංවිධානය කළ " එළවළු දන්සැල " පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ ප්‍රධානත්වයෙන් මහරගම පන්නිපිටිය  A N නව එළවළු වෙළද සැල් පරිශ්‍රයේදී ඊයේ (08) දා පැවැත්වුණි.
+
+මේ සඳහා විසි දහසකට අධික ජනතාවක් සහභාගී වී සිටි අතර සවස 04 සිට මධ්‍යම රාත්‍රිය දක්වා දන්සලට පැවත්වුණි . ඒ සදහා සහභාගි වූ ජනතාව පෙරවරු 11 පමණ සිට පන්නිපිටියේ සිට මහරගම දෙසට කිලෝ මීටර් දෙකක් පමණ දුරකට පෝලිමේ රැඳී සිටිනු දක්නට ලැබුණි.
+
+එක් පුද්ගලයකු සදහා එළවළු වර්ග 15 පමණ ලබා දී තිබූ අතර එක් අයකුගේ එළවළු බෑගයක දළ වටිනාකම රුපියල් දෙදහසකට අධික බව ජනතාව පවසති .
+
+මෙම සත් කාර්ය පිළිබදව අදහස් දැක්වූ A  N එළවලු වෙළඳසැල් ජාලයේ හිමිකරු ආනන්ද විජේරත්න මහතා මෙසේ පැවසීය.
+
+...
+
+[Data](articles/938e1345.json)
 
 ---
 
@@ -2169,69 +2269,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/9946095b.json)
 
 [Extended Data](ext_articles/9946095b.ext.json)
-
----
-
-### How can the controversial bill contradict the Constitution?
-
-*2024-05-09 05:51:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gey1r9yp7o) · `si`
-
-The controversial bill is under scrutiny for potentially violating the Constitution by abolishing the Ceylon Electricity Board (CEB) without proper provincial council approval, transferring the National Electricity Policy to a minister without clear guidelines, and risking occupational security of CEB employees. Critics argue this could lead to arbitrary decision-making and increased electricity tariffs, undermining the sovereignty of the people.
-
-🟩
-
-How can the controversial bill contradict the Constitution?
-
-A few petitions have been filed by the Supreme Court as to be approved by the government, as the government has been adopted by the government as the government has been contrary to the constitution.
-
-Petitions have been submitted by the members of the Ceylon Electricity Workers Union Secretary Ranjan Jayalal, Frontline Socialist Party Duminda Nagamuwa and the Energy Committee of the Power Committee.
-
-Renewable Electricity: Mannar Can Mannar can meet the winds by 2030?
-
-The petitioners states: The petitioners states:
-
-...
-
-[Data](articles/15b1f918.json)
-
-[Extended Data](ext_articles/15b1f918.ext.json)
-
----
-
-### SJB legitimacy at stake after SC ruling on Diana: Kanchana
-
-*2024-05-09 03:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-legitimacy-at-stake-after-SC-ruling-on-Diana-Kanchana/108-282218) · `en`
-
-Colombo, May 9 (Daily Mirror) - Another court case with regard to Diana Gamage is on the cards as anyone could file another court case calling the Supreme Court to declare whether Samagi Jana Balawegaya (SJB) MPs could remain in Parliament as per yesterday’s judgement, Minister Kanchana Wijesekera told Parliament yesterday.
-
-“One could question whether Gamage who has been declared as a non-citizen of this country could register a political party. One could also question whether the MOU signed by SJB General Secretary with Ms.Gamage is legally valid.
-
-Further the validity of nomination papers signed by Gamage for certain MPs is also questionable,” the Minister said.
-
-“Some SJB MPs whom I chatted with at the House canteen informed me that they were worried about yesterday’s judgment of the Supreme Courts which ruled that Gamage cannot function as an MP as she is not a citizen of Sri Lanka.
-
-They are concerned since they may have to give up their MP posts,” he added.
-
-...
-
-[Data](articles/9a4cded3.json)
-
-[Extended Data](ext_articles/9a4cded3.ext.json)
-
----
-
-### “Ranil Ralla”: Will Wickremesinghe ride on a  Winning  Wave?
-
-*2024-05-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83982) · `en`
-
-May Day was at one time a significant event of the workers,for the workers and by the workers.  It is not so nowadays where the working class has been relegated to the back seat. The political class has taken over. The rhetoric however echoes and re-echoes on May day but the reality is different. The May Day  events have been turned into a political exercise where competing political parties engage in a show of strength by mobilising huge crowds.
-
-May  1st 2024 saw   –   according to some newspapers –   41 May Day related  rallies,meetings or seminars being held throughout the  country.Other newspapers  lowered the number  to 22.. Pride of place was given to Colombo where the UNP, JVP/NPP, SLPP and SJB  held their rallies. All four parties had big crowds but the attendance was highest at the JVP rally. Furthermore the JVP rallies in Matara and Anuradhapura  also had large crowds. Compared to the “thun Sinhala” rallies the JVP rally in Jaffna was a poor show.
-
-...
-
-[Data](articles/5fbb9b96.json)
-
-[Extended Data](ext_articles/5fbb9b96.ext.json)
 
 ---

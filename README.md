@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 21:18:35**
+As of **2024-05-09 21:33:43**
 
 ## Newspaper Stats
 
-*Scraped **23,018** Articles*
+*Scraped **23,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,331
 adalk | 1,957
 tamilmirrorlk | 2,693
 adaderanalk | 2,700
-virakesarilk | 3,423
+virakesarilk | 3,424
 dailymirrorlk | 3,613
 adaderanasinhalalk | 3,686
 
@@ -26,41 +26,71 @@ adaderanasinhalalk | 3,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,015 (100.0%) of 23,018 articles have been extended.
+23,018 (100.0%) of 23,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### ரஷ்ய - உக்ரைன் போரில் உயிரிழந்த இலங்கையர்கள்
+### Sri Lankans who died in the Russian -Ukraine war
 
 *2024-05-09 20:52:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-உக்ரைன்-போரில்-உயிரிழந்த-இலங்கையர்கள்/175-337047) · `ta`
 
-மனித கடத்தல்காரர்களால் ரஷ்ய இராணுவத்துடன் இணைந்து கொள்வதற்காக இலங்கையில் இருந்து அனுப்பப்பட்ட இலங்கையர்கள் 6 பேர் உயிரிழந்துள்ளமை உறுதிப்படுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவா தெரிவித்தார்.
+Six Sri Lankans, sent to join the Russian army, were killed by human traffickers. Investigations are ongoing to identify more victims. Former military officers have been arrested in connection with the incident.
 
-மேலும் இந்த சம்பவத்துடன் உயிரிழந்தவர்களின் எண்ணிக்கையை கண்டறிய மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்தார்.
+🟩
 
-இதேவேளை, குறித்த சம்பவத்துடன் தொடர்புடைய முன்னாள் இராணுவ அதிகாரிகள் நேற்றைய தினம் கைது செய்யப்பட்டமை குறிப்படத்தக்கது. R
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that six Sri Lankans sent from Sri Lanka have been killed by human traffickers to join the Russian army.
+
+Further investigations are underway to identify the number of victims of the incident, the police media spokesman said.
+
+Meanwhile, the arrest of former military officers in connection with the incident yesterday. Remble
 
 ◼️
 
 [Data](articles/70960f89.json)
 
+[Extended Data](ext_articles/70960f89.ext.json)
+
 ---
 
-### විස්සයි20 ලෝක කුසලානයට ශ්‍රි ලංකා සංචිතය නම් කරයි
+### Sri Lanka names squad for Twenty20 World Cup
 
 *2024-05-09 20:45:16* · [`adalk`](https://www.ada.lk/sports/විස්සයි20-ලෝක-කුසලානයට-ශ්‍රි-ලංකා-සංචිතය-නම්-කරයි/9-409541) · `si`
 
-ඇමෙරිකාවේදී පැවැත්වීමට නියමිත විස්සයි20 ලෝක කුසලාන තරගාවලිය සඳහා ක්‍රීඩා කරන ශ්‍රී  ලංකා සංචිතය ක්‍රිකට් ආයතනය විසින් ප්‍රකාශයට පත්කර තිබේ.
+Sri Lanka's Twenty20 World Cup squad, led by Wanindu Hasaranga and Chathuranga de Silva, includes Angelo Mathews and additional players Bhanuka Rajapakse and Vijayakantha Vasaketha.
 
-මෙහි නායකයා ලෙස වනිඳු හසරංග කටයුතු කරන අතර උපනායක ලෙස චරිත් අසලංක නම් කර තිබේ. ඇන්ජලෝ මැතිව්ස්ද සංචිතයට එක්කර ඇති අතර දසුන් ශානකත් කණ්ඩායමට නම්ව තිබේ.
+🟩
 
-කෙසේ වෙතත් භානුක රාජපක්ෂ අතිරේක ක්‍රීඩකයෙක් ලෙස කණ්ඩායමට නම්කර තිබේ. විජයකාන්ත වියස්කාත්ද අතිරේක ක්‍රීඩකයෙක් ලෙස කණ්ඩායමට නම් කර තිබේ.
+The Sri Lankan squad played for the Twenty20 World Cup will be held in the US.
+
+The leader is the leader of Wanindu and chathurith as awill. Angelo Mathews is also added to the squad and Views Shacaath has named the group.
+
+However, Bhanuka Rajapakse has nominated as an additional player. Vijayakantha Vasakatha has been named as an additional player.
 
 ◼️
 
 [Data](articles/a0eb8439.json)
+
+[Extended Data](ext_articles/a0eb8439.ext.json)
+
+---
+
+### மீண்டும் அரசியலுக்கு வருவேன்! - டயானா கமகே
+
+*2024-05-09 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/183094) · `ta`
+
+பாராளுமன்ற உறுப்பினர் பதவியை இழந்த டயானா கமகே வியாழக்கிழமை (09) விசேட ஊடகவியலாளர் மாநாட்டிற்கு அழைப்பு விடுத்துள்ளார்.
+
+இராஜாங்க அமைச்சராகப் பணியாற்றிய டயானா கமகே, இந்நாட்டின் பாராளுமன்றத்தில் அமரக்கூடிய சட்டத் தகைமை எதுவும் கிடையாது என உயர் நீதிமன்றம் புதன்கிழமை (08) தீர்ப்பளித்துள்ளது.
+
+இதேவேளை, முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகே வெளிநாடு செல்வதற்கு கொழும்பு நீதவான் நீதிமன்றம் வியாழக்கிழமை (09) தடை உத்தரவு ஒன்றை பிறப்பித்துள்ளது.
+
+"எனது அரசியல் பயணம் இத்துடன் நிற்காது. வெகு காலத்திற்குள் இந்த பாராளுமன்றம் கலைக்கப்படும். எதிர்காலத்தில் நான் கண்டிப்பாக அரசியலுக்கு வருவேன். நான் எப்போதும் ஜனாதிபதியை ஆதரிப்பேன். நான் மீண்டும் நாடாளுமன்றத்திற்கு வருவேன்" என்றார்.
+
+◼️
+
+[Data](articles/f6ae6eda.json)
 
 ---
 
@@ -278,21 +308,27 @@ The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from 
 
 ---
 
-### ජනතාව රැවටීමේ කාලය මේ වසරේ අග අවසන්
+### The time of deceiving people is over late this year
 
 *2024-05-09 19:25:04* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-රැවටීමේ-කාලය-මේ-වසරේ-අග-අවසන්/11-409536) · `si`
 
-රටේ ජනතාව රැවටීමේ කාලය මෙම වසරේ අග අවසන් වන බවත්, ඒ අනුව රට දිනවන සත්‍ය ජයග්‍රශනය කරන බවත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+Opposition Leader Sajith Premadasa declared in parliament that the era of deception in the country is nearing its end, with truth set to prevail by the year's end. He emphasized the need for economic expansion to address poverty and unemployment, criticizing the government's handling of rising costs like oil, gas, and electricity prices. He concluded with a quote from Abraham Lincoln, highlighting the inevitability of truth's victory over deception.
 
-ජනාධිපතිවරයා සිදු කළ ප්‍රකාශයට අද (09දා) පාර්ලිමේන්තුවේදී ප්‍රතිචාර දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+Opposition Leader Sajith Premadasa said that the time of deception of the country is ending the end of this year and the truth will win the country accordingly.
 
-"ජනාධිපතිවරයාට මම කියන්න කැමතියි අඩුම ගණනේ දැන්වත් කරුණා කරලා ආර්ථිකය කුඩා කරන ව්‍යාපෘතියට යන්නේ නැතිව ආර්ථිකය ප්‍රසාරණය කරන්නට වැඩපිළිවෙළක් යොදවන්න. ආර්ථිකය කුඩා කිරීමෙන් රටේ ප්‍රශ්න විසඳන්න බැහැ. ආර්ථිකය ප්‍රසාරණය කරන්න ඕනෑ. දුප්පත්කම නිර්මාණය කරලා ප්‍රශ්න විසඳන්න බෑ.
+The statement made by the President responded in parliament today (09), he said.
+
+The Opposition Leader Sajith Premadasa said so.
+
+"I would like to tell the President a program to expand the economy without the least and please the economy who is smaller.. The economy cannot solve the country's problems by smaller. The economy needs to expand. The creation of poverty cannot be solved.
 
 ...
 
 [Data](articles/c9a82b4c.json)
+
+[Extended Data](ext_articles/c9a82b4c.ext.json)
 
 ---
 
@@ -2265,31 +2301,5 @@ Brother Lal Kantha, our party's word mistakes are mistaken about Diana, the part
 [Data](articles/6b3cfdc0.json)
 
 [Extended Data](ext_articles/6b3cfdc0.ext.json)
-
----
-
-### Increase in heat waves in the sea: Risk of destruction of coral reefs
-
-*2024-05-09 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/183031) · `ta`
-
-Rising sea temperatures pose a significant threat to coral reefs, with potential destruction in Sri Lanka and the Gulf of Lakshadweep and Mannar. A month of elevated temperatures could lead to coral bleaching and loss, impacting marine life.
-
-🟩
-
-If the current increased sea temperature lasts a month, there will be a risk of destruction of coral reefs around Sri Lanka, said the octave scientist.
-
-Indian media reports that the destruction of coral reefs in the Gulf of Lakshadweep and the Gulf of Mannar has been reported.
-
-In this regard, the newly appointed Director General of the National Water Research Research Development Management (NARA)
-
-Temperature in the sea increased to 31 degrees Celsius and lasted two weeks. Nara has not conducted any study on the state of coral reefs in the country, but it cannot be rejected that coral reefs will lose color.
-
-The temperature of the sea to form coral reefs should be fluctuating up to 27-28 degrees Celsius. He pointed out that if the current increased temperature lasts a month or more, coral reefs are expected to be destroyed.
-
-...
-
-[Data](articles/75967d76.json)
-
-[Extended Data](ext_articles/75967d76.ext.json)
 
 ---

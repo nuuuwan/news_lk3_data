@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 13:52:50**
+As of **2024-05-09 14:04:20**
 
 ## Newspaper Stats
 
-*Scraped **22,927** Articles*
+*Scraped **22,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,243
 economynextcom | 1,321
 dailyftlk | 1,331
 adalk | 1,938
-tamilmirrorlk | 2,686
+tamilmirrorlk | 2,687
 adaderanalk | 2,689
-virakesarilk | 3,405
+virakesarilk | 3,408
 dailymirrorlk | 3,603
 adaderanasinhalalk | 3,667
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 3,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,925 (100.0%) of 22,927 articles have been extended.
+22,927 (100.0%) of 22,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### டயானாவுக்கு பயணத் தடை
+
+*2024-05-09 13:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானாவுக்கு-பயணத்-தடை/175-337029) · `ta`
+
+இராஜாங்க அமைச்சர் டயானா கமகே நாட்டை விட்டு வெளியேறுவதைத் தடுத்து கொழும்பு பிரதான நீதவான் நீதிமன்றம் இன்று உத்தரவு பிறப்பித்துள்ளது.
+
+குடியகல்வு குடிவரவு சட்டத்தின் கீழ் குற்றங்களை இழைத்த குற்றச்சாட்டில் அவருக்கு எதிராக தாக்கல் செய்யப்பட்ட நீதவான் விசாரணை தொடர்பில் கொழும்பு பிரதான நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/fb51f11d.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-09 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/183057) · `ta`
+
+இன்று வியாழக்கிழமை (மே 09) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்கடொலரின் கொள்வனவு விலை ரூபா 293.8242 ஆகவும் விற்பனை விலை ரூபா 303.3789 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/92f30e8b.json)
+
+---
+
+### யாழ். சாவகச்சேரி பகுதியில் விசேட யுக்திய நடவடிக்கை!
+
+*2024-05-09 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183045) · `ta`
+
+யாழ்ப்பாணம் சாவகச்சேரி பொலிஸ் பிரிவுக்குட்பட்ட நாவற்குழிப் பிரதேசத்தில் இன்று (09) வியாழக்கிழமை காலை யுக்திய சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+இதன்போது பொலிஸார் மற்றும் விசேட அதிரடிப் படையினர் இணைந்து ஏ-9 மற்றும் ஏ32 வீதிகளூடாக பயணித்த வாகனங்களை சோதனையிட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+பொலிஸ்மா அதிபர் தேசப்பந்து தென்னக்கோன் அவர்களது ஆலோசனைக்கு அமைவாக போதைப்பொருளை கட்டுப்படுத்தும் நோக்குடன் நாடளாவிய ரீதியில் யுக்திய சுற்றிவளைப்பு நடவடிக்கை இடம்பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ef63f474.json)
+
+---
 
 ### Court imposes travel ban on Diana Gamage
 
@@ -67,6 +109,24 @@ MP Jayantha Samaraweera said there was a public outcry that liquor permits have 
 [Data](articles/e0740914.json)
 
 [Extended Data](ext_articles/e0740914.ext.json)
+
+---
+
+### முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு வெளிநாட்டுப் பயணத்தடை
+
+*2024-05-09 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/183049) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் டயானா கமகேவுக்கு வெளிநாடு செல்வதற்கு நீதிமன்றம்  தடை விதித்துள்ளது.
+
+கொழும்பு நீதவான் நீதிமன்றம் இன்று  வியாழக்கிழமை (09) டயானா கமகேவுக்கான இந்த வெளிநாட்டு பயணத்தடையை விதித்தது.
+
+இரட்டை பிரஜாவுரிமை தொடர்பான வழக்கில் மனுதாரர் தரப்பு சட்டத்தரணிகள் விடுத்த கோரிக்கையை பரிசீலித்த கொழும்பு நீதவான் திலின கமகே இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+இந்த உத்தரவின் பிரதிகள் குடிவரவு, குடியகல்வு கட்டுப்பாட்டாளர் நாயகத்தின் அலுவலகம் மற்றும் தேசிய புலனாய்வுப் பணிப்பாளர் அலுவலகத்திற்கும் அனுப்பி வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1c35346b.json)
 
 ---
 
@@ -174,17 +234,23 @@ However, the General Secretary of the All-Ceylon Nurses’ Union, H. M. S. B. Ma
 
 ---
 
-### මන්ත්‍රිධුරයක් හිස්ව ඇති බව මැතිවරණ කොමිෂමට දන්වයි
+### Member is empowered the election commission
 
 *2024-05-09 12:28:19* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රිධුරයක්-හිස්ව-ඇති-බව-මැතිවරණ-කොමිෂමට-දන්වයි/11-409519) · `si`
 
-ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුර‍ය අහෝසි වීම හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම් දී තිබේ.
+The Parliament has notified the Elections Commission of a parliamentary seat vacancy due to Mrs. Dianey Gamage's abolition. The National List of Parliamentary Member of Parliament Diyain Gamage has informed Parliamentarian Kushani Rohanajera and General Secretary Kushani Rohana about this.
 
-සමගි ජන බලවේගයේ ජාතික ලැයිස්තුපාර්ලිමේන්තු මන්ත්‍රී ඩයනා ගමගේ මහත්මියගේ  පාර්ලිමේන්තු මන්ත්‍රී ධුරය 2024 මැයි 08 වැනි දින සිට බල පැවැත්වෙන පරිදි අහෝසි වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තු, මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+🟩
+
+The Parliament has informed the Elections Commission that there is a vacancy of a parliamentary parliamentary parliamentary seat due to the abolition of Mrs. Dianey Gamage.
+
+Parliamentarian Kushani Rohanajera, General Secretary Kushani Rohana, has been informed by the National List of Parliamentary Member of Parliament Diyain Gamage..
 
 ◼️
 
 [Data](articles/05d84f31.json)
+
+[Extended Data](ext_articles/05d84f31.ext.json)
 
 ---
 
@@ -230,19 +296,27 @@ Minister Amaraweera said that the spending of the USD 25 million allocated for t
 
 ---
 
-### මේ වසරේදි සියයට තුනක ආර්ථික වර්ධනයක්
+### There is a three percent economic growth this year
 
 *2024-05-09 12:22:52* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදි-සියයට-තුනක-ආර්ථික-වර්ධනයක්/11-409518) · `si`
 
-එකගත්වයකින් හා සම්මුතියකින් යුතුව ඉදිරියට ගියහොත් ලෝකයේ සංවර්ධිත රටක් ලෙස  ශ්‍රී ලංකාව කඩිනමින් ඔසවා තැබිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  අද (09) පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් සිදු කරමින් පැවසීය.
+Sri Lanka's economic growth is at 3%, with President Ranil Wickremesinghe aiming for developed status. Despite challenges, he assures a solid plan and international support. Inflation is at 1.5%, GDP is expected to grow, and interest rates have dropped. The exchange rate is stable, and land ownership programs continue.
 
-පාර්ලිමේන්තුවේ තනි මන්ත්‍රී ධූරයක් තිබියදී වුවත් කිසිම කොන්දේසියක් නොමැතිව තමන් රට බාරාගත්තේ නිසි සැලැස්මක්, අත්දැකීම් සහ ජාත්‍යන්තර සම්බන්ධතා තිබු නිසා බවත්, ඒ හමුවේ අපායට වැටී තිබු රට ගොඩගත හැකිය යන විශ්වාසය තමන්ට තිබූ බවත්  ජනාධිපති රනිල් වික්‍රමසිංහ  මහතා පැවසීය.
+🟩
 
-වැටුණු රට යළි ගොඩනැගීම වෙනුවෙන් විධිමත් ලෙස ආර්ථික ස්ථායිකරණ හා ප්‍රතිසාධන වැඩසටහන් ක්‍රියාත්මක කරන්නට මුල පිරූ බවත් එහි  සමස්ත ප්‍රතිඵලයක් ලෙස 2023 වසරේ මැද භාගයේ සිට ආර්ථික වර්ධනයක ගමන ආරම්භ වී තිබෙන බවත් මෙම වසරේ  ආර්ථික වර්ධනය සියයට තුනක් පමණ වනු ඇතැයි අපේක්ෂා කරන බවත්, විවිධ දේශීය සහ විදේශී, මුල්‍ය ආයතන ද ඒ හා සමාන පුරෝකථන ඉදිරිපත්කර ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
+President Ranil Wickremesinghe said that Sri Lanka was expedited as a developed country in the world, as a developed country in the world, as a developed country in the world.
+
+President Ranil Wickremesinghe said that he had a proper plan, experience and international relationship, despite a single member of Parliament, he had a proper plan, the country.
+
+The economic growth of the year is expected to be a formal economic growth in a formal local and foreigner, which has begun to reconstruct the fallen country.The President said that the similar predictions have been made similarly predictions.
+
+The country's inflation has been converted to 1.5%, and a shortage of GDP in 2023, a percentage of GDP in 2023, a surplus in the balance of GDP 2023The President pointed out that the interest rate has fallen into 10% to -13%.
 
 ...
 
 [Data](articles/60b218f9.json)
+
+[Extended Data](ext_articles/60b218f9.ext.json)
 
 ---
 
@@ -2199,99 +2273,5 @@ It has been decided to open the office to prepare the party at the constituency 
 [Data](articles/7bce3bbe.json)
 
 [Extended Data](ext_articles/7bce3bbe.ext.json)
-
----
-
-### Sri Lanka targets economic transition achieving net zero
-
-*2024-05-09 01:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-targets-economic-transition-achieving-net-zero/108-282214) · `en`
-
-President Ranil Wickremesinghe addresses the inaugural session of the Sri Lanka Climate Summit in Colombo
-
-Plans are underway to introduce legislation in Parliament, which would ensure that all government policies focus on the transformation to a highly competitive export-oriented economy, President Ranil Wickremesinghe said.
-
-One of the items in the bill, in carrying out this transformation, is to ensure that we achieve net zero by 2050.
-
-“And I can tell you we will achieve it before that. Sri Lanka can do it,” said Wickremesinghe.
-
-“So, in making our policies, which are going to affect all of you, not merely a transformation of an economy into export orientation but into an economy that is based on achieving net zero,” he said.
-
-Wickremesinghe was addressing the inaugural session of the Sri Lanka Climate Summit, hosted by the Ceylon Chamber of Commerce, at Shangri-La, Colombo this week.
-
-...
-
-[Data](articles/3ed909a2.json)
-
-[Extended Data](ext_articles/3ed909a2.ext.json)
-
----
-
-### Demonstration against Adani Group
-
-*2024-05-09 01:26:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதானி-குழுமத்துக்கு-எதிராக-ஆர்ப்பாட்டம்/175-337001) · `ta`
-
-Mannar Citizens Committee Chairman Aruttandanda Macas Adikallar criticized the Sri Lankan Cabinet for not approving Adani Company's 52 wind power project on Mannar Island, fearing cultural, historical, and environmental destruction. He vowed to bring the issue to the president and threatened opposition if demands are not met.
-
-🟩
-
-Mannar Citizens Committee Chairman Aruttandanda Macas Adikallar said that the Cabinet of Sri Lanka has not accepted the approval of the 52 wind power project to be carried out by Adani Company on Mannar Island.
-
-He said this while participating in a media briefing held at the office in Mannar on Wednesday (8).
-
-We have been talking about the destruction that will come to us for years by the plan to be re -launched on the Mannar Island.
-
-Our culture and historical traces are going to be destroyed.
-
-Our fertile soil will be destroyed and forced to be forced into a state of existence.
-
-We will bring to the notice of the president on this issue and look forward to his decision.
-
-If our demands are not met, we will have to express our opposition.
-
-◼️
-
-[Data](articles/9cdb341c.json)
-
-[Extended Data](ext_articles/9cdb341c.ext.json)
-
----
-
-### The Tamil Nationalist Who  Dubbed Himself as the “King of Eelam”.
-
-*2024-05-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83970) · `en`
-
-The protracted struggle by Sri Lankan Tamils to achieve justice and equality in the Island  has brought into prominence several colourful and controversial personalities. Among such persons was  a Tamil Nationalist  political activist who adopted the nom de plume “Eelaventhan”meaning King of Eelam.  Eelaventhan whose real name was MK Kanakenthran was active in Tamil politics for over seven l decades. He served as a  member of Parliament in Sri Lanka from 2004 to 2007. The nonagenarian Eelaventhan passed away in Toronto,  Canada on 28 April 2024. His death was widely reported in Sri Lankan Tamil newspapers with even editorials being written about him.
-
-...
-
-[Data](articles/abf9e3d7.json)
-
-[Extended Data](ext_articles/abf9e3d7.ext.json)
-
----
-
-### IMP MPs may have a problem
-
-*2024-05-09 00:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-எம்-பிக்களுக்கு-பிரச்சினை-வரலாம்/175-337000) · `ta`
-
-Minister Kanjana Wijesekera questioned the legality of the United People's Power Party, created by non-citizen Diana Kamagema, during a parliamentary debate. He warned that signing the party's nomination could lead to legal issues, especially since the party's secretary is currently facing problems. The Supreme Court's ruling on MP posts won't be challenged, but the citizenship status of the party's MP raises concerns. The minister advised caution and readiness for legal challenges, emphasizing the importance of ensuring party legality and citizenship requirements.
-
-🟩
-
-Is the United People's Power Party legal created by the country's non -citizen Diana Kamagema?Minister Kanjana Wijesekera said that the questions arise.
-
-He said that if he had signed the party's nomination during the last general election, he would have to face the problems of the party if he had signed an agreement with the current party secretary.
-
-He was speaking at a debate on diplomatic privilege held in Parliament on Wednesday (08).
-
-The Supreme Court has ruled on MP's post of MP. Will not be challenging that judgment. But there is a problem.
-
-Her MP is not the citizenship of Sri Lanka. Here he is the one who registered and signed the party of many MPs in the opposition.. Is the United People's Power Legal?Problems arising. He has given the party to them. He was not a Sri Lankan citizen when he registered the party. He said that a non -belonging to this country could not register the party.
-
-...
-
-[Data](articles/229b15a9.json)
-
-[Extended Data](ext_articles/229b15a9.ext.json)
 
 ---

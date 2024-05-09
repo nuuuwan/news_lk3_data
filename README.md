@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 16:33:39**
+As of **2024-05-09 16:49:49**
 
 ## Newspaper Stats
 
-*Scraped **22,972** Articles*
+*Scraped **22,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 240
 dbsjeyarajcom | 240
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,325
+economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,944
+adalk | 1,947
 tamilmirrorlk | 2,689
 adaderanalk | 2,695
-virakesarilk | 3,415
+virakesarilk | 3,417
 dailymirrorlk | 3,609
 adaderanasinhalalk | 3,675
 
@@ -26,11 +26,109 @@ adaderanasinhalalk | 3,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,971 (100.0%) of 22,972 articles have been extended.
+22,972 (100.0%) of 22,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### மூதூரில் சுகாதார நிலையம் திறந்து வைப்பு
+
+*2024-05-09 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/183068) · `ta`
+
+திருகோணமலை மாவட்டத்தின் மூதூர் சுகாதார வைத்திய அதிகாரி பிரிவுக்குட்பட்ட பெரிய பாலம் பகுதியில் புதிதாக நிருமாணிக்கப்பட்ட  கிராமிய சுகாதார நிலையம் திறந்து வைக்கப்பட்டது.
+
+குறித்த நிகழ்வானது இன்று வியாழக்கிழமை (09)இடம் பெற்றதுடன் கிழக்கு மாகாண ஆளுனர் செந்தில் தொண்டமான் பிரதம அதிதியாக கலந்து கொண்டு இப் புதிய கட்டிடத்தை திறந்து வைத்தார்.
+
+மூதூர் சுகாதார வைத்திய அதிகாரி வைத்தியர் ஹில்மி முகைதீன் பாவா தலைமையில் இடம் பெற்ற இவ் நிகழ்வில் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் கபில நுவன் அதுகோரள உட்பட மாகாண சுகாதார பணிப்பாளர் டொக்டர் டி ஜி.எம்.கொஸ்தா உட்பட பலரும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/e3db22ad.json)
+
+---
+
+### සැරයන් වරයා එල්ලුනාද ? එල්ලුවාද?
+
+*2024-05-09 16:30:10* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්-වරයා-එල්ලුනාද---එල්ලුවාද-/11-409530) · `si`
+
+දික්වැල්ල කෝට්ටගොඩ ආරපොත නිවසක ටයර් සෑයක් මත බාල්කයක එල්ලෙමින් තිබු පොලිස් සැරයන්වරයකුගේ සිරුරක් පෙරේදා (08) සොයා ගත් බව දික්වැල්ල පොලීසිය පවසයි.
+
+එසේ මරුමුවට පත්ව තිබුණි ගන්දර පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කල පොලිස් සැරයන්වරයෙකි.
+
+සිව් දරු පියෙකු වන ඔහු ගෙල වැලලාගෙන ගෙන සිය දිවි හානි කර ගන්නට ඇති බවට පොලීසිය සැක කරයි.
+
+පදිංචි නිවසේ කාමර දෙකකට ද ගිනි තබා තිබු බවත් සැරයන්වරයා ගේ සිරුර එල්ලෙමින් තිබු ස්ථානය යටින් ටයර් හය හතක් තිබු බවත් පොලීස් නිලධාරියෙකු කීය.
+
+කෙසේ වෙතත් එම ටයර් ගිනි දැල්වීමට ගත් උත්සාහය අසාර්ථක වී තිබෙන බව ද කියති.
+
+පවුල් ආරවුලක් මෙම සිද්ධියට හේතු වන්නට ඇති බවට පොලීසිය සැක කරයි.
+
+මිය ගිය සැරයන්වරයාගේ බිරිද ඊට පෙර ඔහුට විරුද්ධව දික්වැල්ල පොලීසියේ පැමිණිල්ලක් කර තිබු අතර එය විභාග කිරීමට දෙදෙනාටම 08 දා උදෑසන 10.00 ට පොලිස් ස්ථානය වෙත පැමිණෙන ලෙසට දැනුම් දී තිබුණි.
+
+අදාල  බිරිද ඒ සදහා පොලීසිය වෙත ගොස් සවස් වන තෙක් සැමියා එන තෙක් බලා සිට නැවත නිවසට පැමිණ බලන විට ඔහුගේ සිරුර බාල්කයක එල්ලෙමින් තිබෙනු දැක පොලීසියට දැනුම් දී ඇත.
+
+...
+
+[Data](articles/fa484716.json)
+
+---
+
+### ගුවන් හමුදා කෝප්‍රල්ගේ මරණයට රියදුරු අත්අඩංගුවට
+
+*2024-05-09 16:17:28* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදා-කෝප්‍රල්ගේ-මරණයට-රියදුරු-අත්අඩංගුවට/11-409529) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කපුදුව ප්‍රදේශය අතරමග දී නීතිවිරෝධී අන්දමින් බසයෙන් බැස යන අතරතුරදී අනතුරකට ලක් වී ගුවන් හමුදා කෝප්‍රල්වරයෙකු ජීවිතක්ෂයට පත්වීම සම්බන්ධයෙන් අදාල බසයේ රියදුරු හා සහායක සැක පිට අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කරන ලෙස මාතර නාගරීක හදීසී මරණ පරීක්ෂක ටී.එම් ලලිත් ද සිල්වා මහතා ඊයේ (09) තිහගොඩ පොලීසියට නියෝග කලේය.
+
+අධිවේගී මාර්ගය හරහා නීතිවිරෝධී ලෙස පා ගමනින් ගොස් සාමාන්‍ය මාර්ගයට යාමට උත්සාහ කරන විට අඩි 20 ක පමණ බෑවුමකින් පහලට ඇද වැටී එසේ මරුමුවට පත්ව තිබුණේ නාරංඕවිට ජාලත්ගම පදිංචිව සිටි කාරියවසම් ජාලත්ගේ ශ්‍රී සජින් ප්‍රභාත් (39) නැමැති එක් දරු පියෙකි.
+
+ඔහු නිවාඩු ලබා රන්සෑගොඩ මහ ගෙදර සිටින තම බිරිද හා දරුවා බැලීමට පැමිණ මිතුරන් පිරිසක් සමග කතරගම වන්දනාවේ ගොස් නැවත එන අතරතුරදී මෙම අනතුරට ලක්ව තිබුණි.
+
+ඇල්පිටියේ සිට අධිවේගී මාර්ගය ඔස්සේ කපුදුව දක්වා පැමිණි බසයට ද ඔහු කතරගම යාම සදහා අතරමගින් ගොඩ වී තිබුණේ ද නීති විරෝධී අන්දමින් වන බවත් නැවත එන විට එම බසයෙන් බැස ගෙදර යාමට උත්සාහ කර තිබුනේ ද ඒ ආකාරයට බව මරණ පරීක්ෂණයේ දී අනාවරණය විය.
+
+...
+
+[Data](articles/1e70f3d2.json)
+
+---
+
+### நுவரெலியாவில் வரட்சி ;  மவுசாக்கலை நீர்த்தேக்கம் நீர்மட்டம் குறைந்தது
+
+*2024-05-09 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/183063) · `ta`
+
+கடந்த சில நாட்களாக மத்திய மலைநாடான நுவரெலியா மாவட்டத்தில் கடுமையான வெப்பம் நிலவுகின்றது. இதனால் மத்திய மலைநாட்டில் உள்ள அனைத்து நீர் தேக்கங்களின் நீர் மட்டம் வெகுவாக குறைந்துள்ளது. சிற்றாறுகள், ஓடைகள் மற்றும் அருவிகள் மற்றும் ஆறுகளில் நீர் மட்டம் குறைந்துள்ளது.
+
+அனைத்து பகுதிகளிலும் உள்ள நீர் வீழ்ச்சிகள் வரண்ட நிலையில் உள்ளது. இதனால் நீர் மின் உற்பத்தி பாதிக்கும் என நீர் மின் நிலைய அதிகாரி ஒருவர் தெரிவித்தார். குறிப்பாக மவுஸ்சாக்கலை நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை விட சுமார் 52 அடி குறைந்து உள்ளது. அதேபோல் காசல்ரீ நீர் தேக்கத்தின் நீர் மட்டம் அதன் கொள்ளளவை விட 47 அடி குறைந்து உள்ளது.
+
+மவுஸ்சாக்கலை நீர் தேக்கத்தின் நீர் மட்டம் வெகுவாக குறைந்து உள்ளதால் பண்டைய காலத்தில் கட்டப்பட்ட பாலம், சண்முக நாதர் ஆலயம், இஸ்லாமிய பள்ளியில் இருந்த தூபி, பௌத்த மத விகாரை, அதன் முற்றத்தில் இருந்த போதி மரம், கங்கேவத்தை நகரில் இருந்த சித்தி விநாயகர் ஆலயம் என்பனவற்றை தற்போது மக்கள் அதிக அளவில் பார்க்க சென்று வருவதை காண கூடியதாக இருக்கின்றது.
+
+...
+
+[Data](articles/7c2b7205.json)
+
+---
+
+### Sri Lanka SEC approves scholars to certify Islamic securities
+
+*2024-05-09 16:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-approves-scholars-to-certify-islamic-securities-162342/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Securities and Exchange Commission said it had approved six scholars to certify Islamic Financial Products that are to be public listed.
+
+These accredited Shariah scholars are authorized to certify the Shariah compliance of Islamic Capital Market Products intended for listing on the Colombo Stock Exchange (CSE) in accordance with the Listing Rules.
+
+“The SEC considers this as an essential step in view of products that require Shariah compatibility and to satisfy the needs of Islamic investors,” Deputy Director General Tushara Jayaratne said in a statement.
+
+Ibrahim Saad Yousif Abd Elaziz (based in United Arab Emirates)
+
+There is a growing demand for Shariah-compliant debt securities such as Sukuk, both domestically and internationally, the SEC said.
+
+Issuers of Islamic capital market products seeking a listing on the CSE are required to obtain a Shariah-compliance certification from any three of the Accredited Shariah Scholars. (Colombo/May9/2024)
+
+◼️
+
+[Data](articles/06ba49f9.json)
+
+---
 
 ### Inquiry on visa scam: CoPF decides not to divulge information
 
@@ -47,6 +145,8 @@ Also, he said the Controller General of Immigration and Emigration was asked to 
 ◼️
 
 [Data](articles/0ce86a74.json)
+
+[Extended Data](ext_articles/0ce86a74.ext.json)
 
 ---
 
@@ -629,6 +729,26 @@ He said that 33 Sri Lankans were taken to the camp in Rostow and trained for 14 
 [Data](articles/36f33d98.json)
 
 [Extended Data](ext_articles/36f33d98.ext.json)
+
+---
+
+### ලක්ෂ 147ක රන් මාල දෙකක් ගුවන්තොටින් පන්නන්න ගිය ඉන්දියානුවා අල්ලයි
+
+*2024-05-09 14:15:40* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 147ක-රන්-මාල-දෙකක්-ගුවන්තොටින්-පන්නන්න-ගිය-ඉන්දියානුවා-අල්ලයි/11-409524) · `si`
+
+රුපියල් එක් කෝටි හතලිස් ලක්ෂයක් පමණ වටිනා ග්‍රෑම් 75 ක් පමණ බරැති  රන් මාළ දෙකක් , ගුවන් තොටුපොළ මගීන්ගේ භාණ්ඩ ප්‍රවාහනය සදහා භාවිතා කරන ට්‍රොලි කරත්තයක සගවා ගෙන , නීතිවිරෝධී ලෙස  කටුනායක ගුවන් තොටුපොළෙන් පිටතට රැගෙන යාමට තැත් කළ ඉන්දීය ජාතිකයෙකු 05/09 දින අලුයම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු තමිල්නාඩු ප්‍රාන්තයේ ට්‍රිචි හි වාසය කරන 36 හැවිරිදි ව්‍යාපාරිකයෙකි . ඔහු ගුවන් මගින් රෙදිපිළි , දුරකථන අමතර කොටස් මෙරටට රැගෙන විත් අලෙවි කිරීමේ ව්‍යාපාරයක ද නිරත වී සිටින්නෙකි .
+
+මොහු 05/09 දින අලුයම 04.55 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔහු සිය ගමන් මලු තබා ගෙන යන ගුවන් තොටුපොළ ට්‍රොලි කරත්තයෙහි සෙලෝ ටේප් යොදා මෙම මාළ දෙක අලවා සගවා , ගෙන ගුවන් තොටුපොළෙන් පිටතට යාමට උත්සාහ කර තිබේ .
+
+මෙසේ අත් අඩංගුවට ගත් මෙම ඉන්දීය ජාතිකයා මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා ඔහු රැගෙන ආ රන් මාළ දෙක ද සමග කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත භාර දී තිබේ .
+
+◼️
+
+[Data](articles/478f059a.json)
 
 ---
 
@@ -2161,149 +2281,5 @@ Therefore, the Sri Lanka Foreign Employment Bureau has further requested the peo
 [Data](articles/05de96ef.json)
 
 [Extended Data](ext_articles/05de96ef.ext.json)
-
----
-
-### Special statement from Parliament
-
-*2024-05-09 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196424) · `si`
-
-The President, believing he could navigate the "country of hell," took control, implementing a Credit Creating Program in three divisions, completing the task in 2023. He restructured creditors from foreign agreements, including Paris and Chinese societies, emphasizing the importance of signing a Memorandum of Understanding. The Government of Sri Lanka is in discussions with official creditors, with a focus on restructuring commercial loans.
-
-🟩
-
-The President also took over the country because he had the belief that he could go to the country of hell, "he said.
-
-The President said that the Credit Creating Program was carried out through three basic divisions.
-
-The President also said that the task was completed in 2023.
-
-The second was that the president had to restructure the creditors who had been officially obtained from the agreement with the foreign countries and agree with the countries such as Paris society as well as the Chinese society as well as countries that did not belong to itThe President has come.
-
-The President emphasized that only this should be done with the signing of a Memorandum of Understanding.
-
-Ranil Wickremesinghe said that the Government of Sri Lanka is discussing with the committee of the official creditors.
-
-The President also said that the restructuring of commercial loan was the third sector.
-
-◼️
-
-[Data](articles/e0790f15.json)
-
-[Extended Data](ext_articles/e0790f15.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-05-09 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196423) · `si`
-
-The Parliamentary Council has convened, marking the start of its proceedings.
-
-🟩
-
-◼️
-
-[Data](articles/8b309c52.json)
-
-[Extended Data](ext_articles/8b309c52.ext.json)
-
----
-
-### Kenyan President lauds Sri Lankan investors in his country
-
-*2024-05-09 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kenyan-President-lauds-Sri-Lankan-investors-in-his-country/108-282221) · `en`
-
-Following the successful acquisition of Liptons East African Tea Plantations across Kenya, Rwanda and Tanzania, Browns has solidified its position as the world's largest tea producer.
-
-Led by High Commissioner to Kenya Kana Kananathan, Browns Chairman Ishara Nanayakara, Executive Director Kamantha Amarasekera, along with Liptons Tea representatives, were honored to meet with the Kenyan President at the State House, Kenya.
-
-The President commended Chairman Nanayakara for Browns' significant investments in Kenya, underscoring the company's commitment to growth and development in the African  region.
-
-Browns Investments has achieved an unprecedented milestone, solidifying its position as the foremost tea producer globally.
-
-◼️
-
-[Data](articles/b21ec4fe.json)
-
-[Extended Data](ext_articles/b21ec4fe.ext.json)
-
----
-
-### New circular on approval of public servants
-
-*2024-05-09 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196422) · `si`
-
-A new circular allows government officials in the Covid-19 affected area to take leave. Issued by the Ministry of Provincial Councils and Local Government Affairs, it guides officials on leave procedures during the pandemic. The circular, based on the Establishments Code, applies to public officers who couldn't report due to the pandemic. The Ministry of Public Administration will announce to officials who fail to report without leave.
-
-🟩
-
-A new circular has been issued to approve the leave of government officials who have failed to report back in the Cowid-12 Pest area.
-
-The circular has been issued by the Secretary to the Ministry of Provincial Councils and Local Government Affairs.
-
-The secretaries of all Ministers have informed the Secretaries of the Ministry and the Heads of the Provincial Counsel and Departments, how to take action to be taken abroad to the due date, which is abiding in the covid epidemic.
-
-According to the Establishments Code, the Public Officers who have not been able to report the presence or paid days due to the Covenan Epidemic area have been issued by the relevant circular.
-
-The Secretary of the Ministry of Public Administration has also stated to issue announcements to all government officials who are not reported to work without the formal leave.
-
-◼️
-
-[Data](articles/39c6ef15.json)
-
-[Extended Data](ext_articles/39c6ef15.ext.json)
-
----
-
-### ‘Interventions’ – A Book Review
-
-*2024-05-09 08:38:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/interventions-a-book-review/) · `en`
-
-“Until they become conscious, they will never rebel, and until after they have rebelled, they cannot become conscious.” ― George Orwell
-
-This is a review (perhaps imprecise) of the anthology “Interventions” – Selected Political Writings of Dayan Jayatilleka edited by Uditha Devapriya and Uthpala Wijesuriya with a forward by Kamaya Jayatissa, published by Neptune. I say imprecise, because I wrote this review before reading the entirety of this collection of writings by Dayan J.  When reading this missive I hope you will understand why I hurried to pen this review before digesting it in its whole.
-
-Dayan Jayatilleke as a public intellectual has been rediscovered by two millennial opinion journalists – the type who seek the narrative that’s alternative to that of the mainstream.
-
-I must declare my interest. I know Dayan since 1968 as the son of Mervyn De Silva who was my Editor at Ceylon Daily News. Mervyn was my friend and a mentor of sorts.
-
-...
-
-[Data](articles/cfebe030.json)
-
-[Extended Data](ext_articles/cfebe030.ext.json)
-
----
-
-### A special announcement for war in foreign countries
-
-*2024-05-09 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196421) · `si`
-
-The Minister of Foreign Employment warns against referring to Sri Lankan military operations abroad, highlighting a racket involving Sri Lankan youths in Russia. Retired army soldiers are recruited for high-paying jobs in the Russian army, deployed for future defense. The Minister assures that no one will be sent abroad without government approval. Two retired military officers are arrested in connection with this racket, with investigations ongoing.
-
-🟩
-
-Minister of Foreign Employment has requested the public not to refer to the army of operations in foreign countries.
-
-In a statement, the Minister pointed out that a racket of Sri Lankan youths in Russia together with the Sri Lankan youth work in Russia.
-
-Retired army soldiers have been recruited, saying that the Russian army is given high paid jobs.
-
-The announcement stated that they have been deployed to duty for the future defense ring and even in months.
-
-Minister of Manusha Nanayakkara says that no person will be sent to a foreign country without the approval of the Sri Lanka Bureau and the Government of Sri Lanka.
-
-Therefore, the Sri Lanka Bureau of Foreign Employment further requests the Sri Lanka Bureau of Sri Lanka Library, not to go abroad.
-
-Meanwhile, two retired military officers have been arrested in connection with the racket of former army personnel in Russia and Ukraine.
-
-Police said they have been arrested by the CID.
-
-...
-
-[Data](articles/f8bb59e2.json)
-
-[Extended Data](ext_articles/f8bb59e2.ext.json)
 
 ---

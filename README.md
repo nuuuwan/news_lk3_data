@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 12:04:54**
+As of **2024-05-09 12:18:25**
 
 ## Newspaper Stats
 
-*Scraped **22,908** Articles*
+*Scraped **22,909** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 201
-bbccomsinhala | 239
 dbsjeyarajcom | 239
+bbccomsinhala | 240
 newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,320
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,905 (100.0%) of 22,908 articles have been extended.
+22,908 (100.0%) of 22,909 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,35 @@ The President also expressed that it is his expectation to conclude all negotiat
 
 [Data](articles/503beea5.json)
 
+[Extended Data](ext_articles/503beea5.ext.json)
+
 ---
 
-### திறந்து வைத்து தூங்கிய ஆசிரியை  பலாத்காரம்
+### Rape
 
 *2024-05-09 11:37:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறந்து-வைத்து-தூங்கிய-ஆசிரியை-பலாத்காரம்/175-337017) · `ta`
 
-சுட்டெரிக்கும் வெயிலை தாங்கிக்கொள்வதற்கு பலரும் பல நடவடிக்கைகளை எடுத்துள்ளனர். இதில், வீட்டு, கதவு, ஜன்னல்களை திறந்துவைத்தாலும் காற்று வருவது குறைவாகவே இருக்கும். எனினும், தவிர்க்க முடியாத காரணத்தால் திறந்து வைக்கவே வேண்டும்.
+In Chennai, a 31-year-old teacher was raped while her husband was away. The attacker, a 38-year-old man from Coimbatore, entered the home, threatened the woman, and fled after neighbors intervened. The incident shocked the community.
 
-வீட்டில், கதவு, ஜன்னல்கள் திறந்திருப்பதை அவதானிக்கும் கள்வர்கள் கைவரிசையை காண்பித்துவிடுகின்றனர். எனினும், சென்னையில் பாலியல் பலாத்கார சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-சென்னை கோயம்பேடு பகுதியில் வசித்து வரும் 31 வயதுடைய இளம்பெண் ஒருவர் தனியார் பள்ளியில் ஆசிரியையாக பணிபுரிந்து வருகிறார். இவருக்கு திருமணமாகி 2 பெண் குழந்தைகள் உள்ளனர். இவரது கணவர் ஆட்டோ ஓட்டி பிழைப்பு நடத்தி வருகிறார்.
+Many have taken many steps to bear the sunny sun. In this case, the home, door and windows are open. However, it must be opened because of the inevitable reason.
 
-இந்த நிலையில் இவரது கணவர் இரவு நேரத்தில் ஆட்டோ ஓட்ட வெளியே சென்று விடுவதால் இளம்பெண் வீட்டில் மகள்களுடன் இரவில் தனியாக இருந்து வந்துள்ளார். செவ்வாய்க்கிழமை (07)  இரவு வெயிலின் தாக்கம் அதிகமாக இருந்ததால் காற்றுக்காக கதவை சற்று திறந்து வைத்து தூங்கியதாக கூறப்படுகிறது.
+At home, the door, the windows are open. However, the rape incident has taken place in Chennai.
+
+A 31 -year -old teenager, who lives in Coimbatore, Chennai, works as a teacher at a private school. He is married and has 2 girls. Her husband is driving an auto.
+
+In this case, her husband left the auto to drive at night with her daughters at night with her daughters. The impact of the sun was high on Tuesday (07) and it was said that the door was open for the air and slept.
+
+At that time, a drug man entered the house and threatened the woman who was asleep. Shocked by this, the woman tried to shout. But the man threatened to kill the girls if he shouted.
+
+Later, the woman was raped and tried to flee. The woman then shouted and the neighbors came running and attacked the drug and attacked him.
 
 ...
 
 [Data](articles/2083ee59.json)
+
+[Extended Data](ext_articles/2083ee59.ext.json)
 
 ---
 
@@ -129,6 +141,8 @@ Infrared observations using two instruments aboard the James Webb Space Telescop
 ...
 
 [Data](articles/0877a6fe.json)
+
+[Extended Data](ext_articles/0877a6fe.ext.json)
 
 ---
 
@@ -1324,6 +1338,26 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### මතභේදයට තුඩු දී ඇති විදුලිබල පනත් කෙටුම්පත ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි වන්නේ කෙසේද ?
+
+*2024-05-09 05:51:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gey1r9yp7o) · `si`
+
+මතභේදයට තුඩු දී ඇති විදුලිබල පනත් කෙටුම්පත ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි වන්නේ කෙසේද ?
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලි බල පනත් කෙටුම්පතේ වගන්ති බොහොමයක් ආණ්ඩු ක්‍රම ව්‍යවස්ථාවට පටහැනි බැවින් ඒවා සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතරයකින් අනුමත වී ජනමත විචාරණයකින්ද අනුමත විය යුතු බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා මේ වන විට ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සම් කිහිපයක් ඉදිරිපත් වී තිබේ.
+
+ලංකා විදුලි සේවක සංගමයේ ලේකම් රන්ජන් ජයලාල්, පෙරටුගාමී සමාජවාදී පක්ෂයේ දුමින්ද නාගමුව, ජාතික ජන බලවේගයේ බලශක්ති කමිටුවේ සාමාජිකයින් වූ පුණ්‍යා ශ්‍රී කුමාර ජයකොඩි සහ මයුර චානක නෙත්ති කුමාර යන අය විසින් මේ වනවිට අදාළ පනත් කෙටුම්පත අභියෝගයට ලක් කරමින් පෙත්සම් ඉදිරිපත් කර ඇත.
+
+පුනර්ජනනීය විදුලිය: 2030වන විට සුළං බල ඉලක්ක සපුරන්න මන්නාරමට හැකිද?
+
+යෝජිත පනත් කෙටුම්පත හරහා සිදුවන පරිවර්තනයන් කුමක් දැයි පෙත්සම්කරුවන් අධිකරණය හමුවේ මෙසේ සඳහන් කර තිබේ.
+
+...
+
+[Data](articles/15b1f918.json)
+
+---
+
 ### SJB legitimacy at stake after SC ruling on Diana: Kanchana
 
 *2024-05-09 03:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-legitimacy-at-stake-after-SC-ruling-on-Diana-Kanchana/108-282218) · `en`
@@ -2269,25 +2303,5 @@ A Major General and a Sergeant, both retired, have been arrested by the Criminal
 [Data](articles/30a83971.json)
 
 [Extended Data](ext_articles/30a83971.ext.json)
-
----
-
-### Two retired army officers arrested for illegally  recruiting Sri Lankans for Russian forces
-
-*2024-05-08 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99091/two-retired-army-officers-arrested-for-illegally-recruiting-sri-lankans-for-russian-forces) · `en`
-
-Two retired officers of the Sri Lanka Army have been arrested for illegally recruiting Sri Lankan army soldiers to be employed in the Russian military.
-
-Accordingly, a retired Major General and a retired Sergeant were apprehended by the Criminal Investigation Department (CID) in Kurunegala on Wednesday (08).
-
-Earlier on Wednesday, the Ministry of Defence announced the launch of an operation to arrest the suspects implicated in directing retired Sri Lankan Army soldiers to join Russian or Ukrainian forces by illegal means.
-
-Defence Secretary, General (Rtd) Kamal Gunaratne had emphasized that the operation was initiated jointly with the Criminal Investigations Department (CID) and the Intelligence Units.
-
-◼️
-
-[Data](articles/38f06890.json)
-
-[Extended Data](ext_articles/38f06890.ext.json)
 
 ---

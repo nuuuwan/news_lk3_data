@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 11:03:35**
+As of **2024-05-09 11:18:12**
 
 ## Newspaper Stats
 
-*Scraped **22,882** Articles*
+*Scraped **22,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,234 @@ bbccomsinhala | 239
 dbsjeyarajcom | 239
 newsfirstlk | 363
 islandlk | 1,243
-economynextcom | 1,318
+economynextcom | 1,320
 dailyftlk | 1,331
-adalk | 1,933
-tamilmirrorlk | 2,679
-adaderanalk | 2,681
-virakesarilk | 3,399
-dailymirrorlk | 3,594
+adalk | 1,934
+tamilmirrorlk | 2,683
+adaderanalk | 2,683
+virakesarilk | 3,401
+dailymirrorlk | 3,598
 adaderanasinhalalk | 3,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,882 (100.0%) of 22,882 articles have been extended.
+22,889 (100.0%) of 22,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### அனைத்து பிரச்சினைகளுக்கும் சஜித் தான் காரணம்-ரணில்
+
+*2024-05-09 11:04:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பிரச்சினைகளுக்கும்-சஜித்-தான்-காரணம்-ரணில்/175-337015) · `ta`
+
+நாடு எதிர்நோக்கும் பிரச்சினைகளுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவே முழுப்பொறுப்பேற்க வேண்டும் என்று கூறிய ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஏப்ரல் 10 ஆம் திகதி பிரேமதாச பிரதமராக பதவியேற்றிருந்தால் பிரச்சினை ஏதும் ஏற்பட்டிருக்காது என தெரிவித்துள்ளார்.
+
+சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் ஆற்றிய விசேட அறிக்கை தொடர்பில் ஜனாதிபதியிடம் சில விளக்கங்களை கோரியபோதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+"இந்த விவகாரங்கள் குறித்து பாராளுமன்றத்தில் விவாதம் நடத்துவது நல்லது என்று நான் நினைக்கிறேன். இது குறித்து பல்வேறு கருத்துக்கள் உள்ளன.
+
+இந்த அனைத்துப் பிரச்சினைகளுக்கும் அவர் முழுப்பொறுப்பேற்க வேண்டும் என நான் எதிர்க்கட்சித் தலைவிடம் கூற விரும்புகிறேன். ஏப்ரல் 10 ஆம் திகதி அவர் பிரதமராக பதவியேற்றிருந்தால், எந்தப் பிரச்சினையும் இல்லை. இந்த பிரச்சினைகள் நான் என் திறனுக்கு ஏற்றவாறு இந்தப் பிரச்சினைகளைக் கையாண்டு செயல்படுகிறேன்," என்று ஜனாதிபதி கூறினார்.
+
+◼️
+
+[Data](articles/33c78ac3.json)
+
+---
+
+### Man arrested with smuggled cigarettes worth Rs. 500,000 at BIA
+
+*2024-05-09 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99099/man-arrested-with-smuggled-cigarettes-worth-rs-500000-at-bia) · `en`
+
+The Police Narcotics Bureau (PNB) officers at the Bandaranaike International Airport (BIA) in Katunayake have seized a large consignment of smuggled cigarettes, valued at around Rs. 500,000 along with a suspect.
+
+The arrested suspect has been identified as a 29-year-old resident of Colombo, the police said.
+
+Subsequent investigations have uncovered that the suspect had smuggled the cigarettes by illegal means from Dubai into Sri Lanka.
+
+◼️
+
+[Data](articles/5338581c.json)
+
+---
+
+### Sri Lanka builds up Navy capacity to handle foreign research ships during moratorium: FM
+
+*2024-05-09 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-builds-up-navy-capacity-to-handle-foreign-research-ships-during-moratorium-fm-162187/) · `en`
+
+ECONOMYNEXT – Sri Lanka has already started to build the capacity of Navy in handling foreign research vessels during a one-year moratorium, Foreign Ministry Ali Sabry said.
+
+President Ranil Wickremesinghe’s government has temporarily halted foreign research ships after strong security concerns raised by neighbour India and the United States following the visit of two Chinese research vessels in 14 months.
+
+Sabry said Sri Lanka has banned foreign ships for research purpose though they have use the island nation’s ports for replenishments and crew changes.
+
+“What we basically say is not a ban, but a moratorium for a year that until we expand our capacity and build our capacity to understand what is necessary, for which we have appointed a committee. We will have a temporary pause for this particular year for all marine research activity,” he said at a media briefing on Wednesday.
+
+...
+
+[Data](articles/2105ba68.json)
+
+---
+
+### ”சுங்கத்தை டிஜிட்டல் மயமாக்க வேண்டும்”
+
+*2024-05-09 10:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்தை-டிஜிட்டல்-மயமாக்க-வேண்டும்/175-337014) · `ta`
+
+ஏற்றுமதியை எளிதாக்கும் மற்றும் வாழ்க்கைச் செலவைக் குறைக்கும் காகித மூலமற்ற வர்த்தகத்தை உறுதி செய்வதற்காக, இலங்கை சுங்கம் உள்ளிட்ட எல்லை முகவர்களால் வழங்கப்படும் சேவைகளை அரசாங்கம் முழுமையாக டிஜிட்டல் மயமாக்க வேண்டும்.
+
+தொற்றுநோய் காலத்தில் இலங்கை சுங்கம் சீராக இயங்கி, முழுமையாக டிஜிட்டல் மயமாக்கப்பட்ட சேவைகளை வழங்கிய போதிலும், தொற்றுநோய்க்கு பிந்தைய காலத்தில், ஏஜென்சி கைமுறை செயல்முறைக்கு திரும்பியதானது, தாமதங்கள் மற்றும் கூடுதல் செலவுகளுடன் ஊழலுக்கு இடமளிக்கிறது.
+
+“தொடர்ந்து வரும் அரசாங்கங்களுக்கு டிஜிட்டல் மயமாக்கலுக்குச் செல்வதற்கான உந்துதல் மற்றும் தொலைநோக்குப் பார்வை இல்லை. துறைமுகப் போக்குவரத்துச் செலவில் உருவாகும் ஒவ்வொரு ரூபாயும் உங்களிடம் திரும்ப வந்து சேரும். இது வாடிக்கையாளருக்கு அனுப்பப்படுகிறது, எனவே வாழ்க்கைச் செலவும் அதிகரித்து செல்கிறது.
+
+...
+
+[Data](articles/eefc1af8.json)
+
+---
+
+### Luis Rubiales to stand trial over World Cup kiss
+
+*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Luis-Rubiales-to-stand-trial-over-World-Cup-kiss/108-282230) · `en`
+
+May 9 (BBC) - The former head of the Spanish football federation, Luis Rubiales, will stand trial for sexual assault over his unsolicited kissing of Women's World Cup player Jenni Hermoso.
+
+The kiss, which Ms Hermoso said was "unwanted", happened at last year's 1-0 World Cup against England and made global headlines.
+
+Mr Rubiales was forced to resign but has denied any wrongdoing.
+
+A Spanish High Court judge said on Wednesday Mr Rubiales was also facing one charge of coercion.
+
+The scandal overshadowed a historic moment for Spain's women's team, which at the time was celebrating its first ever World Cup win on 20 August 2023.
+
+During the trophy presentation ceremony, Mr Rubiales clasped Ms Hermoso's head between his hands and planted a kiss on her lips.
+
+It was broadcast to billions worldwide, producing a fierce backlash and national debate over sexism in Spain.
+
+Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensual and he was the victim of a "social assassination".
+
+...
+
+[Data](articles/0ffce29e.json)
+
+[Extended Data](ext_articles/0ffce29e.ext.json)
+
+---
+
+### Opposition Leader must take full responsibility over issues faced by country: President
+
+*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-Leader-must-take-full-responsibility-over-issues-faced-by-country-President/108-282231) · `en`
+
+Parliament, May 09 (Daily Mirror)- Claiming that Opposition Leader Sajith Premadasa must take full responsibility over the issues faced by the country, President Ranil Wickremesinghe said today that if Premadasa had taken up the premiership on April 10, there would have been no issues.
+
+The President said this when Sajith Premadasa requested some clarifications from the President over his special statement in Parliament today.
+
+"I think we better have a debate in Parliament over these matters. There are various opinions. I must tell the Opposition Leader, he should take the full responsibility for all these issues. If he had taken up the premiership on April 10, none of these issues would have cropped up. I performed to my capacity," the President said.
+
+◼️
+
+[Data](articles/a3b02d99.json)
+
+---
+
+### Luis Rubiales to stand trial over World Cup kiss
+
+*2024-05-09 10:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Luis-Rubiales-to-stand-trial-over-World-Cup-kiss/107-282230) · `en`
+
+May 9 (BBC) - The former head of the Spanish football federation, Luis Rubiales, will stand trial for sexual assault over his unsolicited kissing of Women's World Cup player Jenni Hermoso.
+
+The kiss, which Ms Hermoso said was "unwanted", happened at last year's 1-0 World Cup against England and made global headlines.
+
+Mr Rubiales was forced to resign but has denied any wrongdoing.
+
+A Spanish High Court judge said on Wednesday Mr Rubiales was also facing one charge of coercion.
+
+The scandal overshadowed a historic moment for Spain's women's team, which at the time was celebrating its first ever World Cup win on 20 August 2023.
+
+During the trophy presentation ceremony, Mr Rubiales clasped Ms Hermoso's head between his hands and planted a kiss on her lips.
+
+It was broadcast to billions worldwide, producing a fierce backlash and national debate over sexism in Spain.
+
+Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensual and he was the victim of a "social assassination".
+
+...
+
+[Data](articles/e4b76e96.json)
+
+---
+
+### A non -citizen cannot contest the election
+
+*2024-05-09 10:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரஜை-அல்லாத-ஒருவர்-தேர்தலில்-போட்டியிட-முடியாது/175-337012) · `ta`
+
+Non-citizens can register political parties in Sri Lanka but cannot vote or contest elections. Former Election Commission Chairman Mahinda Deshapriya clarified this, noting Diana Kamage wasn't part of the United People's Power or the National Front, which was formed by Mangala Samaraweera and Sripati Suriyarachchi, not Mahinda Rajapaksa.
+
+🟩
+
+Former Chairman of the Election Commission Mahinda Deshapriya said yesterday that there is no legal ban on non -nationals to register a political party.
+
+"Sri Lanka's law only prevents a non -citizen election, while the law prohibits voting in non -citizens in the election," he told the Daily Mirror.
+
+He also said that former Minister of State Diana Kamage had not signed the United People's Power and he had never been the general secretary of our National Front.
+
+“Our National Front was formed by the late MPs Mangala Samaraweera and the late Sripati Suriyarachchi who broke the political alliance with former President Mahinda Rajapaksa.
+
+It is noteworthy that Diana Kamage's husband took over the post, while Ruwan Ferdinandas was the general secretary of Jathika Peramuna.
+
+◼️
+
+[Data](articles/b6f67ea5.json)
+
+[Extended Data](ext_articles/b6f67ea5.ext.json)
+
+---
+
+### Sri Lanka slated to achieve 3 percent economic growth this year: President
+
+*2024-05-09 10:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-slated-to-achieve-3-percent-economic-growth-this-year-President/108-282226) · `en`
+
+Parliament, May 09 (Daily Mirror)- Sri Lanka is slated to achieve a three percent economic growth while inflation has dropped to 1.5 percent by going along on a challenging and correct path, President Ranil Wickremesinghe told Parliament today.
+
+“The Rupee has been stabilized against the dollar and stands at less than Rs. 300,” he said, making a review of the economy in Parliament.
+
+The President said the debt restructuring process is expected to be completed by the middle of this year.
+
+“The ultimate goal of the restructuring process is to push total debt services down to 95 percent of the GDP and to bring the foreign debt service to 4.5 percent,” he said.
+
+In a special statement in Parliament, the President said he assumed leadership of the country without any conditions, despite being a sole member of Parliament and cited his well-thought-out plan, extensive experience and international relations as the reasons for his confidence in the country's recovery from its challenges.
+
+◼️
+
+[Data](articles/04b2205d.json)
+
+[Extended Data](ext_articles/04b2205d.ext.json)
+
+---
+
+### People's representatives decide whether to continue to manage state institutions: martyrs
+
+*2024-05-09 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/183033) · `ta`
+
+President Ranil Wickremesinghe urged cooperation from opposition parties for economic recovery, highlighting his role in managing the country's crisis without conditions. He announced a 12 billion rupee relief for low-income earners and plans to stabilize the economy through bilateral talks with the IMF, aiming for a 3% economic growth increase.
+
+🟩
+
+We are resting in hell that we cannot continue to manage the loss of state institutions. Is it marked as traitors in history?Or is it marked as martyrs?People's representatives must decide. The President called on the opposition parties to cooperate with the proceedings for the economic recovery.
+
+President Ranil Wickremesinghe made this statement during a special speech in Parliament today (09).
+
+I was responsible for the country without any conditions for the country when the country was burning, despite being a member of a parliamentarian because of proper plan, experience and international relations, and that he was responsible for the country without any conditions and that he could restore the country that fell in hell through it.. My resolutions have been successful.
+
+Cannot continue to manage state institutions that lose. We will provide relief to low income earners, and I have decided to allocate 12 billion rupees.
+
+...
+
+[Data](articles/791f836b.json)
+
+[Extended Data](ext_articles/791f836b.ext.json)
+
+---
 
 ### Announcement of assets worth 120 million rupees
 
@@ -56,6 +266,38 @@ Police say legal action will be taken in the future regarding these assets. Remb
 
 ---
 
+### Injunction preventing Maithripala from functioning as SLFP chairman extended
+
+*2024-05-09 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99098/injunction-preventing-maithripala-from-functioning-as-slfp-chairman-extended-) · `en`
+
+The Colombo District Court ordered for the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP) to be extended until May 29.
+
+This order was issued when a plaint filed by former President Chandrika Bandaranaike Kumaratunga was taken up for consideration before the court today (09).
+
+On April 04, the Colombo District Court issued an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+◼️
+
+[Data](articles/c490d42b.json)
+
+[Extended Data](ext_articles/c490d42b.ext.json)
+
+---
+
+### டயானா கமகேயின் எம்.பி பதவி வெற்றிடம் அறிவிப்பு
+
+*2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேயின்-எம்-பி-பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
+
+டயானா கமகே எம்.பி பதவிக்கு தகுதியற்றவர் என உயர்நீதிமன்றம் தீர்ப்பளித்ததையடுத்து, பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன பாராளுமன்றத்தில் அறிவித்தார்.
+
+பாராளுமன்ற ஆசனம் நேற்று (மே 8) முதல் வெற்றிடமாகியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/74121071.json)
+
+---
+
 ### Vacuum notification
 
 *2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
@@ -73,6 +315,34 @@ He told Parliament that the parliamentary seat has been a vacuum since yesterday
 [Data](articles/f02eaa5d.json)
 
 [Extended Data](ext_articles/f02eaa5d.ext.json)
+
+---
+
+### A youth arrested at airport with Kush ganja worth Rs 2 crore
+
+*2024-05-09 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/183024) · `ta`
+
+A Thai youth, a professional dancer from Homagama, was arrested at Katunayake International Airport with 278 grams of kush ganja worth Rs 2 crore, hidden in 36 packages in his travel bag. The suspect arrived from Bangkok and is under investigation by the Police Drug Eradication Unit.
+
+🟩
+
+A youth from Thailand has been arrested at the Katunayake International Airport (BIA) last night (08) night.
+
+The 32 -year -old Homagama professional dancer has been arrested.
+
+During the test operation at the airport, the suspect was seized by 278 grams of kush ganja, which was hidden in his travel bag.
+
+Packed in 36 separate packages, the Kush ganja is worth Rs 2 crore.
+
+The suspect arrived at Katunayake Bandaranaike International Airport from Bangkok, Thailand at 10.40 pm last night.
+
+It is noteworthy that the Police Drug Eradication Unit is conducting further investigations to the arrested suspect.
+
+◼️
+
+[Data](articles/d936fee1.json)
+
+[Extended Data](ext_articles/d936fee1.ext.json)
 
 ---
 
@@ -99,6 +369,82 @@ Chandrika Bandaranaike Kumaratunga filed the constitution of Maithripala Sirisen
 [Data](articles/de4568a5.json)
 
 [Extended Data](ext_articles/de4568a5.ext.json)
+
+---
+
+### Politicians are able to make the soil for the soil - Mullai becomes Sinhala earth
+
+*2024-05-09 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183020) · `ta`
+
+Tamil politicians urged to protect Tamil lands in Mullaitivu from being given to Sinhalese. Native Tamil lands are being converted for Sinhalese use, affecting livelihoods and agriculture. Tamil people's rights to their land are at risk, with government projects and land seizures impacting their way of life.
+
+🟩
+
+Mullaitivu Island Mather Association president Su Kangamma appealed to the Tamil politicians to open our mouths to save our soil.
+
+He was speaking to the media during a protest on Wednesday (8) in front of the Governor of the Northern Province.
+
+He added that the native lands of the Tamil people are being given to the Sinhalese under the guise of Mahaweli in the Mullaitivu district.
+
+With three villages in Kokkadoduvai, six Grama Niladhari Divisions, the Sinhalese government planned the 1984 Sinhalese government planned to destroy the LTTE in 1984 and allow you to restore you in three days.
+
+But 14 years after we were waiting for us to go to the area for thirty years, our lands were not handed over to us.
+
+As the area is found to be agricultural land, our people have not yet been allowed to engage in agriculture.
+
+The people who lived there are unaware of what is fishing, but they are now forced to live with a livelihood, relying on small fishing.
+
+...
+
+[Data](articles/72b46ce9.json)
+
+[Extended Data](ext_articles/72b46ce9.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 298.50/70 to US dollar
+
+*2024-05-09 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-50-70-to-us-dollar-162222/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 298.50/70 to the US dollar on Thursday from 298.75/85 the previous day, dealers said.
+
+A bond maturing on 15.12.2026 was quoted down at 10.60/65 percent from 10.60/70 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 10.95/11.00 percent.
+
+A bond maturing on 15.03.2028 was quoted stable at 11.35/45 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.01 percent at 12,355, and the S&P SL20 was up 0.16 percent at 3,646. (Colombo/May09/2024)
+
+◼️
+
+[Data](articles/dc21229a.json)
+
+---
+
+### A dancer is arrested with a crore rash
+
+*2024-05-09 10:01:15* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-කුෂ්-සමග-නර්තන-ශිල්පියෙක්-අල්ලයි/11-409515) · `si`
+
+A 32-year-old club dancer from Homagama, Sri Lanka, was arrested at Katunayaka airport on 5/08 for smuggling cannabis. The 5kg stash, labeled "Kushw," was hidden in 36 parcels. The dancer had picked up the drugs in Bangkok, Thailand, at 10.40 pm on 5/08.
+
+🟩
+
+Officers of the Katunayaka airport have been arrested by the Police Narcotics Airport on 5/08 on the 5/08 night with a person who was brought to Sri Lanka.
+
+He is a 32-year-old club danceron from Homagama area and has brought the stock of cannabis.
+
+The "Kushw", which weighing five kilograms and 278 grams heights in 36, was packed in 36 tracking parcels.
+
+The dancer took the stock of cannabis at 10.40 days at Thailand at 10.40 pm on Thailand from Bangkok, Malailand.
+
+He was arrested by the Police Narcotics Division of the Katunayake airport and commenced further investigations.
+
+◼️
+
+[Data](articles/a0cad449.json)
+
+[Extended Data](ext_articles/a0cad449.ext.json)
 
 ---
 
@@ -879,36 +1225,6 @@ Community activists have said that government officials should act immediately t
 [Data](articles/522bbcab.json)
 
 [Extended Data](ext_articles/522bbcab.ext.json)
-
----
-
-### Politicians are able to make the soil for the soil - Mullai becomes Sinhala earth
-
-*2024-05-09 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/183020) · `ta`
-
-Tamil politicians urged to protect Tamil lands in Mullaitivu from being given to Sinhalese. Native Tamil lands are being converted for Sinhalese use, affecting livelihoods and agriculture. Tamil people's rights to their land are at risk, with government projects and land seizures impacting their way of life.
-
-🟩
-
-Mullaitivu Island Mather Association president Su Kangamma appealed to the Tamil politicians to open our mouths to save our soil.
-
-He was speaking to the media during a protest on Wednesday (8) in front of the Governor of the Northern Province.
-
-He added that the native lands of the Tamil people are being given to the Sinhalese under the guise of Mahaweli in the Mullaitivu district.
-
-With three villages in Kokkadoduvai, six Grama Niladhari Divisions, the Sinhalese government planned the 1984 Sinhalese government planned to destroy the LTTE in 1984 and allow you to restore you in three days.
-
-But 14 years after we were waiting for us to go to the area for thirty years, our lands were not handed over to us.
-
-As the area is found to be agricultural land, our people have not yet been allowed to engage in agriculture.
-
-The people who lived there are unaware of what is fishing, but they are now forced to live with a livelihood, relying on small fishing.
-
-...
-
-[Data](articles/72b46ce9.json)
-
-[Extended Data](ext_articles/72b46ce9.ext.json)
 
 ---
 
@@ -1907,339 +2223,5 @@ Reportedly, the victim has succumbed to injuries upon admission to the Balapitiy
 [Data](articles/45864c87.json)
 
 [Extended Data](ext_articles/45864c87.ext.json)
-
----
-
-### Shooting in Ahungalla leaves a man dead
-
-*2024-05-08 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99089/shooting-in-ahungalla-leaves-a-man-dead) · `en`
-
-A 54-year-old man was shot dead by two gunmen in Bogahapitiya area of Ahungalla on Wednesday evening (08).
-
-The assailants, who had arrived on a motorcycle, have shot a man at his home before fleeing the scene.
-
-The victim has succumbed to injuries while being rushed to the Balapitiya Base Hospital.
-
-The motive behind the shooting was not immediately clear, according to the police.
-
-◼️
-
-[Data](articles/b6f4d4a9.json)
-
-[Extended Data](ext_articles/b6f4d4a9.ext.json)
-
----
-
-### Ahungala firing in Boghabitiya area
-
-*2024-05-08 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/183014) · `ta`
-
-In Ahungala Boghapitiya, a shooting injured one person, police reported.
-
-🟩
-
-One person was injured in a shooting in the Ahungala Boghapitiya area, police said.
-
-◼️
-
-[Data](articles/cf4cea4a.json)
-
-[Extended Data](ext_articles/cf4cea4a.ext.json)
-
----
-
-### A person dies after shooting at Ahungalla
-
-*2024-05-08 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196408) · `si`
-
-A person died and another was injured in a shooting in Ahungalla, with the victim in Balapitiya Hospital.
-
-🟩
-
-One person was injured in a shooting conducted in Ahungalla area.
-
-The victim has been admitted to the Balapitiya Hospital
-
-◼️
-
-[Data](articles/27e3f013.json)
-
-[Extended Data](ext_articles/27e3f013.ext.json)
-
----
-
-### Sri Lankan charged with rape of ex-girlfriend in Malta
-
-*2024-05-08 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-charged-with-rape-of-ex-girlfriend-in-Malta/108-282184) · `en`
-
-Malta, May 8, (Malta Today) - A Sri Lankan has been remanded in Malta on Tuesday after being charged with the rape of his ex-girlfriend.
-
-Technician Mathihul Akmal Mohamed Jabir, 32, from Sri Lanka, was arraigned before magistrate Joseph Gatt by police inspectors John Spiteri and Sherona Buhagiar, assisted by prosecutor Cynthia Tomasuolo.
-
-The magistrate read out the charges and informed the defendant of his rights.
-
-Jabir is charged with the rape of a woman, understood to be his ex-girlfriend, holding her against her will, subjecting her to a non-consensual sexual act, harassment, causing her to fear violence, stalking her, directing insults and threats at her and misusing electronic telecommunications equipment.
-
-Inspector Spiteri told the court that the defendant had already left Malta on a flight to Sri Lanka when police officers had initially tried to arrest him. He was detained upon his return.
-
-...
-
-[Data](articles/979bf4da.json)
-
-[Extended Data](ext_articles/979bf4da.ext.json)
-
----
-
-### Sri Lanka COPF summons border officials over VFS Global visa crisis
-
-*2024-05-08 20:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-copf-summons-border-officials-over-vfs-global-visa-crisis-162162/) · `en`
-
-ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance has summoned the Secretary of the Ministry of Public Security and Controller General of Immigration over an ongoing crisis over monopoly visa deal given to VFS Global, a private company.
-
-“Summoned the Secretary to Min of Public Security along with CG of Immigration tomorrow for balanced examination in to the ongoing visa fiasco,” COPF Chief Harsha de Silva said in a twitter.com post.
-
-“While it is customary for all public finance related legislation be routed through COPF, this strangely was not.”
-
-Sri Lanka used to give a double entry visa for tourists for 50 dollars (30 dollars for South Asia) and a one dollar charge, through its ETA portal, which was quickly filled.
-
-However, after the shift to the VFS Global website, the price went up to 100.77 dollars with a 18.50 service charge and a 7.27 dollar ‘convenience fee’.
-
-...
-
-[Data](articles/6b80c689.json)
-
-[Extended Data](ext_articles/6b80c689.ext.json)
-
----
-
-### Vyaskant of Jaffna, who debuted in IPL
-
-*2024-05-08 20:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்லில்-அறிமுகமான-யாழ்ப்பாணத்தின்-வியாஸ்காந்த்/44-336980) · `ta`
-
-Vijayakanth Vyaskant, a 22-year-old Jaffna spinner, debuted in IPL with Sunrisers Hyderabad against Lucknow Super Jains. He's an alumnus of Jaffna Central College, having played in Sri Lanka Premier League, Bangladesh Premier League, and represented Sri Lanka in Asian Games and UAE Twenty-20 Series.
-
-🟩
-
-Vijayakanth Vyaskant, a Jaffna spinner in the Indian Premier League (IPL).
-
-22 -year -old Vyaskant has made his debut for the Sunrisers Hyderabad in a match against Lucknow Super Jains in Hyderabad.
-
-Vyaskant, an alumni of the Jaffna Central College, has been playing in the Sri Lanka Premier League following the focus of the under -19 Sri Lankan.
-
-He then played in the Bangladesh Premier League and made his debut for Sri Lanka in Asian Games and continued to play the United Arab Emirates Twenty-20 Series.
-
-◼️
-
-[Data](articles/515cc373.json)
-
-[Extended Data](ext_articles/515cc373.ext.json)
-
----
-
-### Viyaskanth debuts in IPL with Sunrisers
-
-*2024-05-08 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyaskanth-debuts-in-IPL-with-Sunrisers/108-282182) · `en`
-
-Leg-spinner Viyaskanth Vijayakanth was handed his Indian Premier League debut today after he was named in the Sunrisers Hyderabad playing XI against the Lucknow Super Giants.
-
-Vijayakanth was drafted into the Sunrisers squad after Sri Lankan all-rounder Wanindu Hasaranga was ruled out of the tournament due to injury.
-
-◼️
-
-[Data](articles/4f711873.json)
-
-[Extended Data](ext_articles/4f711873.ext.json)
-
----
-
-### The court that gave Hirunika time time
-
-*2024-05-08 19:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிருணிகாவுக்கு-கால-அவகாசம்-வழங்கிய-நீதிமன்றம்/175-336979) · `ta`
-
-The Court of Appeal ordered a complaint against Hirunika Premachandra, giving her lawyers two weeks to file objections. The case, investigated by Uva Provincial Governor Mohamed Muzammil's son, is ongoing.
-
-🟩
-
-The Court of Appeal has ordered the call of the complaint filed against Hirunika Premachandra on June 14.
-
-Moreover, the court has given time to Hirunika Premachandra's lawyers to take steps to file objections to the case within two weeks.
-
-It is noteworthy that the case is being investigated according to the complaint filed by the son of Governor Mohamed Muzammil, Uva Provincial Governor.. Remble
-
-◼️
-
-[Data](articles/38b5e16e.json)
-
-[Extended Data](ext_articles/38b5e16e.ext.json)
-
----
-
-### Immigration head, Ministry secretary summoned before CoPF
-
-*2024-05-08 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-head-Ministry-secretary-summoned-before-CoPF/108-282181) · `en`
-
-Colombo, May 08 (Daily Mirro)- Secretary to the Ministry of Public Security along with Controller General of the Department of Immigration and Emigration have been summoned before the Committee on Public Finance tomorrow, CoPF Chairman Dr. Harsha De Silva said today.
-
-He said they were summoned for a balanced inquiry into the ongoing visa fiasco.
-
-In a post on X, he said although it is customary for all public finance related legislations to be routed through the COPE, the visa matter was not referred to the CoPF.
-
-◼️
-
-[Data](articles/f96dc6b0.json)
-
-[Extended Data](ext_articles/f96dc6b0.ext.json)
-
----
-
-### 10000 entrepreneurs to produce village eggs
-
-*2024-05-08 19:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-බිත්තර-නිෂ්පාදනයට-ව්‍යවසායකයන්-10000ක්/11-409513) · `si`
-
-The government launched a program to create 10,000 entrepreneurs for village egg production, in partnership with the Department of Animal Production and Health and the Department of Samurdhi Development. The initiative was inaugurated at the Ministry of Sethsiripaya, Battaramulla.
-
-🟩
-
-The government has launched a program to create 10,000 entrepreneurs to produce villages eg eggs.
-
-The project is being carried out with the Department of Animal Production and Health and the Department of Samurdhi Development.
-
-The inauguration ceremony of the program was held at the Ministry of Sethsiripaya, Battaramulla yesterday.
-
-◼️
-
-[Data](articles/d568d671.json)
-
-[Extended Data](ext_articles/d568d671.ext.json)
-
----
-
-### Complete the infrastructure development in the Bingiriya Industrial Zone before the end of the year
-
-*2024-05-08 19:08:52* · [`adalk`](https://www.ada.lk/breaking_news/බිංගිරිය-කර්මාන්ත-කලාපයේ-යටිතල-පහසුකම්-සංවර්ධන-කටයුතු-වසර-අවසන්-වීමට-පෙර-නිම-කරන්න/11-409512) · `si`
-
-President Ranil Wickremesinghe urged officials to expedite the Bingiriya Industrial Zone's infrastructure development, aiming for completion by year-end. The project's first phase is already done, with ongoing construction. Officials, including the Presidential Secretary and Economic Affairs Secretary, are monitoring progress, with a visit planned for June.
-
-🟩
-
-President Ranil Wickremesinghe instructed the relevant officials to complete the infrastructure development zone of the Bingiriya Industry.
-
-President Ranil Wickremesinghe gave the relevant officials at the Presidential Secretariat today (08) to look into the progress of the infrastructure, including infrastructure of the infrastructure of the Bingiriya Industry Zone.
-
-The construction work of the Bingiriya Industrial Industry is underway, while the first phase of the project has already been completed under the first phase of the project.
-
-According to the official advised to terminate further work before the end of this year, he said he expects to visit the work on June.
-
-Presidential Secretary Saman Ekanayake and Economic Secretary of the Economic Affairs Dr. R. S. H. Secretary to the Ministry of Investment Promotion. M. Officers of the Ministry of Power and Energy, Power and Energy Ministry Secretary Ranjith Rubasinghe, Secretary to the Ministry of Transport and Highways were also present.
-
-◼️
-
-[Data](articles/76ceaf86.json)
-
-[Extended Data](ext_articles/76ceaf86.ext.json)
-
----
-
-### The village cannot be developed without improving agriculture
-
-*2024-05-08 19:05:42* · [`adalk`](https://www.ada.lk/breaking_news/කෘෂිකර්මාන්තය-දියුණු-නොකොට-ගම-දියුණු-කරන්න-බැහැ/11-409511) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of improving agriculture for village development, highlighting the role of Grama Niladhari in uplifting the rural economy. He also mentioned the government's efforts to modernize agriculture, increase income, and improve village life through various programs.
-
-🟩
-
-President Ranil Wickremesinghe said that agriculture cannot be strengthened without improveming agriculture.
-
-The President emphasized that the commitment of ground level state officials to improve the government to improve the rural economy, including the Government Agriculture Investigation Program, is essential.
-
-President Ranil Wickremesinghe addressing the ceremony held at Temple Trees this morning for the appointment of appointment letters to 2100 new Grama Niladharis.
-
-The Department of Examinations were given the highest scorers on December 2, 2023, a Grama Niladhari appointments were presented to 2100 other points.
-
-President Ranil Wickremesinghe joined the symbolic appointment letters.
-
-The President made the new Grama Niladhari of the inheritance and heritage to uplift the government to uplift the government.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/a85efecb.json)
-
-[Extended Data](ext_articles/a85efecb.ext.json)
-
----
-
-### A successful restructuring can reduce debt by $ 17 billion
-
-*2024-05-08 19:02:23* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීම-සාර්ථක-කර-ගැනීමෙන්-ණය-බර-ඩොලර්-බිලියන-17කින්-අඩු-කර-ගත-හැකියි/11-409510) · `si`
-
-Ali Sabri, Sri Lanka's External Affairs Minister, announced a potential $17 billion debt reduction through successful restructuring. The government aims to complete foreign debt with IMF's second loan installment, focusing on non-aligned foreign policy and maintaining sovereignty. Sri Lanka has close relations with China and India, aiming for economic development and investment in renewable energy.
-
-🟩
-
-External Affairs Minister Ali Sabri said the government is expected to complete the prevailing foreign debt and that Sri Lanka's debt can be reduced by US $ 17 billion by a success.
-
-The Minister said that with the second loan installment of the International Monetary Fund, the country's development can be continued.
-
-Minister of External Affairs Ali Sabri expressed his views at a press conference held at the press conference held today (08) at the President's Media Center today.
-
-The Minister also said that Sri Lanka is following a non-aligned foreign policy and to maintain the sovereignty of Sri Lanka and have a concessionary relief to the international community.
-
-Ali Sabri pointed out that the government has taken measures to obtain the support of the two countries to support the economic development of the country, having close relations with China as well as close relations with India.
-
-...
-
-[Data](articles/fe76512f.json)
-
-[Extended Data](ext_articles/fe76512f.ext.json)
-
----
-
-### Health staff launches strikes at provincial level
-
-*2024-05-08 18:56:47* · [`adalk`](https://www.ada.lk/breaking_news/සෞඛ්‍ය-කාර්ය-මණ්ඩල-පළාත්-මට්ටමින්-වර්ජන-අරඹයි/11-409509) · `si`
-
-Health staff in the North Central Province will strike from 8 am to 4 pm, affecting hospital services. The Health Trade Union Alliance demands economic justice, citing delayed salary payments. Strikes are also planned for the North Western and Sabaragamuwa provinces on the 15th and 16th of this month. The Ministry of Health acknowledges the issue but hasn't fulfilled the promise of economic justice.
-
-🟩
-
-The Health Trade Union Alliance states that attempting to carry out the projected work to be carried out to ensure that the health staff has not taken measures to perform economic justice.
-
-Accordingly, the hospitals of the North Central Province will be removed from 8 am to 4 pm from 8 am to 12.00 in the North Central Province.. In this way, there will be four hours of strike activities in hospitals in every province in the preliminary phase.
-
-At the North Western and Sabaragamuwa, Sabaragamuwa and Sabaragamuwa to the 15th of this month, strike measures are being implemented in the North Western and 16th on the 15th of this month.
-
-The Ministry of Health has prepared the Ministry of Health to serve the economic justice, but it is said that the government is recognized as a policy in principle, but this trade measures are being carried out as the promise has not yet been promised.
-
-...
-
-[Data](articles/a8e13e37.json)
-
-[Extended Data](ext_articles/a8e13e37.ext.json)
-
----
-
-### Mystery surrounds inmate deaths at Magazine Prison
-
-*2024-05-08 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mystery-surrounds-inmate-deaths-at-Magazine-Prison/108-282180) · `en`
-
-Colombo, May 08 (Daily Mirror)- Following the deaths of two inmates at the Magazine Prison allegedly after consuming a parcel of rice containing pork curry, the Department of Prisons has announced an internal investigation into the incident.
-
-According to sources, the Judicial Medical Officer (JMO) has issued an open verdict regarding their autopsies.
-
-However, the bodies are slated to undergo further examination at the Medical Research Institute of Sri Lanka (MRI).
-
-The deceased individuals, who were detained on charges of trafficking 'Ice' narcotics, were part of a group of approximately 15 inmates who had consumed the parcel of rice brought by relatives.
-
-This led to three inmates being hospitalized at the National Hospital, Colombo for suspected food poisoning.
-
-Subsequently, two of them succumbed to the illness, while another remains in a critical condition.
-
-...
-
-[Data](articles/4320dab4.json)
-
-[Extended Data](ext_articles/4320dab4.ext.json)
 
 ---

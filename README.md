@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 21:52:53**
+As of **2024-05-09 22:07:11**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 3,687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,019 (100.0%) of 23,025 articles have been extended.
+23,025 (100.0%) of 23,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### රුසියානු - යුක්‍රේන යුද්ධයට ගොස් පැන ආ ශ්‍රී ලාංකිකයෙක් කරුණු රැසක් හෙළිකරයි
+### A Sri Lankan who has gone to war in Russian - Ukrainian war
 
 *2024-05-09 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196454) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරටින් නීතිවිරෝධී ලෙස ගොස් ඉන් පැන ආ ලාංකිකයින් දෙදෙනකු 'අද දෙරණ' සමග කරුණු රැසක් හෙළි කළේය.
+Two Sri Lankans involved in the Russian-Ukrainian war shared their experiences, highlighting the harsh realities of combat and the economic motivations behind their participation. They described the war as more akin to suicide, with no clear path to return home. The conflict, initiated by Russia's invasion of Ukraine on February 24, 2022, has seen the recruitment of mercenaries from various countries, including Sri Lanka, for what Russia hopes will be a swift victory.
 
-එහිදී ඔවුන් පැවසුවේ යුද බිමේදී තුවාල සිදුවන සාමාජිකයින් ද යළි යුද බිමට යැවීමට තරම් ඔවුන් කුරිරු බවය.
+🟩
 
-"අපේ ආර්ථික ගැටලු නිසා තමයි අපි ඒ වගේ තැනකට ගියේ. අපි දන්නේ නැහැ කිසිම දෙයක්. කැලයක් මැදට ගිහින් දැම්මා. යුද්ධයකටත් වැඩිය ඒක සියදිවි නසා ගැනීමක්. නැවත පැමිණීමක් නැහැ. යුක්‍රේන සොල්දාදුවෝ හදපු බංකර්වල තමයි අපි දවල් දවසේ ඉන්නේ. රෑට අපි ගමන් කරනවා. ඩ්‍රෝන ප්‍රහාරයක් වැදිලා කිලෝමීටර් එකහමාරක් විතර මම බඩගෑවා. ලංකාවෙදි භාවිතා කරපු යුද උපක්‍රම ශිල්ප සියල්ලම මම භාවිත කළා. අවසානයේ නැවත මම මගේ මව් රටට ආවා."
+Two Sri Lankans who had gone to Ukrainian war revealed a number of facts with Ada Derana.
 
-මේ අතර මිනිස් ජාවාරම්කරුවන් රුසියානු - යුක්‍රේන යුද්ධය සඳහා මෙරටින් නීතිවිරෝධී ලෙස යවන ලද 06 දෙනෙකු මියගොස් ඇතැයි විමර්ශන මගින් අනාවරණ කරගෙන තිබෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා අද (09) පැවසීය.
+They said they were cruel enough to restore members of injuries on the battlefield.
 
-2022 පෙබරවාරි 24 වනදා රුසියානු හමුදා යුක්‍රේන භූමිය ආක්‍රමණය කිරීමත් සමග රුසියානු යුක්‍රේන යුද්ධය ආරම්භ වුණි.
+"It was because of our economic problems that we went like that. We don't know anything. Left a jungle in the middle. It is more suicide than a war. There is no return. We are in the day of the day of the bunkers built Ukrainian soldiers. We travel at night. I crawled for a drone attack and a half kilometers. I used all the war tactics used in Sri Lanka. I came back to my home country. "
+
+Meanwhile, police spokesman Nihal Talduuwa, police spokesman, said that the human traffickers were killed in the Russian-Ukrainian war.
+
+On February 24, 2022, the Russian army invaded Ukrainian territory, the Russian Ukraine War began.
+
+Russia believes that the war will end in a short time, but the profile continued to expedite it.
+
+When the men died in the death, they recruited the mercenaries from various countries for war victory.
 
 ...
 
 [Data](articles/12d804b3.json)
+
+[Extended Data](ext_articles/12d804b3.ext.json)
 
 ---
 
@@ -70,6 +80,8 @@ Despite the legal and personal challenges she faces, Gamage pledged her ongoing 
 
 [Data](articles/c3f392ca.json)
 
+[Extended Data](ext_articles/c3f392ca.ext.json)
+
 ---
 
 ### New special unit to monitor Sri Lankan involvement in Russia-Ukraine conflict
@@ -86,17 +98,25 @@ The Defence Secretary also requests the public to provide information on individ
 
 [Data](articles/e155929c.json)
 
+[Extended Data](ext_articles/e155929c.ext.json)
+
 ---
 
-### මුජිබර්ගේ නම ගැසට් කරයි
+### Mujiber's name gazettes
 
 *2024-05-09 20:56:40* · [`adalk`](https://www.ada.lk/breaking_news/මුජිබර්ගේ-නම-ගැසට්-කරයි/11-409542) · `si`
 
-ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රීධුරය අහෝසි වීම හේතුවෙන් සමගි ජන බලවේගයේ හිස්වූ ජාතික ලැයිස්තු මන්ත්‍රීධුරය සඳහා නම් කළ මුජිබර් රහුමාන් මහතා මන්ත්‍රීවරයෙක් ලෙස පත්කර ඇති බව සඳහන් කරමින් මැතිවරණ කොමිෂින් සභාව විසින් අතිවිශේෂ ගැසට් නිවේදනයක් අද (09දා) නිකුත් කර තිබේ.
+Mujibar Rahman issued a special gazette notification on 09, following the abolition of Mrs. Diana Gamage.
+
+🟩
+
+Due to the abolition of Mrs. Diana Gamage, Mujibar Rahman has issued a special gazette notification today (09).
 
 ◼️
 
 [Data](articles/c03599d1.json)
+
+[Extended Data](ext_articles/c03599d1.ext.json)
 
 ---
 
@@ -117,6 +137,8 @@ The NPP representatives pointed out that the NPP was not prepared to use racism 
 ...
 
 [Data](articles/cdc48d9c.json)
+
+[Extended Data](ext_articles/cdc48d9c.ext.json)
 
 ---
 
@@ -175,6 +197,8 @@ This nomination was formalized through a gazette notification, marking Rahuman's
 ◼️
 
 [Data](articles/fbc9d9d7.json)
+
+[Extended Data](ext_articles/fbc9d9d7.ext.json)
 
 ---
 

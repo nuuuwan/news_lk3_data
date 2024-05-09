@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 18:10:37**
+As of **2024-05-09 18:22:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 3,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,987 (100.0%) of 22,988 articles have been extended.
+22,988 (100.0%) of 22,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Addressing the media, he said 50 buses were completely destroyed and another 50 
 ...
 
 [Data](articles/f8e85182.json)
+
+[Extended Data](ext_articles/f8e85182.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 17:33:46**
+As of **2024-05-09 17:54:46**
 
 ## Newspaper Stats
 
-*Scraped **22,982** Articles*
+*Scraped **22,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,947
+adalk | 1,949
 tamilmirrorlk | 2,689
 adaderanalk | 2,696
 virakesarilk | 3,418
-dailymirrorlk | 3,609
-adaderanasinhalalk | 3,677
+dailymirrorlk | 3,610
+adaderanasinhalalk | 3,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,982 (100.0%) of 22,982 articles have been extended.
+22,982 (100.0%) of 22,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### මධ්‍යම පරිසර අධිකාරිය නීතිවිරෝධී ලන්ච් ෂීට් ගබඩාවක් වටලයි
+
+*2024-05-09 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196445) · `si`
+
+කැස්බෑව සහ බෙල්ලන්විල ප්‍රදේශයේ සිදුකළ වැටලීමකින් නීතිවිරෝධී පොලිතීන් “ලන්ච් ෂීට්” තොගයක් අත්අඩංගුවට ගෙන තිබේ.
+
+මධ්‍යම පරිසර අධිකාරිය, පරිසර පොලිස් ඒකකය සහ පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සමග ඒකාබද්ධව ඊයේ (08) මධ්‍යම රාත්‍රියේ මෙම වැටලීම සිදුකර ඇත.
+
+මෙහිදී කිලෝග්‍රෑම් 1,625ක පමණ නීති විරෝධී “පොලිතීන් ඇතුළු ලන්ච් ෂීට්” තොගයක් සොයාගෙන තිබේ.
+
+ජාතික පාරිසරික පනතේ විධිවිධාන යටතේ අදාළ කර්මාන්ත ශාලාවේ හිමිකරුට සහ ලොරි රථයේ හිමිකරුට එරෙහිව නීතිමය පියවර ගැනීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/fc23dcd7.json)
+
+---
+
+### STF officers honored for rescuing hostage children
+
+*2024-05-09 17:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/STF-officers-honored-for-rescuing-hostage-children/110-282255) · `en`
+
+A team of Special Task Force (STF) officers, lauded for their bravery in rescuing two children held hostage by their father in Jalthara, Hanwella, were honored with cash prizes in recognition of their exemplary service.
+
+Public Security Minister Tiran Alles presided over the ceremony held at the ministry today. Among the attendees were IGP Deshabandu Tennakoon, STF Commandant Waruna Jayasundara and DIG Ranmal Kodithuwakku. The event also saw the presence of DIG M.KB.S.N. Gunaratne, SP Dimuthu Samaranayake and seven other STF personnel who were awarded with Rs. 750,000 in cash along with certificates of appreciation from the IGP.
+
+Last week, two children who were taken hostage by a father in Jalthara, Hanwella were rescued by the STF after a nine-hour operation. The suspect had come with a hand grenade to kill his wife who was living at the Government Servant's Housing Complex in Jalthara last evening and took the children hostage. The STF managed to arrest the suspect with a great effort.
+
+◼️
+
+[Data](articles/cd6e95f3.json)
+
+---
+
+### අධික උෂ්ණය හේතුවෙන් ගෙවුනු සතියක කාලයක් තුල 4ක් මිය ගිහින්
+
+*2024-05-09 17:20:30* · [`adalk`](https://www.ada.lk/breaking_news/අධික-උෂ්ණය-හේතුවෙන්-ගෙවුනු-සතියක-කාලයක්-තුල-4ක්-මිය-ගිහින්/11-409531) · `si`
+
+ගෙවුනු සතියක කාලයක් තුලදී යාපනය දිස්ත්‍රීක්කයට බලපෑ අධික උෂ්ණත්වය හේතුවෙන් යාපනය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකර ලැබූ රෝගීන් සිව් දෙනෙකුට තාප ආගාතය බලපෑම හේතුවෙන් මිය ගොස් ඇතැයි ඒම රෝහලේ විශේෂ වෛද්‍යවරුන් පෙන්වා දෙයි.
+
+පවතින අධික උෂ්ණත්වයෙන් ජනතාව ආරක්ෂා විය යුතු ආකාරය පිළිබඳව ජනතාව දැනුවත් කිරීමේ මාධ්‍ය සාකච්ඡාවක් යාපනය ශික්ෂණ රේහලේදී පැවති අවස්ථාවේදී එම අවස්ථාවට සහභාගී වූ වෛද්‍යවරුන් මේ බව පවසා සිටියහ.
+
+යාපනය ශික්ෂණ රෝහලට විවිධ රෝගී තත්වයන් හේතුවෙන් නේවාසිකව ඇතුලත් කරනු ලැබූ රෝගීන්ට පවතින අධික උෂ්ණත්වය බලපෑම හේතුවෙන් මිය යාමට සිදුවුනු බවටත් අදාල මරණයන් එම රෝගීන්ගේ විවිධ රෝග හේතුවෙන් මිය ගියද එම රෝගීන්ගේ රෝගී තත්වයන් උත්සන්න වීමට අධික උෂ්ණත්වය හේතුවෙන් ඇතිවන තාප ආගාතය ප්‍රධාන වශයෙන් බලපෑ බවටද මෙම මාධ්‍ය සාකච්ඡාවේදී වෛද්‍යවරුන් පවස සිටියහ.
+
+අදාල රෝගීන්ගේ රෝගී තත්වයන්ට අමතරව තාප ආගාතය බලපෑමෙන් වකුගඩු, හෘදයේ සහ පෙනහලුවල ක්‍රියාකාරීත්වය අඩපණ වීම මෙන්ම මොළයේ ක්‍රියාකාරීත්වයද අඩපන වන බවට වෛද්‍යවරුන් මෙහිදී පෙන්වා දුන්හ.
+
+...
+
+[Data](articles/aa7b6cb0.json)
+
+---
+
+### සියල්ල අවසානයේ ඩයනා කළ හෙළිදරව්ව
+
+*2024-05-09 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196443) · `si`
+
+පාර්ලිමේන්තු අසුන අහිමි වූ ඩයනා ගමගේ මහත්මිය අද (09) විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් කැඳවා තිබුණි.
+
+රාජ්‍ය අමාත්‍යවරියක ලෙස කටයුතු කළ ඩයනා ගමගේ මහත්මියට මෙරට පාර්ලිමේන්තුවේ අසුන් ගැනීමට නීත්‍යානුකූල සුදුසුකමක් නොමැති බව ශ්‍රේෂ්ඨාධිකරණය ඊයේ (08) තීන්දු කළේය.
+
+මේ අතර හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මියට විදේශගත වීම වළක්වාලමින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (09) තහනම් නියෝගයක් නිකුත් කර තිබුණි.
+
+එවන් පසුබිමක මාධ්‍ය සාකච්ඡාවක් කැඳවමින් ඩයනා ගමගේ මහත්මිය සඳහන් කළේ,
+
+"මගේ දේශපාලනය මෙතැනින් නවතින්නේ නැහැ. වැඩිකල් යන්න කලින් මේ පාර්ලිමේන්තුව විසුරුවා හරිනවා. ඉදිරි දේශපාලනයට මම අනිවාර්යයෙන්ම එනවා."
+
+"ජනාධිපතිතුමාගේ සහයෝගයට මම හැමදාම ඉන්නවා. කොටලුවෝ හැංගෙච්ච වෙලාවේ රනිල් වික්‍රමසිංහ තමයි මේ රට භාර ගත්තේ."
+
+"මේ තීරණය එහෙම නම් ඒ පක්ෂයත් අවලංගුයි. මොකද ඒ පක්ෂය පැවරුවේ මගේ අත්සනින්. ඒක ඇතුලේ අර්බුද ගොඩක් තියෙනවා. ඒවා මම ඉදිරියේදී කියන්නම්."
+
+"ප්‍රශ්නයක් තියෙනවා නම් සජබයේ මාව තියාගත්තේ ඇයි. මගේ තියෙන්නේ දකුණේ ලේ. මගේ තාත්තා බ්‍රිතාන්‍ය ජාතික කාන්තාවක් දීගෙට ගත්තා. ඒක මගේ වරද නෙමෙයි. ඒක හොඳයි. මම කැමතියි."
+
+...
+
+[Data](articles/f766cb78.json)
+
+---
 
 ### Diana gets to mouth
 
@@ -773,6 +851,24 @@ Northern Provincial Chief Secretary, Northern Provincial Ministry of Local Gover
 [Data](articles/0f220ed9.json)
 
 [Extended Data](ext_articles/0f220ed9.ext.json)
+
+---
+
+### තවත් කලු සුද්දෝ පාර්ලිමේන්තුවේ ඉන්නවා
+
+*2024-05-09 14:30:30* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-කලු-සුද්දෝ-පාර්ලිමේන්තුවේ-ඉන්නවා/11-409527) · `si`
+
+"අනගාරික ධර්මපාලතුමා කිව්වා ටයිකෝඩ් දාගත්ත කළු සුද්දෝ තවම ලංකාවේ ඉන්නවා කියලා, ඒ කියමන හරියට හරි ඔය අහු උනේ, තව ඉන්නවා පාර්ලිමේන්තු ඔය වගේ කළු සුද්දෝ, මේ අය අපේ රටේ  පුරවැසියෝ නෙමෙයි, ඒ වුනාට අපේ පාර්ලිමේන්තුවට ඇවිල්ලා වරදාන වරප්‍රසාද භුක්ති විදිනවා නීති විරෝධීව, පුරවැසිකම තියෙන්නේ පිට රටක. ඒ උනාට ලංකාවේ මිනිස්සුන්ගේ බදු සල්ලි වලින් මොවුන් ජීවත් වෙනවා" යැයි  මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවාහැංගුණවැවේ  ධම්මරතන නාහිමි පානන් පැවසුහ.
+
+උන්වහන්සේ මේ බව පැවසුවේ අද (9දා) මිහින්තලේදී  පැවති මාධ්‍ය හමුවකදීය. එහිදී වැඩි දුරටත් උන්වහන්සේ මෙසේද පැවසූහ.
+
+"පාර්ලිමේන්තුවේ දිවුරුම් දෙන්නේ බොරුවට හැමෝම එකම ප්‍රඥප්තිය ක්‍රියාත්මක කරන්නේ ලෝකයේ බලය අත් හරින්න අකමැතිම අය සිටින්නේ  ලංකා දේශපාලනයේ ශ්‍රී ලංකා පාර්ලිමේන්තුවේ,
+
+සමගි ජන බලවේගයේ කණ්ඩායම නොදැන ගෙන නෙමෙයි ඩයනා ගමගේ මන්ත්‍රී ධූරයට පත් කරේ, දැන දැන තමයි මේ වැරැද්ද කරේ සබජයෙන් ඒ වැරැද්ද කරා නම්, ආණ්ඩුවට  ඒ වැරැද්ද නිවැරදි කරන්න තිබුණා.
+
+...
+
+[Data](articles/4b1087a1.json)
 
 ---
 
@@ -2201,127 +2297,5 @@ Chandrika Bandaranaike Kumaratunga filed the constitution of Maithripala Sirisen
 [Data](articles/de4568a5.json)
 
 [Extended Data](ext_articles/de4568a5.ext.json)
-
----
-
-### Politicians are able to make the soil for the soil - Mullai becomes Sinhala earth
-
-*2024-05-09 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/183020) · `ta`
-
-Tamil politicians urged to protect Tamil lands in Mullaitivu from being given to Sinhalese. Native Tamil lands are being converted for Sinhalese use, affecting livelihoods and agriculture. Tamil people's rights to their land are at risk, with government projects and land seizures impacting their way of life.
-
-🟩
-
-Mullaitivu Island Mather Association president Su Kangamma appealed to the Tamil politicians to open our mouths to save our soil.
-
-He was speaking to the media during a protest on Wednesday (8) in front of the Governor of the Northern Province.
-
-He added that the native lands of the Tamil people are being given to the Sinhalese under the guise of Mahaweli in the Mullaitivu district.
-
-With three villages in Kokkadoduvai, six Grama Niladhari Divisions, the Sinhalese government planned the 1984 Sinhalese government planned to destroy the LTTE in 1984 and allow you to restore you in three days.
-
-But 14 years after we were waiting for us to go to the area for thirty years, our lands were not handed over to us.
-
-As the area is found to be agricultural land, our people have not yet been allowed to engage in agriculture.
-
-The people who lived there are unaware of what is fishing, but they are now forced to live with a livelihood, relying on small fishing.
-
-...
-
-[Data](articles/72b46ce9.json)
-
-[Extended Data](ext_articles/72b46ce9.ext.json)
-
----
-
-### Announcements to be survived to the public officers who have not been resurired
-
-*2024-05-09 10:06:40* · [`adalk`](https://www.ada.lk/breaking_news/නිවාඩු-නොලබා-යළි-සේවයට-නාපු-රාජ්‍ය-නිලධාරින්ට-සේවය-හැරයාමේ-නිවේදන/11-409516) · `si`
-
-The government is issuing announcements to unreturned public officers, especially those who failed to report back by the due date during the COVID-19 pandemic. It's also addressing officers scheduled to arrive in Sri Lanka in 2020 and 2021, offering relief for their return dates. The Secretary to the Ministry of Public Administration and the Heads of the Ministry of Local Government Affairs are tasked with ensuring these directives are followed.
-
-🟩
-
-The government has decided to issue announcements to all government officials who have not reported back to the due date without endorsing the current entrances during the past covid epidemic.
-
-It has also been decided to enter the country in 2020 and 2021, and the officers who were to arrive in the year 2020 and 2021, and the officers who were to arrive in Sri Lanka in 2020 and 2022 have been decided to provide relief to the date of return to the service.
-
-Secretary to the Ministry of Public Administration and the Heads of the Ministry of Local Government Affairs should be taken to ensure the commands of the Cabinet of Ministers and the provisions of the Cabinet of Ministers.The circular issued by Mr. Yasaratne states.
-
-◼️
-
-[Data](articles/3f086b62.json)
-
-[Extended Data](ext_articles/3f086b62.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 298.50/70 to US dollar
-
-*2024-05-09 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-298-50-70-to-us-dollar-162222/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 298.50/70 to the US dollar on Thursday from 298.75/85 the previous day, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 10.60/65 percent from 10.60/70 percent.
-
-A bond maturing on 15.09.2027 was quoted stable at 10.95/11.00 percent.
-
-A bond maturing on 15.03.2028 was quoted stable at 11.35/45 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.01 percent at 12,355, and the S&P SL20 was up 0.16 percent at 3,646. (Colombo/May09/2024)
-
-◼️
-
-[Data](articles/dc21229a.json)
-
-[Extended Data](ext_articles/dc21229a.ext.json)
-
----
-
-### A dancer is arrested with a crore rash
-
-*2024-05-09 10:01:15* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-පහක-කුෂ්-සමග-නර්තන-ශිල්පියෙක්-අල්ලයි/11-409515) · `si`
-
-A 32-year-old club dancer from Homagama, Sri Lanka, was arrested at Katunayaka airport on 5/08 for smuggling cannabis. The 5kg stash, labeled "Kushw," was hidden in 36 parcels. The dancer had picked up the drugs in Bangkok, Thailand, at 10.40 pm on 5/08.
-
-🟩
-
-Officers of the Katunayaka airport have been arrested by the Police Narcotics Airport on 5/08 on the 5/08 night with a person who was brought to Sri Lanka.
-
-He is a 32-year-old club danceron from Homagama area and has brought the stock of cannabis.
-
-The "Kushw", which weighing five kilograms and 278 grams heights in 36, was packed in 36 tracking parcels.
-
-The dancer took the stock of cannabis at 10.40 days at Thailand at 10.40 pm on Thailand from Bangkok, Malailand.
-
-He was arrested by the Police Narcotics Division of the Katunayake airport and commenced further investigations.
-
-◼️
-
-[Data](articles/a0cad449.json)
-
-[Extended Data](ext_articles/a0cad449.ext.json)
-
----
-
-### Mumbai Indians thrown
-
-*2024-05-09 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196425) · `si`
-
-Mumbai Indians missed the IPL 2024 Playoff after losing 8 of their 12 matches.
-
-🟩
-
-Another match between the Indian Premier League of the Indian Premier League was held yesterday (08).
-
-However, the Mumbai Indians were the first to lose the opportunity to reach the Playoff in the 2024 IPL.
-
-They have played 12 matches, which have only four matches.
-
-◼️
-
-[Data](articles/ee7fcca1.json)
-
-[Extended Data](ext_articles/ee7fcca1.ext.json)
 
 ---

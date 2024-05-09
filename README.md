@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 11:18:12**
+As of **2024-05-09 11:33:54**
 
 ## Newspaper Stats
 
-*Scraped **22,897** Articles*
+*Scraped **22,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,97 @@ islandlk | 1,243
 economynextcom | 1,320
 dailyftlk | 1,331
 adalk | 1,934
-tamilmirrorlk | 2,683
 adaderanalk | 2,683
+tamilmirrorlk | 2,684
 virakesarilk | 3,401
-dailymirrorlk | 3,598
-adaderanasinhalalk | 3,662
+dailymirrorlk | 3,599
+adaderanasinhalalk | 3,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,889 (100.0%) of 22,897 articles have been extended.
+22,897 (100.0%) of 22,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
 
-### அனைத்து பிரச்சினைகளுக்கும் சஜித் தான் காரணம்-ரணில்
+### ’’குஷ்’’ ஷை உருட்டிவந்த நடன கலைஞர் கைது
+
+*2024-05-09 11:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷை-உருட்டிவந்த-நடன-கலைஞர்-கைது/175-337016) · `ta`
+
+ஐந்து மில்லியன் ரூபாவிற்கும் அதிகமான பெறுமதியான "குஷ்" என்ற போதை இலங்கைக்கு கொண்டு வந்த நபரை கட்டுநாயக்க விமான நிலைய பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவு அதிகாரிகள் கைது செய்துள்ளனர்.
+
+ஹோமாகம பிரதேசத்தில் வசிக்கும் 32 வயதுடைய கிளப் நடனக் கலைஞரான இவர் தனது சூட்கேஸில் மறைத்து வைத்து இந்த "குஷ்"  இலங்கைக்கு கொண்டு வந்துள்ளார்.
+
+05 கிலோ 278 கிராம் எடையுடைய இந்த "குஷ்" கஞ்சா 36 தனித்தனியாக பொதி செய்யப்பட்ட பொதியில்  அடைக்கப்பட்டிருந்தது.
+
+தாய்லாந்தின் பாங்காக்கில் இருந்து எயார் ஏசியா விமானம் FD-140 இல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+
+◼️
+
+[Data](articles/ed22319e.json)
+
+---
+
+### Club dancer nabbed with Kush at BIA
+
+*2024-05-09 11:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Club-dancer-nabbed-with-Kush-at-BIA/108-282235) · `en`
+
+Katunayaka, May 9 (Daily Mirror) - A 32-year-old club dancer who attempted to smuggle a stock of Kush worth Rs. 500 million into the country was arrested at the Bandaranaike International Airport (BIA) yesterday by the officers of the Police Narcotics Division.
+
+Following investigations by the Narcotics Division officials, the stock of Kush was found concealed inside his luggage.
+
+The suspect had attempted to smuggle the Kush weighing 5 kg (278g), packed in 36 parcels.
+
+He arrived at the airport on AirAsia flight FD-140 from Bangkok, Thailand.
+
+The Police Narcotics Bureau is conducting investigations into the incident.
+
+◼️
+
+[Data](articles/d03cd33b.json)
+
+---
+
+### ඩයනාගෙන් පුරප්පාඩු වූ අසුන ගැන මැතිවරණ කොමිසමට දැනුම්දෙයි
+
+*2024-05-09 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196428) · `si`
+
+ඩයනා ගමගේ මහත්මියගේ මන්ත්‍රී ධුර‍ය අහෝසි වීම හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ධුරයක පුරප්පාඩුවක් පවතින බව පාර්ලිමේන්තුව මැතිවරණ කොමිෂන් සභාවට දැනුම් දී තිබේ.
+
+සමගි ජන බලවේගයේ ජාතික ලැයිස්තුපාර්ලිමේන්තු මන්ත්‍රී ඩයනා ගමගේ මහත්මියගේ  පාර්ලිමේන්තු මන්ත්‍රී ධුරය 2024 මැයි 08 වැනි දින සිට බල පැවැත්වෙන පරිදි අහෝසි වීම හේතුවෙන් නව වැනි පාර්ලිමේන්තුවේ මන්ත්‍රීධුරයක පුරප්පාඩුවක් ඇති වී තිබෙන බව පාර්ලිමේන්තු, මහ ලේකම් කුෂානි රෝහණධීර මහත්මිය  මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා වෙත ලිපියක් යොමු කරමින් දන්වා ඇත.
+
+1981 අංක 1 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 64(1) වගන්තිය ප්‍රකාරව මෙම දැනුම්දීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/aca99959.json)
+
+---
+
+### Sajith is the reason for all the problems
 
 *2024-05-09 11:04:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பிரச்சினைகளுக்கும்-சஜித்-தான்-காரணம்-ரணில்/175-337015) · `ta`
 
-நாடு எதிர்நோக்கும் பிரச்சினைகளுக்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவே முழுப்பொறுப்பேற்க வேண்டும் என்று கூறிய ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஏப்ரல் 10 ஆம் திகதி பிரேமதாச பிரதமராக பதவியேற்றிருந்தால் பிரச்சினை ஏதும் ஏற்பட்டிருக்காது என தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe suggested that appointing Sajith Premadasa as Prime Minister could solve the country's problems, emphasizing the need for a parliamentary debate on these issues.
 
-சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் ஆற்றிய விசேட அறிக்கை தொடர்பில் ஜனாதிபதியிடம் சில விளக்கங்களை கோரியபோதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-"இந்த விவகாரங்கள் குறித்து பாராளுமன்றத்தில் விவாதம் நடத்துவது நல்லது என்று நான் நினைக்கிறேன். இது குறித்து பல்வேறு கருத்துக்கள் உள்ளன.
+President Ranil Wickremesinghe said that the opposition leader Sajith Premadasa should be fully appointed to the problems faced by the country and said that if Premadasa was sworn in as Prime Minister on April 10, there would be no problem.
 
-இந்த அனைத்துப் பிரச்சினைகளுக்கும் அவர் முழுப்பொறுப்பேற்க வேண்டும் என நான் எதிர்க்கட்சித் தலைவிடம் கூற விரும்புகிறேன். ஏப்ரல் 10 ஆம் திகதி அவர் பிரதமராக பதவியேற்றிருந்தால், எந்தப் பிரச்சினையும் இல்லை. இந்த பிரச்சினைகள் நான் என் திறனுக்கு ஏற்றவாறு இந்தப் பிரச்சினைகளைக் கையாண்டு செயல்படுகிறேன்," என்று ஜனாதிபதி கூறினார்.
+Sajith Premadasa made this statement when he asked the President some explanations on the special report made in Parliament today.
+
+“I think it is better to have a debate in Parliament on these issues. There are various ideas on this.
+
+I would like to tell the opposition leader that he should fully address all these issues. If he was sworn in as Prime Minister on April 10, there was no problem. These issues are dealing with these issues to suit my ability, ”the President said.
 
 ◼️
 
 [Data](articles/33c78ac3.json)
+
+[Extended Data](ext_articles/33c78ac3.ext.json)
 
 ---
 
@@ -63,6 +123,8 @@ Subsequent investigations have uncovered that the suspect had smuggled the cigar
 ◼️
 
 [Data](articles/5338581c.json)
+
+[Extended Data](ext_articles/5338581c.ext.json)
 
 ---
 
@@ -82,21 +144,59 @@ Sabry said Sri Lanka has banned foreign ships for research purpose though they h
 
 [Data](articles/2105ba68.json)
 
+[Extended Data](ext_articles/2105ba68.ext.json)
+
 ---
 
-### ”சுங்கத்தை டிஜிட்டல் மயமாக்க வேண்டும்”
+### විශ්‍රාම ගැනීම ගැන තීරණයක් නෑ -චමරි
+
+*2024-05-09 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196427) · `si`
+
+තමා ක්‍රිකට් ක්‍රීඩාවෙන් විශ්‍රාම යන්නේද? නැත්ද? යන්න සම්බන්ධයෙන් කතා කිරීමට මෙය සුදුසු අවස්ථාව නොවන බව ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවසුවාය.
+
+එසේම ඒ සම්බන්ධයෙන් තමා තවමත් තීරණයක් ගෙන නොමැති බවත් ඇය කීවාය.
+
+"සමහර විට වෙන්නත් පුළුවන් නොවෙන්නත් පුළුවන්. මම ඒ ගැන තවම තීරණය කර නැහැ..."
+
+ඇය පවසන්නේ එළඹෙන 20යි 20 කාන්තා ක්‍රිකට් තරගාවලිය හොඳින් කිරීම කණ්ඩායමේ අරමුණ බවයි.
+
+එළඹෙන කාන්තා 20යි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලබාගැනීමට හැකිවීම සම්බන්ධයෙන් තම කණ්ඩායම ඉතා සතුටට පත්වන බවද ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායමේ නායිකා චමරි අතපත්තු පැවසුවාය.
+
+පසුගියදා ඩුබායි හි පැවති 20යි 20 ලෝක කුසලාන තරගාවලියට සුදුසුකම් ලැබීමේ තරගාවලිය ජය ගැනීමට ශ්‍රී ලංකා ක්‍රීඩිකාවෝ සමත් වුවෝය.
+
+ජයග්‍රාහී ශ්‍රී ලංකා කාන්තා ක්‍රිකට් කණ්ඩායම අද (09) උදෑසන මෙරටට පැමිණියේය.
+
+බංග්ලාදේශයේදී පැවැත්වෙන 20යි 20 ලෝක කුසලාන තරගාවලියට පෙර ශ්‍රී ලංකා කාන්තා කණ්ඩායම තවත් තරගාවලි 3කට පමණ සහභාගී වීමට නියමිතය.
+
+◼️
+
+[Data](articles/627ddba4.json)
+
+---
+
+### "Customs should be digitized"
 
 *2024-05-09 10:58:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்தை-டிஜிட்டல்-மயமாக்க-வேண்டும்/175-337014) · `ta`
 
-ஏற்றுமதியை எளிதாக்கும் மற்றும் வாழ்க்கைச் செலவைக் குறைக்கும் காகித மூலமற்ற வர்த்தகத்தை உறுதி செய்வதற்காக, இலங்கை சுங்கம் உள்ளிட்ட எல்லை முகவர்களால் வழங்கப்படும் சேவைகளை அரசாங்கம் முழுமையாக டிஜிட்டல் மயமாக்க வேண்டும்.
+"Digitizing customs services is crucial for reducing export costs and living expenses. Despite Sri Lanka Customs' digital progress during the pandemic, reverting to manual processes post-pandemic led to corruption, delays, and increased costs. The Global Shippers Forum President urges complete digitalization to prevent market share loss to countries offering full digital services, citing India and Bangladesh as examples."
 
-தொற்றுநோய் காலத்தில் இலங்கை சுங்கம் சீராக இயங்கி, முழுமையாக டிஜிட்டல் மயமாக்கப்பட்ட சேவைகளை வழங்கிய போதிலும், தொற்றுநோய்க்கு பிந்தைய காலத்தில், ஏஜென்சி கைமுறை செயல்முறைக்கு திரும்பியதானது, தாமதங்கள் மற்றும் கூடுதல் செலவுகளுடன் ஊழலுக்கு இடமளிக்கிறது.
+🟩
 
-“தொடர்ந்து வரும் அரசாங்கங்களுக்கு டிஜிட்டல் மயமாக்கலுக்குச் செல்வதற்கான உந்துதல் மற்றும் தொலைநோக்குப் பார்வை இல்லை. துறைமுகப் போக்குவரத்துச் செலவில் உருவாகும் ஒவ்வொரு ரூபாயும் உங்களிடம் திரும்ப வந்து சேரும். இது வாடிக்கையாளருக்கு அனுப்பப்படுகிறது, எனவே வாழ்க்கைச் செலவும் அதிகரித்து செல்கிறது.
+The government must completely digitize services offered by border agents, including Sri Lanka Customs, to ensure that the cost of exports and the cost of living is to be reduced.
+
+Although Sri Lanka's customs are steadily operating and fully digitalized services during the epidemic, the agency returned to the manual process in the post -infection period, causing corruption with delays and additional expenses.
+
+“Continuing governments do not have the motivation and vision of going to digitalization. Each rupee that is formed at port's transportation cost will come back to you. It is sent to the customer, so the cost of living is increasing.
+
+With this media briefing, we urge the government to implement a complete digitalization, as this is not a neglecting issue in today's global economy, ”said Global Shippers Forum President Sean Wan Dard.
+
+He warned that Sri Lankan exporters would lose their market share in exports as other countries in the region would come up with full digital services.
 
 ...
 
 [Data](articles/eefc1af8.json)
+
+[Extended Data](ext_articles/eefc1af8.ext.json)
 
 ---
 
@@ -142,6 +242,8 @@ The President said this when Sajith Premadasa requested some clarifications from
 
 [Data](articles/a3b02d99.json)
 
+[Extended Data](ext_articles/a3b02d99.ext.json)
+
 ---
 
 ### Luis Rubiales to stand trial over World Cup kiss
@@ -167,6 +269,8 @@ Mr Rubiales, 46, has strenuously denied wrongdoing, saying the kiss was consensu
 ...
 
 [Data](articles/e4b76e96.json)
+
+[Extended Data](ext_articles/e4b76e96.ext.json)
 
 ---
 
@@ -284,17 +388,23 @@ On April 04, the Colombo District Court issued an enjoining order preventing for
 
 ---
 
-### டயானா கமகேயின் எம்.பி பதவி வெற்றிடம் அறிவிப்பு
+### Diana Kamage's MP post announces vacuum
 
 *2024-05-09 10:29:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டயானா-கமகேயின்-எம்-பி-பதவி-வெற்றிடம்-அறிவிப்பு/175-337010) · `ta`
 
-டயானா கமகே எம்.பி பதவிக்கு தகுதியற்றவர் என உயர்நீதிமன்றம் தீர்ப்பளித்ததையடுத்து, பாராளுமன்ற உறுப்பினர் பதவி வெற்றிடமாகியுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன பாராளுமன்றத்தில் அறிவித்தார்.
+Mahinda Yapa Abeywardena announced in Parliament that Diana Kamage's MP seat is vacant due to the Supreme Court's ruling that she is unfit for the position. This has left the parliamentary seat empty since May 8.
 
-பாராளுமன்ற ஆசனம் நேற்று (மே 8) முதல் வெற்றிடமாகியுள்ளதாக அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
+
+Speaker Mahinda Yapa Abeywardena announced in Parliament that the Supreme Court ruled that Diana Kamage was incapable of MP.
+
+He told Parliament that the parliamentary seat has been a vacuum since yesterday (May 8).
 
 ◼️
 
 [Data](articles/74121071.json)
+
+[Extended Data](ext_articles/74121071.ext.json)
 
 ---
 
@@ -419,6 +529,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.01 perc
 ◼️
 
 [Data](articles/dc21229a.json)
+
+[Extended Data](ext_articles/dc21229a.ext.json)
 
 ---
 
@@ -2143,85 +2255,5 @@ CIPM Sri Lanka—the Nation’s leader in human resource management—awarded go
 [Data](articles/691bc1d4.json)
 
 [Extended Data](ext_articles/691bc1d4.ext.json)
-
----
-
-### Millions of women in Galle bans the assets
-
-*2024-05-08 20:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196409) · `si`
-
-The Galle Division Criminal Investigation Bureau has banned millions of persons in Galle, including a woman, due to unrevealed earnings. A four-story building and land in Galle and Akmeemana, valued at Rs. 120 million, are involved. Future judicial actions are planned.
-
-🟩
-
-Police have banned millions of persons in a woman in Galle.
-
-The Galle Division Criminal Investigation Bureau has been banned due to the unability to reveal the earnings.
-
-The market value of the property has been worth around Rs. 120 million, police said.
-
-It is said that the police say that a four storied building in Dadalla, Galle belonging to the Galle Dadalla, Galle and a land and pepper land in Akmeemana.
-
-Police states that the judicial measures are to be taken regarding the property in the future.
-
-◼️
-
-[Data](articles/c51bed77.json)
-
-[Extended Data](ext_articles/c51bed77.ext.json)
-
----
-
-### CSE in initial surge as Browns Investments buys some overseas Lipton Plantations
-
-*2024-05-08 20:47:00* · [`islandlk`](http://island.lk/cse-in-initial-surge-as-browns-investments-buys-some-overseas-lipton-plantations/) · `en`
-
-The stock market kicked off on a positive note yesterday after an announcement that Browns Investments had signed an agreement with Ekaterra Holdco, a UK company, to purchase Lipton plantations in Kenya, Tanzania and Rwanda this year.
-
-Due to that, LOLC Group shares moved up significantly but later profit- takings were noted when it was realized that those plantation companies are underperforming entities, market analysts said.
-
-Further profit takings were also noted in Banking sector counters as well. Both indices showed mixed reactions. All Share Price Index was down by 22.25 points while the S and P SL20 was up by 4.8 points. Turnover stood at Rs 2.25 billion with five crossings.
-
-...
-
-[Data](articles/50f5a70d.json)
-
-[Extended Data](ext_articles/50f5a70d.ext.json)
-
----
-
-### 54-year-old shot dead in Ahungalla
-
-*2024-05-08 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/54-year-old-shot-dead-in-Ahungalla/108-282187) · `en`
-
-A 54-year-old man was shot dead by two unidentified men who arrived on a motorcycle and opened fire in Bogahapitiya, Ahungalla tonight.
-
-Police said the victim was shot at while he was at his residence.
-
-The deceased has been identified as a resident of Ahungalla.
-
-Ahungalla Police are conducting an investigation to determine the cause of the shooting and identify the suspects.
-
-◼️
-
-[Data](articles/3b1ee9e1.json)
-
-[Extended Data](ext_articles/3b1ee9e1.ext.json)
-
----
-
-### Shooting in Ahungalla leaves one person dead
-
-*2024-05-08 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99089/shooting-in-ahungalla-leaves-one-person-dead) · `en`
-
-One person was shot dead by unidentified gunmen in Bogahapitiya area of Ahungalla on Wednesday evening (08), the police said.
-
-Reportedly, the victim has succumbed to injuries upon admission to the Balapitiya Base Hospital.
-
-◼️
-
-[Data](articles/45864c87.json)
-
-[Extended Data](ext_articles/45864c87.ext.json)
 
 ---

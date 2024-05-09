@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 17:18:16**
+As of **2024-05-09 17:33:46**
 
 ## Newspaper Stats
 
-*Scraped **22,980** Articles*
+*Scraped **22,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 1,326
 dailyftlk | 1,331
 adalk | 1,947
 tamilmirrorlk | 2,689
-adaderanalk | 2,695
+adaderanalk | 2,696
 virakesarilk | 3,418
 dailymirrorlk | 3,609
-adaderanasinhalalk | 3,676
+adaderanasinhalalk | 3,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-22,980 (100.0%) of 22,980 articles have been extended.
+22,982 (100.0%) of 22,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Diana gets to mouth
+
+*2024-05-09 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196442) · `si`
+
+Diana Gamage, a former Sri Lankan state minister, lost her parliamentary seat and faced a ban order from the Colombo Magistrate Court.
+
+🟩
+
+Watch out below, the loss of MP Diana Gamage, who lost the Parliament's seat, watch the following.
+
+Mrs. Diana Gamage, who was a state minister, has decided not to seated in Parliament of Sri Lanka yesterday (08).
+
+Meanwhile, the Colombo Magistrate Court today (09) issued a banned order today (09).
+
+◼️
+
+[Data](articles/70589273.json)
+
+[Extended Data](ext_articles/70589273.ext.json)
+
+---
+
+### SC begins hearing of petitions against proposed Electricity Bill
+
+*2024-05-09 16:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99112/sc-begins-hearing-of-petitions-against-proposed-electricity-bill) · `en`
+
+The hearing of the petitions filed before the Supreme Court seeking an order declaring that certain clauses of the Sri Lanka Electricity Bill, submitted by the government to the Parliament recently, are in violation of the Constitution commenced today (09).
+
+The petitions were taken up for hearing before a three-member Supreme Court judge bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne and Arjuna Obeysekera.
+
+Additional Solicitor General Viveka Siriwardena, who appeared for the Attorney General at the start of the hearing of the petitions, emphasized that the government has presented this bill intending to make the generation, distribution and sale of electricity efficient while providing a convenient service to the consumers.
+
+Following the oral submissions by the Additional Solicitor General, the attorneys representing the petitioners had commenced presenting facts.
+
+...
+
+[Data](articles/7ee6cfd9.json)
+
+[Extended Data](ext_articles/7ee6cfd9.ext.json)
+
+---
 
 ### Applications are invited for answer sheet inspectors
 
@@ -296,9 +338,13 @@ The policy was later reversed, but the move hit diplomatic ties with Middle East
 
 Investigations carried out so far have revealed that six Sri Lankans sent to Russia by human traffickers to join the military have died, Police Media Spokesman DIG Nihal Thalduwa said.
 
-Meanwhile, the Police Spokesman also assured that further investigations are in progress to find out the exact number of individuals involved with the matter.
+Meanwhile, two other Sri Lankans who joined Ukrainian forces by illegal means have also been confirmed dead, the police said.
 
-◼️
+The Police Spokesman also assured that further investigations are in progress to find out the exact number of individuals involved with the matter.
+
+Further, the police revealed that investigations have revealed that 60 Sri Lankans have been sent to Russia and 23 Sri Lankans have been sent to Ukraine so far by human traffickers, to be deployed in the Ukraine-Russia conflict.
+
+...
 
 [Data](articles/6c7788fe.json)
 
@@ -2277,45 +2323,5 @@ They have played 12 matches, which have only four matches.
 [Data](articles/ee7fcca1.json)
 
 [Extended Data](ext_articles/ee7fcca1.ext.json)
-
----
-
-### Former Chief Executive Secretary of the Drug Regulatory Authority arrested
-
-*2024-05-09 09:53:42* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-නියාමන-අධිකාරියේ-හිටපු-ප්‍රධාන-විධායක-නිලධාරී-අල්ලයි/11-409514) · `si`
-
-The former CEO of the National Drug Regulatory Authority was arrested by the CID after an 11-hour questioning session. The arrest followed his statement and the distribution of billions of rupees in Indian hospitals. The investigation involves allegations of corruption and the distribution of 'Ritukolobin' to nerve patients.
-
-🟩
-
-Former Chief Executive Officer of the National Drug Regulatory Authority, the CEO of the National Drug Regulatory Authority yesterday (08)) Was arrested at night.
-
-He was arrested by the CID after questioning over the past 11 hours.
-
-He was arrested by the CID after making a statement from the CID and distribution of prizes in the CID and distribute to the correspondingment of billions of rupees and distribution of prizes in the Indian hospitals.
-
-According to the CID calling for the CID, the Investigations Officers have been arrested by the Dr. Wijodha Gunasekera, who appeared in the case with regard to the CID.
-
-...
-
-[Data](articles/40777e0e.json)
-
-[Extended Data](ext_articles/40777e0e.ext.json)
-
----
-
-### President Ranil delivers special statement in Parliament
-
-*2024-05-09 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99097/president-ranil-delivers-special-statement-in-parliament) · `en`
-
-President Ranil Wickremesinghe arrived in Parliament this morning (09) shortly after the commencement of the parliamentary session.
-
-President Wickremesinghe delivered a special statement in the Parliament on the present economic situation in the country.
-
-◼️
-
-[Data](articles/dfcd6e9a.json)
-
-[Extended Data](ext_articles/dfcd6e9a.ext.json)
 
 ---

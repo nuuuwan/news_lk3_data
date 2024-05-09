@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-09 23:03:12**
+As of **2024-05-09 23:18:31**
 
 ## Newspaper Stats
 
-*Scraped **23,035** Articles*
+*Scraped **23,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,243
 economynextcom | 1,326
 dailyftlk | 1,331
-adalk | 1,958
+adalk | 1,959
 tamilmirrorlk | 2,694
-adaderanalk | 2,701
+adaderanalk | 2,702
 virakesarilk | 3,424
 dailymirrorlk | 3,622
 adaderanasinhalalk | 3,690
@@ -26,11 +26,27 @@ adaderanasinhalalk | 3,690
 
 Extensions include translations and NER (Named Entity Recognition).
 
-23,035 (100.0%) of 23,035 articles have been extended.
+23,035 (100.0%) of 23,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-09 (Thursday)
+
+### Two Italians arrested over attempt to smuggle endemic insects from Yala National Park
+
+*2024-05-09 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99118/two-italians-arrested-over-attempt-to-smuggle-endemic-insects-from-yala-national-park) · `en`
+
+Two Italian nationals who had allegedly attempted to smuggle hundreds of endemic insects and plants collected from the Yala National Park to a foreign country, have been arrested in the Katagamuwa area.
+
+The officers of the Wildlife Conservation Office in Katagamuwa have apprehended the suspects on Wednesday (08).
+
+The wildlife officers stated that they seized a large number of jars in which the suspects had collected around 285 insects including butterflies endemic to Sri Lanka and other endemic plants.
+
+◼️
+
+[Data](articles/1ce71132.json)
+
+---
 
 ### World Cup
 
@@ -641,6 +657,24 @@ The Secretary-General of Parliament informed the Election Commission that a Parl
 [Data](articles/3b668b92.json)
 
 [Extended Data](ext_articles/3b668b92.ext.json)
+
+---
+
+### වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනයට
+
+*2024-05-09 19:30:08* · [`adalk`](https://www.ada.lk/breaking_news/වසර-28කට-පසුව-විදුලි-සංදේශ-නියාමන-පනත-සංශෝධනයට/11-409537) · `si`
+
+වසර 28කට පසුව විදුලි සංදේශ නියාමන පනත සංශෝධනය කිරීම සඳහා වන සංශෝධිත පනත් කෙටුම්පත හෙට දින (10) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට කටයුතු කරන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+
+එසේම ජාතික සයිබර් ආරක්ෂණ පනත මැයි මාසයේදී කෙටුම්පත් කිරීමට සැලසුම් කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (09) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩි දුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා මෙසේද සඳහන් කළේය,
+
+...
+
+[Data](articles/44caf3b5.json)
 
 ---
 
@@ -2259,49 +2293,5 @@ The US purchasing price of the US is 293.8242 and the sales price at Rs 303.3789
 [Data](articles/92f30e8b.json)
 
 [Extended Data](ext_articles/92f30e8b.ext.json)
-
----
-
-### யாழ். Special strategy in Chavakachcheri
-
-*2024-05-09 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/183045) · `ta`
-
-Today, a special operation was conducted in the Navaarkuzhi region under the Jaffna Police Division. The operation involved searches by the police and the Special Task Force along A-9 and A-32 roads. The country's police chief, Patriot Tennakoon, is actively working to control drugs nationwide.
-
-🟩
-
-யாழ்ப்பாணம் சாவகச்சேரி பொலிஸ் பிரிவுக்குட்பட்ட நாவற்குழிப் பிரதேசத்தில் இன்று (09) வியாழக்கிழமை காலை யுக்திய சோதனை நடவடிக்கை முன்னெடுக்கப்பட்டது.
-
-It is noteworthy that the police and the Special Task Force were searched by the A-9 and A32 roads.
-
-It is noteworthy that the police chief of the country, Patriot Tennakoon, is in the process of controlling drugs throughout the country.
-
-◼️
-
-[Data](articles/ef63f474.json)
-
-[Extended Data](ext_articles/ef63f474.ext.json)
-
----
-
-### Warning announcement of strong lightning in several areas
-
-*2024-05-09 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196433) · `si`
-
-The Department of Meteorology warns of strong lightning in Western, Sabaragamuwa, South, Eastern, Uva, and Matale districts. The public is advised to be cautious of thundershowers.
-
-🟩
-
-The Department of Meteorology has issued an announcement in powerful lightning.
-
-The Department of Meteorology announces that there is a risk of striking lightning in the Western, Sabaragamuwa, South, Eastern, Uva and Matale districts.
-
-The public is also seen in this statement that the people of these areas could be temporary to be aware of thundershowers.
-
-◼️
-
-[Data](articles/eaf7ec37.json)
-
-[Extended Data](ext_articles/eaf7ec37.ext.json)
 
 ---
